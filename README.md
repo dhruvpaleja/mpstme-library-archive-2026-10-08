@@ -1,6 +1,6 @@
 # MPSTME Library — private cloud archive
 
-Cloud backup verified. The local cleanup result, when available, is recorded in `local-cleanup-summary.json` in the complete release.
+Cloud backup verified. Local cleanup: **complete**; 40,788 inventoried file paths removed.
 
 Snapshot: **8 October 2026**. **41,166 logical file paths** and **13,198 directory paths** are recorded with their original hierarchy. This includes raw folder ZIPs, organized papers, syllabi, audit records and duplicate logical paths. These totals are not unique portal document counts.
 
