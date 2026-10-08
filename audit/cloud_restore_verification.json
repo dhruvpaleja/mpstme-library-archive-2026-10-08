@@ -1,0 +1,12 @@
+{
+  "bundle": "library-raw-2024-2025-004.zip",
+  "verified_at": "2026-10-08T14:26:30.547197+00:00",
+  "method": "Restored a locally cached copy of a GitHub digest-verified bundle into an isolated folder; independently rehashed every restored original package. This did not test a fresh network download.",
+  "verified_files": [
+    {
+      "relative_path": "00_Original_Downloads/2025/Semester IV/76668__Final-Exam.zip",
+      "sha256": "701f76be7e2e658fc7168ebe07f64df1e25c87ac74b44e05b61768f73c16eb07",
+      "bytes": 546581961
+    }
+  ]
+}
