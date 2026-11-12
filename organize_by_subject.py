@@ -823,18 +823,22 @@ def md_cell(text):
 
 
 def write_catalog(records, index_dir=INDEX_DIR):
-    """Regenerate subjects/: master README, one README per subject, and the CSV index."""
-    if index_dir.exists():
-        for child in index_dir.iterdir():
-            if child.is_dir():
-                shutil.rmtree(child)
-            else:
-                child.unlink()
-    index_dir.mkdir(parents=True, exist_ok=True)
+    """Regenerate subjects/: master README, one README per subject, and the CSV index.
+
+    Folders of subjects that no longer exist are removed; in current subject folders only README.md is
+    rewritten, so question text written there by build_question_bank.py is kept."""
     by_subject = defaultdict(list)
     for record in records:
         by_subject[record['subject']].append(record)
     folders = subject_folders(by_subject)
+    current = set(folders.values())
+    if index_dir.exists():
+        for child in index_dir.iterdir():
+            if child.is_dir() and child.name not in current:
+                shutil.rmtree(child)
+            elif child.is_file():
+                child.unlink()
+    index_dir.mkdir(parents=True, exist_ok=True)
     with (index_dir / INDEX_CSV.name).open('w', encoding='utf-8', newline='') as stream:
         writer = csv.DictWriter(stream, fieldnames=CSV_FIELDS)
         writer.writeheader()
@@ -872,6 +876,11 @@ def write_catalog(records, index_dir=INDEX_DIR):
             '```', '',
             f'Files land in `D:/Study/{TREE_NAME}/{folder}/<academic year>/`. Identical copies of one paper '
             '(the portal often files the same PDF under several programmes) are placed once.', '',
+            'Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (every paper in full, '
+            'newest first), [`questions.jsonl`](questions.jsonl) (one record per question with marks, year, exam, '
+            'semester and department) and [`papers.jsonl`](papers.jsonl) (one record per paper). Answer keys, where '
+            'the portal published them, are in `answer_keys.md`. See '
+            '[`question_bank/README.md`](../../question_bank/README.md) for the fields.', '',
         ]
         if filed_as:
             lines += ['Also filed as: ' + ', '.join(f'`{md_cell(x)}`' for x in filed_as), '']
@@ -899,7 +908,7 @@ def write_catalog(records, index_dir=INDEX_DIR):
         lines += ['', f'Full original paths are in [`pyq_subject_index.csv`](../{INDEX_CSV.name}). '
                   'If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun '
                   '`python organize_by_subject.py catalog`.', '']
-        (index_dir / folder).mkdir()
+        (index_dir / folder).mkdir(exist_ok=True)
         (index_dir / folder / 'README.md').write_text('\n'.join(lines), encoding='utf-8')
 
     total_unique = len({r['sha256'] for r in records})
