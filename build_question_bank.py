@@ -382,6 +382,7 @@ MARKS_END = re.compile(
     r'|[0O]?(\d{1,2}(?:\.\d)?)\s*[\])}]'                                     # 04]  5)
     r'|(?<=\s{3})(\d{1,2}(?:\.5)?)'                                           # number alone in a marks column
     r'|\b(\d{1,2})\s*(?:m|marks)\b\.?'                                        # 5M  10 marks
+    r'|(?<=[.?):\]’\'"]\s)(\d{1,2}(?:\.5)?)'                                  # "... rank. 6" on scanned papers
     r'|(?<=\s)([0O][1-9S]))\s*$', re.I)                                       # zero-padded "04", OCR "OS" = 05
 SEPARATOR = re.compile(r'^\s*(OR|\(?OR\)?)\s*$', re.I)
 
