@@ -10,6 +10,8 @@ python organize_by_subject.py restore --destination D:/Study --subject "3D Print
 
 Files land in `D:/Study/PYQs_By_Subject/3D Printing/<academic year>/`. Identical copies of one paper (the portal often files the same PDF under several programmes) are placed once.
 
+Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (every paper in full, newest first), [`questions.jsonl`](questions.jsonl) (one record per question with marks, year, exam, semester and department) and [`papers.jsonl`](papers.jsonl) (one record per paper). Answer keys, where the portal published them, are in `answer_keys.md`. See [`question_bank/README.md`](../../question_bank/README.md) for the fields.
+
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final-Exam | Answer key | Sem 5, Sem 9 | BTech AI 7012, BTech Computer 7002, BTech CyberSecurity 7010, BTech EXTC 7006, Integrated Computer 7032, Integrated DS 7038, Integrated IT 7037, MBATech Computer 7047, MBATech DS 7052, MBATech IT 7041 | ANS_3D Printing(702ME0I002)_2025-2026.pdf |

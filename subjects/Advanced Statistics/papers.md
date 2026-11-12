@@ -1,0 +1,655 @@
+# Advanced Statistics: question papers in full
+
+3 unique papers · 2022-23 to 2023-24 · Data Science
+
+Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2023-24 · Final + Re-Exam · paper 664d082f5e1d
+
+- Departments: Data Science
+- Programmes: M TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/DATA SCIENCE/SEM II FALL SEMESTER/ADVANCED STATISTICS/Advance Statistics Batch 2023-24 Final Batch 2022-23 Re Exam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 24/ 4 /2024
+- Text: ocr (2 pages), mean OCR confidence 88.6
+
+````text
+SVKMW’?S:'NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2023-2024 |
+Program/s: M. Tech Year: TL Semesters: pia
+Stream/s : Data Science (Business Analytics) -
+Subject: Advanced Statistics Time: 3 hrs C2zo0pm to Si 3 00pm)
+Date: 24/ 4 /2024 . No. of Pages: 42
+Marks: 100 AS
+
+Final Examination / Re. Exa7n fie 22-2 BY
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question ‘No. i is compulsory. “ ell
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+
+a. To compare the teaching effectiveness of 4 teaching methods, the
+semester average based on 4 midterm exams from six randomly selected
+students enrolled in each teaching method were used.
+
+1. What is the response in this study?
+2. How many replicates are there?
+3. Write the appropriate null and alternative hypotheses.
+po 4. Develop ANOVA result for SSteaching_method = 380, SStota= 575,
+Ferit = 3.0983 and make your conclusion.
+
+b. | Identify the plot given in the following diagram. Write a short note and
+
+interpret.
+0.4
+
+» 0.3.
+a
+
+g \
+
+= 0.2 \
+o. \
+a0 ‘
+
+Moa \
+
+0 mnerercr nate Spence Ppa Gon
+
+0 2 4 6 8 10
+Component Number
+
+com Justify the statement: Factor analysis is generally an
+exploratory/descriptive method whereas PCA is not limited to only
+exploration.
+--- page 2 ---
+Define Eigenvalue and Eigenvalues. Mention its applications.
+
+Q2
+
+Consider a fixed effect ANOVA model with single source of variation
+A. How is the total sum of square split between SSA and SSE.
+Explain Hypothesis testing procedure for Chi-Square Test of
+Independence. Mention any practical application.
+
+¥
+
+“1 120]
+
+Q3
+
+Describe the levels of randomness in missing data with suitable
+examples and describe the diagnostic tests for randomness.
+
+X~N, (u, 2) where X is unknown. Describe the procedure of testing Ho:
+H = Up vs H1: 4 #Mo based on random sample drawn from N, (u, 5).
+
+[20]
+
+Q4
+
+Explain the Fisher’s discriminant function in case of two population.
+Derive the population principal components if the covariance’matrix is
+as follows: .
+
+v_/18 5
+
+La ( 5 10 )
+Also calculate the proportion of total population variance explained by
+the first principal component and correlation coefficient between second
+variable and first principal component.
+
+{20}
+
+Q5
+
+Explain the term “Factor scores”. Describe method to determine factor
+scores. .
+
+Case study of Customer Relationship Management (CRM): In the
+context of a retail company's CRM strategy, suppose you have access to
+two sets of customer data:
+
+Set A: includes demographic information such as age, gender, income,
+and location.
+
+Set B: includes purchase behaviour data such as frequency of purchases,
+average transaction value, and product categories purchased.
+
+How can Canonical Correlation Analysis (CCA) be utilized to enhance
+the company's understanding of the relationship between customer
+demographics and purchasing behaviour?
+
+[20]
+
+a
+0
+
+What is cluster analysis? Explain various types of clustering techniques
+in brief. Write a procedure to obtain clusters through K means
+clustering.
+
+State and prove assumptions under which an AR(1) process is weakly
+stationary & weakly dependent.
+
+[20]
+````
+
+## 2022-23 · Final-Exam · paper 4350d9e9f68c
+
+- Departments: Data Science
+- Programmes: M TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/DATA SCIENCE/SEM II FALL SEMESTER/ADVANCED STATISTICS/Advanced Statistics Batch 2022-23 Final0001.pdf`
+- Text: ocr (4 pages), mean OCR confidence 83.5
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+
+Academic Year: 2022-2023
+Program/s:__M.Tech___
+Stream/s:___Data Science__
+Subject:____ Advanced Statistics
+
+Date:_O2 [tag 2023
+
+Marks:___100.
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___is compulsory.
+
+2) Out of remaining questions, attempt any
+3) In all___4_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+3 questions.
+--- page 2 ---
+a)
+b)
+¢)
+d)
+
+f)
+8)
+h)
+i)
+i)
+k)
+I)
+
+p)
+
+q)
+
+r)
+
+Write down the expression of elastic net regularizor.
+State the Gauss Markov Theorem
+State the null hypothesis in the fixed effect one-way classified model.
+
+Write down the F-test statistic and the rejection criteria of the fixed effect one-way classified
+model. Assume, number of observations to be n and number of populations to be k.
+
+Let y, be a time series with the below ACF and PACF plots.
+Autocorrelation Partial Autocorrelation
+
+100
+
+O75
+
+050
+
+025
+
+0.00
+
+0.25
+0.50.
+0.75.
+
+Hy 200 400 600 800 1000 0 Pe 40 @ ey 300
+
+Which model is preferred in such case?
+
+Let X, ~ I(d,) and Y, ~ I(dz) & d, < dz. What is the order of integration of a.X; + b.¥;?
+How remove the yearly seasonality in a monthly time series data?
+
+Define cross loading in factor analysis.
+
+What is the difference between orthogonal and oblique factor model?
+
+Define the first pair of canonical variables.
+
+State the discriminant function in Bayes Minimum Error classifier.
+
+Consider bayes minimum error classifier with normality assumption. Under which consider the
+decision surface becomes orthogonal of the mean vectors but not a bisector?
+
+Consider a time series model ¥, = 4. ¥;_, + €. Is this a stationary process?
+What test would you use to check if your data is symmetric and mesokurtic?
+
+Suppose, correlation coefficient between two random variables X & Y is 0.1. What is the
+correlation coefficient between 2+x & 1—2y?
+
+If the p-value of ADF test ona time series Y; is 0.2, what would you conclude and how will you
+proceed?
+
+Let the calibrated linear regression model of Y on X is Y = a + B.X. If you perform Ramsey-Reset
+test on this which gives a p-value of 0.3, what would be your conclusion?
+
+If the below figure represents the Q-Q plot on your residuals, what would be your conclusion?
+
+9 .
+”
+2
+
+3?
+ga
+fe
+i
+
+H
+Theoretical Quantites
+
+Poe 2
+--- page 3 ---
+™
+
+2,
+
+t)
+
+a)
+
+b)
+
+Consider the regression model specification: Y = By + By.X1 + Bz.Xz + B3.X3 + By. Xz. lf the VIF
+numbers are given by
+
+Features VIF
+xX, 1.2450
+X2 3.2930
+X3 11.9200
+X4 2.3400
+
+Which regressor can be linearly explained by the other regressors most significantly?
+
+Below are two scatter diagrams of two different sets of bivariate data.
+
+» Me, 6 Ong
+
+| aia
+
+oe 4
+
+; baa 2
+
+2 ~
+
+o : |
+2 4 6 8 10 7 : > ‘ : ; ,
+
+cone) oh, Corr(X,Y) = Rz
+
+Which one of Ry & Rz is greater?
+
+Consider the regression equation: y = By + ByX1 + B2X2t+... +BaXq + €. Which regularization
+matches with the MAP estimation of the parameters? Prove that.
+
+Suppose there are k different categories of a single source of variation as shown below.
+
+“Populations 4} ¥
+Ay V1,11 Y1,20 + Ving
+Az Y2,11V2,29 + V2,nz
+Aj Vie Vizr er Vij or Ving
+Ax Viet» Vie 20 +1 Vieng
+
+Using conventional naming, define the fixed effect ANOVA model with assumptions. Find the
+design matrix.
+
+Consider a MANOVA model with single source of variation with k different categories and p be the
+number of variables. Define the Wilk’s test statistics.
+
+Pox 2,
+
+12
+--- page 4 ---
+a)
+b)
+
+b)
+
+a)
+b)
+
+Express an MA(1) model in terms of AR(co).
+
+State the assumptions under which an AR(1) process is weakly stationary and weakly dependent.
+Prove the same under these assumptions.
+
+State all the assumptions of orthogonal EFA model. Prove that the covariance structure remains
+same after orthogonal factor rotation.
+
+How to compute the communalities from the loading matrix?
+
+Write down the steps to compute the loader matrix using principal component method.
+
+State and prove condition under which the Bayes Minimum Error classifier is same as Bayes
+Minimum Risk Classifier.
+
+Consider Bayes minimum error classifier. If the var-cov matrix of the class conditional distribution
+is ¢*.I, prove that the discriminant function is linear. Also find the decision boundary.
+
+Write down the assumptions and hypotheses of Wilcoxon test.
+
+At @ = 0.05, test the claim that the median wait time in the city restaurant is less than 12 minutes.
+Use the below data for testing.
+
+[ Time taken in minutes | 11.2 | 9.1 | 13.5 | 10.0 | 11.9 | 10.7 | 11.3 | 11.1 | 12.1 ] 10.6 |
+
+Use the below Binomial table for p-value calculation.
+
+002 .001 .000 .000 .000 .000 .000 000 .000 .000
+018. .008 .004 .001 .000 .000 .000 .000 000 .000
+070 .041 .021 .010 004 .001 .000 000 .000 .000
+164 116 .074 .042 .021 .009 .003 .001 .000 .000
+246 «213 167.118 «074 «=.039 017 =.005 —.001 000
+246 260 251 219 172 117 066 028 007 001
+164° 212) 251 272.267 107.045 = .008
+070.111 161 216 267 260 172.063
+018 .034 060 100 156 .225 .302 368 367 .299
+002 005 010 .021 .040 .075 134 232 387 .630
+
+9 0} 914 630 .387 .232 .134 075 .040
+1] 083 .299 387 .368 302 225 .156
+2] 003 .063 172 .260 302 300 .267
+3] 000 .008 .045 107 176 234 .267
+4] 000 001 007 028 066 117 .172
+S| 000 .000 .001 .005 .017 .039 .074
+6] 000 .000 .000 .001 .003 .009 021
+7] 000 .000 .000 .000 .000 001 .004
+8} 000 .000 .000 .000 .000 .000 .000
+9] 000 .000 .000 .000 .000 .000 .000
+
+10 O| 904 S99 349 197 .107 056 .028 .014 .006 .003 001 .000 .000 .000 .000 .000 000 000 .000 .000
+4] 091 .315 .387 347 .268 188 .121 .072 040 .021 010 .004 .002 .000 .000 .000 .000 .000 .000 .000
+2| 004 075 .194 .276 302 .282 .233 176 .121 076 .044 .023 .011 .004 001 .000 .000 .000 .000 .000
+3] 000 010 .057 130 .201 .250 .267 .252 215 .166 .117 075 .042 .021 009 .003 .001 000 .000 .000
+4} 000 00+ .011 040 .088 148 200 .238 .251 .238 205 .160 .111 .069 037 016 0066 001 .000 .000
+S| .000 .000 .001 008 .026 .058 .103 154 .201 234 .246 .234 .201 .154 .103 .058 .026 008 001 .000
+6 | .000 .000 .000 001 .006 .016 037 069 .111 160 .205 .238. .251 .238 .200 .146 .088 .040 011 .001
+7| .000 .000 .000 .000 .001 003 .009 021 042 075 117 .166 215 .252 .267 .250 .201 1130 .057 .010
+8] .000 .000 .000 000 .000 000 .001 .004 011 .023 .044 076 121 .176 233 .282 302 .276 .194 07.
+
+10| 1000 {000 000 000 000 000 000 .000 000 .000 001 003 006 .014 028 056 ‘107 197 349.599
+
+14
+
+12
+
+14
+
+16
+````
+
+## 2022-23 · Re-Exam · paper bd021b754665
+
+- Departments: Data Science
+- Programmes: M TECH / DATA SCIENCE
+- Source: `02_Question_Papers/Legacy/M TECH/1ST YEAR/DATA SCIENCE/SEM II FALL SEMESTER/ADVANCED STATISTICS/Advanced Statistics Batch 2022-23 Re Exam0001.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (4 pages), mean OCR confidence 83.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program/s: M.Tech ___ Year:__I Semester: IL
+
+Stream/s:___Data Science__
+
+Subject: Advanced Statistics
+Date:_27 /_ @ / 2023
+Marks: 100.
+
+Re Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___is compulsory.
+(2) Out of remaining questions, attempt any __3____questions.
+3) In all___4_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Pose |
+--- page 2 ---
+f)
+8)
+h)
+i)
+i)
+k)
+I)
+
+p)
+
+q)
+
+Which regularizor can be used for feature selection?
+
+Let y = Bo + BX, + B2X2+... +BaXq + € be a regression model. Under which condition Bors is
+same as Buyg ?
+
+State the distributional assumption in the fixed effect one-way classified model.
+
+Write down the F-test statistic and the sampling distribution of the fixed effect one-way classified
+model. Assume, number of observations to be n and number of populations to be k.
+
+Let y, be a time series with the below ACF and PACF plots.
+
+Autocorrelation Partial Autocorrelation
+100 10
+075
+08
+050
+06
+0.25
+0.00 04
+0.25 02
+-0.50
+00
+-0.75
+0 200 400 600 800 1000 0) 20 40 0 £0 100
+
+Which model is preferred in such case?
+
+Let X, ~ I(d) and Y, ~ I(d). What are the possible orders of integration of a.X; + b.Y; ?
+How remove the monthly seasonality in a bi-weekly time series data?
+
+Define communality in factor analysis.
+
+What is the difference between orthogonal and oblique factor rotation?
+
+Define the first pair of canonical variables.
+
+State the discriminant function in Bayes Minimum Risk classifier.
+
+Consider bayes minimum error classifier with normality assumption. Under which consider the
+decision surface becomes orthogonal bisectors of the mean vectors?
+
+Consider a time series model Y, = 0.04. Y;_1 + €. Is this a stationary process?
+Write down the Jarque-Bera test statistics.
+
+Suppose, correlation coefficient between two random variables X & Y is 0.1. What is the
+correlation coefficient between 2— 3x & 1+2y?
+
+If the p-value of PP test ona time series Y; is 0.008, what would you conclude and how will you
+proceed?
+
+Let the calibrated linear regression model of Y on X is Y = a+ £.X. If you perform Ramsey-Reset
+test on this which gives a p-value of 0.003, what would be your conclusion?
+
+Page y
+--- page 3 ---
+r)
+
+t)
+
+b)
+
+If the below figure represents the Q-Q plot on your residuals, what would be your conclusion?
+
+”
+
+Consider the regression model specification: Y = By + By-X1 + B2.X2 + B3.X3 + Bq. Xz, If the VIF
+numbers are given by
+
+Features VIF
+Xy 6.7200
+X2 3.2930
+X3 21.9600
+X4 4.3400
+
+Which regressor can be linearly explained by the other regressors most significantly?
+
+The following figure presents the residual plot of a simple linear regression Y = a+B.X +e.
+
+3
+
+2 °
+s
+1 ° ee .* e
+® oo ®@ °
+& ye? oP Sats o*,
+of oe P80 Mee? 8% 2 Fd 8 2 ot
+°
+gat Sor %,2?
+ee e
+at % °
+e
+2
+3 T T T r
+2 4 6 8 10
+
+If White test is performed on this, what outcome would you expect?
+
+Consider the regression equation: y = By + BX; + B2X2+... +BaXa + €. Find the loss function
+of the maximum a posteriori estimation of the parameters. Which regularization technique does it
+
+match with?
+Consider a fixed effect ANOVA model with single source of variation A. How is the total sum of
+
+square split between SSA & SSE ?
+
+Find out how should the ACF & PACF plots look like for AR(1) & MA(1) models.
+
+pam 2
+
+2
+
+2
+
+12
+
+8
+
+14
+--- page 4 ---
+By
+
+b)
+
+b)
+
+b)
+
+Express an MA(1) model in terms of AR(0o).
+
+State all the assumptions of orthogonal EFA model. Find the relation between the variance-
+covariance matrix of the variables and the loading matrix for an orthogonal EFA model.
+
+How to compute the eigen values from the loading matrix?
+
+Write down the steps to compute the loader matrix using principal component method.
+
+State and prove condition under which the Bayes Minimum Error classifier is same as Bayes
+Minimum Risk Classifier.
+
+Consider Bayes minimum error classifier. If the var-cov matrix of the class conditional distribution
+is same for all the classes, prove that the discriminant function is linear. Also, find the decision
+boundary.
+
+Write down the assumptions and hypotheses of Wilcoxon test.
+
+At a = 0.05, test the claim that the median wait time in the city restaurant is less than 12 minutes.
+Use the below data for testing.
+
+[ Time taken in minutes | 11.2 [9.1 | 13.5 [10.0] 11.9 | 10.7 | 11.3] 11.1] 12.1] 106]
+
+Use the below Binomial table for p-value calculation.
+
+9 0} 914 630 387 .232 .134 075 .040 .021 .010 .005 .002 .001 .000 .000 .000 000 000 .000 .000 .000
+1} 083.299 387 368 =.302 «225 156.100 060 034 .018 .008 .004 .001 000 .000 000 .000 .000 .000
+2| 003 .063 .172 .260 .302 .300 .267 216 .161 111 070 .041 021 .010 .004 001 .000 000 .000 .000
+3] 000 .008 045 107 176 234 267 272 251 212 164 116 074 .042 .021 .009 .003 001 .000 000
+4] 000 001 007 028 066 117 172 219 251 260 246 .213 167 .118 074 .039 .017 .005 .001 .000
+5| 000 .000 .001 005 017 039 074 118 167 213 246 .260 .251 219 172 117 .066 .028 007 001
+6] 000 .000 .000 .001 003 009 .021 .042 074 116 164 .212 .251 .272 267 .234 .176 107 .045 .008
+7} 000 .000 .000 .000 .000 001 004 010 .021 041 070 111 .161 216 .267 300 .302 260 .172 .063
+8} 000 .000 .000 .000 .000 .000 .000 .001 .004 008 018 .034 .060 .100 156 .225 302 368 387 .299
+9} 000 .000 .000 .000 000 .000 .000 .000 000 001 002 .005 010 .021 040 .075 134 .232 387 .630
+
+10 0} 904 599 349 .197 107 056 028 014 .006 .003 .001 .000 .000 .000 .000 .000 .000 .000 000 .000
+1] 091 315 387 347.268 «188.121 072, 040.021 010 004 002 .000 000 .000 .000 000 .000 .000
+2) 004 075 .196 276 302 282 .233 176 121 076 044 .023 011 .004 001 .000 occ 000 000 .000
+3} 000 010 057 130 201 .250 .267 252 .215 166 .117 .075 .042 .021 .009 003 .001 .000 .000 .000
+4] 000 .001 .011 040 .088 146 .200 238 .251 238 205 .160 .111 .069 037 016 .006 001 .000 .000
+5| 000 .000 .001 008 .026 .058 .103 .154 .201 .234 .246 .234 .201 154 .103 058 026 .008 .001 .000
+6| 000 .000 .000 .001 .006 016 037 .069 111 160 205 238 .251 .238 .200 .146 .088 040 011 001
+7| 000 .000 .000 .000 .001 003 009 021 .042 075 117 .166 .215 252 .267 .250 201 .130 057.010
+8| 000 .000 000 000 .000 000 001 004 O11 023 044 076 121 .176 .233 282 302 276 .194 .07.
+9] 000 .000 000 .000 .000 .000 .000 .000 .002 004 010 .021 040 .072 121 .188 .268 347 387 315
+10| 000 .000 .000 .000 .000 .000 .000 .000 .000 000 001 .003 006 014 028 056 107 197 349 .599
+
+Page x
+
+12
+
+14
+
+16
+````

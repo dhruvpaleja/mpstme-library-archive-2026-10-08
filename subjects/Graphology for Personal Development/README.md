@@ -10,6 +10,8 @@ python organize_by_subject.py restore --destination D:/Study --subject "Grapholo
 
 Files land in `D:/Study/PYQs_By_Subject/Graphology for Personal Development/<academic year>/`. Identical copies of one paper (the portal often files the same PDF under several programmes) are placed once.
 
+Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (every paper in full, newest first), [`questions.jsonl`](questions.jsonl) (one record per question with marks, year, exam, semester and department) and [`papers.jsonl`](papers.jsonl) (one record per paper). Answer keys, where the portal published them, are in `answer_keys.md`. See [`question_bank/README.md`](../../question_bank/README.md) for the fields.
+
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B TECH, B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CIVIL, B TECH / COMPUTER, B TECH / CSE CYBER SECURITY, B TECH / CSE DATA SCIENCE (311), B TECH / DATA SCIENCE, B TECH / EXTC, B TECH / IT, B TECH / MECHANICAL, B TECH / MECHATRONICS, B.TECH INTEGRATED, MBA TECH | Graphology for Personal Development ,Final 2023-2024.pdf |

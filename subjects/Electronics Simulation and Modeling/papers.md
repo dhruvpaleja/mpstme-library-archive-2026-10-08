@@ -1,0 +1,152 @@
+# Electronics Simulation and Modeling: question papers in full
+
+1 unique papers · 2010-11 to 2010-11 · Electronics and Telecommunication
+
+Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2010-11 · Exam not stated · Trim 6 · paper 11c493718ab7
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM VI/ELECTROIC SIMULATION AND MODELING/ELECTRONICS SIMULATION AND MODELING 2010-11.pdf`
+- Printed on paper: duration hours: 3; exam date: 12/05/2011
+- Text: ocr (3 pages), mean OCR confidence 89.0
+
+````text
+(‘>
+
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management &
+
+Programme: MBA (TECH)-Telecom Year: II Trimesthr:
+Academic Year : 2010-2011 \
+
+Subject: Electronics Simulation & Marks:
+Modeling Time: A@ie a =o oe
+
+Date: 12/05/2011 Duration: 3 hrs.
+
+Final - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB: :
+1. Question No. 1 is compulsory.
+2. Out of the remaining questions, attempt any four.
+3. Inall, 5 questions to be attempted.
+4, Answer to each new question should begin on a fresh page.
+5. Figures in brackets on the right hand side indicate full marks
+6. Assume necessary suitable data if required, but state it clearly.
+
+Qi a_ What do you understand by a discrete event simulation model? Explain its components
+and organization with the aid of a flow control diagram. Explain time advance
+
+mechanisms in a discrete event simulation. (10)
+
+Qib Explain the following functions of simlib:
+; i) out_sampst() ii) timest() iii) filest(Q) (05)
+Qle Compare simulation packages with programming languages (05)
+
+Q2a_ Consider queuing theory being applied to a practical problem concerning tool cribs. Two
+attendants manage the tool cribs while mechanics, assumed to be from an infinite calling
+population, arrive for service. Assume Poisson arrivals at the rate of 3 mechanics per minute and
+exponentially distributed service times with mean 30 seconds. Compute the server utilization and
+the steady state parameters of this system. (08)
+
+Q2b Write a code in simlib for a single server queuing system. Add suitable comments to aid
+the explanation of your code. (12)
+
+Q3a A milling machine has three different bearings that fail in service. The distribution of life
+of each bearing is identical, as shown in Table I. When a bearing fails, the mill is stopped and a
+repairperson is called to install a new bearing. The delay time of the repairpersons arrival is a
+random variable distributed according to Table II. Downtime of the mill costs Rs. 10/minute.
+
+Yo
+--- page 2 ---
+The direct on-site cost of the repair person is Rs. 30/hour. It takes 20 minutes to change one
+bearing, 30 min. to change two bearings and 40 min. to change all three. A proposal to replace all
+bearings upon a single failure is under investigation. The total cost per 10,000 bearing hours is to
+be used 2 a performance measure. If each bearing costs Rs. 32, compare the two systems. The
+
+random variables associated with each bearing are listed in Table III. (15)
+Bearing
+Life : Cumulative Random Digit
+(Hours) Probability Probability Assignment
+1000 8.10 0.10 O1-10
+1100 0.13 0.23 11-23
+£200 0.25 0.48 24-48
+1300 0.13 0.61 49-61
+1400 0.09 0.70 62-70
+1500 0.12 0.82 71~82
+1600 0.02 0.84 83-84
+1700 0.06 0.90 85-90
+1800 0.05 0.95 91~95
+1900 0.05 1.00 96-00
+Delay Time Cumulative Random Digit
+(Minutes) Probability Probability Assignment
+5 0.6 0.6 1-6
+10 03 09 7-9
+15 0.1 1.0 0
+
+Bearing | | 67 | 55 | 98 | 76 | 53 | 69 | 80 | 93 | 35 | 02 | 99 | 65 | 53 | 87 | 90
+Bearing 2 | 71 | 21 | 79 | 88 | 93 | 77 | 08 | 21 | 13 | 03 | 14 | 05 | 29 | 07 | 20
+| Bearing 3 | 18 | 17 | 65 | 03 | 54/17/19 | 09 | 61 | 84/11 | 25 | 86 | 65 | 44
+Delay! |7 [3 |1 |6 {4 [8 |5 |7 {0 |5 {9 |4 |7 |1 [2
+Delay2 {8 |3 |/3 (1 |0 |6 {9 {8 [3 {2 |1 |0 {2 |4 |3
+| Delay3 {6 |2 {2 |9 {8 {3 [6 |7 |1 {0 {5 [2 [8 }3 [4
+
+Q3b Explain Monte Carlo Simulation Technique with an application. (05)
+
+Q4a_ What is the difference between model verification and model validation. Explain three-
+step approach for model validation in detail. (10)
+
+Q4b Consider the grocery store with one checkout counter. Let customer arrivals be
+distributed uniformly between 1 and 8 minutes. Let the service distribution be as follows:
+
+vA
+--- page 3 ---
+SY Service time (min) | 1 2 3 4 5 6
+
+Probability 0.10 | 0.15 | 0.17 | 0.25 | 0.23 | 0.10
+
+Using event scheduling approach, develop the simulation table and analysis for 10 customers.
+Random digits for interarrival time and service time are as follows:
+
+Customer 1 |2 3 |4 5 | 6 7 8 9 10
+R.D for inter-arrival time | - | 819 | 20 | 111 | 75 | 251 | 363 | 781 | 612 | 891
+R.D for Service Time 67 | 44 | 32|72 | 64;32 | 87 | 22 | 06 | 51
+Estimate the mean response time and the mean proportion of customers who spend five or more
+
+minutes in the system. (10)
+
+Q5a_ Explain any two methods for the generation of random numbers with a specified
+probability distribution. (06)
+
+Q5b Draw and explain the block diagram of a binary communication system. Write & explain
+a code in MATLAB to simulate the same. Plot BER vs. SNR curve (0 to 10 dB). (14)
+
+Q6a_ The transmission of a signal pulse with raised cosine spectrum through a channel results
+in the following noise free sampled output from the demodulator:
+
+0.5 k=-2
+
+0.1 k=-1
+
+1 k=0
+
+0.2 k=1
+
+0.05 k=2
+
+0 otherwise
+
+xX, =
+
+Determine the tap coefficients of a three-tap linear equalizer based on zero forcing
+criterion. For the set of coefficients obtained, determine the equalizer output for an isolated
+pulse. What is the residual ISI and its span in time? (12)
+
+Q6 b Discuss demodulation & detection of differentially encoded phase modulated signal (08)
+````

@@ -25,7 +25,7 @@ build needs only the standard library.
 from pathlib import Path, PurePosixPath
 from collections import Counter, defaultdict
 from concurrent.futures import ProcessPoolExecutor, as_completed
-import argparse, csv, gzip, hashlib, io, json, os, re, shutil, subprocess, sys, tempfile, threading, time, zipfile
+import argparse, csv, gzip, hashlib, io, json, math, os, re, shutil, subprocess, sys, tempfile, threading, time, zipfile
 
 HERE = Path(__file__).resolve().parent
 REPO = 'dhruvpaleja/mpstme-library-archive-2026-10-08'
@@ -85,7 +85,7 @@ def ocr_png(png_bytes):
                     continue
                 if value >= 0:
                     confidences.append(value)
-    return text, round(sum(confidences) / len(confidences), 1) if confidences else None
+    return text, round(math.fsum(confidences) / len(confidences), 1) if confidences else None
 
 
 def tidy(text):
@@ -369,8 +369,9 @@ TAGS = [
 ]
 QUESTION_START = re.compile(       # OCR reads "Q1" as "Ql"/"QI" and "Q5" as "QS"
     r'^(?:Q(?:ue(?:stion|s)?)?\s*\.?\s*(?:No\.?\s*)?|Q\s*)(\d{1,2}|[lIS](?=[\s.):]|$))\s*[.):\-]?\s*(.*)$', re.I)
-NUMBER_START = re.compile(r'^(\d{1,2})\s*[.)]\s+(\S.*)$')
+NUMBER_START = re.compile(r'^(\d{1,2})(?:\s*[.)]\s+|\s+(?=[A-Z(\[]))(\S.*)$')   # "1. Explain", "2) ...", "3 (a) ..."
 SUBQUESTION_START = re.compile(r'^(\d{1,2})\s*\)\s*(.*)$')          # "1)" inside "Q2 Attempt any 4"
+QPART_START = re.compile(r'^(?:Q\.?\s*)?(\d{1,2})\.?\(?([a-hA-H])\)?[\s._):]+(.*)$')   # "1.a", "1b", "2(a)", "Q3a"
 ROMAN_QUESTION = re.compile(r'^(I{1,3}|IV|VI{0,3}|IX|X)\s*[.)]\s+(\S.*)$')   # upper-case "II. Attempt any four"
 ROMAN_VALUE_Q = {'I': 1, 'II': 2, 'III': 3, 'IV': 4, 'V': 5, 'VI': 6, 'VII': 7, 'VIII': 8, 'IX': 9, 'X': 10}
 PART_START = re.compile(                   # (a)  a.  b)  "c   text"  "A Write"  and OCR forms ".B_ Write", "{c)", "B - Write"
@@ -385,6 +386,14 @@ MARKS_END = re.compile(
     r'|(?<=[.?):\]’\'"]\s)(\d{1,2}(?:\.5)?)'                                  # "... rank. 6" on scanned papers
     r'|(?<=\s)([0O][1-9S]))\s*$', re.I)                                       # zero-padded "04", OCR "OS" = 05
 SEPARATOR = re.compile(r'^\s*(OR|\(?OR\)?)\s*$', re.I)
+# A numbered line that is one of the paper's instructions, not a question.
+INSTRUCTION_TEXT = re.compile(
+    r'(?i)^\W*(?:question\s*(?:no\.?)?\s*\S{1,3}\s+is\s+compulsory|out of (?:the )?remaining|'
+    r'attempt any \w+(?: questions?)?\s*(?:out of|from)?\s*(?:the )?remaining|in all \w+ questions|'
+    r'all questions (?:carry|are compulsory)|answers? to (?:each|the|every) new question|'
+    r'figures? (?:to|in|on) the right|assume (?:any )?suitable|candidates? should|use of .{0,40}calculator|'
+    r'this question paper contains|each question (?:carries|is of)|draw neat .{0,40}wherever|'
+    r'(?:start|begin) each (?:new )?question)')
 
 
 def paper_header(text):
@@ -426,7 +435,7 @@ def number(text):
 
 
 # OCR renderings of the CO / SO / BL columns at the start of a line ("SO];", "BE?", "Biel", "C04,").
-LEADING_TAG = re.compile(r'^(?:[|!\[\]]\s*)*(?:[CG][O0o][\s\-–.:]*([\dlI]{1,2})|S[O0o][\s\-–.:]*[\dlI\]\[!|]{1,2}'
+LEADING_TAG = re.compile(r'^(?:[|!\[\]]\s*)*(?:[CG][O0o][\s\-–.:]*([\dlI]{1,2})|S[O0o](?:[\s\-–.:]*[\dlI\]\[!|]{1,2}|[\-–:])'
                          r'|P[O0][\s\-–.:]*\d{1,2}|B[LlIi1E][\s\-–.:]*([\d?Sel]{0,2})|ae|ee|Bee|See)(?=\W|$)\s*[;,:|]*\s*')
 
 
@@ -523,12 +532,41 @@ def parse_questions(text):
             if item is not None:
                 item['lines'].append('OR')
             continue
+        combined = QPART_START.match(line)
+        if combined:
+            previous = int(current['question']) if current else 0
+            label = combined.group(1)
+            if previous < int(label) <= previous + 3:
+                current = {'question': label, 'stem': [], 'marks': None, 'parts': []}
+                questions.append(current)
+                sub = ''
+            if int(label) == int(current['question']) if current else False:
+                item = None
+                new_item(combined.group(2).lower())
+                line, marks = take_marks(combined.group(3).strip())
+                if marks is not None:
+                    item['marks'] = marks
+                if line:
+                    item['lines'].append(line)
+                continue
         if q_style:
             match = QUESTION_START.match(line)
         elif roman_style:
             match = ROMAN_QUESTION.match(line)
         else:
             match = NUMBER_START.match(line)
+            alone = re.fullmatch(r'(\d{1,2})\W{0,2}', line)          # the next number alone on a line (table layout)
+            if not match and alone and int(alone.group(1)) == (int(current['question']) + 1 if current else 1):
+                match = re.match(r'(\d{1,2})()', line)
+        if match and not q_style and INSTRUCTION_TEXT.match(match.group(2)):
+            # A numbered instruction. Before any real question it means what came before were instructions too,
+            # so start over; after real questions (a closing note) just skip the line.
+            real = any(q['marks'] or any(p.get('marks') for p in q['parts'])
+                       or len(' '.join(q['stem'] + [l for p in q['parts'] for l in p['lines']])) > 200
+                       for q in questions)
+            if not real:
+                questions, current, item, sub = [], None, None, ''
+            continue
         if match:
             label = match.group(1)
             label = str(ROMAN_VALUE_Q[label]) if roman_style else {'l': '1', 'i': '1', 's': '5'}.get(label.lower(), label)
@@ -589,6 +627,10 @@ def parse_questions(text):
             (item['lines'] if item is not None else current['stem']).append(line)
     out = []
     for question in questions:
+        question['parts'] = [p for p in question['parts']
+                             if not (INSTRUCTION_TEXT.match(' '.join(p['lines'])) and len(' '.join(p['lines'])) < 160)]
+        if INSTRUCTION_TEXT.match(' '.join(question['stem'])) and not question['parts']:
+            continue
         stem = ' '.join(question['stem']).strip()
         parts = [p for p in question['parts'] if ' '.join(p['lines']).strip() or p.get('marks')]
         if not parts:
@@ -670,11 +712,16 @@ def extraction_summary(pages):
     confidences = [p['ocr_confidence'] for p in pages if p.get('ocr_confidence') is not None]
     method = 'ocr' if methods['ocr'] and not methods['text'] else 'text' if methods['text'] and not methods['ocr'] \
         else 'mixed' if methods['ocr'] else next(iter(methods), 'none')
-    return method, (round(sum(confidences) / len(confidences), 1) if confidences else None)
+    return method, (round(math.fsum(confidences) / len(confidences), 1) if confidences else None)
 
 
 def year_key(year):
     return int(year[:4]) if year[:4].isdigit() else 0
+
+
+def year_order(year):
+    """Sort key for academic years with a deterministic tie-break ('2025' before '2025-26')."""
+    return year_key(year), year
 
 
 def fence(text):
@@ -731,7 +778,7 @@ def build_subject(subject, papers, folder, texts, stats):
     for sha, copies in sorted(papers.items(), key=order):
         copies = sorted(copies, key=lambda r: r['path'])
         first = copies[0]
-        programmes = sorted({c['programme'] for c in copies}, key=str.lower)
+        programmes = sorted({c['programme'] for c in copies}, key=lambda p: (p.lower(), p))
         departments = sorted({department(p) for p in programmes})
         dept_papers.update(departments)
         if first['academic_year']:
@@ -761,7 +808,9 @@ def build_subject(subject, papers, folder, texts, stats):
             text = page_text(pages)
             header = paper_header(text)
             method, confidence = extraction_summary(pages)
-            stats[f'pages_{method}'] += len(pages)
+            for page in pages:
+                stats['pages_' + page['method']] += 1
+            stats['answer_keys_read' if first['kind'] == 'Answer key' else 'documents_read'] += 1
             doc = dict(paper, paper_id=sha[:12] + (f'-{number_in_file + 1}' if label else ''),
                        pages=len(pages), extraction=method, ocr_confidence=confidence,
                        **{k: header[k] for k in ('max_marks', 'duration_hours', 'exam_date') if k in header})
@@ -798,7 +847,7 @@ def build_subject(subject, papers, folder, texts, stats):
                 dept_questions.update({d: len(parsed) for d in departments})
             paper_lines.append(json.dumps({k: doc[k] for k in PAPER_FIELDS if doc.get(k) not in (None, '', [])},
                                           ensure_ascii=False))
-    span = (f'{min(years, key=year_key)} to {max(years, key=year_key)}' if years else 'years not stated')
+    span = (f'{min(years, key=year_order)} to {max(years, key=year_order)}' if years else 'years not stated')
     depts = [d for d, _ in dept_papers.most_common()]
     intro = [f'# {subject}: question papers in full', '',
              f'{len(papers)} unique papers · {span} · {", ".join(depts)}', '',
@@ -818,8 +867,8 @@ def build_subject(subject, papers, folder, texts, stats):
         (folder / name).write_text(''.join(line + '\n' for line in lines), encoding='utf-8')
     return {'subject': subject, 'departments': depts, 'papers': len(papers), 'questions': len(question_lines),
             'dept_papers': dept_papers, 'dept_questions': dept_questions,
-            'first_year': min(years, key=year_key) if years else '',
-            'last_year': max(years, key=year_key) if years else ''}
+            'first_year': min(years, key=year_order) if years else '',
+            'last_year': max(years, key=year_order) if years else ''}
 
 
 def write_department_pages(dept_subjects):
@@ -888,8 +937,9 @@ def write_bank_readme(stats, summary, dept_subjects):
         '(input for `python build_question_bank.py build`).', '',
         '## Coverage', '',
         f'- {len(summary):,} subjects in {len(dept_subjects)} departments.',
-        f'- {stats["question_papers_read"]:,} question papers read: {stats["pages_text"] + stats["pages_docx"]:,} pages '
-        f'from the PDF text layer, {stats["pages_ocr"] + stats["pages_mixed"]:,} pages by OCR (scanned papers).',
+        f'- {stats["question_papers_read"]:,} question papers and {stats["answer_keys_read"]:,} answer keys read: '
+        f'{stats["pages_text"] + stats["pages_docx"]:,} pages from the PDF text layer and {stats["pages_ocr"]:,} '
+        'scanned pages by OCR.',
         f'- {stats["questions"]:,} questions and sub-questions extracted; {stats["questions_with_marks"]:,} with marks. '
         f'{split:,} papers ({100 * split / read:.0f}%) split into 3 or more questions; the rest are kept as full text '
         'in papers.md.',

@@ -1,0 +1,901 @@
+# Statistics and Numerical Methods: question papers in full
+
+2 unique papers · 2021-22 to 2021-22 · Mechanical
+
+Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2021-22 · Final-Exam · Sem 6 · paper d6dde0c0d751
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/MECHANICAL/Sem_06/STATISTICS AND NUMERICAL METHODS/Statistics and Nurmerical methods 2021-22 Final0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 06 April 2022
+- Text: ocr (6 pages), mean OCR confidence 81.7
+
+````text
+“4 SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG H
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEER
+
+Academic Year: 2021-22
+
+Programme: B.Tech Integrated (Mechanical) Year: Ill Semester: VI
+Subject: Statistics and Numerical Methods
+
+Marks: 100 ;
+Date: 06 April 2022 Time: 10.00 am - 01.00 pm
+
+Durations: 3 (Hrs)
+No. of Pages: __&
+Final Examination
+
+‘nstructions: Candidates should read carefully the instructions printed on the question paper and on the
+
+cover of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+CO-1 La.
+
+SO-1 Q Write down general error formula for three variable function f(x, y,z). [2]
+BL-1
+
+CO-1 b.
+
+SO-1 Calculate initial interval to solve equation xe* —1=0. / [2]
+BL-3
+
+CO-1 c. | Rearrange following equations to apply Gauss Seidel method:
+
+- 2
+cS 4x—y—z=3,-x+y+72=—6,-2x4+6ytz=9. 2]
+CO-2 d. ;
+
+SO-1 Compute A*(x). [2]
+BL-2 7
+
+CO-2 ® | Write down formula for wy at x=x, using Newton’s forward
+
+SO-1 . a [2]
+BL-1 interpolation.
+
+603 f. | Identify which numerical integration rules (Trapezoidal/Simpson’s 1/3"
+
+So- 1 /Simpson’s 3/8) are applicable to solve integration over [a,b] when [2]
+BL-1 number of subintervals are 24.
+
+CO-1 g. | State Taylor’s series expansion to find numerical value of y at x when
+
+SO- 1 _ [2]
+BL-l (0) =0.
+
+[1/6]
+--- page 2 ---
+h. | 15.5% of arandom sample of 1600 undergraduates were smokers whereas
+
+CO-3 20% of a random sample of 900 postgraduates were smokers in a state.
+3
+
+; To test the claim that more no. of undergraduates are smokers than the 3]
+
+postgraduates, identify p,, p,, null and alternative hypothesis.
+CO-3 i
+SO- 1 Identify type of correlation when coefficient of correlation r = 0.9,0,-0.8. [3]
+BL-1 :
+CO-1 Q. 2 a. | Compute root of an equation x? -2x-—5 =0 using Bisection method. (5 (6)
+SO-1
+BL-3 iterations)
+
+b. | Estimate absolute, relative and percentage error if e° is approximated to
+
+CO-1
+SO-2 3 significant digits. Also calculate truncation error by considering three [6]
+BL-2 ;
+
+terms in expansion of e*.
+aaa c. | Use Gauss Jordon method to solve the system:
+
+S 8
+BL-3 x+3y+2z=2, 2xt+7y+7z=-l, 2x+5y+2z2=7. 8]
+Co-1 | Q3a.
+
+SO-1 Estimate root of an equation cos x = 0 using Newton Raphson method. [6]
+BL-3
+
+b. | Compute value of y at x = 1895 using Newton’s forward difference _
+CO-2 formula.
+SO-1 {6]
+BL-2 x 1891 1901 1911 1921 1931
+
+y 46 66 81 93 101
+
+“ Compute value of a at x=2 using Newton’s backward difference
+CO-2
+SO-1 formula for derivative. [8]
+Ls x 14 1.6 1.8 2.0 22
+
+y 4.0552 | 4.9530 | 6.0496 | 7.3891 | 9.0250
+4a. ¢ :
+
+Co-2 ‘ Evaluate j de + by using Simpson’s 3/8" rule taking h=1. Also
+SO-1 ues [6]
+BL-5 estimate the absolute error.
+
+pb. | The mean breaking strength of cables supplied by a manufacturer is
+cos 1800 with SD of 100. By a new technique in the manufacturing process,
+SO-2 it is claimed that the breaking strength of the cable has increased. To test [6]
+BL-3 his claim, a sample of 50 is tested and it is found that the mean breaking
+
+strength is 1850. Can we support the claim at 1% LOS?
+
+[2/6]
+--- page 3 ---
+c. | Fit a parabola using following data:
+x° 1 2 3 4 5 6 7 8 9 [8]
+y 2 6 7 8 10 } 11} 11 | 10 9
+
+BL-3
+
+CcO-4 Q.5 a. | Use Euler’s method to find approximate value of y at x =1 in five steps
+
+SO-1 6
+BL-3 taking h=0.2 given B ox+y,y(0)=1. it
+kx
+
+b. | Samples of two types of electric bulbs were tested for length of life (in
+hours) and following data were obtained:
+
+CO-4 Size Mean SD
+
+§ SO-2 [6]
+i BL-6 Sample 1 8 1234 36
+. Sample 2 7 1036 40
+
+Test the claim that Type 1 bulbs are superior to Type 2 bulbs.
+
+ec. | Calculate Karl Pearson’s coefficient from following data using actual ~
+
+CO-3 mean method: ;
+$O-2 [8]
+BL-3 x 0 1 2 3 4 5
+y 2 5 8 9 10 11
+
+CO-1 Q.6 a. | Apply Runge-Kutta method of fourth order to find approximate value of
+SO-1 . . dy [6]
+BL-3 y at x=0.1 with 4=0.1, given that tMyal when x =0.
+
+b. | 300 digits were chosen at random from a table of random numbers. The
+a frequency of digits was as follows.
+50-2 Dist [0 |1 |2 13 1415 ]6 ]7 |8 |9 | Total [6]
+BL-3 Freq. | 28 | 29 |33 |31 |26 [35 [32 |30 [31 | 25 [300
+
+Test the hypothesis that digits were distributed uniformly.
+
+c. | The regression lines of a sample are x +6y =6 and 3x+2y=10.
+CO-3 Evaluate:
+SO-1 ; .. . [8]
+BL-2 ; (i) Sample mean (ii) Coefficient of correlation between x and y
+
+(iii) y when x = 12.
+
+[3/6]
+--- page 4 ---
+Standard Normal (Z) Table
+Area between 0 and z i
+
+| [0.00 | 0.01 | 0.02 | 0.03 | 0.04 [ 0.05 | 0.06 | 0.07 [0.08 | 0.09
+
+[0.0 0.0000 0.0040 0.0080 [0.0120 [0.0160 (0.0199 0.0239 [0.0279 [0.0319 0.0359
+Toa [0.0398 [0.0438 [0.0478 [0.0517 [0.0557 (0.0596 [0.0636 [0.0675 [0.0714 |0.0753
+0.2 [0.0793 [0.0832 [0.0871 [0.0910 [0.0948 |0.0987 (0.1026 0.1064 [0.1103 /0.1141
+[0.3 (0.1179 [0.1217 (0.1255 0.1293 0.1331 [0.1368 [0.1406 0.1443 [0.1480 [0.1517
+$ [ 04 [0.1554 [0.1591 |0.1628 [0.1664 [0.1700 [0.1736 0.1772 0.1808 0.1844 0.1879
+
+- [0.5 [0.1915 [0.1950 0.1985 [0.2019 [0.2054 [0.2088 [0.2123 [0.2157 [0.2190 [0.2224
+
+|
+To6 [0.2257 [0.2291 [0.2324 0.2357 [0.2389 [0.2422 [0.2454 [0.2486 [0.2517 |0.2549
+[0.7 [0.2580 [0.2611 [0.2642 [0.2673 [0.2704 [0.2734 [0.2764 [0.2794 | 0.2823 |0.2852
+[0.8 (0.2881 [0.2910 [0.2939 [0.2967 [0.2995 [0.3023 [0.3051 (0.3078 [0.3106 |0.3133
+Tos [03159 [03186 (0.3212 [0.3238 [0.3264 [0.3289 [0.3315 [0.3340 (0.3365 (0.3389
+
+[1.0 0.3413 /0.3438 0.3461 [0.3485 [0.3508 |0.3531 [0.3554 10.3577 0.3599 |0.3621
+
+11 [0.3643 |0.3665 (0.3686 10.3708 [0.3729 /0.3749 [0.3770 0.3790 0.3810 0.3830
+
+3907 0.3925 [0.3944 [0.3962 0.3980 [0.3997 |0.4015
+
+| 1.2 0.3849 [0.3869 [0.3888
+|0.4032 10.4049 0.4066
+“10.4192 [0.4207 0.4222
+P15 (0.4332 10.4345 (0.4357
+re | 5 Giaee toate | Toasas |
+[1.6 [0.4452 [0.4463 [0.4474 [0.4484 [0.4495 [0.4505 [0.4515 0.4525 0.4535 |0.4545
+[1.7 [0.4554 [0.4564 [0.4573 [0.4582 [0.4591 (0.4599 [0.4608 [0.4616 0.4625 [0.4633
+[1s [o.sea1 [0.4649 [0.4056 (0.4664 [0.4671 [0.4678 [0.4686 (0.4693 [0.4699 |0.4706
+a9 [0.4713 (0.4719 [0.4726 [0.4732 [0.4738 [0.4744 [0.4750 0.4756 0.4761 [0.4767
+20 [04772 [0.4778 [0.4783 [0.4788 [0.4793 [0.4798 [0.4803 | 0.4808 (0.4812 (04817
+[24 [0.4821 [0.4826 [0.4830 [0.4834 [0.4838 [0.4842 [0.4846 [0.4850 | 0.4854 | 0.4857
+[o486i [0.4864 [oases 0.4871 [0.4875 (0.4878 [0.4881 [0.4884 [0.4887 [0.4890
+[0.4893 [0.4896 0.4898 [0.4901 0.4904 [0.4906 [0.4909 [0.4911 [0.4913 [0.4916
+[0.4925 (0.4927 [0.4929 [0.4931 [0.4932 0.4934 |0.4936
+
+i T, “T ————- i rc
+
+[0.4943 [0.4945 [0.4946 [0.4948 0.4949 0.4951 |0.4952
+(0.4957 [0.4959 [0.4960 [0.4961 0.4962 0.4963 0.4964
+
+[0.4968 [0.4969 (0.4970 [0.4971 [0.4972 0.4973 |0.4974 |
+
+[0.4099 [0.4115 0.4131 (0.4147 0.4162 |0.4177
+(0.4251 | 0.4265 {0.4279 |0.4292 10.4306 | 0.4319
+[0.4382 0.4394 {0.4406 (0.4418 0.4429 [0.4441
+
+i
+
+10.4082
+
+| 2.4 0.4918 |0.4920
+25 [0.4938 |0.4940
+2.6 [0.4953 |0.4955
+| 2.7 10.4965 0.4966
+2.8 (0.4974 10.4975 (0.4976 [0.4977 (0.4977 (0.4978 [0.4979 0.4979 |0.4980 |0.4981
+4982 0.4983 (0.4984 [0.4984 [0.4985 0.4985 |0.4986 |0.4986
+
+[2.9 [0.4981 [0.4982
+————r [eee :
+[3.0 (0.4987 [0.4987 (0.4987 [0.4988 [0.4988 [0.4989 [0.4989 0.4989 0.4990 |0.4990
+
+C4/6]
+--- page 5 ---
+e
+STATISTICAL TABLES
+
+Degrees of
+freedom
+
+1
+2
+3
+14
+5
+
+400
+
+500
+600
+
+Two-tailed test:
+One-tailed test:
+
+iu gy ?
+
+Distnbution: Critical Value oft
+
+Significance level
+10% 5% 2% 1%
+5% 2.5% 1% 0.5%
+6.314 12.706 31.821 63.657
+2.920 4.303 6.965 9.925
+2.353 3.182 4.541 5.841
+2.132 2.776 3.747 4.604
+2.015 2.571 3.365 4.032
+1.943 2.447 3.143 3.707
+1,894 2.365 2.998 3.499 .
+1.860 2.306 2.896 3.355
+1.833 2.262 2.821 3.250
+1,812 2,228 2.764 3.169
+1,796 2.201 2.718 3.106
+1,782 2.179 2.681 3.055
+1771-2160 2,650 3.012
+1.761 2.145 2.624 2.977
+1.753 2.131 2.602 2.947
+1,746 2.120 2.583 2.921
+1.740 2.110 2.567 2.898
+1,734 2.101 2.552 2.878
+1,729 2.093 2.539 2.861
+1.725 2.086 2,528 2.845
+
+1.721 2.080 2.518 2.831
+1.717 2.074 2.508 2.819
+1.714 2.069 2.500 2.807
+L711 2.064 2.492 2.797
+1,708 2.060 2.485 2.787
+
+1,706 2.056 2.479 2.779
+1.703 2.052 2.473 2.771
+1,701 2,048 2.467 2,763
+1,699 2.045 2.462 2.756
+1,697 2.042 2.457 2.750
+
+1,694 2.037 2.449 2.738
+1,691 2,032 2.441 2.728
+1,688 2.028 2.434 2.719
+1.686 2.024 2.429 2.712
+1,684 2.021 2.423 2.704
+
+1.682 2.018 2.418 2.698
+1.680 2.015 2.414 2.692
+1.679 2.013 2.410 2.687
+1.677 2.011 2.407 2.682
+1.676 2.009 2.403 2.678
+
+1,671 2.000 2,390 2.660
+1.667 1.994 2.381 2.648
+1.664 ~ 1.990 2.374 2.639
+1.662 1.987 2.368 2.632
+1.660 1,984 2.364 2.626
+
+1,658 1.980 2.358 2.617
+1.655 1.976 2.351 2.609
+1.653 1,972 2.345 2.601
+1,650 1.968 2.339 2.592
+1,649 1,966 2.336 2.588
+
+1,648 1.965 2.334 2.586
+1.647 1.964 2.333 2.584
+
+1,645 1.960 2.326 2.576
+
+&/E
+
+0.2%
+0.1%
+
+318.309
+22.327
+10.215
+
+7173
+5.893
+
+5.208
+4,785
+4.501
+4,297
+4,144
+
+4.025
+3.930
+3.852
+3.787
+3.733
+
+3.686
+3.646
+3.610
+3.579
+3.552
+
+3.527
+3.505
+3.485
+3.467
+3.450
+
+3,435
+3.421
+3.408
+3.396
+3.385
+
+3.365
+3.348
+3,333
+3.319
+3.307
+
+3.296
+3.286
+3.277
+3.269
+3.261
+
+3.232
+3.211
+3.195
+3.183
+3.174
+
+3.160
+3.145
+3.131
+3.118
+3.111
+
+3.107
+3.104
+
+3.090
+
+0.1%
+0.05%
+
+636.619
+31.599
+12.924
+
+8.610
+6.869
+
+5.959
+5,408
+5.041
+4,781
+4.587
+
+4.437
+4.318
+4.221
+4.140
+4.073
+
+4.015
+3.965
+3.922
+3.883
+3.850
+
+3.819
+3.792
+3.768
+3.745
+3.725
+
+3.707
+3.690
+3.674
+3.659
+3.646
+
+3.622
+3.601
+3.582
+3.566
+3.551
+
+3.538
+3.526
+3.515
+3.505
+3.496
+
+3.460
+3.435
+3.416
+3.402
+3.390
+
+3,373
+3.357
+3.340
+3.323
+3.315°
+
+3.310
+3,307
+
+3.291
+--- page 6 ---
+Chi-square Distribution Table
+
+df. | .995 99.975 95 9 al 05 025 O01
+
+1{ 0.00 0.00 0.00 0.00 0.02 2.71 3.84 5.02 6.63
+2} 0.01 0.02 0.05 0.10 0.21 4.61 5.99 7.38 9.21
+3} 0.07 O11 0.22 0.35 0.58 6.25 7.81 9.35 11.34
+4] 0.21 030 048 0.71 1.06 7.78 9.49 11.14 13.28
+5 | 0.41 055 083 1.15 1.61 9.24 11.07 12.83 15.09
+6] 068 O87 1.24 164 220 1064 12.59 1445 16.81
+-7/ 099 124 169 217 283 12.02" 14.07. 16.01 18.48
+8| 134 165 218 2.73 349 13.36 15.51 17.53 20.09
+4 9] 1.73 2.09 2.76 333 4.17 1468 16.92 19.02 21.67
+* 10| 216 256 325 394 487 15.99 1831 2048 23.21
+11] 260 3.05 382 457 5.58 17.28 1968 21.92 24.72
+12| 3:07 3.57 440 523 630 1855 21.03 23.34 26.22
+13| 3.57 4.11 501 589 7.04 19.81 22.36 24.74 27.69
+14} 407 466 563 657 7.79 21.06 23.68 26.12 29.14
+15] 460 5.23 626 7.26 855 22.31 25.00 27.49 30.58
+16] 5.14 581 691 7.96 9.31 23.54 2630 28.85 32.00
+17| 5.70 641 7.56 867 10.09 24.77 27.59 30.19 33.41
+18 | 626 7.01 8.23 9.39 10.86 25.99 2887 31.53 34.81
+19 | 684 763 891 10.12 11.65 27.20 3014 32.85 36.19
+20| 7.43 8.26 9.59 1085 1244 2841 31.41 34.17 37.57
+22| 8.64 9.54 10.98 12.34 14.04 30.81 33.92 36.78 40.29
+24| 9.89 10.86 1240 13.85 15.66 33.20 36.42 39:36 42.98
+26 | 11.16 12.20 13.84 15.38 17.29 35.56 38.89 41.92 45.64
+28 | 12.46 13.56 15.31 16.93 18.94 37.92 41.34 44.46 48.28
+30 | 13.79 14.95 16.79 18.49 20.60 40.26 43.77 46.98 50.89
+32 [15.13 16.36 18.29 20.07 22.27 4258 46.19 49.48 53.49
+34 | 16.50 17.79 19.81 21.66 23.95 4490 48.60 51.97 56.06
+38 | 19.29 20.69 22.88 24.88 27.34 49.51 53.38 56.90 61.16
+42 | 22.14 23.65 26.00 28.14 30.77 54.09 58.12 61.78 66.21
+46 | 25.04 26.66 29.16 31.44 34.22 5864 62.83 66.62 71.20
+50 | 27.99 29.71 32.36 34.76 37.69 63.17 67.50 71.42 76.15
+55 | 31.73 33.57 36.40 38.96 42.06 6880 73.31 77.38 82.29
+60 | 35.53 37.48 40.48 43.19 46.46 7440 79.08 83.30 88.38
+65 | 39.38 41.44 44.60 47.45 50.88 79.97 84.82 . 89.18 94.42
+70 | 43.28 45.44 48.76 51.74 55.33 85.53 90.53 95.02 100.43
+75 | 47.21. 49.48 52.94 56.05 59.79 91.06 96.22 100.84 106.39
+80 | 51.17 53.54 57.15 60.39 64.28 96.58 101.88 106.63 112.33
+85 | 55.17 57.63 61.39 64.75 68.78 102.08 107.52 112.39 118.24
+90 | 59.20 61.75 65.65 69.13 73.29 107.57 113.15 118.14 124.12
+95 | 63.25 65.90 69.92 73.52 77.82 113.04 118.75 123.86 129.97
+100 | 67.33 70.06 74.22 77.93 82.36 118.50 124.34 129.56 135.81
+
+[6/6]
+````
+
+## 2021-22 · Re-Exam · Sem 6 · paper ec5ede3bb344
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/MECHANICAL/Sem_06/STATISTICS AND NUMERICAL METHODS/Statistics and Numerical Methods Batch 2021-22 Re Exam.pdf`
+- Printed on paper: duration hours: 3; exam date: 06 June 2022
+- Text: ocr (6 pages), mean OCR confidence 81.1
+
+````text
+.
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING if
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2021-22
+
+Programme: B.Tech Integrated (Mechanical) Year: Ill Semester: VI
+
+ject: istics and Numerical Methods
+Subject: Statistics Stetoee 485
+
+Date: 06 June 2022
+
+Durations: 3 (Hrs)
+No. of Pages:
+Re-Examination (2021-22)
+
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any .4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Time: 2.00 pm to 5.00 pm
+
+CO-1 Q.1a.| Write down general error formula for two variable function
+SO-1 [2]
+BL-1 SR Y=arY.
+CO-1 b.
+SO-1 Calculate initial interval to solve equation x* —3 =0. [2]
+BL-3
+CO-1 c. | Rearrange following equations to apply Gauss Seidel method.
+SO-1 a _ 7 + [2]
+BLS Sx-y-z=2,x-y+6z=7,2x+5y+z=8.
+CO-2 d.
+SO-1 Compute A?(x +1). [2]
+BL-2
+CO-2 * | Write down formula for wy at x=x, using Newton’s Backward
+
+f dx [2]
+SO-1
+BL-1 interpolation.
+Flas f. | Identify which numerical integration rules (Trapezoidal/Simpson’s 1/3
+So- 1 /Simpson’s 3/8") are applicable to solve integration over [a,b] when [2]
+BL-1 number of subintervals are 15.
+
+[1/6]
+--- page 2 ---
+CO-1 g. | State Runge-Kutta 2"4 order formula to find numerical value of y at x
+
+SO- 1 [2]
+
+when y(x9) = Yo-
+
+BL-1
+h.| A salesman in a departmental store claims that at least 60% of the
+CO- 3 shoppers entering in store leave without purchase. A random sample of
+a ; 50 shoppers showed that 35 of them left without making a purchase. To B)
+test his claim, identify parameters, null and alternative hypothesis.
+co-3 [i
+SO- 1 Identify type of correlation when coefficient of correlation r = 0.8,0,-0.5. [3]
+BL-1
+
+CO-1 Q. 2a. | Compute root of an equation 2x°-2x-5=0 using Bisection method.
+
+= (5 iterations) ”
+CO-1 b. | Estimate absolute, relative and percentage error if cos2 is approximated
+
+SO-2 to 4 significant digits. Also calculate truncation error by considering two [6]
+BL2 terms in expansion of cos x.
+
+CO-1 ¢. | Use Gauss Jordon method to solve the system:
+
+ao 2x+3y—z2=5, 3x+2ytz=10, x-Syt+3z=0. . [8]
+CO-1 Q.3 a. | Estimate root of an equation sin x—x =0 using Newton Raphson \
+a method with initial approximation x, = 2. (3 iterations ) (6]
+
+b. | Compute value of y at x =1925 using Newton’s backward difference
+
+CO-2 formula.
+
+SO-1 [6]
+BL-2 x 1891 1901 1911 1921 1931
+
+y 46 66 81 93 101
+“ Compute value of = at x=1.4 using Newton’s forward difference
+
+CO-2
+
+SO-1 formula for derivative. [8]
+Bi-2 x 14 16 18 2.0 2.2
+
+y 4.0552 | 4.9530 | 6.0496 | 7.3891 | 9.0250
+
+Cco-2 QAa Evaluate feta by using Simpson’s 3/8" rule taking h=1. Also estimate
+
+SO-1 0 [6]
+BL-5 the absolute error.
+
+an b. | The average marks scored by 32 boys is 72 with SD of 8, while that of
+
+SO-2 girls is 70 with SD of 6. Test at 1% LOS whether the boys perform [6]
+BL-3 better than the girls.
+
+[2/6]
+--- page 3 ---
+c. | Fit a parabola using following data:
+x.| 2 | 4 | 6 | 8 | 10 [8]
+y | 3 5 | 6 | 8 | 12
+
+co-4 Q.5 a. | Use Euler’s method to find approximate value of y at x= 0.1 in five
+[6]
+
+SO-1 . : dy
+BL-3 steps taking h=0.02 given ale y’, y(0)=1.
+Va
+b. | A soap manufacturing company was distributing a particular brand of
+co-4 soap through a large no. of retail shops. Before a heavy advertisement
+, SO-2 ~ | campaign, the mean sales per week was 140 dozen. After the campaign [6]
+j Bist a sample of 26 shops was taken and mean sale was found to be 147
+* dozen with SD of 16. Can you consider the mean sale is increased?
+c. | Calculate Karl Pearson’s coefficient from following data using actual
+CO-3 mean method:
+SO-2 [8]
+BL-3 x | 0 2 4 | 6 8 10 |
+, y | 2 5 8 | 9 10 11 |
+CO-1 Q.6 a. | Apply Runge-Kutta method of fourth order to find approximate value of
+SO-1 [6
+BL-3 y at x=1.1 with h=0.1 given that Pa st+y*,y=1s when x=1. is]
+ed b. | The number of car accidents in a metropolitan city was found to be
+SO-2 20,17,12,6,7,15,8,5,16 and 14 per month resp. Test the hypothesis that [6]
+BL-3 accidents are distributed uniformly.
+c. | The regression lines of a sample are 3x + 2y=26 and 6x+y=31.
+CO-3 Evaluate: '
+SO-1 . . . . [3]
+BL-2 (i) Sample mean (ii) Coefficient of correlation between x and y
+
+(iii) y when x = 2.
+
+[3/6]
+--- page 4 ---
+Standard Normal (Z) Table
+Area between 0 and z
+
+20F 2
+
+/ | 0.00 | 0.01 0.02 | 0.03 | 0.04 | 0.05 0.06 | 0.07 | 0.08 | 0.09
+| 0.0 [0.0000 [0.0040 (0.0080 0.0120 [0.0160 [0.0199 /0.0239 0.0279 [0.0319 [0.0359
+0.1 0.0398 10.0438 | 0.0478 7 (00557 (0.0596 (0.0636 (0.0675 (0.0714 [0.0753
+[0.2 (0.0793 (0.0832 0.0871 [0.0910 /0.0948 |0.0987 (0.1026 0.1064 [0.1103 /0.1141
+[03 [0.1179 [0.1217 [0.1255 |0.1293 [0.1331 [0.1368 [0.1406 0.1443 0.1480 |0.1517
+04 [0.1554 (0.1591 [0.1628 0.1664 (0.1700 |0.1736 (0.1772 [0.1808 0.1844 [0.1879
+05 [o19i5 (0.1950 [0.1985 [0.2019 |0.2054 |0.2088 [0.2123 |0.2157 0.2190 10.2224
+[0.6 [0.2257 (0.2291 0.2324 [0.2357 [0.2389 [0.2422 [0.2454 [0.2486 [0.2517 [0.2549
+[0.7 [0.2580 (0.2611 [0.2642 [0.2673 0.2704 (0.2734 [0.2764 [0.2794 | 0.2823 |0.2852
+[08 |0.2881 [0.2910 (0.2939 ° [0.2967 [0.2995 [0.3023 [0.3051 0.3078 [0.3106 |0.3133
+(0.9 [0.3159 (0.3186 (03212 (0.3238 [0.3264 [0.3289 [0.3315 0.3340 [0.3365 [0.3389
+(1.0 [0.3413 0.3438 (0.3461 [0.3485 [0.3508 (0.3531 [0.3554 0.3577 0.3599 (0.3621
+FLA [0.3643 (0.3665 [0.3686 [0.3708 0.3729 |0.3749 (0.3770 0.3790 0.3810 0.3830
+1.2 [0.3849 0.3869 0.3888 0.3907 0.3925 [0.3944 [0.3962 0.3980 [0.3997 0.4015
+[4.3 [0.4032 (0.4049 (0.4066 (0.4082 [0.4099 [0.4115 0.4131 [0.4147 0.4162 [0.4177
+14 [0.8192 [0.4207 (0.4222 (0.4236 0.4251 [0.4265 [0.4279 [0.4292 [0.4306 [0.4319
+| LS |0.4332 (0.4345 (0.4357 [0.4370 |0.4382 [0.4394 0.4406 0.4418 0.4429 |0.4441 -
+| 16 (oss (0.4863 j0.a74 [0.4484 [0.4495 [0.4505 [0.4515 [0.4525 0.4535 |0.4545
+[1.7 [0.4554 [0.4564 (0.4573 0.4582 [0.4591 [0.4599 [0.4608 0.4616 0.4625 | 0.4633
+
+(18 [0.4641 [0.4649 (0.4656 0.4664 0.4671 0.4678
+
+[0.4686
+
+/0,4693,
+
+0.4699 0.4706
+
+—-19 10.4713 0.4719 (0.4726 | 0.4732 [0.4738 [0.4744 [0.4750 [0.4756 0.4761 |0.4767
+2.0 [0.4772 (0.4778 (0.4783 [0.4788 0.4793 [0.4798 [0.4803 0.4808 0.4812 [0.4817
+[2.1 [0.4821 (0.4826 0.4830 (0.4834 [0.4838 [0.4842 0.4846 0.4850 [0.4854 |0.4857
+2.2 [0.4861 (0.4864 (0.4868 0.4871 (0.4875 [0.4878 [0.4881 [0.4884 [0.4887 [0.4890
+| 2.3 (0.4893 [0.4896 0.4898 (0.4901 [0.4904 /0.4906 [0.4909 [0.4911 [0.4913 [0.4916
+[2.4 {0.4918 [0.4920 [0.4922 [0.4925 [0.4927 [0.4929 [0.4931 0.4932. [0.4934 |0.4936
+"25 (0.4938 (0.4940 0.4941 (0.4943 [0.4945 [0.4946 [0.4948 (0.4949 [0.4951 [0.4952
+"2.6 (0.4953 [0.4955 [0.4956 (0.4957 [0.4959 [0.4960 (0.4961 0.4962 [0.4963 |0.4964
+27 [oases [0.466 (0.4967 0.4968 0.4969 care [0.4971 [0.4972 0.4973 [0.4974
+i 28 | | 7 | [0.4979 0.4979 [0.4980 0.4981
+Pas loaner | ae ae hase (aaa 0.4984 (0.4985 0.4985 0.4986 [0.4986
+3.0 /0.4987 [0.4987 0.4987 0.4988 0.4988 0.4989 0.4989 0.4989 0.4990 |0.4990
+
+£4/e]
+--- page 5 ---
+STATISTICAL TABLES ‘
+
+“4
+
+watu 3g.
+Distnbution: CuiulValue oft
+
+Significance level
+
+Degrees of — Two-tailed test: 10% 53% 2% 1% 0.2% 0.1%
+freedom One-tailed test: 5% 2.5% 1% 0.5% 0.1% 0.05%
+1 6.314 = 12.706 = 31.821 63.657 318.309 636.619
+
+2 2.920 4.303 6.965 9.925 22.327 31.599
+
+3 2.353 3.182 4,541 5.841 10.215 12.924
+
+4 2.132 2.776 3.747 4.604 717 8.610
+
+5 ° 2.015 2.571 3.365 4.032 5.893 6.869
+
+6 1.943 2.447 3.143 3.707 5.208 5.959
+
+7 1,894 2.365 2.998 3.499 4.785 5,408
+
+8 1.860 2.306 2.896 3.355 4.501 5.041
+9 1.833 2.262 2.821 3.250 4,297 4.781
+
+10 1.812 2,228 2.764 3.169 4,144 4.587
+1 1,796 2.201 2.718 3.106 4,025 4.437
+
+i 12 1.782 2.179 2.681 3.055 3.930 4318
+<— 13 1771 2.160 2.650 3.012 3.852 4.221
+14 1.761 2.145 2.624 2.977 3.787 4.140
+15 1.753 2131 2.602 2.947 3.733 4,073
+16 1.746 2.120 2.583 2.921 3.686 4.015
+17 1.740 2.110 2.567 2.898 3.646 3.965
+
+18 1.734 2.101 2.552 2.878 3.610 3.922
+19 1.729 2.093 2.539 2.861 3.579 3.883
+20 1.725 2.086 2.528 2.845 3.552 3.850
+
+21 1.721 2.080 2.518 2.831 3.527 3.819
+
+22 1.717 2.074 2.508 2.819 3.505 3.792
+23 1.714 2.069 2.500 2.807 3.485 3.768
+
+24 L711 2.064 2.492 2.797 3.467 3.745
+
+25 1.708 2.060 2.485 2.787 3.450 3.725
+
+26 1,706 2.056 2.479 2.779 3.435 3.707
+
+27 1.703 2.052 2.473 2771 3.421 3.690
+
+28 1,701 2.048 2.467 2.763 3.408 3.674
+
+29 1,699 2.045 2.462 2.756 3.396 3.659
+
+30 1,697 2.042 2.457 2.750 3.385 3.646
+
+32 1,694 2.037 2.449 2.738 3.365 3.622
+
+34 1,691 2.032 2.441 2.728 3.348 3.601
+
+36 1.688 2.028 2.434 2.719 3.333 3.582
+( 38 1.686 2.024 2.429 2.712 3.319 3.566
+i 40 1,684 2.021 2.423 2.704 3.307 3.551
+42 1.682 2.018 2.418 2.698 3.296 3.538
+44 1.680 2.015 2.414 2.692 3.286 3.526
+46 1.679 2.013 2.410 2.687 3.277 3.515
+48 ; 1.677 2.011 2.407 2.682 3.269 3.505
+50 1.676 2.009 2.403 2.678 3.261 3.496
+60 1.671 2.000 2.390 2.660 3.232 3.460
+10 1.667 1.994 2.381 2.648 “3.211 3.435
+80 1.664 ° 1.990 2.374 2.639 3.195 3.416
+90 1.662 1,987 2.368 2.632 3.183 3.402
+100 1.660 1.984 2.364 2.626 3.174 3.390
+120 1,658 1.980 2.358 2.617 3.160 3.373
+150 1.655 1.976 2.351 2.609 3.145 3.357
+200 1.653 1,972 2.345 2.601 3.131 3.340
+300 1.650 1,968 2.339 2.592 3.118 3.323
+400 1.649 1,966 2.336 2.588 3.111 3.318
+500 1,648 1,965 2.334 2.586 3.107 3.310
+600 1.647 1.964 2.333 2.584 3.104 3.307
+© 1.645 1.960 2.326 2.576 3.090 3.291
+
+Sie
+--- page 6 ---
+Chi-square Distribution Table
+
+df. | .995 99 975 95 e) a .05 025 01
+
+1{ 0.00 0.00 0.00 0.00 0.02 2.71 3.84 5.02 6.63
+
+2} 0.01 0.02 0.05 010 0.21 4.61 5.99 7.38 9.21
+
+3| 0.07 O11 0.22 0.35 0.58 6.25 7.81 9.35 11.34
+
+4} 0.21 030 048 0.71 1.06 7.78 9.49 11.14 13.28
+
+5| 041 055 083 1.15 1.61 9.24 11.07 12.83 15.09
+
+6| 068 O87 1.24 164 220 1064 12.59 1445 16.81
+
+7/099 1.24 169 217 283 12.02 14.07 16.01 18.48
+
+-8| 134 165 218 2.73 349 1336+ 15.51 17.53 20.09
+
+$ 9] 1.73 2.09 2.70 3.33 4.17 1468 16.92 19.02 21.67
+
+10} 216 256 3.25 3.94 487 15.99 1831 20.48 23.21
+
+11} 260 3.05 382 4.57 5.58 17.28 19.68 21.92 24.72
+
+12| 3.07. 3.57 440 5.23 630 18.55 21.03 23.34 26.22
+
+13) 3.57 411 5.01 589 7.04 19.81 22.36 24.74 27.69
+
+14/1 4.07 466 5.63 657 7.79 21.06 23.68 26.12 29.14
+
+15 | 4.60 5.23 626 7.26 855 22.31 25.00 27.49 30.58
+16| 514 581 691 7.96 9.31 23.54 26.30 28.85 32.00
+
+17| 5.70 641 7.56 867 10.09 24.77 27.59 30.19 33.41
+
+18) 6.26 7.01 823 9.39 1086 25.99 2887 31.53 34.81
+19| 684 7.63 891 1012 11.65 27.20 30.14 32.85 36.19
+20| 7.43 8.26 9.59 10.85 1244 28.41 3141 3417 37.57
+22| 8.64 9.54 10.98 12.34 14.04 30.81 33.92 36.78 40.29
+24} 9.89 10.86 12.40 13.85 15.66 33.20 36.42 39.36 42.98
+26 | 11.16 12.20 13.84 15.38 17.29 35.56 38.89 41.92 45.64
+98 | 12.46 13.56 15.31 16.93 18.94 37.92 41.34 44.46 48.28
+30 | 13.79 14.95 16.79 18.49 20.60 40.26 43.77 46.98 50.89
+32 | 15.13 16.36 18.29 20.07 22.27 4258 46.19 49.48 53.49
+341 16.50 17.79 19.81 21.66 23.95 44.90 48.60 51.97 56.06
+38 | 19.29 20.69 22.88 24.88 2734 49.51 53.38 56.90 61.16
+42 | 22.14 23.65 26.00 2814 30.77 54.09 5812 61.78 66.21
+46 | 25.04 26.66 29.16 31.44 34.22 5864 62.83 66.62 71.20
+50 | 27.99 29.71 32.36 34.76 37.69 63.17 67.50 71.42 76.15
+55 | 31.73 33.57 36.40 38.96 42.06 6880 73.31 77.38 82.29
+60 | 35.53 37.48 40.48 43.19 4646 74.40 79.08 83.30 88.38
+65 | 39.38 41.44 44.60 47.45 50.88 79.97 - 84.82 89.18 94.42
+70 | 43.28 45.44 48.76 51.74 55.33 85.53 90.53 95.02 100.43
+75 | 47.21 49.48 52.94 56.05 59.79 91.06 96.22 100.84 106.39
+80 | 51.17, 53.54 57.15 60.39 64.28 96.58 101.88 106.63 112.33
+85 | 55.17 57.63 61.39 64.75 68.78 102.08 107.52 112.39 118.24
+90 | 59.20 61.75 65.65 69.13 73.29 107.57 113.15 118.14 124.12
+95 | 63.25 65.90 69.92 73.52 77.82 113.04 118.75 123.86 129.97 .
+100 | 67.33 70.06 74.22 77.93 82.36 118.50 124.34 129.56 135.81
+
+Tete]
+````

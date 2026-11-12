@@ -1,0 +1,3644 @@
+# Information System Management: question papers in full
+
+52 unique papers · 2012-13 to 2025-26 · Common (all branches), Artificial Intelligence, Computer Engineering, Information Technology, Electronics and Telecommunication, Data Science, Mechanical, Chemical
+
+Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 8 · paper db752b1f9770
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBATech (ELECTRONICS & TELECOMMUNICATIO
+- Source: `02_Question_Papers/2025/Sem_08/Final-Exam/MBATech (ELECTRONICS & TELECOMMUNICATIO_ba3ceaa3/Information System Management/QP_Information System Management(703TG0C003)_2025-2026.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 04 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (EXTC)/MBA
+Tech (IT)
+Year: IV/Semester VIII(Exam Year: 2025-2026)
+Subject: Information System Management
+Date: 04 May 2026   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question #1 is compulsory
+3. Out of the remaining questions, attempt any 4
+4. In all 5 questions to be attempted
+5. All questions carry equal marks
+6. Answer to each question to be started on fresh page
+7. Figures in bracket on the right hand side indicate full marks
+8. Assume suitable data if necessary
+Q1   Answer briefly:   [10]
+CO-1;   a.   Identify is the role of a Firewall in an organization?   [2]
+BL-1
+CO-2;   Define the following terms:
+BL-1
+b.   i.   Spoofing   [2]
+ii.   Denial-of-Service Attack
+CO- 1;   Define a virtual organization and outline its key benefits when adopting this
+BL-2   c.   [2]
+strategy.
+CO-1;   d.   How does SCM improve operational efficiency and cost control?   [2]
+BL-1
+CO-2   e.   Why do many system development projects fail at the analysis stage?   [2]
+BL-2
+********** 1 **********
+--- page 2 ---
+Q2   E-commerce has significantly transformed traditional marketing strategies,
+CO-3;   reshaping how businesses reach and engage customers. Discuss five key
+BL-3   a.   [10]
+ways in which e-commerce has revolutionized marketing, providing
+relevant examples for each
+Q3   Explain the following revenue model for e-commerce business?
+CO2;   i.   Transaction Fee Revenue Model
+BL-3   a.   ii.   Subscription Revenue Model   [10]
+iii.   Free/Freemium Revenue Model
+iv.   Sales Revenue Model
+Q4.
+Explain blockchain technology and its benefits. Demonstrate how it can be
+CO-3;   a.   [10]
+applied to secure supply chain processes in a B2B e-commerce platform.
+BL-3
+Q5.   CASE STUDY: Cloud Migration Decision in E-commerce
+CO-2,3;   An e-commerce firm is facing rapid growth but struggles with its on-
+BL-3,5
+premise IT infrastructure. The CTO recommends migrating to cloud
+computing for scalability and flexibility. The CFO is concerned about
+long-term costs and vendor lock-in. The security team highlights risks
+related to data privacy. Competitors using hybrid cloud models are scaling
+faster and offering better customer experience. The firm must decide its
+infrastructure strategy.
+a.   Analyze the decision problem with stakeholder conflicts.   [5]
+b.   Keeping competition in mind, how should the company move forward.   [5]
+********** 2 **********
+--- page 3 ---
+Q6   CASE STUDY: Knowledge Management Failure
+CO-3;
+A large consulting firm invested heavily in a knowledge management
+BL-4,5
+system to capture best practices across global teams. Despite strong
+technical infrastructure, usage remained low. Consultants preferred
+informal networks and personal contacts over the system. The KM
+repository became outdated as employees did not contribute regularly.
+Leadership believed the issue was technological, but internal surveys
+revealed lack of incentives and poor usability. Additionally, tacit
+knowledge—critical in consulting—was not effectively captured.
+Competitors began outperforming the firm by leveraging AI-driven
+knowledge platforms. The firm now faces declining productivity and
+duplication of work across teams. Management is considering redesigning
+the KM strategy with better integration of collaboration tools and
+incentives for knowledge sharing.
+There are 5 key stakeholders in this failed project. Identify each of them and [5]
+a.
+their concerns.
+Management knows that they have been in consulting business for much [5]
+longer when compared to competitors and they possess superior knowledge.
+b.
+Can AI help in improving this KM system. If yes then suggest at least 5 ways
+in which it can help.
+Q7   Analyze how the evolution of computing technologies has influenced [10]
+CO-2;
+organizations. Break down the relationships between specific computing
+BL-4
+eras and these changes, providing evidence from real-world examples.
+a.
+[such as flatter structures, expanded spans of control, power redistribution,
+supervision methods, and decision-making processes.]
+********** 3 **********
+````
+
+## 2025-26 · Final-Exam · Sem 8 · paper 09ca69f61e90
+
+- Departments: Artificial Intelligence
+- Programmes: MBATech AI 7051
+- Source: `02_Question_Papers/2025/Sem_08/Final-Exam/MBATech_AI_7051/Information System Management/QP_Information System Management(703TG0C003)_2025-2026.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 04 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (EXTC)/MBA
+Tech (IT)
+Year: IV/Semester VIII(Exam Year: 2025-2026)
+Subject: Information System Management
+Date: 04 May 2026   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question #1 is compulsory
+3. Out of the remaining questions, attempt any 4
+4. In all 5 questions to be attempted
+5. All questions carry equal marks
+6. Answer to each question to be started on fresh page
+7. Figures in bracket on the right hand side indicate full marks
+8. Assume suitable data if necessary
+Q1   Answer briefly:   [10]
+CO-1;   a.   Identify is the role of a Firewall in an organization?   [2]
+BL-1
+CO-2;   Define the following terms:
+BL-1
+b.   i.   Spoofing   [2]
+ii.   Denial-of-Service Attack
+CO- 1;   Define a virtual organization and outline its key benefits when adopting this
+BL-2   c.   [2]
+strategy.
+CO-1;   d.   How does SCM improve operational efficiency and cost control?   [2]
+BL-1
+CO-2   e.   Why do many system development projects fail at the analysis stage?   [2]
+BL-2
+********** 1 **********
+--- page 2 ---
+Q2   E-commerce has significantly transformed traditional marketing strategies,
+CO-3;   reshaping how businesses reach and engage customers. Discuss five key
+BL-3   a.   [10]
+ways in which e-commerce has revolutionized marketing, providing
+relevant examples for each
+Q3   Explain the following revenue model for e-commerce business?
+CO2;   i.   Transaction Fee Revenue Model
+BL-3   a.   ii.   Subscription Revenue Model   [10]
+iii.   Free/Freemium Revenue Model
+iv.   Sales Revenue Model
+Q4.
+Explain blockchain technology and its benefits. Demonstrate how it can be
+CO-3;   a.   [10]
+applied to secure supply chain processes in a B2B e-commerce platform.
+BL-3
+Q5.   CASE STUDY: Cloud Migration Decision in E-commerce
+CO-2,3;   An e-commerce firm is facing rapid growth but struggles with its on-
+BL-3,5
+premise IT infrastructure. The CTO recommends migrating to cloud
+computing for scalability and flexibility. The CFO is concerned about
+long-term costs and vendor lock-in. The security team highlights risks
+related to data privacy. Competitors using hybrid cloud models are scaling
+faster and offering better customer experience. The firm must decide its
+infrastructure strategy.
+a.   Analyze the decision problem with stakeholder conflicts.   [5]
+b.   Keeping competition in mind, how should the company move forward.   [5]
+********** 2 **********
+--- page 3 ---
+Q6   CASE STUDY: Knowledge Management Failure
+CO-3;
+A large consulting firm invested heavily in a knowledge management
+BL-4,5
+system to capture best practices across global teams. Despite strong
+technical infrastructure, usage remained low. Consultants preferred
+informal networks and personal contacts over the system. The KM
+repository became outdated as employees did not contribute regularly.
+Leadership believed the issue was technological, but internal surveys
+revealed lack of incentives and poor usability. Additionally, tacit
+knowledge—critical in consulting—was not effectively captured.
+Competitors began outperforming the firm by leveraging AI-driven
+knowledge platforms. The firm now faces declining productivity and
+duplication of work across teams. Management is considering redesigning
+the KM strategy with better integration of collaboration tools and
+incentives for knowledge sharing.
+There are 5 key stakeholders in this failed project. Identify each of them and [5]
+a.
+their concerns.
+Management knows that they have been in consulting business for much [5]
+longer when compared to competitors and they possess superior knowledge.
+b.
+Can AI help in improving this KM system. If yes then suggest at least 5 ways
+in which it can help.
+Q7   Analyze how the evolution of computing technologies has influenced [10]
+CO-2;
+organizations. Break down the relationships between specific computing
+BL-4
+eras and these changes, providing evidence from real-world examples.
+a.
+[such as flatter structures, expanded spans of control, power redistribution,
+supervision methods, and decision-making processes.]
+********** 3 **********
+````
+
+## 2025-26 · Final-Exam · Sem 8 · paper d596c2e3feae
+
+- Departments: Computer Engineering
+- Programmes: MBATech Computer 7047
+- Source: `02_Question_Papers/2025/Sem_08/Final-Exam/MBATech_Computer_7047/Information System Management/QP_Information System Management(703TG0C003)_2025-2026.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 04 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (EXTC)/MBA
+Tech (IT)
+Year: IV/Semester VIII(Exam Year: 2025-2026)
+Subject: Information System Management
+Date: 04 May 2026   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question #1 is compulsory
+3. Out of the remaining questions, attempt any 4
+4. In all 5 questions to be attempted
+5. All questions carry equal marks
+6. Answer to each question to be started on fresh page
+7. Figures in bracket on the right hand side indicate full marks
+8. Assume suitable data if necessary
+Q1   Answer briefly:   [10]
+CO-1;   a.   Identify is the role of a Firewall in an organization?   [2]
+BL-1
+CO-2;   Define the following terms:
+BL-1
+b.   i.   Spoofing   [2]
+ii.   Denial-of-Service Attack
+CO- 1;   Define a virtual organization and outline its key benefits when adopting this
+BL-2   c.   [2]
+strategy.
+CO-1;   d.   How does SCM improve operational efficiency and cost control?   [2]
+BL-1
+CO-2   e.   Why do many system development projects fail at the analysis stage?   [2]
+BL-2
+********** 1 **********
+--- page 2 ---
+Q2   E-commerce has significantly transformed traditional marketing strategies,
+CO-3;   reshaping how businesses reach and engage customers. Discuss five key
+BL-3   a.   [10]
+ways in which e-commerce has revolutionized marketing, providing
+relevant examples for each
+Q3   Explain the following revenue model for e-commerce business?
+CO2;   i.   Transaction Fee Revenue Model
+BL-3   a.   ii.   Subscription Revenue Model   [10]
+iii.   Free/Freemium Revenue Model
+iv.   Sales Revenue Model
+Q4.
+Explain blockchain technology and its benefits. Demonstrate how it can be
+CO-3;   a.   [10]
+applied to secure supply chain processes in a B2B e-commerce platform.
+BL-3
+Q5.   CASE STUDY: Cloud Migration Decision in E-commerce
+CO-2,3;   An e-commerce firm is facing rapid growth but struggles with its on-
+BL-3,5
+premise IT infrastructure. The CTO recommends migrating to cloud
+computing for scalability and flexibility. The CFO is concerned about
+long-term costs and vendor lock-in. The security team highlights risks
+related to data privacy. Competitors using hybrid cloud models are scaling
+faster and offering better customer experience. The firm must decide its
+infrastructure strategy.
+a.   Analyze the decision problem with stakeholder conflicts.   [5]
+b.   Keeping competition in mind, how should the company move forward.   [5]
+********** 2 **********
+--- page 3 ---
+Q6   CASE STUDY: Knowledge Management Failure
+CO-3;
+A large consulting firm invested heavily in a knowledge management
+BL-4,5
+system to capture best practices across global teams. Despite strong
+technical infrastructure, usage remained low. Consultants preferred
+informal networks and personal contacts over the system. The KM
+repository became outdated as employees did not contribute regularly.
+Leadership believed the issue was technological, but internal surveys
+revealed lack of incentives and poor usability. Additionally, tacit
+knowledge—critical in consulting—was not effectively captured.
+Competitors began outperforming the firm by leveraging AI-driven
+knowledge platforms. The firm now faces declining productivity and
+duplication of work across teams. Management is considering redesigning
+the KM strategy with better integration of collaboration tools and
+incentives for knowledge sharing.
+There are 5 key stakeholders in this failed project. Identify each of them and [5]
+a.
+their concerns.
+Management knows that they have been in consulting business for much [5]
+longer when compared to competitors and they possess superior knowledge.
+b.
+Can AI help in improving this KM system. If yes then suggest at least 5 ways
+in which it can help.
+Q7   Analyze how the evolution of computing technologies has influenced [10]
+CO-2;
+organizations. Break down the relationships between specific computing
+BL-4
+eras and these changes, providing evidence from real-world examples.
+a.
+[such as flatter structures, expanded spans of control, power redistribution,
+supervision methods, and decision-making processes.]
+********** 3 **********
+````
+
+## 2025-26 · Final-Exam · Sem 8 · paper 145bd3eeeeb6
+
+- Departments: Data Science
+- Programmes: MBATech DS 7052
+- Source: `02_Question_Papers/2025/Sem_08/Final-Exam/MBATech_DS_7052/Information System Management/QP_Information System Management(703TG0C003)_2025-2026.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 04 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (EXTC)/MBA
+Tech (IT)
+Year: IV/Semester VIII(Exam Year: 2025-2026)
+Subject: Information System Management
+Date: 04 May 2026   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question #1 is compulsory
+3. Out of the remaining questions, attempt any 4
+4. In all 5 questions to be attempted
+5. All questions carry equal marks
+6. Answer to each question to be started on fresh page
+7. Figures in bracket on the right hand side indicate full marks
+8. Assume suitable data if necessary
+Q1   Answer briefly:   [10]
+CO-1;   a.   Identify is the role of a Firewall in an organization?   [2]
+BL-1
+CO-2;   Define the following terms:
+BL-1
+b.   i.   Spoofing   [2]
+ii.   Denial-of-Service Attack
+CO- 1;   Define a virtual organization and outline its key benefits when adopting this
+BL-2   c.   [2]
+strategy.
+CO-1;   d.   How does SCM improve operational efficiency and cost control?   [2]
+BL-1
+CO-2   e.   Why do many system development projects fail at the analysis stage?   [2]
+BL-2
+********** 1 **********
+--- page 2 ---
+Q2   E-commerce has significantly transformed traditional marketing strategies,
+CO-3;   reshaping how businesses reach and engage customers. Discuss five key
+BL-3   a.   [10]
+ways in which e-commerce has revolutionized marketing, providing
+relevant examples for each
+Q3   Explain the following revenue model for e-commerce business?
+CO2;   i.   Transaction Fee Revenue Model
+BL-3   a.   ii.   Subscription Revenue Model   [10]
+iii.   Free/Freemium Revenue Model
+iv.   Sales Revenue Model
+Q4.
+Explain blockchain technology and its benefits. Demonstrate how it can be
+CO-3;   a.   [10]
+applied to secure supply chain processes in a B2B e-commerce platform.
+BL-3
+Q5.   CASE STUDY: Cloud Migration Decision in E-commerce
+CO-2,3;   An e-commerce firm is facing rapid growth but struggles with its on-
+BL-3,5
+premise IT infrastructure. The CTO recommends migrating to cloud
+computing for scalability and flexibility. The CFO is concerned about
+long-term costs and vendor lock-in. The security team highlights risks
+related to data privacy. Competitors using hybrid cloud models are scaling
+faster and offering better customer experience. The firm must decide its
+infrastructure strategy.
+a.   Analyze the decision problem with stakeholder conflicts.   [5]
+b.   Keeping competition in mind, how should the company move forward.   [5]
+********** 2 **********
+--- page 3 ---
+Q6   CASE STUDY: Knowledge Management Failure
+CO-3;
+A large consulting firm invested heavily in a knowledge management
+BL-4,5
+system to capture best practices across global teams. Despite strong
+technical infrastructure, usage remained low. Consultants preferred
+informal networks and personal contacts over the system. The KM
+repository became outdated as employees did not contribute regularly.
+Leadership believed the issue was technological, but internal surveys
+revealed lack of incentives and poor usability. Additionally, tacit
+knowledge—critical in consulting—was not effectively captured.
+Competitors began outperforming the firm by leveraging AI-driven
+knowledge platforms. The firm now faces declining productivity and
+duplication of work across teams. Management is considering redesigning
+the KM strategy with better integration of collaboration tools and
+incentives for knowledge sharing.
+There are 5 key stakeholders in this failed project. Identify each of them and [5]
+a.
+their concerns.
+Management knows that they have been in consulting business for much [5]
+longer when compared to competitors and they possess superior knowledge.
+b.
+Can AI help in improving this KM system. If yes then suggest at least 5 ways
+in which it can help.
+Q7   Analyze how the evolution of computing technologies has influenced [10]
+CO-2;
+organizations. Break down the relationships between specific computing
+BL-4
+eras and these changes, providing evidence from real-world examples.
+a.
+[such as flatter structures, expanded spans of control, power redistribution,
+supervision methods, and decision-making processes.]
+********** 3 **********
+````
+
+## 2025-26 · Final-Exam · Sem 8 · paper efa2295b2467
+
+- Departments: Information Technology
+- Programmes: MBATech IT 7041
+- Source: `02_Question_Papers/2025/Sem_08/Final-Exam/MBATech_IT_7041/Information System Management/QP_Information System Management(703TG0C003)_2025-2026.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 04 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (EXTC)/MBA
+Tech (IT)
+Year: IV/Semester VIII(Exam Year: 2025-2026)
+Subject: Information System Management
+Date: 04 May 2026   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question #1 is compulsory
+3. Out of the remaining questions, attempt any 4
+4. In all 5 questions to be attempted
+5. All questions carry equal marks
+6. Answer to each question to be started on fresh page
+7. Figures in bracket on the right hand side indicate full marks
+8. Assume suitable data if necessary
+Q1   Answer briefly:   [10]
+CO-1;   a.   Identify is the role of a Firewall in an organization?   [2]
+BL-1
+CO-2;   Define the following terms:
+BL-1
+b.   i.   Spoofing   [2]
+ii.   Denial-of-Service Attack
+CO- 1;   Define a virtual organization and outline its key benefits when adopting this
+BL-2   c.   [2]
+strategy.
+CO-1;   d.   How does SCM improve operational efficiency and cost control?   [2]
+BL-1
+CO-2   e.   Why do many system development projects fail at the analysis stage?   [2]
+BL-2
+********** 1 **********
+--- page 2 ---
+Q2   E-commerce has significantly transformed traditional marketing strategies,
+CO-3;   reshaping how businesses reach and engage customers. Discuss five key
+BL-3   a.   [10]
+ways in which e-commerce has revolutionized marketing, providing
+relevant examples for each
+Q3   Explain the following revenue model for e-commerce business?
+CO2;   i.   Transaction Fee Revenue Model
+BL-3   a.   ii.   Subscription Revenue Model   [10]
+iii.   Free/Freemium Revenue Model
+iv.   Sales Revenue Model
+Q4.
+Explain blockchain technology and its benefits. Demonstrate how it can be
+CO-3;   a.   [10]
+applied to secure supply chain processes in a B2B e-commerce platform.
+BL-3
+Q5.   CASE STUDY: Cloud Migration Decision in E-commerce
+CO-2,3;   An e-commerce firm is facing rapid growth but struggles with its on-
+BL-3,5
+premise IT infrastructure. The CTO recommends migrating to cloud
+computing for scalability and flexibility. The CFO is concerned about
+long-term costs and vendor lock-in. The security team highlights risks
+related to data privacy. Competitors using hybrid cloud models are scaling
+faster and offering better customer experience. The firm must decide its
+infrastructure strategy.
+a.   Analyze the decision problem with stakeholder conflicts.   [5]
+b.   Keeping competition in mind, how should the company move forward.   [5]
+********** 2 **********
+--- page 3 ---
+Q6   CASE STUDY: Knowledge Management Failure
+CO-3;
+A large consulting firm invested heavily in a knowledge management
+BL-4,5
+system to capture best practices across global teams. Despite strong
+technical infrastructure, usage remained low. Consultants preferred
+informal networks and personal contacts over the system. The KM
+repository became outdated as employees did not contribute regularly.
+Leadership believed the issue was technological, but internal surveys
+revealed lack of incentives and poor usability. Additionally, tacit
+knowledge—critical in consulting—was not effectively captured.
+Competitors began outperforming the firm by leveraging AI-driven
+knowledge platforms. The firm now faces declining productivity and
+duplication of work across teams. Management is considering redesigning
+the KM strategy with better integration of collaboration tools and
+incentives for knowledge sharing.
+There are 5 key stakeholders in this failed project. Identify each of them and [5]
+a.
+their concerns.
+Management knows that they have been in consulting business for much [5]
+longer when compared to competitors and they possess superior knowledge.
+b.
+Can AI help in improving this KM system. If yes then suggest at least 5 ways
+in which it can help.
+Q7   Analyze how the evolution of computing technologies has influenced [10]
+CO-2;
+organizations. Break down the relationships between specific computing
+BL-4
+eras and these changes, providing evidence from real-world examples.
+a.
+[such as flatter structures, expanded spans of control, power redistribution,
+supervision methods, and decision-making processes.]
+********** 3 **********
+````
+
+## 2025-26 · Re-Exam · Sem 8 · paper 8b749bbc306e
+
+- Departments: Artificial Intelligence
+- Programmes: MBATech AI 7051
+- Source: `02_Question_Papers/2025/Sem_08/Re-Exam/MBATech_AI_7051/Information System Management/QP_Information System Management(703TG0C003)_2025-2026.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 30 Jun 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (EXTC)/MBA
+Tech (IT)
+Year: IV/Sem 8 Re-exam(Exam Year: 2025-2026)
+Subject: Information System Management
+Date: 30 Jun 2026   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question #1 is compulsory
+3. Out of the remaining questions, attempt any 4
+4. In all 5 questions to be attempted
+5. All questions carry equal marks
+6. Answer to each question to be started on fresh page
+7. Figures in bracket on the right hand side indicate full marks
+8. Assume suitable data if necessary
+Q1   Answer briefly:   [10]
+CO-;   What are three key challenges that organizations face when adopting
+BL-3   a.   [2]
+Enterprise Applications, such as ERP or CRM systems?
+CO- 2;   b.   What are the principles of e-commerce business and revenue models?   [2]
+BL-1
+CO- 2;   Distinguish between business-to-consumer and business to-business
+BL-4   c.   [2]
+ecommerce giving examples.
+CO-2;   d.   How do Moore’s Law and Metcalfe’s Law influence IT strategy?   [2]
+BL-3
+CO-2   e.   What strategic risks are associated with outsourcing IT systems?   [2]
+BL-3
+********** 1 **********
+--- page 2 ---
+Q2
+Critique blockchain adoption in B2B ecommerce supply chains versus
+CO-2;   a.   [10]
+traditional ERP systems.
+BL-5
+Q3
+CO2;   a.   How the internet business model helps to enhance the e-commerce market? [10]
+BL-1
+Q4.   Explain the concept of API based, EDI-based, XML based and Blockchain
+CO-2;   a.   based B2B e-commerce integration. Describe their impact on supply chain [10]
+BL-4   visibility, data interoperability, and implementation costs.
+Q5.   CASE STUDY: IT Governance and Decentralization Conflict
+CO-2;   A multinational firm allows regional units to manage their own IT systems.
+BL-3, 4,5
+While this provides flexibility, it leads to duplication of systems and
+inconsistent data. Headquarters wants to centralize IT governance, but
+regional managers resist losing control. Integration across regions is weak,
+affecting global strategy. Competitors with centralized systems achieve
+better coordination.
+a.   Diagnose governance issues and stakeholder conflict.   [5]
+b.   In the long term, how should governance evolve.   [5]
+********** 2 **********
+--- page 3 ---
+Q6   CASE STUDY: Failed ERP Implementation in Manufacturing
+CO-2;
+Through an external IT vendor, a manufacturing company implemented an
+BL-3,4,5
+ERP system using a traditional waterfall approach. The project took two
+years, during which market conditions changed significantly. By the time
+the system was deployed, it lacked flexibility to handle new customer
+demands. Employees found it rigid and difficult to use. There was minimal
+involvement from end users during design. Operational disruptions
+increased, and productivity declined. Management now faces rising costs
+and pressure to adapt quickly. Competitors using agile development
+approaches are outperforming the firm in responsiveness and innovation.
+5 stakeholders (employee, IT team, customers, vendor and management) [5]
+a.
+have been identified. Post deployment analyse how they were impacted ?
+The leadership faces a choice between 2 choices: Replace vs Upgrade. [5]
+b.   Analyse the two choices and any alternate if they exist and recommend an
+optimal approach.
+Q7   CASE STUDY: Outsourcing and System Integration Risk
+CO-3;
+A large insurance company outsourced its claims processing system to an
+BL-3,4,5
+external vendor to reduce costs and improve efficiency. Initially, the system
+performed well, but over time, hidden costs emerged in vendor management,
+integration, and customization. The company struggled to integrate the
+outsourced system with legacy databases. Sensitive customer data exposure
+became a concern. Employees felt disconnected from the system and lacked
+control over processes. Meanwhile, competitors investing in in-house digital
+capabilities began offering faster and more personalized services. The firm
+must decide whether to continue outsourcing or bring capabilities back in-
+house.
+a.   So many outsourcing have worked successfully. But what went wrong here? [5]
+The company can continue to outsource OR bring everything inhouse OR [5]
+b.   try an alternative? Analyze the scenario with reasons and suggest a
+favourable approach.
+********** 3 **********
+````
+
+## 2025-26 · Re-Exam · Sem 8 · paper 417a03d59ef6
+
+- Departments: Computer Engineering
+- Programmes: MBATech Computer 7047
+- Source: `02_Question_Papers/2025/Sem_08/Re-Exam/MBATech_Computer_7047/Information System Management/QP_Information System Management(703TG0C003)_2025-2026.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 30 Jun 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (EXTC)/MBA
+Tech (IT)
+Year: IV/Sem 8 Re-exam(Exam Year: 2025-2026)
+Subject: Information System Management
+Date: 30 Jun 2026   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question #1 is compulsory
+3. Out of the remaining questions, attempt any 4
+4. In all 5 questions to be attempted
+5. All questions carry equal marks
+6. Answer to each question to be started on fresh page
+7. Figures in bracket on the right hand side indicate full marks
+8. Assume suitable data if necessary
+Q1   Answer briefly:   [10]
+CO-;   What are three key challenges that organizations face when adopting
+BL-3   a.   [2]
+Enterprise Applications, such as ERP or CRM systems?
+CO- 2;   b.   What are the principles of e-commerce business and revenue models?   [2]
+BL-1
+CO- 2;   Distinguish between business-to-consumer and business to-business
+BL-4   c.   [2]
+ecommerce giving examples.
+CO-2;   d.   How do Moore’s Law and Metcalfe’s Law influence IT strategy?   [2]
+BL-3
+CO-2   e.   What strategic risks are associated with outsourcing IT systems?   [2]
+BL-3
+********** 1 **********
+--- page 2 ---
+Q2
+Critique blockchain adoption in B2B ecommerce supply chains versus
+CO-2;   a.   [10]
+traditional ERP systems.
+BL-5
+Q3
+CO2;   a.   How the internet business model helps to enhance the e-commerce market? [10]
+BL-1
+Q4.   Explain the concept of API based, EDI-based, XML based and Blockchain
+CO-2;   a.   based B2B e-commerce integration. Describe their impact on supply chain [10]
+BL-4   visibility, data interoperability, and implementation costs.
+Q5.   CASE STUDY: IT Governance and Decentralization Conflict
+CO-2;   A multinational firm allows regional units to manage their own IT systems.
+BL-3, 4,5
+While this provides flexibility, it leads to duplication of systems and
+inconsistent data. Headquarters wants to centralize IT governance, but
+regional managers resist losing control. Integration across regions is weak,
+affecting global strategy. Competitors with centralized systems achieve
+better coordination.
+a.   Diagnose governance issues and stakeholder conflict.   [5]
+b.   In the long term, how should governance evolve.   [5]
+********** 2 **********
+--- page 3 ---
+Q6   CASE STUDY: Failed ERP Implementation in Manufacturing
+CO-2;
+Through an external IT vendor, a manufacturing company implemented an
+BL-3,4,5
+ERP system using a traditional waterfall approach. The project took two
+years, during which market conditions changed significantly. By the time
+the system was deployed, it lacked flexibility to handle new customer
+demands. Employees found it rigid and difficult to use. There was minimal
+involvement from end users during design. Operational disruptions
+increased, and productivity declined. Management now faces rising costs
+and pressure to adapt quickly. Competitors using agile development
+approaches are outperforming the firm in responsiveness and innovation.
+5 stakeholders (employee, IT team, customers, vendor and management) [5]
+a.
+have been identified. Post deployment analyse how they were impacted ?
+The leadership faces a choice between 2 choices: Replace vs Upgrade. [5]
+b.   Analyse the two choices and any alternate if they exist and recommend an
+optimal approach.
+Q7   CASE STUDY: Outsourcing and System Integration Risk
+CO-3;
+A large insurance company outsourced its claims processing system to an
+BL-3,4,5
+external vendor to reduce costs and improve efficiency. Initially, the system
+performed well, but over time, hidden costs emerged in vendor management,
+integration, and customization. The company struggled to integrate the
+outsourced system with legacy databases. Sensitive customer data exposure
+became a concern. Employees felt disconnected from the system and lacked
+control over processes. Meanwhile, competitors investing in in-house digital
+capabilities began offering faster and more personalized services. The firm
+must decide whether to continue outsourcing or bring capabilities back in-
+house.
+a.   So many outsourcing have worked successfully. But what went wrong here? [5]
+The company can continue to outsource OR bring everything inhouse OR [5]
+b.   try an alternative? Analyze the scenario with reasons and suggest a
+favourable approach.
+********** 3 **********
+````
+
+## 2025-26 · Re-Exam · Sem 8 · paper 495dbb9f376b
+
+- Departments: Data Science
+- Programmes: MBATech DS 7052
+- Source: `02_Question_Papers/2025/Sem_08/Re-Exam/MBATech_DS_7052/Information System Management/QP_Information System Management(703TG0C003)_2025-2026.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 30 Jun 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (EXTC)/MBA
+Tech (IT)
+Year: IV/Sem 8 Re-exam(Exam Year: 2025-2026)
+Subject: Information System Management
+Date: 30 Jun 2026   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question #1 is compulsory
+3. Out of the remaining questions, attempt any 4
+4. In all 5 questions to be attempted
+5. All questions carry equal marks
+6. Answer to each question to be started on fresh page
+7. Figures in bracket on the right hand side indicate full marks
+8. Assume suitable data if necessary
+Q1   Answer briefly:   [10]
+CO-;   What are three key challenges that organizations face when adopting
+BL-3   a.   [2]
+Enterprise Applications, such as ERP or CRM systems?
+CO- 2;   b.   What are the principles of e-commerce business and revenue models?   [2]
+BL-1
+CO- 2;   Distinguish between business-to-consumer and business to-business
+BL-4   c.   [2]
+ecommerce giving examples.
+CO-2;   d.   How do Moore’s Law and Metcalfe’s Law influence IT strategy?   [2]
+BL-3
+CO-2   e.   What strategic risks are associated with outsourcing IT systems?   [2]
+BL-3
+********** 1 **********
+--- page 2 ---
+Q2
+Critique blockchain adoption in B2B ecommerce supply chains versus
+CO-2;   a.   [10]
+traditional ERP systems.
+BL-5
+Q3
+CO2;   a.   How the internet business model helps to enhance the e-commerce market? [10]
+BL-1
+Q4.   Explain the concept of API based, EDI-based, XML based and Blockchain
+CO-2;   a.   based B2B e-commerce integration. Describe their impact on supply chain [10]
+BL-4   visibility, data interoperability, and implementation costs.
+Q5.   CASE STUDY: IT Governance and Decentralization Conflict
+CO-2;   A multinational firm allows regional units to manage their own IT systems.
+BL-3, 4,5
+While this provides flexibility, it leads to duplication of systems and
+inconsistent data. Headquarters wants to centralize IT governance, but
+regional managers resist losing control. Integration across regions is weak,
+affecting global strategy. Competitors with centralized systems achieve
+better coordination.
+a.   Diagnose governance issues and stakeholder conflict.   [5]
+b.   In the long term, how should governance evolve.   [5]
+********** 2 **********
+--- page 3 ---
+Q6   CASE STUDY: Failed ERP Implementation in Manufacturing
+CO-2;
+Through an external IT vendor, a manufacturing company implemented an
+BL-3,4,5
+ERP system using a traditional waterfall approach. The project took two
+years, during which market conditions changed significantly. By the time
+the system was deployed, it lacked flexibility to handle new customer
+demands. Employees found it rigid and difficult to use. There was minimal
+involvement from end users during design. Operational disruptions
+increased, and productivity declined. Management now faces rising costs
+and pressure to adapt quickly. Competitors using agile development
+approaches are outperforming the firm in responsiveness and innovation.
+5 stakeholders (employee, IT team, customers, vendor and management) [5]
+a.
+have been identified. Post deployment analyse how they were impacted ?
+The leadership faces a choice between 2 choices: Replace vs Upgrade. [5]
+b.   Analyse the two choices and any alternate if they exist and recommend an
+optimal approach.
+Q7   CASE STUDY: Outsourcing and System Integration Risk
+CO-3;
+A large insurance company outsourced its claims processing system to an
+BL-3,4,5
+external vendor to reduce costs and improve efficiency. Initially, the system
+performed well, but over time, hidden costs emerged in vendor management,
+integration, and customization. The company struggled to integrate the
+outsourced system with legacy databases. Sensitive customer data exposure
+became a concern. Employees felt disconnected from the system and lacked
+control over processes. Meanwhile, competitors investing in in-house digital
+capabilities began offering faster and more personalized services. The firm
+must decide whether to continue outsourcing or bring capabilities back in-
+house.
+a.   So many outsourcing have worked successfully. But what went wrong here? [5]
+The company can continue to outsource OR bring everything inhouse OR [5]
+b.   try an alternative? Analyze the scenario with reasons and suggest a
+favourable approach.
+********** 3 **********
+````
+
+## 2025-26 · Re-Exam · Sem 8 · paper b4d7e9e902c2
+
+- Departments: Information Technology
+- Programmes: MBATech IT 7041
+- Source: `02_Question_Papers/2025/Sem_08/Re-Exam/MBATech_IT_7041/Information System Management/QP_Information System Management(703TG0C003)_2025-2026.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 30 Jun 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (EXTC)/MBA
+Tech (IT)
+Year: IV/Sem 8 Re-exam(Exam Year: 2025-2026)
+Subject: Information System Management
+Date: 30 Jun 2026   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question #1 is compulsory
+3. Out of the remaining questions, attempt any 4
+4. In all 5 questions to be attempted
+5. All questions carry equal marks
+6. Answer to each question to be started on fresh page
+7. Figures in bracket on the right hand side indicate full marks
+8. Assume suitable data if necessary
+Q1   Answer briefly:   [10]
+CO-;   What are three key challenges that organizations face when adopting
+BL-3   a.   [2]
+Enterprise Applications, such as ERP or CRM systems?
+CO- 2;   b.   What are the principles of e-commerce business and revenue models?   [2]
+BL-1
+CO- 2;   Distinguish between business-to-consumer and business to-business
+BL-4   c.   [2]
+ecommerce giving examples.
+CO-2;   d.   How do Moore’s Law and Metcalfe’s Law influence IT strategy?   [2]
+BL-3
+CO-2   e.   What strategic risks are associated with outsourcing IT systems?   [2]
+BL-3
+********** 1 **********
+--- page 2 ---
+Q2
+Critique blockchain adoption in B2B ecommerce supply chains versus
+CO-2;   a.   [10]
+traditional ERP systems.
+BL-5
+Q3
+CO2;   a.   How the internet business model helps to enhance the e-commerce market? [10]
+BL-1
+Q4.   Explain the concept of API based, EDI-based, XML based and Blockchain
+CO-2;   a.   based B2B e-commerce integration. Describe their impact on supply chain [10]
+BL-4   visibility, data interoperability, and implementation costs.
+Q5.   CASE STUDY: IT Governance and Decentralization Conflict
+CO-2;   A multinational firm allows regional units to manage their own IT systems.
+BL-3, 4,5
+While this provides flexibility, it leads to duplication of systems and
+inconsistent data. Headquarters wants to centralize IT governance, but
+regional managers resist losing control. Integration across regions is weak,
+affecting global strategy. Competitors with centralized systems achieve
+better coordination.
+a.   Diagnose governance issues and stakeholder conflict.   [5]
+b.   In the long term, how should governance evolve.   [5]
+********** 2 **********
+--- page 3 ---
+Q6   CASE STUDY: Failed ERP Implementation in Manufacturing
+CO-2;
+Through an external IT vendor, a manufacturing company implemented an
+BL-3,4,5
+ERP system using a traditional waterfall approach. The project took two
+years, during which market conditions changed significantly. By the time
+the system was deployed, it lacked flexibility to handle new customer
+demands. Employees found it rigid and difficult to use. There was minimal
+involvement from end users during design. Operational disruptions
+increased, and productivity declined. Management now faces rising costs
+and pressure to adapt quickly. Competitors using agile development
+approaches are outperforming the firm in responsiveness and innovation.
+5 stakeholders (employee, IT team, customers, vendor and management) [5]
+a.
+have been identified. Post deployment analyse how they were impacted ?
+The leadership faces a choice between 2 choices: Replace vs Upgrade. [5]
+b.   Analyse the two choices and any alternate if they exist and recommend an
+optimal approach.
+Q7   CASE STUDY: Outsourcing and System Integration Risk
+CO-3;
+A large insurance company outsourced its claims processing system to an
+BL-3,4,5
+external vendor to reduce costs and improve efficiency. Initially, the system
+performed well, but over time, hidden costs emerged in vendor management,
+integration, and customization. The company struggled to integrate the
+outsourced system with legacy databases. Sensitive customer data exposure
+became a concern. Employees felt disconnected from the system and lacked
+control over processes. Meanwhile, competitors investing in in-house digital
+capabilities began offering faster and more personalized services. The firm
+must decide whether to continue outsourcing or bring capabilities back in-
+house.
+a.   So many outsourcing have worked successfully. But what went wrong here? [5]
+The company can continue to outsource OR bring everything inhouse OR [5]
+b.   try an alternative? Analyze the scenario with reasons and suggest a
+favourable approach.
+********** 3 **********
+````
+
+## 2024-25 · Final-Exam · Sem 8 · paper 3d32975d645a
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBATech (ELECTRONICS & TELECOMMUNICATIO
+- Source: `02_Question_Papers/2024/Sem_08/Final-Exam/MBATech (ELECTRONICS & TELECOMMUNICATIO_ba3ceaa3/Information System Management/QP_Information System Management(703TG0C003)_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 03 May 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (EXTC)/MBA.
+Tech (IT)/MBA. Tech (Mech)
+Year: IV/Semester VIII(Exam Year: 2024-2025)
+Subject: Information System Management
+Date: 03 May 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No 1 is Compulsory
+5. Out of Remaining questions, attempt any__4__questions
+6. In all __5__questions to be attempted
+7. All Questions carry equal marks
+8. Assume suitable data if necessary
+Q1
+Section A   [10]
+CO- 3;   a.   Explain how a CRM system can help any organization to effectively manage
+SO-;2 BL-   customer relationships different functions.   [2]
+3
+CO-2; SO- b.   Define the term Total Cost of Ownership (TCO) Model.   [2]
+1; BL-1
+c.   Identify four challenges organizations face when implementing new
+CO-2; SO-   [2]
+3; BL-2   Information Systems.
+CO- 2;   d.
+SO-2; BL-   Provide the dimensions of Information systems.   [2]
+2
+CO-3; SO- e.
+2;   Provide the steps to Prevent any malicious attack like Ransomware / Malware   [2]
+BL-4
+Section B
+Q2
+A multinational company wants to expand its e-business operations into
+CO-1, 2;   emerging markets. Discuss the key factors they should consider.   [10]
+SO-2; BL-
+4
+Provide the various analytical tools and techniques used by organizations to
+Q3
+maintain relationships / patterns & trends for accessing vast amounts of data   [10]
+CO-2; SO-
+2; BL- 3   to make better decisions
+Nicco Payments is a leading digital payment service provider in India that
+Q4   facilitates online transactions for individuals and businesses. With a rapidly
+[10]
+CO-3 SO-   growing customer base, the company faces increasing threats related to fraud,
+3; BL-5
+transaction tampering, and unauthorized access.
+********** 1 **********
+--- page 2 ---
+To enhance security, Nicco Payments is considering implementing
+blockchain technology to secure financial transactions and improve
+transparency. However, before full-scale adoption, the company must address
+various challenges and ensure a seamless integration of blockchain with its
+existing financial infrastructure.
+Key Security Challenges Faced by Nicco Payments:
+a) Transaction Fraud: Hackers have attempted to manipulate digital
+transactions, leading to financial losses.
+b) Double Spending Issue: Some users try to exploit the system by
+duplicating digital payments.
+c) Lack of Transparency: Traditional payment systems do not offer real-
+time visibility into transaction histories.
+d) Regulatory Compliance: The company must adhere to Reserve Bank
+of India (RBI) guidelines and global financial security standards.
+e) Integration with Legacy Systems: Ensuring blockchain works
+seamlessly with existing banking and financial technologies.
+Questions:
+1. How can Nicco Payments use blockchain technology to enhance
+transaction security and prevent fraud in digital payments? Also do
+provide the steps should the company take to integrate blockchain
+with its existing financial systems while ensuring compliance with
+regulatory guidelines?
+Q5
+CO-1;   Draw the diagram of The Time/Space Collaboration and Social Tool Matrix   [10]
+SO;2   with proper examples
+BL;2
+Q6
+Explain the complete system development lifecycle process.   [10]
+CO-2; SO-
+3; BL- 3
+Q7   What is knowledge Management? Explain the importance of KM value chain
+CO-2;   in any organization.   [10]
+SO-;2 BL
+-2
+********** 2 **********
+````
+
+## 2024-25 · Final-Exam · Sem 8 · paper a28bba653da5
+
+- Departments: Mechanical
+- Programmes: MBATech (MECHANICAL ENGINEERING) - 7046
+- Source: `02_Question_Papers/2024/Sem_08/Final-Exam/MBATech (MECHANICAL ENGINEERING) - 7046/Information System Management/QP_Information System Management(703TG0C003)_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 03 May 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (EXTC)/MBA.
+Tech (IT)/MBA. Tech (Mech)
+Year: IV/Semester VIII(Exam Year: 2024-2025)
+Subject: Information System Management
+Date: 03 May 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No 1 is Compulsory
+5. Out of Remaining questions, attempt any__4__questions
+6. In all __5__questions to be attempted
+7. All Questions carry equal marks
+8. Assume suitable data if necessary
+Q1
+Section A   [10]
+CO- 3;   a.   Explain how a CRM system can help any organization to effectively manage
+SO-;2 BL-   customer relationships different functions.   [2]
+3
+CO-2; SO- b.   Define the term Total Cost of Ownership (TCO) Model.   [2]
+1; BL-1
+c.   Identify four challenges organizations face when implementing new
+CO-2; SO-   [2]
+3; BL-2   Information Systems.
+CO- 2;   d.
+SO-2; BL-   Provide the dimensions of Information systems.   [2]
+2
+CO-3; SO- e.
+2;   Provide the steps to Prevent any malicious attack like Ransomware / Malware   [2]
+BL-4
+Section B
+Q2
+A multinational company wants to expand its e-business operations into
+CO-1, 2;   emerging markets. Discuss the key factors they should consider.   [10]
+SO-2; BL-
+4
+Provide the various analytical tools and techniques used by organizations to
+Q3
+maintain relationships / patterns & trends for accessing vast amounts of data   [10]
+CO-2; SO-
+2; BL- 3   to make better decisions
+Nicco Payments is a leading digital payment service provider in India that
+Q4   facilitates online transactions for individuals and businesses. With a rapidly
+[10]
+CO-3 SO-   growing customer base, the company faces increasing threats related to fraud,
+3; BL-5
+transaction tampering, and unauthorized access.
+********** 1 **********
+--- page 2 ---
+To enhance security, Nicco Payments is considering implementing
+blockchain technology to secure financial transactions and improve
+transparency. However, before full-scale adoption, the company must address
+various challenges and ensure a seamless integration of blockchain with its
+existing financial infrastructure.
+Key Security Challenges Faced by Nicco Payments:
+a) Transaction Fraud: Hackers have attempted to manipulate digital
+transactions, leading to financial losses.
+b) Double Spending Issue: Some users try to exploit the system by
+duplicating digital payments.
+c) Lack of Transparency: Traditional payment systems do not offer real-
+time visibility into transaction histories.
+d) Regulatory Compliance: The company must adhere to Reserve Bank
+of India (RBI) guidelines and global financial security standards.
+e) Integration with Legacy Systems: Ensuring blockchain works
+seamlessly with existing banking and financial technologies.
+Questions:
+1. How can Nicco Payments use blockchain technology to enhance
+transaction security and prevent fraud in digital payments? Also do
+provide the steps should the company take to integrate blockchain
+with its existing financial systems while ensuring compliance with
+regulatory guidelines?
+Q5
+CO-1;   Draw the diagram of The Time/Space Collaboration and Social Tool Matrix   [10]
+SO;2   with proper examples
+BL;2
+Q6
+Explain the complete system development lifecycle process.   [10]
+CO-2; SO-
+3; BL- 3
+Q7   What is knowledge Management? Explain the importance of KM value chain
+CO-2;   in any organization.   [10]
+SO-;2 BL
+-2
+********** 2 **********
+````
+
+## 2024-25 · Final-Exam · Sem 8 · paper 5f93d9f51bd2
+
+- Departments: Artificial Intelligence
+- Programmes: MBATech AI 7051
+- Source: `02_Question_Papers/2024/Sem_08/Final-Exam/MBATech_AI_7051/Information System Management/QP_Information System Management(703TG0C003)_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 03 May 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (EXTC)/MBA.
+Tech (IT)/MBA. Tech (Mech)
+Year: IV/Semester VIII(Exam Year: 2024-2025)
+Subject: Information System Management
+Date: 03 May 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No 1 is Compulsory
+5. Out of Remaining questions, attempt any__4__questions
+6. In all __5__questions to be attempted
+7. All Questions carry equal marks
+8. Assume suitable data if necessary
+Q1
+Section A   [10]
+CO- 3;   a.   Explain how a CRM system can help any organization to effectively manage
+SO-;2 BL-   customer relationships different functions.   [2]
+3
+CO-2; SO- b.   Define the term Total Cost of Ownership (TCO) Model.   [2]
+1; BL-1
+c.   Identify four challenges organizations face when implementing new
+CO-2; SO-   [2]
+3; BL-2   Information Systems.
+CO- 2;   d.
+SO-2; BL-   Provide the dimensions of Information systems.   [2]
+2
+CO-3; SO- e.
+2;   Provide the steps to Prevent any malicious attack like Ransomware / Malware   [2]
+BL-4
+Section B
+Q2
+A multinational company wants to expand its e-business operations into
+CO-1, 2;   emerging markets. Discuss the key factors they should consider.   [10]
+SO-2; BL-
+4
+Provide the various analytical tools and techniques used by organizations to
+Q3
+maintain relationships / patterns & trends for accessing vast amounts of data   [10]
+CO-2; SO-
+2; BL- 3   to make better decisions
+Nicco Payments is a leading digital payment service provider in India that
+Q4   facilitates online transactions for individuals and businesses. With a rapidly
+[10]
+CO-3 SO-   growing customer base, the company faces increasing threats related to fraud,
+3; BL-5
+transaction tampering, and unauthorized access.
+********** 1 **********
+--- page 2 ---
+To enhance security, Nicco Payments is considering implementing
+blockchain technology to secure financial transactions and improve
+transparency. However, before full-scale adoption, the company must address
+various challenges and ensure a seamless integration of blockchain with its
+existing financial infrastructure.
+Key Security Challenges Faced by Nicco Payments:
+a) Transaction Fraud: Hackers have attempted to manipulate digital
+transactions, leading to financial losses.
+b) Double Spending Issue: Some users try to exploit the system by
+duplicating digital payments.
+c) Lack of Transparency: Traditional payment systems do not offer real-
+time visibility into transaction histories.
+d) Regulatory Compliance: The company must adhere to Reserve Bank
+of India (RBI) guidelines and global financial security standards.
+e) Integration with Legacy Systems: Ensuring blockchain works
+seamlessly with existing banking and financial technologies.
+Questions:
+1. How can Nicco Payments use blockchain technology to enhance
+transaction security and prevent fraud in digital payments? Also do
+provide the steps should the company take to integrate blockchain
+with its existing financial systems while ensuring compliance with
+regulatory guidelines?
+Q5
+CO-1;   Draw the diagram of The Time/Space Collaboration and Social Tool Matrix   [10]
+SO;2   with proper examples
+BL;2
+Q6
+Explain the complete system development lifecycle process.   [10]
+CO-2; SO-
+3; BL- 3
+Q7   What is knowledge Management? Explain the importance of KM value chain
+CO-2;   in any organization.   [10]
+SO-;2 BL
+-2
+********** 2 **********
+````
+
+## 2024-25 · Final-Exam · Sem 8 · paper 7745edbf1298
+
+- Departments: Computer Engineering
+- Programmes: MBATech Computer 7047
+- Source: `02_Question_Papers/2024/Sem_08/Final-Exam/MBATech_Computer_7047/Information System Management/QP_Information System Management(703TG0C003)_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 03 May 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (EXTC)/MBA.
+Tech (IT)/MBA. Tech (Mech)
+Year: IV/Semester VIII(Exam Year: 2024-2025)
+Subject: Information System Management
+Date: 03 May 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No 1 is Compulsory
+5. Out of Remaining questions, attempt any__4__questions
+6. In all __5__questions to be attempted
+7. All Questions carry equal marks
+8. Assume suitable data if necessary
+Q1
+Section A   [10]
+CO- 3;   a.   Explain how a CRM system can help any organization to effectively manage
+SO-;2 BL-   customer relationships different functions.   [2]
+3
+CO-2; SO- b.   Define the term Total Cost of Ownership (TCO) Model.   [2]
+1; BL-1
+c.   Identify four challenges organizations face when implementing new
+CO-2; SO-   [2]
+3; BL-2   Information Systems.
+CO- 2;   d.
+SO-2; BL-   Provide the dimensions of Information systems.   [2]
+2
+CO-3; SO- e.
+2;   Provide the steps to Prevent any malicious attack like Ransomware / Malware   [2]
+BL-4
+Section B
+Q2
+A multinational company wants to expand its e-business operations into
+CO-1, 2;   emerging markets. Discuss the key factors they should consider.   [10]
+SO-2; BL-
+4
+Provide the various analytical tools and techniques used by organizations to
+Q3
+maintain relationships / patterns & trends for accessing vast amounts of data   [10]
+CO-2; SO-
+2; BL- 3   to make better decisions
+Nicco Payments is a leading digital payment service provider in India that
+Q4   facilitates online transactions for individuals and businesses. With a rapidly
+[10]
+CO-3 SO-   growing customer base, the company faces increasing threats related to fraud,
+3; BL-5
+transaction tampering, and unauthorized access.
+********** 1 **********
+--- page 2 ---
+To enhance security, Nicco Payments is considering implementing
+blockchain technology to secure financial transactions and improve
+transparency. However, before full-scale adoption, the company must address
+various challenges and ensure a seamless integration of blockchain with its
+existing financial infrastructure.
+Key Security Challenges Faced by Nicco Payments:
+a) Transaction Fraud: Hackers have attempted to manipulate digital
+transactions, leading to financial losses.
+b) Double Spending Issue: Some users try to exploit the system by
+duplicating digital payments.
+c) Lack of Transparency: Traditional payment systems do not offer real-
+time visibility into transaction histories.
+d) Regulatory Compliance: The company must adhere to Reserve Bank
+of India (RBI) guidelines and global financial security standards.
+e) Integration with Legacy Systems: Ensuring blockchain works
+seamlessly with existing banking and financial technologies.
+Questions:
+1. How can Nicco Payments use blockchain technology to enhance
+transaction security and prevent fraud in digital payments? Also do
+provide the steps should the company take to integrate blockchain
+with its existing financial systems while ensuring compliance with
+regulatory guidelines?
+Q5
+CO-1;   Draw the diagram of The Time/Space Collaboration and Social Tool Matrix   [10]
+SO;2   with proper examples
+BL;2
+Q6
+Explain the complete system development lifecycle process.   [10]
+CO-2; SO-
+3; BL- 3
+Q7   What is knowledge Management? Explain the importance of KM value chain
+CO-2;   in any organization.   [10]
+SO-;2 BL
+-2
+********** 2 **********
+````
+
+## 2024-25 · Final-Exam · Sem 8 · paper 36affd7fab19
+
+- Departments: Data Science
+- Programmes: MBATech DS 7052
+- Source: `02_Question_Papers/2024/Sem_08/Final-Exam/MBATech_DS_7052/Information System Management/QP_Information System Management(703TG0C003)_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 03 May 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (EXTC)/MBA.
+Tech (IT)/MBA. Tech (Mech)
+Year: IV/Semester VIII(Exam Year: 2024-2025)
+Subject: Information System Management
+Date: 03 May 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No 1 is Compulsory
+5. Out of Remaining questions, attempt any__4__questions
+6. In all __5__questions to be attempted
+7. All Questions carry equal marks
+8. Assume suitable data if necessary
+Q1
+Section A   [10]
+CO- 3;   a.   Explain how a CRM system can help any organization to effectively manage
+SO-;2 BL-   customer relationships different functions.   [2]
+3
+CO-2; SO- b.   Define the term Total Cost of Ownership (TCO) Model.   [2]
+1; BL-1
+c.   Identify four challenges organizations face when implementing new
+CO-2; SO-   [2]
+3; BL-2   Information Systems.
+CO- 2;   d.
+SO-2; BL-   Provide the dimensions of Information systems.   [2]
+2
+CO-3; SO- e.
+2;   Provide the steps to Prevent any malicious attack like Ransomware / Malware   [2]
+BL-4
+Section B
+Q2
+A multinational company wants to expand its e-business operations into
+CO-1, 2;   emerging markets. Discuss the key factors they should consider.   [10]
+SO-2; BL-
+4
+Provide the various analytical tools and techniques used by organizations to
+Q3
+maintain relationships / patterns & trends for accessing vast amounts of data   [10]
+CO-2; SO-
+2; BL- 3   to make better decisions
+Nicco Payments is a leading digital payment service provider in India that
+Q4   facilitates online transactions for individuals and businesses. With a rapidly
+[10]
+CO-3 SO-   growing customer base, the company faces increasing threats related to fraud,
+3; BL-5
+transaction tampering, and unauthorized access.
+********** 1 **********
+--- page 2 ---
+To enhance security, Nicco Payments is considering implementing
+blockchain technology to secure financial transactions and improve
+transparency. However, before full-scale adoption, the company must address
+various challenges and ensure a seamless integration of blockchain with its
+existing financial infrastructure.
+Key Security Challenges Faced by Nicco Payments:
+a) Transaction Fraud: Hackers have attempted to manipulate digital
+transactions, leading to financial losses.
+b) Double Spending Issue: Some users try to exploit the system by
+duplicating digital payments.
+c) Lack of Transparency: Traditional payment systems do not offer real-
+time visibility into transaction histories.
+d) Regulatory Compliance: The company must adhere to Reserve Bank
+of India (RBI) guidelines and global financial security standards.
+e) Integration with Legacy Systems: Ensuring blockchain works
+seamlessly with existing banking and financial technologies.
+Questions:
+1. How can Nicco Payments use blockchain technology to enhance
+transaction security and prevent fraud in digital payments? Also do
+provide the steps should the company take to integrate blockchain
+with its existing financial systems while ensuring compliance with
+regulatory guidelines?
+Q5
+CO-1;   Draw the diagram of The Time/Space Collaboration and Social Tool Matrix   [10]
+SO;2   with proper examples
+BL;2
+Q6
+Explain the complete system development lifecycle process.   [10]
+CO-2; SO-
+3; BL- 3
+Q7   What is knowledge Management? Explain the importance of KM value chain
+CO-2;   in any organization.   [10]
+SO-;2 BL
+-2
+********** 2 **********
+````
+
+## 2024-25 · Final-Exam · Sem 8 · paper 3552cc75ee86
+
+- Departments: Information Technology
+- Programmes: MBATech IT 7041
+- Source: `02_Question_Papers/2024/Sem_08/Final-Exam/MBATech_IT_7041/Information System Management/QP_Information System Management(703TG0C003)_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 03 May 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (EXTC)/MBA.
+Tech (IT)/MBA. Tech (Mech)
+Year: IV/Semester VIII(Exam Year: 2024-2025)
+Subject: Information System Management
+Date: 03 May 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No 1 is Compulsory
+5. Out of Remaining questions, attempt any__4__questions
+6. In all __5__questions to be attempted
+7. All Questions carry equal marks
+8. Assume suitable data if necessary
+Q1
+Section A   [10]
+CO- 3;   a.   Explain how a CRM system can help any organization to effectively manage
+SO-;2 BL-   customer relationships different functions.   [2]
+3
+CO-2; SO- b.   Define the term Total Cost of Ownership (TCO) Model.   [2]
+1; BL-1
+c.   Identify four challenges organizations face when implementing new
+CO-2; SO-   [2]
+3; BL-2   Information Systems.
+CO- 2;   d.
+SO-2; BL-   Provide the dimensions of Information systems.   [2]
+2
+CO-3; SO- e.
+2;   Provide the steps to Prevent any malicious attack like Ransomware / Malware   [2]
+BL-4
+Section B
+Q2
+A multinational company wants to expand its e-business operations into
+CO-1, 2;   emerging markets. Discuss the key factors they should consider.   [10]
+SO-2; BL-
+4
+Provide the various analytical tools and techniques used by organizations to
+Q3
+maintain relationships / patterns & trends for accessing vast amounts of data   [10]
+CO-2; SO-
+2; BL- 3   to make better decisions
+Nicco Payments is a leading digital payment service provider in India that
+Q4   facilitates online transactions for individuals and businesses. With a rapidly
+[10]
+CO-3 SO-   growing customer base, the company faces increasing threats related to fraud,
+3; BL-5
+transaction tampering, and unauthorized access.
+********** 1 **********
+--- page 2 ---
+To enhance security, Nicco Payments is considering implementing
+blockchain technology to secure financial transactions and improve
+transparency. However, before full-scale adoption, the company must address
+various challenges and ensure a seamless integration of blockchain with its
+existing financial infrastructure.
+Key Security Challenges Faced by Nicco Payments:
+a) Transaction Fraud: Hackers have attempted to manipulate digital
+transactions, leading to financial losses.
+b) Double Spending Issue: Some users try to exploit the system by
+duplicating digital payments.
+c) Lack of Transparency: Traditional payment systems do not offer real-
+time visibility into transaction histories.
+d) Regulatory Compliance: The company must adhere to Reserve Bank
+of India (RBI) guidelines and global financial security standards.
+e) Integration with Legacy Systems: Ensuring blockchain works
+seamlessly with existing banking and financial technologies.
+Questions:
+1. How can Nicco Payments use blockchain technology to enhance
+transaction security and prevent fraud in digital payments? Also do
+provide the steps should the company take to integrate blockchain
+with its existing financial systems while ensuring compliance with
+regulatory guidelines?
+Q5
+CO-1;   Draw the diagram of The Time/Space Collaboration and Social Tool Matrix   [10]
+SO;2   with proper examples
+BL;2
+Q6
+Explain the complete system development lifecycle process.   [10]
+CO-2; SO-
+3; BL- 3
+Q7   What is knowledge Management? Explain the importance of KM value chain
+CO-2;   in any organization.   [10]
+SO-;2 BL
+-2
+********** 2 **********
+````
+
+## 2024-25 · Re-Exam · Sem 8 · paper af5d9ac5956f
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBATech (ELECTRONICS & TELECOMMUNICATIO
+- Source: `02_Question_Papers/2024/Sem_08/Re-Exam/MBATech (ELECTRONICS & TELECOMMUNICATIO_ba3ceaa3/Information System Management/QP_Information System Management(703TG0C003)_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 05 Jul 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (EXTC)/MBA.
+Tech (IT)/MBA. Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2024-2025)
+Subject: Information System Management
+Date: 05 Jul 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No 1 is Compulsory
+5. Out of Remaining questions, attempt any__4__questions
+6. In all __5__questions to be attempted
+7. All Questions carry equal marks
+8. Assume suitable data if necessary
+Q1   Section A   [10]
+CO- 1;   a.
+Mention the 6 strategic objectives for which any firm invests heavily in   [2]
+SO-1; BL-
+Information systems
+1
+b.   Provide one liner for all the information systems being used by different
+CO-1; SO-   [2]
+2; BL-2   management groups.
+CO-1,2;   c.   What are disruptive technologies – provide an example & also explain
+SO-3; BL-   [2]
+one liner about First movers and fast followers
+3
+CO- 3;   d.   With proper diagram explain the difference between Push Versus Pull
+SO-3; BL-   [2]
+Based supply chain model.
+3
+e.   A retail company wants to expand its e-commerce operations. Identify and
+CO-2;
+SO4-; BL-   explain the key Information Systems it should implement to support this   [2]
+3   growth.
+Section B
+Q2   By integrating collaboration tools, organizations can cultivate a culture of
+CO-1,2,3;   innovation, inclusivity, and efficiency, ultimately enhancing productivity and
+[10]
+SO-2; BL-   employee satisfaction. Justify!!
+4
+Q3
+Explain how E-commerce world is different from traditional strategies along
+[10]
+CO-2; SO-   with its types & revenue models
+2; BL- 2
+Evaluate the role of artificial intelligence (AI) and big data in enhancing
+Q4   collaboration within multinational corporations. What are the potential risks   [10]
+and limitations of relying on AI-driven decision-making?
+********** 1 **********
+--- page 2 ---
+CO-2,3;
+SO-2; BL-
+2
+Q5
+CO-2;   Provide the different types of Knowledge Management System along with a   [10]
+SO;2   proper explanation & example.
+BL;2
+Q6
+Are systems vulnerable – Do justify your answer.? Also explain spoofing and   [10]
+CO-2; SO-   its different types.
+3; BL- 3
+Q7
+Provide and explain in short, the components of IT infrastructure in detail.
+CO-2; SO-   [10]
+2; BL-2
+********** 2 **********
+````
+
+## 2024-25 · Re-Exam · Sem 8 · paper 0b376f8df527
+
+- Departments: Mechanical
+- Programmes: MBATech (MECHANICAL ENGINEERING) - 7046
+- Source: `02_Question_Papers/2024/Sem_08/Re-Exam/MBATech (MECHANICAL ENGINEERING) - 7046/Information System Management/QP_Information System Management(703TG0C003)_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 05 Jul 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (EXTC)/MBA.
+Tech (IT)/MBA. Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2024-2025)
+Subject: Information System Management
+Date: 05 Jul 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No 1 is Compulsory
+5. Out of Remaining questions, attempt any__4__questions
+6. In all __5__questions to be attempted
+7. All Questions carry equal marks
+8. Assume suitable data if necessary
+Q1   Section A   [10]
+CO- 1;   a.
+Mention the 6 strategic objectives for which any firm invests heavily in   [2]
+SO-1; BL-
+Information systems
+1
+b.   Provide one liner for all the information systems being used by different
+CO-1; SO-   [2]
+2; BL-2   management groups.
+CO-1,2;   c.   What are disruptive technologies – provide an example & also explain
+SO-3; BL-   [2]
+one liner about First movers and fast followers
+3
+CO- 3;   d.   With proper diagram explain the difference between Push Versus Pull
+SO-3; BL-   [2]
+Based supply chain model.
+3
+e.   A retail company wants to expand its e-commerce operations. Identify and
+CO-2;
+SO4-; BL-   explain the key Information Systems it should implement to support this   [2]
+3   growth.
+Section B
+Q2   By integrating collaboration tools, organizations can cultivate a culture of
+CO-1,2,3;   innovation, inclusivity, and efficiency, ultimately enhancing productivity and
+[10]
+SO-2; BL-   employee satisfaction. Justify!!
+4
+Q3
+Explain how E-commerce world is different from traditional strategies along
+[10]
+CO-2; SO-   with its types & revenue models
+2; BL- 2
+Evaluate the role of artificial intelligence (AI) and big data in enhancing
+Q4   collaboration within multinational corporations. What are the potential risks   [10]
+and limitations of relying on AI-driven decision-making?
+********** 1 **********
+--- page 2 ---
+CO-2,3;
+SO-2; BL-
+2
+Q5
+CO-2;   Provide the different types of Knowledge Management System along with a   [10]
+SO;2   proper explanation & example.
+BL;2
+Q6
+Are systems vulnerable – Do justify your answer.? Also explain spoofing and   [10]
+CO-2; SO-   its different types.
+3; BL- 3
+Q7
+Provide and explain in short, the components of IT infrastructure in detail.
+CO-2; SO-   [10]
+2; BL-2
+********** 2 **********
+````
+
+## 2024-25 · Re-Exam · Sem 8 · paper 930271391948
+
+- Departments: Artificial Intelligence
+- Programmes: MBATech AI 7051
+- Source: `02_Question_Papers/2024/Sem_08/Re-Exam/MBATech_AI_7051/Information System Management/QP_Information System Management(703TG0C003)_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 05 Jul 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (EXTC)/MBA.
+Tech (IT)/MBA. Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2024-2025)
+Subject: Information System Management
+Date: 05 Jul 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No 1 is Compulsory
+5. Out of Remaining questions, attempt any__4__questions
+6. In all __5__questions to be attempted
+7. All Questions carry equal marks
+8. Assume suitable data if necessary
+Q1   Section A   [10]
+CO- 1;   a.
+Mention the 6 strategic objectives for which any firm invests heavily in   [2]
+SO-1; BL-
+Information systems
+1
+b.   Provide one liner for all the information systems being used by different
+CO-1; SO-   [2]
+2; BL-2   management groups.
+CO-1,2;   c.   What are disruptive technologies – provide an example & also explain
+SO-3; BL-   [2]
+one liner about First movers and fast followers
+3
+CO- 3;   d.   With proper diagram explain the difference between Push Versus Pull
+SO-3; BL-   [2]
+Based supply chain model.
+3
+e.   A retail company wants to expand its e-commerce operations. Identify and
+CO-2;
+SO4-; BL-   explain the key Information Systems it should implement to support this   [2]
+3   growth.
+Section B
+Q2   By integrating collaboration tools, organizations can cultivate a culture of
+CO-1,2,3;   innovation, inclusivity, and efficiency, ultimately enhancing productivity and
+[10]
+SO-2; BL-   employee satisfaction. Justify!!
+4
+Q3
+Explain how E-commerce world is different from traditional strategies along
+[10]
+CO-2; SO-   with its types & revenue models
+2; BL- 2
+Evaluate the role of artificial intelligence (AI) and big data in enhancing
+Q4   collaboration within multinational corporations. What are the potential risks   [10]
+and limitations of relying on AI-driven decision-making?
+********** 1 **********
+--- page 2 ---
+CO-2,3;
+SO-2; BL-
+2
+Q5
+CO-2;   Provide the different types of Knowledge Management System along with a   [10]
+SO;2   proper explanation & example.
+BL;2
+Q6
+Are systems vulnerable – Do justify your answer.? Also explain spoofing and   [10]
+CO-2; SO-   its different types.
+3; BL- 3
+Q7
+Provide and explain in short, the components of IT infrastructure in detail.
+CO-2; SO-   [10]
+2; BL-2
+********** 2 **********
+````
+
+## 2024-25 · Re-Exam · Sem 8 · paper a3f6be21aeb7
+
+- Departments: Computer Engineering
+- Programmes: MBATech Computer 7047
+- Source: `02_Question_Papers/2024/Sem_08/Re-Exam/MBATech_Computer_7047/Information System Management/QP_Information System Management(703TG0C003)_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 05 Jul 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (EXTC)/MBA.
+Tech (IT)/MBA. Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2024-2025)
+Subject: Information System Management
+Date: 05 Jul 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No 1 is Compulsory
+5. Out of Remaining questions, attempt any__4__questions
+6. In all __5__questions to be attempted
+7. All Questions carry equal marks
+8. Assume suitable data if necessary
+Q1   Section A   [10]
+CO- 1;   a.
+Mention the 6 strategic objectives for which any firm invests heavily in   [2]
+SO-1; BL-
+Information systems
+1
+b.   Provide one liner for all the information systems being used by different
+CO-1; SO-   [2]
+2; BL-2   management groups.
+CO-1,2;   c.   What are disruptive technologies – provide an example & also explain
+SO-3; BL-   [2]
+one liner about First movers and fast followers
+3
+CO- 3;   d.   With proper diagram explain the difference between Push Versus Pull
+SO-3; BL-   [2]
+Based supply chain model.
+3
+e.   A retail company wants to expand its e-commerce operations. Identify and
+CO-2;
+SO4-; BL-   explain the key Information Systems it should implement to support this   [2]
+3   growth.
+Section B
+Q2   By integrating collaboration tools, organizations can cultivate a culture of
+CO-1,2,3;   innovation, inclusivity, and efficiency, ultimately enhancing productivity and
+[10]
+SO-2; BL-   employee satisfaction. Justify!!
+4
+Q3
+Explain how E-commerce world is different from traditional strategies along
+[10]
+CO-2; SO-   with its types & revenue models
+2; BL- 2
+Evaluate the role of artificial intelligence (AI) and big data in enhancing
+Q4   collaboration within multinational corporations. What are the potential risks   [10]
+and limitations of relying on AI-driven decision-making?
+********** 1 **********
+--- page 2 ---
+CO-2,3;
+SO-2; BL-
+2
+Q5
+CO-2;   Provide the different types of Knowledge Management System along with a   [10]
+SO;2   proper explanation & example.
+BL;2
+Q6
+Are systems vulnerable – Do justify your answer.? Also explain spoofing and   [10]
+CO-2; SO-   its different types.
+3; BL- 3
+Q7
+Provide and explain in short, the components of IT infrastructure in detail.
+CO-2; SO-   [10]
+2; BL-2
+********** 2 **********
+````
+
+## 2024-25 · Re-Exam · paper 960183135282
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Information system management/Information System Management, Sem-VIII, Batch 2024-25, Re Exam.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 30 June 2026
+- Text: ocr (3 pages), mean OCR confidence 90.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGI
+
+Academic Year: 2025-26
+Program: MBA Tech (AI/COMP/DS/EXTC/IT)
+
+Year: IV Semester: YI
+Subject: Information System Management a“
+Time: 2.00 pm to 4.00 pm (2 hrs) *
+Date : 30 June 2026
+
+No. of Pages:_03
+Marks: 50
+Re-Exam (2024-25/2025-26) _
+
+Instructions:
+1. This question paper contains 3 pages.
+2. Question #1 is compulsory
+3. Out of the remaining questions, attempt any 4
+4. In all 5S questions to be attempted
+5. All questions carry equal marks
+6. Answer to each question to be started on fresh page
+7. Figures in bracket on the right hand side indicate full marks
+8. Assume suitable data if necessary
+
+Ql Answer briefly: — - [10]
+
+CO-; What are three key challenges that organizations face when adopting
+
+BLS ‘ Enterprise Applications, such as ERP or CRM systems? “
+a 7 b. What are the principles of e-commerce business and revenue models? [2]
+a ry ; Distinguish between business-to-consumer and business to-business 2]
+
+: "| ecommerce giving examples.
+
+pe d. How do Moore’s Law and Metcalfe’s Law influence IT strategy? [2]
+a What strategic risks are associated with outsourcing IT systems? [2]
+
+FR dk .
+--- page 2 ---
+Critique blockchain adoption in B2B ecommerce supply chains versus [10]
+traditional ERP systems. ;
+
+|
+
+How the internet business model helps to enhance the e-commerce market? | [10]
+
+Explain the concept of API based, EDI-based, XML based and Blockchain
+
+based B2B e-commerce integration. Describe their impact on supply chain [10]
+
+visibility, data interoperability, and implementation costs.
+
+CASE STUDY: IT Governance and Decentralization Conflict
+
+A multinational firm allows regional units to manage their own IT systems.
+
+While this provides flexibility, it leads to duplication of systems and
+
+inconsistent data. Headquarters wants to centralize IT governance, but
+
+regional managers resist losing control. Integration across regions is weak,
+
+affecting global Strategy. Competitors with centralized systems achieve
+
+better coordination.
+
+Diagnose governance issues and stakeholder conflict.
+
+[5]
+In the long term, how should governance evolve.
+
+. [5]
+ON
+
+a
+
+FORK IK DR dk
+--- page 3 ---
+om
+
+Q6
+CO-2;
+BL-3,4,5
+
+CASE STUDY: Failed ERP Implementation in Manufacturing
+
+Through an external IT vendor, a manufacturing company implemented an |
+Lad
+
+ERP system using a traditional waterfall approach. The project took two
+years, during which market conditions changed significantly. By the time
+the system was deployed, it lacked flexibility to handle new customer
+demands. Employees found it rigid and difficult to use. There was minionel
+involvement from end users during design. Operational disruptions
+increased, and productivity declined. Management now faces rising costs
+and pressure to adapt quickly. Competitors using agile development
+
+approaches are outperforming the firm in responsiveness and innovation.
+
+5 stakeholders (employee, IT team, customers, vendor and management)
+
+have been identified. Post deployment analyse how they were impacted ?
+
+[5]
+
+The leadership faces a choice between 2 choices: Replace vs Upgrade.
+Analyse the two choices and any alternate if they exist and recommend an
+
+optimal approach.
+
+[5]
+
+Q7
+CO-3;
+BL-3,4,5
+
+CASE STUDY: Outsourcing and System Integration Risk
+
+A large insurance company outsourced its claims processing system to an
+external vendor to reduce costs and improve efficiency. Initially, the system
+performed well, but over time, hidden costs emerged in vendor management,
+integration, and customization. The company struggled to integrate the
+outsourced system with legacy databases. Sensitive customer data exposure
+became a concern. Employees felt disconnected from the system and lacked
+control over processes. Meanwhile, competitors investing in in-house digital
+capabilities began offering faster and more personalized services. The firm
+must decide whether to continue outsourcing or bring capabilities back in-
+
+house.
+
+So many outsourcing have worked successfully. But what went wrong here?
+
+[5]
+
+The company can continue to outsource OR bring everything inhouse OR
+try an alternative? Analyze the scenario with reasons and suggest a
+
+favourable approach.
+
+[5]
+
+FOI IIR 2A kk
+````
+
+## 2023-24 · Final-Exam · paper 9b76c136e252
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Information system management/Information system Management,Final 2023-24.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (3 pages), mean OCR confidence 91.6
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENG:
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2023-2024 Z
+
+Program/s: MBA TECH Year: IV Semester: VII
+
+NG/
+
+his 5
+
+i!
+
+Stream/s ; All Stream
+
+Subject: Information Systems Management : Time: 2 Hrs(10:00 A.M to12:00 P.M )
+Date:_24/11/2023 No. of Pages: 3
+
+Marks 50
+
+Final Examination (2023-24) / Re Exam (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+C 1) Question 1.is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions.
+3) Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Ql
+Section -A
+a. You are the manager of a small manufacturing company that produces
+custom luxury watches. Recently, you've noticed increased competition in
+Co- 1; SO- the luxury watch market. Analyze the industry using Porter's Competitive | [2]
+; BL-6 ; ry
+_ Forces Model and provide insights into how your company can respond
+strategically.
+CO-1; SO- | b. List the capabilities of Database Management Systems. [2]
+; BL-l
+G Explain how two-factor authentication can help to reduce fraud and
+CO- 1; SO- (2]
+; BL-2 security breaches.
+CO-2; SO- d. Explain the bullwhip effect. In which type of business, it is likely to occur pI
+; BL-3 most? How can the effect be controlled?
+CO-2; SO- | e. Distinguish the different systems for Management Groups. [2]
+; BL-4
+--- page 2 ---
+Section - B )
+
+Q2
+CO-3; SO- .
+E-commerce has its limitations. Identify four such limitations. [10]
+>; BL-3
+Q3
+CO-3: SO- Describe the advantages of green computing practices and utilizing multicore [10]
+processors and how they can contribute to business success.
+; BL-5
+Q4
+CO-03; List and illustrate the components of IT infrastructure that firms need to [10]
+SO-; manage.
+BL-04
+Q5 . ,
+. Make use of the Netflix based Recommender system by enumerating the
+CO-2; SO- [10]
+; BL-3 entire process & mention how does Amazon help Netflix store data’s.
+Q6
+CO-2; SO- Explain the steps involved in Business Process Redesign. [10]
+; BL-2
+ABC Manufacturing Company is a medium-sized Indian manufacturing ;
+firm specializing in automotive components. In an effort to improve
+operational efficiency and decision-making processes, the company
+Q7
+
+decided to implement a comprehensive MIS. However, the MIS
+implementation proved to be a major failure, leading to various
+
+challenges and issues
+
+Challenges and Issues:
+
+1.Data Integration: The MIS implementation involved integrating data from
+various departments within the organization, including production, sales,
+and finance. However, data from these departments remained isolated in
+silos, making integration a significant challenge. This resulted in
+discrepancies and inaccuracies in the information presented.
+
+2. Resistance to Change: Many employees were resistant to the new
+system, as they were accustomed to their manual processes.
+
+oe
+
+a™
+--- page 3 ---
+“
+
+They found it difficult to adapt to the new technology and often reverted
+to their old methods of data collection and reporting.
+
+3. Poor User Interface: The user interface of the MIS was complex and
+unintuitive. Employees found: it difficult to navigate, input data, and
+generate reports. This led to frustration and reduced system usage.
+
+4. Data Security: There were data security breaches within the MIS, leading
+to the exposure of sensitive company information. Customer data,
+financial records, and proprietary manufacturing processes were
+compromised. :
+
+5.Budget Overruns: The company significantly overspent its budget for the
+MIS implementation. The project cost more than expected due to
+unforeseen technical issues and additional training requirements.
+
+CO-3; SO-
+;BL-1
+
+What security measures should have been in place to prevent data
+breaches within the MIS? How can the company rebuild trust and ensure
+the security of sensitive data after a breach?
+
+[5]
+
+CO-2; 50-
+;BL-1
+
+How could ABC Manufacturing Company have ensured a smoother
+integration of data from different departments into the MIS? What steps
+can be taken to prevent data silos and discrepancies in a similar project?
+
+[5]
+````
+
+## 2023-24 · Re-Exam · paper dda7241dfa96
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Information system management/Information System Management , Re-exam 2023-24.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 14/2/2025
+- Text: ocr (2 pages), mean OCR confidence 91.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+
+Program: MBA TECH Stream : Civil, Mechanical Jace Year: IV Semester:VII
+
+Subject: Information System Management Time: 2 hrs (2:00 R.M to 4:00 P.M)
+Date: 14/2/2025 No. of Pages: 2
+
+Marks: 50
+
+Re-Examination (Batch - 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any _4 questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+Section -A 4
+CO- 1; SO- | a. Does BI systems deliver any analytical capabilities — Do Justify. [2]
+; BL- 6
+b: Based on the current competition in Mobile industry how would you
+CO-1; SO-; [2]
+BL-I analyze the market using competitive forces model.
+(Gs Provide the different systems which Top Management teams uses on daily
+CO- 1; SO- [2]
+;BL-2 basis.
+CO-2; SO-; | d. How can inappropriate Demand & Supply be controlled in market. [2]
+BL-3
+CO-2; SO-; | e. How does authentication factors helps in reducing cyber security breaches. | [2]
+BL-4
+Section -B
+Q2
+CO-3; SO-; Amazon No 1 could service provider — Does Helps OTT platforms like Zee5 /
+
+[10]
+BL-3 Netflix for storing and maintain data’s. Explain How & Justify your answer.
+--- page 2 ---
+Q3
+
+CO-3; SO-; Provide the major causes of ERP Implementation Failures in any organization. [10]
+BL-5
+Q4
+ae Provide the different dimensions of Knowledge Management System. [10]
+BL-02
+It is said that supply chains are essentially “a series of linked suppliers and
+a 50-; customers; every customer is in turn a supplier to the next downstream ol
+BL-4 organization, until the ultimate end-user.” Explain. Use a diagram to make
+your point.
+Q6
+CO-2; SO-; Specify the major activities related to System development cycle. [10]
+BL-2
+Q7 Considering the various cyber-attacks like Phishing, outdated software’s, worms /
+Trojans also related third party risk what strategies should financial institutions (10)
+
+CO-3; SO-; like Insurance Companies / Banks adopt to minimize disruption & identify
+
+BL- 2 vulnerabilities in legacy systems.
+````
+
+## 2023-24 · Re-Exam · paper 6f983893d849
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Information system management/Information System Mgmt , Re-exam 2023-24,2022-23.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 07/02/2024
+- Text: ocr (3 pages), mean OCR confidence 90.3
+
+````text
+SVKM’S NMIMS ti
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2023-2024
+
+Program/s: MBA TECH Year: [V Semester: VII
+
+Stream/s ; All Stream.
+
+Subject: Information Systems Management Time: 2 Hrs(2:00 PM to 4:00 P.M )
+Date: 07/02/2024 ; No. of Pages: 3
+
+Marks 50
+
+Re-Examination (2023-24) / Re Exam (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+©) 1) Question 1.is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions.
+3) Inall__5__ questions to be attempted.
+4) All questions carry equal marks. .
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Section -A
+CO- 1; SO- | a. Mention the 4 Major applications used by Organizations worldwide. (2]
+; BL-1
+b. What are the 5 different Managerial behavior that differ from classical
+CO- 1; SO- [2]
+;BL-1 description? ‘
+CO- 2; SO- | c. What are the Six Analytics functionalities that BI systems have to deliver? - | [2]
+;BL-2 :
+d. Distinguish between ERP and SCM software. In what ways do they
+CO-2; SO- ‘ (2]
+; BL-4 complement each other? :
+0-4; SO- fs Explain how internet has changed competitive forces and competitive 2]
+; BL-4 advantage
+Section - B
+Q2.CO-1;
+
+SO-; BL- 2 Describe the core activities of System Development. [10]
+--- page 2 ---
+XYZ Bank is a prominent Indian financial institution with a vast network of
+branches and digital services. As part of its digital transformation efforts,
+the bank has faced several internet vulnerabilities that pose significant
+cybersecurity challenges. ;
+
+Vulnerabilities and Challenges: :
+
+1. Phishing Attacks: The bank has experienced a surge in phishing attacks
+targeting its customers and employees, resulting in compromised login
+credentials and data breaches.
+
+Q3 2. Outdated Software: Many of the bank's systems and applications run on [10]
+outdated software, leaving them susceptible to known vulnerabilities and
+exploits. 3. Third-Party Risks: The bank relies on multiple third-party
+vendors for various services, creating potential security risks in terms of
+data handling and access. 4. Insider Threats: A recent incident involved an
+employee with privileged access who misused the bank's data for personal
+gain. 5. Regulatory Compliance: The bank is struggling to keep up with
+evolving cybersecurity regulations and compliance requirements set by the
+Indian government. .
+
+What strategies should the bank employ to keep its software and systems
+
+CO-3; SO- up-to-date while minimizing service disruptions? How can the bank identify | [5]
+
+;BL1 and patch known vulnerabilities in legacy systems?
+
+What due diligence measures should the bank undertake when engaging
+
+CO-2; SO- with third-party vendors to ensure data security and privacy? How can XYZ [5]
+
+> BL-1 Bank monitor and manage the security practices of its third-party vendors
+throughout the partnership? ‘
+
+Q4 —— .
+The ERP system can generate significant benefits and challenges. [10]
+CO2-; SO- Elaborate. Also, highlights the causes of the failure of ERP implementation.
+; BL-S
+Q5 . : . .
+What is the role of Knowledge Management Systems in Business? Explain
+CO-2; SO- [10]
+; BL-2 the important dimensions of KMS in detail.
+It is said that supply chains are essentially “a series of linked suppliers and
+Q6 customers; every customer is in turn a supplier to the next downstream
+oa SO- organization, until the ultimate end-user.” Explain. Use a diagram to make ae
+
+your point.
+
+oD
+
+a
+--- page 3 ---
+Describe the activities in an Information Systems that produce the
+
+Q7
+CO-1; SO-
+; BL-2 with two examples where computers are targets.
+
+information that organization needs? Also define computer crime along {10]
+````
+
+## 2023-24 · Re-Exam · paper 5b28e93a9c6f
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Information system management/Information Systems Management, Re Exam 2023-24.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 26/11/2024
+- Text: ocr (2 pages), mean OCR confidence 89.4
+
+````text
+SVKM’S NMIMS Se
+
+‘3
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+
+Program: MBA TECH Stream : Civil, Mechanical Year: [V Semester: VII
+
+Subject: Information Systems Management : Time: 2 hrs (10:00 A.M to 12:00 P.M)
+Date: 26/11/2024 No. of Pages: 2
+
+Marks: 50
+
+Re-Examination (Batch - 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory. a
+2) Out of remaining questions, attempt any __4 _questiorts.
+3) In all__5_ questions to be attempted. Rony
+
+4) All questions carry equal marks. :
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+Section-A
+CO- 1; SO- | a. Explain how information systems are transforming business. [2]
+;BL-1 .
+CO-1; SO-; | b. Mention the dimensions of Information Systems. [2]
+BL-I :
+CO- 1; SO- | c. Provide examples of functional business process. [2]
+; BL- 2
+CO-2; $0-; d. Draw the diagram of Two-way relationship between organizations and 2]
+BL-3 information technology.
+CO-2; SO-; | e. Disruptive Technologies - Explain with example. [2]
+BL-4
+
+Section -B
+Q2
+CO-3; SO-;
+
+Justify as to why E-commerce is different and what are the Key concepts 110]
+BL-3
+related to same.
+--- page 2 ---
+i
+
+Q3 r
+What is an Enterprise application? Provide the kind of business..processes /
+CO-3; SO-; modules related to same and also mention the challenges which organization | [10]
+
+BL-3 faces with such applications.
+
+Q4
+
+CO-02;
+SO-;
+BL-04
+
+Draw the diagram of Key Supply Chain Management Processes. {10}
+
+Q5
+
+Sea SO-; Explain the difference between Push Vs Pull Based Supply chain model. [10]
+
+Q6
+CO-2; SO-; What is the Role of Knowledge Management Systems in Business. [10]
+
+A
+
+BL-2
+
+Q7
+
+CO-3; SO-; Provide the 6 elements in Business Intelligence Environment. [10]
+
+BL- 2
+````
+
+## 2022-23 · Final-Exam · paper 62472e637d7a
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Information system management/Information System Management,Final,2022-23.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 18 November 2022
+- Text: ocr (3 pages), mean OCR confidence 88.5
+
+````text
+SVKM’s NMIMS {i
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEENR |
+
+Academic Year: 2022-23
+
+Programme: MBA Tech (All Stream) : ; Year: IV Semester: VIL
+_ Subject: Information System Managemenit: |
+_ . Marks: 50 -
+Date: 18 November 2022 - : Time: 2.00 pm - 4.00 pin ~
+
+Durations: 2 (Hrs),
+; No. of Pages: _©3 -
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Qi F
+Answer briefly: [10]
+CO-2, | a. More than 25 percent of critical data in Fortune 1000 company databases
+SO-1, have data problems. Identify four specific data problems that you can (2)
+BL-2 perceive.
+CO-1, | b. :
+SO-2, Provide the major advantages of shopping online of any product. (2)
+BL-1
+roa ° What are the three major knowledge management systems (2)
+Co-l, | d. Describe Moore’s Law and the Law of Mass Digital Storage. Is there any
+SO-2, relation between these two laws? Briefly explain. (2)
+BL-3
+CO-3, | e. , ~ * . . é A rl
+S03 Explain how businesses can benefit from green computing & Multicore (2)
+BL2 processors.
+Q2 [10]
+CO-2, a. .
+Why is collaboration growing in its importance across businesses and what
+SO-3, are the main types of collaboration? (5)
+BL-3
+
+OY,
+--- page 2 ---
+CO-2, b. | IT department fulfils various demands from various departments within an
+S0-2, organization. In this context, discuss the significance of role CIO and (5)
+various responsibilities associated with it.
+BL-4
+Q3
+{10}
+CO-2, a. A ‘ ' A ‘ . a
+How do business intelligence and business analytics support decision-
+SO-3, making? (5)
+BL-2
+CO-2, b. .
+Why are knowledge workers so important to the digital firm? What are
+SO-3, their functions and which of these do you feel is most critical to the (6)
+BL-2 success of the firm? Why?
+04 [10]
+CO-3,
+S0-3, Explain key reasons (in bullets) as to why and how IT flattens an (5)
+organization.
+BL-3
+GOS, What are the key characteristics of Enterprise Applications? What are the
+SO-3, four most common Enterprise Applications? (5)
+BL-2 :
+Q5 You are appointed as a Chief Risk Officer for your organization which is [10]
+hosting a web-based applications
+CO-3,
+S0-2, Interpret any five security challenges and vulnerability you may face on (5)
+mi communication lines / network and corporate servers or systems.
+Co-3,
+50-2 Develop/ Construct your plan of action to overcome each of these issues. (5)
+BL-6
+Q6 [10]
+
+Ps
+--- page 3 ---
+CO-2,
+| Explain Porter’s five forces framework in the context of a large grocery
+SO-3, stores chain, like D-Mart. Analyse each force to be strong, medium or (5)
+BL-3 weak and comment on company’s profitability based on this analysis.
+CO-3,
+So-2, Discuss what is meant by Green computing and suggest whether it (5)
+improves company’s profitability in anyway.
+BL-2
+Macy’s Inc., through its subsidiaries, operates approximately 600
+department systems in the United States. Its retail stores sell a range of
+merchandise, including apparel, home furnishing, and housewares. Senior
+Q7 management has decided that Macy’s needs to tailor merchandise more to [10]
+local tastes and that the colors, sizes and brands, and styles of clothing and
+other merchandise should be based on the sales patterns in each individual
+Macy’s store.
+CO-2, . . ‘
+50.2 How could information system help Macy’s management implement this (4)
+; new strategy?
+BL-3 sd
+CO-2, .
+ne What pieces of data should these systems collect to help management ©
+BL ; make merchandising decisions that support the strategy?
+````
+
+## 2022-23 · Re-Exam · paper 0c3ffcacad6f
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Information system management/Information system Management,Re-exam 2022-23.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 30 January 2023
+- Text: ocr (3 pages), mean OCR confidence 92.0
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program: MBA Tech (All Stream) Year: IV Semester : VII
+AcademicY ear: 2022-2023
+
+Subject: Information System Management
+Marks: 50
+
+Date : 30 January 2023 Time: 2.00 pm - 4.00 pm
+Durations: 2 (Hrs)
+No. of Pages:_3
+Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _i___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+/
+
+Ql Answer briefly: [10]
+CO-1, | a.
+SO-1, What are various categories or types of Business processes? Give an (2)
+BL-1 example of each type.
+CO-1, | b.
+SO-2, Give one example each of unstructured, semi-structured and structured (2)
+a BL-3 decision.
+CO-3, | c.
+SO-2, . : 7
+La What are the steps in Knowledge management value chain? (2)
+BL-
+CO-2, | d.
+SO-3, What are commonly exchanged documents in Electronic Data Interchange | (2)
+BL-1 (EDI)?
+--- page 2 ---
+CO-3,
+SO-3,
+
+Explain the concept of Trojan horse in the context of computer (2)
+BL-1 virus/worm.
+Q2 [10]
+CO-2, How can IT help achieve Customer and Supplier intimacy as strategic
+S0-3, business objectives. Explain how Supplier intimacy could be crucial for a (5)
+typical car maker company. You may give a real car maker example to
+BL-3 drive your point home.
+CO-2,
+Data, Information, Knowledge and Wisdom are basic layers in the
+SO-2, ‘information model. What are key technologies that effectively operate at (5)
+BL-2 each of these layers.
+Q3
+[10]
+CO-2, : . . : ' 2
+How do business intelligence and business analytics support decision-
+SO-3, making? (5)
+BL-2
+CO-2, —
+Why are knowledge workers so important to the digital firm? What are
+SO-3, their functions and which of these do you feel is most critical to the (5)
+BL-2 success of the firm? Why?
+Q4 [10]
+CO-3,
+SO-3, Explain in detail the various modules commonly offered in CRM (5)
+application/packages.
+BL-l pp p g
+CO-3, tag: . .
+Even Mid-Size corporates in the market have started adopting cloud-based
+SO-3, platforms — discuss/justify the reasons for this change. (5)
+BL-3
+Q5 You are appointed as a Chief Risk Officer for your organization which is [10]
+
+hosting a web-based applications
+
+2)
+
+i,
+
+=>
+--- page 3 ---
+CO-3,
+
+SO-2, Interpret any five security challenges and vulnerability you may face on (5)
+ara communication lines / network and corporate servers or systems.
+CO-3,
+50-2 Develop/ Construct your plan of action to overcome each of these issues. (5)
+BL-6
+Q6
+[10]
+CO-2, :
+Explain with examples as to what is meant by subject-oriented, integrated,
+SO-3, time-variant, and non-volatile collection of data in the context of Data (5)
+BL-3 Warehouse. :
+CO-3,
+SO-2, List and illustrate the components of IT infrastructure that firms need to (5)
+manage
+BL-2
+The University of Pittsburgh Medical Center (UPMC) relies on
+information systems to operate 19 hospitals, a network of other care sites,
+and international and commercial ventures. Demand for additional servers
+and storage technology grew by 20 percent each year. UPMS was setting
+Q7 up a separate server for every application, and its servers and other [10]
+computers were running a number of different operating systems,
+including several versions of Unix and Windows. UPMC had to manage
+technologies from many different vendors, including Hewlett-Packard
+(HP), Sun Microsystems, Microsoft and IBM.
+CO-2,
+so-2 Assess the impact of this situation on business performance of UPMC (4)
+BL-3
+CO-2, ‘ :
+You are recently appointed CIO of UPMC and your task is to reduce TCO
+SO-2, of UPMC’s IT. What would be your recommendations? (6)
+BL-5
+````
+
+## 2019-20 · Final-Exam · paper 7278394cbb59
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Information system management/Information system management ,Final exam 2019-20.pdf`
+- Printed on paper: max marks: 70; duration hours: 2; exam date: 13 November 2019
+- Text: ocr (3 pages), mean OCR confidence 95.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Programme: MBA TECH (All Stream) Year: IV Semester: VII
+Academic Year: 2019-20
+Subject: Information System Management
+Marks: 70
+Date: 13 November 2019 Time: 2.00 pm - 4.00 pm.
+Durations: 2 (Hrs)
+Final Examination (2019-20) evo Porges —2
+Instructions:-
+
+1. Question no.1 is compulsory
+2. Attempt Any Four from the rest
+3. Figures to the right indicate full marks.
+
+Compulsory
+Select one best option out of the choices provided for each question
+
+1) Which of the following is not one of the six strategic business objectives of information systems?
+A) New products and services
+’ B) Improved decision making
+C) Competitive advantage
+D) Improved employee morale
+E) Survival
+
+2) Producing a bill of materials is a business process in which of the following functional areas?
+A) Finance and accounting
+
+B) Human resources
+
+C) Manufacturing and production
+
+D) Research and development
+
+E) Sales and marketing
+
+3) Which level of the organization is an ESS specifically designed to serve?
+A) Operational
+
+B) End-user
+
+C) Middie management
+
+D) Senior management
+
+E) Knowledge workers
+
+4) Which of the following statements about business processes is not true?
+
+A) Business processes influence the relationship between an organization and information
+technology.
+
+B) Business processes are a collection of standard operating procedures.
+
+C) A business firm is a collection of business processes.
+
+D) Business processes are usually entrenched in an organization’s culture.
+
+E) Business processes are typically unaffected by changes in information systems.
+
+5) Amazon's use of the Internet as a platform to sell books more efficiently than traditional
+bookstores illustrates which of the following strategies?
+
+A) Low-cost leadership
+
+B) Marketing effectiveness
+
+C) Focusing on market niche
+
+D) Strengthening supplier intimacy
+
+E) Developing synergies
+
+2
+--- page 2 ---
+6) Which of the following refers to a company’s suppliers, supplier's suppliers, and the processes for
+managing relationships with them?
+
+A) Supplier's internal supply chain
+
+B) External supply chain
+
+C) Upstream portion of the supply chain
+
+D) Downstream portion of the supply chain
+
+E) Onstream portion of the supply chain
+
+7) Customer service modules in CRM systems provide tools for:
+A) assigning and managing customer service requests.
+
+B) capturing prospect and customer data.
+
+C) identifying profitable and unprofitable customers.
+
+D) managing sales prospect and contact information.
+
+E) organizing effective marketing campaigns.
+
+_ 8) Which of the following dimensions of e-commerce technology involves the integration of video,
+audio, and text marketing messages into a single marketing message and consumer experience?
+A) Ubiquity
+B) Personalization/customization
+C) Richness
+D) Interactivity
+E) Social technology
+
+9) What is the primary benefit to consumers of disintermediation?
+
+A) Faster service
+
+B) Lower costs
+
+C) Higher quality
+
+D) Greater choices
+
+E) None, because disintermediation primarily benefits manufacturers.
+
+10) Which of the following has a large number of sensing and processing nodes that continuously
+interact with each other?
+
+A) Neural network.
+
+B) Expert system.
+
+C) CBR
+
+D) Fuzzy logic system
+
+E) Genetic algorithm .
+
+11) CAD workstations:
+
+A) provide engineers, designers, and factory managers with precise control over industrial design
+and manufacturing. :
+
+B) provide an important source of expertise for organizations.
+
+C) allow groups to work together on documents.
+
+D) are high-end PCs used in the financial sector to analyze trading situations instantaneously and
+facilitate portfolio management.
+
+E) facilitate employee learning.
+
+12) Specific application required for different departments and functional needs, for an
+organization’s Information system, falls under which IT Governance catagory?
+
+A) IT principles
+
+B) IT Architecture
+
+C) IT Services
+
+D) Business application
+
+E) IT Budgets
+
+13) In which IT Governance Archetype the Decisions are made jointly by business heads and unit
+heads; may or may not include IT Heads
+
+A) Business Monarchy
+
+B) IT Monarchy
+
+ala
+--- page 3 ---
+C) Federal
+“p) IT Duopoly
+E) Anarchy
+
+14) Which of the following is not one of the five main variables affecting project success?
+A) Risk
+
+B) Vendors
+
+C) Time
+
+D) Quality
+E) Cost
+
+Optional
+
+2 a Describe the characteristics of a digital firm. (3 marks)
+b. What does Thomas Friedman mean when he says the world is now “flat”? (4 marks)
+
+c. Describe the challenges and opportunities of globalization in a “flattened” world. (7 marks)
+
+3 a. Describe the two major economic theories viz. Transaction cost theory and Agency theory that
+help explain how information systems affect organizations. (9)
+
+b. What explanations do behavioral theories offer about the impact of information systems on
+organizations. (5)
+
+4 (a) How are enterprise systems aiding management in making better decisions? Discuss with
+examples. (7)
+(b) Compare Operational CRM with Analytical CRM (4)
+(c) What is the Business value of Customer Relationship Management systems? (3)
+
+rs
+
+5 (a) How eCommerce brings about Disintermediation? Discuss key benefits of disintermediation. (7)
+(b) Explain the concepts of Reach and Richness in the context of internet and eCommerce. Compare
+and contract Reach and Richness of Print media with Social media (7)
+
+a. Distinguish between data, knowledge, and wisdom and between tacit knowledge and explicit
+
+knowledge. (7)
+b. Can robots replace human workers in manufacturing? Explain your answer.. (7)
+
+7 a. What are the objectives of project management, and why is it so essential in developing
+information systems? (7)
+b. Describe the purpose of an information systems plan and list the major categories in the plan. (7)
+
+14
+
+14
+
+14
+
+14
+
+14
+
+14
+````
+
+## 2018-19 · Final-Exam · paper 99eaf81d3d9b
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Information system management/Information system Management Final 18-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 2; exam date: 20 November 2018
+- Text: ocr (4 pages), mean OCR confidence 94.0
+
+````text
+| i a
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE!
+
+Programme: MBA Tech ( All Streams) Year: IV Semester: VII
+Academic Year: 2018-2019 |
+Subject: Information System Management
+: Marks: 70
+Date: 20 November 2018 Time: 2.00 pm - 4.00 pm
+
+Durations: 2 Hrs
+No. of Pages : A
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page:
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+SECTION A — All questions in this section are compulsory
+
+Qi:
+A. What are the essential features of a modern organization? 2 marks
+B. What is Disruptive Innovation in IT? 2 marks
+C. How are Management information systems different from transaction processing systems? 2 marks
+D. Name any four the information systems used to support activities of the value chain 2 marks
+E. How is a Portal different from an Aggregator? 2 marks
+F. What is the difference between centralized and decentralized management of IT? 2 marks
+G. Who are Knowledge workers in an organization? 2 marks
+
+144
+--- page 2 ---
+SECTION B-Attempt any 4 questions from this section
+
+Q2:
+
+(A) Briefly explain seven challenges faced by the manager, who has to manage an organization’s information
+systems (IS). —7 marks
+
+(B) Explain with examples how MIS can help in making tactical, operational and strategic decisions in a car
+
+manufacturing firm. Which types of employees can make these types of decisions? —7 marks
+Q3:
+(A) Explain Roger’s Model of Diffusion of Innovation with a suitable example. —7 marks
+(B) Give one example each for seven types of business innovations with IT. —7 marks
+Q4:
+_ (A) Illustrate difference between centralized and decentralized IT management with a diagram. —2 marks
+
+(B) If you were made the Chairman of a company responsible for setting up the IT governance structure, what
+categories of decisions would you be making that are crucial to determine the IT governance of any
+
+organization? —5 marks
+(C) What is meant by IT governance archetypes? Briefly explain six IT gavernance archetypes. —7 marks
+alg
+
+(A) Justify and critique workplace monitoring. In what different ways are organizations monitoring their employees,
+when at work? —7 marks
+
+(B) What is Green IT? How green practices are used in hardware design & manufacturing.and that in software
+design? —7 marks
+
+Q6. Read the brief Case Study and answer the questions that follow:
+
+ABC is a real-estate company in a big city that buys land parcels at premium locations and builds high-end
+apartments for residential purposes. There are only a few such real-estate companies in the city who command such
+a premium. ABC markets and sells these apartments to well-off people who can pay a premium and would like to
+enjoy best amenities and live among people of certain class. ABC sells directly to the end-customer and does not
+have any distributor or agents for sales or marketing and rely heavily on Digital channels for sales and marketing as
+their end-customers are tech-savvy. At any given point in time, they may have many finished and under-
+construction projects to select from and for under-construction property they offer customization as per end-
+
+24,
+
+N
+--- page 3 ---
+customer needs. They usually equip their apartments with latest in technology which enables end-customer to
+automate many aspects like energy-and-climate-control, solar power, high-tech lifts, automated parking, monitoring
+and security etc. They deploy state-of-the-art construction technology and are known for their on-time and high-
+quality delivery and thus have earned quite a reputation.
+
+(A) Arrive at Industry profitability of such real-estate businesses using Porter framework. Make suitable
+assumptions about various forces and state them. - 6 marks
+
+(B) What are various IT systems or modules that you would like to suggest for their business across their business
+value-chain? Consider all primary Value-chain activities like inbound logistics, operations, outbound logistics, sales
+and marketing, and maintenance. - 8 marks
+
+Q7. Read the brief Case Study and answer the questions that follow:
+Case Study : Transforming through IT
+
+The State Bank of India (SBI), the largest bank in the country, has a phenomenal reach in terms of number of
+branches across the entire length and breadth of the country, serving more than 110 million customers, SBI has
+recently linked all branches on a computerised system, Bank Master, to improve operational efficiency and maintain
+leadership position in the country.
+
+Considering the threat posed by technically sound private and foreign banks, and to establish SBI as one the most
+advanced banks in the world, SBI undertook core banking projects to network 14000+ branches which is one of the
+largest core banking projects of its kind in the world.
+
+The project enabled SBI to integrate all delivery channels such as ATM, Internet Banking, Mobile Banking, and
+payment system network of the country. Eventually, the bank would be able to reap the benefits of such centralised
+database by going into data mining and data warehousing which would enable the bank to trend analysis,
+forecasting of customer preferences, cross selling products, and gathering business intelligence. The project was
+designed on a traditional software development life-cycle with six phases: feasibility study, requirement analysis, «
+design, development, implementation and post implementation.
+
+IT Made it all Possible
+
+° Interconnected branches - customer can approach any branch and make transactions
+° Internet banking to enable banking at the click of a mouse
+
+° Easy and instant transfer of money from one place to another at reduced cost
+
+. Immediate transfer of account from one branch to another
+
+° Instant transfer of money between SBI and its associate banks
+
+° Hassle-free and faster inter-bank money transfer through NEFT
+
+° Inter-bank money transfer anytime, anywhere
+
+° No queue for Bill payments
+
+3/4
+--- page 4 ---
+. Powered by core-banking solution, online payment facility for mobile bills, electricity bills, credit card bills
+etc. ;
+
+° Use of ATM for booking of railway tickets, airline tickets, bill payment and money transfer
+
+The project began in 2001 with feasibility study, evaluation, benchmarking and selection process and the first pilot
+branch for core-banking implementation was taken up in 2003. TCS was the solution provider which has carried out
+customisation of the software originally purchased from FNS, Australia. Major challenges during project
+implementation were problems in design freeze, user training and poor connectivity. The design freeze problem was
+addressed by controlled customisation and proper release maintenance. The problem of connectivity was addressed
+by bandwidth segregation and sorting out port problem. Planned training infrastructure was built through various
+modes including e-learning, to ensure all users are adequately covered. The entire bank was on CBS by the end of FY
+08 and expects to see the real power of core banking soon. This has placed SBI in the forefront of the global banking
+arena.
+
+Questions:
+
+(A) As stated above, TCS customised the software purchased from FNS, Australia. What do you broadly
+
+understand by customisation in this context? Give couple of scenarios where such customisation would
+have been needed by SBI in Indian context. - 5 marks
+
+(B) What according to you, are top four benefits of core banking implementation by SBI? - 4 marks
+
+(C) What are the key tasks that the ClO of SBI would have performed during the entire project until its
+completion in 2008? : -5 marks
+
+4
+````
+
+## 2018-19 · Re-Exam · paper ff5e720627b5
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Information system management/Information system Management Re-exam 2018-19.pdf`
+- Printed on paper: max marks: 70; duration hours: 2
+- Text: ocr (4 pages), mean OCR confidence 93.8
+
+````text
+SVKMW’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: MBA Tech (All Streams)~ _ ; Year: [IV ~ Semester: VII -
+| Academic Year: 2018-2019
+
+! Subj ect: Information System Management ~ Marks: 70~ \
+
+L Time: 2.00 pm to 4.00 pm —
+Date: 21 J 2019
+ate: 21 January Durations: 2 (hrs)
+
+No. of Pages: 4
+
+Re-examination (2018-19)~
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page:
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+SECTION A — All questions in this section are compulsory
+
+Qis
+A. How are Information systems (IS) different than Information Technology (IT)? (2)
+B. How do ideas and innovations diffuse through a population over time? (2)
+C. How are Management information systems different from transaction processing systems? (2)
+D. Name any four the information systems used to support activities of the value chain. (2)
+E. What is a Virtual Private Network? (2)
+F. What is IT governance? (2)
+G. Give one positive and one negative effect of workplace monitoring in organizations. (2)
+
+i,
+--- page 2 ---
+SECTION B—Attempt any 4 questions from this section
+Q2. Read the following paragraph and answer the questions that follow:
+
+There are various types of business across Industries. Some common types are:
+
+(a) Stable and profitable business with very little new competition
+
+(b) Growing, new age business which has yet to make profit and have some competition
+
+(c) Growing, profitable and face a lot of competition.
+For each type of business above, the Technology choice and IT Management may differ. Technology choice
+needs to be made in the areas of Cost of Technology, Scalability, Inter-operability, Security, Maturity and
+Upgrades. IT Management is mainly around Centralized or De-centralized mode of operations or even some
+kind of Hybrid model.
+
+(A) Discuss how you will decide on Technology choices for each type of business. You may like to give example(s) of
+each business type in your answer to drive your points home. 6 marks
+
+(B) What are general responsibilities of a ClO across businesses and what are some of the specific responsibilities of
+
+a CIO in each type of business? 8 marks
+Q3.
+
+(A) What is Green IT? 6 marks
+(B) How is IT used for green practices in the value chain? 8 marks
+a4.
+
+(A) What is e-waste? Why is it a problem and how it can be managed in organizations? 10 marks
+(B) What do you understand by the term “Information Panopticon”? Explain with a diagram. 4 marks
+Qs.
+
+(A) What is the difference between Transaction processing system and Management Information system?
+Explain with an example. 6 marks
+
+(B) What are the implications of Centralized or Decentralized IT functions on Vendor management, Innovation, IT
+
+procurement and career paths for IT Staff? 8 marks
+a6.
+(A) List any six types of business innovations possible with IT? Illustrate with an example of each. 6 marks
+
+(B) What are First-Order, Second-Order and Third-Order effects in an IT Interaction model? Illustrate these
+effects in an educational institution. 8 marks
+
+‘ls
+--- page 3 ---
+Q7. Read the brief Case Study and answer the questions that follow:
+
+Flipkart is a Bangalore — based firm that operates in the e-commerce domain. It was set up in September 2007 as an
+online book retailing venture with the objective of making books accessible to customers anywhere in India, at
+competitive prices, through excellent customer service and prompt delivery. There is fierce competition in the e-
+commerce segment with many strong players, such as Amazon.in and Snapdeal.com; however, Flipkart has retained
+its market share and dominance.
+
+The experience of buying a product, say a book, at the Flipkart website is similar to doing transactions on other
+online storés. Upon arriving at the site, a customer is presented with an array of options for purchase. In 2016,
+Flipkart offered seven broad categories to choose from — electronics, appliances, furniture, books, and products
+specific to men, women, and children (such as clothes or toys). When the books menu is selected, the site shows
+books that are currently popular or have been just released. The customer can search for a book by typing in the
+title or the name of the author in a search text box. The result of the search displays a number of books with similar
+titles or books by the same author. The customer can also browse the website by subject and see a list of books on
+a particular subject. If the customer decides to buy a book then he/ she can select the particular book and move it
+to a ‘shopping cart’ application. This software application then allows the customer to specify his/ her address for
+book delivery, the manner by which the payment has to be made, and how the delivery should be made. Upon
+submitting the order, an email message and an SMS message is sent to the customer to confirm the order.
+Subsequently, the site sends out messages informing the customer of when the order is dispatched and when it will
+be delivered.
+
+Once the online order is placed, the book is taken out of the Flipkart inventory, maintained at its offices and shipped
+to the customer. In case the ordered book is not available with Flipkart, it is purchased from a supplier and shipped
+immediately. Flipkart currently has partnerships with many courier companies, and also owns a shipping firm, called
+Ekart. It also uses the Indian post services to reach areas which are beyond the reach of courier companies. In this
+way it can maintain a prompt delivery service, which is a competitive need of the company.
+
+Flipkart started a cash on delivery’ service in many cities, the metros and tier one cities. Under this service, the
+customer would pay the courier the book price in cash, only upon receiving the book. Customers felt more
+comfortable with this payment method, and Flipkart gained their trust that was of great importance to it. This also
+helped the firm increase the number of target customer, as book buyers, such as students who did not have credit
+or debit cards for online payment, could also avail of its service. This was a key differentiator for Flipkart, gave it a
+lot of positive feedback and helped to bring in more customers.
+
+Flipkart offers a strong customer care service (where products may be returned free of charge if they are defective
+or not as advertised), free and on-time delivery, a user-friendly website that it is easy to browse, a large stock of
+product, discounts on most items and an easy and reliable payment service. Flipkart partners with local vendors
+who maintain an updated inventory. Additionally, it has tie-ups with many local and international suppliers that
+enable it to sell a wide assortment of goods. For instance, it has exclusive sales arrangements with some mobile
+phone manufacturers (such as Lenovo), to offer their phones on Flipkart’s site alone. The company’s expenses are
+limited to maintaining the websites, paying the suppliers, cost of packaging and delivery, and salaries of the people
+working at its office. In 2015, Flipkart had about 35,000 employees.
+
+sy
+--- page 4 ---
+One challenge Flipkart faces is that online shopping is popular only with the young, urban class that is technology
+savvy. The company’s system is also dependent largely on the efficiency threat from other, more established e-
+commerce sites, such as Amazon.in and Snapdeal, it has maintained a consistent and growing presence in its ~
+customer segment.
+
+(A) How will you go about creating IT and digital strategy for Flipkart? 10 marks
+
+(B) What are the areas for creating differentiation with the help of IT in case of Flipkart? 4 marks
+
+‘ly
+````
+
+## 2012-13 · Final-Exam · Trim 8 · paper 704c36cfa224
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/INFORMATION SYSTEMS FOR MANAGEMENT/INFORMATION SYSTEMS FOR MANAGEMENT2012-2013 FINALscan0090.pdf`
+- Printed on paper: duration hours: 2; exam date: 21/01/2013
+- Text: ocr (1 page), mean OCR confidence 94.2
+
+````text
+SVKM’s NMIMS
+
+Programme: MBA (Tech) - All Streams Year: III Trimeste\
+Academic Year : 2012-2013 K
+
+v
+
+Subject: Information Systems for Management Marks: &
+Time: 10.00 am To 12.00 noon
+Date: 21/01/2013 Duration: 2 hrs.
+Final - Examination
+
+Instructions: Candidates should read the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Attempt any 5 questions.
+
+2. Answer to each question to be started ona fresh page.
+
+3. Figure in brackets on the right hand side indicates full marks.
+4. Make suitable assumptions if necessary.
+
+Q1. Explain how information systems that align with the enterprise have an impact on the firm.
+Provide suitable justifications for the same. [10 Marks]
+
+Q2. Highlight some of the important technology developments in the operating systems used in
+mobile handset devices. [10 Marks]
+
+Q3. What are the various forms of cyber crime? What measures are taken by companies to
+} safeguard themselves from these crimes? [10 Marks]
+
+Q4. For the retail banking industry, what type of applications would have medium - high impact
+in terms of productivity improvement and why? {10 Marks]
+
+Q5. Explain the concept of ‘Cloud Computing’ giving suitable illustrations. Which technology
+
+vendors are offering cloud solutions? [10 Marks]
+‘ !
+Q6. What are Knowledge Management Systems (KMS)? Explain using suitable illustrations.
+[10 Marks]
+
+Q7. Discuss any two wireless telecom developments India has seen in the last ten years.
+[10 Marks]
+
+L
+````
+
+## 2012-13 · Re-Exam · Trim 8 · paper c2fc253b2f3b
+
+- Departments: Chemical, Information Technology
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CHEMICAL/TRIM VIII/INFORMATION SYSTEMS FOR MANAGEMENT/INFORMATION SYSTEMS FOR MANAGEMENT VIII MBA TECH 2012-13 RE EXAM.pdf` (+1 identical copies)
+- Printed on paper: duration hours: 2; exam date: 22/06/2013
+- Text: text (1 page)
+
+````text
+.
+-<   SVKM's NMIMS
+Programme: MBA TECH - (All Streams)
+Batch:   2012-2013
+Subject:   Information Systems for Management
+Date:   22/06/2013   Duration:   2 hrs.
+Re - Examination
+Instructions: Candidates should ) read carefdly the istrcstioss priztad GE ?kequestion pnpr arnd on the
+cover of the Answer Book, which is provided for their use.
+NB:
+1. Question no 1is compulsory
+2. Attempt any four out of six questions.
+3. All questions carry equal marks.
+4. Answer to each new question to be started on fresh page.
+5. Figures in bracket on the right hand side indicate full marks.
+QI A   Discuss some of the emerging software trends and its impact on opnimtion performance and (10)
+competitive advantage giving suitable illustration.
+Q2 A   What is business process? Explain Porters and Industry value c,& model for business to run   (10)
+in competitive market
+Q3 A   Explain seven unique features of E-commerce tahnology and there business significance.   (10)
+Q4 , A   (10)
+Explain different types of decisions taken in different levels of organizations. Explain in detail
+different stages in decision making process.
+d;
+Q5 A   Explain the role of ~ a t wm'housing a   and Business intelligence System Using a block   (10)
+diagramand example.
+4 6 A   Explain different types of Knowledge based System.
+47   Write Short note on
+R   Digital Goods
+a Digital Market
+````
+
+## Year not stated · Exam not stated · paper 903abbcd1213
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Information system management/Information System Management.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (3 pages), mean OCR confidence 90.8
+
+````text
+>STME
+BRARY
+
+a SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEE a
+
+Academic Year: 2022-2023 .
+Program: MBA Tech Stream: All Streams Year: IV Semestef* VII
+
+Subject: Information System Management Time: 2 Hrs,(4400 am to d!o0 pm)
+Date:_414 / 06/2023 No. of Pages: 3
+Marks: 50
+
+Special ‘Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1. Questions 1 is compulsory.
+
+a 2. Out of remaining questions, attempt any __4 _ questions.
+3. Inall__5_ questions to be attempted.
+4. All questions carry equal marks
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+7. Assume Suitable data if necessary.
+
+Section—A
+
+Ql
+
+a. Which system out of: - Enterprise Application, CRM, or SCM is designed 2]
+
+CO-1, SO-, BL-3 to support organization-wide process coordination and integration?
+Why?
+
+b. [2]
+List one advantage and one disadvantage of Cloud computing.
+
+CO2-, SO-, BL-2
+
+lan
+c. (2]
+
+7 Explain the term Bullwhip Effect?
+CO-2,3, SO-, BL-2
+
+d. [2]
+Explain what is meant by information asymmetry
+CO-1,3, SO-, BL-1
+
+e. [2]
+What are main Global strategies in the internationalization?
+
+CO-3, SO-, BL-
+Section —-B
+Q2
+a.
+Illustrate and Explain the Enterprise Applications Architecture of a firm. [5]
+
+CO-1, SO-, BL-2
+
+CO — Course Outcomes SO — Student Outcomes, BL — Bloom’s Taxonomy Level
+--- page 2 ---
+b. Mention few points as to how IT infrastructure supports organization [5] |
+CO-2, SO-, BL-2 culture
+Q3 7
+What is Knowledge Work System? A Real-estate construction company” [5]
+builds luxury apartments in urban areas and wishes to implement a
+knowledge work system (K WS) for its architects, engineers, and sales
+a. and marketing executives. This K WS also will enable virtual
+CO-3, SO-, BL-5 walkthroughs of apartments without visiting the site, which was very
+much of a requirement in the Covid lockdown. Suggest key features and
+capabilities of such a KWS and explain how each stakeholder
+(architects, engineers, customers, etc) will typically interact with it.
+b. : Give any 5 strategic reasons why information systems are so important [5]
+CO-1, SO-, BL-2 for business today.
+Q4
+a. [5]
+C0-2,80-, BL-3 Define Green computing. Explain with examples how it can be achieved.
+Apple is a Transnational business with operations (plants and factories) [5]
+in many countries including the USA, China, Mexico, Germany, Italy,
+France, South Korea, Japan. It has Apple-stores, retailers/showrooms
+” and distributors in almost all countries in the world. Apple phones
+C0-3,80-, BL-4 (iPhones) provide a very high degree of privacy compared to other smart
+phones. Their products and features are routinely copied by competitors
+in spite of Apple guarding their Intellectual Property.
+What are major challenges and considerations Apple faces as a Global
+company and how it affects their operations?
+Q5
+a Discuss the notion of Delayed gratification in the context of ecormmerce. [5]
+C0-3, $0-, BL-3 Does it equally apply to both physical and digital goods? Why or why
+not?
+b. Why do companies invest huge amount in database management system [5]
+CO-2, SO-, BL-3 when they already have traditional file environment in place.
+
+Case Study: Big Basket
+
+BigBasket.com's delivery systems are uniquely designed to provide you
+Q6 the abiliy to select a convenient time to receive your purchases either
+
+during the day or night. You can pre-book your delivery slot during
+
+check-out and be assured that the goods will be delivered as per your
+
+CO —Course Outcomes SO — Student Outcomes, BL — Bloom’s Taxonomy Level
+
+5
+--- page 3 ---
+a
+
+booked slot. To maintain the freshness and quality of frozen, chilled &
+fresh food we have equipped our delivery van's with multi temperature
+reefer units and cold storage devices which maintains
+frozen and chilled range temperatures.
+Delivery slot:
+BigBasket.com provides a unique service and promise of delivering the
+goods in 2-3 hour window based on the delivery slot selected by you.
+This ensures certainty and aids in planned purchase of your household
+needs and eliminates long waits staying at home without knowing the
+exact time of delivery or even missing your delivery. You can choose to
+receive your order the same day in the 4:30 pm to 7 pm or 7:30 pm to 10
+id pm slot or on any day upto 6 days from the date of placing the order.
+Currently we offer 4 delivery slots in a day; 7 am to 9:30 am, 10 am to
+12:30 am, 4:30 pm to 7 pm & 7:30 pm to 10 pm.
+You can check the availability and book your delivery slot at the time of
+checking out. For your convenience we make deliveries on all 7 days in
+a week and 365 days a year with no holidays!
+Order Cutoff time:
+In order to facilitate timely picking and delivery of all orders we follow
+a cutoff time for each delivery slot.
+To be able to pick a delivery slot the order needs to be placed before the
+cut-off time for that particular delivery slot. The cut-off times for
+delivery slots are given below:
+
+Delivery Slot Cut off time
+
+7 am - 9:30. am 1 pm the previous day
+
+10am - 12:30 pm 1 pm the previous day
+~ 4:30 pm - 7 pm 6 am the same day
+
+7:30 pm - 10 pm 6 am the same day
+
+(Source: Big Basket website)
+
+a. What are the inputs, processing, and outputs of Big Basket’s order [5]
+CO-3, SO-,BL-5 delivery system?
+
+b. What strategic business objectives do Big Basket’s information systems [5]
+CO-1, SO-, BL-5 address?
+
+CO —Course Outcomes SO — Student Outcomes, BL — Bloom’s Taxonomy Level
+````
+
+## Year not stated · Exam not stated · paper ccf31f30b0a9
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/Information system management/Information System Management_ccf31f30b0.pdf`
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 88.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+' SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2025-2026
+Program/s: MBA TECH —_ Year: IV Semester: VII
+Stream/s :All Streams / meEc Hel viL
+
+Subject: Information System:. Management ; Time: 2 hrs ( 10.00 am to 12.00 pm)
+Date:_25 / || / 2025 No. of Pages: 2
+Marks: 50
+
+Re-Examination (2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. : :
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks:
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+’ 7) Assume Suitable data if necessary.
+
+Answer briefly: : [10]
+
+Case: Stellar Textiles is a company that supplies uniforms to educational
+institutions, hospitals, and corporate organizations across multiple cities.
+The company operates through regional offices that coordinate with
+clients, production teams, and suppliers. Orders are received through
+regional sales offices, which manually collect requirements from clients via
+Qi. email or phone and forward them to the production unit. The production
+team schedules manufacturing based on the availability of raw materials,
+often leading to delays due to inaccurate stock data.
+Invoices are generated manually after delivery, and payment tracking is
+maintained through spreadsheets by the accounts department. Customer
+
+orders are not fulfilled on time and collections are also delayed.
+--- page 2 ---
+What potential 3 business problems might Stellar Textiles Pvt. Ltd. face in
+
+Qia.
+5-60. - the next few years if it continues to operate with the current manual and | [2.5]
+CO-;SO-;
+BL- unintegrated processes?
+. Suggest an information system or technology solution that could help
+CO-; SO-; ; [2.5]
+BL- Stellar Textiles improve its internal coordination and data accuracy.
+Discuss why data security and access control would be important for Stellar
+CO- ; SO- ; [2.5]
+BL- Textiles when adopting iritegratecl information systems.
+Explain six reasons why Information Management Systems are important
+CO- ; SO- ; o ; [2.5]
+BL- for businesses today.
+Q2 Discuss the current trends shaping computer hardware platforms. Explain
+CO-: SO-: any three of these trends in detail, highlighting their impact on business [10]
+BL- and information systems. :
+Q3 Explain the key capabilities of modern database systems and discuss the
+Len. importance of Relational Database Management Systems BMS) in 10
+CO-; SO-;
+BL- managing business information.
+Q4 . , F i az A
+Explain the major data security threats faced by organizations and their
+CO-; SO-; . [10]
+BL- impact on business operations.
+Q5 . . .
+Explain the concept and types of e-commerce. Discuss any three major
+CO-; SO-; . [10]
+BL- revenue models used by e-commerce businesses.
+Q6 A oe
+Explain the concept of the Knowleclge Management Value Chain. Discuss
+CO-; SO-; Boh ed 8 [10]
+BL- its main stages?
+Q7 : ssia 7
+Using Porter's Competitive Forces Model, analyze how external industry
+CO-; SO-; . 3 [10]
+BL forces influence business performance and strategy formulation.
+
+(2)
+````

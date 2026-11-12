@@ -1,0 +1,2054 @@
+# Technical Writing: question papers in full
+
+18 unique papers · 2022 to 2025-26 · Common (all branches), Computer Engineering, Electronics and Telecommunication, Mechatronics, AI and Machine Learning, Artificial Intelligence, Civil, Cyber Security, Data Science, Information Technology, Mechanical, Computer Science
+
+Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 7 · paper d1a8a2225dd7
+
+- Departments: AI and Machine Learning
+- Programmes: BTech AIML 7053
+- Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_AIML_7053/Technical Writing/QP_Technical Writing(702BS0I011)_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech (COMP)/B. Tech
+(CS)/B. Tech (CSE - CS)/B. Tech (CSE - DS) (311)/B. Tech (DS)/B. Tech (IT)/B. Tech
+(MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech
+(EXTC)
+Year: IV/Semester VII(Exam Year: 2025-2026)
+Subject: Technical Writing
+Date: 10 Dec 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory
+5. Out of remaining questions, attempt any 4 questions
+6. In all 5 questions are to be attempted
+7. All questions carry equal marks
+8. Assume suitable data if necessary
+Q1   Answer the following questions in brief:   [20]
+CO-1,   a.   What is Information Overload? Suggest two strategies to overcome   [5]
+BL-1   it while drafting business communication.
+CO-2,   b.   State two benefits of using blogs or other digital media for   [5]
+BL-1   professional networking.
+CO-4,   c.   Describe the standard practices of writing an abstract. What are the   [5]
+BL-1   key components that should be included in a research abstract, and
+why are they important?
+CO-3,   d.   What are the essential components of a well-structured case study?   [5]
+BL-1   Explain how including background, problem statement, analysis,
+and recommendations contributes to the effectiveness of the case
+study.
+Q2   Answer the following questions in brief:   [20]
+CO-1,   a.   “Planning and organizing content is the backbone of effective   [10]
+BL-2   business writing.” Discuss this statement with examples.
+********** 1 **********
+--- page 2 ---
+CO-1,   b. A clothing brand is launching a new product line for eco-friendly   [10]
+BL-3   apparel. Apply the AIDA model to draft a sales message for this
+campaign.
+Q3   Answer the following questions in brief:   [20]
+CO-2,   a.   Discuss how print media and digital media differ in terms of its   [10]
+BL-2   approach to content. Give one example of each.
+CO-2,   b.   Draft a sales letter persuading a college to subscribe to a new online   [10]
+BL-3   learning platform that provides AI-powered tutoring.
+Q4   Answer the following questions in brief:   [20]
+CO-4,   a.   Many researchers struggle to balance between too much detail and   [10]
+BL-4   too much generalization when writing abstracts. Analyse the
+importance of precision and relevance in drafting an abstract. How
+should a researcher decide what to include and what to omit?
+CO-4,   b.   Discuss the key ethical writing principles every writer must follow.   [10]
+BL-6   How do violations of these principles affect a writer’s credibility?
+Support your answer with examples of common ethical breaches in
+academic and professional writing, and suggest best practices to
+ensure compliance with ethical standards.
+Q5   Answer the following questions in brief:   [20]
+CO-3,   a.   Case studies are a powerful tool for analysing real-world problems   [10]
+BL-2   and developing practical solutions. Discuss the step-by-step process
+of writing an effective case study. Illustrate your answer with
+examples of common mistakes in case study writing, and strategies
+to avoid them.
+CO-3,   b. A strong evaluation essay must balance objectivity with critical   [10]
+BL-2   analysis. Explain how writers can avoid personal bias and instead
+********** 2 **********
+--- page 3 ---
+apply structured criteria. How does presenting both strengths and
+limitations of the chosen solution improve the essay’s reliability?
+Q6   Answer the following questions in brief:   [20]
+CO-1,   a.   Discuss the 7 Cs of Communication with suitable examples. Apply   [10]
+BL-   any three to improve this sentence:
+2,3   “We are writing this to inform you that your recent request for
+replacement has been received and will be looked into at a future
+point in time.”
+CO-2,   b.   Write a formal business proposal to introduce an energy-efficient   [10]
+BL-6   lighting system in your company’s office premises.
+Q7   Answer the following questions in brief:   [20]
+a.   Answer the following questions:   [10]
+CO-4,   i.   What are the essential steps involved in preparing and submitting a   [5]
+BL-5   research paper for publication in a peer-reviewed journal? Explain
+each step with suitable examples.
+CO-4,   ii.   Discuss the ethical responsibilities of writers when using   [5]
+BL-6   copyrighted material such as images, articles, or data in their work.
+What best practices should be followed to avoid copyright
+violations?
+b.   Answer the following questions:   [10]
+CO-3,   i.   What is the role of a problem essay in case study writing? Explain   [5]
+BL-5   how it helps in identifying the core issue, analysing its causes, and
+proposing solutions with evidence.
+CO-3,   ii.   Discuss the importance of evaluating multiple alternatives before   [5]
+BL-6   presenting a final decision in a case study. How does this strengthen
+the credibility of the solution?
+********** 3 **********
+````
+
+## 2025-26 · Final-Exam · Sem 7 · paper 982ae039acb6
+
+- Departments: Artificial Intelligence, Civil, Computer Engineering, Cyber Security, Data Science, Electronics and Telecommunication, Information Technology, Mechanical, Mechatronics
+- Programmes: BTech AI 7012, BTech Civil 7005, BTech Computer 7002, BTech CSE DS 7011, BTech CyberSecurity 7010, BTech DS 7009, BTech IT 7001, BTech Mechanical 7003, BTech Mechatronics 7004, MBATech (ELECTRONICS TELECOMMUNICATION, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052
+- Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_AI_7012/Technical Writing/QP_Technical Writing(702BS0I011)_2025-2026.pdf` (+12 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech (COMP)/B. Tech
+(CS)/B. Tech (CSE - CS)/B. Tech (CSE - DS) (311)/B. Tech (DS)/B. Tech (IT)/B. Tech
+(MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech
+(EXTC)
+Year: IV/Semester VII(Exam Year: 2025-2026)
+Subject: Technical Writing
+Date: 10 Dec 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory
+5. Out of remaining questions, attempt any 4 questions
+6. In all 5 questions are to be attempted
+7. All questions carry equal marks
+8. Assume suitable data if necessary
+Q1   Answer the following questions in brief:   [20]
+CO-1,   a.   What is Information Overload? Suggest two strategies to overcome   [5]
+BL-1   it while drafting business communication.
+CO-2,   b.   State two benefits of using blogs or other digital media for   [5]
+BL-1   professional networking.
+CO-4,   c.   Describe the standard practices of writing an abstract. What are the   [5]
+BL-1   key components that should be included in a research abstract, and
+why are they important?
+CO-3,   d.   What are the essential components of a well-structured case study?   [5]
+BL-1   Explain how including background, problem statement, analysis,
+and recommendations contributes to the effectiveness of the case
+study.
+Q2   Answer the following questions in brief:   [20]
+CO-1,   a.   “Planning and organizing content is the backbone of effective   [10]
+BL-2   business writing.” Discuss this statement with examples.
+********** 1 **********
+--- page 2 ---
+CO-1,   b. A clothing brand is launching a new product line for eco-friendly   [10]
+BL-3   apparel. Apply the AIDA model to draft a sales message for this
+campaign.
+Q3   Answer the following questions in brief:   [20]
+CO-2,   a.   Discuss how print media and digital media differ in terms of its   [10]
+BL-2   approach to content. Give one example of each.
+CO-2,   b.   Draft a sales letter persuading a college to subscribe to a new online   [10]
+BL-3   learning platform that provides AI-powered tutoring.
+Q4   Answer the following questions in brief:   [20]
+CO-4,   a.   Many researchers struggle to balance between too much detail and   [10]
+BL-4   too much generalization when writing abstracts. Analyse the
+importance of precision and relevance in drafting an abstract. How
+should a researcher decide what to include and what to omit?
+CO-4,   b.   Discuss the key ethical writing principles every writer must follow.   [10]
+BL-6   How do violations of these principles affect a writer’s credibility?
+Support your answer with examples of common ethical breaches in
+academic and professional writing, and suggest best practices to
+ensure compliance with ethical standards.
+Q5   Answer the following questions in brief:   [20]
+CO-3,   a.   Case studies are a powerful tool for analysing real-world problems   [10]
+BL-2   and developing practical solutions. Discuss the step-by-step process
+of writing an effective case study. Illustrate your answer with
+examples of common mistakes in case study writing, and strategies
+to avoid them.
+CO-3,   b. A strong evaluation essay must balance objectivity with critical   [10]
+BL-2   analysis. Explain how writers can avoid personal bias and instead
+********** 2 **********
+--- page 3 ---
+apply structured criteria. How does presenting both strengths and
+limitations of the chosen solution improve the essay’s reliability?
+Q6   Answer the following questions in brief:   [20]
+CO-1,   a.   Discuss the 7 Cs of Communication with suitable examples. Apply   [10]
+BL-   any three to improve this sentence:
+2,3   “We are writing this to inform you that your recent request for
+replacement has been received and will be looked into at a future
+point in time.”
+CO-2,   b.   Write a formal business proposal to introduce an energy-efficient   [10]
+BL-6   lighting system in your company’s office premises.
+Q7   Answer the following questions in brief:   [20]
+a.   Answer the following questions:   [10]
+CO-4,   i.   What are the essential steps involved in preparing and submitting a   [5]
+BL-5   research paper for publication in a peer-reviewed journal? Explain
+each step with suitable examples.
+CO-4,   ii.   Discuss the ethical responsibilities of writers when using   [5]
+BL-6   copyrighted material such as images, articles, or data in their work.
+What best practices should be followed to avoid copyright
+violations?
+b.   Answer the following questions:   [10]
+CO-3,   i.   What is the role of a problem essay in case study writing? Explain   [5]
+BL-5   how it helps in identifying the core issue, analysing its causes, and
+proposing solutions with evidence.
+CO-3,   ii.   Discuss the importance of evaluating multiple alternatives before   [5]
+BL-6   presenting a final decision in a case study. How does this strengthen
+the credibility of the solution?
+********** 3 **********
+````
+
+## 2025-26 · Final-Exam · Sem 7 · paper 176b00d46160
+
+- Departments: Computer Science
+- Programmes: BTech CS 7055
+- Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_CS_7055/Technical Writing/QP_Technical Writing(702BS0I011)_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech (COMP)/B. Tech
+(CS)/B. Tech (CSE - CS)/B. Tech (CSE - DS) (311)/B. Tech (DS)/B. Tech (IT)/B. Tech
+(MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech
+(EXTC)
+Year: IV/Semester VII(Exam Year: 2025-2026)
+Subject: Technical Writing
+Date: 10 Dec 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory
+5. Out of remaining questions, attempt any 4 questions
+6. In all 5 questions are to be attempted
+7. All questions carry equal marks
+8. Assume suitable data if necessary
+Q1   Answer the following questions in brief:   [20]
+CO-1,   a.   What is Information Overload? Suggest two strategies to overcome   [5]
+BL-1   it while drafting business communication.
+CO-2,   b.   State two benefits of using blogs or other digital media for   [5]
+BL-1   professional networking.
+CO-4,   c.   Describe the standard practices of writing an abstract. What are the   [5]
+BL-1   key components that should be included in a research abstract, and
+why are they important?
+CO-3,   d.   What are the essential components of a well-structured case study?   [5]
+BL-1   Explain how including background, problem statement, analysis,
+and recommendations contributes to the effectiveness of the case
+study.
+Q2   Answer the following questions in brief:   [20]
+CO-1,   a.   “Planning and organizing content is the backbone of effective   [10]
+BL-2   business writing.” Discuss this statement with examples.
+********** 1 **********
+--- page 2 ---
+CO-1,   b. A clothing brand is launching a new product line for eco-friendly   [10]
+BL-3   apparel. Apply the AIDA model to draft a sales message for this
+campaign.
+Q3   Answer the following questions in brief:   [20]
+CO-2,   a.   Discuss how print media and digital media differ in terms of its   [10]
+BL-2   approach to content. Give one example of each.
+CO-2,   b.   Draft a sales letter persuading a college to subscribe to a new online   [10]
+BL-3   learning platform that provides AI-powered tutoring.
+Q4   Answer the following questions in brief:   [20]
+CO-4,   a.   Many researchers struggle to balance between too much detail and   [10]
+BL-4   too much generalization when writing abstracts. Analyse the
+importance of precision and relevance in drafting an abstract. How
+should a researcher decide what to include and what to omit?
+CO-4,   b.   Discuss the key ethical writing principles every writer must follow.   [10]
+BL-6   How do violations of these principles affect a writer’s credibility?
+Support your answer with examples of common ethical breaches in
+academic and professional writing, and suggest best practices to
+ensure compliance with ethical standards.
+Q5   Answer the following questions in brief:   [20]
+CO-3,   a.   Case studies are a powerful tool for analysing real-world problems   [10]
+BL-2   and developing practical solutions. Discuss the step-by-step process
+of writing an effective case study. Illustrate your answer with
+examples of common mistakes in case study writing, and strategies
+to avoid them.
+CO-3,   b. A strong evaluation essay must balance objectivity with critical   [10]
+BL-2   analysis. Explain how writers can avoid personal bias and instead
+********** 2 **********
+--- page 3 ---
+apply structured criteria. How does presenting both strengths and
+limitations of the chosen solution improve the essay’s reliability?
+Q6   Answer the following questions in brief:   [20]
+CO-1,   a.   Discuss the 7 Cs of Communication with suitable examples. Apply   [10]
+BL-   any three to improve this sentence:
+2,3   “We are writing this to inform you that your recent request for
+replacement has been received and will be looked into at a future
+point in time.”
+CO-2,   b.   Write a formal business proposal to introduce an energy-efficient   [10]
+BL-6   lighting system in your company’s office premises.
+Q7   Answer the following questions in brief:   [20]
+a.   Answer the following questions:   [10]
+CO-4,   i.   What are the essential steps involved in preparing and submitting a   [5]
+BL-5   research paper for publication in a peer-reviewed journal? Explain
+each step with suitable examples.
+CO-4,   ii.   Discuss the ethical responsibilities of writers when using   [5]
+BL-6   copyrighted material such as images, articles, or data in their work.
+What best practices should be followed to avoid copyright
+violations?
+b.   Answer the following questions:   [10]
+CO-3,   i.   What is the role of a problem essay in case study writing? Explain   [5]
+BL-5   how it helps in identifying the core issue, analysing its causes, and
+proposing solutions with evidence.
+CO-3,   ii.   Discuss the importance of evaluating multiple alternatives before   [5]
+BL-6   presenting a final decision in a case study. How does this strengthen
+the credibility of the solution?
+********** 3 **********
+````
+
+## 2025-26 · Final-Exam · Sem 7 · paper 10f77c3b15ed
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBATech (ELECTRONICS & TELECOMMUNICATIO
+- Source: `02_Question_Papers/2025/Sem_07/Final-Exam/MBATech (ELECTRONICS & TELECOMMUNICATIO_ba3ceaa3/Technical Writing/QP_Technical Writing(702BS0I011)_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech (COMP)/B. Tech
+(CS)/B. Tech (CSE - CS)/B. Tech (CSE - DS) (311)/B. Tech (DS)/B. Tech (IT)/B. Tech
+(MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech
+(EXTC)
+Year: IV/Semester VII(Exam Year: 2025-2026)
+Subject: Technical Writing
+Date: 10 Dec 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory
+5. Out of remaining questions, attempt any 4 questions
+6. In all 5 questions are to be attempted
+7. All questions carry equal marks
+8. Assume suitable data if necessary
+Q1   Answer the following questions in brief:   [20]
+CO-1,   a.   What is Information Overload? Suggest two strategies to overcome   [5]
+BL-1   it while drafting business communication.
+CO-2,   b.   State two benefits of using blogs or other digital media for   [5]
+BL-1   professional networking.
+CO-4,   c.   Describe the standard practices of writing an abstract. What are the   [5]
+BL-1   key components that should be included in a research abstract, and
+why are they important?
+CO-3,   d.   What are the essential components of a well-structured case study?   [5]
+BL-1   Explain how including background, problem statement, analysis,
+and recommendations contributes to the effectiveness of the case
+study.
+Q2   Answer the following questions in brief:   [20]
+CO-1,   a.   “Planning and organizing content is the backbone of effective   [10]
+BL-2   business writing.” Discuss this statement with examples.
+********** 1 **********
+--- page 2 ---
+CO-1,   b. A clothing brand is launching a new product line for eco-friendly   [10]
+BL-3   apparel. Apply the AIDA model to draft a sales message for this
+campaign.
+Q3   Answer the following questions in brief:   [20]
+CO-2,   a.   Discuss how print media and digital media differ in terms of its   [10]
+BL-2   approach to content. Give one example of each.
+CO-2,   b.   Draft a sales letter persuading a college to subscribe to a new online   [10]
+BL-3   learning platform that provides AI-powered tutoring.
+Q4   Answer the following questions in brief:   [20]
+CO-4,   a.   Many researchers struggle to balance between too much detail and   [10]
+BL-4   too much generalization when writing abstracts. Analyse the
+importance of precision and relevance in drafting an abstract. How
+should a researcher decide what to include and what to omit?
+CO-4,   b.   Discuss the key ethical writing principles every writer must follow.   [10]
+BL-6   How do violations of these principles affect a writer’s credibility?
+Support your answer with examples of common ethical breaches in
+academic and professional writing, and suggest best practices to
+ensure compliance with ethical standards.
+Q5   Answer the following questions in brief:   [20]
+CO-3,   a.   Case studies are a powerful tool for analysing real-world problems   [10]
+BL-2   and developing practical solutions. Discuss the step-by-step process
+of writing an effective case study. Illustrate your answer with
+examples of common mistakes in case study writing, and strategies
+to avoid them.
+CO-3,   b. A strong evaluation essay must balance objectivity with critical   [10]
+BL-2   analysis. Explain how writers can avoid personal bias and instead
+********** 2 **********
+--- page 3 ---
+apply structured criteria. How does presenting both strengths and
+limitations of the chosen solution improve the essay’s reliability?
+Q6   Answer the following questions in brief:   [20]
+CO-1,   a.   Discuss the 7 Cs of Communication with suitable examples. Apply   [10]
+BL-   any three to improve this sentence:
+2,3   “We are writing this to inform you that your recent request for
+replacement has been received and will be looked into at a future
+point in time.”
+CO-2,   b.   Write a formal business proposal to introduce an energy-efficient   [10]
+BL-6   lighting system in your company’s office premises.
+Q7   Answer the following questions in brief:   [20]
+a.   Answer the following questions:   [10]
+CO-4,   i.   What are the essential steps involved in preparing and submitting a   [5]
+BL-5   research paper for publication in a peer-reviewed journal? Explain
+each step with suitable examples.
+CO-4,   ii.   Discuss the ethical responsibilities of writers when using   [5]
+BL-6   copyrighted material such as images, articles, or data in their work.
+What best practices should be followed to avoid copyright
+violations?
+b.   Answer the following questions:   [10]
+CO-3,   i.   What is the role of a problem essay in case study writing? Explain   [5]
+BL-5   how it helps in identifying the core issue, analysing its causes, and
+proposing solutions with evidence.
+CO-3,   ii.   Discuss the importance of evaluating multiple alternatives before   [5]
+BL-6   presenting a final decision in a case study. How does this strengthen
+the credibility of the solution?
+********** 3 **********
+````
+
+## 2025-26 · Final-Exam · Sem 7 · paper 6031c5517bb7
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/TECHNICAL WRITING/Technical Writing, Sem-VII, Year 2025-26, Final Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Dec 2025
+- Text: ocr (3 pages), mean OCR confidence 91.5
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+
+Programme: B. Tech (AI)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech (COMP)/B. Tech
+(CS)/B. Tech (CSE - CS)/B. Tech (CSE - DS) (311)/B. Tech (DS)/B. Tech (IT)/B. Tech
+(MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech
+(EXTC) ,
+Year: IV/Semester VII[(Exam Year: 2025-2026)
+Subject: Technical Writing
+
+Date: 10 Dec 2025 Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100 .
+
+FINAL EXAMINATION (Acad. Year:2025-2026)
+
+Instructions:
+
+1. This question paper contains 3 pages.
+
+2. Answer to each new question to be started on a fresh page.
+
+3. Figure in right hand side indicates full marks
+
+4. Question No. 1 is compulsory
+
+5. Out of remaining questions, attempt any 4 questions
+
+6. In all 5 questions are to be attempted
+
+7. All questions carry equal marks
+
+8. Assume suitable data if necessary
+
+co
+
+Ql Answer the following questions in brief: [20]
+
+CO-1, | a. | What is Information Overload? Suggest two strategies to overcome | [5]
+
+BL-1 it while drafting business communication.
+CO-2, | b. | State two benefits of using blogs or other digital media for [5] >
+BL-1 professional networking.
+
+CO-4, | c. | Describe the standard practices of writing an abstract. What are the | [5]
+BL-1 key components that should be included in a research abstract, and
+
+why are they important? ‘
+
+CO-3, | d. | What are the essential components of a well-structured case study? | [5]
+BL-1 Explain how including background, problem statement, analysis,
+
+and recommendations contributes to the effectiveness of the case
+
+study.
+Q2 Answer the following questions in brief: [20]
+CO-1, | a. | “Planning and organizing content is the backbone of effective [10]
+BL-2 business writing.” Discuss this statement with examples.
+
+FE IOI CR 7 foi tok ak
+--- page 2 ---
+CO-1, A clothing brand is launching a new product line for eco-friendly [10] °
+BL-3 apparel. Apply the AIDA model to draft a sales message for this .
+
+campaign. -
+Q3 Answer the following questions in brief: [20]
+CO-2, Discuss how print media and digital media differ in terms of its [10]
+BL-2 approach to content. Give one example of each.
+CO-2, Draft a sales letter persuading a college to subscribe to a new online | [10]
+BL-3 learning platform that provides Al-powered tutoring.
+Q4 Answer the following questions in brief: [20]
+CO-4, Many researchers struggle to balance between too much detail and [10]
+BL-4 too much generalization when writing abstracts. Analyse the
+
+importance of precision and relevance in drafting an abstract. How
+
+should a researcher decide what to include and what to omit?
+CO-4, Discuss the key ethical writing principles every writer must follow. | [10] |
+BL-6 How do violations of these principles affect a writer’s credibility? /
+
+Support your answer with examples of common ethical breaches in
+
+academic and professional writing, and suggest best practices to
+
+ensure compliance with ethical standards.
+Q5 Answer the following questions in brief: [20]
+CO-3, Case studies are a powerful tool for analysing real-world problems | [10]
+BL-2 and developing practical solutions. Discuss the step-by-step process
+
+of writing an effective case study. Illustrate your answer with
+
+examples of common mistakes in case study writing, and strategies
+
+to avoid them. .
+CO-3, A strong evaluation essay must balance objectivity with critical [10]
+BL-2 analysis. Explain how writers can avoid personal bias and instead
+
+é FICC 2 dG aa i ik
+--- page 3 ---
+apply structured criteria. How does presenting both strengths and
+
+limitations of the chosen solution improve the essay’s reliability?
+
+Q6 Answer the following questions in brief: [20]
+CO-1, | a. | Discuss the 7 Cs of Communication with suitable examples. Apply | [10]
+BL- any three to improve this sentence:
+2,3 “We are writing this to inform you that your recent request for
+replacement has been received and will be looked into at a future
+point in time.”
+( CO-2, |b. | Write a formal business proposal to introduce an energy-efficient [10]
+BL-6 lighting system in your company’s office premises.
+Q7 Answer the following questions in brief: [20]
+a. Answer the following questions: [10]
+CO-4, | i. What are the essential steps involved in preparing and submitting a_ | [5]
+BL-5 research paper for publication in a peer-reviewed journal? Explain
+each step with suitable examples.
+CO-4, | ii. | Discuss the ethical responsibilities of writers when using [5]
+BL-6 copyrighted material such as images, articles, or data in their work.
+What best practices should be followed to avoid copyright
+violations?
+b. | Answer the following questions: [10]
+CO-3, |i. | What is the role of a problem essay in case study writing? Explain | [5]
+BL-5 how it helps in identifying the core issue, analysing its causes, and
+proposing solutions with evidence.
+CO-3, | ii. |’ Discuss the importance of evaluating multiple alternatives before [5]
+4
+BL-6 presenting a final decision in a case study. How does this strengthen
+
+the credibility of the solution?
+
+pf FRR QR Rr
+````
+
+## 2025-26 · Re-Exam · Sem 7 · paper 2dbb1ed99470
+
+- Departments: Mechatronics
+- Programmes: BTech Mechatronics 7004
+- Source: `02_Question_Papers/2025/Sem_07/Re-Exam/BTech_Mechatronics_7004/Technical Writing/QP_Technical Writing(702BS0I011)_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12 Feb 2026
+- Text: text (4 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech (COMP)/B. Tech
+(CS)/B. Tech (CSE - CS)/B. Tech (CSE - DS) (311)/B. Tech (DS)/B. Tech (IT)/B. Tech
+(MECH)/B. Tech (MXTC)/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY
+MANAGEMENT (COMPUTER ENGINEERING)/MASTER OF BUSINESS
+ADMINISTRATION IN TECHNOLOGY MANAGEMENT (DATA SCIENCE)/MBA Tech
+(AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (EXTC)
+Year: IV/Sem 7 Re-exam(Exam Year: 2025-2026)
+Subject: Technical Writing
+Date: 12 Feb 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory
+5. Out of remaining questions, attempt any 4 questions
+6. In all 5 questions are to be attempted
+7. All questions carry equal marks
+8. Assume suitable data if necessary
+Q1   Answer the following questions in brief:   [20]
+CO-1,   a.   Define audience profiling with an example. Why is it significant in   [5]
+BL-1   pre-writing?
+CO-2,   b.   What is crisis communication? Explain with an example.   [5]
+BL-1
+CO-4,   c.   What is the significance of referencing in research writing? Explain   [5]
+BL-1   how proper referencing enhances the credibility and authenticity of
+a research paper.
+CO-3,   d.   Discuss the criteria that should be applied while writing an   [5]
+BL-1   evaluation essay in a case study. Why are relevance, feasibility, and
+ethical considerations important?
+Q2   Answer the following questions in brief:   [20]
+CO-1,   a.   You are asked to deliver a presentation to senior management.   [10]
+BL-2   Conduct an audience profiling exercise by identifying their
+********** 1 **********
+--- page 2 ---
+demographics, interests, and expectations. Explain why this
+profiling matters.
+CO-1,   b.   Draft a persuasive email to a potential client convincing them to   [10]
+BL-3   shift to your company’s cloud storage service, highlighting security
+and cost benefits.
+Q3   Answer the following questions in brief:   [20]
+CO-2,   a.   Write a blog (150–200 words) on “How Startups Can Use Social   [10]
+BL-2   Media for Growth in 2025.”
+CO-2,   b.   Draft a crisis communication statement for a food delivery company [10]
+BL-3   whose app suffered a two-hour nationwide outage, affecting
+thousands of customers.
+Q4   Answer the following questions in brief:   [20]
+CO-4,   a. A company is launching a new eco-friendly packaging solution and   [10]
+BL-4   asks a writer to prepare a white paper. The draft only promotes the
+product like an advertisement, without evidence or research support.
+What are the flaws in this white paper draft? How should the writer
+restructure it to balance technical evidence, problem-solving, and
+subtle promotion?
+CO-4,   b. A master’s student is working on a research paper about sustainable   [10]
+BL-6   urban development. Pressed for time, the student copies significant
+sections from multiple online articles and previously published
+papers, making only minor changes to the wording. The student
+cites a few sources but leaves most copied material unreferenced,
+assuming that small modifications will not be noticed. The paper is
+submitted to the university and later detected by plagiarism-
+checking software, flagging over 40% of the content as unoriginal.
+********** 2 **********
+--- page 3 ---
+The student faces potential disciplinary action and risks damaging
+academic reputation.
+Question:
+Identify the types of plagiarism committed in this scenario. Discuss
+the ethical and academic consequences of plagiarism for students
+and researchers. What strategies and best practices could the student
+have used to avoid plagiarism while maintaining the originality and
+credibility of their work?
+Q5   Answer the following questions in brief:   [20]
+CO-3,   a.   The decision section in case study writing transforms problem   [10]
+BL-2   analysis into actionable solutions. Discuss in detail the steps
+involved in arriving at a sound decision, including identifying
+possible alternatives, weighing pros and cons, and selecting the
+most feasible solution. How does linking decisions to evidence,
+data, and theoretical models improve the overall reliability of the
+case study? Provide examples of strong vs. weak decision-making
+approaches.
+CO-3,   b. A position statement is a clear expression of a writer’s stance on a   [10]
+BL-2   specific issue or research problem. Discuss the essential
+characteristics of a strong position statement in academic and
+research writing. How should it be formulated to reflect clarity,
+evidence-based reasoning, and relevance to the research topic?
+Q6   Answer the following questions in brief:   [20]
+CO-1,   a.   Explain AIDA with an example of how it can be applied in drafting   [10]
+BL-   a job recruitment advertisement.
+2,3
+********** 3 **********
+--- page 4 ---
+CO-2,   b.   What according to you are factors that must be kept in mind while   [10]
+BL-6   drafting formal letters? Give examples with specific references to
+sales letters.
+Q7   Answer the following questions in brief:   [20]
+a.   Answer the following questions:   [10]
+CO-4,   i.   Discuss the key components of an effective white paper. How can   [5]
+BL-5   organizations use white papers to influence stakeholders, promote
+innovations, or establish thought leadership?
+CO-4,   ii.   Discuss in detail the key elements that must be included in a   [5]
+BL-6   conference paper to make it impactful and suitable for presentation.
+How should a researcher balance technical detail with clarity for a
+diverse audience? Include examples of common mistakes students
+make while drafting conference papers and suggest strategies to
+avoid them.
+b.   Answer the following questions:   [10]
+CO-3,   i.   What is a position statement in academic and professional writing?   [5]
+BL-5   Explain its purpose and significance in presenting an argument or
+stance on a specific issue.
+CO-3,   ii. Why ‘Problem essays’ in case study writing require more than just   [5]
+BL-6   describing an issue; they demand critical analysis and solution-
+oriented thinking. Discuss in detail the steps involved in developing
+a problem essay. How does using real data, case evidence, and
+theoretical frameworks strengthen the quality of a problem essay?
+Provide examples to illustrate your points.
+********** 4 **********
+````
+
+## 2025-26 · Re-Exam · Sem 7 · paper f301b52b12fb
+
+- Departments: Computer Engineering
+- Programmes: MBATech Computer 7047
+- Source: `02_Question_Papers/2025/Sem_07/Re-Exam/MBATech_Computer_7047/Technical Writing/QP_Technical Writing(702BS0I011)_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12 Feb 2026
+- Text: text (4 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech (COMP)/B. Tech
+(CS)/B. Tech (CSE - CS)/B. Tech (CSE - DS) (311)/B. Tech (DS)/B. Tech (IT)/B. Tech
+(MECH)/B. Tech (MXTC)/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY
+MANAGEMENT (COMPUTER ENGINEERING)/MASTER OF BUSINESS
+ADMINISTRATION IN TECHNOLOGY MANAGEMENT (DATA SCIENCE)/MBA Tech
+(AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (EXTC)
+Year: IV/Sem 7 Re-exam(Exam Year: 2025-2026)
+Subject: Technical Writing
+Date: 12 Feb 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory
+5. Out of remaining questions, attempt any 4 questions
+6. In all 5 questions are to be attempted
+7. All questions carry equal marks
+8. Assume suitable data if necessary
+Q1   Answer the following questions in brief:   [20]
+CO-1,   a.   Define audience profiling with an example. Why is it significant in   [5]
+BL-1   pre-writing?
+CO-2,   b.   What is crisis communication? Explain with an example.   [5]
+BL-1
+CO-4,   c.   What is the significance of referencing in research writing? Explain   [5]
+BL-1   how proper referencing enhances the credibility and authenticity of
+a research paper.
+CO-3,   d.   Discuss the criteria that should be applied while writing an   [5]
+BL-1   evaluation essay in a case study. Why are relevance, feasibility, and
+ethical considerations important?
+Q2   Answer the following questions in brief:   [20]
+CO-1,   a.   You are asked to deliver a presentation to senior management.   [10]
+BL-2   Conduct an audience profiling exercise by identifying their
+********** 1 **********
+--- page 2 ---
+demographics, interests, and expectations. Explain why this
+profiling matters.
+CO-1,   b.   Draft a persuasive email to a potential client convincing them to   [10]
+BL-3   shift to your company’s cloud storage service, highlighting security
+and cost benefits.
+Q3   Answer the following questions in brief:   [20]
+CO-2,   a.   Write a blog (150–200 words) on “How Startups Can Use Social   [10]
+BL-2   Media for Growth in 2025.”
+CO-2,   b.   Draft a crisis communication statement for a food delivery company [10]
+BL-3   whose app suffered a two-hour nationwide outage, affecting
+thousands of customers.
+Q4   Answer the following questions in brief:   [20]
+CO-4,   a. A company is launching a new eco-friendly packaging solution and   [10]
+BL-4   asks a writer to prepare a white paper. The draft only promotes the
+product like an advertisement, without evidence or research support.
+What are the flaws in this white paper draft? How should the writer
+restructure it to balance technical evidence, problem-solving, and
+subtle promotion?
+CO-4,   b. A master’s student is working on a research paper about sustainable   [10]
+BL-6   urban development. Pressed for time, the student copies significant
+sections from multiple online articles and previously published
+papers, making only minor changes to the wording. The student
+cites a few sources but leaves most copied material unreferenced,
+assuming that small modifications will not be noticed. The paper is
+submitted to the university and later detected by plagiarism-
+checking software, flagging over 40% of the content as unoriginal.
+********** 2 **********
+--- page 3 ---
+The student faces potential disciplinary action and risks damaging
+academic reputation.
+Question:
+Identify the types of plagiarism committed in this scenario. Discuss
+the ethical and academic consequences of plagiarism for students
+and researchers. What strategies and best practices could the student
+have used to avoid plagiarism while maintaining the originality and
+credibility of their work?
+Q5   Answer the following questions in brief:   [20]
+CO-3,   a.   The decision section in case study writing transforms problem   [10]
+BL-2   analysis into actionable solutions. Discuss in detail the steps
+involved in arriving at a sound decision, including identifying
+possible alternatives, weighing pros and cons, and selecting the
+most feasible solution. How does linking decisions to evidence,
+data, and theoretical models improve the overall reliability of the
+case study? Provide examples of strong vs. weak decision-making
+approaches.
+CO-3,   b. A position statement is a clear expression of a writer’s stance on a   [10]
+BL-2   specific issue or research problem. Discuss the essential
+characteristics of a strong position statement in academic and
+research writing. How should it be formulated to reflect clarity,
+evidence-based reasoning, and relevance to the research topic?
+Q6   Answer the following questions in brief:   [20]
+CO-1,   a.   Explain AIDA with an example of how it can be applied in drafting   [10]
+BL-   a job recruitment advertisement.
+2,3
+********** 3 **********
+--- page 4 ---
+CO-2,   b.   What according to you are factors that must be kept in mind while   [10]
+BL-6   drafting formal letters? Give examples with specific references to
+sales letters.
+Q7   Answer the following questions in brief:   [20]
+a.   Answer the following questions:   [10]
+CO-4,   i.   Discuss the key components of an effective white paper. How can   [5]
+BL-5   organizations use white papers to influence stakeholders, promote
+innovations, or establish thought leadership?
+CO-4,   ii.   Discuss in detail the key elements that must be included in a   [5]
+BL-6   conference paper to make it impactful and suitable for presentation.
+How should a researcher balance technical detail with clarity for a
+diverse audience? Include examples of common mistakes students
+make while drafting conference papers and suggest strategies to
+avoid them.
+b.   Answer the following questions:   [10]
+CO-3,   i.   What is a position statement in academic and professional writing?   [5]
+BL-5   Explain its purpose and significance in presenting an argument or
+stance on a specific issue.
+CO-3,   ii. Why ‘Problem essays’ in case study writing require more than just   [5]
+BL-6   describing an issue; they demand critical analysis and solution-
+oriented thinking. Discuss in detail the steps involved in developing
+a problem essay. How does using real data, case evidence, and
+theoretical frameworks strengthen the quality of a problem essay?
+Provide examples to illustrate your points.
+********** 4 **********
+````
+
+## 2024-25 · Final + Re-Exam · Sem 7 · paper 34274c6bd87c
+
+- Departments: Common (all branches)
+- Programmes: B TECH, B.TECH INTEGRATED, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/TECHNICAL WRITING/Technical Writing Batch 2024-25 Final Batch 2023-24 Re Exam.pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 89.8
+
+````text
+SVKM’S NMIMS cn
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/ ay
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+
+¥
+
+Program/s: MBA Tech/B.Tech / RTI , Year: IySemester: ViI/xt
+
+Stream/s : All applicable streams
+
+Subject: Technical Writing we Time: 3 hrs (10.00 a.m. to 1.00 p.m.)
+Date:_10 /12/ 2024 No. of Pages: 04
+
+Marks: 100
+
+Final Examinatjon/Re-Examination ( Re-exam year)
+2024-25 (2023-24)
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
+
+the Answer Book, which is provided for their use.
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+A
+
+ey
+
+Questions
+Ql Answer in short (about 100-120 words only): (Substantiate your responses with [20]
+? 20
+appropriate examples)
+CO-1;SO- | a. Why is the case study method considered effective in bringing out different ways
+1:
+, ?
+BL-1 to solve a management problem? :
+CO-2;SO- | b. a. - oe ' — A
+2: How does crisis communication differ from regular communication strategies? | 5
+BL-3 (Write at least two points of difference and one example)
+(7 c. Rewrite as directed:
+1. | have horse of my own. | call her Pretty Girl. She is intelligent animal,
+
+but she is not thoroughbred horse. | could never enter her in race, even
+
+if | wanted to. But | do not want to. She is my favourite companion. |
+
+took her swimming a day or two ago. (Insert a, an or the as appropriate)
+
+2. The car almost fell the river, but the driver managed to save it.
+
+Co- 1, 2; (Insert the right preposition).
+SO-1, 2; 3. The customer made a complaint but was told that the money would not 2
+BL-1, 2 be refunded. (Change the voice)
+
+4. The eagle can see objects from a great height and this makes it easy to
+hunt prey. (Rewrite as a simple sentence)
+
+5. theres no room for error said the engineer so we have to double check
+every calculation (Punctuate this sentence)
+--- page 2 ---
+CO-2; SO-
+
+BL-3
+
+Rewrite the sentences to communicate the ‘you attitude’ and improve the tone
+or as directed: Fi
+
+1. | have managed to win several awards and accolades by my hard work
+and intelligence, and | am only too happy to accept this award from your
+organization.
+
+2. Your order has been shipped and should reach you today. If it does not,
+we suggest that you wait for two more days before hitting the panic
+button.
+
+3. 1am writing to inform you that | would like to apply for the position of
+Project Lead in your esteemed organization.
+
+4. With Annie as your English teacher, you will read classic novels, lots of
+notes will be taken, and you will thoroughly enjoy the class.
+
+5. We have designed just the smartphone and we are sure that you will
+thank us for this wonderful innovation.
+
+Q2
+
+CO-2, 3;
+SO-3, 4;
+BL-4,5
+
+A customer has written an email to complain about a defective product they
+purchased. Write a response e-mail apologizing for the inconvenience, offering a
+solution or compensation, and ensuring the customer that steps are being taken
+to prevent future issues. (Assume all necessary details)
+
+You are the Project Head for an NGO that works for youth empowerment. Write
+a short proposal to the CSR Head of a multi-national NGO that is looking for local
+
+partners in India, including a brief about the budget. (Assume all necessary
+details)
+
+10
+
+10
+
+Q3
+
+CO-1, 3, 4;
+SO- 2; BL-
+
+You have an innovative and scalable business idea for-‘which you are looking for
+business partners and potential investors.
+
+Write a cover letter that clearly outlines the business idea, its potential benefits,
+and why the recipient should consider partnering or investing. Mention that you
+are ready to have an in-person meeting to discuss further.
+
+Explain the AIDA approach for persuasive communication with an appropriate
+example.
+
+How does a blog post align with the broader content strategy or business
+objectives?
+
+10
+
+a4
+CO-3; SO-
+
+BL-4
+
+A fast-growing cab aggregator service that started with Mumbai and Delhi has
+expanded into other cities in India. However, there have been complaints about
+misbehavior about the drivers’ behavior from two prominent cities, and some of
+these issues have gone viral. The business is taking a hit even in cities where
+things were smooth. As the CEO, draft a public letter to the consumers
+addressing the crisis. Mention the issues clearly, the steps taken to correct the
+
+problem, and provide an assurance of safety, quality and punctuality of service.
+
+10
+
+10
+
+a,
+--- page 3 ---
+Ke
+
+¥
+
+You are the product manager for a tech company that has recently introducéd
+an innovative home automation service for safety, and remote monitoring of
+children and senior citizens. Write instructions to potential customers for the
+
+use of the product. Assume necessary details
+
+As the Lead for a CSR project in your company, write a memo report on the
+
+project taken up by your company for education of street children. The
+
+implementing agency was a local NGO and the knowledge partner was a local *
+as college and this is the first year of the project. Include your feedback and
+C0-1,2; recommendations about the impact and continuation for a longer duration.
+SO-1, 2; Assume necessary details. ;
+BL- 3,4 ”
+“Abstracts generally include the most important aspects of the study’s purpose,
+design, findings, and implications.” Describe the statement in detail with
+relevant examples.
+You are part of the crisis communication team for a major consumer electronics
+company, TechGear, that specializes in smart home devices. One of your flagship
+products, a smart thermostat, has recently been found to have a serious safety
+flaw. The device can overheat under certain conditions, potentially causing fires
+in homes. Although, there have only been two reported incidents, the potential
+for harm is significant, and the issue has been widely reported by the media.
+Q6 Customers are expressing concerns on social media, and regulatory bodies are
+CO- 3, 4; pressuring the company to act swiftly. Your team must handle this crisis in a way | [20]
+Sue. ’ , that protects the company's reputation, ensures customer safety, and addresses
+
+the concerns of various stakeholders. The team is informed that the overheating
+issue has been verified and a recall is necessary. The following stakeholders are
+involved: (Customers who are anxious about safety, Retail partners who need
+guidance on handling returns and refunds, Media requesting statements and
+interviews, Regulatory authorities seeking immediate compliance with safety
+
+standards, Investors concerned about the financial impact).
+--- page 4 ---
+Question-1 ¥
+Create a public announcement for the company’s website and social media
+channels. The message should acknowledge the issue, explain the steps being
+taken, and reassure customers about their safety.
+
+Question-2
+
+Outline how you will inform customers about the recall and the steps they should
+take (e.g., hotline number, website for returns, email notifications). Consider the
+tone of the communication to balance urgency and reassurance.
+
+a. “The contents of a white paper provide useful information for business people
+seeking to understand an issue, solve a problem, or make a decision.” Discuss.
+Q7 10
+CO- 2; SO- Analyze the role of research and publications for technology innovation in
+1&2; b. _°| organisations. You may take an example of a tech product/service to highlight
+BL-4 the relevance. , 10
+
+THKK KKK KKH KOK KAKO KKK KKK KEN K KEK K AKA KENEK AMEE KANEKO K ANAK KEK EEK OMEK MEN EXOKENEKENE KEKE KEKEKENEXEXEK™
+
+A
+````
+
+## 2024-25 · Re-Exam · Sem 7 · paper 9f504e09abae
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/TECHNICAL WRITING/Technical Writing, Sem-V, Batch 2023-24 & 2024-25 Re Exam.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 25/2/2024
+- Text: ocr (4 pages), mean OCR confidence 91.7
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2024-2025
+
+Program/s: MBA Tech/B.Tech /@Tx Year: \WSemester: VIIA
+
+Stream/s: All applicable streams
+
+Subject: Technical Writing Time: 3 hrs ( 2'.00 p.m. to £.00 p.m.)
+Date: 25/2/2024 No. of Pages: 03
+
+Marks: 100
+
+Re-Examination (2023-24 /o4-25)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use.
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right indicate full marks.
+
+7) Assume Suitable data where necessary.
+
+Questions
+Qi Answer in short (about 100-120 words only): (Substantiate your responses with I
+(20
+appropriate examples)
+CO-1;SO- | a. What do you understand by the term ‘Plagiarism?’ Why is the plagiarism
+i 1 considered as academic misconduct in universities?
+cO-2:50- | » What are the key elements of effective crisis communication? Explain any two
+2: BL-3 elements in short.
+(Ch Rewrite as directed:
+1. Even though field visit was completed, some of students sought more
+interactions with company officials about operations at plant. (Insert
+the most suitable articles (‘a,’ ‘an,’ or ‘the’) appropriately)
+2. We will ask him to bring about a change in his work routine.
+(Rewrite this sentence to eliminate the camouflaged verb)
+co- 1, 2; 3. The entrepreneur had a profitable and scalable startup but the r
+SO-1, 2; investors did not support it. (Rewrite as a simple sentence)
+BL-1, 2
+
+4. they said let us go to the king together and ask him to consider our case
+(Punctuate this sentence)
+5. These reports are prepared by the salespeople every Friday.
+
+(Eliminate the passive voice and rewrite this sentence for greater
+clarity and tone).
+--- page 2 ---
+Rewrite the sentences to communicate the ‘you attitude’ and improve the tone
+or as directed:
+1. | know that ! can win anything with my intelligence, and you should
+thank me for working with you.
+2. We have gone through your case and we will not be able to refund your
+
+CO-2; SO- amount as the product is already received by you.
+2; 3. 1am glad to inform you that we would like to invite you as a speaker for E
+BL-3 our event.
+4. We have reinvented sports shoes and we are sure that you will
+definitely love this innovation.
+5. 1am writing to complain about the misbehavior of the cashier in your
+bank.
+Acustomer has written an email to inquire about bulk purchase of gifting products
+for the upcoming festive season. Write a response e-mail apologizing for the
+inability to service the order so late, mention the reasons, offer a solution, and
+Q2 ensuring the customer of your services in future. (Assume all necessary details.) | 19
+CO-2, 3; P i ey,
+50-3, 4: You are the Project Head for your NGO that has operations in different parts of
+BL-4, 5 the country. You want to approach NABARD for support through for agri-based | 10
+products to empower Self-help groups of women in a rural area. Draft a short
+proposal mentioning details about your NGO and its past work, the proposed plan
+of action, the timelines, the expected outcomes and required funds.
+You are organizing a pitching event for startups to be shortlisted for your
+incubation centre. For the jury, you need investors who would evaluate the | 10
+business models and provide recommendations. Write a cover-letter to an angel
+Q3 investors’ network inviting them to be on the jury. (Assume necessary details.)
+CO-1, 3, 4; F - 5 x go Reba :
+50-2: BL- Explain the 7 Cs of written communication and the application for technical 5
+3 papers.
+What are the key features of User Manuals? Describe components that needto | 5
+be explained in User Manuals?
+You are the CEO of a fast-growing food delivery platform with a presence in all
+the major metropolitan cities in India. You are now exploring expansion into tier
+a4 I cities in Maharashtra. Your market research has identified four cities for the
+launch. Your partnerships are in place, and your Board of Directors has approved
+hae Eig the proposal.
+BL-4
+Draft a public letter to be published in a newspaper that the launch is scheduled 10
+
+during the festive season. Provide an assurance of cost, convenience and
+catalogue with respect to the quality of food and service.
+--- page 3 ---
+Create a public announcement for the company’s website and social media
+channels. The message should talk about the company, the products and services,
+the roll out into the respective cities’ information, explain, and reassure
+customers about their safety.
+
+10
+
+You are the Lead for a CSR project in your company; Project Sashakt is adopted
+by your company for youth empowerment in an underprivileged community of 10
+
+an Indian city. The implementing agency was a local NGO and the knowledge
+Qs
+CO-1,2;
+SO-1, 2;
+BL-3,4 recommendations about the impact and continuation for a longer duration.
+
+partner was a local college and this is the first year of the project.
+
+a. Write a memo report on the project, including your feedback and
+
+Assume necessary details.
+
+b. Write a letter to a local college inviting them as collaborators and ask themto | 10
+
+send students for a civic engagement project.
+
+You are the CTO of a smartphone company that has recently announced a recall
+of one specific model due to an unprecedented number of customer complaints
+about extremely high battery heating. The issue is viral on all social media
+platforms and sales have dropped in the entire country for all models. Needless
+to say, there are tough questions from regulators as well as investors.
+
+Q6 Question-1
+
+CO- 3,4; Create a public announcement for the company’s website and social media
+
+SO- 1,2; channels. The message should acknowledge the issue, explain the steps being uy)
+
+taken, and reassure customers about your commitment towards quality and
+
+safety.
+
+BL-2,3
+Question-2
+Outline how you will inform customers about the recall and the steps they should | 10
+take (e.g., hotline number, website for returns, email notifications). Consider the
+tone of the communication to balance urgency and reassurance.
+
+Q7 a.
+
+CO- 2; SO-
+1&2;
+BL-4 10
+b Analyze the relevance of research and white paper publications for technology
+innovation.
+
+What is a white paper? Discuss the steps to prepare and write a white paper. 10
+
+KKK KK KKK KKK MK K EKA EK KKH EKER EX OX M AK AMEEKEXEXHKH KKM MEM ENEREKEKEXEKEMENEEREKEXEKEKEKEKEKENERERE
+--- page 4 ---
+
+````
+
+## 2023-24 · Final-Exam · Sem 7 · paper 61b007c45c4a
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/TECHNICAL WRITING/Technical Writing , Final 2023-24.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (7 pages), mean OCR confidence 93.2
+
+````text
+y
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEE
+SCHOOL OF TECHNOLOGY MANAGEMENT ee
+
+Academic Year: 2023-2024
+
+Program/s: B. Tech./MBA Tech. Year: FXE . Semester: VII
+Stream/s : All Applicable Streams ;
+
+Subject: Technical Writing Time: 3 hrs. ({D:00 Af to J:ub PM)
+Date:_S _/42/ 2023 No. of Pages: 07
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+
+> the cover of the Answer Book, which is provided for their use.
+1) Question No. _1_ is compulsory.
+2) Out of remaining questions, attempt any __4__ questions.
+3) In all__5_ questions are to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question should be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Qi
+Answer the following questions in brief: [20]
+CO-1&2; | a. “A direct or an indirect approach in writing serves separate and distinct
+SO-3&7 ; . [5]
+BL-4 purposes.” Reflect. ®
+©») | CO-2&3; | b. .
+SO-3&7 ; Discuss how should a brand prepare for crises communication? [5]
+BL-2
+CO-1&2; | c. Discuss the common mistakes that can lead to plagiarism. Also describe
+SO-3&7 ; oe i's [5]
+BL2 the ways to avoid plagiarism.
+co- d. “Each case can have more than one right answer depending on how the
+pol problem is defined and which assumptions are made”. Comment on the | [5]
+BL-4 ; statement.
+Q2 A. ADNM is an Indian Multinational Software Firm. The US branch office of
+CcO- the firm has caused an outrage when the CEO of the US offices instructed 110]
+anne the HR to avoid hiring “Indian origin candidates”. Worldwide media
+BL-6 ; reported it as an “instance of racial bias”. Initially the firm did not pay much
+--- page 2 ---
+heed to the incident, but as the media reporting and outrage on social media
+increased, they posted a brief apology on their website stating that they are
+sorry for inadvertently hurting the sentiments of any particular community.
+Also, the official response refused to acknowledge it as an instance of racial
+bias and instead overlooked the entire racial angle. A copy of their apology
+was also sent by their PR to the media (print and TV) for publication
+
+purposes. This created even further outrage.
+
+Create an appropriate crisis communication statement to. be released to
+
+media post the failure of their initial response.
+
+CO-1&2; Explain AIDA and highlight its importance (with examples) in creating 110]
+SO-3&7; persuasive and impactful write-ups.
+BL-2
+Q3
+CO-; SO- What ‘ 2 position statement and what’s its importance in relation to a case [10]
+3&7; BL- ™
+2
+Read the following sentences and revise as per the given instructions:
+1. Revati has displayed excessive exuberance on landing up with the
+project. (substitute complex words to lend simplicity and clarity toe
+the sentence)
+2. We will get to know the numbers very soon. (eliminate ambiguity
+CO-1&2; .
+by providing concrete information)
+SO-3&7; . [10]
+a4 3. The Boss agreed to the negotiated salary figure as he knew the
+
+candidate’s potential. (Eliminate the use of discriminatory language
+if there is any)
+
+4. Don’t you go looking into faults when there are none, said my
+manager. (eliminate errors (if any) in phrasal or idiomatic
+
+references in the sentence)
+--- page 3 ---
+5. This antiquated marketing strategy plan has me in doldrums.
+(revise for clarity, simplicity and remove redundancies if any)
+
+6. It is imperative that you must scrutinize your sales practices
+closely. (revise for clarity, simplicity and remove redundancies if
+any)
+
+7. A doctor is expected to profile all his patients for record purposes.
+(eliminate use of discriminatory language if any)
+
+8. You should make the adjustment for your own good. (remove
+camouflaged verbs for clarity and brevity)
+
+9. The board must initiate the declaration of its public policy as
+expected by the stakeholders. (remove camouflaged verbs for
+clarity and brevity)
+
+10. Try listening to some music; it will surely help you to ease in your
+thoughts about the upcoming exam results.(eliminate errors (if any)
+
+in phrasal or idiomatic references in the sentence)
+
+A.
+A multinational corporate is looking for proposals for the construction of a
+business annex leading to their recreational and meditation center. You
+know that many construction firms are chasing this project. They are
+04 looking for an experienced construction conglomerate capable of handling
+_ a large project, Also, they want an agency that is well aware of the political
+1,2&3; and cultural ethos of India and Mumbai, where the construction has to | [10]
+eee happen. Also, the project will be assigned based on the firm’s and its
+employees’ expertise, clarity in plan of action; On time completion; and
+sustainable project design.
+Draft a proposal addressed to the Indian branch CEO, Mr. Maheep Kapur,
+offering to construct the annex.
+CO-2: B. What is the significance of referencing in any research writing? Also,
+SO-3&7; explain the referencing methods and style guides that can be utilized in [10]
+BL-2
+
+research writing.
+--- page 4 ---
+Q5
+
+CO-
+1,2,3&4;
+SO-3&7;
+BL-6
+
+Draft a 300-400 word blog on any one of the following topics: ¥
+a. How Plan to Spend the Next Five Years of my Life ~
+b. Five Rules to Manage your Time Efficiently
+
+[10]
+
+CO-2;
+SO-3&7;
+BL-2
+
+“Abstracts generally include the most important aspects of a research
+
+study.” Comment.
+
+[10]
+
+Q6
+CO-1&2;
+SO-3&7;
+BL-6
+
+You are the HR head of the Mumbai branch of a multinational firm with
+their head office at Chicago. You are interested in floating an awareness
+campaign for inclusion and diversity where you want to incorporate media
+messages, internal training and redesigning the hiring practices to make
+them more inclusive. The whole campaign is going to cost the company a
+huge amount as well as several resources. You are told to make a
+presentation before the board in a week’s time. The audience comprises of
+CEO (Location-Chicago Office), Director HR, (he’s with the firm for 20
+years now and is well respected by CEO); assistant manager HR; VP,
+expansion (new to the firm, but with considerable experience; Location-
+Chicago Office); two accounts managers (both located at head office,
+Mumbai).
+
+Conduct audience profiling for the above presentation. (Use imaginary
+
+names and details wherever needed)
+
+[10]
+
+CO-
+1,2,3&4;
+
+SO-3&7;
+BL-6
+
+Read the following case study on “Cadbury Worm Controversy Crisis
+Management” and write an evaluative case essay with a focus on Crises
+
+communication strategy:
+
+In October 2003, The Food and Drug Administration Commissioner
+received a complaint that two Cadbury Dairy Milk bars were infested.
+Cadbury India as a brand has a share of 70% in the market. The
+Commissioner ordered an enquiry and went to the media. After that, there
+was adverse media coverage on Cadbury infestations. The Company came
+under intense scrutiny. Its reputation and credibility were questioned as its
+
+sales fell drastically. Diwali festival was one month away. Normally, its
+
+[10]
+--- page 5 ---
+sales increases before the festival. The retailers didn’t show enthusidsnt to
+
+stock the chocolates. The sales of chocolates plummeted drastically in the
+
+first two and half months. Morale of employees fell significantly. Primarily,
+
+the company had a challenge to get back confidence of the all the
+
+stakeholders—employees, customers, government authorities, investors etc.
+
+The company has to restore credibility of the corporate brand. It has to use
+
+same media channels, which disseminated information about chocolate
+
+infestation to the public to regain brand’s reputation. In reply, Cadbury gave
+
+a statement that infestation of chocolates with worms could have happened
+
+during storage at retail shop due to poor storage facilities and not at
+manufacturing unit. But FDA did not agree with the argument, the
+commissioner responded to the media “It is presumed that worms got into it
+at the storage level, but then what about the packing—packaging was not
+proper or airtight, either ways it’s a manufacturing defect with unhygienic
+conditions or improper packaging”. There were allegations and counter—
+allegations between FDA and Cadbury. As a result, due to negative
+publicity, sales have dropped by 30%. Otherwise, there should have been
+hike of around 15% in sales due to Diwali festival. Consequently, Cadbury
+took out its advertisements for one and half month after Diwali festival. For
+some time, due to the controversy consumers did not dare to consume the
+chocolates.
+
+Solution to Worm Controversy:
+
+In the first phase: When the news broke about infestation of Cadbury
+chocolates, a media desk was established and answered all the queries by
+the company. Even the Managing Director of Cadbury answered queries of
+the consumers.
+
+After two weeks, second media briefing was done by launching Project
+Vishwas. An education and monitoring program on retail stores was
+launched on war footing to resolve storage issue. Cadbury assured the
+customers and retail stores owners to improve storage conditions within two
+
+months.
+--- page 6 ---
+24 Phase: New “purity seal” was launched in 2004. Company spent 15 :
+
+crores on imported packaging machine. The metallic poly pack improved
+
+the protection of the chocolate. Legendary actor Amitabh Bachchan was
+
+made to endorse Cadbury brand. In advertisements released initially by
+
+Cadbury to media, manufacturing and packaging was shown to the audience
+
+in television channels.
+
+Because of constant communication to the audience, people started
+believing that Company has corrected its packaging. Media also publicised
+the information about new packaging being introduced in the market. Public
+Relations department of Cadbury maintained relations with media and other
+stakeholder by answering their queries and sharing developments in
+Cadbury company. Media outreach program was started to answer the
+queries of the customers to remove fears. 31 editors of media were met in
+person by officials of Cadbury to answer their queries in one-to one. “Facts
+about Cadbury” ads were published in around 55 publications in 11
+languages. Toll-free numbers and email ids were made available to
+consumers to know their queries. To give emotional support to employees,
+town hall meetings were conducted. Audio-visual messages were released
+
+to boost the confidence of sales persons.
+
+Media played a key role in restoring confidence in Cadbury brand. Cadbury
+launched a targeted and persuasive advertisement campaign on consumers
+to rebuild credibility of Cadbury among important stakeholders of the
+company. Cadbury imported a machinery from abroad for packaging which
+is tamper proof. The same was conveyed to the customers through mass
+media.
+
+Customers trusted and credibility of Cadbury brand was restored. Cadbury
+could regain the lost market share in two months.
+
+N.B. This case study is copied from a public source
+--- page 7 ---
+i
+
+S wv.
+Answer the following questions taking the case study in Question 6-B as a
+
+Q7 reference:
+Cco- a. Discuss how Cadbury leveraged media to manage the worm crises.
+1,2,3&4; b. Cadbury took several steps to manage the crises. Discuss any two [10]
+ne interventions that you found to be most impactful in managing the
+
+crises. Support your choice with logical arguments.
+ee Discuss the prominent purposes of conferences. Also, share the etiquette
+BL-2 , associated with attending a conference/seminar.
+````
+
+## 2023-24 · Re-Exam · Sem 7 · paper e8b23709a822
+
+- Departments: Common (all branches)
+- Programmes: B TECH, MBA TECH
+- Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/TECHNICAL WRITING/Technical Writing , Re-exam 2023-2024.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (6 pages), mean OCR confidence 93.0
+
+````text
+MSY
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+
+¥
+
+Program/s: B. Tech./MBA Tech. ; Year: [Af — Semester: VII
+Stream/s : All Applicable Streams
+Subject: Technical Writing Time: 3 hrs. (10:00 Ato 1:60 PM)
+Date: 16fO212024 No. of Pages: 06
+Marks: 100
+
+e Examination
+
+ao
+
+Instructions: Candidates shouid read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1_ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all_5 questions are to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question should be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer the following questions in brief: [20]
+
+CO-1&2; | a. “One must switch between you approach and we approach in writing [5]
+all based on the type of message one is drafting.” Reflect.
+
+Co- b. .
+
+1,2&3; List and explain any five standard elements of a business —proposal. [5]
+SO-3&7;
+
+BL-2
+
+CO-2; c. :
+
+SO-3&7; Discuss any three types of conferences. [5]
+BL-2
+
+CO- 2&3; | d. : : : .
+
+SO-3&7; Discuss the steps involved in analyzing a case study. [5]
+BL-2
+
+Q2 A. Peloton, the athletic equipment company faced some hard questions after
+
+co- several incidents involving its recently launched Tread+ treadmill. Several 110]
+uneres gym users reported injuries resulting from falls sustained while using
+BL-6 , Tread+. It escalated further when a child aged 15 died from the injury.
+--- page 2 ---
+Initially, The Peloton CEO John Foley tried to dismiss the incidents*s a
+“small handful” of “tragic accidents.” However, Peloton was forced to recall
+
+the treadmill product eventually.
+
+Draft a crisis communication statement for media release where the CEO
+
+announces the product recall.
+
+CO-1&2; | B. Explain rhetorical triangle and highlight its importance (with examples) in
+
+SO-3&7; {10}
+BL-2 creating persuasive and impactful write-ups. ~
+= Hs “A position statement is a tool for a case evaluator to let the readers/listeners
+aa, know their stance on a particular case/event.” Reflect on the role of the | [10]
+SO-3&7; position statement, in the light of the above statement.
+BL-4 . .
+B. Read the following sentences and revise as per the given instructions:
+1. It is imperative that the employees must adhere to the publicized
+tules. (revise for simple and clear communication)
+2. The Indian delegate spoke flawless and fluent English. (eliminate
+discriminatory language if there is any)
+3. You must initiate approval of these proposals as expected by
+management. (remove camouflaged verbs for clarity and brevity) ,
+4. Your website prototype will be ready in a few days. (rewrite to
+CO-1&2; eliminate vague information if any) 01
+SO-3&7; 5. The meeting was conducted by the Vice President to brainstorm the
+BL-3 new product line. (create active construction for brevity and clarity)
+
+6. Savita put across a strong fight against the management before
+stepping down from her position. (eliminate errors (if any) in phrasal
+or idiomatic references in the sentence)
+
+7. She made a decent profit on her handwoven bags at the flea market.
+(eliminate vague information to offer clear and concrete details)
+
+8. Our business executive will soon get back to you with more
+
+information. (rewrite to eliminate vague information if any)
+--- page 3 ---
+9. The rally was organized by the student community to support gender
+equality. (create active construction for brevity and clarity).
+10. The store owner agreed to knock out 25% of the price on all that we
+
+bought. (eliminate errors (if any) in phrasal or idiomatic references
+
+in the sentence.)
+
+You are working as the head, marketing with. a pest control firm that
+
+provides organic solutions. The product USP is that it poses no danger to
+
+Q4 the environment nor creates any health hazard for the humans and pets
+CO- around. Also, your firm offers one year of guaranteed pest free homes and 110]
+Parad offices. You have generated a few leads through google searches (paid) and
+BL-6 app downloads. Draft a sales letter to be circulated as a direct marketing
+mail, addressed to your customers. Also, prompt them to buy your yearly
+services package. Use AIDA to persuade and prompt action.
+CO-2;
+SO-3&7; What is the significance of literature review in any research writing? [10]
+BL-2
+Q5 Draft a 300-400 word blog on any one of the following topics:
+CO- a. Top 5 Rules to Achieve your Goals
+L2é4, b. Importance of Research for a Student a
+S0-3&7; . Importance of Research for a Studen
+BL-3
+CO-2; What is the difference between primary and secondary data in research?
+SO-3&7; . : ‘ [10]
+BL-2 Also, discuss the sources of primary and secondary data.
+You are the senior HR manager at an MNC. You have proposed to integrate
+a meditation app into the internal communication application that your
+06 organization is using. The objective of this proposal is to provide the
+co employees ease of access to a stress relieving platform, which you believe
+1,283; is integral for overall well-being and high productivity at individual as well | [10]
+sonst as organizational levels. The app integration will cost the organization
+
+around 1 crore INR. The management has asked you to submit the proposal
+to a five-member committee that is headed by the Director, HR. The other
+
+four members comprise of two software engineers who have joined the
+--- page 4 ---
+organization two years ago, an experienced employee from the accounts
+department and one assistant from the HR department. The director is a
+democratic leader and mostly trusts members’ feedback before making the
+final decision.
+
+Consider the above information to create an audience profile for your
+
+proposal.
+
+CO-
+1,2,3&4;
+SO-3&7;
+BL-6
+
+Read the following case study and write an evaluative case essay witha
+
+focus on the brand’s crises management and crises communication
+
+strategy:
+
+Back in 1980s, Johnson & Johnson was a household name around the world.
+
+Through 165 companies, it used to do business in 53 countries. It sold baby
+
+products to pharmaceuticals listed as essential items by WHO. It had cordial
+relations with the media too. Employees were happy working with the
+company. On 30th September 1982, media reported that there were deaths
+due to intake of extra strength Tylenol from Chicago area. CEO James
+Burke was alerted by the staff of the company. At that time, there was no
+crisis communication plan with the company. McNeil is subsidiary of
+Johnson & Johnson. It manufactures Tylenol in U.S. There was fear among
+the executives of the company as no company faced this sort of situation
+
+before. ‘
+
+A seven-member Crisis Management Group(CMG) was setup. With the
+approval of James Burke, the team recalled Tylenol capsules from Chicago
+area stores. They found that cyanide was the cause of death. Recalled
+batches of Tylenol capsules were tested and cyanide was found in two
+capsules. CMG was puzzled with the presence of cyanide in capsules. The
+
+company immediately warned the public not to take Tylenol capsules.
+
+CMG identified key stakeholders to communicate. 1) Medical professionals
+2) Consumers (Media) 3) Internal members of the company i.e., employees
+
+and other groups.4) Food and Drug Administration. All-important
+
+[10]
+--- page 5 ---
+HT
+
+stakeholders were kept in touch with continuously. 33 telephortés were
+installed by the company to communicate to the public. Toll-free telephone
+lines were kept open to gather information from the public. Messages were
+continuously analyzed and-updated. Also, they remained in continuous
+contact with media that continuously carried the story. Full-page
+advertisements were given in all newspapers in Chicago area that company
+
+would exchange Tylenol capsules with Tylenol tablets.
+
+Empioyees were informed about latest developments in crisis management.
+They were shown the plan to tackle the crisis. Also, Communication was
+sent through electronic devices to external stakeholders. They in turn shared
+with distributors, retailers and medical professionals. Because of the crisis,
+Tylenol capsules were discontinued from production. Within the 10 weeks
+of crisis, tamper-proof, triple sealed safety containers were put in retail
+shelves.
+
+Moreover, Johnson & Johnson worked closely with local police, FBI and
+Food and Drug Administration to find out the culprit. FBI and FDA
+investigation didn’t yield any results. The person responsible for Tylenol
+crisis was not found. The company declared $1,00,000 reward for helping
+the murderer to be found. Nobody though claimed the reward. .
+CMG’s aim was to regain confidence of the public and resale products to
+them. As they ran the crises management campaign, there was no sales
+impact on other Johnson &Johnson products. Consumers didn’t boycott the
+company. Though the entire crises management costed $100 million to the
+
+company it resulted in regaining 100% market share of Tylenol.
+
+-| On 11th October,1982 Washington Post wrote in front page praising
+
+Johnson & Johnson for swift crisis response: “Johnson & Johnson has
+
+effectively demonstrated how a major business ought to handle a disaster...”
+--- page 6 ---
+> oe
+
+Johnson & Johnson spokesperson mentioned three reasons for successfully
+coping with the crisis:1) The company was transparent with the media.2)
+Company did not hesitate in recalling the product. No matter the
+repercussions.3) It played to American’s sense of fair play and emphasized
+on public trust. what executives have done is communicate the message that
+the company is candid, contrite and compassionate, committed to solving
+the murders and protecting the public (Knight, 1982). After the crisis,
+Johnson &Johnson expanded internationally. It acquired many companies
+in USA and all over the world. There were many mergers too with other
+companies.
+
+N.B. This case study is taken from a public source
+
+Q7
+
+CO-
+1,2,3&4;
+SO-3&7;
+BL-5
+
+‘Answer the following questions taking the case study in Question 6-B as a
+reference: ~
+a. “The identification of key stakeholders to communicate with post |
+crises is a key factor in the successful resolution of crises for Johnson
+and Johnson.” Comment.
+b. Johnson and Johnson took several steps to manage the crises.
+Discuss any two interventions that you found to be most impactful
+
+in managing the crises. Support your choice with logical argumerits.
+
+CO-2;
+SO-3&7;
+BL-2
+
+What is a White Paper? Discuss the significance of a white paper in the
+
+professional world today.
+
+[10]
+
+—_
+````
+
+## 2022 · Final-Exam · paper ec9f1b421a9c
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/5th YEAR/All Stream/Technical Writing/Technical Writing Batch 2022 Final0001.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 29 November 2022
+- Text: ocr (6 pages), mean OCR confidence 90.5
+
+````text
+SVKM’s NMIMS \
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &| ENGINEERING 1 “}|
+SCHOOL OF TECHNOLOGY MANAGEMENT é& ENGINEERING
+
+Academic Year: 2022-23
+
+Programme: B. Tech Integrated (All Stream) "Year: V Semester: IX.
+J
+Subject: Technical Writing
+; Marks: 100
+Date: 29 November 2022 . _ . Time: 2.00 pm - 5.00. pri :
+
+Durations: 3 (Hrs)
+
+. No. of Pages: 06
+Final Examination —
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql : -
+: Answer the following questions briefly: [5x4=20]
+CO-1&2;' | a. | Explain information overload and suggest measures to overcome |
+
+SO-3&7 ; . . a oo. [5]
+
+BL2 information overload in written communication.
+
+b. | You are VP, Communications for an Indian Multinational Software Firm.
+
+The US branch office of your firm has caused an outrage when the CEO of
+
+co- the US Offices instructed the HR to avoid hiring “Indian origin candidates”.
+hes wo : Worldwide media has reported it as an “instance of racial bias”. Draft a 100- | [5]
+BL-6 7 125 words statement to be issued to press as well as to be shared on social |’
+media handles. Follow crises communication strategy in drafting the
+statement.
+CO-1&3; ]c. || - . _ :
+SO3&7-; | | “Referencing provides authenticity to a researcher’s work.” Reflect. [5]
+BL-5
+Co- d. ‘ . . . ; ;
+1.283: - Discuss the questions that one attempts to answer while analyzing a case [5] a
+SO-3&7 ; study? }
+BL-2
+
+2 A. | Explain AIDA and highlight its importance (with examples) in creating [10]
+
+persuasive and impactful write-ups.
+
+"Ie
+--- page 2 ---
+CO. ; ; ; =” |
+
+1,2&3; J
+SO-3&7; : H
+BL-2 _ " :
+Cc 0-1 &2: B. | What are the various types of conferences ?What are the important points
+SO-3&7; and etiquette that a delegate must keep in mind when attending a : [10]
+BLE conference? . :
+You are working with a retail giant as VP Sales and Customer Interactions.
+The brand has registered its presence strongly through physical as well as
+: online retail outlets. Of late though, the brand has started receiving very ,
+@ . bad reviews from the customers reporting lack of politeness from the sales
+123 &A: staff as well as from the customer care. You realize that the root cause is [20]
+SO-3 &7-; | lack of training in staff for their customer interactions.
+Bia To overcome this issue, you want to arrange training sessions by
+outsourcing trainers. Draft an Internal Proposal addressed to country Head,
+‘Convincing him/her to approve the training sessions.
+A. | Read the following passage (with errors) and rewrite to eliminate usage
+or punctuation based errors, that are compromising the coherence in
+the information shared: (underline the corrected words and phrases
+while rewriting)
+Philadelphia is a city known to many things. It is where the Declaration for
+Independence was signed in 1776, and it was also the first capital of the
+Q4 United States. But one fact about Philadelphia is not so well-known: its
+CO-1; home to nearly 3,000 murals painted on the sides of homes and buildings: 110]
+SO-3 &7-; around the city. In fact, its said that Philadelphia has more murals then any
+
+Biss other city in the world, with the exception by Rome. How did this come to
+be. More than 20 years ago, a New Jersey artist named Jane Golden started
+a pro gram pairing troubled youth with artists to paint murals for afew
+buildings around the city. From this small project, something magical
+happened. The young people involved helped to create magnificent pieces
+
+of art, but there were other, perhaps more important benefits. The young
+
+people learned to collaboratin g and to getting along with many different
+
+"Ve
+--- page 3 ---
+kinds of people during the various steps required to paint and design a
+mural. They learned to be responsible, because they needed for follow a
+schedule to make stire the murals were completed. They also learned to
+take proud in their community. It is hard to any residents to see the
+spectacular designs and not feel proudly to be a part of Philadelphia. Take a
+walk around some by the poorest neighborhoods in Philadelphia,
+neighborhoods full with broken windows and littered front steps, and you
+will find beautiful works of art on the sides and fronts with buildings. of
+course the murals are not just in poor neighborhoods, but more affluence
+ones as well. Special buses take tourists to different parts for the city to see
+the various murals, who range from huge portraits of historical heroes to
+
+1] cityscapes to scenes depicting the diverse ethnic groups that call
+Philadelphia home. As a result of it’s success, the mural pro gram. created
+by Jane Golden has now became the nations largest public art program and
+
+a model in other cities throughout the country seeking to help troubled
+
+youth.
+
+B. Dealt a blog on any one of the following topics:
+
+Loa, - |° 1. Ten Must Follow Professional Etiquette oa aay
+re 2. Social Media Generated Alienation and Loneliness ;
+
+3. Five Ways to Set and Achieve Goals
+
+A. | Read the following details and draft an abstract based on these details:
+
+a. Research Topic: Gen Z’s Purchase Behavior.
+0s b. Hypothesis: Gen Z’s (People born between 1997-2012) purchases
+<7. are influenced through social media based marketing strategies
+1.2.3&4: including influencer marketing. [10]
+ie c. Sub questions: Gen Z is routinely exposed to.social media based
+
+marketing, how far. their purchase behaviors are prompted by these
+marketing strategies? How their purchase behavior and patterns are
+
+different from the previous generations’? What are the factors
+
+Ve
+--- page 4 ---
+influencing their purchase decisions? Is the social media marketing
+also prompting useless and inepalae purchases?
+d. Sample: 500 generation Z youth from tier two and three cities - ] , |
+~e. Duration: six months ; ,
+e. Data collection: Survey Questionnaire; Personal Interviews; case
+study. . ;
+f. Data Analyses: Numerical analyses using Tableau software; SQL
+based data and visual analyses.
+g. Relevance of research lies in the fact that the insights generated can’
+be used to guide more thoughtful purchase behavior in the sample.
+
+. Also, these insights can be used for generating more effective social
+
+media marketing tools.
+CO-1&2; |B. ; ;
+RO3e/— Explain the structure and individual parts of a written report. _ [10]
+BL2 : a
+Read the following case study and write an evaluative case essay with a
+focus on reputational Risk, issues of Quality Control] and Crises
+communication:
+The company is Samsung Group, a multinational conglomerate company,
+and the crisis event is its most recent Galaxy Note 7 recall crisis. The
+| Samsung Galaxy Note 7 (Note7) was launched in August 2016 by Samsung
+Q6 - Group. The company announced that Note 7 would be a flagship of its next
+Co- generation of smartphones. The smartphone was designéd to conipete with
+soak: Samsung’s largest competitor, Apple’s newly released iPhone7. Over (20)
+BL-5 200,000 people in South Korea pre-ordered it within two days of its
+
+unveiling, and an excellent sales amount of 2.5 million was reached in only
+half a month. However, soon after Note 7 was launched, on September 1,
+2016, two battery explosion cases of Note 7 were reported by South Korean
+media, Samsung then delayed its shipments of Note7 to conduct tests for
+extra quality control. The company announced an informal global recall
+
+after receiving a total of 35 reported incidents of fire or explosions. In the
+
+le
+--- page 5 ---
+recall, Samsung proposed that a manufacturing defect of Note7 devices
+may be the cause of the explosions, and the company would replace all sold
+devices. However, the Chinese Market was excluded from this recall.
+Samsung explained that the Chinese version of Note7 was installed with
+different batteries provided by ATL, and those batteries were supposed to-
+be safer than batteries used in other countries, so Chinese customers could
+continue using their devices without any concern. The phone was banned
+from several national transport sectors and airlines in September 2016 after
+nearly 100 incidents of the device overheating and sometimes injuririg the
+users. On 3 September 8, 2016, the United States Federal Aviation
+Administration strongly suggested that Note7 not be turned on or charged
+during flights. One day later, Singapore Airlines took a step further to ban
+the overall usage of Note7 devices on their planes. At the same time, '
+reports of Note7 exploding in China.went viral on Chinese social media.
+The exploded phones were supposed to be ‘safer’ than Note7 sold in other
+countries due to different battery suppliers. On October 27, 2016, the Civil
+Aviation Administration of China announced that Chinese passengers
+would not be allowed to carry Note7 devices to airplanes or place them in
+checked-in baggage. ‘As the number of reported incidents kept increasing,
+on September 15, 2016, Samsung announced a formal seca, The company
+promised to replace all affected Note7 devices with a newly improved
+version which used batteries from another maker. However, some of these
+freshly improved devices were also reported for catching fire or exploding.
+These reports led to a global recall of Samsung Note7 on October 10, 2016.
+Samsung stopped producing Note7 devices one day after the announcement
+of its global recall. The recall caused a total loss of at least $5.3 billion in
+Samsung’s revenue. At the same time, the company fell into its most
+critical public relation crisis due to the image damage caused by product
+quality issues. After months of investigation, Samsung said on January 23,
+2017, that the cause of fires and explosions in Note7 were battery defects.
+
+Samsung delayed the launch 4 of its next flagship Galaxy S smartphone for
+
+Te
+--- page 6 ---
+safety enhancements. In September 2017, Samsung released the Samsung
+Galaxy Note 8 (Note8) as a successor to Note7.
+(N.B. This case study is copied from a public Source)
+
+You are working as the head, marketing with an online cleaning service
+
+provider brand called ‘Pitara’. You have generated.a few leads through
+
+7
+. google searches (paid) and app downloads. Draft a sales letter to be
+1,2&4; circulated as a direct marketing mail, addressed to your customers, where [20]
+ee you inform them of the range of cleaning services offered by ‘Pitara’. Also,
+
+prompt them to buy your yearly services Package. Use AIDA to persuade
+
+and prompt action.
+
+x
+
+8g
+````

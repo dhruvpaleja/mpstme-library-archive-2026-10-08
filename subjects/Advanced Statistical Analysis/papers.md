@@ -1,0 +1,1625 @@
+# Advanced Statistical Analysis: question papers in full
+
+9 unique papers · 2007-08 to 2012-13 · Chemical, Information Technology, Manufacturing
+
+Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2012-13 · Final-Exam · Trim 11 · paper f8e8464fa72d
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/advanced statistical analysis/ADVANCED STATISTICAL ANALYSIS 2012-2013 FINALscan0040.pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; exam date: 24/01/2013
+- Text: ocr (11 pages), mean OCR confidence 85.8
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School Of Technology Management & Engin
+Programme: MBA (Tech)-ALL STREAMS Year: IV Trimester: XI
+| Academic Year : 2012-2013
+
+Subject: ADVANCED STATISTICAL ANALYSIS Marks: 50
+
+Time: 2.00 p.
+
+Date: 24/01/2013 Duration: 2
+Final - Examination
+
+N Ba. Answer Any TWO out of THREE from Section —| and any Three out of Four questions from Section —
+a
+2. Section —I| outputs are given at the end of the questions
+3. Marks for each question are given at the end of the question.
+4. Make any assumptions wherever required and state it clearly
+5. Calculators are allowed
+Section 1
+Q. 1 Give two applications of cluster analysis. Which test/tool is/are used to validate results of cluster
+analysis? List and explain following clustering methods
+i) Single linkage
+ii) | Complete linkage
+iii} Average linkage
+iv) | Ward’s Method
+v) — Centroid Method
+( 10 Marks)
+
+Q. 2 What are Non-parametric tests? When do you use the non-parametric tests?
+Write a short note on following nonparametric tests
+
+a) Run Test
+b) Kolmogorov- Smirnov Test
+c) Kruskel -Wallis Test (10 Marks)
+a 3 a) Discuss the objectives of Multidimensional Scaling (5 Marks)
+
+Q. 3b) Compute the reliability of following system given the reliabilities of the components A to Gas,
+Ra = 0.85, Rg = 0.93, Rc = 0.86,Rp = 0.89, Re =0.99, Re = 0.92, Rg = 0.93. ( 5 Marks)
+
+Cc —
+A
+)
+. D F Gf
+B
+E
+
+M\\
+--- page 2 ---
+Section Il
+Q. 1 A purchase officer has shortlisted of its suppliers. Following variables are considered
+1. Total annual business from the company (AN_ business)
+2. Rating given to the supplier (Rating)
+3. Amount given as guarantee (Guarantee)
+4. Credit Period (creditperiod)
+Output is as follows
+
+Cluster
+[DataSet0]
+
+Centroid Linkage
+
+Agglomeration Schedule
+
+Cluster Combined Stage Cluster First Appears
+
+Stage Cluster 1 Cluster 2 Coefficients Cluster 1 Cluster 2 Next Stage
+
+1 12 13 035 0 0 5|
+2 7 9 053 0 0 4
+3 5 6 .066 0 0 7
+4 2 7 112) 0 2 9
+5 3 12 135 0 1 6
+6 3 11 211 5 0 10
+7 1 5 .220 0 3 8
+8 1 15 .262 7 0 11
+9 2 8 437 4 0 12
+10 3 10 658 6 0 14
+11 1 4 851 8 0 13
+lal 2 14 984 9 0 13
+13 1 2 8.019 11 12 14
+14 1 3 9.867 13 10 e)
+
+** * * * HIERARCHICAL CLUSTER ANALY Sig * ** £m ue &
+Dendrogram using Centroid Method
+, Rescaled Distance Cluster Combine
+
+CASE 0 5 10 15 20 25
+Label Nom +--------- $e 4+--------- pee $--------- +
+Case, 12 12 -+
+Caseé 13 13 =f
+Case 3 3 -+-+
+Case 11 11 <4 $------------------------------------- === === +
+Case 10 10 ---+ ‘ |
+Case 5 5 -+ |
+Case 6 6 =F |
+Case 1 1 =+-==+ |
+Case 15 15 o+ fo----- +--+ -- + - -- - - -- - - - - - - + |
+Case 4 A Se + | |
+Case 7 7 =p fansite +
+Case 9 9 =a |
+Case 2 2 -+ +--+ |
+Case 8 8 ---4$ 4-----------------------------=----- +
+Case 14 BQ e= +
+
+ANOVA on ae
+--- page 3 ---
+Oneway
+
+N Mean Std. Deviation | Minimum Maximum
+
+An_Business 1 5} 1040.0000 114.01754 900.00 1200.00
+2 5} 166.0000 42.19005 100.00 200.00
+3 5} 344.0000 36.46917 300.00 400.00
+Total 15| 516.6667 396.20822 100.00 1200.00
+
+Rating 1 5 5.5000 0.50000) 5.00) 6.00
+2 5 2.4000 0.50000 1.00 2.00)
+3 5 6.6000 0.45005 6.00) 8.00)
+Total 15 4.83333 0.68886 1.00) 8.00)
+
+Garantee 1 5} 108.0000 52.15362 80.00) 200.00}
+2 5 47.0000 48.42520 10.00 100.00
+3 5} 350.0000 36.05551 300.00 400.00
+Total 15| 168.3333 141.99681 10.00 400.00
+
+Creditperiod 1 5 15.0000 5.00000 10.00 20.00
+2 5 48.6000 84.63923 10.00 50.00}
+3 5 96.0000 71.27412 30.00 120.00
+Total 15 53.2000 94.54663 10.00 120.00
+
+Levene Statistic df1
+
+An_Business 4.115 2
+
+Rating 181 2
+
+Garantee -783 7,
+
+Creditperiod 2.479 2
+
+Sig.
+(An_Business Between Groups -000)
+
+Within Groups
+
+Total
+
+Rating Between Groups -000)
+Within Groups
+
+Total
+
+Garantee Between Groups -000}
+Within Groups
+
+Total
+
+Creditperiod Between Groups -000}
+Within Groups
+
+Total
+
+i
+The officer wants to classify these 15 suppliers into homogenous groups and understand more about the
+groups. A cluster analysis was performed on the data and also the ANOVA was done on the output of
+cluster analysis. ‘
+What are the groups formed? Who are the members of the group (give case number)? What would you
+conclude from ANOVA? What are characteristics of the each group?
+Can you use any other technique (than ANOVA) to test validity of the cluster analysis? (10 Marks)
+
+2/\)
+--- page 4 ---
+Q.2 A property dealer is trying to estimate the price of a property (Sale price in ‘O0000)on the basis of
+following variables
+
+1. Home size ( in Square feet)
+
+2. Location Rating (1 to 100, 1 =least preferred 100- most preferred )
+
+3. New or Old( 1=new, O= old)
+
+4. Near Station( 1= Yes, O=No)
+
+5. Builder Rating ( 1to 100,1= very poor builder, 100 = Excellent Builder)
+
+The output is given in the Appendix as “Property”
+
+A. State the multiple regression equation.
+
+b. Interpret the meaning of each of the slopes.
+
+c. Explain why the regression coefficient bo has no practical meaning in the context of this problem.
+d. Can you use the equation for prediction? Explain.
+
+f. Determine the coefficient of multiple determinations and interpret its meaning.
+
+g. Determine the adjusted r’. ;
+
+h. find 95% Confidence interval for the sale price of a property if size of a house is 1500square feet ,
+location rating is 60, the property is new, the property is not near station and the builder rating is 80
+Output for “Property”
+
+NPar Tests
+
+, One-Sample Kolmogorov-Smirnov Test
+
+Locationratin
+
+saleprice | Homesize g old_new Near_st Builder_rating
+N 15 15 15 15 15 15)
+Normal Mean 2910.2000} 1145.3333 58.3333 5333 .6000 61.7333
+Parameters” Std. Deviation 1033.86951] 414.34745 19.42630 -51640 .50709 17.46616|
+Most Extreme Absolute 311 314 134 350 385 .215
+Differences Positive 311 314 133 316 282 149
+¢ ! Negative -.146 -.144 -.134 -.350 -.385 -.215]
+
+Kolmogorov-Smirnov Z 1.203 1.217 519 1.357 1.491 834
+Asymp. Sig. (2-tailed) 111 103 "951 .050 .023 -490
+
+a. Test distribution is Normal.
+
+b. Calculated from data.
+
+Regression
+
+&/\\
+--- page 5 ---
+Variables Entered/Removed
+
+Variables
+Model Variables Entered Removed Method
+1 Builder_rating, .|Enter
+Locationrating,
+Homesize,
+
+old_new, Near_st*
+
+a. All requested variables entered.
+
+Model Summary”
+
+Std. Error of the
+Model R R Square {Adjusted R Square Estimate Durbin-Watson
+
+1 1.000° 1.000 1.000 32307 1.680)
+
+a. Predictors: (Constant), Builder_rating, Locationrating, Homesize, old_new, Near_st
+
+b. Dependent Variable: saleprice
+
+ANOVA?
+Model Sum of Squares df Mean Square F Sig.
+1 Regression 1.496E7 5 2992881 .092 2.867E7 .000°
+Residual 939 9 104
+Total 1.496E7 14
+
+a. Predictors: (Constant), Builder_rating, Locationrating, Homesize, old_new, Near_st
+
+b. Dependent Variable: saleprice
+
+Coefficients*
+Unstandardized Standardized 95.0% Confidence Collinearity
+Coefficients Coefficients Interval for B Statistics
+Lower Upper Toleran
+Model B Std. Error Beta t Sig. Bound Bound ce VIF
+1 (Constant) 19.700 640 30.774 .000 18.252 21.149
+
+Homesize 2.501 .000 1.002] 9981.146 .000 2.500 2.501 692] 1.445
+Locationrating 117 .006 002 20.915 .000 -104 -129 634] 1.576
+old_new 10.074 .250 005 40.356 .000 9.509 10.639 449) 2.229
+Near_st 6.257 .298 .003 20.994 .000 5.583 6.931 326] 3.064
+‘ * Bulder- rons 171 .010 .003 17.885 000 149 -193 .267| 3.742
+
+a. Dependent Variable: saleprice
+
+si
+--- page 6 ---
+Histogram
+
+Dependent Variable: saleprice
+
+ey e412
+eM Bsy.Se.8o3
+
+ve
+
+Ps
+
+as 0 “Os oo os 10 as
+
+egression Standardized Residual
+
+Normal P-P Plot of Regression Standardized
+Residual
+
+Dependent Variable: saleprice
+
+10
+
+‘ow oe oa oe 10
+Observed Cum Prob
+
+Scatterplot
+
+Dependent Variable: saleprice
+
+184
+
+Be 105 © 6
+
+os4
+
+3 00+ °
+
+© -054 )
+
+2-04
+
+154
+
+Partial Regression Plot
+
+)
+‘ Dependent Variable: saleprice
+
+3000.0044
+2000.00-4
+
+8 1000.00
+
+a
+— . °
+
+& 0.004
+
+-1000.00-4
+
+-2000.00-4
+
+T T T T T T T r
+-400.00 -200.90 0.00 206.00 400.00 600.00 800.00 1000.00
+
+C/,
+
+Homesize
+--- page 7 ---
+Partial Regression Plot
+
+Dependent Variable: saleprice
+
+4.0044
+
+2.00 °
+
+= 0.00
+
+Croxry
+
+-2.00-44
+
+-4.0044
+
+-0'50 -0.25 0.00 02s 0.50
+
+Near_st
+
+Partial Regression Plot
+
+Dependent Variable: saleprice
+
+2.00-4
+
+°
+
+2 0.004 @
+
+-2.004
+
+-4.00-4
+
+-20'00 -10.00 0.50 40100 20'00
+Builder_rating
+
+(10 Marks)
+
+Q. 3 Accompany entering in the healthcare insurance sector wants to decide the price for their healthcare
+product. They considered four attributes for this. The attributes and their levels is given below.
+
+Charges Is third party | Age for Amount
+cover Insured
+
+1500 Yes <50 1 LK
+
+}2000 No 50 to 60 2 LK
+
+2500 60 to 70 3 Lk
+
+3000
+
+The variables were coded as follows
+Charges x1 X2 X3
+1500 1 0 fe) Third party x4
+2000 0 1 0 Yes 1
+2500 0) 0) 1 No -1
+3000 -1 -1 -1
+os } X5 X6 Amount insured X7 X8
+< 1 0 1Lk 1 0
+50 to 60 0 1 21k, 0 1
+60 andabove -1 -1 3 Lk 1. #-1
+
+Note that the rankings are assumed to be best is highest
+
+Output for “Medicare”
+Model Summary
+
+Fy
+--- page 8 ---
+| Std. Error
+
+Mode Adjusted of the
+] R R Square | R Square |_ Estimate
+1 .924(a) 853 834 8.51766
+a Predictors: (Constant), x8, x3, x4, x6, x7, x2, x5, x1
+ANOVA(b)
+
+Mod Sum of Mean
+el Squares df Square F Sig.
+sail ta 8} 3315.914| 45.705) .000(a)
+
+Residual P70-08 63 72.55]
+
+Total 31098.0
+
+00 71
+
+a Predictors: (Constant), x8, x3, x4, x6, x7, x2, x5, x1
+b Dependent Variable: y
+
+Coefficients(a)
+Unstandardized Standardized
+| __ Coefficients Coefficients
+Mode Std.
+1 B Error Beta t Sig.
+1 yconstant 35.753| 1.320 27.089; 000
+xl 21.888 3.137 563 6.978 .000
+} x2 6.067 1.638 .232 3.703 .000
+x3 -8.727 2.116 -.280 -4.124 .000
+x4 .828 1.095 .040 .756 .000
+x5 . -4.324 1.738 -.165 -2.487 016
+x6 *-1.529 1.490 -.064 -1.026 .000
+x7 -10.257 1.284 -.409 -7.990 .000
+x8 -4.006 1.408 -.160 -2.846 .006
+
+a Dependent Variable: y
+Answer following
+a) Find the utility for each attribute at each level and Comment on the output
+b) Kind the percentage utility for each attribute.
+c) Draw the graph of the utility for each attribute
+d) Which of the attribute is most important while considering the medical insurance? Why?
+
+(10 Marks)
+
+Q. 4. A television producer , running out of capital approached a bank for loan. The bank collected some
+past data of the producer and wants to predict the success of new television programs. A program is
+considered successful if it survives its first season. Data on production costs, number of sponsors, and the
+total amount spent on promoting the program are available. A random sample of programs is selected, and
+the data are presented in the following table. Production costs are in millions of dollars, and promotions in
+hundreds of thousands of dollars;
+
+=f
+--- page 9 ---
+. The Output of analysis is given below
+
+Logistic Regression
+
+Case Processing Summary
+
+Unweighted Cases* N Percent
+Selected Cases Included in Analysis 25 100.0
+Missing Cases 0 .0
+Total 25 100.0
+Unselected Cases 10) .0
+Total 25 100.0
+
+a. If weight is in effect, see classification table for the total number of cases.
+
+Dependent Variable
+
+Encoding
+Original
+Value Internal Value
+.00 Failure
+1.00 Success
+
+Block 0: Beginning Block
+
+Classification Table*”
+
+Predicted
+Success Percentage
+Observed .00 1.00 Correct
+Step 0 Success .00 ie} 8 .0
+1.00 ¢) 17 100.0
+Overall Percentage 68.0}
+a. Constant is included in the model.
+b. The cut value is .500
+Variables in the Equation
+i B S.E. Wald df Sig. Exp(B)
++ 7
+Step 0 Constant .754 429 3.091 1 .079 2.125
+Variables not in the Equation
+Score df Sig.
+Step 0 Variables ProductionCost 6.510 1 .011
+NumberofSponsers 4.793 1 .029
+Promotions 6.991 1 .008
+
+Yi
+--- page 10 ---
+Variables in the Equation
+
+B S.E. Wald df Sig. Exp(B)
+
+Overall Statistics 14.320 3 .003
+
+Block 1: Method = Forward Stepwise (Likelihood Ratio)
+
+Omnibus Tests of Model Coefficients
+
+Chi-square df Sig.
+Step 3 Step 9.518 1 .002
+Block 18.505 2 000
+Model 18.505 1 .000
+
+Model Summary
+
+Cox & Snell R Nagelkerke R
+Step -2 Log likelihood Square Square
+
+3 12.839° -523 .732|
+
+a. Estimation terminated at iteration number 7 because parameter
+
+estimates changed by less than .001.
+
+Hosmer and Lemeshow Test
+
+Step Chi-square df Sig.
+
+3 3.931 6 686
+
+Contingency Table for Hosmer and Lemeshow Test
+
+Success = .00 Success = 1.00
+
+Observed Expected Observed Expected Total
+
+Step3 1 3 2.389 0 611 3
+2 1 2.381 3 4.619 4
+3 1 1.056 1 944 2
+4 2 1.240 2 2.760 4
+5 1 663 2 2.337 3
+q' 6 0 192 3 2.808 3
+7 0 071 3 2.929 3
+8 0 006 3 2.994 3
+
+Classification Table*
+
+Predicted
+
+Success
+
+Percentage
+Observed .00 1.00 Correct
+
+an = a —— \ f
+--- page 11 ---
+3 1.00 3 14 82.4)
+
+Overall Percentage 84.0
+
+a. The cut value is .500
+
+Variables in the Equation
+
+B S.E Wald df Sig. Exp(B)
+Step | ProductionCost 2.316 1.351 2.940 1 .086 10.132
+3° Promotions 905 452) 4.011 1 045 2.472
+Constant -7.840 3.578} 4.800 1 .028 -000
+
+a. Variable(s) entered on step 2: ProductionCost.
+
+Variables not in the Equation
+
+Score df Sig.
+Step Variables NumberofSpon 644 1 422)
+3 sers
+Overall Statistics 644 1 422
+Step Summary*”
+Improvement Model
+Step] Chi-square df Sig. Chi-square df Sig. Correct Class % Variable
+1 8.987 1 .003 8.987 1 003 72.0%} IN: Promotions
+2 9.518 1 .002 18.505 2 .000 84.0%] IN:
+
+ProductionCost
+
+a. No more variables can be deleted from or added to the current model.
+
+. End block: 1
+Answer following questions
+a) Which multivariate technique is used and why?
+b) State the function
+c) How would you assess the model? Which test statistic /s used to test accuracy of the model?
+
+d) Interpret the classification table. How would you classify a TV Serial having promotion cost of 3M,
+number of sponsors 2 and Promotion 200 thousand.
+
+e) How would you classify a TV Serial having promotion cost of 5M, number of sponsors 1 and
+
+‘ Promotion 100 thousand
+
+f) Give reasons why one may prefer logistic regression over Discriminant analysis
+
+(10 Marks)
+
+A
+Wy
+
+% ma
+````
+
+## 2012-13 · Re-Exam · Trim 11 · paper b4a52452a2b9
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/advanced statistical analysis/ADVANCED STATISTICAL ANALYSIS XI MBA TECH 2012-13 RE EXAM.pdf` (+2 identical copies)
+- Printed on paper: duration hours: 2; exam date: 21/06/2013
+- Text: text (3 pages)
+
+````text
+Programme:
+Batch:   2012-13
+Subject:   Advanced StatisticalAnalysis
+Time:   2.00 pm To 4.00 pm
+Date:   21/06/2013   Duration: 2 hrs.
+Re - Examination
+Instructions: Candidates should read carehlly the instructions printed on the question papel
+and on the cover of the Answer Book, which is provided for their use.
+NB:
+1. Answers for both groups A & B should be written in the same answer book   .
+2. All questions of Group B is com~ulsory
+3. In Group A, attempt any =question   ! <
+4. Figures in brackets on the right hand side indicate full marks.   . .
+Group A
+1 . Consider the following regression equation:
+hW,c =   8.58 +   0.364 (PF) ,+ 0.004 (PF) ,., -2.56 U ,
+(1.129)   (0.080)   (0.072)   (0.658)
+P values = .00000172 ,00038   0.956   0.0014
+.   .   Where W = wages and salaries per employee; PF= prices of final output at factor wst, U =
+-.   .- 6   unemployment in the economy as a percentage of total nu @ber of employees in the country
+and t.= time. (The figures in the parentheses arethe estimated standard errors)
+Base on the regression equation above answer the following questions.
+a Interpret the equation
+b. Are the estimated coefficients individually significant
+c. What is the rationale for introduction of (PF),-I
+d. Should the variable (PF),., be dropped from the model? Justify your answer
+e. How would you compute the change in wages & salaries per employee with respect to the
+unemployment rate U?   (20)
+--- page 2 ---
+.   Consider the following regression equation:
+P values = (0.0079)   (0.2901)   (0.615)
+R' = 0.964   adjusted R' = 0.95   df = 7
+Where Y = consumption expenditure; X2=income, X3=.(The figures in the parentheses
+beneath the equation are the estimated standard errors)
+Base on the regression equation above answer the following questions.
+a. Interpret the equation
+b. Discuss the goodness of fit of the model
+c. Are the estimated coefficients individually significant
+d. Do you suspect there is multiwllinearity?
+e. Does this multicollinearity call for some attention? Why?
+Group B
+. a A researcher was given the assignment of predicting which of these three actions would be
+taken by 280 employees in a particular manufacturing plant that was going to be sold to its
+employees. The alternatives were to:
+i. Take severance pay and leave the company
+ii. Stay with new company and give up severance pay
+iii. Takea transfer to another plant in another State ofthe country
+The researched gathered data on employee opinions, inspected personnel files and the like, and
+them did a discriminant analysis. Later when the results were in, he found the results listed
+below. How successful is the researcher's analysis? Why di % he decide to use discriminant
+analysis?   I
+Predicted Decision
+Actual Decision   A   B   C
+A   80   5   12
+B   14   60   14
+C   10   15   70
+b. Discuss cluster analysis as a technique of multivariate analysis.
+(1 0+5)
+--- page 3 ---
+4. Challenger space shuttle disaster in 1986 was caused by failure of an O-ring due to the
+usually cold weather conditions at the launch of the shuttle. To understand the relation
+between O-ring condition (failure or not) and launch temperature a researcher collected data
+on these two variables for 24 previous launches. He then did a logis?ic regression analysis and
+came up with the following results
+Logistic Regression Table
+Predictor   Coeff   SECoef Z   P   Odds   95% C1
+Ratio   Lower   Upper
+Constant   10.8753   5.7031   1.91   0.057
+Temp   -0.1713   0.0834   -2.05   0.040   0.84   0.72   0.99
+Note: e2 "= 10.07442
+a. Is the researcher's choice of logistic regression analysis justified?
+b. What is the difference between logistic regression and multiple regression
+c. What is the odds ratio?
+d. Find the probability of failure at a temperature of 50°C
+````
+
+## 2011-12 · Exam not stated · Trim 11 · paper fa7dba9c7c80
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/advanced statistical analysis/ADVANCED STATISTICAL ANALYSIS 2011-2012.pdf` (+2 identical copies)
+- Printed on paper: exam date: 03/02/2012
+- Text: ocr (2 pages), mean OCR confidence 73.6
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineering
+
+Programme: MBA (Tech)- ALL STREAMS Year: IV Trimester: XI
+1 Academic Year : 2011-2012
+
+“ Subject: ADVANCED STATISTICAL Marks:
+ANALYSIS Time:
+Date: 03/02/2012 Duration:
+
+Final - Examination
+
+on the cover of the answer book, which is provided for their use.
+
+NB: 1. Question No.1 is compulsory
+2. Out of remaining questions, answer any 3 questions
+3. In all, 4 questions to be attempted.
+3. Answer to each new question to be started on a fresh page.
+4. Figures in bracket indicate full marks.
+
+Ql. (a) Explain any one non-parametric test and where itis used. (8)
+
+(b) Distinguish between parametric and non-parametric tests. (4)
+(c) The following are the number of artifacts dug up by two archaeologists at an ancient cliff
+dwelling on 30 days.
+
+ByX:102310223011412135213241320242
+ByY:001020011201211022602302101010
+
+Use the sign test at 1 % level of significance to test the null hypothesis that the two
+archaeologists, X and Y, are equally good at finding artifacts against the alternate hypothesis that
+X is better. The table value of Z can be taken as 2.33 (for 1 % level of significance). (8)
+
+Q2. (a) Explain briefly conjoint analysis (5)
+(b) Explain in brief factor analysis and where itis used? (5)
+
+Q3.i(a) Explain briefly Kolmogorov-Smimov test and where itis used. (4)
+(b\Discuss the method of Least Squares for fitting the econometric model
+Y = Bo + BX + Bo X? using n pairs of observations (Xi, Yi) (6)
+
+Q4. Obtain the multiple regression plane of X; on X2 and X3 for the following trivariate data of
+8 observations. (10)
+
+X= 15.9, X= 3.67, X3 = 5.79, 01 = 1.71, 02 = 1.29, 03 = 3.09, rin = -0.66, 13 = -0.13, r= 0.6
+Hence forecast the value of X; when X2 = 4 and X3 = 6. All symbols have their usual meanings.
+
+Q5. (a) Given 18 bao 0.7, yk 0.61, 3 0.4, find 123.1 and T13.2 (4)
+
+(b) Compute the reliability for the following systems given the reliabilities of the components A-
+Has (6)
+
+Vo.
+--- page 2 ---
+R =0.95,
+A
+
+B
+
+a
+
+R,= 0.9, . 0.95, % 0.94, RE 0.9, Re 0.98, aoa 0.92, Ry 0.9
+
+WA |
+>} EG
+1B re{
+x
+j
+Vi
+
+2/e-
+
+_—__—
+
+hall
+````
+
+## 2011-12 · Re-Exam · Trim 11 · paper 042786443f84
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/advanced statistical analysis/ADVANCED STATISTICAL ANALYSIS BATCH 2011-12 RE EXAM0001.pdf` (+2 identical copies)
+- Printed on paper: max marks: 90; duration hours: 2; exam date: 22/06/2012
+- Text: ocr (4 pages), mean OCR confidence 86.7
+
+````text
+ASTITUTE OF gS
+\ Vf NN
+
+S/ “ty,
+{ 1S
+je
+ry AS
+SVKM’s NMIMS a,
+Mukesh Patel School of Technology Management & Engineering “' ual a
+Programme: MBA Tech - ALL STREAMS Year: IV Trimester: XI
+Academic Year : 2011-2012
+Batch: 2011-12
+Subject: Advanced Statistical Analysis Marks: 90
+Time: 4.00 pm To 6.00 pm
+Date: 22/06/2012 Duration: 2 hrs.
+
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+1. Answers for both groups A & B should be written in the same answer book
+2. All questions of Group B is compulsory
+
+3. In Group A, attempt any one question
+4. Figures in brackets on the right hand side indicate full marks.
+
+Group A
+
+1. Consider the following regression equation: *
+
+A
+
+Wil = 8.58 + 0.364 (PF) ,+ 0.004 (PF) ;.) -2.56 U,
+} (1.129) (0.080) (0.072) (0.658)
+
+P values = .00000172 .00038 0.956 0.0014
+
+R?= 0.873 df= 15
+
+Where W = wages and salaries per employee; PF= prices of final output at factor cost, U =
+unemployment in the economy as a percentage of total number of employees in the country
+} and t = time. (The figures in the parentheses are the estimated standard errors)
+
+¥ } Base on the regression equation above answer the following questions.
+a. Interpret the equation
+b. Are the estimated coefficients individually significant
+c. What is the rationale for introduction of (PF):
+d. Should the variable (PF),.; be dropped from the model? Justify your answer
+e. How would you compute the change in wages & salaries per employee with respect to the
+unemployment rate U? (20)
+
+Ap, |
+--- page 2 ---
+2. Consider the following regression equation:
+
+A
+YO = 24.77 + + 0.942 X 9,- 0.042 X 3;
+(6.75) (0.823) (0.081)
+
+P values = (0.0079) (0.2901) (0.615)
+
+R?= 0.964 adjusted R? =0.95 df=7
+
+Where Y = consumption expenditure; X»= income, X;3 =. (The figures in the parentheses
+beneath the equation are the estimated standard errors)
+
+Base on the regression equation above answer the following questions.
+a. Interpret the equation
+
+b. Discuss the goodness of fit of the model
+
+c. Are the estimated coefficients individually significant
+
+d. Do you suspect there is multicollinearity?
+
+e. Does this multicollinearity call for some attention? Why?
+(20)
+
+Group B: .,,
+1. A researcher collects data on rates of various types of crime in a number of selected states of the
+4 USA. His aim is to to identify patterns of crime indifferent states. He chooses to use a multivariate
+
+} analysis and some of the results he obtains is mentioned below
+
+Correlation Matrix
+
+Aggravated Motor
+Correlation Murder Rape Robbery assault Burglary Theft vehicle theft
+Murder 1 0.578 0.804 0.781 0.58 0.361 0.573
+Rape 0.578 1 9.53 0.659 0.721 0.635 0.569
+Robbery , 0.804 0.53 1 0.74 0.551 * 0.399 0.786
+Aggrevated :
+assault 0.781 0.659 0.74 1 0.711 - 0.512 0.638
+Burglatf } 0.58 0.721 0.551 0.711 1 0.765 0.578
+Theft 0.361 0.635 0.399 0.512 ,| 0.765 1 0.386
+Motor vehicle
+theft 0.573 0.569 0.786 0.638 0.578 0.386 1
+
+2,
+
+—
+--- page 3 ---
+Component Matrix
+
+Component
+1 2 3 4 =) 6 7
+Murder 825 -.347 -.367 1.867E-02 «L35, -.156 147
+Rape 817 276 -1.18E-02 -.487 22 2.960E-02 -4.63E-02
+Robbery 846 -.417 8.929E-02 161 189 3.248E-02 -.200
+Aggravated assault | .887 -.123 -.228 1.857E-02 -277 261 2.483E-03
+Burglary
+Theft 854 365 -8.62E-03 9.512E-02 -.226 -.263 -8.68E-02
+Motor vehicle theft | .695 623 5.302E-02 .263 189 .120 7.865E-02
+-793 -.281 516 -4.29E-02 -7.98E-02 | -1.68E-02 130
+Communialities
+Initial
+-| Murder 1
+Rape 1
+Robbery 1
+Aggrevated assault 1
+Burglary 1
+Theft ; 1
+Motor vehicle theft 1
+Total Variance Explained
+Initial Eigen Values Extraction Sum of Squared Loadings
+Component Total % of variance | Cumulativé% | Total % of variance | Cumulative %
+1 4.694 67.056 67.056 4.694 67.056 67.056
+t 2 0.986 14.091 81.147 0.986 14.091 81.147
+} 3 0.464 6.633 87.78 0.464 6.633 87.78
+4 0.344 4.917 92.697 0.344 4.917 92.697
+P) 0.239 3.413 96.11 0.239 3.413 96.11
+6 0.178 2.544 98.653 0.178 2.544 98.653
+ui 9.43E-02 1.347 100 9.43E-02 1.347 100
+
+a. What analysis is he doing and why?
+b. Explain the various tables.
+
+}
+
+\ , 2a. What is the difference between parametric and non-parametric hypothesis testing?
+q Bh Suppose you want to analyse the hours of classes missed annually for 24 girls & boys due to
+illness at your institute and you want to check if there is any difference attributable to gender?
+What hypothesis testing would you use and why?
+c. What are Rank tests? :
+d. What is level of significance? How is it related to level of confidence?
+e. What is power of test? How is it related to Type two error?
+
+(10)
+
+(10)
+
+3. A researcher found that probability of illness is related to body mass. He was in particular
+interested in the extent of increase in the said probability due to a unit increase in BMI of the
+
+a),
+--- page 4 ---
+individual. The researcher collected data and did an analysis which gave him the following
+results:
+
+Predictor | Coeff SE: Coefs: |-Z iP Odds 95% CI
+Ratio Lower Upper
+
+Constant __| -4.44 2.606 -1.71 0.088
+
+BMI 0.1359 0.0789 1,72 0.085 ee 0.98 1.34
+
+What technique is he using and why?
+
+Explain the technique.
+
+What does odds ratio mean?
+
+Obtain the increase in probability of illness due to one unit increase in BMI
+
+(10)
+
+sok ea ack ok
+
+a
+````
+
+## 2010-11 · Exam not stated · Trim 11 · paper 45e004462c6d
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/advanced statistical analysis/2010-2011(51).pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 19/01/2011
+- Text: ocr (2 pages), mean OCR confidence 87.2
+
+````text
+' SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management é& Engineering
+
+Programme: MBA(Tech)-ALL STREAMS Year: IV Trimester: XI
+Academic Year : 2010-2011
+Subject: ADVANCED STATISTICAL ANALYSIS Marks: 50
+Time: 2.00 PM TO 4:
+Date: 19/01/2011 Duration: 2 hrs.
+
+Final - Examination
+
+Instruction: Candidate should read carefully the instruction printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+N.B:
+1. Question no. 1 is compulsory.
+2. Out of remaining questions, attempt any three questions.
+3. In all 4 questions to be attempted.
+4. Figures in brackets on right hand side indicate full marks.
+5. Answer to each new questions to be started on a fresh page.
+
+Q.1. a) Distinguish between parametric and non-parametric tests, (4)
+b) Discuss the sign test with respect to its scope and test procedure. (8)
+c) Use the run test for the following data to test, Hy: - F(Z) = G(Z)
+against Hy :- F(Z) > G(Z) (8)
+
+X: 37.6, 38.4, 47.2, 53.2, 62.4, 64.4, 66, 72.8, 86.8
+Y: 66.4, 66.8, 74, 76.4, 86, 89.6, 90.4, 92.8, 96.8, 105.2
+Take X= 0.05
+
+Q.2. Obtain the multiple regression plane of X; on X; and X; for the following trivariate
+
+data of 10 observations _ (10)
+Xi =110 X= 102 X3 = 112
+6; =4.5 62 = 9.68 63 = 8.82
+rp = 0.5 ri3= 0.6 ¥23 = 0.9
+
+Hence forecast the value of X; when X2= 110 and X;3 = 120. All symbols have their
+usual meanings. (10)
+
+Q.3. a) Given ry = 0.4; r13 = 0.7; ro3 = 0.6 for a data of 15 observations X;, X2 and X3
+compute R3,12 and 1123. Also test the significance of ri23 taking X = 0.05 (5)
+
+b) Compute the reliability for the following systems given the reliabilities of the
+components A-H as (5)
+
+Ra=0.95; Rg =0.9; Rc= 0.95; Rp = 0.94 :
+
+Re = 0.9; Rr =0.98; Rg=0.92;   Ry=0.9
+
+LAR.
+~ D FEGGI- 4H
+[B}-+ =
+
+y
+2.
+--- page 2 ---
+Q.4.
+
+Q5.
+
+a) Discuss the method of least squares for fitting the econometric model
+Y= Bo + By x +B2 using ‘n’ pairs of observations (xj, yi) (6)
+
+b) i. If F(x) is the c.d.f. of random variable X then Ho, F(60) = 0.6 means
+ii. What is the maximum number of runs possible in a sequence of length 5 using
+2 symbols?
+a) 6 b)4 ¢)3 d)5
+
+iii. The Kolmogorov — Smirnov test is a parametric test. True or False (4)
+
+a) What is Factor analysis and what are its objectives? (5)
+
+b) Explain in brief, cluster analysis. (5)
+````
+
+## 2010-11 · Exam not stated · Trim 11 · paper 407910635ba8
+
+- Departments: Chemical
+- Programmes: MBA TECH / CHEMICAL
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/advanced statistical analysis/ADVANCED STATISTICAL ANALYSIS BACTH 2010-2011(1).pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 23/06/2011
+- Text: ocr (2 pages), mean OCR confidence 87.0
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School of Technology Management & Engineering
+-Programme: MBA TECH - (All Streams) Year: IV Trimester: XI
+
+Academic Year : 2010-2011
+
+Batch: 2010-2011 2
+Subject: Advanced Statistical Analysis Marks: 50//. >
+Time: 4.
+
+Date: 23/06/2011 Duration: 2 hrs.
+Re - Examination \
+
+Instructions: Candidates should read carefully the instructions printed on the q
+and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. 4 is compulsory.
+2. Out of remaining questions, attempt any 3 questions.
+
+3. Inall 7 questions to be attempted.
+V4. All questidns carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+1. Why do we need to use nonparametric tests ? How are they different from parametric tests?
+Explain the Runs test. The inspection of 44 computer chips reveals the following sequence of
+defectives D or acceptable A chips:
+
+DAAAAAAADDDDAAAAAAAADDAAAAAAAADDDDAAAAAAAAAA
+Do you think that the defectives follow a random sequence ?
+
+2. What is ;multiple regression ? If X1 is the dependent variable with mean 55 and s.d. 2.25 and X2
+and X3 are the independent variables with means 51 and 56 and s.d.4.84 and 4.41 respectively.
+Fit the regression of X1 on X2, X3, given that r12=0.4, r13=0.7, r23=0.6. Forecast X1if X2=55 and
+X3= 60.
+
+3° Whatis linear discriminant analysis PLetye represent net profit in Rs Lakhs and for number of
+union membership. Of the 10 companies for which data are given , F are buyers and Sere not.
+Determine the discriminant function.”
+Observations Buyers/Not buyers Net profit Membership
+
+B/N X z
+1 N 8 Oo
+2 N 10 1
+3 B 9 2
+4 B 16 4
+5 B 15 3
+6 N 10 2
+7 B 10 1
+8 B 7 3
+9 B 15 4 .
+10 B 4 5
+
+i/o
+--- page 2 ---
+4.Explain (a) Multidimensional scaling (b)Cluster Analysis (c) Their limitations. (&) Relcod i tebg
+5.What is the meaning of econometric model building ? How is it an improvement on simple
+regression analy sis ?
+
+6.Write notes on(any three) ; (a) poiawel Bewodels (b) Reliability an d Validity (c)Priciple of least
+
+squares, (d) Kruskal Wailiis test.
+
+_
+````
+
+## 2009-10 · Exam not stated · Trim 11 · paper 4c71742b090d
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/advanced statistical analysis/2009-2010(174).pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2
+- Text: ocr (2 pages), mean OCR confidence 87.3
+
+````text
+vv
+\WSTITUTE OF Marvy
+Sr N%.
+S/
+/ = MPSTME ‘ye
+Bi LIBRARY de
+\ a SO Js
+rar we,
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+Final Examination
+M.B.A(Tech) IV year Trim : XI( 2009-10) Marks : 50
+Subject : Advanced Statistical Analysis Duration : 2 hours
+Date : 24 |i [to Time: 2.00p.m to 4.00 p.m
+Note:
+1. Question No.1 is compulsory.
+zi 2. Out of the remaining question, attempt any three questions.
+a 3. In all four questionsto be attempted.
+
+4. Answer to each new question to be started on a fresh page.
+5. Figures in Bracket to the right indicate full marks.
+
+Q 1. (a) What are runs? How is the number of runs used to examine the randomness of a sample?
+Explain the test procedure. 10.
+
+(b) The nicotine contents of two brands of cigarettes, measured in milligrams was found to be
+as follows:
+Brand A: 6.3 5.4 3.7 6.1 3.3 2.1 4.0 4.8
+Brand B: 0.6 3.1 4.0 6.2 2.2 16 2.5 19 54 4.1
+
+Test using the Mann-Whitney- Wilcoxon test, whether the nicotine content in Brand A is
+more than that in Brand B.(Use the 5% level of Significance) 8
+
+(c) i) If F(x) is the c.d.f. for random variable X then Ho: F(70) = 0.8 means
+ii) The Kolmogorov —§mirnov test is a test of goodness of fit of a theoretical distribution,
+True or False? 2
+
+—
+
+Q2. (a) The Following quantities are obtained from measurements on length in mm(X;), Volume
+in c.c(X2) and weight in gm (X3) of 300 eggs:
+
+Xi = 56 6; = 2.3 i= 0.6
+
+X=51 O= 44 13 =0.6
+
+X3 = 56 63= 44 r23=0.9
+
+Obtain the linear regression equation of egg weight on egg length and egg volume. Hence
+estimate the weight of an egg whose length is 58mm and volume is 53 c.c 6
+
+(b) On the basis of the following information, based on 10 observations of three variables X;,
+X2, and X3, Computer r23-; and Rj 23. Also test the significance of 131. 4
+
+(P-T0-)
+--- page 2 ---
+— be ae
+
+Q3. (a) Discuss the methodology of an econometric model 5
+
+(b) Describe how you will fit the Cobb-Douglas production function. Q=AK“L®, using the
+method of least squares, given data on Q the quantity produced, K the capital used and L the
+Labour used, A a & B are the parameters of the function. 5
+
+Q4. (a) Discuss the importance of measurement of reliability of men and machines in industry. 5
+
+(b) Compute the reliability of the system given below. The reliabilities of the components that a
+make up the system are given below the components.
+
+ey DE re |
+
+| 03 «08 O-F
+Fe}
+
+J LH
+
+0-8 Ou F
+
+Q 5. (a) How does cluster analysis help in understanding multivariate data? (Answer in brief.) 5
+(b) What are the objectives of factor analysis and describe, in brief,how they are achieved? 5
+Q6. (a) Write a note on discriminant analysis.
+
+(b) Describe the objectives of multi-dimensional scaling.
+````
+
+## 2008-09 · Exam not stated · Trim 11 · paper 8568612a75ec
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/advanced statistical analysis/2008-2009(178).pdf` (+2 identical copies)
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 04.02.09
+- Text: ocr (2 pages), mean OCR confidence 83.5
+
+````text
+x
+
+f 5 a No,
+or \
+¥ SVKM"S \« \
+
+5( NMIME Un versity Jo \
+
+( Mumbai - 56. 8
+SVKM’S NMIMS UNIVERSITY HU uerany 18
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT BD. ENGINEERING
+MBA (TECH.) Programme IV Year IN 2a See 6S
+MAN 1a
+
+Trimester XI, 2008-09
+
+Subject: Advanced Statistical Analysis
+Date : 04.02.09 Marks: 50
+Time : 2 hrs
+Duration : 2.00- 4.00 p.m.
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any three questions.
+3. In all 4 questions to be attempted.
+
+~ 4. Answer to each new question to be started on a fresh page.
+5. Figure in brackets to the right indicate full marks.
+Q.1 (a) Discuss the sign test. (10)
+(b) Distinguish between parametric and non-parametric tests. (3)
+(c) Use the run test for the following data to test ,
+Ho F(z)= G(z) against H; F(z) < G(z). Take a = 0.05.
+X:33.2, 33.4 37, 38.2 43 448 452 464 484 52.6
+Y: 18.8, 19.4, 23.6, 26.6, 31.2, 32.2, 33, 364, 43.4 (7)
+a Q. 2. (a) Obtain the multiple regression plane of X; on X2 and X; for the following trivariate data.
+X = 55 ; X= 51; Xs = 56
+61 = 2.25 62 = 4.84 63 = 4.41
+Tj2 = 0.5 T3 = 0.6 13 = 0.9
+Forecast the value of X; if X27 = 55 & X3= 60 (6)
+(b) Given ty = 04 ; m3 = 0.7 3; m= 0.6
+for a data of 15 observationson X;, Xz and X3
+compute R31 and rj,3, Also test the significance of rj2_3. (4)
+
+P.T.O.
+--- page 2 ---
+Q. 3. (a) Describe the methodology involved in an econometric model. (6)
+(b) Discuss the method of least squares for fitting the model y= Bo + Bix +B2x” (4)
+
+using data (xi, yi)i=1,2 0.0.00... n.
+
+Q. 4. (a) Write a note, in brief on reliability and validity of data. (5)
+
+(b) Compute the reliability for the following system given the reliabilities of the
+components Am—H as Ra=0.9 ; (5)
+
+Rp= 0.92 ; Rce=0.98; Rp= 0.9;   Re=0.95; Rp=0.94; Re=0.9; Ry=0.9
+
+Cc =
+A
+—F D F G H
+B
+E
+Q. 5. (a) What is Factor analysis and what are its objectives? (5)
+
+(b) Describe the different stages of the decision process for disriminant analysis.
+
+[Answer in brief] (5)
+Q. 6. (a) Explain, in brief, cluster analysis. (5)
+(b) Discuss the objectives of multi-dimensional scaling. (5)
+
+cone eeenen ene ay, a,
+````
+
+## 2007-08 · Exam not stated · Trim 11 · paper 76394104e533
+
+- Departments: Chemical, Information Technology, Manufacturing
+- Programmes: MBA TECH / CHEMICAL, MBA TECH / I T, MBA TECH / MANUFACTURING
+- Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XI/advanced statistical analysis/2007-2008(132).pdf` (+2 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (5 pages), mean OCR confidence 85.0
+
+````text
+j
+
+7
+SVKM’S NMIMS UNIVERSITY. ar »
+i ¥ sye us
+/ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN{#ENEERING (MPS°
+MBA Tech IV Year , Trimester I [ i, aes “ate dom
+y "2007 = 2008 be
+Fe ...ysubject: - Advanced Statistical Analysis and Operations
+Qale: ot}ro fox : £05 §-00
+Max Marks: 100 e : righe ge : & “Time: 3 hours. fe.
+
+Instructions:
+Candidates should read carefully the instructions printed on the question paper and on the
+cover of the answer book, which is provided for their use.
+
+Note:
+1) Answers to the two sections must be written in separate answer-books. Each
+section carries 50 marks
+2) In Section A, attempt any three questions out of four main questions
+Ww 3) In Section B, Q. ] is compulsory. Answer any two out of the remaining questions
+
+4) Figures in brackets against each question indicate full marks
+5) Answer to each question must be started on a fresh page
+
+6) Use of statistical tables permitted. Formulae sheet not permitted to be used.
+7) Assume data, wherever required, giving reasons for the samé
+
+SECTIONS —A
+Q.1a) The following are the OLS residuals of a two variable model. Calculate D.W. statistic
+‘d’ and test for the presence of auto-correlation ( given: dp = 1.08, dy = 1.36 )
+
+Year 1961 62 °63 7°64 °65 °66 °67 °68 °69 °70 771 72 73 74 “75
+6 2.26 1.71 2.27 2.93 3.09 2.87 1.55 0.35 0.13 0.24 —0.92 —1.90 —2.58 -3.36 —3.31
+
+(10 marks)
+
+ib) A certain TV channel has invested a sizable amount of money into a new program.
+Vs Unfortunately, the program had not done well and the sponsor was considering
+canceling it. To beef up the ratings, comedy scripts were introduced in the program.
+The following are results of telephone surveys before and after the change in the
+series. Using a U — test, can you infer at 0.05 significance level that the change in the
+
+series format helped the ratings ?
+
+Before 22 18 19 20 31 22 25 19 22-24 18 16 14 28 23 15 16
+After 25 28 18 30 33 25 29 32 19 16 30 33 17 35
+
+(10 marks)
+
+pre
+--- page 2 ---
+Q.2 Based on a sample of 20 observations, the following intermediate results (in dew
+f n
+form)
+
+¥ = 1.29, X = 0.48, X= 122
+
+i) Estimaie the model of Y on X, and prepare the ANOVA table for the same
+ik) Estimate the model of Y on X,; and X»2 and prepare the ANOVA table for the
+same.
+Note: Use 5% level of significance
+(20 marks)
+
+Q.3a) Explain what is Factor Analysis. What are the objectives of Factor Analysis ?
+Enumerate the assumptions that are made in Factor Analysis.
+
+(10 marks)
+Q.3b) Two judges award marks for a certain contest as follows:
+Judge 1 98 74 70 49 74 98 74 64 43 86 63 85 91 98 74 43 63
+Judge 2 67 76 55 S51 48 67 83 67 55 79 48 51 55 76 67 S51 48
+
+Find the Spearman’s Rank Correlation Coefficient. Comment on your answer
+(10 marks)
+
+Q.4a) Explain what is Conjcint Analysis. Mention some of the managerial uses of Conjoint
+Analysis. What are the objectives of Conjoint Analysis ?
+(10 marks)
+
+Q.4b) The following data gives 12 observations of price (Xj) and the corresponding quantity
+(Yi) supplied of a commodity
+
+Price 9 12 6 10 9 10 7 8 12 6 il 8 vy
+Commodity 69 76 52 56 57 77 58 55 67 53 72 64
+
+Estimate the required regression line
+(16 marks)
+
+Po.
+--- page 3 ---
+¢ 3
+
+Section — B (Operations Research II)
+
+/Q.1a) An art dealer’s client is willing to buy a painting titled “Sunplant” at Rs 50,000 and is
+
+earn a profit of Rs 10,000 or he can wait:for a day ‘and-buy it’ tomorrow when the
+
+Vf not in a hurry. The dealer can buy the: painting at Rs 40,000 today from a source ‘and.
+
+painting will be available (if it has not been sold) for Rs 30,000 and make-a higher «.
+
+profit. He may also wait one more day and buy the painting if still available for Rs
+26,000. At the end of the third day the painting“will' no longer be available fot sale.
+Each day there is a 0.60 probability that the painting will be sold out. Draw a decision
+tree and determine the art.dealer’s optimal strategy and the EMV,
+
+ses as nak cil ai - (10 marks) |
+
+@.ib)A: decision maker, faced with four decision alternatives and. four. states OF ys
+
+nature develops the following profit payoff table.
+s
+
+{ Decision | States of nature
+g alternatives | S; S> 33. S,
+dy 14 9 10 5
+do li 10 8 7
+ds ; 9 10 10 il
+ds fs | 10 SH ee
+
+The decision maker has obtained the following probabilities P(S:)=0.5, P(S2)= 0.2,
+P(S3)= 0.2 and P(S4)= 0.1
+Determine the optimal decision on the basis of EMV approach and find the EMV. Also
+find EPPI, EVPI and EOL using regret matrix.
+
+(10 Marks)
+
+Q.2 For The Leo Toys manufacturing company the product demand probabilities ere
+unknown but following information is known :
+Anticipated Profit (Rs °000)
+
+%) Product Production Line Operation
+GI Demand Full Partial | Minimal
+
+Good 8 70 50
+
+Fair 5 45 40
+
+Poor —10 0-
+
+Determine the Plant Manager’s optimal strategy under following criteria :
+(a)Maximax (b)Maximin (c)Laplace (d)Hurwicz (a@=0.7) (e)Minimax
+(15 Marks)
+Q.3a) Write the dual for the following Linear Programming formulations
+
+Min Zs. = 2X + 3X2 + 4X3
+Subject to, 2X, + 3X, + 5X32 2
+3X1+ X.+ 7X3 = 3
+xX] + 4X. + 6X3 <5
+XI, X. > 0
+X3 unrestricted in sign
+
+(5 Marks)
+4
+
+Pio
+
+yA
+--- page 4 ---
+4
+
+Q.3b)Given below is the simplex tableau for a maximisation type of Linear
+Programming problem ety
+
+Cp Cj > bi
+ghee Basie” > a x, re ee Solution
+PGs act ed a ye og i
+ice hence, “So Be ba re ac ee a ae
+: bi ¢ « ae pee OVS PRR OEE ye SS oe pa
+“J
+Cj-Zi
+The formulation is : Ent, : wet |
+Maximise Z = 3 Xj’ 4 X, +0.8; + 0.83 Aes th BRS BY ts FD ee Fron |
+where X, and X2 are quantities of Products A & B
+Subject to, ee
+X1 +X, +8, =6 (Hrs-capacity of Fabrication Dept)
+2 X%\+ X_ +S. = 8 (Hrs-capacity of Finishing Dept) |
+
+Xi, X2 >0
+Answer the following questions referring the above tableau :
+
+(i) Fill the missing values in the tableau. Is this an optimal solution ? Show by
+working. If not, find the optimal solution,
+
+(ii)» How much quantity of each product is being produced as per this solution?
+What is the expected profit ? Which product is not produced and why? °
+
+(iii) Which Department is fully utilised and which department is partially utilised?
+How many hours are unutilised for any department?
+
+(iv) Suppose the company wishes to increase the capacity of any one of the
+departments, which one would you select and why?
+
+(v) Ifthe company wishes to consider a new product whose profit per unit is 2.50
+Rs and it is known that it consumes 0.5 hour in each of the Fabrication and
+Finishing departments, is it worth producing ? Justify your reply with working
+
+(vi) What are the ranges for profit coefficients of X; and Xz over which the current
+solution remains optimal? a
+
+(vii) What are the ranges of department capacities over which the solution remains
+undisturbed (Shadow costs of departments remain unchanged) ?
+
+(10 Marks)
+
+Q.4 a) State different types of Forecasting Methods in a cme format and explain each
+qualitative type in a few sentences.
+(5 Marks)
+
+.4b) For the following monthly demands, calculate (i) 4-monthly moving average forecasts
+and (ii) 3-monthly weighted average forecasts using weightages of 3:2:1. Also find the
+
+forecast for the eighth month by both methods (10 Marks)
+Month 1 2 3 4 5 6 7 |
+|
+‘Demand | 48 53 55 56.58 63 68 | voll
+PTD
+--- page 5 ---
+y Given the following data about the demand of an item, use exponential smoothing to
+forecast demand taking a=6.1 and a=0.3.Take initial forecast to be 80
+
+v7 | Quarter | L222 3 4_ 5 6 det
+
+LY [Demand | 70." 160 110 200 -90—Ss120— 60 10 |
+
+Further calculate MAD for each of the series and suggest which value of a is more
+: appropriate. Calculate Mean Squared Error (MSE) and Mean Percentage. Error (MPSE)
+} (15 Marks)
+Q.6 Mr Prime the owner of a chain of facilities manufacturing detergents, is contemplating
+opening a new facility in a certain area. He usually builds plants of capacities 2500
+and 5000 tonnes, depending upon whether the anticipated demand is low or high. He
+has been able to construct the following payoff table based on his experience :
+
+Net Payoff (in Rs lacs)
+
+{ Demand (E;) 7 — Acts 7
+ww 2500 tonnes 5000 tonnes
+
+Low 30 20
+
+High 40 55
+
+The probabilities of low and high demands have been estimated at 0.3 and 0.7
+respectively. He also feels that a survey must be conducted to get updated estimates of
+demand. A research firm agrees to conduct the survey for Rs 2 lacs and provide him
+with the information on demand based on survey results. The research described the
+reliability of their estimates by means of the following table ;
+
+Survey Estimate
+
+Actual Event Low demand High Demand
+
+Low 0.80 0.20
+High 0.10 0.90
+
+- What should be the decision based on prior and posterior probabilities and the
+# corresponding EMV values? Find EVSI and Efficiency of EVSI. Use Bayesian
+approach for posterior analysis.
+(15 Marks)
+
+cee “A sates
+````

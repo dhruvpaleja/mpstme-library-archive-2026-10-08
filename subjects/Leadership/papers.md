@@ -1,0 +1,493 @@
+# Leadership: question papers in full
+
+3 unique papers · 2016-17 to 2018-19 · Common (all branches)
+
+Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2018-19 · Final-Exam · Sem 9 · paper 7bfc27204c58
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/IX SEMESTER/Leadership/Leadership Final 2018-19.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 15 December 2018
+- Text: ocr (4 pages), mean OCR confidence 95.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech ( All Streams) Year: V ~ Semester: IX
+
+Academic Year: 2018-2019
+
+Subject: Leadership
+Marks: 60 “
+
+Time: 10.30 am to12.30pm —
+
+Durations: 2 Hrs ,
+
+No. of Pages : Ou
+Final-Examination (2018-19)
+
+Date: 15 December 2018 ~
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) All questions carry equal marks.
+
+2) Answer to each new question to be started on a fresh page.
+
+3) Figures in brackets on the right hand side indicate full marks.
+4) Assume suitable data if necessary.
+
+5) All questions are compulsory.
+
+QI. Choose any Great Leader from corporate or political field and
+a) Analyze their traits (with examples) that make them a great leader.
+b) Critically analyze this leader and givé succinct summary of what would have made
+
+them further great. .
+c) What are the traits of this leader you would like to imbibe and why?
+
+d) Explain this with respect to your leadership profile.
+
+(20 Marks)
+
+Q2. Review the Case Study I and answer the following questions: (20 Marks)
+
+a. What leadership styles could be developed in this situation?
+
+b. What are the primary leadership challenges facing the taskforce?
+
+c. How could the taskforce make mid-course corrections to be more effective?
+d. Which kind of style do you think a leader would need to be effective in this
+
+situation?
+
+PAGE # 1 OF 4.
+--- page 2 ---
+Q3. Review the Case Study II and answer the following questions: (20 Marks)
+
+a. Is there a problem(s) here?
+b. What is (are) the problem(s)?
+c. What should be done?
+
+d. Critically Examine the study
+
+Case Study I
+
+A local school district has convened a positive youth development taskforce. The
+taskforce is a partnership between the district and the university and is supported by
+funding from both. The taskforce contains five full-members and five adjunct members.
+The five full-members attend meetings every month. The goal of the taskforce is to
+provide recommendations to the district regarding integration of positive youth
+development principles into school environments, including academics and
+extracurricular activities. The district serves predominately low-income youth and
+families. Both graduation and college entrance rates for this community are lower than
+the state averages.
+
+The five full-time members of the team include:
+
+Professor Towne: Professor Towne is from the university and is an expert in youth
+development. Professor Towne has worked in this field for over 30 years.
+
+Mrs. Nidal: Mrs. Nidal is a teacher with over 20 years of experience at the largest public
+high school in the district. She has been recognized by the district for excellent service.
+
+Mr. Hernandez: Mr. Hernandez is the vice-principal of an elementary school in the
+district. He also coordinates the district’s extra-curricular activities. He is new to the
+district, a recent graduate with a Master’s in Education.
+
+Mr. Bradley: Mr. Bradley is the coordinator of a mentoring program. He works both at
+the university and at the same school as Mrs. Nidal. The program brings in college
+students to mentor high school students. Mr. Bradley has coordinated this program for
+five years.
+
+Maya Soto: Maya Soto is the youth member of the taskforce. She is in the 10th grade
+and is the 10th grade class president and a member of the volleyball team. She is also a
+participant in Mr. Bradley’s mentoring program.
+
+The task force has met four times this year. They have six more meetings until their work
+needs to be submitted to the district for review. So far they have completed a review of
+
+research and have an outline for providing recommendations to the district. The first few
+
+PAGE # 2 OF
+--- page 3 ---
+times the task force met, the discussion was dominated by Mrs. Nidal and Mr.
+Hernandez. Their conversation tended to drift into school and district reform efforts,
+school budget cuts, etc. Maya often remains quiet through most of the discussion.
+Professor Towne feels like they are losing time and need to focus more on the task at
+hand and making final recommendations for the district.
+
+Case II
+
+Andrew Shaw was 34 years old and was recently promoted as the Delivery Manager of a publishing
+company. He was excited and eager to do fulfill his responsibilities to the best of his capabilities. Andrew
+met David Turner the, following week to begin the transition process. David introduced Andrew to the
+staff of the Department that he would now be handling. After a while, David walked over to Kim
+Peterson’s desk to delegate an assignment regarding a supplier account investigation. Kim was an older
+employee, both in terms of experience and age — a 59 year old Assistant Manager. Nearing the end of her
+term, she was subtly dropped hints about retiring. The conversation went on as follows:
+
+David:
+
+By the way Kim, can you follow up on the Satin’s account problem we talked about earlier today? I just
+received information that —
+
+Kim:
+
+David, if I do that now, I won’t be able to take care of the MIS report you need from me do each week.
+Don’t you think you can take care of it yourself?
+
+David:
+
+Yes, I know you’re busy. I was just hoping that you could...
+
+Kim: Look David, I-can’t do both. You know I’m busy.
+
+David: Well, you know...OK, you may be right. Let me go ahead and do it.
+
+Kim: That’s better, I think. Don’t you?
+
+Andrew felt uncomfortable about the conversation that had just transpired between the two. He walked
+back David into his office, who looked very relieved to end that conversation. “She really runs this
+place,” David told Andrew “I hate to impose. She knows so much about all the operational and delivery
+matters of this center.” Andrew nodded and said, “She must be pretty important.” David did not reply to
+that comment...
+
+2 months later, he sat at his desk satisfied with the way his job was shaping up. There was a lot to learn,
+and he really liked the job- except for just one aspect. He looked through the glass partition of his cabin,
+where he could see Kim Peterson. He felt that she was too pushy and resistant to his new authority.
+
+Andrew sat back on his chair. He reflected how Kim had been cooperative and helpful during the first few
+weeks of his job. He had to learn to learn and she was the best person to help. In addition, there was a lot
+of other work pertaining to clients and suppliers, which required him to travel during his work hours, due
+to which he was not able to spend too much time with her.
+
+PAGE #3 OF &
+--- page 4 ---
+Whenever Andrew tried to learn from Kim, the conversation they had ultimately ended in him having to
+listen to a problem between her and Senior Delivery Associate, Emma Jacob. Both of who was the same
+age, Andrew suggested that Emma should take a more active role in working with other delivery
+associates. Kim did not like the idea at all, and felt threatened that Andrew was trying to move off
+responsibilities from her.
+
+Since then, she was at logger-heads with Emma over everything. When Andrew learnt about this, he
+called them into a meeting last week. He told them, “I’m really getting tired of all this quarrelling. I
+expect both of you to cooperate and function as a team. I’m the one running the show here. If this fighting
+doesn’t stop, I'll have to put you on probation. And if it doesn’t stop after that, | may just fire you.”
+
+Both of them left Andrew’s office quietly- shocked at what he had just said
+
+Since then, Kim would quietly do her work as usual- good as she was. But it seemed to Andrew that she
+was not motivated. She would complete only her tasks and not anything more. He had heard that Kim was
+complaining to the other associates about her job and about Andrew. He just brushed it off thinking that
+she was a very pessimistic person who was hardly willing to help...
+
+Andrew had some minor tasks pending before he left for the day. After attending to it, he shut down his
+computer system and walked out of his cabin. Most of the associates had left. The others were about to
+leave. Kim looked like she was going to stay on for longer. Just as Andrew was about to pass her, she
+brought out a small portable television, made herself comfortable at her desk and turned the television on.
+
+Andrew was dumbfounded. He thought to himself, “What in the world is she up to? If my boss comes
+right now, I’m in for big trouble.” He remembered the recent memo from headquarters, demanding more
+_ productivity in order to get the work done. When he approached her, Kim smiled and said, “Oh, it’s OK,
+Andrew. We do this often. David said I could watch it whenever I stay back and work late, as long as I
+wouldn’t let it interfere with the work.”
+
+Andrew felt that her behaviour and substantiation was more than he could approve of. He decided not to
+say anything to her and left office. He was beginning to feel certain that she was testing to see how far she
+could go by pushing him by challenging his authority.
+
+While Andrew drove home, he felt that Kim was pushing him beyond his limits. He decided to take
+serious action the very next day — whatever the consequences.
+
+PAGE #4 OF 4.
+````
+
+## 2017-18 · Final-Exam · Sem 10 · paper cf443587d6b4
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/LEADERSHIP/Leadership_2017-18_Final.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 04 May 2018
+- Text: ocr (3 pages), mean OCR confidence 95.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIN EERING
+
+Programme: MBA TECH (ALL STREAMS) Year: V Semester: X
+
+i Academic Year: 2017-2018
+
+Subject: Leadership
+
+Marks: 60
+Time: 10.00 a.m. to 12 noon
+Durations: 2 (hrs)
+
+No. of Pages : OS
+
+Date: 04 May 2018
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which.is provided for their use.
+
+1) Maximum Marks for each question given in right hand corner.
+
+2) Answer to each new question to be started ona fresh page.
+
+3) Assume suitable data if necessary.
+
+4) First 2 questions are compulsory; answer any 2 parts of Question 3.
+
+Qi. Choose any Great Leader from corporate or political field. Discuss their style of leadership and
+analyse their traits (with examples) that make them a great leader. (20 Marks)
+
+Q2. Review the Case Study below and answer the questions at the end of the case study: (20 Marks)
+
+Ms. Kajal is the Associate Director of a non-profit agency that provides assistance to children and families.
+She is the head of a department that focuses on evaluating the skill-building programs the agency provides
+to families. She reports directly to the agency leadership. As a whole, the agency has been cautious in
+hiring this year because of increased competition for federal grant funding. However, they have also
+suffered high staff turnover. Two directors have left, as well as three key research staff, and one staff
+person from the finance department.
+
+Kajal has a demanding schedule that requires frequent travel; however she supervises two managers, who
+
+in turn are responsible for five staff members each. Both managers have been appointed within the last
+six months.
+
+Manager 1: Ms. Amishi has a specific background in research. She manages staff who provide research
+support to another department that delivers behavioral health services to youth. Amishi supports her
+
+= staff and is very organized; however, she often takes a very black and white view of issues. Upper level
+leadership values Amishi’s latest research on the therapeutic division’s services. Amishi is very motivated,
+i driven, and expects the same from her staff.
+
+Manager 2: Ms. Aarti has a strong background in social science research and evaluation. She manages
+staff that work on different projects within the agency. She is known as problem solver and is extremely
+
+PAGE #10F3
+--- page 2 ---
+supportive of her staff. She is very organized and has a wealth of experience in evaluation of family
+services. Aarti is very capable and can sometimes take on too much.
+
+The managers are sensing that staff are becoming over-worked as everyone takes on increased
+responsibilities due to high staff turnover. Staff have also mentioned that Kajal’s “glass half-empty”
+conversation style leaves them feeling dejected. In addition, Kajal has not shared budgets with her
+managers, so they are having difficulty appropriately allocating work to staff. Kajal said she has not
+received sufficient information from the finance department to complete the budgets. The finance
+department said they have sent her all the information they have available.
+
+As staff becomes distressed, the managers are becoming frustrated. They feel like they are unable to
+advocate for their staff or problem solve without key information like the departmental budget.
+
+Q2 - Questions
+a. How can Kajal most effectively use leadership skills in her role as associate director? What do
+you think would works best in this setting?
+b. What steps could be taken to build staff confidence?
+c. What advice would you give Kajal on improving her leadership skills?
+d. Which leadership style do you think a leader would need to be effective in this situation?
+
+Q3 ~ Case Studies (answer any 2 parts out of 3)
+
+Read each case study and determine what action you think would be most appropriate for the leader to
+take in the situation. Write down your answer with assumptions and justification.
+
+Q3. Part 1 (10 Marks)
+
+You serve as the Project Director in your department and have been assigned responsibility to design and
+implement a new initiative. You have hired/recruited a Project Team that is eager to begin work with you
+in developing and implementing the new initiative. You have scheduled a series of planning meetings with
+your Team. At these first meetings of the Team, YOU WOULD:
+
+a) Make sure that you define the responsibilities of the team, present an overview of the design process
+you are going to use, direct the work of the team in developing the new project, and closely monitor
+progress in implementing the project.
+
+b) Direct the work of the team in designing and implementing the new project and encourage team
+members to work together by recommending ideas, making decisions on the final design and
+implementing the project.
+
+c) Facilitate the work of the team by encouraging cooperation and involvement of all team members as
+they design and implement the new project.
+
+d) Allow the team to design and implement the project on their own with your support and with the
+resources that you have given them.
+
+Q3. Part 2 (10 Marks)
+
+The Team that you coordinate as Project Director has been working well together over the past year to
+design and implement the organization’s plans and projects with your input and facilitation. As the new-
+
+PAGE #2 OF 3
+--- page 3 ---
+year begins a number of new projects are being introduced and several new members are being added to
+the team who do not have previous experience with your projects. YOU WOULD:
+
+a) Use several Team meetings to direct the work of the team in creating the new programs, while teaching
+the new members about the organization’s work and their new role. Then work to closely monitor the
+performance of the entire team as they introduce the new projects.
+
+b) Guide the entire team in creating the new projects, incorporate the ideas and suggestions of all team
+members, encourage effective teamwork, and take time to introduce the new team members.
+
+c) Welcome the new members to the team, put them with other members of the team who can help them
+learn how to design and implement the organization’s projects, while you facilitate team development
+and teamwork.
+
+d) Ask ifthere is anything you can do to help the new members and support their excitement about being
+new team members.
+
+Q3. Part 3. , (10 Marks)
+
+As Project Director you have worked closely with one of your teams for several years. Their work is
+excellent and the team gets along well together. Recognizing their abilities, you feel they can now work
+more on their own. You have begun this year to redirect your energies to other projects and teams, and
+they have continued to work effectively. You must now ask them to accept additional tasks and
+responsibilities. YOU WOULD:
+
+a) Assign them the new responsibility, make sure they know what to do, and supervise them closely.
+
+b) Give them the new responsibility. Tell them that you are pleased with their past performance and that
+you are sure they will do well with this new responsibility. Facilitate the team’s meetings.
+
+c) Make sure they know what you want them to do, but incorporate any helpful suggestions they have.
+d) Let them determine how to complete the new responsibility and be available to support them and
+provide the information and resources that will be needed.
+
+PAGE #3 OF 3
+````
+
+## 2016-17 · Final-Exam · Sem 10 · paper cfbaa874a38e
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/X SEMESTER/LEADERSHIP/Leadership 2016-17 Final.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 19 May 2017
+- Text: ocr (3 pages), mean OCR confidence 94.4
+
+````text
+/ %
+ia PSTME JS
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA TECH (All STREAMS) Year: V Semester: X \
+
+Academic Year: 2016-17
+Subject: Leadership <
+Marks: 60
+
+Time: 10.00 am to 12.00 noon
+Durations: 2 (Hrs)
+No. of pages: 2
+
+Date: 19 May 2017
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1__ is compulsory. (optional- as per the requirement in the question paper)
+
+2) Out of remaining questions, attempt any _4 __ questions. (optional- as per the requirement in the
+question paper)
+
+3) Inall_5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+1 Colonel Sanjay purohit was assigned to command an Air force squadron that airlifted
+supplies to combat units during the kargil war. The squadron had more than 200 men
+and several cargo planes. When he assumed command, the situation was bleak. They
+were short of supplies, personnel and replacements. Organization and co-ordination
+was poor, and there was little and co-operation and teamwork among different
+sections. Morale was low due to unrelenting workload, the constant bickering and
+disagreements, and the stress of flying into combat zones.
+
+Col. Purohit held a meeting of the squadron to introduce himself and talk about how
+important the mission was to the success of the war effort. He talked about how the
+Men in the front line were counting on the squadron to bring them the supplies and
+ammunition they needed to keep the enemy from overrunning the country. He
+reminded them that every man had a vital function in the operation of the squadron.
+
+‘G
+--- page 2 ---
+Then Col. Purohit set out to learn more about the men in his unit, beginning with the
+
+officers. He held frequent staff meetings with the section heads and some key non-
+commissioned officers (NCOs) to discuss the methods used to carry out the mission of
+
+the squadron. He visited the enlisted men at work and off duty, talking to them and
+
+showing a personal interest in them. He listened to their complaints, and whenever
+
+possible tried to deal with their concerns about poor living conditions at the base. He \
+flew along with the airplane crews on some of the supply missions. On one occasion,
+
+when supplies were desperately needed at the frontlines and squadron was
+shorthanded, he pitched in and worked beside the men all during the night to load the
+
+planes.
+
+It was long before col. Purohit had learned each person’s name, what his job was, and
+something about his background. As he found out more about the capabilities of the
+men, he reorganized the squadron to place people where the best use could be made of
+their skills and experience. In staff meetings, disagreements were discussed and
+worked out, and responsibilities were assigned when all concerned were present.
+Authority was clearly delegated to reduce confusion and duplication of orders. The
+NCOs were held responsible for the action of their men and, within limits, their
+decisions were enforced without question.
+
+Within two months, the effects of the changes were evident. The officers and enlisted
+men learned what was expected of them and began to see themselves as an essential
+part of a well run organization. They began to take pride in their ability to accomplish
+their mission despite the hardships. Morale and teamwork improved. Before long the
+squadron became one of the most efficient in the country.
+
+Answer the following questions: 12 Marks
+
+1. What effective leadership behaviors did Colonel Purohit exhibit?
+
+2. What does this case illustrate about effective leadership?
+
+Put forth a trait model, which shows the interplay of the environmental and 12 Marks
+personality characteristics, which can facilitate the emergence of leadership.
+
+Explain the three phases of Leader-Member Exchange theory. 12 Marks
+--- page 3 ---
+Grandiosity associated with leadership has been questioned. Explain the recent
+challenges for leadership through followership perspective.
+
+12 marks
+Explain in details, “social construction of leadership”.
+
+12 marks
+“Through transformational leadership, the leader and follower both get elevated”.
+Explain this statement.
+
+pen men 12 marks
+
+Explain this statement through the perspective of romance of leadership,
+“organizational actors and observers reveal a potential “bias” or false “assumption-
+making” regarding the relative importance of leadership factors to the functioning of
+groups and organizations” : 12 marks
+
+3/5
+````

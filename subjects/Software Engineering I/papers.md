@@ -1,0 +1,609 @@
+# Software Engineering I: question papers in full
+
+6 unique papers · 2005-06 to 2008-09 · Electronics and Telecommunication, Information Technology
+
+Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2008-09 · Exam not stated · Trim 5 · paper d8bd1b46f186
+
+- Departments: Electronics and Telecommunication, Information Technology
+- Programmes: MBA TECH / I T, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM V/SOFTWARE ENGINEERING I/2008-2009 I(2).pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 16-01-09
+- Text: ocr (2 pages), mean OCR confidence 92.8
+
+````text
+SVKM’s NMIMS UNIVERSITY
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME
+ENGINEERING 3 xMe UnversiY Yeo
+
+=<
+Mumbai - 56. )z
+=
+a
+=
+
+MBA. Tech (IT/Computer/Telecom)- ITYear
+Trimester V ,2008- 09
+
+Subject: Software Engineering- I Marks: 100
+Date: 16-01-09 Time Allowed: 3 hrs
+2-00 -5 2O ps
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for the use.
+
+NB:
+1. Out of 7 questions, attempt any 5 questions.
+2. Inall 5 questions to be attempted.
+3. All questions carry equal marks.
+4. Answer to each new question should be started on a fresh page.
+5. Figure in brackets indicate full marks.
+
+Q.1 a) Explain the COCOMO Model for software effort estimation in 10
+detail.
+
+b) Explain in detail the spiral model with advantages and 10
+disadvantages.
+
+Q.2. a) What is a process model? Explain Unified process model in detail. 10
+
+b) Give a Software Requirement Specification (SRS) for developing 10
+software for Hospital management System.
+
+Q.3 a) Why Use Case Diagram(UCD) is required? Explain general UCD 10
+for hotel management.
+
+b) Explain the different Notations of DFD. Construct level 0 and 10
+level 1 DFD for College Admission software.
+
+Q.4 a) Why CRC Model is required? How do we construct CRC Model? 10
+Explain with suitable example
+
+b) Discuss any five fundamental software design concepts . 10
+
+PTC
+
+Page 1 of 2
+--- page 2 ---
+Q5
+
+Q6
+
+Q.7
+
+Q
+
+a) Explain the pattern-based software design approach.
+
+b) Explain partitioning the architecture? What are the advantages of
+Partitioning the Architecture?
+
+a) What is Software Architecture? Give details of how requirements
+are mapped into software architecture when ‘Transform Flow’ is
+present.
+
+b) Explain three golden rules of interface design. Elaborate using
+user interface diagrams for suitable project.
+
+Write short notes on the following:-
+
+a) User interface design process
+
+b) Unit and Integration testing
+
+c) Aspect-oriented software development
+d) Object-oriented testing
+
+10
+
+10
+
+10
+
+10
+
+20
+
+Page 2 of 2
+
+we
+````
+
+## 2008-09 · Exam not stated · Trim 5 · paper 1c821b835261
+
+- Departments: Electronics and Telecommunication, Information Technology
+- Programmes: MBA TECH / I T, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM V/SOFTWARE ENGINEERING I/2008-2009(62).pdf` (+2 identical copies)
+- Text: ocr (2 pages), mean OCR confidence 90.8
+
+````text
+——
+
+SS
+ie
+
++ gsitTUTE 0 OF a aN
+
+MPSTME ‘
+
+SRY 2
+Ces
+SVKM’S NMIMS * y,
+MUKESH PATEL SCHOOL.OF TECHNOLOGY MANAGEMENT
+ENGINEERING
+MBA TECH- IT/COMP/TELE Ifnd YEAR
+TRIMESTER V, 2008-09 __
+Frnot ptm rebinn
+Subject: Software Engineering-I Max. Marks ; 100
+Date : {4 / j | lo Time Allowed: 3 _
+Q2:00 f~ bo &: 1 fw
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+NB.
+
+1. Attempt any FIVE questions.
+
+2. All questions carry equal marks.
+
+3. Answer to each new question to be started on a fresh page.
+
+4. Figure in brackets indicate full marks.
+
+Qi. (a) Explain Layered approach of software development. (10)
+(b) Compare and contrast spiral model with prototype model with suitable design
+scenario. (10)
+
+Q2. (a) Explain Requirement engineering task. Differentiate functional and
+
+nonfunctional requirements . (10)
+(b) Why the customer interaction is a difficult process? Explain one formal
+procedure used for customer interaction. (10)
+
+Q3 An independent trucking company wants to track and record its drivers
+driving habits. For this purpose, the company has rented a phone number and has
+printed the number on the front, back and sides of all trucks owned by the
+company. Next to the number, the following message is written: "Please report any
+problem with truck or driver by calling this number". The trucking company wants
+you to develop a system that Collects information from callers about driver
+performance and behavior as well as truck conditions. Generates daily and
+monthly reports about each driver. Reports problem that requires immediate
+action, to an on duty manager.
+
+(i) Develop a SRS (System Requirement Specs). ~ (5)
+(ii) Design DFDs up to 3rd level. (10)
+(iii) Identify the S/W modules and their functions. (3)
+
+(iv) Suggest a testing strategy for any one of the S/W modules proposed above. (2)
+
+Q4. (a) What are the different types of architectural styles exist for software and
+
+Explain any one software architecture in detail. (10)
+(b) Write a note on regression testing. (10)
+
+——
+
+— |
+
+(70
+
+)
+--- page 2 ---
+—2-
+
+Q5. (a) Explain Debugging process and different debugging strategies? (10)
+
+(b) Explain COCOMO II (10)
+Q6 (a) Why unit testing is so important? Explain the concept of unit testing in
+detail. (10)
+(b) Explain the different integration testing approaches. (10)
+Q7. Write detail note of the following (any two) :- (20)
+(a) UI Design
+(b) Alpha and Beta Tests
+
+(c) Class Responsibility Collaborator (CRC) Modeling
+
+Oe ye 2
+````
+
+## 2007-08 · Exam not stated · Trim 5 · paper 5aabaf952960
+
+- Departments: Information Technology
+- Programmes: MBA TECH / I T
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM V/SOFTWARE ENGINEERING I/2007-2008(51).pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 93.6
+
+````text
+SVK ves
+NMI
+Men
+
+L BaaRy
+
+SVKM’s NMIMS UNIVERSITY .
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEME ‘
+ENGINEERING (MPSTME) eee
+
+MBA (TECH) - II Year (1.T.) ; Trimester VI ; 2007-‘08
+
+SUBJECT : SOFTWARE ENGINEERING - Il _
+MARKS : 100, 2:€0-S°6C pw -
+Dame: Qa-0 -08 - TIME :3 Hrs
+
+Instructions : Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+NB(2):
+1. Question No. 1 is compulsory
+2. Out of the remaining 6 questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+4. All questions carry equal marks. (if applicable)
+5. Answer to each new question to be started on a fresh page.
+6. Figure in brackets indicate full marks.
+7. Make suitable assumptions if necessary.
+
+Q1. Read the below case study and answer the questions mentioned below :
+Payroll System
+
+As the head of Information Technology at ABC, Inc., you are tasked with building a new
+payroll system to replace the existing system. ABC needs a new system to allow
+employees to record time card information electronically and automatically generate
+paychecks based on the number of hours worked and total amount of sales (for
+commissioned employees).
+
+ABC currently has around 5,000 employees world-wide. Some employees work by the
+hour and they are paid an hourly rate. They submit timecards that record the date and
+number of hours worked. If someone works for more than 8 hours, ABC pays them 1.5
+times their normal rate for those extra hours.
+
+Some employees are paid a flat salary. Even though they are paid a flat salary, they
+submit timecards that record the date and hours worked so that the system can keep track
+of the hours worked.
+
+Some of the salaried employees also receive a commission based on their sales. They
+
+submit purchase orders that reflect the date and amount of the sale. The commission rate
+is determined for each employee, and is one of 10%, 15%, 25%, or 35%.
+
+PTO
+--- page 2 ---
+Q -—_—
+
+One of the most requested features of the new system is employee reporting. Employees
+will be able to query the system for number of hours worked, pay received for a
+particular period and also total pay received year-to-date.
+
+Employees can choose their method of payment. They can have their paychecks mailed
+to the postal address of their choice, or they can request direct deposit and have their
+paycheck deposited into a bank account of their choosing. The employee may also choose
+to pick their paychecks up at the office.
+
+The Payroll Administrator maintains employee information. The Payroll Administrator
+is responsible for adding new employees, deleting employees and changing all employee
+information such as name, address, and payment classification (hourly, salaried), as well
+as running administrative reports.
+
+Hourly workers are paid every Friday. Employees with flat salaries are paid on the last
+working day of the month. The payroll application will run automatically every Friday
+and on the last working day of the month. It will pay the appropriate employees on those
+days.
+
+The system should prevent employees from changing any timecards other than their own.
+Additionally, for security reasons, only the Payroll Administrator is allowed to change
+any employee information with the exception of the payment delivery method. The
+system shall provide a Windows-based desktop interface to allow employees. The system
+shall interface with existing bank systems via an electronic transaction interface.
+Questions :
+
+1(A) Identify the classes and relationships with other classes. Draw a Class Diagram and
+Instance Diagram for the same. [ 10 Marks ]
+
+1(B) Draw an Sequence Diagram for the Use Case : “Generate salary statement for
+salaried employee” [ 10 Marks ]
+
+2. Compare and contrast between Jackson’s Structured Development Approach wrt
+Object Modeling Approach as Software Engineering Methodologies. [20 Marks ]
+3(A) Draw a Deployment Diagram for the above mentioned Payroll System.[ 10 Marks ]
+3(B) Write short notes on Component Diagrams giving suitable examples. [ 10 Marks ]
+4(A) Draw an Activity Diagram for the Use Case : “Generate salary statement for
+salaried sales employee” for the above mentioned ‘Payroll System’. [10 Marks |
+
+4(B) Write short notes on State Chart Diagrams giving suitable examples. [ 10 Marks |
+
+PTO
+--- page 3 ---
+5 (A) Write short notes on Dynamic Model used to describe the system.
+
+5 (B) Write short notes on design principles used in Object-Oriented design. [ 10 Marks ]
+
+6.(A) Draw 2 Top level use cases, one for actor ‘Payroll Administrator’ and other for
+actor ‘Employee’ for the above mentioned ‘Payroll System’. [ 10 Marks ]
+
+6 (B) Write short notes on Use Case Relationships giving suitable examples{ 10 Marks |
+
+7. Read the below ‘Power Generation System’ case and answer the questions mentioned
+below :
+
+Power is developed in an engine by the combustion of a mixture of air and gasoline
+against a piston. The piston is attached to a crankshaft via a connecting rod, and it moves
+up and down inside a cylinder as the crankshaft rotates. This movement heats the mixture
+of air and gasoline and the expanding gases generate power once a spark is generated.
+
+The electrical energy for the spark is provided by a magnet, coil and condenser. The coil
+has a low-voltage primary circuit and a high-voltage secondary circuit is connected to the
+spark plug. The magnet rotates past the coil and induces primary circuit. The condenser -
+interrupts the current in the primary circuit, inducing a high-voltage pulse in the
+secondary circuit.
+
+7(A) Identify and draw the Class Diagram and Instance Diagram with relationships for
+the above case. [ 10 Marks ]
+
+7(B) Identify and draw the Class Diagrams with individual attributes and properties for
+the above case. [ 10 Marks ]
+
+ne
+
+__
+````
+
+## 2007-08 · Exam not stated · Trim 5 · paper d4e56bcc5a2a
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM V/SOFTWARE ENGINEERING I/2007-2008(78).pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 92.5
+
+````text
+SVKM’S NMIMS UNIVERSITY
+(MUKESH PATEL SCHOOL OF TECHNOLOGY MA?
+ENGINEERING- MPSTME)
+MBA(TECH) II Year
+Trimester V -2007-08
+
+Subject: SOFTWARE ENGINEERING-1 ( iT + Tele cm )
+
+Dae: 03 -C1-08.
+MARKS: 100
+3Hrs 4 eof opr
+
+Instructions:
+
+NB:
+
+1. Question number | is compulsory and carries 20 marks.
+
+2. Attempt any four from remaining questions.
+
+3. In all 5 question to be attempted
+
+4. All question carry marks as indicated
+
+5. Answer to each new question to be started on a fresh page
+
+6. Make necessary assumptions.
+
+QI. Write short Notes (20)
+1. Incremental model
+2. Black Box Testing
+3. Coupling
+4. Class Diagrams
+
+Q2.a) A system under development undergoes various steps. Suppose you are developing
+a website for a company then what model will follow to develop this website.
+Discuss briefly the manner in which requirement engineering will be carried out.
+
+(10)
+
+b) 1) How do we assess the quality of a software. (05)
+
+ii) Explain Prototyping Model (05)
+Q3.a) what is Spiral Model? As you move outward along the spiral process flow, what
+
+Can you say about the software that is being developed? (10)
+
+b) 1) Draw a swimlane diagram for buying online hook function (06)
+
+il) Sofiware Engineering is a layered Technology. Discuss briefly (04)
+
+. Q4. You have been asked to build any Two of the following system
+
+e Network based course registration
+e Library management System
+e ATM for Blind
+
+PTO
+--- page 2 ---
+a2—
+
+e Railway Reservation System
+¢ Online CD Shopping
+
+Draw the use case diagram , activity Diagram ,Class diagram and sequence
+diagram for the two system you choose to develop.
+
+(20)
+
+Q5. a) Briefly discuss each of the elements of an analysis model, indicate what each
+contributes to the model, how each is unique and what general information is
+
+presented by each. (12)
+b) Give a description of any two of the following models in detail (08)
+1. RAD Model
+
+2. Spiral Model
+3. Unified Process Model
+
+Q6. a) Explain Cyclomatic Complexity with a suitable example. (08)
+
+b) List the Characteristic of testable software (04)
+
+c) Differentiate between Verification and Validation (04)
+
+d) list the properties of a software. (04)
+Q7.a) What is meant by System Testing? What are the various types of System
+
+testing. (10)
+
+b) Explain waterfall model. Give three examples for software under development
+where waterfall model is ideal (10)
+
+A —   ¥
+````
+
+## 2006-07 · Exam not stated · Trim 5 · paper ee71eb80a7bf
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM V/SOFTWARE ENGINEERING I/2006-2007(54).pdf`
+- Text: ocr (2 pages), mean OCR confidence 82.4
+
+````text
+NARSEE MONJEE INSTITUTE OF MANAGEMENT.& HIGHER STUDIES
+~~ 2, DEEMED UNIVERSITY. _
+
+ecte - QF) Ja loo LT T/ielecom
+
+SUBJECT: SOFTWARE ENGINEERING 33
+
+COURSE: M.B.A (Tech) Und Year MAX MARKS: "reo.
+TRIMESTER V 4 n % ig
+ACADEMIC YEAR: 2096-07 DURATION: 3 a % JR
+
+“THMAL- Bcd Oo LWP.
+Note: Answer five emestion in which Question No 1 is compulsory. At tempt any four ~~
+from the remaining questions. All question carry same marks.
+
+QI. Explain the following terms
+e Modularity
+e Ajpha Test
+e Requirements elicitation
+e Procedural Abstraction
+e Software characteristics
+
+Q2 a) What is the essence of Requirement engineering? A system under
+
+development goes through various requirement engineering steps. Explain
+in detail
+
+b) Explain the following model. Give Advantages and disadvantages
+e Incremental model
+® Spiral Model
+
+Q3 What are use case diagram? What is the purpose of using these’? Draw the Activity
+diagram for the following
+
+e Online air ticket Purchase
+
+* Calculator for blind
+
+e Electronically secured door
+
+e Automatic washing Machine
+List the assumptions made for the activity diagrams. The diagrams should cover all
+the aspect of the system and mention all the various functioning.
+
+Q4 a) Draw a context level and level one DFD for railway reservation system. Write the
+context level narrative for the same.
+
+b) What is a class diagram? What
+
+© Objects? What do mean by object
+behavior. Draw a class diagram for a leave inanagemient system. Give the
+attribute names and methods at every class level.
+
+Qa ajt ¥ Sot re inde
+
+¢ testing. In case of a conventional software development
+iss three strategies
+
+for integration testing
+--- page 2 ---
+O7<
+
+”
+
+b) Explain white Box testing. “What are flow graph notations? Expiain the concept of
+cyclomatic complexity.
+
+r
+
+> various types ol
+
+velopment should possess:
+
+design qualities a system under
+
+Ex ‘plain ¢ RC M: adeling
+
+Consider a library management system. Develop this system using waterfall model
+Explain the various’ phas ystem development. Draw the use case diagram as
+
+of s
+well Also mention the minimum requirements needed for the system development.
+Draw at least four screen layouts to show the working of your system.
+
+— xX —
+````
+
+## 2005-06 · Exam not stated · Trim 5 · paper 808810861258
+
+- Departments: Electronics and Telecommunication, Information Technology
+- Programmes: MBA TECH / I T, MBA TECH / TELECOM EXTC
+- Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM V/SOFTWARE ENGINEERING I/2005-2006(31).pdf` (+1 identical copies)
+- Printed on paper: duration hours: 3; exam date: 19/01/2006
+- Text: ocr (1 page), mean OCR confidence 88.7
+
+````text
+NARSEE MONJEE INSTITUTE OF MANAG
+
+STUDIES
+(DEEMED UNIVERSITY)
+COURSE : MBATECH 7] y@Oxr TRIMESTER: wy. COS~ ve)
+
+SUBJECT : SOFWARE ENGINEERING
+DATE : 19/01/2006 Ix Am “ papers 100
+TIME : 3 HOURS NBL & b
+Cacopm-Go0pn) LINRE —T Tora1 MAAR
+
+Question 1 is compulsory. Solve any two from Q. 2, Q.3 and Q.4 AND any two
+from Q.5, Q.6 and Q.7
+Draw suitable diagrams where ever necessary.
+
+Assume suitable data where ever necessary. >
+Total number Of Conechons are SEN en
+
+Note :
+
+Qi ;
+a) Discuss fundamental software design concepts. 10 marks
+» Explain COCOMO for estimation of cost and efforts. 10 marks
+Q.2
+a) Give details of how requirements are mapped into sathawe architecture
+when ‘Transaction flow’ is present and when “Transform flow’ is
+present. 10 marks
+b) Give a taxonomy of architectural styles and discuss any two of them in
+details. 10 marks
+Q.3 ;
+a) Discuss in detail the ‘golden rules’ suggested by Mandel for user
+interface design. 12 marks
+~ b) What are the interface design issues? Explain each of them. 08 marks
+Q.4
+a) Discuss the strategic approach to software testing. 10 marks
+b) Discuss the test strategies for conventional software. 10marks
+Q5
+a) Explain necessity of risk management. What are different categories of
+risks? What do you mean by RMMM plan? 12 marks
+b) Explain melding of process, product and technology in software
+engineering process. 08 marks
+Q6
+
+a) Explain the change control and version control. What do you mean by
+baseline? What is procedure to prepare baseline. 12 marks
+b) Explain the benefits of spiral model over waterfall model. 08 marks
+
+Q.7 Consider the railway reservation system going online. Prepare a project
+proposal for a project containing problem definition, SRS, SDS and
+Project plan for implementation of project. 20 marks
+````

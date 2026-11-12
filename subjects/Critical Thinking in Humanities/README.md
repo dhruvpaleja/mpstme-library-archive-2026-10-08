@@ -10,6 +10,8 @@ python organize_by_subject.py restore --destination D:/Study --subject "Critical
 
 Files land in `D:/Study/PYQs_By_Subject/Critical Thinking in Humanities/<academic year>/`. Identical copies of one paper (the portal often files the same PDF under several programmes) are placed once.
 
+Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (every paper in full, newest first), [`questions.jsonl`](questions.jsonl) (one record per question with marks, year, exam, semester and department) and [`papers.jsonl`](papers.jsonl) (one record per paper). Answer keys, where the portal published them, are in `answer_keys.md`. See [`question_bank/README.md`](../../question_bank/README.md) for the fields.
+
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSE DS 7011 | ANS_Critical Thinking in Humanities(702BS0C020)_2024-2025.pdf |

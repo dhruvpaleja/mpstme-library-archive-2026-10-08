@@ -10,6 +10,8 @@ python organize_by_subject.py restore --destination D:/Study --subject "Financia
 
 Files land in `D:/Study/PYQs_By_Subject/Financial Institutions, Markets, Instruments and Services/<academic year>/`. Identical copies of one paper (the portal often files the same PDF under several programmes) are placed once.
 
+Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (every paper in full, newest first), [`questions.jsonl`](questions.jsonl) (one record per question with marks, year, exam, semester and department) and [`papers.jsonl`](papers.jsonl) (one record per paper). Answer keys, where the portal published them, are in `answer_keys.md`. See [`question_bank/README.md`](../../question_bank/README.md) for the fields.
+
 Also filed as: `FINANCIAL INSTITUTION MARKETS INSTRUMEN`, `Financial Institutions ,Markets ,Instru`, `Financial Institutions ,markets, Instru`, `FINANCIAL INSTITUTIONS MARKET INSTRUMEN`, `FINANCIAL INSTITUTIONS MARKETS INSTRUME`, `FINANCIAL INSTITUTIONS,MARKETS INSTRUME`, `FINANCIAL INSTITUTIONS,MARKETS,INSTRUME`, `Financial Institutions,Markets,Instrume`
 
 | Year | Exam | Type | Sem | Programmes | File |

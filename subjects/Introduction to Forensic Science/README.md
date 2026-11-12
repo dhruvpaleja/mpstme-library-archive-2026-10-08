@@ -10,6 +10,8 @@ python organize_by_subject.py restore --destination D:/Study --subject "Introduc
 
 Files land in `D:/Study/PYQs_By_Subject/Introduction to Forensic Science/<academic year>/`. Identical copies of one paper (the portal often files the same PDF under several programmes) are placed once.
 
+Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (every paper in full, newest first), [`questions.jsonl`](questions.jsonl) (one record per question with marks, year, exam, semester and department) and [`papers.jsonl`](papers.jsonl) (one record per paper). Answer keys, where the portal published them, are in `answer_keys.md`. See [`question_bank/README.md`](../../question_bank/README.md) for the fields.
+
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final-Exam | Answer key | Sem 5, Sem 9 | BTech AI 7012, BTech Computer 7002, BTech CyberSecurity 7010, BTech DS 7009, BTech EXTC 7006, BTech IT 7001, BTech Mechanical 7003, BTech Mechatronics 7004, Integrated Computer 7032, Integrated DS 7038, Integrated IT 7037, Integrated Mechanical 7031, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052, MBATech IT 7041 | ANS_Introduction to Forensic Science(702BS0I021)_2025-2026.pdf |
