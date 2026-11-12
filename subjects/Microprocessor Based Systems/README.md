@@ -1,0 +1,38 @@
+# Microprocessor Based Systems
+
+**22** unique papers (24 copies across programmes) · 2013-14 to 2019-20 · 3 programmes · Sem 5, Sem 7
+
+Download only this subject, sorted by academic year:
+
+```powershell
+python organize_by_subject.py restore --destination D:/Study --subject "Microprocessor Based Systems"
+```
+
+Files land in `D:/Study/PYQs_By_Subject/Microprocessor Based Systems/<academic year>/`. Identical copies of one paper (the portal often files the same PDF under several programmes) are placed once.
+
+| Year | Exam | Type | Sem | Programmes | File |
+| --- | --- | --- | --- | --- | --- |
+| 2019-20 | Final + Re-Exam | Question paper | Sem 5 | B TECH / EXTC, MBA TECH / EXTC | Microprcessor Based systems ,Final 2019-20,Re-exam 18-19.pdf |
+| 2019-20 | Final-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / EXTC | Microprocessor Based Systems 2019-20 Final.pdf |
+| 2018-19 | Final-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / EXTC | Microprocessor Based Systems 2018-19 Final.pdf |
+| 2018-19 | Re-Exam | Question paper | Sem 5 | B TECH / EXTC | MICROPROCESSOR BASED SYSTEMS BATCH 2017-18 18-19 RE EXAM.pdf |
+| 2018-19 | Re-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / EXTC | Microprocessor Based Systems Batch 2018-19 Re Exam.pdf |
+| 2018-19 | Re-Exam | Question paper | Sem 5 | MBA TECH / EXTC | Microprocessor Based Systems 2018-19 Re-exam 2017-18.pdf |
+| 2017-18 | — | Question paper | Sem 5 | MBA TECH / EXTC | Microprocessor based systems 2017-18.pdf |
+| 2017-18 | Final-Exam | Question paper | Sem 5 | B TECH / EXTC | MICROPROCESSOR BASED SYSTEMS (EXTC), FINAL EXAM 2017-18.pdf |
+| 2017-18 | Final-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / EXTC | Microprocessor Based Systems 2017-18 Final.pdf |
+| 2017-18 | Re-Exam | Question paper | Sem 5 | B TECH / EXTC | MICROPROCESSOR BASED SYSTEMS BATCH 17-18 RE EXAM 2017-18.pdf |
+| 2016-17 | Final-Exam | Question paper | Sem 5 | B TECH / EXTC | MICROPROCESSOR BASED SYSTEMS B TECH (EXTC), 2016-17 FINAL EXAM.pdf |
+| 2016-17 | Re-Exam | Question paper | Sem 5 | B TECH / EXTC | MICROPROCESSOR BASED SYSTEMS BATCH 14-15, 15-16, 16-17 RE EXAM (1).pdf |
+| 2016-17 | Re-Exam | Question paper | Sem 5 | B TECH / EXTC | MICROPROCESSOR BASED SYSTEMS BATCH 16-17 RE EXAM.pdf |
+| 2015-16 | Final-Exam | Question paper | Sem 5 | B TECH / EXTC | MICROPROCESSOR BASED SYSTEMS B TECH (EXTC), YEAR 15-16 FINAL EXAM.pdf |
+| 2015-16 | Re-Exam | Question paper | Sem 5 | B TECH / EXTC | MICROPROCESSOR BASED SYSTEMS BATCH 2014-15 15-16 RE EXAM.pdf |
+| 2014-15 | Final-Exam | Question paper | Sem 5 | B TECH / EXTC | MICROPROCESSOR BASED SYSTEMS B TECH (EXTC) 2014-15 FINAL EXAM.pdf |
+| 2014-15 | Re-Exam | Question paper | Sem 5 | B TECH / EXTC | MICROPROCESSOR BASED STSTEMS B TECH (EXTC), BATCH 2014-15 RE EXAM.pdf |
+| 2014-15 | Re-Exam | Question paper | Sem 5 | B TECH / EXTC | MICROPROCESSOR BASED SYSTEMS B TECH (EXTC), BATCH 2014-15 RE EXAM.pdf |
+| 2013-14 | Final-Exam | Question paper | Sem 5 | B TECH / EXTC | MICROPROCESSOR BASED SYSTEMS B TECH EXTC 2013-14 FINAL EXAM.pdf |
+| 2013-14 | Re-Exam | Question paper | Sem 5 | B TECH / EXTC | MICROPROCESSOR BASED SYSTEMS B TECH (EXTC) BATCH 2013-14 RE EXAM.pdf |
+| 2013-14 | Re-Exam | Question paper | Sem 5 | B TECH / EXTC | MICROPROCESSOR BASED SYSTEMS B TECH (EXTC), BATCH 2013-14 RE EXAM.pdf |
+| 2013-14 | Re-Exam | Question paper | Sem 5 | B TECH / EXTC | MICROPROCESSOR_BASED_SYSTEMS_B TECH (EXTC), BATCH_2013-14_RE_EXAM.pdf |
+
+Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

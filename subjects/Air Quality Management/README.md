@@ -1,0 +1,18 @@
+# Air Quality Management
+
+**2** unique papers (2 copies across programmes) · 2019-20 · 2 programmes · Sem 7, Sem 9
+
+Download only this subject, sorted by academic year:
+
+```powershell
+python organize_by_subject.py restore --destination D:/Study --subject "Air Quality Management"
+```
+
+Files land in `D:/Study/PYQs_By_Subject/Air Quality Management/<academic year>/`. Identical copies of one paper (the portal often files the same PDF under several programmes) are placed once.
+
+| Year | Exam | Type | Sem | Programmes | File |
+| --- | --- | --- | --- | --- | --- |
+| 2019-20 | Final-Exam | Question paper | Sem 7 | B TECH / CIVIL | AIR_QUALITY_MANAGEMENT_B TECH (CIVIL), 2019-20_ FINAL_EXAM_.pdf |
+| 2019-20 | Final-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / CIVIL | Air Quality Management 2019-20 Final.pdf |
+
+Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

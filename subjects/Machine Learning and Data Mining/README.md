@@ -1,0 +1,22 @@
+# Machine Learning and Data Mining
+
+**6** unique papers (6 copies across programmes) · 2015-16 to 2023-24 · 1 programme
+
+Download only this subject, sorted by academic year:
+
+```powershell
+python organize_by_subject.py restore --destination D:/Study --subject "Machine Learning and Data Mining"
+```
+
+Files land in `D:/Study/PYQs_By_Subject/Machine Learning and Data Mining/<academic year>/`. Identical copies of one paper (the portal often files the same PDF under several programmes) are placed once.
+
+| Year | Exam | Type | Sem | Programmes | File |
+| --- | --- | --- | --- | --- | --- |
+| 2023-24 | Final-Exam | Question paper |  | M TECH / DATA SCIENCE | Machine Learning and Data Mining Batch-2023-24 Final.pdf |
+| 2023-24 | Re-Exam | Question paper |  | M TECH / DATA SCIENCE | Machine Learning and Data Mining Batch 2023-24 Re Exam0001.pdf |
+| 2022-23 | Final-Exam | Question paper |  | M TECH / DATA SCIENCE | Machine Learning and Data Mining 2022-23 Final0001.pdf |
+| 2021-22 | Final-Exam | Question paper |  | M TECH / DATA SCIENCE | Machine Learning and Data Mining 2021-22 Final0001.pdf |
+| 2018-19 | Final-Exam | Question paper |  | M TECH / DATA SCIENCE | Machine Learning and Data Mining 2018-19 Final.pdf |
+| 2015-16 | Final-Exam | Question paper |  | M TECH / DATA SCIENCE | Machine Learning and Data Mining 2015-16 Final.pdf |
+
+Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

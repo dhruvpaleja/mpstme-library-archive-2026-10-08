@@ -1,0 +1,35 @@
+# Business Statistics
+
+**19** unique papers (25 copies across programmes) · 2018-19 to 2025-26 · 6 programmes · Sem 6, Sem 7
+
+Download only this subject, sorted by academic year:
+
+```powershell
+python organize_by_subject.py restore --destination D:/Study --subject "Business Statistics"
+```
+
+Files land in `D:/Study/PYQs_By_Subject/Business Statistics/<academic year>/`. Identical copies of one paper (the portal often files the same PDF under several programmes) are placed once.
+
+| Year | Exam | Type | Sem | Programmes | File |
+| --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Business Statistics(703TM0C001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052, MBATech IT 7041 | ANS_Business Statistics(703TM0C001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Business Statistics(703TM0C001)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 7 | MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052, MBATech IT 7041 | QP_Business Statistics(703TM0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Business Statistics(703TM0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech Computer 7047 | ANS_Business Statistics(703TM0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech DS 7052 | ANS_Business Statistics(703TM0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Business Statistics(703TM0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 7 | MBATech Computer 7047 | QP_Business Statistics(703TM0C001)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 7 | MBATech DS 7052 | QP_Business Statistics(703TM0C001)_2025-2026.pdf |
+| 2024-25 | — | Question paper |  | MBA TECH | Business Statistics, 2024-25.pdf |
+| 2024-25 | Re-Exam | Question paper |  | MBA TECH | Business Statistics , Re-exam 2022-23,2023-24,2024-25.pdf |
+| 2023-24 | Final + Re-Exam | Question paper |  | MBA TECH | Business Statistics , Final 2023-24,Re-exam 2022-23.pdf |
+| 2022-23 | Final-Exam | Question paper |  | MBA TECH | Business Statistics,Final,2022-23.pdf |
+| 2022-23 | Re-Exam | Question paper |  | MBA TECH | Business Statistics , Re-exam 2022-23.pdf |
+| 2022-23 | Re-Exam | Question paper |  | MBA TECH | Business Statistics ,Re-exam 2022-23.pdf |
+| 2018-19 | Final-Exam | Question paper | Sem 6 | MBA TECH | Business statistics Final exam 2018-19.pdf |
+| 2018-19 | Re-Exam | Question paper | Sem 6 | MBA TECH | Business statistics .....Re-exam 2018-19.pdf |
+| — | — | Question paper |  | MBA TECH | Business Statistics.pdf |
+
+Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

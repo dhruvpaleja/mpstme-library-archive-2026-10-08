@@ -1,0 +1,25 @@
+# Data Communication and Computer Networks
+
+**7** unique papers (7 copies across programmes) · 2025-26 · 4 programmes · Sem 4
+
+Download only this subject, sorted by academic year:
+
+```powershell
+python organize_by_subject.py restore --destination D:/Study --subject "Data Communication and Computer Networks"
+```
+
+Files land in `D:/Study/PYQs_By_Subject/Data Communication and Computer Networks/<academic year>/`. Identical copies of one paper (the portal often files the same PDF under several programmes) are placed once.
+
+Also filed as: `Data Communication and Computer Network`
+
+| Year | Exam | Type | Sem | Programmes | File |
+| --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Data Communication and Computer Networks(701EX0C007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | ANS_Data Communication and Computer Networks(701EX0C007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 4 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | ANS_Data Communication and Computer Networks(701EX0C007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 4 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | QP_Data Communication and Computer Networks(701EX0C007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 4 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | QP_Data Communication and Computer Networks(701EX0C007)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 4 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | QP_Data Communication and Computer Networks(701EX0C007)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 4 | DIPLOMA | Data Communication and Computer Network Batch 2025-26 Re Exam.pdf |
+
+Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

@@ -1,0 +1,22 @@
+{
+  "_comment": "Manual subject corrections. Key: a spelling a paper is filed under (see 'Also filed as' in subjects/<Subject>/README.md). Value: the subject it belongs to. Case and punctuation do not matter. Run 'python organize_by_subject.py catalog' after editing.",
+  "Security Essentials in Applied AL": "Security Essentials in Applied AI",
+  "Japanese AI": "Japanese A1",
+  "Economics OS Chemical Projects": "Economics of Chemical Projects",
+  "Advance Data Structure for Analysis": "Advanced Data Structure for Analytics",
+  "Internet of Things Analysis": "Internet of Things Analytics",
+  "Water Conveyance and Distributed Systems": "Water Conveyance and Distribution Systems",
+  "Environmental Impact Assessment and Audit": "Environmental Impact Assessment and Auditing",
+  "Unit Process in Chemical Industry": "Unit Processing in Chemical Industries",
+  "Cora Java": "Core Java",
+  "Investing Banking": "Investment Banking",
+  "Introduction to Modern App Development": "Introduction to Modern Application Development",
+  "Database Management Science": "Database Management Systems",
+  "Advertising and Public Relations Syllabus": "Advertising and Public Relations",
+  "Market Research": "Marketing Research",
+  "Quality Survey, Estimation and Valuation": "Quantity Surveying, Estimation and Valuation",
+  "MPOPS": "MLOps",
+  "INTRODUCTION TO STATISTICS BUSINESS ANA": "Introduction to Business Statistics, Analytics and Modeling I",
+  "MOBAIL COMPUTING AND NETWORKING": "Mobile Computing and Wireless Networking",
+  "Electric Hybrid Automative Technique": "Electric and Hybrid Automotive Technology"
+}

@@ -1,0 +1,21 @@
+# Electrical Machines I
+
+**5** unique papers (5 copies across programmes) · 2016-17 to 2017-18 · 2 programmes · Sem 4
+
+Download only this subject, sorted by academic year:
+
+```powershell
+python organize_by_subject.py restore --destination D:/Study --subject "Electrical Machines I"
+```
+
+Files land in `D:/Study/PYQs_By_Subject/Electrical Machines I/<academic year>/`. Identical copies of one paper (the portal often files the same PDF under several programmes) are placed once.
+
+| Year | Exam | Type | Sem | Programmes | File |
+| --- | --- | --- | --- | --- | --- |
+| 2017-18 | Final-Exam | Question paper | Sem 4 | B TECH / ELECTRICAL | ELECTRICAL MACHINES I (ELECTRICAL), 2017-18 FINAL EXAM.pdf |
+| 2017-18 | Final-Exam | Question paper | Sem 4 | MBA TECH / ELECTRICAL | Electrical Machine -I 2017-18 Final exam.pdf |
+| 2017-18 | Re-Exam | Question paper | Sem 4 | B TECH / ELECTRICAL | ELECTRICAL_MACHINES_I_BATCH_16-17_17-18_RE_EXAM.pdf |
+| 2016-17 | Final-Exam | Question paper | Sem 4 | B TECH / ELECTRICAL | ELECTRICAL MACHINES I 16-17 FINAL EXAM.pdf |
+| 2016-17 | Re-Exam | Question paper | Sem 4 | B TECH / ELECTRICAL | ELECTRICAL MACHINES I BATCH 16-17 RE EXAM.pdf |
+
+Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

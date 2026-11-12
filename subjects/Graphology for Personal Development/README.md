@@ -1,0 +1,20 @@
+# Graphology for Personal Development
+
+**4** unique papers (17 copies across programmes) · 2022-23 to 2023-24 · 13 programmes · Sem 6, Sem 7
+
+Download only this subject, sorted by academic year:
+
+```powershell
+python organize_by_subject.py restore --destination D:/Study --subject "Graphology for Personal Development"
+```
+
+Files land in `D:/Study/PYQs_By_Subject/Graphology for Personal Development/<academic year>/`. Identical copies of one paper (the portal often files the same PDF under several programmes) are placed once.
+
+| Year | Exam | Type | Sem | Programmes | File |
+| --- | --- | --- | --- | --- | --- |
+| 2023-24 | Final-Exam | Question paper | Sem 7 | B TECH, B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CIVIL, B TECH / COMPUTER, B TECH / CSE CYBER SECURITY, B TECH / CSE DATA SCIENCE (311), B TECH / DATA SCIENCE, B TECH / EXTC, B TECH / IT, B TECH / MECHANICAL, B TECH / MECHATRONICS, B.TECH INTEGRATED, MBA TECH | Graphology for Personal Development ,Final 2023-2024.pdf |
+| 2022-23 | Final-Exam | Question paper |  | B.TECH INTEGRATED | Graphology for Personal Development Batch 2022-23 Final0001.pdf |
+| 2022-23 | Re-Exam | Question paper |  | B.TECH INTEGRATED | Graphology for Personal Development Batch 2022-23 Re Exa0002.pdf |
+| — | — | Question paper | Sem 6 | MBA TECH | Graphology for personal development.pdf |
+
+Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

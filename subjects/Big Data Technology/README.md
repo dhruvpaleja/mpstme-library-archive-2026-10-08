@@ -1,0 +1,30 @@
+# Big Data Technology
+
+**14** unique papers (14 copies across programmes) · 2015-16 to 2024-25 · 3 programmes · Sem 3, Sem 9
+
+Download only this subject, sorted by academic year:
+
+```powershell
+python organize_by_subject.py restore --destination D:/Study --subject "Big Data Technology"
+```
+
+Files land in `D:/Study/PYQs_By_Subject/Big Data Technology/<academic year>/`. Identical copies of one paper (the portal often files the same PDF under several programmes) are placed once.
+
+| Year | Exam | Type | Sem | Programmes | File |
+| --- | --- | --- | --- | --- | --- |
+| 2024-25 | Final-Exam | Question paper | Sem 3 | M TECH / ARTIFICIAL INTELLIGENCE | Big Data Technology Batch 2024-25 Final.pdf |
+| 2023-24 | Final + Re-Exam | Question paper |  | M TECH / DATA SCIENCE | Big Data Technology Batch 2023-24 Final Batch 2021-22 Re- Exam.pdf |
+| 2023-24 | Final-Exam | Question paper | Sem 3 | M TECH / ARTIFICIAL INTELLIGENCE | Big Data Technology Batch 2023-24 Final0001.pdf |
+| 2023-24 | Final-Exam | Question paper | Sem 9 | MBA TECH | Big Data Technology, Final 2023-2024.pdf |
+| 2022-23 | Final + Re-Exam | Question paper |  | M TECH / DATA SCIENCE | Big Data Technologies Batch 2022-23 Final & Re Exam.pdf |
+| 2022 | Final-Exam | Question paper | Sem 3 | M TECH / ARTIFICIAL INTELLIGENCE | Big Data Technology Batch 2022 FInal0001.pdf |
+| 2022-23 | Re-Exam | Question paper |  | M TECH / DATA SCIENCE | Big Data Technologies Batch 2022-23 Re Exam0001.pdf |
+| 2021-22 | Final-Exam | Question paper |  | M TECH / DATA SCIENCE | Big Data Technology 2021-22 Final0001.pdf |
+| 2021-22 | Re-Exam | Question paper |  | M TECH / DATA SCIENCE | Big Data Technology Batch 2021-22 Re Exam0001.pdf |
+| 2019-20 | Final-Exam | Question paper | Sem 3 | M TECH / ARTIFICIAL INTELLIGENCE | Big Data Technology 2019-20 Final.pdf |
+| 2018-19 | Final-Exam | Question paper |  | M TECH / DATA SCIENCE | Big Data Technology 2018-19 Final.pdf |
+| 2016-17 | Final-Exam | Question paper | Sem 9 | MBA TECH | Big Data Technology Batch 2016-17 Final.pdf |
+| 2015-16 | Final-Exam | Question paper |  | M TECH / DATA SCIENCE | Big Data Technology 2015-16 Final.pdf |
+| 2015-16 | Final-Exam | Question paper | Sem 9 | MBA TECH | Big Data Technology Batch 2015-16 Final.pdf |
+
+Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.
