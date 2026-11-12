@@ -360,7 +360,7 @@ def department(programme):
 FOOTER = re.compile(r'(?i)^\s*(\*{3,}.*\*{3,}|page\s*\d+\s*(of\s*\d+)?|-+\s*\d+\s*-+|\d{1,2}\s*\|\s*page.*|'
                     r'(\*+\s*)?(end of (the )?(question )?paper|all the best|best of luck)(\s*\*+)?)\s*$')
 INSTRUCTION = re.compile(r'(?i)compulsory|attempt|figures? (in|to)|full marks|assume|answer(s)? to each|'
-                         r'instructions?|candidates? should|carry equal|fresh page|neat diagram|calculators?|'
+                         r'instructions?|candidates? should|carry equal|fresh page|calculators?|'
                          r'question paper contains|in all \d|out of (the )?remaining')
 TAGS = [
     ('co', re.compile(r'\b[CG]\s?[O0]\s?[-–.:]?\s?(\d{1,2}(?:\s*[,&/]\s*\d{1,2})*)\b[\s;,:]*')),
@@ -371,6 +371,8 @@ QUESTION_START = re.compile(       # OCR reads "Q1" as "Ql"/"QI" and "Q5" as "QS
     r'^(?:Q(?:ue(?:stion|s)?)?\s*\.?\s*(?:No\.?\s*)?|Q\s*)(\d{1,2}|[lIS](?=[\s.):]|$))\s*[.):\-]?\s*(.*)$', re.I)
 NUMBER_START = re.compile(r'^(\d{1,2})\s*[.)]\s+(\S.*)$')
 SUBQUESTION_START = re.compile(r'^(\d{1,2})\s*\)\s*(.*)$')          # "1)" inside "Q2 Attempt any 4"
+ROMAN_QUESTION = re.compile(r'^(I{1,3}|IV|VI{0,3}|IX|X)\s*[.)]\s+(\S.*)$')   # upper-case "II. Attempt any four"
+ROMAN_VALUE_Q = {'I': 1, 'II': 2, 'III': 3, 'IV': 4, 'V': 5, 'VI': 6, 'VII': 7, 'VIII': 8, 'IX': 9, 'X': 10}
 PART_START = re.compile(                   # (a)  a.  b)  "c   text"  "A Write"  and OCR forms ".B_ Write", "{c)", "B - Write"
     r'^[.,\'"`~_\-]*(?:[({\[]\s*([a-hj-k])\s*[)}\]]|([a-hj-k])\s*[.)_~:\-]+(?=\s)|([a-hj-k])\s*[.)]|'
     r'([a-hj-k])(?=\s{3}|\s[A-Z]))\s*(.*)$', re.I)
@@ -448,6 +450,9 @@ def take_tags(line, item):
 
 def take_marks(line):
     line = re.sub(r'(?<=[)\]\d])[\s\\|.,\'`~_]{1,4}$', '', line)      # OCR debris after "(7)"
+    alone = re.fullmatch(r'\s*[\[(]?\s*(\d{1,2}(?:\.5)?)\s*[\])]?\s*', line)   # a line that is only "20" or "[10]"
+    if alone and 0 < float(alone.group(1)) <= 100:
+        return '', number(alone.group(1))
     match = MARKS_END.search(line)
     if not match:
         return line, None
@@ -458,6 +463,29 @@ def take_marks(line):
     if re.search(r'[=+\-*/^]\s*$', rest):            # "... = 10" is part of an equation, not marks
         return line, None
     return rest, value
+
+
+def instructions_end(lines):
+    """Index of the first line after the paper's instruction block (0 when there is none).
+
+    The block starts at an "Instructions" heading and continues through its numbered list (1., 2., ...) and
+    lines that read like instructions; the first other line is where the questions begin."""
+    head = next((i for i, line in enumerate(lines[:60]) if re.match(r'(?i)^\W{0,3}instructions?\b', line.strip())), None)
+    if head is None:
+        return 0
+    expected, index = 1, head + 1
+    while index < len(lines):
+        line = lines[index].strip()
+        numbered = NUMBER_START.match(line)
+        if numbered and int(numbered.group(1)) == expected:
+            expected += 1
+        elif not (INSTRUCTION.search(line) and not ROMAN_QUESTION.match(line)) and not (
+                expected > 1 and not numbered and len(line) < 90 and index + 1 < len(lines)
+                and NUMBER_START.match(lines[index + 1].strip())
+                and int(NUMBER_START.match(lines[index + 1].strip()).group(1)) == expected):
+            break                                       # neither a numbered instruction nor a wrapped one
+        index += 1
+    return index
 
 
 def parse_questions(text):
@@ -473,12 +501,11 @@ def parse_questions(text):
                   if (m := QUESTION_START.match(take_tags(line.strip(), None))) and m.group(1) in ('1', 'l', 'I', 'i')
                   and not instruction_about_q1(m.group(2))), None)
     if start is None:
-        start = 0
-        for index, line in enumerate(lines[:60]):
-            if INSTRUCTION.search(line):
-                start = index + 1
+        start = instructions_end(lines)
     body = lines[start:]
     q_style = sum(1 for l in body if QUESTION_START.match(take_tags(l, None))) >= 2
+    # Papers with "I.", "II." as questions and "1.", "2." under them: Arabic numbers become sub-questions.
+    roman_style = not q_style and sum(1 for l in body if ROMAN_QUESTION.match(l.strip())) >= 2
     questions, current, item, sub = [], None, None, ''
 
     def new_item(part):
@@ -495,9 +522,15 @@ def parse_questions(text):
             if item is not None:
                 item['lines'].append('OR')
             continue
-        match = QUESTION_START.match(line) if q_style else NUMBER_START.match(line)
+        if q_style:
+            match = QUESTION_START.match(line)
+        elif roman_style:
+            match = ROMAN_QUESTION.match(line)
+        else:
+            match = NUMBER_START.match(line)
         if match:
-            label = {'l': '1', 'i': '1', 's': '5'}.get(match.group(1).lower(), match.group(1))
+            label = match.group(1)
+            label = str(ROMAN_VALUE_Q[label]) if roman_style else {'l': '1', 'i': '1', 's': '5'}.get(label.lower(), label)
             previous = int(current['question']) if current else 0
             rest = match.group(2).strip().lstrip('~_-:.;,|\'"` ')
             if previous < int(label) <= previous + 3:   # next question (tolerates a skipped number)
@@ -511,7 +544,9 @@ def parse_questions(text):
                 continue
         if current is None:
             continue
-        numbered = SUBQUESTION_START.match(line) if q_style else None
+        numbered = (SUBQUESTION_START.match(line) if q_style
+                    else NUMBER_START.match(line) or re.match(r'^(\d{1,2})\s*[.)]\s*(.*)$', line) if roman_style
+                    else None)
         if numbered and int(numbered.group(1)) == (int(sub) + 1 if sub else 1):
             sub, item = numbered.group(1), None          # next numbered sub-question; parts become "1.a"
             line = numbered.group(2).strip()
