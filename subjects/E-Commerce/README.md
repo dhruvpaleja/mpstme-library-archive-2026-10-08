@@ -1,6 +1,6 @@
 # E-Commerce
 
-**27** unique papers (29 copies across programmes) · 2013-14 to 2025-26 · 8 programmes · Sem 6, Sem 7, Sem 12
+**28** unique papers (30 copies across programmes) · 2013-14 to 2025-26 · 8 programmes · Sem 6, Sem 7, Sem 10, Sem 12
 
 Download only this subject, sorted by academic year:
 
@@ -28,6 +28,7 @@ Also filed as: `ECOMMERCE`
 | 2019-20 | Final-Exam | Question paper | Sem 7 | B TECH / COMPUTER | E_COMMERCE_B TECH (COMPUTER), 2019-20 FINAL_EXAM.pdf |
 | 2019-20 | Final-Exam | Question paper | Sem 7 | MBA TECH / COMPUTER | E-commerce , Final exam 2019-20.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 7 | B TECH / COMPUTER | E_COMMERCE_B TECH (COMPUTER), 2018-19 FINAL_EXAM_.pdf |
+| 2018-19 | Final-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / COMPUTER | E-_Commerce_2018-19_Final_eKuT6WywyM.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 7 | MBA TECH / COMPUTER | E-commerce Final 2018-19.pdf |
 | 2018-19 | Re-Exam | Question paper | Sem 7 | B TECH / COMPUTER | E_COMMERCE_B TECH (COMPUTER), BATCH_2018-19_RE_EXAM_.pdf |
 | 2017-18 | Final-Exam | Question paper | Sem 7 | B TECH / COMPUTER | E COMMERCE (COMPUTER), 2017-18 FINAL EXAM.pdf |

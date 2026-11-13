@@ -1,8 +1,151 @@
 # Intelligent Systems: question papers in full
 
-25 unique papers · 2013-14 to 2025-26 · Artificial Intelligence, Computer Engineering, AI and Machine Learning, Common (all branches)
+27 unique papers · 2013-14 to 2025-26 · Artificial Intelligence, Computer Engineering, AI and Machine Learning, Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 2 · paper 69ce7b983b67
+
+- Departments: Artificial Intelligence
+- Programmes: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE) - 7012
+- Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE) - 7012/INTELLIGENT SYSTEMS/QP_Final-Exam_INTELLIGENT SYSTEMS(702AI0C034)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
+- Text: text (4 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & ML)/MBA Tech (AI)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: INTELLIGENT SYSTEMS
+Date: 09 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 4 pages.
+2. Question No. _1___ is compulsory
+3. Out of remaining questions attempt any 4 Questions
+4. In all 5 questions to be attempted
+5. All questions carry equal marks
+6. Figures in brackets on right hand side indicate full marks
+7. Assume suitable data if necessary
+Q1   Answer briefly   [20]
+CO- 1;   a.   Explain the major approaches to Artificial Intelligence: Acting Humanly,   [5]
+SO- 1;   Thinking Humanly, Thinking Rationally, and Acting Rationally with
+BL-1   suitable examples.
+CO-2 ;   b.   Identify the Performance, Environment, Actuators and sensors for an AI-   [5]
+SO- 1;   based fraud detection system in banking.
+BL-2
+CO6;   c.   Define Constraint Satisfaction Problem in AI. Identify Variables, Domain, [5]
+SO-1;
+and Constraints in classroom scheduling for different courses.
+BL-1
+CO - 4;   d.   Explain the Wumpus World environment in Artificial Intelligence.   [5]
+SO -1 ;   Describe its structure, including the layout, the agent, various objects
+BL- 1   present, and the overall objective of the game
+Q2   a)   Define Alpha-Beta Pruning. What are alpha (α) and beta (β) values? How [10]
+does pruning improve efficiency compared to Minimax?
+CO-5;
+Evaluate the following game tree using Alpha-Beta Pruning (left-to-right
+SO-1;
+traversal):
+BL-3
+A. Show the values of α and β at each step.
+B. Indicate where pruning occurs.
+C. Find the final value of node A.
+********** 1 **********
+--- page 2 ---
+CO-3;   b)   [10]
+SO-1;   For the below figure If Source node is A and destination is Z.
+BL-3   Using A star Algorithm derive the shortest path showing calculations step
+by step.
+Q3   a)   Consider the crypt arithmetic problem shown below.   [10]
+CO-6;   S O M E
+SO-1;   + T   I M E
+BL-3   ______________________
+S P E N T
+Initial state constraints:
+1) No two letters have the same value.
+2) The sums of the digits satisfy the predefined arithmetic rules.
+Examine the domain for each variable at every step to evaluate possible
+solutions for { S,O,M,E,N,T,P,I} Alphabets can take values from 0to
+9.Carry can be either 1 or 0
+********** 2 **********
+--- page 3 ---
+CO-1,3;   b)   i) Discuss various applications of Artificial Intelligence in the healthcare   [5]
+sector with suitable examples.
+SO-1;
+BL-1,2   ii) Describe the Hill Climbing Algorithm. Explain Local Minima and global   [5]
+minima with proper diagram and explanation.
+Q4   a)   For the library assessment scenario consider the following statements:   [10]
+1. If the librarian is at the desk, books can be issued.
+CO – 4
+2. If books are issued, fines are checked.
+SO – 1
+3. If fines are checked, overdue books are returned.
+BL- 3
+4. If the librarian is away, books cannot be issued.
+5. Books were issued, but overdue books were not returned.
+Convert the above statements into propositional logic using suitable
+symbols. Also, analyze the given information and state whether the cook
+was working or on break, giving logical reasoning.
+CO-4;   b)   i) Explain the meaning of Universal and Existential quantifiers in first-   [5]
+SO-1;   order logic, and illustrate each with a suitable example.
+BL-3
+ii) Describe Modus Ponens and Modus Tollens inference rules. Explain   [5]
+their logical structure and demonstrate each with an example.
+Q5   a)   In a map-coloring problem with 7 states and three colors (Red, Green, [10]
+Blue), where neighboring states cannot have the same color, analyze how
+CO-6;
+arc consistency reduces the domains of variables. Illustrate your answer by
+SO-1;
+showing step-by-step domain reduction .
+BL-2
+CO-5,4;   b)   i) Differentiate between Minimax and Alpha beta pruning algorithm   [5]
+SO-1;   (any 5pts)
+BL-2,3
+ii) Define propositional logic and differentiate between atomic
+propositions and compound propositions with suitable examples.
+[5]
+Q6   a) Explain the following types of AI agents in detail with diagram ,mentioning   [10]
+their advantages and limitations
+CO-2;
+SO-1;
+1) Simple Reflex Agent.
+BL-1
+2) Model-Based Reflex Agent.
+********** 3 **********
+--- page 4 ---
+CO-3;   b) Given a 3x3 board with 8 tiles (every tile has one number from 1 to 8) and   [10]
+SO-1;
+one empty space. The objective is to place the numbers on tiles in order
+BL-2
+using the empty space. We can slide four adjacent (left, right, above and
+below) tiles into the empty space. Using Greedy best first search. Show the
+step by step method to reach the goal state for the following initial state.
+1   2   3
+4   6
+7   5   8
+Initial State
+1   2   3
+4   5   6
+7   8
+Goal State
+Q7   a) Let P, Q, and R be logical propositions. Construct the truth table for the   [10]
+CO-4;   expression (P ∨ Q ) ∧ R ↔ (P ∧ R) ∨ (Q ∧ R)
+SO-1;
+and determine whether the given statement is a tautology.
+BL-3
+CO-4;   b) Consider following axioms:   [10]
+SO-1;
+• Spot is a cat.
+BL-2
+• All cats are mammals.
+• All mammals are warm-blooded.
+Translate these sentences in predicate form. Convert them to Conjunctive
+Normal Form (CNF)
+********** 4 **********
+````
 
 ## 2025-26 · Final-Exam · Sem 2 · paper a38cdc0273c1
 

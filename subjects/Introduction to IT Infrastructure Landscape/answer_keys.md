@@ -2,6 +2,147 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2024-25 · Final-Exam · Sem 5 · Answer key · paper 78704b0d66e7
+
+- Departments: Information Technology
+- Programmes: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037
+- Source: `00_Original_Downloads/2024/65247__Semester V__context_fixed.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037/Introduction to IT Infrastructure Landscape/ANS_Final-Exam_Introduction to IT Infrastructure Landscape(701IT0C005)_Semester V_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
+- Text: mixed (6 pages), mean OCR confidence 56.5
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX
+YEARS INTEGRATED PROGRAM
+Year: III/Semester V(Exam Year: 2024-2025)
+Subject: Introduction to IT Infrastructure Landscape
+Date: 03 Dec 2024   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 6 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Question No. 1 is compulsory.
+4. Out of remaining questions, attempt any 4 questions.
+5. In all 5 questions to be attempted.
+6. All questions carry equal marks.
+7. Figures in brackets on the righthand side indicate full marks.
+8. Assume Suitable data if necessary.
+********** 1 **********
+--- page 2 ---
+Q1
+a.   Discuss an Application Architecture as well as use of the same.   CO-1;SO-
+1,BL-2
+•   Application architecture defines the methods and patterns
+you can follow to design and build your application.
+•   It provides the direction and best practices to build your
+application with the right features and structure.
+•   Architecture is the starting point in the process of developing
+an application and it shows how different components of
+your application are to be arranged.
+•   It also provides details on how different components will
+interact and deliver functionality.
+3 marks
+Example 3-4 2 marks
+b.   In (a) Mash network topology and (b) Ring network topology setup CO-2;SO-
+where 61 devices are present.   1,BL-4
+i. How many connections can be established by one node?
+ii. How many physical connections are required to established
+such a network?
+iii. How many I/O ports are required to established such a
+network?
+c.   Explain Encryption and Decryption techniques in brief. How security CO-2;SO-
+can be archive through it?   1,BL-2
+********** 2 **********
+--- page 3 ---
+Diagram (1)
+About each (1 each*3=3)
+Reason (1)
+d.   Responsibilities of System administrator   CO-4;SO-
+1,BL-2
+4 points
+Q.2
+a.   How can you differentiate performance of infrastructure design and   CO-1;SO-
+performance of a running system   1,BL-2
+Difference (4)
+Problem running(2)
+Each parameter (4)
+b.   Differentiate LAN, WAN and MAN on different parameters   CO-2;SO-
+1,BL-2
+6-7 points each
+Q.3
+a.   Identify IT infrastructure component for domain application related   CO-1;SO-
+to Cyber Security.   2,BL-4
+********** 3 **********
+--- page 4 ---
+Describe each component in brief each 2 marks
+b.   Discuss need of security in network. Explain security tool firewall in   CO-2;SO-
+depth. Also discuss security components.   1,BL-2
+Need (1)
+Firewall define(2)
+Type(2)
+Mechanism( 2)
+Component diagram (1)
+Discuss each(2)
+Q4
+a.   Functional attributes are domain dependent and Non-functional   CO-1;SO-
+attributes are domain independent for any IT infrastructure –   1,BL-2
+Justify.
+3
+Functional attributes dependent vs non Functional attributes
+independent , explain each 4
+Justify 3
+********** 4 **********
+--- page 5 ---
+b.   Differentiate File system vs DBMS vs Data warehouse on different CO-2;SO-
+parameters. Also discuss limitations of each.   1,BL-2
+Any 6 (6)
+Limitation (4)
+Q5
+a.
+Discuss role and responsibilities of Network administrator   CO-3;SO-
+8 points minimum   1,BL-2
+b.   Differentiate various storage techniques RAID 0 / RAID 1 / RAID 5 /   CO-2;SO-
+RAID 10. which one is the best RAID technique as per your opinion.   2,BL-3
+Difference (7)
+Best(3)
+Q.6
+a.   Discuss role and responsibilities of DBMS administrator   CO-3;SO-
+8 points minimum   1,BL-2
+b.   Explain virtualization in detail and benefits of the same. Also discuss CO-2;SO-
+types of virtualizations in brief.   2,BL-3
+Define(1)
+Detail(3)
+Benefit (2)
+Types(4)
+Q.7
+a.   Explain cloud computing in detail. Discuss following in detail:   CO-2;SO-
+i.   deployment model   1,BL-2
+ii.   service model
+Discuss role of cloud technology in enhancement of business.
+Cloud(1)
+Benefit(1)
+Model with diagram(3+4)
+Reason(1)
+b.   Describe Server technology. Key components of Server technology.   CO-2;SO-
+Discuss following in detail:   1,BL-3
+• Rack server
+• Blade server
+• Enterprise server
+Also discuss various types of servers.
+Define(2)
+Component (2)
+********** 5 **********
+--- page 6 ---
+Each (4)
+Type(2)
+
+FIC 6 I HF
+````
+
 ## 2024-25 · Re-Exam · Sem 5 · Answer key · paper 202be61c7938
 
 - Departments: Information Technology

@@ -1,6 +1,6 @@
 # Marketing Management: question papers in full
 
-65 unique papers · 2008-09 to 2025-26 · Common (all branches), Data Science, Computer Science and Business Systems, Information Technology, Chemical, Manufacturing, Artificial Intelligence, Real Estate and Construction Management, Computer Engineering, Electronics and Telecommunication
+71 unique papers · 2008-09 to 2025-26 · Common (all branches), Data Science, Computer Science and Business Systems, Information Technology, Chemical, Manufacturing, Commerce, Artificial Intelligence, Real Estate and Construction Management, Computer Engineering, Management Studies, Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -125,6 +125,143 @@ due to aggressive promotional activities resulting in channel conflict.
 Explain the causes or the source of such conflicts.
 --- page 4 ---
 
+````
+
+## 2025-26 · Final-Exam · Sem 2 · paper 0af83362191c
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Economics) - 45616
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Commerce (Economics) - 45616/Marketing Management/QP_Final-Exam_Marketing Management(NFMMT153)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 18 Mar 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Commerce (Economics)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Marketing Management
+Date: 18 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. All questions are compulsory
+3. Answer to each new question to be started on a fresh page.
+4. Support your answers with valid examples wherever necessary.
+5. Figure in right hand side indicate full marks
+1.   Answer in Brief   8
+A. Analyze the nature of marketing as an economic, legal, managerial and social process   8
+with suitable examples.
+------------- OR -------------
+B. A company is planning to launch a new consumer product in a competitive market.   8
+Apply any four marketing orientations to explain how different approaches could
+influence its strategy and long-term performance.
+2.   Answer in Brief   8
+A. Evaluate how market segmentation has evolved from mass marketing to AI-driven   8
+dynamic segmentation. Critically justify which approach is most suitable in today’s
+digital business environment.
+------------- OR -------------
+B. A company is planning to introduce a new brand in a highly competitive market and   8
+Page 1 of 2
+--- page 2 ---
+wants to create a distinct image in the minds of consumers. Examine the various
+positioning strategies available to the company.
+3.   Answer in Brief   8
+A. Explain the elements of the marketing mix (4 Ps) and briefly describe their significance.   8
+------------- OR -------------
+B. A company manufacturing both perishable food items and durable household appliances   8
+needs to design suitable distribution channels for its products. In this situation, determine
+any four factors the company should consider while selecting appropriate distribution
+channels.
+4.   Answer in Brief   6
+A. Assess the effectiveness of any four different PR media formats in enhancing the   6
+corporate image of an organisation.
+------------- OR -------------
+B. Design a suitable STP strategy for a company introducing a plant-based protein beverage   6
+in a market dominated by traditional dairy products.
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 2 · paper e2ff01f01a0e
+
+- Departments: Management Studies
+- Programmes: Bachelor of Management Studies - 45614
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Management Studies - 45614/Marketing Management/QP_Final-Exam_Marketing Management(NBMKT151)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 22 Jun 2026
+- Text: text (3 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.M.S.
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Marketing Management
+Date: 22 Jun 2026   Time: 10:30 am - 12:30 pm (02:00 Hrs.)
+Max Marks: 60
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+1.   Answer the following:(Attempt Any 2 Questions)   12
+a.   6
+1.   Define marketing and enlist its features.
+b. A new snack brand gives heavy discounts and incentives to retailers to promote its product   6
+instead of advertising to customers. Identify the strategy used and explain how it works.
+Suggest when it is most effective.
+c. Explain what is MIS and what is MR and bring out its importance in marketing.   6
+2.   Answer the following:(Attempt Any 2 Questions)   12
+a.   6
+Examine the steps in the market segmentation process and apply them to a suitable example.
+b.   6
+Appraise the effectiveness of geographic, demographic, and psychographic segmentation bases
+for different products, with justified examples.
+c.   6
+Page 1 of 3
+--- page 2 ---
+Develop an appropriate segmentation, targeting, and positioning (STP) strategy for a budget-
+friendly smartphone to compete with existing brands.
+3.   Answer the following:(Attempt Any 2 Questions)   12
+a. Identify reasons for product failure. Give examples.   6
+b. Examine the role of packaging and labelling in influencing consumer buying decisions, with   6
+examples.
+c. Analyse the Product Life Cycle of a popular product and propose innovative strategies to   6
+extend its maturity stage.
+4.   Answer the following:(Attempt Any 2 Questions)   12
+a. A supermarket chain wants to introduce a new line of organic snacks. Identify the types of   6
+retailers it could partner with and analyze the factors influencing the choice of distribution
+channel.
+b. A company wants to improve sales for its line of fitness equipment. Analyze the importance of   6
+promotion in achieving sales objectives and evaluate which tool is most cost-effective for its
+target audience.
+c. Compare relationship marketing with transactional marketing in the context of a subscription-   6
+based streaming service. Evaluate which strategy is more beneficial and design a loyalty
+program to support it.
+5.   Read the case and answer the following:   12
+Read the case study and answer the questions below:
+Launch of Nothing Phone (1)
+In 2022, Nothing, founded by Carl Pei, launched its first smartphone, the Nothing Phone (1).
+The company aimed to disrupt the crowded smartphone market by focusing on minimalist
+design and a unique transparent back with LED “Glyph Interface.”
+Page 2 of 3
+--- page 3 ---
+The idea was generated from the gap in the market for aesthetically different yet functional
+smartphones. After idea generation, the concept was developed and tested through prototypes
+and early community feedback. Nothing actively involved its online community to refine
+product features and design.
+The product development stage included designing custom hardware and software (Nothing
+OS). Before full-scale launch, the company created hype through limited invitations and pre-
+orders, which acted as a form of test marketing. Feedback from early users helped identify
+software bugs and performance issues.
+Finally, the product was commercially launched globally with competitive pricing.
+Continuous software updates and improvements were rolled out post-launch to enhance user
+experience and fix issues, showing an ongoing development cycle.
+a. Explain the stages of New Product Development as applied in the case of Nothing Phone
+(1). (6 marks)
+b. Analyse how effective the New Product Development process was in ensuring the success
+of Nothing Phone (1). (6 marks)
+Page 3 of 3
 ````
 
 ## 2025-26 · Final-Exam · Sem 7 · paper 2ae530408ebf
@@ -706,6 +843,56 @@ BL- 5
 available to you and explain which one you will go with and why?
 
 SK 2 i iio k
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper 93ea6ef55c7a
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Economics) - 45616
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Re-Exam/Bachelor of Commerce (Economics) - 45616/Marketing Management/QP_Re-Exam_Marketing Management(NFMMT153)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 17 Jun 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Commerce (Economics)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Marketing Management
+Date: 17 Jun 2026   Time: 10:30 am - 11:30 am (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. All questions are compulsory
+3. Answer to each new question to be started on a fresh page.
+4. Support your answers with valid examples wherever necessary.
+5. Figure in right hand side indicate full marks
+1.   Answer in Brief   8
+A. Analyze the scope of marketing and explain how it extends beyond mere selling activities.   8
+------------- OR -------------
+B. A company offers heavy trade discounts to distributors while simultaneously running   8
+influencer campaigns for customers. Apply the concepts of push and pull marketing and
+explain their combined impact.
+2.   Answer in Brief   8
+A. Evaluate the importance of segmentation for long-term success of an organisation.   8
+------------- OR -------------
+B. Examine the steps involved in developing an effective positioning strategy.   8
+3.   Answer in Brief   8
+A. Describe the marketing strategies adopted at different stages of the Product Life Cycle.   8
+Page 1 of 2
+--- page 2 ---
+------------- OR -------------
+B. A packaged food company plans to enter both urban supermarkets and smaller   8
+neighborhood stores. Determine how various intermediaries can help the company
+distribute its products efficiently across diverse markets.
+4.   Answer in Brief   6
+A. A company observes that its sales team is unable to close deals effectively despite strong   6
+product features. Assess the various stages of the personal selling process.
+------------- OR -------------
+B. Design a suitable STP strategy for a startup launching an AI-powered language learning   6
+platform for working professionals in a competitive ed-tech market.
+Page 2 of 2
 ````
 
 ## 2025-26 · Re-Exam · Sem 5 · paper cefbdc5f4295

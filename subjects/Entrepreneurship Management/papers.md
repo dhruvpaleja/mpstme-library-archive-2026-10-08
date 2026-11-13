@@ -1,8 +1,72 @@
 # Entrepreneurship Management: question papers in full
 
-12 unique papers · 2008-09 to 2015-16 · Common (all branches)
+14 unique papers · 2008-09 to 2025-26 · Common (all branches), Commerce
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 2 · paper 8ad7a108345e
+
+- Departments: Commerce
+- Programmes: MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703/Entrepreneurship Management/QP_Final-Exam_Entrepreneurship Management(NKEMT558)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 28 Mar 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: M.Com (BM)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Entrepreneurship Management
+Date: 28 Mar 2026   Time: 08:00 am - 10:00 am (02:00 Hrs.)
+Max Marks: 60
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. All questions are compulsory.
+5. Question no 1 and Question no 3 are compulsory. In Question no 2 attempt any 2 out of 3
+1.Answer a. A the rural following youth starts questions. a small dairy business with limited capital and operates locally.   15
+Under which category can this entrepreneur be classified?
+b. Two individuals start similar businesses, but only one succeeds due to better adaptability to
+market changes. How does flexibility and adaptability determine entrepreneurial success?
+2.Answer (Attempt the following Any 2 Questions) questions.   30
+a. a. A group of farmers wants to collectively market their agricultural products to get better   15
+prices. Which form of business organization would be most beneficial for them? Explain.
+b. A retail startup is facing a shortage of funds to manage daily expenses like salaries, rent,
+and inventory. Explain which sources of working capital can help the business maintain
+smooth operations? Explain.
+b. a. Analyse why the responsibility of writing a business plan should primarily lie with the   15
+entrepreneur rather than external consultants.
+b. Construct a model that explains the relationship among creativity, idea generation
+techniques, creative problem solving, and innovation, showing how they are
+interconnected.
+c. a. Assess the effectiveness of innovation-driven schemes (NewGen IED) and sector-   15
+specific infrastructure schemes (DIDF) in advancing inclusive entrepreneurship in
+India.
+Page 1 of 2
+--- page 2 ---
+b. Evaluate the effectiveness of the Software Technology Park (STP) scheme in
+improving the global competitiveness of an IT startup in software service exports.
+3. Read Riya the Sharma, case and a answer 24-year-old the following hospitality questions.. graduate, noticed that tourists visiting her hometown   15
+struggled to find authentic local experiences. Most tourists depended on big travel websites
+that offered expensive and standardized packages, leaving out local guides and small
+businesses. With limited savings of ₹50,000, Riya started a small startup called “Local
+Trails”, offering customized walking tours, local food experiences, and cultural activities. She
+partnered with local guides, street food vendors, and artisans. Promotion through Instagram,
+WhatsApp, and word-of-mouth Online bookings via Google Forms and direct messages
+Affordable pricing with personalized experiences Revenue shared with local partners
+Challenges Faced Limited capital for marketing Low brand awareness initially Dependence
+on seasonal tourism Managing customer expectations with small resources Despite these
+challenges, Riya focused on quality service, honest communication, and social media
+storytelling. Tourists started sharing positive reviews and photos online, which increased
+demand. Within one-year, Local Trails gained popularity among budget travelers and
+international tourists seeking authentic experiences.
+a. What entrepreneurial qualities did Riya demonstrate while starting “Local Trails”?
+b. Suggest two strategies Riya can use to grow her startup in the future.
+Page 2 of 2
+````
 
 ## 2015-16 · Final-Exam · Sem 9 · paper 4cfbf1652483
 

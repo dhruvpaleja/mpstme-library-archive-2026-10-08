@@ -9,7 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_Mechatronics_7004/Fluid Power Automation/ANS_Fluid Power Automation(702MH0E020)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Dec 2025
 - Text: ocr (11 pages), mean OCR confidence 85.2
-- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -378,6 +378,7 @@ k2 3 22
 
 t tt {)
 
+FCI ACO ACH ACH a Ak a
 --- page 9 ---
 Q6.
 a) Diagram of a power steering mechanism using a priority valve and Ackerman / Articulated
@@ -486,6 +487,7 @@ e Component plate of the Rexroth component system to mount the assembly into the
 
 grid of the workstation.
 
+FRR AOR AIO 7 0) AC ACH Ak a
 --- page 11 ---
 d) Classification of amplifiers used in a proportional hydraulic system. - 03 M
 e Plug in amplifier

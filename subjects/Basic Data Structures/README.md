@@ -1,6 +1,6 @@
 # Basic Data Structures
 
-**25** unique papers (31 copies across programmes) · 2022 to 2025-26 · 6 programmes · Sem 4, Sem 5
+**29** unique papers (35 copies across programmes) · 2022 to 2025-26 · 8 programmes · Sem 4, Sem 5
 
 Download only this subject, sorted by academic year:
 
@@ -25,12 +25,16 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Re-Exam | Answer key | Sem 5 | Integrated DS 7038 | ANS_Basic Data Structures(701CO0C013)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / DATA SCIENCE | Basic Data Structures Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B.TECH INTEGRATED / IT | Basic Data Structures Batch 2024-25 Final Batch 2023-24 Re Exam.pdf |
+| 2024-25 | Final-Exam | Question paper | Sem 5 | BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038 | QP_Final-Exam_Basic Data Structures(701CO0C013)_Semester V_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | Integrated Computer 7032 | QP_Basic Data Structures(701CO0C013)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 4 | Integrated IT 7037 | QP_Basic Data Structures(701CO0C013)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 5 | BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038 | ANS_Final-Exam_Basic Data Structures(701CO0C013)_Semester V_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 5 | Integrated Computer 7032 | ANS_Basic Data Structures(701CO0C013)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 4 | Integrated IT 7037 | ANS_Basic Data Structures(701CO0C013)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / DATA SCIENCE | Basic Data Structures Batch 2022-23,2023-24,2024-25 Re E0001.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 4 | BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037 | QP_Re-Exam_Basic Data Structures(701CO0C013)_Semester IV_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | Integrated Computer 7032 | QP_Basic Data Structures(701CO0C013)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 4 | BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037 | ANS_Re-Exam_Basic Data Structures(701CO0C013)_Semester IV_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 5 | Integrated Computer 7032 | ANS_Basic Data Structures(701CO0C013)_2024-2025.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / DATA SCIENCE | Basic Data Structures Batch 2023-24 Final Batch 2022-23 Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 4 | B.TECH INTEGRATED / IT | Basic Data Structures Batch 2023-24 Final.pdf |

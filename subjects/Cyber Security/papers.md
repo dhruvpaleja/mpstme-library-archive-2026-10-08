@@ -1,6 +1,6 @@
 # Cyber Security: question papers in full
 
-28 unique papers · 2017-18 to 2025-26 · Computer Engineering, Computer Applications (MCA), Computer Science, Data Science
+30 unique papers · 2017-18 to 2025-26 · Computer Engineering, Computer Applications (MCA), Computer Science, Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1164,6 +1164,68 @@ Q7CO- j|c
 2; SO-1; Illustrate Kerberos with the help of neat diagram. [5]
 
 BL-2
+````
+
+## 2024-25 · Final-Exam · Sem 3 · paper b458cac35ef9
+
+- Departments: Computer Applications (MCA)
+- Programmes: MASTER OF COMPUTER APPLICATIONS - 7061
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Final-Exam/MASTER OF COMPUTER APPLICATIONS - 7061/Cyber Security/QP_Final-Exam_Cyber Security(703AI0C002)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Dec 2024
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MASTER OF COMPUTER APPLICATIONS
+Year: II/Semester III(Exam Year: 2024-2025)
+Subject: Cyber Security
+Date: 13 Dec 2024   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory. Out of remaining questions, attempt any 4 questions.
+5. Assume Suitable data if necessary.
+Q1   Answer briefly:   [20]
+a. What are active attacks? Explain any three types of active attacks.   [5]
+b. Describe Discretionary Access Control with strengths and limitations.   [5]
+c. Discuss Transport mode of VPN with neat diagram.   [5]
+d. What is Risk management? Enlist Steps in Risk Management.   [5]
+Q2
+a. Explain different types of attacks. Consider an online banking application. Who might   [10]
+want to attack the program? What types of harm might they want to cause? What kinds
+of vulnerabilities might they exploit to cause harm?
+b. With suitable examples explain any four types of substitution ciphers. Compare   [10]
+substitution ciphers with transposition ciphers.
+Q3
+a. Apply RSA algorithm to encrypt and decrypt the message string “ABC”. Assume   [10]
+suitable values for p, q, encryption key and decryption key.
+b. Discuss various biometric features with applications used for authentication. Also   [10]
+summarize Problems with biometrics.
+Q4
+a. Summarize the steps in DES algorithm. Compute the output using following S-box 1   [10]
+for input value 101110. Write the steps followed for the same.
+********** 1 **********
+--- page 2 ---
+b. With neat diagram, explain working of Kerberos system.   [10]
+Q5
+a. What are non-malicious program errors? Explain their major types.   [10]
+b. Explain Link encryption with the help of neat diagram and compare it with End-to-   [10]
+End Encryption.
+Q6
+a. What are Intrusion Detection Systems? Explain any four types of Intrusion Detection   [10]
+Systems with their drawbacks.
+b. Summarize the steps involved in Risk Analysis for a chain of hospitals.   [10]
+Q7
+a. Why Digital signatures are important? Discuss the process for creating and verifying   [5]
+Digital Signatures.
+b. What are the characteristics of a good password?   [5]
+c. Discuss developmental Controls against program threats.   [5]
+d. Explain Tunnel mode VPN with neat diagram.   [5]
+********** 2 **********
 ````
 
 ## 2024-25 · Final-Exam · Sem 3 · paper 02abcd5d1647

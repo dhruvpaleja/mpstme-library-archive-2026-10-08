@@ -1,6 +1,6 @@
 # Electrical Network Analysis and Synthesis
 
-**38** unique papers (39 copies across programmes) · 2010-11 to 2018-19 · 2 programmes · Sem 3, Trim 4
+**43** unique papers (44 copies across programmes) · 2010-11 to 2018-19 · 3 programmes · Sem 3, Sem 5, Trim 4
 
 Download only this subject, sorted by academic year:
 
@@ -15,15 +15,20 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2018-19 | Final + Re-Exam | Question paper | Sem 3 | B TECH / EXTC | ELECTRICAL NETWORK ANALYSIS AND SYNTHESIS FINAL EXAM 18-19 AND RE EXAM 17-18.pdf |
+| 2018-19 | Final + Re-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / EXTC | Electrical_Network_Analysis_and_Synthesis_2018-19_Final__Batch_2017-18_Re_Exam_kqlCwmUAcf.pdf |
 | 2018-19 | Final + Re-Exam | Question paper | Sem 3 | MBA TECH / TELECOM EXTC | Electrical_network_analysis_and_synthesis_2018-19 Final , 2017-18 Re-exam.pdf |
 | 2018-19 | Re-Exam | Question paper | Sem 3 | B TECH / EXTC | ELECTRICAL NETWORK ANALYSIS AND SYNTHESIS BATCH 2018-19 RE EXAM.pdf |
+| 2018-19 | Re-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / EXTC | Electrical_Network_Analysis_and_Synthesis_Batch_2017-18_2018-19_Re_Exam_AMgxU295XX.tif |
+| 2018-19 | Re-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / EXTC | Electrical_Network_Analysis_and_Synthesis_Batch_2017-18_2018-19_Re_Exam_kFwscJ1I9N.pdf |
 | 2018-19 | Re-Exam | Question paper | Sem 3 | MBA TECH / TELECOM EXTC | Electrical_network_Analysis_and_synthesis_2017-18 , 2018-19 Re-exam.pdf |
 | 2017-18 | — | Question paper | Sem 3 | MBA TECH / TELECOM EXTC | ELECTRICAL NETWORKS ANALYSIS AND SYNTHESIS 2017-2018.pdf |
+| 2017-18 | Final-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / EXTC | Electrical_Network_Analysis_and_Synthesis_2017-18_Final_uuacZpah9L.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 3 | B TECH / EXTC | ELECTRICAL NETWORK ANALYSIS AND SYNTHESIS BATCH 16-17 17-18 RE EXAM.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 3 | B TECH / EXTC | ELECTRICAL NETWORK ANALYSIS AND SYNTHESIS BATCH 16-17 RE EXAM 2017-18.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 3 | B TECH / EXTC | ELECTRICAL NETWORK ANALYSIS AND SYNTHESIS BATCH 16-17, 17-18 RE EXAM.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 3 | MBA TECH / TELECOM EXTC | Electrical Networks Analysis & synthesis 2017-18 Re-exam.pdf |
 | 2016-17 | Final-Exam | Question paper | Sem 3 | B TECH / EXTC | ELECTRICAL NETWORK ANALYSIS AND SYNTHESIS B TECH (EXTC), 2016-17 FINAL EXAM.pdf |
+| 2016-17 | Final-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / EXTC | Electrical_Network_Analysis_and_Synthesis_2016-17_Final_YqTkn2IkjZ.pdf |
 | 2016-17 | Final-Exam | Question paper | Sem 3 | MBA TECH / TELECOM EXTC | Electrical Network Analysis and Synthesis Batch 2016-17 Final exam.pdf |
 | 2016-17 | Re-Exam | Question paper | Sem 3 | B TECH / EXTC | ELECTRICAL NETWORK ANALYSIS AND SYNTHESIS (EXTC), BATCH 16-17 RE EXAM.pdf |
 | 2016-17 | Re-Exam | Question paper | Sem 3 | MBA TECH / TELECOM EXTC | ELECTRICAL NETWORKS ANALYSIS AND SYNTHESIS BATCH 2016-17 Re-exam.pdf |

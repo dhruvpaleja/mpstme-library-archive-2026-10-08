@@ -1,6 +1,6 @@
 # Physics III
 
-**26** unique papers (37 copies across programmes) · 2022 to 2024-25 · 9 programmes · Sem 3
+**28** unique papers (39 copies across programmes) · 2022 to 2024-25 · 10 programmes · Sem 3
 
 Download only this subject, sorted by academic year:
 
@@ -15,9 +15,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / ENGINEEING PHYSICS | Physics III Batch 2024-25 Final Batch 2023-24 Re Exam.pdf [1] |
+| 2024-25 | Final-Exam | Question paper | Sem 3 | BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7032 | QP_Final-Exam_Physics-III(701BS0C016)_Semester III_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | Integrated DS 7038 | QP_Physics-III(701BS0C016)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | Integrated IT 7037 | QP_Physics-III(701BS0C016)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | Integrated Mechanical 7031 | QP_Physics-III(701BS0C016)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7032 | ANS_Final-Exam_Physics-III(701BS0C016)_Semester III_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 3 | Integrated DS 7038 | ANS_Physics-III(701BS0C016)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 3 | Integrated IT 7037 | ANS_Physics-III(701BS0C016)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 3 | Integrated Mechanical 7031 | ANS_Physics-III(701BS0C016)_2024-2025.pdf |

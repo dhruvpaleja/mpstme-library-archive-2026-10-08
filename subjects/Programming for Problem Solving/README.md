@@ -1,6 +1,6 @@
 # Programming for Problem Solving
 
-**102** unique papers (159 copies across programmes) · 2018-19 to 2025-26 · 41 programmes · Sem 1, Sem 2, Sem 3, Sem 5, Sem 6, Sem 7
+**104** unique papers (161 copies across programmes) · 2018-19 to 2025-26 · 42 programmes · Sem 1, Sem 2, Sem 3, Sem 5, Sem 6, Sem 7
 
 Download only this subject, sorted by academic year:
 
@@ -63,6 +63,7 @@ Also filed as: `PROGRAMMING FOR PROBLEM SLOVING`
 | 2024-25 | Final-Exam | Answer key | Sem 1 | MBATech DS 7052 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 1 | MBATech IT 7041 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B TECH / COMPUTER | B Tech, Management Accounting for Engineers, Sem-III, 2024-25, Re Exam.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 3 | BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037 | QP_Re-Exam_Programming for Problem Solving(701CO0C018)_Semester III_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | BTech AI 7012 | QP_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | BTech AIDS 7056 | QP_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | BTech CSBS 7036 | QP_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
@@ -81,6 +82,7 @@ Also filed as: `PROGRAMMING FOR PROBLEM SLOVING`
 | 2024-25 | Re-Exam | Question paper | Sem 1 | MBATech Computer 7047 | QP_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | MBATech DS 7052 | QP_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | MBATech IT 7041 | QP_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3 | BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037 | ANS_Re-Exam_Programming for Problem Solving(701CO0C018)_Semester III_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 1 | BTech AI 7012 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 1 | BTech AIDS 7056 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSBS 7036 | ANS_Programming for Problem Solving(702CO0C001)_2024-2025.pdf |

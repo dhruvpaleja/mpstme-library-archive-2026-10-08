@@ -4879,10 +4879,11 @@ sum of nth root of unity.
 - Programmes: B TECH
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/TRIM 2ND/APPLIED MATHEMATICES II/2006-2007.pdf`
 - Text: ocr (3 pages), mean OCR confidence 52.5
-- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
+Narsee Monjee Tnstifi. of Maha gement
 
 j 4. Hig her Bedias 7 ii 4d
 / —_ Chaves University) \ : : a
@@ -4999,7 +5000,6 @@ dla of x¢
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM II/APPLIED MATHEMATICES II/2006-2007(4).pdf`
 - Printed on paper: duration hours: 3
 - Text: ocr (1 page), mean OCR confidence 76.6
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 (DEEMED UNIVERSITY)
@@ -5034,6 +5034,7 @@ Q.6
 Peron
 gh ala
 
+NARSEE MONJEE INSTITUTE OF MANAGEME {sr UDIES aN
 
 “os = University yo
 

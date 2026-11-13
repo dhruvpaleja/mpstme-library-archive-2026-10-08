@@ -1,6 +1,6 @@
 # Introduction to Business Analytics and Business Intelligence: question papers in full
 
-9 unique papers · 2022-23 to 2024-25 · Common (all branches), Data Science
+11 unique papers · 2022-23 to 2024-25 · Common (all branches), Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -417,6 +417,143 @@ SO2; BL2
 ********** 3 **********
 ````
 
+## 2023-24 · Final-Exam · Sem 1 · paper f7d818513501
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B TECH/3__1ST YEAR.zip :: I SEMESTER/INTRODUCTION TO BUSINESS ANALYTICS & BUSINESS INTELLIGENCE/Introduction_to_Business_Analytics_and_Business_Intelligence__1st_Year__Sem_I__Year_22-23_Final_Exam_05GqDsAGnN.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 86.8
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT ,
+
+Academic Year: 2023-2024 th
+Program/s: B. Tech. Stream/s ; CSEDS Year: 1 Semester: 1
+Subject: Introduction to Business Analytics and Business Intelligence Time: 3 hrs (2:90 pmto.5-00 pm)
+Date:_08 /02./2024 ; No. of Pages:3
+
+Marks: 100 :
+Re-Examination (2024-24) / Re Exam (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+> 2) Out of the remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly:
+oa S01; | A. | Write a note on the ERP system, its advantages and limitations. OSM
+ae S01; | B. | Explain various ethics to handle Hospital Doctors related data. OSM
+ae S01; | C. | Write a note on the message box with a sample design and code. OSM
+rail D. | Explain why one single story is required for good dashboards. 05M
+Q2 Write a note on the information system ethics and problems caused by not
+a A. 10M
+C oe $06; following ethical practices in the software industry.
+
+Write steps to create a macro for converting currency from Euro to dollar,
+€02: S01; " accept the dollars in A3 and conversion factor in B3, and give Euro in cell C3 ‘iba
+BL2 based on the CONVERT button.
+
+(1. Design | 2. Properties | 3.Code)
+Q3 Design a Dashboard for the analysis of the caste and genderwise population in
+co3:sog. | Ae | Mumbai required for understanding healthcare information. 10M
+BL2 (Dataset Details, Insights of data, Design of Dashboard)
+CO2; S06; 5 Explain with syntax, uses and data examples of the below-given functions, 10M
+BL6 HLOOKUP and VLOOKUP
+
+1
+--- page 2 ---
+Q4
+
+Write a note on Pivot tables with sample examples. Describe the use of all
+
+co2;s06; | A. : ; 10M
+types of filters used in Excel.
+BL2
+Coa:s07: Design a Dashboard for the technology company producing Mobiles, laptops,
+BL B. | and smartwatches for analysing their profit coming from various continents. 10M
+(Dataset Details, Insights of data, Design of Dashboard)
+Write steps to draw one bar chart and one line chart from the given data,
+Title Year Genres Runtime | Rating Director Writers Cast
+Blood Road 2017|Documentary|Sport 96) 6.9|Nicholas Schrunk _|Mark Anders Huyen |ian [Rebecca
+Q5 Andre the Giant 2018|Documentary 85) 8.2|Jason Hehir Robin Wright Cary Elwes
+Hostiles 2017] Adventure| Drama 134) 7.3|Scott Cooper Scott Cooper |Ava Cooper| Rosamund
+Maze Runner: The De} 2018] Action | Sci-Fi| Thriller 41) 6.5|Wes Ball T.S. Nowlin. Dylan O'Brien|Sarah
+Assess how the above graphs will help us to analyse the popularity of movies.
+C02; $01; Explain any three Character functions and two datetime functions in Excel with
+B. 10M
+BL2 syntax and an example with output.
+Q6 . a ; .
+Explain the overall structure of EIS Software. Also, explain its relation with
+co1;s06; | A. a 10M
+organisational structure.
+BL2
+The study below-given data and solve questions using formulas in Excel,
+4A | B.. " c { D | E LF | Gc j
+1 |Branch City Customer type Gender Product line Unit price Quantity
+2|A Yangon Member Female Health and beauty 74.69 7
+3 |c Naypyitaw Normal Female Electronic accessories 15.28 5 -
+4A Yangon Normal Male Home and lifestyle 46.33 7
+SA Yangon Member Male Health and beauty 58.22 8
+6 IA Yangon Normal Female Sports and travel 86.31 7
+7I\c Naypyitaw Normal Male Electronic accessories 85.39 7
+02: S06; BIA Yangon Member Female Electronic accessories 68.84 6
+io , B 9 IC Naypyitaw Normal Female Home and lifestyle 73.56 10 10M
+BL2 10jA Yangon Member Female Health and beauty 36.26 2
+
+1) Write steps to count total quantities purchased by male customers.
+
+2) Calculate the sale price in column H from the unit price and quantity
+purchased.
+
+3) Find a branch with maximum sales in Cell A12 using the sales price.
+
+4) Find Total sales of the Health and Beauty segment of the product line
+
+Cy
+--- page 3 ---
+Q7
+
+Explain the roles of Information Systems in the military.
+A. 10M
+
+CO1; S06;
+ana Explain various risks and their management in handling the above data.
+C02; SO7; The study below-given data and solve questions using formulas in Excel,
+
+1 | Name IT oc BC EVS sp Total | Average
+
+2 | Suresh 60 56 65 44 45
+
+3 | Aneesh 70 70 66 54 56
+
+4 | Rohini 72 70 70 64 66
+
+S| Ravi 80 72 75 71 76
+
+6 | Aditya 87 78 82 18° 16
+
+B. 7 | Highest 10M
+
+1) Write steps to total marks in column G and average in Column |.
+
+2) Write steps to get the best of 4 subject marks average in Column J.
+
+3) Steps to print the Name of a student with the highest marks in subjects
+(B7 to F7).
+
+4) How will you find a subject with bad performance?
+````
+
 ## 2023-24 · Final-Exam · Sem 1 · paper 8089d419f08b
 
 - Departments: Common (all branches)
@@ -768,6 +905,107 @@ S| Oscar 25000 10M
 3. Calculate Total as (BasictHRA+DA)
 
 4. Tax is 25% if income above Slacs or else tax is 25000.
+````
+
+## 2022-23 · Re-Exam · Sem 1 · paper 6ed18940736e
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B TECH/3__1ST YEAR.zip :: I SEMESTER/INTRODUCTION TO BUSINESS ANALYTICS & BUSINESS INTELLIGENCE/Introduction_to_Business_Analytics_and_Business__1st_Year__Sem-I__Year_2022-23__Re_Exam_F9gUTYVzfr.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 January 2023
+- Text: ocr (2 pages), mean OCR confidence 86.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+IL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+
+HOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2022-23
+
+Programme: B.Tech (CSE Data Science) Year: I Semester: I
+Subject: Introduction to Business Analytics and Business Intelligence
+
+Marks: 100
+Date: 09 January 2023 Time: 11.00 am - 2.00 pm
+
+Durations: 3 (Hrs)
+
+No. of Pages: O 2
+Final Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+(— 1) Question No. | is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. :
+
+Ql Answer briefly:
+C01; S01; BL1 a Write a note on CRM system. [5]
+02; 506; BL2 | D- Explain what-if analysis using one example of Solver. {5]
+€03;S07;BL1 | © Write a note on; Message Box and Radio box [5]
+04; 50-4; BL2 | d- Explain various ethics to handle Banking related data. [5]
+Q2 a. Explain implementation phases of EIS for EHR (Electronic health records) ? Discuss the risk 110)
+C01; 504; BL4 associated? Suggest solutions for risk mitigation ?
+f~ CO3;S06;BL6 | b. Design a Dashboard for national Vaccination Program. [10]
+(Dataset Details, Insights of data, Design of Dashboard)
+Q3 a. Write a steps to create a macro to currency conversion from dollar to rupee, accept the amount in [10]
+C03; S04; BL4 dollar in A3 and conversion rate in B3 give output in cell c3 based on command button.
+(1. Design | 2. Properties | 3.Code)
+CO3;SO6; BLE | b. Design a Dashboard for computer hardware company profit data. [10]
+(Dataset Details, Insights of data, Design of Dashboard)
+Q4 a. Explain any S Number Excel functions with suitable data example. [10]
+
+CO2; SO7; BL2 (Syntax | Example | Uses)
+
+1p
+--- page 2 ---
+CO2; SO7; BL2
+
+Study Excel data as given below, [10]
+4 [Branch City Customer type Gender Product line Unit price Quantity
+2ta Yangon Member Female Health and beauty 74.69 7
+3 |c Naypyitaw Normal Femaie Electronic accessories 15.28 S
+ala Yangon Normal Male Home and lifestyle 46.33 7
+5 }A Yangon Member Male Health and beauty 58.22 8
+6 |A Yangon Normal Female Sports and travel 86.31 7
+zIc Naypyitaw Normal Male Electronic accessories 85.39 7
+ala Yangon ‘Member Female Electronic accessories 68.84 6
+afc Naypyitaw ‘Normal Female Home and lifestyle 73.56 10
+rola Yangon | Member Female Health and beauty 36.26 2
+1) Write steps to count female customers
+2) Calculate to sale price in column H and find maximum sale amount in cell 12
+3) Find branch with lowest sales
+Qs Write a note on Pivot tables and use of slicers in Excel. [10}
+CO2; SO6; BL2
+CO2; SO6; BL3 Write a note on HLookup, Viookup and lookup formulas using sample data example. [10]
+Q6 Explain new trends in EIS Software. Also explain its critical success factors. [10]
+CO1; SO6; BL2 .
+CO-2; SO-; BL- Study following Data table, {10}
+1 | NAME BASIC °| HRA DA TOTAL | TAX
+2 Gopal 30000
+3 | Somdev 20000 °
+4 | Rehman 22100
+S| Oscar 25000
+1. HRA is 35% of basic or 10000 whichever greater
+2. DA is 115% of basic or 20000 whichever minimum
+3. Calculate Total as (Basic+HRA+DA)
+4. Tax is 10% if income above 3lacs or else tax is 2000.
+Q7 Write a note on,
+C01; $01; BL1 Roles and responsibilities of EIS [5]
+CO2; SO6; BL2 Advanced sorting in Excel [5]
+C03; SO7; BL2 Use of dashboards for visualizing information [5]
+C04; S04; BL2 Ethics in Information System [5]
+
+Ne
+
+2/2
 ````
 
 ## Year not stated · Re-Exam · Sem 1 · paper 1f9b27cc0bf6

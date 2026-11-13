@@ -2,6 +2,735 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 7fcfb9ca560a
+
+- Departments: Commerce
+- Programmes: MASTER OF COMMERCE (BANKING & FINANCE) - 45702
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/MASTER OF COMMERCE (BANKING & FINANCE) - 45702/Financial Derivatives/ANS_Final-Exam_Financial Derivatives(NJFID555)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 28 Mar 2026
+- Text: text (6 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: MASTER OF COMMERCE (BANKING & FINANCE)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Financial Derivatives
+Date: 28 Mar 2026   Time: 08:00 am - 10:00 am (02:00 Hrs.)
+Max Marks: 60
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 6 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use of Simple Calculator is Allowed
+1.   Short Futures – Crude Oil   15
+Futures price of crude oil = ₹6,500 per barrel
+Contract size = 100 barrels
+Position taken = Short futures
+Pay-off Table
+Settlement Price (₹/barrel) Profit / Loss per Barrel (₹) Total Pay-off (₹)
+5,800   6,500 − 5,800 = 700 70,000 Profit
+6,000   6,500 − 6,000 = 500 50,000 Profit
+6,300   6,500 − 6,300 = 200 20,000 Profit
+6,500   6,500 − 6,500 = 0   No Profit / No Loss
+6,700   6,500 − 6,700 = –200 20,000 Loss
+7,000   6,500 − 7,000 = –500 50,000 Loss
+Advantages and Disadvantages of Derivatives Market
+Derivatives are financial instruments whose value is derived from an underlying asset such as
+shares, commodities, currencies, or interest rates. While derivatives provide several benefits,
+they also involve certain limitations.
+Advantages of Derivatives Market
+Page 1 of 6
+--- page 2 ---
+1. Risk Management (Hedging)
+Derivatives help in protecting against price fluctuations in commodities, currencies, and
+securities by hedging price risk.
+2. Price Discovery
+Derivatives markets reflect future expectations of prices and help in efficient price discovery
+of the underlying assets.
+3. High Liquidity
+Standardized contracts and exchange trading ensure high liquidity and ease of entry and exit.
+4. Leverage
+Derivatives require a small margin compared to the contract value, allowing investors to
+control large positions with limited capital.
+5. Portfolio Diversification
+Investors can diversify their portfolios and reduce overall risk using different derivative
+instruments.
+6. Lower Transaction Costs
+Compared to cash markets, derivatives generally involve lower transaction and carrying costs.
+Disadvantages of Derivatives Market
+1. High Risk
+Leverage magnifies losses as well as profits, making derivatives highly risky for
+inexperienced investors.
+2. Complexity
+Derivative instruments and strategies are complex and difficult to understand for retail
+investors.
+3. Speculative Nature
+Excessive speculation can increase market volatility and cause instability.
+4. Margin Calls
+Adverse price movements may lead to margin calls, forcing traders to deposit additional
+funds.
+5. Systemic Risk
+Improper use of derivatives can lead to large losses affecting the financial system as a whole.
+6. Limited Suitability
+Derivatives may not be suitable for small or conservative investors due to their risk profile.
+2.   Theoretical futures price:   15
+F₀ = S₀ (1 + rT)
+F₀ = 1,000 × (1 + 0.10 × 0.5)
+F₀ = 1,000 × 1.05
+F₀ = ₹1,050
+Page 2 of 6
+--- page 3 ---
+The market futures price (₹1,030) is below the theoretical futures price (₹1,050). Hence,
+reverse cash-and-carry arbitrage is possible.
+Strategy: Sell the share in the spot market at ₹1,000, invest ₹1,000 at 10% p.a., and
+simultaneously buy the futures contract at ₹1,030 to deliver the share at maturity.
+Amount after 6 months = 1,000 × 1.05 = ₹1,050
+Profit = Amount received − Futures price = 1,050 − 1,030 = ₹20 per share
+Hence, arbitrage profit = ₹20 per share.
+Basis Risk:
+Basis risk arises in futures and hedging when the difference between the spot price of an asset
+and the futures price (called the basis) does not remain constant. Even if a hedger takes a
+position in the futures market to offset risk in the spot market, fluctuations in the basis can
+lead to imperfect hedging.
+Basis = Spot Price − Futures Price
+It occurs because the spot and futures prices may move differently due to factors like supply-
+demand, interest rates, or time to maturity.
+Example: If an investor hedges a stock purchase using futures, but the futures price moves
+slightly differently than the stock, there is still some risk—this is basis risk.
+Contango:
+Contango is a market condition where the futures price is higher than the expected future spot
+price. In other words, futures prices are above the current spot price, usually because of
+carrying costs such as storage, insurance, and financing.
+It is typical in commodity markets.
+It suggests that the market expects the spot price to rise over time or that holding the asset
+involves costs.
+Example: Spot price of oil = $80, 3-month futures price = $85 → market is in contango.
+Backwardation:
+Backwardation is the opposite of contango. It occurs when the futures price is below the
+expected future spot price, or futures prices are below the current spot price.
+It often occurs when there is a current shortage of the commodity or strong demand in the
+spot market.
+Example: Spot price of gold = $2,000, 6-month futures price = $1,980 → market is in
+backwardation.
+In backwardation, holding the commodity now is more valuable than the futures contract.
+3.   Buy a Call @ 4100 Premium = Rs (-) 170   15
+Sell a Call @ 4200 Premium = Rs (+) 35
+Break Even point = 4000+170-35 = 4135
+Page 3 of 6
+--- page 4 ---
+Spot Price Intrinsic Value Premium Pay-off Intrinsic Value Premium Pay-off Net Pay- Off
+3700   0   -170 -170   0   35 35   -135
+3800   0   -170 -170   0   35 35   -135
+3900   0   -170 -170   0   35 35   -135
+4000   0   -170 -170   0   35   35   -135
+4100   100   -170 -70   0   35 35   -35
+4135   135   -170 -35   0   35 35   0
+4200   200   -170 30   0   35 35   65
+4300   300   -170 130   -100   35   -65   65
+4400   400   -170 230   -200   35   -165   65
+4500   500   -170 330   -300   35   -265   65
+Up factor
+u = 1 + 0.10 = 1.10
+Down factor
+d = 1 − 0.10 = 0.90
+Time 0
+S₀ = 100
+Time 1
+Up: 100 × 1.10 = 110
+Down: 100 × 0.90 = 90
+Time 2
+Up–Up: 110 × 1.10 = 121
+Up–Down: 110 × 0.90 = 99
+Down–Down: 90 × 0.90 = 81
+Call Payoff = Max (0, S − K)
+At 121 → 121 − 100 = 21
+At 99 → 0
+At 81 → 0
+P=(1+r)−d/u-d
+p=1.05−0.90/1.10−0.90
+p = 0.75
+Option Value at Time 1
+At Up node (110):
+Cu=0.75(21)+0.25(0)/1.05=15
+At Down node (90):
+Page 4 of 6
+--- page 5 ---
+Cd=0.75(0)+0.25(0)/1.05=0
+Call Option Value at Time 0
+C0=0.75(15)+0.25(0)/1.05 = 10.71
+4.   In derivatives trading, clearing entities ensure that contracts traded on stock exchanges are   15
+cleared, settled, and guaranteed. They play a vital role in risk management, settlement
+assurance, and smooth functioning of the derivatives market by eliminating counterparty risk.
+Clearing Entities and Their Roles 1. Clearing Corporation / Clearing House Examples:
+NSCCL (NSE) ICCL (BSE) Roles: Acts as a central counterparty through novation
+Guarantees settlement of all derivative contracts Calculates daily obligations of members
+Collects margins and performs mark-to-market (MTM) settlement Manages defaults and
+systemic risk 2. Clearing Members (CM) Clearing members are authorized intermediaries
+responsible for clearing and settlement. Roles: Clear and settle trades for trading members
+and clients Maintain margins and collateral with clearing corporation Ensure compliance with
+clearing and settlement rules Monitor risk and positions of trading members 3. Trading
+Members (TM) Trading members execute trades on the exchange. Roles: Place buy and sell
+orders in derivatives contracts Collect margins from clients Ensure adherence to position
+limits and exchange rules Forward trade details to clearing members 4. Clients / Investors End
+users of derivatives such as hedgers, speculators, and arbitrageurs. Roles: Place derivative
+orders through trading members Provide required margins Bear profits and losses arising from
+derivative positions 5. Clearing Banks Banks appointed by the clearing corporation. Roles:
+Handle pay-in and pay-out of funds Transfer margins, MTM losses, and settlement amounts
+Ensure timely fund settlement 6. Depositories Examples: NSDL and CDSL Roles: Hold
+securities in dematerialized form Facilitate transfer of securities in physically settled
+derivative contracts Support settlement obligations 7. Regulator – SEBI SEBI oversees all
+clearing entities. Roles: Regulates clearing corporations and intermediaries Prescribes margin
+and risk management norms Ensures transparency, fairness, and investor protection.
+Page 5 of 6
+--- page 6 ---
+In India, trading in Futures and Options (F&O) is conducted through an electronic, screen-
+based trading system known as NEAT–F&O. NEAT–F&O Trading System NEAT stands for
+National Exchange for Automated Trading. Key Features: Fully automated, screen-based
+system Order-driven market Supports trading in: Index futures Index options Stock futures
+Stock options Operates on a price–time priority basis Provides nationwide, anonymous
+trading How It Works: Orders are placed electronically by trading members. The system
+automatically matches buy and sell orders. Best price orders are matched first; if prices are
+equal, earlier orders get priority. Integrated with clearing and settlement through NSCCL.
+Additional Points (for Exams): Introduced by NSE for derivatives trading in India. Ensures
+transparency, efficiency, and speed. Reduces manual errors and enhances market liquidity.
+Page 6 of 6
+````
+
+## 2025-26 · Final-Exam · Sem 10 · Answer key · paper ec0387203a3a
+
+- Departments: Information Technology
+- Programmes: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037
+- Source: `00_Original_Downloads/2025/76555__Semester X.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037/Financial Derivatives/ANS_Final-Exam_Financial Derivatives(702TF0I002)_Semester X_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
+- Text: mixed (12 pages), mean OCR confidence 31.1
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (COMP)/B. Tech (CSE - CS)/B. Tech
+(DS)/B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)/B. Tech
+(IT)/MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: III / V/Semester VI/Semester X(Exam Year: 2025-2026)
+Subject: Financial Derivatives
+Date: 16 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 12 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Figures in brackets on the right hand side indicate full marks.
+9. Assume Suitable data if necessary. Highlight your assumptions, if any, at the required places.
+Q1   Answer briefly.   Marks
+CO-1, SO-1, a   “Derivatives are instruments of risk transfer, not risk creation.” Discuss with 05
+BL-   examples.
+Understand
+Answer: (Reward 1 mark for every correct point)
+•   Derivatives transfer risk from risk-averse to risk-taking participants.
+• Hedgers reduce exposure (e.g., farmers using futures).
+•   Speculators assume risk in expectation of profit.
+• However, excessive leverage and misuse can amplify systemic risk.
+• Example: 2008 crisis showed misuse, not inherent fault of derivatives.
+•   Conclusion: Derivatives primarily transfer risk, but poor usage can create
+instability.
+CO-1, SO-1, b   A bank suffers a major financial loss due to a cyberattack that disrupted its 05
+BL-   payment systems for two days. Identify the type of risk and suggest control
+Understand   measures.
+& Apply
+Answer:
+Risk Identified: System/Technology Risk (Operational Risk) (1 mark)
+Issues: (2 marks)
+Weak cybersecurity infrastructure
+Lack of contingency planning
+Controls: (2 marks)
+Strong IT security systems and firewalls
+Regular audits and penetration testing
+Disaster recovery and backup systems
+CO-1, SO-1,   c   Explain the concept of a Futures Contract. Discuss its key features and how it
+BL-Analyse   differs from a forward contract. (5 Marks)
+********** 1 **********
+--- page 2 ---
+Answer
+1. Meaning of Futures (1 Mark)
+• A futures contract is a standardized agreement traded on an exchange to
+buy or sell an asset at a predetermined price on a future date.
+2. Key Features (2 Marks)
+1. Standardization – Contract size, expiry, and terms are fixed by the
+exchange.
+2. Exchange Traded – Traded on organized exchanges, ensuring
+transparency.
+3. Margin System – Initial and maintenance margins are required.
+4. Mark-to-Market (MTM) – Daily settlement of gains and losses.
+3. Futures vs Forward (2 Marks)
+1. Trading Platform
+o Futures: Exchange traded
+o Forward: Over-the-counter (OTC)
+2. Risk
+o Futures: Lower counterparty risk (clearing house guarantee)
+o Forward: Higher counterparty risk
+3. Flexibility
+o Futures: Standardized
+o Forward: Customized
+CO-1, SO-1, d   A put option has a strike price of ₹150. The spot price is ₹140.   05
+BL-Analyse   Explain the Put option from buyers and sellers prospective.
+Determine moneyness and intrinsic value.
+Answer:
+A put option gives the buyer (holder) the right, but not the obligation, to sell an
+underlying asset at a predetermined strike price on or before expiry. (1 mark)
+Buyer of Put Option (Holder) (1.5 marks)
+Position: Pays premium and buys the right to sell
+View: Bearish (expects price to fall)
+Payoff:
+Profit when Spot Price < Strike Price
+Loss limited to premium paid
+Seller of Put Option (Writer) (1.5 marks)
+Position: Receives premium and has obligation to buy
+View: Bullish/Neutral (expects price to stay same or rise)
+Payoff:
+Profit limited to premium received
+Loss occurs when Spot Price < Strike Price
+Since Spot (140) < Strike (150) = ITM Put Option (1 mark)
+Intrinsic Value = Strike – Spot = 150 – 140 = ₹10
+The put option is profitable with value ₹10
+Q2   20
+a   An Indian multinational corporation has significant exposure in British Pounds
+due to its operations in the United Kingdom. The current spot exchange rate is
+GBP/INR 115.00. Economic projections indicate that inflation in India will be
+around 7%, whereas inflation in the United Kingdom will be approximately 3%.
+********** 2 **********
+--- page 3 ---
+The company’s finance team wants to understand the theoretical foundation of
+forward rate determination and apply it to estimate future exchange rates for
+both long-term and short-term horizons.
+a) Derive the Fisher relationship used in determining forward exchange rates. (4
+marks)
+b)   Calculate   the   one-year   forward   exchange   rate.   (3   marks)
+c) Calculate the forward exchange rate for a 60-day period. (3 marks)
+Answer:
+b   A fund manager holds a diversified equity portfolio worth ₹50,00,000. The
+portfolio has a Beta (β) of 1.2. The current value of the stock index is 20,000, and
+each index futures contract is valued at ₹2,00,000.
+The fund manager expects market volatility and wants to hedge the portfolio
+using index futures.
+Required:
+1. Calculate the number of futures contracts required to hedge the
+portfolio.
+2.   If the market falls by 10%, compute:
+o Loss on portfolio
+o Gain on futures position
+3. Comment on the effectiveness of the hedge.   (10 Marks)
+Answer
+1. Number of Futures Contracts (4 Marks)
+Formula: N= β×Value of Portfolio/Value of One Futures Contract
+1.2 × 50,00,000   60,00,000
+𝑁=   =   = 30 𝑐𝑜𝑛𝑡𝑟𝑎𝑐𝑡𝑠
+2,00,000   2,00,000
+Sell 30 futures contracts (since hedging against fall)
+2. Gain/Loss Calculation (3 Marks)
+(a) Loss on Portfolio
+Market falls by 10%:
+𝐿𝑜𝑠𝑠= 50,00,000 × 10% × 1.2 = ₹6,00,000
+(b) Gain on Futures
+𝐺𝑎𝑖𝑛= 30 × (10% × 2,00,000) = 30 × 20,000 = ₹6,00,000
+3. Effectiveness of Hedge (3 Marks)
+•   Loss on portfolio = ₹6,00,000
+•   Gain on futures = ₹6,00,000
+Net Effect = Zero (Perfect Hedge
+********** 3 **********
+--- page 4 ---
+Q3   20
+a   A. An investor believes that the price of Reliance Industries Ltd. is unlikely to rise 10
+significantly in the near future. Based on this expectation, the investor
+decides to earn income by writing (selling) a call option. The strike price of
+the call option is ₹2,400, and the premium received is ₹30 per share. One lot
+consists of 100 shares, and the investor writes one lot of call options.
+At the time of maturity, the market price of the underlying stock may be
+₹2350, ₹2400, ₹2450, ₹2500, or ₹2550.
+You are required to calculate the net payoff for the call option writer at each
+of these possible prices and comment on the risk-return profile of the
+strategy.   [ 5 marks]
+B. A derivatives trader expects that the price of Larsen & Toubro (L&T) shares
+will not fall significantly in the short term. The trader writes put options with
+a strike price of ₹3,000 and receives a premium of ₹60 per share. Each lot
+consists of 25 shares, and the trader writes 4 lots.
+At maturity, the stock price may be ₹3100, ₹3000, ₹2950, ₹2900, and ₹2800.
+Calculate the net payoff for the trader at each price. [ 5 marks]
+Answers:
+A. Premium received = 30 × 100 = ₹3000
+Call Writer Payoff = Premium – Max(0, Spot – Strike)
+Spot Price   Net Payoff
+2350   3000
+2400   3000
+2450 3000 – 5000 = -2000
+2500   -7000
+2550   -12000
+Remarks: Limited profit (premium), unlimited loss.
+B.
+Premium = 60 × 25 × 4 = ₹6000
+Net
+Spot   Loss
+Payoff
+3100   0   6000
+3000   0   6000
+2950 50×100=5000   1000
+2900 100×100=10000   -4000
+-
+2800 200×100=20000
+14000
+b   An investor is analysing two securities, Security X and Security Y, based on 10
+different market scenarios. The expected returns and probabilities are as follows:
+********** 4 **********
+--- page 5 ---
+Market Scenario Probability Return X (%) Return Y (%)
+Scenario 1   0.25   16   11
+Scenario 2   0.50   12   10
+Scenario 3   0.25   8   9
+Required:
+1. Calculate the Expected Return of both securities.
+2. Calculate the Standard Deviation of returns for both securities.
+3. Suggest which security is more consistent and justify.   (10 Marks)
+1. Expected Return (3 Marks)
+Formula:
+𝐸(𝑅) = ∑(𝑃× 𝑅)
+Security X
+= (0.25 × 16) + (0.50 × 12) + (0.25 × 8)
+= 4 + 6 + 2 = 12%
+Security Y
+= (0.25 × 11) + (0.50 × 10) + (0.25 × 9)
+= 2.75 + 5 + 2.25 = 10%
+2. Standard Deviation (5 Marks)
+Formula:
+𝜎= √∑𝑃(𝑅−𝑅ˉ)2
+Security X
+Return   Deviation (R−12)   Square   P × Square
+16   4   16   4
+12   0   0   0
+8   -4   16   4
+𝑉𝑎𝑟𝑖𝑎𝑛𝑐𝑒= 8 ⇒𝜎= √8 = 2.83%
+Security Y
+Return   Deviation (R−10)   Square   P × Square
+11   1   1   0.25
+10   0   0   0
+9   -1   1   0.25
+𝑉𝑎𝑟𝑖𝑎𝑛𝑐𝑒= 0.5 ⇒𝜎= √0.5 = 0.71%
+3. Consistency Decision (2 Marks)
+•   Security X: Higher return (12%) but higher variability (2.83%)
+•   Security Y: Lower return (10%) but very low variability (0.71%)
+Conclusion:
+•   Security Y is more consistent due to lower standard deviation.
+Q4   20
+a   “Options are considered superior hedging instruments compared to forwards and 10
+futures.” Evaluate this statement with examples. [10 marks]
+Derivative instruments are widely used for hedging risk. Among them, options are
+often considered superior due to their flexibility and limited risk exposure.
+However, this superiority must be evaluated critically.
+Flexibility of Options
+********** 5 **********
+--- page 6 ---
+Options provide the right but not the obligation to execute a contract.
+Example:
+An investor buys a put option to protect against a fall in share price.
+If price falls, he exercises the option.
+If price rises, he ignores the option and benefits from the market.
+This ensures downside protection and upside participation.
+Forwards are binding contracts with no flexibility.
+Options allow the investor to choose whether to exercise.
+Hence, options are more flexible than forwards
+Futures involve daily settlement and unlimited loss potential.
+Options limit loss to the premium paid.
+Thus, options provide risk limitation.
+Options require payment of premium, making them costly.
+Not always suitable for all hedging needs.
+b   A. Mr. C goes long in a Futures Contract on HDFC Bank shares at a strike price of
+₹1,200 per share. Compute the P&L if spot prices at expiry range from ₹900
+to ₹1,500 in multiples of ₹100. Illustrate the payoff diagram. [5 marks]
+Spot
+Price   P&L (₹)
+(₹)
+900   -300
+1000   -200
+1100   -100
+1200   0
+1300   100
+1400   200
+1500   300
+Straight line starting from loss region to profit region
+Break-even will be ₹1,200
+B. Mr. Ram shorts a Futures Contract on TCS Ltd at a strike price of ₹900 per
+share.
+Compute the P&L for spot prices ranging from ₹650 to ₹1150 in multiples of
+₹50. Draw the payoff diagram. [5 marks]
+P&L = 900 – Spot Price
+Spot
+Price   P&L (₹)
+(₹)
+650   250
+700   200
+750   150
+800   100
+850   50
+********** 6 **********
+--- page 7 ---
+900   0
+950   -50
+1000   -100
+1050   -150
+1100   -200
+1150   -250
+BEP = 900
+Q5   20
+a   Q.
+A trader expects a significant movement in the price of a stock, currently trading
+at ₹100, but is uncertain about the direction. The trader adopts a Long Strangle
+strategy using the following options:
+• Buy a Call option with Strike Price ₹105 at a premium of ₹4
+• Buy a Put option with Strike Price ₹95 at a premium of ₹3
+Required:
+1. Explain the Long Strangle strategy and its structure.
+2. Calculate the total cost and breakeven points.
+3. Determine the profit or loss if the stock price at expiry is:
+o ₹85
+o ₹100
+o ₹120
+4. Comment on the suitability and risk of the strategy. (10 Marks)
+Answer
+1. Strategy Explanation (3 Marks)
+• A Long Strangle is a non-directional options strategy used when large
+price movement is expected.
+•   It involves:
+1. Buying an OTM Call option
+2. Buying an OTM Put option
+• Both options have:
+1. Same expiry
+2. Same underlying asset
+Profit arises when price moves sharply beyond either strike price. 2.
+Total Cost & Breakeven (3 Marks)
+Step 1: Total Premium Paid
+= 𝟒+ 𝟑= ₹𝟕
+Step 2: Breakeven Points
+• Upper BEP = Call Strike + Premium = 105 + 7 = ₹112
+• Lower BEP = Put Strike − Premium = 95 − 7 = ₹88
+3. Profit/Loss Calculation (2 Marks)
+Case 1: Price = ₹85
+•   Call payoff = 0
+•   Put payoff = 95 − 85 = 10
+• Net Profit = 10 − 7 = ₹3 (Profit)
+Case 2: Price = ₹100
+•   Call payoff = 0
+•   Put payoff = 0
+• Net Loss = ₹7 (Maximum Loss)
+Case 3: Price = ₹120
+•   Call payoff = 120 − 105 = 15
+•   Put payoff = 0
+• Net Profit = 15 − 7 = ₹8 (Profit)
+********** 7 **********
+--- page 8 ---
+4. Suitability & Risk (2 Marks)
+•   Suitable when high volatility is expected, but direction is uncertain.
+• Maximum loss = Total premium (₹7)
+•   Profit potential = Unlimited (upside) and substantial (downside)
+b   Q.A
+An option has a current Delta of 0.50 and Gamma of 0.04. The price of the
+underlying asset increases by ₹5.
+Required:
+1. Calculate the new Delta after the price change.
+2. Interpret the impact of Gamma on Delta. (5 Marks)
+Q.B
+Explain the concept of Theta (Θ) in options. Discuss its characteristics and
+its impact on option pricing with respect to time to expiry. (5 Marks)
+A. Calculation of New Delta (3 Marks)
+Change in Delta=Gamma×Change in Price
+𝑁𝑒𝑤 𝐷𝑒𝑙𝑡𝑎= 0.50 + 0.20 = 0.70
+2. Interpretation (2 Marks)
+1. Gamma shows how quickly Delta changes with price movement.
+2. A higher Gamma results in larger changes in Delta, increasing sensitivity
+and risk.
+B. 1. Meaning of Theta (1 Mark)
+Theta measures the rate of change of option price with respect
+to time (time decay).
+2. Nature of Theta (1 Mark)
+Theta is generally negative for option buyers and positive for
+option sellers.
+3. Time Decay Effect (1 Mark)
+Option value declines as time passes, even if price remains
+unchanged.
+4. Behaviour Near Expiry (1 Mark)
+Time decay becomes very rapid as expiry approaches, especially
+for ATM options.
+5. Practical Implication (1 Mark)
+Buyers lose value due to time decay, while sellers benefit from it.
+Q6
+a   Q.
+A financial analyst is examining the relationship between spot and forward
+exchange rates using the Interest Rate Parity (IRP) theory. The following data is
+available:
+•   Spot Exchange Rate (₹/$) = ₹83 per USD
+•   Interest Rate in India = 6% p.a.
+********** 8 **********
+--- page 9 ---
+•   Interest Rate in USA = 3% p.a.
+• Time Period = 1 year
+Required:
+1. State the Interest Rate Parity (IRP) theory and its formula.
+2. Calculate the theoretical forward exchange rate.
+3.   If the actual forward rate is ₹85 per USD, identify whether an arbitrage
+opportunity exists.
+4. Suggest the arbitrage strategy to exploit the opportunity. (10 Marks)
+Answer
+1. IRP Theory & Formula (2 Marks)
+•   Interest Rate Parity states that the difference in interest rates between
+two countries is reflected in the forward exchange rate.
+(1+𝑖𝑑𝑜𝑚𝑒𝑠𝑡𝑖𝑐)
+• 𝐹= 𝑆×
+(1+𝑖𝑓𝑜𝑟𝑒𝑖𝑔𝑛)
+Calculation of Forward Rate (4 Marks)
+1.06
+𝐹= 83 ×
+1.03
+= 83 × 1.0291 = ₹85.41
+Theoretical Forward Rate ≈ ₹85.41 per USD
+Arbitrage Identification (2 Marks)
+•   Theoretical Rate = ₹85.41
+• Market Forward Rate = ₹85
+Observation:
+• Forward rate is underpriced
+Arbitrage Opportunity Exists
+Arbitrage Strategy (2 Marks)
+Steps:
+1. Borrow USD (lower interest rate = 3%)
+2. Convert USD to INR at spot rate (₹83)
+3. Invest in India at 6%
+4. Enter forward contract to buy USD at ₹85
+5. At maturity:
+o Investment grows at higher rate
+o Repay USD loan at lower rate
+o   Profit arises from rate difference
+b   Q.
+A European Call and Put option on a non-dividend paying stock have the following
+details:
+•   Current Stock Price (S) = ₹120
+•   Strike Price (K) = ₹110
+• Time to Expiry (T) = 1 year
+•   Risk-free Interest Rate (r) = 10% p.a.
+• Market Price of Call Option (C) = ₹15
+• Market Price of Put Option (P) = ₹5
+Required:
+1. State the Put–Call Parity relationship.
+2. Verify whether the given option prices satisfy the parity condition.
+3.   If not, identify the arbitrage opportunity.
+4. Suggest the arbitrage strategy with steps. (10 Marks)
+********** 9 **********
+--- page 10 ---
+Answer
+1. Put–Call Parity Formula (2 Marks)
+𝐶+ 𝐾𝑒−𝑟𝑇= 𝑃+ 𝑆
+2. Verification of Parity (4 Marks)
+Step 1: Calculate Present Value of Strike Price
+𝐾𝑒−𝑟𝑇= 110 × 𝑒−0.10
+𝑒−0.10 ≈0.9048
+= 110 × 0.9048 = ₹99.53
+Step 2: Compute LHS and RHS
+• LHS = C + PV(K) = 15 + 99.53 = ₹114.53
+• RHS = P + S = 5 + 120 = ₹125
+3. Arbitrage Identification (2 Marks)
+• LHS < RHS → ₹114.53 < ₹125
+Arbitrage Opportunity Exists
+4. Arbitrage Strategy (2 Marks)
+Steps:
+1. Buy Call + Invest PV(K)
+2. Sell Put + Sell Stock
+At maturity:
+•   Positions offset, and profit arises due to price mismatch
+Q7
+a   Q.
+An Indian importer enters into a forward contract with a bank to purchase USD
+1,00,000 at a forward rate of ₹84 per USD for delivery after 3 months.
+However, due to urgent payment requirements, the importer requests early
+delivery after 2 months. At that time, the following rates prevail:
+•   Spot Rate = ₹83.50 per USD
+• 1-month forward premium = ₹0.20
+Required:
+1. Explain the concept of an early delivery (forward cancellation and
+rebooking) in forex.
+2. Calculate the rate at which early delivery will be executed.
+3. Determine the gain or loss to the importer due to early delivery.
+4. Briefly explain why banks charge or adjust rates for early delivery. (10
+Marks)
+Answer
+1. Concept of Early Delivery (2 Marks)
+•   Early delivery occurs when a forward contract is settled before its original
+maturity.
+•   It involves:
+1. Cancellation of existing forward contract
+2. Rebooking at current applicable rates
+2. Calculation of Early Delivery Rate (4 Marks)
+Step 1: Adjust Spot Rate for Forward Premium
+Since 1 month is remaining:
+𝐴𝑑𝑗𝑢𝑠𝑡𝑒𝑑 𝑅𝑎𝑡𝑒= 𝑆𝑝𝑜𝑡+ 𝑃𝑟𝑒𝑚𝑖𝑢𝑚= 83.50 + 0.20 = ₹83.70
+********** 10 **********
+--- page 11 ---
+Early Delivery Rate = ₹83.70 per USD
+3. Gain/Loss Calculation (2 Marks)
+•   Original Contract Rate = ₹84
+•   Early Delivery Rate = ₹83.70
+𝑇𝑜𝑡𝑎𝑙 𝐺𝑎𝑖𝑛= 0.30 × 1,00,000 = ₹30,000
+Importer gains ₹30,000
+4. Reason for Adjustment (2 Marks)
+• Banks adjust rates due to:
+1. Interest rate differentials (cost of carry)
+2. Market movement in spot and forward rates
+3. Compensation for breaking original contract terms
+b   Q.
+A European Call option on a non-dividend paying stock has the following details:
+•   Current Stock Price (S) = ₹150
+•   Exercise Price (K) = ₹140
+•   Risk-free Interest Rate (r) = 6% p.a.
+• Time to Expiry (T) = 1 year
+•   Volatility (σ) = 25% p.a.
+Additional Data:
+• 𝑁(𝑑1) = 0.7791
+• 𝑁(𝑑2) = 0.6827
+Required:
+1. State the Black–Scholes formula for pricing a European Call option.
+2. Calculate the values of 𝑑1and 𝑑2.
+3. Compute the price of the Call option.
+4. Interpret the significance of 𝑁(𝑑1)and 𝑁(𝑑2). (10 Marks)
+Answer:
+1. Black–Scholes Formula (2 Marks)
+𝐶= 𝑆𝑁(𝑑1) −𝐾𝑒−𝑟𝑇𝑁(𝑑2)
+2. Calculation of 𝒅𝟏and 𝒅𝟐(3 Marks)
+ln⁡(150/140) + (0.06 + 0.5 × 0.252)
+𝑑1 =
+0.25
+ln⁡(1.0714) + (0.06 + 0.03125)
+=
+0.25
+0.069 + 0.09125   0.16025
+=   =   = 0.641
+0.25   0.25
+𝑑2 = 𝑑1 −𝜎= 0.641 −0.25 = 0.391
+3. Call Option Price (3 Marks)
+𝐶= 150 × 0.7791 −140 × 𝑒−0.06 × 0.6827
+𝑒−0.06 ≈0.9418
+= 116.87 −(140 × 0.9418 × 0.6827)
+= 116.87 −90.05 = ₹26.82
+4. Interpretation (2 Marks)
+1. 𝑁(𝑑1): Measures Delta (hedge ratio) of the option.
+2. 𝑁(𝑑2): Represents risk-neutral probability of exercise.
+********** 11 **********
+--- page 12 ---
+FRR ICR] DA KH
+````
+
 ## 2025-26 · Final-Exam · Sem 6 · Answer key · paper 163e25e0a4fe
 
 - Departments: AI and Data Science
@@ -5329,7 +6058,7 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/Integrated_Computer_7032/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Dec 2025
 - Text: mixed (5 pages), mean OCR confidence 32.9
-- 17 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -5471,6 +6200,7 @@ iGo. | Of   jote]O fr ily ©} via] wins
 (be | Of! tof Oo falty fo [ev [yt Th
 \Fo |o L-lo/—te] © FH /ty|f} oe] & | =h
 acl s [-to] ~S | Ova yg hy oO is} +14
+feo fie} » | © lola! mi ota i"| [+9
 lap |22) Ae |e 4-6 Oo} -s =|
 
 Doo | 30}—12/) do fol 1 lo |-o S
@@ -5494,7 +6224,7 @@ FEISS (5 FC ICRF
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/Integrated_DS_7038/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Dec 2025
 - Text: mixed (5 pages), mean OCR confidence 32.9
-- 17 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -5636,6 +6366,7 @@ iGo. | Of   jote]O fr ily ©} via] wins
 (be | Of! tof Oo falty fo [ev [yt Th
 \Fo |o L-lo/—te] © FH /ty|f} oe] & | =h
 acl s [-to] ~S | Ova yg hy oO is} +14
+feo fie} » | © lola! mi ota i"| [+9
 lap |22) Ae |e 4-6 Oo} -s =|
 
 Doo | 30}—12/) do fol 1 lo |-o S
@@ -5659,7 +6390,7 @@ FEISS (5 FC ICRF
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/Integrated_IT_7037/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Dec 2025
 - Text: mixed (5 pages), mean OCR confidence 32.9
-- 17 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -5801,6 +6532,7 @@ iGo. | Of   jote]O fr ily ©} via] wins
 (be | Of! tof Oo falty fo [ev [yt Th
 \Fo |o L-lo/—te] © FH /ty|f} oe] & | =h
 acl s [-to] ~S | Ova yg hy oO is} +14
+feo fie} » | © lola! mi ota i"| [+9
 lap |22) Ae |e 4-6 Oo} -s =|
 
 Doo | 30}—12/) do fol 1 lo |-o S
@@ -5824,7 +6556,7 @@ FEISS (5 FC ICRF
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/Integrated_Mechanical_7031/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Dec 2025
 - Text: mixed (5 pages), mean OCR confidence 32.9
-- 17 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -5966,6 +6698,7 @@ iGo. | Of   jote]O fr ily ©} via] wins
 (be | Of! tof Oo falty fo [ev [yt Th
 \Fo |o L-lo/—te] © FH /ty|f} oe] & | =h
 acl s [-to] ~S | Ova yg hy oO is} +14
+feo fie} » | © lola! mi ota i"| [+9
 lap |22) Ae |e 4-6 Oo} -s =|
 
 Doo | 30}—12/) do fol 1 lo |-o S
@@ -7585,7 +8318,7 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_DS_7009/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12 Feb 2026
 - Text: mixed (4 pages), mean OCR confidence 39.1
-- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -7708,6 +8441,7 @@ a Foy (,{.cc000 —> Corners (ol. Baer
 
 One Ya |
 ae Goss See" As a 8) |
+— Few &\. asso Orne Yeo Pwd 3.
 
 O QT:
 + \o ,oe0 Frot Les a, 46, S4, see
@@ -7728,7 +8462,7 @@ HRRRRRRRRRE [RRR R EE
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_IT_7001/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12 Feb 2026
 - Text: mixed (4 pages), mean OCR confidence 39.1
-- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -7847,6 +8581,7 @@ a Foy (,{.cc000 —> Corners (ol. Baer
 
 One Ya |
 ae Goss See" As a 8) |
+— Few &\. asso Orne Yeo Pwd 3.
 
 O QT:
 + \o ,oe0 Frot Les a, 46, S4, see
@@ -9613,7 +10348,7 @@ exercised
 - Source: `02_Question_Papers/2025/Sem_09/Re-Exam/Integrated_Computer_7032/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12 Feb 2026
 - Text: mixed (4 pages), mean OCR confidence 39.1
-- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -9736,6 +10471,7 @@ a Foy (,{.cc000 —> Corners (ol. Baer
 
 One Ya |
 ae Goss See" As a 8) |
+— Few &\. asso Orne Yeo Pwd 3.
 
 O QT:
 + \o ,oe0 Frot Les a, 46, S4, see
@@ -9756,7 +10492,7 @@ HRRRRRRRRRE [RRR R EE
 - Source: `02_Question_Papers/2025/Sem_09/Re-Exam/Integrated_DS_7038/Financial Derivatives/ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12 Feb 2026
 - Text: mixed (4 pages), mean OCR confidence 39.1
-- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -9879,6 +10615,7 @@ a Foy (,{.cc000 —> Corners (ol. Baer
 
 One Ya |
 ae Goss See" As a 8) |
+— Few &\. asso Orne Yeo Pwd 3.
 
 O QT:
 + \o ,oe0 Frot Les a, 46, S4, see

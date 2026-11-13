@@ -537,7 +537,6 @@ details of the organization there
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/MANAGEMENT OF INNOVATION/Management of Innovation 2013-14 Final.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 02/12/2013
 - Text: ocr (4 pages), mean OCR confidence 91.5
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 git UTE oF May mu
@@ -700,6 +699,7 @@ _ Shuldiner, Corning and the Craft of Innovation (Oxford: Oxford University Pres
 
 sineneitioeme sien
 
+sanessenssR eNOS Aga EIS NENTLLE OA
 --- page 4 ---
 a
 i ANTOTE OF ay,

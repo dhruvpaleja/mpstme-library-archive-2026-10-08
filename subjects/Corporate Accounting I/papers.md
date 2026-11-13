@@ -1,0 +1,223 @@
+# Corporate Accounting I: question papers in full
+
+4 unique papers · 2025-26 to 2025-26 · Commerce
+
+Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 1 · paper c7397bc4aff6
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Management and Finance) - 45615
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce (Management and Finance) - 45615/Corporate Accounting I/QP_Final-Exam_Corporate Accounting I(NECPA107)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 11 Oct 2025
+- Text: mixed (3 pages), mean OCR confidence 94.2
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Commerce (Management and Finance)/Bachelor of
+Commerce(Management and Finance)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Corporate Accounting I
+Date: 11 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. All Questions are Compulsory
+5. Use of Simple Calculator is Allowed
+6. Working Notes should Form part of your answers
+1.   Answer the following   15
+10
+Page 1 of 3
+--- page 2 ---
+Fida Pvt Ltd. was incorporated on 1** August 2018. This company agreed to take over
+business of Ada & Co. as going concern with effect from 1* April 2018.
+
+The Profit and Loss Account for the year ended 31*t March 2019 is given below:
+
+Particulars z Particulars z
+To Administrative Staff Salaries 1,68,000 | By Gross Profit 6,00,000
+To Rent 1,60,000
+To Electricity Charges 30,000
+To Advertisement 21,000
+To Bad Debts 5,000
+To Commission on Sales 33,000
+To Preliminary Expenses w/off 7,000
+To Interest on Debentures 3,000
+To Interest on Purchase
+
+Consideration 6,000
+To Net Profit 1,67,000
+
+6,00,000 6,00,000
+
+Total
+
+Additional Information:
+1. Sales for pre-incorporation period were % 5,00,000 which were 1/3 of the total sales.
+2. Rent from 1* August, 2018 was increased by 7 5,000 p.m.
+3. Salaries to administrative staff was increased by 7 3,000 p.m. w-e-f. 1% August 2018.
+4. Bad Debts are from the debtors relating to the month of March, 2018.
+5. Purchase Consideration was paid on 30% September, 2018.
+
+Prepare Statement showing Profit and Loss for the year ended 31% March, 2019
+appropriating all Income and expenditure items between Pre-incorporation and Post
+incorporation period on suitable basis
+
+BC Ltd had 3,600 equity shares outstanding as on 01/01/2024 fully paid of Rs 10 each. On
+31st October, 2024 it issued 1,200 equity shares of Rs 10 each, Rs 4 paid up. Calculate
+weighted average number of equity shares as on 3 1*t December 2024.
+
+Company closes its books on 31st December
+
+Page 2 of 3
+
+15
+--- page 3 ---
+From the following information prepare statement of profit and loss as per schedule III of
+Companies Act, 2013 for the year ended 31st March 2023 for Pilot Ltd
+
+Particulars Amount (Rs)
+Revenue from operations 10,00,000
+Opening stock of finished goods 20,000
+Interest received on fixed deposit 30,000
+Sales return 20,000
+Purchases of raw materials 1,20,000
+Purchase return 20,000
+Freight on raw material 30,000
+Salaries and wages 40.000
+Miscellaneous income 58,000
+Bonus to employees 62,000
+Depreciation 46,000
+Interest paid on debenture 20,000
+Interest paid on bank loan 25,000
+Repairs and Maintenance 10,000
+Electricity charges 35,000
+Advertisement expense 20,000
+
+Additional information:
+
+1. Closing stock of finished goods is Rs 35,000 as on 31.3.2023.
+
+2. Outstanding advertisement expense is 10,000 as on 31.3.2023.
+
+3. Provide Rs 5,000 for bad debts and Rs 2,000 for provision for doubtful debts.
+
+4. Tax of Rs. 2,03,400 to be provided
+
+Page 3 of 3
+````
+
+## 2025-26 · Re-Exam · Sem 1 · paper 2cf62e1c63da
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Management and Finance) - 45615
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Commerce (Management and Finance) - 45615/Corporate Accounting I/QP_Re-Exam_Corporate Accounting I(NECPA107)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 22 Jan 2026
+- Text: mixed (3 pages), mean OCR confidence 94.7
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.Com (M & F)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Corporate Accounting I
+Date: 22 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. All Questions are Compulsory
+5. Use of Simple Calculator is Allowed
+6. Working Notes should Form part of your answers
+1.   Answer the following   15
+10
+Page 1 of 3
+--- page 2 ---
+Sachin Ltd. was incorporated to take over the running business of Tendulkar Bros. w.e.f. Ist April, 2022.
+The company was incorporated on Ist August, 2022. The following information was available from the
+books of accounts which were closed on 31st March, 2023.
+
+Particulars z
+Gross Profit 3,50,000
+Less: Office Salaries 1,35,000
+
+Office Expenses 45,000
+
+Travelling Expenses 24,600
+
+Office Rent 48,000
+
+Salesman’s Commission 24,500
+
+Depreciation 10,500 2,87,600
+Net Profit 62,400
+
+Additional Information:
+
+1. Sales were = 2,50,000 p.m. during pre - incorporation period, while total sales for
+the year were = 35,00,000.
+
+2. Office rent was = 42,000 p.a. It became @ 54,000 p.a. from 1:t October,2022.
+
+3. Travelling expenses included 23,600 incurred by the office staff and balance by
+the sales staff.
+
+4. Depreciation included = 3,000 for the asset acquired in post-incorporated period.
+
+5. Salaries included Partner's salaries 730,000 while the remaining salary was for the
+office staff.
+
+Prepare Statement of Profit and Loss for the year ended 31st March, 2023 in the columnar
+form showing profit or loss during the Pre-incorporation and post-incorporation period
+separately.
+
+On 1-1-24 Kavya Ltd held 5,00,000 shares. On 1-03-24, rights issue is announced, 1 new share
+for each 5 shares outstanding at Rs 15 per share. Fair Value of 1 equity share immediately
+before the right issue was Rs 21. Net profit for the year 2023 = Rs 11,00,000. Net profit for the
+year 2024 = Rs 15,00,000.
+
+Calculate number of right shares issued and bonus part of it.
+
+Company closes its accounts on 31st December.
+
+Page 2 of 3
+
+15
+--- page 3 ---
+Following is Trial Balance of Deva Ltd as on 31.03.2020.
+
+Debit balances Rs. Credit balances Rs.
+
+Fixed assets (Net Block) 7,50,000 | Equity share capital (Rs 10 each fully paid) 4,40,000
+Long Term Investments 2,50,000 | 9% Pref. shares capital (Rs 100 each fully paid) | 1,00,000
+Closing stock 3,75,000 | Profit and loss Balance 2,80,000
+Debtors 1,22,500 | Securities premium 30,000
+Staff advance 1,00,000 | Debentures redemption reserve 2,00,000
+Other Current Assets 45,000 | General reserve 75,000
+Advance to suppliers 27,500 | 8% Debentures 5,25,000
+Cash in hand 12,500 | Creditors 58,500
+Bank balance 1,10,000 | Bills payable 21,500
+Provision for taxation 62,500
+
+TOTAL 17,92,500 TOTAL 17,92,500
+
+Additional! information:
+
+1) Entire Authorized share capital has been issued and subscribed
+
+2) Of the debtor’s debts due for more than six months is Rs 22,500. All debts are unsecured
+and considered to be good.
+
+3) Ignore previous year's figure.
+
+After considering the above adjustments, prepare Balance sheet of the company as on
+31.3.2020 as per schedule III requirements.
+
+Page 3 of 3
+````

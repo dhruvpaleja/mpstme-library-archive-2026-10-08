@@ -1,8 +1,385 @@
 # Thermal Engineering: question papers in full
 
-35 unique papers · 2011-12 to 2019-20 · Mechanical
+44 unique papers · 2011-12 to 2022-23 · Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2022-23 · Re-Exam · Sem 6 · paper 361b1e45bcd0
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER VI/THERMAL ENGINEERING/Thermal_Enigneering_Batch_2021-22_Re_Exam0001_fI1e8N4rZO.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 88.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN?& ENGINEERING
+Academic Year: 2022-2023 Q Ne
+
+Program: BTI Stream ;Mechanical
+Subject: Thermals Engineering
+
+Date:_26 /04 / 2023 .
+Marks: 100
+
+Re-Examination (Batch 2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+
+& of the Answer Book, which is provided for their use.
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any 4 _ questions.
+3) In all_5_ questions to be attempted.
+4) All questions carry equal marks. :
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+8) Use of steam table and Mollier Diagram is permitted.
+Ql
+Answer briefly: [20]
+Co-1; a. . . .
+SO-1; Explain working of reciprocating air compressor. [4]
+© | BL-2
+CO- 2; b. . .
+SO-1; Explain stagnation enthalpy and stagnation temperature. [4]
+BL-2
+CO-3 ; c. . . .
+SO-1; Explain the effect of increasing boiler pressure in Rankine power cycle. [4]
+BL-2
+CO-3 ; d. . .
+SO-1; Explain working of Brayton cycle with p-V and T-s diagram. [4]
+BL-2
+CO- 2; Ci oo . .
+SO-1; 4 Draw velocity diagram at inlet and out of the blade of impulse steam turbine. [4]
+BL-2
+
+a. | A single-acting, single-cylinder reciprocating air compressor has a cylinder diameter [10]
+2
+% of 300 mm and a stroke of 400 mm. Air enters the cylinder at 1 bar; 27°C. It is then
+--- page 2 ---
+CO-1; SO- compressed polytropically to 9 bar according to the law pV'*= constant. If the speed
+23 p 3 «
+BL-3 of the compressor is 250 rpm, calculate the mass of air compressed per minute, and
+
+the power required in kW for driving the compressor.
+
+b. | Steam enters the turbine as 100% saturated vapour at 10 MPa and saturated liquid
+enters the pump at a pressure of 0. 01 MPa. If the heat added in the boiler is 150
+MW. Determine
+
+CO-3; SO- (a) the thermal efficiency, a0)
+a (b) the mass flow rate of the steam,
+
+(c) net rate of work transfer from the cycle,
+(d) work ratio,
+
+(e) specific steam consumption
+
+Q3 a. | Calculate the critical pressure and throat area per unit mass-flow rate of steam,
+
+CO-2; expanding through a _ convergent-divergent nozzle from 12 bar, dry 110]
+SO-2; BL- saturated, down to atmospheric pressure of lbar. Assume that the inlet velocity is
+
+3 negligible and that the expansion is isentropic. Take n =1.135
+
+CO-3; SO- | b. | A Diesel has a compression ratio of 18 and cut off takes place at 5% of the stroke.
+
+- BL- [10]
+3; BL2 Calculate the air-standard efficiency. Take y =1.4
+
+Q4CO-2; | a. | Air at 9 bar and 200°C expands at a 5kg/s through a convergent-divergent nozzle to
+
+SO-2; BL- an atmospheric pressure of 1.013 bar. Assuming that the inlet velocity is negligible, 110]
+3 calculate the throat and exit cross-section areas of the nozzle. Assuming one
+dimensional isentropic flow. Take R= 287 kJ/kg K , y =1.4
+Q4 b.
+CO-2; SO- Describe the various methods of compounding in an impulse turbine. [10]
+1; BL-3
+Q5 a.
+CO-2; SO- Derive the expression of thermal efficiency of Otto Cycle. [12]
+1; BL-2
+Q5 b. | 3 kg/s of air enters the LP cylinder of a two-stage, reciprocating air compressor. The
+Lh overall pressure ratio is 10. The air at inlet to compressor is at 100 kPa and 35°C. The
+3 index of compression in each cylinder is 1.3. Find the intercooler pressure for perfect [8]
+intercooling. Also, find the minimum power required for compression, and percentage
+‘ saving over single-stage compression.
+Q6 a. | A steam is supplied through a De-Laval turbine at a velocity of 1000 m/s at an angle
+
+{12]
+of 20°. The blade velocity is 300 m/s and the blades are symmetrical. The mass-flow
+--- page 3 ---
+CO-2; SO- rate of the steam is 1.5 kg/s. Allowing a friction factor of 0.85, determine.(a) Blade
+
+2; BL-3 efficiency(b) Power developed(c) Stage efficiency, if the nozzle efficiency is 96%
+
+oe so b. | With the help of schematic diagram explain the working of reheat Rankine cycle. [8]
+
+Q7 Answer the following [20]
+
+CO-3; SO- | a. | Describe working of Otto cycle. [4]
+
+1; BL-2
+
+CO-2; SO- | b. Explain choking of nozzle. [4]
+
+1; BL-2
+
+oe 50° ¢. | Define blade and stage efficiency of a steam turbine. [4]
+
+ee so d. Explain the reasons of providing clearance volume in reciprocating air compressor. [4]
+
+CO-1; SO- | &. | Explain the advantages of multi staging in reciprocating air compressor. [4]
+O |2:BL3 Pp g ging Pp g Pp
+````
+
+## 2021-22 · Final-Exam · Sem 6 · paper a43b8f8813b5
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER VI/THERMAL ENGINEERING/Thermal_Engineering_2021-22_Final0001_eWQh6sAxCh.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 19 April 2022
+- Text: ocr (3 pages), mean OCR confidence 90.8
+
+````text
+; SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EI
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE! NY
+
+Academic Year: 2021-22
+
+Programme: B.Tech Integrated (Mechanical) Year: III Semester: VI
+Subject: Thermal Engineering
+
+a . Marks: 100
+Date: 19 April 2022 Time: 10.00 am - 01.00 pm
+
+Durations: 3 (Hrs)
+
+. No. of Pages: __o2
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+
+Answer briefly: (20]
+CO-1; a. .
+SO-1; Define clearance volume with p-V diagram, and explain its significance. [4]
+BL-1
+CO- 2; b. - ;
+SO-1; Explain stagnation enthalpy and stagnation temperature. [4]
+BL-2
+CO-3 ; Cc.
+SO-1; Explain the effect of increasing boiler pressure in Rankine power cycle. [4]
+BL-2
+CO-3 ; _d. | Explain compression ratio and expansion ratio with p-V diagram in Diesel [4]
+a cycle.
+CO-2; e.
+SO-1 ; Explain 50% degree of reaction in respect to steam turbine. [4]
+BL-2
+Q2 a .
+061 A single- stage double acting air compressor is required to deliver 18 m> of [10]
+SO-l: air per minute measured at 1.013 bar and 17°C. The delivery pressure is
+BL-3
+--- page 2 ---
+\
+
+8 bar and the speed 400 r.p.m. Take the clearance volume as 5 % of the
+swept volume with the compression and expansion index of n = 1.3.
+Calculate:
+
+(i) Swept volume of the cylinder
+
+(ii) The delivery temperature
+
+(iii) Indicated power
+
+A steam turbine receives dry saturated steam at 35 bar at the rate of 8 kg/s.
+
+noes It is exhausted at 0.05 bar in the condenser. For the ideal Rankine cycle, 110]
+SO-1; calculate turbine work, pump work, heat added in the cycle and Rankine
+BL-3 cycle efficiency. ©
+Q3 Dry saturated steam at a pressure of 15 bar enters a convergent-divergent
+CO-2; nozzle and leaves at a pressure of 1 bar. If the flow is adiabatic and |
+SO-1; frictionless. Determine:
+BL-3 (a) The exit velocity of steam [10]
+(b) Ratio of cross- section at exit and that at throat
+Take n=1.135
+CO-3; The pressure and temperature of air at the beginning of compression in an
+a Otto cycle is 103 kPa and 28°C, respectively. The heat added per kg of air
+is 1850 kJ. The compression ratio is 9. Determine maximum temperature, | [10]
+maximum pressure, thermal efficiency.
+Take Cy = 0.72 kJ/kg K , y =1.4
+Q4 Air at 10 bar, 200°C expands at a rate of 2.5 kg /s through a convergent —
+CO-2; divergent nozzle to an atmospheric of 1.013 bar. Assuming that the inlet [10]
+SO-1; velocity is negligible, evaluate the throat area and exit cross-sectional area
+BL-3 of nozzle. Take Cp =1.005 kJ/kg K
+Q4
+pots Describe the various methods of compounding in an impulse turbine. [10]
+BL-2
+Q5 Derive the expression of thermal efficiency of Diesel Cycle. [12]
+
+fs
+--- page 3 ---
+CO-2;
+
+SO-1;
+BL-2
+Q5 b | A two stage single acting reciprocating air compressor takes in air at the rate
+SOL : , of 0.2 m3/ s. The intake pressure and temperature of air are 0.1 MPa and
+BL-3 16°C. The air is compressed to a final pressure of 0.7 MPa. The intermediate
+| pressure is ideal and intercooling is perfect. The compression index in both [3]
+the stages is 1.25 and the compressor runs at 500 r.p.m. Neglect clearance,
+determine: (i) The intermediate pressure (ii) The total volume of each
+cylinder (iii) The power required to drive the compressor.
+Take Cp = 1.005kJ/kg K , R = 0.287 kJ /kg K
+Q6 a__| A single row impulse turbine develops 132.4 kW at a blade speed of
+CO-2; 175m /s, using 2 kg of steam per sec. Steam leaves the nozzle at 400 m/s.
+SO-1; Velocity coefficient of the blades is 0.9. Steam leaves the turbine blades [12]
+BL-3 axially. Determine nozzle angle, blade angles at entry and exit assuming no
+shock.
+Son. b | With the help of schematic diagram explain the working of Rankine cycle 18]
+
+BL2 with reheating.
+````
+
+## 2021-22 · Re-Exam · Sem 6 · paper 41d357afd3ba
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER VI/THERMAL ENGINEERING/Thermal_Engineering_Batch_2021-22_Re_Exam0001_TpY2TMHouQ.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11 June 2022
+- Text: ocr (3 pages), mean OCR confidence 90.2
+
+````text
+4
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & E WG
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERIN
+
+Academic Year: 2021-22
+
+Programme: B.Tech Integrated (Mechanical) Year: III Semester: VI
+Subject: Thermal Engineering
+
+. ~ Marks: 100
+Date: 11 June 2022 Time: 2.00 pm to 5.00 pm
+
+Durations: 3 (Hrs)
+_No. of Pages: _ of
+Re-Examination (2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly: ; [20]
+CO-1; a. |Explain multistage compression with p-V diagram. Also state its (4)
+4 advantages.
+CO- 2; b. .
+SO-1; Explain stagnation temperature and stagnation pressure. [4]
+BL-2
+CO- 3; c. :
+SO-1; Explain the effect of decreasing condenser pressure in Rankine power cycle. [4]
+BL-2
+CO-3 ; d. .
+SO-1; Explain working of Brayton cycle with p-V and T-s diagram. ~ [4]
+BL-2
+CO- 2; e. .
+SO- 1; Differentiate impulse and reaction steam turbine [4]
+BL-1
+Q2 a | A single stage double acting compressor has a free air delivery (FAD) of
+CO-1; 15m?/ min measured at 1.013 bar and 16°C. The pressure and.temperature | [10]
+a in the cylinder during induction are 0.95 bar 32°C. The delivery pressure is
+--- page 2 ---
+8 bar and index of compression and expansion, n= 1.3. The clearance
+volume is 4 % of the swept volume. Calculate
+
+(i) Indicated power required (ii) Volumetric efficiency.
+
+a A steam turbine receives steam at 100 bar and 600°C at the rate of 10 kg /s.
+son It is exhausted steam at 2 bar. For the ideal Rankine cycle, calculate turbine | [10]
+aA work, pump work, heat added in the cycle and Rankine cycle efficiency.
+Dry saturated steam at a pressure of 11 bar enters a convergent-divergent
+Q3 nozzle and leaves at a pressure of 2 bar. If the flow is adiabatic and
+CO-2; frictionless. Determine:
+SO-1; (a) The exit velocity of steam 00]
+BL-3 (b) Ratio of cross- section at exit and that at throat.
+Take n =1.135
+An engine works on a Diesel cycle with an inlet pressure and temperature
+- of 1 bar and 1 7°C. The pressure at the end of the adiabatic compression is
+nO; 25 bar. The ratio of expansion is 6. Calculate the heat addition, heat rejection | [10]
+ah and efficiency of the cycle.
+sie Take y =1.4, Cp = 1.004 kJ/kg k, Cy = 0.717 kJ/kg K
+Air at 30°C and 600 kPa enters a convergent divergent nozzle with a velocity
+Q4 of 75 m/s. The nozzle has inlet area of 12 cm?. The air leaves the nozzle of
+CO-2; a pressure of 200 kPa. Determine 110]
+SO-1; (i) Mass flow rate of air through the nozzle
+BL-3 (ii) Velocity at the exit of nozzle.
+Assuming one dimensional isentropic flow. Take R= 287kJ/kg K , y =1 4
+Q4
+CO-2;
+50-1; Describe the various methods of compounding in an impulse turbine. [10]
+BL-2
+Q5
+CO-3; Derive the expression of thermal efficiency of Otto Cycle. [12]
+SO-1;
+
+is
+--- page 3 ---
+*
+
+| BL-2
+
+Air at 103 kPa and 27°C is drawn in LP. cylinder of a two stage air
+
+compressor and is isentropically compressed to 700 kPa. The air is then
+
+Q5
+CO-1; cooled :at constant pressure to 37°C in an intercooler and is then again
+SO-1; compressed isentropically to 4 MPa in the HP. cylinder and is delivered at Bi
+BL-3 this pressure. Determine the power required to run the compressor if it has
+to deliver 30 m? of air per hour measured at the inlet conditions.
+The following data related to the single stage impulse turbine:
+no Steam velocity = 600m/s, Blade speed =250 m/s, Nozzle angle = 20°, Blade
+50-1: outlet angle = 25°, Neglecting the effect of friction, calculate the work ) [12]
+— developed by the turbine for the steam flow rate of 25 kg /s. Also calculate
+the axial thrust on the bearings.
+Q6
+CO-3; With the help of schematic diagram explain the working of regeneration
+SO-1; with open feed water heater. Bh,
+BL-2 |
+````
 
 ## 2019-20 · Final + Re-Exam · Sem 5 · paper 91f0c7f1587d
 
@@ -554,6 +931,175 @@ dL, 90 1.586 0.581 0.149 1.555 1.108 0.232
 i 5.00 2.236 0.166 0.00189 25.000 1.341 0.047
 ````
 
+## 2018-19 · Final-Exam · Sem 6 · paper cc48741abd36
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER VI/THERMAL ENGINEERING/Thermal_Eningeering_2018-19_Final_yYZaceIaPM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 22 April 2019
+- Text: ocr (2 pages), mean OCR confidence 92.8
+
+````text
+SVKM’S NMI
+MUKESH PATEL SCHOOL OF TECHNOLOGY M E 2
+Program :B.Tech Integrated (MECHANICAL) _ Year: IIT Semester: VI
+Academic Year: 2018-2019
+Subject: Thermal Engineering Marks: 70
+Date : 22 April 2019 Time: 02.00 pm to 5.00 pm
+
+Duration: 3 (hrs)
+
+No. of Pages:_ 9.
+
+ee Final Examination (2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) Use of steam table, Mollier diagram allowed.
+
+Ql] a) _| Solve Following (any two): [08]
+i) What is mean by clearance volume in case of reciprocating air compressor? Why it is
+provided? : ‘
+ii) State the four thermodynamic processes of diesel cycle and show them on p-V diagram
+and T-s diagram.
+iii) Define Mach number and explain its significance in the study of compressible fluid
+flow.
+b) Solve Following (any two): [06]
+i) Draw flow diagram and T-s diagram for Rankine vapour power cycle with regeneration
+using one open type or direct contact type of heater.
+ii) Explain ‘degree of reaction’ in case of steam turbine.
+iii) Explain ‘nozzle efficiency’ in case of steam nozzles.
+Q2] a) | A steam power plant running on Rankine cycle with reheating. Steam enters High [08]
+
+Pressure turbine at 200bar, 500°C and leaving Low Pressure turbine at 90% dryness.
+Considering condenser pressure of 0.05 bar and reheating occurring up to the
+temperature of 500°C, determine:
+
+1. The pressure at which steam leaves HP turbine, 2. The thermal efficiency.
+
+fz
+--- page 2 ---
+b)
+
+A steam power plant operates on Rankine cycle. The steam enters the turbine at 30bar,
+350°C and is condensed in the condenser at a pressure of 0.76bar. Determine the thermal
+efficiency of the cycle.
+
+[06]
+
+Q3] a)
+
+Air is compressed by a reciprocating compressor from inlet state of 100 kPa, 300K to an
+exit pressure of 900-kPa. Determine the compressor work per unit mass for:
+
+1. Isentropic compression with y= 1.4
+
+2. Polytropic compression with n= 1.3
+
+3. Isothermal compression
+
+[07]
+
+b)
+
+A single acting two stage air compressor with perfect intercooling takes in air at 1 bar
+pressure and 27°C. The law of compression in both stages is pv!3 = constant. The
+
+: compressed air is delivered at 9 bar from the HP (high pressure) cylinder to air receiver.
+
+Calculate, per kg of air: 1. The work of compression; 2. Heat rejected to the intercooler.
+
+[07]
+
+Q4] a)
+
+An engine working on the Otto cycle is supplied with air at 0.1 MPa, 35°C. The
+compression ratio is 8. Heat supplied is 2100 kJ/kg. Calculate:
+
+1. temperatures and pressure at all cardinal points;
+
+2. the cycle efficiency;
+
+(For air Take Cp =1.005kJ/kg K; Cv = 0.718kJ/kg K; R= 0.287 ki/kg K, y =.1.4)
+
+[08]
+
+b)
+
+Derive expression for efficiency of basic Brayton cycle in terms of compression ratio.
+Support your explanation with flow diagram and p-v diagram
+
+[06]
+
+Q5] a)
+
+In a convergent-divergent nozzle, the steam enters at 15 bar and 300°C and leaves at a
+pressure of 2 bar. The inlet velocity to the nozzle is 150 m/s. Find the required throat
+area for mass flow rate of | kg/s.
+
+[08]
+
+Dp
+
+Explain choking in nozzle flows.
+
+[06]
+
+Q6] a)
+
+Show that, the maximum blade efficiency in impulse steam turbine is given by:
+= nee
+Np = cos*a
+
+a = Angle of steam jet in respect to plane of blade rotation
+
+[08]
+
+b)
+
+A Parason reaction turbine running at 400 rpm with 50% reaction develops 75kW per kg
+of the steam. The exit angle of blade is 20° and the steam velocity is 1.4 times the blade
+velocity. Determine: 1. Blade velocity; 2. Blade inlet angle.
+
+[06]
+
+Q7] a)
+
+The pressure ratio and maximum temperature in Brayton cycle are 5 and 923K. Air
+enters the compressor at lbar, 298K. Calculate for 1 kg of air flow, the compressor work
+
+and turbine work.
+(For air Take Cp =1.005kJ/kg K; Cv = 0.718kJ/kg K; R= 0.287 ki/kg K, y = 1.4)
+
+[06]
+
+b)
+
+Write short note on following (any two):
+1. Centrifugal air compressor;
+2. Open and closed type of feed water heaters in regenerative vapour power cycle;
+3. Fanno line; :
+4. Compounding in impulse steam turbine.
+
+[08]
+
+2)
+````
+
 ## 2018-19 · Final-Exam · Sem 4 · paper e02205f97ce9
 
 - Departments: Mechanical
@@ -684,6 +1230,171 @@ efficiency.
 compounding? Write its advantages.
 
 (sla)
+````
+
+## 2018-19 · Re-Exam · Sem 6 · paper e7f1a235e9de
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER VI/THERMAL ENGINEERING/Thermal_Eningeering_Batch_2018-19_Re_Exam_6cNNINv12C.pdf`
+- Printed on paper: duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 92.5
+
+````text
+4 , ’ SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program :B.Tech Integrated (MECHANICAL) /
+Academic Year: 2018-2019
+
+‘at Til Semester: vi \
+
+Subject: Thermal Engineering
+Date: 17 June2619 U
+Duration: 3 (hrs)
+No. of Pages: 3
+Re-examination (2018-19) ~
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume :Suitable data if necessary. oe
+
+8) Use of Steam table, Mollier diagram allowed.
+
+Ql] a) Solve following (any two): [08]
+i) Explain following associated with reciprocating air compressor:
+
+1. Volumetric efficiency
+
+2. Mechanical efficiency
+
+ii) . State the four thermodynamic processes of Otto cycle and show them on
+p-V diagram and T-s diagram.
+iii) Explain following associated with compressible fluid flow:
+1. .Nozzle
+2. Diffuser
+b) Solve following (any two) [06]
+i) What do you understand by steam rate and heat rate in case of vapour
+power cycle?
+ii) Explain the principle on which impulse steam turbine works.
+iii) Draw neat and labelled diagram of converging-diverging nozzle.
+
+Q2]a) Steam at 20 bar, 350°C is expanded in a steam turbine to 0.08 bar. Itthen [08]
+enters the condenser where it is condensed to saturated liquid water. The
+pump feedback the water into the boiler.
+1. Assuming ideal processes find per kg of steam net work and cycle
+efficiency.
+2. Ifthe turbine and pump have each 80% efficiency, find percentage
+reduction in net work.
+
+1|Page
+4
+--- page 2 ---
+b)
+
+Q3] a)
+
+b)
+
+Q4] a)
+
+b)
+
+Q5] a)
+
+b)
+
+Q6] a)
+
+b)
+
+In a single heater regenerative cycle, 1 kg of steam enters the turbine at 30 [06]
+bar 400°C and exhaust pressure is 0.1 bar. The feed water heater is direct
+contact type and which operates at 5 bar. Determine the work produced by
+turbine. (Neglect pump work)
+
+A single stage reciprocating air compressor has a swept volume of [08]
+2000cm? and runs at 800 rpm. It operates on pressure ratio of 8, with
+
+clearance of 5% of swept volume. The condition of air at inlet is pressure
+
+101.3 kPa and temperature 15°C and polytropic compression and
+
+expansion with n = 1.25, Calculate: 1.Indicated power; 2. Volumetric
+
+efficiency; 3. Mass flow rate.
+
+Prove the following in case of single stage single acting reciprocating air [06]
+
+compressor volumetric efficiency is given by :
+1
+P2\n
+Nvolumetric =1+C-C (=)
+1
+Where C= Clearance ratio
+
+In an air standard diesel cycle, compression ratio is 16 and at the start of [08]
+compression the temperature of air is 288K and pressure 1 bar. Maximum
+temperature in the cycle is 1753K. Calculate: 1. Cut-off ratio; 2. Heat
+
+supplied per kg of air; 3. Cycle efficiency.
+
+(For air Take Cp =1.005kJ/kg K; Cv = 0.718kI/kg K; R= 0.287 kJ/kg K, y = 1.4)
+Explain effect of regeneration on Brayton cycle efficiency. (Support your * [06]
+explanation with flow diagram)
+
+In a convergent-divergent nozzle, the steam enters at 15 bar and 300°C [08]
+and leaves at a pressure of 2 bar. The inlet velocity to the nozzle is
+150 m/s. Find the velocity at exit. Take efficiency of nozzle as 90%.
+
+' Define sonic velocity, and prove the following: [06]
+
+C= v(y RT)
+C = sonic velocity
+y = ratio of specific heats
+R = Specific gas constant
+T = absolute temperature of gas.
+
+In a single stage, single row impulse turbine, steam enters at a velocity of [08]
+1200 m/s with a nozzle angle of 20° and leaving the blade in axial
+
+direction. The ratio of blade velocity to whirl velocity of steam is 0.6,
+
+Sketch the velocity diagram and calculate:
+
+1. Blade velocity; 2. Work done per kg of steam
+
+Explain degree of reaction in case of reaction steam turbine and draw [06]
+velocity triangle for 50% reaction steam turbine.
+
+A
+--- page 3 ---
+4
+
+Q7] a) Ina gas turbine plant working on Brayton cycle, the air at inlet is at 30°C, [06]
+0.1 MPa. The pressure ratio is 6 and the maximum temperature is 900°C.
+The turbine and compressor efficiencies are each 80%.
+Find: 1. The compressor work per kg of air;
+2. The turbine work per kg of air
+(For air Take Cp =1.005kJ/kg K; Cv = 0.718kJ/kg K; R= 0.287 kJ/kg K, y = 1.4)
+
+b) Write short note on following (any two): [08]
+1, Binary vapour power cycle
+2. Gas power cycle for aircraft
+3. Need and use of compounding in steam turbine
+4. Multistage compression of air
 ````
 
 ## 2018-19 · Re-Exam · Sem 5 · paper b5ad039bf777
@@ -1380,6 +2091,102 @@ the velocity at exit considering isentropic flow through nozzle.
 06
 ````
 
+## 2017-18 · Final-Exam · Sem 6 · paper d7b29da4f595
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER VI/THERMAL ENGINEERING/Thermal_Engineering_2017-18_Final_qu5MEaeC7P.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 12 May 2018
+- Text: ocr (2 pages), mean OCR confidence 92.5
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B.Tech Integrated (MECHANICAL) ¢ Year: Ill « SemestgorWir oy tty
+
+Lago Re
+‘ pent ate .
+Academic Year: 2017-2018 {FP - >)
+
+Subject:Thermal Engineering - i! sant
+Marks:70
+
+‘ a
+Date:12 May 2018- Time: 2.00 pm to _ 00 pm Pe:
+Durations: 3 (hrs)-
+No. of Pages :_2&
+Final Examination (2017-18) <
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.N.1 Answer any 4 from the following questions. : 14
+(a) Compare reciprocating compressor with a centrifugal compressors.
+(b) What is critical pressure ratio of steam nozzle?
+(c) Draw the schematic for an ideal Rankine cycle. Draw p-v, T-s and h-s diagram for this cycle.
+(d) Discuss the effect of pressure ratio variation on thermal efficiency of Brayton cycle.
+(e) Derive an expression for the thermal efficiency of Diesel cycle.
+(f) Define degree of reaction. What is 50 % reaction turbine?
+
+Q.N.2(a) A single stage, single acting compressor has a free air delivery of 20 m?/min measured at 8
+1.013 bar and 25°C. The pressure and temperature in the cylinder during induction are 0.96 bar
+35°C. The delivery pressure is 5 bar and index of compression and expansion, n= 1.25.
+The clearance volume is 6 % of the swept volume.
+Calculate :
+(i) Indicated power required , (b) Volumetric Efficiency
+(b) Derive an expression for indicated work of a reciprocating air compressor by neglecting 6
+clearance volume.
+Q.N.3(a) Air at 9 bar and 200°C expands at a rate of 5.5kg/s through a convergent — divergent nozzle toan 8
+atmosphere pressure of 1.013bar. Assuming that the inlet velocity is negligible, calculate the throat
+and éxit area of the nozzle.
+(b) Discuss the effect of back pressure on convergent nozzle. 6
+Q.N.4(a) Ina Rankine cycle, the steam at inlet to a turbine is dry and saturated at a préssure of 40bar and 8
+the exhaust pressure is 0.3bar. Calculate:
+(a) Pump work
+(b) Turbine work
+
+(ve
+--- page 2 ---
+(c) Rankine efficiency
+(d) Condenser heat flow , Assume flow rate of 10 kg /s
+(b) What is reheating? Draw schematic and T-s diagram for reheating cycle.
+
+Q.N.5(a) In an air standard Diesel cycle, the compression ratio is 16, and at the beginning of isentropic
+compression, The temperature is 15°C and the pressure is 0.1MPa. Heat is added until the
+temperature at the end of the constant pressure process is 1500°C. Calculate (a) cut-off ratio, (b)
+
+. the heat supplied per kg of air ,(c) the cycle efficiency
+(b) Discuss the effect of pressure variation on thermal efficiency of Brayton cycle.
+
+Q.N.6(a) In a de-Laval turbine, steam issues from the nozzles with a velocity of 1000 m/s. The nozzle
+angle is 20°C. Mean blade velocity is 300 m/s and the blades are equiangular. The mass flow rate
+is 1200 kg/min. The friction factor is 0.8.Determine:
+
+(a) Blade angles,
+(b) Power developed in kW
+(c) Diagram efficiency
+_(b) Explain working principle of an impulse turbine.
+Q.N.7(a) Derive an expression for Blade efficiency of a reaction turbine.
+(b) What are different air standard cycles? Explain any one of them.
+(c) What are the types of nozzles? Explain with neat diagrams.
+
+C wpe
+````
+
 ## 2017-18 · Final-Exam · Sem 5 · paper 32f36438f0e3
 
 - Departments: Mechanical
@@ -1498,6 +2305,223 @@ Q.7 Answer all of the following
 pias b) Explain one dimensional steady isentropic flow through a nozzle. (5)
 
 c) Explain various efficiencies in steam turbine. (5)
+````
+
+## 2017-18 · Re-Exam · Sem 6 · paper c0fe8717d4b1
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER VI/THERMAL ENGINEERING/Thermal_Engineering_Batch_2016-17_Re_Exam_wi9byh7ogQ.pdf`
+- Printed on paper: exam date: 12 May 2018
+- Text: ocr (2 pages), mean OCR confidence 93.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B.Tech Integrated (MECHANICAL) . Year: III v Semester: VI <
+Academic Year: 2017-2018:
+Subject:Thermal Engineering “
+
+Date:12 May 2018 » Time: 2
+
+Re-examination (2016-17) «
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | (one) is compulsory.
+
+2) Out of remaining questions, attempt any 4 (Four) questions.
+
+3) In all 5 (Five) questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) Use of steam tables, Moiller diagram, Gas Tables allowed.
+
+Ql Solve following: (any four) [12]
+
+i) How air compressors are classified? Write complete classification.
+
+ii) Explain Carnot vapour power cycle.
+
+iii) What is the air standard cycle for Compression Ignition Engine? What are its four
+processes? .
+
+iv) What is Mach number and briefly explain its significance in study of compressible
+fluid flow?
+
+v) Define and explain degree of reaction in steam turbines.
+
+Q2) a) Derive the expression for the reversible work of compression if the compression [06]
+
+process is: 1.Polytropic 2.Isothermal.
+
+b) An air compressor takes in air at 1 bar and 20°C and compresses it according to [06]
+law pv’?=constant. It is then delivered to a receiver at 10 bar pressure. Determine:
+1. Temperature at the end of compression
+2. Work done and heat transferred during compression per kg of air.
+Take (For air Cp =1.005 kJ/kg K_ Cv = 0.718 kJ/kg K and R = 0.287 kJ/kg K)
+
+1|paee
+--- page 2 ---
+Q3) a) Draw the flow and T-s diagram for ideal reheat steam cycle and obtain expression [06]
+for cycle efficiency.
+
+b) Steam at 20 bar 350°C is expanded in a steam turbine to 0.08 bar. It then enters [06]
+the condenser, where it is condensed to saturated liquid water. The pump feeds
+back the water into boiler. 1: Assuming ideal processes for 1 kg of steam, find
+network and the cycle efficiency.
+
+Q4) a) Derive expression for efficiency of Brayton cycle in terms of compression ratio [06]
+and pressure ratio.
+b) An engine working on the Otto cycle is supplied with air at 0.1 MPa, 35°C. The [06]
+
+compression -ratio is 8. Heat supplied is 2100 kJ/kg. Calculate the maximum
+pressure and temperature of the cycle, the cycle efficiency and mean effective
+pressure. (For air Cp =1.005 kJ/kg K_Cv = 0.718 kJ/kg K and R = 0.287 kJ/kg K)
+
+Q5) a) Derive expression for discharge through steam nozzle. [06]
+
+b) A supersonic nozzle is to be designed for air flow with Mach number 3 at the exit [06]
+section which is 250 mm in diameter. The pressure and temperature of air at the
+nozzle exit are 8.5 KN/m? and 215K. Make calculations for: 1. Reservoir pressure
+and temperature and 2. Throat area.
+
+Q6) a) Explain with suitable diagram working of impulse steam turbine. [06]
+b) In impulse turbine steam issues from nozzle with a velocity of 1200 m/sec. The
+nozzle angle is 20°, the mean blade velocity is 400 m/sec and inlet and outlet angles [06]
+
+of blades are equal. The mass of steam flowing through the turbine per hour is 1000
+kg. Calculate:
+
+1. Blade angles
+
+2. Relative velocity of steam entering the blades.
+
+3. Power developed
+
+4. Blade efficiency
+Take blade velocity coefficient as 0.8.
+
+Q7) Write short note on following(any three): [12]
+1. Multistage compression of air
+2. Feed water heaters in regenerative vapour power cycle
+3. Thermodynamic cycle for gas turbine
+4. Fanno and Rayleigh lines
+5. Compounding in steam turbines
+
+2[Zase
+````
+
+## 2017-18 · Re-Exam · Sem 6 · paper a7d275625379
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER VI/THERMAL ENGINEERING/Thermal_Eningeering_Batch_2017-18_Re_Exam_68slGRr94z.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 17 June 2019
+- Text: ocr (2 pages), mean OCR confidence 92.4
+
+````text
+MPSTME ~
+SVKM’S NMIMS : LIBRARY
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
+
+7,
+
+Program :B.Tech Integrated (MECHANICAL) ~ ~~ Year: “HH=Sere
+AcademicY ear: 2018-2019
+
+Subject: Thermal Engineering Marks: 70
+
+Date: 17 June 2019 Time: 02.00 pm to 5.00 pm
+
+Duration: 3 (hrs)
+No. of Pages: ne
+Re-examination(2017-18) _
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks. oa
+7) Assume suitable data if necessary.
+
+Q.N.1 Answer any 4 from the following 14
+(a) Explain the working of a single acting reciprocating compressor.
+(b) What is the significance of critical pressure ratio on discharge through the nozzle?
+(c) What is reheating? What are the advantages of. Reheat Rankine cycle?
+(d) What is mean effective pressure? And what is its significance?
+(e) What is Brayton cycle? Explain it with p-v and T-s diagram.
+(f) Define blade efficiency and stage efficiency.
+
+Q.N.2(a) A single -stage double acting air compressor is required to deliver 15 m* of air per minute 8
+measured at 1.013bar and 15°C. The delivery pressure is 8 bar and the speed 350 r.p.m. Take the
+clearance volume as 6% of the swept volume with the compression and expansion index of n=1.3.
+Calculate:
+
+(a) Swept volume of the cylinder
+(b) The delivery temperature and
+(c) Indicated power
+(b) Derive an expression for indicated work of a reciprocating air compressor by considering ina 6
+compressor clearance volume.
+
+Q.N.3(a) Steam enters a convergent — divergent nozzle at 10 bar, dry and saturated at a rate of 0.75Kg/s and 8
+expands isentropically to 2.5 bar. Neglect the inlet velocity and assuming the expansion follows a
+law p V 1.135 = constant. Determine:
+
+(a) The area of the nozzle throat,
+(b) The area of the nozzle exit.
+(b) Define stagnation enthalpy, stagnation temperature, and stagnation pressure and stagnation 6
+density.
+
+0) /&
+--- page 2 ---
+Q.N.4(a) Steam at 40 bar, dry and saturated is expanded in a steam turbine to 0.04 bar. It then enters a
+condenser, where it is condensed to saturated liquid water. The pump feeds back the water into the
+boiler,(a) Calculate for these limits the cycle efficiency, work ratio and specific steam consumption
+for ideal rankine cycle. a
+
+(b) What is regeneration? Draw schematic of ideal regeneration cycle.
+
+Q.N.5(a) An engine working on the Otto cycle is supplied with air at 0.1 MPa, 35°C. The compression ratio
+is 10. Heat supplied is 2400 kJ/Kg. Calculate the maximum pressure and temperature of the cycle,
+the cycle efficiency, and the mean effective pressure. (for Air, Cp= : 1.005kJ/kg K, Cv = 0.718 kJ
+/kg K and R= 0.287 kJ/kg k
+
+(b) Derive an equation of efficiency of Brayton cycle.
+
+Q.N.6(a) Steam with a velocity of 800m/s enters an impulse turbine ring and drives the rotor at 3000rpm.
+The jet angle is 20°C and the mean drum diameter is 1.4 m. Assuming that inlet and exit angles of
+the moving blades are equal and a blade velocity coefficient of 0.85, find
+
+(a) The blade angles
+(b) Diagram efficiency
+(c) Power developed
+(b) Distinguish between impulse and reaction turbine.
+
+Q.N.7(a) Why are steam turbines compounded? Explain.
+
+(b) Compare Otto, Diesel and Dual cycles for given compression ratio.
+(c) Give types of nozzles and diffusers.
+
+(2) Io
 ````
 
 ## 2017-18 · Re-Exam · Sem 5 · paper 184814004240
@@ -1778,6 +2802,118 @@ Nz = 6.2%, CO, = 4%
 Calculate,
 " (a) Stoichiometric Air-Fuel ratio.
 (b) Wet and dry analysis of combustion products if actual mixture is 20% weak.
+````
+
+## 2016-17 · Final-Exam · Sem 6 · paper 9d4211639317
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER VI/THERMAL ENGINEERING/Thermal_Engineering_2016-17_Final_jvJadQLP8j.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 15 May 2017
+- Text: ocr (2 pages), mean OCR confidence 93.4
+
+````text
+SVKM’s NMIMS =
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+_ Programme: B. Tech Integrated (MECHANICAL) Year: III Semester: VI
+
+Academic Year: 2016-2017
+
+Subject : Thermal Engineering Marks: 60
+Time : 10.00 am'to 1.00 pm
+Date : 15 May 2017 Durations: 3 (hrs)
+
+No. of Pages: 2—
+Final-Examination
+
+-~. Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | (one) is compulsory.
+
+2) Out of remaining questions, attempt any 4 (Four) questions.
+
+3) In all 5 (Five) questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) Use of steam tables, Moiller diagram, Gas Tables allowed
+
+Ql) Solve following: (any four) [12]
+i) Define and briefly explain following for air compressor:
+~ 1.Clearance volume 2. Volumetric efficiency
+ii) Explain Carnot vapour power cycle.
+iii) What is the air standard cycle for Gas turbine? What are its four processes?
+iv) Explain with help of neat diagram convergent-divergent nozzle.
+v) Write classification of steam turbine.
+Q2) a) Prove the volumetric efficiency of single stage reciprocating air compressor with [06]
+
+clearance volume is given by following:
+V,
+Volumetric Efficiency =1+k—k @)
+2
+
+Where &k is the clearance ratio, Vi is volume at the start of compression process
+and Vz volume at the end of compression process.
+
+b) Following data is given for single acting reciprocating air compressor having bore [06]
+diameter 14cm and stroke length 10cm.
+Suction Pressure: 1 bar Suction Temperature: 20°C
+1J/Page
+
+2.
+--- page 2 ---
+Discharge pressure: 6 bar Discharge Temperature: 180°C
+Speed of compressor: 1200 rpm Mass of air delivered: 1.7 kg/min
+Calculate following: 1. Volumetric efficiency, 2. Work of compression,
+
+3. Isothermal efficiency
+
+Q3) a) What are different methods to improve the efficiency of Rankine cycle? Explain [06]
+any one.
+
+b) Steam at 20 bar 350°C is expanded in a steam turbine to 0.08 bar. It then enters [06]
+the condenser, where it is condensed to saturated liquid water. The pump feeds
+back the water into boiler. 1: Assuming ideal processes for 1 kg of steam, find
+network and the cycle efficiency.
+
+Q4) a) Derive expression for efficiency of Brayton cycle in terms of compression ratio [06]
+and pressure ratio.
+b) An engine operating on the Otto cycle. The conditions at the start of compressions [06]
+
+are 27°C and 100kPa. The heat added is 1840 kJ/kg. The compression ratio is 8.
+Determine: 1.The temperature and pressure at each point in the cycle,
+
+2. Thermal efficiency of cycle. Take wele4
+Q5) a) Explain nozzle efficiency and mention the factors on which it depends. [06]
+b) A supersonic nozzle is to be designed for air flow with Mach number 3 at the exit [06]
+
+section which is 250 mm in diameter. The pressure and temperature of air at the
+nozzle exit are 8.5 KN/m? and 215K. Make calculations for: 1. Reservoir pressure
+and temperature and 2. Throat area. ;
+
+Q6) a) Write detail comparison of impulse steam turbine with reaction turbine. [06]
+b) The velocity of steam exiting the nozzle for impulse turbine is 400 m/sec. The :
+blades operates close to maximum blading efficiency. The nozzle angle is 20°. [06]
+
+Considering equiangular blades and neglecting blade friction, calculate for a steam
+flow of 0.6 kg/sec, the diagram efficiency.
+
+Q7) Write short note on following(any three):
+1. Feed water heaters in regenerative vapour power cycle [12]
+2. Stagnation properties in compressible fluid flow
+3. Velocity Compounding in steam turbines
+4." Intercoolers in multistage compression
+5. Effects of operating variables on thermal efficiency of gas turbine.
+
+2)Page
+Yo
 ````
 
 ## 2016-17 · Final-Exam · Sem 5 · paper cb7facac9319

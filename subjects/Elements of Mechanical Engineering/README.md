@@ -1,6 +1,6 @@
 # Elements of Mechanical Engineering
 
-**9** unique papers (9 copies across programmes) · 2022 to 2025-26 · 2 programmes · Sem 3
+**13** unique papers (13 copies across programmes) · 2022 to 2025-26 · 3 programmes · Sem 3
 
 Download only this subject, sorted by academic year:
 
@@ -17,7 +17,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Final-Exam | Question paper | Sem 3 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | QP_ELEMENTS OF MECHANICAL ENGINEERING(701ME0C030)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 3 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_ELEMENTS OF MECHANICAL ENGINEERING(701ME0C030)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / MECHANICAL | Elements of Mechanical Eningeering Batch 2024-25 Final.pdf |
+| 2024-25 | Final-Exam | Question paper | Sem 3 | BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7031 | QP_Final-Exam_Elements of Mechanical Engineering(701ME0C002)_Semester III_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7031 | ANS_Final-Exam_Elements of Mechanical Engineering(701ME0C002)_Semester III_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / MECHANICAL | Elements of Mechanical Enginerring Batch 2024-25 Re Exam0001.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 3 | BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7031 | QP_Re-Exam_Elements of Mechanical Engineering(701ME0C002)_Semester III_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3 | BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7031 | ANS_Re-Exam_Elements of Mechanical Engineering(701ME0C002)_Semester III_2024-2025.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / MECHANICAL | Elements of Mechanical Engineering Batch 2023-24 Final Batch 22-23 Re Exam.pdf |
 | 2022 | Final-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / MECHANICAL | Elements of Mechanical Engineering Batch 2022 Final0001.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / MECHANICAL | Elements of Mechanical Engineering Batch 2022-23 Re Exam.pdf |

@@ -1,8 +1,137 @@
 # Customer Relationship Management: question papers in full
 
-3 unique papers · 2008-09 to 2017-18 · Common (all branches)
+7 unique papers · 2008-09 to 2025-26 · Commerce, Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 2 · paper e8161ecbb45e
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce - 45611
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Commerce - 45611/Customer Relationship Management/QP_Final-Exam_Customer Relationship Management(NACRM158)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 18 Mar 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.Com
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Customer Relationship Management
+Date: 18 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. All questions are compulsory
+3. Question 1 to Question 3 have internal choice wherein, you can answer any one of the given two options.
+4. Question 4 comprises of a Case Study accompanied with a question to be answered in the context of the
+given case
+5. Answer to each new question to be started on a fresh page.
+6. Figure in right hand side indicates full marks
+1.   Answer the following(Attempt Any 1 Question)   8
+a.   8
+'CRM is not just a software solution but a strategic approach.' Explain this statement by
+discussing the principles of CRM
+b.   8
+Illustrate the concept of integration in CRM. Outline the key factors responsible for achieving
+effective integration in customer relationship management.
+2.   Answer the following(Attempt Any 1 Question)   8
+a.   8
+Evalaute the customer relationship management cycle and assess the significance of each phase
+in customer relationship management.
+b.   8
+What is DBMS? Enumerate the three levels of data abstraction in DBMS.
+Page 1 of 2
+--- page 2 ---
+3.   Answer the following(Attempt Any 1 Question)   8
+a.   8
+A retail company is planning to upgrade from a traditional CRM system to an e-CRM
+platform. As a business analyst, examine the differences between CRM and e-CRM and
+recommend which system would be more suitable for the company, supporting your answer
+with appropriate examples.
+b.   8
+Analyse how different modern technologies are shaping the CRM landscape.
+4. Read the case and answer the following question.   6
+Care Electronics is a mid-sized consumer electronics company operating across metro and tier-
+2 cities. The company sells smart home devices through retail stores, e-commerce platforms,
+and direct sales teams. Over the last two years, NovaCare has faced issues such as poor
+customer follow-up, lack of centralized customer database, delayed service response and low
+repeat purchase rate. In order to improve customer retention and sales efficiency, Care has
+decided to implement a CRM system. In this context, CRM vendors need to be identified and
+shortlisted from the market. Three vendors have been shortlisted: Vendor A, who has strong
+experience in manufacturing and retail CRM solutions. He is offering AI-based analytics but at
+high cost. Second, vendor B: who is providing affordable cloud-based CRM with limited
+customization and also offering 30-day free trial. Last, vendor C, who is Industry-specialized
+CRM provider with strong network partnerships but limited scalability.
+Questions:
+a. Identify and explain any 3 factors on the basis of which right CRM vendor can be selected
+by Care Electronics Pvt. Ltd. (3 marks)
+b. Evaluate the suitability of the best CRM vendor for Care Electronics amongst the three.
+Justify your recommendation. (3 marks)
+Page 2 of 2
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper e8c28f06585b
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce - 45611
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Re-Exam/Bachelor of Commerce - 45611/Customer Relationship Management/QP_Re-Exam_Customer Relationship Management(NACRM158)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 17 Jun 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.Com
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Customer Relationship Management
+Date: 17 Jun 2026   Time: 10:30 am - 11:30 am (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. All questions are compulsory
+3. Question 1 to Question 3 have internal choice wherein, you can answer any one of the given two options.
+4. Question 4 comprises of a Case Study accompanied with a question to be answered in the context of the
+given case
+5. Answer to each new question to be started on a fresh page.
+6. Figure in right hand side indicates full marks
+1.   Answer the following(Attempt Any 1 Question)   8
+a.   8
+A company is facing declining customer loyalty and increasing competition. As a CRM
+consultant, explain the meaning of CRM and how implementing CRM can help the company
+improve customer retention, profitability, and relationship value.
+b.   8
+Illustrate the concept of customer centricity. Outline the major challenges faced by
+organizations in becoming customer-centric.
+2.   Answer the following(Attempt Any 1 Question)   8
+a.   8
+Evaluate the objectives of the CRM process.
+b.   8
+What is Database Management System (DBMS). Examine its basic components.
+Page 1 of 2
+--- page 2 ---
+3.   Answer the following(Attempt Any 1 Question)   8
+a.   8
+Elucidate the concept of e-CRM and discuss its major features.
+b.   8
+A growing company is facing declining customer retention despite high sales. Analyse how
+implementing CRM could address this issue.
+4. Read the case and answer the following question.   6
+A mid-sized retail company in India operates across multiple cities and serves thousands of
+customers. The sales and service teams maintain customer records manually, leading to delays,
+data duplication, and poor follow-up. Management decides to introduce a digital system to
+capture customer interactions in real time. The system allows employees to access customer
+history, track complaints, and schedule follow-ups. The objective is to improve service quality,
+customer satisfaction, and long-term relationships.
+Questions:
+a. Name any three renowned software solutions that a company can use for Customer
+Relationship Management. (3 marks)
+b. What advantages does the use of software bring to an organization’s approach towards
+Customer Relationship Management? (3 marks)
+Page 2 of 2
+````
 
 ## 2017-18 · Final-Exam · Sem 9 · paper 994302c5c48f
 

@@ -1,6 +1,6 @@
 # Intelligent Systems
 
-**25** unique papers (25 copies across programmes) · 2013-14 to 2025-26 · 7 programmes · Sem 2, Sem 3, Sem 7
+**27** unique papers (27 copies across programmes) · 2013-14 to 2025-26 · 8 programmes · Sem 2, Sem 3, Sem 7
 
 Download only this subject, sorted by academic year:
 
@@ -16,9 +16,11 @@ Also filed as: `INTELLIGENT SYSTEM`, `Intelligent System`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE) - 7012 | QP_Final-Exam_INTELLIGENT SYSTEMS(702AI0C034)_Semester II_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | BTech AIML 7053 | QP_INTELLIGENT SYSTEMS(702AI0C034)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | MBA TECH / ARTIFICIAL INTELLIGENCE | Intelligent Systems-I, Year 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | MBATech AI 7051 | QP_INTELLIGENT SYSTEMS(702AI0C034)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE) - 7012 | ANS_Final-Exam_INTELLIGENT SYSTEMS(702AI0C034)_Semester II_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 2 | BTech AIML 7053 | ANS_INTELLIGENT SYSTEMS(702AI0C034)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 2 | MBATech AI 7051 | ANS_INTELLIGENT SYSTEMS(702AI0C034)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | B TECH | Intelligent Systems, Sem-II, Batch 2025-26, Re Exam.pdf |

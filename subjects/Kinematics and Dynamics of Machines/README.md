@@ -1,6 +1,6 @@
 # Kinematics and Dynamics of Machines
 
-**12** unique papers (17 copies across programmes) · 2021 to 2025-26 · 4 programmes · Sem 4, Sem 8
+**13** unique papers (18 copies across programmes) · 2021 to 2025-26 · 5 programmes · Sem 4, Sem 8
 
 Download only this subject, sorted by academic year:
 
@@ -21,6 +21,7 @@ Also filed as: `KINEMATICS AND DYNAMICS OO MACHINES`
 | 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Mechanical 7003 | ANS_Kinematics and Dynamics of Machines(702ME0C032)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated Mechanical 7031 | ANS_Kinematics and Dynamics of Machines(702ME0C009)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4, Sem 8 | B TECH / MECHANICAL | Kinematics and Dynamics of Machines Batch 2022-23,2024-25,2025-26 Re Exam.pdf |
+| 2024-25 | Final + Re-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / MECHANICAL | Kinematics_and_Dynamics_of_Machines_Batch_2024-25_Final_Batch_2022-23_2023-2024_Re_Exam_fVXzhO7VZy.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 4 | B TECH / MECHANICAL | Kinematics and Dynamics of Machines, Sem IV, Year 2024-25 Final Exam & 2022-23 an_5281e317.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 4 | B TECH / MECHANICAL | Kinematics and Dyanamics of Machines Batch 2022-23,2023-24 Re Exam.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 4 | B TECH / MECHANICAL, MBA TECH / MECHANICAL | Kinematics and Dynamics of Machines, Sem-IV, Final & Re Exam 2022-23.pdf |

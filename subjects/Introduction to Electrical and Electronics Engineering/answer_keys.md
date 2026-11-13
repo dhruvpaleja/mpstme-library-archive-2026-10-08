@@ -2,6 +2,370 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper ddbe36ca6edf
+
+- Departments: Computer Science
+- Programmes: DIPLOMA IN COMPUTER SCIENCE AND ENGINEERING - 7074
+- Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: DIPLOMA IN COMPUTER SCIENCE AND ENGINEERING - 7074/Introduction to Electrical and Electronics Engineering/ANS_Final-Exam_Introduction to Electrical and Electronics Engineering(701EX0C003)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
+- Text: text (5 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: Diploma (COMP)/Diploma (CSE)/Diploma (IT)/Diploma (MECH)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Introduction to Electrical and Electronics Engineering
+Date: 09 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 5 pages.
+2. Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+3. Question No. _1___ is compulsory.
+4. Out of remaining questions, attempt any __4__ questions
+5. In all _5_ questions to be attempted.
+6. All questions carry equal marks.
+7. Answer to each new question to be started on a fresh page
+8. Figures in brackets on the right hand side indicate full marks.
+9. Assume Suitable data if necessary.
+Q.1   All Questions are compulsory   20
+CO-1; SO-   a.   Find the equivalent resistance RAB.   5
+1; BL-1
+6+6 =12Ω in parallel with 0Ω = 0Ω
+0+3=3Ω
+3 and 6 in parallel = 2Ω
+RAB= 2Ω
+CO-2; SO-   b.   Define crest factor, phase, and time period.   5
+1; BL-1
+crest factor 2 marks
+Phase 2 marks
+time period 1 marks
+CO-4; SO-   c.   Develop a logic circuit from a Boolean expression 𝑌= 𝐴𝐵. (𝐶+   𝐷)⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗   5
+1; BL-2
+********** 1 **********
+--- page 2 ---
+CO-4; SO-   d.   Explain the inverting amplifier using an op-amp.   5
+1; BL- 2
+Diagram 2 marks
+Explanation 3 marks
+Q.2A   Find the current through 6Ω resistor using mesh analysis.   10
+CO-2; SO-
+1; BL-2
+Q.2B   With the help of a circuit diagram and a waveform, explain the working of the   10
+CO-4; SO-   Bridge Rectifier.
+1; BL-2
+Diagram – 3 marks
+Waveform - 3 marks
+Working - 4 marks
+Q.3A   Find IN and RN and draw Norton’s equivalent circuit across terminal AB.   10
+CO2; SO-1;
+BL-3
+In = 2A   4 marks
+Rn = 4.5Ω   4 marks
+Equivalent ckt   3 marks
+Q.3B   Explain one of the applications of an op-amp in detail.   10
+CO-4; SO-
+1; BL-2
+Diagram – 04 marks
+Explanation – 06 marks
+********** 2 **********
+--- page 3 ---
+Q.4A   Draw and explain the construction and working of a DC motor.   10
+CO-3; SO-
+1; BL-2
+Diagram- 4 marks
+Construction - 3 marks
+Working – 3 marks
+Q.4B   Discuss zener diode as a voltage regulator.   10
+CO-4; SO-
+1; BL-2
+VI characteristics of zener diode – 2marks
+Circuit diagram 2 marks
+Line regulation – 3 marks
+Load regulation – 3 marks
+Q.5A   Find the following parameters of the given voltage v(t) = 200 sin 377t   10
+CO-2; SO-   a. Frequency
+1; BL-1   b. Form factor
+c. Crest factor
+a. Frequency = 60 Hz
+b. Form factor = 127.38
+c. Crest factor = 1.4146
+Q.5B   State and prove De Morgan’s first and second theorems.   10
+CO-4; SO-
+1; BL-2
+De Morgan’s Theorems (Boolean Algebra)
+First Theorem
+Statement
+The complement of a sum equals the product of the complements.
+(A+B)′ = A′⋅B′
+A   B A + B   (A + B)’   A’   B’   A’·B’
+0   0   0   1   1   1   1
+0   1   1   0   1   0   0
+1   0   1   0   0   1   0
+1   1   1   0   0   0   0
+Second Theorem
+Statement
+The complement of a product equals the sum of the complements.
+(A⋅B)′= A′+B′
+A   B   A·B   (A·B)’   A’   B’   A’ + B’
+0   0   0   1   1   1   1
+0   1   0   1   1   0   1
+1   0   0   1   0   1   1
+1   1   1   0   0   0   0
+Q.6A   Compare the core and shell-type transformer.   10
+CO-3; SO-
+1; BL-2
+********** 3 **********
+--- page 4 ---
+Q.6B   Determine the node voltages for the network shown in the figure using nodal   10
+CO-2; SO-   analysis.
+1; BL-3
+V1 = 3.3V
+V2 = -6.9V
+Q.7A   A Cu coil has a resistance of 50 Ω at 0˚C.   5
+CO-2; SO-   Find the resistance of the coil at 70˚.
+1; BL-1   The resistance temperature coefficient of Cu is 0.0043/°C at 0 °C.
+Rt = Ro (1+αot)
+Rt = 50 (1 + 0.0043 x 70)
+Rt = 65.05Ω
+Q.7B   Draw a neat diagram of 3Ø star connection.   5
+CO-2; SO-
+1; BL-2
+5
+Q.7C   Compare PNP and NPN transistors.   5
+********** 4 **********
+--- page 5 ---
+CO-4; SO-
+1; BL- 2
+Feature   NPN Transistor   PNP Transistor   5
+Structure   N-type – P-type – N-type   P-type – N-type – P-type
+Major Charge Carriers Electrons   Holes
+Symbol Arrow
+Arrow points outward   Arrow points inward
+Direction
+Current Flow
+From Collector → Emitter From Emitter → Collector
+(Conventional)
+Base is positive w.r.t   Base is negative w.r.t
+Base Biasing
+emitter   emitter
+Base voltage > emitter (≈   Base voltage < emitter (≈
+Turn ON Condition
++0.7V)   −0.7V)
+Collector is more positive   Collector is more negative
+Voltage Polarity
+than emitter   than emitter
+Faster (due to electron
+Switching Speed   Slower (holes move slower)
+mobility)
+Widely used in circuits   Less common compared to
+Common Usage
+(more popular)   NPN
+Power Efficiency   Better performance   Slightly less efficient
+Q.7D   Draw and explain the working of a shunt capacitor filter.   5
+CO-4; SO-
+1; BL-2
+02
+A shunt capacitor filter is the simplest filter used after a rectifier to reduce ripple.
+• A capacitor (C) is connected in parallel (shunt) with the load resistor
+RLR_LRL
+•   It is placed at the output of the rectifier (half-wave or full-wave)
+Working   03
+The operation depends on the charging and discharging of the capacitor.
+During Positive Half Cycle (Charging)
+• The rectifier conducts → output voltage rises
+• Capacitor charges rapidly to the peak value (Vm) of the rectified waveform
+• Charging is fast because:
+o Internal resistance is small
+o Diode is forward-biased
+********** 5 **********
+````
+
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 9dffb8ccd24b
+
+- Departments: Mechanical
+- Programmes: DIPLOMA IN MECHANICAL ENGINEERING - 7072
+- Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: DIPLOMA IN MECHANICAL ENGINEERING - 7072/Introduction to Electrical and Electronics Engineering/ANS_Final-Exam_Introduction to Electrical and Electronics Engineering(701EX0C003)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
+- Text: text (5 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: Diploma (COMP)/Diploma (CSE)/Diploma (IT)/Diploma (MECH)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Introduction to Electrical and Electronics Engineering
+Date: 09 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 5 pages.
+2. Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+3. Question No. _1___ is compulsory.
+4. Out of remaining questions, attempt any __4__ questions
+5. In all _5_ questions to be attempted.
+6. All questions carry equal marks.
+7. Answer to each new question to be started on a fresh page
+8. Figures in brackets on the right hand side indicate full marks.
+9. Assume Suitable data if necessary.
+Q.1   All Questions are compulsory   20
+CO-1; SO-   a.   Find the equivalent resistance RAB.   5
+1; BL-1
+6+6 =12Ω in parallel with 0Ω = 0Ω
+0+3=3Ω
+3 and 6 in parallel = 2Ω
+RAB= 2Ω
+CO-2; SO-   b.   Define crest factor, phase, and time period.   5
+1; BL-1
+crest factor 2 marks
+Phase 2 marks
+time period 1 marks
+CO-4; SO-   c.   Develop a logic circuit from a Boolean expression 𝑌= 𝐴𝐵. (𝐶+   𝐷)⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗⃗   5
+1; BL-2
+********** 1 **********
+--- page 2 ---
+CO-4; SO-   d.   Explain the inverting amplifier using an op-amp.   5
+1; BL- 2
+Diagram 2 marks
+Explanation 3 marks
+Q.2A   Find the current through 6Ω resistor using mesh analysis.   10
+CO-2; SO-
+1; BL-2
+Q.2B   With the help of a circuit diagram and a waveform, explain the working of the   10
+CO-4; SO-   Bridge Rectifier.
+1; BL-2
+Diagram – 3 marks
+Waveform - 3 marks
+Working - 4 marks
+Q.3A   Find IN and RN and draw Norton’s equivalent circuit across terminal AB.   10
+CO2; SO-1;
+BL-3
+In = 2A   4 marks
+Rn = 4.5Ω   4 marks
+Equivalent ckt   3 marks
+Q.3B   Explain one of the applications of an op-amp in detail.   10
+CO-4; SO-
+1; BL-2
+Diagram – 04 marks
+Explanation – 06 marks
+********** 2 **********
+--- page 3 ---
+Q.4A   Draw and explain the construction and working of a DC motor.   10
+CO-3; SO-
+1; BL-2
+Diagram- 4 marks
+Construction - 3 marks
+Working – 3 marks
+Q.4B   Discuss zener diode as a voltage regulator.   10
+CO-4; SO-
+1; BL-2
+VI characteristics of zener diode – 2marks
+Circuit diagram 2 marks
+Line regulation – 3 marks
+Load regulation – 3 marks
+Q.5A   Find the following parameters of the given voltage v(t) = 200 sin 377t   10
+CO-2; SO-   a. Frequency
+1; BL-1   b. Form factor
+c. Crest factor
+a. Frequency = 60 Hz
+b. Form factor = 127.38
+c. Crest factor = 1.4146
+Q.5B   State and prove De Morgan’s first and second theorems.   10
+CO-4; SO-
+1; BL-2
+De Morgan’s Theorems (Boolean Algebra)
+First Theorem
+Statement
+The complement of a sum equals the product of the complements.
+(A+B)′ = A′⋅B′
+A   B A + B   (A + B)’   A’   B’   A’·B’
+0   0   0   1   1   1   1
+0   1   1   0   1   0   0
+1   0   1   0   0   1   0
+1   1   1   0   0   0   0
+Second Theorem
+Statement
+The complement of a product equals the sum of the complements.
+(A⋅B)′= A′+B′
+A   B   A·B   (A·B)’   A’   B’   A’ + B’
+0   0   0   1   1   1   1
+0   1   0   1   1   0   1
+1   0   0   1   0   1   1
+1   1   1   0   0   0   0
+Q.6A   Compare the core and shell-type transformer.   10
+CO-3; SO-
+1; BL-2
+********** 3 **********
+--- page 4 ---
+Q.6B   Determine the node voltages for the network shown in the figure using nodal   10
+CO-2; SO-   analysis.
+1; BL-3
+V1 = 3.3V
+V2 = -6.9V
+Q.7A   A Cu coil has a resistance of 50 Ω at 0˚C.   5
+CO-2; SO-   Find the resistance of the coil at 70˚.
+1; BL-1   The resistance temperature coefficient of Cu is 0.0043/°C at 0 °C.
+Rt = Ro (1+αot)
+Rt = 50 (1 + 0.0043 x 70)
+Rt = 65.05Ω
+Q.7B   Draw a neat diagram of 3Ø star connection.   5
+CO-2; SO-
+1; BL-2
+5
+Q.7C   Compare PNP and NPN transistors.   5
+********** 4 **********
+--- page 5 ---
+CO-4; SO-
+1; BL- 2
+Feature   NPN Transistor   PNP Transistor   5
+Structure   N-type – P-type – N-type   P-type – N-type – P-type
+Major Charge Carriers Electrons   Holes
+Symbol Arrow
+Arrow points outward   Arrow points inward
+Direction
+Current Flow
+From Collector → Emitter From Emitter → Collector
+(Conventional)
+Base is positive w.r.t   Base is negative w.r.t
+Base Biasing
+emitter   emitter
+Base voltage > emitter (≈   Base voltage < emitter (≈
+Turn ON Condition
++0.7V)   −0.7V)
+Collector is more positive   Collector is more negative
+Voltage Polarity
+than emitter   than emitter
+Faster (due to electron
+Switching Speed   Slower (holes move slower)
+mobility)
+Widely used in circuits   Less common compared to
+Common Usage
+(more popular)   NPN
+Power Efficiency   Better performance   Slightly less efficient
+Q.7D   Draw and explain the working of a shunt capacitor filter.   5
+CO-4; SO-
+1; BL-2
+02
+A shunt capacitor filter is the simplest filter used after a rectifier to reduce ripple.
+• A capacitor (C) is connected in parallel (shunt) with the load resistor
+RLR_LRL
+•   It is placed at the output of the rectifier (half-wave or full-wave)
+Working   03
+The operation depends on the charging and discharging of the capacitor.
+During Positive Half Cycle (Charging)
+• The rectifier conducts → output voltage rises
+• Capacitor charges rapidly to the peak value (Vm) of the rectified waveform
+• Charging is fast because:
+o Internal resistance is small
+o Diode is forward-biased
+********** 5 **********
+````
+
 ## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 2c9281ca1694
 
 - Departments: Computer Engineering

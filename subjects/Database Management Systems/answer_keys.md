@@ -2,6 +2,123 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 1 · Answer key · paper f09131631dc5
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce - 45611
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce - 45611/Database Management Systems/ANS_Final-Exam_Database Management Systems(NADBM105)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 15 Oct 2025
+- Text: text (5 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Commerce
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Database Management Systems
+Date: 15 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 5 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Assume suitable data if necessary.
+5. All questions are compulsory.
+1.   Answer the following question.(Attempt Any 2 Questions)   15
+A. (CREATE TABLE 4.5 MKS, ALTER TABLE 1.5 MKS EACH)   7.5
+(i)
+CREATE TABLE ACCOUNT
+(acc_no SMALLINT NOT NULL PRIMARY KEY,
+cust_name VARCHAR(22),
+account_type VARCHAR(10),
+open_date DATE,
+balance DECIMAL(9, 2),
+status CHAR(1));
+(ii) Change data type of balance column to 10 integers 2 decimals
+ALTER TABLE ACCOUNT
+MODIFY balance decimal(12,2);
+(iii) Delete status column
+ALTER TABLE ACCOUNT
+DROP COLUMN status;
+B. Q(i)3mks Q (ii,iii,iv) 1.5 MKS EACH   7.5
+Page 1 of 5
+--- page 2 ---
+(i) Insert 3 records in OFFICE table
+INSERT INTO OFFICE (ANO, AccName, Type, Oyear, odate, balance) VALUES
+(101, 'Ajay', 'Savings', 2022, '2022-06-10', 150000.00),
+(102, 'Neha', 'Current', 2023, '2023-01-14', 90000.00),
+(103, 'Suresh', 'Savings', 2021, '2021-11-21', 78000.00);
+(ii) Change the account name to “Prakash” in the 3rd record
+UPDATE OFFICE
+SET AccName = 'Prakash'
+WHERE ANO = 103;
+(iii) Delete the 2nd row
+DELETE FROM OFFICE
+WHERE ANO = 102;
+(iv) Change the balance of the 1st record to 82000
+Page 2 of 5
+--- page 3 ---
+UPDATE OFFICE
+SET balance = 82000.00
+WHERE ANO = 101;
+C.   7.5
+2.   Answer the following question.(Attempt Any 2 Questions)   15
+A. (1.5 marks each)   7.5
+i. YEAR()
+Extracts the year part from a date or datetime value.
+YEAR(date)
+Example:
+SELECT YEAR('2025-09-22') AS YearPart;
+ii. UPPER()
+Converts all characters in a string to uppercase.
+UPPER(string)
+Page 3 of 5
+--- page 4 ---
+Example:
+SELECT UPPER('mysql tutorial') AS UppercaseText;
+iii. MIN()
+Returns the minimum (smallest) value from a column (usually numeric or date).
+SELECT MIN(column_name) FROM table_name;
+Example:
+SELECT MIN(salary) AS LowestSalary FROM employees;
+iv. RIGHT()
+Returns the rightmost N characters of a string.
+RIGHT(string, number_of_characters)
+Example:
+SELECT RIGHT('MySQLDatabase', 8) AS RightPart;
+v. AVG()
+Calculates the average (mean) of numeric values in a column (ignores NULLs).
+SELECT AVG(column_name) FROM table_name;
+Example:
+SELECT AVG(salary) AS AverageSalary FROM employees;
+B. Each carries 2.5 marks   7.5
+i) Display all courses starting between 01-Jan-2020 and 31-Dec-2024.
+SELECT * FROM COURSES
+WHERE SDATE BETWEEN '2020-01-01' AND '2024-12-31';
+ii)
+SELECT CNAME, DEPT, SDATE, ENR, FEE, (ENR * FEE) AS Total_Fee
+FROM COURSES ;
+iii)
+SELECT CONCAT('The course ', CNAME, ' started on ', SDATE)
+FROM COURSES;
+C.   7.5
+( 2.5 marks each)
+i. SELECT PATIENT.PID, NAME, BP, FEVER
+FROM PATIENT, DIAGNOSIS
+Page 4 of 5
+--- page 5 ---
+WHERE PATIENT.PID = DIAGNOSIS.PID;
+ii. SELECT NAME, BP
+FROM PATIENT
+WHERE PATIENT.PID = DIAGNOSIS.PID AND BP > 140;
+iii. SELECT NAME, (BP + FEVER) AS SUM
+FROM PATIENT, DIAGNOSIS
+WHERE PATIENT.PID = DIAGNOSIS.PID;
+Page 5 of 5
+````
+
 ## 2025-26 · Final-Exam · Sem 1 · Answer key · paper 8db66a25892d
 
 - Departments: Computer Applications (MCA)
@@ -9837,6 +9954,131 @@ WHERE doc_id = a.doc_id
 (v) UPDATE Appointment SET fees = fees * 1.10;
 
 FRR ICR 7 6 AC OH
+````
+
+## 2025-26 · Re-Exam · Sem 1 · Answer key · paper cced86c0ba5d
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce - 45611
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Commerce - 45611/Database Management Systems/ANS_Re-Exam_Database Management Systems(NADBM105)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 29 Jan 2026
+- Text: text (4 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Commerce
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Database Management Systems
+Date: 29 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 4 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Assume suitable data if necessary.
+5. All questions are compulsory.
+1.   Answer the following question.(Attempt Any 2 Questions)   15
+A. (CREATE TABLE 4.5 MKS, ALTER TABLE 1.5 MKS EACH)   7.5
+(i)
+CREATE TABLE PRODUCT (
+P_ID SMALLINT AUTO_INCREMENT,
+PNAME VARCHAR(20),
+CATEGORY VARCHAR(15),
+MFG_DATE DATE,
+STOCK_QTY SMALLINT,
+PRICE DECIMAL(8,2),
+PRIMARY KEY (P_ID));
+(ii) Change the data type of stock_qty column to integer size 3
+ALTER TABLE PRODUCT
+MODIFY COLUMN STOCK_QTY SMALLINT(3);
+Or
+ALTER TABLE PRODUCT
+MODIFY STOCK_QTY SMALLINT(3);
+(iii) Add a new column SUPPLIER varchar(18).
+ALTER TABLE PRODUCT
+Page 1 of 4
+--- page 2 ---
+ADD COLUMN SUPPLIER VARCHAR(18);
+B. Q(i)3mks Q (ii,iii,iv) 1.5 MKS EACH   7.5
+(i) Insert 3 records in ORDERS table
+INSERT INTO ORDERS (OID, Customer, Item, quantity, Odate, amt) VALUES
+(1, 'Riya', 'book', 3, '2025-09-01', 300),
+(2, 'Vijay', 'Pen', 5, '2025-09-02', 400),
+(3, 'Amrita', 'Stapler', 2, '2025-09-03', 350);
+(ii) Change the Total amount to 500 in the first record
+UPDATE ORDERS
+SET amt = 500.00
+iii) Alter table order
+change customer cust_name char(20);
+iv) Delete from order
+where OID=3;
+C.   7.5
+i)
+SELECT CID, BRANCH, SALARY FROM IBM;
+ii)
+SELECT CNAME, (SALARY + 1000) AS New_Salary FROM IBM;
+iii)
+SELECT * FROM IBM WHERE SALARY < 25000;
+iv)
+SELECT * FROM IBM WHERE MONTH(JDATE) = 3;
+v)
+SELECT CID, CNAME FROM IBM WHERE LENGTH(CNAME) > 6;
+2.   Answer the following question.(Attempt Any 2 Questions)   15
+Page 2 of 4
+--- page 3 ---
+A.   7.5
+(1.5 marks each)
+i. DAY()
+Extracts the day of the month (1–31) from a date or datetime.
+DAY(date)
+Example:
+SELECT DAY('2025-09-22') AS DayPart;
+ii. LENGTH()
+Returns the length in bytes of a string. For multi-byte characters, this may differ from
+character count.
+LENGTH(string)
+Example:
+SELECT LENGTH('MySQL') AS LengthBytes;
+iii.LEFT()
+Returns the leftmost N characters of a string.
+LEFT(string, number_of_characters)
+Example:
+SELECT LEFT('MySQLDatabase', 5) AS LeftPart;
+iv. SUM()
+Returns the sum of numeric values in a column (ignores NULLs).
+SELECT SUM(column_name) FROM table_name;
+Example:
+SELECT SUM(salary) AS TotalSalary FROM employees;
+v. MOD()
+Returns the remainder of division of one number by another (modulus).
+MOD(dividend, divisor)
+Example:
+SELECT MOD(29, 5) AS Remainder;
+B. (2.5 marks each)   7.5
+i) SELECT *
+FROM FLIGHTS
+WHERE TDATE BETWEEN '2015-01-01' AND '2025-01-01';
+ii) SELECT FNO, AIRLINE, TDATE, SEATS, FARE, (SEATS * FARE) AS Revenue
+FROM FLIGHTS ;
+iii) SELECT CONCAT('The fare of ', FNO, ' by ', AIRLINE, ' was ', FARE, ' on ', TDATE)
+FROM FLIGHTS;
+Page 3 of 4
+--- page 4 ---
+C. ( 2.5 marks each)   7.5
+i. SELECT TNAME, TREES.TID, PDATE
+FROM TREES, PLANTING
+WHERE TREES.TID = PLANTING.TID;
+ii. SELECT TNAME, SPECIES, PID, PDATE
+FROM TREES, PLANTING
+WHERE TREES.TID = PLANTING.TID
+AND HT > 500;
+iii. SELECT TNAME, PID, SPECIES, HT
+FROM TREES, PLANTING
+WHERE TREES.TID = PLANTING.TID AND TNAME LIKE "A%";
+Page 4 of 4
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · Answer key · paper 4007ee405c04

@@ -1,8 +1,56 @@
 # Statistical Methods: question papers in full
 
-84 unique papers · 2006-07 to 2025-26 · Artificial Intelligence, Common (all branches), Chemical, Information Technology, Data Science, Civil, Electronics and Telecommunication, Mechanical, Computer Applications (MCA), AI and Data Science, Computer Science and Business Systems, AI and Machine Learning, Computer Engineering
+86 unique papers · 2006-07 to 2025-26 · Artificial Intelligence, Common (all branches), Chemical, Information Technology, Data Science, Civil, Electronics and Telecommunication, Mechanical, Computer Applications (MCA), AI and Data Science, Computer Science and Business Systems, AI and Machine Learning, Computer Engineering, Commerce
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 2 · paper 941b1511bbb6
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Management and Finance) - 45615
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce (Management and Finance) - 45615/Business Laws/Statistical Methods/QP_Final-Exam_Statistical Methods(UISME159)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 13 Mar 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+SVKM's UPG College of Arts, Sci. & Com.
+Programme: Bachelor of Science (Information Technology)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Statistical Methods
+Date: 13 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Simple Calculator is allowed
+5. Assume suitable data wherever required
+Q1. (Attempt Any 2 Questions)   10
+a. Write merits and demerits of Standard Deviation. Give suitable examples wherever possible.   5
+b. Find Median Score   5
+Score   10 12 14 16
+Number of students 24 25 12 13
+c. Plot Histogram   5
+Class   10 – 20   20 – 30   30 – 40   40 – 50
+Frequency   10   20   30   10
+Q2. (Attempt Any 2 Questions)   10
+a. Find Variance of 15, 12, 13, 15   5
+b. Find First raw moment of 4, 8, 5, 1   5
+Page 1 of 2
+--- page 2 ---
+c. What is Kurtosis. Give appropriate example and explain.   5
+Q3. (Attempt Any 2 Questions)   10
+a. Write a note on Correlation. Give a suitable example.   5
+b. Draw Regression line.   5
+X   2   4   6   8   10
+Y 10 12 14 15 16
+c. Find Karl Pearson’s coefficient of Correlation and comment on the type of correlation.   5
+X   5   6   7   8
+Y   22   15   16   14
+Page 2 of 2
+````
 
 ## 2025-26 · Final-Exam · Sem 3 · paper 12b14b1960e4
 
@@ -3487,7 +3535,7 @@ Y=ZBp+e
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE & DATA SCIENCE/STATISTICAL METHODS/Statistical Methods, Sem-III, A Y 2023-24, Final Exam.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 21/11/2023
 - Text: ocr (6 pages), mean OCR confidence 86.4
-- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -3527,6 +3575,7 @@ CO-2 ; calculated as 24.5 units. It was later discovered that one of the
 SO- 1; measurements was wrongly recorded as 18.2 units, but it should have been
 BL-3 28.2 units. Calculate the correct geometric mean after correcting this error.
 a 4; . Comment on following result of two sandwich shops in the town, Jimmy’s Bl
+SO-1; Sandwich Shop and Fozzie’s Sandwich Emporium
 BL-3
 
 Page 1 of 6
@@ -3537,6 +3586,7 @@ Price e
 $e : ss @
 
 2 2 7 Toppings ‘ a Toppings
+Fozzie's Sandwich Shop Jimmy’s Sandwich Shop
 Price = $5 + $0.64(1 of toppings) Price = $5 +$1.00(# of toppings}
 
 RA2= 82%
@@ -10075,7 +10125,6 @@ iii) Primary and secondary data.
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/All STREAM/SEM IV/Statistical Methods/Statistical Methods Batch 2015-16 Re Exam0001.pdf`
 - Printed on paper: exam date: 09 July 2016
 - Text: ocr (2 pages), mean OCR confidence 89.8
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -10178,6 +10227,7 @@ persons from another town 240 are found to be tea drinkers. Is the proportion of
 
 two equals? Use 0.01 level of significance. (Given Z, 4, = 2.58). (6)
 
+FO GIG GOI IRGC GIGI ICICI GIGI AGG ICK II I sk kek a ak aka a a ok a
 ````
 
 ## 2014-15 · Final-Exam · Sem 4 · paper 48933464eafa
@@ -13489,7 +13539,7 @@ _ [4961 |.4864.|.4868 |.4871 |.4875 4.4878 |.4841 |.4884 |.4887 A89Q
 - Programmes: MCA
 - Source: `02_Question_Papers/Legacy/MCA/1ST YEAR/TRIM III/STATISTICAL METHODS/2008-2009(9).pdf`
 - Text: ocr (4 pages), mean OCR confidence 43.5
-- 31 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 30 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -13589,6 +13639,7 @@ _ &) For a Linorored wasn Pee the mean = © and vurtapee =),
 
 ae Rak pa fence OCx=2) (8)
 
+7 o- an quweage one. ii 5O_ “andiduals 1s a fax. ee
 Cm Fe
 —_ the poebilty That? the sample onclude (a, taro @ _
 

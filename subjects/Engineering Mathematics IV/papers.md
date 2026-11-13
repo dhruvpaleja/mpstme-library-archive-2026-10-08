@@ -9143,7 +9143,7 @@ z 0 1 4 3 4 5 6 ? 8 5
 - Programmes: B TECH / CIVIL, B TECH / COMPUTER, B TECH / MECHANICAL
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/ENGINEERING MATHEMATICS IV/ENGINEERING MATHEMATICS IV B TECH (ALL STREAMS) 2014-15 RE EXAM.pdf` (+2 identical copies)
 - Text: ocr (6 pages), mean OCR confidence 55.4
-- 32 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 31 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -9316,6 +9316,7 @@ er
 4 SHtenRanoaeaa Ona on BOotQHORDOnAD
 5 seRegugocar BYE QAAA a Aaa ea oe aes
 ial ; :
+st muowrtnoornroem int Cel aero (FOO YOCoOKsK AOD
 og 2h oom rae & at a
 a _ .
 A DADNAODDOS Te} a

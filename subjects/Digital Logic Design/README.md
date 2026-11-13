@@ -1,6 +1,6 @@
 # Digital Logic Design
 
-**122** unique papers (202 copies across programmes) · 2010-11 to 2025-26 · 23 programmes · Sem 2, Sem 3, Sem 4, Sem 7, Trim 4
+**123** unique papers (203 copies across programmes) · 2010-11 to 2025-26 · 24 programmes · Sem 2, Sem 3, Sem 4, Sem 7, Trim 4
 
 Download only this subject, sorted by academic year:
 
@@ -51,6 +51,7 @@ Also filed as: `DIGITAL LOGIC AND DESIGN`
 | 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech IT 7041 | ANS_Digital Logic Design(702EX0C028)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3 | B TECH, B TECH / COMPUTER, B TECH / CSE-CYBER SECURITY, B TECH / EXTC, B TECH / I T, B TECH / MECHATRONICS, MBA TECH / COMPUTER, MBA TECH / I T | Digital Logic Design Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3, Sem 7 | B TECH / COMPUTER, B TECH / EXTC, B TECH / I T, B TECH / MECHATRONICS, B.TECH INTEGRATED / COMPUTER, MBA TECH / I T | Digital Logic Design, Sem-III, Batch 2024-25, Re Exam.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / IT | Digital_Logic_Design_Batch_2022-23_2023-24_2024-25_Re_Ex0001_STzvQICf7p.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 3, Sem 7 | B TECH / COMPUTER, B TECH / CSE-CYBER SECURITY, B TECH / EXTC, B TECH / I T, B TECH / MECHATRONICS, B.TECH INTEGRATED / COMPUTER, MBA TECH / COMPUTER, MBA TECH / I T | Digital Logic Design, Sem-III, Batch 2023-24 Final Batch 2022-23 Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 3, Sem 7 | B TECH / COMPUTER, B TECH / CSE-CYBER SECURITY, B TECH / EXTC, B TECH / I T, B TECH / MECHATRONICS, B.TECH INTEGRATED, MBA TECH / COMPUTER, MBA TECH / I T | Digital Logic Design , Re-exam 2022-23,2023-24.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 3 | B TECH / COMPUTER, B TECH / CSE-CYBER SECURITY, B TECH / EXTC | Digital Logic Design, 2nd Year, Sem-III, Year 2022-23, Fianl Exam.pdf |

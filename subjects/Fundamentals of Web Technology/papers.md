@@ -1,6 +1,6 @@
 # Fundamentals of Web Technology: question papers in full
 
-20 unique papers · 2013-14 to 2019-20 · Computer Engineering
+24 unique papers · 2013-14 to 2019-20 · Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -101,6 +101,100 @@ d) Secure socket layer (3)
 2]
 
 &
+````
+
+## 2018-19 · Final + Re-Exam · Sem 5 · paper 4c67d047a2cc
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: COMPUTER/SEMESTER V/FUNDAMENTALS OF WEB TECHNOLOGY/Fundamentals_of_Web_Technology_2018-19_Final_Batch_2017-18_Re_Exam_tCdZPLnwUv.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 26 November 2018
+- Text: ocr (2 pages), mean OCR confidence 90.9
+
+````text
+d
+
+, SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENG
+
+Program B.Tech Integrated (COMPUTER) Year: WI S$ 18
+AcademicY ear: 2018-2019 ‘
+
+Subject: Fundamentals of Web Technology -~ Marks: 70
+Time:2.00 pm to 5.00pm
+Duration: 3 (hrs) _-
+
+No. of Pages:_O2—~
+
+Final Examination (2018-19)Re-examination (2017-18) =~
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+Date : 26 November 2018 _~
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql a. — Justify the following : (3 marks each) 6
+
+1. Post method should be used to send confidential data across the internet.
+2. TCP is a reliable protocol.
+
+b. Explain the following HTML tags. (2 marks each) 8
+1. <iframe>
+2. <meta>
+3. <doctype>
+4. <map>
+Q2 a. Explain Request and Response object in ASP 6
+
+b. Write JavaScript program to validate a form which accepts Name, Date of Birth, 8
+email and Phone Number of a student. Check the following:
+e All fields should be filled
+e Email should contain '@! and "\'
+e Phone number length is 10.
+e Date should be a valid format.
+
+Q3 a. Write anote on ASP.net 7
+b. | What is CSS? Explain the ways by which CSS is included in the web page. 7
+Q4 a. Explain Window and Date objects in Javascript. 7
+
+Ol
+gow
+
+— 2
+--- page 2 ---
+Qs
+
+Q6
+
+Q7
+
+Write a note on Secure Electronic Transaction (SET) with neat diagram.
+
+Differentiate between JSP and Servlet.
+
+What is E-Commerce. Explain B2C ecommerce and major activities performed in
+it.
+
+Explain one, two and three tier architecture with the help of suitable diagram.
+
+List and explain E-commerce security issues. Write a note on Electroni Data
+Interchange (EDD.
+
+Explain HTTP: in detail.
+
+Explain Javascript String methods with examples.
 ````
 
 ## 2018-19 · Final + Re-Exam · Sem 6 · paper 1f5e39713ce0
@@ -536,6 +630,105 @@ d)   DHTML
 -
 ````
 
+## 2017-18 · Re-Exam · Sem 5 · paper b9dc346cd551
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: COMPUTER/SEMESTER V/FUNDAMENTALS OF WEB TECHNOLOGY/Fundamentals_of_Web_Technology_Batch_2017-18_Re_Exam_KUO2xndWnl.pdf`
+- Printed on paper: exam date: 02 June 2018
+- Text: ocr (2 pages), mean OCR confidence 89.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech Integrated (Computer) Year: III « Semester: V
+
+Batch: 2017-18 °
+Academic Year: 2017-2018
+
+Subject: Fundamentals of Web Technology yp QGENT HF Bap, ~
+Marks: : ‘he. "
+Date: 02 June 2018 Tim #000 am to 1.00 pin, .
+. Du us: 3 (hrs) id 33 a
+NOME eS ae J
+“ ye Re ales
+
+Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql :
+a) Write a short note on: World Wide Web (WWW), [3]
+b) Explain the benefits of Ecommerce. [3]
+c) Write a JavaScript program that accept two integers and display the largest integer. [4]
+d) Briefly explain <Frameset> tag with suitable example. [4]
+Q2
+a) Compare and contrast between One, two and three tier architecture. [7]
+b) How the event is handled in JavaScript? Explain any three event handling methods in JavaScript. [7]
+Q3
+
+a) Explain Client side validation. Create a basic HTML form with 5 fields (Name, Email id, Mobile [7]
+number, password, Address). Perform following validations on the form.
+e Name must not be empty and it must contain characters only.
+e Email-id must contain @ symbol.
+e Mobile number must be 10 digits only.
+e Password must be at least 8 characters.
+b) Briefly explain the security issues of Ecommerce. [7]
+
+Q4
+a) Why HTTP is stateless protocol? Explain different methods of HTTP in detail. [7]
+
+7:
+--- page 2 ---
+b)
+
+Explain following HTML/CSS tags (along with the attributes) with suitable example
+
+e <Style>
+e <a>
+e <th>
+.e@ <br>
+e <div>
+
+Explain Life Cycle of Servlet.
+Explain TCP/IP Protocol Suite in detail.
+
+Explain Different Types of Payment System in Online Transaction.
+Write a short note on Secure Socket Layer.
+
+Write a short note : (Any two)
+
+Cascading Style sheets.
+
+Operators and control structure in JavaScript
+
+Business to Business (B2B) and Business to Customer (B2C) models.
+
+[7]
+
+(7]
+[7]
+
+[7]
+[7]
+
+[14]
+````
+
 ## 2017-18 · Re-Exam · Sem 6 · paper 28e42eed249f
 
 - Departments: Computer Engineering
@@ -814,6 +1007,66 @@ Different Types of Payment System in Online Transaction
 Page 2/2
 ````
 
+## 2016-17 · Final-Exam · Sem 5 · paper a2895f4ef0aa
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: COMPUTER/SEMESTER V/FUNDAMENTALS OF WEB TECHNOLOGY/Fundamentals_of_Web_Technology_2016-17_Final_S33KEqSRhs.pdf`
+- Text: ocr (1 page), mean OCR confidence 94.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech Integrated (COMPUTER) Year: III Semester: V
+Academic Year: 2016-2017
+Subject : Fundamentals of Web Technology
+
+Date : 0S December 2016 Time 100
+
+Final-Examination
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q1. a. Explain client server model. 04
+b. Explain HTML Iframes and also write Syntax for the following. 08
+i) Anchor
+ii) Fonts
+iii) Images
+iv) Headings
+v) Frames
+vi) Tables
+Q2. a. What is servelet? Also write difference between HTML and DHTML. 06
+b. Where in an HTML document is the correct place to refer to an external style sheet?
+Explain CSS Box Model. 06
+Q.3. a. Between JavaScript and an ASP script, which is faster? Explain. 04
+b. Write the code for adding new elements dynamically’. 08
+Q4. a. Write Java script code for validation of email id. Also incorporate code for validation of Date
+format . Date format should be mm/dd/yyyy. 06
+b. Explain step by step data handling in ASP with a suitable example. 06
+Q.5.a. Explain TCP/IP protocols. Also write the services provided through internet. 06
+b. Explain different ways of managing sessions. 06
+— Q6. a. Explain Java applet with one example. Also write life cycle of applet. 08
+b. what is digital certificate. Explain in short. 04
+os Q7. Write short note .(any two) : 12
+i) Cookies
+ii) AJAX
+iii) SSL
+
+1/4
+````
+
 ## 2016-17 · Final-Exam · Sem 6 · paper fdc210671550
 
 - Departments: Computer Engineering
@@ -1028,6 +1281,162 @@ c. DHTML ; d. SSL Handshake.
 ae SS ace ----X
 
 1/1
+````
+
+## 2016-17 · Re-Exam · Sem 5 · paper ea60f5a9057f
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: COMPUTER/SEMESTER V/FUNDAMENTALS OF WEB TECHNOLOGY/Fundamentals_of_Web_Technology_Batch_2016-17_Re_Exam_8yY04JdR9e.pdf`
+- Printed on paper: exam date: 01-Jun-17
+- Text: ocr (2 pages), mean OCR confidence 88.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated (COMPUTER) Year: III Semester: V
+
+Batch: 2016-17
+
+stating
+~
+
+Mea,
+
+ATGTE x
+
+ZONE® Ray
+Ay
+
+Academic Year: 2016-2017
+Subject: Fundamentals of Web Technology
+
+Date: 01-Jun-17
+
+Re-Examination
+Instructions: Candidates should read carefully the instructions printed on the question
+of the Answer Book, which is provided for their use.
+
+1) Question No. Q1_ is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql. Write HTML Code for follo
+a) My list of jokes Microsoft Inte
+
+=/O1 x)
+
+_ Kai
+
+Address [&] c:\webste|joke10.htm! =] 60 Links”)
+
+My Registration Page
+First name:
+Last name:
+Password:
+Re-Type Password
+SEX
+© Male
+© Female
+
+Additional Information
+
+Put me on mail list
+
+Peset | Ey
+
+‘Zjdone 1G My Computer
+
+b) Explain the following with example
+1. Table tag 2. Font tag
+3. Frame tag 4. Submit button
+5. text box tag 6. Check box tag
+
+sf
+
+6M
+
+6M
+--- page 2 ---
+Q2
+
+Q3
+
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+a)
+
+a)
+b)
+
+a)
+b)
+
+a)
+
+a)
+b)
+
+What are java script objects? Explain.
+What is DHTML. Write code for menu and image rollover.
+
+What is CSS? Describe the different ways that styles can be added to a page with suitable
+examples.
+
+’ Explain HTTP request &HTTP response ‘in details.
+
+Explain life cycle of Applet. Write code for creating three concentric circles.
+Explain proxy server and its functions in details.
+
+Compare and contrast between JSP and ASP.
+Explain the online payment mode of E-Commerce.
+
+What is Secure Socket Layer? Give its Architecture.
+What is session? How to manage sessions.
+
+Write a Short Hote on:
+
+a) Components of Web
+
+b) Web server
+
+c) ASP.Net Page Life cycle
+
+nN
+
+6M,
+6M
+
+6M
+6M
+
+6M
+6M
+
+6M
+6M
+
+6M
+6M
+
+12M
 ````
 
 ## 2016-17 · Re-Exam · Sem 6 · paper 03e84a10f6e6

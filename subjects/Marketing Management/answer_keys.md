@@ -2,6 +2,392 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 67b0e0d62cf4
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Economics) - 45616
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Commerce (Economics) - 45616/Marketing Management/ANS_Final-Exam_Marketing Management(NFMMT153)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 18 Mar 2026
+- Text: text (4 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Commerce (Economics)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Marketing Management
+Date: 18 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 4 pages
+2. All questions are compulsory
+3. Answer to each new question to be started on a fresh page.
+4. Support your answers with valid examples wherever necessary.
+5. Figure in right hand side indicate full marks
+1.   Answer in Brief   8
+A. Answer: Brief analysis of each along with example - 2 marks each, Total - 8 marks   8
+Marketing as an Economic Function: Marketing involves all business activities that move
+goods and services from producers to final consumers. It ensures distribution and value
+creation in the economy. Example: Distribution of FMCG products from manufacturer to
+retailers.
+Marketing as a Legal Process: Marketing involves transfer of ownership from seller to
+buyer through exchange under legal protection. Example: Purchase of a car where
+ownership legally transfers after payment.
+Marketing as a Managerial Function: Marketing includes planning, organizing, directing
+and controlling activities to satisfy selected market segments profitably. Example:
+Designing pricing and promotional strategy for a new product launch.
+Marketing as a Social Process: Marketing identifies and satisfies changing consumer
+needs while improving societal standard of living. Example: Launch of eco-friendly
+products supporting sustainability.
+------------- OR -------------
+B. Answer: Application of any 4 marketing orientation - 2 marks each, Total - 8 marks   8
+Page 1 of 4
+--- page 2 ---
+Production Concept: If the company adopts the production concept, it will focus on mass
+production and low cost to make the product widely available and affordable, which can
+increase short-term sales but may limit long-term profitability if customer preferences
+are ignored.
+Product Concept: If the company follows the product concept, it will emphasize superior
+quality and continuous innovation, which can build strong brand reputation and
+customer loyalty, leading to sustained long-term profits.
+Selling Concept: If the company adopts the selling concept, it will rely on aggressive
+promotion and persuasive selling to increase sales volume, which may boost short-term
+revenue but may not ensure repeat purchases or long-term customer relationships.
+Marketing Concept: If the company follows the marketing concept, it will design its
+strategy around customer needs and satisfaction, resulting in stronger customer loyalty,
+competitive advantage, and higher long-term profitability.
+Societal Marketing Concept: If the company adopts the societal marketing concept, it will
+balance customer satisfaction, company profits, and social welfare, thereby enhancing
+brand image, trust, and sustainable long-term growth.
+2.   Answer in Brief   8
+A. Answer: Evaluation of all 5 steps in evolution - 1 mark each and Justification - 3 marks,   8
+Total - 8 marks
+1. Mass marketing – One-size-fits-all
+2. Early segmentation – Demographic & geographic
+3. Advanced segmentation – Psychographic & behavioral
+4. Technology role – Data-driven segmentation
+5. AI-driven precision – Dynamic, real-time personalization
+Most suitable today: AI-driven dynamic segmentation due to personalization and
+predictive insights.
+------------- OR -------------
+B. Answer: Brief analysis of any 8 positioning strategies - 1 mark each or any 4 - 2 marks   8
+each, Total - 8 marks
+Types of Positioning Strategies:
+1. Product characteristics
+Page 2 of 4
+--- page 3 ---
+2. Pricing positioning
+3. Use/Application
+4. Product process
+5. Product class
+6. Cultural symbols
+7. Competitor-based
+8. Quality/Luxury
+9. Problem-solution, etc.
+3.   Answer in Brief   8
+A. Answer: Brief explanation of all 4Ps - 2 marks each, Total - 8 marks   8
+4Ps of Marketing:
+Product: Product refers to the goods or services offered to satisfy customer needs. Its
+significance lies in identifying features, quality, branding and packaging that create value
+and differentiation in the market.
+Price: Price is the amount charged for a product or service. It is significant because it
+directly affects demand, revenue, profitability and competitive positioning.
+Place: Place refers to the distribution channels used to make the product available to
+customers. Its significance lies in ensuring timely availability and convenience to the
+target market.
+Promotion: Promotion includes activities that communicate product benefits and
+persuade customers to purchase. It is significant in creating awareness, stimulating
+demand and building brand image.
+------------- OR -------------
+B. Answer: Any 4 relevant factors - 2 marks each, Total - 8 marks   8
+Factors Affecting Choice of Distribution Channel
+Product Factors: The company must consider the nature of the product. Perishable goods
+require shorter or direct channels to avoid spoilage, while durable household appliances
+may require shorter channels with technical support and after-sales service.
+Page 3 of 4
+--- page 4 ---
+Market Related Factors: The company should consider the nature, number and location
+of customers. If customers are widely scattered and large in number, longer channels may
+be required, whereas concentrated industrial buyers may require shorter channels.
+Company Factors: The financial strength and extent of control desired by the company
+influence the choice of channel. A financially strong company can establish its own
+distribution network, while others may depend on existing intermediaries.
+Channel Related Factors: The ability, financial strength and service capability of
+intermediaries must be evaluated to ensure efficient distribution and after-sales support.
+Environmental Factors: Economic conditions, legal regulations and fiscal structure may
+affect the choice of distribution channels and arrangements with intermediaries.
+4.   Answer in Brief   6
+A. Answer: Evaluation of 4 PR media formats - 1.5 marks each, Total - 6 marks   6
+PR media formats:
+1. Publications help communicate company achievements and strengthen corporate
+credibility.
+2. Events create direct engagement and enhance public goodwill.
+3. News releases provide media exposure and build positive public perception.
+4. Speeches allow leadership to influence stakeholders and reinforce brand values.
+5. Public service activities demonstrate social responsibility and improve corporate
+image.
+------------- OR -------------
+B. Answer: Segmentation Strategy - 2 marks, Targeting Strategy - 2 marks, Positioning   6
+Strategy - 2 marks, Total - 6 marks
+Suggestive STP Strategy:
+Segmentation Strategy: The market can be segmented based on lifestyle, health
+consciousness and dietary preferences.
+Targeting Strategy: The company may target health-conscious consumers and individuals
+preferring plant-based diets.
+Positioning Strategy: The product can be positioned as a healthy and sustainable
+alternative to traditional dairy beverages.
+Page 4 of 4
+````
+
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 279a677b068e
+
+- Departments: Management Studies
+- Programmes: Bachelor of Management Studies - 45614
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Management Studies - 45614/Marketing Management/ANS_Final-Exam_Marketing Management(NBMKT151)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 22 Jun 2026
+- Text: text (8 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.M.S.
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Marketing Management
+Date: 22 Jun 2026   Time: 10:30 am - 12:30 pm (02:00 Hrs.)
+Max Marks: 60
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 8 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+1.   Answer the following:(Attempt Any 2 Questions)   12
+a.   6
+(6 Marks: Definition – 2, Features – 4)
+Definition (AMA):
+Marketing is the activity, set of institutions, and processes for creating, communicating,
+delivering, and exchanging offerings that have value for customers, clients, partners, and
+society at large.
+Features of Marketing:
+Customer-oriented approach
+Value creation and delivery
+Exchange process
+Continuous and dynamic activity
+Involves planning and decision-making
+Integrated function (covers product, price, place, promotion)
+Page 1 of 8
+--- page 2 ---
+b. Strategy: Push Strategy   6
+· Works through intermediaries (retailers)
+· Encourages stocking and selling
+· Effective for new or low-demand products
+Marking Scheme (6 Marks): (Identification – 2, Explanation – 2, Application (when effective)
+– 2
+c. Marketing Information System (MIS): A system that collects, analyses, and provides   6
+continuous information for marketing decision-making. Marketing Research (MR): A
+systematic process of collecting and analysing data to solve specific marketing problems.
+Importance in Marketing: • Helps in better decision-making • Understands customer needs and
+preferences • Reduces risk and uncertainty • Identifies market trends and opportunities •
+Improves planning and strategy formulation • Supports problem-solving (e.g., declining sales)
+(6 Marks: MIS – 1, MR – 1, Importance – 4)
+2.   Answer the following:(Attempt Any 2 Questions)   12
+a. Marking Scheme- 1 Mark for each well explained step with example   6
+Market segmentation is the process of dividing a broad market into smaller groups of
+consumers with similar needs or characteristics to enable effective targeting.
+Steps in Market Segmentation
+Identify the Market
+Define the overall market to be segmented.
+E.g., smartphone market.
+Select Segmentation Bases
+Choose criteria such as geographic, demographic, psychographic, or behavioural variables.
+Develop Segment Profiles
+Analyse and describe each segment in terms of needs, preferences, and characteristics.
+Evaluate Segment Attractiveness
+Assess segments based on size, profitability, accessibility, and growth potential.
+Select Target Segment(s)
+Choose the most suitable segment(s) to serve.
+Develop Marketing Strategies- Create tailored marketing strategies for the selected segments.
+Application (Example)
+Example: Nike
+Market Identified: Sportswear market
+Page 2 of 8
+--- page 3 ---
+Segmentation Base: Demographic (age), psychographic (fitness lifestyle), behavioural
+(sports usage)
+Segment Profile: Young, fitness-conscious consumers
+Target Segment: Athletes and active individuals
+Nike applies segmentation to design performance-based products and targeted marketing
+campaigns.
+b.   6
+Marking Scheme- 2marks each for each segmentation bases
+Market segmentation bases such as demographic, psychographic, and behavioural are used to
+divide consumers into groups. Their suitability varies depending on the nature of the product,
+market, and consumer behaviour.
+1. Geographic Segmentation
+Divides the market based on location-related factors such as region, climate, city size, or
+population density.
+Focus: Where the customer is
+Use: Suitable for products influenced by climate, culture, or regional preferences
+Example: Amul adapting product availability across regions
+2. Demographic Segmentation
+Segments consumers based on measurable characteristics like age, gender, income,
+education, and occupation.
+Focus: Who the customer is
+Use: Widely used for mass-market and FMCG products due to easy data availability
+Example: HUL targeting different income and age groups
+3. Psychographic Segmentation
+Divides consumers based on lifestyle, values, interests, and personality traits.
+Focus: Why the customer behaves
+Use: Effective for lifestyle, luxury, and branding-driven products
+Example: Nike targeting fitness-oriented and aspirational consumers
+Page 3 of 8
+--- page 4 ---
+c.   6
+Marking Scheme:
+2 marks for segmentation
+2 marks for targeting
+2 marks for positioning
+Segmentation (2 Marks)
+Demographic: Youth (18–35), students, and middle-income groups
+Geographic: Urban and semi-urban markets in developing regions
+Behavioural: Price-sensitive consumers seeking value-for-money and essential features
+Psychographic: Practical, tech-aware users looking for affordability and reliability
+Targeting (2 Marks)
+Target Segment: Students, young professionals, and first-time smartphone buyers
+Targeting Strategy: Concentrated targeting focusing on value-conscious consumers
+Focus on consumers who prioritize affordability, battery life, and functionality over
+premium features
+Positioning (2 Marks)
+Position as a “reliable, feature-rich smartphone at an affordable price”
+Emphasize long battery life, decent camera, durability, and smooth performance
+Compete with brands like Xiaomi and Realme by offering superior value for money
+3.   Answer the following:(Attempt Any 2 Questions)   12
+a. Marking Scheme: 5 marks– any 5 reasons, 1 mark–example   6
+Page 4 of 8
+--- page 5 ---
+Answer:
+Product failure occurs when a product does not meet customer expectations or fails to achieve
+commercial success.
+Reasons:
+1. Lack of market research: Firms may not properly understand customer needs, leading to
+poor product-market fit.
+2. High pricing: If the product is priced too high, customers may avoid it despite good quality.
+3. Poor promotion: Ineffective marketing can result in low awareness and weak demand.
+4. Inferior quality: If the product does not perform as expected, customers lose trust.
+5. Wrong target market: Targeting the wrong audience reduces sales potential.
+6. Strong competition: Established competitors can dominate the market and limit new product
+success.
+Example: Google Glass failed due to high pricing and privacy concerns.
+b. Marking Scheme: 1 mark–definition, 4 marks–role, 1 mark–example   6
+Answer:
+Packaging refers to designing and producing the container of a product, while labelling
+provides detailed information about it.
+Role:
+1. Attracts attention: Attractive packaging helps products stand out on shelves and encourages
+impulse buying.
+2. Provides information: Labels inform customers about ingredients, usage, price, and expiry,
+helping informed decisions.
+3. Ensures safety: Proper packaging protects the product from damage and contamination.
+4. Differentiates product: Unique packaging helps distinguish a product from competitors.
+5. Builds brand image: High-quality packaging creates a perception of premium quality.
+Example: Premium chocolate brands use elegant packaging to attract buyers.
+c. Marking Scheme: 3 marks–analysis, 3 mark–strategies   6
+Page 5 of 8
+--- page 6 ---
+Answer:
+Product Life Cycle (PLC) describes the stages a product goes through: introduction, growth,
+maturity, and decline.
+Analysis and strategies to extend maturity:
+1. Product modification: Introducing new features, designs, or improved quality can renew
+customer interest and differentiate the product.
+2. Market expansion: Entering new geographic markets or targeting new customer segments
+helps increase demand.
+3. New uses: Promoting alternative uses of the product can expand its consumption.
+4. Rebranding and promotion: Refreshing brand image and using innovative advertising
+campaigns can revive interest among consumers.
+5. Bundling and offers: Combining the product with other products or offering discounts can
+boost sales.
+Example: Coca-Cola extends its maturity stage by introducing new flavors, packaging, and
+marketing campaigns.
+4.   Answer the following:(Attempt Any 2 Questions)   12
+a. Synoptic Points for Answer: 1. Types of retailers: • Supermarkets: Wide variety, convenient for   6
+urban areas. • Convenience stores: Small stock, easy access. • Specialty stores: Focus on
+organic or health products. • Online retailers/e-commerce: Broad reach, ideal for urban
+customers. 2. Factors affecting distribution channel choice: • Product nature: Perishable, high-
+value → require careful handling. • Market coverage: Urban vs semi-urban vs rural. • Cost
+considerations: Direct vs indirect channels. • Control over brand: Premium brands may avoid
+discount stores. • Intermediary capability: Expertise in handling the product. • Competition:
+Channels competitors are using. 3. Analysis: • Specialty stores + e-commerce: best for brand
+image. • Supermarkets + convenience stores: maximize volume and market penetration.
+Marking Scheme (6 Marks): • Identification of suitable retailer types (2 marks) • Analysis of
+factors affecting choice (2 marks) • Linking factors to retailer selection (2 marks)
+b. Synoptic Guide: 1. Importance of promotion: • Communicates product benefits. • Persuades   6
+potential customers. • Creates brand awareness and differentiation. • Supports sales growth and
+market penetration. 2. Analysis of tools for fitness equipment: • Advertisement: Online and
+fitness magazines → wide reach. • Sales promotion: Limited-time discounts, free trials →
+Page 6 of 8
+--- page 7 ---
+immediate purchase. • Personal selling: Demonstrations in gyms → explains features, builds
+trust. • Public relations: Fitness blogs, influencer mentions → credibility, brand awareness. 3.
+Evaluation: • For cost-effectiveness → personal selling + social media promotion may give
+better ROI compared to mass TV ads. • Combination ensures awareness, trust, and purchase
+motivation. Marking Scheme (6 Marks): • Analysis of promotion’s importance (2 marks) •
+Analysis of tools suitable for target audience (2 marks) • Evaluation of most cost-effective tool
+and justification (2 marks)
+c. Synoptic Guide: 1. Comparison: • Relationship marketing: Focus on long-term engagement,   6
+personalized offers, customer retention. • Transactional marketing: Focus on single sale, price-
+based promotions, short-term revenue. 2. Evaluation: • Streaming service relies on
+subscriptions → long-term engagement is crucial. • Relationship marketing better → reduces
+churn, increases lifetime value. 3. Creative loyalty program: • Reward points for watching
+content, referrals, social sharing. • Tiered rewards (silver, gold, platinum) → encourages
+continuous engagement. • Personalization: Recommendations based on viewing habits.
+Marking Scheme (6 Marks): • Comparison of marketing strategies (2 marks) • Evaluation of
+suitability for the service (2 marks) • Loyalty program design (2 marks)
+5.   Read the case and answer the following:   12
+a. Explain the stages of New Product Development as applied in the case of Nothing Phone
+(1).
+Marking Scheme: 1 mark–definition, 4 marks–stages explained by relating it to the case, 1
+mark–example
+Answer:
+New Product Development (NPD) is the systematic process of converting an idea into a
+marketable product.
+Stages applied in the case:
+Idea Generation: Nothing identified a gap for a unique-looking smartphone and generated
+the idea of a transparent design with innovative lighting features.
+Concept Development and Testing: The concept was refined through prototypes and
+feedback from its online community to ensure customer acceptance.
+Product Development: The company developed the actual product, including hardware
+design and its custom operating system, ensuring functionality and quality.
+Test Marketing: Limited release through invitations and pre-orders allowed the company
+to test the product in real market conditions and gather feedback.
+Commercialization: The full-scale launch was carried out globally with marketing
+campaigns and competitive pricing.
+Example: The invite-only pre-order system acted as a form of test marketing before full
+launch.
+Page 7 of 8
+--- page 8 ---
+b. Analyse how effective the New Product Development process was in ensuring the success
+of Nothing Phone (1).
+Marking Scheme: 1 mark–definition, 4 marks–analysis, 1 mark–example
+Answer:
+An effective NPD process helps reduce risks and ensures that the product meets customer
+expectations.
+Analysis:
+Strong differentiation: The unique transparent design and Glyph Interface helped the
+product stand out in a highly competitive market.
+Customer involvement: Early community engagement ensured that customer preferences
+were considered, improving acceptance.
+Risk minimization: Test marketing through limited releases helped identify and fix
+software and performance issues before full-scale launch.
+Continuous improvement: Post-launch updates improved performance and user
+experience, increasing customer satisfaction.
+Example: The Nothing Phone (1)’s popularity among tech enthusiasts reflects the
+effectiveness of its development process.
+Page 8 of 8
+````
+
 ## 2025-26 · Final-Exam · Sem 7 · Answer key · paper 4ec08454d4f0
 
 - Departments: Computer Science and Business Systems
@@ -1357,6 +1743,133 @@ intermediaries will want to continue cooperating.
 intermediaries are proud to be associated with it. Companies such as IBM,
 Caterpillar, and HP have high referent power.
 ********** 9 **********
+````
+
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 3ecc8a3ef5d2
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Economics) - 45616
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Re-Exam/Bachelor of Commerce (Economics) - 45616/Marketing Management/ANS_Re-Exam_Marketing Management(NFMMT153)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 17 Jun 2026
+- Text: text (5 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Commerce (Economics)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Marketing Management
+Date: 17 Jun 2026   Time: 10:30 am - 11:30 am (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 5 pages
+2. All questions are compulsory
+3. Answer to each new question to be started on a fresh page.
+4. Support your answers with valid examples wherever necessary.
+5. Figure in right hand side indicate full marks
+1.   Answer in Brief   8
+A. Answer: Brief analysis of any 8 relevant scope - 1 mark each, Total - 8 marks   8
+Scope of Marketing:
+1. Study of consumer wants and needs
+2. Study of consumer behaviour
+3. Product planning and development
+4. Pricing policies and strategies
+5. Distribution channel decisions
+6. Promotion
+7. Marketing audit and control
+8. Consumer satisfaction, etc.
+Page 1 of 5
+--- page 2 ---
+------------- OR -------------
+B. Answer: Any 8 relevant points - 1 mark each or any 4 relevant points - 2 marks each,   8
+Total - 8 marks
+Under the push strategy, the company offers trade discounts to retailers to encourage
+them to stock the product.
+The company provides incentives to distributors to ensure wider distribution coverage.
+Channel support is given to intermediaries to motivate them to promote the product
+actively.
+Sales force efforts are directed towards persuading retailers to give better shelf space
+and visibility.
+Under the pull strategy, the company uses influencer marketing to create awareness
+and interest among consumers.
+Online and social media advertisements are used to generate direct consumer demand.
+Promotional campaigns are designed to encourage customers to specifically ask for the
+brand.
+The combined use of push and pull strategies ensures product availability in stores
+while simultaneously creating strong consumer demand, leading to increased sales and
+better market performance.
+2.   Answer in Brief   8
+A. Answer: Any 8 relevant points - 1 mark each or any 4 relevant points - 2 marks each,   8
+Total - 8 marks
+Importance of Segmentation:
+1. Enhanced Targeting
+2. Personalized Marketing
+3. Improved Customer Experience
+4. Better Communication Effectiveness
+Page 2 of 5
+--- page 3 ---
+5. Efficient Resource Allocation
+6. Competitive Advantage
+7. Market Expansion
+8. Customer Retention
+9. Product Development, etc.
+------------- OR -------------
+B. Answer: Brief overview of all steps, Total - 8 marks   8
+Steps for Effective Positioning Strategy:
+1. Confirm your understanding of market dynamics (Market Research)
+2. Identify your competitive advantages (Analyze Competition)
+3. Choose competitive advantages that define your market “niche”
+4. Define your positioning strategy
+5. Communicate and deliver on the positioning strategy
+3.   Answer in Brief   8
+A. Answer: Brief explanation of marketing strategies for all 4 levels - 2 marks each, Total - 8   8
+marks
+Introduction Stage Strategy: Firms focus on creating awareness through advertising,
+promotions, demonstrations and influencer marketing to generate initial demand.
+Growth Stage Strategy: Companies emphasize product improvement, market expansion
+and building customer loyalty through differentiation and enhanced services.
+Maturity Stage Strategy: Firms adopt strategies such as product diversification, cross-
+selling, cost reduction and continuous innovation to maintain market share.
+Decline Stage Strategy: Companies may adopt cost reduction, discounting, niche
+marketing, repositioning or exit strategies to minimize losses.
+------------- OR -------------
+B. Answer: Brief explanation for all 4 intermediaries - 2 marks each, Total - 8 marks   8
+Page 3 of 5
+--- page 4 ---
+Types of Intermediaries:
+1. Agents
+2. Distributors
+3. Wholesalers
+4. Retailers
+4.   Answer in Brief   6
+A. Answer: Evaluation of all steps in selling process - 1 mark each, Total - 6 marks   6
+Stages of the Personal Selling Process:
+1. Prospecting and Qualifying involves identifying potential customers and assessing
+their purchasing ability.
+2. Pre-approach requires gathering information about the prospect and planning the
+sales presentation.
+3. Presentation and Demonstration focuses on explaining product features and benefits to
+the customer.
+4. Persuasion involves handling objections and convincing the customer about the
+product’s value.
+5. Closing is the stage where the salesperson seeks confirmation of purchase.
+6. Servicing includes post-sale follow-up to ensure satisfaction and build long-term
+relationships.
+------------- OR -------------
+B. Answer: Segmentation Strategy - 2 marks, Targeting Strategy - 2 marks, Positioning   6
+Strategy - 2 marks, Total - 6 marks
+Suggestive STP Strategy:
+Segmentation Strategy: The market can be segmented based on occupation, age, skill
+level and career goals.
+Targeting Strategy: The company may target working professionals seeking career
+advancement through language skills.
+Page 4 of 5
+--- page 5 ---
+Positioning Strategy: The platform can be positioned as a flexible, AI-powered and
+personalized learning solution.
+Page 5 of 5
 ````
 
 ## 2025-26 · Re-Exam · Sem 5 · Answer key · paper 1258aba75cd7

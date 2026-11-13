@@ -1,6 +1,6 @@
 # Mathematics IV: question papers in full
 
-18 unique papers · 2022-23 to 2025-26 · Mechanical, Information Technology, Computer Engineering, Common (all branches), Data Science
+22 unique papers · 2022-23 to 2025-26 · Mechanical, Computer Engineering, Information Technology, Data Science, Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -468,6 +468,288 @@ spi2 4 1
 37 2
 
 FSR kad Rr
+````
+
+## 2024-25 · Final-Exam · Sem 4 · paper b67568ff9aa5
+
+- Departments: Computer Engineering
+- Programmes: BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7032
+- Source: `00_Original_Downloads/2024/67804__Semester IV__context_fixed.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7032/Mathematics-IV/QP_Final-Exam_Mathematics-IV(701BS0C012)_Semester IV_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)
+Year: II/Semester IV(Exam Year: 2024-2025)
+Subject: Mathematics-IV
+Date: 07 May 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figures in brackets on the right-hand side indicate full marks.
+4. Question No. 1 is compulsory
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+9. Scientific Calculator is allowed.
+Q1   Answer briefly:   [20]
+CO-3; BL-1;   a.   Calculate the standard deviation for the following data:   [03]
+SO-1
+2,3,4,5,6,10.
+CO-1; BL-1;   b.    2 f   [03]
+SO-1   Find   of f ( x , y ) = 4 x y
+ y x
+CO-1; BL-2;   c. Verify that y = Ae x + Be− x , where 𝐴 and 𝐵 are arbitrary constant is a   [03]
+SO-1   𝑑2𝑦
+solution of the differential equation −𝑦= 0
+𝑑𝑥2
+CO-2; BL-1;   d. Find the direction cosines of the line joining the points   [03]
+SO-1   ( 4,3, − 5 ) and ( − 2,1, − 8 )
+CO-2; BL-3;   e   Compute the values of a , b , c and d if   [04]
+SO-1
+ a + 2 4     4 2 c 
+    =    
+ b + 3 25     6 5 d 
+CO-4; BL-2;   f   Use Bisection method to find the approximate root of f ( x ) = x 2 − 3 x + 1 in   [04]
+SO-1   two iterations.
+Q2   a.   dy    y    [06]
+CO-1; BL-3;   Solve the differential equation: x   − y + x sin   = 0 .
+dx    x 
+SO-1
+CO-2; BL-2;   b. A mechanical structure is subjected to three forces F 1 , F 2 , F 3 acting at   [06]
+SO-1
+different points. The equilibrium conditions give the following system of
+equations:
+********** 1 **********
+--- page 2 ---
+3 F 1 + 2 F 2 − F 3 = 10
+2 F 1 − 3 F 2 + 4 F 3 = 5
+F 1 + 4 F 2 + 2 F 3 = 7
+Using Cramer’s Rule, determine the magnitudes of the forces F 1 , F 2 , F 3 .
+CO-2; BL-1;   c. Find the vector and cartesian equation of the line passing through the point   [08]
+SO-1   (−2, 2, 1) and perpendicular to each of the lines
+x − 1   y + 1   z − 4   x + 2   y − 3   z + 1
+=   =   and   =   =
+2   − 3   1   1   4   − 2
+Q3   a.   [06]
+CO-1; BL-3;   Solve the differential equation using variable separable method:
+SO-1   dy = cos ( x + y )
+dx
+CO-2; BL-2;   b.    2 − 5 7    [06]
+SO-1   Express the matrix A =  9   1 − 3  as the sum of a symmetric matrix and
+   
+  − 6 4   8  
+a skew- symmetric matrix.
+CO-2; BL-1;   c.   i)   Find the equation of the plane passing through the point ( − 1,2,1 )   [08]
+SO-1
+and perpendicular to the lines joining the points
+( − 3,1,2 ) and ( 2,3,4 ) .
+ii)   Show that the normal to the planes
+x − y + z = 1 and 3 x + 2 y −+ z 2 = 0 are perpendicular to each
+other.
+Q4   a.   [06]
+CO-4; BL-1;   Using Regular Falsi method find cube root of 25. Perform 2 iterations
+SO-1
+up to 2 digits after the decimal.
+CO-1; BL-2;   b.   [06]
+SO-1   The rate of decay of certain substance is directly proportional to the amount
+present at that instant. Initially there are 27 grams of certain substance and
+three hours later it is found that 8 grams are left. Find the amount left after
+one more hour using differential equations.
+CO-3; BL-3;   c. A doctor is called to see a sick child. The doctor knows that 90% of the sick   [08]
+SO-1   children in that area have the flu, while the other 10% have measles. Assume
+that no other diseases exist in the area. A well-known symptom of measles is
+rash. From past records, it is known that the probability of having a rash
+given that a child has measles is 0.95. However, sometimes children with the
+flu also develop a rash, with a probability of 0.08. Upon examining the child,
+the doctor finds a rash. What is the probability that the child is suffering from
+measles?
+********** 2 **********
+--- page 3 ---
+Q5   a.   [06]
+CO-3; BL-2;   The mean and standard deviation of 100 observations were calculated as 40
+SO-1   and 5.1 respectively by a student who took by mistake 50 instead of 40 for one
+observation. Find the correct mean and standard deviation.
+CO-2; BL-1;   b. Find the length of perpendicular from the point ( 5,4, − 1 ) to the line   [06]
+SO-1
+x + 5   y + 3   z − 6
+=   =
+1   4   − 9
+CO-2; BL-3;   c.   [08]
+SO-1   Solve the following system of equations using matrix inversion method:
+4 x + 3 y + 2 z = 60, x + 2 y + 3 z = 45, 6 x + 2 y + 3 z = 70.
+Q6   a. Two balls are drawn from a bag containing 5 green, 3 blue, 7 yellow balls   [06]
+CO-3; BL-1;   one by one without replacement. What is the probability that atleast one ball
+SO-1   is blue?
+CO-1; BL-2;   b.   [06]
+SO-1    2 u    2 u    2 u
+If u = x 3 y + y 4 then show that x 2   + 2 xy   + y 2   = 12 u
+ x 2    x y    y 2
+CO-4; BL-3;   c. Determine the solution using Gauss-Seidal Method taking 2 iterations up to 3   [08]
+SO-1   digits after the decimal.
+𝑥+ 2𝑦−𝑧= 1
+2𝑥+ 5𝑦−𝑧= 3
+𝑥+ 3𝑦+ 2𝑧= 6
+Q7   a.   [06]
+CO-2; BL-2;   Find the perpendicular distance of the point (4,1,5) from the plane
+SO-1
+𝑥+ 3𝑦−2𝑧= 9.
+CO-1; BL-3;   b. Solve the differential equation:   [06]
+SO-1   ( 1 + x 2 ) dy + 2 xy = sin x
+dx
+CO-2; BL-4;   c. Using row transformations evaluate the inverse of the following matrix:   [08]
+SO-1
+ 2 3 1 
+   
+ 2 4 1 
+  3 7 2  
+********** 3 **********
+````
+
+## 2024-25 · Final-Exam · Sem 4 · paper 5df38d7f5b15
+
+- Departments: Data Science
+- Programmes: BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038
+- Source: `00_Original_Downloads/2024/67804__Semester IV__context_fixed.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038/Mathematics-IV/QP_Final-Exam_Mathematics-IV(701BS0C012)_Semester IV_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)
+Year: II/Semester IV(Exam Year: 2024-2025)
+Subject: Mathematics-IV
+Date: 07 May 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figures in brackets on the right-hand side indicate full marks.
+4. Question No. 1 is compulsory
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+9. Scientific Calculator is allowed.
+Q1   Answer briefly:   [20]
+CO-3; BL-1;   a.   Calculate the standard deviation for the following data:   [03]
+SO-1
+2,3,4,5,6,10.
+CO-1; BL-1;   b.    2 f   [03]
+SO-1   Find   of f ( x , y ) = 4 x y
+ y x
+CO-1; BL-2;   c. Verify that y = Ae x + Be− x , where 𝐴 and 𝐵 are arbitrary constant is a   [03]
+SO-1   𝑑2𝑦
+solution of the differential equation −𝑦= 0
+𝑑𝑥2
+CO-2; BL-1;   d. Find the direction cosines of the line joining the points   [03]
+SO-1   ( 4,3, − 5 ) and ( − 2,1, − 8 )
+CO-2; BL-3;   e   Compute the values of a , b , c and d if   [04]
+SO-1
+ a + 2 4     4 2 c 
+    =    
+ b + 3 25     6 5 d 
+CO-4; BL-2;   f   Use Bisection method to find the approximate root of f ( x ) = x 2 − 3 x + 1 in   [04]
+SO-1   two iterations.
+Q2   a.   dy    y    [06]
+CO-1; BL-3;   Solve the differential equation: x   − y + x sin   = 0 .
+dx    x 
+SO-1
+CO-2; BL-2;   b. A mechanical structure is subjected to three forces F 1 , F 2 , F 3 acting at   [06]
+SO-1
+different points. The equilibrium conditions give the following system of
+equations:
+********** 1 **********
+--- page 2 ---
+3 F 1 + 2 F 2 − F 3 = 10
+2 F 1 − 3 F 2 + 4 F 3 = 5
+F 1 + 4 F 2 + 2 F 3 = 7
+Using Cramer’s Rule, determine the magnitudes of the forces F 1 , F 2 , F 3 .
+CO-2; BL-1;   c. Find the vector and cartesian equation of the line passing through the point   [08]
+SO-1   (−2, 2, 1) and perpendicular to each of the lines
+x − 1   y + 1   z − 4   x + 2   y − 3   z + 1
+=   =   and   =   =
+2   − 3   1   1   4   − 2
+Q3   a.   [06]
+CO-1; BL-3;   Solve the differential equation using variable separable method:
+SO-1   dy = cos ( x + y )
+dx
+CO-2; BL-2;   b.    2 − 5 7    [06]
+SO-1   Express the matrix A =  9   1 − 3  as the sum of a symmetric matrix and
+   
+  − 6 4   8  
+a skew- symmetric matrix.
+CO-2; BL-1;   c.   i)   Find the equation of the plane passing through the point ( − 1,2,1 )   [08]
+SO-1
+and perpendicular to the lines joining the points
+( − 3,1,2 ) and ( 2,3,4 ) .
+ii)   Show that the normal to the planes
+x − y + z = 1 and 3 x + 2 y −+ z 2 = 0 are perpendicular to each
+other.
+Q4   a.   [06]
+CO-4; BL-1;   Using Regular Falsi method find cube root of 25. Perform 2 iterations
+SO-1
+up to 2 digits after the decimal.
+CO-1; BL-2;   b.   [06]
+SO-1   The rate of decay of certain substance is directly proportional to the amount
+present at that instant. Initially there are 27 grams of certain substance and
+three hours later it is found that 8 grams are left. Find the amount left after
+one more hour using differential equations.
+CO-3; BL-3;   c. A doctor is called to see a sick child. The doctor knows that 90% of the sick   [08]
+SO-1   children in that area have the flu, while the other 10% have measles. Assume
+that no other diseases exist in the area. A well-known symptom of measles is
+rash. From past records, it is known that the probability of having a rash
+given that a child has measles is 0.95. However, sometimes children with the
+flu also develop a rash, with a probability of 0.08. Upon examining the child,
+the doctor finds a rash. What is the probability that the child is suffering from
+measles?
+********** 2 **********
+--- page 3 ---
+Q5   a.   [06]
+CO-3; BL-2;   The mean and standard deviation of 100 observations were calculated as 40
+SO-1   and 5.1 respectively by a student who took by mistake 50 instead of 40 for one
+observation. Find the correct mean and standard deviation.
+CO-2; BL-1;   b. Find the length of perpendicular from the point ( 5,4, − 1 ) to the line   [06]
+SO-1
+x + 5   y + 3   z − 6
+=   =
+1   4   − 9
+CO-2; BL-3;   c.   [08]
+SO-1   Solve the following system of equations using matrix inversion method:
+4 x + 3 y + 2 z = 60, x + 2 y + 3 z = 45, 6 x + 2 y + 3 z = 70.
+Q6   a. Two balls are drawn from a bag containing 5 green, 3 blue, 7 yellow balls   [06]
+CO-3; BL-1;   one by one without replacement. What is the probability that atleast one ball
+SO-1   is blue?
+CO-1; BL-2;   b.   [06]
+SO-1    2 u    2 u    2 u
+If u = x 3 y + y 4 then show that x 2   + 2 xy   + y 2   = 12 u
+ x 2    x y    y 2
+CO-4; BL-3;   c. Determine the solution using Gauss-Seidal Method taking 2 iterations up to 3   [08]
+SO-1   digits after the decimal.
+𝑥+ 2𝑦−𝑧= 1
+2𝑥+ 5𝑦−𝑧= 3
+𝑥+ 3𝑦+ 2𝑧= 6
+Q7   a.   [06]
+CO-2; BL-2;   Find the perpendicular distance of the point (4,1,5) from the plane
+SO-1
+𝑥+ 3𝑦−2𝑧= 9.
+CO-1; BL-3;   b. Solve the differential equation:   [06]
+SO-1   ( 1 + x 2 ) dy + 2 xy = sin x
+dx
+CO-2; BL-4;   c. Using row transformations evaluate the inverse of the following matrix:   [08]
+SO-1
+ 2 3 1 
+   
+ 2 4 1 
+  3 7 2  
+********** 3 **********
 ````
 
 ## 2024-25 · Final-Exam · Sem 4 · paper 69c66cfb4d52

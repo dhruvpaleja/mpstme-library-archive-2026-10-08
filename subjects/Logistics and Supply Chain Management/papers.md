@@ -1,6 +1,6 @@
 # Logistics and Supply Chain Management: question papers in full
 
-27 unique papers · 2007-08 to 2025-26 · Information Technology, Electronics and Telecommunication, Mechanical, Computer Engineering, Chemical, Artificial Intelligence, Data Science, Common (all branches), Manufacturing
+31 unique papers · 2007-08 to 2025-26 · Information Technology, Electronics and Telecommunication, Mechanical, Artificial Intelligence, Computer Engineering, Data Science, Chemical, Common (all branches), Manufacturing
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -692,6 +692,136 @@ CO-1; BL-2   illustrate its importance.
 --- page 2 ---
 Q7   Evaluate the advantages and disadvantages of using AI-based forecasting over   (10)
 CO-2; BL-5   traditional methods.
+********** 2 **********
+````
+
+## 2024-25 · Re-Exam · Sem 8 · paper 8a03bf55685e
+
+- Departments: Artificial Intelligence
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (ARTIFICIAL INTELLIGENCE) - 7051
+- Source: `00_Original_Downloads/2024/67754__Semester VIII__context_fixed.zip :: Re-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (ARTIFICIAL INTELLIGENCE) - 7051/Logistics and Supplychain Management/QP_Re-Exam_Logistics and Supplychain Management(703TO0C004)_Semester VIII_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 09 Jul 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (DS)/MBA.
+Tech (EXTC)/MBA. Tech (IT)/MBA. Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2024-2025)
+Subject: Logistics and Supplychain Management
+Date: 09 Jul 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Figure in right hand side indicates full marks
+5. Question No. 1 is compulsory, out of remaining questions attempt any 4 questions.
+6. In all 5 questions to be answered
+7. Assume suitable data where necessary
+QI   Answer briefly:   (10)
+Q1 A   What is the scope of Logistics in Business?   2.5
+CO-1;BL-2
+Q1 B   What is e-Commerce logistics? Illustrate your answer with examples.   2.5
+CO-1; BL-2
+Q1 C   Explain the role of intelligent warehouse management in supply chain   2.5
+CO-3; BL-2 coordination with an example.
+Q1 D   Explain the concept of a green supply chain and illustrate how it can be   2.5
+CO-3; BL-2 applied to reduce the environmental impact of a manufacturing business?
+QII   Answer following questions (Attempt any 4)
+Q2   Evaluate the factors influencing the choice of a supply chain model in   (10)
+CO-2; BL-5 various industries and design a customized supply chain model for a specific
+industry or business scenario.
+Q3 A   What are the areas to be considered while moving from domestic to   (5)
+CO-1; BL-5   international supply chain?
+Q3 B   Critically evaluate the key criteria for supplier identification that align with   (5)
+CO-2; BL-6   organizational goals and objectives.
+Q4 A   List the key factors influencing economies of scale in supply chain   (5)
+CO-3; BL-2 operations with examples.
+Q4 B   What are the benefits of using bulk and spot contracts in supply chain   (5)
+CO-3; BL-2   pricing?
+Q5 A   Describe any five types of sourcing and illustrate their application with   (5)
+CO-3; BL-3   suitable examples in real-world scenarios.
+Q5 B   Differentiate between chase strategy and level strategy in aggregate   (5)
+CO-2; BL-3 planning.
+Q6   Why do companies engage in reverse logistics activities, and who is   (10)
+CO-1; BL-5   responsible for executing these activities? Provide examples to illustrate
+********** 1 **********
+--- page 2 ---
+Q7   E-Shop, a rapidly growing e-commerce platform, has been experiencing   (10)
+CO-2; BL-6   fluctuating demand for its wide range of products. The company aims to
+optimize its inventory management and improve customer satisfaction by
+accurately predicting future demand. Objective: Design a demand forecasting
+model that can predict the future demand for different products. The model
+should help E-Shop maintain optimal inventory levels, reduce stockouts, and
+minimize excess inventory.
+********** 2 **********
+````
+
+## 2024-25 · Re-Exam · Sem 8 · paper d34693ca2dec
+
+- Departments: Data Science
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (DATA SCIENCE) - 7052
+- Source: `00_Original_Downloads/2024/67754__Semester VIII__context_fixed.zip :: Re-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (DATA SCIENCE) - 7052/Logistics and Supplychain Management/QP_Re-Exam_Logistics and Supplychain Management(703TO0C004)_Semester VIII_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 09 Jul 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (DS)/MBA.
+Tech (EXTC)/MBA. Tech (IT)/MBA. Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2024-2025)
+Subject: Logistics and Supplychain Management
+Date: 09 Jul 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Figure in right hand side indicates full marks
+5. Question No. 1 is compulsory, out of remaining questions attempt any 4 questions.
+6. In all 5 questions to be answered
+7. Assume suitable data where necessary
+QI   Answer briefly:   (10)
+Q1 A   What is the scope of Logistics in Business?   2.5
+CO-1;BL-2
+Q1 B   What is e-Commerce logistics? Illustrate your answer with examples.   2.5
+CO-1; BL-2
+Q1 C   Explain the role of intelligent warehouse management in supply chain   2.5
+CO-3; BL-2 coordination with an example.
+Q1 D   Explain the concept of a green supply chain and illustrate how it can be   2.5
+CO-3; BL-2 applied to reduce the environmental impact of a manufacturing business?
+QII   Answer following questions (Attempt any 4)
+Q2   Evaluate the factors influencing the choice of a supply chain model in   (10)
+CO-2; BL-5 various industries and design a customized supply chain model for a specific
+industry or business scenario.
+Q3 A   What are the areas to be considered while moving from domestic to   (5)
+CO-1; BL-5   international supply chain?
+Q3 B   Critically evaluate the key criteria for supplier identification that align with   (5)
+CO-2; BL-6   organizational goals and objectives.
+Q4 A   List the key factors influencing economies of scale in supply chain   (5)
+CO-3; BL-2 operations with examples.
+Q4 B   What are the benefits of using bulk and spot contracts in supply chain   (5)
+CO-3; BL-2   pricing?
+Q5 A   Describe any five types of sourcing and illustrate their application with   (5)
+CO-3; BL-3   suitable examples in real-world scenarios.
+Q5 B   Differentiate between chase strategy and level strategy in aggregate   (5)
+CO-2; BL-3 planning.
+Q6   Why do companies engage in reverse logistics activities, and who is   (10)
+CO-1; BL-5   responsible for executing these activities? Provide examples to illustrate
+********** 1 **********
+--- page 2 ---
+Q7   E-Shop, a rapidly growing e-commerce platform, has been experiencing   (10)
+CO-2; BL-6   fluctuating demand for its wide range of products. The company aims to
+optimize its inventory management and improve customer satisfaction by
+accurately predicting future demand. Objective: Design a demand forecasting
+model that can predict the future demand for different products. The model
+should help E-Shop maintain optimal inventory levels, reduce stockouts, and
+minimize excess inventory.
 ********** 2 **********
 ````
 

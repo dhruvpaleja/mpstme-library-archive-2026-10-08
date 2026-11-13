@@ -1,6 +1,6 @@
 # Principles of Economics I
 
-**10** unique papers (10 copies across programmes) · 2021-22 to 2024-25 · 2 programmes · Sem 2
+**12** unique papers (12 copies across programmes) · 2021-22 to 2024-25 · 3 programmes · Sem 2
 
 Download only this subject, sorted by academic year:
 
@@ -16,6 +16,8 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | --- | --- | --- | --- | --- | --- |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech CSE DS 7011 | QP_Principles of Economics -I(702TG0C006)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSE DS 7011 | ANS_Principles of Economics -I(702TG0C006)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 2 | BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE) - 7011 | QP_Re-Exam_Principles of Economics -I(702TG0C006)_Semester II_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE) - 7011 | ANS_Re-Exam_Principles of Economics -I(702TG0C006)_Semester II_2024-2025.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 2 | B TECH | Principles of Economics-I, Sem-II, Final & Re Exam 2021-22, 2022-23.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 2 | B TECH | Principles of Economics-I, Sem-II, Year 2022-23, Final Exam & Re Exam.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 2 | B TECH | Principles of Eocnomics-I, Batch 2021-22 & 2022-23, Re Exam.pdf |

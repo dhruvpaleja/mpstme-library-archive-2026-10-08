@@ -1,0 +1,591 @@
+# Introduction to Statistics Business Analytics and Modelling I: question papers in full
+
+1 unique papers · 2021-22 to 2021-22 · Common (all branches)
+
+Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2021-22 · Final-Exam · Sem 2 · paper c82b9b77fb4e
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B TECH/3__1ST YEAR.zip :: II SEMESTER/INTRODUCTION TO STATISTICS BUSINESS ANALYTICS & MODELLING-I/Introduction_to_Business_Statistics__Analytics_and_Modeling-I__Sem-II__Final_Exam__A_Y__2021-22_bRzaQWUvh1.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 July 2022
+- Text: ocr (9 pages), mean OCR confidence 90.4
+
+````text
+° fs MPSTM1
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN EERING RARY
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING Ra :
+
+Academic Year: 2021-2022
+
+Programme: B. Tech CSE Data Science | Year: I Semester: I
+
+Subject: Introduction to Business Statistics, Analytics & Modeling-I
+
+Marks: 100 ;
+Date: 04 July 2022 Time: 11.00 am to 2.00 pm
+Durations: 3 (Hrs)
+
+: No. of Pages: 4
+Re- Examination(2021- 22)
+
+'
+; Instructions: ‘Candidates should read carefully the i instructions printed on the question paper and on the cover
+2 of the Answer Book, which is provided for their use.
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Qi
+cO- a. Construct a stem-and-leaf plot using two digits for the stem.
+SO-1: 212, 239, 240, 218, 222, 249, 265, 224, 257, 271, 266, 234, 238, 219, 255, 260, 243, 261, | [04]
+BL-6 247, 230.
+CO-1; | b. A bag has 5 white marbles, 8 red marbles and 4 purple marbles. If we take a marble [04]
+pee randomly, then determine the probability of not getting red marble.
+Gs Test the following hypothesis by using the given information. Assume the populations are
+normally distributed. Use 5% level of significance.
+CO-1; ‘
+SO-1; Hi, :0° =8.5 | [04]
+BL4 H,:07 >8.5 |
+|
+a=0.05, 1=22, s°=17 |
+| = d. The table given below is an incomplete Two-way ANOVA table. Use the given
+SO-1 : information and determine the test statistic F value for the row and column variable. [04]
+BL-3
+
+———
+--- page 2 ---
+Source of Variation Sum of Degree of
+squares freedom
+Row 6.8097 3
+Column 5.0138
+Interaction 30.1527 9
+Error 15.8333 32
+| Total 57.8095
+é. In an effort to determine whether any correlation exists between the price of stocks of
+cO-2: airlines, an analyst sampled six days of activity of the stock market. Using the prices of
+5 O-1: Airline 1 stock and Airline 2 stock, compute the coefficient of correlation and analyze. [04]
+BL-3 Airline 1:47.6 46.3 50.6 526 52.4 52.7
+Airline 2: 15.1 15.4 15.9 15.6 164 18.1
+Q2
+a. Construct a pie chart from the following data
+Label Value
+CO-1; A 55
+SO-1; [06]
+BL-6 B 121 .
+C 83
+D 46
+b. ‘A man is equally likely to choose anyone of three routes A, B, C from his house to the
+C0-2: railway station, and his choice of route is not influenced by the weather. If the weather is
+SO-1; dry, the probabilities of missing the train by routes A, B, C are respectively 1/20, 1/10, [06]
+BL-3 1/5. He sets out on a dry day and misses the train. Compute the revised probabilities for
+all the routes.
+c. Compute a one-way ANOVA on the following data.
+Sample 1 Sample 2 Sample 3
+13 14 11
+c0-2: 15 12 12
+SO-1; 14 15 10 [08]
+aia 11 14
+15
+
+Determine the test statistic F value. Compare the F value with the critical table F value
+
+and decide whether to reject the null hypothesis. Use 5% level of significance.
+
+2/9
+--- page 3 ---
+|
+
+|
+
+ras
+So Sketch a box plot for the following values: [06]
+BL-3 54, 66, 69, 70, 71, 73, 80, 84, 85, 86, 90, 91.
+Tn a random sample of 500 students of the railway entrance exam, it was found that 400
+students-failed in the examination. In another random sample of 400 students of the bank
+son entrance exam, the number of failures in the examination was found to be 300. Test the [06]
+BL-S hypothesis that the proportion of failures in the railway entrance exam is significantly
+greater than-the proportion of failures in the bank entrance exam. Use 5% level of
+significance.
+A department in a workshop has 10 machines which may need adjustment from time to
+time during the day. Three of these machines are old each having a probability of 1/11 of
+So needing adjustment during the day, and 7 are new having corresponding probabilities of [08]
+BL-2 1/21. Assuming that no machine needs adjustment twice on the same day, determine the
+probability that on a particular day just 2 machines need adjustment and they are of the
+same type.
+Q4
+son 3 ‘A data set contains the following values: 57, 88, 68, 43, 93, 63, 51, 37, 77, 83. wa
+BL2 Determine Mean, median and sample standard deviation.
+cO-2; If the weight of 300 students are normally distributed with a mean of 68 kg anda
+SO-1; standard deviation of 3 kg. Compute the number of students whose weight are (i) greater [06]
+ade than 72 kg (ii) less than 64 kg (iii) between 65 kg and 71 kg.
+A rating for a product was Collected from six consumers. Consumers were shown
+advertisement of the product for one month and the second rating was taken. Sample A
+CO-2: represents the rating given by the consumers before and sample B represents the rating
+SO-1; given by the same consumers after watching advertisement. Test whether the rating has [08]
+BL improved by advertisement at 5% level of significance.
+Sample A: 6, 8, 8, 9, 7.9
+Sample B: 8, 7, 6, 10, 10, 10
+0 ||
+CO-1: A random sample of 81 items is taken, producing a sample mean of 47. The population
+SO-1; standard deviation is 5.89. Construct a 90% confidence interval to estimate the [06]
+BL-5S . |
+
+population mean.
+
+3/9
+
+|
+--- page 4 ---
+b. A regional survey of 560 companies asked the vice president of operations how satisfied
+
+he or she was with the software support received from the computer staff of the
+
+cole company. Suppose 33% of the 560 vice presidents said they were satisfied. Constructa | [06]
+BLS 98% confidence interval for the proportion of the population of vice presidents who
+would have said they were satisfied with the software support if a census had been taken.
+Sy The year 2000 Census asked for each person’s age. Suppose that a sample of 15
+households taken from the census data showed the age of the first person recorded on the
+CO-2; | census form to be as follows: :
+SO-1; [08]
+BL-3 42, 29, 31, 38, 55, 27, 28, 33, 49, 70, 25, 21, 38, 47, 63.
+Compute the tenth percentile, eighth decile and second quartile for these data. Also
+create frequency distribution table with 4 classes.
+Q6
+a. ‘A sample of sixty cars was filled with petrol and other 60 were filled with diesel. The
+sample average of mileage for the cars with petrol was 15.5 kmpl, and the sample
+cO-2; average of mileage for the cars with diesel was 18.9 kmpl. Assume that the population
+
+SO-1; standard deviation of the cars with petrol is 2.45 kmpl, and that the population standard | [06]
+
+ai deviation of the cars with diesel is 1.99 kmpl. Construct a 95% confidence interval to
+estimate the difference in the mean mileage between the population of cars using petrol
+and the population of cars using diesel.
+b. The probability density function of a random variable X is given by
+CO-1; 3
+SO-1; =(1-27), 0<x<1 ; ; [06]
+BL-2 S(x)=52 . Determine the mean and variance.
+0 otherwise
+c. A fertilizer mixing machine is set to give 12 kg of nitrate for quintal bag of fertilizer.
+i Ten 100 kg bags are examined. The percentages of nitrate per bag are as follows: 11, 14, [08]
+O-1; 3
+BL-4 13, 12, 13, 12, 13, 14, 11, 12. Is there any reason to believe that the machine is
+
+defective? Use 5% level of significance.
+
+4/9
+--- page 5 ---
+Table of Standard Normal Distribution
+
+z 0.00 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
+0.0 0.0000 0.0040 0.0080 0.0120 0.0160 0.0199 0.0239 0.0279 0.0319 0.0359
+0.1 0.0398 0.0438 0.0478 0.0517 0.0557 0.0596 0.0636 0.0675 0.0714 0.0753
+02 0.0793 0.0832 0.0871 0.0910 0.0948 0.0987 0.1026 0.1064 0.1103 0.1141
+0.3 0.1179 0.1217 0.1255 0.1293 0.1331 0.1368 0.1406 0.1443 0.1480 0.1517
+0.4 0.1554 0.1591 0.1628 0.1664 0.1700 0.1736 0.1772 0.1808 0.1844 0.1879
+05 0.1915 0.1950 0.1985 0.2019 0.2054 0.2088 0.2123 0.2157 0.2190 0.2224
+
+0.6 0.2257 0.2291 0.2324 0.2357 0.2389 0.2422 0.2454 0.2486 0.2517 0.2549
+0.7 0.2580 0.2611 0.2642 0.2673 0.2704 0.2734 0.2764 0.2794 0.2823 0.2852
+0.8 0.2881 0.2910 0.2939 0.2967 0.2995 0.3023 0.3051 0.3078 0.3106 0.3133
+0.9 0.3159 0.3186 0.3212 0.3238 0.3264 0.3289 0.3315 0.3340 0.3365 0.3389
+4.0 0.3413 0.3438 0.3461 0.3485 0.3508 0.3531 0.3554 0.3577 0.3599 0.3621
+
+11 0.3643 0.3665 0.3686 0.3708 0.3729 0.3749 0.3770 0.3790 0.3810 0.3830
+4.2 0.3849 0.3869 0.3888 0.3907 0.3925 0.3944 0.3962 0.3980 0.3997 0.4015
+4.3 0.4032 0.4049 0.4066 0.4082 0.4099 0.4115 04131 04147 04162 0.4177
+44 0.4192 0.4207 0.4222 0.4236 0.4251 0.4265 0.4278 0.4292 0.4306 0.4319
+1.5 0.4332 0.4345 0.4357 0.4370 0.4382 0.4394 0.4406 0.4418 0.4429 0.4441
+
+4.6 0.4452 0.4463 0.4474 0.4484 0.4495 0.4505 04515 04525 0.4535 0.4545
+4.7 0.4554 0.4564 0.4573 0.4582 0.4591 0.4599 0.4608 04616 0.4625 0.4633
+48 0.4641 0.4649 0.4656 0.4664 0.4671 0.4678 0.4686 0.4693 0.4699 0.4706
+49 04713 0.4719 0.4726 0.4732 0.4738 0.4744 04750 04756 0.4761 0.4767
+2.0 0.4772 0.4778 0.4783 0.4788 0.4793 0.4798 0.4803 0.4808 0.4812 0.4817
+
+2.1 0.4821 0.4826 0.4830 0.4834 0.4838 0.4842 0.4846 0.4850 0.4854 0.4857
+22 04861 0.4864 0.4868 04871 0.4875 0.4878 0.4881 0.4884 0.4887 0.4890
+23 0.4893 0.4896 0.4898 0.4901 0.4904 0.4906 04909 0.4911 0.4913 0.4916
+2.4 0.4918 0.4920 0.4922 0.4925 0.4927 0.4929 0.4931 0.4932 0.4934 0.4936
+25 0.4938 04940 0.4941 0.4943 0.4945 0.4946 0.4948 0.4949 0.4951 0.4952
+
+26 0.4953 0.4955 0.4956 0.4957 0.4959 0.4960 0.4961 0.4962 0.4963 0.4964
+27 0.4965 04966 0.4967 0.4968 0.4969 0.4970 0.4971 04972 0.4973 0.4974
+28 0.4974 0.4975 0.4976 0.4977 0.4977 0.4978 0.4979 0.4979 0.4980 0.4981
+29 04981 0.4982 0.4982 0.4983 0.4984 0.4984 0.4985 0.4985 0.4986 0.4986
+3.0 0.4987 0.4987 0.4987 0.4988 _0.4988 0.4989 ~—-0.4989 ~—«0.4989__—~0.4990__—0..4990
+
+Note:
+
+Middle 50% area = + 0.6745 For any Normal Variate (with Mean =p and Std. Deviation = o):
+Middle 90% area = + 1.6449 p + 10 = 0.6827 .
+
+Middle 95% area = + 1.9600 yp + 20 = 0.9545
+
+Middle 99% area = 42.5758 p + 30 = 0.9973
+
+5/9
+--- page 6 ---
+11
+12
+13
+14
+15
+
+16
+17
+18
+19
+20
+
+21
+
+23
+24
+25
+
+26
+27
+28
+29
+30
+
+0.10
+3.0777
+1.8856
+1.6377
+1.5332
+1.4759
+
+1.4398
+1.4149
+1.3968
+1.3830
+1.3722
+
+1.3634
+1.3562
+1.3502
+1.3450
+1.3406
+
+1.3368
+1.3334
+1.3304
+1.3277
+1.3253
+
+4.3232
+1.3212
+1.3195
+1.3178
+1.3163
+
+1.3150
+1.3137
+1.3125
+1.3114
+1.3104
+
+1.2816
+
+Table of ‘t' Distribution
+
+© Level of significance (a) >
+
+0.05
+6.3138
+2.9200
+2.3534
+2.1318
+2.0150
+
+1.9432
+1.8946
+1.8595
+1.8331
+1.8125
+
+1.7959
+1.7823
+1.7709
+1.7613
+1.7531
+
+1.7459
+1.7396
+1.7341
+1.7291
+1.7247
+
+1.7207
+1.7171
+1.7139
+1.7109
+1.7081
+
+1.7056
+1.7033
+1.7011
+1.6991
+1.6973
+
+1.6449
+
+0.025
+12.7062
+4.3027
+3.1824
+2.7764
+2.5706
+
+2.4469
+2.3646
+2.3060
+2.2622
+2.2281
+
+2.2010
+2.1788
+2.1604
+2.1448
+2.1314
+
+2.1199
+2.1098
+2.1009
+2.0930
+2.0860
+
+2.0796
+2.0739
+2.0687
+2.0639
+2.0595
+
+2.0555
+2.0518
+2.0484
+2.0452
+2.0423
+
+1.9600
+
+6/9
+
+0.01
+31.8205
+6.9646
+4.5407
+3.7469
+3.3649
+
+3.1427
+2.9980
+2.8965
+2.8214
+2.7638
+
+2.7181
+2.6810
+2.6503
+2.6245
+2.6025
+
+2.5835
+2.5669
+2.5524
+2.5395
+2.5280
+
+2.5176
+2.5083
+2.4999
+2.4922
+2.4851
+
+2.4786
+24727
+2.4671
+2.4620
+2.4573
+
+2.3264
+
+0.005
+63.6567
+9.9248
+5.8409
+4.6041
+4.0321
+
+3.7074
+3.4995
+3.3554
+3.2498
+3.1693
+
+3.1058
+3.0545
+3.0123
+2.9768
+2.9467
+
+2.9208
+2.8982
+2.8784
+2.8609
+2.8453
+
+2.8314
+2.8188
+2.8073
+2.7969
+2.7874
+
+2.7787
+2.7707
+2.7633
+2.7564
+2.7500
+
+2.5758
+--- page 7 ---
+Table of Chi-Square (2) Distribution
+
+a
+fn.
+
+< Level of significance (a)
+df.l 0.995 0.99 0.975 0.95 0.90 0.10 0.05 0.025 0.01 0.005
+1 0.0000 0.0002 0.0010 0.0039 0.0158 2.7055 3.8415 5.0239 6.6349 7.8794
+2 0.0100 0.0201 0.0506 0.1026 0.2107 4.6052 5.9915 7.3778 9.2103 10.5966
+3 0.0717 0.1148 0.2158 0.3518 0.5844 62514 7.8147 9.3484. 11.3449 12.8382
+4 0.2070 0.2971 0.4844 0.7107 1.0636 7.7794 94877 1 41.1433 13.2767 14.8603
+5 04117 0.5543 0.8312 1.1455 1.6103 9.2364 11.0705 1 2.8325 15.0863 16.7496
+
+6 0.6757 0.8721 1.2373 1.6354 2.2041 10.6446 12.5916 14.4494 16.8119 18.5476
+7 0.9893 1.2390 1.6899 2.1673 2.8331 12.0170 14.0671 46.0128 18.4753 20.2777
+8 1.3444 16465 2.1797 2.7326 3.4895 13.3616 45.5073 17.5345 20.0902 21.9550
+9 1.7349 . 2.0879 2.7004 3.3251 4.1682 14.6837 16.9190 19.0228 21.6660 23.5894
+10 2.1559 25582 3.2470 3.9403 48652 15.9872 1 8.3070 20.4832 23.2093 25.1882
+
+41. 2.6032 3.0535 3.8157 4.5748 55778 17.2750 49.6751 21.9200 24.7250 26.7568
+412 3.0738 3.5706 4.4038 5.2260 6.3038 18.5493 21.0261 23.3367 26.2170 28.2995
+43 3.5650 4.1069 5.0088 5.8919 7.0415 19.8119 22.3620 24.7356 27.6882 29.8195
+14 4.0747 4.6604 5.6287 6.5706 7.7895 21.0641 23.6848 26.1189 29.1412 31.3193
+45 46009 5.2293 6.2621 7.2609 8.5468 22.3071 24.9958 27.4884 30.5779 32.8013
+
+16 51422 58122 6.9077 7.9616 9.3122 23.5418 26.2962 28.8454 31.9999 34.2672
+47 5.6972 64078 7.5642 8.6718 10.0852 24.7690 27.5871 30.1910 33.4087 35.7185
+48 62648 7.0149 8.2307 9.3905 10.8649 25.9894 28.8693 31.5264 34.8053 37.1565
+49 68440 7.6327 8.9065 10.1170 11.6509 27.2036 30.1435 32.8523 36.1909 38.5823
+20 7.4338 8.2604 9.5908 10.8508 12.4426 28.4120 31.4104 34.1696 37.5662 39.9968
+
+21 8.0337 8.8972 10.2829 11.5913 13.2396 29.6151 32.6706 35.4789 38.9322 41.4011
+22 8.6427 9.5425 10.9823 12.3380 14.0415 30.8133 33.9244 36.7807 40.2894 42.7957
+23 9.2604 10.1957 11.6886 13.0905 14.8480 32.0069 35.1725 38.0756 41.6384 44.1813
+24 9.8862 10.8564 12.4012 13.8484 15.6587 33.1962 36.4150 39.3641 42.9798 45.5585
+25 10.5197 11.5240 13.1197 14.6114 16.4734 34.3816 37.6525 40.6465 44.3141 46.9279
+
+26 11.1602 12.1981 13.8439 15.3792 17.2919 35.5632 38.8851 41.9232 45.6417 48.2899
+27 «11.8076 12.8785 14.5734 16.1514 18.1139 36.7412 40.1133 43.1945 46.9629 49.6449
+28 12.4613 13.5647 15.3079 16.9279 18.9392 37.91 59 41.3371 44.4608 48.2782 50.9934
+29 13.1211 14.2565 16.0471 17.7084 19.7677 39.0875 42.5570 45.7223 49.5879 52.3356
+30 13.7867 14.9535 16.7908 18.4927 20.5992 40.2560 43.7730 46.9792 50.8922 53.6720
+
+7/9
+--- page 8 ---
+Table of 'F' Distribution. (Value of F 9.05)
+
+< Degrees of Freedom for the Numerator >
+1 2 3 4 5 6 vd 8 9
+4 161.4476 199.5000 215.7073 224.5832 230.1619 233.9860 236.7684 238.8827 240.5433
+2 18.5128 19.0000 19.1643 19.2468 19.2964 19.3295 19.3532 19.3710 19.3848
+3 10.1280 9.5521 9.2766 9.1172 9.0135 8.9406 8.8867 8.8452 8.8123
+4 7.7086 6.9443 6.5914 6.3882 6.2561 6.1631 6.0942 6.0410 5.9988
+5 6.6079 5.7861 5.4095 5.1922 5.0503 4.9503 48759 48183 4.7725
+
+6 5.9874 5.1433 4.7571 4.5337 4.3874 4.2839 4.2067 4.1468 4.0990
+7 5.5914 4.7374 4.3468 4.1203 3.9715 3.8660 3.7870 3.7257 3.6767
+8 5.3177 4.4590 4.0662 3.8379 3.6875 3.5806 3.5005 3.4381 3.3881
+9 5.1174 4.2565 3.8625 3.6331 3.4817 3.3738 3.2927 3.2296 3.1789
+10 49646 4.1028 3.7083 3.4780 3.3258 3.2172 3.1355 3.0717 3.0204
+
+11. 4.8443 3.9823 3.5874 3.3567 3.2039 3.0946 3.0123 2.9480 2.8962
+12 4.7472 3.8853 3.4903 3.2592 3.1059 2.9961 2.9134 2.8486 2.7964
+13. 4.6672 3.8056 3.4105 3.1791 3.0254 2.9153 2.8321 2.7669 2.7144
+14 4.6001 3.7389 3.3439 3.1122 2.9582 2.8477 2.7642 2.6987 2.6458
+15 4.5431 3.6823 3.2874 3.0556 2.9013 2.7905 2.7066 2.6408 2.5876
+
+16 44940 3.6337 3.2389 3.0069 2.8524 2.7413 2.6572 2.5914 2.5377
+17. 4.4513 3.5915 3.1968 2.9647 2.8100 2.6387 2.6143 2.5480 2.4943
+18 44139 3.5546 3.1599 2.9277 2.7729 2.6613 2.5767 2.5102 2.4563
+19 4.3807 3.5219 3.1274 2.8951 2.7401 2.6283 2.5435 2.4768 2.4227
+20 4.3512 3.4928 3.0984 2.8661 2.7109 2.5990 2.5140 24471 2.3928
+
+21 4.3248 3.4668 3.0725 2.8401 2.6848 2.5727 2.4876 2.4205 2.3660
+22 4.3002 3.4434 3.0491 2.8167 2.6613 2.5491 2.4638 2.3965 2.3419
+23 4.2793 3.4221 3.0280 2.7955 2.6400 2.5277 2.4422 2.3748 2.3201
+24 4.2597 3.4028 3.0088 2.7763 2.6207 2.5082 2.4226 2.3551 2.3002
+25 4.2417 3.3852 2.9912 2.7587 2.6030 2.4904 2.4047 2.3371 2.2821
+
+30 4.1709 3.3158 2.9223 2.6896 2.5336 2.4205 2.3343 2.2662 2.2107
+40 4.0847 3.2317 2.8387 2.6060 2.4495 2.3359 2.2490 2.1802 2.1240
+60 4.0012 3.1504 2.7581 2.5252 2.3683 2.2541 2.1665 2.0970 2.0401
+120 3.9201 3.0718 2.6802 2.4472 2.2899 2.1750 2.0868 2.0164 1.9588
+° 3.8446 2.9987 2.6079 2.3749 2.2171 2.1016 2.0126 1.9415 1.8830
+
+8/9
+--- page 9 ---
+... Table of 'F' Distribution. (Value of F 9.95)
+
+5% area
+
+ft
+
+< Degrees of Freedom for the Numerator >
+10 42 15 20 25 30 40 60 120
+1 241.8817 243.9060 245.9499 248.0131 249.2601 250.0951 251.1432 252.1957 253.2529
+2 19.3959 19.4125 19.4291 19.4458 19.4558 19.4624 194707. 19.4791 19.4874
+3 8.7855 8.7446 8.7029 8.6602 8.6341 8.6166 8.5944 8.5720 8.5494
+4 5.9644 5.9117 5.8578 5.8025 5.7687 5.7459 5.7170 5.6877 5.6581
+5 4.7351 4.6777 4.6188 4.5581 4.5209 4.4957 4.4638 44314 4.3985
+
+6 4.0600 3.9999 3.9381 3.8742 3.8348 3.8082 3.7743 3.7398 3.7047
+7 3.6365 3.5747 3.5107 3.4445 3.4036 3.3758 3.3404 3.3043 3.2674
+8 3.3472 3.2839 3.2184 3.1503 3.1081 3.0794 3.0428 3.0053 2.9669
+tT 9 3.1373 3.0729 3.0061 2.9365 2.8932 2.8637 2.8259 2.7872 2.7475
+S 10 29782 2.9130 2.8450 2.7740 2.7298 2.6996 2.6609 2.6211 2.5801
+
+—e 11 2.8536 2.7876 2.7186 2.6464 2.6014 2.5705 2.5309 2.4901 2.4480
+5 12 2.7534 2.6866 2.6169 2.5436 2.4977 2.4663 2.4259 2.3842 2.3410
+Q 13 2.6710 2.6037 2.5331 2.4589 2.4123 2.3803 2.3392 2.2966 2.2524
+2 14 26022 2.5342 2.4630 2.3879 2.3407 2.3082 2.2664 2.2228 2.1778
+5 15 2.5437 2.4753 2.4034 2.3275 2.2797 2.2468 2.2043 2.1601 2.1141
+
+8 16 2.4935 2.4247 2.3522 2.2756 2.2272 2.1938 2.1507 2.1058 2.0589
+8 17 2.4499 2.3807 2.3077 2.2304 2.1815 2.1477 2.1040 2.0584 2.0107
+i 18 824117 2.3421 2.2686 2.1906 2.1413 2.1071 2.0629 2.0166 1.9881
+o 19 23779 2.3080 2.2341 2.1555 2.1057 2.0712 2.0264 1.9795 1.9302
+® 20 2.3479 2.2776 2.2033 2.1242 2.0739 2.0391 1.9938 1.9464 1.8963
+
+& 21 2.3210 2.2504 2.1757 2.0960 2.0454 2.0102 1.9845 1.9165 1.8657
+4 22 22967 2.2258 2.1508 2.0707 2.0196 1.9842 4.9380 1.8894 1.8380
+230 2.2747 2.2036 1282 2.0476 1.9963 1.9605 1.9139 1.8648 1.8128
+24 2.2547 2.1834 2.1077 2.0267 1.9750 1.9390 1.8920 1.8424 41.7896
+25 = 2.2365 2.1649 2.0889 2.0075 1.9554 1.9192 1.8718 1.8217 1.7684
+
+30 = 2.1646 2.0921 2.0148 1.9317 1.8782 1.8409 1.7918 1.7396 1.6835
+40 2.0772 2.0035 1.9245 1.8389 1.7835 1.7444 1.6928 1.6373 1.5766
+60 1.9926 1.9174 1.8364 1.7480 1.6902 1.6491 1.5943 1.5343 1.4673
+120 1.9105 1.8337 1.7505 1.6587 1.5980 1.5543 1.4952 1.4290 1.3519
+° 4.8339 1.7554 1.6697 1.5740 4.5098 1.4629 1.3981 1.3227 1.2272
+
+9/9
+````

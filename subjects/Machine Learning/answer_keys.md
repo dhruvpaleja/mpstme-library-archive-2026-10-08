@@ -13184,3 +13184,253 @@ BL-
 2   How to minimize explain with example-03
 ********** 18 **********
 ````
+
+## 2024-25 · Final-Exam · Sem 3 · Answer key · paper 7bf4623b49ae
+
+- Departments: Computer Applications (MCA)
+- Programmes: MASTER OF COMPUTER APPLICATIONS - 7061
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Final-Exam/MASTER OF COMPUTER APPLICATIONS - 7061/Machine Learning/ANS_Final-Exam_Machine Learning(703CO1C003)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Dec 2024
+- Text: text (9 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MASTER OF COMPUTER APPLICATIONS
+Year: II/Semester III(Exam Year: 2024-2025)
+Subject: Machine Learning
+Date: 09 Dec 2024   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 9 pages.
+2. Question No.1 is compulsory.
+3. Out of remaining 6 questions, attempt any 4.
+4. In all 5 questions to be attempted
+5. All questions carry equal marks
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1
+Answer briefly:
+a.   How do we detect the outliers from the dataset and treat them?
+Ans: Detection Method [3M]
+1. Statistical Methods
+2. Distance-Based Methods
+CO-1;   3. Clustering-Based Methods   [05]
+BL- L
+Treatment [2M]
+1. Removal
+2. Transformation
+Students can explain other methods also.
+b.   Discuss the significance of the Bias-Variance Trade-off with a suitable
+example.
+Ans:
+Bias: The bias is the difference between the prediction of the values by
+CO-1;   the Machine Learning model and the correct value.   [05]
+BL-L
+Variance: The variability of model prediction for a given data point which tells
+us the data's spread is called the model's variance.
+Explanation: significance in ML; bias-variance trade-off [3M]
+Example: [2M]
+c.   Explain the need for regression analysis with a suitable scenario.
+CO-2 ;   [05]
+BL-M   Ans:
+********** 1 **********
+--- page 2 ---
+Need [2M]
+1. Model the relationship between dependent and independent variables
+2. Model multiple independent variables
+3. For prediction of values
+4. For finding missing data etc.
+Suitable scenario [3M]
+d.   Differentiate between tree-based and linear ML models
+CO-1;   Ans:   [05]
+BL- L
+Any five differences are expected, 1M each.
+a.   How does K-fold cross-validation affect the overall performance of the
+classification algorithm? Explain in detail with proper example.
+Ans:
+State the significance of K-fold cross-validation and comment on performance
+of the algorithm [3M]
+Take an example of the proper data set:
+Steps to Implement K-Fold Cross-Validation
+Q2
+1. Shuffle the Dataset: Randomly shuffle the dataset to ensure that each   [10]
+CO-4;
+BL-M   fold is representative of the whole dataset.
+2. Split the Dataset: Divide the dataset into k equal-sized folds.
+3. Train and Test: For each fold, train the model on k-1 folds and test it
+on the remaining fold.
+4. Evaluate: Collect the evaluation scores from each iteration and
+compute the average performance.
+Example [7M]
+b.   Distinguish between Supervised and Unsupervised Learning algorithms.
+Explain at least one application of these methods.
+Ans:
+Any 4 points – 2M
+Supervised   Unsupervised
+CO-3;   Uses labeled data, where   [10]
+Works with unlabeled data,
+BL-L   both the input and the
+where there are no predefined
+corresponding output (label)
+labels or outputs.
+are known.
+Aims to predict specific   Focuses on discovering hidden
+outcomes based on labeled   patterns or structures within
+data (classification or   the data (clustering or
+regression).   dimensionality reduction).
+********** 2 **********
+--- page 3 ---
+The model is trained using
+labeled data and   The model automatically
+continuously adjusts to   identifies similarities, clusters,
+minimize errors between   or structures within the data
+predictions and actual   without any supervision.
+outputs.
+Typically easier to interpret
+More exploratory in nature and
+because the output labels are
+often harder to interpret
+known, making it easier to
+because the output isn’t
+assess the model’s
+predefined.
+performance.
+2 applications (each application – 4M)
+a.   Discuss the significance of the Logit function used in logistic regression. Give
+a suitable example.
+Ans:
+hat is the o it unc on
+aps an eal alue into anothe alue bet een and
+i moid unc on   e
+ote
+Q3   s   he e e is
+s   mathema cal
+constant and called   [10]
+CO-2; BL-   t   as natu al e ponent
+M   and app o imate
+alue is
+Explanation and significance – [3M]
+Proper example with explanation - [7M]
+b.   Consider the data of a restaurant given in the table, where X represents the bill
+amount of the customer and Y represents the tip received by the waiter.
+Apply appropriate regression algorithm to derive a machine learning model.
+X (Bill amount) in Rs.   Y (Tip) in Rs.
+120   5
+CO-2; BL-   150   7
+180   6   [10]
+H   160   8
+200   10
+Also, predict the Tip (Y) for Rs.170 (Bill amount) from the derived model.
+Comment on the performance of the model.
+********** 3 **********
+--- page 4 ---
+Ans:
+Finding scatter plot to see the correlation for given data – [1M]
+Implementation of linear model completely – [7M]
+Accurate prediction of the Tip – [1M]
+Comment on performance = [1M]
+a.   Explain the concept of gradient descent used in the Regression Analysis with
+the help of a suitable example.
+Q4
+[10]
+CO-2; BL-   Ans:
+M
+Explanation with Gadient curve – [5M]
+Suitable example – [5M]
+b.   What is hierarchical clustering? Explain single linkage clustering with
+a suitable example.
+Ans: Hierarchical clustering –[2M]
+Explanation on single linkage – [8M]
+CO-2; BL-   [10]
+M
+in
+********** 4 **********
+--- page 5 ---
+a.   Apply error backpropagation algorithm to train the following multilayer
+perceptron network. Demonstrate at least one complete iteration of
+the forward and backward pass to update the weights if the error is not equal
+to zero.
+Q5
+CO-2;   Assume actual output Y = 0.6, Learning rate = 1, and sigmoid activation   [15]
+BL-H   function.
+Ans:
+Step 1: Apply forward pass on the given network by considering all initial
+weights. Use of summation and sigmoid as activation functions. Obtain the
+output of the complete network [7 Marks]
+Step 2: calculate the error with respect to actual output and predicted output [1
+Mark]
+Step 3: Update the weights by error backpropagation if an error is not
+acceptable [7 Marks]
+b.   Explain the significance of the AUC curve in measuring the performance of an
+algorithm.
+CO-4;   [05]
+BL-L
+Ans:
+********** 5 **********
+--- page 6 ---
+AUC stands for the Area Under the Curve, and the AUC curve represents the
+area under the ROC curve. It measures the overall performance of the binary
+classification model. As both TPR and FPR range between 0 to 1, So, the area
+will always lie between 0 and 1, and A greater value of AUC denotes better
+model performance. Our main goal is to maximize this area in order to have
+the highest TPR and lowest FPR at the given threshold. The AUC measures
+the probability that the model will assign a randomly chosen positive instance
+a higher predicted probability compared to a randomly chosen negative
+instance.
+a.   Apply and explain the classification tree with a proper example.
+Ans:
+Student can consider the following data for the explanation or data of their
+choice [2M]
+Q6
+[10]
+CO-2;
+BL-H
+Step-by-step explanation – [6M]
+Or They can use following data.
+********** 6 **********
+--- page 7 ---
+Decision tree –[2M]
+b.   Explain the working principle of the multiple linear regression model.
+Ans:
+Solving the example (10 Marks with explanation)
+CO-2;   [10]
+BL-L
+********** 7 **********
+--- page 8 ---
+Student can also explain example other than mentioned here
+a   Discuss the significance of Content-based Recommender system. Give
+suitable example
+Ans:
+1. Explanation – [5M]
+A Content-Based Recommender works using the data taken from the user,
+either explicitly (rating) or implicitly (clicking on a link). Using this data we
+create the user profile, which is then used to suggest to the user, as the user
+provides more input or take more actions on the recommendation, over the
+Q7   period of time the engine becomes more accurate.
+CO-2; BL-   10
+M
+Example – [5M]
+b   What do you mean by Ensemble Technique? Explain Bagging and Boosting
+with proper example
+Q7
+[10]
+CO-2; BL-
+M   Ans:
+1. Explanation – [5M]
+********** 8 **********
+--- page 9 ---
+Ensemble learning is a machine learning technique that combines the
+predictions from multiple individual models to obtain a better predictive
+performance than any single model
+Bagging is a supervised learning technique that can be used for both regression
+and classification tasks
+Boosting is an ensemble modeling technique that attempts to build a strong
+classifier from the number of weak classifiers.
+2. Example – [5M]
+Student can give any relevant example.
+********** 9 **********
+````

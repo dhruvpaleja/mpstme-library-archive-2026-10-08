@@ -1,6 +1,6 @@
 # Python Programming: question papers in full
 
-5 unique papers · 2023-24 to 2024-25 · Common (all branches), Artificial Intelligence, Computer Engineering, Information Technology, Computer Science and Business Systems, Cyber Security, Electronics and Telecommunication, Mechatronics
+6 unique papers · 2023-24 to 2025-26 · Common (all branches), Artificial Intelligence, Computer Engineering, Information Technology, Science (B.Sc), Computer Science and Business Systems, Cyber Security, Electronics and Telecommunication, Mechatronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 

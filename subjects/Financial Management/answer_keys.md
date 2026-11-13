@@ -2401,6 +2401,240 @@ time or under predetermined conditions.
 ********** 9 **********
 ````
 
+## 2025-26 · Re-Exam · Sem 8 · Answer key · paper dce056601199
+
+- Departments: Computer Engineering
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047
+- Source: `00_Original_Downloads/2023/76631__Semester VIII.zip :: Re-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047/Financial Management/ANS_Re-Exam_Financial Management(703TF0C003)_Semester VIII_2023-2024.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 02 May 2026
+- Text: text (5 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (Comp)/MBA Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2025-2026)
+Subject: Financial Management
+Date: 02 May 2026   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2023-2024)
+Instructions:
+1. This question paper contains 5 pages.
+2. This question paper contains 1 pages.
+3. Question 1 is Compulsory.
+4. From remaining questions, attempt any four.
+5. In all five questions to be attempted.
+6. Figure in right hand side indicates full marks
+7. Answer to each new question to be started on a fresh page.
+8. All questions carry equal marks.
+9. Assume suitable data if necessary
+Q1   Answer briefly:   [10]
+CO-2 ;   a.   FVan = P [(1+r)n -1] / r   (1)
+SO- ;   FVan = 20,000 [(1+0.01)96 -1] / 0.01   (0.5)   [2.5]
+BL- Apply   FV Annuity = 35,71,483.56   (1)
+b.   [2.5]
+PBP = 3 years   (1.5)
+CO- 2; SO- ;
+As the cutoff rate is 3 years – company should go for this
+BL-Apply
+investment. (1)
+c.   Cost of capital is the minimum required rate of return and acts   [2.5]
+as a benchmark to evaluate investment proposals using
+CO- 1; SO- ;
+techniques like NPV and IRR.
+BL-
+It ensures that only those projects are selected which generate
+Understand
+returns higher than the cost, thereby maximizing shareholders’
+wealth.
+d.   Financing decisions refer to the choice of the most appropriate   [2.5]
+CO- 1; SO- ;   mix of debt and equity to raise funds for business operations
+BL-   and investments.
+Understand   They aim to minimize the cost of capital while maintaining an
+optimal capital structure and maximizing shareholders’ wealth.
+a   PVA=12000[1.07^12 -1]/[0.07*1.07^12]= 95,312   (2)
+Q2
+CO-2 ;
+PV = 6000[1.07^22 -1 ]/ [0.06*1.06^22] = 66,367   (2)   [05]
+SO- ;
+BL- Apply
+Option ii should be preferred   (1)
+********** 1 **********
+--- page 2 ---
+b   Financial markets facilitate the efficient allocation of funds by
+channelling savings from investors to businesses and
+CO-1 ;
+governments needing capital.
+SO- ;
+They enhance liquidity, price discovery, and economic growth   [05]
+BL-
+by enabling trading of financial assets and efficient resource
+Understand
+allocation.
+PVCOF = 1,80,000
+Depreciation = 55,000 [(180,000-15,000) / 3]
+Particulars   Year 1 Year 2 Year 3   M
+Sales Units   60,000   58,000   55,000
+Sales (₹ @10)   6,00,000   5,80,000   5,50,000
+(-) VC (₹ @5)   3,00,000   2,90,000   2,75,000
+(-) FC   70,000   70,000   70,000
+EBITDA   2,30,000   2,20,000   2,05,000
+(-) Depreciation   55,000   55,000   55,000
+EBIT = EBT   1,75,000   1,65,000   1,50,000
+Q3   (-) Taxes (35%)   61,250   57,750   52,500
+CO-3; SO-;   [10]
+EAT   1,13,750   1,07,250   97,500
+BL- Analyse
+(+) Depreciation   55,000   55,000   55,000
+CFAT   1,68,750   1,62,250   1,52,500   40,000   15,000
+PV @16%   0.8620   0.7431   0.6406   0.6406   0.6406
+PVCIF   1,45,474   1,20,578   97,700   25,626   9,610
+Total PVCIF   3,98,989
+PVCOF   220000
+NPV   1,78,989
+NPV is positive, the project should be accepted.
+********** 2 **********
+--- page 3 ---
+Marks
+Cost of
+7.15%   1
+debenture
+cost of
+13%   1
+preference
+cost of equity   16.86%   1
+cost of term
+7.80%   1
+loan
+WACC using Book Value Weights
+BV -
+Book   Wi
+Weigh   Ki
+Value   *Ki
+t Wi
+0.5714   0.0408
+Debenture   100   7.15%   0.5
+3   6
+0.1142   0.0142
+Preference   20   13%   0.5
+9   9
+Q4   Equity   40 0.2285   16.86 0.0385   0.5
+CO-2; SO-;   7   %   4   [10]
+BL- Apply   Term Loan   15 0.0857 7.80% 0.0066   0.5
+1   9
+0.1003
+175   1   1
+7
+WACC using Market Value Weights
+MV -
+Market   Wi
+Weigh   Ki
+Value   *Ki
+t Wi
+0.0506   0.0036
+Debenture   39.2   7.15%   0.5
+1   2
+0.0263   0.0032
+Preference   20.4   13%   0.5
+4   9
+0.9036   16.86 0.1523
+Equity   700   0.5
+9   %   6
+0.0193   0.0015
+Term Loan   15   7.80%   0.5
+6   1
+0.1607
+774.6   1   1
+8
+Particulars   Alpha industries   Beta Industries   Marks
+Ltd   Ltd
+Units Sold   18000   22000
+Sales @ 120
+2160000   2640000   1
+Q5   per unit
+CO-2; SO-;   Variable Cost   1404000   1716000   1   [10]
+BL- Apply   (65%)
+Contribution   756000   924000
+Fixed Cost   600000   600000   1
+EBIT   156000   324000
+DOL   4.85   2.85   2
+********** 3 **********
+--- page 4 ---
+% Change in
+6%   6%
+Sales
+% Change
+29%   17%   2
+in EBIT
+Alpha Ltd. should be recommended because it has
+higher operating leverage (4.85), indicating higher
+3
+risk and higher returns, which matches Gamma
+Ltd.’s policy.
+Mar
+Financing plans
+ks
+Plan A   Plan B   Plan C
+180000
+1800000   1800000
+0
+Equity (%)   1080000 450000   270000   0.5
+Debt (%)   720000 630000   990000   0.5
+Preference
+0 720000   540000   0.5
+(%)
+Computation of EPS
+Particulars   Plan A   Plan B   Plan C
+EBIT   650000 650000   650000
+Q6   Less: Interest   54000   47250   74250   1.5
+CO-2; SO-;   EBT   596000 602750   575750   [10]
+BL- Apply   Less: Tax @
+208600 210962   201512   1.5
+35%
+PAT   387400 391787   374237
+Preference
+Share   0   72000   54000   1
+Dividend
+Earnings
+available for   319787.
+387400   320237.5   1.5
+Equity share   5
+holder
+Number of
+10800   4500   2700   1.5
+Shares
+EPS   35.87   71.06   118.60   1.5
+Financial Plan C is suggested as it gives highest EPS
+********** 4 **********
+--- page 5 ---
+Optimum Dividend Policy using Walter’s Model
+(5 Marks)
+Given:
+E = ₹40 crore / 40 lakh shares = ₹100 per share
+k = 13%
+r = 22%
+Since r > k (22% > 13%), as per Walters’s Model:
+The firm should retain earnings
+Dividend payout ratio should be 0%
+Optimum Policy = 0% dividend payout (retain all earnings)
+Q7   Note on Walters’s Model
+CO-2; SO-;   (5 Marks)   [10]
+BL- Apply   Walter’s Model states that dividend policy is relevant and
+affects the value of the firm. It emphasizes the relationship
+between the firm’s internal rate of return (r) and cost of equity
+(k).
+The model suggests:
+If r > k → Retain earnings (low/zero dividend)
+If r < k → Pay higher dividends
+If r = k → Dividend policy is irrelevant
+It assumes no external financing, constant r and k, and that all
+earnings are either retained or distributed.
+Thus, Walter’s Model helps in determining the optimal
+dividend payout ratio to maximize shareholders’ wealth.
+********** 5 **********
+````
+
 ## 2025-26 · Re-Exam · Sem 8 · Answer key · paper d1f773a40d67
 
 - Departments: Mechanical
@@ -6769,6 +7003,336 @@ conditions.
 d) Compensating Balance Motive – To maintain the required minimum cash
 balance as per bank agreements to avail banking services or loans.
 ********** 6 **********
+````
+
+## 2024-25 · Re-Exam · Sem 8 · Answer key · paper cbec2dcbcd8c
+
+- Departments: Electronics and Telecommunication
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (ELECTRONICS & TELECOMMUNICATION ENGINEERING) - 7043
+- Source: `00_Original_Downloads/2024/67754__Semester VIII__context_fixed.zip :: Re-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (ELECTRONICS & TELECOMMUNICATION ENGINEERING) - 7043/Financial Management/ANS_Re-Exam_Financial Management(703TF0C003)_Semester VIII_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
+- Text: text (7 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (DS)/MBA.
+Tech (EXTC)/MBA. Tech (IT)/MBA. Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2024-2025)
+Subject: Financial Management
+Date: 01 Jul 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 7 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No.1 is compulsory.
+5. Out of the remaining questions, attempt any 4 questions.
+6. All questions carry equal marks.
+Q.1   a Primary Market:   [05]
+CO -1   . The primary market is the financial market where new securities, such as shares and
+BL -   bonds, are issued for the first time by companies, governments, or institutions to raise
+Remem   capital. Investors purchase these securities directly from the issuer through mechanisms
+ber   like Initial Public Offerings (IPOs), private placements, and rights issues. The primary
+market plays a crucial role in capital formation, enabling businesses to finance
+expansion, research, and development. Since securities are sold for the first time, there is
+no prior trading history, and funds raised go directly to the issuing entity.
+Secondary Market:
+The secondary market is where previously issued securities are bought and sold among
+investors. Unlike the primary market, transactions in the secondary market do not
+involve the issuing company; instead, securities trade on stock exchanges (e.g., NSE,
+BSE) or over the counter (OTC) markets. This market enhances liquidity, allowing
+investors to sell their holdings easily, and facilitates price discovery based on demand
+and supply. The secondary market also promotes investor confidence, as it provides an
+opportunity to trade securities after their initial issuance.
+Q.1   b   Loan   [05]
+100000
+CO - 2   .   Amount
+BL -   Instalments   Annually
+Apply
+Rate   15.00%
+EMI   ₹ -61,511.63   1 Mark
+Opening   Annual   Interest   Principle   Closing
+Years
+Balance   Instalments   (@15%)   Repaid   Balance
+2
+1   100000   ₹ 61,511.63   15,000.00   46,511.63   53,488.37 mark
+s
+2
+2   53,488.37   61,511.63   8,023.26   53,488.37   0.00   mark
+s
+********** 1 **********
+--- page 2 ---
+Q.1   c   Solution:   [05]
+CO - 2   .   0.6 * (EBIT – 32,000 - 31,500 ) = 0.6 * (EBIT – 32,000 )
+BL-   (10,000 + 4,000)   (10,000+7500)
+Apply   EBIT = 1,89500
+Left side equation 2 marks
+Right side Equation 2 marks
+Answer 1 mark
+Q.1   d   (2 mark each for Calculation)   [05]
+CO - 2   .   1200000
+BL-   𝐷𝐹𝐿 =   96000 = 1.31
+Apply   (1200000 −150000 − ( 1 −0.30)
+1200000
+𝐷𝐹𝐿 =   = 1.18
+100000
+(1200000 −40000 − ( 1 −0.30)
+The Corporation should acquire company B as it is having lower DFL – 1 mark
+Q.2   Machinery X   [20]
+CO -3   Year (1-5)
+BL   Revenue   250000
+Analyse
+Operating cost   100000
+Depreciation   90000   (0.5 Mark)
+PBT   60000   (0.5 Mark)
+Tax   18000   (0.5 Mark)
+PAT   42000   (0.5 Mark)
+Cash Flow   132000   (0.5 Mark)
+Terminal Cash flow   2,32,000   (0.5 Mark)
+Calculation of NPV and PBP
+NPV@10
+Year   Cash Flow   %   PV   CPV
+0   -550000   1   -550000
+1   132000   0.9090909   120000   120000
+2   132000   0.8264462   109090.90   229090.90
+3   132000   0.7513148   99173.553   328264.46
+4   132000   0.6830134   90157.776   418422.23
+5   2,32,000   0.6209213   144053.74   562475.98
+12475.985
+( 2.5   ( 2.5
+Mark)   Mark)
+NPV=   12475.98587 (0.5 mark)
+PBP =   4.566300862 (1 mark)
+Machinery Y
+Year 1 -6
+Revenue   300000
+Operating cost   120000
+Depreciation   90000   (0.5 Mark)
+PBT   90000   (0.5 Mark)
+********** 2 **********
+--- page 3 ---
+Tax   27000   (0.5 Mark)
+PAT   63000   (0.5 Mark)
+Cash Flow   153000   (0.5 Mark)
+Terminal Cash flow   2,53,000   (0.5 Mark)
+Year Cash Flow NPV@10%   PV   CPV
+0   -640000   1   -640000
+1   153000   0.909090909 139090.9091 139090.9091
+2   153000   0.826446281   126446.281   265537.1901
+3   153000   0.751314801 114951.1645 380488.3546
+4   153000   0.683013455 104501.0587 484989.4133
+5   153000   0.620921323 95000.96243 579990.3757
+6   2,53,000   0.56447393   142811.9043   722802.28
+82802.28002
+(2.5 Mark)   (2.5 Mark)
+NPV=   82802.28002 (0.5 mark)
+PBP =   5.420200435 (1 mark)
+According to NPV Machinery Y should be selected and according to PBP, Machinery X
+should be selected. (1 mark)
+Q.3   Ke = (2/24) + 0.06 = 0.1433   2 - Marks   [20]
+CO -3
+BL   10 +100−98
+Apply   Kp =   100+98 9 = 10.33   2.5 -marks
+2
+14 ∗(1 −0.45) +100−103 7
+Kd =   100+103   = 7.16   2.5 - marks
+2
+Term Loan Kd = 13*(1-0.45) = 7.15%   1.5 - marks
+WACC using BV
+Amount
+Sources of Capital
+(₹ million)   Wi   Cost   WACC
+Equity   120   0.226415   14.33   3.244528
+Preference   120   0.226415   10.33   2.338868
+Debentures   60   0.113208   7.16   0.810566
+Retained Earnings   140   0.264151   14.33   3.785283
+Term Loans   90   0.169811   7.15   1.214151
+Total   530   1   11.3934
+2.5 marks   2.5 marks
+WACC using MV
+Amount
+Sources of Capital
+(₹ million)   Wi   Cost   WACC
+Equity   288   0.516685   14.33   7.40409
+Preference   117.6   0.21098   10.33   2.179419
+********** 3 **********
+--- page 4 ---
+Debentures   61.8   0.110872   7.16   0.793843
+Term Loans   90   0.161464   7.15   1.154467
+Total   557.4   1   11.53182
+1.5 mark   2.5 marks   2.5 marks
+Q.4 a.   EBIT – EPS Analysis   [10]
+CO - 4
+BL   Plan 2
+Plan 1 (Equity +
+Analyz   (Debentures   Marks
+Debentures)
+e   Particulars   Only)
+EBIT (Earnings Before Interest & Tax)   1600000   1600000   1
+Less: Interest Expense   355000   775000   1
+PBT (Profit Before Tax)   1245000   825000   1
+Less: Tax @ 30%   373500   247500   1
+PAT (Profit After Tax)   871500   577500   1
+Less: Preference Dividend   180000   180000   1
+Earnings Available for Equity   691500   397500   1
+No. of Equity Shares (in ‘000)   60000   40000   1
+EPS (Earnings Per Share in ₹)   11.525   9.9375   1
+Plan A is better as it has more EPS.
+Q.4 b.   Dividend is paid   [10]
+CO - 2   1. Price at the end of year 1
+BL
+Apply   P₀ = (1 / (1 + kₑ)) * (D₁ + P₁)
+120 = (1 / 1.12) * (6 + P₁)
+P₁ = 128.4   1 marks
+2. Amount Required to be Raised from Issue of New Shares:
+Δn P₁ = I - (E - nD₁)
+= ₹7,20,000 - (₹3,60,000 - ₹1,80,000)
+= ₹5,40,000   1 marks
+3. Number of Additional Shares to be Issued:
+Δn = ₹5,40,000 / ₹128.4
+= 4206 shares   1 marks
+4. Value of the Firm:
+n P₀ = ((n + Δn) P₁) - I + E
+= ((30,000 + 4206) * 128.4) - ₹7,20,000 + ₹3,60,000
+= ₹43,92050.4 - ₹7,20,000 + ₹3,60,000
+= ₹40,32050.4
+Discounting: ₹4032050.4 / 1.12 = ₹3600045   2 marks
+If divided is not paid
+1. Price at the end of year 1
+P₀ = (1 / (1 + kₑ)) × P₁
+120 = (1 / 1.12) × P₁
+P₁ = 120 × 1.12 = 134.4   1 mark
+2. Amount Required to be Raised from Issue of New Shares:
+********** 4 **********
+--- page 5 ---
+Δn P₁ = I - E
+= ₹7,20,000 - ₹3,60,000
+= ₹3,60,000   1 marks
+3. Number of Additional Shares to be Issued:
+Δn = ₹3,60,000 / ₹134.4
+= 2679 shares   1 marks
+4. Value of the Firm:
+n P₀ = ((n + Δn) P₁) - I + E
+= ((30,000 + 2679) × 134.4) - ₹7,20,000 + ₹3,60,000
+= ₹44,44,233.6 - ₹7,20,000 + ₹3,60,000
+= ₹40,320576
+Discounting: ₹40,320576/ 1.12 = 3600051   2 marks
+Q.5   Estimation of Working Capital   Rs   Rs   Marks   [20]
+CO - 4
+CA
+BL
+Apply   Stock of RM   50,00,000.00   2
+Stock of WIP
+RM   8,33,333.33   1
+Labour   1,56,250.00   1
+Overheads   2,18,750.00   12,08,333.33   1
+Stock of FG   69,37,500.00   2
+Debtors   61,66,666.67   2
+Cash   15,00,000.00   1
+Total Current assets   2,08,12,500.00
+CL
+Suppliers   25,00,000.00   2
+Lag in Wages   3,12,500.00   2
+Lag in Manufacturing Overhead   2,18,750.00   2
+Lag in Administration Overhead   3,12,500.00   2
+Total Current liabilities   30,31,250.00
+Net Working Capital   1,77,81,250.00   1
+Add : Safety margin   17,78,125.00   0.5
+Estimated working
+Capital   1,95,59,375   0.5
+Q.6 a.   Evaluation of Plans   [10]
+CO - 3
+BL   Mar
+Analyz   Particulars   Existing   X   Y   ks
+e   Annual collection
+expenditure   60000   85000   170000
+Bad Debts   96000   60000   36000   1.5
+Opportunity cost   984375   708750   472500
+Total Cost   1140375   853750   678500   1.5
+Cost of investment in
+Debtors   Existing   X   Y
+********** 5 **********
+--- page 6 ---
+2625000 2625000   2625000   1.5
+Total Cost (VC + FC)   0   0   0
+Debtor turnover   4.8   6.667   10   1.5
+Investment in debtors   5468750 3937500   2625000   1.5
+Opportunity cost   984375   708750   472500   1.5
+Program Y should be selected.   (1 Mark)
+Q.6 b.   Basis   Debentures   Preference Shares   [10]
+CO - 1
+BL   A type of debt instrument; the   A type of equity instrument
+Remem   company borrows funds from   represents ownership with
+ber   Nature   investors.   preferential rights.
+Preference shareholders are
+Debenture holders are creditors   partial owners but usually
+Ownership &   not owners and have no voting   have limited or no voting
+Voting Rights   rights.   rights.
+Fixed interest is paid   Dividends are paid if profits
+Return on   periodically regardless of   are available and declared by
+Investment   profits.   the company.
+Generally secured by company   Unsecured and riskier since
+Risk & Security   assets making it lower risk.   dividends depend on profits.
+Collateral   It requires Collateral   It does not require
+Q.7 a   Agency Conflict refers to the conflict of interest that arises when there is a separation   [10]
+CO -1   between the ownership and control of a business. It typically occurs between principals
+BL   (shareholders or owners) and agents (managers or executives) who are hired to manage
+Remem   the organization. The principals expect the agents to act in their best interests, but
+ber   because agents may have their own interests or personal goals, their actions may not
+always align with the principals' objectives. (2 Marks)
+Reasons Behind Agency Conflict: (4 Marks)
+Different Goals and Interests:
+Shareholders (principals) generally aim to maximize the value of their investment and
+receive high returns. Managers (agents), on the other hand, may focus on personal goals
+such as job security, higher salaries, or perks, which may not always align with the goal
+of maximizing shareholder wealth.
+Information Asymmetry:
+Managers often have more information about the company's operations than
+shareholders. This information imbalance can allow managers to make decisions that
+benefit themselves rather than the owners of the company.
+Risk Preferences:
+Shareholders may be willing to take on more risk for higher returns, while managers,
+with less at stake in terms of personal wealth, may be more risk-averse and prefer safer,
+less profitable investments that protect their position.
+Short-Term vs. Long-Term Goals:
+Shareholders might prioritize long-term growth, while managers could focus on short-
+term results to enhance their compensation (e.g., through annual bonuses or stock
+options), which can lead to decisions that do not benefit the company in the long run.
+Ways to Overcome Agency Conflict: (4 Marks)
+Incentive Alignment:
+Aligning the interests of managers with those of shareholders can help reduce agency
+conflicts. This can be done by offering performance-based compensation, such as stock
+options, bonuses, or profit-sharing plans, which motivate managers to act in the best
+interests of the shareholders.
+Effective Monitoring:
+Regular monitoring of managerial actions through mechanisms such as audits, board of
+directors' oversight, and performance evaluations can help ensure that managers are
+acting in the best interest of the shareholders.
+********** 6 **********
+--- page 7 ---
+Transparent Reporting and Information Sharing:
+Encouraging transparent communication and regular reporting of financial performance
+helps reduce information asymmetry between managers and shareholders, making it
+easier to track whether managers are acting in the company’s best interest.
+Corporate Governance:
+Strong corporate governance practices, such as having an independent board of directors,
+can help mitigate agency problems. The board should oversee management decisions to
+ensure they align with the interests of shareholders.
+By addressing the root causes of agency conflict and implementing these strategies,
+organizations can reduce conflicts and improve decision-making to maximize
+shareholder value.
+Q.7 b   a) Collection Cost – Expenses incurred in managing and collecting receivables,   [10]
+CO -1   such as billing, reminders, follow-ups, and collection agency fees.
+BL   b) Capital Cost – The opportunity cost of funds tied up in receivables, which could
+Remem   have been invested elsewhere for returns.
+ber   c) Delinquency Cost – The cost arising due to delayed payments, including loss of
+interest income and administrative expenses for tracking overdue accounts.
+d) Default Cost – Losses incurred when customers fail to pay their dues, leading to
+bad debts and provisions for doubtful accounts.
+********** 7 **********
 ````
 
 ## 2024-25 · Re-Exam · Sem 8 · Answer key · paper 71ac22c8ca32

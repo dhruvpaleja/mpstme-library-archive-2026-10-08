@@ -1,6 +1,6 @@
 # Mechanical Measurements and Metrology: question papers in full
 
-40 unique papers · 2013-14 to 2025-26 · Mechanical
+48 unique papers · 2013-14 to 2025-26 · Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1096,6 +1096,130 @@ SO-2 ; b | Discuss in detail different configurations of CMM machines. [10]
 BL-2
 ````
 
+## 2021-22 · Final-Exam · Sem 6 · paper a600487572e7
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER VI/MECHANICAL MEASUREMENT AND METROLOGY/Mechanical_Measurements_and_Metrology_2021-22_Final0001_02XMtBUXns.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 April 2022
+- Text: ocr (3 pages), mean OCR confidence 88.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &|E
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINBER
+
+Academic Year: 2021-22
+
+Programme: B.Tech Integrated (Mechanical) Year: III Semester: VI
+Subject: Mechanical Measurements and Metrology
+
+Marks: 100
+Date: 13 April 2022 Time: 10.00 am - 01.00 pm
+
+Durations: 3 (Hrs)
+
+No. of Pages: 3
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _questions.
+
+3) Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi :
+Answer briefly: [20]
+a. Define & explain the following
+CO-1,1;
+SO-1,1; i) Sensitivity 2.5
+BL-1,1 ii) Thermocouple Seebeck effect 2.5
+b. i) Define and explain: Piezo-electric sensor 54
+ii) Solve the given problem. A metallic strain gauge has resistance of 150Q and |
+CO-1,2; .. | a gauge factor of 1.5. It is installed on an aluminium structure which has a yield
+ae : point stress of 0.5 GN/m? and Young’s modulus of 70 GN/m2. Determine the
+change in resistance of the gauge that would be caused by loading the material 2%
+to yield point. ,
+CO-2; c. Define Metrology. List the objectives of metrology.
+SO-1; 5
+BL-6 :
+CO- 3; d. Discuss types of surface irregularities found in surface measurement. P
+SO-1;
+BL-6
+
+ifs
+--- page 2 ---
+Q2
+eH.3 Demonstrate Dead weight pressure gauge with neat sketch and also mention 0
+SO-1: its application, advantages and limitations. :
+BL-2
+Sor Explain the following methods of quantification of surface roughness Rz 7]
+BL-S Value, RMS value and Ra value. ,
+Son Demonstrate constructional features, working and applications of universal (6
+BL2 measuring machine with neat sketch. ;
+Q3 Demonstrate with a neat sketch, explain principle, construction and working
+CO-2; of “Johanson Microkator”. Also explain how it is used as a comparator. State | [8]
+SO-1; :
+BL2 advantages and disadvantages.
+CO-2; Explain line standard, end standard and wavelength standards of 8]
+Oe measurement.
+CO-2; ;
+SO-1; Discuss the characteristics of LASER and its application in metrology. [4]
+BL-6
+Q4
+CO-1: Identify any appropriate measuring instrument and explain the basic 18]
+SO-1; functional elements with neat sketch.
+BL-3
+CO-2;
+SO-1; Explain bonded and unbonded resistance strain gauges with neat sketch. [5]
+BL-5S
+Son Explain the construction and working of the following Total radiation 7)
+BL-S. pyrometer with the help of a schematic diagram.
+Q5 Sketch and discuss about Yard material standard used in metrology. State the
+
+; (We
+ee reasons of replacement of material standards by wavelength standards.
+
+2/3
+--- page 3 ---
+BL-
+
+CO-1; b. Differentiate between pressure and vaccum measurements. enlist vaccum
+
+SO-1; Bre
+BL-4 measurement devices.
+
+C. Solve the given problem. "In measurement of surface roughness, heights of
+cO-3: 25 successive peaks and troughs were measured from datum and were 45, 25,
+SO-1; 35,25,40,22,35,18,42,25,35,22,36,18,42,22,32,21,37,18,35,20,32,18,50. Bt Lb
+BL-6 If sampling length was 25 mm, determine CLA and RMS value of the
+surface.
+Q6 a.
+Sone Derive gauge factor expression of strain gauges. [8]
+BL-6
+b.
+CO-3;
+canals Explain the following (any three): -
+
+BL-6 [4]
+(i&ii) | » Taylor-Hobson’s Talysurf (4)
+CO-1; li) <ahIne (4)
+SO-1; iii) RTD 4]
+
+Bint iv) Bourdon guage
+(iii&iv)
+````
+
 ## 2021-22 · Final-Exam · Sem 6 · paper fa787fe573b8
 
 - Departments: Mechanical
@@ -1236,6 +1360,125 @@ BL-3 .
 industry.
 
 2\ Rage
+````
+
+## 2021-22 · Re-Exam · Sem 6 · paper e517b7ba4941
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER VI/MECHANICAL MEASUREMENT AND METROLOGY/Mechanical_Measurements_and_Metrology_Batch_2021-22_Re_E0001_cZVcqw9Wzk.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 June 2022
+- Text: ocr (3 pages), mean OCR confidence 83.7
+
+````text
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE!
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2021-22
+
+Programme: B.Tech Integrated (Mechanical) Year: Ill Semester: VI
+
+Subject: Mechanical Measurements and Metrology
+* Marks: 100
+
+Time: 2.00 pm to 5.00 pm
+Durations: 3 (Hrs)
+_ No. of Pages: _O3
+Re-Examination (2021-22)
+
+Date: 09 June 2022
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+Answer briefly: [20]
+a. Define and explain the following
+Co-1;1;
+SO-1;1; i) Hysteresis 25
+BL-1,1 ii) | Thermopile 2.5
+b. Solve the given problem. A metallic strain gauge is bonded to a beam of 0.2 m
+aff
+d6-i2 long and has a cross sectional area of 0.5 x 10° m?. The strain gauge has a
+S0-6: , unstrained resistance of 240 Q and a gauge factor of 1.75. When the load is | 5
+BL-5 applied, the gauge resistance changes by 0.013Q. Calculate the change in
+length of the steel beam and the amount of force applied to the beam. F=207 GN/n
+CO-2; c. .
+SO-1; Discuss the various standards of measurement used in Metrology measurement. | 5
+BL-6
+CO-2; d. Explain the phenomenon of optical interference or working principle of
+SO-6; . ;
+BLS interference of light.
+
+/,
+--- page 2 ---
+CO-3; Explain with the help of a neat sketch of - piezoelectric pressure gauge. [7]
+SO-1;
+BL-5
+oo b. Explain the features of Co-ordinate measuring machine with the help of a neat 7
+BLS sketch. State its advantages and disadvantages.
+mea & Demonstrate two wire method to check an effective diameter of an external (6]
+Bh-2 thread with a neat sketch.
+Q3 a. Discuss with neat sketch principle, construction and working of Solex
+CO-2; pneumatic gauge. State its advantages and disadvantages. Also explain how it | [8]
+a is used as i) comparator, ii) to check circularity and straightness of a bore.
+CO-2; b. . : :
+SO-1; ; Differentiate between mechanical and pneumatic comparators.(Only 4 points) | [8]
+BL-4
+CO-2; Ci
+SO-1; Compare contact and noncontact method of Inspection [4]
+BL-2
+Q4 a.
+oa Classify any 2 types of Instruments. [6]
+BL-2
+CO-2; b. Discuss any one:
+SO-1; (i) Pirani gauge [6]
+as (ii)   Tonization gauge
+c. Explain the following thermometers in respect with principle, construction
+a and working with the help of neat diagram. 18]
+BL-3. (i) Liquid filled thermometer
+(ii) | Bimetallic thermometer
+Q5 a.
+CO-2; . ; - 4
+SO-1: Differentiate between accuracy and precision. . [4]
+BL-4
+
+>
+--- page 3 ---
+CO-1; b. .
+[5]
+
+SO-1; Compare different types of bourdon tubes with each other.
+BL-2
+_. c. Explain with neat sketch, Screw thread terminology. Define the following: [5]
+BL-5 (i) Pitch (ii) Angle of thread and (iii) Fundamental triangle
+Q6 a.
+§CO-2; ; . .
+$0-1: Classify strain gauges and explain any three [8]
+4 BL-2
+CO-3;
+acy ° Explain the following (any three): - :
+BL-6 P Bany ‘ [4]
+(1 & ii) - i inane —— (4)
+CO-1; ii) Machine system vision (4)
+SO-1; iti) Soleckive Radiation Pyrometer 4]
+BL-6 iv) McLeod Gauge
+(iii & iv)
+
+-
 ````
 
 ## 2021-22 · Re-Exam · Sem 6 · paper 6e0da34fa124
@@ -1426,6 +1669,115 @@ Q7 A What are gears? Describe any two types of gears with their applications. (8
 B__ Explain how interference bands are formed using optical flats (6)
 ````
 
+## 2018-19 · Final + Re-Exam · Sem 6 · paper 01acdbc0f544
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER VI/MECHANICAL MEASUREMENT AND METROLOGY/Mechanical_Measurement_and_Metrology_2018-19_Final_Batch_h2017-18_Re_Exam_t3Yjs2AiWr.pdf`
+- Printed on paper: exam date: 15 April 2019
+- Text: ocr (2 pages), mean OCR confidence 91.3
+
+````text
+. SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program :B.Tech Integrated (MECHANICAL)
+Academic Year: 2018-20
+
+Year: III Semester: VI.
+
+Date: 15 April 2019 _-
+
+~ 4
+Final Examination (2018-19)/Re= Q ica -
+
+~ Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of' remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer following questions
+a What are dynamic characteristics of measuring instrument and list the some of the [2]
+dynamic characteristics of measuring instruments
+b List the types of RTD and name which RTD is widely used and also explain why it [3]
+
+is widely used
+
+© What is necessity and importance of metrology [3]
+d = What are advantages of optical comparators (2]
+€ Explain the role of lasers in measurement [4]
+
+Q.2 a What are static characteristics of measuring instruments and explain hysteresis, [7]
+
+sensitivity and drift with neat sketch
+
+b Explain McLeod gauge for pressure measurement with neat sketch and state its [7]
+
+advantages and disadvantages
+
+Q.3 a Give the classification of strain gauges and explain any one in short with neat skecth [7]
+
+4/9
+--- page 2 ---
+Q4a-
+
+Q5 a
+
+Q6 a
+
+Q7 a
+
+You are required to measure a temperature of movirig fluid in pipe by using [7]
+the thermocouple. The temperature of the moving fluid is in the range of 2 °C
+to 3 °C. The sensitivity of thermocouple is 0.25 Micro volts per degree
+Celsius. The minimum voltage that can be detected in voltmeter connected to
+
+thermocouple is 2 microvolts. '
+
+i) Can you measure temperature of fluid by using above thermocouple?
+(yes or No)
+ii) If yes explain with neat sketch how it is possible to measure and if
+
+not, give the reason and suggest the appropriate modification in
+
+thermocouple with neat sketch to measure temperature
+
+Name the instrument used for calibration of pressure measuring instruments and [7]
+
+explain the same with neat sketch and state its applications
+
+Differentiate between accuracy and precision [3]
+Describe the functions of probe used in CMM [4]
+Explain analysis of wheatstone bridge circuit using strain gauges [7]
+Explain how interference bands are formed by using optical flats (7]
+
+Explain line standard, end standard and wavelength standards of measurement and [7]
+
+also state their advantages and disadvantages
+
+Explain the following methods of quantification of surface roughness [7]
+Rz Value , RMS Value and Ra Value
+
+What are angle gauges and explain how they are used with suitable examples [7]
+
+What are pyrometers? Explain the need of pyrometer and also explain with neat [7]
+
+sketch total radiation pyrometer
+
+4
+````
+
 ## 2018-19 · Final-Exam · Sem 5 · paper 082e61e86508
 
 - Departments: Mechanical
@@ -1595,6 +1947,105 @@ Explain briefly about Machine Vision with neat Sketch
 14
 ````
 
+## 2018-19 · Re-Exam · Sem 6 · paper 8df74b18f2cd
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER VI/MECHANICAL MEASUREMENT AND METROLOGY/Mechanical_Measurement_and_Metrology_Batch_2017-18_2018-19_Re_Exam_zlCwdikr4T.pdf`
+- Printed on paper: duration hours: 3; exam date: 14 June 2019
+- Text: ocr (2 pages), mean OCR confidence 91.3
+
+````text
+SVKM’S NMIMS
+
+Program :B.Tech Integrated (MECHANICAL) _
+Academic Year: 2018-2019
+
+Subject: Mechanical Measurement and Metrology _
+
+Date: 14 June 2019
+
+Duration: 3 (hrs)
+No. of Pages: Q
+Re-examination(2017-18/18-19) .«
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 Answer following questions
+a With Neat sketch define sensitivity and hysteresis of measuring instrument [2]
+
+b Arrange RTDs made of Platinum, copper and Nickel in increasing order of their sensitivity [2]
+
+and Ranges
+c Differentiate between mechanical and pneumatic comparators [3]
+d_ Define the following terms associated with screw thread measurement [3]
+
+i)Fundamental Triangle ii) Angle of thread iii) Pitch
+e Explain the function of probe in CMM [4]
+
+Q.2 a With the help of any appropriate measuring instrument explain the basic functional [7]
+elements and auxiliary functional elements with neat sketch
+
+b How strain gauges are classified and explain the procedure for its mounting [7]
+
+Q.3 a With neat sketch explain the use of LVDT in the measurement of pressure and also list its [7]
+
+advantages and disadvantages.
+
+4\2
+--- page 2 ---
+b You are required to measure exact temperature of moving fluid in pipe by using the [7]
+thermocouple. The temperature of the moving fluid is in the range of 2 °C to
+3 °C. The sensitivity of thermocouple is 0.50 Micro volts per degree Celsius. The
+
+minimum voltage that can be detected in voltmeter connected to thermocouple is 5
+
+microvolts.
+i) Can you measure temperature of fluid by using above thermocouple? ( yes or No)
+ii) If yes explain with neat sketch how it is possible to measure and if not, give the
+
+reason and suggest the appropriate modification in thermocouple with neat sketch
+
+to measure temperature
+
+Q.4 a Explain dead weight pressure gauge with neat sketch and also mention its advantages and [7]
+
+dis advantages
+
+b Explain measurement of angle using angle dekkor and also list its advantages and [7]
+
+disadvantages
+Q.5 a Explain bonded and unbonded resistance strain gauges with neat sketch (7]
+b Explain with neat sketch construction and working of solex pneumatic gauge : [7]
+Q.6 a Explain wringing of slip gauges with neat sketch [3]
+b Explain the phenomenon of optical interference [4]
+c Explain the Taylor-Hobson’s talysurf used for surface roughness measurement [7]
+
+Q.7 a Explain the measurement of effective diameter by using two wire method in floating [7]
+
+carriage micrometer and also list advantages and disadvantages of floating carriage
+
+micrometer
+b_ Explain with neat sketch working principle of RTD [4]
+c Describe how lasers are used in measurements [3]
+
+L]2
+````
+
 ## 2018-19 · Re-Exam · Sem 5 · paper b9f6a6fbedb7
 
 - Departments: Mechanical
@@ -1713,6 +2164,100 @@ Ho
 
 (7)
 (7)
+````
+
+## 2017-18 · Final-Exam · Sem 6 · paper 8dd3198975e1
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER VI/MECHANICAL MEASUREMENT AND METROLOGY/Mechanical_Measurement_and_Metrology_2017-18_Final_y0BX2MKuCf.pdf`
+- Printed on paper: exam date: 08 May 2018
+- Text: ocr (2 pages), mean OCR confidence 91.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B.Tech Integrated (MECHANICAL) Year: III » Semester: VI"
+
+Academic Year: 2017-2018
+
+Subject:Mechanical Measurement and Metrology
+
+Marks Ae &
+Date:08 May 2018 «* Time: 2:00: ‘pm to 5. 00.pm* a
+Duratidns:3; (hrs) PXy)
+No. of Pages OL (
+
+Final Examination (2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume .Suitable data if necessary.
+
+Q.1 Attempt any four of the following : [04x3.5]
+
+(A) | Explain use of Bourdon’s tube and LVDT for measurement of pressure with the help of a neat
+sketch,
+
+(B) | State reasons of replacement of material standards by wavelength standards.
+
+(C) | Explain working principle of an autocollimator.
+
+(D) | Explain bimetallic thermometer with a neat sketch.
+
+(E) | What are the special properties possessed by lasers that make them suitable for metrology
+applications?
+
+Q.2 | (A) | How temperature is measured using Optical pyrometer? Explain in detail, also state its [07]
+advantages and applications.
+
+(B) | State the principle of working of an electrical strain gauge. State advantages and limitations of | [07]
+Unbonded strain when compared with bonded strain gauges.
+
+Q.3 | (A) | A McLeod gauge has volume of bulb volume and measuring capillary V = 100 X 10% m? and a [07]
+measuring capillary diameter of 1 mm. Calculate the pressure indicated when the reading of the
+measuring capillary is 30 mm in case approximate formula is used. What is the error if the exact
+formula is used for the measurement of pressure.
+
+(B) | Define gauge factor, Derive an expression for the gauge factor. [07]
+Q.4 | (A) | With the help of a neat sketch, explain principle, construction and working of ‘Johansson [07]
+Mikrokator’. Also explain how it is used as a comparator.
+(B) | Explain the features of co-ordinate measuring machine with the help of a neat sketch. [07]
+l/
+--- page 2 ---
+[04]
+
+Q.5 | (A) | Define: -i) Threshold, ii) Fidelity, iii) Dead zone, iv) Repeatability.
+(B) | Explain the following methods of measurement with suitable examples-i) Contact method, ii) [05]
+contactless method, iii) deflection method, iv) method of null measurement.
+(C) | Explain pressure measurement using piezoelectric pressure gauge with a neat sketch. [05]
+Q.6 | (A) | Draw block diagram of generalized measurement system. State function of each element of the [05] =
+| system with suitable example.
+(B) | State advantages and disadvantages of mechanical comparators. (four points each) [04]
+(C) | Explain principle of interference. Sketch the typical fringe patterns for following- [05]
+i) Surface is nearly flat along its length, ii) Surface is concave and low in the centre.
+Q.7 | (A) | Draw a neat sketch of Tomlinson surface meter and explain its working. [05]
+(B) | Explain two wire methods to check an effective diameter of an external thread with a neat [05] »
+sketch. :
+(C) | Explain with a neat sketch, checking the backlash in a gear. [04]
+
+28 2k ok
+
+i
+4
 ````
 
 ## 2017-18 · Final-Exam · Sem 5 · paper a9a8655d8ad9
@@ -1896,6 +2441,104 @@ b) Write short note on following (any two): . [08]
 2f2—
 ````
 
+## 2017-18 · Re-Exam · Sem 6 · paper b15d5d25a117
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER VI/MECHANICAL MEASUREMENT AND METROLOGY/Mechanical_Measurement_and_Metrology_Batch_2017-18_Re_Exam_MCcRdJbZoM.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 30 June 2018
+- Text: ocr (2 pages), mean OCR confidence 92.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Program: B.Tech Integrated (Mechanical) Year: III Semester : VI SN
+
+AcademicYear: 2017-2018
+Subject: Mechanical Measurement and Metrology 3
+Marks: 70
+
+Time: 10.00 am to 1:00pm .
+
+Durations: 3 (Hrs) :
+
+No. of Pages: 92
+Re-Examination (2017-18)
+
+Date : 30 June 2018
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+3 28 2 2 2k
+
+Ql Attempt any four of the following [04x3.5]
+
+(A) | Draw a neat sketch of Dead weight pressure gauge tester. How it is used for calibration purpose?
+
+(B) | Compare Line Standard with End standard. (Six points).
+
+(C) | Explain sources of errors in sine bar when it is used to measure an angle.
+
+(D) | Explain the working of Radiation pyrometer with the help of a neat sketch.
+
+(E) | What is computer aided inspection?
+
+Q.2 | (A) | An experiment is conducted to calibrate a Copper —Constantan thermocouple. With cold [07]
+junction at 0° C, emf obtained at boiling point of water (100° C) and boiling point of Sulphur
+(445°C) are 5 mV and 25 mV respectively. If the relation is assumed to be
+Determine the constants C; and C2
+The above thermocouple indicates 2 mV with the cold junction at 40° C. Determine the unknown
+hot junction temperature.
+
+(B) | Explain the following thermometers in respect with principle, construction and working with the | [07]
+help of neat sketches.
+i) Liquid / (Hg in metal) filled thermometer, ii) Vapour pressure thermometer.
+
+Q.3 | (A) | Explain principle, construction, working and limitations of McLeod vacuum gauge with the help | [07]
+of a neat sketch.
+--- page 2 ---
+(B) | Define gauge factor. A strain gauge is bonded to a beam 0.1 m long and has a cross-sectional area | [07]
+4 cm’. Young’s modulus for steel is 207 GN/m’. The strain gauge has an unstrained resistance of
+240 Q and a gauge factor of 2.2. When a load is applied, the resistance of gauge changes by 0.013
+Q. Calculate the change in length of steel beam and the amount of force applied to the beam.
+Q.4 | (A) | Explain construction and working of ‘Solex pneumatic comparator’ with a neat sketch, also [07]
+explain how it is used as i) a comparator, ii) to check circularity and straightness of a bore.
+(B) | Explain the features of co-ordinate measuring machine with the help of a neat sketch. [07]
+Q.5 | (A) | Define- i) Resolution, ii) Sensitivity, iii) Overshoot, iv) Calibration. [04]
+(B) | Compare accuracy and precision. [05]
+(C) | Compare three different types of Bourdon’s tube with each other. [05]
+Q.6 | (A) | Draw block diagram of generalized measurement system. State function of each element of the [05]
+; system with suitable example.
+(B) | State advantages and disadvantages of optical comparators. (Four points each.) [04]
+(C) | Explain the method used to check flatness of a surface using the principle of an interference of [05]
+light.
+Q.7 | (A) | In the measurement of surface roughness, heights of 25 successive peaks and troughs were [04]
+measured from datum and were 35, 25, 35, 25, 40, 22, 35, 18, 42, 25, 35, 22, 36, 18, 42, 22, 32,
+21, 37, 18, 35, 20, 32, 18,40.
+If sampling length was 20 mm, determine CLA.and RMS value of the surface.
+(B) | Explain the method used to check major diameter of an external screw thread with the help ofa [05]
+neat sketch.
+(C) | Draw a neat sketch of ‘Parkinson’s gear tester’. State its applications and limitations. [05]
+2
+
+ds,
+````
+
 ## 2017-18 · Re-Exam · Sem 5 · paper 8e35cd6fb1ac
 
 - Departments: Mechanical
@@ -1998,6 +2641,111 @@ Question 7: Write a short note on -
 Page 2 of 2
 ````
 
+## 2016-17 · Final-Exam · Sem 6 · paper 014a35976446
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER VI/MECHANICAL MEASUREMENT AND METROLOGY/Mechanical_Measurement_and_Metrology_2016-17_FInal_9PUjTll1SV.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 May 2017
+- Text: ocr (2 pages), mean OCR confidence 93.7
+
+````text
+SVKM’s NMIMS Seeadicat
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+/ Programme: B. Tech Integrated (MECHANICAL) Year: III Semester: VI ‘ 7
+Academic Year: 2016-2017
+
+Subject : Mechanical Measurement and Metrology
+Marks: 60
+Time : 10.00 am to 1.00 pm
+Date : 10 May 2017 Durations: 3 (hrs)
+No. of Pages: 2
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of
+the Answer Book, which is provided for their use.
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) All questions carry equal marks. ,
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary,
+
+Ql Answer any FOUR of the following:- (4x3 = 12)
+a. Define Metrology. What is the scope of Metrology?
+b. Explain Function Elements of Measurement system.
+c. Give the importance of Temperature measurement. Enlist few examples.
+d. Explain Working principle of Strain Gauge. Discuss on Guage factor.
+a e. Write short note on : Universal Bevel Protractor.
+
+f. How is assessment of Surface Roughness done?
+
+Q.2 Answer the following:- (6x2 = 12)
+a. Explain working of Bourdon Tube Pressure Guage with neat labeled Diagram.
+
+b. Explain working principle of Radiation Pyrometer with applications.
+
+Q3 Answer the following:- (6x2 = 12)
+
+a. Differentiate between Pressure and Vacuum Measurement. Enlist vacuum measurement
+
+7
+--- page 2 ---
+Q.4
+
+Q5
+
+Q.6
+
+Q.7
+
+devices.
+
+Explain Piezo Electric pressure guage with diagram.
+
+Answer the following:-
+Discuss on Analysis of Wheatstone’s Bridge Network using Strain Guage.
+
+Write short notes on : Mounting of Strain Guage.
+
+Answer the following:-
+What are standards of Measurement? Give the differences between Precision and
+
+Accuracy*
+What are Wavelength Standards? Discuss on Design and Manufacture of Gauges.
+
+Answer the following:-
+Explain Working principle of Interference of Light. Explain Fringe pattern and its
+interpretation in Interferometry.
+
+Discuss on Angle Standards. Give applications on Angle Dekker and Angle Gauges.
+
+Write Short Hotes on (any four) of the following:-
+
+Best Wire Size
+
+Tool Makers Microscope
+Machine Vision System
+Computer Aided Inspection
+Types of Surface Irregularities
+Screw Thread Errors.
+
+Any one Mechanical Comparator
+
+(6x2 = 12)
+(6x2 = 12)
+(6x2 = 12)
+(4x3 = 12)
+````
+
 ## 2016-17 · Final-Exam · Sem 5 · paper 4775a381d038
 
 - Departments: Mechanical
@@ -2070,6 +2818,113 @@ b) Name the various elements of the.spur gear which are checked for accuracy of 
 a
 
 /)
+````
+
+## 2016-17 · Re-Exam · Sem 6 · paper cc257abf2c9c
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER VI/MECHANICAL MEASUREMENT AND METROLOGY/Mechanical_Measurement_and_Metrology_Batch_2016-17_Re_Exam_7L5KScCSM2.pdf`
+- Printed on paper: exam date: 10 July 2017
+- Text: ocr (2 pages), mean OCR confidence 92.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech Integrated (MECHANICAL) Year: III Semester: VI
+
+Academic Year: 2016-2017
+
+Subject : Mechanical Measurement and Metrology capa
+, o
+
+j : a
+Time: f fren to 1.00 pr,
+it ybrg TMB Yaw
+
+fl Date : 10 July 2017 Dura'
+TT HODARY Je
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Attempt any four of the following: [04x03]
+(A) Compare three different types of Bourdon’s tube with each other.
+
+(B) Explain wringing of slip gauges.
+(C) Explain working principle of an autocollimator.
+
+(D) Compare RTD and thermocouple on the basis of temperature range, accuracy
+of measurement, stability, response time, repeatability, and sensitivity.
+
+(E) State the applications of machine vision system in inspection.
+
+Q.2 (A) How temperature is measured using optical pyrometer? Explain in detail, also [06]
+state its advantages and applications.
+(B) A resistance wire strain gauge with a gauge factor of 2 is bonded to a steel [06]
+structural member subjected to a stress of 100 MN/m? .the modulus of elasticity
+of steel is 200 GN/m? .Calculate the percentage change in the value of the
+gauge resistance due to the applied stress. Comment upon the results.
+3. (A) A McLeod gauge has volume of bulb volume and measuring capillary V = [06]
+100 X 10° m’ and a measuring capillary diameter of 1 mm. Calculate the
+pressure indicated when the reading of the measuring capillary is 30 mm in
+case approximate formula is used .What is the error if the exact formula is used
+for the measurement of pressure.
+(B) Define gauge factor .Derive an expression for the gauge factor. [06]
+Q.4 (A) a) With the help of a neat sketch, explain principle, construction and working of [06]
+‘Johansson Mikrokator’.
+Also explain how it is used as a comparator.
+
+(B) Explain constructional features, working and applications of Universal [06]
+
+ye
+--- page 2 ---
+measuring machine with a neat sketch.
+
+Q.5, (A) Define:-i) Threshold, ii) Fidelity, iii) Dead zone, iv) Repeatability. [04]
+
+(B) Compare accuracy and precision. [04]
+
+(C) Explain pressure measurement using piezoelectric pressure gauge with a neat [04]
+sketch.
+
+Q.6 (A) Draw block diagram of generalized measurement system. State function ofeach [04]
+element of the system with suitable example.
+
+(B) State advantages and disadvantages of pneumatic comparators.( Four points [04]
+
+each)
+
+(C) Explain principle of interference. Sketch the typical fringe patterns for [04]
+following-
+i) Surface is nearly flat along its length, ii) Surface is concave and low in the
+
+centre.
+Q7 (A) With reference to surface roughness parameters, explain the following terms- [04]
+i) Ra, ii) Rz, iii) RMS value, iv) CLA value.
+
+(B) __ Explain two wire methods to check an effective diameter of an external [04]
+thread with a neat sketch.
+
+(C) Draw a neat sketch of Toolmaker’s microscope. Explain how it is used to [04]
+measure various parameters of an external thread.
+i
 ````
 
 ## 2016-17 · Re-Exam · Sem 5 · paper f5b12f981bb1

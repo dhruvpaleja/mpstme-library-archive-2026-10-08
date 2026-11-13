@@ -1,6 +1,6 @@
 # Industrial Economics and Management
 
-**37** unique papers (43 copies across programmes) · 2013-14 to 2022-23 · 6 programmes · Sem 2, Sem 3, Sem 6, Sem 8
+**39** unique papers (45 copies across programmes) · 2013-14 to 2022-23 · 7 programmes · Sem 2, Sem 3, Sem 6, Sem 8
 
 Download only this subject, sorted by academic year:
 
@@ -18,6 +18,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2019-20 | Final-Exam | Question paper | Sem 3 | MCA | Industrial Economics & Management 2019-20 Final.pdf |
 | 2018-19 | Final + Re-Exam | Question paper | Sem 6 | B TECH / COMPUTER | INDUSTRIAL ECONOMICS AND MANAGEMENT 2018-19 FINAL EXAM 2017-18 RE EXAM.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / COMPUTER | Industrial Economics and Management 2018-19 Final.pdf |
+| 2018-19 | Final-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / EXTC | Industial_Economics_and_Management_2018-19_Final_A0f2U3XuIp.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 3 | MCA | Industrial Economics & Management 2018-19 Final.pdf |
 | 2018-19 | Re-Exam | Question paper | Sem 6 | B TECH / COMPUTER | INDUSTRIAL ECONOMICS AND MANAGEMENT BATCH 17-18 18-19 RE EXAM.pdf |
 | 2018-19 | Re-Exam | Question paper | Sem 6 | B TECH / ELECTRICAL, B TECH / EXTC | INDUSTRIAL ECONOMICS AND MANAGEMENT EXTC BATCH 17-18 18-19 RE EXAM.pdf |
@@ -25,6 +26,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2017-18 | Final-Exam | Question paper | Sem 6 | B TECH / COMPUTER | INDUSTRIAL ECONOMICS AND MANAGEMENT (COMPUTER), 2017-18 FINAL EXAM.pdf |
 | 2017-18 | Final-Exam | Question paper | Sem 6 | B TECH / EXTC | INDUSTRIAL ECONOMICS AND MANAGEMENT 2017-18 FINAL EXAM.pdf |
 | 2017-18 | Final-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / COMPUTER | Industrial Economics and Management 2017-18 Final.pdf |
+| 2017-18 | Final-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / EXTC | Industial_Economics_and_Management_2017-18_Final_OyjSeh1M0T.pdf |
 | 2017-18 | Final-Exam | Question paper | Sem 3 | MCA | Industrial Economics & Management 2017-18 Final.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 6 | B TECH / COMPUTER | INDUSTRIAL_ECONOMICS_AND_MANAGEMENT_B TECH (COMPUTER) BATCH_17-18_RE_EXAM_.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / COMPUTER | Industrial Economics and Management Batch 2017-18 Re Exam.pdf |

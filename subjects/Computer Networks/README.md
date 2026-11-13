@@ -1,6 +1,6 @@
 # Computer Networks
 
-**162** unique papers (279 copies across programmes) · 2011-12 to 2025-26 · 39 programmes · Sem 1, Sem 3, Sem 4, Sem 5, Sem 6, Sem 7, Trim 3, Trim 4, Trim 6
+**164** unique papers (281 copies across programmes) · 2011-12 to 2025-26 · 40 programmes · Sem 1, Sem 3, Sem 4, Sem 5, Sem 6, Sem 7, Trim 3, Trim 4, Trim 6
 
 Download only this subject, sorted by academic year:
 
@@ -88,6 +88,7 @@ Also filed as: `Computer Network`
 | 2022-23 | Final + Re-Exam | Question paper | Sem 4 | B TECH / CSE-CYBER SECURITY, B TECH / I T | Computer Networks, Sem-IV, Year 2022-23, Final & Re Exam.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 5 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / EXTC | Computer Networks, 3rd Year, Sem-V, Year 2022-23, Final Exam.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 3, Sem 5 | B TECH / COMPUTER, B TECH / EXTC | Computer Networks, 2nd Year, Sem III, Year 2022-23, Final Exam.pdf |
+| 2022 | Final-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / EXTC | Computer_Networks_Batch_2022__Final0001_rgLzikWiLB.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 5 | MBA TECH / EXTC | Computer networks,Final,2022-23.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 1 | MCA | Computer Network Batch 2022-23 Final0001.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 5 | B TECH / ARTIFICAL INTELLIGENCE | Computer Networks, 3rd Year, Sem-V, Year 2022-23, Re-Exam.pdf |
@@ -96,6 +97,7 @@ Also filed as: `Computer Network`
 | 2022-23 | Re-Exam | Question paper | Sem 3, Sem 5 | B TECH / COMPUTER, MBA TECH / COMPUTER, MBA TECH / EXTC | Computer Networks, Sem-III, Year 2022-23, Special Re Exam.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 6 | B TECH / CSBS | Computer Networks, Sem VI, Batch 2021-22 & 2022-23 Re Exam.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 4 | B TECH / CSE DATA SCIENCE, B TECH / I T | Computer Networks, Sem-IV, Batch 2021-22, 2022-23, Re Exam.pdf |
+| 2022-23 | Re-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / EXTC | Computer_Network_Batch_2022-23_Re_Exam0001_bYMjQ1QT5I.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 3, Sem 5 | MBA TECH / COMPUTER, MBA TECH / Computer, MBA TECH / I T | Computer Network , Re-exam ( Batch 2022-23).pdf |
 | 2021-22 | Final-Exam | Question paper | Sem 4 | B TECH / CSE-CYBER SECURITY, B TECH / I T, MBA TECH / I T | Computer Networks, Sem4,Final,2021-22.pdf |
 | 2021-22 | Final-Exam | Question paper | Sem 6 | B TECH / EXTC, MBA TECH / EXTC | Computer Networks,Sem6,Final,2021-22.pdf |

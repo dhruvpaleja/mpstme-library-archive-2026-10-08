@@ -1,8 +1,149 @@
 # Chemistry II: question papers in full
 
-38 unique papers · 2014-15 to 2025-26 · Common (all branches), Mechanical, Data Science, Information Technology, Computer Engineering
+43 unique papers · 2014-15 to 2025-26 · Common (all branches), Mechanical, Data Science, Information Technology, Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Re-Exam · Sem 4 · paper f98a8aa5ccf6
+
+- Departments: Common (all branches)
+- Programmes: B.TECH INTEGRATED
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3636__2nd YEAR.zip :: ALL STREAM/SEMESTER IV/Chemistry -II/Chemistry_-II_Batch_2022-23_2023-24_2024-25_Re_Exam_We5YNFuAQf.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 86.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENCINEEEINS
+Academic Year: 2025-2026
+“Program: B Tech Integrated Stream: Computer Science
+Subject: Chemistry-II
+Date: }0 / 7 /2€
+Marks: 100
+Re-Examination (2022-23) ,20 23-24, ZOQ4-25
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+ii 7) Assume Suitable data if necessary.
+8) Atomic weights: H=1, C=12, O=16, Al=27, N=14, Li = 6.9, Na=23, Mg=24, P= 31, S=32, Cl=35.5, Ca=40,
+Ni=58.7, Fe=55.85, K=39, B=10.8, Cr=52
+Qi
+Answer briefly: [20]
+a. | Explain the term Ionization potential (IE). Give the trend in the IE of the following
+is SO-1 elements of period 2 in the descending order with reasons: F (Z=9), C (Z=6), Be (Z=4), | [5]
+O (Z=8).
+CO-2: SO-1 b. | Define and explain with formula the concept of molecular weight. Calculate the number (5]
+BL-1 of sodium atoms in a sample of 636 g NaxCO3.(At wt Na=23, C=12, O=16)
+c. | Identify functional groups and write TUPAC names of following compounds:
+CO-3; SO-1 ‘ _ a” fe)
+> |BL3 i) .   CHa= HC-CH2-CH»-CHO ii) Hos, Th 1]
+OH
+or SO-1 d. Explain the lowering in vapor pressure of a liquid as a colligative property [5]
+Q2 a.
+CO-1; SO-1 p Write a short note on multiple covalent bonds [5]
+BL-1 :
+Cen oe b. | How many moles of nitrogen atoms and oxygen atoms are there in the nitrate ions
+— , formed in a mixture of 2 mol of calcium nitrate Ca(NO3)2 and 1.5 mol of aluminium [5]
+
+nitrate Al(NO3)3?
+
+1/3
+--- page 2 ---
+e
+CO-1; SO-1 Define effective nuclear charge. Estimate Ze of 4s electron for Zn (Z=30) and 3p [5]
+BL-1 electron in Si (Z=14)
+CO-2; SO-1 . : .
+Calculate the weight of a sample of nickel sulphate hexahydrate (NiSO4.6H20) that [5]
+BL-3,5 contains 25 x 107° molecules of it.(At wt Ni =58.7, S=32, O=16, H=1)
+Q3 Explain carboxylic acid functional group with respect to identification, 2 methods of [5]
+CO-3; SO-1 preparation and 2 reactions.
+| BL-1
+CO-2; SO-1
+pra Estimate number of molecules in 50 g MgSO, (At wt Mg=24, S=32, O=16) [5]
+-d
+CO-3; SO-1
+— Discuss ionic and co-ordinate bond with suitable examples. [5]
+COA: 86-4 A student prepared a solution by dissolving 23 g NaCl in water such that total volume
+BLA , of solution is 750 ml. Density of solution is 1.09 g/ml. Help him calculate molality of | [5]
+solution.(At. wt Na =23, Cl= 35.5) ° =
+Q4
+CO-3; $O-1 Explain the sp hybridization with an appropriate example ° [5]
+BL-1
+CO-3; SO-1 Explain aldehyde & ketone with respect to identification, 2 methods of preparation and [5]
+BL-1,2 2 reactions
+How many grams of potassium are there in 3.0 g of Kx2CmO7?
+CO-3; SO-1
+(At wt K =39, Cr = 52, O=16). [5]
+BL-4
+How many oxygen atoms are there in 32 g of molecular oxygen
+CO-3; SO-1
+a2 Discuss the exceptions to the Octet Rule with respect to Expanded Octet [5]
+Q5 . .
+Predict period, group and block of elements having atomic number 10 and 17 using [5]
+CO-1; SO-1 electronic configuration
+BL-4 oy
+cose $04 7.45 g of potassium chloride (KCI) was dissolved in 100 g of water. Calculate the |
+tei 4 motarity and normality of the solution. Density of solution is 1.05 g/ml. [At wt K=39, | [5]
+; CI$35.5]
+i) Draw the structure of- Hydroxybenzene
+CO-1; SO-1 ” ‘
+ii) Write the IUPAC name of HZ [5]
+BL-1,4
+
+NO»
+
+2/3
+--- page 3 ---
+CO-2; SO-1 What is a solution and give its components. Classify solutions based on gas.as a 15]
+BL-3 solvent with suitable examples
+List the criterion of polarity based on electronegativity.
+Q6 A bond is formed between H and O, where in electronegativity of O is 3.44 and 4 is
+CO-3; SO-1 2.1. Comment and justify on type of bond between O and H [5]
+BL-1,4 A bond is formed between H and O, where in electronegativity of C is 2.55 and His
+2.1. Comment and justify on type of bond between C and H
+Elisks BOul A solution was prepared by dissolving 42 g Na,SO, in water such that total volumeof
+BL : solution is 220 ml. Density of solution is 0.891 g/mi. Calculate mole fraction of both | [5]
+the components of solution.(At wt Na=23, S=32, O=16)
+CO-3; SO-1 Discuss the classification of alcohols and the identification test with reactions for 15]
+BL-2 differentiating a primary alcohol from a secondary alcohol ,
+CO-1; SO-1 Define equivalent weight. Estimate the moles of NaxCO3 required to prepare a 250 st |
+BL-1 ppm solution having volume of 200 ml. (At wt Na=23, C=12, O=16) =
+no—oaox F SOC; ———_»
+Q7 i
+CO-3; SO-1 Hsc——¢—on + 2HI Red Phosphorus GF
+a
+BL-2
+CH3
+In the above reactions:
+i) Draw structures of the product formed and name the functional group ,
+ii) Write the IUPAC names of the reactants and products
+Explain the concept of iso-electronic species. Arrange O* Na“! F' and Mg”* in
+CO-3; SO-1 o :
+BL2 decreasing order of their atomic radius and justify your answer “4
+(At No. O-8, Na-11, F-9, Mg-12)
+C0-3: SO-1 Draw the structures of following compounds: \
+. Es [5}
+BL-2 i) 3-chloro-pent-4-enoic acid ii) hex-4-yn-2-ol
+CO-2; SO-1 .
+aT Show Lewis dot structure of BCI; and N> [5]
+
+3/3
+
+eS
+````
 
 ## 2025-26 · Re-Exam · Sem 3 · paper 0b733534e711
 
@@ -1102,6 +1243,128 @@ is 4. Comment and justify on type of bond between C and F.
 ********** 4 **********
 ````
 
+## 2024-25 · Re-Exam · Sem 4 · paper 834f96fbe803
+
+- Departments: Computer Engineering
+- Programmes: BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7032
+- Source: `00_Original_Downloads/2024/67804__Semester IV__context_fixed.zip :: Re-Exam/BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7032/Chemistry-II/QP_Re-Exam_Chemistry-II(701BS0C017)_Semester IV_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Jul 2025
+- Text: text (4 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)
+Year: II/Sem 4 Re-exam(Exam Year: 2024-2025)
+Subject: Chemistry-II
+Date: 05 Jul 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 4 pages.
+2. Question No. 1 is compulsory
+3. Out of the remaining questions, attempt any 4 questions
+4. In all 5 questions to be attempted
+5. All questions carry equal marks
+6. Answer to each new question to be started on a fresh page
+7. Non-graphing scientific calculator can be used for numerical solving
+8. Figures in brackets on the right hand side indicate full marks
+9. Assume Suitable data if necessary
+Atomic weights of some elements:
+Al=27, Ag=107.9, Ba= 137, Br=80, C=12, Ca=40, Cl=35.5, Cr=52, Cs= 132.9, Cu=63.5, Fe=55.9,
+H=1, K=39, Mg=24, Mn=55, N=14, Na=23, Ni=58.7,O=16, P=31, S=32, Si=28, Zn=65.4
+Q 1.   Answer the following:
+CO-1; SO-1;   a.   Define atomic radius. Discuss the trend across a period and down the   (5)
+BL-2   group
+CO-2; SO-1;   b. With reference to the concept of Avogadro’s Number, explain the concept   (5)
+BL-1   of a mole. Calculate number of oxygen atoms in a sample of 2 mol
+CaCO3.(At wt Ca=40, C=12,O=16)
+CO-3; SO-1;   c. What is an ionic bond? Give an example and describe how the bond is   (5)
+BL-1   formed.
+CO-4; SO-1;   d. What is a solution? Classify the three types of solutions where gas is a   (5)
+BL-2   solvent. Give an example of each type.
+********** 1 **********
+--- page 2 ---
+Q 2.   a.   Write IUPAC names of the following compounds:   (5)
+CO-3; SO-1;
+BL-1
+i.   iv.
+ii.   v.
+iii.
+CO-1; SO-1;   b.   Estimate Zeff of s-electron of outermost shell and 3d electron for element   (5)
+BL-1   with atomic number 24.
+CO-2; SO-1;   c.   Calculate the weight of a sample of nickel sulphate hexahydrate   (5)
+BL-2   (NiSO4.6H2O) that contains 12.5 x 1020 molecules of it. (At wt Ni =58.7,
+S=32, O=16, H=1)
+CO-3; SO-;   d.   Explain carboxylic acid functional group with respect to identification, 2   (5)
+BL-2   methods of preparation and 2 reactions.
+Q 3.   a. A solution was prepared by dissolving 20 g KCl in water such that total   (5)
+CO-4; SO-1;   volume of solution is 500 ml. Density of solution is 1.13 g/ml. Calculate
+BL-2   molality of solution (At wt K=39, Cl=35.5)
+CO-3; SO-1;   b. Draw the structures of the following compounds:   (5)
+BL-5
+i.   3-methyl butan-2-one
+ii.   2,5-dimethyl-1,3-hexadiene
+iii.   Aminobenzene
+iv.   4-en-hexan-2-ol
+v.   Hexan-1,6-dial
+CO-1; SO-1;   c.   Define and explain the term electron affinity. In halogens group 17,   (5)
+BL-3   justify the low value of EA of F (-328KJ/mole) relative to that of Cl (-
+349KJ/mole)
+CO-2; SO-1;   d. How many grams of potassium are there in 10.0 g of K2Cr2O7? (At wt K   (5)
+BL-6   =39, Cr = 52, O=16).
+How many nitrogen atoms are there in 56 g of molecular nitrogen (At.wt
+N=14)
+Q 4.   a. Show the Lewis dot structures of CH4, NH3, O2, BH3,CH3Cl   (5)
+CO-3; SO-1;
+BL-1
+CO-3; SO-1;   b.   Explain about alcohol functional group with respect to identification test,   (5)
+BL-4   2 methods of preparation and 2 reactions.
+CO-3; SO-1;   c. Complete the reactions   (5)
+BL-2
+********** 2 **********
+--- page 3 ---
+CO-1; SO-1;   d.   Predict period, group and block of Ne (10) and Cl (17) using electronic (5)
+BL-5   configuration
+Q 5.   a.   5.0 g KCl is dissolved in 500 g of water. If the density of the solution is   (5)
+CO-2; SO-1;   0.997 g/ml, calculate a) molarity and b) normality of the solution. Atomic
+BL-1   masses K = 39, Cl = 35.5).
+CO-3; SO-1;   b.   Explain the concept of expanded octet with a relevant example   (5)
+BL-1
+CO-4; SO-1;   c. Summarize colligative properties of a solution. Explain the elevation in   (5)
+BL-2   boiling point of a solution
+CO-3; SO-1;   d.   Describe the hybridization found in CH2=CH2, diagrammatically show (5)
+BL-4   the overlap of the orbitals.
+Q 6.   a.   Define ppm and ppb. A solution was prepared by dissolving 0.2 moles   (5)
+CO-4; SO-1;   CaSO4 in water such that total volume of solution is 300 ml. Solve
+BL-1   concentration in ppm.(At wt Ca=40, S=32, O=16)
+CO-2; SO-1;   b.   Estimate number of molecules in 50 g MgSO4   (5)
+BL-1
+(At wt Mg=24, S=32, O=16)
+CO-3; SO-1;   c. Draw the resonance structures of NO2− ion and CO32− ion   (5)
+BL-3
+CO-3; SO-1;   d.   Complete the reaction   (5)
+BL-2
+Q 7.   a. A solution was prepared by dissolving 42 g Na2SO4 in water such that (5)
+CO-4; SO-1;   total volume of solution is 220 ml. Density of solution is 0.891 g/ml.
+BL-1   Calculate mole fraction of both the components of solution. (At wt
+Na=23, S=32, O=16)
+CO-3; SO-1;   b.   Describe about sp hybridization with suitable example.   (5)
+BL-1
+********** 3 **********
+--- page 4 ---
+CO-3; SO-1;   c.   Explain ketone as a functional group with respect to identification, 2   (5)
+BL-6   methods of preparation and 2 reactions
+CO-3; SO-1;   d.   List the criterion of polarity based on electronegativity.   (5)
+BL-2
+A bond is formed between H and O, where in electronegativity of O is
+3.44 and H is 2.1. Comment and justify on type of bond between O and
+H
+A bond is formed between H and C, where in electronegativity of C is
+2.55 and H is 2.1. Comment and justify on type of bond between C and H
+********** 4 **********
+````
+
 ## 2024-25 · Re-Exam · Sem 3 · paper 3caf22390061
 
 - Departments: Information Technology
@@ -2152,6 +2415,168 @@ BL-2 ii) CHs-CH=CH-CH=CH-CH;
 BL-3 type of alcohol?
 ````
 
+## 2022-23 · Final-Exam · Sem 4 · paper fce1da2fc54a
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3636__2nd YEAR.zip :: COMPUTER/SEMESTER IV/CHEMISTRY II/Chemistry_II_Batch_2022-23_Final_qeOfdCtD9I.pdf`
+- Printed on paper: max marks: 100; exam date: 25/04/23
+- Text: ocr (3 pages), mean OCR confidence 86.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+KSITUTE OF Mars
+{ Semester IV X
+
+Program: B Tech Integrated Stream: Computer Science Yas
+Subject: Chemistry-II 0 Yo PM)
+Date: 25/04/23 A
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+8) Atomic weights: H=1, C=12, O=16, Al=27, N=14, Li = 6.9, Na=23, Mg=24, P=31, S=32, Cl=35.5, Ca=40,
+Ni=58.7, Fe=55.85, K=39, B=10.8, Cu= 63.54, Mg=24, Cr=52
+
+Ql
+
+Answer briefly: [20]
+CO-1; SO-1 a. | Define the term electron affinity (EA). Why is the first EA a positive energy value and [5]
+BL-2 the second EA a negative energy value.
+C0-2:$0-1 b. | Explain the concept of a mole w.r.t Avogadro’s Number. Calculate number of oxygen (5]
+BL-1 atoms in a sample of 2.85 mol CaCO3.
+
+c. | Illustrate the structure of the following compounds:
+@ i. 3-methyl butan-2-one
+
+CO-3; SO-1 ii. 2,5-dimethyl-1,5-hexadiene [5]
+BL-3 iii. m-chloro benzaldehyde
+
+iv. 3-methylbutanol
+
+v. 1-bromo-1,2-dichloropropane
+on, SO-1 d. | Write a short note on multiple covalent bonds [5]
+Q a. | Explain carboxylic acid functional group with respect to identification, 2 methods of [5]
+Bh SO-1 preparation and 2 reactions.
+
+CO-2; SO-1 b. | i) What do you understand by dilution? Are the moles of substance before and after 5]
+
+BL-3 dilution same? Show the dilution formula.
+
+1/3
+--- page 2 ---
+ii) What volume of 5 M NaOH is needed to create a 100 mL solution of 1 M NaOH?
+
+CO-1; SO-1 c. | Define effective nuclear charge. Estimate Zes of outermost s electron and 3d electron (5]
+BL-1 for Cr (Z=24).
+Seen ee] d. | i) Calculate the weight of a sample of copper sulphate pentahydrate (CuSOs.5H20)
+a ‘ that contains 15 x 10'® molecules of it. [5]
+, ii) Which has more atoms? Explain, 1mol of carbon (C) or Imol of Magnesium (Mg)
+Q3 a.
+CO-3; $O-1 Explain covalent bond and its types with an appropriate example(s). [5]
+BL-1
+CO-4; SO-1 b. .
+= How many total number of atoms are there in 2.00 moles of : (i) CO2 (ii) SO2 [5]
+CO-3; SO-1 Cc .
+— Define octet rule. Illustrate Lewis structure of any 2 molecules that violates octet rule. | [5]
+CO-4; SO-1 d. | A solution was prepared by dissolving 40 g KCl in water such that total volume of [5]
+BL-3 solution is 500 ml. Density of solution is 1.13 g/ml. Calculate molality of solution.
+Q4 a. | Discuss aldehyde & ketone functional group with respect to | identification test, 2 (5)
+eee SO-1 method of preparation and 2 reaction of each.
+CO-3; SO-1 b. . . .
+Silks? Define functional group and give examples with structures of any 4 functional groups | [5]
+CO-3; SO-1 Cc
+BL-4 How many grams of potassium are there in 5.4g of K2Cr2O7? [5]
+CO-3; SO-1 d. .
+BLZ Write any two reactions of aldehydes and ketones with examples. [5]
+Q5 a. . :
+Define the term atomic radii and discuss its trend across a period. Predict the period, [5]
+a: SO-1 group and block of elements having atomic number 15 and 19.
+CO-4; SO-1 b. | What do understand by gram equivalents. Calculate gram equivalents of 5.0g H3POs ‘
+BL-1,4 and 3.9g of Mg(OH)2. in
+CO-1; SO- . , ; , — :
+1; SoH ° |) What do you understand by iso-electronic species? Arrange O” Na*F’ and Mg?" in [5]
+BL-1,4 decreasing order of their atomic radius and justify your answer
+CO-4; SO-1 d. | Discuss the classification of solutions w.r.t different solvents used for making the
+. . . [5]
+BL-3 " solution and give appropriate examples
+Q6 a. | “Co-ordinate bond is the special case of covalent bond” justify. Explain formation of
+CO-3; SO-1 NH«’. bl
+BL-1,4
+
+2/3
+--- page 3 ---
+A solution was prepared by dissolving 42 g Na2SO, in water such that total volume of
+
+CO-4; SO-1
+ai solution is 220 ml. Density of solution is 0.891 g/ml. Calculate mole fraction of both | [5]
+the components of solution.
+c
+H OH
+RL | R2 |
+CH3-CH20H CH3 — C=—=0 ————— Ch C=O
+1 bP) 3
+CO-3; SO-1
+{5]
+
+BL-2 In the above reaction identify:
+
+i) functional groups of 1, 2 and 3
+
+ii) _ Names of 1,2 and 3
+
+iii) type of reaction R1 and R2
+rer Define ppm and ppb. A solution was prepared by dissolving 0.4 moles CaSO, in
+ti , water such that total volume of solution is 500 ml. Find concentration in ppm and [5]
+
+ppb.
+a. be
+“ei + SOC. —_____-»!
+CHa,
+Q7 ;
+CO-3; SO-1 Hsc——¢—on + 2H Red Phosphorus [5]
+BL-2 a
+CH;
+
+In the above reactions:
+i) Draw structures of the product formed
+
+ii) Write the names of the reactants and products
+
+CO-3; SO-1 b. | Explain carboxylic acid functional group with respect to identification, 2 methods of
+
+BL-2 preparation and 2 reactions. a
+c. | Identify functional groups and write IUPAC names of following compounds:
+_ y Hee. 8 " NHa. (5]
+R ck, ~~
+CO-2; SO-1 d.
+‘ Show Lewis structure of BF3 and CH, [5]
+
+BL-3
+
+3/3
+````
+
 ## 2022-23 · Final-Exam · Sem 3 · paper be50f4dd196a
 
 - Departments: Common (all branches)
@@ -2354,6 +2779,156 @@ CO-3; BL-2 . . [5]
 ii. 3-methylpentan-2-amine
 iii. 4-ethylhex-2-ynoic acid
 CO-2; BL-3 d. Estimate number of molecules in 50 g MgSO,. [5]
+````
+
+## 2022-23 · Re-Exam · Sem 4 · paper 8eccf0f4d699
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3636__2nd YEAR.zip :: COMPUTER/SEMESTER IV/CHEMISTRY II/Chemistry_II_Batch_2022-23_Re_Exam0001_bLKO6PW1st.pdf`
+- Printed on paper: max marks: 100; exam date: 29/6 /23
+- Text: ocr (3 pages), mean OCR confidence 88.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023 ci
+
+Program: B Tech Integrated Stream: Computer Science Year? {Semestet IV .
+Subject: Chemistry-II es hrs @xoopte 58 (ors) in)
+Date: 29/6 /23 ~
+
+Marks: 100
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+o>» 3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+8) Atomic weights: H=1, C=12, O=16, Al=27, N=14, Li = 6.9, Na=23, Mg=24, P=31, S=32, Cl=35.5, Ca=40,
+Ni=58.7, Fe=55.85, K=39, B=10.8
+
+Ql . ;
+Answer briefly: [20]
+a. | Explain electronegativity. Give the trend in the electronegativity of the following
+ey SO-1 elements of period-2 in the descending order with proper justification: Be (Z=4), C | [5]
+(Z=6), F (Z=9), O (Z=8).
+C0-2: SO-1 b. | Define and explain with formula the concept of molecular weight. Calculate the number [5]
+BL-1 of sodium atoms in a sample of 636g Na2COs3.
+>
+c. | Identify functional groups and write IUPAC names of following compounds:
+i) CH2= HC-CH2-CH2-CHO
+(e)
+HCs
+chy
+CO-4: SO-1 d. | Define osmosis, reverse osmosis and osmotic pressure. What would happen to the [5]
+BL-1 osmotic pressure if excess solute is added to the solvent?
+Q2 a. | What do you understand by organic chemistry? Discuss tetravalency of carbon with
+CO-1; SO-1 the help of electronic configuration. [5]
+BL-1
+
+1/3
+--- page 2 ---
+CO-2; SO-1 b. | How many moles of nitrate ions are in a mixture of 2 mol of calcium nitrate Ca(NO3)2 [5]
+BL-3 and 1.5 mol of aluminium nitrate Al(NO3)3? “a
+CO-1; SO-1 c. | Define effective nuclear charge. Estimate Zeff of 4s electron for Zn (Z=30) and 3p [5]
+BL-1 electron in Si (14)
+CO-2; SO-1 d. . . 5
+
+Calculate the weight of a sample of nickel sulphate hexahydrate (NiSO4.6H20) that (5]
+BL-3,5 contains 69 x 10*° atoms.
+Q3 a. | Explain carboxylic acid functional group with respect to identification, 2 methods of [5]
+CO-3; SO-1 preparation and 2 reactions.
+BL-1
+CO-2; SO-1 b.
+_ What mass of Fe is present in Fe3O, that contains 4.8 x 1073 atoms of oxygen?. [5]
+CO-3; SO-1 G .
+fai Discuss co-ordinate bond with the help of NH,4* formation. [5]
+64s S01 d. | A student prepared a solution by dissolving 23 g NaCl in water such that total volume
+_— , of solution is 750 ml. Density of solution is 1.09 g/ml. Help him calculate molality of | [5]
+
+solution.
+Q4 a.
+CO-3: $O-1 Define functional group and give examples with structures of any 4 functional groups | [5]
+BL-1
+
+b. OH H
+R1 | R2
+CHs —~ C==9Q ————> CH3 — © >=—9 CH3-CH20H
+1 2 3
+
+CO-3; SO-1 .
+
+In the above reaction : {5]
+BL-1,2
+
+i) identify functional groups of 1, 2 and 3
+. ii) Names of 1,2 and 3
+iii) type of reaction R1 and R2
+c. | Illustrate the structure of the following compounds:
+
+i. m-chloro benzaldehyde
+CO-3; SO-1 ii. 3-methyl-2-butan-2-one [5]
+BL-4 iii. 1,3-Dichlorobenzene
+
+iv. 1-bromo-1,2-dichloropropane
+
+v. 2,5-dimethyl-1,5-hexadiene
+CO-3; SO-1 d. .
+— Discuss SP” hybridization of ethene (CH2 = CH2). [5]
+
+2/3
+
+co
+--- page 3 ---
+i>
+
+5 a.
+2 Define the term ionization energy and mention periodicity across the period. Predict [5]
+Be SO-1 period, group and block of elements having atomic number 10 and 17.
+CO-2; SO-1 b. | Define the terms normality and equivalent weight. Calculate gram equivalents of [5]
+BL-1,4 3.52g H3POsx and 2.73g of LiOH
+c.
+
+CO-1: 80-1 What should be the electronegativity difference between atoms, for a bond to be
+
+, polar, non polar and ionic? A bond is formed between H and O. Electronegativity of [5]
+BL-1,4 O is 3.44 and H is 2.1. Comment and justify if the bond formed between O and H is
+
+non-polar covalent or polar covalent or ionic bond.
+CO-2; SO-1 d. | Define solution, solute and solvent. How are solutions classified on the basis of gas as [5]
+BL-3 a solvent? Give suitable examples
+Q6 a. | Explain the formation of ionic and polar covalent bond with an appropriate [5]
+CO-3; SO-1 example(s).
+BL-1,4
+Coed: BOA b. | A solution was prepared by dissolving 42 g KCl in water such that total volume of
+BL. 4 solution is 300 mL. Density of solution is 0.99 g/ml. Calculate mole fraction of both [5]
+the components of solution.
+CO-3; SO-1 c. | Explain alcohol functional group with respect to identification, 2 methods of [5]
+BL-2 preparation and 2 reactions.
+CO-1; SO-1 d. | What are isoelectronic species? With examples discuss the size trends of isoelectronic [5]
+BL-1 cations and anions .
+Q7 4. | Discuss aldehyde & ketone functional group with respect to 1 identification test, 2 [5]
+Bee SO-1 method of preparation and 2 reaction of each.
+CO-3; SO-1 b. .
+BL? What do you understand by octet rule? Explain any 2 exceptions of octet rule. [5]
+~ c. | Predict IUPAC names of following compounds:
+Br
+CO-3; SO-1
+BL-2 el
+~ i) H3C OH
+ii) CH3-CH=CH-CH=CH-CH3
+
+CO-2; SO-1 d. | Show Lewis dot structure of BCls and N2. Estimate total number of atoms in 60 g [5]
+BL-3 BCs.
+
+3/3
 ````
 
 ## 2022-23 · Re-Exam · Sem 3 · paper f6cef9b3aafa

@@ -1,6 +1,6 @@
 # Electronic Circuit Analysis and Design
 
-**23** unique papers (25 copies across programmes) · 2010-11 to 2018-19 · 1 programme · Sem 3, Trim 4
+**24** unique papers (26 copies across programmes) · 2010-11 to 2018-19 · 1 programme · Sem 3, Trim 4
 
 Download only this subject, sorted by academic year:
 
@@ -22,6 +22,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2016-17 | Re-Exam | Question paper | Sem 3 | MBA TECH / TELECOM EXTC | ELECTRONIC CIRCUIT ANALYSIS AND DESIGN BATCH 2016-17 Re-exam.pdf |
 | 2016-17 | Re-Exam | Question paper | Sem 3 | MBA TECH / TELECOM EXTC | ELECTRONIC CIRCUIT ANALYSIS AND DESIGN BATCH 2016-17 Re-exam_6e7999f214.pdf |
 | 2015-16 | Final-Exam | Question paper | Sem 3 | MBA TECH / TELECOM EXTC | ELECTRICAL CIRCUIT ANALYSIS AND DESIGN MBA TECH 2015-16 Final.pdf |
+| 2015-16 | Re-Exam | Question paper | Sem 3 | MBA TECH / TELECOM EXTC | Electronic_Circuit_Analysis_and_Design_Batch_2015-16_Re-exam_vozZvnWkiB.pdf |
 | 2015-16 | Re-Exam | Question paper | Sem 3 | MBA TECH / TELECOM EXTC | ELECTRONIC CIRCUITS ANALYSIS AND DESIGN BATCH 2015-16 Re-exam.pdf |
 | 2015-16 | Re-Exam | Question paper | Sem 3 | MBA TECH / TELECOM EXTC | Electronic Circuit Analysis & Design Batch 2015-16 Re -exam.pdf |
 | 2014-15 | Final-Exam | Question paper | Sem 3 | MBA TECH / TELECOM EXTC | Electronic Circuit Analysis & Design Final Exam 2014-15.pdf |

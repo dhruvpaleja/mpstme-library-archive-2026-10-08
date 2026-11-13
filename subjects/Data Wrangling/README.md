@@ -1,6 +1,6 @@
 # Data Wrangling
 
-**31** unique papers (46 copies across programmes) · 2022-23 to 2025-26 · 13 programmes · Sem 2, Sem 3, Sem 5, Sem 6, Sem 7
+**34** unique papers (49 copies across programmes) · 2022-23 to 2025-26 · 15 programmes · Sem 2, Sem 3, Sem 5, Sem 6, Sem 7
 
 Download only this subject, sorted by academic year:
 
@@ -17,9 +17,11 @@ Also filed as: `DATA WRAGLING`
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final-Exam | Question paper | Sem 3, Sem 5 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE | B Tech, Data Wrangling, Sem-III, 2025-26 Final Exam.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE) - 7056 | QP_Final-Exam_Data Wrangling(702DB0C036)_Semester II_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech AIDS 7056, BTech CSE DS 7057, BTech DS 7009 | QP_Data Wrangling(702DB0C036)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | Integrated DS 7038 | QP_Data Wrangling(702DB0C012)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | MBATech DS 7052 | QP_Data Wrangling(702DB0C036)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE) - 7056 | ANS_Final-Exam_Data Wrangling(702DB0C036)_Semester II_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AIDS 7056 | ANS_Data Wrangling(702DB0C036)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSE DS 7057, BTech DS 7009 | ANS_Data Wrangling(702DB0C036)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 7 | Integrated DS 7038 | ANS_Data Wrangling(702DB0C012)_2025-2026.pdf |
@@ -41,6 +43,7 @@ Also filed as: `DATA WRAGLING`
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / ARTIFICAL INTELLIGENCE | Data Wrangling, Sem VI, Year 2024-25 Final Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE | Data Wrangling Batch 2024-25 Final.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE | Data Wrangling, Sem-III, Batch 2024-25, Re Exam.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / DATA SCIENCE | Data_Wrangling_Batch_2024-25_Re_Exam0001_mArCp5CASw.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 3 | B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE | Data Wrangling , Final 2023-24.pdf |
 | 2023-24 | Final-Exam | Question paper |  | M TECH / DATA SCIENCE | Data Wrangling Batch 2023-24 Final0001.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 3 | B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE | Data wrangling , Re-exam 2023-24.pdf |

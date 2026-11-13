@@ -1,6 +1,6 @@
 # Structural Analysis II
 
-**31** unique papers (34 copies across programmes) · 2014-15 to 2019-20 · 2 programmes · Sem 5
+**34** unique papers (37 copies across programmes) · 2014-15 to 2019-20 · 3 programmes · Sem 5, Sem 7
 
 Download only this subject, sorted by academic year:
 
@@ -14,10 +14,13 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2019-20 | Final-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / CIVIL | Structural_Analysis_II_2019-20_Final_g3TUsx91ZF.pdf |
 | 2019-20 | Re-Exam | Question paper | Sem 5 | B TECH / CIVIL, MBA TECH / CIVIL | Structural Analysis-II , F 19-20,Re-exam 17-18,18-19.pdf |
+| 2018-19 | Final-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / CIVIL | Structural_Analysis_II_2018-19_Final_CUVZI2r37P.pdf |
 | 2018-19 | Re-Exam | Question paper | Sem 5 | B TECH / CIVIL | STRUCTURAL ANALYSIS II BATCH 2017-18 18-19 RE EXAM.pdf |
 | 2018-19 | Re-Exam | Question paper | Sem 5 | B TECH / CIVIL, MBA TECH / CIVIL | Structural analysis-II F 2018-19 Re 2017-18.pdf |
 | 2017-18 | Final-Exam | Question paper | Sem 5 | B TECH / CIVIL | STRUCTURAL ANALYSIS II (CIVIL), FINAL EXAM 2017-18.pdf |
+| 2017-18 | Final-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / CIVIL | Structural_Analysis_II_2017-18_Final_0ftCuRZJZk.pdf |
 | 2017-18 | Final-Exam | Question paper | Sem 5 | MBA TECH / CIVIL | STRUCTURAL ANALYSIS II 2017-2018 Final.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 5 | B TECH / CIVIL | STRUCTURAL ANALYSIS II BATCH 15-16 16-17 RE EXAM 2017-18.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 5 | B TECH / CIVIL | STRUCTURAL ANALYSIS II BATCH 17-18 RE EXAM 2017-18.pdf |

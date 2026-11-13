@@ -1,8 +1,152 @@
 # Mathematics II: question papers in full
 
-52 unique papers · 2014-15 to 2025-26 · Common (all branches), Information Technology, Computer Science, Mechanical, Computer Engineering
+56 unique papers · 2014-15 to 2025-26 · Common (all branches), Computer Engineering, Computer Science, Information Technology, Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 2 · paper 58f1c643d9f5
+
+- Departments: Computer Engineering
+- Programmes: DIPLOMA IN COMPUTER ENGINEERING - 7073
+- Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: DIPLOMA IN COMPUTER ENGINEERING - 7073/Mathematics-II/QP_Final-Exam_Mathematics-II(701BS0C030)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: Diploma (COMP)/Diploma (CSE)/Diploma (IT)/Diploma (MECH)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Mathematics-II
+Date: 11 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+Q1
+Answer briefly:
+CO-1, BL-1 (a)   If 1 + 1 = x , find x .   [2]
+6! 7! 8!
+CO-4, BL-2 (b) Find the coefficient of 3x in the expansion of ( 1 − 2x ) 5 using Binomial [2]
+theorem.
+CO-2, BL-2 (c) Find the value of x for which the points (x, – 1), (2,1) and (4, 5) are   [2]
+collinear.
+CO-2, BL-2 (d) Find the coordinates of the focus, axis of the parabola and the length of   [2]
+the latus rectum for the parabola y2= 10x.
+CO-1, BL-1 (e)   x 4 − 625   [2]
+Evaluate lim   .
+x → 5 x − 5
+(f)   2 x   [2]
+CO-2, BL-2      5  3
+Evaluate lim  1 −      .
+x →    4 x 
+CO-1, BL-2 (g)   Is the function defined by 𝑓(𝑥) = {𝑥+ 5,   if 𝑥≤1 a continuous   [2]
+𝑥−5,   if 𝑥> 1
+function at x = 1 ?
+CO-3, BL- (h)   1   [2]
+1,2   Find the derivative of y = sin x + x 3 +   .
+x
+CO-3, BL-2   (i)   1 − x   [2]
+Find the derivative of y =   .
+1 + x
+CO-4, BL-3   (j)   Find the rate of change of the area of a circle with respect to its radius r   [2]
+when r = 3 cm .
+Q2   (a)   4
+CO-4, BL-2   Expand using Binomial theorem,   x 2 + 3   , x  0.   [6]
+   x 
+(b)   3 + x − 5 − x   [6]
+CO-2, BL-2   Evaluate lim   2   .
+x → 1   x − 1
+********** 1 **********
+--- page 2 ---
+CO-2, BL- (c)
+1,2   i   Find the angle between the lines y − 3 x − 5 = 0 and 3 y − x + 6 = 0 .   [4]
+ii
+CO-2, BL-   Find the distance between the parallel lines 4 x − 3 y + 5 = 0 and
+1,2   [4]
+4 x − 3 y + 7 = 0 .
+(a) How many words, with or without meaning can be made from the letters
+Q3   of the word MONDAY assuming that no letter is repeated if
+CO-1, BL-3   i. Four letters are used at a time.   [6]
+ii. All letters are used at a time.
+iii. All letters are used but first letter is a vowel?
+(b)
+CO-2, BL-2   The vertices of ΔPQR are P (2, 1), Q (–2, 3) and R (4, 5). Find equation
+of the median through the vertex R.   [6]
+CO-1,2,   (c)   3sin 2 x + 2 x
+BL-1,2   Evaluate lim   .   [4]
+i   x → 0 3 x + 2tan3 x
+CO-1,2,   ii   e tan2 x − 1
+BL-1,2   Evaluate lim   .   [4]
+x → 0   3 x
+(a)   Discuss the continuity of the following functions at at x = 4 ,
+Q4
+− 3   5 + x
+CO-1,3,   −   ,   x  4   [6]
+BL-1,2   f ( x ) = 1   5 − x
+−
+ 1,   x = 4.
+ 3
+CO-4, BL-3 (b)   State the intervals on which f ( x ) is increasing or decreasing, where
+[6]
+f ( x ) = x 3 − 12 x + 1 .
+CO-3, BL- (c)
+1,2   Find the derivative of y = x 2 cos 2 3 x .   [4]
+i
+CO-3, BL-   ii   dy   x
+1,2   Find   if y = ( sin x ) .   [4]
+dx
+Q5   (a)
+Determine the maximum and minimum values of the function
+CO-4, BL-3   f ( x ) = 5 x 6 + 18 x 5 + 15 x 4 − 10.   [6]
+(b) Show that 6 n − 5 n always leaves remainder 1 when divided by 25 for
+CO-4, BL-3
+[6]
+positive integer n, using Binomial theorem.
+CO-1,3,   (c)
+BL-2   i   Find the value of k if the function is continuous at given point   [4]
+********** 2 **********
+--- page 3 ---
+ x 2 − 9
+   ,   at x  3
+f ( x ) =  x − 3
+  k ,   at x = 3
+ii   Examine the continuity of the following functions at x = 0
+CO-1,3,    log e ( 1 + x )
+BL-2   f ( x ) =     sin x   , x  0   .   [4]
+  1,   x = 0
+Q6   (a)
+CO-3, BL-   Find d 2 y , if y = x 3 log x .   [6]
+1,2   dx 2
+CO-2, BL-2 (b) Find the equation of the circle passing through the points (4,1) and (6,5)   [6]
+and whose center is on the line 4 x + y = 16 .
+(c) What are the number of ways of choosing 4 cards from a pack of 52
+CO-1, BL-3   playing cards, if these,
+i   [4]
+a. 4 cards are of the same suit
+b. All are face cards?
+CO-1, BL-3   ii A committee of 7 has to be formed from 9 boys and 4 girls. In how many [4]
+ways can this be done when the committee consists of at least 3 girls?
+Q7   (a)   x 3 − 3 x + 2
+CO-2, BL-2   Evaluate lim x → 1 x 3 + x 2 − 5 x + 3 .   [6]
+CO-2, BL- (b) Find the coordinates of the foci, the vertices, the length of major axis,
+1,2   the minor axis, the eccentricity and the latus rectum of the ellipse
+[6]
+x 2   y 2
++   = 1.
+25 16
+CO-3, BL-2 (c)   2sin − 1 x   2   d 2 y   dy
+If y = e   , show that ( x − 1)   2 − x   − 4 y = 0.   [8]
+dx   dx
+********** 3 **********
+````
 
 ## 2025-26 · Final-Exam · Sem 2 · paper 2f11c0b1313d
 
@@ -600,6 +744,154 @@ If e” (x+1)=1 , then show that d Y= ey . [8]
 dx dx
 
 FICK 3 i a kk |
+````
+
+## 2024-25 · Final-Exam · Sem 2 · paper bb546d822953
+
+- Departments: Computer Science
+- Programmes: DIPLOMA IN COMPUTER SCIENCE AND ENGINEERING - 7074
+- Source: `00_Original_Downloads/2024/Semester II/67783__Final-Exam__context_fixed.zip :: DIPLOMA IN COMPUTER SCIENCE AND ENGINEERING - 7074/Mathematics-II/QP_Final-Exam_Mathematics-II(701BS0C030)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: DIPLOMA IN COMPUTER ENGINEERING/DIPLOMA IN COMPUTER
+SCIENCE AND ENGINEERING/DIPLOMA IN INFORMATION
+TECHNOLOGY/DIPLOMA IN MECHANICAL ENGINEERING
+Year: I/Semester II(Exam Year: 2024-2025)
+Subject: Mathematics-II
+Date: 05 May 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume suitable data if necessary.
+9. Only basic calculator is allowed
+Q1
+Answer briefly:   [20]
+a)   Find the number of different signals that can be generated by arranging at
+CO-1;
+least 2 flags in order (one below the other) on a vertical staff, if four different
+SO-1;   [4]
+flags are available.
+BL-1
+CO-2;   b)
+Find the distance of the point (–1, 1) from the line 12(x + 6) = 5(y – 2).
+SO-1;   [4]
+BL-1
+CO-2;   c)   𝑥3− 4𝑥2 + 4𝑥
+Compute the limit: 𝑙𝑖𝑚
+SO-1;   𝑥→2   𝑥2−4   [4]
+BL-2
+CO-3;   d) Determine A which makes the function
+SO-1;   𝑓(𝑥) = {𝑥2 −2,   if 𝑥< 1   continuous at x = 1.   [4]
+BL-3   𝐴𝑥−4,   if 𝑥 ≥1
+CO-3;   e) Compute the derivative of the function 𝑓(𝑥) = 1 using first principle of
+𝑥2
+SO-1;   derivative   [4]
+BL-2
+Q2   Attempt any 4
+1)
+a)   Calculate in how many ways can the letters of the word PERMUTATIONS be
+arranged if the
+CO-1;
+(i)   words start with P and end with S,
+SO-1;   [6]
+(ii)   vowels are all together,
+BL-3
+(iii)   there are always 4 letters between P and S
+CO-2;   b)   Find the coordinates of the foci and the vertices, the eccentricity and the length
+SO-1;   of the latus rectum of the hyperbola: 9y2 – 4x2 = 36   [6]
+BL-1
+********** 1 **********
+--- page 2 ---
+CO-3;   c)   i) Calculate derivative of the composite function: 𝑦= sec(tan √𝑥)
+[8]
+SO-1;
+BL-3   ii) Calculate 𝑑𝑦 for the following: 𝑥3 + 𝑦3 = 3𝑎𝑥𝑦
+𝑑𝑥
+2)
+a) A group consists of 4 girls and 7 boys. Compute in how many ways can a team
+CO-1;   of 5 members be selected if the team has
+SO-1;   (i)   no girl   [6]
+BL-2   (ii)   at least one boy and one girl
+(iii)   at least 3 girls
+b)   𝑒5𝑥−𝑒2𝑥   at 𝑥≠0
+CO-3;   Determine if the function defined by 𝑓(𝑥) = { 𝑠𝑖𝑛3𝑥,   is a
+SO-1;   1,   at 𝑥= 0   [6]
+BL-3   continuous function at x=0?
+c)   i)   Compute the center and radius of the circle given by the equation:
+CO-2;
+SO-1;   𝑥2 + 𝑦2 −4𝑥− 8𝑦−45 = 0   [8]
+BL-2   ii)   Compute the equation of the parabola with vertex (0, 0), passing through
+(5, 2) and symmetric with respect to y-axis.
+3)
+CO-4;   a)   Using Binomial theorem, find (𝑥+ 1)6 + (𝑥 − 1)6. Using the findings,
+SO-1;   evaluate (√2 + 1)6 + (√2 −1)6.   [6]
+BL-1
+b) A stone is dropped into a quiet lake and waves move in circles at a speed of 4cm
+CO-4;
+per second. At the instant, when the radius of the circular wave is 10 cm,
+SO-1;   [6]
+determine how fast is the enclosed area increasing?
+BL-3
+c)   i. Find 𝑙𝑖𝑚   𝑥
+CO-2;   𝑥→0 √𝑥+𝑎−√𝑎−𝑥
+SO-1;   [8]
+BL-1   ii. Find 𝑙𝑖𝑚 𝑠𝑖𝑛𝑎𝑥 𝑠𝑖𝑛𝑏𝑥, a, b ≠0
+𝑥→0
+4)
+CO-3;   a)
+Compute the derivative of 𝑦= 5 sec 𝑥 + sin 2𝑥
+SO-1;   [6]
+BL-2
+CO-4;   b) Using binomial theorem, prove that 6𝑛– 5𝑛 always leaves remainder 1 when
+SO-1;   divided by 25   [6]
+BL-5
+c)   Determine all points of discontinuity of 𝑓, where f is defined by
+CO-3;
+SO-1;   |𝑥| + 3, if 𝑥≤−3   [8]
+BL-3   f(x) = { −2𝑥,   if −3 < 𝑥< 3
+6𝑥+ 2, if 𝑥≥3
+5)
+a) The owner of a milk store finds that, he can sell 980 litres of milk each week at
+CO-2;
+Rs 14/litre and 1220 litres of milk each week at Rs 16/litre. Assuming a linear
+SO-1;   [6]
+relationship between selling price and demand, determine how many litres
+BL-3
+could he sell weekly at Rs 17/litre?
+********** 2 **********
+--- page 3 ---
+CO-3;   b)
+Evaluate derivative of 𝑥−4(3 −4𝑥−5)
+SO-1;   [6]
+BL-2
+c)   𝑙𝑜𝑔𝑒𝑥−1
+CO-2;   i) Find 𝑙𝑖𝑚
+𝑥→𝑒   𝑥−𝑒
+SO-1;   [8]
+BL-1   ii) Find 𝑙𝑖𝑚 𝑎𝑥+𝑏𝑥+𝑐𝑥−3
+𝑥→0   𝑥
+6)
+CO-3;   a)   𝑑2𝑦   𝑑𝑦
+SO-1;   If 𝑦= 3𝑒2𝑥+ 2𝑒3𝑥, show that 𝑑𝑥2 −5 𝑑𝑥+ 6𝑦= 0   [6]
+BL-3
+CO-2;   b)   Find the coordinates of the foci, the vertices, the length of major axis, the minor
+SO-1;   axis, the eccentricity and the latus rectum of the ellipse 4x2 + 9y2 = 36   [6]
+BL-1
+CO-4;   c)   Determine the intervals in which the function f given by
+SO-1;   𝑓 (𝑥) = 4𝑥 3– 6𝑥 2 – 72𝑥+ 30 is increasing and decreasing   [8]
+BL-3
+********** 3 **********
 ````
 
 ## 2024-25 · Final-Exam · Sem 2 · paper d4db6cb4db49

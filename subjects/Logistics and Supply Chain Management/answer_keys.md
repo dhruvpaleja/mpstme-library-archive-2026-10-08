@@ -2795,6 +2795,648 @@ predictions dynamically.
 ********** 8 **********
 ````
 
+## 2024-25 · Re-Exam · Sem 8 · Answer key · paper e44291bb5962
+
+- Departments: Artificial Intelligence
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (ARTIFICIAL INTELLIGENCE) - 7051
+- Source: `00_Original_Downloads/2024/67754__Semester VIII__context_fixed.zip :: Re-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (ARTIFICIAL INTELLIGENCE) - 7051/Logistics and Supplychain Management/ANS_Re-Exam_Logistics and Supplychain Management(703TO0C004)_Semester VIII_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 09 Jul 2025
+- Text: text (7 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (DS)/MBA.
+Tech (EXTC)/MBA. Tech (IT)/MBA. Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2024-2025)
+Subject: Logistics and Supplychain Management
+Date: 09 Jul 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 7 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Figure in right hand side indicates full marks
+5. Question No. 1 is compulsory, out of remaining questions attempt any 4 questions.
+6. In all 5 questions to be answered
+7. Assume suitable data where necessary
+QI   Answer briefly:   (10)
+Q1 A   What is the scope of Logistics in Business?   2.5
+CO-1;BL-2   • Achieve maximum customer service level
+• Ensure high product quality
+• Achieve minimum (possible) cost
+• Be flexible in the constant market changes
+Q1 B   What is e-Commerce logistics? Illustrate your answer with examples.   2.5
+CO-1; BL-2
+Ecommerce logistics is defined as the supply chain of a company’s online
+customer orders being fulfilled. It is the process of getting a product from
+the point of manufacturing to the point at which it is delivered to
+consumers. It involves managing inventory, shipping, warehousing, and
+distribution.
+Q1 C   Explain the role of intelligent warehouse management in supply chain   2.5
+CO-3; BL-2   coordination with an example
+Role of Intelligent Warehouse Management: Intelligent warehouse
+management utilizes advanced technologies such as IoT, robotics, and
+artificial intelligence to optimize warehouse operations. It ensures real-time
+tracking, efficient inventory management, and seamless communication
+between supply chain partners, leading to improved coordination and
+reduced delays.
+Consider an e-commerce company:
+• Real-Time Tracking: Sensors and RFID tags track inventory
+movement, ensuring accurate stock levels.
+• Automation: Robotics automate picking, packing, and sorting,
+reducing processing time and errors.
+********** 1 **********
+--- page 2 ---
+• Data Analytics: AI analyzes order patterns to forecast demand and
+ensure timely restocking, preventing stockouts or overstocking
+Q1 D   Explain the concept of a green supply chain and illustrate how it can be   2.5
+CO-3; BL-2   applied to reduce the environmental impact of a manufacturing business?
+A green supply chain integrates eco-friendly practices into supply chain
+management, focusing on reducing environmental impacts throughout the
+lifecycle of a product. It involves strategies like using sustainable raw
+materials, reducing waste, optimizing energy usage, and encouraging
+recycling.
+Raw Material Sourcing: Switching to sustainable materials, such as
+recycled or biodegradable inputs.
+Production Practices: Implementing energy-efficient machinery and
+reducing emissions during production.
+Logistics: Using electric vehicles or optimizing transportation routes to
+lower carbon footprints.
+Waste Management: Recycling manufacturing waste or finding uses for by-
+products.
+Q II   Answer following questions (Attempt any 4)
+Q2   Evaluate the factors influencing the choice of a supply chain model in   (10)
+CO-2; BL-5   various industries and design a customized supply chain model for a
+specific industry or business scenario.
+•   Industry Characteristics:
+✓ Product Type: Are products standardized or customized?
+✓ Demand Pattern: Is demand stable or fluctuating?
+✓ Competitive Landscape: How intense is the competition?
+• Company Capabilities:
+✓ Resource Availability: Do company have necessary
+resource? Quantity?
+✓ Production Capacity: Can company scale production to meet
+demand?
+✓ Technological Infrastructure: Do company have required
+tech for efficient operations?
+• Customer Expectations:
+✓ Delivery: How quickly customers expect to receive products?
+✓ Product quality: what are the quality standards and
+tolerance?
+✓ Customization: Do customers require personalized products?
+• Supply chain network:
+✓ Supplier relationships: How strong they are?
+✓ Geographic Dispersions: dispersion of suppliers and
+customers
+✓ Logistics capabilities: Efficient transportation and warehouse
+Q3 A   What are the areas to be considered while moving from domestic to   5
+CO-1; BL-5   international supply chain?
+1. Substantial geographical distances
+2. Forecasting problems/difficulties in foreign markets
+********** 2 **********
+--- page 3 ---
+3. Fluctuations in exchange rates for different currencies
+4. Demand for great variety of products
+5. Inadequate infrastructures such as
+ labor skills,
+ availability of supply
+ Supplier quality
+ Lack of local process equipments and technologies
+ Inadequate transportation facilities and
+ Inadequate telecommunication facilities
+Q3 B   Critically evaluate the key criteria for supplier identification that align with 5
+CO-2; BL-6   organizational goals and objectives.
+Key Areas to evaluate for identifying suppliers
+• Financial stability
+• Quality systems
+• Delivery performance
+• Technical capabilities
+• Innovation
+•   Sustainability
+• Customer service
+Q4 A   List the key factors influencing economies of scale in supply chain   (5)
+CO-3; BL-2   operations with examples.
+i.   Production Efficiency
+ii.   Procurement & Bulk Purchasing
+iii.   Inventory Management
+iv.   Transportation & Logistics
+v.   Technological Advancements
+vi.   Standardization & Specialization
+vii.   Labor & Workforce Optimization
+viii.   Supplier & Network Optimization
+ix.   Market Expansion & Globalization
+Q4 B   What are the benefits of using bulk and spot contracts in supply chain   (5)
+CO-3; BL-2   pricing.
+Benefits:
+Bulk Contracts:
+1. Cost Savings: Bulk contracts often come with volume discounts,
+reducing overall costs.
+2. Predictability: Long-term bulk contracts provide stability and
+predictability in supply chain operations.
+3. Strong Relationships: Foster stronger relationships with suppliers
+through consistent, large orders.
+Spot Contracts:
+1. Flexibility: Spot contracts allow for flexibility in purchasing based
+on current market conditions.
+2. Opportunistic Buying: Companies can take advantage of lower
+prices in the spot market when demand is low.
+********** 3 **********
+--- page 4 ---
+Q5 A   Describe any five types of sourcing and illustrate their application with   (5)
+CO-3; BL-3   suitable examples in real-world scenarios
+•   Outsourcing: Trusted third party handles specific tasks. It gives
+access to specialized skills, increased flexibility and reduce costs
+•   Insourcing: To utilize the expertise within the company. Allows
+companies to maintain control and ensure quality
+•   Near-sourcing: Closer to customers, reducing transportation costs
+and improving delivery times. It is all about location. Allows
+companies to maintain quality control and Intellectual Property
+Rights while reducing overall costs
+• Low cost country sourcing (LCCS): It is a strategy where company
+produces goods and services in countries with lower labor and
+production costs, relaxed labor regulations, and favourable
+government policies. The goal is to reduce overall operational
+expenses and improve profitability.
+• Global sourcing: Allows companies to tap into high quality
+materials and skills at competitive costs. It helps gaining access to
+new markets along with mitigating risks associated with single
+sourcing.
+•   Single sourcing: Used when companies need exclusivity. Relying on
+one supplier, strengthening the relationship and potentially securing
+unique materials.
+•   Multiple sourcing: Allows companies to reduce dependency on
+single supplier, mitigate risks and promotes competition. It helps in
+negotiating better deals and ensure steady supply of goods and
+services.
+•   Captive Service Operations: It offers a unique approach to sourcing,
+companies establish wholly owned subsidiaries or facilities in other
+countries to handle specific business functions of procurement or
+manufacturing. It helps maintain control at a cost. It helps to
+leverage lower labor costs, access pool of skilled talent and
+simultaneously maintain control over their core operations.
+•   Vertical Integration: Involves acquiring businesses that are part of
+the same supply chain. This strategy helps companies gain more
+control over their operations, reduce costs and improve efficiency.
+•   Joint Venture: It offers companies to partner with another company,
+sharing resources and risks and potentially expanding the reach.
+Q5 B   Differentiate between chase strategy and level strategy in aggregate   (5)
+CO-2; BL-3   planning.
+Aspects   Chase Strategy   Level Strategy
+Definition   Adjusts production and   Maintains a consistent
+workforce levels to match production rate and
+demand fluctuations   workforce, regardless of
+demand variations
+Workforce   Workforce size is   Workforce remains
+Management   increased or decreased   constant; adjustments are
+based on demand   made through inventory
+or overtime
+Inventory   Minimal inventory;   Higher inventory levels
+Levels   production aligns closely   during low demand
+with demand
+********** 4 **********
+--- page 5 ---
+periods to meet future
+high demand
+Production   Varies according to   Fixed production rate
+Rate   demand fluctuations   throughout the planning
+period
+Cost   May have higher hiring,   Higher inventory holding
+Implications   training, and layoff costs   costs but lower workforce
+management costs
+Flexibility   More flexible in   Less flexible; relies on
+responding to demand   inventory buffers or
+changes   backorders
+Industries   Common in service   Suitable for industries
+Used   industries, seasonal   with stable demand (e.g.,
+businesses (e.g., retail,   automotive,
+hospitality).   pharmaceuticals).
+Customer   Ensures product   Ensures steady production
+Service   availability but may   but may lead to stockouts
+Impact   affect workforce stability   or excess inventory
+Q6   Why do companies engage in reverse logistics activities, and who is   (10)
+CO-1; BL-5   responsible for executing these activities? Provide examples to illustrate
+Students to illustrate with examples.
+Companies engage in reverse logistics for following reasons:
+• Cost Savings: Efficient reverse logistics can reduce costs associated
+with returns, recycling, and disposal.
+• Customer Satisfaction: Handling returns and exchanges smoothly
+enhances customer experience and loyalty.
+• Environmental Responsibility: Companies aim to minimize their
+environmental impact by recycling and reusing products.
+• Regulatory Compliance: Adhering to regulations regarding waste
+management and product disposal.
+• Recovery of Value: Recovering value from returned products
+through refurbishment, resale, or recycling.
+Who is responsible for executing reverse logistics activities?
+•   Internal Teams: Many companies have dedicated teams or
+departments managing reverse logistics processes.
+• Third-Party Logistics Providers (3PLs): Companies often outsource
+reverse logistics to specialized 3PLs for efficiency and expertise.
+• Fourth-Party Logistics Providers (4PLs): Some companies use 4PLs
+to manage and integrate all aspects of reverse logistics, including
+coordination with multiple 3PLs.
+Q7   E-Shop, a rapidly growing e-commerce platform, has been experiencing   (10)
+CO-2; BL-6   fluctuating demand for its wide range of products. The company aims to
+optimize its inventory management and improve customer satisfaction by
+accurately predicting future demand. Objective: Design a demand
+forecasting model that can predict the future demand for different products.
+The model should help E-Shop maintain optimal inventory levels, reduce
+stockouts, and minimize excess inventor
+********** 5 **********
+--- page 6 ---
+A demand forecasting model for an e-commerce business should combine
+historical sales data, external factors, and advanced analytics to predict future
+demand accurately. Below is a structured approach to designing such a model.
+1. Data Collection: To build a reliable demand forecasting model, gather relevant
+data, including:
+•   Historical Sales Data – Past transaction records, order volumes, and
+product sales trends.
+•   Seasonality & Trends – Identify patterns related to holidays, special sales
+events (Black Friday, Cyber Monday), and seasonal variations.
+• Customer Behavior Data – Website traffic, cart abandonment rates,
+product views, and customer demographics.
+• Marketing & Promotions Data – Advertising spend, discount campaigns,
+and email marketing responses.
+• Competitor & Market Data – Industry trends, competitor pricing, and
+market demand shifts.
+•   External Factors – Economic indicators, inflation, supply chain disruptions,
+and weather patterns.
+2. Choose Forecasting Techniques: Depending on the business size, data
+availability, and complexity, different forecasting techniques can be used:
+A. Time Series Models (For Stable Demand Patterns)
+1. Moving Average – Simple method to smooth fluctuations and identify
+trends.
+2. Exponential Smoothing (Holt-Winters Model) – Accounts for trends and
+seasonality in demand.
+3. ARIMA (AutoRegressive Integrated Moving Average) – Useful for time-
+dependent demand forecasting.
+B. Machine Learning Models (For Complex & Dynamic Forecasting)
+1. Linear Regression – Examines relationships between demand and
+influencing factors (price, marketing, seasonality).
+2. Random Forest & XGBoost – Nonlinear models capturing complex
+relationships in data.
+3. Neural Networks (Deep Learning) – Works well with large datasets for
+highly dynamic forecasts.
+C. Demand Sensing Models (For Real-Time Forecasting)
+1. LSTM (Long Short-Term Memory) Networks – Deep learning model for
+sequential data like time-series forecasting.
+2. Reinforcement Learning Models – Adapts demand predictions based on
+continuously changing environments.
+3. Model Training & Validation
+•   Split historical data into training (80%) and testing (20%) sets.
+•   Train the model using training data and evaluate its performance using
+Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Mean
+Absolute Percentage Error (MAPE).
+• Compare different models and optimize hyperparameters to improve
+accuracy.
+4. Implementation & Automation
+• Deploy the model within the e-commerce platform’s analytics system.
+• Automate data updates using APIs that pull real-time sales and inventory
+data.
+•   Set up a dashboard for demand insights, alerting inventory managers
+about stock levels.
+5. Continuous Monitoring & Improvement
+•   Regularly update the model with new data to maintain accuracy.
+********** 6 **********
+--- page 7 ---
+•   Adjust parameters based on sudden changes in demand (e.g., viral social
+media trends).
+•   Incorporate AI-driven anomaly detection to flag unexpected demand
+spikes.
+6. Business Applications
+•   Inventory Optimization – Align stock levels with demand forecasts.
+•   Price Optimization – Adjust pricing strategies based on predicted demand.
+• Marketing Planning – Schedule promotional campaigns based on
+forecasted high-demand periods.
+•   Supply Chain Management – Ensure suppliers are prepared for demand
+fluctuations
+********** 7 **********
+````
+
+## 2024-25 · Re-Exam · Sem 8 · Answer key · paper 2ac6120489b1
+
+- Departments: Data Science
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (DATA SCIENCE) - 7052
+- Source: `00_Original_Downloads/2024/67754__Semester VIII__context_fixed.zip :: Re-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (DATA SCIENCE) - 7052/Logistics and Supplychain Management/ANS_Re-Exam_Logistics and Supplychain Management(703TO0C004)_Semester VIII_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 09 Jul 2025
+- Text: text (7 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (DS)/MBA.
+Tech (EXTC)/MBA. Tech (IT)/MBA. Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2024-2025)
+Subject: Logistics and Supplychain Management
+Date: 09 Jul 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 7 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Figure in right hand side indicates full marks
+5. Question No. 1 is compulsory, out of remaining questions attempt any 4 questions.
+6. In all 5 questions to be answered
+7. Assume suitable data where necessary
+QI   Answer briefly:   (10)
+Q1 A   What is the scope of Logistics in Business?   2.5
+CO-1;BL-2   • Achieve maximum customer service level
+• Ensure high product quality
+• Achieve minimum (possible) cost
+• Be flexible in the constant market changes
+Q1 B   What is e-Commerce logistics? Illustrate your answer with examples.   2.5
+CO-1; BL-2
+Ecommerce logistics is defined as the supply chain of a company’s online
+customer orders being fulfilled. It is the process of getting a product from
+the point of manufacturing to the point at which it is delivered to
+consumers. It involves managing inventory, shipping, warehousing, and
+distribution.
+Q1 C   Explain the role of intelligent warehouse management in supply chain   2.5
+CO-3; BL-2   coordination with an example
+Role of Intelligent Warehouse Management: Intelligent warehouse
+management utilizes advanced technologies such as IoT, robotics, and
+artificial intelligence to optimize warehouse operations. It ensures real-time
+tracking, efficient inventory management, and seamless communication
+between supply chain partners, leading to improved coordination and
+reduced delays.
+Consider an e-commerce company:
+• Real-Time Tracking: Sensors and RFID tags track inventory
+movement, ensuring accurate stock levels.
+• Automation: Robotics automate picking, packing, and sorting,
+reducing processing time and errors.
+********** 1 **********
+--- page 2 ---
+• Data Analytics: AI analyzes order patterns to forecast demand and
+ensure timely restocking, preventing stockouts or overstocking
+Q1 D   Explain the concept of a green supply chain and illustrate how it can be   2.5
+CO-3; BL-2   applied to reduce the environmental impact of a manufacturing business?
+A green supply chain integrates eco-friendly practices into supply chain
+management, focusing on reducing environmental impacts throughout the
+lifecycle of a product. It involves strategies like using sustainable raw
+materials, reducing waste, optimizing energy usage, and encouraging
+recycling.
+Raw Material Sourcing: Switching to sustainable materials, such as
+recycled or biodegradable inputs.
+Production Practices: Implementing energy-efficient machinery and
+reducing emissions during production.
+Logistics: Using electric vehicles or optimizing transportation routes to
+lower carbon footprints.
+Waste Management: Recycling manufacturing waste or finding uses for by-
+products.
+Q II   Answer following questions (Attempt any 4)
+Q2   Evaluate the factors influencing the choice of a supply chain model in   (10)
+CO-2; BL-5   various industries and design a customized supply chain model for a
+specific industry or business scenario.
+•   Industry Characteristics:
+✓ Product Type: Are products standardized or customized?
+✓ Demand Pattern: Is demand stable or fluctuating?
+✓ Competitive Landscape: How intense is the competition?
+• Company Capabilities:
+✓ Resource Availability: Do company have necessary
+resource? Quantity?
+✓ Production Capacity: Can company scale production to meet
+demand?
+✓ Technological Infrastructure: Do company have required
+tech for efficient operations?
+• Customer Expectations:
+✓ Delivery: How quickly customers expect to receive products?
+✓ Product quality: what are the quality standards and
+tolerance?
+✓ Customization: Do customers require personalized products?
+• Supply chain network:
+✓ Supplier relationships: How strong they are?
+✓ Geographic Dispersions: dispersion of suppliers and
+customers
+✓ Logistics capabilities: Efficient transportation and warehouse
+Q3 A   What are the areas to be considered while moving from domestic to   5
+CO-1; BL-5   international supply chain?
+1. Substantial geographical distances
+2. Forecasting problems/difficulties in foreign markets
+********** 2 **********
+--- page 3 ---
+3. Fluctuations in exchange rates for different currencies
+4. Demand for great variety of products
+5. Inadequate infrastructures such as
+ labor skills,
+ availability of supply
+ Supplier quality
+ Lack of local process equipments and technologies
+ Inadequate transportation facilities and
+ Inadequate telecommunication facilities
+Q3 B   Critically evaluate the key criteria for supplier identification that align with 5
+CO-2; BL-6   organizational goals and objectives.
+Key Areas to evaluate for identifying suppliers
+• Financial stability
+• Quality systems
+• Delivery performance
+• Technical capabilities
+• Innovation
+•   Sustainability
+• Customer service
+Q4 A   List the key factors influencing economies of scale in supply chain   (5)
+CO-3; BL-2   operations with examples.
+i.   Production Efficiency
+ii.   Procurement & Bulk Purchasing
+iii.   Inventory Management
+iv.   Transportation & Logistics
+v.   Technological Advancements
+vi.   Standardization & Specialization
+vii.   Labor & Workforce Optimization
+viii.   Supplier & Network Optimization
+ix.   Market Expansion & Globalization
+Q4 B   What are the benefits of using bulk and spot contracts in supply chain   (5)
+CO-3; BL-2   pricing.
+Benefits:
+Bulk Contracts:
+1. Cost Savings: Bulk contracts often come with volume discounts,
+reducing overall costs.
+2. Predictability: Long-term bulk contracts provide stability and
+predictability in supply chain operations.
+3. Strong Relationships: Foster stronger relationships with suppliers
+through consistent, large orders.
+Spot Contracts:
+1. Flexibility: Spot contracts allow for flexibility in purchasing based
+on current market conditions.
+2. Opportunistic Buying: Companies can take advantage of lower
+prices in the spot market when demand is low.
+********** 3 **********
+--- page 4 ---
+Q5 A   Describe any five types of sourcing and illustrate their application with   (5)
+CO-3; BL-3   suitable examples in real-world scenarios
+•   Outsourcing: Trusted third party handles specific tasks. It gives
+access to specialized skills, increased flexibility and reduce costs
+•   Insourcing: To utilize the expertise within the company. Allows
+companies to maintain control and ensure quality
+•   Near-sourcing: Closer to customers, reducing transportation costs
+and improving delivery times. It is all about location. Allows
+companies to maintain quality control and Intellectual Property
+Rights while reducing overall costs
+• Low cost country sourcing (LCCS): It is a strategy where company
+produces goods and services in countries with lower labor and
+production costs, relaxed labor regulations, and favourable
+government policies. The goal is to reduce overall operational
+expenses and improve profitability.
+• Global sourcing: Allows companies to tap into high quality
+materials and skills at competitive costs. It helps gaining access to
+new markets along with mitigating risks associated with single
+sourcing.
+•   Single sourcing: Used when companies need exclusivity. Relying on
+one supplier, strengthening the relationship and potentially securing
+unique materials.
+•   Multiple sourcing: Allows companies to reduce dependency on
+single supplier, mitigate risks and promotes competition. It helps in
+negotiating better deals and ensure steady supply of goods and
+services.
+•   Captive Service Operations: It offers a unique approach to sourcing,
+companies establish wholly owned subsidiaries or facilities in other
+countries to handle specific business functions of procurement or
+manufacturing. It helps maintain control at a cost. It helps to
+leverage lower labor costs, access pool of skilled talent and
+simultaneously maintain control over their core operations.
+•   Vertical Integration: Involves acquiring businesses that are part of
+the same supply chain. This strategy helps companies gain more
+control over their operations, reduce costs and improve efficiency.
+•   Joint Venture: It offers companies to partner with another company,
+sharing resources and risks and potentially expanding the reach.
+Q5 B   Differentiate between chase strategy and level strategy in aggregate   (5)
+CO-2; BL-3   planning.
+Aspects   Chase Strategy   Level Strategy
+Definition   Adjusts production and   Maintains a consistent
+workforce levels to match production rate and
+demand fluctuations   workforce, regardless of
+demand variations
+Workforce   Workforce size is   Workforce remains
+Management   increased or decreased   constant; adjustments are
+based on demand   made through inventory
+or overtime
+Inventory   Minimal inventory;   Higher inventory levels
+Levels   production aligns closely   during low demand
+with demand
+********** 4 **********
+--- page 5 ---
+periods to meet future
+high demand
+Production   Varies according to   Fixed production rate
+Rate   demand fluctuations   throughout the planning
+period
+Cost   May have higher hiring,   Higher inventory holding
+Implications   training, and layoff costs   costs but lower workforce
+management costs
+Flexibility   More flexible in   Less flexible; relies on
+responding to demand   inventory buffers or
+changes   backorders
+Industries   Common in service   Suitable for industries
+Used   industries, seasonal   with stable demand (e.g.,
+businesses (e.g., retail,   automotive,
+hospitality).   pharmaceuticals).
+Customer   Ensures product   Ensures steady production
+Service   availability but may   but may lead to stockouts
+Impact   affect workforce stability   or excess inventory
+Q6   Why do companies engage in reverse logistics activities, and who is   (10)
+CO-1; BL-5   responsible for executing these activities? Provide examples to illustrate
+Students to illustrate with examples.
+Companies engage in reverse logistics for following reasons:
+• Cost Savings: Efficient reverse logistics can reduce costs associated
+with returns, recycling, and disposal.
+• Customer Satisfaction: Handling returns and exchanges smoothly
+enhances customer experience and loyalty.
+• Environmental Responsibility: Companies aim to minimize their
+environmental impact by recycling and reusing products.
+• Regulatory Compliance: Adhering to regulations regarding waste
+management and product disposal.
+• Recovery of Value: Recovering value from returned products
+through refurbishment, resale, or recycling.
+Who is responsible for executing reverse logistics activities?
+•   Internal Teams: Many companies have dedicated teams or
+departments managing reverse logistics processes.
+• Third-Party Logistics Providers (3PLs): Companies often outsource
+reverse logistics to specialized 3PLs for efficiency and expertise.
+• Fourth-Party Logistics Providers (4PLs): Some companies use 4PLs
+to manage and integrate all aspects of reverse logistics, including
+coordination with multiple 3PLs.
+Q7   E-Shop, a rapidly growing e-commerce platform, has been experiencing   (10)
+CO-2; BL-6   fluctuating demand for its wide range of products. The company aims to
+optimize its inventory management and improve customer satisfaction by
+accurately predicting future demand. Objective: Design a demand
+forecasting model that can predict the future demand for different products.
+The model should help E-Shop maintain optimal inventory levels, reduce
+stockouts, and minimize excess inventor
+********** 5 **********
+--- page 6 ---
+A demand forecasting model for an e-commerce business should combine
+historical sales data, external factors, and advanced analytics to predict future
+demand accurately. Below is a structured approach to designing such a model.
+1. Data Collection: To build a reliable demand forecasting model, gather relevant
+data, including:
+•   Historical Sales Data – Past transaction records, order volumes, and
+product sales trends.
+•   Seasonality & Trends – Identify patterns related to holidays, special sales
+events (Black Friday, Cyber Monday), and seasonal variations.
+• Customer Behavior Data – Website traffic, cart abandonment rates,
+product views, and customer demographics.
+• Marketing & Promotions Data – Advertising spend, discount campaigns,
+and email marketing responses.
+• Competitor & Market Data – Industry trends, competitor pricing, and
+market demand shifts.
+•   External Factors – Economic indicators, inflation, supply chain disruptions,
+and weather patterns.
+2. Choose Forecasting Techniques: Depending on the business size, data
+availability, and complexity, different forecasting techniques can be used:
+A. Time Series Models (For Stable Demand Patterns)
+1. Moving Average – Simple method to smooth fluctuations and identify
+trends.
+2. Exponential Smoothing (Holt-Winters Model) – Accounts for trends and
+seasonality in demand.
+3. ARIMA (AutoRegressive Integrated Moving Average) – Useful for time-
+dependent demand forecasting.
+B. Machine Learning Models (For Complex & Dynamic Forecasting)
+1. Linear Regression – Examines relationships between demand and
+influencing factors (price, marketing, seasonality).
+2. Random Forest & XGBoost – Nonlinear models capturing complex
+relationships in data.
+3. Neural Networks (Deep Learning) – Works well with large datasets for
+highly dynamic forecasts.
+C. Demand Sensing Models (For Real-Time Forecasting)
+1. LSTM (Long Short-Term Memory) Networks – Deep learning model for
+sequential data like time-series forecasting.
+2. Reinforcement Learning Models – Adapts demand predictions based on
+continuously changing environments.
+3. Model Training & Validation
+•   Split historical data into training (80%) and testing (20%) sets.
+•   Train the model using training data and evaluate its performance using
+Mean Absolute Error (MAE), Root Mean Squared Error (RMSE), and Mean
+Absolute Percentage Error (MAPE).
+• Compare different models and optimize hyperparameters to improve
+accuracy.
+4. Implementation & Automation
+• Deploy the model within the e-commerce platform’s analytics system.
+• Automate data updates using APIs that pull real-time sales and inventory
+data.
+•   Set up a dashboard for demand insights, alerting inventory managers
+about stock levels.
+5. Continuous Monitoring & Improvement
+•   Regularly update the model with new data to maintain accuracy.
+********** 6 **********
+--- page 7 ---
+•   Adjust parameters based on sudden changes in demand (e.g., viral social
+media trends).
+•   Incorporate AI-driven anomaly detection to flag unexpected demand
+spikes.
+6. Business Applications
+•   Inventory Optimization – Align stock levels with demand forecasts.
+•   Price Optimization – Adjust pricing strategies based on predicted demand.
+• Marketing Planning – Schedule promotional campaigns based on
+forecasted high-demand periods.
+•   Supply Chain Management – Ensure suppliers are prepared for demand
+fluctuations
+********** 7 **********
+````
+
 ## 2024-25 · Re-Exam · Sem 8 · Answer key · paper 9d8179404e0e
 
 - Departments: Electronics and Telecommunication

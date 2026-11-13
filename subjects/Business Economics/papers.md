@@ -1,8 +1,271 @@
 # Business Economics: question papers in full
 
-29 unique papers · 2006-07 to 2019-20 · Information Technology, Chemical, Common (all branches), Civil, Mechanical, Computer Applications (MCA), Data Science
+37 unique papers · 2006-07 to 2025-26 · Information Technology, Chemical, Commerce, Common (all branches), Civil, Mechanical, Computer Applications (MCA), Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 2 · paper 6e69f2e65629
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Financial Markets) - 45612
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Commerce (Financial Markets) - 45612/Business Economics/QP_Final-Exam_Business Economics(NDBEC167)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 16 Mar 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com (M & F)/B.F.M.
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Business Economics
+Date: 16 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. All questions are compulsory.
+4. Use of simple calculator is allowed
+5. Draw neat and labelled diagrams wherever necessary
+6. Figures on the right side indicate full marks.
+1.   Answer the following questions(Attempt Any 1 Question)   12
+a.   12
+A firm has a fixed cost (FC) of ₹150. The following data shows the Total Cost (TC) at
+different levels of output.
+Using the data, calculate, Total Variable Cost (TVC), Average Fixed Cost (AFC), Average
+Variable Cost (AVC), Average Total Cost (ATC) and Marginal Cost (MC)
+Output (Q)   0   1   2   3   4
+Total Cost (₹)   150   210   270   360   480
+Discuss the advantages of perfect competition for consumers. (6 + 6)
+b.   12
+Page 1 of 2
+--- page 2 ---
+The beauty and personal care market includes brands from L'Oréal, Unilever, and
+Procter & Gamble. Products include face creams, shampoos, lotions, and cosmetics
+tailored for different skin types and preferences. Companies differentiate products
+through fragrances, herbal ingredients, packaging, and celebrity endorsements. Large
+sums are spent on advertising campaigns, influencer marketing, and promotional
+discounts. Although many brands exist, a few multinational firms dominate shelf space
+and market share. Frequent rebranding and product variations increase costs, while
+unsold inventory sometimes leads to wastage.
+i. Identify the market structure of the beauty and personal care industry and justify your
+answer with three features. (3 marks)
+ii. If one major firm exited the market, how might the remaining firms gain greater monopoly
+power? (3 marks)
+iii. Do frequent product variations increase efficiency or waste? Explain with examples (3
+marks)
+iv. Compare the Beauty & Personal Care market with monopoly market structure. (3 marks)
+2.   Answer the following questions(Attempt Any 1 Question)   12
+a.   12
+Define deflationary gap and examine its causes. Explain how fiscal policy helps in
+achieving price stability and economic growth. (6+6)
+b.   12
+Discuss the limitations of the Phillips Curve in modern economies. Evaluate the role of
+monetary policy in achieving economic stability during recession.
+(6 + 6)
+3.   Explain the following statements   6
+a.   3
+Bharat Petroleum is an example of oligopoly.
+b.   3
+Inflation significantly affects government finances.
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 2 · paper 42ba34ce17f9
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Management and Finance) - 45615
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Commerce (Management and Finance) - 45615/Business Economics/QP_Final-Exam_Business Economics(NEECO169)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 16 Mar 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com (M & F)/B.F.M.
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Business Economics
+Date: 16 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. All questions are compulsory.
+4. Use of simple calculator is allowed
+5. Draw neat and labelled diagrams wherever necessary
+6. Figures on the right side indicate full marks.
+1.   Answer the following questions(Attempt Any 1 Question)   12
+a.   12
+A firm has a fixed cost (FC) of ₹150. The following data shows the Total Cost (TC) at
+different levels of output.
+Using the data, calculate, Total Variable Cost (TVC), Average Fixed Cost (AFC), Average
+Variable Cost (AVC), Average Total Cost (ATC) and Marginal Cost (MC)
+Output (Q)   0   1   2   3   4
+Total Cost (₹)   150   210   270   360   480
+Discuss the advantages of perfect competition for consumers. (6 + 6)
+b.   12
+Page 1 of 2
+--- page 2 ---
+The beauty and personal care market includes brands from L'Oréal, Unilever, and
+Procter & Gamble. Products include face creams, shampoos, lotions, and cosmetics
+tailored for different skin types and preferences. Companies differentiate products
+through fragrances, herbal ingredients, packaging, and celebrity endorsements. Large
+sums are spent on advertising campaigns, influencer marketing, and promotional
+discounts. Although many brands exist, a few multinational firms dominate shelf space
+and market share. Frequent rebranding and product variations increase costs, while
+unsold inventory sometimes leads to wastage.
+i. Identify the market structure of the beauty and personal care industry and justify your
+answer with three features. (3 marks)
+ii. If one major firm exited the market, how might the remaining firms gain greater monopoly
+power? (3 marks)
+iii. Do frequent product variations increase efficiency or waste? Explain with examples (3
+marks)
+iv. Compare the Beauty & Personal Care market with monopoly market structure. (3 marks)
+2.   Answer the following questions(Attempt Any 1 Question)   12
+a.   12
+Define deflationary gap and examine its causes. Explain how fiscal policy helps in
+achieving price stability and economic growth. (6+6)
+b.   12
+Discuss the limitations of the Phillips Curve in modern economies. Evaluate the role of
+monetary policy in achieving economic stability during recession.
+(6 + 6)
+3.   Explain the following statements   6
+a.   3
+Bharat Petroleum is an example of oligopoly.
+b.   3
+Inflation significantly affects government finances.
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 2 · paper 54889c59e360
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce(Accounting and Finance) - 45613
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Commerce(Accounting and Finance) - 45613/Business Economics/QP_Final-Exam_Business Economics(NCBEC167)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 16 Mar 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com (M & F)/B.F.M.
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Business Economics
+Date: 16 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. All questions are compulsory.
+4. Use of simple calculator is allowed
+5. Draw neat and labelled diagrams wherever necessary
+6. Figures on the right side indicate full marks.
+1.   Answer the following questions(Attempt Any 1 Question)   12
+a.   12
+A firm has a fixed cost (FC) of ₹150. The following data shows the Total Cost (TC) at
+different levels of output.
+Using the data, calculate, Total Variable Cost (TVC), Average Fixed Cost (AFC), Average
+Variable Cost (AVC), Average Total Cost (ATC) and Marginal Cost (MC)
+Output (Q)   0   1   2   3   4
+Total Cost (₹)   150   210   270   360   480
+Discuss the advantages of perfect competition for consumers. (6 + 6)
+b.   12
+Page 1 of 2
+--- page 2 ---
+The beauty and personal care market includes brands from L'Oréal, Unilever, and
+Procter & Gamble. Products include face creams, shampoos, lotions, and cosmetics
+tailored for different skin types and preferences. Companies differentiate products
+through fragrances, herbal ingredients, packaging, and celebrity endorsements. Large
+sums are spent on advertising campaigns, influencer marketing, and promotional
+discounts. Although many brands exist, a few multinational firms dominate shelf space
+and market share. Frequent rebranding and product variations increase costs, while
+unsold inventory sometimes leads to wastage.
+i. Identify the market structure of the beauty and personal care industry and justify your
+answer with three features. (3 marks)
+ii. If one major firm exited the market, how might the remaining firms gain greater monopoly
+power? (3 marks)
+iii. Do frequent product variations increase efficiency or waste? Explain with examples (3
+marks)
+iv. Compare the Beauty & Personal Care market with monopoly market structure. (3 marks)
+2.   Answer the following questions(Attempt Any 1 Question)   12
+a.   12
+Define deflationary gap and examine its causes. Explain how fiscal policy helps in
+achieving price stability and economic growth. (6+6)
+b.   12
+Discuss the limitations of the Phillips Curve in modern economies. Evaluate the role of
+monetary policy in achieving economic stability during recession.
+(6 + 6)
+3.   Explain the following statements   6
+a.   3
+Bharat Petroleum is an example of oligopoly.
+b.   3
+Inflation significantly affects government finances.
+Page 2 of 2
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper a531ecfb3f02
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce(Accounting and Finance) - 45613
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Re-Exam/Bachelor of Commerce(Accounting and Finance) - 45613/Business Economics/QP_Re-Exam_Business Economics(NCBEC167)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 23 Jun 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com (M & F)/B.F.M.
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Business Economics
+Date: 23 Jun 2026   Time: 10:30 am - 11:30 am (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. All questions are compulsory.
+4. Use of simple calculator is allowed
+5. Draw neat and labelled diagrams wherever necessary
+6. Figures on the right side indicate full marks.
+1.   Answer the following questions(Attempt Any 1 Question)   12
+a.   12
+The Total Fixed Cost (TFC) of a firm is ₹220. The Total Cost (TC) at different levels of
+output is given below:
+Q (Units of Output)   0   1   2   3   4
+TC (₹)   220   280   350   450   600
+Using the given data, calculate Total Variable Cost (TVC), Average Fixed Cost
+(AFC), Average Variable Cost (AVC), Average Total Cost (ATC), Marginal Cost (MC)
+Explain the determination of price under Perfect Competition with the help of a diagram. (6 +
+6)
+b.   12
+The ice cream market features brands such as Amul, Kwality Walls and Vadilal
+Industries. Companies offer multiple flavors, premium variants, and seasonal specials.
+Firms differentiate through taste, packaging, pricing and promotional offers.
+Advertising campaigns increase brand recall and influence customer preference.
+Although many brands exist, a few large firms dominate freezer space in retail outlets.
+Seasonal demand results in underutilized production capacity during winter months.
+Page 1 of 2
+--- page 2 ---
+i. Identify the market structure of the ice cream industry and justify your answer with three
+features. (3 marks)
+ii. Explain how flavour variety and packaging influences consumer preference. (3 marks)
+iii. Compare short run equilibrium in the ice cream market with monopoly market. (6 marks)
+2.   Answer the following questions(Attempt Any 1 Question)   12
+a.   12
+Explain the concept of effective demand with the help of aggregate demand and aggregate
+supply. Assess the limitations of fiscal policy in achieving economic stabilization. (6 + 6)
+b.   12
+Examine the impact of inflation on consumers. Explain how the Reserve Bank of India uses
+the repo rate and reverse repo rate to regulate liquidity. (6 + 6)
+3.   Explain the following statements   6
+a.   3
+Government regulations may reinforce oligopoly power.
+b.   3
+Inflation benefits producers but harms consumers.
+Page 2 of 2
+````
 
 ## 2019-20 · Final-Exam · Sem 5 · paper b2522c5b48d9
 

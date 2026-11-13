@@ -1,6 +1,6 @@
 # B2B Marketing: question papers in full
 
-40 unique papers · 2014-15 to 2025-26 · Common (all branches), Electronics and Telecommunication, Artificial Intelligence, Computer Engineering, Data Science, Information Technology, Chemical, Mechanical
+42 unique papers · 2014-15 to 2025-26 · Common (all branches), Electronics and Telecommunication, Artificial Intelligence, Computer Engineering, Data Science, Information Technology, Mechanical, Chemical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1413,6 +1413,101 @@ industries including automotive industry. Mr. Amit Bhaskar is the [10]
 BL-   Marketing Head of the company. Analyse the various factors that Mr.
 Bhaskar must consider before deciding the price of the product.
 Analyze
+********** 2 **********
+````
+
+## 2024-25 · Re-Exam · Sem 8 · paper 21c9de16a4b6
+
+- Departments: Mechanical
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (MECHANICAL ENGINEERING) - 7046
+- Source: `00_Original_Downloads/2024/67754__Semester VIII__context_fixed.zip :: Re-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (MECHANICAL ENGINEERING) - 7046/B2B Marketing/QP_Re-Exam_B2B Marketing(703TM0C004)_Semester VIII_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 03 Jul 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (DS)/MBA.
+Tech (EXTC)/MBA. Tech (IT)/MBA. Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2024-2025)
+Subject: B2B Marketing
+Date: 03 Jul 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. _1___ is compulsory
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted
+7. All questions carry equal marks
+8. Assume Suitable data if necessary
+Q1
+Answer briefly:   [10]
+CO-1;   a.
+[2.5
+BL-
+Explain the classification of Industrial products and services.
+Understan   marks]
+d
+CO-1;   b.
+BL-   Discuss the benefits of strong brand equity in B2B marketing   [2.5
+Understan   marks]
+d
+CO-1;   c.
+[2.5
+BL-   Explain the broad components of a Marketing Strategy.
+Understan   marks]
+d
+d.   Havell’s is planning to enter the South American market with its range of
+CO-2;   [2.5
+BL-   electric equipment products. Explain the different entry strategies that
+marks]
+Apply   Havell’s can use to enter the market
+Rakesh Jain is a Sales Manager in Oracle India. Oracle offers a wide range
+Q2   of enterprise solutions, including cloud applications (like ERP, CRM, and
+HCM), designed to help businesses manage various aspects of their
+CO-1;   operations, customer relationships and data management. He is responsible [10]
+BL-   for selling Oracle solutions to the Banking sector. Multiple people in the
+Understan   Bank are likely to be involved in the purchase decision. Classify the different
+d   roles in organizational buying which Rakesh can identify as a part of his
+sales strategy.
+Q3   Hitesh Bhatt is a Regional Head (Sales and Marketing) at Delta electronics
+CO-1;   known for its DC industrial fans, Energy efficient electric motors and power [10]
+BL-   supplies. Explain the macro-variables that Hitesh can use to effectively
+********** 1 **********
+--- page 2 ---
+Understan   segment the market. Further, examine some targeting strategies that Hitesh
+d   can use to target the market.
+Apollo Tyres Limited is an Indian multinational tyre manufacturing
+Q4   company known for its global presence and a wide range of tires for various
+vehicles. Their product portfolio includes passenger car tyres, SUV tyres,
+CO-2;   light truck tyres, truck-bus tyres, two-wheeler tyres, and bicycle tyres. The
+[10]
+BL-   company is considering an idea to launch tyres for the airline industry.
+Analyze the steps involved in the new product development process and how
+Analyze   companies can utilize them to introduce products into the market
+Q5
+Alstom T&D India is a global leader in the Transformer Manufacturing
+CO- 2;   industry. The company has a large sales team of over 900 sales employees.
+BL-   Amit Mahajan (National Sales Head) has however identified that the team [10]
+Apply   is not performing to their best ability due to lack of training. Apply the
+ACMEE technique to design a training program for the team.
+Q6)   SKF India Ltd. has evolved from a ball bearing manufacturer to a
+knowledge-driven engineering company offering solutions in bearings and
+CO-2
+lubrication products. Discuss the various types of intermediaries (channel [10]
+BL-Apply   partners or middle-men) that SKF can use in the distribution of their
+products. Further, discuss the selection process and criteria that SKF can use
+to select the intermediaries or channel partners
+Q7)
+Mr. Nikhil Dube is the General Manager (Marketing) of S.M Auto
+CO-3;   Engineering Pvt Ltd, a family-owned group company. SM Auto Engineering
+SO- ; BL-   manufactures exhaust systems for Passenger Cars, Commercial Vehicle. [10]
+They have recently launched a range of exhaust systems for the two-wheeler
+Create   industry. Recommend the different pricing strategies that Mr. Dube can use
+to effectively price the products.
 ********** 2 **********
 ````
 

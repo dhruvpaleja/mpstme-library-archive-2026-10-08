@@ -1,6 +1,6 @@
 # Strength of Materials
 
-**135** unique papers (157 copies across programmes) · 2005-06 to 2025-26 · 12 programmes · Sem 3, Sem 4, Sem 7, Sem 8, Trim 4
+**136** unique papers (158 copies across programmes) · 2005-06 to 2025-26 · 12 programmes · Sem 3, Sem 4, Sem 7, Sem 8, Trim 4
 
 Download only this subject, sorted by academic year:
 
@@ -32,6 +32,7 @@ Also filed as: `STREANTH OF MATERIAL`
 | 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated Mechanical 7031 | ANS_Strength of Materials(702ME0C008)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3 | B TECH / CIVIL | Strength of Materials, Sem-III, Final Exam 2024-25 & Re Exam2022-23, 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / MECHANICAL | Strength of Materials, Sem IV, Final Exam 2024-25 & Re Exam 2022-23, 2023-24.pdf |
+| 2024-25 | Final + Re-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / MECHANICAL | Strength_of_Materials_Batch_2024-25_Final_Batch_2022-23_2023-24_Re_Exam_E921F39xcx.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B TECH / CIVIL | Strength of Materials, Sem-III, Batch 22-3, 23-24 & 2024-25, Re Exam.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 3, Sem 7 | B TECH / CIVIL, B.TECH INTEGRATED / CIVIL | Strength of Materials, Sem-III, Final Exam 2023-24 & Re Exam 2022-23 Re Exam.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 4 | B TECH / MECHANICAL, MBA TECH / MECHANICAL | Strenght of Materials Batch 2023-24 Final Batch 2021-22,2022-23 Re Exam.pdf |

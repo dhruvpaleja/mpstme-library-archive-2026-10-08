@@ -1,8 +1,112 @@
 # Fluid Mechanics II: question papers in full
 
-8 unique papers · 2011-12 to 2018-19 · Chemical, Civil
+13 unique papers · 2011-12 to 2018-19 · Chemical, Civil
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2018-19 · Final-Exam · Sem 6 · paper a26a56ad6976
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: CIVIL/SEMESTER VI/FLUID MECHANICS II/Fluid_Mechanics_II_2018-19_Final_5RfphENLv8.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 15 April 2019
+- Text: ocr (2 pages), mean OCR confidence 91.7
+
+````text
+Program :B.Tech Integrated (CIVIL) ~~ Year: III Semester: VI ~
+AcademicY ear: 2018-2019
+
+Subject: Fluid Mechanics-II_ ~ yo Marks: 70
+
+Date: 15 April 2019 ~ ; Time: 02.00 pm to 5.00 pm .
+
+Duration: 3 (hrs)
+No. of Pages: 2-
+Final Examination (2018-19)
+
+ae
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql Answer any Four.
+
+1. Explain Distorted and Undistorted models. 3.5
+
+2. What do you mean by dimensional"homogeneity? Give example. 3.5
+
+3. Write a short note on doublet. 3.5
+
+4. What do you mean by dimensionless number? How will you determine repeating 3.5
+variables?
+
+5. Draw and explain shear stress and velocity distribution diagrams for laminar flow 3.5
+in pipe. .
+
+Q.2 (a) An open rectangular tank of 5m long, 4m wide and 2m deep is initially half filled with 07
+water. If the tank is accelerated horizontally along the longer side at a constant value of
+3.5 m/s’, determine the new position of water surface and the pressure at the bottom of
+the tank at the front and rear edges.
+
+Q.2 (b) Prove that in case of forced vortex, the rise of liquid level at the ends is equal to the fall 07
+of liquid level at the axis of rotation.
+
+1/2|Page
+--- page 2 ---
+Q.3(a) Aclosed vertical cylinder of 30 cm diameter and 100 cm height is filled with water upto 07
+a height of 80 cm, the remaining volume containing air at atmospheric pressure. If the
+cylinder is rotated at 200 rpm about its vertical axis, find thé height of paraboloid formed.
+
+Q.3 (b) * Derive an equation of motion for vortex flow. : 07
+
+Q.4(a) A laminar flow is taking place in a pipe of diameter 200 mm. The maximum velocity is 07
+1.5 m/s. Find the mean velocity and the radius at which this occurs. Also calculate the
+velocity at 4 cm from the wall of the pipe. :
+
+Q.4(b) Explain with neat sketch Reynolds experiment. 07
+
+Q.5(a) An oil dashpot consists of a piston moving in a cylinder having oil. The piston falls with 07
+; uniform speed and covers 4.5 cm in 80 seconds. If an additional weight of 1.5 N is placed
+
+on the top of the piston, it falls through 4.5 cm in 70 seconds with uniform speed. The
+
+diameter of the piston is 10 cm and its length is 15 cm. The clearance between the piston
+
+and the cylinder is 0.15 cm, which is uniform throughout. Find the viscosity of the oil.
+
+Q.5(b) Calculate (i) the pressure gradient along the flow, (ii) the average velocity and (iii) the 07
+discharge for an oil of viscosity 0.02 Ns/m? flowing between two stationary parallel plates
+1 m wide maintained 10 mm apart. The velocity midway between the plates is 2 m/s.
+
+Q.6(a) A fluid density p and viscosity p, flows at an average velocity V through a circular pipe 07
+of diameter. Show by dimensional analysis, that the shear stress at the pipe wall is given
+as,T) = pV*o [e. (Use Rayleigh’s method)
+
+Q.6(b) Define the term dimensional analysis and model analysis. 03
+Show that the ratio of inertia force to viscous force gives the Reynolds number. 04
+
+Q.7(a) Determine the velocity of flow at radii of 0.2 m, 0.4 m and 0.8 when the water is flowing 04
+radially outward in a horizontal plane from a source at a strength of 12 m/s.
+Define kinetic correction factor and momentum correction factor. 03
+
+Q.7 (b) Define with sketch Source and sink with neat sketch. 07
+
+2/2|Page
+````
 
 ## 2018-19 · Final-Exam · Sem 4 · paper 9c4942b29a3f
 
@@ -121,6 +225,119 @@ Page 2 of 2
 06
 ````
 
+## 2017-18 · Final-Exam · Sem 6 · paper 7b2f7b6a855b
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: CIVIL/SEMESTER VI/FLUID MECHANICS II/Fluid_Mechanics_II_2017-18_Final_bCN18AzGtQ.pdf`
+- Printed on paper: exam date: 08 May 2018
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+’ SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B.Tech Integrated (CIVIL): Year: III ~ Semester: VI ~
+Academic Year: 2017-2018 - '
+
+Subject:Fluid Mechanics-II ©
+
+Date:08 May 2018 Time: 2.08 Dip
+
+No. of Pages SS
+Final Examination (2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+5) Answer to each new quéstion to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+Q-1) Write a short note on any two (14)
+a) Discuss in detail flow past on Rankine’s half body. 07
+b) Explain in detail Dash Pot mechanism. 07
+c) Coutte flow. 07
+Q-2 Explain in brief (a) Froude model law, (b) Euler model law, (c) Mach model law. 07
+a)
+07
+
+Q-2 Explain in detail superposition of uniform flow and a doublet.
+b)
+
+Q-3__A tank containing water up to a depth of 500 mm is moving vertically upward with a 07
+a) constant acceleration of 2.45 m/s*. Find the force exerted by water on the side of the tank.
+
+Also calculate the force on the side of the tank when the width of tank is 2 m and (a) tank
+is moving vertically downward with a constant acceleration of 2.45 m/s2, and (b) the tank
+
+is not moving at all.
+
+Q-3 Explain in detail Reynold’s experiment. 07
+
+b)
+
+1] Page
+--- page 2 ---
+A fluid of viscosity 0.7 Ns/m? and specific gravity 1.3 is flowing through a circular pipe
+of diameter 100 mm. The maximum shear stress at the pipe wall is given as 196.2 N/m’,
+find pressure gradient, the average velocity and Reynolds number of the flow.
+
+The discharge through a weir is 1.5 m/s. Find the discharge through the model of the weir
+if the horizontal dimension of the model = 1/50 the horizontal dimension of the prototype
+and vertical dimension of the model = 1/10 the vertical dimension of the prototype.
+
+An oil of specific gravity 0.8 and kinematic viscosity 1.5 x 10+ m?/s is flowing through a
+pipe of diameter 20 cm at the rate of 15 litre/s. Find the heat lost due to friction and power
+required to maintain the flow for a length of 500 m. :
+
+The frictional torque T of a disc of diameter D rotating at a speed N ina fluid of viscosity
+u and density 9 in a turbulent flow is given by T = D5N*p® Lsacl- Prove this by the
+
+method of dimensions.
+
+Describe in detail uniform linear acceleration.
+
+Consider the uniform flow with a velocity 4.5 m/s flowing over a source and sink pair
+each of strength 12 m?/s. If the distance between source and sink is 2 m, find (a) the
+equation of the streamline and (b) the location of stagnation points.
+
+Question (a) is compulsory out of remaining questions, attempt any 2 question.
+Describe in detail Rayleigh’s method.
+
+Define in brief (a).sink flow (b) source flow.
+
+Describe classification of models.
+
+Explain in detail annulus.
+
+07
+07
+07
+
+07
+
+07
+
+07
+
+(14)
+(06)
+(04)
+(04)
+(04)
+
+2 [page
+T_
+````
+
 ## 2017-18 · Final-Exam · Sem 4 · paper bc89a1aecdf8
 
 - Departments: Chemical
@@ -233,6 +450,211 @@ Q7. Answer the following questions:
 
 (d) Write in brief in Muller mixer. [03]
 2
+````
+
+## 2017-18 · Re-Exam · Sem 6 · paper 611189f04eae
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: CIVIL/SEMESTER VI/FLUID MECHANICS II/Fluid_Mechanics_II_Batch_2017-18_Re_Exam_mih86xEPfS.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 30 June 2018
+- Text: ocr (2 pages), mean OCR confidence 92.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Program: B.Tech Integrated (Civil) Year: IIT Semester
+
+AcademicYear: 2017-2018
+Subject: Fluid Mechanics - II
+
+Marks: 70
+Time: 10.00 Bx
+Durations: 3 (Hrs) S
+
+No. of Pages: O2-
+Re-Examination (2017-18) <
+
+Date : 30 June 2018
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q-1) Write a short note on any two (14)
+a) Reynold’s experiment. 07
+b) Derive expression of Hagen Poiseuillue. 07
+c) Define similitude and discuss types of similarities. 07
+
+Q-2 Show that for forced vortex, the rise of liquid at the ends is equal to the fall of liquid at 07
+
+a) the axis of rotation.
+Q-2 Describe in detail kinetic energy correction factor and momentum correction factor. 07
+b)
+
+Q-3 The rise of liquid h in a capillary tube depends on tube diameter D, surface tension 0, 07
+a) specific weight of liquid y and the contact angle @ . Using Rayleigh’s method, obtain an
+expression for h.
+
+Q-3 Explain pressure distribution in a liquid subjected to constant horizontal acceleration. 07
+b)
+
+Q-4 A fluid of viscosity 0.7 Ns/m? and specific gravity 1.3 is flowing through a circular pipe 07
+
+a) of diameter 100 mm. The maximum shear stress at the pipe wall is given as 196.2 N/m’,
+find pressure gradient, the average velocity and Reynolds number of the flow.
+
+1\page
+--- page 2 ---
+Q-4
+b)
+
+Q-5
+a)
+
+Q-5
+b)
+
+Explain in detail distorted models and undistorted models. 07
+
+A tank containing water up to a depth of 500 mm is moving vertically upward with a 07
+constant acceleration of 2.45 m/s”. Find the force exerted by water on the side of the tank.
+Also calculate the force on the side of the tank when the width of tank is 2 m and (a) tank
+
+is moving vertically downward with a constant acceleration of 2.45 m/s?, and (b) the tank
+
+is not moving at all.
+
+Consider the uniform flow with a velocity 4.5 m/s flowing over a source and sink pair 07
+each of strength 12 m?/s. If the distance between source and sink is 2 m, find (a) the
+equation of the streamline and (b) the location of stagnation points.
+
+Write a note on Coutte flow. 07
+Explain in brief (a) Euler model law, (b) Mach model law, (c) Weber model law. 07
+Question (a) is compulsory out of remaining questions, attempt any 2 question. (14)
+
+Define steady flow, unsteady flow, uniform flow, non-uniform flow, sink flow, source (06)
+flow.
+
+Define doublet and explain the strength of doublet superimposed flow. (04)
+Discuss in detail flow past on Rankine’s half body. : (04)
+Explain in detail forced vertex flow with sketch. (04)
+````
+
+## 2016-17 · Final-Exam · Sem 6 · paper 556f682ecb8d
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: CIVIL/SEMESTER VI/FLUID MECHANICS II/Fluid_Mechanics_II_2016-17_Final_cXA9rFzgLx.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 May 2017
+- Text: ocr (2 pages), mean OCR confidence 93.8
+
+````text
+a
+
+SVKM’s NMIMS Soil :
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech Integrated (CIVIL) Year: III Semester: VI
+
+Academic Year: 2016-2017
+
+Subject : Fluid Mechanics II Marks: 60
+Time : 10.00 am to 1.00 pm
+Date : 10 May 2017 Durations: 3 (hrs)
+
+No. of Pages: 2.
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all 5 questions to be attempted
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. 7
+
+Q.1) Write short notes on any four (12)
+a. Dash Pot Mechanism.
+b. Coutte Flow
+c. Source and Sink flow
+d. Reynolds Model Law and Euler Model Law
+e. Flow past Rankine half body
+f. Reynold’s Experiment
+
+Q.2 a). Oil of relative density 0.9 and dynamic viscosity 0.97 poise is pumped through 100mm diameter
+pipe 10m long. Find (a) pressure difference between two ends of pipe at the two ends of pipe, if
+
+100kg of oil is collected in 30 seconds. (06)
+
+b). Derive Hagen Poiseuille’s equation. ~ (06)
+
+Q.3 a). Two parallel plates 0.1m apart have laminar flow of oil between them with a maximum velocity of
+1.5m/s. calculate the discharge per meter width shear stress at the plates, the difference in pressure
+between two points 20m apart, the velocity gradient at the plates and velocity at 0.02m from the plate.
+Take viscosity of oil to be 24.53 poise. (06)
+
+b). Determine the depth below the free surface at which the point velocity is equal to average velocity
+
+of flow for a uniform laminar flow with a free surface. (03)
+
+c). Laminar flow takes place in circular tube. At what distance from the boundary the local velocity is
+equal to the mean velocity. (03)
+
+Va
+--- page 2 ---
+Q.4a). Find the form of equation for discharge Q through a sharp edged triangular notch assuming that
+
+discharge depends on angle of notch a, head H, gravitational acceleration g and the density p, viscosity
+and surface tension o of the fluid. (06)
+
+b) . A 1:10 scale model of submarine moving far below the surface of water is tested in a water tunvel. If
+the speed of prototype is is 8m/s, find the corresponding velocity of water in tunnel. Alsofind ratio of
+the drag for model and prototype. Kinematic viscosity for sea water and water is 1.121x10% m?/s and
+1x10 m?/s. The density of sea water is 1027kg/m?. Whether result b true if the prototype were to
+move close to the surface? Explain. (06)
+
+Q.5 a). Derive an equation for z and show that z varies with square of r for forced vortex flow. (06)
+
+b). An open cylindrical tank 1m in diameter and 2m in height contains water upto 1.5m depth. If (96)
+the cylinder rotates about its vertical axis, what minimum angular velocity can be attained
+
+without spilling any water.
+
+Q 6.a). An open cylindrical tank 20cm in diameter and 50cm in height contains water upto 30cm depth. (a) If
+the cylinder rotates about its vertical axis at 180 rpm, calculate the pressures on thebottom at the centre
+and at the edge of vessel, (b) What speed of rotation would cause the water surface to just touch the
+top rim of the vessel? (06)
+
+b). The discharge of 50 m’/s effluent from a plant into a 10 m deep river flowing at 0.2 m/s can be
+modelled as a two dimensional source spanning across the river depth. It is observed that fish
+and other aquatic life ina certain zone of river die out, whereas outside it are almost unaffected.
+Obtain the extent of this critical region if the discharge is located in the middle ofriver. (06)
+
+Q.7 a). Define Kinetic Energy correction factor and Momentum energy correction factor. (06)
+
+b). Describe distorted and undistorted models. (06) ,
 ````
 
 ## 2016-17 · Final-Exam · Sem 4 · paper 75ada099c8c2
@@ -364,6 +786,139 @@ ee ig
 08
 
 14
+````
+
+## 2016-17 · Re-Exam · Sem 6 · paper f74e05662338
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: CIVIL/SEMESTER VI/FLUID MECHANICS II/Fluid_Mechanics_II_Batch_2016-17_Re_Exam_BkNdNhkhZJ.pdf`
+- Printed on paper: exam date: 10 July 2017
+- Text: ocr (2 pages), mean OCR confidence 92.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech Integrated (CIVIL) Year: III Semester: VI
+Academic Year: 2016-2017 |
+
+Subject : Fluid Mechanics - II en MaRS =60,
+Time: 10.00 eS CON Fie, 2
+Date : 10 July 2017 Daretion = _
+No of Page# w (OD? STME YS
+Het cisRaRYy 2
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary,
+
+Ql Answer the following:(any Four) 12
+
+1. Define Distorted and Undistorted models.
+
+2. Define Source, Sink and Doublet.
+
+3. Explain Reynold’s Experiment.
+
+4. What do you mean by dimensional homogeneity? Give two examples.
+
+5. Draw and explain shear stress and velocity distribution diagrams for laminar flow
+
+in pipe.
+
+Q.2(a) Derive an equation of motion for vortex flow. 06
+
+Q.2(b) An open vertical cylindrical tank 1 m in diameter and 2 m high contains 1.6 m of water. 06
+If the tank rotates about its vertical axis, find the maximum speed that can be attained
+without spilling any water.
+
+Q.3(a) A rectangular tank 6 m long, 2 m deep and 2.4 m wide contains | m of water. Ifthe tank 06
+move horizontally in the direction of the length of the tank with a constant linear -
+acceleration of 2.45 m/s”, calculate (a) the angle of water surface to the horizontal (b) the
+maximum and minimum pressure intensity on the bottom.
+
+Q.3(b) Prove that in case of forced vortex, the rise of liquid level at the ends is equal to the fall 06
+at the axis of rotation.
+
+Von
+--- page 2 ---
+Q.A(a)
+Q.4(b)
+
+Q5(a)
+
+Q.5(b)
+
+Q.6(a)
+Q.6(b)
+
+Q.7(a)
+Q.7(b)
+
+Prove that shear stress is proportional to radius in case of steady laminar flow through
+circular pipes.
+
+A crude oil of viscosity 0.97 Poise and relative density 0.9 is flowing through a horizontal
+circular pipe of diameter 100 mm and of length 10 m. Calculate the difference of pressure
+at the two ends of pipe, if 99 kg of oil is collected in a tank in 30 seconds.
+
+Obtain an expression for drop of pressure head for a given length and shear stress in case
+1_Op ,2
+
+_ Dn aa t
+
+An oil dash pot consists of piston moving in a cylinder having an oil. The piston falls with
+uniform speed and covers 4.5 cm in 80 seconds. If an additional weight of 1.5 N is placed
+on the top of the piston, it falls through 4.5 cm in 70 seconds with uniform speed. The
+diameter of the piston is 10 cm and its length is 15 cm. The clearance between the piston
+and the cylinder is 0.15 cm, which is uniform throughout. Find viscosity of an oil.
+
+of flow through two parallel fixed plates assuming Ugyg =
+
+Show that ratio of inertia force to viscous force gives the Reynold’s number.
+
+Drag force Fp on a high speed aircraft depends on the velocity of flight V, the
+characteristic geometrical dimension of the aircraft L, the density 1 and isentropic bulk
+modulus of elasticity Es of ambient air. Using Buckingham’s theorem, find out the
+independent dimensionless quantities, which describe the phenomenon of drag on the
+aircraft.
+
+Write a short note on Source and Sink Pair.
+
+A source and a sink of 4 m?/s and 8 m’/s are located at (-1,0) and (1.0) respectively.
+Determine the velocity and stream function at a point P(1,1) which is lying on the flow
+net of the resultant stream line.
+
+O2Io2
+
+06
+
+06
+
+06
+
+06
+
+06
+06
+
+06
+06
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper a4888015dcd9

@@ -1,8 +1,108 @@
 # Fundamentals of Microwave Engineering: question papers in full
 
-27 unique papers · 2007-08 to 2019-20 · Electronics and Telecommunication, Electronics
+31 unique papers · 2007-08 to 2019-20 · Electronics and Telecommunication, Electronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2019-20 · Final + Re-Exam · Sem 7 · paper ce0bebc16543
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: EXTC/SEMESTER VII/FUNDAMENTALS OF MICROWAVE ENGINEERING/Fundamentals_of_Microwave_Engineering_2019-20_Final_Batch_2018-19_Re_Exam_hGGCulukLt.pdf`
+- Printed on paper: exam date: 09 November 2019
+- Text: ocr (3 pages), mean OCR confidence 79.0
+
+````text
+/
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated (EXTC) ~— Year: IV “~ Semester: VII
+
+Academic Year: 2019-20
+Subject: Fundamentals of Microwave Engineering
+
+Date: 09 November 2019
+
+ial
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume-suitable data if necessary.
+
+Qi Attempt any four. 14
+A | Write characteristics of microwaves. 35)
+B | Draw and explain Equivalent Circuit of 2 wire transmission line. 35
+C._ | Define attenuation loss and insertion loss in transmission line.
+8 3.5
+D | prove that the ideal value of VSWR =1 and T=0 3.5
+E_ | Write difference in transmission line and waveguide. 3.5
+F | What is Microwave Hazards and Discuss its safety and Precautions. 3.5
+Q2 | A | Derive electric and magnetic field component for TM waves in rectangular waveguide. 07
+B | Derive the expression for rectangular waveguide for Cut-off frequency. 07
+--- page 2 ---
+For a transmission line ZL = 110 + 22] Q, Z. = 50 Q, frequency is 1.8 GHz., € = 1 and
+
+Q3 07
+length of transmission line is 20 cm. Find the input impedance of the line using smith
+chart.
+Derive expression of input impedance of transmission line. 07
+Q.4 Explain in details IEC and LI effect of conventional tubes at high frequency. 07
+Derive S-matrix for H plane Tees. Prove that it act as a 3 dB splitter. 07
+Q.5 Draw and explain gyrator as ferrite device at microwave frequency. 07
+For the given S- Matrix determine the following, 07
+a) if the network is reciprocal, lossless$b) if terminated to matched load, find return loss
+at port 1.
+5 f 0.1520° 0.854—45°
+Ss] = | oascase 0.240°
+Q6 Draw diagram of Reflex klystron and explain concept of velocity modulation. 07
+Explain in details the working of Gunn diode. 07
+Q.7 Write short note on, (Attempt any two) 14
+Measurement of impedance 07
+Attenuator 07
+Low and medium power measurement 07
+--- page 3 ---
+The Complete Smith Chart
+Black Magic Design
+
+Che PER eT SIs
+Trlele olbatttluchansekoimatat
+tot
+sueae {
+‘Al (CE COMPONENT (R/ Zo) OR CONDUCTANCE COMPONENT (G/Yo)
+it \ \o2
+Ht
+
+t
+
+RADIALLY SCALED PARAMETERS
+
+TOWARD LOAD —> <— TOWARD GENERATOR
+10 7 5 2 1
+
+10040, 20, 10 54 325 2.18.16 14 | 12. 11,1, 18, 4 3
+40 30 20 15 wo 8 695° 4 3 2 1° 4[1 M1213: 14 16 182 3045 1020
+0 1 2.3..4..5.6 7.8.9.0 2 20300 0102 04 06 08 1,152 3.4 8.6 |, 10 tbe
+10908 07 06 05 04 03 02 or 005 (OMYsiéY 3A AS 16-17 1819 2 25.043 00~«4 5 Om
+1 09087, sO Ok 03, 02, 088 09509 08 07 , 06 05 04 03 02 01 0
+“3
+CENTER
+00 01, 02, 03, 04, 05, 06, |, 07, 08, (09 1 we 12 8 SB 2
+&
+onIGIN
+````
 
 ## 2019-20 · Final + Re-Exam · Sem 5 · paper 33c113389bc7
 
@@ -111,6 +211,298 @@ Page 2 of 2
 (07)
 
 (07)
+````
+
+## 2018-19 · Final-Exam · Sem 7 · paper 83db074b61b8
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: EXTC/SEMESTER VII/FUNDAMENTALS OF MICROWAVE ENGINEERING/Fundamentals_of_Microwave_Engineering_2018-19_Final_vdwgmuLnKG.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 20 November 2018
+- Text: ocr (3 pages), mean OCR confidence 77.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+¥
+
+SVKM’S NMIMS ep
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGI E J
+Program B.Tech Integrated (EXTC) Year: IV Send
+Academic Year: 2018-2019
+| Subject: Fundamentals of Microwave Engineering c Marks: 70
+
+Date : 20 November 2018 Time:10.00 am to 1.00 pm_
+Duration: 3 (hrs)
+No. of Pages:_ 3
+Final Examination (2018-19) —
+
+—
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1A Attempt any four: . 12
+
+i Give advantages of using microwaves. 03
+
+ii. Derive equation for special termination conditions for lossless transmission 03
+line.
+
+ili. Explain the working of Isolator. 03
+
+iv. Express S parameter in terms of impedance when 2 transmission lines are 03
+joined with its characteristic impedances Z and Zp.
+
+v Draw and explain measurement of dielectric constant at microwave 03
+frequency.
+
+Q.1B What is meant by reciprocal and lossless network? 02
+
+Q.2A Derive the expression for TE mode in rectangular waveguide. 10
+
+Q.2B Anair - filled rectangular waveguide of internal dimension acm x bem(a>b) 04
+has a cut off frequency of 6 GHz for the dominant TEio mode. For the same
+waveguide, if the cut-off frequency of the TM11 mode is 15 GHz, what is the
+frequency of the TEo: mode?
+
+Q.3A Starting from the equivalent circuit of transmission line, derive the time 07
+domain telegrapher’s equation for transmission line.
+
+Q.3B Use smith chart to find the input impedance, VSWR, reflection co-efficient, 07
+transmission co-efficient and load impedance Zi= 100+j100 © looking at the
+input of the transmission line for a frequency of 100MHz, Zo= 50Q and |
+=0.22.
+
+'/3
+--- page 2 ---
+Q4A
+
+Q.4B
+Q.AC
+Q.5A
+Q.5B
+Q.5C
+
+Q.6A
+Q.6B
+
+Q.7
+
+A two port network is known to have the following scattering matrix:
+
+[sj = | ots Zo° 0-85 /-45°
+
+0-85 L4S® 0-2 20°
+
+Determine if the network is reciprocal, a lossless. If port two is terminated
+with a matched load, what is the return loss seen at port 1? If port two is
+terminated with a short circuit, what is the return loss at port tg
+
+With the help of neat diagram explain TRAPATT diode with respect to
+construction and working.
+
+Explain VSWR measurement.
+
+Describe the working of directional coupler, also discuss its parameters.
+Define S parameters and enumerate the properties of S matrix.
+
+Mention microwave radiation hazards and its safety precaution.
+
+Discuss the working of 2 cavity Klystron with applegate diagram.
+Explain the working and derive scattering matrix for EH plane tee.
+
+Write Short Note on (Any Two)
+
+He Microwave Bench
+ii. Gunn diode
+iii. TWT
+
+05
+
+05
+04
+05
+05
+04
+
+07
+07
+
+14
+--- page 3 ---
+pedeeee
+
+oa
+
+Smith Chart
+
+AS?
+
+ee
+
+Sees
+
+SOMPO!
+
+S
+
+SS
+oe
+XS
+
+ies
+i
+oe
+
+TH
+
+seenee
+
+ce
+wet
+
+\ iS
+
+i
+
+oreo
+
+SA
+
+sO
+SS
+
+ret H ae =
+
+ian aes
+sae
+se
+
+= ee ase
+
+ea
+
+Eee
+SN
+
+on
+SSD
+
+| &
+\ | RADIALLY SCALED PARAMETERS & oa
+Se NG, | TOWARD LOAD —> <— TOWARD GENERATOR SER AS
+ke S@ too4o 20 10 5.4 328. 2.18 16 14 12.411 18.10 7 5 4 3 2 1 YOKE
+aS Rae Bi ; at SIE
+Be No 40 30 20 15 10 8 66 4 3 2 1 111 i112 13°14 «16 18 2 3045 10 20 pe ry
+BEX 0 1 2 8 4.88.7 ,8, 9,10 12 14 20, 30 |o 01 02 04 06 08 1 15. 2 3.4 8.8, , 1015, RES ¢
+a 709 08 07 06 05 04 03 02 O41 0.05 6.01 clo. it 12) 13) 14 15 16 1.718192 25.3 4°5 10 oy &
+Ye 4 09 «087 OS 4, 8, 02 Ot, O89 095, 09 08 | 07 , 06 0S 04,03 02 01,0 © 2
+CENTER Ry
+00 «ot 2, 4, OS, O87, 8 08 1 112... 13,0 4 15,187 B19, 2
+&
+ORIGIN
+
+3/3,
+````
+
+## 2018-19 · Re-Exam · Sem 7 · paper d92a1e7d27e9
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: EXTC/SEMESTER VII/FUNDAMENTALS OF MICROWAVE ENGINEERING/Fundamentals_of_Microwave_Engineering_Batch_2018-19_Re_Exam_eTak3mqdGp.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 15 January 2019
+- Text: mixed (3 pages), mean OCR confidence 58.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+•
+--------   -------
+SVKM'S NMIMS   \
+/
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN~ & ENGINEERING
+Year: IV   - Semester: VII r
+Program: B.Tech Integrated (EXTC)   .--'
+_   Academic Year: 2018-2019
+Marks: 70   /
+v--§~bject: Fundamentals of Microwave Engineering   /'
+Time: 2.00 pm to 5.00 pm ~
+Date: 15 January 2019   Durations:3 (hrs)
+No. of Pages:   0::>
+- Re-examination   (2018-19)   ,
+Instructions:   Candidates should read carefully the instructions printed on the question paper
+and on the cover ofthe Answer Book, which is providedfor   their use.
+1) Question No. ~l_   is compulsory.
+2) Out of remaining questions, attempt any _4_- questions.
+3) In all_5_   questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume .suitable data if necessary.
+Q.lA   Attempt any Four   12
+1.   Write short note on varactor diode.
+ii,   Derive equation for special termination conditions   for lossless
+transmission line.
+11!'   What is meant by reciprocal and lossless network?
+iv.   Explain the working of Gyrator.
+v.   Compare two wire transmission line and waveguide.
+VI.   Draw and explain measurement   of impedance   at microwave
+frequency.
+Q.lB   Enumerate applications of microwaves.   02
+Q.2A   Derive the expression for TM mode in rectangular waveguide.   10
+Q.2B An air - filled rectangular waveguide has inner dimensions of 3 cm x 2 cm.   04
+The wave impedance of the TE20 mode of propagation in the waveguide at a
+frequency of30 GHz is (free space impedance 1]0 = 377 Q).
+--- page 2 ---
+Q.3A Use smith chart to find the input impedance, VSWR, reflection co-efficient,   07
+transmission co-efficient and load impedance looking at the input of the
+transmission line for a frequency of SOOMHz,ZL= SO-jlOOn, Zs= son and I
+=0. IS",.
+Q.3B   Derive the expression for input impedance of transmission line (Zin).   07
+QAA   Define S parameters and enumerate the properties of S matrix.   07
+QAB   Draw and explain the working ofH plane tee and derive its scattering matrix.   07
+Q.SA With the help of neat diagram explain IMPATT diode with respect to   OS
+construction and working.
+Q.SB With the help of neat diagram explain the construction and working ofTWT.   os
+Q.SC   Explain measurement of Q for a cavity resonator.   04
+Q.6A   Find the impedance and admittance of an: network shown.   os
+c...., •   I I. 2-
+-t-o-?~r--C=r----.------E~ +
+V:2-   .
+Q.6B   Explain the procedure for measuring VSWR at microwave frequency.   os
+Q.6C   Discuss microwave radiation hazards.   04
+Q.7   Write short notes (Any Two)   14
+1.   Magic Tee
+11.   Reflex Klystron
+111.   Trapatt
+-
+--- page 3 ---
+Smith Chart
+
+RADIALLY SCALED PARAMETERS
+! TOWARD LOAD —> <— TOWARD GENERATOR
+19040 20, 10 4 3.28, 2.18.16 14 12411 18 10 7 4 3 2 1
+40 30 2S 8 65 4 3 2 4 ait tm 12 13°14 18 182 3°45. 10 20
+0 1 2.34.88 .7,8,9,10 12 14 20 30 [0 01 02 04 06 08 1, 15, 2 3,4 8,68, , 1015
+108 08 07 06 0S 04 03 02 ar” 005 oor ofa att? SA 1S 18 17 18192 25°34 8 10
+1,09, 08 07, 08 | 05 04 03 02 ot, Olt 0g9 095 08 08 | 07 | 08 05 04 03 02 01 0
+CENTER ey
+00 Ot, 02 03 oe 0S OT Bet 4A 1218, 18,87 B18?
+&
+ORIGIN
+
+3/3
 ````
 
 ## 2018-19 · Re-Exam · Sem 5 · paper cc382b5a638b
@@ -661,6 +1053,108 @@ CENTER
 ORIGIN
 
 af3
+````
+
+## 2017-18 · Final-Exam · Sem 7 · paper 857adcdd8ef7
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: EXTC/SEMESTER VII/FUNDAMENTALS OF MICROWAVE ENGINEERING/Fundamentals_of_Microwave_Engineering_2017-18_Final_fOclCCwmm3.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 27 November 2017
+- Text: ocr (2 pages), mean OCR confidence 88.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2017-2018 ~
+
+f
+
+/ Program: B. Tech Integrated (EXTC) Year:IV_ Semester: VII,
+Subject: Fundamentals of Microwave Engineering ~ Marks: 60 ;
+Date : 27 November 2017 ; Fires 00 pa n to 05,00-pR .
+Duration:3 hrs, no » he
+No. of Pages? Sie AB
+FINAL EXAMINATION . ils 7 a ant
+Le 5)
+Instructions: Candidates should read carefully the instructions printed o on the question paper an ° e
+cover of the Answer Book, which is provided for their use. hd cai
+
+1) Question No. Lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Attempt all questions
+a) Enumerate the basic advantage of microwaves. [03}
+b) Write the properties of [S] matrix. : [03]
+c) What are the assumptions for calculation of RF power in Reflex Klystron? [03]
+d) Write the applications of magic tee. {o]
+Q.2
+
+A Transmission Line with a characteristics impedance of 300 Ohms is terminated with
+A) purely resistive load. It is found by measurement that the minimum line voltage upon it [04
+is 5 mV and maximum of 7.5 mV. What is the value of Load Impedance?
+
+B) Write a Short Note comin Chart. [0AJ
+
+C What are advantages, Waveguide over coax? [OAL
+Q.3
+
+A) Waveguide Acts as a High Pass Filter. Justify’. [04]
+
+B) Derive the Relation between Phase Velocity and Group Velocity. [04]
+
+C) Write the characteristics of a three port tee junction. [04]
+Q.4
+
+A) Derive the field component for TM mode of rectangular wave guide. [10]
+
+B) What are the advantages of microwave transistors? [02]
+Q.5
+
+A) State the power output and efficiency of magnetron. Write the applications of magnetron. [04]
+B) How does bunching occur in a reflex klystron? What are applications of reflex klystron? [04]
+
+reference electron takes place once per cycle of RF oscillations. i
+C) State the applications of TWT. [OA]
+
+1|Dage
+--- page 2 ---
+Q.6
+
+Q7
+
+A)
+B)
+
+A)
+B)
+C)
+
+Why the S-parameters are used in microwaves? .
+Explain Directional Coupler in detail.
+Why circular waveguides are not preferred over rectangular waveguides?
+
+Explain Frequency and wavelength measurement using Microwave Test Bench.
+What are the high frequency effects in conventional tubes?
+Enlist the applications of circulator.
+
+(04)
+[04]
+[04]
+[og
+[0A]
+(02)
+
+2|Qeage
 ````
 
 ## 2017-18 · Final-Exam · Sem 5 · paper a49578091071

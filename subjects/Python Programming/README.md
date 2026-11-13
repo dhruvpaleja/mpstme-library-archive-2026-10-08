@@ -1,6 +1,6 @@
 # Python Programming
 
-**5** unique papers (25 copies across programmes) · 2022-23 to 2024-25 · 12 programmes · Sem 2, Sem 3, Sem 4, Sem 6
+**6** unique papers (26 copies across programmes) · 2022-23 to 2025-26 · 13 programmes · Sem 1, Sem 2, Sem 3, Sem 4, Sem 6
 
 Download only this subject, sorted by academic year:
 
@@ -14,6 +14,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | Bachelor of Science(Computer Science) - 40721 | ANS_Re-Exam_Python Programming(MSDS101)_Semester I_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 2 | B TECH | Python Programming, Sem-II, Final Exam 2024-25 & Re Exam 2022-23, 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3 | B TECH, MBA TECH / ARTIFICIAL INTELLIGENCE, MBA TECH / COMPUTER, MBA TECH / I T | Python Programming, Sem-III, Final Exam 2024-25 & Re Exam 2023-24, 2022-23.pdf |
 | 2022-23 | Final + Re-Exam, Final-Exam | Question paper | Sem 2, Sem 4, Sem 6 | B TECH, B TECH / ARTIFICIAL INTELLIGENCE, B TECH / COMPUTER, B TECH / CSBS, B TECH / CSE-CYBER SECURITY, B TECH / I T, B TECH / MECHATRONICS, MBA TECH, MBA TECH / COMPUTER, MBA TECH / EXTC | Python Programming, Sem-II, Final Exam 2022-23.pdf |

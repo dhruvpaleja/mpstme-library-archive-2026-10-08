@@ -1,6 +1,6 @@
 # Probability and Random Processes: question papers in full
 
-37 unique papers · 2013-14 to 2018-19 · Electronics and Telecommunication
+43 unique papers · 2013-14 to 2018-19 · Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -237,6 +237,107 @@ MZ o.00[ 0.01] 0.02] 0.03] 0.04] 0.05] 0.06] 0.07| 0.08| 0.09
 3.3 | 0.4995 0.4995 0.4995 0.4996 0.4996 0.4996 0.4996 0.4996 0.4996 0.4997
 
 3.4| 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4997 0.4998
+````
+
+## 2018-19 · Re-Exam · Sem 6 · paper ebd87a356557
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: EXTC/SEMESTER VI/PROBABILITY AND RANDOM PROCESS/Probability_and_Random_Processes_Batch_2017-18_2018-19_Re_Exam_OsVGUq7Ysf.pdf`
+- Printed on paper: exam date: 12 June 2019
+- Text: ocr (2 pages), mean OCR confidence 90.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+_ Program :B.Tech Integrated (EXTC)
+AcademicY ear: 2018-2019
+
+Subject: Probability and Random Processes ,
+
+Date : 12 June 2019
+
+No. of Pages:
+Re-examination(2017-18/18-19) —
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary. .
+
+Q.1 Do as directed. 14
+a. State and prove the properties of CDF. : 4
+b. Explain Bernoulli’s trials with its types. 4
+c. Explain conditional probability with an example. 3
+d. Compare Random Variable and Random Process. . 3
+Q.2 (a) The probability distribution table of discrete random variable X is given by, 7
+
+xX - 0 1 2 3 4
+
+P(X=x) K 4K 3K 2K 5K
+
+Find (i) K (ii) P(X <3) (iii) P(A < X < 3) (iv) Mean (v) Variance
+
+Q.2(b) A Random variable has PDF given by 7
+kx(2-—x),0<5x<2
+feos) =) 0 , Elsewhere
+(i) Show that k = : (ii) Find mean (iii) Find variance
+Q.3(a) | The Random variable x has poisson distribution with mean=4, Calculate 7
+(i) p(3Sxs5) (ii) p(x>3) (iii)p(3sxs5/x>3)
+--- page 2 ---
+Q.3(b) Let X follows normal distribution with mean =10 and standard deviation =3. Find the probability that
+(i) X is below 16 (ii) X is above 4 (iii) X is between 7 and 13 7
+
+Q.4(a) A particular test correctly identifies those with a certain serious disease 94% of the time and correctly
+diagnoses those without the disease 98% of the time. A friend has just informed you that he has received a positive
+result and asks for your advice about how to interpret these probabilities. He knows nothing about probability, but he
+feels that because the test is quite accurate, the probability that he does have the disease is quite high, likely in the
+95% range. Before attempting to address your friend’s concern, you research the illness and discover that 4% of men
+have this disease. What is the probability your friend actually has the disease? 7
+
+Q.4 (b) In any given season, a soccer team plays 65% of their games at home. When the team plays at home, they win
+83% of their games. When they play away from home, they win 26% of their games. The team plays one game.
+
+(i) Find the probability that the team wins the game.
+
+(ii) If the team does not win the game, find the probability that the game was played at home. 7
+
+Q.5 (a) For the following joint probability density function, find both marginal pdfs and both conditional pdfs. 7
+
+— xy, 0<x<3,0sy<5
+fey) =4205 ¥
+
+0, otherwise
+
+Q.5(b) The joint PDF for the two dimensional random variable X and Y is p(x,y)=kx2y , x=1,2,3,4 ; y=1,2,3 7
+Find (i) k, (ii) p(x) , Gi) p(y)
+
+Q.6 (a) If a Random process is given by x(t) = A cos (wt), where w is constant and A is Random variable with
+
+uniform distribution over (0,1). Find mean , Autocorrelation and Auto-covariance. 7
+Q6 (b) The PSD of WSS is given by 7
+b
+Sex(W) =2 (a-lw)), Ilsa
+=0 |w|>a
+Find Autocorrelation function.
+Q.7(a) State and prove the properties of Autocorrelation function. 7
+Q.7(b) Explain the classification of Random process with respect to time and state along with examples. 7
+
+an
+
+2/2
 ````
 
 ## 2018-19 · Re-Exam · Sem 4 · paper de560b147261
@@ -585,6 +686,126 @@ a2 9.0793 9.0832 9.0871 0.0910 9.0948 0.0987 0.1026 0.4064 OA103 OAH
 884
 ````
 
+## 2017-18 · Final-Exam · Sem 6 · paper e47fb0bb95ac
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: EXTC/SEMESTER VI/PROBABILITY AND RANDOM PROCESS/Probability_and_Random_Processes_2017-18_Final_KLWtyrVcoQ.pdf`
+- Printed on paper: duration hours: 3; exam date: 03 May 2018
+- Text: ocr (2 pages), mean OCR confidence 88.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+ao Ly
+
+quis
+
+Programme:B.Tech Integrated (EXTC) Year: III « Semester: V;
+Academic Year: 2017-2018
+Subject:Probability and Random Processes *
+Date:03 May 2018 - Time: 2.00 pm 105.00 pm
+Durations: 3 (hrs) «
+
+No. of Pages: _%
+Final Examination (2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 Do as directed (14M)
+A Define CDF and PDF. State and prove their 2 properties. (05)
+B_ Explain MSE with an Example. (05)
+
+C A fair dice is rolled three times, Find the probability of getting sum on the two (04)
+faces equal to 9.
+Q.2. A Arandom variable X is distributed normally with a mean of 20 and variance 9. (7M)
+(a) Find P(X < 24.5). ;
+(b) Let P(X <k) =0.85. Find k.
+
+B_ Derive the expression for mean and variance of Poisson distribution. (7M)
+3. A If X(t}=A cos(wt+O), where A and are constants and © is uniformly (7M)
+distributed over (0,2 x ), Prove that given process is WSS process.
+B A continuous random variable X has the P.D.F (7M)
+4x(9 — x?)
+=—.—_, 05x83
+fel) = x
+=0 , otherwise
+
+Find first four moments about the origin and about the mean.
+
+Jo,
+--- page 2 ---
+Q4
+
+Q.5
+
+Q.6
+
+Q.7
+
+A. Prove that if input to the LTI system is WSS process then output is also WSS.
+
+The probability distribution of a discrete random variable X is given by
+
+5
+
+‘PWY=x) = the e {1,2, k}, where k>0.
+
+(a) Write down P(X¥=2) — (b) Show thatk=3   (c) Find E(x).
+A A two dimensional random variable has PDF of X and Y.
+fey oy) =(2-x-y), OSx<S1L085ysil
+. =0-° , otherwise
+Find: (i) Marginal PDF of X and Y (ii) Var.(X) and Var.(Y)
+B Explain SSS and WSS processes in detail.
+
+A Derive and explain Bayes theorem.
+
+A box holds 240 eggs. The probability that an egg is brown is 0.05.
+(a) Find the expected number of brown eggs in the box.
+(b) Find the probability that there are 15 brown eggs in the box.
+
+(c) Find the probability that there are at least 10 brown eggs in
+the box.
+
+Write short notes on the following:
+A Rayleigh Density Function
+B_ Cross Correlation Function
+
+C Fourier transform of Random Signal
+
+(7M)
+
+(7M)
+
+(7M)
+
+(7M)
+
+(7M)
+(7M)
+
+(14M)
+(05)
+(05)
+
+(04)
+````
+
 ## 2017-18 · Final-Exam · Sem 4 · paper 61cad8d23d06
 
 - Departments: Electronics and Telecommunication
@@ -794,6 +1015,207 @@ Describe the various methods of estimation. (05)
 
 A WSS process X (t) is applied to the input of an LTI system. Prov that output of LT] (09)
 system is also WSS process.
+````
+
+## 2017-18 · Re-Exam · Sem 6 · paper 4d60bc0aae07
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: EXTC/SEMESTER VI/PROBABILITY AND RANDOM PROCESS/Probability_and_Random_Processes_Batch_2017-18_Re_Exam_BxajFyLMq6.pdf`
+- Printed on paper: exam date: 28 June 2018
+- Text: ocr (2 pages), mean OCR confidence 87.7
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program: B.Tech Integrated (EXTC) Year: IIL Semester : VI
+AcademicYear: 2017-2018
+
+Subject: Probability and Random Processes
+ubject: Probability and Randon Matos 7
+
+Date : 28 June 2018 Time: 10.00 aff
+
+Durations: 3 (Kis
+No. of Pages:
+Re-Examination (2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) Answer to each new question to be started on a fests page.
+
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume Suitable data if necessary,
+
+1 Do as directed
+(14)
+a. If events A and B are independent, prove that A’ and B’ also independent events. 4M
+b. | Define continuous random variable and discrete random variable with example. 5M
+c. Discuss any two properties of cross correlation with necessary proofs. 5M
+2 a. For a certain binary communication channel, the probability that a transmitted ‘0’ is (07)
+received as a ‘0’ is 0.95 and a transmitted ‘I’ is received as a ‘I’ is 0.90. If the
+probability that a ‘0’ is transmitted is 0.4, Find the probability that a ‘1’ was transmitted
+given that a ‘1’ was received.
+b. State and prove Bayes theorem. (07)
+3 a. Prove that p(x) is a pdf, also find its distribution function. (07)
+D(x) = ve 2 x>0
+0 x<0 (07)
+b. What is CDF? If the random variable X takes values 1, 2, 3 and 4 such that
+2P(X=1) =3P(X=2) =P(X=3) =5P(X=4), find the cumulative distribution function of X.
+4 a. Find out the mean and variance of exponential distribution with parameter i. (07)
+
+b. If the joint pdf of a two dimensional RV(X,Y) is given by f(x,y) = k(6-x-y);0 <x <2, (07)
+2< y <4, find k and P(X<1, Y<3).
+
+)
+Yo
+--- page 2 ---
+Discuss the second order statistics associated with a random process. Derive an (07)
+expression for covariance.
+
+If X(t) =X, cost+*, SiN Where X) and X> are independent discrete random i)
+2 1
+= and —
+variables each of which assumes values -1 and 2 with probabilities 3 3
+respectively, prove that X(t) is WSS process.
+Discuss the properties of power spectral density. (07)
+If the power spectral density of a WSS process is given by (07)
+
+sew =2a-|-wp |wlsa
+a
+[ 0 |w|>a
+
+Find the auto correlation function.
+
+Describe the various methods of estimation. The values of random variable X which is (07)
+uniformly distributed over (a, b) are {2.4, 3.0, 2.9, 4.0, 3.6, 3.4, 5.3, 2.8, 3.2, and 5.8}.
+
+Find out the maximum likelihood estimates.
+
+A WSS process X (t) is applied to the input of an LTI system whose impulse response is (07)
+A(t) =3eu(t) and E(X()) = 2.
+
+Find the mean value of output Y (t) of the system.
+````
+
+## 2017-18 · Re-Exam · Sem 6 · paper 6056193970d4
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: EXTC/SEMESTER VI/PROBABILITY AND RANDOM PROCESS/Probability_and_Random_Processes_Batch_2017-18_Re_Exam_KEtrUpFCUE.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 10 April 2019
+- Text: ocr (2 pages), mean OCR confidence 91.1
+
+````text
+]
+J
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY M3 : NT & ENGINEERING
+Program :B.Tech Integrated (EXTC) , Year: III Semester: VI .-
+AcademicY ear: 2018-2019
+
+Subject: Probability and Random Processes 2 Marks: 70
+
+Date: 10 April 2019 ~~ Time: 02.00 pm to 5.00 pm -
+Duration: 3 (hrs)
+No. of Pages:_ 2.
+
+Final Examination (2018-19)/Re-examination(2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Do as directed. 14
+a. State and prove the properties of PDF. 4
+b. Write short note on Rayleigh distribution ° 4
+c. Explain Axiomatic definition of probability. 3
+d. Explain the process of extracting frequency component of Random signal. 3
+Q.2(a) The daily rainfall (in inches) in a region has PDF, 7
+3.
+filx) = GZ 2x—x?), 0<x<2
+= 0 5 Elsewhere
+
+Find the Probability that the rainfall in this region is :
+(i) Not more than 1 inch
+(ii) Greater than 1.5 inch
+(iii) | Between 0.5 and 1.5 inch
+Q.2(b) A discrete random variable with p.m.f. is given by, 7
+
+kx?
+Px)=—> x= 1,2,3,4,5
+Find (i) k (ii) P< X <4) (iii) Mean (iv) Variance
+Q.3(a) A coin is tossed 7 times, find the probability of getting head, 7
+(i) Exactly 2 times (ii) More than 2 times (iii) Less than 2 times
+
+Vo
+--- page 2 ---
+Q.3(b) The resistance of a device follows normal distribution with mean 100 Q and Standard deviation 2 Q. Find the
+probability of resistance: 7
+(i) Less than 104Q (ii) Resistance more than 96 Q (iii) Resistance between 96 Q and 104 Q
+
+Q. 4(a): A box contains 5 red balls and 9 green balls. Two balls are drawn in succession without replacement. That
+is, the first ball is selected and its color is noted but it is not replaced, then a second ball is selected. What is the
+probability that: q
+a. The first ball is green and the second ball is green?
+
+b. The first ball is green and the second ball is red?
+
+c. The second ball is green?
+
+d. The first ball is red given the second ball is green?
+
+Q%4 (b) An influenza virus is spreading through a city. A vaccination is available to protect against virus. If a person
+has had vaccination, the probability of catching the virus is 0.1. without vaccination, the probability is 0.3. The
+probability of a randomly selected person catching the virus is 0.22. 7
+(i) Find the percentage of the population that has been vaccinated.
+
+(ii) A randomly chosen person catches the virus. Find the probability that this person has been vaccinated.
+
+Q.5 (a) The Joint PMF of X and Y is given by, 7
+
+Find: (i) Give the marginal probability mass functions of X and Y
+(ii) Are X and Y independent?
+(iii) Compute P(XY < 3).
+(iv) Compute P(X/Y > 1).
+
+Q.5 (b) Consider the following joint pdf, 7
+fey (Sy) =x? +, O<x<l, O<y<2
+
+Determine (i) The marginal densities (ii) The conditional densities (iii) If X and Y are independent.
+
+Q.6 (a) Find spectral density function where a and b are constants, for a Random Process having 7
+Ryx(t) = ae? lel
+
+Q.6 (b) A Random Process is given by X(t) = A cos(wot + gy) where A, wo are constants and g is random
+
+variable with uniform distribution in (—7,, 7). Show that X(t) is WSS. 7
+
+Q.7 (a) State and Prove the properties of cross-correlation function. 7
+
+Q.7 (b) Write Short note on (i) Strict Sense Stationary Process (ii) Wide Sense Stationary Process. 7
+
+ar
 ````
 
 ## 2017-18 · Re-Exam · Sem 4 · paper 2c59d8451f86
@@ -2151,6 +2573,87 @@ i2 ® 0.3849 | 0.3869 | 0.3888 | 0.3907 | 0.3925 | 0.3944 | 0.3962 | 0.3980 | 0.
 2/3
 ````
 
+## 2016-17 · Final-Exam · Sem 6 · paper 0e42d36d36f0
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: EXTC/SEMESTER VI/PROBABILITY AND RANDOM PROCESS/Probability_and_Random_Processes_2016-17_Final_py6N4ijFM3.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 05 May 2017
+- Text: ocr (2 pages), mean OCR confidence 92.3
+
+````text
+pitas d oe ab
+te f x
+
+ON
+
+SVKM’s NMIMS . =
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING — ee
+
+Programme: B. Tech Integrated (EXTC) Year: II Semester: VI
+
+Academic Year: 2016-2017
+
+Subject : Probability and Random Process Marks: 60
+Time : 10.00 am to 1.00 pm
+Date : 05 May 2017 ’ Durations: 3 (hrs)
+
+No. of Pages: _2-
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) Answer to each new question to be started on a fresh page.
+
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume Suitable data if necessary,
+
+1 Answer any three (12)
+a. Define conditional probability. If A is a subset of B, then prove that P (B/A) = =].
+b. Explain Rayleigh distribution.
+c. State and prove central limit theorem.
+d.__ A jar contains two white and 3 black balls. A sample of size 4 is made. What is the
+probability that the sample is in order {white, black, white, black}?
+
+2 a. A letter is known to have come from either TATANAGAR or CALCUTTA. On the (06)
+envelope, two consecutive letters TA are visible. Find the probability that the letter came
+
+from CALCUTTA.
+b. Define PDF and CDF. Discuss the properties of CDF. (06)
+3 a. If f(x) =6x(x—-1) O<x<1 , then prove that f(x) is a pdf. Also find P(0 < X $0.5). (06)
+b. If input to an LTI system is WSS process, prove that output is also a WSS process. (06)
+4 a. _ Find out the mean and variance of uniform distribution in the interval [a,b]. (06)
+
+b. The joint probability mass function of (X, Y) is given by p(X, Y) =k (2x+3y); x=0, 1, 2; (06)
+y=1, 2, 3. Find all marginal probability distributions. Find P(X+Y>3).
+
+5 a. Discuss the first order statistics associated with a random process. Derive.an expression (06)
+for variance of a random process.
+
+=
+--- page 2 ---
+A random process x (t) is defined as A sin (@t+0) where A and @ are constants and @isa (06)
+random variable with uniform distribution in (-1, 2). Verify whether x (t) is WSS or not.
+
+Discuss the properties of cross correlation with necessary proofs. (06)
+If the Auto correlation of a WSS process is given by R(r)=ae™, find the spectral (06)
+density, where a and b are constants.
+
+Explain method of mean square estimation and maximum likelihood estimation. (06)
+A certain types of blades are sold in packets of 10. The number of defective blades is (06)
+found to follow a Binomial distribution. A sample of 12 packets gave the following
+number of defective blades as {2, 1, 0, 1, 2, 0, 0, 3, 1 2, 1, 1}. Find the maximum
+likelihood estimate of the parameter p of the distribution.
+````
+
 ## 2016-17 · Final-Exam · Sem 4 · paper 648d6d780805
 
 - Departments: Electronics and Telecommunication
@@ -2465,6 +2968,103 @@ z 0.00 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 . 0.09
 3.6 0.9998 0.9999
 
 Ale
+````
+
+## 2016-17 · Re-Exam · Sem 4 · paper 6fedf7a9784d
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `00_Original_Downloads_Local/MBA_TECH_2ND_YEAR/6880__TELECOM EXTC.zip :: IV SEMESTER/PROBABILITY AND RANDOM PROCESSES/PROBABILITY_AND_RANDOM_PROCESSES_BATCH_2015-16_RE_EXAM_KqYAxiAEJw.pdf`
+- Printed on paper: max marks: 60; exam date: 07 July 2017
+- Text: ocr (2 pages), mean OCR confidence 86.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: MBA Tech (EXTC) Year: II Semester: IV
+
+Batch: 2015-2016
+Academic Year: 2016-2017
+
+Subject: Probability and Random Processes re ot
+Marks: 60 gf”
+Date: 07 July 2017 Time: 02.06 pm to 05.00%
+: Durations (hrs): RARYW
+No. of Page@ +O Z— ;
+3
+Re-Examination E ie a
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 (A) Explain mutually exclusive events with help of an example. [06]
+(B) Define random variable. Hence explain mean, variance and moment of random variable [06]
+with suitable example.
+Q.2 (A) Explain properties of probability density function in detail. [06]
+(B) If X follows normal distribution with mean 10 and standard deviation 4, find (i) PS < [06]
+x<18) (ii) P(x <12);
+Given: Area between z=0 and z=1.25 is 0.3944,
+Area between z=0 and z=2 is 0.4772,
+Area between z=0 and z=0.5 is 0.1915
+Q.3 (A) The daily consumption of electric power (in million kwh) in a random variable X with [06]
+PDF
+
+x
+fe (& J = kxe3, x > 0
+=U , otherwise
+Find K, ECX) and Variance.
+(B) Explain central limit theorem with suitable example [06]
+Q.4 (A) Explain Autocorrelation function, Auto covariance, cross correlation and cross [06]
+covariance with suitable equation and example.
+(B) Define entropy and explain with example. [06]
+Q.5 (A) Write a short note on wide sense stationary (WSS) process. [06]
+(B) Consider x(t) = cos(wot + @) where @ is uniformly distributed in the interval- to x. [06]
+Check whether x(t) is stationary or not.
+
+V2
+--- page 2 ---
+Q.6 (A)
+(B)
+
+Q7 (A)
+
+(B)
+
+Derive and explain Bayes theorem.
+Discuss power spectrum density with an example.
+
+A two-dimensional random variable (X and Y) has following distribution.
+
+fey, y) = (2e°&"™), O< y<x<oo
+=0, otherwise
+Find: (i) E(xy).
+(ii) Cov(x,y) ~
+Explain (i) Gaussian distribution (ii) binomial distribution
+
+i
+
+72.
+
+[06]
+[06]
+
+[06]
+
+[06]
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper 7f770b603b5f

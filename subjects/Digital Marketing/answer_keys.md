@@ -2,6 +2,181 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 1 · Answer key · paper b7a21d703498
+
+- Departments: B.Sc Information Technology
+- Programmes: Bachelor of Science (Information Technology) - 45618
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Science (Information Technology) - 45618/Digital Marketing/ANS_Final-Exam_Digital Marketing(NHDMK106)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 10 Oct 2025
+- Text: text (6 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Science (Information Technology)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Digital Marketing
+Date: 10 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 6 pages
+2. All questions are compulsory
+3. Each question has internal choice wherein, you can answer any two of the given three questions
+4. Answer to each new question to be started on a fresh page
+5. Support your answers with valid examples wherever necessary
+6. Figure in right hand side indicates full marks
+1.   Answer the following questions(Attempt Any 2 Questions)   10
+a. Answer: Marketing meaning - 1 mark, 4Ps brief explanation - 1 mark each, Total - 5   5
+marks
+Marketing is the act of acquiring, satisfying and retaining customers. It is one of the
+primary components of business management and commerce.
+4Ps of Marketing
+1. Products: are solutions to customers’ needs. The provider needs to make various
+product decisions, including functionality, range offered, brand names, packaging,
+service, and support. The product is normally the critical element in the mix, with all
+other decisions relating to this element.
+2. Price: This element determines what a provider is paid. Various price setting models
+exist, with decisions relating to factors like market penetration, credit terms, discount
+policy, and cost of provision. It should be noted that the price is not always paid
+directly by the consumer. For example, a charity may receive a government grant to
+provide services free of charge to worthy causes.
+Page 1 of 6
+--- page 2 ---
+3. Place: Place is perhaps more readily described as distribution. It is about making the
+product available. Some form of structured network is normally required – a
+distribution channel. However, true marketing power may lie with the control of this
+channel as opposed to the control of the product. For example, large supermarket
+chains can largely determine which goods are made available to the consumer.
+4. Promotion: The promotional element of the mix provides communication with the
+desired customer group. A range of mechanisms can be deployed for this purpose:
+advertising, public relations, direct mail, Internet marketing, selling and sales
+promotion. The blend of methods is often referred to as the communication mix.
+b. Answer: Brief explanation of any 5 relevant points - 1 mark each, Total - 5 marks.   5
+E-commerce v/s E-Business
+1. Definition: E-commerce is digitally enabled commercial transactions between
+organizations and individuals, involving an exchange of value. E-business encompasses
+all internal and external digital activities, including e-commerce.
+2. Revenue: E-commerce generates revenue directly through online transactions. E-
+business mainly supports internal processes and infrastructure and may not directly
+generate revenue.
+3. Scope: E-commerce is a subset of e-business; all e-commerce activities are part of e-
+business, but not all e-business activities are e-commerce.
+4. Focus: E-commerce focuses on market exchanges with customers and other
+businesses, while e-business focuses on operational efficiency and internal processes.
+5. Overlap: E-business infrastructure (like inventory control systems) supports e-
+commerce, blurring the boundary at points where internal systems connect with
+suppliers or customers.
+6. Functionality: E-commerce involves value exchange, while e-business involves internal
+digital processes that enable the organization to function effectively.
+7. Examples: E-commerce – online shopping websites, mobile transactions. E-business –
+internal ERP systems, supply chain management, online employee portals.
+c. Answer: Any 4 benefits explanation - 1.25 marks each, Total - 5 marks.   5
+Benefits of a well-designed website:
+Page 2 of 6
+--- page 3 ---
+1. Increased visibility: A well-designed website can help increase your visibility in search
+engine results pages (SERPs). By optimizing your website for search engines, you can
+improve your rankings and make it easier for potential customers to find you online.
+2. Improved user experience: A well-designed website is user-friendly and easy to
+navigate. This can help improve the user experience and make it more likely that
+visitors will stay on your site and explore your products or services.
+3. Increased conversions: A well-designed website can help convert visitors into
+customers. By making it easy to find information and purchase products or services,
+you can increase the likelihood of a conversion.
+4. Improved brand image: A well-designed website can help improve your brand image
+and make your business look more professional. This can help establish trust with
+potential customers and make them more likely to do business with you, etc.
+2.   Answer the following questions(Attempt Any 2 Questions)   10
+a. Answer: Any 2 Benefit of Long–Tail Keyword Research - 2 marks, 3 Keyword Phrases - 1   5
+mark each, Total - 5 marks
+Benefits offered:
+1. Higher relevance – Customers searching with specific phrases (e.g., "eggless birthday cake
+in Mumbai") are more likely to convert into buyers than those searching only for "cakes."
+2. Lower competition – Long-tail keywords generally face less competition, allowing a small
+local bakery to rank higher in search results compared to big national brands.
+3. Local targeting – Adding location-based terms (like “in Mumbai” or “near Andheri”) helps
+the bakery attract nearby customers who are ready to purchase.
+4. Better user intent – People using detailed queries usually have a clear buying intent, which
+improves conversion rates, etc.
+Sample long-tail keyword phrases:
+1. eggless chocolate birthday cake delivery in Mumbai
+2. customized photo cake in Andheri Mumbai
+Page 3 of 6
+--- page 4 ---
+3. midnight cake delivery in Bandra Mumbai
+b. Answer: Any 5 relevant points outlining the strategy - 1 mark each, Total - 5 marks   5
+Media-Sharing Sites
+Sites like YouTube, Instagram, Pinterest, and Slideshare allow users to upload and share
+images, videos, or presentations. These platforms are highly visual and often spark viral
+sharing if the content resonates.
+As visual content dominates online engagement, media-sharing platforms offer marketers the
+perfect stage to showcase products, behind-the-scenes footage, tutorials, and user-generated
+content.
+Benefits to Marketers:
+Distribute engaging content widely and quickly
+Attract attention through visuals and storytelling
+Gain audience insight through comments and shares
+Promote products creatively via visual campaigns or influencers
+c. Answer: Brief explanation of any 5 - 1 mark each, Total - 5 marks.   5
+KEY METRICS:
+1. Open Rate – percentage of e-mails opened.
+2. Click-through Rate (CTR) – percentage of links clicked.
+3. Unique Open/CTR – counts only individual openers or clickers.
+4. Unsubscribe Rate – percentage of recipients opting out.
+5. Bounce Rate – percentage of e-mails undelivered.
+6. Conversion Rate – percentage of recipients completing the desired action (purchase,
+download, registration).
+3.   Answer the following questions(Attempt Any 2 Questions)   10
+a. Answer: Brief explanation for both software - 2.5 marks each, Total - 5 marks   5
+i. Sailthru
+Page 4 of 6
+--- page 5 ---
+Sailthru aims to increase user engagement and conversion through smart data which
+marketers can use to better understand and respond to users in real time. This results in
+a personalized user experience in the form of targeted emails, for example, or a
+homepage tailored to an individual’s interests. Sailthru's clients include Business Insider,
+AOL . Huffington Post and Newsweek among others. The startup recently raised $19
+million.
+ii. Optimove
+Optimove’s retention automation platform leverages proprietary customer modeling
+technology to help marketers at online companies maximize the value of every customer.
+The software helps Internet businesses convert more leads, increase customer spend and
+engagement, reduce churn and win back more lost customers. By affecting customer
+behavior through highly-relevant, personalized offers and incentives, Optimove helps
+businesses -- including clients like Conduit and GetTaxi -- understand customers and
+maximize revenue.
+b. Answer: Brief explanation for both components/steps as part of Digital Marketing   5
+Process - 2.5 marks each, Total - 5 marks
+Steps in Digital Marketing Process
+Step 4. Content Creation and Optimization: Content is at the heart of digital marketing.
+This step involves creating high-quality, engaging content that resonates with your
+audience and encourages interaction. Content optimization ensures that your material is
+not only appealing to your audience but also to search engines, enhancing visibility and
+driving organic traffic. This includes optimizing headlines, keywords, meta tags, and
+incorporating SEO best practices to improve search rankings.
+Step 5. Distribution and Promotion: Creating great content is only part of the equation;
+effectively distributing and promoting this content across the right channels is crucial for
+reaching your audience. This step involves leveraging social media platforms, email
+marketing, paid advertising, and other channels to disseminate your content widely. A
+strategic approach to distribution ensures that your content gets in front of the right
+people, at the right time, through the right channels.
+c. Answer: Any 5 relevant points - 1 mark each, Total - 5 marks   5
+Page 5 of 6
+--- page 6 ---
+THE GOOD INTERNET AND THE BAD INTERNE  The future may bring a split into two
+parallel internets. The “bad internet” will be plagued by ownership disputes, data breaches,
+scams, and unregulated advertising. In contrast, the “good internet” will prioritize transparency,
+data security, and user control. It could be free from centralized ownership, making it resistant
+to hacking and abuse. Access to such a secure network might come at a cost for both marketers
+and consumers, but the trade-off would be greater safety and peace of mind. Digital marketers
+will need to decide whether to operate in both environments or exclusively in the secure,
+transparent space. The emergence of a “good internet” would reshape marketing strategies,
+consumer engagement, and data management.
+Page 6 of 6
+````
+
 ## 2025-26 · Final-Exam · Sem 10 · Answer key · paper 8026fd6005e2
 
 - Departments: Chemical
@@ -1110,6 +1285,200 @@ Brand Pyramid to reposition the brand.
 • Brand Idea: “Packaging that protects the planet”
 Recommendation: Shift focus from cost to purpose-driven branding
 ********** 6 **********
+````
+
+## 2025-26 · Re-Exam · Sem 1 · Answer key · paper 333a4e13cfed
+
+- Departments: B.Sc Information Technology
+- Programmes: Bachelor of Science (Information Technology) - 45618
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Science (Information Technology) - 45618/Digital Marketing/ANS_Re-Exam_Digital Marketing(NHDMK106)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 22 Jan 2026
+- Text: text (6 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Science (Information Technology)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Digital Marketing
+Date: 22 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 6 pages
+2. All questions are compulsory
+3. Each question has internal choice wherein, you can answer any two of the given three questions
+4. Answer to each new question to be started on a fresh page
+5. Support your answers with valid examples wherever necessary
+6. Figure in right hand side indicates full marks
+1.   Answer the following questions(Attempt Any 2 Questions)   10
+a. Answer: Marketing meaning - 1 mark, any 2 objectives brief explanation - 2 marks each,   5
+Total - 5 marks
+Marketing is the act of acquiring, satisfying and retaining customers. It is one of the
+primary components of business management and commerce.
+OBJECTIVES OF MARKETING
+1. Profitability Objective: A profitability objective is a marketing objective that regulates
+the amount of expected income based on the promotional strategy. Profitability is a
+business’s ability to earn a profit as an objective in doing business. Businesses that are
+not financially profitable are likely to struggle, fail, and ultimately close their doors.
+Profitability defines an organisation's ability to sustain a business.
+2. Market Share Objective: A market share objective determines the percentage of
+market share an organisation aims to capture. Increasing market share is one of the
+most important objectives of the business. The main advantage of using market share
+as a measure of business performance is that it is less dependent on macro
+environmental variables like the state of the economy or changes in tax policy.
+Page 1 of 6
+--- page 2 ---
+3. Promotional Objective: A promotional objective aims at promoting its goods and
+services. It is the desired level of awareness of the product. The promotional objective
+is a part of the overarching strategy. Creating a brand identity with imagery and
+punchlines is the first stage of a marketing campaign, followed by expanded
+messaging, either through email or social media.
+4. Growth Objective: A growth objective analyses the current business size and
+determines or plans the growth strategies to achieve the desired amount of growth.
+Growth is an essential objective that contributes to increased revenue. By developing
+business strategies focused on growth, companies can increase their market share,
+realize sales efficiencies, and increase brand awareness, all of which translates to
+greater profits.
+b. Answer: Brief explanation of any 5 relevant points - 1 mark each, Total - 5 marks.   5
+E-Business v/s M-Commerce
+1. Scope: E-business includes all internal and external digitally enabled activities in a firm,
+while M-commerce focuses specifically on mobile-based online transactions.
+2. Revenue generation: E-business supports internal processes and infrastructure; it does not
+directly generate revenue from customers. M-commerce directly involves financial
+transactions and revenue.
+3. Platform: E-business uses firm-controlled information systems (desktop systems, networks,
+and apps), while M-commerce specifically relies on mobile devices and wireless networks.
+4. Function: E-business improves operational efficiency, inventory management, internal
+communication, and process automation. M-commerce facilitates shopping, payments,
+reservations, and access to mobile content.
+5. Interaction with customers: M-commerce directly engages consumers via mobile platforms,
+whereas e-business indirectly supports customer interactions through backend systems.
+6. Overlap: M-commerce may utilize e-business infrastructure to enable mobile transactions,
+showing interdependence.
+c. Answer: Brief explanation of each P - 1 mark each, Total 5 marks.   5
+1. Performance: Your digital marketing performance is measured against set objectives
+and in comparison, to your competitors. In a world where the internet has collapsed
+boundaries and massively increased competition, performance in areas such as digital
+Page 2 of 6
+--- page 3 ---
+engagement, conversions, ROI, and visibility is the true differentiator between success
+and failure.
+2. Presence: Are you visible where your audience is looking? This includes your presence
+across websites, mobile platforms, search engines, social media, directories, and app
+stores. It's not just about being there — it’s about looking professional, functioning
+effectively, and delivering value.
+3. Pleasure (User Experience); The overall user and customer experience can either
+delight or frustrate your audience. Ask yourself — how does the experience of
+interacting with your brand compare to your competitors? Who sets the benchmark in
+your industry? Learn from the best, and never settle for mediocrity.
+4. Proximity: Proximity is about availability — being there when your customers need
+you. This generation expects real-time support, instant information, and round-the-
+clock accessibility. Whether through chatbots, FAQs, or 24/7 customer service, staying
+close to your audience is vital.
+5. Personal: Personalization is powerful. A simple gesture like addressing someone by
+name (e.g., “Thanks, Damian” instead of “Dear Sir/Madam”) adds a human touch.
+Tailoring communication based on preferences, behavior, or history shows customers
+that they are seen and valued.
+2.   Answer the following questions(Attempt Any 2 Questions)   10
+a. Answer: Brief explanation of all 4 steps using examples - 1.25 marks for each step, Total -   5
+5 marks.
+How Search Engines Work
+1. Bots (Spiders) crawl the web: To deliver fast and accurate results, search engines use
+special programs called bots or spiders. These bots crawl the web, following links and
+gathering information from websites.
+2. Build a searchable index: Once a site is crawled, the collected data is stored in a
+massive searchable database called an index. This index helps the search engine
+respond almost instantly when a user types in a query.
+3. Ranking algorithms score and sort results: analyzes all indexed pages and scores them
+based on relevance, popularity, and many other factors.
+4. Output = SERPs:
+Page 3 of 6
+--- page 4 ---
+5. The final output is a sorted list of search results known as the Search Engine Results
+Page (SERP). The user sees this process as seamless, but it involves extremely complex
+and fast data processing behind the scenes.
+b. Answer: Any 5 relevant points outlining the strategy - 1 mark each, Total - 5 marks   5
+Social Networking Sites
+Sites like Facebook, LinkedIn, and Google+ connect users with friends, colleagues, or like-
+minded individuals. They enable sharing of various content types, from personal updates to
+professional achievements.
+For businesses, these platforms help build brand communities and establish direct relationships
+with customers. They also offer highly targeted ad options based on user data.
+Benefits to Marketers:
+Build and engage a community around the brand
+Use targeted advertising based on demographics and interests
+Increase brand exposure through shares and likes
+Leverage brand advocates and influencers
+c. Examine the impact of mobile market size and growth on digital marketing.   5
+Answer: Any 5 impact - 1 mark each, Total - 5 marks.
+Impact of mobile market size and growth on digital marketing
+Larger Reach & Audience Potential: As the mobile market expands, more people own
+smartphones and access the internet primarily through mobile devices. This widens the
+potential audience for digital marketing campaigns, especially in developing markets like
+India, where mobile is the first point of internet access.
+Shift in Marketing Budgets: With mobile usage growing faster than desktop, companies
+allocate more ad spend to mobile-first platforms (social media, in-app ads, mobile search,
+etc.).  Mobile marketing now often receives the largest share of the digital marketing budget.
+Greater Focus on Personalization: More users means more data on browsing, location, and app
+usage — enabling marketers to deliver hyper-targeted ads. Growth in mobile apps and in-app
+analytics helps brands design personalized user journeys.
+Need for Mobile-Optimized Content: A growing mobile market means marketers must ensure
+websites, ads, and emails are fully mobile-optimized. Poor mobile experience leads to higher
+bounce rates and lost conversions.
+Page 4 of 6
+--- page 5 ---
+Expansion of Mobile-Only Marketing Channels: As mobile adoption grows, channels like
+mobile gaming ads, in-app ads, mobile wallets, and SMS marketing become more viable and
+profitable.
+Increased Competition: Larger audience = more brands competing for attention.  Marketers
+need creative, data-driven, and multi-channel strategies to stand out, etc.
+3.   Answer the following questions(Attempt Any 2 Questions)   10
+a. Answer: Brief explanation for both software - 2.5 marks each, Total - 5 marks   5
+i. HubSpot
+HubSpot offers a powerful inbound marketing solution as a personalized and more
+effective alternative to traditional marketing strategies which can tend to harass
+consumers. It has developed a host of marketing apps which include tools for blogging,
+social media, lead management and even marketing analytics that people love and
+respond to. Founded in 2006, the company recently raised $ 35 million.
+ii. Marketo
+Marketo is one of the biggest and most established marketing automation companies,
+which makes it easy to launch and manage marketing campaigns. Marketo is widely used
+for automating inbound marketing and lead nurturing. It integrates email, social media,
+analytics, and sales dashboards, allowing marketers to manage campaigns from one
+platform. In digital marketing, its biggest role is in lead management—helping businesses
+capture prospects, score them, and guide them through the sales funnel. It also supports
+A/B testing and customer journey mapping, making campaigns more data-driven and
+effective. In 2012, the company generated revenue to the value of $58.4 million and was
+recently registered on NASDAQ.
+b. Answer: Explanation for application of mind mapping - 3 marks, Examples - 2 marks,   5
+Total - 2 marks.
+Mind mapping is a visual technique used to organize ideas, strategies, and information in
+a structured way. In digital marketing, it helps marketers plan campaigns, brainstorm
+creative content, map customer journeys, and connect various channels like SEO, social
+media, email, and paid ads. For example, a central idea such as “Digital Marketing
+Strategy” can branch into key elements like Content, SEO, Social Media, Paid
+Advertising, Analytics, and Customer Engagement, which can further branch into sub-
+ideas such as blog posts, keyword planning, Facebook ads, or customer retention tactics.
+This method allows teams to see connections between different aspects of marketing,
+avoid duplication of efforts, and encourage creativity. Mind mapping tools (like XMind,
+MindMeister, or even Canva) are widely used to plan strategies and manage campaigns
+more effectively.
+c. Answer: Any 5 relevant points - 1 mark each, Total - 5 marks   5
+Page 5 of 6
+--- page 6 ---
+THE GOOD INTERNET AND THE BAD INTERNET
+The future may bring a split into two parallel internets. The “bad internet” will be
+plagued by ownership disputes, data breaches, scams, and unregulated advertising. In
+contrast, the “good internet” will prioritize transparency, data security, and user control.
+It could be free from centralized ownership, making it resistant to hacking and abuse.
+Access to such a secure network might come at a cost for both marketers and consumers,
+but the trade-off would be greater safety and peace of mind. Digital marketers will need
+to decide whether to operate in both environments or exclusively in the secure,
+transparent space. The emergence of a “good internet” would reshape marketing
+strategies, consumer engagement, and data management.
+Page 6 of 6
 ````
 
 ## 2024-25 · Final-Exam · Sem 10 · Answer key · paper 3eaa59ecdaf6

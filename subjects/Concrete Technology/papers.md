@@ -1,6 +1,6 @@
 # Concrete Technology: question papers in full
 
-54 unique papers · 2012-13 to 2025-26 · Civil
+55 unique papers · 2012-13 to 2025-26 · Civil
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1080,6 +1080,259 @@ strength data, curve 2 may be utilized.
 
 Figure — 1 of IS 10262 2019: Relationship between Free Water-Cement Ratio and 28-Days
 
+Compressive Strength of Concrete for Cement of Various Expected 28-Days Compressive
+Strengths
+
+Page - 5 of 5
+````
+
+## 2023-24 · Re-Exam · Sem 8 · paper d93b0348a034
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: CIVIL/SEMESTER VIII/CONCRETE TECHNOLOGY/Concete_Technology_Batch_2022-23_Re_Exam_bTlhKPPGuC.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 25/06/2024
+- Text: ocr (5 pages), mean OCR confidence 87.1
+
+````text
+SVKM’S NMIMS _ ~
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024
+
+Program: B.Tech./ B.Tech. (Integrated) Year: IL/IV
+
+Stream: Civil Engineering ° Semester: IV / VIII
+
+Subject: Concrete Technology Time: 3 Hrs. (10.00 a.m. to 1.00 p.m.)
+Date: 25/06/2024 No. of Pages: 5
+
+Marks: 100
+
+few ore
+
+oo _.._.   !Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) Inall 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qia. Explain the role of accelerators and retarders on hardened properties of [05]
+concrete. [CO1, SO7, BL3]
+
+Qib. Enlist the factors affecting properties of fresh concrete. [05]
+[CO1, SO7, BL2]
+
+Qlic. Enlist different methods of mix design of concrete. List the steps involved in [05]
+mix design by DOE method [CO2, SO7, BL2]
+
+Qid. What is carbonation of concrete? How is it determined for existing structure? [05]
+[CO4, SO6, BL3]
+
+Q2a. Enlist basic 6 types of cements. Explain any two types in detail. [10]
+[CO1, SO7, BL2]
+
+@2b. A sieve analysis test of fine aggregate is conducted in the laboratory and [10]
+following are the results:
+Weight of fine aggregate taken = 500 gms
+
+Sieve 4.75 2.36 1.18 600 300 160
+
+Size mm mm mm micron | micron | micron
+Weight
+
+Retained | 50 50 140 160 60 40
+(gm)
+
+Determine fineness modulus and the zone of the fine aggregate as per IS 383.
+Use the table given in the data sheet for mix design. [CO1,4, S06, BL5]
+
+Page - 1 of 5
+--- page 2 ---
+Q3a.__ Enlist the tests conducted to determine the workability of a fresh concrete. [10]
+Explain compaction factor test in detail [CO1,4, SO1,6, BL2]
+
+Q3b. Sketch how different units are placed in ready mix concrete plant. Explainin [10]
+detail the functioning of different units. [CO3, SO7, BL3]
+
+Q4a. Explain in detail at least five factors affecting properties of hardened concrete. [10]
+[CO1, SO7, BL2]
+
+Q4b. Explain in detail how indirect tensile strength and flexural strength of concrete [10]
+is carried out in laboratory. [CO1,4, SO6,7, BL2]
+
+Q5 Design a concrete mix in laboratory for concrete grade M35 with the following [20]
+- data: .
+
+e Cement — OPC 53 grade
+
+e Exposure condition — Moderate
+
+e Sand Zone — III
+
+e Supplementary cementitious material as fly ash with 20%
+
+e 10% water reducing admixture with equivalent dose of 300 ml per bag
+of cement.
+
+e Desired Slump = 100 mm (pumpable concrete)
+
+e Rounded coarse aggregate with MSA 20 mm in combination of CA-I
+& ILin SSD condition. Water absorption in sand is expected as 3%.
+
+e Specific gravity of Sand — 2.75
+
+° Specific gravity of Cement — 3.15
+
+e Specific gravity of Fly Ash — 2.2
+
+e Specific gravity of Course Aggregate I — 2.65
+
+e Specific gravity of Course Aggregate II — 2.68
+
+[CO2, SO2, BL5]
+
+Q6a. Explain in detail the concreting operations in extreme climatic conditions. [10]
+[CO3, SO7, BL2]
+
+Q6b. Explain in detail roller compacted concrete and fibre reinforced concrete. [10]
+[CO3, SO7, BL6]
+
+Q7a. Write an explanatory note on high performance concrete. [CO3, SO7, BL2] [10]
+
+Q7b. Explain the ultrasonic pulse velocity test in detail. What are the precautions [10]
+taken while performing this test? [CO4, SO6, BL3]
+
+Page - 2 of 5
+--- page 3 ---
+Data Sheet for Mix Design
+
+Table —1 & 2 of IS 10262-2019: Value of X and Assumed Standard Deviation
+M30, M35, M40,
+
+Grade of Concrete Mio, Mis | M20,m2s | mas, mso,mss, | MO5:M70,
+M75, M80
+M60
+x 5.0 5.5 6.5 8.0
+Assumed Standard a5 ap = en
+Deviation
+
+Table=3 & 4 01S 16262-2019: Approximate Air Content and Approximate Water Content
+(Water content for angular aggregate and 50 mm slump. For other conditions, water content may
+be increased at the rate of 3% for every 25 mm increase in slump and reduction of 10 kg, 15 kg
+and 20 kg for sub-angular, gravel with some crushed particles and rounded gravels respectively)
+Nominal maximum size of aggregate
+
+10 20 40
+(mm)
+Entrapped air (% of volume of concrete) 1.5 1.0 0.8
+
+Water content (kg) 208 186 165
+
+n
+
+Table—5 of IS 10262-2019: Volume of Coarse Aggregate per Unit Volume of Total Aggregate
+for Different Zones of Fine Aggregate for Water-Cement/Water-Cementitious Materials
+Ratio of 0.50 (Values may be increased at the rate of 0.01 for every decrease in w/c ratio by 0.05
+or vice-versa)
+
+: Nominal maximum Volume of Coarse Aggregate per Unit Volume of Total
+No, size of aggregate Aggregate for Different Zones of Fine Aggregate
+: (mm) Zone-IV Zone-Il Zone-II Zone-I
+1 10 0.54 0.52 0.50 0.48
+2 20 0.66 0.64 0.62 0.60
+3 40 0.73 0.72 0.71 i 0.69
+
+Page - 3 of 5
+--- page 4 ---
+Table —9 of IS 383 2016: Fine Aggregates
+
+s % Passing
+a Behecaeh Grading Grading Grading _ Grading
+Zone - I Zone - I Zone - III Zone - IV
+1 10mm — 100 100 100 100
+2 4.75 mm 90-100 90 — 100 90-100 95 — 100
+8 2.36 mm 60-95 75 — 100 85 — 100 95 — 100
+4 1.18 mm 30-70 55-90 75 — 100 90 — 100
+5 |.600 microns 15-34 35-59 60 — 79 80 — 100
+6 | 300 microns 5-20 8-30 12-40 i 15-50
+7 | 150 microns 0-10 0-10 0-10 0-15
+
+Table — 5 of IS 456 2000: Minimum Cement Content, Maximum Water-Cement Ratio and
+Minimum Grade of Concrete for Different Exposures with Normal Weight aggregates of 20
+mm nominal maximum size.
+
+Plain Concrete Reinforced Concrete
+7 Maximum - Maximum
+Minimum a Minimum we
+Sr. Biposure Cement Free Minimum Cemient Free Minimum
+No. P cement Water- Grade of Water- Grade of
+Content Content
+Kg/m? Cement Concrete Ke/m? Cement Concrete
+Ratio Ratio
+1 Mild 220 0.60 - 300 0.55 M20
+2 | Moderate 240 0.60 M15 300 0.50 M25
+3 Severe 250 0.50 M20 320 0.45 M30
+4] vey 260 0.45 M20 340 0.45 M35
+Severe
+S Extreme 280 0.40 M25 360 0.40 M40
+
+Page - 4 of 5
+--- page 5 ---
+80
+
+pS
+PNAS
+
+- 60
+
+iy KO NY yourves
+oe
+oO
+
+Zz 50
+
+8 | NAN, / CURVE 2
+COLDSSS
+
+Ee 30
+o CURVE 1/
+
+® 20
+
+O 16
+
+“a
+
+0.25 0:3 0.5 055 O86 0.65
+WATER CEMENT RATIO
+
+‘strength of 33 and < 43 Nimm?.
+iva strength of 43 and < §3 Nimm?.
+ive strength of 53 Wun? and above.
+
+Curve 1: for expected 28%
+Curve 2: for expected 28
+
+NOTES
+Lin the absence of data on uctuat 28 days compressive strength of cement, the curves 1, 2 and 3 may be used for OPC 35, GPC 43 and
+
+OPC 53, respectively,
+2 Whifeusing PPC/PSC, the appropriate curve as per the aztual strength muy be utilized. In the absence of the uctuat 2 days compressive
+strength uta, curve 2 may be wtilized.
+
+Figure — 1 of IS 10262 2019: Relationship between Free Water-Cement Ratio and 28-Days
 Compressive Strength of Concrete for Cement of Various Expected 28-Days Compressive
 Strengths
 

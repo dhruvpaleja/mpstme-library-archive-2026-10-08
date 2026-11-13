@@ -1,8 +1,127 @@
 # Structural Analysis II: question papers in full
 
-31 unique papers · 2014-15 to 2019-20 · Civil
+34 unique papers · 2014-15 to 2019-20 · Civil
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2019-20 · Final-Exam · Sem 7 · paper 6c737b7fff19
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: CIVIL/SEMESTER VII/STRUCTURAL ANALYSIS II/Structural_Analysis_II_2019-20_Final_g3TUsx91ZF.pdf`
+- Printed on paper: exam date: 18 November 2019
+- Text: ocr (3 pages), mean OCR confidence 85.2
+
+````text
+/
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+| Programme: B.Tech Integrated icpal Year: WV Semester: ViI—
+
+Academic Year: 2019-20
+Subject: Structural Analysis - I~
+
+Date: 18 November 2019
+
+a
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 (a) (i) Enlist the assumptions made in the plastic analysis of steel structures. (8)
+(ii) Define Plastic moment capacity, Shape factor, Load factor, and Collapse load
+in plastic analysis.
+
+(b) Determine Degree of Static Indeterminacy (Ds - external, internal and total) and ~ (6)
+Degree of Kinematic Indeterminacy (Dk) for the following struetures. Assume
+inextensibility of members for rigid frame Dk.:
+
+i) ii) (iii)
+tevee | | A
+TANNA
+
+1/4
+--- page 2 ---
+Q.2.a) Calculate the support reactions and bending moment at C for the 2-hinged parabolic arch (8)
+loaded as shown below:
+
+10 kN ° 20 KN/m
+D
+4m
+A | 2
+2m
+
+Q.2 b) Write flexibility coefficient matrix for the frame shown below. EI is constant. (6)
+
+<<" Cc 2
+4m |
+1
+A
+N\NN
+
+| |
+
+<— 5m — >
+
+Q.3.a) Determine the member forces of the following truss using ‘Method of consistent (8)
+deformation’. Take member BD as a redundant.
+
+20 kN ©
+30 KN Bi
+D
+r
+3m
+—_ B
+77 77
+
+2/4
+--- page 3 ---
+Q.3 b) Write stiffness coefficient matrix for the beam shown below. EI is constant for the beam. (6)
+1 2
+
+y, IND
+a ow eA =
+
+3m 2m 3m
+Q.4.a) Determine the support reactions for following frame using ‘Method of least work’. (8)
+20 KN
+om T
+
+PPT
+
+4m
+
+4 {
+
+EN
+
+t—— 3m —+
+
+Q.4b) Determine the member forces of the following truss using ‘Method of consistent (6)
+deformation’ due to member AC being short by 2 mm. Take member BD as a redundant.
+Take cross sectional area of all members as 4000 mm? and E = 200 GPa
+
+D Cc
+4m
+As 7 B
+
+3/4
+````
 
 ## 2019-20 · Re-Exam · Sem 5 · paper 4463f105acae
 
@@ -192,6 +311,159 @@ ze
 ‘ AM Lim, 38M ;, 3m , 2m ,2m 1
 
 Page 04/04
+````
+
+## 2018-19 · Final-Exam · Sem 7 · paper f7374291e45e
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: CIVIL/SEMESTER VII/STRUCTURAL ANALYSIS II/Structural_Analysis_II_2018-19_Final_CUVZI2r37P.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 24 November 2018
+- Text: ocr (3 pages), mean OCR confidence 58.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SVKM’S NMIMS
+5 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINES
+
+. Program B.Tech Integrated (CIVIL) ~~ Year: IV Sens
+Academic Year: 2018-2019
+Subject: Structural Analysis-Il — Marks: 70
+Date : 24 November 2018 -~ Time:10.00 am to 1.00 pm
+
+Duration: 3 (hrs)
+
+No. of Pages:_ 63
+Final paz (2018-19) -
+
+Tastroctions: ‘Candidates shonld renil carefully the instructions printed on the e question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary and mentioned clearly.
+
+Qla Determine the static indeterminacy and kinematic indeterminacy for the structures shown [04]
+in figure 1.
+
+Qlb Define plastic hinge, plastic moment capacity, shape factor and load factor. [04]
+
+Qle Explain difference between force and displacement method. [06]
+
+Q2a Determine the flexibility coefficients for the frame shown in figure 2. [07]
+
+Q2b Using the coefficients developed in Q 2 a above, Analyse the frame loaded as shown in [07]
+figure 3 and draw BMD.
+
+Q3a Analyse the truss as shown in figure 4 and tabulate the forces developed in the members of [07]
+the truss by force method.
+
+Q3b Analyse the symmetrical two hinged parabolic arch as shown in figure 5 and draw BMD. [07]
+Use least work method.
+
+Q4 Analyse the frame as shown in figure 6 by slope deflection method. Draw BMD. [14]
+Q5 Analyse the beam as shown in figure 7 by moment distribution method. Draw BMD. [14]
+Q6 Analyse the continuous beam as shown in figure 8 by three moment theorem.Draw BMD. [14]
+
+Q7Ta Find the collapse load in a fixed beam of span L carrying UDL over entire span. Plastic [07]
+moment capacity is Mp.
+
+Q7b Calculate the plastic moment capacity required for the continuous beam with working [07]
+loads as shown in figure 9. Take load factor = 1.5.
+
+1/z,
+--- page 2 ---
+AL
+VP?
+cam
+Pgure 4.
+C EE D
+EL fs
+A
+P77
+G
+figute 2
+£80 RN Inn
+
+sa)
+“ A
+/+—__ 8 )—__}
+
+figuse 3,
+
+8/3
+--- page 3 ---
+Cc
+Note !— At— SOKN
+
+AE Congtant
+focal}
+Mer boss 3m
+A &
+aa Aro
+Frgwre 4,
+¥ 7OKN Inn
+® 2eEr - c
+ABKN ye KNInp
+er A Ag Beane say
+Ang er] 77 (Me FAS (2Mp>
+A- A AM-—— bry
+aL - Figure 3,
+Zeer
+| oe Bro sal
+Figure 6
+BOKNI ry)
+a Abbe a _
+Ni é g
+an DADA OY
+Vo 3m) 3m FSS én
+ev Ae RET et
+= J2nm) Ac= Frm
+Fig wie #.
+TOOKN N
+. L L , ok
+; ay _ : Cc
+A> wa a
+re FAP
+
+A~ 2) —— Br ory — 4 Bn) H— BV) ——"'!
+fyguie 3 Ap= 6ram
+
+G
+
+77?
+
+x
+
+Ag
+
+4]
+
+4]
+16]
+7]
+7]
+
+7
+
+07]
+14]
+14]
+14]
+07)
+
+(07]
 ````
 
 ## 2018-19 · Re-Exam · Sem 5 · paper 31126b9c8f35
@@ -1235,6 +1507,151 @@ i o om
 Figure 11
 
 Page 4 of 4
+````
+
+## 2017-18 · Final-Exam · Sem 7 · paper ccb90adc71dd
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: CIVIL/SEMESTER VII/STRUCTURAL ANALYSIS II/Structural_Analysis_II_2017-18_Final_0ftCuRZJZk.pdf`
+- Printed on paper: exam date: 04 December 2017
+- Text: ocr (3 pages), mean OCR confidence 71.7
+
+````text
+.
+
+| ee
+
+SVKM?S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY
+Academic Year: 2017-2018
+
+MANAGEMENT & ENGINEERING
+
+Year:[Vc Semester:VI <
+Marks: 6 ~
+
+Ie,
+
+es te
+
+Program: B. Tech Integrated (Civil)
+
+Subject: Structural Analysis - i «
+
+Date :04 December 2017 Duet (4 -
+
+No. of Pages: wes
+ww ~
+FINAL EXAMINATION 4 vas pa
+
+Instructions: Candidates should read carefully the instructions printed on 1 the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume ‘Suitable data if necessary.
+
+“Q.No. 1 (a) Determine Dsi & Dki considering-and without considering 2 axial deformation.
+
+Ys
+
+POT
+
+Q. No. 1(b) Attempt ANY TWO
+i) Prove that two hinged parabolic arch loaded with uniformly distributed
+
+load throughout the span is subjected to normal thrust only.
+ii) Differentiate between force method and displacement method.
+iii) Explain plastic moment and plastic modulus.
+Q.No.2 (a) Determine reactions for given two hinge parabolic arch using method of consistent
+deformation, .also draw BMD.
+
+Ack c
+
+(06)
+
+(06)
+
+(06)
+
+Page Lof3
+--- page 2 ---
+Q. No. 2 (b) For the frame shown, calculate flexibility coefficients for shown redundant. (06)
+
+a Ary c
+ea)
+@ ac
+Ayre (2)
+e— 2
+7 1
+Pa P
+Q. No.3 (a) For given degrees of freedom derive stiffness coefficients. (04)
+’ t 2 a
+AC aN
+4 vad
+Q. No.3 (b) Using above stiffness coefficients analyze two span continuous beam for the given (08)
+loading. |O4N
+
+PORNO
+
+4 — 2m SA N
+i a
+
+Dierifers
+
+Q. No. 4 Solve the three span continuous beam for the given loading using three moment (12)
+theorem. Draw BMD and deflected shape.
+
+60k
+|
+
+Dolenifrmn
+Bm) ae
+
+BR pene hance
+tN eum
+ne? aes =
+Pom BB tp BEB ap
+Q. No. 5 Analyze three span continuous beam using slope deflection method. Draw BMD. (12)
+. Loet .
+Lo Dok me |
+mi (es J DIN
+proces — z a a ai aes 2 .
+Ars BK. as Se aes Dre S.
+4 FE a 5
+
+Page 2 of 3
+--- page 3 ---
+Q. No. 6
+
+Q. No. 7
+
+Analyze the frame using moment distribution method. Draw BMD. (12)
+Zbp Ves teRtfon
+Eke phe eRe
+AR et Sena
+4 Qn Qn 6rea x
+30
+Bb
+GFF
+Determine member forces for the truss loaded as shown using flexibility method. (12)
+Take AE as constant for all members."Take BD as. vedundank,
+jokn
+z >
+Gokr_ * ~ ¥ e.
+
+Page 3 of 3
 ````
 
 ## 2017-18 · Final-Exam · Sem 5 · paper ac55f30a9ada

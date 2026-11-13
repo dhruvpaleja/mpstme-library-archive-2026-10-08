@@ -1550,9 +1550,9 @@ p>?
 - Programmes: MBA TECH / I T
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/TRIM VII/SOFTWARE ARCHITECTURE/2006-2007(72).pdf`
 - Text: ocr (1 page), mean OCR confidence 89.6
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
+NARSEE MONJEE INSTITUTE OF MANAGEMENT & HIGHR's stUp
 
 (DEEMED UNIVERSITY)
 SUBJECT: SOFTWARE ARCHITECTURE ,~,° 2 |

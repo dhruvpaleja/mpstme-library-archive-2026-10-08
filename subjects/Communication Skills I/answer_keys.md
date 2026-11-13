@@ -2,6 +2,1211 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 1 · Answer key · paper f1aa431e4b53
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Economics) - 45616
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce (Economics) - 45616/Communication Skills I/ANS_Final-Exam_Communication Skills I(NFENG110)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 08 Oct 2025
+- Text: text (3 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Communication Skills I
+Date: 08 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use fictitious names wherever necessary
+1.   Answer the following - (Attempt Any 1 Question)   10
+a.   Definition of Body Language (3 marks):   10
+Body language is a form of non-verbal communication that uses physical behavior instead of
+words to convey messages. It includes posture, gestures, movements, facial expressions, and
+eye contact. Body language often expresses emotions, attitudes, and intentions more strongly
+than spoken words. Examples: Folding arms may indicate defensiveness. Nodding while
+listening shows agreement or attentiveness. Smiling conveys friendliness and warmth.
+Part B: Types & Role of Kinesics/Body language (7 marks) Facial Expressions (1 mark):
+Express happiness, anger, fear, sadness. Example: Smiling to indicate friendliness. Gestures
+(1 mark): Hand and arm movements to support or replace speech. Example: Thumbs-up to
+show approval. Posture (1 mark): Body stance reflects attitude and confidence. Example:
+Standing straight shows confidence; slouching shows disinterest. Eye Contact (1 mark):
+Indicates attentiveness, honesty, or aggression. Example: Maintaining eye contact in an
+interview signals confidence. Head Movements (1 mark): Nodding or shaking the head
+conveys agreement or disagreement. Illustrators/Regulators (1 mark): Kinesics regulate
+communication flow and illustrate meaning. Example: Raising a hand in class to ask
+permission to speak. Impact on Communication (1 mark): Reinforces verbal messages,
+expresses emotions, can substitute words, or sometimes contradict spoken communication.
+b.   Definition of Physical Barriers (2 marks):   10
+Page 1 of 3
+--- page 2 ---
+Physical barriers are obstructions in the external environment that hinder the free flow of
+messages between sender and receiver. They arise due to factors such as distance, noise,
+faulty equipment, poor infrastructure, or inappropriate settings. Example: A speaker’s voice is
+not audible at the back of a large hall due to a lack of a sound system.
+Measures to Overcome Different Barriers (8 marks):
+Overcoming Physical Barriers: Improve office layout, reduce environmental noise, use
+proper equipment, ensure good lighting and acoustics. Example: Installing microphones in
+large auditoriums.
+Overcoming Mechanical/Technical Barriers: Regular maintenance of machines, using
+reliable networks and updated technology. Example: Checking internet connectivity before
+virtual meetings.
+Overcoming Semantic Barriers: Use simple, clear, and precise language; avoid jargon and
+ambiguity. Example: Replacing technical terms with layman’s explanation for a mixed
+audience.
+Overcoming Psychological Barriers: Encourage active listening, reduce stress, and provide
+counselling or motivational support. Example: Managers addressing employee concerns
+before giving instructions.
+Overcoming Organizational Barriers: Simplify hierarchy, establish clear policies, and ensure
+open communication channels. Example: Allowing direct interaction between top
+management and staff.
+Overcoming Cultural Barriers: Promote cultural sensitivity, diversity training, and respect for
+different practices. Example: Using universally acceptable gestures in international meetings.
+Overcoming Perceptual Barriers: Provide feedback opportunities, verify understanding, and
+encourage clarification. Example: Asking employees to repeat instructions to confirm
+accuracy.
+Conclusion: Communication barriers—whether physical, mechanical, semantic,
+psychological, organizational, cultural, or perceptual—can be minimized through awareness,
+technology, training, and effective management practices. Overcoming these ensures clarity,
+efficiency, and stronger relationships.
+2. Draft a Job job Application application Letter letter and (5 marks): resume in response to the following job advertisement -.   10
+Salutation and Introduction: 1 mark; Relevance and Connection to Company: 1 mark; Body
+Content and Detail: 1 mark; Closing and Call to Action: 1 mark; Language and Grammar: 1
+mark
+Resume (5 marks):
+Format and Layout: 1 mark; Education: 1 mark; Skills: 1 mark; Experience: 1 mark;
+Grammar and Clarity: 1 mark
+3.   Answer the following questions -   10
+a.   5
+Page 2 of 3
+--- page 3 ---
+Identification that non-verbal communication compensated for the barrier caused by verbal
+communication (German accent – linguistic barrier) – 1 Mark
+Analysis of the impact of non-verbal communication in the presentation (bullet points, charts,
+diagram) – 3 Marks
+Positive outcome of the presentation – 1 Mark
+This situation is a case in how non-verbal communication contributes to effective
+communication despite barriers posed by verbal communication. Berger’s German accent is a
+linguistic barrier that could have hindered the audience’s understanding of his presentation.
+However, his use of PowerPoint, bullet points, charts, and diagrams presented information
+clearly and comprehensively. The effective use of visuals therefore ensured clear
+communication. It maintained the audience’s interest. Ultimately, the effective presentation led
+to a collaboration of both models.
+b.   5
+Analysis of violation – 2 Marks
+Rewritten email – 3 Marks (2 marks for incorporating email etiquette and 1 mark for structure
+and grammar)
+Analysis of violation –
+The email is unprofessional due to the use of informal abbreviations such as “lol, nxt, smth,
+shud, Idk”. This lowers the formality expected in workplace communication. Additionally, the
+tasks are written in a long, cluttered sentence rather than a clear list, making it difficult for
+team members to understand their responsibilities. The subject line is also casual and vague,
+failing to convey the importance of the upcoming client meeting. Also, the sender has not
+mentioned her complete name and designation while signing off.
+Sample rewritten email –
+From: anita.kapoor@nextgenprojects.com
+Subject: Tasks for Upcoming Client Presentation
+Dear Team,
+We have the client presentation scheduled for next week, and I request your support in
+completing the following tasks:
+• Review the PowerPoint presentation and ensure all graphs are included.
+• Marketing team: add details regarding the budget.
+• Operations team: update information on delivery schedules.
+• Design team: refine and finalise the presentation template.
+Please complete the assigned tasks by the end of next week, so that we have sufficient time to
+review before the client meeting. Best regards,
+Anita Kapoor
+Project Manager
+DigiLogistics Pvt. Ltd.
+Page 3 of 3
+````
+
+## 2025-26 · Final-Exam · Sem 1 · Answer key · paper 0da8be88d1cc
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Management and Finance) - 45615
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce (Management and Finance) - 45615/Communication Skills I/ANS_Final-Exam_Communication Skills I(NEENG111)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 08 Oct 2025
+- Text: text (3 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Communication Skills I
+Date: 08 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use fictitious names wherever necessary
+1.   Answer the following - (Attempt Any 1 Question)   10
+a.   Definition of Body Language (3 marks):   10
+Body language is a form of non-verbal communication that uses physical behavior instead of
+words to convey messages. It includes posture, gestures, movements, facial expressions, and
+eye contact. Body language often expresses emotions, attitudes, and intentions more strongly
+than spoken words. Examples: Folding arms may indicate defensiveness. Nodding while
+listening shows agreement or attentiveness. Smiling conveys friendliness and warmth.
+Part B: Types & Role of Kinesics/Body language (7 marks) Facial Expressions (1 mark):
+Express happiness, anger, fear, sadness. Example: Smiling to indicate friendliness. Gestures
+(1 mark): Hand and arm movements to support or replace speech. Example: Thumbs-up to
+show approval. Posture (1 mark): Body stance reflects attitude and confidence. Example:
+Standing straight shows confidence; slouching shows disinterest. Eye Contact (1 mark):
+Indicates attentiveness, honesty, or aggression. Example: Maintaining eye contact in an
+interview signals confidence. Head Movements (1 mark): Nodding or shaking the head
+conveys agreement or disagreement. Illustrators/Regulators (1 mark): Kinesics regulate
+communication flow and illustrate meaning. Example: Raising a hand in class to ask
+permission to speak. Impact on Communication (1 mark): Reinforces verbal messages,
+expresses emotions, can substitute words, or sometimes contradict spoken communication.
+b.   Definition of Physical Barriers (2 marks):   10
+Page 1 of 3
+--- page 2 ---
+Physical barriers are obstructions in the external environment that hinder the free flow of
+messages between sender and receiver. They arise due to factors such as distance, noise,
+faulty equipment, poor infrastructure, or inappropriate settings. Example: A speaker’s voice is
+not audible at the back of a large hall due to a lack of a sound system.
+Measures to Overcome Different Barriers (8 marks):
+Overcoming Physical Barriers: Improve office layout, reduce environmental noise, use
+proper equipment, ensure good lighting and acoustics. Example: Installing microphones in
+large auditoriums.
+Overcoming Mechanical/Technical Barriers: Regular maintenance of machines, using
+reliable networks and updated technology. Example: Checking internet connectivity before
+virtual meetings.
+Overcoming Semantic Barriers: Use simple, clear, and precise language; avoid jargon and
+ambiguity. Example: Replacing technical terms with layman’s explanation for a mixed
+audience.
+Overcoming Psychological Barriers: Encourage active listening, reduce stress, and provide
+counselling or motivational support. Example: Managers addressing employee concerns
+before giving instructions.
+Overcoming Organizational Barriers: Simplify hierarchy, establish clear policies, and ensure
+open communication channels. Example: Allowing direct interaction between top
+management and staff.
+Overcoming Cultural Barriers: Promote cultural sensitivity, diversity training, and respect for
+different practices. Example: Using universally acceptable gestures in international meetings.
+Overcoming Perceptual Barriers: Provide feedback opportunities, verify understanding, and
+encourage clarification. Example: Asking employees to repeat instructions to confirm
+accuracy.
+Conclusion: Communication barriers—whether physical, mechanical, semantic,
+psychological, organizational, cultural, or perceptual—can be minimized through awareness,
+technology, training, and effective management practices. Overcoming these ensures clarity,
+efficiency, and stronger relationships.
+2. Draft a Job job Application application Letter letter and (5 marks): resume in response to the following job advertisement -.   10
+Salutation and Introduction: 1 mark; Relevance and Connection to Company: 1 mark; Body
+Content and Detail: 1 mark; Closing and Call to Action: 1 mark; Language and Grammar: 1
+mark
+Resume (5 marks):
+Format and Layout: 1 mark; Education: 1 mark; Skills: 1 mark; Experience: 1 mark;
+Grammar and Clarity: 1 mark
+3.   Answer the following questions -   10
+a.   5
+Page 2 of 3
+--- page 3 ---
+Identification that non-verbal communication compensated for the barrier caused by verbal
+communication (German accent – linguistic barrier) – 1 Mark
+Analysis of the impact of non-verbal communication in the presentation (bullet points, charts,
+diagram) – 3 Marks
+Positive outcome of the presentation – 1 Mark
+This situation is a case in how non-verbal communication contributes to effective
+communication despite barriers posed by verbal communication. Berger’s German accent is a
+linguistic barrier that could have hindered the audience’s understanding of his presentation.
+However, his use of PowerPoint, bullet points, charts, and diagrams presented information
+clearly and comprehensively. The effective use of visuals therefore ensured clear
+communication. It maintained the audience’s interest. Ultimately, the effective presentation led
+to a collaboration of both models.
+b.   5
+Analysis of violation – 2 Marks
+Rewritten email – 3 Marks (2 marks for incorporating email etiquette and 1 mark for structure
+and grammar)
+Analysis of violation –
+The email is unprofessional due to the use of informal abbreviations such as “lol, nxt, smth,
+shud, Idk”. This lowers the formality expected in workplace communication. Additionally, the
+tasks are written in a long, cluttered sentence rather than a clear list, making it difficult for
+team members to understand their responsibilities. The subject line is also casual and vague,
+failing to convey the importance of the upcoming client meeting. Also, the sender has not
+mentioned her complete name and designation while signing off.
+Sample rewritten email –
+From: anita.kapoor@nextgenprojects.com
+Subject: Tasks for Upcoming Client Presentation
+Dear Team,
+We have the client presentation scheduled for next week, and I request your support in
+completing the following tasks:
+• Review the PowerPoint presentation and ensure all graphs are included.
+• Marketing team: add details regarding the budget.
+• Operations team: update information on delivery schedules.
+• Design team: refine and finalise the presentation template.
+Please complete the assigned tasks by the end of next week, so that we have sufficient time to
+review before the client meeting. Best regards,
+Anita Kapoor
+Project Manager
+DigiLogistics Pvt. Ltd.
+Page 3 of 3
+````
+
+## 2025-26 · Final-Exam · Sem 1 · Answer key · paper 3f59fb22d7f8
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce - 45611
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce - 45611/Communication Skills I/ANS_Final-Exam_Communication Skills I(NAENG110)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 08 Oct 2025
+- Text: text (4 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Commerce/Bachelor of Commerce(Accounting and Finance)/Bachelor of
+Commerce (Economics)/Bachelor of Commerce(Economics & Analytics)/Bachelor of Commerce
+(Financial Markets)/Bachelor of Commerce (Management and Finance)/Bachelor of Science
+(Information Technology)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Communication Skills I
+Date: 08 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 4 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use fictitious names wherever necessary
+1.   Answer the following - (Attempt Any 1 Question)   10
+a.   Definition of Body Language (3 marks):   10
+Body language is a form of non-verbal communication that uses physical behavior instead of
+words to convey messages. It includes posture, gestures, movements, facial expressions, and
+eye contact. Body language often expresses emotions, attitudes, and intentions more strongly
+than spoken words. Examples: Folding arms may indicate defensiveness. Nodding while
+listening shows agreement or attentiveness. Smiling conveys friendliness and warmth.
+Page 1 of 4
+--- page 2 ---
+Part B: Types & Role of Kinesics/Body language (7 marks) Facial Expressions (1 mark):
+Express happiness, anger, fear, sadness. Example: Smiling to indicate friendliness. Gestures
+(1 mark): Hand and arm movements to support or replace speech. Example: Thumbs-up to
+show approval. Posture (1 mark): Body stance reflects attitude and confidence. Example:
+Standing straight shows confidence; slouching shows disinterest. Eye Contact (1 mark):
+Indicates attentiveness, honesty, or aggression. Example: Maintaining eye contact in an
+interview signals confidence. Head Movements (1 mark): Nodding or shaking the head
+conveys agreement or disagreement. Illustrators/Regulators (1 mark): Kinesics regulate
+communication flow and illustrate meaning. Example: Raising a hand in class to ask
+permission to speak. Impact on Communication (1 mark): Reinforces verbal messages,
+expresses emotions, can substitute words, or sometimes contradict spoken communication.
+b.   Definition of Physical Barriers (2 marks):   10
+Physical barriers are obstructions in the external environment that hinder the free flow of
+messages between sender and receiver. They arise due to factors such as distance, noise,
+faulty equipment, poor infrastructure, or inappropriate settings. Example: A speaker’s voice is
+not audible at the back of a large hall due to a lack of a sound system.
+Measures to Overcome Different Barriers (8 marks):
+Overcoming Physical Barriers: Improve office layout, reduce environmental noise, use
+proper equipment, ensure good lighting and acoustics. Example: Installing microphones in
+large auditoriums.
+Overcoming Mechanical/Technical Barriers: Regular maintenance of machines, using
+reliable networks and updated technology. Example: Checking internet connectivity before
+virtual meetings.
+Overcoming Semantic Barriers: Use simple, clear, and precise language; avoid jargon and
+ambiguity. Example: Replacing technical terms with layman’s explanation for a mixed
+audience.
+Overcoming Psychological Barriers: Encourage active listening, reduce stress, and provide
+counselling or motivational support. Example: Managers addressing employee concerns
+before giving instructions.
+Overcoming Organizational Barriers: Simplify hierarchy, establish clear policies, and ensure
+open communication channels. Example: Allowing direct interaction between top
+management and staff.
+Overcoming Cultural Barriers: Promote cultural sensitivity, diversity training, and respect for
+different practices. Example: Using universally acceptable gestures in international meetings.
+Overcoming Perceptual Barriers: Provide feedback opportunities, verify understanding, and
+encourage clarification. Example: Asking employees to repeat instructions to confirm
+accuracy.
+Page 2 of 4
+--- page 3 ---
+Conclusion: Communication barriers—whether physical, mechanical, semantic,
+psychological, organizational, cultural, or perceptual—can be minimized through awareness,
+technology, training, and effective management practices. Overcoming these ensures clarity,
+efficiency, and stronger relationships.
+2. Draft a Job job Application application Letter letter and (5 marks): resume in response to the following job advertisement -.   10
+Salutation and Introduction: 1 mark; Relevance and Connection to Company: 1 mark; Body
+Content and Detail: 1 mark; Closing and Call to Action: 1 mark; Language and Grammar: 1
+mark
+Resume (5 marks):
+Format and Layout: 1 mark; Education: 1 mark; Skills: 1 mark; Experience: 1 mark;
+Grammar and Clarity: 1 mark
+3.   Answer the following questions -   10
+a.   5
+Identification that non-verbal communication compensated for the barrier caused by verbal
+communication (German accent – linguistic barrier) – 1 Mark
+Analysis of the impact of non-verbal communication in the presentation (bullet points, charts,
+diagram) – 3 Marks
+Positive outcome of the presentation – 1 Mark
+This situation is a case in how non-verbal communication contributes to effective
+communication despite barriers posed by verbal communication. Berger’s German accent is a
+linguistic barrier that could have hindered the audience’s understanding of his presentation.
+However, his use of PowerPoint, bullet points, charts, and diagrams presented information
+clearly and comprehensively. The effective use of visuals therefore ensured clear
+communication. It maintained the audience’s interest. Ultimately, the effective presentation led
+to a collaboration of both models.
+b.   5
+Analysis of violation – 2 Marks
+Rewritten email – 3 Marks (2 marks for incorporating email etiquette and 1 mark for structure
+and grammar)
+Analysis of violation –
+The email is unprofessional due to the use of informal abbreviations such as “lol, nxt, smth,
+shud, Idk”. This lowers the formality expected in workplace communication. Additionally, the
+tasks are written in a long, cluttered sentence rather than a clear list, making it difficult for
+team members to understand their responsibilities. The subject line is also casual and vague,
+failing to convey the importance of the upcoming client meeting. Also, the sender has not
+mentioned her complete name and designation while signing off.
+Sample rewritten email –
+Page 3 of 4
+--- page 4 ---
+From: anita.kapoor@nextgenprojects.com
+Subject: Tasks for Upcoming Client Presentation
+Dear Team,
+We have the client presentation scheduled for next week, and I request your support in
+completing the following tasks:
+• Review the PowerPoint presentation and ensure all graphs are included.
+• Marketing team: add details regarding the budget.
+• Operations team: update information on delivery schedules.
+• Design team: refine and finalise the presentation template.
+Please complete the assigned tasks by the end of next week, so that we have sufficient time to
+review before the client meeting. Best regards,
+Anita Kapoor
+Project Manager
+DigiLogistics Pvt. Ltd.
+Page 4 of 4
+````
+
+## 2025-26 · Final-Exam · Sem 1 · Answer key · paper 5a61953bf96e
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce(Economics & Analytics) - 45617
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce(Economics & Analytics) - 45617/Communication Skills I/ANS_Final-Exam_Communication Skills I(NGENG109)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 08 Oct 2025
+- Text: text (3 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Communication Skills I
+Date: 08 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use fictitious names wherever necessary
+1.   Answer the following - (Attempt Any 1 Question)   10
+a.   Definition of Body Language (3 marks):   10
+Body language is a form of non-verbal communication that uses physical behavior instead of
+words to convey messages. It includes posture, gestures, movements, facial expressions, and
+eye contact. Body language often expresses emotions, attitudes, and intentions more strongly
+than spoken words. Examples: Folding arms may indicate defensiveness. Nodding while
+listening shows agreement or attentiveness. Smiling conveys friendliness and warmth.
+Part B: Types & Role of Kinesics/Body language (7 marks) Facial Expressions (1 mark):
+Express happiness, anger, fear, sadness. Example: Smiling to indicate friendliness. Gestures
+(1 mark): Hand and arm movements to support or replace speech. Example: Thumbs-up to
+show approval. Posture (1 mark): Body stance reflects attitude and confidence. Example:
+Standing straight shows confidence; slouching shows disinterest. Eye Contact (1 mark):
+Indicates attentiveness, honesty, or aggression. Example: Maintaining eye contact in an
+interview signals confidence. Head Movements (1 mark): Nodding or shaking the head
+conveys agreement or disagreement. Illustrators/Regulators (1 mark): Kinesics regulate
+communication flow and illustrate meaning. Example: Raising a hand in class to ask
+permission to speak. Impact on Communication (1 mark): Reinforces verbal messages,
+expresses emotions, can substitute words, or sometimes contradict spoken communication.
+b.   Definition of Physical Barriers (2 marks):   10
+Page 1 of 3
+--- page 2 ---
+Physical barriers are obstructions in the external environment that hinder the free flow of
+messages between sender and receiver. They arise due to factors such as distance, noise,
+faulty equipment, poor infrastructure, or inappropriate settings. Example: A speaker’s voice is
+not audible at the back of a large hall due to a lack of a sound system.
+Measures to Overcome Different Barriers (8 marks):
+Overcoming Physical Barriers: Improve office layout, reduce environmental noise, use
+proper equipment, ensure good lighting and acoustics. Example: Installing microphones in
+large auditoriums.
+Overcoming Mechanical/Technical Barriers: Regular maintenance of machines, using
+reliable networks and updated technology. Example: Checking internet connectivity before
+virtual meetings.
+Overcoming Semantic Barriers: Use simple, clear, and precise language; avoid jargon and
+ambiguity. Example: Replacing technical terms with layman’s explanation for a mixed
+audience.
+Overcoming Psychological Barriers: Encourage active listening, reduce stress, and provide
+counselling or motivational support. Example: Managers addressing employee concerns
+before giving instructions.
+Overcoming Organizational Barriers: Simplify hierarchy, establish clear policies, and ensure
+open communication channels. Example: Allowing direct interaction between top
+management and staff.
+Overcoming Cultural Barriers: Promote cultural sensitivity, diversity training, and respect for
+different practices. Example: Using universally acceptable gestures in international meetings.
+Overcoming Perceptual Barriers: Provide feedback opportunities, verify understanding, and
+encourage clarification. Example: Asking employees to repeat instructions to confirm
+accuracy.
+Conclusion: Communication barriers—whether physical, mechanical, semantic,
+psychological, organizational, cultural, or perceptual—can be minimized through awareness,
+technology, training, and effective management practices. Overcoming these ensures clarity,
+efficiency, and stronger relationships.
+2. Draft a Job job Application application Letter letter and (5 marks): resume in response to the following job advertisement -.   10
+Salutation and Introduction: 1 mark; Relevance and Connection to Company: 1 mark; Body
+Content and Detail: 1 mark; Closing and Call to Action: 1 mark; Language and Grammar: 1
+mark
+Resume (5 marks):
+Format and Layout: 1 mark; Education: 1 mark; Skills: 1 mark; Experience: 1 mark;
+Grammar and Clarity: 1 mark
+3.   Answer the following questions -   10
+a.   5
+Page 2 of 3
+--- page 3 ---
+Identification that non-verbal communication compensated for the barrier caused by verbal
+communication (German accent – linguistic barrier) – 1 Mark
+Analysis of the impact of non-verbal communication in the presentation (bullet points, charts,
+diagram) – 3 Marks
+Positive outcome of the presentation – 1 Mark
+This situation is a case in how non-verbal communication contributes to effective
+communication despite barriers posed by verbal communication. Berger’s German accent is a
+linguistic barrier that could have hindered the audience’s understanding of his presentation.
+However, his use of PowerPoint, bullet points, charts, and diagrams presented information
+clearly and comprehensively. The effective use of visuals therefore ensured clear
+communication. It maintained the audience’s interest. Ultimately, the effective presentation led
+to a collaboration of both models.
+b.   5
+Analysis of violation – 2 Marks
+Rewritten email – 3 Marks (2 marks for incorporating email etiquette and 1 mark for structure
+and grammar)
+Analysis of violation –
+The email is unprofessional due to the use of informal abbreviations such as “lol, nxt, smth,
+shud, Idk”. This lowers the formality expected in workplace communication. Additionally, the
+tasks are written in a long, cluttered sentence rather than a clear list, making it difficult for
+team members to understand their responsibilities. The subject line is also casual and vague,
+failing to convey the importance of the upcoming client meeting. Also, the sender has not
+mentioned her complete name and designation while signing off.
+Sample rewritten email –
+From: anita.kapoor@nextgenprojects.com
+Subject: Tasks for Upcoming Client Presentation
+Dear Team,
+We have the client presentation scheduled for next week, and I request your support in
+completing the following tasks:
+• Review the PowerPoint presentation and ensure all graphs are included.
+• Marketing team: add details regarding the budget.
+• Operations team: update information on delivery schedules.
+• Design team: refine and finalise the presentation template.
+Please complete the assigned tasks by the end of next week, so that we have sufficient time to
+review before the client meeting. Best regards,
+Anita Kapoor
+Project Manager
+DigiLogistics Pvt. Ltd.
+Page 3 of 3
+````
+
+## 2025-26 · Final-Exam · Sem 1 · Answer key · paper eddeecb769cf
+
+- Departments: B.Sc Information Technology
+- Programmes: Bachelor of Science (Information Technology) - 45618
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Science (Information Technology) - 45618/Communication Skills I/ANS_Final-Exam_Communication Skills I(NHENG110)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 08 Oct 2025
+- Text: text (3 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Communication Skills I
+Date: 08 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use fictitious names wherever necessary
+1.   Answer the following - (Attempt Any 1 Question)   10
+a.   Definition of Body Language (3 marks):   10
+Body language is a form of non-verbal communication that uses physical behavior instead of
+words to convey messages. It includes posture, gestures, movements, facial expressions, and
+eye contact. Body language often expresses emotions, attitudes, and intentions more strongly
+than spoken words. Examples: Folding arms may indicate defensiveness. Nodding while
+listening shows agreement or attentiveness. Smiling conveys friendliness and warmth.
+Part B: Types & Role of Kinesics/Body language (7 marks) Facial Expressions (1 mark):
+Express happiness, anger, fear, sadness. Example: Smiling to indicate friendliness. Gestures
+(1 mark): Hand and arm movements to support or replace speech. Example: Thumbs-up to
+show approval. Posture (1 mark): Body stance reflects attitude and confidence. Example:
+Standing straight shows confidence; slouching shows disinterest. Eye Contact (1 mark):
+Indicates attentiveness, honesty, or aggression. Example: Maintaining eye contact in an
+interview signals confidence. Head Movements (1 mark): Nodding or shaking the head
+conveys agreement or disagreement. Illustrators/Regulators (1 mark): Kinesics regulate
+communication flow and illustrate meaning. Example: Raising a hand in class to ask
+permission to speak. Impact on Communication (1 mark): Reinforces verbal messages,
+expresses emotions, can substitute words, or sometimes contradict spoken communication.
+b.   Definition of Physical Barriers (2 marks):   10
+Page 1 of 3
+--- page 2 ---
+Physical barriers are obstructions in the external environment that hinder the free flow of
+messages between sender and receiver. They arise due to factors such as distance, noise,
+faulty equipment, poor infrastructure, or inappropriate settings. Example: A speaker’s voice is
+not audible at the back of a large hall due to a lack of a sound system.
+Measures to Overcome Different Barriers (8 marks):
+Overcoming Physical Barriers: Improve office layout, reduce environmental noise, use
+proper equipment, ensure good lighting and acoustics. Example: Installing microphones in
+large auditoriums.
+Overcoming Mechanical/Technical Barriers: Regular maintenance of machines, using
+reliable networks and updated technology. Example: Checking internet connectivity before
+virtual meetings.
+Overcoming Semantic Barriers: Use simple, clear, and precise language; avoid jargon and
+ambiguity. Example: Replacing technical terms with layman’s explanation for a mixed
+audience.
+Overcoming Psychological Barriers: Encourage active listening, reduce stress, and provide
+counselling or motivational support. Example: Managers addressing employee concerns
+before giving instructions.
+Overcoming Organizational Barriers: Simplify hierarchy, establish clear policies, and ensure
+open communication channels. Example: Allowing direct interaction between top
+management and staff.
+Overcoming Cultural Barriers: Promote cultural sensitivity, diversity training, and respect for
+different practices. Example: Using universally acceptable gestures in international meetings.
+Overcoming Perceptual Barriers: Provide feedback opportunities, verify understanding, and
+encourage clarification. Example: Asking employees to repeat instructions to confirm
+accuracy.
+Conclusion: Communication barriers—whether physical, mechanical, semantic,
+psychological, organizational, cultural, or perceptual—can be minimized through awareness,
+technology, training, and effective management practices. Overcoming these ensures clarity,
+efficiency, and stronger relationships.
+2. Draft a Job job Application application Letter letter and (5 marks): resume in response to the following job advertisement -.   10
+Salutation and Introduction: 1 mark; Relevance and Connection to Company: 1 mark; Body
+Content and Detail: 1 mark; Closing and Call to Action: 1 mark; Language and Grammar: 1
+mark
+Resume (5 marks):
+Format and Layout: 1 mark; Education: 1 mark; Skills: 1 mark; Experience: 1 mark;
+Grammar and Clarity: 1 mark
+3.   Answer the following questions -   10
+a.   5
+Page 2 of 3
+--- page 3 ---
+Identification that non-verbal communication compensated for the barrier caused by verbal
+communication (German accent – linguistic barrier) – 1 Mark
+Analysis of the impact of non-verbal communication in the presentation (bullet points, charts,
+diagram) – 3 Marks
+Positive outcome of the presentation – 1 Mark
+This situation is a case in how non-verbal communication contributes to effective
+communication despite barriers posed by verbal communication. Berger’s German accent is a
+linguistic barrier that could have hindered the audience’s understanding of his presentation.
+However, his use of PowerPoint, bullet points, charts, and diagrams presented information
+clearly and comprehensively. The effective use of visuals therefore ensured clear
+communication. It maintained the audience’s interest. Ultimately, the effective presentation led
+to a collaboration of both models.
+b.   5
+Analysis of violation – 2 Marks
+Rewritten email – 3 Marks (2 marks for incorporating email etiquette and 1 mark for structure
+and grammar)
+Analysis of violation –
+The email is unprofessional due to the use of informal abbreviations such as “lol, nxt, smth,
+shud, Idk”. This lowers the formality expected in workplace communication. Additionally, the
+tasks are written in a long, cluttered sentence rather than a clear list, making it difficult for
+team members to understand their responsibilities. The subject line is also casual and vague,
+failing to convey the importance of the upcoming client meeting. Also, the sender has not
+mentioned her complete name and designation while signing off.
+Sample rewritten email –
+From: anita.kapoor@nextgenprojects.com
+Subject: Tasks for Upcoming Client Presentation
+Dear Team,
+We have the client presentation scheduled for next week, and I request your support in
+completing the following tasks:
+• Review the PowerPoint presentation and ensure all graphs are included.
+• Marketing team: add details regarding the budget.
+• Operations team: update information on delivery schedules.
+• Design team: refine and finalise the presentation template.
+Please complete the assigned tasks by the end of next week, so that we have sufficient time to
+review before the client meeting. Best regards,
+Anita Kapoor
+Project Manager
+DigiLogistics Pvt. Ltd.
+Page 3 of 3
+````
+
+## 2025-26 · Re-Exam · Sem 1 · Answer key · paper 3d45828585b8
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Economics) - 45616
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Commerce (Economics) - 45616/Communication Skills I/ANS_Re-Exam_Communication Skills I(NFENG110)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 17 Jan 2026
+- Text: text (3 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Communication Skills I
+Date: 17 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use fictitious names wherever necessary
+1.   Answer the following - (Attempt Any 1 Question)   10
+a. Modes of Oral and Written Communication in Workplace (3 marks)   10
+Oral Communication: Face-to-face meetings, Presentations Telephone/Video calls, Group
+discussions, meetings
+Written Communication: Emails, Reports, Circulars & Notices, Business letters, Memos &
+Minutes of Meetings
+Globalization and Communication Needs (7 marks)
+Impact of Globalization: Workplace is multicultural and multilingual. Rise in cross-border
+teams and virtual collaboration. Need for clarity, cultural sensitivity, and adaptability. Growth
+of digital platforms (Zoom, Slack, Teams) for instant communication. Increased demand for
+proficiency in global business English. Importance of Communication in Corporate Decision-
+Making: Facilitates information flow between levels of management. Helps in analyzing
+problems and evaluating alternatives. Ensures participation of stakeholders in decisions.
+Builds consensus and reduces conflicts. Leads to effective implementation of decisions.
+Enhances transparency and accountability in business processes.
+Modes of oral/written communication: 3 marks
+Globalization impact + Importance in decision-making: 7 marks
+b.   Difference between Hearing and Listening (4 marks):   10
+Page 1 of 3
+--- page 2 ---
+Aspect
+Hearing Definition: The passive act of perceiving sound by the ear. Listening Definition:
+The active process of paying attention, understanding, and responding to sound.
+Nature: Hearing- Physiological – just receiving sound waves. Listening- Psychological &
+cognitive – requires focus, interpretation, and feedback.
+Effort: Hearing- Requires no conscious effort. Listening- Requires concentration, mental
+processing, and engagement.
+Example: Hearing- Hearing traffic noise while walking on the road. Listening- Listening
+attentively to a teacher’s lecture and taking notes.
+Importance of Active Listening in Workplace Communication (6 marks):
+Ensures Accurate Understanding: Reduces errors and misunderstandings by clarifying
+instructions. Example: Employees correctly following project deadlines. Improves Decision-
+Making: Managers can make informed choices by carefully listening to reports and feedback.
+Builds Strong Relationships: Shows respect and empathy, fostering trust between colleagues
+and supervisors. Enhances Conflict Resolution: Active listening helps identify root causes of
+disagreements and promotes solutions. Boosts Productivity: Clear instructions and reduced
+repetition save time and effort. Encourages Employee Participation: When employees feel
+heard, they become more engaged and motivated.
+Conclusion: Hearing is simply receiving sound, while listening involves active interpretation
+and response. In the workplace, active listening is crucial for accuracy, trust, productivity, and
+collaboration.
+2. Draft a Job job Application application Letter letter and (5 marks): resume Salutation in response and to Introduction: the following 1 job mark; advertisement Relevance -. and   10
+Connection to Company: 1 mark; Body Content and Detail: 1 mark; Closing and Call to
+Action: 1 mark; Language and Grammar: 1 mark
+Resume (5 marks): Format and Layout: 1 mark; Education: 1 mark; Skills: 1 mark;
+Experience: 1 mark; Grammar and Clarity: 1 mark
+3.   Answer the following questions -   10
+a.   5
+Identification of Ramesh Verma as an effective listener – 1 Mark
+Analysis of effective listening in the situation (informal meetings, encouraging participants to
+share thoughts, encouraging hesitant participants to contribute) – 3 Marks
+Connection of positive impact of listening – company’s growth and better workplace relations
+– 1 Mark
+Page 2 of 3
+--- page 3 ---
+In this situation, Ramesh Verma emerges an effective listener. As an MD, he uses listening as a
+management tool. By holding informal meetings, he created opportunities for employees and
+dealers to share their ideas. As a skilled listener, he showed an open-mindedness as he
+welcomed perspectives and encouraged all his participants (active and hesitant) to contribute.
+Additionally, he considered and implemented the ideas. Thus, ultimately, his effective listening
+skills proved beneficial for both the company’s growth and workplace relations. The
+operational performance of the company increased and employees and dealers felt valued as
+their perspectives were considered and implemented.
+b.   5
+Analysis of violation – 2 Marks
+Rewritten email – 3 Marks (2 marks for incorporating email etiquette and 1 mark for structure
+and grammar)
+Analysis of violation -
+The HR associate’s reply demonstrates multiple etiquette violations. By using the “Reply All”
+option, he unnecessarily sent his message to more than 150 staff members instead of directing
+it to the concerned coordinator. This will create inbox clutter for the entire staff. The subject
+line of his response remained the same as the original mail, making it difficult to identify the
+purpose of his reply. He should have highlighted the acceptance of the invitation in the subject
+line. Furthermore, the content of the email was extremely brief and vague, lacking important
+details such as his specific availability or willingness to volunteer. He has also not mentioned
+his name and designation in the email. Thus, such a response does not reflect professionalism
+or clarity.
+Sample Rewritten Email -
+From: hr.associate@marketingmania.com
+To: trainingcoordinator@marketingmania.com
+Subject: Availability for Training Program – Shreyas Verma
+Dear Seema Bhatnagar,
+I would like to confirm my interest in volunteering for the upcoming training program. I am
+available on 23rd November from 2 PM to 4 PM and would be happy to contribute. Please let
+me know the next steps.
+Best regards,
+Shreyas Verma
+HR Associate
+MarketingMania
+Page 3 of 3
+````
+
+## 2025-26 · Re-Exam · Sem 1 · Answer key · paper d42570f7884b
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Management and Finance) - 45615
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Commerce (Management and Finance) - 45615/Communication Skills I/ANS_Re-Exam_Communication Skills I(NEENG111)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 17 Jan 2026
+- Text: text (3 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Communication Skills I
+Date: 17 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use fictitious names wherever necessary
+1.   Answer the following - (Attempt Any 1 Question)   10
+a. Modes of Oral and Written Communication in Workplace (3 marks)   10
+Oral Communication: Face-to-face meetings, Presentations Telephone/Video calls, Group
+discussions, meetings
+Written Communication: Emails, Reports, Circulars & Notices, Business letters, Memos &
+Minutes of Meetings
+Globalization and Communication Needs (7 marks)
+Impact of Globalization: Workplace is multicultural and multilingual. Rise in cross-border
+teams and virtual collaboration. Need for clarity, cultural sensitivity, and adaptability. Growth
+of digital platforms (Zoom, Slack, Teams) for instant communication. Increased demand for
+proficiency in global business English. Importance of Communication in Corporate Decision-
+Making: Facilitates information flow between levels of management. Helps in analyzing
+problems and evaluating alternatives. Ensures participation of stakeholders in decisions.
+Builds consensus and reduces conflicts. Leads to effective implementation of decisions.
+Enhances transparency and accountability in business processes.
+Modes of oral/written communication: 3 marks
+Globalization impact + Importance in decision-making: 7 marks
+b.   Difference between Hearing and Listening (4 marks):   10
+Page 1 of 3
+--- page 2 ---
+Aspect
+Hearing Definition: The passive act of perceiving sound by the ear. Listening Definition:
+The active process of paying attention, understanding, and responding to sound.
+Nature: Hearing- Physiological – just receiving sound waves. Listening- Psychological &
+cognitive – requires focus, interpretation, and feedback.
+Effort: Hearing- Requires no conscious effort. Listening- Requires concentration, mental
+processing, and engagement.
+Example: Hearing- Hearing traffic noise while walking on the road. Listening- Listening
+attentively to a teacher’s lecture and taking notes.
+Importance of Active Listening in Workplace Communication (6 marks):
+Ensures Accurate Understanding: Reduces errors and misunderstandings by clarifying
+instructions. Example: Employees correctly following project deadlines. Improves Decision-
+Making: Managers can make informed choices by carefully listening to reports and feedback.
+Builds Strong Relationships: Shows respect and empathy, fostering trust between colleagues
+and supervisors. Enhances Conflict Resolution: Active listening helps identify root causes of
+disagreements and promotes solutions. Boosts Productivity: Clear instructions and reduced
+repetition save time and effort. Encourages Employee Participation: When employees feel
+heard, they become more engaged and motivated.
+Conclusion: Hearing is simply receiving sound, while listening involves active interpretation
+and response. In the workplace, active listening is crucial for accuracy, trust, productivity, and
+collaboration.
+2. Draft a Job job Application application Letter letter and (5 marks): resume Salutation in response and to Introduction: the following 1 job mark; advertisement Relevance -. and   10
+Connection to Company: 1 mark; Body Content and Detail: 1 mark; Closing and Call to
+Action: 1 mark; Language and Grammar: 1 mark
+Resume (5 marks): Format and Layout: 1 mark; Education: 1 mark; Skills: 1 mark;
+Experience: 1 mark; Grammar and Clarity: 1 mark
+3.   Answer the following questions -   10
+a.   5
+Identification of Ramesh Verma as an effective listener – 1 Mark
+Analysis of effective listening in the situation (informal meetings, encouraging participants to
+share thoughts, encouraging hesitant participants to contribute) – 3 Marks
+Connection of positive impact of listening – company’s growth and better workplace relations
+– 1 Mark
+Page 2 of 3
+--- page 3 ---
+In this situation, Ramesh Verma emerges an effective listener. As an MD, he uses listening as a
+management tool. By holding informal meetings, he created opportunities for employees and
+dealers to share their ideas. As a skilled listener, he showed an open-mindedness as he
+welcomed perspectives and encouraged all his participants (active and hesitant) to contribute.
+Additionally, he considered and implemented the ideas. Thus, ultimately, his effective listening
+skills proved beneficial for both the company’s growth and workplace relations. The
+operational performance of the company increased and employees and dealers felt valued as
+their perspectives were considered and implemented.
+b.   5
+Analysis of violation – 2 Marks
+Rewritten email – 3 Marks (2 marks for incorporating email etiquette and 1 mark for structure
+and grammar)
+Analysis of violation -
+The HR associate’s reply demonstrates multiple etiquette violations. By using the “Reply All”
+option, he unnecessarily sent his message to more than 150 staff members instead of directing
+it to the concerned coordinator. This will create inbox clutter for the entire staff. The subject
+line of his response remained the same as the original mail, making it difficult to identify the
+purpose of his reply. He should have highlighted the acceptance of the invitation in the subject
+line. Furthermore, the content of the email was extremely brief and vague, lacking important
+details such as his specific availability or willingness to volunteer. He has also not mentioned
+his name and designation in the email. Thus, such a response does not reflect professionalism
+or clarity.
+Sample Rewritten Email -
+From: hr.associate@marketingmania.com
+To: trainingcoordinator@marketingmania.com
+Subject: Availability for Training Program – Shreyas Verma
+Dear Seema Bhatnagar,
+I would like to confirm my interest in volunteering for the upcoming training program. I am
+available on 23rd November from 2 PM to 4 PM and would be happy to contribute. Please let
+me know the next steps.
+Best regards,
+Shreyas Verma
+HR Associate
+MarketingMania
+Page 3 of 3
+````
+
+## 2025-26 · Re-Exam · Sem 1 · Answer key · paper 06cc8578f612
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce - 45611
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Commerce - 45611/Communication Skills I/ANS_Re-Exam_Communication Skills I(NAENG110)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 17 Jan 2026
+- Text: text (3 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Communication Skills I
+Date: 17 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use fictitious names wherever necessary
+1.   Answer the following - (Attempt Any 1 Question)   10
+a. Modes of Oral and Written Communication in Workplace (3 marks)   10
+Oral Communication: Face-to-face meetings, Presentations Telephone/Video calls, Group
+discussions, meetings
+Written Communication: Emails, Reports, Circulars & Notices, Business letters, Memos &
+Minutes of Meetings
+Globalization and Communication Needs (7 marks)
+Impact of Globalization: Workplace is multicultural and multilingual. Rise in cross-border
+teams and virtual collaboration. Need for clarity, cultural sensitivity, and adaptability. Growth
+of digital platforms (Zoom, Slack, Teams) for instant communication. Increased demand for
+proficiency in global business English. Importance of Communication in Corporate Decision-
+Making: Facilitates information flow between levels of management. Helps in analyzing
+problems and evaluating alternatives. Ensures participation of stakeholders in decisions.
+Builds consensus and reduces conflicts. Leads to effective implementation of decisions.
+Enhances transparency and accountability in business processes.
+Modes of oral/written communication: 3 marks
+Globalization impact + Importance in decision-making: 7 marks
+b.   Difference between Hearing and Listening (4 marks):   10
+Page 1 of 3
+--- page 2 ---
+Aspect
+Hearing Definition: The passive act of perceiving sound by the ear. Listening Definition:
+The active process of paying attention, understanding, and responding to sound.
+Nature: Hearing- Physiological – just receiving sound waves. Listening- Psychological &
+cognitive – requires focus, interpretation, and feedback.
+Effort: Hearing- Requires no conscious effort. Listening- Requires concentration, mental
+processing, and engagement.
+Example: Hearing- Hearing traffic noise while walking on the road. Listening- Listening
+attentively to a teacher’s lecture and taking notes.
+Importance of Active Listening in Workplace Communication (6 marks):
+Ensures Accurate Understanding: Reduces errors and misunderstandings by clarifying
+instructions. Example: Employees correctly following project deadlines. Improves Decision-
+Making: Managers can make informed choices by carefully listening to reports and feedback.
+Builds Strong Relationships: Shows respect and empathy, fostering trust between colleagues
+and supervisors. Enhances Conflict Resolution: Active listening helps identify root causes of
+disagreements and promotes solutions. Boosts Productivity: Clear instructions and reduced
+repetition save time and effort. Encourages Employee Participation: When employees feel
+heard, they become more engaged and motivated.
+Conclusion: Hearing is simply receiving sound, while listening involves active interpretation
+and response. In the workplace, active listening is crucial for accuracy, trust, productivity, and
+collaboration.
+2. Draft a Job job Application application Letter letter and (5 marks): resume Salutation in response and to Introduction: the following 1 job mark; advertisement Relevance -. and   10
+Connection to Company: 1 mark; Body Content and Detail: 1 mark; Closing and Call to
+Action: 1 mark; Language and Grammar: 1 mark
+Resume (5 marks): Format and Layout: 1 mark; Education: 1 mark; Skills: 1 mark;
+Experience: 1 mark; Grammar and Clarity: 1 mark
+3.   Answer the following questions -   10
+a.   5
+Identification of Ramesh Verma as an effective listener – 1 Mark
+Analysis of effective listening in the situation (informal meetings, encouraging participants to
+share thoughts, encouraging hesitant participants to contribute) – 3 Marks
+Connection of positive impact of listening – company’s growth and better workplace relations
+– 1 Mark
+Page 2 of 3
+--- page 3 ---
+In this situation, Ramesh Verma emerges an effective listener. As an MD, he uses listening as a
+management tool. By holding informal meetings, he created opportunities for employees and
+dealers to share their ideas. As a skilled listener, he showed an open-mindedness as he
+welcomed perspectives and encouraged all his participants (active and hesitant) to contribute.
+Additionally, he considered and implemented the ideas. Thus, ultimately, his effective listening
+skills proved beneficial for both the company’s growth and workplace relations. The
+operational performance of the company increased and employees and dealers felt valued as
+their perspectives were considered and implemented.
+b.   5
+Analysis of violation – 2 Marks
+Rewritten email – 3 Marks (2 marks for incorporating email etiquette and 1 mark for structure
+and grammar)
+Analysis of violation -
+The HR associate’s reply demonstrates multiple etiquette violations. By using the “Reply All”
+option, he unnecessarily sent his message to more than 150 staff members instead of directing
+it to the concerned coordinator. This will create inbox clutter for the entire staff. The subject
+line of his response remained the same as the original mail, making it difficult to identify the
+purpose of his reply. He should have highlighted the acceptance of the invitation in the subject
+line. Furthermore, the content of the email was extremely brief and vague, lacking important
+details such as his specific availability or willingness to volunteer. He has also not mentioned
+his name and designation in the email. Thus, such a response does not reflect professionalism
+or clarity.
+Sample Rewritten Email -
+From: hr.associate@marketingmania.com
+To: trainingcoordinator@marketingmania.com
+Subject: Availability for Training Program – Shreyas Verma
+Dear Seema Bhatnagar,
+I would like to confirm my interest in volunteering for the upcoming training program. I am
+available on 23rd November from 2 PM to 4 PM and would be happy to contribute. Please let
+me know the next steps.
+Best regards,
+Shreyas Verma
+HR Associate
+MarketingMania
+Page 3 of 3
+````
+
+## 2025-26 · Re-Exam · Sem 1 · Answer key · paper d1c60726a7a5
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce(Accounting and Finance) - 45613
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Commerce(Accounting and Finance) - 45613/Communication Skills I/ANS_Re-Exam_Communication Skills I(NCENG109)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 17 Jan 2026
+- Text: text (3 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Communication Skills I
+Date: 17 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use fictitious names wherever necessary
+1.   Answer the following - (Attempt Any 1 Question)   10
+a. Modes of Oral and Written Communication in Workplace (3 marks)   10
+Oral Communication: Face-to-face meetings, Presentations Telephone/Video calls, Group
+discussions, meetings
+Written Communication: Emails, Reports, Circulars & Notices, Business letters, Memos &
+Minutes of Meetings
+Globalization and Communication Needs (7 marks)
+Impact of Globalization: Workplace is multicultural and multilingual. Rise in cross-border
+teams and virtual collaboration. Need for clarity, cultural sensitivity, and adaptability. Growth
+of digital platforms (Zoom, Slack, Teams) for instant communication. Increased demand for
+proficiency in global business English. Importance of Communication in Corporate Decision-
+Making: Facilitates information flow between levels of management. Helps in analyzing
+problems and evaluating alternatives. Ensures participation of stakeholders in decisions.
+Builds consensus and reduces conflicts. Leads to effective implementation of decisions.
+Enhances transparency and accountability in business processes.
+Modes of oral/written communication: 3 marks
+Globalization impact + Importance in decision-making: 7 marks
+b.   Difference between Hearing and Listening (4 marks):   10
+Page 1 of 3
+--- page 2 ---
+Aspect
+Hearing Definition: The passive act of perceiving sound by the ear. Listening Definition:
+The active process of paying attention, understanding, and responding to sound.
+Nature: Hearing- Physiological – just receiving sound waves. Listening- Psychological &
+cognitive – requires focus, interpretation, and feedback.
+Effort: Hearing- Requires no conscious effort. Listening- Requires concentration, mental
+processing, and engagement.
+Example: Hearing- Hearing traffic noise while walking on the road. Listening- Listening
+attentively to a teacher’s lecture and taking notes.
+Importance of Active Listening in Workplace Communication (6 marks):
+Ensures Accurate Understanding: Reduces errors and misunderstandings by clarifying
+instructions. Example: Employees correctly following project deadlines. Improves Decision-
+Making: Managers can make informed choices by carefully listening to reports and feedback.
+Builds Strong Relationships: Shows respect and empathy, fostering trust between colleagues
+and supervisors. Enhances Conflict Resolution: Active listening helps identify root causes of
+disagreements and promotes solutions. Boosts Productivity: Clear instructions and reduced
+repetition save time and effort. Encourages Employee Participation: When employees feel
+heard, they become more engaged and motivated.
+Conclusion: Hearing is simply receiving sound, while listening involves active interpretation
+and response. In the workplace, active listening is crucial for accuracy, trust, productivity, and
+collaboration.
+2. Draft a Job job Application application Letter letter and (5 marks): resume Salutation in response and to Introduction: the following 1 job mark; advertisement Relevance -. and   10
+Connection to Company: 1 mark; Body Content and Detail: 1 mark; Closing and Call to
+Action: 1 mark; Language and Grammar: 1 mark
+Resume (5 marks): Format and Layout: 1 mark; Education: 1 mark; Skills: 1 mark;
+Experience: 1 mark; Grammar and Clarity: 1 mark
+3.   Answer the following questions -   10
+a.   5
+Identification of Ramesh Verma as an effective listener – 1 Mark
+Analysis of effective listening in the situation (informal meetings, encouraging participants to
+share thoughts, encouraging hesitant participants to contribute) – 3 Marks
+Connection of positive impact of listening – company’s growth and better workplace relations
+– 1 Mark
+Page 2 of 3
+--- page 3 ---
+In this situation, Ramesh Verma emerges an effective listener. As an MD, he uses listening as a
+management tool. By holding informal meetings, he created opportunities for employees and
+dealers to share their ideas. As a skilled listener, he showed an open-mindedness as he
+welcomed perspectives and encouraged all his participants (active and hesitant) to contribute.
+Additionally, he considered and implemented the ideas. Thus, ultimately, his effective listening
+skills proved beneficial for both the company’s growth and workplace relations. The
+operational performance of the company increased and employees and dealers felt valued as
+their perspectives were considered and implemented.
+b.   5
+Analysis of violation – 2 Marks
+Rewritten email – 3 Marks (2 marks for incorporating email etiquette and 1 mark for structure
+and grammar)
+Analysis of violation -
+The HR associate’s reply demonstrates multiple etiquette violations. By using the “Reply All”
+option, he unnecessarily sent his message to more than 150 staff members instead of directing
+it to the concerned coordinator. This will create inbox clutter for the entire staff. The subject
+line of his response remained the same as the original mail, making it difficult to identify the
+purpose of his reply. He should have highlighted the acceptance of the invitation in the subject
+line. Furthermore, the content of the email was extremely brief and vague, lacking important
+details such as his specific availability or willingness to volunteer. He has also not mentioned
+his name and designation in the email. Thus, such a response does not reflect professionalism
+or clarity.
+Sample Rewritten Email -
+From: hr.associate@marketingmania.com
+To: trainingcoordinator@marketingmania.com
+Subject: Availability for Training Program – Shreyas Verma
+Dear Seema Bhatnagar,
+I would like to confirm my interest in volunteering for the upcoming training program. I am
+available on 23rd November from 2 PM to 4 PM and would be happy to contribute. Please let
+me know the next steps.
+Best regards,
+Shreyas Verma
+HR Associate
+MarketingMania
+Page 3 of 3
+````
+
+## 2025-26 · Re-Exam · Sem 1 · Answer key · paper 864c770b2d22
+
+- Departments: B.Sc Information Technology
+- Programmes: Bachelor of Science (Information Technology) - 45618
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Science (Information Technology) - 45618/Communication Skills I/ANS_Re-Exam_Communication Skills I(NHENG110)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 17 Jan 2026
+- Text: text (3 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Communication Skills I
+Date: 17 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use fictitious names wherever necessary
+1.   Answer the following - (Attempt Any 1 Question)   10
+a. Modes of Oral and Written Communication in Workplace (3 marks)   10
+Oral Communication: Face-to-face meetings, Presentations Telephone/Video calls, Group
+discussions, meetings
+Written Communication: Emails, Reports, Circulars & Notices, Business letters, Memos &
+Minutes of Meetings
+Globalization and Communication Needs (7 marks)
+Impact of Globalization: Workplace is multicultural and multilingual. Rise in cross-border
+teams and virtual collaboration. Need for clarity, cultural sensitivity, and adaptability. Growth
+of digital platforms (Zoom, Slack, Teams) for instant communication. Increased demand for
+proficiency in global business English. Importance of Communication in Corporate Decision-
+Making: Facilitates information flow between levels of management. Helps in analyzing
+problems and evaluating alternatives. Ensures participation of stakeholders in decisions.
+Builds consensus and reduces conflicts. Leads to effective implementation of decisions.
+Enhances transparency and accountability in business processes.
+Modes of oral/written communication: 3 marks
+Globalization impact + Importance in decision-making: 7 marks
+b.   Difference between Hearing and Listening (4 marks):   10
+Page 1 of 3
+--- page 2 ---
+Aspect
+Hearing Definition: The passive act of perceiving sound by the ear. Listening Definition:
+The active process of paying attention, understanding, and responding to sound.
+Nature: Hearing- Physiological – just receiving sound waves. Listening- Psychological &
+cognitive – requires focus, interpretation, and feedback.
+Effort: Hearing- Requires no conscious effort. Listening- Requires concentration, mental
+processing, and engagement.
+Example: Hearing- Hearing traffic noise while walking on the road. Listening- Listening
+attentively to a teacher’s lecture and taking notes.
+Importance of Active Listening in Workplace Communication (6 marks):
+Ensures Accurate Understanding: Reduces errors and misunderstandings by clarifying
+instructions. Example: Employees correctly following project deadlines. Improves Decision-
+Making: Managers can make informed choices by carefully listening to reports and feedback.
+Builds Strong Relationships: Shows respect and empathy, fostering trust between colleagues
+and supervisors. Enhances Conflict Resolution: Active listening helps identify root causes of
+disagreements and promotes solutions. Boosts Productivity: Clear instructions and reduced
+repetition save time and effort. Encourages Employee Participation: When employees feel
+heard, they become more engaged and motivated.
+Conclusion: Hearing is simply receiving sound, while listening involves active interpretation
+and response. In the workplace, active listening is crucial for accuracy, trust, productivity, and
+collaboration.
+2. Draft a Job job Application application Letter letter and (5 marks): resume Salutation in response and to Introduction: the following 1 job mark; advertisement Relevance -. and   10
+Connection to Company: 1 mark; Body Content and Detail: 1 mark; Closing and Call to
+Action: 1 mark; Language and Grammar: 1 mark
+Resume (5 marks): Format and Layout: 1 mark; Education: 1 mark; Skills: 1 mark;
+Experience: 1 mark; Grammar and Clarity: 1 mark
+3.   Answer the following questions -   10
+a.   5
+Identification of Ramesh Verma as an effective listener – 1 Mark
+Analysis of effective listening in the situation (informal meetings, encouraging participants to
+share thoughts, encouraging hesitant participants to contribute) – 3 Marks
+Connection of positive impact of listening – company’s growth and better workplace relations
+– 1 Mark
+Page 2 of 3
+--- page 3 ---
+In this situation, Ramesh Verma emerges an effective listener. As an MD, he uses listening as a
+management tool. By holding informal meetings, he created opportunities for employees and
+dealers to share their ideas. As a skilled listener, he showed an open-mindedness as he
+welcomed perspectives and encouraged all his participants (active and hesitant) to contribute.
+Additionally, he considered and implemented the ideas. Thus, ultimately, his effective listening
+skills proved beneficial for both the company’s growth and workplace relations. The
+operational performance of the company increased and employees and dealers felt valued as
+their perspectives were considered and implemented.
+b.   5
+Analysis of violation – 2 Marks
+Rewritten email – 3 Marks (2 marks for incorporating email etiquette and 1 mark for structure
+and grammar)
+Analysis of violation -
+The HR associate’s reply demonstrates multiple etiquette violations. By using the “Reply All”
+option, he unnecessarily sent his message to more than 150 staff members instead of directing
+it to the concerned coordinator. This will create inbox clutter for the entire staff. The subject
+line of his response remained the same as the original mail, making it difficult to identify the
+purpose of his reply. He should have highlighted the acceptance of the invitation in the subject
+line. Furthermore, the content of the email was extremely brief and vague, lacking important
+details such as his specific availability or willingness to volunteer. He has also not mentioned
+his name and designation in the email. Thus, such a response does not reflect professionalism
+or clarity.
+Sample Rewritten Email -
+From: hr.associate@marketingmania.com
+To: trainingcoordinator@marketingmania.com
+Subject: Availability for Training Program – Shreyas Verma
+Dear Seema Bhatnagar,
+I would like to confirm my interest in volunteering for the upcoming training program. I am
+available on 23rd November from 2 PM to 4 PM and would be happy to contribute. Please let
+me know the next steps.
+Best regards,
+Shreyas Verma
+HR Associate
+MarketingMania
+Page 3 of 3
+````
+
 ## 2024-25 · Final-Exam · Sem 1 · Answer key · paper fe360560dfcb
 
 - Departments: Data Science

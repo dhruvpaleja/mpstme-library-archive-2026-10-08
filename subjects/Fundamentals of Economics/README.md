@@ -1,6 +1,6 @@
 # Fundamentals of Economics
 
-**7** unique papers (7 copies across programmes) · 2021-22 to 2024-25 · 2 programmes · Sem 2
+**9** unique papers (9 copies across programmes) · 2021-22 to 2024-25 · 3 programmes · Sem 2
 
 Download only this subject, sorted by academic year:
 
@@ -17,6 +17,8 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech CSBS 7036 | QP_Fundamentals of Economics(702TG0C004)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSBS 7036 | ANS_Fundamentals of Economics(702TG0C004)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | B TECH | B Tech, Fundamentals of Economics, Sem-II, Batch 2022-23 & 2024-25, Re Exam.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 2 | BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE AND BUSINESS SYSTEMS) - 7036 | QP_Re-Exam_Fundamentals of Economics(702TG0C004)_Semester II_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE AND BUSINESS SYSTEMS) - 7036 | ANS_Re-Exam_Fundamentals of Economics(702TG0C004)_Semester II_2024-2025.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 2 | B TECH | Fundamentals of Economics, Sem-II, Year 2022-23, Final Exam & Re Exam.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 2 | B TECH | Fundamentals of Economics, Sem-II, Year_2020-21, 21-22 & 22-23, Re Exam.pdf |
 | 2021-22 | Final + Re-Exam | Question paper | Sem 2 | B TECH | Fundamentals of Economics Sem-II, Final Exam-2021-22 and Re Exam Batch 2020-21.pdf |

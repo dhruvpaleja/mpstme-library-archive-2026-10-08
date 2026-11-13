@@ -1,6 +1,6 @@
 # Chemistry II
 
-**38** unique papers (47 copies across programmes) · 2014-15 to 2024-25 · 9 programmes · Sem 2, Sem 3, Sem 4
+**43** unique papers (52 copies across programmes) · 2014-15 to 2024-25 · 11 programmes · Sem 2, Sem 3, Sem 4
 
 Download only this subject, sorted by academic year:
 
@@ -24,18 +24,23 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Final-Exam | Answer key | Sem 4 | Integrated DS 7038 | ANS_Chemistry-II(701BS0C017)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 3 | Integrated IT 7037 | ANS_Chemistry-II(701BS0C017)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 3 | Integrated Mechanical 7031 | ANS_Chemistry-II(701BS0C017)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 4 | B.TECH INTEGRATED | Chemistry_-II_Batch_2022-23_2023-24_2024-25_Re_Exam_We5YNFuAQf.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / ENGINEERING CHEMISTRY | Chemistry II Batch 2022-23,2024-25 Re Exam0001.pdf [2] |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / MECHANICAL | Chemistry II Batch 2022-23,2024-25 Re Exam0001.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 4 | BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7032 | QP_Re-Exam_Chemistry-II(701BS0C017)_Semester IV_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 4 | Integrated DS 7038 | QP_Chemistry-II(701BS0C017)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | Integrated IT 7037 | QP_Chemistry-II(701BS0C017)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | Integrated Mechanical 7031 | QP_Chemistry-II(701BS0C017)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 4 | BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7032 | ANS_Re-Exam_Chemistry-II(701BS0C017)_Semester IV_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 4 | Integrated DS 7038 | ANS_Chemistry-II(701BS0C017)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 3 | Integrated IT 7037 | ANS_Chemistry-II(701BS0C017)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 3 | Integrated Mechanical 7031 | ANS_Chemistry-II(701BS0C017)_2024-2025.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / DATA SCIENCE, B.TECH INTEGRATED / IT, B.TECH INTEGRATED / MECHANICAL | Chemistry II Batch 2023-24 Final Batch 22-23 Re Exam.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 4 | B.TECH INTEGRATED / DATA SCIENCE | Chemistry II Batch 2023-24 Final Batch 2022-23 Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / DATA SCIENCE, B.TECH INTEGRATED / IT, B.TECH INTEGRATED / MECHANICAL | Chemistry II Batch 2022-23,2023-24 Re Exam0001.pdf |
+| 2022-23 | Final-Exam | Question paper | Sem 4 | B.TECH INTEGRATED / COMPUTER | Chemistry_II_Batch_2022-23_Final_qeOfdCtD9I.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / ENGINEERING CHEMISTRY | Chemistry II Final Batch 2022-23.pdf [3] |
+| 2022-23 | Re-Exam | Question paper | Sem 4 | B.TECH INTEGRATED / COMPUTER | Chemistry_II_Batch_2022-23_Re_Exam0001_bLKO6PW1st.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / DATA SCIENCE, B.TECH INTEGRATED / IT, B.TECH INTEGRATED / MECHANICAL | Chemistry II Batch 2022-23 Re Exam0001.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / ENGINEERING CHEMISTRY | Chemistry II Batch 2022-23 Re Exam0001.pdf [4] |
 | 2018-19 | Final-Exam | Question paper | Sem 2 | B.TECH INTEGRATED | Chemistry II 2018-2019 Final.pdf |

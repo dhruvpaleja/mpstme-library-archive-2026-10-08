@@ -1,8 +1,60 @@
 # Digital Marketing: question papers in full
 
-32 unique papers · 2021-22 to 2025-26 · Mechanical, Computer Engineering, Information Technology, Chemical, Common (all branches), Artificial Intelligence, Data Science, Electronics and Telecommunication
+36 unique papers · 2021-22 to 2025-26 · Mechanical, Computer Engineering, Information Technology, B.Sc Information Technology, Chemical, Common (all branches), Artificial Intelligence, Data Science, Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 1 · paper 5cf76f3465db
+
+- Departments: B.Sc Information Technology
+- Programmes: Bachelor of Science (Information Technology) - 45618
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Science (Information Technology) - 45618/Digital Marketing/QP_Final-Exam_Digital Marketing(NHDMK106)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 10 Oct 2025
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Science (Information Technology)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Digital Marketing
+Date: 10 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. All questions are compulsory
+3. Each question has internal choice wherein, you can answer any two of the given three questions
+4. Answer to each new question to be started on a fresh page
+5. Support your answers with valid examples wherever necessary
+6. Figure in right hand side indicates full marks
+1.   Answer the following questions(Attempt Any 2 Questions)   10
+a. What is Marketing? Summarize the four Ps of Marketing.   5
+b. Compare and contrast the concepts of E-commerce and E-Business.   5
+c. A leading online bookstore redesigned its website, after receiving feedback from experts.   5
+Evaluate any four benefits the company can achieve from the newly well-designed
+website.
+2.   Answer the following questions(Attempt Any 2 Questions)   10
+a. A new bakery in Mumbai wants to attract online customers searching for cakes. Appraise   5
+the benefits of long-tail keyword research for them and suggest three possible long-tail
+keyword phrases they could use.
+b. A fashion startup wants to showcase its new collection and attract a wider audience;   5
+create a strategy using media-sharing sites to distribute engaging visual content and boost
+brand awareness.
+c. Examine the role of any five metrics in evaluating the success of an e-mail marketing   5
+Page 1 of 2
+--- page 2 ---
+campaign and overall digital marketing efforts.
+3.   Answer the following questions(Attempt Any 2 Questions)   10
+a. Write short notes for the following given software tools used in digital marketing.   5
+i. Sailthru
+ii. Optimove
+b. Analyze how Content Creation & Optimization and Distribution & Promotion form a   5
+crucial part of the Digital Marketing Process.
+c. Critically assess how the emerging concepts of ‘Good Internet’ and ‘Bad Internet’ influence   5
+digital marketing.
+Page 2 of 2
+````
 
 ## 2025-26 · Final-Exam · Sem 10 · paper 6f5d752a9fc1
 
@@ -602,6 +654,55 @@ SO- 3;
 BL- 3   driven brand. The company struggles to communicate its larger purpose.
 Apply the Brand Pyramid to reposition the brand.
 ********** 2 **********
+````
+
+## 2025-26 · Re-Exam · Sem 1 · paper a715dec28516
+
+- Departments: B.Sc Information Technology
+- Programmes: Bachelor of Science (Information Technology) - 45618
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Science (Information Technology) - 45618/Digital Marketing/QP_Re-Exam_Digital Marketing(NHDMK106)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 22 Jan 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Science (Information Technology)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Digital Marketing
+Date: 22 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. All questions are compulsory
+3. Each question has internal choice wherein, you can answer any two of the given three questions
+4. Answer to each new question to be started on a fresh page
+5. Support your answers with valid examples wherever necessary
+6. Figure in right hand side indicates full marks
+1.   Answer the following questions(Attempt Any 2 Questions)   10
+a. What is Marketing? Discuss any two objectives of marketing.   5
+b. Compare and contrast the concepts of E-Business and M-Commerce.   5
+c. Evaluate the effectiveness of Performance, Presence, Pleasure, Proximity, and Personal,   5
+as part of the 10 Ps of digital marketing, in contributing to a company’s long-term success
+in the digital marketplace.
+2.   Answer the following questions(Attempt Any 2 Questions)   10
+a. Illustrate with the help of a suitable example how a search engine works.   5
+b. A tech startup wants to build a community around its new productivity app; design a   5
+strategy using social networking sites to engage users, increase brand visibility, and
+leverage targeted advertising.
+c. Examine the impact of mobile market size and growth on digital marketing.   5
+3.   Answer the following questions(Attempt Any 2 Questions)   10
+Page 1 of 2
+--- page 2 ---
+a. Write short notes for the following given software tools used in digital marketing.   5
+i. HubSpot
+ii. Marketo
+b. Analyze how mind mapping can be applied in digital marketing. Provide any two suitable   5
+examples.
+c. Critically assess how the emerging concepts of ‘Good Internet’ and ‘Bad Internet’   5
+influence digital marketing.
+Page 2 of 2
 ````
 
 ## 2024-25 · Final-Exam · Sem 10 · paper b63abf33c98c

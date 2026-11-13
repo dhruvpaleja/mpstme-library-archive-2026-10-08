@@ -8,7 +8,9 @@ The portal listed **30,804 unique file IDs**: **30,152 accounted for**, **652 un
 
 ## PYQs by subject
 
-All 25,064 question-paper files are sorted into **1,123 subjects** in [`subjects/`](subjects/README.md): one folder per subject, each with a README listing every paper by year, exam, semester and programme. Spelling variants of the same subject are merged (for example `APPLIED MATHEMATICES II` and `Applied Mathematics II`), and papers the portal filed in the wrong folder are moved to the subject named in the file.
+All 25,900 question-paper files are sorted into **1,208 subjects** in [`subjects/`](subjects/README.md): one folder per subject, each with a README listing every paper by year, exam, semester and programme. Spelling variants of the same subject are merged (for example `APPLIED MATHEMATICES II` and `Applied Mathematics II`), and papers the portal filed in the wrong folder are moved to the subject named in the file.
+
+That is every file in `02_Question_Papers/` (25,064) plus 836 papers that exist only inside the portal's original ZIP downloads in `00_Original_Downloads/`; the archive's own organizer never extracted them (mostly 2025-26 papers of NMIMS commerce, science and arts programmes, and older B.Tech Integrated papers). Every member of every raw ZIP was checked: the rest are byte-identical to files already listed, or are syllabi. `question_bank/raw_zip_papers.jsonl` records each member with its SHA-256.
 
 Download one or more subjects, already sorted into `PYQs_By_Subject/<Subject>/<Academic year>/`:
 
@@ -28,7 +30,7 @@ Every question paper has also been read into text (PDF text layer where present,
 - `subjects/<Subject>/papers.md`: every paper of the subject in full, newest first.
 - `subjects/<Subject>/questions.jsonl`: one record per question or sub-question, with marks and CO/BL tags.
 - `subjects/<Subject>/papers.jsonl` and `answer_keys.md`: paper details, and answer keys where published.
-- [`departments/`](departments/README.md): subjects grouped by branch (Computer, IT, EXTC, Mechanical, Civil, ...).
+- [`departments/`](departments/README.md): subjects grouped by branch (Computer, IT, EXTC, Mechanical, Civil, ..., and Commerce, Management Studies, Science and Arts for the other NMIMS programmes found in the ZIP downloads).
 - [`question_bank/README.md`](question_bank/README.md): field definitions, coverage and accuracy notes.
 
 `build_question_bank.py` regenerates all of this; see its header for the OCR requirements.

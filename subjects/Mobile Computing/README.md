@@ -1,6 +1,6 @@
 # Mobile Computing
 
-**56** unique papers (61 copies across programmes) · 2011-12 to 2024-25 · 10 programmes · Sem 3, Sem 6, Sem 7, Sem 8, Sem 10, Sem 12, Trim 8
+**57** unique papers (62 copies across programmes) · 2011-12 to 2024-25 · 10 programmes · Sem 3, Sem 6, Sem 7, Sem 8, Sem 10, Sem 12, Trim 8
 
 Download only this subject, sorted by academic year:
 
@@ -32,6 +32,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2019-20 | Final-Exam | Question paper | Sem 7 | MBA TECH / I T | Mobile computing , Final 2019-20.pdf |
 | 2019-20 | Final-Exam | Question paper | Sem 3 | MCA | Mobile Computing 2019-20 Final.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 8 | B TECH / COMPUTER | MOBILE_COMPUTING_B TECH (COMPUTER), 2018-19_FINAL_EXAM_.pdf |
+| 2018-19 | Final-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / COMPUTER | Mobile_Computing_2018-19_Final_iHqeGPhhku.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 6 | MBA TECH / Computer | Mobile computing , Final 2018-19.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 7 | MBA TECH / I T | Mobile computing Final 2018-19.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 3 | MCA | Mobile Computing 2018-19 Final.pdf |

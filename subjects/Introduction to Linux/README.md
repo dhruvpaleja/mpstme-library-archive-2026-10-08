@@ -1,6 +1,6 @@
 # Introduction to Linux
 
-**1** unique papers (1 copies across programmes) · 2023-24 · 1 programme · Sem 4
+**3** unique papers (3 copies across programmes) · 2023-24 to 2024-25 · 2 programmes · Sem 4
 
 Download only this subject, sorted by academic year:
 
@@ -14,6 +14,8 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B.TECH INTEGRATED / IT | Introduction_to_Linux_Batch_2024-25_Final_Batch_2024-25_Re_Exam_YZpeQpVk30.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 4 | B.TECH INTEGRATED / MECHANICAL | Introduction to Linux Batch 2023-24 Final.pdf |
+| 2023-24 | Re-Exam | Question paper | Sem 4 | B.TECH INTEGRATED / IT | Introduction_to_Linix_Batch_2023-24_Re_Exam_W5kaa8Oloi.pdf |
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

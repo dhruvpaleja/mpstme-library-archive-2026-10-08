@@ -1,6 +1,6 @@
 # Cyber Security
 
-**28** unique papers (40 copies across programmes) · 2017-18 to 2025-26 · 10 programmes · Sem 3, Sem 4, Sem 6, Sem 10
+**30** unique papers (42 copies across programmes) · 2017-18 to 2025-26 · 10 programmes · Sem 3, Sem 4, Sem 6, Sem 10
 
 Download only this subject, sorted by academic year:
 
@@ -34,7 +34,9 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Re-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Cyber Security(702AI0E004)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 6 | B TECH / COMPUTER, MBA TECH / Computer | Cyber Security, Sem VI, Final Exam 2024-25 & Re Exam 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / COMPUTER | Cyber Security Batch 2024-25 Final Batch 2023-24 Re Exam.pdf |
+| 2024-25 | Final-Exam | Question paper | Sem 3 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Final-Exam_Cyber Security(703AI0C002)_Semester III_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | MCA | Cyber Security Batch 2024-25 Final.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Final-Exam_Cyber Security(703AI0C002)_Semester III_2024-2025.pdf |
 | 2023-24 | — | Question paper | Sem 6 | B TECH / COMPUTER, MBA TECH / Computer | Cyber Security, Sem-VI, Fianal 2023-24.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 3 | MCA | Cyber Security Batch 2023-24 Final.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 6 | B TECH / COMPUTER, MBA TECH / Computer | Cyber Security Re-exam 2023-2024.pdf |

@@ -1,0 +1,86 @@
+# Advanced Auditing II: question papers in full
+
+2 unique papers · 2025-26 to 2025-26 · Commerce
+
+Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 2 · paper 6e8973159af7
+
+- Departments: Commerce
+- Programmes: MASTER OF COMMERCE (ADVANCED ACCOUNTANCY) - 45701
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/MASTER OF COMMERCE (ADVANCED ACCOUNTANCY) - 45701/Advanced Auditing II/QP_Final-Exam_Advanced Auditing II(NIADA556)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 28 Mar 2026
+- Text: mixed (3 pages), mean OCR confidence 96.5
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: MASTER OF COMMERCE (ADVANCED ACCOUNTANCY)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Advanced Auditing II
+Date: 28 Mar 2026   Time: 08:00 am - 10:00 am (02:00 Hrs.)
+Max Marks: 60
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+1.   Answer the following.   15
+A.   8
+Explain the special features of audit of a Co-operative Society.
+B.   7
+Explain the provisions of CARO 2020 clause 3(ix) repayment of dues ?
+2.   Answer the following.   15
+A.   8
+Page 1 of 3
+--- page 2 ---
+B.   7
+Explain the Role of an auditor while using the work of the management expert?
+3.   Answer the following.   15
+A.   8
+B.   7
+Page 2 of 3
+--- page 3 ---
+4.
+
+You are the auditor of PQR Ltd. which is in the business of supplying food products to
+various airline companies operating aircrafts in domestic circle only. As per terms of
+agreement with airlines, the company needs to stock various non-perishable food items for
+coming one month (average holding of inventory to the tune of INR 75 Crores). Also the
+payment terms have been settled and the company receives payment in 45 days after the
+supply of goods. Everything was going-on well till the end of March 2020 when pandemic
+Covid hit the world and everything came to a stand still. Aviation sector was hit hard and
+there were no flights from April 2020 onwards. Consequently, the business of PQR Ltd. also
+got severely affected and the scheduled supplies of goods to airlines also were not made.
+Also, the liquidity position of airline companies got hit and the scheduled payments were also
+not received on due dates.
+
+As the auditor of PQR Ltd., what audit procedures would you perform to ensure that all
+subsequent events are considered, so that financial statements for the year ended 31.03.2020
+represent true & fair view?
+
+Answer the following.
+
+PRSH & Co is the statutory auditor of Make My Journey Ltd. The company is in the business
+of tours and travels. The annual turnover of the company is Rs. 2000 crores and profits are
+Rs. 190 crores. During the planning meeting of the management and the auditors, it was
+discussed that the management needs to provide written representation letter to the auditors
+for the preparation of the financial statements and for the completeness of the information
+provided to the auditor. At the time of closure of the audit, there has been some confusion
+about the requirements of the written representation letter. Management argued that
+representation need not be written, it can also be verbal which has been provided to the audit
+
+inconsistencies with other relevant information. State the course of action that the Auditor
+should take to ensure that the risk of material misstatement would be contained to a low level
+fixed as per materiality level.
+
+in a way, representation based on verbal discussions with the auditors has also got
+documented. Auditors explained that this is mandatory to obtain written representation in
+accordance with the requirements of SA 580. However, still some confusion remains
+regarding the date and period covered by the written representation. You are required to
+advise about the date of, and period covered by written representation in view of SA 580.
+
+Page 3 of 3
+
+15
+````

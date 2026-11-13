@@ -5298,6 +5298,315 @@ New markets
 FRR ICR 7 OI HOH
 ````
 
+## 2024-25 · Re-Exam · Sem 8 · Answer key · paper c620f555b09f
+
+- Departments: Data Science
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (DATA SCIENCE) - 7052
+- Source: `00_Original_Downloads/2024/67754__Semester VIII__context_fixed.zip :: Re-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (DATA SCIENCE) - 7052/Information System Management/ANS_Re-Exam_Information System Management(703TG0C003)_Semester VIII_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 05 Jul 2025
+- Text: text (8 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (EXTC)/MBA.
+Tech (IT)/MBA. Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2024-2025)
+Subject: Information System Management
+Date: 05 Jul 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 8 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No 1 is Compulsory
+5. Out of Remaining questions, attempt any__4__questions
+6. In all __5__questions to be attempted
+7. All Questions carry equal marks
+8. Assume suitable data if necessary
+Q1
+Section A   [10]
+a.   Mention the 6 strategic objectives for which any firm invests heavily in
+Information systems
+Answer: -
+•   Operational excellence
+CO- 1;
+• New products, services, and business models   [2]
+SO-1; BL-
+• Customer and supplier intimacy
+1   • Improved decision making
+•   Competitive advantage
+•   Survival
+b.   Provide one liner for all the information systems being used by different
+management groups.
+Answer: -
+Transaction processing systems
+Serve operational managers and staff
+CO-1; SO-   Perform and record daily routine transactions necessary to conduct business   [2]
+2; BL-2
+Management Information Systems
+Serve Middle management
+Provide reports on firm’s current performance, based on data from TPS
+Decision support systems
+Support nonroutine decision making
+********** 1 **********
+--- page 2 ---
+May use external information as well TPS / MIS data
+Executive Support Systems
+Support Senior management
+Address nonroutine decisions
+Requiring judgment, evaluation, and insight.
+c.   What are disruptive technologies – provide an example & also explain
+one liner about First movers and fast followers
+Answer: -
+Substitute products that perform as well as or better than existing product
+Technology that brings sweeping change to businesses, industries,
+CO-1,2;
+SO-3; BL-   markets   [2]
+3   Examples: personal computers, word processing software, the Internet,
+the PageRank algorithm
+First movers— inventors of disruptive technologies
+Fast followers— firms with the size and resources to capitalize on that
+technology
+d.   With proper diagram explain the difference between Push Versus Pull
+Based supply chain model.
+Answer: -
+CO- 3;
+SO-3; BL-   [2]
+3
+e.   A retail company wants to expand its e-commerce operations. Identify and
+CO-2;   explain the key Information Systems it should implement to support this
+SO4-; BL-   [2]
+growth.
+3
+Answer:
+********** 2 **********
+--- page 3 ---
+For a retail company expanding its e-commerce operations, several key
+Information Systems should be implemented to ensure efficiency, scalability,
+and a seamless customer experience. Here are the essential systems:
+E-Commerce Platform (Online Storefront System)
+Purpose: Enables online transactions, displays product catalogues, and
+manages customer orders.
+Customer Relationship Management (CRM) System
+Purpose: Manages customer interactions, tracks purchase history, and
+improves customer service.
+Enterprise Resource Planning (ERP) System
+Purpose: Integrates core business processes such as inventory, finance, and
+supply chain management.
+Payment Processing System
+Purpose: Handles secure online transactions and supports multiple payment
+methods.
+Section B
+By integrating collaboration tools, organizations can cultivate a culture of
+innovation, inclusivity, and efficiency, ultimately enhancing productivity and
+employee satisfaction. Justify!!
+Answer:
+Collaboration tools can significantly change an organization's culture by
+transforming how employees communicate, share knowledge, and work
+together. Here’s how:
+1. Encourages Open Communication and Transparency
+Q2
+•   Impact: Reduces hierarchical barriers and promotes a culture of
+CO-1,2,3;
+openness where employees at all levels can contribute ideas.   [10]
+SO-2; BL-
+4   • Example: Tools like Slack and Microsoft Teams enable real-time
+discussions, making information more accessible and reducing reliance
+on top-down communication.
+2. Enhances Teamwork and Cross-Department Collaboration
+•   Impact: Shifts the organization from siloed work structures to a more
+integrated, team-based approach.
+3. Promotes a Remote and Flexible Work Culture
+•   Impact: Encourages a shift from rigid office-based work to a more
+flexible, remote-friendly environment.
+********** 3 **********
+--- page 4 ---
+• Example: Zoom and Google Meet support virtual meetings, enabling
+remote teams to stay connected and engaged, fostering a culture of
+flexibility and work-life balance.
+4. Fosters a Knowledge-Sharing Environment
+•   Impact: Encourages employees to share expertise and best practices,
+creating a culture of continuous learning.
+• Example: Confluence and Google Docs allow employees to document
+and access organizational knowledge easily.
+5. Boosts Employee Engagement and Inclusion
+•   Impact: Gives employees a voice and creates a culture where everyone’s
+input is valued, regardless of their role or location.
+• Example: Yammer (Microsoft Viva Engage) provides a platform for
+company-wide discussions, allowing employees to share feedback and
+ideas.
+6. Accelerates Decision-Making and Agility
+•   Impact: Creates a culture of quick decision-making and adaptability by
+enabling faster access to information.
+• Example: AI-powered collaboration tools like Notion AI provide
+instant insights, helping teams make data-driven decisions faster.
+By integrating collaboration tools, organizations can cultivate a culture of
+innovation, inclusivity, and efficiency, ultimately enhancing productivity and
+employee satisfaction.
+Explain how E-commerce world is different from traditional strategies along
+with its types & revenue models
+Answer: -
+Ubiquity
+Marketspace is virtual
+Transaction costs reduced
+Global reach
+Q3   Transactions cross cultural and national boundaries
+[10]
+CO-2; SO-   Universal standards
+2; BL- 2
+One set of technology standards: Internet standards
+Richness
+Supports video, audio, and text messages
+Interactivity
+Information density / Greater price and cost transparency
+Enables price discrimination / Personalization/customization
+Technology permits modification of messages, goods
+********** 4 **********
+--- page 5 ---
+Social technology
+Promotes user content generation and social networking
+Types of E-commerce
+Business-to-consumer (B2C)
+Business-to-business (B2B)
+Consumer-to-consumer (C2C)
+E-commerce Revenue Models
+•   Advertising
+•   Sales
+•   Subscription
+• Free/Premium
+•   Transaction fee
+•   Affiliate
+Evaluate the role of artificial intelligence (AI) and big data in enhancing
+collaboration within multinational corporations. What are the potential risks
+and limitations of relying on AI-driven decision-making?
+Answer:
+Artificial Intelligence (AI) and Big Data are transforming collaboration in
+multinational corporations by improving communication, decision-making, and
+operational efficiency across global teams.
+1. Enhanced Real-Time Communication & Coordination
+•   AI-driven chatbots and virtual assistants facilitate instant support and
+Q4   streamline internal communication (e.g., Microsoft Co-pilot, ChatGPT
+for Teams).
+CO-2,3;   [10]
+SO-2; BL-   • Big Data analytics enable real-time tracking of projects, ensuring cross-
+2   functional teams work efficiently across different time zones.
+2. Data-Driven Decision-Making & Predictive Insights
+• AI algorithms analyse large datasets to provide actionable insights,
+helping global teams make faster and more accurate decisions.
+• Example: AI-powered dashboards (e.g., Tableau, Power BI) help
+multinational executives track market trends, consumer behaviour, and
+operational performance.
+Enhanced Customer Experience & Global Market Adaptation
+AI analyses customer feedback from diverse regions to tailor products and
+services for different cultural and economic preferences.
+********** 5 **********
+--- page 6 ---
+Risks & Limitations of AI-Driven Decision-Making
+1. Bias in AI Algorithms
+AI models can reflect biases present in training data, leading to discriminatory
+outcomes in hiring, pricing, or marketing strategies
+2.Over-Reliance on AI & Reduced Human Judgment
+AI-generated decisions may lack context, ethics, or emotional intelligence,
+leading to inappropriate or impersonal choices.
+3.Data Privacy & Security Concerns
+Storing vast amounts of data increases the risk of cyberattacks, data breaches,
+and non-compliance with privacy laws (e.g., GDPR, CCPA).
+4 Ethical & Legal Challenges
+AI-driven decisions can raise ethical dilemmas, such as employee surveillance,
+job automation leading to layoffs, or unfair pricing strategies.
+Provide the different types of Knowledge Management System along with a
+proper explanation & example.
+Answer
+Enterprise-wide knowledge management systems
+General-purpose firm-wide efforts to collect, store, distribute, and apply
+digital content and knowledge
+Knowledge work systems (KWS)
+Q5   Specialized systems built for engineers, scientists, other knowledge workers
+charged with discovering and creating new knowledge
+CO-2;   [10]
+SO;2   Intelligent techniques
+BL;2   Diverse group of techniques such as data mining used for various goals:
+discovering knowledge, distilling knowledge, discovering optimal solutions
+Three major types of knowledge in an enterprise
+Structured documents
+Reports, presentations
+Formal rules
+Semi structured documents
+E-mails, videos
+Unstructured, tacit knowledge
+Are systems vulnerable – Do justify your answer.? Also explain spoofing and
+its different types.
+Answer:
+Q6
+Accessibility of networks
+CO-2; SO-   Hardware problems (breakdowns, configuration errors, damage from improper   [10]
+use or crime)
+3; BL- 3
+Software problems (programming errors, installation errors, unauthorized
+changes)
+Disasters
+Use of networks/computers outside of firm’s control
+********** 6 **********
+--- page 7 ---
+Loss and theft of portable devices
+Spoofing
+Attempt to gain access to a network by posing as an authorized user to find
+sensitive information
+IP Spoofing
+Attacker changes his own IP address to spoofed address
+Can send messages to a machine masquerading as spoofed machine
+Email Spoofing
+Attacker sends messages masquerading as someone else
+Create an account with similar email address
+Web Spoofing
+Man-in-the-Middle Attack
+Attacker acts as a proxy between the web server and the client
+URL Rewriting
+Attacker redirects web traffic to another site that is controlled by the attacker
+Attacker writes his own web site address before the legitimate link
+Provide and explain in short, the components of IT infrastructure in detail.
+Answer:
+Computer Hardware Platforms
+Client machines
+Desktop PCs, laptops
+Mobile computing: smartphones, tablets
+Desktop chips vs. mobile chips
+Servers
+Mainframes
+Q7   Operating System Platforms
+Corporate servers   [10]
+CO-2; SO-
+2; BL-2   Windows Server
+Unix
+Linux
+Client level
+Microsoft Windows
+Android, iOS, Windows 10
+Cloud Computing
+Enterprise Software Applications
+Oracle / SAP - ERP
+********** 7 **********
+--- page 8 ---
+Data Management and Storage
+Database software providers
+IBM (DB2)
+Oracle
+Microsoft (SQL Server)
+Networking/Telecommunications Platforms
+Network operating systems
+Windows Server, Linux, Unix
+Telecommunication services
+Telecommunications, cable, telephone company charges for voice lines and
+Internet access
+AT&T, Verizon
+Internet Platforms
+Consulting and System Integration Services
+********** 8 **********
+````
+
 ## 2024-25 · Re-Exam · Sem 8 · Answer key · paper 887832a61e29
 
 - Departments: Electronics and Telecommunication

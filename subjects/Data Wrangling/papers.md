@@ -1,8 +1,142 @@
 # Data Wrangling: question papers in full
 
-31 unique papers · 2022-23 to 2025-26 · Data Science, AI and Data Science, Artificial Intelligence, AI and Machine Learning
+34 unique papers · 2022-23 to 2025-26 · Data Science, AI and Data Science, Artificial Intelligence, AI and Machine Learning
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 2 · paper f8713492b37b
+
+- Departments: AI and Data Science
+- Programmes: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE) - 7056
+- Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE) - 7056/Data Wrangling/QP_Final-Exam_Data Wrangling(702DB0C036)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
+- Text: mixed (3 pages), mean OCR confidence 78.9
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND DATA
+SCIENCE)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Data Wrangling
+Date: 08 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+3. Question No. 1 is compulsory
+4. Out of remaining questions, attempt any 4 questions.
+5. In all 5 questions to be attempted
+6. All questions carry equal marks
+7. Answer to each new question to be started on a fresh page
+8. Figures in brackets on the right hand side indicate full marks
+9. Assume Suitable data if necessary
+Q.1a   Explain descriptive question and inferential question with suitable   5
+CO1   example in context to data science?
+BL2
+Understand
+Q.1b   A company records advertising expenditure (X) and sales revenue (Y)   5
+CO2   as follows:
+BL2   (10, 50), (15, 55), (20, 60), (25, 62), (30, 68)
+Understand Draw a scatter plot for the above data and interpret the pattern
+observed and explain the relationship between the variables
+Q.1c   Differentiate between OLTP and OLAP system?   5
+CO5
+BL2
+Understand
+Q.1d   Explain any two characteristics of data warehouse?   5
+CO4
+BL2
+Understand
+Q.2a   Explain the lifecycle of Data Science and describe how it can be   10
+CO1   applied to the use case of student placement prediction in an
+BL3   educational institution.
+Apply
+Q.2b   The marks of students are: 55, 57, 56, 58, 60, 59, 95. Detect the outlier 10
+CO2   using both Z-score (consider population data) and IQR methods.
+BL3
+Apply
+Q.3a   What are Label Encoding and One-Hot Encoding techniques in   10
+CO2   machine learning preprocessing? A dataset contains a column
+BL3   “Vehicle Type” with categories Car, Bus, Motorcycle, Bicycle, and
+Apply   Truck. Explain the methods and perform both Label Encoding and
+One-Hot Encoding.
+Q.3b   Explain Max-Abs Scaling and Robust Scaling. A column named   10
+CO2   “Monthly Product Sales” contains seven values: 40, 55, 70, 65, 90, 60
+BL3   and 50. Apply Max-Abs Scaling and Robust Scaling to this data.
+Apply
+********** 1 **********
+--- page 2 ---
+Q.4a   Write the code and corresponding output for each of the following:   10
+CO3   i) Create a NumPy array using arange() from 50 to 53 (included).
+BL3   ii) Convert the array into 2 × 2 matrix.
+Apply   iii) Print the matrix size.
+iv) Print the number of dimensions of matrix.
+v) Extract the last row of 2 × 2 matrix.
+Q.4b   Create two 3 × 3 NumPy arrays.   10
+CO3   Array A contains 2, 4, 6; 8, 10, 12; 14, 16, 18.
+BL3   Array B contains 1, 3, 5; 7, 9, 11; 13, 15, 17.
+Apply   Using nested for loops, perform following and show the output:
+a) Element-wise subtraction (Array A - Array B)
+b) Element-wise division (Array A/Array B)
+Q.5a   Create a DataFrame employee_df with columns: Employee_ID, Salary, 10
+CO3   Experience, Gender, Department
+BL3   The rows are:
+Apply   Rows:
+Row1: 201, 50000, 3, Male, HR
+Row2: 202, Salary missing, 5, Female, Finance
+Row3: 203, 60000, Experience missing, Male, IT
+Row4: 204, 55000, 4, Female, Marketing
+Row5: 205, 52000, 2, Male, IT
+Perform the following with appropriate code:
+i) Create the DataFrame
+ii) Select Employee_ID, Salary, Department (without loc/iloc)
+iii) Write code to check sum of missing values in each column
+iv) Replace missing values using mean of the respective column.
+Q.5b   Given DataFrame employee_df   10
+CO3   Emp_ID Salary Experience Gender Department
+BL3   0   201 50000   3   Male   HR
+Apply   1   202 60000   5   Female Finance
+2   203 55000   4   Male   IT
+3   204 65000   6   Female HR
+4   205 52000   2   Male   IT
+5   206 58000   4   Female Finance
+6   207 62000   5   Male   HR
+i) What will be output of print(employee_df.head(4))
+ii) What will be output of employee_df.iloc[1:4,1:3]
+iii) Write query where Salary > 55000 OR Department = IT. Also write
+the output.
+iv) Write code to Sort dataframe by Salary and show output.
+v)Write code to rename columns using rename function for:
+Emp_ID → EmployeeID, Salary → Income, Experience → Exp.
+Q.6a   Explain the concept of OLAP systems and their role in analytical 10
+CO4   processing.
+BL2
+Understand
+Q.6b   Explain all the stages of the ETL process.   10
+CO5
+BL2
+Understand
+Q.7a   What is meant by data quality tool. Explain data profiling and data   10
+CO5   validation for data quality tool functions.
+BL2
+Understand
+********** 2 **********
+--- page 3 ---
+Q.7b
+Co4
+BL2
+Understand
+
+Explain the concept of unit testing and system testing in data
+warehouse?
+
+10
+
+FC QI a iar
+````
 
 ## 2025-26 · Final-Exam · Sem 3 · paper 9d635be3a9a2
 
@@ -1765,6 +1899,220 @@ oe ge Justify the statement” Metadata act as a nerve center in data warehouse�
 BL-2
 
 Also explain the types of Meta data.
+````
+
+## 2024-25 · Re-Exam · Sem 7 · paper cc201902c906
+
+- Departments: Data Science
+- Programmes: B.TECH INTEGRATED / DATA SCIENCE
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: DATA SCIENCE/SEMESTER VII/Data Wrangling/Data_Wrangling_Batch_2024-25_Re_Exam0001_mArCp5CASw.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 90.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+
+»
+
+Program/s: B Tech/ MBA Tech/BTI : Year: II/IV Semester: III/VII
+Stream/s ; Data Science, AIDS, CSE- DS .
+
+Subject: Data Wrangling . Time: 03 hrs (jp: ocemto Zé opm)
+Date:_20 / 2 / 2024 No. of Pages:_04
+
+Marks: 100
+
+Re Examination (24-25)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+o>
+1) Question No. _1____ is compulsory.
+2) Out of remaining questions, attempt any __4 __ questions.
+3) Inall___5_ questions to be attempted. es
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+1
+Q Answer briefly:
+CO-1;SO-1; Ja. :
+BLA Write a note on raw data vs processed data [05]
+SS PRISE | Justify the statement: - If any step in the ETL process is compromised, the | [95]
+BL-2 quality of the entire data pipeline can suffer
+(| CO- 1; SO-1; | c. . oo. . . .
+Fist Discuss applications of data science in the domain of finance. [0S]
+CO-3;SO-1; | 4. _ : :
+- Explain with a simple example, TYPE-1 in SCD. [05]
+Q2 A CO-3; a 3 ‘ : ie as
+Explain in detail, the architecture of DW with diagram [10]
+SO-3; BL-1
+Q2B
+CO-3; SO-3: compare OLAP vs OLTP [10]
+BL-2
+QA
+CO-3; SO-3; Write a detailed note on operational data store [10]
+BL-1
+
+Poae |
+--- page 2 ---
+Q3B CO-1;
+
+x
+
+SO-3; BL-1 Enlist the importance of Data cleaning and explain the steps involved init | [10]
+Q4A
+CO-3; SO-2; Explain front room and back room of a DW with diagram [10]
+BL-1
+
+CHOOSE THE CORRECT OPTION AND PROVIDE EXPLANATION.
+In which phase of the data science lifecycle would you handle missing data and
+create new features?
+A) Discovery
+B) Data Preparation
+C) Model Building
+D) Communicate Results
+At what stage would you decide on which machine-learning algorithm to use?
+A) Data Preparation A
+B) Model Planning
+C) Operationalize
+D) Discovery
+During which phase would you define the business objectives and identify key
+Q4B stakeholders for the project?
+CO-1; SO-2; A) Model Planning [10]
+B) Discovery
+BL-2 C) Model Building
+D) Data Preparation
+Which step in the lifecycle includes optimizing model parameters and training
+the model on the selected data?
+A) Model Building
+B) Data Preparation
+C) Communicate Results
+D) Discovery
+In which phase would you create visualizations to explain the results of the
+model and recommend business actions to stakeholders?
+A) Data Preparation
+B) Model Building
+C) Communicate Results
+D) Operationalize
+
+Q5A
+
+CO-3; SO-2; Explain Security mechanism in a Data Warehouse environment [10]
+BL-1
+
+Q5B
+
+CO-3; SO-2; With a neat figure, explain open database connectivity in ETL process [10]
+BL-1
+
+age 2-
+--- page 3 ---
+¥
+
+Create a data frame of 4 Rows & 5 Columns and determine the following
+things mentioned below with proper explanation and codes (using
+PYTHON) :
+Write a code to arrange the any one Column in Descending order.
+
+Write a code to find out the unique value in any one column
+Write a code to find out the most common value in whole data frame
+
+OR
+Q6A Create a matrix INDIA_PLAYERS to store the following information
+CO-2; SO-2; [10]
+RUNS CENTURIES WICKET
+BL-3
+VIRAT 10000 25 30
+ROHIT 8000 39 20
+HARDIK 9000 #19) 150
+Explain & write a code to extract the value of VIRAT CENTURIES
+Explain & write a code to determine which player has the highest number
+of wickets
+Explain & determine using code what is the total of RUNS of all players
+(Using R PROGRAMMING)
+Write a program to create data frame having 5 rows and 7 columns with
+some (Dollar) $ values. Create new data frame using the existing data
+frame with user defined rows and columns indices and the empty fields are
+the fields with value 41 (using PYTHON)
+OR
+Create a data frame GAME to store the following information: -
+team points assists rebounds
+A 99 22 30
+A 68 28 28
+Q6B
+A 86 31 24 [10]
+CO-2; SO-2;
+A 88 35 24
+BL-3
+B 95 34 30
+8B 74 45 36
+B 78 28 30
+B 93 31 29
+
+Explain using code: - Add a new column called RATING giving A+ to
+TEAM A and B+ to TEAM B. (Using R PROGRAMMING)
+How will you display the top 3 rows of data frame GAME
+
+How will you display the BOTTOM 3 rows of data frame GAME
+
+Page 3
+--- page 4 ---
+Q7A
+CO2-; SO-2;
+BL-3
+
+Write the python program to create the additional column in the data frame
+using a user-defined function. Consider that your data frame has attributes
+a, b, c, and d. Write user defined function to add new attribute distance.
+(V(a-c) + (6-d))
+(Using PYTHON)
+
+OR
+Create a vector V1 having elements as: -
+58 11 14 17 20 23 26 29 32 35 38 41 44 47 50 53 56 59 62 65 68 71 74 77
+80 83 86 89 92 95 98
+How will you determine the number of elements present in it
+Is the number 44 present in it? If yes, what is its index?
+Replace the number 98 with 99
+(Using R PROGRAMMING).
+
+[10]
+
+Q7B
+CO-2; SO-2;
+BL-3
+
+Write Python code to perform Exploratory Data Analysis of any CSV
+file. Also, add the Python code to draw the histogram of a particular
+attribute using bin size 10.
+
+OR
+
+Observe the code below in R PROGRAMMING and predict the .
+output for the bold statement. Provide brief explanation: -
+
+>height = c (58 ,59, 60, 61, 62, 63 ,64, 65 ,66 ,67 ,68 ,69 ,70, 71, 72)
+>weight =c (115 ,117 120 ,123 ,126 ,129 ,132 ,135 ,139 ,142 ,146 ,150
+154 ,159 ,164)
+
+>A=data.frame(height,weight)
+>as.matrix(A)
+>length(as.matrix(A))
+
+> a[a$height>65 & a$weight>150,]
+
+> colnames(a)
+
+[10]
+
+gre. Y
+
+Page 4
 ````
 
 ## 2024-25 · Re-Exam · Sem 3 · paper a32a54e2ac7a

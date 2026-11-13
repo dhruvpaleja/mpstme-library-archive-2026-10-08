@@ -2,6 +2,103 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 10 · Answer key · paper 03579902766f
+
+- Departments: Data Science
+- Programmes: BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038
+- Source: `00_Original_Downloads/2025/76555__Semester X.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038/Introduction to Forensic Science/ANS_Final-Exam_Introduction to Forensic Science(702BS0I021)_Semester X_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
+- Text: mixed (3 pages), mean OCR confidence 21.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (COMP)/B. Tech (CSE - CS)/B. Tech (DS)/B. Tech Intg.
+(CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)/B. Tech (IT)/B. Tech
+(MECH)/MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (IT)
+Year: III / V/Semester VI/Semester X(Exam Year: 2025-2026)
+Subject: Introduction to Forensic Science
+Date: 16 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question No.1 is compulsory.
+3. Out of the remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1
+Answer the following
+CO-3; BL-1   a Image formation- 2M   [4M]
+Hand held systems-1M, collection of print-1M
+CO-2; BL-2   b   Determining origin of blood stains-4M   [4M]
+CO-1; BL-3   c   Entry and exit-1M each, at crime scene-2M   [4M]
+CO-1; BL-2   d Any 4 differences -1M each   [4M]
+CO-5; BL-3   e Any 4 pointers-1M each   [4M]
+Q2 CO-2; BL-4   a   1. Nails and hairs any relevant techniques with justification-1M   [10M]
+2. Drugs-any relevant techniques with justification-1M
+3. Trace arsenic and lead-any relevant techniques with justification-
+1M
+4. Ethyl alcohol-any relevant techniques with justification-1M
+5. Unknown crystalline sample-any relevant techniques with
+justification-1M
+CO-1; BL-2   b   Classify different types of evidence with examples 2 types-1M each   [10M]
+two different types of forensic principles applies to this case- 2M each
+If an eyewitness comes forward for the testimony of the above crime, but
+the investigation team discovers the eyewitness to be a sociopath, what
+are five behavioural symptoms of this category of people?- any 5 sign- 1M
+each
+Q3   Answer the following
+********** 1 **********
+--- page 2 ---
+CO-3;BL-4   a   Examine the relationship between the anatomical features of fingerprints-   [10M]
+3M and
+the development of latent prints on various surfaces- 3M, and
+evaluate the techniques a forensic expert would apply and analyse these
+prints -4M
+CO- 2; BL-3   b How does the blood fall and spatter- 4pointers-1M each   [10M]
+Discuss passive versus projected blood patterns any 3 pointers -3m each
+Q4   Answer the following
+CO- 1; BL-3   a   i. What will you interpret the blood pattern formed at a crime scene?-   [10M]
+identifying pattern with justification [2M]
+ii. justify for the analysis method chosen. [4M]
+iii. which principle is applicable- 2M here and why [2M]
+CO-2;BL-4   b   Differentiate the classes of explosives-3M   [10M]
+examine the motives and damages associated with explosions- any 5- 1M
+each,
+and investigate the procedures for collecting and analysing samples from
+an explosion site, including selection of suitable spectroscopic techniques
+with justification for the examination of explosive evidence.-2M
+Q5   Answer the following
+CO-5; BL-4   a   Analyze the above situation- type of crime, psychology behind it-3M and,   [10M]
+based on it explain the concepts of spamming- 2M and catfishing-2M and
+discuss the possible motives behind committing these cyber-crimes, any 3-
+1M each
+CO- 4; BL-3   b   4 stages with explanation and example- 2.5M each   [10M]
+Q6   Answer the following
+CO- 3; BL-2   a   Classify fingerprint ridge patterns.-any 2 classes 2M each   [4M]
+CO-2; BL-3   b   Explain IPC Section 84 with an appropriate example- 2M.   [10M]
+Correlate the class of persons belonging to section 84- 3M
+principle of analysis- 3M and justify why this principle plays an important
+role in the justice system-2M
+CO-1; BL-1   c   Define narcotics- 1M and toxicology-1M. Discuss ant two types of   [6M]
+toxicology with the help of suitable examples-2M each
+Q7   Answer the following
+CO-5; BL-2   a   Compare conventional versus computer crimes-any 3 pointers discussion -   [6M]
+2M each
+CO-1; BL-4   b   Classify mental illnesses based on disorders with appropriate examples.-   [10M]
+any 5 types with brief discussion- 2M each
+CO-4; BL-3   c   Any four motives behind the act- 1M each   [4M]
+********** 2 **********
+--- page 3 ---
+FC QI a iar
+````
+
 ## 2025-26 · Final-Exam · Sem 5 · Answer key · paper 80826390a96e
 
 - Departments: Artificial Intelligence, Computer Engineering, Cyber Security, Data Science, Electronics and Telecommunication, Information Technology, Mechanical, Mechatronics

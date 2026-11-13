@@ -1,6 +1,6 @@
 # Physics
 
-**105** unique papers (165 copies across programmes) · 2022-23 to 2025-26 · 20 programmes · Sem 1, Sem 2
+**111** unique papers (171 copies across programmes) · 2022-23 to 2025-26 · 22 programmes · Sem 1, Sem 2
 
 Download only this subject, sorted by academic year:
 
@@ -33,6 +33,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Final-Exam | Answer key | Sem 1 | BTech EXTC 7006 | ANS_Physics(702BS0C002)_2025-2026_b2543ee332.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 1 | BTech IT 7001 | ANS_Physics(702BS0C002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | B TECH | B Tech, Physics, Sem-II, Batch 2025-26, Re Exam.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) - 7003 | QP_Re-Exam_Physics(702BS0C002)_Semester II_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | BTech AI 7012, BTech Computer 7002, BTech CSBS 7036, BTech CSE DS 7057, BTech CyberSecurity 7010, BTech EXTC 7006, BTech IT 7001, BTech Mechatronics 7004, MBATech AI 7051, MBATech Computer 7047, MBATech IT 7041 | QP_Physics(702BS0C002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | BTech AIDS 7056 | QP_Physics(702BS0C002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | BTech AIML 7053 | QP_Physics(702BS0C002)_2025-2026.pdf |
@@ -42,6 +43,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Re-Exam | Question paper | Sem 1 | BTech DS 7009 | QP_Physics(702BS0C002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | BTech EXTC 7006 | QP_Physics(702BS0C002)_2025-2026_2ae7a86672.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | MBATech DS 7052 | QP_Physics(702BS0C002)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) - 7003 | ANS_Re-Exam_Physics(702BS0C002)_Semester II_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 1 | BTech AI 7012, BTech Computer 7002, BTech CSBS 7036, BTech CSE DS 7057, BTech CyberSecurity 7010, BTech DS 7009, BTech EXTC 7006, BTech IT 7001, BTech Mechatronics 7004, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052 | ANS_Physics(702BS0C002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 1 | BTech AIDS 7056 | ANS_Physics(702BS0C002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 1 | BTech AIML 7053 | ANS_Physics(702BS0C002)_2025-2026.pdf |
@@ -50,6 +52,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Re-Exam | Answer key | Sem 2 | BTech Civil 7005 | ANS_Physics(702BS0C002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 1 | BTech EXTC 7006 | ANS_Physics(702BS0C002)_2025-2026_48454cd7f2.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 1 | B TECH | Physics, Sem-I, Final Exam 2024-25 & Re Exam 2023-24, 22-23.pdf |
+| 2024-25 | Final-Exam | Question paper | Sem 2 | BACHELOR OF TECHNOLOGY(CIVIL ENGINEERING) - 7005 | QP_Final-Exam_Physics(702BS0C002)_Semester II_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | BTech AI 7012 | QP_Physics(702BS0C002)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | BTech AIDS 7056 | QP_Physics(702BS0C002)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | BTech AIML 7053 | QP_Physics(702BS0C002)_2024-2025.pdf |
@@ -66,6 +69,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Final-Exam | Question paper | Sem 1 | MBATech Computer 7047 | QP_Physics(702BS0C002)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | MBATech DS 7052 | QP_Physics(702BS0C002)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | MBATech IT 7041 | QP_Physics(702BS0C002)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BACHELOR OF TECHNOLOGY(CIVIL ENGINEERING) - 7005 | ANS_Final-Exam_Physics(702BS0C002)_Semester II_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 1 | BTech AI 7012 | ANS_Physics(702BS0C002)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 1 | BTech AIDS 7056 | ANS_Physics(702BS0C002)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 1 | BTech AIML 7053 | ANS_Physics(702BS0C002)_2024-2025.pdf |
@@ -84,6 +88,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Final-Exam | Answer key | Sem 1 | MBATech IT 7041 | ANS_Physics(702BS0C002)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | B TECH, MBA TECH | Physics, Sem-I, Batch 2024-25, Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | B TECH | B Tech, Physics, Sem-II, Batch 2022-23, 2023-24, 2024-25, Re Exam.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 2 | BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) - 7003 | QP_Re-Exam_Physics(702BS0C002)_Semester II_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | B TECH, BTech AI 7012, BTech Computer 7002, MBA TECH, MBATech Computer 7047, MBATech IT 7041 | QP_Physics(702BS0C002)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | BTech AIDS 7056 | QP_Physics(702BS0C002)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech CSE DS 7057 | QP_Physics(702BS0C002)_2024-2025.pdf |
@@ -97,6 +102,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Re-Exam | Question paper | Sem 1 | MBATech Computer 7047 | QP_Physics(702BS0C002)_2024-2025_04e042c1d5.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | MBATech DS 7052 | QP_Physics(702BS0C002)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | MBATech IT 7041 | QP_Physics(702BS0C002)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) - 7003 | ANS_Re-Exam_Physics(702BS0C002)_Semester II_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 1 | BTech AI 7012, BTech Computer 7002, MBATech Computer 7047, MBATech IT 7041 | ANS_Physics(702BS0C002)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 1 | BTech AIDS 7056 | ANS_Physics(702BS0C002)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CSE DS 7057 | ANS_Physics(702BS0C002)_2024-2025.pdf |

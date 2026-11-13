@@ -518,6 +518,1628 @@ A't=]|]0 1 -1/2
 FRR IC 7 I OH
 ````
 
+## 2024-25 · Final-Exam · Sem 4 · Answer key · paper 51ada1727e58
+
+- Departments: Computer Engineering
+- Programmes: BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7032
+- Source: `00_Original_Downloads/2024/67804__Semester IV__context_fixed.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7032/Mathematics-IV/ANS_Final-Exam_Mathematics-IV(701BS0C012)_Semester IV_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2025
+- Text: mixed (21 pages), mean OCR confidence 75.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)
+Year: II/Semester IV(Exam Year: 2024-2025)
+Subject: Mathematics-IV
+Date: 07 May 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 21 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figures in brackets on the right-hand side indicate full marks.
+4. Question No. 1 is compulsory
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+9. Scientific Calculator is allowed.
+Q.
+(1m)
+1
+a.
+(1m)
+(1m)
+1
+**********   **********
+--- page 2 ---
+Mixed Partial Derivative Dydz
+
+a ~ oy (22 3)
+
+= — [Qy27 2
+OyOx Oy w
+(1.5m)
+n-4 1 ee
+=242 2°97 2
+2 y
+oy dy 3 (1.5m)
+°- | Step 1: Compute the First Derivative ou
+“ = Ae® + B(-e *)
+* (1m)
+= Ae” — Be *
+Step 2: Compute the Second Derivative os
+dy ° :
+a = Ae* — B(-e ) (1m)
+= Ae*+ Be *
+Step 3: Substitute into the Differential Equation
+(Ae* + Be *) —(Ae*+ Be *)=0 (1m)
+Oo=0
+d.
+The direction cosines (DCs) are given by:
+l —6 (1m)
+cosa = =—
+VP +m? + n?
+m. —2 (1m)
+cos 8 = =
+VP + ome +n? 7
+1
+n 3 Gm)
+cosy =
+
+V2+im2+n? 7
+
+2
+
+DR ROR RK SRR RR
+--- page 3 ---
+1. Solve for a:
+
+(1m)
+a=4—-2=2
+2. Solve for ec: (1m)
+4
+2e=4 > e=-==2
+2
+3. Solve for b: (1m)
+b=6-3=3
+4. Solve for d: (1m)
+5d=25 => d= 25 =5
+5
+Given equation: (am)
+f(z) =2? —32+1=0
+Step 1: Find an interval |a, b] where f(a) and f(b) have opposite signs.
+We evaluate the function at some points:
+f(0) = (0)? —3(0) + 1=1
+f(l) = (a)? 30) +1=-1
+Since f(0) = Land f(1) = —1, the root lies in the interval {0, 1].
+(1m)
+Iteration 1
+Midpoint:
+a= Ort = 0.5
+2
+Function value at ry:
+f(0.5) = (0.5)? — 3(0.5) + 1 = 0.25 —1.5+1 = —0.25
+Since f(0) = land f(0.5) = —0.25, the root lies in [0, 0.5].
+(1m)
+Iteration 2
+Midpoint:
+ay = 2405 _ og 95
+2
+Function value at 22: (1m)
+f (0.25) = (0.25)? — 3(0.25) + 1 = 0.0625 — 0.75 + 1 = 0.3125
+Since f (0.25) = 0.3125 and f(0.5) = —0.25, the root lies in [0.25, 0.5).
+
+3
+
+DR ROR RK SRR RR
+--- page 4 ---
+ott =y—sin(#).
+
+Dividing both sides by x:
+
+d ;
+4 — 4 sin (4).
+
+dz (2m)
+Define v = 4, so that y = v2. Differentiating both sides:
+dy ; _du
+a. + a
+Substituting this into the equation:
++4 v P j o
+v+as =v—ainv.
+Step 2: Solve for v
+Simplify:
+oe = —sinv. (1m)
+Rearrange:
+du dx
+sinv x
+dv dx
+sinv r
+The integral of -2 is:
+sine
+v
+In| tan =|. (2m)
+2
+The integral of —& is:
+—In|2|+C.
+Thus,
+v
+In|tan <| =-—In|2z|+C.
+2 (1m)
+Step 4: Substitute Back v = 4
+y
+In |tan —} = —In|2|+C.
+22
+4
+
+DR ROR RK SRR RR
+--- page 5 ---
+3.2 = =-1
+D=|2 -3 4
+1 4 2
+
+-3 4 2 4 2 -3
+peal? ta eco a) m
+10 2 -1
+D=|5 -3 4
+7 4 2
+p, = 10| ; 2-25 +p 7 os (1m)
+3 10 -1
+D,=|2 5 4
+17 2
+5 4 24 25
+D, =3|7 3|-20|5 [+n | - (1m)
+3 2 410
+D,=|2 -3 5
+14 7
+D,= 3] *|-2); =| +10f; 7|
+=-31
+* £47 3
+D —225 225
+Fo=—= - ~~ 2.92
+D —T7 Ti (1m)
+Do —63 63
+Fy = = — cx 0.82
+dD —T7T TT
+(1m)
+D —31 31
+F,=-— = = — = 0.40
+D —T7 Ti
+(1m)
+
+5
+
+DR ROR RK SRR RR
+--- page 6 ---
+The given lines are:
+
+e-l yt+l 2-4
+
+2   -3 J
+e+2 y-3 2z+1
+1 4 -2
+
+The direction vectors of these lines are:
+
+2
+dy _ (2, —3, 1), dy _ (1,4, —2) Gm)
+d = dy mm dy
+Computing the determinant:
+ij k (2m)
+d=|2 -3 1
+1 4 -2
+So,
+d = (2,5,11)
+Step 3: Equation of the Required Line (2m)
+The vector equation of the required line is:
+r= (—2,2,1) + 4(2,5,11)
+The cartesian equation is:
++2 y—2 ze-1
+2 5 il (2m)
+6
+
+DR ROR RK SRR RR
+--- page 7 ---
+Rearrange to separate variables:
+
+dy
+
+i rp
+cos(a + y) o
+
+Introduce substitution:
+
+Let“ = © + y, so that:
+
+(1m)
+Substituting dy = di — da inte the equation:
+du — dx
+——_ = dx
+Cos u
+Rearrange:
+(1m)
+du dx
+=dx-+
+COs i cos u
+Rewriting:
+du dx
+— = dix
+COS it cos u
+du dx
+= dxz+ (2m)
+COs i cos u
+Since du = dx + dy, integrating directly gives:
+d
+[e- [o
+cos u
+(1m)
+
+Step 2: Integration
+
+[sccudu= [ax
+
+In| secu+tanu|=2+C
+
+Step 3: Substituting Back u = z+ y
+
+In|sec(2 +y)+tan(a+y)|=2+C
+
+7
+
+DR ROR RK SRR RR
+--- page 8 ---
+(1m)
+
+f2 9 -6
+AT=|]-5 1 4
+
+7 -3 8 (1m)
+Step 2: Compute Symmetric Matrix S
+T 2+2 —5+9 7+ (-6)
+g-At4 1 9+(-5) 141 -34+4 (2m)
+2 2] 647 4+(-3) 8+8
+1 4 4 1
+S=-]4 2 1
+2h1 1 16
+2 2 05
+S=]2 1 05
+05 05 8 (1m)
+Step 3: Compute Skew-Symmetric Matrix K
+_ ar 2-2 -5-9 7-(-6)
+x44 =; 9 —(—5) 1-1 —3-4
+6-7 4-(-3) 8-8 (2m)
+
+1 Oo -14 13
+kK=-)| 14 0 —7
+
+-13 7 0
+
+0 —T 6.5
+
+K= 7 0 —3.5
+—6.5 3.5 0
+
+DR ROR RK SRR RR
+--- page 9 ---
+Step 1: Find normal vectors
+
+* Forthe first plane 2 — y + 2 = 1, the normal vector is ny = (1,—1,1).
+
+* Forthe second plane 3a + 2y — 2 + 2 = 0, the normal vector is ng = (3,2, —1).
+
+Step 2: Compute the dot product
+The dot product of two vectors My « Ng is: (2m)
+(1,-1,1) - (3,2, -1) = (1 x 3) + (-1 x 2) + (1 x -1)
+=3-2-1l=0
+
+Since the dot product is zero, the vectors are perpendicular. Thus, the normals to the given planes are
+
+perpendicular, (2m)
+
+The direction vector of the line joining two points A(—3, 1,2) and B(2,3, 4) is:
+d= (2 — (-3),3- 1,4- 2) = (5,2, 2)
+Since the required plane is perpendicular to this line, its normal vector N is parallel to (5, 2, 2).
+
+Step 2: Find the equation of the plane
+
+The general equation of a plane passing through a point (279, yo, 20) with normal vector (A, B,C) is: (2m)
+A(a — ap) + Bly — yo) + C(z — 2) =0
+Substituting (—1, 2, 1) as the point and (5, 2, 2) as the normal:
+5(2 +1) +2(y—2)+2(z-1) =0
+fe +5+2y—-4+22-2=0 (2m)
+
+5a + 2y+2z2-1=0
+
+9
+
+DR ROR RK SRR RR
+--- page 10 ---
+7 . (2m)
+Step 1: Define the Function
+
+We need to find « such that:
+xv —25=0
+: (1m)
+Define:
+f(a) = a9 — 25
+¢ Checking values:
+
+© f(2) = 2% — 25 = 8 — 25 = —17 (negative)
+¢ f(3) = 3% — 25 = 27 — 25 = 2 (positive)
+
+So, we choose a = 2 andb = 3.
+
+Step 3: Apply the Regula Falsi Formula
+
+The formula for the new approximation 2, is:
+
+_ £0) OF(@)
+"FO)=F@)
+
+Iteration 1:
+2(2) — 3(-17)
+2) = ———_
+2 —(-17)
+4+51 55
+= r = — = 2.89
+2+17 19
+Iteration 2:
+
+Since f (2.89) = (2.89) — 25 = 24.13 — 25 = —0.87, we update a = 2.89 and keep b = 3.
+2.89(2) — 3(—0.87)
+2— (_0.87)
+
+_ 5.78 + 2.61 _ 8.39 ~ 2.92
+2+ 0.87 2.87
+
+r=
+
+10
+
+DR ROR RK SRR RR
+--- page 11 ---
+The rate of decay is directly proportional to the amount of substance present. This gives:
+
+dA
+
+—=-kA
+dt
+where:
+e Als the amount of substance at time t,
+e kis the proportionality constant,
+* The negative sign indicates decay. (1m)
+Step 2: Solve the Differential Equation
+Separating variables:
+dA
+— = —kdt
+A
+Integrating both sides:
+InA=—kt+C (2m)
+A=e“e kt
+Let e© = Cy, so:
+A=Cye ™
+1. Initial Condition: Att = 0, A = 27:
+27=C\e° (1m)
+C1 = 27
+So the equation becomes:
+A=27e *
+2. Find k using A = 8 att = 3:
+8=27e * (1m)
+—— -
+Using A = 27e 94955, substitute t = 4:
+A = 27e 9-4055(4)
+= 27e 1.622
+(1m)
+Approximating:
+e 18? ~ 0.197
+A = 27 x 0.197
+(2m)
+
+A = 5.32 grams
+
+11
+
+DR ROR RK SRR RR
+--- page 12 ---
+Let:
+« M be the event that the child has measles.
+e F be the event that the child has flu.
+
+e be the event that the child has a rash.
+
+Given data:
+
+e P(M) = 0.10 (Probability of measles)
+
+e P(F) = 0.90 (Probability of flu)
+
+¢ P(R|M) = 0.95 (Probability of rash given measles)
+
+e P(R\F) = 0.08 (Probability of rash given flu)
+
+2m
+We need to find P(M|R), the probability that the child has measles given that the child has a rash. (2m)
+Step 2: Use Bayes’ Theorem
+Bayes' Theorem states:
+P(R\|M)P(M)
+P(M|\R) = Sa
+where:
+P(R) = P(R|M)P(M) + P(R|F)P(F)
+Step 3: Compute P(R) (2m)
+P(R) = (0.95 x 0.10) + (0.08 x 0.90)
+= 0.095 + 0.072 = 0.167
+Step 4: Compute P(//|R) om)
+0.95 = 0.10
+P(M|R) — (0:95 * 9.10)
+0.167
+0.095
+~ 0.167
+es 0.569
+Final Answer
+(2m)
+
+The probability that the child has measles given that they have a rash is 0.569 (or 56.9%).
+
+12
+
+DR ROR RK SRR RR
+--- page 13 ---
+Step 2: Correct Mean Calculation
+
+The mean is given by:
+
+xy ux
+n (2m)
+
+Total sum of all observations using the incorrect mean:
+
+S = 100 x 40 = 4000
+
+Since one value was wrongly taken as 50 instead of 40, the correct sum should be:
+
+Scorvctea = 4000 — 50+ 40 = 3990
+
+Thus, the corrected mean is: (1m)
+
+= 3990
+
+X corrected —_ 100 = 39.9
+
+Step 3: Correct Standard Deviation Calculation
+
+The variance formula is:
+
+3 UX? _ gy
+
+on
+We first compute the total sum of squares using the incorrect variance:
+Sy = n(s? + X?)
+So = 100(5.1? + 40°) = 100(26.01 + 1600) = 162601
+Since we wrongly included 50? instead of 40°, we correct it:
+So corrected = 162601 — 50? + 40?
+= 162601 — 2500 + 1600 = 161701
+
+The corrected variance is:
+
+2 161701
+
+Scorrected = 100
+
+— (39.9)?
+= 1617.01 — 1592.01 = 25
+Thus, the corrected standard deviation is:
+
+Scorrected = V 25 = 5.0
+
+13
+
+DR ROR RK SRR RR
+--- page 14 ---
+_ [AP - (di x da)|
+
+D
+id
+
+where:
+e AP = (x1 — 20, y1 — yo, z1 — 2) is the vector from A to P,
+¢ d= (1,4, —9) is the direction vector of the line.
+Step 3: Compute Required Quantities
+Vector AP:
+AP = (5 — (—5),4 — (—3), -1 — 6) = (10,7, —7)
+
+Cross Product AP x d
+
+i j k (2m)
+APxd=/10 7 -7
+1 4 -9
+Expanding along the first row:
+(1m)
+
+= i(7 x (—9) — (—7 x 4)) —j(10 x (—9) — (-7 x 1)) + k(10 x 4-7 1)
+= i(—63 + 28) — j(—90 + 7) + k(40 — 7)
+
+= i(—35) — j(—83) + k(33)
+
+= (—35, 83, 33) Gm)
+
+Magnitude of Cross Product
+|AP x dj = 4/(—35)? + (83)? + (33)?
+= 4/1225 + 6889 + 1089
+
+= 9203 = 95.96 (1m)
+
+Magnitude of d
+|d| = \/1? + 4? + (—9)? = V1 +16 +81 = 98 ~ 9.9
+
+Step 4: Compute Distance
+
+|AP xd] 95.96
+
+D= Ta) = O9 = 9.7 (1m)
+14
+
+DR ROR RK SRR RR
+--- page 15 ---
+The system can be written as:
+
+AX =B
+(1m)
+where:
+4 3 2 x 60
+A=]1 2 3), X=ly], B= 145 (1m)
+6 2 3 z 70
+Step 2: Find the inverse of matrix A (1m)
+We compute:
+X=A'B
+Let's calculate this step-by-step. I'll perform these calculations.
+The solution to the system of equations is: (1m)
+e2=5, y=8 z=8
+Solving by row operations/ Adjoint method - 4marks
+1. Total balls in the bag:
+5+3+7=15
+2. Total ways to choose any 2 balls:
+15 15! 15 = 14
+Total combinations = = = = 105
+2 21(15 — 2)! 2
+(2m)
+3. Ways to choose 2 non-blue balls (i.e., only green and yellow):
+e Green and yellow balls = 5 + 7 = 12
+e Ways to choose 2 from these 12:
+12 12! 12x 11
+= = = 66
+2 2!(12 — 2)! 2
+4. Probability of choosing only non-blue balls:
+66
+P(No blue balls) = 105
+(2m)
+5. Probability of at least one blue ball:
+P(At least one blue) = 1 — P(No blue)
+66 39
+P(At least one blue) = 1 — —~ = = 0.3714
+105 105
+Thus, the probability that at least one of the two drawn balls is blue is 0.371 (or 37.14%). (2m)
+
+15
+
+DR ROR RK SRR RR
+--- page 16 ---
+Second derivative with respect to rc:
+
+fu as
+da? — ag BY)
+= bry
+Second derivative with respect to y:
+4
+Pu 8 5 4 an)
+aye _ By" + 4y )
+=04 12,"
+Mixed second derivative oe.
+Pu 8.5 (2m)
+andy > ay 8" y)
+= 32°
+
+2 Ou Pu Pu
+; 1 +y—
+Oxrdy Oy?
+
+Substituting the second derivatives:
+=a" (6xy) + 2ay(Bx") + y?(12y")
+= 62° y + Gary + 12y4
+= 1207y + 12y4
+= 12(0*y + y")
+
+= l2u
+
+16
+
+DR ROR RK SRR RR
+--- page 17 ---
+Given System of Equations:
+@+2y-—z=1
+22+ 5y-—z=3 (1m)
+a+ 3y+2z=6
+
+Step 1: Convert to Iterative Form
+
+To apply the Gauss-Seidel method, we solve for x, y, and z in terms of the other variables.
+
+Rewrite equations:
+
+1. Solve for x:
+
+2. Solve for y:
+3-—2a2+2z
+y= 5
+3. Solve for z:
+a 6—2-3y
+2
+(2m)
+Let us assume an initial guess:
+20, y®=0, 2%=0
+Iteration 1:
+1. Compute wl),
+2) =1-2(0)+0=1
+2. Compute y(): (2m)
+yo = 3=2@) +0 _ 3-2 _1_ 4,
+, 5 5 5
+3. Compute 2);
+2) = 6 — (1) — 3(0.2) _ 6—-1-0.6 _ 44 99
+2 2 2
+Iteration 2:
+(2m)
+1. Compute x);
+x2?) — 1—2(0.2)+2.2=1-04+4+2.2=28
+2. Compute y?):
+3 — 2(2.8) + 2.2 3— 5.6 + 2.2 —0.4
+y? — 3-228) _ - = —0.08
+5 5 5
+3. Compute 2),
+22) = 6 — (2.8) — 3(—0.08) _ 6 — 2.8 + 0.24 _ 3.44 -172 (1m)
+2 2 2
+17
+
+DR ROR RK SRR RR
+--- page 18 ---
+bore reer enemas
+
+aay + byg + cz + |
+
+d=
+Ve+P+e
+(1m)
+For the given plane equation:
+x+3y—2z=
+Rewriting in standard form:
+z+ 3y—-—22-9=0
+where a = 1, b = 3,¢ = —2, and d = —9. The given point is (4, 1,5). (1m)
+Substituting in the formula:
+gq — (4) + (8)) + (=2)(5) ~ 9
+1? + 3° + (—2)?
+(1m)
+|4+3-10-9
+VJ1l+94+4
+— 12|
+~ 4/14
+12 12/14 G14
+“i414 °° °«27
+(2m)
+(1m)
+(1m)
+(1m)
+18
+
+DR ROR RK SRR RR
+--- page 19 ---
+The standard linear form of a first-order differential equation is:
+
+© | p(x)y = Q(2)
+
+dx
+(1m)
+Dividing both sides by (1 + x’), we get:
+dy . Qn sin rt
+dx 1+a2"" 142?
+Step 2: Find the Integrating Factor (IF)
+The integrating factor is given by:
+LB. = ef Pile _ oJ oa
+(2m)
+since [ ada = In(1 + 2), we get:
+LF.=e") 142?
+Step 4: Integrate Both Sides
+(1m)
+
+Integrating both sides with respect to ©:
+
+[awa+e) = f sineas
+
+y(l+27)= —cosr+C
+
+Step 5: Solve for y
+
+—cosa+C
+1+ 2?
+
+19
+
+DR ROR RK SRR RR
+--- page 20 ---
+231100
+[Alj=|2 41010
+372001
+
+Now, we apply row operations to transform A into the identity matrix.
+
+Step 1: Make the first pivot element 1
+
+Divide row 1 by 2:
+
+2410 10 (2m)
+
+Step 2: Make first column below pivot 0
+Perfarm row operations:
+Ro > Ro _ 2Ri, Rs rd Rs _ 3A,
+
+1325 3 00
+010 -1 10
+035 -- 01
+
+20
+
+DR ROR RK SRR RR
+--- page 21 ---
+Step 3: Make second pivot element 1
+Multiply Ay by 1 (no change required):
+
+125 3 00 (2m)
+010 -1 10
+
+5 L 3 ;
+024-201
+
+Step 4: Make second column above and below pivot 0
+
+
+(2m)
+104 2 -2 0
+010 -1 1 0
+00 4 -1 -2 1
+Step 5: Make third pivot element 1
+Multiply Rg by 2:
+Rs + 2Rs
+104 2 -# 0
+0 1 0 -1 1 O
+0 0 1 —2 —-5 2 (2m)
+
+Step 6: Make third column above pivot 0
+
+1
+Ry > Ri - 58s
+
+100 38 -3 -1
+010-1 1 °40
+
+0 0 1 -y -& 2
+
+21
+
+DR ROR RK SRR RR
+````
+
+## 2024-25 · Final-Exam · Sem 4 · Answer key · paper ba284e026377
+
+- Departments: Data Science
+- Programmes: BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038
+- Source: `00_Original_Downloads/2024/67804__Semester IV__context_fixed.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038/Mathematics-IV/ANS_Final-Exam_Mathematics-IV(701BS0C012)_Semester IV_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2025
+- Text: mixed (21 pages), mean OCR confidence 75.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)
+Year: II/Semester IV(Exam Year: 2024-2025)
+Subject: Mathematics-IV
+Date: 07 May 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 21 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figures in brackets on the right-hand side indicate full marks.
+4. Question No. 1 is compulsory
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+9. Scientific Calculator is allowed.
+Q.
+(1m)
+1
+a.
+(1m)
+(1m)
+1
+**********   **********
+--- page 2 ---
+Mixed Partial Derivative Dydz
+
+a ~ oy (22 3)
+
+= — [Qy27 2
+OyOx Oy w
+(1.5m)
+n-4 1 ee
+=242 2°97 2
+2 y
+oy dy 3 (1.5m)
+°- | Step 1: Compute the First Derivative ou
+“ = Ae® + B(-e *)
+* (1m)
+= Ae” — Be *
+Step 2: Compute the Second Derivative os
+dy ° :
+a = Ae* — B(-e ) (1m)
+= Ae*+ Be *
+Step 3: Substitute into the Differential Equation
+(Ae* + Be *) —(Ae*+ Be *)=0 (1m)
+Oo=0
+d.
+The direction cosines (DCs) are given by:
+l —6 (1m)
+cosa = =—
+VP +m? + n?
+m. —2 (1m)
+cos 8 = =
+VP + ome +n? 7
+1
+n 3 Gm)
+cosy =
+
+V2+im2+n? 7
+
+2
+
+DR ROR RK SRR RR
+--- page 3 ---
+1. Solve for a:
+
+(1m)
+a=4—-2=2
+2. Solve for ec: (1m)
+4
+2e=4 > e=-==2
+2
+3. Solve for b: (1m)
+b=6-3=3
+4. Solve for d: (1m)
+5d=25 => d= 25 =5
+5
+Given equation: (am)
+f(z) =2? —32+1=0
+Step 1: Find an interval |a, b] where f(a) and f(b) have opposite signs.
+We evaluate the function at some points:
+f(0) = (0)? —3(0) + 1=1
+f(l) = (a)? 30) +1=-1
+Since f(0) = Land f(1) = —1, the root lies in the interval {0, 1].
+(1m)
+Iteration 1
+Midpoint:
+a= Ort = 0.5
+2
+Function value at ry:
+f(0.5) = (0.5)? — 3(0.5) + 1 = 0.25 —1.5+1 = —0.25
+Since f(0) = land f(0.5) = —0.25, the root lies in [0, 0.5].
+(1m)
+Iteration 2
+Midpoint:
+ay = 2405 _ og 95
+2
+Function value at 22: (1m)
+f (0.25) = (0.25)? — 3(0.25) + 1 = 0.0625 — 0.75 + 1 = 0.3125
+Since f (0.25) = 0.3125 and f(0.5) = —0.25, the root lies in [0.25, 0.5).
+
+3
+
+DR ROR RK SRR RR
+--- page 4 ---
+ott =y—sin(#).
+
+Dividing both sides by x:
+
+d ;
+4 — 4 sin (4).
+
+dz (2m)
+Define v = 4, so that y = v2. Differentiating both sides:
+dy ; _du
+a. + a
+Substituting this into the equation:
++4 v P j o
+v+as =v—ainv.
+Step 2: Solve for v
+Simplify:
+oe = —sinv. (1m)
+Rearrange:
+du dx
+sinv x
+dv dx
+sinv r
+The integral of -2 is:
+sine
+v
+In| tan =|. (2m)
+2
+The integral of —& is:
+—In|2|+C.
+Thus,
+v
+In|tan <| =-—In|2z|+C.
+2 (1m)
+Step 4: Substitute Back v = 4
+y
+In |tan —} = —In|2|+C.
+22
+4
+
+DR ROR RK SRR RR
+--- page 5 ---
+3.2 = =-1
+D=|2 -3 4
+1 4 2
+
+-3 4 2 4 2 -3
+peal? ta eco a) m
+10 2 -1
+D=|5 -3 4
+7 4 2
+p, = 10| ; 2-25 +p 7 os (1m)
+3 10 -1
+D,=|2 5 4
+17 2
+5 4 24 25
+D, =3|7 3|-20|5 [+n | - (1m)
+3 2 410
+D,=|2 -3 5
+14 7
+D,= 3] *|-2); =| +10f; 7|
+=-31
+* £47 3
+D —225 225
+Fo=—= - ~~ 2.92
+D —T7 Ti (1m)
+Do —63 63
+Fy = = — cx 0.82
+dD —T7T TT
+(1m)
+D —31 31
+F,=-— = = — = 0.40
+D —T7 Ti
+(1m)
+
+5
+
+DR ROR RK SRR RR
+--- page 6 ---
+The given lines are:
+
+e-l yt+l 2-4
+
+2   -3 J
+e+2 y-3 2z+1
+1 4 -2
+
+The direction vectors of these lines are:
+
+2
+dy _ (2, —3, 1), dy _ (1,4, —2) Gm)
+d = dy mm dy
+Computing the determinant:
+ij k (2m)
+d=|2 -3 1
+1 4 -2
+So,
+d = (2,5,11)
+Step 3: Equation of the Required Line (2m)
+The vector equation of the required line is:
+r= (—2,2,1) + 4(2,5,11)
+The cartesian equation is:
++2 y—2 ze-1
+2 5 il (2m)
+6
+
+DR ROR RK SRR RR
+--- page 7 ---
+Rearrange to separate variables:
+
+dy
+
+i rp
+cos(a + y) o
+
+Introduce substitution:
+
+Let“ = © + y, so that:
+
+(1m)
+Substituting dy = di — da inte the equation:
+du — dx
+——_ = dx
+Cos u
+Rearrange:
+(1m)
+du dx
+=dx-+
+COs i cos u
+Rewriting:
+du dx
+— = dix
+COS it cos u
+du dx
+= dxz+ (2m)
+COs i cos u
+Since du = dx + dy, integrating directly gives:
+d
+[e- [o
+cos u
+(1m)
+
+Step 2: Integration
+
+[sccudu= [ax
+
+In| secu+tanu|=2+C
+
+Step 3: Substituting Back u = z+ y
+
+In|sec(2 +y)+tan(a+y)|=2+C
+
+7
+
+DR ROR RK SRR RR
+--- page 8 ---
+(1m)
+
+f2 9 -6
+AT=|]-5 1 4
+
+7 -3 8 (1m)
+Step 2: Compute Symmetric Matrix S
+T 2+2 —5+9 7+ (-6)
+g-At4 1 9+(-5) 141 -34+4 (2m)
+2 2] 647 4+(-3) 8+8
+1 4 4 1
+S=-]4 2 1
+2h1 1 16
+2 2 05
+S=]2 1 05
+05 05 8 (1m)
+Step 3: Compute Skew-Symmetric Matrix K
+_ ar 2-2 -5-9 7-(-6)
+x44 =; 9 —(—5) 1-1 —3-4
+6-7 4-(-3) 8-8 (2m)
+
+1 Oo -14 13
+kK=-)| 14 0 —7
+
+-13 7 0
+
+0 —T 6.5
+
+K= 7 0 —3.5
+—6.5 3.5 0
+
+DR ROR RK SRR RR
+--- page 9 ---
+Step 1: Find normal vectors
+
+* Forthe first plane 2 — y + 2 = 1, the normal vector is ny = (1,—1,1).
+
+* Forthe second plane 3a + 2y — 2 + 2 = 0, the normal vector is ng = (3,2, —1).
+
+Step 2: Compute the dot product
+The dot product of two vectors My « Ng is: (2m)
+(1,-1,1) - (3,2, -1) = (1 x 3) + (-1 x 2) + (1 x -1)
+=3-2-1l=0
+
+Since the dot product is zero, the vectors are perpendicular. Thus, the normals to the given planes are
+
+perpendicular, (2m)
+
+The direction vector of the line joining two points A(—3, 1,2) and B(2,3, 4) is:
+d= (2 — (-3),3- 1,4- 2) = (5,2, 2)
+Since the required plane is perpendicular to this line, its normal vector N is parallel to (5, 2, 2).
+
+Step 2: Find the equation of the plane
+
+The general equation of a plane passing through a point (279, yo, 20) with normal vector (A, B,C) is: (2m)
+A(a — ap) + Bly — yo) + C(z — 2) =0
+Substituting (—1, 2, 1) as the point and (5, 2, 2) as the normal:
+5(2 +1) +2(y—2)+2(z-1) =0
+fe +5+2y—-4+22-2=0 (2m)
+
+5a + 2y+2z2-1=0
+
+9
+
+DR ROR RK SRR RR
+--- page 10 ---
+7 . (2m)
+Step 1: Define the Function
+
+We need to find « such that:
+xv —25=0
+: (1m)
+Define:
+f(a) = a9 — 25
+¢ Checking values:
+
+© f(2) = 2% — 25 = 8 — 25 = —17 (negative)
+¢ f(3) = 3% — 25 = 27 — 25 = 2 (positive)
+
+So, we choose a = 2 andb = 3.
+
+Step 3: Apply the Regula Falsi Formula
+
+The formula for the new approximation 2, is:
+
+_ £0) OF(@)
+"FO)=F@)
+
+Iteration 1:
+2(2) — 3(-17)
+2) = ———_
+2 —(-17)
+4+51 55
+= r = — = 2.89
+2+17 19
+Iteration 2:
+
+Since f (2.89) = (2.89) — 25 = 24.13 — 25 = —0.87, we update a = 2.89 and keep b = 3.
+2.89(2) — 3(—0.87)
+2— (_0.87)
+
+_ 5.78 + 2.61 _ 8.39 ~ 2.92
+2+ 0.87 2.87
+
+r=
+
+10
+
+DR ROR RK SRR RR
+--- page 11 ---
+The rate of decay is directly proportional to the amount of substance present. This gives:
+
+dA
+
+—=-kA
+dt
+where:
+e Als the amount of substance at time t,
+e kis the proportionality constant,
+* The negative sign indicates decay. (1m)
+Step 2: Solve the Differential Equation
+Separating variables:
+dA
+— = —kdt
+A
+Integrating both sides:
+InA=—kt+C (2m)
+A=e“e kt
+Let e© = Cy, so:
+A=Cye ™
+1. Initial Condition: Att = 0, A = 27:
+27=C\e° (1m)
+C1 = 27
+So the equation becomes:
+A=27e *
+2. Find k using A = 8 att = 3:
+8=27e * (1m)
+—— -
+Using A = 27e 94955, substitute t = 4:
+A = 27e 9-4055(4)
+= 27e 1.622
+(1m)
+Approximating:
+e 18? ~ 0.197
+A = 27 x 0.197
+(2m)
+
+A = 5.32 grams
+
+11
+
+DR ROR RK SRR RR
+--- page 12 ---
+Let:
+« M be the event that the child has measles.
+e F be the event that the child has flu.
+
+e be the event that the child has a rash.
+
+Given data:
+
+e P(M) = 0.10 (Probability of measles)
+
+e P(F) = 0.90 (Probability of flu)
+
+¢ P(R|M) = 0.95 (Probability of rash given measles)
+
+e P(R\F) = 0.08 (Probability of rash given flu)
+
+2m
+We need to find P(M|R), the probability that the child has measles given that the child has a rash. (2m)
+Step 2: Use Bayes’ Theorem
+Bayes' Theorem states:
+P(R\|M)P(M)
+P(M|\R) = Sa
+where:
+P(R) = P(R|M)P(M) + P(R|F)P(F)
+Step 3: Compute P(R) (2m)
+P(R) = (0.95 x 0.10) + (0.08 x 0.90)
+= 0.095 + 0.072 = 0.167
+Step 4: Compute P(//|R) om)
+0.95 = 0.10
+P(M|R) — (0:95 * 9.10)
+0.167
+0.095
+~ 0.167
+es 0.569
+Final Answer
+(2m)
+
+The probability that the child has measles given that they have a rash is 0.569 (or 56.9%).
+
+12
+
+DR ROR RK SRR RR
+--- page 13 ---
+Step 2: Correct Mean Calculation
+
+The mean is given by:
+
+xy ux
+n (2m)
+
+Total sum of all observations using the incorrect mean:
+
+S = 100 x 40 = 4000
+
+Since one value was wrongly taken as 50 instead of 40, the correct sum should be:
+
+Scorvctea = 4000 — 50+ 40 = 3990
+
+Thus, the corrected mean is: (1m)
+
+= 3990
+
+X corrected —_ 100 = 39.9
+
+Step 3: Correct Standard Deviation Calculation
+
+The variance formula is:
+
+3 UX? _ gy
+
+on
+We first compute the total sum of squares using the incorrect variance:
+Sy = n(s? + X?)
+So = 100(5.1? + 40°) = 100(26.01 + 1600) = 162601
+Since we wrongly included 50? instead of 40°, we correct it:
+So corrected = 162601 — 50? + 40?
+= 162601 — 2500 + 1600 = 161701
+
+The corrected variance is:
+
+2 161701
+
+Scorrected = 100
+
+— (39.9)?
+= 1617.01 — 1592.01 = 25
+Thus, the corrected standard deviation is:
+
+Scorrected = V 25 = 5.0
+
+13
+
+DR ROR RK SRR RR
+--- page 14 ---
+_ [AP - (di x da)|
+
+D
+id
+
+where:
+e AP = (x1 — 20, y1 — yo, z1 — 2) is the vector from A to P,
+¢ d= (1,4, —9) is the direction vector of the line.
+Step 3: Compute Required Quantities
+Vector AP:
+AP = (5 — (—5),4 — (—3), -1 — 6) = (10,7, —7)
+
+Cross Product AP x d
+
+i j k (2m)
+APxd=/10 7 -7
+1 4 -9
+Expanding along the first row:
+(1m)
+
+= i(7 x (—9) — (—7 x 4)) —j(10 x (—9) — (-7 x 1)) + k(10 x 4-7 1)
+= i(—63 + 28) — j(—90 + 7) + k(40 — 7)
+
+= i(—35) — j(—83) + k(33)
+
+= (—35, 83, 33) Gm)
+
+Magnitude of Cross Product
+|AP x dj = 4/(—35)? + (83)? + (33)?
+= 4/1225 + 6889 + 1089
+
+= 9203 = 95.96 (1m)
+
+Magnitude of d
+|d| = \/1? + 4? + (—9)? = V1 +16 +81 = 98 ~ 9.9
+
+Step 4: Compute Distance
+
+|AP xd] 95.96
+
+D= Ta) = O9 = 9.7 (1m)
+14
+
+DR ROR RK SRR RR
+--- page 15 ---
+The system can be written as:
+
+AX =B
+(1m)
+where:
+4 3 2 x 60
+A=]1 2 3), X=ly], B= 145 (1m)
+6 2 3 z 70
+Step 2: Find the inverse of matrix A (1m)
+We compute:
+X=A'B
+Let's calculate this step-by-step. I'll perform these calculations.
+The solution to the system of equations is: (1m)
+e2=5, y=8 z=8
+Solving by row operations/ Adjoint method - 4marks
+1. Total balls in the bag:
+5+3+7=15
+2. Total ways to choose any 2 balls:
+15 15! 15 = 14
+Total combinations = = = = 105
+2 21(15 — 2)! 2
+(2m)
+3. Ways to choose 2 non-blue balls (i.e., only green and yellow):
+e Green and yellow balls = 5 + 7 = 12
+e Ways to choose 2 from these 12:
+12 12! 12x 11
+= = = 66
+2 2!(12 — 2)! 2
+4. Probability of choosing only non-blue balls:
+66
+P(No blue balls) = 105
+(2m)
+5. Probability of at least one blue ball:
+P(At least one blue) = 1 — P(No blue)
+66 39
+P(At least one blue) = 1 — —~ = = 0.3714
+105 105
+Thus, the probability that at least one of the two drawn balls is blue is 0.371 (or 37.14%). (2m)
+
+15
+
+DR ROR RK SRR RR
+--- page 16 ---
+Second derivative with respect to rc:
+
+fu as
+da? — ag BY)
+= bry
+Second derivative with respect to y:
+4
+Pu 8 5 4 an)
+aye _ By" + 4y )
+=04 12,"
+Mixed second derivative oe.
+Pu 8.5 (2m)
+andy > ay 8" y)
+= 32°
+
+2 Ou Pu Pu
+; 1 +y—
+Oxrdy Oy?
+
+Substituting the second derivatives:
+=a" (6xy) + 2ay(Bx") + y?(12y")
+= 62° y + Gary + 12y4
+= 1207y + 12y4
+= 12(0*y + y")
+
+= l2u
+
+16
+
+DR ROR RK SRR RR
+--- page 17 ---
+Given System of Equations:
+@+2y-—z=1
+22+ 5y-—z=3 (1m)
+a+ 3y+2z=6
+
+Step 1: Convert to Iterative Form
+
+To apply the Gauss-Seidel method, we solve for x, y, and z in terms of the other variables.
+
+Rewrite equations:
+
+1. Solve for x:
+
+2. Solve for y:
+3-—2a2+2z
+y= 5
+3. Solve for z:
+a 6—2-3y
+2
+(2m)
+Let us assume an initial guess:
+20, y®=0, 2%=0
+Iteration 1:
+1. Compute wl),
+2) =1-2(0)+0=1
+2. Compute y(): (2m)
+yo = 3=2@) +0 _ 3-2 _1_ 4,
+, 5 5 5
+3. Compute 2);
+2) = 6 — (1) — 3(0.2) _ 6—-1-0.6 _ 44 99
+2 2 2
+Iteration 2:
+(2m)
+1. Compute x);
+x2?) — 1—2(0.2)+2.2=1-04+4+2.2=28
+2. Compute y?):
+3 — 2(2.8) + 2.2 3— 5.6 + 2.2 —0.4
+y? — 3-228) _ - = —0.08
+5 5 5
+3. Compute 2),
+22) = 6 — (2.8) — 3(—0.08) _ 6 — 2.8 + 0.24 _ 3.44 -172 (1m)
+2 2 2
+17
+
+DR ROR RK SRR RR
+--- page 18 ---
+bore reer enemas
+
+aay + byg + cz + |
+
+d=
+Ve+P+e
+(1m)
+For the given plane equation:
+x+3y—2z=
+Rewriting in standard form:
+z+ 3y—-—22-9=0
+where a = 1, b = 3,¢ = —2, and d = —9. The given point is (4, 1,5). (1m)
+Substituting in the formula:
+gq — (4) + (8)) + (=2)(5) ~ 9
+1? + 3° + (—2)?
+(1m)
+|4+3-10-9
+VJ1l+94+4
+— 12|
+~ 4/14
+12 12/14 G14
+“i414 °° °«27
+(2m)
+(1m)
+(1m)
+(1m)
+18
+
+DR ROR RK SRR RR
+--- page 19 ---
+The standard linear form of a first-order differential equation is:
+
+© | p(x)y = Q(2)
+
+dx
+(1m)
+Dividing both sides by (1 + x’), we get:
+dy . Qn sin rt
+dx 1+a2"" 142?
+Step 2: Find the Integrating Factor (IF)
+The integrating factor is given by:
+LB. = ef Pile _ oJ oa
+(2m)
+since [ ada = In(1 + 2), we get:
+LF.=e") 142?
+Step 4: Integrate Both Sides
+(1m)
+
+Integrating both sides with respect to ©:
+
+[awa+e) = f sineas
+
+y(l+27)= —cosr+C
+
+Step 5: Solve for y
+
+—cosa+C
+1+ 2?
+
+19
+
+DR ROR RK SRR RR
+--- page 20 ---
+231100
+[Alj=|2 41010
+372001
+
+Now, we apply row operations to transform A into the identity matrix.
+
+Step 1: Make the first pivot element 1
+
+Divide row 1 by 2:
+
+2410 10 (2m)
+
+Step 2: Make first column below pivot 0
+Perfarm row operations:
+Ro > Ro _ 2Ri, Rs rd Rs _ 3A,
+
+1325 3 00
+010 -1 10
+035 -- 01
+
+20
+
+DR ROR RK SRR RR
+--- page 21 ---
+Step 3: Make second pivot element 1
+Multiply Ay by 1 (no change required):
+
+125 3 00 (2m)
+010 -1 10
+
+5 L 3 ;
+024-201
+
+Step 4: Make second column above and below pivot 0
+
+
+(2m)
+104 2 -2 0
+010 -1 1 0
+00 4 -1 -2 1
+Step 5: Make third pivot element 1
+Multiply Rg by 2:
+Rs + 2Rs
+104 2 -# 0
+0 1 0 -1 1 O
+0 0 1 —2 —-5 2 (2m)
+
+Step 6: Make third column above pivot 0
+
+1
+Ry > Ri - 58s
+
+100 38 -3 -1
+010-1 1 °40
+
+0 0 1 -y -& 2
+
+21
+
+DR ROR RK SRR RR
+````
+
 ## 2024-25 · Final-Exam · Sem 4 · Answer key · paper 060bbbadb6ca
 
 - Departments: Information Technology

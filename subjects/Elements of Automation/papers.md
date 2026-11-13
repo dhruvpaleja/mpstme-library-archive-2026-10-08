@@ -1343,7 +1343,6 @@ BL-4
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/ELEMENTS OF AUTOMATION/Elements of Automation,Final,2022-23.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 December 2022
 - Text: ocr (4 pages), mean OCR confidence 84.9
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 _ SVKM’s NMIMS
@@ -1418,6 +1417,7 @@ cycle sequence. .
 por i i.e i sn ‘
 m1) jo Zi st
 OFF} H ro —! So
+jour mt pied m0 by i ee fouria! One ur}
 toy | ' ' ‘ i ' i
 1 ' to a ‘ ‘
 a H : H : :

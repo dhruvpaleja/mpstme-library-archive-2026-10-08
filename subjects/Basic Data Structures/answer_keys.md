@@ -4522,6 +4522,941 @@ return 0;
 FAR ICR QA HH
 ````
 
+## 2024-25 · Final-Exam · Sem 5 · Answer key · paper de4835fc783a
+
+- Departments: Data Science
+- Programmes: BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038
+- Source: `00_Original_Downloads/2024/65247__Semester V__context_fixed.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038/Basic Data Structures/ANS_Final-Exam_Basic Data Structures(701CO0C013)_Semester V_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2024
+- Text: mixed (23 pages), mean OCR confidence 33.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)
+Year: III/Semester V(Exam Year: 2024-2025)
+Subject: Basic Data Structures
+Date: 28 Nov 2024   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 23 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Instruction Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks
+8. Assume Suitable data if necessary.
+9. Figures in brackets on the right hand side indicate full marks
+Q1
+Answer briefly:   [20]
+a.   Define data structures. Draw a diagram of classification of data structures and explain
+each type.
+. Data structure is a representation of the logical relationship existing between
+individual elements of data.
+[5]
+A data structure is said to be Linear, if its elements are connected in linear
+fashion by means of logically or in sequence memory locations.
+•   There are two ways to represent a linear data structure in memory,
+o   Static memory allocation – Fixed memory size
+o Dynamic memory allocation – Memory allocation at runtime
+Array
+An array is a collection of similar data elements. These data elements have the
+same data type. The elements are stored in consecutive/contiguous memory
+locations and are referenced by an index.
+data type variable_name[size];
+•   Arrays are of fixed size.
+********** 1 **********
+--- page 2 ---
+•   Insertion and deletion of elements can be problematic because of
+shifting elements from their positions.
+Linked list:
+A linked list is a very flexible, dynamic data structure in which elements form a
+sequential list.
+•   Each node is allocated space as it is added to the list. Every node in the
+list points to the next node in the list. Therefore, in a linked list, every
+node contains the following two types of data:
+• The value of the node
+• A Pointer or link to the next node
+Stack:
+Stack is called a last-in, first-out (LIFO) structure because the last element which
+is added to the stack is the first element which is deleted from the stack.
+•   Insertion and deletion operations are done only from one end.
+•   In the computer’s memory, stack can be implemented using arrays or
+linked list.
+• PUSH
+• POP
+• PEEp
+Queue:
+A queue is a first-in, first-out (FIFO) data structure in which the elements that
+is inserted first is the first one to be taken out.
+• The elements in a queue are added at one end called the rear and
+removed from the other end called the front.
+•   Operations performed on queue are:
+• Enqueue
+• Dequeue
+Nonlinear data structures are those data structure in which data items are not
+arranged in a sequence.
+•   In a non-linear data structure, we can’t traverse all the elements in a
+single run only.
+•   Examples of Non-linear Data Structure are Tree and Graph.
+b.
+[5]
+•
+c.   Write a Program for Fibonacci series up to n terms using recursion .   [5]
+********** 2 **********
+--- page 3 ---
+#include <stdio.h>
+// Recursive function to return Fibonacci number at position 'n'
+int fibonacci(int n) {
+if (n == 0) {
+return 0;   // Base case: 0th Fibonacci number is 0
+} else if (n == 1) {
+return 1;   // Base case: 1st Fibonacci number is 1
+} else {
+return fibonacci(n - 1) + fibonacci(n - 2); // Recursive case
+}
+}
+int main() {
+int n, i;
+// Ask the user for the number of terms
+printf("Enter the number of terms: ");
+scanf("%d", &n);
+// Print Fibonacci series up to n terms
+printf("Fibonacci Series up to %d terms: ", n);
+for (i = 0; i < n; i++) {
+printf("%d ", fibonacci(i));
+}
+printf("\n");
+return 0;
+}
+d.   An array ARR[-5…15, 10…20] stores elements in Row Major Wise with each element
+requiring 2 bytes of storage. Find the address of ARR[10][15] when the base address is
+2500.
+[5]
+Address of ARR[10][15]=2500+[(10−(−5))×11+(15−10)]×2
+=2840
+a.   Write a program for Bubble sort .Sort the elements 77, 49, 25, 12, 9, 33, 56, 81 using
+Bubble sort.
+#include <stdio.h>
+Q2   [10]
+b.
+[10]
+// Function to perform Bubble Sort
+void bubbleSort(int arr[], int n) {
+int i, j, temp;
+********** 3 **********
+--- page 4 ---
+// Outer loop for each pass
+for (i = 0; i < n - 1; i++) {
+// Inner loop for comparing adjacent elements
+for (j = 0; j < n - i - 1; j++) {
+if (arr[j] > arr[j + 1]) {
+// Swap if the element found is greater than the next element
+temp = arr[j];
+arr[j] = arr[j + 1];
+arr[j + 1] = temp;
+}
+}
+}
+}
+// Function to print the array
+void printArray(int arr[], int size) {
+int i;
+for (i = 0; i < size; i++) {
+printf("%d ", arr[i]);
+}
+printf("\n");
+}
+int main() {
+int arr[] = {77, 49, 25, 12, 9, 33, 56, 81}; // Given array
+int n = sizeof(arr) / sizeof(arr[0]); // Calculate size of the array
+// Display the original array
+printf("Original array: ");
+printArray(arr, n);
+// Perform Bubble Sort
+bubbleSort(arr, n);
+// Display the sorted array
+printf("Sorted array: ");
+printArray(arr, n);
+return 0;
+}
+********** 4 **********
+--- page 5 ---
+Write a program to define a structure for a restaurant that has the following
+members—name, location, rating and average meal cost. Write a function to: (i) Print
+the names of restaurants in a particular location.
+(ii) Print the names of restaurants that have an average meal cost less than a specified
+value.
+#include <stdio.h>
+#include <string.h>
+#define MAX 100
+// Defining structure for Restaurant
+struct Restaurant {
+char name[50];
+char location[50];
+float rating;
+float avgMealCost;
+};
+// Function to print restaurant names in a particular location
+void printRestaurantsByLocation(struct Restaurant restaurants[], int n, char location[])
+{
+printf("Restaurants in %s:\n", location);
+for (int i = 0; i < n; i++) {
+if (strcmp(restaurants[i].location, location) == 0) {
+printf("- %s\n", restaurants[i].name);
+}
+}
+}
+// Function to print restaurant names with meal cost less than a specified value
+void printRestaurantsByMealCost(struct Restaurant restaurants[], int n, float maxCost)
+{
+printf("Restaurants with an average meal cost less than %.2f:\n", maxCost);
+for (int i = 0; i < n; i++) {
+if (restaurants[i].avgMealCost < maxCost) {
+printf("- %s\n", restaurants[i].name);
+}
+}
+}
+int main() {
+int n;
+********** 5 **********
+--- page 6 ---
+// Input number of restaurants
+printf("Enter the number of restaurants: ");
+scanf("%d", &n);
+// Array of Restaurant structures
+struct Restaurant restaurants[MAX];
+// Input details for each restaurant
+for (int i = 0; i < n; i++) {
+printf("\nEnter details for restaurant %d:\n", i + 1);
+printf("Name: ");
+scanf(" %[^\n]", restaurants[i].name); // Reading string with spaces
+printf("Location: ");
+scanf(" %[^\n]", restaurants[i].location); // Reading string with spaces
+printf("Rating: ");
+scanf("%f", &restaurants[i].rating);
+printf("Average Meal Cost: ");
+scanf("%f", &restaurants[i].avgMealCost);
+}
+// Search by location
+char searchLocation[50];
+printf("\nEnter location to search restaurants: ");
+scanf(" %[^\n]", searchLocation);
+printRestaurantsByLocation(restaurants, n, searchLocation);
+// Search by average meal cost
+float maxCost;
+printf("\nEnter maximum average meal cost to search restaurants: ");
+scanf("%f", &maxCost);
+printRestaurantsByMealCost(restaurants, n, maxCost);
+return 0;
+}
+Q3   a.   Convert the following infix expression into postfix using a stack. At each step of the
+conversion, display the contents of the stack and explain how each operator and operand   [10]
+CO-1; SO-   is processed.
+2; BL-2   b.
+CO-2; SO-   Infix Expression:   [10]
+1;   ((A + B) * (C - D) / (E + F * G) - H) + ((I * J) / (K - L) + M * N)
+BL-2
+********** 6 **********
+--- page 7 ---
+Ans: A B + C D - * E F G * + / H - I J * K L - / M N * + +
+Write a program to delete the first element of a doubly linked list.
+#include <stdio.h>
+#include <stdlib.h>
+// Defining the structure of a doubly linked list node
+struct Node {
+int data;
+struct Node* prev;
+struct Node* next;
+};
+// Function to create a new node
+struct Node* createNode(int data) {
+struct Node* newNode = (struct Node*)malloc(sizeof(struct Node));
+newNode->data = data;
+newNode->prev = NULL;
+newNode->next = NULL;
+return newNode;
+}
+// Function to delete the first node of the doubly linked list
+void deleteFirst(struct Node** head) {
+if (*head == NULL) {
+printf("The list is already empty.\n");
+return;
+}
+struct Node* temp = *head;
+// If the list has more than one node
+if (temp->next != NULL) {
+*head = temp->next;
+(*head)->prev = NULL;
+} else {
+// If there's only one node
+*head = NULL;
+}
+[10]
+Q4
+a.   Write a C/C++ program to delete duplicates from 1-D array.
+********** 7 **********
+--- page 8 ---
+CO-2; SO-   sample i/p: [ 1 2 1 4 3 2 1 3 2 1 4 5 7 6 9 9]
+2;
+BL-3   o/p: [ 1 2 4 3 5 7 6 9]   [10]
+CO-1; SO-   b.   #include <iostream>
+1;   using namespace std;
+BL-1   int main ()
+{
+int A[10], B[10], n, i, j, k = 0;
+cout << "Enter size of array : ";
+cin >> n;
+cout << "Enter elements of array : ";
+for (i = 0; i < n; i++)
+cin >> A[i];
+for (i = 0; i < n; i++)
+{
+for (j = 0; j < k; j++)
+{
+if (A[i] == B[j])
+break;
+}
+if (j == k)
+{
+B[k] = A[i];
+k++;
+}
+}
+cout << "after deletion elements of array : ";
+for (i = 0; i < k; i++)
+cout << B[i] << " ";
+return 0;
+}
+Write a program to Create a linked list which stores names of the employees and their
+salary. Delete the employee record with highest salary.
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+// Structure to define a node in the linked list
+struct Employee {
+char name[50];
+float salary;
+struct Employee* next;
+};
+// Function to create a new node (employee)
+struct Employee* createEmployee(char name[], float salary) {
+struct Employee* newEmployee = (struct Employee*)malloc(sizeof(struct
+Employee));
+********** 8 **********
+--- page 9 ---
+strcpy(newEmployee->name, name);
+newEmployee->salary = salary;
+newEmployee->next = NULL;
+return newEmployee;
+}
+// Function to insert an employee at the end of the linked list
+void insertEmployee(struct Employee** head, char name[], float salary) {
+struct Employee* newEmployee = createEmployee(name, salary);
+if (*head == NULL) {
+*head = newEmployee;
+} else {
+struct Employee* temp = *head;
+while (temp->next != NULL) {
+temp = temp->next;
+}
+temp->next = newEmployee;
+}
+}
+// Function to print the list of employees
+void printEmployees(struct Employee* head) {
+if (head == NULL) {
+printf("No employees to display.\n");
+return;
+}
+struct Employee* temp = head;
+printf("Employee List:\n");
+while (temp != NULL) {
+printf("Name: %s, Salary: %.2f\n", temp->name, temp->salary);
+temp = temp->next;
+}
+}
+// Function to delete the employee with the highest salary
+void deleteHighestSalary(struct Employee** head) {
+if (*head == NULL) {
+printf("The list is empty.\n");
+return;
+}
+struct Employee *temp = *head, *maxPrev = NULL, *prev = NULL, *maxNode =
+*head;
+********** 9 **********
+--- page 10 ---
+// Find the employee with the highest salary
+while (temp != NULL) {
+if (temp->salary > maxNode->salary) {
+maxPrev = prev;
+maxNode = temp;
+}
+prev = temp;
+temp = temp->next;
+}
+// If the highest salary node is the head
+if (maxPrev == NULL) {
+*head = maxNode->next;
+} else {
+maxPrev->next = maxNode->next;
+}
+printf("\nDeleted employee with highest salary: %s, Salary: %.2f\n", maxNode-
+>name, maxNode->salary);
+free(maxNode);
+}
+int main() {
+struct Employee* head = NULL;
+int n;
+char name[50];
+float salary;
+// Input number of employees
+printf("Enter the number of employees: ");
+scanf("%d", &n);
+// Input employee details and create the list
+for (int i = 0; i < n; i++) {
+printf("\nEnter details for employee %d:\n", i + 1);
+printf("Name: ");
+scanf(" %[^\n]", name); // Reading string with spaces
+printf("Salary: ");
+scanf("%f", &salary);
+insertEmployee(&head, name, salary);
+}
+********** 10 **********
+--- page 11 ---
+// Print the initial list of employees
+printf("\nBefore deletion:\n");
+printEmployees(head);
+// Delete the employee with the highest salary
+deleteHighestSalary(&head);
+// Print the list after deletion
+printf("\nAfter deletion:\n");
+printEmployees(head);
+return 0;
+}
+a.   Explain the concept of a circular queue? How is it better than a linear queue?WAP in
+C/C++ to implement Enque and Dqueue for circular queue.
+oncept of a Circular Queue:
+b.
+A circular queue is a data structure that overcomes the limitations of a
+linear queue by connecting the end of the queue back to the front. It
+allows the queue to use the empty space left behind by dequeued
+elements. In a linear queue, once an element is dequeued, the space is
+left unused, which can lead to inefficiency when the queue has fixed
+capacity.
+In a circular queue:
+Q5   • The front and rear pointers are used to track the start and end of
+the queue.
+CO-2; SO-   • When the rear reaches the end of the queue, it wraps around to   [10]
+2;
+BL-2   the front if there’s space (hence "circular").
+• The condition rear + 1 == front (or modulo-based equivalent)
+CO-1; SO-
+1;   indicates the queue is full.   [10]
+BL-2   • The condition front == rear indicates the queue is empty.
+Why Circular Queue is Better than Linear Queue:
+•   Efficient Memory Utilization: In a circular queue, after
+dequeueing elements, the empty space at the front can be reused
+for new elements, avoiding wastage of memory.
+• No Shifting of Elements: Unlike a linear queue, where elements
+need to be shifted when dequeuing, a circular queue does not
+require any shifting.
+• Better for Fixed-Size Queues: Circular queues are useful when
+the maximum size of the queue is known, making it easier to
+manage with limited resources like arrays.
+#include <stdio.h>
+********** 11 **********
+--- page 12 ---
+#include <stdlib.h>
+#define MAX 5 // Define the maximum size of the circular queue
+// Structure to represent the circular queue
+struct CircularQueue {
+int items[MAX];
+int front, rear;
+};
+// Function to initialize the queue
+void initializeQueue(struct CircularQueue* q) {
+q->front = -1;
+q->rear = -1;
+}
+// Function to check if the queue is full
+int isFull(struct CircularQueue* q) {
+if ((q->rear + 1) % MAX == q->front)
+return 1;
+return 0;
+}
+// Function to check if the queue is empty
+int isEmpty(struct CircularQueue* q) {
+if (q->front == -1)
+return 1;
+return 0;
+}
+// Function to insert (enqueue) an element in the queue
+void enqueue(struct CircularQueue* q, int value) {
+if (isFull(q)) {
+printf("Queue is full! Cannot enqueue %d\n", value);
+return;
+}
+if (isEmpty(q)) {
+q->front = 0;
+}
+q->rear = (q->rear + 1) % MAX;
+q->items[q->rear] = value;
+printf("Enqueued %d\n", value);
+********** 12 **********
+--- page 13 ---
+}
+// Function to remove (dequeue) an element from the queue
+int dequeue(struct CircularQueue* q) {
+int value;
+if (isEmpty(q)) {
+printf("Queue is empty! Cannot dequeue.\n");
+return -1;
+}
+value = q->items[q->front];
+if (q->front == q->rear) {
+// If there's only one element in the queue
+q->front = q->rear = -1;
+} else {
+q->front = (q->front + 1) % MAX;
+}
+printf("Dequeued %d\n", value);
+return value;
+}
+// Function to display the circular queue
+void displayQueue(struct CircularQueue* q) {
+if (isEmpty(q)) {
+printf("Queue is empty.\n");
+return;
+}
+printf("Queue elements: ");
+int i = q->front;
+while (1) {
+printf("%d ", q->items[i]);
+if (i == q->rear) break;
+i = (i + 1) % MAX;
+}
+printf("\n");
+}
+int main() {
+struct CircularQueue q;
+initializeQueue(&q);
+// Enqueue some elements
+********** 13 **********
+--- page 14 ---
+enqueue(&q, 10);
+enqueue(&q, 20);
+enqueue(&q, 30);
+enqueue(&q, 40);
+enqueue(&q, 50); // Queue is full after this
+// Display the queue
+displayQueue(&q);
+// Try enqueueing another element
+enqueue(&q, 60); // Should show "Queue is full"
+// Dequeue some elements
+dequeue(&q);
+dequeue(&q);
+// Display the queue after dequeuing
+displayQueue(&q);
+// Enqueue more elements
+enqueue(&q, 60);
+enqueue(&q, 70);
+// Display the queue
+displayQueue(&q);
+return 0;
+}
+Write a program to print the total number of occurrences of a given item in the linked
+list.
+#include <stdio.h>
+#include <stdlib.h>
+// Define the structure for a node
+struct Node {
+int data;
+struct Node* next;
+};
+// Function to create a new node
+struct Node* createNode(int value) {
+struct Node* newNode = (struct Node*)malloc(sizeof(struct Node));
+newNode->data = value;
+********** 14 **********
+--- page 15 ---
+newNode->next = NULL;
+return newNode;
+}
+// Function to insert a node at the end of the linked list
+void insertNode(struct Node** head, int value) {
+struct Node* newNode = createNode(value);
+if (*head == NULL) {
+*head = newNode;
+} else {
+struct Node* temp = *head;
+while (temp->next != NULL) {
+temp = temp->next;
+}
+temp->next = newNode;
+}
+}
+// Function to count the occurrences of a given item in the linked list
+int countOccurrences(struct Node* head, int item) {
+int count = 0;
+struct Node* temp = head;
+while (temp != NULL) {
+if (temp->data == item) {
+count++;
+}
+temp = temp->next;
+}
+return count;
+}
+// Function to display the linked list
+void displayList(struct Node* head) {
+struct Node* temp = head;
+printf("Linked List: ");
+while (temp != NULL) {
+printf("%d -> ", temp->data);
+temp = temp->next;
+}
+printf("NULL\n");
+}
+********** 15 **********
+--- page 16 ---
+int main() {
+struct Node* head = NULL;
+int n, value, item;
+// Insert elements into the linked list
+printf("Enter the number of elements to insert: ");
+scanf("%d", &n);
+for (int i = 0; i < n; i++) {
+printf("Enter element %d: ", i + 1);
+scanf("%d", &value);
+insertNode(&head, value);
+}
+// Display the linked list
+displayList(head);
+// Input the item to find its occurrences
+printf("Enter the item to find its occurrences: ");
+scanf("%d", &item);
+// Count and display the occurrences of the item
+int occurrences = countOccurrences(head, item);
+printf("Total occurrences of %d in the linked list: %d\n", item, occurrences);
+return 0;
+}
+Write a program to manage a simple inventory system for a store. Each inventory item
+should have a name, quantity, and price. Implement this inventory system using a
+singly linked list. Write a program that allows users to add new items to the inventory,
+a.   update the quantity of existing items, display the current inventory, and remove items
+from the inventory.
+b.
+#include <stdio.h>
+Q6
+#include <stdlib.h>
+CO-1;   #include <string.h>
+SO-;2   [10]
+BL-2   // Define the structure for an inventory item
+struct InventoryItem {
+CO-3; SO-
+1;   char name[50];   [10]
+int quantity;
+BL-2
+float price;
+struct InventoryItem* next;
+};
+// Function to create a new inventory item
+struct InventoryItem* createItem(const char* name, int quantity, float price) {
+struct InventoryItem* newItem = (struct InventoryItem*)malloc(sizeof(struct
+InventoryItem));
+********** 16 **********
+--- page 17 ---
+strcpy(newItem->name, name);
+newItem->quantity = quantity;
+newItem->price = price;
+newItem->next = NULL;
+return newItem;
+}
+// Function to add an item to the inventory
+void addItem(struct InventoryItem** head, const char* name, int quantity, float price)
+{
+struct InventoryItem* newItem = createItem(name, quantity, price);
+newItem->next = *head;
+*head = newItem;
+printf("Item '%s' added to the inventory.\n", name);
+}
+// Function to update the quantity of an existing item
+void updateItem(struct InventoryItem* head, const char* name, int quantity) {
+struct InventoryItem* temp = head;
+while (temp != NULL) {
+if (strcmp(temp->name, name) == 0) {
+temp->quantity += quantity;
+printf("Updated quantity of '%s' to %d.\n", name, temp->quantity);
+return;
+}
+temp = temp->next;
+}
+printf("Item '%s' not found in the inventory.\n", name);
+}
+// Function to display the current inventory
+void displayInventory(struct InventoryItem* head) {
+if (head == NULL) {
+printf("Inventory is empty.\n");
+return;
+}
+printf("\nCurrent Inventory:\n");
+printf("%-20s %-10s %-10s\n", "Item Name", "Quantity", "Price");
+struct InventoryItem* temp = head;
+while (temp != NULL) {
+printf("%-20s %-10d $%-10.2f\n", temp->name, temp->quantity, temp->price);
+temp = temp->next;
+}
+}
+// Function to remove an item from the inventory
+void removeItem(struct InventoryItem** head, const char* name) {
+struct InventoryItem* temp = *head;
+struct InventoryItem* prev = NULL;
+// If the item to be removed is the head
+if (temp != NULL && strcmp(temp->name, name) == 0) {
+*head = temp->next; // Change head
+free(temp); // Free old head
+printf("Item '%s' removed from the inventory.\n", name);
+return;
+}
+// Search for the item to be removed
+while (temp != NULL && strcmp(temp->name, name) != 0) {
+prev = temp;
+temp = temp->next;
+}
+********** 17 **********
+--- page 18 ---
+// If the item was not found
+if (temp == NULL) {
+printf("Item '%s' not found in the inventory.\n", name);
+return;
+}
+// Unlink the node from the linked list
+prev->next = temp->next;
+free(temp); // Free memory
+printf("Item '%s' removed from the inventory.\n", name);
+}
+int main() {
+struct InventoryItem* inventory = NULL;
+int choice;
+char name[50];
+int quantity;
+float price;
+do {
+printf("\nInventory Management System\n");
+printf("1. Add Item\n");
+printf("2. Update Item Quantity\n");
+printf("3. Display Inventory\n");
+printf("4. Remove Item\n");
+printf("5. Exit\n");
+printf("Enter your choice: ");
+scanf("%d", &choice);
+switch (choice) {
+case 1:
+printf("Enter item name: ");
+scanf("%s", name);
+printf("Enter quantity: ");
+scanf("%d", &quantity);
+printf("Enter price: ");
+scanf("%f", &price);
+addItem(&inventory, name, quantity, price);
+break;
+case 2:
+printf("Enter item name to update: ");
+scanf("%s", name);
+printf("Enter quantity to add: ");
+scanf("%d", &quantity);
+updateItem(inventory, name, quantity);
+break;
+case 3:
+displayInventory(inventory);
+break;
+case 4:
+printf("Enter item name to remove: ");
+scanf("%s", name);
+removeItem(&inventory, name);
+break;
+case 5:
+printf("Exiting the program.\n");
+break;
+default:
+printf("Invalid choice! Please try again.\n");
+}
+} while (choice != 5);
+// Free the allocated memory
+struct InventoryItem* temp;
+********** 18 **********
+--- page 19 ---
+while (inventory != NULL) {
+temp = inventory;
+inventory = inventory->next;
+free(temp);
+}
+return 0;
+}
+Compare and contrast selection and insertion sort. Write the algorithm for selection
+sort.
+#include <stdio.h>
+void selectionSort(int arr[], int n) {
+int i, j, min_index, temp;
+for (i = 0; i < n - 1; i++) {
+min_index = i; // Assume the minimum is the first element in the unsorted part
+// Find the minimum element in the unsorted array
+for (j = i + 1; j < n; j++) {
+if (arr[j] < arr[min_index]) {
+min_index = j; // Update the index of the minimum element
+}
+}
+// Swap the found minimum element with the first element of the unsorted part
+temp = arr[min_index];
+arr[min_index] = arr[i];
+arr[i] = temp;
+}
+}
+int main() {
+int arr[] = {64, 25, 12, 22, 11};
+int n = sizeof(arr) / sizeof(arr[0]);
+printf("Original array: \n");
+for (int i = 0; i < n; i++) {
+printf("%d ", arr[i]);
+}
+printf("\n");
+selectionSort(arr, n);
+printf("Sorted array: \n");
+********** 19 **********
+--- page 20 ---
+for (int i = 0; i < n; i++) {
+printf("%d ", arr[i]);
+}
+printf("\n");
+return 0;
+}
+Compare and contrast a queue with a stack. Implement stack ADT operation using link
+list.
+a.
+#include <stdio.h>
+#include <stdlib.h>
+// Define the structure for a stack node
+struct StackNode {
+int data;
+struct StackNode* next;
+};
+// Define the structure for the stack
+struct Stack {
+struct StackNode* top;
+};
+// Function to create a new stack node
+struct StackNode* newNode(int data) {
+b.   struct StackNode* stackNode = (struct StackNode*)malloc(sizeof(struct
+StackNode));
+stackNode->data = data;
+stackNode->next = NULL;
+Q7
+return stackNode;
+CO-2; SO-   }
+1   [10]
+BL-2   // Function to create an empty stack
+struct Stack* createStack() {   [10]
+CO-3; SO-
+struct Stack* stack = (struct Stack*)malloc(sizeof(struct Stack));
+1;
+stack->top = NULL;
+BL-2
+return stack;
+}
+// Function to check if the stack is empty
+int isEmpty(struct Stack* stack) {
+return stack->top == NULL;
+}
+// Function to add an item to the stack
+void push(struct Stack* stack, int data) {
+struct StackNode* stackNode = newNode(data);
+stackNode->next = stack->top;
+stack->top = stackNode;
+printf("%d pushed to stack\n", data);
+}
+// Function to remove an item from the stack
+int pop(struct Stack* stack) {
+if (isEmpty(stack)) {
+printf("Stack underflow\n");
+return -1; // Return an invalid value for underflow
+}
+struct StackNode* temp = stack->top;
+stack->top = stack->top->next;
+********** 20 **********
+--- page 21 ---
+int popped = temp->data;
+free(temp);
+return popped;
+}
+// Function to display the stack
+void display(struct Stack* stack) {
+struct StackNode* current = stack->top;
+printf("Stack elements: ");
+while (current != NULL) {
+printf("%d ", current->data);
+current = current->next;
+}
+printf("\n");
+}
+// Main function to demonstrate stack operations
+int main() {
+struct Stack* stack = createStack();
+push(stack, 10);
+push(stack, 20);
+push(stack, 30);
+display(stack);
+printf("%d popped from stack\n", pop(stack));
+display(stack);
+return 0;
+}
+Write a program in C to print a string in reverse using a pointer.
+#include <stdio.h>
+// Function to print a string in reverse using pointers
+void printReverse(char *str) {
+// Move the pointer to the end of the string
+char *end = str;
+while (*end != '\0') {
+end++;
+}
+end--; // Move back to the last character (excluding the null terminator)
+// Print the string in reverse
+while (end >= str) {
+printf("%c", *end);
+end--;
+}
+printf("\n"); // Print a newline at the end
+}
+int main() {
+char str[100];
+// Get user input
+printf("Enter a string: ");
+fgets(str, sizeof(str), stdin); // Using fgets to include spaces and avoid overflow
+// Remove the newline character from the input if present
+char *newline = str;
+while (*newline != '\0') {
+if (*newline == '\n') {
+********** 21 **********
+--- page 22 ---
+*newline = '\0';
+break;
+}
+newline++;
+}
+// Print the string in reverse
+printf("Reversed string: ");
+printReverse(str);
+return 0;
+}
+********** 22 **********
+--- page 23 ---
+FIR ICR 2 I OH
+````
+
 ## 2024-25 · Final-Exam · Sem 4 · Answer key · paper b5d42fba8e97
 
 - Departments: Information Technology
@@ -5596,6 +6531,146 @@ return 0;
 ********** 22 **********
 --- page 23 ---
 FIR ICR 2 I OH
+````
+
+## 2024-25 · Re-Exam · Sem 4 · Answer key · paper 4b3d191cb5d4
+
+- Departments: Information Technology
+- Programmes: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037
+- Source: `00_Original_Downloads/2024/67804__Semester IV__context_fixed.zip :: Re-Exam/BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037/Basic Data Structures/ANS_Re-Exam_Basic Data Structures(701CO0C013)_Semester IV_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Jul 2025
+- Text: text (2 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX
+YEARS INTEGRATED PROGRAM
+Year: II/Sem 4 Re-exam(Exam Year: 2024-2025)
+Subject: Basic Data Structures
+Date: 04 Jul 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks.
+4. Question No.1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+Q1   Detailed Answer with Marks Distribution
+Answer briefly:   [20]
+a.   Classification: (2M) - Linear: Arrays, Linked
+Lists, Stacks, Queues. - Non-Linear: Trees,
+Explain the   classification of data
+Graphs, Hash Tables. Primitive vs. Non-
+CO-1;   structures and differentiate between
+Primitive: (3M) - Primitive: Directly   [5 M]
+BL-1,2   primitive   and   non-primitive   data
+managed by the system (int, float, char). -
+structures.
+Non-Primitive: Derived from primitive types
+(array, structures).
+b. An online   ticket booking system   Choice: Structure (2M) because it allows
+requires storing booked and available   multiple attributes per seat (seat number,
+CO-   seats efficiently. Would you recommend   booking status). Explanation: (3M) - An
+2,BL-   using an array or a structure to store seat   array can only store one type of data, making   [5 M]
+3,4   information? Explain your choice.   it inefficient. - A structure allows grouping of
+multiple seat properties, improving
+management.
+c. A printer in a shared office environment   Queue’s Role: (2M) - Uses FIFO (First-In-
+CO-3;   receives multiple print requests. How   First-Out) principle. - Ensures fair execution
+[5 M]
+BL-3,4   does a queue help in managing these   of jobs. Efficiency: (3M) - Prevents priority
+print requests fairly and efficiently?   inversion. - Avoids starvation of requests.
+d. Explain why merge sort is preferred   Merge Sort Preference: (2M) - Stable sort
+over quick sort in certain applications   (maintains order of equal elements). - Works
+CO-4;   well on linked lists. Quick Sort Drawbacks:
+[5 M]
+BL-4   (3M) - Worst-case time complexity O(n²) if
+poorly partitioned. - Inefficient for large
+datasets when recursion depth is high.
+Q2   [20]
+a. What are the differences between static   Static vs. Dynamic: (5M) - Static: Fixed
+and dynamic memory   allocation? memory allocation (array). - Dynamic: Uses
+CO-1;
+Explain the significance of pointers in   malloc() and free() to   [10 M]
+BL-1,2
+implementing dynamic data structure?   allocate/deallocate memory. Significance of
+Pointers: (5M) - Enable dynamic memory
+********** 1 **********
+--- page 2 ---
+management in linked lists. - Improve
+memory efficiency.
+b. Explain the different types of arrays and   Types: (4M) - 1D Arrays: Simple storage of
+compare   their   advantages   and elements. - 2D Arrays: Matrix representation.
+CO-2;   limitations.   - Jagged Arrays: Efficient memory usage.
+[10 M]
+BL-1,4   Advantages & Limitations: (6M) - Fast
+access, but fixed size. - Inefficient
+insertions/deletions.
+Q3   [20]
+a. Compare and contrast stacks and queues   Comparison: (5M) - Stack (LIFO) used in
+in data structures with their advantages   recursion, undo features. - Queue (FIFO)
+CO-3;   and applications.   used in scheduling, buffering. Applications:
+[10 M]
+BL-1,4   (5M) - Stack: Function calls, expression
+evaluation. - Queue: Job scheduling,
+networking.
+b. Write a C++ program to implement   Algorithm Explanation: (4M) - Iterating
+CO-2;   matrix multiplication using a 2D array .   through rows/columns. Code
+[10 M]
+BL-2,3   Implementation: (6M) - Nested loop logic in
+C++.
+Q4   [20]
+a.   Code Explanation: (4M) - Structure
+CO-2;   WAP to Implement a C++ program to   declaration. - Array implementation.
+[10 M]
+BL-3   demonstrate an array of structures.   Implementation: (6M) - User input and
+output.
+b. Convert the following infix expressions   Conversion Process: (6M) - Operator
+to postfix and prefix notation and   precedence. - Stack-based approach.
+CO-3;
+explain the process:   Explanation with Steps: (4M) - Step-by-step   [10 M]
+BL-6
+(A + B) * C - D / E   conversion.
+X / (Y + Z) * W
+Q5   [20]
+a. What are the applications of stacks in   Applications: (5M) - Undo operation,
+CO-3;   real-world scenarios? Write a C++   backtracking, function calls. Code
+[10 M]
+BL-1,3   function to check if a stack is empty or   Explanation: (5M) - Stack condition
+full.   checking.
+b.   Queue Types: (5M) - Simple (FIFO). -
+CO-3;   Differentiate between a simple queue,   Circular (Reuses memory). - Priority (Based
+[10 M]
+BL-4   circular queue, priority queue.   on priority). Comparison: (5M) - Efficiency
+differences.
+Q6   [20]
+a. Discuss the role of queues in process Role of Queues: (5M) - CPU scheduling, task
+CO-3;   scheduling. Provide an example of a   handling. Example: (5M) - Round Robin
+[10 M]
+BL-5   queue-based scheduling algorithm.   scheduling.
+b. Differentiate between singly linked lists   Difference: (5M) - Singly: One pointer per
+CO-3;
+and doubly linked lists with an example.   node. - Doubly: Two pointers per node.   [10 M]
+BL-3
+Example Code: (5M)
+Q7   [20]
+a. Explain the difference between linear   Linear Search: (5M) - O(n), sequential
+CO-4;
+search and binary search with an   checking. Binary Search: (5M) - O(log n),   [10 M]
+BL-2,4
+example.   requires sorted data.
+b. Explain the advantages of using a linked Memory Allocation: (5M) - Linked lists are
+CO-3;
+list over an array in terms of memory   dynamic. Insertion: (5M) - Easier in linked   [10 M]
+BL-2,4
+allocation and insertion operations.   lists.
+********** 2 **********
 ````
 
 ## 2024-25 · Re-Exam · Sem 5 · Answer key · paper 5851bf50d311

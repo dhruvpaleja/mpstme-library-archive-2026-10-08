@@ -2,6 +2,424 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper e511db77bc15
+
+- Departments: Artificial Intelligence
+- Programmes: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE) - 7012
+- Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE) - 7012/INTELLIGENT SYSTEMS/ANS_Final-Exam_INTELLIGENT SYSTEMS(702AI0C034)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
+- Text: text (15 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & ML)/MBA Tech (AI)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: INTELLIGENT SYSTEMS
+Date: 09 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 15 pages.
+2. Question No. _1___ is compulsory
+3. Out of remaining questions attempt any 4 Questions
+4. In all 5 questions to be attempted
+5. All questions carry equal marks
+6. Figures in brackets on right hand side indicate full marks
+7. Assume suitable data if necessary
+Q1   Answer briefly   [20]
+CO- 1;   a.   Explain the major approaches to Artificial Intelligence: Acting Humanly,   [5]
+SO- 1;   Thinking Humanly, Thinking Rationally, and Acting Rationally with
+BL-1   suitable examples.
+Explanation 4 marks
+Examples 1 mark
+The acting humanly approach : It defines intelligence based on observable
+behavior. This approach was formalized by Alan Turing in 1950 through
+the famous Turing Test.
+• According to this test, a machine is considered intelligent if it can
+imitate human behavior so well that a human interrogator cannot
+distinguish between the machine and a real human based on written
+conversation alone.
+Think Humanly: This approach is closely related to cognitive
+science, which combines insights from psychology, neuroscience,
+and artificial intelligence.
+• Example– If we want to model the thinking of Roger Federer and
+make the model system to compete with someone or against him to
+play in a tennis game, it may not be possible to replicate the exact
+thinking as Roger Federer, however, a good build of Intelligence
+systems (Robot) can play and win the game against him.
+The thinking rationally approach is based on the idea that intelligence
+involves correct reasoning This approach led to the development of
+********** 1 **********
+--- page 2 ---
+logic, which became a central tool in early AI research for
+representing knowledge and performing reasoning.
+• These laws of thought were supposed to govern the operation of the
+mind; their study initiated the field called logic.
+Act Rationally: A rational agent chooses actions that maximize the
+expected achievement of its goals, given the available information.
+•   Unlike the laws of thought approach, acting rationally does not
+require perfect reasoning. Some rational actions, such as reflexes,
+do not involve explicit inference but are still effective.
+•   Rationality is only concerned about the action taken and does
+not what the thought process
+Limitations: Achieving perfect rationality—always doing the right thing—
+is not feasible in complicated environments
+CO-2 ;   b.   Identify the Performance, Environment, Actuators and sensors for an AI-   [5]
+SO- 1;   based fraud detection system in banking.
+BL-2
+Listing PEAS parameters 4 marks
+Explanation for each 1 mark
+1. Performance Measure (P)
+This defines how well the system performs.
+•   Accuracy of fraud detection
+• Low false positives (legitimate transactions not flagged)
+•   High true positive rate (actual frauds detected)
+• Response time (real-time or near real-time detection)
+• Customer satisfaction (minimal inconvenience)
+•   Financial loss prevention
+2. Environment (E)
+This includes everything the system interacts with.
+•   Banking systems (core banking, transaction processing systems)
+•   Online transactions (credit/debit card, UPI, net banking)
+• Customer profiles and historical transaction data
+•   Fraudster activities and patterns
+•   External data sources (geolocation, device info, IP address)
+•   Regulatory and compliance requirements
+2. Actuators (A)
+These are the actions the system can take.
+•   Flagging suspicious transactions
+•   Blocking or declining transactions
+•   Sending alerts/notifications to customers or banks
+•   Triggering multi-factor authentication (OTP, verification)
+•   Freezing accounts temporarily
+********** 2 **********
+--- page 3 ---
+•   Reporting fraud cases to authorities
+4. Sensors (S)
+These are the inputs/data the system collects.
+•   Transaction details (amount, time, location)
+•   User behavior patterns (spending habits, frequency)
+•   Device information (mobile, browser, IP address)
+•   Login activity and authentication data
+•   Historical transaction data
+•   External signals (blacklists, fraud databases)
+CO6;   c.   Define Constraint Satisfaction Problem in AI. Identify Variables,   [5]
+SO-1;   Domain, and Constraints in Course Selection (5M) [Def-2M,
+BL-1   Identification-3M]
+❑ In artificial intelligence and operations research, constraint
+satisfaction is the process of finding a solution to a set of
+constraints that impose conditions that the variables must
+satisfy.
+❑ CSP is defined by a set of variables X1, X2…………Xn and set of
+conditions C1, C2……….Cn such that each of the variables Xi
+has a non-empty domain Di of possible values.
+❖ Variables- A finite set of Variables V1,V2……….Vn
+❖ Domain- Each Variable has a domain D1,D2…..Dn from which
+it can take a value.
+❖ Constraints- A finite set of satisfaction constraints C1,C2….Cn
+Identify Variables, Domain, and Constraints in Course Selection
+Variables:
+Courses → C1, C2, C3
+Domain:
+Time slots → {Morning, Afternoon, Evening}
+Constraints:
+• No time clash
+• Some courses only in morning
+• Student must take all courses
+CO - 4;   d.   Wumpus World is a classic Artificial Intelligence problem used to [5]
+SO -1 ;   represent a knowledge-based environment. It is a grid-based world
+BL- 1
+where an intelligent agent uses logical reasoning to make decisions
+under uncertainty.
+…….. 1 mark
+Structure and Layout :
+The environment consists of a 4 × 4 grid (16 rooms).
+Each room is connected to its adjacent rooms (up, down, left, right).
+The agent usually starts from the bottom-left corner of the grid.
+…….. 1 mark
+Agent in Wumpus World :
+********** 3 **********
+--- page 4 ---
+• The agent is the decision-maker that moves through the grid.
+•   It can perform actions like move forward, turn, grab gold,
+shoot arrow, and climb out.
+• The agent has limited knowledge and depends on percepts
+(clues).
+It has only one arrow to kill the Wumpus.   …….. 2 mark
+The main goal of the agent is to:
+Find and grab the gold
+Avoid Wumpus and pits
+Return safely to the starting point
+Q2   a)   Def-1M alpha (α) and beta (β) values-1M,   pruning improve [10]
+efficiency-2M, Numerical-6M stepwise analysis]
+CO-5;
+Alpha–Beta Pruning is an optimization technique used with the
+SO-1;
+BL-3   Minimax algorithm in game playing. It reduces the number of nodes that
+need to be evaluated by eliminating branches that cannot affect the
+final decision. It gives the same result as Minimax, but in less time.
+Alpha (α) and Beta (β) Values
+Alpha (α):
+The best (maximum) value found so far for the MAX player. It
+represents the lower bound of the possible solution.
+Beta (β):
+The best (minimum) value found so far for the MIN player. It represents
+the upper bound of the possible solution.
+Pruning occur when:
+How Pruning Improves Efficiency
+•   In the Minimax algorithm, all nodes in the game tree are
+evaluated.
+•   In Alpha-Beta Pruning, unnecessary branches are skipped.
+Example :
+Initially, the maximizer node A sets alpha to negative infinity and beta
+to positive infinity. Assuming that node A selects node B which inherits
+these values. Node B which is also a maximizer picks node D. At D, the
+maximizer chooses the max value (4) and then updates its alpha. Upon
+returning to B (minimizer), it compares its current beta with D’s alpha
+value. If D’s alpha is smaller, B’s beta value gets updated. In this
+example, B’s beta gets updated since D’s alpha value is smaller.
+Now, node B selects node E and passes down its current alpha and beta
+values to node E. Node E inherits the alpha value of negative infinity and
+beta value of 4. As a maximizer, E explores its left leaf node that holds a
+value of 5. Since 5 is greater than negative infinity, E’s alpha gets
+updated.
+********** 4 **********
+--- page 5 ---
+Given that alpha is greater than beta, the other leaf node in E is
+unnecessary to explore so it gets pruned.
+At node B, it compares its beta value with node E’s alpha, if E’s alpha value
+is lesser than B’s beta updates with E’s alpha. However, if E’s alpha is
+greater than B’s beta, B’s beta remains unchanged. In our example, since
+B’s beta is not greater than E’s alpha, so B’s beta value remains the same.
+Returning to node A, its alpha value updates with B’s beta value because
+B’s beta is greater than A’s alpha.
+At node A, the maximizer’s alpha becomes 4 ensuring a value of 4 or higher.
+A then explores its right child which is node R. At C, alpha is 4 and beta is
+positive infinity. C then chooses its left child F. Node F inherits the alpha
+value 4 and beta value positive infinity from the parent node. F’s left child
+yields 0 updating the F’s alpha to 4 and also F’s right child yields 1.
+Although F can achieve 1, alpha remains 4. C receives 1 from F which
+makes the beta 1. As alpha is greater than beta, the entire subtree of node G
+gets pruned. This pruning logic ensures that, as C is guaranteed 1 or less,
+it’s irrational for A to choose C over B, where A is already guaranteed 4.
+********** 5 **********
+--- page 6 ---
+CO-3;   b)   [10]
+SO-1;   For the below figure If Source node is A and destination is Z.
+BL-3   Using A star Algorithm derive the shortest path showing calculations step
+by step.
+********** 6 **********
+--- page 7 ---
+Q3   a)   Consider the crypt arithmetic problem shown below. Identify the   [10]
+CO-6;   variables, domains and constraint for this problem. (10M)
+SO-1;   Identifying the value of each letter (1 mark each) with proper
+BL-3   mathematical justification.
+S O M E
+T   I M E
+______________________
+S P E N T
+Initial state constraints:
+• No two letters have the same value.
+• The sums of the digits satisfy the predefined arithmetic rules.
+Examine the domain for each variable at every step to evaluate
+possible   solutions   for   {   S,O,M,E,N,T,P,I}
+********** 7 **********
+--- page 8 ---
+CO-1,3;   b)   i) Discuss various applications of Artificial Intelligence in the healthcare   [5]
+sector with suitable examples.
+SO-1;
+BL-1,2   Any 5 applications of AI healthcare 1 mark each   [5]
+ii) Describe the Hill Climbing Algorithm. Explain Local Minima and global
+minima with proper diagram and explanation.
+Explanation Hill Climbing (3 marks) diagram(2 marks)
+• The Hill climbing algorithm is a local search algorithm that
+continuously moves in the direction of increasing elevation/value
+to find the peak of the mountain or the best solution to the
+problem. It terminates when it reaches a peak value where no
+neighbour has a higher value.
+• The hill climbing algorithm is a technique that is used for
+optimizing mathematical problems.
+• One of the widely discussed examples of the Hill climbing
+algorithm is the travel salesman problem in which we need to
+minimize the distance traveled by the salesman.
+•   It is also called greedy local search as it only looks to its good
+immediate neighbor state and not beyond that.
+• A node of a hill climbing algorithm has two components which are
+state and value.
+********** 8 **********
+--- page 9 ---
+Q4   a)   Propositional Logic Representation (1 mark for each statement.. 5   [10]
+marks)
+CO – 4   Let:
+SO – 1   •   P: Librarian is at the desk
+BL- 3   • Q: Books are issued
+• R: Fines are checked
+•   S: Overdue books are returned
+The statements can be written as:
+********** 9 **********
+--- page 10 ---
+…4 marks for explanation
+Conclusion: The librarian was at the desk.   …………… 1 mark
+CO-6;   b)   i) In First-Order Logic (FOL), quantifiers are used to express statements [10]
+SO-1;   about a collection of objects. They specify how many elements in the
+BL-3   domain satisfy a given predicate.   ……….. 1
+mark
+Universal Quantifier (∀)   …………….2 marks
+The universal quantifier is denoted by ∀, meaning “for all”.
+It states that a predicate is true for every element in the domain.
+Existential Quantifier (∃)   ……………2 marks
+The existential quantifier is denoted by ∃, meaning “there exists at least
+one”.
+It states that a predicate is true for at least one element in the domain.
+∀ (Universal) → applies to all elements
+∃ (Existential) → applies to at least one element
+ii) Inference rules are logical patterns used to derive valid conclusions
+from given premises. They form the basis of reasoning in propositional
+logic.
+…..1 mark
+********** 10 **********
+--- page 11 ---
+…. 2 marks for rule and 2
+marks for example
+Q5   a)   [Explanation-3M, 7 setps-7M]   [10]
+CO-6;
+SO-1;
+BL-2
+Arc Consistency is a technique
+used in CSP to reduce the domain of variables by removing values
+that violate constraints.
+CO-5,6;   b)   [5]
+SO-1;
+BL-2,3   Minimax Algorithm   Alpha–Beta Pruning
+decision-making   An   optimization
+algorithm used to find   technique applied to
+the optimal move in   Minimax
+games
+Evaluates all nodes in   Evaluates   only
+the game tree   necessary nodes
+Slower due to full tree   Faster   due   to
+exploration   pruning of branches
+********** 11 **********
+--- page 12 ---
+No pruning is done   Unnecessary   i)
+branches are pruned
+Less efficient for large   More efficient for
+trees   large trees
+Gives optimal solution   Gives same optimal
+solution as Minimax
+Basic   game-playing   Used   to improve
+algorithm   Minimax
+performance
+ii)   A proposition   is a declarative   statement which   is
+either true or false.   It   is a technique of knowledge
+representation in logical and mathematical form. Example:
+•   “It is raining” → can be True or False
+• “2 + 2 = 4” → True   ………….. 2 marks
+Atomic Propositions: Atomic propositions are the simple
+propositions. It consists of a single proposition symbol. These are the
+sentences which must be either true or false.
+1. 2+2 is 4, it is an atomic proposition as it is a true fact.
+2. "The Sun is cold" is also a proposition as it is a false fact.
+•   P: “It is raining”
+• Q: “The sun is shining”
+These are basic statements with no logical connectives. …….. 1.5
+marks
+Compound propositions: Compound propositions are constructed by
+combining simpler or atomic propositions, using parenthesis and logical
+connectives.
+1. "It is raining today, and street is wet."
+"Ankit is a doctor, and his clinic is in Mumbai."   ….1.5 marks
+Q6   a) Explain the following types of AI agents in detail with diagram ,mentioning   [10]
+their advantages and limitations
+CO-2;
+SO-1;
+1) Simple Reflex Agent….Diagram and explanation(5 marks)
+BL-1
+2) Model-Based Reflex Agent…. Diagram and explanation(5 marks)
+•   Solution:
+The Simple reflex agents are the simplest agents. These agents take
+decisions on the basis of the current precepts and ignore the rest of the
+percept history.
+These agents only succeed in the fully observable environment.
+The Simple reflex agent does not consider any part of precepts history
+during their decision and action process.
+The Simple reflex agent works on the Condition-action rule, which means it
+maps the current state to action. Such as a Room Cleaner agent, it works
+only if there is dirt in the room.
+********** 12 **********
+--- page 13 ---
+• The Model-based agent can work in a partially observable
+environment, and track the situation.
+• A model-based agent has two important factors:
+• Model: It is knowledge about "how things happen in the
+world," so it is called a
+Model-based agent.
+•   Internal State: It is a representation of the current state
+based on percept history.
+•   These agents have the model, "which is knowledge of the
+world" and based on the model they perform actions.
+• Updating the agent state requires information about:
+• How the world evolves
+• How the agent's action affects the world.
+34
+********** 13 **********
+--- page 14 ---
+CO-3;   b)   Given a 3x3 board with 8 tiles (every tile has one number from 1 to 8) and   [10]
+SO-1;
+one empty space. The objective is to place the numbers on tiles in order
+BL-2
+using the empty space. We can slide four adjacent (left, right, above and
+below) tiles into the empty space. Using Greedy best first search. Show the
+step by step method to reach the goal state for the following initial state.
+1   2   3
+4   6
+7   5   8
+Initial State
+1   2   3
+4   5   6
+7   8
+Goal State
+Q7   a)   [10]
+CO-4;
+SO-1;
+BL-3
+Answer : Statement 1 is always true-Tautology ………… 1 mark
+********** 14 **********
+--- page 15 ---
+Writing all correct values for:
+column (P ∨ Q ) - 2 marks
+column (P ∨ Q ) ∧ R - 2 marks
+column (P ∧ R) - 2 marks
+column (Q ∧ R) - 2 marks
+column (P ∧ R) ∨ (Q ∧ R) – 1 mark
+CO-4;   b) Predicate form:   …….. 1 mark   [10]
+SO-1;
+• Spot is a cat
+BL-2
+→ Cat(Spot)
+• All cats are mammals
+→ ∀x (Cat(x) → Mammal(x))
+• All mammals are warm-blooded
+→ ∀x (Mammal(x) → WarmBlooded(x))
+1. Eliminate Implications   ……. 2 marks
+Using rule: P→Q = ¬P ∨ Q
+1. Cat(Spot)
+2. ∀x (¬Cat(x) ∨ Mammal(x))
+3. ∀x (¬Mammal(x) ∨ WarmBlooded(x))
+2. Standardize Variables ……. 2 marks
+Already unique (only one x)
+3. Skolemization ……. 2 marks
+No existential quantifiers
+4. Drop Universal Quantifiers ……. 2 marks
+Cat(Spot)
+¬Cat(x) ∨ Mammal(x)
+¬Mammal(x) ∨ WarmBlooded(x)
+5. CNF……. 1 marks
+********** 15 **********
+````
+
 ## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 7f4d139de744
 
 - Departments: AI and Machine Learning

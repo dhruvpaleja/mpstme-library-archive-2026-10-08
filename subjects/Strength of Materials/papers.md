@@ -1,6 +1,6 @@
 # Strength of Materials: question papers in full
 
-135 unique papers · 2005-06 to 2025-26 · Mechanical, Civil, Mechatronics, Chemical, Computer Engineering
+136 unique papers · 2005-06 to 2025-26 · Mechanical, Civil, Mechatronics, Chemical, Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -983,6 +983,186 @@ Sol :
 BL2
 
 FOR ik ir
+````
+
+## 2024-25 · Final + Re-Exam · Sem 8 · paper 021a29d7f0f9
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: MECHANICAL/SEMESTER VIII/Strength of Materials/Strength_of_Materials_Batch_2024-25_Final_Batch_2022-23_2023-24_Re_Exam_E921F39xcx.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (5 pages), mean OCR confidence 83.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENG
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2024-2025
+
+Program/s: B.Tech/ BTI Year: 2"4 /4th
+
+Stream/s: Mechanical Engineering Semester: [V/VIII
+
+Subject: Strength of Materials Time: 3 hrs (\o:ooan, to 1-00pm)
+Date:_3e/ 4 / 2024 No. of Pages: O S
+
+Marks: 100.
+
+Final Examination/Qe- Beam 2021-223, 2023-24
+(24-25) 4
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+
+of the Answer Book, which is provided for their use.
+
+(> 1) QuestionNo._1__ is compulsory.
+2) Out of remaining questions, attempt any__4 _ questions.
+3) Inall__5__ questions to be attempted. =
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+1 Answer briefly:
+Q y [20]
+CO-3; SO7- | a. Find the expression for slope and deflection of simply supported beam carrying
+BL2 point load W at mid span of ‘L’ [eo]
+CO-3; SO-7; | b. Explain the bending stress in simply supported beam
+BL-2 [05]
+a CO-3; SO-75 | c. Explain the deflection of simply supported beam and boundary conditions [05]
+BL-2
+CO-5; SO-7; | d. Derive the expression for longitudinal stress in thin cylindrical vessel. [05]
+BL2-
+--- page 2 ---
+Q2 a. Fig. Shows a section, which is subjected to a shear force of 100 kN. Determine the
+
+ot shear stresses at A, B, C and D.
+
+[10]
+
+Q2 b. Short column of rectangular cross section 80 mm by 60 mm carries a load of 40 kN
+eae rie at appoint 20 mm from longer side and 35 mm from shorter side. Determine the
+maximum compressive and tensile stresses in the section
+¥ .
+ok 80 mm alc
+x -
+
+Load Short
+
+point 20 mm + side
+
+> 30 me
+
+60 mm Na 35 mm—* mm [10]
+to [sy
+
+x a x
+
+|
+
+|
+A 7 B
+¥ 40 mm—>
+
+Q3 a. A steel shaft of solid circular section has to transmit 375 kW at 210 rpm. The
+os 7 maximum shear stress is not to exceed'50 MPa and angle of twist 1 degree in length [10]
+
+of 3 m take G = 80 GPa. Determine the diameter of shaft.
+--- page 3 ---
+co. Lee L: b. Two vertical rods one of steel and other of copper are each rigidly fixed at [10]
+BL-4 the top and a cross bar fixed to the rods at the lower ends carries a load of
+5000 N . find the stress in each rod and the position of load on the bar. Take
+
+E for steel is 2 x 10° N/mm? and E for copper is 1 x 10° N/mm?
+
+Steel’ Copper
+2cmdia 2 om dia
+
+400
+
+em
+Cross bar
+¥5000 N
+Q4 a. Fig shows a simply supported beam of span 7 m and a cross section. | [15]
+C02-; $O-1; Determine shear force diagram, bending moment diagram and bending stress
+BL-4
+3 kN 5 kh
+2 kNim {i kNém |
+oe 7 GC is B
+3m 2m 2m |
+
+Cross section of beam
+--- page 4 ---
+Q4 b. A cylindrical bar is 30 mm in diameter and 2000 mm long. The#bar is | [05]
+
+CO1-; SO-1; : subjected to uniform stress of 100 N/mm? in all direction. Calculate the
+BL-3
+
+modulus of rigidity and bulk modulus if the modulus of elasticity is 1 x 10°
+
+N/mm?’ and poisson’s ratio 0.2 .
+
+a. A circular bar abcd fixed at both ends is acted upon by forces as shown in [10]
+figure. Determine the stresses in part ab, bc and cd and displacement of
+
+each parts take E = 2 x 10° MPa and cross sectional area of parts ab, be and
+
+cd are 9 cm’, 16 cm?, 20 cm? respectively
+
+4 -_ eS
+
+Z 64 kN | | 100 kN : Modulus of elasticity,
+E Egy = E, = Ey FE
+a> b
+
+c d
+a |
+ins 45cm! 70cm! 100cm |
+CO3-; SO-1; .
+BL-4
+b. A cylindrical vessel whose ends are closed by means of rigid flange plates, [10]
+is made of steel plate 3 mm thick. The length and internel diameter of
+vessel are 50 cm and 25 cm respectively. Determine the longitudinal and
+hoop stresses in the cylindrical shell due to internal fluid pressure of 3
+N/mm? also calculate the increase in volume.
+Q6 a. Find slope and deflection in terms of ‘ EI’ at free end of cantilever beam shownin | [10]
+figure
+CO3-; SO-1;
+ns 080 KA lm
+A
+b. A simply supported beam of length 4 m carries a point load of 16 KN ata [10]
+
+distance of 3 m from left support. The cross section of beam is as shown in
+--- page 5 ---
+r sim
+
+figure. Determine the maximum tensile and compressive stress at a section
+
+which is at a distance of 2.25 m from left support
+
+as —>| 25 SOmM 25 =
+C02-; SO-1; i
+mm y] if
+a a: 400 mm —
+Q7 a. Draw S.F. and B.M. diagram for the beam as shown in figure [10]
+COS5-; SO-1; ——
+BL-4 50 kN
+N 40Ktwm 40 kN
+}_ B
+2m
+E a tt te 4p
+10m
+Q7 b. Ata certain point in a beam there is a tensile bending stress of 120 N/mm? in the [10]
+COS-; SO-1; horizontal direction accompanied by shear stress 40 N/mm’. find the
+BL-3
+
+principal stresses at a point
+
+q=40 Nimm*
+
+2
+9, = 120 Nimm" o,= 120 Nimm
+
+4240. Nimm*
 ````
 
 ## 2024-25 · Final + Re-Exam · Sem 3 · paper 38d39eb1eb5d
@@ -11708,7 +11888,6 @@ aps
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/IV SEMESTER/Strength of Materials/Strength of Materials Batch 2015-16 Final.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 14/05/2016
 - Text: ocr (2 pages), mean OCR confidence 89.6
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 1
@@ -11803,6 +11982,7 @@ exceed 90 MPa and angle of twist not to exceed 1° in 2m length. Calculate the s
 values of the shear stress and angle of twist at that diameter. (7M)
 
 Q.7 b Explain: i)Mohr’s circle, ii) Core of a section, iii) Section Modulus Formula (5M)
+FOO ICG GIO III GG I Ke
 
 2/: 2.
 ````

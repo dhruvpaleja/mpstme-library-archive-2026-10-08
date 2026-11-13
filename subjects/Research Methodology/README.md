@@ -1,6 +1,6 @@
 # Research Methodology
 
-**62** unique papers (112 copies across programmes) · 2008-09 to 2025-26 · 27 programmes · Sem 5, Sem 6, Sem 8, Trim 10
+**73** unique papers (123 copies across programmes) · 2008-09 to 2025-26 · 30 programmes · Sem 1, Sem 2, Sem 5, Sem 6, Sem 8, Trim 10
 
 Download only this subject, sorted by academic year:
 
@@ -29,6 +29,9 @@ Also filed as: `RESEARCH METHODOLGOY`, `RESEARCH METHOLOGY`
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech DS 7009 | QP_Research Methodology(702CI0I004)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech IT 7001 | QP_Research Methodology(702CI0I004)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Mechanical 7003 | QP_Research Methodology(702CI0I004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 1 | MASTER OF COMMERCE (ADVANCED ACCOUNTANCY) - 45701 | QP_Final-Exam_Research Methodology(NIREM507)_Semester I_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 1 | MASTER OF COMMERCE (BANKING & FINANCE) - 45702 | QP_Final-Exam_Research Methodology(NJREM507)_Semester I_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 1 | MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703 | QP_Final-Exam_Research Methodology   (NKREM507)_Semester I_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 5 | BTech AI 7012, BTech Computer 7002, BTech CS 7055, BTech CyberSecurity 7010, BTech EXTC 7006, BTech IT 7001, BTech Mechanical 7003, BTech Mechatronics 7004 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AI 7012 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AIDS 7056 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
@@ -40,8 +43,16 @@ Also filed as: `RESEARCH METHODOLGOY`, `RESEARCH METHOLOGY`
 | 2025-26 | Final-Exam | Answer key | Sem 6 | BTech DS 7009 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | BTech IT 7001 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF COMMERCE (ADVANCED ACCOUNTANCY) - 45701 | ANS_Final-Exam_Research Methodology(NIREM507)_Semester I_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF COMMERCE (BANKING & FINANCE) - 45702 | ANS_Final-Exam_Research Methodology(NJREM507)_Semester I_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703 | ANS_Final-Exam_Research Methodology   (NKREM507)_Semester I_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech Mechanical 7003 | QP_Research Methodology(702CI0I004)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 1 | MASTER OF COMMERCE (ADVANCED ACCOUNTANCY) - 45701 | QP_Re-Exam_Research Methodology(NIREM507)_Semester I_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | MASTER OF COMMERCE (BANKING & FINANCE) - 45702 | QP_Final-Exam_Modern Networking(UIMNE552)_Semester II_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 1 | MASTER OF COMMERCE (BANKING & FINANCE) - 45702 | QP_Re-Exam_Research Methodology(NJREM507)_Semester I_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 6 | BTech Mechanical 7003 | ANS_Research Methodology(702CI0I004)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | MASTER OF COMMERCE (ADVANCED ACCOUNTANCY) - 45701 | ANS_Re-Exam_Research Methodology(NIREM507)_Semester I_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | MASTER OF COMMERCE (BANKING & FINANCE) - 45702 | ANS_Re-Exam_Research Methodology(NJREM507)_Semester I_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 6 | B TECH, MBA TECH | Research Methodology, Sem VI, Final Exam 2024-25 & Re Exam 2022-23 and 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper |  | B.TECH INTEGRATED | Research Methodology Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH, MBA TECH | Research Methodology, Sem-V, Final Exam 2024-25.pdf |

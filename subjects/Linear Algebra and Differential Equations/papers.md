@@ -1,6 +1,6 @@
 # Linear Algebra and Differential Equations: question papers in full
 
-154 unique papers · 2021-22 to 2025-26 · Computer Engineering, Data Science, Artificial Intelligence, Mechanical, Information Technology, Common (all branches), Civil, Computer Science, AI and Machine Learning, Mechatronics, AI and Data Science, Electronics and Telecommunication, Computer Science and Business Systems, Cyber Security
+174 unique papers · 2021-22 to 2025-26 · Data Science, Computer Engineering, Information Technology, Artificial Intelligence, Mechanical, Common (all branches), Civil, AI and Data Science, Computer Science, AI and Machine Learning, Electronics and Telecommunication, Mechatronics, Cyber Security, Computer Science and Business Systems
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -148,6 +148,320 @@ range and kernel of and verify Rank-Nullity theorem.
 G
 
 GR ick tod
+````
+
+## 2025-26 · Final-Exam · Sem 2 · paper 0d41007784fb
+
+- Departments: Data Science
+- Programmes: BACHELOR OF TECHNOLOGY (DATA SCIENCE) - 7009
+- Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: BACHELOR OF TECHNOLOGY (DATA SCIENCE) - 7009/Linear Algebra and Differential Equations/QP_Final-Exam_Linear Algebra and Differential Equations(702BS0C065)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
+(COMP)/B. Tech (CS)/B. Tech (CSBS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech
+(DS)/B. Tech (EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA
+Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Linear Algebra and Differential Equations
+Date: 02 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly:
+(a)    1 1 1 
+CO-1;    3 2 4 
+SO-1;   Reduce to row echelon form and find the rank of a matrix A =     .   [4]
+ 2 3 4 
+BL-Low      
+ 0 8 − 5 
+(b)   Consider the linear transformation defined by T ( x , y ) = (3 y , 2 x ) . Apply it   [4]
+CO-2;
+to the unit square with corners (0,0),(1,0),(1,1) and (0,1) . Sketch the
+SO-1;
+BL-Low   original and the resulting polygon. Also explain the geometric effect taking
+place.
+CO-3;   (c)   [4]
+SO-1;   Solve: ( 2 x 2 + 3 y 2 − 7 ) xdx + ( 3 x 2 + 2 y 2 − 8 ) ydy = 0 .
+BL-
+Moderate
+CO-4;   (d)   3   [4]
+SO-2;   Solve: d y − 2 dy + 4 y = 0 .
+BL-2   dx 3   dx
+Moderate
+(e)   Form the partial differential equation by eliminating the arbitrary function   [4]
+CO-5;   from the following equation
+SO-2;   z = x + y + f ( xy ) .
+BL-High
+(a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in amperes) meet at a
+Q2
+junction. Using Kirchhoff ’s laws, the following system of linear
+CO-6;   equations is obtained   [6]
+SO-2;   i 1 + i 2 + i 3 = 6; 2 i 1 − i 2 + i 3 = 3; 3 i 1 + i 2 + 2 i 3 = 10 .
+BL-Low
+Find the values of the currents i 1 , i 2 , i 3 .
+********** 1 **********
+--- page 2 ---
+(b)   If T : R 3 → R 2 , T ( x , y , z ) = ( x + 2 z , 3 x − z ) and
+CO-2;
+SO-1;   S : R 2 → R 3 , S ( x , y ) = ( x , x + y , y ) , then find S T and T S . Write the
+BL-   [6]
+matrix associated with T , S , S T and T S with respect to the standard
+Moderate
+basis.
+CO-4;   (c)
+SO-2;
+BL-   Use variation of parameters method to solve y '' + 3 y ' + 2 y = 2 e x .   [8]
+Moderate
+Q3   (a)
+CO-1;   Prove that V =  ( x , y , z , w )  R 4 / x + 2 y = 0 & 2 z + 3 w = 0  is a subspace of
+[6]
+SO-1;   R 4 .
+BL-
+Moderate
+(b)   Verify Cayley-Hamilton theorem for the matrix A and hence find A −, 1
+CO-2;
+SO-1;    1   2 − 2 
+BL-         [6]
+where A =  − 1 3   0  .
+Moderate     0 − 2 1  
+(c)   Solve the following differential equation by using operator method
+CO-4;
+SO-2;   ( D 2 − 3 D + 2 ) y = e − 2 x + e x cos2 x .   [8]
+BL-Low
+Q4   (a)
+Solve the following differential equation
+CO-4;
+SO-2;   2 d 2 y   dy   [6]
+BL-   x   − 3 x   + 5 y = sin ( log x ) .
+dx 2   dx
+Moderate
+(b)    3 10 5 
+If A =  − 2 − 3 − 4  then find eigen values and eigen vectors of
+   
+CO-2;     3   5   7  
+SO-2;   15 A −+ 1 A 3 + 3 A + 2 I .   [6]
+BL-Low
+(c)   i) In R 2, show that the vector ( 3,4 ) is in the linear span of
+S =  ( 1,3 ) , ( 2,1 )  .
+CO-1;
+SO-1;   ii) Examine the following set of vectors for linear dependence /   [8]
+BL-High
+independence
+ ( 1,1, − 1,1 ) , ( 1, − 1, − 2, − 1 ) , ( 3,1,0,1 )  .
+********** 2 **********
+--- page 3 ---
+(a)   In a mechanical vibration system, the displacement x ( t ) of a mass attached
+Q5   to a spring and damper satisfies the differential equation,
+CO-6;   d 2 x   dx
++ 5 + 6 x = 0   [6]
+SO-2;   dt 2   dt
+BL-Low   Initially the displacement is x ( 0 ) = 4 units and the velocity is x ' ( 0 ) = − 2
+units/sec. Find the displacement x ( t ) at time t .
+CO-3;   (b)
+SO-1;   Solve: ( x 2 + y 2 + 2 x ) dx + 2 y dy = 0 .   [6]
+BL-High
+CO-1;   (c)
+SO-1;   Determine the basis and dimension of the solution space of following
+BL-   homogeneous system   [8]
+x 1 + x 2 + x 3 + x 4 = 0; 2 x 1 + 3 x 2 + x 3 + 4 x 4 = 0; 4 x 1 + 6 x 2 + 2 x 3 + 8 x 4 = 0 .
+Moderate
+Q6   (a)   Verify that, the following functions are solutions of the wave equation
+ 2 u   2  2 u
+CO-5;    t 2 = c  x 2 .   [6]
+SO-2;
+BL-High   i) u = x 3 + 3 xt 2   ii) u = cos( ct )  sin( x ) .
+CO-3;   (b)   dy
+SO-1;   Solve: x 2   + xy = xy 3 .   [6]
+BL-Low   dx
+(c)    − 2 2 − 3 
+CO-2;      
+SO-2;   Show that the matrix A =  2   1 − 6  is diagonalizable. Find the   [8]
+BL-Low     − 1 − 2 0  
+transforming matrix and the diagonal matrix.
+Q7   (a)   [6]
+CO-6;   Pressure P and volume V satisfy ( 2 PV + V 2 ) dP + ( P 2 + 2 PV ) dV = 0 . Find
+SO-2;   the relation between P and V .
+BL-High
+CO-5;   (b)   Solve by the method of separation of variables   [6]
+SO-2;
+ u    u   x
+BL-   3 + 2   = 0 , given u ( x ,0) = 4 e− .
+ x    y
+Moderate
+CO-2;   (c)   Consider the linear transformation T : R 3 → R 3 defined by   [8]
+SO-1;   T ( x , y , z ) = ( x − y + z , x + 2 z , 5 x − 2 y + 8 z ) . Find the range and kernel of
+BL-Low
+the given transformation. Verify rank–nullity theorem.
+********** 3 **********
+````
+
+## 2025-26 · Final-Exam · Sem 2 · paper b8de8b589a6b
+
+- Departments: Civil
+- Programmes: BACHELOR OF TECHNOLOGY(CIVIL ENGINEERING) - 7005
+- Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: BACHELOR OF TECHNOLOGY(CIVIL ENGINEERING) - 7005/Linear Algebra and Differential Equations/QP_Final-Exam_Linear Algebra and Differential Equations(702BS0C065)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
+(COMP)/B. Tech (CS)/B. Tech (CSBS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech
+(DS)/B. Tech (EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA
+Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Linear Algebra and Differential Equations
+Date: 02 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly:
+(a)    1 1 1 
+CO-1;    3 2 4 
+SO-1;   Reduce to row echelon form and find the rank of a matrix A =     .   [4]
+ 2 3 4 
+BL-Low      
+ 0 8 − 5 
+(b)   Consider the linear transformation defined by T ( x , y ) = (3 y , 2 x ) . Apply it   [4]
+CO-2;
+to the unit square with corners (0,0),(1,0),(1,1) and (0,1) . Sketch the
+SO-1;
+BL-Low   original and the resulting polygon. Also explain the geometric effect taking
+place.
+CO-3;   (c)   [4]
+SO-1;   Solve: ( 2 x 2 + 3 y 2 − 7 ) xdx + ( 3 x 2 + 2 y 2 − 8 ) ydy = 0 .
+BL-
+Moderate
+CO-4;   (d)   3   [4]
+SO-2;   Solve: d y − 2 dy + 4 y = 0 .
+BL-2   dx 3   dx
+Moderate
+(e)   Form the partial differential equation by eliminating the arbitrary function   [4]
+CO-5;   from the following equation
+SO-2;   z = x + y + f ( xy ) .
+BL-High
+(a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in amperes) meet at a
+Q2
+junction. Using Kirchhoff ’s laws, the following system of linear
+CO-6;   equations is obtained   [6]
+SO-2;   i 1 + i 2 + i 3 = 6; 2 i 1 − i 2 + i 3 = 3; 3 i 1 + i 2 + 2 i 3 = 10 .
+BL-Low
+Find the values of the currents i 1 , i 2 , i 3 .
+********** 1 **********
+--- page 2 ---
+(b)   If T : R 3 → R 2 , T ( x , y , z ) = ( x + 2 z , 3 x − z ) and
+CO-2;
+SO-1;   S : R 2 → R 3 , S ( x , y ) = ( x , x + y , y ) , then find S T and T S . Write the
+BL-   [6]
+matrix associated with T , S , S T and T S with respect to the standard
+Moderate
+basis.
+CO-4;   (c)
+SO-2;
+BL-   Use variation of parameters method to solve y '' + 3 y ' + 2 y = 2 e x .   [8]
+Moderate
+Q3   (a)
+CO-1;   Prove that V =  ( x , y , z , w )  R 4 / x + 2 y = 0 & 2 z + 3 w = 0  is a subspace of
+[6]
+SO-1;   R 4 .
+BL-
+Moderate
+(b)   Verify Cayley-Hamilton theorem for the matrix A and hence find A −, 1
+CO-2;
+SO-1;    1   2 − 2 
+BL-         [6]
+where A =  − 1 3   0  .
+Moderate     0 − 2 1  
+(c)   Solve the following differential equation by using operator method
+CO-4;
+SO-2;   ( D 2 − 3 D + 2 ) y = e − 2 x + e x cos2 x .   [8]
+BL-Low
+Q4   (a)
+Solve the following differential equation
+CO-4;
+SO-2;   2 d 2 y   dy   [6]
+BL-   x   − 3 x   + 5 y = sin ( log x ) .
+dx 2   dx
+Moderate
+(b)    3 10 5 
+If A =  − 2 − 3 − 4  then find eigen values and eigen vectors of
+   
+CO-2;     3   5   7  
+SO-2;   15 A −+ 1 A 3 + 3 A + 2 I .   [6]
+BL-Low
+(c)   i) In R 2, show that the vector ( 3,4 ) is in the linear span of
+S =  ( 1,3 ) , ( 2,1 )  .
+CO-1;
+SO-1;   ii) Examine the following set of vectors for linear dependence /   [8]
+BL-High
+independence
+ ( 1,1, − 1,1 ) , ( 1, − 1, − 2, − 1 ) , ( 3,1,0,1 )  .
+********** 2 **********
+--- page 3 ---
+(a)   In a mechanical vibration system, the displacement x ( t ) of a mass attached
+Q5   to a spring and damper satisfies the differential equation,
+CO-6;   d 2 x   dx
++ 5 + 6 x = 0   [6]
+SO-2;   dt 2   dt
+BL-Low   Initially the displacement is x ( 0 ) = 4 units and the velocity is x ' ( 0 ) = − 2
+units/sec. Find the displacement x ( t ) at time t .
+CO-3;   (b)
+SO-1;   Solve: ( x 2 + y 2 + 2 x ) dx + 2 y dy = 0 .   [6]
+BL-High
+CO-1;   (c)
+SO-1;   Determine the basis and dimension of the solution space of following
+BL-   homogeneous system   [8]
+x 1 + x 2 + x 3 + x 4 = 0; 2 x 1 + 3 x 2 + x 3 + 4 x 4 = 0; 4 x 1 + 6 x 2 + 2 x 3 + 8 x 4 = 0 .
+Moderate
+Q6   (a)   Verify that, the following functions are solutions of the wave equation
+ 2 u   2  2 u
+CO-5;    t 2 = c  x 2 .   [6]
+SO-2;
+BL-High   i) u = x 3 + 3 xt 2   ii) u = cos( ct )  sin( x ) .
+CO-3;   (b)   dy
+SO-1;   Solve: x 2   + xy = xy 3 .   [6]
+BL-Low   dx
+(c)    − 2 2 − 3 
+CO-2;      
+SO-2;   Show that the matrix A =  2   1 − 6  is diagonalizable. Find the   [8]
+BL-Low     − 1 − 2 0  
+transforming matrix and the diagonal matrix.
+Q7   (a)   [6]
+CO-6;   Pressure P and volume V satisfy ( 2 PV + V 2 ) dP + ( P 2 + 2 PV ) dV = 0 . Find
+SO-2;   the relation between P and V .
+BL-High
+CO-5;   (b)   Solve by the method of separation of variables   [6]
+SO-2;
+ u    u   x
+BL-   3 + 2   = 0 , given u ( x ,0) = 4 e− .
+ x    y
+Moderate
+CO-2;   (c)   Consider the linear transformation T : R 3 → R 3 defined by   [8]
+SO-1;   T ( x , y , z ) = ( x − y + z , x + 2 z , 5 x − 2 y + 8 z ) . Find the range and kernel of
+BL-Low
+the given transformation. Verify rank–nullity theorem.
+********** 3 **********
 ````
 
 ## 2025-26 · Final-Exam · Sem 2 · paper f4740b6f6dbf
@@ -1951,6 +2265,449 @@ CO-5; SO-
 1;    u    u   − x   [6]
 BL- High   3   + 2   = 0, where u ( x ,0) = 4 e   .
  x    y
+********** 3 **********
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper 4eae2f375d32
+
+- Departments: Computer Engineering
+- Programmes: BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) - 7002
+- Source: `00_Original_Downloads/2025/Semester II/75268__Re-Exam.zip :: BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) - 7002/Linear Algebra and Differential Equations/QP_Re-Exam_Linear Algebra and Differential Equations(702BS0C065)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
+(COMP)/B. Tech (CS)/B. Tech (CSBS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech
+(DS)/B. Tech (EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA
+Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Sem 2 Re-exam(Exam Year: 2025-2026)
+Subject: Linear Algebra and Differential Equations
+Date: 29 Jun 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly:
+(a)    1 0 − 1 2 
+CO-1;    2 1 2   1 
+SO-1;   Reduce to row echelon form and find the rank of a matrix A =     .   [4]
+ 4 1 0   5 
+BL-Low      
+ 0 1 4 − 3 
+CO-2;   (b)   Let T : R 2 → R 2 be a linear map where T ( 1,1 ) = ( 2,0 ) and T ( 1, − 1 ) = ( 0,4 ) .   [4]
+SO-1;
+BL-Low   Find the transformation T ( x , y ) . Using this transformation find T ( 4, − 3 ) .
+CO-3;   (c)   [4]
+SO-1;   Solve: ( y cos x + 2 x ) dx + ( sin x + 3 y 2 ) dy = 0 .
+BL-
+Moderate
+CO-4;   (d)   3   2   [4]
+SO-2;   Solve: d y + 3 d y − 4 y = 0 .
+BL-2   dx 3   dx 2
+Moderate
+(e) Form the partial differential equation by eliminating the arbitrary constants from   [4]
+the following equation
+CO-5;   x 2   y 2
+SO-2;   2 z =   2 + 2 .
+BL-High   a   b
+(a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in amperes) meet at a
+Q2
+junction. Using Kirchhoff ’s laws, the following system of linear
+CO-6;   equations is obtained   [6]
+SO-2;   i 1 + i 2 + i 3 = 7; i 1 − 2 i 2 + i 3 = 1; 2 i 1 + i 2 + 3 i 3 = 12 .
+BL-Low
+Find the values of the currents i 1 , i 2 , i 3 .
+********** 1 **********
+--- page 2 ---
+CO-2;   (b)   If T : R 2 → R 2 , T ( x , y ) = ( x + 2 y , y ) and S : R 2 → R 2 , S ( x , y ) = ( 2 x , x + y ) ,
+SO-1;
+BL-   then find S T and T S . Write the matrix associated with S T and T S   [6]
+Moderate   with respect to the standard basis.
+CO-4;   (c)
+SO-2;
+BL-   Use variation of parameters method to solve ( D 2 + 1 ) y = cos ecx .   [8]
+Moderate
+Q3   (a)
+CO-1;   Prove that V =  ( x , y , z , w )  R 4 / 3 x − y = 0 & z − 4 w = 0  is a subspace of R 4 .   [6]
+SO-1;
+BL-
+Moderate
+(b) Find Characteristic equation of matrix A and hence find the matrix
+CO-2;
+SO-1;    2 − 1 1 
+BL-   represented by A 5 − 5 A 4 + 3 A 3 + 5 A 2 + 11 A + 3 I where A =  − 2 2 − 1  .   [6]
+   
+Moderate     1 − 1 2  
+(c)   Solve the following differential equation by using operator method
+CO-4;
+SO-2;   ( D 2 − 3 D + 2 ) y = e − 2 x + e x sin 2 x .   [8]
+BL-Low
+Q4   (a)
+Solve the following differential equation
+CO-4;
+SO-2;   2 d 2 y   dy   3   [6]
+BL-   x   + x   − 4 y = x .
+dx 2   dx
+Moderate
+(b)    1 1 3 
+CO-2;   Find eigen values and eigen vectors of A 3 where A =  0 2 0  .
+SO-2;         [6]
+BL-Low     0 1 2  
+(c)   i) In R 2, check whether the vector ( 7,11 ) is in the linear span of
+CO-1;   S =  ( 2,3 ) , ( 4,5 )  .
+SO-1;   [8]
+BL-High   ii) Examine the following set of vectors for linear dependence / independence
+ ( 1, − 2,4 ) , ( 3, − 1,5 ) , ( 2, − 3,6 )  .
+(a) A mass on a spring in a viscous medium follows the differential equation
+Q5   d 2 x   dx
++ 7   + 10 x = 0
+CO-6;   dt 2   dt
+[6]
+SO-2;   Given the initial conditions x ( 0 ) = 2 and x ' ( 0 ) = 2 . Find the displacement
+BL-Low   x ( t ) .
+********** 2 **********
+--- page 3 ---
+CO-3;   (b)
+SO-1;   Solve: ( 3 xy 2 − y 3 ) dx − ( 2 x 2 y − xy 2 ) dy = 0 .   [6]
+BL-High
+(c)   Find the basis and dimension of the following
+CO-1;   i) V = {( x , y , z )  R 3 / x − y = 0; y − z = 0} .
+SO-1;
+BL-   ii) W = {( x , y , z )  R 3 / x + 2 y + z = 0} .   [8]
+Moderate
+Q6   (a)   Verify that, the following functions are solutions of the wave equation
+ 2 u   2  2 u
+CO-5;    t 2 = c  x 2 .   [6]
+SO-2;
+BL-High   i) u = sin( wct )sin( wx )   ii) u = x 3 + 3 xt 2 .
+CO-3;   (b)   dy   
+SO-1;   Solve:   + 2 y tan x = sin x , at x =   ; y = 0 .   [6]
+BL-Low   dx   3
+(c)    2 1 1 
+CO-2;      
+SO-2;   Show that the matrix A =  1 2 1  is diagonalizable. Find the transforming   [8]
+BL-Low     0 0 1  
+matrix and the diagonal matrix.
+Q7   (a)   [6]
+CO-6;   Pressure P and volume V satisfy ( 2 PV + V 2 ) dP + ( P 2 + 2 PV ) dV = 0 . Find the
+SO-2;   relation between P and V .
+BL-High
+CO-5;   (b) Solve by the method of separation of variables   [6]
+SO-2;
+ u  u   x
+BL-   2   +   + 4 u = 0 , given u ( x ,0) = 3 e− .
+ x  y
+Moderate
+CO-2;   (c)   Consider the linear transformation T : R 3 → R 3 defined by   [8]
+SO-1;   T ( x , y , z ) = ( x + 2 y − z , y + z , x + y − 2 z ) . Find the range and kernel of the
+BL-Low
+given transformation. Verify rank–nullity theorem.
+********** 3 **********
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper e6bb24ab0dd8
+
+- Departments: Information Technology
+- Programmes: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY) - 7001
+- Source: `00_Original_Downloads/2025/Semester II/75268__Re-Exam.zip :: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY) - 7001/Linear Algebra and Differential Equations/QP_Re-Exam_Linear Algebra and Differential Equations(702BS0C065)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
+(COMP)/B. Tech (CS)/B. Tech (CSBS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech
+(DS)/B. Tech (EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA
+Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Sem 2 Re-exam/Semester II(Exam Year: 2025-2026)
+Subject: Linear Algebra and Differential Equations
+Date: 29 Jun 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly:
+(a)    1 0 − 1 2 
+CO-1;    2 1 2   1 
+SO-1;   Reduce to row echelon form and find the rank of a matrix A =     .   [4]
+ 4 1 0   5 
+BL-Low      
+ 0 1 4 − 3 
+CO-2;   (b)   Let T : R 2 → R 2 be a linear map where T ( 1,1 ) = ( 2,0 ) and T ( 1, − 1 ) = ( 0,4 ) .   [4]
+SO-1;
+BL-Low   Find the transformation T ( x , y ) . Using this transformation find T ( 4, − 3 ) .
+CO-3;   (c)   [4]
+SO-1;   Solve: ( y cos x + 2 x ) dx + ( sin x + 3 y 2 ) dy = 0 .
+BL-
+Moderate
+CO-4;   (d)   3   2   [4]
+SO-2;   d y   d y
+Solve:   + 3   − 4 y = 0 .
+BL-2   dx 3   dx 2
+Moderate
+(e) Form the partial differential equation by eliminating the arbitrary constants from   [4]
+the following equation
+CO-5;   x 2   y 2
+SO-2;   2 z =   +   .
+BL-High   a 2 b 2
+(a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in amperes) meet at a
+Q2
+junction. Using Kirchhoff ’s laws, the following system of linear
+CO-6;   equations is obtained   [6]
+SO-2;   i 1 + i 2 + i 3 = 7; i 1 − 2 i 2 + i 3 = 1; 2 i 1 + i 2 + 3 i 3 = 12 .
+BL-Low
+Find the values of the currents i 1 , i 2 , i 3 .
+********** 1 **********
+--- page 2 ---
+CO-2;   (b)   If T : R 2 → R 2 , T ( x , y ) = ( x + 2 y , y ) and S : R 2 → R 2 , S ( x , y ) = ( 2 x , x + y ) ,
+SO-1;
+BL-   then find S T and T S . Write the matrix associated with S T and T S   [6]
+Moderate   with respect to the standard basis.
+CO-4;   (c)
+SO-2;
+BL-   Use variation of parameters method to solve ( D 2 + 1 ) y = cos ecx .   [8]
+Moderate
+Q3   (a)
+CO-1;   Prove that V =  ( x , y , z , w )  R 4 / 3 x − y = 0 & z − 4 w = 0  is a subspace of R 4 .   [6]
+SO-1;
+BL-
+Moderate
+(b) Find Characteristic equation of matrix A and hence find the matrix
+CO-2;
+SO-1;    2 − 1 1 
+BL-   represented by A 5 − 5 A 4 + 3 A 3 + 5 A 2 + 11 A + 3 I where A =  − 2 2 − 1  .   [6]
+   
+Moderate     1 − 1 2  
+(c)   Solve the following differential equation by using operator method
+CO-4;
+SO-2;   ( D 2 − 3 D + 2 ) y = e − 2 x + e x sin 2 x .   [8]
+BL-Low
+Q4   (a)
+Solve the following differential equation
+CO-4;
+SO-2;   2 d 2 y   dy   3   [6]
+BL-   x   + x   − 4 y = x .
+dx 2   dx
+Moderate
+(b)    1 1 3 
+CO-2;   Find eigen values and eigen vectors of A 3 where A =  0 2 0  .
+SO-2;         [6]
+BL-Low     0 1 2  
+(c)   i) In R 2, check whether the vector ( 7,11 ) is in the linear span of
+CO-1;   S =  ( 2,3 ) , ( 4,5 )  .
+SO-1;   [8]
+BL-High   ii) Examine the following set of vectors for linear dependence / independence
+ ( 1, − 2,4 ) , ( 3, − 1,5 ) , ( 2, − 3,6 )  .
+(a) A mass on a spring in a viscous medium follows the differential equation
+Q5   d 2 x   dx
++ 7   + 10 x = 0
+CO-6;   dt 2   dt
+[6]
+SO-2;   Given the initial conditions x ( 0 ) = 2 and x ' ( 0 ) = 2 . Find the displacement
+BL-Low   x ( t ) .
+********** 2 **********
+--- page 3 ---
+CO-3;   (b)
+SO-1;   Solve: ( 3 xy 2 − y 3 ) dx − ( 2 x 2 y − xy 2 ) dy = 0 .   [6]
+BL-High
+(c)   Find the basis and dimension of the following
+CO-1;   i) V = {( x , y , z )  R 3 / x − y = 0; y − z = 0} .
+SO-1;
+BL-   ii) W = {( x , y , z )  R 3 / x + 2 y + z = 0} .   [8]
+Moderate
+Q6   (a)   Verify that, the following functions are solutions of the wave equation
+ 2 u   2  2 u
+CO-5;    t 2 = c  x 2 .   [6]
+SO-2;
+BL-High   i) u = sin( wct )sin( wx )   ii) u = x 3 + 3 xt 2 .
+CO-3;   (b)   dy   
+SO-1;   Solve:   + 2 y tan x = sin x , at x =   ; y = 0 .   [6]
+BL-Low   dx   3
+(c)    2 1 1 
+CO-2;      
+SO-2;   Show that the matrix A =  1 2 1  is diagonalizable. Find the transforming   [8]
+BL-Low     0 0 1  
+matrix and the diagonal matrix.
+Q7   (a)   [6]
+CO-6;   Pressure P and volume V satisfy ( 2 PV + V 2 ) dP + ( P 2 + 2 PV ) dV = 0 . Find the
+SO-2;   relation between P and V .
+BL-High
+CO-5;   (b) Solve by the method of separation of variables   [6]
+SO-2;
+ u  u   x
+BL-   2   +   + 4 u = 0 , given u ( x ,0) = 3 e− .
+ x  y
+Moderate
+CO-2;   (c)   Consider the linear transformation T : R 3 → R 3 defined by   [8]
+SO-1;   T ( x , y , z ) = ( x + 2 y − z , y + z , x + y − 2 z ) . Find the range and kernel of the
+BL-Low
+given transformation. Verify rank–nullity theorem.
+********** 3 **********
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper 37c6aa733c58
+
+- Departments: Information Technology
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (INFORMATION TECHNOLOGY) - 7041
+- Source: `00_Original_Downloads/2025/Semester II/75268__Re-Exam.zip :: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (INFORMATION TECHNOLOGY) - 7041/Linear Algebra and Differential Equations/QP_Re-Exam_Linear Algebra and Differential Equations(702BS0C065)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
+(COMP)/B. Tech (CS)/B. Tech (CSBS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech
+(DS)/B. Tech (EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA
+Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Sem 2 Re-exam/Semester II(Exam Year: 2025-2026)
+Subject: Linear Algebra and Differential Equations
+Date: 29 Jun 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly:
+(a)    1 0 − 1 2 
+CO-1;    2 1 2   1 
+SO-1;   Reduce to row echelon form and find the rank of a matrix A =     .   [4]
+ 4 1 0   5 
+BL-Low      
+ 0 1 4 − 3 
+CO-2;   (b)   Let T : R 2 → R 2 be a linear map where T ( 1,1 ) = ( 2,0 ) and T ( 1, − 1 ) = ( 0,4 ) .   [4]
+SO-1;
+BL-Low   Find the transformation T ( x , y ) . Using this transformation find T ( 4, − 3 ) .
+CO-3;   (c)   [4]
+SO-1;   Solve: ( y cos x + 2 x ) dx + ( sin x + 3 y 2 ) dy = 0 .
+BL-
+Moderate
+CO-4;   (d)   3   2   [4]
+SO-2;   d y   d y
+Solve:   + 3   − 4 y = 0 .
+BL-2   dx 3   dx 2
+Moderate
+(e) Form the partial differential equation by eliminating the arbitrary constants from   [4]
+the following equation
+CO-5;   x 2   y 2
+SO-2;   2 z =   +   .
+BL-High   a 2 b 2
+(a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in amperes) meet at a
+Q2
+junction. Using Kirchhoff ’s laws, the following system of linear
+CO-6;   equations is obtained   [6]
+SO-2;   i 1 + i 2 + i 3 = 7; i 1 − 2 i 2 + i 3 = 1; 2 i 1 + i 2 + 3 i 3 = 12 .
+BL-Low
+Find the values of the currents i 1 , i 2 , i 3 .
+********** 1 **********
+--- page 2 ---
+CO-2;   (b)   If T : R 2 → R 2 , T ( x , y ) = ( x + 2 y , y ) and S : R 2 → R 2 , S ( x , y ) = ( 2 x , x + y ) ,
+SO-1;
+BL-   then find S T and T S . Write the matrix associated with S T and T S   [6]
+Moderate   with respect to the standard basis.
+CO-4;   (c)
+SO-2;
+BL-   Use variation of parameters method to solve ( D 2 + 1 ) y = cos ecx .   [8]
+Moderate
+Q3   (a)
+CO-1;   Prove that V =  ( x , y , z , w )  R 4 / 3 x − y = 0 & z − 4 w = 0  is a subspace of R 4 .   [6]
+SO-1;
+BL-
+Moderate
+(b) Find Characteristic equation of matrix A and hence find the matrix
+CO-2;
+SO-1;    2 − 1 1 
+BL-   represented by A 5 − 5 A 4 + 3 A 3 + 5 A 2 + 11 A + 3 I where A =  − 2 2 − 1  .   [6]
+   
+Moderate     1 − 1 2  
+(c)   Solve the following differential equation by using operator method
+CO-4;
+SO-2;   ( D 2 − 3 D + 2 ) y = e − 2 x + e x sin 2 x .   [8]
+BL-Low
+Q4   (a)
+Solve the following differential equation
+CO-4;
+SO-2;   2 d 2 y   dy   3   [6]
+BL-   x   + x   − 4 y = x .
+dx 2   dx
+Moderate
+(b)    1 1 3 
+CO-2;   Find eigen values and eigen vectors of A 3 where A =  0 2 0  .
+SO-2;         [6]
+BL-Low     0 1 2  
+(c)   i) In R 2, check whether the vector ( 7,11 ) is in the linear span of
+CO-1;   S =  ( 2,3 ) , ( 4,5 )  .
+SO-1;   [8]
+BL-High   ii) Examine the following set of vectors for linear dependence / independence
+ ( 1, − 2,4 ) , ( 3, − 1,5 ) , ( 2, − 3,6 )  .
+(a) A mass on a spring in a viscous medium follows the differential equation
+Q5   d 2 x   dx
++ 7   + 10 x = 0
+CO-6;   dt 2   dt
+[6]
+SO-2;   Given the initial conditions x ( 0 ) = 2 and x ' ( 0 ) = 2 . Find the displacement
+BL-Low   x ( t ) .
+********** 2 **********
+--- page 3 ---
+CO-3;   (b)
+SO-1;   Solve: ( 3 xy 2 − y 3 ) dx − ( 2 x 2 y − xy 2 ) dy = 0 .   [6]
+BL-High
+(c)   Find the basis and dimension of the following
+CO-1;   i) V = {( x , y , z )  R 3 / x − y = 0; y − z = 0} .
+SO-1;
+BL-   ii) W = {( x , y , z )  R 3 / x + 2 y + z = 0} .   [8]
+Moderate
+Q6   (a)   Verify that, the following functions are solutions of the wave equation
+ 2 u   2  2 u
+CO-5;    t 2 = c  x 2 .   [6]
+SO-2;
+BL-High   i) u = sin( wct )sin( wx )   ii) u = x 3 + 3 xt 2 .
+CO-3;   (b)   dy   
+SO-1;   Solve:   + 2 y tan x = sin x , at x =   ; y = 0 .   [6]
+BL-Low   dx   3
+(c)    2 1 1 
+CO-2;      
+SO-2;   Show that the matrix A =  1 2 1  is diagonalizable. Find the transforming   [8]
+BL-Low     0 0 1  
+matrix and the diagonal matrix.
+Q7   (a)   [6]
+CO-6;   Pressure P and volume V satisfy ( 2 PV + V 2 ) dP + ( P 2 + 2 PV ) dV = 0 . Find the
+SO-2;   relation between P and V .
+BL-High
+CO-5;   (b) Solve by the method of separation of variables   [6]
+SO-2;
+ u  u   x
+BL-   2   +   + 4 u = 0 , given u ( x ,0) = 3 e− .
+ x  y
+Moderate
+CO-2;   (c)   Consider the linear transformation T : R 3 → R 3 defined by   [8]
+SO-1;   T ( x , y , z ) = ( x + 2 y − z , y + z , x + y − 2 z ) . Find the range and kernel of the
+BL-Low
+given transformation. Verify rank–nullity theorem.
 ********** 3 **********
 ````
 
@@ -5072,6 +5829,128 @@ given transformation. Verify rank—nullity theorem.
 FO QR Rr
 ````
 
+## 2024-25 · Final-Exam · Sem 2 · paper 2bdc76ec11f1
+
+- Departments: Information Technology
+- Programmes: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY) - 7001
+- Source: `00_Original_Downloads/2024/Semester II/67783__Final-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY) - 7001/Linear Algebra and Differential Equations/QP_Final-Exam_Linear Algebra and Differential Equations(702BS0C065)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Apr 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CE)/B. Tech
+(CIVIL)/B. Tech (CS)/B. Tech (CSE - CS)/B. Tech - (CSEDS)/B. Tech (DS)/B. Tech (EXTC)/B.
+Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech
+(DS)/MBA. Tech (IT)
+Year: I/Semester II(Exam Year: 2024-2025)
+Subject: Linear Algebra and Differential Equations
+Date: 28 Apr 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. All questions carry equal marks.
+7. Assume Suitable data if necessary.
+Q1.   Answer briefly:   Marks
+a.    1 2 − 1 3 
+   
+ 4 1   2 1 
+Reduce the matrix A =   to row-echelon form and   [4]
+CO-1; SO-1;BL-1    3 − 1 1 2 
+   
+ 1 2   0 1 
+find its rank.
+b.   Draw the image of the unit square with corners (0,0),(1,0),(1,1) ,
+(0,1) under the following linear maps and explain the geometric
+CO-2; SO-1;BL-1   effect of T   [4]
+a) T ( x , y ) = (4 x , y )
+b) T ( x , y ) = ( x + 3 y , y ) .
+c.
+Find the orthogonal trajectories of the following family of curve
+CO-3; SO-1;BL-2   [4]
+y 2 = cx 3.
+CO-4; SO-1;BL-2   d.   Solve  ( D − 2) 3 ( D 2 + D + 1) 2  y = 0.   [4]
+e.   Form the PDE by eliminating the arbitrary function from
+CO-5; SO-1;BL-2   z = x + y + f ( xy ) .   [4]
+Q2.   a.
+Solve x − 2 y −= z − 4, 2 x −+ y 3 z = 8, 3 x + y − 4 z = 0 .   [6]
+CO-1; SO-1;BL-3
+b.
+Let T : R 2 → R 3 be defined by T ( x , y ) = ( x , x − y , y ) and
+CO-2; SO-1;BL-2   [6]
+S : R 3 → R 2 be defined by S ( a , b , c ) = ( a − 2 b , a + c ) .
+********** 1 **********
+--- page 2 ---
+Find S T and matrices representing all these transformations.
+Verify that the matrix representing S T is the product of matrices
+representing S and T .
+c.   [8]
+Apply method of variation of parameters to solve the given
+CO-4; SO-2;BL-2   differential equations ( D 2 + 1 ) y = tan x .
+Q3.   a.   Show that W =  ( x , y , z )  R 3 / ax + by + cz = 0  is the subspace of
+[6]
+CO-4; SO-1; BL-3   3.
+b.   Verify Cayley-Hamilton theorem and hence find A−, 1 where
+ 1 2   3 
+CO-3; SO-2;BL-3         [6]
+A =  2 − 1 4  .
+  3 1 − 1  
+c.   Obtain power series solution in power of x of the differential   [8]
+CO-4; SO-2;BL-2   equation y  + xy  + ( x 2 + 2) y = 0.
+a.   Solve the following Euler-Cauchy differential equation:
+Q4.   2 d 2 y   dy   2   [6]
+CO-4; SO-2;BL-3   x   2 + 2 x   − 20 y = ( x + 1 ) .
+dx   dx
+b.    1 2 3 
+CO-2; SO-2;BL-1   Find eigenvalues and eigenvectors of A =  0 2 0  .   [6]
+   
+  0 0 2  
+c.   (i)   Show that the vector ( 3,4,6 ) is in linear span of
+S =  ( 1,1,1 ) , ( 1,2,4 ) , ( 1,3,9 )  .   [8]
+CO-1; SO-2; BL-2
+(ii)   Show that S =  ( 1, − 4,3 ) , ( 5,6,2 ) , ( 4,8,1 )  is linearly
+independent.
+Q5.   a.   Solve the following differential equation by Operator Method
+CO-4; SO-1;BL-1   ( D 2 + D − 6 ) y = e x cos2 x .   [6]
+b.   Solve the following differential equation
+CO-3; SO-1;BL-2   ( x 2 − xy + y 2 ) dx − xydy = 0.   [6]
+c.   Find the basis and dimension of solution space of the following   [8]
+CO-1; SO-2;BL-1   system
+x 1 + 3 x 2 + x 3 + x 4 = 0, 2 x 1 − 2 x 2 + x 3 + 2 x 4 = 0, x 1 + 11 x 2 + 2 x 3 + x 4 = 0 .
+a.   Solve the PDE using direct integration method
+Q6.    3 z   2   [6]
+2 + 18 x y + sin(2 x − y ) = 0 .
+CO-5; SO-2;BL-3    x y
+b.   The amount x of a substance present in a certain chemical
+reaction at a time t is given by dx + x = 2 − 1.5 e − t /10 .
+CO-6; SO-2;BL-3   dt 10   [6]
+If at t = 0, x = 0.5 , find x at t = 10 .
+********** 2 **********
+--- page 3 ---
+c.    6 − 2 2 
+Show that the matrix A =   − 2 3 − 1   is diagonalizable. Also   [8]
+CO-2; SO-2;BL-2
+  2 − 1 3  
+find the diagonal matrix and transforming matrix.
+Q7.   a.   Solve the following by method of Undetermined coefficients
+CO-4; SO-2;BL-3   ( D 2 − 3 D + 3 ) y = 12sin3 x   [6]
+b.   Determine the solution of PDE using the method of separation of
+CO-5; SO-2;BL-2   variables  u = 2  u + u , given that u = 6 e− 3 x when t = 0.   [6]
+ x    t
+c.
+Find the range and kernel of T : R 3 → R 3 defined by
+[8]
+CO-2; SO-2;BL-3   T ( x , y , z ) = ( x + z , x + y + 2 z ,2 x + y + 3 z ) . Verify Rank-Nullity
+theorem.
+********** 3 **********
+````
+
 ## 2024-25 · Final-Exam · Sem 2 · paper 20bb1d94e4e3
 
 - Departments: AI and Data Science
@@ -7466,6 +8345,470 @@ CO-1; SO-1;   traffic flow:
 BL- Low
 3𝑥+ 2𝑦+ 4𝑧= 7; 2𝑥+ 𝑦+ 𝑧= 4; 𝑥+ 3𝑦+ 5𝑧= 2.
 ********** 2 **********
+````
+
+## 2024-25 · Re-Exam · Sem 2 · paper ba7a6bd4f66e
+
+- Departments: AI and Data Science
+- Programmes: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE) - 7056
+- Source: `00_Original_Downloads/2024/Semester II/69329__Re-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE) - 7056/Linear Algebra and Differential Equations/QP_Re-Exam_Linear Algebra and Differential Equations(702BS0C065)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CE)/B. Tech
+(CIVIL)/B. Tech (CS)/B. Tech (CSE - CS)/B. Tech - (CSEDS)/B. Tech (DS)/B. Tech (EXTC)/B.
+Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech
+(DS)/MBA. Tech (IT)
+Year: I/Sem 2 Re-exam(Exam Year: 2024-2025)
+Subject: Linear Algebra and Differential Equations
+Date: 01 Jul 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. All questions carry equal marks.
+7. Assume Suitable data if necessary.
+Q1.   Answer briefly:   Marks
+a.    1 2 − 3 
+ 2 1 − 1 
+Reduce the matrix     to row-echelon form and find its
+CO-1; SO-1;BL-1    1 − 1 2    [4]
+   
+ 5 4 − 5 
+rank.
+CO-2; SO-1;BL-1   b.   Examine linearity of the map T : R 2 → R 2 , T ( x , y ) = ( x + 1, y ) .   [4]
+c.   dy   y
+CO-3; SO-1;BL-2   Find   =   .   [4]
+dx   2 y log y + y − x
+CO-4; SO-1;BL-2   d.   Solve  ( D − 1 ) 2 ( D 2 + 1 )  y = 0.   [4]
+e.   Form the PDE by eliminating the arbitrary function from
+CO-5; SO-1;BL-2   z = xy + f ( x 2 + y 2 ) .   [4]
+Q2.   a.
+Solve x + 2 y + z = 0, 2 x + 4 y + 6 z = 0, 3 x + 6 y + 9 z = 0 .   [6]
+CO-1; SO-1;BL-3
+b.   Determine whether T :   3 →   3 defined by
+CO-2; SO-1;BL-2   T ( x , y , z ) = (2 x −+ y z , x + y ,3 x + y + z ) is invertible. If invertible,   [6]
+find T − 1.
+c.   [8]
+Apply method of variation of parameter to solve the differential
+CO-4; SO-2;BL-2   equation ( D 2 + 1 ) y = x sin x .
+Q3.   a.   Show that W =  ( x , y , z )  R 3 / 4 x + 5 y + 3 z = 0  is the subspace of
+[6]
+CO-1; SO-1; BL-3   3.
+********** 1 **********
+--- page 2 ---
+b.   Find the characteristic equation of the matrix A given below and
+hence, find the matrix represented by
+A 8 − 5 A 7 + 7 A 6 − 3 A 5 + A 4 − 5 A 3 + 8 A 2 − 2 A + I , where
+CO-2; SO-2;BL-3    2 1 1    [6]
+A =  0 1 0  .
+   
+  1 1 2  
+c.   Obtain power series solution in power of x of the differential   [8]
+CO-4; SO-2;BL-2   equation ( x 2 − 1) y  + 3 xy  + xy = 0 with y (0) = 4 and y (0) = 6.
+a.   Solve   the   following   Euler-Cauchy   differential   equation
+Q4.   d 2 y   dy   [6]
+CO-4; SO-2;BL-3   x 2   2 + x   − 4 y = x 3 .
+dx   dx
+b.    3 1 − 1 
+CO-2; SO-2;BL-1   Find eigen values and eigen vectors of A =   2 2 − 1   .   [6]
+  2 2 0  
+c.   (i)   Is the vector ( − 4, − 3,3 ) in linear span of
+S =  ( −− 1, 2,2 ) , ( − 2,1, − 1 )  ?   [8]
+CO-1; SO-2; BL-2
+(ii)   Show that S =  ( 1,2,1 ) , ( 3, −− 1, 11 ) , ( − 2,4,14 )  is linearly
+dependent.
+Q5.   a.   Solve the following differential equation by Operator Method
+( D 2 − D ) y = 2 e x + sin2 x + x .   [6]
+CO-4; SO-1;BL-1
+CO-3; SO-1;BL-2   b.   Solve 2 mx 2 y dy + ( x 4 e x − 2 mxy 2 ) dx = 0 .   [6]
+Find basis and dimension of following:
+c.   (i) V =  ( x, y, z, u ) / y − 2z + u = 0    [8]
+CO-1; SO-2;BL-1
+(ii) W =  ( x, y, z, u ) / y = 2z,x = u  .
+a.   Solve the PDE using direct integration method
+Q6.    3 z   [6]
+2 − cos(2 x + 3 y ) = 0 .
+CO-5; SO-2;BL-3    x y
+b.   An equation in the theory of stability of an aeroplane is
+dv
+= g cos − kv , v being the velocity, g ,  and k are constants.   [6]
+CO-6; SO-2;BL-3   dt
+It is observed that at time t = 0 , velocity is also zero. Solve
+completely.
+c.
+ − 9 4 4 
+Show that the matrix A =  − 8 3 4  is diagonalizable. Find the
+   
+  − 16 8 7  
+CO-2; SO-2;BL-2   [8]
+transforming matrix M and the diagonal matrix D .
+********** 2 **********
+--- page 3 ---
+Q7.   a.   Solve the following by method of undetermined coefficients
+( D 2 + 1 ) y = 2cos x .   [6]
+CO-4; SO-2;BL-3
+b.   Determine the solution of PDE using the method of separation of
+CO-5; SO-2;BL-2   variables 4  u +  u = 3 u , given that u = 3 e− y when x = 0.   [6]
+ x  y
+c.   Find the range and kernel of T : R 3 → R 3 defined by   [8]
+CO-2; SO-2;BL-3   T ( x , y , z ) = ( x − y , y − z , z − x ) and verify Rank-Nullity theorem.
+********** 3 **********
+````
+
+## 2024-25 · Re-Exam · Sem 2 · paper f743efc14d2c
+
+- Departments: Data Science
+- Programmes: BACHELOR OF TECHNOLOGY (DATA SCIENCE) - 7009
+- Source: `00_Original_Downloads/2024/Semester II/69329__Re-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY (DATA SCIENCE) - 7009/Linear Algebra and Differential Equations/QP_Re-Exam_Linear Algebra and Differential Equations(702BS0C065)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CE)/B. Tech
+(CIVIL)/B. Tech (CS)/B. Tech (CSE - CS)/B. Tech - (CSEDS)/B. Tech (DS)/B. Tech (EXTC)/B.
+Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech
+(DS)/MBA. Tech (IT)
+Year: I/Sem 2 Re-exam(Exam Year: 2024-2025)
+Subject: Linear Algebra and Differential Equations
+Date: 01 Jul 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. All questions carry equal marks.
+7. Assume Suitable data if necessary.
+Q1.   Answer briefly:   Marks
+a.    1 2 − 3 
+ 2 1 − 1 
+Reduce the matrix     to row-echelon form and find its
+CO-1; SO-1;BL-1    1 − 1 2    [4]
+   
+ 5 4 − 5 
+rank.
+CO-2; SO-1;BL-1   b.   Examine linearity of the map T : R 2 → R 2 , T ( x , y ) = ( x + 1, y ) .   [4]
+c.   dy   y
+CO-3; SO-1;BL-2   Find   =   .   [4]
+dx   2 y log y + y − x
+CO-4; SO-1;BL-2   d.   Solve  ( D − 1 ) 2 ( D 2 + 1 )  y = 0.   [4]
+e.   Form the PDE by eliminating the arbitrary function from
+CO-5; SO-1;BL-2   z = xy + f ( x 2 + y 2 ) .   [4]
+Q2.   a.
+Solve x + 2 y + z = 0, 2 x + 4 y + 6 z = 0, 3 x + 6 y + 9 z = 0 .   [6]
+CO-1; SO-1;BL-3
+b.   Determine whether T :   3 →   3 defined by
+CO-2; SO-1;BL-2   T ( x , y , z ) = (2 x −+ y z , x + y ,3 x + y + z ) is invertible. If invertible,   [6]
+find T − 1.
+c.   [8]
+Apply method of variation of parameter to solve the differential
+CO-4; SO-2;BL-2   equation ( D 2 + 1 ) y = x sin x .
+Q3.   a.   Show that W =  ( x , y , z )  R 3 / 4 x + 5 y + 3 z = 0  is the subspace of
+[6]
+CO-1; SO-1; BL-3   3.
+********** 1 **********
+--- page 2 ---
+b.   Find the characteristic equation of the matrix A given below and
+hence, find the matrix represented by
+A 8 − 5 A 7 + 7 A 6 − 3 A 5 + A 4 − 5 A 3 + 8 A 2 − 2 A + I , where
+CO-2; SO-2;BL-3    2 1 1    [6]
+A =  0 1 0  .
+   
+  1 1 2  
+c.   Obtain power series solution in power of x of the differential   [8]
+CO-4; SO-2;BL-2   equation ( x 2 − 1) y  + 3 xy  + xy = 0 with y (0) = 4 and y (0) = 6.
+a.   Solve   the   following   Euler-Cauchy   differential   equation
+Q4.   d 2 y   dy   [6]
+CO-4; SO-2;BL-3   x 2   2 + x   − 4 y = x 3 .
+dx   dx
+b.    3 1 − 1 
+CO-2; SO-2;BL-1   Find eigen values and eigen vectors of A =   2 2 − 1   .   [6]
+  2 2 0  
+c.   (i)   Is the vector ( − 4, − 3,3 ) in linear span of
+S =  ( −− 1, 2,2 ) , ( − 2,1, − 1 )  ?   [8]
+CO-1; SO-2; BL-2
+(ii)   Show that S =  ( 1,2,1 ) , ( 3, −− 1, 11 ) , ( − 2,4,14 )  is linearly
+dependent.
+Q5.   a.   Solve the following differential equation by Operator Method
+( D 2 − D ) y = 2 e x + sin2 x + x .   [6]
+CO-4; SO-1;BL-1
+CO-3; SO-1;BL-2   b.   Solve 2 mx 2 y dy + ( x 4 e x − 2 mxy 2 ) dx = 0 .   [6]
+Find basis and dimension of following:
+c.   (i) V =  ( x, y, z, u ) / y − 2z + u = 0    [8]
+CO-1; SO-2;BL-1
+(ii) W =  ( x, y, z, u ) / y = 2z,x = u  .
+a.   Solve the PDE using direct integration method
+Q6.    3 z   [6]
+2 − cos(2 x + 3 y ) = 0 .
+CO-5; SO-2;BL-3    x y
+b.   An equation in the theory of stability of an aeroplane is
+dv
+= g cos − kv , v being the velocity, g ,  and k are constants.   [6]
+CO-6; SO-2;BL-3   dt
+It is observed that at time t = 0 , velocity is also zero. Solve
+completely.
+c.
+ − 9 4 4 
+Show that the matrix A =  − 8 3 4  is diagonalizable. Find the
+   
+  − 16 8 7  
+CO-2; SO-2;BL-2   [8]
+transforming matrix M and the diagonal matrix D .
+********** 2 **********
+--- page 3 ---
+Q7.   a.   Solve the following by method of undetermined coefficients
+( D 2 + 1 ) y = 2cos x .   [6]
+CO-4; SO-2;BL-3
+b.   Determine the solution of PDE using the method of separation of
+CO-5; SO-2;BL-2   variables 4  u +  u = 3 u , given that u = 3 e− y when x = 0.   [6]
+ x  y
+c.   Find the range and kernel of T : R 3 → R 3 defined by   [8]
+CO-2; SO-2;BL-3   T ( x , y , z ) = ( x − y , y − z , z − x ) and verify Rank-Nullity theorem.
+********** 3 **********
+````
+
+## 2024-25 · Re-Exam · Sem 2 · paper c70bfee694cf
+
+- Departments: Electronics and Telecommunication
+- Programmes: BACHELOR OF TECHNOLOGY (ELECTRONICS & TELECOMMUNICATION ENGINEERING) - 7006
+- Source: `00_Original_Downloads/2024/Semester II/69329__Re-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY (ELECTRONICS & TELECOMMUNICATION ENGINEERING) - 7006/Linear Algebra and Differential Equations/QP_Re-Exam_Linear Algebra and Differential Equations(702BS0C065)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CE)/B. Tech
+(CIVIL)/B. Tech (CS)/B. Tech (CSE - CS)/B. Tech - (CSEDS)/B. Tech (DS)/B. Tech (EXTC)/B.
+Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech
+(DS)/MBA. Tech (IT)
+Year: I/Sem 2 Re-exam(Exam Year: 2024-2025)
+Subject: Linear Algebra and Differential Equations
+Date: 01 Jul 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. All questions carry equal marks.
+7. Assume Suitable data if necessary.
+Q1.   Answer briefly:   Marks
+a.    1 2 − 3 
+ 2 1 − 1 
+Reduce the matrix     to row-echelon form and find its
+CO-1; SO-1;BL-1    1 − 1 2    [4]
+   
+ 5 4 − 5 
+rank.
+CO-2; SO-1;BL-1   b.   Examine linearity of the map T : R 2 → R 2 , T ( x , y ) = ( x + 1, y ) .   [4]
+c.   dy   y
+CO-3; SO-1;BL-2   Find   =   .   [4]
+dx   2 y log y + y − x
+CO-4; SO-1;BL-2   d.   Solve  ( D − 1 ) 2 ( D 2 + 1 )  y = 0.   [4]
+e.   Form the PDE by eliminating the arbitrary function from
+CO-5; SO-1;BL-2   z = xy + f ( x 2 + y 2 ) .   [4]
+Q2.   a.
+Solve x + 2 y + z = 0, 2 x + 4 y + 6 z = 0, 3 x + 6 y + 9 z = 0 .   [6]
+CO-1; SO-1;BL-3
+b.   Determine whether T :   3 →   3 defined by
+CO-2; SO-1;BL-2   T ( x , y , z ) = (2 x −+ y z , x + y ,3 x + y + z ) is invertible. If invertible,   [6]
+find T − 1.
+c.   [8]
+Apply method of variation of parameter to solve the differential
+CO-4; SO-2;BL-2   equation ( D 2 + 1 ) y = x sin x .
+Q3.   a.   Show that W =  ( x , y , z )  R 3 / 4 x + 5 y + 3 z = 0  is the subspace of
+[6]
+CO-1; SO-1; BL-3   3.
+********** 1 **********
+--- page 2 ---
+b.   Find the characteristic equation of the matrix A given below and
+hence, find the matrix represented by
+A 8 − 5 A 7 + 7 A 6 − 3 A 5 + A 4 − 5 A 3 + 8 A 2 − 2 A + I , where
+CO-2; SO-2;BL-3    2 1 1    [6]
+A =  0 1 0  .
+   
+  1 1 2  
+c.   Obtain power series solution in power of x of the differential   [8]
+CO-4; SO-2;BL-2   equation ( x 2 − 1) y  + 3 xy  + xy = 0 with y (0) = 4 and y (0) = 6.
+a.   Solve   the   following   Euler-Cauchy   differential   equation
+Q4.   d 2 y   dy   [6]
+CO-4; SO-2;BL-3   x 2   2 + x   − 4 y = x 3 .
+dx   dx
+b.    3 1 − 1 
+CO-2; SO-2;BL-1   Find eigen values and eigen vectors of A =   2 2 − 1   .   [6]
+  2 2 0  
+c.   (i)   Is the vector ( − 4, − 3,3 ) in linear span of
+S =  ( −− 1, 2,2 ) , ( − 2,1, − 1 )  ?   [8]
+CO-1; SO-2; BL-2
+(ii)   Show that S =  ( 1,2,1 ) , ( 3, −− 1, 11 ) , ( − 2,4,14 )  is linearly
+dependent.
+Q5.   a.   Solve the following differential equation by Operator Method
+( D 2 − D ) y = 2 e x + sin2 x + x .   [6]
+CO-4; SO-1;BL-1
+CO-3; SO-1;BL-2   b.   Solve 2 mx 2 y dy + ( x 4 e x − 2 mxy 2 ) dx = 0 .   [6]
+Find basis and dimension of following:
+c.   (i) V =  ( x, y, z, u ) / y − 2z + u = 0    [8]
+CO-1; SO-2;BL-1
+(ii) W =  ( x, y, z, u ) / y = 2z,x = u  .
+a.   Solve the PDE using direct integration method
+Q6.    3 z   [6]
+2 − cos(2 x + 3 y ) = 0 .
+CO-5; SO-2;BL-3    x y
+b.   An equation in the theory of stability of an aeroplane is
+dv
+= g cos − kv , v being the velocity, g ,  and k are constants.   [6]
+CO-6; SO-2;BL-3   dt
+It is observed that at time t = 0 , velocity is also zero. Solve
+completely.
+c.
+ − 9 4 4 
+Show that the matrix A =  − 8 3 4  is diagonalizable. Find the
+   
+  − 16 8 7  
+CO-2; SO-2;BL-2   [8]
+transforming matrix M and the diagonal matrix D .
+********** 2 **********
+--- page 3 ---
+Q7.   a.   Solve the following by method of undetermined coefficients
+( D 2 + 1 ) y = 2cos x .   [6]
+CO-4; SO-2;BL-3
+b.   Determine the solution of PDE using the method of separation of
+CO-5; SO-2;BL-2   variables 4  u +  u = 3 u , given that u = 3 e− y when x = 0.   [6]
+ x  y
+c.   Find the range and kernel of T : R 3 → R 3 defined by   [8]
+CO-2; SO-2;BL-3   T ( x , y , z ) = ( x − y , y − z , z − x ) and verify Rank-Nullity theorem.
+********** 3 **********
+````
+
+## 2024-25 · Re-Exam · Sem 2 · paper 05cdc9ffea31
+
+- Departments: Cyber Security
+- Programmes: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY) - 7010
+- Source: `00_Original_Downloads/2024/Semester II/69329__Re-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY) - 7010/Linear Algebra and Differential Equations/QP_Re-Exam_Linear Algebra and Differential Equations(702BS0C065)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CE)/B. Tech
+(CIVIL)/B. Tech (CS)/B. Tech (CSE - CS)/B. Tech - (CSEDS)/B. Tech (DS)/B. Tech (EXTC)/B.
+Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech
+(DS)/MBA. Tech (IT)
+Year: I/Sem 2 Re-exam(Exam Year: 2024-2025)
+Subject: Linear Algebra and Differential Equations
+Date: 01 Jul 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. All questions carry equal marks.
+7. Assume Suitable data if necessary.
+Q1.   Answer briefly:   Marks
+a.    1 2 − 3 
+ 2 1 − 1 
+Reduce the matrix     to row-echelon form and find its
+CO-1; SO-1;BL-1    1 − 1 2    [4]
+   
+ 5 4 − 5 
+rank.
+CO-2; SO-1;BL-1   b.   Examine linearity of the map T : R 2 → R 2 , T ( x , y ) = ( x + 1, y ) .   [4]
+c.   dy   y
+CO-3; SO-1;BL-2   Find   =   .   [4]
+dx   2 y log y + y − x
+CO-4; SO-1;BL-2   d.   Solve  ( D − 1 ) 2 ( D 2 + 1 )  y = 0.   [4]
+e.   Form the PDE by eliminating the arbitrary function from
+CO-5; SO-1;BL-2   z = xy + f ( x 2 + y 2 ) .   [4]
+Q2.   a.
+Solve x + 2 y + z = 0, 2 x + 4 y + 6 z = 0, 3 x + 6 y + 9 z = 0 .   [6]
+CO-1; SO-1;BL-3
+b.   Determine whether T :   3 →   3 defined by
+CO-2; SO-1;BL-2   T ( x , y , z ) = (2 x −+ y z , x + y ,3 x + y + z ) is invertible. If invertible,   [6]
+find T − 1.
+c.   [8]
+Apply method of variation of parameter to solve the differential
+CO-4; SO-2;BL-2   equation ( D 2 + 1 ) y = x sin x .
+Q3.   a.   Show that W =  ( x , y , z )  R 3 / 4 x + 5 y + 3 z = 0  is the subspace of
+[6]
+CO-1; SO-1; BL-3   3.
+********** 1 **********
+--- page 2 ---
+b.   Find the characteristic equation of the matrix A given below and
+hence, find the matrix represented by
+A 8 − 5 A 7 + 7 A 6 − 3 A 5 + A 4 − 5 A 3 + 8 A 2 − 2 A + I , where
+CO-2; SO-2;BL-3    2 1 1    [6]
+A =  0 1 0  .
+   
+  1 1 2  
+c.   Obtain power series solution in power of x of the differential   [8]
+CO-4; SO-2;BL-2   equation ( x 2 − 1) y  + 3 xy  + xy = 0 with y (0) = 4 and y (0) = 6.
+a.   Solve   the   following   Euler-Cauchy   differential   equation
+Q4.   d 2 y   dy   [6]
+CO-4; SO-2;BL-3   x 2   2 + x   − 4 y = x 3 .
+dx   dx
+b.    3 1 − 1 
+CO-2; SO-2;BL-1   Find eigen values and eigen vectors of A =   2 2 − 1   .   [6]
+  2 2 0  
+c.   (i)   Is the vector ( − 4, − 3,3 ) in linear span of
+S =  ( −− 1, 2,2 ) , ( − 2,1, − 1 )  ?   [8]
+CO-1; SO-2; BL-2
+(ii)   Show that S =  ( 1,2,1 ) , ( 3, −− 1, 11 ) , ( − 2,4,14 )  is linearly
+dependent.
+Q5.   a.   Solve the following differential equation by Operator Method
+( D 2 − D ) y = 2 e x + sin2 x + x .   [6]
+CO-4; SO-1;BL-1
+CO-3; SO-1;BL-2   b.   Solve 2 mx 2 y dy + ( x 4 e x − 2 mxy 2 ) dx = 0 .   [6]
+Find basis and dimension of following:
+c.   (i) V =  ( x, y, z, u ) / y − 2z + u = 0    [8]
+CO-1; SO-2;BL-1
+(ii) W =  ( x, y, z, u ) / y = 2z,x = u  .
+a.   Solve the PDE using direct integration method
+Q6.    3 z   [6]
+2 − cos(2 x + 3 y ) = 0 .
+CO-5; SO-2;BL-3    x y
+b.   An equation in the theory of stability of an aeroplane is
+dv
+= g cos − kv , v being the velocity, g ,  and k are constants.   [6]
+CO-6; SO-2;BL-3   dt
+It is observed that at time t = 0 , velocity is also zero. Solve
+completely.
+c.
+ − 9 4 4 
+Show that the matrix A =  − 8 3 4  is diagonalizable. Find the
+   
+  − 16 8 7  
+CO-2; SO-2;BL-2   [8]
+transforming matrix M and the diagonal matrix D .
+********** 2 **********
+--- page 3 ---
+Q7.   a.   Solve the following by method of undetermined coefficients
+( D 2 + 1 ) y = 2cos x .   [6]
+CO-4; SO-2;BL-3
+b.   Determine the solution of PDE using the method of separation of
+CO-5; SO-2;BL-2   variables 4  u +  u = 3 u , given that u = 3 e− y when x = 0.   [6]
+ x  y
+c.   Find the range and kernel of T : R 3 → R 3 defined by   [8]
+CO-2; SO-2;BL-3   T ( x , y , z ) = ( x − y , y − z , z − x ) and verify Rank-Nullity theorem.
+********** 3 **********
 ````
 
 ## 2024-25 · Re-Exam · Sem 2 · paper 747556374325

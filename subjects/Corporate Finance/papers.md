@@ -1,8 +1,104 @@
 # Corporate Finance: question papers in full
 
-4 unique papers · 2007-08 to 2023-24 · Information Technology, Manufacturing, Computer Engineering, Computer Science and Business Systems
+6 unique papers · 2007-08 to 2025-26 · Commerce, Information Technology, Manufacturing, Computer Engineering, Computer Science and Business Systems
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 2 · paper 1bb9b1504dd6
+
+- Departments: Commerce
+- Programmes: MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703/Corporate Finance /QP_Final-Exam_Corporate Finance (NKCOF552)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 23 Mar 2026
+- Text: text (3 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: M.Com (BM)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Corporate Finance
+Date: 23 Mar 2026   Time: 08:00 am - 10:00 am (02:00 Hrs.)
+Max Marks: 60
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use of only simple calculator allowed.
+5. All questions are compulsory
+1.   Answer the following questions   15
+a. Mr. Rohit Sharma purchased ABC Infrastructure Ltd. 9% Debenture of face value ₹1,000,   8
+which was issued 4 years ago. The debenture carries an annual coupon rate of 9% and will be
+redeemed after 8 years from now at a premium of 10% on face value. The debenture is
+currently quoted in the market at ₹920. You are required to calculate the Yield to Maturity
+(YTM) of the debenture.
+Mr. Amit Verma invested in XYZ Power Ltd. 12% Callable Debenture having a face value of
+₹1,000. The debenture carries an annual interest rate of 12%, payable every year. The maturity
+period of the debenture is 15 years, but the company has the option to call (redeem) the
+debenture after 6 years at a price of ₹1,080. Mr. Verma purchased the debenture in the market
+for ₹1,040. You are required to calculate the Yield to Call (YTC) of the debenture.
+b. A commercial bank advances a loan of ₹12,00,000 for a period of 4 years at an interest rate of   7
+12% per annum, compounded annually. The loan is to be repaid in equal annual instalments at
+the end of each year. You are required to:
+(a) Calculate the amount of annual instalment, and
+(b) Prepare a loan amortization table showing interest, principal repaid and outstanding balance
+for each year.
+Page 1 of 3
+--- page 2 ---
+2.   Answer the following questions   15
+a. A company has received large advance payments from customers for customized orders.   8
+Explain how advances from customers can serve as a source of short-term finance. Analyze its
+advantages and limitations from the company’s perspective.
+b. Differentiate between Operating Lease and Financial Lease   7
+3.   The following details are forecasted by a company for the purpose of effective utilization and   15
+management of cash for the year 2025:
+1. Estimate sales and manufacturing costs:
+Month   Sale   Material   Wages   Overhead
+April   4,20,000   2,00,000   1,60,000   45,000
+May   4,50,000   2,10,000   1,60,000   40,000
+June   5,00,000   2,60,000   1,65,000   38,000
+July   4,90,000   2,82,000   1,65,000   37,500
+August   5,40,000   2,80,000   1,65,000   60,800
+September   6,10,000   3,10,000   1,70,000   52,000
+2. Credit terms:
+Sales-20 percent sales are on cash, 50 percent of the credit sales are collected next
+month and the balance in the following month.
+· Credit allowed by suppliers is 2 months
+· Delay in payment of wages ½ (one-half) month and overheads is 1(one) month
+3. Interest on 12 percent debentures of Rs.5,00,000 is to be paid half-yearly in June and
+December.
+4. Dividends on investments amounting to Rs.25,000 are expected to be received in June,
+2025.
+5. A new machinery will be installed in June, 2025 at a cost of Rs.4,00,000 which is payable
+in 20 monthly installments from July, 2025 onwards.
+6. Advance income-tax to be paid in August, 2025 is Rs.15,000 .
+st
+7. Cash balance on 1 June, 2025 is expected to be Rs.45,000 and the company wants to keep
+it at the end of every month around this figure, the excess cash (in multiple of thousand
+rupees) being put in fixed deposit.
+Page 2 of 3
+--- page 3 ---
+You are required to prepare monthly cash budget on the basis of above information for four
+months beginning from June, 2025.
+4.   ABC Ltd. requires Rs. 50,00,000 for expansion of its operations. The company is considering   15
+the following alternative capital structures:
+Particulars   Plan A   Plan B   Plan C
+Equity Shares (₹ 10 each)   Rs. 50,00,000 Rs. 30,00,000 Rs. 20,00,000
+12% Debentures   –   Rs. 20,00,000 Rs. 20,00,000
+10% Preference Shares   Rs. 10,00,000
+Additional Information:
+Expected EBIT: ₹ 12,50,000
+Corporate Tax Rate: 30%
+Cost of Equity (Ke):
+Plan A: 14%
+Plan B & Plan C: 16%
+Required:
+1. Calculate Earnings Per Share (EPS) under all plans.
+2. Compute Weighted Average Cost of Capital (WACC) for all plans and advise which capital
+structure is preferable based on EPS & WACC
+Page 3 of 3
+````
 
 ## 2023-24 · Final-Exam · Sem 8 · paper cb48b71e73f2
 

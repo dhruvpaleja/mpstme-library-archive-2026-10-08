@@ -1,8 +1,844 @@
 # Microprocessor: question papers in full
 
-11 unique papers · 2008-09 to 2012-13 · Information Technology, Electronics and Telecommunication, Computer Engineering
+21 unique papers · 2008-09 to 2022-23 · Computer Engineering, Information Technology, Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2022-23 · Re-Exam · Sem 6 · paper 09bd6ed8d8ad
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: COMPUTER/SEMESTER VI/MICROPROCESSOR/Microprocessor_Batch_2021-22_Re_Exam0001_uPccLEdFeh.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 91.1
+
+````text
+SVKM’S NMIMS
+
+Academic Year: 2022-2023
+Program: B Tech(Intg) Stream : Computer Engineering
+Subject: Microprocessor
+
+Date:_ 24 /ApS/ 23.
+
+Marks: 100
+
+Re Examination 2021-22
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+CO- 1; SO-1; BL-1 a. Draw flag register of 8086 microprocessor and Describe Sign and Zero flags. [05]
+CO-2; 80-6; BL-2 b. Explain the following instructions of 8086 with example: [05]
+
+i) MOV AL, BL ii) ROR AL, 01H
+
+CO-3;S0-1;BL-2,3   ¢, State different types of interrupts present in 8086. Describe TYPE 2 software interrupt [05]
+of 8086 in brief.
+
+GOH; SO':BE| d. Mention properties of Math Co-processor which is compatible with 8086. [05]
+Q2 a. Draw block diagram of 8086 and describe the components of Bus Interface Unit in detail. [10]
+CO-1; SO-1; BL-2
+
+Q2 b. Which programmable interval timer IC is compatible with 8086 and used to produce [10]
+CO-4; SO-1; BL-1 hardware delay? Draw its block diagram and explain in brief.
+
+Q3 a. List hardware interrupts of 8086 and describe response of 8086 when Interrupt arrives [10]
+C0-3 80-1, BL-3 with flow diagram.
+
+Q3 b. Write an 8086 assembly language program to find addition of two 16-bit numbers. [10]
+
+CO-2; SO-6,7; BL-3
+
+1|2
+--- page 2 ---
+Q4 a. Discuss the Minimum Mode of 8086 operation with steps and necessary diagram [10]
+CO-1; SO-2; BL-4
+
+Q4 b. Mention the addressing modes of 8086 microprocessor and describe any four addressing [10]
+CO-2; SO-1; BL-2 modes with example.
+Q5 a. Draw the block diagram of Programmable Interrupt Controller. Also draw interfacing [10]
+CO-3; SO-2; BL-1 diagram of Programmable Interrupt Controller with 8086 microprocessor and explain
+
+in short.
+Q5 b. Develop an 8086 assembly language program to find the largest number in given [10]
+
+CO-2; SO-6,7; BL-6 memory array of seven bytes.
+
+Q6 a. Mention different data types supported by 8087 and explain packed BCD data types with [10]
+CO-4; SO-6; BL-2 format.
+Q6 b. State different features of 8255 PPI. Also list different operating modes of 8255 and [10]
+
+CO-4; SO-1; BL-2 describe mode | with necessary diagram.
+
+Q7 a. What is memory segmentation in 8086? Draw neat labelling diagram of segmentation [10]
+CO-1; SO-1, BL-2 & explain all segment of 8086.
+
+Q7 b. List different types of instruction set present in 8086 and explain any four arithmetic [10]
+CO- 2; SO-6; BL-2 instructions.
+
+2/2
+````
+
+## 2021-22 · Final + Re-Exam · Sem 6 · paper 63a0cec64233
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: COMPUTER/SEMESTER VI/MICROPROCESSOR/Microprocessor_2021-22_Final_Batch_2020-21_Final_Re_Exam_5wbcpS0czs.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 April 2022
+- Text: ocr (2 pages), mean OCR confidence 91.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & EN
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERL
+
+Academic Year: 2021-22
+
+Programme: B.Tech Integrated (Computer) Year: III Semester: VI
+Subject: Microprocessor
+
+Marks: 100
+Date: 08 April 2022 Time: 10.00 am - 01.00 pm
+
+Durations: 3 (Hrs)
+No. of Pages: _2
+Final Examination (2021-22) / Re-examination (2020-21)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly: [20]
+
+CO- 1; S0-1; BL-1 a. | Distinguish between minimum mode and maximum mode of 8086 [05]
+
+CO- 2; 80-6, BL-2 b. | Explain the following instructions with example: [05]
+i)DAA_ ii) ROL AL, 01H
+
+C0-3;SO-1;BL-2,3 | c. | What is interrupt? Describe hardware interrupts of 8086 in brief, [05]
+
+©0-4;S0-6;BL-1__ | d. | Mention features of Maths Co-processor 8087. [05]
+
+Q2 a. | Draw Architecture of 8086 and explain EU in detail. [10]
+
+CO-1; SO-1; BL-2 :
+
+Q2 b. | State different operating modes of 8255 PPI. Explain the Bit Set Reset mode with [10]
+
+CO-4;SO-1;BL-2 |” necessary diagram and example.
+
+Q3 ‘a. | Describe Interrupt Vector Table of 8086 with diagram. [10]
+
+CO-3 SO-1; BL-2
+
+Q3 b. | Write an 8086 assembly language program to transfer 10 bytes from one memory | [10]
+
+CO-2; SO-6,7; BL-3,5 location to another memory location using string instruction.
+
+142
+--- page 2 ---
+Q4 a. | Discuss the Minimum Mode of 8086 operation with necessary diagram. [10]
+CO-1; SO-2; BL-4
+
+Q4 b. | What are the various addressing modes available in 8086 microprocessors? Explain any | [10]
+CO-2; SO-,6; BL-2 four with example.
+
+Q5 : a. | Explain the internal architecture of 8259 PIT along with block diagram [10]
+CO-3; SO-2; BL-1
+
+Q5 b. | Write an 8086 assembly language program to find the smallest number in given [10]
+CO-2; $0-6,7; BL-3,5 _ | memory array of seven bytes.
+
+Q6 a. | List data types supported by 8087 and explain floating point data types. [10]
+CO-4; SO-6; BL-2
+
+Q6 b. | State features of 8254 PIT and Explain control word of 8254 with diagram. [10]
+
+CO-4; SO-1; BL-1
+
+2|2
+````
+
+## 2021-22 · Re-Exam · Sem 6 · paper 182db466fe64
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: COMPUTER/SEMESTER VI/MICROPROCESSOR/Mircoprocessor_Batch_2020-21__2021-22_Re_Exam0001_2OLunGniM5.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 June 2022
+- Text: ocr (2 pages), mean OCR confidence 90.2
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT/&
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENG:
+
+Academic Year: 2021-22
+
+Programme: B.Tech Integrated (Computer) Year: II Semester: VI
+Subject: Microprocessor
+: . a Marks: 100
+Date: 07 June 2022 Time: 2.00 pm to 5.00 pm
+| e Durations: 3 (Hrs)
+
+No. of Pages: 2
+Re Examination (2020- 21 / 2021-22)
+
+$
+
+~ ‘Instructions: ‘Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+,
+
+”
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+CO- 1; SO-1; BL-1 a. | Draw flag register of 8086 and Describe Carry and Zero flags. [05]
+CO- 2; SO-6; BL-2 b. | Explain the following instructions with example: [0S]
+
+i) CMP AL,BL   ii)ROR AL, 01H
+
+C0-3;S0-1;BL-2.3 | c. | What is IVT? Draw IVT of 8086 microprocessor with proper name and address labels. | [05]
+
+CO-4;S0-6;BL-1_ | d. | Mention features of Maths Co-processor 8087. [05]
+Q2 a. | Discuss memory segmentation in 8086.Also state its advantages. [10]
+CO-1; SO-1; BL-2
+
+Q2 b. | Explain the internal architecture of 8255 PPI along with block diagram. [10]
+
+CO-4; SO-1; BL-2
+
+Q3 a. | What is interrupts of 8086? Explain sequence of events takes place when [10]
+CO-3 80-1; BL-2 Interrupt occurs. .
+Q3 b. | Write an 8086 assembly language program to find average of two 16-bit numbers. [10]
+
+CO-2; $0-6,7; BL-3,5
+
+142
+--- page 2 ---
+Q4 a. | Discuss the steps of minimum Mode of 8086 operation with necessary diagram. [10]
+CO-1; SO-2; BL-4
+
+Q4 b. | What is addressing mode? List the various addressing modes available in 8086 | [10]
+CO-2; SO-,6; BL-2 microprocessor. Explain any four with example.
+
+Q5 a. | State features of 8259 PIT and draw block diagram of 8259 PIT. [10]
+CO-3; $O-2; BL-1
+
+Q5 b. | Write an 8086 assembly language program to transfer eight bytes from one memory | [10]
+CO-2; 80-6,7; BL-3,5 location to another memory location using string instruction.
+
+Q6 -|a. | List data types supported by 8087 Maths-coprocessor and explain integer data types. [10]
+CO-4; $O-6; BL-2
+
+Q6 b. | Describe 8254 PIT architecture with the help of block diagram. [10]
+CO-4; $O-1; BL-1
+
+2) 2
+````
+
+## 2018-19 · Final-Exam · Sem 6 · paper dceee0eb9b5e
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: COMPUTER/SEMESTER VI/MICROPROCESSOR/Microprocessor_2018-19_Final_CMnR8aQ2Wx.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 12 April 2019
+- Text: ocr (2 pages), mean OCR confidence 87.0
+
+````text
+‘Program :B.Tech Integrated (COMPUTER)   - , SORT ear: III Semester: VI ~
+: Academic Year: 2018-2019
+Subject: Microprocessor ~- t A Marks: 70 .
+Date : 12 April 2019 _ Time: 02.00 pm to 5.00 pm ~
+Duration: 3 (hrs)
+No. of Pages: a
+Final Examination (2018-19)/Re-examination(2017-18) .
+
+”
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1
+a. Explain flag register with diagram. (5)
+b. Explain following pins : (5)
+(i) Reset (ii) DT/R = (iii) ALE" (iv) INTR (v) M/TO
+c. Explain the following 8086 instructions. (4)
+(i) CBW (ii) MOVSB-— iii) DEC ~— (iv) MUL
+Q.2
+a. Draw block diagram of 8086 and explain BIU in detail. (8)
+b. Draw and explain the timing diagram for mode 0 of 8254 Timer. (6)
+
+Page 1 of 2
+--- page 2 ---
+°Q3 ‘
+
+a.» Draw and describe Minimum mode configuration of 8086 system. (7)
+b. Discuss the Data types handled by 8087 Math cpprocessor. (7)
+. Q4
+a. Write a program for 8086 Microprocessor to transfer block of data (10 bytes) by using (7)
+string instructions.
+“" pb. Write a program in 8086 to rearrange the given list in descending order. Assume suitable (7)
+inputs for the program.
+Q.5
+a. Draw & Explain Interrupt structure of 8086 Microprocessor with its IVT. (7)
+b. Sketch the interfacing diagram of 8086 with 8087 and explain various interface signals. (7)
+Q.6
+a. Explain addressing modes of 8086 Microprocessor with suitable example. (8)
+b. Draw and explain architecture of PPI 8255. (6)
+Q.7 Attempt ant two (14)
+
+a. With neat diagram explain the DMA Controller 8257.
+b. _ Explain the architecture of 8259 PIC with neat block diagram.
+
+c. Describe memory banking concept with suitable diagram.
+
+Page 2 of 2
+````
+
+## 2018-19 · Re-Exam · Sem 6 · paper 6d47ea704357
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: COMPUTER/SEMESTER VI/MICROPROCESSOR/Microprocessor_Batch_2017-18_2018-19_Re_Exam_x8VC0Hoz1b.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 13 June 2019
+- Text: ocr (2 pages), mean OCR confidence 91.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHN OLOGY MANAGEMENT & ENGINEERING
+Program :B.Tech Integrated (COMPUTER) -
+
+. Year: III Semester: VI
+Academic Year: 2018-2019 :
+Subject: Microprocessor ; Marks: 70 “3
+/ Time: 02.00 pm to 5.00 pm \2\}
+Duration: 3 (hrs)
+No. of Pages: 2.
+Re-examination(2017-18/18-19) CZ
+
+Date: 13 June 2019
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 Attempt all questions. ; (14M)
+A) Draw and explain the WR cycle timing diagram in the minimum mode of — 04
+operation of 8086.
+
+B) Give the format of the BSR word of 8255. Explain it and give the application 04
+of this mode.
+
+C) Classify the interrupts of 8086.Explain the Interrupt vector table. 04
+D) List the data types handled by 8087. 02
+Q.2 A) Describe the memory organization of 8086 with neat diagram. (07M)
+
+B) Mention the modes of operation of 8255 and explain mode 2 in detail with (07M)
+necessary diagrams.
+
+Q.3 A) Draw the block diagram of DMA controller, and explain the function of the (07M)
+TC and the Address register.
+B) Write an assembly language program with necessary comments for 8086 to (07M)
+find the largest number from an array of 10 numbers.
+
+Q.4 A) With an example for each, discuss the addressing mode of 8086. (07M)
+
+B) Draw the block diagram of 8259 and discuss the response of 8259 to the two (07M)
+INTA* signals generated by 8086 processor.
+
+Page 1 of 2
+--- page 2 ---
+Q.5
+
+Q.6
+
+Q7
+
+A)
+B)
+
+A)
+
+B)
+
+A)
+
+B)
+
+Draw and explain the BIU of 8086. (07M)
+Define a co-processor. Draw and explain the interfacing of 8087 to 8086. (07M)
+
+Draw the block diagram of 8253/54 Timer/Counter IC and explain the (07M)
+blocks in detail. :
+What are assembler directives. Explain with examples. (07M)
+
+Draw the Block diagram of the 8086 in maximum mode of operation and (07M)
+explain.
+Give the pin functions of the following pins of 8086. (07M)
+i) ALE ii) RESET iii)NMI iv) TEST v) HOLD
+vi) BHE* vii) READY
+
+Page 2 of 2
+````
+
+## 2017-18 · Final-Exam · Sem 6 · paper b27888a48a8e
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: COMPUTER/SEMESTER VI/MICROPROCESSOR/Microprocessor_2017-2018_Final_inip2wSo5d.pdf`
+- Printed on paper: max marks: 70; exam date: 05 May 2018
+- Text: ocr (2 pages), mean OCR confidence 91.8
+
+````text
+a
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B.Tech Integrated (COMPUTER) * Year: III « Semest
+
+Academic Year: 2017-2018
+
+Subject:Microprocessor ~
+
+Marks:70\, &\ ~
+Date:05 May 2018 Time: 2.00%i4
+Durations: 3
+: No. of Pages :
+Final Examination (2017-18) .
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qt (14M)
+A) Mention the various Data Types handled by 8087 coprocessor. (2)
+B) Write a program in 8086 to Arrange an Array of 10 numbers in Descending (4)
+order.
+C) Discuss the Memory Organization of 8086. (4)
+D) Explain with necessary format the BSR control Word for 8255 and (4)
+
+mention few examples.
+
+Q.2 A) Draw the Block diagram of 8254 and explain with necessary diagram any (07M)
+one mode of operation.
+B) Draw the Block diagram of 8259 PIC and explain the Cascaded Mode of (07M)
+
+operation.
+Q.3 A) Discuss with examples the Addressing modes of 8086. (07M)
+B) Explain the various 8257 DMA Operation Modes. (07M)
+
+fp
+--- page 2 ---
+Q4
+
+Qs
+
+Q.6
+
+Q7
+
+A)
+B)
+
+A)
+
+B) °
+
+A)
+
+B)
+
+Draw the Block Diagram of 8255 and explain its Mode 2 operation in
+
+detail with necessary diagram.
+Explain the interrupt structure of 8086 and give their Priorities.
+
+Mention the Blocks in the EU of 8086 and explain the various flags of 8086.
+Discuss the significance of memory segmentation in 8086.
+
+Draw and explain the Timing diagram for a write cycle in the MN. Mode
+of operation of 8086. /
+
+‘With necessary signals explain interfacing of 8087 with 8086 processor.
+
+Write Short Notes ON (Any 2)
+
+i) 8288 Bus Controller
+ii) Assembler Directives
+iii) 8284 clock Generator
+
+2p
+
+(07M)
+(07M)
+
+(07M)
+(07M)
+
+(07M)
+(07M)
+
+(14)
+````
+
+## 2017-18 · Re-Exam · Sem 6 · paper 3f3682c29e92
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: COMPUTER/SEMESTER VI/MICROPROCESSOR/Microprocessor_Batch_2016-17_Re_Exam_YJbzTAdPoP.pdf`
+- Printed on paper: max marks: 60; exam date: 05 May 2018
+- Text: ocr (1 page), mean OCR confidence 89.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS‘*
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B.Tech Integrated (COMPUTER) « Year: III” Semester: VI ~
+Academic Year: 2017-2018
+
+Subject:Microprocessor “ ,
+, Marks:60
+
+Date:05 May 2018 Time: 2.00 pi t
+Durations: ul
+
+No. of Pageg oe
+Re-examination (2016-17) ~ es
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all. 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql Design a 8086 based system with the following specifications (12)
+1) 8086 working at 10 MHz at maximum mode
+2) 32 KB EPROM using 16 KB devices
+3) 256 KB RAM using IC 62512
+
+Q2 A What is interrupt? Explain Type 0,1,2,3,4 interrupts supported by 8086. (6)
+B_ Write an assembly language program to perform 16 bit division. (6)
+3. A Explain various string instruction prefixes (6)
+B Design interfacing of Interrupt Controller 8259 with 8086 in minimum mode (6)
+Q4 A __ Write short note on flag register of 8086 (6)
+B_ Write a short note on 8254 Programmable Interval Timer (6)
+Q5 A __ Write short note on : Memory segmentation in 8086 (6)
+
+B What is an ISR? How does 8086 acknowledge an interrupt? Draw flowchart for interrupt (6)
+processing sequence
+
+Q6 <A What are the different data types supported by 8087 (6)
+B Draw and explain timing diagram for memory read operation in minimum mode. (6)
+Q7 A Explain the following addressing modes with suitable instruction. (6)
+
+a. Direct addressing
+b. Immediate addressing
+c. Register indirect addressing
+
+B Describe working of 8255 PPI with block diagram. (6)
+
+pap 4of4
+````
+
+## 2017-18 · Re-Exam · Sem 6 · paper af6485d7a47c
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: COMPUTER/SEMESTER VI/MICROPROCESSOR/Microprocessor_Batch_2017-18_Re_Exam_zt2tO0FYB8.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 29 June 2018
+- Text: ocr (1 page), mean OCR confidence 92.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+_ Program: B.Tech Integrated (Computer) Year: II] Semester : VI
+
+AcademicYear: 2017-2018
+- Subject: Microprocessor
+Marks: 70
+Time: 10.00 am
+Durations: 3 (Hrs) ‘
+No. of Pages: _] -
+Re-Examination (2017-18)
+
+Date : 29 June 2018
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 a. Explain the programming model of 8086 processor with appropriate diagram. [5]
+
+b. Explain different string instructions used in 8086 processor. [5]
+c. Justify the significance of bit set reset mode in 8255 Programmable Peripheral Interface and draw the
+control word format. [4]
+Q.2 a. Draw the timing diagram for memory write bus cycle of 8086 in maximum mode. [5]
+b. Write an assembly language program for finding square root of a hexadecimal number. [5]
+c. Differentiate between maximum and minimum mode operation of 8086 processor. [4]
+
+Q.3 a.Justify the need of banking in 8086 processor. How is it implemented with respect to 8086
+
+Processor. (7]
+
+b. Describe different operating modes of 8259 PIC. (7]
+
+Q.4 a. Draw the interrupt vector table of 8086 processor and explain the dedicated interrupts. {7]
+
+b. Explain the need of 8237 DMA controller on 8086 based system. (7]
+
+Q.5 a. Explain any seven addressing modes used in 8086 processor with valid examples. [7]
+
+b. Explain with suitable diagram the architecture of 8087 co-processor. [7]
+
+Q.6 a. Draw and explain the functional block diagram of 8288 bus controller. [7]
+
+b. Explain the flag structure of 8086 processor. [7]
+
+Q.7 a. Explain the following instructions with valid examples: [7]
+i. XCHG ii. LAHF iii. NEG
+
+b. Draw and explain the functional block diagram of 8254 Programmable Interval Timer. [7]
+
+=
+````
+
+## 2016-17 · Final-Exam · Sem 6 · paper acedc57f51bc
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: COMPUTER/SEMESTER VI/MICROPROCESSOR/Microprocessor_2016-2017_Final_LltNbglF6o.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 08 May 2017
+- Text: ocr (1 page), mean OCR confidence 91.0
+
+````text
+=—
+i ie
+
+SVKM’s NMIMS .
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & Sinead * ‘Ps
+
+Programme: B.Tech Integrated ( Computer ) Year: III Seta eat ae
+
+Academic Year: 2016-2017
+
+Subject : Microprocessor Marks: 60
+
+Time : 10.00 am to 1.00 pm
+Date : 08 May 2017 Durations: 3 (hrs)
+
+No. of Pages: _.
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4questions.
+
+_.3) In all 5 questions to be attempted.
+
++) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.la Draw timing diagram for memory read bus cycle of 8086 in Maximum mode. [4]
+b Identify and explain the addressing modes for the following instructions and show [4]
+physical address generation with an example
+
+i. MOV AX, [BX+SI]
+ii. | MOV DxX, [1234]
+
+c How is 8087 Coprocessor useful? : [4]
+Q.2a Design minimum mode configuration of 8086. [6]
+b Explain the following instructions with an example [6]
+
+i. CMP ii. DAA ili. XCHG
+
+Q3a Using string instruction write a program in 8086 assembly language to transfer 10 [6]
+bytes of data from location 20000H to 30000H.
+
+b With the help of flowchart explain the interrupt processing sequence of 8086. [6]
+Q4a Explain the block diagram of 8255 PPI. [6]
+b Discuss different data types supported by 8087. [6]
+Q5a Draw architecture of 8086 and explain Execution Unit in detail. [6]
+b Explain various data transfer modes supported by 8237 DMA controller . [6]
+Q.6a Write an assembly language program to find largest number in array. Demonstrate by [6]
+taking an example.
+b Explain dedicated interrupts found in interrupt vector table of 8086 microprocessor. [6]
+Q7a Write short note on: [6]
+i. Memory Banking in 8086
+il. Sources of interrupt
+
+b Draw and explain the functional block diagram of Programmable Interval Timer (8254). [6]
+
+ew B NE
+
+i)
+````
+
+## 2016-17 · Re-Exam · Sem 6 · paper 7b9d2b821d19
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: COMPUTER/SEMESTER VI/MICROPROCESSOR/Microprocessor_Batch_2016-17_Re_Exam_faTLBGYI5z.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 29 June 2018
+- Text: ocr (1 page), mean OCR confidence 91.4
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Program: B.Tech Integrated (Computer) Year: II] Semester : VI.”
+
+AcademicY ear: 2017-2018
+_ Subject: Microprocessor
+Marks: 60
+Date: 29 June 2018 Time: 10.00 ee fat?
+e: 10.00 am RAW P
+Durations: 3 (Hrs) <r an
+IS UNIVERSSS
+
+No. of Pages:___|
+Re-Examination (2016-17) ;
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks. ;
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q..la What is the need of memory segmentation? : [4]
+b Describe various sources of Interrupt: (4]
+c Explain the following instruction with an example [4]
+
+a) MUL b) PUSH
+
+Q2a Describe any three modes of operation of 8254 (Programmable Interval Timer) [6]
+b Describe the processing sequence of interrupt with the help of flowchart [6]
+Q3a Design and explain maximum mode configuration of 8086 microprocessor [6]
+b Write an assembly language program to add two 16 bit numbers [6]
+QAa Describe different data transfer modes of DMA controller [6]
+b Write short note on Coprocessor 8087 [6]
+Q5a State different operating modes of 8255. Explain mode 0 and model [6]
+b Describe any three addressing modes of 8086 with an example [6]
+Q.6a Write an assembly language program to find average of two 16 bit number [6]
+b Draw and explain memory read timing diagram of 8086 in minimum mode [6]
+Q7a What is purpose of Interrupt? Describe dedicated interrupts of 8086 [6]
+b Draw internal architecture of 8086 and explain execution unit in detail [6]
+
+xy
+````
 
 ## 2012-13 · Exam not stated · Trim 4 · paper c4cfd2c02cf4
 

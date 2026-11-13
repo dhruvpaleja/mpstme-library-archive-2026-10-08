@@ -1,8 +1,1131 @@
 # Advanced Design of Concrete Structures: question papers in full
 
-10 unique papers · 2013-14 to 2018-19 · Civil
+14 unique papers · 2013-14 to 2022-23 · Civil
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2022-23 · Final-Exam · Sem 10 · paper 8cd9ac615995
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: CIVIL/SEM X/ADVANCED DESIGN OF CONRETE STRUCTURES/Advanced_Design_of_Concrete_Structures_Batch_2022-23_Final_38P1x99EXO.pdf`
+- Printed on paper: max marks: 100; exam date: 20/ 04 / 2023
+- Text: ocr (5 pages), mean OCR confidence 78.8
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+Program/s: B. Tech Integrated
+Stream/s : Civil
+Subject: Advanced Design of Concrete Structures
+Date: 20/ 04 / 2023
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+—, 1) Question No._1___ is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions.
+3) In all___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+8) Use of IS 456:2000 is permitted.
+9) Use concrete grade of M20 and steel grade of Fe415, unless specified otherwise.
+
+Ql
+
+Answer briefly: [20]
+CO-1;
+ae a Discuss the design procedure for dog legged staircase. [5]
+CO-3; 2
+
+_ ao b Discuss the various forces acting on the retaining walls. [5]
+
+CO- 4; : - —
+4 2; 7 Discuss various types of joints in water tank construction. [5]
+co-2; Discuss the design procedure for simple raft footing subjected to symmetrical
+SO- 2; d. | loading. [5]
+BL-2
+
+Design a rectangular combined footing without beam for two columns having cross-
+Q2 section of 250 x 250 mm and 300 x 300 mm are loaded with 300 kN and 500 kN
+
+2: 20]
+
+cole respectively. The center to center distance between the column is 4 m and the bearing
+BL-6
+
+capacity of soil is 100 kN/m*. Draw reinforcement details.
+
+45
+--- page 2 ---
+Q3 Design a continuous one-way slab for a span of 3 m for a residential building. Assume live
+
+CO load as 2.5 KN/m’ and Floor finish as 1.5 KN/m?. Use M25 & Fe500 grade of concrete and | [20]
+
+e steel. Draw reinforcement details.
+Design a corner slab which is a part of continuous two-way slab for a span of 5 m
+et x 5m for a residential building. Assume live load as 2.5 kKN/m? and Floor finish as 20)
+50-4, 1.5 kN/m?. Use M20 & Fe415 grade of concrete and steel. Draw reinforcement
+“s details.
+Design a circular water tank with fixed base and open at top for a capacity of
+°° 5,00,000 litres resting on ground. The materials are M30 grade of concrete and [20]
+S0-4 HYSD reinforcement of grade Fe415. Draw reinforcement details.
+Design an open well staircase block of a commercial building having floor to floor
+Q6 height is 3.8 m. Assume live load as 5 KN/m? and Floor finish as 1 kN/m?. Use
+S04, M20 & Fe415 grade of concrete and steel. Recommended riser = 160 mm and ey
+ue tread = 300 mm. Draw reinforcement details.
+Determine suitable dimensions of a reinforced concrete cantilever retaining wall,
+that is required to support earth 4.2 m high above the ground level. Earth fill is
+subjected to surcharge pressure of 20 kN/m? due to the construction of the building.
+a? Assume good soil for foundation at a depth of 2 m below the ground level on the
+S044 toe side. Safe bearing capacity of soil is 150 kN/m*. Assume the backfill comprise a
+
+of granular soil with a unit weight of 20 kN/m? and angle of resistance of 30°.
+Assume the coefficient of friction between soil and concrete to be 0.5. Check the
+
+retaining wall for stability. Draw reinforcement details.
+
+2/5"
+--- page 3 ---
+Table 1 Permissible Concrete Stresses in
+
+Calculations Relating to Resistance
+to Cracking
+(Clauses 4,5.1(c), 4.5.2.1 and 6.3(d)}
+Ne. Cowerete When?
+
+TT
+
+Direct Tension Tension Des
+
+a to Bending
+(wy) Q) @) (4)
++ Ms 13 18
+a BO is 2.8
+iid) MBS 16 22
+iv) Mao 1s 24
+¥) MAS 20 26
+vi) M50 ai 28
+
+NOTE — The maximum valnes of shear stress in concrete
+shall be as piven in IS 456,
+
+Tuble 4 Permizalble Stresses is Steel
+Reinforcement for Strength
+
+Sl Type of Stresa is Sel = Prrminaible Stresses, Némma*
+
+Ne Reinforcement
+Plain Round High Stengss
+Mid Sted Bars Deforrosd Ban
+
+(1) Q) (3) (4)
+wide det nto,
+bending sad des
+it) Compecasrre srcas ia (23 14
+cobernms subjected to
+direct koad
+
+as
+
+Table § Minimum Percentage of Reinforcement
+( Clause 8.1.1)
+
+Si Grade of Elevated Tank Ground
+
+No. Reinforcement with Length supported Tank
+(see Note 1) with Length
+
+(see Note 1)
+
+Sl4m+228m <i4m 222m
+
+qQ) Q) GQ) @) (3) ©
+
+1) Fe250 044 0.66 0.40 0.60
+Percent Percent Percent Percent
+
+ii) Fe 41S or 0.28 0.42 024 0.36
+Fe 500 Percent Percent Percent Percent
+--- page 4 ---
+IS 3370 (Part 4/Sec 3) : 2021
+
+‘Table 3 Ring Tension Coefficients for Case 1 Arrangement
+( Table 1, Clauses 3.1 and 3.1.6 )
+
+Coefficients at Point (see Notes 1 and 2 at the end of Tabie 3A)
+
+HYDE
+0.0H OL O2 03H 04H 05H 0.6H 0.7K O.8H OH
+04 +0149 | 40.134 | +0120 | +0101 | +0.082 | +0.066 | +0049 | +0.029 | +0014 | +0.004
+08 +0.263 +0.239 | 40.215 | +0190 | +0.160 | +0.130 | +0096 | +0.063 | +0034 | +0.010
+12 +0283 | +0271 | +0254 | +0.234 | +0209 | +0180 | +0142 | +0.099 | +0.054 | +0.016
+1.6 +0.265 +0268 | 40.268 | +0266 | +0250 | +0.226 | +0185 | +0134 | +0075 | +0.023
+2.0 +90.234 *O.251 +0.273 +0.285 +0.285 46.274 +0232 +0.172 +0.104 +0.031
+3.0 +0.134 | +0203 +0.267 | +0322 | +0357 | +0362 | +0330 | +0.262 | +0157 | +0.052
+4.0 +0.067 | +0.16¢ | +0256 | +0339 | +0403 | +0429 | +0409 | +0334 | +0.210 | +0.073
+5.0 +0.025 +0.137 | 40.245 | +0346 | +0428 | +0477 | +0469 | +0398 | +0259 | +0.092
+
+6.0 +0.018 +0.119 +0.234 0.344 +0441 0.504 +0.514 +0.447 +0.301 +0.112
+
+80 -0.011 +0.104 40.218 +0.335 +0.443 +0.534 +0575 +0.530 +0.381 +0151
+10.0 -0.011 +0.098 +0.208 +0.323 +0.437 +0.542 +0.608 +0.589 +0.440 40.179
+12.0 -0.005 +0.097 +0.202 +0312 +0.429 +0.543 +0.628 +0.633 +0.494 +0.211
+14.0 0.002 +0.098 +0.200 +0.306 +0.420 +0.539 40.639 +0.666 +0.541 40.241
+16.0 0.000 +0.099 +0.199 +0.304 +0412 40.531 +0.641 +0.687 +0.582 +0.265
+
+Table 4 Moment Coefficients for Case 1 Arrangement
+( Table 1, Clauses 3.1 and 3.1.6)
+
+wyDt Coefficients at Point ( see Notes 1 and 2 at the end of Table 44)
+Ola 0.2 0.3 04H O.SH 0.6 0.7 08H OSH 1.0%
+04 +.000 5 +0014 +0021 +.000 7 ~.004 2 ~0150 -.030 2 -.052 9 -.081 6 ~.1205
+08 +.001 1 +.003 7 +.005 3 +.008 0 +,0070 +.002 3 -.006 8 -.0224 -0.465 -.079 5
+1.2 +.0012 +0042 +0077 +0103 +0112 +.009 0 +0022 -.0108 -.0311 -.060 2
+1.6 +.0011 +.0041 +.007 5 +.0107 +0121 +0111 +.005 8 -005 1 -.023 2 -.050 $
+20 +.001 0 +,003 5 +006 8 +009 9 +0120 +0115 +0075 -.002 1 -018 5 -.043 6
+3.0 +.000 6 +.002 4 +004 7 +.007 1 +,009 0 +.009 7 +0077 +.0012 -.0119 -.033 3
+40 +.000 3 +001 5 +.002 8 +.004 7 +.006 6 +.0077 +.006 9 +.002 3 -.008 0 -.026 8
+3.0 +.000 2 +.000 8 +0016 +.002 8 +.004 6 +005 9 +.005 9 +.002 8 -.005 8 -.022 2
+6.0 +.000 1 +.000 3 +.000.8 +0019 +0032 +004 6 +0051 +.0029 -.004 1 -.0187
+8.0 .000 0 +.0001 +.000 2 +.000 8 +.0016 +.002 8 +.003 8 +.002 9 -.002 2 -.0146
+10.0 000 0 .000 0 +.0001 +.000 4 +.000 7 +.0019 +.002 9 +0028 -.001 2 -.0122
+12.0, -000 0 ~.090 0 +0001 +.000 2 +,000 3 +.001 3 +002 3 +.002 6 ~.000 5 -.0104
+14.0 -000 0 -000 0 000 0 0000 +0001 +.000 8 +0019 +.002 3 -.000 1 -.609 0
+16.0 -000 0 000 0 -.000 1 -.000 2 -.000 1 +0004 +.001 3 +.001 9 +0001 "| -.0079
+
+4/5
+--- page 5 ---
+IS 3370 @art 4/Sec 3) : 2021
+
+Table 18 Shear Coefficients at the Base of Cylindrical Walt
+
+{ Table 2, Clauses 3.1 and 3.1.6)
+
+Coefficients at Point (sev Note)
+
+EDDt Triangular Load, Rectangular Load, Triangular or Rectangnlar Moment at Edge
+Fined Base Fired Basa Load, Hinged Base
+04 40.436 40.755 + 30,245 “158
+08 +0374 +0552 0.234 “1.75
+12 40.339 49.460 30.220 -2.00
+16 40.317 +0.407 40.204 2.28
+20 +9.299 +0370 20.189 257
+3.0 0.262 40.310 +0.158 3.18
+40 +0236 +0.271 0.137 3.68
+5.0 +0.213 +0243 0.12 +410
+6.0 40.197 +0.222 40.0 449
+8.0 +0.174 +0.193 +0.096 5.18
+10.0 +0158 +0.172, 40.087 5.81
+12.0 10.145 40.158 +0.079 638
+149 . 40.135 0.147 20.073 4.88
+16.0 40.0127 40.137 +0.068 -738
+20.0 40.114 +0.122 =0.062 -8.20
+24.0 40.102 ~0.11 0.055 “8.94
+32.0 +0.089 40.096 +0.048 -10.36
+40.0 +0.080 +0.086 0.043 -10.62
+48.0 +0.072 +0.079 =0.039 -12.76
+56.0 +0.067 +0.074 =0.036 -13.76
+
+NOTE — Positive sign indicates shear acting inward.
+````
+
+## 2021-22 · Final-Exam · Sem 10 · paper 95f0bde8cbdd
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: CIVIL/SEM X/ADVANCED DESIGN OF CONRETE STRUCTURES/Advanced_Design_of_Concrete_Structures_2021-22_Final0001_fpUxria6Br.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 09 April 2022
+- Text: ocr (6 pages), mean OCR confidence 78.6
+
+````text
+SVKM’s NMIMS _ aS
+
+MUKESH PATEL ‘SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING: ]
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Ne 4
+
+Academic Year: 2021-22
+
+Programme: B.Tech Integrated (Civil) Year: V Semester: X
+Subject: Advanced Design of Concrete Structures
+
+Marks: 70 7
+Date: 09 April 2022. Time: 2.00 pm - 5.00 pm
+
+Durations: 3 (Hrs)
+No. of Pages: 6
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+8) Use of IS 456:2000 is permitted
+
+9) Use concrete grade of M20 and steel grade Fe415, unless specified otherwise.
+
+Q.1
+
+oi a. Explain IS code specifications for the torsional reinforcement in continuous two [03]
+BL2. way slab system with detailed diagrams.
+
+son b. Explain the design procedure for a rectangular water tank using approximate [03]
+BL2 methods
+
+Soot c. Discuss the design procedure for a simple raft footing subjected to symmetrical [04]
+Bia . loading
+
+eee d. Discuss the design of open-well type staircase as compared to doglegged staircase. [04]
+BL-2
+
+1/6
+--- page 2 ---
+Q.2 Design a waist-slab type dog-legged staircase for an office building, given [14]
+following data:
+
+Sone Height between floors = 3.3 m
+
+BLS Riser = 150 mm Tread = 210 mm
+
+Width of flight = landing width = 1.25 m
+
+Live load = 5 kN/m?
+
+Floor finish = 1 kN/m?
+
+Assume the staircase to be supported on 230 mm thick masonry walls at the outer
+edges of the landing, parallel to risers. Draw reinforcement details in sectional
+
+view from landing to mid landing.
+
+Q3 Determine suitable dimensions of a reinforced concrete cantilever retaining wall, [14]
+that is required to support earth 3 m high above the ground level. Earth fill is
+
+es : subjected to a surcharge pressure of 30 kN/m? due to the construction of a building.
+
+BLS Assume good soil for foundation at a depth of 1 m below the ground level on the
+
+: toe side. Safe bearing capacity of soil is 160 KN/m?. Assume the backfill comprise
+
+of granular soil with a unit weight of 20 kN/m? and an angle of shear resistance of
+30°. Assume the coefficient of friction between soil and concrete to be 0.5. Check
+the retaining wall for stability. Determine the steel for stem wall only and draw
+reinforcement details. .
+
+Q.4 Design a circular water tank free at top with fixed base resting on ground for [14]
+capacity of 500 m? using working stress method. Height of tank is restricted to 4m
+
+St ; including free board of 300 mm. Use grade of concrete as M30 and grade of steel
+
+BL-6 , as Fe415. 7
+
+Q.5 Design the continuous one-way slab system shown in figure 1, subjected to live [14]
+
+bean : load of 3 KN/m? and floor finish 1 KN/m?. Draw section showing reinforcement
+
+BLé details.
+
+2/6
+--- page 3 ---
+=—_3_
+
+4.5m si si s1
+= | _ |
+2m 2m 2m
+Figure 1(Q.5
+
+Q.6 Design a combined footing (for longitudinal direction bending only), supporting [14]
+
+column A (320mm x 320mm ) and column B ( 350mm x 350mm ), 4 m centre
+on ; to centre apart, carrying an ultimate axial load of 800 kN and 1000 KN,
+BLS respectively. ~
+
+The boundary line of the property is at 500 mm from the outer face of column A.
+Safe bearing capacity of soil (SBC) = 120 kN/m?. Draw section of footing
+showing reinforcement details.
+
+3/6
+--- page 4 ---
+IS 3370 art 4/Sec 3) : 2021
+
+Table 3 Ring Tension Coefficients for Case 1 Arrangement
+( Table 1, Clauses 3.1 and 3.1.6 )
+
+im . Coefficients at Point (see Notes 1 and 2 at the end of Table 34)
+it
+
+0.0H O11 027 037 04 OSH 0.62 0.7 0.8 O09
+
+04 +0149 +0.134 +0.120 +0.101 +0.082 +0.066 +0.049 +0.029 +0614 +0.004
+
+08 +0263. +0.239 +0.215 40.190 70.160 +0.130 +0.096 +0.063 +0.034 40.010
+
+$ 12 +0.283 +*0.271 +0.254. +0.234 +0.209 79.180 +0.142 0.099 +0.054. +0.016
+
+16 +0.265 +9.268 +0.268 +0.266 40.250 40.226 +0185 0.134 +0.075 +0.023 |
+
+20 +0.234 #0,251 +0.273 +0.285 +0285 40.274 +0:232 *0.172 40.104 +0.031
+
+3.0 40.134 +0.203 +0.267 +0.322 +0.357 40.362 +0.330 +0262 +0157 +0.052
+
+40 +0.067 +0.164 40.256 40.339 +0403 +0429 +0409 0.334 40.210 +0.073
+
+3.0 +0.025 +0.137 40.245 40.345 +0428 +0477 +0469 +0.398 +0.259 +0.092
+
+60 40.018 +0119 40.234 +0.344 +0441 +0.504 +0514 +0447 +0301 +0112
+
+8.0 6.611 +0.104 +0.218 +0.335 +0.443 40.534 +0575 +0530 +0381 +0151
+
+10.0 0.011 +0.098 +0.208 +0323 +0.437 +0.542 +0.608 #0589 +0440 40.179
+
+120 -0.005 +0.097 +0.202 40.312 +0.429 +0543 40.628 +0.633 40.494 +0211
+
+14.0 0.002 +0.098 +0.200 +0.306 +0.420 +0.539 40.639 +0665 +0541 40.241
+
+16.0 0.000 +0.099 +0.199 +0304 +0412 40.531 +0.641 | +0.687 +0.582 +0.265
+
+Table 4 Moment Coefficients for Case 1 Arrangement
+( Table 1, Clauses 3.1 and 3.1.6)
+
+Hypt Coefficients at Point (see Notes 1 and 2 at the end of Table 44)
+01H 0.27 03H 040 05H O.6H OTE O8T 09H 107
+04 +.000 5 +0014 +002 1 +.000 7 ~.004.2 -.015 0 030 2 -0529 -.081 6 --1205
+08 +0011 +003 7 +006 3 +.008 0 +.007 0 +.002 3 -.006 § -022 4 DAGS --0795
+12 +0012 +0042 | +0077 +0103 +0112 | +0090 +.002 2 -.010 8 -0311 -.060 2
+16 +0011 +0041 +.007 5 +0107 +0121 +0111 +.005 8 -.005 1 -023 2 -.0505
+2.0 +001 0 +.003 5 +0068 +0099 | +0120 | +.0115 +.007 5 -.002 1 -O18$ - B43 6
+3.0 +.000 6 +.002 4 +004 7 +.007 1 +0090 | +0097 +0077 +001 2 -O119 -.033 3
+40 +.000 3 +0015 +.002 8 +.004 7 +.006 6 +0077 +.006 9 +.002 3 -.008 0 -026 8
+5.0 +.000 2 +.000 & +.001 6 +.002 8 +0046 | +.0059 +.005 9 +002 8 -.005 3 -0222
+6.0 +.000 1 +.000 3 +.000 8 +.001 9 +.003 2 +.004 6 +0051 +.002 9 -.004 1 -0187
+8.0 -000 0 +000 1 +.000.2 +.000 8 +0016 | +0028 +003 8 +.002 9 -.002 2 -.0146
+10.0 -000 6 -000 0 +0001 +0004 | +0007 +.0019 +002 9 +002 8 -.001 2 -0122
+12.0 -000 0 -.0000 +0001 +0002 | +.0003 +.001 3 +002 3 +.002 6 -.000 5 -.0104
+14.0 -000 0 -000 0 0000 0000 +.000 1 +000 8 +0019 +.002 3 -0001 |. -.0090
+16.0 000 0 000 0 -,0001 --000 2 -.000 1 +.000 4 +.001 3 +.0619 +.006 1 -.0079
+
+4/6
+--- page 5 ---
+1S 3370 (Part 4/Sec.3) : 2021
+
+Table 18 Shear Coefficients at the Base of Cylindrical Wali
+( Zable 2, Clauses 3.1 and 3.1.6}
+
+. Coefficients at Point (see Note}
+a ‘Trianguizr Load, Rectangular Load, ‘Trimgular or Rectangular Moment at Edge
+Fixed Base Fixed Base Load, Hinged Bace
+
+o4 _ 40436 0.155 30.945 -158
+08 +0374 20.552 0.234 -L75
+12 40.339 0400 ' 20:220 ~ 200
+16 +0317 +0.407 +0204 2.28
+20 +0.299 30 20.189 257
+30 30.262 +0310 =0.158 3.18
+40 0.136 +0271 =0.137 3.68
+50 40.213 40.243 0.121 410
+60 0.197 +0222 +0.110 449
+80. 174 +0.193 =0.096 “5.18
+10.0 +0.158 +0.172 +0.087 581
+120 40,145 40.158 201079 638
+140 +0135 +0.147 20.073 488 |
+16.0 | =0.0127 +0137 0.068 738
+20.0 +D.14 30.122 0.062 8.20
+240 0.102 =0.111 =0.055 B94
+32.0 +0.089 ; +0.096° +0.048 -10.36
+40.0 +0.080 +0.086 +0,043 -10.62
+42.0 0.072 +0.079 0.039 -12.76
+56.0 +0.067 40.074 +0.036 -13.76
+
+NOTE — Positive sign indicates shear acting inward.
+
+5/6
+--- page 6 ---
+Table 1 Permissible Concrete Stresses in
+
+Calculations Relating to Resistance
+to Cracking
+[Clauses 4.5.1(c), 4.5.2.1 and 6.3(b)]
+| Grade of —- Permissible Concrete Stresses,
+No. Coverete Neem?
+AL.
+co ~
+Direct Tension Tension Due
+to Bending
+() Q) G) @
+) M25 13 is
+ii) M30 is 2.0
+iii) M35 16 22
+wv) M40 1B 24
+¥) M45 20 26
+vi) M50 21 28
+NOTE — The maximum values of shear stress in concrete
+shall be as given in IS 456,
+Table 4 Permissible Stresses in Steel
+Reinforcement for Strength
+
+Sl Type of Streas-ia Steel = Permiaatble Stresses, N/a’
+AN.
+
+No. Relaforcement = _— —~
+Pain Rownd High Strength
+Mild Steel Bers Deformed Bars
+
+() Q) (3) (4)
+1) Tensile stress im members Ws 130
+und declension,
+bending and sheer
+ii) Compressive sess in 123 10
+coluenas subjected to
+direct load
+
+Table 5 Minimum Percentage of Reinforcement
+( Clause 8.1.1 }
+
+SI Grade of Elevated Tank Ground
+No. Reinforcement with Length supported Tank
+(see Note 1) with Length
+
+(see Note 1)
+
+Sl4m 228m <14m 222m
+
+a) @) @) @ (3) (6)
+i) Fe250 0.44 0.66 0.40 0.60
+Percent Percent Percent Percent
+i) Fe4i5 or 0.28 0.42 0.24 0.36
+Fe 500 Percent Percent Percent Percent
+
+6/6
+````
+
+## 2021-22 · Re-Exam · Sem 10 · paper e948c1b032e9
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: CIVIL/SEM X/ADVANCED DESIGN OF CONRETE STRUCTURES/Advanced_Design_of_Concrete_Structures_Batch_2021-22_Re_Exam_rCGTih4l1O.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 09 June 2022
+- Text: ocr (6 pages), mean OCR confidence 81.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+.
+
+SVKM’s NMIMS
+
+Academic Year: 2021-22
+
+Programme: B.Tech Integrated (Civil) Year: V Semester: X
+Subject: Advanced Design of Concrete Structures
+: Marks: 70
+Date: 09 June 2022 Time: 10.00 am to 1.00 pm
+
+Durations: 3 (Hrs)
+No. of Pages: O6
+Re-Examination (2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+8) Use of IS 456:2000 is permitted
+
+9) Use concrete grade of M20 and steel grade Fe415, unless specified otherwise.
+
+Qi
+
+Soo ; a. Discuss the difference in design of staircases spanning transversely and [03]
+
+BL-2 longitudinally.
+
+—. b. Describe various types of joints in water tank construction. [03]
+
+BL2.
+
+So: c. Discuss the difference in design of counterfort retaining wall as compared to [04]
+
+BLD. cantilever retaining wall.
+
+aoe d. Discuss the design procedure for simple raft footing subjected to symmetrical [04]
+
+BL2 loading.
+
+Q.2 Design a waist-slab type dog-legged staircase for an office building, given [14]
+following data:
+
+sot ; Height between floors = 3 m
+
+BL-6 Riser = 150 mm Tread = 250 mm
+Width of flight = landing width = 1 m
+Live load = 5 kN/m?
+
+1/6
+--- page 2 ---
+Q3
+
+CO-3 ;
+SO-4 ;
+BL-6
+
+Q.4
+
+CO-4 ;
+SO-4 ;
+
+BL-6
+
+Q.5
+
+CO-1;
+S04;
+
+BL-6
+
+Floor finish = 0.6 kN/m?
+Assume the staircase to be supported on 230 mm thick masonry walls at the outer
+
+edges of the landing, parallel to risers. Draw reinforcement details in sectional
+
+view from landing to mid landing.
+
+Determine suitable dimensions of a reinforced concrete cantilever retaining wall,
+that is required to support earth 4 m high above the ground level. Earth fill is
+subjected to a surcharge pressure of 30 kN/m? due to the construction of a
+building. :
+
+Assume good soil for foundation at a depth of 1.25 m below the ground level on
+the toe side. Safe bearing capacity of soil is 160 kKN/m?. Assume the backfill
+comprise of granular soil with a unit weight of 20. kKN/m? and an angle of shear
+resistance of 30°. Assume the coefficient of friction between soil and concrete to
+be 0.5. Check the retaining wall for stability. Determine the steel for stem wall
+only and draw reinforcement details.
+
+Design a circular water tank free at top with fixed base resting on ground for
+capacity of 600 m°. Height of tank is restricted to 5m including free board of 300
+mm. Use grade of concrete as M30 and grade of steel as Fe415.
+
+Design the continuous one-way slab system shown in figure 1, subjected to live
+load of 3 KN/m? and floor finish 1 KN/m?. Draw section showing
+
+reinforcement details.
+
+[14]
+
+{14]
+
+[14]
+
+2/6
+--- page 3 ---
+—__}__-__"
+
+6m
+$1 $1 S1
+L
+| |
+2.5m 2.5m 2.5m
+Figure 1(Q.5
+Q.6 Design a combined footing (for longitudinal direction bending only), [14]
+supporting column A (350mm x 350mm ) and column B ( 400mm x 400mm ),
+oO ; 4 m centre to centre apart, carrying an ultimate axial load of 1000 kN and 1400
+BL6 KN, respectively.
+
+The boundary line of the property is at 500 mm from the outer face of column A.
+Safe bearing capacity of soil (SBC) = 120 kN/m*. Draw section of footing
+showing reinforcement details.
+
+3/6
+--- page 4 ---
+Table 1 Permissible Concrete Stresses in
+
+Calculations Relating to Resistance
+to Cracking
+{Clauses 4,5.1(c), 4.5.2.1 and 6.3(b)]
+a Grade of . Permissible Concrete Stresses,
+No. Comerete Nios?
+r A ~ Table 5 Minimum Percentage of Reinforcement
+Direct Tension Tension Due ( Clause 8.1.1)
+: © s SI Grade of Elevated Tank Ground
+q(y Q) @) (4) No. Reinforcement with Length supported Tank
+a Mos 13 is (see Note 1) pesia 5
+a) xO is ze
+iii) M35 16 95 Sl4m 228m <l4m 222m
+iv) M40 iB : 24 q) Q) (3) 4) (5) 6)
+v) M45 20 26 i) Fe 250 044 0.66 040 ~~ 0.60
+vi) M50 ai 28 Percent Percent Percent Percent
+NOTE — The maxima values of shear stress in coocrete ii) Fe 415 or 0.28 0.42 024 0.36
+shall be as given in IS 456. Fe 500 Percent Percent Percent Percent
+Table 4 Permissible Stresses in Steel
+Reinforcement for Strength
+
+Si Type of Strem ia Steel = Permissible Stresecs, N/man’
+No Relaforcement | -———___~~_______
+Mild Steel Bars Deformed Bars
+
+(1) Q) (3) (4)
+1) Tensile sarems im members Ms 130
+ud det ersion,
+bending and shear
+ih) Compressive seas in (25 10
+columms subyected to
+direct load
+
+4/6
+--- page 5 ---
+IS 3370 (Part 4/Sec 3) : 2021
+
+Table 3 Ring Tension Coefficients for Case 1 Arrangement
+( Table 1, Clauses 3.1 and 3.1.6)
+
+Coefficients at Point (see Notes 1 and 2 at the end of Table 3A )
+
+wpt
+0.07 O11 0.27 0.3 0.40 0.5 0.6H O.7H 0.8H 0.9
+
+04 40.149 +0.134 +0.120 +0.101 +0.082 +0.066 +0.049 +0.029 +0.014 +0.004
+
+08 +0.263 +0.239 40.215 +0.190 +0.160 +0.130 +0.096 +0.063 +0.034 +0.010
+
+12 +0.283 +0.271 40.254 +0.234 +0.209 +0.180 +0.142 +0.099 +0.054 +0.016
+
+16 +0.265 +0.268 40.268 +0.266 +0250 +0.226 +0.185 +0134 +0.075 +0.023
+
+29 +0.234 +0251 +0.273 +0.285 +0.285 46.274 +0.232 +0.172 +0.104 +0.031
+
+3.0 +0.134 +0.203 +0.267 +0.322 +0.357 +0.362 +0.330 0.262 40.157 +0.052
+
+4.0 +0.067 +0.164 +0.256 +0.339 +0.403 +0.429 +0409 +0.334 +0.210 +0.073
+
+5.0 +0.025 +0.137 +0.245 40.346 +0.428 +0477 +0469 +0.398 40.259 +0.092
+
+6.0 +0.018 +0.119 40.234 +0.344 +0441 +0.504 40.514 +0.447 +0.301 +0.112
+
+8.0 ~0.011 0.104 +0.218 +0.335 +0.443 +0.534 +0575 +0.530 +0381 +0.151
+
+10.0 0.011 +0.098 +0.208 +0.323 +0.437 +0.542 +0.608 +0.589 +0.440 40.179
+
+12.0 -0.005 +0.097 +0.202 +0312 +0.429 +0.543 +0.628 +0.633 40.494 +0211
+
+14.0 0.002 +0.098 +0.200 +0.306 +0.420 +0.539 +6.639 +0.666 40.541 40.241
+
+16.0 0.000 +0.099 +0.199 +0.304 +0.412 40.531 +0.641 +0.687 +0.582 +0.265
+
+Table 4 Moment Coefficients for Case 1 Arrangement
+( Table 1, Clauses 3.1 and 3.1.6)
+
+W/Dt Coefficients at Point ( see Notes 1 and 2 at the end of Table 44)
+OL 0.2 0.30 O4H 05H O.6H OT 08H OSH 10H
+04 +.000 5 +.001 4 +0021 +.000 7 -.0042 -0150 -.030 2 -.0529 ~.081 6 -1265
+08 +.0011 +.003 7 +.006 3 +.008 0 +.007 0 +.002 3 -.006 8 -022 4 -0.46$ -.079 5
+12 +.001 2 +.0042 +0077 4.0103 +0112 +.009 0 +.002 2 -.0108 -.0311 -.060 2
+16 +0011 +.0041 +.007 5 +0107 +0121 +0111 +.005 & ~.005 1 -.023 2 -.0505
+20 +.001 0 +.003 5 +006 8 +.009 9 +0120 +0115 +0075 -.002 1 -.0185 -.043 6
+3.0 +.000 6 +.002 4 +0047 +.0071 +.009 0 +.009 7 +.007 7 +.001 2 -O0119 -.033 3
+40 +.0003 +.001 5 +002 8 +.004 7 +.006 6 +.0077 +.006 9 +.002 3 -.008 0 -.026 8
+5.0 +.000 2 +.000 8 +.001 6 +.002 8 +.004 6 +.005 9 +.005 9 +.002 8 -.005 8 -.0222
+60 +.0001 +.000 3 +.000.8 +.0019 +.003 2 +.004 6 +0051 +.002 9 -.004 1 -0187
+8.0 -000 0 4.0001 +.000 2 +.000 8 +.001 6 +.002 8 +.003 8 +.002 9 -.002 2 -.0146
+10.0 000 0 000 0 +0001 +.000 4 +.0007 +0019 +.002 9 +.002 8 -.001 2 -.0122
+12.0 -000 0 -.000 0 +0001 +.000 2 +.0003 +.001 3 +.002 3 +.002 6 -.000 5 -.0104
+14.0 -000 0 000 0 000 0 0000 +.0001 +.000 8 +0019 +.002 3 -.000 1 -.009 0
+16.0 -000 0 000 0 -.000 1 -.000 2 -.000 1 +.000 4 +.001 3 +.0019 +.0001 "| -.0079
+
+5/6
+--- page 6 ---
+TS 3370 (Part 4/See 3) : 2021
+
+Table 18 Shear Coefficients at the Base of Cylindrical Wall
+( Table 2, Clauses 3.1 and 3.1.6)
+
+Coefficients at Point (see Note )
+
+pt Triangular Load, Rectangular Load, Triangular or Rectangular Moment at Edge
+Fixed Base Fined Base Load, Hinged Base
+04 - +).436 +0.755 » 40.245 -158
+O8 40.374 +0552 +0234 -1.75
+12 +9.339 +0460 0.220 -2.00
+16 40.317 +0407 30.204 2.28
+20 +40.299 7 +0.370 +0.189 -2.57
+3.0 +0262 +0.310 +0.158 3.18
+40 +0.236 40.271 0.137 -3.68
+3.0 +0.213 +0243 +0.121 +10
+60 40.197 +0.222 +0.110 449
+8.0 40.174 +0.193 0.096. 5.18
+10.0 +0.158 +0.172 +0.087 -5.81
+12.0 +0.145 +0158 30.079 6.38
+14.0 +0.135 +0.147 0.073 6.88
+16.0 +0.0127 40.137 +0.068 7.38
+20.0 +0.114 +0.122 0.062 8.20
+24.0 +0.102 =O0.111 0.055 -B.94
+32.0 +0.089 +0.096 0.048 -10.36
+40.0 +0.080 +0.086 70.043 -10.62
+48.0 +0072 +0.079 +0.039 -12.76
+36.0 +0.067 +0.074 0.036 -13.76
+
+NOTE — Positive sign indicates shear acting inward.
+
+6/6
+````
+
+## 2018-19 · Exam not stated · Sem 10 · paper 28104e67bc6e
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: CIVIL/SEM X/ADVANCED DESIGN OF CONRETE STRUCTURES/Advanced_Design_of_Conrete_Stucture_2018-19_MmtCDrjR6u.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 April 2019
+- Text: ocr (6 pages), mean OCR confidence 65.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+/
+
+Program :B.Tech Integrated (CIVIL) <~
+| Academic Year: 2018-2019
+
+Subject: Advanced Design of Concrete Structures _- Marks: 60 —
+Date: 10 April 2019 .~ Time: 02.00 pm to 05.00 pm —
+Duration: 3 (hrs)
+No. of Pages: _O&
+Final Examination (2018-19) —
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) Use of IS 456:2000 is permitted.
+
+Note: For all the questions in this paper, take grade of concrete as M20 and grade of steel as Fe415,
+unless specified otherwise. Take exposure condition as ‘mild’
+
+Q.1 a) Discuss the difference in design of staircases spanning transversely and longitudinally. (4)
+b) Explain the concept of redistribution of moments in continuous beam and state its (4)
+advantages.
+c) Discuss the difference in design of counterfort retaining wall as compared to cantilever (4)
+retaining wall.
+
+Q.2_ Determine suitable dimensions of a reinforced concrete cantilever retaining wall, that is (12)
+
+required to support earth 4 m high above the ground level. Earth fill is subjected to a
+surcharge pressure of 30 kN/m? due to the construction of a building.
+Assume good soil for foundation at a depth of 1.25 m below the ground level on the toe
+side. Safe bearing capacity of soil is 160 kN/m2. Assume the backfill comprise of granular
+soil with a unit weight of 20 KN/m? and an angle of shear resistance of 30°. Assume the
+coefficient of friction between soil and concrete to be 0.5. Check the retaining wall for
+stability. Determine the steel for stem wall only and draw reinforcement details.
+
+Q3 Design the continuous one way slab system shown in figure 1, subjected to live load of 3 (12)
+kN/m? and floor finish 1 KN/m?. Draw section showing reinforcement details.
+
+1/6
+--- page 2 ---
+Q.4
+
+Q5
+
+Q.6
+
+Q.7
+
+Design a waist-slab type dog-legged staircase for an office building, given following data:
+Height between floors = 3.2m
+Riser = 160 mm Tread = 270 mm
+Width of flight = landing width = 1.25 m
+Live load = 5 kN/m?*
+Floor finish = 0.6 kN/m?
+Assume the staircase to be supported on 230 mm thick masonry walls at the outer edges
+of the landing, parallel to risers. Draw reinforcement details in sectional view from
+landing to mid landing.
+Design a circular water tank free at top with fixed base resting on ground for capacity of
+600 m3. Height of tank is restricted to 5m including free board of 300 mm. Use grade of
+concrete as M30 and grade of steel as Fe415.
+Design a combined footing (for longitudinal direction bending only), supporting
+column A (350mm x 350mm ) and column B (400mm x 400mm ), 4 m centre to centre
+apart, carrying an ultimate axial load of 1000 kN and 1400 kN, respectively.
+The boundary line of the property is at 500 mm from the outer face of column A.
+Safe bearing capacity of soil (SBC) = 120 kN/m?. Draw section of footing showing
+reinforcement details.
+Determine the equivalent uniformly distributed dead load and live load on beam ABCD of
+size 230 mm x 300 mm due to floor slab as shown in figure 2. Also calculate bending
+moments and shear forces at all the critical points using IS code coefficients.
+Take slab thickness as 120 mm, floor finish 1 kKN/m2, live load 4 kN/m?.
+Beam supports 230 mm thick brick wall of 3.3 m height.
+
+Table 1 Permissible Concrete Stresses in
+
+Calculations Relating to Resistance
+to Cracking
+(Clauses 4.5.1(c), 4.5.2.1 and 6.3(b)] Table 4 Permissible Stresses in Steel
+si Grade of Permissible Concrete Stresses, Reinforcement for Strength
+No. Cowerete N/msn*
+ooo Sl Type of Stress ia Steel Permisalble Stresses, Némaa’
+i F a No. Reinforcement ~
+Direct Tension =e ~ Plain R $ Highs a”
+() Q) @) (4) Mild Stoel Bars Deformed Bars
+a Mos DB ia qa) (2) (3) (4)
+2 M0 1s 20 i) Tensile stress im members 1s 130
+oo M35 16 22 under direct. terstion,
+iy) M40 18 24 bending and shear
+vy) M45 20 26 ws .
+vi) M50 21 28 ii) waetee eebloned in 125 14
+NOTE — The maxicnuan values of shear stress in concrete seer ~
+shail be as given in IS 456. " direct load
+
+(12)
+
+(12)
+
+(12)
+
+(12)
+
+2/6
+--- page 3 ---
+Table 2 Permissible Stresses in Concrete
+All values are in N/mm’.
+
+Si Grade of Permisaible Stress in Permindble
+No.   Comerete Compression Stress la Boad
+
+A (Average) for
+Plais Bars in
+
+Bending Direct Tension Ea mS ES
+Cee Ce Te
+(1) (2) GB) (4) (5)
+i) M25 85 6.0 0.9
+ii) M30 10.0 8.0 1.0
+iti) M35 15 9.0 fa 5.3m
+iv) M40 13.0 10.0 t2 S1 S1 S1
+v) M4S 14.5 11.0 13
+vi) . MSO 16.0 120 14
+
+NOTES
+
+1 The values of permissible shear stress in concrete are given in
+Table 3 a
+
+2 The bond siress given im col § shell be increased by 25
+percent for bars in compression. |
+
+at
+
+3 In case of deformed bars conforming to IS 1786, the bond at
+stresses given above may be increased by 60 percent 2.3m 2.3m 2.3m
+Figure 1(Q. 3
+3.2m S1 52 53
+Vz y
+“A 5.5m | 6m I 5.2m ZA
+A B Cc D
+Figure 2(Q.7
+
+3/6
+--- page 4 ---
+18: 3370 ( Part IV ) -1967
+
+SLEN5 Lszs8
+SeSernr TyIgs
+e000 S090
+
+Ftttt FFtF
+
+noosz- SCOre
+BERSS FS
+66666 O5606
+
+ttttt+ t+Ft
+
+¥ERTZ SHES
+©
+
+2893 3883
+
+FESFF FFFF
+
+arn Qo
+a oS B88
+
+e60666 $006
+
+Ftttt FFFF
+
+B85sR F888
+$6666 S666
+Ftttt +F+F
+
+fo k Reed tl aon
+Beers Bass
+
+i—J iJ i~J
+FISTS F959
+NBER 8288
+NBS38 858%
+TS73t FETT
+
+sgese sasa yg §
+
+NAAN WAN
+
+ee . > 3
+F3SSF TH53 2 f
+
+A]
+--- page 5 ---
+18 3970 ( Part IV) - 1967
+
+a a
+e a
+C4
+:
+
+teNE9
+CON
+
+Be
+
+Sood
+TTT
+
+vo
+
+8538
+
+e000
+
+Pitt
+
+agge
+3888
+ococo
++444
+
+man
+
+S833
+
+oooo
++tt+
+
+sees
+3399
+
+none
+
+E88
+
+S006
+ttt |
+
+eee
++H 7
+at
++H 1
+
+588
+
+ia
+
+S222
+
+ec00
+
+Seog
+ents
+aaa
+
+6|6
+--- page 6 ---
+18 1 3370 ( Part IV ) - 1967
+
+m
+bh
+
+0-4
+0-8
+1-2
+16
+2-0
+
+3-0
+40
+5-0
+6-0
+8-0
+
+10-0
+12-0
+14-0
+16-0
+
+TABLE 11 SHEAR AT BASE OF CYLINDRICAL WALL
+( Clauses 3.1.1, 3.1.2 and 3.1.3)
+wH? kg ( triangular )
+
+v= Coefficient x 4 pH kg ( rectangular )
+M/H kg (moment at base )
+
+TRIANGULAR RECTANGULAR TRIANGULAR OR Moment
+
++0-436 +0-755 40-245 1:58
+0-374 40-552 +0-234 1-75
++0339 +0-460 +0-220 —2-00
++0°317 +0-407 +0204 2-28
++0-299 +0-370 +0-189 —2-57
++0-262 +0-310 +0°158 —3-18
++0-236 +0°271 +0:137 —3-68
++$0-213 +0-243 +0-121 —+10
++0°197 +0222 +0110 —+49
+40174 40-193 0-096 518
++0:158 +0:172 40-087 —581
++0°145 +0158. +0-079 —6:38
++0°135 +0147 +0:073 —6:88
++0°127 +0°137 +0:068 —7:36
+
+Note 1 — w = Density of the liquid.
+
+Nors 2 — Positive sign indicates shear acting inward.
+
+37
+````
 
 ## 2018-19 · Final-Exam · Sem 8 · paper 8d28252053ca
 

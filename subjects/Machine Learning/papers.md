@@ -1,6 +1,6 @@
 # Machine Learning: question papers in full
 
-111 unique papers · 2017-18 to 2025-26 · Computer Engineering, Electronics and Telecommunication, Artificial Intelligence, Data Science, Computer Science and Business Systems, Computer Applications (MCA), AI and Data Science, AI and Machine Learning, Computer Science, Common (all branches)
+120 unique papers · 2017-18 to 2025-26 · Computer Engineering, Electronics and Telecommunication, Artificial Intelligence, Data Science, Computer Applications (MCA), Computer Science and Business Systems, AI and Data Science, AI and Machine Learning, Computer Science, Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -6598,6 +6598,89 @@ come Describe One-Hot Encoding and Ordinal Encoding with Examples [05]
 BL-2
 ````
 
+## 2024-25 · Final-Exam · Sem 3 · paper d6249bd9ef10
+
+- Departments: Computer Applications (MCA)
+- Programmes: MASTER OF COMPUTER APPLICATIONS - 7061
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Final-Exam/MASTER OF COMPUTER APPLICATIONS - 7061/Machine Learning/QP_Final-Exam_Machine Learning(703CO1C003)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Dec 2024
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MASTER OF COMPUTER APPLICATIONS
+Year: II/Semester III(Exam Year: 2024-2025)
+Subject: Machine Learning
+Date: 09 Dec 2024   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Question No.1 is compulsory.
+3. Out of remaining 6 questions, attempt any 4.
+4. In all 5 questions to be attempted
+5. All questions carry equal marks
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly:
+CO-1; BL- L   a. How do we detect the outliers from the dataset and treat them?   [05]
+CO-1; BL-L   b. Discuss the significance of the Bias-Variance Trade-off with a suitable example.   [05]
+CO-2 ; BL-M   c. Explain the need for regression analysis with a suitable scenario.   [05]
+CO-1; BL- L   d.   Differentiate between tree-based and linear ML models.   [05]
+Q2   a. How does K-fold cross-validation affect the overall performance of the
+[10]
+CO-4; BL-M   classification algorithm? Explain in detail with proper example.
+b. Distinguish between Supervised and Unsupervised Learning algorithms. Explain
+CO-3; BL-L   [10]
+at least one application of these methods.
+Q3   a. Discuss the significance of the Logit function used in logistic regression. Give
+[10]
+CO-2; BL-M   a suitable example.
+Consider the data of a restaurant given in the table, where X represents the bill
+amount of the customer and Y represents the tip received by the waiter.
+X (Bill amount) in Rs.   Y (Tip) in Rs.
+120   5
+150   7
+180   6   [10]
+b.   160   8
+200   10
+CO-2; BL-H   Apply appropriate regression algorithm to derive a machine learning model.
+Also, predict the Tip (Y) for Rs.145 (Bill amount) from the derived model.
+Comment on the performance of the model.
+Q4   a. Explain the concept of gradient descent used in the Regression Analysis with the
+[10]
+CO-2; BL-M   help of a suitable example.
+b. What is hierarchical clustering? Explain single linkage clustering with a suitable
+CO-2; BL-M   [10]
+example.
+********** 1 **********
+--- page 2 ---
+a. Apply error backpropagation algorithm to train the following multilayer
+perceptron network. Demonstrate at least one complete iteration of the forward
+and backward pass to update the weights if the error is not equal to zero.
+Q5
+[15]
+CO-2; BL-H
+Assume actual output Y = 0.6, Learning rate = 1, and sigmoid activation
+function.
+b. Explain the significance of the AUC curve in measuring the performance of an
+CO-4; BL-L   [05]
+algorithm.
+Q6   a.
+Apply and explain the classification tree with a proper example.   [10]
+CO-2; BL-H
+CO-2; BL-L   b. Explain the working principle of the multiple linear regression model.   [10]
+Q7   a   Discuss the significance of Content-based Recommender system. Give suitable
+[10]
+CO-2; BL-M   example
+Q7   b What do you mean by Ensemble Technique? Explain Bagging and Boosting with
+[10]
+CO-2; BL-M   proper example
+********** 2 **********
+````
+
 ## 2024-25 · Final-Exam · Sem 5 · paper 97b46317672e
 
 - Departments: Data Science
@@ -6896,6 +6979,299 @@ CO-2; BL-L example.
 CO-1;BL-M_ | ©. | Explain Random Forest algorithm with suitable example [10]
 
 FIO OIG tok a
+````
+
+## 2024-25 · Re-Exam · Sem 9 · paper bf879fcc0d31
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: COMPUTER/SEM IX/Machine Learning/Machine_Learning_Batch_2023-24_Re_Exam_HLEHf0O82D.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (4 pages), mean OCR confidence 87.6
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2024-2025
+
+Program/s: B.Tech. Integrated Year: V__ Semester: IX
+
+Stream/s : Computer Engineering
+
+Subject: Machine Learning Time: 03_ hrs(2:00puto Sz00pm)
+Date:.20/a/25° No. of Pages:_03___
+
+Marks: 100
+
+Re- Examination (Batch 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql. Answer briefly: : [20]
+CO1;SO1; | a. | Discuss any. four techniques to balance the bias and variance trade-off.
+BL2
+CO2;SO1; |b. | What are “Missing Values”? How to deal with “Missing Values”?
+BLI
+CO3;SO1;|c. | Discuss Classification using Backpropagation with example.
+BLI .
+CO4;SO1; | d. | Explain content-based recommender systems with their advantages.
+BLI
+Q2. ;
+CO1;SO1; | a. | What is a perceptron? Explain with suitable example and a neat diagram. [10]
+BL2
+CO2 ;SO2; |b. | Fit a curve of the form y=ae™ to the following data using Linear [10]
+BL3 Regression: .
+[ x: 1 2 3 4 5 6
+Y: 1200 400 130 40 12 3
+Q3.
+CO2 ;SO2; | a. | The following data set contains factors that determine whether tennis is [10]
+BLI
+
+played or not. Using the Naive Bayes classifier, find the play prediction for
+the day <Sunny, Cool, High, Strong>
+
+Page 1 of 3
+--- page 2 ---
+DAY | OUTLOOK | TEMP | HUMIDI | WIND PLAY
+
+TY
+
+Day 1 Sunny Hot High Weak | NO
+Day 2 Sunny Hot High Strong | NO
+Day 3 Overcast Hot High Weak | YES
+Day 4 __| Rain Mild High Weak | YES
+Day 5 Rain Cool Normal Weak YES
+Day 6 Rain Cool Normal Strong | NO
+Day 7 Overcast Cool Normal Strong | YES
+Day 8 Sunny Mild High Weak | NO
+Day 9 Sunny Cool Normal Weak | YES
+Day 10 _| Rain Mild Normal Weak | YES
+Day 11_| Sunny Mild Normal Strong | YES
+Day 12_| Overcast Mild High Strong | YES
+Day 13 _| Overcast Hot Normal Weak YES
+Day 14 _| Rain Mild High Strong | NO
+
+CO1;SO1; |b. | What is feature engineering? Explain methods for Feature selection with [10]
+
+BL2 examples.
+
+Q4.
+
+CO2;SO1; | a. | When does overfitting occur? Explain causes/consequences of overfitting. [10]
+BLI Compare it with under-fitting.
+
+CO1;S02; |b. | What is the characteristic equation of a second degree curve? Fita second | [10]
+BL2 degree curve to the following data:
+
+Y 1 3 4 5 6
+Xx 1 4 5 7 8
+
+QS.
+
+CO4;S02; |a. | Use Complete Link and Average Link Techniques to find clusters in given | [10]
+BL4 data set.
+
+x Y
+pl 0.6| 0.73
+p2 0.52] 0.68
+p3 0.75 | 0.72
+p4 0.26| 0.19
+p5 0.08 | 0.41
+p6 0.85 0.9
+
+CO1;SO1; |b. | Explain how a Support Vector Machine can be used for the classification | [10]
+BL2 of linearly separable data. :
+
+Q6.
+
+CO3;SO2; | a. | Discuss Back-propagation with suitable example. [10]
+BL4
+
+CO2;SO1; |b. | Explain Principal Component Analysis in detail. [10]
+BLI
+
+Page 2 of 3
+--- page 3 ---
+Q7.
+
+CO2;SO2; | a. | A classification technique was used to classify a dataset of 6000 emails as [10]
+BL2 "Spam" and "Not Spam." Out of the 6000 emails, 3500 were correctly
+classified as "Spam," and 1800 were correctly classified as "Not Spam."
+
+There were 700 emails that were actually "Spam" but classified as "Not
+Spam."
+
+1. Construct a confusion matrix for the given scenario.
+2. Calculate the following:
+
+o Accuracy
+
+o Precision
+
+o Sensitivity
+
+o Specificity
+
+CO4 ;SO2; |b. | Use K-Means clustering to cluster the following data into two groups. [10]
+BL4 Assume cluster centroids are m1=5 and m2=15.
+
+Dataset X={5,7,18,20,6,25,35,19,22}
+
+Page 3 of 3
+--- page 4 ---
+
+````
+
+## 2024-25 · Re-Exam · Sem 9 · paper 05068788a7ec
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: COMPUTER/SEM IX/Machine Learning/Machine_Learning_Batch_2023-24_Re_Exam_IrRAmzmGDn.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 84.4
+
+````text
+SVKM’S NMIMS
+
+Academic Year: 2024-2025
+
+Program/s: B.Tech. Integrated . - Year: Vv Semester: TX
+Stream/s : Computer Engineering ;
+
+Subject: Machine Learning Time: __03_ hrs OR00pn OE Spm)
+Date:_30/11/2024 No. of Pages:_03_
+
+Marks: 100
+
+Re- Examination (Batch 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. A
+
+1) Question No, _1___ is compulsory. nes
+
+2) Out of remaining questions, attempt any__4 _questions..~
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Qa. Answer briefly: ; 7 [20]
+CO1;SO1; | a. | What is Machine Learning? Explain its applications.
+BL2
+CO2;SO1; |b. | What are “Missing Values”? How to deal with “Missing Values”?
+BLI
+CO3;SO1;]c¢. | Discuss K-fold cross validation technique with example.
+BL]
+C04 ;SO1; | d. | Explain non-personalized recommender systems with their advantages.
+BL1
+Q2.
+CO1;SO1; | a. | What are Artificial Neural Networks? What are their properties and | [10]
+BL2 applications?
+CO2;S02; |b. | Fita curve of the form y=ae™ to the following data using Linear [10]
+BL3 Regression:
+x: 2 3 4 5 - 6 7
+Ba 500 150 45 13 4 1
+
+Page 1 of 3
+--- page 2 ---
+Q3.
+
+Q
+
+CO2;$02; | a.’ | The following data set contains factors that determine whether tennis is [10]
+BLI played or not. Using the Naive Bayes classifier, find the play prediction for
+the day <Sunny, Cool, High, Strong>
+DAY | OUTLOO | TEMP | HUMIDI| WIND | PLAY
+* K TY
+Day 1 Sunny Hot High Weak | NO
+Day2__| Sunny Hot High Strong | NO
+Day 3 __| Overcast Hot High Weak | YES
+Day 4 . | Rain Mild High Weak | YES
+Day5__| Rain Cool Normal | Weak | YES
+Day 6 _| Rain Cool Normal | Strong | NO
+Day 7 ___| Overcast Cool Normal Strong | YES
+Day 8 __| Sunny Mild ~.. High Weak | NO
+Day9 | Sunny Cool- Normal | Weak | YES
+Day 10 | Rain Mild Normal | Weak __| YES
+¢ | Day 11_ | Sunny Mild Normal Strong | YES
+Day 12 | Overcast Mild "_| High Strong | YES
+Day 13_| Overcast Hot Normal Weak | YES
+Day 14 | Rain Mild High Strong | NO
+CO1;SO1; |b. | What is feature engineering? Explain conversion between Feature Types [10]
+BL2 with suitable examples.
+Q4, .
+CO2;SO1; | a. | When does under-fitting occur? Explain causes/consequences of under- [10]
+BLI | fitting. Compare it with overfitting.
+CO1;S02; |b. | What is the characteristic equation of a second degree curve? Fit a second | [10]
+BL2 degree curve to the following data:
+LY 1 2 3 4 5
+Xx 2 3 5 4 6
+Q5. : :
+CO4;S02; |a. | Use Complete Link and Average Link Techniques to find clusters in given [10]
+BL4 data set.
+
+x Y
+
+pl 0.6| 0.73
+p2 0.52| 0.68
+p3 0.75| 0.72
+p4 0.26| 0.19
+ps 0.08| 0.41
+p6 0.85 0.9
+
+Page 2 of 3
+--- page 3 ---
+¥
+
+CO1;SO1; |b. | Explain how a Support Vector Machine can be used for the classification [10]
+BL2 of linearly separable data.
+
+Q6.
+CO3 ; S02; }a. | Discuss Linear regression using Gradient Descent approach in detail. [10]
+BL4 ; .
+CO2;SO1; |b. | Explain Dimension Reduction Methods in detail. [10]
+BLI :
+Qi.
+C02; S02; | a. | A classification technique was applied to classify a dataset of 4000 animals | [10]
+BL2 as "Endangered" and "Not Endangered.” Out of the 4000 animals, 2500
+were correctly classified as "Endangered," and 1000 were correctly
+classified as "Not Endangered." There were 500 animals that were actually
+"Endangered" but classified as "Not Endangered."
+¢ Construct a confusion matrix for the given scenario.
+e Calculate the following: “<>
+o Accuracy ;
+o Precision
+o Sensitivity
+o Specificity
+C04 ; $02; |b. | Use K Means clustering to cluster the following data into two groups. ~ | £10]
+
+BL4 Assume cluster centroids are m1=2 and m2=4.
+' | Dataset X= { 2, 4, 10, 12, 3, 20, 30, 11, 25}
+
+Page 3 of 3
 ````
 
 ## 2024-25 · Re-Exam · Sem 5 · paper 9693b9319b92
@@ -7912,6 +8288,169 @@ ii. Calculate the gain in the Gini index when splitting on A and B. Which
 attribute would the decision tree induction algorithm choose?
 ````
 
+## 2023-24 · Final-Exam · Sem 9 · paper 2a7e7715fdff
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: COMPUTER/SEM IX/Machine Learning/Machine_Learning_Batch_2023-24_Final_rxQftWsoGC.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 89.0
+
+````text
+MPSTME
+
+LIBRARY
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+
+Program/s: B.Tech. Integrated Year: V__ Semester: IX
+Stream/s ; Computer Engineering
+Subject: Machine Learning Time: _03_ hrs (_2pm_to__S5pm___)
+Date:___27 / 11__/ 2023 No. of Pages:_03_
+Marks: 100
+Final Examination 2
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. :
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+3)Inall__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql. Answer briefly: [20]
+CO1;SO1; | a. | Compare Human Learning with Machine Learning.
+
+BL2
+
+CO2;SOl1; |b. | Discuss methods to detect and treat outliers.
+
+BLI
+
+CO3;SO1;]c. | State Advantages and Disadvantages of Trees. ‘
+
+BLI
+
+CO4;SO1; | d. | Explain content-based recommender systems with their advantages.
+
+BLI1
+
+Q2.
+
+CO1;SO1; | a. | Discuss strengths of Neural Networks as classifiers. Discuss working of [10]
+BL2 Multilayer Neural Network with suitable diagram.
+
+C04 ;SO2; | b. | Using linear regression to fit a curve of the form y=a.e™ to the following | [10]
+BL4 data:
+
+x 5 6 7 8 9 10
+y 133 55 23 7 y) 2
+--- page 2 ---
+Q3.
+
+2
+
+What is meant by classification? Apply Naive Bayes algorithm to classify | [10]
+
+CO2 ;SO2; | a.
+BL4 the tuple<adam,M,1.95> using the data given below.
+Person :
+ID Name Gender | Height(m) | Class
+1} Christina | F 1.6 | short
+2 | Jim M 2 | tall
+3 | Maggie F 1.9 | medium
+4 | Martha F 1.85 | medium
+5 | John M 2.8 | tall
+6 | Bob M 1.7 | short
+7 | Clinton M 1.8 | medium
+8 | Nysa F 1.6 | short
+9 | Kathy Ei 1.65 | short
+CO1;SO1; |b. | Explain the tradeoff between bias and variance. Discuss any four [10]
+BL2 techniques to balance the bias and variance trade-off.
+Q4.
+CO2;SO1; | a. | When does overfitting occur? Explain causes/consequences of overfitting. | [10]
+BL2 Compare it with under-fitting.
+CO1;SO2; |b. | Fit a second degree curve to the following data: [10]
+BL4 Y 1 2 3 4 5 6 7 8 *
+X 2 6 7 8 10 11 ll 10
+Q5. :
+CO2 ;SO2; | a. | Use single Link and Average Link Techniques to find clusters in given [10]
+BL4 data set.
+x Y
+pl 0.6 0.73
+p2 0.52 0.68
+p3 0.75 0.72
+4 0.26 0.19
+ps 0.08 0.41
+p6 0.85 0.9
+CO1;SO1; |b. | State the importance of Support Vector Machines. What is role of [10]
+BLI hyperplanes and margins in Support Vector Machines?
+--- page 3 ---
+Q6.
+
+CO3;SO2; |} a. | Design a decision tree for the given database using ID3 algorithm (one [10]
+
+BL4 iteration)
+Outlook | Temp | Humidit | Wind | Decision
+: y :
+
+Sunny Hot High Weak | No
+Sunny Hot High Strong | No
+Overcast | Hot High Weak | Yes
+Rain Mild | High Weak | Yes
+Rain Cool | Normal | Weak | Yes
+Rain Cool _| Normal Strong | No
+Overcast | Cool | Normal Strong | Yes
+Sunny Mild | High Weak | No
+
+Sunny Cool _ | Normal Weak Yes
+Rain Mild | Normal | Weak | Yes
+Sunny Mild | Normal Strong | Yes
+
+CO2;SO1; |b. | What is “Feature Engineering”? Discuss Goals of “Feature Engineering”. [10]
+
+BLI Explain how features are converted from one type to other, with examples.
+
+Q7.
+
+CO2 ;SO2; | a. | A classification technique was applied to classify movies data set. The total | [10]
+BL3 5000 movies were classified as successful and unsuccessful. Out of 5000
+
+movies, 3000 movies were correctly classified as successful. The 1500
+movies were correctly classified as unsuccessful. There were 300 movies,
+which were actually successful but classified as unsuccessful by the
+technique. Construct a confusion matrix for the given scenario and calculate
+the following:
+
+e Accuracy
+
+e Recall
+e Precision
+e Sensitivity.
+
+e Specificity
+
+CO3 ;SO2; |b. | Use K-means clustering to form 2 clusters from following data set. [10]
+BL4
+Subject A B
+1 1.0 1.0
+2 1.5 2.0
+3 3.0 4.0
+4 5.0 7.0
+5 3.5 5.0
+6 45 5.0
+7 3.5 4.5
+````
+
 ## 2023-24 · Final-Exam · Sem 6 · paper a732abb9770d
 
 - Departments: Computer Engineering, Electronics and Telecommunication
@@ -8498,6 +9037,178 @@ rote b. | Write a short note on Random Forest algorithm [06]
 ar c. | Write a short note on Content-based Recommender System. [06]
 
 page- 2.
+````
+
+## 2023-24 · Re-Exam · Sem 9 · paper b7d6001c4e30
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: COMPUTER/SEM IX/Machine Learning/Machine_Learning_Batch_2023-24_Re_Exam_wmGauguNN2.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 86.5
+
+````text
+SVKM’S NMIMS j
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT ve
+Academic Year: 2023-2024 ‘
+
+Program/s: B.Tech. Integrated Year: W= Semester? IX
+
+\
+\
+
+Stream/s ; Computer Engineering . yi
+
+Subject: Machine Learning Ti ne: __03 hrs (£0am__to_Zipm_)
+\ = Ee) 4]
+Date:_12 / @2 / 202% N ages: 03 y,
+
+Marks: 100
+
+‘Re-Examination
+
+instructions: Candidates should read carefuiiy the instructions printed on the question paper and on the cover
+(> of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall___5_ questions to be attempted. :
+
+4) All questions carry equal marks. .
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql. Answer briefly: [20]
+COI ;SOl; | a. | Compare Supervised Learning with Unsupervised Learning.
+
+BL2
+
+CO2;SO1; |b. | Discuss “One-Hot Encoding” with its advantages.
+
+BLI
+
+CO3;SO1; | c. | Describe bagging & boosting techniques. ‘
+
+BLI
+
+CO4 ;SO1; | d. | Explain non-personalized recommender systems with their advantages.
+
+BLI
+
+Q2. ;
+
+CO!;SO1; | a. | Discuss weaknesses of Neural Networks as classifiers. Explain | [10]
+BL2 Classification using Backpropagation with suitable diagram.
+CO2;SO2; |b. | Fitacurve of the form y=ae™ to the following data using Linear [10]
+BL3 Regression:
+
+X: 2 3 + 5 6 7
+Y: 144 172 207 248 298 355
+--- page 2 ---
+Q3. .
+
+CO2 ;SO2; | a. | What is meant by classification? Apply Naive Bayes algorithm to predict’ | [10]
+BLI whether a given mushroom M1 is edible or not based on its shape, color
+
+and odor.
+
+MI <D, B, 3,?>
+
+Shape | Color | Odor | Edible
+
+C B 1 Yes
+
+D B 1 fes
+
+D Ww 1 Yes
+
+D Ww 2 Yes
+
+C B 2 Yes
+
+D B 2 No
+
+D G 2 No
+
+Cc U 2 No
+
+C B 3 No
+
+Cc Ww 3 No
+
+D W 3 No
+CO1;SO1; |b. | What are the reasons behind missing values? Which are different [10]
+BL2 imputation methods to deal with them? Explain the usage of Missingness
+
+Indicator Variable.
+Q4.
+COQ2;SO1; | a. | When does under-fitting occur? Explain causes/consequences of under- [10]
+BLI fitting. Compare it with overfitting.
+CO1;SO2; |b. | Fit second degree curve to the following data: [10]
+BL2 Y 1 2 3 4 5 6 7 8
+Xx 2 6 7 8 10 11 ll 10
+
+Q5. .
+
+CO4 ;SO2; | a. | Use Complete Link and Average Link Techniques to find clusters in given | [10]
+BL4 data set. ;
+
+x Y
+
+pl 0.6| 0.73
+p2 0.52] 0.68
+p3 0.75| 0.72
+p4 0.26| 0.19
+ps 0.08| 0.41
+p6 0.85 0.9
+
+CO1;SO1; |b. | Why Support Vector Machine Models are better than Linear models. What | [10]
+BL2 is role of hyperplanes and margins in Support Vector Machines?
+--- page 3 ---
+i
+
+Q6.
+
+Design a decision tree for the given database using ID3 algorithm (one * | [10]
+
+CO3 ; SO2; | a.
+BL4 iteration)
+Outlook | Temp. | Humidity | Wind Decision
+Sunny Hot High Weak | No
+Sunny Hot High Strong | No
+Overcast | Hot High Weak Yes
+Rain Mild High Weak Yes
+Rain Cool Normal Weak Yes
+Rain Cool Normal Strong | No
+Overcast | Cool Normal Strong | Yes
+Sunny Mild High Weak | No
+Sunny Cool Normal Weak Yes
+Rain Mild Normal Weak Yes
+Sunny Mild Normal Strong | Yes
+CO2;SO1; |b. | What are outliers? Explain any four causes behind presence of outliers ina | [10]
+BLI dataset. Discuss any three methods for dealing with outliers.
+Q7. .
+CO2;S02; | a. | A classification technique was applied to classify movies data set. The total | [10]
+BL2 5000 movies were classified as successful and unsuccessful. Out of 5000
+movies, 3000 movies were correctly classified as successful. The 1500
+movies were correctly classified as unsuccessful. There were 300 movies,
+which were actually successful but classified as unsuccessful by the
+technique. Construct a confusion matrix for the given scenario and calculate
+the following:
+e Accuracy
+e recall ‘
+e — precision
+e Sensitivity
+e specificity
+CO4;S02; |b. | Use K-means clustering to form 2 clusters from following data set. {10}
+BL4 Six points (with (x, y) representing locations) :
+
+A1(1, 9), A2(2, 4), A3(6, 3), A4(4, 7), AS(7, 5), A6(6, 4)
 ````
 
 ## 2023-24 · Re-Exam · Sem 4 · paper b4e7b5ee6dfb
@@ -10128,6 +10839,134 @@ Foxe
 &
 ````
 
+## 2022-23 · Final-Exam · Sem 9 · paper 4cb94de4ea41
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: COMPUTER/SEM IX/Machine Learning/Machine_Learning_Batch_2022_Final0001_0ONEQPrkve.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 21 November 2022
+- Text: ocr (3 pages), mean OCR confidence 90.8
+
+````text
+SVKM’s NMIMS (
+_ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & sieormekinnd I
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING :
+
+Academic Year: 2022-23 =
+
+Programme: B. Tech Integrated (Computer) Year: V Semester: IX
+Subject: Machine Learning
+
+Marks: 100 ~
+Date: 21 November 2022 - Time: 2.00 pm - 5.00 pm
+
+Durations: 3 (Hrs)
+
+No. of Pages: _O3.
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 __ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql _ | Answer the followings [20]
+CO-1; a. _ | Compare & contrast parametric and non-parametric models.
+
+BL-4
+
+CO- 2; b. Explain LASSO Regression
+
+BL-2
+
+CO-2 ; i Demonstrate Naive Bayesian classifier
+
+BL-3
+
+CO-3 ; d. Discuss Bagging in detail with example.
+
+BL-2
+
+Q2 a Following table shows the midterm and final exam grades obtained for the | [10]
+CO-2 ; students in a course. Apply the method of ordinary least squares for
+
+BL-5
+
+regression to predict the final exam grade of a student who scored 86 in the
+
+midterm exam.
+
+Midterm 72 | 50 81 | 74 | 94 | 86 59 | 83 | 86 88 33 81
+Exam (X)
+
+Final Exam | 84 | 53 77 | 78 | 90 | 75 49.| 79 | 77 74 52 90
+(Y)
+--- page 2 ---
+Q2 b What is one hot encoding? Discuss in detail its requirement, applications [10]
+
+CO-2 ; and limitations in machine learning.
+BL-2
+Q3 a What is outlier? How to detect & handle outliers in machine learning [10]
+CO-2 ; project?
+BL-2
+Q3 b Would it be possible to use KNN for Adaboost algorithm? Justify your [10]
+CO-3 ; answer.
+BL-5
+Q4 a Explain logistic regression. How it is different from linear regression? [10]
+CO-2 ; Describe any one application of logistic regression.
+Of : b Illustrate polynomial regression with example. [10]
+CO-2 ;
+BL-3
+5 a Construct decision tree for following data. [10]
+CO-3 ; Car No | Colour | Type | Origin Stolen?
+BL-6 1 Red Sports | Domestic Yes
+2 Red Sports | Domestic No
+3 Red Sports | Domestic Yes
+4 Yellow | Sports | Domestic No
+5 Yellow | Sports | Domestic Yes
+6 Yellow | SUV Imported No
+7 Yellow | SUV Imported Yes
+8 Yellow | SUV Domestic No
+9 Red SUV Imported No
+10 Red Sports | Imported Yes
+Q5 b What is support vector machine? Explain how margin is computed and [10] =
+CO-2 ; optimal hyperplane is decided?
+BL-4
+--- page 3 ---
+Q6 a Consider following instance given as input to K-Means algorithm fork= | [10]
+
+CO-3 ; 3. Find members of these 3 clusters after 2 iterations. X = {(2,10), (2,5),
+
+BL (8,4), (5,8), (7,5), (6,4), (1,2), (4,9)}.
+
+Q6 b Describe KNN algorithm with suitable example and advantages. [10]
+CO-2 ;
+
+BL-2
+
+Q7 a What is a recommender system? Discuss content based recommender [10]
+CO-3 ; system. .
+
+BL-2
+
+Q7 b Explain the followings — [10]
+CO-1 ; i) Curse of Dimensionality
+
+BL-2 ii) Dimensionality Reduction
+````
+
 ## 2022-23 · Final-Exam · Sem 4 · paper ad07df03a8de
 
 - Departments: Artificial Intelligence
@@ -11350,6 +12189,237 @@ CO-1;BL-L |». | Writea short note on Ensemble Learning technique. [05]
 CO-1;BL-L | ¢ Write a short note on Logistic Regression technique. [05]
 
 Loss
+````
+
+## 2022-23 · Re-Exam · Sem 9 · paper 4d5897c63126
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: COMPUTER/SEM IX/Machine Learning/Machine_Learning_Batch_2022-23_Re_Exam0001_89feSdfT5F.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30 January 2023
+- Text: ocr (2 pages), mean OCR confidence 85.2
+
+````text
+_SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+, Program: B. Tech Integrated (Computer) Year: V Semester : IX
+
+AcademicY ear: 2022-2023
+
+Subject: Machine Learning Marks: 100
+
+Date : 30 January 2023 Time: 2.00 pm - 5.00 pm
+Durations: 3 (Hrs)
+
+No. of Pages:__ o92—
+Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___is compulsory.
+
+2) Gut of remaining questions, attempi any __4 questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary. :
+
+Qi Answer briefly: [20]
+CO- 1; a. Discuss missing value treatment in machine learning.
+
+BL-2
+
+CO-2 ; b. What is multiple linear regression?
+
+BL-1 .
+
+CO- 3; com Compare KNN and K-Means algorithms.
+
+BL-4 ;
+
+CO-3 ; d. Discuss Boosting in detail.
+
+BL-2 ;
+
+Q2 a What is machine learning application? Discuss the steps in developing a [10]
+CO-1; machine learning application.
+
+“ BL-2
+Q2 b What is a recommender system? Discuss content based recommender [10]
+1CO-3 ; system.
+
+BL-2
+
+Q3 a What is bias variance tradeoff? Illustrate how it is related to under fitting | [10]
+CO-2 ; and overfitting?
+
+BL-4
+
+Q3 b Explain XGBoost in detail. [10] °
+CO-3 ;
+BL-4
+Q4 a For the given dataset apply Naive Bayes algorithm and predict the [10]
+
+outcome for the car = {Red, Domestic, SUV}.
+
+he
+--- page 2 ---
+CO-2; . Color Type Origin Stolen
+
+Red Sports Domestic Yes
+
+Red Sports Domestic No
+
+Red Sports Domestic Yes
+
+Yellow Sports Domestic No
+
+Yellow Sports Domestic Yes
+
+Yellow . SUV Imported No
+
+Yellow SUV Imported | Yes
+
+Yellow [SUV | Domestic | No
+
+Red "SUV Imported No
+
+Red Sports Imported Yes
+Q4 b Explain regularization in detail. [10]
+CO-2 ;
+BL-3
+Q5 a Discuss random forest algorithm with example. [10]
+CO-4 ;
+BL-2
+Q5 b Describe logistic regression in detail. Compare it with linear regression. [10]
+CO-2 ;
+BL-5
+Q6 a Apply PCA on the following data and find principle component. [10]
+CO-3 ; X/2.5 |0.5 12.2 | 1.9 | 3.1 }23 | 2 1 15 || Ll
+cat Y| 2.4 | 0.7 2.9 | 2.2 |3 2.7 | 1.6 | 1.1 | 1.6 | 0.9
+Q6 b Illustrate with example the Performance Evaluation Measures for [10]
+CO-2: Classification. Models.
+BL-4
+Q7 a __.| What is outlier? How to detect & handle outliers in machine learning [10]
+CO-1 ; project?
+BL-2 .
+Q7 b Differentiate between supervised, unsupervised and reinforcement [10]
+
+learning.
+
+h
+````
+
+## 2022-23 · Re-Exam · Sem 9 · paper 917fe6a01f27
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: COMPUTER/SEM IX/Machine Learning/Machine_Learning_Re_Exam_2022-23_Re_Exam0001_0X7a3RpQH0.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 90.5
+
+````text
+SVKM'S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+
+Academic Year: 2022-2023
+
+Program: B Tech Integrated Stream ;Computer Engineering Year: V Semester: IX
+
+Subject: Machine Learning (Department Elective) Time: 3 hrs (4ugffeeeti
+Date:_14 Mun/ 2023 . No. of Pages & MPSTME .
+Marks: 100
+
+LIBRARY As
+Special Re- Examination HY
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+cover of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+
+_ 5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+Co- 1; a. Discuss any one Real world application of supervised learning.
+BL-2
+CO-2 ; b. Describe the significance of ROC-AUC curves.
+BL-2
+CO- 2; c. Bring out the uses of Matplotlib library for data visualization.
+BL-3
+CO-3 ; d. Discuss Bagging in detail
+BL-2
+Q2 a Demonstrate random forest algorithm. [10]
+CO-3 ;
+_~ BL-4
+Q2 b Why dimensionality reduction is very important in machine learning? [10]
+CO-3 ; How to achieve this in machine learning?
+BL-4
+Q3 a What is bias variance tradeoff? Illustrate how it is related to under [10]
+CO-2 ; fitting and overfitting?
+BL-2
+Q3 b Explain Boosting with example. [10]
+CO-3 ;
+BL-2
+Q4 a Describe KNN algorithm with suitable example and advantages. [10]
+CO-3 ;
+BL-3
+--- page 2 ---
+Q4 b What is a recommender system? Discuss content based recommender [10]
+
+CO-3 ; system.
+
+BL-2 :
+
+Q5 a The data in the following table relate grams plant dry weight, Y, to. [10]
+Bea ; percent soil organic matter, X1, and kilograms of supplement soil
+
+nitrogen added per 1000 square meter, X2. Obtain the multiple
+
+regression equation.
+
+Y Xi X2
+78.5 7 2.6
+; 74.3 1 2.9
+
+104.3 11 5.6
+
+87.6 11 3:1
+
+95.9 7 52
+
+109.2 11 5.5
+
+102.7 3 7.1
+Q5 b Explain logistic regression. How it is different from linear regression? [10]
+CO-2 ; Describe any one application of logistic regression.
+BL-2
+Q6 a What is Machine Learning? List its advantages. Discuss broad [10]
+CO-1 ; categories of machine learning
+BL-2
+Q6 b What is outlier? How to detect & handle outliers in machine learning [10]
+E0-1 , project?
+BL-2
+Q7 a Given the following data for the sales of car of an automobile company | [10]
+CO-2 ; for six years. Predict the sales for next two consecutive years.
+alt Year | 2013 | 2014 | 2015 | 2016 | 2017 | 2018
+
+Sales | 110 100 | 250 | 275 230 300
+
+Q7 b Demonstrate Naive Bayesian classifier. [10]
+CO-3 ;
+
+BL-4
 ````
 
 ## 2022-23 · Re-Exam · Sem 4 · paper f00a31704a7d

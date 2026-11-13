@@ -1,6 +1,6 @@
 # Introduction to Forensic Science
 
-**42** unique papers (88 copies across programmes) · 2023-24 to 2025-26 · 25 programmes · Sem 5, Sem 6, Sem 9, Sem 10
+**44** unique papers (90 copies across programmes) · 2023-24 to 2025-26 · 26 programmes · Sem 5, Sem 6, Sem 9, Sem 10
 
 Download only this subject, sorted by academic year:
 
@@ -15,6 +15,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH, B.TECH INTEGRATED, MBA TECH | Introduction to Forensic Science 2025-26 Final.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 10 | BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038 | QP_Final-Exam_Introduction to Forensic Science(702BS0I021)_Semester X_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 9 | BTech AI 7012, BTech Computer 7002, BTech CyberSecurity 7010, BTech DS 7009, BTech EXTC 7006, BTech IT 7001, BTech Mechanical 7003, BTech Mechatronics 7004, Integrated Computer 7032, Integrated DS 7038, Integrated IT 7037, Integrated Mechanical 7031, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052, MBATech IT 7041 | QP_Introduction to Forensic Science(702BS0I021)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech AI 7012 | QP_Introduction to Forensic Science(702BS0I021)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Computer 7002 | QP_Introduction to Forensic Science(702BS0I021)_2025-2026.pdf |
@@ -28,6 +29,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech AI 7051 | QP_Introduction to Forensic Science(702BS0I021)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech Computer 7047 | QP_Introduction to Forensic Science(702BS0I021)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech IT 7041 | QP_Introduction to Forensic Science(702BS0I021)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038 | ANS_Final-Exam_Introduction to Forensic Science(702BS0I021)_Semester X_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 5, Sem 9 | BTech AI 7012, BTech Computer 7002, BTech CyberSecurity 7010, BTech DS 7009, BTech EXTC 7006, BTech IT 7001, BTech Mechanical 7003, BTech Mechatronics 7004, Integrated Computer 7032, Integrated DS 7038, Integrated IT 7037, Integrated Mechanical 7031, MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052, MBATech IT 7041 | ANS_Introduction to Forensic Science(702BS0I021)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AI 7012 | ANS_Introduction to Forensic Science(702BS0I021)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Introduction to Forensic Science(702BS0I021)_2025-2026.pdf |

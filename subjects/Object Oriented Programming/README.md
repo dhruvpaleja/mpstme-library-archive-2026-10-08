@@ -1,6 +1,6 @@
 # Object Oriented Programming
 
-**39** unique papers (52 copies across programmes) · 2015-16 to 2025-26 · 17 programmes · Sem 2, Sem 3, Sem 4, Sem 8
+**41** unique papers (54 copies across programmes) · 2015-16 to 2025-26 · 18 programmes · Sem 2, Sem 3, Sem 4, Sem 8
 
 Download only this subject, sorted by academic year:
 
@@ -23,9 +23,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Final-Exam | Answer key | Sem 2 | BTech Computer 7002, BTech CSE DS 7057 | ANS_OBJECT ORIENTED PROGRAMMING(702CO0C075)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 2 | MBATech Computer 7047 | ANS_OBJECT ORIENTED PROGRAMMING(702CO0C075)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | B TECH | Object Oriented porgramming, Sem-II, Batch 2025-26, Re Exam.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE) - 7055 | QP_Re-Exam_OBJECT ORIENTED PROGRAMMING(702CO0C075)_Semester II_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | BTech CSBS 7036 | QP_OBJECT ORIENTED PROGRAMMING(702CO0C075)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | BTech Computer 7002 | QP_OBJECT ORIENTED PROGRAMMING(702CO0C075)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | MBATech Computer 7047 | QP_OBJECT ORIENTED PROGRAMMING(702CO0C075)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE) - 7055 | ANS_Re-Exam_OBJECT ORIENTED PROGRAMMING(702CO0C075)_Semester II_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 2 | BTech CSBS 7036 | ANS_OBJECT ORIENTED PROGRAMMING(702CO0C075)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 2 | BTech CSE DS 7057 | ANS_OBJECT ORIENTED PROGRAMMING(702CO0C075)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 2 | BTech Computer 7002 | ANS_OBJECT ORIENTED PROGRAMMING(702CO0C075)_2025-2026.pdf |

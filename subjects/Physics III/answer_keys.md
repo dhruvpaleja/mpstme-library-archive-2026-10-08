@@ -2,6 +2,362 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2024-25 · Final-Exam · Sem 3 · Answer key · paper 13642c80e7a1
+
+- Departments: Computer Engineering
+- Programmes: BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7032
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7032/Physics-III/ANS_Final-Exam_Physics-III(701BS0C016)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27 Nov 2024
+- Text: text (9 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)
+Year: II/Semester III(Exam Year: 2024-2025)
+Subject: Physics-III
+Date: 27 Nov 2024   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 9 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks.
+4. Question No. 1 is compulsory.
+5. Attempt any 4 questions out of the six options of Question No. 2.
+6. Total 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+The following are just one set of model answer. Any equivalent correct answer will also get the same
+credit.
+Q1
+Answer briefly:   [20]
+a.   What is an amorphous material?
+Ans. The type of materials that lack long-range ordering in their atomic
+arrangements are called amorphous materials.   2 marks
+Examples of such materials are glass and plastics.   1 mark
+CO-1 ;   [4]
+BL- 1,2
+The above figure shows the structure of an amorphous materials.
+1 mark
+b.   Define Hall effect.
+CO-1 ;   Ans. When a current carrying conductor is placed in a magnetic field, a potential
+[4]
+BL-1,2   proportional to the current and to the magnetic field is developed across the
+material in a direction perpendicular to both the current and to the magnetic
+********** 1 **********
+--- page 2 ---
+field. The establishment of electric field is known as Hall effect and the
+resultant voltage is known as Hall voltage.   3
+marks
+1 mark
+c.   Explain the term ‘coherence’ in relation with the light waves. How coherent
+sources are obtained?
+Ans. Two sources are said to be coherent if they emit light waves of the
+same frequency, nearly the same amplitude and always have a constant
+CO-2 ;   phase difference between them.   3 marks [4]
+BL-1,2
+Two virtual sources formed from a single source can act as coherent
+sources. In practice, coherent sources are obtained by two methods, viz.
+(i) division of wavefront and (ii) division of amplitude.
+1 mark
+d.   In an optical fiber, the core refractive index is 1.6 and the cladding refractive
+index is 1.3. What is the value of critical angle at the core-cladding interface?
+Also calculate the value of the numerical aperture of this optical fiber.
+CO- 2;   Ans. Collection of data with units and all the symbols explained properly.
+[4]
+BL-1,2   1 mark
+Critical angle (θc) = sin-1(n2/n1) = sin-1(1.3/1.6) = 54.34O.   1.5 marks
+𝑁𝐴= √𝑛1 2 − 𝑛2 2 = (1.62-1.32)0.5 = 0.93   1.5 marks
+********** 2 **********
+--- page 3 ---
+e.   State Lorentz force equation with mathematical expression.
+Ans. The Lorentz Force is the force on a charged particle due to electric
+and magnetic fields. Let us suppose that there is a point charge q (moving
+with a velocity v and, located at r at a given time t) in presence of both
+the electric field E (r) and the magnetic field B (r). The force on an
+CO- 3;   electric charge q due to both of them, known as the Lorentz force, can be
+[4]
+BL-1,2   written as
+F = q [ E (r) + v × B (r)]
+= Felectric + Fmagnetic
+4 marks
+Q2   Answer any four (4) questions.
+A   [20]
+a.   Explain crystal with a proper diagram. Find the atomic packing fraction for a
+face centered cubic (FCC) structure.
+Ans. Crystalline Solid or a crystal is the solid form of a substance in which
+the atoms or ions or molecules are arranged in a definite, repeating
+pattern in three dimension. e.g.
+Definition: 2 marks
+CO-1; BL-   Figure: 2 marks
+[10]
+1,2
+Atomic packing factor of a Face Centered Cubic (FCC) structure:
+In the FCC unit cell, FCC structure has 8 corner atoms and 6 face centered
+atoms. Each corner atom is shared by 8 unit cells. Each face centered
+atom is shared by 2 unit cells.
+So the number of atoms present in unit cell, n = (1/8 x8) + (1/2 x 6) = 1
++ 3 = 4
+********** 3 **********
+--- page 4 ---
+If R is the radius of the atom and a is the length of the cube edge, then
+from the figure
+(4R)2 = a2 + a2 = 2a2   or R = a√2/4
+4   4   3
+𝑛𝑉𝑎   4 𝑥 3𝜋𝑅3   2 𝑥 3𝜋(𝑎√2 4 )
+Therefore, the atomic packing factor, APF = 𝑉=   =   =
+𝑉   𝑎3
+0.74
+Thus, 74 % of the volume of the FCC unit cell is occupied by atoms and
+the remaining 26% volume is vacant or void space.
+Derivation: 4 marks
+Relevant figure: 2 marks
+b.   The inter-planar spacing of [1 1 0] plane is 2 Å for a FCC crystal. Find the
+atomic radius.
+Ans. Given, Miller indices (hkl) of the plane is (110) and the inter-planar
+spacing = d = 2Å.
+1 mark
+CO-1; BL-
+Let 𝑎 = lattice constant.   [6]
+4   𝑎
+Now, 𝑑(ℎ𝑘𝑙) =   1.5 marks
+√ℎ2+𝑘2+𝑙2
+Therefore, 2 Å =   𝑎   , or 𝑎= 2√2 Å   1 mark
+√12+12+02
+For a FCC crystal 𝑎= 4𝑟 , r being the atomic radius.   1.5 mark
+√2
+Therefore, the atomic radius = r = 𝑎√2 = 2√2 x √2Å = 1Å   1 mark
+4   4
+c.   Analyze the significance of Hall coefficient being positive and negative.
+CO-1; BL-   Ans. Hall coefficient being negative indicates the charge carriers are electron.
+[4]
+3,4   If the Hall coefficient is positive, it indicates that the charge carriers are holes.
+2 + 2 = 4 marks
+B   [20]
+a.   Show that the Fermi level of an intrinsic semiconductor lies at the half of the
+energy band gap at low temperature.
+Ans.
+Consider an intrinsic semiconductor at T K.
+The concentration of electrons in the conduction band is
+CO-1; BL-
+[10]
+1,2
+𝑛= 𝑁𝑐exp[ −(𝐸𝑐−𝐸𝐹 𝑘𝑇)]
+Where, NC = 2(2πmnkT/ h2)3/2 is the effective density of electrons at the
+conduction band edge (Ec), mn = effective mass of the e,
+k = Boltzmann’s constant, h = Planck’s constant
+********** 4 **********
+--- page 5 ---
+2 marks
+Similarly, the concentration of holes in the valence band is given by
+𝑝= 𝑁𝑣exp[ −(𝐸𝐹−𝐸𝑣 𝑘𝑇)]
+Where, NV=2(2πmpkT/ h2)3/2 represents the effective density of holes at the
+valence band edge, Ev.
+mp = effective mass of the hole.   1 mark
+For an intrinsic semiconductor,
+𝑛= 𝑝= 𝑛𝑖   2 marks
+Therefore,
+𝑁𝑐exp[ −(𝐸𝑐−𝐸𝐹 𝑘𝑇)] = 𝑁𝑣exp[ −(𝐸𝐹−𝐸𝑣 𝑘𝑇)]
+Or   exp (2𝐸𝐹−𝐸𝑐−𝐸𝑣 ) = 𝑁𝑣 or   2𝐸𝐹−𝐸𝑐−𝐸𝑣 = ln (𝑁𝑣 𝑁𝑐)
+𝑘𝑇   𝑁𝑐   𝑘𝑇
+Or   𝐸𝐹= 𝐸𝑖= 𝐸𝑐+ 𝐸𝑣 + 𝑘𝑇 ln (𝑁𝑣 𝑁𝑐)   2 marks
+2   2
+Putting the values of Nv and Nc we get
+𝐸𝐹= 𝐸𝑐+ 𝐸𝑣 + 3 kTln ( 𝑚𝑝
+2   4   𝑚𝑛)
+At T = 0 K
+𝐸𝐹= 𝐸𝑐+ 𝐸𝑣   2 marks
+2
+i.e. the Fermi level lies in the middle of the conduction and the valence band.
+This is also true for other temperatures provided mp = mn. However, in general
+mp>mn and the Fermi level is raised slightly as T exceeds 0 K.
+1 mark
+b.   A Si sample, with an intrinsic carrier concentration of 9.8 x 1015 /m3 at 300 K,
+is made n-type material. If the density of donor atoms is 1021 m-3, determine the
+electron and hole densities.
+CO-1; BL-   Ans. Given, donor concentration = ND = 1021 /m3,
+[6]
+4   temperature = T = 300 K,
+intrinsic career concentration = ni = 9.8 x 1015 /m3
+We need to determine the electron density nn and hole density pn.
+2 marks
+********** 5 **********
+--- page 6 ---
+For an n-type semiconductor, we know that acceptor concentration NA ≈
+0
+and the electron density, nn ≈ ND = 1021 /m3
+2 marks
+𝑛𝑖 2   (9.8 𝑥 1015) 2 (𝑚−3) 2
+The hole density, 𝑝𝑛= 𝑁𝐷=   = 9.60 𝑥 1010 𝑚−3.
+1021 𝑚−3
+2 marks
+c.   Identify the various causes of crystal defects.
+Ans.
+i. Thermal vibrations in a crystal at high temperature.
+ii. Particle radiation in a nuclear detector.
+CO-1; BL-
+iii. Artificial doping of impurities.   [4]
+3,4
+iv. Plastic deformation.
+v. Thermal quenching.
+(At least 4 points are to be mentioned)
+4 x 1 mark = 4 marks
+C   [20]
+a.   What is a diffraction grating? Explain the dispersive power and the resolving
+power of a grating.
+CO-2; BL-
+Ans. Definition of diffraction grating.   2 marks   [10]
+1,2
+Dispersive power of the diffraction grating.   4 marks
+Resolving power of the diffraction grating.   4 marks
+b.   Monochromatic light of λ = 6560 Å falls normally on the grating of width 3 cm.
+The first order spectrum is produced at an angle 19O from the normal. What is
+the total number of lines on the grating?
+Given, wavelength of the light = λ = 6560 Å = 6560 x 10-8 cm
+angle of the first order diffraction pattern = θ = 19O
+order of the diffraction = n = 1
+width of the grating = w = 3 cm
+CO-2; BL-   Let, N be the number of lines per unit length.   1 mark
+[6]
+4   We know that the grating equation is
+𝑁sin𝜃= 1   𝑛𝜆   1 mark
+Putting the values we get, 𝑁=   sin 19𝑜 10−8𝑐𝑚= 4962.9 𝑐𝑚−1 = 4962 𝑐𝑚−1
+1 𝑥 6560 𝑥
+(since the number of lines can’t be fractional)   2 marks
+Therefore, the total number of lines on the grating = N x w = 4962 cm-1 x 3 cm
+= 14886
+2 marks
+CO-2; BL-   c.
+Examine why two level systems fail to produce lasers.   [4]
+3,4
+********** 6 **********
+--- page 7 ---
+Ans. It is not possible to achieve population inversion with a 2-state
+(level) system. If the incoming radiation flux is made very large the
+probability of stimulated emission and absorption can be made to far
+exceed the rate of spontaneous emission. But in 2-state system, the best
+we can get is N1 = N2.
+Suppose there are only 2 levels, a metastable state, corresponding to energy
+hν, above the ground state. The more photons with frequency ν we pump
+into the assembly of atoms, the more upward transitions there will be from
+the ground state to the metastable state. However, pumping will also
+stimulate downward transitions from metastable state to the ground state.
+i.e. population and depopulation processes take place simultaneously.
+In other words, the incoming flood of photons is just as likely to cause an
+atom to drop (stimulated emission) as it is to cause an atom to rise
+(absorption). When half the atoms are in each state, the rate of stimulated
+emissions will be equal the rate of stimulated absorption, so the assembly
+can’t have more than half its atoms in metastable state. In this situation laser
+amplification cannot occur, the required criteria for lasing is N2 > N1.
+4 marks
+D   [20]
+a.   What is an optical fiber? What is the basic principle behind its operation?
+Compare different types of optical fibers.
+CO-2; BL-
+Ans. Definition of Optical fiber.   2 marks   [10]
+1,2
+Basic principle (TIR).   2 marks
+Comparison between various types of optical fibers.   6 marks
+b.   A laser having power of 75 mW, wavelength 720 nm and an aperture 5 mm is
+focused with a lens of focal length of 0.1 m. Calculate the area and the intensity
+of the image.
+Ans. Given, laser power = P = 75 mW = 75 x 10-3 W
+CO-2; BL-
+wavelength = λ = 720 nm = 720 x 10-9 m   [6]
+4   aperture = d = 5 mm = 5 x 10-3 m
+focal length = f = 0.1 m   1 mark
+Angular spread = dθ = λ/d = 720 x 10-9 [m] / 5 x 10-3 [m] = 1.44 x 10-4
+rad
+********** 7 **********
+--- page 8 ---
+1 mark
+Areal spread = (f dθ)2 = (0.1 [m] x 1.44 x 10-4)2 = 2.074 x 10-10 m2
+2 marks
+The intensity of the image = I = P / areal spread
+= 75 x 10-3 [W] / 2.074 x 10-10 [m2]
+= 3.616 x 108 W/m2.
+2 marks
+c.   If energy is always conserved, how come the interference maximum has
+amplitude more than the sum of individual interfering rays?
+Ans. The light energy which is absent in the dark fringes reappears as additional
+CO-2; BL-
+energy in the bright fringes. However, the total energy in the dark and the bright   [4]
+3,4
+fringes remains same. Therefore, there is no violation in the conservation of
+energy.
+4 marks
+E   [20]
+a.   What is a magnetic material?
+Summarize the properties of different types of magnetic materials.
+Ans. Definition of magnetic material.   1 mark
+There are mainly three types of magnetic materials
+CO-3; BL-
+i. diamagnetic materials   [10]
+1,2
+ii. paramagnetic materials
+iii. ferromagnetic materials
+Description of each with proper figures.
+3 x 3 marks = 9 marks
+b.   A magnetic material has a magnetization of 3200 A/m and flux density of
+0.0045 Wb/m2. Determine the magnetic field and the relative permeability of
+the material.
+Ans.   Given,   Magnetization = M = 3200 A/m.
+Magnetic flux density = B = 0.0045 Wb/m2
+Let the magnetic field intensity = H and relative permeability = 𝜇r
+CO-3; BL-   2 marks
+[6]
+4
+We know, B = 𝜇o (H + M)   1 mark
+𝑩   0.0045 𝑊𝑏 𝑚2   𝐴
+Or   𝑯= 𝜇𝑜−𝑴=   𝐻 −3200 𝑚= 382.8 𝐴/𝑚
+4𝜋 x 10−7 𝑚
+1 mark
+Further, the relative permeability is given by
+𝜇𝑟= 1 + 𝑴   1 mark
+𝑯
+********** 8 **********
+--- page 9 ---
+= 1 + 3200 𝐴/𝑚 𝐴 = 9.36   1 mark
+382.8 𝑚
+Therefore, the magnetic field is 382.8 A/m and the relative permeability is 9.36.
+c.   Compare Schottky and Frenkel defects with proper illustration.
+CO-1; BL-
+Ans. Properties of Schottky and Frenkel defects.   3 marks [4]
+3,4
+Figures of Schottky and Frenkel defects.   1 mark
+F   [20]
+a.   Explain the construction and working of Ruby laser with relevant diagrams.
+Ans. Construction of Ruby laser   3 marks
+CO-2; BL-
+Schematic diagram of Ruby laser   2 marks [10]
+1,2
+Working of Ruby laser   3 marks
+Energy level diagram of Ruby laser   2 marks
+b.   NaCl crystals have FCC crystal structure. The density of NaCl is 2.18 x 103
+kg/m3, the atomic weight of Na is 23 and that of Cl is 35.5. Find the lattice
+constant. Given Avogadro number N = 6.02 x 1023 mole-1.
+Ans. Collection of data with units and all the symbols as defined   1 mark
+Molecular weight of NaCl= M = (23 + 35.5) gm/mole = 58.5
+gm/mole
+CO-1; BL-   1 mark
+[6]
+4   Number of atoms per unit cell FCC crystals = n = 4
+1 mark
+Now, a3=Mn/NAρ (all symbols are as per convention).   1 mark
+1
+𝑔𝑚   3
+58.5 [ 𝑚𝑜𝑙𝑒] 𝑥 4
+𝑎= [   1023[𝑚𝑜𝑙𝑒−1]𝑥2.18𝑥106[𝑔𝑚/𝑚3] = 5.63 𝑥 10−10𝑚= 5.63 Å
+6.02 𝑥
+Thus the value of the lattice constant is 5.63 Å.   2 marks
+CO-3; BL-   c.   Examine Ampere’s law of electromagnetism.
+[4]
+3,4   Ans. Discussion of Ampere’s law of electromagnetism.   4 marks
+********** 9 **********
+````
+
 ## 2024-25 · Final-Exam · Sem 3 · Answer key · paper bea981dce590
 
 - Departments: Data Science

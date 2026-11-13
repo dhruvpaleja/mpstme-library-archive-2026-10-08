@@ -1,6 +1,6 @@
 # Introduction to Data, Signal and Image Analysis: question papers in full
 
-22 unique papers · 2021-22 to 2025-26 · Data Science
+23 unique papers · 2021-22 to 2025-26 · Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -882,6 +882,133 @@ Phase (radians)
 Points on X-axis:- 0, 7, 2n, 32, 41, Sm...,
 Points on Y-axis:- +2, -2, Signal starts at zero.
 £
+````
+
+## 2024-25 · Final + Re-Exam · Sem 8 · paper c3ba1c009295
+
+- Departments: Data Science
+- Programmes: B.TECH INTEGRATED / DATA SCIENCE
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: DATA SCIENCE/SEMESTER VIII/Introduction to Data ,Signal and Image Analysis/Introduction_to_Data__Signal_and_Image_Analysis_Batch_2024-25_Final_Batch_2023-24_Re_Exam_eFtgjTIxkA.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 /05 / 2025
+- Text: ocr (3 pages), mean OCR confidence 81.2
+
+````text
+SVKM’S NMIMS
+
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+Program/s: BTech/MBATech/BTI ; Year: [I/ITV Semester: IV/VIII
+Stream/s ;Data Science/CSE DS(7057)
+
+Subject: Introduction to Data, Signal and Image Analysis ' Time: _03 hrs (10 am to tpn)
+Date: 10 /05 / 2025 No. of Pages:__03_
+Marks: 100
+
+Final Examination 2024-25/Re-exam 2023-24
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+(©) _ of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5). Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+rey
+
+Qi
+
+Answer briefly: [20]
+CO-1, BL-1; | a.
+CO-1, BL- Find Z- Transform of x(n) = 2,3,1 [5]
+5,SO1
+
+b. Solve to find initial value and final value for the given transfer function.
+CO-1, BL - AS+2 [5]
+3,802 Xx (S ) = ——-
+S(S+4)
+
+Co-2, BL-. | c. List the importance of FIR filter [5]
+1;SO1
+Col d. Define Pixel and Pixel Density [5]
+BL2,SO1
+Q2 ~ 1A Explain the significance of sampling to convert continuous time into
+CO-1, BL-1; discrete. Apply sampling concept- on a continuous time signal | [10]
+Seon x(t)=5 cos(10zt) and find it’s discrete signal
+
+faze |
+--- page 2 ---
+B A continuous-time signal is shown below. Sketch the following signal:-
+
+x(--t), x(2t), x(t-2), 3X(t)
+
+Q2
+
+|
+Co1,BL3, Pou [10]
+SOL | = |
+| + t >
+~™ 0 | 2
+
+Q3 |A_ _ | Determine Y(t) by using integral convolution. Given —_
+
+2 ay. [10]
+Seon x (t) = 3e77*u(t) and h(t) = e~*u(t)
+Q3co-1, |B t
+BL-5 SO2 Evaluate- L Lo t e**cosAt dt| [10]
+Q4 A
+
+Plot and write equations for basic (standard) continuous unit U(t) and
+Col BL1 _ | [10]
+
+-_ ramp f(t) signals. Hence plot: —5SU(t+5) and r(t+3):
+
+B Evaluate Laplace Transform for the following signal x(t):
+
+CE
+
+Q4 : -| t Clo] *
+
+CO-1, BL-1. TO \ 7
+
+sO1
+
+Qs A
+
+CO-2, BL-2 Discuss the advantages, disadvantages and applications of IIR filter. [10]
+sOl ;
+
+Page 2—
+--- page 3 ---
+Q5 B ‘
+
+Co4 Write a detailed note on image compression. . [10]
+BLI1,SO1
+Q6 A
+CO-2, BL-4 Differentiate FIR filter vs IIR filter [10]
+sol
+Q6 B “Image enhancement is performed to improve the visual quality of an
+rien es image by adjusting its brightness, contrast, sharpness, or reducing noise”. | [10]
+Justify the statement with detailed explanation.
+Q7 A
+Co4, Give a Summary on JPG, PNG, GIF, and TIFF. ~ [10]
+BL1,BL2 re
+B Solve to find the Fourier series (trigonometric form) for the given signal
+A)
+Q7
+[10]
+CO-1, BL-3
+1) Pore leet
+01 2 3 &F at
+
+Page 5
 ````
 
 ## 2024-25 · Final + Re-Exam · Sem 4 · paper 815c91f9c3b4

@@ -1,6 +1,6 @@
 # Computer Programming II
 
-**46** unique papers (53 copies across programmes) · 2006-07 to 2019-20 · 3 programmes · Sem 2, Sem 3, Trim 2
+**48** unique papers (55 copies across programmes) · 2006-07 to 2019-20 · 4 programmes · Sem 2, Sem 3, Trim 2
 
 Download only this subject, sorted by academic year:
 
@@ -25,10 +25,12 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2017-18 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / EXTC | Computer Programming II Batch 2016-17,2017-18 Re Exam_3d69d41f68.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 2 | MBA TECH | Computer programming-II ,Re-exam 2017-18.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 2 | MBA TECH | computer_programming_II_2017-18 Re-exam.pdf |
+| 2016-17 | Final-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / COMPUTER | Computer_Programming_II_Batch_2016-17_Final_RdUosJirb8.pdf |
 | 2016-17 | Final-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / EXTC | Computer Programming II Batch 2016-17 Final.pdf |
 | 2016-17 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / EXTC | Computer Programming II Batch 2016-17 Re Exam.pdf |
 | 2016-17 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / EXTC | Computer Programming II Batch 2016-17 Re Exam_bd2b459e9f.pdf |
 | 2015-16 | Final-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / EXTC | Computer Programming II 2015-16 Final.pdf |
+| 2015-16 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / COMPUTER | Computer_Programming_II_Batch_2015-16_Re_Exam_MI2FCVFJvo.pdf |
 | 2015-16 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / EXTC | Computer Programming II Batch 2015-16 Re Exam.pdf |
 | 2015-16 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / EXTC | Computer Programming II Batch 2015-16 Re Exam_09e06b348b.pdf |
 | 2015-16 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / EXTC | Computer Programming II Batch 2015-16 Re Exam_4f5d68b1fd.pdf |

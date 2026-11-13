@@ -1,8 +1,79 @@
 # Organizational Behaviour: question papers in full
 
-80 unique papers · 2007-08 to 2025-26 · Common (all branches), Information Technology, Computer Applications (MCA), Chemical, Manufacturing, Data Science, Electronics and Telecommunication, Artificial Intelligence, Computer Engineering, Mechanical
+84 unique papers · 2007-08 to 2025-26 · Common (all branches), Information Technology, Computer Applications (MCA), Chemical, Manufacturing, Computer Engineering, Data Science, Electronics and Telecommunication, Artificial Intelligence, Mechanical, Commerce
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 1 · paper c2f9e64a844d
+
+- Departments: Commerce
+- Programmes: MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703/Organisational Behaviour/QP_Final-Exam_Organisational Behaviour(NKOGB502)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 10 Nov 2025
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: M.Com (BM)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Organisational Behaviour
+Date: 10 Nov 2025   Time: 11:00 am - 01:00 pm (02:00 Hrs.)
+Max Marks: 60
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 and 3 are compulsory.
+5. From Question No. 2 attempt any two.
+6. Use illustration wherever deemed necessary.
+1. Answer the following question.   15
+a) Illustrate how the three components of attitude—cognitive, affective, and behavioral—
+combine to shape employee actions.   (5 Marks)
+b) Critically evaluate the major factors that contribute to employee job satisfaction.   (10
+Marks)
+2.   Answer the following questions.(Attempt Any 2 Questions)   30
+A. Discuss the role of emotions and moods in influencing individual behaviour and decision-   15
+making in the workplace, using relevant examples to support your explanation.
+B. a) Critically assess the ABC Model in evaluating leadership effectiveness with a suitable   15
+example. (5 Marks)
+b) Present a short note on the contingency theories of leadership. (10 Marks)
+C. a) Analyze the key forces that drive organizational change. (5 marks)   15
+b) Evaluate strategies that can be used to overcome resistance and facilitate successful change
+implementation (10 marks).
+3. Read the case and answer the following question..   15
+Page 1 of 2
+--- page 2 ---
+Shalini had recently taken charge of the operations unit at a large hospital. Her team consisted
+of six staff members responsible for managing patient care coordination, resource allocation,
+and daily administrative tasks. Each member displayed unique behavioral tendencies that
+influenced how they worked.
+Deepa was extremely cautious and double-checked every report before submission, which
+reduced errors but sometimes delayed urgent approvals. In contrast, Imran managed multiple
+responsibilities with speed and confidence, but his tendency to rush occasionally led to
+miscommunication with doctors.
+Farah was highly sociable, building rapport with patients and colleagues effortlessly, and
+often brought fresh suggestions for improving service quality. However, she found it difficult
+to remain focused on repetitive paperwork. On the other hand, Nikhil preferred routine and
+consistency, ensuring that schedules and procedures were followed without deviation, though
+he rarely contributed new ideas.
+Two members approached workplace challenges very differently. Meera maintained a calm
+and empathetic demeanor, supporting teammates during stressful situations and often
+volunteering to take on extra tasks. In contrast, Sameer questioned existing procedures,
+challenging others’ opinions in meetings, which sometimes created tension but also
+highlighted gaps in the system.
+As patient numbers increased, Shalini observed that the team’s diversity was both a strength
+and a challenge. She now had to decide how to assign responsibilities in a way that balanced
+accuracy, efficiency, creativity, discipline, and collaboration to ensure smooth hospital
+operations.
+1. Explain the Big Five Personality Model with reference to the six members in Shalini’s team
+(Deepa, Imran, Farah, Nikhil, Meera, and Sameer). Illustrate how each trait is reflected in
+their behavior. (10 Marks)
+2. Identify and explain personality traits that are most relevant for understanding employee
+behavior and team dynamics in organizations. (5 Marks)
+Page 2 of 2
+````
 
 ## 2025-26 · Final-Exam · Sem 8 · paper 40ff093ece9f
 
@@ -1386,6 +1457,94 @@ Q7   choices by explaining how each factor contributes to team
 [10]
 CO-1; BL-6   effectiveness. Additionally, propose a framework for continuously
 evaluating and optimizing team composition as the company grows.
+********** 2 **********
+````
+
+## 2024-25 · Re-Exam · Sem 8 · paper 6c11d24707ae
+
+- Departments: Computer Engineering
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTER ENGINEERING) - 7047
+- Source: `00_Original_Downloads/2024/67754__Semester VIII__context_fixed.zip :: Re-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTER ENGINEERING) - 7047/Organizational Behaviour/QP_Re-Exam_Organizational Behaviour(703TG0C005)_Semester VIII_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 04 Jul 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (DS)/MBA.
+Tech (EXTC)/MBA. Tech (IT)/MBA. Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2024-2025)
+Subject: Organizational Behaviour
+Date: 04 Jul 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No.1 is compulsory. Attempt Any 4 questions from the remaining questions
+5. In all 5 questions are to be attempted
+Q1
+Answer briefly:   [10]
+CO-1 ; BL-2   a.   Cognitive Dissonance   [2]
+CO- 1; BL-2   b.   Determinants of Personality   [2]
+CO- 1; BL-2   c.   Virtual Organizations   [3]
+CO- 1; BL-2   d.   Ideal Self Vs Real Self   [3]
+Q2   How can action research be used to foster a culture of continuous
+[10]
+CO-2; BL-5   improvement and innovation within an organization?
+Evaluate how selective perception and the halo effect impact
+Q3
+performance appraisals in fast-growing Indian startups like Boat and   [10]
+CO-2; BL-4
+Zomato
+ABC Tech is a rapidly growing software company that started as a
+small start-up but has now expanded to multiple regions. Initially,
+decision-making was centralized with the CEO, but as the company
+grew, this structure led to inefficiencies in responding to regional
+market demands.
+a.   Analyze which organizational structure would be most
+Q4   suitable for ABC Tech at its current stage and justify your
+[10]
+CO-2; BL-4   choice with two key advantages and one potential
+challenge. [5 Marks]
+b.   Evaluate the impact of transitioning from a tall hierarchical
+structure to a flat structure in terms of 1. Employee
+empowerment 2. Speed of decision-making and 3.
+Managerial control. [5 Marks]
+A project manager is leading a team tasked with launching a new
+Q5
+product. Some team members are highly experienced, while others are [10]
+CO-2; BL-5
+newer and require more guidance. The manager adapts their leadership
+********** 1 **********
+--- page 2 ---
+style to the situation: for the experienced members, the manager
+provides them with clear goals and lets them work independently,
+while for the less experienced members, the manager offers more
+direction and support. Additionally, the manager frequently checks in
+to ensure the team is motivated and removes obstacles that might
+hinder progress.
+Based on the scenario, identify the leadership theory being
+demonstrated. Evaluate the effectiveness of this approach in
+motivating and guiding the team to success. Do you think this approach
+is suitable in all situations, or are there specific contexts where it might
+not work as well?
+Two employees in the same organization show a decline in
+performance. One is offered performance-based incentives, while the
+Q6   other is given more autonomy and meaningful tasks. Evaluate the
+[10]
+CO-2; BL-5   effectiveness of these two motivational strategies. Which approach do
+you think is more sustainable in the long term, and why? Support your
+answer with relevant motivational theories.
+Design a high-performance team model that optimally integrates
+process factors such as efficacy, autonomy, purpose, goals, mental
+models, conflict management, and accountability. Explain how your
+design enhances team effectiveness and adaptability in a fast-paced,
+competitive industry. Provide a framework for measuring and
+Q7
+improving these process factors over time.   [10]
+CO-1; BL-6
 ********** 2 **********
 ````
 

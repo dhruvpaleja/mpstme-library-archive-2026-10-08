@@ -1,6 +1,6 @@
 # Contract, Competition and Consumer Laws: question papers in full
 
-39 unique papers · 2024-25 to 2025-26 · Data Science, Electronics and Telecommunication, Artificial Intelligence, Computer Engineering, Information Technology, Mechanical, Chemical, Common (all branches)
+43 unique papers · 2024-25 to 2025-26 · Artificial Intelligence, Computer Engineering, Data Science, Electronics and Telecommunication, Information Technology, Mechanical, Chemical, Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -2114,6 +2114,226 @@ does the Act regulate the abuse of dominant position by
 --- page 3 ---
 enterprises, and what are the consequences of such practices
 on market competition and consumer welfare?
+********** 3 **********
+````
+
+## 2024-25 · Re-Exam · Sem 8 · paper e69ab9e39191
+
+- Departments: Artificial Intelligence
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (ARTIFICIAL INTELLIGENCE) - 7051
+- Source: `00_Original_Downloads/2024/67754__Semester VIII__context_fixed.zip :: Re-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (ARTIFICIAL INTELLIGENCE) - 7051/Contract, Competition and Consumer Laws/QP_Re-Exam_Contract, Competition and Consumer Laws(703TG0C016)_Semester VIII_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 07 Jul 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (DS)/MBA.
+Tech (EXTC)/MBA. Tech (IT)/MBA. Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2024-2025)
+Subject: Contract, Competition and Consumer Laws
+Date: 07 Jul 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question 1 is compulsory.
+5. Attempt any 4 question from Q2 to Q7.
+1.   Answer all the following questions –
+CO – 1   a.   Discuss in brief the importance of law to a business [3]
+SO – 1   firm/enterprise.
+BL -1,2   b.   Comment of competency of parties under the Indian [3]
+Contract Act. Who are incompetent in entering into a
+valid contract?
+c.   Explain ‘unfair trade practice’ under Consumer Protection [2]
+Act, 2019.
+d.   Explain 2 main functions of the Competition Commission [2]
+of India.
+Answer any 4 of Q2 to Q7
+CO – 2   2.a   Law serves as the foundation for fair and ethical business [5]
+SO – 2   practices, ensuring that businesses operate within a
+BL -2,3   structured framework. Explain this statement with
+reference to legal aspects of business.
+b.   X hires Y’s car for personal use. Instead, X starts using [5]
+the car as a taxi. Can Y sue X under a contract of
+bailment? Give reasons for your answer. What are the
+duties of a bailee in such a scenario?
+CO – 1   3.a.   ‘An agreement enforceable by law is a contract.’ Explain. [5]
+SO – 1   Also mention the essentials of a valid contract.
+BL -2,3
+b.   Bring out the differences between offer, invitation to offer [3]
+and a counter offer
+********** 1 **********
+--- page 2 ---
+c.   What are ‘agreements expressly declared to be void’? [2]
+Explain with any 2 examples.
+CO – 2   4.a.   Mr. Rich aspired to get a self- portrait made by an artist. [5]
+SO – 2   He went to the workshop of Mr. Kalakar an artist and
+BL -3,4   asked whether he could sketch the former’s portrait on oil
+painting canvass. Mr. Kalakar agreed to the offer and
+asked for ₹ 50,000 as full advance payment for the above
+creative work. Mr. Kalakar clarified that the painting shall
+be completed in 10 sittings and-shall take 3 months. After
+the 5th sitting, Mr. Rich was informed that Mr. Kalakar
+has suffered paralysis and it would be impossible to paint
+for the near future. Mr. Kalakar had a son, Mr.Sonu, who
+was still pursuing his studies and had not taken up his
+father’s profession yet.
+Discuss in the light of Indian Contract Act, 1872, whether
+Mr. Rich can ask Mr.Sonu to complete the artistic work in
+place of his father? Could Mr. Rich ask Mr. Sonu for
+refund of money paid in advance to his father?
+b.   Under the Indian Contract Act, 1872, what constitutes a [5]
+breach of contract, and what are the legal remedies
+available to the aggrieved party in case of such a breach?
+Discuss with relevant examples.
+CO – 1,2 5.a.   What are the key advantages of Alternative Dispute [5]
+SO – 2   Resolution (ADR) over traditional court litigation? In
+BL -2,3   what types of disputes is ADR more beneficial, and why?
+Explain with relevant examples.
+b.   X and Y, co-founders of a startup, have a dispute over [5]
+profit distribution. X prefers to go for arbitration,
+believing that a neutral third party should make a binding
+decision. Y, on the other hand, wants to resolve the issue
+through mediation, hoping for a more flexible and
+collaborative approach.
+What are the different tools of Alternative Dispute
+Resolution (ADR) used to resolve disputes outside the
+courtroom? How does mediation differ from arbitration in
+terms of process, decision-making, and enforceability?
+CO – 1,2 6.a.   The basic objective of the Consumer Protection act, 2019 [5]
+SO – 2   is ‘to provide better protection to consumers, and to
+BL -2,3   establish suitable machinery specially consumer councils
+to settle disputes.’ Describe in detail what is the said
+machinery established to protect consumer rights in
+India?
+********** 2 **********
+--- page 3 ---
+b.   X purchased a mobile phone online. Within a week, he [5]
+noticed several issues like frequent hanging and battery
+drainage, which were not mentioned in the product
+description. When he contacted customer support, they
+refused to address his complaint or offer any remedy.
+Based on the Consumer Protection Act, 2019, identify
+whether X’s rights can be redressed even if it is an online
+sale? What are the guaranteed consumer rights under the
+Act?
+CO – 1   7.   What is the objective of the Competition Act, 2002? [10]
+SO – 1   Briefly explain the need, role, functions and composition
+BL -2   of the Competition Commission of India in regulating
+anti-competitive practices.
+********** 3 **********
+````
+
+## 2024-25 · Re-Exam · Sem 8 · paper 9364feaa7172
+
+- Departments: Computer Engineering
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTER ENGINEERING) - 7047
+- Source: `00_Original_Downloads/2024/67754__Semester VIII__context_fixed.zip :: Re-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTER ENGINEERING) - 7047/Contract, Competition and Consumer Laws/QP_Re-Exam_Contract, Competition and Consumer Laws(703TG0C016)_Semester VIII_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 07 Jul 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (DS)/MBA.
+Tech (EXTC)/MBA. Tech (IT)/MBA. Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2024-2025)
+Subject: Contract, Competition and Consumer Laws
+Date: 07 Jul 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question 1 is compulsory.
+5. Attempt any 4 question from Q2 to Q7.
+1.   Answer all the following questions –
+CO – 1   a.   Discuss in brief the importance of law to a business [3]
+SO – 1   firm/enterprise.
+BL -1,2   b.   Comment of competency of parties under the Indian [3]
+Contract Act. Who are incompetent in entering into a
+valid contract?
+c.   Explain ‘unfair trade practice’ under Consumer Protection [2]
+Act, 2019.
+d.   Explain 2 main functions of the Competition Commission [2]
+of India.
+Answer any 4 of Q2 to Q7
+CO – 2   2.a   Law serves as the foundation for fair and ethical business [5]
+SO – 2   practices, ensuring that businesses operate within a
+BL -2,3   structured framework. Explain this statement with
+reference to legal aspects of business.
+b.   X hires Y’s car for personal use. Instead, X starts using [5]
+the car as a taxi. Can Y sue X under a contract of
+bailment? Give reasons for your answer. What are the
+duties of a bailee in such a scenario?
+CO – 1   3.a.   ‘An agreement enforceable by law is a contract.’ Explain. [5]
+SO – 1   Also mention the essentials of a valid contract.
+BL -2,3
+b.   Bring out the differences between offer, invitation to offer [3]
+and a counter offer
+********** 1 **********
+--- page 2 ---
+c.   What are ‘agreements expressly declared to be void’? [2]
+Explain with any 2 examples.
+CO – 2   4.a.   Mr. Rich aspired to get a self- portrait made by an artist. [5]
+SO – 2   He went to the workshop of Mr. Kalakar an artist and
+BL -3,4   asked whether he could sketch the former’s portrait on oil
+painting canvass. Mr. Kalakar agreed to the offer and
+asked for ₹ 50,000 as full advance payment for the above
+creative work. Mr. Kalakar clarified that the painting shall
+be completed in 10 sittings and-shall take 3 months. After
+the 5th sitting, Mr. Rich was informed that Mr. Kalakar
+has suffered paralysis and it would be impossible to paint
+for the near future. Mr. Kalakar had a son, Mr.Sonu, who
+was still pursuing his studies and had not taken up his
+father’s profession yet.
+Discuss in the light of Indian Contract Act, 1872, whether
+Mr. Rich can ask Mr.Sonu to complete the artistic work in
+place of his father? Could Mr. Rich ask Mr. Sonu for
+refund of money paid in advance to his father?
+b.   Under the Indian Contract Act, 1872, what constitutes a [5]
+breach of contract, and what are the legal remedies
+available to the aggrieved party in case of such a breach?
+Discuss with relevant examples.
+CO – 1,2 5.a.   What are the key advantages of Alternative Dispute [5]
+SO – 2   Resolution (ADR) over traditional court litigation? In
+BL -2,3   what types of disputes is ADR more beneficial, and why?
+Explain with relevant examples.
+b.   X and Y, co-founders of a startup, have a dispute over [5]
+profit distribution. X prefers to go for arbitration,
+believing that a neutral third party should make a binding
+decision. Y, on the other hand, wants to resolve the issue
+through mediation, hoping for a more flexible and
+collaborative approach.
+What are the different tools of Alternative Dispute
+Resolution (ADR) used to resolve disputes outside the
+courtroom? How does mediation differ from arbitration in
+terms of process, decision-making, and enforceability?
+CO – 1,2 6.a.   The basic objective of the Consumer Protection act, 2019 [5]
+SO – 2   is ‘to provide better protection to consumers, and to
+BL -2,3   establish suitable machinery specially consumer councils
+to settle disputes.’ Describe in detail what is the said
+machinery established to protect consumer rights in
+India?
+********** 2 **********
+--- page 3 ---
+b.   X purchased a mobile phone online. Within a week, he [5]
+noticed several issues like frequent hanging and battery
+drainage, which were not mentioned in the product
+description. When he contacted customer support, they
+refused to address his complaint or offer any remedy.
+Based on the Consumer Protection Act, 2019, identify
+whether X’s rights can be redressed even if it is an online
+sale? What are the guaranteed consumer rights under the
+Act?
+CO – 1   7.   What is the objective of the Competition Act, 2002? [10]
+SO – 1   Briefly explain the need, role, functions and composition
+BL -2   of the Competition Commission of India in regulating
+anti-competitive practices.
 ********** 3 **********
 ````
 

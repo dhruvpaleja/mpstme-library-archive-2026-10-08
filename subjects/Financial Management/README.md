@@ -1,6 +1,6 @@
 # Financial Management
 
-**102** unique papers (125 copies across programmes) · 2008-09 to 2025-26 · 16 programmes · Sem 7, Sem 8, Trim 5, Trim 11, Trim 12
+**106** unique papers (129 copies across programmes) · 2008-09 to 2025-26 · 18 programmes · Sem 7, Sem 8, Trim 5, Trim 11, Trim 12
 
 Download only this subject, sorted by academic year:
 
@@ -57,6 +57,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 7 | B TECH / CSBS | Financial Management, Sem-VII, Batch 2024-25, Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 7 | B TECH / CSBS | Financial Management,Sem-VII, Batch 2024-25, Re Exam.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 8 | MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (ELECTRONICS & TELECOMMUNICATION ENGINEERING) - 7043 | QP_Re-Exam_Financial Management(703TF0C003)_Semester VIII_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBA TECH | Financial Management, Sem-VIII, Batch 2024-25, Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech (CHEMICAL ENGINEERING) - 7045 | QP_Financial Management(703TF0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Financial Management(703TF0C003)_2024-2025.pdf |
@@ -64,6 +65,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech Computer 7047 | QP_Financial Management(703TF0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech DS 7052 | QP_Financial Management(703TF0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech IT 7041 | QP_Financial Management(703TF0C003)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (ELECTRONICS & TELECOMMUNICATION ENGINEERING) - 7043 | ANS_Re-Exam_Financial Management(703TF0C003)_Semester VIII_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
@@ -72,9 +74,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Financial Management(703TF0C003)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B TECH / CSBS | Financial Management, Sem-VII, Final Exam, A Y 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 7 | B TECH / CSBS | Financial Management, Sem-VII, Year 2023-24, Re Exam.pdf |
+| 2023-24 | Re-Exam | Question paper | Sem 8 | MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047 | QP_Re-Exam_Financial Management(703TF0C003)_Semester VIII_2023-2024.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 8 | MBA TECH | Financial Management , Re-exam 2022-23,2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 8 | MBA TECH | Financial Management, Re-exam 2022-23,2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 8 | MBATech(MECHANICAL ENGINEERING) - 7046 | QP_Financial Management(703TF0C003)_2023-2024.pdf |
+| 2023-24 | Re-Exam | Answer key | Sem 8 | MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047 | ANS_Re-Exam_Financial Management(703TF0C003)_Semester VIII_2023-2024.pdf |
 | 2023-24 | Re-Exam | Answer key | Sem 8 | MBATech(MECHANICAL ENGINEERING) - 7046 | ANS_Financial Management(703TF0C003)_2023-2024.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 7 | B TECH / CSBS | Financial Management, 4th Year, Sem VII, Year 2022-23, Final Exam.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 7 | B TECH / CSBS | Financial Management, 4th Year, Sem-VII, Year 2022-23 Re Exam.pdf |

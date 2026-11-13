@@ -1,8 +1,142 @@
 # Advance Data Structure for Analytics: question papers in full
 
-20 unique papers · 2022-23 to 2025-26 · Data Science
+22 unique papers · 2022-23 to 2025-26 · Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 10 · paper 2dece921bbab
+
+- Departments: Data Science
+- Programmes: BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038
+- Source: `00_Original_Downloads/2025/76555__Semester X.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038/Advance Data Structure for Analytics/QP_Final-Exam_Advance Data Structure for Analytics(702DB0C026)_Semester X_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. TECH (CSE - DS)/B. Tech (DS)/B. Tech Intg. (DS)/MBA Tech (DS)
+Year: III / V/Semester VI/Semester X(Exam Year: 2025-2026)
+Subject: Advance Data Structure for Analytics
+Date: 04 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question No. 1 is compulsory
+3. Out of remaining questions, attempt any 4 questions
+4. In all 5 questions to be attempted
+5. All questions carry equal marks.
+6. Q1(a) and Q3(a) are lab based questions which are to be done on computer and write code in answer
+sheets.Implemention can be done in C++/Java/Python language
+7. Answer to each new question to be started on a fresh page.
+8. Figures in brackets on the right hand side indicate full marks.
+9. Assume Suitable data if necessary.
+Q1
+Answer briefly:
+Implement the stack using an array with the following functionalities:
+CO-1,2;
+SO- 1;   a.   i. Push and Pop   [5]
+BL- 3   ii. Display
+(Practical)
+CO-1,5;   Explain the concept of Interval Search Trees for detecting the overlapping
+SO- 1;   b.   [5]
+intervals. Also discuss the time complexity of the Interval Search Trees.
+BL-2
+Analyze the Master Theorem used for solving recurrence relations. State its
+CO-1;
+SO-1,2;   c.   three cases clearly and explain its purpose in algorithm analysis.   [5]
+BL-4
+CO-4;   Explain the concept of random shuffling in sorting algorithms. Analyze how
+SO-1;   d.   [5]
+it affects the performance of Quick Sort in worst-case scenarios.
+BL-2
+Q2 a   Discuss Kruskal’s Algorithm to construct a Minimum Spanning Tree.
+CO-1,5;   Describe how Union–Find is used to detect cycles. Also evaluate the time   [10]
+SO-1,2;
+complexity and the effect of Union by Rank and Path Compression.
+BL-2,4
+Q2 b
+CO-5;   Describe the structure and properties of a 2–3 tree. Construct a 2–3 tree by   [10]
+SO-1;
+inserting the keys 50, 60, 70, 40, 30, 20, 10, 80, 90, 100. Show all
+BL-6
+********** 1 **********
+--- page 2 ---
+intermediate steps and analyze how the tree maintains balance during
+insertion.
+Implement Heap Sort using a Binary Heap in Python. Your program should:
+• Build a binary heap from the given input array and display the heap
+after construction
+Q3 a
+• Perform heap sort by repeatedly swapping the root with the last
+CO-2,4;   [10]
+element and reducing heap size
+SO-1;
+BL-3   • Display the array after each swap and heapify operation during
+sorting
+(practical)
+Q3 b   Explain different types of tree traversals in binary search tree. Write
+CO-3;   algorithms for each traversal. Using a binary tree with 10 nodes and compare   [10]
+SO-1;
+the output of each traversal.
+BL-2
+Q4 a
+A hash table of size 10 uses linear probing for collision resolution. Given
+CO-5;   [10]
+SO-1;   the array [12, 44, 13, 88, 23, 94, 11, 39, 20] and the hash function h(x) = x
+BL-4   mod 10, insert the elements one by one and show the final hash table.
+In the context of database indexing and large-scale data systems,
+Q4 b   demonstrate how B-Trees improve data retrieval efficiency. Compare them
+[10]
+CO-5;   with Binary Search Trees and justify their suitability for handling large
+SO-1;
+BL-3   datasets.
+Consider a set of elements {0,1,2,3,4,5,6,7,8,9}, where initially each
+element is in its own set.
+Using the Quick-Union approach, perform the following operations:
+Q5 a
+Union(1,2), Union(2,3), Union(4,5), Union(6,7), Union(5,6), Union(3,7).
+CO-1,5;   [10]
+SO-1;   Show the tree structure after each union operation. Evaluate whether
+BL-5
+elements 1 and 7 are connected. Also explain how Path Compression would
+optimize the structure and analyze the time complexity before and after
+applying this optimization.
+Q5 b
+Explain the working principle of linear probing in open addressing. Analyze
+CO-5;   [10]
+SO-1;   how clustering affects performance and discuss methods to reduce
+BL-2   clustering.
+Q6 a
+Explain the order-of-growth classifications and their practical implications.
+CO-1;   [10]
+SO-1,2;
+********** 2 **********
+--- page 3 ---
+BL-2
+Given the recurrence T(n) = 3T(n/2) + O(n2),
+Solve it using the recurrence tree method. Clearly show the cost at each level
+and determine the overall time complexity.
+Q6 b   A priority queue is implemented using a binary heap. State the time
+CO-2;   complexity of insert and extractMin()/extractMax() operations, and explain   [10]
+SO-2;
+BL-3   how these operations are performed.
+Given the array:[45,23,89,12,67,34,90,11] and the gap sequence:{4,2,1}
+• Perform Shell Sort on the given array using the specified gap
+Q7 a   sequence. Show the array after each pass for every gap.
+CO-4;   • Analyse the time complexity of Shell Sort for the given gap   [10]
+SO-1;
+BL-2   sequence.
+• Explain why Shell Sort performs better than Insertion Sort for larger
+datasets.
+Q7 b
+(i) A BST contains the keys: 50, 30, 70, 20, 40, 60, 80 .which node(s)
+CO-2,3,5;   [5+5]
+SO-1;   can replace 50 after deletion? Briefly justify your answer.
+BL-3,2   (ii) Explain the role of a symbol table in dictionary and indexing clients.
+********** 3 **********
+````
 
 ## 2025-26 · Final-Exam · Sem 6 · paper 8050c9fee27e
 

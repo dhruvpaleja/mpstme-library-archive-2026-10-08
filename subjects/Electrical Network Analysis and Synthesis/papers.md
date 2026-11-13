@@ -1,8 +1,367 @@
 # Electrical Network Analysis and Synthesis: question papers in full
 
-38 unique papers · 2010-11 to 2018-19 · Electronics and Telecommunication
+43 unique papers · 2010-11 to 2019-20 · Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2019-20 · Re-Exam · Sem 5 · paper 213d904299e3
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: EXTC/SEMESTER V/ELECTRICAL NETWORK ANALYSIS AND SYNTHESIS/Electrical_Network_Analysis_and_Synthesis_Batch_2017-18_2018-19_Re_Exam_kFwscJ1I9N.pdf`
+- Printed on paper: exam date: 13 November 2019
+- Text: ocr (4 pages), mean OCR confidence 77.3
+
+````text
+/
+
+4 SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated (EXTC) — Year: III -— Semester: V ~
+
+Academic Year: 2019-20
+J Subject: Electrical Network Analysis and Synthesis
+
+-
+Date: 13 November 2019. e: 2160 pn $f%,00
+Ye tionSB32 (aes)
+NAF Pages: ,
+Re-Examination (2017-18/ 2018-39 My,
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Qi Attempt any FOUR questions (14]
+a State and explain Maximum Power Transfer theorem. Derive the condition for [3.5]
+maximum power transfer.
+b Test whether F(s) is a positive real function. [3.5]
+s+3
+F(s) = (s+3)
+(s +1)
+c Derive Z parameters in terms of h parameters. [3.5]
+d Explain the concept of poles and zeros and its importance in network analysis. [3.5]
+e Check if the given polynomial is Hurwitz [3.5]
+P(s) = s*+7s? + 6s? + 21s +8
+f Define duality. With an example, show how the dual of a network caf be [3.5]
+constructed.
+Q.2
+a Find the mesh currents. [07]
+LIx 4
+_ NA
+Sa, 2 an
+JL
+wy
+1x —=— lov
+
+Sv =
+
+Page 1 of 4
+--- page 2 ---
+b Find current |, using superposition theorem. [07]
+
+|
+
+Wr LN
+
+T lev o ba Soa
+
+Q.3
+a Find Norton’s equivalent circuit across A and B. [07]
+
+Bt, [ne
+aN AWN 2 A
+
+5V
+. OB
+b For the circuit shown, draw the oriented graph and write the incidence matrix, [07]
+tieset matrix and f-cutset matrix Q
+S
+Ro Ly Re, =
+«VW or W\—| |
+
+Rig ER.
+Tes 2 Rs
+OF
+
+Page 2 of 4
+--- page 3 ---
+Q.4
+
+We
+4V
+
+b
+
+Q5
+a.
+
+In the network shown the switch is open and steady state is attained. At t=O the
+switch is closed. Determine i(t) using classical method.
+
+Ve
+
+MIINA
+Ro =)
+
+!
+
+& : Ll =iH
+4 (+) g
+
+In the given circuit, the switch is closed for a long time. At t = 0, it is opened.
+Determine the current through the inductor for t > 0. Use Laplace transform.
+
+i DS
+eo A\/\\-
+
+7 SV 200 {| gost
+
+Find Z- parameters for the network shown below
+
+L, {AL {0 Jo
+
+Page 3 of 4
+
++0 VAVAV: NAVAN’ - o +
+
+V \H Woy
+
+[07]
+
+[07]
+
+[07]
+--- page 4 ---
+For a network shown in figure determine the transfer functions V3/I1, V2/V1 and
+
+Be
+4 Vo/la
+F -
++ OF | “OOD ¢ o +
+V 32" a
+| ; LF V5
+_— Oo o—
+Q.6.
+a. Realize the Foster-I, Foster-il forms of the given LC impedance function
+s?+1)(s? +3
+7) <2 ADE +9
+S(s? + 2)
+b. Realize the Cauer-l and Cauer-ll forms of the given RL impedance function
+2(s+1)(s +3
+1s) = 26 DE +
+(s + 2)(s + 6)
+Q7 Write short notes on any two of the following
+a THEVENIN'S theorem
+b ABCD parameters
+c Properties of Hurwitz polynomials
+
+Page 4 of 4
+
+[07]
+
+[07]
+
+[07]
+
+[14]
+````
+
+## 2018-19 · Final + Re-Exam · Sem 5 · paper a9f454568149
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: EXTC/SEMESTER V/ELECTRICAL NETWORK ANALYSIS AND SYNTHESIS/Electrical_Network_Analysis_and_Synthesis_2018-19_Final__Batch_2017-18_Re_Exam_kqlCwmUAcf.pdf`
+- Printed on paper: max marks: 70; exam date: 21. November 2018
+- Text: ocr (4 pages), mean OCR confidence 75.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENG
+
+Program B.Tech Integrated (EXTC) — Year: I
+Academic Year: 2018-2019
+
+Subject: Electrical Network Analysis and Synthesis _ Marks: 70 ,
+Date : 21. November 2018 _~ Time:2.00 pm to 5.00 pm —
+Duration: 3 (irs).
+No. of Pages:
+Final Examination (2018-19)/Re-examination (2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Ql
+A Find voltages Va, Vb and Ve using nodal analysis. 3.5M
+Va, Ve
+QV
+4A 210 on.
+B_ Find the voltage V1 using superposition theorem. 3.5M
+WV SAAN
+1 42 rr
+
+a OL a
+
+1/4
+--- page 2 ---
+C Determine Z(s) in the network shown. Find out poles and zeros of Z(s) and plot them on s-plane. 3.5M
+
+° TGST ;
+IH
+as
+TL AO
+tS) ake 36 F 4
+
+D State the properties of RC Function.
+
+Q.2. A Obtain the Thevenin equivalent network for the given network at terminals A and B.
+
+Va @ A
+
+4D. Zfx, Dox
+
+ay =
+. 2 B
+B Find the currents I and [2 using mesh analysis. ;
+WA
+ATA NA oe LT 3)! Joa
+j4N 420 <>
+a en + ov
+Nov = |
+IN. 3 V,
+Tt —_—
+z ane.
+Q.3. A What will be the value of Ri to get maximum power delivered to it? What is the value of this
+power?
+O° 5V
+
+<>
+
+34 (f) La 42 Ri
+
+3.5M
+
+8M
+
+6M
+
+62
+
+8M
+
+4)
+
+v
+
+Vv uy
+--- page 3 ---
+B Inthe network shown in fig the switch is closed. Assuming all initial conditions as zero , findi, 6M
+| 2s 2 ST
+di/dt and d°i/dt* at t=0 10-2 {4
+
+be. -
+2) & f
+
+yak
+
+rC+)
+
+Q.4 A For the laddernetwork of fig find the driving point impedance at the 1-1” terminal with 2-2’open. 6M
+
+Ty e=0
+' N AVA £0000) AN c UI AWS 8 2
++ 2 |H (2 }H J +
+L a =
+Vj IF IE SIF oy
+' ae
+B__ The reduced incidence matrix of an oriented graph is 8M
+
+0 -l 1 0 0
+A= 0 0-1 -l -l
+1 00 0 1
+
+i. Draw the graph ii. How many trees are possible for this graph iii. Write the cutest and
+tieset matrices.
+
+Q.5 A The switch in the network of fig is closed at t=0. Determine the voltage across the capacitor. ~ ™.
+e SAA
+10.2 t
+
+jon 2F = veCt)
+
+t
+
+B For the network shown in fig write down the tieset matrix and obtain the network equilibrium 7™
+equation in matrix form using KVL.
+
+i
+
+BH ae
+
+» \a=-f eo
+50245 V © 2 PO as 4 3/4
+
+ae
+--- page 4 ---
+Q.6 A Find the open circuit impedance parameters of the network shown.
+
+WAN
+40
+
++ @ AWA AW
+\2 32
+
+Vi 2.2
+
+— @
+
+B Prove that polynomial P(s) = 2s* + 583 + 6s” + 3s + 1 is Hurwitz.
+
+Q.7 A Find the equivalent []- network for the T network shown in fig.
+
++> ANNA AWN ae
+Tr, 22 205N Th
+
+Vy S 5
+
+B_ Test whether F(s) = s° + 6s? + 7s + 3 /s? + 2s + 1 is positive real function.
+
+™
+
+7™
+
+4M
+
+10M
+
+4/4
+````
 
 ## 2018-19 · Final + Re-Exam · Sem 3 · paper f10b0e319578
 
@@ -387,6 +746,188 @@ Zic(s) = As” + Ds" +9)
 s(s* +4)
 
 a
+````
+
+## 2018-19 · Re-Exam · Sem 5 · paper 86c734d78915
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: EXTC/SEMESTER V/ELECTRICAL NETWORK ANALYSIS AND SYNTHESIS/Electrical_Network_Analysis_and_Synthesis_Batch_2017-18_2018-19_Re_Exam_AMgxU295XX.tif`
+- Printed on paper: max marks: 70
+- Text: ocr (4 pages), mean OCR confidence 77.3
+
+````text
+a
+ZEEE ays
+Wa
+
+¢
+Le
+(3 | MPSTME~ ‘2.
+\ LIBRARY
+— — oy
+SVKM’S NMIMS Ms ne SA
+MUKESH PATEL-SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Program: B.Tech Integrated (EXTC) _— Year: Il Semester: V ~
+Academic Year: 2018-2019 5
+Asi ect: Electrical Network Analysis and Synthesis — ; Marks: 70 ¢ \
+
+Time: 2.00 pm to 5.00pm —
+
+_ Date: 18January 2019 _- Durations:3 (hts)
+
+No. of Pages: 4
+
+Re-examination (2017-18/ 2018-19) _
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to.each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume-Suitable data if necessary.
+
+Ql
+A Find the mesh currents in the network shown. On | 3.5M
+NAN
++ a
+Vo
+ia — 10v
+2Vi
+B__ Find the current Ix using superposition theorem. 3.5M
+Bn im
+
+AWA r— NV
+
+7
+20V 7 ZoA &» AWL5c
+
+afy
+--- page 2 ---
+C_ Find poles and zeros of the impedance of the following network and plot them on the s-plane.
+
+iF |
+zcsv-> 22-0 3 3"
+
+cc
+D__ State the properties of LC functions.
+
+Q.2 A _ Find the nodal voltages in the circuit.
+
+B_ Obtain the Thevenin equivalent network for the load Rx in the network.
+
+Vz ZY AWN
+NWA <>
+
+re [A
+2.0
+
+Toy aA | Zn
+
+Q.3 A Inthe network shown in fig at t= 0, the switch is opened. Calculate v, dv/dt and d’v/dt? at t=0*
+
+[ve
+HO) ‘i th Zu
+
+B_ What will be the value of RL to get maximum power delivered to it? What is the value of this
+
+power?
+0.5%
+
+<> 77
+L
+
+3A 3 40. 42S Ru
+
+|
+
+3.5M
+
+3.5M
+
+™.
+
+7™
+
+7™
+
+7™M
+
+aly
+--- page 3 ---
+Q.4 A For the network shown in fig write down the tieset matrix and obtain the network equilibrium
+
+equation in matrix form using KVL. 5 5 as J Se 66.2 § one ro
+°
+Bolo y . dD arn mS].
+[ite to
+
+B_ The network of fig was initially in the steady state with the _t in the position a. At t= 0, the
+switch goes from a to b. find an expression for voltage v (t) for t > 0.
+
+—» +
+
+ANN AVA s 8 eS
+on. om b
+
+av] on E 23 Ai vet)
+7
+
+Q.5 A For the graph shown write the incidence matrix, tieset matrix and f-cutset matrix.
+
+~o 7 = (5)
+
+B Determine the voltage transfer function V2/V1 for the network shown in fig.
+
+YT, j- Lo =0
+
+oO VOC 4 0
++ 2H +
+
+vj Ie Tsang 2 10 Yo
+a ©
+Q.6 A Test whether the polynomial s° + 3s° + 2s is Hurwitz.
+B_ Find Y-parameters of the network shown in fig.
+ti @ To
++ : WV << 0
+nee B32
+Yi 2S. Vo
+
+~ @ - ]
+
+8M
+
+6M
+
+8M
+
+6M
+--- page 4 ---
+Q.7 A Test whether F(s) = s(st+3) (s+5)/ (s+1) (s+4) is positive real function.
+
+B Admittance parameter of a pi network are Y11 =0.09 mho, Y12 = Y21 = -0.05 mho and Y22 =
+0.07 mho. Find:the values of Ra Rb and Re.
+
++o woe +
+vy 3 Ra Re Va
+a eo _
+
+8M
+
+6M
+
+4)y
+
+_—
 ````
 
 ## 2018-19 · Re-Exam · Sem 3 · paper d9d28f997652
@@ -1061,6 +1602,145 @@ lOLOcV   ~,-- __   T~J_·6_Q_7jHl
 4/4
 ````
 
+## 2017-18 · Final-Exam · Sem 5 · paper 3686fef43b39
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: EXTC/SEMESTER V/ELECTRICAL NETWORK ANALYSIS AND SYNTHESIS/Electrical_Network_Analysis_and_Synthesis_2017-18_Final_uuacZpah9L.pdf`
+- Text: ocr (4 pages), mean OCR confidence 73.9
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech Integrated (EXTC) Year: Il Semester: V
+Batch: 2017-18 . . ;
+/ Academic Year: 2017-2018
+Subject: Electrical Network Analysis and Synthesis >
+Date:. 31 May 2018. mag 10-00 tS
+
+Durations: 3 Thrsf }2%
+N \ dda he De a
+
+eg ~ -
+
+Re-Examination AS Vanes TOS ®
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Sujtable data if necessary.
+
+Q1. Attempt all Questions:
+
+1. Define Tree, Co-Tree, and rank of a graph. : — (GM)
+2. List and discuss the properties of Hurwitz Polynomials. (3M)
+3. Explain conditions of reciprocity and symmetry for ABCD parameters of a two port network. (3M)
+4. Find the current supplied by the battery. (3M)
+—A/AN-
+32 1Q
+
+22
+nD
+4v—8 AN
+
+> 2S
+
+6 Q
+
+5. State and explain Miller's Theorem (2M)
+
+Page 1 of 4
+--- page 2 ---
+Q2a. Find the branch currents of the given circuit. (7M)
+b) 0 102p 52
+WV >
+h |
+
+SV — f
+zi S aT a
+
+(7M)
+
+Q3.a. The network achieves a steady state with switch open. At t=0, the switch is closed. Determine
+
+V, and» at 0(+) and 0(-) condition's. (7™)
+10 Q
+WV -
+10 Q Vy. 2 Q My
+WW FAWN
+<
+awe 2H
+10Q
+
+Page 2 of 4
+--- page 3 ---
+b. Draw the dual of the network shown (7M)
+
+Q4.a. The switch is closed at t=0. Find the current i(t) for t>0. (7M)
+
+60 Q
+AWW
+254 (t) . S00 “ S20 4 0.3H
+
+i (t)
+
+Q4.b. Find Z- parameters for the network shown. (7M)
+4Q
+
+——AWWv-
+
+so AW AWW «0+
+
+-
+
+20 ;
+
+V, Vy
+
+-o 5 —O —
+
+Page 3 of 4
+--- page 4 ---
+QS. a. The switch in the circuit shown is moved from position | to 2 at time 't'=0. Find V(t) (7M)
+
+1 5KQ
+”
+100 V == 2 +
+7 Vo -——— 1 HF
+—=- 50V a
+b. Test whether F(s)= 5 P+IIS 44S iga positive real function or not. (7M)
+Q6.a. For the network shown, determine the transfer function V. /V, (7M)
+lh 1Q 12 10
++0 —>-—$_\W AV — <———0+
+vy, =
+, = iF == 1F V5
+-o
+O—
+b. Test for whether the polynomial is Hurwitz or not. (7M)
+P(s)= S474 6S°421S+8
+Q7. Realize the following RL impedance function using Foster-1, Cauer-1 forms. (14M)
+
+s(s+4 (s+ 8)
+
+20 F 646)
+
+Page 4 of 4
+
+on
+````
+
 ## 2017-18 · Final-Exam · Sem 3 · paper 2816ae30340b
 
 - Departments: Electronics and Telecommunication
@@ -1629,6 +2309,235 @@ S (St3)
 
 Realize the impedance function in the ladder form .Given z(-2) = 1.
 using CaveR-z and CAvEeR-if forms
+````
+
+## 2016-17 · Final-Exam · Sem 5 · paper f63f5d31b426
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: EXTC/SEMESTER V/ELECTRICAL NETWORK ANALYSIS AND SYNTHESIS/Electrical_Network_Analysis_and_Synthesis_2016-17_Final_YqTkn2IkjZ.pdf`
+- Printed on paper: exam date: 25 November 2016
+- Text: ocr (5 pages), mean OCR confidence 79.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+/ Academic Year: 2016-2017
+Subject : Electrical Network Analysis & Synthesis
+
+Date : 25 November 2016 “1
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1. a Explain hybrid parameters in terms of z-parameters 3
+b Explain the following terms 3
+(i) Graph of a network
+(ii) tree of a graph.
+
+c Define duality. Obtain dual of network shown in Fig.1. Write integro- differential 3
+equation for both.
+
+4
+
+L
+
+AA FO).
+OD | ic To
+
+= Vo
+
+gs Fig. 1
+
+Page 1 of 5
+--- page 2 ---
+Q.2
+
+d
+
+Using source transformation technique find the current ix flowing in the circuit as
+
+shown in Fig.2
+
+100
+ANG
+i. 152 a
+
+x
+a | >
+
+60V i 502 ; 402
+Fig. 2
+
+a Calculate Voltage across terminals AB shown in figure 3.
+
+60 12V
+
+eo
+“ft
+iY
+
+6v = 40 = *) zs 4Q, = 100
+
+Fig. 3
+b Find vo using mesh analysis shown in fig 4.
+r1=1000Q , r2=5000, r3=500, r4=50, a=0.5, G=2, Vs=10v
+
+fe}
+T i
+
+$3 ANS :
+- |
+
+t, T%
+
+| yo ;
+
+°
+
+Fig. 4.
+
+Page 2 of 5
+--- page 3 ---
+Q.3 a. Use the Thevenin equivalent of the network shown in Fig.5. to find the value of R
+which will receive maximum power. Find also this power.
+
+A
+ran .
+5.20. “Jy 7-10
+x yy
+ys LA
+A \ = *
+n> Aa a i
+Lf r
+10.90 de 19.62
+NZ .
+B
+
+Fig. 5
+b. For the network shown in figure 6. write the incidence matrix, tie-set matrix and
+cutest matrix
+
+Q.4. a — Switch K in the circuit shown in Fig.7 is opened at t = 0 * Draw the Laplace
+transformed network for t > 0° and find the voltages Vv, (t) and V, (t), t> 0”.
+
+hy
+
+Ho Pe Vilt) pce, bites
+| i iy 10 -}
+
+fe
+
+pel C.
+
+Wee Veo =e R=10
+
+| VeQ3=1V
+| in(0-) =14
+
+Page 3 of 5
+
+6
+
+6
+--- page 4 ---
+b Determine the equivalent Norton network at the terminals a and b of the circuit 6
+
+shown in fig 8.
++V¥_-
+| | °
++ A a
+>
+Mi
+= |
+
+b
+
+Fig. 8
+Q.5. a AD.C voltage of 100V is applied in the circuit as shown in Fig.9 with the switch Kas 6 ®
+open. Find the complete expression for the current i(t) after the switch k is closed at
+
+t=0.
+200 100
+AN al [
+_|+ TF © 01H
+_ i) ) Koos
+< f
+Fig. 9.
+
+b In anetwork shown in Fig.10, V;(t)=et for t>=0 and is zero for all t<O. If the capacitor 6
+is initially uncharged, determine the value Find the i, di/dt , and d?V,/dt? at t=0+
+102
+
+ted
+
+Ni +
+: t ®
++) __ .
+4) “Bee | 1/20 F vat)
+Fig. 10.
+
+Page 4of 5
+--- page 5 ---
+Q6.
+
+Q:7.
+
+a
+
+a
+
+b
+
+For the network shown in Fig.11, find the transmission parameters.
+1 2Q
+
+Soe 2.
+|
+
+Explain the voltage and admittance transfer functions for a two port network.
+Determine the voltage transfer function and driving point impedance of the network
+shown in Fig.12
+
+c
+° | | so)
+| |
+4 V2
+| R
+° °
+Fig. 12.
+
+s3 +5s* +9s+3
+
+_———_ is Positive real function
+53 +552 +7s+9
+
+Determine if the function F(s) =
+
+Consider the system given by system function
+
+10(s? +4)(s? +16)
+s(s? +9)
+
+Obtain Foster form of the Network.
+
+Z(s)=
+
+Page 5 o0f5
+
+6
 ````
 
 ## 2016-17 · Final-Exam · Sem 3 · paper a5e691a8e895

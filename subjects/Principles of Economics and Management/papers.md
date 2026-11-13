@@ -1,8 +1,112 @@
 # Principles of Economics and Management: question papers in full
 
-127 unique papers · 2013-14 to 2025-26 · Information Technology, Data Science, Computer Engineering, Mechanical, Civil, Artificial Intelligence, Common (all branches), Cyber Security, Electronics and Telecommunication, AI and Machine Learning, Mechatronics, AI and Data Science, Computer Science, Chemical
+135 unique papers · 2013-14 to 2025-26 · Information Technology, Data Science, Computer Engineering, Mechanical, Civil, Artificial Intelligence, Common (all branches), Electronics and Telecommunication, Cyber Security, Mechatronics, AI and Data Science, AI and Machine Learning, Computer Science, Chemical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 2 · paper 0c7d1b9360ee
+
+- Departments: Information Technology
+- Programmes: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY) - 7001
+- Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY) - 7001/Principles of Economics and Management/QP_Final-Exam_Principles of Economics and Management(702TG0C015)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 06 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CSE - CS)/B. Tech
+(DS)/B. Tech (EXTC)/B. Tech Intg. (IT)/B. Tech (IT)/B. Tech (MXTC)
+Year: I / II / III/Semester II/Semester IV/Semester VI(Exam Year: 2025-2026)
+Subject: Principles of Economics and Management
+Date: 06 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question No. 1 is compulsory.
+3. Out of the remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume suitable data if necessary.
+Q   Course   Marks
+Learning
+Outcome
+1   Write brief notes on:   [20]
+a CO 2, BL - PPC   5
+Understand
+b CO 2, BL - Average and Marginal Cost   5
+Understand
+&
+Remember
+c CO 3, BL - LPG   5
+Remember
+d CO 4, BL - Levels of Management   5
+Analyse
+Q2   [20]
+2a CO 2, BL - Discuss the concept of isoquant and explain how a producer achieves equilibrium 10
+Understand using the least-cost combination of inputs with the help of diagram.
+& Analyse
+2b CO 2, BL - Examine the different types of costs and analyze the relationship between   10
+Apply &   marginal cost and average cost curves with the help of diagram.
+Analyse
+Q3   [20]
+3a CO 3, BL - Distinction between perfect and imperfect markets and examine all different   10
+Understand types of imperfect market structures.
+& Apply
+********** 1 **********
+--- page 2 ---
+3b CO 3, BL - Assess the need for Liberalization, Privatization, and Globalization (LPG)   10
+Evaluate   reforms in India and analyze the economic conditions that led to their
+introduction.
+Q4   [20]
+4a CO 4, BL - Planning is considered an essential managerial function, yet many organisational   10
+Understand plans fail in practice. Explain the major five reasons for the failure of planning
+& Analyse   and illustrate your answer with suitable examples.
+b CO 4, BL - Distinguish between all 3 managerial thoughts of F.W. Taylor, Henri Fayol, and   10
+Understand Elton Mayo.
+& Evaluate
+Q5   [20]
+5a CO-4; BL- A manufacturing company has a production department headed by line managers   10
+Understand and a separate HR and quality department staffed by specialists. Recently,
+& Apply   conflicts have increased. The quality manager keeps advising the production team
+to stop machines for inspection, while the production supervisor says the staff
+department only gives instructions and does not understand production pressure.
+Explain the difference between line and staff relationships. How can the company
+reduce conflict and improve coordination between the two?
+b   CO-4; BL- A project team in an automobile company has engineers from the design,   10
+Understand production, quality, and procurement departments. The team has technically
+& Apply   capable members, but deadlines are slipping because each department blames the
+other. Team meetings are irregular, communication is weak, and members work
+more for their own department than for the project. As a manager, how will you
+improve team management and make the project team effective?
+Q6   [20]
+6a CO 1, BL - Analyze how consumer equilibrium is affected by changes in price,   10
+Remember   distinguishing between movement along the demand curve and shifts in the
+& Evaluate demand curve with suitable examples.
+6b CO 1, BL - Explain the types of elasticity of demand through mathematical and graphical   10
+Understand representation.
+& Analyse
+Q7   [20]
+7a   CO-4,5,   A software support company notices that employees are not highly committed,   10
+BL-   even though salaries are competitive and offices are air-conditioned. Exit
+Understand interviews show that people feel their work is monotonous, they receive little
+& Apply   recognition, and they do not see growth opportunities. Explain this situation with
+the help of Herzberg’s Two-Factor Theory. What practical steps should
+management take?
+********** 2 **********
+--- page 3 ---
+7b CO-4, 5,   A growing food processing company is facing two problems. First, it is   10
+BL-   overstocking packaging materials and ingredients, which blocks funds and
+Understand increases storage costs. Second, the marketing team launches promotions without
+& Apply   informing production and finance, causing shortages and emergency purchases at
+high cost. Discuss how inventory control and proper coordination among finance,
+marketing, and human resources/operations orientation can improve the
+company’s performance.
+********** 3 **********
+````
 
 ## 2025-26 · Final-Exam · Sem 2 · paper 1fff4d7d27bd
 
@@ -1991,6 +2095,100 @@ any 5 points) can help IndiGo improve efficiency and maintain its
 market leadership in the aviation sector.
 
 FIR DO RK
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper 98a22c176054
+
+- Departments: Mechatronics
+- Programmes: BACHELOR OF TECHNOLOGY (MECHATRONICS ENGINEERING) - 7004
+- Source: `00_Original_Downloads/2025/Semester II/75268__Re-Exam.zip :: BACHELOR OF TECHNOLOGY (MECHATRONICS ENGINEERING) - 7004/Principles of Economics and Management/QP_Re-Exam_Principles of Economics and Management(702TG0C015)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Jul 2026
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CSE - CS)/B. Tech
+(DS)/B. Tech (EXTC)/B. Tech Intg. (IT)/B. Tech (IT)/B. Tech (MXTC)
+Year: I / II / III/Sem 2 Re-exam/Sem 4 Re-exam/Sem 6 Re-exam(Exam Year: 2025-2026)
+Subject: Principles of Economics and Management
+Date: 02 Jul 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 2 pages.
+2. Question No. 1 is compulsory.
+3. Out of the remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume suitable data if necessary.
+Q   Course   Marks
+Learning
+Outcome
+1   Write brief notes on:   [20]
+a CO 2, BL - Types of Elasticity of demand   5
+Understand
+b CO 2, BL - Least Cost Combination   5
+Understand
+&
+Remember
+c CO 3,BL -   Oligopoly   5
+Remember
+d CO 4, BL - Importance of Management   5
+Analyse
+Q2   [20]
+2a CO 2, BL - A firm increases one variable input while keeping other inputs constant, analyze 10
+Understand how output changes across different stages of production and illustrate the
+& Analyse   pattern with a suitable graph.
+2b CO 2, BL - Define Production Function, also analyze how returns to scale influence the   10
+Apply &   behavior of cost curves in the long run.
+Analyse
+Q3   [20]
+3a CO 3, BL - In a local market, a large number of wheat farmers sell identical produce, with   10
+Understand each farmer contributing only a small share of total output and selling at the
+& Apply   prevailing market price. Suppose one farmer decides to charge a slightly higher
+price for the same wheat. Explain what will happen to this farmer’s sales and
+justify your answer based on buyer behaviour in such a market
+********** 1 **********
+--- page 2 ---
+3b CO 3, BL -   Identify and explain the key features of the Part (a) questions market structure   10
+Evaluate   reflected in the situation, and describe the nature of demand faced by an
+individual farmer with the help of a diagram.
+Q4   [20]
+4a CO 4, BL - Evaluate the relevance of any five principles of management proposed by Henri 10
+Understand Fayol in the context of modern organisations.
+& Analyse
+b CO 4, BL - Discus Strategic Management with the help of SWOT Analysis tool through a   10
+Understand case study of a startup or any established company.
+& Evaluate
+Q5   [20]
+5a CO-4; BL-   Explain the concept of line and staff relationships in an organization.   10
+Understand Distinguish between centralization and decentralization, and discuss how
+& Apply   delegation helps in improving managerial efficiency
+b   CO-4; BL-   Discuss the role of managing human resources and managing teams in   10
+Understand organizational success. Explain with a suitable workplace example.
+& Apply
+Q6   [20]
+6a CO 1, BL - Distinguish between Price Consumption Curve and Income Consumption Curve 10
+Remember   with the help of diagram
+& Evaluate
+6b CO 1, BL - Explain the concept of price elasticity of demand by examining its different   10
+Understand types with mathematical and graphical representation.
+& Analyse
+Q7   [20]
+7a   CO-4,5,   Explain Maslow’s Need Hierarchy Theory, Herzberg’s Two-Factor Theory, and 10
+BL-   McClelland’s Theory of Achievement. How do these theories help managers
+Understand motivate employees?
+& Apply
+7b CO-4, 5,   A consumer appliance company is receiving repeated customer complaints   10
+BL-   about defects in mixer grinders. The production manager says output targets are
+Understand being achieved, but the number of returns and repairs has increased. The
+& Apply   company has no regular inspection checkpoints and takes action only after
+complaints arrive from the market. Explain how controlling and quality control
+can help the company. Suggest a suitable control process for this case.
+********** 2 **********
 ````
 
 ## 2025-26 · Re-Exam · Sem 2 · paper c2c5465c9d73
@@ -4143,6 +4341,220 @@ BL- Remember
 THE END
 
 Page 4 of 4
+````
+
+## 2024-25 · Final-Exam · Sem 2 · paper 544b755dd452
+
+- Departments: AI and Data Science
+- Programmes: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE) - 7056
+- Source: `00_Original_Downloads/2024/Semester II/67783__Final-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE) - 7056/Principles of Economics and Management/QP_Final-Exam_Principles of Economics and Management(702TG0C015)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CSE - CS)/B. Tech -
+(CSEDS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech (IT)/B. Tech (MXTC)/MBA. Tech (AI)/MBA.
+Tech (DS)/MBA. Tech (IT)
+Year: I/Semester II(Exam Year: 2024-2025)
+Subject: Principles of Economics and Management
+Date: 13 May 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume suitable data if necessary.
+Q1
+Write a Short Note on:   [20]
+CO- 1; BL-   a.
+Free Market Economy   [5]
+Understand
+CO-1; BL-   b.
+Monopolistic Competition   [5]
+Remember
+CO-3; BL-   c.
+Delegation of Authority   [5]
+Understand
+d.
+CO- 3; BL- Analyze   Orientation of an Organization toward Finance and Marketing   [5]
+Q2   [20]
+CO-1   a.   Elaborate on the Production Possibility Curve and its role in
+BL- Understand and   determining the economic growth of a nation.   [10]
+Apply
+CO- 1; BL-   b.
+Understand and   Elucidate the uses of Elasticity of Demand with suitable examples.   [10]
+Evaluate
+Q3
+[20]
+a.   Enumerate the main characteristics of the Indifference Curve.
+CO-1&2; BL-
+Analyze the process through which a consumer attains optimal
+Understand &   [10]
+Analyze   satisfaction using the Indifference Curve and Budget Line approach.
+CO-1&2;   b.   "The interaction between Total Utility (TU) and Marginal Utility
+BL- Apply   (MU) is very significant in decision-making on the part of consumers.
+[10]
+Classical economists employed Cardinal Utility Analysis to measure
+satisfaction in terms of absolute numbers, whereas contemporary
+********** 1 **********
+--- page 2 ---
+economists opt for the Ordinal Utility method, ranking preferences”
+In line with this viewpoint perform a comparative study of Cardinal
+and Ordinal Utility theories, assessing their assumptions. Also,
+Illustrate the relationship between TU and MU using an appropriate
+diagram.
+Q4   [20]
+CO- 1; BL-   a.   What is an isocost line and an isoquant? How do they help a
+[10]
+Understand & Apply   producer in determining a least-cost output
+CO-1; BL-   b.
+Explain different types of costs in detail. List all the segregations’ of
+Understand &   [10]
+cost and explain them in detail
+Analyze
+Q5
+[20]
+a.   Explain the super-normal profit and loss-making situations of a firm
+CO- 1; BL- Analyze   in a perfectly competitive market with a suitable diagram and [10]
+example.
+CO-3;   b.
+How Maslow’s theory of Motivation is different from McClelland’s
+BL- Remember &   [10]
+theory of Achievement? Explain with a suitable example.
+Apply
+Q6
+[20]
+CO-3;   a.
+How do you support the view that Management must be defined in
+BL- Apply &   [10]
+terms of effectiveness, coordination of resources, and objectives?
+Analyze
+CO-2&3; BL-   b.   Define Planning. What are the essentials of effective planning and
+[10]
+Remember and Apply   highlight the key factors leading to failure of the Plan.
+Q7
+[20]
+CO-3; BL-   a.   Briefly explain the contributions of F W Taylor and Elton Mayo in
+Understand and   the discipline of Management.   [10]
+Apply
+CO- 3; BL-   b.   Explain the concept of "Inventory Control" and discuss its importance
+Understand and   in the context of modern business operations. Also, highlight any one [10]
+Apply   technique used for effective inventory control.
+********** 2 **********
+````
+
+## 2024-25 · Final-Exam · Sem 2 · paper 19222b821d74
+
+- Departments: Electronics and Telecommunication
+- Programmes: BACHELOR OF TECHNOLOGY (ELECTRONICS & TELECOMMUNICATION ENGINEERING) - 7006
+- Source: `00_Original_Downloads/2024/Semester II/67783__Final-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY (ELECTRONICS & TELECOMMUNICATION ENGINEERING) - 7006/Principles of Economics and Management/QP_Final-Exam_Principles of Economics and Management(702TG0C015)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CSE - CS)/B. Tech -
+(CSEDS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech (IT)/B. Tech (MXTC)/MBA. Tech (AI)/MBA.
+Tech (DS)/MBA. Tech (IT)
+Year: I/Semester II(Exam Year: 2024-2025)
+Subject: Principles of Economics and Management
+Date: 13 May 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume suitable data if necessary.
+Q1
+Write a Short Note on:   [20]
+CO- 1; BL-   a.
+Free Market Economy   [5]
+Understand
+CO-1; BL-   b.
+Monopolistic Competition   [5]
+Remember
+CO-3; BL-   c.
+Delegation of Authority   [5]
+Understand
+d.
+CO- 3; BL- Analyze   Orientation of an Organization toward Finance and Marketing   [5]
+Q2   [20]
+CO-1   a.   Elaborate on the Production Possibility Curve and its role in
+BL- Understand and   determining the economic growth of a nation.   [10]
+Apply
+CO- 1; BL-   b.
+Understand and   Elucidate the uses of Elasticity of Demand with suitable examples.   [10]
+Evaluate
+Q3
+[20]
+a.   Enumerate the main characteristics of the Indifference Curve.
+CO-1&2; BL-
+Analyze the process through which a consumer attains optimal
+Understand &   [10]
+Analyze   satisfaction using the Indifference Curve and Budget Line approach.
+CO-1&2;   b.   "The interaction between Total Utility (TU) and Marginal Utility
+BL- Apply   (MU) is very significant in decision-making on the part of consumers.
+[10]
+Classical economists employed Cardinal Utility Analysis to measure
+satisfaction in terms of absolute numbers, whereas contemporary
+********** 1 **********
+--- page 2 ---
+economists opt for the Ordinal Utility method, ranking preferences”
+In line with this viewpoint perform a comparative study of Cardinal
+and Ordinal Utility theories, assessing their assumptions. Also,
+Illustrate the relationship between TU and MU using an appropriate
+diagram.
+Q4   [20]
+CO- 1; BL-   a.   What is an isocost line and an isoquant? How do they help a
+[10]
+Understand & Apply   producer in determining a least-cost output
+CO-1; BL-   b.
+Explain different types of costs in detail. List all the segregations’ of
+Understand &   [10]
+cost and explain them in detail
+Analyze
+Q5
+[20]
+a.   Explain the super-normal profit and loss-making situations of a firm
+CO- 1; BL- Analyze   in a perfectly competitive market with a suitable diagram and [10]
+example.
+CO-3;   b.
+How Maslow’s theory of Motivation is different from McClelland’s
+BL- Remember &   [10]
+theory of Achievement? Explain with a suitable example.
+Apply
+Q6
+[20]
+CO-3;   a.
+How do you support the view that Management must be defined in
+BL- Apply &   [10]
+terms of effectiveness, coordination of resources, and objectives?
+Analyze
+CO-2&3; BL-   b.   Define Planning. What are the essentials of effective planning and
+[10]
+Remember and Apply   highlight the key factors leading to failure of the Plan.
+Q7
+[20]
+CO-3; BL-   a.   Briefly explain the contributions of F W Taylor and Elton Mayo in
+Understand and   the discipline of Management.   [10]
+Apply
+CO- 3; BL-   b.   Explain the concept of "Inventory Control" and discuss its importance
+Understand and   in the context of modern business operations. Also, highlight any one [10]
+Apply   technique used for effective inventory control.
+********** 2 **********
 ````
 
 ## 2024-25 · Final-Exam · Sem 2 · paper 1f7e11330f62

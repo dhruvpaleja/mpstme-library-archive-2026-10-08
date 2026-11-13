@@ -1,6 +1,6 @@
 # People Analytics
 
-**8** unique papers (8 copies across programmes) · 2018-19 to 2025-26 · 4 programmes · Sem 10
+**10** unique papers (10 copies across programmes) · 2018-19 to 2025-26 · 5 programmes · Sem 10
 
 Download only this subject, sorted by academic year:
 
@@ -14,9 +14,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Question paper | Sem 10 | MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047 | QP_Final-Exam_People Analytics(703TM0E023)_Semester X_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech AI 7051 | QP_People Analytics(703TM0E023)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech DS 7052 | QP_People Analytics(703TM0E023)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech IT 7041 | QP_People Analytics(703TM0E023)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047 | ANS_Final-Exam_People Analytics(703TM0E023)_Semester X_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech AI 7051 | ANS_People Analytics(703TM0E023)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech DS 7052 | ANS_People Analytics(703TM0E023)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_People Analytics(703TM0E023)_2025-2026.pdf |

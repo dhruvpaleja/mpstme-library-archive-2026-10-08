@@ -1,6 +1,6 @@
 # Computer Graphics: question papers in full
 
-38 unique papers · 2013-14 to 2025-26 · Computer Engineering, Data Science, Information Technology
+40 unique papers · 2013-14 to 2025-26 · Computer Engineering, Data Science, Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1935,6 +1935,107 @@ transformation matrix for Translation, Scaling and Rotation.
 Page 2 of 2
 ````
 
+## 2018-19 · Final-Exam · Sem 8 · paper c0de6aff6f07
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: COMPUTER/SEMESTER VIII/COMPUTER GRAPHICS/Computer_Graphics_2018-19_Final_ODl4Taj6Wq.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 20 April 2019
+- Text: ocr (2 pages), mean OCR confidence 92.3
+
+````text
+a wee
+MS UNIVE
+SVKM’S NMIMS Ls WWE
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program :B.Tech Integrated (COMPUTER) '
+
+Year: IV Semester: VIII
+Academic Year: 2018-2019 ,
+
+Subject: Computer Graphics Marks: 70 |
+Date : 20 April 2019 7 Time: 10.00 am to 01.00 pm
+. Duration: 3 (hrs)
+No. of Pages: Rv
+Final Examination (2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql. Answer the following (any four) 14M
+a) Explain the working of Dot Matrix Printer.
+b) What are the disadvantage of DDA Algorithm?
+
+c) Explain Physical Device Coordinate System and Normalized Device Coordinate
+System .
+
+d) Give Homogeneous Transformation Matrix for Rotation and Scaling
+e) Explain the concept of View Confusion.
+f) | Write a boundary fill procedure to fill 4 connected region.
+g) What is Quadratic Bezier Curve and Cubic Bezier Curve
+Q2 a) Explain Midpoint circle drawing algorithm in detail. 7M
+
+b) Derive the transformation matrix to magnify the triangle with vertices A(0,0), 7M
+B(1,2), C(3,2) to twice its size so that the point C(3,2) remain fixed.
+
+(jo
+--- page 2 ---
+Q3
+
+Q4
+
+Qs
+
+Q6
+
+Q7
+
+b)
+
+Explain Cohen-Sutherland line clipping algorithm for line with suitable example. 7M
+
+Explain Sutherland Hodgman Polygon clipping algorithm. How can we clip 7M
+cancave polygon using Sutherland Hodgman Polygon clipping algorithm.
+
+i
+Define Window, viewport and derive window to viewport transformation. 7M
+
+Explain parallel and perspective projection and derive the matrix for perspective 7M
+projection.
+
+Discuss Halftoning and Dithering techniques 7M
+
+Explain Bezier curve and also specify the property of Bezier curve. 7M
+
+Derive the 3-D transformation matrix for rotating an object aligned to an 7M
+arbitrary axis
+
+Explain Z Buffer algorithm for hidden surface removal. 7M
+
+Write short notes on (any 2) : 14M
+Gouraud and Phong Shading
+Raster and Random Scan
+
+B-Spline curves.
+
+2)2-
+````
+
 ## 2018-19 · Re-Exam · Sem 5 · paper 20e8f63d9ba2
 
 - Departments: Computer Engineering
@@ -2022,6 +2123,73 @@ d) Ray Tracing
 
 e) Show that composition of two rotations is additive by concatenating
 matrix
+````
+
+## 2017-18 · Final-Exam · Sem 8 · paper 34e6948b46b8
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: COMPUTER/SEMESTER VIII/COMPUTER GRAPHICS/Computer_Graphics_2017-18_Final_fKv8fw186V.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 14 May 2018
+- Text: ocr (2 pages), mean OCR confidence 92.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B.Tech Integrated (COMPUTER) Year: IV « Semester: VIII
+Academic Year: 2017-2018 ¢
+
+Subject:Computer Graphics “
+
+Marks:60 <« |. ( ui
+Date:14 May 2018 « Time: 2.00 pm t5eG:00
+Durations: 3 (hrs) >
+
+No. of Pages : Zz
+Final Examination (2017-18) :
+
+= Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+1) Question No. lis compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new quéstion to be started ona fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+1a) | Define the term Object Space method and Image space methods. (3)
+b)_| Derive the matrix.to perform 2D rotation about the origin. (3)
+c) | Explain Ray tracing. (3)
+d) | What is meant by Anti-aliasing? List the various methods of (3)
+Anti-aliasing.
+Oo 2a) | Explain Sutherland Hodgeman polygon clipping algorithm. (8)
+b) | Differentiate between Raster scan display and Radom scan. (4)
+3.a) | Develop the Mid-point Ellipse generation algorithm. (8)
+b) | The reflection along the line y=x is equivalent to the reflection along x-axis followed by (4)
+counter clockwise rotation by theta degrees. Find the value of theta.
+4a) | Explain the line clipping algorithm using parametric equation. Apply the algorithm to (8)
+
+clip the line segment A(190,140) and B(260,230) against the window Co-ordinate
+Xwmin = 100 , Xwmax = 220, Ywmin = 120 and Ywmax= 240.
+
+b) | Explain the term window and a viewport. What happens if we change a window and a (4)
+viewport?
+
+5a) | Derive the 3-D transformation for the rotation about an arbitrary axis. (8)
+
+b) | State the properties of the Bezier curve. (4)
+
+1/2
+--- page 2 ---
+(8)
+
+6a) | Explain the Area sub-division method algorithm in detail.
+b)_ | Magnify the polygon with the vertices A(20,20) ,B(20,60) C(40,60) and D(40,20) to (4)
+thrice its size while keeping A(20,20) fixed.
+7a) | Using the origin as a centre of projection, derive the perspective transformation onto the (6)
+plane passing the point Ro(Xo,Yo,Zo) and having the normal vector N = ai + bj + ck.
+b) | Explain the Phong shading algorithm. (6)
 ````
 
 ## 2017-18 · Final-Exam · Sem 5 · paper 3cd9ceba52d8

@@ -1,8 +1,93 @@
 # Discrete Mathematics: question papers in full
 
-135 unique papers · 2007-08 to 2025-26 · Computer Engineering, Information Technology, Computer Applications (MCA), Artificial Intelligence, Electronics and Telecommunication, AI and Machine Learning, Computer Science and Business Systems, Cyber Security, Data Science, AI and Data Science, Computer Science, Common (all branches)
+145 unique papers · 2007-08 to 2025-26 · Computer Engineering, Information Technology, Computer Applications (MCA), Artificial Intelligence, Electronics and Telecommunication, AI and Machine Learning, Cyber Security, Computer Science and Business Systems, Data Science, AI and Data Science, Computer Science, B.Sc Information Technology, Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 1 · paper 77077c868714
+
+- Departments: B.Sc Information Technology
+- Programmes: Bachelor of Science (Information Technology) - 45618
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Science (Information Technology) - 45618/Discrete Mathematics/QP_Final-Exam_Discrete Mathematics(NHDSM109)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 07 Oct 2025
+- Text: mixed (3 pages), mean OCR confidence 91.1
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Science (Information Technology)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Discrete Mathematics
+Date: 07 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks.
+4. Scientific calculator is allowed .
+1.   Solve the following:(Attempt Any 2 Questions)   10
+5
+A.
+5
+B.
+C.   5
+2.   Solve the following:(Attempt Any 2 Questions)   10
+5
+A.
+5
+Page 1 of 3
+--- page 2 ---
+3.
+
+B.
+
+Solve the recurrence relation:
+
+by = —4b,_1 — 4d,-9, bg = 0, by = —1
+
+Let f : Z— Z be defined by
+f(z) =2r+3
+
+Determine whether f is one-one and onto. If the inverse exists, find f—!(x).
+
+Solve the following:(Attempt Any 2 Questions)
+
+Use Prim’s algorithm find the minimum spanning tree of following weighted
+graph. Hence calculate total weight
+
+60
+
+Find minimum distance and shortest path between two vertices A and D of graph
+using Dijkstra’s algorithm.
+
+A 22 F
+23
+
+24 21
+20
+
+B E
+19
+
+18 13
+14
+
+ll
+c D
+
+Page 2 of 3
+
+10
+--- page 3 ---
+State the Handshaking theorem, and verify it for the following graph
+
+a b
+
+e d
+
+Page 3 of 3
+````
 
 ## 2025-26 · Final-Exam · Sem 3 · paper 600d0bb39cbd
 
@@ -1270,6 +1355,75 @@ BL-5
 \
 
 t .
+````
+
+## 2025-26 · Re-Exam · Sem 1 · paper 98ed83dd03e2
+
+- Departments: B.Sc Information Technology
+- Programmes: Bachelor of Science (Information Technology) - 45618
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Science (Information Technology) - 45618/Discrete Mathematics/QP_Re-Exam_Discrete Mathematics(NHDSM109)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 23 Jan 2026
+- Text: mixed (3 pages), mean OCR confidence 89.5
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Science (Information Technology)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Discrete Mathematics
+Date: 23 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks.
+4. Scientific calculator is allowed .
+1.   Solve the following:(Attempt Any 2 Questions)   10
+A.   5
+5
+B.
+5
+C.
+2.   Solve the following:(Attempt Any 2 Questions)   10
+5
+Page 1 of 3
+--- page 2 ---
+3.
+
+Use mathematical induction to prove that for all integers n > 1,
+
+5” — | is divisible by 4.
+
+Solve the recurrence relation:
+
+Ce = —Gep_1 — 9-2,   =1, a =—-3
+
+Determine whether the function f : R - ER defined by
+f(z) =32+2
+
+is one-one and onto. If the inverse exists, find f—' (2).
+
+Solve the following:(Attempt Any 2 Questions)
+
+Show that the relation
+R= {(a,b) € Zx Z: a—b is divisible by 4}
+is an equivalence relation on Z.
+
+Find minimum distance and shortest path between two vertices a and g of graph
+using Dijkstra’s algorithm.
+
+Page 2 of 3
+
+10
+--- page 3 ---
+State the Handshaking theorem, and verify it for the following graph
+
+a b
+
+€ d
+
+Page 3 of 3
 ````
 
 ## 2025-26 · Re-Exam · Sem 4 · paper a508d6c8b0a3
@@ -3486,6 +3640,102 @@ FRE Ee
 =
 ````
 
+## 2024-25 · Final-Exam · Sem 3 · paper 1cee2b9a1989
+
+- Departments: AI and Data Science
+- Programmes: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE) - 7056
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE) - 7056/Discrete Mathematics/QP_Final-Exam_Discrete Mathematics(702BS0C047)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 25 Nov 2024
+- Text: text (5 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CE)/B. Tech (CSBS)/B. Tech (CSE -
+CS)/B. Tech - (CSEDS)/B. Tech (EXTC)/B. Tech (IT)/MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech
+(EXTC)/MBA. Tech (IT)
+Year: II/Semester III/Semester V (Exam Year: 2024-2025)
+Subject: Discrete Mathematics
+Date: 25 Nov 2024   Time: 10:00 am - 01:00 pm (03:00 Hrs.)
+Max Marks: 100
+FINAL EXAMINATION(2024-2025)
+Instructions:
+1. This question paper contains 5 pages
+2. Part A is compulsory.
+3. Attempt any 4 questions from part B
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figure in right hand side indicates full marks.
+8. Assume Suitable data if necessary.
+.   Part A (Compulsory)   20
+i. If A = { x ϵ ℕ ; x ≤10} and we define a relation R on A by R = { (x,y) : x + y ≤ 5}. Discuss   4
+reflexivity, irreflexivity, symmetry and transitivity of the relation R.
+ii. Construct the truth table and identify whether statement ( q ∧ p ) ∨ ( q ∧ ∼p ) is tautology or   4
+contingency
+iii.   4
+iv. a) Draw a graph of   4
+b) Draw the graph for the following adjacency matrix A.
+v.   4
+Page 1 of 5
+--- page 2 ---
+.   Part B(Attempt Any 4 Questions)   80
+1.   20
+i. Find the general solution of the homogeneous recurrence relation: a n = 5a n-1 - 6a n-2   6
+with the initial conditions a 0 = 2 and a 1 = 5
+ii. Determine whether the following graphs are isomorphic or not. Give reasons.   6
+iii. Let R be a relation defined on the set Ƶ of integers given by R = {(a,b) : a+b is an even   8
+integer}. Then show that R is an equivalence relation and also give the set of all integers
+which are related with 3 under the relation R.
+2.   20
+n
+i. Prove that 7 - 1 is a multiple of 6, using mathematical induction for all positive   6
+integers.
+ii. Suggest a coloring scheme for the given graph using welsh-powell algorithm. Find the   6
+chromatic number for the graph. Justify each step.
+Page 2 of 5
+--- page 3 ---
+iii. In a survey of 260 college students, the data were obtained 64 had taken a mathematics   8
+course 94 had taken a computer science course 58 had taken a business course 28 had
+taken both a mathematics and business course 26 had taken both a mathematics and
+computer science course 22 had taken both a computer science and business course 14
+had taken all three types of courses.
+(a) How many students were surveyed who had taken none of three types of courses ?
+(b) Of the students surveyed, how many had taken only a computer science course?
+3.   20
+6
+i. Show that for a real number   , the set of matrices
+forms an abelian group under usual matrix multiplication.
+ii. If you have to access the network, then you can change your grade. You have to access   6
+the network. Therefore you can change your grade.
+iii.   8
+4.   20
+−1
+i. Let (G, ∗) be a group and f : G → G defined as f(x) = a∗ x∗ a   , x ∈ G. for fixed a∈ G.   6
+Then show that f is an isomorphism.
+ii.   6
+Page 3 of 5
+--- page 4 ---
+8
+iii. Construct a minimum spanning tree for the following graph using Kruskal’s
+Algorithm, and hence find the minimum total weight of the resulting spanning tree.
+5.   20
+i.
+6
+6
+ii.
+iii. Show that   is a ring under the usual   8
+operations of addition and multiplication .
+6.   20
+1. Obtain disjunctive normal form of:   6
+2.   6
+Page 4 of 5
+--- page 5 ---
+3. Determine if the given graph has a) A Eulerian path b) A Eulerian cycle c) A Hamilton   8
+Path d) A Hamilton cycle
+Page 5 of 5
+````
+
 ## 2024-25 · Final-Exam · Sem 3 · paper 4a5e3355bf2e
 
 - Departments: AI and Machine Learning
@@ -4652,6 +4902,220 @@ O CD CF
 G F o
 
 FISK 7) GIGI I IK
+````
+
+## 2024-25 · Re-Exam · Sem 3 · paper 00b927d748a7
+
+- Departments: Cyber Security
+- Programmes: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY) - 7010
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Re-Exam/BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY) - 7010/Discrete Mathematics/QP_Re-Exam_Discrete Mathematics(702BS0C047)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
+- Text: text (5 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CE)/B. Tech (CSBS)/B. Tech (CSE -
+CS)/B. Tech - (CSEDS)/B. Tech (EXTC)/B. Tech (IT)/MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech
+(EXTC)/MBA. Tech (IT)
+Year: II/Semester III/Semester V (Exam Year: 2024-2025)
+Subject: Discrete Mathematics
+Date: 13 Feb 2025   Time: 10:00 am - 01:00 pm (03:00 Hrs.)
+Max Marks: 100
+RE EXAMINATION(2024-2025)
+Instructions:
+1. This question paper contains 5 pages
+2. Part A is compulsory.
+3. Attempt any 4 questions from part B
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figure in right hand side indicates full marks.
+8. Assume Suitable data if necessary.
+.   Part A (Compulsory)   20
+i. For A = { x ϵ ℕ : x < 7}, we define a relation R on A given by R = { (a,b) : b is multiple of a}.   4
+Discuss reflexivity, symmetry, asymmetry and anti-symmetry of R.
+ii. Explain using a truth table whether statements (∼p ∧ q ) and ( p∨q )∧∼p are logically   4
+equivalent.
+iii.   4
+iv. Check whether the following graph exists. Justify your answer.   4
+a) A graph with degree sequence 4, 4, 4, 3, 3.
+b) A tree with 7 vertices and 7 edges.
+4
+v.
+Page 1 of 5
+--- page 2 ---
+.   Part B(Attempt Any 4 Questions)   80
+1.   20
+i. Find the general solution of the homogeneous recurrence relation   6
+with the initial conditions   and   .
+ii. Determine whether the following graphs are isomorphic or not. Give reasons.   6
+T
+iii. Define a relation R on the set S of symmetric matrices given by R = { (A,B) : A = B },   8
+T
+where B represents the transpose of matrix B. Then show that R is an equivalence
+relation.
+2.   20
+3
+i. Prove that n + 2n is divisible by 3, using mathematical induction for all positive   6
+integers.
+6
+Page 2 of 5
+--- page 3 ---
+ii. Suggest a coloring scheme for the given graph using welsh-powell algorithm. Find the
+chromatic number for the graph. Justify each step.
+iii. In a survey of 60 people, it was found that 25 read Newsweek magazine 26 read Time 26   8
+read Fortune 9 read both Newsweek and Fortune 11 read both Newsweek and Time 8
+read both Time and Fortune 3 read all three magazines
+(a) Find the number of people who read at least one of three magazine.
+(b) Fill in the correct number of people in each of the eight region of the Venn diagram
+in figure. Let N, T and F be the sets of people who read Newsweek, Time and Fortune
+respectively.
+(c) Find the number of people who read exactly one magazine.
+3.   20
+i. Let G={0, 1, 2, 3, 4, 5} set of congruence classes under addition modulo 6. Prove that G   6
+is an abelian group with respect to ‘+ 6 ’. Is it cyclic ?
+ii. Test the validity of the following argument: If I study, then I will not fail mathematics. If   6
+I do not play basketball, then I will study. But I failed mathematics. Therefore, I must
+have played basketball.
+8
+iii.
+4.   20
+i. Let G 1 and G 2 be two groups, Check that the function f : G 1 × G 2 → G 1 defined by f(a,   6
+b) = a, for a ∈ G 1 and b ∈ G 2 is an isomorphism.
+ii.   6
+iii. Construct a minimum spanning tree for the following graph using Prims   8
+Algorithm, and hence find the minimum total weight of the resulting spanning tree.
+Page 3 of 5
+--- page 4 ---
+5.   20
+i.
+6
+6
+ii.
+8
+iii. 1. Show that   is a ring under the operations of addition and
+multiplication modulo 15 where
+2. Check whether   is a ring with unity.
+3. Check whether   is a field?
+6.   20
+1. Obtain conjunctive normal form of:   6
+Page 4 of 5
+--- page 5 ---
+2.   6
+3. Determine if the given graph has   8
+1. A Eulerian path
+2. A Eulerian cycle
+3. A Hamilton Path
+4. A Hamilton cycle
+Page 5 of 5
+````
+
+## 2024-25 · Re-Exam · Sem 3 · paper 7404f965df5d
+
+- Departments: Computer Engineering
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Re-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047/Discrete Mathematics/QP_Re-Exam_Discrete Mathematics(702BS0C047)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
+- Text: text (5 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CE)/B. Tech (CSBS)/B. Tech (CSE -
+CS)/B. Tech - (CSEDS)/B. Tech (EXTC)/B. Tech (IT)/MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech
+(EXTC)/MBA. Tech (IT)
+Year: II/Semester III/Semester V (Exam Year: 2024-2025)
+Subject: Discrete Mathematics
+Date: 13 Feb 2025   Time: 10:00 am - 01:00 pm (03:00 Hrs.)
+Max Marks: 100
+RE EXAMINATION(2024-2025)
+Instructions:
+1. This question paper contains 5 pages
+2. Part A is compulsory.
+3. Attempt any 4 questions from part B
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figure in right hand side indicates full marks.
+8. Assume Suitable data if necessary.
+.   Part A (Compulsory)   20
+i. For A = { x ϵ ℕ : x < 7}, we define a relation R on A given by R = { (a,b) : b is multiple of a}.   4
+Discuss reflexivity, symmetry, asymmetry and anti-symmetry of R.
+ii. Explain using a truth table whether statements (∼p ∧ q ) and ( p∨q )∧∼p are logically   4
+equivalent.
+iii.   4
+iv. Check whether the following graph exists. Justify your answer.   4
+a) A graph with degree sequence 4, 4, 4, 3, 3.
+b) A tree with 7 vertices and 7 edges.
+4
+v.
+Page 1 of 5
+--- page 2 ---
+.   Part B(Attempt Any 4 Questions)   80
+1.   20
+i. Find the general solution of the homogeneous recurrence relation   6
+with the initial conditions   and   .
+ii. Determine whether the following graphs are isomorphic or not. Give reasons.   6
+T
+iii. Define a relation R on the set S of symmetric matrices given by R = { (A,B) : A = B },   8
+T
+where B represents the transpose of matrix B. Then show that R is an equivalence
+relation.
+2.   20
+3
+i. Prove that n + 2n is divisible by 3, using mathematical induction for all positive   6
+integers.
+6
+Page 2 of 5
+--- page 3 ---
+ii. Suggest a coloring scheme for the given graph using welsh-powell algorithm. Find the
+chromatic number for the graph. Justify each step.
+iii. In a survey of 60 people, it was found that 25 read Newsweek magazine 26 read Time 26   8
+read Fortune 9 read both Newsweek and Fortune 11 read both Newsweek and Time 8
+read both Time and Fortune 3 read all three magazines
+(a) Find the number of people who read at least one of three magazine.
+(b) Fill in the correct number of people in each of the eight region of the Venn diagram
+in figure. Let N, T and F be the sets of people who read Newsweek, Time and Fortune
+respectively.
+(c) Find the number of people who read exactly one magazine.
+3.   20
+i. Let G={0, 1, 2, 3, 4, 5} set of congruence classes under addition modulo 6. Prove that G   6
+is an abelian group with respect to ‘+ 6 ’. Is it cyclic ?
+ii. Test the validity of the following argument: If I study, then I will not fail mathematics. If   6
+I do not play basketball, then I will study. But I failed mathematics. Therefore, I must
+have played basketball.
+8
+iii.
+4.   20
+i. Let G 1 and G 2 be two groups, Check that the function f : G 1 × G 2 → G 1 defined by f(a,   6
+b) = a, for a ∈ G 1 and b ∈ G 2 is an isomorphism.
+ii.   6
+iii. Construct a minimum spanning tree for the following graph using Prims   8
+Algorithm, and hence find the minimum total weight of the resulting spanning tree.
+Page 3 of 5
+--- page 4 ---
+5.   20
+i.
+6
+6
+ii.
+8
+iii. 1. Show that   is a ring under the operations of addition and
+multiplication modulo 15 where
+2. Check whether   is a ring with unity.
+3. Check whether   is a field?
+6.   20
+1. Obtain conjunctive normal form of:   6
+Page 4 of 5
+--- page 5 ---
+2.   6
+3. Determine if the given graph has   8
+1. A Eulerian path
+2. A Eulerian cycle
+3. A Hamilton Path
+4. A Hamilton cycle
+Page 5 of 5
 ````
 
 ## 2024-25 · Re-Exam · Sem 3 · paper 4c19c191889c

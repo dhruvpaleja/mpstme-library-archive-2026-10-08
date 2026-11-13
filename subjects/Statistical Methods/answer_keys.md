@@ -2,6 +2,54 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 19d167670b0d
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Management and Finance) - 45615
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce (Management and Finance) - 45615/Business Laws/Statistical Methods/ANS_Final-Exam_Statistical Methods(UISME159)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 13 Mar 2026
+- Text: text (2 pages)
+
+````text
+Synoptic
+SVKM
+SVKM's UPG College of Arts, Sci. & Com.
+Programme: Bachelor of Science (Information Technology)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Statistical Methods
+Date: 13 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Simple Calculator is allowed
+5. Assume suitable data wherever required
+Q1. (Attempt Any 2 Questions)   10
+a. Merits: Includes all observations, Unique   5
+Demerits: Difficult to calculate, difficult to understand
+b. Median Score = 12   5
+c.   5
+Q2. (Attempt Any 2 Questions)   10
+a. V = 1.69   5
+Page 1 of 2
+--- page 2 ---
+b. 4.5   5
+c. Skewness refers to lack of symmetry of a normal distribution curve.   5
+Marks of students in a class may be spread around some central value (Mesokurtic), highly
+concentrated around some value (Laptokurtic) or well distributed across entire range
+(Platykurtic).
+Q3. (Attempt Any 2 Questions)   10
+a. Correlation represents association between two parameters. It can be positive, negative or no   5
+correlation. Measure of correlation is Karl Pearson’s coefficient of correlation ranging between
+-1 to +1.
+Correlation between height and weight of students can be represented using r.
+b.   5
+c. r = -0.826   5
+Page 2 of 2
+````
+
 ## 2025-26 · Final-Exam · Sem 3 · Answer key · paper 11fc702f2014
 
 - Departments: AI and Data Science

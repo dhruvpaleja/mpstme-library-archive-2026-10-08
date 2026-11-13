@@ -1,8 +1,104 @@
 # Smart Cities: question papers in full
 
-57 unique papers · 2023-24 to 2025-26 · Computer Engineering, Information Technology, Common (all branches), Mechanical, Data Science, Civil, Cyber Security, Artificial Intelligence, Electronics and Telecommunication, Mechatronics
+59 unique papers · 2023-24 to 2025-26 · Computer Engineering, Information Technology, Common (all branches), Data Science, Mechanical, Civil, Cyber Security, Artificial Intelligence, Electronics and Telecommunication, Mechatronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 10 · paper 2ff801a25ddb
+
+- Departments: Data Science
+- Programmes: BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038
+- Source: `00_Original_Downloads/2025/76555__Semester X.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038/Smart Cities/QP_Final-Exam_Smart Cities(702CI0I008)_Semester X_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (CIVIL)/B. Tech (COMP)/B. Tech (CSE - CS)/B. Tech (EXTC)/B. Tech
+Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)/B. Tech (IT)/B. Tech
+(MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech
+(IT)
+Year: III / V/Semester VI/Semester X(Exam Year: 2025-2026)
+Subject: Smart Cities
+Date: 15 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 2 pages.
+2. Question No. 1 is compulsory
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q-1   Answer briefly:   [20]
+CO1   a   [05]
+Discuss various strategies for smart city development as per Smart Cities Mission
+L-2
+CO-2   b   Discuss your ideas for modernization of an existing water supply network in a city
+[05]
+L-2   as part of Smart city initiative.
+CO-3   c   Explain how smart analytics can help in saving life of a patient being carried in a
+L-3   ambulance on a busy road   [05]
+CO-1   d   [05]
+Explain ‘Public Private Partnership’ model of Smart cities financing strategies
+L-2
+Q-2
+a   Explain the need for developing smart cities in India.
+CO-1   [10]
+L-2   What are the objectives of smart cities mission?
+CO-1   b   Elaborate on challenges posed by city government in implementing Smart city
+L-2   [10]
+initiative program.
+Q-3
+CO-1   a   State the features of Smart Cities and explain the role of ‘Special Purpose Vehicle’
+L-2   in Smart City development program.   [10]
+CO-2   b   State and explain the application of ICT in various components of electricity
+L-2   [10]
+ecosystem.
+Q-4
+a   Discuss various sensing technologies for ‘Intelligent Transportation Services’,
+CO-3   ‘Energy System’, Water supply system’, Solid Waste Management System’.   [10]
+L-3
+********** 1 **********
+--- page 2 ---
+CO-2   b   Discuss the role of ‘Big Data’ frameworks in urban transportation and crime   [10]
+L-2
+prevention.
+Q-5
+CO-3   a   [10]
+Explain ‘Collecting, Communicating and Crunching Data’ function of Information
+L-3
+and Telecommunication Technology on a real time basis in context to Smart city.
+CO-2   b   [10]
+Explain the significance of Geospatial Technology and Information &
+L-2
+Communication Technology in Smart City infrastructure development projects.
+Q-6
+CO-1   a   [10]
+L-2   You are planning to upgrade the city's transportation system by introducing an
+advanced metro rail system. How would you fund this project and why?
+i) Public funds
+ii) Adopt a PPP structure
+iii) Give it to the private sector
+CO-2   b   Write short notes on:
+[10]
+L-2   i)   ‘Smart healthcare’
+ii)   Significance of GIS in Smart city
+Q-7
+CO-2   a   Explain the impact of public transportation facility on ‘Livability’ and ‘Workability [10]
+L-2   in a Smart City.
+CO-1   b   [10]
+L-1   You are in charge of a Smart City planning, development and
+implementation project. In this regard -
+i)   Explain at least two basic principles that you consider in its
+planning and development.
+ii)   Explain the Information and Communication Technology
+components necessarily required to be provided in this project.
+********** 2 **********
+````
 
 ## 2025-26 · Final-Exam · Sem 5 · paper eb3e1aef9f72
 

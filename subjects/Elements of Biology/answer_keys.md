@@ -2,6 +2,332 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 7bf8cf6cdbd0
+
+- Departments: Artificial Intelligence
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (ARTIFICIALINTELLIGENCE) - 7051
+- Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (ARTIFICIALINTELLIGENCE) - 7051/ELEMENTS OF BIOLOGY/ANS_Final-Exam_ELEMENTS OF BIOLOGY(702BS0C084)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
+- Text: text (4 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CS)/B. Tech
+(CSBS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech
+(IT)/MBA Tech (AI)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: ELEMENTS OF BIOLOGY
+Date: 04 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page
+3. Figure in right hand side indicates full marks
+4. Question No.1 is compulsory. Out of remaining questions, attempt any 4 questions
+5. In all, 5 questions to be attempted
+6. All questions carry equal marks
+7. Assume suitable data if necessary
+Q1   SYNOPTIC ANSWERS   [20]
+a. Recall the discovery of Brownian motion and state its significance in providing
+evidence for the atomic theory.   04
+-   Brownian motion explanation (2.5M)
+-   Significance (1.5M)
+b. Draw the building block of proteins and illustrate the secondary and tertiary
+stages of protein folding.
+1.   Labeled diagram of amino acid (1M)   04
+2.   Explain protein folding (1M)
+3. Arrangement explanation and diagram (1M+1M)
+c. Distinguish between incomplete dominance and codominance? Give an
+example of each.   04
+-   Distinguishing between both types (codominance vs incomplete) (1M+1M)
+-   Examples with a brief discussion (1M+1M)
+d. What are lipids and what are their main types? Show the importance of lipids
+in various day-to-day cellular processes in plants and animals.   04
+4.   Definition | all four types (0.5M+0.5M+0.5M+0.5M)
+5.   At least two functions in plants and/or animals (1M+1M)
+e. Summarize the various categories of metabolic waste produced by organisms
+and provide one example for each category.   04
+6.   Ammoniotelic | Ureotelic | Uricotelic (1M+1M+1M)
+7.   At least one example of each (1M)
+Q2   a. Define proteins and describe their two main types, providing one example of
+each. Also, list any two functions of proteins.   [05]
+-   Definition and two types (Fibrous and Globular) (1M+2M)
+-   At least one example of each (0.5M+0.5M)
+-   Two functions (0.5M+0.5M)
+Q2   b. Discuss how process-biomimicry operates, supporting your answer with an
+appropriate example that highlights the biological phenomenon, its   [10]
+engineering application, and associated advantages and disadvantages.
+-   Definition of biomimicry and its types(1M+1M)
+A specific example of “PROCESS” biomimicry
+********** 1 **********
+--- page 2 ---
+-   Biological Phenomenon (3M)
+-   Engineering application (3M)
+-   Advantages and disadvantages (1M+1M)
+Q2   c. Demonstrate the concept of a monohybrid cross of a plant with yellow seed
+color (YY), with one having green seed color (yy). Using Punnett square,
+show the genotypic and phenotypic traits, focusing on the F1 and F2
+generations.   [05]
+8.   Definition of mono-hybrid cross (1M)
+9.   Punnett square of F1 and F2 generation – 2x2 square (1M+1M)
+10. Genotypic and phenotypic ratio (1M+1M)
+Q3   a. Discuss carbohydrates and their significance in biological systems. Classify
+carbohydrates into their major types and subtypes, providing one example for
+each, and illustrate polysaccharides.
+•   Definition (1M)   [10]
+•   Significance (1.5M)
+•   Two Classes: Simple and complex (1.5M+1.5M) | subclasses of complex (based on
+Composition and Functions) (1.5M+1.5M)
+•   Note on polysaccharide (1.5M)
+Q3   b. Explain the semi-conservative process by which DNA molecules are
+replicated, illustrating the steps involved and citing the key enzymes.
+-   Definition of semi-conservative process (1M)
+-   Leading strand explanation with Helicase, Primase, and DNA Pol III | diagram   [10]
+(3M+1.5M)
+-   Lagging strand explanation of Okazaki fragments along with Exonuclease, Primase,
+DNA Pol II and/or I, and Ligase | diagram (3M+1.5M)
+Q4   a.   Briefly discuss each of the following, providing one example for each:
+1. Archaea
+2. Yeast   [10]
+3. Bacteria
+4. Algae
+5. Virus
+-   Any two characteristics, explanation, and at least one example (1M+0.5M+0.5M) *5
+Q4   b. Explain what metabolism is and describe its two principal categories, giving
+one example of each. Additionally, use a labeled diagram or flowchart to
+illustrate the main products and byproducts formed during anaerobic
+respiration.   [10]
+•   Definition of metabolism (1M)
+•   Catabolism and anabolism (1M+1M)
+•   Examples (0.5M+0.5M)
+•   Location of Glycolysis-cytoplasm (0.5M)
+•   Explanation with a flow chart of Glycolysis (3M+2M)
+•   Calculation of products (ATP) and co- or by-products (NADH, FADH2, CO2, H2O,
+etc.) (0.5M)
+Q5   a. Write a short note on three laws of genetics. Also, use the Punnett square to
+solve the following cross: In rabbits, black fur color is determined by a   [10]
+dominant allele (B), while white fur color is determined by a recessive allele
+(b). If one parent has the genotype BB and the other has the genotype bb,
+determine the genotypic and phenotypic characteristics and their ratios among
+the offspring in the F₁ and F₂ generations.
+********** 2 **********
+--- page 3 ---
+Any three laws of genetics (1M+1M+1M)
+•   F1 (3.5M)
+•   F2 (3.5M)
+Q5   b. Explain each of the following using an illustration and examples where
+applicable.
+1. Uncompetitive inhibition   [10]
+2. Lock and key model
+3. Non-competitive inhibition
+4. Relationship between KM and Vmax
+•   Explanation, Illustration (diagram/plot), and example (1M+1M+0.5M) *4
+Q6   a. Explain the concept of biotechnology and examine how it has been applied in
+the development of Bt Cotton. Identify the source organism of the inserted
+genes and critically analyze the social, economic, and environmental impacts.
+[10]
+•   Define biotechnology (1M)
+•   Different types – Whole organism, Part of organism, and Process (1.5M)
+•   Bt cotton explanation along with origin – Bacillus thuringiensis (4M+1M)
+•   Societal Impact (2.5M)
+Q6   b. Briefly explain each of the following model organisms and their contribution
+to medical science.
+1. Arabidopsis thaliana   [10]
+2. Escherichia coli
+3. Drosophila melanogaster
+4. Mus musculus
+Explanation of specific organism while mentioning the field/diseases they are studied in for
+finding treatments/enhancing understanding (1.5M+1M) *4
+Q7   a. What are the core concepts of bioinformatics, and how can its computational
+approaches be applied to address biological or environmental challenges?   [05]
+-   Definition and concept (0.5M+0.5M)
+-   Explanation of any two real-life applications of Bioinformatics (2M+2M)
+Q7   b. Recall any four industrial applications of enzymes and provide one example   [05]
+for each application area.
+•   Need for enzymes at industrial scale (1M)
+********** 3 **********
+--- page 4 ---
+•   Any four applications with at least one example of an enzyme mentioned for each
+(1M+1M+1M+1M)
+Q7   c. Analyze the interdependence between photosynthesis and cellular respiration,
+explaining how their complementary processes preserve energy flow and   [05]
+ecosystem stability.
+•   Reaction balance between cellular respiration and photosynthesis (2M)
+•   Mechanisms and factors contributing to equilibrium (3M)
+Q7   d. Explain the exponential, stationary, and death phases of microbial growth
+kinetics and illustrate your answer with a labeled growth curve.   [05]
+•   Significance of studying the growth curve (0.5M)
+•   Explanation of Exponential, Stationary, and Death Phase (1M+1M+1M)
+•   Plot (1.5M)
+********** 4 **********
+````
+
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper ac4843f814f0
+
+- Departments: Information Technology
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (INFORMATION TECHNOLOGY) - 7041
+- Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (INFORMATION TECHNOLOGY) - 7041/ELEMENTS OF BIOLOGY/ANS_Final-Exam_ELEMENTS OF BIOLOGY(702BS0C084)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
+- Text: text (4 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CS)/B. Tech
+(CSBS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech
+(IT)/MBA Tech (AI)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: ELEMENTS OF BIOLOGY
+Date: 04 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page
+3. Figure in right hand side indicates full marks
+4. Question No.1 is compulsory. Out of remaining questions, attempt any 4 questions
+5. In all, 5 questions to be attempted
+6. All questions carry equal marks
+7. Assume suitable data if necessary
+Q1   SYNOPTIC ANSWERS   [20]
+a. Recall the discovery of Brownian motion and state its significance in providing
+evidence for the atomic theory.   04
+-   Brownian motion explanation (2.5M)
+-   Significance (1.5M)
+b. Draw the building block of proteins and illustrate the secondary and tertiary
+stages of protein folding.
+1.   Labeled diagram of amino acid (1M)   04
+2.   Explain protein folding (1M)
+3. Arrangement explanation and diagram (1M+1M)
+c. Distinguish between incomplete dominance and codominance? Give an
+example of each.   04
+-   Distinguishing between both types (codominance vs incomplete) (1M+1M)
+-   Examples with a brief discussion (1M+1M)
+d. What are lipids and what are their main types? Show the importance of lipids
+in various day-to-day cellular processes in plants and animals.   04
+4.   Definition | all four types (0.5M+0.5M+0.5M+0.5M)
+5.   At least two functions in plants and/or animals (1M+1M)
+e. Summarize the various categories of metabolic waste produced by organisms
+and provide one example for each category.   04
+6.   Ammoniotelic | Ureotelic | Uricotelic (1M+1M+1M)
+7.   At least one example of each (1M)
+Q2   a. Define proteins and describe their two main types, providing one example of
+each. Also, list any two functions of proteins.   [05]
+-   Definition and two types (Fibrous and Globular) (1M+2M)
+-   At least one example of each (0.5M+0.5M)
+-   Two functions (0.5M+0.5M)
+Q2   b. Discuss how process-biomimicry operates, supporting your answer with an
+appropriate example that highlights the biological phenomenon, its   [10]
+engineering application, and associated advantages and disadvantages.
+-   Definition of biomimicry and its types(1M+1M)
+A specific example of “PROCESS” biomimicry
+********** 1 **********
+--- page 2 ---
+-   Biological Phenomenon (3M)
+-   Engineering application (3M)
+-   Advantages and disadvantages (1M+1M)
+Q2   c. Demonstrate the concept of a monohybrid cross of a plant with yellow seed
+color (YY), with one having green seed color (yy). Using Punnett square,
+show the genotypic and phenotypic traits, focusing on the F1 and F2
+generations.   [05]
+8.   Definition of mono-hybrid cross (1M)
+9.   Punnett square of F1 and F2 generation – 2x2 square (1M+1M)
+10. Genotypic and phenotypic ratio (1M+1M)
+Q3   a. Discuss carbohydrates and their significance in biological systems. Classify
+carbohydrates into their major types and subtypes, providing one example for
+each, and illustrate polysaccharides.
+•   Definition (1M)   [10]
+•   Significance (1.5M)
+•   Two Classes: Simple and complex (1.5M+1.5M) | subclasses of complex (based on
+Composition and Functions) (1.5M+1.5M)
+•   Note on polysaccharide (1.5M)
+Q3   b. Explain the semi-conservative process by which DNA molecules are
+replicated, illustrating the steps involved and citing the key enzymes.
+-   Definition of semi-conservative process (1M)
+-   Leading strand explanation with Helicase, Primase, and DNA Pol III | diagram   [10]
+(3M+1.5M)
+-   Lagging strand explanation of Okazaki fragments along with Exonuclease, Primase,
+DNA Pol II and/or I, and Ligase | diagram (3M+1.5M)
+Q4   a.   Briefly discuss each of the following, providing one example for each:
+1. Archaea
+2. Yeast   [10]
+3. Bacteria
+4. Algae
+5. Virus
+-   Any two characteristics, explanation, and at least one example (1M+0.5M+0.5M) *5
+Q4   b. Explain what metabolism is and describe its two principal categories, giving
+one example of each. Additionally, use a labeled diagram or flowchart to
+illustrate the main products and byproducts formed during anaerobic
+respiration.   [10]
+•   Definition of metabolism (1M)
+•   Catabolism and anabolism (1M+1M)
+•   Examples (0.5M+0.5M)
+•   Location of Glycolysis-cytoplasm (0.5M)
+•   Explanation with a flow chart of Glycolysis (3M+2M)
+•   Calculation of products (ATP) and co- or by-products (NADH, FADH2, CO2, H2O,
+etc.) (0.5M)
+Q5   a. Write a short note on three laws of genetics. Also, use the Punnett square to
+solve the following cross: In rabbits, black fur color is determined by a   [10]
+dominant allele (B), while white fur color is determined by a recessive allele
+(b). If one parent has the genotype BB and the other has the genotype bb,
+determine the genotypic and phenotypic characteristics and their ratios among
+the offspring in the F₁ and F₂ generations.
+********** 2 **********
+--- page 3 ---
+Any three laws of genetics (1M+1M+1M)
+•   F1 (3.5M)
+•   F2 (3.5M)
+Q5   b. Explain each of the following using an illustration and examples where
+applicable.
+1. Uncompetitive inhibition   [10]
+2. Lock and key model
+3. Non-competitive inhibition
+4. Relationship between KM and Vmax
+•   Explanation, Illustration (diagram/plot), and example (1M+1M+0.5M) *4
+Q6   a. Explain the concept of biotechnology and examine how it has been applied in
+the development of Bt Cotton. Identify the source organism of the inserted
+genes and critically analyze the social, economic, and environmental impacts.
+[10]
+•   Define biotechnology (1M)
+•   Different types – Whole organism, Part of organism, and Process (1.5M)
+•   Bt cotton explanation along with origin – Bacillus thuringiensis (4M+1M)
+•   Societal Impact (2.5M)
+Q6   b. Briefly explain each of the following model organisms and their contribution
+to medical science.
+1. Arabidopsis thaliana   [10]
+2. Escherichia coli
+3. Drosophila melanogaster
+4. Mus musculus
+Explanation of specific organism while mentioning the field/diseases they are studied in for
+finding treatments/enhancing understanding (1.5M+1M) *4
+Q7   a. What are the core concepts of bioinformatics, and how can its computational
+approaches be applied to address biological or environmental challenges?   [05]
+-   Definition and concept (0.5M+0.5M)
+-   Explanation of any two real-life applications of Bioinformatics (2M+2M)
+Q7   b. Recall any four industrial applications of enzymes and provide one example   [05]
+for each application area.
+•   Need for enzymes at industrial scale (1M)
+********** 3 **********
+--- page 4 ---
+•   Any four applications with at least one example of an enzyme mentioned for each
+(1M+1M+1M+1M)
+Q7   c. Analyze the interdependence between photosynthesis and cellular respiration,
+explaining how their complementary processes preserve energy flow and   [05]
+ecosystem stability.
+•   Reaction balance between cellular respiration and photosynthesis (2M)
+•   Mechanisms and factors contributing to equilibrium (3M)
+Q7   d. Explain the exponential, stationary, and death phases of microbial growth
+kinetics and illustrate your answer with a labeled growth curve.   [05]
+•   Significance of studying the growth curve (0.5M)
+•   Explanation of Exponential, Stationary, and Death Phase (1M+1M+1M)
+•   Plot (1.5M)
+********** 4 **********
+````
+
 ## 2025-26 · Final-Exam · Sem 1 · Answer key · paper 136f56e7f917
 
 - Departments: Civil, Computer Engineering, Mechanical, Mechatronics
@@ -2462,6 +2788,634 @@ environments. Birds: While birds are ureotellic, they further convert urea into
 uric acid to minimize water loss, particularly in their concentrated urine and
 solid excreta.
 ********** 14 **********
+````
+
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper a7a72cc25263
+
+- Departments: AI and Machine Learning
+- Programmes: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING) - 7053
+- Source: `00_Original_Downloads/2025/Semester II/75268__Re-Exam.zip :: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING) - 7053/ELEMENTS OF BIOLOGY/ANS_Re-Exam_ELEMENTS OF BIOLOGY(702BS0C084)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Jun 2026
+- Text: text (4 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CS)/B. Tech
+(CSBS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech
+(IT)/MBA Tech (AI)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Sem 2 Re-exam/Semester II(Exam Year: 2025-2026)
+Subject: ELEMENTS OF BIOLOGY
+Date: 30 Jun 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page
+3. Figure in right hand side indicates full marks
+4. Question No.1 is compulsory. Out of remaining questions, attempt any 4 questions
+5. In all, 5 questions to be attempted
+6. All questions carry equal marks
+7. Assume suitable data if necessary
+Q1   SYNOPTIC ANSWERS   [20]
+a. What is biologically inspired engineering? Explain the key ways in which it
+differs from conventional engineering practices.   04
+-   Importance of biomimicry in advancing engineering and technological aspects (2M)
+-   Any two examples (2M)
+b. Compare and illustrate the two main secondary structural forms found in
+proteins. Explain the biological significance of tertiary protein structures.   04
+-   Comparison and illustration of α-helix and β-pleated sheets (2M+1M)
+-   Significance of tertiary structures (1M)
+c. Distinguish between co-dominance and complete dominance, providing one
+relevant example for each.   04
+-   Distinguishing between both types (codominance vs complete) (1M+1M)
+-   Examples with a brief discussion (1M+1M)
+d. What are lipids and what are their main types? Show the significance of lipids
+in key cellular processes of plants and animals.   04
+-   Definition │ all four types (0.5M+0.5M+0.5M+0.5M)
+-   At least two functions in plants and/or animals (1M+1M)
+e. Summarize the principal types of metabolic waste generated by organisms,
+providing one example per type.   04
+-   Ammoniotelic │ Ureotelic │ Uricotelic (1M+1M+1M)
+-   At least one example of each (1M)
+Q2   a. Define nucleic acids and describe their two main types, giving at least one
+example of each. Also, show the structure of a nucleotide, the fundamental
+building block of nucleic acids.   [05]
+-   Definition and two types (DNA and RNA) (1M+2M)
+-   At least two examples of RNA (0.5M+0.5M)
+-   Nucleotide structure (1M)
+Q2   b. Discuss the operation of process-biomimicry, supporting your answer with a
+suitable example that identifies the biological phenomenon, its engineering
+application, and the associated advantages and disadvantages.   [10]
+-   Definition of biomimicry and its types (1M+1M)
+-   A specific example of “PROCESS” biomimicry
+********** 1 **********
+--- page 2 ---
+-   Biological Phenomenon (3M)
+-   Engineering application (3M)
+-   Advantages and disadvantages (1M+1M)
+Q2   c. Demonstrate a dihybrid cross between a plant with round seeds and inflated
+pods (RrIi) and a plant with wrinkled seeds and constricted pods (rrii). Using a
+Punnett square, show the genotypic and phenotypic outcomes for the F₁
+[05]
+generation only.
+-   Definition of dihybrid cross (1M)
+-   Punnett square of F₁ generation – 4x4 square (2M)
+-   Genotypic and phenotypic ratio (1M+1M)
+Q3   a. Discuss carbohydrates and their role in biological systems. Classify
+carbohydrates into their major types and subtypes with one example per
+category, and include a note on polysaccharides.
+-   Definition (1M)   [10]
+-   Significance (1.5M)
+-   Two Classes: Simple and complex (1.5M+1.5M) │ subclasses of complex (based on
+Composition and Functions) (1.5M+1.5M)
+-   Note on polysaccharide (1.5M)
+Q3   b. Explain the central dogma of molecular biology, illustrating the processes of
+transcription and translation.
+-   Definition (1M)   [10]
+-   Transcription explanation with RNA Polymerase and mRNA │ diagram (3M+1.5M)
+-   Translation explanation: mRNA, rRNA, and tRNA; Codon and anticodon (3M);
+diagram (1.5M)
+Q4   a.   Briefly discuss each of the following microorganisms, providing a suitable
+example for each:
+1) Archaea,
+2) Bacteria,   [10]
+3) Virus,
+4) Yeast,
+5) Algae
+-   Any two characteristics, explanation, and at least one example (1M+0.5M+0.5M) ×5
+Q4   b. Recall the products and byproducts generated at each stage of aerobic
+respiration, using a labeled diagram or flowchart to support your answer.
+-   Definition of aerobic cellular respiration (1M)
+-   Explanation with a flow chart of Oxidation of pyruvate │ Citric acid cycle/Krebs’ cycle   [10]
+│ Electron transport chain (2.5M+2.5M+2.5M)
+-   Calculation of products (ATP) and co- or by-products (NADH, FADH₂, CO₂, H₂O, etc.)
+at each stage (0.5M+0.5M+0.5M)
+Q5   a. Using the Punnett square method, solve the following cross: In rabbits, black
+fur color is controlled by a dominant allele (B), and white fur color by a
+recessive allele (b). Given one parent with genotype BB and the other with   [10]
+genotype bb, determine the genotypic and phenotypic characteristics and their
+ratios in the F₁ and F₂ generations.
+********** 2 **********
+--- page 3 ---
+Q5   b. Explain each of the following using an illustration and examples where
+applicable.
+(1) Uncompetitive inhibition
+(2) Relationship between KM and Vmax   [10]
+(3) Competitive inhibition
+(4) Induced fit model
+-   Explanation, Illustration (diagram/plot), and example (1M+1M+0.5M) ×4
+Q6   a. Explain the concept of biotechnology and examine its application in the
+development of Bt Cotton. Identify the source organism of the inserted genes
+and critically evaluate the social, economic, and environmental impacts of this
+technology.   [10]
+-   Define biotechnology (1M)
+-   Different types – Whole organism, Part of organism, and Process (1M)
+-   Bt Cotton explanation along with origin – Bacillus thuringiensis (5M+1M)
+-   Societal Impact (2M)
+Q6   b. Briefly explain each of the following model organisms and their contribution to
+medical science:
+(1) Mus musculus
+(2) Saccharomyces cerevisiae   [10]
+(3) Drosophila melanogaster
+(4) Caenorhabditis elegans
+-   Explanation of specific organism while mentioning the field/diseases they are studied
+in for finding treatments/enhancing understanding (1.5M+1M) ×4
+Q7   a. What are the key concepts of bioremediation, and how can its techniques be
+applied to address biological or environmental challenges? Support your answer
+with real-life applications.   [05]
+-   Definition and concept (1M)
+-   Explanation of any two real-life applications of bioremediation (2M+2M)
+Q7   b. Recall four industrial uses of enzymes and provide one example of a specific
+enzyme for each application.
+-   Need for enzymes at industrial scale (1M)   [05]
+-   Any four applications with at least one example of an enzyme mentioned for each
+(1M+1M+1M+1M)
+Q7   c. Analyze the relationship of mutual dependence between photosynthesis and
+cellular respiration, explaining how these complementary processes maintain
+energy flow and ecosystem stability.   [05]
+-   Reaction balance between cellular respiration and photosynthesis (2M)
+-   Mechanisms and factors contributing to equilibrium (3M)
+Q7   d. Explain each phase of microbial growth kinetics and support your explanation   [05]
+with a drawn and labeled growth curve.
+********** 3 **********
+--- page 4 ---
+-   Significance of studying the growth curve (0.5M)
+-   Explanation of Lag, Exponential, Stationary, and Death Phase (0.5M+0.5M+1M+1M)
+-   Plot (1.5M)
+********** 4 **********
+````
+
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 64722541c2fb
+
+- Departments: Computer Science and Business Systems
+- Programmes: BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE AND BUSINESS SYSTEMS) - 7036
+- Source: `00_Original_Downloads/2025/Semester II/75268__Re-Exam.zip :: BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE AND BUSINESS SYSTEMS) - 7036/ELEMENTS OF BIOLOGY/ANS_Re-Exam_ELEMENTS OF BIOLOGY(702BS0C084)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Jun 2026
+- Text: text (4 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CS)/B. Tech
+(CSBS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech
+(IT)/MBA Tech (AI)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Sem 2 Re-exam/Semester II(Exam Year: 2025-2026)
+Subject: ELEMENTS OF BIOLOGY
+Date: 30 Jun 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page
+3. Figure in right hand side indicates full marks
+4. Question No.1 is compulsory. Out of remaining questions, attempt any 4 questions
+5. In all, 5 questions to be attempted
+6. All questions carry equal marks
+7. Assume suitable data if necessary
+Q1   SYNOPTIC ANSWERS   [20]
+a. What is biologically inspired engineering? Explain the key ways in which it
+differs from conventional engineering practices.   04
+-   Importance of biomimicry in advancing engineering and technological aspects (2M)
+-   Any two examples (2M)
+b. Compare and illustrate the two main secondary structural forms found in
+proteins. Explain the biological significance of tertiary protein structures.   04
+-   Comparison and illustration of α-helix and β-pleated sheets (2M+1M)
+-   Significance of tertiary structures (1M)
+c. Distinguish between co-dominance and complete dominance, providing one
+relevant example for each.   04
+-   Distinguishing between both types (codominance vs complete) (1M+1M)
+-   Examples with a brief discussion (1M+1M)
+d. What are lipids and what are their main types? Show the significance of lipids
+in key cellular processes of plants and animals.   04
+-   Definition │ all four types (0.5M+0.5M+0.5M+0.5M)
+-   At least two functions in plants and/or animals (1M+1M)
+e. Summarize the principal types of metabolic waste generated by organisms,
+providing one example per type.   04
+-   Ammoniotelic │ Ureotelic │ Uricotelic (1M+1M+1M)
+-   At least one example of each (1M)
+Q2   a. Define nucleic acids and describe their two main types, giving at least one
+example of each. Also, show the structure of a nucleotide, the fundamental
+building block of nucleic acids.   [05]
+-   Definition and two types (DNA and RNA) (1M+2M)
+-   At least two examples of RNA (0.5M+0.5M)
+-   Nucleotide structure (1M)
+Q2   b. Discuss the operation of process-biomimicry, supporting your answer with a
+suitable example that identifies the biological phenomenon, its engineering
+application, and the associated advantages and disadvantages.   [10]
+-   Definition of biomimicry and its types (1M+1M)
+-   A specific example of “PROCESS” biomimicry
+********** 1 **********
+--- page 2 ---
+-   Biological Phenomenon (3M)
+-   Engineering application (3M)
+-   Advantages and disadvantages (1M+1M)
+Q2   c. Demonstrate a dihybrid cross between a plant with round seeds and inflated
+pods (RrIi) and a plant with wrinkled seeds and constricted pods (rrii). Using a
+Punnett square, show the genotypic and phenotypic outcomes for the F₁
+[05]
+generation only.
+-   Definition of dihybrid cross (1M)
+-   Punnett square of F₁ generation – 4x4 square (2M)
+-   Genotypic and phenotypic ratio (1M+1M)
+Q3   a. Discuss carbohydrates and their role in biological systems. Classify
+carbohydrates into their major types and subtypes with one example per
+category, and include a note on polysaccharides.
+-   Definition (1M)   [10]
+-   Significance (1.5M)
+-   Two Classes: Simple and complex (1.5M+1.5M) │ subclasses of complex (based on
+Composition and Functions) (1.5M+1.5M)
+-   Note on polysaccharide (1.5M)
+Q3   b. Explain the central dogma of molecular biology, illustrating the processes of
+transcription and translation.
+-   Definition (1M)   [10]
+-   Transcription explanation with RNA Polymerase and mRNA │ diagram (3M+1.5M)
+-   Translation explanation: mRNA, rRNA, and tRNA; Codon and anticodon (3M);
+diagram (1.5M)
+Q4   a.   Briefly discuss each of the following microorganisms, providing a suitable
+example for each:
+1) Archaea,
+2) Bacteria,   [10]
+3) Virus,
+4) Yeast,
+5) Algae
+-   Any two characteristics, explanation, and at least one example (1M+0.5M+0.5M) ×5
+Q4   b. Recall the products and byproducts generated at each stage of aerobic
+respiration, using a labeled diagram or flowchart to support your answer.
+-   Definition of aerobic cellular respiration (1M)
+-   Explanation with a flow chart of Oxidation of pyruvate │ Citric acid cycle/Krebs’ cycle   [10]
+│ Electron transport chain (2.5M+2.5M+2.5M)
+-   Calculation of products (ATP) and co- or by-products (NADH, FADH₂, CO₂, H₂O, etc.)
+at each stage (0.5M+0.5M+0.5M)
+Q5   a. Using the Punnett square method, solve the following cross: In rabbits, black
+fur color is controlled by a dominant allele (B), and white fur color by a
+recessive allele (b). Given one parent with genotype BB and the other with   [10]
+genotype bb, determine the genotypic and phenotypic characteristics and their
+ratios in the F₁ and F₂ generations.
+********** 2 **********
+--- page 3 ---
+Q5   b. Explain each of the following using an illustration and examples where
+applicable.
+(1) Uncompetitive inhibition
+(2) Relationship between KM and Vmax   [10]
+(3) Competitive inhibition
+(4) Induced fit model
+-   Explanation, Illustration (diagram/plot), and example (1M+1M+0.5M) ×4
+Q6   a. Explain the concept of biotechnology and examine its application in the
+development of Bt Cotton. Identify the source organism of the inserted genes
+and critically evaluate the social, economic, and environmental impacts of this
+technology.   [10]
+-   Define biotechnology (1M)
+-   Different types – Whole organism, Part of organism, and Process (1M)
+-   Bt Cotton explanation along with origin – Bacillus thuringiensis (5M+1M)
+-   Societal Impact (2M)
+Q6   b. Briefly explain each of the following model organisms and their contribution to
+medical science:
+(1) Mus musculus
+(2) Saccharomyces cerevisiae   [10]
+(3) Drosophila melanogaster
+(4) Caenorhabditis elegans
+-   Explanation of specific organism while mentioning the field/diseases they are studied
+in for finding treatments/enhancing understanding (1.5M+1M) ×4
+Q7   a. What are the key concepts of bioremediation, and how can its techniques be
+applied to address biological or environmental challenges? Support your answer
+with real-life applications.   [05]
+-   Definition and concept (1M)
+-   Explanation of any two real-life applications of bioremediation (2M+2M)
+Q7   b. Recall four industrial uses of enzymes and provide one example of a specific
+enzyme for each application.
+-   Need for enzymes at industrial scale (1M)   [05]
+-   Any four applications with at least one example of an enzyme mentioned for each
+(1M+1M+1M+1M)
+Q7   c. Analyze the relationship of mutual dependence between photosynthesis and
+cellular respiration, explaining how these complementary processes maintain
+energy flow and ecosystem stability.   [05]
+-   Reaction balance between cellular respiration and photosynthesis (2M)
+-   Mechanisms and factors contributing to equilibrium (3M)
+Q7   d. Explain each phase of microbial growth kinetics and support your explanation   [05]
+with a drawn and labeled growth curve.
+********** 3 **********
+--- page 4 ---
+-   Significance of studying the growth curve (0.5M)
+-   Explanation of Lag, Exponential, Stationary, and Death Phase (0.5M+0.5M+1M+1M)
+-   Plot (1.5M)
+********** 4 **********
+````
+
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 09aa97a3e871
+
+- Departments: Data Science
+- Programmes: BACHELOR OF TECHNOLOGY (DATA SCIENCE) - 7009
+- Source: `00_Original_Downloads/2025/Semester II/75268__Re-Exam.zip :: BACHELOR OF TECHNOLOGY (DATA SCIENCE) - 7009/ELEMENTS OF BIOLOGY/ANS_Re-Exam_ELEMENTS OF BIOLOGY(702BS0C084)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Jun 2026
+- Text: text (4 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CS)/B. Tech
+(CSBS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech
+(IT)/MBA Tech (AI)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Sem 2 Re-exam/Semester II(Exam Year: 2025-2026)
+Subject: ELEMENTS OF BIOLOGY
+Date: 30 Jun 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page
+3. Figure in right hand side indicates full marks
+4. Question No.1 is compulsory. Out of remaining questions, attempt any 4 questions
+5. In all, 5 questions to be attempted
+6. All questions carry equal marks
+7. Assume suitable data if necessary
+Q1   SYNOPTIC ANSWERS   [20]
+a. What is biologically inspired engineering? Explain the key ways in which it
+differs from conventional engineering practices.   04
+-   Importance of biomimicry in advancing engineering and technological aspects (2M)
+-   Any two examples (2M)
+b. Compare and illustrate the two main secondary structural forms found in
+proteins. Explain the biological significance of tertiary protein structures.   04
+-   Comparison and illustration of α-helix and β-pleated sheets (2M+1M)
+-   Significance of tertiary structures (1M)
+c. Distinguish between co-dominance and complete dominance, providing one
+relevant example for each.   04
+-   Distinguishing between both types (codominance vs complete) (1M+1M)
+-   Examples with a brief discussion (1M+1M)
+d. What are lipids and what are their main types? Show the significance of lipids
+in key cellular processes of plants and animals.   04
+-   Definition │ all four types (0.5M+0.5M+0.5M+0.5M)
+-   At least two functions in plants and/or animals (1M+1M)
+e. Summarize the principal types of metabolic waste generated by organisms,
+providing one example per type.   04
+-   Ammoniotelic │ Ureotelic │ Uricotelic (1M+1M+1M)
+-   At least one example of each (1M)
+Q2   a. Define nucleic acids and describe their two main types, giving at least one
+example of each. Also, show the structure of a nucleotide, the fundamental
+building block of nucleic acids.   [05]
+-   Definition and two types (DNA and RNA) (1M+2M)
+-   At least two examples of RNA (0.5M+0.5M)
+-   Nucleotide structure (1M)
+Q2   b. Discuss the operation of process-biomimicry, supporting your answer with a
+suitable example that identifies the biological phenomenon, its engineering
+application, and the associated advantages and disadvantages.   [10]
+-   Definition of biomimicry and its types (1M+1M)
+-   A specific example of “PROCESS” biomimicry
+********** 1 **********
+--- page 2 ---
+-   Biological Phenomenon (3M)
+-   Engineering application (3M)
+-   Advantages and disadvantages (1M+1M)
+Q2   c. Demonstrate a dihybrid cross between a plant with round seeds and inflated
+pods (RrIi) and a plant with wrinkled seeds and constricted pods (rrii). Using a
+Punnett square, show the genotypic and phenotypic outcomes for the F₁
+[05]
+generation only.
+-   Definition of dihybrid cross (1M)
+-   Punnett square of F₁ generation – 4x4 square (2M)
+-   Genotypic and phenotypic ratio (1M+1M)
+Q3   a. Discuss carbohydrates and their role in biological systems. Classify
+carbohydrates into their major types and subtypes with one example per
+category, and include a note on polysaccharides.
+-   Definition (1M)   [10]
+-   Significance (1.5M)
+-   Two Classes: Simple and complex (1.5M+1.5M) │ subclasses of complex (based on
+Composition and Functions) (1.5M+1.5M)
+-   Note on polysaccharide (1.5M)
+Q3   b. Explain the central dogma of molecular biology, illustrating the processes of
+transcription and translation.
+-   Definition (1M)   [10]
+-   Transcription explanation with RNA Polymerase and mRNA │ diagram (3M+1.5M)
+-   Translation explanation: mRNA, rRNA, and tRNA; Codon and anticodon (3M);
+diagram (1.5M)
+Q4   a.   Briefly discuss each of the following microorganisms, providing a suitable
+example for each:
+1) Archaea,
+2) Bacteria,   [10]
+3) Virus,
+4) Yeast,
+5) Algae
+-   Any two characteristics, explanation, and at least one example (1M+0.5M+0.5M) ×5
+Q4   b. Recall the products and byproducts generated at each stage of aerobic
+respiration, using a labeled diagram or flowchart to support your answer.
+-   Definition of aerobic cellular respiration (1M)
+-   Explanation with a flow chart of Oxidation of pyruvate │ Citric acid cycle/Krebs’ cycle   [10]
+│ Electron transport chain (2.5M+2.5M+2.5M)
+-   Calculation of products (ATP) and co- or by-products (NADH, FADH₂, CO₂, H₂O, etc.)
+at each stage (0.5M+0.5M+0.5M)
+Q5   a. Using the Punnett square method, solve the following cross: In rabbits, black
+fur color is controlled by a dominant allele (B), and white fur color by a
+recessive allele (b). Given one parent with genotype BB and the other with   [10]
+genotype bb, determine the genotypic and phenotypic characteristics and their
+ratios in the F₁ and F₂ generations.
+********** 2 **********
+--- page 3 ---
+Q5   b. Explain each of the following using an illustration and examples where
+applicable.
+(1) Uncompetitive inhibition
+(2) Relationship between KM and Vmax   [10]
+(3) Competitive inhibition
+(4) Induced fit model
+-   Explanation, Illustration (diagram/plot), and example (1M+1M+0.5M) ×4
+Q6   a. Explain the concept of biotechnology and examine its application in the
+development of Bt Cotton. Identify the source organism of the inserted genes
+and critically evaluate the social, economic, and environmental impacts of this
+technology.   [10]
+-   Define biotechnology (1M)
+-   Different types – Whole organism, Part of organism, and Process (1M)
+-   Bt Cotton explanation along with origin – Bacillus thuringiensis (5M+1M)
+-   Societal Impact (2M)
+Q6   b. Briefly explain each of the following model organisms and their contribution to
+medical science:
+(1) Mus musculus
+(2) Saccharomyces cerevisiae   [10]
+(3) Drosophila melanogaster
+(4) Caenorhabditis elegans
+-   Explanation of specific organism while mentioning the field/diseases they are studied
+in for finding treatments/enhancing understanding (1.5M+1M) ×4
+Q7   a. What are the key concepts of bioremediation, and how can its techniques be
+applied to address biological or environmental challenges? Support your answer
+with real-life applications.   [05]
+-   Definition and concept (1M)
+-   Explanation of any two real-life applications of bioremediation (2M+2M)
+Q7   b. Recall four industrial uses of enzymes and provide one example of a specific
+enzyme for each application.
+-   Need for enzymes at industrial scale (1M)   [05]
+-   Any four applications with at least one example of an enzyme mentioned for each
+(1M+1M+1M+1M)
+Q7   c. Analyze the relationship of mutual dependence between photosynthesis and
+cellular respiration, explaining how these complementary processes maintain
+energy flow and ecosystem stability.   [05]
+-   Reaction balance between cellular respiration and photosynthesis (2M)
+-   Mechanisms and factors contributing to equilibrium (3M)
+Q7   d. Explain each phase of microbial growth kinetics and support your explanation   [05]
+with a drawn and labeled growth curve.
+********** 3 **********
+--- page 4 ---
+-   Significance of studying the growth curve (0.5M)
+-   Explanation of Lag, Exponential, Stationary, and Death Phase (0.5M+0.5M+1M+1M)
+-   Plot (1.5M)
+********** 4 **********
+````
+
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 33d5f9748440
+
+- Departments: Cyber Security
+- Programmes: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY) - 7010
+- Source: `00_Original_Downloads/2025/Semester II/75268__Re-Exam.zip :: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY) - 7010/ELEMENTS OF BIOLOGY/ANS_Re-Exam_ELEMENTS OF BIOLOGY(702BS0C084)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Jun 2026
+- Text: text (4 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CS)/B. Tech
+(CSBS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech
+(IT)/MBA Tech (AI)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Sem 2 Re-exam/Semester II(Exam Year: 2025-2026)
+Subject: ELEMENTS OF BIOLOGY
+Date: 30 Jun 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page
+3. Figure in right hand side indicates full marks
+4. Question No.1 is compulsory. Out of remaining questions, attempt any 4 questions
+5. In all, 5 questions to be attempted
+6. All questions carry equal marks
+7. Assume suitable data if necessary
+Q1   SYNOPTIC ANSWERS   [20]
+a. What is biologically inspired engineering? Explain the key ways in which it
+differs from conventional engineering practices.   04
+-   Importance of biomimicry in advancing engineering and technological aspects (2M)
+-   Any two examples (2M)
+b. Compare and illustrate the two main secondary structural forms found in
+proteins. Explain the biological significance of tertiary protein structures.   04
+-   Comparison and illustration of α-helix and β-pleated sheets (2M+1M)
+-   Significance of tertiary structures (1M)
+c. Distinguish between co-dominance and complete dominance, providing one
+relevant example for each.   04
+-   Distinguishing between both types (codominance vs complete) (1M+1M)
+-   Examples with a brief discussion (1M+1M)
+d. What are lipids and what are their main types? Show the significance of lipids
+in key cellular processes of plants and animals.   04
+-   Definition │ all four types (0.5M+0.5M+0.5M+0.5M)
+-   At least two functions in plants and/or animals (1M+1M)
+e. Summarize the principal types of metabolic waste generated by organisms,
+providing one example per type.   04
+-   Ammoniotelic │ Ureotelic │ Uricotelic (1M+1M+1M)
+-   At least one example of each (1M)
+Q2   a. Define nucleic acids and describe their two main types, giving at least one
+example of each. Also, show the structure of a nucleotide, the fundamental
+building block of nucleic acids.   [05]
+-   Definition and two types (DNA and RNA) (1M+2M)
+-   At least two examples of RNA (0.5M+0.5M)
+-   Nucleotide structure (1M)
+Q2   b. Discuss the operation of process-biomimicry, supporting your answer with a
+suitable example that identifies the biological phenomenon, its engineering
+application, and the associated advantages and disadvantages.   [10]
+-   Definition of biomimicry and its types (1M+1M)
+-   A specific example of “PROCESS” biomimicry
+********** 1 **********
+--- page 2 ---
+-   Biological Phenomenon (3M)
+-   Engineering application (3M)
+-   Advantages and disadvantages (1M+1M)
+Q2   c. Demonstrate a dihybrid cross between a plant with round seeds and inflated
+pods (RrIi) and a plant with wrinkled seeds and constricted pods (rrii). Using a
+Punnett square, show the genotypic and phenotypic outcomes for the F₁
+[05]
+generation only.
+-   Definition of dihybrid cross (1M)
+-   Punnett square of F₁ generation – 4x4 square (2M)
+-   Genotypic and phenotypic ratio (1M+1M)
+Q3   a. Discuss carbohydrates and their role in biological systems. Classify
+carbohydrates into their major types and subtypes with one example per
+category, and include a note on polysaccharides.
+-   Definition (1M)   [10]
+-   Significance (1.5M)
+-   Two Classes: Simple and complex (1.5M+1.5M) │ subclasses of complex (based on
+Composition and Functions) (1.5M+1.5M)
+-   Note on polysaccharide (1.5M)
+Q3   b. Explain the central dogma of molecular biology, illustrating the processes of
+transcription and translation.
+-   Definition (1M)   [10]
+-   Transcription explanation with RNA Polymerase and mRNA │ diagram (3M+1.5M)
+-   Translation explanation: mRNA, rRNA, and tRNA; Codon and anticodon (3M);
+diagram (1.5M)
+Q4   a.   Briefly discuss each of the following microorganisms, providing a suitable
+example for each:
+1) Archaea,
+2) Bacteria,   [10]
+3) Virus,
+4) Yeast,
+5) Algae
+-   Any two characteristics, explanation, and at least one example (1M+0.5M+0.5M) ×5
+Q4   b. Recall the products and byproducts generated at each stage of aerobic
+respiration, using a labeled diagram or flowchart to support your answer.
+-   Definition of aerobic cellular respiration (1M)
+-   Explanation with a flow chart of Oxidation of pyruvate │ Citric acid cycle/Krebs’ cycle   [10]
+│ Electron transport chain (2.5M+2.5M+2.5M)
+-   Calculation of products (ATP) and co- or by-products (NADH, FADH₂, CO₂, H₂O, etc.)
+at each stage (0.5M+0.5M+0.5M)
+Q5   a. Using the Punnett square method, solve the following cross: In rabbits, black
+fur color is controlled by a dominant allele (B), and white fur color by a
+recessive allele (b). Given one parent with genotype BB and the other with   [10]
+genotype bb, determine the genotypic and phenotypic characteristics and their
+ratios in the F₁ and F₂ generations.
+********** 2 **********
+--- page 3 ---
+Q5   b. Explain each of the following using an illustration and examples where
+applicable.
+(1) Uncompetitive inhibition
+(2) Relationship between KM and Vmax   [10]
+(3) Competitive inhibition
+(4) Induced fit model
+-   Explanation, Illustration (diagram/plot), and example (1M+1M+0.5M) ×4
+Q6   a. Explain the concept of biotechnology and examine its application in the
+development of Bt Cotton. Identify the source organism of the inserted genes
+and critically evaluate the social, economic, and environmental impacts of this
+technology.   [10]
+-   Define biotechnology (1M)
+-   Different types – Whole organism, Part of organism, and Process (1M)
+-   Bt Cotton explanation along with origin – Bacillus thuringiensis (5M+1M)
+-   Societal Impact (2M)
+Q6   b. Briefly explain each of the following model organisms and their contribution to
+medical science:
+(1) Mus musculus
+(2) Saccharomyces cerevisiae   [10]
+(3) Drosophila melanogaster
+(4) Caenorhabditis elegans
+-   Explanation of specific organism while mentioning the field/diseases they are studied
+in for finding treatments/enhancing understanding (1.5M+1M) ×4
+Q7   a. What are the key concepts of bioremediation, and how can its techniques be
+applied to address biological or environmental challenges? Support your answer
+with real-life applications.   [05]
+-   Definition and concept (1M)
+-   Explanation of any two real-life applications of bioremediation (2M+2M)
+Q7   b. Recall four industrial uses of enzymes and provide one example of a specific
+enzyme for each application.
+-   Need for enzymes at industrial scale (1M)   [05]
+-   Any four applications with at least one example of an enzyme mentioned for each
+(1M+1M+1M+1M)
+Q7   c. Analyze the relationship of mutual dependence between photosynthesis and
+cellular respiration, explaining how these complementary processes maintain
+energy flow and ecosystem stability.   [05]
+-   Reaction balance between cellular respiration and photosynthesis (2M)
+-   Mechanisms and factors contributing to equilibrium (3M)
+Q7   d. Explain each phase of microbial growth kinetics and support your explanation   [05]
+with a drawn and labeled growth curve.
+********** 3 **********
+--- page 4 ---
+-   Significance of studying the growth curve (0.5M)
+-   Explanation of Lag, Exponential, Stationary, and Death Phase (0.5M+0.5M+1M+1M)
+-   Plot (1.5M)
+********** 4 **********
 ````
 
 ## 2025-26 · Re-Exam · Sem 2 · Answer key · paper ea86f9d936b6
@@ -6228,6 +7182,344 @@ cancer.
 FRR IC 7 I OH
 ````
 
+## 2024-25 · Final-Exam · Sem 2 · Answer key · paper ec47993eac4e
+
+- Departments: AI and Machine Learning
+- Programmes: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING) - 7053
+- Source: `00_Original_Downloads/2024/Semester II/67783__Final-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING) - 7053/Elements of Biology/ANS_Final-Exam_Elements of Biology(702BS0C049)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2025
+- Text: text (3 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/MBA. Tech (AI)/MBA Tech
+(Comp)/MBA. Tech (DS)/MBA. Tech (IT)
+Year: I/Semester II(Exam Year: 2024-2025)
+Subject: Elements of Biology
+Date: 02 May 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page
+3. Figure in right hand side indicates full marks
+4. Question No.1 is compulsory. Out of remaining questions, attempt any 4 questions
+5. In all, 5 questions to be attempted
+6. All questions carry equal marks
+7. Assume suitable data if necessary
+Q1   Answer briefly:   [20]
+How did basic biological observations in the 19th century contribute to
+significant scientific breakthroughs, and why is it essential for engineers today
+CO-1; BL-1   a.   to have a strong understanding of biological principles?   04
+-   Significance of Brownian Motion/Thermodynamics (2M)
+-   Biomimicry (significance in engineering) (2M)
+Classify lipids, including phospholipids, and provide examples of each class.
+Additionally, discuss the importance of lipids, especially phospholipids, in
+CO-2; BL-2   b. living organisms.   04
+-   Comparison of structure and function, specifically, phospholipids (3M)
+-   Diagram (1M)
+What are the steps involved in an enzyme-catalyzed reaction? Include a
+CO-4; BL-1   c. diagram.   04
+-   Enzymatic reactions and equation of mechanism of action (2.5M+1M)
+-   Relevant diagram (1.5M)
+Why is the ATP-ADP cycle referred to as the 'energy currency' of cellular
+CO-5; BL-1   d. processes? Briefly explain how the cycle works.   04
+-   Explanation of ATP-ADP-ATP cycle (3.5M)
+-   Illustration (1.5M)
+Compare bacteria and fungi, highlighting their practical significance in
+scientific fields. Provide an example of each microorganism.   04
+CO-5; BL-2   e.
+-   Explanation of any two types with an example (1M+0.5M)*2
+-   Significance (1M)
+Define proteins and list four primary functions they perform in the human
+Q2   a.   [05]
+body.
+CO-2; BL-1   -   Explanation of any four functions (1M+1M+1M+1M)
+Using a case study of the biomimetic process, explain the key principles of
+Q2   biomimicry in engineering. How do these principles contribute to developing
+b.   [10]
+CO-1; BL-2   more sustainable and efficient data storage systems?
+-   Definition of Biomimicry (1)
+-   Specific type of Biomimicry (design/process/ecosystem) (1.5)
+********** 1 **********
+--- page 2 ---
+-   Example of process biomimicry (7.5)
+Compare mRNA and tRNA. Illustrate their structures. Additionally, determine
+the complementary DNA sequence for the following RNA sequence: 5'-
+Q2   c.   [05]
+GUGUUCAAUCGA-3'.
+CO-3; BL-2   -   Compare: mRNA and tRNA (1.5M+1.5M)
+-   5'-CACA AGTT AGCT-3' (2M)
+Classify simple and complex carbohydrates, explaining their building blocks
+and providing an example for each. Briefly discuss the importance of
+Q3   a. carbohydrates in human nutrition and health.   [10]
+CO-2; BL-2   - Carbohydrates and their functions (2M) along with Classification (5M) and
+examples (3M).
+Explain the following genetic terminology, providing examples where
+applicable:
+1. Incomplete dominance
+Q3   2. Genes   [10]
+b.
+CO-3; BL-2   3. Homozygous and heterozygous alleles
+4. Phenotypic ratio
+5. Dominant epistasis
+-   Definition and example if applicable (1M+1M)*5
+What criteria are used to select a model organism in biological research?
+Discuss how C. elegans, A. thaliana, and M. musculus meet these criteria and
+Q4   the specific research areas they excel in. Provide an example of a disease
+CO-5; BL-2   a. studied using each organism.   [10]
+-   Ideal properties of a model organism (2.5M)
+-   The application of three organisms in medical science (2M+2M+2M)
+- A name of the disease studied using the model organism (1.5M)
+Recall the stages of cellular respiration in aerobic and anaerobic conditions.
+Use a diagram or flow chart to illustrate the products and byproducts formed
+at each stage.
+Q4   b.   -   Glycolysis | Oxidation of pyruvate | Citric acid cycle/Kreb’s cycle | Electron   [10]
+CO-5; BL-1   transport chain (1.5M+1.5M+1.5M+1.5M)
+-   Illustration of the process (2M)
+-   The number of ATPs produced during each stage and components/enzymes
+involved in the overall process should be mentioned (2M)
+Define the central dogma of life. Summarize the transcription process in
+protein synthesis while explaining the role of different RNAs in converting
+RNA into functional proteins. Support your explanation with an appropriate
+Q5   a. diagram.   [10]
+CO-3; BL-2   - Explanation (4M)
+- RNA Polymerase (1M)
+- Role of mRNA in transcription (2.5M)
+- Diagram (2.5M)
+Explain how biocatalysts outperform conventional catalysts. Support your
+response with different proposed models and their illustrations while citing
+Q5
+b. two industrial applications of biocatalysts.   [10]
+CO-4; BL-2   -   Energy Plot and explanation (1.5M+1.5M)
+-   Lock and Key and Induced Fit Model (2.5M+2.5M)
+-   Diagrams (1M+1M)
+The coat pattern of cats is controlled by two pairs of genes. Dominant gene T
+Q6
+a. produces tabby stripes, while the absence of it (tt) results in a solid coat. Gene   [10]
+CO-3; BL-2
+S produces white paws in the presence of T; however, it cannot express in the
+********** 2 **********
+--- page 3 ---
+absence of T (with tt), resulting in no white paws. How can a Punnett square
+analysis be employed to predict the genotypic and phenotypic ratios of
+offspring resulting from a cross between two solid-coated, no-white-pawed
+cats: a male (SsTt) and a female (SsTt)? Additionally, specify the type of gene
+interactions involved in this scenario.
+-   Punnett square analysis (6M)
+-   Phenotypic (9:3:4) and genotypic ratios (14 heterozygous:1 homozygous
+dominant:1homozygous recessive) (2M)
+-   Determine the type of gene interaction (recessive epistasis) (1M)
+-   Determine hypostatic (S) and epistatic gene (tt) (1M)
+Discuss a case study on developing a nanoparticle-based vaccine delivery
+Q6   system for cancer immunotherapy. Highlight the key components of the
+b. system and discuss its potential applications in cancer treatment.   [10]
+CO-6; BL-2
+-   Explanation (3M)
+-   Design, mechanisms of action, and potential benefits (2M+3M+2M)
+Define biotechnology and its different sub-types, providing an example for
+each. Evaluate the societal impact of Golden rice and outline the process of its
+Q7   development.
+CO-1; BL-1   a.   -   Three types of biotechnology (use of whole organism, part of organism, and   [05]
+process) (1.5M)
+-   Golden rice example explanation along with the name of the organism the
+gene originated (carrot) (3M+0.5M)
+How do KM values in the Michaelis-Menten equation relate to an enzyme's
+substrate affinity? Illustrate this relationship with a plot showing how
+Q7   different KM values impact enzyme-substrate binding.
+b.   -   Michaelis-Menten equation (1M)   [05]
+CO-4 BL-1
+-   Affinity of an enzyme for its substrate (1M)
+-   Relationship between K value and enzyme-substrate binding (1M)
+-   Illustration with a plot (2M)
+How do cellular respiration and photosynthesis achieve equilibrium in nature?
+Q7   Describe the mechanisms and identify the factors that sustain this balance in
+c.   living organisms.   [05]
+CO-5; BL-2
+-   Reaction balance between cellular respiration and photosynthesis (2M)
+-   Mechanisms and factors contributing to equilibrium (3M)
+Write a brief note of the following:
+1. Uricotelic organisms
+Q7   -   Definition and example, if applicable (1M+0.5M)
+d.   2. Lag phase of bacterial growth curve   [05]
+CO-5; BL-2
+-   Explanation (2M)
+3. Virus
+-   Definition and example, if applicable (1M+0.5M)
+********** 3 **********
+````
+
+## 2024-25 · Final-Exam · Sem 2 · Answer key · paper 30fa2f1b0e15
+
+- Departments: Computer Engineering
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTER ENGINEERING) - 7047
+- Source: `00_Original_Downloads/2024/Semester II/67783__Final-Exam__context_fixed.zip :: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTER ENGINEERING) - 7047/Elements of Biology/ANS_Final-Exam_Elements of Biology(702BS0C049)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2025
+- Text: text (3 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/MBA. Tech (AI)/MBA Tech
+(Comp)/MBA. Tech (DS)/MBA. Tech (IT)
+Year: I/Semester II(Exam Year: 2024-2025)
+Subject: Elements of Biology
+Date: 02 May 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page
+3. Figure in right hand side indicates full marks
+4. Question No.1 is compulsory. Out of remaining questions, attempt any 4 questions
+5. In all, 5 questions to be attempted
+6. All questions carry equal marks
+7. Assume suitable data if necessary
+Q1   Answer briefly:   [20]
+How did basic biological observations in the 19th century contribute to
+significant scientific breakthroughs, and why is it essential for engineers today
+CO-1; BL-1   a.   to have a strong understanding of biological principles?   04
+-   Significance of Brownian Motion/Thermodynamics (2M)
+-   Biomimicry (significance in engineering) (2M)
+Classify lipids, including phospholipids, and provide examples of each class.
+Additionally, discuss the importance of lipids, especially phospholipids, in
+CO-2; BL-2   b. living organisms.   04
+-   Comparison of structure and function, specifically, phospholipids (3M)
+-   Diagram (1M)
+What are the steps involved in an enzyme-catalyzed reaction? Include a
+CO-4; BL-1   c. diagram.   04
+-   Enzymatic reactions and equation of mechanism of action (2.5M+1M)
+-   Relevant diagram (1.5M)
+Why is the ATP-ADP cycle referred to as the 'energy currency' of cellular
+CO-5; BL-1   d. processes? Briefly explain how the cycle works.   04
+-   Explanation of ATP-ADP-ATP cycle (3.5M)
+-   Illustration (1.5M)
+Compare bacteria and fungi, highlighting their practical significance in
+scientific fields. Provide an example of each microorganism.   04
+CO-5; BL-2   e.
+-   Explanation of any two types with an example (1M+0.5M)*2
+-   Significance (1M)
+Define proteins and list four primary functions they perform in the human
+Q2   a.   [05]
+body.
+CO-2; BL-1   -   Explanation of any four functions (1M+1M+1M+1M)
+Using a case study of the biomimetic process, explain the key principles of
+Q2   biomimicry in engineering. How do these principles contribute to developing
+b.   [10]
+CO-1; BL-2   more sustainable and efficient data storage systems?
+-   Definition of Biomimicry (1)
+-   Specific type of Biomimicry (design/process/ecosystem) (1.5)
+********** 1 **********
+--- page 2 ---
+-   Example of process biomimicry (7.5)
+Compare mRNA and tRNA. Illustrate their structures. Additionally, determine
+the complementary DNA sequence for the following RNA sequence: 5'-
+Q2   c.   [05]
+GUGUUCAAUCGA-3'.
+CO-3; BL-2   -   Compare: mRNA and tRNA (1.5M+1.5M)
+-   5'-CACA AGTT AGCT-3' (2M)
+Classify simple and complex carbohydrates, explaining their building blocks
+and providing an example for each. Briefly discuss the importance of
+Q3   a. carbohydrates in human nutrition and health.   [10]
+CO-2; BL-2   - Carbohydrates and their functions (2M) along with Classification (5M) and
+examples (3M).
+Explain the following genetic terminology, providing examples where
+applicable:
+1. Incomplete dominance
+Q3   2. Genes   [10]
+b.
+CO-3; BL-2   3. Homozygous and heterozygous alleles
+4. Phenotypic ratio
+5. Dominant epistasis
+-   Definition and example if applicable (1M+1M)*5
+What criteria are used to select a model organism in biological research?
+Discuss how C. elegans, A. thaliana, and M. musculus meet these criteria and
+Q4   the specific research areas they excel in. Provide an example of a disease
+CO-5; BL-2   a. studied using each organism.   [10]
+-   Ideal properties of a model organism (2.5M)
+-   The application of three organisms in medical science (2M+2M+2M)
+- A name of the disease studied using the model organism (1.5M)
+Recall the stages of cellular respiration in aerobic and anaerobic conditions.
+Use a diagram or flow chart to illustrate the products and byproducts formed
+at each stage.
+Q4   b.   -   Glycolysis | Oxidation of pyruvate | Citric acid cycle/Kreb’s cycle | Electron   [10]
+CO-5; BL-1   transport chain (1.5M+1.5M+1.5M+1.5M)
+-   Illustration of the process (2M)
+-   The number of ATPs produced during each stage and components/enzymes
+involved in the overall process should be mentioned (2M)
+Define the central dogma of life. Summarize the transcription process in
+protein synthesis while explaining the role of different RNAs in converting
+RNA into functional proteins. Support your explanation with an appropriate
+Q5   a. diagram.   [10]
+CO-3; BL-2   - Explanation (4M)
+- RNA Polymerase (1M)
+- Role of mRNA in transcription (2.5M)
+- Diagram (2.5M)
+Explain how biocatalysts outperform conventional catalysts. Support your
+response with different proposed models and their illustrations while citing
+Q5
+b. two industrial applications of biocatalysts.   [10]
+CO-4; BL-2   -   Energy Plot and explanation (1.5M+1.5M)
+-   Lock and Key and Induced Fit Model (2.5M+2.5M)
+-   Diagrams (1M+1M)
+The coat pattern of cats is controlled by two pairs of genes. Dominant gene T
+Q6
+a. produces tabby stripes, while the absence of it (tt) results in a solid coat. Gene   [10]
+CO-3; BL-2
+S produces white paws in the presence of T; however, it cannot express in the
+********** 2 **********
+--- page 3 ---
+absence of T (with tt), resulting in no white paws. How can a Punnett square
+analysis be employed to predict the genotypic and phenotypic ratios of
+offspring resulting from a cross between two solid-coated, no-white-pawed
+cats: a male (SsTt) and a female (SsTt)? Additionally, specify the type of gene
+interactions involved in this scenario.
+-   Punnett square analysis (6M)
+-   Phenotypic (9:3:4) and genotypic ratios (14 heterozygous:1 homozygous
+dominant:1homozygous recessive) (2M)
+-   Determine the type of gene interaction (recessive epistasis) (1M)
+-   Determine hypostatic (S) and epistatic gene (tt) (1M)
+Discuss a case study on developing a nanoparticle-based vaccine delivery
+Q6   system for cancer immunotherapy. Highlight the key components of the
+b. system and discuss its potential applications in cancer treatment.   [10]
+CO-6; BL-2
+-   Explanation (3M)
+-   Design, mechanisms of action, and potential benefits (2M+3M+2M)
+Define biotechnology and its different sub-types, providing an example for
+each. Evaluate the societal impact of Golden rice and outline the process of its
+Q7   development.
+CO-1; BL-1   a.   -   Three types of biotechnology (use of whole organism, part of organism, and   [05]
+process) (1.5M)
+-   Golden rice example explanation along with the name of the organism the
+gene originated (carrot) (3M+0.5M)
+How do KM values in the Michaelis-Menten equation relate to an enzyme's
+substrate affinity? Illustrate this relationship with a plot showing how
+Q7   different KM values impact enzyme-substrate binding.
+b.   -   Michaelis-Menten equation (1M)   [05]
+CO-4 BL-1
+-   Affinity of an enzyme for its substrate (1M)
+-   Relationship between K value and enzyme-substrate binding (1M)
+-   Illustration with a plot (2M)
+How do cellular respiration and photosynthesis achieve equilibrium in nature?
+Q7   Describe the mechanisms and identify the factors that sustain this balance in
+c.   living organisms.   [05]
+CO-5; BL-2
+-   Reaction balance between cellular respiration and photosynthesis (2M)
+-   Mechanisms and factors contributing to equilibrium (3M)
+Write a brief note of the following:
+1. Uricotelic organisms
+Q7   -   Definition and example, if applicable (1M+0.5M)
+d.   2. Lag phase of bacterial growth curve   [05]
+CO-5; BL-2
+-   Explanation (2M)
+3. Virus
+-   Definition and example, if applicable (1M+0.5M)
+********** 3 **********
+````
+
 ## 2024-25 · Final-Exam · Sem 1 · Answer key · paper 892d3c86b75b
 
 - Departments: Data Science
@@ -8379,6 +9671,310 @@ Storage polysaccharides +example (1+0.5)
 Structural polysaccharides + example (1+0.5)
 Role of each polysaccharide (1)× 4
 ********** 4 **********
+````
+
+## 2024-25 · Re-Exam · Sem 5 · Answer key · paper d7b39325732f
+
+- Departments: Data Science
+- Programmes: BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038
+- Source: `00_Original_Downloads/2024/65247__Semester V__context_fixed.zip :: Re-Exam/BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038/Elements of Biology/ANS_Re-Exam_Elements of Biology(701BS0C028)_Semester V_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 15 Feb 2025
+- Text: mixed (4 pages), mean OCR confidence 77.1
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)
+Year: III/Sem 5 Re-exam(Exam Year: 2024-2025)
+Subject: Elements of Biology
+Date: 15 Feb 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks.
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+Q1 a Explain the types of reactions catalyzed by hydrolyase and lyases. What are some common examples of
+these enzymes?
+Hydrolyase (Definition + example )(1+1)
+Lyases (Definition + example )(1+1)
+b   Write the complementary DNA and RNA sequence for the given DNA sequence: 5’
+ACCCATGACGTTA 3’?
+DNA seq : 3’TGGGTACTGCAAT5’ (2)
+RNA seq: 3’UGGGUACUGCAAU5’ (2)
+c   Explain the functions of waxes in plants and animals?
+Plant function (2)
+Animal function (2)
+d   What role does bioremediation play in environmental cleanup, and how is it applied in the context of oil
+spills?
+Definition bioremediation (2)
+Oil spill example (2)
+e   What are some practical applications of algae? Why viruses are considered non-living?
+Any 2 Algae application (2)
+Virus significance (2)
+Q2
+a   What are the carbohydrates? Explain simple and complex carbohydrates with examples of each type.
+Definition of carbohydrates (2)
+Simple carbohydrates (monosaccharides definition + example )( 1+ 0.5)
+********** 1 **********
+--- page 2 ---
+(disaccharides definition + example )( 1+ 0.5)
+Complex carbohydrates (homopolysaccharides definition + example )( 1+ 0.5)
+(hetropolysaccharides definition + example )( 1+ 0.5)
+b   What is biomimicry? Provide a detailed example to illustrate process biomimicry application.
+Definition biomimicry (2)
+Detail example of process biomimicry (4)
+c   How do the processes of photosynthesis and cellular respiration create a balance that sustain life?
+Plant as source (2)
+Animal as consumer (2)
+Diagram (2)
+Q3
+a   What are incomplete dominance and co-dominance? What are the key differences between them?
+Definition incomplete dominance + example with Punnett square (2+1+1)
+Definition incomplete dominance + example with Punnett square (2+1+1)
+b   Illustrate all phases of bacterial growth curve. What is the significance of the log and stationary phase in
+bacterial growth curve?
+Graph (2)
+Lag phase + log phase + stationary phase +death phase (1+1+1+1)
+c   Explain Lock and key model in enzyme-substrate interactions.
+Explanation (4)
+Diagram (2)
+Q4
+a   Why are fruit flies (D. melanogaster) important in the medical research, and what characteristics make
+them suitable as model organisms?
+Attributes of model organisms (5)
+Medical importance (3)
+b   Outline the major differences between DNA and RNA, including their structural characteristics, types of
+nitrogenous bases, and primary functions within the cell.
+Atleast 3 points of difference each (6)
+c   Explain the citric acid cycle in detail, including the various substrates and products involved.
+Diagram (2)
+Process + Substrates and products involved (2+2)
+Q5
+********** 2 **********
+--- page 3 ---
+a   Illustrate DNA replication and describe the importance of enzymes used in the initiation stage of the
+process
+Diagram (4)
+Initiation process enzymes involved (helicase+ DNA primase) (2+2)
+b   What is enzyme inhibition? Describe the mechanisms of competitive, non-competitive type of enzyme
+inhibition.
+Enzyme inhibition process definition (1)
+Competitive enzyme inhibition process+ diagram + examples (1+1+0.5)
+Non-competitive enzyme inhibition process + diagram + examples (1+1+0.5)
+c   What are the roles of messenger RNA (mRNA), transfer RNA (tRNA), and ribosomal RNA (rRNA) in
+protein synthesis?
+Functions of mRNA+ rRNA+ tRNA (2+2+2)
+Q6
+a   Define the term Epistasis and with an example explain the concept of Dominant Epistasis
+Definition epistasis (1)
+Example explanation (2)
+Punnett Square (3) phenotypic ratios (2)
+b   What are endergonic and exergonic reactions, and can you give an example of each?
+Definition endergonic and exergonic reactions (2+2)
+Examples of each (1+1)
+c   What is bioinformatics, and how does it facilitate advancements in personalized medicine?
+Bioinformatics (2)
+Huntington explanation (4)
+Q7
+a   What design elements were inspired by the kingfisher, owl, and penguin in the Shinkansen Series 500
+train? How did these designs benefit Shinkansen Series 500 train?
+Kingfisher design, energy efficiency, Improved Energy Efficiency (2+2)
+Owl design, noise reduction (2)
+Penguin design, Increased Durability (2)
+b   Explain the differences between autotrophs, heterotrophs, and lithotrophs in terms of their energy and
+carbon utilization
+Autotroph+ heterotroph + lithotrophs (2+2+2)
+c   A recessive gene on X- chromosome is a diseased gene. Mother is a carrier and father is healthy. Draw a
+Punnett square and explain the probability of inheritance for the offspring. Also give an example for this
+type of disorder.
+********** 3 **********
+--- page 4 ---
+Examples (1)
+Punnett square (3)
+
+Phenotype ratios (2)
+
+FIC 7) IC HOH
+````
+
+## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 28a6557dd502
+
+- Departments: Information Technology
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (INFORMATION TECHNOLOGY) - 7041
+- Source: `00_Original_Downloads/2024/Semester II/69329__Re-Exam__context_fixed.zip :: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (INFORMATION TECHNOLOGY) - 7041/Elements of Biology/ANS_Re-Exam_Elements of Biology(702BS0C049)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Jul 2025
+- Text: text (3 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/MBA. Tech (AI)/MBA Tech
+(Comp)/MBA. Tech (DS)/MBA. Tech (IT)
+Year: I/Sem 2 Re-exam(Exam Year: 2024-2025)
+Subject: Elements of Biology
+Date: 03 Jul 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page
+3. Figure in right hand side indicates full marks
+4. Question No.1 is compulsory. Out of remaining questions, attempt any 4 questions
+5. In all, 5 questions to be attempted
+6. All questions carry equal marks
+7. Assume suitable data if necessary
+Q1   Answer briefly:   [20]
+In what ways is biology considered an interdisciplinary science? What
+significant advancements have resulted from its integration with engineering
+CO-1; BL-1   a. and technology?   04
+-   Significance of Biology in Engineering (2M)
+-   Biomimicry/biotechnology/bioremediation/bioinformatics (2M)
+Compare the nucleotide bases in DNA and RNA, highlighting their structural
+and functional differences and roles. Include an illustration of the nucleotide
+CO-2; BL-2   b.   structure.   04
+-   Comparison of structure and function; any three (3M)
+-   Diagram (1M)
+How do enzymes play an important role in industrial applications? Support
+CO-4; BL-1   c. your answer with two detailed examples.   04
+-   Any two biological significance of enzymes with at least one example
+(2M+2M)
+List the main stages of cellular respiration, and where do they occur within the
+CO-5; BL-1   d.   cell? Also, specify the number of ATP molecules produced at each stage.   04
+-   Location and number of ATPs produced at each stage (0.5M+0.5M) *4M
+Discuss any two types of autotrophs while providing an example of each type.
+How do autotrophs contribute to the recycling of organic matter in
+CO-5; BL-2   e. ecosystems?   04
+-   Explanation of any two types with an example (1M+0.5M)*2
+-   Significance in recycling (1M)
+List the types of proteins and lipids involved in forming cell membranes.
+Briefly explain their roles and provide an illustration to show their
+Q2   a. arrangement.   [05]
+CO-2; BL-1   -   Explanation of carrier/transport protein and phospholipid/sphingolipids
+(1M+1M)
+-   Illustration (1M+1M)
+Using a case study of biomimetic design, explain the key principles of
+Q2   b.   [10]
+biomimicry in engineering. How do these principles contribute to developing
+CO-1; BL-2   more sustainable and efficient data storage systems?
+********** 1 **********
+--- page 2 ---
+-   Definition of Biomimicry (1)
+-   Specific type of Biomimicry (design/process/ecosystem) (1.5)
+-   Example of design biomimicry (7.5)
+Describe any two types of RNA and their functions in cells. Illustrate their
+Q2   structures. Additionally, determine the complementary DNA sequence for the
+c.   [05]
+CO-3; BL-2   following RNA sequence: 3'-UUCAUCGAGUGA-5'.
+- Two types and their roles: mRNA, rRNA, and tRNA (1.5M+1.5M)
+-   5'-AAGT AGCT CACT-3' (2M)
+Define carbohydrates and explain their building blocks. Classify
+Q3   a. carbohydrates into types and subtypes, providing an example for each. Briefly
+discuss the importance of carbohydrates in human nutrition and health.   [10]
+CO-2; BL-2
+-   Carbohydrates and their functions (2M) along with Classification (5M) and
+examples (3M).
+Explain the following genetic terminology, providing examples where
+applicable:
+1. Co-dominance
+Q3
+b.   2. Alleles   [10]
+CO-3; BL-2   3. Homozygous and heterozygous alleles
+4. Genotype ratio
+5. Recessive epistasis
+- Definition and example if applicable (1M+1M)*5
+What criteria are used to select a model organism in biological research?
+Discuss how E. coli, S. cerevisiae, and D. melanogaster meet these criteria
+Q4   and the specific research areas they excel in. Provide an example of a disease
+CO-5; BL-2   a. studied using each organism.   [10]
+-   Ideal properties of a model organism (2.5M)
+-   The application of three organisms in medical science (2M+2M+2M)
+- A name of the disease studied using the model organism (1.5M)
+Recall the stages of cellular respiration, from glycolysis to the electron
+transport chain (ETC). Use a diagram or flowchart to illustrate the products
+Q4   and byproducts formed at each stage.
+b.   -   Glycolysis | Oxidation of pyruvate | Citric acid cycle/Kreb’s cycle | Electron   [10]
+CO-5; BL-1   transport chain (1.5M+1.5M+1.5M+1.5M)
+-   Illustration of the process (2M)
+-   The number of ATPs produced during each stage and components/enzymes
+involved in the overall process should be mentioned (2M)
+Define the central dogma of life. Summarize the translation process in protein
+synthesis while explaining the role of different RNAs and amino acids in
+converting RNA into functional proteins. Support your explanation with an
+Q5   a.
+appropriate diagram.   [10]
+CO-3; BL-2   - Explanation (4M)
+- Codon vs anti-codon (1M))
+- Role of mRNA and tRNA in translation (2.5M)
+- Diagram representing codon-anticodon match (2.5M)
+Compare reversible and irreversible enzyme inhibition. Summarize the
+different types of reversible inhibition and explain how they affect enzyme
+Q5
+b.   activity. Support your explanation with appropriate illustrations.   [10]
+CO-4; BL-2   -   Comparison (1M)
+-   Explanation of three types of reversible inhibition (2M+2M+2M)
+-   Diagrams (1M+1M+1M)
+Q6   The wing pattern of butterflies is controlled by two pairs of genes. Dominant   [10]
+CO-3; BL-2   a. gene W produces patterned wings, while the absence of it (ww) results in
+plain wings. Gene S produces blue coloration in the presence of W; however,
+********** 2 **********
+--- page 3 ---
+it cannot express in the absence of W (with ww), resulting in gray wings. How
+can a Punnett square analysis be employed to predict the genotypic and
+phenotypic ratios of offspring resulting from a cross between two plain-
+winged, gray butterflies: a male (SsWw) and a female (SsWw)? Additionally,
+specify the type of gene interactions involved in this scenario.
+-   Punnett square analysis (6M)
+-   Phenotypic (9:3:4) and genotypic ratios (14 heterozygous:1 homozygous
+dominant:1homozygous recessive) (2M)
+-   Determine the type of gene interaction (recessive epistasis) (1M)
+-   Determine hypostatic (S) and epistatic gene (ww) (1M)
+Explore a case study focused on designing a nanoparticle-based vaccine
+Q6   delivery system for cancer immunotherapy. Discuss the essential components
+b. of the system and evaluate its potential applications in improving cancer   [10]
+CO-6; BL-2
+therapy.
+-   Explanation (3M)
+-   Design, mechanisms of action, and potential benefits (2M+3M+2M)
+What are the fundamental principles of bioremediation, and how can its eco-
+friendly methods effectively address environmental engineering challenges?
+Q7   a. Provide an example, including the specific microorganism involved in the
+process.   [05]
+CO-1; BL-1
+-   Principle and explanation (2M)
+-   Example (name of an organism), mechanisms of action, and potential
+benefits (1M+2M)
+What does Vmax represent in enzyme kinetics, and how is it influenced by
+changes in substrate concentration and reaction conditions? Illustrate this
+relationship with a graph showing the effect of varying substrate concentration
+Q7   b.
+on the reaction rate.   [05]
+CO-4 BL-1   -   Michaelis-Menten equation (1M)
+-   Affinity of an enzyme for its substrate (1M)
+-   Relationship between K value and enzyme-substrate binding (1M)
+-   Illustration with a plot (2M)
+How is the balance between cellular respiration and photosynthesis
+maintained in nature? Explain the mechanisms and factors that contribute to
+Q7   c.   [05]
+this equilibrium in living organisms.
+CO-5; BL-2   -   Reaction balance between cellular respiration and photosynthesis (2M)
+-   Mechanisms and factors contributing to equilibrium (3M)
+Write a brief note of the following:
+1. Ureotelic organisms
+-   Definition and example, if applicable (1M+0.5M)
+Q7   d.   [05]
+2. Lithotrophs
+CO-5; BL-2   -   Definition and example, if applicable (1M+0.5M)
+3. Exponential phase of bacterial growth curve
+-   Explanation (2M)
+********** 3 **********
 ````
 
 ## 2024-25 · Re-Exam · Sem 1 · Answer key · paper 99ac688fac44

@@ -1,6 +1,6 @@
 # Smart Cities
 
-**57** unique papers (75 copies across programmes) · 2023-24 to 2025-26 · 25 programmes · Sem 5, Sem 6, Sem 9, Sem 10
+**59** unique papers (77 copies across programmes) · 2023-24 to 2025-26 · 26 programmes · Sem 5, Sem 6, Sem 9, Sem 10
 
 Download only this subject, sorted by academic year:
 
@@ -15,6 +15,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH, B.TECH INTEGRATED, MBA TECH | Smart Cities 2025-26 Final Exam.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 10 | BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038 | QP_Final-Exam_Smart Cities(702CI0I008)_Semester X_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech Civil 7005 | QP_Smart Cities(702CI0I008)_2025-2026.docx |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Civil 7005 | QP_Smart Cities(702CI0I008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Computer 7002 | QP_Smart Cities(702CI0I008)_2025-2026.pdf |
@@ -34,6 +35,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech Computer 7047 | QP_Smart Cities(702CI0I008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech DS 7052 | QP_Smart Cities(702CI0I008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech IT 7041 | QP_Smart Cities(702CI0I008)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038 | ANS_Final-Exam_Smart Cities(702CI0I008)_Semester X_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 5 | BTech Civil 7005 | ANS_Smart Cities(702CI0I008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Civil 7005 | ANS_Smart Cities(702CI0I008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Smart Cities(702CI0I008)_2025-2026.pdf |

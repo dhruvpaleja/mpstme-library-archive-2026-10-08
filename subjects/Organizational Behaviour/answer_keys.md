@@ -2,6 +2,273 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 1 · Answer key · paper ae7bb906aa0b
+
+- Departments: Commerce
+- Programmes: MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703/Organisational Behaviour/ANS_Final-Exam_Organisational Behaviour(NKOGB502)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 10 Nov 2025
+- Text: text (12 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: M.Com (BM)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Organisational Behaviour
+Date: 10 Nov 2025   Time: 11:00 am - 01:00 pm (02:00 Hrs.)
+Max Marks: 60
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 12 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 and 3 are compulsory.
+5. From Question No. 2 attempt any two.
+6. Use illustration wherever deemed necessary.
+1. Answer the following question.   15
+a) 2 marks for each points of component
+b) 1 mark for each points of factor that lead to job satisfaction
+Page 1 of 12
+--- page 2 ---
+b)
+Critically Evaluate the Major Factors Contributing to Employee Job Satisfaction
+1.   Nature of the Work Itself
+o Jobs that are meaningful, challenging, and allow employees to utilize their skills generally
+enhance satisfaction.
+o Autonomy and task variety increase engagement, while monotonous or repetitive work
+often leads to boredom and dissatisfaction.
+o Critically, even meaningful work can fail to motivate if workload is excessive or
+expectations are unclear.
+2. Payo Fair and competitive compensation helps employees feel valued and secure.
+o Research shows that beyond a certain point, pay alone does not sustain long-term
+satisfaction; intrinsic motivators like recognition and career growth often outweigh monetary
+rewards.
+o Overemphasis on pay can lead to entitlement attitudes, reducing intrinsic motivation.
+3. Promotion Opportunitieso Career advancement opportunities enhance motivation and
+loyalty, giving employees a sense of progress and achievement.
+o Opportunities for skill development and new responsibilities contribute to professional
+growth.
+o Lack of clear promotion paths can cause stagnation and disengagement.
+Page 2 of 12
+--- page 3 ---
+4.   Supervision
+o Supportive, fair, and competent supervisors foster a sense of guidance and respect.
+o Constructive feedback and recognition from managers improve morale and job
+satisfaction.
+o Poor supervision, favoritism, or lack of leadership skills can negate other positive aspects
+of the job.
+5. Coworker Relationships
+o Positive relationships with peers create a collaborative and friendly environment.
+o Mutual respect and teamwork enhance emotional well-being and satisfaction.
+o Toxic or competitive coworker dynamics can severely harm morale and increase turnover
+intentions.
+6.   Personality Traits
+o Individuals with positive self-evaluations, optimism, and resilience tend to experience
+higher satisfaction.
+o Personality shapes how employees perceive challenges and rewards at work.
+o However, a mismatch between personality and job demands (e.g., highly independent
+employees in rigid roles) can reduce satisfaction.
+7.   Perceived Organizational Support
+o Feeling valued and supported by the organization increases loyalty and engagement.
+o Support includes recognition, resources, and responsiveness to employee needs.
+o A lack of organizational support fosters feelings of neglect, lowering satisfaction even in
+otherwise favorable work conditions.
+8.   Work-Life Balance
+o Flexibility in work hours, leave policies, and support for personal life contributes to
+satisfaction.
+o Employees with good work-life balance experience lower stress and higher motivation.
+o Organizations ignoring balance risk burnout and absenteeism, which decrease overall job
+satisfaction.
+9. Job Security
+o Stability in employment reduces anxiety and allows employees to focus on performance.
+o High job insecurity can lead to stress, low engagement, and increased turnover.
+o Even well-compensated jobs may fail to satisfy employees if they feel their role is at
+constant risk.
+10. Recognition and Rewards
+·   Timely recognition of achievements reinforces motivation and a sense of
+accomplishment.
+·   Reward systems, both intrinsic (praise, acknowledgment) and extrinsic (bonuses,
+awards), strengthen satisfaction.
+·   Absence of recognition, even in high-performing employees, leads to frustration and
+disengagement.
+Page 3 of 12
+--- page 4 ---
+2.   Answer the following questions.(Attempt Any 2 Questions)   30
+A. 15 marks for any 15 points well discussed.   15
+Definitions
+Emotions are intense, short-lived affective states that arise in response to a specific stimulus
+or event.
+Six Universal Emotions
+1.   Happiness
+2.   Surprise
+3.   Fear
+4.   Sadness
+5.   Anger
+6.   Disgust
+Moods are less intense but longer-lasting affective states that are not necessarily linked to a
+specific event or stimulus.
+Mood Dimensions
+1. 1.Positive Affect (PA) refers to the extent to which a person feels enthusiastic, active, and
+alert.
+2. Negative Affect (NA) reflects the degree of distress and unpleasurable engagement.
+Functions of emotions
+1.   Emotions as Communication Signals
+2.   Emotions as Decision-Making Aids
+3.   Emotions as Motivators
+4.   Emotions as Social Regulators
+5.   Emotions as Feedback Mechanisms
+6.   Emotions in Conflict and Cooperation
+Page 4 of 12
+--- page 5 ---
+Sources of Emotions and Moods
+1.   Personality
+2.   Time of Day/Week
+3.   Weather
+4.   Stress
+5.   Sleep
+6.   Social Activities
+7.   Exercise
+8. Age and Gender
+B. a) 3 Marks for ABC model + 2 mark for example   15
+b) 3-3.5 for any 3 theories well explained.
+a) ABC Model:
+Antecedents: Factors that precede and affect the leader's behavior.
+Behaviors: The actions or conduct of the leader.
+Consequences: The outcomes or effects of the leader's behaviors on followers and the
+situation.
+The ABC Model in leadership is a framework that describes how antecedents, behaviors, and
+consequences are linked to the actions and effectiveness of leaders. It focuses on how certain
+factors (antecedents) influence a leader’s behavior, and how that behavior impacts outcomes
+(consequences) in an organization or team. This version of the ABC Model is commonly used
+in leadership studies, organizational behavior, and performance management.
+b)
+Contingency Theories
+Fiedler's Contingency Model: Proposes that a leader's effectiveness is contingent on the
+match between the leader's style and the degree to which the situation allows the leader
+to exert control and influence.
+Page 5 of 12
+--- page 6 ---
+Fiedler's Contingency Model is a leadership theory developed by Fred Fiedler in the 1960s.
+The model proposes that the effectiveness of a leader is contingent upon the interplay between
+the leader's style and the favorableness of the situation. It suggests that no single leadership
+style is universally effective; instead, a leader's success is determined by how well their
+leadership style matches the specific situation.
+Components of Fiedler's Contingency Model:
+1. Leadership Style: Fiedler categorized leaders as either task-oriented or relationship-
+oriented, based on their focus:
+Task-oriented leaders prioritize the completion of tasks and goals, focusing on
+productivity and structure.
+Relationship-oriented leaders prioritize building relationships, team cohesion, and
+supporting the well-being of followers.
+To determine a leader’s style, Fiedler developed the Least Preferred Co-worker (LPC) Scale.
+Leaders who describe their least preferred co-worker in relatively positive terms are
+considered relationship-oriented, while those who describe them negatively are considered
+task-oriented.
+2. Situational Favorableness: The effectiveness of a leader is also influenced by the
+situation's favorableness, which is determined by three factors:
+Leader-Member Relations: The level of trust, respect, and confidence between the
+leader and the group.
+Task Structure: How clearly defined and structured the task is. A well-structured task
+provides clear objectives and procedures.
+Position Power: The degree of authority the leader has to reward or punish followers.
+Leaders with more formal authority are in a more favorable situation.
+3. Matching Leadership Style with Situational Favorableness: Fiedler argued that task-
+oriented leaders perform best in situations that are either very favorable or very
+unfavorable, where there is either high or low control. Relationship-oriented leaders are
+more effective in moderately favorable situations, where interpersonal skills and
+cooperation are needed to improve team performance.
+Application:
+In highly favorable situations: (good leader-member relations, structured task, strong
+position power), a task-oriented leader will thrive by maintaining the focus on tasks.
+Page 6 of 12
+--- page 7 ---
+In highly unfavorable situations: (poor leader-member relations, unstructured task, weak
+position power), a task-oriented leader will also be effective by imposing structure and
+driving results.
+In moderately favorable situations: a relationship-oriented leader will be more effective by
+emphasizing team dynamics and fostering collaboration.
+Hersey-Blanchard Situational Leadership Theory: Suggests that successful
+leadership is dependent on the leader's ability to adapt their style to the maturity level
+of the followers.
+Page 7 of 12
+--- page 8 ---
+Path-Goal Theory: Focuses on how leaders can motivate their followers to achieve
+goals by clarifying the path to those goals and removing obstacles.
+Page 8 of 12
+--- page 9 ---
+C.   15
+5 marks for any 5 points on forces of change and 10 marks for any 10 points on overcome
+resistance.
+Forces of Change External Factors
+•Social Factors
+•Legal Factors
+•Economic Factors
+•Political Factors
+Page 9 of 12
+--- page 10 ---
+•Technological Factors
+Internal Factors
+•Change in Ownership
+•Poor Performance
+•Change in Leadership
+•Overcome Stagnation
+Resistance Change
+1   Fear of the Unknown
+2 .   Lack of Awareness
+3.   Change in Role or Responsibilities
+4.   Previous Negative Experiences
+5.   Inadequate Support from Management
+6.   Comfort with Current Practices
+7.   Uncertainty Regarding Change: “The Comfort Zone”
+8.   Disruption of Routine
+9.   Loss of Benefits: “What’s in It for Me?”
+10. Threat to Security
+11. Threat to Position Power
+12. Redistribution of Power
+13. Disturb Existing Social Networks
+14. Conformity to Norms and Culture
+3. Read 2 marks the case for and all answer 5 points the explained following with question.. accurate identification.   15
+1. Deepa – Shows high conscientiousness (careful, detail-focused, reliable) but lower
+extraversion as she prefers working quietly on tasks.
+Page 10 of 12
+--- page 11 ---
+Imran – Displays high extraversion and moderate openness (energetic, fast-paced, confident),
+but lower conscientiousness, leading to occasional mistakes.
+Farah – Reflects high extraversion (sociable, outgoing) and openness (creative ideas), but
+lower conscientiousness when handling repetitive tasks.
+Nikhil – Demonstrates high conscientiousness (organized, disciplined) and lower openness
+(prefers routine over innovation), with low extraversion.
+Meera – Shows high agreeableness (supportive, cooperative, empathetic) and emotional
+stability, remaining calm during stress.
+Sameer – Reflects openness (critical thinking, questioning norms) but lower agreeableness, as
+he often creates friction by challenging others.
+5 marks for any 5 points explained
+2.   1.   Core Self-Evaluations refer to a broad personality trait that encompasses an
+individual's fundamental assessments about themselves and their capabilities. It includes four
+components: self-esteem, self-efficacy, locus of control, and emotional stability.
+2.   Machiavellianism is characterized by a person's tendency to be manipulative,
+strategic, and pragmatic in their interactions with others. Individuals high in this trait often
+prioritize personal gain over ethical considerations and may use deceit or flattery to
+achieve their goals.
+3.   Narcissism involves an inflated sense of self-importance, a deep need for
+admiration, and a lack of empathy for others. Narcissistic individuals often seek leadership
+roles and may initially impress others with their confidence and charisma.
+4.   Risk-taking is the willingness to engage in behaviors that involve uncertainty or
+potential loss in pursuit of a reward. In organizational contexts, risk-takers are often seen
+as innovators and change agents who challenge the status quo.
+Page 11 of 12
+--- page 12 ---
+5. A proactive personality is marked by the tendency to take initiative and effect
+change rather than passively reacting to circumstances. Proactive individuals identify
+opportunities, anticipate problems, and act in advance to address them.
+Resilience refers to an individual's ability to recover from setbacks, adapt to change, and
+maintain performance under pressure. Resilient employees are emotionally strong,
+optimistic, and capable of handling workplace stress without becoming overwhelmed.
+Page 12 of 12
+````
+
 ## 2025-26 · Final-Exam · Sem 8 · Answer key · paper db5817c6c4d8
 
 - Departments: Electronics and Telecommunication
@@ -2507,6 +2774,274 @@ Use periodic performance reviews, feedback loops, and skills-gap
 analysis to continuously refine team composition as the company
 scales.
 ********** 6 **********
+````
+
+## 2024-25 · Re-Exam · Sem 8 · Answer key · paper e636ffc73f7b
+
+- Departments: Computer Engineering
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTER ENGINEERING) - 7047
+- Source: `00_Original_Downloads/2024/67754__Semester VIII__context_fixed.zip :: Re-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTER ENGINEERING) - 7047/Organizational Behaviour/ANS_Re-Exam_Organizational Behaviour(703TG0C005)_Semester VIII_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 04 Jul 2025
+- Text: mixed (6 pages), mean OCR confidence 27.6
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (DS)/MBA.
+Tech (EXTC)/MBA. Tech (IT)/MBA. Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2024-2025)
+Subject: Organizational Behaviour
+Date: 04 Jul 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 6 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No.1 is compulsory. Attempt Any 4 questions from the remaining questions
+5. In all 5 questions are to be attempted
+Q1
+Answer briefly:   [10]
+a.   Cognitive Dissonance
+Ans.Cognitive dissonance is the mental discomfort a person feels when
+CO-1 ; BL-2   they hold conflicting beliefs, attitudes, or behaviors. To reduce this [2]
+tension, individuals often change their beliefs or justify their actions to
+restore internal consistency.
+b.   Determinants of Personality
+Ans. Determinants of personality include heredity, environment, and
+CO- 1; BL-2   [2]
+situational factors. These influence an individual's behavior, traits, and
+psychological patterns over time.
+c.   Virtual Organizations
+Ans. Virtual organizations are digitally connected companies where
+CO- 1; BL-2   employees work remotely and collaborate through technology rather [3]
+than a physical office. They offer flexibility, cost efficiency, and access
+to global talent.
+d.   Ideal Self Vs Real Self
+Ans. The ideal self is who a person aspires to be, based on goals and
+CO- 1; BL-2   values, while the real self is who they actually are, including their [3]
+current traits and behaviors. A large gap between the two can lead to
+self-esteem issues or internal conflict.
+How can action research be used to foster a culture of continuous
+improvement and innovation within an organization?
+Answer
+Applying Action Research to Improve Customer Satisfaction
+Scenario:
+Q2
+A customer service department receives inconsistent feedback, with   [10]
+CO-2; BL-5
+complaints about long response times and miscommunication.
+Action Research Cycle:
+Diagnose: Conduct customer satisfaction surveys and internal
+workflow analysis to find bottlenecks.
+Plan: Develop new response guidelines and implement a chatbot for
+********** 1 **********
+--- page 2 ---
+quick responses.
+Act: Train customer service reps and launch the chatbot.
+Observe: Monitor response times and customer feedback over 3
+months.
+Reflect & Adjust: Fine-tune chatbot scripts, enhance training, and
+repeat the cycle.
+Result:
+✔ 20% improvement in customer satisfaction scores.
+✔ 30% reduction in response time.
+Evaluate how selective perception and the halo effect impact
+performance appraisals in fast-growing Indian startups like Boat and
+Zomato
+Answer:
+Selective Perception: Managers may favour employees based on past
+Q3   interactions, leading to biased performance reviews.   [10]
+CO-2; BL-4
+Halo Effect: A single outstanding project may lead to an employee being
+rated highly overall, even if other areas need improvement.
+Example: Zomato’s sales incentive structure faced challenges due to
+biases in leader evaluations of performance, leading to a restructuring of
+appraisal methods.
+ABC Tech is a rapidly growing software company that started as a small
+start-up but has now expanded to multiple regions. Initially, decision-
+making was centralized with the CEO, but as the company grew, this
+structure led to inefficiencies in responding to regional market demands.
+a.   Analyze which organizational structure would be most
+suitable for ABC Tech at its current stage and justify your
+choice with two key advantages and one potential challenge.
+[5 Marks]
+b.   Evaluate the impact of transitioning from a tall hierarchical
+structure to a flat structure in terms of 1. Employee
+empowerment 2. Speed of decision-making and 3. Managerial
+control. [5 Marks]
+Q4
+[10]
+CO-2; BL-4   Answer:
+a) A decentralized, divisional organizational structure (based
+on regions or products) is most suitable for ABC Tech at its
+current stage of growth.
+Justification:
+As the company operates in multiple regions, a divisional structure
+allows each regional division to operate semi-autonomously, making
+decisions aligned with local market needs. This structure decentralizes
+authority, enabling faster, more context-specific responses.
+b)
+********** 2 **********
+--- page 3 ---
+1. Employee Empowerment – Positive Impact
+A flat structure reduces layers of management, encouraging open
+communication and giving employees more autonomy. This fosters
+innovation, ownership, and faster career growth, which is especially
+important in tech industries.
+2. Speed of Decision-Making – Positive Impact
+With fewer approval layers, decisions can be made more quickly. This
+agility is crucial in responding to market changes, launching updates,
+or resolving customer issues rapidly.
+3. Managerial Control – Mixed Impact
+While managers may lose some direct oversight due to a broader span
+of control, they are encouraged to focus more on leadership, coaching,
+and strategic alignment rather than micromanagement. However,
+without proper systems, this could lead to inconsistencies or a lack of
+direction.
+A project manager is leading a team tasked with launching a new
+product. Some team members are highly experienced, while others are
+newer and require more guidance. The manager adapts their leadership
+style to the situation: for the experienced members, the manager
+provides them with clear goals and lets them work independently,
+while for the less experienced members, the manager offers more
+direction and support. Additionally, the manager frequently checks in
+to ensure the team is motivated and removes obstacles that might
+hinder progress.
+Based on the scenario, identify the leadership theory being
+demonstrated. Evaluate the effectiveness of this approach in motivating
+and guiding the team to success. Do you think this approach is suitable
+in all situations, or are there specific contexts where it might not work
+Q5
+as well?
+CO-2;   [10]
+BL-5
+Answer: The leadership theory being demonstrated in the scenario is
+the Path-Goal Theory, developed by Robert House. This theory
+suggests that a leader’s primary role is to clear the path for
+subordinates to achieve their goals by choosing a leadership style that
+best fits the employee's needs and the work environment. The four
+main styles within this theory are directive, supportive, participative,
+and achievement-oriented.
+This approach is effective because it recognizes that different team
+members require different levels and types of leadership.
+However, this approach may not be suitable in every context. For
+example, in environments where roles are highly standardized or where
+leaders lack the time or skill to adapt their style, a path-goal approach
+********** 3 **********
+--- page 4 ---
+may be difficult to implement. Additionally, constantly shifting styles
+can confuse team members if not done clearly and consistently.
+In conclusion, the Path-Goal Theory is highly effective in dynamic,
+team-based environments with diverse needs—as seen in the
+scenario—but requires a skilled, adaptable leader and a supportive
+organizational culture to work well.
+Two employees in the same organization show a decline in performance.
+One is offered performance-based incentives, while the other is given
+more autonomy and meaningful tasks. Evaluate the effectiveness of
+these two motivational strategies. Which approach do you think is more
+sustainable in the long term, and why? Support your answer with
+relevant motivational theories.
+Answer: The two strategies used reflect different motivational
+approaches: the first is extrinsic motivation (performance-based
+incentives), and the second is intrinsic motivation (autonomy and
+meaningful work).
+Performance-based incentives may offer short-term boosts in
+productivity. According to Skinner’s reinforcement theory and
+Q6
+expectancy theory, if employees believe that effort will lead to
+CO-2;   [10]
+rewards, motivation increases. However, over-reliance on external
+BL-5
+rewards can lead to diminishing returns and may not sustain motivation
+when rewards stop.
+On the other hand, giving employees autonomy and purpose aligns
+with Self-Determination Theory, which emphasizes intrinsic
+motivation as a key driver of long-term engagement. When employees
+feel their work is meaningful and they have control over how it is done,
+they are more likely to remain committed and satisfied over time.
+Conclusion: While both strategies can be effective, intrinsic
+motivation through autonomy and meaningful work is more
+sustainable long-term. It supports personal growth and job satisfaction,
+leading to consistent performance even without external rewards.
+Design a high-performance team model that optimally integrates process
+factors such as efficacy, autonomy, purpose, goals, mental models,
+conflict management, and accountability. Explain how your design
+enhances team effectiveness and adaptability in a fast-paced,
+Q7   competitive industry. Provide a framework for measuring and improving
+[10]
+CO-1; BL-6   these process factors over time.
+Answer7:
+Faster Decision-Making through autonomy and clear roles.
+********** 4 **********
+--- page 5 ---
+Higher Engagement & Retention due to purpose-driven work
+Better Problem-Solving & Innovation via constructive conflict
+and diverse mental models
+Agility in Execution thanks to shared goals and aligned
+expectations
+Sustained High Performance as a result of mutual accountability
+and trust
+Improvem
+Measuremen
+Factor   ent
+t Tools
+Strategy
+Autonomy   Delegate
+surveys,   decision
+Autonomy   decision   rights, set
+turnaround   clear role
+time   boundaries
+Confidence   Recognize
+Collective   ratings, team   achieveme
+Efficacy   retrospective   nts, peer
+s   coaching
+Regular
+Engagement   purpose
+surveys,   workshops
+Purpose
+alignment   , impact-
+checks   sharing
+sessions
+Goal   Weekly
+completion   planning,
+Goals   rate,   transparent
+milestone   goal
+tracking   dashboards
+Miscommuni
+Training,
+cation
+Mental   playbooks,
+frequency,
+Models   cross-role
+shared task
+shadowing
+accuracy
+Conflict   Conflict
+resolution   resolution
+Conflict
+time,   workshops
+Management
+psychologica   , peer
+l safety index mediation
+Create
+Task
+shared
+ownership
+KPIs, use
+Accountabili   logs, peer
+agile
+ty   evaluations,
+sprints &
+feedback
+regular
+frequency
+reviews
+********** 5 **********
+--- page 6 ---
+FIC 6 I HF
 ````
 
 ## 2024-25 · Re-Exam · Sem 8 · Answer key · paper 9eb91801081d

@@ -1,6 +1,6 @@
 # Introduction to Electrical and Electronics Engineering
 
-**26** unique papers (26 copies across programmes) · 2022-23 to 2025-26 · 6 programmes · Sem 2
+**30** unique papers (30 copies across programmes) · 2022-23 to 2025-26 · 7 programmes · Sem 2
 
 Download only this subject, sorted by academic year:
 
@@ -17,9 +17,13 @@ Also filed as: `INTRODUCTION TO ELECTRICAL AND ELECTRON`
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | QP_Introduction to Electrical and Electronics Engineering(701EX0C003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEERING - 7074 | QP_Final-Exam_Introduction to Electrical and Electronics Engineering(701EX0C003)_Semester II_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | QP_Introduction to Electrical and Electronics Engineering(701EX0C003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | QP_Final-Exam_Introduction to Electrical and Electronics Engineering(701EX0C003)_Semester II_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Introduction to Electrical and Electronics Engineering(701EX0C003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEERING - 7074 | ANS_Final-Exam_Introduction to Electrical and Electronics Engineering(701EX0C003)_Semester II_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | ANS_Introduction to Electrical and Electronics Engineering(701EX0C003)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_Final-Exam_Introduction to Electrical and Electronics Engineering(701EX0C003)_Semester II_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | DIPLOMA | Introduction to Electrical and Eletronics Engineering Batch 2024-25,2025-26 Re Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | DIPLOMA | Introducation to Electrical and Electronics Engineering Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | QP_Introduction to Electrical and Electronics Engineering(701EX0C003)_2024-2025.pdf |

@@ -2486,7 +2486,6 @@ bs
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/DISCRETE STRUCTURES/DISCRETE STRUCTURES B TECH (COMPUTER), BATCH 2014-15 RE EXAM.pdf`
 - Printed on paper: exam date: 30/11/2015
 - Text: ocr (4 pages), mean OCR confidence 85.2
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 \ SVKM’s NMIMS
@@ -2651,6 +2650,7 @@ how io write
 e in the
 
 (c) Show that the set of integers with the composition oand * defined by Cos)
+achb=a+b+land a*b=abt+atb isaring.
 
 4/4
 ````

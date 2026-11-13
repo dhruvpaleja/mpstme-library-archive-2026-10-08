@@ -1,6 +1,6 @@
 # Radiating Systems and Wave Propagation
 
-**6** unique papers (8 copies across programmes) · 2017-18 to 2019-20 · 2 programmes · Sem 5
+**9** unique papers (11 copies across programmes) · 2017-18 to 2019-20 · 3 programmes · Sem 5, Sem 7
 
 Download only this subject, sorted by academic year:
 
@@ -17,9 +17,12 @@ Also filed as: `RADIATING SYSTEMS AND WAVE PROPGATION`
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2019-20 | Final + Re-Exam | Question paper | Sem 5 | B TECH / EXTC, MBA TECH / EXTC | Radiating systems ....Final 2019-20,Re-exam 17-18-19.pdf |
+| 2019-20 | Final + Re-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / EXTC | Radiating_Systems_and_Wave_Propagation_2019-20_Final_Batch_2018-19_Re_Exam_4COIfGLIaE.pdf |
+| 2018-19 | Final-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / EXTC | Radiating_Systems_and_Wave_Propagation_2018-19_Final_klCt5kRkjO.pdf |
 | 2018-19 | Re-Exam | Question paper | Sem 5 | B TECH / EXTC | RADIATING SYSTEMS AND WAVE PROPAGATION BATCH 17-18 18-19 RE EXAM.pdf |
 | 2018-19 | Re-Exam | Question paper | Sem 5 | B TECH / EXTC, MBA TECH / EXTC | Radiating systems and wave propagation F 18-19 Re-exam 17-18.pdf |
 | 2017-18 | Final-Exam | Question paper | Sem 5 | B TECH / EXTC | RADIATING SYSTEMS AND WAVE PROPAGATION (EXTC), FINAL EXAM 2017-18.pdf |
+| 2017-18 | Final-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / EXTC | Radiating_Systems_and_Wave_Propagation_2017-18_Final_APGYGW6CLE.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 5 | B TECH / EXTC | RADIATING SYSTEMS AND WAVE PROPAGATION BATCH 17-18 RE EXAM 2017-18.pdf |
 | — | Re-Exam | Question paper | Sem 5 | MBA TECH / EXTC | Radiating systems and wave propagation Re-exam 17-18-19.pdf |
 

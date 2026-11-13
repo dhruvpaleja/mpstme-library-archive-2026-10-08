@@ -1,6 +1,6 @@
 # Physics: question papers in full
 
-105 unique papers · 2022-23 to 2025-26 · Data Science, Information Technology, Common (all branches), Artificial Intelligence, Computer Engineering, Electronics and Telecommunication, AI and Data Science, Computer Science and Business Systems, Cyber Security, Mechatronics, AI and Machine Learning, Computer Science, Civil, Mechanical
+111 unique papers · 2022-23 to 2025-26 · Data Science, Information Technology, Common (all branches), Artificial Intelligence, Computer Engineering, Electronics and Telecommunication, AI and Data Science, Computer Science and Business Systems, Cyber Security, Mechatronics, Civil, AI and Machine Learning, Computer Science, Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -779,6 +779,121 @@ CO-5; BL- 2 Discuss the process of dielectric polarization with suitable diagram
 FIR GK QR
 
 .
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper 2a5bef4036e7
+
+- Departments: Mechanical
+- Programmes: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) - 7003
+- Source: `00_Original_Downloads/2025/Semester II/75268__Re-Exam.zip :: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) - 7003/Physics/QP_Re-Exam_Physics(702BS0C002)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2026
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (CIVIL)/B. Tech (MECH)
+Year: I/Sem 2 Re-exam(Exam Year: 2025-2026)
+Subject: Physics
+Date: 01 Jul 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks.
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. Assume suitable data wherever necessary.
+7. Use non-programmable scientific calculator.
+Given: h = 6.625 x 10-34 J-s = 4.14 x 10-15 eV-s, Speed of light, c = 3 x 108 m/s,
+electronic mass, me = 9.11 x 10-31 kg, electronic charge,
+e = 1.6 x 10-19 C, Boltzmann’s constant, kB = 1.38 x 10-23 J/K.
+Q1   Answer briefly:   [20]
+CO-1;   a.   List any four differences between direct and indirect bandgap semiconductors.   4
+BL-1,2
+b. Monochromatic light of λ = 6560Å falls normally on the grating 3 cm wide. The
+CO-2 ;   second order spectrum is produced at an angle 22 degree from the normal. What 4
+BL-1,2   is the total number of lines on the grating?
+CO-3 ;   c. Explain absorption and stimulated emission with suitable diagrams.   4
+BL-1,2
+CO-4 ;   d. State the differential form of continuity equation and give its physical 4
+BL-1,2   significance.
+CO-5 ;   e. Give any four differences between bottom-up and top-down production 4
+BL-1,2   techniques of nanomaterials.
+Q2   [20]
+a. Find the expression for the energy of the Fermi level for intrinsic
+CO-1 ;   semiconductors.   10
+BL-2,3   In a system with a Fermi energy of EF = 6 eV, find the probability of an energy
+state 5kT below the Fermi level being occupied by an electron at 400 K?
+CO-2;   b. Describe the two methods for obtaining multiple coherent sources from a single 6
+BL-2,3   light source. Why thick films do not show interference patterns?
+c. There are two concentric spherical metallic shells. The radius of the inner
+CO-4;   metallic shell having a charge of 5 C is 2 cm while the radius of the outer 4
+BL-3   metallic shell having a charge of -3 C is 5 cm. Using Gauss’s law, calculate
+the electric field at 3 cm and 7 cm.
+Q3   [20]
+a. Obtain the expression for the diameter of Newton’s rings and the condition for
+bright rings with a proper labeled diagram.
+CO-2;   A Newton’s ring arrangement is used with a source emitting two wavelengths 10
+BL-2,3   𝜆1 = 650 nm and 𝜆2 = 640 nm and it is found that the nth dark ring due to 𝜆1
+coincides with (n + 1)th dark ring for 𝜆2. If the radius of curvature of the curved
+surface is 80 cm, find the diameter of the nth dark ring.
+********** 1 **********
+--- page 2 ---
+CO-5;   b. Explain in brief (i) Scanning Electron Microscope and (ii) Atomic Force   6
+BL-2,3   Microscope techniques for characterizing nanomaterials.
+c. A UHF television loop antenna has a diameter of 10 cm. The magnetic field of
+CO-4;   a TV signal is normal to the plane of the loop and, at one instant of time, its 4
+BL-3   magnitude is changing at the rate 0.16 T/s. The magnetic field is uniform.
+Calculate the emf induced in the antenna.
+Q4   [20]
+CO-3;   a.   10
+Explain the construction and working of He-Ne laser with appropriate diagrams.
+BL-1,2
+b. State the Coulomb’s law of electrostatics with its mathematical form.
+CO-4;   Two point charges Q1 and Q2 are located at (0, 4, 3) and (0, 1, 1). If Q1 is 3 nC, 6
+BL-2,3
+find Q2 such that the force on a test charge at ( 0 , 2 , 4 ) has no Z component.
+CO-5;   c. A superconductor’s Tc drops from 15 K to 14.52 K when isotope mass   4
+BL-3   increases from 120 to 128. Check whether this follows the expected α=0.5.
+Q5   [20]
+a. Summarize Maxwell’s equations in differential form and explain what physical
+CO-4;   phenomena each represents.   10
+BL-2,3   Calculate the value of magnetic field of the circular coil at the centre with 6 m
+radius and 5 A current flowing through it.
+CO-5;   b. Explain the phenomenon of (a) Meissner Effect and (b) Critical current density 6
+BL-2,3   in superconductor with appropriate diagrams.
+c.   Calculate the resistance of an intrinsic germanium rod (2 cm long, 3 mm wide,
+CO-1;   4 mm thick) at 300 K. Given: ni = 5 x 10¹⁹ m⁻³, µe = 0.39 m²/V·s, µh = 0.19   4
+BL-3
+m²/V·s.
+Q6   [20]
+a.
+CO-2;   Define (a) interference (b) diffraction grating (c) dispersive power and (d) 10
+BL-1,2   resolving power of grating.
+b.   Explain Hall effect with appropriate diagram. Discuss the applications of Hall
+CO-1;   effect in determining the concentration and mobility of charge carriers with the 6
+BL-2,3
+help of proper mathematical expressions.
+c.   Optical power of 1 mW is launched into an optical fiber of length 150 m. If the
+CO-3;   power emerging from the other end is 0.4 mW, calculate the fiber attenuation in 4
+BL-2,3
+dB/km.
+Q.7   [20]
+a. Explain the following terms related to optical fiber: a) critical angle, b)
+CO-3;   acceptance angle, c) numerical aperture, d) V-number and e) fractional 10
+BL-2,3
+refractive index with proper mathematical expressions.
+b. Calculate the Hall coefficient and electron mobility of germanium (length: 2 cm,
+CO- 1;   breadth: 5 mm, thickness: 3 mm). (Given: I = 8 mA, V = 1.35 V, Hall voltage 6
+BL-3
+= 20 mV, B = 0.45 Wb/m²).
+c.   Calculate the penetration depth of a superconductor at 6 K, if the critical
+CO-5;   temperature of the superconductor is 10 K and the penetration depth is 30 nm at 4
+BL-3
+0 K.
+********** 2 **********
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · paper cbf2ef46f697
@@ -2576,6 +2691,130 @@ i
 10
 ````
 
+## 2024-25 · Final-Exam · Sem 2 · paper 3bfa613cf268
+
+- Departments: Civil
+- Programmes: BACHELOR OF TECHNOLOGY(CIVIL ENGINEERING) - 7005
+- Source: `00_Original_Downloads/2024/Semester II/67783__Final-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY(CIVIL ENGINEERING) - 7005/Physics/QP_Final-Exam_Physics(702BS0C002)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (CIVIL)/B. Tech - (CSEDS)/B. Tech (MECH)
+Year: I/Semester II(Exam Year: 2024-2025)
+Subject: Physics
+Date: 02 May 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of the remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. Assume Suitable data if necessary.
+Q1   Answer briefly:
+CO-1; K-   a.
+Define intrinsic and extrinsic semiconductors. List any four differences between them.   [4]
+1,2
+CO-2; K-   b.   Define interference and diffraction. List any four conditions for sustainable
+[4]
+1,2   interference.
+CO-3 ;   c. The band gap of GaAs is 1.45eV. What is the wavelength of LASER beam
+K-1,2   [4]
+emitted by the GaAs diode LASER?
+CO-4 ;   d. State Gauss’s law of electrostatics and magnetostatics with mathematical form.   [4]
+K-1,2
+CO-5; K-   e. Discuss the top-down approach used in synthesizing nanomaterials with appropriate
+[4]
+1,2   labelled diagram.
+Q2
+CO-3;   a. Explain the construction and working of Ruby laser with schematic and energy
+[10]
+K-1,2   level diagrams.
+b.   In Fraunhofer diffraction due to narrow slit, a screen is placed 1 m away from the lens to
+obtain the pattern. If the slit width is 0.1 x 10-3 m and the first minimum lies 5.0 x 10-3 m on
+CO-2;
+either side of the central maximum, find the wavelength of light. If the source is replaced by   [6]
+K-3
+another light for which the first minimum lies at 5.89 x 10-3 m, find the wavelength of light.
+c. What is meant by flux of an electric field?
+CO-4; K-   A uniform electric field with a magnitude of E = 400 N/C is incident on a plane surface
+1,2   [4]
+of area S = 10 m2 and makes an angle of θ = 300 with it. Find the electric flux through
+this surface?
+Q3
+CO-2; K-   a.   Define thin film interference and derive the expression for maxima and minima in the case
+[10]
+3,   of thin film interference in the reflected light system.
+CO-5; K-   b. Calculate the penetration depth in mercury at 0K and 4.1K, if the critical temperature
+[6]
+3,   of mercury is 5.2K and the penetration depth is 67 nm. at 3.1 K.
+CO-1; K-   c. Find the probability of occupancy of a state of energy (a) 0.05 eV above the Fermi
+[4]
+3   energy (b) 0.05 eV below the Fermi energy. Assume a temperature of 300 K.
+********** 1 **********
+--- page 2 ---
+Q4
+CO-3; K-   a. Write short note on- (a) Stimulated Emission, (b) optical resonator cavity, (c)
+[10]
+1,   Acceptance Angle, (d) Normalized Frequency, (e) Step index fiber
+CO-5; K-   b.
+Explain (a) the Meissner effect and (b) the Isotope effect of any superconducting materials.   [6]
+1,
+c. Determine the Hall potential difference across a copper strip (2 cm wide and 1 mm
+CO- 1;   thick) placed in a magnetic field (B = 1.5 Wb/m²) perpendicular to the strip. Given a
+[4]
+K-3   current of 200 A and an electron density of N = 8.4 x 10²⁸ electrons/m³, what Hall
+potential would develop?
+Q5
+CO-4;   a.   State and derive Maxwell’s fourth equation in its integral and differential form. Explain the
+[10]
+K-3   physical significance of displacement current as a “correction factor” suggested by Maxwell.
+CO-5;   b. Explain Nuclear Radius. Calculate the nuclear radius of (a) 56 Fe and (b) 238 U. Given r0 = 1.2
+[6]
+K-3   fm.
+c.
+Two-point charges, q1 = 4μC and q2 = -3μC, are separated by a distance of 0.2 m. Find
+CO-4;
+the magnitude of the electrostatic force between them. Mention the type of force   [4]
+K-3
+working between the two charges. (Permittivity in free space = 8.854×10-12 C2/ (N.m2))
+Q6
+a.   List the different characterization techniques used for nanomaterials? Illustrate the working
+CO-5;
+principle of any two characterization techniques. Support your explanation with relevant   [10]
+K-1,2
+diagrams.
+b.   State the formula for diameter of dark ring and bright ring in case of Newton’s ring for a
+CO-2;   reflected light system.
+[6]
+K-2,3   In a Newtons rings experiment the diameter of 10th dark ring due to wavelength 6000A0 in
+air is 0.5 cm. Find the radius of curvature of the lens.
+CO-4;   c.
+Explain any two applications of plasma in real life.   [4]
+K-2
+Q7
+a.   State Hall effect with appropriate diagram. Derive the mathematical expression for Hall
+CO-1; K-
+voltage and Hall coefficient observed in a semiconductor under the influence of a magnetic   [10]
+3,
+field. List any two application of hall effect.
+CO-1;   b. State how the conductivity of intrinsic semiconductor affects with temperature?
+[6]
+K-2,3   Find the concentration of holes and electrons in N type Si at 300k, if the conductivity
+is 300 mhos. Given that ni= 1.5 × 1010 /cm3 µn =1300 cm2 /VS.
+In an optical fiber, the core material has R.I. 1.6 and R.I. of clad material is 1.3.
+CO-3; K-
+What is the value of critical angle? Also calculate the value of angle of acceptance   [4]
+3
+cone.
+********** 2 **********
+````
+
 ## 2024-25 · Final-Exam · Sem 1 · paper 10f912e41b79
 
 - Departments: AI and Data Science
@@ -4305,6 +4544,128 @@ CO-3; K-
 What is the value of critical angle? Also calculate the value of angle of acceptance   [4]
 3
 cone.
+********** 2 **********
+````
+
+## 2024-25 · Re-Exam · Sem 2 · paper dad420652e4e
+
+- Departments: Mechanical
+- Programmes: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) - 7003
+- Source: `00_Original_Downloads/2024/Semester II/69329__Re-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) - 7003/Physics/QP_Re-Exam_Physics(702BS0C002)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Jul 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (CIVIL)/B. Tech - (CSEDS)/B. Tech (MECH)
+Year: I/Sem 2 Re-exam(Exam Year: 2024-2025)
+Subject: Physics
+Date: 03 Jul 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of the remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. Assume Suitable data if necessary.
+Q1   Answer briefly:
+CO-1; K-   a.   Discuss extrinsic semiconductors and list its types. List the any four
+[4]
+1,2   differences in extrinsic semiconductors.
+b.   Define diffraction and list its types. List any four differences between them
+CO-2; K-
+with appropriate diagram.   [4]
+1,2
+c.   In a He-Ne laser system, the two energy levels of Ne involved in lasing
+CO-3 ; K-
+action have energy values of 20.6 eV and 18.75 eV. Population inversion
+1,2   [4]
+occurs between these two levels. What will be the wavelength of the laser
+beam produced?
+CO-4 ; K-   d.   Write all Maxwell’s equations in its differential and integral form with the
+[4]
+1,2   name of relevant law associated with it.
+CO-5; K-   e.   Explain the process of the bottom-up approach used in synthesizing nanomaterials.
+[4]
+1,2
+Q2
+CO-3; K-   a.   Explain the construction and working of He-Ne lasers with energy
+[10]
+1,2   level diagrams.
+b.   Define Wedge shaped film in case of thin film interference and write the condition
+of maxima and minima.
+CO-2; K-
+A wedge-shaped air film having angle of 40 seconds in illuminated by   [6]
+3
+monochromatic light. Fringes are observed vertically through a microscope. The
+distance between ten constructive dark fringes are 1.2 cm.
+CO-4; K-   CO- Three charged particles are arranged in a line as shown in figure below. Charge A
+1,2   4;   = - μC, charge B = +10 μC and charge C = -12 μC. Calculate the net electrostatic
+K-   force on particle B due to the other two charges   [4]
+1,2
+Q3
+a.   In case of Newton’s ring experiment, prove that diameter of the ring is directly
+CO-2; K-3,   proportional to the square root of order of the ring in case of dark ring in a   [10]
+reflected light.
+********** 1 **********
+--- page 2 ---
+b.   Calculate the critical temperature of a given superconducting material when the
+isotope mass is 29.75 from the isotope mass of 25.50 at the critical temperature of
+CO-5; K-3,   [6]
+3.18K. Also find the value of the isotopic mass when the temperature is 5K.
+c.   Calculate the probability that an energy level is (a) kT above and (b) 3kT above the
+CO-1; K-3   [4]
+Fermi level is occupied by an electron.
+Q4
+a.   Explain the construction of optical fiber. Derive the expression for numerical
+CO-3; K-1,   [10]
+aperture in case of step index fiber.
+b.   When do you call a material nanomaterial? What are the different categories
+CO-5; K-1,   [6]
+based on their dimensions? Provide an example for each category.
+c.   Determine the Hall potential difference across a copper strip (2 cm wide and
+1 mm thick) placed in a magnetic field (B = 2.5 Wb/m²) perpendicular to the
+CO- 1; K-3   [4]
+strip. Given a current of 300 A and an electron density of N = 9.4 x 10²⁸
+electrons/m³, what Hall potential would develop?
+Q5
+CO-4; K-3   a.   State and derive Maxwell’s first equation in its integral and differential form.   [10]
+b.   Explain Electric quadrupole moment. Calculate the electric quadrupole moment for
+CO-5; K-3   a Calcium nucleus with having atomic number Z = 20. (Larger radius b = 3.5 fm [6]
+and smaller radius a = 2.8 fm)
+c.
+CO-4; K-3   What is the physical significance of equations (i) ∇.B=0 and (ii) ∇.D=ρ ?   [4]
+Q6
+a.   Define superconductors and discuss the following properties in brief Critical
+CO-5; K-
+magnetic field, persistent current, zero resistance, critical magnetic field,   [10]
+1,2
+Messier’s effect , critical current, isotopic effect.
+b.   Draw the intensity distribution curve for single slit, double slit and multiple slit
+CO-2; K-
+diffraction, also give their intensity distribution equations with meaning of each   [6]
+2,3
+term.
+c.   With the help of a suitable graph, explain any two characteristics of variation of
+CO-4; K-2   [4]
+binding energy per nucleon (BE/A) curve with increasing mass number (A).
+Q7
+a.   Discuss how energy bands are formed due to the overlapping of atomic orbitals in
+CO-1; K-3,   solids. Classify the solids based on their electrical properties. List any five [10]
+differences between them based on band theory.
+b.   Discuss intrinsic semiconductors.
+CO-1;   Analyze the resistance of an intrinsic germanium rod (1 cm long, 1 mm wide, 1
+[6]
+K-2,3   mm thick) at 300 K. For germanium, the intrinsic carrier concentration ni = 2.5 x
+10¹⁹ m⁻³, and the electron and hole mobilities are µe = 0.39 m²/V·s and µh = 0.19
+m²/V·s, respectively.
+CO-2,3;   c.   Calculate the numerical aperture and acceptance angle of optical fiber of
+[4]
+BL-5 U3   refractive indices for core and cladding as 1.62 and 1.52, respectively.
 ********** 2 **********
 ````
 

@@ -1,6 +1,6 @@
 # Application Architecture and Deployment
 
-**9** unique papers (9 copies across programmes) · 2024-25 to 2025-26 · 4 programmes · Sem 1, Sem 2
+**11** unique papers (11 copies across programmes) · 2024-25 to 2025-26 · 5 programmes · Sem 1, Sem 2
 
 Download only this subject, sorted by academic year:
 
@@ -16,7 +16,9 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | M TECH / ARTIFICIAL INTELLIGENT | Application Architecure & Deployment 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | MASTER OF TECHNOLOGY (ARTIFICIAL INTELL | QP_Application Architecture & Deployment(703DB0E024)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | MASTER OF TECHNOLOGY - DATA SCIENCE (BUSINESS ANALYTICS) - 7027 | QP_Final-Exam_Application Architecture & Deployment(703DB0E024)_Semester II_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF TECHNOLOGY (ARTIFICIAL INTELL | ANS_Application Architecture & Deployment(703DB0E024)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | MASTER OF TECHNOLOGY - DATA SCIENCE (BUSINESS ANALYTICS) - 7027 | ANS_Final-Exam_Application Architecture & Deployment(703DB0E024)_Semester II_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | M TECH / ARTIFICIAL INTELLIGENT | Application Architecture & Deployment Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper |  | M TECH / DATA SCIENCE | Application Architecture & Deployment Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | MASTER OF TECHNOLOGY - DATA SCIENCE (BU | QP_Application Architecture & Deployment(703DB0E024)_2024-2025.pdf |

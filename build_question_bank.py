@@ -1,25 +1,34 @@
 """Turn every past question paper into text an AI can read, organised by subject and department.
 
-Two stages:
+Stages:
 
-  extract  Download the release bundles that hold question papers (37 bundles, about 19 GiB), rebuild each
-           paper, and read its text: straight from the PDF when it has a text layer, otherwise by OCR with
-           Tesseract. Bundles are processed one at a time and deleted afterwards, so about 3 GiB of free space
-           is enough. Results go to a resumable cache (texts.jsonl); rerunning skips finished work.
+  extract      Download the release bundles that hold question papers (37 bundles, about 19 GiB), rebuild each
+               paper, and read its text: straight from the PDF when it has a text layer, otherwise by OCR with
+               Tesseract. Bundles are processed one at a time and deleted afterwards, so about 3 GiB of free space
+               is enough. Results go to a resumable cache (texts.jsonl); rerunning skips finished work.
+               --prefix reads another library folder instead (build_syllabi.py uses 04_Syllabi_Archive/).
 
-  build    Read that cache (or the committed question_bank/extracted_text.jsonl.gz) together with
-           subjects/pyq_subject_index.csv and write, for every subject:
-             subjects/<Subject>/papers.md        full text of every paper, newest first, with metadata
-             subjects/<Subject>/questions.jsonl  one record per question: number, part, text, marks, CO/BL,
-                                                 year, exam, semester, programme, department
-           plus departments/<Department>/README.md and question_bank/README.md (schema and statistics).
+  extract-raw  Read the papers that exist only inside the portal's original ZIP downloads (listed in
+               question_bank/raw_zip_members.json): the ZIPs are rebuilt from their bundles, each listed member
+               is read, and question_bank/raw_zip_papers.jsonl records its SHA-256 and size. organize_by_subject.py
+               files the new ones (bytes not already under 02_Question_Papers/) under their subjects.
+
+  build        Merge new texts.jsonl files (--texts, repeatable) into the committed cache in
+               question_bank/extracted_text/, then read it with subjects/pyq_subject_index.csv and write, for
+               every subject:
+                 subjects/<Subject>/papers.md        full text of every paper, newest first, with metadata
+                 subjects/<Subject>/questions.jsonl  one record per question: number, part, text, marks, CO/BL,
+                                                     year, exam, semester, programme, department
+               plus departments/<Department>/README.md and question_bank/README.md (schema and statistics).
 
 Requirements for extract: Python 3.11+, `pip install pymupdf`, and the Tesseract OCR program on PATH
 (Windows: https://github.com/UB-Mannheim/tesseract/wiki; Debian/Ubuntu: apt install tesseract-ocr).
 build needs only the standard library.
 
   python build_question_bank.py extract --work D:/qb_work --manifest full-library-manifest.json
-  python build_question_bank.py build --texts D:/qb_work/texts.jsonl
+  python build_question_bank.py extract-raw --work D:/qb_raw --manifest full-library-manifest.json
+  python organize_by_subject.py catalog --manifest full-library-manifest.json
+  python build_question_bank.py build --texts D:/qb_work/texts.jsonl --texts D:/qb_raw/texts.jsonl
   python build_question_bank.py build                      # rebuild from the committed text cache
 """
 from pathlib import Path, PurePosixPath
@@ -259,8 +268,9 @@ def cmd_extract(args):
                 except (json.JSONDecodeError, KeyError):
                     pass                                # a line cut off by an interrupted run
     papers = {}
+    prefixes = tuple(args.prefix or [QP_ROOT])
     for row in manifest['files']:
-        if row['path'].startswith(QP_ROOT):
+        if row['path'].startswith(prefixes):
             papers.setdefault(row['sha256'], row)
     by_bundle = defaultdict(list)
     for sha, row in sorted(papers.items()):
@@ -315,15 +325,25 @@ def cmd_extract(args):
 # ============================================================================ departments
 
 PROGRAMME_TYPES = [
-    (r'integrated', 'B.Tech Integrated'), (r'mba\s*tech', 'MBA Tech'), (r'master of technology|\bm\s*tech\b', 'M.Tech'),
+    (r'integrated', 'B.Tech Integrated'),
+    (r'mba\s*tech|master of business administration in technology management', 'MBA Tech'),
+    (r'master of technology|\bm\s*tech\b', 'M.Tech'),
     (r'master of computer applications|\bmca\b', 'MCA'), (r'diploma', 'Diploma'), (r'pgdm', 'PGDM'),
-    (r'\bphd\b', 'PhD'), (r'b\.?\s*tech', 'B.Tech'),
+    (r'\bphd\b', 'PhD'), (r'master of commerce', 'M.Com'), (r'bachelor of commerce', 'B.Com'),
+    (r'bachelor of management studies', 'BMS'), (r'bachelor of science', 'B.Sc'), (r'bachelor of arts?\b', 'BA'),
+    (r'b\.?\s*tech|bachelor of technology', 'B.Tech'),
 ]
-DEPARTMENTS = [
+DEPARTMENTS = [                    # first match wins; programmes of other NMIMS schools come first
+    (r'bachelor of commerce|master of commerce', 'Commerce'),
+    (r'bachelor of management studies', 'Management Studies'),
+    (r'multimedia|mass communication', 'Multimedia and Mass Communication'),
+    (r'bachelor of science\s*\(information technology\)', 'B.Sc Information Technology'),
+    (r'bachelor of science', 'Science (B.Sc)'),
+    (r'bachelor of arts\b', 'Arts (BA)'),
     (r'cyber', 'Cyber Security'),
-    (r'csbs', 'Computer Science and Business Systems'),
+    (r'csbs|computer science and business', 'Computer Science and Business Systems'),
     (r'aiml|machine learning', 'AI and Machine Learning'),
-    (r'aids|artificial intelligence & data science|ai & ds', 'AI and Data Science'),
+    (r'aids|artificial intelligence (?:&|and) data science|ai & ds', 'AI and Data Science'),
     (r'data scien|\bds\b|cseds', 'Data Science'),
     (r'artifi|\bai\b', 'Artificial Intelligence'),
     (r'master of computer applications|\bmca\b', 'Computer Applications (MCA)'),
@@ -834,20 +854,26 @@ def md_escape(text):
 def cmd_build(args):
     sys.path.insert(0, str(HERE))
     from organize_by_subject import subject_folders, caseless
-    source = Path(args.texts) if args.texts else TEXT_CACHE
-    if not source.exists():
-        raise SystemExit(f'{source} not found; run extract first or pass --texts.')
-    texts = load_texts(source)
-    if args.texts:
-        save_text_cache(texts)
-    drop_ocr_noise(texts, known_words(texts))               # after saving: the cache keeps the raw OCR
+    texts = load_texts(TEXT_CACHE) if TEXT_CACHE.exists() else {}
+    for extra in args.texts or []:                          # new extraction results join the committed cache
+        if not Path(extra).exists():
+            raise SystemExit(f'{extra} not found; run extract first.')
+        texts.update(load_texts(extra))
+    if not texts:
+        raise SystemExit(f'{TEXT_CACHE} not found; run extract first or pass --texts.')
     with INDEX_CSV.open(encoding='utf-8', newline='') as stream:
         rows = list(csv.DictReader(stream))
+    if args.texts:                                          # keep only papers the index lists
+        listed = {row['sha256'] for row in rows}
+        texts = {sha: record for sha, record in texts.items() if sha in listed}
+        save_text_cache(texts)
+    drop_ocr_noise(texts, known_words(texts))               # after saving: the cache keeps the raw OCR
     by_subject = defaultdict(lambda: defaultdict(list))         # subject -> sha -> copies
     for row in rows:
         by_subject[row['subject']][row['sha256']].append(row)
     folders = subject_folders(by_subject)
     stats, summary = Counter(), []
+    stats['raw_zip_papers'] = len({row['sha256'] for row in rows if ' :: ' in row['path']})
     for subject in sorted(by_subject, key=caseless):
         summary.append(build_subject(subject, by_subject[subject], HERE / 'subjects' / folders[subject], texts, stats))
         summary[-1]['folder'] = folders[subject]
@@ -1115,6 +1141,9 @@ def write_bank_readme(stats, summary, dept_subjects):
         'in papers.md.',
         f'- {stats["low_quality_papers"]:,} question papers have low OCR quality (mostly handwritten 2004-2010 papers '
         'or poor scans); they and their questions are marked `text_quality: low`.',
+        f'- {stats["raw_zip_papers"]:,} of these files exist only inside the portal\'s original ZIP downloads '
+        '(`00_Original_Downloads/`), never extracted into `02_Question_Papers/`; they are included, with a path of '
+        'the form `<ZIP> :: <file inside it>` and a `source` ending in "(ZIP download only)".',
         f'- Files with no readable text (corrupt PDFs, spreadsheet data sets): {stats["papers_without_text"]:,}.'
         + (f' Not yet extracted: {stats["papers_not_extracted"]:,}.' if stats['papers_not_extracted'] else ''), '',
         '## questions.jsonl fields', '',
@@ -1267,7 +1296,20 @@ def cmd_extract_raw(args):
             print(f'[{index}/{len(order)}] {name}: {read} papers read, {len(futures)} queued; '
                   f'{len(pending)} ZIPs pending', flush=True)
         drain(wait=True)
-    print(f'Raw ZIP extraction finished: {read} new papers read.', flush=True)
+    save_raw_resolved(resolved_path)
+    print(f'Raw ZIP extraction finished: {read} new papers read; {RAW_RESOLVED} updated.', flush=True)
+
+
+def save_raw_resolved(source, target=RAW_RESOLVED):
+    """Committed copy of the member -> SHA-256 records, one per member, sorted so reruns give identical bytes."""
+    rows = {}
+    for line in Path(source).open(encoding='utf-8'):
+        if line.strip():
+            row = json.loads(line)
+            rows[(row['zip_path'], row['member'])] = row
+    with Path(target).open('w', encoding='utf-8', newline='\n') as out:
+        for key in sorted(rows):
+            out.write(json.dumps(rows[key], ensure_ascii=False, sort_keys=True) + '\n')
 
 
 def main():
@@ -1280,6 +1322,8 @@ def main():
     p.add_argument('--download', choices=['https', 'gh'], default='gh',
                    help='gh: GitHub CLI (default); https: curl to the API, with GITHUB_TOKEN if set')
     p.add_argument('--limit', type=int, help='only the first N bundles (for a trial run)')
+    p.add_argument('--prefix', action='append',
+                   help=f'read files under this library folder instead of {QP_ROOT} (repeatable), e.g. 04_Syllabi_Archive/')
     p.set_defaults(run=cmd_extract)
     p = sub.add_parser('extract-raw', help='read papers that exist only inside the original portal ZIPs')
     p.add_argument('--manifest', required=True, help='verified full-library-manifest.json')
@@ -1288,8 +1332,9 @@ def main():
     p.add_argument('--download', choices=['https', 'gh'], default='gh')
     p.set_defaults(run=cmd_extract_raw)
     p = sub.add_parser('build', help='write papers.md / questions.jsonl per subject and the department indexes')
-    p.add_argument('--texts', help='texts.jsonl from extract (also refreshes the committed text cache); '
-                                   'default: question_bank/extracted_text.jsonl.gz')
+    p.add_argument('--texts', action='append',
+                   help='texts.jsonl from extract or extract-raw (repeatable); merged into the committed cache in '
+                        'question_bank/extracted_text/, which is then saved with only the papers the index lists')
     p.set_defaults(run=cmd_build)
     args = parser.parse_args()
     args.run(args)

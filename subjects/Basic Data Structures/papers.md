@@ -1,6 +1,6 @@
 # Basic Data Structures: question papers in full
 
-25 unique papers · 2022-23 to 2025-26 · Computer Engineering, Data Science, Information Technology
+29 unique papers · 2022-23 to 2025-26 · Computer Engineering, Data Science, Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -984,6 +984,95 @@ Write a program in C to print a string in reverse using a pointer.
 ”
 ````
 
+## 2024-25 · Final-Exam · Sem 5 · paper 1b16fac1da96
+
+- Departments: Data Science
+- Programmes: BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038
+- Source: `00_Original_Downloads/2024/65247__Semester V__context_fixed.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038/Basic Data Structures/QP_Final-Exam_Basic Data Structures(701CO0C013)_Semester V_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2024
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)
+Year: III/Semester V(Exam Year: 2024-2025)
+Subject: Basic Data Structures
+Date: 28 Nov 2024   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Instruction Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks
+8. Assume Suitable data if necessary.
+9. Figures in brackets on the right hand side indicate full marks
+Q1
+Answer briefly:   [20]
+a.   Define data structures. Draw a diagram of classification of data structures and explain
+[5]
+each type in detail.
+b.   Evaluate using stack 10 6 9 3 + -11 * / 17 + 5 +   [5]
+c.   Write a Program for Fibonacci series up to n terms using recursion   [5]
+d.   An array ARR[-5…15, 10…20] stores elements in Row Major Wise with each element
+requiring 2 bytes of storage. Find the address of ARR[10][15] when the base address is
+[5]
+2500.
+a.   Write a program for Bubble sort .Sort the elements 77, 49, 25, 12, 9, 33, 56, 81 using
+Bubble sort.
+[10]
+b.   Write a program to define a structure for a restaurant that has the following
+Q2
+members—name, location, rating and average meal cost. Write a function to: (i) Print
+the names of restaurants in a particular location.
+(ii) Print the names of restaurants that have an average meal cost less than a specified
+[10]
+value.
+a.   Convert the following infix expression into postfix using a stack. At each step of the
+conversion, display the contents of the stack and explain how each operator and operand
+is processed.
+[10]
+Q3   Infix Expression:
+b.
+((A + B) * (C - D) / (E + F * G) - H) + ((I * J) / (K - L) + M * N)
+Write a program to delete the first element of a doubly linked list.   [10]
+Q4   Write a C/C++ program to delete duplicates from 1-D array.   [10]
+********** 1 **********
+--- page 2 ---
+a.   sample i/p: [ 1 2 1 4 3 2 1 3 2 1 4 5 7 6 9 9]
+o/p: [ 1 2 4 3 5 7 6 9]
+Write a program to Create a linked list which stores names of the employees and their   [10]
+b.   salary. Delete the employee record with highest salary.
+a.   Explain the concept of a circular queue? How is it better than a linear queue?WAP in
+[10]
+C/C++ to implement Enque and Dqueue for circular queue
+Q5
+Write a program to print the total number of occurrences of a given item in the linked
+list.
+[10]
+b.
+Write a program to manage a simple inventory system for a store. Each inventory item
+should have a name, quantity, and price. Implement this inventory system using a
+singly linked list. Write a program that allows users to add new items to the inventory,   [10]
+Q6
+a.   update the quantity of existing items, display the current inventory, and remove items
+from the inventory.
+b.   [10]
+Compare and contrast selection and insertion sort. Write the algorithm for selection
+sort.
+a.
+[10]
+Compare and contrast a queue with a stack. Implement stack ADT operation using link
+Q7   list.
+[10]
+b.   Write a program in C to print a string in reverse using a pointer.
+********** 2 **********
+````
+
 ## 2024-25 · Final-Exam · Sem 4 · paper fe71dba2e8d6
 
 - Departments: Information Technology
@@ -1151,6 +1240,91 @@ Compare and contrast a queue with a stack. Implement stack ADT operation using l
 Q7   list.
 [10]
 b.   Write a program in C to print a string in reverse using a pointer.
+********** 2 **********
+````
+
+## 2024-25 · Re-Exam · Sem 4 · paper 1aea0d5b8848
+
+- Departments: Information Technology
+- Programmes: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037
+- Source: `00_Original_Downloads/2024/67804__Semester IV__context_fixed.zip :: Re-Exam/BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037/Basic Data Structures/QP_Re-Exam_Basic Data Structures(701CO0C013)_Semester IV_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Jul 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX
+YEARS INTEGRATED PROGRAM
+Year: II/Sem 4 Re-exam(Exam Year: 2024-2025)
+Subject: Basic Data Structures
+Date: 04 Jul 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks.
+4. Question No.1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+Q1
+Answer briefly:   [20]
+CO-1; BL-   a.   Explain the classification of data structures and differentiate between primitive
+[5 M]
+1,2   and non-primitive data structures.
+b.   An online ticket booking system requires storing booked and available seats
+CO-2,BL-
+efficiently. Would you recommend using an array or a structure to store seat   [5 M]
+3,4
+information? Explain your choice.
+CO-3; BL-   c. A printer in a shared office environment receives multiple print requests. How
+[5 M]
+3,4   does a queue help in managing these print requests fairly and efficiently?
+CO-4; BL-4   d.   Explain why merge sort is preferred over quick sort in certain applications   [5 M]
+Q2   [20]
+CO-1; BL-   a.   What are the differences between static and dynamic memory allocation?
+[10 M]
+1,2   Explain the significance of pointers in implementing dynamic data structure?
+CO-2; BL-   b.   Explain the different types of arrays and compare their advantages and
+[10 M]
+1,4   limitations.
+Q3   [20]
+CO-3; BL-   a.   Compare and contrast stacks and queues in data structures with their advantages
+[10 M]
+1,4   and applications.
+CO-2; BL-   b.   Write a C++ program to implement matrix multiplication using a 2D array .
+[10 M]
+2,3
+Q4   [20]
+a.
+CO-2; BL-3   WAP to Implement a C++ program to demonstrate an array of structures.   [10 M]
+b.   Convert the following infix expressions to postfix and prefix notation and
+explain the process:
+CO-3; BL-6   [10 M]
+(A + B) * C - D / E
+X / (Y + Z) * W
+Q5   [20]
+CO-3; BL-   a.   What are the applications of stacks in real-world scenarios? Write a C++
+[10 M]
+1,3   function to check if a stack is empty or full.
+CO-3; BL-4   b.   Differentiate between a simple queue, circular queue, priority queue.   [10 M]
+********** 1 **********
+--- page 2 ---
+Q6   [20]
+a.   Discuss the role of queues in process scheduling. Provide an example of a
+CO-3; BL-5   queue-based scheduling algorithm.   [10 M]
+b.   Differentiate between singly linked lists and doubly linked lists with an
+CO-3; BL-3   example.   [10 M]
+Q7   [20]
+CO-4; BL-   a.   Explain the difference between linear search and binary search with an example.
+[10 M]
+2,4
+CO-3; BL-   b.   Explain the advantages of using a linked list over an array in terms of memory
+[10 M]
+2,4   allocation and insertion operations.
 ********** 2 **********
 ````
 

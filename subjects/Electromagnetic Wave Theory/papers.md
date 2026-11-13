@@ -1,8 +1,148 @@
 # Electromagnetic Wave Theory: question papers in full
 
-8 unique papers · 2021-22 to 2025-26 · Electronics and Telecommunication
+10 unique papers · 2021-22 to 2025-26 · Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Re-Exam · Sem 4 · paper 6280f7583b7d
+
+- Departments: Electronics and Telecommunication
+- Programmes: BACHELOR OF TECHNOLOGY (ELECTRONICS & TELECOMMUNICATION ENGINEERING) - 7006
+- Source: `00_Original_Downloads/2024/67804__Semester IV__context_fixed.zip :: Re-Exam/BACHELOR OF TECHNOLOGY (ELECTRONICS & TELECOMMUNICATION ENGINEERING) - 7006/Electromagnetic Wave Theory/QP_Re-Exam_Electromagnetic Wave Theory(702EX0C011)_Semester IV_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Jul 2026
+- Text: mixed (3 pages), mean OCR confidence 32.4
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (ELECTRONICS &
+TELECOMMUNICATION ENGINEERING)
+Year: II/Sem 4 Re-exam(Exam Year: 2025-2026)
+Subject: Electromagnetic Wave Theory
+Date: 03 Jul 2026   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question No. _1___ is compulsory.
+3. Out of remaining questions, attempt any __4___ questions.
+4. In all ___5_ questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1
+Answer briefly:   [20]
+CO-1;   Transform each of the vectors to cylindrical coordinates at the specified
+SO-1;   a.   5
+4 𝑎𝑥⃗⃗⃗⃗ – 2𝑎𝑥⃗⃗⃗⃗ - 4𝑎𝑥⃗⃗⃗⃗ at A (2,3,5).
+BL-3
+CO-2;
+SO-1;   b.   Define Streamline and sketches of the field.   5
+BL-1
+CO-3;
+SO-1;   c.   Explain the concept of dielectric strength of an insulator.   5
+BL-2
+CO-6;
+SO-1;   d.   Relate the reflection coefficient, VSWR and transmission coefficient.   5
+BL-1
+Q2
+CO-2; A   Derive electric field intensity due to several point charges.   10
+SO-1;
+BL-1,3
+Given points A (2, 3, -1) and B (4, -50⁰, 2). Find
+Q2
+1. A to origin
+CO-1; B   10
+SO-1;   2. B to origin
+BL-2
+3. A to B
+Q3
+Derive the equation for the potential due to an electric dipole.
+CO-3; A   10
+SO-1;
+BL-3
+********** 1 **********
+--- page 2 ---
+Q3
+CO-2; B   Explain the point form of Gauss’s law.   10
+SO-1;
+BL-2
+Q4
+Derive the tangential component of boundary conditions for the
+CO-3; A   conductor – free space interface.   10
+SO-1;
+BL-3
+Q4
+CO-3; B   Explain and vector magnetic potential.   10
+SO-1;
+BL-2
+Q5   Define reflection coefficient, VSWR, transmission coefficient, line
+CO-6; A   impedance, line admittance, matched transmission line, load   10
+SO-1;
+BL-1   mismatch transmission line and characteristic impedance.
+Q5
+CO-4; B   Derive Maxwell’s equation in integral form.   10
+SO-1;
+BL-2
+Q6
+CO-5; A   Derive the power equation due to electromagnetic waves.   10
+SO-1;
+BL-1,3
+Q6
+CO-6; B   Derive the Poynting theorem.   10
+SO-1;
+BL-3
+Find the following using the Smith Chart,
+Q7
+i.   Reflection coefficient.   ii. VSWR
+CO-5; A   10
+SO-1;   ii.   Transmission coefficient.
+BL-2
+When Zo =50Ω and ZL = 50-j50Ω.
+Q7   Derive the equation for the input impedance of a lossless transmission
+CO-6; B   line.   10
+SO-1;
+BL-3
+********** 2 **********
+--- page 3 ---
+Smith Chart
+
+ae
+rararetettesg
+RO
+LR ERRER es
+ERE aS
+
+i —
+TT
++
+sb fs def "|
+
+He mes
+muses:
+ae
+
+a
+ae
+
+. ae . c
+ae ———_o
+5 5 7
+~ Li LJ ———
+PADIALLY SCALED PARAMETERS
+TOWARD LOAD —> <—TOWAAD GENERATOR “3 ‘
+Fe ee ee aad 2 i 1 *
+
+moa 39) 0
+fewer Se we eT eS eee eee eT oe a i eT a
+Ps
+ort
+
+FC QI a iar
+````
 
 ## 2025-26 · Re-Exam · Sem 4 · paper 0d516e985f97
 

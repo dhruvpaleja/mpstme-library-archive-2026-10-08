@@ -538,7 +538,7 @@ Energy: [M1L2T−2]
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/Applied Physics-I/ANS_Applied Physics-I(701BS0C019)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 Dec 2024
 - Text: mixed (14 pages), mean OCR confidence 39.5
-- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -733,6 +733,7 @@ Fov Brann > an)
 Bly> & AT = 018205 Cry :
 ae 3S
 
+Cov gyead, Abn = abt OrRbem [QM
 
 Ly
 \o ona. in ~~ , Seaton Qn)
@@ -833,7 +834,7 @@ FRR IC 7 I OH
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/DIPLOMA IN COMPUTER SCIENCE AND ENGINEE_04f07abf/Applied Physics-I/ANS_Applied Physics-I(701BS0C019)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 Dec 2024
 - Text: mixed (14 pages), mean OCR confidence 39.5
-- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -1028,6 +1029,7 @@ Fov Brann > an)
 Bly> & AT = 018205 Cry :
 ae 3S
 
+Cov gyead, Abn = abt OrRbem [QM
 
 Ly
 \o ona. in ~~ , Seaton Qn)
@@ -1128,7 +1130,7 @@ FRR IC 7 I OH
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/DIPLOMA IN INFORMATION TECHNOLOGY - 7075/Applied Physics-I/ANS_Applied Physics-I(701BS0C019)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 Dec 2024
 - Text: mixed (14 pages), mean OCR confidence 39.5
-- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -1323,6 +1325,7 @@ Fov Brann > an)
 Bly> & AT = 018205 Cry :
 ae 3S
 
+Cov gyead, Abn = abt OrRbem [QM
 
 Ly
 \o ona. in ~~ , Seaton Qn)
@@ -1423,7 +1426,7 @@ FRR IC 7 I OH
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/DIPLOMA IN MECHANICAL ENGINEERING - 7072/Applied Physics-I/ANS_Applied Physics-I(701BS0C019)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 Dec 2024
 - Text: mixed (14 pages), mean OCR confidence 39.5
-- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -1618,6 +1621,7 @@ Fov Brann > an)
 Bly> & AT = 018205 Cry :
 ae 3S
 
+Cov gyead, Abn = abt OrRbem [QM
 
 Ly
 \o ona. in ~~ , Seaton Qn)
@@ -1718,7 +1722,7 @@ FRR IC 7 I OH
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/Applied Physics-I/ANS_Applied Physics-I(701BS0C019)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 Feb 2025
 - Text: mixed (11 pages), mean OCR confidence 39.9
-- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -1815,6 +1819,7 @@ O3 \.
 Moment) r
 = Vax, Gan Oe RNS)
 Lonjeinedd in h boy |
+Himondional formula - Triality jay
 Ut - kam ls (' m)
 
 Pz my.
@@ -2062,7 +2067,7 @@ DR ROR RK 11 FRR HR RK
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/DIPLOMA IN COMPUTER SCIENCE AND ENGINEE_04f07abf/Applied Physics-I/ANS_Applied Physics-I(701BS0C019)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 Feb 2025
 - Text: mixed (11 pages), mean OCR confidence 39.9
-- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -2159,6 +2164,7 @@ O3 \.
 Moment) r
 = Vax, Gan Oe RNS)
 Lonjeinedd in h boy |
+Himondional formula - Triality jay
 Ut - kam ls (' m)
 
 Pz my.
@@ -2406,7 +2412,7 @@ DR ROR RK 11 FRR HR RK
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/DIPLOMA IN INFORMATION TECHNOLOGY - 7075/Applied Physics-I/ANS_Applied Physics-I(701BS0C019)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 Feb 2025
 - Text: mixed (11 pages), mean OCR confidence 39.9
-- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -2503,6 +2509,7 @@ O3 \.
 Moment) r
 = Vax, Gan Oe RNS)
 Lonjeinedd in h boy |
+Himondional formula - Triality jay
 Ut - kam ls (' m)
 
 Pz my.

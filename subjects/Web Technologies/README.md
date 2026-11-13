@@ -1,6 +1,6 @@
 # Web Technologies
 
-**3** unique papers (5 copies across programmes) · 2023-24 to 2024-25 · 1 programme · Sem 1, Sem 3
+**7** unique papers (9 copies across programmes) · 2023-24 to 2025-26 · 2 programmes · Sem 1, Sem 2, Sem 3
 
 Download only this subject, sorted by academic year:
 
@@ -14,6 +14,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | Bachelor of Science (Information Technology) - 45618 | QP_Final-Exam_Web Technologies(NHWEB153)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | Bachelor of Science (Information Technology) - 45618 | ANS_Final-Exam_Web Technologies(NHWEB153)_Semester II_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | Bachelor of Science (Information Technology) - 45618 | QP_Re-Exam_Web Technologies(NHWEB153)_Semester II_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | Bachelor of Science (Information Technology) - 45618 | ANS_Re-Exam_Web Technologies(NHWEB153)_Semester II_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 1 | MCA | Web Technologies 2024-25 Final Batch 2023-24 Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 1, Sem 3 | MCA | Web Technologies Batch 2023-24 Final0001.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 1, Sem 3 | MCA | Web Technologies Batch 2023-24 Re Exam0001.pdf |

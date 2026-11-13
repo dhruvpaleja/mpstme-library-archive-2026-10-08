@@ -1,8 +1,249 @@
 # Financial Derivatives: question papers in full
 
-67 unique papers · 2022-23 to 2025-26 · Computer Engineering, Common (all branches), Data Science, Information Technology, Artificial Intelligence, Cyber Security, Mechanical, AI and Data Science
+71 unique papers · 2022-23 to 2025-26 · Computer Engineering, Common (all branches), Data Science, Information Technology, Artificial Intelligence, Cyber Security, Mechanical, Commerce, AI and Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 2 · paper 3bba26237a72
+
+- Departments: Commerce
+- Programmes: MASTER OF COMMERCE (BANKING & FINANCE) - 45702
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/MASTER OF COMMERCE (BANKING & FINANCE) - 45702/Financial Derivatives/QP_Final-Exam_Financial Derivatives(NJFID555)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 28 Mar 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: MASTER OF COMMERCE (BANKING & FINANCE)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Financial Derivatives
+Date: 28 Mar 2026   Time: 08:00 am - 10:00 am (02:00 Hrs.)
+Max Marks: 60
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use of Simple Calculator is Allowed
+1.   15
+Crude oil futures are currently quoted at ₹6,500 per barrel. A trader enters into a short futures
+contract of crude oil. Lot Size = 100 barrel. On the date of expiry, the settlement prices are as
+follows:
+₹5,800, ₹6,000, ₹6,300, ₹6,500, ₹6,700 and ₹7,000 per barrel.
+Prepare: 1) pay-off table showing the profit or loss of the trader at each settlement price and
+pay off Diagram.
+2) Explain Advantages and Disadvantages of Derivatives market.
+2.   15
+The spot price of a share is ₹1,000. The risk-free rate is 10% per annum (Continuously
+compounding). A 6-month futures contract is quoted at ₹1,030. No dividends are expected.
+Determine whether arbitrage exists and calculate the profit and also Explain the concepts of
+Basis risk, Contango and Backwardation.
+3.   15
+Current value of a stock is Rs 4100. Strike price of a call Rs 4000 has a premium of Rs 170.
+Strike price of a call Rs 4200 has a premium of Rs 35.Show a pay off schedule, Breakeven
+point and Pay off Diagram when spot price is in the range of 3,700 to 4500(100 difference to
+be taken). He is mildly bullish on the stock.
+Page 1 of 2
+--- page 2 ---
+The current price of a share is ₹100. Over each of the next two periods, the share price can
+either increase by 10% or decrease by 10%. Exercise price = ₹100Risk-free rate = 5% per
+period. Calculate the value of a European Call option using the two-step binomial model.
+4.   15
+Explain Clearing entities and their roles in derivatives trading and Also state in detail Which
+trading system is utilized for option and futures in India.
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 10 · paper 8d6d063735a6
+
+- Departments: Information Technology
+- Programmes: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037
+- Source: `00_Original_Downloads/2025/76555__Semester X.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037/Financial Derivatives/QP_Final-Exam_Financial Derivatives(702TF0I002)_Semester X_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
+- Text: text (4 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (COMP)/B. Tech (CSE - CS)/B. Tech
+(DS)/B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)/B. Tech
+(IT)/MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: III / V/Semester VI/Semester X(Exam Year: 2025-2026)
+Subject: Financial Derivatives
+Date: 16 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Figures in brackets on the right hand side indicate full marks.
+9. Assume Suitable data if necessary. Highlight your assumptions, if any, at the required places.
+Q1   Answer briefly.   20
+Marks
+CO-1, SO-1, a   “Derivatives are instruments of risk transfer, not risk creation.” Discuss with 05
+BL-   examples.
+Understand
+•
+CO-1, SO-1, b   A bank suffers a major financial loss due to a cyberattack that disrupted its 05
+BL-   payment systems for two days. Identify the type of risk and suggest control
+Understand   measures.
+& Apply
+CO-1, SO-1,   c   Explain the concept of a Futures Contract. Discuss its key features and how it 05
+BL-Analyse   differs from a forward contract.
+CO-1, SO-1, d   A put option has a strike price of ₹150. The spot price is ₹140.   05
+BL-Analyse   Explain the Put option from buyers and sellers prospective.
+Determine moneyness and intrinsic value.
+Q2   20
+CO-2, SO-2, a   An Indian multinational corporation has significant exposure in British Pounds 10
+BL-Analyse   due to its operations in the United Kingdom. The current spot exchange rate is
+GBP/INR 115.00. Economic projections indicate that inflation in India will be
+around 7%, whereas inflation in the United Kingdom will be approximately 3%.
+The company’s finance team wants to understand the theoretical foundation of
+forward rate determination and apply it to estimate future exchange rates for
+both long-term and short-term horizons.
+a) Derive the Fisher relationship used in determining forward exchange rates.
+b)Calculate   the   one-year   forward   exchange   rate.
+c) Calculate the forward exchange rate for a 60-day period.
+********** 1 **********
+--- page 2 ---
+CO-2, SO-2, b   A fund manager holds a diversified equity portfolio worth ₹50,00,000. The 10
+BL-Analyse   portfolio has a Beta (β) of 1.2. The current value of the stock index is 20,000, and
+each index futures contract is valued at ₹2,00,000.
+The fund manager expects market volatility and wants to hedge the portfolio
+using index futures.
+Required:
+1. Calculate the number of futures contracts required to hedge the
+portfolio.
+2.   If the market falls by 10%, compute:
+Loss on portfolio
+Gain on futures position
+3. Comment on the effectiveness of the hedge.
+Q3   20
+CO-2, SO-2, a   A. An investor believes that the price of Reliance Industries Ltd. is unlikely to rise 10
+BL-Analyse   significantly in the near future. Based on this expectation, the investor
+decides to earn income by writing (selling) a call option. The strike price of
+the call option is ₹2,400, and the premium received is ₹30 per share. One lot
+consists of 100 shares, and the investor writes one lot of call options.
+At the time of maturity, the market price of the underlying stock may be
+₹2350, ₹2400, ₹2450, ₹2500, or ₹2550.
+You are required to calculate the net payoff for the call option writer at each
+of these possible prices and comment on the risk-return profile of the
+strategy.   [ 5 marks]
+B. A derivatives trader expects that the price of Larsen & Toubro (L&T) shares
+will not fall significantly in the short term. The trader writes put options with
+a strike price of ₹3,000 and receives a premium of ₹60 per share. Each lot
+consists of 25 shares, and the trader writes 4 lots.
+At maturity, the stock price may be ₹3100, ₹3000, ₹2950, ₹2900, and ₹2800.
+Calculate the net payoff for the trader at each price. [ 5 marks]
+CO-2, SO-2, b   An investor is analysing two securities, Security X and Security Y, based on 10
+BL-Analyse   different market scenarios. The expected returns and probabilities are as follows:
+Market Scenario Probability Return X (%) Return Y (%)
+Scenario 1   0.25   16   11
+Scenario 2   0.50   12   10
+Scenario 3   0.25   8   9
+Required:
+1. Calculate the Expected Return of both securities.
+2. Calculate the Standard Deviation of returns for both securities.
+3. Suggest which security is more consistent and justify.
+Q4   20
+CO-2, SO-2, a   “Options are considered superior hedging instruments compared to forwards and 10
+BL-Analyse   futures.” Evaluate this statement with examples. [10 marks]
+********** 2 **********
+--- page 3 ---
+CO-2, SO-2, b   A. Mr. C goes long in a Futures Contract on HDFC Bank shares at a strike price of 10
+BL-Analyse   ₹1,200 per share. Compute the P&L if spot prices at expiry range from ₹900
+to ₹1,500 in multiples of ₹100. [5 marks]
+B. Mr. Ram shorts a Futures Contract on TCS Ltd at a strike price of ₹900 per
+share.
+Compute the P&L for spot prices ranging from ₹650 to ₹1150 in multiples of
+₹50. [5 marks]
+Q5   20
+CO-2, SO-2, a   A trader expects a significant movement in the price of a stock, currently trading 10
+BL-Analyse   at ₹100, but is uncertain about the direction. The trader adopts a Long Strangle
+strategy using the following options:
+• Buy a Call option with Strike Price ₹105 at a premium of ₹4
+• Buy a Put option with Strike Price ₹95 at a premium of ₹3
+Required:
+1. Explain the Long Strangle strategy and its structure.
+2. Calculate the total cost and breakeven points.
+3. Determine the profit or loss if the stock price at expiry is:
+₹85
+₹100
+₹120
+4. Comment on the suitability and risk of the strategy.
+CO-2, SO-2, b   A. An option has a current Delta of 0.50 and Gamma of 0.04. The price of 10
+BL-Analyse   the underlying asset increases by ₹5.
+Required:
+1. Calculate the new Delta after the price change.
+2. Interpret the impact of Gamma on Delta. (5 Marks)
+B. Explain the concept of Theta (Θ) in options. Discuss its characteristics
+and its impact on option pricing with respect to time to expiry. (5 Marks)
+Q6   20
+CO-2, SO-2, a   A financial analyst is examining the relationship between spot and forward 10
+BL-Analyse   exchange rates using the Interest Rate Parity (IRP) theory. The following data is
+available:
+•   Spot Exchange Rate (₹/$) = ₹83 per USD
+•   Interest Rate in India = 6% p.a.
+•   Interest Rate in USA = 3% p.a.
+• Time Period = 1 year
+Required:
+1. State the Interest Rate Parity (IRP) theory and its formula.
+2. Calculate the theoretical forward exchange rate.
+3.   If the actual forward rate is ₹85 per USD, identify whether an arbitrage
+opportunity exists.
+4. Suggest the arbitrage strategy to exploit the opportunity.
+CO-2, SO-2, b   A European Call and Put option on a non-dividend paying stock have the following 10
+BL-Analyse   details:
+•   Current Stock Price (S) = ₹120
+********** 3 **********
+--- page 4 ---
+•   Strike Price (K) = ₹110
+• Time to Expiry (T) = 1 year
+•   Risk-free Interest Rate (r) = 10% p.a.
+• Market Price of Call Option (C) = ₹15
+• Market Price of Put Option (P) = ₹5
+Required:
+1. State the Put–Call Parity relationship.
+2. Verify whether the given option prices satisfy the parity condition.
+3.   If not, identify the arbitrage opportunity.
+4. Suggest the arbitrage strategy with steps. (10 Marks)
+Q7
+CO-2, SO-2, a   10
+BL-Analyse   An Indian importer enters into a forward contract with a bank to purchase USD
+1,00,000 at a forward rate of ₹84 per USD for delivery after 3 months.
+However, due to urgent payment requirements, the importer requests early
+delivery after 2 months. At that time, the following rates prevail:
+•   Spot Rate = ₹83.50 per USD
+• 1-month forward premium = ₹0.20
+Required:
+1. Explain the concept of an early delivery (forward cancellation and
+rebooking) in forex.
+2. Calculate the rate at which early delivery will be executed.
+3. Determine the gain or loss to the importer due to early delivery.
+4. Briefly explain why banks charge or adjust rates for early delivery.
+CO-2, SO-2, b   10
+BL-Analyse   A European Call option on a non-dividend paying stock has the following details:
+•   Current Stock Price (S) = ₹150
+•   Exercise Price (K) = ₹140
+•   Risk-free Interest Rate (r) = 6% p.a.
+• Time to Expiry (T) = 1 year
+•   Volatility (σ) = 25% p.a.
+Additional Data:
+• 𝑁(𝑑1) = 0.7791
+• 𝑁(𝑑2) = 0.6827
+Required:
+1. State the Black–Scholes formula for pricing a European Call option.
+2. Calculate the values of 𝑑1and 𝑑2.
+3. Compute the price of the Call option.
+4. Interpret the significance of 𝑁(𝑑1)and 𝑁(𝑑2).
+********** 4 **********
+````
 
 ## 2025-26 · Final-Exam · Sem 6 · paper 6b0dad13ec5b
 

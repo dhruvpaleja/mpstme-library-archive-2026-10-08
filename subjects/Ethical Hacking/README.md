@@ -1,6 +1,6 @@
 # Ethical Hacking
 
-**18** unique papers (41 copies across programmes) · 2021-22 to 2025-26 · 12 programmes · Sem 7, Sem 8, Sem 11, Sem 12
+**21** unique papers (44 copies across programmes) · 2021-22 to 2025-26 · 12 programmes · Sem 7, Sem 8, Sem 9, Sem 11, Sem 12
 
 Download only this subject, sorted by academic year:
 
@@ -29,9 +29,12 @@ Also filed as: `Ethic Hacking`
 | 2024-25 | Final-Exam | Answer key | Sem 12 | BTech (ELECTRONICS & TELECOMMUNICATION | ANS_Ethical Hacking(702IT0E028)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 7 | B TECH / COMPUTER, MBA TECH / COMPUTER | Ethical Hacking, Sem-VII, Batch 2024-25 Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B TECH / COMPUTER, B TECH / IT, MBA TECH / COMPUTER, MBA TECH / I T | Ethical Hacking , Final 2023-24.pdf |
+| 2023-24 | Final-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / COMPUTER | Ethical_Hacking_Batch_2023-24_Final_aRZAkigTrt.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 7 | B TECH / COMPUTER, B TECH / IT, MBA TECH / COMPUTER, MBA TECH / I T | Ethical Hacking , Re-exam 2023-24.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 8 | B TECH / IT, MBA TECH / I T | Ethical Hacking, Sem-VIII, Year 2022-23, Final Exam & Re Exam.pdf |
+| 2022 | Final-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / COMPUTER | Ethical_Hacking_Batch_2022_Final0001_OSeHD1yBna.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 8 | B TECH / IT, MBA TECH / I T | Ethical Hacking, Sem-VIII, Batch 2021-22 & 2022-23, Re Exam.pdf |
+| 2022-23 | Re-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / COMPUTER | Ethical_Hanking_Batch_2022-23_Re_Exam0001_91vrEUa0kx.pdf |
 | 2021-22 | Final-Exam | Question paper | Sem 8 | B TECH / IT, MBA TECH / I T | Ethical Hacking, Sem8,Final,2021-22.pdf |
 | 2021-22 | Re-Exam | Question paper | Sem 8 | B TECH / IT, MBA TECH / I T | Ethical Hacking , Re-exam 2021-2022.pdf |
 

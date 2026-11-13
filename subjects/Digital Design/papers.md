@@ -2071,7 +2071,6 @@ semiconductor memories
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/TRIM IV/DIGITAL DESIGN/2009-2010(86).pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 83.3
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 > SVKM'S (Ve
@@ -2145,6 +2144,7 @@ c) Universal Gates
 
 d) Hazards in combinational circuits
 
+JESS SAIC ISIS I SIG SISI I I ICICI ICI Gf ai ak ak af a ie f ak teak
 
 (10)
 

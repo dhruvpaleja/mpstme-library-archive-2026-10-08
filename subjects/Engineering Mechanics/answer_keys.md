@@ -1334,6 +1334,149 @@ Gaz 4/32 7
 RRRR RARER Q RRR REAR E EK
 ````
 
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 1da21a9630d1
+
+- Departments: Mechanical
+- Programmes: DIPLOMA IN MECHANICAL ENGINEERING - 7072
+- Source: `00_Original_Downloads/2025/Semester II/75268__Re-Exam.zip :: DIPLOMA IN MECHANICAL ENGINEERING - 7072/Engineering Mechanics/ANS_Re-Exam_Engineering Mechanics(701ME0C026)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Jul 2026
+- Text: mixed (6 pages), mean OCR confidence 74.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: Diploma (COMP)/Diploma (CSE)/Diploma (IT)/Diploma (MECH)
+Year: I/Sem 2 Re-exam(Exam Year: 2025-2026)
+Subject: Engineering Mechanics
+Date: 03 Jul 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 6 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume Suitable data if necessary.
+9. Students are allowed to use scientific calculator.
+Q1 (a) Stating law of parallelogram of forces.   [2 marks]
+Explaining law of parallelogram of forces by drawing two concurrent forces and their resultant.
+[3 marks]
+Q1(b) Limiting friction definition   [2 marks]
+Coefficient of friction definition and its equation   [3 marks]
+Q1(c) Definition of centroid and centre of gravity and their differences   [3 marks]
+Significance of them in practical uses   [2 marks]
+Q1(d) simple wheel and axle sketch with labelling   [5 marks]
+Q2(a)
+Y
+Draw with proper reference axes (X and Y axes)
+[2 marks]
+X
+Sl No Shape   Area   𝑋𝑖̅   𝑌𝑖̅ (m)
+‘A’ (m2)   (m)
+1   Rectangle   12   3   1
+2   Triangle   3   7   0.666
+3   Semi-circle   14.137   3   3.273
+********** 1 **********
+--- page 2 ---
+[6 marks]
+𝑋̅ = 𝐴1𝑋1̅̅̅̅+𝐴2𝑋2̅̅̅̅+𝐴3𝑋3̅̅̅̅ = 3.411 m   [2 marks]
+𝐴1+𝐴2+𝐴3
+𝑌̅ = 𝐴1𝑌1̅̅̅+𝐴2𝑌2̅̅̅+𝐴3𝑌3̅̅̅ = 2.068 m   [2 marks]
+𝐴1+𝐴2+𝐴3
+Q2(b) ∑𝐹𝑦 = 0   or, RA + RB = 40
+∑𝑀𝐴 = 0 or, 𝑅𝐵× 6 −40 × 1.5 −16 = 0   [2 marks]
+Solving, RA = 27.33 kN, RB = 12.67 kN   [2 marks]
+Let the equivalent resultant force is acting at a distance of x m from point A. Its magnitude will remain
+40 kN.
+∑𝑀𝐴 = 0 or, 𝑅𝐵× 6 = 40 × 𝑥
+Solving, x = 1.9 m
+Equivalent resultant force is acting at a distance of 1.9 m from point A.   [4 marks]
+Q3(a) (i) Definition of moment of a force with a neat sketch.   [2 marks]
+Significance of moment   [2 marks]
+(ii) Varignon’s theorem states that the moment of the resultant of a system of forces about any point
+is equal to the algebraic sum of the moments of the individual forces about the same point.   [2 marks]
+Proof of Varignon’s theorem   [2 marks]
+Q3(b)
+[2 marks]
+∑𝐹𝑥 = 0   or, PCos30o – 0.3R = 0
+∑𝐹𝑦 = 0   or, PSin30o + R = 200
+Solving, P = 59.053 N   [3 marks]
+********** 2 **********
+--- page 3 ---
+Q3(c)
+FBD
+[2 marks]
+∑𝐹𝑥 = 0   or, NAsin30o – NB = 0
+∑𝐹𝑦 = 0   or, NAcos30o-W = 0   [2 marks]
+Solving, NA = 566.38 N and NB = 283.19 N   [3 marks]
+Q4(a)
+[3 marks]
+∑𝐹𝑥 = 0   or, 40Cos25o – F = 0   or, F = 36.252 N   [2 marks]
+R = F/μ = 120.84 N   [1 mark]
+∑𝐹𝑦 = 0   or, R +40Sin25-W = 0   [2 marks]
+W = 137.744 kN   [2 marks]
+Q4(b) FBD of all the load and moments   [3 marks]
+∑𝐹𝑦 = 0   or, RA + RC = 20 + 15 X 2 + ½ X 15 X 2 = 65
+∑𝑀𝐴 = 0 or, Rc X 3 – 20 X 4.5 + 50 – (15 X 2) X 1 – (½ X 15 X 2) X (2/3 X 2) = 0   [5 marks]
+RA = 35 kN and Rc = 30 kN   [2 marks]
+********** 3 **********
+--- page 4 ---
+Q5(a) Frictional forces in a machine arise wherever two surfaces are in contact and move (or try to move)
+relative to each other. In lifting machines, the main sources of friction include: bearing friction, sliding
+friction, rolling friction, air resistance, friction in ropes/chains.   [4 marks]
+𝐸𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑐𝑦 𝑜𝑓 𝑎 𝑚𝑎𝑐ℎ𝑖𝑛𝑒= 𝑈𝑠𝑒𝑓𝑢𝑙 𝑜𝑢𝑡𝑝𝑢𝑡 𝑤𝑜𝑟𝑘 × 100   [2 marks]
+𝐼𝑛𝑝𝑢𝑡 𝑤𝑜𝑟𝑘
+Friction reduces efficiency because part of the input work is wasted in overcoming friction. Therefore,
+higher friction produces lower efficiency.   [2 marks]
+A machine is reversible if the load can move the machine in the reverse direction (i.e., the output can
+drive the input).
+For low friction, machine is reversible. For high friction, machine becomes non-reversible (self-locking).
+[2 marks]
+Q5(b)
+[3 marks]
+∑𝐹𝑥 = 1.16 N   [2 marks]
+∑𝐹𝑦 = 35.31 N   [2 marks]
+R = 35.329 N   [2 marks]
+θ = 88.11o with respect to the positive x-axis   in first quadrant   [1 mark]
+Q6(a)
+********** 4 **********
+--- page 5 ---
+Calculate 6 = 36.87° as shown in figure [2 marks]
+
+Draw FBD
+
+[3 marks]
+XA, =0_ or, Rp = 2000 N
+YF. =0 or, Ra—Rc=0
+Ra = Re = 1333.33 N [5 marks]
+Q6(b)
+
+[4 marks]
+
+Q6(c)
+
+kx
+--- page 6 ---
+[1.5 x 4 = 6 marks]
+Q7(a)
+[3 marks]
+[2 marks]
+[3 marks]
+Q7(b) As the line of action of forces 2 kN and 1 kN are passing through point C, moment of these two
+forces w.r.t. point C is zero.   [2 marks]
+3 kN force is acting at a distance of 2 sin60o = 1.732 m distance.   [2 marks]
+Total moment = - 3 x 1.732 = - 5.196 kNm   [1 mark]
+Negative sign indicates that moment is in the clockwise direction.   [1 mark]
+Q7(c) Describe roller, hinge and fixed support with figure and example.   [3 marks]
+Also show the support reaction for all of them.   [3 marks]
+********** 6 **********
+````
+
 ## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 13631644a76b
 
 - Departments: Civil
@@ -2743,6 +2886,109 @@ t J ee i: i,
 FRR ICR] DA KH
 ````
 
+## 2024-25 · Final-Exam · Sem 2 · Answer key · paper 8315c6b9a1bf
+
+- Departments: Information Technology
+- Programmes: DIPLOMA IN INFORMATION TECHNOLOGY - 7075
+- Source: `00_Original_Downloads/2024/Semester II/67783__Final-Exam__context_fixed.zip :: DIPLOMA IN INFORMATION TECHNOLOGY - 7075/Engineering Mechanics/ANS_Final-Exam_Engineering Mechanics(701ME0C026)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Apr 2025
+- Text: text (4 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: DIPLOMA IN COMPUTER ENGINEERING/DIPLOMA IN COMPUTER
+SCIENCE AND ENGINEERING/DIPLOMA IN INFORMATION
+TECHNOLOGY/DIPLOMA IN MECHANICAL ENGINEERING
+Year: I/Semester II(Exam Year: 2024-2025)
+Subject: Engineering Mechanics
+Date: 30 Apr 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. _1___ is compulsory.
+5. Out of remaining questions, attempt any __4___ questions.
+6. In all ___5_ questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly:
+a.   Statement (2 marks), Diagram (2 marks), Equation (1 marks)
+b.   Definition (1 marks), explain (2 marks), and characteristics of forces with diagram (2
+amrks).
+c.   Definition (3 marks) and diagram – (2 marks)
+d.   Explanation (3 marks) and diagram – (2 marks)
+FBD – 3 marks
+Equation 4 masks
+Calculation   2
+marks
+P ans – 1 marks
+Q2 a
+Calculation of Fx and Fy – [4 marks]
+R = 6.65 KN; [0.5 marks]
+Ⴔ = 20.5°; [0.5 marks]
+Q2 b. ∑𝑀𝐴= 5.38 𝑘𝑁𝑚 [3 marks]
+d = 0.88 m [1 marks]
+Location – [1 marks]
+********** 1 **********
+--- page 2 ---
+Calculation of Fx and Fy – [6 marks]
+R - [1 marks]
+Q3 a. Ⴔ - [2 marks] and location - [1 marks]
+FBD – 3 marks
+Fy – 2 marks
+Fx – 1 marks
+Moment – 3 marks
+Final ans 1 marks
+Q3 b.
+FBD (3 marks),
+Equations (4 marks),
+calculation of Rab – (2 marks)
+and calculation of Rc – (1 marks)
+Q4 a.
+FBD (1 marks)
+Calculation of Fx and Fy – [3 marks]
+R - [0.5 marks]
+Ⴔ - [0.5 marks]
+Q4 b.   ∑M0 − [3 marks]
+d - m [1 marks]
+Location – [1 marks]
+********** 2 **********
+--- page 3 ---
+FBD 4 marks
+Lamis equations 4
+marks
+Final ans 2 marks
+Q5 a.
+Q5 b.   Output calculation 2 marks
+Input and η calculation 2 marks
+W calculation 2 mark
+MA calculation 2 marks
+VR calculation 2 marks
+FBD 4 Marks
+Equation 4 marks
+Calculationon of µ - 2 marks
+Q6 a.
+********** 3 **********
+--- page 4 ---
+5 marks calculation of table content
+5 marks calculation of Xc and Yc
+Q6 b.
+.
+Xc = 14.24 cm and Yc = 23.38 cm
+Q7 a.   Calculation of Fy - 3 marks - Fy = 10 sin 36 + 10 sin 72 + 3 sin 72
+Fy = 18.24 kN – 2 marks
+2.5 march for each FBD
+Q7 b.
+Q7 c.
+Calculation of table - 5 marks
+Calculation of Xc and Yc - 5 marks
+********** 4 **********
+````
+
 ## 2024-25 · Final-Exam · Sem 2 · Answer key · paper cc5e226b87f3
 
 - Departments: Civil
@@ -3671,6 +3917,125 @@ Q7 c.
 Calculation of table - 5 marks
 Calculation of Xc and Yc - 5 marks
 ********** 4 **********
+````
+
+## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 650a6d277b59
+
+- Departments: Computer Science
+- Programmes: DIPLOMA IN COMPUTER SCIENCE AND ENGINEERING - 7074
+- Source: `00_Original_Downloads/2024/Semester II/69329__Re-Exam__context_fixed.zip :: DIPLOMA IN COMPUTER SCIENCE AND ENGINEERING - 7074/Engineering Mechanics/ANS_Re-Exam_Engineering Mechanics(701ME0C026)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Jul 2025
+- Text: mixed (4 pages), mean OCR confidence 47.4
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: DIPLOMA IN COMPUTER ENGINEERING/DIPLOMA IN COMPUTER
+SCIENCE AND ENGINEERING/DIPLOMA IN INFORMATION
+TECHNOLOGY/DIPLOMA IN MECHANICAL ENGINEERING
+Year: I/Sem 2 Re-exam(Exam Year: 2024-2025)
+Subject: Engineering Mechanics
+Date: 03 Jul 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. _1___ is compulsory.
+5. Out of remaining questions, attempt any __4___ questions.
+6. In all ___5_ questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly:
+a.   Definition (1 marks). Point, UDL, and UVL (3 marks) – explanation (1 marks)
+b.   Any 5 point – (1 marks each)
+c.   Principle of transmissibility statement (3 marks) and diagram (2 marks)
+d.   Statement – (2 marks), condition of irreversibility of a machine – (2 marks), explanation (1
+marks).
+FBD – 3 marks
+Equation 4 masks
+Calculation 2 marks
+P ans – 1 marks
+Q2 a.
+Calculation of Fx and Fy – [4 marks]
+R= 44.6 KN; [0.5 marks]
+Ⴔ = 49.83°; [0.5 marks]
+Q2 b.
+∑M0= −62.34 kNm [3 marks]
+d = 1. 396 m [1 marks]
+Location – [1 marks]
+********** 1 **********
+--- page 2 ---
+Calculation of Fx and Fy – [6 marks]
+R - [1 marks]
+Ⴔ - [2 marks] and location - [1 marks]
+Q3 a
+FBD – 3 marks
+Fy – 2 marks
+Q3 b.   Fx – 1 marks
+Moment – 3 marks
+Final ans 1 marks
+Q4 a.
+FBD (3 marks), Equations (4 marks), calculation of X – (2 marks) and calculation of F – (1
+marks)
+FBD (1 marks)
+Calculation of Fx and Fy – [3 marks]
+R - [0.5 marks]
+Ⴔ - [0.5 marks]
+Q4 b.   ∑M0 − [3 marks]
+d - m [1 marks]
+Location – [1 marks]
+Lamis equations 4 marks
+Q5 a.
+Final ans 3 marks
+FBD 3 marks
+Equation 4 marks
+M calculation 1 marks
+C calculation 2 mark
+P calculation 2 marks
+Q5 b.
+Max MA calculation 1 marks
+********** 2 **********
+--- page 3 ---
+Q6 a.
+FBD 2 Marks and Equation 3 marks
+FBD 2 Marks and Equation 3 marks
+5 marks calculation of table content
+5 marks calculation of Xc and Yc
+Q6 b.
+Angle calculations 2 marks
+Equation of Fx – 2 m
+Final ans 1 marks
+Q7 a.
+2.5 march for each FBD
+Q7 b.
+********** 3 **********
+--- page 4 ---
+QTc.
+
+me | SHAPE AREA x | >» | Ax | Ay
+mf om fom | ms | ms
+: bA\ 7-068 | -273/F-293/8°I93 |S): Gos
+2
+© 97 ' 14 7 9 Jax
+16-069 13-993 [87-408
+5 marks
+
+ye ZAx 17-993
+SA ~~ d'(6 068
+
+Ya Zr _ 8?-b0ox
+eA ~ 16.068
+
+Gales,
+C= (=F) ae (1-12 ,S-439)
+
+5 marks
+
+FIC 7) IC HOH
 ````
 
 ## 2024-25 · Re-Exam · Sem 2 · Answer key · paper c65555cb23a0

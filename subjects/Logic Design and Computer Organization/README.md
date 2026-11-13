@@ -1,6 +1,6 @@
 # Logic Design and Computer Organization
 
-**4** unique papers (4 copies across programmes) · 2023-24 to 2024-25 · 2 programmes · Sem 2
+**6** unique papers (6 copies across programmes) · 2023-24 to 2024-25 · 3 programmes · Sem 2
 
 Download only this subject, sorted by academic year:
 
@@ -16,6 +16,8 @@ Also filed as: `LOGICAL DESIGN AND COMPUTER ORGANIZATION`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2024-25 | Final-Exam | Question paper | Sem 2 | BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE) - 7011 | QP_Final-Exam_Logic Design and Computer Organization(702CO0C053)_Semester II_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE) - 7011 | ANS_Final-Exam_Logic Design and Computer Organization(702CO0C053)_Semester II_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech CSE DS 7011 | QP_Logic Design and Computer Organization(702CO0C053)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 2 | BTech CSE DS 7011 | ANS_Logic Design and Computer Organization(702CO0C053)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 2 | B TECH | Logical Design and Computer Organization, Sem-II, Final Exam 2023-24.pdf |

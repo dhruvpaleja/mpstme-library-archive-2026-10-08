@@ -2,6 +2,256 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2024-25 · Final-Exam · Sem 2 · Answer key · paper 7bae18013fe5
+
+- Departments: Data Science
+- Programmes: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE) - 7011
+- Source: `00_Original_Downloads/2024/Semester II/67783__Final-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE) - 7011/Logic Design and Computer Organization/ANS_Final-Exam_Logic Design and Computer Organization(702CO0C053)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 06 May 2025
+- Text: mixed (8 pages), mean OCR confidence 76.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND
+ENGINEERING (DATA SCIENCE)
+Year: I/Semester II(Exam Year: 2024-2025)
+Subject: Logic Design and Computer Organization
+Date: 06 May 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 8 pages.
+2. Question No. 1 is compulsory
+3. Out of remaining questions, attempt any 4 questions
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1
+Answer briefly:   [20]
+a.   Perform the given conversion,
+= (41938)10   (1M)
+= (1010001111010010)2   (2M)   [5]
+= (121722)8   (2M)
+b.   Y=(A+C+D)(B+C′)(A′+D′)   [5]
+c.   [5]
+d.   [5]
+********** 1 **********
+--- page 2 ---
+Q2
+
+Static RAM Dynamic RAM
+
+1 Static RAM contains less | Dynamic RAM contains more memory
+memory cells per unit area. | cells as compared to static RAM per unit
+area.
+
+2 It less access time hence | Its access time is greater than static
+faster memories RAMs.
+
+3 Static RAM _ consists of | Dynamic RAM stores the data as a charge
+number of flip-flops. Each | on the capacitor. It consists of MOSFET
+flip-flop stores one bit. and the capacitor for each cell.
+
+4 Refreshing circuitry is not| Refreshing circuitry is required to
+required. maintain the charge on the capacitors after
+every few milliseconds. Extra hardware is
+required to control refreshing. This makes
+
+system design complicated.
+
+5 Cost is more. Cost is less.
+
+Full Subtractors
+
+The disadvantage of a half subtractor is overcome by full subtractor. The full subtractor is a
+combinational circuit with three inputs A,B,C and two output D and C’. A is the 'minuend’, B
+is ‘subtrahend’, C is the ‘borrow’ produced by the previous stage, D is the difference output
+and C' is the borrow output.
+
+Truth Table
+
+fl
+0)
+
+FIC 2 I HH ar
+--- page 3 ---
+Circuit Diagram
+
+A BC
+
+sl | me
+
+L P LY D=A+B+C
+ee. eee
+I ey, AC+AB+BC
+
+. ——
+
+Control Unit (3M)
+
+Arithmetic Logic Unit (4 M) 0
+registers (3) a
+Dividend (D) = 1319 = 11012
+Divisor (d) = 319 = 00112
+Number of bits (7) = 4
+Initial Accumulator (A) = 00002
+Initial Quotient (Q) = 11012
+Perform 4 iterations (since n = 4)
+Non-Restoring Division Table
+Step Operation A (Accumulator) Q (Quotient) Action (Qo)
+Initial Start 0000 1101
+Q3 1 Shift Left (A, Q) 0001 1010
+A= A -~ d(0001 - 0011) 1110 1010 0 (Negative)
+2 Shift Left (A, Q) 1101 0100
+A=A+d(1101 + 0011) Wi 0100 0 (Negative)
+3 Shift Left (A, Q) 1110 1000
+A= A+ d(1110 + 0011) 0001 1000 1 (Positive)
+4 Shift Left (A, Q) 0011 0000
+A= A-~d (0011-0011) 0000 0001 1 (Positive)
+(1
+0]
+
+FC QI a iar
+--- page 4 ---
+MEMORY
+INTERFACE
+
+a ed
+ino CBOE al
+
+|
+
+1 STREAM
+
+1 4 BYTE
+
+1 3 QUEUE
+
+{ 8-8US 2
+
+H =
+
+| 35 i
+
+i \
+
+1 1
+
+i ! CONTROL
+
+L | SYSTEM
+
+1 &u ¢ A-BUS
+
+| AH AL
+H BH BL
+H cr cL ARITHMETIC
+I DH DL LOGIC UNIT
+1 SP
+H BP
+! Si
+i Bi [OPERANDS].
+| FLAGS: J |
+FIGURE 2-7 8086 internal block diagram. (Intel Corp.)
+Diagram 4 M
+explanation 6 M
+(1
+0)
+Q4 D.
+Output
+} FS > OFF 2 FFA > FEO
+l |
+CuK
+
+FIC 7) IC HOH
+--- page 5 ---
+b.   The IEEE Standard for Floating-Point Arithmetic (IEEE 754) is a technical
+standard for floating-point computation which was established in 1985 by
+the Institute of Electrical and Electronics Engineers (IEEE). The standard
+addressed many problems found in the diverse floating-point
+implementations that made them difficult to use reliably and reduced their
+portability. IEEE Standard 754 floating point is the most common
+representation today for real numbers on computers, including Intel-based
+PC’s, Macs, and most Unix platforms.
+There are several ways to represent floating point number but IEEE 754 is
+the most efficient in most cases. IEEE 754 has 3 basic components:
+1.   The Sign of Mantissa –
+This is as simple as the name. 0 represents a positive number while 1
+represents a negative number.
+2.   The Biased exponent –
+The exponent field needs to represent both positive and negative
+exponents. A bias is added to the actual exponent in order to get the stored
+exponent.
+3.   The Normalised Mantissa –
+The mantissa is part of a number in scientific notation or a floating-point
+number, consisting of its significant digits. Here we have only 2 digits, i.e. O
+and 1. So a normalised mantissa is one with only one 1 to the left of the
+decimal.
+********** 5 **********
+--- page 6 ---
+IEEE 754 numbers are divided into two based on the above three
+components: single precision and double precision.
+a.   Booth algorithm gives a procedure for multiplying binary integers in signed 2’s
+complement   representation in   efficient   way,   i.e.,   less   number   of
+additions/subtractions required
+Q5   [1
+0]
+(A,Q)=0001 1100
+Converting to decimal:
+********** 6 **********
+--- page 7 ---
+b.
+[1
+0]
+a.   Programmed I/O. 3M
+Q6   Interrupt- initiated I/O. 3M   [1
+Direct memory access (DMA). 4M
+0]
+b.   [1
+❖ The addressing mode is divided into following groups,
+1) Register addressing mode   0]
+2) Immediate addressing mode
+3) Memory addressing mode
+4) String addressing mode
+5) I/O addressing mode
+6) Implied addressing mode
+❖ The different memory addressing modes available are :
+1) Direct memory addressing mode.
+2) Register indirect addressing mode.
+3) Register relative addressing mode.
+4) Based indexed addressing mode.
+5) Relative based indexed addressing mode
+********** 7 **********
+--- page 8 ---
+a.   data segment   [1
+num1 dw h   0]
+num2 db 12h
+quo db ?
+rem db ?
+data ends
+code segment
+start: assume ds:data, cs:code
+Q7   mov ax,data
+mov ds,ax
+mov ax,num1
+div num2
+mov quo,al
+mov rem,ah
+mov ax,4c00h
+int 21h
+code ends
+end start
+b.   K-Map entry (02 Marks) and correct Grouping with expression (06   [1
+Marks) + circuit implementation (02 Marks)   0]
+Y = A̅D + B̅CD + AB̅C̅
+********** 8 **********
+````
+
 ## 2024-25 · Re-Exam · Sem 2 · Answer key · paper c8a60981940a
 
 - Departments: Data Science

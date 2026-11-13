@@ -4184,6 +4184,398 @@ Optimal   entire problem.   achieved after considering all items.
 ********** 9 **********
 ````
 
+## 2024-25 · Final-Exam · Sem 4 · Answer key · paper fc13de4bfbe2
+
+- Departments: Data Science
+- Programmes: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE) - 7011
+- Source: `00_Original_Downloads/2024/67804__Semester IV__context_fixed.zip :: Final-Exam/BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE) - 7011/Design and Analysis of Algorithms/ANS_Final-Exam_Design and Analysis of Algorithms(702CO0C010)_Semester IV_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2025
+- Text: mixed (15 pages), mean OCR confidence 29.9
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND
+ENGINEERING (DATA SCIENCE)
+Year: II/Semester IV(Exam Year: 2024-2025)
+Subject: Design and Analysis of Algorithms
+Date: 05 May 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 15 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions
+6. In all 5 questions to be attempted
+7. All questions carry equal marks.
+8. Assume suitable data if necessary.
+Q1
+Answer briefly:   [20]
+a.   Differentiate between the Greedy and divide-and-conquer algorithmic
+approaches.
+1. Definition
+Appro   Divide-and-Conquer
+CO- ;   Greedy Algorithm
+ach   Algorithm   [5]
+SO- ;
+Makes locally optimal   Breaks a problem into smaller
+BL-
+Conce choices at each step, hoping subproblems, solves them
+pt   to reach a globally optimal recursively, and then combines
+solution.   the results.
+Selects the best choice at
+Solves problems by dividing,
+Strate the moment without
+solving independently, and
+gy   considering future
+combining the results.
+consequences.
+b.   Apply the Kruskal algorithm using the greedy approach to calculate the
+CO- ;
+SO- ;   minimum spanning tree from the graph below. Will the Kruskal work   [5]
+BL-   efficiently for a directed Graph? State the reason
+********** 1 **********
+--- page 2 ---
+c.   Determine the time complexity of quicksort in the worst-case scenario
+using the Substitution method.
+1. Quicksort Recurrence Relation
+Quicksort follows the divide-and-conquer approach, where:
+• The pivot divides the array into two parts.
+• We recursively sort the two subarrays.
+• We then combine the sorted parts.
+In the worst case, Quicksort selects the smallest or largest element as the
+pivot, causing one partition to have n−1n-1n−1 elements and the other to
+have 0 elements. This leads to the recurrence relation:
+T(n)=T(n−1)+O(n)T(n) = T(n-1) + O(n)T(n)=T(n−1)+O(n)
+where:
+•   T(n−1)T(n-1)T(n−1) is the time to sort the larger subarray.
+CO- ;   •   O(n)O(n)O(n) is the time to partition the array.
+SO- ;   [5]
+BL-
+2. Solving Using the Substitution Method
+We expand the recurrence step by step:
+T(n)=T(n−1)+cnT(n) = T(n-1) + cnT(n)=T(n−1)+cn
+Expanding further,
+T(n−1)=T(n−2)+c(n−1)T(n-1) = T(n-2) + c(n-1)T(n−1)=T(n−2)+c(n−1)
+T(n−2)=T(n−3)+c(n−2)T(n-2) = T(n-3) + c(n-2)T(n−2)=T(n−3)+c(n−2)
+Expanding until we reach the base case T(1)=O(1)T(1) = O(1)T(1)=O(1), we
+get:
+T(n)=T(n−1)+cnT(n) = T(n-1) + cnT(n)=T(n−1)+cn =(T(n−2)+c(n−1))+cn=
+\left( T(n-2) + c(n-1) \right) + cn=(T(n−2)+c(n−1))+cn
+=((T(n−3)+c(n−2))+c(n−1))+cn= \left( \left( T(n-3) + c(n-2) \right) + c(n-1)
+\right) + cn=((T(n−3)+c(n−2))+c(n−1))+cn =T(1)+c(2+3+⋯+(n−1)+n)= T(1) + c(2
++ 3 + (n-1) + n)=T(1)+c(2+3+⋯+(n−1)+n)
+T(n)=O(n2)T(n) = O(n^2)T(n)=O(n2)
+********** 2 **********
+--- page 3 ---
+d.   Write the algorithm for Bellman-Ford's Single Source Shortest Path using
+Dynamic Programming. Justify its Time complexity step by step.
+CO- ;
+SO- ;   [5]
+BL-
+a.   Consider the set S = {5, 10, 12, 13, 15, 18} and d = 30. Solve it to obtain
+the sum of the subset using Backtracking
+[10]
+Let A1, A2, A3, and A4 be four matrices of dimensions 10 x 5 , 5 x 20,
+Q2   b.   20 x 10, and 10 x 5, respectively. Calculate the minimum number of
+CO-;   scalar multiplications required to find the product A1 × A2 × A3 × A4   [10]
+SO-;
+BL-   using matrix chain multiplication with dynamic programming. Show the
+parenthesizing of the product to achieve the lowest multiplication.
+Verify the answer with basic matrix multiplication. (Show complete
+steps)
+a.   [3]
+Define the properties of the Algorithm. Write an algorithm for searching
+an element in a sorted array of size ‘n.’
+Properties of an Algorithm
+Q3
+An algorithm is a finite sequence of well-defined instructions used to solve a
+CO-;   problem. A good algorithm should have the following properties:
+SO-; BL-
+1. Input
+• The algorithm must take zero or more inputs.
+********** 3 **********
+--- page 4 ---
+2. Output
+• The algorithm must produce at least one output (result).
+3. Definiteness
+• Each step must be precise and unambiguous.
+4. Finiteness
+• The algorithm must terminate after a finite number of steps.
+5. Effectiveness
+• Each step should be simple enough to be executed in a finite time.
+6. Correctness
+• The algorithm must produce the correct output for all valid inputs.
+7. Generality
+• The algorithm should be applicable to various inputs, not just a single
+case.
+Implement quicksort on the following list of numbers, using the first
+number as the pivot, and discuss its asymptotic analysis for all cases:
+<20, 33, 10, 8, 27, 58, 6, 66, 11, 49>. Show complete data trace path.
+[7]
+b.
+********** 4 **********
+--- page 5 ---
+Solve the two strings A = “abcbdab” and B = “bdcaba” for the longest
+common subsequence using dynamic programming. Let x be the length
+of the longest common subsequence between A and B, and let y be the
+number of such subsequences. Then, compute x + 10y. Justify its Time
+Complexity.
+********** 5 **********
+--- page 6 ---
+c.   [10]
+a.   [5]
+Find the solution to the recurrence T(n) = T(n/2) + T(n/4) + n2 using the
+recursion tree method. Show complete steps.
+Q4
+CO-;
+SO-;
+BL-
+********** 6 **********
+--- page 7 ---
+Apply the Master Theorem to determine the time complexity and identify
+the case number and error.
+T (n) = 4T (n/5) + 5n
+Write an algorithm for a Multistage Graph (MSG) algorithm using
+Dynamic programming with backward reasoning to calculate the
+minimum shortest travelling distance from source to destination.
+Discuss its time complexity.
+def multistage_graph(cost, n, stages):
+# Step 1: Initialize Distance and Path Arrays
+INF = float('inf')
+dist = [INF] * (n + 1)
+path = [0] * (stages + 1)
+# Step 2: Distance of Destination Node is 0
+dist[n] = 0
+b.   # Step 3: Compute Shortest Distance for each node (Backward)   [5]
+for i in range(n - 1, 0, -1): # Traverse nodes in reverse
+for j in range(i + 1, n + 1): # Check all possible outgoing edges
+if cost[i][j] != INF: # If edge exists
+dist[i] = min(dist[i], cost[i][j] + dist[j])
+c.
+# Step 4: Find the Shortest Path   [5]
+path[1] = 1 # Start from the source
+for i in range(2, stages + 1):
+for j in range(path[i - 1] + 1, n + 1):
+if cost[path[i - 1]][j] != INF and dist[path[i - 1]] == cost[path[i -
+1]][j] + dist[j]:
+path[i] = j
+break # Move to the next stage
+# Step 5: Return Result
+return dist[1], path
+********** 7 **********
+--- page 8 ---
+# Example Usage
+INF = float('inf')
+n = 8 # Number of nodes
+stages = 4 # Number of stages
+cost = [[INF] * (n + 1) for _ in range(n + 1)] # Initialize cost matrix
+# Define the graph with given costs
+cost[1][2] = 2; cost[1][3] = 1
+cost[2][4] = 3; cost[2][5] = 2
+cost[3][5] = 3; cost[3][6] = 6
+cost[4][7] = 2; cost[5][7] = 1
+cost[6][7] = 4
+cost[7][8] = 3
+# Find minimum shortest distance and path
+min_cost, shortest_path = multistage_graph(cost, n, stages)
+print("Minimum Shortest Distance:", min_cost)
+print("Shortest Path:", shortest_path)
+a.   Discuss the Best, Worst, and Average cases in terms of asymptotic   [10]
+notation for computing the time complexity of an algorithm, providing a
+suitable example.
+Best, Worst, and Average Cases in Asymptotic Notation
+In algorithm analysis, we determine the efficiency of an algorithm using
+asymptotic notation, which describes the time complexity in different
+scenarios: best case, worst case, and average case. These cases help us
+understand how an algorithm performs under various input conditions.
+1. Best Case (Ω - Omega Notation)
+Q5   The best-case scenario represents the situation where the algorithm
+performs the minimum number of operations. It provides a lower bound on
+CO-;   the time complexity.
+SO-;
+BL-   Example: Linear Search
+Consider a linear search algorithm that searches for an element in an
+unsorted array. The best case occurs when the target element is found at the
+first position.
+2. Worst Case (O - Big-O Notation)
+The worst-case scenario represents the situation where the algorithm takes
+the maximum number of operations to complete. It provides an upper bound
+on the time complexity.
+Example: Linear Search
+If the target element is not in the array or is at the last position, the
+algorithm will iterate through the entire list.
+********** 8 **********
+--- page 9 ---
+• Worst case complexity: O(n)\mathbf{O(n)}O(n), where nnn is the
+number of elements in the array.
+3. Average Case (Θ - Theta Notation)
+The average-case complexity considers all possible inputs and calculates the
+expected time complexity.
+Example: Linear Search
+In an average scenario, the target element may be found anywhere in the
+array. If we assume that the element is equally likely to appear at any
+position:
+• On average, the algorithm searches half of the elements before
+finding the target.
+• Average case complexity: Θ(n)\mathbf{\Theta(n)}Θ(n).
+Write and apply the Dijkstra algorithm to find all-pair shortest paths
+from source 1. Interpret its algorithm and complexity.
+[10]
+b.
+a.   [2+5]
+List various types of algorithms. Describe the characteristics of those
+algorithms. Also, describe their use cases.
+1. Brute Force Algorithm
+Characteristics
+Q6   •   Tries all possible solutions to find the best one.
+•   Simple but inefficient for large problems.
+CO-;   • Guarantees a correct solution (if an exhaustive search is possible).
+SO-;
+BL-   Use Cases
+• Password Cracking: Trying all possible combinations.
+•   Traveling Salesman Problem (TSP): Checking all possible routes.
+•   Sorting (Bubble Sort, Selection Sort): Comparing all elements
+iteratively.
+********** 9 **********
+--- page 10 ---
+2. Divide and Conquer Algorithm
+Characteristics
+•   Breaks a problem into smaller subproblems.
+•   Solves subproblems recursively and combines solutions.
+•   Efficient for large-scale problems.
+Use Cases
+• Merge Sort & Quick Sort: Sorting algorithms using partitioning.
+•   Binary Search: Splitting the search space in half each step.
+•   Fast Fourier Transform (FFT): Used in signal processing.
+3. Dynamic Programming (DP)
+Characteristics
+•   Breaks problems into overlapping subproblems.
+•   Stores computed results to avoid redundant calculations
+(memoization).
+•   Efficient for optimization problems.
+Use Cases
+•   Fibonacci Sequence Calculation: Avoids redundant calculations.
+• Knapsack Problem: Maximizing profit with limited weight capacity.
+•   Shortest Path (Bellman-Ford Algorithm): Finding the shortest path in
+graphs.
+4. Greedy Algorithm
+Characteristics
+• Makes the best local choice at each step.
+• Does not always guarantee an optimal solution but is efficient.
+• Works well for optimization problems.
+Use Cases
+• Huffman Coding: Data compression technique.
+•   Prim’s & Kruskal’s Algorithm: Minimum spanning tree (MST)
+problems.
+•   Dijkstra’s Algorithm: Shortest path finding in graphs.
+5. Backtracking Algorithm
+Characteristics
+•   Explores all possible solutions but abandons those that fail
+constraints (pruning).
+• Uses recursion to explore paths.
+•   Efficient for combinatorial problems.
+********** 10 **********
+--- page 11 ---
+Use Cases
+• N-Queens Problem: Placing queens on a chessboard without attack.
+• Sudoku Solver: Filling in a grid with constraints.
+• Graph Coloring Problem: Assigning colors without conflicts.
+6. Recursive Algorithm
+Characteristics
+•   Solves a problem by calling itself with modified parameters.
+• Uses a base case to terminate recursion.
+•
+Write and explain the algorithm for Kruskal using dynamic
+programming. Justify its complexity.
+class DisjointSet:
+def __init__(self, n):
+self.parent = [i for i in range(n)]
+self.rank = [0] * n # Rank for union optimization
+[8]
+def find(self, x):
+b.   if self.parent[x] != x:
+self.parent[x] = self.find(self.parent[x]) # Path Compression
+return self.parent[x]
+def union(self, x, y):
+root_x = self.find(x)
+root_y = self.find(y)
+if root_x != root_y:
+if self.rank[root_x] > self.rank[root_y]:
+self.parent[root_y] = root_x
+elif self.rank[root_x] < self.rank[root_y]:
+self.parent[root_x] = root_y
+else:
+self.parent[root_y] = root_x
+self.rank[root_x] += 1 # Increment rank if ranks are equal
+********** 11 **********
+--- page 12 ---
+def kruskal_mst(graph, V):
+# Step 1: Sort edges by weight
+Define Exhaustive search. Write control abstraction for the
+Backtracking algorithm.
+Exhaustive Search
+Exhaustive search is a brute force algorithmic technique that systematically
+explores all possible solutions to find the best one. It is used when no
+efficient algorithm is available for solving a problem optimally.
+Characteristics of Exhaustive Search
+•   Tries all possible combinations of solutions.
+• Guaranteed to find the optimal solution, if one exists.
+•   Computationally expensive for large input sizes due to exponential
+complexity.
+•   Often used in combinatorial optimization problems.
+[2+3]
+Examples of Exhaustive Search
+c.
+1. Brute-force password cracking (trying all possible passwords).
+2. Traveling Salesman Problem (TSP) (checking all possible paths).
+3. Subset Sum Problem (checking all subsets to find a sum).
+a.   [5]
+Q7
+CO-;   Explain with examples all three cases of the Master Theorem.
+SO-;
+BL-
+********** 12 **********
+--- page 13 ---
+b.
+Define state space tree. Explain with an example.
+State Space Tree
+A State Space Tree is a tree representation of all possible states (or
+configurations) of a problem as it progresses through different stages of
+computation. It is primarily used in backtracking and branch-and-bound   [5]
+algorithms to visualize how the solution space is explored.
+Characteristics of a State Space Tree
+1. Root Node: Represents the initial state of the problem.
+c..   2. Internal Nodes: Represent partial solutions.
+3. Leaf Nodes: Represent either a complete solution or a failure (dead-
+end).
+4. Branches: Represent choices made at each step.
+Write and explain the algorithm for Merge Sort by providing a suitable
+example. Discuss its time complexity for all cases.
+[5]
+********** 13 **********
+--- page 14 ---
+d.
+[5]
+Explain the Graph coloring problem using the backtracking method.
+Discuss its time complexity,
+Graph Coloring Using Backtracking
+Backtracking Approach
+•   Start from the first vertex and try assigning a color.
+• Move to the next vertex and assign a valid color (not used by its
+adjacent vertices).
+•   If all vertices are colored successfully, print the solution.
+•   If no valid color is found, backtrack and change the previous vertex's
+color.
+********** 14 **********
+--- page 15 ---
+FRR IC 7 DA HOH
+````
+
 ## 2024-25 · Re-Exam · Sem 4 · Answer key · paper 50beb19a8501
 
 - Departments: Data Science

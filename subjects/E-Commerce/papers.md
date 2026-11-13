@@ -1,6 +1,6 @@
 # E-Commerce: question papers in full
 
-27 unique papers · 2013-14 to 2025-26 · Computer Engineering, Information Technology, Computer Science
+28 unique papers · 2013-14 to 2025-26 · Computer Engineering, Information Technology, Computer Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -862,6 +862,79 @@ a. Different payment techniques. [4]
 b. Future of e-commerce
 ce. EDIFACT (3]
 d. Pervasive computing [3]
+````
+
+## 2018-19 · Final-Exam · Sem 10 · paper 847ebcb6d551
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: COMPUTER/SEM X/E COMMERCE/E-_Commerce_2018-19_Final_eKuT6WywyM.pdf`
+- Printed on paper: duration hours: 3; exam date: 17 April 2019
+- Text: ocr (2 pages), mean OCR confidence 92.3
+
+````text
+Program :B.Tech Integrated (COMPUTER) wr
+Academic Year: 2018-2019
+
+Subject: E-Commerce ,
+Date : 17 April 2019 Time: 02.00 pm to 05.00 pm
+
+Duration: 3 (hrs)
+No. of Pages: 6 2-
+Final Examination (2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is.compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1 A XYZisaclothing brand and they decided to re-develop an online shopping website. (6]
+The website includes clothing for men, women and kids. Website has various offers on
+occasions and for platinum/gold/premium level customers..
+Answer the following questions with respect to above case study:
+1.List Down The client-side technology will be used to get the better user experience
+2.How to minimize the loading time while redeveloping website.
+3.Draw the Logical Design for the same :
+
+B_ Define Ebusiness. State the Advantages of e-business over non-electronic business models. [6]
+Q2 A Discuss any two combination of revenue modei that can heip in generating [6]
+more revenue.
+B Explain Echeck in Detail. [6]
+Q3 A State and explain various ecommerce Strategies for Marketing and Promotion [6]
+B_ Explain any Three Session Tracking Techniques with Example. [6]
+Q4 A Explain client-side programming in detail for any of ecommerce website. [6]
+B What is Web Service? Explain RPC in detail. [6]
+
+6]
+
+V2
+--- page 2 ---
+Describe Mobile Agent in detail.
+Draw a flow process chart showing main operation performed by users on [6]
+any of the ecommerce website.
+
+Write Short Note on Following (Any Two) [12]
+Rich internet Application
+
+Hadoop
+
+Web Mashup
+
+Benefits of Cloud Computing for E-commerce.
+
+Discuss the porter's five forces with one appropriate example. [6]
+State difference between difference between different types of ecommerce [6]
+Along with example. X
 ````
 
 ## 2018-19 · Final-Exam · Sem 7 · paper 55b495d4b9cf
