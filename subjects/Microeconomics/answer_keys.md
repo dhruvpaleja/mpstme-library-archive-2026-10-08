@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Commerce - 45611/Microeconomics/ANS_Final-Exam_Microeconomics(NAECO168)_Semester II_2025-2026.pdf`
 - Printed on paper: max marks: 30; duration hours: 1; exam date: 25 Mar 2026
 - Text: text (8 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -34,6 +35,25 @@ output. •
 Decreasing: Doubling inputs < doubles output.
 Numerical : 6 marks
 Page 1 of 8
+
+[Text in pictures on this page, read by OCR]
+¢ The returns to scale can be shown diagrammatically on an expansion
+path “by the distance between successive isoquants that show levels
+of output which are multiples of some base level of output, e.g., 100,
+200, 300, etc.”
+
+c 9c
+_6¢ | 5 6c}_—\ L =
+£s5c 3 E 3 ”
+s NJ 300 leach & scl
+oO A 3
+3c /—~ 200 D L— 200 6
+2c 2c 200
+,
+100 1100 =
+fe) 3L 5L6L > (e) 2L 4L #6L 2b SL 9L
+
+Labour Labour Labour
 --- page 2 ---
 Step 1: Calculate MRTS for each input combination: MRTS=MPL/MPK
 Step 2: Calculate input price ratio: w/r=6/12=0.5 S

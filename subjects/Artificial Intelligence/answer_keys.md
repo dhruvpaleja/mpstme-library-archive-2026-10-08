@@ -234,6 +234,53 @@ Variable ordering determines which variable to assign next.
 Common Strategies:
 • Minimum Remaining Values (MRV):
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+, > \
+
+“sy Sensors =
+
+Stati ‘
+ar
+How the world evolves What the world
+
+is like now
+What my actions do
+Utility
+
+What it will be like
+if |do action A
+
+f
+
+What action |
+should do now
+
+How ha
+
+py | will be
+in suc!
+
+a state
+
+~ bil Actuators
+
+function SIMULATED-ANNEALING( problem, schedule) returns a solution state
+inputs: problem, a problem
+schedule, a mapping from time to “temperature”
+local variables: current, a node
+neat, a node
+T, a “temperature” controlling prob. of downward steps
+
+current«— MAKE-NODk(INITIAL-STATE[problem])
+for t< 1tocodo
+T+< schedule[t]
+if T= 0 then return current
+next<—a randomly selected successor of current
+AE VALuE[nezt] - VALuE[current]
+if AE > 0 then current — next
+
+else current < neat only with probability e* “/7
 --- page 8 ---
 o Choose the variable with the fewest legal values left.
 o Example: If Math class can only be scheduled in 2 slots while English
@@ -291,6 +338,29 @@ b   Discuss the adversarial search algorithm with the help of the tic-tac-toe ga
 [10]
 How do you prune the unnecessary branches of the game tree?
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Performance
+
+standard
+
+a
+
+Critic =~ Sensors
+feedback
+m
+s
+changes s.
+Learning Performance fs)
+element element 3
+nowledge 5
+learning ®
+goals 3
+Problem ‘experiments
+generator
+Effectors
+
+\ Agent
 --- page 10 ---
 Ans:
 Discussion on adversarial search (4 Marks)
@@ -428,6 +498,16 @@ Most suitable for complex real-world systems like:
 o autonomous vehicles
 o recommendation systems
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Agent Type Memory Decision Basis Flexibility Complexity
+
+Simple Reflex No Current state Low Low
+Model-Based Yes Internal model Medium Medium
+Goal-Based Yes Goals High High
+Utility-Based Yes Utility function Very High High
+
+Learning Yes Experience Very High Very High
 --- page 4 ---
 o healthcare AI
 Q2   b   Apply Graph version of Breadth first search on Three water jug problem [A   [10]
@@ -536,6 +616,31 @@ BL-4
 Sol   Conversion into clause form – 4 marks
 Proof – 6 marks
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+The set of CNF clauses for this problem is thus as follows:
+1.- HOUND) VHOWL()
+2. — HAVE (yu) V- CAT(y) V- HAVE(x,z) V- MOUSE(z)
+
+3. — LS(x) V- HAVE(<y) v- HOWL (y)
+
+1. HAVE(John, a)
+
+2. CAT(a) VHOUND(a)
+
+1. LS(John)
+2. HAVE(John,b)
+
+3. MOUSE(B)
+
+* Translate the statements in FOL:
+« Assume Vx wealthy(x) = =poor(x),
+‘Vx stupid(x) = —smart(x)
+* Vy read(y) > smart(y)
+« read(John) ~ =poor(John)
+« Vx apoor(x) A smart(x) + happy(x)
+* Vz happy(z) > exciting(z)
+* Jw exciting(w) // conclusion.
 --- page 9 ---
 Q5   a   Consider a map consisting of six regions: P, Q, R, S, T, and U. The map must be   [10]
 CO- 3   colored using the colors Red, Green, Blue, and Yellow such that no two adjacent
@@ -554,6 +659,54 @@ diagram.
 ii. Assign appropriate colors to all regions such that no two adjacent regions share
 the same color.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+« Vy read(y) > smart(y)
+
+* read(John) A —poor(John)
+
+* ‘7X —poor(x) A smart(x) > happy(x)
+
+* ‘Vz happy(z) > exciting(z)
+
+* Sw exciting(w) // conclusion.
+Convert into clauses:
+
+* =read(y) v smart(y)
+
+* read(John)
+
+* —poor(John)
+
+* poor(x) v —smart(x) v happy(x)
+
+« —happy(z) v exciting(z)
+
+* Sexciting(w) // the negation of conclusion.
+
+> exciting(W) — happy(Z) v exciting(Z)
+Zw}
+
+Resolution > happy(Z) poor(X) v + smart(X) v happy(X)
+proof for the
+“exciting 2)
+life” poor(X} v + smart(X) ~read{Y) v smart(Y}
+problem.
+
+{YX}
+
+> poor(jotin) poor(Y) v = read{Y)
+
+—read(Y) v smart(Y) {john’Y}
+
+read( John)
+
+—poor(John) = read{john) read(john)
+poor(X) v —smart(X) v happy(X)
+
+—happy(Z) v exciting(Z) {}
+
+—exciting( W) // the negation of conclusion.
 --- page 10 ---
 Sol   i.   Representation – 5 marks
 ii.   Solving – 5 marks
@@ -974,6 +1127,33 @@ Marking Scheme –
 Diagram – 5 marks
 Explanation – 5 marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Performance standarc
+
+(fj — a a ~
+Critic Sensors
+
+feedback m
+
+s
+
+i _______ <
+
+Learning Performance! =
+
+element element g
+
+learn 3
+
+= ®
+
+goals Ss
+
+Probiem Effectors =
+generator Agent
+
+a rr Sf
 --- page 5 ---
 b. Define the PEAS properties and construct a complete PEAS
 description for an ‘AI powered drone for environment
@@ -1285,6 +1465,60 @@ Iteration 1 – 2 marks
 Iteration 2 – 2 marks
 Iteration 3 – 1 mark
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Record Number A B
+R1 1.0 1.0
+R2 1.5 2.0
+R3 3.0 4.0
+R4 5.0 7.0
+R5 3.5 5.0
+RG 4.5 5.0
+R7 3.5 4.5
+
+Initialization: Number of clusters (K) = 2, centroid for cluster1 (C1)= (1.0, 1.0)
+and centroid for cluster2 (C2) = (5.0, 7.0). We use Euclidean distance to find
+closest point to centroids.
+
+Iteration1:
+
+Record Number | Close to C1(1.0, 1.0) | Close to C2(5.0, 7.0) Assign to cluster
+R1(1.0,1.0) dist(R1, C1)=0.0 dist(R1, C2)=7.21 Cluster1
+R2(1.5,2.0) dist(R2, C1)=1.12 dist(R2, C2)=6.12 Cluster1
+R3(3.0,4.0) dist(R3, C1)=3.61 dist(R3, C2 )=3.61 Cluster1
+R4(5.0,7.0) dist(R4, C1)=7.21 dist(R4, C2)=0.0 Cluster2
+R5(3.5,5.0) dist(R5, C1)=4.12 dist(R5, C2)=2.5 Cluster2
+R6(4.5,5.0) dist(R6, C1)= 5.31 dist(R6, C2)=2.06 Cluster2
+
+R7(3.5,4.5) dist(R7,C1)=4.30 dist(R7, C2)=2.92 Cluster2
+
+Thus, we obtain two clusters containing:
+Cluster1 {R1, R2, R3} and Cluster2 {R4, R5, R6, R7}.
+Their new centroids are:
+
+C1 = (1.0+1.5+3.0)/3, (1.0+2.0+4.0)/3 C2 = (5.0+3.5+4.5+3.5)/4, (74+54+5+4.5)/4
+
+= 5.5/3, 7.0/3 = 16.5/4, 21.5/4
+= 1.83, 2.33 = 4.12, 5.37
+Iteration2:
+Record Number | Close to C1(1.83, 2.33) Close to C2(4.12, 5.37) Assign to
+cluster
+
+R1(1.0,1.0) dist(R1, C1)=1.57 dist(R1, C2)=5.37 Cluster1
+R2(1.5,2.0) dist(R2, C1)=0.47 dist(R2, C2)=4.27 Cluster1
+R3(3.0,4.0) dist(R3, C1)=2.04 dist(R3, C2 )=1.77 Cluster2
+R4(5.0,7.0) dist(R4, C1)=5.64 dist(R4, C2)=1.85 Cluster2
+R5(3.5,5.0) dist(R5, C1)=3.15 dist(R5, C2)=0.72 Cluster2
+R6(4.5,5.0) dist(R6, C1)=3.78 dist(R6, C2)=0.53 Cluster2
+R7(3.5,4.5) dist(R7,C1)=2.74 dist(R7, C2)=1.07 Cluster2
+
+Therefore, new clusters are:
+Cluster1 {R1, R2} and Cluster2 {R3, R4, R5, R6, R7}.
+Their new centroids are:
+
+C1 = (1.0+1.5)/2, (1.0+2.0)/2 C2 = (3.0+5.0+3.54+4.5+3.5)/5, (4+74+54+54+4.5)/5
+= 2.50/2, 3.0/2 = 19.5/5, 25.5/5
+=1.25,1.5 =3.9,5.1
 --- page 15 ---
 a. Using the dataset, build a decision tree to predict Return. You may use
 any decision tree algorithm (ID3 or CART). Determine the root node and
@@ -1298,6 +1532,41 @@ SO-   [15+5]
 1,5,6,7;
 BL-3, 2
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Past Trend Open Interest Trading Volume Return
+
+Up High High Profit
+Up High Low Profit
+Down Low High Loss
+Down High Low Loss
+
+Up Low High Profit
+
+Step 1: Calculate Entropy of the Target Attribute (Return)
+
+There are 3 Profit and 2 Loss instances.
+
+3 3 2 2
+Entropy(Return) = — (; logs 3) - (J logs 3)
+— —(0.6 x 0.737) — (0.4 x 1.322) — 0.971
+
+So, Entropy(Return) = 0.971
+
+Step 2: Compute Information Gain for Each Attribute
+
+A. Attribute: Past Trend
+
+Past Trend Count Profit Loss
+Up 3 3 0
+Down 2 0 2
+
+e Entropy(Up) = 0 (all Profit)
+e Entropy(Down) = 0 (all Loss)
+
+Weighted Entropy = (3/5) «0 + (2/5) «0-0
+
+Information Gain(Past Trend) = 0.971 - 0 = 0.971
 --- page 16 ---
 IF–THEN Rules
 1. IF Past Trend = Up THEN Return = Profit
@@ -1308,6 +1577,38 @@ from specific examples or data.
 It involves using training data to infer a general model that can predict
 outcomes for unseen data.
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+B. Attribute: Open Interest
+
+Open Interest Count Profit Loss
+High 3 2 1
+Low 2 1 1
+
+Entropy(High) = —(2/3 logz 2/3) - (1/3 logz 1/3) = 0.918
+Entropy(Low) = 1.0
+
+Weighted Entropy = (3/5)*0.918 + (2/5)*1 = 0.951
+Information Gain(Open Interest) = 0.971 - 0.951 = 0.02
+
+C. Attribute: Trading Volume
+
+Trading Volume Count Profit Loss
+High 3 2 1
+Low 2 1 1
+
+The distribution is the same as Open Interest, so
+
+Information Gain(Trading Volume) = 0.02
+
+Step 3: Build the Decision Tree
+Root Node: Past Trend
+
+e If Past Trend = Up — all examples are Profit - Return = Profit
+
+e If Past Trend = Down — all examples are Loss — Return = Loss
+
+No further splits are needed since both branches are pure.
 --- page 17 ---
 Application to this dataset:
 Here, the learning algorithm (ID3) observes the examples of “Past
@@ -1579,6 +1880,7 @@ Inference Process – 2 marks
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CSBS_7036/Artificial Intelligence/ANS_Artificial Intelligence(702CO0C032)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2026
 - Text: mixed (26 pages), mean OCR confidence 74.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1639,6 +1941,22 @@ BL-3   back to the immediately previous variable when a dead-end occurs, it
 analyzes why the failure happened and jumps back directly to the
 variable responsible for the conflict.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+1. Every child loves Santa.
+Vx (CHILD(x) + LOVES(x,Santa))
+
+2. Everyone who loves Santa loves any reindeer.
+Vx (LOVES(x,Santa) > Vy (REINDEER(y) — LOVES(x,y)))
+
+3. Rudolph is a reindeer, and Rudolph has a red nose.
+REINDEER(Rudolph) A REDNOSE(Rudolph)
+
+4. Anything which has a red nose is weird or is a clown.
+Vx (REDNOSE(x) > WEIRD(x) vCLOWN(x))
+
+5. No reindeer is a clown.
+— 3x (REINDEER(x) A CLOWN(x))
 --- page 3 ---
 Step 0: Initialize a 4x4 board.
 Step 1:
@@ -1694,6 +2012,43 @@ Marking Scheme –
 Approach – 3 Marks
 Correct Clusters – 2 Marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Point Distance to C; = 4 Distance to C2 = 9 Cluster
+
+2 2 7 GQ
+3 1 6 G
+6 2 3 G
+8 4 1 C
+10 6 1 Cz
+12 8 3 (oy
+o& Clusters:
+
+© Ci: (2,3, 6
+
+© Ce: {8, 10, 12}
+
+Step 2: Recompute centroids
+
+24346 11
+Cc, — 2 - = x 367
+: 3 3
+
+8+10+12 30
+Cy — ——*~ ~~ 10
+2 3 3
+
+@ Step 3: Reassign points
+
+Point Distance to C, = 3.67 Distance to C, = 10 Cluster
+2 1.67 8 GQ
+3 0.67 7 GQ
+6 2.33 4 G
+8 433 2 G
+10 6.33 tt) Cc,
+12 8.33 2 [ory
+
+o@ No change in clusters - convergence reached
 --- page 7 ---
 a. What are the different types of Agents? Explain with example.
 Solution –
@@ -1916,6 +2271,61 @@ Resolution Graph – 3 Marks
 b. Write down the rules converting FOL in CNF.
 Solution –
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Now we proceed to prove the conclusion by resolution using the above clauses.
+
+[1..4.(b):] 6. CAT(a) VHOWL(a)
+
+[2.5.(c):] 7. —- HAVE(.,y) v- CAT(y) V—- HAVE(x,b)
+[7.5.(b):] 8. — HAVE(VJohny) v- CAT(y)
+
+[6.8:] 9. — HAVE(John,a) vVHOWL(a)
+
+[4-(a).9:] 10. HOWL (a)
+
+[3.10:] 11. — LS(x) v- HAVE(x,a)
+
+[4-(a),11:] 12. — LS(John)
+
+[5-(a),12:] 13.0
+
+Step 1: Eliminate Implications and Biconditionals
+
+* Replace implications P => Q with —P v Q.
+* Replace biconditionals P <> Q with (P = Q) A (Q => P).
+
+Example:
+P=>Q > iAPvQ
+
+Step 2: Move Negations Inward (Use De Morgan’s Laws)
+* Push negations (—) directly onto predicates.
+° Apply:
+2° A(PAQ)=-Pv-Q
+e A(PvVQ)=-PA-Q
+° 7AVeP(x) = 3r—P(zx)
+° 732P(x£) = Ve—P(xr)
+Step 3: Standardize Variables
+* Rename variables so that each quantifier has a unique variable name.
+* Example:
+
+
+Step 4: Move Quantifiers to the Front (Prenex Form)
+« All quantifiers should be placed at the beginning of the sentence.
+° Example:
+
+Va(P(x) v 3yQ(y)) > = Vasy(P(x) Vv em) |
+
+Step 5: Skolemization (Remove Existential Quantifiers)
+* Replace existential quantifiers (3) with Skolem constants or functions.
++ Rules:
+* if 3xP(x) has no universal quantifiers before it — replace x with a constant.
++ If there are universal quantifiers before it — replace x with a Skolem function of those universal
+variables.
+
+Example:
+
+VasyP(x,y) + WaeP(x, f(x))
 --- page 15 ---
 Marking Scheme –
 Each rule – 0.5 marks
@@ -1933,6 +2343,43 @@ CO-3, 3;
 SO-1,6,7;   +5]
 BL-3, 3
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Step 6: Drop Universal Quantifiers
+* After Skolemization, all remaining variables are universally quantified and can be assumed implicitly.
+Step 7: Distribute VV over /\
+* Convert the formula into conjunctions of disjunctions.
+© Apply distributive law:
+Pv(QAR)=(PVQ)A(PV R)
+
+Step 8: Resulting CNF
+* The final formula is @ conjunction of clauses, where each clause is a disjunction of literals (predicate or
+negated predicate).
+
+Aspect Backtracking Search Local Search
+
+Approach Incremental (assign one variable at a Iterative improvement (modify full
+time) assignment)
+
+State Representation Partial assignments Complete assignments
+
+Search Style Systematic, depth-first Heuristic, hill-climbing style
+
+Backtracking Yes (undo decisions when conflict No traditional backtracking
+occurs)
+
+Completeness Complete (finds solution if exists) 3 Not guaranteed
+
+Optimality Can be optimal Not guaranteed
+
+Memory Usage Higher (stores search tree) Low (stores only current state)
+
+Handling Large Problems Slower for large spaces Faster and scalable
+
+Typical Algorithms Backtracking, Forward Checking, Arc Hill Climbing, Min-Conflicts
+Consistency
+
+Solution Guarantee Always finds valid solution (if exists) May get stuck in local minima
 --- page 16 ---
 Marking Scheme:
 Each Correct Assignment – 0.5 Marks (Total 5 Marks)
@@ -2117,6 +2564,19 @@ Diseases (outputs):
 • Food Poisoning
 2. Rule Base (IF–THEN Rules)
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+Step 7: Classification of New Sample
+
+Given:
+
+* Gender = Female
+* Height = 1.92 m
+
+Apply Tree:
+* 71.92 lies in 1.7-1.95
+
+— Class = Medium
 --- page 22 ---
 Rules for Dengue
 • R1: IF Fever = High AND Headache = Yes AND Nausea = Yes
@@ -2658,6 +3118,22 @@ Constants:
 Ron, ProfRaima, AI
 Step 2: Convert All Statements to CNF
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+(1)
+VaVs[(Teacher(x) \ Teaches(x, s)) + Knowledgeable(z, s)|
+Remove implication:
+
+a=Teacher(x) V ~Teaches(zx, s) V Knowledgeable(z, s)
+
+Clause (C1):
+=Teacher(«) V ~Teaches(x, s) V Knowledgeable(z, s)
+(2)
+VaVs|Knowledgeable(x, s) + CanAnswer(z, s)|
+—-K nowledgeable(x, s) V CanAnswer(z, s)
+Clause (C2):
+
+=K nowledgeable(x, s) V CanAnswer(z, s)
 --- page 10 ---
 (3)
 VaVsVy|(Student(x) \ Teacher(y) \ Takes(z, s,y)) + Knowledgeable(z, s)|
@@ -2708,6 +3184,44 @@ return TRUE
 2. For each rule R in KB of the form:
 IF P1 ∧ P2 ∧ ... ∧ Pn → G
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Step 4: Resolution Steps
+
+Step A: From (C2) and (C8)
+C2:
+
+=Knowledgeable(x, s) \V CanAnswer(z, s)
+Substitute x = Ron, s = Al:
+7K nowledgeable(Ron, AI) V CanAnswer(Ron, AI)
+Resolve with C8:
+=CanAnswer(Ron, AI)
+= Result:
+=K nowledgeable(Ron, AI)
+
+Clause (C9)
+
+Step B: Use (C3)
+C3:
+—Student(x) V ~Teacher(y) V ~Takes(x, s,y) V Knowledgeable(z, s)
+Substitute:
+« x=Ron
+
++ y = ProfRaima
+« s=Al
+
+—Student(Ron) V ~Teacher(Prof Raima) V ~Takes(Ron, AI, Prof Raima) V Knowledgeable(Ron, AI)
+
+Step C: Resolve with Facts
+Using:
+© C4: Student(Ron)
+* C5: Takes(Ron, Al, ProfRaima)
+© C6: Teacher(ProfRaima)
+
+Eliminate negatives step by step:
+After resolution, we get:
+
+Knowledgeable(Ron, AI)
 --- page 12 ---
 do
 For each premise Pi in R
@@ -3034,6 +3548,7 @@ This asserts that at least one student in the domain is a topper.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CS_7055/Artificial Intelligence/ANS_Artificial Intelligence(702CO0C032)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2026
 - Text: mixed (26 pages), mean OCR confidence 74.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3094,6 +3609,22 @@ BL-3   back to the immediately previous variable when a dead-end occurs, it
 analyzes why the failure happened and jumps back directly to the
 variable responsible for the conflict.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+1. Every child loves Santa.
+Vx (CHILD(x) + LOVES(x,Santa))
+
+2. Everyone who loves Santa loves any reindeer.
+Vx (LOVES(x,Santa) > Vy (REINDEER(y) — LOVES(x,y)))
+
+3. Rudolph is a reindeer, and Rudolph has a red nose.
+REINDEER(Rudolph) A REDNOSE(Rudolph)
+
+4. Anything which has a red nose is weird or is a clown.
+Vx (REDNOSE(x) > WEIRD(x) vCLOWN(x))
+
+5. No reindeer is a clown.
+— 3x (REINDEER(x) A CLOWN(x))
 --- page 3 ---
 Step 0: Initialize a 4x4 board.
 Step 1:
@@ -3149,6 +3680,43 @@ Marking Scheme –
 Approach – 3 Marks
 Correct Clusters – 2 Marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Point Distance to C; = 4 Distance to C2 = 9 Cluster
+
+2 2 7 GQ
+3 1 6 G
+6 2 3 G
+8 4 1 C
+10 6 1 Cz
+12 8 3 (oy
+o& Clusters:
+
+© Ci: (2,3, 6
+
+© Ce: {8, 10, 12}
+
+Step 2: Recompute centroids
+
+24346 11
+Cc, — 2 - = x 367
+: 3 3
+
+8+10+12 30
+Cy — ——*~ ~~ 10
+2 3 3
+
+@ Step 3: Reassign points
+
+Point Distance to C, = 3.67 Distance to C, = 10 Cluster
+2 1.67 8 GQ
+3 0.67 7 GQ
+6 2.33 4 G
+8 433 2 G
+10 6.33 tt) Cc,
+12 8.33 2 [ory
+
+o@ No change in clusters - convergence reached
 --- page 7 ---
 a. What are the different types of Agents? Explain with example.
 Solution –
@@ -3371,6 +3939,61 @@ Resolution Graph – 3 Marks
 b. Write down the rules converting FOL in CNF.
 Solution –
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Now we proceed to prove the conclusion by resolution using the above clauses.
+
+[1..4.(b):] 6. CAT(a) VHOWL(a)
+
+[2.5.(c):] 7. —- HAVE(.,y) v- CAT(y) V—- HAVE(x,b)
+[7.5.(b):] 8. — HAVE(VJohny) v- CAT(y)
+
+[6.8:] 9. — HAVE(John,a) vVHOWL(a)
+
+[4-(a).9:] 10. HOWL (a)
+
+[3.10:] 11. — LS(x) v- HAVE(x,a)
+
+[4-(a),11:] 12. — LS(John)
+
+[5-(a),12:] 13.0
+
+Step 1: Eliminate Implications and Biconditionals
+
+* Replace implications P => Q with —P v Q.
+* Replace biconditionals P <> Q with (P = Q) A (Q => P).
+
+Example:
+P=>Q > iAPvQ
+
+Step 2: Move Negations Inward (Use De Morgan’s Laws)
+* Push negations (—) directly onto predicates.
+° Apply:
+2° A(PAQ)=-Pv-Q
+e A(PvVQ)=-PA-Q
+° 7AVeP(x) = 3r—P(zx)
+° 732P(x£) = Ve—P(xr)
+Step 3: Standardize Variables
+* Rename variables so that each quantifier has a unique variable name.
+* Example:
+
+
+Step 4: Move Quantifiers to the Front (Prenex Form)
+« All quantifiers should be placed at the beginning of the sentence.
+° Example:
+
+Va(P(x) v 3yQ(y)) > = Vasy(P(x) Vv em) |
+
+Step 5: Skolemization (Remove Existential Quantifiers)
+* Replace existential quantifiers (3) with Skolem constants or functions.
++ Rules:
+* if 3xP(x) has no universal quantifiers before it — replace x with a constant.
++ If there are universal quantifiers before it — replace x with a Skolem function of those universal
+variables.
+
+Example:
+
+VasyP(x,y) + WaeP(x, f(x))
 --- page 15 ---
 Marking Scheme –
 Each rule – 0.5 marks
@@ -3388,6 +4011,43 @@ CO-3, 3;
 SO-1,6,7;   +5]
 BL-3, 3
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Step 6: Drop Universal Quantifiers
+* After Skolemization, all remaining variables are universally quantified and can be assumed implicitly.
+Step 7: Distribute VV over /\
+* Convert the formula into conjunctions of disjunctions.
+© Apply distributive law:
+Pv(QAR)=(PVQ)A(PV R)
+
+Step 8: Resulting CNF
+* The final formula is @ conjunction of clauses, where each clause is a disjunction of literals (predicate or
+negated predicate).
+
+Aspect Backtracking Search Local Search
+
+Approach Incremental (assign one variable at a Iterative improvement (modify full
+time) assignment)
+
+State Representation Partial assignments Complete assignments
+
+Search Style Systematic, depth-first Heuristic, hill-climbing style
+
+Backtracking Yes (undo decisions when conflict No traditional backtracking
+occurs)
+
+Completeness Complete (finds solution if exists) 3 Not guaranteed
+
+Optimality Can be optimal Not guaranteed
+
+Memory Usage Higher (stores search tree) Low (stores only current state)
+
+Handling Large Problems Slower for large spaces Faster and scalable
+
+Typical Algorithms Backtracking, Forward Checking, Arc Hill Climbing, Min-Conflicts
+Consistency
+
+Solution Guarantee Always finds valid solution (if exists) May get stuck in local minima
 --- page 16 ---
 Marking Scheme:
 Each Correct Assignment – 0.5 Marks (Total 5 Marks)
@@ -3572,6 +4232,19 @@ Diseases (outputs):
 • Food Poisoning
 2. Rule Base (IF–THEN Rules)
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+Step 7: Classification of New Sample
+
+Given:
+
+* Gender = Female
+* Height = 1.92 m
+
+Apply Tree:
+* 71.92 lies in 1.7-1.95
+
+— Class = Medium
 --- page 22 ---
 Rules for Dengue
 • R1: IF Fever = High AND Headache = Yes AND Nausea = Yes
@@ -3850,6 +4523,16 @@ N   8
 G   7
 E   4
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+24748552 | 32752411 32748552 32749{162
+32752411 [24748552 [ 24752411 —-| 24752411
+24415124 | 29 26% ~| 32752411 32752124 |—+| 32252124 |
+
+32543213] 11 14% | 24415124 [ 24415411 —+| 24415417]
+
+(a) (b) (c) (d) fe)
+Initial Population = Fitness Function Selection Crossover Mutation
 --- page 3 ---
 Q2   a   Write   the PEAS   description   for “Vacuum   Cleaner” AI   system.
 CO- 1   Analyze the task environment properties of it.   [10]
@@ -3911,6 +4594,13 @@ CO- 2   out value of root node. How many evaluations are saved while applying Al
 SO- 7   Beta pruning.
 BL-3
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+i) Depth-Limited DFS (depth = d)
+Explores nodes up to depth d
+Nprg ~1+b4+0?4+0°4+---4+5%
+pati —1
+b-1
 --- page 5 ---
 Sol   Find value of a (i.e. 4) by minmax algo – 4 marks
 Alpha beta pruning – 6 marks
@@ -3993,6 +4683,25 @@ BL-4   1   Sunny   Hot   Weak   No
 Sol   Solution
 Calculate Gini for Attribute Weather
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Gini Index of Entire Dataset
+Gini = 1 — (P?., + Po)
+Pyes = 5/8 = 0.625
+Pno = 3/8 = 0.375
+Gini = 1 — (0.625? + 0.3757)
+Gini = 1 — (0.3906 + 0.1406)
+Gini = 0.4688
+
+Rainy
+
+Records = 3
+Yes = 2
+No =1
+
+Gini rainy = 1 — ((2/3)? + (1/3)?)
+=1- (0.444 + 0.111)
+= 0.445
 --- page 10 ---
 Attribute   Weighted Gini
 Weather   0.334
@@ -4139,6 +4848,7 @@ Knowledge Acquisition System
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_Computer_7002/Artificial Intelligence/ANS_Artificial Intelligence(702CO0C032)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (20 pages), mean OCR confidence 80.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -4180,6 +4890,25 @@ BL-2
 Using forward chaining inference, determine whether Ram gets a job.
 Show the sequence of inferences made.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Greedy Best-First Search (GBFS) A* Search
+
+f(n) = h(n) — chooses node that appears closest to f(n) = g(n) + h(n) — chooses node with the lowest
+
+the goal based only on heuristic. estimated total cost (actual + heuristic).
+
+Ignores path cost; considers only heuristic. Considers both path cost and heuristic.
+
+Not guaranteed — may find a suboptimal path. Guaranteed optimal if heuristic is admissible and consistent.
+
+Not always complete (may loop). Complete if branching factor is finite and step costs are
+positive.
+
+Usually faster and uses less memory but less reliable. Slower and uses more memory but ensures best path.
+
+Chooses next node purely by lowest h(m). Example: A + Chooses next node by lowest g(n) + h(n). Example: A — C
+C + E = G (may not be shortest). — E = G (optimal path).
 --- page 2 ---
 Solution –
 Step 1: Known fact
@@ -4216,6 +4945,15 @@ SO-   Data = [2, 3, 6, 8, 10, 12]
 BL-3
 Solution –
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Rule Applied Newly Inferred Fact
+
+Given fact studies_hard(Ram)
+
+Rule 1: studies_hard(x) + passes_exam(x) passes_exam (Ram)
+
+Rule 2: passes_exam(x) + gets_job(x) gets_job(Ram)
 --- page 3 ---
 Cluster assignment after Iteration 1:
 •   Cluster 1 (C₁): [2, 3, 6]
@@ -4246,6 +4984,28 @@ BL-2, 3,   • The agent program can combine this with information about the
 the goal
 •   Usually requires search and planning
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+We compute the distance of each point to Cs and C2:
+
+Point Distance to C,;=4 Distance to C:=9 Assigned Cluster
+2 2-4 =2
+3 3-4 =1
+6 6-4 =2
+8 8-4 =4
+10 10-4 =6
+
+12 12-4 =8
+
+Point Distance to C,=3.67 Distance to C,=10 Assigned Cluster
+
+2 2-3.67 =1.67
+3 3-3.67 =0.67
+6 6-3.67 22.33
+8 8-3.67 24,33
+10 10-3.67 26.33
+
+12 12-3.67 28,33
 --- page 4 ---
 Sensors
 • Role: Detect and perceive the current state of the environment.
@@ -4285,6 +5045,26 @@ description for an ‘AI-based Smart Refrigerator’, clearly
 explaining each component.
 Solution –
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+\
+What the world
+is like now
+
+t m
+—— = = |
+What it will be like <=
+ifl do action A >
+=)
+=|
+3
+oO
+=|
+( Goals What action | -
+
+should do now
+
+Agent Actuators TD Ne y
 --- page 5 ---
 Marking Scheme –
 Each Property – 1 mark
@@ -4312,6 +5092,36 @@ size).
 Marking Scheme –
 Steps of GA – 3 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+PEAS Component Description
+
+Performance Measure - Minimize food wastage
+- Keep track of all stored items accurately
+- Suggest recipes based on available ingredient
+- Alert when items expire
+
+- Optimize energy consumption
+
+Environment - Kitchen or home environment
+- Items inside the refrigerator
+- Power supply
+- External databases (recipe, grocery)
+
+- User interactions (adding/removing items)
+
+Actuators - Display screen for alerts, recipes, and remindet
+- Sending notifications to mobile apps
+- Controlling internal temperature settings
+
+- Automatic ordering of items (optional)
+
+Sensors - Weight sensors to detect quantity of items
+- Barcode/RFID scanner to identify items
+- Temperature and humidity sensors
+- Cameras (optional) to detect item status
+
+- User input (app or touch interface)
 --- page 6 ---
 Advantages – 1 mark
 Disadvantages – 1 mark
@@ -4340,6 +5150,26 @@ Solution –
 Marking Scheme –
 Each agent – 1 mark
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Type of Agent Description Example
+
+Simple Reflex Agent Acts only based on current percept using condition- Automatic light switch (turns on when
+action rules. No memory of past states. motion is detected)
+
+Model-Based Reflex Uses a model of the world to handle partially observable —_Self-cleaning robot vacuum
+
+Agent environments. (remembers obstacles it has seen)
+
+Goal-Based Agent Acts to achieve specific goals, uses reasoning and Self-driving car planning a safe route to
+planning to select actions. destination
+
+Utility-Based Agent Acts to maximize a utility function, not just achieve Stock trading Al that maximizes profit
+goals. Chooses the best action among alternatives. while minimizing risk
+
+Learning Agent Improves its performance based on past experience. Al-based language translator improving
+
+cover time with user feedback
 --- page 8 ---
 a. Consider the following facts and prove that Bob will receive a
 bonus using Resolution Graph.
@@ -4445,6 +5275,57 @@ segment customers based on amount spent per visit (in $) and number
 of visits per week to design targeted offers. Group customers into 2
 clusters, where initial cluster centres are (5, 1) and (15, 5).
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Eliminate Implications and Biconditionals
+
+* Replace implications P => Q with —P v Q.
+* Replace biconditionals P <> Q with (P = Q) A (Q => P).
+
+Example:
+P=>Q > iAPvQ
+
+Step 2: Move Negations Inward (Use De Morgan’s Laws)
+* Push negations (—) directly onto predicates.
+° Apply:
+2° A(PAQ)=-Pv-Q
+e A(PvVQ)=-PA-Q
+° 7AVeP(x) = 3r—P(zx)
+° 732P(x£) = Ve—P(xr)
+Step 3: Standardize Variables
+* Rename variables so that each quantifier has a unique variable name.
+* Example:
+
+
+Step 4: Move Quantifiers to the Front (Prenex Form)
+« All quantifiers should be placed at the beginning of the sentence.
+° Example:
+
+Va(P(x) v 3yQ(y)) > = Vasy(P(x) Vv em) |
+
+Step 5: Skolemization (Remove Existential Quantifiers)
+* Replace existential quantifiers (3) with Skolem constants or functions.
++ Rules:
+* if 3xP(x) has no universal quantifiers before it — replace x with a constant.
++ If there are universal quantifiers before it — replace x with a Skolem function of those universal
+variables.
+
+Example:
+
+VasyP(x,y) + WaeP(x, f(x))
+
+Step 6: Drop Universal Quantifiers
+* After Skolemization, all remaining variables are universally quantified and can be assumed implicitly.
+Step 7: Distribute V over /\
+
+* Convert the formula into conjunctions of disjunctions.
+¢ Apply distributive law:
+
+PV(QAR)=(PVQ)A(PVR)
+
+Step 8: Resulting CNF
+* The final formula is a conjunction of clauses, where each clause is a disjunction of literals (predicate or
+negated predicate).
 --- page 12 ---
 Customer Amount Spent ($) Visits per Week
 
@@ -4526,6 +5407,45 @@ Learning and explain how it can be applied to this dataset. Generate IF–
 THEN rules from your decision tree for predicting Return.
 Solution –
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Reassign Customers to New Cluster Centers
+
+Customer To C1 (5.75,1.25) To C2 (15,4.67) Cluster Assigned
+
+C1 (5,1) W((5-5.75)42 + (1-1.25)42) = V((5-15)42 + (1-4.67)42) = a
+0.79 10.64
+
+C2 (7,2) V((7-5.75)42 + (2-1.25)42) = V((7-15)*2 + (2-4.67)42) = 8.47 a
+1.57
+
+C3 (8,1) V((8-5.75)42 + (1-1.25)42) = V((8-15)42 + (1-4.67)42) = 7.90 a
+2.26
+
+C4 (15,5) V((15-5.75)42 + (5-1.25)2) = V((15-15)42 + (5-4.67)42) = c2
+10.61 0.33
+
+C5 (16,4) V((16-5.75) 42 + (4-1.25)42) = V((16-15)42 + (4-4.67)42) = c2
+11.06 1.02
+
+C6 (14,5) V((14-5.75)42 + (5-1.25)42) = V((14-15)42 + (5-4.67)*2) = c2
+9.78 1.05
+
+C7 (3,1) V((B-5.75)42 + (1-1.25)42) = V((B-15)42 + (1-4.67)42) = a
+
+2.76 12.53
+
+Applicant CreditHistory Income Collateral ApproveLoan
+
+1 Good High Yes Yes
+2 Good High No Yes
+3 Fair High Yes Yes
+4 Poor Medium Yes No
+5 Poor Low No No
+6 Fair Medium No Yes
+7 Fair Low No No
+
+8 Good Medium Yes Yes
 --- page 14 ---
 Entropy formula:
 
@@ -4599,6 +5519,31 @@ High: Applicant 3 → Yes → Leaf: Yes
 Medium: Applicant 6 → Yes → Leaf: Yes
 Low: Applicant 7 → No → Leaf: No
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+C) Collateral
+e Yes: Applicants 1,3,4,8 ApproveLoan = Yes, Yes, No, Yes — 3 Yes, 1 No
+
+3 3 04«21 1
+Ent = —- log, — — — log, — = 0.811
+niropy 4 O82 44 O82 4
+¢ No: Applicants 2,5,6,7 + ApproveLoan = Yes, No, Yes, No — 2 Yes, 2 No
+
+Entropy = —0.5 logs 0.5 — 0.5 logs 0.5 = 1
+
+Weighted Entropy:
+
+E(Collateral) = ; 0.811 + ; -1= 0.906
+
+Gain(Collateral) = 0.954 — 0.906 = 0.048
+
+Subset: Applicants 3,6,7
+
+Applicant Income Collateral ApproveLoan
+3 High Yes Yes
+6 Medium No Yes
+
+7 Low No No
 --- page 16 ---
 Marking Scheme –
 Approach – 10 marks
@@ -4821,6 +5766,7 @@ absent, Dengue is suggested.”
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/MBATech_Computer_7047/Artificial Intelligence/ANS_Artificial Intelligence(702CO0C032)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (20 pages), mean OCR confidence 80.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -4862,6 +5808,25 @@ BL-2
 Using forward chaining inference, determine whether Ram gets a job.
 Show the sequence of inferences made.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Greedy Best-First Search (GBFS) A* Search
+
+f(n) = h(n) — chooses node that appears closest to f(n) = g(n) + h(n) — chooses node with the lowest
+
+the goal based only on heuristic. estimated total cost (actual + heuristic).
+
+Ignores path cost; considers only heuristic. Considers both path cost and heuristic.
+
+Not guaranteed — may find a suboptimal path. Guaranteed optimal if heuristic is admissible and consistent.
+
+Not always complete (may loop). Complete if branching factor is finite and step costs are
+positive.
+
+Usually faster and uses less memory but less reliable. Slower and uses more memory but ensures best path.
+
+Chooses next node purely by lowest h(m). Example: A + Chooses next node by lowest g(n) + h(n). Example: A — C
+C + E = G (may not be shortest). — E = G (optimal path).
 --- page 2 ---
 Solution –
 Step 1: Known fact
@@ -4898,6 +5863,15 @@ SO-   Data = [2, 3, 6, 8, 10, 12]
 BL-3
 Solution –
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Rule Applied Newly Inferred Fact
+
+Given fact studies_hard(Ram)
+
+Rule 1: studies_hard(x) + passes_exam(x) passes_exam (Ram)
+
+Rule 2: passes_exam(x) + gets_job(x) gets_job(Ram)
 --- page 3 ---
 Cluster assignment after Iteration 1:
 •   Cluster 1 (C₁): [2, 3, 6]
@@ -4928,6 +5902,28 @@ BL-2, 3,   • The agent program can combine this with information about the
 the goal
 •   Usually requires search and planning
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+We compute the distance of each point to Cs and C2:
+
+Point Distance to C,;=4 Distance to C:=9 Assigned Cluster
+2 2-4 =2
+3 3-4 =1
+6 6-4 =2
+8 8-4 =4
+10 10-4 =6
+
+12 12-4 =8
+
+Point Distance to C,=3.67 Distance to C,=10 Assigned Cluster
+
+2 2-3.67 =1.67
+3 3-3.67 =0.67
+6 6-3.67 22.33
+8 8-3.67 24,33
+10 10-3.67 26.33
+
+12 12-3.67 28,33
 --- page 4 ---
 Sensors
 • Role: Detect and perceive the current state of the environment.
@@ -4967,6 +5963,26 @@ description for an ‘AI-based Smart Refrigerator’, clearly
 explaining each component.
 Solution –
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+\
+What the world
+is like now
+
+t m
+—— = = |
+What it will be like <=
+ifl do action A >
+=)
+=|
+3
+oO
+=|
+( Goals What action | -
+
+should do now
+
+Agent Actuators TD Ne y
 --- page 5 ---
 Marking Scheme –
 Each Property – 1 mark
@@ -4994,6 +6010,36 @@ size).
 Marking Scheme –
 Steps of GA – 3 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+PEAS Component Description
+
+Performance Measure - Minimize food wastage
+- Keep track of all stored items accurately
+- Suggest recipes based on available ingredient
+- Alert when items expire
+
+- Optimize energy consumption
+
+Environment - Kitchen or home environment
+- Items inside the refrigerator
+- Power supply
+- External databases (recipe, grocery)
+
+- User interactions (adding/removing items)
+
+Actuators - Display screen for alerts, recipes, and remindet
+- Sending notifications to mobile apps
+- Controlling internal temperature settings
+
+- Automatic ordering of items (optional)
+
+Sensors - Weight sensors to detect quantity of items
+- Barcode/RFID scanner to identify items
+- Temperature and humidity sensors
+- Cameras (optional) to detect item status
+
+- User input (app or touch interface)
 --- page 6 ---
 Advantages – 1 mark
 Disadvantages – 1 mark
@@ -5022,6 +6068,26 @@ Solution –
 Marking Scheme –
 Each agent – 1 mark
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Type of Agent Description Example
+
+Simple Reflex Agent Acts only based on current percept using condition- Automatic light switch (turns on when
+action rules. No memory of past states. motion is detected)
+
+Model-Based Reflex Uses a model of the world to handle partially observable —_Self-cleaning robot vacuum
+
+Agent environments. (remembers obstacles it has seen)
+
+Goal-Based Agent Acts to achieve specific goals, uses reasoning and Self-driving car planning a safe route to
+planning to select actions. destination
+
+Utility-Based Agent Acts to maximize a utility function, not just achieve Stock trading Al that maximizes profit
+goals. Chooses the best action among alternatives. while minimizing risk
+
+Learning Agent Improves its performance based on past experience. Al-based language translator improving
+
+cover time with user feedback
 --- page 8 ---
 a. Consider the following facts and prove that Bob will receive a
 bonus using Resolution Graph.
@@ -5127,6 +6193,57 @@ segment customers based on amount spent per visit (in $) and number
 of visits per week to design targeted offers. Group customers into 2
 clusters, where initial cluster centres are (5, 1) and (15, 5).
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Eliminate Implications and Biconditionals
+
+* Replace implications P => Q with —P v Q.
+* Replace biconditionals P <> Q with (P = Q) A (Q => P).
+
+Example:
+P=>Q > iAPvQ
+
+Step 2: Move Negations Inward (Use De Morgan’s Laws)
+* Push negations (—) directly onto predicates.
+° Apply:
+2° A(PAQ)=-Pv-Q
+e A(PvVQ)=-PA-Q
+° 7AVeP(x) = 3r—P(zx)
+° 732P(x£) = Ve—P(xr)
+Step 3: Standardize Variables
+* Rename variables so that each quantifier has a unique variable name.
+* Example:
+
+
+Step 4: Move Quantifiers to the Front (Prenex Form)
+« All quantifiers should be placed at the beginning of the sentence.
+° Example:
+
+Va(P(x) v 3yQ(y)) > = Vasy(P(x) Vv em) |
+
+Step 5: Skolemization (Remove Existential Quantifiers)
+* Replace existential quantifiers (3) with Skolem constants or functions.
++ Rules:
+* if 3xP(x) has no universal quantifiers before it — replace x with a constant.
++ If there are universal quantifiers before it — replace x with a Skolem function of those universal
+variables.
+
+Example:
+
+VasyP(x,y) + WaeP(x, f(x))
+
+Step 6: Drop Universal Quantifiers
+* After Skolemization, all remaining variables are universally quantified and can be assumed implicitly.
+Step 7: Distribute V over /\
+
+* Convert the formula into conjunctions of disjunctions.
+¢ Apply distributive law:
+
+PV(QAR)=(PVQ)A(PVR)
+
+Step 8: Resulting CNF
+* The final formula is a conjunction of clauses, where each clause is a disjunction of literals (predicate or
+negated predicate).
 --- page 12 ---
 Customer Amount Spent ($) Visits per Week
 
@@ -5208,6 +6325,45 @@ Learning and explain how it can be applied to this dataset. Generate IF–
 THEN rules from your decision tree for predicting Return.
 Solution –
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Reassign Customers to New Cluster Centers
+
+Customer To C1 (5.75,1.25) To C2 (15,4.67) Cluster Assigned
+
+C1 (5,1) W((5-5.75)42 + (1-1.25)42) = V((5-15)42 + (1-4.67)42) = a
+0.79 10.64
+
+C2 (7,2) V((7-5.75)42 + (2-1.25)42) = V((7-15)*2 + (2-4.67)42) = 8.47 a
+1.57
+
+C3 (8,1) V((8-5.75)42 + (1-1.25)42) = V((8-15)42 + (1-4.67)42) = 7.90 a
+2.26
+
+C4 (15,5) V((15-5.75)42 + (5-1.25)2) = V((15-15)42 + (5-4.67)42) = c2
+10.61 0.33
+
+C5 (16,4) V((16-5.75) 42 + (4-1.25)42) = V((16-15)42 + (4-4.67)42) = c2
+11.06 1.02
+
+C6 (14,5) V((14-5.75)42 + (5-1.25)42) = V((14-15)42 + (5-4.67)*2) = c2
+9.78 1.05
+
+C7 (3,1) V((B-5.75)42 + (1-1.25)42) = V((B-15)42 + (1-4.67)42) = a
+
+2.76 12.53
+
+Applicant CreditHistory Income Collateral ApproveLoan
+
+1 Good High Yes Yes
+2 Good High No Yes
+3 Fair High Yes Yes
+4 Poor Medium Yes No
+5 Poor Low No No
+6 Fair Medium No Yes
+7 Fair Low No No
+
+8 Good Medium Yes Yes
 --- page 14 ---
 Entropy formula:
 
@@ -5281,6 +6437,31 @@ High: Applicant 3 → Yes → Leaf: Yes
 Medium: Applicant 6 → Yes → Leaf: Yes
 Low: Applicant 7 → No → Leaf: No
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+C) Collateral
+e Yes: Applicants 1,3,4,8 ApproveLoan = Yes, Yes, No, Yes — 3 Yes, 1 No
+
+3 3 04«21 1
+Ent = —- log, — — — log, — = 0.811
+niropy 4 O82 44 O82 4
+¢ No: Applicants 2,5,6,7 + ApproveLoan = Yes, No, Yes, No — 2 Yes, 2 No
+
+Entropy = —0.5 logs 0.5 — 0.5 logs 0.5 = 1
+
+Weighted Entropy:
+
+E(Collateral) = ; 0.811 + ; -1= 0.906
+
+Gain(Collateral) = 0.954 — 0.906 = 0.048
+
+Subset: Applicants 3,6,7
+
+Applicant Income Collateral ApproveLoan
+3 High Yes Yes
+6 Medium No Yes
+
+7 Low No No
 --- page 16 ---
 Marking Scheme –
 Approach – 10 marks
@@ -5503,7 +6684,7 @@ absent, Dengue is suggested.”
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_CSBS_7036/Artificial Intelligence/ANS_Artificial Intelligence(702CO0C032)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2026
 - Text: mixed (21 pages), mean OCR confidence 61.2
-- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -5586,6 +6767,23 @@ scheduling, airline crew schedules.
 o Variables → Courses or employees
 o Domains → Time slots or shifts
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+. Every child loves every candy.
+Px Fy (CHILD (x) A CANDY(y) - LOVES(x,y))
+
+. Anyone who loves some candy is not a nutrition fanatic.
+
+x ( (Fy (CANDY(y) ALOVES(x,y))) + — FANATIC(<))
+
+. Anyone who eats any pumpkin is a nutrition fanatic.
+x ((Jp (PUMPKIN |) A EAT(x,y))) + FANATIC (x))
+
+. Anyone who buys any pumpkin either carves it or eats it.
+
+
+. John buys a pumpkin.
+ax (PUMPKIN(x) A BUY(John,x))
 --- page 3 ---
 o Constraints → No overlapping, availability, resource
 limits
@@ -5850,6 +7048,27 @@ Marking Scheme –
 A* Search – 4 Marks
 GBFS – 4 Marks
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+h(n)
+
+target node node Heuristic distance to
+
+target node
+
+ee 0) 20
+
+node/
+
+4 Ne vertex ; 1 7
+
+Aa >» 3 10
+
+start node
+
+weight/cost 4 4
+/distance
+5 0
 --- page 9 ---
 Justification – 2 Marks
 b. Apply the steps of Alpha-Beta pruning to the following Tree and find
@@ -5930,6 +7149,55 @@ Solution:
 All valid solutions:
 k. (X=1, Y=2, Z=4)
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Eliminate Implications and Biconditionals
+
+* Replace implications P => Q with —P v Q.
+* Replace biconditionals P <> Q with (P = Q) A (Q => P).
+
+Example:
+P=>Q > iAPvQ
+
+Step 2: Move Negations Inward (Use De Morgan’s Laws)
+* Push negations (—) directly onto predicates.
+° Apply:
+2° A(PAQ)=-Pv-Q
+e A(PvVQ)=-PA-Q
+° 7AVeP(x) = 3r—P(zx)
+° 732P(x£) = Ve—P(xr)
+Step 3: Standardize Variables
+* Rename variables so that each quantifier has a unique variable name.
+* Example:
+
+
+Step 4: Move Quantifiers to the Front (Prenex Form)
+« All quantifiers should be placed at the beginning of the sentence.
+° Example:
+
+Va(P(x) v 3yQ(y)) > = Vasy(P(x) Vv em) |
+
+Step 5: Skolemization (Remove Existential Quantifiers)
+* Replace existential quantifiers (3) with Skolem constants or functions.
++ Rules:
+* if 3xP(x) has no universal quantifiers before it — replace x with a constant.
++ If there are universal quantifiers before it — replace x with a Skolem function of those universal
+variables.
+
+Example:
+
+VasyP(x,y) + WaeP(x, f(x))
+
+Step 6: Drop Universal Quantifiers
+* After Skolemization, all remaining variables are universally quantified and can be assumed implicitly.
+Step 7: Distribute V over /\
+* Convert the formula into conjunctions of disjunctions.
+© Apply distributive law:
+Pv(QAR)=(PVQ)A(PV R)
+
+Step 8: Resulting CNF
+* The final formula is @ conjunction of clauses, where each clause is a disjunction of literals (predicate or
+negated predicate).
 --- page 13 ---
 l. (X=1, Y=3, Z=4)
 m. (X=2, Y=4, Z=3)
@@ -6060,6 +7328,42 @@ SO-
 BL-3, 3
 Solution:
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+25
+45
+60
+35
+50
+
+40
+
+Surgery Type
+1 (Minor)
+2 (Major)
+2 (Major)
+1 (Minor)
+2 (Major)
+
+1 (Minor)
+
+Pre-existing Conditions
+0 (No)
+1 (Yes)
+1 (Yes)
+0 (No)
+0 (No)
+
+1 (Yes)
+
+Risk Category
+Low Risk
+High Risk
+High Risk
+Low Risk
+Low Risk
+
+High Risk
 --- page 17 ---
 The target variable (Risk Category) has two classes: Low Risk and High Risk.
 From the dataset:
@@ -6116,6 +7420,32 @@ Determine the characteristics of the problem.
 Find the concept to produce the solution.
 3. Formalization
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+(b) Splitting by “Pre-existing Conditions”
+¢ No (0) — (3 samples: Low Risk = 3, High Risk = 0) + H =0
+
+e Yes (1) — (3 samples: Low Risk = 0, High Risk = 3) > H =0
+
+Weighted Entropy:
+
+3 3
+Pre-existing = 6 x O+ 6 x0=-0
+
+IG Pre-existing -1-0-1
+
+Reformulate
+
+Redesign
+Refinement
+v v Vv
+Determining Finding the Designing Formulating
+the concept to structures rules which Validating
+characteristics to produce the to organize embody the the rules
+of the problem solution the knowledge knowledge
+
+IDENTIFICATION CONCEPTUAL- FORMALIZATION ~~ IMPLEMEN- TESTING
+LIZATION TATION
 --- page 19 ---
 Design structures to organize the knowledge.
 4. Implementation
@@ -6581,6 +7911,24 @@ EngineerRavi is an engineer and works on SystemX
 Understands(EngineerRavi,SystemX)Understands(EngineerRavi,
 SystemX)Understands(EngineerRavi,SystemX)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Step 2: Convert Statements to Predicate Logic
+
+1.
+VaVs |(Engineer(x) \ WorksOn(z, s)) + Understands(z, s))
+2.
+VaVs [Understands(x,s) + Maintain(z, s)|
+3.
+VaVyVs |(Trainee(x) \ Under(x,y) \ WorksOn(y, s)) + Learns(z, s)|
+4
+Trainee( Ananya)
+Under( Ananya, Engineer Ravi)
+5.
+
+Engineer(Engineer Ravi)
+
+WorksOn(Engineer Ravi, SystemX )
 --- page 10 ---
 From (3), (4), and (5):
 Ananya is a trainee working under EngineerRavi who works on
@@ -6955,6 +8303,7 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_09/Re-Exam/Integrated_Computer_7032/Artificial Intelligence/ANS_Artificial Intelligence(702CO0C032)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: mixed (20 pages), mean OCR confidence 80.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -6996,6 +8345,25 @@ BL-2
 Using forward chaining inference, determine whether Ram gets a job.
 Show the sequence of inferences made.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Greedy Best-First Search (GBFS) A* Search
+
+f(n) = h(n) — chooses node that appears closest to f(n) = g(n) + h(n) — chooses node with the lowest
+
+the goal based only on heuristic. estimated total cost (actual + heuristic).
+
+Ignores path cost; considers only heuristic. Considers both path cost and heuristic.
+
+Not guaranteed — may find a suboptimal path. Guaranteed optimal if heuristic is admissible and consistent.
+
+Not always complete (may loop). Complete if branching factor is finite and step costs are
+positive.
+
+Usually faster and uses less memory but less reliable. Slower and uses more memory but ensures best path.
+
+Chooses next node purely by lowest h(m). Example: A + Chooses next node by lowest g(n) + h(n). Example: A — C
+C + E = G (may not be shortest). — E = G (optimal path).
 --- page 2 ---
 Solution –
 Step 1: Known fact
@@ -7032,6 +8400,15 @@ SO-   Data = [2, 3, 6, 8, 10, 12]
 BL-3
 Solution –
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Rule Applied Newly Inferred Fact
+
+Given fact studies_hard(Ram)
+
+Rule 1: studies_hard(x) + passes_exam(x) passes_exam (Ram)
+
+Rule 2: passes_exam(x) + gets_job(x) gets_job(Ram)
 --- page 3 ---
 Cluster assignment after Iteration 1:
 •   Cluster 1 (C₁): [2, 3, 6]
@@ -7062,6 +8439,28 @@ BL-2, 3,   • The agent program can combine this with information about the
 the goal
 •   Usually requires search and planning
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+We compute the distance of each point to Cs and C2:
+
+Point Distance to C,;=4 Distance to C:=9 Assigned Cluster
+2 2-4 =2
+3 3-4 =1
+6 6-4 =2
+8 8-4 =4
+10 10-4 =6
+
+12 12-4 =8
+
+Point Distance to C,=3.67 Distance to C,=10 Assigned Cluster
+
+2 2-3.67 =1.67
+3 3-3.67 =0.67
+6 6-3.67 22.33
+8 8-3.67 24,33
+10 10-3.67 26.33
+
+12 12-3.67 28,33
 --- page 4 ---
 Sensors
 • Role: Detect and perceive the current state of the environment.
@@ -7101,6 +8500,26 @@ description for an ‘AI-based Smart Refrigerator’, clearly
 explaining each component.
 Solution –
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+\
+What the world
+is like now
+
+t m
+—— = = |
+What it will be like <=
+ifl do action A >
+=)
+=|
+3
+oO
+=|
+( Goals What action | -
+
+should do now
+
+Agent Actuators TD Ne y
 --- page 5 ---
 Marking Scheme –
 Each Property – 1 mark
@@ -7128,6 +8547,36 @@ size).
 Marking Scheme –
 Steps of GA – 3 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+PEAS Component Description
+
+Performance Measure - Minimize food wastage
+- Keep track of all stored items accurately
+- Suggest recipes based on available ingredient
+- Alert when items expire
+
+- Optimize energy consumption
+
+Environment - Kitchen or home environment
+- Items inside the refrigerator
+- Power supply
+- External databases (recipe, grocery)
+
+- User interactions (adding/removing items)
+
+Actuators - Display screen for alerts, recipes, and remindet
+- Sending notifications to mobile apps
+- Controlling internal temperature settings
+
+- Automatic ordering of items (optional)
+
+Sensors - Weight sensors to detect quantity of items
+- Barcode/RFID scanner to identify items
+- Temperature and humidity sensors
+- Cameras (optional) to detect item status
+
+- User input (app or touch interface)
 --- page 6 ---
 Advantages – 1 mark
 Disadvantages – 1 mark
@@ -7156,6 +8605,26 @@ Solution –
 Marking Scheme –
 Each agent – 1 mark
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Type of Agent Description Example
+
+Simple Reflex Agent Acts only based on current percept using condition- Automatic light switch (turns on when
+action rules. No memory of past states. motion is detected)
+
+Model-Based Reflex Uses a model of the world to handle partially observable —_Self-cleaning robot vacuum
+
+Agent environments. (remembers obstacles it has seen)
+
+Goal-Based Agent Acts to achieve specific goals, uses reasoning and Self-driving car planning a safe route to
+planning to select actions. destination
+
+Utility-Based Agent Acts to maximize a utility function, not just achieve Stock trading Al that maximizes profit
+goals. Chooses the best action among alternatives. while minimizing risk
+
+Learning Agent Improves its performance based on past experience. Al-based language translator improving
+
+cover time with user feedback
 --- page 8 ---
 a. Consider the following facts and prove that Bob will receive a
 bonus using Resolution Graph.
@@ -7261,6 +8730,57 @@ segment customers based on amount spent per visit (in $) and number
 of visits per week to design targeted offers. Group customers into 2
 clusters, where initial cluster centres are (5, 1) and (15, 5).
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Eliminate Implications and Biconditionals
+
+* Replace implications P => Q with —P v Q.
+* Replace biconditionals P <> Q with (P = Q) A (Q => P).
+
+Example:
+P=>Q > iAPvQ
+
+Step 2: Move Negations Inward (Use De Morgan’s Laws)
+* Push negations (—) directly onto predicates.
+° Apply:
+2° A(PAQ)=-Pv-Q
+e A(PvVQ)=-PA-Q
+° 7AVeP(x) = 3r—P(zx)
+° 732P(x£) = Ve—P(xr)
+Step 3: Standardize Variables
+* Rename variables so that each quantifier has a unique variable name.
+* Example:
+
+
+Step 4: Move Quantifiers to the Front (Prenex Form)
+« All quantifiers should be placed at the beginning of the sentence.
+° Example:
+
+Va(P(x) v 3yQ(y)) > = Vasy(P(x) Vv em) |
+
+Step 5: Skolemization (Remove Existential Quantifiers)
+* Replace existential quantifiers (3) with Skolem constants or functions.
++ Rules:
+* if 3xP(x) has no universal quantifiers before it — replace x with a constant.
++ If there are universal quantifiers before it — replace x with a Skolem function of those universal
+variables.
+
+Example:
+
+VasyP(x,y) + WaeP(x, f(x))
+
+Step 6: Drop Universal Quantifiers
+* After Skolemization, all remaining variables are universally quantified and can be assumed implicitly.
+Step 7: Distribute V over /\
+
+* Convert the formula into conjunctions of disjunctions.
+¢ Apply distributive law:
+
+PV(QAR)=(PVQ)A(PVR)
+
+Step 8: Resulting CNF
+* The final formula is a conjunction of clauses, where each clause is a disjunction of literals (predicate or
+negated predicate).
 --- page 12 ---
 Customer Amount Spent ($) Visits per Week
 
@@ -7342,6 +8862,45 @@ Learning and explain how it can be applied to this dataset. Generate IF–
 THEN rules from your decision tree for predicting Return.
 Solution –
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Reassign Customers to New Cluster Centers
+
+Customer To C1 (5.75,1.25) To C2 (15,4.67) Cluster Assigned
+
+C1 (5,1) W((5-5.75)42 + (1-1.25)42) = V((5-15)42 + (1-4.67)42) = a
+0.79 10.64
+
+C2 (7,2) V((7-5.75)42 + (2-1.25)42) = V((7-15)*2 + (2-4.67)42) = 8.47 a
+1.57
+
+C3 (8,1) V((8-5.75)42 + (1-1.25)42) = V((8-15)42 + (1-4.67)42) = 7.90 a
+2.26
+
+C4 (15,5) V((15-5.75)42 + (5-1.25)2) = V((15-15)42 + (5-4.67)42) = c2
+10.61 0.33
+
+C5 (16,4) V((16-5.75) 42 + (4-1.25)42) = V((16-15)42 + (4-4.67)42) = c2
+11.06 1.02
+
+C6 (14,5) V((14-5.75)42 + (5-1.25)42) = V((14-15)42 + (5-4.67)*2) = c2
+9.78 1.05
+
+C7 (3,1) V((B-5.75)42 + (1-1.25)42) = V((B-15)42 + (1-4.67)42) = a
+
+2.76 12.53
+
+Applicant CreditHistory Income Collateral ApproveLoan
+
+1 Good High Yes Yes
+2 Good High No Yes
+3 Fair High Yes Yes
+4 Poor Medium Yes No
+5 Poor Low No No
+6 Fair Medium No Yes
+7 Fair Low No No
+
+8 Good Medium Yes Yes
 --- page 14 ---
 Entropy formula:
 
@@ -7415,6 +8974,31 @@ High: Applicant 3 → Yes → Leaf: Yes
 Medium: Applicant 6 → Yes → Leaf: Yes
 Low: Applicant 7 → No → Leaf: No
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+C) Collateral
+e Yes: Applicants 1,3,4,8 ApproveLoan = Yes, Yes, No, Yes — 3 Yes, 1 No
+
+3 3 04«21 1
+Ent = —- log, — — — log, — = 0.811
+niropy 4 O82 44 O82 4
+¢ No: Applicants 2,5,6,7 + ApproveLoan = Yes, No, Yes, No — 2 Yes, 2 No
+
+Entropy = —0.5 logs 0.5 — 0.5 logs 0.5 = 1
+
+Weighted Entropy:
+
+E(Collateral) = ; 0.811 + ; -1= 0.906
+
+Gain(Collateral) = 0.954 — 0.906 = 0.048
+
+Subset: Applicants 3,6,7
+
+Applicant Income Collateral ApproveLoan
+3 High Yes Yes
+6 Medium No Yes
+
+7 Low No No
 --- page 16 ---
 Marking Scheme –
 Approach – 10 marks
@@ -7734,6 +9318,20 @@ Ans.   •   Perfect play for deterministic games
 = best achievable payoff against best play
 •   E.g., 2-ply game:
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+24748552 | 24 31% ae 32748552 3274962
+
+32752411 a 24748552
+
+24752411 24752411
+
+24415124 |_20 26% ana / 32752124 32262124
+
+32543213| 1 14%“) 24q15124 24415411 2441541]
+
+{al (bi {c) idi fel
+Thitial Population Fitness Function Selection Ctoss-Over Mutation
 --- page 4 ---
 CO-1;   b.
 Explain the Learning Agent with suitable diagram and example.   [10]
@@ -7767,6 +9365,28 @@ BL-
 Ans.   Discussion on DFS or BFS – [2M]
 Heuristics can improve the performance [2M]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+function MintMAx-DEcIsION(state) returns an action
+
+ut MAX-VALUE(state)
+return the action in SUCCESSORS(state) with value v
+
+function MAXx-VALUE(state) returns a utility value
+
+if TERMINAL-TEs1(state) then return UTILITY(state)
+ute —co
+for a,s in SUCCESSORS(state) do
+uv MAx(v, M1n-VALUE(s))
+return v
+
+function MIN-VALUE(state) returns a utility value
+
+if TERMINAL-TEST(state) then return UTILITY(state)
+ut Co
+for a,s in SuccEssors(state) do
+ue MINn(v, MAX-VALUE(s))
+return v
 --- page 5 ---
 Finding shortest path with heuristics can be an example [1M]
 b.   Consider the following statements and convert to WFF.
@@ -7783,6 +9403,29 @@ Ans.   WFF [5M]
 CNF [5M]
 Proof[5M]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+... itis a crime for an American to sell weapons to hostile nations:
+American(x) / Weapon(y) A Sells(x,y,z) A Hostile(z) = Criminal(x)
+
+Nono ... has some missiles, i.e., 3x Owns(Nono,x) A Missile(x): convert
+to two definite clauses
+
+Owns(Nono,M,) and Missile(M,)
+... all of its missiles were sold to it by Colonel West
+Missile(x) A Owns(Nono,x) = Sells(West,x,Nono)
+Missiles are weapons:
+
+Missile(x) = Weapon(x)
+
+An enemy of America counts as "hostile“:
+Enemy(x,America) = Hostile(x)
+
+West, who is American ...
+
+American(West)
+The country Nono, an enemy of America ...
+Enemy(Nono,America)
 --- page 6 ---
 a.   Apply the backward chaining method to find if Christena is healthy or sick.
 Following is the given information:
@@ -7844,6 +9487,22 @@ given a training set of examples
 – Assumes examples are given
 Explanation on learning example with different models [5M]
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+function BACKTRACKING-SEARCH( csp) returns a solution, or failure
+return RECURSIVE-BACKTRACKING({}, csp)
+
+function RECURSIVE-BACKTRACKING( assignment,csp) returns a solution, or
+failure
+if assignment is complete then return assignment
+var ~ SELECT- UNASSIGNED- VARIABLE( Variables/csp/, assignment, csp)
+for each value in ORDER-DOMAIN-VALUES(var, assignment, csp) do
+if value is consistent with assignment according to Constraints[csp] then
+add { var = value } to assignment
+result RECURSIVE-BACKTRACKING( assignment, csp)
+if result £ failue then return result
+remove { var = value } from assignment
+return failure
 --- page 9 ---
 CO-3;   b.
 Discuss significant characteristics of an expert system.   [10]
@@ -7897,6 +9556,20 @@ F T T T   T   F   F
 F T F T   F   T   T
 F F T T   F   T   T
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+e Aheuristic is said to be admissible if it never overestimates the true cost of reaching the
+
+goal from any node.
+
+© Condition: For all nodes n, the heuristic value h(m) must satisfy:
+h(n) < h*(n)
+where h* (7) is the true cost from node 7 to the goal.
+
+© Implication: Admissibility ensures that the A* algorithm will always find the optimal
+solution because it guarantees that the heuristic is optimistic, never suggesting a path that
+
+appears better than it actually is.
 --- page 2 ---
 F F F T   F   T   T
 c.   Solve : TWO + TWO = FOUR
@@ -8109,6 +9782,17 @@ Domains:
 Each variable has a set of possible values it can take, known as its
 domain.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+1. If the project deadline is extended, more features will be added.
+* Representation: Extended —» Features Added
+¢ In clausal form: >Eatended V Features Added
+2. If more features are added, the release date will be delayed.
+* Representation: Features Added —» Delayed
+¢ In clausal form: >FeaturesAdded VV Delayed
+3. The project deadline is extended.
+
+¢ Representation: Extended
 --- page 8 ---
 Example: In Sudoku, the domain of each cell is the set {1, 2, 3, ..., 9},
 representing the numbers that can be placed in the cell.
@@ -8748,6 +10432,26 @@ CO-   d.
 BL-
 Ans. Discussion on agent [4M]
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+function SIMPLE-PROBLEM-SOLVING-AGENT( percept) returns an action
+static: seg, an action sequence, initially empty
+state, some description of the current world state
+goal, a goal, initially null
+problem, a problem formulation
+
+state ~ UPDATE-STATE( state, percept)
+
+if seq is empty then do
+goal — FORMULATE-GOAL/(state)
+problem FORMULATE-PROBLEM(state, goal)
+seq SEARCH( problem)
+
+action First(seq)
+
+seq REST( seq)
+
+return action
 --- page 3 ---
 Mars Lander: Example [1M]
 1. Can pick up the stone sample from the surface around it, then it is normal
@@ -8864,6 +10568,16 @@ BL-   they fall sick. Christena loves oily food and she eats only what she loves
 wedges” is an oily food item.
 Ans. Convert to FOPL [5M]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+7 loyalto (Marcus, Caesar)
+Macus!x,, Caesarly,
+
+\/ -tryassassinate (Marcus, Caesar) 4
+
+tryassassinate (Marcus, Caesar) 8
+
+ell
 --- page 7 ---
 Proof by forward chaining with each step [5M]
 CO-3;   b.   What is constraint satisfaction problem? Explain with the help of Graph Coloring
@@ -9056,6 +10770,37 @@ Key Components of a Goal-Based Agent:
 Example: Goal-Based Agent in a Self-Driving Car
 • Perception: Detects road, traffic lights, obstacles, and other vehicles.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+a ») >»
+
+| |
+Sensors
+
+7 cinta
+( State )
+
+What the world
+
+(How the world evolves ——we| ra
+a - —_ is like now
+
+What it will be like <
+
+F\atbomt mass matinee de
+\ What my actions do >=) “if | do action A =
+
+What action | a
+should do now
+
+'
+
+Agent few _—_—_—_—_——_—=— |
+
+NY
+
+fm 7%
+© Goals —_
 --- page 4 ---
 • Knowledge Base: Stores past driving experience, road maps, and traffic rules.
 • Goal Information: The destination set by the user (e.g., reaching "City B").
@@ -9460,6 +11205,7 @@ Would you like a real-world example for each? 😊
 - Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/MASTER OF COMPUTER APPLICATIONS - 7061/Artificial Intelligence/ANS_Final-Exam_Artificial Intelligence(703CO0C008)_Semester II_2023-2024.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 22 Apr 2024
 - Text: mixed (17 pages), mean OCR confidence 84.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -9590,6 +11336,27 @@ A.
 10
 10
 Page 4 of 17
+
+[Text in pictures on this page, read by OCR]
+Performance standard
+
+ain: >) D>
+
+Critic I Sensors ~<+
+
+feedback
+m
+a
+changes =
+Learning [————* Performance rs}
+element element 5
+om 3
+learning ®
+goals 3
+Problem
+generator
+
+\ Agent Actuators
 --- page 5 ---
 B. Draw the state space search tree for the above knowledge.
 2.   20
@@ -9599,6 +11366,47 @@ Blind search techniques used an arbitrary ordering (priority) of operations.
 •What heurisitic(s) can we use to decide which 8-puzzle move is “best” (worth considering
 first).
 Page 5 of 17
+
+[Text in pictures on this page, read by OCR]
+| Water-jug problem
+
+I{x,y) if x<4 -> (4,y) fil the 4-gallon jug
+2(x%,yoify<3 -> (x,3) fil the 3-gallon jug
+3(x%,yjiFx>0 -> (x-d,y) pour some water
+
+out of the 4-gallon jug
+4(x,y) ify>0 -> (x,y-d) pour some water
+
+out of the 4-gallon jug
+
+5(x,y)ifx>0 -> (0,y) empty the 4-gallon jug on to
+the ground
+
+6(x,yjify>0 -> (x,0) empty the 3-gallon jug on to
+the ground
+
+7(x,y) if (x+y>=4andy>0) -> (4,y-(4-x)) pour water from
+the 3 gallon jug into the 4 gallon jug
+
+until the 4 gallon jug is full
+3
+
+| Contd.....
+
+I
+8(x,y) if (x+y>=3 and x>0)-> (x-(3-y),3) pour water from the 4
+gallon jug into the 3 gallon jug
+until the 3 gallon jug is full
+
+(x,y) ifxty<=4andy>0 -> (x+y,0) pour all the water from 3
+gallon jug into the 4-
+gallon jug
+
+10(x,y) ifx+y<=3 andx>0 -> (0,x+y) pour all the water from 4
+gallon jug into the 3- gallon jug
+
+11(0,2) -> (2,0) pour 2 gallon fram 3 to 4-gallon jug
+12(2,y)   -> (2,0) empty the 3-gallon jug on to ground
 --- page 6 ---
 For now - we just want to establish some ordering to the possible moves (the values of our
 heuristic does not matter as long as it ranks the moves).
@@ -9784,6 +11592,21 @@ The learning processes belong to supervised learning, does classification and co
 definitions, called induction or concept learning.
 Simplest form: learn a function from examples.
 Page 11 of 17
+
+[Text in pictures on this page, read by OCR]
+Alpha-Beta pruning
+
+In minmax search the number of game
+states it has to examine is exponential in
+the number of moves
+
+We can not eliminate exponent but we can
+cut it in half
+
+It is possible to compute minmax without
+looking at every node in the game tree.
+
+Alpha-beta pruning is helpful in that.
 --- page 12 ---
 f is the target function
 An example is a pair (x, f(x))
@@ -9821,6 +11644,21 @@ Example: - 5 marks
 B. Designing the tree and solving complete example [10 Marks]   10
 6.   20
 Page 15 of 17
+
+[Text in pictures on this page, read by OCR]
+Step-S:
+
+At step-5, we can infer the fact fnemy{4, America) from Hostile(A) which satisfies Rule- 6, And hence
+all the statements are proved true using backward chaining.
+
+LS
+
+
+to} feat}
+
+
+fae} t 2 € oo « 2
+Madhura Vyswehare
 --- page 16 ---
 A. Local search for Constraint Satisfaction Problems (CSPs) is an alternative approach to   10
 backtracking search. Unlike backtracking's systematic exploration, local search focuses on
@@ -9864,4 +11702,27 @@ absolute best one.
 10
 B.
 Page 17 of 17
+
+[Text in pictures on this page, read by OCR]
+Goal-Driven Reasoning
+
+* Goal-driven reasoning, or backward chaining,
+is an efficient way to solve problems. The
+Backward chaining or goal driven algorithm
+proceeds from desired goal, adding new
+assertions found.
+
+Data Driven Reasoning
+
+* The data driven approach, or Forward chaining, uses
+rules similar to those used for backward chaining.
+However, the inference process is different.
+
+* The system keeps track of the current state of problem
+
+solution and looks for rules which will move that state
+closer toa final solution
+
+* The Algorithm proceeds from given situation to desired
+goal, adding new assertions found.
 ````

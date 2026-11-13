@@ -705,6 +705,18 @@ CO1   c.   State Hooke’s law and distinguish between stress and strain.   [4]
 SO1
 BL2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Section 3
+
+. Section 2
+Section 1
+35000 N * an 35000 N
+— 2cmDIA 3cm DIA 5cmDIA -—~>
+
+eel
+
+ke 20 cm — 25 cm —olt- 22 cm >}
 ````
 
 ## 2025-26 · Re-Exam · Sem 8 · paper ad8fc190fe8e
@@ -818,6 +830,18 @@ CO1   c.   State Hooke’s law and distinguish between stress and strain.   [4]
 SO1
 BL2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Section 3
+
+. Section 2
+Section 1
+35000 N * an 35000 N
+— 2cmDIA 3cm DIA 5cmDIA -—~>
+
+eel
+
+ke 20 cm — 25 cm —olt- 22 cm >}
 ````
 
 ## 2025-26 · Re-Exam · Sem 4 · paper 1cdf06e50002

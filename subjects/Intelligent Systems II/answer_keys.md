@@ -153,6 +153,38 @@ Credit Score Low Income   Medium   High Income
 Stability
 Low Credit   Reject   Reject   Consider
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+3. Conditional probability: P(R=T | W=T)
+Using Bayes’ theorem:
+
+P(R=TW =f)
+
+P(R=T\|W =T) = i
+
+Sum over C and S for R=T:
+1. C=T, S=T, R=T: 0.0396
+2. C=T, S=F, R=T: 0.324
+3. C=F, S=T, R=T: 0.0495
+4. C=F, S=F, R=T: 0.045
+
+P(R=T,W =T) = 0.0396 + 0.324 + 0.0495 + 0.045 = 0.4581
+
+P(R = T\W = T) = 0.4581/0.649 ~ 0.706
+
+ai z=1,
+HowCredt (2) = 4 FF, 1<a < 50,
+i ef Sh
+
+e285 95 < x < 50,
+
+)—25?
+HMediumCredit(®) = 4 BoE, 50< ax < 75,
+0. otherwise.
+0, x <= 50,
+HutighCreait (2) = ¢ 3728), 50 < 2 < 100,
+
+Ty z= 100.
 --- page 6 ---
 Medium   Reject   Consider   Approve
 Credit
@@ -170,6 +202,26 @@ BL-3
 (3)
 (4)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+| aa
+
+0.2 04 0.3
+R=|0.2 03 0.
+0.1 0.1 O.1
+
+(3marks)
+0.2 03 0.3
+S=\01 01 O01
+0.2 0.4 0.3
+
+(3 marks)
+Ris:
+0.3 0.3 “reas & %
+goR- [0.2 0303 Ce a,
+0.2 0.3 0. a oe
+
+/Amarks)Smarks for
 --- page 7 ---
 Q5   a)   [10]
 CO-3;
@@ -187,6 +239,29 @@ Mutation applied   O1 → flip bit 2 → 1011 (11); O2 → flip bit 4
 Offspring fitness   Offspring1 (2134) < best parent (3640),
 comparison   Offspring2 (76) very low
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Today's vector: [50, 30, 20) in (P, L, R)
+Tomorrow's expected vector = [50, 30, 20] - T
+Computation:
+* Paris tomorrow = 50 - 0.60 + 30 - 0.30 + 20 - 0.20 = 43
+e London tomorrow = 50 - 0.25 + 30 - 0.50 + 20 - 0.30 = 33.5
+* Rome tomorrow = 50 - 0.15 + 30 - 0.20 + 20 - 0.50 = 23.5
+So expected counts = [43, 33.5, 23.5]
+
+Solve for stationary distribution 7 satisfying m = rT’, }) mj = 1
+Obtained approximate solution:
+
+am = (0.3928, 0.3505, 0.2577)
+
+i.e. ~39.3% in Paris, ~35.1% in London, ~25.8% in Rome in the long run.
+
+Compare to current shares (today: Paris = 50/100 = 0.50, London = 0.30, Rome = 0.20):
+e Paris: share drops — loses guests in the long run
+
+e London: share increases — gains guests
+
+e Rome: share increases — gains guests (though less strongly than London)
 --- page 8 ---
 GA insight (5 marks)
 
@@ -347,6 +422,68 @@ No.   (RT)   Performance (HP)   (AA)
 4   Medium   Poor   Balanced
 5   Medium   Average   Balanced
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+e Low (L):
+
+1 ifa < 25
+by(x) = ue if25<2<50
+0 ifx > 50
+© Medium (M):
+
+a5 if25 <a <50
+pu(z) = § S* if50<a2< 75
+
+0 otherwise
+
+© High (H):
+
+200 if 50 <a < 75
+u(t) = 41 if > 75
+0 ife < 50
+
+© Poor (P):
+
+(1 ifa < 25
+bp(x) = 4 Se if25 <2 < 50
+0 if > 50
+e Average (A):
+2 if25 <a <50
+
+wa(a) = 4 3 if50<a<75
+
+0 otherwise
+
+© Good (G):
+
+= if50 <a < 75
+g(x) = 41 ifa > 75
+
+0 ife < 50
+
+3. Asset Allocation (AA) Membership Functions
+
+For the output variable Asset Allocation (AA), we define three triangular membership functions
+
+corresponding to Conservative (C), Balanced (B), and Aggressive (A) strategies:
+
+© Conservative (C):
+
+1 ife<33
+pola) = 4 82 i£33 <a < 66
+0 if > 66
+
+e Balanced (B):
+
+if33 <2 < 66
+if66 <a < 100
+otherwise
+
+e Aggressive (A):
+
+=f if 66 < a < 100
+wa(x) = 41 ifx > 100
+0 if < 66
 --- page 4 ---
 6   Medium   Good   Aggressive
 7   High   Poor   Balanced
@@ -464,6 +601,18 @@ A   0   1+0.1428= 1   1+0.1428=
 B   1+0.1428= 0   1   1+0.1428=
 1.1428   1.1428
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+0.4
+xo = |0.35
+0.25
+
+x1 —xo0-P
+
+0.5 0.3 0.2
+0.2 0.3 0.5
+
+x1 — [0.4 0.35 0.25] ns 0.4 0.2
 --- page 9 ---
 C   1   1   0   1+0.1428=
 1.1428
@@ -585,6 +734,68 @@ No.   (RT)   Performance (HP)   (AA)
 4   Medium   Poor   Balanced
 5   Medium   Average   Balanced
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+e Low (L):
+
+1 ifa < 25
+by(x) = ue if25<2<50
+0 ifx > 50
+© Medium (M):
+
+a5 if25 <a <50
+pu(z) = § S* if50<a2< 75
+
+0 otherwise
+
+© High (H):
+
+200 if 50 <a < 75
+u(t) = 41 if > 75
+0 ife < 50
+
+© Poor (P):
+
+(1 ifa < 25
+bp(x) = 4 Se if25 <2 < 50
+0 if > 50
+e Average (A):
+2 if25 <a <50
+
+wa(a) = 4 3 if50<a<75
+
+0 otherwise
+
+© Good (G):
+
+= if50 <a < 75
+g(x) = 41 ifa > 75
+
+0 ife < 50
+
+3. Asset Allocation (AA) Membership Functions
+
+For the output variable Asset Allocation (AA), we define three triangular membership functions
+
+corresponding to Conservative (C), Balanced (B), and Aggressive (A) strategies:
+
+© Conservative (C):
+
+1 ife<33
+pola) = 4 82 i£33 <a < 66
+0 if > 66
+
+e Balanced (B):
+
+if33 <2 < 66
+if66 <a < 100
+otherwise
+
+e Aggressive (A):
+
+=f if 66 < a < 100
+wa(x) = 41 ifx > 100
+0 if < 66
 --- page 4 ---
 6   Medium   Good   Aggressive
 7   High   Poor   Balanced
@@ -702,6 +913,18 @@ A   0   1+0.1428= 1   1+0.1428=
 B   1+0.1428= 0   1   1+0.1428=
 1.1428   1.1428
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+0.4
+xo = |0.35
+0.25
+
+x1 —xo0-P
+
+0.5 0.3 0.2
+0.2 0.3 0.5
+
+x1 — [0.4 0.35 0.25] ns 0.4 0.2
 --- page 9 ---
 C   1   1   0   1+0.1428=
 1.1428

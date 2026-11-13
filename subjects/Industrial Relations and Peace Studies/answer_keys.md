@@ -68,6 +68,27 @@ manage the situation)
 •   Destructive one creates cycle of violence, takes human lives and
 brings about misery.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Factors affecting Industrial Relations (contd.)
+
+1. Industrial Factors:
+
+These include items like state policy, labour laws, voluntary codes, collective
+bargaining agreements, labour unions, employers organizations / federation etc.
+
+2. Economic Factors:
+These include economic organisations (socialist, communist, capitalist) type of
+ownership, individual, company whether domestic or MNC, Government, co-
+operative, ownership, nature and composition of work force, the source of labour
+supply, labour market relative status, disparity of wages between groups, level of
+unemployment etc.
+
+3. Social Factors:
+
+Social Factors like social group (caste system or joint family system) creed, social
+values, norms, social status etc. influence industrial relations in the early stages of
+industrialization.
 --- page 3 ---
 a. Peace culture, Peace Structure, Peace Building, NON-VIOLENCE,
 Q2
@@ -328,6 +349,27 @@ manage the situation)
 •   Destructive one creates cycle of violence, takes human lives and
 brings about misery.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Factors affecting Industrial Relations (contd.)
+
+1. Industrial Factors:
+
+These include items like state policy, labour laws, voluntary codes, collective
+bargaining agreements, labour unions, employers organizations / federation etc.
+
+2. Economic Factors:
+These include economic organisations (socialist, communist, capitalist) type of
+ownership, individual, company whether domestic or MNC, Government, co-
+operative, ownership, nature and composition of work force, the source of labour
+supply, labour market relative status, disparity of wages between groups, level of
+unemployment etc.
+
+3. Social Factors:
+
+Social Factors like social group (caste system or joint family system) creed, social
+values, norms, social status etc. influence industrial relations in the early stages of
+industrialization.
 --- page 3 ---
 a. Peace culture, Peace Structure, Peace Building, NON-VIOLENCE,
 Q2
@@ -588,6 +630,27 @@ manage the situation)
 •   Destructive one creates cycle of violence, takes human lives and
 brings about misery.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Factors affecting Industrial Relations (contd.)
+
+1. Industrial Factors:
+
+These include items like state policy, labour laws, voluntary codes, collective
+bargaining agreements, labour unions, employers organizations / federation etc.
+
+2. Economic Factors:
+These include economic organisations (socialist, communist, capitalist) type of
+ownership, individual, company whether domestic or MNC, Government, co-
+operative, ownership, nature and composition of work force, the source of labour
+supply, labour market relative status, disparity of wages between groups, level of
+unemployment etc.
+
+3. Social Factors:
+
+Social Factors like social group (caste system or joint family system) creed, social
+values, norms, social status etc. influence industrial relations in the early stages of
+industrialization.
 --- page 3 ---
 a. Peace culture, Peace Structure, Peace Building, NON-VIOLENCE,
 Q2
@@ -848,6 +911,27 @@ manage the situation)
 •   Destructive one creates cycle of violence, takes human lives and
 brings about misery.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Factors affecting Industrial Relations (contd.)
+
+1. Industrial Factors:
+
+These include items like state policy, labour laws, voluntary codes, collective
+bargaining agreements, labour unions, employers organizations / federation etc.
+
+2. Economic Factors:
+These include economic organisations (socialist, communist, capitalist) type of
+ownership, individual, company whether domestic or MNC, Government, co-
+operative, ownership, nature and composition of work force, the source of labour
+supply, labour market relative status, disparity of wages between groups, level of
+unemployment etc.
+
+3. Social Factors:
+
+Social Factors like social group (caste system or joint family system) creed, social
+values, norms, social status etc. influence industrial relations in the early stages of
+industrialization.
 --- page 3 ---
 a. Peace culture, Peace Structure, Peace Building, NON-VIOLENCE,
 Q2
@@ -1108,6 +1192,27 @@ manage the situation)
 •   Destructive one creates cycle of violence, takes human lives and
 brings about misery.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Factors affecting Industrial Relations (contd.)
+
+1. Industrial Factors:
+
+These include items like state policy, labour laws, voluntary codes, collective
+bargaining agreements, labour unions, employers organizations / federation etc.
+
+2. Economic Factors:
+These include economic organisations (socialist, communist, capitalist) type of
+ownership, individual, company whether domestic or MNC, Government, co-
+operative, ownership, nature and composition of work force, the source of labour
+supply, labour market relative status, disparity of wages between groups, level of
+unemployment etc.
+
+3. Social Factors:
+
+Social Factors like social group (caste system or joint family system) creed, social
+values, norms, social status etc. influence industrial relations in the early stages of
+industrialization.
 --- page 3 ---
 a. Peace culture, Peace Structure, Peace Building, NON-VIOLENCE,
 Q2
@@ -1368,6 +1473,27 @@ manage the situation)
 •   Destructive one creates cycle of violence, takes human lives and
 brings about misery.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Factors affecting Industrial Relations (contd.)
+
+1. Industrial Factors:
+
+These include items like state policy, labour laws, voluntary codes, collective
+bargaining agreements, labour unions, employers organizations / federation etc.
+
+2. Economic Factors:
+These include economic organisations (socialist, communist, capitalist) type of
+ownership, individual, company whether domestic or MNC, Government, co-
+operative, ownership, nature and composition of work force, the source of labour
+supply, labour market relative status, disparity of wages between groups, level of
+unemployment etc.
+
+3. Social Factors:
+
+Social Factors like social group (caste system or joint family system) creed, social
+values, norms, social status etc. influence industrial relations in the early stages of
+industrialization.
 --- page 3 ---
 a. Peace culture, Peace Structure, Peace Building, NON-VIOLENCE,
 Q2
@@ -1628,6 +1754,27 @@ manage the situation)
 •   Destructive one creates cycle of violence, takes human lives and
 brings about misery.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Factors affecting Industrial Relations (contd.)
+
+1. Industrial Factors:
+
+These include items like state policy, labour laws, voluntary codes, collective
+bargaining agreements, labour unions, employers organizations / federation etc.
+
+2. Economic Factors:
+These include economic organisations (socialist, communist, capitalist) type of
+ownership, individual, company whether domestic or MNC, Government, co-
+operative, ownership, nature and composition of work force, the source of labour
+supply, labour market relative status, disparity of wages between groups, level of
+unemployment etc.
+
+3. Social Factors:
+
+Social Factors like social group (caste system or joint family system) creed, social
+values, norms, social status etc. influence industrial relations in the early stages of
+industrialization.
 --- page 3 ---
 a. Peace culture, Peace Structure, Peace Building, NON-VIOLENCE,
 Q2
@@ -1888,6 +2035,27 @@ manage the situation)
 •   Destructive one creates cycle of violence, takes human lives and
 brings about misery.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Factors affecting Industrial Relations (contd.)
+
+1. Industrial Factors:
+
+These include items like state policy, labour laws, voluntary codes, collective
+bargaining agreements, labour unions, employers organizations / federation etc.
+
+2. Economic Factors:
+These include economic organisations (socialist, communist, capitalist) type of
+ownership, individual, company whether domestic or MNC, Government, co-
+operative, ownership, nature and composition of work force, the source of labour
+supply, labour market relative status, disparity of wages between groups, level of
+unemployment etc.
+
+3. Social Factors:
+
+Social Factors like social group (caste system or joint family system) creed, social
+values, norms, social status etc. influence industrial relations in the early stages of
+industrialization.
 --- page 3 ---
 a. Peace culture, Peace Structure, Peace Building, NON-VIOLENCE,
 Q2
@@ -2148,6 +2316,27 @@ manage the situation)
 •   Destructive one creates cycle of violence, takes human lives and
 brings about misery.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Factors affecting Industrial Relations (contd.)
+
+1. Industrial Factors:
+
+These include items like state policy, labour laws, voluntary codes, collective
+bargaining agreements, labour unions, employers organizations / federation etc.
+
+2. Economic Factors:
+These include economic organisations (socialist, communist, capitalist) type of
+ownership, individual, company whether domestic or MNC, Government, co-
+operative, ownership, nature and composition of work force, the source of labour
+supply, labour market relative status, disparity of wages between groups, level of
+unemployment etc.
+
+3. Social Factors:
+
+Social Factors like social group (caste system or joint family system) creed, social
+values, norms, social status etc. influence industrial relations in the early stages of
+industrialization.
 --- page 3 ---
 a. Peace culture, Peace Structure, Peace Building, NON-VIOLENCE,
 Q2
@@ -2408,6 +2597,27 @@ manage the situation)
 •   Destructive one creates cycle of violence, takes human lives and
 brings about misery.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Factors affecting Industrial Relations (contd.)
+
+1. Industrial Factors:
+
+These include items like state policy, labour laws, voluntary codes, collective
+bargaining agreements, labour unions, employers organizations / federation etc.
+
+2. Economic Factors:
+These include economic organisations (socialist, communist, capitalist) type of
+ownership, individual, company whether domestic or MNC, Government, co-
+operative, ownership, nature and composition of work force, the source of labour
+supply, labour market relative status, disparity of wages between groups, level of
+unemployment etc.
+
+3. Social Factors:
+
+Social Factors like social group (caste system or joint family system) creed, social
+values, norms, social status etc. influence industrial relations in the early stages of
+industrialization.
 --- page 3 ---
 a. Peace culture, Peace Structure, Peace Building, NON-VIOLENCE,
 Q2
@@ -2668,6 +2878,27 @@ manage the situation)
 •   Destructive one creates cycle of violence, takes human lives and
 brings about misery.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Factors affecting Industrial Relations (contd.)
+
+1. Industrial Factors:
+
+These include items like state policy, labour laws, voluntary codes, collective
+bargaining agreements, labour unions, employers organizations / federation etc.
+
+2. Economic Factors:
+These include economic organisations (socialist, communist, capitalist) type of
+ownership, individual, company whether domestic or MNC, Government, co-
+operative, ownership, nature and composition of work force, the source of labour
+supply, labour market relative status, disparity of wages between groups, level of
+unemployment etc.
+
+3. Social Factors:
+
+Social Factors like social group (caste system or joint family system) creed, social
+values, norms, social status etc. influence industrial relations in the early stages of
+industrialization.
 --- page 3 ---
 a. Peace culture, Peace Structure, Peace Building, NON-VIOLENCE,
 Q2
@@ -2928,6 +3159,27 @@ manage the situation)
 •   Destructive one creates cycle of violence, takes human lives and
 brings about misery.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Factors affecting Industrial Relations (contd.)
+
+1. Industrial Factors:
+
+These include items like state policy, labour laws, voluntary codes, collective
+bargaining agreements, labour unions, employers organizations / federation etc.
+
+2. Economic Factors:
+These include economic organisations (socialist, communist, capitalist) type of
+ownership, individual, company whether domestic or MNC, Government, co-
+operative, ownership, nature and composition of work force, the source of labour
+supply, labour market relative status, disparity of wages between groups, level of
+unemployment etc.
+
+3. Social Factors:
+
+Social Factors like social group (caste system or joint family system) creed, social
+values, norms, social status etc. influence industrial relations in the early stages of
+industrialization.
 --- page 3 ---
 a. Peace culture, Peace Structure, Peace Building, NON-VIOLENCE,
 Q2
@@ -3188,6 +3440,27 @@ manage the situation)
 •   Destructive one creates cycle of violence, takes human lives and
 brings about misery.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Factors affecting Industrial Relations (contd.)
+
+1. Industrial Factors:
+
+These include items like state policy, labour laws, voluntary codes, collective
+bargaining agreements, labour unions, employers organizations / federation etc.
+
+2. Economic Factors:
+These include economic organisations (socialist, communist, capitalist) type of
+ownership, individual, company whether domestic or MNC, Government, co-
+operative, ownership, nature and composition of work force, the source of labour
+supply, labour market relative status, disparity of wages between groups, level of
+unemployment etc.
+
+3. Social Factors:
+
+Social Factors like social group (caste system or joint family system) creed, social
+values, norms, social status etc. influence industrial relations in the early stages of
+industrialization.
 --- page 3 ---
 a. Peace culture, Peace Structure, Peace Building, NON-VIOLENCE,
 Q2

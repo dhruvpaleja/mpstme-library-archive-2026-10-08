@@ -221,6 +221,17 @@ Explanation of standard practices to be followed for dealing with suppliers. ---
 4) Measure and certify supplier performance
 5) Develop cooperative relationship and strategic alliance
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Customer/
+Supplier ———_ Customer/
+Supplier) ————-- Customer/
+(Coal mine) Supplier > Customer/
+
+(Steel mill) Supplier ——>-
+(Auto plant)
+
+(Car rental agency)
 --- page 6 ---
 b) Explanation of Deming’s 14 principles of total quality management (TQM) – 10 M
 1) Create constancy of purpose for improving products and services: Plan for quality in the long
@@ -289,6 +300,30 @@ less defectives.
 Reject the lot on the basis of the combined sample if the combined sample contains more than 3
 defectives.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+NoIT Policy
+
+e Lack of Training Hardware Failure © Poor Quality Cables
+
+e Human Error \ e Overheating \ e Faulty Software
+e Aging Systems
+
+High Temperature
+
+e Dust \ e Poor Planning
+
+e Improper Handling e Virus / Malware Power Fluctuations \ e Budget Issues
+
+Humidity \ No Backup System
+
+e Network Issues
+
+¢ No Regular Miaintenancef’ Improper Shutdown ¢ Delayed Updates
+
+¢ Improper Shutdown / e Delayed Updates / e No SOP /
+
+e Delayed Updates
 --- page 8 ---
 There are four possibilities for acceptance or rejection of a lot submitted for double sampling plan
 namely
@@ -453,6 +488,23 @@ satisfaction. )
 CO-2,BL-2   b   Illustrate the different models of customer satisfaction with a
 schematic diagram, while discussing   its impact on Quality   [10]
 management.
+
+[Text in pictures on this page, read by OCR]
+Typical bathtub curve for a device
+
+Hazard function
+
+; Useful life
+H (Random period)
+Bei B>1
+p=
+Time
+—_—"?>
+Infant Wear-out
+mortality
+(early life)
+
+1EC 1323/08
 --- page 3 ---
 Explanation of each model- 3 marks each
 Diagram of each model 2 marks each
@@ -492,6 +544,30 @@ Explanation of each pillar 7 marks
 Diagram of each pillar -3 marks
 CO-5,BL-3   b
 [10]
+
+[Text in pictures on this page, read by OCR]
+TPM
+
+=
+
+( :
+1 3| |?
+1 8| |3
+2| |z
+
+] & £
+= 3
+
+] a
+>
+
+\ 5
+
+TPM Improvement Tool Box:
+RCM, Predictive Technologies, kaizen, PM optimization, planning and scheduling
+enhancements, 6S, set-up reduction, etc.
+
+Key Management Principles / Senior Leadership Involvement
 --- page 5 ---
 - 3 marks
 Diagram or graph- 3 marks
@@ -546,6 +622,28 @@ achieving continuous improvement within a Quality Management
 [10]
 System, supporting your answer with suitable examples.
 PDSA -plan do study act-
+
+[Text in pictures on this page, read by OCR]
+test Ftest
+
+Used to determine whether there is a significant Used to compare variances of two or more groups, or to
+
+difference between the means of two groups. test the overall significance in ANOVA or regression
+models.
+
+Compares means. Compares variances or multiple means indirectly.
+
+Applicable when comparing two groups only (e.9., Applicable when comparing two or more groups (e.g.,
+
+treatment vs. control). multiple treatment levels).
+
+2
+8
+
+F= Z (ratio of variances)
+2
+
+- Samples are independent
 --- page 7 ---
 Kaizen- good change
 5S- set, shine, sort, standardize, sustain
@@ -625,6 +723,24 @@ CO-2,BL-2   b   Illustrate the different models of customer satisfaction with a
 schematic diagram, while discussing   its impact on Quality   [10]
 management.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Typical bathtub curve for a device
+
+Hazard function
+; Useful life
+
+i (Random period)
+
+pei B>1
+p=1
+Time
+ses
+Infant Wear-out
+mortality
+(early life)
+
+4EC 1323/08
 --- page 3 ---
 Explanation of each model- 3 marks each
 Diagram of each model – 2 marks each
@@ -667,6 +783,28 @@ CO-5,BL-3   b   Identify the tool that discusses about “Vital Few” from “T
 [10]
 Many”. Justify your answer.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+TPM
+
+{ 5
+5
+
+1 8 2
+| |g
+
+. | |§
+I = g
+] = &
+>
+
+E
+
+TPM Improvement Tool Box:
+RCM, Predictive Technologies, kaizen, PM optimization, planning and scheduling
+enhancements, 6S, set-up reduction, etc.
+
+Key Management Principles / Senior Leadership Involvement
 --- page 5 ---
 • Tool identified is Pareto’s chart- 3 marks
 • Diagram or graph- 3 marks
@@ -731,6 +869,23 @@ achieving continuous improvement within a Quality Management
 System, supporting your answer with suitable examples.
 • PDSA -plan do study act-
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+test F-test
+
+Used to determine whether there is a significant Used to compare variances of two or more groups, or to
+difference between the means of two groups. test the overall significance in ANOVA or regression
+models.
+Compares means. ‘Compares variances or multiple means indirectly.
+Applicable when comparing two groups only (e.g., Applicable when comparing two or more groups (e.g.,
+treatment vs. control). multiple treatment levels).
+Xi - x: 2
+
+5
+a F = 5 (ratio of variances)
+SEx 3 | )
+
+- Samples are independent
 --- page 7 ---
 • Kaizen- good change
 • 5S- set, shine, sort, standardize, sustain

@@ -82,6 +82,48 @@ CO-2;
 SO-1;   [10]
 BL-4
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate Availability
+
+cy eae Operating Time
+Availability = —— ——-—_____
+vanaoe’S ~ Planned Production Time
+
+* Planned Production Time = Total time — planned breaks = 960 - 60 = 900 minutes
+* Operating Time = Planned Production Time — Downtime = 900 - 120 = 780 minutes
+
+780
+Availability = — = 0.8667 ~ 86.67'
+vailability = 905 %
+
+Step 2: Calculate Performance
+
+Ideal Cycle Time x Total Units Produced
+
+Performance = Operating Time
+
+* Ideal cycle time = Total units = 2 x 400 = 800 minutes
+
+* Operating Time = 780 minutes
+800
+Performance = 70 1.0256 ~ 102.56%
+
+Note: Performance > 100% indicates that the machine operated slightly faster than the ideal cycle time. For
+
+OEE calculations, we often cap performance at 100%.
+
+Step 3: Calculate Quality
+
+Good Units
+
+uality = ——————____
+Q y Total Units Produced
+* Good Units = Total Units - Rejected Units = 400 - 20 = 380
+
+380
+ality = — = 0.95 = 95
+Quality = 55 %
 --- page 4 ---
 Step 1 = 03 marks;
 step 2 =03 marks;
@@ -128,6 +170,32 @@ SO-6;   [10]
 BL-4   how QFD helps in aligning hospital operations with patient
 expectations.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The formula for theoretical minimum number of workstations:
+
+Total task time
+
+Nein =
+m Cycle time
+
+Step 1: Total task time
+Total task time = 20 + 25 + 15 + 30 + 10 + 35 = 135 seconds
+
+Step 2: Minimum number of workstations
+
+135
+Nain = m 2.25 ~ 3 workstations (round up)
+
+Compute line efficiency
+
+Effici Sum of task times 100
+iciency = x
+Y ~ Number of workstations x Cycle time
+
+135 135
+Efficiency = ———~ x 100 = — x 100 = 75%
+(3 x 60) 180
 --- page 6 ---
 Diagram with 5 “Voice of the Customer” inputs =05 marks
 Diagram with 5 measurable hospital service parameters=05 marks
@@ -137,6 +205,25 @@ CO-1;
 SO-6;   [10]
 BL-2
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+QFD House of Quality
+
+Interrelationships
+Customer
+—, How to satisfy
+a customer wants
+2
+=o
+What the Pelatio _ Sé
+customer : 23
+wants § 3
+On
+Target values i Weighted
+rating
+Technical
+
+evaluation
 --- page 7 ---
 Explanation with example = 07+03 = 10 marks
 b.   Explain how the integration of Six Sigma and Lean Manufacturing

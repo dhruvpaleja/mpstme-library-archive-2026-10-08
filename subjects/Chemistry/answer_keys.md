@@ -381,6 +381,27 @@ The Chief alloying elements added include:
 ✓ Cobalt for hardness
 ✓ Molybdenum for extra tensile strength
 9
+
+[Text in pictures on this page, read by OCR]
+Eg- Nylon-6,6 (hexamethylene diamine + a
+z t
+HO—C—_}+—C—OH + H3N—_}—NH2
+a dicarboxylic acid a diamine
+
+L qi "
+bo Eno]
+n
+a polyamide
+
+ic acid)
+
+¢ Lg PET (polyethylene terephthalate)
+
+re) re) re) re)
+HO-C4_)-C-OH + H-0-CH-CH,-OH —>Ho-C{(")-C-0-CH,-CH,-OH + H,0
+‘Torephthalie acid Ethylene glycol Water
+¢ The linkage is a polyester linkage
+¢ Note: the acid and the alcohol groups are still available for bonding
 --- page 10 ---
 ✓ This steel contains 18% tungsten, 4% chromium and 1% vanadium. It is
 considered as one of best of all purpose tool steels.
@@ -541,6 +562,15 @@ BL-3   base metal, i.e. converting the base metal, to cathode from an anode.
 •   In this method, insoluble anodic metal used (i.e. platinum, steel, scrap iron
 etc.) is normally embedded underground.
 13
+
+[Text in pictures on this page, read by OCR]
+Classification of composite materials
+
+* Classification of the reinforcement component:
+Reinforcements
+
+r r r r r 2
+Fibres Whiskers Laminar Flakes Filled Particulates Microspheres
 --- page 14 ---
 • To this, with the help of d.c. current source, the impressed current is applied,
 and whole of this assembly is connected to the metallic structure to be
@@ -766,6 +796,28 @@ CO-3 ;BL-3   (c)   [4M]
 significance of moisture content-tells about quality 1M
 Comment - current sample is usable as limit of moisture is 7% 1M
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Given
+
+¢ Initial weight of coal = 3.5 g
+e Final weight after heating = 3.325 g
+
+Weight loss (moisture removed)
+3.5 — 3.325 — 0.175 g
+
+Moisture content (%)
+
+Moisture % — Weight loss
+
+0.175
+3.5
+
+= 5%
+
+x 100
+
+Initial weight
 --- page 2 ---
 CO-4; BL-1   (d)   disadvantages of hard water if used for domestic purposes any 4 -1M [4M]
 each
@@ -817,6 +869,38 @@ unknown water sample.
 1M
 1M
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Concentration of Standard Hard Water
+
+1 mg CaCO; per L = 1 ppm hardness
+
+0.599 = 590mg
+
+590
+
+Hardness of SHW = 500
+
+= 1.18 mg/mL
+Hardness in 50 mL SHW
+1.18 x 50 = 59 mg CaCOs
+Thus,
+
+40 mL EDTA = 59 mg CaCO;
+
+Step 3: Total Hardness
+EDTA used = 25 mL
+
+25 x 1.475 = 36.875 mg CaCOs in 50 mL
+
+Convert to ppm
+
+36.875 x 1000
+50
+
+= 737.5 ppm
+
+Total hardness = 737.5 ppm
 --- page 4 ---
 Step 4: Permanent Hardness
 
@@ -881,6 +965,40 @@ CO-3;BL-3   Q5   [5M]
 (c)
 2M
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+NCV = GCV — (0.09 x H x L)
+
+NCV = 7399.54 — (0.09 = 0.6 x 587)
+NCV = 7399.54 — (0.054 x 587)
+NCV = 7399.54 — 31.698
+
+NCV = 7367.84 kcal/kg
+
+Step 1: Percentage of Carbon
+
+CO, formed = 2.64 g
+
+Fram reaction:
+44 ¢ CO: contains 12 gC
+
+Carbon in 2.64 g COz:
+
+12
+C= = x 2.64
+ma.
+
+31.68
+Cc _
+44
+
+C-0.72¢
+
+Percentage of carbon
+
+0.72
+
+%C = 90%
 --- page 6 ---
 2M
 1M
@@ -904,6 +1022,27 @@ CO-2;BL-2   Q7   Fire point and flash point definition-1M each significance of F
 (d)   and flash point 1M each. Not suitable for lubricant as it will catch fire
 easily-1M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Step 2: Percentage of Hydrogen
+
+Water formed = 0.32 g
+18 ¢ H2O contains 2 g H
+
+Hydrogen in 0.32 g HzO
+
+2
+A= — x 0.382
+18
+i — 008
+18
+H = 0.0356 g
+Percentage of hydrogen
+0.0356
+
+%H = x 100
+
+%H = 4.45%
 --- page 7 ---
 FIC 7 IC OHH
 ````
@@ -945,6 +1084,28 @@ CO-3 ;BL-3   (c)   [4M]
 significance of moisture content-tells about quality 1M
 Comment - current sample is usable as limit of moisture is 7% 1M
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Given
+
+¢ Initial weight of coal = 3.5 g
+e Final weight after heating = 3.325 g
+
+Weight loss (moisture removed)
+3.5 — 3.325 — 0.175 g
+
+Moisture content (%)
+
+Moisture % — Weight loss
+
+0.175
+3.5
+
+= 5%
+
+x 100
+
+Initial weight
 --- page 2 ---
 CO-4; BL-1   (d)   disadvantages of hard water if used for domestic purposes any 4 -1M [4M]
 each
@@ -996,6 +1157,38 @@ unknown water sample.
 1M
 1M
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Concentration of Standard Hard Water
+
+1 mg CaCO; per L = 1 ppm hardness
+
+0.599 = 590mg
+
+590
+
+Hardness of SHW = 500
+
+= 1.18 mg/mL
+Hardness in 50 mL SHW
+1.18 x 50 = 59 mg CaCOs
+Thus,
+
+40 mL EDTA = 59 mg CaCO;
+
+Step 3: Total Hardness
+EDTA used = 25 mL
+
+25 x 1.475 = 36.875 mg CaCOs in 50 mL
+
+Convert to ppm
+
+36.875 x 1000
+50
+
+= 737.5 ppm
+
+Total hardness = 737.5 ppm
 --- page 4 ---
 Step 4: Permanent Hardness
 
@@ -1060,6 +1253,40 @@ CO-3;BL-3   Q5   [5M]
 (c)
 2M
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+NCV = GCV — (0.09 x H x L)
+
+NCV = 7399.54 — (0.09 = 0.6 x 587)
+NCV = 7399.54 — (0.054 x 587)
+NCV = 7399.54 — 31.698
+
+NCV = 7367.84 kcal/kg
+
+Step 1: Percentage of Carbon
+
+CO, formed = 2.64 g
+
+Fram reaction:
+44 ¢ CO: contains 12 gC
+
+Carbon in 2.64 g COz:
+
+12
+C= = x 2.64
+ma.
+
+31.68
+Cc _
+44
+
+C-0.72¢
+
+Percentage of carbon
+
+0.72
+
+%C = 90%
 --- page 6 ---
 2M
 1M
@@ -1083,6 +1310,27 @@ CO-2;BL-2   Q7   Fire point and flash point definition-1M each significance of F
 (d)   and flash point 1M each. Not suitable for lubricant as it will catch fire
 easily-1M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Step 2: Percentage of Hydrogen
+
+Water formed = 0.32 g
+18 ¢ H2O contains 2 g H
+
+Hydrogen in 0.32 g HzO
+
+2
+A= — x 0.382
+18
+i — 008
+18
+H = 0.0356 g
+Percentage of hydrogen
+0.0356
+
+%H = x 100
+
+%H = 4.45%
 --- page 7 ---
 FIC 7 IC OHH
 ````
@@ -1094,6 +1342,7 @@ FIC 7 IC OHH
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_Civil_7005/Chemistry/ANS_Chemistry(702BS0C068)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Feb 2026
 - Text: text (17 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1131,6 +1380,25 @@ CO-   (b)   Solve to calculate the HCV and LCV of a coal sample having the follo
 BL-3   HCV = 1/100 [8080 C + 34500 (H – O/8) + 2240 S] 1M
 HCV= 8993.7 kcal/kg 1M
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Eg- Nylon-6,6 (hexamethyl
+°
+
+i Il
+HO—C——}—C—OH + H,N—1—}—NH>
+a dicarboxylic acid a diamine
+
+t gi i
+bo boi]
+n
+a polyamide
+* Eg PET (polyethylene terephthalate)
+g g ? e
+Ho-C{_)-C-OH + H-O-CHy-CHy,-OH —> Ho-¢ (-0-CH-CHy-OH+ H,0
+‘Terephthalic acid Ethylene glycol Water
+* The linkage is a polyester linkage
+° Note: the acid and the alcohol groups are still available for bonding
 --- page 2 ---
 LCV = HCV – (9H/100 x 587) 1M
 LCV= 8623.87 kcal/kg 1M
@@ -1253,6 +1521,46 @@ reduced to 2.90 gm. It was then burnt in a furnace at 750°C for half an hour. T
 residue weighed 0.30 gm. Report the proximate analysis results.
 Solution:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Tacticity: Orientation of side groups on the monomeric
+units in polymer takes place in orderly/disorderly fashion w.r.t
+main chain. The difference in configuration affects their
+physical properties
+
+Isotactic:
+
+Functional groups are all on the same side of the main
+
+chain, FG= Y
+
+molecules pack best with other molecules of the same shape
+
+H H H
+
+| ¥ | y | ¥
+
+Cc Cc Cc
+
+PN b-9Nb- EN b-
+
+H | H | H |
+FT [7 FT
+
+Syndiotactic: Functional groups occupy alternating position
+Nice arrangement to make crystal pack
+H ¥ H
+H | H | H | 4H
+~b-G~b-prd-ft le
+ylila2ai#ist=syéii
+H H H
+
+Atactic: Functional groups arranged in random manner
+No regular array to make a nice crystal
+y |lutluail
+H H H
+For example, atactic polypropylene is a gummy solid, while
+isotactic version is highly crystalline & tough. a
 --- page 5 ---
 (i) To find % Moisture,
 Weight of coal (air dried) = 3.0 g
@@ -1414,6 +1722,40 @@ and nickel percentages are 18 and 8 respectively.
 carbon percentage is 0.15.
 Non-ferrous alloys 2.5M
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+* Initiation: Free radicals formed from H,O, through
+the addition of heat
+
+heat a free electron
+H—O—O—H ~~» 2H—O
+hydrogen peroxide free radicals
+Free radical acts to open the C=C double bond by joining to one
+side of the monomer.
+
+This allows the monomers to react with other open monomers on
+their other side.
+
+free electron ; ase free electron
+Aue “t | i,
+
+Lal free radical
+
+Propagation: Process continues with successive addition of
+
+monomer units to the chains
+
+Lo Lt joel
+H—O— t's pe O—C-C—C-C’
+It ot
+
+Hn HH HH
+
+Termination: Through a combination of two chains
+
+HH HH HH| [HH
+rotbdiHottd| Ho - io O-H
+te TALL AL
 --- page 9 ---
 ✓ Non-ferrous metals- Metals containing elements other than iron as their
 chief constituents are usually referred to as non-ferrous metals. Ex.
@@ -1666,6 +2008,26 @@ CO-   Q6   Explain Regeneration of Cation & Anion exchange resin with reactions.
 SO-1;   of water is stopped. The exhausted cation exchanger i.e. regenerated by
 BL-2   passing dilute HCl or H2SO4.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+(ii) N-doping: treating an ICP with a lewis base, thereby reduction
+process takes place and negative charge created on polymer
+backbone
+
+Polymer + Lewis Base n - Doped polymer (reductive coupling)
+
+(CH), + Na —= Na (CH), +
+
+
+Examples:
+
+* Industrially conducting polymers are: Polyquinoline,
+
+polythiophene, polybutadienylene, polyacetylenes
+
+¢ Used in making button cells, photovoltaic devices, sensors,
+
+biomedical devices. 33
 --- page 15 ---
 • RCa or RMg + 2HCl → 2RH + CaCl2 or MgCl2
 • The exchange bed is washed with de-ionized water & washings( contained
@@ -1836,6 +2198,27 @@ CO-5 BL-2   (b)   Any four applications of nanomaterials –any 4-1M each   [4]
 CO-3 ;BL-3   (c)   [4]
 2.5M
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+14x NxV x 100
+
+g —
+70N W x 1000
+
+14 x 0.5 x (45 — 20.5) x 100
+4 x 1000
+14 x 0.5 x 24.5 x 100
+4000
+17150
+
+G —
+0N = 4000
+
+%N = 4.29%
+
+%N =
+
+%N =
 --- page 2 ---
 1.5M
 CO-4; BL-1   (d)   Any four disadvantage 1M each   [4]
@@ -1859,6 +2242,34 @@ CO-1; BL-2   Q3 (a)   Autonomic and non-autonomic healing polymer-2M each. appli
 self-healing polymer –ant two 0.5M each
 CO-2; BL-3   Q3(b)   Define acid value. -1M each   [5]
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+HCV = 8080C + 34500(H — <) + 22405]
+
+T00!
+
+1 1
+[CV = =, [8080(87) + 34500(H — =) + 2240(5)]
+1
+'CV = 75 (702960 + 34500(H — 0.125) + 11200)
+1
+HCV = = [714160 + 34500H — 4312.5]
+
+1
+ACV = Too | (709847.5 + 34500H]|
+
+HCV = 7098.475 + 345
+
+24156 = (7098.475 + 345H) — 52.83
+24156 = 7098.475 + 292.17H
+24156 — 7098.475 = 292.17H
+
+17057.525 = 292.17H
+
+_ 17057.525
+292.17
+
+A = 58.38
 --- page 4 ---
 3M
 For lubricating oils, acid value should be very low, because high acidity
@@ -1878,6 +2289,22 @@ CO-4; BL-3   Q3 (d)   [5]
 1M
 1M
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+0.4 x 0.02 x 56.1
+20
+
+Acid Value =
+
+0.4 x 0.02 = 0.008
+
+0.008 x 56.1 = 0.4488
+
+0.4488
+Acid Value = ———
+cl alue 0
+
+Acid Value = 0.02244
 --- page 5 ---
 Total Hardness:
 1M
@@ -1900,6 +2327,43 @@ any two methods of metal protection-2M.
 CO-4; BL-2   Q5 (b)   Principle-1M, discussion of process-2M, diagram-1M, advantage and   [5]
 disadvantage-0.5M each
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+(W + w)AT — (acid correction + fuse correction)
+m
+
+GCV =
+
+(2500 + 550) (3.238) — (52.6 + 2.6)
+1.319
+
+3050 x 3.238 — 55.2
+1.319
+
+9875.9 — 55.2
+1.319
+9820.7
+1.319
+
+GCV = 7445.6 cal/g
+
+GCV =
+
+GCV =
+
+GCV =
+
+GCV =
+
+GCV = 7445.6 kcal/kg
+
+NCV = GCV — (0.09 x H x L)
+
+NCV = 7445.6 — (0.09 x 0.6 x 587)
+NCV = 7445.6 — (0.054 x 587)
+NCV = 7445.6 — 31.698
+
+NCV = 7413.9 kcal/kg
 --- page 7 ---
 CO-3;BL-3   Q5 (c)   [5]
 2M
@@ -1961,6 +2425,27 @@ CO-5 BL-2   (b)   Any four applications of nanomaterials –any 4-1M each   [4]
 CO-3 ;BL-3   (c)   [4]
 2.5M
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+14x NxV x 100
+
+g —
+70N W x 1000
+
+14 x 0.5 x (45 — 20.5) x 100
+4 x 1000
+14 x 0.5 x 24.5 x 100
+4000
+17150
+
+G —
+0N = 4000
+
+%N = 4.29%
+
+%N =
+
+%N =
 --- page 2 ---
 1.5M
 CO-4; BL-1   (d)   Any four disadvantage 1M each   [4]
@@ -1984,6 +2469,34 @@ CO-1; BL-2   Q3 (a)   Autonomic and non-autonomic healing polymer-2M each. appli
 self-healing polymer –ant two 0.5M each
 CO-2; BL-3   Q3(b)   Define acid value. -1M each   [5]
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+HCV = 8080C + 34500(H — <) + 22405]
+
+T00!
+
+1 1
+[CV = =, [8080(87) + 34500(H — =) + 2240(5)]
+1
+'CV = 75 (702960 + 34500(H — 0.125) + 11200)
+1
+HCV = = [714160 + 34500H — 4312.5]
+
+1
+ACV = Too | (709847.5 + 34500H]|
+
+HCV = 7098.475 + 345
+
+24156 = (7098.475 + 345H) — 52.83
+24156 = 7098.475 + 292.17H
+24156 — 7098.475 = 292.17H
+
+17057.525 = 292.17H
+
+_ 17057.525
+292.17
+
+A = 58.38
 --- page 4 ---
 3M
 For lubricating oils, acid value should be very low, because high acidity
@@ -2003,6 +2516,22 @@ CO-4; BL-3   Q3 (d)   [5]
 1M
 1M
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+0.4 x 0.02 x 56.1
+20
+
+Acid Value =
+
+0.4 x 0.02 = 0.008
+
+0.008 x 56.1 = 0.4488
+
+0.4488
+Acid Value = ———
+cl alue 0
+
+Acid Value = 0.02244
 --- page 5 ---
 Total Hardness:
 1M
@@ -2025,6 +2554,43 @@ any two methods of metal protection-2M.
 CO-4; BL-2   Q5 (b)   Principle-1M, discussion of process-2M, diagram-1M, advantage and   [5]
 disadvantage-0.5M each
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+(W + w)AT — (acid correction + fuse correction)
+m
+
+GCV =
+
+(2500 + 550) (3.238) — (52.6 + 2.6)
+1.319
+
+3050 x 3.238 — 55.2
+1.319
+
+9875.9 — 55.2
+1.319
+9820.7
+1.319
+
+GCV = 7445.6 cal/g
+
+GCV =
+
+GCV =
+
+GCV =
+
+GCV =
+
+GCV = 7445.6 kcal/kg
+
+NCV = GCV — (0.09 x H x L)
+
+NCV = 7445.6 — (0.09 x 0.6 x 587)
+NCV = 7445.6 — (0.054 x 587)
+NCV = 7445.6 — 31.698
+
+NCV = 7413.9 kcal/kg
 --- page 7 ---
 CO-3;BL-3   Q5 (c)   [5]
 2M

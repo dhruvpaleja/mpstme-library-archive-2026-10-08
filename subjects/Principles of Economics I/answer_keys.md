@@ -667,6 +667,19 @@ The Law of Variable Proportions states that as more units of a variable input
 (labor) are added to a fixed input (capital), the total product follows three distinct
 stages: Increasing Returns, Diminishing Returns, and Negative Returns.
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+Labor (Units) Total Product (TP) Marginal Product (MP)
+
+1 10 10
+
+2 25 25-10 =15
+3 45 45-25=20
+4 60 60-45 =15
+5 70 70 - 60 =10
+6 75 75-70=5
+
+7 72 72-75 =-3
 --- page 18 ---
 Stage 1: Increasing Returns to Labor (1 to 3 units of labor)
 • TP increases at an increasing rate (from 10 to 45).
@@ -794,6 +807,42 @@ Example:
 A car manufacturer (e.g., Toyota) reduces costs per car by using automated
 production lines, bulk-buying steel, and efficient logistics.
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+Total Cost (TC): The sum of Total Fixed Cost (TFC) and Total Variable Cost (TVC).
+
+TC =TFC+TVC
+
+Average Cost (AC): Cost per unit of output.
+
+AC = TC
+
+Q
+
+Average Fixed Cost (AFC): Fixed cost per unit of output.
+TFC
+AFC = ——
+
+Q
+
+Average Variable Cost (AVC): Variable cost per unit of output.
+
+ava — LYE
+
+1. When MC < AC:
+© ACis falling because the cost of producing one more unit is lower than the current average.
+e Example: At Q = 2, AC = 90 and MC = 30 (MC is lower, so AC decreases).
+2. When MC = AC:
+¢ ACis at its minimum. This is the point where the firm is most efficient.
+¢ Example: Around Q = 4, MC = 30 and AC is close to its lowest value.
+3. When MC > AC:
+
+¢ ACstarts rising because the cost of producing additional units is higher than the current
+
+average.
+
+¢ Example: If output increases further, MC may rise, pushing AC up.
+v
 --- page 22 ---
 Solution
 10 points-10 marks
@@ -1360,6 +1409,17 @@ productivity.
 3. Explanation for the Decline in Marginal Product (MP)
 MP declines after a certain point due to:
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Labor (Units) Total Product (TP) Marginal Product (MP)
+
+1 10 -
+
+2 24 14 (24 - 10)
+3 39 15 (39 - 24)
+4 48 9 (48 - 39)
+
+5 50 2 (50 - 48)
 --- page 7 ---
 • Fixed Factor Constraint: Capital or land remains constant, limiting production
 efficiency.
@@ -1416,6 +1476,22 @@ banks → Reduced money supply → Inflation decreases.
 o Decrease in Repo Rate → Cheaper loans → More spending → Inflation
 increases.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Fixed Total Average Average
+
+Output Cost Variable Cost Average Fixed Cost Variable Cost
+(Q) (FC) Cost (VC) (TC) Cost (AC) (AFC) (AVC)
+
+0 150 0 150 - - -
+
+1 150 70 220 220.00 150.00 70.00
+
+2 150 130 280 140.00 75.00 65.00
+
+3 150 180 330 110.00 50.00 60.00
+
+4 150 220 370 92.50 37.50 55.00
 --- page 9 ---
 • Example: RBI raised the repo rate in 2022 to curb rising inflation.
 b) Reverse Repo Rate

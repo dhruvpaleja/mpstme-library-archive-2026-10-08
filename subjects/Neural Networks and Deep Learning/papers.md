@@ -1,6 +1,6 @@
 # Neural Networks and Deep Learning: question papers in full
 
-16 unique papers · 2018-19 to 2025-26 · Data Science, Computer Engineering, Common (all branches)
+17 unique papers · 2018-19 to 2025-26 · Data Science, Computer Engineering, Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -582,6 +582,91 @@ Modify the model to include Batch Normalization and Dropout (with a dropout | [5
 | rate of 0:3); Retrain and-compare-the-results-with-the-previous-medel—- ——--—_-
 --- page 4 ---
 
+````
+
+## 2024-25 · Re-Exam · Sem 7 · paper df2728fe605c
+
+- Departments: Data Science
+- Programmes: B TECH / DATA SCIENCE
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: DATA SCIENCE/SEM-VII/NEURAL NETOWORK AND DEEP LEANING/Neural_Networks_and_Deep_Learning__Sem-VII__Batch_2024-25__Re_Exam_T14e5mQotX.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 88.1
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+
+Program/s: B Tech {MBA Tech Year: 1V Semester: VII
+Stream/s : Data Science
+
+Subject: Neural Networks and Deep Learning Time: 3 hrs (tosopamto 4200 pra)
+Date:_20 / 2 /202¢- No. of Pages: 2
+Marks: 100
+
+Saas Re-Examination (24-25)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 __ questions.
+
+3) In all__5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer te each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql :
+Answer briefly: [20]
+
+CO-1;
+
+SO-1; Derive and explain a forward and backward pass in neural networks [20]
+BL-1
+
+Q2
+
+CO-2; Explain how 4 classic architectures in CNNs ; [20]
+SO-2; :
+
+BL-2
+Q3
+CO-1; :
+SO-1; BL- in neural network architectures
+1
+
+Q4
+
+CO-4;
+SO-4;
+BL-4
+
+Define popularly used activation functions and explain the role they play 120]
+
+Explain Variational Auto Encoders [20]
+
+Q5 Define the architecture for an LSTM Model [20]
+--- page 2 ---
+CO-3;
+SO-3;
+BL-3
+
+Q6
+
+a Explain the image segmentation model : [20]
+BL-3
+
+Q7 Explain the self - attention Mechanism and the transformer encoder
+
+oF decoder model with architecture as defined in the paper Attention is All [20]
+BL-: 4 You Need
 ````
 
 ## 2024-25 · Re-Exam · Sem 10 · paper 320f08fe3c21

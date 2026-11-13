@@ -1254,6 +1254,27 @@ An attacker may inject a simple template expression:
 If the template engine evaluates expressions, the output displayed on
 the page will be:
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+BSIMM Framework
+
+ES fe) </> @
+
+Governance Deployment
+
+Strategy & Penetration
+
+Metrics (SM) Testing (PT)
+
+Compliance & Software
+
+Policy (CP) Environment (SE)
+Configuration
+
+Training (T) Management &
+Vulnerability
+
+Management
 --- page 18 ---
 49
 This confirms that the server is processing template expressions.

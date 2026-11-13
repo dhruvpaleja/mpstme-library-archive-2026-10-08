@@ -93,6 +93,44 @@ distributes it to one of several output lines based on the values of the select 
 data distributor, performing the reverse operation of a multiplexer. (1 mark)
 1:4 Demultiplexer (Explanation of 1:4 DEMUX concept - 1 mark)
 Page 3 of 8
+
+[Text in pictures on this page, read by OCR]
+(A) Convert (11010)2 to Gray Code
+Rules:
+1. The MSB of Gray code = MSB of binary.
+2. Each next Gray bit = XOR of current binary bit with previous binary bit.
+Binary: 11010
+Steps:
+e MSB same — 1
+« 1@1=0
+e 1@0=1
+e 0@1=1
+e 1@0=1
+
+Gray Code = 10111
+
+(B) Convert (010011) Gray Code to Binary
+Rules:
+
+1. The MSB of binary = MSB of Gray code.
+
+2. Each next binary bit = Previous binary bit ® current Gray bit.
+Gray:010011
+Steps:
+
+e MSB same — 0
+
+e O@G1=1
+
+e« 1@0=1
+
+« 1@0=1
+
+« 1@1=0
+
+e 0@1=1
+
+Binary = 011101
 --- page 4 ---
 1:4 DEMUX routes a single data input to one of four outputs depending on the select line
 values.
@@ -270,6 +308,23 @@ Examples: Parity code, Checksum
 Used to detect and correct errors.
 Examples: Hamming code
 Page 2 of 9
+
+[Text in pictures on this page, read by OCR]
+1. 8's Complement
+
+a) 352
+7's complement > 425,
+Add 1 — 4263
+
+b) 7042
+7's complement > 0735¢
+Add 1 — 0736.
+
+2. Octal Addition
+A73s + 256s — 751s
+
+3. Octal Subtraction
+7T03g-145s = 536,
 --- page 3 ---
 2.
 
@@ -320,6 +375,26 @@ Inputs and Outputs
 Inputs: B3 B2 B1 B0 (BCD input bits)
 Outputs: D0 – D9 (decimal outputs) Only one output is active at a time.
 Page 4 of 9
+
+[Text in pictures on this page, read by OCR]
+2) Convert (101010). into Excess-3 Code
+
+Step 1: Binary — Decimal
+(101010); = 42
+
+Step 2: Decimal — BCD
+4—0100
+2 > 0010
+
+BCD = 0100 0010
+
+Step 3: Add 3 (0011) to each BCD digit
+
+BCD Digit + 0011 Excess-3
+0100 +0011 0111
+0010 +0011 0101
+
+Excess-3 Code = 01110101
 --- page 5 ---
 (Diagram 1 mark)
 Logical Expressions (1 mark)

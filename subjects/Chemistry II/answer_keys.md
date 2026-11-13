@@ -255,6 +255,21 @@ Q 4.   a. Each correct structure---1 M each
 CO-3; SO-1;
 BL-1
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+‘The iso electronic species are those which have the same number of electrons
+Size of isoelectronic cationic species decreases with increase in atomic number
+
+‘As atomic number increases the nuclear charge increases and the nuclear charge acts on same number of electronsin
+species and therefore size decreases
+
+‘Anions with greater negative charge will have larger ionic radius, in this case net repulsion of electrons will out weigh
+‘nuclear charge and ion size will increase.
+
+O>F
+
+‘Among isoelectronic cation and anion , Anions with High charges will have higher radius
+(02> F> Nat >Mg?*
 --- page 3 ---
 CO-3; SO-1;   b.
 BL-4
@@ -388,6 +403,21 @@ Q 4.   a. Each correct structure---1 M each
 CO-3; SO-1;
 BL-1
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+‘The iso electronic species are those which have the same number of electrons
+Size of isoelectronic cationic species decreases with increase in atomic number
+
+‘As atomic number increases the nuclear charge increases and the nuclear charge acts on same number of electronsin
+species and therefore size decreases
+
+‘Anions with greater negative charge will have larger ionic radius, in this case net repulsion of electrons will out weigh
+‘nuclear charge and ion size will increase.
+
+O>F
+
+‘Among isoelectronic cation and anion , Anions with High charges will have higher radius
+(02> F> Nat >Mg?*
 --- page 3 ---
 CO-3; SO-1;   b.
 BL-4

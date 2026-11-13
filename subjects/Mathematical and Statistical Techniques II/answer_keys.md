@@ -30,6 +30,17 @@ Instructions:
 A.   5
 B.   5
 Page 1 of 5
+
+[Text in pictures on this page, read by OCR]
+Solution: For child Arpan: P, = x,N, = 30 — 28 = 2,R = 12% Ll m1)
+For child B: P, = 3,31,250 — x, Nz = 30 — 27 = 3,R = 12%
+A, = A> Lim]
+P,(1 +i): = P,(1+ i)’
+x(1 + 0.12)? = (3,31,250 — x)(1 + 0.12)
+2.659328x = 4,65,382.4
+x = 1,75,000 fam)
+Therefore, the amount invested for Arpan for 2 years is 71,75,000 and the amount
+invested for Bharat for 3 years is (3,31,250-1,75,000) = 1,56,250. Ll M)
 --- page 2 ---
 i)
 
@@ -232,6 +243,17 @@ Instructions:
 A.   5
 B.   5
 Page 1 of 5
+
+[Text in pictures on this page, read by OCR]
+Solution: For child Arpan: P, = x,N, = 30 — 28 = 2,R = 12% Ll m1)
+For child B: P, = 3,31,250 — x, Nz = 30 — 27 = 3,R = 12%
+A, = A> Lim]
+P,(1 +i): = P,(1+ i)’
+x(1 + 0.12)? = (3,31,250 — x)(1 + 0.12)
+2.659328x = 4,65,382.4
+x = 1,75,000 fam)
+Therefore, the amount invested for Arpan for 2 years is 71,75,000 and the amount
+invested for Bharat for 3 years is (3,31,250-1,75,000) = 1,56,250. Ll M)
 --- page 2 ---
 i)
 
@@ -434,6 +456,17 @@ Instructions:
 A.   5
 B.   5
 Page 1 of 5
+
+[Text in pictures on this page, read by OCR]
+Solution: For child Arpan: P, = x,N, = 30 — 28 = 2,R = 12% Ll m1)
+For child B: P, = 3,31,250 — x, Nz = 30 — 27 = 3,R = 12%
+A, = A> Lim]
+P,(1 +i): = P,(1+ i)’
+x(1 + 0.12)? = (3,31,250 — x)(1 + 0.12)
+2.659328x = 4,65,382.4
+x = 1,75,000 fam)
+Therefore, the amount invested for Arpan for 2 years is 71,75,000 and the amount
+invested for Bharat for 3 years is (3,31,250-1,75,000) = 1,56,250. Ll M)
 --- page 2 ---
 i)
 
@@ -636,6 +669,17 @@ Instructions:
 A.   5
 B.   5
 Page 1 of 5
+
+[Text in pictures on this page, read by OCR]
+Solution: For child Arpan: P, = x,N, = 30 — 28 = 2,R = 12% Ll m1)
+For child B: P, = 3,31,250 — x, Nz = 30 — 27 = 3,R = 12%
+A, = A> Lim]
+P,(1 +i): = P,(1+ i)’
+x(1 + 0.12)? = (3,31,250 — x)(1 + 0.12)
+2.659328x = 4,65,382.4
+x = 1,75,000 fam)
+Therefore, the amount invested for Arpan for 2 years is 71,75,000 and the amount
+invested for Bharat for 3 years is (3,31,250-1,75,000) = 1,56,250. Ll M)
 --- page 2 ---
 i)
 
@@ -838,6 +882,17 @@ Instructions:
 A.   5
 B.   5
 Page 1 of 5
+
+[Text in pictures on this page, read by OCR]
+Solution: For child Arpan: P, = x,N, = 30 — 28 = 2,R = 12% Ll m1)
+For child B: P, = 3,31,250 — x, Nz = 30 — 27 = 3,R = 12%
+A, = A> Lim]
+P,(1 +i): = P,(1+ i)’
+x(1 + 0.12)? = (3,31,250 — x)(1 + 0.12)
+2.659328x = 4,65,382.4
+x = 1,75,000 fam)
+Therefore, the amount invested for Arpan for 2 years is 71,75,000 and the amount
+invested for Bharat for 3 years is (3,31,250-1,75,000) = 1,56,250. Ll M)
 --- page 2 ---
 i)
 
@@ -1040,6 +1095,17 @@ Instructions:
 A.   5
 B.   5
 Page 1 of 5
+
+[Text in pictures on this page, read by OCR]
+Solution: For child Arpan: P, = x,N, = 30 — 28 = 2,R = 12% Ll m1)
+For child B: P, = 3,31,250 — x, Nz = 30 — 27 = 3,R = 12%
+A, = A> Lim]
+P,(1 +i): = P,(1+ i)’
+x(1 + 0.12)? = (3,31,250 — x)(1 + 0.12)
+2.659328x = 4,65,382.4
+x = 1,75,000 fam)
+Therefore, the amount invested for Arpan for 2 years is 71,75,000 and the amount
+invested for Bharat for 3 years is (3,31,250-1,75,000) = 1,56,250. Ll M)
 --- page 2 ---
 i)
 

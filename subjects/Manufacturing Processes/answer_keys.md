@@ -591,6 +591,28 @@ CO-2;
 (b) Essential Process Steps (2 Marks)   [05]
 SO-1;
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+=a ok
+
+~ Jomparison between A.C. and D.C. Arc Welding
+The Comparison between A.C. and D.C. arc Welding is given below :
+
+S. No. Aspects AC. Welding D.C. Welding
+1. Power consumption Low High
+2. Are stability Are unstable Are stable
+a. Cost Less More
+4. Weight Light Heavy
+5. Efficiency High Low
+6. Operation Noiseless Noisy
+7. Suitability Non-ferrous metals cannot Suitable for both ferrous and
+be joined non-ferrous metals
+8. Electrode used Only coated Bare electrodes are also used
+9. Welding of thin sections Not preferred Preferred
+10. | Miscellaneous Work can act as cathode Electrode is always negative
+
+while electrode acts as anode and the work is positive.
+and tice versa.
 --- page 10 ---
 BL-3   The process is highly efficient and involves three critical stages:
 1. Die Preparation: Machining and precise alignment of the corresponding male (punch) and female
@@ -741,6 +763,25 @@ SO-1;   (b)   [10]
 BL-1   surfaces, edges, and the standard angles in relation to the shank.
 • Required Labels: Shank, Face, Flank (Side and End), Nose, Nose Radius.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+WELDING PROCESSES
+
+Plastic / Pressure Fusion / Non-Pressure Solid-State
+Welding Welding Welding
+/ Forge Welding / Gas Welding | Friction Welding
+| Resistance Welding F arc Welding | Ultrasonic Welding
+
+| | L explosion Welding
+
+Special / Advanced Welding
+
+} Thermo-Chemical Welding
+| (Thermit Welding)
+
+L Radiation / Energy Beam Welding
+
+(Laser Beam, Electron Beam)
 --- page 3 ---
 • Required Angles: Rake Angle (α), Clearance Angle (γ).
 Description of Main Elements and Angles (5 Marks)
@@ -812,6 +853,55 @@ than 1:1.
 •   Chemistry: The excess oxygen readily combines with the molten base metal, causing oxidation and
 burning (detrimental to steel).
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Process Advantages Limitations
+
+L Turning (i) Most versatile machine capable of pro- (i) Low production rate.
+ducing external and internal circular (it) Requires skilled labour.
+profiles and flat surfaces. (ii) Close tolerances and fine finish
+(it) All types of materials can be turned. cannot be achieved.
+
+(iii) Low tooling east.
+(iv) Large components can be turned.
+
+2. Drilling (£) Most suitable for producing round holes (i) Basically a rough machining opera-
+of various sizes. tion.
+(it) Inexpensive tooling and equipment. (it) Requires semi-skilled labour.
+(iit) High production rate.
+(iv) Machine can be used for reaming and
+tapping.
+3. Boring (f) Variety of internal circular profiles can (i) Low production rate.
+be obtained. (ii) Requires skilled labour.
+(tt) All types of materials can be bored. (ii) Suitable for internal profiles only.
+(iif) Low tooling cost. (iv) Stiffness of boring bar is an impor-
+(iv) Large components can be bored. tant consideration.
+
+(wv) Provides better dimensional control and
+surface finish.
+
+4. Milling (£) Versatile operation with wide variety (i) Tooling relatively more expensive.
+
+of toolings and attachments. (ii) Requires skilled labour.
+
+(if) Variety of shapes including flats, slots
+and contours can be obtained.
+
+(itt) Suitable for low and medium produc-
+tion rate.
+
+(iv) Better dimensional control and surface
+finish.
+
+5. Shaping (i) Suitable for low production rate. (f) Large size workpiece cannot be
+
+(ii) Suitable for producing flat and contour used.
+profiles on small size workpieces. (it) Requires skilled labour.
+(itt) Low tooling and equipment cost. (iit) Only simple profiles can be ob-
+tained.
+
+(iv) Close tolerance and fine finish ean-
+not be obtained.
 --- page 5 ---
 •   Application: Used for welding certain non-ferrous alloys like Copper and its alloys (Brass/Bronze),
 as the oxidation helps stabilize volatile elements like zinc. It is never used for steel.

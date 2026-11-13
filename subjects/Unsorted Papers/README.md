@@ -14,10 +14,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
-| — | — | Question paper | Sem 6 | B TECH / OPEN ELECTIVE | Open Elective V.pdf [1] |
+| — | — | Syllabus | Sem 6 | B TECH / OPEN ELECTIVE | Open Elective V.pdf [1] |
 
 **Notes on papers placed here from a different folder**
 
-1. no subject in its folder or file name
+1. no subject in its folder or file name; a syllabus filed with the question papers (the same file is in 04_Syllabi_Archive/)
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

@@ -1485,7 +1485,8 @@ i
 - Programmes: B TECH / EXTC
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ANALOG CIRCUITS ANALYSIS AND DESIGN/Analog Circuits Analysis & Design, Sem-IV, Year 2022-23, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 72.1
+- Text: ocr (4 pages), mean OCR confidence 79.5
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 ZS Ut8 OF
@@ -1668,121 +1669,35 @@ KKK KKKEKK
 [4X5=
 20]
 --- page 4 ---
-">
+DATA SHEET
+Pdmax Icmax V.~) y. 4 y, Vv, v, De Smail Signal pri
+(= -C. current — gain ma. igna A y, 0 b
 
-xv
-sPoOYVTr 3
-seee 3383 Lt
+Transistor type @ 25°C @ 25°C vols volts (Sus) (Sus) volts volts T, max 7 * maz. °cIWw osc
 
-gan
-= nyen 1]
-SoU Aas
+Watts Amps dic. ; dc. volts d.c.volis dc. d.c. dic. °c min typ. max. min, typ. max, wre
+2N 3055 USS 15-0 100 60 70 90 7 ~~ 200 20 50 70 15 50 1201.8 1-5 0-7
+ECN 055 50-0 50 10 60 50 55 60 5 200 25 50 100 25 75 125 1-5 35 0-4
+ECN 149 300 40 1-0 50 40. — _ 8 +150 30 50110 33° 60 115 1-2 4.0 03
+ECN 100 5-0 0-7 0-6 70 60 65 - 6 200 50 90 280 50 90 280 0-9. 35 0-0;
+BCIATA 0-25 0-1 0-25 50 45 50 - 6 1250115 180-220 | 125 220 260 0.9 = =
+-2N, 525(PNP_) 0-225 0-5 0-25 85 ao _ _ 100. 35 - 65 _ 45 = — - -
+BC147B 0-25 . OL 0.25 50 45 50 - 6 125, 200 . 290 «450 ~~. 240 330 $000.9 _ =
+Transistor type hie hoe hre 6ja : .
+peak 27KQ iso 15 x10+ 0-4°C/mw BFW _1—JFET MUTUAL CHARACTERISTICS _ .
+2N 52S (PNP) 14KQ0 25p'u 3-2 x 10+ — —_=Vas volts |.0-0|-02 | 04] 06] 08| 10] 12]16] 20] 26 2-5.| 3-0 | 3-5 | 4.0
+BC 1478. 45KQ 30 v 2x 10% 0-4°Chmw “ins max. mA 1401-90] 83 7-6 | 68 | 61 | 54 | 42 [.31| 22] 20] 11105100
+pd re a. = —_ — lesop ma 170] 60] s4[ 46 [ aot 33 [27 [a7] 08] 02] 00] 00 | 001 00
+ECN 055 1002 — — — bsminmA | 40{ 30[ 22] 1-6[ 10] 051 00 0-0 | 00} 00} 00] 0-0 | 0-0 | 00
+2N 3055 23a — — =
+N-Channel_JFET — - ;
 
-ONAAHR 1g
-aA Add
+Vy, max. Vg mar. Vo, max, P, max, T, max, - Ines &: ~V, Volts on Derate 6.
+Type, Volts Vols: Volts =~ @25°C (iypical) _above 25°C
+2N3822 _ 50 50 . 50 300 mW 175°C 2mA . 3000 n'U 6 50 KQ 2mWPO 0-59°C/mW
+> — ~ 5600 . : — 9° C/mW
 
--|{|R8z8g 8
-
-= xR lonsoonse
-el alA~Anwvaara
-a “~~ a taal
-Sis :
-gl AaRaagls
-= { e 8g
-3 esas
-S| 2/8822
-3 ~}/oooo
-5 SIBSARLBIS
-g|5 =a
-U1E lonoconn
-5 E aannan
-3 e Q
-ip |BRR888
-w
-Jas minwooe|o
-=
-hes o
-> ou asllilil
-sz exisele
-Sas }[anltontin
-ES
-3
-eou :
-sid n | SALSSLAS||
-2s >
-gi eoono
-> 2s 8 nmr non
-NJ
-iy
-U5 *
-os¥ /Zeesaas
->? “"835a
-1S)
-goez eorshne
-EQE BAtSSos 8
-Sex {Pe
-2s ”
-QS asses 333
-2g Aaa »
-2
-y _ 8
-& a (8
-§ wogede lls
-Ral z
-: Baagece 4
-=
-BSSxSilelg
-RK 8888s BR
-
-414
-
-Tlaldalé
-
-=) Fla ete
-3/7 | 8) 3/8
-=| 2%
-Ball
-zg
-
-2RE| | ||
-
-xx xX
-yan
-as
-
-ppp.
-
-as
-on
-aN
-
-aaa
-ag Se de
-oT
-a--
-
-=
-
-ag.
-x58
-gz
-
-=
-SA8
-
-aqaaac
-gg8
-
-an
-2233
-
-zS8a)
-
-o
-
-_
-
-=
+BFW 11 (typical) 30 30 30 300 mW . 200°C 7mA Lo 25 50 KQ 0-59° C/m
 ````
 
 ## 2022-23 · Re-Exam · Sem 4 · paper 0278e668c758
@@ -1912,7 +1827,9 @@ BFW 11 (typical) 30° 30 30 300 mW 200°C" 7TmA 5600 pa 25 50 KQ — 059° C/mW
 - Programmes: B TECH / EXTC, MBA TECH / TELECOM EXTC
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/EXTC/SEM IV/ANALOG CIRCUITS ANALYSIS AND DESIGN/Analog circuits Analysis and Design,Sem4,Final,2021-22.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 20 April 2022
-- Text: ocr (3 pages), mean OCR confidence 68.2
+- Text: ocr (3 pages), mean OCR confidence 81.2
+- 1 page scanned sideways or upside down, turned upright before OCR
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 4
@@ -2037,121 +1954,43 @@ BL-6
 
 Page 2 of 3
 --- page 3 ---
-{S/S 15 &
-&
+DATA SHEET
 
-So
+Derate
 
-sb
+a C30 .C. current gain Small Signal h y, 0 be
+Transisior type @ 25°C @25°C vols volts (Sus) (Sas) vhs vollz_‘T, max et mas. ecw 250
+- Wats Amps d.c. _ dc. volts d.c.volis dc. dc. dc. °c min typ. = max.—s min. ~—styp..—s max. wee
 
-e
+2N 3055. 115-5 15-0 1-1 100 60 70 90 7 200 20 50 70 phy "50 120 18 ” 1-5 0-7
+ECN 055 50-0 5-0 10 60 50 55 60 5 200 25 50 100 25 75 125 1-5 3-5 0-4
+ECN 149 30-0 40 1:0 50 40. -_ — 8 150 30 sO 110 33 60 115 1-2 40 03
+ECN 100 5-0 0-7 0-6 710 60 65 o 6 200 50 90 280 50 90 280 0-9. 35 0-05
+BCIATA 0-25 O-1 0-25 50 45 50 - 6 125 115 180 220 | 125 220 260 09 _ _
+-2N, S2S(PNP |) 0-225 0S 0-25 85 30 _ — _ 100 35 _ 65 _ 45 _ _- — _
+BC1478 0-25 . 01 0-25 50 45 50 _ 6 125 200 . 290 450 240 330 500 0-9 — _
+Transistor type hie hoe hre Gj ; .
 
-w
-o
+BC 147A 27KQ 10 15x10 04°Cimw BFW _M—VFET MUTUAL CHARACTERISTICS
 
-8
+2N 525 (PNP) 14KQ. 2p 3-2 x 10* —_
+_ BC 1438. 45KQ 300 2x10* 0.4°C/mw
 
-2) 4/9
-813 ay.
-ala] &
-afew
+ECN 100 500 2 - _—_ —
 
-wl|s2
+ECN 49 250 2 — — a
 
-wuls
+ECN 055 1002 _ = —
 
-e eR
-Si 5
+2N 3055 __ 23a — — —
 
-Siac
+N-Channel_JFET ___. —
 
-» “
-Alan =
-3) s
-
-Bons
-RRSS8
-
-=BS
-
-JEBRBRES f|sesueee
-
-~~
-BS lg Ps> esas
-3 =
-
-3 fl
-
-_
-peBEnrn E ese eur
-pPppppy| |/RBasssa
-
-L111 BBE Tlesceted
-
-aqa maw treo
-
-eoo
-
-Onn
-y Pees
-
-bars BRBaAscoe
-
-xxx lt
-
-LT 11323] |eessees]
-
-2 Sle
-LEE assess
-
-ome Pest $l galas
-HHH
-BUS IB | | = 2
-a |B |a|* T r1itiss
-
-TH alaaaun
-jalz|s|e}§
-
-wlelelel [x irs
-S{S/s[Slqo |BSESEEE
-elelele|e |. -
-i] Bassas
-
-wlalsie1 8
-sd Koad al al
-
-q vn -
-zlelele|@ |818sess
-elvlals me
-Sleleys Za885se
-olén livin _
-ba Br
-
-oo
-£)SseRa
-
-ee bal
-oS] a[yl a
-ele|e 8 ;
-glele|s 8e8ssas
-o yy
-Pa a 2, BBEBE
-ale lele sis aRs
-ololoiu
-: : Cone
-e\Slzls Sl SSsae8
-o}e
-SlSiale wo Pee
-[ll aoeaw
-elele|>
-o]o|o/o
-i~)
-a o
-111 eees
-
-tage 3 of 3
-
-as
+Vg max. -Vyq max. Vo, max. P, max. T, max. Toss San ~V, Volis " Derate 6,
+Type. Volts Volts Volts @25°C (typical) above 25°C
+2N3822 50 50 50 300mW =ssa7S*C_— «ss 2 mA 3000 n'y 6 S50KQ 2mWrc 0-59°C/mW
+BFW 11 (typical) 30° 30 30 300mW . = =.200°C" 7mA 5600 HO 25 50 kQ — 059° CimW
+mg
 ````
 
 ## 2021-22 · Re-Exam · Sem 4 · paper 8fbf01e59a95

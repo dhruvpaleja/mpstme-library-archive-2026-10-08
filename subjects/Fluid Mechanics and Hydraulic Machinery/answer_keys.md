@@ -30,6 +30,34 @@ Instructions:
 5. Attempt any four from the remaining
 6. Assume suitable data if necessary
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Qi Answer briefly;
+
+a. Definition simple manometer > 1 mark
+CO-2, BLel Definition differential manometer > 1 me
+Working principle > 1 Marke
+| | Applications 1 mak oe
+Principle statement — 2 erarky
+Buoyant force equation — 1 mal’
+
+Floating body concept — I raak
+
+CO-3, BL-1
+
+G Statement > 1 mark
+CO-4, BL-2 Assumptions > 1 ™owk
+Derivation basis > 1 mow
+Equation > 1 rode
+
+; , d. Type > 1 rank
+CO-5, BL-2 Construction = 2 “arks
+Working > 1 onmk
+
+7 Construction > 1 Mork
+CO-6, BL-1 Working 1 mok
+Slip 1 rank
+Negative slip 1 mank
 --- page 2 ---
 Q2 a. {a) Water
 

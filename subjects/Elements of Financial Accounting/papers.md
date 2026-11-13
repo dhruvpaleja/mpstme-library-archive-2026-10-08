@@ -37,6 +37,18 @@ sample products in the market generating revenue of ₹ 20,000.
 Determine the total cost of the machine that should be recognized as the cost of the asset under
 Ind AS 16.
 Page 1 of 4
+
+[Text in pictures on this page, read by OCR]
+Particulars Amount (%)
+
+List Price of Machine 40,00,000
+Import duty (non-refundable) 1,00,000
+Site preparation cost 25,000
+Delivery charges 2,50,000
+Installation costs 4,00,000
+Pre-production testing expenses 1,20,000
+
+Office overheads 70,000
 --- page 2 ---
 b) A Consultancy Firm, Apex Advisors, entered into a new assignment for its client Zenith
 Ltd., with a total consultancy fee of ₹ 1,00,000. Both companies close their books of accounts
@@ -70,6 +82,16 @@ Prepare:
 (i) Trading and Profit and Loss Account for the year ended 31st March, 2025.
 (ii) Balance Sheet as at 31st March, 2025.
 Page 2 of 4
+
+[Text in pictures on this page, read by OCR]
+Assets and Liabilities As on 1.4.2024 (%) As on 31.3.2025 (2)
+
+Cash in Hand 20,000 20,000
+Sundry Creditors 60,000 1,35,000
+Bank balance 75,000 (Cr.) 1,20,000 (Dr.)
+Sundry Debtors 1,50,000 5,25,000
+
+Stock in Trade 4,20,000 ?
 --- page 3 ---
 3.   From the following Trial Balance and adjustments given below, Prepare Manufacturing   15
 Account, Trading and Profit and Loss Account and Balance Sheet as on 31st March 2025.
@@ -84,9 +106,75 @@ which is fixed at a profit of 25% on cost price. Branch remits all the cash rece
 office and all the expenses are met by head office. Following are the particulars about the
 branch transactions for the year ended 31st March, 2025:
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+Particulars Debit (Rs.) Credit (Rs.)
+
+Salaries 55,000
+
+Freight Inward 13,775
+
+Advertisement 2,000
+
+Rent, Rates and Taxes 12,000
+
+Opening Stocks:
+
+Raw Materials 1,75,000
+
+Work-in-Progress 72,500
+
+Finished Goods 1,62,500
+
+Sales 5,62,500
+Capital 6,00,000
+Creditors 20,975
+General expenses 5,625
+
+Purchase of Raw Materials 1,61,250
+
+Debtors 43,850
+
+Bank Balance 80,250
+
+Bills receivable 16,250
+
+Bills payable 12,650
+Bad Debts 1,250
+
+Machinery 1,12,500
+
+Premises 2,50,000
+
+Furniture 22,500
+
+Wages 13,000
+
+Manufacturing expenses 750
+
+Commission 3,875
+
+Total 12,00,000 12,00,000
 --- page 4 ---
 You are required to prepare Branch Stock Account, Branch Adjustment Account, Branch
 Debtors Account, Branch Expenses Account and Branch Profit and Loss Account in the
 books of Head office under Stock and Debtors Method for the year ended 31st March, 2025.
 Page 4 of 4
+
+[Text in pictures on this page, read by OCR]
+Particulars Rs.
+
+Branch Stock on 1* April, 2024 (Invoice Price) 50,000
+Branch Debtors on 1*t April, 2024 20,000
+Goods sent to branch (Invoice Price) 4,00,000
+Goods returned by branch to Head Office (Invoice Price) 16,000
+Total Sales at Branch 4,40,000
+Cash Sales at Branch 3,30,000
+Cash received from Debtors 90,000
+Goods returned by debtors to branch 4,000
+Actual expenses incurred at branch 23,600
+Discount allowed to Debtors 2,400
+Bad Debts at Branch 6,000
+
+Branch Stock on 31* March, 2025 (Invoice Price) 30,000
 ````

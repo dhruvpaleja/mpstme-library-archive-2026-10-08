@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: BACHELOR OF TECHNOLOGY (MECHATRONICS ENGINEERING) - 7004/Basic Electrical and Electronics Engineering/ANS_Final-Exam_Basic Electrical and Electronics Engineering(702EX0C001)_Semester II_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
 - Text: mixed (6 pages), mean OCR confidence 69.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -115,6 +116,13 @@ A 10 kVA, 3300/240 V, single-phase, 50 Hz transformer has a core area of
 CO-3; SO-1;   300 cm2. The flux density is 1.3 T. Find (i) number of primary turns, (ii) [10]
 BL-3   number of secondary turns, and (iii) primary full-load current.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+—10h + 35Iz—10I3; = 0 (2)
+
+—80 + 1023 + 10(I3 — In) = 0
+
+2013 — 101g = 80 (3)
 --- page 5 ---
 Q7   a.   State and explain Superposition Theorem.
 CO-1; SO-1;   Statement 3 marks   [7]
@@ -130,6 +138,60 @@ BL-1
 [7]
 CO-5; SO-1;   c.   Simplify the following Boolean expression and implement this Boolean [6]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Paz — Brox X A= 1.3 x 0.03 = 0.0389 Wb
+
+Y Step 2: Number of Primary Turns Nj
+Using emf equation:
+Ey = AAAS NP max
+
+3300 — 4.44 x 50 x N; x 0.039
+
+v- 3300
+M1 4.44 x 50 x 0.039
+3300
+N, — = ~ 381 turns
+1 3658 wens
+© Answer (i): V
+
+N, © 381 turns
+
+. 240
+No = 381 x 3300
+
+No © 381 x 0.0727 = 28 turns
+
+> Answer (ii):
+
+¥ Step 4: Primary Full-Load Current J)
+
+S _ 10,000
+Vey 3300
+
+T, ~ 3.034
+
+=
+
+Given:
+
+Step 1: Flux
+
+Vi 220 220
+® naz = oa =
+
+= = 0.00991 Wb
+444fN, 44450100 22200
+
+Step 2: Flux Density
+
+_ 0.00991 _ 6 sgg7
+0.025
+
+Step 3: Secondary emf
+
+By = Vi x $B = 220 x 4 = 8800
+™
 --- page 6 ---
 BL-3 expression F using AND, OR, and NOT gates:
 F = ABC + A’ + AB’C
@@ -852,6 +914,31 @@ Apply Norton’s theorem on the given below circuit to find current across 10Ω
 CO-1; SO-1;   resistor.
 BL-3
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+wor The Zener Diode
+
+D.C. input voltage
+from rectifier or
+smoothing circuit
+
+A Semiconductor Diode blocks current in the
+reverse direction, but will suffer from
+premature breakdown or damage if the reverse
+voltage applied across becomes too high
+
+The Zener Diode Regulator
+
+Zener Diodes can be used to produce a stabilised voltage output with low ripple under
+varying load current conditions. By passing a small current through the diode froma
+voltage source, via a suitable current limiting resistor (Rs), the zener diode will conduct
+sufficient current to maintain a voltage drop of Vout.
+
+We remember from the previous tutorials that the DC output voltage from the half or
+full-wave rectifiers contains ripple superimposed onto the DC voltage and that as the load
+value changes so to does the average output voltage. By connecting a simple zener based
+stabiliser circuit as shown below across the output of the rectifier, a more stable output
+voltage can be produced.
 --- page 3 ---
 SOLUTION:
 01 Mark
@@ -899,6 +986,32 @@ Q4
 CO-4; SO-1;   [10]
 BL-1
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Centre Tap Full Wave Rectifier Circuit
+
+The circuit diagram of the center tap full wave rectifier circuit is shown below. This rectifier circuit can be
+designed with an AC source, two diodes, a load resistor & a center tapped transformer. As shown in the
+
+following circuit diagram, the two diodes are connected to the two ends of a center-tapped transformer.
+
+A
+
+an
+
+—>
+
+We |
+
+d TL Ro M
+
+AC Supply VV
+
+_ —
+pos
+
+I
+B D2
 --- page 5 ---
 a. Show the operation of NPN and PNP bipolar junction transistors with circuit
 diagram.
@@ -907,6 +1020,48 @@ CO-4; SO-1;
 BL-1   [10]
 for correct diagram : 2 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Throughout the +ve half i/p voltage cycle, the ‘A’ end turns into positive & ‘B’ end turns into negative.
+Therefore, the D1 diode will become forward biased & D2 diode will become reverse biased. These two D1
+and D2 diodes will conduct at the same time. So, once the D1 diode conducts, then the D2 diode will not
+conduct. Whenever the ‘D1’ diode is conducting, the flow of current ‘I’ will be throughout this diode D1 and
+
+load resistor ‘RL’.
+
+Throughout the -ve half-cycle of the i/p voltage, the ‘B’ end will become positive whereas the ‘A’ end will
+become negative to make the ‘D2’ diode forward biased & ‘D1’ diode reverse biased. The flow of current
+throughout the load resistor ‘RL’ is in a similar direction throughout both the +ve & the -ve half cycle of the
+
+applied i/p voltage. Therefore, the DC o/p voltage like Vout = i RL can be obtained across the RL
+
+The waveforms for the applied input voltage, the flow of current throughout the load & the o/p voltage
+
+obtained across the load. The center tapped full wave rectifier waveforms are shown below.
+
+Advantages and Disadvantages
+
+The advantages of center-tapped FWR include the following.
+High efficiency & outputs are high because an AC supply provides power throughout both half cycles.
+
+« Less power loss.
+
+¢ Less ripple factor as compared to HWR.
+
+¢ The DC load current & DC o/p voltage are double as compared to HWR.
+¢ The rectification efficiency is double as compared to a half-wave rectifier.
+
+The center tapped full wave rectifier disadvantages include the following.
+
+¢ These are expensive.
+
+¢ Every diode uses simply one-half of the supply voltage which is developed within the secondary of the
+transformer; thus the obtained DC o/p is small.
+
+¢ For the tapping, it is not easy to place the center on the secondary.
+
+¢ The diode utilized in the circuit should be capable of bearing high PIV (peak inverse voltage) as PIV
+coming across every diode is double the highest voltage across the half of the minor winding.
 --- page 6 ---
 Valid Explanation with above diagram: 3 marks
 for correct diagram : 2 marks
@@ -998,6 +1153,41 @@ CO-1; SO-1;   [7]
 BL-3
 Solution:
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+i)Rated primary and secondary currents
+
+FE, 1, = rated kV A x< 1000
+250 x< 1000
+7. =“ y10000~ 7774
+EF2T2z = rated kV A x< 1000
+250 < 1000
+
+I2 = Ss = 602.44
+
+ii) Number of primary turns
+
+E2 Ne
+Fi NM
+E\ Ne 11000 x 80
+N= =
+E> 415
+= 2120
+
+iii) Maximum value of flux
+
+Ey = 4.44 f d,N2
+A15
+
+¢m —~ 4 aa x 50 = 80 — 79-3671?
+
+iv) Voltage induced /turn on secondary
+
+Voltage in secondary
+
+INumber pf turn onsecondary
+— 415 5.18V
+— 80 °°
 --- page 10 ---
 Solution Assigning clockwise currents in the three meshes,
 10V
@@ -1066,6 +1256,22 @@ BL-3   𝐹= (𝑊+ 𝑌)(𝑊𝑍+ 𝑊𝑍̅) + 𝑊𝑌+ 𝑌
 𝐹= (𝑊+ 𝑌)(𝑊∙1) + 𝑌∙1
 𝐹= (𝑊+ 𝑌)𝑊+ 𝑌--------- (1 mark)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Principle of D.C. Motor
+
+A machine that converts d.c, power into mechanical power is known as a d.c, motor. Its operation is based on
+
+the principle that when a current carrying conductor is placed in a magnetic field, the conductor experiences)
+
+a mechanical force. The direction of this force is given by Fleming’s left hand rule and magnitude is given by|
+F=BI/ newtons
+
+F- Force. B- flux density. _I- current flowing through conductor. /- Length of conductor.
+
+When the electric current passes through a coil in a magnetic field, a magnetic force will be generated, this
+
+produces a torque in the DC motor.
 --- page 12 ---
 F=WW+YW+Y
 
@@ -1144,6 +1350,31 @@ Apply Norton’s theorem on the given below circuit to find current across 10Ω
 CO-1; SO-1;   resistor.
 BL-3
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+wor The Zener Diode
+
+D.C. input voltage
+from rectifier or
+smoothing circuit
+
+A Semiconductor Diode blocks current in the
+reverse direction, but will suffer from
+premature breakdown or damage if the reverse
+voltage applied across becomes too high
+
+The Zener Diode Regulator
+
+Zener Diodes can be used to produce a stabilised voltage output with low ripple under
+varying load current conditions. By passing a small current through the diode froma
+voltage source, via a suitable current limiting resistor (Rs), the zener diode will conduct
+sufficient current to maintain a voltage drop of Vout.
+
+We remember from the previous tutorials that the DC output voltage from the half or
+full-wave rectifiers contains ripple superimposed onto the DC voltage and that as the load
+value changes so to does the average output voltage. By connecting a simple zener based
+stabiliser circuit as shown below across the output of the rectifier, a more stable output
+voltage can be produced.
 --- page 3 ---
 SOLUTION:
 01 Mark
@@ -1191,6 +1422,32 @@ Q4
 CO-4; SO-1;   [10]
 BL-1
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Centre Tap Full Wave Rectifier Circuit
+
+The circuit diagram of the center tap full wave rectifier circuit is shown below. This rectifier circuit can be
+designed with an AC source, two diodes, a load resistor & a center tapped transformer. As shown in the
+
+following circuit diagram, the two diodes are connected to the two ends of a center-tapped transformer.
+
+A
+
+an
+
+—>
+
+We |
+
+d TL Ro M
+
+AC Supply VV
+
+_ —
+pos
+
+I
+B D2
 --- page 5 ---
 a. Show the operation of NPN and PNP bipolar junction transistors with circuit
 diagram.
@@ -1199,6 +1456,48 @@ CO-4; SO-1;
 BL-1   [10]
 for correct diagram : 2 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Throughout the +ve half i/p voltage cycle, the ‘A’ end turns into positive & ‘B’ end turns into negative.
+Therefore, the D1 diode will become forward biased & D2 diode will become reverse biased. These two D1
+and D2 diodes will conduct at the same time. So, once the D1 diode conducts, then the D2 diode will not
+conduct. Whenever the ‘D1’ diode is conducting, the flow of current ‘I’ will be throughout this diode D1 and
+
+load resistor ‘RL’.
+
+Throughout the -ve half-cycle of the i/p voltage, the ‘B’ end will become positive whereas the ‘A’ end will
+become negative to make the ‘D2’ diode forward biased & ‘D1’ diode reverse biased. The flow of current
+throughout the load resistor ‘RL’ is in a similar direction throughout both the +ve & the -ve half cycle of the
+
+applied i/p voltage. Therefore, the DC o/p voltage like Vout = i RL can be obtained across the RL
+
+The waveforms for the applied input voltage, the flow of current throughout the load & the o/p voltage
+
+obtained across the load. The center tapped full wave rectifier waveforms are shown below.
+
+Advantages and Disadvantages
+
+The advantages of center-tapped FWR include the following.
+High efficiency & outputs are high because an AC supply provides power throughout both half cycles.
+
+« Less power loss.
+
+¢ Less ripple factor as compared to HWR.
+
+¢ The DC load current & DC o/p voltage are double as compared to HWR.
+¢ The rectification efficiency is double as compared to a half-wave rectifier.
+
+The center tapped full wave rectifier disadvantages include the following.
+
+¢ These are expensive.
+
+¢ Every diode uses simply one-half of the supply voltage which is developed within the secondary of the
+transformer; thus the obtained DC o/p is small.
+
+¢ For the tapping, it is not easy to place the center on the secondary.
+
+¢ The diode utilized in the circuit should be capable of bearing high PIV (peak inverse voltage) as PIV
+coming across every diode is double the highest voltage across the half of the minor winding.
 --- page 6 ---
 Valid Explanation with above diagram: 3 marks
 for correct diagram : 2 marks
@@ -1290,6 +1589,41 @@ CO-1; SO-1;   [7]
 BL-3
 Solution:
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+i)Rated primary and secondary currents
+
+FE, 1, = rated kV A x< 1000
+250 x< 1000
+7. =“ y10000~ 7774
+EF2T2z = rated kV A x< 1000
+250 < 1000
+
+I2 = Ss = 602.44
+
+ii) Number of primary turns
+
+E2 Ne
+Fi NM
+E\ Ne 11000 x 80
+N= =
+E> 415
+= 2120
+
+iii) Maximum value of flux
+
+Ey = 4.44 f d,N2
+A15
+
+¢m —~ 4 aa x 50 = 80 — 79-3671?
+
+iv) Voltage induced /turn on secondary
+
+Voltage in secondary
+
+INumber pf turn onsecondary
+— 415 5.18V
+— 80 °°
 --- page 10 ---
 Solution Assigning clockwise currents in the three meshes,
 10V
@@ -1358,6 +1692,22 @@ BL-3   𝐹= (𝑊+ 𝑌)(𝑊𝑍+ 𝑊𝑍̅) + 𝑊𝑌+ 𝑌
 𝐹= (𝑊+ 𝑌)(𝑊∙1) + 𝑌∙1
 𝐹= (𝑊+ 𝑌)𝑊+ 𝑌--------- (1 mark)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Principle of D.C. Motor
+
+A machine that converts d.c, power into mechanical power is known as a d.c, motor. Its operation is based on
+
+the principle that when a current carrying conductor is placed in a magnetic field, the conductor experiences)
+
+a mechanical force. The direction of this force is given by Fleming’s left hand rule and magnitude is given by|
+F=BI/ newtons
+
+F- Force. B- flux density. _I- current flowing through conductor. /- Length of conductor.
+
+When the electric current passes through a coil in a magnetic field, a magnetic force will be generated, this
+
+produces a torque in the DC motor.
 --- page 12 ---
 F=WW+YW+Y
 
@@ -1436,6 +1786,31 @@ Apply Norton’s theorem on the given below circuit to find current across 10Ω
 CO-1; SO-1;   resistor.
 BL-3
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+wor The Zener Diode
+
+D.C. input voltage
+from rectifier or
+smoothing circuit
+
+A Semiconductor Diode blocks current in the
+reverse direction, but will suffer from
+premature breakdown or damage if the reverse
+voltage applied across becomes too high
+
+The Zener Diode Regulator
+
+Zener Diodes can be used to produce a stabilised voltage output with low ripple under
+varying load current conditions. By passing a small current through the diode froma
+voltage source, via a suitable current limiting resistor (Rs), the zener diode will conduct
+sufficient current to maintain a voltage drop of Vout.
+
+We remember from the previous tutorials that the DC output voltage from the half or
+full-wave rectifiers contains ripple superimposed onto the DC voltage and that as the load
+value changes so to does the average output voltage. By connecting a simple zener based
+stabiliser circuit as shown below across the output of the rectifier, a more stable output
+voltage can be produced.
 --- page 3 ---
 SOLUTION:
 01 Mark
@@ -1483,6 +1858,32 @@ Q4
 CO-4; SO-1;   [10]
 BL-1
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Centre Tap Full Wave Rectifier Circuit
+
+The circuit diagram of the center tap full wave rectifier circuit is shown below. This rectifier circuit can be
+designed with an AC source, two diodes, a load resistor & a center tapped transformer. As shown in the
+
+following circuit diagram, the two diodes are connected to the two ends of a center-tapped transformer.
+
+A
+
+an
+
+—>
+
+We |
+
+d TL Ro M
+
+AC Supply VV
+
+_ —
+pos
+
+I
+B D2
 --- page 5 ---
 a. Show the operation of NPN and PNP bipolar junction transistors with circuit
 diagram.
@@ -1491,6 +1892,48 @@ CO-4; SO-1;
 BL-1   [10]
 for correct diagram : 2 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Throughout the +ve half i/p voltage cycle, the ‘A’ end turns into positive & ‘B’ end turns into negative.
+Therefore, the D1 diode will become forward biased & D2 diode will become reverse biased. These two D1
+and D2 diodes will conduct at the same time. So, once the D1 diode conducts, then the D2 diode will not
+conduct. Whenever the ‘D1’ diode is conducting, the flow of current ‘I’ will be throughout this diode D1 and
+
+load resistor ‘RL’.
+
+Throughout the -ve half-cycle of the i/p voltage, the ‘B’ end will become positive whereas the ‘A’ end will
+become negative to make the ‘D2’ diode forward biased & ‘D1’ diode reverse biased. The flow of current
+throughout the load resistor ‘RL’ is in a similar direction throughout both the +ve & the -ve half cycle of the
+
+applied i/p voltage. Therefore, the DC o/p voltage like Vout = i RL can be obtained across the RL
+
+The waveforms for the applied input voltage, the flow of current throughout the load & the o/p voltage
+
+obtained across the load. The center tapped full wave rectifier waveforms are shown below.
+
+Advantages and Disadvantages
+
+The advantages of center-tapped FWR include the following.
+High efficiency & outputs are high because an AC supply provides power throughout both half cycles.
+
+« Less power loss.
+
+¢ Less ripple factor as compared to HWR.
+
+¢ The DC load current & DC o/p voltage are double as compared to HWR.
+¢ The rectification efficiency is double as compared to a half-wave rectifier.
+
+The center tapped full wave rectifier disadvantages include the following.
+
+¢ These are expensive.
+
+¢ Every diode uses simply one-half of the supply voltage which is developed within the secondary of the
+transformer; thus the obtained DC o/p is small.
+
+¢ For the tapping, it is not easy to place the center on the secondary.
+
+¢ The diode utilized in the circuit should be capable of bearing high PIV (peak inverse voltage) as PIV
+coming across every diode is double the highest voltage across the half of the minor winding.
 --- page 6 ---
 Valid Explanation with above diagram: 3 marks
 for correct diagram : 2 marks
@@ -1582,6 +2025,41 @@ CO-1; SO-1;   [7]
 BL-3
 Solution:
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+i)Rated primary and secondary currents
+
+FE, 1, = rated kV A x< 1000
+250 x< 1000
+7. =“ y10000~ 7774
+EF2T2z = rated kV A x< 1000
+250 < 1000
+
+I2 = Ss = 602.44
+
+ii) Number of primary turns
+
+E2 Ne
+Fi NM
+E\ Ne 11000 x 80
+N= =
+E> 415
+= 2120
+
+iii) Maximum value of flux
+
+Ey = 4.44 f d,N2
+A15
+
+¢m —~ 4 aa x 50 = 80 — 79-3671?
+
+iv) Voltage induced /turn on secondary
+
+Voltage in secondary
+
+INumber pf turn onsecondary
+— 415 5.18V
+— 80 °°
 --- page 10 ---
 Solution Assigning clockwise currents in the three meshes,
 10V
@@ -1650,6 +2128,22 @@ BL-3   𝐹= (𝑊+ 𝑌)(𝑊𝑍+ 𝑊𝑍̅) + 𝑊𝑌+ 𝑌
 𝐹= (𝑊+ 𝑌)(𝑊∙1) + 𝑌∙1
 𝐹= (𝑊+ 𝑌)𝑊+ 𝑌--------- (1 mark)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Principle of D.C. Motor
+
+A machine that converts d.c, power into mechanical power is known as a d.c, motor. Its operation is based on
+
+the principle that when a current carrying conductor is placed in a magnetic field, the conductor experiences)
+
+a mechanical force. The direction of this force is given by Fleming’s left hand rule and magnitude is given by|
+F=BI/ newtons
+
+F- Force. B- flux density. _I- current flowing through conductor. /- Length of conductor.
+
+When the electric current passes through a coil in a magnetic field, a magnetic force will be generated, this
+
+produces a torque in the DC motor.
 --- page 12 ---
 F=WW+YW+Y
 
@@ -1675,6 +2169,7 @@ wanna nanan (2 marks)
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_Civil_7005/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
 - Text: mixed (6 pages), mean OCR confidence 69.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1781,6 +2276,13 @@ A 10 kVA, 3300/240 V, single-phase, 50 Hz transformer has a core area of
 CO-3; SO-1;   300 cm2. The flux density is 1.3 T. Find (i) number of primary turns, (ii) [10]
 BL-3   number of secondary turns, and (iii) primary full-load current.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+—10h + 35Iz—10I3; = 0 (2)
+
+—80 + 1023 + 10(I3 — In) = 0
+
+2013 — 101g = 80 (3)
 --- page 5 ---
 Q7   a.   State and explain Superposition Theorem.
 CO-1; SO-1;   Statement 3 marks   [7]
@@ -1796,6 +2298,60 @@ BL-1
 [7]
 CO-5; SO-1;   c.   Simplify the following Boolean expression and implement this Boolean [6]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Paz — Brox X A= 1.3 x 0.03 = 0.0389 Wb
+
+Y Step 2: Number of Primary Turns Nj
+Using emf equation:
+Ey = AAAS NP max
+
+3300 — 4.44 x 50 x N; x 0.039
+
+v- 3300
+M1 4.44 x 50 x 0.039
+3300
+N, — = ~ 381 turns
+1 3658 wens
+© Answer (i): V
+
+N, © 381 turns
+
+. 240
+No = 381 x 3300
+
+No © 381 x 0.0727 = 28 turns
+
+> Answer (ii):
+
+¥ Step 4: Primary Full-Load Current J)
+
+S _ 10,000
+Vey 3300
+
+T, ~ 3.034
+
+=
+
+Given:
+
+Step 1: Flux
+
+Vi 220 220
+® naz = oa =
+
+= = 0.00991 Wb
+444fN, 44450100 22200
+
+Step 2: Flux Density
+
+_ 0.00991 _ 6 sgg7
+0.025
+
+Step 3: Secondary emf
+
+By = Vi x $B = 220 x 4 = 8800
+™
 --- page 6 ---
 BL-3 expression F using AND, OR, and NOT gates:
 F = ABC + A’ + AB’C
@@ -1820,6 +2376,7 @@ A GK GRR RAK KR
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_Computer_7002/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
 - Text: mixed (6 pages), mean OCR confidence 69.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1926,6 +2483,13 @@ A 10 kVA, 3300/240 V, single-phase, 50 Hz transformer has a core area of
 CO-3; SO-1;   300 cm2. The flux density is 1.3 T. Find (i) number of primary turns, (ii) [10]
 BL-3   number of secondary turns, and (iii) primary full-load current.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+—10h + 35Iz—10I3; = 0 (2)
+
+—80 + 1023 + 10(I3 — In) = 0
+
+2013 — 101g = 80 (3)
 --- page 5 ---
 Q7   a.   State and explain Superposition Theorem.
 CO-1; SO-1;   Statement 3 marks   [7]
@@ -1941,6 +2505,60 @@ BL-1
 [7]
 CO-5; SO-1;   c.   Simplify the following Boolean expression and implement this Boolean [6]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Paz — Brox X A= 1.3 x 0.03 = 0.0389 Wb
+
+Y Step 2: Number of Primary Turns Nj
+Using emf equation:
+Ey = AAAS NP max
+
+3300 — 4.44 x 50 x N; x 0.039
+
+v- 3300
+M1 4.44 x 50 x 0.039
+3300
+N, — = ~ 381 turns
+1 3658 wens
+© Answer (i): V
+
+N, © 381 turns
+
+. 240
+No = 381 x 3300
+
+No © 381 x 0.0727 = 28 turns
+
+> Answer (ii):
+
+¥ Step 4: Primary Full-Load Current J)
+
+S _ 10,000
+Vey 3300
+
+T, ~ 3.034
+
+=
+
+Given:
+
+Step 1: Flux
+
+Vi 220 220
+® naz = oa =
+
+= = 0.00991 Wb
+444fN, 44450100 22200
+
+Step 2: Flux Density
+
+_ 0.00991 _ 6 sgg7
+0.025
+
+Step 3: Secondary emf
+
+By = Vi x $B = 220 x 4 = 8800
+™
 --- page 6 ---
 BL-3 expression F using AND, OR, and NOT gates:
 F = ABC + A’ + AB’C
@@ -1965,6 +2583,7 @@ A GK GRR RAK KR
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/MBATech_Computer_7047/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
 - Text: mixed (6 pages), mean OCR confidence 69.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2071,6 +2690,13 @@ A 10 kVA, 3300/240 V, single-phase, 50 Hz transformer has a core area of
 CO-3; SO-1;   300 cm2. The flux density is 1.3 T. Find (i) number of primary turns, (ii) [10]
 BL-3   number of secondary turns, and (iii) primary full-load current.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+—10h + 35Iz—10I3; = 0 (2)
+
+—80 + 1023 + 10(I3 — In) = 0
+
+2013 — 101g = 80 (3)
 --- page 5 ---
 Q7   a.   State and explain Superposition Theorem.
 CO-1; SO-1;   Statement 3 marks   [7]
@@ -2086,6 +2712,60 @@ BL-1
 [7]
 CO-5; SO-1;   c.   Simplify the following Boolean expression and implement this Boolean [6]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Paz — Brox X A= 1.3 x 0.03 = 0.0389 Wb
+
+Y Step 2: Number of Primary Turns Nj
+Using emf equation:
+Ey = AAAS NP max
+
+3300 — 4.44 x 50 x N; x 0.039
+
+v- 3300
+M1 4.44 x 50 x 0.039
+3300
+N, — = ~ 381 turns
+1 3658 wens
+© Answer (i): V
+
+N, © 381 turns
+
+. 240
+No = 381 x 3300
+
+No © 381 x 0.0727 = 28 turns
+
+> Answer (ii):
+
+¥ Step 4: Primary Full-Load Current J)
+
+S _ 10,000
+Vey 3300
+
+T, ~ 3.034
+
+=
+
+Given:
+
+Step 1: Flux
+
+Vi 220 220
+® naz = oa =
+
+= = 0.00991 Wb
+444fN, 44450100 22200
+
+Step 2: Flux Density
+
+_ 0.00991 _ 6 sgg7
+0.025
+
+Step 3: Secondary emf
+
+By = Vi x $B = 220 x 4 = 8800
+™
 --- page 6 ---
 BL-3 expression F using AND, OR, and NOT gates:
 F = ABC + A’ + AB’C
@@ -2110,6 +2790,7 @@ A GK GRR RAK KR
 - Source: `00_Original_Downloads/2025/Semester II/75268__Re-Exam.zip :: BACHELOR OF TECHNOLOGY(CIVIL ENGINEERING) - 7005/Basic Electrical and Electronics Engineering/ANS_Re-Exam_Basic Electrical and Electronics Engineering(702EX0C001)_Semester II_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Jul 2026
 - Text: mixed (16 pages), mean OCR confidence 78.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2230,6 +2911,26 @@ Analyze an AC Series RL Circuit by using circuit diagram, phasor diagram,
 CO-2; SO-1;   Voltage Triangle, Impedance Triangle, Power triangle, Waveform of [10]
 BL-4   Voltage and current.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Solution S= 50 Hz
+N, = 80
+N2 = 280
+Vv, = 240V
+A = 200 cm? = 200 x 104 m?
+@ Maximum flux density in the core
+For a transformer,
+V, = E,=240V
+Ey = 444 f>,N,=444S Bm AN,
+By,= 0.68 W/m?
+Gi) Induced emf in the secondary
+
+Ez _ N2
+zy MN
+E, _ 280
+240 80
+
+E, = 840 V
 --- page 6 ---
 𝑉= RMS Value of the applied voltage
 𝐼 = RMS Value of the resultant current
@@ -2487,6 +3188,39 @@ BL-3   𝐹= (𝐴′ + 𝐵′)(𝐴′ + 𝐵) + 𝐵𝐶
 𝐹= 𝐴′ + 𝐴′ + 𝐵𝐶
 𝐹= 𝐴′ + 𝐵𝐶
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Ry Ry
+
+v> SR SR Or
+
+Fig. 2.261 Superposition theorem
+
+2.8.1 Steps to be followed in Superposition Theorem
+1. Find the current /4, flowing through R, due to independent voltage source ‘V’,
+representing independent current source with infinite resistance, i.e., open circuit.
+
+Ry R3
+AWA WW
+
+Té
+
+v= Re Ry
+
+Fig. 2.262 Step1
+
+2. Find the current // flowing through R, due to independent current source ‘J’,
+representing the independent voltage source with zero resistance or short circuit.
+
+R, Rs
+AWA AWN
+
+SR Sra @:
+
+Fig. 2.263 Step 2
+
+3. Find the resultant current J, through R, by the superposition theorem.
+L=1+ly
 --- page 16 ---
 A [>
 
@@ -2516,6 +3250,7 @@ ARR AK 7] 6 RK RK KK
 - Source: `00_Original_Downloads/2025/Semester II/75268__Re-Exam.zip :: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047/Basic Electrical and Electronics Engineering/ANS_Re-Exam_Basic Electrical and Electronics Engineering(702EX0C001)_Semester II_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Jul 2026
 - Text: mixed (16 pages), mean OCR confidence 78.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2636,6 +3371,26 @@ Analyze an AC Series RL Circuit by using circuit diagram, phasor diagram,
 CO-2; SO-1;   Voltage Triangle, Impedance Triangle, Power triangle, Waveform of [10]
 BL-4   Voltage and current.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Solution S= 50 Hz
+N, = 80
+N2 = 280
+Vv, = 240V
+A = 200 cm? = 200 x 104 m?
+@ Maximum flux density in the core
+For a transformer,
+V, = E,=240V
+Ey = 444 f>,N,=444S Bm AN,
+By,= 0.68 W/m?
+Gi) Induced emf in the secondary
+
+Ez _ N2
+zy MN
+E, _ 280
+240 80
+
+E, = 840 V
 --- page 6 ---
 𝑉= RMS Value of the applied voltage
 𝐼 = RMS Value of the resultant current
@@ -2893,6 +3648,39 @@ BL-3   𝐹= (𝐴′ + 𝐵′)(𝐴′ + 𝐵) + 𝐵𝐶
 𝐹= 𝐴′ + 𝐴′ + 𝐵𝐶
 𝐹= 𝐴′ + 𝐵𝐶
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Ry Ry
+
+v> SR SR Or
+
+Fig. 2.261 Superposition theorem
+
+2.8.1 Steps to be followed in Superposition Theorem
+1. Find the current /4, flowing through R, due to independent voltage source ‘V’,
+representing independent current source with infinite resistance, i.e., open circuit.
+
+Ry R3
+AWA WW
+
+Té
+
+v= Re Ry
+
+Fig. 2.262 Step1
+
+2. Find the current // flowing through R, due to independent current source ‘J’,
+representing the independent voltage source with zero resistance or short circuit.
+
+R, Rs
+AWA AWN
+
+SR Sra @:
+
+Fig. 2.263 Step 2
+
+3. Find the resultant current J, through R, by the superposition theorem.
+L=1+ly
 --- page 16 ---
 A [>
 
@@ -2922,7 +3710,7 @@ ARR AK 7] 6 RK RK KK
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_AIDS_7056/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 47.5
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -2998,6 +3786,51 @@ CO-1; SO-1;   SOLUTION:
 BL-3
 01 Mark
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The NPN Bipolar Junction Transistor
+
+In the previous tutorial we saw that the standard Bipolar Transistor or BJT, comes in two
+basic forms. An NPN (Negative-Positive-Negative) configuration and a PNP (Positive-
+Negative-Positive) configuration. That is: an NPN transistor and a PNP transistor types.
+
+The most commonly used transistor configuration is the NPN Transistor. We also learnt
+that the junctions of the bipolar transistor can be biased in one of three different ways -
+Common Base, Common Emitter and Common Collector.
+
+In this tutorial about bipolar transistors we will look more closely at the “Common
+Emitter” configuration using the Bipolar NPN Transistor with an example of the
+construction of a NPN transistor along with the transistors current flow characteristics is
+
+given below.
+
+A Bipolar NPN Transistor Configuration
+
+Circuit c
+Symbol
+
+Emitter Collector
+
+I 4 I, Ic
+
+Vee Ves
+
+Solution Step I: Calculation of Vr,
+Removing the 8 Q resistor from the network,
+1 52
+
+10.Q
+
++ =
+
+250 V——
+
+oA
++
+
+Vth
+
+OB
 --- page 4 ---
 01 Mark
 02 Marks
@@ -3058,6 +3891,25 @@ it rectifies both segments of the AC cycle to produce a supply of DC power at
 the output. This transformation holds importance for electronic devices as it
 ensures a stable and reliable source of electrical energy.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+V = 150 230° V
+T =22-15°A
+f= 50 Hz
+(i) Impedance
+= V 150230°
+Z=== = © O = 53.03 + j53,
+T 7 oz-15° 75 245° QD = 53.03 +j53.03 Q
+Z=752
+(ii) Resistance
+R= 53.032
+
+(iii) Reactance
+X = 53.032
+(iv) Power factor
+@ = 45°
+pf = cos @= cos (45°) = 0.707 (lagging)
+(v) Power loss
 --- page 6 ---
 Advantages of Bridge Rectifier
 Bridge Rectifiers are incredibly efficient when   it comes to converting
@@ -3134,6 +3986,21 @@ BL-3
 (b) the primary and secondary full-load currents, and
 (c) the maximum flux in the core.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Explanation The method of determining the load current through a given load resistance can be
+explained with the help of the following circuit.
+
+R, R3
+A
+Ro In
+B
+(a) (b)
+A A
+R3 I
+
+OB B
+(c) (4)
 --- page 9 ---
 a.   Solve to compute all mesh currents using mesh analysis.
 Assigning mesh currents,
@@ -3180,6 +4047,42 @@ BL-3
 𝑌= 𝐵+ 𝐴𝐶------ (0.5 mark)
 Implementation
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Series DC Motor
+
+A DC motor whose field winding is connected in series with the armature
+winding so that whole armature current passes through the field winding is
+called a series DC motor. Figure-2 shows the connection diagram of a
+series DC motor.
+
+1 se Zr
+
+or
+
+Figure 2 - Series DC Motor
+
+In case of a series DC motor, the field winding carries the whole armature
+current, thus it is made up of thick wire with less number of turns so that it
+possesses minimum resistance.
+
+Shunt DC Motor
+
+A DC motor whose field winding is connected in parallel with the armature
+winding so that total supply voltage is applied across it, is Known asa
+shunt DC motor. Figure-3 shows the connection diagram of a shunt DC
+motor.
+
+Ten 1,
+
++
+Ry, V,
+
+Figure 3 - Shunt DC Motor
+
+In a shunt DC motor, the shunt field winding has a large number of turns of
+thin wire so that it has high resistance, and therefore only a part of supply
+current flows through it and the rest flows through the armature winding.
 --- page 11 ---
 A —
 
@@ -3190,7 +4093,7 @@ A —
 - Departments: AI and Machine Learning
 - Programmes: BTech AIML 7053
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_AIML_7053/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
-- Text: none (FileDataError: Failed to open stream)
+- Text: none (encrypted by the portal: the file is uniformly random bytes in 16-byte cipher blocks with no PDF structure, and the archive holds no key (its own re-download got the same bytes))
 
 ## 2025-26 · Re-Exam · Sem 1 · Answer key · paper 0582233aecfe
 
@@ -3199,7 +4102,7 @@ A —
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_AI_7012/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 47.5
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -3275,6 +4178,51 @@ CO-1; SO-1;   SOLUTION:
 BL-3
 01 Mark
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The NPN Bipolar Junction Transistor
+
+In the previous tutorial we saw that the standard Bipolar Transistor or BJT, comes in two
+basic forms. An NPN (Negative-Positive-Negative) configuration and a PNP (Positive-
+Negative-Positive) configuration. That is: an NPN transistor and a PNP transistor types.
+
+The most commonly used transistor configuration is the NPN Transistor. We also learnt
+that the junctions of the bipolar transistor can be biased in one of three different ways -
+Common Base, Common Emitter and Common Collector.
+
+In this tutorial about bipolar transistors we will look more closely at the “Common
+Emitter” configuration using the Bipolar NPN Transistor with an example of the
+construction of a NPN transistor along with the transistors current flow characteristics is
+
+given below.
+
+A Bipolar NPN Transistor Configuration
+
+Circuit c
+Symbol
+
+Emitter Collector
+
+I 4 I, Ic
+
+Vee Ves
+
+Solution Step I: Calculation of Vr,
+Removing the 8 Q resistor from the network,
+1 52
+
+10.Q
+
++ =
+
+250 V——
+
+oA
++
+
+Vth
+
+OB
 --- page 4 ---
 01 Mark
 02 Marks
@@ -3335,6 +4283,25 @@ it rectifies both segments of the AC cycle to produce a supply of DC power at
 the output. This transformation holds importance for electronic devices as it
 ensures a stable and reliable source of electrical energy.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+V = 150 230° V
+T =22-15°A
+f= 50 Hz
+(i) Impedance
+= V 150230°
+Z=== = © O = 53.03 + j53,
+T 7 oz-15° 75 245° QD = 53.03 +j53.03 Q
+Z=752
+(ii) Resistance
+R= 53.032
+
+(iii) Reactance
+X = 53.032
+(iv) Power factor
+@ = 45°
+pf = cos @= cos (45°) = 0.707 (lagging)
+(v) Power loss
 --- page 6 ---
 Advantages of Bridge Rectifier
 Bridge Rectifiers are incredibly efficient when   it comes to converting
@@ -3411,6 +4378,21 @@ BL-3
 (b) the primary and secondary full-load currents, and
 (c) the maximum flux in the core.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Explanation The method of determining the load current through a given load resistance can be
+explained with the help of the following circuit.
+
+R, R3
+A
+Ro In
+B
+(a) (b)
+A A
+R3 I
+
+OB B
+(c) (4)
 --- page 9 ---
 a.   Solve to compute all mesh currents using mesh analysis.
 Assigning mesh currents,
@@ -3457,6 +4439,42 @@ BL-3
 𝑌= 𝐵+ 𝐴𝐶------ (0.5 mark)
 Implementation
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Series DC Motor
+
+A DC motor whose field winding is connected in series with the armature
+winding so that whole armature current passes through the field winding is
+called a series DC motor. Figure-2 shows the connection diagram of a
+series DC motor.
+
+1 se Zr
+
+or
+
+Figure 2 - Series DC Motor
+
+In case of a series DC motor, the field winding carries the whole armature
+current, thus it is made up of thick wire with less number of turns so that it
+possesses minimum resistance.
+
+Shunt DC Motor
+
+A DC motor whose field winding is connected in parallel with the armature
+winding so that total supply voltage is applied across it, is Known asa
+shunt DC motor. Figure-3 shows the connection diagram of a shunt DC
+motor.
+
+Ten 1,
+
++
+Ry, V,
+
+Figure 3 - Shunt DC Motor
+
+In a shunt DC motor, the shunt field winding has a large number of turns of
+thin wire so that it has high resistance, and therefore only a part of supply
+current flows through it and the rest flows through the armature winding.
 --- page 11 ---
 A —
 
@@ -3469,7 +4487,7 @@ A —
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_CSBS_7036/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 47.5
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -3545,6 +4563,51 @@ CO-1; SO-1;   SOLUTION:
 BL-3
 01 Mark
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The NPN Bipolar Junction Transistor
+
+In the previous tutorial we saw that the standard Bipolar Transistor or BJT, comes in two
+basic forms. An NPN (Negative-Positive-Negative) configuration and a PNP (Positive-
+Negative-Positive) configuration. That is: an NPN transistor and a PNP transistor types.
+
+The most commonly used transistor configuration is the NPN Transistor. We also learnt
+that the junctions of the bipolar transistor can be biased in one of three different ways -
+Common Base, Common Emitter and Common Collector.
+
+In this tutorial about bipolar transistors we will look more closely at the “Common
+Emitter” configuration using the Bipolar NPN Transistor with an example of the
+construction of a NPN transistor along with the transistors current flow characteristics is
+
+given below.
+
+A Bipolar NPN Transistor Configuration
+
+Circuit c
+Symbol
+
+Emitter Collector
+
+I 4 I, Ic
+
+Vee Ves
+
+Solution Step I: Calculation of Vr,
+Removing the 8 Q resistor from the network,
+1 52
+
+10.Q
+
++ =
+
+250 V——
+
+oA
++
+
+Vth
+
+OB
 --- page 4 ---
 01 Mark
 02 Marks
@@ -3605,6 +4668,25 @@ it rectifies both segments of the AC cycle to produce a supply of DC power at
 the output. This transformation holds importance for electronic devices as it
 ensures a stable and reliable source of electrical energy.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+V = 150 230° V
+T =22-15°A
+f= 50 Hz
+(i) Impedance
+= V 150230°
+Z=== = © O = 53.03 + j53,
+T 7 oz-15° 75 245° QD = 53.03 +j53.03 Q
+Z=752
+(ii) Resistance
+R= 53.032
+
+(iii) Reactance
+X = 53.032
+(iv) Power factor
+@ = 45°
+pf = cos @= cos (45°) = 0.707 (lagging)
+(v) Power loss
 --- page 6 ---
 Advantages of Bridge Rectifier
 Bridge Rectifiers are incredibly efficient when   it comes to converting
@@ -3681,6 +4763,21 @@ BL-3
 (b) the primary and secondary full-load currents, and
 (c) the maximum flux in the core.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Explanation The method of determining the load current through a given load resistance can be
+explained with the help of the following circuit.
+
+R, R3
+A
+Ro In
+B
+(a) (b)
+A A
+R3 I
+
+OB B
+(c) (4)
 --- page 9 ---
 a.   Solve to compute all mesh currents using mesh analysis.
 Assigning mesh currents,
@@ -3727,6 +4824,42 @@ BL-3
 𝑌= 𝐵+ 𝐴𝐶------ (0.5 mark)
 Implementation
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Series DC Motor
+
+A DC motor whose field winding is connected in series with the armature
+winding so that whole armature current passes through the field winding is
+called a series DC motor. Figure-2 shows the connection diagram of a
+series DC motor.
+
+1 se Zr
+
+or
+
+Figure 2 - Series DC Motor
+
+In case of a series DC motor, the field winding carries the whole armature
+current, thus it is made up of thick wire with less number of turns so that it
+possesses minimum resistance.
+
+Shunt DC Motor
+
+A DC motor whose field winding is connected in parallel with the armature
+winding so that total supply voltage is applied across it, is Known asa
+shunt DC motor. Figure-3 shows the connection diagram of a shunt DC
+motor.
+
+Ten 1,
+
++
+Ry, V,
+
+Figure 3 - Shunt DC Motor
+
+In a shunt DC motor, the shunt field winding has a large number of turns of
+thin wire so that it has high resistance, and therefore only a part of supply
+current flows through it and the rest flows through the armature winding.
 --- page 11 ---
 A —
 
@@ -3750,7 +4883,7 @@ A —
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_CS_7055/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 47.5
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -3826,6 +4959,51 @@ CO-1; SO-1;   SOLUTION:
 BL-3
 01 Mark
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The NPN Bipolar Junction Transistor
+
+In the previous tutorial we saw that the standard Bipolar Transistor or BJT, comes in two
+basic forms. An NPN (Negative-Positive-Negative) configuration and a PNP (Positive-
+Negative-Positive) configuration. That is: an NPN transistor and a PNP transistor types.
+
+The most commonly used transistor configuration is the NPN Transistor. We also learnt
+that the junctions of the bipolar transistor can be biased in one of three different ways -
+Common Base, Common Emitter and Common Collector.
+
+In this tutorial about bipolar transistors we will look more closely at the “Common
+Emitter” configuration using the Bipolar NPN Transistor with an example of the
+construction of a NPN transistor along with the transistors current flow characteristics is
+
+given below.
+
+A Bipolar NPN Transistor Configuration
+
+Circuit c
+Symbol
+
+Emitter Collector
+
+I 4 I, Ic
+
+Vee Ves
+
+Solution Step I: Calculation of Vr,
+Removing the 8 Q resistor from the network,
+1 52
+
+10.Q
+
++ =
+
+250 V——
+
+oA
++
+
+Vth
+
+OB
 --- page 4 ---
 01 Mark
 02 Marks
@@ -3886,6 +5064,25 @@ it rectifies both segments of the AC cycle to produce a supply of DC power at
 the output. This transformation holds importance for electronic devices as it
 ensures a stable and reliable source of electrical energy.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+V = 150 230° V
+T =22-15°A
+f= 50 Hz
+(i) Impedance
+= V 150230°
+Z=== = © O = 53.03 + j53,
+T 7 oz-15° 75 245° QD = 53.03 +j53.03 Q
+Z=752
+(ii) Resistance
+R= 53.032
+
+(iii) Reactance
+X = 53.032
+(iv) Power factor
+@ = 45°
+pf = cos @= cos (45°) = 0.707 (lagging)
+(v) Power loss
 --- page 6 ---
 Advantages of Bridge Rectifier
 Bridge Rectifiers are incredibly efficient when   it comes to converting
@@ -3962,6 +5159,21 @@ BL-3
 (b) the primary and secondary full-load currents, and
 (c) the maximum flux in the core.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Explanation The method of determining the load current through a given load resistance can be
+explained with the help of the following circuit.
+
+R, R3
+A
+Ro In
+B
+(a) (b)
+A A
+R3 I
+
+OB B
+(c) (4)
 --- page 9 ---
 a.   Solve to compute all mesh currents using mesh analysis.
 Assigning mesh currents,
@@ -4008,6 +5220,42 @@ BL-3
 𝑌= 𝐵+ 𝐴𝐶------ (0.5 mark)
 Implementation
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Series DC Motor
+
+A DC motor whose field winding is connected in series with the armature
+winding so that whole armature current passes through the field winding is
+called a series DC motor. Figure-2 shows the connection diagram of a
+series DC motor.
+
+1 se Zr
+
+or
+
+Figure 2 - Series DC Motor
+
+In case of a series DC motor, the field winding carries the whole armature
+current, thus it is made up of thick wire with less number of turns so that it
+possesses minimum resistance.
+
+Shunt DC Motor
+
+A DC motor whose field winding is connected in parallel with the armature
+winding so that total supply voltage is applied across it, is Known asa
+shunt DC motor. Figure-3 shows the connection diagram of a shunt DC
+motor.
+
+Ten 1,
+
++
+Ry, V,
+
+Figure 3 - Shunt DC Motor
+
+In a shunt DC motor, the shunt field winding has a large number of turns of
+thin wire so that it has high resistance, and therefore only a part of supply
+current flows through it and the rest flows through the armature winding.
 --- page 11 ---
 A —
 
@@ -4020,7 +5268,7 @@ A —
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_CyberSecurity_7010/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 47.5
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -4096,6 +5344,51 @@ CO-1; SO-1;   SOLUTION:
 BL-3
 01 Mark
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The NPN Bipolar Junction Transistor
+
+In the previous tutorial we saw that the standard Bipolar Transistor or BJT, comes in two
+basic forms. An NPN (Negative-Positive-Negative) configuration and a PNP (Positive-
+Negative-Positive) configuration. That is: an NPN transistor and a PNP transistor types.
+
+The most commonly used transistor configuration is the NPN Transistor. We also learnt
+that the junctions of the bipolar transistor can be biased in one of three different ways -
+Common Base, Common Emitter and Common Collector.
+
+In this tutorial about bipolar transistors we will look more closely at the “Common
+Emitter” configuration using the Bipolar NPN Transistor with an example of the
+construction of a NPN transistor along with the transistors current flow characteristics is
+
+given below.
+
+A Bipolar NPN Transistor Configuration
+
+Circuit c
+Symbol
+
+Emitter Collector
+
+I 4 I, Ic
+
+Vee Ves
+
+Solution Step I: Calculation of Vr,
+Removing the 8 Q resistor from the network,
+1 52
+
+10.Q
+
++ =
+
+250 V——
+
+oA
++
+
+Vth
+
+OB
 --- page 4 ---
 01 Mark
 02 Marks
@@ -4156,6 +5449,25 @@ it rectifies both segments of the AC cycle to produce a supply of DC power at
 the output. This transformation holds importance for electronic devices as it
 ensures a stable and reliable source of electrical energy.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+V = 150 230° V
+T =22-15°A
+f= 50 Hz
+(i) Impedance
+= V 150230°
+Z=== = © O = 53.03 + j53,
+T 7 oz-15° 75 245° QD = 53.03 +j53.03 Q
+Z=752
+(ii) Resistance
+R= 53.032
+
+(iii) Reactance
+X = 53.032
+(iv) Power factor
+@ = 45°
+pf = cos @= cos (45°) = 0.707 (lagging)
+(v) Power loss
 --- page 6 ---
 Advantages of Bridge Rectifier
 Bridge Rectifiers are incredibly efficient when   it comes to converting
@@ -4232,6 +5544,21 @@ BL-3
 (b) the primary and secondary full-load currents, and
 (c) the maximum flux in the core.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Explanation The method of determining the load current through a given load resistance can be
+explained with the help of the following circuit.
+
+R, R3
+A
+Ro In
+B
+(a) (b)
+A A
+R3 I
+
+OB B
+(c) (4)
 --- page 9 ---
 a.   Solve to compute all mesh currents using mesh analysis.
 Assigning mesh currents,
@@ -4278,6 +5605,42 @@ BL-3
 𝑌= 𝐵+ 𝐴𝐶------ (0.5 mark)
 Implementation
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Series DC Motor
+
+A DC motor whose field winding is connected in series with the armature
+winding so that whole armature current passes through the field winding is
+called a series DC motor. Figure-2 shows the connection diagram of a
+series DC motor.
+
+1 se Zr
+
+or
+
+Figure 2 - Series DC Motor
+
+In case of a series DC motor, the field winding carries the whole armature
+current, thus it is made up of thick wire with less number of turns so that it
+possesses minimum resistance.
+
+Shunt DC Motor
+
+A DC motor whose field winding is connected in parallel with the armature
+winding so that total supply voltage is applied across it, is Known asa
+shunt DC motor. Figure-3 shows the connection diagram of a shunt DC
+motor.
+
+Ten 1,
+
++
+Ry, V,
+
+Figure 3 - Shunt DC Motor
+
+In a shunt DC motor, the shunt field winding has a large number of turns of
+thin wire so that it has high resistance, and therefore only a part of supply
+current flows through it and the rest flows through the armature winding.
 --- page 11 ---
 A —
 
@@ -4290,7 +5653,7 @@ A —
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_DS_7009/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 47.5
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -4366,6 +5729,51 @@ CO-1; SO-1;   SOLUTION:
 BL-3
 01 Mark
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The NPN Bipolar Junction Transistor
+
+In the previous tutorial we saw that the standard Bipolar Transistor or BJT, comes in two
+basic forms. An NPN (Negative-Positive-Negative) configuration and a PNP (Positive-
+Negative-Positive) configuration. That is: an NPN transistor and a PNP transistor types.
+
+The most commonly used transistor configuration is the NPN Transistor. We also learnt
+that the junctions of the bipolar transistor can be biased in one of three different ways -
+Common Base, Common Emitter and Common Collector.
+
+In this tutorial about bipolar transistors we will look more closely at the “Common
+Emitter” configuration using the Bipolar NPN Transistor with an example of the
+construction of a NPN transistor along with the transistors current flow characteristics is
+
+given below.
+
+A Bipolar NPN Transistor Configuration
+
+Circuit c
+Symbol
+
+Emitter Collector
+
+I 4 I, Ic
+
+Vee Ves
+
+Solution Step I: Calculation of Vr,
+Removing the 8 Q resistor from the network,
+1 52
+
+10.Q
+
++ =
+
+250 V——
+
+oA
++
+
+Vth
+
+OB
 --- page 4 ---
 01 Mark
 02 Marks
@@ -4426,6 +5834,25 @@ it rectifies both segments of the AC cycle to produce a supply of DC power at
 the output. This transformation holds importance for electronic devices as it
 ensures a stable and reliable source of electrical energy.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+V = 150 230° V
+T =22-15°A
+f= 50 Hz
+(i) Impedance
+= V 150230°
+Z=== = © O = 53.03 + j53,
+T 7 oz-15° 75 245° QD = 53.03 +j53.03 Q
+Z=752
+(ii) Resistance
+R= 53.032
+
+(iii) Reactance
+X = 53.032
+(iv) Power factor
+@ = 45°
+pf = cos @= cos (45°) = 0.707 (lagging)
+(v) Power loss
 --- page 6 ---
 Advantages of Bridge Rectifier
 Bridge Rectifiers are incredibly efficient when   it comes to converting
@@ -4502,6 +5929,21 @@ BL-3
 (b) the primary and secondary full-load currents, and
 (c) the maximum flux in the core.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Explanation The method of determining the load current through a given load resistance can be
+explained with the help of the following circuit.
+
+R, R3
+A
+Ro In
+B
+(a) (b)
+A A
+R3 I
+
+OB B
+(c) (4)
 --- page 9 ---
 a.   Solve to compute all mesh currents using mesh analysis.
 Assigning mesh currents,
@@ -4548,6 +5990,42 @@ BL-3
 𝑌= 𝐵+ 𝐴𝐶------ (0.5 mark)
 Implementation
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Series DC Motor
+
+A DC motor whose field winding is connected in series with the armature
+winding so that whole armature current passes through the field winding is
+called a series DC motor. Figure-2 shows the connection diagram of a
+series DC motor.
+
+1 se Zr
+
+or
+
+Figure 2 - Series DC Motor
+
+In case of a series DC motor, the field winding carries the whole armature
+current, thus it is made up of thick wire with less number of turns so that it
+possesses minimum resistance.
+
+Shunt DC Motor
+
+A DC motor whose field winding is connected in parallel with the armature
+winding so that total supply voltage is applied across it, is Known asa
+shunt DC motor. Figure-3 shows the connection diagram of a shunt DC
+motor.
+
+Ten 1,
+
++
+Ry, V,
+
+Figure 3 - Shunt DC Motor
+
+In a shunt DC motor, the shunt field winding has a large number of turns of
+thin wire so that it has high resistance, and therefore only a part of supply
+current flows through it and the rest flows through the armature winding.
 --- page 11 ---
 A —
 
@@ -4560,7 +6038,7 @@ A —
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_EXTC_7006/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 47.5
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -4636,6 +6114,51 @@ CO-1; SO-1;   SOLUTION:
 BL-3
 01 Mark
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The NPN Bipolar Junction Transistor
+
+In the previous tutorial we saw that the standard Bipolar Transistor or BJT, comes in two
+basic forms. An NPN (Negative-Positive-Negative) configuration and a PNP (Positive-
+Negative-Positive) configuration. That is: an NPN transistor and a PNP transistor types.
+
+The most commonly used transistor configuration is the NPN Transistor. We also learnt
+that the junctions of the bipolar transistor can be biased in one of three different ways -
+Common Base, Common Emitter and Common Collector.
+
+In this tutorial about bipolar transistors we will look more closely at the “Common
+Emitter” configuration using the Bipolar NPN Transistor with an example of the
+construction of a NPN transistor along with the transistors current flow characteristics is
+
+given below.
+
+A Bipolar NPN Transistor Configuration
+
+Circuit c
+Symbol
+
+Emitter Collector
+
+I 4 I, Ic
+
+Vee Ves
+
+Solution Step I: Calculation of Vr,
+Removing the 8 Q resistor from the network,
+1 52
+
+10.Q
+
++ =
+
+250 V——
+
+oA
++
+
+Vth
+
+OB
 --- page 4 ---
 01 Mark
 02 Marks
@@ -4696,6 +6219,25 @@ it rectifies both segments of the AC cycle to produce a supply of DC power at
 the output. This transformation holds importance for electronic devices as it
 ensures a stable and reliable source of electrical energy.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+V = 150 230° V
+T =22-15°A
+f= 50 Hz
+(i) Impedance
+= V 150230°
+Z=== = © O = 53.03 + j53,
+T 7 oz-15° 75 245° QD = 53.03 +j53.03 Q
+Z=752
+(ii) Resistance
+R= 53.032
+
+(iii) Reactance
+X = 53.032
+(iv) Power factor
+@ = 45°
+pf = cos @= cos (45°) = 0.707 (lagging)
+(v) Power loss
 --- page 6 ---
 Advantages of Bridge Rectifier
 Bridge Rectifiers are incredibly efficient when   it comes to converting
@@ -4772,6 +6314,21 @@ BL-3
 (b) the primary and secondary full-load currents, and
 (c) the maximum flux in the core.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Explanation The method of determining the load current through a given load resistance can be
+explained with the help of the following circuit.
+
+R, R3
+A
+Ro In
+B
+(a) (b)
+A A
+R3 I
+
+OB B
+(c) (4)
 --- page 9 ---
 a.   Solve to compute all mesh currents using mesh analysis.
 Assigning mesh currents,
@@ -4818,6 +6375,42 @@ BL-3
 𝑌= 𝐵+ 𝐴𝐶------ (0.5 mark)
 Implementation
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Series DC Motor
+
+A DC motor whose field winding is connected in series with the armature
+winding so that whole armature current passes through the field winding is
+called a series DC motor. Figure-2 shows the connection diagram of a
+series DC motor.
+
+1 se Zr
+
+or
+
+Figure 2 - Series DC Motor
+
+In case of a series DC motor, the field winding carries the whole armature
+current, thus it is made up of thick wire with less number of turns so that it
+possesses minimum resistance.
+
+Shunt DC Motor
+
+A DC motor whose field winding is connected in parallel with the armature
+winding so that total supply voltage is applied across it, is Known asa
+shunt DC motor. Figure-3 shows the connection diagram of a shunt DC
+motor.
+
+Ten 1,
+
++
+Ry, V,
+
+Figure 3 - Shunt DC Motor
+
+In a shunt DC motor, the shunt field winding has a large number of turns of
+thin wire so that it has high resistance, and therefore only a part of supply
+current flows through it and the rest flows through the armature winding.
 --- page 11 ---
 A —
 
@@ -4830,7 +6423,7 @@ A —
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_IT_7001/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 47.5
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -4906,6 +6499,51 @@ CO-1; SO-1;   SOLUTION:
 BL-3
 01 Mark
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The NPN Bipolar Junction Transistor
+
+In the previous tutorial we saw that the standard Bipolar Transistor or BJT, comes in two
+basic forms. An NPN (Negative-Positive-Negative) configuration and a PNP (Positive-
+Negative-Positive) configuration. That is: an NPN transistor and a PNP transistor types.
+
+The most commonly used transistor configuration is the NPN Transistor. We also learnt
+that the junctions of the bipolar transistor can be biased in one of three different ways -
+Common Base, Common Emitter and Common Collector.
+
+In this tutorial about bipolar transistors we will look more closely at the “Common
+Emitter” configuration using the Bipolar NPN Transistor with an example of the
+construction of a NPN transistor along with the transistors current flow characteristics is
+
+given below.
+
+A Bipolar NPN Transistor Configuration
+
+Circuit c
+Symbol
+
+Emitter Collector
+
+I 4 I, Ic
+
+Vee Ves
+
+Solution Step I: Calculation of Vr,
+Removing the 8 Q resistor from the network,
+1 52
+
+10.Q
+
++ =
+
+250 V——
+
+oA
++
+
+Vth
+
+OB
 --- page 4 ---
 01 Mark
 02 Marks
@@ -4966,6 +6604,25 @@ it rectifies both segments of the AC cycle to produce a supply of DC power at
 the output. This transformation holds importance for electronic devices as it
 ensures a stable and reliable source of electrical energy.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+V = 150 230° V
+T =22-15°A
+f= 50 Hz
+(i) Impedance
+= V 150230°
+Z=== = © O = 53.03 + j53,
+T 7 oz-15° 75 245° QD = 53.03 +j53.03 Q
+Z=752
+(ii) Resistance
+R= 53.032
+
+(iii) Reactance
+X = 53.032
+(iv) Power factor
+@ = 45°
+pf = cos @= cos (45°) = 0.707 (lagging)
+(v) Power loss
 --- page 6 ---
 Advantages of Bridge Rectifier
 Bridge Rectifiers are incredibly efficient when   it comes to converting
@@ -5042,6 +6699,21 @@ BL-3
 (b) the primary and secondary full-load currents, and
 (c) the maximum flux in the core.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Explanation The method of determining the load current through a given load resistance can be
+explained with the help of the following circuit.
+
+R, R3
+A
+Ro In
+B
+(a) (b)
+A A
+R3 I
+
+OB B
+(c) (4)
 --- page 9 ---
 a.   Solve to compute all mesh currents using mesh analysis.
 Assigning mesh currents,
@@ -5088,6 +6760,42 @@ BL-3
 𝑌= 𝐵+ 𝐴𝐶------ (0.5 mark)
 Implementation
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Series DC Motor
+
+A DC motor whose field winding is connected in series with the armature
+winding so that whole armature current passes through the field winding is
+called a series DC motor. Figure-2 shows the connection diagram of a
+series DC motor.
+
+1 se Zr
+
+or
+
+Figure 2 - Series DC Motor
+
+In case of a series DC motor, the field winding carries the whole armature
+current, thus it is made up of thick wire with less number of turns so that it
+possesses minimum resistance.
+
+Shunt DC Motor
+
+A DC motor whose field winding is connected in parallel with the armature
+winding so that total supply voltage is applied across it, is Known asa
+shunt DC motor. Figure-3 shows the connection diagram of a shunt DC
+motor.
+
+Ten 1,
+
++
+Ry, V,
+
+Figure 3 - Shunt DC Motor
+
+In a shunt DC motor, the shunt field winding has a large number of turns of
+thin wire so that it has high resistance, and therefore only a part of supply
+current flows through it and the rest flows through the armature winding.
 --- page 11 ---
 A —
 
@@ -5098,7 +6806,7 @@ A —
 - Departments: Mechanical
 - Programmes: BTech Mechanical 7003
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_Mechanical_7003/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
-- Text: none (FileDataError: Failed to open stream)
+- Text: none (encrypted by the portal: the file is uniformly random bytes in 16-byte cipher blocks with no PDF structure, and the archive holds no key (its own re-download got the same bytes))
 
 ## 2025-26 · Re-Exam · Sem 1 · Answer key · paper d0a7294da404
 
@@ -5107,7 +6815,7 @@ A —
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/MBATech_AI_7051/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 47.5
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -5183,6 +6891,51 @@ CO-1; SO-1;   SOLUTION:
 BL-3
 01 Mark
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The NPN Bipolar Junction Transistor
+
+In the previous tutorial we saw that the standard Bipolar Transistor or BJT, comes in two
+basic forms. An NPN (Negative-Positive-Negative) configuration and a PNP (Positive-
+Negative-Positive) configuration. That is: an NPN transistor and a PNP transistor types.
+
+The most commonly used transistor configuration is the NPN Transistor. We also learnt
+that the junctions of the bipolar transistor can be biased in one of three different ways -
+Common Base, Common Emitter and Common Collector.
+
+In this tutorial about bipolar transistors we will look more closely at the “Common
+Emitter” configuration using the Bipolar NPN Transistor with an example of the
+construction of a NPN transistor along with the transistors current flow characteristics is
+
+given below.
+
+A Bipolar NPN Transistor Configuration
+
+Circuit c
+Symbol
+
+Emitter Collector
+
+I 4 I, Ic
+
+Vee Ves
+
+Solution Step I: Calculation of Vr,
+Removing the 8 Q resistor from the network,
+1 52
+
+10.Q
+
++ =
+
+250 V——
+
+oA
++
+
+Vth
+
+OB
 --- page 4 ---
 01 Mark
 02 Marks
@@ -5243,6 +6996,25 @@ it rectifies both segments of the AC cycle to produce a supply of DC power at
 the output. This transformation holds importance for electronic devices as it
 ensures a stable and reliable source of electrical energy.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+V = 150 230° V
+T =22-15°A
+f= 50 Hz
+(i) Impedance
+= V 150230°
+Z=== = © O = 53.03 + j53,
+T 7 oz-15° 75 245° QD = 53.03 +j53.03 Q
+Z=752
+(ii) Resistance
+R= 53.032
+
+(iii) Reactance
+X = 53.032
+(iv) Power factor
+@ = 45°
+pf = cos @= cos (45°) = 0.707 (lagging)
+(v) Power loss
 --- page 6 ---
 Advantages of Bridge Rectifier
 Bridge Rectifiers are incredibly efficient when   it comes to converting
@@ -5319,6 +7091,21 @@ BL-3
 (b) the primary and secondary full-load currents, and
 (c) the maximum flux in the core.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Explanation The method of determining the load current through a given load resistance can be
+explained with the help of the following circuit.
+
+R, R3
+A
+Ro In
+B
+(a) (b)
+A A
+R3 I
+
+OB B
+(c) (4)
 --- page 9 ---
 a.   Solve to compute all mesh currents using mesh analysis.
 Assigning mesh currents,
@@ -5365,6 +7152,42 @@ BL-3
 𝑌= 𝐵+ 𝐴𝐶------ (0.5 mark)
 Implementation
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Series DC Motor
+
+A DC motor whose field winding is connected in series with the armature
+winding so that whole armature current passes through the field winding is
+called a series DC motor. Figure-2 shows the connection diagram of a
+series DC motor.
+
+1 se Zr
+
+or
+
+Figure 2 - Series DC Motor
+
+In case of a series DC motor, the field winding carries the whole armature
+current, thus it is made up of thick wire with less number of turns so that it
+possesses minimum resistance.
+
+Shunt DC Motor
+
+A DC motor whose field winding is connected in parallel with the armature
+winding so that total supply voltage is applied across it, is Known asa
+shunt DC motor. Figure-3 shows the connection diagram of a shunt DC
+motor.
+
+Ten 1,
+
++
+Ry, V,
+
+Figure 3 - Shunt DC Motor
+
+In a shunt DC motor, the shunt field winding has a large number of turns of
+thin wire so that it has high resistance, and therefore only a part of supply
+current flows through it and the rest flows through the armature winding.
 --- page 11 ---
 A —
 
@@ -5377,7 +7200,7 @@ A —
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/MBATech_DS_7052/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 47.5
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -5453,6 +7276,51 @@ CO-1; SO-1;   SOLUTION:
 BL-3
 01 Mark
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The NPN Bipolar Junction Transistor
+
+In the previous tutorial we saw that the standard Bipolar Transistor or BJT, comes in two
+basic forms. An NPN (Negative-Positive-Negative) configuration and a PNP (Positive-
+Negative-Positive) configuration. That is: an NPN transistor and a PNP transistor types.
+
+The most commonly used transistor configuration is the NPN Transistor. We also learnt
+that the junctions of the bipolar transistor can be biased in one of three different ways -
+Common Base, Common Emitter and Common Collector.
+
+In this tutorial about bipolar transistors we will look more closely at the “Common
+Emitter” configuration using the Bipolar NPN Transistor with an example of the
+construction of a NPN transistor along with the transistors current flow characteristics is
+
+given below.
+
+A Bipolar NPN Transistor Configuration
+
+Circuit c
+Symbol
+
+Emitter Collector
+
+I 4 I, Ic
+
+Vee Ves
+
+Solution Step I: Calculation of Vr,
+Removing the 8 Q resistor from the network,
+1 52
+
+10.Q
+
++ =
+
+250 V——
+
+oA
++
+
+Vth
+
+OB
 --- page 4 ---
 01 Mark
 02 Marks
@@ -5513,6 +7381,25 @@ it rectifies both segments of the AC cycle to produce a supply of DC power at
 the output. This transformation holds importance for electronic devices as it
 ensures a stable and reliable source of electrical energy.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+V = 150 230° V
+T =22-15°A
+f= 50 Hz
+(i) Impedance
+= V 150230°
+Z=== = © O = 53.03 + j53,
+T 7 oz-15° 75 245° QD = 53.03 +j53.03 Q
+Z=752
+(ii) Resistance
+R= 53.032
+
+(iii) Reactance
+X = 53.032
+(iv) Power factor
+@ = 45°
+pf = cos @= cos (45°) = 0.707 (lagging)
+(v) Power loss
 --- page 6 ---
 Advantages of Bridge Rectifier
 Bridge Rectifiers are incredibly efficient when   it comes to converting
@@ -5589,6 +7476,21 @@ BL-3
 (b) the primary and secondary full-load currents, and
 (c) the maximum flux in the core.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Explanation The method of determining the load current through a given load resistance can be
+explained with the help of the following circuit.
+
+R, R3
+A
+Ro In
+B
+(a) (b)
+A A
+R3 I
+
+OB B
+(c) (4)
 --- page 9 ---
 a.   Solve to compute all mesh currents using mesh analysis.
 Assigning mesh currents,
@@ -5635,6 +7537,42 @@ BL-3
 𝑌= 𝐵+ 𝐴𝐶------ (0.5 mark)
 Implementation
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Series DC Motor
+
+A DC motor whose field winding is connected in series with the armature
+winding so that whole armature current passes through the field winding is
+called a series DC motor. Figure-2 shows the connection diagram of a
+series DC motor.
+
+1 se Zr
+
+or
+
+Figure 2 - Series DC Motor
+
+In case of a series DC motor, the field winding carries the whole armature
+current, thus it is made up of thick wire with less number of turns so that it
+possesses minimum resistance.
+
+Shunt DC Motor
+
+A DC motor whose field winding is connected in parallel with the armature
+winding so that total supply voltage is applied across it, is Known asa
+shunt DC motor. Figure-3 shows the connection diagram of a shunt DC
+motor.
+
+Ten 1,
+
++
+Ry, V,
+
+Figure 3 - Shunt DC Motor
+
+In a shunt DC motor, the shunt field winding has a large number of turns of
+thin wire so that it has high resistance, and therefore only a part of supply
+current flows through it and the rest flows through the armature winding.
 --- page 11 ---
 A —
 
@@ -5647,7 +7585,7 @@ A —
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/MBATech_IT_7041/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: mixed (11 pages), mean OCR confidence 47.5
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -5723,6 +7661,51 @@ CO-1; SO-1;   SOLUTION:
 BL-3
 01 Mark
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The NPN Bipolar Junction Transistor
+
+In the previous tutorial we saw that the standard Bipolar Transistor or BJT, comes in two
+basic forms. An NPN (Negative-Positive-Negative) configuration and a PNP (Positive-
+Negative-Positive) configuration. That is: an NPN transistor and a PNP transistor types.
+
+The most commonly used transistor configuration is the NPN Transistor. We also learnt
+that the junctions of the bipolar transistor can be biased in one of three different ways -
+Common Base, Common Emitter and Common Collector.
+
+In this tutorial about bipolar transistors we will look more closely at the “Common
+Emitter” configuration using the Bipolar NPN Transistor with an example of the
+construction of a NPN transistor along with the transistors current flow characteristics is
+
+given below.
+
+A Bipolar NPN Transistor Configuration
+
+Circuit c
+Symbol
+
+Emitter Collector
+
+I 4 I, Ic
+
+Vee Ves
+
+Solution Step I: Calculation of Vr,
+Removing the 8 Q resistor from the network,
+1 52
+
+10.Q
+
++ =
+
+250 V——
+
+oA
++
+
+Vth
+
+OB
 --- page 4 ---
 01 Mark
 02 Marks
@@ -5783,6 +7766,25 @@ it rectifies both segments of the AC cycle to produce a supply of DC power at
 the output. This transformation holds importance for electronic devices as it
 ensures a stable and reliable source of electrical energy.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+V = 150 230° V
+T =22-15°A
+f= 50 Hz
+(i) Impedance
+= V 150230°
+Z=== = © O = 53.03 + j53,
+T 7 oz-15° 75 245° QD = 53.03 +j53.03 Q
+Z=752
+(ii) Resistance
+R= 53.032
+
+(iii) Reactance
+X = 53.032
+(iv) Power factor
+@ = 45°
+pf = cos @= cos (45°) = 0.707 (lagging)
+(v) Power loss
 --- page 6 ---
 Advantages of Bridge Rectifier
 Bridge Rectifiers are incredibly efficient when   it comes to converting
@@ -5859,6 +7861,21 @@ BL-3
 (b) the primary and secondary full-load currents, and
 (c) the maximum flux in the core.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Explanation The method of determining the load current through a given load resistance can be
+explained with the help of the following circuit.
+
+R, R3
+A
+Ro In
+B
+(a) (b)
+A A
+R3 I
+
+OB B
+(c) (4)
 --- page 9 ---
 a.   Solve to compute all mesh currents using mesh analysis.
 Assigning mesh currents,
@@ -5905,6 +7922,42 @@ BL-3
 𝑌= 𝐵+ 𝐴𝐶------ (0.5 mark)
 Implementation
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Series DC Motor
+
+A DC motor whose field winding is connected in series with the armature
+winding so that whole armature current passes through the field winding is
+called a series DC motor. Figure-2 shows the connection diagram of a
+series DC motor.
+
+1 se Zr
+
+or
+
+Figure 2 - Series DC Motor
+
+In case of a series DC motor, the field winding carries the whole armature
+current, thus it is made up of thick wire with less number of turns so that it
+possesses minimum resistance.
+
+Shunt DC Motor
+
+A DC motor whose field winding is connected in parallel with the armature
+winding so that total supply voltage is applied across it, is Known asa
+shunt DC motor. Figure-3 shows the connection diagram of a shunt DC
+motor.
+
+Ten 1,
+
++
+Ry, V,
+
+Figure 3 - Shunt DC Motor
+
+In a shunt DC motor, the shunt field winding has a large number of turns of
+thin wire so that it has high resistance, and therefore only a part of supply
+current flows through it and the rest flows through the armature winding.
 --- page 11 ---
 A —
 
@@ -5917,6 +7970,7 @@ A —
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_Computer_7002/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Jul 2026
 - Text: mixed (16 pages), mean OCR confidence 78.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -6037,6 +8091,26 @@ Analyze an AC Series RL Circuit by using circuit diagram, phasor diagram,
 CO-2; SO-1;   Voltage Triangle, Impedance Triangle, Power triangle, Waveform of [10]
 BL-4   Voltage and current.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Solution S= 50 Hz
+N, = 80
+N2 = 280
+Vv, = 240V
+A = 200 cm? = 200 x 104 m?
+@ Maximum flux density in the core
+For a transformer,
+V, = E,=240V
+Ey = 444 f>,N,=444S Bm AN,
+By,= 0.68 W/m?
+Gi) Induced emf in the secondary
+
+Ez _ N2
+zy MN
+E, _ 280
+240 80
+
+E, = 840 V
 --- page 6 ---
 𝑉= RMS Value of the applied voltage
 𝐼 = RMS Value of the resultant current
@@ -6294,6 +8368,39 @@ BL-3   𝐹= (𝐴′ + 𝐵′)(𝐴′ + 𝐵) + 𝐵𝐶
 𝐹= 𝐴′ + 𝐴′ + 𝐵𝐶
 𝐹= 𝐴′ + 𝐵𝐶
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Ry Ry
+
+v> SR SR Or
+
+Fig. 2.261 Superposition theorem
+
+2.8.1 Steps to be followed in Superposition Theorem
+1. Find the current /4, flowing through R, due to independent voltage source ‘V’,
+representing independent current source with infinite resistance, i.e., open circuit.
+
+Ry R3
+AWA WW
+
+Té
+
+v= Re Ry
+
+Fig. 2.262 Step1
+
+2. Find the current // flowing through R, due to independent current source ‘J’,
+representing the independent voltage source with zero resistance or short circuit.
+
+R, Rs
+AWA AWN
+
+SR Sra @:
+
+Fig. 2.263 Step 2
+
+3. Find the resultant current J, through R, by the superposition theorem.
+L=1+ly
 --- page 16 ---
 A [>
 
@@ -6323,6 +8430,7 @@ ARR AK 7] 6 RK RK KK
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_Mechatronics_7004/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Jul 2026
 - Text: mixed (16 pages), mean OCR confidence 78.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -6443,6 +8551,26 @@ Analyze an AC Series RL Circuit by using circuit diagram, phasor diagram,
 CO-2; SO-1;   Voltage Triangle, Impedance Triangle, Power triangle, Waveform of [10]
 BL-4   Voltage and current.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Solution S= 50 Hz
+N, = 80
+N2 = 280
+Vv, = 240V
+A = 200 cm? = 200 x 104 m?
+@ Maximum flux density in the core
+For a transformer,
+V, = E,=240V
+Ey = 444 f>,N,=444S Bm AN,
+By,= 0.68 W/m?
+Gi) Induced emf in the secondary
+
+Ez _ N2
+zy MN
+E, _ 280
+240 80
+
+E, = 840 V
 --- page 6 ---
 𝑉= RMS Value of the applied voltage
 𝐼 = RMS Value of the resultant current
@@ -6700,6 +8828,39 @@ BL-3   𝐹= (𝐴′ + 𝐵′)(𝐴′ + 𝐵) + 𝐵𝐶
 𝐹= 𝐴′ + 𝐴′ + 𝐵𝐶
 𝐹= 𝐴′ + 𝐵𝐶
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Ry Ry
+
+v> SR SR Or
+
+Fig. 2.261 Superposition theorem
+
+2.8.1 Steps to be followed in Superposition Theorem
+1. Find the current /4, flowing through R, due to independent voltage source ‘V’,
+representing independent current source with infinite resistance, i.e., open circuit.
+
+Ry R3
+AWA WW
+
+Té
+
+v= Re Ry
+
+Fig. 2.262 Step1
+
+2. Find the current // flowing through R, due to independent current source ‘J’,
+representing the independent voltage source with zero resistance or short circuit.
+
+R, Rs
+AWA AWN
+
+SR Sra @:
+
+Fig. 2.263 Step 2
+
+3. Find the resultant current J, through R, by the superposition theorem.
+L=1+ly
 --- page 16 ---
 A [>
 
@@ -6729,7 +8890,7 @@ ARR AK 7] 6 RK RK KK
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_AIML_7053/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
 - Text: mixed (19 pages), mean OCR confidence 83.9
-- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -6787,6 +8948,49 @@ Special Purpose Gates- EX-OR, EX-NOR   1 Mark.
 .   (Attempt Any 4 Questions)   80
 1.   20
 Page 3 of 19
+
+[Text in pictures on this page, read by OCR]
+Core Type Shell Type
+
+The winding encircles the core. The core encircles most part of the winding.
+
+It has single magnetic circuit. It has a double magnetic circuit.
+
+The core has two limbs. The core has three limbs.
+
+The cylindrical coils are used. The muliiayer disc or sandwich type coils are
+used,
+
+The windings are uniformly distributed on two} The natural cooling does not exist as the
+limbs hence natural cooling is effective. windings are surrounded by the core.
+
+The coils can be easily removed from| The coils can not be removed easily.
+maintenance point of view.
+
+Anode
+
+cone he ay
+
+Vin nN = Vee
+gi Bi TT
+K E
+Cathode
+Isolating Optocoupler LED Driving a Phototransistor
+
+Correct Diagram: 2 marks
+Explanation in short: 2 marks
+
+An Optocoupler is a combination of LED and a Photo-diode packed in a single package. In the below circuit
+diagram, when a high voltage appears across the input side of the Optocoupler, a current start to flow through the
+Due to this current LED will emit light. This emitted light when falls on a phototransistor cause a current to flow
+through the same. The current flowing through the phototransistor is directly proportional to the supplied input
+voltage. An input resistance placed at the beginning of the circuit will decrease the amount of current flowing
+through the LED if its value is increased. As the LED glows due to this current, hence, when current will be low
+so as the light intensity of LED. The intensity of emitted light by the LED will be equal to the corresponding
+current flowing through the phototransistor. This means that the low-intensity light emitted by the LED will cause
+a low-level current to flow through the phototransistor. Thus a changing voltage is generated across the collector-
+emitter terminal of the transistor. In this way, an incoming signal from the input circuit is coupled to the output
+circuit.
 --- page 4 ---
 1. Solution: For simplicity, the circuit shown in Fig. above can be redrawn as shown in   10
 Fig. below
@@ -6912,6 +9116,37 @@ marks, relation of line and phase current in star and delta 1.5+1.5 marks
 3.   20
 10
 Page 9 of 19
+
+[Text in pictures on this page, read by OCR]
+Relation between phase and line voltages and phase and line currents in Delta
+connections
+
+Since the system is balanced the three phase voltage IRY , IYB, IBR are equal in
+magnitude and differ in phase from one another by 120 degree
+
+
+IR=IY=IB=IL ,
+WRY=VYB=VBREVL
+- ; Ie ®
+Ver ft
+Yo t ‘nt Zz a
+1 Vow io
+Ve | lb
+B i 8 rz I y
+ty le
+
+Fig 7: Three phase delta connected load[1)
+
+Relation between Line voltage and Phase voltage:
+
+From fig 7 itis clear that the line voltage is equal to phase voltage
+VL=Vph
+
+Relation between line current and Phase current
+
+In delta connection line current is root 3 times of phase current.
+
+Line Current = V3 x Phase Current
 --- page 10 ---
 1. 2 marks for each of the parameter.
 2. A Zener diode is a special kind of diode that permits current to flow in a forward   10
@@ -6929,6 +9164,29 @@ relatively constant.
 -------------------------------------(3 Marks)
 The following Fig.1 shows the V-I characteristics of the Zener diode.
 Page 10 of 19
+
+[Text in pictures on this page, read by OCR]
+Data: e¢ = 100 sin (wt + 30°)
+j = 15 sin (wt + 60°
+
+= _ 100
+E =-— 430°V
+¥
+
+[ = A 5 60° A
+100 / a2
+
+EF v2
+Fs + -+5 = 6.67 2-30° = §.77-)3.33Q
+oe
+
+Zz « 6679
+R = 5779
+Ke * 333.9
+- sk Wee = 0.866 (leading)
+
+pa Vicose = 1 x 18 0.866 » 6495
+v2 ¥2"
 --- page 11 ---
 Fig.1
 1 Mark for forward bias characteristics, and 1 mark for reverse bias characteristics------
@@ -6938,6 +9196,29 @@ Fig.2
 ---------------------------------------------------------------------------------------------------------
 -------------------------------------(2 Marks)
 Page 11 of 19
+
+[Text in pictures on this page, read by OCR]
++I;
+
+Forward
+Current
+Forward
+Bias
+Region
+Reverse Bias |“
+Sn od
+VR «<@ pe Ve
+I a eo Forward Bias
+Zimin) Vv
+e
+0.3 -0.7v
+“Zener” Breakdown
+Region
+Iz; naxy
+v Reverse
+Constant Current
+
+Zener Voltage R
 --- page 12 ---
 A voltage regulator is an electronic circuit that provides a stable DC voltage
 independent of the load current, temperature and AC line voltage variations. A Zener
@@ -7004,6 +9285,18 @@ path is zero. 2M
 Method to solve the circuit:   4
 M
 Page 14 of 19
+
+[Text in pictures on this page, read by OCR]
+For Difference (d) For Borrow (b)
+B B
+
+a 0 I — 0 I
+0} 0 @) o| 0 (1)
+0 I 0
+1] 21 0 1] 0 0
+Ly 5 ,
+
+d=A'B + AB' b=A'B
 --- page 15 ---
 1. Assume unknown currents in the given circuit and show their direction by arrows.
 2. Choose any closed circuit and find the algebraic sum of voltage drops in that loop.
@@ -7067,6 +9360,55 @@ construction explanation- 5 marks
 any 1 diagram of transformer/core-type/shell-type- 2 marks
 3. Multiply   6
 Page 18 of 19
+
+[Text in pictures on this page, read by OCR]
+Fig. 1. Tero winding transformer.
+
+TRANSFORMER CONSTRUCTION
+
+All transformers have the following essential elements :
+
+|. Two or more electrical windings insulated from each other and from the core (except in auto-transformers).
+
+2. A core, which in case of a single-phase distribution transformers usually comprises cold rolled silicon-steel strip.
+
+The flux path in the assembled core is parallel to the directions of steel’s grain of ‘orientation’.
+
+This results in a reduction in core losses for a given flux density and frequency, or it permits the use of higher core densities
+and reduced size of transformers for given core losses.
+
+‘Other necessary parts are :
+
+A suitable container for the assembled core and windings.
+
+A suitable medium for insulating the core and its windings from each other and from the container,
+
+Suitable bushings for insulating and bringing the terminals of the windings out of the case.
+The two basic types of transformer construction are:
+
+1. The core type.
+2. The shell type.
+The above two types differ in their relative arrangements of copper conductors and the iron cores. In the ‘core type’, the
+copper virtually surrounds the iron core, while in the ‘shell type’, the iron surrounds the copper winding.
+
+1, Core Type Transformer
+The complete magnetic circuit of the core-type transformer is in the shape of the hollow rectangle, as shown in Fig, 2 in
+which Ip is the no-load current and $ is the flux produced by it, N; and N2 are the number of turns on the primary and
+
+secondary sides respectively.
+
+Fig. 2. Magnetic circuit of a core-type transformer.
+
+The core is made of silicon-steel laminations, which are, either rectangular or L-shaped. With the coils wound on two legs,
+ithe appearance is that of Fig. 3.
+
+c—
+Primary and — — Primary ane
+secondary —— — ‘secondary
+colts eoils
+|
+
+Fig. 3. Core-type transformer.
 --- page 19 ---
 = (AA'+AC+BA'+BC) (B+C')
 =AA'. B+AC.B+BA' B+BC. B+ AA'. C+AC. C'+BA'. C'+BC .C'
@@ -7092,7 +9434,7 @@ Page 19 of 19
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_AI_7012/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
 - Text: mixed (19 pages), mean OCR confidence 83.9
-- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -7150,6 +9492,49 @@ Special Purpose Gates- EX-OR, EX-NOR   1 Mark.
 .   (Attempt Any 4 Questions)   80
 1.   20
 Page 3 of 19
+
+[Text in pictures on this page, read by OCR]
+Core Type Shell Type
+
+The winding encircles the core. The core encircles most part of the winding.
+
+It has single magnetic circuit. It has a double magnetic circuit.
+
+The core has two limbs. The core has three limbs.
+
+The cylindrical coils are used. The muliiayer disc or sandwich type coils are
+used,
+
+The windings are uniformly distributed on two} The natural cooling does not exist as the
+limbs hence natural cooling is effective. windings are surrounded by the core.
+
+The coils can be easily removed from| The coils can not be removed easily.
+maintenance point of view.
+
+Anode
+
+cone he ay
+
+Vin nN = Vee
+gi Bi TT
+K E
+Cathode
+Isolating Optocoupler LED Driving a Phototransistor
+
+Correct Diagram: 2 marks
+Explanation in short: 2 marks
+
+An Optocoupler is a combination of LED and a Photo-diode packed in a single package. In the below circuit
+diagram, when a high voltage appears across the input side of the Optocoupler, a current start to flow through the
+Due to this current LED will emit light. This emitted light when falls on a phototransistor cause a current to flow
+through the same. The current flowing through the phototransistor is directly proportional to the supplied input
+voltage. An input resistance placed at the beginning of the circuit will decrease the amount of current flowing
+through the LED if its value is increased. As the LED glows due to this current, hence, when current will be low
+so as the light intensity of LED. The intensity of emitted light by the LED will be equal to the corresponding
+current flowing through the phototransistor. This means that the low-intensity light emitted by the LED will cause
+a low-level current to flow through the phototransistor. Thus a changing voltage is generated across the collector-
+emitter terminal of the transistor. In this way, an incoming signal from the input circuit is coupled to the output
+circuit.
 --- page 4 ---
 1. Solution: For simplicity, the circuit shown in Fig. above can be redrawn as shown in   10
 Fig. below
@@ -7275,6 +9660,37 @@ marks, relation of line and phase current in star and delta 1.5+1.5 marks
 3.   20
 10
 Page 9 of 19
+
+[Text in pictures on this page, read by OCR]
+Relation between phase and line voltages and phase and line currents in Delta
+connections
+
+Since the system is balanced the three phase voltage IRY , IYB, IBR are equal in
+magnitude and differ in phase from one another by 120 degree
+
+
+IR=IY=IB=IL ,
+WRY=VYB=VBREVL
+- ; Ie ®
+Ver ft
+Yo t ‘nt Zz a
+1 Vow io
+Ve | lb
+B i 8 rz I y
+ty le
+
+Fig 7: Three phase delta connected load[1)
+
+Relation between Line voltage and Phase voltage:
+
+From fig 7 itis clear that the line voltage is equal to phase voltage
+VL=Vph
+
+Relation between line current and Phase current
+
+In delta connection line current is root 3 times of phase current.
+
+Line Current = V3 x Phase Current
 --- page 10 ---
 1. 2 marks for each of the parameter.
 2. A Zener diode is a special kind of diode that permits current to flow in a forward   10
@@ -7292,6 +9708,29 @@ relatively constant.
 -------------------------------------(3 Marks)
 The following Fig.1 shows the V-I characteristics of the Zener diode.
 Page 10 of 19
+
+[Text in pictures on this page, read by OCR]
+Data: e¢ = 100 sin (wt + 30°)
+j = 15 sin (wt + 60°
+
+= _ 100
+E =-— 430°V
+¥
+
+[ = A 5 60° A
+100 / a2
+
+EF v2
+Fs + -+5 = 6.67 2-30° = §.77-)3.33Q
+oe
+
+Zz « 6679
+R = 5779
+Ke * 333.9
+- sk Wee = 0.866 (leading)
+
+pa Vicose = 1 x 18 0.866 » 6495
+v2 ¥2"
 --- page 11 ---
 Fig.1
 1 Mark for forward bias characteristics, and 1 mark for reverse bias characteristics------
@@ -7301,6 +9740,29 @@ Fig.2
 ---------------------------------------------------------------------------------------------------------
 -------------------------------------(2 Marks)
 Page 11 of 19
+
+[Text in pictures on this page, read by OCR]
++I;
+
+Forward
+Current
+Forward
+Bias
+Region
+Reverse Bias |“
+Sn od
+VR «<@ pe Ve
+I a eo Forward Bias
+Zimin) Vv
+e
+0.3 -0.7v
+“Zener” Breakdown
+Region
+Iz; naxy
+v Reverse
+Constant Current
+
+Zener Voltage R
 --- page 12 ---
 A voltage regulator is an electronic circuit that provides a stable DC voltage
 independent of the load current, temperature and AC line voltage variations. A Zener
@@ -7367,6 +9829,18 @@ path is zero. 2M
 Method to solve the circuit:   4
 M
 Page 14 of 19
+
+[Text in pictures on this page, read by OCR]
+For Difference (d) For Borrow (b)
+B B
+
+a 0 I — 0 I
+0} 0 @) o| 0 (1)
+0 I 0
+1] 21 0 1] 0 0
+Ly 5 ,
+
+d=A'B + AB' b=A'B
 --- page 15 ---
 1. Assume unknown currents in the given circuit and show their direction by arrows.
 2. Choose any closed circuit and find the algebraic sum of voltage drops in that loop.
@@ -7430,6 +9904,55 @@ construction explanation- 5 marks
 any 1 diagram of transformer/core-type/shell-type- 2 marks
 3. Multiply   6
 Page 18 of 19
+
+[Text in pictures on this page, read by OCR]
+Fig. 1. Tero winding transformer.
+
+TRANSFORMER CONSTRUCTION
+
+All transformers have the following essential elements :
+
+|. Two or more electrical windings insulated from each other and from the core (except in auto-transformers).
+
+2. A core, which in case of a single-phase distribution transformers usually comprises cold rolled silicon-steel strip.
+
+The flux path in the assembled core is parallel to the directions of steel’s grain of ‘orientation’.
+
+This results in a reduction in core losses for a given flux density and frequency, or it permits the use of higher core densities
+and reduced size of transformers for given core losses.
+
+‘Other necessary parts are :
+
+A suitable container for the assembled core and windings.
+
+A suitable medium for insulating the core and its windings from each other and from the container,
+
+Suitable bushings for insulating and bringing the terminals of the windings out of the case.
+The two basic types of transformer construction are:
+
+1. The core type.
+2. The shell type.
+The above two types differ in their relative arrangements of copper conductors and the iron cores. In the ‘core type’, the
+copper virtually surrounds the iron core, while in the ‘shell type’, the iron surrounds the copper winding.
+
+1, Core Type Transformer
+The complete magnetic circuit of the core-type transformer is in the shape of the hollow rectangle, as shown in Fig, 2 in
+which Ip is the no-load current and $ is the flux produced by it, N; and N2 are the number of turns on the primary and
+
+secondary sides respectively.
+
+Fig. 2. Magnetic circuit of a core-type transformer.
+
+The core is made of silicon-steel laminations, which are, either rectangular or L-shaped. With the coils wound on two legs,
+ithe appearance is that of Fig. 3.
+
+c—
+Primary and — — Primary ane
+secondary —— — ‘secondary
+colts eoils
+|
+
+Fig. 3. Core-type transformer.
 --- page 19 ---
 = (AA'+AC+BA'+BC) (B+C')
 =AA'. B+AC.B+BA' B+BC. B+ AA'. C+AC. C'+BA'. C'+BC .C'
@@ -7455,6 +9978,7 @@ Page 19 of 19
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_CSE_DS_7011/Basics of Electrical and Electronics Engineering/ANS_Basics of Electrical and Electronics Engineering(702EX0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Dec 2024
 - Text: mixed (16 pages), mean OCR confidence 79.8
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -7494,6 +10018,15 @@ CO-3; SO-   c   Compare Ideal and Practical Transformer.   [4]
 1 ; BL-2   Any valid 4 points carry 4M
 Ans:
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+The number cycles / second 1s called the frequency of the A.C. quantity.
+[=PN } 20 where N = revolutions in rpm and_P= number of poles.
+
+For example an alternator having 20 poles and running at 300 rpm will generate A.C. voltage and current
+}
+| 20x300 y
+whose frequency isf= 120 =S0Hz&f=/T.
 --- page 3 ---
 CO-4; SO- d   Explain Zener diode as a voltage regulator.   [4]
 1 ; BL-2   Diagram 2M Explanation 2M
@@ -7506,6 +10039,68 @@ CO-1; SO-   through 3 Ω resistor.
 Ans: Three Mesh equations 2M each. Three mesh currents each 1M. Current
 through 3 Ω resistor 1M.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Ideal Transformer Practical Transformer
+
+It has 100% efficiency. It has 100% below efficiency.
+
+It has no losses. Ithas losses.
+
+Purely inductive material is used. It is too purely inductive material used.
+Ithas no FR losses. Ithas FR losses.
+
+It has no iron loss. Tt has iron loss.
+
+There is no ohmic resistance drop. There is ohmic resistance drop.
+
+Ithas no leakage drop Ithas leakage drop.
+
+Init ideal condition. Init practical condition.
+
+It is not used in practical condition. It is used in practical condition.
+
+The simplest shunt voltage
+regulator circuit uses a zener diode.
+to regulate the load voltage. The
+Fig. 1.83 shows the arrangement of
+zener diode in a regulator circuit.
+
+Fig. 1.83 Zener diode as a shunt regulator
+
+‘ To understand the working of the
+
+iow Sat = was Exit sea Wk
+
+Forward binsed Gheracterietice of a sener diode, se
+—aen shown in the Fig. 1.84.
+
+v The zener diode is used in it
+
+reveres ‘biased region. Under reverse
+
+5 biased condition, the current trough
+
+7, Seealars tneeialier: the diode is very small of the order
+
+
+live oubicient reverse blab’ is epption)
+
+Fig. 1.84 V4 charactertatics of zener diede —clectrical. breakdown of the sener
+
+Giode occurs, The large current flows
+
+through the sener'diods. Such @ bronkdown oocus at a voltage called waner voliage Va.
+
+Under this condition, whatever may be the . the voltage the zener is
+equal to Vz. The large current due to brea! is by ing the resi in
+the circuit.
+
+As the voltage across the zener diode remains constant equal to Vz. it is connected
+across the load and hence the load voltage V., is equal to the zener voltage Vz. Thus zener
+diode acts as an ideal which a load Be.
+
+of the current.
 --- page 4 ---
 Current through 3 Ω resistor is I2-I3= 3.65 - (-2.01) = 5.66A
 Q2   b   i)   List any four advantages of Three Phase Power Supply System over Single   [2+8]
@@ -7524,6 +10119,47 @@ voltage and current waveforms 2M
 Impedance equation 1M
 Phasor diagram 1M
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Applying KVL to mesh CDGFC,
+
+—(b- h) - 3(k- 8) + 25-2b =0
+h = 6l2 + 3ls = -25 ()
+
+Applying KVL to mesh CDGFC,
+
+-19-B - 3(3- h)=0
+3h - 413 =19 Wi)
+
+The values of Ii, I and Is can be found by solving the above three simultaneous equations,
+Ir = 2.95A
+
+Th = 3.654
+13 =-2.01A
+
+1. To transmit a specific power over a specific distance at a given rated voltage, a three phase system
+needs less conductor material as compared to the single phase system.
+
+2. The size of a three phase system operated machine is less than the machine operated at single phase
+voltage having the same output rating.
+3. In a three phase power supply system, the less voltage drop occurs from source to the load points,
+
+4. A three phase supply produces uniform rotating magnetic field therefore, three phase motors are
+simpler in construction, small in size and can be started automatically with smooth operation.
+
+5. A polyphase system produces power at a constant rate in the load.
+6. Athree phase system can transmit more power as compared to a single phase system
+
+7. The efficiency of three phase operated devices and appliances is higher than the single phase
+operated machines.
+
+8. Three phase machines are less costly and more efficient
+
+9. A three phase system provides constant power while a single phase system provides pulsating power
+which leads to a smooth and vibration free operation of a 3-b machine as compared to the 1-6
+machines with noise and vibration
+
+10. The output rating of machines can be increased by increasing the number of phases in a system.
 --- page 5 ---
 power triangle 1M
 a   An alternating voltage of time period 0.02sec has maximum value of 12V. Write   [10]
@@ -7545,6 +10181,37 @@ Q3
 CO-3; SO-
 1; BL-2
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+(i) Yoke _ Itis the outermost cylindrical part which serves two purposes. First, it acts as a supporting frame
+for the machine, and second, it provides a path for the magnetic flux. It is made of cast iron, cast steel, or
+forged steel. Usually, small machines have cast-iron yokes.
+
+(ii) Poles The machine has salient poles. The pole cores are fixed inside the yoke, usually by bolts. The
+cross section of the pole core is rectangular. By attaching a pole shoe, the end of the pole is made to have a
+cylindrical surface. The cross-sectional area of the pole shoe is considerably larger than that of the pole core
+to leave as little inter-pole space as possible. This is done to reduce the leakage flux. The poles are made
+of cast steel, or forged steel. Each pole carries a field coil (or exciting coil). Small machines generally use
+permanent magnets.
+
+(iii) Field Coils The field coils are wound on the pole cores and are supported by the pole shoes. All
+coils are identical and are connected in series such that on excitation by a de source, alternate N and S poles
+are made. Thus, a machine always has even number of poles. The magnetic flux distribution approximates a
+square wave, as shown in Fig. 16.2 for the four-pole structure shown in Fig. 16.1. The flux is taken positive
+in the radially inward direction. Note that the yoke carries one-half of the pole flux ®. Therefore, the cross
+section of the yoke should be selected accordingly.
+
+Answer: The principle upon which a de motor works is, If a current carrying conductor
+is placed in a magnetic field, mechanical force is experienced on the conductor, the direction of which
+is given by Fleming’s left hand rule (also called motor rule) and hence the conductor moves in
+the direction of force, The magnitude of the mechanical force experienced on the conductor is given
+by
+
+F=B.LL newtons
+Where,
+Bis the flux density in tesla (Wb/m2)
+Tis the current flowing through conductor in amperes
+Lis the length of conductor in meters.
 --- page 7 ---
 Q4   a   Illustrate the generation of three phase ac circuit. Develop the relationship   [10]
 between phase and line voltages and phase and line current in Star Connection.
@@ -7554,6 +10221,38 @@ Diagram 2M explanation with equation and waveform 4M. Relationship
 diagram 1M equations 3M.
 Ans:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Rotor
+
+The rotor is the inner cylindrical part having armature and commutator-brush arrangement. It is mounted on
+the shaft of the motor.
+
+@ Armature The armature core consists of steel laminations, each about 0.4-0.6 mm thick, insulated
+from one another. The purpose of laminating the core is to reduce the eddy-current loss. Slots are stamped on
+the periphery of the laminations to accommodate the armature winding. The top of the slot has a groove in
+which a wedge can be fixed. After the winding conductors are put into the slots, the wedge is inserted. The
+wedge prevents the conductors from flying out due to the centrifugal force when the armature rotates. The
+axial length of the armature is the same as that of the poles on the yoke. The term conductor refers to the
+active portion of the winding, namely that part which cuts the flux when the rotor rotates, thereby generating
+an alternating emf.
+
+(i) Commutator It consists of a large number of wedge-shaped copper segments or bars, assembled
+side by side to form a ring. The segments are insulated from one another by thin mica sheets. Each segment
+connected to a coil-end of the armature winding, as shown schematically in Fig. 16.3. The radial lines
+represent the active lengths of the rotor conductors. The commutator is a part of the rotor and participates in
+its rotation.
+
+A system which generates a single alternating voltage and current is termed a
+single phase system. It utilises only one winding. A polyphaser system utilises more
+than one winding. It will produce as many induced voltages as the number of
+windings [1].
+
+A three phase system consists of three separate but identical windings that are
+displaced by 120 degrees from each other, When these three windings are rotated
+in an anticlockwise direction with constant angular velocity in a uniform magnetic
+field, the emfs are induced in each winding which have the same magnitude and
+frequency but displaced 120 degrees from one another [1).
 --- page 8 ---
 Q4   b   Summarize the working of Full Wave Bridge Rectifier with a neat sketch of the   [10]
 circuit and waveforms.
@@ -7562,6 +10261,32 @@ Diagram 2M waveforms 3M working 5M
 1; BL- 2
 Ans:
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Relation between phase and line voltages and phase and line currents in star
+connections
+
+Since the system is balanced the three phase voltage VRN , VYN, VBN are equal in
+magnitude and differ in phase from one another by 120 degree
+
+IR=!Y=IB=IL ,
+
+VRY=VYB=VBR=VL
+
+Fig 6: Three phase start connected load[1]
+
+Relation between Line current and Phase current:
+
+From fig 6 it is clear that the same current flow through phase winding as well as in
+the line conductor as it is connected in series with the phase winding, Hence, in a3
+Phase system of star connections, the line current is equal to phase current,
+
+ILelph
+Relation between line voltage and Phase voltage
+
+In star connection line voltage is root 3 times of phase voltage,
+
+Line voltage = V3 x Phase voltage
 --- page 9 ---
 1.20 Bridge Rectifier
 The bridge rectifier circuits are mainly used as,
@@ -7638,6 +10363,25 @@ The input of an op amp is a differential amplifier therefore has 2 inputs.
 The output is singled ended.
 Typically configured for a dual power supply (+/_V)
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+(ii) | Non-inverting operational amplifier
+
+The op amp has two input terminals (pins). One is inverting denoted with a minus sign (-), and
+other is non-inverting denoted with a positive sign (+).
+
+‘When we apply any signal to the non — inverting input, it does not change its polarity when it
+gets amplified at the output terminal.
+
+So, in that case, the gain of the amplifier is always positive.
+
+The closed vn of the circuit is,
+
+Ae(1+R//Ri)
+This term does not contain any negative parts, Hence, it proves that the input signal to the
+circuit gets amplified without changing its polarity at the output.
+Input and output signals 0° phase shift when the input signal is applied to the Non-inverting (+)
+terminal. The output is amplified but not inverted.
 --- page 11 ---
 Q5   b   Prove that NAND gate is a universal gate.   [10]
 NOT implementation 3M AND implementation 3M OR implementation 4M
@@ -7687,6 +10431,63 @@ Q6
 CO-1; SO-
 1; BL-5
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Solution
+
+Step I:
+Considering 10 V_ source 19
+
+acting alone, replacing 8 V source AWW i]
+
+and 12 V source by short circuit, we |
+
+obtain circuit as shown. 10V | 100 200
+In the circuit above, the 8 Q 19
+
+resistor gets short circuited, i.e., Isa =0A, ie Ws |
+
+for circuit simplification, the 8 Q resistor we = ai
+
+I 10 0.476 4)
+20 T+20
+
+12V
+
+Step I: pot
+
+10
+Ion = ——— = 0.476 A(L
+200 T+ 20 ©
+
+12V
+
+Step I:
+Considering 12 V_ source acting 10
+
+alone, replacing 8 V source and 10 V source 8a
+209
+
+by short circuit, we get 10a
+
+In the circuit, the 10 Q resistor gets
+short circuited, i.e., lioa= 0A, for circuit simplification, the resistor 10 Q can be removed.
+By removing 10 Q resistors, we get the circuit as shown in Fig. (a)
+
+Now, replacing series combination (1Q + 20Q), we get the circuit as shown in Fig.
+(b)
+
+12V
+
+fi a een s law
+12
+i = m = —“_ = 0571 A(t)
+| we ~ T¥20
+
+(14200
+
+219
+(a) (b)
 --- page 13 ---
 Q7   a   Find the current through 10 Ω resistor using Norton’s Theorem.   [5]
 CO-1; SO-
@@ -7694,6 +10495,70 @@ CO-1; SO-
 Norton’s current 2M Norton’s resistance 2M current through 10 Ω resistor
 1M
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Step III:
+Considering 8V source acting alone,
+replacing 10V source and 12V source by ta 8V
+short circuit, we get the circuit beside. 1
+In the circuit of Fig. 1.233, the
+resistors 10 Q and 8 Q get short circuited.
+For circuit simplification, the resistors 10Q.
+and 8Q can be removed. By removing 10 Q and 8 Q Q resistors, we get the circuit as shown
+in Fig.
+
+8a
+100 200
+
+ia a By Ohm’s law,
+= 0.381 A(t)
+
+lon =
+20a 200” 1420
+
+Step IV:
+
+According to superposition theorem, resultant current through 20 Q resistor is
+algebraic sum of currents due to individual sources acting alone.
+Hence,
+
+I200 = 0.476 A(1) + 0.571 A(t) + 0.381 A(t) = 0.476 A(t)
+
+Solution
+
+To find Norton’s current, Remove the load resistor (10 Q), short it with a
+wire and the circuit is redrawn as below.
+
+12 22
+
+Ss0
+
+In this circuit, we need to find the current Ix, which is Norton’s current flowing
+from ato b. To find the value of Ix, it is necessary to determine the total
+current in the circuit.
+
+If you observe the circuit, 3 © resistor and 2 QO resistor are in parallel with each
+other. This parallel combination is in series with 1 © resistor. Thus,
+
+Now, the total current Ir is given by,
+
+4.094
+
+‘The current through the 2 0 resistor (or Norton’s current Iy) is obtained by applying current
+division rule,
+
+In = Ire
+
+E 3
+= 4.09% 3 = 2.4544
+a2 5
+
+(b)To find Norton’s resistance, Remove the load resistor, short the voltage
+source and circuit is redrawn as below.
+
+12 22
+
+32
 --- page 14 ---
 b   Classify AC motors and explain why single-phase motor is not self-starting   [5]
 motor.
@@ -7703,6 +10568,74 @@ Q7
 CO-3; SO-
 1; BL-1,2
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+In this circuit, we can observe that the 2 Q resistor is in series with the parallel
+combination of 1 Q and 3 Q resistors. Thus the equivalent value of resistance is
+obtained as,
+
+1+*3
+
+Rin = 2+ 773
+
+= 2.752
+
+(c)Norton’s Equivalent Circuit. It is drawn by connecting Norton’s voltage
+Ix, Norton’s resistance Rx and load resistor in series, as shown below
+
+I, = 2-454 a) SR, =-2.752 = R, =102
+
+From this circuit, the current through the load R: = 10 Q resistor is obtained
+using current division rule. It is given by,
+
+Rx
+Ip = In * N = 2.454 *
+Rn + Rr 2
+
+= 0.529A
+
++10
+
+Introduction
+
+* Induction motors are AC motors.
+¢ They use alternating voltage for their operation.
+* They can operate on 1® and 30 ac supply.
+
+AC motors
+
+l |
+
+Single phase AC motors Three phase AC motors
+
+Th St r ingle phi r
+See aie te ee 3 phase motors are used on three phase
+
+Extensively used for home appliances, shop, F
+
+offices , etc. supply.
+
+Single phase motors are less efficient substitute 3 phase motors are used for industrial
+ess phase ater: ,commercial applications.
+
+Not self starting motors Self starting motors
+
+According to the double field revolving theory, Any alternating quantity can be
+resolved into two components and each component has a magnitude equal to
+half of the maximum magnitude of the alternating quantity and both of these
+components rotate in opposite directions to each other.
+
+Let us consider a flux ® is resolved into two components one is ®,/2 and the
+other is —®,,/2. Here both these components rotate in opposite directions to each
+other, i.e if one ®,,/2 rotates in a clockwise direction then the other ®,,/2 rotates
+in the anticlockwise direction.
+
+When we give a single-phase ac supply to the stator winding of a 1-® induction
+motor then it will produce its flux of magnitude Om.
+
+Now according to the double field revolving theory, this alternating flux ®» is
+divided into two components of equal magnitude, @,/2 each. Each of these
+components will rotate in opposite direction, with synchronous speed Ns.
 --- page 15 ---
 c   A series resonance circuit has an impedance of 500 Ω at resonant frequency. Cut-   [5]
 off frequencies are 10kHz and 100Hz.Determine
@@ -7722,6 +10655,39 @@ CO-5; SO-   F = C+(BC)’
 1; BL-3
 Simplification 3M Diagram 2M
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Data: R = 5009 ‘
+fy = 100He
+fy = 10 KH
+BW = fp-f = 10x 105-100 = 9900 He
+BW
+h = ho- >
+Ww
+7 = heh
+‘Adding equations (1) and (2),
+hefy = 2p
+fy «i! .
+
+10000 « 100 _ 5050 He
+
+2S
+nL
+- $a
+
+nk
+
+BW =
+
+L = 8.038 mH
+
+Ny * extol = ax 5050 x 8.038 x 10° = 255.05 0
+
+‘At resonance My =X, + 255058
+Xe * Bebe
+25505 = scxshpKC
+C » O12pF
+@ = kegs BOs + 05176
 --- page 16 ---
 c+ BC
 Solution:
@@ -7756,7 +10722,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_CSE_DS_7057/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
 - Text: mixed (19 pages), mean OCR confidence 83.9
-- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -7814,6 +10780,49 @@ Special Purpose Gates- EX-OR, EX-NOR   1 Mark.
 .   (Attempt Any 4 Questions)   80
 1.   20
 Page 3 of 19
+
+[Text in pictures on this page, read by OCR]
+Core Type Shell Type
+
+The winding encircles the core. The core encircles most part of the winding.
+
+It has single magnetic circuit. It has a double magnetic circuit.
+
+The core has two limbs. The core has three limbs.
+
+The cylindrical coils are used. The muliiayer disc or sandwich type coils are
+used,
+
+The windings are uniformly distributed on two} The natural cooling does not exist as the
+limbs hence natural cooling is effective. windings are surrounded by the core.
+
+The coils can be easily removed from| The coils can not be removed easily.
+maintenance point of view.
+
+Anode
+
+cone he ay
+
+Vin nN = Vee
+gi Bi TT
+K E
+Cathode
+Isolating Optocoupler LED Driving a Phototransistor
+
+Correct Diagram: 2 marks
+Explanation in short: 2 marks
+
+An Optocoupler is a combination of LED and a Photo-diode packed in a single package. In the below circuit
+diagram, when a high voltage appears across the input side of the Optocoupler, a current start to flow through the
+Due to this current LED will emit light. This emitted light when falls on a phototransistor cause a current to flow
+through the same. The current flowing through the phototransistor is directly proportional to the supplied input
+voltage. An input resistance placed at the beginning of the circuit will decrease the amount of current flowing
+through the LED if its value is increased. As the LED glows due to this current, hence, when current will be low
+so as the light intensity of LED. The intensity of emitted light by the LED will be equal to the corresponding
+current flowing through the phototransistor. This means that the low-intensity light emitted by the LED will cause
+a low-level current to flow through the phototransistor. Thus a changing voltage is generated across the collector-
+emitter terminal of the transistor. In this way, an incoming signal from the input circuit is coupled to the output
+circuit.
 --- page 4 ---
 1. Solution: For simplicity, the circuit shown in Fig. above can be redrawn as shown in   10
 Fig. below
@@ -7939,6 +10948,37 @@ marks, relation of line and phase current in star and delta 1.5+1.5 marks
 3.   20
 10
 Page 9 of 19
+
+[Text in pictures on this page, read by OCR]
+Relation between phase and line voltages and phase and line currents in Delta
+connections
+
+Since the system is balanced the three phase voltage IRY , IYB, IBR are equal in
+magnitude and differ in phase from one another by 120 degree
+
+
+IR=IY=IB=IL ,
+WRY=VYB=VBREVL
+- ; Ie ®
+Ver ft
+Yo t ‘nt Zz a
+1 Vow io
+Ve | lb
+B i 8 rz I y
+ty le
+
+Fig 7: Three phase delta connected load[1)
+
+Relation between Line voltage and Phase voltage:
+
+From fig 7 itis clear that the line voltage is equal to phase voltage
+VL=Vph
+
+Relation between line current and Phase current
+
+In delta connection line current is root 3 times of phase current.
+
+Line Current = V3 x Phase Current
 --- page 10 ---
 1. 2 marks for each of the parameter.
 2. A Zener diode is a special kind of diode that permits current to flow in a forward   10
@@ -7956,6 +10996,29 @@ relatively constant.
 -------------------------------------(3 Marks)
 The following Fig.1 shows the V-I characteristics of the Zener diode.
 Page 10 of 19
+
+[Text in pictures on this page, read by OCR]
+Data: e¢ = 100 sin (wt + 30°)
+j = 15 sin (wt + 60°
+
+= _ 100
+E =-— 430°V
+¥
+
+[ = A 5 60° A
+100 / a2
+
+EF v2
+Fs + -+5 = 6.67 2-30° = §.77-)3.33Q
+oe
+
+Zz « 6679
+R = 5779
+Ke * 333.9
+- sk Wee = 0.866 (leading)
+
+pa Vicose = 1 x 18 0.866 » 6495
+v2 ¥2"
 --- page 11 ---
 Fig.1
 1 Mark for forward bias characteristics, and 1 mark for reverse bias characteristics------
@@ -7965,6 +11028,29 @@ Fig.2
 ---------------------------------------------------------------------------------------------------------
 -------------------------------------(2 Marks)
 Page 11 of 19
+
+[Text in pictures on this page, read by OCR]
++I;
+
+Forward
+Current
+Forward
+Bias
+Region
+Reverse Bias |“
+Sn od
+VR «<@ pe Ve
+I a eo Forward Bias
+Zimin) Vv
+e
+0.3 -0.7v
+“Zener” Breakdown
+Region
+Iz; naxy
+v Reverse
+Constant Current
+
+Zener Voltage R
 --- page 12 ---
 A voltage regulator is an electronic circuit that provides a stable DC voltage
 independent of the load current, temperature and AC line voltage variations. A Zener
@@ -8031,6 +11117,18 @@ path is zero. 2M
 Method to solve the circuit:   4
 M
 Page 14 of 19
+
+[Text in pictures on this page, read by OCR]
+For Difference (d) For Borrow (b)
+B B
+
+a 0 I — 0 I
+0} 0 @) o| 0 (1)
+0 I 0
+1] 21 0 1] 0 0
+Ly 5 ,
+
+d=A'B + AB' b=A'B
 --- page 15 ---
 1. Assume unknown currents in the given circuit and show their direction by arrows.
 2. Choose any closed circuit and find the algebraic sum of voltage drops in that loop.
@@ -8094,6 +11192,55 @@ construction explanation- 5 marks
 any 1 diagram of transformer/core-type/shell-type- 2 marks
 3. Multiply   6
 Page 18 of 19
+
+[Text in pictures on this page, read by OCR]
+Fig. 1. Tero winding transformer.
+
+TRANSFORMER CONSTRUCTION
+
+All transformers have the following essential elements :
+
+|. Two or more electrical windings insulated from each other and from the core (except in auto-transformers).
+
+2. A core, which in case of a single-phase distribution transformers usually comprises cold rolled silicon-steel strip.
+
+The flux path in the assembled core is parallel to the directions of steel’s grain of ‘orientation’.
+
+This results in a reduction in core losses for a given flux density and frequency, or it permits the use of higher core densities
+and reduced size of transformers for given core losses.
+
+‘Other necessary parts are :
+
+A suitable container for the assembled core and windings.
+
+A suitable medium for insulating the core and its windings from each other and from the container,
+
+Suitable bushings for insulating and bringing the terminals of the windings out of the case.
+The two basic types of transformer construction are:
+
+1. The core type.
+2. The shell type.
+The above two types differ in their relative arrangements of copper conductors and the iron cores. In the ‘core type’, the
+copper virtually surrounds the iron core, while in the ‘shell type’, the iron surrounds the copper winding.
+
+1, Core Type Transformer
+The complete magnetic circuit of the core-type transformer is in the shape of the hollow rectangle, as shown in Fig, 2 in
+which Ip is the no-load current and $ is the flux produced by it, N; and N2 are the number of turns on the primary and
+
+secondary sides respectively.
+
+Fig. 2. Magnetic circuit of a core-type transformer.
+
+The core is made of silicon-steel laminations, which are, either rectangular or L-shaped. With the coils wound on two legs,
+ithe appearance is that of Fig. 3.
+
+c—
+Primary and — — Primary ane
+secondary —— — ‘secondary
+colts eoils
+|
+
+Fig. 3. Core-type transformer.
 --- page 19 ---
 = (AA'+AC+BA'+BC) (B+C')
 =AA'. B+AC.B+BA' B+BC. B+ AA'. C+AC. C'+BA'. C'+BC .C'
@@ -8119,7 +11266,7 @@ Page 19 of 19
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_Civil_7005/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
 - Text: mixed (19 pages), mean OCR confidence 83.9
-- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -8177,6 +11324,49 @@ Special Purpose Gates- EX-OR, EX-NOR   1 Mark.
 .   (Attempt Any 4 Questions)   80
 1.   20
 Page 3 of 19
+
+[Text in pictures on this page, read by OCR]
+Core Type Shell Type
+
+The winding encircles the core. The core encircles most part of the winding.
+
+It has single magnetic circuit. It has a double magnetic circuit.
+
+The core has two limbs. The core has three limbs.
+
+The cylindrical coils are used. The muliiayer disc or sandwich type coils are
+used,
+
+The windings are uniformly distributed on two} The natural cooling does not exist as the
+limbs hence natural cooling is effective. windings are surrounded by the core.
+
+The coils can be easily removed from| The coils can not be removed easily.
+maintenance point of view.
+
+Anode
+
+cone he ay
+
+Vin nN = Vee
+gi Bi TT
+K E
+Cathode
+Isolating Optocoupler LED Driving a Phototransistor
+
+Correct Diagram: 2 marks
+Explanation in short: 2 marks
+
+An Optocoupler is a combination of LED and a Photo-diode packed in a single package. In the below circuit
+diagram, when a high voltage appears across the input side of the Optocoupler, a current start to flow through the
+Due to this current LED will emit light. This emitted light when falls on a phototransistor cause a current to flow
+through the same. The current flowing through the phototransistor is directly proportional to the supplied input
+voltage. An input resistance placed at the beginning of the circuit will decrease the amount of current flowing
+through the LED if its value is increased. As the LED glows due to this current, hence, when current will be low
+so as the light intensity of LED. The intensity of emitted light by the LED will be equal to the corresponding
+current flowing through the phototransistor. This means that the low-intensity light emitted by the LED will cause
+a low-level current to flow through the phototransistor. Thus a changing voltage is generated across the collector-
+emitter terminal of the transistor. In this way, an incoming signal from the input circuit is coupled to the output
+circuit.
 --- page 4 ---
 1. Solution: For simplicity, the circuit shown in Fig. above can be redrawn as shown in   10
 Fig. below
@@ -8302,6 +11492,37 @@ marks, relation of line and phase current in star and delta 1.5+1.5 marks
 3.   20
 10
 Page 9 of 19
+
+[Text in pictures on this page, read by OCR]
+Relation between phase and line voltages and phase and line currents in Delta
+connections
+
+Since the system is balanced the three phase voltage IRY , IYB, IBR are equal in
+magnitude and differ in phase from one another by 120 degree
+
+
+IR=IY=IB=IL ,
+WRY=VYB=VBREVL
+- ; Ie ®
+Ver ft
+Yo t ‘nt Zz a
+1 Vow io
+Ve | lb
+B i 8 rz I y
+ty le
+
+Fig 7: Three phase delta connected load[1)
+
+Relation between Line voltage and Phase voltage:
+
+From fig 7 itis clear that the line voltage is equal to phase voltage
+VL=Vph
+
+Relation between line current and Phase current
+
+In delta connection line current is root 3 times of phase current.
+
+Line Current = V3 x Phase Current
 --- page 10 ---
 1. 2 marks for each of the parameter.
 2. A Zener diode is a special kind of diode that permits current to flow in a forward   10
@@ -8319,6 +11540,29 @@ relatively constant.
 -------------------------------------(3 Marks)
 The following Fig.1 shows the V-I characteristics of the Zener diode.
 Page 10 of 19
+
+[Text in pictures on this page, read by OCR]
+Data: e¢ = 100 sin (wt + 30°)
+j = 15 sin (wt + 60°
+
+= _ 100
+E =-— 430°V
+¥
+
+[ = A 5 60° A
+100 / a2
+
+EF v2
+Fs + -+5 = 6.67 2-30° = §.77-)3.33Q
+oe
+
+Zz « 6679
+R = 5779
+Ke * 333.9
+- sk Wee = 0.866 (leading)
+
+pa Vicose = 1 x 18 0.866 » 6495
+v2 ¥2"
 --- page 11 ---
 Fig.1
 1 Mark for forward bias characteristics, and 1 mark for reverse bias characteristics------
@@ -8328,6 +11572,29 @@ Fig.2
 ---------------------------------------------------------------------------------------------------------
 -------------------------------------(2 Marks)
 Page 11 of 19
+
+[Text in pictures on this page, read by OCR]
++I;
+
+Forward
+Current
+Forward
+Bias
+Region
+Reverse Bias |“
+Sn od
+VR «<@ pe Ve
+I a eo Forward Bias
+Zimin) Vv
+e
+0.3 -0.7v
+“Zener” Breakdown
+Region
+Iz; naxy
+v Reverse
+Constant Current
+
+Zener Voltage R
 --- page 12 ---
 A voltage regulator is an electronic circuit that provides a stable DC voltage
 independent of the load current, temperature and AC line voltage variations. A Zener
@@ -8394,6 +11661,18 @@ path is zero. 2M
 Method to solve the circuit:   4
 M
 Page 14 of 19
+
+[Text in pictures on this page, read by OCR]
+For Difference (d) For Borrow (b)
+B B
+
+a 0 I — 0 I
+0} 0 @) o| 0 (1)
+0 I 0
+1] 21 0 1] 0 0
+Ly 5 ,
+
+d=A'B + AB' b=A'B
 --- page 15 ---
 1. Assume unknown currents in the given circuit and show their direction by arrows.
 2. Choose any closed circuit and find the algebraic sum of voltage drops in that loop.
@@ -8457,6 +11736,55 @@ construction explanation- 5 marks
 any 1 diagram of transformer/core-type/shell-type- 2 marks
 3. Multiply   6
 Page 18 of 19
+
+[Text in pictures on this page, read by OCR]
+Fig. 1. Tero winding transformer.
+
+TRANSFORMER CONSTRUCTION
+
+All transformers have the following essential elements :
+
+|. Two or more electrical windings insulated from each other and from the core (except in auto-transformers).
+
+2. A core, which in case of a single-phase distribution transformers usually comprises cold rolled silicon-steel strip.
+
+The flux path in the assembled core is parallel to the directions of steel’s grain of ‘orientation’.
+
+This results in a reduction in core losses for a given flux density and frequency, or it permits the use of higher core densities
+and reduced size of transformers for given core losses.
+
+‘Other necessary parts are :
+
+A suitable container for the assembled core and windings.
+
+A suitable medium for insulating the core and its windings from each other and from the container,
+
+Suitable bushings for insulating and bringing the terminals of the windings out of the case.
+The two basic types of transformer construction are:
+
+1. The core type.
+2. The shell type.
+The above two types differ in their relative arrangements of copper conductors and the iron cores. In the ‘core type’, the
+copper virtually surrounds the iron core, while in the ‘shell type’, the iron surrounds the copper winding.
+
+1, Core Type Transformer
+The complete magnetic circuit of the core-type transformer is in the shape of the hollow rectangle, as shown in Fig, 2 in
+which Ip is the no-load current and $ is the flux produced by it, N; and N2 are the number of turns on the primary and
+
+secondary sides respectively.
+
+Fig. 2. Magnetic circuit of a core-type transformer.
+
+The core is made of silicon-steel laminations, which are, either rectangular or L-shaped. With the coils wound on two legs,
+ithe appearance is that of Fig. 3.
+
+c—
+Primary and — — Primary ane
+secondary —— — ‘secondary
+colts eoils
+|
+
+Fig. 3. Core-type transformer.
 --- page 19 ---
 = (AA'+AC+BA'+BC) (B+C')
 =AA'. B+AC.B+BA' B+BC. B+ AA'. C+AC. C'+BA'. C'+BC .C'
@@ -8482,7 +11810,7 @@ Page 19 of 19
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/BTech_Mechanical_7003/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
 - Text: mixed (19 pages), mean OCR confidence 83.9
-- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -8540,6 +11868,49 @@ Special Purpose Gates- EX-OR, EX-NOR   1 Mark.
 .   (Attempt Any 4 Questions)   80
 1.   20
 Page 3 of 19
+
+[Text in pictures on this page, read by OCR]
+Core Type Shell Type
+
+The winding encircles the core. The core encircles most part of the winding.
+
+It has single magnetic circuit. It has a double magnetic circuit.
+
+The core has two limbs. The core has three limbs.
+
+The cylindrical coils are used. The muliiayer disc or sandwich type coils are
+used,
+
+The windings are uniformly distributed on two} The natural cooling does not exist as the
+limbs hence natural cooling is effective. windings are surrounded by the core.
+
+The coils can be easily removed from| The coils can not be removed easily.
+maintenance point of view.
+
+Anode
+
+cone he ay
+
+Vin nN = Vee
+gi Bi TT
+K E
+Cathode
+Isolating Optocoupler LED Driving a Phototransistor
+
+Correct Diagram: 2 marks
+Explanation in short: 2 marks
+
+An Optocoupler is a combination of LED and a Photo-diode packed in a single package. In the below circuit
+diagram, when a high voltage appears across the input side of the Optocoupler, a current start to flow through the
+Due to this current LED will emit light. This emitted light when falls on a phototransistor cause a current to flow
+through the same. The current flowing through the phototransistor is directly proportional to the supplied input
+voltage. An input resistance placed at the beginning of the circuit will decrease the amount of current flowing
+through the LED if its value is increased. As the LED glows due to this current, hence, when current will be low
+so as the light intensity of LED. The intensity of emitted light by the LED will be equal to the corresponding
+current flowing through the phototransistor. This means that the low-intensity light emitted by the LED will cause
+a low-level current to flow through the phototransistor. Thus a changing voltage is generated across the collector-
+emitter terminal of the transistor. In this way, an incoming signal from the input circuit is coupled to the output
+circuit.
 --- page 4 ---
 1. Solution: For simplicity, the circuit shown in Fig. above can be redrawn as shown in   10
 Fig. below
@@ -8665,6 +12036,37 @@ marks, relation of line and phase current in star and delta 1.5+1.5 marks
 3.   20
 10
 Page 9 of 19
+
+[Text in pictures on this page, read by OCR]
+Relation between phase and line voltages and phase and line currents in Delta
+connections
+
+Since the system is balanced the three phase voltage IRY , IYB, IBR are equal in
+magnitude and differ in phase from one another by 120 degree
+
+
+IR=IY=IB=IL ,
+WRY=VYB=VBREVL
+- ; Ie ®
+Ver ft
+Yo t ‘nt Zz a
+1 Vow io
+Ve | lb
+B i 8 rz I y
+ty le
+
+Fig 7: Three phase delta connected load[1)
+
+Relation between Line voltage and Phase voltage:
+
+From fig 7 itis clear that the line voltage is equal to phase voltage
+VL=Vph
+
+Relation between line current and Phase current
+
+In delta connection line current is root 3 times of phase current.
+
+Line Current = V3 x Phase Current
 --- page 10 ---
 1. 2 marks for each of the parameter.
 2. A Zener diode is a special kind of diode that permits current to flow in a forward   10
@@ -8682,6 +12084,29 @@ relatively constant.
 -------------------------------------(3 Marks)
 The following Fig.1 shows the V-I characteristics of the Zener diode.
 Page 10 of 19
+
+[Text in pictures on this page, read by OCR]
+Data: e¢ = 100 sin (wt + 30°)
+j = 15 sin (wt + 60°
+
+= _ 100
+E =-— 430°V
+¥
+
+[ = A 5 60° A
+100 / a2
+
+EF v2
+Fs + -+5 = 6.67 2-30° = §.77-)3.33Q
+oe
+
+Zz « 6679
+R = 5779
+Ke * 333.9
+- sk Wee = 0.866 (leading)
+
+pa Vicose = 1 x 18 0.866 » 6495
+v2 ¥2"
 --- page 11 ---
 Fig.1
 1 Mark for forward bias characteristics, and 1 mark for reverse bias characteristics------
@@ -8691,6 +12116,29 @@ Fig.2
 ---------------------------------------------------------------------------------------------------------
 -------------------------------------(2 Marks)
 Page 11 of 19
+
+[Text in pictures on this page, read by OCR]
++I;
+
+Forward
+Current
+Forward
+Bias
+Region
+Reverse Bias |“
+Sn od
+VR «<@ pe Ve
+I a eo Forward Bias
+Zimin) Vv
+e
+0.3 -0.7v
+“Zener” Breakdown
+Region
+Iz; naxy
+v Reverse
+Constant Current
+
+Zener Voltage R
 --- page 12 ---
 A voltage regulator is an electronic circuit that provides a stable DC voltage
 independent of the load current, temperature and AC line voltage variations. A Zener
@@ -8757,6 +12205,18 @@ path is zero. 2M
 Method to solve the circuit:   4
 M
 Page 14 of 19
+
+[Text in pictures on this page, read by OCR]
+For Difference (d) For Borrow (b)
+B B
+
+a 0 I — 0 I
+0} 0 @) o| 0 (1)
+0 I 0
+1] 21 0 1] 0 0
+Ly 5 ,
+
+d=A'B + AB' b=A'B
 --- page 15 ---
 1. Assume unknown currents in the given circuit and show their direction by arrows.
 2. Choose any closed circuit and find the algebraic sum of voltage drops in that loop.
@@ -8820,6 +12280,55 @@ construction explanation- 5 marks
 any 1 diagram of transformer/core-type/shell-type- 2 marks
 3. Multiply   6
 Page 18 of 19
+
+[Text in pictures on this page, read by OCR]
+Fig. 1. Tero winding transformer.
+
+TRANSFORMER CONSTRUCTION
+
+All transformers have the following essential elements :
+
+|. Two or more electrical windings insulated from each other and from the core (except in auto-transformers).
+
+2. A core, which in case of a single-phase distribution transformers usually comprises cold rolled silicon-steel strip.
+
+The flux path in the assembled core is parallel to the directions of steel’s grain of ‘orientation’.
+
+This results in a reduction in core losses for a given flux density and frequency, or it permits the use of higher core densities
+and reduced size of transformers for given core losses.
+
+‘Other necessary parts are :
+
+A suitable container for the assembled core and windings.
+
+A suitable medium for insulating the core and its windings from each other and from the container,
+
+Suitable bushings for insulating and bringing the terminals of the windings out of the case.
+The two basic types of transformer construction are:
+
+1. The core type.
+2. The shell type.
+The above two types differ in their relative arrangements of copper conductors and the iron cores. In the ‘core type’, the
+copper virtually surrounds the iron core, while in the ‘shell type’, the iron surrounds the copper winding.
+
+1, Core Type Transformer
+The complete magnetic circuit of the core-type transformer is in the shape of the hollow rectangle, as shown in Fig, 2 in
+which Ip is the no-load current and $ is the flux produced by it, N; and N2 are the number of turns on the primary and
+
+secondary sides respectively.
+
+Fig. 2. Magnetic circuit of a core-type transformer.
+
+The core is made of silicon-steel laminations, which are, either rectangular or L-shaped. With the coils wound on two legs,
+ithe appearance is that of Fig. 3.
+
+c—
+Primary and — — Primary ane
+secondary —— — ‘secondary
+colts eoils
+|
+
+Fig. 3. Core-type transformer.
 --- page 19 ---
 = (AA'+AC+BA'+BC) (B+C')
 =AA'. B+AC.B+BA' B+BC. B+ AA'. C+AC. C'+BA'. C'+BC .C'
@@ -8845,7 +12354,7 @@ Page 19 of 19
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/MBATech_AI_7051/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
 - Text: mixed (19 pages), mean OCR confidence 83.9
-- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -8903,6 +12412,49 @@ Special Purpose Gates- EX-OR, EX-NOR   1 Mark.
 .   (Attempt Any 4 Questions)   80
 1.   20
 Page 3 of 19
+
+[Text in pictures on this page, read by OCR]
+Core Type Shell Type
+
+The winding encircles the core. The core encircles most part of the winding.
+
+It has single magnetic circuit. It has a double magnetic circuit.
+
+The core has two limbs. The core has three limbs.
+
+The cylindrical coils are used. The muliiayer disc or sandwich type coils are
+used,
+
+The windings are uniformly distributed on two} The natural cooling does not exist as the
+limbs hence natural cooling is effective. windings are surrounded by the core.
+
+The coils can be easily removed from| The coils can not be removed easily.
+maintenance point of view.
+
+Anode
+
+cone he ay
+
+Vin nN = Vee
+gi Bi TT
+K E
+Cathode
+Isolating Optocoupler LED Driving a Phototransistor
+
+Correct Diagram: 2 marks
+Explanation in short: 2 marks
+
+An Optocoupler is a combination of LED and a Photo-diode packed in a single package. In the below circuit
+diagram, when a high voltage appears across the input side of the Optocoupler, a current start to flow through the
+Due to this current LED will emit light. This emitted light when falls on a phototransistor cause a current to flow
+through the same. The current flowing through the phototransistor is directly proportional to the supplied input
+voltage. An input resistance placed at the beginning of the circuit will decrease the amount of current flowing
+through the LED if its value is increased. As the LED glows due to this current, hence, when current will be low
+so as the light intensity of LED. The intensity of emitted light by the LED will be equal to the corresponding
+current flowing through the phototransistor. This means that the low-intensity light emitted by the LED will cause
+a low-level current to flow through the phototransistor. Thus a changing voltage is generated across the collector-
+emitter terminal of the transistor. In this way, an incoming signal from the input circuit is coupled to the output
+circuit.
 --- page 4 ---
 1. Solution: For simplicity, the circuit shown in Fig. above can be redrawn as shown in   10
 Fig. below
@@ -9028,6 +12580,37 @@ marks, relation of line and phase current in star and delta 1.5+1.5 marks
 3.   20
 10
 Page 9 of 19
+
+[Text in pictures on this page, read by OCR]
+Relation between phase and line voltages and phase and line currents in Delta
+connections
+
+Since the system is balanced the three phase voltage IRY , IYB, IBR are equal in
+magnitude and differ in phase from one another by 120 degree
+
+
+IR=IY=IB=IL ,
+WRY=VYB=VBREVL
+- ; Ie ®
+Ver ft
+Yo t ‘nt Zz a
+1 Vow io
+Ve | lb
+B i 8 rz I y
+ty le
+
+Fig 7: Three phase delta connected load[1)
+
+Relation between Line voltage and Phase voltage:
+
+From fig 7 itis clear that the line voltage is equal to phase voltage
+VL=Vph
+
+Relation between line current and Phase current
+
+In delta connection line current is root 3 times of phase current.
+
+Line Current = V3 x Phase Current
 --- page 10 ---
 1. 2 marks for each of the parameter.
 2. A Zener diode is a special kind of diode that permits current to flow in a forward   10
@@ -9045,6 +12628,29 @@ relatively constant.
 -------------------------------------(3 Marks)
 The following Fig.1 shows the V-I characteristics of the Zener diode.
 Page 10 of 19
+
+[Text in pictures on this page, read by OCR]
+Data: e¢ = 100 sin (wt + 30°)
+j = 15 sin (wt + 60°
+
+= _ 100
+E =-— 430°V
+¥
+
+[ = A 5 60° A
+100 / a2
+
+EF v2
+Fs + -+5 = 6.67 2-30° = §.77-)3.33Q
+oe
+
+Zz « 6679
+R = 5779
+Ke * 333.9
+- sk Wee = 0.866 (leading)
+
+pa Vicose = 1 x 18 0.866 » 6495
+v2 ¥2"
 --- page 11 ---
 Fig.1
 1 Mark for forward bias characteristics, and 1 mark for reverse bias characteristics------
@@ -9054,6 +12660,29 @@ Fig.2
 ---------------------------------------------------------------------------------------------------------
 -------------------------------------(2 Marks)
 Page 11 of 19
+
+[Text in pictures on this page, read by OCR]
++I;
+
+Forward
+Current
+Forward
+Bias
+Region
+Reverse Bias |“
+Sn od
+VR «<@ pe Ve
+I a eo Forward Bias
+Zimin) Vv
+e
+0.3 -0.7v
+“Zener” Breakdown
+Region
+Iz; naxy
+v Reverse
+Constant Current
+
+Zener Voltage R
 --- page 12 ---
 A voltage regulator is an electronic circuit that provides a stable DC voltage
 independent of the load current, temperature and AC line voltage variations. A Zener
@@ -9120,6 +12749,18 @@ path is zero. 2M
 Method to solve the circuit:   4
 M
 Page 14 of 19
+
+[Text in pictures on this page, read by OCR]
+For Difference (d) For Borrow (b)
+B B
+
+a 0 I — 0 I
+0} 0 @) o| 0 (1)
+0 I 0
+1] 21 0 1] 0 0
+Ly 5 ,
+
+d=A'B + AB' b=A'B
 --- page 15 ---
 1. Assume unknown currents in the given circuit and show their direction by arrows.
 2. Choose any closed circuit and find the algebraic sum of voltage drops in that loop.
@@ -9183,6 +12824,55 @@ construction explanation- 5 marks
 any 1 diagram of transformer/core-type/shell-type- 2 marks
 3. Multiply   6
 Page 18 of 19
+
+[Text in pictures on this page, read by OCR]
+Fig. 1. Tero winding transformer.
+
+TRANSFORMER CONSTRUCTION
+
+All transformers have the following essential elements :
+
+|. Two or more electrical windings insulated from each other and from the core (except in auto-transformers).
+
+2. A core, which in case of a single-phase distribution transformers usually comprises cold rolled silicon-steel strip.
+
+The flux path in the assembled core is parallel to the directions of steel’s grain of ‘orientation’.
+
+This results in a reduction in core losses for a given flux density and frequency, or it permits the use of higher core densities
+and reduced size of transformers for given core losses.
+
+‘Other necessary parts are :
+
+A suitable container for the assembled core and windings.
+
+A suitable medium for insulating the core and its windings from each other and from the container,
+
+Suitable bushings for insulating and bringing the terminals of the windings out of the case.
+The two basic types of transformer construction are:
+
+1. The core type.
+2. The shell type.
+The above two types differ in their relative arrangements of copper conductors and the iron cores. In the ‘core type’, the
+copper virtually surrounds the iron core, while in the ‘shell type’, the iron surrounds the copper winding.
+
+1, Core Type Transformer
+The complete magnetic circuit of the core-type transformer is in the shape of the hollow rectangle, as shown in Fig, 2 in
+which Ip is the no-load current and $ is the flux produced by it, N; and N2 are the number of turns on the primary and
+
+secondary sides respectively.
+
+Fig. 2. Magnetic circuit of a core-type transformer.
+
+The core is made of silicon-steel laminations, which are, either rectangular or L-shaped. With the coils wound on two legs,
+ithe appearance is that of Fig. 3.
+
+c—
+Primary and — — Primary ane
+secondary —— — ‘secondary
+colts eoils
+|
+
+Fig. 3. Core-type transformer.
 --- page 19 ---
 = (AA'+AC+BA'+BC) (B+C')
 =AA'. B+AC.B+BA' B+BC. B+ AA'. C+AC. C'+BA'. C'+BC .C'
@@ -9208,7 +12898,7 @@ Page 19 of 19
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/MBATech_Computer_7047/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
 - Text: mixed (19 pages), mean OCR confidence 83.9
-- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -9266,6 +12956,49 @@ Special Purpose Gates- EX-OR, EX-NOR   1 Mark.
 .   (Attempt Any 4 Questions)   80
 1.   20
 Page 3 of 19
+
+[Text in pictures on this page, read by OCR]
+Core Type Shell Type
+
+The winding encircles the core. The core encircles most part of the winding.
+
+It has single magnetic circuit. It has a double magnetic circuit.
+
+The core has two limbs. The core has three limbs.
+
+The cylindrical coils are used. The muliiayer disc or sandwich type coils are
+used,
+
+The windings are uniformly distributed on two} The natural cooling does not exist as the
+limbs hence natural cooling is effective. windings are surrounded by the core.
+
+The coils can be easily removed from| The coils can not be removed easily.
+maintenance point of view.
+
+Anode
+
+cone he ay
+
+Vin nN = Vee
+gi Bi TT
+K E
+Cathode
+Isolating Optocoupler LED Driving a Phototransistor
+
+Correct Diagram: 2 marks
+Explanation in short: 2 marks
+
+An Optocoupler is a combination of LED and a Photo-diode packed in a single package. In the below circuit
+diagram, when a high voltage appears across the input side of the Optocoupler, a current start to flow through the
+Due to this current LED will emit light. This emitted light when falls on a phototransistor cause a current to flow
+through the same. The current flowing through the phototransistor is directly proportional to the supplied input
+voltage. An input resistance placed at the beginning of the circuit will decrease the amount of current flowing
+through the LED if its value is increased. As the LED glows due to this current, hence, when current will be low
+so as the light intensity of LED. The intensity of emitted light by the LED will be equal to the corresponding
+current flowing through the phototransistor. This means that the low-intensity light emitted by the LED will cause
+a low-level current to flow through the phototransistor. Thus a changing voltage is generated across the collector-
+emitter terminal of the transistor. In this way, an incoming signal from the input circuit is coupled to the output
+circuit.
 --- page 4 ---
 1. Solution: For simplicity, the circuit shown in Fig. above can be redrawn as shown in   10
 Fig. below
@@ -9391,6 +13124,37 @@ marks, relation of line and phase current in star and delta 1.5+1.5 marks
 3.   20
 10
 Page 9 of 19
+
+[Text in pictures on this page, read by OCR]
+Relation between phase and line voltages and phase and line currents in Delta
+connections
+
+Since the system is balanced the three phase voltage IRY , IYB, IBR are equal in
+magnitude and differ in phase from one another by 120 degree
+
+
+IR=IY=IB=IL ,
+WRY=VYB=VBREVL
+- ; Ie ®
+Ver ft
+Yo t ‘nt Zz a
+1 Vow io
+Ve | lb
+B i 8 rz I y
+ty le
+
+Fig 7: Three phase delta connected load[1)
+
+Relation between Line voltage and Phase voltage:
+
+From fig 7 itis clear that the line voltage is equal to phase voltage
+VL=Vph
+
+Relation between line current and Phase current
+
+In delta connection line current is root 3 times of phase current.
+
+Line Current = V3 x Phase Current
 --- page 10 ---
 1. 2 marks for each of the parameter.
 2. A Zener diode is a special kind of diode that permits current to flow in a forward   10
@@ -9408,6 +13172,29 @@ relatively constant.
 -------------------------------------(3 Marks)
 The following Fig.1 shows the V-I characteristics of the Zener diode.
 Page 10 of 19
+
+[Text in pictures on this page, read by OCR]
+Data: e¢ = 100 sin (wt + 30°)
+j = 15 sin (wt + 60°
+
+= _ 100
+E =-— 430°V
+¥
+
+[ = A 5 60° A
+100 / a2
+
+EF v2
+Fs + -+5 = 6.67 2-30° = §.77-)3.33Q
+oe
+
+Zz « 6679
+R = 5779
+Ke * 333.9
+- sk Wee = 0.866 (leading)
+
+pa Vicose = 1 x 18 0.866 » 6495
+v2 ¥2"
 --- page 11 ---
 Fig.1
 1 Mark for forward bias characteristics, and 1 mark for reverse bias characteristics------
@@ -9417,6 +13204,29 @@ Fig.2
 ---------------------------------------------------------------------------------------------------------
 -------------------------------------(2 Marks)
 Page 11 of 19
+
+[Text in pictures on this page, read by OCR]
++I;
+
+Forward
+Current
+Forward
+Bias
+Region
+Reverse Bias |“
+Sn od
+VR «<@ pe Ve
+I a eo Forward Bias
+Zimin) Vv
+e
+0.3 -0.7v
+“Zener” Breakdown
+Region
+Iz; naxy
+v Reverse
+Constant Current
+
+Zener Voltage R
 --- page 12 ---
 A voltage regulator is an electronic circuit that provides a stable DC voltage
 independent of the load current, temperature and AC line voltage variations. A Zener
@@ -9483,6 +13293,18 @@ path is zero. 2M
 Method to solve the circuit:   4
 M
 Page 14 of 19
+
+[Text in pictures on this page, read by OCR]
+For Difference (d) For Borrow (b)
+B B
+
+a 0 I — 0 I
+0} 0 @) o| 0 (1)
+0 I 0
+1] 21 0 1] 0 0
+Ly 5 ,
+
+d=A'B + AB' b=A'B
 --- page 15 ---
 1. Assume unknown currents in the given circuit and show their direction by arrows.
 2. Choose any closed circuit and find the algebraic sum of voltage drops in that loop.
@@ -9546,6 +13368,55 @@ construction explanation- 5 marks
 any 1 diagram of transformer/core-type/shell-type- 2 marks
 3. Multiply   6
 Page 18 of 19
+
+[Text in pictures on this page, read by OCR]
+Fig. 1. Tero winding transformer.
+
+TRANSFORMER CONSTRUCTION
+
+All transformers have the following essential elements :
+
+|. Two or more electrical windings insulated from each other and from the core (except in auto-transformers).
+
+2. A core, which in case of a single-phase distribution transformers usually comprises cold rolled silicon-steel strip.
+
+The flux path in the assembled core is parallel to the directions of steel’s grain of ‘orientation’.
+
+This results in a reduction in core losses for a given flux density and frequency, or it permits the use of higher core densities
+and reduced size of transformers for given core losses.
+
+‘Other necessary parts are :
+
+A suitable container for the assembled core and windings.
+
+A suitable medium for insulating the core and its windings from each other and from the container,
+
+Suitable bushings for insulating and bringing the terminals of the windings out of the case.
+The two basic types of transformer construction are:
+
+1. The core type.
+2. The shell type.
+The above two types differ in their relative arrangements of copper conductors and the iron cores. In the ‘core type’, the
+copper virtually surrounds the iron core, while in the ‘shell type’, the iron surrounds the copper winding.
+
+1, Core Type Transformer
+The complete magnetic circuit of the core-type transformer is in the shape of the hollow rectangle, as shown in Fig, 2 in
+which Ip is the no-load current and $ is the flux produced by it, N; and N2 are the number of turns on the primary and
+
+secondary sides respectively.
+
+Fig. 2. Magnetic circuit of a core-type transformer.
+
+The core is made of silicon-steel laminations, which are, either rectangular or L-shaped. With the coils wound on two legs,
+ithe appearance is that of Fig. 3.
+
+c—
+Primary and — — Primary ane
+secondary —— — ‘secondary
+colts eoils
+|
+
+Fig. 3. Core-type transformer.
 --- page 19 ---
 = (AA'+AC+BA'+BC) (B+C')
 =AA'. B+AC.B+BA' B+BC. B+ AA'. C+AC. C'+BA'. C'+BC .C'
@@ -9571,7 +13442,7 @@ Page 19 of 19
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/MBATech_DS_7052/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
 - Text: mixed (19 pages), mean OCR confidence 83.9
-- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -9629,6 +13500,49 @@ Special Purpose Gates- EX-OR, EX-NOR   1 Mark.
 .   (Attempt Any 4 Questions)   80
 1.   20
 Page 3 of 19
+
+[Text in pictures on this page, read by OCR]
+Core Type Shell Type
+
+The winding encircles the core. The core encircles most part of the winding.
+
+It has single magnetic circuit. It has a double magnetic circuit.
+
+The core has two limbs. The core has three limbs.
+
+The cylindrical coils are used. The muliiayer disc or sandwich type coils are
+used,
+
+The windings are uniformly distributed on two} The natural cooling does not exist as the
+limbs hence natural cooling is effective. windings are surrounded by the core.
+
+The coils can be easily removed from| The coils can not be removed easily.
+maintenance point of view.
+
+Anode
+
+cone he ay
+
+Vin nN = Vee
+gi Bi TT
+K E
+Cathode
+Isolating Optocoupler LED Driving a Phototransistor
+
+Correct Diagram: 2 marks
+Explanation in short: 2 marks
+
+An Optocoupler is a combination of LED and a Photo-diode packed in a single package. In the below circuit
+diagram, when a high voltage appears across the input side of the Optocoupler, a current start to flow through the
+Due to this current LED will emit light. This emitted light when falls on a phototransistor cause a current to flow
+through the same. The current flowing through the phototransistor is directly proportional to the supplied input
+voltage. An input resistance placed at the beginning of the circuit will decrease the amount of current flowing
+through the LED if its value is increased. As the LED glows due to this current, hence, when current will be low
+so as the light intensity of LED. The intensity of emitted light by the LED will be equal to the corresponding
+current flowing through the phototransistor. This means that the low-intensity light emitted by the LED will cause
+a low-level current to flow through the phototransistor. Thus a changing voltage is generated across the collector-
+emitter terminal of the transistor. In this way, an incoming signal from the input circuit is coupled to the output
+circuit.
 --- page 4 ---
 1. Solution: For simplicity, the circuit shown in Fig. above can be redrawn as shown in   10
 Fig. below
@@ -9754,6 +13668,37 @@ marks, relation of line and phase current in star and delta 1.5+1.5 marks
 3.   20
 10
 Page 9 of 19
+
+[Text in pictures on this page, read by OCR]
+Relation between phase and line voltages and phase and line currents in Delta
+connections
+
+Since the system is balanced the three phase voltage IRY , IYB, IBR are equal in
+magnitude and differ in phase from one another by 120 degree
+
+
+IR=IY=IB=IL ,
+WRY=VYB=VBREVL
+- ; Ie ®
+Ver ft
+Yo t ‘nt Zz a
+1 Vow io
+Ve | lb
+B i 8 rz I y
+ty le
+
+Fig 7: Three phase delta connected load[1)
+
+Relation between Line voltage and Phase voltage:
+
+From fig 7 itis clear that the line voltage is equal to phase voltage
+VL=Vph
+
+Relation between line current and Phase current
+
+In delta connection line current is root 3 times of phase current.
+
+Line Current = V3 x Phase Current
 --- page 10 ---
 1. 2 marks for each of the parameter.
 2. A Zener diode is a special kind of diode that permits current to flow in a forward   10
@@ -9771,6 +13716,29 @@ relatively constant.
 -------------------------------------(3 Marks)
 The following Fig.1 shows the V-I characteristics of the Zener diode.
 Page 10 of 19
+
+[Text in pictures on this page, read by OCR]
+Data: e¢ = 100 sin (wt + 30°)
+j = 15 sin (wt + 60°
+
+= _ 100
+E =-— 430°V
+¥
+
+[ = A 5 60° A
+100 / a2
+
+EF v2
+Fs + -+5 = 6.67 2-30° = §.77-)3.33Q
+oe
+
+Zz « 6679
+R = 5779
+Ke * 333.9
+- sk Wee = 0.866 (leading)
+
+pa Vicose = 1 x 18 0.866 » 6495
+v2 ¥2"
 --- page 11 ---
 Fig.1
 1 Mark for forward bias characteristics, and 1 mark for reverse bias characteristics------
@@ -9780,6 +13748,29 @@ Fig.2
 ---------------------------------------------------------------------------------------------------------
 -------------------------------------(2 Marks)
 Page 11 of 19
+
+[Text in pictures on this page, read by OCR]
++I;
+
+Forward
+Current
+Forward
+Bias
+Region
+Reverse Bias |“
+Sn od
+VR «<@ pe Ve
+I a eo Forward Bias
+Zimin) Vv
+e
+0.3 -0.7v
+“Zener” Breakdown
+Region
+Iz; naxy
+v Reverse
+Constant Current
+
+Zener Voltage R
 --- page 12 ---
 A voltage regulator is an electronic circuit that provides a stable DC voltage
 independent of the load current, temperature and AC line voltage variations. A Zener
@@ -9846,6 +13837,18 @@ path is zero. 2M
 Method to solve the circuit:   4
 M
 Page 14 of 19
+
+[Text in pictures on this page, read by OCR]
+For Difference (d) For Borrow (b)
+B B
+
+a 0 I — 0 I
+0} 0 @) o| 0 (1)
+0 I 0
+1] 21 0 1] 0 0
+Ly 5 ,
+
+d=A'B + AB' b=A'B
 --- page 15 ---
 1. Assume unknown currents in the given circuit and show their direction by arrows.
 2. Choose any closed circuit and find the algebraic sum of voltage drops in that loop.
@@ -9909,6 +13912,55 @@ construction explanation- 5 marks
 any 1 diagram of transformer/core-type/shell-type- 2 marks
 3. Multiply   6
 Page 18 of 19
+
+[Text in pictures on this page, read by OCR]
+Fig. 1. Tero winding transformer.
+
+TRANSFORMER CONSTRUCTION
+
+All transformers have the following essential elements :
+
+|. Two or more electrical windings insulated from each other and from the core (except in auto-transformers).
+
+2. A core, which in case of a single-phase distribution transformers usually comprises cold rolled silicon-steel strip.
+
+The flux path in the assembled core is parallel to the directions of steel’s grain of ‘orientation’.
+
+This results in a reduction in core losses for a given flux density and frequency, or it permits the use of higher core densities
+and reduced size of transformers for given core losses.
+
+‘Other necessary parts are :
+
+A suitable container for the assembled core and windings.
+
+A suitable medium for insulating the core and its windings from each other and from the container,
+
+Suitable bushings for insulating and bringing the terminals of the windings out of the case.
+The two basic types of transformer construction are:
+
+1. The core type.
+2. The shell type.
+The above two types differ in their relative arrangements of copper conductors and the iron cores. In the ‘core type’, the
+copper virtually surrounds the iron core, while in the ‘shell type’, the iron surrounds the copper winding.
+
+1, Core Type Transformer
+The complete magnetic circuit of the core-type transformer is in the shape of the hollow rectangle, as shown in Fig, 2 in
+which Ip is the no-load current and $ is the flux produced by it, N; and N2 are the number of turns on the primary and
+
+secondary sides respectively.
+
+Fig. 2. Magnetic circuit of a core-type transformer.
+
+The core is made of silicon-steel laminations, which are, either rectangular or L-shaped. With the coils wound on two legs,
+ithe appearance is that of Fig. 3.
+
+c—
+Primary and — — Primary ane
+secondary —— — ‘secondary
+colts eoils
+|
+
+Fig. 3. Core-type transformer.
 --- page 19 ---
 = (AA'+AC+BA'+BC) (B+C')
 =AA'. B+AC.B+BA' B+BC. B+ AA'. C+AC. C'+BA'. C'+BC .C'
@@ -9934,7 +13986,7 @@ Page 19 of 19
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/MBATech_IT_7041/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
 - Text: mixed (19 pages), mean OCR confidence 83.9
-- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -9992,6 +14044,49 @@ Special Purpose Gates- EX-OR, EX-NOR   1 Mark.
 .   (Attempt Any 4 Questions)   80
 1.   20
 Page 3 of 19
+
+[Text in pictures on this page, read by OCR]
+Core Type Shell Type
+
+The winding encircles the core. The core encircles most part of the winding.
+
+It has single magnetic circuit. It has a double magnetic circuit.
+
+The core has two limbs. The core has three limbs.
+
+The cylindrical coils are used. The muliiayer disc or sandwich type coils are
+used,
+
+The windings are uniformly distributed on two} The natural cooling does not exist as the
+limbs hence natural cooling is effective. windings are surrounded by the core.
+
+The coils can be easily removed from| The coils can not be removed easily.
+maintenance point of view.
+
+Anode
+
+cone he ay
+
+Vin nN = Vee
+gi Bi TT
+K E
+Cathode
+Isolating Optocoupler LED Driving a Phototransistor
+
+Correct Diagram: 2 marks
+Explanation in short: 2 marks
+
+An Optocoupler is a combination of LED and a Photo-diode packed in a single package. In the below circuit
+diagram, when a high voltage appears across the input side of the Optocoupler, a current start to flow through the
+Due to this current LED will emit light. This emitted light when falls on a phototransistor cause a current to flow
+through the same. The current flowing through the phototransistor is directly proportional to the supplied input
+voltage. An input resistance placed at the beginning of the circuit will decrease the amount of current flowing
+through the LED if its value is increased. As the LED glows due to this current, hence, when current will be low
+so as the light intensity of LED. The intensity of emitted light by the LED will be equal to the corresponding
+current flowing through the phototransistor. This means that the low-intensity light emitted by the LED will cause
+a low-level current to flow through the phototransistor. Thus a changing voltage is generated across the collector-
+emitter terminal of the transistor. In this way, an incoming signal from the input circuit is coupled to the output
+circuit.
 --- page 4 ---
 1. Solution: For simplicity, the circuit shown in Fig. above can be redrawn as shown in   10
 Fig. below
@@ -10117,6 +14212,37 @@ marks, relation of line and phase current in star and delta 1.5+1.5 marks
 3.   20
 10
 Page 9 of 19
+
+[Text in pictures on this page, read by OCR]
+Relation between phase and line voltages and phase and line currents in Delta
+connections
+
+Since the system is balanced the three phase voltage IRY , IYB, IBR are equal in
+magnitude and differ in phase from one another by 120 degree
+
+
+IR=IY=IB=IL ,
+WRY=VYB=VBREVL
+- ; Ie ®
+Ver ft
+Yo t ‘nt Zz a
+1 Vow io
+Ve | lb
+B i 8 rz I y
+ty le
+
+Fig 7: Three phase delta connected load[1)
+
+Relation between Line voltage and Phase voltage:
+
+From fig 7 itis clear that the line voltage is equal to phase voltage
+VL=Vph
+
+Relation between line current and Phase current
+
+In delta connection line current is root 3 times of phase current.
+
+Line Current = V3 x Phase Current
 --- page 10 ---
 1. 2 marks for each of the parameter.
 2. A Zener diode is a special kind of diode that permits current to flow in a forward   10
@@ -10134,6 +14260,29 @@ relatively constant.
 -------------------------------------(3 Marks)
 The following Fig.1 shows the V-I characteristics of the Zener diode.
 Page 10 of 19
+
+[Text in pictures on this page, read by OCR]
+Data: e¢ = 100 sin (wt + 30°)
+j = 15 sin (wt + 60°
+
+= _ 100
+E =-— 430°V
+¥
+
+[ = A 5 60° A
+100 / a2
+
+EF v2
+Fs + -+5 = 6.67 2-30° = §.77-)3.33Q
+oe
+
+Zz « 6679
+R = 5779
+Ke * 333.9
+- sk Wee = 0.866 (leading)
+
+pa Vicose = 1 x 18 0.866 » 6495
+v2 ¥2"
 --- page 11 ---
 Fig.1
 1 Mark for forward bias characteristics, and 1 mark for reverse bias characteristics------
@@ -10143,6 +14292,29 @@ Fig.2
 ---------------------------------------------------------------------------------------------------------
 -------------------------------------(2 Marks)
 Page 11 of 19
+
+[Text in pictures on this page, read by OCR]
++I;
+
+Forward
+Current
+Forward
+Bias
+Region
+Reverse Bias |“
+Sn od
+VR «<@ pe Ve
+I a eo Forward Bias
+Zimin) Vv
+e
+0.3 -0.7v
+“Zener” Breakdown
+Region
+Iz; naxy
+v Reverse
+Constant Current
+
+Zener Voltage R
 --- page 12 ---
 A voltage regulator is an electronic circuit that provides a stable DC voltage
 independent of the load current, temperature and AC line voltage variations. A Zener
@@ -10209,6 +14381,18 @@ path is zero. 2M
 Method to solve the circuit:   4
 M
 Page 14 of 19
+
+[Text in pictures on this page, read by OCR]
+For Difference (d) For Borrow (b)
+B B
+
+a 0 I — 0 I
+0} 0 @) o| 0 (1)
+0 I 0
+1] 21 0 1] 0 0
+Ly 5 ,
+
+d=A'B + AB' b=A'B
 --- page 15 ---
 1. Assume unknown currents in the given circuit and show their direction by arrows.
 2. Choose any closed circuit and find the algebraic sum of voltage drops in that loop.
@@ -10272,6 +14456,55 @@ construction explanation- 5 marks
 any 1 diagram of transformer/core-type/shell-type- 2 marks
 3. Multiply   6
 Page 18 of 19
+
+[Text in pictures on this page, read by OCR]
+Fig. 1. Tero winding transformer.
+
+TRANSFORMER CONSTRUCTION
+
+All transformers have the following essential elements :
+
+|. Two or more electrical windings insulated from each other and from the core (except in auto-transformers).
+
+2. A core, which in case of a single-phase distribution transformers usually comprises cold rolled silicon-steel strip.
+
+The flux path in the assembled core is parallel to the directions of steel’s grain of ‘orientation’.
+
+This results in a reduction in core losses for a given flux density and frequency, or it permits the use of higher core densities
+and reduced size of transformers for given core losses.
+
+‘Other necessary parts are :
+
+A suitable container for the assembled core and windings.
+
+A suitable medium for insulating the core and its windings from each other and from the container,
+
+Suitable bushings for insulating and bringing the terminals of the windings out of the case.
+The two basic types of transformer construction are:
+
+1. The core type.
+2. The shell type.
+The above two types differ in their relative arrangements of copper conductors and the iron cores. In the ‘core type’, the
+copper virtually surrounds the iron core, while in the ‘shell type’, the iron surrounds the copper winding.
+
+1, Core Type Transformer
+The complete magnetic circuit of the core-type transformer is in the shape of the hollow rectangle, as shown in Fig, 2 in
+which Ip is the no-load current and $ is the flux produced by it, N; and N2 are the number of turns on the primary and
+
+secondary sides respectively.
+
+Fig. 2. Magnetic circuit of a core-type transformer.
+
+The core is made of silicon-steel laminations, which are, either rectangular or L-shaped. With the coils wound on two legs,
+ithe appearance is that of Fig. 3.
+
+c—
+Primary and — — Primary ane
+secondary —— — ‘secondary
+colts eoils
+|
+
+Fig. 3. Core-type transformer.
 --- page 19 ---
 = (AA'+AC+BA'+BC) (B+C')
 =AA'. B+AC.B+BA' B+BC. B+ AA'. C+AC. C'+BA'. C'+BC .C'
@@ -10323,6 +14556,35 @@ CO-1; SO-1;
 [4]
 BL-1
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+1. Kirchhoff's Current Law (KCL)
+
+Statement:
+
+“The algebraic sum of currents entering and leaving a junction in an electrical circuit is always zero."
+
+Mathematically:
+
+y Tin = S Tout
+
+or
+
+Yr=0
+
+where J represents the currents at a node.
+
+2. Kirchhoff's Voltage Law (KVL)
+
+Statement:
+
+“The algebraic sum of all voltages around a closed loop in a circuit is always zero."
+
+Mathematically:
+
+Yiv=0
+
+where V represents the voltage drops and rises in a closed circuit loop.
 --- page 2 ---
 b.   Illustrate the connection diagram of a star-connected three-phase system and
 write the equations of
@@ -10371,6 +14633,26 @@ CO-2; SO-1;   [10]
 Find (i) impedance (ii) current and (iii) power absorbed.
 BL-1
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Steps to Apply Norton's Theorem:
+1. Identify the Portion of the Circuit to be Replaced
+¢ Select the portion of the circuit where the load resistor (Rr) is connected.
+2. Remove the Load Resistor (R)
+¢ Temporarily disconnect the load resistor to analyze the network independently.
+3. Find Norton Equivalent Current (I,y)
+© Short-circuit the terminals where Ry, was connected.
+¢ Calculate the short-circuit current (Ic) across the terminals.
+This current is the Norton equivalent current (Iv).
+4, Find Norton Equivalent Resistance (Rwy)
+¢ Deactivate all independent sources:
+Replace voltage sources with a short circuit.
+Replace current sources with an open circuit.
+* Calculate the equivalent resistance (Ry) seen from the open terminals.
+5. Construct the Norton Equivalent Circuit
+Drawa current source of value I,y in parallel with Ry.
+
+e Reconnect the load resistor (Rr) to this equivalent circuit.
 --- page 4 ---
 3m+3m+4m
 a.   Explain using a suitable diagram, the working and construction of a
@@ -10443,6 +14725,37 @@ BL-2
 Working-5 m
 Waveforms- 3m
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Obtain the sum of the three voltages.
+v, = 147.3 cos (@t + 981°)
+v2 = 294.6 cos (@t — 45°)
+v3 = 88.4 sin (@t + 135°)
+Solution
+Data vy = 147.3 cos (@t + 98.1°) = 147.3 sin (@t + 188.1°)
+v2 = 294.6 cos (wr — 45°) = 294.6 sin (@t + 45°)
+v3 = 88.4 sin (@t + 135°)
+Writing the voltages v,, v, and v, in the phasor form,
+
+Vi = 923 sig8.1° = 104.162188.1°
+V2
+
+= _ 294.6
+
+V2 = —— 445° = 208.31245°
+v2
+
+= _ 884
+
+V3 = —= 2135° = 62.512135°
+v2
+
+Resultant voltage V Vi+V24+V3
+
+04.162188.1° + 208.31245° + 62.512135° = 176.82290°
+176.82 V2 sin (@z + 90°) = 250.06 sin (wt + 90°)
+
+v
 --- page 6 ---
 b. Show the block diagram, truth table and logic diagram, k-map of a half adder.
 Q5
@@ -10457,6 +14770,56 @@ Q6
 CO-1; SO-1;   [10]
 BL-5
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Step 1: When the 40 V source is acting alone
+
+1 59
+
+40V
+
+Fig. 2.265
+
+By series—parallel reduction technique,
+7 5a
+
+40V
+
+Fig. 2.266
+40
+
+5+1.67
+From Fig. 2.265, by current-division rule,
+
+10 -
+«2 =5A
+f 6xa5D 5 ©)
+Step II: When the 20 V source is acting alone
+
+20V
+
+1 52
+
+r 22
+
+1.672
+
+20 7
+
+102
+
+Fig. 2.267
+By series—parallel reduction technique,
+52 20V
+
+—w—_
+
+Fig. 2.268
+
+20
+5+1.67
+
+1.672
 --- page 7 ---
 b.   Explain the construction of three phase induction motor with the help of circuit
 Q6   diagram.
@@ -10470,6 +14833,36 @@ CO-1; SO-1;   [7]
 BL-3
 Equations 3M, VA and VB-1M, current calculation-2M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+I= 3x
+
+=2.5A(€)=-2.5A(3)
+
+10+2—
+Step ill: When the 10 V source is acting alone
+52 20
+St0a + Vv
+Fig. 2.269
+
+By series—parallel reduction technique,
+
+re 20
+
+3.33.2 10V
+fia
+Fig. 2.270
+
+r’
+
+10
+= =18
+33342 —/88AC)
+
+Step IV: By superposition theorem,
+ra=V+ir4yn
+=35-2.5+ 1.88
+= 4,38 A(3)
 --- page 8 ---
 b. A 10 kVA, 3300/240 V single phase, 50 Hz transformer has a core area of
 Q7   300 cm2. The flux density is 1.3 Tesla. Determine:
@@ -10477,6 +14870,50 @@ CO-3; SO-1;   (i)   Number of primary turns   [7]
 BL-5   (ii)   Number of secondary turns
 (iii)   Primary full load current
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Solution. Mark the direction of currents in the various branches as shown in Fig. 3.24.
+s the reference node. If voltages V, and V,. at nodes B and C respectively are known, then
+urrents can be calculated.
+
+At node B. ht+h=h
+15-% Wry
+or 1 05 1
+or 15 —Vg+2(Veo-V—)—V_ = 0
+or 4V,-2Ve = 15
+At node C, I,+I, =I;
+Vo-Vy Ve _ 20-¥,
+Ce a cis c
+= 0s 2 I
+or 2(Ve-Vg) + 0-5¥o-(20-V) = 0
+or 3-5Vc¢-2V, = 20
+or 4V,-7V¢ = -40
+Ak B Bist Lc I;
+1, 3
+12 12
+12 20
+=15v 20v =
+I T
+D
+Fig. 3.24
+
+ne eq. (ii) from 3 2 we get, 5V.=55
+= 55/5=11 volts
+Putting Ve= 11 Vineg. “ kel V,=9:25V
+
+15-V, _15-—9.25
+
+Current J; = i a a =S75A
+Current J, = V,/1 =9:25/1 =9-25 A
+V.—-V, 119.25
+Cc (i= Se Se oa.
+urrent J, 05 05 35A
+
+Current J, = VoI2Z=1V/2=5-5A
+
+Current J, = 2. Mie =9A
+
+1 1
 --- page 9 ---
 2m+2m+3m
 c.   For the Boolean expression F=((AB)’+A’+AB)’
@@ -10521,6 +14958,35 @@ CO-1; SO-1;
 [4]
 BL-1
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+1. Kirchhoff's Current Law (KCL)
+
+Statement:
+
+“The algebraic sum of currents entering and leaving a junction in an electrical circuit is always zero."
+
+Mathematically:
+
+y Tin = S Tout
+
+or
+
+Yr=0
+
+where J represents the currents at a node.
+
+2. Kirchhoff's Voltage Law (KVL)
+
+Statement:
+
+“The algebraic sum of all voltages around a closed loop in a circuit is always zero."
+
+Mathematically:
+
+Yiv=0
+
+where V represents the voltage drops and rises in a closed circuit loop.
 --- page 2 ---
 b.   Illustrate the connection diagram of a star-connected three-phase system and
 write the equations of
@@ -10569,6 +15035,26 @@ CO-2; SO-1;   [10]
 Find (i) impedance (ii) current and (iii) power absorbed.
 BL-1
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Steps to Apply Norton's Theorem:
+1. Identify the Portion of the Circuit to be Replaced
+¢ Select the portion of the circuit where the load resistor (Rr) is connected.
+2. Remove the Load Resistor (R)
+¢ Temporarily disconnect the load resistor to analyze the network independently.
+3. Find Norton Equivalent Current (I,y)
+© Short-circuit the terminals where Ry, was connected.
+¢ Calculate the short-circuit current (Ic) across the terminals.
+This current is the Norton equivalent current (Iv).
+4, Find Norton Equivalent Resistance (Rwy)
+¢ Deactivate all independent sources:
+Replace voltage sources with a short circuit.
+Replace current sources with an open circuit.
+* Calculate the equivalent resistance (Ry) seen from the open terminals.
+5. Construct the Norton Equivalent Circuit
+Drawa current source of value I,y in parallel with Ry.
+
+e Reconnect the load resistor (Rr) to this equivalent circuit.
 --- page 4 ---
 3m+3m+4m
 a.   Explain using a suitable diagram, the working and construction of a
@@ -10641,6 +15127,37 @@ BL-2
 Working-5 m
 Waveforms- 3m
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Obtain the sum of the three voltages.
+v, = 147.3 cos (@t + 981°)
+v2 = 294.6 cos (@t — 45°)
+v3 = 88.4 sin (@t + 135°)
+Solution
+Data vy = 147.3 cos (@t + 98.1°) = 147.3 sin (@t + 188.1°)
+v2 = 294.6 cos (wr — 45°) = 294.6 sin (@t + 45°)
+v3 = 88.4 sin (@t + 135°)
+Writing the voltages v,, v, and v, in the phasor form,
+
+Vi = 923 sig8.1° = 104.162188.1°
+V2
+
+= _ 294.6
+
+V2 = —— 445° = 208.31245°
+v2
+
+= _ 884
+
+V3 = —= 2135° = 62.512135°
+v2
+
+Resultant voltage V Vi+V24+V3
+
+04.162188.1° + 208.31245° + 62.512135° = 176.82290°
+176.82 V2 sin (@z + 90°) = 250.06 sin (wt + 90°)
+
+v
 --- page 6 ---
 b. Show the block diagram, truth table and logic diagram, k-map of a half adder.
 Q5
@@ -10655,6 +15172,56 @@ Q6
 CO-1; SO-1;   [10]
 BL-5
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Step 1: When the 40 V source is acting alone
+
+1 59
+
+40V
+
+Fig. 2.265
+
+By series—parallel reduction technique,
+7 5a
+
+40V
+
+Fig. 2.266
+40
+
+5+1.67
+From Fig. 2.265, by current-division rule,
+
+10 -
+«2 =5A
+f 6xa5D 5 ©)
+Step II: When the 20 V source is acting alone
+
+20V
+
+1 52
+
+r 22
+
+1.672
+
+20 7
+
+102
+
+Fig. 2.267
+By series—parallel reduction technique,
+52 20V
+
+—w—_
+
+Fig. 2.268
+
+20
+5+1.67
+
+1.672
 --- page 7 ---
 b.   Explain the construction of three phase induction motor with the help of circuit
 Q6   diagram.
@@ -10668,6 +15235,36 @@ CO-1; SO-1;   [7]
 BL-3
 Equations 3M, VA and VB-1M, current calculation-2M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+I= 3x
+
+=2.5A(€)=-2.5A(3)
+
+10+2—
+Step ill: When the 10 V source is acting alone
+52 20
+St0a + Vv
+Fig. 2.269
+
+By series—parallel reduction technique,
+
+re 20
+
+3.33.2 10V
+fia
+Fig. 2.270
+
+r’
+
+10
+= =18
+33342 —/88AC)
+
+Step IV: By superposition theorem,
+ra=V+ir4yn
+=35-2.5+ 1.88
+= 4,38 A(3)
 --- page 8 ---
 b. A 10 kVA, 3300/240 V single phase, 50 Hz transformer has a core area of
 Q7   300 cm2. The flux density is 1.3 Tesla. Determine:
@@ -10675,6 +15272,50 @@ CO-3; SO-1;   (i)   Number of primary turns   [7]
 BL-5   (ii)   Number of secondary turns
 (iii)   Primary full load current
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Solution. Mark the direction of currents in the various branches as shown in Fig. 3.24.
+s the reference node. If voltages V, and V,. at nodes B and C respectively are known, then
+urrents can be calculated.
+
+At node B. ht+h=h
+15-% Wry
+or 1 05 1
+or 15 —Vg+2(Veo-V—)—V_ = 0
+or 4V,-2Ve = 15
+At node C, I,+I, =I;
+Vo-Vy Ve _ 20-¥,
+Ce a cis c
+= 0s 2 I
+or 2(Ve-Vg) + 0-5¥o-(20-V) = 0
+or 3-5Vc¢-2V, = 20
+or 4V,-7V¢ = -40
+Ak B Bist Lc I;
+1, 3
+12 12
+12 20
+=15v 20v =
+I T
+D
+Fig. 3.24
+
+ne eq. (ii) from 3 2 we get, 5V.=55
+= 55/5=11 volts
+Putting Ve= 11 Vineg. “ kel V,=9:25V
+
+15-V, _15-—9.25
+
+Current J; = i a a =S75A
+Current J, = V,/1 =9:25/1 =9-25 A
+V.—-V, 119.25
+Cc (i= Se Se oa.
+urrent J, 05 05 35A
+
+Current J, = VoI2Z=1V/2=5-5A
+
+Current J, = 2. Mie =9A
+
+1 1
 --- page 9 ---
 2m+2m+3m
 c.   For the Boolean expression F=((AB)’+A’+AB)’
@@ -10719,6 +15360,35 @@ CO-1; SO-1;
 [4]
 BL-1
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+1. Kirchhoff's Current Law (KCL)
+
+Statement:
+
+“The algebraic sum of currents entering and leaving a junction in an electrical circuit is always zero."
+
+Mathematically:
+
+y Tin = S Tout
+
+or
+
+Yr=0
+
+where J represents the currents at a node.
+
+2. Kirchhoff's Voltage Law (KVL)
+
+Statement:
+
+“The algebraic sum of all voltages around a closed loop in a circuit is always zero."
+
+Mathematically:
+
+Yiv=0
+
+where V represents the voltage drops and rises in a closed circuit loop.
 --- page 2 ---
 b.   Illustrate the connection diagram of a star-connected three-phase system and
 write the equations of
@@ -10767,6 +15437,26 @@ CO-2; SO-1;   [10]
 Find (i) impedance (ii) current and (iii) power absorbed.
 BL-1
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Steps to Apply Norton's Theorem:
+1. Identify the Portion of the Circuit to be Replaced
+¢ Select the portion of the circuit where the load resistor (Rr) is connected.
+2. Remove the Load Resistor (R)
+¢ Temporarily disconnect the load resistor to analyze the network independently.
+3. Find Norton Equivalent Current (I,y)
+© Short-circuit the terminals where Ry, was connected.
+¢ Calculate the short-circuit current (Ic) across the terminals.
+This current is the Norton equivalent current (Iv).
+4, Find Norton Equivalent Resistance (Rwy)
+¢ Deactivate all independent sources:
+Replace voltage sources with a short circuit.
+Replace current sources with an open circuit.
+* Calculate the equivalent resistance (Ry) seen from the open terminals.
+5. Construct the Norton Equivalent Circuit
+Drawa current source of value I,y in parallel with Ry.
+
+e Reconnect the load resistor (Rr) to this equivalent circuit.
 --- page 4 ---
 3m+3m+4m
 a.   Explain using a suitable diagram, the working and construction of a
@@ -10839,6 +15529,37 @@ BL-2
 Working-5 m
 Waveforms- 3m
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Obtain the sum of the three voltages.
+v, = 147.3 cos (@t + 981°)
+v2 = 294.6 cos (@t — 45°)
+v3 = 88.4 sin (@t + 135°)
+Solution
+Data vy = 147.3 cos (@t + 98.1°) = 147.3 sin (@t + 188.1°)
+v2 = 294.6 cos (wr — 45°) = 294.6 sin (@t + 45°)
+v3 = 88.4 sin (@t + 135°)
+Writing the voltages v,, v, and v, in the phasor form,
+
+Vi = 923 sig8.1° = 104.162188.1°
+V2
+
+= _ 294.6
+
+V2 = —— 445° = 208.31245°
+v2
+
+= _ 884
+
+V3 = —= 2135° = 62.512135°
+v2
+
+Resultant voltage V Vi+V24+V3
+
+04.162188.1° + 208.31245° + 62.512135° = 176.82290°
+176.82 V2 sin (@z + 90°) = 250.06 sin (wt + 90°)
+
+v
 --- page 6 ---
 b. Show the block diagram, truth table and logic diagram, k-map of a half adder.
 Q5
@@ -10853,6 +15574,56 @@ Q6
 CO-1; SO-1;   [10]
 BL-5
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Step 1: When the 40 V source is acting alone
+
+1 59
+
+40V
+
+Fig. 2.265
+
+By series—parallel reduction technique,
+7 5a
+
+40V
+
+Fig. 2.266
+40
+
+5+1.67
+From Fig. 2.265, by current-division rule,
+
+10 -
+«2 =5A
+f 6xa5D 5 ©)
+Step II: When the 20 V source is acting alone
+
+20V
+
+1 52
+
+r 22
+
+1.672
+
+20 7
+
+102
+
+Fig. 2.267
+By series—parallel reduction technique,
+52 20V
+
+—w—_
+
+Fig. 2.268
+
+20
+5+1.67
+
+1.672
 --- page 7 ---
 b.   Explain the construction of three phase induction motor with the help of circuit
 Q6   diagram.
@@ -10866,6 +15637,36 @@ CO-1; SO-1;   [7]
 BL-3
 Equations 3M, VA and VB-1M, current calculation-2M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+I= 3x
+
+=2.5A(€)=-2.5A(3)
+
+10+2—
+Step ill: When the 10 V source is acting alone
+52 20
+St0a + Vv
+Fig. 2.269
+
+By series—parallel reduction technique,
+
+re 20
+
+3.33.2 10V
+fia
+Fig. 2.270
+
+r’
+
+10
+= =18
+33342 —/88AC)
+
+Step IV: By superposition theorem,
+ra=V+ir4yn
+=35-2.5+ 1.88
+= 4,38 A(3)
 --- page 8 ---
 b. A 10 kVA, 3300/240 V single phase, 50 Hz transformer has a core area of
 Q7   300 cm2. The flux density is 1.3 Tesla. Determine:
@@ -10873,6 +15674,50 @@ CO-3; SO-1;   (i)   Number of primary turns   [7]
 BL-5   (ii)   Number of secondary turns
 (iii)   Primary full load current
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Solution. Mark the direction of currents in the various branches as shown in Fig. 3.24.
+s the reference node. If voltages V, and V,. at nodes B and C respectively are known, then
+urrents can be calculated.
+
+At node B. ht+h=h
+15-% Wry
+or 1 05 1
+or 15 —Vg+2(Veo-V—)—V_ = 0
+or 4V,-2Ve = 15
+At node C, I,+I, =I;
+Vo-Vy Ve _ 20-¥,
+Ce a cis c
+= 0s 2 I
+or 2(Ve-Vg) + 0-5¥o-(20-V) = 0
+or 3-5Vc¢-2V, = 20
+or 4V,-7V¢ = -40
+Ak B Bist Lc I;
+1, 3
+12 12
+12 20
+=15v 20v =
+I T
+D
+Fig. 3.24
+
+ne eq. (ii) from 3 2 we get, 5V.=55
+= 55/5=11 volts
+Putting Ve= 11 Vineg. “ kel V,=9:25V
+
+15-V, _15-—9.25
+
+Current J; = i a a =S75A
+Current J, = V,/1 =9:25/1 =9-25 A
+V.—-V, 119.25
+Cc (i= Se Se oa.
+urrent J, 05 05 35A
+
+Current J, = VoI2Z=1V/2=5-5A
+
+Current J, = 2. Mie =9A
+
+1 1
 --- page 9 ---
 2m+2m+3m
 c.   For the Boolean expression F=((AB)’+A’+AB)’
@@ -10917,6 +15762,35 @@ CO-1; SO-1;
 [4]
 BL-1
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+1. Kirchhoff's Current Law (KCL)
+
+Statement:
+
+“The algebraic sum of currents entering and leaving a junction in an electrical circuit is always zero."
+
+Mathematically:
+
+y Tin = S Tout
+
+or
+
+Yr=0
+
+where J represents the currents at a node.
+
+2. Kirchhoff's Voltage Law (KVL)
+
+Statement:
+
+“The algebraic sum of all voltages around a closed loop in a circuit is always zero."
+
+Mathematically:
+
+Yiv=0
+
+where V represents the voltage drops and rises in a closed circuit loop.
 --- page 2 ---
 b.   Illustrate the connection diagram of a star-connected three-phase system and
 write the equations of
@@ -10965,6 +15839,26 @@ CO-2; SO-1;   [10]
 Find (i) impedance (ii) current and (iii) power absorbed.
 BL-1
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Steps to Apply Norton's Theorem:
+1. Identify the Portion of the Circuit to be Replaced
+¢ Select the portion of the circuit where the load resistor (Rr) is connected.
+2. Remove the Load Resistor (R)
+¢ Temporarily disconnect the load resistor to analyze the network independently.
+3. Find Norton Equivalent Current (I,y)
+© Short-circuit the terminals where Ry, was connected.
+¢ Calculate the short-circuit current (Ic) across the terminals.
+This current is the Norton equivalent current (Iv).
+4, Find Norton Equivalent Resistance (Rwy)
+¢ Deactivate all independent sources:
+Replace voltage sources with a short circuit.
+Replace current sources with an open circuit.
+* Calculate the equivalent resistance (Ry) seen from the open terminals.
+5. Construct the Norton Equivalent Circuit
+Drawa current source of value I,y in parallel with Ry.
+
+e Reconnect the load resistor (Rr) to this equivalent circuit.
 --- page 4 ---
 3m+3m+4m
 a.   Explain using a suitable diagram, the working and construction of a
@@ -11037,6 +15931,37 @@ BL-2
 Working-5 m
 Waveforms- 3m
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Obtain the sum of the three voltages.
+v, = 147.3 cos (@t + 981°)
+v2 = 294.6 cos (@t — 45°)
+v3 = 88.4 sin (@t + 135°)
+Solution
+Data vy = 147.3 cos (@t + 98.1°) = 147.3 sin (@t + 188.1°)
+v2 = 294.6 cos (wr — 45°) = 294.6 sin (@t + 45°)
+v3 = 88.4 sin (@t + 135°)
+Writing the voltages v,, v, and v, in the phasor form,
+
+Vi = 923 sig8.1° = 104.162188.1°
+V2
+
+= _ 294.6
+
+V2 = —— 445° = 208.31245°
+v2
+
+= _ 884
+
+V3 = —= 2135° = 62.512135°
+v2
+
+Resultant voltage V Vi+V24+V3
+
+04.162188.1° + 208.31245° + 62.512135° = 176.82290°
+176.82 V2 sin (@z + 90°) = 250.06 sin (wt + 90°)
+
+v
 --- page 6 ---
 b. Show the block diagram, truth table and logic diagram, k-map of a half adder.
 Q5
@@ -11051,6 +15976,56 @@ Q6
 CO-1; SO-1;   [10]
 BL-5
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Step 1: When the 40 V source is acting alone
+
+1 59
+
+40V
+
+Fig. 2.265
+
+By series—parallel reduction technique,
+7 5a
+
+40V
+
+Fig. 2.266
+40
+
+5+1.67
+From Fig. 2.265, by current-division rule,
+
+10 -
+«2 =5A
+f 6xa5D 5 ©)
+Step II: When the 20 V source is acting alone
+
+20V
+
+1 52
+
+r 22
+
+1.672
+
+20 7
+
+102
+
+Fig. 2.267
+By series—parallel reduction technique,
+52 20V
+
+—w—_
+
+Fig. 2.268
+
+20
+5+1.67
+
+1.672
 --- page 7 ---
 b.   Explain the construction of three phase induction motor with the help of circuit
 Q6   diagram.
@@ -11064,6 +16039,36 @@ CO-1; SO-1;   [7]
 BL-3
 Equations 3M, VA and VB-1M, current calculation-2M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+I= 3x
+
+=2.5A(€)=-2.5A(3)
+
+10+2—
+Step ill: When the 10 V source is acting alone
+52 20
+St0a + Vv
+Fig. 2.269
+
+By series—parallel reduction technique,
+
+re 20
+
+3.33.2 10V
+fia
+Fig. 2.270
+
+r’
+
+10
+= =18
+33342 —/88AC)
+
+Step IV: By superposition theorem,
+ra=V+ir4yn
+=35-2.5+ 1.88
+= 4,38 A(3)
 --- page 8 ---
 b. A 10 kVA, 3300/240 V single phase, 50 Hz transformer has a core area of
 Q7   300 cm2. The flux density is 1.3 Tesla. Determine:
@@ -11071,6 +16076,50 @@ CO-3; SO-1;   (i)   Number of primary turns   [7]
 BL-5   (ii)   Number of secondary turns
 (iii)   Primary full load current
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Solution. Mark the direction of currents in the various branches as shown in Fig. 3.24.
+s the reference node. If voltages V, and V,. at nodes B and C respectively are known, then
+urrents can be calculated.
+
+At node B. ht+h=h
+15-% Wry
+or 1 05 1
+or 15 —Vg+2(Veo-V—)—V_ = 0
+or 4V,-2Ve = 15
+At node C, I,+I, =I;
+Vo-Vy Ve _ 20-¥,
+Ce a cis c
+= 0s 2 I
+or 2(Ve-Vg) + 0-5¥o-(20-V) = 0
+or 3-5Vc¢-2V, = 20
+or 4V,-7V¢ = -40
+Ak B Bist Lc I;
+1, 3
+12 12
+12 20
+=15v 20v =
+I T
+D
+Fig. 3.24
+
+ne eq. (ii) from 3 2 we get, 5V.=55
+= 55/5=11 volts
+Putting Ve= 11 Vineg. “ kel V,=9:25V
+
+15-V, _15-—9.25
+
+Current J; = i a a =S75A
+Current J, = V,/1 =9:25/1 =9-25 A
+V.—-V, 119.25
+Cc (i= Se Se oa.
+urrent J, 05 05 35A
+
+Current J, = VoI2Z=1V/2=5-5A
+
+Current J, = 2. Mie =9A
+
+1 1
 --- page 9 ---
 2m+2m+3m
 c.   For the Boolean expression F=((AB)’+A’+AB)’
@@ -11115,6 +16164,35 @@ CO-1; SO-1;
 [4]
 BL-1
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+1. Kirchhoff's Current Law (KCL)
+
+Statement:
+
+“The algebraic sum of currents entering and leaving a junction in an electrical circuit is always zero."
+
+Mathematically:
+
+y Tin = S Tout
+
+or
+
+Yr=0
+
+where J represents the currents at a node.
+
+2. Kirchhoff's Voltage Law (KVL)
+
+Statement:
+
+“The algebraic sum of all voltages around a closed loop in a circuit is always zero."
+
+Mathematically:
+
+Yiv=0
+
+where V represents the voltage drops and rises in a closed circuit loop.
 --- page 2 ---
 b.   Illustrate the connection diagram of a star-connected three-phase system and
 write the equations of
@@ -11163,6 +16241,26 @@ CO-2; SO-1;   [10]
 Find (i) impedance (ii) current and (iii) power absorbed.
 BL-1
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Steps to Apply Norton's Theorem:
+1. Identify the Portion of the Circuit to be Replaced
+¢ Select the portion of the circuit where the load resistor (Rr) is connected.
+2. Remove the Load Resistor (R)
+¢ Temporarily disconnect the load resistor to analyze the network independently.
+3. Find Norton Equivalent Current (I,y)
+© Short-circuit the terminals where Ry, was connected.
+¢ Calculate the short-circuit current (Ic) across the terminals.
+This current is the Norton equivalent current (Iv).
+4, Find Norton Equivalent Resistance (Rwy)
+¢ Deactivate all independent sources:
+Replace voltage sources with a short circuit.
+Replace current sources with an open circuit.
+* Calculate the equivalent resistance (Ry) seen from the open terminals.
+5. Construct the Norton Equivalent Circuit
+Drawa current source of value I,y in parallel with Ry.
+
+e Reconnect the load resistor (Rr) to this equivalent circuit.
 --- page 4 ---
 3m+3m+4m
 a.   Explain using a suitable diagram, the working and construction of a
@@ -11235,6 +16333,37 @@ BL-2
 Working-5 m
 Waveforms- 3m
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Obtain the sum of the three voltages.
+v, = 147.3 cos (@t + 981°)
+v2 = 294.6 cos (@t — 45°)
+v3 = 88.4 sin (@t + 135°)
+Solution
+Data vy = 147.3 cos (@t + 98.1°) = 147.3 sin (@t + 188.1°)
+v2 = 294.6 cos (wr — 45°) = 294.6 sin (@t + 45°)
+v3 = 88.4 sin (@t + 135°)
+Writing the voltages v,, v, and v, in the phasor form,
+
+Vi = 923 sig8.1° = 104.162188.1°
+V2
+
+= _ 294.6
+
+V2 = —— 445° = 208.31245°
+v2
+
+= _ 884
+
+V3 = —= 2135° = 62.512135°
+v2
+
+Resultant voltage V Vi+V24+V3
+
+04.162188.1° + 208.31245° + 62.512135° = 176.82290°
+176.82 V2 sin (@z + 90°) = 250.06 sin (wt + 90°)
+
+v
 --- page 6 ---
 b. Show the block diagram, truth table and logic diagram, k-map of a half adder.
 Q5
@@ -11249,6 +16378,56 @@ Q6
 CO-1; SO-1;   [10]
 BL-5
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Step 1: When the 40 V source is acting alone
+
+1 59
+
+40V
+
+Fig. 2.265
+
+By series—parallel reduction technique,
+7 5a
+
+40V
+
+Fig. 2.266
+40
+
+5+1.67
+From Fig. 2.265, by current-division rule,
+
+10 -
+«2 =5A
+f 6xa5D 5 ©)
+Step II: When the 20 V source is acting alone
+
+20V
+
+1 52
+
+r 22
+
+1.672
+
+20 7
+
+102
+
+Fig. 2.267
+By series—parallel reduction technique,
+52 20V
+
+—w—_
+
+Fig. 2.268
+
+20
+5+1.67
+
+1.672
 --- page 7 ---
 b.   Explain the construction of three phase induction motor with the help of circuit
 Q6   diagram.
@@ -11262,6 +16441,36 @@ CO-1; SO-1;   [7]
 BL-3
 Equations 3M, VA and VB-1M, current calculation-2M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+I= 3x
+
+=2.5A(€)=-2.5A(3)
+
+10+2—
+Step ill: When the 10 V source is acting alone
+52 20
+St0a + Vv
+Fig. 2.269
+
+By series—parallel reduction technique,
+
+re 20
+
+3.33.2 10V
+fia
+Fig. 2.270
+
+r’
+
+10
+= =18
+33342 —/88AC)
+
+Step IV: By superposition theorem,
+ra=V+ir4yn
+=35-2.5+ 1.88
+= 4,38 A(3)
 --- page 8 ---
 b. A 10 kVA, 3300/240 V single phase, 50 Hz transformer has a core area of
 Q7   300 cm2. The flux density is 1.3 Tesla. Determine:
@@ -11269,6 +16478,50 @@ CO-3; SO-1;   (i)   Number of primary turns   [7]
 BL-5   (ii)   Number of secondary turns
 (iii)   Primary full load current
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Solution. Mark the direction of currents in the various branches as shown in Fig. 3.24.
+s the reference node. If voltages V, and V,. at nodes B and C respectively are known, then
+urrents can be calculated.
+
+At node B. ht+h=h
+15-% Wry
+or 1 05 1
+or 15 —Vg+2(Veo-V—)—V_ = 0
+or 4V,-2Ve = 15
+At node C, I,+I, =I;
+Vo-Vy Ve _ 20-¥,
+Ce a cis c
+= 0s 2 I
+or 2(Ve-Vg) + 0-5¥o-(20-V) = 0
+or 3-5Vc¢-2V, = 20
+or 4V,-7V¢ = -40
+Ak B Bist Lc I;
+1, 3
+12 12
+12 20
+=15v 20v =
+I T
+D
+Fig. 3.24
+
+ne eq. (ii) from 3 2 we get, 5V.=55
+= 55/5=11 volts
+Putting Ve= 11 Vineg. “ kel V,=9:25V
+
+15-V, _15-—9.25
+
+Current J; = i a a =S75A
+Current J, = V,/1 =9:25/1 =9-25 A
+V.—-V, 119.25
+Cc (i= Se Se oa.
+urrent J, 05 05 35A
+
+Current J, = VoI2Z=1V/2=5-5A
+
+Current J, = 2. Mie =9A
+
+1 1
 --- page 9 ---
 2m+2m+3m
 c.   For the Boolean expression F=((AB)’+A’+AB)’
@@ -11313,6 +16566,35 @@ CO-1; SO-1;
 [4]
 BL-1
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+1. Kirchhoff's Current Law (KCL)
+
+Statement:
+
+“The algebraic sum of currents entering and leaving a junction in an electrical circuit is always zero."
+
+Mathematically:
+
+y Tin = S Tout
+
+or
+
+Yr=0
+
+where J represents the currents at a node.
+
+2. Kirchhoff's Voltage Law (KVL)
+
+Statement:
+
+“The algebraic sum of all voltages around a closed loop in a circuit is always zero."
+
+Mathematically:
+
+Yiv=0
+
+where V represents the voltage drops and rises in a closed circuit loop.
 --- page 2 ---
 b.   Illustrate the connection diagram of a star-connected three-phase system and
 write the equations of
@@ -11361,6 +16643,26 @@ CO-2; SO-1;   [10]
 Find (i) impedance (ii) current and (iii) power absorbed.
 BL-1
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Steps to Apply Norton's Theorem:
+1. Identify the Portion of the Circuit to be Replaced
+¢ Select the portion of the circuit where the load resistor (Rr) is connected.
+2. Remove the Load Resistor (R)
+¢ Temporarily disconnect the load resistor to analyze the network independently.
+3. Find Norton Equivalent Current (I,y)
+© Short-circuit the terminals where Ry, was connected.
+¢ Calculate the short-circuit current (Ic) across the terminals.
+This current is the Norton equivalent current (Iv).
+4, Find Norton Equivalent Resistance (Rwy)
+¢ Deactivate all independent sources:
+Replace voltage sources with a short circuit.
+Replace current sources with an open circuit.
+* Calculate the equivalent resistance (Ry) seen from the open terminals.
+5. Construct the Norton Equivalent Circuit
+Drawa current source of value I,y in parallel with Ry.
+
+e Reconnect the load resistor (Rr) to this equivalent circuit.
 --- page 4 ---
 3m+3m+4m
 a.   Explain using a suitable diagram, the working and construction of a
@@ -11433,6 +16735,37 @@ BL-2
 Working-5 m
 Waveforms- 3m
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Obtain the sum of the three voltages.
+v, = 147.3 cos (@t + 981°)
+v2 = 294.6 cos (@t — 45°)
+v3 = 88.4 sin (@t + 135°)
+Solution
+Data vy = 147.3 cos (@t + 98.1°) = 147.3 sin (@t + 188.1°)
+v2 = 294.6 cos (wr — 45°) = 294.6 sin (@t + 45°)
+v3 = 88.4 sin (@t + 135°)
+Writing the voltages v,, v, and v, in the phasor form,
+
+Vi = 923 sig8.1° = 104.162188.1°
+V2
+
+= _ 294.6
+
+V2 = —— 445° = 208.31245°
+v2
+
+= _ 884
+
+V3 = —= 2135° = 62.512135°
+v2
+
+Resultant voltage V Vi+V24+V3
+
+04.162188.1° + 208.31245° + 62.512135° = 176.82290°
+176.82 V2 sin (@z + 90°) = 250.06 sin (wt + 90°)
+
+v
 --- page 6 ---
 b. Show the block diagram, truth table and logic diagram, k-map of a half adder.
 Q5
@@ -11447,6 +16780,56 @@ Q6
 CO-1; SO-1;   [10]
 BL-5
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Step 1: When the 40 V source is acting alone
+
+1 59
+
+40V
+
+Fig. 2.265
+
+By series—parallel reduction technique,
+7 5a
+
+40V
+
+Fig. 2.266
+40
+
+5+1.67
+From Fig. 2.265, by current-division rule,
+
+10 -
+«2 =5A
+f 6xa5D 5 ©)
+Step II: When the 20 V source is acting alone
+
+20V
+
+1 52
+
+r 22
+
+1.672
+
+20 7
+
+102
+
+Fig. 2.267
+By series—parallel reduction technique,
+52 20V
+
+—w—_
+
+Fig. 2.268
+
+20
+5+1.67
+
+1.672
 --- page 7 ---
 b.   Explain the construction of three phase induction motor with the help of circuit
 Q6   diagram.
@@ -11460,6 +16843,36 @@ CO-1; SO-1;   [7]
 BL-3
 Equations 3M, VA and VB-1M, current calculation-2M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+I= 3x
+
+=2.5A(€)=-2.5A(3)
+
+10+2—
+Step ill: When the 10 V source is acting alone
+52 20
+St0a + Vv
+Fig. 2.269
+
+By series—parallel reduction technique,
+
+re 20
+
+3.33.2 10V
+fia
+Fig. 2.270
+
+r’
+
+10
+= =18
+33342 —/88AC)
+
+Step IV: By superposition theorem,
+ra=V+ir4yn
+=35-2.5+ 1.88
+= 4,38 A(3)
 --- page 8 ---
 b. A 10 kVA, 3300/240 V single phase, 50 Hz transformer has a core area of
 Q7   300 cm2. The flux density is 1.3 Tesla. Determine:
@@ -11467,6 +16880,50 @@ CO-3; SO-1;   (i)   Number of primary turns   [7]
 BL-5   (ii)   Number of secondary turns
 (iii)   Primary full load current
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Solution. Mark the direction of currents in the various branches as shown in Fig. 3.24.
+s the reference node. If voltages V, and V,. at nodes B and C respectively are known, then
+urrents can be calculated.
+
+At node B. ht+h=h
+15-% Wry
+or 1 05 1
+or 15 —Vg+2(Veo-V—)—V_ = 0
+or 4V,-2Ve = 15
+At node C, I,+I, =I;
+Vo-Vy Ve _ 20-¥,
+Ce a cis c
+= 0s 2 I
+or 2(Ve-Vg) + 0-5¥o-(20-V) = 0
+or 3-5Vc¢-2V, = 20
+or 4V,-7V¢ = -40
+Ak B Bist Lc I;
+1, 3
+12 12
+12 20
+=15v 20v =
+I T
+D
+Fig. 3.24
+
+ne eq. (ii) from 3 2 we get, 5V.=55
+= 55/5=11 volts
+Putting Ve= 11 Vineg. “ kel V,=9:25V
+
+15-V, _15-—9.25
+
+Current J; = i a a =S75A
+Current J, = V,/1 =9:25/1 =9-25 A
+V.—-V, 119.25
+Cc (i= Se Se oa.
+urrent J, 05 05 35A
+
+Current J, = VoI2Z=1V/2=5-5A
+
+Current J, = 2. Mie =9A
+
+1 1
 --- page 9 ---
 2m+2m+3m
 c.   For the Boolean expression F=((AB)’+A’+AB)’
@@ -11511,6 +16968,35 @@ CO-1; SO-1;
 [4]
 BL-1
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+1. Kirchhoff's Current Law (KCL)
+
+Statement:
+
+“The algebraic sum of currents entering and leaving a junction in an electrical circuit is always zero."
+
+Mathematically:
+
+y Tin = S Tout
+
+or
+
+Yr=0
+
+where J represents the currents at a node.
+
+2. Kirchhoff's Voltage Law (KVL)
+
+Statement:
+
+“The algebraic sum of all voltages around a closed loop in a circuit is always zero."
+
+Mathematically:
+
+Yiv=0
+
+where V represents the voltage drops and rises in a closed circuit loop.
 --- page 2 ---
 b.   Illustrate the connection diagram of a star-connected three-phase system and
 write the equations of
@@ -11559,6 +17045,26 @@ CO-2; SO-1;   [10]
 Find (i) impedance (ii) current and (iii) power absorbed.
 BL-1
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Steps to Apply Norton's Theorem:
+1. Identify the Portion of the Circuit to be Replaced
+¢ Select the portion of the circuit where the load resistor (Rr) is connected.
+2. Remove the Load Resistor (R)
+¢ Temporarily disconnect the load resistor to analyze the network independently.
+3. Find Norton Equivalent Current (I,y)
+© Short-circuit the terminals where Ry, was connected.
+¢ Calculate the short-circuit current (Ic) across the terminals.
+This current is the Norton equivalent current (Iv).
+4, Find Norton Equivalent Resistance (Rwy)
+¢ Deactivate all independent sources:
+Replace voltage sources with a short circuit.
+Replace current sources with an open circuit.
+* Calculate the equivalent resistance (Ry) seen from the open terminals.
+5. Construct the Norton Equivalent Circuit
+Drawa current source of value I,y in parallel with Ry.
+
+e Reconnect the load resistor (Rr) to this equivalent circuit.
 --- page 4 ---
 3m+3m+4m
 a.   Explain using a suitable diagram, the working and construction of a
@@ -11631,6 +17137,37 @@ BL-2
 Working-5 m
 Waveforms- 3m
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Obtain the sum of the three voltages.
+v, = 147.3 cos (@t + 981°)
+v2 = 294.6 cos (@t — 45°)
+v3 = 88.4 sin (@t + 135°)
+Solution
+Data vy = 147.3 cos (@t + 98.1°) = 147.3 sin (@t + 188.1°)
+v2 = 294.6 cos (wr — 45°) = 294.6 sin (@t + 45°)
+v3 = 88.4 sin (@t + 135°)
+Writing the voltages v,, v, and v, in the phasor form,
+
+Vi = 923 sig8.1° = 104.162188.1°
+V2
+
+= _ 294.6
+
+V2 = —— 445° = 208.31245°
+v2
+
+= _ 884
+
+V3 = —= 2135° = 62.512135°
+v2
+
+Resultant voltage V Vi+V24+V3
+
+04.162188.1° + 208.31245° + 62.512135° = 176.82290°
+176.82 V2 sin (@z + 90°) = 250.06 sin (wt + 90°)
+
+v
 --- page 6 ---
 b. Show the block diagram, truth table and logic diagram, k-map of a half adder.
 Q5
@@ -11645,6 +17182,56 @@ Q6
 CO-1; SO-1;   [10]
 BL-5
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Step 1: When the 40 V source is acting alone
+
+1 59
+
+40V
+
+Fig. 2.265
+
+By series—parallel reduction technique,
+7 5a
+
+40V
+
+Fig. 2.266
+40
+
+5+1.67
+From Fig. 2.265, by current-division rule,
+
+10 -
+«2 =5A
+f 6xa5D 5 ©)
+Step II: When the 20 V source is acting alone
+
+20V
+
+1 52
+
+r 22
+
+1.672
+
+20 7
+
+102
+
+Fig. 2.267
+By series—parallel reduction technique,
+52 20V
+
+—w—_
+
+Fig. 2.268
+
+20
+5+1.67
+
+1.672
 --- page 7 ---
 b.   Explain the construction of three phase induction motor with the help of circuit
 Q6   diagram.
@@ -11658,6 +17245,36 @@ CO-1; SO-1;   [7]
 BL-3
 Equations 3M, VA and VB-1M, current calculation-2M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+I= 3x
+
+=2.5A(€)=-2.5A(3)
+
+10+2—
+Step ill: When the 10 V source is acting alone
+52 20
+St0a + Vv
+Fig. 2.269
+
+By series—parallel reduction technique,
+
+re 20
+
+3.33.2 10V
+fia
+Fig. 2.270
+
+r’
+
+10
+= =18
+33342 —/88AC)
+
+Step IV: By superposition theorem,
+ra=V+ir4yn
+=35-2.5+ 1.88
+= 4,38 A(3)
 --- page 8 ---
 b. A 10 kVA, 3300/240 V single phase, 50 Hz transformer has a core area of
 Q7   300 cm2. The flux density is 1.3 Tesla. Determine:
@@ -11665,6 +17282,50 @@ CO-3; SO-1;   (i)   Number of primary turns   [7]
 BL-5   (ii)   Number of secondary turns
 (iii)   Primary full load current
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Solution. Mark the direction of currents in the various branches as shown in Fig. 3.24.
+s the reference node. If voltages V, and V,. at nodes B and C respectively are known, then
+urrents can be calculated.
+
+At node B. ht+h=h
+15-% Wry
+or 1 05 1
+or 15 —Vg+2(Veo-V—)—V_ = 0
+or 4V,-2Ve = 15
+At node C, I,+I, =I;
+Vo-Vy Ve _ 20-¥,
+Ce a cis c
+= 0s 2 I
+or 2(Ve-Vg) + 0-5¥o-(20-V) = 0
+or 3-5Vc¢-2V, = 20
+or 4V,-7V¢ = -40
+Ak B Bist Lc I;
+1, 3
+12 12
+12 20
+=15v 20v =
+I T
+D
+Fig. 3.24
+
+ne eq. (ii) from 3 2 we get, 5V.=55
+= 55/5=11 volts
+Putting Ve= 11 Vineg. “ kel V,=9:25V
+
+15-V, _15-—9.25
+
+Current J; = i a a =S75A
+Current J, = V,/1 =9:25/1 =9-25 A
+V.—-V, 119.25
+Cc (i= Se Se oa.
+urrent J, 05 05 35A
+
+Current J, = VoI2Z=1V/2=5-5A
+
+Current J, = 2. Mie =9A
+
+1 1
 --- page 9 ---
 2m+2m+3m
 c.   For the Boolean expression F=((AB)’+A’+AB)’
@@ -11709,6 +17370,35 @@ CO-1; SO-1;
 [4]
 BL-1
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+1. Kirchhoff's Current Law (KCL)
+
+Statement:
+
+“The algebraic sum of currents entering and leaving a junction in an electrical circuit is always zero."
+
+Mathematically:
+
+y Tin = S Tout
+
+or
+
+Yr=0
+
+where J represents the currents at a node.
+
+2. Kirchhoff's Voltage Law (KVL)
+
+Statement:
+
+“The algebraic sum of all voltages around a closed loop in a circuit is always zero."
+
+Mathematically:
+
+Yiv=0
+
+where V represents the voltage drops and rises in a closed circuit loop.
 --- page 2 ---
 b.   Illustrate the connection diagram of a star-connected three-phase system and
 write the equations of
@@ -11757,6 +17447,26 @@ CO-2; SO-1;   [10]
 Find (i) impedance (ii) current and (iii) power absorbed.
 BL-1
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Steps to Apply Norton's Theorem:
+1. Identify the Portion of the Circuit to be Replaced
+¢ Select the portion of the circuit where the load resistor (Rr) is connected.
+2. Remove the Load Resistor (R)
+¢ Temporarily disconnect the load resistor to analyze the network independently.
+3. Find Norton Equivalent Current (I,y)
+© Short-circuit the terminals where Ry, was connected.
+¢ Calculate the short-circuit current (Ic) across the terminals.
+This current is the Norton equivalent current (Iv).
+4, Find Norton Equivalent Resistance (Rwy)
+¢ Deactivate all independent sources:
+Replace voltage sources with a short circuit.
+Replace current sources with an open circuit.
+* Calculate the equivalent resistance (Ry) seen from the open terminals.
+5. Construct the Norton Equivalent Circuit
+Drawa current source of value I,y in parallel with Ry.
+
+e Reconnect the load resistor (Rr) to this equivalent circuit.
 --- page 4 ---
 3m+3m+4m
 a.   Explain using a suitable diagram, the working and construction of a
@@ -11829,6 +17539,37 @@ BL-2
 Working-5 m
 Waveforms- 3m
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Obtain the sum of the three voltages.
+v, = 147.3 cos (@t + 981°)
+v2 = 294.6 cos (@t — 45°)
+v3 = 88.4 sin (@t + 135°)
+Solution
+Data vy = 147.3 cos (@t + 98.1°) = 147.3 sin (@t + 188.1°)
+v2 = 294.6 cos (wr — 45°) = 294.6 sin (@t + 45°)
+v3 = 88.4 sin (@t + 135°)
+Writing the voltages v,, v, and v, in the phasor form,
+
+Vi = 923 sig8.1° = 104.162188.1°
+V2
+
+= _ 294.6
+
+V2 = —— 445° = 208.31245°
+v2
+
+= _ 884
+
+V3 = —= 2135° = 62.512135°
+v2
+
+Resultant voltage V Vi+V24+V3
+
+04.162188.1° + 208.31245° + 62.512135° = 176.82290°
+176.82 V2 sin (@z + 90°) = 250.06 sin (wt + 90°)
+
+v
 --- page 6 ---
 b. Show the block diagram, truth table and logic diagram, k-map of a half adder.
 Q5
@@ -11843,6 +17584,56 @@ Q6
 CO-1; SO-1;   [10]
 BL-5
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Step 1: When the 40 V source is acting alone
+
+1 59
+
+40V
+
+Fig. 2.265
+
+By series—parallel reduction technique,
+7 5a
+
+40V
+
+Fig. 2.266
+40
+
+5+1.67
+From Fig. 2.265, by current-division rule,
+
+10 -
+«2 =5A
+f 6xa5D 5 ©)
+Step II: When the 20 V source is acting alone
+
+20V
+
+1 52
+
+r 22
+
+1.672
+
+20 7
+
+102
+
+Fig. 2.267
+By series—parallel reduction technique,
+52 20V
+
+—w—_
+
+Fig. 2.268
+
+20
+5+1.67
+
+1.672
 --- page 7 ---
 b.   Explain the construction of three phase induction motor with the help of circuit
 Q6   diagram.
@@ -11856,6 +17647,36 @@ CO-1; SO-1;   [7]
 BL-3
 Equations 3M, VA and VB-1M, current calculation-2M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+I= 3x
+
+=2.5A(€)=-2.5A(3)
+
+10+2—
+Step ill: When the 10 V source is acting alone
+52 20
+St0a + Vv
+Fig. 2.269
+
+By series—parallel reduction technique,
+
+re 20
+
+3.33.2 10V
+fia
+Fig. 2.270
+
+r’
+
+10
+= =18
+33342 —/88AC)
+
+Step IV: By superposition theorem,
+ra=V+ir4yn
+=35-2.5+ 1.88
+= 4,38 A(3)
 --- page 8 ---
 b. A 10 kVA, 3300/240 V single phase, 50 Hz transformer has a core area of
 Q7   300 cm2. The flux density is 1.3 Tesla. Determine:
@@ -11863,6 +17684,50 @@ CO-3; SO-1;   (i)   Number of primary turns   [7]
 BL-5   (ii)   Number of secondary turns
 (iii)   Primary full load current
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Solution. Mark the direction of currents in the various branches as shown in Fig. 3.24.
+s the reference node. If voltages V, and V,. at nodes B and C respectively are known, then
+urrents can be calculated.
+
+At node B. ht+h=h
+15-% Wry
+or 1 05 1
+or 15 —Vg+2(Veo-V—)—V_ = 0
+or 4V,-2Ve = 15
+At node C, I,+I, =I;
+Vo-Vy Ve _ 20-¥,
+Ce a cis c
+= 0s 2 I
+or 2(Ve-Vg) + 0-5¥o-(20-V) = 0
+or 3-5Vc¢-2V, = 20
+or 4V,-7V¢ = -40
+Ak B Bist Lc I;
+1, 3
+12 12
+12 20
+=15v 20v =
+I T
+D
+Fig. 3.24
+
+ne eq. (ii) from 3 2 we get, 5V.=55
+= 55/5=11 volts
+Putting Ve= 11 Vineg. “ kel V,=9:25V
+
+15-V, _15-—9.25
+
+Current J; = i a a =S75A
+Current J, = V,/1 =9:25/1 =9-25 A
+V.—-V, 119.25
+Cc (i= Se Se oa.
+urrent J, 05 05 35A
+
+Current J, = VoI2Z=1V/2=5-5A
+
+Current J, = 2. Mie =9A
+
+1 1
 --- page 9 ---
 2m+2m+3m
 c.   For the Boolean expression F=((AB)’+A’+AB)’
@@ -11881,6 +17746,7 @@ BL-6,4
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_AI_7012/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 80.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -11915,6 +17781,36 @@ I 3 = -2.01A   01Mark
 4
 2.
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+A circuit containing reactance is said to be in resonance if the voltage across the circuit
+is in phase with the current through it. At resonance, the circuit thus behaves as a pure
+resistor and the net reactance is zero.
+
+Consider the series R-£-C circuit as shown in Fig. The impedance of the circuit is
+
+Z=R he Ny" ih
+=R+joL —j;—
+JO8 Fae i
+; 1
+=R+j| oL-— aw
+Ve Vin SIN cat
+
+At resonance, 7 must be resistive. Therefore,
+the condition for resonance is
+
+l
+
+Series circuit
+
+ol -— =0
+ac
+I
+on TIE
+I
+I-lo~ sate
+
+where /, is called the resonant frequency of the circuit.
 --- page 3 ---
 Explanation - 1, derivation - 3 marks
 4
@@ -11998,6 +17894,39 @@ Page 5 of 18
 Construction of DC motor (Neat Sketch) : 4Marks
 Explanation: 3 Marks
 Page 6 of 18
+
+[Text in pictures on this page, read by OCR]
+L=500* 10°°H: C = 80/n? x 107! F: R = 628
+
+(i) Resonant frequency is
+
+(i) Resonant frequency is
+
+tie lL 1
+" 2nVLC 80
+
+2m, |500 x10°° x—x107"*
+nT
+
+1
+240,000 x 10-“*
+
+_ 10,000x10°
+~ 4
+
+f, = 2500 KHz
+
+(ii) Q-factor
+
+_@L _ 2x%3.14«2500x 10° x500x10°
+R 628
+
+Q=12.5
+
+Q=12.5
+
+Resonance Frequency 5 Marks, Quality Factor 5 marks
+|
 --- page 7 ---
 Armature
 Winding
@@ -12061,6 +17990,23 @@ mark
 3.   20
 10
 Page 8 of 18
+
+[Text in pictures on this page, read by OCR]
+Voltage At resonance,
+
+L=—
+@y ac
+1
+
+i= i
+
+ML Ih co
+Vi= Ve
+
+Thus, potential difference across inductor equal to potential difference across capacitor
+being equal and opposite cancel each other. Also, since /) is maximum, Vi and Ve, will
+also be maximum. Thus, voltage magnification takes place during resonance. Hence, it is
+also referred to as voltage magnification circuit.
 --- page 9 ---
 1. 2 marks for each of the part
 2. A device, such as a semiconductor diode, which can convert a sinusoidal input   10
@@ -12069,6 +18015,41 @@ waveform with a nonzero average component is called a rectifier.   -------------
 ----(1 Mark)
 The following Fig.1 shows a circuit diagram of a half-wave rectifier circuit.
 Page 9 of 18
+
+[Text in pictures on this page, read by OCR]
+
+1 1 1
+
+X= SS = SS =
+O° GC ~ Bsfl ~ Onx50x8x 10°
+
+= 398.0012
+Thus,
+
+© Impedance of the circuit
+
+L= y(RF + (Mi — Xe}? = vw + (25.12 — 298.00)? = 372.99 0
+
+® Circuit current
+
+Vv 240
+f= 3 >to ‘0.643 A
+® Phase angle between voltage and current
+}=tan 1X 7) = tan" 25.12 me = _20.38°
+
+The negative sing of phase angle shows that current is leading the voltage.
+
+® Power Factor
+= Z = 35900 ~ LOT2(leading)
+cos = = = 0.010 ing,
+
+© Power consumed
+P= Vicos# = 240 x 0.643 « 0.01072 = 1.654 W
+
+® Q-factor of circuit at series resonance
+
+1 1 ‘0.08
+Qy = factor = = @"BVaen
 --- page 10 ---
 Fig.1
 ---------------------------------------------------------------------------------------------------------
@@ -12270,6 +18251,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_CSE_DS_7011/Basics of Electrical and Electronics Engineering/ANS_Basics of Electrical and Electronics Engineering(702EX0C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Feb 2025
 - Text: text (14 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -12306,6 +18288,43 @@ Ans:
 2) Line Voltage:
 3) Cycle:
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+4lo = 61, —8 Equation 1
+The mesh equation of second mesh is
+—10(1g — Ih) — 30Ig +80 =0
+Divide the above equation with 10,
+—(Ig —h) —-3In+8=0
+>--4h4+h+8=0
+
+4In =I, +8 Equation 2
+61, -8=1,+8
+
+=>5r, = 16
+
+61, -8=1, +8
+
+=> 5, = 16
+
+=h=2a
+
+Substitute 7, value in Equation 2.
+
+16
+
+4In = 7 +8
+56
+=> 4, = —
+er)
+>h= a
+So, we got the mesh currents 7; and iz as as A and is A
+
+respectively.
+
+Step 5 — The current flowing through 30 & resistor is nothing but
+the mesh current Jp and it is equal to is A. Now, we can find the
+
+voltage across 30 2 resistor by using Ohm’s law.
 --- page 3 ---
 4) Resonance Curve:
 CO-3; SO-   c   Compare Single phase and Three phase induction motor   [4]
@@ -12317,6 +18336,56 @@ Ans:
 CO-4; SO-   e   Design Half Adder circuit. (Truth Table, Equation and Diagram)   [4]
 1; BL-6   Truth Table 1M Equation 2M Diagram 1M
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Comparison between Single Phase and Three Phase Induction Motors
+
+Characteristics Single Phase induction Motor Three Phase Induction Motor
+Power Source Single Phase (1-phase) Only. ‘Generally requires more than a single phase power
+source (like 3-phase supply).
+Starting Mechanism They are NOT self-starting They are self-starting
+Efficiency Low as only one winding has to carry all the | High because three winding are available to camry
+current. the current
+Types Shaded pole. Split Phase Squirrel cage type
+Capacitor Start Inductor Run. Slip ring type or wound induction motor.
+Capacitor Start Capacitor Run |
+Cost Cheaper. Quite Expensive
+Slip () There are two slips: Tthas only forward slip
+1. Forward slip (s). 2. Backward slip (2-s)
+Size (for same power Larger in size ‘Smaller in size.
+rating)
+Power Factor Low. High.
+Repair & Maintenance _| Easier to repair. Difficult to repair and maintain.
+Structure Simple and easy to manufacture. ‘More complicated to construct because of extra
+components involvement.
+Starting Torque Low. High,
+Operational Reliability _| More Reliable. Less Reliable
+Motor Rotation There is no mechanism to change the rotation. _| Can be changed easily by changing the phase
+sequence in stator.
+Uses Frequently used for lighter loads. Blowers Extensively employed in industrial and commercial
+‘Vacuum cleaner fans. Centrifugal pump. drives since they are more rugged and economical
+
+‘Washing machine. Grinder. Compressor. in terms of operational efficiency.
+
+In half wave rectifier, rectifying element conducts only during positive half cycle of
+input a.c. supply. The negative half cycles of a.c. supply are eliminated from the output.
+o This rectifier circuit consists of
+° resistive load, rectifying element, ie. p-n
+junction diode, and the source of a.c.
+Epc Ri voltage, all connected in series. The circuit
+diagram is shown in the Fig. 1.32.
+Usually, the rectifier circuits are operated
+transformer
+from ac mains supply. To obtain the
+Fae 2S Hee evemyermctiee: desired d.c. voltage across the load, the
+a.c. voltage is applied to rectifier circuit using suitable step-up or step-down transformer,
+mostly a step-down one, with necessary turns ratio.
+The input voltage to the half-wave rectifier circuit shown in the Fig. 1.32 is a
+sinusoidal ac. voltage, having a frequency which is the supply frequency, 50 Hz.
+
+Single phase |
+A.C.Supply
+Input
 --- page 4 ---
 Ans:
 Q2   a   Solve the following circuit using Node Current Method to find the node voltages.   [10]
@@ -12324,6 +18393,19 @@ CO-1; SO-
 1; BL-3
 Equations 3M each finding Node voltages 2M each
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+A B Sum Carry
+
+1) 0 0 0
+1) 1 1 )
+1 0 1 0
+1 1 0 1
+
+If we observe the ‘Sum’ values in the above truth table. it resembles an Ex-OR Gate. Similarly.
+the values for ‘Carry’ in the above truth table resembles an AND Gate. So, to properly implement
+a Half Adder, you need two Logic Gates: an XOR gate for ‘Sum’ Output and an AND gate for
+‘Carry’ output. The following image show's the Logic Diagram of a Half Adder.
 --- page 5 ---
 Q2   b   Construct the series resonance circuit. (Resonance curve, phasor diagram,   [10]
 Bandwidth, Half power frequencies and Quality factor)
@@ -12331,6 +18413,35 @@ CO-2; SO-
 Circuit Diagram 2M, Curve 2M, Phasor diagram 1M , Bandwidth 2M half
 1; BL-3   power frequencies 2M , quality Factor 1M
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+19 VW
+
+10 Vv ¢ | 52 Eo 2s
+
+S= —-3 (Ref)
+
+Figure 56
+Apply KCL at node Vy
+
+[“ -10 MM v2] _ 6
+1 5 2
+Vil+0.2+05])—10—-05% = Oo
+Wo+02+05)-05% = 10
+L7Vi— 0.5 = 10
+
+Apply KCL at node Ws
+
+[3 ” Va—-Vi _ 2| _ o
+
+10 2
+—0.5V¥, + a[0.1+0.5]) = 2
+—0.5¥, +0.6 = 2
+
+The simultancous equations are
+
+1.7%, —0.5v¥ = 10
+—0.5V,4+0.6¥o = 2
 --- page 6 ---
 a   When the sinusoidal voltage 120V(rms) is applied to series R-L circuit, it is found [10]
 that there occurs a power dissipation of 1200W and a current flow given by
@@ -12347,6 +18458,28 @@ Q3
 CO-3; SO-
 1; BL-2
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+V=120V
+i (4) = 28.3 sin (3141 — 9)
+
+P= 1200 W
+28.3
+I= — = =2001A
+v2
+P= VI cos @
+1200 = 120 x 20.01 x cos @
+cos @ = 0.499
+9 = 60.02°
+Vv 120
+2= 7~ 3001 ~°?
+
+Z =Z2¢@=6 260.02° =3 + j5.2Q
+Resistance R = 3 Q
+Reactance X, = 5.2 Q
+X, = @L
+5.195 =314 x LZ
+Inductance L = 0.0165 H
 --- page 7 ---
 Q4   a   Illustrate the generation of three phase ac circuit. Develop the relationship   [10]
 between phase and line voltages and phase and line current in Delta Connection.
@@ -12355,6 +18488,52 @@ Diagram 2M explanation with equation and waveform 4M. Relationship
 1; BL-1,3
 diagram 1M equations 3M.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Working Principle of Single Phase Induction Motor
+
+We know that for the working of any electrical motor whether its AC or DC motor, we require two fluxes as the interaction of these two
+fluxes produced the required torque. When we apply a single phase AC supply to the stator winding of single phase induction motor, the
+altemating current starts flowing through the stator or main winding. This altemating current produces an altemating flux called main flux.
+This main flux also links with the rotor conductors and hence cut the rotor conductors.
+
+According to the Faraday’s law of electromagnetic induction, emf gets induced in the rotor. As the rotor circuit is closed one so, the current
+starts flowing in the rotor. This current is called the rotor current. This rotor current produces its flux called rotor flux. Since this flux is
+produced due to the induction principle so, the motor working on this principle got its name as an induction motor. Now there are two fluxes
+
+one is main flux, and another is called rotor flux. These two fluxes produce the desired torque which is required by the motor to rotate.
+
+A system which generates a single alternating voltage and current is termed a
+single phase system. It utilises only one winding. A polyphaser system utilises more
+than one winding. It will produce as many induced voltages as the number of
+windings [1].
+
+A three phase system consists of three separate but identical windings that are
+displaced by 120 degrees from each other, When these three windings are rotated
+in an anticlockwise direction with constant angular velocity in a uniform magnetic
+field, the emfs are induced in each winding which have the same magnitude and
+frequency but displaced 120 degrees from one another [1).
+
+Relation between phase and line voltages and phase and line currents in Delta
+connections
+
+ince the system is balanced the three phase voltage IRY , IYB, IBR are equal in
+magnitude and differ in phase from one another by 120 degree
+
+IR=I¥:
+
+VRY=VYB=VBR=VL
+
+=IL
+
+2 ¥ te Rg
+v,
+Fok tai ea
+t Var
+Ve
+wont } ‘sy Bs a |
+
+LZ} l
 --- page 8 ---
 Q4   b   Summarize the working of Full Wave Center Tap Rectifier with a neat sketch of   [10]
 the circuit and waveforms.
@@ -12362,12 +18541,101 @@ CO-4; SO-
 Diagram 2M waveforms 3M working 5M
 1; BL- 2
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+The full wave rectifier conducts during both positive and negative half cycles of input
+a.c. supply. In order to rectify both the half cycles of a.c. input, two diodes are used in this
+circuit. The diodes feed a common
+load R; with the help of a centre tap
+transformer. The a.c. voltage is
+applied through a suitable power
+transformer with proper turns ratio.
+
+©,7E gmtin ot
+
+XW, E- The full wave rectifier circuit is
+AC. supply shown in the Fig. 1.41.
+| For the proper operation of the
+circuit, a centre-tap on the secondary
+Peabersdenl ® winding of the transformer is
+Fig. 1.41 Full wave rectifier ceecriiet:
+1.19.1 Operation of the Circuit
+
+Dy ON Consider the positive half
+cycle of a.c. input voltage in
+which terminal (A) is positive
+and terminal (B) negative. The
+diode D, will be forward
+
+conduct; while diode D, will
+be reverse biased and will act
+as an open circuit and will
+not conduct. This is illustrated
+in the Fig. 1.42.
+
+The diode D, supplies the load current, ie. i, = igi. This current is flowing through
+upper half of secondary winding while the lower half of secondary winding of the
+transformer carries no current since diode D, is reverse biased and acts as an open circuit.
+
+{puter In the next half cycle of a.c.
+voltage, polarity reverses and
+> inal (A) negative
+
+D,,0FF
+ida t - and (B) positive. The diode D2
+a conducts, being forward biased,
+Ab sew: — ie while D, does not. being
+reverse biased. This is shown in
+i tear the Fig. 1.29.
+= he
+e Dp. ON
+
+The diode Dz supplies the
+
+. wresitliliner:chintt load current. ie. i, = ia2 - Now
+Fig. 1.43 t flow di tive half cycle it
+= = Wiktintieeea the lower half of the secondary
+
+winding carries the current but the upper half does not.
+
+It is noted that the load current flows in both the half cycles of a.c. voltage and in
+the same eh the load Hence we get rectified output across the
+load. The load current is sum of individual diode currents flowing in corresponding half
+cycles. It is also noted that the two diodes do not conduct simultaneously but in alternate
+half cycles. The individual diode currents and the load current are shown in the Fig. 1.44.
+
+(See Fig. 1.44 onnext page.)
+
+Thus the full wave r circuit tially of two half wave rectifier circuits
+working independently (working in alternate half cycles of a.c.) of cach other but feeding a
+common load. The output load current is still pulsating d.c. and not pure d.c.
 --- page 9 ---
 Q5   a   Construct the circuit diagram of Inverting amplifier and explain its working.   [10]
 CO-4; SO-   Diagram 3M
 1; BL-2,3
 Explanation 7M
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+There are two types of op-amps, depending on how the input is given to the op-amp.
+f Inverting operation amplifier
+
+An inverting amplifier (also known as an inverting operational amplifier or an inverting op-
+amp) isa type of operat pililier circuit which produces an output which is out of phase
+with respect to its input by 180°.
+
+This means that if the input pulse is positive, then the output pulse will be negative and vice
+versa.
+
+Here we apply the input signal to the inverting terminal of the op-amp via the resistor Ri. We
+connect the non-inverting terminal to ground.
+
+Further, we provide the feedback necessary to stabilize the circuit, and hence to control the
+‘output, through a feedback resistor Rr.
+
+Input and output signals 180° phase shift when the input signal is applied to the inverting (-) terminal. The voltage
+gain of the inverting operational amplifier or inverting op amp is, Av=-RrRi The output is amplified and
+levcrtcd:
 --- page 10 ---
 Q5   b   Prove that NOR gate is a universal gate.   [10]
 NOT implementation 3M AND implementation 3M OR implementation 4M
@@ -12391,17 +18659,173 @@ CO-1; SO-   a   Find the current through 15 Ω resistor using Norton’s Theorem
 Norton’s current 2M Norton’s resistance 2M current through 10 Ω resistor
 1M
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Step I:
+
+Considering 4V 20 A 30
+
+source acting alone,
+replacing 1A source and
+
+3A source by open circuit, ae
+
+we get circuit (a) and (b): | ‘|
+By ohm’s law,
+
+4
+Tag = ha= ~—~ = 133 ACL
+ap = ha= 275 ()
+
+Step II: 20
+
+Considering 3A source acting alone,
+replacing 4V source by short circuit and 1A source
+by open circuit, we obtain the circuit shown beside,
+
+In Fig. above, current flowing through 3Q
+resistor I3q = 3A (<-). This current divides at node
+A. Resistors 2Q and 1Q are in parallel. By current division rule,
+
+=2A(1)
+
+Jap = ha =3 x >a1
+
+20
+A
+= 1
+12 4v 1a
+| A
+8
+@ ©)
+A 3a
+‘a )3a
+8
+
+SteplIl: {>}
+
+Considering 1A source acting alone, 20 A 32
+replacing 4V source by short circuit and 3A source
+by open circuit, we obtain the circuit shown beside,
+
+In Fig. above, current flowing through 3Q
+resistor I39 = 1A (<). This current divides at node if
+A. Resistors 2Q and 1Q are in parallel. By current
+division rule,
+
+12
+
+Tap = Iha=1 X
+Step IV:
+According to superposition theorem, resultant current through 1Q resistor is
+
+algebraic sum of currents due to individual sources acting alone.
+Hence,
+
+Iho = 1.33 AQ) + 2 AQ) + 0.67 A(L) = 4A(L)
+
+2
+5 = 067 AY)
 --- page 12 ---
 CO-3; SO- b   Classify AC motors and explain why single-phase motor is not self-starting   [5]
 1; BL-1,2
 motor.
 Classification 2M Explanation 3M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Current through 20 Q resistor 1s required. This resistance can be called load resistanc
+Its terminals A and B are called load terminals.
+
+102 152
+NWA A
+100v = Z100 = A, =202
+B
+Step I: Calculation of Iv
+Removing the load resistance from the 102 152
+network and short circuiting the load terminals, NV We A
+
+circuit placed across the load terminals A and B
+is called Norton current Ix. This current can be Mesh 1 Mesh2
+calculated by mesh analysis as shown below.
+Applying the KVL to mesh I,
+-10h — 10(l1 — 2) + 100 = 0
+2011 + 1012 = -100 7)
+Applying the KVL to mesh 2,
+-15I>— 10(l> ~ ly) = 0
+101; — 25I> = 0 (ii)
+Solving equation (i) and (ii),
+=2.5A
+
+we get the modified network as shown in Fig.
+In Fig., it flowing thi th the short = =
+in Fig., current flowing through the short jo9y 7 i) Zia ') is
+
+Step Il: Calculation of Ry
+Removing the load resistance from the network 109 152 and
+replacing the voltage source by short circuit, we get the A
+network as shown in Fig.
+In fig equivalent resistance across the load 1020
+
+terminals A and B is called Norton’s resistance Rn.
+Thus, Ry = Rg =(10|| 10) + 15=200
+
+Step III: Calculation of load current F
+Norton’s equivalent circuit can be
+drawn as shown in fig A
+I
+By current division rule, Iy=2.5A @) Ry=200
+
+=1.254(1)
+
+I= Inn = 2.5 x F
 --- page 13 ---
 CO-2; SO-   c   A resistor R in series with capacitance C is connected to a 240V,50Hz. Determine   [5]
 1; BL-5
 the value of C so that R absorbs 300W at 100V.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Introduction
+
+* Induction motors are AC motors.
+* They use alternating voltage for their operation.
+* They can operate on 1® and 30 ac supply.
+
+AC motors
+
+|
+| |
+
+Single phase AC motors Three phase AC motors
+
+These motors operate on single phase supply
+Extensively used for home appliances, shop,
+
+3 phase motors are used on three phase
+
+offices , etc. rT ——
+Single phase motors are less efficient substitute phase motors are used Torin lustria
+to 3 phase motors. ,commercial applications.
+
+Not self starting motors Self starting motors
+
+According to the double field revolving theory, Any alternating quantity can be
+resolved into two components and each component has a magnitude equal to
+half of the maximum magnitude of the alternating quantity and both of these
+components rotate in opposite directions to each other.
+
+Let us consider a flux ® is resolved into two components one is O»/2 and the
+other is —®,,/2. Here both these components rotate in opposite directions to each
+other, i.e if one ®,,/2 rotates in a clockwise direction then the other ®,,/2 rotates
+in the anticlockwise direction.
+
+When we give a single-phase ac supply to the stator winding of a 1-® induction
+motor then it will produce its flux of magnitude Om.
+
+Now according to the double field revolving theory, this alternating flux ®, is
+divided into two components of equal magnitude, ®,,/2 each. Each of these
+components will rotate in opposite direction, with synchronous speed Ns.
 --- page 14 ---
 CO-5; SO- d   Simplify the following equation using Boolean Algebra. Implement the equation   [5]
 1; BL-3
@@ -12409,6 +18833,43 @@ using logic gates.
 F = AB (BC + AC)
 Simplification 3M Diagram 2M
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Data: V = 240V Va = 100V
+P = 300W f = SOHz
+vi 2
+pP- 7
+300 - 200)?
+R
+
+R «= 33.332
+
+P = PR
+300 = 12x 33.33
+
+1=3A
+
+Z- = 230 = 802
+Xe = ¥Zz2-R? = Vi80? - (33.33? = 72.722
+‘te a
+2xfC
+
+1
+
+2x x 50x C
+C = 43.77 pF
+
+Start
+
+multiply ABB.C+ABAC Distributive Law
+again: AA=A Idempotent Law
+then: ABB.C+AB.C Reduction
+but: BB-0 Complement Law
+sO: AfC+ABC Reduction
+becomes: O+ ABC Reduction
+as: O+ ABC - ABC Identity Law
+
+thus: ABC Result
 ````
 
 ## 2024-25 · Re-Exam · Sem 1 · Answer key · paper f6835e7038a1
@@ -12443,6 +18904,31 @@ Instructions:
 1.
 I 1Ω = 2.43A   04Marks
 Page 1 of 18
+
+[Text in pictures on this page, read by OCR]
+2.50 c
+
+rate AAA
+<4
+4 “° " “e
+12.5V
+
+Mesh 1 Mesh 2
+F
+
+Applying KVL to mesh 1;
+
+—2f, —- 30, — £) + 12.5-1,=0
+or 65, + 3, = -12.5 @
+Applying KWL to mesh 2,
+
+2.55, — §4,- 30, -— 1) =0
+or 3/, — 10.54,=0 Gi)
+From Eqs (i) and (ii), we get
+
+t=2.43 A
+
+Hence, Jjq = 2.43 ACT)
 --- page 2 ---
 4
 2.
@@ -12453,6 +18939,56 @@ Losses in a transformer-----------------------------2 Marks
 4.
 4
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+Current The alternating current / is given by
+v Fo. .
+i= —=— sin wf =J,, sin wt sy me
+RR san R
+where /,, is the maximum value of the alternating current. From the voltage and current
+equation, it is clear that the current is in phase with the voltage in a purely resistive
+
+circuit.
+
+Phase Difference Since the voltage and current are in phase with each other, the phase
+difference is zero.
+
+g=0°
+
+Power Factor It is defined as the cosine of the angle between the voltage and current
+phasors.
+
+Power factor = cos @= cos (0°) = 1
+
+Power Instantaneous power p is given by pb
+p=vi
+=F, sin ord, sin wt
+=V,, 1, sir? we a
+
+o 7 2n
+
+= Vid
+~ ? (1—cos2aar) Fig. 4.4 Power waveform
+
+Vuln Mod,
+= a - ~~ cos 2eor
+. VL . Vln
+The power consists of a constant part a and a fluctuating part cos 2a. The
+
+frequency of the fluctuating power is twice the applied voltage frequency and its average
+
+value over one complete cycle is zero.
+
+ra” itt er ee
+
+2 V2 v2
+Thus, power in a purely resistive circuit is equal to the product of rms values of voltage
+
+and current.
+
+Vly — Voy Ly
+
+Average power P = =FI
 --- page 3 ---
 ‘Current limiting
 
@@ -12905,6 +19441,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_CSE_DS_7057/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025_3183cf40d3.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 80.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -12939,6 +19476,36 @@ I 3 = -2.01A   01Mark
 4
 2.
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+A circuit containing reactance is said to be in resonance if the voltage across the circuit
+is in phase with the current through it. At resonance, the circuit thus behaves as a pure
+resistor and the net reactance is zero.
+
+Consider the series R-£-C circuit as shown in Fig. The impedance of the circuit is
+
+Z=R he Ny" ih
+=R+joL —j;—
+JO8 Fae i
+; 1
+=R+j| oL-— aw
+Ve Vin SIN cat
+
+At resonance, 7 must be resistive. Therefore,
+the condition for resonance is
+
+l
+
+Series circuit
+
+ol -— =0
+ac
+I
+on TIE
+I
+I-lo~ sate
+
+where /, is called the resonant frequency of the circuit.
 --- page 3 ---
 Explanation - 1, derivation - 3 marks
 4
@@ -13022,6 +19589,39 @@ Page 5 of 18
 Construction of DC motor (Neat Sketch) : 4Marks
 Explanation: 3 Marks
 Page 6 of 18
+
+[Text in pictures on this page, read by OCR]
+L=500* 10°°H: C = 80/n? x 107! F: R = 628
+
+(i) Resonant frequency is
+
+(i) Resonant frequency is
+
+tie lL 1
+" 2nVLC 80
+
+2m, |500 x10°° x—x107"*
+nT
+
+1
+240,000 x 10-“*
+
+_ 10,000x10°
+~ 4
+
+f, = 2500 KHz
+
+(ii) Q-factor
+
+_@L _ 2x%3.14«2500x 10° x500x10°
+R 628
+
+Q=12.5
+
+Q=12.5
+
+Resonance Frequency 5 Marks, Quality Factor 5 marks
+|
 --- page 7 ---
 Armature
 Winding
@@ -13085,6 +19685,23 @@ mark
 3.   20
 10
 Page 8 of 18
+
+[Text in pictures on this page, read by OCR]
+Voltage At resonance,
+
+L=—
+@y ac
+1
+
+i= i
+
+ML Ih co
+Vi= Ve
+
+Thus, potential difference across inductor equal to potential difference across capacitor
+being equal and opposite cancel each other. Also, since /) is maximum, Vi and Ve, will
+also be maximum. Thus, voltage magnification takes place during resonance. Hence, it is
+also referred to as voltage magnification circuit.
 --- page 9 ---
 1. 2 marks for each of the part
 2. A device, such as a semiconductor diode, which can convert a sinusoidal input   10
@@ -13093,6 +19710,41 @@ waveform with a nonzero average component is called a rectifier.   -------------
 ----(1 Mark)
 The following Fig.1 shows a circuit diagram of a half-wave rectifier circuit.
 Page 9 of 18
+
+[Text in pictures on this page, read by OCR]
+
+1 1 1
+
+X= SS = SS =
+O° GC ~ Bsfl ~ Onx50x8x 10°
+
+= 398.0012
+Thus,
+
+© Impedance of the circuit
+
+L= y(RF + (Mi — Xe}? = vw + (25.12 — 298.00)? = 372.99 0
+
+® Circuit current
+
+Vv 240
+f= 3 >to ‘0.643 A
+® Phase angle between voltage and current
+}=tan 1X 7) = tan" 25.12 me = _20.38°
+
+The negative sing of phase angle shows that current is leading the voltage.
+
+® Power Factor
+= Z = 35900 ~ LOT2(leading)
+cos = = = 0.010 ing,
+
+© Power consumed
+P= Vicos# = 240 x 0.643 « 0.01072 = 1.654 W
+
+® Q-factor of circuit at series resonance
+
+1 1 ‘0.08
+Qy = factor = = @"BVaen
 --- page 10 ---
 Fig.1
 ---------------------------------------------------------------------------------------------------------
@@ -13294,6 +19946,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_Civil_7005/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 80.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -13328,6 +19981,36 @@ I 3 = -2.01A   01Mark
 4
 2.
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+A circuit containing reactance is said to be in resonance if the voltage across the circuit
+is in phase with the current through it. At resonance, the circuit thus behaves as a pure
+resistor and the net reactance is zero.
+
+Consider the series R-£-C circuit as shown in Fig. The impedance of the circuit is
+
+Z=R he Ny" ih
+=R+joL —j;—
+JO8 Fae i
+; 1
+=R+j| oL-— aw
+Ve Vin SIN cat
+
+At resonance, 7 must be resistive. Therefore,
+the condition for resonance is
+
+l
+
+Series circuit
+
+ol -— =0
+ac
+I
+on TIE
+I
+I-lo~ sate
+
+where /, is called the resonant frequency of the circuit.
 --- page 3 ---
 Explanation - 1, derivation - 3 marks
 4
@@ -13411,6 +20094,39 @@ Page 5 of 18
 Construction of DC motor (Neat Sketch) : 4Marks
 Explanation: 3 Marks
 Page 6 of 18
+
+[Text in pictures on this page, read by OCR]
+L=500* 10°°H: C = 80/n? x 107! F: R = 628
+
+(i) Resonant frequency is
+
+(i) Resonant frequency is
+
+tie lL 1
+" 2nVLC 80
+
+2m, |500 x10°° x—x107"*
+nT
+
+1
+240,000 x 10-“*
+
+_ 10,000x10°
+~ 4
+
+f, = 2500 KHz
+
+(ii) Q-factor
+
+_@L _ 2x%3.14«2500x 10° x500x10°
+R 628
+
+Q=12.5
+
+Q=12.5
+
+Resonance Frequency 5 Marks, Quality Factor 5 marks
+|
 --- page 7 ---
 Armature
 Winding
@@ -13474,6 +20190,23 @@ mark
 3.   20
 10
 Page 8 of 18
+
+[Text in pictures on this page, read by OCR]
+Voltage At resonance,
+
+L=—
+@y ac
+1
+
+i= i
+
+ML Ih co
+Vi= Ve
+
+Thus, potential difference across inductor equal to potential difference across capacitor
+being equal and opposite cancel each other. Also, since /) is maximum, Vi and Ve, will
+also be maximum. Thus, voltage magnification takes place during resonance. Hence, it is
+also referred to as voltage magnification circuit.
 --- page 9 ---
 1. 2 marks for each of the part
 2. A device, such as a semiconductor diode, which can convert a sinusoidal input   10
@@ -13482,6 +20215,41 @@ waveform with a nonzero average component is called a rectifier.   -------------
 ----(1 Mark)
 The following Fig.1 shows a circuit diagram of a half-wave rectifier circuit.
 Page 9 of 18
+
+[Text in pictures on this page, read by OCR]
+
+1 1 1
+
+X= SS = SS =
+O° GC ~ Bsfl ~ Onx50x8x 10°
+
+= 398.0012
+Thus,
+
+© Impedance of the circuit
+
+L= y(RF + (Mi — Xe}? = vw + (25.12 — 298.00)? = 372.99 0
+
+® Circuit current
+
+Vv 240
+f= 3 >to ‘0.643 A
+® Phase angle between voltage and current
+}=tan 1X 7) = tan" 25.12 me = _20.38°
+
+The negative sing of phase angle shows that current is leading the voltage.
+
+® Power Factor
+= Z = 35900 ~ LOT2(leading)
+cos = = = 0.010 ing,
+
+© Power consumed
+P= Vicos# = 240 x 0.643 « 0.01072 = 1.654 W
+
+® Q-factor of circuit at series resonance
+
+1 1 ‘0.08
+Qy = factor = = @"BVaen
 --- page 10 ---
 Fig.1
 ---------------------------------------------------------------------------------------------------------
@@ -13683,6 +20451,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_Mechanical_7003/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 80.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -13717,6 +20486,36 @@ I 3 = -2.01A   01Mark
 4
 2.
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+A circuit containing reactance is said to be in resonance if the voltage across the circuit
+is in phase with the current through it. At resonance, the circuit thus behaves as a pure
+resistor and the net reactance is zero.
+
+Consider the series R-£-C circuit as shown in Fig. The impedance of the circuit is
+
+Z=R he Ny" ih
+=R+joL —j;—
+JO8 Fae i
+; 1
+=R+j| oL-— aw
+Ve Vin SIN cat
+
+At resonance, 7 must be resistive. Therefore,
+the condition for resonance is
+
+l
+
+Series circuit
+
+ol -— =0
+ac
+I
+on TIE
+I
+I-lo~ sate
+
+where /, is called the resonant frequency of the circuit.
 --- page 3 ---
 Explanation - 1, derivation - 3 marks
 4
@@ -13800,6 +20599,39 @@ Page 5 of 18
 Construction of DC motor (Neat Sketch) : 4Marks
 Explanation: 3 Marks
 Page 6 of 18
+
+[Text in pictures on this page, read by OCR]
+L=500* 10°°H: C = 80/n? x 107! F: R = 628
+
+(i) Resonant frequency is
+
+(i) Resonant frequency is
+
+tie lL 1
+" 2nVLC 80
+
+2m, |500 x10°° x—x107"*
+nT
+
+1
+240,000 x 10-“*
+
+_ 10,000x10°
+~ 4
+
+f, = 2500 KHz
+
+(ii) Q-factor
+
+_@L _ 2x%3.14«2500x 10° x500x10°
+R 628
+
+Q=12.5
+
+Q=12.5
+
+Resonance Frequency 5 Marks, Quality Factor 5 marks
+|
 --- page 7 ---
 Armature
 Winding
@@ -13863,6 +20695,23 @@ mark
 3.   20
 10
 Page 8 of 18
+
+[Text in pictures on this page, read by OCR]
+Voltage At resonance,
+
+L=—
+@y ac
+1
+
+i= i
+
+ML Ih co
+Vi= Ve
+
+Thus, potential difference across inductor equal to potential difference across capacitor
+being equal and opposite cancel each other. Also, since /) is maximum, Vi and Ve, will
+also be maximum. Thus, voltage magnification takes place during resonance. Hence, it is
+also referred to as voltage magnification circuit.
 --- page 9 ---
 1. 2 marks for each of the part
 2. A device, such as a semiconductor diode, which can convert a sinusoidal input   10
@@ -13871,6 +20720,41 @@ waveform with a nonzero average component is called a rectifier.   -------------
 ----(1 Mark)
 The following Fig.1 shows a circuit diagram of a half-wave rectifier circuit.
 Page 9 of 18
+
+[Text in pictures on this page, read by OCR]
+
+1 1 1
+
+X= SS = SS =
+O° GC ~ Bsfl ~ Onx50x8x 10°
+
+= 398.0012
+Thus,
+
+© Impedance of the circuit
+
+L= y(RF + (Mi — Xe}? = vw + (25.12 — 298.00)? = 372.99 0
+
+® Circuit current
+
+Vv 240
+f= 3 >to ‘0.643 A
+® Phase angle between voltage and current
+}=tan 1X 7) = tan" 25.12 me = _20.38°
+
+The negative sing of phase angle shows that current is leading the voltage.
+
+® Power Factor
+= Z = 35900 ~ LOT2(leading)
+cos = = = 0.010 ing,
+
+© Power consumed
+P= Vicos# = 240 x 0.643 « 0.01072 = 1.654 W
+
+® Q-factor of circuit at series resonance
+
+1 1 ‘0.08
+Qy = factor = = @"BVaen
 --- page 10 ---
 Fig.1
 ---------------------------------------------------------------------------------------------------------
@@ -14072,6 +20956,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/MBATech_AI_7051/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 80.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -14106,6 +20991,36 @@ I 3 = -2.01A   01Mark
 4
 2.
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+A circuit containing reactance is said to be in resonance if the voltage across the circuit
+is in phase with the current through it. At resonance, the circuit thus behaves as a pure
+resistor and the net reactance is zero.
+
+Consider the series R-£-C circuit as shown in Fig. The impedance of the circuit is
+
+Z=R he Ny" ih
+=R+joL —j;—
+JO8 Fae i
+; 1
+=R+j| oL-— aw
+Ve Vin SIN cat
+
+At resonance, 7 must be resistive. Therefore,
+the condition for resonance is
+
+l
+
+Series circuit
+
+ol -— =0
+ac
+I
+on TIE
+I
+I-lo~ sate
+
+where /, is called the resonant frequency of the circuit.
 --- page 3 ---
 Explanation - 1, derivation - 3 marks
 4
@@ -14189,6 +21104,39 @@ Page 5 of 18
 Construction of DC motor (Neat Sketch) : 4Marks
 Explanation: 3 Marks
 Page 6 of 18
+
+[Text in pictures on this page, read by OCR]
+L=500* 10°°H: C = 80/n? x 107! F: R = 628
+
+(i) Resonant frequency is
+
+(i) Resonant frequency is
+
+tie lL 1
+" 2nVLC 80
+
+2m, |500 x10°° x—x107"*
+nT
+
+1
+240,000 x 10-“*
+
+_ 10,000x10°
+~ 4
+
+f, = 2500 KHz
+
+(ii) Q-factor
+
+_@L _ 2x%3.14«2500x 10° x500x10°
+R 628
+
+Q=12.5
+
+Q=12.5
+
+Resonance Frequency 5 Marks, Quality Factor 5 marks
+|
 --- page 7 ---
 Armature
 Winding
@@ -14252,6 +21200,23 @@ mark
 3.   20
 10
 Page 8 of 18
+
+[Text in pictures on this page, read by OCR]
+Voltage At resonance,
+
+L=—
+@y ac
+1
+
+i= i
+
+ML Ih co
+Vi= Ve
+
+Thus, potential difference across inductor equal to potential difference across capacitor
+being equal and opposite cancel each other. Also, since /) is maximum, Vi and Ve, will
+also be maximum. Thus, voltage magnification takes place during resonance. Hence, it is
+also referred to as voltage magnification circuit.
 --- page 9 ---
 1. 2 marks for each of the part
 2. A device, such as a semiconductor diode, which can convert a sinusoidal input   10
@@ -14260,6 +21225,41 @@ waveform with a nonzero average component is called a rectifier.   -------------
 ----(1 Mark)
 The following Fig.1 shows a circuit diagram of a half-wave rectifier circuit.
 Page 9 of 18
+
+[Text in pictures on this page, read by OCR]
+
+1 1 1
+
+X= SS = SS =
+O° GC ~ Bsfl ~ Onx50x8x 10°
+
+= 398.0012
+Thus,
+
+© Impedance of the circuit
+
+L= y(RF + (Mi — Xe}? = vw + (25.12 — 298.00)? = 372.99 0
+
+® Circuit current
+
+Vv 240
+f= 3 >to ‘0.643 A
+® Phase angle between voltage and current
+}=tan 1X 7) = tan" 25.12 me = _20.38°
+
+The negative sing of phase angle shows that current is leading the voltage.
+
+® Power Factor
+= Z = 35900 ~ LOT2(leading)
+cos = = = 0.010 ing,
+
+© Power consumed
+P= Vicos# = 240 x 0.643 « 0.01072 = 1.654 W
+
+® Q-factor of circuit at series resonance
+
+1 1 ‘0.08
+Qy = factor = = @"BVaen
 --- page 10 ---
 Fig.1
 ---------------------------------------------------------------------------------------------------------
@@ -14461,6 +21461,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/MBATech_Computer_7047/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 80.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -14495,6 +21496,36 @@ I 3 = -2.01A   01Mark
 4
 2.
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+A circuit containing reactance is said to be in resonance if the voltage across the circuit
+is in phase with the current through it. At resonance, the circuit thus behaves as a pure
+resistor and the net reactance is zero.
+
+Consider the series R-£-C circuit as shown in Fig. The impedance of the circuit is
+
+Z=R he Ny" ih
+=R+joL —j;—
+JO8 Fae i
+; 1
+=R+j| oL-— aw
+Ve Vin SIN cat
+
+At resonance, 7 must be resistive. Therefore,
+the condition for resonance is
+
+l
+
+Series circuit
+
+ol -— =0
+ac
+I
+on TIE
+I
+I-lo~ sate
+
+where /, is called the resonant frequency of the circuit.
 --- page 3 ---
 Explanation - 1, derivation - 3 marks
 4
@@ -14578,6 +21609,39 @@ Page 5 of 18
 Construction of DC motor (Neat Sketch) : 4Marks
 Explanation: 3 Marks
 Page 6 of 18
+
+[Text in pictures on this page, read by OCR]
+L=500* 10°°H: C = 80/n? x 107! F: R = 628
+
+(i) Resonant frequency is
+
+(i) Resonant frequency is
+
+tie lL 1
+" 2nVLC 80
+
+2m, |500 x10°° x—x107"*
+nT
+
+1
+240,000 x 10-“*
+
+_ 10,000x10°
+~ 4
+
+f, = 2500 KHz
+
+(ii) Q-factor
+
+_@L _ 2x%3.14«2500x 10° x500x10°
+R 628
+
+Q=12.5
+
+Q=12.5
+
+Resonance Frequency 5 Marks, Quality Factor 5 marks
+|
 --- page 7 ---
 Armature
 Winding
@@ -14641,6 +21705,23 @@ mark
 3.   20
 10
 Page 8 of 18
+
+[Text in pictures on this page, read by OCR]
+Voltage At resonance,
+
+L=—
+@y ac
+1
+
+i= i
+
+ML Ih co
+Vi= Ve
+
+Thus, potential difference across inductor equal to potential difference across capacitor
+being equal and opposite cancel each other. Also, since /) is maximum, Vi and Ve, will
+also be maximum. Thus, voltage magnification takes place during resonance. Hence, it is
+also referred to as voltage magnification circuit.
 --- page 9 ---
 1. 2 marks for each of the part
 2. A device, such as a semiconductor diode, which can convert a sinusoidal input   10
@@ -14649,6 +21730,41 @@ waveform with a nonzero average component is called a rectifier.   -------------
 ----(1 Mark)
 The following Fig.1 shows a circuit diagram of a half-wave rectifier circuit.
 Page 9 of 18
+
+[Text in pictures on this page, read by OCR]
+
+1 1 1
+
+X= SS = SS =
+O° GC ~ Bsfl ~ Onx50x8x 10°
+
+= 398.0012
+Thus,
+
+© Impedance of the circuit
+
+L= y(RF + (Mi — Xe}? = vw + (25.12 — 298.00)? = 372.99 0
+
+® Circuit current
+
+Vv 240
+f= 3 >to ‘0.643 A
+® Phase angle between voltage and current
+}=tan 1X 7) = tan" 25.12 me = _20.38°
+
+The negative sing of phase angle shows that current is leading the voltage.
+
+® Power Factor
+= Z = 35900 ~ LOT2(leading)
+cos = = = 0.010 ing,
+
+© Power consumed
+P= Vicos# = 240 x 0.643 « 0.01072 = 1.654 W
+
+® Q-factor of circuit at series resonance
+
+1 1 ‘0.08
+Qy = factor = = @"BVaen
 --- page 10 ---
 Fig.1
 ---------------------------------------------------------------------------------------------------------
@@ -14850,6 +21966,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/MBATech_DS_7052/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 80.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -14884,6 +22001,36 @@ I 3 = -2.01A   01Mark
 4
 2.
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+A circuit containing reactance is said to be in resonance if the voltage across the circuit
+is in phase with the current through it. At resonance, the circuit thus behaves as a pure
+resistor and the net reactance is zero.
+
+Consider the series R-£-C circuit as shown in Fig. The impedance of the circuit is
+
+Z=R he Ny" ih
+=R+joL —j;—
+JO8 Fae i
+; 1
+=R+j| oL-— aw
+Ve Vin SIN cat
+
+At resonance, 7 must be resistive. Therefore,
+the condition for resonance is
+
+l
+
+Series circuit
+
+ol -— =0
+ac
+I
+on TIE
+I
+I-lo~ sate
+
+where /, is called the resonant frequency of the circuit.
 --- page 3 ---
 Explanation - 1, derivation - 3 marks
 4
@@ -14967,6 +22114,39 @@ Page 5 of 18
 Construction of DC motor (Neat Sketch) : 4Marks
 Explanation: 3 Marks
 Page 6 of 18
+
+[Text in pictures on this page, read by OCR]
+L=500* 10°°H: C = 80/n? x 107! F: R = 628
+
+(i) Resonant frequency is
+
+(i) Resonant frequency is
+
+tie lL 1
+" 2nVLC 80
+
+2m, |500 x10°° x—x107"*
+nT
+
+1
+240,000 x 10-“*
+
+_ 10,000x10°
+~ 4
+
+f, = 2500 KHz
+
+(ii) Q-factor
+
+_@L _ 2x%3.14«2500x 10° x500x10°
+R 628
+
+Q=12.5
+
+Q=12.5
+
+Resonance Frequency 5 Marks, Quality Factor 5 marks
+|
 --- page 7 ---
 Armature
 Winding
@@ -15030,6 +22210,23 @@ mark
 3.   20
 10
 Page 8 of 18
+
+[Text in pictures on this page, read by OCR]
+Voltage At resonance,
+
+L=—
+@y ac
+1
+
+i= i
+
+ML Ih co
+Vi= Ve
+
+Thus, potential difference across inductor equal to potential difference across capacitor
+being equal and opposite cancel each other. Also, since /) is maximum, Vi and Ve, will
+also be maximum. Thus, voltage magnification takes place during resonance. Hence, it is
+also referred to as voltage magnification circuit.
 --- page 9 ---
 1. 2 marks for each of the part
 2. A device, such as a semiconductor diode, which can convert a sinusoidal input   10
@@ -15038,6 +22235,41 @@ waveform with a nonzero average component is called a rectifier.   -------------
 ----(1 Mark)
 The following Fig.1 shows a circuit diagram of a half-wave rectifier circuit.
 Page 9 of 18
+
+[Text in pictures on this page, read by OCR]
+
+1 1 1
+
+X= SS = SS =
+O° GC ~ Bsfl ~ Onx50x8x 10°
+
+= 398.0012
+Thus,
+
+© Impedance of the circuit
+
+L= y(RF + (Mi — Xe}? = vw + (25.12 — 298.00)? = 372.99 0
+
+® Circuit current
+
+Vv 240
+f= 3 >to ‘0.643 A
+® Phase angle between voltage and current
+}=tan 1X 7) = tan" 25.12 me = _20.38°
+
+The negative sing of phase angle shows that current is leading the voltage.
+
+® Power Factor
+= Z = 35900 ~ LOT2(leading)
+cos = = = 0.010 ing,
+
+© Power consumed
+P= Vicos# = 240 x 0.643 « 0.01072 = 1.654 W
+
+® Q-factor of circuit at series resonance
+
+1 1 ‘0.08
+Qy = factor = = @"BVaen
 --- page 10 ---
 Fig.1
 ---------------------------------------------------------------------------------------------------------
@@ -15239,6 +22471,7 @@ Page 18 of 18
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/MBATech_IT_7041/Basic Electrical and Electronics Engineering/ANS_Basic Electrical and Electronics Engineering(702EX0C001)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 80.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -15273,6 +22506,36 @@ I 3 = -2.01A   01Mark
 4
 2.
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+A circuit containing reactance is said to be in resonance if the voltage across the circuit
+is in phase with the current through it. At resonance, the circuit thus behaves as a pure
+resistor and the net reactance is zero.
+
+Consider the series R-£-C circuit as shown in Fig. The impedance of the circuit is
+
+Z=R he Ny" ih
+=R+joL —j;—
+JO8 Fae i
+; 1
+=R+j| oL-— aw
+Ve Vin SIN cat
+
+At resonance, 7 must be resistive. Therefore,
+the condition for resonance is
+
+l
+
+Series circuit
+
+ol -— =0
+ac
+I
+on TIE
+I
+I-lo~ sate
+
+where /, is called the resonant frequency of the circuit.
 --- page 3 ---
 Explanation - 1, derivation - 3 marks
 4
@@ -15356,6 +22619,39 @@ Page 5 of 18
 Construction of DC motor (Neat Sketch) : 4Marks
 Explanation: 3 Marks
 Page 6 of 18
+
+[Text in pictures on this page, read by OCR]
+L=500* 10°°H: C = 80/n? x 107! F: R = 628
+
+(i) Resonant frequency is
+
+(i) Resonant frequency is
+
+tie lL 1
+" 2nVLC 80
+
+2m, |500 x10°° x—x107"*
+nT
+
+1
+240,000 x 10-“*
+
+_ 10,000x10°
+~ 4
+
+f, = 2500 KHz
+
+(ii) Q-factor
+
+_@L _ 2x%3.14«2500x 10° x500x10°
+R 628
+
+Q=12.5
+
+Q=12.5
+
+Resonance Frequency 5 Marks, Quality Factor 5 marks
+|
 --- page 7 ---
 Armature
 Winding
@@ -15419,6 +22715,23 @@ mark
 3.   20
 10
 Page 8 of 18
+
+[Text in pictures on this page, read by OCR]
+Voltage At resonance,
+
+L=—
+@y ac
+1
+
+i= i
+
+ML Ih co
+Vi= Ve
+
+Thus, potential difference across inductor equal to potential difference across capacitor
+being equal and opposite cancel each other. Also, since /) is maximum, Vi and Ve, will
+also be maximum. Thus, voltage magnification takes place during resonance. Hence, it is
+also referred to as voltage magnification circuit.
 --- page 9 ---
 1. 2 marks for each of the part
 2. A device, such as a semiconductor diode, which can convert a sinusoidal input   10
@@ -15427,6 +22740,41 @@ waveform with a nonzero average component is called a rectifier.   -------------
 ----(1 Mark)
 The following Fig.1 shows a circuit diagram of a half-wave rectifier circuit.
 Page 9 of 18
+
+[Text in pictures on this page, read by OCR]
+
+1 1 1
+
+X= SS = SS =
+O° GC ~ Bsfl ~ Onx50x8x 10°
+
+= 398.0012
+Thus,
+
+© Impedance of the circuit
+
+L= y(RF + (Mi — Xe}? = vw + (25.12 — 298.00)? = 372.99 0
+
+® Circuit current
+
+Vv 240
+f= 3 >to ‘0.643 A
+® Phase angle between voltage and current
+}=tan 1X 7) = tan" 25.12 me = _20.38°
+
+The negative sing of phase angle shows that current is leading the voltage.
+
+® Power Factor
+= Z = 35900 ~ LOT2(leading)
+cos = = = 0.010 ing,
+
+© Power consumed
+P= Vicos# = 240 x 0.643 « 0.01072 = 1.654 W
+
+® Q-factor of circuit at series resonance
+
+1 1 ‘0.08
+Qy = factor = = @"BVaen
 --- page 10 ---
 Fig.1
 ---------------------------------------------------------------------------------------------------------
@@ -15655,6 +23003,23 @@ BL-3   [4]
 2-Marks
 2-Marks
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution. Assign mesh currents J, and J, to meshes ABDA and BCDB respectively as shown in
+Fig. 3.4 (i).
+
+Mesh ABDA. Applying KVL, we have,
+
+401, - 20(7, -1,) + 120 = 0
+or 60/; - 201, = 120
+Mesh BCDB. Applying KVL, we have,
+
+601, - 65 - 200, - 1) = 9
+or 201, + 801, = -65 lil)
+Multiplying eq, (ii) by 3 and adding it to eq, (i), we get,
+2201, = -75 “= -75/220=-0:341A
+
+2-Marks a)
 --- page 2 ---
 b.   Define, for an AC circuit:
 CO-2; SO-1;   (i)   RMS value
@@ -15698,6 +23063,32 @@ CO-2; SO-1;   (ii)   current   [10]
 BL-1   (iii)   phase angle
 (iv)   equation for the instantaneous value of current.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+In circuit of Fig. 1.222, as single source is acting, the actual directions of currents
+are marked. These branch currents can be calculated as follows:
+
+The equivalent resistance across the source, R,, = 4 + (3 || 2)=4 + rr =52
+Q
+
+ircui Y ait 2-Marks
+By Ohm’s law, total circuit current, /= Ui tie =7.69A
+
+eq
+.. Current in 4 Q resistor, [4g = 7.69 A(€)
+
+By current division rule, current in 3 Q resistor, [yg = 7.69 x > = 3.08 A(-)
+
+Current in 2 Q resistor, Jy = 7.69 - 3.08 = 4.61 A(L) 2-Marks
+
+Step III: By principle of superposition, the resultant branch currents can be
+calculated as follows:
+
+Current in 3 Q resistor, J = 8.08 A() + 3.08 A(€) = 5 A(>)
+
+Current in 2 Q resistor, yy =539A(L) +461 A(L)=10A()   L Mark
+
+Current in 4 Q resistor, Jyq = 2.69 A(—-) + 7.69 A(C) = 5 A(C)
 --- page 4 ---
 OOV , SO Hae
 
@@ -15764,6 +23155,22 @@ BL-2
 𝑍= Impedance of the circuit
 𝑉𝑅= 𝐼𝑅= Voltage drop across R (In phase with I)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Refer to Fig. 18. Since the flux increases from |
+
+its zero value to ai a value 9,, in one quarter of
+
+the cycle i.e., in S or re second (T being time-period of
+
+the cycle),
+-. Average rate of change of flux
+= Sen. = 4f0,,,,, Wb/s or volt
+4f
+If flux © varies sinusoidally, then r.m.s. (root
+
+mean square) value of inducted e.m.f. is obtained by
+multiplying the average value with form factor.
 --- page 6 ---
 𝑉𝐿= 𝐼𝑋𝐿=Voltage drop across L
 Phasor Diagram
@@ -15892,6 +23299,35 @@ BL-2
 as the frame. The yoke is an iron body, made up of low reluctance magnetic
 material such as cast iron, silicon steel, rolled steel, etc.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Applying KCL at Node a,
+
+1-Marks
+1, =30+1,
+120-V, _ V,-V,
+02 ~= + 03 2-Marks
+36-0.3V, = 1.8 + 0.2V, -0.2V,
+0.5V,-0.2V, = 34.2 (1)
+Applying KCL at Node b,
+1,+1,=20 1-Marks
+eo =20
+- . 2-Marks
+0.17, - 0.1%, +33-0.3%, =20
+posal Midd id ee le fa
+0.03
+0.1V,-0.4V, =-32.4 (2)
+Solving Eqs (1) and (2),
+%=M2V 1-Marks
+V,=109V
+120-V, 120-112
+I, = ——4=—_“= 404
+; 0.2 0.2 1-Marks
+bie V,-V, _ 12-109 _
+ee. 03
+Ls 110-Y, — 10-109 _ A 1-Marks
+
+0.1 0.1
 --- page 11 ---
 Yoke serves two purposes, firstly it provides mechanical protection to the outer
 parts of the machine secondly it provides a low reluctance path for the magnetic
@@ -15957,6 +23393,30 @@ CO-1; SO-1;   [7]
 BL-1,2   2-Marks
 3-Marks
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Steps to apply for Thevenin's Theorem
+
+Step 1:Remove the branch resistance through which current is to be calculated.
+
+Step 2:Calculate the voltage across these open circuited terminals, by using any one of the
+network simplification techniques. This is Vu.
+
+Step 3:Calculate Rru as viewed through the two terminals of the branch from which
+current is to be calculated by removing that branch resistance and replacing all
+sources by their internal resistances.
+
+Step 4:Draw the Thevenin's equivalent circuit showing source Vru with the resistance Rtn
+in series with it.
+
+Step 5:Reconnect the branch resistance. Let it be Ri. The required current through the
+
+branch is given by
+Vru
+
+a a
+
+3-Marks
 --- page 13 ---
 b. A single phase 50 Hz transformer has 80 turns on the primary winding and
 280 turns in secondary winding. The voltage applied across the primary
@@ -16011,6 +23471,23 @@ BL-3   [4]
 2-Marks
 2-Marks
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution. Assign mesh currents J, and J, to meshes ABDA and BCDB respectively as shown in
+Fig. 3.4 (i).
+
+Mesh ABDA. Applying KVL, we have,
+
+401, - 20(7, -1,) + 120 = 0
+or 60/; - 201, = 120
+Mesh BCDB. Applying KVL, we have,
+
+601, - 65 - 200, - 1) = 9
+or 201, + 801, = -65 lil)
+Multiplying eq, (ii) by 3 and adding it to eq, (i), we get,
+2201, = -75 “= -75/220=-0:341A
+
+2-Marks a)
 --- page 2 ---
 b.   Define, for an AC circuit:
 CO-2; SO-1;   (i)   RMS value
@@ -16054,6 +23531,32 @@ CO-2; SO-1;   (ii)   current   [10]
 BL-1   (iii)   phase angle
 (iv)   equation for the instantaneous value of current.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+In circuit of Fig. 1.222, as single source is acting, the actual directions of currents
+are marked. These branch currents can be calculated as follows:
+
+The equivalent resistance across the source, R,, = 4 + (3 || 2)=4 + rr =52
+Q
+
+ircui Y ait 2-Marks
+By Ohm’s law, total circuit current, /= Ui tie =7.69A
+
+eq
+.. Current in 4 Q resistor, [4g = 7.69 A(€)
+
+By current division rule, current in 3 Q resistor, [yg = 7.69 x > = 3.08 A(-)
+
+Current in 2 Q resistor, Jy = 7.69 - 3.08 = 4.61 A(L) 2-Marks
+
+Step III: By principle of superposition, the resultant branch currents can be
+calculated as follows:
+
+Current in 3 Q resistor, J = 8.08 A() + 3.08 A(€) = 5 A(>)
+
+Current in 2 Q resistor, yy =539A(L) +461 A(L)=10A()   L Mark
+
+Current in 4 Q resistor, Jyq = 2.69 A(—-) + 7.69 A(C) = 5 A(C)
 --- page 4 ---
 OOV , SO Hae
 
@@ -16120,6 +23623,22 @@ BL-2
 𝑍= Impedance of the circuit
 𝑉𝑅= 𝐼𝑅= Voltage drop across R (In phase with I)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Refer to Fig. 18. Since the flux increases from |
+
+its zero value to ai a value 9,, in one quarter of
+
+the cycle i.e., in S or re second (T being time-period of
+
+the cycle),
+-. Average rate of change of flux
+= Sen. = 4f0,,,,, Wb/s or volt
+4f
+If flux © varies sinusoidally, then r.m.s. (root
+
+mean square) value of inducted e.m.f. is obtained by
+multiplying the average value with form factor.
 --- page 6 ---
 𝑉𝐿= 𝐼𝑋𝐿=Voltage drop across L
 Phasor Diagram
@@ -16248,6 +23767,35 @@ BL-2
 as the frame. The yoke is an iron body, made up of low reluctance magnetic
 material such as cast iron, silicon steel, rolled steel, etc.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Applying KCL at Node a,
+
+1-Marks
+1, =30+1,
+120-V, _ V,-V,
+02 ~= + 03 2-Marks
+36-0.3V, = 1.8 + 0.2V, -0.2V,
+0.5V,-0.2V, = 34.2 (1)
+Applying KCL at Node b,
+1,+1,=20 1-Marks
+eo =20
+- . 2-Marks
+0.17, - 0.1%, +33-0.3%, =20
+posal Midd id ee le fa
+0.03
+0.1V,-0.4V, =-32.4 (2)
+Solving Eqs (1) and (2),
+%=M2V 1-Marks
+V,=109V
+120-V, 120-112
+I, = ——4=—_“= 404
+; 0.2 0.2 1-Marks
+bie V,-V, _ 12-109 _
+ee. 03
+Ls 110-Y, — 10-109 _ A 1-Marks
+
+0.1 0.1
 --- page 11 ---
 Yoke serves two purposes, firstly it provides mechanical protection to the outer
 parts of the machine secondly it provides a low reluctance path for the magnetic
@@ -16313,6 +23861,30 @@ CO-1; SO-1;   [7]
 BL-1,2   2-Marks
 3-Marks
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Steps to apply for Thevenin's Theorem
+
+Step 1:Remove the branch resistance through which current is to be calculated.
+
+Step 2:Calculate the voltage across these open circuited terminals, by using any one of the
+network simplification techniques. This is Vu.
+
+Step 3:Calculate Rru as viewed through the two terminals of the branch from which
+current is to be calculated by removing that branch resistance and replacing all
+sources by their internal resistances.
+
+Step 4:Draw the Thevenin's equivalent circuit showing source Vru with the resistance Rtn
+in series with it.
+
+Step 5:Reconnect the branch resistance. Let it be Ri. The required current through the
+
+branch is given by
+Vru
+
+a a
+
+3-Marks
 --- page 13 ---
 b. A single phase 50 Hz transformer has 80 turns on the primary winding and
 280 turns in secondary winding. The voltage applied across the primary
@@ -16367,6 +23939,23 @@ BL-3   [4]
 2-Marks
 2-Marks
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution. Assign mesh currents J, and J, to meshes ABDA and BCDB respectively as shown in
+Fig. 3.4 (i).
+
+Mesh ABDA. Applying KVL, we have,
+
+401, - 20(7, -1,) + 120 = 0
+or 60/; - 201, = 120
+Mesh BCDB. Applying KVL, we have,
+
+601, - 65 - 200, - 1) = 9
+or 201, + 801, = -65 lil)
+Multiplying eq, (ii) by 3 and adding it to eq, (i), we get,
+2201, = -75 “= -75/220=-0:341A
+
+2-Marks a)
 --- page 2 ---
 b.   Define, for an AC circuit:
 CO-2; SO-1;   (i)   RMS value
@@ -16410,6 +23999,32 @@ CO-2; SO-1;   (ii)   current   [10]
 BL-1   (iii)   phase angle
 (iv)   equation for the instantaneous value of current.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+In circuit of Fig. 1.222, as single source is acting, the actual directions of currents
+are marked. These branch currents can be calculated as follows:
+
+The equivalent resistance across the source, R,, = 4 + (3 || 2)=4 + rr =52
+Q
+
+ircui Y ait 2-Marks
+By Ohm’s law, total circuit current, /= Ui tie =7.69A
+
+eq
+.. Current in 4 Q resistor, [4g = 7.69 A(€)
+
+By current division rule, current in 3 Q resistor, [yg = 7.69 x > = 3.08 A(-)
+
+Current in 2 Q resistor, Jy = 7.69 - 3.08 = 4.61 A(L) 2-Marks
+
+Step III: By principle of superposition, the resultant branch currents can be
+calculated as follows:
+
+Current in 3 Q resistor, J = 8.08 A() + 3.08 A(€) = 5 A(>)
+
+Current in 2 Q resistor, yy =539A(L) +461 A(L)=10A()   L Mark
+
+Current in 4 Q resistor, Jyq = 2.69 A(—-) + 7.69 A(C) = 5 A(C)
 --- page 4 ---
 OOV , SO Hae
 
@@ -16476,6 +24091,22 @@ BL-2
 𝑍= Impedance of the circuit
 𝑉𝑅= 𝐼𝑅= Voltage drop across R (In phase with I)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Refer to Fig. 18. Since the flux increases from |
+
+its zero value to ai a value 9,, in one quarter of
+
+the cycle i.e., in S or re second (T being time-period of
+
+the cycle),
+-. Average rate of change of flux
+= Sen. = 4f0,,,,, Wb/s or volt
+4f
+If flux © varies sinusoidally, then r.m.s. (root
+
+mean square) value of inducted e.m.f. is obtained by
+multiplying the average value with form factor.
 --- page 6 ---
 𝑉𝐿= 𝐼𝑋𝐿=Voltage drop across L
 Phasor Diagram
@@ -16604,6 +24235,35 @@ BL-2
 as the frame. The yoke is an iron body, made up of low reluctance magnetic
 material such as cast iron, silicon steel, rolled steel, etc.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Applying KCL at Node a,
+
+1-Marks
+1, =30+1,
+120-V, _ V,-V,
+02 ~= + 03 2-Marks
+36-0.3V, = 1.8 + 0.2V, -0.2V,
+0.5V,-0.2V, = 34.2 (1)
+Applying KCL at Node b,
+1,+1,=20 1-Marks
+eo =20
+- . 2-Marks
+0.17, - 0.1%, +33-0.3%, =20
+posal Midd id ee le fa
+0.03
+0.1V,-0.4V, =-32.4 (2)
+Solving Eqs (1) and (2),
+%=M2V 1-Marks
+V,=109V
+120-V, 120-112
+I, = ——4=—_“= 404
+; 0.2 0.2 1-Marks
+bie V,-V, _ 12-109 _
+ee. 03
+Ls 110-Y, — 10-109 _ A 1-Marks
+
+0.1 0.1
 --- page 11 ---
 Yoke serves two purposes, firstly it provides mechanical protection to the outer
 parts of the machine secondly it provides a low reluctance path for the magnetic
@@ -16669,6 +24329,30 @@ CO-1; SO-1;   [7]
 BL-1,2   2-Marks
 3-Marks
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Steps to apply for Thevenin's Theorem
+
+Step 1:Remove the branch resistance through which current is to be calculated.
+
+Step 2:Calculate the voltage across these open circuited terminals, by using any one of the
+network simplification techniques. This is Vu.
+
+Step 3:Calculate Rru as viewed through the two terminals of the branch from which
+current is to be calculated by removing that branch resistance and replacing all
+sources by their internal resistances.
+
+Step 4:Draw the Thevenin's equivalent circuit showing source Vru with the resistance Rtn
+in series with it.
+
+Step 5:Reconnect the branch resistance. Let it be Ri. The required current through the
+
+branch is given by
+Vru
+
+a a
+
+3-Marks
 --- page 13 ---
 b. A single phase 50 Hz transformer has 80 turns on the primary winding and
 280 turns in secondary winding. The voltage applied across the primary
@@ -16723,6 +24407,23 @@ BL-3   [4]
 2-Marks
 2-Marks
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution. Assign mesh currents J, and J, to meshes ABDA and BCDB respectively as shown in
+Fig. 3.4 (i).
+
+Mesh ABDA. Applying KVL, we have,
+
+401, - 20(7, -1,) + 120 = 0
+or 60/; - 201, = 120
+Mesh BCDB. Applying KVL, we have,
+
+601, - 65 - 200, - 1) = 9
+or 201, + 801, = -65 lil)
+Multiplying eq, (ii) by 3 and adding it to eq, (i), we get,
+2201, = -75 “= -75/220=-0:341A
+
+2-Marks a)
 --- page 2 ---
 b.   Define, for an AC circuit:
 CO-2; SO-1;   (i)   RMS value
@@ -16766,6 +24467,32 @@ CO-2; SO-1;   (ii)   current   [10]
 BL-1   (iii)   phase angle
 (iv)   equation for the instantaneous value of current.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+In circuit of Fig. 1.222, as single source is acting, the actual directions of currents
+are marked. These branch currents can be calculated as follows:
+
+The equivalent resistance across the source, R,, = 4 + (3 || 2)=4 + rr =52
+Q
+
+ircui Y ait 2-Marks
+By Ohm’s law, total circuit current, /= Ui tie =7.69A
+
+eq
+.. Current in 4 Q resistor, [4g = 7.69 A(€)
+
+By current division rule, current in 3 Q resistor, [yg = 7.69 x > = 3.08 A(-)
+
+Current in 2 Q resistor, Jy = 7.69 - 3.08 = 4.61 A(L) 2-Marks
+
+Step III: By principle of superposition, the resultant branch currents can be
+calculated as follows:
+
+Current in 3 Q resistor, J = 8.08 A() + 3.08 A(€) = 5 A(>)
+
+Current in 2 Q resistor, yy =539A(L) +461 A(L)=10A()   L Mark
+
+Current in 4 Q resistor, Jyq = 2.69 A(—-) + 7.69 A(C) = 5 A(C)
 --- page 4 ---
 OOV , SO Hae
 
@@ -16832,6 +24559,22 @@ BL-2
 𝑍= Impedance of the circuit
 𝑉𝑅= 𝐼𝑅= Voltage drop across R (In phase with I)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Refer to Fig. 18. Since the flux increases from |
+
+its zero value to ai a value 9,, in one quarter of
+
+the cycle i.e., in S or re second (T being time-period of
+
+the cycle),
+-. Average rate of change of flux
+= Sen. = 4f0,,,,, Wb/s or volt
+4f
+If flux © varies sinusoidally, then r.m.s. (root
+
+mean square) value of inducted e.m.f. is obtained by
+multiplying the average value with form factor.
 --- page 6 ---
 𝑉𝐿= 𝐼𝑋𝐿=Voltage drop across L
 Phasor Diagram
@@ -16960,6 +24703,35 @@ BL-2
 as the frame. The yoke is an iron body, made up of low reluctance magnetic
 material such as cast iron, silicon steel, rolled steel, etc.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Applying KCL at Node a,
+
+1-Marks
+1, =30+1,
+120-V, _ V,-V,
+02 ~= + 03 2-Marks
+36-0.3V, = 1.8 + 0.2V, -0.2V,
+0.5V,-0.2V, = 34.2 (1)
+Applying KCL at Node b,
+1,+1,=20 1-Marks
+eo =20
+- . 2-Marks
+0.17, - 0.1%, +33-0.3%, =20
+posal Midd id ee le fa
+0.03
+0.1V,-0.4V, =-32.4 (2)
+Solving Eqs (1) and (2),
+%=M2V 1-Marks
+V,=109V
+120-V, 120-112
+I, = ——4=—_“= 404
+; 0.2 0.2 1-Marks
+bie V,-V, _ 12-109 _
+ee. 03
+Ls 110-Y, — 10-109 _ A 1-Marks
+
+0.1 0.1
 --- page 11 ---
 Yoke serves two purposes, firstly it provides mechanical protection to the outer
 parts of the machine secondly it provides a low reluctance path for the magnetic
@@ -17025,6 +24797,30 @@ CO-1; SO-1;   [7]
 BL-1,2   2-Marks
 3-Marks
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Steps to apply for Thevenin's Theorem
+
+Step 1:Remove the branch resistance through which current is to be calculated.
+
+Step 2:Calculate the voltage across these open circuited terminals, by using any one of the
+network simplification techniques. This is Vu.
+
+Step 3:Calculate Rru as viewed through the two terminals of the branch from which
+current is to be calculated by removing that branch resistance and replacing all
+sources by their internal resistances.
+
+Step 4:Draw the Thevenin's equivalent circuit showing source Vru with the resistance Rtn
+in series with it.
+
+Step 5:Reconnect the branch resistance. Let it be Ri. The required current through the
+
+branch is given by
+Vru
+
+a a
+
+3-Marks
 --- page 13 ---
 b. A single phase 50 Hz transformer has 80 turns on the primary winding and
 280 turns in secondary winding. The voltage applied across the primary
@@ -17079,6 +24875,23 @@ BL-3   [4]
 2-Marks
 2-Marks
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution. Assign mesh currents J, and J, to meshes ABDA and BCDB respectively as shown in
+Fig. 3.4 (i).
+
+Mesh ABDA. Applying KVL, we have,
+
+401, - 20(7, -1,) + 120 = 0
+or 60/; - 201, = 120
+Mesh BCDB. Applying KVL, we have,
+
+601, - 65 - 200, - 1) = 9
+or 201, + 801, = -65 lil)
+Multiplying eq, (ii) by 3 and adding it to eq, (i), we get,
+2201, = -75 “= -75/220=-0:341A
+
+2-Marks a)
 --- page 2 ---
 b.   Define, for an AC circuit:
 CO-2; SO-1;   (i)   RMS value
@@ -17122,6 +24935,32 @@ CO-2; SO-1;   (ii)   current   [10]
 BL-1   (iii)   phase angle
 (iv)   equation for the instantaneous value of current.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+In circuit of Fig. 1.222, as single source is acting, the actual directions of currents
+are marked. These branch currents can be calculated as follows:
+
+The equivalent resistance across the source, R,, = 4 + (3 || 2)=4 + rr =52
+Q
+
+ircui Y ait 2-Marks
+By Ohm’s law, total circuit current, /= Ui tie =7.69A
+
+eq
+.. Current in 4 Q resistor, [4g = 7.69 A(€)
+
+By current division rule, current in 3 Q resistor, [yg = 7.69 x > = 3.08 A(-)
+
+Current in 2 Q resistor, Jy = 7.69 - 3.08 = 4.61 A(L) 2-Marks
+
+Step III: By principle of superposition, the resultant branch currents can be
+calculated as follows:
+
+Current in 3 Q resistor, J = 8.08 A() + 3.08 A(€) = 5 A(>)
+
+Current in 2 Q resistor, yy =539A(L) +461 A(L)=10A()   L Mark
+
+Current in 4 Q resistor, Jyq = 2.69 A(—-) + 7.69 A(C) = 5 A(C)
 --- page 4 ---
 OOV , SO Hae
 
@@ -17188,6 +25027,22 @@ BL-2
 𝑍= Impedance of the circuit
 𝑉𝑅= 𝐼𝑅= Voltage drop across R (In phase with I)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Refer to Fig. 18. Since the flux increases from |
+
+its zero value to ai a value 9,, in one quarter of
+
+the cycle i.e., in S or re second (T being time-period of
+
+the cycle),
+-. Average rate of change of flux
+= Sen. = 4f0,,,,, Wb/s or volt
+4f
+If flux © varies sinusoidally, then r.m.s. (root
+
+mean square) value of inducted e.m.f. is obtained by
+multiplying the average value with form factor.
 --- page 6 ---
 𝑉𝐿= 𝐼𝑋𝐿=Voltage drop across L
 Phasor Diagram
@@ -17316,6 +25171,35 @@ BL-2
 as the frame. The yoke is an iron body, made up of low reluctance magnetic
 material such as cast iron, silicon steel, rolled steel, etc.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Applying KCL at Node a,
+
+1-Marks
+1, =30+1,
+120-V, _ V,-V,
+02 ~= + 03 2-Marks
+36-0.3V, = 1.8 + 0.2V, -0.2V,
+0.5V,-0.2V, = 34.2 (1)
+Applying KCL at Node b,
+1,+1,=20 1-Marks
+eo =20
+- . 2-Marks
+0.17, - 0.1%, +33-0.3%, =20
+posal Midd id ee le fa
+0.03
+0.1V,-0.4V, =-32.4 (2)
+Solving Eqs (1) and (2),
+%=M2V 1-Marks
+V,=109V
+120-V, 120-112
+I, = ——4=—_“= 404
+; 0.2 0.2 1-Marks
+bie V,-V, _ 12-109 _
+ee. 03
+Ls 110-Y, — 10-109 _ A 1-Marks
+
+0.1 0.1
 --- page 11 ---
 Yoke serves two purposes, firstly it provides mechanical protection to the outer
 parts of the machine secondly it provides a low reluctance path for the magnetic
@@ -17381,6 +25265,30 @@ CO-1; SO-1;   [7]
 BL-1,2   2-Marks
 3-Marks
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Steps to apply for Thevenin's Theorem
+
+Step 1:Remove the branch resistance through which current is to be calculated.
+
+Step 2:Calculate the voltage across these open circuited terminals, by using any one of the
+network simplification techniques. This is Vu.
+
+Step 3:Calculate Rru as viewed through the two terminals of the branch from which
+current is to be calculated by removing that branch resistance and replacing all
+sources by their internal resistances.
+
+Step 4:Draw the Thevenin's equivalent circuit showing source Vru with the resistance Rtn
+in series with it.
+
+Step 5:Reconnect the branch resistance. Let it be Ri. The required current through the
+
+branch is given by
+Vru
+
+a a
+
+3-Marks
 --- page 13 ---
 b. A single phase 50 Hz transformer has 80 turns on the primary winding and
 280 turns in secondary winding. The voltage applied across the primary
@@ -17435,6 +25343,23 @@ BL-3   [4]
 2-Marks
 2-Marks
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution. Assign mesh currents J, and J, to meshes ABDA and BCDB respectively as shown in
+Fig. 3.4 (i).
+
+Mesh ABDA. Applying KVL, we have,
+
+401, - 20(7, -1,) + 120 = 0
+or 60/; - 201, = 120
+Mesh BCDB. Applying KVL, we have,
+
+601, - 65 - 200, - 1) = 9
+or 201, + 801, = -65 lil)
+Multiplying eq, (ii) by 3 and adding it to eq, (i), we get,
+2201, = -75 “= -75/220=-0:341A
+
+2-Marks a)
 --- page 2 ---
 b.   Define, for an AC circuit:
 CO-2; SO-1;   (i)   RMS value
@@ -17478,6 +25403,32 @@ CO-2; SO-1;   (ii)   current   [10]
 BL-1   (iii)   phase angle
 (iv)   equation for the instantaneous value of current.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+In circuit of Fig. 1.222, as single source is acting, the actual directions of currents
+are marked. These branch currents can be calculated as follows:
+
+The equivalent resistance across the source, R,, = 4 + (3 || 2)=4 + rr =52
+Q
+
+ircui Y ait 2-Marks
+By Ohm’s law, total circuit current, /= Ui tie =7.69A
+
+eq
+.. Current in 4 Q resistor, [4g = 7.69 A(€)
+
+By current division rule, current in 3 Q resistor, [yg = 7.69 x > = 3.08 A(-)
+
+Current in 2 Q resistor, Jy = 7.69 - 3.08 = 4.61 A(L) 2-Marks
+
+Step III: By principle of superposition, the resultant branch currents can be
+calculated as follows:
+
+Current in 3 Q resistor, J = 8.08 A() + 3.08 A(€) = 5 A(>)
+
+Current in 2 Q resistor, yy =539A(L) +461 A(L)=10A()   L Mark
+
+Current in 4 Q resistor, Jyq = 2.69 A(—-) + 7.69 A(C) = 5 A(C)
 --- page 4 ---
 OOV , SO Hae
 
@@ -17544,6 +25495,22 @@ BL-2
 𝑍= Impedance of the circuit
 𝑉𝑅= 𝐼𝑅= Voltage drop across R (In phase with I)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Refer to Fig. 18. Since the flux increases from |
+
+its zero value to ai a value 9,, in one quarter of
+
+the cycle i.e., in S or re second (T being time-period of
+
+the cycle),
+-. Average rate of change of flux
+= Sen. = 4f0,,,,, Wb/s or volt
+4f
+If flux © varies sinusoidally, then r.m.s. (root
+
+mean square) value of inducted e.m.f. is obtained by
+multiplying the average value with form factor.
 --- page 6 ---
 𝑉𝐿= 𝐼𝑋𝐿=Voltage drop across L
 Phasor Diagram
@@ -17672,6 +25639,35 @@ BL-2
 as the frame. The yoke is an iron body, made up of low reluctance magnetic
 material such as cast iron, silicon steel, rolled steel, etc.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Applying KCL at Node a,
+
+1-Marks
+1, =30+1,
+120-V, _ V,-V,
+02 ~= + 03 2-Marks
+36-0.3V, = 1.8 + 0.2V, -0.2V,
+0.5V,-0.2V, = 34.2 (1)
+Applying KCL at Node b,
+1,+1,=20 1-Marks
+eo =20
+- . 2-Marks
+0.17, - 0.1%, +33-0.3%, =20
+posal Midd id ee le fa
+0.03
+0.1V,-0.4V, =-32.4 (2)
+Solving Eqs (1) and (2),
+%=M2V 1-Marks
+V,=109V
+120-V, 120-112
+I, = ——4=—_“= 404
+; 0.2 0.2 1-Marks
+bie V,-V, _ 12-109 _
+ee. 03
+Ls 110-Y, — 10-109 _ A 1-Marks
+
+0.1 0.1
 --- page 11 ---
 Yoke serves two purposes, firstly it provides mechanical protection to the outer
 parts of the machine secondly it provides a low reluctance path for the magnetic
@@ -17737,6 +25733,30 @@ CO-1; SO-1;   [7]
 BL-1,2   2-Marks
 3-Marks
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Steps to apply for Thevenin's Theorem
+
+Step 1:Remove the branch resistance through which current is to be calculated.
+
+Step 2:Calculate the voltage across these open circuited terminals, by using any one of the
+network simplification techniques. This is Vu.
+
+Step 3:Calculate Rru as viewed through the two terminals of the branch from which
+current is to be calculated by removing that branch resistance and replacing all
+sources by their internal resistances.
+
+Step 4:Draw the Thevenin's equivalent circuit showing source Vru with the resistance Rtn
+in series with it.
+
+Step 5:Reconnect the branch resistance. Let it be Ri. The required current through the
+
+branch is given by
+Vru
+
+a a
+
+3-Marks
 --- page 13 ---
 b. A single phase 50 Hz transformer has 80 turns on the primary winding and
 280 turns in secondary winding. The voltage applied across the primary

@@ -78,6 +78,31 @@ CO-3; SO-2;   d. performance.   [05]
 BL-4
 Answer:
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+from transformers import pipeline
+
+# Load instruction-tuned model (multi-task capable)
+model = pipeline("text2text-generation", model="google/flan-t5-small")
+
+# Multi-task inputs
+inputs = [
+
+“Summarize: Deep learning is a subset of machine learning that uses
+neural networks.",
+
+“Translate to French: Deep learning is powerful.",
+
+“Answer: What is machine learning? Machine learning is a method of
+data analysis.”
+
+]
+
+# Apply different tasks using same model
+for inp in inputs:
+output = model(inp)
+print(f"Input: {inp}")
+print(f"Output: {output[@][‘generated_text’]}\n")|
 --- page 3 ---
 The reward model plays a central role in Reinforcement Learning from
 Human Feedback, as it acts as a bridge between human preferences and   02
@@ -263,6 +288,19 @@ CO-1; SO-2;   a. Explain how it contributes to improving memory efficiency, proc
 BL-2   speed, and energy consumption.
 Support your answer with an appropriate example.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+BLEU formula:
+BLEU = BP x exp ($008.7, + log P2))
+
+Since both sentences have equal length:
+BP=1
+
+BLEU =1x exp (5(toe 0.625 + log 0.143)
+
+=exp (5(-0470 + (-1.040)))
+
+= exp(—1.208) = * * 0.30 « *
 --- page 8 ---
 Answer:
 Quantization in Large Language Models (LLMs) (Detail explanation)
@@ -314,6 +352,23 @@ overhead.
 02
 ~99.6% redution in trainable parameters.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+2. Quantitative Comparison: Full Fine-Tuning vs LoRA
+
+Example 1: Single Layer Calculation
+
+Consider a transformer weight matrix of size 4096 x 4096:
+Full Fine-Tuning
+Parameters = 4096 x 4096 = 16, 777,216 = 16.7.2
+LoRA (rank r = &)
+Parameters = 8 x (4096 + 4096) = 65,536
+
+Reduction
+
+65, 536
+Reduction = = 0.39%
+uction = Too 0
 --- page 10 ---
 02
  Memory drops from ~TB scale → MB scale
@@ -340,6 +395,30 @@ Enables multi-task deployment cheaply
 • Many tasks show comparable accuracy
 •   Especially effective in:
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Example 2: Large Model (GPT-scale)
+
+Consider a 175B parameter model:
+
+Full Fine-Tuning
+
+*   Trainable parameters = 1758
+« With optimizer states (Adam):
+
+= 3™ 175B = 5258 parameters in memory
+
+LoRA
+
+*   Trainable parameters = 18M
+
+* Memory for optimizer states:
+
+vi O4M values
+
+Reduction
+
+* From billions — millions
 --- page 11 ---
 ▪ NLP tasks
 ▪ domain adaptation
@@ -750,6 +829,26 @@ Justify your answer with appropriate reasoning.
 Answer:
 02x5
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+2. Pairwise Preference Calculations
+(i) Probability that A is preferred over B
+
+R(A) — R(B) =2.2-0.8=14
+
+1 1
+P(A> B)=————_ = ——_ = 0.802
+(A> B)= aa * Tye
+
+3. Interpretation of Results
+
+» P(A > B) = 0.802 - Strong preference for A over B
+* P(B > C) = 0.858 - Strong preference for B over C
+* P(A> C) = 0.961 = Very strong preference for A over C
+
+This shows a consistent ranking:
+
+A>B>C
 --- page 23 ---
 4. Evaluation of Reward Model Effectiveness
 Strengths:
@@ -963,6 +1062,29 @@ training.
 • Memory Requirements: Training large models demands extensive
 memory due to billions of parameters.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Aspect Generative Al Descriptive Al
+
+Definition Al that creates new content (text images, music, Al that analyzes and interprets existing
+ete) based on learned patterns. data to summarize insights.
+
+Goal To generate original outputs that resemble To understand and describe past trends or
+hurman-created content patterns in data.
+
+Examples ChatGPT, DALL-E (image generation), Bard, Business Intelligence (Bl), dashboards,
+MidJourney. Statistical reports.
+
+Data Learns patterns from lange datasets and Extracts insights from structured or
+
+Processing generates outputs. unstructured data.
+
+Use Cases Text generation, image synthesis, creative Data analysis. reporting, summarization,
+writing, code generation. fraud detection.
+
+Al Techniques Neural networks, transformers, GANs Statistical models, clustering. predictive
+
+Used (Generative Adversarial Networks). analytics.
 --- page 2 ---
 •   Training Time: Can take weeks or months to pre-train an LLM from
 scratch.
@@ -998,6 +1120,26 @@ minority perspectives.
 •   It may prioritize engagement over factual accuracy.
 5. Fatigue and Annotation Errors:
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Conventional Fine-Tuning Multi-Task Instruction Fine-Tuning
+
+Adapting a pre-trained model to a specific Fine-tuning a model on multiple tasks using
+task using labeled data. instructional prompts.
+
+Training Task-specific labeled dataset. A diverse dataset with instructions for multiple
+
+Data tasks.
+
+Flexibility Model specializes in one task and may mot Model generalizes across multiple tasks
+generalize well. efficiently.
+
+Use Cases: Sentiment analysis. medical text Al assistants like FLAN-TS that perfonm
+classification. summarization, translation, Q&A.
+
+Example Training GPT-2 specifically for sentiment Training FLAN-TS on summarization, question-
+
+classification. answering, aind reasoning.
 --- page 3 ---
 • Annotators may become fatigued, reducing the quality of
 feedback.
@@ -1108,6 +1250,24 @@ CO-1; SO-2;   a. (LLMs). How do different precision formats like FP32, FP16, BFL
 BL-2   INT8 impact memory usage and performance? Provide examples.
 ANSWER:
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+BLEU Score formula:
+
+N
+BLEU = BP x exp (>: wy, log r,)
+
+n=1
+
+* Brevity Penalty (BP): Since candidate and reference have the same length, BP = 1.
+
+* — Using unigram and bigram precision (N=2):
+
+1
+BLEU = 1 x exp { =(log 0.857 + log 0.667
+2
+
+= exp ($(-0.1s4 + (-0.405))) = exp(—0.279) ~ 0.756
 --- page 6 ---
 1. What is Quantization?
 • A technique to reduce the memory footprint and computational
@@ -1492,6 +1652,30 @@ strongly preferred.
 • The probability of choosing Y over Z is 83.2%, meaning Y is also
 significantly better than Z.
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+(a) Probability that X is preferred over Y:
+
+1
+P(X>Y)= 1 + e- (28-09)
+_ 1
+Iye19
+Approximating e~ 1? ~ 0.149:
+p(x >y)-—+ —-_1 x07
+
+140.149 1.149
+
+(b) Probability that Y is preferred over Z:
+
+1
+PY > Z) 1 + e-(0.9-(-07)
+_ 1
+1+ e 16
+Approximating e '° ~ 0.202:
+1 1
+P(Y>Z)= = 0.832
+
+1+0.202 1.202
 --- page 16 ---
 •   Since X has the highest probability, it is considered the most
 preferred response, followed by Y, and Z is the least preferred.

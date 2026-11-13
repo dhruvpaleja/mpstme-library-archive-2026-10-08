@@ -84,6 +84,30 @@ and facilitate stable, repetitive, and specialized operations
 employees by expertise (marketing, R&D, production), enabling
 specialization and improving productivity.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+i) Re-order quantity or EO
+
+248
+cs
+
+{2x 14,300 x 100
+BOQ = 10 x 20%
+E0Q = [2 = 14,300 x 300
+
+E0Q = 4+/1,430,000
+
+EOQ —
+
+EOQ = 1195.82 of 1196 Kgs (approx.)
+
+ii) Reorder Level
+
+Re-order Level = Maximum consumption x Maximum re-order period
+
+Re-order Level = 450 x &
+
+Re-order Level = 3600 Kgs
 --- page 3 ---
 •   Product/Service Design: Involves translating customer
 requirements into specific, actionable, and product features,
@@ -107,6 +131,41 @@ CO-1; BL-1
 b.
 CO-2; BL-1   [7]
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+External Monitoring
+
++ Market Research Performance
++ Benchmarking
+
++ Strategic Audits
+
+Implementation .
+
+Quality + Action Plans/Targets
+
+Strategy + Projects Selection
+
+Rewards
+
+Internal Monitoring
++ Quality Feedback
+
+Management Review:
+
+PRODUCT STRUCTURE
+
+Low Volume Low Volume Higher Volume Very High Volume
+
+Unique Multiple Products Standardized Product Commodity Product
+Jumbled Flow
+Job Shop
+Disconnected Line Flow
+Bateh
+Connected Line Flow
+Assembly Line
+conn comms
+Continuous
 --- page 4 ---
 c.
 CO-3; BL-4   [6]
@@ -117,6 +176,39 @@ CO-4; BL-2   requirements based on sales orders and forecasts, then subtracts
 existing inventory and scheduled receipts to determine net
 requirements.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+The product process matrix has
+
+four steps:
+
+Plan: Identify the problem or opportunity and develop a plan to address it
+
+Product Layout Process Layout
+
+1. Description Sequential arrangement of activities Functional grouping of activities
+2. Type of process Continuous, mass production, Intermittent, job shop, batch
+mainly assembly production, mainly fabrication
+
+3. Product Standardized, made to stock Varied, made to order
+4. Demand Stable Fluctuating
+5. Volume High Low
+6. Equipment Special purpose General purpose
+7. Workers Limited skills Varied skills
+8. Inventory Low in-process, high finished goods High in-process, low finished goods
+9. Storage space Small Large
+
+10. Material handling Fixed path (conveyor) Variable path (forklift)
+
+11. Aisles Narrow Wide
+
+12. Scheduling Part of balancing Dynamic
+
+13. Layout decision Line balancing Machine location
+
+14. Goal Equalize work at each station Minimize material handling cost
+
+15. Advantage Efficiency Flexibility
 --- page 5 ---
 • BOM Explosion: The system breaks down the finished product into
 its sub-assemblies and raw materials based on the Bill of Materials
@@ -347,6 +439,7 @@ decision-making
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_AI_7012/Operations and Supply Chain Management/ANS_Operations and Supply Chain Management(702ME0I005)_2025-2026.pdf` (+5 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2025
 - Text: mixed (7 pages), mean OCR confidence 73.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -400,6 +493,41 @@ CO3-; SO-   [10]
 2,7;
 BL-5
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+3. Failure of the single eye or rod end in tension
+The single eye or rod end may fail in tension due to the load. We know that load (P),
+150 x 10° = (d,—d,)1 x 6, = (104-52) 65 x 6, = 33806,
+o, = 150 x 10°/3380= 44.4N/mnt = 44.4MPa
+ktidiheenld tab tnjjatgnes tolentte teaming
+The single eye or rod end may fail in shearing due to the load. We know that load (P),
+150 x 10° = (d,—d,)1x t= (104 - 52) 65 x t= 3380
+t = 150 x 10°/3380=44.4 N/mm” = 44.4 MPa
+The single eye or rod end may fail in crushing due to the load. We know that load (P),
+150 10° = d,xtxG_=52x65 xo_=33806,
+os. = 150 107/380 = 44.4.Nimm*= 44.4 MPa
+The forked end may fail in tension due to the load. We know that load (P),
+150 x 10° = (d,- d,)2 1, x6,=(104—52)2 x40 x o,=41600,
+s, = 150% 10°/ 4160 = 36 N’mm* = 36MPa
+1. Failure of the forked end in shear
+The forked end may fail in shearing due to the load. We know that load (P),
+150.« 10° = (d,— d,)2 t,x T=(104 —52)2 x 40x t=4160T
+t = 150 10°/4160= 36 N/mm? = 36 MPa
+Failure of the forked end in crushing
+The forked end may fail in crushing due to the load. We know that load (P)_
+150x108 = d, x21, x6, =52x2x40x6_=41600_
+om 6, = 150 10°/4180=36 Nimm? = 36MPa
+the joint is safe.
+
+StepI Diameter of rivets
+There are five rivets subjected to double shear.
+From Eq. (8.36),
+
+P,=2 [Ea?en]
+! 4
+or (250x 103)=2 E ad” (60) (5 |
+
+d= 23.03 or 25 mm (i)
 --- page 3 ---
 (w 2d) to, = P
 or (200-2 25) (70) = 250 x 107
@@ -455,6 +583,64 @@ CO-3; SO-   [10]
 BL-5
 Design of lever ( t =26 mm and b = 78 mm)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+The primary shear stress in the welds is given
+by,
+
+t= rv" = =
+(5007)
+
+Po 25000 _ (50
+i
+
+| N/mm? (i)
+
+Step IT Bending stress
+Referring to Fig. 8.35, the moment of inertia of
+four welds about the X-axis is given by
+
+be dy 13
+Dg = 2| — + (bry x 2) +2
+12 2 12
+
+Y
+
+>
+Thr Prt
+
+Bb
+¥
+Fig. 8.35
+
+Assuming 4 and a to be large as compared to
+the throat dimension ¢ and neglecting the terms
+containing f, we have
+
+Substituting the values,
+_ | aoojasoy> = asoy |_ >
+ta=t| 5 += |-fes.as0 |¢mm‘
+
+From Eq. (8.28),
+
+M,y _ (25000x500)(75)
+I (75)(1507 ¢
+
+-(=
+
+o, =
+
+) smn? (ii)
+
+Step WI Maximum shear stress
+From Eq. (8.29), the maximum shear stress in the
+weld is given by,
+
+=\(%) +my = (Sy . (7)
+
+_ 283.24
+
+N/mm
 --- page 5 ---
 Sy.
 .-— — 100 100 N/mm?
@@ -2279,6 +2465,37 @@ BL-3
 CO-1;   c.   Explain how different stages of the supply chain are interconnected.   [05]
 SO-6;
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+1. Provides Transparency
+
+* Real-
+
+me tracking allows customers to know where their order is at every stage — from warehouse
+dispatch to delivery.
+
+* Transparency reduces uncertainty and builds confidence that the seller is reliable.
+
+2. Enhances Customer Confidence
++ When customers can see the progress of their order, they are less likely to worry about delays or lost
+shipments.
+
+* Confidence in delivery timelines encourages repeat purchases and brand loyalty.
+
+3. Reduces Customer Complaints
++ Visibility allows both the customer and the e-commerce platform to monitor potential delays or issues
+proactively.
+
+* This reduces complaints, disputes, and negative reviews, improving the overall shopping experience.
+
+4. Enables Proactive Communication
++ Real-time tracking allows platforms to inform customers instantly about delays, reschedules, or
+exceptions.
++ Proactive updates show that the company is responsible and responsive, further enhancing trust.
+
+5. Supports Efficient Problem Resolution
+© If there’s a shipment problem, tracking data helps quickly locate the issue and resolve it.
+* Quick resolution strengthens the perception that the platform is reliable and customer-centric.
 --- page 2 ---
 BL-3   Each stage =1 mark; total five stages =05 marks
 d.   Define RFID. How is it used in supply chain management to improve
@@ -2310,6 +2527,63 @@ SO-1;   [10]
 BL-3   Machine productivity =05 marks
 Labour Productivity =05 marks
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: EOQ Formula
+
+2-D-
+£0Q = 5 — Gs
+/2- 5000 - 1000
+B00 —V “a0
+
+2 - 5000 - 1000 = 10, 000, 000
+
+Substitute the values:
+
+Calculate numerator:
+
+Divide by carrying cost:
+
+10, 000, 000
+—.— = 25, 000
+400
+
+Take the square root:
+
+BOQ = 25,000 = 158.11 = 158 units
+
+EOQ = 158 units per order
+
+Step 2: Minimum Total Inventory Cost (TC)
+
+TC = Ordering Cost + Carrying Cost = a “Cot E0Q :
+
+E0Q 2 Ce
+
+Ordering Cost:
+
+5000
+—— - 1000 = 31.65 - 1000 ~ 31,650
+158 31.6; 31,65
+
+Carrying Cost:
+
+= - 400 = 79 - 400 = 31, 600
+
+TC = 31,650 + 31,600 ~ 63, 250
+
+Minimum total inventory cost = 763,250
+
+Step 3: Total Number of Orders per Year
+
+D (000
+Number of Orders = B00 ~ a = 31.65 = 32 orders/year
+
+Step 4: Time Between Orders (in days)
+
+Working d: 311
+Time between orders = ore GAYS Sw 9.83 = 10 days
+Number of orders 31.65
 --- page 4 ---
 Q3
 [20]
@@ -2325,6 +2599,33 @@ P5   1500   18
 P6   50   500
 P7   2000   6
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Labor Productivity
+
+Total Output
+Labor Productivity =
+abor rodney Number of Workers x Time
+Substitute the values:
+3600 3600
+Labor Productivity = ——~ = —— =50
+abor Productivity @x12 72
+
+Labor Productivity = 50 books per worker per hour
+
+Step 2: Machine Productivity
+
+Total Output
+Number of Machines x Time
+
+Machine Productivity =
+
+Substitute the values:
+
+Machine Productivity = 3600" = 3600 = 150
+2x12 24
+
+Machine Productivity = 150 books per machine per hour
 --- page 5 ---
 Above table =06 marks
 Final table = 04 marks
@@ -2345,6 +2646,32 @@ SO-6;   example to support your answer.   [10]
 BL-2   Example =04 marks
 Explanation = 06 marks; Total =10 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Annual Annual |inventory
+
+Product type demand Unit Cost value | value % Rank
+Py 1200 25 30000 13.95
+P, 800 60 48000 22.33
+Ps 4500 4 18000 8.37
+Py 200 300 60000 27.91
+Ps 1500 18 27000 12.56
+Pe 50 400 20000 9.30
+P, 2000 6 12000 5.58
+
+215000 100.00~
+
+Produc |inventory ABC
+
+Rank ttype | value % | analysis
+1 P4 27.91 A
+2 P2 22.33
+3] Pi 13.75
+4 Ps 12.56 76.55
+5 Pe 9.3
+6|P3 8.37 17.67 B
+
+7|P7 5.58 5.58]}c
 --- page 6 ---
 Q5   [20]
 a.   Analyze the impact of poor warehouse management on supply chain
@@ -2372,6 +2699,43 @@ CO-1;
 SO-7;   [10]
 BL-3
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+1. Green Procurement (Eco-friendly Sourcing)
+
+* Focuses on purchasing materials and components that are environmentally friendly, such as recycled,
+biodegradable, or low-emission materials.
+
+* Contribution to sustainability: Reduces resource depletion, lowers environmental pollution, and
+
+encourages suppliers to adopt eco-friendly practices.
+
+2. Green Manufacturing (Clean Production)
+
+* Involves reducing energy consumption, emissions, and waste during the production process.
+
+* Techniques include energy-efficient machinery, renewable energy usage, and minimizing hazardous
+substances.
+
+* Contribution to sustainability: Lowers carbon footprint, reduces industrial waste, and conserves energy.
+
+3. Green Logistics and Transportation
+* Optimizes transportation routes, consolidates shipments, and uses fuel-efficient or electric vehicles.
+* Contribution to sustainability: Reduces greenhouse gas emissions, energy consumption, and
+
+environmental impact from transportation activities.
+
+4. Reverse Logistics
+* Deals with returns, recycling, reusing, remanufacturing, or safe disposal of products and packaging.
+* Contribution to sustainability: Minimizes landfill waste, promotes circular economy practices, and
+
+reduces environmental hazards.
+
+5. Green Packaging
+* Uses eco-friendly, biodegradable, or recyclable packaging materials and reduces excessive packaging.
+* Contribution to sustainability: Lowers packaging waste and resource usage, supporting environmental
+
+conservation.
 --- page 7 ---
 Q7   [20]
 a. What are the major decision phases in supply chain management? Describe
@@ -2393,6 +2757,23 @@ SO-7;   [05]
 BL-3   Explanation =04 marks
 Define bullwhip = 01 mark
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+6. Environmental Management Systems (EMS)
+
+¢ Integrates environmental policies, monitoring, and compliance measures across the supply chain.
+¢ Examples include ISO 14001 certification and sustainability reporting.
+
+* Contribution to sustainability: Ensures continuous environmental performance improvement and
+
+regulatory compliance.
+
+7. Collaboration with Green Suppliers
+« Engages suppliers who follow sustainable practices and shares knowledge and standards to improve
+environmental performance.
+* Contribution to sustainability: Encourages eco-friendly practices across the supply chain network,
+
+amplifying environmental benefits.
 --- page 8 ---
 d.   Analyze the impact of Six Sigma implementation on reducing lead times in
 CO-3;   supply chain processes.
@@ -2400,6 +2781,43 @@ SO-6;   [05]
 BL-3   Explanation =04 marks
 Definition = 01 mark
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+1. Understanding the Bullwhip Effect
+* The bullwhip effect occurs when small fluctuations in customer demand lead to larger and amplified
+variations in orders upstream in the supply chain.
+* Causes include demand forecast errors, order batching, price fluctuations, and lack of communication
+
+between supply chain partners.
+
+2. Role of Information Sharing
+
+Information sharing involves real-time communication of demand, inventory levels, and sales data
+
+between retailers and distributors.
+
+a) Reduces Demand Forecast Errors
+* When distributors receive accurate point-of-sale (POS) data from retailers, they can forecast demand
+more precisely.
+* This reduces overstocking or understocking upstream, mitigating fluctuations caused by inaccurate
+
+forecasts.
+
+b) Minimizes Order Batching
+* Sharing information allows distributors to plan production and shipments more smoothly, reducing the
+need for large, irregular orders.
+
+* Consistent ordering reduces variability in the supply chain.
+
+c) Enhances Inventory Visibility
+¢ Distributors can monitor retailer inventory levels in real time.
+¢ This prevents unnecessary over-ordering or stockpiling, which are major contributors to the bullwhip
+effect.
+
+d) Facilitates Collaborative Planning
+¢ Information sharing supports Vendor Managed Inventory (VMI) or Collaborative Planning,
+Forecasting, and Replenishment (CPFR).
+¢ Joint planning aligns supply with actual demand, smoothing production and distribution schedules.
 --- page 9 ---
 1. Understanding Six Sigma in Supply Chain
 

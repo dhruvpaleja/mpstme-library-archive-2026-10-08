@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_Mechatronics_7004/Robotic Systems Design/ANS_Robotic Systems Design(702MH0C021)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: mixed (16 pages), mean OCR confidence 73.7
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -80,6 +81,19 @@ Final answer
 [𝑚2]𝐹= [0 1 0]𝑇
 2
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+1) Fundamental rotation matrix (about f / y-axis)
+
+cosO 0 sin?
+R,(@)=| 0 1 0 | with@= , cos9= %, sing = %.
+
+—sin@d 0 cosé
+So
+ig
+R(3)=| 0 1 0
+
+29 4
 --- page 3 ---
 c. Define “workspace” and with neat diagram show how it is for a cylindrical, cartesian   5
 and SCARA robot.
@@ -157,6 +171,43 @@ joint, discussing the effect of increased integral gain.   [10]
 A single-axis PID controller (Proportional-Integral-Derivative) stabilizes a robotic
 joint by continuously adjusting the motor's output to minimize the difference between
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+1. D-H parameters (given)
+
+Axis k Oe dj, a ak
+1 6; ty) Cy) —n/2
+2 0 dy 0 0
+
+We use the standard D-H homogeneous transform
+
+Ty °= .
+0 sin a, cos ay, dy
+
+0 0 0 1
+
+2. Individual link transforms
+
+Link 1 (01, d; = 0,a, = 0, a, = —7/2)— substitute cosa; = 0, sina; = —1:
+cos#; O —sin#, 0
+0 sind; O cos), 0
+‘~J}0 -1 0 0
+0 0 0 1
+
+Link 2 (02 = 0, d2,a2 = 0,a2 = 0):
+
+100 0
+, jo 10 0
+T, =
+001 ad
+000 1
+3. ARM (base — tool) matrix
+cos#; O —sin@, —dysin6,
+sing, O cos 0, d2 cos 4,
+1? = T°T =
+0 —1 0 0
+
+0 0 0 1
 --- page 6 ---
 the desired joint position (setpoint) and the actual joint position (process variable). This
 is achieved through a feedback loop.
@@ -232,6 +283,17 @@ ii.   Translate M along 𝑓2 by 20 units.
 iii.   Rotate M along 𝑓3 by 𝜋 radians
 Also draw the vector diagrams.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+TABLE 2-2 KINEMATIC PARAMETERS FOR THE ALPHA II ROBOT
+
+Axis (] d a a Home
+1 6; 215.0 mm 0 —1/2 0
+2 0, 0 177.8 mm 0 0
+3 6; 0 177.8 mm 0 0
+4 64 0 0 —a/2 —n/2
+
+5 4s 129.5 mm 0 6 0
 --- page 9 ---
 Step 1— Elementary homogeneous transforms
 
@@ -303,6 +365,29 @@ speed. A Type 1 system will exhibit a constant, non-zero error, causing
 a persistent lag behind the desired trajectory. A Type 0 system would
 have an infinite error.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+1. From the third equation,
+
+2. From the first two, form the radial distance in the ry-plane:
+
+as = V/(—43 sing)? + (a3 cos)? = Vx? + y?.
+
+Assuming the conventional prismatic range g3 > 0,
+
+g= Vr?+y?.
+
+3. To get q;, divide the pair:
+©
+
+sing, = a" cos gq) = x
+3 3
+
+A robust way to combine those in a single expression is with the two-argument
+
+arctangent:
+
+qi = atan2(—x, y) + 2kz, keZ.
 --- page 12 ---
 o Parabolic Input (Constant Acceleration): The arm needs to accelerate
 continuously. A Type 2 system will show a constant error. Systems with
@@ -522,6 +607,7 @@ motors with minimal delay.
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/BTech_Mechatronics_7004/Robotic Systems Design/ANS_Robotic Systems Design(702MH0C021)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Feb 2026
 - Text: mixed (14 pages), mean OCR confidence 73.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -609,6 +695,27 @@ the Lie group , which is the space of rigid-body motions.
 •   Velocity Kinematics: The time derivative of a screw transformation matrix gives
 a twist, which is a 6-vector representing the instantaneous linear and angular
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+3. Rotation about fixed f? (the y-axis)
+
+When we rotate a coordinate frame M by an angle ¢ about the fixed y-axis (f7):
+» m'andm* change direction.
+
+. m (the rotation axis) remains unchanged.
+
+Thus, geometrically:
+m= cos¢f'+0-f?+sing f*,
+m= 0-f'+1-f?+0-f%,
+m’ = —sing f'+0- f? + cos¢ f*.
+
+The fundamental rotation matrix representing rotation of the mobile frame M about the
+
+fixed axis f? by an angle @ radians is:
+
+: cosd 0 —sing
+PRy=| 0 1 0
+sind 0 cos@d
 --- page 3 ---
 velocity of a rigid body. This is used to relate the joint velocities to the end-
 effector's linear and angular velocity, a key component of velocity kinematics.
@@ -671,6 +778,53 @@ errors and disturbances during operation, ensuring accuracy, stability, and robu
 performance. In feedback control, sensors measure the output or state, compare it to the
 desired input (reference), and the controller adjusts the actuator inputs to minimize the
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+2 — Individual link transforms Aj ... Ay
+Link 1: 0, d,, ai, a, =7
+Use cosm = —1, sin = 0. Plug in:
+
+cos#; sin; 0 a,cosh;
+
+A sin®; —cos#; O asin
+J 0 0 1 dk
+0 0 0 1
+(Notice the second column becomes — sin 6; cos = — sin 0,(—1) = sin @,, etc. third
+
+column entries involving sin @; vanish.)
+
+Link 2: 2, dz = 0, a2, a2 = 0
+
+With cos 0 = 1, sin0 = 0:
+
+cos@, —sinO. 0 aycos6,
+
+Ay = sinf. cos#; 0 aysin®
+0 0 1 0
+0 0 0 1
+
+This is a pure planar rotation about z and a translation along x by dg in frame 2.
+
+Link 3: 6; = 0, d3, az = 0, a3 = 0
+
+03 = 0 > cs = 1,83 = 0; a3 = 0
+
+100 0
+010 0
+As= lo 0 1 asl?
+0001
+
+i.e. a pure translation along the local z-axis by d3 (prismatic joint).
+
+Link 4: 64, dy, ay =0, ay =0
+
+cos#, —sinés 0 O
+
+A sinf; cos; O 0
+4 1 0 0 1 ds
+0 0 0 1
+
+This adds final end-effector rotation about the local z and translation along z by dy.
 --- page 5 ---
 difference (error), allowing the system to respond dynamically to changes in load,
 environment, or parameters(see the generated image above).RSD-Set-A_Synopsis3.docx
@@ -734,6 +888,14 @@ Q4   a. Solve for [𝑚1]𝐹following the motions mentioned below, Let 𝐹= {�
 𝑀= {𝑚1, 𝑚2, 𝑚3} be two initially coincident fixed and mobile orthonormal coordinate
 frames respectively. Suppose we,
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Axis a d a a Home
+1 a a 0 —x/2 0
+2 a2 0 a2 0 =7/2
+3 qa 0 ay ii] m/2
+4 qa ia] ds —a/2 0
+5 qs ds 0 0 —a/2
 --- page 7 ---
 i.   Rotate M along 𝑓2 by −𝜋 radians
 ii.   Translate M along 𝑓1 by 100 units.
@@ -765,6 +927,18 @@ segment deviates from the original path by more than this tolerance, the algorit
 determines that the segment is too long. The last point before the deviation
 exceeded the boundary is selected as the next waypoint.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+-1 0 0 —100
+o 1 0 0
+o @ -1 0
+o 0 0 1
+
+Ty =
+
+* Orientation (columns of Ft) is same as Case A:
+
+im? |* = |-1,0,0)"
 --- page 8 ---
 5. New Waypoint: A new, straight-line segment is then drawn from the start of the
 previous segment to this new waypoint. This point becomes the new starting point
@@ -879,6 +1053,33 @@ payload is consistent, such as in simple component transfer tasks.
 amount of time without checking the cleanliness of the clothes.
 Closed-Loop Control System
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Solve q1
+
+From FK equations:
+
+r= -qqsing, y= q2cosq
+© Divide y/x:
+¥Y_ cos _
+= = ——— =-cotq
+2 —q sing
+q, = arctan 2(—z, y)
+Substitute:
+
+qi = arctan 2(—24, 36)
+
+qi = arctan 2(—24, 36) ~ —0.588 rad ~ —33.69°
+
+Step 2: Solve q2
+
+= Vr? + yp = 242 + 362 = V576 + 1296 = 1872 ~ 43.27
+
+Step 3: Solve q3
+z=d,—-q = g3=d-2z
+© If d is known (say, constant), e.g., assume d; = 100 (typical link offset), then
+
+43 = 100 — 48 = 52
 --- page 11 ---
 A closed-loop control system, also known as a feedback control system, uses sensors to
 monitor the robot's output and adjust its actions in real time. It continuously compares the
@@ -922,6 +1123,45 @@ Derive the Yaw-Pitch-Roll Transformation Matrix and find the resultant rotation 
 by substituting the given values. Also draw the vector diagrams.
 5
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+The = Tene" Titers
+
+= (Totten) ' Titers
+ro -1 0 15) [0-1 0 0
+_|-i 0 0 25 -1 0 0-5
+~ 10 0 -1 20 0 oOo -1 19
+10 0 0 ff 0 0 0 1
+ro -1 0 2]f 0-1 0 0O
+_|-l1 0 0 15}]-1 0 Oo -5
+~ 1a o -1 2}]/ 0 oO -1 19
+fo 0 0 1ff0 0 0 1
+1 0 0! 30
+_ jo 1 08 15
+~ 10 0 bf 1
+
+1— Fundamental rotation matrices
+
+Using standard right-handed active rotations (rotate vectors):
+
+1 0 0 cos#@ 0 sin@
+R:(¢)= |0 cosé —sind|, R,(@)= 0 1 0 |,
+0 sind cosd —sin@ 0 cosé@
+
+cosy —sinw 0
+R.(v)=|sind’ cosd 0
+0 0 1
+
+Then the general Yaw-Pitch-Roll matrix (extrinsic roll—pitch—yaw) is
+
+[RW,,6) = R.(Y) Ry(6) Re(¢)-]
+
+Multiplying those three gives the symbolic form (useful to lecture from):
+R(wv,0,¢) = |sinvcos#@ sinwsin#ésind+cosycosd sinwsin#cos@— cosy sind
+
+—sind cos @ sind cos @ cos
+
+(You can derive that by multiplying the three 3x3 matrices — it's a standard result.)
 --- page 13 ---
 5
 b. Explain the concept of reach and stroke of a robotic arm. Classify robots based on drive [10]
@@ -950,6 +1190,37 @@ used for welding and assembly to small, precise robots used in electronics
 manufacturing and medical surgery.
 • Examples:
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+2 — Substitute the given angles
+The problem gives the sequential rotations about the fixed axes:
+* Rotate about f! by ¢ = ; (roll),
+
+* Rotate about f? by @ = 5 (pitch),
+* Rotate about f* by o = x (yaw).
+
+Compute each elementary matrix (exact trig values):
+
+us _ : . .
+cos>=0, sin5=1, cos(— $)=0, sin(- §) =-1, cost=-1, sinx=0.
+So
+
+10 0 00 -1
+R.(¥)=|0 0 -1], &,(-%)=]0 1 Of,
+0 0 10 0
+-1 0 0
+RAr)=|0 -1 0
+0 o 1
+Now multiply
+
+R= R(x) Ry(~3) Re (3).
+
+Carrying out the product (I've checked the algebra carefully) gives the resultant rotation
+matrix
+
+010
+R= |0 01
+10 0
 --- page 14 ---
 o Industrial Robots: A 6-axis robot arm in an automotive factory for
 welding or painting.

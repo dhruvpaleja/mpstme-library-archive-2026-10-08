@@ -1667,6 +1667,18 @@ o Supports splitting, enabling parallel processing.
 •   Disadvantages:
 [10]
 b   o Not human-readable.
+
+[Text in pictures on this page, read by OCR]
+Criteria Marks Expected Content
+
+Collaborative Filtering Explanation 4 Definition, working, user/item similarity, example
+
+Cosine Similarity Interpretation 2 Explains high similarity — similar preferences,
+example
+
+Strategy for New Student 4 Content-based, popularity-based, hybrid, onboarding
+
+example
 --- page 6 ---
 • Use Case: Intermediate storage for Mapper output, or bulk storage of structured
 data.
@@ -2232,7 +2244,7 @@ o User1 & User3 = 0.942
 - Programmes: BTech CSE DS 7057
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_CSE_DS_7057/Big Data Analytics/ANS_Big Data Analytics(702DB0C029)_2025-2026.docx`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05/12/ 2025
-- Text: docx (1 page)
+- Text: mixed (3 pages), mean OCR confidence 94.6
 
 ````text
 SVKM’S NMIMS
@@ -3134,6 +3146,24 @@ Most similar user to User1: User3
 
 | [5]
 |
+--- page 2 ---
+Criteria Marks Expected Content
+
+Collaborative Filtering Explanation 4 Definition, working, user/item similarity, example
+
+Cosine Similarity Interpretation 2 Explains high similarity > similar preferences,
+example
+
+Strategy for New Student 4 Content-based, popularity-based, hybrid, onboarding
+
+example
+--- page 3 ---
+Criteria Marks Expected Answer
+
+HBase features 6 Column-oriented, scalable, real-time, region splitting, versioning,
+Hadoop integration, fault tolerance, schema flexibility
+
+Differences with Bigtable 4 Platform, storage, API, deployment, ecosystem, replication, cost
 ````
 
 ## 2025-26 · Final-Exam · Sem 7 · Answer key · paper 75fdb4e5d222
@@ -3383,6 +3413,18 @@ o Supports splitting, enabling parallel processing.
    Disadvantages:
 [10]
 b   o Not human-readable.
+
+[Text in pictures on this page, read by OCR]
+Criteria Marks Expected Content
+
+Collaborative Filtering Explanation 4 Definition, working, user/item similarity, example
+
+Cosine Similarity Interpretation 2 Explains high similarity > similar preferences,
+example
+
+Strategy for New Student 4 Content-based, popularity-based, hybrid, onboarding
+
+example
 --- page 6 ---
  Use Case: Intermediate storage for Mapper output, or bulk storage of structured
 data.
@@ -3818,6 +3860,14 @@ servers to balance load.
 o Each cell can store multiple versions of data identified by timestamps.
 [10]
 a   6. Integration with Hadoop Ecosystem
+
+[Text in pictures on this page, read by OCR]
+Criteria Marks Expected Answer
+
+HBase features 6 Column-oriented, scalable, real-time, region splitting, versioning
+Hadoop integration, fault tolerance, schema flexibility
+
+Differences with Bigtable 4 Platform, storage, API, deployment, ecosystem, replication, cost
 --- page 15 ---
 o Works seamlessly with MapReduce, Hive, Pig, Spark, and HDFS for
 analytics.
@@ -3947,7 +3997,7 @@ o User1 & User3 = 0.942
 - Programmes: BTech Computer 7002
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_Computer_7002/Big Data Analytics/ANS_Big Data Analytics(702DB0C029)_2025-2026.docx`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05/12/ 2025
-- Text: docx (1 page)
+- Text: mixed (13 pages), mean OCR confidence 95.5
 
 ````text
 SVKM’S NMIMS
@@ -4869,6 +4919,166 @@ Most similar user to User1: User3
 
 | [5]
 |
+--- page 2 ---
+Marks Distribution (5 Marks)
+
+Criteria Marks Description
+
+Purpose of Combiner 2 Explains that it aggregates Mapper output to reduce
+network traffic.
+
+Performance Optimization 2 Explains reduced shuffle data and faster processing.
+
+Example 1 Illustrates usage, e.g., Word Count example showing
+
+local aggregation.
+--- page 3 ---
+Criteria Marks Description
+
+Introduction / Context 1 Explains purpose of Big Data visualization
+
+Volume & Velocity Issues 1 Discusses performance and real-time data challenges
+Variety & Data Quality (Veracity) 1 Mentions heterogeneous data and accuracy issues
+Complexity & Tool Scalability 1 Discusses multi-dimensionality and tool limitations
+
+Interpretability / Summary 1 Explains importance of clear visuals for insight
+--- page 4 ---
+Criteria Marks Expected Content
+
+Collaborative Filtering Explanation 4 Definition, working, user/item similarity, example
+
+Cosine Similarity Interpretation 2 Explains high similarity > similar preferences,
+example
+
+Strategy for New Student 4 Content-based, popularity-based, hybrid, onboarding
+
+example
+--- page 5 ---
+Criteria Marks Expected Content
+
+Identification of at least 5 formats 2 TXT, Sequence, Avro, Parquet, ORC (additional:
+JSON/XML)
+
+Description & Type of each format 3 Explains row-based, columnar, binary, text, or semi-
+structured
+
+Advantages 2 Lists at least one advantage for each format
+
+Disadvantages 2 Lists at least one limitation for each format
+
+Use Cases / Examples 1 Provides practical scenario for each format
+--- page 6 ---
+Criteria Marks Expected Answer
+
+(a) Country-wise performance visualization 2 Map or bar chart, explains metrics like
+
+engagement/followers
+
+(b) Follower vs engagement relationship 2 Scatter plot, explanation of axes and insights
+(c) Popular content categories 2 Pie chart or bar chart with categories
+(d) Insights for brands 4 Explains targeted marketing, category
+
+alignment, engagement vs reach, growth
+
+potential
+--- page 7 ---
+Criteria Marks Expected Answer
+
+Introduction / Concept of predictive 1 Explains Big Data use for proactive maintenance
+
+maintenance
+
+Manufacturing sector analysis 3 Data sources, analytics techniques, outcomes,
+example
+
+Transportation sector analysis 3 Data sources, analytics techniques, outcomes,
+example
+
+Key differences table 2 Clear comparison of data sources, analytics, and
+outcomes
+
+Conclusion 1 Summarizes insights and sector-specific focus
+--- page 8 ---
+Criteria Marks Expected Answer
+
+Identification of visualization techniques 5 Scatter plots, box plots, heatmaps, time-series,
+network graphs
+
+Explanation of why each technique is 3 Detects anomalies, reduces Big Data complexity,
+
+effective multi-dimensional insights
+
+Use case illustration 2 Practical example showing detection of
+
+outliers/fraud
+--- page 9 ---
+Criteria Marks Expected Answer
+
+Big Data Types 3 Structured, semi-structured, unstructured with
+examples
+Analytics for Personalized Marketing 4 Behavioral analysis, recommendation systems,
+
+segmentation, targeted campaigns
+
+Real-Time Processing Challenges 3 High volume, low latency, integration, data quality,
+infrastructure
+--- page 10 ---
+Criteria
+
+Map Phase explanation
+
+Shuffle & Sort explanation
+
+Reduce Phase explanation
+
+Example of output
+
+Scalability explanation
+
+Marks
+
+Expected Answer
+
+Key-value generation per transaction
+
+Grouping key-value pairs by category
+
+Summing transaction amounts per category
+
+Total sales per category
+
+Parallel processing, data locality, task distribution,
+
+fault tolerance, elastic growth
+
+LL
+--- page 11 ---
+Criteria Marks Expected Answer
+
+Introduction / Context 1 Defines Big Data analytics and relevance to climate change
+
+Applications / Use Cases 5 Climate monitoring, energy optimization, disaster prediction,
+
+sustainable agriculture, emission tracking
+
+Benefits / Effectiveness 3 Policy support, early warning, efficiency, global collaboration
+
+Challenges / Limitations 2 Data integration, real-time processing, quality, infrastructure
+--- page 12 ---
+Criteria Marks Expected Answer
+
+HBase features 6 Column-oriented, scalable, real-time, region splitting, versioning,
+Hadoop integration, fault tolerance, schema flexibility
+
+Differences with Bigtable 4 Platform, storage, API, deployment, ecosystem, replication, cost
+--- page 13 ---
+Criteria Marks
+
+Concept & example 2
+
+Difference from traditional analytics 1
+
+Types of analytics with examples 2
 ````
 
 ## 2025-26 · Final-Exam · Sem 8 · Answer key · paper de7dded02769
@@ -6260,6 +6470,26 @@ BL-1   briefly.
 Draw and explain Hadoop ecosystem [5 Marks]. Brief about all components of
 Ans.   Hadoop ecosystem.[5 Marks]
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Compiled Language Scripting Language SQL like query Language
+
+Lower Level of Abstraction Higher Level of Abstraction Higher Level of Abstraction
+
+‘Civanetteaete ‘Comperatively less lines of
+More lines of Code of Code than MapReduce Code than MapReduce and
+Apache Pig
+
+More Development Development Effort is Development Effort is less
+Effort is involved less Code Efficiency is Code Efficiency is
+relatively less relatively less
+Code Efficiency is high Code Efficiency is Code Efficiency is
+when compared to relatively less relatively less
+
+Pig and Hive 6
+ul
+
+DeZyre
 --- page 3 ---
 b   Design MapReduce to separate even and odd numbers from a list of integers.
 CO-3; SO-2;   The input list is [1, 2, 3, 4, 5, 6, 7, and 8]. Describe each steps and its output of [10]
@@ -6275,6 +6505,33 @@ BL-3
 •   Displaying last 1KB of data
 •   Displaying last 200 bytes of data from text file.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Ct NS
+
+Oozie || CLI/Java/Python |
+Hive Pig (Latin) Mahout
+educe Ss
+Newer MapR: park —
+YARN
+
+Flume Sqoop
+
+Unstructured Data Structured Data
+
+3 ae
+
+Sum of squares of even and odd numbers
+
+(1,2,3,4}
+
+Mit
+
+Sq (1) Sq (2) | | Sq (3) | | Sq (4) MAPPER
+
+{Li bads
+
+(odd, 1 ‘odd. 9)
 --- page 4 ---
 Each HDFS commands carry [2 Marks]
  hadoop fs -mkdir /user/temp/student
@@ -6485,4 +6742,55 @@ Describe cosine similarity measure with appropriate example. Discuss how   [10]
 3;BL-2   cosine similarity measure is used in collaborative filtering.
 Ans.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Negative Skew
+
+Median towards top of data
+|___ | | Median > Mean
+
+Left Skew Upper quartile is smaller than lower quartile
+No Skew Median in the centre of the data
+| /-— Median = Mean
+Symmetric Upper quartile is equal to lower quartile
+Positive Skew
+
+Median towards bottom of data
+| -— | Median < Mean
+
+Right Skew Upper quartile is larger than lower quartile
+
+Suppose that our goal is to calculate the cosine similarity of the two documents
+given below.
+
+- Document 1= 'the best data science course’
+
+- Document 2 = 'data science is popular’
+
+After creating a word table from the documents, the documents can be represented
+by the following vectors:
+
+the best data science course is popular
+DI 1 1 1 1 1 ° °
+D2 °o oO 1 1 ° 1 1
+
+- D1=[1,1,1,1,1,0, 0]
+- D2=[0,0,1,1,0,1,1]
+
+Using these two vectors we can calculate cosine similarity. First, we calculate the dot
+product of the vectors:
+
+D1-D2=1x0+1x04+1x14+1x1+1x0+0x1+0x1=2
+
+Second, we calculate the magnitude of the vectors:
+
+Di] = V2 +242 4241240? +0? = V5
+
+|| D2\| = V0? + 0? + 12 + 12 + 0? +174 12 = V4
+
+Finally, cosine similarity can be calculated by dividing the dot product by the
+magnitude
+D1- D2 2
+
+similarity(D1, D2) = [pip > Viva vin aa = 0.44721
 ````

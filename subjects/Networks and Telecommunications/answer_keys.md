@@ -47,6 +47,16 @@ SO 1;
 BL 2   Definition BSS- 2marks
 Differences – 3marks
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Three main ideas provide much of the motivation for data
+communications and help define the scope
+
+1. The sources of information can be of arbitrary types
+
+2. Transmission uses a physical system
+
+3. Multiple sources of information can share the underlying medium
 --- page 2 ---
 CO 4; D   Define internetworking. Why is heterogeneity a challenge in networking?   [5]
 SO 1;   Defintion – 2 marks
@@ -70,6 +80,42 @@ Diagram – 3 marks
 Each layer description- 5 marks
 Protocols at each layer – 2marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Basic Service Set (BSS) for an AP is defined as set of devices
+that can hear the AP
+
+APs interconnect through wired network
+
+range oj
+interconnect such as a switch ——»(— access we
+
+wireless JT
+
+computer J F point
+J Ay cy
+
+AP AP AP
+
+“ 7 # “5 # “7, #
+
+BSS #1 BSS #2 BSS #3
+
+e Infrastructure mode
+
+— Wireless devices communicate through an access point
+(AP)
+
+— APs connect to each other and (usually) the Internet
+
+— Typical uses: corporate wireless LAN, Internet cafe
+e Ad hoc mode
+
+— Direct communication among wireless devices
+
+— Forwarding possible
+
+— Seldom used
 --- page 3 ---
 Layer 1: Physical
 Protocols in the Physical layer specify details about the underlying transmission
@@ -104,6 +150,19 @@ SO 1;
 BL 2   Classful IP address – 7 marks
 Limitations – 3marks
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Application LAYER 5
+
+Transport LAYER 4
+
+Internet LAYER 3
+
+Network Interface LAYER 2
+
+LAYER 1
+
+Physical
 --- page 4 ---
 The problem with this classful addressing method is that millions of class A addresses are
 wasted, many of the class B addresses are wasted, whereas, number of addresses
@@ -118,6 +177,44 @@ BL 2
 Explanation with characteristics – HTTP –4 marks
 Request types – 4 marks, response – 2 marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Class Leading Network Host No. of Addresses per IP Address Range
+
+Bits ID Bits ID Bits Networks Network
+0.0.0.0 -
+A 0 8 24 27 = 128 224 = 16,777,216
+127.255.255.255
+128.0.0.0-
+B 10 16 16 244 = 16,384 236 = 65,536
+191.255.255.255
+c 110 24 8 ue 28 = 256 192.0.0.0—
+2,097,152 - 223.255.255.255
+. 224.0.0.0 -
+D 1110 _ _ Multicast _
+239.255.255.255
+240.0.0.0 -
+E 1111 — _ Experimental -
+
+255.255.255.255
+
+HyperText Transfer Protocol (HTTP) is the primary transfer
+protocol that a browser uses to interact with a web server
+
+A browser is a client that extracts a server name from a URL
+and contacts the server
+
+Most URLs contain an explicit protocol reference of http:// or
+omit the protocol altogether (HTTP is assumed)
+
+HTTP can be characterized as follows:
+— Uses textual control messages
+
+— Transfers binary data files
+
+— Can download or upload data
+
+— Incorporates caching
 --- page 5 ---
 CO 2; B What is a frame. Explain framing in serial communication and how byte stuffing works.   [10]
 SO 1;
@@ -125,6 +222,42 @@ BL 2   Definition of frame – 2 marks
 Framing in serial communication – 3 marks
 Byte stuffing and its working – 5 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Request Description
+
+Requests a document; server responds by sending status
+
+oer information followed by a copy of the document
+
+Requests status information; server responds by sending
+
+we status information, but does not send a copy of the document
+
+POST Sends data to a server; the server appends the data toa
+specified item (e.g., a message is appended to a list)
+
+PUT Sends data to a server; the server uses the data to completely
+replace the specified item (i.e., overwrites the previous data)
+
+* The first line of a response header contains a status code
+— that tells the browser whether the server handled the request
+
+— Ifthe request was incorrectly formed or the requested item was not
+available, the status code pinpoints the problem
++ For example, a server returns status code 404 if the requested item cannot be found
++ When it honors a request, a server returns status code 200
+
+Status Code Corresponding Status String
+
+200 OK
+400 Bad Request
+| 404 | Not Found |
+* Additional lines of the header give further information, such as
+
+- its length
+— when it was last modified
+- and the content type
 --- page 6 ---
 Framing And Serial Communications Systems
 
@@ -204,6 +337,29 @@ Attenuation
 •signals on wires or optical fibers become weaker over long distances, just as a radio
 signal becomes weaker with distance
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
++ Nyquist's Theorem provides an absolute maximum that cannot be
+achieved in practice
+— areal system is subject to small amounts of electrical noise
+— such noise makes it impossible to achieve the theoretical maximum
+transmission rate
+
+* Claude Shannon extended Nyquist's work to specify the maximum data
+rate that could be achieved over a transmission system that experiences
+
+noise
+— The result, called Shannon's Theorem
+
+C = B log)(1 + S/N)
+where
+
++ Cis the effective limit on the channel capacity in bits per second
+
++ Bis the hardware bandwidth
+
++ S/Nis the signal-to-noise ratio, the ratio of the average signal power divided by
+the average noise power
 --- page 8 ---
 CO 4; B   Explain the process of fragmentation and reassembly with reference to the MTU concept.   [10]
 SO 1;   Why is reassembly done at the destination and not at intermediate routers? Why
@@ -212,6 +368,63 @@ Fragmentation and reassembly – 6 marks
 Reassembly at destination reason – 2 marks
 Fragmenting a fragment – 2marks
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Shannon's Theorem suggests one way to reduce errors:
+
+— increase the signal-to-noise ratio (either by increasing the signal or
+lowering noise if possible)
+
+Mechanisms like shielded wiring can help lower noise
+Physical transmission system is always susceptible to errors
+— it may not be possible to change the signal-to-noise ratio
+Noise/interference cannot be eliminated completely
+
+— But many transmission errors can be detected
+
+— In some cases, errors can be corrected automatically
+
+We will see that error detection adds overhead
+
+Error handling is a tradeoff
+
+— in which a system designer must decide whether a given error is
+likely to occur, and if so, what the consequences will be
+
+MTU, Datagram Size, and Encapsulation
+
+Defn: The maximum transmission unit (MTU) is the maximum amount of data that a
+frame can carry.
+
+Each hardware technology specifies its own MTU.
++ There is no exception to the MTU limit.
++ Adatagram must be smaller or equal to the MTU in order to be transmitted.
+
+Difficulty: In a heterogeneous network, a router can connect networks with different
+MTUs.
+
+Hy R Hz
+
+Oo Net 1 (MTU=1500) a Net 2 (MTU=1000) o
+
+Fragmentation & Reassembly
+
+When a datagram is larger than the MTU of the network over which it must be sent,
+the router divides the datagram into smaller pieces called fragments, and sends each
+fragment independently.
+
++ The fragments have the same format as other datagrams
+
+* The FLAG field contains a bit that means the datagram is a fragment.
+
+* Other fields in the header contain information that allows the fragments to be
+reassembled.
+
+* Each fragment has a copy of the original header with fields modified as necessary.
+
+[P_Headet original datagram data area__|
+
+{iP Hdrt| data1 | [IP Hdr2|   data2 [IP Har 3] data3_ |
 --- page 9 ---
 Q.5
 CO 1; A   Explain the Client-Server model. How is a server identified using IP address and port   [10]
@@ -221,6 +434,57 @@ Client server model- 4 marks
 Server identification – 4 marks
 Diagram – 2 marks
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Reassembly
+The process of creating the original datagram from the fragments is called reassembly.
+
+Note: The final fragment has a special bit set in the header to signal that all fragments
+have arrived successfully.
+
+The Internet Protocol specifies that the u/timate destination host should reassembly
+the fragments.
+
+Two advantages to reassembly at the destination:
++ Reduces the amount of information in each router.
+
++ It allows the routes to change dynamically.
+
+In the figure, H, will perform reassembly. R, will simply forward the fragments.
+
+Te n, T
+
+Net 1 (MTU=1500) ——t}— Net 2 (MTU=1000) ——C}+—_ Net 3 (MTU=1500)
+
+Fragmenting a Fragment
+
+¢ Ifthe MTU ofa subsequent network is smaller than the one that caused
+fragmentation, the fragments must be fragmented further.
+
+¢ The IP fragmentation scheme allows this fragmentation with all fragments still
+being treated in exactly the same way.
+
+Example:
+
+hy . I"
+
+a
+Net 1 (MTU=1500) ——C}+— ~ Net 2 (MTU=1000) ——CH— Net 3 (MTU- 592 _
+
+Server Application Client Application
+
+Starts first Starts second
+Does not need to know which client | Must know which server to
+will contact it contact
+
+Waits passively and arbitrarily long | Initiates a contact whenever
+for contact from a client communication is needed
+
+Communicates with a client by both | Communicates with a server by
+sending and receiving data sending and receiving data
+
+Stays running after servicing one May terminate after interacting
+client, and waits for another with a server
 --- page 10 ---
 CO 2; B Draw and explain the conceptual framework of a data communication system.   [10]
 SO 1;
@@ -231,6 +495,60 @@ Information Sources
 –Important concepts include characteristics of signals, such as amplitude, frequency, and
 phase, and classification as either periodic or aperiodic
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Server Identification and Demultiplexing
+
+How does a client identify a server? The Internet protocols divide identification
+into two pieces:
+
+e An identifier for the computer on which a server runs
+
+e An identifier for a particular service on the computer
+
+Identifying A Computer.
+
+* Each computer in the Internet is assigned a unique 32-bit identifier known as an
+Internet Protocol address (IP address).
+
+* When it contacts a server, a client must specify the server’s IP address. To make
+server identification easy for humans, each computer is also assigned a name, and the
+Domain Name System is used to translate a name into an address. Thus, a user
+specifies a name such as www.cisco.com rather than an integer address.
+
+Identifying A Service.
+
+* Each service available in the Internet is assigned a unique 16-bit identifier known
+as a protocol port number (often abbreviated port number).
+
+* For example, email is assigned port number 25, and the web is assigned port
+number 80.
+
+* When a server begins execution, it registers with its local system by specifying the
+port number for the service it offers. When a client contacts a remote server to
+request service, the request contains a port number.
+
+¢ Thus, when a request arrives at a server, software on the server uses the port
+number in the request to determine which application on the server computer
+should handle the request.
+
+© Start after server is ° Start before any of
+already running the clients
+
+e Obtain server name © Register port N with
+from user the local system
+
+¢ Use DNS to translate
+name to IP address
+
+¢ Wait for contact
+from a client
+
+° Specify that the ¢ Interact with client
+service uses port N until client finishes
+¢ Contact server and © Wait for contact from
+
+interact the next client...
 --- page 11 ---
 –The subtopic focuses on the conversion between analog and digital representations of
 information
@@ -338,6 +656,42 @@ playback will be smooth. There's seldom any point in performing retransmission, 
 packets that arrive significantly late are too late to be included in playback.
 Delayed Playback and Jitter Buffers
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+CSMA/CA
+
+e Alternative to CODMA/CD
+e Used in wireless networks (Wi-Fi)
+¢ Needed because signals have limited distance, 6
+
+e Example: computer | cannot receive transmission when
+computers 2 and 3 communicate
+
+[ ; i ; =)
+aay Ca ame?
+
+computer 1 computer 2 computer 3
+
+e All computers in range of computers 2 and 3 must be
+informed that a transmission will occur
+
+Illustration Of CSMA/CA
+
+1: ready to send (RTS)
+
+2: clear to send (CTS) 2: clear to send (CTS)
+
+3: packet transmission
+
+= =
+
+computer 1 computer 2 computer 3
+
+Communicating pair exchange RTS and CTS before packet
+transmission
+
+Any computer less than 6 away from either computer 2 or 3
+hears at least one of the RTS/CTS messages
 --- page 14 ---
 The receiver of realtime multimedia for playback typically utilizes timestamps of some
 kind to assure the content is played in the correct order.
@@ -357,6 +711,32 @@ SO 1;
 BL 2   Types – 3marks
 Data rates and use cases – 1 mark each
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+packets arrive packets extracted
+in bursts at a uniform rate
+
+jitter buffer
+
+playback displa
+kk d >| process dics
+
+connection
+to Internet
+
+Stream Paradigm Message Paradigm
+
+Connection-oriented Connectionless
+
+1-to-1 communication Many-to-many communication
+
+Sequence of individual bytes | Sequence of individual messages
+
+Arbitrary length transfer Each message limited to 64 Kbytes
+
+Used by most applications Used for multimedia applications
+
+Built on TCP protocol Built on UDP protocol
 --- page 15 ---
 Bluetooth – 3Mbps – Audio straming, file/image transfer
 InfraRed – 4Mbps – Remote control
@@ -444,6 +824,33 @@ Essence – 2 marks
 Digitized information – 3marks
 Essence –
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Early computer network were designed when computers were large and
+very expensive, and the main motivation was resource sharing
+— Networks were devised to connect multiple users
+* each with a screen and keyboard, to a large centralized computer
+— Later networks allowed multiple users to share peripheral devices
+* Early network were designed to permit sharing of expensive, centralized resources
+Department of Defense for Advanced Research Projects Agency
+(DARPA or ARPA) interested in finding ways to share resources (1960s)
+— Researchers needed powerful computers
++ but these computers were very expensive
+* the ARPA budget was insufficient to fund many computers
+
+— ARPA planned to interconnect all computers with a network
+
+* and devise software that would allow a researcher to use whichever computer was
+best suited to perform a given task
+
+ARPA did the following to achieve the visionary work:
+
+— gathered some of the best minds available
+
+— focused them on computer network research
+
+— hired contractors to turn the designs into a working system: ARPANET
+The research turned out to be revolutionary
 --- page 2 ---
 Involves the transmission of information over physical media
 •The subject draws on ideas about electric current, light, and other forms of electromagnetic
@@ -463,6 +870,23 @@ Frequency assignment – 2 marks
 Cell cluster – 2 marks
 Prevention – 1 mark
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Frequency Assignment
+
+e Goal: minimize interference
+
+e Principle
+
+Interference can be minimized if an adjacent pair of cells do not
+use the same frequency.
+
+e Method: devise an assignment of frequencies such that two
+adjacent cells are not assigned the same frequency
+
+e Technique: create a pattern that can be repeated
+
+e Known as a cluster approach
 --- page 3 ---
 CO 4; D What is the goal of internetworking? List the five properties an ideal internet communication   [5]
 SO 1;   system should have.
@@ -502,6 +926,31 @@ MTU – 3 marks
 Fragmentation and reassembly – 5 marks
 Example explanation – 2marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+1: Physical header (possible, but not likely)
+2: Network Interface header
+
+3: Internet header
+
+(_ 4: Transport header
+
+i—_—__—_——————_ message the application sent ————————_
+
+MTU, Datagram Size, and Encapsulation
+
+Defn: The maximum transmission unit (MTU) is the maximum amount of data that a
+frame can carry.
+
+Each hardware technology specifies its own MTU.
+* There is no exception to the MTU limit.
++ A datagram must be smaller or equal to the MTU in order to be transmitted.
+
+Difficulty: In a heterogeneous network, a router can connect networks with different
+MITUs.
+
+Hy R H,
+oO Net 1 (MTU=1500) O- Net 2 (MTU=1000) Oo
 --- page 5 ---
 Fragmentation & Reassembly
 
@@ -572,6 +1021,66 @@ SO 1;
 BL 2   Explanation – 6 marks
 Diagrams – 4 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Standard Purpose
+
+HyperText Markup | Arepresentation standard used to specify the
+Language (HTML) | contents and layout of a web page
+
+Uniform Resource | A representation standard that specifies the
+Locator (URL) format and meaning of web page identifiers
+
+HyperText Transfer | A transfer protocol that specifies how a browser
+Protocol (HTTP) interacts with a web server to transfer data
+
+The Web uses a syntactic form known as a Uniform
+Resource Locator (URL) to specify a web page
+
+The general form of a URL is:
+
+protocol ://computer_name: port/document_name%eparameters
+where
+
+— protocol is the name of the protocol used to access the document
+
+— computer_name is the domain name of the computer on which the
+document resides
+
+— port (optional) port number at which the server is listening
+
+— document_name (optional) name of the document—lf we do not
+enter a name, index.htm! is assumed
+
+— % (optional) parameters for the page—error in text—it should be “?”
+instead of “%”
+
+— Example:
+http://www _netbook.cs.purdue.edu/toc/toc01.htm
+
+In a typical URL, a user can omit many of the parts
+www_netbook.cs purdue. edu
+
+Which omits
+
+— the protocol (http is assumed)
+
+— the port (80 is assumed)
+
+— the document name (index.html is assumed)
+
+— and parameters (none are assumed)
+A URL contains the information a browser needs to retrieve a page
+Browser uses the separator characters
+
+— colon, slash, and percent, to divide the URL into four components:
+
+* aprotocol, a computer name, a document name, and parameters
+
+Browser uses the computer name and protocol port to form a connection
+to the server on which the page resides
+
+Browser uses the document name and parameters to request a page
 --- page 7 ---
 Q.4
 CO 2; A Draw and explain the conceptual framework of a data communication system.   [10]
@@ -592,6 +1101,29 @@ Encryptor and Decryptor
 before transmission and decrypted upon reception
 –Concepts include cryptographic techniques and algorithms
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Name Expansion Description
+
+LAN Local Area Network Least expensive; spans a single
+room or a single building
+
+MAN | Metropolitan Area Network | Medium expense; spans a major
+city or a metroplex
+
+WAN | Wide Area Network Most expensive; spans sites in
+multiple cities
+
+Name Expansion Description
+
+PAN Personal Area Network | Spans the area around an individual
+used for earphones
+
+SAN Storage Area Network Spans the distance between a disk
+farm and processors in a data center
+
+CAN Chip Area Network Spans a single chip and connects
+processor, memories, etc.
 --- page 8 ---
 Channel Encoder and Decoder
 –Channel coding is used to detect and correct transmission errors
@@ -622,6 +1154,22 @@ Encapsulation – 2marks
 Diagram – 2 marks
 UDP frame format
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+e An application using UDP can
+— Send a message to any receiver (universal)
+— Send at any time (asynchronous)
+— Stop sending at any time (unterminated)
+
+e That is, a sender does not
+
+— Inform the network before sending (1.e., does not
+establish a communication channel)
+
+— Inform the other endpoint before sending
+
+— Inform the network or other endpoint that no more
+messages will be sent
 --- page 9 ---
 UDP Encapsulation
 Q.5
@@ -631,6 +1179,45 @@ BL 2
 Explanation – concurrent server – 5marks
 Circular dependencies- 5marks
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+16
+
+31
+
+UDP SOURCE PORT
+
+UDP DESTINATION PORT
+
+UDP MESSAGE LENGTH
+
+UDP CHECKSUM
+
+PAYLOAD (MESSAGE DATA)
+
+UDP Checksum
+
+16-bit 1s-complement checksum
+
+Covers entire UDP packet, including data (recall: IP does
+not checksum the payload)
+
+Is optional: value of zero means sender did not compute a
+checksum
+
+Includes extra pseudo header that contains IP addresses
+
+Example of IPv4 pseudo header:
+
+as
+
+Es
+
+IP SOURCE ADDRESS
+
+IP DESTINATION ADDRESS
+
+ZERO PROTO UDP LENGTH
 --- page 10 ---
 CO 2; B Explain the two strategies for handling channel errors? Define dataword, codeword, and   [10]
 SO 1;   codebook using (n, k) notation with an example.
@@ -638,6 +1225,49 @@ BL 2
 Explanation of strategies- 3 marks each
 Definition with example of codebook – 4 marks
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Concurrent Servers
+
+¢ Although a serial approach works in a few trivial cases, most servers are concurrent.
+That is, a server uses more than one thread of control, to handle multiple clients at the
+same time.
+
+* The details of concurrent execution depend on the operating system.
+
+* Concurrent server code is divided into two pieces, a main program (thread) and <
+handler.
+
+* The main thread merely accepts contact from a client, and creates a thread of
+control for the client. Each thread of control interacts with a single client, and
+runs the handler code.
+
+¢ After handling one client, the thread terminates.
+
+* Meanwhile, the main thread keeps the server alive — after creating a thread to
+handle a request, the main thread waits for another request to arrive.
+
+* iif N clients are simultaneously using a concurrent server, N+1 threads
+will be running: the main thread is waiting for additional requests, and N
+threads are each interacting with a single client.
+
+Circular Dependencies among Servers
+
+* Any program that contacts another is acting as a client, and any program that accepts
+contact from another is acting as a server.
+* In practice, the distinction blurs because a server for one service can act as a client for
+another.
+* For example, before it can fill in a web page, a web server may need to become a
+client of a database. A server may also become the client of a security service
+(e.g., to verify that a client is allowed to access the service).
+* Ofcourse, programmers must be careful to avoid circular dependencies among
+servers.
+
+* For example, consider what can happen if a server for service X1 becomes a client of
+service X2, which becomes a client of service X3, which becomes a client of X1. The
+chain of requests can continue indefinitely until all three servers exhaust resources.
+The potential for circularity is especially high when services are designed
+independently because no single programmer controls all servers
 --- page 11 ---
 Q.6
 CO 2; A Explain the frame format used in ethernet technology. Why ethernet address filtering is   [10]
@@ -648,6 +1278,44 @@ address filtering – 3 marks
 frame demultiplexing – 2 marks
 diagrams – 2marks
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+* The two types of FEC techniques satisfy separate needs:
+
+* Block Error Codes
+— It divides the data to be sent into a set of blocks
+— It attaches extra information known as redundancy to each block
+— The encoding for a given block of bits depends only on the bits
+themselves, not on bits that were sent earlier
+— They are memoryless in the sense that the encoding mechanism
+does not carry state information from one block of data to the next
+
+* Convolutional Error Codes
+
+— It treats data as a series of bits, and computes a code over a
+continuous series
+
+— Thus, the code computed for a set of bits depends on the current
+input and some of the previous bits in the stream
+
+— Convolutional codes are said to be codes with memory
+
+— we define the set of all possible messages to be a set of datawords
+
+— and define the set of all possible encoded versions to be a set of
+codewords
+
+¢ Ifa dataword contains k bits and r additional bits are added
+
+to form a codeword, we say that the result is an
+(n, k) encoding scheme
+
+— where n=k+r
+
+* The key to successful error detection lies in choosing a
+subset of the 2 possible combinations that are valid
+codewords
+— The valid subset is known as a codebook
 --- page 12 ---
 e Invented at Xerox PARC in 1973
 e Standardized by Digital, Intel, and Xerox (DIX) in 1978
@@ -756,6 +1424,37 @@ SO 1;
 BL 2   Explanation – 3 marks
 Diagram – 2 marks
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+* The Internet stream service is connection-oriented, which means the service operates
+analogous to a telephone call: before they can communicate, two applications must
+request that a connection be created.
+
+* Once it has been established, the connection allows the applications to send data in
+either direction.
+
+¢ Finally, when they finish communicating, the applications request that the connection
+be terminated.
+
+Fiber Modems
+
+Communicate over an optical fiber
+Can span long distance
+Provide standard network interface (e.g., Ethernet)
+
+Can be used to extend connection between computer and
+network
+Illustration of an extended network connection
+
+connection
+from computer optical fiber
+Ethernet hub
+
+a, 1
+
+! |
+
+fiber modem fiber modem
 --- page 15 ---
 CO 4; B Define multimedia and explain the best-effort delivery mechanism of the Internet. How RTP is   [10]
 SO 1;   useful in handling the delay.
@@ -774,6 +1473,41 @@ significantly late are too late to be included in playback.
 Real-Time Transport Protocol
 Real-Time Transport Protocol (RTP) is an application layer protocol for transfer of realtime data.
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Repeaters
+
+e Operate at layer 1 (do not understand packets)
+e Repeat and amplify signals
+e Low cost
+
+e Example use: extended infrared sensor on a cable box
+
+connection to
+cable box extended connection
+
+remote
+Cable box Bali
+
+e Disadvantage: amplifies and repeats noise
+
+Bridge
+Originally sold as stand-alone device to extend two LAN
+segments
+Operates at layer 2
+Can connect two or more segments
+
+Listens in promiscuous mode on each segment and sends
+copy of each frame to other segments
+
+Does not copy noise, collisions, or frames that are incorrectly
+formed
+
+Makes connected segments appear to be a single, large LAN
+
+Uses source MAC address in frames to learn computer
+locations automatically, and uses destination MAC address to
+filter frames
 --- page 16 ---
 The RTP header has sequence number, timestamp, and source identifier fields that help
 thereceiver implement the functionality of a jitter buffer.
@@ -782,6 +1516,25 @@ frame,
 multiple senders to a multicast address, and the mixing of multiple streams by intermediate
 systems.
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+ol 3
+
+8 16
+
+31
+
+VER|P)X
+
+cc
+
+M| PAYTYPE SEQUENCE NUMBER
+
+TIMESTAMP
+
+SYNCHRONIZATION SOURCE IDENTIFIER
+
+CONTRIBUTING SOURCE IDENTIFIER
 ````
 
 ## 2024-25 · Final-Exam · Sem 6 · Answer key · paper 7c09c1b6e88a
@@ -791,6 +1544,7 @@ systems.
 - Source: `02_Question_Papers/2024/Sem_06/Final-Exam/BTech_CSE_DS_7011/Networks and Telecommunications/ANS_Networks and Telecommunications(702EX0C023)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2025
 - Text: mixed (16 pages), mean OCR confidence 90.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -818,6 +1572,33 @@ SO- 1;
 BL-1
 Explanation -5M
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Identifying A Computer.
+
+* Each computer in the Internet is assigned a unique 32-bit identifier known as an
+Internet Protocol address (IP address).
+
+* When it contacts a server, a client must specify the server’s IP address. To make
+server identification easy for humans, each computer is also assigned a name, and the
+Domain Name System is used to translate a name into an address. Thus, a user
+specifies a name such as www.cisco.com rather than an integer address.
+
+Identifying A Service.
+
+* Each service available in the Internet is assigned a unique 16-bit identifier known
+as a protocol port number (often abbreviated port number).
+
+¢ For example, email is assigned port number 25, and the web is assigned port
+number 80.
+
+* When a server begins execution, it registers with its local system by specifying the
+port number for the service it offers. When a client contacts a remote server to
+request service, the request contains a port number.
+
+* Thus, when a request arrives at a server, software on the server uses the port
+number in the request to determine which application on the server computer
+should handle the request.
 --- page 2 ---
 CO- 2;   b. What are ways of representing the signals along with the diagram of each.   [5]
 SO-1;
@@ -833,6 +1614,37 @@ Definition -3M
 Advantage and Disadvantage – 2M
 Infrastructure mode:
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+¢ Start after server is ¢ Start before any of
+
+already running the clients
+© Obtain server name ¢ Register port N with
+from user the local system
+
+¢ Use DNS to translate ¢ Wait for contact
+
+name to IP address from a client
+* Specify that the ¢ Interact with client
+service uses port N until client finishes
+* Contact server and ¢ Wait for contact from
+
+interact the next client...
+
+Infrastructure mode
+
+— Wireless devices communicate through an access point
+(AP)
+
+— APs connect to each other and (usually) the Internet
+— Typical uses: corporate wireless LAN, Internet cafe
+Ad hoc mode
+
+— Direct communication among wireless devices
+
+— Forwarding possible
+
+— Seldom used
 --- page 3 ---
 Advantages:
 Centralized control improves security and management.
@@ -865,6 +1677,18 @@ Inter-Domain Routing). CIDR notation (e.g., 192.168.1.0/24) is used instead
 of fixed-class boundaries.
 Q2   a.   Explain the principle of executing the multiple applications at the same time?   [5]
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Class Starting Bits First Octet Range Subnet Mask Usage
+
+A Oxxx 1-126 255.0.0.0 Large Networks
+
+B 10xx 128-191 255.255.0.0 Medium Networks
+c 110x 192 - 223 255.255.255.0 Small Networks
+
+D 1110 224 - 239 N/A Multicasting
+
+E 1111 240-255 N/A Experimental
 --- page 4 ---
 CO-1;   Discuss the importance of Concurrent Servers and explain how they handle multiple   [5]
 SO-1;   client requests simultaneously.
@@ -887,6 +1711,31 @@ Explanation -6M
 Diagram – 2M
 Advantage and disadvantage-2M
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+A client or server consists of an application program, and a computer can run mul-
+tiple applications at the same time. As a consequence, a computer can run:
+
+¢ A single client
+
+¢ A single server
+
+¢ Multiple copies of a client that contact a given server
+¢ Multiple clients that each contact a particular server
+
+¢ Multiple servers, each for a particular service
+
+¢ Allowing a given computer to operate multiple servers is useful because the hardware
+can be shared. In addition, a single computer has lower system administration
+overhead than multiple computer systems.
+
+* A server can remain idle for long periods of time. An idle server does not use the CPU
+while waiting for a request to arrive. Thus, if demand for services is low,
+consolidating servers on a single computer can dramatically reduce cost without
+significantly reducing performance.
+
+* Asingle, powerful computer can offer multiple services at the same time; a separate
+server program is needed for each service.
 --- page 5 ---
 Q3   a.   Demonstrate the conceptual pieces of communication System with neat labelled   [10]
 diagram.
@@ -905,6 +1754,36 @@ BL-2,2
 Explanation – 6M
 Router example with roouting table and forwarding – 4M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Physical Channel
+(noise & interference)
+
+t the t
+
+Demodulator
+
+Demultiplexor
+
+Channel Decoder Channel Decoder
+Source Decoder Source Decoder
+
+1 1
+
+Destination 1 Destination N
+
+e A router has connections to multiple physical networks.
+
+¢ Each IP address contains a prefix that specifies a physical network.
+
+Thus, a single IP address does not suffice for a router because each router connects
+to multiple networks and each network has a unique prefix. The IP scheme can be ex-
+plained by a fundamental principle:
+
+An IP address does not identify a specific computer. Instead, each IP
+address identifies a connection between a computer and a network. A
+computer with multiple network connections (e.g., a router) must be
+assigned one IP address for each connection.
 --- page 7 ---
 Q4   a.   In which way the web protocols standards being used. How well they are effective in   [10]
 services used in the internet.
@@ -915,6 +1794,57 @@ Categories of web protocol -3M
 Explanation of any 2 – 6M
 Effectiveness – 1M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Ethernet 131.108.0.0/16
+
+router 1
+Fh
+
+Ly.
+131.108.99.5 i < 223.240.129.2
+
+Wi-Fi Net
+223.240.129.0/24
+
+223.240.129.17 9
+router 2
+aur 78.0.0.17 —* | _
+The address prefix identifies the network. aa ——— —_
+
+Need one router address per connection. Cc : WAN 78.0.0.0/8
+Ck
+
+Standard Purpose
+
+HyperText Markup A representation standard used to specify the
+Language (HTML) contents and layout of a web page
+
+Uniform Resource A representation standard that specifies the
+Locator (URL) format and meaning of web page identifiers
+
+HyperText Transfer | A transfer protocol that specifies how a browser
+Protocol (HTTP) interacts with a web server to transfer data
+
+* HTML is classified as declarative
+— It allows one to specify what is to be done, not how to do it
+
+* HTML is classified as a markup language
+— It only gives general guidelines for display and does not include
+detailed formatting instructions
+— HTML allows a page to specify the level of importance of a headin
+— HTML does not require the author to specify the exact font, typefad
+point size, or spacing for the heading
+
+* HTML extensions have been created that do allow the specification of an
+exact font, typeface, point size, and formatting.
+
++ A browser chooses all display details
+— The use of a markup language is important
+* because it allows a browser to adapt the page to the underlying display
+hardware
+* a page can be formatted for a high resolution or low resolution display, a
+large screen or a small hand-held device such as an iPhone or PDA
 --- page 8 ---
 Q4   b.   (i) Explain the block codes and the convolution error codes and its utilization.   [5]
 CO-2;
@@ -922,6 +1852,66 @@ SO-2;
 BL-3   Explanation-2M each
 Utilization – 1M
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+* The Web uses a syntactic form known as a Uniform
+Resource Locator (URL) to specify a web page
+
+* The general form of a URL is:
+
+protocol ://computer_name: port/document_name parameters
+* where
+
+— protocol is the name of the protocol used to access the document
+
+— computer_name is the domain name of the computer on which the
+document resides
+
+— port (optional) port number at which the server is listening
+
+— document_name (optional) name of the document—lf we do not
+enter a name, index.html! is assumed
+
+— % (optional) parameters for the page—error in text—it should be “?”
+instead of “%”
+
+— Example:
+http://www_.netbook.cs.purdue.edw/toc/toc0 1 htm
+
+HyperText Transfer Protocol (HTTP) is the primary transfer
+
+protocol that a browser uses to interact with a web server
+
+A browser is a client that extracts a server name from a URL
+and contacts the server
+
+Most URLs contain an explicit protocol reference of http:// or
+omit the protocol altogether (HTTP is assumed)
+
+HTTP can be characterized as follows:
+
+— Uses textual control messages
+
+— Transfers binary data files
+
+— Can download or upload data
+— Incornoratesc cachina
+
+Request Description
+
+GET Requests a document; server responds by sending status
+information followed by a copy of the document
+
+Requests status information; server responds by sending
+
+READ status information, but does not send a copy of the document
+
+POST Sends data to a server; the server appends the data to a
+specified item (e.g., a message is appended to a list)
+
+PUT Sends data to a server; the server uses the data to completely
+
+replace the specified item (i.e., overwrites the previous data)
 --- page 9 ---
 (ii) A sender wants to transmit a 4-bit data 1101 using the CRC generator polynomial
 P(x)=x3+x+1. Find the CRC codeword that will be transmitted.
@@ -938,6 +1928,39 @@ BL-2
 Classification – 3M
 Explanation – 6M, Diagram -1M
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Block Error Codes
+— It divides the data to be sent into a set of blocks
+— It attaches extra information known as redundancy to each block
+
+— The encoding for a given block of bits depends only on the bits
+themselves, not on bits that were sent earlier
+
+— They are memoryless in the sense that the encoding mechanism
+does not carry state information from one block of data to the next
+Convolutional Error Codes
+
+— It treats data as a series of bits, and computes a code over a
+continuous series
+
+— Thus, the code computed for a set of bits depends on the current
+input and some of the previous bits in the stream
+
+— Convolutional codes are said to be codes with memory
+
+Type Description
+
+ALOHA Historic protocol used in an early radio network in
+Hawaii; popular in textbooks and easy to analyze,
+but not used in real networks
+
+CSMA/CD | Carrier Sense Multi-Access with Collision Detection
+The basis for the original Ethernet, and the most widely
+used random access protocol
+
+CSMA/CA Carrier Sense Multi-Access with Collision Avoidance
+The basis for Wi-Fi wireless networks
 --- page 10 ---
 Used in early network in Hawaii (ALOHAnet)
 Two carrier frequencies, inbound and outbound
@@ -1001,6 +2024,27 @@ o Uses:
 ▪ on interface between web server and database
 ▪   load balancers parsing XML
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Illustration Of CSMA/CA
+
+1: ready to send (RTS)
+
+~
+
+2: clear to send (CTS) 2: clear to send (CTS)
+
+3: packet transmission
+
+= =
+
+computer 1 computer 2 computer 3
+
+Communicating pair exchange RTS and CTS before packet
+transmission
+
+Any computer less than 6 away from either computer 2 or 3
+hears at least one of the RTS/CTS messages
 --- page 12 ---
 ▪ XML controlling downloads in mobile devices
 ▪ XML representing specifications used by network management
@@ -1021,6 +2065,21 @@ BL-2
 Explanation of each part -2M
 Diagram – 4M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+1: Physical header (possible, but not likely)
+2: Network Interface header
+
+3: Internet header
+
+aa,
+
+|< message the application sent. ———————>
+
+Figure 1.2 Illustration of how data passes among protocol layers when com-
+puters communicate across a network. Each computer has a set
+
+of layered protocols, and data passes through cach layer.
 --- page 13 ---
 The protocol header plays a vital role in network interoperability by ensuring
 that devices from different vendors and networks can communicate effectively.
@@ -1121,6 +2180,31 @@ SO-1;
 video (real time data)?
 BL-2
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+* Network Applications And Network Programming
+
++ A programmer who understands the underlying network mechanisms and technologies can
+write network applications that are more reliable, correct, and efficient.
+
+* Data Communications
++ Data communications provides a foundation of concepts on which the rest of networking
+is built.
+¢ Packet Switching And Networking Technologies
+
+* Each network technology is created to meet various requirements for speed, distance, and
+economic cost, many packet switching technologies exist. Technologies differ in details
+such as the size of packets and the method used to identify a recipient.
+
+* internetworking With LUP/Ir
+
+* The Internet is formed by interconnecting multiple packet switching
+networks. Internetworking is substantially more powerful than a sin- gle
+networking technology because the approach permits new technologies to
+be incorporated at any time without requiring the replacement of old
+technologies.
+
+¢ Additional Networking Concepts And Technologies
 --- page 16 ---
 Explanation each part -3M
 Diagram-1M
@@ -1182,6 +2266,34 @@ CO- 1;   a. What is the purpose of caching in browser? How effectively it is use
 SO- 1;
 BL-1   Explanation – 5 M
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Caching provides an important optimization for web access
+— because users tend to visit the same web sites repeatedly
+
+Much of the content at a given site consists of large images
+— Graphics Image Format (GIF)
+
+— Joint Picture Encoding Group (JPEG)
+
+Such images often contain backgrounds or banners
+
+— they do not change frequently
+A browser can reduce download times significantly
+
+— by saving a copy of each image in a cache on the user's disk and
+using the cached copy
+
+Whenever a browser obtains a document from a web server, the header
+specifies the last time the document was changed
+
+A browser saves the Last-Modified date information along with the
+cached copy
+
+— Abrowser makes a HEAD request to the server and compares the Last-
+Modified date of the server's copy to the Last-Modified date in the cached
+
+— Ifthe cached version is stale, the browser downloads the new version
 --- page 2 ---
 CO- 2;   b. What is the motivation of data communications, how it can be done?   [5]
 SO-1;
@@ -1215,6 +2327,28 @@ depends on the first server.
 Example: A web server requests data from a database server, which then requests
 authentication from another server, which again requests data from the web server.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Name | Expansion Description
+
+Direct Similar to CDMA where a sender multiplies
+DSSS | Sequence the outgoing data by a sequence to form
+
+Spread multiple frequencies and the receiver
+
+Spectrum multiplies by the same sequence to decode
+
+Frequency A sender uses a sequence of frequencies
+
+FHSS | Hopping to transmit data, and a receiver uses the
+Spread same sequence of frequencies to extract
+Spectrum data
+
+Orthogonal A frequency division multiplexing scheme
+
+OFDM | Frequency where the transmission band is divided
+Division into many carriers in such a way that
+Multiplexing | the carriers do not interfere
 --- page 3 ---
 Such dependencies can lead to infinite loops, deadlocks, and resource exhaustion.
 Proper system design and dependency management help prevent circular dependencies.
@@ -1225,6 +2359,36 @@ SO-1;   networks.
 BL-2   Comparison – 8 M
 Examples – 2M
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+* Any program that contacts another is acting as a client, and any program that accepts
+contact from another is acting as a server.
+* In practice, the distinction blurs because a server for one service can act as a client for
+another.
+* For example, before it can fill in a web page, a web server may need to become a
+client of a database. A server may also become the client of a security service
+(e.g., to verify that a client is allowed to access the service).
+* Ofcourse, programmers must be careful to avoid circular dependencies among
+servers.
+
+* For example, consider what can happen if a server for service X1 becomes a client of
+service X2, which becomes a client of service X3, which becomes a client of X1. The
+chain of requests can continue indefinitely until all three servers exhaust resources.
+The potential for circularity is especially high when services are designed
+independently because no single programmer controls all servers.
+
+The question arises, “can Internet services be provided without creating a central
+bottleneck?”
+
+* One way to avoid a bottleneck forms the basis of file-sharing applications known
+as a peer-to-peer (p2p) architecture, the scheme avoids placing data on a central
+server. Conceptually, data is distributed equally among a set of N servers, and
+each client request is sent to the appropriate server.
+
+¢ Because a given server only provides 1/N of the data, the amount of traffic
+between a server and the Internet is 1/N as much as in the single-server
+architecture. Thus, the server software can run on the same computers as the
+clients.
 --- page 4 ---
 Q3   a. Explain the types of guided and unguided transmission media in detail along with the   [10]
 CO- 2;   diagram of each.
@@ -1233,6 +2397,35 @@ BL-2   Explanation of guided transmission– 6 M
 Explanation of unguided transmission– 2 M
 Diagrams if any – 2M
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Circuit switching provides 1-to-1 dedicated connections
+
+—_— network
+- a ~" > —_. -
+XS F
+
+Packet switching provides statistical TDM sharing
+
+packet-switched network
+
+>
+“mmo oo =
+< ON AL >»
+
+=
+
+Scenario Circuit-Switched Example Packet-Switched Example
+
+Phone Call Traditional landline call using PSTN VoIP call over Skype or WhatsApp
+
+Internet N/A (Web traffic cannot use circuit Data packets sent over the Internet (TCP/IP)
+Browsing switching)
+
+TV Broadcasting Dedicated satellite TV transmission Streaming services like Netflix, YouTube
+Office Network Private leased lines for voice calls Ethernet or Wi-Fi network for data
+
+transmission
 --- page 5 ---
 Q3   b.   a) For the given IP address 172.16.50.0/20, Determine the first and last address of the   [5]
 CO-4;   network.
@@ -1248,6 +2441,35 @@ Last Usable IP: Broadcast Address - 1
 b) Explain all the special IP addresses and its importance.   [5]
 List and explanation – 5M
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Ba Guided/ Bounded Media UnGuided/ UnBounded Media
+Transmission Guided is wired transmission, in | Unguided/ Unbounded
+which data signals are guided communication is wireless
+along a physical path i.e. within | transmission. To exchange bits
+awire of data for laptop, notebook,
+
+smart watch, without wires,
+you need wireless
+communication.
+
+Also, called? Guided transmission is also UnGuided transmission is also
+known as Bounded known as UnBounded
+Transmission Media. Transmission Media.
+
+Media Types Some well-known Guided UnGuided Transmission media
+Transmission media includes includes Microwave
+Twisted Pair Cable, Coaxial Transmission, Satellite
+cable, fiber optic cable, etc. Communication, etc.
+
+Media The media can be seen and The media is wireless and
+touched i.e. tangible. cannot be seen and touched i.e.
+
+intangible.
+Distance Used for shorter distance. Used for larger distance.
+Penetration Guided Media cannot UnGuided Media can penetrate
+
+penetrate through the buildings | through the buildings.
 --- page 6 ---
 Q4   a.   Illustrate the Client-Server Model of Interaction and explain how it ensures proper   [10]
 CO-1;   communication between applications on different computers.
@@ -1263,6 +2485,35 @@ queries (SQL servers).
 Ensures efficient communication by structuring interactions in a way that prevents
 connection conflicts.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Prefix Suffix | Type Of Address Purpose
+
+all-Os all-Os | this computer used during bootstrap
+
+network | all-Os | network identifies a network
+
+network | all-1s | directed broadcast | broadcast on specified net
+
+all-1s all-is | limited broadcast broadcast on local net
+
+127/8 any loopback testing
+
+Server Application Client Application
+
+Starts first Starts second
+
+Does not need to know which client | Must know which server to
+will contact it contact
+
+Waits passively and arbitrarily long | Initiates a contact whenever
+for contact from a client communication is needed
+
+Communicates with a client by both | Communicates with a server by
+sending and receiving data sending and receiving data
+
+Stays running after servicing one May terminate after interacting
+client, and waits for another with a server
 --- page 7 ---
 Q4   b.   a) A communication channel has a bandwidth of 5 kHz. What is the maximum data rate that   [5]
 CO-2;   can be transmitted through this channel if it is a noise-free channel using binary signaling?
@@ -1271,12 +2522,67 @@ BL-3   Step marking – 5M each
 b) A channel has a bandwidth of 3 kHz and a signal-to-noise ratio (SNR) of 30 dB. Calculate   [5]
 the maximum data rate that can be achieved using Shannon’s Capacity formula.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+The term refers to a program that waits passively for communication, and not to the
+computer on which it executes. However, when a computer is dedicated to running
+one or more server programs, the computer itself is sometimes called a server.
+Hardware vendors contribute to the confusion because they classify computers that
+have fast CPUs, large memories, and powerful operating systems as server machines.
+
+client runs Server runs in
+in a standard a server-class
+computer computer
+
+| connection Internet
+— | _£ < > >
+9 ——————— > :
+
+€ nN 2 )
+
+Nyquist theorem states that the maximum data rate for a noiseless channel is:
+C=2-x Bx log,(M)
+
+For binary signaling (IM = 2):
+C = 2 x 5000 x logs(2)
+
+Since log, (2) = 1:
+
+C =2 x 5000 x 1= 10,000 bps (or 10 kbps)
 --- page 8 ---
 Q5   a. Classify Addressing in Local Area Networks (LAN). Explain MAC addressing, its   [10]
 CO-2;   components, and differentiate between unicast, multicast, and broadcast addressing.
 SO-1;
 BL-2   Explanation of each sub parts – 5M
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Shannon's theorem states:
+C = Blog»(1+ SNR)
+Given:
+¢ B= 3000 Hz
+e¢ SNR in dB = 30 dB
+First, convert SNR from dB to a linear scale:
+SN Riimear = 10(SNRan/10) _ 19 (30/10) _ 493 — 1999
+Now, apply the formula:
+C = 3000 log,(1 + 1000)
+C = 3000 log,(1001)
+Approximating logs(1001) ~ 9.97:
+
+C = 3000 x 9.97 = 29,910 bps (or 29.91 kbps)
+
+Formal name: JEEE Media Access Control address (MAC
+address)
+
+Informally called an Ethernet address
+Each address is 48 bits long
+
+Assigned to Network Interface Card (NIC) when device
+manufactured
+
+Divided into subfields
+— 3-byte Organizationally Unique ID (OUI)
+— 3-byte Network Interface Controller (NIC)
 --- page 9 ---
 Q5   b. Explain the concept of the following:   [10]
 CO-4;   (i) Content caching
@@ -1306,6 +2612,35 @@ same source to the same server.
 o Some systems support process migration - the capability of an executing
 program to move to another computer.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Illustration Of Fields In An IEEE 48-Bit Address
+
+3 bytes 3 bytes
+T T T T
+Organizationally Unique Network Interface Controller
+Identifier (OUI) (NIC) specific
+
+4 1 i 4
+
+/ bits of most significant byte
+L1l2[s[4[sje]7][e}
+
+0 — unicast, 1—> multicast
+0 — global, 1 local
+
+e Address types
+
+Address Type Meaning And Packet Delivery
+
+unicast Destination is a single computer; only that computer
+should receive a copy of the packet
+
+broadcast Destination is all computers on a network; they
+should each receive a copy of the packet
+
+multicast A subset of the computers on a network should
+receive a copy of the packet
 --- page 10 ---
 o Given infrastructure for process migration, it is possible for a server on an
 overloaded machine to move to another machine where resources like CPU
@@ -1347,6 +2682,20 @@ CO-4;   Answer the following question with proper reasoning.
 SO-1;
 BL-3
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+LAYER 5
+
+Application
+Transport LAYER 4
+Internet LAYER 3
+LAYER 2
+
+Network Interface
+
+LAYER |
+
+Physical
 --- page 11 ---
 (i) Explain how the routing decisions are made when a packet with the destination IP
 address 192.4.10.5 arrives at router R2.
@@ -1391,6 +2740,15 @@ any destination in 30.x.x.x or 40.x.x.x will be routed as a single entity.
 •   255.255.255.0 (/24) → Ensures that individual small subnets, like 192.4.10.0/24, are
 recognized and handled precisely.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+router R, router R, router R,
+
+ers WA “one / a as/
+
+{30.0.0.0/8 GSD | GD" Ge 1.0. a 9 a 2.4.10,0/2
+
+40.0.0.7 128.1.0.8 192.4.10.9
 --- page 12 ---
 Q7   a. How to define the growth of computer networks and complexity arises in setting up the   [5]
 CO-1;   networking.
@@ -1402,6 +2760,44 @@ SO-1;
 BL-1   Explanation of frame structure with MAC address– 3M
 Difference- 2M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+The growth in NW has an economic impact:
+
+— Data NW have made telecommuting available to
+individuals and have changed business communication
+
+— In addition, an entire industry has emerged that develops
+NW technologies, products, and services
+
+— The popularity and importance of computer NW has
+produced a demand in all industries for people with more
+NW expertise
+
+— Companies need workers to plan, acquire, install, operate,
+and manage the hardware (HW) and software (SW)
+systems that comprise computer NW and internets
+
+NW can be especially confusing to a beginner
+— because there is no single underlying theory that explains the
+relationship among all parts.
+In fact, various organizations and research groups have
+attempted to define conceptual models that can be used
+— to explain the differences and similarities among NW HW and
+SW systems
+Unfortunately, the set of technologies is diverse and
+changing rapidly
+— models are either so simplistic that they do not distinguish
+among details
+— or so complex that they do not help simplify the subject
+
+Address 1 Address 2 Address 3 Payload
+CTL|DUR! (destination) | (source) (dest.2) |SEQ) Address 4 (oto 2412 bytes) [CRC
+
+| |
+
+AP or wireless sender's router's used in
+computer's MAC MAC address MAC address ad hoc mode
 --- page 13 ---
 Q7   c. Explain the key components and working principles of Voice over Internet Protocol (VoIP).   [10]
 CO-4;   Analyze its advantages and challenges in modern communication systems.
@@ -1438,6 +2834,33 @@ Challenges of VoIP
 • Power Dependency – Unlike traditional phones, VoIP requires electricity to
 function.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Feature 802.11 (Wi-Fi) Frame Ethernet Frame
+
+Number of MAC Addresses 4 (to handle wireless forwarding) 2 (source and destination only)
+Medium Wireless (Wi-Fi) Wired (Ethernet cable)
+Frame Transmission Uses Access Points (APs) and routers Directly between devices via a switch
+
+Mobility Support Supports roaming between APs Typically used in fixed networks
+
+Component Description
+
+Operates like a conventional telephone, but
+
+IP telephone uses IP to send digitized voice
+
+Provides control and coordination between
+Media Gateway Controller | IP telephones for services such as call setup,
+call termination, and call forwarding
+
+Provides a connection between two networks
+Media Gateway that use different encodings, and translates
+as a call passes between them
+
+Connects to two networks that use different
+Signaling Gateway signaling mechanisms, and translates call
+management requests and responses
 --- page 14 ---
 FRR IC 7 I OH
 ````

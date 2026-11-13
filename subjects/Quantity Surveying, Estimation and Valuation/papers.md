@@ -125,6 +125,44 @@ CO-2, D   Necessity of specifications in controlling quality of work.   5
 BL-2
 Figure 1 for Q 1
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Ww Ww
+li a (|
+{|
+| 7) KITCHEN BED
+
+HI
+| 3000x3500 | |3%00x 3500
+\}| Vv nH Vv
+
+——_
+
+| HALL
+w || 6800 x 4000
+W Vv
+as S| 2 J
+a
+PLAN D
+
+All dimensions are in mm.
+
+Parapet wall
+(160 mm thick
+
+300 mm thick gomm
+brick masonry —.2100
+in C.M. 1:6 M4, F
+
+RCC 1:2:4 ———"77 FE
+Lintel 100 mm thick 3000 mm ]
+
+SECTION
+
+D-DOOR: 1000x2000
+W- WINDOW: 1000 x 1500 |
+
+=
 --- page 4 ---
 a
 
@@ -400,8 +438,9 @@ BL-4
 - Programmes: B TECH / CIVIL, B.TECH INTEGRATED / CIVIL
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/QUANTITY SURVEYING ESTIMATION & VALUATION/Quantity Surveying ,Estimation and Valuation Batch 2022-23 Re Exam.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26/06/2024
-- Text: ocr (4 pages), mean OCR confidence 72.8
-- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: ocr (4 pages), mean OCR confidence 84.2
+- 1 page scanned sideways or upside down, turned upright before OCR
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -616,72 +655,41 @@ Figure — 1
 
 Page - 3 of 4
 --- page 4 ---
-9g glo glo
-Foie gig » [8/6 g [OS
-a}ayolN oO > 1/8 5 lelg
-tts z ~
-gl 5 3 els! & |s/s 5 lglg
-als|2 318 -
-ele am 2)
-al8|8 Siai8)8 =)/2 alsls Z alsls
-fh a SleSis) | Fs alsis Salis
-als 3} 1S} u/8/5 x w
-3/82) |allsiais) je ra}
-g]S Ole 8 Felals Fes
-EyShe rs Nl iis Dina
-alg] Ullreiclel |S 3
-owl H|a S g Ww Ww
-BIS z}/o/7/Z31g oll NS [xix all N [x|x
-=} SIS all? yeig} |S]? Isle
-z O\lz = =
-SE lel SE lnly Biss 9
-as|°® ase) | ze lslal | ee leis
-°° Oo us nS
-G3 lla Bg )|a BQ\-|~ GQ|-|a
-Be
-gi] gs
-So
-| 8
-i pee
-[e) Soe
-al| -=228
-=| asda
-5 3d
-erFre?
-3) 85388
-taaad
-a
-==
-ew Fa
-q 82
-s :
-ge ES
-G24
-=o a2
-222 .3a
-ere!
-2230 eR
-a2p792Z.
-Z2uSEOs2
-ZzDes054
-2625205
-ee, OwoR
-ts ess
-geerese
-6229780
-gy we
-Q
-Boslog2
-I |SESSe
-laa B8SHss
-Oo oatkoto
-Zl fe cics ic
+3230 3230 3230 -| 3230 SCHEDULE OF FOOTINGS
+02 c
 
-Figure - 2
+C1 02 02 8. | COLUMN] PCC | FOOTING [DEPTH] STEEL
+= = = = a = = a = = = = NO.| MARK SIZE SIZE D1 | D2 | SHORT] LONG
+1 [ct [1500 x 1800/1200 x 1500 | 180 | 450]12 - 120[ 10 - 120
+2[ ¢2_ [1800x2400] 1800x2100 | 150 | 600 | 18 - 1a0|12- 120
+st s1 s1 81
 
-Page - 4 of 4
+(3000 X 5000) j!} (3000 x 5000) (3000 X 5000) (3000 X 5000)
 
-Fat.
+XN SCHEDULE OF COLUMNS
+B: B2 B2 B2
+| NI x I
+
+S. | COLUMN | BELOW PLINTH [GROUND FLOORT 5 :
+NO| MARK [swe [STEEL] SZeE [STEEL ‘Zz ~
+1 C1__|280X 350] 8 - 208230 X 300] 8 - 200/82 @ 230 Cic
+
+2 C2 [280 X 425/10 - 200]230 X 375/10 - 20018 @ 230 CIC
+
+Bt B: B41 B41
+a ———SSSSS—SSSSE SS ‘7 —s SCHEDULE OF PLINTH BEAMS
+G2 2
+BEAM SLAB LAYOUT AT FIRST FLOOR Noware| 822 | ste. | “Sree | sTRrure
+1 Bi 230 X 600 2-160 3-163 88 @ 250 C/C
+2 1:74 230 X 600 3-160 5-160 80 @ 200 C/C
+NOTES DETAILS OF SLABS
+1. ALL DIMENSIONS ARE IN MILLIMETERS
+2. DEPTH OF FOUNDATION = 1.5 M, PLINTH LEVEL = 0.6 M FLOOR SLAB S1 SCHEDULE OF FLOOR BEAMS
+3. PCC GRADE - M15, STRUCTURAL CONCRETE GRADE - M25] |DEPTH- 150 MM 3. BEAM TOP BOTTOM
+5. FLOOR TO FLOOR HEIGHT - 3.5M SLAB TYPE - One Way NO. MARK SIZE STEEL STEEL STIRRUPS
+6. CLEAR COVER TO REINFORCEMENT- SHORT STEEL 108 @ 200 C/C (ABU)|
+FOOTINGS - 65 MM, COLUMNS BELOW PLINTH - 65 MM LONG STEEL 8@ @ 230 C/C (ABU) 1 B1 230 X 600 2-168 3-208 8S @ 200 CIC
+COLUMNS - 40 MM, BEAMS - 25 MM, SLAB - 20 MM 2 B2 230 X 750 3-168 §- 208 88 @ 150 C/C
 ````
 
 ## 2022-23 · Exam not stated · Sem 7 · paper 023d1b6e7af7

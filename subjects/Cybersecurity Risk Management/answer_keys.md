@@ -9,7 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_CyberSecurity_7010/Cybersecurity Risk Management/ANS_Cybersecurity Risk Management(702IT0C028)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 27 Nov 2025
 - Text: mixed (6 pages), mean OCR confidence 70.4
-- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -37,6 +37,27 @@ BL-1
 CO3; SO-.   b.   [5]
 BL-1
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Objective related to Risk Assessment include (but Not limited to)
+
+Identifying potential risks that the organization may face in its internal and external environments.
+» These risks can be related to various aspects, such as operational, financial, compliance, reputational, technological, or strategic.
+
+> Analyzing the identified risks to understand their potential impact on the organization.
+
+Assoonnent » The risk assessment process involves evaluating the likelihood of occurrence and the potential severity of consequences.
+
+Risk Mitigatio + Develop strategies and action plans to minimize the likelihood and impact of identified risks.
+and Control > This may involve implementing control measures, process improvements, or risk transfer mechanisms (e.g., insurance).
+
+Risk » Ensuring effective communication of risk-related information to stakeholders at all levels within the organization.
+Communi > This facilitates informed decision-making and promotes a risk-aware culture.
+
+Monitoring
+
+> Regularly monitoring the effectiveness of risk management strategies and reassessing risks as the business environment changes.
+> The continuous review ensures the plan remains relevant and responsive to emerging risks.
 --- page 2 ---
 CO2; SO-.   c.   [5]
 BL-2
@@ -53,6 +74,43 @@ Q2   a.   [5]
 CO-; SO-;
 BL-
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+7 Risk Management Lifecycle
+
+Risk management is the practice of identifying, assessing, controlling, and mitigating risks. Threats and
+Risk vulnerabilities are key drivers of risk. Identifying the threats and vulnerabilities that are relevant to the
+IELEeR Cal organization is an important step. Organisations can then take action to reduce potential losses from these
+
+risks.
+
+cr Risk Analysis
+Risk Criteria dentition Risk Analysis
+
+Risk
+Evaluation
+
+Risk
+‘Treatment
+
+: 235 risks by evaluating thet : Develop and implement risk
+Define clea risk tolerance ‘Conduct workshops and ‘iehhod of dccuronce nd Compare assessed risks response plans talored to
+Interviews with stakeholders Heetnoos of occurrence and against predefined risk Sites dented rats
+
+levels to guide decsion- potential impact on
+
+| ene tobramstorm and document Bptenia crea to dtermine ter eres We
+t sue otential risks. significance.
+
+. “exposure. i Use qualitative and ‘e ‘Monitor risk treatment ,
+
+1 stolshthreshotistornsk —* Ul stra data, Sokmaces scent + Consider adtonlatrs esecuton and efectvenesin
+| ‘severity and impact to checklists, and expert analysis to prioritize risks. like risk interdependencies reducing risk exposure,
+
+
+Ee Comprehensive nik coverage hate.
+
+Page Contisentat
 --- page 3 ---
 CO1; SO-.   b.   [5]
 BL-2
@@ -75,6 +133,39 @@ Access Management / Deployment / Encryption / Data Retention
 / Data Quality / Data Privacy
 How would you suggest mitigating the above-mentioned risks?
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+NIST SP 800-53 — Security & Privacy Controls for Information Systems
+
+NIST SP 800-53 Control Families
+
+[ The purpose of the NIST SP 800-53 publication is to: ] [
+7 ; ; = Physical and Environment
+> Provide guidelines for selecting and specifying security and © Access Control ] (0) pect
+
+privacy controls for organizations and information systems
+supporting the executive agencies of the federal government to © ‘Awareness and Training. ] ® Planning
+meet the requirements of FIPS Publication 200, Minimum
+
+Security Requirements for Federal Information and Information © Audit and Accountability | 0) rogram Manogement
+Systems.
+> There are 20 Control Families which further constitutes of 276 ‘Assessment, Authorization, a
+controls and 636 control enhancements.
+[ Key of NIST SP 800-53 ] © i | © Pi Processing and
+Risk Assessment
+
+© and | © ‘System and
+oe NIST SP 800-53 defines a catalogue of security controls that Sere Services Acquisition
+Controls
+
+‘organizations can select and implement to protect their - SS =
+information systems Incident Response ae
+© Ca | © System And tnformation
+Privacy In addition to security controls. NIST SP 800-53 also includes a mety)
+
+REE <ct of privacy controls to address privacy related considerations (Oe Media Protection Supply Chain
+
+s isk Management Frameworks contientit
 --- page 4 ---
 CO1; SO-.   b.   [5]
 BL-2
@@ -106,6 +197,40 @@ Monitoring Tool / SIEM Solutions
 d. Importance of Data Security and privacy in this Case Study –
 Difference between Privacy and Security
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Types of Risk Assessments
+
+Definition of Quantitative and Qualitative
+
+* A quantitative risk assessment uses numbers such as dollar values. You *+ A qualitative risk assessment doesn’t assign dollar values. Instead, it
+gather data and then enter it into standard formulas. determines the level of risk based on the probability and impact of a
+risk,
+
+*+ The results can help you identify the priority of risks. You can also use the
+results to determine the effectiveness of controls. + These values are determined by gathering the opinions of experts.
+
+Difference in Quantitative and Qualitative
+
+>
+
+Data can be measured using quantities or metrics and is numerical in Data used in qualitative analysis is typically non-numerical and presented
+quantitative analysis. as text, pictures, videos, or narratives.
++ Itaims to measure and quantify phenomena. * Gaining understanding and recording the intricacies of human behaviour
+
+and experiences are its main goals.
+*+ Structured procedures, such as surveys with closed-ended questions, are
+Used to gather quantitative data. * Qualitative data is gathered through techniques including focus groups,
+interviews, and observations.
+
+*+ Larger sample numbers are often needed for quantitative analysts to reach
+statistical significance. *+ Smaller sample sizes can be used for qualitative analysis, which
+concentrates on in-depth investigation.
++ The data are analysed and conclusions are drawn using mathematical
+‘models and statistical methods in quantitative analysis. * Tofind themes, patterns, and insights, qualitative analysis entails
+evaluating textual, visual, or narrative data.
+
+ek Asszoment
 --- page 5 ---
 e. Benefits you would pitch to the organization. – Implement
 controls around security to protect the data. Logging and
@@ -118,6 +243,82 @@ CO3-;
 SO-.
 BL-2
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+a Risk Management Lifecycle
+
+Risk management is the practice of identifying, assessing, controlling, and mitigating risks. Threats and
+Risk vulnerabilities are key drivers of risk. Identifying the threats and vulnerabilities that are relevant to the
+NEeESay organization is an important step. Organisations can then take action to reduce potential losses from these
+
+risks.
+
+Risk
+Risk Criteria ldemttetion Risk Analysis
+
+Risk
+Evaluation
+
+Risk
+Treatment
+
+Conduct workshops and + Assess sk by evaluating their + Compare assessed isis Develop and implement risk
+likelihood of occurrence and response plans tallored to
+
+levels to guide decison- interviews with stakeholders potential impact on against predefined risk ‘address identified risks
+
+making on acceptable isk to brainstorm and document eects cites to determin the ettecvaly
+
+exposure Potential risks Use qualitative and Stenficance Monitor risk treatment
+
+‘quantitative techniques such ‘actnities to ensure timely
+
+{5 tisk matrices or scenario ‘execution and effectiveness in
+
++ Define clear rik tolerance
+
++ Establish thresholds for risk + Uulize historical data, + Consider additonal factors
+
+severity and impact to checkists, and expert analysis to prone risk. lke risk interdependencies reducing risk exposure
+trigger appropriate judgment to ensure and cumulative effects
+responses. comprehensive risk coverage. during evaluation
+
+Page 9 ‘contidential
+
+Overview of ISO 22301
+
+fay What is ISO 22301? nor
+
+|» 480 22301 is an internationally recognized standard published by the H |
+| Organization for Standardization (ISO). H + '
+|» te provides a for H '
+H 1, reviewing, maintaining, and improving a Business Continuity || H
+
+| Management System (BCMS).
+
+of adopting ISO 22301 standard
+
+Improved business performance Abetter understanding of critical |
+
+|» This internationally recognized standard enhances risk management, } ae ee
+| resilience, and competitiveness tot i an
+| eyelements of 5022301 i =
+| Key elements are: ot fa H
+|» Understanding internal and external factors affecting continuity. it H
+| oo tame eceeion {Companies with mul Reduced costs and less impact on |
+|» Sdentifying and mitigating risks. 1 Sprosch a eee i
+|» Attocating necessary resources f
+|» Identifying critical processes and dependencies. i
+|e Garters Gactyemntnse eae ' H
+| * Designing and implementing the BCMS. {| Provides ability to reassure client, Help organizations respond to, |
+|» Monitoring and measuring GOMS effectiveness. | {suppliers regulators and other andrecoverfrom disruptions}
+' 1 | stakeholders effectively H
+
+|» Continuously enhan:
+
+1g the BCMS based on performance data. tot H
+
+Page 20 Business impact Analysis (BIA), Business Continuity Plan (BCP) & Disaster Recovery Plan (DRP) Ccontidentit
 --- page 6 ---
 b. [10]
 

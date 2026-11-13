@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_DS_7009/Information Security and Privacy/ANS_Information Security and Privacy(702DB0C037)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Dec 2025
 - Text: text (8 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -47,6 +48,19 @@ Encryption is the method by which information is converted into secret code that
 meaning. The science of encrypting and decrypting information is called cryptography.
 In computing, unencrypted data is also known as plaintext, and encrypted data is called ciphertext.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+IPv6
+
+Deployed 1998
+
+128-bit IP address
+
+Alphanumeric hexadecimal notation
+
+50b2:6400::6c3a:b17d:0:10a9
+
+Supports auto configuration
 --- page 3 ---
 ● Cipher : The formulas used to encode and decode messages are called encryption algorithms
 ● Key : The variable, which is called a key, is what makes a cipher's output unique
@@ -158,6 +172,28 @@ The 5 Essential Ingredients
 cipher. For example, if you wanted to securely send the message "MEET ME AT DAWN," this would be
 your plaintext.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+A B c
+
+Feature IPv4 IPv6
+Address Length 32-bit address 128-bit address
+Address Format Decimal format (e.g., 192.168.0.1) Hexadecimal format (e.g., 2001:0db8::1)
+Configuration Manual and DHCP configuration Auto-configuration and renumbering supported
+Connection Integrity End-to-end integrity is unachievable End-to-end integrity is achievable
+Security No builtin sea. extemal tools like IPSec is built-in for encryption and authentication
+Fragmentation Performed by sender and routers Performed only by the sender
+Flow Identification Not available Uses Flow Label field in header for packet flow
+identification
+Checksum Field Present Not present
+Transmission Scheme Supports broadcast Uses multicast and anycast; no broadcast
+Header Size Variable: 20-60 bytes Fixed: 40 bytes
+Conversion Can be converted to IPv6 Not all IPV6 addresses can be converted to IPv4
+Field Structure 4 fields separated by dots (.) 8 fields separated by colons (:)
+Address Classes Has address classes (A, B, C, D, E) No concept of address classes
+VLSM Support Supports vocewtst Subnet Does not support VLSM
+
+Example 66.94.2913 2001:0000: 3238:DFE1 0063:0000:0000:FEFB
 --- page 6 ---
 2. Encryption Algorithm: This is the mathematical function or set of rules that transforms the plaintext
 into ciphertext. It dictates exactly how the substitution and permutation of the data will occur.
@@ -228,6 +264,30 @@ Data Link Layer: Packets are framed and sent to the next device.
 Physical Layer: Frames are converted into bits and transmitted physically
 Example:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Input :
+
+Keyword : secret
+
+Message : Zombie Here
+
+Output :
+
+
+Take the first example, we used
+
+Plain Text: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+secret" keyword there.
+
+When “secret” keyword is used, the new encrypting text becomes
+Encrypting : SECRTABDFGHIJKLMNOPQUVWXYZ
+
+This means ‘A’ means ‘S', 'B' means "E' and ‘'C' means ‘C' and so on.
+Lets encode the given message “Zombie Here"
+
+ZOMBIE HERE becomes ZLJEFT DTOT
 --- page 8 ---
 Step 1: Person A interacts with e-mail application like Gmail, outlook, etc. Writes his email to send. (This
 happens at Application Layer).
@@ -253,6 +313,27 @@ Encryption Algorithm:
 2. Add both the number (Corresponding plain-text character number and Key character number).
 3. Subtract the number from 2️6 if the added number is greater than 2️6, if it isn’t then leave it.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Plain-Text: RAMSWARUPK
+Key: RANCHOBABA
+
+Now according to our encryption algorithm, we assign a number to each character of our plain text and key.
+
+No: 170 12 18 22 @ 17 20 15 10
+KEY; R AN CHO BABA
+No: 17 @ 13 27 1410410
+
+Now Bitwise XOR the number of Plain-Text and Key and after doing the XOR operation and subtraction operation (if
+required), we will get the corresponding Cipher-Text character number.
+
+CT-NO: @ @ 1 16 17 14 16 20 14 10
+
+Since there are no numbers that are greater than or equal to 26 we do not have to subtract 26 from any of them.
+
+New Cipher-Text is after getting the corresponding character from the number.
+
+CIPHER-TEXT: A A BQ RO QUO K
 ````
 
 ## 2025-26 · Final-Exam · Sem 3 · Answer key · paper 40680dd9db90
@@ -262,6 +343,7 @@ Encryption Algorithm:
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/MBATech_DS_7052/Information Security and Privacy/ANS_Information Security and Privacy(702DB0C037)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Dec 2025
 - Text: text (8 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -300,6 +382,19 @@ Encryption is the method by which information is converted into secret code that
 meaning. The science of encrypting and decrypting information is called cryptography.
 In computing, unencrypted data is also known as plaintext, and encrypted data is called ciphertext.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+IPv6
+
+Deployed 1998
+
+128-bit IP address
+
+Alphanumeric hexadecimal notation
+
+50b2:6400::6c3a:b17d:0:10a9
+
+Supports auto configuration
 --- page 3 ---
 ● Cipher : The formulas used to encode and decode messages are called encryption algorithms
 ● Key : The variable, which is called a key, is what makes a cipher's output unique
@@ -411,6 +506,28 @@ The 5 Essential Ingredients
 cipher. For example, if you wanted to securely send the message "MEET ME AT DAWN," this would be
 your plaintext.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+A B c
+
+Feature IPv4 IPv6
+Address Length 32-bit address 128-bit address
+Address Format Decimal format (e.g., 192.168.0.1) Hexadecimal format (e.g., 2001:0db8::1)
+Configuration Manual and DHCP configuration Auto-configuration and renumbering supported
+Connection Integrity End-to-end integrity is unachievable End-to-end integrity is achievable
+Security No builtin sea. extemal tools like IPSec is built-in for encryption and authentication
+Fragmentation Performed by sender and routers Performed only by the sender
+Flow Identification Not available Uses Flow Label field in header for packet flow
+identification
+Checksum Field Present Not present
+Transmission Scheme Supports broadcast Uses multicast and anycast; no broadcast
+Header Size Variable: 20-60 bytes Fixed: 40 bytes
+Conversion Can be converted to IPv6 Not all IPV6 addresses can be converted to IPv4
+Field Structure 4 fields separated by dots (.) 8 fields separated by colons (:)
+Address Classes Has address classes (A, B, C, D, E) No concept of address classes
+VLSM Support Supports vocewtst Subnet Does not support VLSM
+
+Example 66.94.2913 2001:0000: 3238:DFE1 0063:0000:0000:FEFB
 --- page 6 ---
 2. Encryption Algorithm: This is the mathematical function or set of rules that transforms the plaintext
 into ciphertext. It dictates exactly how the substitution and permutation of the data will occur.
@@ -481,6 +598,30 @@ Data Link Layer: Packets are framed and sent to the next device.
 Physical Layer: Frames are converted into bits and transmitted physically
 Example:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Input :
+
+Keyword : secret
+
+Message : Zombie Here
+
+Output :
+
+
+Take the first example, we used
+
+Plain Text: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+secret" keyword there.
+
+When “secret” keyword is used, the new encrypting text becomes
+Encrypting : SECRTABDFGHIJKLMNOPQUVWXYZ
+
+This means ‘A’ means ‘S', 'B' means "E' and ‘'C' means ‘C' and so on.
+Lets encode the given message “Zombie Here"
+
+ZOMBIE HERE becomes ZLJEFT DTOT
 --- page 8 ---
 Step 1: Person A interacts with e-mail application like Gmail, outlook, etc. Writes his email to send. (This
 happens at Application Layer).
@@ -506,6 +647,27 @@ Encryption Algorithm:
 2. Add both the number (Corresponding plain-text character number and Key character number).
 3. Subtract the number from 2️6 if the added number is greater than 2️6, if it isn’t then leave it.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Plain-Text: RAMSWARUPK
+Key: RANCHOBABA
+
+Now according to our encryption algorithm, we assign a number to each character of our plain text and key.
+
+No: 170 12 18 22 @ 17 20 15 10
+KEY; R AN CHO BABA
+No: 17 @ 13 27 1410410
+
+Now Bitwise XOR the number of Plain-Text and Key and after doing the XOR operation and subtraction operation (if
+required), we will get the corresponding Cipher-Text character number.
+
+CT-NO: @ @ 1 16 17 14 16 20 14 10
+
+Since there are no numbers that are greater than or equal to 26 we do not have to subtract 26 from any of them.
+
+New Cipher-Text is after getting the corresponding character from the number.
+
+CIPHER-TEXT: A A BQ RO QUO K
 ````
 
 ## 2025-26 · Final-Exam · Sem 7 · Answer key · paper e432c4113a69
@@ -515,6 +677,7 @@ Encryption Algorithm:
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/Integrated_DS_7038/Information Security and Privacy/ANS_Information Security and Privacy(702DB0C004)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Dec 2025
 - Text: text (8 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -553,6 +716,19 @@ Encryption is the method by which information is converted into secret code that
 meaning. The science of encrypting and decrypting information is called cryptography.
 In computing, unencrypted data is also known as plaintext, and encrypted data is called ciphertext.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+IPv6
+
+Deployed 1998
+
+128-bit IP address
+
+Alphanumeric hexadecimal notation
+
+50b2:6400::6c3a:b17d:0:10a9
+
+Supports auto configuration
 --- page 3 ---
 ● Cipher : The formulas used to encode and decode messages are called encryption algorithms
 ● Key : The variable, which is called a key, is what makes a cipher's output unique
@@ -664,6 +840,28 @@ The 5 Essential Ingredients
 cipher. For example, if you wanted to securely send the message "MEET ME AT DAWN," this would be
 your plaintext.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+A B c
+
+Feature IPv4 IPv6
+Address Length 32-bit address 128-bit address
+Address Format Decimal format (e.g., 192.168.0.1) Hexadecimal format (e.g., 2001:0db8::1)
+Configuration Manual and DHCP configuration Auto-configuration and renumbering supported
+Connection Integrity End-to-end integrity is unachievable End-to-end integrity is achievable
+Security No builtin sea. extemal tools like IPSec is built-in for encryption and authentication
+Fragmentation Performed by sender and routers Performed only by the sender
+Flow Identification Not available Uses Flow Label field in header for packet flow
+identification
+Checksum Field Present Not present
+Transmission Scheme Supports broadcast Uses multicast and anycast; no broadcast
+Header Size Variable: 20-60 bytes Fixed: 40 bytes
+Conversion Can be converted to IPv6 Not all IPV6 addresses can be converted to IPv4
+Field Structure 4 fields separated by dots (.) 8 fields separated by colons (:)
+Address Classes Has address classes (A, B, C, D, E) No concept of address classes
+VLSM Support Supports vocewtst Subnet Does not support VLSM
+
+Example 66.94.2913 2001:0000: 3238:DFE1 0063:0000:0000:FEFB
 --- page 6 ---
 2. Encryption Algorithm: This is the mathematical function or set of rules that transforms the plaintext
 into ciphertext. It dictates exactly how the substitution and permutation of the data will occur.
@@ -734,6 +932,30 @@ Data Link Layer: Packets are framed and sent to the next device.
 Physical Layer: Frames are converted into bits and transmitted physically
 Example:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Input :
+
+Keyword : secret
+
+Message : Zombie Here
+
+Output :
+
+
+Take the first example, we used
+
+Plain Text: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+secret" keyword there.
+
+When “secret” keyword is used, the new encrypting text becomes
+Encrypting : SECRTABDFGHIJKLMNOPQUVWXYZ
+
+This means ‘A’ means ‘S', 'B' means "E' and ‘'C' means ‘C' and so on.
+Lets encode the given message “Zombie Here"
+
+ZOMBIE HERE becomes ZLJEFT DTOT
 --- page 8 ---
 Step 1: Person A interacts with e-mail application like Gmail, outlook, etc. Writes his email to send. (This
 happens at Application Layer).
@@ -759,6 +981,27 @@ Encryption Algorithm:
 2. Add both the number (Corresponding plain-text character number and Key character number).
 3. Subtract the number from 2️6 if the added number is greater than 2️6, if it isn’t then leave it.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Plain-Text: RAMSWARUPK
+Key: RANCHOBABA
+
+Now according to our encryption algorithm, we assign a number to each character of our plain text and key.
+
+No: 170 12 18 22 @ 17 20 15 10
+KEY; R AN CHO BABA
+No: 17 @ 13 27 1410410
+
+Now Bitwise XOR the number of Plain-Text and Key and after doing the XOR operation and subtraction operation (if
+required), we will get the corresponding Cipher-Text character number.
+
+CT-NO: @ @ 1 16 17 14 16 20 14 10
+
+Since there are no numbers that are greater than or equal to 26 we do not have to subtract 26 from any of them.
+
+New Cipher-Text is after getting the corresponding character from the number.
+
+CIPHER-TEXT: A A BQ RO QUO K
 ````
 
 ## 2025-26 · Re-Exam · Sem 3 · Answer key · paper 33210dfca3c8
@@ -768,6 +1011,7 @@ Encryption Algorithm:
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_DS_7009/Information Security and Privacy/ANS_Information Security and Privacy(702DB0C037)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Feb 2026
 - Text: text (8 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -806,6 +1050,19 @@ Encryption is the method by which information is converted into secret code that
 meaning. The science of encrypting and decrypting information is called cryptography.
 In computing, unencrypted data is also known as plaintext, and encrypted data is called ciphertext.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+IPv6
+
+Deployed 1998
+
+128-bit IP address
+
+Alphanumeric hexadecimal notation
+
+50b2:6400::6c3a:b17d:0:10a9
+
+Supports auto configuration
 --- page 3 ---
 ● Cipher : The formulas used to encode and decode messages are called encryption algorithms
 ● Key : The variable, which is called a key, is what makes a cipher's output unique
@@ -917,6 +1174,28 @@ The 5 Essential Ingredients
 cipher. For example, if you wanted to securely send the message "MEET ME AT DAWN," this would be
 your plaintext.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+A B c
+
+Feature IPv4 IPv6
+Address Length 32-bit address 128-bit address
+Address Format Decimal format (e.g., 192.168.0.1) Hexadecimal format (e.g., 2001:0db8::1)
+Configuration Manual and DHCP configuration Auto-configuration and renumbering supported
+Connection Integrity End-to-end integrity is unachievable End-to-end integrity is achievable
+Security No builtin sea. extemal tools like IPSec is built-in for encryption and authentication
+Fragmentation Performed by sender and routers Performed only by the sender
+Flow Identification Not available Uses Flow Label field in header for packet flow
+identification
+Checksum Field Present Not present
+Transmission Scheme Supports broadcast Uses multicast and anycast; no broadcast
+Header Size Variable: 20-60 bytes Fixed: 40 bytes
+Conversion Can be converted to IPv6 Not all IPV6 addresses can be converted to IPv4
+Field Structure 4 fields separated by dots (.) 8 fields separated by colons (:)
+Address Classes Has address classes (A, B, C, D, E) No concept of address classes
+VLSM Support Supports vocewtst Subnet Does not support VLSM
+
+Example 66.94.2913 2001:0000: 3238:DFE1 0063:0000:0000:FEFB
 --- page 6 ---
 2. Encryption Algorithm: This is the mathematical function or set of rules that transforms the plaintext
 into ciphertext. It dictates exactly how the substitution and permutation of the data will occur.
@@ -987,6 +1266,30 @@ Data Link Layer: Packets are framed and sent to the next device.
 Physical Layer: Frames are converted into bits and transmitted physically
 Example:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Input :
+
+Keyword : secret
+
+Message : Zombie Here
+
+Output :
+
+
+Take the first example, we used
+
+Plain Text: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
+secret" keyword there.
+
+When “secret” keyword is used, the new encrypting text becomes
+Encrypting : SECRTABDFGHIJKLMNOPQUVWXYZ
+
+This means ‘A’ means ‘S', 'B' means "E' and ‘'C' means ‘C' and so on.
+Lets encode the given message “Zombie Here"
+
+ZOMBIE HERE becomes ZLJEFT DTOT
 --- page 8 ---
 Step 1: Person A interacts with e-mail application like Gmail, outlook, etc. Writes his email to send. (This
 happens at Application Layer).
@@ -1012,6 +1315,27 @@ Encryption Algorithm:
 2. Add both the number (Corresponding plain-text character number and Key character number).
 3. Subtract the number from 2️6 if the added number is greater than 2️6, if it isn’t then leave it.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Plain-Text: RAMSWARUPK
+Key: RANCHOBABA
+
+Now according to our encryption algorithm, we assign a number to each character of our plain text and key.
+
+No: 170 12 18 22 @ 17 20 15 10
+KEY; R AN CHO BABA
+No: 17 @ 13 27 1410410
+
+Now Bitwise XOR the number of Plain-Text and Key and after doing the XOR operation and subtraction operation (if
+required), we will get the corresponding Cipher-Text character number.
+
+CT-NO: @ @ 1 16 17 14 16 20 14 10
+
+Since there are no numbers that are greater than or equal to 26 we do not have to subtract 26 from any of them.
+
+New Cipher-Text is after getting the corresponding character from the number.
+
+CIPHER-TEXT: A A BQ RO QUO K
 ````
 
 ## 2025-26 · Re-Exam · Sem 3 · Answer key · paper 7a4c0eca9c17
@@ -1021,6 +1345,7 @@ Encryption Algorithm:
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/MBATech_DS_7052/Information Security and Privacy/ANS_Information Security and Privacy(702DB0C037)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Feb 2026
 - Text: text (9 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1060,6 +1385,19 @@ Encryption is the method by which information is converted into secret code that
 meaning. The science of encrypting and decrypting information is called cryptography.
 In computing, unencrypted data is also known as plaintext, and encrypted data is called ciphertext.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+IPv6
+
+Deployed 1998
+
+128-bit IP address
+
+Alphanumeric hexadecimal notation
+
+50b2:6400::6c3a:b17d:0:10a9
+
+Supports auto configuration
 --- page 3 ---
 ● Cipher : The formulas used to encode and decode messages are called encryption algorithms
 ● Key : The variable, which is called a key, is what makes a cipher's output unique
@@ -1194,6 +1532,28 @@ Definition   encryption and a private key for
 encryption and decryption.
 decryption.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+A B c
+
+Feature IPv4 IPv6
+Address Length 32-bit address 128-bit address
+Address Format Decimal format (e.g., 192.168.0.1) Hexadecimal format (e.g., 2001:0db8::1)
+Configuration Manual and DHCP configuration Auto-configuration and renumbering supported
+Connection Integrity End-to-end integrity is unachievable End-to-end integrity is achievable
+Security No builtin sea. extemal tools like IPSec is built-in for encryption and authentication
+Fragmentation Performed by sender and routers Performed only by the sender
+Flow Identification Not available Uses Flow Label field in header for packet flow
+identification
+Checksum Field Present Not present
+Transmission Scheme Supports broadcast Uses multicast and anycast; no broadcast
+Header Size Variable: 20-60 bytes Fixed: 40 bytes
+Conversion Can be converted to IPv6 Not all IPV6 addresses can be converted to IPv4
+Field Structure 4 fields separated by dots (.) 8 fields separated by colons (:)
+Address Classes Has address classes (A, B, C, D, E) No concept of address classes
+VLSM Support Supports vocewtst Subnet Does not support VLSM
+
+Example 66.94.2913 2001:0000: 3238:DFE1 0063:0000:0000:FEFB
 --- page 7 ---
 Number of Keys   One key (shared secret).   Two keys (public & private).
 Key   Same key for both encryption and   Different but mathematically
@@ -1221,6 +1581,26 @@ word are removed, then the cipher alphabet is generated with the keyword matchin
 until the keyword is used up, whereupon the rest of the ciphertext letters are used in alphabetical
 order, excluding those already used in the key.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Input :
+
+Keyword : secret
+
+Message : Zombie Here
+
+Output :
+
+
+Take the first example, we used "secret" keyword there.
+
+Plain Text : ABCDEFGHIJKLMNOPQRSTUVWXYZ
+When “secret” keyword is used, the new encrypting text becomes
+Encrypting : SECRTABDFGHIJKLMNOPQUVWXYZ
+This means 'A' means 'S', '"B' means ‘E' and 'C' means 'C' and so on.
+Lets encode the given message “Zombie Here"
+
+ZOMBIE HERE becomes ZLJEFT DTOT
 --- page 8 ---
 Q6.
 Layers of the OSI Model
@@ -1267,4 +1647,25 @@ Encryption Algorithm:
 2. Add both the number (Corresponding plain-text character number and Key character number).
 3. Subtract the number from 2️6 if the added number is greater than 2️6, if it isn’t then leave it.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Plain-Text: RAMSWARUPK
+Key: RANCHOBABA
+
+Now according to our encryption algorithm, we assign a number to each character of our plain text and key.
+
+No: 170 12 18 22 © 17 20 15 10
+Key: R AN CHO BABA
+No: 17 @ 13.27 141010
+
+Now Bitwise XOR the number of Plain-Text and Key and after doing the XOR operation and subtraction operation (if
+required), we will get the corresponding Cipher-Text character number.
+
+CT-NO: @ @ 1 16 17 14 16 20 14 10
+
+Since there are no numbers that are greater than or equal to 26 we do not have to subtract 26 from any of them.
+
+New Cipher-Text is after getting the corresponding character from the number.
+
+CIPHER-TEXT: A A BQ RO QUO K
 ````

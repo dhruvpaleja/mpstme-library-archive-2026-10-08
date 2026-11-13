@@ -76,6 +76,59 @@ improves flexibility & setup → supports low-volume variety
 with high machine utilization & minimum changeover time.
 Q.2.   [10]
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Use the weighted center-of-gravity formula:
+
+ye RK). ERY)
+SR) LR)
+
+Step 1— Compute Vj;
+
+© P1:6000x0,.07 = 420.0
+© P2:9000x0.07 = 630.0
+
+© ~=P3: 2500x007 = 175.0
+
+© M1: 4500x0.12 = 540.0
+© M2: 5200x0.12 = 624.0
+© M3:5800x0.12 = 696.0
+
+SY Vik; = 420 + 630 + 175 + 540 + 624 + 696 = 3085.0
+
+Step 2 — Compute numerators
+DV RX :
+
+© P1:420 x 3 = 1260.0
+© P2:630 x 8 = 5040.0
+© =P3:175 x 1= 175.0
+
+© =M1:540 x 6 = 3240.0
+© M2: 624 x 8 = 4992.0
+© M3: 696 x11 = 7656.0
+
+Sum = 1260 + 5040 + 175 + 3240 + 4992 + 7656 = 22363.0
+
+22363.0 -
+"= — 27. I
+x 3085.0 7.249 (rounded to 3 decimals)
+
+DS ViRY :
+
+© P11: 420 x 7 = 2940.0
+© P2:630 x11 = 6930.0
+e P3:175 x 3 = 525.0
+
+© M1: 540 x 4 = 2160.0
+© M2: 624 = 8 = 4992.0
+© M3: 696 x10 = 6960.0
+
+Sum = 2940 + 6930 + 525 + 2160 + 4992 + 6960 = 24507.0
+
+_ 24507.0
+~ 3085.0
+
+= 7.944 (rounded to 3 decimals)
 --- page 3 ---
 Q.3.   [10]
 a.   Supplier Rating
@@ -205,6 +258,48 @@ d) Additional tool suggestion
 Blockchain for supplier traceability: Ensures material authenticity,
 better quality compliance, faster recall management
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Initial capacities are same as given. All flows start at 0.
+
+Augmenting path 1: s +A +c 4T
+
+* capacities along path: S~A (10), A-C (9), C—T (10)
+
+© bottleneck = min(10,9,10) = 9 — push flow 9
+
+Update flows / residuals after step 1:
+
+* Flow SA = 9 (remaining capacity S~A = 1; reverse A-S has cap 9)
+© Flow AC = 9 (remaining cap A-C = 0; reverse C—A has cap 9)
+
+© Flow C-T = 9 (remaining cap C—T = 1; reverse TC has cap 9)
+
+Total flow so far = 9
+
+Augmenting path 2: s + 4 + 8 > DNE? (we look for a path to T). A direct useful path: s +A +8 >T
+* capacities now: SA (1), A-B (15), BT (8)
+
+© bottleneck = min(1,15,8) = 1 — push flow 1 (this uses the small residual of S-A)
+
+Update after step 2:
+
+* Flow S—A increases to 10 (now saturated). SA remaining cap = 0.
+
+© Flow A-B = 1 (AB remaining cap = 14; reverse BA cap = 1)
+
+© Flow BT = 1 (BT remaining cap = 7)
+
+Total flow so far = 9 +1=10
+
+Augmenting path 3: s + 8 + T
+* capacities: S—B (5), BT (7) — bottleneck = min(5,7) = 5 — push flow 5
+Update after step 3:
+
+© Flow SB = 5 (saturated)
+© Flow B-T increases by 5 to 6 (it was 1, now 6). Remaining B=T cap = 2.
+
+Total flow so far = 10 + 5 = 15
 --- page 6 ---
 FIC 6 I HF
 ````
@@ -214,14 +309,14 @@ FIC 6 I HF
 - Departments: Artificial Intelligence
 - Programmes: MBATech AI 7051
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/MBATech_AI_7051/Analytics in Operations and Supply Chai_65448e85/ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2025-2026.pdf`
-- Text: none (FileDataError: Failed to open stream)
+- Text: none (encrypted by the portal: the file is uniformly random bytes in 16-byte cipher blocks with no PDF structure, and the archive holds no key (its own re-download got the same bytes))
 
 ## 2025-26 · Final-Exam · Sem 9 · Answer key · paper a56a65524d11
 
 - Departments: Computer Engineering
 - Programmes: MBATech Computer 7047
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/MBATech_Computer_7047/Analytics in Operations and Supply Chai_65448e85/ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2025-2026.docx`
-- Text: docx (1 page)
+- Text: mixed (8 pages), mean OCR confidence 81.6
 
 ````text
 | Q.1.
@@ -412,6 +507,154 @@ Blockchain for supplier traceability: Ensures material authenticity, better qual
 
 |
 |
+--- page 2 ---
+Use the weighted center-of-gravity formula:
+
+x LY). _ ERY)
+EWR)? YVR)
+
+Step 1— Compute Vj 2;
+
+e P1:6000x0.07 = 420.0
+
+e P2:9000x0.07 = 630.0
+
+e P3:2500x0.07 = 175.0
+
+e M1: 45000.12 = 540.0
+
+© M2: 5200«0.12 = 624.0
+
+© M3: 5800«0.12 = 696.0
+
+VR; = 420 + 630 + 175 + 540 + 624 + 696 = 3085.0
+
+Step 2 — Compute numerators
+SViRX: :
+
+© =P1: 420 x 3 = 1260.0
+
+© P2: 630 x 8 = 5040.0
+
+e P3:175* 1= 175.0
+
+© M1:540 x 6 = 3240.0
+© M2: 624 x 8 = 4992.0
+© M3: 696 x11 = 7656.0
+
+Sum = 1260 + 5040 + 175 + 3240 + 4992 + 7656 = 22363.0
+
+_ 22363.0
+~ 3085.0
+
+*
+
+= 7.249 (rounded to 3 decimals)
+--- page 3 ---
+SVR; :
+
+e P1:420 x 7 = 2940.0
+e = P2: 630 x11 = 6930.0
+e P3:175 x 3 = 525.0
+
+e M1:540 x 4 = 2160.0
+e M2: 624 x 8 = 4992.0
+e M3: 696 x10 = 6960.0
+
+Sum = 2940 + 6930 + 525 + 2160 + 4992 + 6960 = 24507.0
+
+. _ 24507.0
+~ 3085.0
+
+= 7.944 (rounded to 3 decimals)
+--- page 4 ---
+Hour U, (dec) Mapping Breakdowns in hour
+
+1 0.82 0.70 < 062 <0,90-1 1
+2 0.15 £0.70-0 0
+3 0.95 0.90 < 0.95 < 100-2 2
+4 0.33 <0.70-0 0
+5 0.72 0.70 < 0.72 <0.90-1 1
+6 0.44 £0.70-0 0
+7 0.88 0.70 < 0.88 < 0.90 -1 1
+8 0.05 2070-0 tt}
+9 0.60 2070-0 i}
+
+10 0.25 £0.70-0 0
+--- page 5 ---
+Breakdown # Uz Repair time (hrs)
+
+1 0.18 30.30 -1hr
+2 0.62 £0.60 — 2 hr
+3 0.05 30.30 -1hr
+4 0.39 £0.80 — 2 hr
+
+5 0.71 £0.60 - 2 hr
+--- page 6 ---
+Arrival time Repair time Service start (hr) = Service end Downtime = wait + Production loss (% = Repairman wage (= =
+
+BD# (hr) (hr) max(arrival, avail) Waiting (hr) (hr) repair (hr) downtimex80) repairx30)
+1 0.0 1 0.0 0.0 1.0 1.0 1x 60 = 80 1 30 = 30
+2 2.0 2 2.0 0.0 4.0 2.0 2 x 80 = 160 2x 30=60
+3 2.0 1 4.0 2.0 5.0 3.0 3 x 80 = 240 1 30 = 30
+4 4.0 2 5.0 1.0 7.0 3.0 3 x 80 = 240 2 x 30 = 60
+
+5 6.0 2 7.0 1.0 9.0 3.0 3 x 80 = 240 2x 30=60
+--- page 7 ---
+Total breakdowns = 5
+
+Total downtime = 1 + 2 + 3 + 3 + 3 = 12.0 hours
+
+Total production loss = 80 + 160 + 240 + 240 + 240 = 960
+Total repairman wages = 30 + 60 + 30 + 60 + 60 = =240
+Total cost (loss + wages) = $960 + %240 = %1,200
+
+Total waiting time = 0 + 0 +2 +1+1= 4.0 hours
+
+Average waiting time per breakdown = 4.0 / 5 = 0.80 hr
+--- page 8 ---
+Initial capacities are same as given. All flows start at 0.
+
+Augmenting path 1: s + A +C4T
+
+® capacities along path: S-A (10), A+C (9), C-T (10)
+
+* bottleneck = min(10,9,10) = 9 — push flow 9
+
+Update flows / residuals after step 1:
+
+© Flow SA = 9 (remaining capacity SA = 1; reverse AS has cap 9)
+e Flow AC = 9 (remaining cap A-C = 0; reverse CA has cap 9)
+
+e Flow C-T = 9 (remaining cap CT = 1; reverse T-C has cap 9)
+
+Total flow so far = 9
+
+Augmenting path 2: s + A + 8 + pNe? (we look for a path to T). A direct useful path: s + A + B + T
+® capacities now: SA (1), A+B (15), BT (8)
+
+© bottleneck = min(1,15,8) = 1 — push flow 1 (this uses the small residual of SA)
+
+Update after step 2:
+
+« Flow S—A increases to 10 (now saturated). S-A remaining cap = 0.
+
+© Flow A-8 = 1 (A-B remaining cap = 14; reverse BA cap = 1)
+
+© Flow B=T = 1 (BT remaining cap = 7)
+
+Total flow so far= 9 +1=10
+
+Augmenting path 3: s + 8 + T
+
+® capacities: SB (5), BT (7) — bottleneck = min(5,7) = 5 — push flow 5
+Update after step 3:
+
+e Flow S—B = 5 (saturated)
+
+e Flow B-T increases by 5 to 6 (it was 1, now 6). Remaining BT cap = 2.
+
+Total flow so far = 10 + 5 = 15
 ````
 
 ## 2025-26 · Final-Exam · Sem 9 · Answer key · paper ea1e3a97fa01
@@ -488,6 +731,56 @@ improves flexibility & setup → supports low-volume variety
 with high machine utilization & minimum changeover time.
 Q.2.   [10]
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Use the weighted center-of-gravity formula:
+
+xe RK) ERY)
+SR) LVR)
+
+Step 1— Compute Vj;
+P1:6000x0,.07 = 420.0
+© P2:9000x0.07 = 630.0
+© = P3:2500x0.07 = 175.0
+© M1: 4500x0.12 = 540.0
+@ =M2:5200x0.12 = 624.0
+© M3:5800x0.12 = 696.0
+
+SY Vik; = 420 + 630 + 175 + 540 + 624 + 696 = 3085.0
+
+Step 2 — Compute numerators
+DViRX :
+
+© P1:420 x 3 = 1260.0
+@ P2:630 x 8 = 5040.0
+© =P3:175 x 1= 175.0
+
+© =M1:540 x 6 = 3240.0
+© M2: 624 x 8 = 4992.0
+© M3: 696 x11 = 7656.0
+
+Sum = 1260 + 5040 + 175 + 3240 + 4992 + 7656 = 22363.0
+
+22363.0 -
+*= — #7. I
+x 3085.0 7.249 (rounded to 3 decimals)
+
+YS ViRY :
+
+© P1:420 x 7 = 2940.0
+© P2:630 x11 = 6930.0
+e P3:175 x 3 = 525.0
+
+© M1: 540 x 4 = 2160.0
+© M2: 624 x 8 = 4992.0
+© M3: 696 x10 = 6960.0
+
+Sum = 2940 + 6930 + 525 + 2160 + 4992 + 6960 = 24507.0
+
+_ 24507.0
+~ 3085.0
+
+= 7.944 (rounded to 3 decimals)
 --- page 3 ---
 Q.3.   [10]
 a.   Supplier Rating
@@ -617,6 +910,48 @@ d) Additional tool suggestion
 Blockchain for supplier traceability: Ensures material authenticity,
 better quality compliance, faster recall management
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Initial capacities are same as given. All flows start at 0.
+
+Augmenting path 1: s +A +c 4T
+
+* capacities along path: S~A (10), A-C (9), C—T (10)
+
+© bottleneck = min(10,9,10) = 9 — push flow 9
+
+Update flows / residuals after step 1:
+
+* Flow SA = 9 (remaining capacity S~A = 1; reverse A-S has cap 9)
+© Flow AC = 9 (remaining cap A-C = 0; reverse C—A has cap 9)
+
+© Flow C-T = 9 (remaining cap C—T = 1; reverse TC has cap 9)
+
+Total flow so far = 9
+
+Augmenting path 2: s + 4 + 8 > DNE? (we look for a path to T). A direct useful path: s +A +8 >T
+* capacities now: SA (1), A-B (15), BT (8)
+
+© bottleneck = min(1,15,8) = 1 — push flow 1 (this uses the small residual of S-A)
+
+Update after step 2:
+
+* Flow S—A increases to 10 (now saturated). SA remaining cap = 0.
+
+© Flow A-B = 1 (AB remaining cap = 14; reverse BA cap = 1)
+
+© Flow BT = 1 (BT remaining cap = 7)
+
+Total flow so far = 9 +1=10
+
+Augmenting path 3: s + 8 + T
+* capacities: S—B (5), BT (7) — bottleneck = min(5,7) = 5 — push flow 5
+Update after step 3:
+
+© Flow SB = 5 (saturated)
+© Flow B-T increases by 5 to 6 (it was 1, now 6). Remaining B=T cap = 2.
+
+Total flow so far = 10 + 5 = 15
 --- page 6 ---
 FORK GA dC I ok ok ok ak
 ````
@@ -695,6 +1030,59 @@ improves flexibility & setup → supports low-volume variety
 with high machine utilization & minimum changeover time.
 Q.2.   [10]
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Use the weighted center-of-gravity formula:
+
+ye RK). ERY)
+SR) LR)
+
+Step 1— Compute Vj;
+
+© P1:6000x0,.07 = 420.0
+© P2:9000x0.07 = 630.0
+
+© ~=P3: 2500x007 = 175.0
+
+© M1: 4500x0.12 = 540.0
+© M2: 5200x0.12 = 624.0
+© M3:5800x0.12 = 696.0
+
+SY Vik; = 420 + 630 + 175 + 540 + 624 + 696 = 3085.0
+
+Step 2 — Compute numerators
+DV RX :
+
+© P1:420 x 3 = 1260.0
+© P2:630 x 8 = 5040.0
+© =P3:175 x 1= 175.0
+
+© =M1:540 x 6 = 3240.0
+© M2: 624 x 8 = 4992.0
+© M3: 696 x11 = 7656.0
+
+Sum = 1260 + 5040 + 175 + 3240 + 4992 + 7656 = 22363.0
+
+22363.0 -
+"= — 27. I
+x 3085.0 7.249 (rounded to 3 decimals)
+
+DS ViRY :
+
+© P11: 420 x 7 = 2940.0
+© P2:630 x11 = 6930.0
+e P3:175 x 3 = 525.0
+
+© M1: 540 x 4 = 2160.0
+© M2: 624 = 8 = 4992.0
+© M3: 696 x10 = 6960.0
+
+Sum = 2940 + 6930 + 525 + 2160 + 4992 + 6960 = 24507.0
+
+_ 24507.0
+~ 3085.0
+
+= 7.944 (rounded to 3 decimals)
 --- page 3 ---
 Q.3.   [10]
 a.   Supplier Rating
@@ -824,6 +1212,48 @@ d) Additional tool suggestion
 Blockchain for supplier traceability: Ensures material authenticity,
 better quality compliance, faster recall management
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Initial capacities are same as given. All flows start at 0.
+
+Augmenting path 1: s +A +c 4T
+
+* capacities along path: S~A (10), A-C (9), C—T (10)
+
+© bottleneck = min(10,9,10) = 9 — push flow 9
+
+Update flows / residuals after step 1:
+
+* Flow SA = 9 (remaining capacity S~A = 1; reverse A-S has cap 9)
+© Flow AC = 9 (remaining cap A-C = 0; reverse C—A has cap 9)
+
+© Flow C-T = 9 (remaining cap C—T = 1; reverse TC has cap 9)
+
+Total flow so far = 9
+
+Augmenting path 2: s + 4 + 8 > DNE? (we look for a path to T). A direct useful path: s +A +8 >T
+* capacities now: SA (1), A-B (15), BT (8)
+
+© bottleneck = min(1,15,8) = 1 — push flow 1 (this uses the small residual of S-A)
+
+Update after step 2:
+
+* Flow S—A increases to 10 (now saturated). SA remaining cap = 0.
+
+© Flow A-B = 1 (AB remaining cap = 14; reverse BA cap = 1)
+
+© Flow BT = 1 (BT remaining cap = 7)
+
+Total flow so far = 9 +1=10
+
+Augmenting path 3: s + 8 + T
+* capacities: S—B (5), BT (7) — bottleneck = min(5,7) = 5 — push flow 5
+Update after step 3:
+
+© Flow SB = 5 (saturated)
+© Flow B-T increases by 5 to 6 (it was 1, now 6). Remaining B=T cap = 2.
+
+Total flow so far = 10 + 5 = 15
 --- page 6 ---
 FIC 6 I HF
 ````
@@ -861,6 +1291,28 @@ Q.1.
 a.
 [3]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Difference Between Descriptive and Predictive Analytics in Production
+
+Aspect Descriptive Analytics Predictive Analytics
+
+Purpose Explains what has happened in the Forecasts what is likely to happen in the future
+production system
+
+Focus Past performance and current operations Future trends, outcomes, and risks
+
+Data Used Historical production data (e.g, output Historical data + statistical models + machine
+rates, machine logs, defect counts) learning
+
+Key Questions “What happened and why?” “What will happen next?”
+
+Common Tools Dashboards, charts, Pareto analysis, Forecasting models, regression, machine
+control charts learning algorithms
+
+Production Example Analyzing last month’s downtime and Predicting machine failure or future demand
+
+defect trends for production planning
 --- page 2 ---
 b.
 [3]
@@ -884,6 +1336,27 @@ they balance efficiency with flexibility, improving service levels,
 reducing system congestion, and supporting advanced aerospace
 manufacturing needs.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+a) Interpretation of results
+* Central hub has the highest shipments but also the slowest and most inconsistent delivery times (14.2
+hrs; SD 3.9) and highest late-delivery rate (17%) — capacity or routing strain.
+* East hub performs best: fastest and most stable delivery (10.5 hrs; SD 1.8) and lowest late deliveries
+(6%).
+© West hub is moderate on volume and timing but has higher variability than East and more late
+deliveries (9%) — needs improvement.
+
+b) Key issues
+
+Central hub is the core bottleneck — long and inconsistent delivery times leading to the highest late
+deliveries.
+
+* High delivery variability increases spoilage risk and service unreliability for perishable goods.
+
+cc) Recommendations
+1. Enhance Central hub logistics capacity (add vehicles, optimize routes, stagger dispatch schedules).
+2. Implement real-time tracking and demand forecasting to reduce delays, smooth flows, and minimize
+spoilage.
 --- page 3 ---
 Q.2.
 
@@ -987,6 +1460,21 @@ c) Examples
 to predict peak harvest season volumes and plan export
 capacity accordingly.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Variable Coefficient
+
+Constant (1.10) Even with ideal conditions, baseline variability is
+1.10 days
+
+Distance (0.008) Each additional km adds 0.008 days variability
+
+Order Size (0.11) Every 1 ton increases variability by 0.11 days
+
+Supplier Reliability Score (-0.42) Every 1-point increase reduces variability by 0.42
+days
+
+Fuel Cost (0.025) Every 71 increase adds 0.025 days variability
 --- page 5 ---
 • Real-Time example: Receiving a temperature-spike alert in a
 refrigerated container and triggering an immediate corrective
@@ -1005,6 +1493,21 @@ Q.5.   [10]
 • Total repairman cost = 0 × (wage during repair) = ₹0
 • Total cost = ₹0
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Hour U; (dec) Breakdowns this hour
+
+1 0.12 o
+2 045 0
+3 087 °
+4 0.23 0
+5 0.03 0
+6 0st 0
+7 076 0
+8 0.65 0
+9 0.09 o
+
+10 032 0
 --- page 6 ---
 Q.6. [10]
 
@@ -1087,6 +1590,7 @@ AR-based operator training
 - Source: `02_Question_Papers/2024/Sem_10/Final-Exam/MBATech (CHEMICAL ENGINEERING) - 7045/Analytics in Operations and Supply Chai_65448e85/ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 08 May 2025
 - Text: text (8 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1220,6 +1724,48 @@ analytics tools to process vast amounts of data in real time, allowing for
 better inventory management, demand forecasting, and logistics
 optimization. By integrating IoT sensors, RFID tracking, and cloud-based
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Compute Slope b
+_ (x - xv -¥)
+
+0 Se xP
+Calculate Deviations and Products
+10 420 -25 156.17 -3904.25 625
+20 365 -15 101.17 -1517.55 225
+30 285 5 21.17 -105.85 25
+40 220 5 -43.83 -219.15 25
+50 176 15 -87.83 -1317.45 225
+60 117 25 -146.83 -3670.75 625
+Total -10734 1750
+b= 10734 = -6.13
+
+1750
+
+Step 4: Compute Intercept a
+a—¥ bx
+a — 263.
+
+— (—6.13 = 35)
+
+@ — 263.83 + 214.55 — 478.38
+
+Step 5: Regre:
+
+ion Equation
+
+¥Y — 478.38 — 6.
+
+Step 6: Predict Life Time at X = 95
+¥ = 478.38 — (6.13 = 95)
+¥ — 478.38 — 582
+
+5
+¥ — —103.97
+
+Since life
+
+suggests that the device fails completely before reaching 95°C.
 --- page 4 ---
 analytics, Mark Retail can monitor product movement across its
 distribution centers and stores, reducing stockouts and excess inventory.
@@ -1464,6 +2010,7 @@ triggered only when necessary.
 - Source: `02_Question_Papers/2024/Sem_10/Final-Exam/MBATech (ELECTRONICS & TELECOMMUNICATIO_ba3ceaa3/Analytics in Operations and Supply Chai_65448e85/ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 08 May 2025
 - Text: text (8 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1597,6 +2144,48 @@ analytics tools to process vast amounts of data in real time, allowing for
 better inventory management, demand forecasting, and logistics
 optimization. By integrating IoT sensors, RFID tracking, and cloud-based
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Compute Slope b
+_ (x - xv -¥)
+
+0 Se xP
+Calculate Deviations and Products
+10 420 -25 156.17 -3904.25 625
+20 365 -15 101.17 -1517.55 225
+30 285 5 21.17 -105.85 25
+40 220 5 -43.83 -219.15 25
+50 176 15 -87.83 -1317.45 225
+60 117 25 -146.83 -3670.75 625
+Total -10734 1750
+b= 10734 = -6.13
+
+1750
+
+Step 4: Compute Intercept a
+a—¥ bx
+a — 263.
+
+— (—6.13 = 35)
+
+@ — 263.83 + 214.55 — 478.38
+
+Step 5: Regre:
+
+ion Equation
+
+¥Y — 478.38 — 6.
+
+Step 6: Predict Life Time at X = 95
+¥ = 478.38 — (6.13 = 95)
+¥ — 478.38 — 582
+
+5
+¥ — —103.97
+
+Since life
+
+suggests that the device fails completely before reaching 95°C.
 --- page 4 ---
 analytics, Mark Retail can monitor product movement across its
 distribution centers and stores, reducing stockouts and excess inventory.
@@ -1841,6 +2430,7 @@ triggered only when necessary.
 - Source: `02_Question_Papers/2024/Sem_10/Final-Exam/MBATech (MECHANICAL ENGINEERING) - 7046/Analytics in Operations and Supply Chai_65448e85/ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 08 May 2025
 - Text: text (8 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1974,6 +2564,48 @@ analytics tools to process vast amounts of data in real time, allowing for
 better inventory management, demand forecasting, and logistics
 optimization. By integrating IoT sensors, RFID tracking, and cloud-based
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Compute Slope b
+_ (x - xv -¥)
+
+0 Se xP
+Calculate Deviations and Products
+10 420 -25 156.17 -3904.25 625
+20 365 -15 101.17 -1517.55 225
+30 285 5 21.17 -105.85 25
+40 220 5 -43.83 -219.15 25
+50 176 15 -87.83 -1317.45 225
+60 117 25 -146.83 -3670.75 625
+Total -10734 1750
+b= 10734 = -6.13
+
+1750
+
+Step 4: Compute Intercept a
+a—¥ bx
+a — 263.
+
+— (—6.13 = 35)
+
+@ — 263.83 + 214.55 — 478.38
+
+Step 5: Regre:
+
+ion Equation
+
+¥Y — 478.38 — 6.
+
+Step 6: Predict Life Time at X = 95
+¥ = 478.38 — (6.13 = 95)
+¥ — 478.38 — 582
+
+5
+¥ — —103.97
+
+Since life
+
+suggests that the device fails completely before reaching 95°C.
 --- page 4 ---
 analytics, Mark Retail can monitor product movement across its
 distribution centers and stores, reducing stockouts and excess inventory.
@@ -2218,6 +2850,7 @@ triggered only when necessary.
 - Source: `02_Question_Papers/2024/Sem_10/Final-Exam/MBATech_Computer_7047/Analytics in Operations and Supply Chai_65448e85/ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 08 May 2025
 - Text: text (8 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2351,6 +2984,48 @@ analytics tools to process vast amounts of data in real time, allowing for
 better inventory management, demand forecasting, and logistics
 optimization. By integrating IoT sensors, RFID tracking, and cloud-based
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Compute Slope b
+_ (x - xv -¥)
+
+0 Se xP
+Calculate Deviations and Products
+10 420 -25 156.17 -3904.25 625
+20 365 -15 101.17 -1517.55 225
+30 285 5 21.17 -105.85 25
+40 220 5 -43.83 -219.15 25
+50 176 15 -87.83 -1317.45 225
+60 117 25 -146.83 -3670.75 625
+Total -10734 1750
+b= 10734 = -6.13
+
+1750
+
+Step 4: Compute Intercept a
+a—¥ bx
+a — 263.
+
+— (—6.13 = 35)
+
+@ — 263.83 + 214.55 — 478.38
+
+Step 5: Regre:
+
+ion Equation
+
+¥Y — 478.38 — 6.
+
+Step 6: Predict Life Time at X = 95
+¥ = 478.38 — (6.13 = 95)
+¥ — 478.38 — 582
+
+5
+¥ — —103.97
+
+Since life
+
+suggests that the device fails completely before reaching 95°C.
 --- page 4 ---
 analytics, Mark Retail can monitor product movement across its
 distribution centers and stores, reducing stockouts and excess inventory.
@@ -2595,6 +3270,7 @@ triggered only when necessary.
 - Source: `02_Question_Papers/2024/Sem_10/Final-Exam/MBATech_IT_7041/Analytics in Operations and Supply Chai_65448e85/ANS_Analytics in Operations and Supply Chain Management(703TO0E008)_2024-2025.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 08 May 2025
 - Text: text (8 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2728,6 +3404,48 @@ analytics tools to process vast amounts of data in real time, allowing for
 better inventory management, demand forecasting, and logistics
 optimization. By integrating IoT sensors, RFID tracking, and cloud-based
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Compute Slope b
+_ (x - xv -¥)
+
+0 Se xP
+Calculate Deviations and Products
+10 420 -25 156.17 -3904.25 625
+20 365 -15 101.17 -1517.55 225
+30 285 5 21.17 -105.85 25
+40 220 5 -43.83 -219.15 25
+50 176 15 -87.83 -1317.45 225
+60 117 25 -146.83 -3670.75 625
+Total -10734 1750
+b= 10734 = -6.13
+
+1750
+
+Step 4: Compute Intercept a
+a—¥ bx
+a — 263.
+
+— (—6.13 = 35)
+
+@ — 263.83 + 214.55 — 478.38
+
+Step 5: Regre:
+
+ion Equation
+
+¥Y — 478.38 — 6.
+
+Step 6: Predict Life Time at X = 95
+¥ = 478.38 — (6.13 = 95)
+¥ — 478.38 — 582
+
+5
+¥ — —103.97
+
+Since life
+
+suggests that the device fails completely before reaching 95°C.
 --- page 4 ---
 analytics, Mark Retail can monitor product movement across its
 distribution centers and stores, reducing stockouts and excess inventory.
@@ -3146,6 +3864,42 @@ example, GE uses digital twins—a virtual representation of its supply
 chain—to simulate and forecast potential risks, allowing for proactive
 decision-making. This data-driven approach has enabled GE to reduce
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Compute Slope b
+
+_ Dux H)-Y)
+L(x - X)?
+Calculate Deviations and Products
+x y   X-X   y-¥ 9 (x-x\Y-Y) (xX)
+10 20 5 45 225 25
+12 30 3 35 105 9
+14 50 1 -15 15 1
+16 70 1 5 5 1
+18 100 3 35 105 9
+20 120 5 55 275 25
+Total 730 70
+730
+b= — = 10.48
+
+70
+
+Step 4: Compute Intercept a
+a—Y—bxX
+a = 65 — (10.43 = 15)
+
+a— 65 — 156.45 — —91.45
+
+Step 5: Regression Equation
+
+Y — —91.45 + 10.43X
+
+Step 6: Predict Number of Defective Bottles at X — 27
+¥ — —91.45 + (10.43 = 27)
+¥ — —91.45 + 281.61
+¥Y — 190.16
+
+Since the number of defective bottles must be a whole number, we round it to 190.
 --- page 6 ---
 lead times, minimize waste, and improve overall production efficiency,
 giving it a competitive edge in the industry.

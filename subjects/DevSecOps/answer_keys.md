@@ -329,6 +329,30 @@ Q 5
 CO - 1;
 BL- 3
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Shift Left" to bake in security right from the beginning |
+
+Source
+Adhoc
+
+Practice
+
+Continuo' Artifact
+
+Continuous Continuous
+Monitoring Improvement
+
+Code
+
+Integration Management
+Management
+
+Local Development, Version Control Build per commit, Version builds, From Periodic Dashboards, 4 Incident review,
+‘Manual testing -> Peer Review Continuous testing, Dependency release to golden signals Blameless
+Unit testing & ‘Small batch ‘management, Any time release SRE, Dora 4KM_ postmortem,
+
+Automated testing Signed builds
 --- page 9 ---
 ▪ Reduced Costs: DevSecOps enables any vulnerabilities identified to be remediated
 quickly, shortening the development lifecycle and eliminating issues before they arise
@@ -404,6 +428,30 @@ the developer, and we could say that it’s easier to use than other solutions l
 Kubernetes. This solution it’s not as powerful and not adopted by many companies,
 cloud providers, or by the community.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+clone operation
+
+* edit, add, move files
+
+update operation
+
+Modify working copy
+
+status and diff operation
+Review changes
+
+commit and push operation
+
+push operation
+
+Commit changes
+
+amend and push operation
+
+push operation
+
+Review changes
 --- page 11 ---
 ▪ Swarm master: Is responsible for the entire cluster and manages the resources of
 several Docker hosts. In this model, services are orchestrated instead of running

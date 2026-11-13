@@ -279,6 +279,15 @@ o Important in orthopedic implants and fracture healing.
 3. Rate-Dependent Behavior
 o Bone strength and stiffness increase with loading rate.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+DEFORMATION
+
+Figure ¢-21. Bone is considered viscoelastic because it
+responds differently when loaded at different rates. (A) When
+loaded quickly, bone responds with more stiffness and can han-
+dle a greater load before fracturing. (B) When loaded slowly,
+bone is not as stiff or strona, fracturing under lower loads.
 --- page 8 ---
 o High-speed impacts (e.g., accidents) make bone behave more
 brittle, while slow loading makes it more ductile.

@@ -268,6 +268,29 @@ application of the clock pulses.
 Q6   a.   Explain different modelling styles in VHDL in detail.   [10]
 CO-5; BL-2 SO-1;   Solution: Three types 3M, 3M and 4M
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+= FLPLPLELFLEL— LAL
+
+Q, | B | B | B |B | B | Bs By | Bost
+2 oe: <5 SONS
+Q [ o | 8 | B&B |B | & | B Bat | Bn
+
+Sea, ee, ES
+
+2. eo 2.
+nn
+
+Q, 0 0 0 0
+
+> 4
+
+By B,
+
+_J_—
+Output bit sequence
+
+Figure2 Output Waveform of n-bit Right-Shift SISO Shift Register
 --- page 10 ---
 architecture HA_STRUCTURE of HALF_ADDER is
 component XOR2
@@ -343,6 +366,38 @@ Q7   a.   With the help of truth table and K-Map develop the logic circuit of Pr
 CO-3; SO-1;   Encoder.
 BL-3
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+i 2 3 4 5 6 7 8 :
+|
+4 Clock i
+| pulses Truth Table
+0 AMOD-8 Ripple Counter
+
+Input
+
+CLK Outputs
+
+Olpof * ‘ Pulses} A Bic
+FFC 0 0 0 0
+1 0 0 |
+
+2 0 1 0
+
+3 0 i i
+
+op “g 4 1 0 0
+— 5 i 0 |
+
+6 | 1 0
+
+a i i i
+
+O/p of 8 0 0 0
+
+FFA —
+
+Fig. 9.6
 --- page 12 ---
 Solution: Truth Table 1M, K-Map 2M,Circuit Diagram 1M
 
@@ -707,6 +762,29 @@ application of the clock pulses.
 Q6   a.   Explain different modelling styles in VHDL in detail.   [10]
 CO-5; BL-2 SO-1;   Solution: Three types 3M, 3M and 4M
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+= FLPLPLELFLEL— LAL
+
+Q, | B | B | B |B | B | Bs By | Bost
+2 oe: <5 SONS
+Q [ o | 8 | B&B |B | & | B Bat | Bn
+
+Sea, ee, ES
+
+2. eo 2.
+nn
+
+Q, 0 0 0 0
+
+> 4
+
+By B,
+
+_J_—
+Output bit sequence
+
+Figure2 Output Waveform of n-bit Right-Shift SISO Shift Register
 --- page 10 ---
 architecture HA_STRUCTURE of HALF_ADDER is
 component XOR2
@@ -782,6 +860,38 @@ Q7   a.   With the help of truth table and K-Map develop the logic circuit of Pr
 CO-3; SO-1;   Encoder.
 BL-3
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+i 2 3 4 5 6 7 8 :
+|
+4 Clock i
+| pulses Truth Table
+0 AMOD-8 Ripple Counter
+
+Input
+
+CLK Outputs
+
+Olpof * ‘ Pulses} A Bic
+FFC 0 0 0 0
+1 0 0 |
+
+2 0 1 0
+
+3 0 i i
+
+op “g 4 1 0 0
+— 5 i 0 |
+
+6 | 1 0
+
+a i i i
+
+O/p of 8 0 0 0
+
+FFA —
+
+Fig. 9.6
 --- page 12 ---
 Solution: Truth Table 1M, K-Map 2M,Circuit Diagram 1M
 
@@ -968,6 +1078,63 @@ Any 4 appropriate points --- 4M
 Any 1 example each code --- 1M
 Binary to Gray Code: (5M)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+COMBINATIONAL CKT SEQUENTIAL CKT
+
+. Its output is determined by the 1. Its output is determined by the present
+present values of its input only. values of the input as well as past values
+
+. Itdoes not have a memory. of the output.
+
+. It does not have a feedback path 2. Ithas a memory and a feedback path
+from output to Input. from output to input.
+
+._ Its operation can be described by a 3. Its operation can be described by truth
+truth table. table and timing diagram.
+
+. It does not have a clock signal . 4. It may or may not have clock signal but
+
+. Its action does not depend on clock most sequential ckt have a clock signal.
+transition. 5. Its ckt is more complex than that of
+
+. Its ckt is simpler than that of combinational ckts.
+sequential logic ckt. 6. Itis built using basic gates and
+
+._ It built using basic gates i.e combinational logic ckts.
+
+NOT,AND,OR,NAND,NOR,XOR,XNOR 7. Ex:- flip flops, counters,shift registers.
+etc.
+
+. Ex:- Adder Subtractor,
+
+multiplexer, demux.decoder,compar
+
+ator,
+
+Weighted Codes Non-Weighted Codes
+
+Codes in which each bit position is assigned Codes in which no fixed weights are assigned
+a fixed weight or value. The total value of _ to bit positions. The value of the code word
+the code word is obtained by adding the cannot be directly obtained by adding bit
+
+weights of the bits that are 1. weights.
+
+Each digit has positional weight (like 8-4-2- Each digit does not represent a specific
+1). positional weight.
+
+Easy to perform arithmetic operations Difficult to perform arithmetic operations
+because weights correspond to actual directly.
+
+values.
+
+Less efficient for error detection. More efficient for error detection and
+
+correction purposes.
+Examples are: i) Binary code ii)BCDCode Examples are: i) Gray Code (used to prevent
+(weights: 8, 4, 2, 1) errors during transitions)
+ii) Excess-3 Code (each decimal digit
+represented by its 8, 4, 2, 1 code + 3)
 --- page 4 ---
 Circuit Diagram with process(3M) :
 B3 G3
@@ -1041,6 +1208,42 @@ A B C D   ABC   BC’D   A’BC   F = ABC + BC'D + A'BC   Minterm
 1   0   1   0   0   0   0   0
 1   0   1   1   0   0   0   0
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Step I The first bit MSB of the Gray code is the same as the first bit of the binary
+number.
+
+1 0 1 1 O Binary
+Y
+1 Gray
+
+Step 2. Add the first bit of the binary digit to the second bit of the binary. The addition of
+1 and 0 is 1. The result is the second bit of the Gray code.
+
+1 1 0 Binary
++
+
+1 1 Gray
+Step 3 Add the second bit 0 to the third bit 1 of the binary.
+! 1 0 Bin ra
++
+
+11 1 Gray
+
+Step 4 Add the third bit | to the fourth bit 1 and omit the carry. The exclusive OR addition
+of | and | is 0. This is the fourth bit of the Gray code.
+
+10 0 Binary
++
+
+11 0 Gray
+Step 5 Add the fourth bit | to the last bit of the binary.
+1o. Binary
++
+
+1110 1 Gray
+
+As the conversion is complete. the Gray code of the binary 10110 is 11101.
 --- page 6 ---
 1   1   0   0   0   0   0   0
 1   1   0   1   0   1   0   1   minterm 13
@@ -1059,6 +1262,17 @@ SO-   Definition of full Subtractor with block diagram(01Marks)
 BL-
 3   Any Valid Circuit diagram & working (03 Marks)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Full-subtractor Just like a full-adder, we require a full-subtractor circuit for performing multibit
+subtraction wherein a borrow from the previous bit position
+may also be there. A full-subtractor will have three inputs,
+A, (minuend), B, (subtrahend) and C,_, (borrow from the
+previous stage) and two outputs, D, (difference) and C,
+(borrow). Its truth table is given in Table 5.14. The K-map
+for the output D, is exactly same as the K-map for 5, of the
+adder circuit and therefore, its realisation is same as given
+in Fig. 5.2la.
 --- page 7 ---
 Table 5.14 Truth Table of a Full-subtractor
 
@@ -1251,6 +1465,26 @@ Then by observing value of D and output Y ,we can predict
 output Y whether it will be 0, 1,D, and D’
 *(D’ is D compliment or D Bar)
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Inputs Output
+
+A B Cc D Y
+0 0 0 0 0
+0 0 0 1 0
+pn 0 0 | 0 Fi
+0 0 1 1 0
+—_ (0
+0 1 0 1 0
+— ee I |
+amaue 0 eeeeli....d 2...
+1 0 0 0 0
+1 0 0 1 1
+po mr an I I 259
+= | nt... /....L...- r
+] 1 0 0 1
+1 1 0 1 0
+po en een We WI? |
 --- page 13 ---
 Q   b   List the types of registers and explain the operation of serial in-parallel out shift   [10]
 5   .   register with logic diagram. List of Register types(01 Marks)
@@ -1266,6 +1500,15 @@ Clock Q1 Q2 Q3 Q4
 3   0   1   1   0
 4   1   0   1   1
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+(ii) Second Method: A four variable truth table or logic expression can be realised by using an 8:1 multiplexer
+instead of a 16:1 multiplexer. For this, partition the truth table as shown by dotted lines, Here the inputs 4, B,
+and C are to be connected to S,, §, and S, select inputs respectively. Now, we observe the relationship between
+input D and output Y for each group of two rows. There are four possible values of Y and these are 0), 1, D, and
+D. These are given in Table 6.4. From this table, we note the output Y for each of the combinations of , B, and
+C, and then make the connections accordingly, The implementation of this function using an 8:1 multiplexer
+is shown in Fig, 6.4.
 --- page 14 ---
 Q   a. List and briefly explain all built-in datatypes in VHDL and give an example of each. Explain [10
 6   in detail structural style of modelling.   ]
@@ -1288,6 +1531,27 @@ hierarchical blocks, making it suitable for large-scale designs.
 Schematic-like: The code directly mirrors the structure of a circuit diagram with
 blocks (components) and lines (signals).
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Built-in Datatypes
+
+O Scalar (single valued) signal types:
+@ bit
+@ boolean
+@ integer
+= Examples:
+O A: in bit;
+O G: out boolean;
+O XK: out integer range -2**4 to 2**4-1;
+Oo Aggregate (collection) signal types:
+bit_vector: array of bits representing binary numbers
+: signed: array of bits representing signed binary numbers
+= Examples:
+OD: in bit_vector(0 to 7);
+O E: in bit_vector(7 downto 0);
+
+O M: in signed (4 downto 0);
+--signed 5 bit_vector binary number
 --- page 15 ---
 Component description: The individual components can be described using any
 modeling style, including behavioral or dataflow, as long as they are defined as a
@@ -1369,6 +1633,24 @@ SO-
 BL-
 2
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+The logic circuit of Mod-9 asynchronous counter is shown in Fj B58)
+
+Fig. 5.81 Mod-9 nine asynchronous counter
+
+The waveforms of Mod-9 ripple counter are shown in Fig. 5.82,
+
+ol ioe
+att ppt I Tk
+oj
+fio Pod do do Po EF
+
+t
+
+Flip-flop
+; is clear
+Fig. 5.82 Waveforms of Mod-9 ripple counter
 --- page 18 ---
 Q   b Show the implementation of AND & OR logic gates using NAND gates.   [05
 7   . AND and OR diagram using NAND gates with expression at output of each gate(2+3marks)   ]
@@ -1383,6 +1665,42 @@ OR gate using NAND
 Q   c. Explain the need of Master–Slave JK Flip-Flop. Illustrate the same with a logic diagram [05
 7   and truth table.   ]
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+BCD to seven segment decoder is a circuit used to convert the input BCD into a form
+suitable for the display. It has four input lines (A, B, C and D) and 7 output lines (a, b, ¢, d, e,
+f and g) as shown in Figure 3. Considering common cathode type of arrangement, the truth
+
+table for the decoder can be given as in Table I.
+
+| > _
+A—— -———> b
+B BCD-to-Seven ->———> ©
+
+BCD —_—4 segment _}+———>d Output lines
+Input lines Cc decoder |» e
+/—_———> f
+D——_ W————>
+
+Figure 3 BCD-to-Seven segment decoder
+
+Table I Truth table for common cathode type BCD to seven segment decoder
+
+[Decimal | Input lines Output lines Display
+Digit [A] B]C]D]a|]b|c[d]e]f]g| Pattern
+
+0 fO;O;ojortytytititjsioy B®
+1 7O/0)/0)170/1/1/0;0];0;0 !
+
+S [ee Peres ae eet
+
+This table indicates the segments which are to be driven high to obtain certain decimal digit
+at the output of the seven segment display. However, it is to be noted that in the case of
+common anode type, the only change will be to interchange ones and zeros on the table. This
+
+means that from the e so obtained one can get to know where low has to be driven
+
+so as to obtain the required digit at the output.
 --- page 19 ---
 CO-   Need (1M)– It should cover avoid of race around condition
 4;
@@ -1480,6 +1798,17 @@ SO-   and explain its working in brief.   ]
 BL-   Circuit diagram of 2-to-4-line decoder (3 Marks) and Truth table(2Marks)
 1,2
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Decoders
+
+on w W=A'B
+B—lo Out, — X X=AB'
+A—h Y=A'B
+msb Z=AB
+0 0 1 0 0 0
+0 1 0 1 0 0
+1 0 0 0 1 0
 --- page 3 ---
 CO- d Compare Combinational and Sequential logic circuits.   [05
 4;
@@ -1499,6 +1828,58 @@ Any 4 appropriate points --- 4M
 Any 1 example each code --- 1M
 Binary to Gray Code: (5M)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+COMBINATIONAL CKT SEQUENTIAL CKT
+
+Its output Is determined by the 1. Its output is determined by the present
+present values of its input only. values of the input as well as past values
+It does not have a memory. of the output.
+
+It does not have a feedback path 2. Ithas a memory and a feedback path
+from output to input. from output to input.
+
+Its operation can be described by a 3. Its operation can be described by truth
+truth table. table and timing diagram.
+
+It does not have a clock signal . 4. It may or may not have clock signal but
+Its action does not depend on clock most sequential ckt have a clock signal.
+transition. 5. Its ckt is more complex than that of
+
+Its ckt is simpler than that of combinational ckts.
+
+sequential logic ckt. 6. It is built using basic gates and
+
+It built using basic gates i.e combinational logic ckts.
+
+NOT.AND,OR,NAND,NOR,XOR,XNOR 7. Ex: flip flops, counters.shift registers.
+etc.
+
+Ex:- Adder, Subtractor,
+
+Weighted Codes Non-Weighted Codes
+
+Codes in which each bit position is assigned Codes in which no fixed weights are assigned
+a fixed weight or value. The total value of _ to bit positions. The value of the code word
+the code word is obtained by adding the cannot be directly obtained by adding bit
+
+weights of the bits that are 1. weights.
+
+Each digit has positional weight (like 8-4-2- Each digit does not represent a specific
+1). positional weight.
+
+Easy to perform arithmetic operations Difficult to perform arithmetic operations
+because weights correspond to actual directly.
+
+values.
+
+Less efficient for error detection. More efficient for error detection and
+
+correction purposes.
+Examples are: i) Binary code ii)BCD Code Examples are: i) Gray Code (used to prevent
+(weights: 8, 4, 2, 1) errors during transitions)
+ii) Excess-3 Code (each decimal digit
+represented by its 8, 4, 2, 1 code + 3)
 --- page 4 ---
 Circuit Diagram with process(3M) :
 B3 G3
@@ -1569,6 +1950,43 @@ A B C D   ABC   BC’D   A’BC   F = ABC + BC'D + A'BC   Minterm
 1   0   1   0   0   0   0   0
 1   0   1   1   0   0   0   0
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1 The first bit MSB of the Gray code is the same as the first bit of the binary
+number.
+
+1 0 1 1 O Binary
+Y
+1 Gray
+
+Step 2. Add the first bit of the binary digit to the second bit of the binary. The addition of
+1 and 0 is 1. The result is the second bit of the Gray code.
+
+11 0 Binary
+J
+
+1 1 Gray
+Step 3 Add the second bit 0 to the third bit 1 of the binary.
+
+1 @ 1) 1 0 Bin m
++
+
+11 1 Gray
+
+Step 4 Add the third bit | to the fourth bit 1 and omit the carry. The exclusive OR addition
+of | and | is 0. This is the fourth bit of the Gray code.
+
+10 0 Binary
+4
+11d 0 Gray
+
+Step 5 Add the fourth bit | to the last bit of the binary.
+
+1 0 1 U_©@_O} Binary
+Y
+11 10 1 Gray
+
+As the conversion is complete, the Gray code of the binary 10110 is 11101.
 --- page 6 ---
 1   1   0   0   0   0   0   0
 1   1   0   1   0   1   0   1   minterm 13
@@ -1587,6 +2005,17 @@ SO-   Definition of full Subtractor with block diagram(01Marks)
 BL-
 3   Any Valid Circuit diagram & working (03 Marks)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Full-subtractor Just like a full-adder, we require a full-subtractor circuit for performing multibit
+subtraction wherein a borrow from the previous bit position
+may also be there. A full-subtractor will have three inputs,
+A, (minuend), B, (subtrahend) and C,_, (borrow from the
+previous stage) and two outputs, D, (difference) and C,
+(borrow). Its truth table is given in Table 5.14. The K-map
+for the output D, is exactly same as the K-map for S, of the
+adder circuit and therefore, its realisation is same as given
+in Fig. 5.21a.
 --- page 7 ---
 Table 5.14 Truth Table of a Full-subtractor
 
@@ -1645,6 +2074,17 @@ T   Q(t)   Q(t + 1)
 1   0   1
 1   1   0
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Full Subtractor Expression
+d=ABC+ABC+ABC+ABC
+b = AC+AB+BC
+Also,
+
+d=A@BOC} or |d= > m(1.2.3.7)
+
+b=ABC+ABC+ABC+ABC
+b=C(AQB)+AB
 --- page 9 ---
 We know that JK flip-flop has two inputs J & K. So, write down the excitation values
 of JK flip-flop for each combination of present state and next state values. The following
@@ -1769,6 +2209,26 @@ Then by observing value of D and output Y ,we can predict
 output Y whether it will be 0, 1,D, and D’
 *(D’ is D compliment or D Bar)
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Inputs Output
+
+A B Cc D Y
+0 0 0 0 0
+0 0 0 1 0
+— re = =—h—UmUmrm™t™~—S
+0 0 1 1 0
+— meme = ==
+0 1 0 1 0
+— rm = =)—hrerrrrtr—
+haenee 0........./.....1.___ |
+1 0 0 0 0
+1 0 0 1 1
+—— r 0 4 es 7.) Cl a ]
+Le... en
+1 1 0 0 1
+1 1 0 1 0
+po rod en — je ]
 --- page 13 ---
 Q   b   List the types of registers and explain the operation of serial in-parallel out shift   [10]
 5   .   register with logic diagram.
@@ -1784,6 +2244,28 @@ Clock Q1 Q2 Q3 Q4
 3   0   1   1   0
 4   1   0   1   1
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+(ii) Second Method: A four variable truth table or logic expression can be realised by using an 8:1 multiplexer
+instead of a 16:1 multiplexer. For this, partition the truth table as shown by dotted lines, Here the inputs 4, B,
+and C are to be connected to S,, §, and S, select inputs respectively. Now, we observe the relationship between
+input D and output Y for each group of two rows. There are four possible values of Y and these are 0), 1, D, and
+D. These are given in Table 6.4. From this table, we note the output Y for each of the combinations of A, B, and
+C, and then make the connections accordingly, The implementation of this function using an 8:1 multiplexer
+is shown in Fig, 6.4.
+
+Inputs Output
+
+B Cc Y
+0 0 0
+0 l D
+l 0 D
+1 1 1
+
+0 0 D
+0 1 1
+
+1 0 D
 --- page 14 ---
 Q   a. List and briefly explain all built-in datatypes in VHDL and give an example of each. Explain [10
 6   in detail structural style of modelling.   ]
@@ -1806,6 +2288,27 @@ hierarchical blocks, making it suitable for large-scale designs.
 Schematic-like: The code directly mirrors the structure of a circuit diagram with
 blocks (components) and lines (signals).
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Built-in Datatypes
+
+O Scalar (single valued) signal types:
+@ bit
+®@ boolean
+@ integer
+= Examples:
+O A: in bit;
+O G: out boolean;
+O kK: out integer range -2**4 to 2**4-1;
+Oo Aggregate (collection) signal types:
+bit_vector: array of bits representing binary numbers
+: signed: array of bits representing signed binary numbers
+= Examples:
+O D: in bit_vector(0 to 7);
+O EE: in bit_vector(7 downto 0);
+
+O M: in signed (4 downto 0);
+--signed 5 bit_vector binary number
 --- page 15 ---
 Component description: The individual components can be described using any
 modeling style, including behavioral or dataflow, as long as they are defined as a
@@ -1896,6 +2399,24 @@ SO-
 BL-
 2
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+The logic circuit of Mod-9 asynchronous counter is shown in Fj B58)
+
+Fig. 5.81 Mod-9 nine asynchronous counter
+
+The waveforms of Mod-9 ripple counter are shown in Fig. 5.82,
+
+a—! i LJ | | | N
+a H | ; ! ie
+Optptti [Ok
+oj
+PaoPod go fo go gk
+f
+
+Flip-flop
+; is clear
+Fig. 5.82 Waveforms of Mod-9 ripple counter
 --- page 18 ---
 Q   b Show the implementation of AND & OR logic gates using NAND gates.   [05
 7   . AND and OR diagram using NAND gates with expression at output of each gate(2+3marks)   ]
@@ -1910,6 +2431,41 @@ OR gate using NAND
 Q   c. Explain the need of Master–Slave JK Flip-Flop. Illustrate the same with a logic diagram [05
 7   and truth table.   ]
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+BCD to seven segment decoder is a circuit used to convert the input BCD into a form
+suitable for the display. It has four input lines (A, B, C and D) and 7 output lines (a, b, ¢, d, e,
+f and g) as shown in Figure 3. Considering common cathode type of arrangement, the truth
+
+table for the decoder can be given as in Table I.
+
+> a
+A——> [-———> b
+B BCD-to-Seven ->———>¢
+
+BCD ——> segment .}+———>d Output lines
+Input lines c decoder |» e
++> f
+D—— +> 9
+
+Figure 3 BCD-to-Seven segment decoder
+
+Table I Truth table for common cathode type BCD to seven segment decoder
+
+[Decimal | Input lines Output lines Display
+Digit [A] B)]Cc]D]a|b|c|d]e] tf] gj Pattern
+
+0 fO;O;Osoriryaititysjoy
+1 0;0;/0;1470/1/1)/0)0/0;0 !
+
+S (ee here eae etl
+
+This table indicates the segments which are to be driven high to obtain certain decimal digit
+at the output of the seven segment dis} . However, it is to be noted that in the case of
+common anode type, the only change will be to interchange ones and zeros on the table. This
+means that from the truth table so obtained one can get to know where low has to be driven
+
+so as to obtain the required digit at the output.
 --- page 19 ---
 CO-   Need (1M)– It should cover avoid of race around condition
 4;
@@ -1946,6 +2502,7 @@ Ans is -9   [1M]
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_IT_7001/Digital Logic Design/ANS_Digital Logic Design(702EX0C028)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Jul 2026
 - Text: text (15 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2104,6 +2661,44 @@ BL-3
 Conversion Table-04 Marks
 K-Map for S input-02 Marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Conversion Table
+
+J-K Inputs Outputs S-R Inputs
+ik Qp_ Qp+i |] S R
+0 0 0 0 0 x
+0 0 1 1 x te]
+0 1 i) 0 0 x
+0 1 1 0 0 1
+1 0 0 1 1 0
+1 it) 1 1 x i)
+1 1 0 4 5 0
+1 1 1 0 0 1
+< oo om it 10
+0 1 3
+0 i) x oO i}
+5 7
+x ie) i
+S =3Q
+
+K-Map
+
+Logic Diagram
+
+Ss Qe
+j
+c
+Ky
+R Qp-}
+K
+ae 10
+1 3 2
+x 0 [+ x
+5 7 6
+0 0 1 0
+
+R = KQp
 --- page 7 ---
 K-Map for R input-02 Marks
 Conversion Diagram-02Marks
@@ -2213,6 +2808,43 @@ Serial in Serial out (SISO) Shift Register
 Serial in parallel out (SIPO) Shift Register
 Parallel in Parallel out (PIPO) Shift Register
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+1 1
+
+oO o
+°
+Serial Input 1 ° 1 5
+D Q D Q D Q Serial
+Output
+Flip Flop 1 Flip Flop 2 Flip Flop 3 Flip Flop 4
+
+Clock
+
+Parallel Output
+
+Serial Input tT
+D Q
+
+beatae
+
+D Q
+
+Flip Flop 1 Flip Flop 2 Flip Flop 3 Flip Flop 4
+
+Clock
+
+Clear
+
+Lie oh -fo oh -Jo che 0
+
+Flip Flop 1 Flip Flop 2 Flip Flop 3 Flip Flop 4
+
+Clock
+
+ee ee
+
+Parallel Output
 --- page 11 ---
 Parallel in Serial out (PISO) Shift Register
 Q6   a. What are the important features of VHDL and develop VHDL code for implementing a   [10]
@@ -2253,6 +2885,18 @@ CO-4;   the sequence with the help of timing diagram.
 SO-1;
 BL-3   Solution:
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Parallel input
+
+\ fl
+IT i
+
+Flip flop 2 Flip flop 2 Flip flop Flip flop 4
+
+Serial Output
+
+Clock.
 --- page 12 ---
 To Design MOD-6 Asynchronous counter we needs 3 T flip-flops   ---(01 Mark)
 Qc QB   QA Output (Y)
@@ -2315,6 +2959,30 @@ BL-2
 Limitation of SR Flip-flop:- At S=R=1 condition we get invalid output or
 Indeterminate output. To overcome this limitation we use JK-Flipflop. -- 02Marks
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Q, One
+
+State
+
+No Change (NC)
+
+Reset
+
+Set
+
+Indeterminate
+
+1
+0 1)
+1 0
+Lt} 1
+1 1
+Qo x
+1
+0
+
+No Change (NC)
 --- page 15 ---
 Q7   d. Differentiate weighted and non-weighted code with the help of example - 01 mark each   [05]
 CO-1;
@@ -2335,6 +3003,7 @@ Simple to understand   Slightly complex
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/MBATech_IT_7041/Digital Logic Design/ANS_Digital Logic Design(702EX0C028)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Jul 2026
 - Text: text (15 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2493,6 +3162,44 @@ BL-3
 Conversion Table-04 Marks
 K-Map for S input-02 Marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Conversion Table
+
+J-K Inputs Outputs S-R Inputs
+ik Qp_ Qp+i |] S R
+0 0 0 0 0 x
+0 0 1 1 x te]
+0 1 i) 0 0 x
+0 1 1 0 0 1
+1 0 0 1 1 0
+1 it) 1 1 x i)
+1 1 0 4 5 0
+1 1 1 0 0 1
+< oo om it 10
+0 1 3
+0 i) x oO i}
+5 7
+x ie) i
+S =3Q
+
+K-Map
+
+Logic Diagram
+
+Ss Qe
+j
+c
+Ky
+R Qp-}
+K
+ae 10
+1 3 2
+x 0 [+ x
+5 7 6
+0 0 1 0
+
+R = KQp
 --- page 7 ---
 K-Map for R input-02 Marks
 Conversion Diagram-02Marks
@@ -2602,6 +3309,43 @@ Serial in Serial out (SISO) Shift Register
 Serial in parallel out (SIPO) Shift Register
 Parallel in Parallel out (PIPO) Shift Register
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+1 1
+
+oO o
+°
+Serial Input 1 ° 1 5
+D Q D Q D Q Serial
+Output
+Flip Flop 1 Flip Flop 2 Flip Flop 3 Flip Flop 4
+
+Clock
+
+Parallel Output
+
+Serial Input tT
+D Q
+
+beatae
+
+D Q
+
+Flip Flop 1 Flip Flop 2 Flip Flop 3 Flip Flop 4
+
+Clock
+
+Clear
+
+Lie oh -fo oh -Jo che 0
+
+Flip Flop 1 Flip Flop 2 Flip Flop 3 Flip Flop 4
+
+Clock
+
+ee ee
+
+Parallel Output
 --- page 11 ---
 Parallel in Serial out (PISO) Shift Register
 Q6   a. What are the important features of VHDL and develop VHDL code for implementing a   [10]
@@ -2642,6 +3386,18 @@ CO-4;   the sequence with the help of timing diagram.
 SO-1;
 BL-3   Solution:
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Parallel input
+
+\ fl
+IT i
+
+Flip flop 2 Flip flop 2 Flip flop Flip flop 4
+
+Serial Output
+
+Clock.
 --- page 12 ---
 To Design MOD-6 Asynchronous counter we needs 3 T flip-flops   ---(01 Mark)
 Qc QB   QA Output (Y)
@@ -2704,6 +3460,30 @@ BL-2
 Limitation of SR Flip-flop:- At S=R=1 condition we get invalid output or
 Indeterminate output. To overcome this limitation we use JK-Flipflop. -- 02Marks
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Q, One
+
+State
+
+No Change (NC)
+
+Reset
+
+Set
+
+Indeterminate
+
+1
+0 1)
+1 0
+Lt} 1
+1 1
+Qo x
+1
+0
+
+No Change (NC)
 --- page 15 ---
 Q7   d. Differentiate weighted and non-weighted code with the help of example - 01 mark each   [05]
 CO-1;
@@ -2724,6 +3504,7 @@ Simple to understand   Slightly complex
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_Computer_7002/Digital Logic Design/ANS_Digital Logic Design(702EX0C028)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Feb 2026
 - Text: text (20 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2787,6 +3568,19 @@ SO-1;
 BL-1,2   Ans:
 Circuit diagram of 1:4 demultiplexer (3 Marks) and Truth table(2Marks)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+by) Fo ABC + AIBC + ABC 4 ABC!+a)R)c)
+
+E F AR + Axel + ae |
+
+= ARCCcH+e!) + Aa’Ctcl) +Alac
+= AB yA\e)+aAlac
+=Ae+A)C8\4eC)
+
+= Agta” ‘CB) ye)
+
+By OR laws P+P’=1 and Distributive laws P+QR=(P+Q). (P+R). Mention laws applied at each
 --- page 3 ---
 De-Multiplexer is a combinational circuit that performs the reverse operation of
 Multiplexer. It has single input, ‘n’ selection lines and maximum of 2n outputs. The
@@ -2802,6 +3596,25 @@ The single input ‘I’ will be connected to one of the four outputs, Y3 to Y0 
 on the values of selection lines s1 & s0. The Truth table of 1x4 De-
 Multiplexer is shown below.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Selection Inputs
+
+S So Ys Yo
+0 0 0 0
+0 1 0 0
+1 0 0 |
+1 1 | 0
+
+From the above Truth table, we can directly write the Boolean functions for each output as
+
+Y3 = 81891
+Yo = 8189'I
+Y; = 81! s9I
+
+Yo = 81'89'I
+
+Outputs
 --- page 4 ---
 CO-4;   d. Compare synchronous counter and ripple counter.   [05]
 SO-1;
@@ -2832,6 +3645,18 @@ exity   and implementation is complex   flip-flop, hence its design
 as compared to that of an   and implementation is quite
 asynchronous counter.   simple.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+We can implement these Boolean functions using Inverters & 3-input AND gates. The circuit diagram of 1x4 De-Multiplexer is
+shown in the following figure.
+
+I
+
+St
+
+So I Y3
+Y2
+V4
 --- page 5 ---
 A Synchronous counter can be   An Asynchronous counter
 operated in any desired count   can operate only in a fixed
@@ -2894,6 +3719,15 @@ logical expressions: (1M)
 B3 = G3
 Conversion and correct answer (1M):
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Conversion from gray code to binary
+Conversion of a Gray code into its binary form involves the reverse of the procedure given
+above:
+(i) The first binary bit (MSB) is the same as that of the first Gray code bit.
+(ii) Ifthe second Gray bit is 0, the second binary bit is the same as that of the first binary;
+if the second Gray bit is 1, the second binary bit is the inverse of its first binary bit.
+(iii) Step 2 is repeated for each successive bit.
 --- page 7 ---
 Ans: 10011
 Q2   b. Define Minterm and Maxterm with one example each.   [10]
@@ -2908,6 +3742,31 @@ Maxterm:
 Canonical form: correct answer:
 Y = 𝐴𝐵+ 𝐴𝐶̅ + 𝐵𝐶
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Convert the Gray code 110101 to binary form.
+Solution:
+Step 1 Write the first binary bit 1 which is the MSB of the Gray code.
+
+1 101 0 1. Gray
++
+
+1 Binary
+
+Step 2 The second bit of the Gray code is | and therefore the second bit of the binary is
+0, i.e. inverse of the first binary bit “1”.
+
+1 1 0 1 0 1 Gray
+v
+1 > 0 Binary
+
+Step 3 The third bit of the Gray code is 0 and therefore the third bit of the binary is same
+as that of the second binary bit, i.c.0 .
+
+11 0 1 0 1. Gray
+7
+
+1075 0 Binary
 --- page 8 ---
 Q3   a. Design and explain full adder circuit using logic gates.
 CO-3;
@@ -2936,6 +3795,18 @@ CO-4;   Write the Conversion Logic and design table details - (Marks 5)
 SO-1; BL-3   Make K Map for getting input equation of SR flip flop - (Marks 3)
 Logic diagram of Conversion of Flip Flop - (Marks 2)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+© otep-i: ring the characteristics table of required tip-top and the excitation tabte of the existing (given) Tup-rop.
+¢ Step-2: Find the expression of given flip-flop in terms of required flip-flop using K-map.
+¢ Step-3: Find the circuit diagram of required flip-flop.
+
+S-R Flip-Flop to T Flip-Flop: Following is the characteristics table of T flip-flop and excitation table of S-R flip-flop.
+Excitation Table
+
+Characteristic Table
+
+Now, using K-map we get the expression for of S & R in terms of T.
 --- page 10 ---
 Q4   a. Solve the following expression using k-map & realize final expression   [10]
 CO-2;   i) using Basic gates   ii) using NAND gates only
@@ -2952,6 +3823,13 @@ F(A,B,C,D) = ∑ m(1,3,4,5,7,9,11,13,15)
 Y=A’BC’+D
 i) using Basic gates
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Now, using K-map we get the expression for of S & R in terms of T.
+
+S = TQn' & R = TQn Therefore, the circuit diagram for conversion of S-R flip-flop into T flip-flop is:
+
+CLK
 --- page 11 ---
 Similar ii) using NAND gates: AND-OR array in above circuit can be replaced with NAND-
 NAND array
@@ -3034,6 +3912,46 @@ BL-1,2   Marks:
 4 bit Bi-Directional Shift Register Diagram: 5 marks
 Operation : 5 marks
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+e@ If a binary number is shifted left by one position then it is equivalent to multiplying the
+original number by 2. Similarly if a binary number is shifted right by one position then it
+is equivalent to dividing the original number by 2.
+
+@ Hence if we want to use the shift register to multiply and divide the given binary number,
+then we should be able to move the data in either left or right direction.
+
+@ Such a register is called bi-directional register. A four bit bi-directional shift register is
+shown in fig.
+
+@ There are two serial inputs namely the serial right shift data input DR, and the serial left
+shift data input DL along with a mode select input (M).
+
+Block Diagram
+
+Mode control (M)
+
+Operation
+
+S.N. Condition Operation
+
+If M = 1, then the AND gates 1, 3, 5 and 7 are
+enabled whereas the remaining AND gates 2,
+4, 6 and 8 will be disabled.
+
+1 With M = 1 — Shift right operation The data at Dp is shifted to right bit by bit
+from FF-3 to FF-0 on the application of clock
+pulses. Thus with M = 1 we get the serial right
+shift operation.
+
+When the mode control M is connected to 0
+then the AND gates 2, 4, 6 and 8 are enabled
+while 1, 3, 5 and 7 are disabled.
+
+2 With M = 0 - Shift left operation The data at Dy, is shifted left bit by bit from FF-
+0 to FF-3 on the application of clock pulses.
+Thus with M = 0 we get the serial right shift
+operation.
 --- page 14 ---
 Q6   a.   List different modelling types in VHDL and explain any two with appropriate [10]
 CO-5;   examples.
@@ -3117,6 +4035,38 @@ SO-1;
 BL-2   Types of Encoder(1M)
 Priority encoder symbol/block diagram with concept(2M) and truth table(2M)
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Truth Table
+
+CLK Pulses| Qa | Qp | Qc
+Number A B C
+
+0 0 | 0] 0
+| 0}; oj} |
+2 0 1 | 0
+3 0 l |
+4 l 0} 0
+5 l 0} |
+6 | \ 0
+
+To decode the count 6, i.e. 110 we sie
+AND gate. The output of the AND gate
+flip-flops. The circuit diagram is shown
+
+nect the outputs of flip-flops A and B to, one:
+may be connected to the reset input of all the
+in figure 9.13(a).
+
+Cc
+
+A(MSD)
+Clock 1—fJ | eee
+pulse FF Qa Qs
+Ip— FF
+c B
+IK Qa) aK %
+RESET [CLR CLR
 --- page 17 ---
 Q7   b. Explain any one De-Morgan’s Theorem with the help of suitable circuit diagrams and [05]
 CO-2;   prove the theorem using truth table.
@@ -3138,6 +4088,32 @@ B   A   A + B   (A+B)’   A’   B’   A’.B’
 1   1   1   0   0   0   0
 NOR gate is equal to bubbled OR
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+PRIORITY ENCODER:
++ As the name indicates, the priority is given to inputs line.
+
+* Iftwo or more input lines are high at the same time i.e | at the same time,
+then the input line with high priority shall be considered.
+
+* Block diagram and Truth table of Priority Encoder are shown in fig.15
+
+Highest Priority
+
+TRUTH TABLE:
+
+Y, INPUTS OUTPUTS Vi
+Priority 1) 0 0 0 x x 0
+Encoder
+0 0 0 t 0 0 1
+Yo
+0 0 1 x 0 1 1
+0 1 x x 1 ) 1
+t Priority Output 1 x x x 1 1 1
+I
+Block Diagram of Priority Fig.15
+
+Encoder
 --- page 18 ---
 Q7   c. Explain the Race around condition in JK flip-flop and how it can be overcome.   [05]
 CO-4;   Draw Race Around condition occur in Sequential logic circuit and how it can be
@@ -3217,6 +4193,7 @@ Carry is not generated after addition.
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_CyberSecurity_7010/Digital Logic Design/ANS_Digital Logic Design(702EX0C028)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Feb 2026
 - Text: text (20 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3280,6 +4257,19 @@ SO-1;
 BL-1,2   Ans:
 Circuit diagram of 1:4 demultiplexer (3 Marks) and Truth table(2Marks)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+by) Fo ABC + AIBC + ABC 4 ABC!+a)R)c)
+
+E F AR + Axel + ae |
+
+= ARCCcH+e!) + Aa’Ctcl) +Alac
+= AB yA\e)+aAlac
+=Ae+A)C8\4eC)
+
+= Agta” ‘CB) ye)
+
+By OR laws P+P’=1 and Distributive laws P+QR=(P+Q). (P+R). Mention laws applied at each
 --- page 3 ---
 De-Multiplexer is a combinational circuit that performs the reverse operation of
 Multiplexer. It has single input, ‘n’ selection lines and maximum of 2n outputs. The
@@ -3295,6 +4285,25 @@ The single input ‘I’ will be connected to one of the four outputs, Y3 to Y0 
 on the values of selection lines s1 & s0. The Truth table of 1x4 De-
 Multiplexer is shown below.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Selection Inputs
+
+S So Ys Yo
+0 0 0 0
+0 1 0 0
+1 0 0 |
+1 1 | 0
+
+From the above Truth table, we can directly write the Boolean functions for each output as
+
+Y3 = 81891
+Yo = 8189'I
+Y; = 81! s9I
+
+Yo = 81'89'I
+
+Outputs
 --- page 4 ---
 CO-4;   d. Compare synchronous counter and ripple counter.   [05]
 SO-1;
@@ -3325,6 +4334,18 @@ exity   and implementation is complex   flip-flop, hence its design
 as compared to that of an   and implementation is quite
 asynchronous counter.   simple.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+We can implement these Boolean functions using Inverters & 3-input AND gates. The circuit diagram of 1x4 De-Multiplexer is
+shown in the following figure.
+
+I
+
+St
+
+So I Y3
+Y2
+V4
 --- page 5 ---
 A Synchronous counter can be   An Asynchronous counter
 operated in any desired count   can operate only in a fixed
@@ -3387,6 +4408,15 @@ logical expressions: (1M)
 B3 = G3
 Conversion and correct answer (1M):
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Conversion from gray code to binary
+Conversion of a Gray code into its binary form involves the reverse of the procedure given
+above:
+(i) The first binary bit (MSB) is the same as that of the first Gray code bit.
+(ii) Ifthe second Gray bit is 0, the second binary bit is the same as that of the first binary;
+if the second Gray bit is 1, the second binary bit is the inverse of its first binary bit.
+(iii) Step 2 is repeated for each successive bit.
 --- page 7 ---
 Ans: 10011
 Q2   b. Define Minterm and Maxterm with one example each.   [10]
@@ -3401,6 +4431,31 @@ Maxterm:
 Canonical form: correct answer:
 Y = 𝐴𝐵+ 𝐴𝐶̅ + 𝐵𝐶
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Convert the Gray code 110101 to binary form.
+Solution:
+Step 1 Write the first binary bit 1 which is the MSB of the Gray code.
+
+1 101 0 1. Gray
++
+
+1 Binary
+
+Step 2 The second bit of the Gray code is | and therefore the second bit of the binary is
+0, i.e. inverse of the first binary bit “1”.
+
+1 1 0 1 0 1 Gray
+v
+1 > 0 Binary
+
+Step 3 The third bit of the Gray code is 0 and therefore the third bit of the binary is same
+as that of the second binary bit, i.c.0 .
+
+11 0 1 0 1. Gray
+7
+
+1075 0 Binary
 --- page 8 ---
 Q3   a. Design and explain full adder circuit using logic gates.
 CO-3;
@@ -3429,6 +4484,18 @@ CO-4;   Write the Conversion Logic and design table details - (Marks 5)
 SO-1; BL-3   Make K Map for getting input equation of SR flip flop - (Marks 3)
 Logic diagram of Conversion of Flip Flop - (Marks 2)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+© otep-i: ring the characteristics table of required tip-top and the excitation tabte of the existing (given) Tup-rop.
+¢ Step-2: Find the expression of given flip-flop in terms of required flip-flop using K-map.
+¢ Step-3: Find the circuit diagram of required flip-flop.
+
+S-R Flip-Flop to T Flip-Flop: Following is the characteristics table of T flip-flop and excitation table of S-R flip-flop.
+Excitation Table
+
+Characteristic Table
+
+Now, using K-map we get the expression for of S & R in terms of T.
 --- page 10 ---
 Q4   a. Solve the following expression using k-map & realize final expression   [10]
 CO-2;   i) using Basic gates   ii) using NAND gates only
@@ -3445,6 +4512,13 @@ F(A,B,C,D) = ∑ m(1,3,4,5,7,9,11,13,15)
 Y=A’BC’+D
 i) using Basic gates
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Now, using K-map we get the expression for of S & R in terms of T.
+
+S = TQn' & R = TQn Therefore, the circuit diagram for conversion of S-R flip-flop into T flip-flop is:
+
+CLK
 --- page 11 ---
 Similar ii) using NAND gates: AND-OR array in above circuit can be replaced with NAND-
 NAND array
@@ -3527,6 +4601,46 @@ BL-1,2   Marks:
 4 bit Bi-Directional Shift Register Diagram: 5 marks
 Operation : 5 marks
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+e@ If a binary number is shifted left by one position then it is equivalent to multiplying the
+original number by 2. Similarly if a binary number is shifted right by one position then it
+is equivalent to dividing the original number by 2.
+
+@ Hence if we want to use the shift register to multiply and divide the given binary number,
+then we should be able to move the data in either left or right direction.
+
+@ Such a register is called bi-directional register. A four bit bi-directional shift register is
+shown in fig.
+
+@ There are two serial inputs namely the serial right shift data input DR, and the serial left
+shift data input DL along with a mode select input (M).
+
+Block Diagram
+
+Mode control (M)
+
+Operation
+
+S.N. Condition Operation
+
+If M = 1, then the AND gates 1, 3, 5 and 7 are
+enabled whereas the remaining AND gates 2,
+4, 6 and 8 will be disabled.
+
+1 With M = 1 — Shift right operation The data at Dp is shifted to right bit by bit
+from FF-3 to FF-0 on the application of clock
+pulses. Thus with M = 1 we get the serial right
+shift operation.
+
+When the mode control M is connected to 0
+then the AND gates 2, 4, 6 and 8 are enabled
+while 1, 3, 5 and 7 are disabled.
+
+2 With M = 0 - Shift left operation The data at Dy, is shifted left bit by bit from FF-
+0 to FF-3 on the application of clock pulses.
+Thus with M = 0 we get the serial right shift
+operation.
 --- page 14 ---
 Q6   a.   List different modelling types in VHDL and explain any two with appropriate [10]
 CO-5;   examples.
@@ -3610,6 +4724,38 @@ SO-1;
 BL-2   Types of Encoder(1M)
 Priority encoder symbol/block diagram with concept(2M) and truth table(2M)
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Truth Table
+
+CLK Pulses| Qa | Qp | Qc
+Number A B C
+
+0 0 | 0] 0
+| 0}; oj} |
+2 0 1 | 0
+3 0 l |
+4 l 0} 0
+5 l 0} |
+6 | \ 0
+
+To decode the count 6, i.e. 110 we sie
+AND gate. The output of the AND gate
+flip-flops. The circuit diagram is shown
+
+nect the outputs of flip-flops A and B to, one:
+may be connected to the reset input of all the
+in figure 9.13(a).
+
+Cc
+
+A(MSD)
+Clock 1—fJ | eee
+pulse FF Qa Qs
+Ip— FF
+c B
+IK Qa) aK %
+RESET [CLR CLR
 --- page 17 ---
 Q7   b. Explain any one De-Morgan’s Theorem with the help of suitable circuit diagrams and [05]
 CO-2;   prove the theorem using truth table.
@@ -3631,6 +4777,32 @@ B   A   A + B   (A+B)’   A’   B’   A’.B’
 1   1   1   0   0   0   0
 NOR gate is equal to bubbled OR
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+PRIORITY ENCODER:
++ As the name indicates, the priority is given to inputs line.
+
+* Iftwo or more input lines are high at the same time i.e | at the same time,
+then the input line with high priority shall be considered.
+
+* Block diagram and Truth table of Priority Encoder are shown in fig.15
+
+Highest Priority
+
+TRUTH TABLE:
+
+Y, INPUTS OUTPUTS Vi
+Priority 1) 0 0 0 x x 0
+Encoder
+0 0 0 t 0 0 1
+Yo
+0 0 1 x 0 1 1
+0 1 x x 1 ) 1
+t Priority Output 1 x x x 1 1 1
+I
+Block Diagram of Priority Fig.15
+
+Encoder
 --- page 18 ---
 Q7   c. Explain the Race around condition in JK flip-flop and how it can be overcome.   [05]
 CO-4;   Draw Race Around condition occur in Sequential logic circuit and how it can be
@@ -3710,6 +4882,7 @@ Carry is not generated after addition.
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_EXTC_7006/Digital Logic Design/ANS_Digital Logic Design(702EX0C028)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Feb 2026
 - Text: text (20 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3773,6 +4946,19 @@ SO-1;
 BL-1,2   Ans:
 Circuit diagram of 1:4 demultiplexer (3 Marks) and Truth table(2Marks)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+by) Fo ABC + AIBC + ABC 4 ABC!+a)R)c)
+
+E F AR + Axel + ae |
+
+= ARCCcH+e!) + Aa’Ctcl) +Alac
+= AB yA\e)+aAlac
+=Ae+A)C8\4eC)
+
+= Agta” ‘CB) ye)
+
+By OR laws P+P’=1 and Distributive laws P+QR=(P+Q). (P+R). Mention laws applied at each
 --- page 3 ---
 De-Multiplexer is a combinational circuit that performs the reverse operation of
 Multiplexer. It has single input, ‘n’ selection lines and maximum of 2n outputs. The
@@ -3788,6 +4974,25 @@ The single input ‘I’ will be connected to one of the four outputs, Y3 to Y0 
 on the values of selection lines s1 & s0. The Truth table of 1x4 De-
 Multiplexer is shown below.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Selection Inputs
+
+S So Ys Yo
+0 0 0 0
+0 1 0 0
+1 0 0 |
+1 1 | 0
+
+From the above Truth table, we can directly write the Boolean functions for each output as
+
+Y3 = 81891
+Yo = 8189'I
+Y; = 81! s9I
+
+Yo = 81'89'I
+
+Outputs
 --- page 4 ---
 CO-4;   d. Compare synchronous counter and ripple counter.   [05]
 SO-1;
@@ -3818,6 +5023,18 @@ exity   and implementation is complex   flip-flop, hence its design
 as compared to that of an   and implementation is quite
 asynchronous counter.   simple.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+We can implement these Boolean functions using Inverters & 3-input AND gates. The circuit diagram of 1x4 De-Multiplexer is
+shown in the following figure.
+
+I
+
+St
+
+So I Y3
+Y2
+V4
 --- page 5 ---
 A Synchronous counter can be   An Asynchronous counter
 operated in any desired count   can operate only in a fixed
@@ -3880,6 +5097,15 @@ logical expressions: (1M)
 B3 = G3
 Conversion and correct answer (1M):
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Conversion from gray code to binary
+Conversion of a Gray code into its binary form involves the reverse of the procedure given
+above:
+(i) The first binary bit (MSB) is the same as that of the first Gray code bit.
+(ii) Ifthe second Gray bit is 0, the second binary bit is the same as that of the first binary;
+if the second Gray bit is 1, the second binary bit is the inverse of its first binary bit.
+(iii) Step 2 is repeated for each successive bit.
 --- page 7 ---
 Ans: 10011
 Q2   b. Define Minterm and Maxterm with one example each.   [10]
@@ -3894,6 +5120,31 @@ Maxterm:
 Canonical form: correct answer:
 Y = 𝐴𝐵+ 𝐴𝐶̅ + 𝐵𝐶
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Convert the Gray code 110101 to binary form.
+Solution:
+Step 1 Write the first binary bit 1 which is the MSB of the Gray code.
+
+1 101 0 1. Gray
++
+
+1 Binary
+
+Step 2 The second bit of the Gray code is | and therefore the second bit of the binary is
+0, i.e. inverse of the first binary bit “1”.
+
+1 1 0 1 0 1 Gray
+v
+1 > 0 Binary
+
+Step 3 The third bit of the Gray code is 0 and therefore the third bit of the binary is same
+as that of the second binary bit, i.c.0 .
+
+11 0 1 0 1. Gray
+7
+
+1075 0 Binary
 --- page 8 ---
 Q3   a. Design and explain full adder circuit using logic gates.
 CO-3;
@@ -3922,6 +5173,18 @@ CO-4;   Write the Conversion Logic and design table details - (Marks 5)
 SO-1; BL-3   Make K Map for getting input equation of SR flip flop - (Marks 3)
 Logic diagram of Conversion of Flip Flop - (Marks 2)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+© otep-i: ring the characteristics table of required tip-top and the excitation tabte of the existing (given) Tup-rop.
+¢ Step-2: Find the expression of given flip-flop in terms of required flip-flop using K-map.
+¢ Step-3: Find the circuit diagram of required flip-flop.
+
+S-R Flip-Flop to T Flip-Flop: Following is the characteristics table of T flip-flop and excitation table of S-R flip-flop.
+Excitation Table
+
+Characteristic Table
+
+Now, using K-map we get the expression for of S & R in terms of T.
 --- page 10 ---
 Q4   a. Solve the following expression using k-map & realize final expression   [10]
 CO-2;   i) using Basic gates   ii) using NAND gates only
@@ -3938,6 +5201,13 @@ F(A,B,C,D) = ∑ m(1,3,4,5,7,9,11,13,15)
 Y=A’BC’+D
 i) using Basic gates
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Now, using K-map we get the expression for of S & R in terms of T.
+
+S = TQn' & R = TQn Therefore, the circuit diagram for conversion of S-R flip-flop into T flip-flop is:
+
+CLK
 --- page 11 ---
 Similar ii) using NAND gates: AND-OR array in above circuit can be replaced with NAND-
 NAND array
@@ -4020,6 +5290,46 @@ BL-1,2   Marks:
 4 bit Bi-Directional Shift Register Diagram: 5 marks
 Operation : 5 marks
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+e@ If a binary number is shifted left by one position then it is equivalent to multiplying the
+original number by 2. Similarly if a binary number is shifted right by one position then it
+is equivalent to dividing the original number by 2.
+
+@ Hence if we want to use the shift register to multiply and divide the given binary number,
+then we should be able to move the data in either left or right direction.
+
+@ Such a register is called bi-directional register. A four bit bi-directional shift register is
+shown in fig.
+
+@ There are two serial inputs namely the serial right shift data input DR, and the serial left
+shift data input DL along with a mode select input (M).
+
+Block Diagram
+
+Mode control (M)
+
+Operation
+
+S.N. Condition Operation
+
+If M = 1, then the AND gates 1, 3, 5 and 7 are
+enabled whereas the remaining AND gates 2,
+4, 6 and 8 will be disabled.
+
+1 With M = 1 — Shift right operation The data at Dp is shifted to right bit by bit
+from FF-3 to FF-0 on the application of clock
+pulses. Thus with M = 1 we get the serial right
+shift operation.
+
+When the mode control M is connected to 0
+then the AND gates 2, 4, 6 and 8 are enabled
+while 1, 3, 5 and 7 are disabled.
+
+2 With M = 0 - Shift left operation The data at Dy, is shifted left bit by bit from FF-
+0 to FF-3 on the application of clock pulses.
+Thus with M = 0 we get the serial right shift
+operation.
 --- page 14 ---
 Q6   a.   List different modelling types in VHDL and explain any two with appropriate [10]
 CO-5;   examples.
@@ -4103,6 +5413,38 @@ SO-1;
 BL-2   Types of Encoder(1M)
 Priority encoder symbol/block diagram with concept(2M) and truth table(2M)
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Truth Table
+
+CLK Pulses| Qa | Qp | Qc
+Number A B C
+
+0 0 | 0] 0
+| 0}; oj} |
+2 0 1 | 0
+3 0 l |
+4 l 0} 0
+5 l 0} |
+6 | \ 0
+
+To decode the count 6, i.e. 110 we sie
+AND gate. The output of the AND gate
+flip-flops. The circuit diagram is shown
+
+nect the outputs of flip-flops A and B to, one:
+may be connected to the reset input of all the
+in figure 9.13(a).
+
+Cc
+
+A(MSD)
+Clock 1—fJ | eee
+pulse FF Qa Qs
+Ip— FF
+c B
+IK Qa) aK %
+RESET [CLR CLR
 --- page 17 ---
 Q7   b. Explain any one De-Morgan’s Theorem with the help of suitable circuit diagrams and [05]
 CO-2;   prove the theorem using truth table.
@@ -4124,6 +5466,32 @@ B   A   A + B   (A+B)’   A’   B’   A’.B’
 1   1   1   0   0   0   0
 NOR gate is equal to bubbled OR
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+PRIORITY ENCODER:
++ As the name indicates, the priority is given to inputs line.
+
+* Iftwo or more input lines are high at the same time i.e | at the same time,
+then the input line with high priority shall be considered.
+
+* Block diagram and Truth table of Priority Encoder are shown in fig.15
+
+Highest Priority
+
+TRUTH TABLE:
+
+Y, INPUTS OUTPUTS Vi
+Priority 1) 0 0 0 x x 0
+Encoder
+0 0 0 t 0 0 1
+Yo
+0 0 1 x 0 1 1
+0 1 x x 1 ) 1
+t Priority Output 1 x x x 1 1 1
+I
+Block Diagram of Priority Fig.15
+
+Encoder
 --- page 18 ---
 Q7   c. Explain the Race around condition in JK flip-flop and how it can be overcome.   [05]
 CO-4;   Draw Race Around condition occur in Sequential logic circuit and how it can be
@@ -4203,6 +5571,7 @@ Carry is not generated after addition.
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_IT_7001/Digital Logic Design/ANS_Digital Logic Design(702EX0C028)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Feb 2026
 - Text: text (20 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -4266,6 +5635,19 @@ SO-1;
 BL-1,2   Ans:
 Circuit diagram of 1:4 demultiplexer (3 Marks) and Truth table(2Marks)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+by) Fo ABC + AIBC + ABC 4 ABC!+a)R)c)
+
+E F AR + Axel + ae |
+
+= ARCCcH+e!) + Aa’Ctcl) +Alac
+= AB yA\e)+aAlac
+=Ae+A)C8\4eC)
+
+= Agta” ‘CB) ye)
+
+By OR laws P+P’=1 and Distributive laws P+QR=(P+Q). (P+R). Mention laws applied at each
 --- page 3 ---
 De-Multiplexer is a combinational circuit that performs the reverse operation of
 Multiplexer. It has single input, ‘n’ selection lines and maximum of 2n outputs. The
@@ -4281,6 +5663,25 @@ The single input ‘I’ will be connected to one of the four outputs, Y3 to Y0 
 on the values of selection lines s1 & s0. The Truth table of 1x4 De-
 Multiplexer is shown below.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Selection Inputs
+
+S So Ys Yo
+0 0 0 0
+0 1 0 0
+1 0 0 |
+1 1 | 0
+
+From the above Truth table, we can directly write the Boolean functions for each output as
+
+Y3 = 81891
+Yo = 8189'I
+Y; = 81! s9I
+
+Yo = 81'89'I
+
+Outputs
 --- page 4 ---
 CO-4;   d. Compare synchronous counter and ripple counter.   [05]
 SO-1;
@@ -4311,6 +5712,18 @@ exity   and implementation is complex   flip-flop, hence its design
 as compared to that of an   and implementation is quite
 asynchronous counter.   simple.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+We can implement these Boolean functions using Inverters & 3-input AND gates. The circuit diagram of 1x4 De-Multiplexer is
+shown in the following figure.
+
+I
+
+St
+
+So I Y3
+Y2
+V4
 --- page 5 ---
 A Synchronous counter can be   An Asynchronous counter
 operated in any desired count   can operate only in a fixed
@@ -4373,6 +5786,15 @@ logical expressions: (1M)
 B3 = G3
 Conversion and correct answer (1M):
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Conversion from gray code to binary
+Conversion of a Gray code into its binary form involves the reverse of the procedure given
+above:
+(i) The first binary bit (MSB) is the same as that of the first Gray code bit.
+(ii) Ifthe second Gray bit is 0, the second binary bit is the same as that of the first binary;
+if the second Gray bit is 1, the second binary bit is the inverse of its first binary bit.
+(iii) Step 2 is repeated for each successive bit.
 --- page 7 ---
 Ans: 10011
 Q2   b. Define Minterm and Maxterm with one example each.   [10]
@@ -4387,6 +5809,31 @@ Maxterm:
 Canonical form: correct answer:
 Y = 𝐴𝐵+ 𝐴𝐶̅ + 𝐵𝐶
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Convert the Gray code 110101 to binary form.
+Solution:
+Step 1 Write the first binary bit 1 which is the MSB of the Gray code.
+
+1 101 0 1. Gray
++
+
+1 Binary
+
+Step 2 The second bit of the Gray code is | and therefore the second bit of the binary is
+0, i.e. inverse of the first binary bit “1”.
+
+1 1 0 1 0 1 Gray
+v
+1 > 0 Binary
+
+Step 3 The third bit of the Gray code is 0 and therefore the third bit of the binary is same
+as that of the second binary bit, i.c.0 .
+
+11 0 1 0 1. Gray
+7
+
+1075 0 Binary
 --- page 8 ---
 Q3   a. Design and explain full adder circuit using logic gates.
 CO-3;
@@ -4415,6 +5862,18 @@ CO-4;   Write the Conversion Logic and design table details - (Marks 5)
 SO-1; BL-3   Make K Map for getting input equation of SR flip flop - (Marks 3)
 Logic diagram of Conversion of Flip Flop - (Marks 2)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+© otep-i: ring the characteristics table of required tip-top and the excitation tabte of the existing (given) Tup-rop.
+¢ Step-2: Find the expression of given flip-flop in terms of required flip-flop using K-map.
+¢ Step-3: Find the circuit diagram of required flip-flop.
+
+S-R Flip-Flop to T Flip-Flop: Following is the characteristics table of T flip-flop and excitation table of S-R flip-flop.
+Excitation Table
+
+Characteristic Table
+
+Now, using K-map we get the expression for of S & R in terms of T.
 --- page 10 ---
 Q4   a. Solve the following expression using k-map & realize final expression   [10]
 CO-2;   i) using Basic gates   ii) using NAND gates only
@@ -4431,6 +5890,13 @@ F(A,B,C,D) = ∑ m(1,3,4,5,7,9,11,13,15)
 Y=A’BC’+D
 i) using Basic gates
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Now, using K-map we get the expression for of S & R in terms of T.
+
+S = TQn' & R = TQn Therefore, the circuit diagram for conversion of S-R flip-flop into T flip-flop is:
+
+CLK
 --- page 11 ---
 Similar ii) using NAND gates: AND-OR array in above circuit can be replaced with NAND-
 NAND array
@@ -4513,6 +5979,46 @@ BL-1,2   Marks:
 4 bit Bi-Directional Shift Register Diagram: 5 marks
 Operation : 5 marks
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+e@ If a binary number is shifted left by one position then it is equivalent to multiplying the
+original number by 2. Similarly if a binary number is shifted right by one position then it
+is equivalent to dividing the original number by 2.
+
+@ Hence if we want to use the shift register to multiply and divide the given binary number,
+then we should be able to move the data in either left or right direction.
+
+@ Such a register is called bi-directional register. A four bit bi-directional shift register is
+shown in fig.
+
+@ There are two serial inputs namely the serial right shift data input DR, and the serial left
+shift data input DL along with a mode select input (M).
+
+Block Diagram
+
+Mode control (M)
+
+Operation
+
+S.N. Condition Operation
+
+If M = 1, then the AND gates 1, 3, 5 and 7 are
+enabled whereas the remaining AND gates 2,
+4, 6 and 8 will be disabled.
+
+1 With M = 1 — Shift right operation The data at Dp is shifted to right bit by bit
+from FF-3 to FF-0 on the application of clock
+pulses. Thus with M = 1 we get the serial right
+shift operation.
+
+When the mode control M is connected to 0
+then the AND gates 2, 4, 6 and 8 are enabled
+while 1, 3, 5 and 7 are disabled.
+
+2 With M = 0 - Shift left operation The data at Dy, is shifted left bit by bit from FF-
+0 to FF-3 on the application of clock pulses.
+Thus with M = 0 we get the serial right shift
+operation.
 --- page 14 ---
 Q6   a.   List different modelling types in VHDL and explain any two with appropriate [10]
 CO-5;   examples.
@@ -4596,6 +6102,38 @@ SO-1;
 BL-2   Types of Encoder(1M)
 Priority encoder symbol/block diagram with concept(2M) and truth table(2M)
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Truth Table
+
+CLK Pulses| Qa | Qp | Qc
+Number A B C
+
+0 0 | 0] 0
+| 0}; oj} |
+2 0 1 | 0
+3 0 l |
+4 l 0} 0
+5 l 0} |
+6 | \ 0
+
+To decode the count 6, i.e. 110 we sie
+AND gate. The output of the AND gate
+flip-flops. The circuit diagram is shown
+
+nect the outputs of flip-flops A and B to, one:
+may be connected to the reset input of all the
+in figure 9.13(a).
+
+Cc
+
+A(MSD)
+Clock 1—fJ | eee
+pulse FF Qa Qs
+Ip— FF
+c B
+IK Qa) aK %
+RESET [CLR CLR
 --- page 17 ---
 Q7   b. Explain any one De-Morgan’s Theorem with the help of suitable circuit diagrams and [05]
 CO-2;   prove the theorem using truth table.
@@ -4617,6 +6155,32 @@ B   A   A + B   (A+B)’   A’   B’   A’.B’
 1   1   1   0   0   0   0
 NOR gate is equal to bubbled OR
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+PRIORITY ENCODER:
++ As the name indicates, the priority is given to inputs line.
+
+* Iftwo or more input lines are high at the same time i.e | at the same time,
+then the input line with high priority shall be considered.
+
+* Block diagram and Truth table of Priority Encoder are shown in fig.15
+
+Highest Priority
+
+TRUTH TABLE:
+
+Y, INPUTS OUTPUTS Vi
+Priority 1) 0 0 0 x x 0
+Encoder
+0 0 0 t 0 0 1
+Yo
+0 0 1 x 0 1 1
+0 1 x x 1 ) 1
+t Priority Output 1 x x x 1 1 1
+I
+Block Diagram of Priority Fig.15
+
+Encoder
 --- page 18 ---
 Q7   c. Explain the Race around condition in JK flip-flop and how it can be overcome.   [05]
 CO-4;   Draw Race Around condition occur in Sequential logic circuit and how it can be
@@ -4696,6 +6260,7 @@ Carry is not generated after addition.
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_Mechatronics_7004/Digital Logic Design/ANS_Digital Logic Design(702EX0C028)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Feb 2026
 - Text: text (20 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -4759,6 +6324,19 @@ SO-1;
 BL-1,2   Ans:
 Circuit diagram of 1:4 demultiplexer (3 Marks) and Truth table(2Marks)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+by) Fo ABC + AIBC + ABC 4 ABC!+a)R)c)
+
+E F AR + Axel + ae |
+
+= ARCCcH+e!) + Aa’Ctcl) +Alac
+= AB yA\e)+aAlac
+=Ae+A)C8\4eC)
+
+= Agta” ‘CB) ye)
+
+By OR laws P+P’=1 and Distributive laws P+QR=(P+Q). (P+R). Mention laws applied at each
 --- page 3 ---
 De-Multiplexer is a combinational circuit that performs the reverse operation of
 Multiplexer. It has single input, ‘n’ selection lines and maximum of 2n outputs. The
@@ -4774,6 +6352,25 @@ The single input ‘I’ will be connected to one of the four outputs, Y3 to Y0 
 on the values of selection lines s1 & s0. The Truth table of 1x4 De-
 Multiplexer is shown below.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Selection Inputs
+
+S So Ys Yo
+0 0 0 0
+0 1 0 0
+1 0 0 |
+1 1 | 0
+
+From the above Truth table, we can directly write the Boolean functions for each output as
+
+Y3 = 81891
+Yo = 8189'I
+Y; = 81! s9I
+
+Yo = 81'89'I
+
+Outputs
 --- page 4 ---
 CO-4;   d. Compare synchronous counter and ripple counter.   [05]
 SO-1;
@@ -4804,6 +6401,18 @@ exity   and implementation is complex   flip-flop, hence its design
 as compared to that of an   and implementation is quite
 asynchronous counter.   simple.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+We can implement these Boolean functions using Inverters & 3-input AND gates. The circuit diagram of 1x4 De-Multiplexer is
+shown in the following figure.
+
+I
+
+St
+
+So I Y3
+Y2
+V4
 --- page 5 ---
 A Synchronous counter can be   An Asynchronous counter
 operated in any desired count   can operate only in a fixed
@@ -4866,6 +6475,15 @@ logical expressions: (1M)
 B3 = G3
 Conversion and correct answer (1M):
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Conversion from gray code to binary
+Conversion of a Gray code into its binary form involves the reverse of the procedure given
+above:
+(i) The first binary bit (MSB) is the same as that of the first Gray code bit.
+(ii) Ifthe second Gray bit is 0, the second binary bit is the same as that of the first binary;
+if the second Gray bit is 1, the second binary bit is the inverse of its first binary bit.
+(iii) Step 2 is repeated for each successive bit.
 --- page 7 ---
 Ans: 10011
 Q2   b. Define Minterm and Maxterm with one example each.   [10]
@@ -4880,6 +6498,31 @@ Maxterm:
 Canonical form: correct answer:
 Y = 𝐴𝐵+ 𝐴𝐶̅ + 𝐵𝐶
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Convert the Gray code 110101 to binary form.
+Solution:
+Step 1 Write the first binary bit 1 which is the MSB of the Gray code.
+
+1 101 0 1. Gray
++
+
+1 Binary
+
+Step 2 The second bit of the Gray code is | and therefore the second bit of the binary is
+0, i.e. inverse of the first binary bit “1”.
+
+1 1 0 1 0 1 Gray
+v
+1 > 0 Binary
+
+Step 3 The third bit of the Gray code is 0 and therefore the third bit of the binary is same
+as that of the second binary bit, i.c.0 .
+
+11 0 1 0 1. Gray
+7
+
+1075 0 Binary
 --- page 8 ---
 Q3   a. Design and explain full adder circuit using logic gates.
 CO-3;
@@ -4908,6 +6551,18 @@ CO-4;   Write the Conversion Logic and design table details - (Marks 5)
 SO-1; BL-3   Make K Map for getting input equation of SR flip flop - (Marks 3)
 Logic diagram of Conversion of Flip Flop - (Marks 2)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+© otep-i: ring the characteristics table of required tip-top and the excitation tabte of the existing (given) Tup-rop.
+¢ Step-2: Find the expression of given flip-flop in terms of required flip-flop using K-map.
+¢ Step-3: Find the circuit diagram of required flip-flop.
+
+S-R Flip-Flop to T Flip-Flop: Following is the characteristics table of T flip-flop and excitation table of S-R flip-flop.
+Excitation Table
+
+Characteristic Table
+
+Now, using K-map we get the expression for of S & R in terms of T.
 --- page 10 ---
 Q4   a. Solve the following expression using k-map & realize final expression   [10]
 CO-2;   i) using Basic gates   ii) using NAND gates only
@@ -4924,6 +6579,13 @@ F(A,B,C,D) = ∑ m(1,3,4,5,7,9,11,13,15)
 Y=A’BC’+D
 i) using Basic gates
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Now, using K-map we get the expression for of S & R in terms of T.
+
+S = TQn' & R = TQn Therefore, the circuit diagram for conversion of S-R flip-flop into T flip-flop is:
+
+CLK
 --- page 11 ---
 Similar ii) using NAND gates: AND-OR array in above circuit can be replaced with NAND-
 NAND array
@@ -5006,6 +6668,46 @@ BL-1,2   Marks:
 4 bit Bi-Directional Shift Register Diagram: 5 marks
 Operation : 5 marks
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+e@ If a binary number is shifted left by one position then it is equivalent to multiplying the
+original number by 2. Similarly if a binary number is shifted right by one position then it
+is equivalent to dividing the original number by 2.
+
+@ Hence if we want to use the shift register to multiply and divide the given binary number,
+then we should be able to move the data in either left or right direction.
+
+@ Such a register is called bi-directional register. A four bit bi-directional shift register is
+shown in fig.
+
+@ There are two serial inputs namely the serial right shift data input DR, and the serial left
+shift data input DL along with a mode select input (M).
+
+Block Diagram
+
+Mode control (M)
+
+Operation
+
+S.N. Condition Operation
+
+If M = 1, then the AND gates 1, 3, 5 and 7 are
+enabled whereas the remaining AND gates 2,
+4, 6 and 8 will be disabled.
+
+1 With M = 1 — Shift right operation The data at Dp is shifted to right bit by bit
+from FF-3 to FF-0 on the application of clock
+pulses. Thus with M = 1 we get the serial right
+shift operation.
+
+When the mode control M is connected to 0
+then the AND gates 2, 4, 6 and 8 are enabled
+while 1, 3, 5 and 7 are disabled.
+
+2 With M = 0 - Shift left operation The data at Dy, is shifted left bit by bit from FF-
+0 to FF-3 on the application of clock pulses.
+Thus with M = 0 we get the serial right shift
+operation.
 --- page 14 ---
 Q6   a.   List different modelling types in VHDL and explain any two with appropriate [10]
 CO-5;   examples.
@@ -5089,6 +6791,38 @@ SO-1;
 BL-2   Types of Encoder(1M)
 Priority encoder symbol/block diagram with concept(2M) and truth table(2M)
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Truth Table
+
+CLK Pulses| Qa | Qp | Qc
+Number A B C
+
+0 0 | 0] 0
+| 0}; oj} |
+2 0 1 | 0
+3 0 l |
+4 l 0} 0
+5 l 0} |
+6 | \ 0
+
+To decode the count 6, i.e. 110 we sie
+AND gate. The output of the AND gate
+flip-flops. The circuit diagram is shown
+
+nect the outputs of flip-flops A and B to, one:
+may be connected to the reset input of all the
+in figure 9.13(a).
+
+Cc
+
+A(MSD)
+Clock 1—fJ | eee
+pulse FF Qa Qs
+Ip— FF
+c B
+IK Qa) aK %
+RESET [CLR CLR
 --- page 17 ---
 Q7   b. Explain any one De-Morgan’s Theorem with the help of suitable circuit diagrams and [05]
 CO-2;   prove the theorem using truth table.
@@ -5110,6 +6844,32 @@ B   A   A + B   (A+B)’   A’   B’   A’.B’
 1   1   1   0   0   0   0
 NOR gate is equal to bubbled OR
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+PRIORITY ENCODER:
++ As the name indicates, the priority is given to inputs line.
+
+* Iftwo or more input lines are high at the same time i.e | at the same time,
+then the input line with high priority shall be considered.
+
+* Block diagram and Truth table of Priority Encoder are shown in fig.15
+
+Highest Priority
+
+TRUTH TABLE:
+
+Y, INPUTS OUTPUTS Vi
+Priority 1) 0 0 0 x x 0
+Encoder
+0 0 0 t 0 0 1
+Yo
+0 0 1 x 0 1 1
+0 1 x x 1 ) 1
+t Priority Output 1 x x x 1 1 1
+I
+Block Diagram of Priority Fig.15
+
+Encoder
 --- page 18 ---
 Q7   c. Explain the Race around condition in JK flip-flop and how it can be overcome.   [05]
 CO-4;   Draw Race Around condition occur in Sequential logic circuit and how it can be
@@ -5189,6 +6949,7 @@ Carry is not generated after addition.
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/MBATech_Computer_7047/Digital Logic Design/ANS_Digital Logic Design(702EX0C028)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Feb 2026
 - Text: text (20 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -5252,6 +7013,19 @@ SO-1;
 BL-1,2   Ans:
 Circuit diagram of 1:4 demultiplexer (3 Marks) and Truth table(2Marks)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+by) Fo ABC + AIBC + ABC 4 ABC!+a)R)c)
+
+E F AR + Axel + ae |
+
+= ARCCcH+e!) + Aa’Ctcl) +Alac
+= AB yA\e)+aAlac
+=Ae+A)C8\4eC)
+
+= Agta” ‘CB) ye)
+
+By OR laws P+P’=1 and Distributive laws P+QR=(P+Q). (P+R). Mention laws applied at each
 --- page 3 ---
 De-Multiplexer is a combinational circuit that performs the reverse operation of
 Multiplexer. It has single input, ‘n’ selection lines and maximum of 2n outputs. The
@@ -5267,6 +7041,25 @@ The single input ‘I’ will be connected to one of the four outputs, Y3 to Y0 
 on the values of selection lines s1 & s0. The Truth table of 1x4 De-
 Multiplexer is shown below.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Selection Inputs
+
+S So Ys Yo
+0 0 0 0
+0 1 0 0
+1 0 0 |
+1 1 | 0
+
+From the above Truth table, we can directly write the Boolean functions for each output as
+
+Y3 = 81891
+Yo = 8189'I
+Y; = 81! s9I
+
+Yo = 81'89'I
+
+Outputs
 --- page 4 ---
 CO-4;   d. Compare synchronous counter and ripple counter.   [05]
 SO-1;
@@ -5297,6 +7090,18 @@ exity   and implementation is complex   flip-flop, hence its design
 as compared to that of an   and implementation is quite
 asynchronous counter.   simple.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+We can implement these Boolean functions using Inverters & 3-input AND gates. The circuit diagram of 1x4 De-Multiplexer is
+shown in the following figure.
+
+I
+
+St
+
+So I Y3
+Y2
+V4
 --- page 5 ---
 A Synchronous counter can be   An Asynchronous counter
 operated in any desired count   can operate only in a fixed
@@ -5359,6 +7164,15 @@ logical expressions: (1M)
 B3 = G3
 Conversion and correct answer (1M):
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Conversion from gray code to binary
+Conversion of a Gray code into its binary form involves the reverse of the procedure given
+above:
+(i) The first binary bit (MSB) is the same as that of the first Gray code bit.
+(ii) Ifthe second Gray bit is 0, the second binary bit is the same as that of the first binary;
+if the second Gray bit is 1, the second binary bit is the inverse of its first binary bit.
+(iii) Step 2 is repeated for each successive bit.
 --- page 7 ---
 Ans: 10011
 Q2   b. Define Minterm and Maxterm with one example each.   [10]
@@ -5373,6 +7187,31 @@ Maxterm:
 Canonical form: correct answer:
 Y = 𝐴𝐵+ 𝐴𝐶̅ + 𝐵𝐶
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Convert the Gray code 110101 to binary form.
+Solution:
+Step 1 Write the first binary bit 1 which is the MSB of the Gray code.
+
+1 101 0 1. Gray
++
+
+1 Binary
+
+Step 2 The second bit of the Gray code is | and therefore the second bit of the binary is
+0, i.e. inverse of the first binary bit “1”.
+
+1 1 0 1 0 1 Gray
+v
+1 > 0 Binary
+
+Step 3 The third bit of the Gray code is 0 and therefore the third bit of the binary is same
+as that of the second binary bit, i.c.0 .
+
+11 0 1 0 1. Gray
+7
+
+1075 0 Binary
 --- page 8 ---
 Q3   a. Design and explain full adder circuit using logic gates.
 CO-3;
@@ -5401,6 +7240,18 @@ CO-4;   Write the Conversion Logic and design table details - (Marks 5)
 SO-1; BL-3   Make K Map for getting input equation of SR flip flop - (Marks 3)
 Logic diagram of Conversion of Flip Flop - (Marks 2)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+© otep-i: ring the characteristics table of required tip-top and the excitation tabte of the existing (given) Tup-rop.
+¢ Step-2: Find the expression of given flip-flop in terms of required flip-flop using K-map.
+¢ Step-3: Find the circuit diagram of required flip-flop.
+
+S-R Flip-Flop to T Flip-Flop: Following is the characteristics table of T flip-flop and excitation table of S-R flip-flop.
+Excitation Table
+
+Characteristic Table
+
+Now, using K-map we get the expression for of S & R in terms of T.
 --- page 10 ---
 Q4   a. Solve the following expression using k-map & realize final expression   [10]
 CO-2;   i) using Basic gates   ii) using NAND gates only
@@ -5417,6 +7268,13 @@ F(A,B,C,D) = ∑ m(1,3,4,5,7,9,11,13,15)
 Y=A’BC’+D
 i) using Basic gates
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Now, using K-map we get the expression for of S & R in terms of T.
+
+S = TQn' & R = TQn Therefore, the circuit diagram for conversion of S-R flip-flop into T flip-flop is:
+
+CLK
 --- page 11 ---
 Similar ii) using NAND gates: AND-OR array in above circuit can be replaced with NAND-
 NAND array
@@ -5499,6 +7357,46 @@ BL-1,2   Marks:
 4 bit Bi-Directional Shift Register Diagram: 5 marks
 Operation : 5 marks
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+e@ If a binary number is shifted left by one position then it is equivalent to multiplying the
+original number by 2. Similarly if a binary number is shifted right by one position then it
+is equivalent to dividing the original number by 2.
+
+@ Hence if we want to use the shift register to multiply and divide the given binary number,
+then we should be able to move the data in either left or right direction.
+
+@ Such a register is called bi-directional register. A four bit bi-directional shift register is
+shown in fig.
+
+@ There are two serial inputs namely the serial right shift data input DR, and the serial left
+shift data input DL along with a mode select input (M).
+
+Block Diagram
+
+Mode control (M)
+
+Operation
+
+S.N. Condition Operation
+
+If M = 1, then the AND gates 1, 3, 5 and 7 are
+enabled whereas the remaining AND gates 2,
+4, 6 and 8 will be disabled.
+
+1 With M = 1 — Shift right operation The data at Dp is shifted to right bit by bit
+from FF-3 to FF-0 on the application of clock
+pulses. Thus with M = 1 we get the serial right
+shift operation.
+
+When the mode control M is connected to 0
+then the AND gates 2, 4, 6 and 8 are enabled
+while 1, 3, 5 and 7 are disabled.
+
+2 With M = 0 - Shift left operation The data at Dy, is shifted left bit by bit from FF-
+0 to FF-3 on the application of clock pulses.
+Thus with M = 0 we get the serial right shift
+operation.
 --- page 14 ---
 Q6   a.   List different modelling types in VHDL and explain any two with appropriate [10]
 CO-5;   examples.
@@ -5582,6 +7480,38 @@ SO-1;
 BL-2   Types of Encoder(1M)
 Priority encoder symbol/block diagram with concept(2M) and truth table(2M)
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Truth Table
+
+CLK Pulses| Qa | Qp | Qc
+Number A B C
+
+0 0 | 0] 0
+| 0}; oj} |
+2 0 1 | 0
+3 0 l |
+4 l 0} 0
+5 l 0} |
+6 | \ 0
+
+To decode the count 6, i.e. 110 we sie
+AND gate. The output of the AND gate
+flip-flops. The circuit diagram is shown
+
+nect the outputs of flip-flops A and B to, one:
+may be connected to the reset input of all the
+in figure 9.13(a).
+
+Cc
+
+A(MSD)
+Clock 1—fJ | eee
+pulse FF Qa Qs
+Ip— FF
+c B
+IK Qa) aK %
+RESET [CLR CLR
 --- page 17 ---
 Q7   b. Explain any one De-Morgan’s Theorem with the help of suitable circuit diagrams and [05]
 CO-2;   prove the theorem using truth table.
@@ -5603,6 +7533,32 @@ B   A   A + B   (A+B)’   A’   B’   A’.B’
 1   1   1   0   0   0   0
 NOR gate is equal to bubbled OR
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+PRIORITY ENCODER:
++ As the name indicates, the priority is given to inputs line.
+
+* Iftwo or more input lines are high at the same time i.e | at the same time,
+then the input line with high priority shall be considered.
+
+* Block diagram and Truth table of Priority Encoder are shown in fig.15
+
+Highest Priority
+
+TRUTH TABLE:
+
+Y, INPUTS OUTPUTS Vi
+Priority 1) 0 0 0 x x 0
+Encoder
+0 0 0 t 0 0 1
+Yo
+0 0 1 x 0 1 1
+0 1 x x 1 ) 1
+t Priority Output 1 x x x 1 1 1
+I
+Block Diagram of Priority Fig.15
+
+Encoder
 --- page 18 ---
 Q7   c. Explain the Race around condition in JK flip-flop and how it can be overcome.   [05]
 CO-4;   Draw Race Around condition occur in Sequential logic circuit and how it can be
@@ -5682,6 +7638,7 @@ Carry is not generated after addition.
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/MBATech_IT_7041/Digital Logic Design/ANS_Digital Logic Design(702EX0C028)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Feb 2026
 - Text: text (20 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -5745,6 +7702,19 @@ SO-1;
 BL-1,2   Ans:
 Circuit diagram of 1:4 demultiplexer (3 Marks) and Truth table(2Marks)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+by) Fo ABC + AIBC + ABC 4 ABC!+a)R)c)
+
+E F AR + Axel + ae |
+
+= ARCCcH+e!) + Aa’Ctcl) +Alac
+= AB yA\e)+aAlac
+=Ae+A)C8\4eC)
+
+= Agta” ‘CB) ye)
+
+By OR laws P+P’=1 and Distributive laws P+QR=(P+Q). (P+R). Mention laws applied at each
 --- page 3 ---
 De-Multiplexer is a combinational circuit that performs the reverse operation of
 Multiplexer. It has single input, ‘n’ selection lines and maximum of 2n outputs. The
@@ -5760,6 +7730,25 @@ The single input ‘I’ will be connected to one of the four outputs, Y3 to Y0 
 on the values of selection lines s1 & s0. The Truth table of 1x4 De-
 Multiplexer is shown below.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Selection Inputs
+
+S So Ys Yo
+0 0 0 0
+0 1 0 0
+1 0 0 |
+1 1 | 0
+
+From the above Truth table, we can directly write the Boolean functions for each output as
+
+Y3 = 81891
+Yo = 8189'I
+Y; = 81! s9I
+
+Yo = 81'89'I
+
+Outputs
 --- page 4 ---
 CO-4;   d. Compare synchronous counter and ripple counter.   [05]
 SO-1;
@@ -5790,6 +7779,18 @@ exity   and implementation is complex   flip-flop, hence its design
 as compared to that of an   and implementation is quite
 asynchronous counter.   simple.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+We can implement these Boolean functions using Inverters & 3-input AND gates. The circuit diagram of 1x4 De-Multiplexer is
+shown in the following figure.
+
+I
+
+St
+
+So I Y3
+Y2
+V4
 --- page 5 ---
 A Synchronous counter can be   An Asynchronous counter
 operated in any desired count   can operate only in a fixed
@@ -5852,6 +7853,15 @@ logical expressions: (1M)
 B3 = G3
 Conversion and correct answer (1M):
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Conversion from gray code to binary
+Conversion of a Gray code into its binary form involves the reverse of the procedure given
+above:
+(i) The first binary bit (MSB) is the same as that of the first Gray code bit.
+(ii) Ifthe second Gray bit is 0, the second binary bit is the same as that of the first binary;
+if the second Gray bit is 1, the second binary bit is the inverse of its first binary bit.
+(iii) Step 2 is repeated for each successive bit.
 --- page 7 ---
 Ans: 10011
 Q2   b. Define Minterm and Maxterm with one example each.   [10]
@@ -5866,6 +7876,31 @@ Maxterm:
 Canonical form: correct answer:
 Y = 𝐴𝐵+ 𝐴𝐶̅ + 𝐵𝐶
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Convert the Gray code 110101 to binary form.
+Solution:
+Step 1 Write the first binary bit 1 which is the MSB of the Gray code.
+
+1 101 0 1. Gray
++
+
+1 Binary
+
+Step 2 The second bit of the Gray code is | and therefore the second bit of the binary is
+0, i.e. inverse of the first binary bit “1”.
+
+1 1 0 1 0 1 Gray
+v
+1 > 0 Binary
+
+Step 3 The third bit of the Gray code is 0 and therefore the third bit of the binary is same
+as that of the second binary bit, i.c.0 .
+
+11 0 1 0 1. Gray
+7
+
+1075 0 Binary
 --- page 8 ---
 Q3   a. Design and explain full adder circuit using logic gates.
 CO-3;
@@ -5894,6 +7929,18 @@ CO-4;   Write the Conversion Logic and design table details - (Marks 5)
 SO-1; BL-3   Make K Map for getting input equation of SR flip flop - (Marks 3)
 Logic diagram of Conversion of Flip Flop - (Marks 2)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+© otep-i: ring the characteristics table of required tip-top and the excitation tabte of the existing (given) Tup-rop.
+¢ Step-2: Find the expression of given flip-flop in terms of required flip-flop using K-map.
+¢ Step-3: Find the circuit diagram of required flip-flop.
+
+S-R Flip-Flop to T Flip-Flop: Following is the characteristics table of T flip-flop and excitation table of S-R flip-flop.
+Excitation Table
+
+Characteristic Table
+
+Now, using K-map we get the expression for of S & R in terms of T.
 --- page 10 ---
 Q4   a. Solve the following expression using k-map & realize final expression   [10]
 CO-2;   i) using Basic gates   ii) using NAND gates only
@@ -5910,6 +7957,13 @@ F(A,B,C,D) = ∑ m(1,3,4,5,7,9,11,13,15)
 Y=A’BC’+D
 i) using Basic gates
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Now, using K-map we get the expression for of S & R in terms of T.
+
+S = TQn' & R = TQn Therefore, the circuit diagram for conversion of S-R flip-flop into T flip-flop is:
+
+CLK
 --- page 11 ---
 Similar ii) using NAND gates: AND-OR array in above circuit can be replaced with NAND-
 NAND array
@@ -5992,6 +8046,46 @@ BL-1,2   Marks:
 4 bit Bi-Directional Shift Register Diagram: 5 marks
 Operation : 5 marks
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+e@ If a binary number is shifted left by one position then it is equivalent to multiplying the
+original number by 2. Similarly if a binary number is shifted right by one position then it
+is equivalent to dividing the original number by 2.
+
+@ Hence if we want to use the shift register to multiply and divide the given binary number,
+then we should be able to move the data in either left or right direction.
+
+@ Such a register is called bi-directional register. A four bit bi-directional shift register is
+shown in fig.
+
+@ There are two serial inputs namely the serial right shift data input DR, and the serial left
+shift data input DL along with a mode select input (M).
+
+Block Diagram
+
+Mode control (M)
+
+Operation
+
+S.N. Condition Operation
+
+If M = 1, then the AND gates 1, 3, 5 and 7 are
+enabled whereas the remaining AND gates 2,
+4, 6 and 8 will be disabled.
+
+1 With M = 1 — Shift right operation The data at Dp is shifted to right bit by bit
+from FF-3 to FF-0 on the application of clock
+pulses. Thus with M = 1 we get the serial right
+shift operation.
+
+When the mode control M is connected to 0
+then the AND gates 2, 4, 6 and 8 are enabled
+while 1, 3, 5 and 7 are disabled.
+
+2 With M = 0 - Shift left operation The data at Dy, is shifted left bit by bit from FF-
+0 to FF-3 on the application of clock pulses.
+Thus with M = 0 we get the serial right shift
+operation.
 --- page 14 ---
 Q6   a.   List different modelling types in VHDL and explain any two with appropriate [10]
 CO-5;   examples.
@@ -6075,6 +8169,38 @@ SO-1;
 BL-2   Types of Encoder(1M)
 Priority encoder symbol/block diagram with concept(2M) and truth table(2M)
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Truth Table
+
+CLK Pulses| Qa | Qp | Qc
+Number A B C
+
+0 0 | 0] 0
+| 0}; oj} |
+2 0 1 | 0
+3 0 l |
+4 l 0} 0
+5 l 0} |
+6 | \ 0
+
+To decode the count 6, i.e. 110 we sie
+AND gate. The output of the AND gate
+flip-flops. The circuit diagram is shown
+
+nect the outputs of flip-flops A and B to, one:
+may be connected to the reset input of all the
+in figure 9.13(a).
+
+Cc
+
+A(MSD)
+Clock 1—fJ | eee
+pulse FF Qa Qs
+Ip— FF
+c B
+IK Qa) aK %
+RESET [CLR CLR
 --- page 17 ---
 Q7   b. Explain any one De-Morgan’s Theorem with the help of suitable circuit diagrams and [05]
 CO-2;   prove the theorem using truth table.
@@ -6096,6 +8222,32 @@ B   A   A + B   (A+B)’   A’   B’   A’.B’
 1   1   1   0   0   0   0
 NOR gate is equal to bubbled OR
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+PRIORITY ENCODER:
++ As the name indicates, the priority is given to inputs line.
+
+* Iftwo or more input lines are high at the same time i.e | at the same time,
+then the input line with high priority shall be considered.
+
+* Block diagram and Truth table of Priority Encoder are shown in fig.15
+
+Highest Priority
+
+TRUTH TABLE:
+
+Y, INPUTS OUTPUTS Vi
+Priority 1) 0 0 0 x x 0
+Encoder
+0 0 0 t 0 0 1
+Yo
+0 0 1 x 0 1 1
+0 1 x x 1 ) 1
+t Priority Output 1 x x x 1 1 1
+I
+Block Diagram of Priority Fig.15
+
+Encoder
 --- page 18 ---
 Q7   c. Explain the Race around condition in JK flip-flop and how it can be overcome.   [05]
 CO-4;   Draw Race Around condition occur in Sequential logic circuit and how it can be
@@ -6175,6 +8327,7 @@ Carry is not generated after addition.
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/Integrated_Computer_7032/Digital Logic Design/ANS_Digital Logic Design(702EX0C014)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Feb 2026
 - Text: text (20 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -6238,6 +8391,19 @@ SO-1;
 BL-1,2   Ans:
 Circuit diagram of 1:4 demultiplexer (3 Marks) and Truth table(2Marks)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+by) Fo ABC + AIBC + ABC 4 ABC!+a)R)c)
+
+E F AR + Axel + ae |
+
+= ARCCcH+e!) + Aa’Ctcl) +Alac
+= AB yA\e)+aAlac
+=Ae+A)C8\4eC)
+
+= Agta” ‘CB) ye)
+
+By OR laws P+P’=1 and Distributive laws P+QR=(P+Q). (P+R). Mention laws applied at each
 --- page 3 ---
 De-Multiplexer is a combinational circuit that performs the reverse operation of
 Multiplexer. It has single input, ‘n’ selection lines and maximum of 2n outputs. The
@@ -6253,6 +8419,25 @@ The single input ‘I’ will be connected to one of the four outputs, Y3 to Y0 
 on the values of selection lines s1 & s0. The Truth table of 1x4 De-
 Multiplexer is shown below.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Selection Inputs
+
+S So Ys Yo
+0 0 0 0
+0 1 0 0
+1 0 0 |
+1 1 | 0
+
+From the above Truth table, we can directly write the Boolean functions for each output as
+
+Y3 = 81891
+Yo = 8189'I
+Y; = 81! s9I
+
+Yo = 81'89'I
+
+Outputs
 --- page 4 ---
 CO-4;   d. Compare synchronous counter and ripple counter.   [05]
 SO-1;
@@ -6283,6 +8468,18 @@ exity   and implementation is complex   flip-flop, hence its design
 as compared to that of an   and implementation is quite
 asynchronous counter.   simple.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+We can implement these Boolean functions using Inverters & 3-input AND gates. The circuit diagram of 1x4 De-Multiplexer is
+shown in the following figure.
+
+I
+
+St
+
+So I Y3
+Y2
+V4
 --- page 5 ---
 A Synchronous counter can be   An Asynchronous counter
 operated in any desired count   can operate only in a fixed
@@ -6345,6 +8542,15 @@ logical expressions: (1M)
 B3 = G3
 Conversion and correct answer (1M):
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Conversion from gray code to binary
+Conversion of a Gray code into its binary form involves the reverse of the procedure given
+above:
+(i) The first binary bit (MSB) is the same as that of the first Gray code bit.
+(ii) Ifthe second Gray bit is 0, the second binary bit is the same as that of the first binary;
+if the second Gray bit is 1, the second binary bit is the inverse of its first binary bit.
+(iii) Step 2 is repeated for each successive bit.
 --- page 7 ---
 Ans: 10011
 Q2   b. Define Minterm and Maxterm with one example each.   [10]
@@ -6359,6 +8565,31 @@ Maxterm:
 Canonical form: correct answer:
 Y = 𝐴𝐵+ 𝐴𝐶̅ + 𝐵𝐶
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Convert the Gray code 110101 to binary form.
+Solution:
+Step 1 Write the first binary bit 1 which is the MSB of the Gray code.
+
+1 101 0 1. Gray
++
+
+1 Binary
+
+Step 2 The second bit of the Gray code is | and therefore the second bit of the binary is
+0, i.e. inverse of the first binary bit “1”.
+
+1 1 0 1 0 1 Gray
+v
+1 > 0 Binary
+
+Step 3 The third bit of the Gray code is 0 and therefore the third bit of the binary is same
+as that of the second binary bit, i.c.0 .
+
+11 0 1 0 1. Gray
+7
+
+1075 0 Binary
 --- page 8 ---
 Q3   a. Design and explain full adder circuit using logic gates.
 CO-3;
@@ -6387,6 +8618,18 @@ CO-4;   Write the Conversion Logic and design table details - (Marks 5)
 SO-1; BL-3   Make K Map for getting input equation of SR flip flop - (Marks 3)
 Logic diagram of Conversion of Flip Flop - (Marks 2)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+© otep-i: ring the characteristics table of required tip-top and the excitation tabte of the existing (given) Tup-rop.
+¢ Step-2: Find the expression of given flip-flop in terms of required flip-flop using K-map.
+¢ Step-3: Find the circuit diagram of required flip-flop.
+
+S-R Flip-Flop to T Flip-Flop: Following is the characteristics table of T flip-flop and excitation table of S-R flip-flop.
+Excitation Table
+
+Characteristic Table
+
+Now, using K-map we get the expression for of S & R in terms of T.
 --- page 10 ---
 Q4   a. Solve the following expression using k-map & realize final expression   [10]
 CO-2;   i) using Basic gates   ii) using NAND gates only
@@ -6403,6 +8646,13 @@ F(A,B,C,D) = ∑ m(1,3,4,5,7,9,11,13,15)
 Y=A’BC’+D
 i) using Basic gates
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Now, using K-map we get the expression for of S & R in terms of T.
+
+S = TQn' & R = TQn Therefore, the circuit diagram for conversion of S-R flip-flop into T flip-flop is:
+
+CLK
 --- page 11 ---
 Similar ii) using NAND gates: AND-OR array in above circuit can be replaced with NAND-
 NAND array
@@ -6485,6 +8735,46 @@ BL-1,2   Marks:
 4 bit Bi-Directional Shift Register Diagram: 5 marks
 Operation : 5 marks
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+e@ If a binary number is shifted left by one position then it is equivalent to multiplying the
+original number by 2. Similarly if a binary number is shifted right by one position then it
+is equivalent to dividing the original number by 2.
+
+@ Hence if we want to use the shift register to multiply and divide the given binary number,
+then we should be able to move the data in either left or right direction.
+
+@ Such a register is called bi-directional register. A four bit bi-directional shift register is
+shown in fig.
+
+@ There are two serial inputs namely the serial right shift data input DR, and the serial left
+shift data input DL along with a mode select input (M).
+
+Block Diagram
+
+Mode control (M)
+
+Operation
+
+S.N. Condition Operation
+
+If M = 1, then the AND gates 1, 3, 5 and 7 are
+enabled whereas the remaining AND gates 2,
+4, 6 and 8 will be disabled.
+
+1 With M = 1 — Shift right operation The data at Dp is shifted to right bit by bit
+from FF-3 to FF-0 on the application of clock
+pulses. Thus with M = 1 we get the serial right
+shift operation.
+
+When the mode control M is connected to 0
+then the AND gates 2, 4, 6 and 8 are enabled
+while 1, 3, 5 and 7 are disabled.
+
+2 With M = 0 - Shift left operation The data at Dy, is shifted left bit by bit from FF-
+0 to FF-3 on the application of clock pulses.
+Thus with M = 0 we get the serial right shift
+operation.
 --- page 14 ---
 Q6   a.   List different modelling types in VHDL and explain any two with appropriate [10]
 CO-5;   examples.
@@ -6568,6 +8858,38 @@ SO-1;
 BL-2   Types of Encoder(1M)
 Priority encoder symbol/block diagram with concept(2M) and truth table(2M)
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Truth Table
+
+CLK Pulses| Qa | Qp | Qc
+Number A B C
+
+0 0 | 0] 0
+| 0}; oj} |
+2 0 1 | 0
+3 0 l |
+4 l 0} 0
+5 l 0} |
+6 | \ 0
+
+To decode the count 6, i.e. 110 we sie
+AND gate. The output of the AND gate
+flip-flops. The circuit diagram is shown
+
+nect the outputs of flip-flops A and B to, one:
+may be connected to the reset input of all the
+in figure 9.13(a).
+
+Cc
+
+A(MSD)
+Clock 1—fJ | eee
+pulse FF Qa Qs
+Ip— FF
+c B
+IK Qa) aK %
+RESET [CLR CLR
 --- page 17 ---
 Q7   b. Explain any one De-Morgan’s Theorem with the help of suitable circuit diagrams and [05]
 CO-2;   prove the theorem using truth table.
@@ -6589,6 +8911,32 @@ B   A   A + B   (A+B)’   A’   B’   A’.B’
 1   1   1   0   0   0   0
 NOR gate is equal to bubbled OR
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+PRIORITY ENCODER:
++ As the name indicates, the priority is given to inputs line.
+
+* Iftwo or more input lines are high at the same time i.e | at the same time,
+then the input line with high priority shall be considered.
+
+* Block diagram and Truth table of Priority Encoder are shown in fig.15
+
+Highest Priority
+
+TRUTH TABLE:
+
+Y, INPUTS OUTPUTS Vi
+Priority 1) 0 0 0 x x 0
+Encoder
+0 0 0 t 0 0 1
+Yo
+0 0 1 x 0 1 1
+0 1 x x 1 ) 1
+t Priority Output 1 x x x 1 1 1
+I
+Block Diagram of Priority Fig.15
+
+Encoder
 --- page 18 ---
 Q7   c. Explain the Race around condition in JK flip-flop and how it can be overcome.   [05]
 CO-4;   Draw Race Around condition occur in Sequential logic circuit and how it can be
@@ -6668,6 +9016,7 @@ Carry is not generated after addition.
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/Integrated_IT_7037/Digital Logic Design/ANS_Digital Logic Design(702EX0C014)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Feb 2026
 - Text: text (20 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -6731,6 +9080,19 @@ SO-1;
 BL-1,2   Ans:
 Circuit diagram of 1:4 demultiplexer (3 Marks) and Truth table(2Marks)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+by) Fo ABC + AIBC + ABC 4 ABC!+a)R)c)
+
+E F AR + Axel + ae |
+
+= ARCCcH+e!) + Aa’Ctcl) +Alac
+= AB yA\e)+aAlac
+=Ae+A)C8\4eC)
+
+= Agta” ‘CB) ye)
+
+By OR laws P+P’=1 and Distributive laws P+QR=(P+Q). (P+R). Mention laws applied at each
 --- page 3 ---
 De-Multiplexer is a combinational circuit that performs the reverse operation of
 Multiplexer. It has single input, ‘n’ selection lines and maximum of 2n outputs. The
@@ -6746,6 +9108,25 @@ The single input ‘I’ will be connected to one of the four outputs, Y3 to Y0 
 on the values of selection lines s1 & s0. The Truth table of 1x4 De-
 Multiplexer is shown below.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Selection Inputs
+
+S So Ys Yo
+0 0 0 0
+0 1 0 0
+1 0 0 |
+1 1 | 0
+
+From the above Truth table, we can directly write the Boolean functions for each output as
+
+Y3 = 81891
+Yo = 8189'I
+Y; = 81! s9I
+
+Yo = 81'89'I
+
+Outputs
 --- page 4 ---
 CO-4;   d. Compare synchronous counter and ripple counter.   [05]
 SO-1;
@@ -6776,6 +9157,18 @@ exity   and implementation is complex   flip-flop, hence its design
 as compared to that of an   and implementation is quite
 asynchronous counter.   simple.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+We can implement these Boolean functions using Inverters & 3-input AND gates. The circuit diagram of 1x4 De-Multiplexer is
+shown in the following figure.
+
+I
+
+St
+
+So I Y3
+Y2
+V4
 --- page 5 ---
 A Synchronous counter can be   An Asynchronous counter
 operated in any desired count   can operate only in a fixed
@@ -6838,6 +9231,15 @@ logical expressions: (1M)
 B3 = G3
 Conversion and correct answer (1M):
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Conversion from gray code to binary
+Conversion of a Gray code into its binary form involves the reverse of the procedure given
+above:
+(i) The first binary bit (MSB) is the same as that of the first Gray code bit.
+(ii) Ifthe second Gray bit is 0, the second binary bit is the same as that of the first binary;
+if the second Gray bit is 1, the second binary bit is the inverse of its first binary bit.
+(iii) Step 2 is repeated for each successive bit.
 --- page 7 ---
 Ans: 10011
 Q2   b. Define Minterm and Maxterm with one example each.   [10]
@@ -6852,6 +9254,31 @@ Maxterm:
 Canonical form: correct answer:
 Y = 𝐴𝐵+ 𝐴𝐶̅ + 𝐵𝐶
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Convert the Gray code 110101 to binary form.
+Solution:
+Step 1 Write the first binary bit 1 which is the MSB of the Gray code.
+
+1 101 0 1. Gray
++
+
+1 Binary
+
+Step 2 The second bit of the Gray code is | and therefore the second bit of the binary is
+0, i.e. inverse of the first binary bit “1”.
+
+1 1 0 1 0 1 Gray
+v
+1 > 0 Binary
+
+Step 3 The third bit of the Gray code is 0 and therefore the third bit of the binary is same
+as that of the second binary bit, i.c.0 .
+
+11 0 1 0 1. Gray
+7
+
+1075 0 Binary
 --- page 8 ---
 Q3   a. Design and explain full adder circuit using logic gates.
 CO-3;
@@ -6880,6 +9307,18 @@ CO-4;   Write the Conversion Logic and design table details - (Marks 5)
 SO-1; BL-3   Make K Map for getting input equation of SR flip flop - (Marks 3)
 Logic diagram of Conversion of Flip Flop - (Marks 2)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+© otep-i: ring the characteristics table of required tip-top and the excitation tabte of the existing (given) Tup-rop.
+¢ Step-2: Find the expression of given flip-flop in terms of required flip-flop using K-map.
+¢ Step-3: Find the circuit diagram of required flip-flop.
+
+S-R Flip-Flop to T Flip-Flop: Following is the characteristics table of T flip-flop and excitation table of S-R flip-flop.
+Excitation Table
+
+Characteristic Table
+
+Now, using K-map we get the expression for of S & R in terms of T.
 --- page 10 ---
 Q4   a. Solve the following expression using k-map & realize final expression   [10]
 CO-2;   i) using Basic gates   ii) using NAND gates only
@@ -6896,6 +9335,13 @@ F(A,B,C,D) = ∑ m(1,3,4,5,7,9,11,13,15)
 Y=A’BC’+D
 i) using Basic gates
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Now, using K-map we get the expression for of S & R in terms of T.
+
+S = TQn' & R = TQn Therefore, the circuit diagram for conversion of S-R flip-flop into T flip-flop is:
+
+CLK
 --- page 11 ---
 Similar ii) using NAND gates: AND-OR array in above circuit can be replaced with NAND-
 NAND array
@@ -6978,6 +9424,46 @@ BL-1,2   Marks:
 4 bit Bi-Directional Shift Register Diagram: 5 marks
 Operation : 5 marks
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+e@ If a binary number is shifted left by one position then it is equivalent to multiplying the
+original number by 2. Similarly if a binary number is shifted right by one position then it
+is equivalent to dividing the original number by 2.
+
+@ Hence if we want to use the shift register to multiply and divide the given binary number,
+then we should be able to move the data in either left or right direction.
+
+@ Such a register is called bi-directional register. A four bit bi-directional shift register is
+shown in fig.
+
+@ There are two serial inputs namely the serial right shift data input DR, and the serial left
+shift data input DL along with a mode select input (M).
+
+Block Diagram
+
+Mode control (M)
+
+Operation
+
+S.N. Condition Operation
+
+If M = 1, then the AND gates 1, 3, 5 and 7 are
+enabled whereas the remaining AND gates 2,
+4, 6 and 8 will be disabled.
+
+1 With M = 1 — Shift right operation The data at Dp is shifted to right bit by bit
+from FF-3 to FF-0 on the application of clock
+pulses. Thus with M = 1 we get the serial right
+shift operation.
+
+When the mode control M is connected to 0
+then the AND gates 2, 4, 6 and 8 are enabled
+while 1, 3, 5 and 7 are disabled.
+
+2 With M = 0 - Shift left operation The data at Dy, is shifted left bit by bit from FF-
+0 to FF-3 on the application of clock pulses.
+Thus with M = 0 we get the serial right shift
+operation.
 --- page 14 ---
 Q6   a.   List different modelling types in VHDL and explain any two with appropriate [10]
 CO-5;   examples.
@@ -7061,6 +9547,38 @@ SO-1;
 BL-2   Types of Encoder(1M)
 Priority encoder symbol/block diagram with concept(2M) and truth table(2M)
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Truth Table
+
+CLK Pulses| Qa | Qp | Qc
+Number A B C
+
+0 0 | 0] 0
+| 0}; oj} |
+2 0 1 | 0
+3 0 l |
+4 l 0} 0
+5 l 0} |
+6 | \ 0
+
+To decode the count 6, i.e. 110 we sie
+AND gate. The output of the AND gate
+flip-flops. The circuit diagram is shown
+
+nect the outputs of flip-flops A and B to, one:
+may be connected to the reset input of all the
+in figure 9.13(a).
+
+Cc
+
+A(MSD)
+Clock 1—fJ | eee
+pulse FF Qa Qs
+Ip— FF
+c B
+IK Qa) aK %
+RESET [CLR CLR
 --- page 17 ---
 Q7   b. Explain any one De-Morgan’s Theorem with the help of suitable circuit diagrams and [05]
 CO-2;   prove the theorem using truth table.
@@ -7082,6 +9600,32 @@ B   A   A + B   (A+B)’   A’   B’   A’.B’
 1   1   1   0   0   0   0
 NOR gate is equal to bubbled OR
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+PRIORITY ENCODER:
++ As the name indicates, the priority is given to inputs line.
+
+* Iftwo or more input lines are high at the same time i.e | at the same time,
+then the input line with high priority shall be considered.
+
+* Block diagram and Truth table of Priority Encoder are shown in fig.15
+
+Highest Priority
+
+TRUTH TABLE:
+
+Y, INPUTS OUTPUTS Vi
+Priority 1) 0 0 0 x x 0
+Encoder
+0 0 0 t 0 0 1
+Yo
+0 0 1 x 0 1 1
+0 1 x x 1 ) 1
+t Priority Output 1 x x x 1 1 1
+I
+Block Diagram of Priority Fig.15
+
+Encoder
 --- page 18 ---
 Q7   c. Explain the Race around condition in JK flip-flop and how it can be overcome.   [05]
 CO-4;   Draw Race Around condition occur in Sequential logic circuit and how it can be

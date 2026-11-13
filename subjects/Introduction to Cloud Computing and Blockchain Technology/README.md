@@ -12,6 +12,8 @@ Files land in `D:/Study/PYQs_By_Subject/Introduction to Cloud Computing and Bloc
 
 Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (every paper in full, newest first), [`questions.jsonl`](questions.jsonl) (one record per question with marks, year, exam, semester and department) and [`papers.jsonl`](papers.jsonl) (one record per paper). Answer keys, where the portal published them, are in `answer_keys.md`. See [`question_bank/README.md`](../../question_bank/README.md) for the fields.
 
+Syllabus of this course, every version found in the archive: [`syllabus.md`](syllabus.md) (see [`syllabi/`](../../syllabi/README.md) for all programmes).
+
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | Integrated IT 7037 | QP_Introduction to Cloud computing and Blockchain Technology(701IT0C007)_2025-2026.pdf |

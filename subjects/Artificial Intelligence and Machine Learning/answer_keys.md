@@ -1026,6 +1026,29 @@ illustration – 4 marks
 Role of hard margin and soft margin in SVM-4 marks
 b.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+=x = 2.5+4.1+6.8+8.3+10.2+12.7 = 44.6
+
+Ly = 13779+8859+5085+4357+1765+858 = 35743,
+
+Exy = (2.5x13779)+(4.1«8859)+...4(12.7x858) = 277,947.3
+Ex? = 2.574+4,144...412.77 = 381.49
+
+Slope m = [n=xy - (Ex)(Ey)] / [mEx? - (Ex)*]
+
+m = [6x277,947.3 - 44.6x35,743] / [6x381.49 - (44.6)?]
+m = [1,667,683.8 - 1,594,598] / [2,288.94 - 1,989.16]
+m = -1,149.6 = -1150
+
+Y-intercept b = [Zy - m(Ex)]/n
+b = [35,743 - (-1150)(44.6)] / 6
+b = [35,743 + 51,290] /6
+
+b = 14,505.5 ~ 16,130
+Equation
+
+Price = 16,130 - 1,150 x Age (R?=0.976)
 --- page 3 ---
 8
 Tree Complete: Perfect split! If "Some" patrons → Go; if "Full" → Don't Go.
@@ -1042,6 +1065,17 @@ Inference in Predicate Logic - 4 marks
 Prove De Mogan’s Laws under propositional logic
 4 marks
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Root Entropy: 2Yes/2No > H = -(0.5log20.5 + 0.5log20.5) = 1.0
+
+Information Gain:
+* Weather: Sunny(1Yes1No:H=1), Rainy(OYes2No:H=0) > IG = 1 - (0.5x1 + 0.5x0) = 0.5
+« Patrons: Some(lYesONo:H=0), Full(OYes2No:H=0) > IG = 1.0 < Max
+
+« Hungry: Yes(1lYes1No:H=1), No(OYes2No:H=0) > IG = 0.5
+
+Root Node: Patrons
 --- page 4 ---
 Q6. a
 Python code to develop Mc-Culloch Pitts Neuron for AND function using binary inputs. – 15 marks
@@ -1365,6 +1399,7 @@ Sol   As per student perspective
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_Mechatronics_7004/Artificial Intelligence and Machine Learning/ANS_Artificial Intelligence and Machine Learning(702MH0C018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2026
 - Text: text (3 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1420,6 +1455,36 @@ b. i.
 ii.
 4 marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+P(PlayT ennis = yes) = 9/14 = .64
+P(PlayT ennis = no) = 5/14 = .36
+
+Outlook Y N Humidity! Y | N
+sunny 2/9 | 3/5 high 3/9 | 4/5
+overcast 4/9 0 normal | 6/9 | 1/5
+rain 3/9 | 2/5
+
+Tempreature
+
+hot 2/9 | 2/5
+
+mild 4/9 | 2/5
+
+cool 3/9 | 1/5
+
+(Outlook = sunny, Temperature = cool, Humidity = high, Wind = strong)
+
+Uve = argmax P(v;)[]; P(ailv;)
+
+v€{yes, no}
+= argmax P(v;) P(Outlook = sunny|v;)P (Temperature = cool|v;)
+vj €(yes,no}
+- P(Humidity = high|v;) P(Wind = strong|v,)
+Vyp(yes) = P(yes) P(sunny|yes) P(cool|yes) P(high\|yes) P(strong|yes) = .0053
+Vyp(n0) = P(no) P(sunny|no) P(cool|no) P(high|no) P(strong|no) = .0206
+
+_ Una (yes) _ _ Unp(no) _
 --- page 3 ---
 iii.
 4 marks

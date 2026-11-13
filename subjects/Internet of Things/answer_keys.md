@@ -1455,6 +1455,30 @@ Working:
 1. The ultrasonic sensor sends ultrasonic waves toward the water surface.
 2. Waves reflect back and are received by the sensor.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Data Storage
+& Services
+
+CLOUD
+PLATFORM
+
+Target
+object
+
+Distance history
+
+Distance 2——— 120m
+23—— 12em
+2%——— 12em
+10——- 126m
+
+Status
+@ sas
+
+REMOTE
+SENSING: —> PROCESSING: —> LOCAL OUTPUT —> MONITORING
+Ultrasonic Sensor Microcontroller & ALERT & APP
 --- page 5 ---
 3. Time taken is measured.
 4. Distance is calculated using:
@@ -1548,6 +1572,21 @@ CO1,   • Real-time monitoring and control
 BL2
 Diagram:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+LOCAL BIG DATA USER
+SENSORS = GATEWAY proceESSING CLOUD ANALYTICS — APPLICATION
+(EDGE)
+
+LOCAL
+
+SENSORS GATEWAY CLOUD BIG DATA USER
+anal ANALYTICS — APPLICATION
+DATA COLLECTION INITIAL DATA SECURE DATA ADVANCED DATA INSIGHTS,
+& TRANSMISSION FILTERING & STORAGE & MINING, PATTERN VISUALIZATION
+ANALYSIS MANAGEMENT RECOGNITION & & ACTIONABLE
+
+PREDICTIVE MODELING INFORMATION
 --- page 8 ---
 Example: Smart City
 In a smart city:
@@ -1649,6 +1688,42 @@ CO3,   b   Explain Logistic Regression with suitable IoT application example.
 10
 BL2   Ans:
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+( CONTROLLER
+(e.g., ESP32/Arduino)
+
+>
+CLOUD
+
+DASHBOARD
+
+Soll Moisture History
+
+ae
+
+Current Moisture: 65%
+
+|_@)
+Pump Status:
+on [e
+
+SOIL MOISTURE
+SENSOR
+
+POWER
+
++ PROCESSES SENSOR DATA
+
+DETECTS SOIL + DECIDES IRRIGATION ACTION + ACTIVATES WHEN
+MOISTURE LEVEL POWERED
++ SENDS CONTROL SIGNAL + DELIVERS WATER TO
++ COMMUNICATES WITH CLG @ O J eacariontines + REMOTE MONITORING
+& CONTROL
+7’ 7 + DATA VISUALIZATION
+A + USER INTERFACE
+
+OVERRIDE
 --- page 11 ---
 Logistic Regression is a supervised learning algorithm used for classification
 problems.
@@ -1706,6 +1781,35 @@ Data divided into:
 2. Cross Validation
 Multiple testing rounds improve reliability
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Application Layer | Transport Layer | IPv6 Adaptation Layer | IEEE 802.15.4 MAC Layer | Physical Layer
+
+7 ee >)
+ax. d@p Application Layer A
+CoAP, MQTT, HTTP Defines how applications interact
+F , ' with the network.
+
+z Transport Layer g
+t [mom (— ie z
+Sg [[Seament] [or] [[ostagam] atag ram | TCP, UDP Epes porocess| fea eal g
+gs error checking, and flow control (TCP). z
+> a
+3 ei IPv6 Adaptation Layer (6LOWPAN) =
+= eader compression Fragmentation / reassembh Adapts IPv6 for | | | eo
+oa apts iPv6 for low-power, lossy °
+Aa 2 a networks (header compression, e
+§ 1Pv6 = arene psa Hv6 IF fragmentation). =
+2 IEEE 802.15.4 frame §
+3 2
+Fa IEEE 802.15.4 MAC Layer (Media Access Control) 3
+g = Mechanisms: Mechanisning —> Manages access to the IEEE tnar a
+& | Eine ++ [Frame[ Tv] physical wireless medium 8
+
+CSMA/CA Frame acknowledgment a
+
+« »)) 2.4GHz / 868 MHz Physical Layer (PHY) Transmission of raw bits over the
+Frequency Bands « »)) physical wireless medium
 --- page 13 ---
 Performance Metrics:
 For Classification:

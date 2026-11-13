@@ -570,6 +570,17 @@ Docker objects.
 • Images can be pushed (uploaded) and pulled (downloaded) from the registry.
 • Example: Docker Hub
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Build and test results are fed back to the developers
+
+¥
+
+Jenkins check the Jenkins deploy the
+shatec repository at build application the build application is
+periocic intervals and onthe test server then deployed to the
+every check inis production server
+pullec and then build
 --- page 13 ---
 D   Describe the Git workflow. Explain the stages from working directory
 to repository with suitable commands.
@@ -1150,6 +1161,17 @@ Docker objects.
 • Images can be pushed (uploaded) and pulled (downloaded) from the registry.
 • Example: Docker Hub
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Build and test results are fed back to the developers
+
+¥
+
+Jenkins check the Jenkins deploy the
+shatec repository at build application the build application is
+periocic intervals and onthe test server then deployed to the
+every check inis production server
+pullec and then build
 --- page 13 ---
 D   Describe the Git workflow. Explain the stages from working directory
 to repository with suitable commands.
@@ -1730,6 +1752,17 @@ Docker objects.
 • Images can be pushed (uploaded) and pulled (downloaded) from the registry.
 • Example: Docker Hub
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Build and test results are fed back to the developers
+
+¥
+
+Jenkins check the Jenkins deploy the
+shatec repository at build application the build application is
+periocic intervals and onthe test server then deployed to the
+every check inis production server
+pullec and then build
 --- page 13 ---
 D   Describe the Git workflow. Explain the stages from working directory
 to repository with suitable commands.
@@ -2310,6 +2343,17 @@ Docker objects.
 • Images can be pushed (uploaded) and pulled (downloaded) from the registry.
 • Example: Docker Hub
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Build and test results are fed back to the developers
+
+¥
+
+Jenkins check the Jenkins deploy the
+shatec repository at build application the build application is
+periocic intervals and onthe test server then deployed to the
+every check inis production server
+pullec and then build
 --- page 13 ---
 D   Describe the Git workflow. Explain the stages from working directory
 to repository with suitable commands.
@@ -2367,6 +2411,23 @@ Phases of Prototyping Model:
 6. Final Development – Convert the refined prototype into a full
 system.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Build Prototype
+
+va Ne customer
+
+Requirements
+. . Cust satisfied .
+Gathering —> Quick Design Evaluation of Design
+Prototype J
+x / Implement
+Refine a5
+Requirements
+
+Test
+
+Maintenance
 --- page 2 ---
 CO-1,2;   b
 SO- 5;   Explain the purpose and usage of the following Git commands with   5
@@ -2478,6 +2539,27 @@ adopted, organizations may exhibit "agile theater," where teams go
 through the motions (e.g., daily stand-ups) without actually
 following agile principles.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+AGILE MANIFESTO
+
+FOUR CORE VALUES & TWELVE PRINCIPLES
+
+Deliver Early & Often
+Embrace Change 4 1.
+
+Release Frequently
+Collaborate Daily ¢ > 02. hoch
+Empower Teams Working software
+
+Talk Face-to-Face over comprehensive documentation
+Measure by Working Software 03. Castomer:
+Maintain Sustainable Pace Fone a fern
+Focus on Quality 04.
+Keep It Simple Poi ron beri
+
+Trust Self-Organizing Teams
+Reflect & Improve
 --- page 5 ---
 Integration Issues & Hidden Dependencies: As described, multiple
 teams working on a single project create significant dependencies,
@@ -3055,6 +3137,23 @@ Phases of Prototyping Model:
 6. Final Development – Convert the refined prototype into a full
 system.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Build Prototype
+
+va Ne customer
+
+Requirements
+. . Cust satisfied .
+Gathering —> Quick Design Evaluation of Design
+Prototype J
+x / Implement
+Refine a5
+Requirements
+
+Test
+
+Maintenance
 --- page 2 ---
 CO-1,2;   b
 SO- 5;   Explain the purpose and usage of the following Git commands with   5
@@ -3166,6 +3265,27 @@ adopted, organizations may exhibit "agile theater," where teams go
 through the motions (e.g., daily stand-ups) without actually
 following agile principles.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+AGILE MANIFESTO
+
+FOUR CORE VALUES & TWELVE PRINCIPLES
+
+Deliver Early & Often
+Embrace Change 4 1.
+
+Release Frequently
+Collaborate Daily ¢ > 02. hoch
+Empower Teams Working software
+
+Talk Face-to-Face over comprehensive documentation
+Measure by Working Software 03. Castomer:
+Maintain Sustainable Pace Fone a fern
+Focus on Quality 04.
+Keep It Simple Poi ron beri
+
+Trust Self-Organizing Teams
+Reflect & Improve
 --- page 5 ---
 Integration Issues & Hidden Dependencies: As described, multiple
 teams working on a single project create significant dependencies,
@@ -3743,6 +3863,23 @@ Phases of Prototyping Model:
 6. Final Development – Convert the refined prototype into a full
 system.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Build Prototype
+
+va Ne customer
+
+Requirements
+. . Cust satisfied .
+Gathering —> Quick Design Evaluation of Design
+Prototype J
+x / Implement
+Refine a5
+Requirements
+
+Test
+
+Maintenance
 --- page 2 ---
 CO-1,2;   b
 SO- 5;   Explain the purpose and usage of the following Git commands with   5
@@ -3854,6 +3991,27 @@ adopted, organizations may exhibit "agile theater," where teams go
 through the motions (e.g., daily stand-ups) without actually
 following agile principles.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+AGILE MANIFESTO
+
+FOUR CORE VALUES & TWELVE PRINCIPLES
+
+Deliver Early & Often
+Embrace Change 4 1.
+
+Release Frequently
+Collaborate Daily ¢ > 02. hoch
+Empower Teams Working software
+
+Talk Face-to-Face over comprehensive documentation
+Measure by Working Software 03. Castomer:
+Maintain Sustainable Pace Fone a fern
+Focus on Quality 04.
+Keep It Simple Poi ron beri
+
+Trust Self-Organizing Teams
+Reflect & Improve
 --- page 5 ---
 Integration Issues & Hidden Dependencies: As described, multiple
 teams working on a single project create significant dependencies,

@@ -43,6 +43,43 @@ ii. Spread Time of SCR :
 (2.5 marks)
 d. Static Scherbius Drive:
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Sr. No. Salient Pole Type Smooth Cylindrical Type
+
+1. Poles are projecting out from the Unslotied portion of the cylinder acts
+surface. as poles hence poles are non-
+projecting.
+2. Air gap is non-uniform. Air gap is uniform due to smooth
+cylindrical periphery.
+3. Diameter is high and axial length is | Smail diameter and large axial length
+small. is the feature.
+4. Mechanically weak. Mechanically robust.
+5. Preferred for low speed alternators. Preferred for high speed altemators
+Le. for turboalternators.
+6. Prime mover used are water Prime movers used are steam
+turbines, 1.C. engines. turbines, electric motors.
+7, For same size, the rating is smailer For same size, rating is higher than
+than cylindrical type. salient pole type.
+
+8. Separate damper winding is Separate damper winding is not
+provided. necessary.
+
+Spread Time of SCR:-
+
+It is the time taken by the anode current to rise
+from 90% to 100% of its final value.
+
+At the same time the anode voltage decreases
+from 10% of its initial value to smallest possible
+value
+
+In this interval of time conduction spreads all over
+the area of cathode and the SCR will go to fully ON
+State.
+
+Spread time of SCR depends upon the cross-
+sectional area of cathode.
 --- page 3 ---
 Q2.
 a.
@@ -146,6 +183,42 @@ frequency becomes
 2 marks
 2 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+If.R, is negligible, gives the maximum torque at the base speed as
+
+3V5
+
+The maximum torque at any other frequency is
+vV.\2
+tee (*)
+2u,(A, + A?) \B
+and from Eq. (15.25), the corresponding slip is
+
+Rk
+*m   B(X, +X)
+
+Torque
+10-7
+
+x
+
+0.8 ‘
+
+T ot To, = ste
+ae Tm PB” = Tigh = constant
+
+0.44
+
+0.45 2 mark:
+
+0275
+
+1]
+
+FIGURE
+
+Torque characteristics with frequency control.
 --- page 7 ---
 * The maximum average output voltage of a semi-converter:
 
@@ -231,6 +304,53 @@ central computer.
 •   To limit the armature current of the motor, an inner current-control loop is used. The armature current signal
 can be fed into the microcomputer through an A/D converter or by sampling the armature current.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Microcomputer
+
+~ Single-phase
+_ Line ac supply
+| Derermination. 1 synchronizing +4
+| Determination ! Circuit
+| of thyristors i
+to be tired ---+--|—
+rr = a
+1   Delay-angie 1
+! generation = *- — — ———
+oleae Siteeiend Timing
+(a 777 and
+| Current en logic
+| controller r 7 |»| h
+—~--+---HJ a Four- | Pulse R,
+=r-==F juadrant amplifiers
+Cent i 4 logic | ° uy
+! Current | | I
+L comparator 1 LL
+
+controller
+
+| Speed
+
+| comparator
+i
+
+[72-4
+
+-~-L-- 14 A
+' Speed rob D Motor
+
+A current
+
+|
+7-TT TT D Speed
+A signal
+
+Speed
+reference, wf
+Start/stop
+command
+
+Figure Schematic diagram of computer control four-quadrant de drive.
 --- page 9 ---
 •   The line synchronizing circuit is required to synchronize the generation of the firing pulses with the supply line
 frequency. Although the microcomputer can perform the functions of gate pulse generator and logic circuit,
@@ -424,6 +544,14 @@ Q7.
 a. Derivation of the relationship between efficiency and slip of a 3-phase Induction motor- 5 marks
 Torque-speed characteristics – 5 marks
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+For a speed up to the base speed, the armature voltage is varied and the
+torque is maintained constant. Once the rated armature voltage is applied, the
+speed—torque relationship follows the natural characteristic of the motor and the
+power (= torque X speed) remains constant. As the torque demand is reduced,
+the speed increases. At a very light load, the speed could be very high and it is
+not advisable to run a de series motor on no-load.
 --- page 16 ---
 RK KKK RK KK 16 2h KKK RK Kk KK
 --- page 17 ---
@@ -445,7 +573,7 @@ FR ICR 7] QA HH
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_Mechatronics_7004/Industrial Drives/ANS_Industrial Drives(702MH0C011)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
 - Text: mixed (16 pages), mean OCR confidence 75.0
-- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -472,6 +600,14 @@ b. Compare salient pole motor with permanent magnet motor – 5 marks
 Salient Pole Motor:
 Permanent Magnet Motor:
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+The armature of salient-pole motors is similar to that of cylindrical rotor motors.
+However, due to saliency, the air gap is not uniform and the flux is dependent on the
+position of the rotor. The field winding is normally wound on the pole pieces. The
+armature current and the reactances can be resolved into direct- and quadrature-axis
+components. J; and J, are the|components of the armature current in the direct (or d)
+axis and quadrature (or q) axis, respectively.
 --- page 2 ---
 c.
 i. Holding current of SCR – 2.5 marks
@@ -480,6 +616,33 @@ turn off process.
 ii. Rise Time of SCR :
 d. Circuit Diagram – 5 marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+The permanent-magnet motors are similar to salient-pole motors, except that there is no
+field winding on the rotor and the field is provided by mounting permanent magnets at the
+rotor. The excitation voltage cannot be varied. For the same frame size, permanent-magnet
+motors have higher pull-out torque. The equations for the salient-pole motors may be
+applied to permanent-magnet motors if the excitation voltage V; is assumed constant. The
+elimination of field coil, dc supply, and slip rings reduces the motor loss and the complex-
+ity. These motors are also known as brushless motors and find increased applications in
+robots and machine tools.
+
+Rise Time of SCR:-
+
+Rise time of SCR in the time taken by the anode
+current to rise from 10% to 90% of its final
+value.
+
+At the same time anode voltage will fall from
+90% to 10% of its initial value V,.
+
+The phenomenon of decreasing anode voltage
+and increasing anode current is entirely
+dependent upon the type of the load.
+
+For example if we connect a inductive load,
+voltage will fall in a faster rate than the current
+increasing.
 --- page 3 ---
 Q2 a.
 Draw a neat diagram of structure of IGBT? Discuss its operating principle along with characteristics?
@@ -571,6 +734,25 @@ a.
 With the help of a suitable block diagram explain phase locked loop control of a separately excited dc motor
 Block Diagram- 4 marks
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+5. Rated Armature Current (at full load, 12 hp, 1800 rpm)
+* Output power: P = 12 x 746 = 8952 W
+
+« Rated torque: 1 mark
+
+P 8952
+
+8 aN
+Drag 188.50 m
+
+Tyated =
+
+e Armature current at rated:
+
+[Trated [47.51 |
+Ta rated = ~ yy ae et A
+rated K, 0.635 ~ 5-6
 --- page 8 ---
 Explanation — 6 marks
 
@@ -692,6 +874,46 @@ Q6.
 a Briefly explain the four-quadrant operation of a motor driving a hoist load
 Diagram – 4 marks
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+p=4,V, = 460/V3 = 265.58 V, w = 27 x 60 = 377 rad/s,
+,@, = 2 X 377/4 = 188.5 rad/s. d = 265.58/188.5 =
+1.409.
+
+= 265.58 V.
+
+— 0.38
+m (0.667 + (1.14 + 1.71)]2
+
+@,, = 188.5 x (1 — 0.1299) = 164.01 rad/s or 1566 rpm
+
+= 0.1299
+
+the maximum torque is
+
+re 3 x 265.58?
+™ "2 x 188.5[0.66 + 0.66 + (1.14 + 1.71)?]
+
+= 156.55 N-m
+
+At 30 Hz, o, = 2 x 2 x w 30/4 = 94.25 rad/s, 8B = 30/60 = 0.5, and V,
+dw, = 1.409 x 94.25 = 132.79 V. the slip for maximum torque
+is
+— 0.38
+“™ [0.66 + 0.52(1.14 + 1.71)]!2
+
+Sm = Tee + (1.14 + Lye 9-129
+
+®, = 188.5 x (1 — 0.1299) = 164.01 rad/s or 1566 rpm
+
+= 0.242
+
+the maximum torque is
+
+r= 3 x 265.58?
+™ "2x 188.5[0.66 + 0.662 + (1.14 + 1.71)
+
+= 156.55 N-m
 --- page 13 ---
 -—-~ T a~T
 <7, eg
@@ -763,6 +985,58 @@ brushless dc motor drive
 Circuit – 3 marks
 Waveforms- 3 marks
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+With a vector control, an induction motor can operate as a separately excited de motor.
+In adc machine, the developed torque is given by
+
+Ta = Kal
+
+where /, is the armature current and /; is the field current. The construction of a de ma-
+chine is such that the field flux linkage VW, produced by /; is perpendicular to the arma-
+ture flux linkage V, produced by /,. These flux vectors that are stationary in space are
+orthogonal or decoupled in nature. As a result, a dc motor has fast transient response.
+However, an induction motor cannot give such fast response due to its inherent coupling
+problem. However, an induction motor can exhibit the de machine characteristic if the
+machine is controlled in a synchronously rotating frame (d* — g°), where the sinusoidal
+machine variables appear as de quantities in the steady state.
+
+Figure 15.24a shows an inverter-fed induction motor with two control current
+inputs: i;f and igs are the direct-axis component and quadrature-axis component of
+
+the stator current, respectively, in a synchronously rotating reference frame. With
+vector control, i, is analogous to the field current /; and ij, is analogous to armature
+current J, of a dc motor. Therefore, the developed torque of an induction motor is
+given by
+
+Ty = Ky Wylp = Kilasigs,
+
+where W, is the absolute peak value of the sinusoidal space flux linkage vector V,;
+i,, is the field component;
+iz, is the torque component.
+
+Figure 15.24b shows the space-vector Siagram for vector control: ij, is oriented (or
+aligned) in the direction of rotor flux A,, and if must be perpendicular to it under all
+operating conditions. The space vectors rotate synchronously at electrical frequency
+, = w. Thus, the vector control must ensure the correct orientation of the space
+vectors and generate the control input signals.
+
+The implementation of the vector control is shown in Figure 15.24c. The inverter
+generates currents i,, is, and i. in response to the corresponding command currents
+is, if, and i* from the controller. The machine terminal currents i,. i, and i. are con-
+verted to ij, and ij, components by three-phase to two-phase transformation. These
+
+are then converted to synchronously rotating frame (into ij, and 7,, components) by
+the unit vector components cos 6, and sin 6, before applying them to the machine. The
+machine is represented by internal conversions into the d° — g* model.
+
+The controller makes two stages of inverse transformation so that the line con-
+trol currents i,j, and igs correspond to the machine currents ij, and i,,, respectively. In
+addition, the unit vector (cos 4, and sin 4,) ensures correct alignment of i,, current with
+the flux vector V’, and i,, current is perpendicular to it. It is important to note that the
+transformation and inverse transformation ideally do not incorporate any dynamics.
+Therefore, the response to i,, and i,, is instantaneous except for any delays due to com-
+putational and sampling times.
 --- page 16 ---
 Explanation — 4 marks
 

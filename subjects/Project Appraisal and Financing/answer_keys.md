@@ -641,6 +641,19 @@ Understan
 d    Ensures lenders and investors receive their dues even if DISCOMs face financial
 difficulties.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Citizens Shadow Toll Framework
+
+ha Tax/Petrol
+
+Cess
+
+Government |—_________»| Toll Road Operator
+Shadow Toll
+
+Payments DBFO: Develops, Builds &
+Operates the road
 --- page 2 ---
 c
 CO- 2; SO-
@@ -675,6 +688,23 @@ intensive projects such as infrastructure development, energy plants, or real es
  The loan or funding is structured based on the projected cash flows the project will
 generate over its lifecycle (e.g., revenues from tolls, power sales, or rents).
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Decision Tree for ABC Petroleum Ltd.
+
+Oil Found (+80M)
+
+»
+<
+Start ~©——— P=1.0 —Beill 500m (-50M)
+\.
+Oe Oil Found (+150M)
+—
+\ pa
+
+No Oil —— P=1.0 Bri+ferther 600m (-60M)
+
+‘No Oil (Loss)
 --- page 3 ---
  Lenders have limited or no claim on the project sponsors’ other assets if the project fails.
 Instead, they rely on the project's cash flows and assets for repayment
@@ -886,6 +916,19 @@ Understan
 d    Ensures lenders and investors receive their dues even if DISCOMs face financial
 difficulties.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Citizens Shadow Toll Framework
+
+ha Tax/Petrol
+
+Cess
+
+Government |—_________»| Toll Road Operator
+Shadow Toll
+
+Payments DBFO: Develops, Builds &
+Operates the road
 --- page 2 ---
 c
 CO- 2; SO-
@@ -920,6 +963,23 @@ intensive projects such as infrastructure development, energy plants, or real es
  The loan or funding is structured based on the projected cash flows the project will
 generate over its lifecycle (e.g., revenues from tolls, power sales, or rents).
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Decision Tree for ABC Petroleum Ltd.
+
+Oil Found (+80M)
+
+»
+<
+Start ~©——— P=1.0 —Beill 500m (-50M)
+\.
+Oe Oil Found (+150M)
+—
+\ pa
+
+No Oil —— P=1.0 Bri+ferther 600m (-60M)
+
+‘No Oil (Loss)
 --- page 3 ---
  Lenders have limited or no claim on the project sponsors’ other assets if the project fails.
 Instead, they rely on the project's cash flows and assets for repayment
@@ -1131,6 +1191,19 @@ Understan
 d    Ensures lenders and investors receive their dues even if DISCOMs face financial
 difficulties.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Citizens Shadow Toll Framework
+
+ha Tax/Petrol
+
+Cess
+
+Government |—_________»| Toll Road Operator
+Shadow Toll
+
+Payments DBFO: Develops, Builds &
+Operates the road
 --- page 2 ---
 c
 CO- 2; SO-
@@ -1165,6 +1238,23 @@ intensive projects such as infrastructure development, energy plants, or real es
  The loan or funding is structured based on the projected cash flows the project will
 generate over its lifecycle (e.g., revenues from tolls, power sales, or rents).
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Decision Tree for ABC Petroleum Ltd.
+
+Oil Found (+80M)
+
+»
+<
+Start ~©——— P=1.0 —Beill 500m (-50M)
+\.
+Oe Oil Found (+150M)
+—
+\ pa
+
+No Oil —— P=1.0 Bri+ferther 600m (-60M)
+
+‘No Oil (Loss)
 --- page 3 ---
  Lenders have limited or no claim on the project sponsors’ other assets if the project fails.
 Instead, they rely on the project's cash flows and assets for repayment
@@ -1376,6 +1466,19 @@ Understan
 d    Ensures lenders and investors receive their dues even if DISCOMs face financial
 difficulties.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Citizens Shadow Toll Framework
+
+ha Tax/Petrol
+
+Cess
+
+Government |—_________»| Toll Road Operator
+Shadow Toll
+
+Payments DBFO: Develops, Builds &
+Operates the road
 --- page 2 ---
 c
 CO- 2; SO-
@@ -1410,6 +1513,23 @@ intensive projects such as infrastructure development, energy plants, or real es
  The loan or funding is structured based on the projected cash flows the project will
 generate over its lifecycle (e.g., revenues from tolls, power sales, or rents).
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Decision Tree for ABC Petroleum Ltd.
+
+Oil Found (+80M)
+
+»
+<
+Start ~©——— P=1.0 —Beill 500m (-50M)
+\.
+Oe Oil Found (+150M)
+—
+\ pa
+
+No Oil —— P=1.0 Bri+ferther 600m (-60M)
+
+‘No Oil (Loss)
 --- page 3 ---
  Lenders have limited or no claim on the project sponsors’ other assets if the project fails.
 Instead, they rely on the project's cash flows and assets for repayment
@@ -1652,6 +1772,35 @@ dollars.
 accounting for usually 65% to 80% of capital in relatively normal cases.
  Long term The tenor for project financings can easily reach 15 to 20 years.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Start
+
+Decision Tree for XYZ Mining Ltd.
+
+‘Survey Positive —— P=1.0 ——» brill 50M)
+
+P=1.0 —Conduct Survey (-10M)
+
+‘survey Negati—— P=1.0 Gonduet-Geological Study (-15M)
+
+5
+oo
+
+Ans
+
+4
+ra
+
+06
+
+Gold Found (+120)
+
+No Gold (Loss)
+
+‘Study Positive
+
+study Negative
 --- page 3 ---
  Costly :Raising capital through project finance is generally more costly than
 through typical corporate finance avenues. The greater need for information,

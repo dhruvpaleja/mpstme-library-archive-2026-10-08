@@ -129,6 +129,33 @@ layer normalization, residual connections)
 • perform forward pass and compute loss
 •   generate text sequentially
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+import torch
+import torch.nn as nn
+
+class LSTMModel(nn.Module):
+def _ init__(self, vocab_size, embed_size, hidden_size):
+super().__init__()
+self.embedding = nn.Embedding({voceb_size, embed_size})
+self.istm = nn.LS7M(embed_size, hidden_size)
+self.fc = nn.Linear(hidden_size, vocab_size)
+
+def forward(self, x):
+x = self.embedding(x)
+out, _ = self.istm({x)
+out = self.fc(out[:, -1])
+return out
+
+model = LSTMModel(vocab_size=100, embed_size=32, hidden_size=64)
+
+x = torch.randint(@, 100, (16, 18)) # (batch_size, seq_len)
+output = model({x)
+
+loss_fn = nn.CrossEntropyLoss()
+target = torch.randint(@, 108, (16, 18))
+
+loss = loss_fn{output, target)
 ````
 
 ## 2024-25 · Final-Exam · Sem 2 · paper 161974283a57
@@ -249,6 +276,23 @@ CO-3; SO-   in Transformers like BERT or T5. Conclude its significance in machin
 BL-1,4   translation and image-captioning models. Finally, discuss the impact of
 removing Cross-Attention from a Transformer-based architecture.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+import tensorflow as tf
+from tensorflow.keras import layers, models
+
+model = models. Sequential ([
+layers.Conv2D(64, (5,5), activation='relu', input_shape=(28, 28)), # Error 1
+layers.MaxPooling2D(3,3), # Error 2
+layers.Conv20(32, (3,3), activation='relu'),
+layers .MaxPooling2D(2,2) ,
+layers.Dense(128, activation='relu'), # Error 3
+layers Dropout(@.5)
+layers.Dense(10, activation="sigmoid') # Error 4
+
+})
+
+model. compile(optimizer='adam', loss='mean_squared_error’, metrics=['accuracy']) # Error 5
 ````
 
 ## 2024-25 · Final-Exam · Sem 2 · paper 603bbc0039d8

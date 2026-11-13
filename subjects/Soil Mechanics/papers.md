@@ -147,6 +147,15 @@ Instructions:
 6. Figures in brackets on the right-hand side indicate full marks.
 7. Assume Suitable data if necessary.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Answer briefly:
+cO- 1; Explain the ‘Concept of Residual Soil’ and discuss its different zones with a neat [03]
+BL-2 sketch,
+oO % Discuss the ‘Hydrometer Method’ of sedimentation analysis. [05]
+CO- 3: Discuss the concept of “Sand Boiling’ and ‘Critical Hydraulic Gradient’ with the [05]
+BL-2 graph of hydraulic gradient versus discharge per unit time.
+co- 1, Explain the method of ‘Augur Boring’ for soil exploration with a neat sketch. [03]
 --- page 2 ---
 Qz a. Derive the following functional relationships: [10]
 

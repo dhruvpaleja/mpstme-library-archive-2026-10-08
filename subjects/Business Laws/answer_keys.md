@@ -1361,6 +1361,58 @@ However, an implied condition may be negated or waived by an express agreement.
 The following conditions are implied in a contract of sale of goods unless the
 circumstances of the contract show a different intention:
 Page 4 of 6
+
+[Text in pictures on this page, read by OCR]
+Condition as to In every contract of sale, there is an umplied condition on part of the
+title seller that:
+a. In case of sale, he has ownership and right to sell the goods,
+and
+b. In an agreement to sell, he will have a right to sell the goods
+at the time when the property is to pass.
+
+Sale by Where there is a contract of sale of goods by description, there is an
+
+Description implied condition that goods delivered by seller shall correspond
+with such description. If the goods does mot correspond with the
+descnption, the buyer is not bound to accept and pay for the goods.
+
+Sale by sample Ina contract of sale by sample, there is an implied condition that:
+. The bulk should correspond with the sample in quality;
+. The buyer shall have reasonable opportunity of comparing
+the bulk with the sample: and
+. The goods shall be free from any defect rendenng them un-
+merchantable, which would not be apparent on reasonable examination
+
+of the sample.
+Sale by sample as | Where the goods are sold by sample as well as by descnption the
+well as by implied condition is that the bulk of the goods supplied must
+description correspond both with the sample and the description. In case the
+
+goods comespond with the sample but do not tally with the
+description or vice versa, the buyer can repudiate the contract.
+
+Condition as to There is no implied condition as to the quality or fitmess for any
+
+quality or fitmess | particular purpose of goods supplied under a contract of sale. There
+is an imphed condition as to the reasonable quality or fitness of
+goods if:
+
+a) The particular purpose for which goods are required must have
+been disclosed by the buyer to the seller.
+
+b) The buyer must have relied upon the seller’s skill or judement
+of the seller to select the best goods and
+
+c) The seller has ordinarily been dealing in those goods. However,
+there is no implied condition where:
+
+a) The buyer has mot disclosed to the seller any abnormal
+circumstances or
+
+b) The buyer buys a specified article under its patent or other
+trade name and
+
+c) Buyer has not relied upon the skill and judgment of seller.
 --- page 5 ---
 II. ANSWER   5
 The court held that the seller breached the implied warranty as to freedom from
@@ -1390,6 +1442,20 @@ against defective goods, deficient services, or unfair trade practices.
 6. Right to Consumer Education - The Act ensures the right to acquire knowledge and
 skills to make informed purchasing decisions.
 Page 5 of 6
+
+[Text in pictures on this page, read by OCR]
+‘Condition asto = Merchantable quality means that the goods should be resalable in the
+merchantable market under the particular description by which they are known. They
+quality jare not merchantable if they have defects which make them unfit for
+jordinary use, or are such that a reasonable person knowing of their
+condition would not buy them.
+(Where the goods are bought be description from a seller who deals in
+that type of goods, there is an implied condition that the goods shall
+be merchantable quality.
+
+‘Condition asto = [In a contract of sale of provisions and eatables, there is an implied
+wholesomeness —_ condition that the goods shall be wholesome or sound, i.e. goods should
+be fit for human consumption.
 --- page 6 ---
 II. Yes, XYZ can avoid the contract.   5
 There is an implied condition as to the reasonable quality or fitness of goods if:
@@ -1516,6 +1582,58 @@ However, an implied condition may be negated or waived by an express agreement.
 The following conditions are implied in a contract of sale of goods unless the
 circumstances of the contract show a different intention:
 Page 4 of 6
+
+[Text in pictures on this page, read by OCR]
+Condition as to In every contract of sale, there is an umplied condition on part of the
+title seller that:
+a. In case of sale, he has ownership and right to sell the goods,
+and
+b. In an agreement to sell, he will have a right to sell the goods
+at the time when the property is to pass.
+
+Sale by Where there is a contract of sale of goods by description, there is an
+
+Description implied condition that goods delivered by seller shall correspond
+with such description. If the goods does mot correspond with the
+descnption, the buyer is not bound to accept and pay for the goods.
+
+Sale by sample Ina contract of sale by sample, there is an implied condition that:
+. The bulk should correspond with the sample in quality;
+. The buyer shall have reasonable opportunity of comparing
+the bulk with the sample: and
+. The goods shall be free from any defect rendenng them un-
+merchantable, which would not be apparent on reasonable examination
+
+of the sample.
+Sale by sample as | Where the goods are sold by sample as well as by descnption the
+well as by implied condition is that the bulk of the goods supplied must
+description correspond both with the sample and the description. In case the
+
+goods comespond with the sample but do not tally with the
+description or vice versa, the buyer can repudiate the contract.
+
+Condition as to There is no implied condition as to the quality or fitmess for any
+
+quality or fitmess | particular purpose of goods supplied under a contract of sale. There
+is an imphed condition as to the reasonable quality or fitness of
+goods if:
+
+a) The particular purpose for which goods are required must have
+been disclosed by the buyer to the seller.
+
+b) The buyer must have relied upon the seller’s skill or judement
+of the seller to select the best goods and
+
+c) The seller has ordinarily been dealing in those goods. However,
+there is no implied condition where:
+
+a) The buyer has mot disclosed to the seller any abnormal
+circumstances or
+
+b) The buyer buys a specified article under its patent or other
+trade name and
+
+c) Buyer has not relied upon the skill and judgment of seller.
 --- page 5 ---
 II. ANSWER   5
 The court held that the seller breached the implied warranty as to freedom from
@@ -1545,6 +1663,20 @@ against defective goods, deficient services, or unfair trade practices.
 6. Right to Consumer Education - The Act ensures the right to acquire knowledge and
 skills to make informed purchasing decisions.
 Page 5 of 6
+
+[Text in pictures on this page, read by OCR]
+‘Condition asto = Merchantable quality means that the goods should be resalable in the
+merchantable market under the particular description by which they are known. They
+quality jare not merchantable if they have defects which make them unfit for
+jordinary use, or are such that a reasonable person knowing of their
+condition would not buy them.
+(Where the goods are bought be description from a seller who deals in
+that type of goods, there is an implied condition that the goods shall
+be merchantable quality.
+
+‘Condition asto = [In a contract of sale of provisions and eatables, there is an implied
+wholesomeness —_ condition that the goods shall be wholesome or sound, i.e. goods should
+be fit for human consumption.
 --- page 6 ---
 II. Yes, XYZ can avoid the contract.   5
 There is an implied condition as to the reasonable quality or fitness of goods if:
@@ -1671,6 +1803,58 @@ However, an implied condition may be negated or waived by an express agreement.
 The following conditions are implied in a contract of sale of goods unless the
 circumstances of the contract show a different intention:
 Page 4 of 6
+
+[Text in pictures on this page, read by OCR]
+Condition as to In every contract of sale, there is an umplied condition on part of the
+title seller that:
+a. In case of sale, he has ownership and right to sell the goods,
+and
+b. In an agreement to sell, he will have a right to sell the goods
+at the time when the property is to pass.
+
+Sale by Where there is a contract of sale of goods by description, there is an
+
+Description implied condition that goods delivered by seller shall correspond
+with such description. If the goods does mot correspond with the
+descnption, the buyer is not bound to accept and pay for the goods.
+
+Sale by sample Ina contract of sale by sample, there is an implied condition that:
+. The bulk should correspond with the sample in quality;
+. The buyer shall have reasonable opportunity of comparing
+the bulk with the sample: and
+. The goods shall be free from any defect rendenng them un-
+merchantable, which would not be apparent on reasonable examination
+
+of the sample.
+Sale by sample as | Where the goods are sold by sample as well as by descnption the
+well as by implied condition is that the bulk of the goods supplied must
+description correspond both with the sample and the description. In case the
+
+goods comespond with the sample but do not tally with the
+description or vice versa, the buyer can repudiate the contract.
+
+Condition as to There is no implied condition as to the quality or fitmess for any
+
+quality or fitmess | particular purpose of goods supplied under a contract of sale. There
+is an imphed condition as to the reasonable quality or fitness of
+goods if:
+
+a) The particular purpose for which goods are required must have
+been disclosed by the buyer to the seller.
+
+b) The buyer must have relied upon the seller’s skill or judement
+of the seller to select the best goods and
+
+c) The seller has ordinarily been dealing in those goods. However,
+there is no implied condition where:
+
+a) The buyer has mot disclosed to the seller any abnormal
+circumstances or
+
+b) The buyer buys a specified article under its patent or other
+trade name and
+
+c) Buyer has not relied upon the skill and judgment of seller.
 --- page 5 ---
 II. ANSWER   5
 The court held that the seller breached the implied warranty as to freedom from
@@ -1700,6 +1884,20 @@ against defective goods, deficient services, or unfair trade practices.
 6. Right to Consumer Education - The Act ensures the right to acquire knowledge and
 skills to make informed purchasing decisions.
 Page 5 of 6
+
+[Text in pictures on this page, read by OCR]
+‘Condition asto = Merchantable quality means that the goods should be resalable in the
+merchantable market under the particular description by which they are known. They
+quality jare not merchantable if they have defects which make them unfit for
+jordinary use, or are such that a reasonable person knowing of their
+condition would not buy them.
+(Where the goods are bought be description from a seller who deals in
+that type of goods, there is an implied condition that the goods shall
+be merchantable quality.
+
+‘Condition asto = [In a contract of sale of provisions and eatables, there is an implied
+wholesomeness —_ condition that the goods shall be wholesome or sound, i.e. goods should
+be fit for human consumption.
 --- page 6 ---
 II. Yes, XYZ can avoid the contract.   5
 There is an implied condition as to the reasonable quality or fitness of goods if:

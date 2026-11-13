@@ -9,7 +9,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Departments: Mechanical
 - Programmes: MBATech (MECHANICAL ENGINEERING) - 7046
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/MBATech (MECHANICAL ENGINEERING) - 7046/Analytics in Operations and Supply Chai_65448e85/QP_Analytics in Operations and Supply Chain Management(703TO0E008)_2025-2026.pdf`
-- Text: none (FileDataError: Failed to open stream)
+- Text: none (encrypted by the portal: the file is uniformly random bytes in 16-byte cipher blocks with no PDF structure, and the archive holds no key (its own re-download got the same bytes))
 
 ## 2025-26 · Final-Exam · Sem 9 · paper 89e20af8079a
 
@@ -59,6 +59,15 @@ analyzed monthly data (Jan–Dec) on:
 CO-1,2 ;   [3]
 BL- Apply   A summary output of descriptive analytics is shown below:
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Avg. Monthly Order
+
+Region Volume Avg. Lead Time (days) Std. Dev. of Lead Time Total Stock-out:
+North 48,000 units 3.2 days 0.6 12
+South 52,500 units 4.8 days 14 26
+
+West 45,200 units 3.9 days 09 18
 --- page 2 ---
 i.   Using the descriptive analytics summary, identify key performance differences
 between regions.
@@ -140,6 +149,20 @@ Assumptions:
 •   If multiple breakdowns occur in the same hour, treat them as simultaneous
 arrivals at the start of that hour. Serve in FIFO order.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Breakdowns per hour
+
+Breakdowns / hour Probability
+° 0.70
+1 020
+2 0.10
+Repair time per breakdown
+Repair time (hrs) Probability
+1 030
+2 050
+
+3 020
 --- page 4 ---
 • Use one repairman. A breakdown that occurs while the repairman is busy must
 wait.
@@ -176,6 +199,34 @@ c. Discuss how smart analytics improved firm’s supply chain performance.
 d. Suggest one additional Industry 4.0 tool firm could implement and justify its
 value.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Key Industry 4.0 Initiatives Implemented
+
+Technology Purpose
+
+loT-enabled machines Real-time tracking of machine temperature, vibration, tool wear, and
+downtime
+
+Cyber-Physical Production System (CPPS) Automatically adjusts machining speed and feed rate
+
+Cloud-based Production Dashboard Tracks WIP inventory, takt time variance, and scrap rate across plants
+
+Al-powered Quality Analytics Predicts defect probability & triggers early corrective action
+
+Automated Guided Vehicles (AGVs) Moves material between machining stations based on real-time
+queue status
+
+Outcome Snapshot (after 1 year)
+
+KPI Before After
+Machine Downtime 12% 5%
+Scrap/Rework Rate 4.8% 1.9%
+
+Order Fulfillment Lead Time 9 days 6 days
+Customer Complaints 62 per quarter 21 per quarter
+
+Production Cost Reduction - 11% reduction
 ````
 
 ## 2025-26 · Final-Exam · Sem 9 · paper 557e76093ca6
@@ -226,6 +277,15 @@ analyzed monthly data (Jan–Dec) on:
 CO-1,2 ;   [3]
 BL- Apply   A summary output of descriptive analytics is shown below:
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Avg. Monthly Order
+
+Region Volume Avg. Lead Time (days) Std. Dev. of Lead Time Total Stock-out:
+North 48,000 units 3.2 days 0.6 12
+South 52,500 units 4.8 days 14 26
+
+West 45,200 units 3.9 days 09 18
 --- page 2 ---
 i.   Using the descriptive analytics summary, identify key performance differences
 between regions.
@@ -307,6 +367,20 @@ Assumptions:
 •   If multiple breakdowns occur in the same hour, treat them as simultaneous
 arrivals at the start of that hour. Serve in FIFO order.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Breakdowns per hour
+
+Breakdowns / hour Probability
+° 0.70
+1 020
+2 0.10
+Repair time per breakdown
+Repair time (hrs) Probability
+1 030
+2 050
+
+3 020
 --- page 4 ---
 • Use one repairman. A breakdown that occurs while the repairman is busy must
 wait.
@@ -343,6 +417,34 @@ c. Discuss how smart analytics improved firm’s supply chain performance.
 d. Suggest one additional Industry 4.0 tool firm could implement and justify its
 value.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Key Industry 4.0 Initiatives Implemented
+
+Technology Purpose
+
+loT-enabled machines Real-time tracking of machine temperature, vibration, tool wear, and
+downtime
+
+Cyber-Physical Production System (CPPS) Automatically adjusts machining speed and feed rate
+
+Cloud-based Production Dashboard Tracks WIP inventory, takt time variance, and scrap rate across plants
+
+Al-powered Quality Analytics Predicts defect probability & triggers early corrective action
+
+Automated Guided Vehicles (AGVs) Moves material between machining stations based on real-time
+queue status
+
+Outcome Snapshot (after 1 year)
+
+KPI Before After
+Machine Downtime 12% 5%
+Scrap/Rework Rate 4.8% 1.9%
+
+Order Fulfillment Lead Time 9 days 6 days
+Customer Complaints 62 per quarter 21 per quarter
+
+Production Cost Reduction - 11% reduction
 ````
 
 ## 2025-26 · Re-Exam · Sem 9 · paper 14e49f538935
@@ -403,6 +505,15 @@ CO-   blade sub-assemblies for aircraft engines and UAV propulsion systems. The 
 BL-   firm currently uses a traditional process layout consisting of milling, drilling,
 EDM, inspection, and finishing departments.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Avg. Monthly Shipments Std. Dev. Delivery Time
+
+Hub (tons) Avg. Delivery Time (hrs) (hrs) % Deliveries Late
+East 2,850 10.5 18 6%
+Central 3,400 14.2 39 17%
+
+West 2,600 12.1 23 9%
 --- page 2 ---
 underst   However, the company faces the following operational challenges:
 and
@@ -514,6 +625,22 @@ BL-
 Evaluat
 e
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Number of breakdowns per hour
+
+Breakdowns / hour Probability
+° 0.88
+1 0.09
+2 0.03
+
+Repair time per breakdown
+
+Repair time (hrs) Probability
+1 0.20
+2 0.55
+
+3 0.25
 --- page 5 ---
 Q.7.   [10]
 A frim manufactures aerospace turbine blades and supplies components to
@@ -531,6 +658,29 @@ c. Discuss how smart analytics improved firm’s supply chain performance.
 d. Suggest one additional Industry 4.0 tool firm could implement and
 justify its value.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Industry 4.0 Initiatives Adopted
+
+Technology Purpose
+
+loT-enabled CNC & Milling Centers Monitor spindle load, thermal stress, vibration, too! usage
+Al-based Predictive Maintenance Estimates tool failure & trigger maintenance before breakdown
+Real-time MES Dashboard Tracks processing time per station, bottlenecks, and defect trends
+Automated Optical Inspection (AO!) Vision-based surface defect detection on blades
+
+Autonomous Inventory Robots Track too! kits & raw material bins across shop fioor
+
+Performance Improvement After 1 Year
+
+KPI Before After
+Machine Breakdown Incidents 18 per quarter 6 per quarter
+Scrap Rate 3.6% 1.2%
+
+Process Cycle Time 14 days 9 days
+Maintenance Cost — 8% reduction
+
+Customer On-time Delivery 84% 96%
 ````
 
 ## 2024-25 · Final-Exam · Sem 10 · paper f29420cb698c

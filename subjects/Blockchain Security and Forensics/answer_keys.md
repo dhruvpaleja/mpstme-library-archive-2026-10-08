@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CyberSecurity_7010/Blockchain Security and Forensics/ANS_Blockchain Security and Forensics(702IT0E021)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12 May 2026
 - Text: text (7 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -103,6 +104,30 @@ Q2
 CO-1
 BL-2
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+4 main types of blockchain technology
+
+Public Private Hybrid Consortium
+
+(permissionless) (permissioned)
+Independence Access control Access control Access control
+
+ADVANTAGES Transparency Performance Performance Scalability
+
+Trust Scalability Security
+
+= Performance = Trust = Transparency = Transparency
+
+DISADVANTAGES = Scalability = Auditability = Upgrading
+
+= Security
+
+Cryptocurrency Supply chain Medical records Banking
+USE CASES Document validation Asset ownership Real estate Research
+
+Supply chain
+
 --- page 3 ---
 b. A Sybil attack uses a single node to operate many active fake identities (or Sybil   [10]
 identities) simultaneously, within a peer-to-peer network.
@@ -195,6 +220,27 @@ Generating WIF key from private key.
 5. Take the first 4 bytes from step 4. This is your checksum
 6. Add the checksum to the end of the key from step 2
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Feature & UTXO Model (e.g., Bitcoin) Account Model (e.g., Ethereum)
+
+Analogy Physical cash / individual bills Bank ledger / digital balance
+
+Balance Tracking Sum of unspent outputs Single balance per address
+
+Transaction Parallelizable Sequential (linear)
+
+Processing
+
+Privacy High (through address rotation) Low (all history tied to one
+
+address)
+
+Complexity High (management of multiple Low (user-friendly and intuitive)
+
+outputs)
+
+Smart Contracts Challenging/Limited Flexible and robust
 --- page 5 ---
 7. Base58-encode the result from step 6
 a. The ERC-20 token standard can be described as a blueprint for creating fungible [10]

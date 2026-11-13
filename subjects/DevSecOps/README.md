@@ -1,6 +1,6 @@
 # DevSecOps
 
-**4** unique papers (4 copies across programmes) · 2025-26 · 1 programme · Sem 7
+**6** unique papers (6 copies across programmes) · 2024-25 to 2025-26 · 2 programmes · Sem 7
 
 Download only this subject, sorted by academic year:
 
@@ -12,11 +12,17 @@ Files land in `D:/Study/PYQs_By_Subject/DevSecOps/<academic year>/`. Identical c
 
 Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (every paper in full, newest first), [`questions.jsonl`](questions.jsonl) (one record per question with marks, year, exam, semester and department) and [`papers.jsonl`](papers.jsonl) (one record per paper). Answer keys, where the portal published them, are in `answer_keys.md`. See [`question_bank/README.md`](../../question_bank/README.md) for the fields.
 
+Syllabus of this course, every version found in the archive: [`syllabus.md`](syllabus.md) (see [`syllabi/`](../../syllabi/README.md) for all programmes).
+
+Also filed as: `DEVSECOPS`
+
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Question paper | Sem 7 | B TECH / CSE CYBER SECURITY | DevSecOps__Sem-VII__Year_2025-26__Final_Exam_qdGjXUB1CZ.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech CyberSecurity 7010 | QP_DevSecOps(702IT0E031)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CyberSecurity 7010 | ANS_DevSecOps(702IT0E031)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech CyberSecurity 7010 | QP_DevSecOps(702IT0E031)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 7 | BTech CyberSecurity 7010 | ANS_DevSecOps(702IT0E031)_2025-2026.pdf |
+| 2024-25 | Final-Exam | Question paper | Sem 7 | B TECH / CSE CYBER SECURITY | DevSecOps__Sem-VII__Final_Exam_2024-25_8VHmZaWjad.pdf |
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

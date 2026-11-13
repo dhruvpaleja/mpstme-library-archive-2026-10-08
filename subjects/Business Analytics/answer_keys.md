@@ -3412,6 +3412,18 @@ Model_1   8
 UCL   267.00   281.69   301.67   322.3 341.15
 3
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+BB Coefficient
+10 — Upper Confidence Limit
+Lower Confidence Limit
+os
+oo
+08
+40
+
+12 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Lag Number
 --- page 10 ---
 LCL   204.19   165.45   146.45   146.2 158.50
 4
@@ -3881,6 +3893,18 @@ Model_1   8
 UCL   267.00   281.69   301.67   322.3 341.15
 3
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+BB Coefficient
+10 — Upper Confidence Limit
+Lower Confidence Limit
+os
+oo
+08
+40
+
+12 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Lag Number
 --- page 10 ---
 LCL   204.19   165.45   146.45   146.2 158.50
 4
@@ -4350,6 +4374,18 @@ Model_1   8
 UCL   267.00   281.69   301.67   322.3 341.15
 3
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+BB Coefficient
+10 — Upper Confidence Limit
+Lower Confidence Limit
+os
+oo
+08
+40
+
+12 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Lag Number
 --- page 10 ---
 LCL   204.19   165.45   146.45   146.2 158.50
 4

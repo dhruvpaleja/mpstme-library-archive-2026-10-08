@@ -308,6 +308,23 @@ Determine & explain the fundamentals of the advertising campaign for
 Center Fresh based on the case study above.
 The student may write on the following pointers-
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+«Digging for facts, data, information and knowledge
+Research *Helps unearth nuggets about target audience, spot new trends, uncover
+new product uses, discover competitor's weaknesses, etc.
+_ * ‘Message’ that the advertiser gives to solve a communications-
+Advertising related problem
+strategy « What the advt proposes to do or say to solve the communication
+problem
+*Idea that advertisers select for communicating the strategic message
+Bi ig idea ina creative way- link b/w strategy and creative execution
+*Central theme for a series of ad campaigns
+. . *Physical form of an advertisement — story, script, copy, art, music,
+Creative execution words and phrases, colour, production, etc.
+Tactics | Short-term decisions about specific, tangible tasks related to the
+
+advertising method, media, etc.
 --- page 4 ---
 Q4   [10]
 CO-2;   A streaming service Amazon Prime Video has collaborated with Discovery+,
@@ -384,6 +401,15 @@ use in the marketing communication.
 The student may write on the following pointers- (Ad execution technique any 5-
 2 marks per technique)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Straight sell | Animation |
+Scientific/Technical | Personality Symbol |
+
+Demonstration } Imagery |
+Comparison | Dramatization |
+Testimonial | Humor |
+Slice of life | Combinations |
 --- page 6 ---
 Q6   Dream11, India’s largest fantasy sports platform, has announced the [10]
 CO-3;   promotion of its Responsible Gaming Campaign. Dream11’s Responsible
@@ -582,6 +608,23 @@ Determine & explain the fundamentals of the advertising campaign for
 Center Fresh based on the case study above.
 The student may write on the following pointers-
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+«Digging for facts, data, information and knowledge
+Research *Helps unearth nuggets about target audience, spot new trends, uncover
+new product uses, discover competitor's weaknesses, etc.
+_ * ‘Message’ that the advertiser gives to solve a communications-
+Advertising related problem
+strategy « What the advt proposes to do or say to solve the communication
+problem
+*Idea that advertisers select for communicating the strategic message
+Bi ig idea ina creative way- link b/w strategy and creative execution
+*Central theme for a series of ad campaigns
+. . *Physical form of an advertisement — story, script, copy, art, music,
+Creative execution words and phrases, colour, production, etc.
+Tactics | Short-term decisions about specific, tangible tasks related to the
+
+advertising method, media, etc.
 --- page 4 ---
 Q4   [10]
 CO-2;   A streaming service Amazon Prime Video has collaborated with Discovery+,
@@ -658,6 +701,15 @@ use in the marketing communication.
 The student may write on the following pointers- (Ad execution technique any 5-
 2 marks per technique)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Straight sell | Animation |
+Scientific/Technical | Personality Symbol |
+
+Demonstration } Imagery |
+Comparison | Dramatization |
+Testimonial | Humor |
+Slice of life | Combinations |
 --- page 6 ---
 Q6   Dream11, India’s largest fantasy sports platform, has announced the [10]
 CO-3;   promotion of its Responsible Gaming Campaign. Dream11’s Responsible
@@ -808,6 +860,31 @@ Airtel Digital TV, currently has 29 million active subscribers. The managing
 director claims that out of every 100 plan changes, 70% of users used to
 upgrade, while only 30% opted to downgrade. However, in the last two
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Model of the IMC Planning Process
+
+—————+| Review of marketing plan |
+t
+| Analysis of Promotional program situation |
+t
+—————+| Analysis of communications process |
+i
++] Budget determination |
+|
+__—.-| Develop integrated marketing communications program |
+Fi + t
+Hu Sales Personal Direct Tntermnet/
+HUD promotion selling | marketing | Interactive
+—— _ Pa
+Develop objectives and strategy for each |
+t
+Develop message, media strategy, and tactics |
+2
+| Integrate and implement marketing communications strategies |
++
+
++—— Monitor, evaluate and control IMC Program |
 --- page 3 ---
 months, this trend has reversed, with more than 1% of their subscriber base
 disconnecting every month. On the higher end, users are moving to OTT
@@ -923,6 +1000,37 @@ Goodness, an organic cosmetic company has taken the traditional ubtan
 ingredients and created a hassle-free formula using them to give consumers a
 product that will give them the Ubtan like glow, every day. Through their
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Wedium Advantages Limitations
+
+Newspapers Flenbilty, timeliness; 990d local market coverags; Short ffe; poor reprod.xtion quality, small
+broad acceptance, high believabitty “pass-along” audience
+
+Television Combinas sighl, sound, and motion; appeaing to High absokta cost, high cutter; feeling expo-
+the senses; high attention, high reach sure; less audience selectivity
+
+Direct Mail Audence selectvily, Mexbilty, na ad cornpelilion Relatively high cost; ‘junk mail" image
+within the same medium, personatzaton
+
+Radio Mass use; high geographic and demagraphic sele- — Audio presertalion anty, lower attention than
+Clinity; low cost leleasion, nonstandardzed rete structures;
+
+faeting exposure
+Magazines High peograptic and Gemagraphic selectivity; cre- Lang ad purchase ad lim; sorne waste cir-
+
+bitty and prestige: high-qualty reproduction: long «= afation; no quarartee of positon
+Ife; Qa0d pass-siong readership
+
+Cxtdosr Flaxibilty, high repeat exposure; low cost; low com- — Limited audience selectivity. creative Imitat-
+Patition ions
+Newsketiers Very high selectiity, fl cortrof, irteractive oppor- Costs could run away
+utes; relative bw costs
+Brochures Fienbilty, full control, can dramatize messapes Overproduction could lead to runaway costs
+Telephone Many users; opportunity to give a personal touch Reladve Nigh cost wiess volrteers are used
+Internet High selectimty, irteractive possibilities, relatively Rebtively new media with alow number of
+
+tow cost users In some counines
 --- page 6 ---
 creative brief, they are planning to build synergies between the traditional
 Haldi Ubtan and Plum Goodness Ubtan face wash and hope that this
@@ -1073,6 +1181,22 @@ have the target audience understand the message
 have the target audience retained the message in any form. 5 Marks
 The major criteria to evaluate the PR activites through media content analysis are
 Page 5 of 6
+
+[Text in pictures on this page, read by OCR]
+Topical Involvement
+
+High Low
+Learning Low involvement
+model model
+Cognitive Cognitive
+Affective
+Conative
+Dissonance/ Conative
+attribution model
+Conative
+Affective Affective
+
+Cognitive
 --- page 6 ---
 Total Number of impressions over time.
 Total number of impressions on target audience.

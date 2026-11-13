@@ -38,6 +38,33 @@ Q1 a. What are Strategic Motives for Mergers and Acquisitions?
 –   Diversifying M&A—to enter a new area of business ( Dell - EMC)
 Q1 b. Explain the Ashridge Portfolio Display.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Ashridge Portfolio Display:
+The Potential for Patenting Advantage
+
+LOW
+BALLAST HEARTLAND
+--typical legacy ~-businesses with
+business: good EDGE OF high potential
+Potential for value fit high, but limited HEARTLAND for adding value}
+destruction from potential to add ~ less value adding
+misfit between potential; more risk is
+needs of the of value destruction
+
+business and
+patent’s corporate
+management style
+
+ALIEN TERRITORY VALUE TRAP
+
+--exit: no potential for ~-lack of management fit
+value creation limits potential to add
+value
+HIGH
+LOW HIGH
+
+Potential for parent to add value to the business
 --- page 2 ---
 Q1 c. Name and explain in short, the different options under “Direct Investment” in Modes of Overseas
 Market Entry.
@@ -50,6 +77,38 @@ recommend any one.
 Can be backward (upstream) or forward (downstream). May also be full or partial.
 •   Benefits:
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+TRANSACTIONS DIRECT INVESTMENT
+
+Exporting Licensing Joint venture Wholly owned
+I I subsidiary
+
+Marketing & Fully
+
+Spot Foreign Distribution| | integrated
+sales agent / only
+distributor
+Long- Licensing || Franchising Marketing & Fully
+term patents & Distribution| | integrated
+contract other IP only
+
+>
+Low Resource commitment High
+
+Patents — exclusive rights to a new product,
+process, substance or design.
+
+Copyrights — exclusive rights to artistic, dramatic,
+and musical works.
+
+Trademarks — exclusive rights to words, symbols
+or other marks to distinguish goods
+and services; trademarks are
+registered with the Patent Office.
+
+Trade Secrets — protection of chemical formulae,
+recipes, and industrial processes.
 --- page 3 ---
 •   Technical Economies from Physical Integration of Processes: e.g. steel production from iron ore and
 subsequently steel sheets from steel.
@@ -69,6 +128,26 @@ capabilities and strategy of the individual firm
 -- Allocation of Risk: How is the risk to be allocated between the parties?
 -- Incentive Structures: Are the incentives appropriate?
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Different Types of Vertical Relationship
+
+High
+Long-term
+contracts
+5 Joint
+= Agency ventures
+iN agreements
+=
+G
+5
+uw i.
+Informal Supplier!
+supplier/ customer Vertical
+customer partnerships integration
+Low relationships
+
+Low Degree of Commitment High
 --- page 4 ---
 Q3. Explain Porter’s National Diamond Framework with an example of any company of your choice
 from the Indian Manufacturing Industry.
@@ -97,6 +176,22 @@ Where are these available at low cost? (eg. Software Companies)
 ▪   Firm-specific advantages: to what extent is the company’s competitive advantage based upon
 firm-specific resources and capabilities, and are these transferable? (eg. Walmart vs IKEA)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Porter’s National Diamond Framework
+
+FACTOR CONDITIONS
+
+RELATING AND
+DEMAND SUPPORTING
+
+—————
+
+CONDITIONS | INDUSTRIES
+
+NN STRATEGY, STRUCTURE, a
+
+AND RIVALRY
 --- page 5 ---
 ▪   Tradability issues: Can the product be transported at economic cost? If not, or if trade
 restrictions exist, then production must be close to the market. (eg. Apple manufacturing
@@ -105,6 +200,23 @@ Q4. P&G has the following products in their portfolio: Pampers, Ariel, Gillette,
 shampoo, Vicks, Oral-B, Olay and Old Spice aftershave. Segregate the portfolio using the BCG
 Growth Share Matrix and explain your reasoning behind the classification.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The BCG Growth-Share Matrix
+
+Earnings: low, unstable, growing Earnings: _ high stable, growing
+Cash flow: negative Cash flow: neutral
+Strategy: analyze the Strategy: invest for
+potential to growth
+develop the
+business
+into a “star” a
+Earnings: low, unstable Earnings: high stable
+Cash flow: neutral or negative Cash flow: high stable
+Strategy: divest Strategy: — milk
+LOW HIGH
+
+Relative market share
 --- page 6 ---
 Q5. You are working for the Italian Coffee company Lavazza which is planning on scaling up its coffee
 business in India by launching a range of premium instant coffees. Analyze the Industry Attractiveness
@@ -130,6 +242,26 @@ price, for other products demand is elastic with price (eg. Bookstores, travel
 agencies)
 •   Also depends on the price-performance characteristics of substitutes (eg. Air travel vs train travel)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Porter’s Five Forces of Competition
+Framework
+
+SUPPLIERS
+
+Bargaining power I> suppliers
+
+INDUSTRY
+COMPETITORS
+POTENTIAL | Threat of >) Threat of SUBSTITUTES
+ENTRANTS | new entrants substitutes
+
+Rivalry among
+existing firms
+
+eS Bargaining power [er buyers
+)
+oe BUYERS
 --- page 7 ---
 The extent to which suppliers influence profitability in an industry depends upon:
 •   Supplier concentration vs. Industry Concentration (spectrum auctions in Telecom)
@@ -157,6 +289,28 @@ The extent to which complementors influence profitability in an industry depends
 • Complements influence on demand (OTT platforms)
 •   Asymmetric threats of integration (BCCI)
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+The extent to which buyers depress
+profitability in an industry depends upon:
+
+M4 \
+
+Buyer’s price sensitivity Intrinsic Leverage
+v v
+* Price / total purchases + Buyer concentration vs. Industry
+*Buyer’s profitability concentration
+*Impact on quality & *Volume of Buyers Purchases
+performance
+
+«Buyer switching costs relative to
+
+industry’s switching costs
+«Product differentiation
+
+«Buyer information/Expertise
+“Threat of backward integration
+«Presence of Substitute products
 --- page 8 ---
 •   Relative switching costs ( Zomato, Dunzo)
 •   Ease of unbundling
@@ -173,12 +327,74 @@ measures down the organization to individual business units and departments.
 • What must we excel at?
 • Can we continue to improve and develop?
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Balanced Scorecard for a Regional Airline
+
+Simplified Strategy Performance Targets Initiatives
+Map Measures
+Financial ¢ Market Value * 25% per year © Optimize routes
+Increase ¢ Seat Revenue * 20% per year ¢ Standardize planes
+Profitability 6
+7 = |° Plane Lease Cost * 5% per year
+Lower Increase
+Cost Revenue
+LN
+Customer | More ¢ On-time arrival ¢ First in industry * Quality management
+- Cust- rating © 98% satisfaction ¢ Customer loyalty
+On-time omers . : :
+Flights A ¢ Customer ranking ¢ 5% increase in program
+Low || ¢ Number of customers customer numbers
+Prices
+qn
+Internal VV ¢ On Ground Time e <25 Minutes ¢ Cycle time
+Improve ¢ On-Time Departure © 93% optimization program
+turnaround
+time
+Learning ¢ % Ground crew ¢ Year 1, 70% ¢ Stock
+Align stockholders ¢ Year 4, 90% ownership plan
+Ground e % Ground crew e Year 6, 100% ¢ Ground crew training
+rews
+
+trained
 --- page 9 ---
 Q7. You have been hired as a Consultant for an Auto Components Manufacturing company. Your
 task is to improve the profitability of the company by focusing on the following Profitability Ratios:
 ROCE, ROE, ROA, Gross Margin, Operating Margin and Net Margin. Explain any 4 ratios and also
 give insights on the possible options to improve them.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Ratio Formula Notes
+
+Return on Capital Operating profit, before The return on the capital invested ina
+Employed (ROCE) interest and tax business. ROCE is also known as return on
+Equity + Debt invested capital. The numerator can be is
+operating profit or earnings (EBIT).
+Return on Equity Net income Measures the firm's success in using
+(ROE) shareholders’ capital to generate profits that
+
+Shareholders’ equity . -
+are available to remunerate investors.
+
+Return on Assets Operating profit The numerator should be the return on all the
+
+(ROA) company’s assets—e.g. operating profit,
+EBITDA (earnings before interest, tax,
+depreciation, and amortization), or EBIT
+(earnings before interest and tax).
+
+Total assets
+
+Gross margin Sales — cost of material inputs | Gross margin measures how much value a firm
+
+Sales adds value to the goods and services it buys in.
+
+Operating margin Operating profit / Sales Operating margin and net margin measure a
+firm's ability to extract profit from its sales, but
+
+influenced by differences in capital intensity
+Net margin Net income / Sales between different types of business.
 ````
 
 ## 2025-26 · Re-Exam · Sem 5 · Answer key · paper 144bbb1d6735
@@ -216,6 +432,45 @@ Q1 a. What are Managerial Motives for Mergers and Acquisitions?
 –   Imitation: the fear of not participating in an industry’s merger wave
 Q1 b. Explain the GE/ McKinsey Matrix.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+The GE/McKinsey Matrix
+
+8 |
+
+3 High &
+
+co 9! U
+
+S /
+
+3 . a)
+
+« Medium e)
+
+= 4
+
+=
+
+x ro)
+
+>
+
+8 Low
+
+zg
+
+< Low Medium High
+
+Business Unit Position
+
+Industry Attractiveness Criteria Business Unit Position
+- Market size - Market share (domestic,
+- Market growth global, and relative)
+- Industry profitability - Competitive position
+- Inflation recovery - Relative profitability
+
+- Overseas sales ratio
 --- page 2 ---
 Q1 c. Name and explain in short, the different options under “Transactions” in Modes of Overseas
 Market Entry.
@@ -230,6 +485,38 @@ Can be backward (upstream) or forward (downstream). May also be full or partial.
 subsequently steel sheets from steel.
 —but doesn’t necessarily require common ownership
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+TRANSACTIONS DIRECT INVESTMENT
+
+Exporting Licensing Joint venture Wholly owned
+I I subsidiary
+
+Marketing & Fully
+
+Spot Foreign Distribution| | integrated
+sales agent / only
+distributor
+Long- Licensing || Franchising Marketing & Fully
+term patents & Distribution| | integrated
+contract other IP only
+
+>
+Low Resource commitment High
+
+Patents — exclusive rights to a new product,
+process, substance or design.
+
+Copyrights — exclusive rights to artistic, dramatic,
+and musical works.
+
+Trademarks — exclusive rights to words, symbols
+or other marks to distinguish goods
+and services; trademarks are
+registered with the Patent Office.
+
+Trade Secrets — protection of chemical formulae,
+recipes, and industrial processes.
 --- page 3 ---
 •   Avoids transactions costs of market contracts in situations where there are:
 -- small numbers of firms
@@ -246,6 +533,26 @@ capabilities and strategy of the individual firm
 -- Allocation of Risk: How is the risk to be allocated between the parties?
 -- Incentive Structures: Are the incentives appropriate?
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Different Types of Vertical Relationship
+
+High
+Long-term
+contracts
+5 Joint
+= Agency ventures
+iN agreements
+=
+G
+5
+uw i.
+Informal Supplier!
+supplier/ customer Vertical
+customer partnerships integration
+Low relationships
+
+Low Degree of Commitment High
 --- page 4 ---
 Q3. Explain Porter’s National Diamond Framework with an example of any company of your choice
 from the Indian IT Industry.
@@ -277,6 +584,22 @@ firm-specific resources and capabilities, and are these transferable? (eg. Walma
 restrictions exist, then production must be close to the market. (eg. Apple manufacturing
 iPhones)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Porter’s National Diamond Framework
+
+FACTOR CONDITIONS
+
+RELATING AND
+DEMAND SUPPORTING
+
+—————
+
+CONDITIONS | INDUSTRIES
+
+NN STRATEGY, STRUCTURE, a
+
+AND RIVALRY
 --- page 5 ---
 Q4. HUL has the following products in their portfolio: Dove, Lux, Lifebuoy, Surf Excel, Vim, Red
 Label tea, Horlicks, Axe, Pepsodent toothpaste and Annapurna atta. Segregate the portfolio using the
@@ -285,6 +608,42 @@ Q5. You are working for the French Multinational company Danone which is plannin
 the dairy business in India by launching a range of sugar free milkshakes. Analyze the Industry
 Attractiveness using Porter’s Five Forces of Competition Framework.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The BCG Growth-Share Matrix
+
+Earnings: low, unstable, growing Earnings: high stable, growing
+Cash flow: negative Cash flow: neutral
+Strategy: analyze the Strategy: invest for
+potential to growth
+develop the
+business
+into a “star” Ll
+Earnings: _low, unstable Earnings: high stable
+Cash flow: neutral or negative Cash flow: high stable
+Strategy: divest Strategy: milk
+LOW HIGH
+
+Relative market share
+
+Porter’s Five Forces of Competition
+Framework
+
+SUPPLIERS
+
+Bargaining power I> suppliers
+
+INDUSTRY
+COMPETITORS
+POTENTIAL | Threat of >) Threat of SUBSTITUTES
+ENTRANTS | new entrants substitutes
+
+Rivalry among
+existing firms
+
+eS Bargaining power [er buyers
+)
+oe BUYERS
 --- page 6 ---
 Entrants’ threat to industry profitability depends upon the height of barriers to entry.
 The principal sources of barriers to entry are:
@@ -307,6 +666,28 @@ price, for other products demand is elastic with price (eg. Bookstores, travel
 agencies)
 •   Also depends on the price-performance characteristics of substitutes (eg. Air travel vs train travel)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The extent to which buyers depress
+profitability in an industry depends upon:
+
+M4 \
+
+Buyer’s price sensitivity Intrinsic Leverage
+v v
+* Price / total purchases + Buyer concentration vs. Industry
+*Buyer’s profitability concentration
+*Impact on quality & *Volume of Buyers Purchases
+performance
+
+«Buyer switching costs relative to
+
+industry’s switching costs
+«Product differentiation
+
+«Buyer information/Expertise
+“Threat of backward integration
+«Presence of Substitute products
 --- page 7 ---
 The extent to which suppliers influence profitability in an industry depends upon:
 •   Supplier concentration vs. Industry Concentration (spectrum auctions in Telecom)
@@ -383,4 +764,36 @@ to improve the profitability of the company by focusing on the following Profita
 ROE, ROA, Gross Margin, Operating Margin and Net Margin. Explain any 4 ratios and also give
 insights on the possible options to improve them.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Ratio Formula Notes
+
+Return on Capital Operating profit, before The return on the capital invested in a
+Employed (ROCE) interest and tax business. ROCE is also known as return on
+Equity + Debt invested capital. The numerator can be is
+operating profit or earnings (EBIT).
+Return on Equity Net income Measures the firm's success in using
+(ROE) shareholders’ capital to generate profits that
+
+Shareholders’ equity - -
+are available to remunerate investors.
+
+Return on Assets Operating profit The numerator should be the return on all the
+
+(ROA) company’s assets—e.g. operating profit,
+EBITDA (earnings before interest, tax,
+depreciation, and amortization), or EBIT
+(earnings before interest and tax).
+
+Total assets
+
+Gross margin Sales — cost of material inputs | Gross margin measures how much value a firm
+
+Sales adds value to the goods and services it buys in.
+
+Operating margin Operating profit / Sales Operating margin and net margin measure a
+firm's ability to extract profit from its sales, but
+
+influenced by differences in capital intensity
+Net margin Net income / Sales between different types of business.
 ````

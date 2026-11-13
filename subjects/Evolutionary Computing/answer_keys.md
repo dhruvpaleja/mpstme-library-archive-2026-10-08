@@ -40,6 +40,21 @@ continuous rather than discrete domain. Example- Financial model tuning,
 optimizing neural network weights, engineering design parameters-weight,
 length, speed, pressure.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Uniform mutation
+a
+
+Oo Uniform mutation
+
+0 For this operator the values of x;’ are drawn uniformly
+randomly from [L;, U;]
+
+O This is the most straightforward option, analogous to bit-
+flipping for binary encodings and the random resetting for
+integer encodings
+
+Olt is normally used with a positionwise mutation probability
 --- page 2 ---
 b
 CO-2 ;   With reference to survivor selection mechanism, discuss fitness based, age-
@@ -51,6 +66,49 @@ Explain Bloat and Over Selection concept in Genetic Programming
 SO- 1;
 BL-3
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Recombination of real valued
+
+representation
+a
+
+Oo We have three options for recombining two floating-point strings
+
+oO First Method- using an analogous operator to those used for bit-strings, but
+now split between floats
+oO In other words, an allele is one floating-point value instead of one bit
+
+O This has the disadvantage (shared with all.of the recombination operators
+described above) that only mutation can insert new values into the population,
+since recombination only gives us new combinations of existing values
+
+© Recombination operators of this type for floating-point representations are
+known as discrete recombination and have the property that if we are creating
+an offspring z from parents x and y, then the allele value for gene i is given by
+
+= Z = X; Or y; with equal likelihood.
+
+Fitness Based Selection
+ee
+
+ao Children replace the least
+fit individuals P1 and P10
+of the population
+
+a Since P1 and P9 have the
+same fitness value, ‘ste ‘one
+
+3) | _a
+
+Oo the decision to remove 2 ‘anes Cvomesome fe] i
+which individual from the a a = es
+population is arbitrary fay | Ee —
+
+| 78 oFFsPRINGS I] 8
+
+—-
+[eo] cy [s] a
 --- page 3 ---
 d
 Write the algorithm for Elitist Ant System Algorithm. Identify the key
@@ -60,6 +118,83 @@ SO-1 ;
 Algorithm
 BL- 2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Bloat in Genetic Programming
+|
+0 A special effect of varying chromosome sizes in GP is that these tend to grow during a GP run
+
+© That is, without appropriate countermeasures the average tree size is growing during the search
+process
+
+© This phenomenon is known as bloat (sometimes called the "survival of the fattest")
+
+The simplest way to prevent bloat is to introduce a maximum tree size and forbid a variation
+operator if the child(ren) resulting from its application would exceed this maximum size
+
+a In this case, this threshold can be seen as an additional parameter of mutation and recombination in
+GP.
+
+© One technique that is widely acknowledged is that of parsimony pressure
+
+Such a pressure towards parsimony (i.e., being "stingy" or ungenerous) is achieved through
+
+© introducing a penalty term in the fitness formula that reduces the fitness of large chromosomes or using multi-
+objective techniques.
+
+Over selection
+a
+
+a Over-selection is often used to deal with the typically large population sizes
+0 (population sizes of several thousands are not unusual in GP)
+a The method first ranks the population, then divides it into two groups,
+© one containing the top x% and
+oO the other containing the other (100 — x)%
+a When parents are selected,
+5 80% of the selection operations come from the first group, and
+othe other 20% from the second group
+
+a The values of x used are found empirically by rule of thumb and depend
+on the population size with the aim that the number of individuals from
+which the.majority.of parents are chosen stays constant in the low hundreds,
+i.e., the selection pressure increases dramatically for larger populations
+
+Elitist Ant System
+
+Ty (t-+ 1) = pry (+ Ory + Ary @)
+
+m = if ant k travels on edge (i,j)
+where Any => Arf and Ari =
+
+© otherwise
+
+as before,
+
+of if edge (i, j) is part of the best solution found so far
+
+and Ary, =
+o otherwise
+
+where
+
+Ary, increase of trail level on edge (i, j) caused by the elitist ants
+o number of elitist ants
+L* tour length of best solution found so far
+
+Concerning the number of elitist ants we found that the results of the
+ant system are very good for o = n = m, i.e. when there are as many elitist
+ants used as there are cities in the problem.
+
+Summary of Key Differences
+
+Feature Ant System (AS) Elitist Ant System (EAS)
+
+Pheromone Update All ants contribute equally Extra reinforcement to the best solution
+Convergence Speed Slower Faster
+
+Risk of Premature Convergence Lower Higher
+
+Solution Diversity More exploration More exploitation
 --- page 4 ---
 a   Discuss drawbacks of partially mapped crossover technique for
 permutation representation. [2 Marks]
@@ -80,6 +215,26 @@ offsprings. Take the cross over points as 2 and 6. [3 Marks]
 iv.   For the offspring 1 obtained after order crossover, apply inversion
 mutation on offspring 1 between points 2 and 5 [1 Marks]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Drawbacks of PMX
+
+oO Limited Exploration (Low Diversity)
+PMX preserves many positional relationships from the parents. While this helps keep
+good structures, it can reduce population diversity and increase the risk of
+premature convergence
+
+oO Disrupts Useful Order Information
+PMX focuses on position-based mapping, not relative order. For problems where the
+order of elements matters more than exact positions, PMX may destroy good
+building blocks.
+
+co Computational Overhead
+Compared to simpler crossovers, PMX requires:
+© Mapping creation
+
+© Conflict resolution
+This makes it slower and more complex to implement, especially for large permutations
 --- page 5 ---
 CO-2   b
 Explain genitor survivor selection technique and elitism survivor selection
@@ -87,6 +242,22 @@ SO-1;   [05]
 technique with suitable example. [2.5 Marks each]
 BL-2
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Replace worst (Genitor)
+
+c In this scheme the worst \ members of the population are
+selected for replacement
+
+0 This can lead to very rapid improvements in the mean
+population fitness
+
+co However it can also lead to premature convergence as the
+population tends to rapidly focus on the fittest member
+currently present
+
+O For this reason it is commonly used in conjunction with large
+populations and/or a “no duplicates” policy
 --- page 6 ---
 CO-4   c   With the help of suitable block diagram, explain the steps in Genetic
 SO-1;   Programming Algorithm. [2.5Marks +2.5 Marks]   [05]
@@ -94,6 +265,43 @@ BL-2
 One-two lines on each step
 Q3   a   [10]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Elitism
+ee
+O This scheme is commonly used in conjunction with age-based
+
+and stochastic fitness-based replacement schemes
+
+O This is done to prevent the loss of the current fittest member
+of the population
+
+Oo In essence a trace is kept of the current fittest member, and
+it is always kept in the population
+
+O Thus if it is chosen in the group to be replaced, and none of
+the offspring being inserted into the population has equal or
+better fitness than the current fittest member, then it is kept
+and one of the offspring is discarded
+
+eS
+next < i = population size ?
+generation <-—_————_
+
+Vino
+
+select variation op.
+probabilistically
+
+with p_ ge with p
+
+select one select two
+individual individuals
+perform mutation perform crossover
+en Ae v
+add offspring to add offspring to
+intermediate poo! intermediate pool
+i=i-+] i=i+2
 --- page 7 ---
 CO-3;
 SO-1
@@ -189,6 +397,32 @@ CO-1   b   Sketch a suitable flow diagram for evolutionary algorithm [2Marks] an
 SO-1   explain the following components in brief- Population, Fitness, Parent   [05]
 BL-2   Selection. [3Marks]
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+General Principles of Swarm Intelligence
+ee
+a Proximity principle
+© Basic units of a swarm should be capable of simple computation
+related to its surrounding environment
+
+© Here computation is regarded as a direct behavioral response to
+environmental variance, such as those triggered by interactions
+among agents
+
+o Depending on the complexity of agents involved, responses may
+vary greatly
+
+& However, some fundamental behaviors are shared, such as living-
+resource searching and nest building
+
+Oo Principle of diverse response
+in narrow region
+The distribution should be designed so that each agent will
+be maximally protected facing environmental fluctuations
+oO Principle of stability and adaptability
+Swarms are expected to
+without rapidly changing modes since mode changing costs
+energy
 --- page 12 ---
 ) ) Parent selection Parents |
 
@@ -261,6 +495,38 @@ ii.   Compute fitness of parent and off springs
 iii.   Evaluate new 𝜎 based on 1/5 success rule
 iv.   State your inference about 𝜎 obtained in (iii) above
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Parent Selection Mechanism
+
+QO The role of parent selection or mate selection is to distinguish among individuals based on their
+quality
+
+2 To allow the better individuals to become parents of the next generation
+
+OQ An individual is a parent if it has been selected to undergo variation in order. to create
+offspring
+
+O Together with the survivor selection mechanism, parent selection is responsible for pushing
+quality improvements
+
+og In EC, parent selection is typically probabilistic
+0 Means high-quality individuals have more chance of becoming parents than those with low quality
+
+O Nevertheless, low-quality individuals are often given a small, but positive chance
+
+0 otherwise the whole search could become too greedy and the population could get stuck in a local
+optimum
+
+Since £) = 3anda = 1:
+
+Zi Offspring z; = 3+ 2;
+0.8 3.8
+-0.2 2.8
+0.2 3.2
+0.5 3.5
+
+-0.4 2.6
 --- page 14 ---
 Parent
 
@@ -354,6 +620,32 @@ as 𝜌= 0.7)
 iv. Discuss the effect of evaporation rate on pheromone level.
 [2.5 Marks each]
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+Py = ( Cu)” )
+ij = a B
+Z(t) (nis)
+Where 1j,; = = ,L, jis the length of edge Gj)
+
+aand B control the relative importance of
+pheromone versus the heuristic information nj ;
+k
+Ty = (1 = ptay + Lhe AT;
+Atijis the quantity of pheromone laid on edge (i, j) by ant k
+
+Qa. eye
+b ack, = Tel ant k used edge (i,j)in its tour
+0, otherwise
+
+1 Where @ is a constant, generally Q=1 and Ly is length of tour constructed by ant k
+
+Sum
+0.2 + 0.5 + 0.1429 = 0.8429
+Probabilities
+Pap = 0.2/0.8429 = 0.237
+Pac = 0.5/0.8429 = 0.593
+
+Pap = 0.1429/0.8429 = 0.169
 --- page 18 ---
 (iii) Pheromone Update
 Path taken:
@@ -411,6 +703,34 @@ ii.   Use one point crossover between the winner parents from step (i).
 Take crossover point as 2.
 iii.   Evaluate fitness of the two offspring
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+(iv) Effect of Evaporation Rate (p)
+
+e High p = Fast evaporation — More exploration
+e Low p - Slow evaporation — Strong exploitation
+
+e Proper p balances exploration vs exploitation
+
+Inference:
+
+p = 0.7 gives high exploration and avoids premature convergence.
+
+BEGIN
+/* Assume we wish to select \ members of a pool of y individuals
+set current_member = 1;
+WHILE ( current-member <X ) DO
+Pick k individuals randomly, with or without replacement;
+Compare these k individuals and select the best of them;
+Denote this individual as i;
+set mating_pool[current_-member] = i;
+set current_member = current_-member + 1;
+oD
+END
+
+*/
+
+Fig. 5.3. Pseudocode for the tournament selection algorithm
 --- page 20 ---
 Step 1: Evaluate Fitness of Initial Population
 Individual A [2,3,5]
@@ -472,6 +792,26 @@ offspring 2 [2.5Marks]
 iv   Calculate fitness of each offspring and comment on the same
 [3Marks]
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+(ii) One-Point Crossover
+
+Crossover point = 2
+
+Parent 1: [2 3 | 5]
+Parent 2: [1 2 | 3]
+Offspring
+
+Offspring 1 = [2,3,3]
+Offspring 2 = [1,2,5]
+
+(iii) Fitness of Offspring
+Offspring 1 [2,3,3]
+
+f =2?-342(3)=4-3+6=7
+Offspring 2 [1,2,5]
+
+f=V-—242(5)=1-24+10=9
 --- page 22 ---
 Mutated Offspring 1 represents a successful, feasible solution that respects
 the constraints of the knapsack problem, yielding a good fitness score of 17.
@@ -491,6 +831,20 @@ iii.   Explain each component of the expression in (ii)
 iv.   Elaborate on the key differences between Ant System Algorithm
 and Rank Based Ant System Algorithm
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+Mutated Offspring 1: [@, 1, 1, 1, @, @] (Contains items Q, R, S)
+¢ Total Weight = 3kg + 4kg + 5kg = 12 kg
+e Total Value=4+5+8=17
+
+e Evaluation: Since 12 kg < 13 kg, this is a valid solution. Fitness = 17.
+
+Mutated Offspring 2: [@, @, 1, 1, , 1] (Contains items R, S, U)
+¢ Total Weight = 4kg + 5kg + 7kg = 16 kg
+¢ Total Value = 5 +8+10=23
+
+¢ Evaluation: Since 16 kg > 13 kg, the weight exceeds the maximum capacity constraint.
+Fitness = 0 (infeasible).
 --- page 23 ---
 b   State the factors on which flow of information depends upon through a
 CO-3   Social Structure. Discuss with the help of suitable diagram Star Social
@@ -499,6 +853,58 @@ SO-1   Structure, Ring Social Structure, Wheel Social Structure and Von
 BL-2   Neumann Social Structure with reference to network topologies in Particle
 Swarm Optimization
 ********** 23 **********
+
+[Text in pictures on this page, read by OCR]
+Rank based Ant System Algorithm
+AS+ank
+
+3 Update of Pheromone Trails
+
+5 Before updating the pheromone trails, the ants are sorted by increasing tour length and the quantity of pheromone an ant deposits is weighted
+according to the rank r of the ant
+
+5 Ties can be solved randomly (in our implementation they are solved by lexicographic ordering on the ant name k)
+
+5 In each iteration only the (W — 1) bestranked ants and the ant that produced the best-so-far tour (this ant does not necessarily belong to the set
+of ants of the current algorithm iteration) are allowed to deposit pheromone
+
+© The best-so-far tour gives the strongest feedback, with weight w
+= (Le, its contribution 1/Cps is multiplied by w),
+o iy Tth best ant of the current iteration contributes to pheromone updating with the value 1/Cr multiplied by a weight given by max{0, w —
+r}.
+
+© Thus, the AS;ank pheromone update rule is, 1
+we
+
+y+ —r)At;, + wr},
+
+o In AS+ank
+
+each ant deposits an amount of pheromone that decreases
+with its rank
+
+the best-so-far ant always deposits the largest amount of
+pheromone in each iteration
+
+Feature Ant System (AS) Rank-Based Ant System (RBAS)
+
+Pheromone Update All ants update pheromone Only top-ranked ants update
+pheromone
+
+Solution Contribution Every ant contributes equally Better ants contribute more
+
+Convergence Speed Slower convergence Faster convergence
+
+Solution Quality May converge to suboptimal Usually better solution quality
+solution
+
+Computational Efficiency Less efficient More efficient
+
+Selection Strategy No ranking mechanism Uses ranking of ants
+
+Exploitation vs Exploration More exploration More exploitation of best
+
+solutions
 --- page 24 ---
 Social Network Structures
 
@@ -659,6 +1065,21 @@ continuous rather than discrete domain. Example- Financial model tuning,
 optimizing neural network weights, engineering design parameters-weight,
 length, speed, pressure.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Uniform mutation
+a
+
+Oo Uniform mutation
+
+0 For this operator the values of x;’ are drawn uniformly
+randomly from [L;, U;]
+
+O This is the most straightforward option, analogous to bit-
+flipping for binary encodings and the random resetting for
+integer encodings
+
+Olt is normally used with a positionwise mutation probability
 --- page 2 ---
 b
 CO-2 ;   With reference to survivor selection mechanism, discuss fitness based, age-
@@ -670,6 +1091,49 @@ Explain Bloat and Over Selection concept in Genetic Programming
 SO- 1;
 BL-3
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Recombination of real valued
+
+representation
+a
+
+Oo We have three options for recombining two floating-point strings
+
+oO First Method- using an analogous operator to those used for bit-strings, but
+now split between floats
+oO In other words, an allele is one floating-point value instead of one bit
+
+O This has the disadvantage (shared with all.of the recombination operators
+described above) that only mutation can insert new values into the population,
+since recombination only gives us new combinations of existing values
+
+© Recombination operators of this type for floating-point representations are
+known as discrete recombination and have the property that if we are creating
+an offspring z from parents x and y, then the allele value for gene i is given by
+
+= Z = X; Or y; with equal likelihood.
+
+Fitness Based Selection
+ee
+
+ao Children replace the least
+fit individuals P1 and P10
+of the population
+
+a Since P1 and P9 have the
+same fitness value, ‘ste ‘one
+
+3) | _a
+
+Oo the decision to remove 2 ‘anes Cvomesome fe] i
+which individual from the a a = es
+population is arbitrary fay | Ee —
+
+| 78 oFFsPRINGS I] 8
+
+—-
+[eo] cy [s] a
 --- page 3 ---
 d
 Write the algorithm for Elitist Ant System Algorithm. Identify the key
@@ -679,6 +1143,83 @@ SO-1 ;
 Algorithm
 BL- 2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Bloat in Genetic Programming
+|
+0 A special effect of varying chromosome sizes in GP is that these tend to grow during a GP run
+
+© That is, without appropriate countermeasures the average tree size is growing during the search
+process
+
+© This phenomenon is known as bloat (sometimes called the "survival of the fattest")
+
+The simplest way to prevent bloat is to introduce a maximum tree size and forbid a variation
+operator if the child(ren) resulting from its application would exceed this maximum size
+
+a In this case, this threshold can be seen as an additional parameter of mutation and recombination in
+GP.
+
+© One technique that is widely acknowledged is that of parsimony pressure
+
+Such a pressure towards parsimony (i.e., being "stingy" or ungenerous) is achieved through
+
+© introducing a penalty term in the fitness formula that reduces the fitness of large chromosomes or using multi-
+objective techniques.
+
+Over selection
+a
+
+a Over-selection is often used to deal with the typically large population sizes
+0 (population sizes of several thousands are not unusual in GP)
+a The method first ranks the population, then divides it into two groups,
+© one containing the top x% and
+oO the other containing the other (100 — x)%
+a When parents are selected,
+5 80% of the selection operations come from the first group, and
+othe other 20% from the second group
+
+a The values of x used are found empirically by rule of thumb and depend
+on the population size with the aim that the number of individuals from
+which the.majority.of parents are chosen stays constant in the low hundreds,
+i.e., the selection pressure increases dramatically for larger populations
+
+Elitist Ant System
+
+Ty (t-+ 1) = pry (+ Ory + Ary @)
+
+m = if ant k travels on edge (i,j)
+where Any => Arf and Ari =
+
+© otherwise
+
+as before,
+
+of if edge (i, j) is part of the best solution found so far
+
+and Ary, =
+o otherwise
+
+where
+
+Ary, increase of trail level on edge (i, j) caused by the elitist ants
+o number of elitist ants
+L* tour length of best solution found so far
+
+Concerning the number of elitist ants we found that the results of the
+ant system are very good for o = n = m, i.e. when there are as many elitist
+ants used as there are cities in the problem.
+
+Summary of Key Differences
+
+Feature Ant System (AS) Elitist Ant System (EAS)
+
+Pheromone Update All ants contribute equally Extra reinforcement to the best solution
+Convergence Speed Slower Faster
+
+Risk of Premature Convergence Lower Higher
+
+Solution Diversity More exploration More exploitation
 --- page 4 ---
 a   Discuss drawbacks of partially mapped crossover technique for
 permutation representation. [2 Marks]
@@ -699,6 +1240,26 @@ offsprings. Take the cross over points as 2 and 6. [3 Marks]
 iv.   For the offspring 1 obtained after order crossover, apply inversion
 mutation on offspring 1 between points 2 and 5 [1 Marks]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Drawbacks of PMX
+
+oO Limited Exploration (Low Diversity)
+PMX preserves many positional relationships from the parents. While this helps keep
+good structures, it can reduce population diversity and increase the risk of
+premature convergence
+
+oO Disrupts Useful Order Information
+PMX focuses on position-based mapping, not relative order. For problems where the
+order of elements matters more than exact positions, PMX may destroy good
+building blocks.
+
+co Computational Overhead
+Compared to simpler crossovers, PMX requires:
+© Mapping creation
+
+© Conflict resolution
+This makes it slower and more complex to implement, especially for large permutations
 --- page 5 ---
 CO-2   b
 Explain genitor survivor selection technique and elitism survivor selection
@@ -706,6 +1267,22 @@ SO-1;   [05]
 technique with suitable example. [2.5 Marks each]
 BL-2
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Replace worst (Genitor)
+
+c In this scheme the worst \ members of the population are
+selected for replacement
+
+0 This can lead to very rapid improvements in the mean
+population fitness
+
+co However it can also lead to premature convergence as the
+population tends to rapidly focus on the fittest member
+currently present
+
+O For this reason it is commonly used in conjunction with large
+populations and/or a “no duplicates” policy
 --- page 6 ---
 CO-4   c   With the help of suitable block diagram, explain the steps in Genetic
 SO-1;   Programming Algorithm. [2.5Marks +2.5 Marks]   [05]
@@ -713,6 +1290,43 @@ BL-2
 One-two lines on each step
 Q3   a   [10]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Elitism
+ee
+O This scheme is commonly used in conjunction with age-based
+
+and stochastic fitness-based replacement schemes
+
+O This is done to prevent the loss of the current fittest member
+of the population
+
+Oo In essence a trace is kept of the current fittest member, and
+it is always kept in the population
+
+O Thus if it is chosen in the group to be replaced, and none of
+the offspring being inserted into the population has equal or
+better fitness than the current fittest member, then it is kept
+and one of the offspring is discarded
+
+eS
+next < i = population size ?
+generation <-—_————_
+
+Vino
+
+select variation op.
+probabilistically
+
+with p_ ge with p
+
+select one select two
+individual individuals
+perform mutation perform crossover
+en Ae v
+add offspring to add offspring to
+intermediate poo! intermediate pool
+i=i-+] i=i+2
 --- page 7 ---
 CO-3;
 SO-1
@@ -808,6 +1422,32 @@ CO-1   b   Sketch a suitable flow diagram for evolutionary algorithm [2Marks] an
 SO-1   explain the following components in brief- Population, Fitness, Parent   [05]
 BL-2   Selection. [3Marks]
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+General Principles of Swarm Intelligence
+ee
+a Proximity principle
+© Basic units of a swarm should be capable of simple computation
+related to its surrounding environment
+
+© Here computation is regarded as a direct behavioral response to
+environmental variance, such as those triggered by interactions
+among agents
+
+o Depending on the complexity of agents involved, responses may
+vary greatly
+
+& However, some fundamental behaviors are shared, such as living-
+resource searching and nest building
+
+Oo Principle of diverse response
+in narrow region
+The distribution should be designed so that each agent will
+be maximally protected facing environmental fluctuations
+oO Principle of stability and adaptability
+Swarms are expected to
+without rapidly changing modes since mode changing costs
+energy
 --- page 12 ---
 ) ) Parent selection Parents |
 
@@ -880,6 +1520,38 @@ ii.   Compute fitness of parent and off springs
 iii.   Evaluate new 𝜎 based on 1/5 success rule
 iv.   State your inference about 𝜎 obtained in (iii) above
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Parent Selection Mechanism
+
+QO The role of parent selection or mate selection is to distinguish among individuals based on their
+quality
+
+2 To allow the better individuals to become parents of the next generation
+
+OQ An individual is a parent if it has been selected to undergo variation in order. to create
+offspring
+
+O Together with the survivor selection mechanism, parent selection is responsible for pushing
+quality improvements
+
+og In EC, parent selection is typically probabilistic
+0 Means high-quality individuals have more chance of becoming parents than those with low quality
+
+O Nevertheless, low-quality individuals are often given a small, but positive chance
+
+0 otherwise the whole search could become too greedy and the population could get stuck in a local
+optimum
+
+Since £) = 3anda = 1:
+
+Zi Offspring z; = 3+ 2;
+0.8 3.8
+-0.2 2.8
+0.2 3.2
+0.5 3.5
+
+-0.4 2.6
 --- page 14 ---
 Parent
 
@@ -973,6 +1645,32 @@ as 𝜌= 0.7)
 iv. Discuss the effect of evaporation rate on pheromone level.
 [2.5 Marks each]
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+Py = ( Cu)” )
+ij = a B
+Z(t) (nis)
+Where 1j,; = = ,L, jis the length of edge Gj)
+
+aand B control the relative importance of
+pheromone versus the heuristic information nj ;
+k
+Ty = (1 = ptay + Lhe AT;
+Atijis the quantity of pheromone laid on edge (i, j) by ant k
+
+Qa. eye
+b ack, = Tel ant k used edge (i,j)in its tour
+0, otherwise
+
+1 Where @ is a constant, generally Q=1 and Ly is length of tour constructed by ant k
+
+Sum
+0.2 + 0.5 + 0.1429 = 0.8429
+Probabilities
+Pap = 0.2/0.8429 = 0.237
+Pac = 0.5/0.8429 = 0.593
+
+Pap = 0.1429/0.8429 = 0.169
 --- page 18 ---
 (iii) Pheromone Update
 Path taken:
@@ -1030,6 +1728,34 @@ ii.   Use one point crossover between the winner parents from step (i).
 Take crossover point as 2.
 iii.   Evaluate fitness of the two offspring
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+(iv) Effect of Evaporation Rate (p)
+
+e High p = Fast evaporation — More exploration
+e Low p - Slow evaporation — Strong exploitation
+
+e Proper p balances exploration vs exploitation
+
+Inference:
+
+p = 0.7 gives high exploration and avoids premature convergence.
+
+BEGIN
+/* Assume we wish to select \ members of a pool of y individuals
+set current_member = 1;
+WHILE ( current-member <X ) DO
+Pick k individuals randomly, with or without replacement;
+Compare these k individuals and select the best of them;
+Denote this individual as i;
+set mating_pool[current_-member] = i;
+set current_member = current_-member + 1;
+oD
+END
+
+*/
+
+Fig. 5.3. Pseudocode for the tournament selection algorithm
 --- page 20 ---
 Step 1: Evaluate Fitness of Initial Population
 Individual A [2,3,5]
@@ -1091,6 +1817,26 @@ offspring 2 [2.5Marks]
 iv   Calculate fitness of each offspring and comment on the same
 [3Marks]
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+(ii) One-Point Crossover
+
+Crossover point = 2
+
+Parent 1: [2 3 | 5]
+Parent 2: [1 2 | 3]
+Offspring
+
+Offspring 1 = [2,3,3]
+Offspring 2 = [1,2,5]
+
+(iii) Fitness of Offspring
+Offspring 1 [2,3,3]
+
+f =2?-342(3)=4-3+6=7
+Offspring 2 [1,2,5]
+
+f=V-—242(5)=1-24+10=9
 --- page 22 ---
 Mutated Offspring 1 represents a successful, feasible solution that respects
 the constraints of the knapsack problem, yielding a good fitness score of 17.
@@ -1110,6 +1856,20 @@ iii.   Explain each component of the expression in (ii)
 iv.   Elaborate on the key differences between Ant System Algorithm
 and Rank Based Ant System Algorithm
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+Mutated Offspring 1: [@, 1, 1, 1, @, @] (Contains items Q, R, S)
+¢ Total Weight = 3kg + 4kg + 5kg = 12 kg
+e Total Value=4+5+8=17
+
+e Evaluation: Since 12 kg < 13 kg, this is a valid solution. Fitness = 17.
+
+Mutated Offspring 2: [@, @, 1, 1, , 1] (Contains items R, S, U)
+¢ Total Weight = 4kg + 5kg + 7kg = 16 kg
+¢ Total Value = 5 +8+10=23
+
+¢ Evaluation: Since 16 kg > 13 kg, the weight exceeds the maximum capacity constraint.
+Fitness = 0 (infeasible).
 --- page 23 ---
 b   State the factors on which flow of information depends upon through a
 CO-3   Social Structure. Discuss with the help of suitable diagram Star Social
@@ -1118,6 +1878,58 @@ SO-1   Structure, Ring Social Structure, Wheel Social Structure and Von
 BL-2   Neumann Social Structure with reference to network topologies in Particle
 Swarm Optimization
 ********** 23 **********
+
+[Text in pictures on this page, read by OCR]
+Rank based Ant System Algorithm
+AS+ank
+
+3 Update of Pheromone Trails
+
+5 Before updating the pheromone trails, the ants are sorted by increasing tour length and the quantity of pheromone an ant deposits is weighted
+according to the rank r of the ant
+
+5 Ties can be solved randomly (in our implementation they are solved by lexicographic ordering on the ant name k)
+
+5 In each iteration only the (W — 1) bestranked ants and the ant that produced the best-so-far tour (this ant does not necessarily belong to the set
+of ants of the current algorithm iteration) are allowed to deposit pheromone
+
+© The best-so-far tour gives the strongest feedback, with weight w
+= (Le, its contribution 1/Cps is multiplied by w),
+o iy Tth best ant of the current iteration contributes to pheromone updating with the value 1/Cr multiplied by a weight given by max{0, w —
+r}.
+
+© Thus, the AS;ank pheromone update rule is, 1
+we
+
+y+ —r)At;, + wr},
+
+o In AS+ank
+
+each ant deposits an amount of pheromone that decreases
+with its rank
+
+the best-so-far ant always deposits the largest amount of
+pheromone in each iteration
+
+Feature Ant System (AS) Rank-Based Ant System (RBAS)
+
+Pheromone Update All ants update pheromone Only top-ranked ants update
+pheromone
+
+Solution Contribution Every ant contributes equally Better ants contribute more
+
+Convergence Speed Slower convergence Faster convergence
+
+Solution Quality May converge to suboptimal Usually better solution quality
+solution
+
+Computational Efficiency Less efficient More efficient
+
+Selection Strategy No ranking mechanism Uses ranking of ants
+
+Exploitation vs Exploration More exploration More exploitation of best
+
+solutions
 --- page 24 ---
 Social Network Structures
 
@@ -1282,6 +2094,20 @@ CO-2 ;
 SO-1 ;
 BL-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Ranking Selection
+——
+0 The usual formula for calculating the selection
+probability for linear ranking schemes is
+parameterised by a value s (1 <s < 2)
+0 Since the best individual has rank . — 1, and the
+worst has rank 0, then the selection probability for
+an individual of rank i is
+(2-8)   2i(s—1)
+n+ wud)”
+
+Phin—rank(i) =
 --- page 2 ---
 c   Compare Genetic Algorithm and Genetic Programming with reference to
 the following points-
@@ -1301,6 +2127,72 @@ a   i.   Apply Order Crossover to generate two off springs. Assume the
 Q2   Crossover points as 3 and 5.   [10]
 Parent 1: 8 6 5 7 3 2 1 4
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+ca When the mapping from rank to selection probabilities is linear, only limited selection
+pressure can be applied
+
+© This arises from the assumption that, on average, an individual of median fitness should
+have one chance to be reproduced,
+© which in turn imposes a maximum valve of s = 2.
+
+1 (Since the scaling is linear, letting s > 2 would require the worst to have a negative selection
+probability if the probabilities are to sum to unity)
+
+2 If ahigher selection pressure is required, i.e., more emphasis on individuals of above-
+average fitness, an exponential ranking scheme is often used, of the form
+
+1—e*
+
+Pezp-rank(i) = —=
+
+The normalisation factor c is chosen so that the sum of the probabilities is unity, ie., it is a
+function of the population size
+
+Representation | Bit-strings
+
+Recombination — |1-Point crossover
+
+Mutation Bit flip
+
+Parent selection |Fitness proportional - implemented by Roulette Wheel
+
+Survival selection|Generational
+
+Table 6.1. Sketch of the simple GA
+
+Representation _|Tree structures
+
+Recombination |Exchange of subtrees
+
+Mutation Random change in trees
+
+Parent selection |Fitness proportional
+
+Survivor selection|Generational replacement
+
+Table 6.4. Sketch of GP
+
+Its main characteristic is that, at each iteration, the pheromone values are updated
+by all the m ants that have built a solution in the iteration itself
+
+The pheromone 7;,;, associated with the edge joining cities i and j, is updated as
+follows-
+
+5 tj = Lee Ath;
+k
+8 uy=(-p)tiy + De Ati;
+= where p is the evaporation rate, mM is the number of ants, and Tj,
+
+Atk jis the quantity of pheromone laid on edge (i, j) by ant k
+Qa. © ion 7,
+—,if ant k used edge (i, j)in its tour
+
+o Ark, = mel ge (ij)
+
+0, otherwise
+
+cm Where Q is a constant, generally Q=1 and L, is length of tour constructed by ant k
 --- page 3 ---
 CO-2;   Parent 2: 1 2 7 3 4 5 6 8
 SO-1;   ii.   Apply uniform crossover on the following parents to generate
@@ -1328,6 +2220,47 @@ SO-1;   [05]
 population initialization. [2.5 Marks +2.5 Marks]
 BL-2
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Fitness Sharing
+
+0 Fitness sharing distributes the population among multiple solutions so that only a few
+individuals are maintained in the vicinity of each solution in the search space
+
+0 The fitness of each individual in the current population is reduced based on the number of
+similar individuals in the population
+= Amodified fitness value is calculated for each population individual by
+11 dividing the fitness, F, by the niche count of the individual, m;, which is defined by
+= mj = Ljepop Sh(dij)
+= Where djj is the Euclidean distance between individuals i and j and
+= sh(djj) is the sharing function which is given by
+
+a
+# sn(ay)=43~ (4) Fay < es
+0 otherwise
+= Here a determines the shape of the sharing function. Example if @=1 then the sharing function is linear
+= zs is the share radius which decides both
+= How many niches can be maintained
+= G ‘ity with which dit niches can be dis
+
+Fitness Sharing
+aaa V7—| oe)
+a Hence modified fitness value is given by
+
+o Fp) =2
+
+a Where 1 m= Ljepop Sh(dij)
+= Where dij; is the Euclidean distance between individuals i and j and
+= sh(dj;) is the sharing function which is given by
+1-(%)" if a,
+w sa(ay)=}2~ (G1) Pau <a:
+0 otherwise
+
+= Here a determines the shape of the sharing function. Example if @=1 then the sharing
+function is linear
+= Gy is the share radius which decides both
+= How many niches can be maintained
+= Granularity with which different niches can be discriminated
 --- page 5 ---
 a   Consider the problem to Maximize 𝑓(𝑥) = 50(𝑥1 2 −𝑥2 2) where
 −3 ≤𝑥1, 𝑥2 ≤3 . Apply GBest Particle Swarm Optimization Algorithm
@@ -1347,6 +2280,71 @@ The initial position and velocity are as given in the table below-
 Index(i)   Xi(1)   Vi(1)
 1   (3,2)   (0.0,0.0)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Initializing the population
+———K—z—r—aRL—L——
+c In both the Full and Grow methods, the initial individuals
+are generated subject to a pre-established maximum
+depth
+c In the Full method (so named because it generates full
+trees)
+
+© nodes are taken at random from the function set until this
+maximum tree depth is reached
+
+G and beyond that depth only terminals can be chosen
+
+Initializing the population
+
+|
+a Full initialization method
+
+Figure shows snapshots of this
+
+Ht 2 133 tes
+Taw process in the construction of a
+full tree of depth 2
+* * y © The children of the * node, for
+ss ee wv example must be leaves, or the
+resulting tree would be too deep
+Thus at time t = 3 and time t = 4
+x y x yd x ya ° terminals must be chosen (x and y
+
+Fig. 4. Creation of a full tree having maximum depth 2 (and therefore a total of in this case)
+seven nodes) using the Full initialization method (t=time)
+
+© Full method generates trees of a
+specific size and shape
+Function set= {*,+,/,-}
+Terminal set= {x,y,1,0}
+
+Initializing the population
+|
+
+9 ~~ Grow initialization method
+
+tt te ts 5 Grow method allows for the creation of trees
+Dn Taw of varying size and shape
+x x 5 Here nodes are selected from the whole
+primitive set (functions and terminals) until the
+to 5 depth limit is reached, below which only
+
+terminals may be chosen
+‘ x 15 Figure illustrates this process for the
+construction of a tree with depth limit 2
+
+2 2 y 2 Here the first child of the root + node
+Fig. 5. Creation of a ation method with a happens to be a terminal, thus closing off
+maximum depth of 2 ‘causing the left branch that branch before actually. reaching the
+of the root to be closed at tha n depth had not been depth limit
+
+reached 5 The other child, however, is « function (-), but
+its children are forced to be terminals to
+. — x ensure that the resulting tree does not exceed
+Function set= {*,+,/,-} the depth limit
+
+Terminal set= {x,y,2}
 --- page 6 ---
 2   (3,3)   (0.0,0.0)
 3   (0,-3)   (0.0,0.0)
@@ -1399,6 +2397,72 @@ CO-1
 SO-1   [05]
 BL-2
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Star social structure
+© All particles are interconnected
+
+o Each particle can therefore communicate with every
+other particle
+
+© In this case each particle is attracted towards the best
+solution found by the entire swarm
+
+a Each particle therefore imitates the overall best
+
+solution
+
+1 The first implementation of the PSO used a star
+network structure, with the resulting algorithm
+
+generally being referred to as the gbest PSO
+
+11 The gbest PSO has been shown to converge faster
+than other network structures, but with a susceptibility
+to be trapped in local minima
+
+5 The gbest PSO performs best for unimodal problems (a) Star
+
+2
+a — Ring social structure
+
+5 Each particle communicates with its nV immediate neighbors
+
+© Inthe case of nN = 2,4 particle communicates with its
+immediately adjacent neighbors
+
+5 Each particle attempts to imitate its best neighbor by moving
+closer to the best solution found within the neighborhood
+
+5 Iris imp to note that nei P
+
+This facilitates the exchange of information between
+neighborhoods and, in the end, convergence to a single solution
+
+1 Since information flows at a slower rate through the social network,
+convergence is slower, but larger parts of the search space are
+covered compared to the star structure
+
+5 This behavior allows the ring structure to provide better
+
+erformance in terms of the quality of solutions found for multi-
+
+modal problems than the star structure
+
+| Resulting PSO algorithm is generally referred to as the Ibest PSO
+
+BEGIN
+INITIALISE population with random candidate solutions;
+EVALUATE each candidate;
+REPEAT UNTIL ( TERMINATION CONDITION is satisfied ) DO
+1 SELECT parents;
+2 RECOMBINE pairs of parents;
+3 MUTATE the resulting offspring;
+4 EVALUATE new candidates;
+5 SELECT individuals for the next generation;
+oD
+
+Fig. 3.1. The general scheme of an evolutionary algorithm in pseudocode
 --- page 10 ---
 Representation
 eC
@@ -1552,6 +2616,29 @@ ii.   Compute the pheromone level 𝜏𝐴𝐷 𝑎𝑛𝑑 𝜏𝐵𝐷 with ev
 iii.   State your inference about pheromone level based on the results
 obtained in (i) and (ii)
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+0 Update of Pheromone Trails
+0 Additional reinforcement of tour Tis achieved by adding a quantity e/C”® to its arcs
+
+= where e is a parameter that defines the weight given to the best-so-far tour T?S,
+CSis its length
+
+@
+5 Thus, equation for the pheromone deposit becomes
+
+2.3
+
+k bs m~™
+9 Ty gt) At; +eArF, ¢ -   A_eZ, *
+: > i ij Gij- G ey ona
+Oo where o ° © =
+bs
++ ebay
+Atk = {Vv if are (i,j) belongs to T*; cio {! Co, if are (i,j) belongs to TP
+1 No, otherwise; a otherwise.
+
+where G;,, the length of the tour 7;,built by the keh ant
 --- page 15 ---
 K-B-CD-#& => Litzlé
 
@@ -1622,6 +2709,20 @@ D   1 3 4 2
 i.   Compute fitness for each chromosome if the fitness function is
 number of non-attacking queens
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+Fitness Proportionate Selection
+eee
+
+oO Probability that an individual i is selected for crossover
+depends on its absolute fitness value compared to the
+absolute fitness values of the rest of the population
+
+oO. Observing that the sum of the probabilities over the wh
+population must equal 1 the selection probability of
+individual i using FPS is
+
+Prps(i = fil fj.
 --- page 18 ---
 ii.   Implement tournament selection rounds to select two parents as
 follows
@@ -1658,6 +2759,64 @@ SO-1
 [10]
 BL-2
 ********** 20 **********
+
+[Text in pictures on this page, read by OCR]
+Max Min Ant System Algorithm
+
+O Key to achieve best performance of ACO algorithms is
+5 to combine an improved exploitation of the best solutions found during the search with an
+effective mechanism for avoiding early search stagnation
+c MAX -MIN Ant System, which has been specifically developed to meet these
+requirements, differs in three key aspects from AS
+O To exploit the best solutions found during an iteration or during the run of the algorithm,
+after each iteration only one single ant adds pheromone
+= This ant may be the one which found the best solution in the current iteration (iteration-best ant) or
+the one which found the best solution from the beginning of the trial (global-best ant)
+© To avoid stagnation of the search the range of possible pheromone trails on each solution
+component is limited to an interval [Tmax and Tmin]
+o Additionally, we deliberately initialize the pheromone trails to Tmax, achieving in this way
+a higher exploration of solutions at the start of the algorithm
+
+Max Min Ant System Algorithm
+
+© This algorithm is an improvement over the original Ant System
+
+co Its characterizing elements are that
+1 only the best ant updates the pheromone trails and
+
+1 that the valve of the pheromone is bound
+
+Pheromone update is implemented as follows-
+
+ty [a = p)-ti + ads]! ~
+Tin
+Oo where where Tax and Tin are respectively i the upper and lower bounds imposed
+on the pheromone; the operator x]%, and At;; Dest is defined as
+
+b ifx <b, 0 otherwise,
+
+ifx > a,
+
+| a ifx>a Art = | 1/Lics if (i, j) belongs to the best tour,
+
+yo
+x otherwise;
+
+Velocity Clamping
+a
+
+O To control the global exploration of particles, velocities are clamped
+to stay within boundary constraints
+
+a If a particle’s velocity exceeds a specified maximum velocity, the
+particle’s velocity is set to the maximum velocity
+
+a Let Vingx,j denote the maximum allowed velocity in dimension j
+c Particle velocity is then adjusted before the position update using
+
+vj(t+1) if uj(t+1) <Vinaxj :
+»(t+1) = ij iy 16.1
+alt+ 0) { Vinazy hey (t+1) 2 Vnaey un
 --- page 21 ---
 Velocity Clamping
 

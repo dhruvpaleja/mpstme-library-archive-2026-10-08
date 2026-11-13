@@ -422,6 +422,24 @@ boost throughput.
 lowering fuel use and delays.   5M
 b.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Application Layer (CoAP)
+
+Defined by Transport Layer (UDP)
+
+Internet
+
+pores Network Layer
+(IPv6/ICMP/RPL)
+
+Adaptation Layer (6LoWPAN)
+
+ee | Link Layer (802.15.4 )
+802.15.4
+standard |
+
+Physical Layer(802.15.4)
 --- page 2 ---
 Diagram 2M and Explanation 3M
 1. Identify the value proposition: Define the concrete benefit your IoT solution delivers so
@@ -449,6 +467,23 @@ technology and customer needs evolve.   5M
 7. User interface and reporting
 d.   8. Security and maintenance   3M
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+ULTRASONIC =}___})
+
+DC MOTOR
+SENSOR 1
+ULTRASONIC
+SENSOR 1 ESP8266
+ARDUINO UNO
+IR -—
+SENSOR2 7
+
+MOISTURE
+
+Ne Z
+
+SENSOR3
 --- page 3 ---
 2M
 Q.2
@@ -482,6 +517,21 @@ actions like isolating nodes or dropping suspicious flows.
 3. Flexibility and agility: Programmatic updates let you adapt routing, QoS, and access rules on
 the fly as devices and apps change.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Software Defined Networking (SDN)
+
+t Applications t
+
+Control Plane [ SDN Controller |
+
+SDN Datapath |
+
+Data Plane [ Switches }
+
+a
+
+Pool of Application Servers
 --- page 4 ---
 4. Resource optimization: The controller allocates bandwidth and paths based on application
 needs, improving performance and efficiency at scale.   4M
@@ -595,6 +645,42 @@ needs reliable measurement, and shared risk boosts long-term viability.
 value; sustainable if quality and satisfaction remain high.   7M
 b.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+e loT architecture
+
+Gateway |~ [| ———
+
+Cloud _____ Control
+oe gateway applications Models
+* +
+
+1} f
+
+Sensors, actuators aa ED
+
+and smart devices a x
+Streaming (S"] Machine
+
+data processor “learning
+
+s. Data lake ———+ °
+ensors, actuators Big dat
+and smart devices ss Prat
+
+warehouse
+
+Web Data
+application analytics
+
+p——— User business
+
+logic
+Mobile
+application
+Device ee User Security
+
+administration administration monitoring
 --- page 8 ---
 Basis   CoAP   MQTT
 Message   Queuing   Telemetry
@@ -702,6 +788,22 @@ ESP32; relay module for pump/valves; Wi-Fi or GSM (or LPWAN) for backhaul.
 • Data flow: Sensors stream values; the controller compares moisture against crop-specific thresholds.
 If below set point, it energizes the relay to start irrigation; hysteresis prevents rapid cycling.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+A Historic Timeline of Internet of Things
+
+ado us
+& “Be 0gv
+The The The First Official loT Devices
+Beginning First Entry of Internet Exceed 20
+
+of TCP/IP Webpage of Things Billion"
+
+The First loT is Coined Mirai Botnet
+loT Device for the Almost Brings
+First Time Down the Internet
+
+&
 --- page 11 ---
  Cloud & UI: Platforms like ThingSpeak/Blynk store and visualize trends, send alerts, and
 expose a manual override so farmers can start/stop irrigation from a phone or browser.
@@ -729,6 +831,22 @@ and security so the product is both robust and commercially viable.   6M
 c.
 Diagram 2M Explanation 2M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Send HTTP Request
+(GET, POST, PUT, DELETE)
+
+»
+>
+
+® Client (https://api.example.com/resource) ae Server
+
+Gin
+Receive JSON Response Cee
+
+<
+
+(eg: {"name": “archana", "age": "40"})
 ````
 
 ## 2025-26 · Re-Exam · Sem 7 · Answer key · paper 178e32e0b502
@@ -738,6 +856,7 @@ Diagram 2M Explanation 2M
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/BTech_CSE_DS_7057/IoT and Applications/ANS_IoT and Applications(702CO0E017)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Feb 2026
 - Text: text (16 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1112,6 +1231,25 @@ difficult.
 •   Updates and patching: Remote or constrained devices often miss timely firmware
 fixes, widening exposure.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Identity Management System
+
+Block 2 Block 1 Block 0
+Hash Hash Hash
+Identity Identity Identity
+
+Assign unique
+ID toevery
+device Validate devices sent
+to blockchain
+
+Authenticate 10,
+Devices
+
+IOT Devices
+
+Smart Contract
 --- page 11 ---
 •   Heterogeneous networks: Wi-Fi, cellular, Bluetooth, and others pose different,
 compounding security risks.   3M
@@ -1179,6 +1317,26 @@ a.
 •   Device/network protection: Stops rogue devices from joining; limits actions to defined
 roles.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+MQTT Clients MQTT Clients
+
+Ex: Sensors » Ex: Valve
+
+Te Dic. te
+mp"
+
+Publish: "6596"
+Topic: “moisture
+
+Ras Ai Ex: Cloud Server
+
+N Sires is:
+N acca ye
+
+~
+Meigs = = =
+“Og
 --- page 13 ---
 Data encryption: Encrypt in transit and at rest.
 • Data protection: Preserves confidentiality and integrity across links and storage.
@@ -1223,6 +1381,19 @@ hop range.   4M
 Q.7
 a.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+APPLICATION LAYER
+
+
+TRANSPORT LAYER
+
+NETWORK LAYER
+
+
+PHYSICAL AND DATALINK LAYER
+
+BLU ErooTH | | ZIGBEE | | WI-FI |
 --- page 15 ---
 2M
 An IoT-based smart inventory management system can be designed using RFID technology
@@ -1246,6 +1417,19 @@ b.
 Early builds expose design flaws, hardware limits, and performance bottlenecks, saving
 time, cost, and risk. These platforms also support quick iteration: swap sensors, update
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Cloud Server
+
+Node MCU
+
+DHT-11 Sensor Relay Module
+Fan
+LDR Sensor
+
+{ (_____| Light
+
+Power Supply
 --- page 16 ---
 firmware, and observe system behavior so prototypes mirror real operating conditions and
 clarify how the final product will work.

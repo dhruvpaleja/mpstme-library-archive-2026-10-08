@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_CyberSecurity_7010/Introduction to Cryptography/ANS_Introduction to Cryptography(702IT0C037)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 May 2026
 - Text: text (11 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -111,6 +112,34 @@ Ciphertext: Q W E R T Y U I O P A S D F G H J K L Z X C V B N M
 • Simple Substitution Cipher: each plaintext letter is mapped one-to-one to a unique
 ciphertext letter using a fixed substitution alphabet.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Rail C ) (T) (A) (1) .N)
+
+rail2   (R) ( (rR) (Pe) (y) (s) ()
+Rail 3 (G)
+Read rail by rail >
+Railt: CTAIN
+Rail 2: RPORPYSU
+Rail 3: YGHF
+
+Step-by-step breakdown:
+
+The 17 letters are placed in a zigzag across 3 rails (period = 4):
+
+Position o 1 2 3 4 5 6 7 8 9 10 if 12 13 4 15 16
+
+Letter Cc R Y P TO GR A P H ¥Y IT S F U N
+
+Rail 1 23 21 2 3 2 «1 2 3 2 1 2 3 2 1
+
+Now read off each rail in order:
+
+¢ Raili:C,T,A,I.N> CTAIN
+« Rail2:R,P,0,R,P,Y,S,U > RPORPYSU
+« Rail3: Y,G,H,F> YGHF
+
+Ciphertext = CTAINRPORPYSUYGHF
 --- page 4 ---
 • Award marks for correct key table, encryption steps, and decryption verification.
 CO- b. Describe the attacks on block ciphers (any 5)   [10]
@@ -137,6 +166,24 @@ Method:
 bias
 - Collect a large number of known plaintext-ciphertext pairs
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Danang anany
+
+—~§OOUOUR BOHHEOE®
+
+() Plaintext © Key substitution © Ciphertext
+
+NETWORKSECURITY > FTZVGKALTEXKOZN > NETWORKSECURITY
+
+Summary
+
+Stage Result
+
+Plaintext NETWORK SECURITY
+Ciphertext FTZVGKA LTEXKOZN
+
+Decrypted NETWORK SECURITY V
 --- page 5 ---
 - Use the linear approximations to solve for key bits via maximum likelihood
 estimation
@@ -206,6 +253,34 @@ iii.   Encrypt the message m = 7 to obtain the ciphertext c.
 iv.   Decrypt the ciphertext c to recover the original message.
 Show all intermediate steps and calculations clearly.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Phase 1— Key generation
+
+p= 31, g= 3, private key x=17
+y = g4x mod p = 3417 mod 31 = 22 Public key y = 22
+
+Phase 2 — Encryption (k = 7, M = 10)
+
+Cl=g*kmodp C2=M-y4k mod p
+
+= 347 mod 31 = 10-2247 mod 31
+
+= 2187 mod 31=17 = 10-21 mod 31 = 210 mod 31
+C1=17 C2=24
+
+C Ciphertext = (C1, C2) = (17, 24) )
+
+Phase 3 — Decryption
+
+Step 1: s = C14x mod p Step 2: s** mod 31 Step 3: recover M
+=17417 mod 31= 21 Extended Euclidean: M=C2-s"*modp
+s=21 21*3=63=2x31+1 =24* 3mod 31
+s'=3 =72 mod 31
+M=10V
+
+a >)
+Ny Recovered message M = 10 / )
 --- page 8 ---
 CO- b. Encrypt the plaintext "EXAMINATION BEGINS TOMORROW" using the Vigenere [10]
 1;   cipher with the keyword "PROTECT". Perform encryption and decryption. (Ignore
@@ -229,6 +304,34 @@ finite fields; y²=x³+ax+b over GF(p).
 (−5)(3⁻¹) = 6×4=24 mod 11=2.
 • x₃=4−5−2=−3 mod 11=8; y₃=2(5−8) −2 = −8 mod 11=3.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Component Calculation Result
+
+n pxq=13x17 221
+(n) (p-1)(q-1) = 12 x 16 192
+d e mod g(n) using Extended Euclidean Algorithm 35
+Ciphertext c 7" mod 221 184
+Decrypted m 184*° mod 221 7
+Final Answer:
+
+n = 221, (n) = 192, d = 35, c = 184, decrypted m = 7
+
+Plaintext : E X A M I N A T IT ON B E G@ IN S T O M
+
+P (num) : 4 23 @ 12 8 13 @ 19 8 14 13 14 4 6 8 13 18 19 14 12
+K (num) : 15 17 14 19 4 2 19 15 17 14 19 4 2 19 15 17 14 19 4 2
+C = P+K : 19 14 14 5 12 15 19 8 25 2 6 5 6 25 23 4 6 12 18 14
+
+Ciphertext: T O O F M P T IT ZC G@G F GZ XK E G@G M S O
+
+Ciphertext: T O O08 F M P T IT ZC G F GZ XK E G@G M S O
+
+Cc (num) 7:19 14 14 S 12 15 19 8 25 2 6 5 6 25 23 4 6 12 18 14
+K (num) :15 17 14 19 4 2 19 15 17 14 19 4 2 19 15 17 14 19 4 2
+P = C-K : 4 23 @ 12 8 13 @© 19 8 14 13 14 4 6 8 13 18 19 14 12
+
+Plaintext: E X A M I N A T IT O N B E GI N S$ T O MM
 --- page 9 ---
 • 3G = (8, 3). Marks should be awarded for correct application of slope formula,
 modular inverse, and point computation steps.
@@ -265,6 +368,15 @@ H(B,C,D)=B⊕C⊕D; I(B,C,D)=C⊕(B∨¬D).
 • 64 rounds in 4 groups of 16: rounds 1–16 use F; 17–32 use G; 33–48 use H; 49–64
 use I.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Step Alice Bob
+
+Private key a=9 b=14
+Public key A=7 mod 41 = 13 B=7" mod 41=2
+Exchange A -— Bob, B - Alice
+
+Shared secret s=2° mod 41 = 20 s=13" mod 41 = 20
 --- page 10 ---
 • Each round: T = B + left rotate (A + F/G/H/I (B, C, D) + M[k] + T[i], s); then (A,
 B, C, D) rotated.
@@ -327,6 +439,43 @@ recalc: 75=16807 mod 11=75; 11×1528=16808; 16807mod11=10≡−1
 • Significance: quadratic residuosity problem underpins Rabin cryptosystem and
 Goldwasser-Micali encryption.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Public-key
+Initiator A authority Responder B
+
+Ti, Tz: timestamped message
+
+PRautn: Authority’s private key
+<» | PUp: Public key of B
+- ZB PU,: Public key of A IDa:
+
+(1) Request || 7) Identity of A
+
+(2) E(PRautn: [P Us || Request || 7)]) IDg: Identity of B
+
+Na, No: Ne
+(3) E(PU}, [ 1D4 || Mi)   eemonce
+
+~ E(.): Encryption
+
+Exch:
+ane (4) Request || 72
+
+Drawbacks:
+
+=Bottleneck in the
+system as every
+
+(6) E(PU,, [Nj II No) - pair have to do
+
+this
+
+(7) E(PU;, N>) - Assure A&B
+
+Each other
+
+(8) E(PRayui> [PU || Request || 73))
 ````
 
 ## 2025-26 · Final-Exam · Sem 6 · Answer key · paper defe276fa166
@@ -336,6 +485,7 @@ Goldwasser-Micali encryption.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_IT_7001/Introduction to Cryptography/ANS_Introduction to Cryptography(702IT0E010)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 May 2026
 - Text: text (11 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -438,6 +588,34 @@ Ciphertext: Q W E R T Y U I O P A S D F G H J K L Z X C V B N M
 • Simple Substitution Cipher: each plaintext letter is mapped one-to-one to a unique
 ciphertext letter using a fixed substitution alphabet.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Rail C ) (T) (A) (1) .N)
+
+rail2   (R) ( (rR) (Pe) (y) (s) ()
+Rail 3 (G)
+Read rail by rail >
+Railt: CTAIN
+Rail 2: RPORPYSU
+Rail 3: YGHF
+
+Step-by-step breakdown:
+
+The 17 letters are placed in a zigzag across 3 rails (period = 4):
+
+Position o 1 2 3 4 5 6 7 8 9 10 if 12 13 4 15 16
+
+Letter Cc R Y P TO GR A P H ¥Y IT S F U N
+
+Rail 1 23 21 2 3 2 «1 2 3 2 1 2 3 2 1
+
+Now read off each rail in order:
+
+¢ Raili:C,T,A,I.N> CTAIN
+« Rail2:R,P,0,R,P,Y,S,U > RPORPYSU
+« Rail3: Y,G,H,F> YGHF
+
+Ciphertext = CTAINRPORPYSUYGHF
 --- page 4 ---
 • Award marks for correct key table, encryption steps, and decryption verification.
 CO- b. Describe the attacks on block ciphers (any 5)   [10]
@@ -464,6 +642,24 @@ Method:
 bias
 - Collect a large number of known plaintext-ciphertext pairs
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Danang anany
+
+—~§OOUOUR BOHHEOE®
+
+() Plaintext © Key substitution © Ciphertext
+
+NETWORKSECURITY > FTZVGKALTEXKOZN > NETWORKSECURITY
+
+Summary
+
+Stage Result
+
+Plaintext NETWORK SECURITY
+Ciphertext FTZVGKA LTEXKOZN
+
+Decrypted NETWORK SECURITY V
 --- page 5 ---
 - Use the linear approximations to solve for key bits via maximum likelihood
 estimation
@@ -533,6 +729,34 @@ iii.   Encrypt the message m = 7 to obtain the ciphertext c.
 iv.   Decrypt the ciphertext c to recover the original message.
 Show all intermediate steps and calculations clearly.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Phase 1— Key generation
+
+p= 31, g= 3, private key x=17
+y = g4x mod p = 3417 mod 31 = 22 Public key y = 22
+
+Phase 2 — Encryption (k = 7, M = 10)
+
+Cl=g*kmodp C2=M-y4k mod p
+
+= 347 mod 31 = 10-2247 mod 31
+
+= 2187 mod 31=17 = 10-21 mod 31 = 210 mod 31
+C1=17 C2=24
+
+C Ciphertext = (C1, C2) = (17, 24) )
+
+Phase 3 — Decryption
+
+Step 1: s = C14x mod p Step 2: s** mod 31 Step 3: recover M
+=17417 mod 31= 21 Extended Euclidean: M=C2-s"*modp
+s=21 21*3=63=2x31+1 =24* 3mod 31
+s'=3 =72 mod 31
+M=10V
+
+a >)
+Ny Recovered message M = 10 / )
 --- page 8 ---
 CO- b. Encrypt the plaintext "EXAMINATION BEGINS TOMORROW" using the Vigenere [10]
 1;   cipher with the keyword "PROTECT". Perform encryption and decryption. (Ignore
@@ -556,6 +780,34 @@ finite fields; y²=x³+ax+b over GF(p).
 (−5)(3⁻¹) = 6×4=24 mod 11=2.
 • x₃=4−5−2=−3 mod 11=8; y₃=2(5−8) −2 = −8 mod 11=3.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Component Calculation Result
+
+n pxq=13x17 221
+(n) (p-1)(q-1) = 12 x 16 192
+d e mod g(n) using Extended Euclidean Algorithm 35
+Ciphertext c 7" mod 221 184
+Decrypted m 184*° mod 221 7
+Final Answer:
+
+n = 221, (n) = 192, d = 35, c = 184, decrypted m = 7
+
+Plaintext : E X A M I N A T IT ON B E G@ IN S T O M
+
+P (num) : 4 23 @ 12 8 13 @ 19 8 14 13 14 4 6 8 13 18 19 14 12
+K (num) : 15 17 14 19 4 2 19 15 17 14 19 4 2 19 15 17 14 19 4 2
+C = P+K : 19 14 14 5 12 15 19 8 25 2 6 5 6 25 23 4 6 12 18 14
+
+Ciphertext: T O O F M P T IT ZC G@G F GZ XK E G@G M S O
+
+Ciphertext: T O O08 F M P T IT ZC G F GZ XK E G@G M S O
+
+Cc (num) 7:19 14 14 S 12 15 19 8 25 2 6 5 6 25 23 4 6 12 18 14
+K (num) :15 17 14 19 4 2 19 15 17 14 19 4 2 19 15 17 14 19 4 2
+P = C-K : 4 23 @ 12 8 13 @© 19 8 14 13 14 4 6 8 13 18 19 14 12
+
+Plaintext: E X A M I N A T IT O N B E GI N S$ T O MM
 --- page 9 ---
 • 3G = (8, 3). Marks should be awarded for correct application of slope formula,
 modular inverse, and point computation steps.
@@ -592,6 +844,15 @@ H(B,C,D)=B⊕C⊕D; I(B,C,D)=C⊕(B∨¬D).
 • 64 rounds in 4 groups of 16: rounds 1–16 use F; 17–32 use G; 33–48 use H; 49–64
 use I.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Step Alice Bob
+
+Private key a=9 b=14
+Public key A=7 mod 41 = 13 B=7" mod 41=2
+Exchange A -— Bob, B - Alice
+
+Shared secret s=2° mod 41 = 20 s=13" mod 41 = 20
 --- page 10 ---
 • Each round: T = B + left rotate (A + F/G/H/I (B, C, D) + M[k] + T[i], s); then (A,
 B, C, D) rotated.
@@ -654,6 +915,43 @@ recalc: 75=16807 mod 11=75; 11×1528=16808; 16807mod11=10≡−1
 • Significance: quadratic residuosity problem underpins Rabin cryptosystem and
 Goldwasser-Micali encryption.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Public-key
+Initiator A authority Responder B
+
+Ti, Tz: timestamped message
+
+PRautn: Authority’s private key
+<» | PUp: Public key of B
+- ZB PU,: Public key of A IDa:
+
+(1) Request || 7) Identity of A
+
+(2) E(PRautn: [P Us || Request || 7)]) IDg: Identity of B
+
+Na, No: Ne
+(3) E(PU}, [ 1D4 || Mi)   eemonce
+
+~ E(.): Encryption
+
+Exch:
+ane (4) Request || 72
+
+Drawbacks:
+
+=Bottleneck in the
+system as every
+
+(6) E(PU,, [Nj II No) - pair have to do
+
+this
+
+(7) E(PU;, N>) - Assure A&B
+
+Each other
+
+(8) E(PRayui> [PU || Request || 73))
 ````
 
 ## 2025-26 · Final-Exam · Sem 6 · Answer key · paper 517cf347be34
@@ -663,6 +961,7 @@ Goldwasser-Micali encryption.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/MBATech_IT_7041/Introduction to Cryptography/ANS_Introduction to Cryptography(702IT0E010)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 May 2026
 - Text: text (11 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -765,6 +1064,34 @@ Ciphertext: Q W E R T Y U I O P A S D F G H J K L Z X C V B N M
 • Simple Substitution Cipher: each plaintext letter is mapped one-to-one to a unique
 ciphertext letter using a fixed substitution alphabet.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Rail C ) (T) (A) (1) .N)
+
+rail2   (R) ( (rR) (Pe) (y) (s) ()
+Rail 3 (G)
+Read rail by rail >
+Railt: CTAIN
+Rail 2: RPORPYSU
+Rail 3: YGHF
+
+Step-by-step breakdown:
+
+The 17 letters are placed in a zigzag across 3 rails (period = 4):
+
+Position o 1 2 3 4 5 6 7 8 9 10 if 12 13 4 15 16
+
+Letter Cc R Y P TO GR A P H ¥Y IT S F U N
+
+Rail 1 23 21 2 3 2 «1 2 3 2 1 2 3 2 1
+
+Now read off each rail in order:
+
+¢ Raili:C,T,A,I.N> CTAIN
+« Rail2:R,P,0,R,P,Y,S,U > RPORPYSU
+« Rail3: Y,G,H,F> YGHF
+
+Ciphertext = CTAINRPORPYSUYGHF
 --- page 4 ---
 • Award marks for correct key table, encryption steps, and decryption verification.
 CO- b. Describe the attacks on block ciphers (any 5)   [10]
@@ -791,6 +1118,24 @@ Method:
 bias
 - Collect a large number of known plaintext-ciphertext pairs
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Danang anany
+
+—~§OOUOUR BOHHEOE®
+
+() Plaintext © Key substitution © Ciphertext
+
+NETWORKSECURITY > FTZVGKALTEXKOZN > NETWORKSECURITY
+
+Summary
+
+Stage Result
+
+Plaintext NETWORK SECURITY
+Ciphertext FTZVGKA LTEXKOZN
+
+Decrypted NETWORK SECURITY V
 --- page 5 ---
 - Use the linear approximations to solve for key bits via maximum likelihood
 estimation
@@ -860,6 +1205,34 @@ iii.   Encrypt the message m = 7 to obtain the ciphertext c.
 iv.   Decrypt the ciphertext c to recover the original message.
 Show all intermediate steps and calculations clearly.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Phase 1— Key generation
+
+p= 31, g= 3, private key x=17
+y = g4x mod p = 3417 mod 31 = 22 Public key y = 22
+
+Phase 2 — Encryption (k = 7, M = 10)
+
+Cl=g*kmodp C2=M-y4k mod p
+
+= 347 mod 31 = 10-2247 mod 31
+
+= 2187 mod 31=17 = 10-21 mod 31 = 210 mod 31
+C1=17 C2=24
+
+C Ciphertext = (C1, C2) = (17, 24) )
+
+Phase 3 — Decryption
+
+Step 1: s = C14x mod p Step 2: s** mod 31 Step 3: recover M
+=17417 mod 31= 21 Extended Euclidean: M=C2-s"*modp
+s=21 21*3=63=2x31+1 =24* 3mod 31
+s'=3 =72 mod 31
+M=10V
+
+a >)
+Ny Recovered message M = 10 / )
 --- page 8 ---
 CO- b. Encrypt the plaintext "EXAMINATION BEGINS TOMORROW" using the Vigenere [10]
 1;   cipher with the keyword "PROTECT". Perform encryption and decryption. (Ignore
@@ -883,6 +1256,34 @@ finite fields; y²=x³+ax+b over GF(p).
 (−5)(3⁻¹) = 6×4=24 mod 11=2.
 • x₃=4−5−2=−3 mod 11=8; y₃=2(5−8) −2 = −8 mod 11=3.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Component Calculation Result
+
+n pxq=13x17 221
+(n) (p-1)(q-1) = 12 x 16 192
+d e mod g(n) using Extended Euclidean Algorithm 35
+Ciphertext c 7" mod 221 184
+Decrypted m 184*° mod 221 7
+Final Answer:
+
+n = 221, (n) = 192, d = 35, c = 184, decrypted m = 7
+
+Plaintext : E X A M I N A T IT ON B E G@ IN S T O M
+
+P (num) : 4 23 @ 12 8 13 @ 19 8 14 13 14 4 6 8 13 18 19 14 12
+K (num) : 15 17 14 19 4 2 19 15 17 14 19 4 2 19 15 17 14 19 4 2
+C = P+K : 19 14 14 5 12 15 19 8 25 2 6 5 6 25 23 4 6 12 18 14
+
+Ciphertext: T O O F M P T IT ZC G@G F GZ XK E G@G M S O
+
+Ciphertext: T O O08 F M P T IT ZC G F GZ XK E G@G M S O
+
+Cc (num) 7:19 14 14 S 12 15 19 8 25 2 6 5 6 25 23 4 6 12 18 14
+K (num) :15 17 14 19 4 2 19 15 17 14 19 4 2 19 15 17 14 19 4 2
+P = C-K : 4 23 @ 12 8 13 @© 19 8 14 13 14 4 6 8 13 18 19 14 12
+
+Plaintext: E X A M I N A T IT O N B E GI N S$ T O MM
 --- page 9 ---
 • 3G = (8, 3). Marks should be awarded for correct application of slope formula,
 modular inverse, and point computation steps.
@@ -919,6 +1320,15 @@ H(B,C,D)=B⊕C⊕D; I(B,C,D)=C⊕(B∨¬D).
 • 64 rounds in 4 groups of 16: rounds 1–16 use F; 17–32 use G; 33–48 use H; 49–64
 use I.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Step Alice Bob
+
+Private key a=9 b=14
+Public key A=7 mod 41 = 13 B=7" mod 41=2
+Exchange A -— Bob, B - Alice
+
+Shared secret s=2° mod 41 = 20 s=13" mod 41 = 20
 --- page 10 ---
 • Each round: T = B + left rotate (A + F/G/H/I (B, C, D) + M[k] + T[i], s); then (A,
 B, C, D) rotated.
@@ -981,6 +1391,43 @@ recalc: 75=16807 mod 11=75; 11×1528=16808; 16807mod11=10≡−1
 • Significance: quadratic residuosity problem underpins Rabin cryptosystem and
 Goldwasser-Micali encryption.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Public-key
+Initiator A authority Responder B
+
+Ti, Tz: timestamped message
+
+PRautn: Authority’s private key
+<» | PUp: Public key of B
+- ZB PU,: Public key of A IDa:
+
+(1) Request || 7) Identity of A
+
+(2) E(PRautn: [P Us || Request || 7)]) IDg: Identity of B
+
+Na, No: Ne
+(3) E(PU}, [ 1D4 || Mi)   eemonce
+
+~ E(.): Encryption
+
+Exch:
+ane (4) Request || 72
+
+Drawbacks:
+
+=Bottleneck in the
+system as every
+
+(6) E(PU,, [Nj II No) - pair have to do
+
+this
+
+(7) E(PU;, N>) - Assure A&B
+
+Each other
+
+(8) E(PRayui> [PU || Request || 73))
 ````
 
 ## 2025-26 · Final-Exam · Sem 10 · Answer key · paper cf7f81107fbc
@@ -990,6 +1437,7 @@ Goldwasser-Micali encryption.
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_IT_7037/Introduction to Cryptography/ANS_Introduction to Cryptography(702IT0E010)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 May 2026
 - Text: text (11 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1092,6 +1540,34 @@ Ciphertext: Q W E R T Y U I O P A S D F G H J K L Z X C V B N M
 • Simple Substitution Cipher: each plaintext letter is mapped one-to-one to a unique
 ciphertext letter using a fixed substitution alphabet.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Rail C ) (T) (A) (1) .N)
+
+rail2   (R) ( (rR) (Pe) (y) (s) ()
+Rail 3 (G)
+Read rail by rail >
+Railt: CTAIN
+Rail 2: RPORPYSU
+Rail 3: YGHF
+
+Step-by-step breakdown:
+
+The 17 letters are placed in a zigzag across 3 rails (period = 4):
+
+Position o 1 2 3 4 5 6 7 8 9 10 if 12 13 4 15 16
+
+Letter Cc R Y P TO GR A P H ¥Y IT S F U N
+
+Rail 1 23 21 2 3 2 «1 2 3 2 1 2 3 2 1
+
+Now read off each rail in order:
+
+¢ Raili:C,T,A,I.N> CTAIN
+« Rail2:R,P,0,R,P,Y,S,U > RPORPYSU
+« Rail3: Y,G,H,F> YGHF
+
+Ciphertext = CTAINRPORPYSUYGHF
 --- page 4 ---
 • Award marks for correct key table, encryption steps, and decryption verification.
 CO- b. Describe the attacks on block ciphers (any 5)   [10]
@@ -1118,6 +1594,24 @@ Method:
 bias
 - Collect a large number of known plaintext-ciphertext pairs
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Danang anany
+
+—~§OOUOUR BOHHEOE®
+
+() Plaintext © Key substitution © Ciphertext
+
+NETWORKSECURITY > FTZVGKALTEXKOZN > NETWORKSECURITY
+
+Summary
+
+Stage Result
+
+Plaintext NETWORK SECURITY
+Ciphertext FTZVGKA LTEXKOZN
+
+Decrypted NETWORK SECURITY V
 --- page 5 ---
 - Use the linear approximations to solve for key bits via maximum likelihood
 estimation
@@ -1187,6 +1681,34 @@ iii.   Encrypt the message m = 7 to obtain the ciphertext c.
 iv.   Decrypt the ciphertext c to recover the original message.
 Show all intermediate steps and calculations clearly.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Phase 1— Key generation
+
+p= 31, g= 3, private key x=17
+y = g4x mod p = 3417 mod 31 = 22 Public key y = 22
+
+Phase 2 — Encryption (k = 7, M = 10)
+
+Cl=g*kmodp C2=M-y4k mod p
+
+= 347 mod 31 = 10-2247 mod 31
+
+= 2187 mod 31=17 = 10-21 mod 31 = 210 mod 31
+C1=17 C2=24
+
+C Ciphertext = (C1, C2) = (17, 24) )
+
+Phase 3 — Decryption
+
+Step 1: s = C14x mod p Step 2: s** mod 31 Step 3: recover M
+=17417 mod 31= 21 Extended Euclidean: M=C2-s"*modp
+s=21 21*3=63=2x31+1 =24* 3mod 31
+s'=3 =72 mod 31
+M=10V
+
+a >)
+Ny Recovered message M = 10 / )
 --- page 8 ---
 CO- b. Encrypt the plaintext "EXAMINATION BEGINS TOMORROW" using the Vigenere [10]
 1;   cipher with the keyword "PROTECT". Perform encryption and decryption. (Ignore
@@ -1210,6 +1732,34 @@ finite fields; y²=x³+ax+b over GF(p).
 (−5)(3⁻¹) = 6×4=24 mod 11=2.
 • x₃=4−5−2=−3 mod 11=8; y₃=2(5−8) −2 = −8 mod 11=3.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Component Calculation Result
+
+n pxq=13x17 221
+(n) (p-1)(q-1) = 12 x 16 192
+d e mod g(n) using Extended Euclidean Algorithm 35
+Ciphertext c 7" mod 221 184
+Decrypted m 184*° mod 221 7
+Final Answer:
+
+n = 221, (n) = 192, d = 35, c = 184, decrypted m = 7
+
+Plaintext : E X A M I N A T IT ON B E G@ IN S T O M
+
+P (num) : 4 23 @ 12 8 13 @ 19 8 14 13 14 4 6 8 13 18 19 14 12
+K (num) : 15 17 14 19 4 2 19 15 17 14 19 4 2 19 15 17 14 19 4 2
+C = P+K : 19 14 14 5 12 15 19 8 25 2 6 5 6 25 23 4 6 12 18 14
+
+Ciphertext: T O O F M P T IT ZC G@G F GZ XK E G@G M S O
+
+Ciphertext: T O O08 F M P T IT ZC G F GZ XK E G@G M S O
+
+Cc (num) 7:19 14 14 S 12 15 19 8 25 2 6 5 6 25 23 4 6 12 18 14
+K (num) :15 17 14 19 4 2 19 15 17 14 19 4 2 19 15 17 14 19 4 2
+P = C-K : 4 23 @ 12 8 13 @© 19 8 14 13 14 4 6 8 13 18 19 14 12
+
+Plaintext: E X A M I N A T IT O N B E GI N S$ T O MM
 --- page 9 ---
 • 3G = (8, 3). Marks should be awarded for correct application of slope formula,
 modular inverse, and point computation steps.
@@ -1246,6 +1796,15 @@ H(B,C,D)=B⊕C⊕D; I(B,C,D)=C⊕(B∨¬D).
 • 64 rounds in 4 groups of 16: rounds 1–16 use F; 17–32 use G; 33–48 use H; 49–64
 use I.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Step Alice Bob
+
+Private key a=9 b=14
+Public key A=7 mod 41 = 13 B=7" mod 41=2
+Exchange A -— Bob, B - Alice
+
+Shared secret s=2° mod 41 = 20 s=13" mod 41 = 20
 --- page 10 ---
 • Each round: T = B + left rotate (A + F/G/H/I (B, C, D) + M[k] + T[i], s); then (A,
 B, C, D) rotated.
@@ -1308,6 +1867,43 @@ recalc: 75=16807 mod 11=75; 11×1528=16808; 16807mod11=10≡−1
 • Significance: quadratic residuosity problem underpins Rabin cryptosystem and
 Goldwasser-Micali encryption.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Public-key
+Initiator A authority Responder B
+
+Ti, Tz: timestamped message
+
+PRautn: Authority’s private key
+<» | PUp: Public key of B
+- ZB PU,: Public key of A IDa:
+
+(1) Request || 7) Identity of A
+
+(2) E(PRautn: [P Us || Request || 7)]) IDg: Identity of B
+
+Na, No: Ne
+(3) E(PU}, [ 1D4 || Mi)   eemonce
+
+~ E(.): Encryption
+
+Exch:
+ane (4) Request || 72
+
+Drawbacks:
+
+=Bottleneck in the
+system as every
+
+(6) E(PU,, [Nj II No) - pair have to do
+
+this
+
+(7) E(PU;, N>) - Assure A&B
+
+Each other
+
+(8) E(PRayui> [PU || Request || 73))
 ````
 
 ## 2025-26 · Re-Exam · Sem 4 · Answer key · paper 2bacbb4cd516
@@ -1510,6 +2106,22 @@ Ciphertext: KYAV
 Decryption — Find K⁻¹ mod 26:
 det(K) = 3·5 − 3·2 = 9. Find 9⁻¹ mod 26: 9·3 = 27 ≡ 1 (mod 26) → 9⁻¹ = 3.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Step Description Result
+
+1 n=pxq n= 221
+
+2 O(n) = (p-1)(q~1) (n) = 192
+
+3 Extended Euclidean Algorithm for d d=T77
+
+4 Verifye-d=1 mod ¢(n) 5x 77=385=1
+5 Encrypt m = 2:c = 2° mod 221 c= 32
+
+6 Decrypt c = 32: m = 3277 mod 221 m=2
+
+7 Final recovered message 2
 --- page 7 ---
 Decrypt
 → M, A
@@ -1528,6 +2140,26 @@ BL-3   s and t such that 481s + 221t = gcd(481, 221). Using this result, solve t
 congruence 221x ≡ 13 (mod 481). Show all steps clearly.
 Extended Euclidean Algorithm:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Step Description Result
+
+1 Compute y = g” mod p y=2" mod 29=7
+
+2 Compute C, = g* mod p C, =2° mod 29 = 3
+
+3 Compute y* mod p 7 mod 29 = 16
+
+4 Compute C, = M x y* mod p C, =6x16 mod 29=9
+5 Ciphertext (Ci, Cz) = (3,9)
+
+6 Compute C? mod p 32 mod 29 = 16
+
+7 Compute inverse of C7 mod p 16-! mod 29 = 20
+
+8 Decrypt: M = C, x (C7)! mod p 9 x 20 mod 29=6
+
+9 Recovered message 6
 --- page 8 ---
 Back-substitution:
 13 = 39 − 1·26
@@ -1872,6 +2504,22 @@ Ciphertext: KYAV
 Decryption — Find K⁻¹ mod 26:
 det(K) = 3·5 − 3·2 = 9. Find 9⁻¹ mod 26: 9·3 = 27 ≡ 1 (mod 26) → 9⁻¹ = 3.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Step Description Result
+
+1 n=pxq n= 221
+
+2 O(n) = (p-1)(q~1) (n) = 192
+
+3 Extended Euclidean Algorithm for d d=T77
+
+4 Verifye-d=1 mod ¢(n) 5x 77=385=1
+5 Encrypt m = 2:c = 2° mod 221 c= 32
+
+6 Decrypt c = 32: m = 3277 mod 221 m=2
+
+7 Final recovered message 2
 --- page 7 ---
 Decrypt
 → M, A
@@ -1890,6 +2538,26 @@ BL-3   s and t such that 481s + 221t = gcd(481, 221). Using this result, solve t
 congruence 221x ≡ 13 (mod 481). Show all steps clearly.
 Extended Euclidean Algorithm:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Step Description Result
+
+1 Compute y = g” mod p y=2" mod 29=7
+
+2 Compute C, = g* mod p C, =2° mod 29 = 3
+
+3 Compute y* mod p 7 mod 29 = 16
+
+4 Compute C, = M x y* mod p C, =6x16 mod 29=9
+5 Ciphertext (Ci, Cz) = (3,9)
+
+6 Compute C? mod p 32 mod 29 = 16
+
+7 Compute inverse of C7 mod p 16-! mod 29 = 20
+
+8 Decrypt: M = C, x (C7)! mod p 9 x 20 mod 29=6
+
+9 Recovered message 6
 --- page 8 ---
 Back-substitution:
 13 = 39 − 1·26
@@ -2234,6 +2902,22 @@ Ciphertext: KYAV
 Decryption — Find K⁻¹ mod 26:
 det(K) = 3·5 − 3·2 = 9. Find 9⁻¹ mod 26: 9·3 = 27 ≡ 1 (mod 26) → 9⁻¹ = 3.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Step Description Result
+
+1 n=pxq n= 221
+
+2 O(n) = (p-1)(q~1) (n) = 192
+
+3 Extended Euclidean Algorithm for d d=T77
+
+4 Verifye-d=1 mod ¢(n) 5x 77=385=1
+5 Encrypt m = 2:c = 2° mod 221 c= 32
+
+6 Decrypt c = 32: m = 3277 mod 221 m=2
+
+7 Final recovered message 2
 --- page 7 ---
 Decrypt
 → M, A
@@ -2252,6 +2936,26 @@ BL-3   s and t such that 481s + 221t = gcd(481, 221). Using this result, solve t
 congruence 221x ≡ 13 (mod 481). Show all steps clearly.
 Extended Euclidean Algorithm:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Step Description Result
+
+1 Compute y = g” mod p y=2" mod 29=7
+
+2 Compute C, = g* mod p C, =2° mod 29 = 3
+
+3 Compute y* mod p 7 mod 29 = 16
+
+4 Compute C, = M x y* mod p C, =6x16 mod 29=9
+5 Ciphertext (Ci, Cz) = (3,9)
+
+6 Compute C? mod p 32 mod 29 = 16
+
+7 Compute inverse of C7 mod p 16-! mod 29 = 20
+
+8 Decrypt: M = C, x (C7)! mod p 9 x 20 mod 29=6
+
+9 Recovered message 6
 --- page 8 ---
 Back-substitution:
 13 = 39 − 1·26

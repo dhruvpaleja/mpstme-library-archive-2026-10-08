@@ -329,6 +329,35 @@ SO-
 BL-
 2
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Aspect Cloud Computing Traditional Computing
+
+Definition Cloud Computing refers to delivery of different
+
+‘ Traditional Computing refers to delivery of different
+services such as data and programs through
+
+. . services on local server.
+internet on different servers.
+
+Infrastructure Cloud Computing takes place on third-party a : A
+A 7 . . Traditional Computing takes place on physical hard
+Location servers that is hosted by third-party hosting . .
+. drives and website servers.
+companies.
+Data Cloud Computing is ability to access data User can access data only on system in which data is
+Accessibility anywhere at any time by user. stored.
+Cost Cloud Computing is more cost effective as oo .
+. _ . . Traditional Computing is less cost effective as
+Effectiveness compared to tradition computing as operation
+
+. compared to cloud computing because one has to buy
+and maintenance of server is shared among 7 . a
+. . . expensive equipment's to operate and maintain server.
+several parties that in turn reduce cost of public
+
+services.
 --- page 7 ---
 Q5   a.   Discuss all type of blockchain and their examples.   [10]
 CO-

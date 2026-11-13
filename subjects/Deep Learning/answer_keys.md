@@ -569,6 +569,7 @@ Application 2 — Autonomous Vehicles (example + advantage). (2 marks)
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_AIDS_7056/Deep Learning/ANS_Deep Learning(702AI0C008)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
 - Text: text (11 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -880,6 +881,29 @@ The observed behaviour indicates Stochastic Gradient Descent, because it updates
 weights using individual samples, leading to noisy loss fluctuations but faster initial
 convergence due to frequent updates.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Reset Gate
+
+Update Gate
+
+‘** is element wise multiplication
+
+Reset Gate
+1, = activation(W,, x; + Wh, hy: + Bias)
+Decides how much info is kept -> This is a logistic regression!!!
+
+ca |
+
+> Update Gate
+2, = activation(W,, x, + Wh, hy, + Bias)
+Decides what info to keep/discard -> This is a logistic Regression!!!
+This activation is almost always sigmoid.
+Candidate Hidden State
+
+Hidden Sta’
+hy=(1-Z dehy tZeehy
+*able to solve vanishing gradient problem
 --- page 7 ---
 ii.   L1 regularization, also known as Lasso regularization, involves adding a penalty
 equal to the absolute value of the magnitude of coefficients to the loss function.
@@ -3344,6 +3368,18 @@ BL-2,4
 CO-4   c.   What are the computational challenges of BPTT? Suggest optimization   [5]
 BL-3   techniques to improve efficiency
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+@ Comparison
+
+Feature Standard Convolution Depthwise Separable Convolution
+Computation High Low
+
+Parameters More Fewer
+
+Speed Slower Faster
+
+Efficiency Moderate High
 --- page 2 ---
 CO-2   d.
 In autonomous driving systems, deep learning models sometimes fail in unusual
@@ -3363,6 +3399,51 @@ BL-3   Design an LSTM-based model for:
 1) Time-series prediction
 2) Explain input representation, architecture, and training process.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+1. High Time Complexity
+
+¢ For sequence length T:
+* Computation grows linearly with time steps
+
+Long sequences — very slow training
+
+2. High Memory Consumption
+¢ Need to store:
+¢ Hidden states at each time step
+
+¢ Intermediate activations
+
+Memory requirement increases with sequence length
+
+3. Vanishing and Exploding Gradients
+¢ Gradients:
+¢ Shrink = vanishing
+* Grow = exploding
+
+Makes learning long-term dependencies difficult
+
+role"
+
+¢ 1. Poor Generalization to Unseen Data (Data Dependency)
+
+Explanation
+* Deep learning models rely heavily on training data
++ They perform well only on patterns similar to training examples
+
+Problem in Autonomous Driving
+* Unusual conditions may not be present in training data:
+* Extreme weather (heavy fog, snowstorms)
+
+* Rare road events (unexpected obstacles, accidents)
+
+Model fails because it has never seen such scenarios
+
+Example
+* Amodel trained on clear weather images may fail to detect:
+© Pedestrians in heavy rain
+
+* Road signs covered with snow
 --- page 3 ---
 [5+5]
 Explain the architecture of Gated Recurrent Unit (GRU) networks using a
@@ -3388,6 +3469,26 @@ Calculate the following: (4 significants)
 3. Calculate the updated weights w4 and w8 after the first iteration of
 backpropagation.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+¢ 1) Input Representation
+
+a) Time-Series Data Format
+
+* Data is sequential:
+X = (#1, 2,2%3,..., 07)
+
+Example: Daily stock prices or temperature readings
+
+b) Sliding Window Technique
+
+* Convert sequence into input-output pairs
+
+Example:
+* Input: (21, 22,23]
+© Output: x4
+
+Helps model learn temporal patterns
 --- page 4 ---
 CO-2
 BL-3
@@ -3413,6 +3514,22 @@ BL-1,2
 CO-4
 BL-2
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+¢ 1. Local Minima
+
+Definition
+
+imum is a point where the loss is lower than nearby points but not the global minimum.
+
+Problem
+* Gradient becomes zero
+
+* Optimization stops prematurely
+
+Impact
+* Model may converge to a suboptimal solution
+© Performance is not optimal
 --- page 5 ---
 b.
 [10]
@@ -3421,6 +3538,58 @@ Explain the application of deep learning in speech recognition systems:
 2. Model architecture
 3. Training challenges
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+@ 2. Saddle Points
+
+Definition
+A saddle point is a point where:
+* Gradient = 0
+
+¢ But it is not a minimum or maximum
+
+Some directions go up, others go down
+
+Problem
+
+* Gradient descent slows down significantly
+* Can get stuck for a long time
+
+Impact
+
+¢ Training becomes very slow
+* Difficult to escape flat regions
+
+* 3. Vanishing Gradients
+
+Definition
+
+Gradients become very small (close to zero) during backpropagation, especially in deep networks.
+
+Cause
++ Repeated multiplication of small derivatives
+* Common with:
+
+© Sigmoid
+
+*   Tanh activations
+
+Problem
++ Early layers learn very slowly or not at all
+‘+ Training becomes ineffective
+
+¢ 1) Feature Extraction
+
+Raw audio signals cannot be directly fed into deep learning models, so meaningful features are extracted.
+
+a) Preprocessing
+* Convert audio into digital signal
++ Remove noise and silence
+* Normalize amplitude
+
+b) Framing & Windowing
+* Divide audio into small frames (20-40 ms)
+Speech is quasi-stationary in short intervals
 --- page 6 ---
 Q6   a.   You are training a deep learning model on limited GPU memory.
 CO-4   How would you choose the batch size? Justify your answer.
@@ -3442,6 +3611,24 @@ Modified AlexNet-Inspired Architecture for 64×64 Images:
 •   Conv1: 5×5 kernel, 32 filters, stride 1, padding 2 → Max Pooling (2×2,
 stride 2) → Output size: 32×32×32
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+@ 2) Model Architecture
+
+Modern speech recognition systems use deep learning architectures:
+
+a) CNN (Convolutional Neural Networks)
+
+¢ Extract spatial features from spectrograms
+
+b) RNN / LSTM / GRU
+
+* Capture temporal dependencies in speech sequences
+
+c) Hybrid Models
+¢ CNN + RNN (very common)
+* CNN — feature extraction
+« RNN = sequence modeling
 --- page 7 ---
 •   Conv2: 3×3 kernel, 64 filters, stride 1, padding 1 → Max Pooling (2×2,
 stride 2) → Output size: 16×16×64
@@ -4115,6 +4302,25 @@ Steps Involved (4 Marks):
 2. Load pre-trained weights trained on ImageNet or similar dataset.
 3. Freeze base layers to retain generic features.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+For hidden neuron 2:
+Z12=(0.3)(0.5)+(0.5)(0.2)+(0.7)(0.1)+0.2=0.52
+
+Apply Sigmoid Activation (hidden layer)
+
+1
+
+9(0.25) = a5 © 0.5622
+1 ~
+
+0(0.52) = 7am © 0.6271
+
+Output Layer Computation
+Zo=(0.6)(0.5622)+(0.9)(0.6271)+0.5 =1.4017
+Apply Sigmoid at Output
+
+A2=0(Z2)=1/ (1+e-1.40171)=0.8025
 --- page 15 ---
 4. Add new layers (Dense/SoftMax) to suit the new classification task.
 5. Compile and train the model on the new dataset.
@@ -4745,6 +4951,25 @@ Steps Involved (4 Marks):
 2. Load pre-trained weights trained on ImageNet or similar dataset.
 3. Freeze base layers to retain generic features.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+For hidden neuron 2:
+Z12=(0.3)(0.5)+(0.5)(0.2)+(0.7)(0.1)+0.2=0.52
+
+Apply Sigmoid Activation (hidden layer)
+
+1
+
+9(0.25) = a5 © 0.5622
+1 ~
+
+0(0.52) = 7am © 0.6271
+
+Output Layer Computation
+Zo=(0.6)(0.5622)+(0.9)(0.6271)+0.5 =1.4017
+Apply Sigmoid at Output
+
+A2=0(Z2)=1/ (1+e-1.40171)=0.8025
 --- page 15 ---
 4. Add new layers (Dense/SoftMax) to suit the new classification task.
 5. Compile and train the model on the new dataset.
@@ -5151,6 +5376,21 @@ SO1;BL5   w24=0.45, w25=0.67, w36=0.23, w37=0.36, w46=0.56, w47=0.50, w56=0.23,
 w57=0.12, bias on all nodes at hidden layer b1=0.6 and bias on all nodes at output layer
 b2 = 0.5. Use learning rate η=0.5, and sigmoid activation function.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Algorithm 8.2 Stochastic gradient descent (SGD) with momentum
+
+Require: Learning rate «, momentum parameter a
+Require: Initial parameter @, initial velocity v
+while stopping criterion not met do
+Sample a minibatch of m examples from the training set {a@)
+corresponding targets y“.
+Compute gradient estimate: g <— AVed: L(f(@; 0), y).
+Compute velocity update: v — av — eg.
+Apply update: @<- @+ v.
+end while
+
+2) with
 --- page 9 ---
 i.   Compute output of node 3, 4, 5, 6 and node 7.
 ii.   Calculate mean square error at output layer.
@@ -5869,6 +6109,25 @@ Steps Involved (4 Marks):
 2. Load pre-trained weights trained on ImageNet or similar dataset.
 3. Freeze base layers to retain generic features.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+For hidden neuron 2:
+Z12=(0.3)(0.5)+(0.5)(0.2)+(0.7)(0.1)+0.2=0.52
+
+Apply Sigmoid Activation (hidden layer)
+
+1
+
+9(0.25) = a5 © 0.5622
+1 ~
+
+0(0.52) = 7am © 0.6271
+
+Output Layer Computation
+Zo=(0.6)(0.5622)+(0.9)(0.6271)+0.5 =1.4017
+Apply Sigmoid at Output
+
+A2=0(Z2)=1/ (1+e-1.40171)=0.8025
 --- page 15 ---
 4. Add new layers (Dense/SoftMax) to suit the new classification task.
 5. Compile and train the model on the new dataset.
@@ -6507,6 +6766,25 @@ Steps Involved (4 Marks):
 2. Load pre-trained weights trained on ImageNet or similar dataset.
 3. Freeze base layers to retain generic features.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+For hidden neuron 2:
+Z12=(0.3)(0.5)+(0.5)(0.2)+(0.7)(0.1)+0.2=0.52
+
+Apply Sigmoid Activation (hidden layer)
+
+1
+
+9(0.25) = a5 © 0.5622
+1 ~
+
+0(0.52) = 7am © 0.6271
+
+Output Layer Computation
+Zo=(0.6)(0.5622)+(0.9)(0.6271)+0.5 =1.4017
+Apply Sigmoid at Output
+
+A2=0(Z2)=1/ (1+e-1.40171)=0.8025
 --- page 15 ---
 4. Add new layers (Dense/SoftMax) to suit the new classification task.
 5. Compile and train the model on the new dataset.
@@ -7137,6 +7415,25 @@ Steps Involved (4 Marks):
 2. Load pre-trained weights trained on ImageNet or similar dataset.
 3. Freeze base layers to retain generic features.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+For hidden neuron 2:
+Z12=(0.3)(0.5)+(0.5)(0.2)+(0.7)(0.1)+0.2=0.52
+
+Apply Sigmoid Activation (hidden layer)
+
+1
+
+9(0.25) = a5 © 0.5622
+1 ~
+
+0(0.52) = 7am © 0.6271
+
+Output Layer Computation
+Zo=(0.6)(0.5622)+(0.9)(0.6271)+0.5 =1.4017
+Apply Sigmoid at Output
+
+A2=0(Z2)=1/ (1+e-1.40171)=0.8025
 --- page 15 ---
 4. Add new layers (Dense/SoftMax) to suit the new classification task.
 5. Compile and train the model on the new dataset.
@@ -7767,6 +8064,25 @@ Steps Involved (4 Marks):
 2. Load pre-trained weights trained on ImageNet or similar dataset.
 3. Freeze base layers to retain generic features.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+For hidden neuron 2:
+Z12=(0.3)(0.5)+(0.5)(0.2)+(0.7)(0.1)+0.2=0.52
+
+Apply Sigmoid Activation (hidden layer)
+
+1
+
+9(0.25) = a5 © 0.5622
+1 ~
+
+0(0.52) = 7am © 0.6271
+
+Output Layer Computation
+Zo=(0.6)(0.5622)+(0.9)(0.6271)+0.5 =1.4017
+Apply Sigmoid at Output
+
+A2=0(Z2)=1/ (1+e-1.40171)=0.8025
 --- page 15 ---
 4. Add new layers (Dense/SoftMax) to suit the new classification task.
 5. Compile and train the model on the new dataset.

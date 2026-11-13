@@ -36,6 +36,22 @@ SO-1;   (a)   [05]
 BL-3
 2.5 Marks for each step
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Force, F = 1600 N
+Diameter of piston, d = 8 cm = 0.08 m
+
+Step 1: Find area of piston
+ad? _ (0.08)?
+
+A- me)
+4 4
+4 — 31416 “ 0.0064 9 yos0265 m?
+Step 2: Find pressure
+= F = __1600 _ = 318, 406.8 Pa
+A 0.0050265
+
+P = 3.18 x 10° Pa = 318 kPa
 --- page 2 ---
 CO-2;
 SO-1;   (b)   [05]
@@ -50,6 +66,29 @@ CO-3 ;
 SO-6;   (d)   [05]
 BL-3
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+From the engine efficiency, 7 = 0.50: ia = 1—0.50 = 0.50.
+The refrigerator COP p is defined as: COP z = non:
+
+Dividing the COP p formula by Ty: COP zp = oo.
+
+Substituting the value: COP p = aE
+
+The COP of the Carnot refrigerator is 1.0.
+
+A. Total Enthalpy (#7)
+H — m-h — 2kg - 2515.065 kJ/kg
+
+H — 5030.13 kJ
+
+B. Total Volume (V)
+V =m-v = 2kg- 0.08957 m*/kg
+V = 0.17914 m*
+C. Total Entropy (S)
+S—m-s— 2kg-5.77635 kJ/(kg - K)
+
+S — 11.5527kJ/K
 --- page 3 ---
 Q2
 CO-1;
@@ -70,6 +109,72 @@ CO-1;
 SO-1;
 BL-2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+"FE line are at th
+
+¢ same level)
+¢ _ } Given data:
+
+™ = 12 ka/min, = 2 = 0.2 ka/sec.
+G = 12 m/s
+Py =
+
+1 bat = 110% N/m?
+vi = 05 m’/kg
+CG, = 99 m/s
+
+8 bar = 8x 105 N/m?
+2 = 0.14 m'/kg
+
+150 ki/kg = 150 x 19" Ifkg
+2 = 2,3 Zi-Z=0
+
+Procedure:
+
+heat is lost to Surroundings,
+
+Increase in enthalpy,
+
+itis taken as negative
+
+3
+Qt2 = -700 Wi/min.— xt =~ 11,66 x 10" J/sec,
+plying SFEE to compressor,
+
+3 G
+mx h+>+92: +Qi2 = mx}h+> +9Z2|+Wi2
+2 30)
+02x[ 22.0] -11.66 x 10’ = 02x| 15010 + | Wi
+
+{Work W,.2 is taken as negative, since work is c
+-W,.
+72)-11.66x 10° = 0.2 [154050] -Wy.2
+| erat! Wy. = 42455.6 J/sec = 42.455 kJ/sec. or KW
+
+=
+_ For, the polytropic process 3-1, =
+Pas” = piv? 5
+
+By 2
+lo loge
+Sp; 802 23026
+
+n= = = —
+Me, 2. ~ 1.6094 = 2-433
+| 2 . 4
+log, Vy logeas
+w., = via eM _ 02x 10°x1~2x10°x 0.2
+#1 rein 1433-1 = — 451894) = - 461.894
+
+“Network done
+Were = Wiz + W2-3 + Wh:
+= 643.774 +0 + (- 461,894)
+For a cyclic process,
+
+§ 8Q = fiw
+«. Heat transfer during the complete cycle
+= 181.88 kK)
 --- page 4 ---
 Assuming density of Hg, p,,, = 13.596 x 1000 kg/m?
 Pressure of 760 mm of Hg will be
@@ -196,6 +301,63 @@ SO-1;   From steam tables for dry saturated steam at 120 bar, we have:
 BL-3   ts = 324.65°C   ; hf = 1491.77 kJ/kg;   hg = 2689.2 kJ/kg;
 hfg= 1197.4 kJ/kg; vg = 0.0143 m3/kg
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Given: Ty = 260°C = 533.15 K, To = —17.8°C = 255.35 K.
+Maximum efficiency (Carnot limit): max = 1 — Te
+
+= 0.522 = 52.2%.
+
+Assume heat absorbed from source Qy7 = 100 kJ for calculation.
+Net work output: Wret = MmaxQuy — 0.522 x 100 = 52.2 kJ.
+Heat rejected to sink: Qe = Quy — Whet = 100 — 52.2 = 47.8kJ.
+
+Justification: Wet represents the absolute maximum since Carnot cycle is reversible with no
+
+irreversibilities.
+
+No real engine can exceed this work output between these temperatures.
+
+Practical issue: Ti < 0°C' makes heat rejection difficult; water may freeze.
+
+Cooling medium must be antifreeze, brine, or refrigerant to maintain heat transfer.
+
+Conclusion: Thermodynamic limit = 52.2%; net work = 52.2 kJ; heat rejected = 47.8 kJ; practical
+
+constraints reduce achievable performance.
+
+* Given: Mass (m) = 40 kg, C,(water) = 4.187 kJ/(kg - K).
+* Initial Temperature, T — 75°C — 348.15 K.
+
+* Surroundings/Sink Temperature, Ty = 5°C = 278.15 K.
+
+. Calculate the Entropy Change (AS)
+
+The entropy change of the water cooling from T to Ty is:
+
+T, ‘ina qT
+AS = Cpa ( Seal ) = mC, In (?
+initial T
+
+iis) kJ
+
+348.15 / K
+
+kJ
+AS = 167.48 - In(0.7988) =
+
+AS = 40-4.187-In (
+
+kJ
+AS = —37.89—
+Ss 37 895
+
+We use the magnitude of the entropy change, |AS| — 37.89 kJ/K.
+- Calculate the Unavailable Energy (U E)
+
+UE =T-|AS|
+UE = 278.15 K - 37.89
+UE = 10537.4kJ
 --- page 7 ---
 First it is necessary to find whether the steam is wet, dry saturated or
 superheated.Since the actual specific volume of steam (0.01721 m3/kg) is more
@@ -284,6 +446,59 @@ BL-2   system changes from one state to another.
 (1.5 Marks)Thermodynamic cycle: It is a series of processes that return the system
 to its initial state, completing one full cycle of operation.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+, Pump Work and Feedwater Enthalpy (States 3 to 4)
+
+Calculate Pump Work (Wp):
+
+Wp = hg _ hg = u3(Pi _ P»)
+3 P
+Wp — 0.001005— - (40 — 0.05) bar - (1005)
+kg bar
+
+Wp = 4.0 kJ/kg
+Enthalpy of Feedwater (/):
+hy — hg + Wp
+
+hg = 137.82 kJ/kg + 4.0 kJ/kg
+hg — 141.82 kJ/kg
+
+Calculate Dryness Fraction (x2):
+
+_ _ $2 — Sf2
+$82 = Sfo + @2°S8fg9 => Lg = ———
+
+S$ fg2
+6.0701 — 0.4764 _ 5.5937"
+
+7.9179 7.9179
+x2 ~ 0.7065
+
+m2
+
+Calculate Enthalpy at Turbine Exit (2):
+
+hy = hyo +22: hygo
+he = 137.82 kJ/kg + 0.7065 - 2422.88 kJ/kg
+hg ~ 1850.5 kJ/kg
+
+Calculate Net Work Transfer (W,,,;):
+
+rst, find the Turbine Work (Wy):
+
+$W_T = h_1-h_2 = 2800.7 \text{ kJ/kg} - 1850.5 \text{ kJ/kg} = 950.2 \text{ kJ/kg}$$Now, find the
+et Work:
+
+Wret = Wr — Wp
+Wret = 950.2 kJ/kg — 4.0 kJ/kg
+Wret — 946.2 kJ/kg
+
+Calculate Heat Supplied (Qs):
+Qs =h, — ha
+
+Qs = 2800.7 kJ/kg — 141.82 kJ/kg
+Qs = 2658.88 kJ/kg
 --- page 10 ---
 Definition of an Open System (1.5 Mark)
 An open system, also known as a Control Volume (CV), is defined by its

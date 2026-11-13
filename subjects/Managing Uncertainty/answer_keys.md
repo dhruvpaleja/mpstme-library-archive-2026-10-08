@@ -36,6 +36,21 @@ Important Note for all questions: All numerical should be solved in detailed ste
 Q.1 a
 5 marks
 1
+
+[Text in pictures on this page, read by OCR]
+35
+
+mo 25
+= 20
+
+15
+
+= 10
+
+HISTOGRAM AND FREQUENCY POLYGON
+
+145195 245 295 345 395 445 495 545 595 64-5 695
+WEEKLY WAGES
 --- page 2 ---
 Q.1.b
 Comparison of binomial and Poisson distribution with 5 valid points. 1 mark for 1 point
@@ -446,6 +461,21 @@ CO-3 ;
 BL-3   [5]
 SO-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+HISTOGRAM AND FREQUENCY POLYGON
+
+20 Nn << Histogram
+I5 fF
+VAN Frequency
+Ke Polygon
+10
+YY
+: \
+s|// \
+
+oO 5 10 61506 6200 28 80S ADS
+CLASSES
 --- page 2 ---
 b Basis Geometric Distribution Exponential Distribution ¢
 
@@ -507,6 +537,52 @@ CO-3,4 ;
 BL-4   [2]
 SO-2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+(ii) Probability of a Multiple of 3 or 5
+
+Let C’ be the event that the number is a multiple of 3.
+Let D be the event that the number is a multiple of 5.
+
+The events C’ and D are non-mutually exclusive because some numbers are multiples of both
+3 and 5 (i.e., multiples of 15).
+
+1. Identify Outcomes
+* Multiples of 3 (C): {3, 6, 9, 12, 15, 18, 21, 24, 27, 30}.
+
+n(C) =10 => P(C)=%
+
+* Multiples of 5 (D): {5, 10, 15, 20, 25, 30}.
+
+n(D) =6 —> P(D) = =
+
+* Intersection (C ™ D): Multiples of lem(3,5) = 15. {15, 30}.
+
+2
+
+n(CnD)=2 = P(END)=5
+
+2. Apply the Addition Rule
+
+Since C and D are non-mutually exclusive, P(C or D) = P(C) + P(D) — P(C OD):
+
+P(CUD)=n+E-=
+pcun) =~ =5
+
+P(CUD)= =
+
+2) Compute mean (grouped)
+z— LAX
+oN
+
+Calculate > f X:
+
+SY FX = 14.5(35) + 15.5(40) + 16.5(48) + 17.5(100) + 18.5(125) + 19.5(87) + 20.5(43) + 21.5(22) = 9003.0
+
+z= 9003.0 _ 18.066
+500
+
+(Mean ~ 18.066)
 --- page 4 ---
 [2]
 [2]
@@ -519,6 +595,61 @@ BL-4
 explanation of its components and applications.
 SO-2
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+3) Compute standard deviation (grouped, population formula)
+
+Use:
+_ (Ee
+Calculate > f X?:
+
+SO FX? = 14.5°(35) + 15.5°(40) + --- + 21.5°(22) = (calculated) = (valueusedbelow)
+
+Numerically,
+
+— a ~ 3.149644
+
+DfX?
+N
+= V3.149644 ~ 1.7747
+
+(Standard deviation = 1.7747)
+
+4) Estimate Mode (grouped) — using grouped mode formula
+
+Modal class: the class with highest frequency is the class with mid-value 18.5 (frequency 125).
+Assuming class width h = 1 (mid-values differ by 1), the modal class is 18-19 with lower limit L = 18.0.
+
+Grouped mode formula:
+
+fi- fo
+Mode = L + ~~~ x h
+2fi — fo — fe
+Where:
+ef; = 125 (modal freq)
+© fo = 100 (previous class freq)
+© fo = 87 (next class freq)
+e L=180,h=1
+125 — 100 25 25
+Mode = 18.0 + 3425) — 100 — 87 x 1 = 18.0+ 250 — 187 18.0 + a 18.3968
+
+(Mode = 18.3968)
+
+5) Pearson‘s measure of skewness (mean-mode form)
+Pearson’s first measure (using mean & mode):
+
+z= — Mode
+
+oO
+
+Skp =
+
+Substitute values:
+
+Skp ~ 18.066 — 18.3968 ~ —0.1864
+1.7747
+
+Pearson's skewness = —0.186 (rounded)
 --- page 5 ---
 [2]
 
@@ -637,6 +768,37 @@ Determine: (i) The value of k. (ii) The marginal distributions of X and Y.
 (iii) Are X and Y independent? (iv) The conditional distribution of Y for
 X=3.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+(iii) The Value of Mode (Z)
+
+The Modal Class is 60 70 as it has the highest frequency (f,, = 24).
+
+The formula for the mode is:
+Sn = fi |
+Z=L+|——"——| xh
+[5 in —~fi-fe
+
+Where:
++ —L = 60 (Lower limit of the modal class)
+© fim = 24 (Frequency of the modal class)
+* fi = 20 (Frequency of the preceding class)
+* fz = 10 (Frequency of the succeeding class)
+* h=10 (Class size)
+Substituting the values:
+
+— 24-20
+
+= O+ [ae] x10
+
+z=60+/—*_] x10
+a 48 — 30
+
+4
+Z=00+ 7, x10
+Z= 00+ Ox = 60 + 2.22
+
+Z = 62.22
 --- page 9 ---
 Solution
 
@@ -889,6 +1051,40 @@ SO-2
 function that describes the probability distribution of a continuous
 random variable.
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+2. Calculate the Total Probability of Drawing Two White Balls (P(1’))
+
+Using the Law of Total Probability:
+
+P(W) — P(W|U,)P(U,) + P(W|U,)P(U:)
+ear (35) (3) * (&) (3)
+
+pay-3(Z-4)-3(2)
+
+1 3 3
+P(W)-=xs+-—-0.3
+()~35*5~ 10
+3. Apply Bayes's Theorem
+We find the posterior probability P(U1|W):
+
+P(W|U)) - PUL)
+
+P(U,|W) — PW)
+
+()-G)
+
+cy
+
+P(U,|W) —
+
+a_7_ 10
+PW) - B= sxe
+
+70 7
+P(U|W)- 5-5
+
+The probability that the two white balls were drawn from Urn U, is i or approximately 77.78%.
 --- page 16 ---
 [3]
 
@@ -1205,6 +1401,21 @@ CO-3 ;
 BL-3   [5]
 SO-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+HISTOGRAM AND FREQUENCY POLYGON
+
+20 Nn << Histogram
+I5 fF
+VAN Frequency
+Ke Polygon
+10
+YY
+: \
+s|// \
+
+oO 5 10 61506 6200 28 80S ADS
+CLASSES
 --- page 2 ---
 b Basis Geometric Distribution Exponential Distribution ¢
 
@@ -1266,6 +1477,52 @@ CO-3,4 ;
 BL-4   [2]
 SO-2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+(ii) Probability of a Multiple of 3 or 5
+
+Let C’ be the event that the number is a multiple of 3.
+Let D be the event that the number is a multiple of 5.
+
+The events C’ and D are non-mutually exclusive because some numbers are multiples of both
+3 and 5 (i.e., multiples of 15).
+
+1. Identify Outcomes
+* Multiples of 3 (C): {3, 6, 9, 12, 15, 18, 21, 24, 27, 30}.
+
+n(C) =10 => P(C)=%
+
+* Multiples of 5 (D): {5, 10, 15, 20, 25, 30}.
+
+n(D) =6 —> P(D) = =
+
+* Intersection (C ™ D): Multiples of lem(3,5) = 15. {15, 30}.
+
+2
+
+n(CnD)=2 = P(END)=5
+
+2. Apply the Addition Rule
+
+Since C and D are non-mutually exclusive, P(C or D) = P(C) + P(D) — P(C OD):
+
+P(CUD)=n+E-=
+pcun) =~ =5
+
+P(CUD)= =
+
+2) Compute mean (grouped)
+z— LAX
+oN
+
+Calculate > f X:
+
+SY FX = 14.5(35) + 15.5(40) + 16.5(48) + 17.5(100) + 18.5(125) + 19.5(87) + 20.5(43) + 21.5(22) = 9003.0
+
+z= 9003.0 _ 18.066
+500
+
+(Mean ~ 18.066)
 --- page 4 ---
 [2]
 [2]
@@ -1278,6 +1535,61 @@ BL-4
 explanation of its components and applications.
 SO-2
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+3) Compute standard deviation (grouped, population formula)
+
+Use:
+_ (Ee
+Calculate > f X?:
+
+SO FX? = 14.5°(35) + 15.5°(40) + --- + 21.5°(22) = (calculated) = (valueusedbelow)
+
+Numerically,
+
+— a ~ 3.149644
+
+DfX?
+N
+= V3.149644 ~ 1.7747
+
+(Standard deviation = 1.7747)
+
+4) Estimate Mode (grouped) — using grouped mode formula
+
+Modal class: the class with highest frequency is the class with mid-value 18.5 (frequency 125).
+Assuming class width h = 1 (mid-values differ by 1), the modal class is 18-19 with lower limit L = 18.0.
+
+Grouped mode formula:
+
+fi- fo
+Mode = L + ~~~ x h
+2fi — fo — fe
+Where:
+ef; = 125 (modal freq)
+© fo = 100 (previous class freq)
+© fo = 87 (next class freq)
+e L=180,h=1
+125 — 100 25 25
+Mode = 18.0 + 3425) — 100 — 87 x 1 = 18.0+ 250 — 187 18.0 + a 18.3968
+
+(Mode = 18.3968)
+
+5) Pearson‘s measure of skewness (mean-mode form)
+Pearson’s first measure (using mean & mode):
+
+z= — Mode
+
+oO
+
+Skp =
+
+Substitute values:
+
+Skp ~ 18.066 — 18.3968 ~ —0.1864
+1.7747
+
+Pearson's skewness = —0.186 (rounded)
 --- page 5 ---
 [2]
 
@@ -1396,6 +1708,37 @@ Determine: (i) The value of k. (ii) The marginal distributions of X and Y.
 (iii) Are X and Y independent? (iv) The conditional distribution of Y for
 X=3.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+(iii) The Value of Mode (Z)
+
+The Modal Class is 60 70 as it has the highest frequency (f,, = 24).
+
+The formula for the mode is:
+Sn = fi |
+Z=L+|——"——| xh
+[5 in —~fi-fe
+
+Where:
++ —L = 60 (Lower limit of the modal class)
+© fim = 24 (Frequency of the modal class)
+* fi = 20 (Frequency of the preceding class)
+* fz = 10 (Frequency of the succeeding class)
+* h=10 (Class size)
+Substituting the values:
+
+— 24-20
+
+= O+ [ae] x10
+
+z=60+/—*_] x10
+a 48 — 30
+
+4
+Z=00+ 7, x10
+Z= 00+ Ox = 60 + 2.22
+
+Z = 62.22
 --- page 9 ---
 Solution
 
@@ -1648,6 +1991,40 @@ SO-2
 function that describes the probability distribution of a continuous
 random variable.
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+2. Calculate the Total Probability of Drawing Two White Balls (P(1’))
+
+Using the Law of Total Probability:
+
+P(W) — P(W|U,)P(U,) + P(W|U,)P(U:)
+ear (35) (3) * (&) (3)
+
+pay-3(Z-4)-3(2)
+
+1 3 3
+P(W)-=xs+-—-0.3
+()~35*5~ 10
+3. Apply Bayes's Theorem
+We find the posterior probability P(U1|W):
+
+P(W|U)) - PUL)
+
+P(U,|W) — PW)
+
+()-G)
+
+cy
+
+P(U,|W) —
+
+a_7_ 10
+PW) - B= sxe
+
+70 7
+P(U|W)- 5-5
+
+The probability that the two white balls were drawn from Urn U, is i or approximately 77.78%.
 --- page 16 ---
 [3]
 
@@ -1968,6 +2345,39 @@ CO-1,5 ;
 BL-2
 SO-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+HISTOGRAM AND FREQUENCY POLYGON
+
+IN = Histogram
+ol» Wee
+it \
+
+20
+
+13 7
+
+oO 5 10 615) 6300 2580S AS
+CLASSES
+
+Basis Geometric Distribution Exponential Distribution
+
+Type of variable Discrete Continuous
+
+Definition It gives the probability that the first success occurs on It gives the probability that the time until the next event
+the zr" trial in a sequence of independent Bernoulli occurs is less than or equal to a certain value in a Poisson
+trials. process.
+
+Probability function P(X =x) = q* |p,where p = probability of success, f(z) =e *, x > 0, where 2 = rate parameter.
+
+q=1-p
+i" 1 1
+jean = i
+P x
+- 1
+Variance xy
+
+Memoryless property _Yes (discrete form of memoryless distribution) Yes (continuous form of memoryless distribution)
 --- page 2 ---
 (i) Probability of a Multiple of 5 or 7
 
@@ -2017,6 +2427,52 @@ CO-3,4 ;
 BL-4   [2]
 SO-2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+(ii) Probability of a Multiple of 3 or 5
+
+Let C’ be the event that the number is a multiple of 3.
+Let D be the event that the number is a multiple of 5.
+
+The events C’ and D are non-mutually exclusive because some numbers are multiples of both
+3 and 5 (i.e., multiples of 15).
+
+1. Identify Outcomes
+* Multiples of 3 (C): {3, 6, 9, 12, 15, 18, 21, 24, 27, 30}.
+
+n(C) =10 => P(C)=%
+
+* Multiples of 5 (D): {5, 10, 15, 20, 25, 30}.
+
+n(D) =6 —> P(D) = =
+
+* Intersection (C ™ D): Multiples of lem(3,5) = 15. {15, 30}.
+
+2
+
+n(CnD)=2 = P(END)=5
+
+2. Apply the Addition Rule
+
+Since C and D are non-mutually exclusive, P(C or D) = P(C) + P(D) — P(C OD):
+
+P(CUD)=n+E-=
+pcun) =~ =5
+
+P(CUD)= =
+
+2) Compute mean (grouped)
+z— LAX
+oN
+
+Calculate > f X:
+
+SY FX = 14.5(35) + 15.5(40) + 16.5(48) + 17.5(100) + 18.5(125) + 19.5(87) + 20.5(43) + 21.5(22) = 9003.0
+
+z= 9003.0 _ 18.066
+500
+
+(Mean ~ 18.066)
 --- page 4 ---
 [2]
 [2]
@@ -2029,6 +2485,61 @@ BL-4
 explanation of its components and applications.
 SO-2
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+3) Compute standard deviation (grouped, population formula)
+
+Use:
+_ (Ee
+Calculate > f X?:
+
+SO FX? = 14.5°(35) + 15.5°(40) + --- + 21.5°(22) = (calculated) = (valueusedbelow)
+
+Numerically,
+
+— a ~ 3.149644
+
+DfX?
+N
+= V3.149644 ~ 1.7747
+
+(Standard deviation = 1.7747)
+
+4) Estimate Mode (grouped) — using grouped mode formula
+
+Modal class: the class with highest frequency is the class with mid-value 18.5 (frequency 125).
+Assuming class width h = 1 (mid-values differ by 1), the modal class is 18-19 with lower limit L = 18.0.
+
+Grouped mode formula:
+
+fi- fo
+Mode = L + ~~~ x h
+2fi — fo — fe
+Where:
+ef; = 125 (modal freq)
+© fo = 100 (previous class freq)
+© fo = 87 (next class freq)
+e L=180,h=1
+125 — 100 25 25
+Mode = 18.0 + 3425) — 100 — 87 x 1 = 18.0+ 250 — 187 18.0 + a 18.3968
+
+(Mode = 18.3968)
+
+5) Pearson‘s measure of skewness (mean-mode form)
+Pearson’s first measure (using mean & mode):
+
+z= — Mode
+
+oO
+
+Skp =
+
+Substitute values:
+
+Skp ~ 18.066 — 18.3968 ~ —0.1864
+1.7747
+
+Pearson's skewness = —0.186 (rounded)
 --- page 5 ---
 [2]
 
@@ -2147,6 +2658,37 @@ Determine: (i) The value of k. (ii) The marginal distributions of X and Y.
 (iii) Are X and Y independent? (iv) The conditional distribution of Y for
 X=3.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+(iii) The Value of Mode (Z)
+
+The Modal Class is 60 70 as it has the highest frequency (f,, = 24).
+
+The formula for the mode is:
+Sn = fi |
+Z=L+|——"——| xh
+[5 in —~fi-fe
+
+Where:
++ —L = 60 (Lower limit of the modal class)
+© fim = 24 (Frequency of the modal class)
+* fi = 20 (Frequency of the preceding class)
+* fz = 10 (Frequency of the succeeding class)
+* h=10 (Class size)
+Substituting the values:
+
+— 24-20
+
+= O+ [ae] x10
+
+z=60+/—*_] x10
+a 48 — 30
+
+4
+Z=00+ 7, x10
+Z= 00+ Ox = 60 + 2.22
+
+Z = 62.22
 --- page 9 ---
 Solution
 
@@ -2399,6 +2941,40 @@ SO-2
 function that describes the probability distribution of a continuous
 random variable.
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+2. Calculate the Total Probability of Drawing Two White Balls (P(1’))
+
+Using the Law of Total Probability:
+
+P(W) — P(W|U,)P(U,) + P(W|U,)P(U:)
+ear (35) (3) * (&) (3)
+
+pay-3(Z-4)-3(2)
+
+1 3 3
+P(W)-=xs+-—-0.3
+()~35*5~ 10
+3. Apply Bayes's Theorem
+We find the posterior probability P(U1|W):
+
+P(W|U)) - PUL)
+
+P(U,|W) — PW)
+
+()-G)
+
+cy
+
+P(U,|W) —
+
+a_7_ 10
+PW) - B= sxe
+
+70 7
+P(U|W)- 5-5
+
+The probability that the two white balls were drawn from Urn U, is i or approximately 77.78%.
 --- page 16 ---
 [3]
 

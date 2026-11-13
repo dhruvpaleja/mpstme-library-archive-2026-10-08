@@ -1075,6 +1075,20 @@ The Indian IT services industry is expected to reach US$ 100 billion in
 revenues in 2012, with exports contributing to about US$ 69 billion
 [10]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+FINANCIAL SERVICES INFRASTRUCTURE SERVICE
+
+- Leasing —
+Ti tation a
+Insurance ‘tae
+Banking
+| PERSONAL SERVICES
+MANUFACTURING Be ithcore
+Services inside 2 staurants
+- Finance DISTRIBUTION Hotels
+
+SERVICES
 --- page 7 ---
 b)   The probability P(i) that a customer will choose store j, is given by the
 formula:

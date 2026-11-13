@@ -60,6 +60,17 @@ Borrowings from other Banks   330.00
 A. Classify the following items as Equity, Other Equity, Financial Assets, or Financial Liabilities   8
 in the Balance Sheet of Zee Ltd. as per Ind AS:
 Page 2 of 4
+
+[Text in pictures on this page, read by OCR]
+Additional Information...
+
+i. Balls for collection : Rs 36,20,000
+
+ii Acceptance and endorsements : Rs 28.24.000
+
+ii, Claims against the bank not acknowledged as debts - Rs 110.000
+
+iv. Depreciation charged on premises : Rs 2,20,000 and Furniture : Rs 156,000
 --- page 3 ---
 Item   Amount (Rs)
 Equity Share Capital (Issued and Paid-up)   7,00,000

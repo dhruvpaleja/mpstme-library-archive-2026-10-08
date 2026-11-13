@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_Mechatronics_7004/Microelectromechanical Systems/ANS_Microelectromechanical Systems(702MH0E019)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Dec 2025
 - Text: text (9 pages)
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -308,6 +309,48 @@ Practical implication (1 mark)
 choose negative resists for thick coatings and durable features (e.g.,
 microfluidics molds or high-aspect structures).
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+
+plate thickness tp = 2 um = 2 x 10° m
+
+gapd=1pm=1.0x10°m
+
+each cantilever: / = 400 wm = 4.00 x 10-4 m, w = 20 pm = 2.0 x 10° m, t, = 0.1 pm =
+1.0 x 107m
+
+prays: = 2330 kg/m", E = 150 GPa = 1.5 x 10" Pa, a= 1g = 9.81 m/s’.
+
+1. Plate mass
+Vp = Alp = 1.0 x 10° x 2.0 x 10° =2.0 x 10“ mé
+Mp = pVp = 2330 x 2.0 x 10°! = 4.66 x 10° kg
+2. One beam mass (4 beams)
+Total mass supported = m = m, + 4m, = 4.66 x 10-4 + 4(1.864 x 10-1) ~ 5.406 x 10-4 kg.
+3. Equivalent static load under 1g
+Frotal = ma * 5.406 x 10°! x 9.81 ~ 5.303 x 10°!" N
+
+Load per beam P = Fiota)/4 = 1.326 x 10-1 N.
+
+4. Cantilever tip deflection under tip load P:
+wt} — 2.0 x 10-5 (1.0 x 10-7)"
+
+Moment of inertia [ = n,n = 1.667 x 10° m'.
+pps
+Deflection 6 = I :
+3EI
+
+1.326 x 10-19 (4.00 x 104)
+
+= _ Sma “ .
+= 3x5 x 108 x 1.667 x19 2 ~ 18% 10° m= 11.3 ym
+
+5. Relative change of capacitance (small-deflection approx):
+For a parallel-plate C = eo4. If plate moves by 5 towards substrate the new gap d’ = d — 6 (ford <
+d, AC/C = 6/d).
+
+AC 6 _ 113 x 10%
+
+c a> 10x10 ~ 11.3 (ive. 1130% increase).
 --- page 7 ---
 Main applications (4 marks)
 •   Patient monitoring: vital signs (ECG/heart rate, SpO₂, respiration,

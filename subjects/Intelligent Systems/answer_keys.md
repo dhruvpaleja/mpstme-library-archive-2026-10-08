@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE) - 7012/INTELLIGENT SYSTEMS/ANS_Final-Exam_INTELLIGENT SYSTEMS(702AI0C034)_Semester II_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
 - Text: text (15 pages)
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -226,6 +227,21 @@ Initial state constraints:
 Examine the domain for each variable at every step to evaluate
 possible   solutions   for   {   S,O,M,E,N,T,P,I}
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Cryptarithmetic Problem
+
+Character Code
+
+c3 c2 c1 § Al,
++ T | ME M
+E
++
+1 \
+IF T=8 P
+C3+S+T=P+10 N
+
+1+1+8=P+10
 --- page 8 ---
 CO-1,3;   b)   i) Discuss various applications of Artificial Intelligence in the healthcare   [5]
 sector with suitable examples.
@@ -249,6 +265,51 @@ immediate neighbor state and not beyond that.
 • A node of a hill climbing algorithm has two components which are
 state and value.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Cryptarithmetic Problem
+
+Character Code
+
+1 c3 c2 c1 s 1
+BT). ff Ee
++ TI M oc Mi
+PELE) pa =D
+a 0| 4| j 5
+~   C1+M+M=N P oO
+2 N<9 N
+
+Cryptarithmetic Problem
+
+1 c3
+
+BOO ie
+
+c2
+
+cl
+
+3le/s]@| s-5
+
+10468
+
+ie) M E
+1 M E
+E N v
+
+Character Code
+
+Ss 1
+
+o 69
+M 3
+
+E 4
+Ts
+
+| 5
+
+P |0
 --- page 9 ---
 Q4   a)   Propositional Logic Representation (1 mark for each statement.. 5   [10]
 marks)
@@ -280,6 +341,23 @@ from given premises. They form the basis of reasoning in propositional
 logic.
 …..1 mark
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+From:
+« Q- Rand R - S,weget
+Q — S (by Hypothetical Syllogism)
+
+But it is given:
+© QA7S
+This contradicts Q — S.
+
+Now consider:
+
+« =P — —=Q, whose contrapositive is Q + P
+
+Since Q is true,
+
+= P must be true
 --- page 11 ---
 …. 2 marks for rule and 2
 marks for example
@@ -365,6 +443,29 @@ world" and based on the model they perform actions.
 • How the agent's action affects the world.
 34
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+f OY
+
+(— ae 7 Precepts
+$ -
+
+Sensors
+
+State Sal as real
+
+How the world evolves |» | What the world s.
+is like now :
+
+— i
+What my actions do 5
+should do now
+
+| Action
+
+Actuators’
+
+\ Agent SD)
 --- page 14 ---
 CO-3;   b)   Given a 3x3 board with 8 tiles (every tile has one number from 1 to 8) and   [10]
 SO-1;
@@ -427,6 +528,7 @@ Cat(Spot)
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_AIML_7053/INTELLIGENT SYSTEMS/ANS_INTELLIGENT SYSTEMS(702AI0C034)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
 - Text: text (15 pages)
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -644,6 +746,21 @@ Initial state constraints:
 Examine the domain for each variable at every step to evaluate
 possible   solutions   for   {   S,O,M,E,N,T,P,I}
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Cryptarithmetic Problem
+
+Character Code
+
+c3 c2 c1 § Al,
++ T | ME M
+E
++
+1 \
+IF T=8 P
+C3+S+T=P+10 N
+
+1+1+8=P+10
 --- page 8 ---
 CO-1,3;   b)   i) Discuss various applications of Artificial Intelligence in the healthcare   [5]
 sector with suitable examples.
@@ -667,6 +784,51 @@ immediate neighbor state and not beyond that.
 • A node of a hill climbing algorithm has two components which are
 state and value.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Cryptarithmetic Problem
+
+Character Code
+
+1 c3 c2 c1 s 1
+BT). ff Ee
++ TI M oc Mi
+PELE) pa =D
+a 0| 4| j 5
+~   C1+M+M=N P oO
+2 N<9 N
+
+Cryptarithmetic Problem
+
+1 c3
+
+BOO ie
+
+c2
+
+cl
+
+3le/s]@| s-5
+
+10468
+
+ie) M E
+1 M E
+E N v
+
+Character Code
+
+Ss 1
+
+o 69
+M 3
+
+E 4
+Ts
+
+| 5
+
+P |0
 --- page 9 ---
 Q4   a)   Propositional Logic Representation (1 mark for each statement.. 5   [10]
 marks)
@@ -698,6 +860,23 @@ from given premises. They form the basis of reasoning in propositional
 logic.
 …..1 mark
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+From:
+« Q- Rand R - S,weget
+Q — S (by Hypothetical Syllogism)
+
+But it is given:
+© QA7S
+This contradicts Q — S.
+
+Now consider:
+
+« =P — —=Q, whose contrapositive is Q + P
+
+Since Q is true,
+
+= P must be true
 --- page 11 ---
 …. 2 marks for rule and 2
 marks for example
@@ -783,6 +962,29 @@ world" and based on the model they perform actions.
 • How the agent's action affects the world.
 34
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+f OY
+
+(— ae 7 Precepts
+$ -
+
+Sensors
+
+State Sal as real
+
+How the world evolves |» | What the world s.
+is like now :
+
+— i
+What my actions do 5
+should do now
+
+| Action
+
+Actuators’
+
+\ Agent SD)
 --- page 14 ---
 CO-3;   b)   Given a 3x3 board with 8 tiles (every tile has one number from 1 to 8) and   [10]
 SO-1;
@@ -845,6 +1047,7 @@ Cat(Spot)
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/MBATech_AI_7051/INTELLIGENT SYSTEMS/ANS_INTELLIGENT SYSTEMS(702AI0C034)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
 - Text: text (15 pages)
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1062,6 +1265,21 @@ Initial state constraints:
 Examine the domain for each variable at every step to evaluate
 possible   solutions   for   {   S,O,M,E,N,T,P,I}
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Cryptarithmetic Problem
+
+Character Code
+
+c3 c2 c1 § Al,
++ T | ME M
+E
++
+1 \
+IF T=8 P
+C3+S+T=P+10 N
+
+1+1+8=P+10
 --- page 8 ---
 CO-1,3;   b)   i) Discuss various applications of Artificial Intelligence in the healthcare   [5]
 sector with suitable examples.
@@ -1085,6 +1303,51 @@ immediate neighbor state and not beyond that.
 • A node of a hill climbing algorithm has two components which are
 state and value.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Cryptarithmetic Problem
+
+Character Code
+
+1 c3 c2 c1 s 1
+BT). ff Ee
++ TI M oc Mi
+PELE) pa =D
+a 0| 4| j 5
+~   C1+M+M=N P oO
+2 N<9 N
+
+Cryptarithmetic Problem
+
+1 c3
+
+BOO ie
+
+c2
+
+cl
+
+3le/s]@| s-5
+
+10468
+
+ie) M E
+1 M E
+E N v
+
+Character Code
+
+Ss 1
+
+o 69
+M 3
+
+E 4
+Ts
+
+| 5
+
+P |0
 --- page 9 ---
 Q4   a)   Propositional Logic Representation (1 mark for each statement.. 5   [10]
 marks)
@@ -1116,6 +1379,23 @@ from given premises. They form the basis of reasoning in propositional
 logic.
 …..1 mark
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+From:
+« Q- Rand R - S,weget
+Q — S (by Hypothetical Syllogism)
+
+But it is given:
+© QA7S
+This contradicts Q — S.
+
+Now consider:
+
+« =P — —=Q, whose contrapositive is Q + P
+
+Since Q is true,
+
+= P must be true
 --- page 11 ---
 …. 2 marks for rule and 2
 marks for example
@@ -1201,6 +1481,29 @@ world" and based on the model they perform actions.
 • How the agent's action affects the world.
 34
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+f OY
+
+(— ae 7 Precepts
+$ -
+
+Sensors
+
+State Sal as real
+
+How the world evolves |» | What the world s.
+is like now :
+
+— i
+What my actions do 5
+should do now
+
+| Action
+
+Actuators’
+
+\ Agent SD)
 --- page 14 ---
 CO-3;   b)   Given a 3x3 board with 8 tiles (every tile has one number from 1 to 8) and   [10]
 SO-1;
@@ -1369,6 +1672,58 @@ Inability to Handle Uncertainty (1 Mark)
 Propositional logic cannot represent uncertain or probabilistic
 information.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+4-Queen Problem using Backtracking (Step-by-Step)
+
+Q Queen Placed (Safe) X_ Position Tried and Rejected (Not Safe) — Empty Position
+1. Place Q in row 1 2. Try row 2 3. Try row 3
+
+column I col 1 -+ Not safe (same column) col 1 + Not safe (column)
+Try col 2 Not safe (diagonal) col 2 + Not safe (diagonal)
+Try col 3+ Safe col 3 — Not safe (cotomn),
+col 4 -+ Not safe (di )
+1203 4 1203 4 ‘nie Yan on
+ifa[-[-]- ifel-|[-]- ife]-|-|-
+
+2{/-|-|-]- 2[x[x]e@|- 2[x]x]/aql- ce
+3/-|-|-|- Se SBEE 3] x | x | x | x LE from (2,3) |
+4/-|-|-[- af-[-[-]- af-|-|]-|- :
+J
+*
+
+4. Backtrack to row 2 5. Try row 3
+
+‘Try next column col 1 + Not safe
+
+col 4 — Safe col 2 + Safe
+
+1203 4 1203 4 A
+ifel-]-|[- fej -[-|-
+a[x]x][x]fe 2[|x|[x|[x]e
+a{-|-]-|]- 3|x]Qq|-|-
+«|-]-]-|- a{-|-[-|-
+
+7. Backtrack to row 3 8. Try row 4
+
+Try next column col 1 — Not safe
+
+col 3 + Safe col 2 — Not safe
+
+col 3 + Not safe
+tity rae
+1 -|-T-
+= ife][-[-|[- oe
+a[x|[x]xfe sitions of Queens:
+— 71x1|x|x/a (1,1) (2,4) (3,3) (4,4)
+
+Continue Search for Next Solution 1 | — | Q | — | — Solution Found — 2 Summary
+
+—- 2/-|-|-Te 1 Total Solutions for 4-Queen = 2
+——-— ee ‘+ Bockoracking mies positions,
+ja (1,2) 24) (3,1) (4,3) pavers
+
+bbocksracks to try alternatives.
 --- page 4 ---
 Example: It cannot express statements like “There is a 70% chance of
 rain”.
@@ -1518,6 +1873,45 @@ BL- 2
 [5]
 I mark each point
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+From:
+¢ Q- RandR > S,we get
+Q = S (by transitivity / hypothetical syllogism)
+
+But it is given that:
+¢ QA 4S (exam began but students did not attempt)
+
+This contradicts Q > S.
+Now consider:
+
+¢ AP + 7Q is logically equivalent to Q + P
+
+Since Q is true, from Q — P, we get:
+
+e Pistrue
+
+Sr.No Propositional logic Predicate logic
+
+1 Propositional logic is the logic that deals with a Predicate logic is an expression consisting of
+collection of declarative statements which have variables with a specified domain. It consists of
+
+a truth value, true or false. objects, relations and functions between the
+objects.
+2 It is the basic and most widely used logic. Also It is an extension of propositional logic covering
+known as Boolean logic. predicates and quantification.
+
+3 A proposition has a specific truth value, either A predicate’s truth value depends on the variables’
+true or false. value.
+
+4 Propositions are combined with Logical Predicate Logic adds by introducing quantifiers to
+Operators or Logical Connectives like the existing proposition.
+Negation(-), Disjunction(v), Conjunction(A),
+Exclusive-OR(®),Implication(=),BiConditional
+or Double Implication(=).
+
+5 It cannot deal with sets of entities. It can deal with set of entities with the help of
+quantifiers.
 --- page 9 ---
 ii) Explain any two inference rules used in propositional logic.
 For each rule:
@@ -1657,6 +2051,30 @@ Goal Based Agent   (5 marks)
 • The knowledge of the current state environment is not always
 sufficient to decide for an agent to
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+(— >
+
+Sensors +——}
+‘
+low the world evoh ‘What the world
+eS a
+[What my actions do
+
+‘Whatit will be
+like if I do action A
+WhatactionI
+Goals *|_ should do now
+
+Actuators
+
+\ Agent wy
+
+Precepts
+
+Action
+
+LO)
 --- page 13 ---
 what to do.
 • The agent needs to know its goal which describes desirable
@@ -1730,6 +2148,18 @@ change needed   ….. 1mark
 … 2
 4. Drop Universal Quantifiers
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+. All people who are graduating are happy.
+Va (Graduating(x) — Happy(z))
+
+. All happy people smile.
+
+Va (Happy(x) + Smile(x))
+
+. Someone is graduating.
+
+dz Graduating(xr)
 --- page 16 ---
 1. aGraduating(x) V Happy(x)
 2. ~Happy(z) V Smile(z)
@@ -1859,6 +2289,58 @@ Inability to Handle Uncertainty (1 Mark)
 Propositional logic cannot represent uncertain or probabilistic
 information.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+4-Queen Problem using Backtracking (Step-by-Step)
+
+Q Queen Placed (Safe) X_ Position Tried and Rejected (Not Safe) — Empty Position
+1. Place Q in row 1 2. Try row 2 3. Try row 3
+
+column I col 1 -+ Not safe (same column) col 1 + Not safe (column)
+Try col 2 Not safe (diagonal) col 2 + Not safe (diagonal)
+Try col 3+ Safe col 3 — Not safe (cotomn),
+col 4 -+ Not safe (di )
+1203 4 1203 4 ‘nie Yan on
+ifa[-[-]- ifel-|[-]- ife]-|-|-
+
+2{/-|-|-]- 2[x[x]e@|- 2[x]x]/aql- ce
+3/-|-|-|- Se SBEE 3] x | x | x | x LE from (2,3) |
+4/-|-|-[- af-[-[-]- af-|-|]-|- :
+J
+*
+
+4. Backtrack to row 2 5. Try row 3
+
+‘Try next column col 1 + Not safe
+
+col 4 — Safe col 2 + Safe
+
+1203 4 1203 4 A
+ifel-]-|[- fej -[-|-
+a[x]x][x]fe 2[|x|[x|[x]e
+a{-|-]-|]- 3|x]Qq|-|-
+«|-]-]-|- a{-|-[-|-
+
+7. Backtrack to row 3 8. Try row 4
+
+Try next column col 1 — Not safe
+
+col 3 + Safe col 2 — Not safe
+
+col 3 + Not safe
+tity rae
+1 -|-T-
+= ife][-[-|[- oe
+a[x|[x]xfe sitions of Queens:
+— 71x1|x|x/a (1,1) (2,4) (3,3) (4,4)
+
+Continue Search for Next Solution 1 | — | Q | — | — Solution Found — 2 Summary
+
+—- 2/-|-|-Te 1 Total Solutions for 4-Queen = 2
+——-— ee ‘+ Bockoracking mies positions,
+ja (1,2) 24) (3,1) (4,3) pavers
+
+bbocksracks to try alternatives.
 --- page 4 ---
 Example: It cannot express statements like “There is a 70% chance of
 rain”.
@@ -2008,6 +2490,45 @@ BL- 2
 [5]
 I mark each point
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+From:
+¢ Q- RandR > S,we get
+Q = S (by transitivity / hypothetical syllogism)
+
+But it is given that:
+¢ QA 4S (exam began but students did not attempt)
+
+This contradicts Q > S.
+Now consider:
+
+¢ AP + 7Q is logically equivalent to Q + P
+
+Since Q is true, from Q — P, we get:
+
+e Pistrue
+
+Sr.No Propositional logic Predicate logic
+
+1 Propositional logic is the logic that deals with a Predicate logic is an expression consisting of
+collection of declarative statements which have variables with a specified domain. It consists of
+
+a truth value, true or false. objects, relations and functions between the
+objects.
+2 It is the basic and most widely used logic. Also It is an extension of propositional logic covering
+known as Boolean logic. predicates and quantification.
+
+3 A proposition has a specific truth value, either A predicate’s truth value depends on the variables’
+true or false. value.
+
+4 Propositions are combined with Logical Predicate Logic adds by introducing quantifiers to
+Operators or Logical Connectives like the existing proposition.
+Negation(-), Disjunction(v), Conjunction(A),
+Exclusive-OR(®),Implication(=),BiConditional
+or Double Implication(=).
+
+5 It cannot deal with sets of entities. It can deal with set of entities with the help of
+quantifiers.
 --- page 9 ---
 ii) Explain any two inference rules used in propositional logic.
 For each rule:
@@ -2147,6 +2668,30 @@ Goal Based Agent   (5 marks)
 • The knowledge of the current state environment is not always
 sufficient to decide for an agent to
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+(— >
+
+Sensors +——}
+‘
+low the world evoh ‘What the world
+eS a
+[What my actions do
+
+‘Whatit will be
+like if I do action A
+WhatactionI
+Goals *|_ should do now
+
+Actuators
+
+\ Agent wy
+
+Precepts
+
+Action
+
+LO)
 --- page 13 ---
 what to do.
 • The agent needs to know its goal which describes desirable
@@ -2220,6 +2765,18 @@ change needed   ….. 1mark
 … 2
 4. Drop Universal Quantifiers
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+. All people who are graduating are happy.
+Va (Graduating(x) — Happy(z))
+
+. All happy people smile.
+
+Va (Happy(x) + Smile(x))
+
+. Someone is graduating.
+
+dz Graduating(xr)
 --- page 16 ---
 1. aGraduating(x) V Happy(x)
 2. ~Happy(z) V Smile(z)

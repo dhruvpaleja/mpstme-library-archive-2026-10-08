@@ -100,17 +100,6 @@ components necessarily required to be provided in this project.
 ********** 2 **********
 ````
 
-## 2025-26 · Final-Exam · Sem 5 · paper eb3e1aef9f72
-
-- Departments: Civil
-- Programmes: BTech Civil 7005
-- Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_Civil_7005/Smart Cities/QP_Smart Cities(702CI0I008)_2025-2026.docx`
-- Text: docx (1 page)
-
-````text
-
-````
-
 ## 2025-26 · Final-Exam · Sem 6 · paper 3dd420b85cb4
 
 - Departments: Civil
@@ -1909,6 +1898,15 @@ RRR RRR DR A RK
 
 aN
 ````
+
+## 2025-26 · Final-Exam · Sem 5 · Not a paper · paper eb3e1aef9f72
+
+- Departments: Civil
+- Programmes: BTech Civil 7005
+- Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_Civil_7005/Smart Cities/QP_Smart Cities(702CI0I008)_2025-2026.docx`
+- Text: mixed (145 pages), mean OCR confidence 84.5
+- 149 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Not shown: not the question paper: 145 screenshots of the portal's answer-sheet evaluation screen (students' answer books), filed under the paper's name; the Smart Cities 2025-26 paper itself is listed separately. Its OCR text is kept in `question_bank/extracted_text/`.
 
 ## 2025-26 · Re-Exam · Sem 5 · paper 6cce9cc40957
 

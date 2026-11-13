@@ -2,6 +2,771 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 5 · Answer key · paper ccbb2e9c0dd7
+
+- Departments: Computer Engineering, Cyber Security, Data Science, Information Technology
+- Programmes: BTech Computer 7002, BTech CSE DS 7057, BTech CyberSecurity 7010, MBATech Computer 7047, MBATech IT 7041
+- Source: `02_Question_Papers/2024/Sem_05/Final-Exam/BTech_Computer_7002/Software Engineering/ANS_Software Engineering(702IT0C016)_2024-2025.pdf` (+5 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Dec 2025
+- Text: mixed (17 pages), mean OCR confidence 84.0
+
+````text
+Note: The provided synoptic answer attempts to cover content from standard textbooks and
+reference materials that closely align with the context of the question.
+
+[Text in pictures on this page, read by OCR]
+SYNOPTICS
+
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+
+Programme: B. Tech (COMP)/B. Tech (CS)/B. Tech (CSBS)/B. Tech (CSE - CS)/B. TECH
+(CSE - DS)/B. Tech Intg. (CE)/B. Tech Intg. (IT)/B. Tech (IT)/MBA Tech (Comp)/MBA Tech
+dT)
+Year: III / V/Semester IX/Semester V(Exam Year: 2025-2026)
+Subject: Software Engineering
+Date: 09 Dec 2025 Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+
+Instructions:
+
+1. This question paper contains 15 pages.
+
+2. Answer to each new question to be started on a fresh page.
+
+3. Figure in right hand side indicates full marks
+
+4. Question No. 1 is compulsory
+
+5. Out of remaining questions, attempt any 4 Questions
+
+6. In all 5 questions to be attempted.
+
+7. All questions carry equal marks.
+
+8. Assume Suitable data if necessary.
+--- page 2 ---
+Q1
+[20]
+a   Explain challenges in maintaining Legacy software.
+Maintaining legacy software poses several significant challenges:
+Outdated Technology: Old programming languages, tools, and platforms
+make upgrades and integration with modern systems difficult.
+Lack of Documentation: Incomplete or missing documentation hampers
+[5 M]
+understanding of system logic and dependencies.
+CO-1;   1
+Scarcity of Skilled Personnel: Few developers are familiar with obsolete
+BL-L   marks
+technologies, increasing maintenance cost and effort.
+each
+High Technical Debt: Frequent patches and quick fixes over time make the
+codebase complex and error-prone.
+Integration and Security Issues: Legacy systems often struggle to interface
+with modern applications and lack up-to-date security mechanisms.
+b Compare the Incremental and RAD models in terms of development speed,
+modularity, and project size suitability.
+5 clear points needs to be addressed
+Development Speed: RAD (Rapid Application Development) is faster due to
+prototyping and parallel component development, while Incremental
+Model progresses in fixed sequential increments.
+Modularity: Both are modular, but RAD emphasizes reusable components
+and visual tools for rapid assembly, whereas Incremental focuses on   [5 M]
+CO-
+functional modules built in planned stages.   1
+2,BL-
+User Involvement: RAD involves high user interaction and feedback at   marks
+L
+every iteration, while Incremental has limited user involvement after   each
+requirement finalization.
+Project Size Suitability: RAD suits small to medium projects requiring
+quick delivery; Incremental suits medium to large projects with well-defined
+requirements.
+Flexibility and Risk: RAD offers high flexibility but may lack control in large
+systems; Incremental provides better risk management and stable progress
+through phased delivery.
+c What are the different types of relationships used in class diagrams? Explain
+with suitable examples.
+[5 M]
+CO-3;   types of relationships in UML class diagrams are fundamental elements   1
+BL-L   that define how classes and objects interact with one another within an   marks
+object-oriented system. The main relationship types are:   each
+Association:
+Represents a structural connection between two classes showing how
+instances of one class are linked to instances of another.
+--- page 3 ---
+Example: A “Teacher” class associated with a “Student” class indicates that
+teachers teach students.
+Aggregation:
+A special type of association representing a “whole-part” relationship
+where the contained object can exist independently of the container.
+Example: A “Department” class aggregates multiple “Teacher” objects—
+teachers can still exist even if the department is removed.
+Composition:
+A stronger form of aggregation where the lifetime of the contained object
+depends on the container.
+Example: A “House” class composed of “Room” objects—if the house is
+destroyed, its rooms cease to exist.
+Inheritance (Generalization):
+Defines an “is-a” relationship where a subclass inherits properties and
+behavior from a superclass.
+Example: A “Car” class inheriting from a general “Vehicle” class.
+Dependency:
+Indicates that one class depends on another for its behavior or data;
+typically short-lived or temporary.
+Example: A “ReportGenerator” class depends on a “DatabaseConnection”
+class to retrieve data.
+These relationships together define the structural and behavioural
+connections between components in an object-oriented system, ensuring
+clear modularity and interaction mapping during system design.
+d   Explain Unit testing with suitable example.
+Unit Testing is the process of testing individual components or modules of a
+software system in isolation to ensure that each unit performs as designed.
+unit testing focuses on verifying module interfaces, local data structures,
+boundary conditions, independent paths, and error-handling mechanisms.
+It is usually performed by the developer during the coding phase. Stubs and
+drivers are used to simulate interactions between modules, creating a
+controlled test environment.
+CO-4;   [5 M]
+Example:- 2 marks
+BL-L   3+2
+Consider a function calculateTotal() in a billing application that sums item
+prices and applies tax. A unit test for this function would input a known set
+of prices and tax rate, then verify that the output matches the expected
+total.
+In summary, unit testing ensures the correctness of each individual
+software component before integration, preventing error propagation and
+reducing debugging effort later in development.
+Q2   [20]
+a   Describe the main phases of the Waterfall Model and explain why it is
+considered a prescriptive process model.
+ANS- as per standard text book,
+CO-1;   Main Phases of the Waterfall Model: (6 marks)   [10 M]
+BL-L   Communication   6+4
+(Project initiation and requirements gathering)
+The development process begins with interaction between the customer
+and the development team.
+--- page 4 ---
+All functional and non-functional requirements are identified and
+documented before moving forward.
+Planning
+(Estimating, scheduling, and tracking)
+Project plans are created, including cost estimation, resource allocation,
+and timelines.
+Risks are identified and managed at this stage.
+Modeling
+(Analysis and design)
+Requirements are analyzed and transformed into system and software
+design models.
+This includes architectural design and detailed component design.
+Construction
+(Coding and testing)
+The actual software is developed based on the design models.
+Unit testing and integration testing are performed to verify correctness.
+Deployment
+(Delivery, support, and feedback)
+The completed software is delivered to the customer.
+User feedback is collected, and maintenance or support activities are
+carried out.
+The Waterfall Model is one of the earliest and most structured software
+development models. It follows a linear and sequential approach, where
+progress flows steadily through a series of well-defined phases.
+OR as per reference material –
+Main Phases of the Waterfall Model:
+Requirements Analysis:
+All system requirements are gathered and documented in detail. The focus
+is on understanding what the system must do.
+System Design:
+Converts requirements into a blueprint for system architecture, data
+structures, interfaces, and algorithms.
+Implementation (Coding):
+Developers translate the design into executable code using appropriate
+programming languages and tools.
+Testing:
+The developed system is thoroughly tested for errors, performance, and
+compliance with the requirements.
+Deployment:
+The tested software is delivered to the client or deployed into the
+production environment.
+Maintenance:
+Post-deployment, the software undergoes maintenance activities like bug
+fixes, updates, and performance improvements.
+4 marks
+Why It Is Considered a Prescriptive Process Model:
+It prescribes a fixed set of process elements, including:
+Framework activities
+Tasks and actions
+--- page 5 ---
+Work products
+Quality assurance checkpoints
+Change control mechanisms
+It enforces a predictable and well-defined process flow, where activities
+must be completed in a specific order.
+Each phase has clearly defined deliverables and documentation, leaving
+little flexibility for revisiting earlier stages once a phase is completed.
+Pressman states that prescriptive models are intended to bring order and
+structure to software development by defining what must be done and
+when during the project lifecycle.
+The Waterfall Model is called prescriptive because it strictly defines and
+enforces each phase, requiring that one phase be completed before the
+next begins. It prescribes how the development process should proceed —
+in a controlled, document-driven, and phase-wise manner.
+This rigidity provides predictability, clarity, and traceability, which are
+valuable in projects with stable, well-understood requirements but limits
+flexibility for iterative or changing needs.
+b   Design a labelled sequence diagram for following problem statement.
+“A university is developing an Online Examination System to conduct digital
+tests for students. When a student logs in through the Exam Portal UI, the
+request is sent to the Exam Controller, which authenticates the student
+using the student entity. Once authenticated, the Exam Controller retrieves
+the exam details from the Exam entity and displays them to the student.
+When the student starts the exam, the Exam Controller delivers one
+question at a time by fetching it from the Question Bank entity. The student
+submits answers through the Exam Portal UI, which are then passed to the
+Exam Controller for storage in the Answer Sheet entity. After the student
+completes the test and clicks “Submit,” the Exam Controller finalizes the
+Answer Sheet and initiates the evaluation process.”
+CO-3;
+[10 M]
+BL-M
+5 marks for class and 5 marks for labelled transition.
+--- page 6 ---
+Q3   [20]
+a
+Define the three key roles in the Scrum framework and mention their core
+responsibilities
+Ans- as per standard text book-
+1. Product Owner—3 MARK
+Definition:
+The Product Owner represents the customer and stakeholders and is
+responsible for maximizing the value of the product.
+Core Responsibilities:
+Defines and clearly communicates product requirements
+Creates, maintains, and prioritizes the Product Backlog
+Ensures backlog items are well understood by the team
+Accepts or rejects completed work based on business value
+2. Scrum Master- 3 MARK
+Definition:
+The Scrum Master is a facilitator and coach who ensures that Scrum
+principles and practices are properly followed.
+Core Responsibilities:
+Facilitates Scrum events (Sprint Planning, Daily Scrum, Sprint Review,
+Retrospective)
+Removes impediments that block the team’s progress
+Coaches the team in Agile and Scrum practices
+Protects the team from external interruptions
+CO2   [10 M]
+Ensures continuous improvement of the Scrum process
+,BL-H   3. Development Team – 4 MARK   3+3+4
+Definition:
+The Development Team consists of professionals who build and deliver the
+product increment.
+Core Responsibilities:
+Designs, develops, tests, and integrates product features
+Delivers a potentially shippable increment at the end of each sprint
+Self-organizes to decide how work is done
+Estimates tasks and commits to sprint goals
+Ensures product quality through continuous testing and integration
+OR as per reference material
+Definition & Responsibilities:
+Represents the customer and business interests
+Creates and maintains the Product Backlog, which is a prioritized list of
+features that deliver business value
+Assesses the backlog and updates priorities as required
+Ensures that requirements reflect customer needs and business value
+In the Scrum framework, three key roles form the foundation of an agile
+development team. Each has distinct responsibilities that ensure smooth
+project execution and product delivery.
+1. Product Owner (PO):
+--- page 7 ---
+Core Responsibility: Represents the voice of the customer and defines the
+product vision.
+Key Duties:
+Create and maintain the Product Backlog with prioritized user stories.
+Ensure that the team works on features that deliver the highest business
+value.
+Clarify requirements and accept completed work that meets the Definition
+of Done (DoD).
+2. Scrum Master (SM):
+Core Responsibility: Acts as a facilitator and coach for the Scrum team.
+Key Duties:
+Ensure Scrum principles and practices are properly followed.
+Remove impediments or blockers affecting team progress.
+Foster communication, collaboration, and continuous improvement within
+the team.
+Shield the team from external distractions and scope creep.
+3. Development Team (Dev Team):
+Core Responsibility: Responsible for delivering potentially shippable
+product increments at the end of each sprint.
+Key Duties:
+Self-organize to plan and execute sprint work.
+Collaborate daily to design, develop, test, and integrate features.
+Maintain product quality through coding standards and testing.
+Participate actively in sprint planning, reviews, and retrospectives.
+b   Critically evaluate the importance of UML in bridging the gap between
+Object-Oriented Analysis (OOA) and Object-Oriented Design (OOD).
+Provide an example showing how a conceptual model transition into
+specific UML diagrams.
+Bridging Conceptual and Design Phases: UML provides a standard visual
+language that connects Object-Oriented Analysis (understanding
+requirements) with Object-Oriented Design (defining structure and
+behavior).
+Unified Representation: It translates conceptual models (like classes,
+[10 M]
+relationships, and interactions) into concrete design elements, ensuring
+CO-3;   2
+clarity between analysts and developers.
+BL-H   marks
+Improved Traceability: UML maintains consistency from high-level
+each
+requirements to low-level implementation by mapping use cases to class
+and sequence diagrams.
+Facilitates Design Validation: UML diagrams help verify that design
+elements faithfully represent the analyzed business logic and system
+behavior before coding.
+Example: In a Library Management System, the OOA identifies entities like
+Book, Member, and Librarian; these transition into UML Class Diagrams
+showing relationships (association, inheritance) and Sequence Diagrams
+depicting interactions like issueBook() or returnBook() during OOD.
+--- page 8 ---
+Q4   [20]
+a   "Requirements Engineering is not just about documenting what users want,
+but about balancing conflicting needs, resolving ambiguities, and ensuring
+feasibility."
+In light of this statement, critically discuss the role of Requirements
+Engineering in the success of a software project.
+Answer:
+Requirements Engineering (RE) plays a critical role in determining the
+success or failure of a software project. It goes far beyond simple
+documentation—it ensures that the developed system truly meets business
+objectives, user expectations, and technical feasibility.
+Elicitation and Understanding of Needs:
+RE involves gathering diverse stakeholder needs through interviews,
+workshops, and observations. This helps uncover explicit and implicit
+requirements, ensuring that no essential functionality is overlooked.
+Conflict Resolution and Prioritization:   [10 M]
+CO-2;   Stakeholders often have conflicting goals—for example, marketing   2
+BL-M   demands more features while developers prefer simplicity. RE balances   marks
+these competing interests through negotiation and prioritization to achieve   each
+realistic, value-driven outcomes.
+Clarifying Ambiguities:
+Ambiguous requirements lead to misinterpretation and costly rework.
+Through techniques like prototyping and use-case modeling, RE ensures
+that requirements are clear, consistent, and testable.
+Feasibility and Risk Management:
+RE assesses technical, financial, and operational feasibility before design
+begins. Early validation of requirements prevents resource wastage on
+impractical solutions.
+Foundation for Design, Development, and Testing:
+Well-engineered requirements form the baseline for all subsequent SDLC
+phases—they guide design decisions, implementation priorities, and test
+case development, ensuring traceability and alignment with user goals.
+b   Explain how a Level-0, Level-1, and Level-2 Data Flow Diagram (DFD) can be
+applied in the design of a Student Enrollment System. How do successive
+[10 M]
+levels increase the detail and functional decomposition of the process?
+CO-3;   2
+BL-L   marks
+each
+Answer:
+--- page 9 ---
+LEVEL 0: CONTEXT DIAGRAM
+
+Student | —~\ i Admin |
+
+0.0
+
+Student
+
+Enrollment
+System
+
+Application Details
+ad Enrollment Reports
+
+Application
+Submssion
+
+Confirmation «~ nx Invoices
+
+Message
+Payment Details
+Finance
+Student Department |
+--- page 10 ---
+LEVEL 1: SYSTEM OVERVIEW
+
+Student ay Vd Admin
+
+1.0
+Raw Application —>| Application
+
+Submission
+
+2.0
+Application
+Submission
+
+Application Details
+Enrollment Reports
+
+0.0
+
+Student
+Enrollment
+System
+
+D1 Student
+
+Database eat —~__,.
+
+Eligibility Check
+Request
+
+40 <7 \ |
+Enrolloment Lee <= Invoices
+
+3.0
+Eligibility
+Verification
+
+Confirmation
+
+y
+
+Finance
+
+Student Department
+--- page 11 ---
+Level-0 DFD (Context Diagram): 2 MARKS
+Represents the entire Student Enrollment System as a single process
+interacting with external entities like Student, Admin, and Finance
+Department.
+Data flows include application submission, payment details, and
+confirmation messages.
+Level-1 DFD: 2 MARKS
+Decomposes the main system into major sub-processes, such as Application
+Submission, Eligibility Verification, Fee Payment, and Enrollment
+Confirmation.
+Introduces data stores like Student Database and Course Catalog to show
+internal data flow.
+Level-2 DFD: 2 MARKS
+Provides detailed decomposition of Level-1 processes.
+For example, Eligibility Verification can be split into Document Check,
+Prerequisite Validation, and Seat Availability Check.
+Similarly, Fee Payment can include Invoice Generation, Payment
+Verification, and Receipt Issuance.
+Successive Level Detailing: 2 MARKS
+Each level adds more functional detail and data flow clarity, breaking down
+complex processes into smaller, manageable tasks.
+Functional Decomposition Benefit: 2 MARKS
+
+[Text in pictures on this page, read by OCR]
+LEVEL 2: DETATILED PROCESS DECOMPOSITION
+
+DECOMPATION OF 2.0 ELIGIBILITY VERIFICATION
+
+Rejection Status
+
+Applicant Data Verified Documents
+VEY 22 Seat
+Student Document Preequiste Avaiability
+Check Validation Check
+Rejection Notfcation
+D1 Student D2 Course D2 Course
+Database Catablog Capacity Info
+
+DECOMPATION OF 3.0 FEE PAYMENT
+
+Verified Document Verified Issuance
+
+Enrolimet om 3.2 3.3 =
+inance
+Details Invoice Payment Receipt iaanoa |
+ww wow:
+D3 Finance D3 Finance Payment J
+Confirmation
+
+Database Database
+--- page 12 ---
+This hierarchical refinement ensures better understanding, simplifies
+design, and helps developers and analysts verify that all system functions
+are captured and logically connected before implementation.
+Q5   [20]
+a   Analyze the influence of data mining and data warehousing on architectural
+decisions in large-scale information systems. How do these concepts guide
+database design at both the architectural and component levels?
+Answer:
+1. Role of Data Mining and Data Warehousing in System Architecture:
+Data warehousing and data mining profoundly shape the architectural
+decisions of large-scale information systems.
+Data Warehousing focuses on the collection, integration, and storage of
+large volumes of historical and transactional data for analysis and decision-
+making.
+Data Mining applies analytical techniques on this data to discover hidden
+patterns, trends, and correlations, supporting strategic business
+intelligence.------------- 2 MARKS
+2. Influence on Architectural Decisions: 4 MARKS
+Separation of Operational and Analytical Workloads:
+Architectural design must distinguish between OLTP (Online Transaction
+Processing) systems handling daily transactions and OLAP (Online
+Analytical Processing) systems for analysis.
+→ This separation ensures performance optimization and prevents
+analytical queries from burdening live systems.
+CO-3;   [10 M]
+Layered and Modular Architecture:
+BL-M   2+4+4
+Large-scale systems adopt multi-layered architectures—data acquisition,
+ETL (Extract-Transform-Load), storage, and presentation layers—to support
+data warehousing and mining effectively.
+→ Enables scalability, maintainability, and easy integration of analytical
+tools.
+Data Integration and Consistency:
+Architectural choices emphasize data normalization, cleansing, and
+transformation to ensure consistent, high-quality data across distributed
+sources before storage in the warehouse.
+3. : 4 MARKS
+Influence on Database Design (Architectural LevelSchema Design (Star and
+Snowflake Models):
+Data warehouses use dimensional modeling to structure data into fact and
+dimension tables for efficient querying and reporting.
+→ Example: Fact table stores sales data; dimension tables store customer,
+product, and time details.
+Data Storage Optimization:
+Large-scale systems use denormalization, indexing, and partitioning to
+speed up analytical queries on massive datasets.
+→ Improves performance for data mining operations.
+--- page 13 ---
+Metadata Management:
+Metadata repositories become a crucial architectural element for managing
+data lineage, transformations, and schema evolution.
+Influence on Database Design (Component Level):
+ETL Components:
+Design includes robust ETL pipelines that extract raw data, clean it, and load
+it into the warehouse—supporting accurate data mining.
+Data Staging and Aggregation:
+Intermediate staging areas and data marts are introduced to handle pre-
+processing, aggregation, and summary generation efficiently.
+Data Mining Integration:
+Embedding mining algorithms (e.g., clustering, classification, association
+rules) within the architecture guides the choice of indexing methods, data
+partitioning, and computational resources.
+Overall Impact:
+Data warehousing ensures data availability, reliability, and performance
+for analytics.
+Data mining drives intelligent architectural designs that support predictive
+modeling and decision support systems.
+Together, they transform traditional databases into knowledge-driven,
+scalable architectures capable of supporting real-time analytics and
+business intelligence.
+b Compare Agile and plan-driven approaches in terms of specification
+and delivery, and justify situations where Agile is more effective.
+Specification Approach:
+Plan-driven: Requirements are fully defined upfront before development
+begins.
+Agile: Requirements evolve through continuous user feedback and iterative
+refinement.
+Delivery Cycle:
+Plan-driven: Delivers the complete system at the end of the project.
+Agile: Delivers working software in short, incremental iterations.
+[10 M]
+Flexibility to Change:
+CO-2;   2
+Plan-driven: Limited flexibility—changes are costly once development
+BL-H   marks
+starts.
+each
+Agile: Highly adaptable—welcomes changing requirements even late in
+development.
+Customer Involvement:
+Plan-driven: Involvement mainly during requirement and acceptance
+stages.
+Agile: Continuous customer collaboration throughout the project.
+When Agile is More Effective:
+Agile is ideal for dynamic environments with evolving requirements, rapid
+market changes, or innovative projects where frequent feedback,
+flexibility, and early delivery are critical to success.
+Q6   [20]
+--- page 14 ---
+a   Describe the major features of the Scrum methodology and analyze the role
+of backlog and sprint cycles in managing change
+FROM TEXT BOOK-
+Major Features of Scrum Methodology – 5 Marks
+Scrum emphasizes the use of software process patterns that enable a team to
+manage complex projects through an iterative approach. Its major features
+include:
+Small, Self-Organizing Teams: Scrum relies on small, highly motivated
+project teams that are in control of their own work and foster heavy
+collaboration.
+Iterative Development: Work is partitioned into "packets" that are tackled
+in short, fixed-duration cycles.
+Minimal Work Products: The process focuses on delivering operational
+software increments rather than comprehensive documentation.
+Process Patterns: Scrum uses specific activities and roles to ensure
+progress, such as:
+Backlog: A prioritized list of project requirements or features that provide
+business value for the customer.
+Sprints: Work units consisting of a specific set of backlog items that must
+be completed within a pre-defined time-box (typically 30 days).
+Scrum Meetings: Short daily meetings (often 15 minutes) where the team
+coordinates activities, assesses progress, and identifies obstacles.
+Demos: Delivering the software increment to the customer so that
+functionality can be demonstrated and evaluated.
+CO-2;   [10 M]
+Role of Backlog and Sprint Cycles in Managing Change – 5 marks
+BL-M   5+5
+Backlogs and sprint cycles are fundamental to Scrum’s ability to "embrace"
+and manage change effectively during a project:
+Dynamic Requirement Management (Backlog): The backlog is not a static
+document; it is a prioritized list that can be updated as new requirements
+emerge or business priorities shift. This allows the team to respond to change
+rather than strictly following a rigid, initial plan.
+Controlled Work Environments (Sprints): While the backlog is dynamic, the
+sprint provides stability. Once a sprint begins, the items being worked on are
+frozen; no changes are introduced until the next sprint cycle. This ensures
+that the team can complete a functional increment without being disrupted by
+constant mid-cycle "feature creep".
+Continuous Feedback Loops: Because each sprint cycle ends with a demo
+to the stakeholders, the team receives immediate feedback. This feedback
+can then be used to update the backlog, ensuring that the next sprint cycle
+incorporates any necessary changes or refinements requested by the
+customer.
+FROM Reference material -
+1. Major Features of the Scrum Methodology: 5m
+Iterative and Incremental Development:
+Work is divided into short, time-boxed iterations called sprints (usually 2–4
+weeks) to deliver working product increments frequently.
+Defined Roles:
+Scrum defines three primary roles — Product Owner (manages
+--- page 15 ---
+requirements), Scrum Master (facilitates the process), and Development
+Team (builds the product).
+Empirical Process Control:
+Scrum relies on transparency, inspection, and adaptation to manage
+progress and handle uncertainty effectively.
+Regular Ceremonies:
+Core events include Sprint Planning, Daily Scrum, Sprint Review, and
+Retrospective to ensure communication, accountability, and continuous
+improvement.
+Working Software as Progress Measure:
+Success is judged by the delivery of functional product increments, not by
+documentation or percentage completion.
+2. Role of Backlog and Sprint Cycles in Managing Change: 5m
+Product Backlog – Dynamic Requirement Management:
+The Product Backlog contains prioritized user stories and features. It
+evolves continuously based on stakeholder feedback and changing business
+needs. This flexibility ensures Scrum can quickly respond to changes.
+Sprint Backlog – Short-Term Focus:
+At the start of each sprint, the team selects items from the Product Backlog
+to form a Sprint Backlog, focusing only on achievable goals for that sprint,
+thus limiting change within the sprint duration.
+Sprint Cycles – Iterative Adaptation:
+After each sprint, reviews and retrospectives provide opportunities to
+incorporate feedback and reprioritize work, adapting to new
+requirements or market shifts.
+Change Control through Timeboxing:
+Changes are deferred to the next sprint, ensuring stability within the
+current iteration while allowing adaptability between sprints.
+Continuous Value Delivery:
+By combining backlog refinement and iterative sprint cycles, Scrum allows
+teams to deliver incremental value, adapt to evolving requirements, and
+continuously align with customer expectations.
+b   Discuss which ISO 9126 characteristic—efficiency, maintainability, or
+portability—should be prioritized for government-grade cybersecurity
+systems and justify your reasoning.
+Answer
+Prioritize: Maintainability — for government-grade cybersecurity systems,
+the ability to rapidly patch, harden, and adapt to emerging threats
+CO-4;   [10 M]
+outweighs raw efficiency or broad portability.
+BL-L   3+3+4
+Why maintainability first
+Rapid vulnerability response: High maintainability (clean modular design,
+clear interfaces, strong CI/CD, IaC) enables fast patching and hotfix
+rollout, shrinking exposure windows during zero-days and APT incidents.
+Secure configuration at scale: Maintainable systems support policy-as-
+code, repeatable hardening baselines, and auditable change control—core
+to compliance (e.g., STIGs, CIS benchmarks).
+--- page 16 ---
+Lower defect density over time: Refactorable codebases and strong test
+coverage reduce regression risk when introducing new crypto suites, auth
+flows, or telemetry. -----3m
+Where efficiency fits
+Second priority: Crypto, packet processing, and analytics need predictable
+latency and throughput (e.g., for real-time detection, deep packet
+inspection). Optimize critical paths while preserving testability—avoid
+“performance hacks” that erode clarity and security.
+Where portability fits
+Third priority (contextual): Useful for multi-domain deployments (on-
+prem, air-gapped, sovereign clouds) and hardware refresh cycles. But
+excessive abstraction for portability can increase attack surface and
+operational complexity; keep it intentional (e.g., portable cryptographic
+backends, OS-agnostic agents) without compromising maintainability.----3m
+Practical rubric (prioritized controls)
+Maintainability: MTTR for security patches, % code with unit/integration
+tests, change-failure rate, config drift metrics.
+Efficiency: P95 latency under load, CPU/memory per secured connection,
+throughput with modern ciphers.
+Portability: # of certified target platforms, build reproducibility,
+dependency isolation (SBOM, container provenance). --- 4m
+Q7   [20]
+a   Design a labeled state transition diagram for following problem statement.
+“A university library wants to automate the process of book lending through
+a Library Management System. The system should manage the complete
+life cycle of a BookCopy object (an individual copy of a book), tracking how
+its state changes as it is issued, returned, or reserved by users. Initially,
+every BookCopy in the library flagged as Available, meaning it can be
+borrowed by any registered member. When a Member places a hold
+request for a BookCopy, its marked as Reserved. While in this state, the
+book cannot be borrowed by anyone else. If the member fails to collect the
+book within the allowed reservation period(15 days), the system
+automatically changes its state back to Available. When a reserved book is
+collected or directly borrowed (without reservation), its flagged as Issued.
+During this state, the system tracks the issue date and due date. If the
+CO-3;
+member returns the book on or before the due date, the state moves back   [10 M]
+BL-H
+to Available. However, if the member fails to return the book by the due
+date, the system marks it as Overdue. Once an overdue book is returned,
+the system calculates a fine, records payment, and changes its flag back to
+Available.”
+--- page 17 ---
+5 marks for state, 5 marks for labelled message
+b Judge whether adopting CMMI processes necessarily guarantees higher
+software quality or whether contextual organizational factors play a greater
+role—support your argument.
+Here’s a critical evaluation-based answer:
+Answer:
+Adopting CMMI (Capability Maturity Model Integration) processes does
+not automatically guarantee higher software quality. While CMMI
+provides a structured framework for process improvement, the
+organizational context, culture, and leadership commitment largely
+determine its effectiveness.
+Framework vs. Implementation Reality:
+CMMI defines what to improve (process maturity) but not how to
+implement it effectively. Without genuine adoption, it can become a   [10 M]
+checklist exercise that adds bureaucracy rather than value.   2
+CO-4;
+Cultural and Human Factors:   marks
+BL-H
+Organizational culture—communication, collaboration, and learning—plays   each
+a greater role. Teams that embrace continuous improvement and open   point
+feedback achieve better quality, even with minimal formal structure.
+Domain and Size Dependency:
+In dynamic domains like startups or agile environments, rigid CMMI
+processes may reduce responsiveness, while in large, regulated projects
+(e.g., defense, aerospace), CMMI ensures consistency and compliance.
+Leadership and Quality Mindset:
+Success depends on management commitment to quality as a philosophy,
+not just certification. Quality arises from empowering teams, not merely
+following documented procedures.
+Balanced Integration:
+The best outcomes occur when CMMI is blended with adaptive practices
+(like Agile) and tailored to organizational maturity—ensuring processes
+remain flexible, efficient, and people-focused.
+````
+
 ## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 0df84e66dc65
 
 - Departments: Computer Applications (MCA)
@@ -9,6 +774,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/MASTER OF COMPUTER APPLICATIONS - 7061/Software Engineering/ANS_Software Engineering(703IT0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2026
 - Text: text (24 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -172,6 +938,25 @@ Example:
 Testing a banking application for multiple simultaneous transactions
 ensures it works correctly without data loss.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Online Food Ordering System
+
+«include»
+
+a
+H
+‘5( Place Order
+Customer «include» ®
+
+1
+1
+Apply Discount Coupon
+Make Payment
+
+«include»
+
+Order Confirmation
 --- page 5 ---
 3. Validates Requirements
 Through testing, developers verify that the software meets all functional
@@ -197,6 +982,28 @@ BL-2
 Diagram (4 marks)
 Explain with advantage and disadvantage (6 marks)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Elicit Requirements
+
+|
+
+Modularize Requirements
+
+gpg gcc a
+Teami Team2 II Teamn,/ Analyze
+
+Develop Module 1 Develop Module 2 Develop moduleN   : Design
+
+L Integrate all the modules __
+
+= nett
+
+Test the final product and deliver
+
+Code
+
+Test
 --- page 6 ---
 RAD (Rapid Application Development) Model
 Rapid Application Development (RAD) is a software development
@@ -311,6 +1118,19 @@ transfer process.
 4. AccountDatabase – Stores account details and balance.
 5. TransactionProcessor – Performs the money transfer.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+DFD Level 0 — Context Diagram
+
+DFD Level 1
+
+DFD Level 1
+
+DFD Level 1
+
+DFD Level 2
+
+DFD Level 2
 --- page 10 ---
 6. NotificationService – Sends confirmation message to the
 customer.
@@ -321,6 +1141,49 @@ BL-2
 Development Team.
 Diagram 4marks
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+
+login(username, password)
+
+verifyCredentials()
+4 | authresutt
+selectMoneyTransfer()
+
+int)_| account)
+>
+
+checkAccountDetails) “| accountValid
+
+transferBance) balanceAvailable
+
+‘sendConfjmatiogn()
+Soe
+
+Sequence Diagram
+
+Collaboration Diagram - Online Banking System
+
+1: Customer
+
+4. selectMoneyTransfer()
+
+5. enterReceiverDetails(account, amount)
+
+3. authResult | -<-"
+
+8. checkBalance()
+
+12. sendConfirmation() |
+9. balanceAvailable
+
+4: AccountDatabase
+
+11. updateAccounts()
+
+6: NotificationService a0. transferMoney()
+
+5: TransactionProcessor
 --- page 11 ---
 Scrum Framework in Agile Development (6 marks)
 Scrum is an Agile framework used for managing and completing
@@ -474,6 +1337,34 @@ BL-2
 each
 Data centered architectures:
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+f
+
+Submit Claim Request
+
+(submit Supporting Documents ]
+
+Verify Documents
+Insurance Officer
+Assess Claim Details
+
+L
+Yes <=> No
+
+Reject Claim
+
+Approve Claim
+
+Customer informed
+of rejection
+
+Customer informed of
+
+=> eq
+approval
+
+Process Payment
 --- page 16 ---
 • A data store will reside at the center of this architecture and is
 accessed frequently by the other components that update, add,
@@ -564,6 +1455,37 @@ functions.
 (Open Systems Interconnection-International Organisation for
 Standardisation) communication system.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+Main
+Program
+
+Controller
+Subprogram
+
+Controller
+Subprogram
+
+Controller
+Subprogram
+
+Application
+Subprogram
+
+Application
+Subprogram
+
+Application
+Subprogram
+
+Application
+Subprogram
+
+Application
+Subprogram
+
+Application
+Subprogram
 --- page 19 ---
 Layered architecture
 CO-4;   b   Explain the concept of software quality activities in software   [10]
@@ -706,6 +1628,31 @@ o Convert prototypes into working interfaces with code.
 o Ensure consistency with design guidelines.
 6. Deployment & Maintenance
 ********** 23 **********
+
+[Text in pictures on this page, read by OCR]
+User interface design process
+
+=
+
+Analyse and
+understand user
+activities y)
+
+Produce paper
+based design
+prototype |
+
+Evaluate design
+with end-users J
+
+dynamic design
+prototype
+
+Executable
+prototype
+
+final user
+interface J
 --- page 24 ---
 o Release the interface to users.
 o Continuously update and improve based on feedback and
@@ -2737,6 +3684,32 @@ recorded, and the card is ejected, ending the process. Based on this
 scenario, draw activity diagram.
 Correct identification of activity and notation 10 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+DFD Level O
+
+1.0
+Online Shopping
+System
+
+Product Data
+
+DFD Level 1
+
+1
+Browse Products
+& Add to Cart
+
+Request & info
+
+Selected Items
+
+Selected Items Payment
+Module
+
+DFD Level 1
+
+Request & Info
 --- page 7 ---
 Q4   a   Describe the different principles to achieve agility. Explain Capability
 CO-1;   Maturity Model Integration with neat diagram.
@@ -2746,6 +3719,24 @@ Agile Principle (3 marks)
 CMMI explain 4 marks
 1. Maturity level 1 : Initial
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+12 Principles of Agile Methodology
+
+Customer Changing Frequent
+
+Satisfaction a, Requirement Delivery
+
+Promoting Motivated Face to rach
+
+Collabration Individuals Communication
+
+Maintain a Measure Technical
+
+Constant pace Progress Excellance
+
+jal ct ) Self organized ) Continuos
+10) SIBUCY a1) Teams 2) Improvements
 --- page 8 ---
 •   processes are poorly managed or controlled.
 •   unpredictable outcomes of processes involved.
@@ -2798,6 +3789,25 @@ CO-4;   Explain Integration testing and describe its different approaches.
 [10]
 BL-2   Integration Testing (4 marks)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Capability Maturity Model (CMM) toolshero
+
+Focus on process
+Tr improvement
+
+Level 4
+r Managed Processes measured and controlled
+Level 3 Processes characterized for the
+r Defined organization and is proactive
+Level 2 Processes characterized for projects
+
+hal Repeatable and is often reactive
+
+Processes unpredictable, poorly
+controlled and reactive
+
+Read more: www.toolshero.com
 --- page 10 ---
 Integration Testing is a Software Testing Technique that focuses on
 verifying the interactions and data exchange between different
@@ -2885,6 +3895,30 @@ Advantages of Data centered architecture:
 •   It may be simple to add additional clients.
 • Modification can be very easy
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Register
+N
+
+Registered
+entry / do registration
+
+Appear for Exam
+
+Y Appear for Exam Results Declared
+
+Exam Given
+
++ do / take exam
+
++ wait for results
+
+Results Declared
+
+Exam Given
+
++ do / take exam
++ wait for results
 --- page 13 ---
 Data centered architecture
 2] Data flow architectures:
@@ -2937,6 +3971,37 @@ Advantage of Object Oriented architecture:
 •   It enables the designer to separate a challenge into a collection of
 autonomous objects.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Main
+Program
+
+Controller
+Subprogram
+
+Controller
+Subprogram
+
+Controller
+Subprogram
+
+Application
+Subprogram
+
+Application
+Subprogram
+
+Application
+Subprogram
+
+Application
+Subprogram
+
+Application
+Subprogram
+
+Application
+Subprogram
 --- page 15 ---
 • Other objects are aware of the implementation details of the
 object, allowing changes to be made without having an impact on
@@ -2988,6 +4053,18 @@ Attractiveness
 Usability Compliance
 Efficiency (1marks)
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Categories of Quality Model
+
+External and Internal Quality Quality in use Model
+-—— Functionality -— Effectiveness
+f— Reliability [— Productivity
+— Usability -— Safety
+— Efficiency -_—— Satisfaction
+-— Maintainability
+
+—— Portability
 --- page 17 ---
 A set of attributes that bear on the relationship between the level of
 performance of the software under stated conditions.
@@ -7335,6 +8412,34 @@ results
 organization, same as predecessor CMM
 •   Vastly improved version of the CMM
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Scenario-based
+elements
+
+Fliow-oriented
+elements
+
+Use-cases — text
+Use-case diagrams
+Activity diagrams
+Swim lane diagrams
+
+Data flow diagrams
+Control flow diagrams
+Processing narratives
+
+Analysis Model
+
+Class-based
+elements
+
+Class diagrams
+
+Analysis packages State diagrams
+
+CRC models Sequence diargrams
+Collaboration diagrams
 --- page 3 ---
 • Emphasis on business needs, integration and
 institutionalization
@@ -7359,6 +8464,49 @@ Advantage of Incremental Model
 Disadvantage of Incremental Model
 -Need for good planning
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Level 5 Process performance
+
+continually improved through
+incremental and innovative
+7 technological improvements.
+
+Level 4
+
+are controlled using
+statistical and other quantitative
+techniques.
+
+procedures, Processes are well characterized
+and understood. Processes, standards, tools,
+etc. are defined at the organizational
+(Organization X ) level. Proactive.
+
+Processes are planned, documented, performed,
+monitored, and controlled at the project level. Often
+
+Level 4 reactive.
+
+x) - Processes are unpredictable, poorly controlled, reactive.
+
+[[] Communication
+[7] Planning
+j [[] Modeling (analysis, design)
+
+[FJ Construction (code, test)
+FB] il Deployment (delivery, feedback) COs
+4 delivery of
+
+; Increment # 2 ath increment
+
+i
+i Se
+5 increment # 1 2nd increment
+a   e
+Ist increment
+
+Project Calendar Time
 --- page 4 ---
 -Total Cost is high.
 -Well defined module interfaces are needed
@@ -7378,6 +8526,20 @@ CO2 ; SO1;   a.   What is the criterion for selection of a software process mode
 BL1   project manager, which software development lifecycle model would you
 choose for the given scenario? Justify your choice.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+client client
+
+Software software
+client client
+software \ / software
+Data store
+(repository or .
+client Hack board) client
+sottuare software
+
+client client
+software software
 --- page 5 ---
 XYZ is a multinational tech firm currently developing a groundbreaking
 product for a client. The product is unlike anything the development team
@@ -7489,709 +8651,6 @@ effectiveness.
 ********** 7 **********
 ````
 
-## 2024-25 · Final-Exam · Sem 5 · Answer key · paper ccbb2e9c0dd7
-
-- Departments: Computer Engineering, Cyber Security, Data Science, Information Technology
-- Programmes: BTech Computer 7002, BTech CSE DS 7057, BTech CyberSecurity 7010, MBATech Computer 7047, MBATech IT 7041
-- Source: `02_Question_Papers/2024/Sem_05/Final-Exam/BTech_Computer_7002/Software Engineering/ANS_Software Engineering(702IT0C016)_2024-2025.pdf` (+5 identical copies)
-- Text: mixed (17 pages), mean OCR confidence 84.0
-
-````text
-Note: The provided synoptic answer attempts to cover content from standard textbooks and
-reference materials that closely align with the context of the question.
---- page 2 ---
-Q1
-[20]
-a   Explain challenges in maintaining Legacy software.
-Maintaining legacy software poses several significant challenges:
-Outdated Technology: Old programming languages, tools, and platforms
-make upgrades and integration with modern systems difficult.
-Lack of Documentation: Incomplete or missing documentation hampers
-[5 M]
-understanding of system logic and dependencies.
-CO-1;   1
-Scarcity of Skilled Personnel: Few developers are familiar with obsolete
-BL-L   marks
-technologies, increasing maintenance cost and effort.
-each
-High Technical Debt: Frequent patches and quick fixes over time make the
-codebase complex and error-prone.
-Integration and Security Issues: Legacy systems often struggle to interface
-with modern applications and lack up-to-date security mechanisms.
-b Compare the Incremental and RAD models in terms of development speed,
-modularity, and project size suitability.
-5 clear points needs to be addressed
-Development Speed: RAD (Rapid Application Development) is faster due to
-prototyping and parallel component development, while Incremental
-Model progresses in fixed sequential increments.
-Modularity: Both are modular, but RAD emphasizes reusable components
-and visual tools for rapid assembly, whereas Incremental focuses on   [5 M]
-CO-
-functional modules built in planned stages.   1
-2,BL-
-User Involvement: RAD involves high user interaction and feedback at   marks
-L
-every iteration, while Incremental has limited user involvement after   each
-requirement finalization.
-Project Size Suitability: RAD suits small to medium projects requiring
-quick delivery; Incremental suits medium to large projects with well-defined
-requirements.
-Flexibility and Risk: RAD offers high flexibility but may lack control in large
-systems; Incremental provides better risk management and stable progress
-through phased delivery.
-c What are the different types of relationships used in class diagrams? Explain
-with suitable examples.
-[5 M]
-CO-3;   types of relationships in UML class diagrams are fundamental elements   1
-BL-L   that define how classes and objects interact with one another within an   marks
-object-oriented system. The main relationship types are:   each
-Association:
-Represents a structural connection between two classes showing how
-instances of one class are linked to instances of another.
---- page 3 ---
-Example: A “Teacher” class associated with a “Student” class indicates that
-teachers teach students.
-Aggregation:
-A special type of association representing a “whole-part” relationship
-where the contained object can exist independently of the container.
-Example: A “Department” class aggregates multiple “Teacher” objects—
-teachers can still exist even if the department is removed.
-Composition:
-A stronger form of aggregation where the lifetime of the contained object
-depends on the container.
-Example: A “House” class composed of “Room” objects—if the house is
-destroyed, its rooms cease to exist.
-Inheritance (Generalization):
-Defines an “is-a” relationship where a subclass inherits properties and
-behavior from a superclass.
-Example: A “Car” class inheriting from a general “Vehicle” class.
-Dependency:
-Indicates that one class depends on another for its behavior or data;
-typically short-lived or temporary.
-Example: A “ReportGenerator” class depends on a “DatabaseConnection”
-class to retrieve data.
-These relationships together define the structural and behavioural
-connections between components in an object-oriented system, ensuring
-clear modularity and interaction mapping during system design.
-d   Explain Unit testing with suitable example.
-Unit Testing is the process of testing individual components or modules of a
-software system in isolation to ensure that each unit performs as designed.
-unit testing focuses on verifying module interfaces, local data structures,
-boundary conditions, independent paths, and error-handling mechanisms.
-It is usually performed by the developer during the coding phase. Stubs and
-drivers are used to simulate interactions between modules, creating a
-controlled test environment.
-CO-4;   [5 M]
-Example:- 2 marks
-BL-L   3+2
-Consider a function calculateTotal() in a billing application that sums item
-prices and applies tax. A unit test for this function would input a known set
-of prices and tax rate, then verify that the output matches the expected
-total.
-In summary, unit testing ensures the correctness of each individual
-software component before integration, preventing error propagation and
-reducing debugging effort later in development.
-Q2   [20]
-a   Describe the main phases of the Waterfall Model and explain why it is
-considered a prescriptive process model.
-ANS- as per standard text book,
-CO-1;   Main Phases of the Waterfall Model: (6 marks)   [10 M]
-BL-L   Communication   6+4
-(Project initiation and requirements gathering)
-The development process begins with interaction between the customer
-and the development team.
---- page 4 ---
-All functional and non-functional requirements are identified and
-documented before moving forward.
-Planning
-(Estimating, scheduling, and tracking)
-Project plans are created, including cost estimation, resource allocation,
-and timelines.
-Risks are identified and managed at this stage.
-Modeling
-(Analysis and design)
-Requirements are analyzed and transformed into system and software
-design models.
-This includes architectural design and detailed component design.
-Construction
-(Coding and testing)
-The actual software is developed based on the design models.
-Unit testing and integration testing are performed to verify correctness.
-Deployment
-(Delivery, support, and feedback)
-The completed software is delivered to the customer.
-User feedback is collected, and maintenance or support activities are
-carried out.
-The Waterfall Model is one of the earliest and most structured software
-development models. It follows a linear and sequential approach, where
-progress flows steadily through a series of well-defined phases.
-OR as per reference material –
-Main Phases of the Waterfall Model:
-Requirements Analysis:
-All system requirements are gathered and documented in detail. The focus
-is on understanding what the system must do.
-System Design:
-Converts requirements into a blueprint for system architecture, data
-structures, interfaces, and algorithms.
-Implementation (Coding):
-Developers translate the design into executable code using appropriate
-programming languages and tools.
-Testing:
-The developed system is thoroughly tested for errors, performance, and
-compliance with the requirements.
-Deployment:
-The tested software is delivered to the client or deployed into the
-production environment.
-Maintenance:
-Post-deployment, the software undergoes maintenance activities like bug
-fixes, updates, and performance improvements.
-4 marks
-Why It Is Considered a Prescriptive Process Model:
-It prescribes a fixed set of process elements, including:
-Framework activities
-Tasks and actions
---- page 5 ---
-Work products
-Quality assurance checkpoints
-Change control mechanisms
-It enforces a predictable and well-defined process flow, where activities
-must be completed in a specific order.
-Each phase has clearly defined deliverables and documentation, leaving
-little flexibility for revisiting earlier stages once a phase is completed.
-Pressman states that prescriptive models are intended to bring order and
-structure to software development by defining what must be done and
-when during the project lifecycle.
-The Waterfall Model is called prescriptive because it strictly defines and
-enforces each phase, requiring that one phase be completed before the
-next begins. It prescribes how the development process should proceed —
-in a controlled, document-driven, and phase-wise manner.
-This rigidity provides predictability, clarity, and traceability, which are
-valuable in projects with stable, well-understood requirements but limits
-flexibility for iterative or changing needs.
-b   Design a labelled sequence diagram for following problem statement.
-“A university is developing an Online Examination System to conduct digital
-tests for students. When a student logs in through the Exam Portal UI, the
-request is sent to the Exam Controller, which authenticates the student
-using the student entity. Once authenticated, the Exam Controller retrieves
-the exam details from the Exam entity and displays them to the student.
-When the student starts the exam, the Exam Controller delivers one
-question at a time by fetching it from the Question Bank entity. The student
-submits answers through the Exam Portal UI, which are then passed to the
-Exam Controller for storage in the Answer Sheet entity. After the student
-completes the test and clicks “Submit,” the Exam Controller finalizes the
-Answer Sheet and initiates the evaluation process.”
-CO-3;
-[10 M]
-BL-M
-5 marks for class and 5 marks for labelled transition.
---- page 6 ---
-Q3   [20]
-a
-Define the three key roles in the Scrum framework and mention their core
-responsibilities
-Ans- as per standard text book-
-1. Product Owner—3 MARK
-Definition:
-The Product Owner represents the customer and stakeholders and is
-responsible for maximizing the value of the product.
-Core Responsibilities:
-Defines and clearly communicates product requirements
-Creates, maintains, and prioritizes the Product Backlog
-Ensures backlog items are well understood by the team
-Accepts or rejects completed work based on business value
-2. Scrum Master- 3 MARK
-Definition:
-The Scrum Master is a facilitator and coach who ensures that Scrum
-principles and practices are properly followed.
-Core Responsibilities:
-Facilitates Scrum events (Sprint Planning, Daily Scrum, Sprint Review,
-Retrospective)
-Removes impediments that block the team’s progress
-Coaches the team in Agile and Scrum practices
-Protects the team from external interruptions
-CO2   [10 M]
-Ensures continuous improvement of the Scrum process
-,BL-H   3. Development Team – 4 MARK   3+3+4
-Definition:
-The Development Team consists of professionals who build and deliver the
-product increment.
-Core Responsibilities:
-Designs, develops, tests, and integrates product features
-Delivers a potentially shippable increment at the end of each sprint
-Self-organizes to decide how work is done
-Estimates tasks and commits to sprint goals
-Ensures product quality through continuous testing and integration
-OR as per reference material
-Definition & Responsibilities:
-Represents the customer and business interests
-Creates and maintains the Product Backlog, which is a prioritized list of
-features that deliver business value
-Assesses the backlog and updates priorities as required
-Ensures that requirements reflect customer needs and business value
-In the Scrum framework, three key roles form the foundation of an agile
-development team. Each has distinct responsibilities that ensure smooth
-project execution and product delivery.
-1. Product Owner (PO):
---- page 7 ---
-Core Responsibility: Represents the voice of the customer and defines the
-product vision.
-Key Duties:
-Create and maintain the Product Backlog with prioritized user stories.
-Ensure that the team works on features that deliver the highest business
-value.
-Clarify requirements and accept completed work that meets the Definition
-of Done (DoD).
-2. Scrum Master (SM):
-Core Responsibility: Acts as a facilitator and coach for the Scrum team.
-Key Duties:
-Ensure Scrum principles and practices are properly followed.
-Remove impediments or blockers affecting team progress.
-Foster communication, collaboration, and continuous improvement within
-the team.
-Shield the team from external distractions and scope creep.
-3. Development Team (Dev Team):
-Core Responsibility: Responsible for delivering potentially shippable
-product increments at the end of each sprint.
-Key Duties:
-Self-organize to plan and execute sprint work.
-Collaborate daily to design, develop, test, and integrate features.
-Maintain product quality through coding standards and testing.
-Participate actively in sprint planning, reviews, and retrospectives.
-b   Critically evaluate the importance of UML in bridging the gap between
-Object-Oriented Analysis (OOA) and Object-Oriented Design (OOD).
-Provide an example showing how a conceptual model transition into
-specific UML diagrams.
-Bridging Conceptual and Design Phases: UML provides a standard visual
-language that connects Object-Oriented Analysis (understanding
-requirements) with Object-Oriented Design (defining structure and
-behavior).
-Unified Representation: It translates conceptual models (like classes,
-[10 M]
-relationships, and interactions) into concrete design elements, ensuring
-CO-3;   2
-clarity between analysts and developers.
-BL-H   marks
-Improved Traceability: UML maintains consistency from high-level
-each
-requirements to low-level implementation by mapping use cases to class
-and sequence diagrams.
-Facilitates Design Validation: UML diagrams help verify that design
-elements faithfully represent the analyzed business logic and system
-behavior before coding.
-Example: In a Library Management System, the OOA identifies entities like
-Book, Member, and Librarian; these transition into UML Class Diagrams
-showing relationships (association, inheritance) and Sequence Diagrams
-depicting interactions like issueBook() or returnBook() during OOD.
---- page 8 ---
-Q4   [20]
-a   "Requirements Engineering is not just about documenting what users want,
-but about balancing conflicting needs, resolving ambiguities, and ensuring
-feasibility."
-In light of this statement, critically discuss the role of Requirements
-Engineering in the success of a software project.
-Answer:
-Requirements Engineering (RE) plays a critical role in determining the
-success or failure of a software project. It goes far beyond simple
-documentation—it ensures that the developed system truly meets business
-objectives, user expectations, and technical feasibility.
-Elicitation and Understanding of Needs:
-RE involves gathering diverse stakeholder needs through interviews,
-workshops, and observations. This helps uncover explicit and implicit
-requirements, ensuring that no essential functionality is overlooked.
-Conflict Resolution and Prioritization:   [10 M]
-CO-2;   Stakeholders often have conflicting goals—for example, marketing   2
-BL-M   demands more features while developers prefer simplicity. RE balances   marks
-these competing interests through negotiation and prioritization to achieve   each
-realistic, value-driven outcomes.
-Clarifying Ambiguities:
-Ambiguous requirements lead to misinterpretation and costly rework.
-Through techniques like prototyping and use-case modeling, RE ensures
-that requirements are clear, consistent, and testable.
-Feasibility and Risk Management:
-RE assesses technical, financial, and operational feasibility before design
-begins. Early validation of requirements prevents resource wastage on
-impractical solutions.
-Foundation for Design, Development, and Testing:
-Well-engineered requirements form the baseline for all subsequent SDLC
-phases—they guide design decisions, implementation priorities, and test
-case development, ensuring traceability and alignment with user goals.
-b   Explain how a Level-0, Level-1, and Level-2 Data Flow Diagram (DFD) can be
-applied in the design of a Student Enrollment System. How do successive
-[10 M]
-levels increase the detail and functional decomposition of the process?
-CO-3;   2
-BL-L   marks
-each
-Answer:
---- page 9 ---
-LEVEL 0: CONTEXT DIAGRAM
-
-Student | —~\ i Admin |
-
-0.0
-
-Student
-
-Enrollment
-System
-
-Application Details
-ad Enrollment Reports
-
-Application
-Submssion
-
-Confirmation «~ nx Invoices
-
-Message
-Payment Details
-Finance
-Student Department |
---- page 10 ---
-LEVEL 1: SYSTEM OVERVIEW
-
-Student ay Vd Admin
-
-1.0
-Raw Application —>| Application
-
-Submission
-
-2.0
-Application
-Submission
-
-Application Details
-Enrollment Reports
-
-0.0
-
-Student
-Enrollment
-System
-
-D1 Student
-
-Database eat —~__,.
-
-Eligibility Check
-Request
-
-40 <7 \ |
-Enrolloment Lee <= Invoices
-
-3.0
-Eligibility
-Verification
-
-Confirmation
-
-y
-
-Finance
-
-Student Department
---- page 11 ---
-Level-0 DFD (Context Diagram): 2 MARKS
-Represents the entire Student Enrollment System as a single process
-interacting with external entities like Student, Admin, and Finance
-Department.
-Data flows include application submission, payment details, and
-confirmation messages.
-Level-1 DFD: 2 MARKS
-Decomposes the main system into major sub-processes, such as Application
-Submission, Eligibility Verification, Fee Payment, and Enrollment
-Confirmation.
-Introduces data stores like Student Database and Course Catalog to show
-internal data flow.
-Level-2 DFD: 2 MARKS
-Provides detailed decomposition of Level-1 processes.
-For example, Eligibility Verification can be split into Document Check,
-Prerequisite Validation, and Seat Availability Check.
-Similarly, Fee Payment can include Invoice Generation, Payment
-Verification, and Receipt Issuance.
-Successive Level Detailing: 2 MARKS
-Each level adds more functional detail and data flow clarity, breaking down
-complex processes into smaller, manageable tasks.
-Functional Decomposition Benefit: 2 MARKS
---- page 12 ---
-This hierarchical refinement ensures better understanding, simplifies
-design, and helps developers and analysts verify that all system functions
-are captured and logically connected before implementation.
-Q5   [20]
-a   Analyze the influence of data mining and data warehousing on architectural
-decisions in large-scale information systems. How do these concepts guide
-database design at both the architectural and component levels?
-Answer:
-1. Role of Data Mining and Data Warehousing in System Architecture:
-Data warehousing and data mining profoundly shape the architectural
-decisions of large-scale information systems.
-Data Warehousing focuses on the collection, integration, and storage of
-large volumes of historical and transactional data for analysis and decision-
-making.
-Data Mining applies analytical techniques on this data to discover hidden
-patterns, trends, and correlations, supporting strategic business
-intelligence.------------- 2 MARKS
-2. Influence on Architectural Decisions: 4 MARKS
-Separation of Operational and Analytical Workloads:
-Architectural design must distinguish between OLTP (Online Transaction
-Processing) systems handling daily transactions and OLAP (Online
-Analytical Processing) systems for analysis.
-→ This separation ensures performance optimization and prevents
-analytical queries from burdening live systems.
-CO-3;   [10 M]
-Layered and Modular Architecture:
-BL-M   2+4+4
-Large-scale systems adopt multi-layered architectures—data acquisition,
-ETL (Extract-Transform-Load), storage, and presentation layers—to support
-data warehousing and mining effectively.
-→ Enables scalability, maintainability, and easy integration of analytical
-tools.
-Data Integration and Consistency:
-Architectural choices emphasize data normalization, cleansing, and
-transformation to ensure consistent, high-quality data across distributed
-sources before storage in the warehouse.
-3. : 4 MARKS
-Influence on Database Design (Architectural LevelSchema Design (Star and
-Snowflake Models):
-Data warehouses use dimensional modeling to structure data into fact and
-dimension tables for efficient querying and reporting.
-→ Example: Fact table stores sales data; dimension tables store customer,
-product, and time details.
-Data Storage Optimization:
-Large-scale systems use denormalization, indexing, and partitioning to
-speed up analytical queries on massive datasets.
-→ Improves performance for data mining operations.
---- page 13 ---
-Metadata Management:
-Metadata repositories become a crucial architectural element for managing
-data lineage, transformations, and schema evolution.
-Influence on Database Design (Component Level):
-ETL Components:
-Design includes robust ETL pipelines that extract raw data, clean it, and load
-it into the warehouse—supporting accurate data mining.
-Data Staging and Aggregation:
-Intermediate staging areas and data marts are introduced to handle pre-
-processing, aggregation, and summary generation efficiently.
-Data Mining Integration:
-Embedding mining algorithms (e.g., clustering, classification, association
-rules) within the architecture guides the choice of indexing methods, data
-partitioning, and computational resources.
-Overall Impact:
-Data warehousing ensures data availability, reliability, and performance
-for analytics.
-Data mining drives intelligent architectural designs that support predictive
-modeling and decision support systems.
-Together, they transform traditional databases into knowledge-driven,
-scalable architectures capable of supporting real-time analytics and
-business intelligence.
-b Compare Agile and plan-driven approaches in terms of specification
-and delivery, and justify situations where Agile is more effective.
-Specification Approach:
-Plan-driven: Requirements are fully defined upfront before development
-begins.
-Agile: Requirements evolve through continuous user feedback and iterative
-refinement.
-Delivery Cycle:
-Plan-driven: Delivers the complete system at the end of the project.
-Agile: Delivers working software in short, incremental iterations.
-[10 M]
-Flexibility to Change:
-CO-2;   2
-Plan-driven: Limited flexibility—changes are costly once development
-BL-H   marks
-starts.
-each
-Agile: Highly adaptable—welcomes changing requirements even late in
-development.
-Customer Involvement:
-Plan-driven: Involvement mainly during requirement and acceptance
-stages.
-Agile: Continuous customer collaboration throughout the project.
-When Agile is More Effective:
-Agile is ideal for dynamic environments with evolving requirements, rapid
-market changes, or innovative projects where frequent feedback,
-flexibility, and early delivery are critical to success.
-Q6   [20]
---- page 14 ---
-a   Describe the major features of the Scrum methodology and analyze the role
-of backlog and sprint cycles in managing change
-FROM TEXT BOOK-
-Major Features of Scrum Methodology – 5 Marks
-Scrum emphasizes the use of software process patterns that enable a team to
-manage complex projects through an iterative approach. Its major features
-include:
-Small, Self-Organizing Teams: Scrum relies on small, highly motivated
-project teams that are in control of their own work and foster heavy
-collaboration.
-Iterative Development: Work is partitioned into "packets" that are tackled
-in short, fixed-duration cycles.
-Minimal Work Products: The process focuses on delivering operational
-software increments rather than comprehensive documentation.
-Process Patterns: Scrum uses specific activities and roles to ensure
-progress, such as:
-Backlog: A prioritized list of project requirements or features that provide
-business value for the customer.
-Sprints: Work units consisting of a specific set of backlog items that must
-be completed within a pre-defined time-box (typically 30 days).
-Scrum Meetings: Short daily meetings (often 15 minutes) where the team
-coordinates activities, assesses progress, and identifies obstacles.
-Demos: Delivering the software increment to the customer so that
-functionality can be demonstrated and evaluated.
-CO-2;   [10 M]
-Role of Backlog and Sprint Cycles in Managing Change – 5 marks
-BL-M   5+5
-Backlogs and sprint cycles are fundamental to Scrum’s ability to "embrace"
-and manage change effectively during a project:
-Dynamic Requirement Management (Backlog): The backlog is not a static
-document; it is a prioritized list that can be updated as new requirements
-emerge or business priorities shift. This allows the team to respond to change
-rather than strictly following a rigid, initial plan.
-Controlled Work Environments (Sprints): While the backlog is dynamic, the
-sprint provides stability. Once a sprint begins, the items being worked on are
-frozen; no changes are introduced until the next sprint cycle. This ensures
-that the team can complete a functional increment without being disrupted by
-constant mid-cycle "feature creep".
-Continuous Feedback Loops: Because each sprint cycle ends with a demo
-to the stakeholders, the team receives immediate feedback. This feedback
-can then be used to update the backlog, ensuring that the next sprint cycle
-incorporates any necessary changes or refinements requested by the
-customer.
-FROM Reference material -
-1. Major Features of the Scrum Methodology: 5m
-Iterative and Incremental Development:
-Work is divided into short, time-boxed iterations called sprints (usually 2–4
-weeks) to deliver working product increments frequently.
-Defined Roles:
-Scrum defines three primary roles — Product Owner (manages
---- page 15 ---
-requirements), Scrum Master (facilitates the process), and Development
-Team (builds the product).
-Empirical Process Control:
-Scrum relies on transparency, inspection, and adaptation to manage
-progress and handle uncertainty effectively.
-Regular Ceremonies:
-Core events include Sprint Planning, Daily Scrum, Sprint Review, and
-Retrospective to ensure communication, accountability, and continuous
-improvement.
-Working Software as Progress Measure:
-Success is judged by the delivery of functional product increments, not by
-documentation or percentage completion.
-2. Role of Backlog and Sprint Cycles in Managing Change: 5m
-Product Backlog – Dynamic Requirement Management:
-The Product Backlog contains prioritized user stories and features. It
-evolves continuously based on stakeholder feedback and changing business
-needs. This flexibility ensures Scrum can quickly respond to changes.
-Sprint Backlog – Short-Term Focus:
-At the start of each sprint, the team selects items from the Product Backlog
-to form a Sprint Backlog, focusing only on achievable goals for that sprint,
-thus limiting change within the sprint duration.
-Sprint Cycles – Iterative Adaptation:
-After each sprint, reviews and retrospectives provide opportunities to
-incorporate feedback and reprioritize work, adapting to new
-requirements or market shifts.
-Change Control through Timeboxing:
-Changes are deferred to the next sprint, ensuring stability within the
-current iteration while allowing adaptability between sprints.
-Continuous Value Delivery:
-By combining backlog refinement and iterative sprint cycles, Scrum allows
-teams to deliver incremental value, adapt to evolving requirements, and
-continuously align with customer expectations.
-b   Discuss which ISO 9126 characteristic—efficiency, maintainability, or
-portability—should be prioritized for government-grade cybersecurity
-systems and justify your reasoning.
-Answer
-Prioritize: Maintainability — for government-grade cybersecurity systems,
-the ability to rapidly patch, harden, and adapt to emerging threats
-CO-4;   [10 M]
-outweighs raw efficiency or broad portability.
-BL-L   3+3+4
-Why maintainability first
-Rapid vulnerability response: High maintainability (clean modular design,
-clear interfaces, strong CI/CD, IaC) enables fast patching and hotfix
-rollout, shrinking exposure windows during zero-days and APT incidents.
-Secure configuration at scale: Maintainable systems support policy-as-
-code, repeatable hardening baselines, and auditable change control—core
-to compliance (e.g., STIGs, CIS benchmarks).
---- page 16 ---
-Lower defect density over time: Refactorable codebases and strong test
-coverage reduce regression risk when introducing new crypto suites, auth
-flows, or telemetry. -----3m
-Where efficiency fits
-Second priority: Crypto, packet processing, and analytics need predictable
-latency and throughput (e.g., for real-time detection, deep packet
-inspection). Optimize critical paths while preserving testability—avoid
-“performance hacks” that erode clarity and security.
-Where portability fits
-Third priority (contextual): Useful for multi-domain deployments (on-
-prem, air-gapped, sovereign clouds) and hardware refresh cycles. But
-excessive abstraction for portability can increase attack surface and
-operational complexity; keep it intentional (e.g., portable cryptographic
-backends, OS-agnostic agents) without compromising maintainability.----3m
-Practical rubric (prioritized controls)
-Maintainability: MTTR for security patches, % code with unit/integration
-tests, change-failure rate, config drift metrics.
-Efficiency: P95 latency under load, CPU/memory per secured connection,
-throughput with modern ciphers.
-Portability: # of certified target platforms, build reproducibility,
-dependency isolation (SBOM, container provenance). --- 4m
-Q7   [20]
-a   Design a labeled state transition diagram for following problem statement.
-“A university library wants to automate the process of book lending through
-a Library Management System. The system should manage the complete
-life cycle of a BookCopy object (an individual copy of a book), tracking how
-its state changes as it is issued, returned, or reserved by users. Initially,
-every BookCopy in the library flagged as Available, meaning it can be
-borrowed by any registered member. When a Member places a hold
-request for a BookCopy, its marked as Reserved. While in this state, the
-book cannot be borrowed by anyone else. If the member fails to collect the
-book within the allowed reservation period(15 days), the system
-automatically changes its state back to Available. When a reserved book is
-collected or directly borrowed (without reservation), its flagged as Issued.
-During this state, the system tracks the issue date and due date. If the
-CO-3;
-member returns the book on or before the due date, the state moves back   [10 M]
-BL-H
-to Available. However, if the member fails to return the book by the due
-date, the system marks it as Overdue. Once an overdue book is returned,
-the system calculates a fine, records payment, and changes its flag back to
-Available.”
---- page 17 ---
-5 marks for state, 5 marks for labelled message
-b Judge whether adopting CMMI processes necessarily guarantees higher
-software quality or whether contextual organizational factors play a greater
-role—support your argument.
-Here’s a critical evaluation-based answer:
-Answer:
-Adopting CMMI (Capability Maturity Model Integration) processes does
-not automatically guarantee higher software quality. While CMMI
-provides a structured framework for process improvement, the
-organizational context, culture, and leadership commitment largely
-determine its effectiveness.
-Framework vs. Implementation Reality:
-CMMI defines what to improve (process maturity) but not how to
-implement it effectively. Without genuine adoption, it can become a   [10 M]
-checklist exercise that adds bureaucracy rather than value.   2
-CO-4;
-Cultural and Human Factors:   marks
-BL-H
-Organizational culture—communication, collaboration, and learning—plays   each
-a greater role. Teams that embrace continuous improvement and open   point
-feedback achieve better quality, even with minimal formal structure.
-Domain and Size Dependency:
-In dynamic domains like startups or agile environments, rigid CMMI
-processes may reduce responsiveness, while in large, regulated projects
-(e.g., defense, aerospace), CMMI ensures consistency and compliance.
-Leadership and Quality Mindset:
-Success depends on management commitment to quality as a philosophy,
-not just certification. Quality arises from empowering teams, not merely
-following documented procedures.
-Balanced Integration:
-The best outcomes occur when CMMI is blended with adaptive practices
-(like Agile) and tailored to organizational maturity—ensuring processes
-remain flexible, efficient, and people-focused.
-````
-
 ## 2024-25 · Re-Exam · Sem 2 · Answer key · paper e8c5b25a4f43
 
 - Departments: Computer Applications (MCA)
@@ -8272,6 +8731,24 @@ Advantages of Agile model
 • Strong communication of the software team with the customer’
 • Little planning require(more focus on design and development)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Flow-oriented
+elements
+
+Data flow diagrams
+Control flow diagrams
+Processing narratives
+
+Analysis Model
+
+Class-based
+elements
+
+Class diagrams
+Analysis packages
+CRC models
+Collaboration diagrams
 --- page 3 ---
 • Efficient design and fulfils the business requirement.
 • Anytime changes are acceptable.
@@ -8337,6 +8814,25 @@ User interface design begins with the identification of user, task,
 and environmental requirements. Once user tasks have been
 identified, user scenarios are created and analyzed to define a set of
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+client client
+
+software software
+
+client client
+
+software \ / software
+Data store
+(repository or
+
+i client
+
+client Hack board) sofware
+software
+
+client client
+software software
 --- page 5 ---
 interface objects and actions.
 These form the basis for the creation of screen layouts that depict

@@ -32,6 +32,19 @@ Instructions:
 a.   8
 b.   7
 Page 1 of 7
+
+[Text in pictures on this page, read by OCR]
+8 marks
+
+A) As per AS 4 the date of approval for issue of financial statements is the date on
+which the financial statements are approved by the Board of Directors in case of a company,
+and, by the corresponding approving authority in case of any other entity. Accordingly,
+in the instant case, the date of approval is the date on which the financial statements are
+approved by the Board of Directors of the company, i.e., June 19, 2025.
+
+In the case of an entity is a partnership firm, the date of approval will be the date when
+the relevant approving authority of such entity approves the financial statements for issue
+ie. the date when the partner(s) of the firm approve(s) the financial statements.
 --- page 2 ---
 7 marks
 
@@ -95,6 +108,37 @@ Balance (₹)   4% (₹)   (₹)   (₹)   Balance (₹)
 30.6.2024   4,00,000   16,000 4,16,000   2,16,000   2,00,000
 31.12.2024   2,00,000   8,000 2,08,000   2,08,000   Nil
 Page 3 of 7
+
+[Text in pictures on this page, read by OCR]
+Profit and loss Account 3S marks
+
+Dr. Amount (2) Cr. Amount (2)
+To Salaries 20,000 | Gross Profit b/d 68,000
+To Sales & distribution exp 29,000
+ToNewRDD = 2,500
+Leas:QldRDD 2,000 500
+To Deprecation on 1,600
+furniture
+To Net Profit transferred to 16,900
+Capital A’c
+68,000 68,000
+Balance sheet as on 31“ march 2024 7 marks
+Liabilities Amount Assets Amount
+@ @
+Capital 1,29,000 Machinery 1,00,000 95,000
+Add: Net profit 16,900} 1,45,900 | Less-Dep @5% 5,000
+Sundry Creditors 90,000 | Furniture 32,000 30,400
+Bills payable 10,000 | Less: Dep@5% 1,600
+O'S power &fuel 2,000
+Sundry Debtors 50,000
+Less: RDD@5% 2,500 47,500
+Closing Stock —
+Raw material 20,000
+WIP 6,000
+Finished Goods 39,000
+Cash at Bank 10,000
+
+247,900 247,900
 --- page 4 ---
 Machinery Account ( 5 marks )
 Date   Particulars   Amount   Date   Particulars   Amount
@@ -235,6 +279,25 @@ Instructions:
 a.   8
 b.   7
 Page 1 of 7
+
+[Text in pictures on this page, read by OCR]
+o marks
+
+A) AS 4 (Revised) “Contingencies and Events Occurring after the Balance Sheet Date”, states
+that adjustments to assets and liabilities are not appropriate for events occurring after the
+balance sheet date, if such events do not relate to conditions existing at the balance sheet date.
+The destruction of warehouse due to earthquake did not exist on the balance sheet date i.e.
+31.3.2025. Therefore, loss occurred due to earthquake is not to be recognized in the financial
+year 2024-2025.
+
+However, according to the standard, unusual changes affecting the existence or substratum of
+the enterprise after the balance sheet date may indicate a need to consider the use of fundamental
+accounting assumption of going concern in the preparation of the financial statements. As per
+the information given in the question, the earthquake has caused major destruction; therefore,
+fundamental accounting assumption of going concern would have to be evaluated. Considering
+that the going concern assumption is still valid, the fact of earthquake together with an estimated
+loss of Rs. 60 lakhs should be disclosed in the report of the approving authority for financial year
+2024-2025 to enable users of financial statements to make proper evaluations and decisions’
 --- page 2 ---
 7 marks
 
@@ -288,6 +351,57 @@ Date   Opening   Interest   Total   Instalment   Closing
 Balance (₹)   @12% (₹)   (₹)   (₹)   Balance (₹)
 31/12/2023   3,60,000   43,200 4,03,200   1,63,200   2,40,000
 Page 3 of 7
+
+[Text in pictures on this page, read by OCR]
+Profit and loss Account 4 marks
+
+Dr. Amount (2) Cr. Amount (%)
+
+To salaries 21,300 | Grogs Profit b/d 23,600
+
+To carriage outward 500 | By discount reed, 400
+
+To Office rent 4,600 | By bad debts 1,200
+Tecovery
+
+To Printing & stationary $00 | By net loss od $,650
+
+To postage $00
+
+To insurance 700
+
+Les: prepaid 300 400
+
+To Advertisement 4,000
+
+To Bad debts ——
+
+Add: New Bad debts 600
+Add: New RDD 1,000
+
+Less:O]d RDD 400 1,200
+To Deprecation on 250
+furniture
+33,850 33,850
+Balance sheet as on 31" December,2023 4 marks
+Liabilities Amount Assets Amount
+® @
+Capital 1,00,000 Machinery 25,000 20,000
+Less: Net loss $,650 LessDep @20% 3,000
+Less: Drawings 16,000 75,350
+Sundry Creditors 10,000 | Furniture 5,000 4,750
+Less: Dep? 250
+Sundry Debtors 20,600
+Less: Further Bad Debts 600
+Less: RDD@3% 1,000 19,000
+Closing Stock —
+Raw material 2,000
+WIP 8.000
+Finished Goods 4,600
+Prepaid insurance 300
+Cash at Bank 26,700
+
+85,350 85,350
 --- page 4 ---
 31/12/2024   2,40,000   28,800 2,68,800   1,48,800   1,20,000
 31/12/2025   1,20,000   14,400 1,34,400   1,34,400   0

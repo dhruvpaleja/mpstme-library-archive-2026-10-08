@@ -50,6 +50,38 @@ Q3b
 (3m AB member, 3m BC member, 4m CD member)
 Q4a
 Calculation of linear and lateral strain 1 m, and for µ, E, G, and K 2 m each
+
+[Text in pictures on this page, read by OCR]
+Values of three moduli
+
+30° = 706.9 mm?
+
+Data Given Area of the bar (A) = “x d
+;
+
+;
+Extension of the bar (/) =2L
+aE
+
+Diameter (d) = 30 mm
+
+60 x 103x200 17 x 103
+Pull (P) = 60 x 10° = 0.09 = SHIH = xP
+‘J
+Young"s modulus (E) =17*10_— 1 g8.9 x 19° N/mm?
+length (2) = 200 mm_ extension (8/)=0.09mm .   .. .. ba
+change in diameter (8d) = 0.0039 mm .
+From Poisson’s ratio, we get m=_1_ = 3.46
+0289
+Poisson" ratio (1) Modulus of rigidity (C)= 2c 188910 a3 5 Nine?
+m 21 Yow 2x (140.289) 109
+0.00045 >.
+E 188.9x10° 5 a
+“—— = 0.00013 Bulk modulus (K)= +3 ——__= 149.2 « 10° Nimm’
+3c ) 3x (1 — 0.289)
+9.00013 _ 9.9g9
+
+0.00045
 --- page 4 ---
 Q4b
 (Calculation of y 2m,   at flange bottom-2 m,   at web
@@ -58,6 +90,73 @@ Q5a
 Q5b
 (2 m My and Mx and 2 m for Ix and Iy, 1 m each for stress at
 point A, B , C , D, stress diagram 2 m)
+
+[Text in pictures on this page, read by OCR]
+Gi) Resultant stress at point B
+At point B,x= 150mm and y =~ 200mm
+x150 | Mf, x {-200)
+
+Bg RIO Myx 200,
+Resultant stress at B= + 2 iar
+
+360,000 150 _ 36000000 x 200
+“a2x10°" 9x10" 16=10"
+=B+45-45
+= 3 Nimm* (compressive). Ans.
+
+(ii) Resultant stress at point A
+
+At point A, x =— 150 mm and y=
+
+Sete et
+
+200 mm
+
+PB. ae 150) | Mf, x(- 200)
+a i;
+
+360000 _ 27000000 = 150 _ 36000000 x 200
+“ax10* 9 10" 46 10
+=8-45-45
+Nimm? (Tensile). Ans.
+Gv) Resultant stress at point D
+At point D, x = — 150 mm and y = 200 mm
++ Resultant stress at point D
+P M¥-150) _ Mf, x 200
+
+ig Sk ee BOs
+a i Es
+
+360000 _ 27000000 = 150 | 36000000 x 200
+“a2x10"” 8x10" 6 x10"
+=3-45+45
+
+= 3 Nimm® (compressive). Ans.
+
+Moment of load about xa axis,
+MM, = Pxe, = 960000 100 = 36000000 Ninm
+
+‘Moment of iosd about y-y axis,
+M, =P xe, = 360000 x 75
+= 27000000 Nim
+Also te = > +800 x 4008 = 16x 10% mm
+1, y= X00 800 = 9 x 10° mrt
+
+‘The resultant stress at any point is given by equation (9.3) as
+P Myxx Moxy
+
+Resultant stress =att
+
+we Ley
+(@) Resultant stress at point C
+At point C, x = 160 mm and y = 200 m
+2. Resultant atross at C
+oP I 200
+iy se
+360000 | 27000000 x 150 , 36000000 x 200
+*qox10 9x10" 16x 10°
+23445445 Ninn?
+= 12 Nim? (compressive). Ans.
 --- page 5 ---
 Graphical Method
 Mohr’s Circle
@@ -186,6 +285,22 @@ Bending Moment (BM)
 • Causes bending of the beam.
 c. Torsion in Circular Shafts   [4]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Determination of Stress and Load in Each Member
+
+Steps
+When a composite bar is subjected to axial load: «® Use Hooke’s law: o- Ec
+Key Conditions
+1. Equal deformation condition (compatibility): = Since strain is came: 1 _ a
+All materials experience the same strain E, Es»
+fpmeo=e
+2, Equilibrium condition: * load carried by each member:
+
+Total load is shared by members
+Pi =o,A;, Py = ogAo
+
+P=P,+Ps
 --- page 2 ---
 Definition: Torsion is the twisting of a circular shaft due to an applied torque.
 Engineering Applications:
@@ -695,6 +810,36 @@ longitudinal strain within the elastic limit.
 4. Modulus of Rigidity (Shear Modulus, G)
 Modulus of rigidity is the ratio of shear stress to shear strain within the elastic limit.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Sol. Given :
+
+Ultimate stress, = 480 N/mm?
+Axial load, - 4 P=1.9MN=1.9x 10°N
+¢ = 1900000 N
+External dia., D=200 mm
+Factor of safety =4
+Let d = Internal diameter in mm
+
+Area of cross-section of the column,
+= (D-a)= = (200— a) mm?
+Using equation (1.7), we get
+
+Ultimate stress
+Mactor ol:satety ~ Working stress or Permissible stress
+_ 480
+~ Working stress
+~ Working stress = a = 120 N/mm?
+~ o = 120 N/mm?
+Now using equation (1.1), we get
+P 1900000 1900000 x 4
+o= A or 120= = 5
+$ (200° -~d?) ™(40000 - d*)
+40000 — a2 = 19000004 _ s91596
+xx 120
+
+d? = 40000 — 20159.6 = 19840.4
+d= 140.85 mm. Ans.
 ````
 
 ## 2025-26 · Final-Exam · Sem 8 · Answer key · paper 6ae043350559
@@ -736,6 +881,22 @@ Bending Moment (BM)
 • Causes bending of the beam.
 c. Torsion in Circular Shafts   [4]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Determination of Stress and Load in Each Member
+
+Steps
+When a composite bar is subjected to axial load: «® Use Hooke’s law: o- Ec
+Key Conditions
+1. Equal deformation condition (compatibility): = Since strain is came: 1 _ a
+All materials experience the same strain E, Es»
+fpmeo=e
+2, Equilibrium condition: * load carried by each member:
+
+Total load is shared by members
+Pi =o,A;, Py = ogAo
+
+P=P,+Ps
 --- page 2 ---
 Definition: Torsion is the twisting of a circular shaft due to an applied torque.
 Engineering Applications:
@@ -1245,6 +1406,36 @@ longitudinal strain within the elastic limit.
 4. Modulus of Rigidity (Shear Modulus, G)
 Modulus of rigidity is the ratio of shear stress to shear strain within the elastic limit.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Sol. Given :
+
+Ultimate stress, = 480 N/mm?
+Axial load, - 4 P=1.9MN=1.9x 10°N
+¢ = 1900000 N
+External dia., D=200 mm
+Factor of safety =4
+Let d = Internal diameter in mm
+
+Area of cross-section of the column,
+= (D-a)= = (200— a) mm?
+Using equation (1.7), we get
+
+Ultimate stress
+Mactor ol:satety ~ Working stress or Permissible stress
+_ 480
+~ Working stress
+~ Working stress = a = 120 N/mm?
+~ o = 120 N/mm?
+Now using equation (1.1), we get
+P 1900000 1900000 x 4
+o= A or 120= = 5
+$ (200° -~d?) ™(40000 - d*)
+40000 — a2 = 19000004 _ s91596
+xx 120
+
+d? = 40000 — 20159.6 = 19840.4
+d= 140.85 mm. Ans.
 ````
 
 ## 2025-26 · Re-Exam · Sem 3 · Answer key · paper 38fb11b8a74b
@@ -1254,6 +1445,7 @@ Modulus of rigidity is the ratio of shear stress to shear strain within the elas
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_Civil_7005/Strength of Materials/ANS_Strength of Materials(702CI0C028)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 Feb 2026
 - Text: mixed (6 pages), mean OCR confidence 58.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -1293,6 +1485,29 @@ Q2
 b
 (SFD - 3.5 m BMD 3.5 m calculation 3 m)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Typical tensile test curve for mild stee! showing upper yield point
+and lower yield point and also the elastic range and plastic range
+
+Given:
+
+
+L100 cm = 1000 mm
+
+P, == 60 KN = 60,000 N; (Load on pat AB) x L, (Load on par BC) x Ly
+
+- Total Elongation, L =, + AE
+P, = 500 KN = 5,00,000 N
+_ (eon par)
+
+P, = 1S0KN = 1,50,000 N; E = 2.1 « 10° Nima’ ASE
+Tofind: ue 60.x:10°x 1400 sha 010x109
+LSet (80x21 10° * 3000x2110" * 140021 x 10°
+
+(= 0m]
+
+2. Total Elongation, 8
 --- page 3 ---
 Q3
 a
@@ -1309,6 +1524,28 @@ b
 (Calculation of I – 1m, Sf – 2 m, w – 1 m, Ʈ at flange bottom -2 m, Ʈ at web bottom -2 m,
 stress dia -2 m)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+T= LAY atop neato
+T
+
+T= “£2 at top flange at point b = 110 mm
+
+_ 250679.6 x (110 x 10)x 145 - 5.63 N/mm2
+
+~ 64.56 x 10%x 110
+
+= SLAY attop web at point ¢= 10mm
+T= "5
+
+T= 250679.6 x (110 x 10)x 145 - 61.63 N/mm2
+= eo
+64.56 x 10°x 10
+
+Raw nes
+
+— S£AY ata =100N/mm2 given in data
+T="
 --- page 4 ---
 Q5
 a
@@ -1320,6 +1557,47 @@ Q6
 a
 (5 m analytical and 5 m graqphical)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+= tem = 50 N/m
+
+\
+
+op, 2 OG = 8.7 x 50 = 435 N/mm? (1)
+
+Og = OH = 2.3 x 50 = 115 N/mm?
+
+Tmax = CC’ = 3.2 x 50 = 160 N/mm?
+2x, = ZAC A= 38°
+
+«,=19°
+
+=<, +90°
+
+= 19° + 90° = 109°
+
+G) At point A, x =~ 2.0 m and y =— 15 m, Hence resultant stress at A (ie, 04) is
+obtained by substituting these values ir: the above equation (i).
+80 | BOx(-2.0) | 40x (1.5)
+Rn 9
+= 6.66 - 10-666
+=-10 KNim* (Tensile). Ans.
+(ii) A point B, x = 2.0 m andy =— 15 m, Hence resultant stress at B (ie., op) is obtained
+by substituting these values in equation (i),
+7, = 894 8020 , 40x (- 1.5)
+oe
+= 6.66 + 10- 6.66
+= 10 kNim* (Compressive), Ans.
+(éi2) At paint C, x = 2.0 m and y » 1.6 m. Hence resultant stress at C (i.e, o-) is given by,
+80 | 8*20 | 40%15
+ee" a 16 .
+= 6.66 4 10 + 6.65
+= 23.35 kNim* (Compressive), Ans,
+fiv) At point D, x =~ 2.0 m andy = 1.5 m. Hence resultant stress at D (i.e,, op) is given by,
+9 = 0, BOK 20) | 40 25
+8 Be 9
+
+=
 --- page 5 ---
 Q6
 b
@@ -1333,6 +1611,22 @@ For stiffness,   => J = 15.756 x 106 mm4 (2.5m)
 D = 112.55 mm (1 m)
 Therefore greater value of D = 112.55 mm Ans   (1m)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Analytical
+
+gq = 182 4 1-98 cog 20 + rain 28 a Method
+2 2 Mohr’s Circle
+= a8, OE aos 140" + 0 SCALE tem=10N/mm?
+= 10 - 30.64
+sin2@ - t cos20 —
+94,9 ¢ A x
+22 sin 140°-0 o 7
+9, = Yon +0¢ 0, # 09-21 x10 +21 Nin? (tensile) :. measured on left side
+
+= y(-20.64)' + (25.71) o, =PQ= 26x 10= 28 Wn (aap)
+[= 32.96 w/mm? | 6, = OP = 3.3.x 10 = 33 N/mm
+eee (Note : + In this example, we have considered comp. + and tension -)
 --- page 6 ---
 Q7
 
@@ -1383,6 +1677,31 @@ Neutral Axis
 •   It is the axis in a beam cross-section where stress is zero during bending.
 •   Fibers above it are in compression, below it in tension.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Modulus of Elasticity (Young’s Modulus) Bulk Modulus
+
+It is the ratio of normal stress to corresponding strain It is the ratio of volumetric stress to volumetric strain.
+within the elastic limit. .
+o Volumetric stress
+E- = Volumetric strain
+¢ Measures stiffness of a material « Indicates resistance to uniform compression
+
+© Unit: Pascal (Pa) © Unit: Pascal (Pa)
+
+Flexure Formula
+The bending equation is:
+
+M_ca_E
+I y R
+
+Where:
+e M = bending moment
+e I = moment of inertia
+© o = bending stress
+* y= distance from neutral axis
+e E = Young's modulus
+e R = radius of curvature
 --- page 2 ---
 C. | Aspect Solid Shaft Hollow Shaft [4]
 
@@ -1989,6 +2308,60 @@ strain.
 σ=Eε
 Here:
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Axial pull, P = 35000N
+Length of section 1, L, = 20cm = 200 mm
+Dia. of section 1, D, = 2cm= 20mm
+
+-. Area of section], A, = ; (202) = 100 t mm?
+
+Length of section 2, L, = 25cm = 250 mm
+Dia. of section 2, D, = 3 cm = 30 mm
+. Area of section 2, A, = H (302) = 225 xm
+Length of section 3, L, = 22cm= 220mm
+Dia. of section 3, D; = 5cm=50mm
+
+Tt
+.. Area of section 3, A, = 4 (50?) = 625 x mm?
+
+Young’s modulus, E = 2.1.x 10° N/mm?.
+(i) Stresses in each section
+
+. : Axial load
+Stress in section 1, oo, = ————
+ess ils A Area of section 1
+P _ 35000
+= —=—_ = 2 5
+A, 100" 111.408 N/mm?. Ans.
+Stress in section 2, 6, = 7 = ae. = 49.5146 N/mm?, Ans.
+5 2 P _ 35000
+Stress in section 3, 03 = A "EKn = 17.825 N/mm?, Ans.
+(ii) Total extension of the bar
+Using equation (1.8), we get
+Total extension = Z Libis
+E\A, A, A;
+
+_ 35000 (2 4 250 220
+2.1x10°|\100n 225xn 625xn
+
+_ 35000
+= Fix iok (6-366 + 3.536 + 1.120) = 0.183 mm.
+
+Difference Between Stress and Strain
+
+Aspect Stress Strain
+
+Definition Internal resisting force per unit area Deformation per unit original dimension
+Symbol o é€
+
+Formula o= £ é= ab
+
+Unit Pascal (Pa) or N/m? Dimensionless (no unit)
+
+Nature Cause (applied force effect) Effect (resulting deformation)
+
+Types Tensile, compressive, shear Tensile, compressive, shear
 ````
 
 ## 2025-26 · Re-Exam · Sem 8 · Answer key · paper c71382bf9651
@@ -2025,6 +2398,31 @@ Neutral Axis
 •   It is the axis in a beam cross-section where stress is zero during bending.
 •   Fibers above it are in compression, below it in tension.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Modulus of Elasticity (Young’s Modulus) Bulk Modulus
+
+It is the ratio of normal stress to corresponding strain It is the ratio of volumetric stress to volumetric strain.
+within the elastic limit. .
+o Volumetric stress
+E- = Volumetric strain
+¢ Measures stiffness of a material « Indicates resistance to uniform compression
+
+© Unit: Pascal (Pa) © Unit: Pascal (Pa)
+
+Flexure Formula
+The bending equation is:
+
+M_ca_E
+I y R
+
+Where:
+e M = bending moment
+e I = moment of inertia
+© o = bending stress
+* y= distance from neutral axis
+e E = Young's modulus
+e R = radius of curvature
 --- page 2 ---
 C. | Aspect Solid Shaft Hollow Shaft [4]
 
@@ -2631,4 +3029,58 @@ strain.
 σ=Eε
 Here:
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Axial pull, P = 35000N
+Length of section 1, L, = 20cm = 200 mm
+Dia. of section 1, D, = 2cm= 20mm
+
+-. Area of section], A, = ; (202) = 100 t mm?
+
+Length of section 2, L, = 25cm = 250 mm
+Dia. of section 2, D, = 3 cm = 30 mm
+. Area of section 2, A, = H (302) = 225 xm
+Length of section 3, L, = 22cm= 220mm
+Dia. of section 3, D; = 5cm=50mm
+
+Tt
+.. Area of section 3, A, = 4 (50?) = 625 x mm?
+
+Young’s modulus, E = 2.1.x 10° N/mm?.
+(i) Stresses in each section
+
+. : Axial load
+Stress in section 1, oo, = ————
+ess ils A Area of section 1
+P _ 35000
+= —=—_ = 2 5
+A, 100" 111.408 N/mm?. Ans.
+Stress in section 2, 6, = 7 = ae. = 49.5146 N/mm?, Ans.
+5 2 P _ 35000
+Stress in section 3, 03 = A "EKn = 17.825 N/mm?, Ans.
+(ii) Total extension of the bar
+Using equation (1.8), we get
+Total extension = Z Libis
+E\A, A, A;
+
+_ 35000 (2 4 250 220
+2.1x10°|\100n 225xn 625xn
+
+_ 35000
+= Fix iok (6-366 + 3.536 + 1.120) = 0.183 mm.
+
+Difference Between Stress and Strain
+
+Aspect Stress Strain
+
+Definition Internal resisting force per unit area Deformation per unit original dimension
+Symbol o é€
+
+Formula o= £ é= ab
+
+Unit Pascal (Pa) or N/m? Dimensionless (no unit)
+
+Nature Cause (applied force effect) Effect (resulting deformation)
+
+Types Tensile, compressive, shear Tensile, compressive, shear
 ````

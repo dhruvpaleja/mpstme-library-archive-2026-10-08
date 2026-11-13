@@ -338,6 +338,38 @@ Q7
 CO-3; BL-H
 Example (5M) – Need to show divide and merge steps.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Example : Merge sort (Recursive)
+
+1 Algorithm MergeSort(low, high)
+
+2 // allow : high] is a global array to be sorted.
+
+3. // Small(P) is true if there is only one element
+4   // to sort. In this case the list is already sorted.
+
+5
+6 if (low < high) then // If there are more than one element
+7
+
+8 // Divide P into subproblems.
+
+9 // Find where to split the set.
+
+10 mid := |(low + high)/2];
+
+ll // Solve the subproblems.
+
+12 MergeSort(low, mid);
+
+13 MergeSort(mid + 1, high);
+
+14 // Combine the solutions.
+
+15 Merge(low, mid, high);
+
+16
 --- page 11 ---
 Complexity Analysis (1M)
 Complexity : worst case – O(n log n)
@@ -354,6 +386,19 @@ Formation and use of binary tree to make code – 4M
 Finding length of message after coding and comparison with original – 2M
 CO-4; BL-L   [10]
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Example:
+310, 285, 179, 652, 351, 423, 861, 254, 450, 520
+Solution : 179, 254, 285, 310, 351, 423, 450, 520, 652, 861
+
+Ee)
+
+oy xT
+oz) es) eS] RL)
+one é
+
+ees eat
 --- page 12 ---
 
 ````
@@ -8722,6 +8767,21 @@ weighted path length of a binary tree).
 0   1   0   1
 J(40)   ● (46)   ● (56)   ● (69)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+12 +12 mod 10 = 2. Index 2 empty — place 12 at 2.
+18 — 18 mod 10 = 8. Index 8 empty — place 18 at 8.
+
+. 13 + 13 mod 10 = 3. Index 3 empty = place 13 at 3.
+
+2-2 mod 10 = 2. Index 2 occupied — probe 3 (occupied) — probe 4 empty — place 2 at 4.
+3 — 3 mod 10 = 3.3 occupied — probe 4 (occ) — probe 5 empty = place 3 at 5.
+
+23 — 23 mod 10 = 3.3,4,5 occupied — probe 6 empty — place 23 at 6.
+
+5 —5 mod 10 — 5.5 occupied — probe 6 (occ) — probe 7 empty — place 5 at 7.
+
+15 + 15 mod 10 = 5. 5,6,7,8 occupied > probe 9 empty — place 15 at 9.
 --- page 3 ---
 ┌──┴───┐ ┌──┴───┐ ┌────┴────┐
 0   1   0   1   0   1
@@ -8997,6 +9057,20 @@ Evaluate B @ A.
 Place the result of (b) back on STACK
 [End of If structure]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+SMALLEST (ARR, K, N, POS) SELECTION SORT(ARR, N)
+
+Step 1: [INITIALIZE] SET SMALL = ARR[K] Step 1: Repeat Steps 2 and 3 for K=1
+Step 2: [INITIALIZE] SET POS = K to Nel
+Step 3: Repeat for J = K4l to N-1 Step 2: CALL SMALLEST(ARR, K, N, POS)
+IF SMALL > ARR[J] Step 3: SWAP A[K] with ARR[POS)
+SET SMALL = ARR[J] [END OF LOOP]
+SET POS = J Step 4: EXIT
+[END OF IF]
+[END OF LOOP]
+
+Step 4: RETURN POS
 --- page 11 ---
 [End of Step 2 loop]
 Set VALUE equal to the top element on STACK.
@@ -9309,6 +9383,21 @@ weighted path length of a binary tree).
 0   1   0   1
 J(40)   ● (46)   ● (56)   ● (69)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+12 +12 mod 10 = 2. Index 2 empty — place 12 at 2.
+18 — 18 mod 10 = 8. Index 8 empty — place 18 at 8.
+
+. 13 + 13 mod 10 = 3. Index 3 empty = place 13 at 3.
+
+2-2 mod 10 = 2. Index 2 occupied — probe 3 (occupied) — probe 4 empty — place 2 at 4.
+3 — 3 mod 10 = 3.3 occupied — probe 4 (occ) — probe 5 empty = place 3 at 5.
+
+23 — 23 mod 10 = 3.3,4,5 occupied — probe 6 empty — place 23 at 6.
+
+5 —5 mod 10 — 5.5 occupied — probe 6 (occ) — probe 7 empty — place 5 at 7.
+
+15 + 15 mod 10 = 5. 5,6,7,8 occupied > probe 9 empty — place 15 at 9.
 --- page 3 ---
 ┌──┴───┐ ┌──┴───┐ ┌────┴────┐
 0   1   0   1   0   1
@@ -9584,6 +9673,20 @@ Evaluate B @ A.
 Place the result of (b) back on STACK
 [End of If structure]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+SMALLEST (ARR, K, N, POS) SELECTION SORT(ARR, N)
+
+Step 1: [INITIALIZE] SET SMALL = ARR[K] Step 1: Repeat Steps 2 and 3 for K=1
+Step 2: [INITIALIZE] SET POS = K to Nel
+Step 3: Repeat for J = K4l to N-1 Step 2: CALL SMALLEST(ARR, K, N, POS)
+IF SMALL > ARR[J] Step 3: SWAP A[K] with ARR[POS)
+SET SMALL = ARR[J] [END OF LOOP]
+SET POS = J Step 4: EXIT
+[END OF IF]
+[END OF LOOP]
+
+Step 4: RETURN POS
 --- page 11 ---
 [End of Step 2 loop]
 Set VALUE equal to the top element on STACK.
@@ -9896,6 +9999,21 @@ weighted path length of a binary tree).
 0   1   0   1
 J(40)   ● (46)   ● (56)   ● (69)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+12 +12 mod 10 = 2. Index 2 empty — place 12 at 2.
+18 — 18 mod 10 = 8. Index 8 empty — place 18 at 8.
+
+. 13 + 13 mod 10 = 3. Index 3 empty = place 13 at 3.
+
+2-2 mod 10 = 2. Index 2 occupied — probe 3 (occupied) — probe 4 empty — place 2 at 4.
+3 — 3 mod 10 = 3.3 occupied — probe 4 (occ) — probe 5 empty = place 3 at 5.
+
+23 — 23 mod 10 = 3.3,4,5 occupied — probe 6 empty — place 23 at 6.
+
+5 —5 mod 10 — 5.5 occupied — probe 6 (occ) — probe 7 empty — place 5 at 7.
+
+15 + 15 mod 10 = 5. 5,6,7,8 occupied > probe 9 empty — place 15 at 9.
 --- page 3 ---
 ┌──┴───┐ ┌──┴───┐ ┌────┴────┐
 0   1   0   1   0   1
@@ -10171,6 +10289,20 @@ Evaluate B @ A.
 Place the result of (b) back on STACK
 [End of If structure]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+SMALLEST (ARR, K, N, POS) SELECTION SORT(ARR, N)
+
+Step 1: [INITIALIZE] SET SMALL = ARR[K] Step 1: Repeat Steps 2 and 3 for K=1
+Step 2: [INITIALIZE] SET POS = K to Nel
+Step 3: Repeat for J = K4l to N-1 Step 2: CALL SMALLEST(ARR, K, N, POS)
+IF SMALL > ARR[J] Step 3: SWAP A[K] with ARR[POS)
+SET SMALL = ARR[J] [END OF LOOP]
+SET POS = J Step 4: EXIT
+[END OF IF]
+[END OF LOOP]
+
+Step 4: RETURN POS
 --- page 11 ---
 [End of Step 2 loop]
 Set VALUE equal to the top element on STACK.
@@ -10483,6 +10615,21 @@ weighted path length of a binary tree).
 0   1   0   1
 J(40)   ● (46)   ● (56)   ● (69)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+12 +12 mod 10 = 2. Index 2 empty — place 12 at 2.
+18 — 18 mod 10 = 8. Index 8 empty — place 18 at 8.
+
+. 13 + 13 mod 10 = 3. Index 3 empty = place 13 at 3.
+
+2-2 mod 10 = 2. Index 2 occupied — probe 3 (occupied) — probe 4 empty — place 2 at 4.
+3 — 3 mod 10 = 3.3 occupied — probe 4 (occ) — probe 5 empty = place 3 at 5.
+
+23 — 23 mod 10 = 3.3,4,5 occupied — probe 6 empty — place 23 at 6.
+
+5 —5 mod 10 — 5.5 occupied — probe 6 (occ) — probe 7 empty — place 5 at 7.
+
+15 + 15 mod 10 = 5. 5,6,7,8 occupied > probe 9 empty — place 15 at 9.
 --- page 3 ---
 ┌──┴───┐ ┌──┴───┐ ┌────┴────┐
 0   1   0   1   0   1
@@ -10758,6 +10905,20 @@ Evaluate B @ A.
 Place the result of (b) back on STACK
 [End of If structure]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+SMALLEST (ARR, K, N, POS) SELECTION SORT(ARR, N)
+
+Step 1: [INITIALIZE] SET SMALL = ARR[K] Step 1: Repeat Steps 2 and 3 for K=1
+Step 2: [INITIALIZE] SET POS = K to Nel
+Step 3: Repeat for J = K4l to N-1 Step 2: CALL SMALLEST(ARR, K, N, POS)
+IF SMALL > ARR[J] Step 3: SWAP A[K] with ARR[POS)
+SET SMALL = ARR[J] [END OF LOOP]
+SET POS = J Step 4: EXIT
+[END OF IF]
+[END OF LOOP]
+
+Step 4: RETURN POS
 --- page 11 ---
 [End of Step 2 loop]
 Set VALUE equal to the top element on STACK.
@@ -11449,6 +11610,21 @@ weighted path length of a binary tree).
 0   1   0   1
 J(40)   ● (46)   ● (56)   ● (69)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+12 +12 mod 10 = 2. Index 2 empty — place 12 at 2.
+18 — 18 mod 10 = 8. Index 8 empty — place 18 at 8.
+
+. 13 + 13 mod 10 = 3. Index 3 empty = place 13 at 3.
+
+2-2 mod 10 = 2. Index 2 occupied — probe 3 (occupied) — probe 4 empty — place 2 at 4.
+3 — 3 mod 10 = 3.3 occupied — probe 4 (occ) — probe 5 empty = place 3 at 5.
+
+23 — 23 mod 10 = 3.3,4,5 occupied — probe 6 empty — place 23 at 6.
+
+5 —5 mod 10 — 5.5 occupied — probe 6 (occ) — probe 7 empty — place 5 at 7.
+
+15 + 15 mod 10 = 5. 5,6,7,8 occupied > probe 9 empty — place 15 at 9.
 --- page 3 ---
 ┌──┴───┐ ┌──┴───┐ ┌────┴────┐
 0   1   0   1   0   1
@@ -11724,6 +11900,20 @@ Evaluate B @ A.
 Place the result of (b) back on STACK
 [End of If structure]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+SMALLEST (ARR, K, N, POS) SELECTION SORT(ARR, N)
+
+Step 1: [INITIALIZE] SET SMALL = ARR[K] Step 1: Repeat Steps 2 and 3 for K=1
+Step 2: [INITIALIZE] SET POS = K to Nel
+Step 3: Repeat for J = K4l to N-1 Step 2: CALL SMALLEST(ARR, K, N, POS)
+IF SMALL > ARR[J] Step 3: SWAP A[K] with ARR[POS)
+SET SMALL = ARR[J] [END OF LOOP]
+SET POS = J Step 4: EXIT
+[END OF IF]
+[END OF LOOP]
+
+Step 4: RETURN POS
 --- page 11 ---
 [End of Step 2 loop]
 Set VALUE equal to the top element on STACK.
@@ -12036,6 +12226,21 @@ weighted path length of a binary tree).
 0   1   0   1
 J(40)   ● (46)   ● (56)   ● (69)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+12 +12 mod 10 = 2. Index 2 empty — place 12 at 2.
+18 — 18 mod 10 = 8. Index 8 empty — place 18 at 8.
+
+. 13 + 13 mod 10 = 3. Index 3 empty = place 13 at 3.
+
+2-2 mod 10 = 2. Index 2 occupied — probe 3 (occupied) — probe 4 empty — place 2 at 4.
+3 — 3 mod 10 = 3.3 occupied — probe 4 (occ) — probe 5 empty = place 3 at 5.
+
+23 — 23 mod 10 = 3.3,4,5 occupied — probe 6 empty — place 23 at 6.
+
+5 —5 mod 10 — 5.5 occupied — probe 6 (occ) — probe 7 empty — place 5 at 7.
+
+15 + 15 mod 10 = 5. 5,6,7,8 occupied > probe 9 empty — place 15 at 9.
 --- page 3 ---
 ┌──┴───┐ ┌──┴───┐ ┌────┴────┐
 0   1   0   1   0   1
@@ -12311,6 +12516,20 @@ Evaluate B @ A.
 Place the result of (b) back on STACK
 [End of If structure]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+SMALLEST (ARR, K, N, POS) SELECTION SORT(ARR, N)
+
+Step 1: [INITIALIZE] SET SMALL = ARR[K] Step 1: Repeat Steps 2 and 3 for K=1
+Step 2: [INITIALIZE] SET POS = K to Nel
+Step 3: Repeat for J = K4l to N-1 Step 2: CALL SMALLEST(ARR, K, N, POS)
+IF SMALL > ARR[J] Step 3: SWAP A[K] with ARR[POS)
+SET SMALL = ARR[J] [END OF LOOP]
+SET POS = J Step 4: EXIT
+[END OF IF]
+[END OF LOOP]
+
+Step 4: RETURN POS
 --- page 11 ---
 [End of Step 2 loop]
 Set VALUE equal to the top element on STACK.
@@ -12623,6 +12842,21 @@ weighted path length of a binary tree).
 0   1   0   1
 J(40)   ● (46)   ● (56)   ● (69)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+12 +12 mod 10 = 2. Index 2 empty — place 12 at 2.
+18 — 18 mod 10 = 8. Index 8 empty — place 18 at 8.
+
+. 13 + 13 mod 10 = 3. Index 3 empty = place 13 at 3.
+
+2-2 mod 10 = 2. Index 2 occupied — probe 3 (occupied) — probe 4 empty — place 2 at 4.
+3 — 3 mod 10 = 3.3 occupied — probe 4 (occ) — probe 5 empty = place 3 at 5.
+
+23 — 23 mod 10 = 3.3,4,5 occupied — probe 6 empty — place 23 at 6.
+
+5 —5 mod 10 — 5.5 occupied — probe 6 (occ) — probe 7 empty — place 5 at 7.
+
+15 + 15 mod 10 = 5. 5,6,7,8 occupied > probe 9 empty — place 15 at 9.
 --- page 3 ---
 ┌──┴───┐ ┌──┴───┐ ┌────┴────┐
 0   1   0   1   0   1
@@ -12898,6 +13132,20 @@ Evaluate B @ A.
 Place the result of (b) back on STACK
 [End of If structure]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+SMALLEST (ARR, K, N, POS) SELECTION SORT(ARR, N)
+
+Step 1: [INITIALIZE] SET SMALL = ARR[K] Step 1: Repeat Steps 2 and 3 for K=1
+Step 2: [INITIALIZE] SET POS = K to Nel
+Step 3: Repeat for J = K4l to N-1 Step 2: CALL SMALLEST(ARR, K, N, POS)
+IF SMALL > ARR[J] Step 3: SWAP A[K] with ARR[POS)
+SET SMALL = ARR[J] [END OF LOOP]
+SET POS = J Step 4: EXIT
+[END OF IF]
+[END OF LOOP]
+
+Step 4: RETURN POS
 --- page 11 ---
 [End of Step 2 loop]
 Set VALUE equal to the top element on STACK.
@@ -13210,6 +13458,21 @@ weighted path length of a binary tree).
 0   1   0   1
 J(40)   ● (46)   ● (56)   ● (69)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+12 +12 mod 10 = 2. Index 2 empty — place 12 at 2.
+18 — 18 mod 10 = 8. Index 8 empty — place 18 at 8.
+
+. 13 + 13 mod 10 = 3. Index 3 empty = place 13 at 3.
+
+2-2 mod 10 = 2. Index 2 occupied — probe 3 (occupied) — probe 4 empty — place 2 at 4.
+3 — 3 mod 10 = 3.3 occupied — probe 4 (occ) — probe 5 empty = place 3 at 5.
+
+23 — 23 mod 10 = 3.3,4,5 occupied — probe 6 empty — place 23 at 6.
+
+5 —5 mod 10 — 5.5 occupied — probe 6 (occ) — probe 7 empty — place 5 at 7.
+
+15 + 15 mod 10 = 5. 5,6,7,8 occupied > probe 9 empty — place 15 at 9.
 --- page 3 ---
 ┌──┴───┐ ┌──┴───┐ ┌────┴────┐
 0   1   0   1   0   1
@@ -13485,6 +13748,20 @@ Evaluate B @ A.
 Place the result of (b) back on STACK
 [End of If structure]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+SMALLEST (ARR, K, N, POS) SELECTION SORT(ARR, N)
+
+Step 1: [INITIALIZE] SET SMALL = ARR[K] Step 1: Repeat Steps 2 and 3 for K=1
+Step 2: [INITIALIZE] SET POS = K to Nel
+Step 3: Repeat for J = K4l to N-1 Step 2: CALL SMALLEST(ARR, K, N, POS)
+IF SMALL > ARR[J] Step 3: SWAP A[K] with ARR[POS)
+SET SMALL = ARR[J] [END OF LOOP]
+SET POS = J Step 4: EXIT
+[END OF IF]
+[END OF LOOP]
+
+Step 4: RETURN POS
 --- page 11 ---
 [End of Step 2 loop]
 Set VALUE equal to the top element on STACK.
@@ -13797,6 +14074,21 @@ weighted path length of a binary tree).
 0   1   0   1
 J(40)   ● (46)   ● (56)   ● (69)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+12 +12 mod 10 = 2. Index 2 empty — place 12 at 2.
+18 — 18 mod 10 = 8. Index 8 empty — place 18 at 8.
+
+. 13 + 13 mod 10 = 3. Index 3 empty = place 13 at 3.
+
+2-2 mod 10 = 2. Index 2 occupied — probe 3 (occupied) — probe 4 empty — place 2 at 4.
+3 — 3 mod 10 = 3.3 occupied — probe 4 (occ) — probe 5 empty = place 3 at 5.
+
+23 — 23 mod 10 = 3.3,4,5 occupied — probe 6 empty — place 23 at 6.
+
+5 —5 mod 10 — 5.5 occupied — probe 6 (occ) — probe 7 empty — place 5 at 7.
+
+15 + 15 mod 10 = 5. 5,6,7,8 occupied > probe 9 empty — place 15 at 9.
 --- page 3 ---
 ┌──┴───┐ ┌──┴───┐ ┌────┴────┐
 0   1   0   1   0   1
@@ -14072,6 +14364,20 @@ Evaluate B @ A.
 Place the result of (b) back on STACK
 [End of If structure]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+SMALLEST (ARR, K, N, POS) SELECTION SORT(ARR, N)
+
+Step 1: [INITIALIZE] SET SMALL = ARR[K] Step 1: Repeat Steps 2 and 3 for K=1
+Step 2: [INITIALIZE] SET POS = K to Nel
+Step 3: Repeat for J = K4l to N-1 Step 2: CALL SMALLEST(ARR, K, N, POS)
+IF SMALL > ARR[J] Step 3: SWAP A[K] with ARR[POS)
+SET SMALL = ARR[J] [END OF LOOP]
+SET POS = J Step 4: EXIT
+[END OF IF]
+[END OF LOOP]
+
+Step 4: RETURN POS
 --- page 11 ---
 [End of Step 2 loop]
 Set VALUE equal to the top element on STACK.
@@ -14384,6 +14690,21 @@ weighted path length of a binary tree).
 0   1   0   1
 J(40)   ● (46)   ● (56)   ● (69)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+12 +12 mod 10 = 2. Index 2 empty — place 12 at 2.
+18 — 18 mod 10 = 8. Index 8 empty — place 18 at 8.
+
+. 13 + 13 mod 10 = 3. Index 3 empty = place 13 at 3.
+
+2-2 mod 10 = 2. Index 2 occupied — probe 3 (occupied) — probe 4 empty — place 2 at 4.
+3 — 3 mod 10 = 3.3 occupied — probe 4 (occ) — probe 5 empty = place 3 at 5.
+
+23 — 23 mod 10 = 3.3,4,5 occupied — probe 6 empty — place 23 at 6.
+
+5 —5 mod 10 — 5.5 occupied — probe 6 (occ) — probe 7 empty — place 5 at 7.
+
+15 + 15 mod 10 = 5. 5,6,7,8 occupied > probe 9 empty — place 15 at 9.
 --- page 3 ---
 ┌──┴───┐ ┌──┴───┐ ┌────┴────┐
 0   1   0   1   0   1
@@ -14659,6 +14980,20 @@ Evaluate B @ A.
 Place the result of (b) back on STACK
 [End of If structure]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+SMALLEST (ARR, K, N, POS) SELECTION SORT(ARR, N)
+
+Step 1: [INITIALIZE] SET SMALL = ARR[K] Step 1: Repeat Steps 2 and 3 for K=1
+Step 2: [INITIALIZE] SET POS = K to Nel
+Step 3: Repeat for J = K4l to N-1 Step 2: CALL SMALLEST(ARR, K, N, POS)
+IF SMALL > ARR[J] Step 3: SWAP A[K] with ARR[POS)
+SET SMALL = ARR[J] [END OF LOOP]
+SET POS = J Step 4: EXIT
+[END OF IF]
+[END OF LOOP]
+
+Step 4: RETURN POS
 --- page 11 ---
 [End of Step 2 loop]
 Set VALUE equal to the top element on STACK.
@@ -14971,6 +15306,21 @@ weighted path length of a binary tree).
 0   1   0   1
 J(40)   ● (46)   ● (56)   ● (69)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+12 +12 mod 10 = 2. Index 2 empty — place 12 at 2.
+18 — 18 mod 10 = 8. Index 8 empty — place 18 at 8.
+
+. 13 + 13 mod 10 = 3. Index 3 empty = place 13 at 3.
+
+2-2 mod 10 = 2. Index 2 occupied — probe 3 (occupied) — probe 4 empty — place 2 at 4.
+3 — 3 mod 10 = 3.3 occupied — probe 4 (occ) — probe 5 empty = place 3 at 5.
+
+23 — 23 mod 10 = 3.3,4,5 occupied — probe 6 empty — place 23 at 6.
+
+5 —5 mod 10 — 5.5 occupied — probe 6 (occ) — probe 7 empty — place 5 at 7.
+
+15 + 15 mod 10 = 5. 5,6,7,8 occupied > probe 9 empty — place 15 at 9.
 --- page 3 ---
 ┌──┴───┐ ┌──┴───┐ ┌────┴────┐
 0   1   0   1   0   1
@@ -15246,6 +15596,20 @@ Evaluate B @ A.
 Place the result of (b) back on STACK
 [End of If structure]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+SMALLEST (ARR, K, N, POS) SELECTION SORT(ARR, N)
+
+Step 1: [INITIALIZE] SET SMALL = ARR[K] Step 1: Repeat Steps 2 and 3 for K=1
+Step 2: [INITIALIZE] SET POS = K to Nel
+Step 3: Repeat for J = K4l to N-1 Step 2: CALL SMALLEST(ARR, K, N, POS)
+IF SMALL > ARR[J] Step 3: SWAP A[K] with ARR[POS)
+SET SMALL = ARR[J] [END OF LOOP]
+SET POS = J Step 4: EXIT
+[END OF IF]
+[END OF LOOP]
+
+Step 4: RETURN POS
 --- page 11 ---
 [End of Step 2 loop]
 Set VALUE equal to the top element on STACK.
@@ -15558,6 +15922,21 @@ weighted path length of a binary tree).
 0   1   0   1
 J(40)   ● (46)   ● (56)   ● (69)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+12 +12 mod 10 = 2. Index 2 empty — place 12 at 2.
+18 — 18 mod 10 = 8. Index 8 empty — place 18 at 8.
+
+. 13 + 13 mod 10 = 3. Index 3 empty = place 13 at 3.
+
+2-2 mod 10 = 2. Index 2 occupied — probe 3 (occupied) — probe 4 empty — place 2 at 4.
+3 — 3 mod 10 = 3.3 occupied — probe 4 (occ) — probe 5 empty = place 3 at 5.
+
+23 — 23 mod 10 = 3.3,4,5 occupied — probe 6 empty — place 23 at 6.
+
+5 —5 mod 10 — 5.5 occupied — probe 6 (occ) — probe 7 empty — place 5 at 7.
+
+15 + 15 mod 10 = 5. 5,6,7,8 occupied > probe 9 empty — place 15 at 9.
 --- page 3 ---
 ┌──┴───┐ ┌──┴───┐ ┌────┴────┐
 0   1   0   1   0   1
@@ -15833,6 +16212,20 @@ Evaluate B @ A.
 Place the result of (b) back on STACK
 [End of If structure]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+SMALLEST (ARR, K, N, POS) SELECTION SORT(ARR, N)
+
+Step 1: [INITIALIZE] SET SMALL = ARR[K] Step 1: Repeat Steps 2 and 3 for K=1
+Step 2: [INITIALIZE] SET POS = K to Nel
+Step 3: Repeat for J = K4l to N-1 Step 2: CALL SMALLEST(ARR, K, N, POS)
+IF SMALL > ARR[J] Step 3: SWAP A[K] with ARR[POS)
+SET SMALL = ARR[J] [END OF LOOP]
+SET POS = J Step 4: EXIT
+[END OF IF]
+[END OF LOOP]
+
+Step 4: RETURN POS
 --- page 11 ---
 [End of Step 2 loop]
 Set VALUE equal to the top element on STACK.
@@ -16145,6 +16538,21 @@ weighted path length of a binary tree).
 0   1   0   1
 J(40)   ● (46)   ● (56)   ● (69)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+12 +12 mod 10 = 2. Index 2 empty — place 12 at 2.
+18 — 18 mod 10 = 8. Index 8 empty — place 18 at 8.
+
+. 13 + 13 mod 10 = 3. Index 3 empty = place 13 at 3.
+
+2-2 mod 10 = 2. Index 2 occupied — probe 3 (occupied) — probe 4 empty — place 2 at 4.
+3 — 3 mod 10 = 3.3 occupied — probe 4 (occ) — probe 5 empty = place 3 at 5.
+
+23 — 23 mod 10 = 3.3,4,5 occupied — probe 6 empty — place 23 at 6.
+
+5 —5 mod 10 — 5.5 occupied — probe 6 (occ) — probe 7 empty — place 5 at 7.
+
+15 + 15 mod 10 = 5. 5,6,7,8 occupied > probe 9 empty — place 15 at 9.
 --- page 3 ---
 ┌──┴───┐ ┌──┴───┐ ┌────┴────┐
 0   1   0   1   0   1
@@ -16420,6 +16828,20 @@ Evaluate B @ A.
 Place the result of (b) back on STACK
 [End of If structure]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+SMALLEST (ARR, K, N, POS) SELECTION SORT(ARR, N)
+
+Step 1: [INITIALIZE] SET SMALL = ARR[K] Step 1: Repeat Steps 2 and 3 for K=1
+Step 2: [INITIALIZE] SET POS = K to Nel
+Step 3: Repeat for J = K4l to N-1 Step 2: CALL SMALLEST(ARR, K, N, POS)
+IF SMALL > ARR[J] Step 3: SWAP A[K] with ARR[POS)
+SET SMALL = ARR[J] [END OF LOOP]
+SET POS = J Step 4: EXIT
+[END OF IF]
+[END OF LOOP]
+
+Step 4: RETURN POS
 --- page 11 ---
 [End of Step 2 loop]
 Set VALUE equal to the top element on STACK.
@@ -16732,6 +17154,21 @@ weighted path length of a binary tree).
 0   1   0   1
 J(40)   ● (46)   ● (56)   ● (69)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+12 +12 mod 10 = 2. Index 2 empty — place 12 at 2.
+18 — 18 mod 10 = 8. Index 8 empty — place 18 at 8.
+
+. 13 + 13 mod 10 = 3. Index 3 empty = place 13 at 3.
+
+2-2 mod 10 = 2. Index 2 occupied — probe 3 (occupied) — probe 4 empty — place 2 at 4.
+3 — 3 mod 10 = 3.3 occupied — probe 4 (occ) — probe 5 empty = place 3 at 5.
+
+23 — 23 mod 10 = 3.3,4,5 occupied — probe 6 empty — place 23 at 6.
+
+5 —5 mod 10 — 5.5 occupied — probe 6 (occ) — probe 7 empty — place 5 at 7.
+
+15 + 15 mod 10 = 5. 5,6,7,8 occupied > probe 9 empty — place 15 at 9.
 --- page 3 ---
 ┌──┴───┐ ┌──┴───┐ ┌────┴────┐
 0   1   0   1   0   1
@@ -17007,6 +17444,20 @@ Evaluate B @ A.
 Place the result of (b) back on STACK
 [End of If structure]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+SMALLEST (ARR, K, N, POS) SELECTION SORT(ARR, N)
+
+Step 1: [INITIALIZE] SET SMALL = ARR[K] Step 1: Repeat Steps 2 and 3 for K=1
+Step 2: [INITIALIZE] SET POS = K to Nel
+Step 3: Repeat for J = K4l to N-1 Step 2: CALL SMALLEST(ARR, K, N, POS)
+IF SMALL > ARR[J] Step 3: SWAP A[K] with ARR[POS)
+SET SMALL = ARR[J] [END OF LOOP]
+SET POS = J Step 4: EXIT
+[END OF IF]
+[END OF LOOP]
+
+Step 4: RETURN POS
 --- page 11 ---
 [End of Step 2 loop]
 Set VALUE equal to the top element on STACK.
@@ -17319,6 +17770,21 @@ weighted path length of a binary tree).
 0   1   0   1
 J(40)   ● (46)   ● (56)   ● (69)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+12 +12 mod 10 = 2. Index 2 empty — place 12 at 2.
+18 — 18 mod 10 = 8. Index 8 empty — place 18 at 8.
+
+. 13 + 13 mod 10 = 3. Index 3 empty = place 13 at 3.
+
+2-2 mod 10 = 2. Index 2 occupied — probe 3 (occupied) — probe 4 empty — place 2 at 4.
+3 — 3 mod 10 = 3.3 occupied — probe 4 (occ) — probe 5 empty = place 3 at 5.
+
+23 — 23 mod 10 = 3.3,4,5 occupied — probe 6 empty — place 23 at 6.
+
+5 —5 mod 10 — 5.5 occupied — probe 6 (occ) — probe 7 empty — place 5 at 7.
+
+15 + 15 mod 10 = 5. 5,6,7,8 occupied > probe 9 empty — place 15 at 9.
 --- page 3 ---
 ┌──┴───┐ ┌──┴───┐ ┌────┴────┐
 0   1   0   1   0   1
@@ -17594,6 +18060,20 @@ Evaluate B @ A.
 Place the result of (b) back on STACK
 [End of If structure]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+SMALLEST (ARR, K, N, POS) SELECTION SORT(ARR, N)
+
+Step 1: [INITIALIZE] SET SMALL = ARR[K] Step 1: Repeat Steps 2 and 3 for K=1
+Step 2: [INITIALIZE] SET POS = K to Nel
+Step 3: Repeat for J = K4l to N-1 Step 2: CALL SMALLEST(ARR, K, N, POS)
+IF SMALL > ARR[J] Step 3: SWAP A[K] with ARR[POS)
+SET SMALL = ARR[J] [END OF LOOP]
+SET POS = J Step 4: EXIT
+[END OF IF]
+[END OF LOOP]
+
+Step 4: RETURN POS
 --- page 11 ---
 [End of Step 2 loop]
 Set VALUE equal to the top element on STACK.
@@ -17906,6 +18386,21 @@ weighted path length of a binary tree).
 0   1   0   1
 J(40)   ● (46)   ● (56)   ● (69)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+12 +12 mod 10 = 2. Index 2 empty — place 12 at 2.
+18 — 18 mod 10 = 8. Index 8 empty — place 18 at 8.
+
+. 13 + 13 mod 10 = 3. Index 3 empty = place 13 at 3.
+
+2-2 mod 10 = 2. Index 2 occupied — probe 3 (occupied) — probe 4 empty — place 2 at 4.
+3 — 3 mod 10 = 3.3 occupied — probe 4 (occ) — probe 5 empty = place 3 at 5.
+
+23 — 23 mod 10 = 3.3,4,5 occupied — probe 6 empty — place 23 at 6.
+
+5 —5 mod 10 — 5.5 occupied — probe 6 (occ) — probe 7 empty — place 5 at 7.
+
+15 + 15 mod 10 = 5. 5,6,7,8 occupied > probe 9 empty — place 15 at 9.
 --- page 3 ---
 ┌──┴───┐ ┌──┴───┐ ┌────┴────┐
 0   1   0   1   0   1
@@ -18181,6 +18676,20 @@ Evaluate B @ A.
 Place the result of (b) back on STACK
 [End of If structure]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+SMALLEST (ARR, K, N, POS) SELECTION SORT(ARR, N)
+
+Step 1: [INITIALIZE] SET SMALL = ARR[K] Step 1: Repeat Steps 2 and 3 for K=1
+Step 2: [INITIALIZE] SET POS = K to Nel
+Step 3: Repeat for J = K4l to N-1 Step 2: CALL SMALLEST(ARR, K, N, POS)
+IF SMALL > ARR[J] Step 3: SWAP A[K] with ARR[POS)
+SET SMALL = ARR[J] [END OF LOOP]
+SET POS = J Step 4: EXIT
+[END OF IF]
+[END OF LOOP]
+
+Step 4: RETURN POS
 --- page 11 ---
 [End of Step 2 loop]
 Set VALUE equal to the top element on STACK.
@@ -18734,6 +19243,34 @@ array[i+1], array[high] = array[high], array[i+1]
 return i+1
 def quicksort(array, low=0, high=None):
 Page 13 of 17
+
+[Text in pictures on this page, read by OCR]
+Operation Simple Queue (Size = 5) Circular Queue (Size = 5)
+
+Initial State [_,_-,_,_, _] (F=-1,R= {_,_,_,_, _] (F=-1,R=-1)
+
+-1)
+Enqueue(10) [10,_,_,_,_] (F=0,R=0) [10,_,_,_,_] (F=0,R=0)
+Enqueue(20) [ 10, 20, _,_,_] (F=0,R=1) [ 10, 20, _,_,_] (F=0,R=1)
+Enqueue(30) [ 10, 20, 30, _, _] (F=0,R=2) [ 10, 20, 30, __, _] (F=0,R=2)
+Dequeue() [_, 20, 30,_,_] (F=1,R=2) [_, 20, 30,_,_] (F=1,R=2)
+
+Enqueue(40) [ _, 20, 30, 42, _] (F=1,R = 3) [ _, 20, 30, 42, _] (F=1,R=3)
+
+Enqueue(50) [_, 20, 30, 40, 50] (F=1,R= [_, 20, 30, 40, 5@] (F=1,R=4)
+4)
+Enqueue(60) Queue Full, can't add 60 [ 60, 20, 30, 40, 50 ] (F =1,R =0) (wrap-
+around)
+Dequeue() [_,_, 30, 40, 50] (F=2,R= [ 60, _ , 30, 40, 50] (F=2,R=0)
+4)
+Dequeue() [_,_., _, 40, 50] (F=3,R= [ 60,_,_, 40, 5@] (F=3,R=0)
+4)
+Key:
+
+e   F: Front Pointer
+eR: Rear Pointer
+
+e _: Empty Slot
 --- page 14 ---
 if high is None:
 high = len(array) - 1
@@ -18747,6 +19284,27 @@ print("Sorted array:", my_array)
 2.   5
 3. Final Step of the BFS Computation   5
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: IF START = NULL
+
+Write UNDERFLOW
+
+Go to Step 10
+
+[END OF IF]
+Step 2: SET PTR = START
+Step 3: SET PREPTR = NULL
+Step 4: Repeat Steps 5 and 6 while PTR->DATA != NUM
+Step 5: SET PREPTR = PTR
+Step 6: SET PTR = PTR-> NEXT
+
+[END OF LOOP]
+
+Step 7: SET TEMP = PTR
+Step 8: SET PREPTR->NEXT = PTR->NEXT
+Step 9: FREE TEMP
+Step 10 : EXIT
 --- page 15 ---
 BFS TREE
 6.   This is a sample question group   20
@@ -18762,6 +19320,17 @@ Dynamic Size: Using a linked list to implement the stack allows for a dynamic si
 accommodating an arbitrary number of actions without worrying about pre-allocation
 or resizing issues associated with arrays.
 Page 15 of 17
+
+[Text in pictures on this page, read by OCR]
+Since @ is empty, stop.
+
+vertex u 8 a 6b ec die f
+color [2] B B B B B B B
+d[w] ie) 2 1 2 2 1 2
+
+pred[uw) | NIL b s b e@ s b
+
+Q=9
 --- page 16 ---
 Algorithm for Action Edit: (4 marks)
 Function push(action)
@@ -19132,6 +19701,34 @@ array[i+1], array[high] = array[high], array[i+1]
 return i+1
 def quicksort(array, low=0, high=None):
 Page 13 of 17
+
+[Text in pictures on this page, read by OCR]
+Operation Simple Queue (Size = 5) Circular Queue (Size = 5)
+
+Initial State [_,_-,_,_, _] (F=-1,R= {_,_,_,_, _] (F=-1,R=-1)
+
+-1)
+Enqueue(10) [10,_,_,_,_] (F=0,R=0) [10,_,_,_,_] (F=0,R=0)
+Enqueue(20) [ 10, 20, _,_,_] (F=0,R=1) [ 10, 20, _,_,_] (F=0,R=1)
+Enqueue(30) [ 10, 20, 30, _, _] (F=0,R=2) [ 10, 20, 30, __, _] (F=0,R=2)
+Dequeue() [_, 20, 30,_,_] (F=1,R=2) [_, 20, 30,_,_] (F=1,R=2)
+
+Enqueue(40) [ _, 20, 30, 42, _] (F=1,R = 3) [ _, 20, 30, 42, _] (F=1,R=3)
+
+Enqueue(50) [_, 20, 30, 40, 50] (F=1,R= [_, 20, 30, 40, 5@] (F=1,R=4)
+4)
+Enqueue(60) Queue Full, can't add 60 [ 60, 20, 30, 40, 50 ] (F =1,R =0) (wrap-
+around)
+Dequeue() [_,_, 30, 40, 50] (F=2,R= [ 60, _ , 30, 40, 50] (F=2,R=0)
+4)
+Dequeue() [_,_., _, 40, 50] (F=3,R= [ 60,_,_, 40, 5@] (F=3,R=0)
+4)
+Key:
+
+e   F: Front Pointer
+eR: Rear Pointer
+
+e _: Empty Slot
 --- page 14 ---
 if high is None:
 high = len(array) - 1
@@ -19145,6 +19742,27 @@ print("Sorted array:", my_array)
 2.   5
 3. Final Step of the BFS Computation   5
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: IF START = NULL
+
+Write UNDERFLOW
+
+Go to Step 10
+
+[END OF IF]
+Step 2: SET PTR = START
+Step 3: SET PREPTR = NULL
+Step 4: Repeat Steps 5 and 6 while PTR->DATA != NUM
+Step 5: SET PREPTR = PTR
+Step 6: SET PTR = PTR-> NEXT
+
+[END OF LOOP]
+
+Step 7: SET TEMP = PTR
+Step 8: SET PREPTR->NEXT = PTR->NEXT
+Step 9: FREE TEMP
+Step 10 : EXIT
 --- page 15 ---
 BFS TREE
 6.   This is a sample question group   20
@@ -19160,6 +19778,17 @@ Dynamic Size: Using a linked list to implement the stack allows for a dynamic si
 accommodating an arbitrary number of actions without worrying about pre-allocation
 or resizing issues associated with arrays.
 Page 15 of 17
+
+[Text in pictures on this page, read by OCR]
+Since @ is empty, stop.
+
+vertex u 8 a 6b ec die f
+color [2] B B B B B B B
+d[w] ie) 2 1 2 2 1 2
+
+pred[uw) | NIL b s b e@ s b
+
+Q=9
 --- page 16 ---
 Algorithm for Action Edit: (4 marks)
 Function push(action)
@@ -19763,6 +20392,36 @@ this graph using
 (a) Prim’s algorithm with ‘A’ as source (b) Kruskal’s algorithm.
 (c)Calculate the total cost for both.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+1. Total Characters: 17 (length of the message)
+
+2. Total Bits Used:
+© 1x341x3+1x34+1x341x«3+4+1*34+3x342x44+2x441x5
+© =34+34+34+34+3+4+34+9+4+8+4+8+45 =54 bits
+
+3. Average Bit Length:
+
+Total Bits _ 54
+
+A Bit L b= =
+verage Bit Lengt Total Characters 17
+
+3.18 bits
+
+Step 5: Calculate Reduction Percentage Compared to ASCII
+1. ASCII Bit Length: Each character in ASCII uses 8 bits.
+2. Total Bits in ASCII:
+¢ 17 characters x 8 bits = 136 bits
+3. Reduction Percentage:
+
+iginal Bits — Huffman Bit:
+Reduction = Origina " s u anes x 100
+Original Bits
+
+136 —"*
+=——_v = 60.29%
+136 x 100 + 60.29%
 ````
 
 ## 2024-25 · Final-Exam · Sem 3 · Answer key · paper fa153ac39b13
@@ -20081,6 +20740,34 @@ array[i+1], array[high] = array[high], array[i+1]
 return i+1
 def quicksort(array, low=0, high=None):
 Page 13 of 17
+
+[Text in pictures on this page, read by OCR]
+Operation Simple Queue (Size = 5) Circular Queue (Size = 5)
+
+Initial State [_,_-,_,_, _] (F=-1,R= {_,_,_,_, _] (F=-1,R=-1)
+
+-1)
+Enqueue(10) [10,_,_,_,_] (F=0,R=0) [10,_,_,_,_] (F=0,R=0)
+Enqueue(20) [ 10, 20, _,_,_] (F=0,R=1) [ 10, 20, _,_,_] (F=0,R=1)
+Enqueue(30) [ 10, 20, 30, _, _] (F=0,R=2) [ 10, 20, 30, __, _] (F=0,R=2)
+Dequeue() [_, 20, 30,_,_] (F=1,R=2) [_, 20, 30,_,_] (F=1,R=2)
+
+Enqueue(40) [ _, 20, 30, 42, _] (F=1,R = 3) [ _, 20, 30, 42, _] (F=1,R=3)
+
+Enqueue(50) [_, 20, 30, 40, 50] (F=1,R= [_, 20, 30, 40, 5@] (F=1,R=4)
+4)
+Enqueue(60) Queue Full, can't add 60 [ 60, 20, 30, 40, 50 ] (F =1,R =0) (wrap-
+around)
+Dequeue() [_,_, 30, 40, 50] (F=2,R= [ 60, _ , 30, 40, 50] (F=2,R=0)
+4)
+Dequeue() [_,_., _, 40, 50] (F=3,R= [ 60,_,_, 40, 5@] (F=3,R=0)
+4)
+Key:
+
+e   F: Front Pointer
+eR: Rear Pointer
+
+e _: Empty Slot
 --- page 14 ---
 if high is None:
 high = len(array) - 1
@@ -20094,6 +20781,27 @@ print("Sorted array:", my_array)
 2.   5
 3. Final Step of the BFS Computation   5
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: IF START = NULL
+
+Write UNDERFLOW
+
+Go to Step 10
+
+[END OF IF]
+Step 2: SET PTR = START
+Step 3: SET PREPTR = NULL
+Step 4: Repeat Steps 5 and 6 while PTR->DATA != NUM
+Step 5: SET PREPTR = PTR
+Step 6: SET PTR = PTR-> NEXT
+
+[END OF LOOP]
+
+Step 7: SET TEMP = PTR
+Step 8: SET PREPTR->NEXT = PTR->NEXT
+Step 9: FREE TEMP
+Step 10 : EXIT
 --- page 15 ---
 BFS TREE
 6.   This is a sample question group   20
@@ -20109,6 +20817,17 @@ Dynamic Size: Using a linked list to implement the stack allows for a dynamic si
 accommodating an arbitrary number of actions without worrying about pre-allocation
 or resizing issues associated with arrays.
 Page 15 of 17
+
+[Text in pictures on this page, read by OCR]
+Since @ is empty, stop.
+
+vertex u 8 a 6b ec die f
+color [2] B B B B B B B
+d[w] ie) 2 1 2 2 1 2
+
+pred[uw) | NIL b s b e@ s b
+
+Q=9
 --- page 16 ---
 Algorithm for Action Edit: (4 marks)
 Function push(action)
@@ -20479,6 +21198,34 @@ array[i+1], array[high] = array[high], array[i+1]
 return i+1
 def quicksort(array, low=0, high=None):
 Page 13 of 17
+
+[Text in pictures on this page, read by OCR]
+Operation Simple Queue (Size = 5) Circular Queue (Size = 5)
+
+Initial State [_,_-,_,_, _] (F=-1,R= {_,_,_,_, _] (F=-1,R=-1)
+
+-1)
+Enqueue(10) [10,_,_,_,_] (F=0,R=0) [10,_,_,_,_] (F=0,R=0)
+Enqueue(20) [ 10, 20, _,_,_] (F=0,R=1) [ 10, 20, _,_,_] (F=0,R=1)
+Enqueue(30) [ 10, 20, 30, _, _] (F=0,R=2) [ 10, 20, 30, __, _] (F=0,R=2)
+Dequeue() [_, 20, 30,_,_] (F=1,R=2) [_, 20, 30,_,_] (F=1,R=2)
+
+Enqueue(40) [ _, 20, 30, 42, _] (F=1,R = 3) [ _, 20, 30, 42, _] (F=1,R=3)
+
+Enqueue(50) [_, 20, 30, 40, 50] (F=1,R= [_, 20, 30, 40, 5@] (F=1,R=4)
+4)
+Enqueue(60) Queue Full, can't add 60 [ 60, 20, 30, 40, 50 ] (F =1,R =0) (wrap-
+around)
+Dequeue() [_,_, 30, 40, 50] (F=2,R= [ 60, _ , 30, 40, 50] (F=2,R=0)
+4)
+Dequeue() [_,_., _, 40, 50] (F=3,R= [ 60,_,_, 40, 5@] (F=3,R=0)
+4)
+Key:
+
+e   F: Front Pointer
+eR: Rear Pointer
+
+e _: Empty Slot
 --- page 14 ---
 if high is None:
 high = len(array) - 1
@@ -20492,6 +21239,27 @@ print("Sorted array:", my_array)
 2.   5
 3. Final Step of the BFS Computation   5
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: IF START = NULL
+
+Write UNDERFLOW
+
+Go to Step 10
+
+[END OF IF]
+Step 2: SET PTR = START
+Step 3: SET PREPTR = NULL
+Step 4: Repeat Steps 5 and 6 while PTR->DATA != NUM
+Step 5: SET PREPTR = PTR
+Step 6: SET PTR = PTR-> NEXT
+
+[END OF LOOP]
+
+Step 7: SET TEMP = PTR
+Step 8: SET PREPTR->NEXT = PTR->NEXT
+Step 9: FREE TEMP
+Step 10 : EXIT
 --- page 15 ---
 BFS TREE
 6.   This is a sample question group   20
@@ -20507,6 +21275,17 @@ Dynamic Size: Using a linked list to implement the stack allows for a dynamic si
 accommodating an arbitrary number of actions without worrying about pre-allocation
 or resizing issues associated with arrays.
 Page 15 of 17
+
+[Text in pictures on this page, read by OCR]
+Since @ is empty, stop.
+
+vertex u 8 a 6b ec die f
+color [2] B B B B B B B
+d[w] ie) 2 1 2 2 1 2
+
+pred[uw) | NIL b s b e@ s b
+
+Q=9
 --- page 16 ---
 Algorithm for Action Edit: (4 marks)
 Function push(action)
@@ -20877,6 +21656,34 @@ array[i+1], array[high] = array[high], array[i+1]
 return i+1
 def quicksort(array, low=0, high=None):
 Page 13 of 17
+
+[Text in pictures on this page, read by OCR]
+Operation Simple Queue (Size = 5) Circular Queue (Size = 5)
+
+Initial State [_,_-,_,_, _] (F=-1,R= {_,_,_,_, _] (F=-1,R=-1)
+
+-1)
+Enqueue(10) [10,_,_,_,_] (F=0,R=0) [10,_,_,_,_] (F=0,R=0)
+Enqueue(20) [ 10, 20, _,_,_] (F=0,R=1) [ 10, 20, _,_,_] (F=0,R=1)
+Enqueue(30) [ 10, 20, 30, _, _] (F=0,R=2) [ 10, 20, 30, __, _] (F=0,R=2)
+Dequeue() [_, 20, 30,_,_] (F=1,R=2) [_, 20, 30,_,_] (F=1,R=2)
+
+Enqueue(40) [ _, 20, 30, 42, _] (F=1,R = 3) [ _, 20, 30, 42, _] (F=1,R=3)
+
+Enqueue(50) [_, 20, 30, 40, 50] (F=1,R= [_, 20, 30, 40, 5@] (F=1,R=4)
+4)
+Enqueue(60) Queue Full, can't add 60 [ 60, 20, 30, 40, 50 ] (F =1,R =0) (wrap-
+around)
+Dequeue() [_,_, 30, 40, 50] (F=2,R= [ 60, _ , 30, 40, 50] (F=2,R=0)
+4)
+Dequeue() [_,_., _, 40, 50] (F=3,R= [ 60,_,_, 40, 5@] (F=3,R=0)
+4)
+Key:
+
+e   F: Front Pointer
+eR: Rear Pointer
+
+e _: Empty Slot
 --- page 14 ---
 if high is None:
 high = len(array) - 1
@@ -20890,6 +21697,27 @@ print("Sorted array:", my_array)
 2.   5
 3. Final Step of the BFS Computation   5
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: IF START = NULL
+
+Write UNDERFLOW
+
+Go to Step 10
+
+[END OF IF]
+Step 2: SET PTR = START
+Step 3: SET PREPTR = NULL
+Step 4: Repeat Steps 5 and 6 while PTR->DATA != NUM
+Step 5: SET PREPTR = PTR
+Step 6: SET PTR = PTR-> NEXT
+
+[END OF LOOP]
+
+Step 7: SET TEMP = PTR
+Step 8: SET PREPTR->NEXT = PTR->NEXT
+Step 9: FREE TEMP
+Step 10 : EXIT
 --- page 15 ---
 BFS TREE
 6.   This is a sample question group   20
@@ -20905,6 +21733,17 @@ Dynamic Size: Using a linked list to implement the stack allows for a dynamic si
 accommodating an arbitrary number of actions without worrying about pre-allocation
 or resizing issues associated with arrays.
 Page 15 of 17
+
+[Text in pictures on this page, read by OCR]
+Since @ is empty, stop.
+
+vertex u 8 a 6b ec die f
+color [2] B B B B B B B
+d[w] ie) 2 1 2 2 1 2
+
+pred[uw) | NIL b s b e@ s b
+
+Q=9
 --- page 16 ---
 Algorithm for Action Edit: (4 marks)
 Function push(action)
@@ -21275,6 +22114,34 @@ array[i+1], array[high] = array[high], array[i+1]
 return i+1
 def quicksort(array, low=0, high=None):
 Page 13 of 17
+
+[Text in pictures on this page, read by OCR]
+Operation Simple Queue (Size = 5) Circular Queue (Size = 5)
+
+Initial State [_,_-,_,_, _] (F=-1,R= {_,_,_,_, _] (F=-1,R=-1)
+
+-1)
+Enqueue(10) [10,_,_,_,_] (F=0,R=0) [10,_,_,_,_] (F=0,R=0)
+Enqueue(20) [ 10, 20, _,_,_] (F=0,R=1) [ 10, 20, _,_,_] (F=0,R=1)
+Enqueue(30) [ 10, 20, 30, _, _] (F=0,R=2) [ 10, 20, 30, __, _] (F=0,R=2)
+Dequeue() [_, 20, 30,_,_] (F=1,R=2) [_, 20, 30,_,_] (F=1,R=2)
+
+Enqueue(40) [ _, 20, 30, 42, _] (F=1,R = 3) [ _, 20, 30, 42, _] (F=1,R=3)
+
+Enqueue(50) [_, 20, 30, 40, 50] (F=1,R= [_, 20, 30, 40, 5@] (F=1,R=4)
+4)
+Enqueue(60) Queue Full, can't add 60 [ 60, 20, 30, 40, 50 ] (F =1,R =0) (wrap-
+around)
+Dequeue() [_,_, 30, 40, 50] (F=2,R= [ 60, _ , 30, 40, 50] (F=2,R=0)
+4)
+Dequeue() [_,_., _, 40, 50] (F=3,R= [ 60,_,_, 40, 5@] (F=3,R=0)
+4)
+Key:
+
+e   F: Front Pointer
+eR: Rear Pointer
+
+e _: Empty Slot
 --- page 14 ---
 if high is None:
 high = len(array) - 1
@@ -21288,6 +22155,27 @@ print("Sorted array:", my_array)
 2.   5
 3. Final Step of the BFS Computation   5
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: IF START = NULL
+
+Write UNDERFLOW
+
+Go to Step 10
+
+[END OF IF]
+Step 2: SET PTR = START
+Step 3: SET PREPTR = NULL
+Step 4: Repeat Steps 5 and 6 while PTR->DATA != NUM
+Step 5: SET PREPTR = PTR
+Step 6: SET PTR = PTR-> NEXT
+
+[END OF LOOP]
+
+Step 7: SET TEMP = PTR
+Step 8: SET PREPTR->NEXT = PTR->NEXT
+Step 9: FREE TEMP
+Step 10 : EXIT
 --- page 15 ---
 BFS TREE
 6.   This is a sample question group   20
@@ -21303,6 +22191,17 @@ Dynamic Size: Using a linked list to implement the stack allows for a dynamic si
 accommodating an arbitrary number of actions without worrying about pre-allocation
 or resizing issues associated with arrays.
 Page 15 of 17
+
+[Text in pictures on this page, read by OCR]
+Since @ is empty, stop.
+
+vertex u 8 a 6b ec die f
+color [2] B B B B B B B
+d[w] ie) 2 1 2 2 1 2
+
+pred[uw) | NIL b s b e@ s b
+
+Q=9
 --- page 16 ---
 Algorithm for Action Edit: (4 marks)
 Function push(action)
@@ -21673,6 +22572,34 @@ array[i+1], array[high] = array[high], array[i+1]
 return i+1
 def quicksort(array, low=0, high=None):
 Page 13 of 17
+
+[Text in pictures on this page, read by OCR]
+Operation Simple Queue (Size = 5) Circular Queue (Size = 5)
+
+Initial State [_,_-,_,_, _] (F=-1,R= {_,_,_,_, _] (F=-1,R=-1)
+
+-1)
+Enqueue(10) [10,_,_,_,_] (F=0,R=0) [10,_,_,_,_] (F=0,R=0)
+Enqueue(20) [ 10, 20, _,_,_] (F=0,R=1) [ 10, 20, _,_,_] (F=0,R=1)
+Enqueue(30) [ 10, 20, 30, _, _] (F=0,R=2) [ 10, 20, 30, __, _] (F=0,R=2)
+Dequeue() [_, 20, 30,_,_] (F=1,R=2) [_, 20, 30,_,_] (F=1,R=2)
+
+Enqueue(40) [ _, 20, 30, 42, _] (F=1,R = 3) [ _, 20, 30, 42, _] (F=1,R=3)
+
+Enqueue(50) [_, 20, 30, 40, 50] (F=1,R= [_, 20, 30, 40, 5@] (F=1,R=4)
+4)
+Enqueue(60) Queue Full, can't add 60 [ 60, 20, 30, 40, 50 ] (F =1,R =0) (wrap-
+around)
+Dequeue() [_,_, 30, 40, 50] (F=2,R= [ 60, _ , 30, 40, 50] (F=2,R=0)
+4)
+Dequeue() [_,_., _, 40, 50] (F=3,R= [ 60,_,_, 40, 5@] (F=3,R=0)
+4)
+Key:
+
+e   F: Front Pointer
+eR: Rear Pointer
+
+e _: Empty Slot
 --- page 14 ---
 if high is None:
 high = len(array) - 1
@@ -21686,6 +22613,27 @@ print("Sorted array:", my_array)
 2.   5
 3. Final Step of the BFS Computation   5
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: IF START = NULL
+
+Write UNDERFLOW
+
+Go to Step 10
+
+[END OF IF]
+Step 2: SET PTR = START
+Step 3: SET PREPTR = NULL
+Step 4: Repeat Steps 5 and 6 while PTR->DATA != NUM
+Step 5: SET PREPTR = PTR
+Step 6: SET PTR = PTR-> NEXT
+
+[END OF LOOP]
+
+Step 7: SET TEMP = PTR
+Step 8: SET PREPTR->NEXT = PTR->NEXT
+Step 9: FREE TEMP
+Step 10 : EXIT
 --- page 15 ---
 BFS TREE
 6.   This is a sample question group   20
@@ -21701,6 +22649,17 @@ Dynamic Size: Using a linked list to implement the stack allows for a dynamic si
 accommodating an arbitrary number of actions without worrying about pre-allocation
 or resizing issues associated with arrays.
 Page 15 of 17
+
+[Text in pictures on this page, read by OCR]
+Since @ is empty, stop.
+
+vertex u 8 a 6b ec die f
+color [2] B B B B B B B
+d[w] ie) 2 1 2 2 1 2
+
+pred[uw) | NIL b s b e@ s b
+
+Q=9
 --- page 16 ---
 Algorithm for Action Edit: (4 marks)
 Function push(action)
@@ -22071,6 +23030,34 @@ array[i+1], array[high] = array[high], array[i+1]
 return i+1
 def quicksort(array, low=0, high=None):
 Page 13 of 17
+
+[Text in pictures on this page, read by OCR]
+Operation Simple Queue (Size = 5) Circular Queue (Size = 5)
+
+Initial State [_,_-,_,_, _] (F=-1,R= {_,_,_,_, _] (F=-1,R=-1)
+
+-1)
+Enqueue(10) [10,_,_,_,_] (F=0,R=0) [10,_,_,_,_] (F=0,R=0)
+Enqueue(20) [ 10, 20, _,_,_] (F=0,R=1) [ 10, 20, _,_,_] (F=0,R=1)
+Enqueue(30) [ 10, 20, 30, _, _] (F=0,R=2) [ 10, 20, 30, __, _] (F=0,R=2)
+Dequeue() [_, 20, 30,_,_] (F=1,R=2) [_, 20, 30,_,_] (F=1,R=2)
+
+Enqueue(40) [ _, 20, 30, 42, _] (F=1,R = 3) [ _, 20, 30, 42, _] (F=1,R=3)
+
+Enqueue(50) [_, 20, 30, 40, 50] (F=1,R= [_, 20, 30, 40, 5@] (F=1,R=4)
+4)
+Enqueue(60) Queue Full, can't add 60 [ 60, 20, 30, 40, 50 ] (F =1,R =0) (wrap-
+around)
+Dequeue() [_,_, 30, 40, 50] (F=2,R= [ 60, _ , 30, 40, 50] (F=2,R=0)
+4)
+Dequeue() [_,_., _, 40, 50] (F=3,R= [ 60,_,_, 40, 5@] (F=3,R=0)
+4)
+Key:
+
+e   F: Front Pointer
+eR: Rear Pointer
+
+e _: Empty Slot
 --- page 14 ---
 if high is None:
 high = len(array) - 1
@@ -22084,6 +23071,27 @@ print("Sorted array:", my_array)
 2.   5
 3. Final Step of the BFS Computation   5
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: IF START = NULL
+
+Write UNDERFLOW
+
+Go to Step 10
+
+[END OF IF]
+Step 2: SET PTR = START
+Step 3: SET PREPTR = NULL
+Step 4: Repeat Steps 5 and 6 while PTR->DATA != NUM
+Step 5: SET PREPTR = PTR
+Step 6: SET PTR = PTR-> NEXT
+
+[END OF LOOP]
+
+Step 7: SET TEMP = PTR
+Step 8: SET PREPTR->NEXT = PTR->NEXT
+Step 9: FREE TEMP
+Step 10 : EXIT
 --- page 15 ---
 BFS TREE
 6.   This is a sample question group   20
@@ -22099,6 +23107,17 @@ Dynamic Size: Using a linked list to implement the stack allows for a dynamic si
 accommodating an arbitrary number of actions without worrying about pre-allocation
 or resizing issues associated with arrays.
 Page 15 of 17
+
+[Text in pictures on this page, read by OCR]
+Since @ is empty, stop.
+
+vertex u 8 a 6b ec die f
+color [2] B B B B B B B
+d[w] ie) 2 1 2 2 1 2
+
+pred[uw) | NIL b s b e@ s b
+
+Q=9
 --- page 16 ---
 Algorithm for Action Edit: (4 marks)
 Function push(action)
@@ -22469,6 +23488,34 @@ array[i+1], array[high] = array[high], array[i+1]
 return i+1
 def quicksort(array, low=0, high=None):
 Page 13 of 17
+
+[Text in pictures on this page, read by OCR]
+Operation Simple Queue (Size = 5) Circular Queue (Size = 5)
+
+Initial State [_,_-,_,_, _] (F=-1,R= {_,_,_,_, _] (F=-1,R=-1)
+
+-1)
+Enqueue(10) [10,_,_,_,_] (F=0,R=0) [10,_,_,_,_] (F=0,R=0)
+Enqueue(20) [ 10, 20, _,_,_] (F=0,R=1) [ 10, 20, _,_,_] (F=0,R=1)
+Enqueue(30) [ 10, 20, 30, _, _] (F=0,R=2) [ 10, 20, 30, __, _] (F=0,R=2)
+Dequeue() [_, 20, 30,_,_] (F=1,R=2) [_, 20, 30,_,_] (F=1,R=2)
+
+Enqueue(40) [ _, 20, 30, 42, _] (F=1,R = 3) [ _, 20, 30, 42, _] (F=1,R=3)
+
+Enqueue(50) [_, 20, 30, 40, 50] (F=1,R= [_, 20, 30, 40, 5@] (F=1,R=4)
+4)
+Enqueue(60) Queue Full, can't add 60 [ 60, 20, 30, 40, 50 ] (F =1,R =0) (wrap-
+around)
+Dequeue() [_,_, 30, 40, 50] (F=2,R= [ 60, _ , 30, 40, 50] (F=2,R=0)
+4)
+Dequeue() [_,_., _, 40, 50] (F=3,R= [ 60,_,_, 40, 5@] (F=3,R=0)
+4)
+Key:
+
+e   F: Front Pointer
+eR: Rear Pointer
+
+e _: Empty Slot
 --- page 14 ---
 if high is None:
 high = len(array) - 1
@@ -22482,6 +23529,27 @@ print("Sorted array:", my_array)
 2.   5
 3. Final Step of the BFS Computation   5
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: IF START = NULL
+
+Write UNDERFLOW
+
+Go to Step 10
+
+[END OF IF]
+Step 2: SET PTR = START
+Step 3: SET PREPTR = NULL
+Step 4: Repeat Steps 5 and 6 while PTR->DATA != NUM
+Step 5: SET PREPTR = PTR
+Step 6: SET PTR = PTR-> NEXT
+
+[END OF LOOP]
+
+Step 7: SET TEMP = PTR
+Step 8: SET PREPTR->NEXT = PTR->NEXT
+Step 9: FREE TEMP
+Step 10 : EXIT
 --- page 15 ---
 BFS TREE
 6.   This is a sample question group   20
@@ -22497,6 +23565,17 @@ Dynamic Size: Using a linked list to implement the stack allows for a dynamic si
 accommodating an arbitrary number of actions without worrying about pre-allocation
 or resizing issues associated with arrays.
 Page 15 of 17
+
+[Text in pictures on this page, read by OCR]
+Since @ is empty, stop.
+
+vertex u 8 a 6b ec die f
+color [2] B B B B B B B
+d[w] ie) 2 1 2 2 1 2
+
+pred[uw) | NIL b s b e@ s b
+
+Q=9
 --- page 16 ---
 Algorithm for Action Edit: (4 marks)
 Function push(action)
@@ -22867,6 +23946,34 @@ array[i+1], array[high] = array[high], array[i+1]
 return i+1
 def quicksort(array, low=0, high=None):
 Page 13 of 17
+
+[Text in pictures on this page, read by OCR]
+Operation Simple Queue (Size = 5) Circular Queue (Size = 5)
+
+Initial State [_,_-,_,_, _] (F=-1,R= {_,_,_,_, _] (F=-1,R=-1)
+
+-1)
+Enqueue(10) [10,_,_,_,_] (F=0,R=0) [10,_,_,_,_] (F=0,R=0)
+Enqueue(20) [ 10, 20, _,_,_] (F=0,R=1) [ 10, 20, _,_,_] (F=0,R=1)
+Enqueue(30) [ 10, 20, 30, _, _] (F=0,R=2) [ 10, 20, 30, __, _] (F=0,R=2)
+Dequeue() [_, 20, 30,_,_] (F=1,R=2) [_, 20, 30,_,_] (F=1,R=2)
+
+Enqueue(40) [ _, 20, 30, 42, _] (F=1,R = 3) [ _, 20, 30, 42, _] (F=1,R=3)
+
+Enqueue(50) [_, 20, 30, 40, 50] (F=1,R= [_, 20, 30, 40, 5@] (F=1,R=4)
+4)
+Enqueue(60) Queue Full, can't add 60 [ 60, 20, 30, 40, 50 ] (F =1,R =0) (wrap-
+around)
+Dequeue() [_,_, 30, 40, 50] (F=2,R= [ 60, _ , 30, 40, 50] (F=2,R=0)
+4)
+Dequeue() [_,_., _, 40, 50] (F=3,R= [ 60,_,_, 40, 5@] (F=3,R=0)
+4)
+Key:
+
+e   F: Front Pointer
+eR: Rear Pointer
+
+e _: Empty Slot
 --- page 14 ---
 if high is None:
 high = len(array) - 1
@@ -22880,6 +23987,27 @@ print("Sorted array:", my_array)
 2.   5
 3. Final Step of the BFS Computation   5
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: IF START = NULL
+
+Write UNDERFLOW
+
+Go to Step 10
+
+[END OF IF]
+Step 2: SET PTR = START
+Step 3: SET PREPTR = NULL
+Step 4: Repeat Steps 5 and 6 while PTR->DATA != NUM
+Step 5: SET PREPTR = PTR
+Step 6: SET PTR = PTR-> NEXT
+
+[END OF LOOP]
+
+Step 7: SET TEMP = PTR
+Step 8: SET PREPTR->NEXT = PTR->NEXT
+Step 9: FREE TEMP
+Step 10 : EXIT
 --- page 15 ---
 BFS TREE
 6.   This is a sample question group   20
@@ -22895,6 +24023,17 @@ Dynamic Size: Using a linked list to implement the stack allows for a dynamic si
 accommodating an arbitrary number of actions without worrying about pre-allocation
 or resizing issues associated with arrays.
 Page 15 of 17
+
+[Text in pictures on this page, read by OCR]
+Since @ is empty, stop.
+
+vertex u 8 a 6b ec die f
+color [2] B B B B B B B
+d[w] ie) 2 1 2 2 1 2
+
+pred[uw) | NIL b s b e@ s b
+
+Q=9
 --- page 16 ---
 Algorithm for Action Edit: (4 marks)
 Function push(action)
@@ -23265,6 +24404,34 @@ array[i+1], array[high] = array[high], array[i+1]
 return i+1
 def quicksort(array, low=0, high=None):
 Page 13 of 17
+
+[Text in pictures on this page, read by OCR]
+Operation Simple Queue (Size = 5) Circular Queue (Size = 5)
+
+Initial State [_,_-,_,_, _] (F=-1,R= {_,_,_,_, _] (F=-1,R=-1)
+
+-1)
+Enqueue(10) [10,_,_,_,_] (F=0,R=0) [10,_,_,_,_] (F=0,R=0)
+Enqueue(20) [ 10, 20, _,_,_] (F=0,R=1) [ 10, 20, _,_,_] (F=0,R=1)
+Enqueue(30) [ 10, 20, 30, _, _] (F=0,R=2) [ 10, 20, 30, __, _] (F=0,R=2)
+Dequeue() [_, 20, 30,_,_] (F=1,R=2) [_, 20, 30,_,_] (F=1,R=2)
+
+Enqueue(40) [ _, 20, 30, 42, _] (F=1,R = 3) [ _, 20, 30, 42, _] (F=1,R=3)
+
+Enqueue(50) [_, 20, 30, 40, 50] (F=1,R= [_, 20, 30, 40, 5@] (F=1,R=4)
+4)
+Enqueue(60) Queue Full, can't add 60 [ 60, 20, 30, 40, 50 ] (F =1,R =0) (wrap-
+around)
+Dequeue() [_,_, 30, 40, 50] (F=2,R= [ 60, _ , 30, 40, 50] (F=2,R=0)
+4)
+Dequeue() [_,_., _, 40, 50] (F=3,R= [ 60,_,_, 40, 5@] (F=3,R=0)
+4)
+Key:
+
+e   F: Front Pointer
+eR: Rear Pointer
+
+e _: Empty Slot
 --- page 14 ---
 if high is None:
 high = len(array) - 1
@@ -23278,6 +24445,27 @@ print("Sorted array:", my_array)
 2.   5
 3. Final Step of the BFS Computation   5
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: IF START = NULL
+
+Write UNDERFLOW
+
+Go to Step 10
+
+[END OF IF]
+Step 2: SET PTR = START
+Step 3: SET PREPTR = NULL
+Step 4: Repeat Steps 5 and 6 while PTR->DATA != NUM
+Step 5: SET PREPTR = PTR
+Step 6: SET PTR = PTR-> NEXT
+
+[END OF LOOP]
+
+Step 7: SET TEMP = PTR
+Step 8: SET PREPTR->NEXT = PTR->NEXT
+Step 9: FREE TEMP
+Step 10 : EXIT
 --- page 15 ---
 BFS TREE
 6.   This is a sample question group   20
@@ -23293,6 +24481,17 @@ Dynamic Size: Using a linked list to implement the stack allows for a dynamic si
 accommodating an arbitrary number of actions without worrying about pre-allocation
 or resizing issues associated with arrays.
 Page 15 of 17
+
+[Text in pictures on this page, read by OCR]
+Since @ is empty, stop.
+
+vertex u 8 a 6b ec die f
+color [2] B B B B B B B
+d[w] ie) 2 1 2 2 1 2
+
+pred[uw) | NIL b s b e@ s b
+
+Q=9
 --- page 16 ---
 Algorithm for Action Edit: (4 marks)
 Function push(action)
@@ -23663,6 +24862,34 @@ array[i+1], array[high] = array[high], array[i+1]
 return i+1
 def quicksort(array, low=0, high=None):
 Page 13 of 17
+
+[Text in pictures on this page, read by OCR]
+Operation Simple Queue (Size = 5) Circular Queue (Size = 5)
+
+Initial State [_,_-,_,_, _] (F=-1,R= {_,_,_,_, _] (F=-1,R=-1)
+
+-1)
+Enqueue(10) [10,_,_,_,_] (F=0,R=0) [10,_,_,_,_] (F=0,R=0)
+Enqueue(20) [ 10, 20, _,_,_] (F=0,R=1) [ 10, 20, _,_,_] (F=0,R=1)
+Enqueue(30) [ 10, 20, 30, _, _] (F=0,R=2) [ 10, 20, 30, __, _] (F=0,R=2)
+Dequeue() [_, 20, 30,_,_] (F=1,R=2) [_, 20, 30,_,_] (F=1,R=2)
+
+Enqueue(40) [ _, 20, 30, 42, _] (F=1,R = 3) [ _, 20, 30, 42, _] (F=1,R=3)
+
+Enqueue(50) [_, 20, 30, 40, 50] (F=1,R= [_, 20, 30, 40, 5@] (F=1,R=4)
+4)
+Enqueue(60) Queue Full, can't add 60 [ 60, 20, 30, 40, 50 ] (F =1,R =0) (wrap-
+around)
+Dequeue() [_,_, 30, 40, 50] (F=2,R= [ 60, _ , 30, 40, 50] (F=2,R=0)
+4)
+Dequeue() [_,_., _, 40, 50] (F=3,R= [ 60,_,_, 40, 5@] (F=3,R=0)
+4)
+Key:
+
+e   F: Front Pointer
+eR: Rear Pointer
+
+e _: Empty Slot
 --- page 14 ---
 if high is None:
 high = len(array) - 1
@@ -23676,6 +24903,27 @@ print("Sorted array:", my_array)
 2.   5
 3. Final Step of the BFS Computation   5
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: IF START = NULL
+
+Write UNDERFLOW
+
+Go to Step 10
+
+[END OF IF]
+Step 2: SET PTR = START
+Step 3: SET PREPTR = NULL
+Step 4: Repeat Steps 5 and 6 while PTR->DATA != NUM
+Step 5: SET PREPTR = PTR
+Step 6: SET PTR = PTR-> NEXT
+
+[END OF LOOP]
+
+Step 7: SET TEMP = PTR
+Step 8: SET PREPTR->NEXT = PTR->NEXT
+Step 9: FREE TEMP
+Step 10 : EXIT
 --- page 15 ---
 BFS TREE
 6.   This is a sample question group   20
@@ -23691,6 +24939,17 @@ Dynamic Size: Using a linked list to implement the stack allows for a dynamic si
 accommodating an arbitrary number of actions without worrying about pre-allocation
 or resizing issues associated with arrays.
 Page 15 of 17
+
+[Text in pictures on this page, read by OCR]
+Since @ is empty, stop.
+
+vertex u 8 a 6b ec die f
+color [2] B B B B B B B
+d[w] ie) 2 1 2 2 1 2
+
+pred[uw) | NIL b s b e@ s b
+
+Q=9
 --- page 16 ---
 Algorithm for Action Edit: (4 marks)
 Function push(action)
@@ -24061,6 +25320,34 @@ array[i+1], array[high] = array[high], array[i+1]
 return i+1
 def quicksort(array, low=0, high=None):
 Page 13 of 17
+
+[Text in pictures on this page, read by OCR]
+Operation Simple Queue (Size = 5) Circular Queue (Size = 5)
+
+Initial State [_,_-,_,_, _] (F=-1,R= {_,_,_,_, _] (F=-1,R=-1)
+
+-1)
+Enqueue(10) [10,_,_,_,_] (F=0,R=0) [10,_,_,_,_] (F=0,R=0)
+Enqueue(20) [ 10, 20, _,_,_] (F=0,R=1) [ 10, 20, _,_,_] (F=0,R=1)
+Enqueue(30) [ 10, 20, 30, _, _] (F=0,R=2) [ 10, 20, 30, __, _] (F=0,R=2)
+Dequeue() [_, 20, 30,_,_] (F=1,R=2) [_, 20, 30,_,_] (F=1,R=2)
+
+Enqueue(40) [ _, 20, 30, 42, _] (F=1,R = 3) [ _, 20, 30, 42, _] (F=1,R=3)
+
+Enqueue(50) [_, 20, 30, 40, 50] (F=1,R= [_, 20, 30, 40, 5@] (F=1,R=4)
+4)
+Enqueue(60) Queue Full, can't add 60 [ 60, 20, 30, 40, 50 ] (F =1,R =0) (wrap-
+around)
+Dequeue() [_,_, 30, 40, 50] (F=2,R= [ 60, _ , 30, 40, 50] (F=2,R=0)
+4)
+Dequeue() [_,_., _, 40, 50] (F=3,R= [ 60,_,_, 40, 5@] (F=3,R=0)
+4)
+Key:
+
+e   F: Front Pointer
+eR: Rear Pointer
+
+e _: Empty Slot
 --- page 14 ---
 if high is None:
 high = len(array) - 1
@@ -24074,6 +25361,27 @@ print("Sorted array:", my_array)
 2.   5
 3. Final Step of the BFS Computation   5
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: IF START = NULL
+
+Write UNDERFLOW
+
+Go to Step 10
+
+[END OF IF]
+Step 2: SET PTR = START
+Step 3: SET PREPTR = NULL
+Step 4: Repeat Steps 5 and 6 while PTR->DATA != NUM
+Step 5: SET PREPTR = PTR
+Step 6: SET PTR = PTR-> NEXT
+
+[END OF LOOP]
+
+Step 7: SET TEMP = PTR
+Step 8: SET PREPTR->NEXT = PTR->NEXT
+Step 9: FREE TEMP
+Step 10 : EXIT
 --- page 15 ---
 BFS TREE
 6.   This is a sample question group   20
@@ -24089,6 +25397,17 @@ Dynamic Size: Using a linked list to implement the stack allows for a dynamic si
 accommodating an arbitrary number of actions without worrying about pre-allocation
 or resizing issues associated with arrays.
 Page 15 of 17
+
+[Text in pictures on this page, read by OCR]
+Since @ is empty, stop.
+
+vertex u 8 a 6b ec die f
+color [2] B B B B B B B
+d[w] ie) 2 1 2 2 1 2
+
+pred[uw) | NIL b s b e@ s b
+
+Q=9
 --- page 16 ---
 Algorithm for Action Edit: (4 marks)
 Function push(action)
@@ -24459,6 +25778,34 @@ array[i+1], array[high] = array[high], array[i+1]
 return i+1
 def quicksort(array, low=0, high=None):
 Page 13 of 17
+
+[Text in pictures on this page, read by OCR]
+Operation Simple Queue (Size = 5) Circular Queue (Size = 5)
+
+Initial State [_,_-,_,_, _] (F=-1,R= {_,_,_,_, _] (F=-1,R=-1)
+
+-1)
+Enqueue(10) [10,_,_,_,_] (F=0,R=0) [10,_,_,_,_] (F=0,R=0)
+Enqueue(20) [ 10, 20, _,_,_] (F=0,R=1) [ 10, 20, _,_,_] (F=0,R=1)
+Enqueue(30) [ 10, 20, 30, _, _] (F=0,R=2) [ 10, 20, 30, __, _] (F=0,R=2)
+Dequeue() [_, 20, 30,_,_] (F=1,R=2) [_, 20, 30,_,_] (F=1,R=2)
+
+Enqueue(40) [ _, 20, 30, 42, _] (F=1,R = 3) [ _, 20, 30, 42, _] (F=1,R=3)
+
+Enqueue(50) [_, 20, 30, 40, 50] (F=1,R= [_, 20, 30, 40, 5@] (F=1,R=4)
+4)
+Enqueue(60) Queue Full, can't add 60 [ 60, 20, 30, 40, 50 ] (F =1,R =0) (wrap-
+around)
+Dequeue() [_,_, 30, 40, 50] (F=2,R= [ 60, _ , 30, 40, 50] (F=2,R=0)
+4)
+Dequeue() [_,_., _, 40, 50] (F=3,R= [ 60,_,_, 40, 5@] (F=3,R=0)
+4)
+Key:
+
+e   F: Front Pointer
+eR: Rear Pointer
+
+e _: Empty Slot
 --- page 14 ---
 if high is None:
 high = len(array) - 1
@@ -24472,6 +25819,27 @@ print("Sorted array:", my_array)
 2.   5
 3. Final Step of the BFS Computation   5
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: IF START = NULL
+
+Write UNDERFLOW
+
+Go to Step 10
+
+[END OF IF]
+Step 2: SET PTR = START
+Step 3: SET PREPTR = NULL
+Step 4: Repeat Steps 5 and 6 while PTR->DATA != NUM
+Step 5: SET PREPTR = PTR
+Step 6: SET PTR = PTR-> NEXT
+
+[END OF LOOP]
+
+Step 7: SET TEMP = PTR
+Step 8: SET PREPTR->NEXT = PTR->NEXT
+Step 9: FREE TEMP
+Step 10 : EXIT
 --- page 15 ---
 BFS TREE
 6.   This is a sample question group   20
@@ -24487,6 +25855,17 @@ Dynamic Size: Using a linked list to implement the stack allows for a dynamic si
 accommodating an arbitrary number of actions without worrying about pre-allocation
 or resizing issues associated with arrays.
 Page 15 of 17
+
+[Text in pictures on this page, read by OCR]
+Since @ is empty, stop.
+
+vertex u 8 a 6b ec die f
+color [2] B B B B B B B
+d[w] ie) 2 1 2 2 1 2
+
+pred[uw) | NIL b s b e@ s b
+
+Q=9
 --- page 16 ---
 Algorithm for Action Edit: (4 marks)
 Function push(action)
@@ -24857,6 +26236,34 @@ array[i+1], array[high] = array[high], array[i+1]
 return i+1
 def quicksort(array, low=0, high=None):
 Page 13 of 17
+
+[Text in pictures on this page, read by OCR]
+Operation Simple Queue (Size = 5) Circular Queue (Size = 5)
+
+Initial State [_,_-,_,_, _] (F=-1,R= {_,_,_,_, _] (F=-1,R=-1)
+
+-1)
+Enqueue(10) [10,_,_,_,_] (F=0,R=0) [10,_,_,_,_] (F=0,R=0)
+Enqueue(20) [ 10, 20, _,_,_] (F=0,R=1) [ 10, 20, _,_,_] (F=0,R=1)
+Enqueue(30) [ 10, 20, 30, _, _] (F=0,R=2) [ 10, 20, 30, __, _] (F=0,R=2)
+Dequeue() [_, 20, 30,_,_] (F=1,R=2) [_, 20, 30,_,_] (F=1,R=2)
+
+Enqueue(40) [ _, 20, 30, 42, _] (F=1,R = 3) [ _, 20, 30, 42, _] (F=1,R=3)
+
+Enqueue(50) [_, 20, 30, 40, 50] (F=1,R= [_, 20, 30, 40, 5@] (F=1,R=4)
+4)
+Enqueue(60) Queue Full, can't add 60 [ 60, 20, 30, 40, 50 ] (F =1,R =0) (wrap-
+around)
+Dequeue() [_,_, 30, 40, 50] (F=2,R= [ 60, _ , 30, 40, 50] (F=2,R=0)
+4)
+Dequeue() [_,_., _, 40, 50] (F=3,R= [ 60,_,_, 40, 5@] (F=3,R=0)
+4)
+Key:
+
+e   F: Front Pointer
+eR: Rear Pointer
+
+e _: Empty Slot
 --- page 14 ---
 if high is None:
 high = len(array) - 1
@@ -24870,6 +26277,27 @@ print("Sorted array:", my_array)
 2.   5
 3. Final Step of the BFS Computation   5
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: IF START = NULL
+
+Write UNDERFLOW
+
+Go to Step 10
+
+[END OF IF]
+Step 2: SET PTR = START
+Step 3: SET PREPTR = NULL
+Step 4: Repeat Steps 5 and 6 while PTR->DATA != NUM
+Step 5: SET PREPTR = PTR
+Step 6: SET PTR = PTR-> NEXT
+
+[END OF LOOP]
+
+Step 7: SET TEMP = PTR
+Step 8: SET PREPTR->NEXT = PTR->NEXT
+Step 9: FREE TEMP
+Step 10 : EXIT
 --- page 15 ---
 BFS TREE
 6.   This is a sample question group   20
@@ -24885,6 +26313,17 @@ Dynamic Size: Using a linked list to implement the stack allows for a dynamic si
 accommodating an arbitrary number of actions without worrying about pre-allocation
 or resizing issues associated with arrays.
 Page 15 of 17
+
+[Text in pictures on this page, read by OCR]
+Since @ is empty, stop.
+
+vertex u 8 a 6b ec die f
+color [2] B B B B B B B
+d[w] ie) 2 1 2 2 1 2
+
+pred[uw) | NIL b s b e@ s b
+
+Q=9
 --- page 16 ---
 Algorithm for Action Edit: (4 marks)
 Function push(action)
@@ -25255,6 +26694,34 @@ array[i+1], array[high] = array[high], array[i+1]
 return i+1
 def quicksort(array, low=0, high=None):
 Page 13 of 17
+
+[Text in pictures on this page, read by OCR]
+Operation Simple Queue (Size = 5) Circular Queue (Size = 5)
+
+Initial State [_,_-,_,_, _] (F=-1,R= {_,_,_,_, _] (F=-1,R=-1)
+
+-1)
+Enqueue(10) [10,_,_,_,_] (F=0,R=0) [10,_,_,_,_] (F=0,R=0)
+Enqueue(20) [ 10, 20, _,_,_] (F=0,R=1) [ 10, 20, _,_,_] (F=0,R=1)
+Enqueue(30) [ 10, 20, 30, _, _] (F=0,R=2) [ 10, 20, 30, __, _] (F=0,R=2)
+Dequeue() [_, 20, 30,_,_] (F=1,R=2) [_, 20, 30,_,_] (F=1,R=2)
+
+Enqueue(40) [ _, 20, 30, 42, _] (F=1,R = 3) [ _, 20, 30, 42, _] (F=1,R=3)
+
+Enqueue(50) [_, 20, 30, 40, 50] (F=1,R= [_, 20, 30, 40, 5@] (F=1,R=4)
+4)
+Enqueue(60) Queue Full, can't add 60 [ 60, 20, 30, 40, 50 ] (F =1,R =0) (wrap-
+around)
+Dequeue() [_,_, 30, 40, 50] (F=2,R= [ 60, _ , 30, 40, 50] (F=2,R=0)
+4)
+Dequeue() [_,_., _, 40, 50] (F=3,R= [ 60,_,_, 40, 5@] (F=3,R=0)
+4)
+Key:
+
+e   F: Front Pointer
+eR: Rear Pointer
+
+e _: Empty Slot
 --- page 14 ---
 if high is None:
 high = len(array) - 1
@@ -25268,6 +26735,27 @@ print("Sorted array:", my_array)
 2.   5
 3. Final Step of the BFS Computation   5
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: IF START = NULL
+
+Write UNDERFLOW
+
+Go to Step 10
+
+[END OF IF]
+Step 2: SET PTR = START
+Step 3: SET PREPTR = NULL
+Step 4: Repeat Steps 5 and 6 while PTR->DATA != NUM
+Step 5: SET PREPTR = PTR
+Step 6: SET PTR = PTR-> NEXT
+
+[END OF LOOP]
+
+Step 7: SET TEMP = PTR
+Step 8: SET PREPTR->NEXT = PTR->NEXT
+Step 9: FREE TEMP
+Step 10 : EXIT
 --- page 15 ---
 BFS TREE
 6.   This is a sample question group   20
@@ -25283,6 +26771,17 @@ Dynamic Size: Using a linked list to implement the stack allows for a dynamic si
 accommodating an arbitrary number of actions without worrying about pre-allocation
 or resizing issues associated with arrays.
 Page 15 of 17
+
+[Text in pictures on this page, read by OCR]
+Since @ is empty, stop.
+
+vertex u 8 a 6b ec die f
+color [2] B B B B B B B
+d[w] ie) 2 1 2 2 1 2
+
+pred[uw) | NIL b s b e@ s b
+
+Q=9
 --- page 16 ---
 Algorithm for Action Edit: (4 marks)
 Function push(action)
@@ -25500,6 +26999,26 @@ MST in increasing order, as long as they do not form a cycle. The steps of the
 algorithms are listed as
 1. Sort all edges in non-decreasing order of weight.
 Page 6 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: DF AVAIL = NULL
+
+Step 1: IF AVAIL = NULL Weite OMERFLON
+Write OVERFLOW Go to Step 10
+Go to Step 7 [eM OF IF]
+(END OF IF] Step 2: SET NEW_NODE = AMATL
+Step 2: SET NEW_NODE = AVAIL coe fo cer ars MOE DATA vat
+Step 3: SET AVAIL = AVATL->NEXT Stop 5. SET NeW NODE —>MEXT ~ MLL
+Step 4: SET NEW_NODE —>DATA = VAL Step 6: SET PTR = START
+Step 5: SET NEW_NODE—>NEXT = START Step 7: Repeat Step # while PTR->NEXT != MILL
+Step 6: SET START = NEW_NODE Step #: ‘SET PTR = PTR->MEXT
+: _ [END OF LOOP]
+Step as EXIT Step 9: SET PTR->MEXT = NEM_NODE
+Step 18: BIT
+
+Time complexity for inserting node at the begining will take less time complexity as it doesnt
+require traversing till the end.To insert node at the end of link list we need to tranverse till the
+end and then add the new node.
 --- page 7 ---
 4. Add the smallest edge to the MST if it doesn’t form a cycle.
 5. Continue adding edges until all vertices are connected.
@@ -25626,6 +27145,35 @@ X T H G * F / E - D C / B / + -
 5.   This is a sample question group   20
 1. Algorithm   10
 Page 11 of 17
+
+[Text in pictures on this page, read by OCR]
+Step (Character Action Stack ‘Output (Postfix)
+
+1 x Add to output x
+2 - Push to stack - x
+3 T Add to output - KT
+4 ” Push to stack _% XT
+5 { Push to stack “=f KT
+6 H Add to output -“'f XTH
+7 * Push to stack -~' 0% XTH
+8 6 Add to output ~ 40" XTHG
+] i] Pop until [ -, 4 XTHG*
+o i Push to stack -~A XTHG?
+an] F Add to output “ie XTHG*F
+12 - Pop / from stack =e XTHG*F/
+13 E Add to output “ie XTHG*F/E
+14 } Pop until ( 4 XTHG*F/E-
+15 / Push to stack - 4 f XTHG*F/E-
+16 B Add to output Af XTHG*F/E-D
+7 i Push to stack - Af XTHG*F/E-D
+18 c Add to output “ie XTHG*F/E-BC
+13 f Push to stack “ie XTHG*F/E-BC
+0 B Add to output “4 XTHG*F/E-DCB
+21 } Pop until ( -,% MTHG*F/E-DCB/S
+22 + Push to stack +,- XTHG*F/E-DCBYS
+23 A Add to output +,- XTHG*F/E-DCB/A
+
+24 End Pop remaining operators MTHG*F/E-BDCB/A+-
 --- page 12 ---
 The steps of achieving the insertion sort are listed as follows -
 Step 1 - If the element is the first element, assume that it is already sorted. Return 1.
@@ -25691,6 +27239,61 @@ The Dijkstra algorithm is applied to handle the shortest path problems. This alg
 also applicable for the given graph. [1 Mark]
 The computation of the Dijkstra algorithm is given as
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Advantages of Doubly Linked List over Singly Linked List
+
+1. Bidirectional Traversal:
+Tn a doubly linked list, each node has a pointer to both the next and previous nodes,
+allowing traversal in both directions (forward and backward). This is not possible in a
+singly linked list, where traversal is only one-way (forward).
+
+2. Efficieat Deletions:
+Inadoubly haked list, deleting a node ts easier and more efficient because you can directly
+access the previous mode via the backward pointer. Ina singly linked list, to delete a node,
+you need to traverse the list from the head to find the previous node, making deletions
+slower.
+
+3. Efficient Insertions:
+Insertion after or before a node ina doubly linked list is easier and faster because you have
+access to both the next and previous modes. Ina singly linked list, inserting before a node
+requires traversing the list to find the previous node first.
+
+4. Backtracking:
+Tna doubly linked list, you can easily go backward if you need to revisit or modify previous
+nodes. Singly Linked lists don't support backtracking because each mode only poimts to the
+mext node.
+
+5. Simpler Tail Operations:
+‘Operations at the tail (like deletion or insertion) are more efficient in a doubly linked List
+because you have ditect access to the last node through a pointer to the tail. In a singly
+linked list, to access the tail, you must traverse from the head.
+
+Disadvantages of Doubly Linked List over Singly Linked List
+
+1, Increased Memory Usage:
+Doubly linked lists require more memory because each node stores two pointers (next and
+previous), while singly linked lists store only one (next).
+
+2. Complexity in Implementation:
+Managing a doubly linked List is more complex than a singly linked List. You need to handle
+and update two pomters for each node (next and previous), increasing the chances of errors
+during insertion, deletion, or pointer updates.
+
+3, Higher Processing Overhead:
+Due to the extra pointer (previous) in each node, insertion and deletion require additional
+steps (adjusting both next and previous poimters), which may introduce a slight overhead
+compared to singly linked lists.
+
+4. Increased Time for Insertions’ Deletions:
+While doubly linked lists are more efficient for some operations (like deletion or insertion
+an the middle), maintainmg two pointers means that basic insertions and deletions are
+slightly slower than in singly linked lists, which only manage one pointer.
+
+5. More Complexity in Memory Management:
+Memory management becomes more complex with a doubly linked list because there are
+two pointers to update and handle correctly during dynamic memory allocation, which
+could increase the risk of memory leaks if not managed carefully.
 --- page 15 ---
 The vertex traversing order is given as V(G): AàCàEàBàD   [2 Marks]
 [2 Marks]
@@ -25909,6 +27512,26 @@ MST in increasing order, as long as they do not form a cycle. The steps of the
 algorithms are listed as
 1. Sort all edges in non-decreasing order of weight.
 Page 6 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: DF AVAIL = NULL
+
+Step 1: IF AVAIL = NULL Weite OMERFLON
+Write OVERFLOW Go to Step 10
+Go to Step 7 [eM OF IF]
+(END OF IF] Step 2: SET NEW_NODE = AMATL
+Step 2: SET NEW_NODE = AVAIL coe fo cer ars MOE DATA vat
+Step 3: SET AVAIL = AVATL->NEXT Stop 5. SET NeW NODE —>MEXT ~ MLL
+Step 4: SET NEW_NODE —>DATA = VAL Step 6: SET PTR = START
+Step 5: SET NEW_NODE—>NEXT = START Step 7: Repeat Step # while PTR->NEXT != MILL
+Step 6: SET START = NEW_NODE Step #: ‘SET PTR = PTR->MEXT
+: _ [END OF LOOP]
+Step as EXIT Step 9: SET PTR->MEXT = NEM_NODE
+Step 18: BIT
+
+Time complexity for inserting node at the begining will take less time complexity as it doesnt
+require traversing till the end.To insert node at the end of link list we need to tranverse till the
+end and then add the new node.
 --- page 7 ---
 4. Add the smallest edge to the MST if it doesn’t form a cycle.
 5. Continue adding edges until all vertices are connected.
@@ -26035,6 +27658,35 @@ X T H G * F / E - D C / B / + -
 5.   This is a sample question group   20
 1. Algorithm   10
 Page 11 of 17
+
+[Text in pictures on this page, read by OCR]
+Step (Character Action Stack ‘Output (Postfix)
+
+1 x Add to output x
+2 - Push to stack - x
+3 T Add to output - KT
+4 ” Push to stack _% XT
+5 { Push to stack “=f KT
+6 H Add to output -“'f XTH
+7 * Push to stack -~' 0% XTH
+8 6 Add to output ~ 40" XTHG
+] i] Pop until [ -, 4 XTHG*
+o i Push to stack -~A XTHG?
+an] F Add to output “ie XTHG*F
+12 - Pop / from stack =e XTHG*F/
+13 E Add to output “ie XTHG*F/E
+14 } Pop until ( 4 XTHG*F/E-
+15 / Push to stack - 4 f XTHG*F/E-
+16 B Add to output Af XTHG*F/E-D
+7 i Push to stack - Af XTHG*F/E-D
+18 c Add to output “ie XTHG*F/E-BC
+13 f Push to stack “ie XTHG*F/E-BC
+0 B Add to output “4 XTHG*F/E-DCB
+21 } Pop until ( -,% MTHG*F/E-DCB/S
+22 + Push to stack +,- XTHG*F/E-DCBYS
+23 A Add to output +,- XTHG*F/E-DCB/A
+
+24 End Pop remaining operators MTHG*F/E-BDCB/A+-
 --- page 12 ---
 The steps of achieving the insertion sort are listed as follows -
 Step 1 - If the element is the first element, assume that it is already sorted. Return 1.
@@ -26100,6 +27752,61 @@ The Dijkstra algorithm is applied to handle the shortest path problems. This alg
 also applicable for the given graph. [1 Mark]
 The computation of the Dijkstra algorithm is given as
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Advantages of Doubly Linked List over Singly Linked List
+
+1. Bidirectional Traversal:
+Tn a doubly linked list, each node has a pointer to both the next and previous nodes,
+allowing traversal in both directions (forward and backward). This is not possible in a
+singly linked list, where traversal is only one-way (forward).
+
+2. Efficieat Deletions:
+Inadoubly haked list, deleting a node ts easier and more efficient because you can directly
+access the previous mode via the backward pointer. Ina singly linked list, to delete a node,
+you need to traverse the list from the head to find the previous node, making deletions
+slower.
+
+3. Efficient Insertions:
+Insertion after or before a node ina doubly linked list is easier and faster because you have
+access to both the next and previous modes. Ina singly linked list, inserting before a node
+requires traversing the list to find the previous node first.
+
+4. Backtracking:
+Tna doubly linked list, you can easily go backward if you need to revisit or modify previous
+nodes. Singly Linked lists don't support backtracking because each mode only poimts to the
+mext node.
+
+5. Simpler Tail Operations:
+‘Operations at the tail (like deletion or insertion) are more efficient in a doubly linked List
+because you have ditect access to the last node through a pointer to the tail. In a singly
+linked list, to access the tail, you must traverse from the head.
+
+Disadvantages of Doubly Linked List over Singly Linked List
+
+1, Increased Memory Usage:
+Doubly linked lists require more memory because each node stores two pointers (next and
+previous), while singly linked lists store only one (next).
+
+2. Complexity in Implementation:
+Managing a doubly linked List is more complex than a singly linked List. You need to handle
+and update two pomters for each node (next and previous), increasing the chances of errors
+during insertion, deletion, or pointer updates.
+
+3, Higher Processing Overhead:
+Due to the extra pointer (previous) in each node, insertion and deletion require additional
+steps (adjusting both next and previous poimters), which may introduce a slight overhead
+compared to singly linked lists.
+
+4. Increased Time for Insertions’ Deletions:
+While doubly linked lists are more efficient for some operations (like deletion or insertion
+an the middle), maintainmg two pointers means that basic insertions and deletions are
+slightly slower than in singly linked lists, which only manage one pointer.
+
+5. More Complexity in Memory Management:
+Memory management becomes more complex with a doubly linked list because there are
+two pointers to update and handle correctly during dynamic memory allocation, which
+could increase the risk of memory leaks if not managed carefully.
 --- page 15 ---
 The vertex traversing order is given as V(G): AàCàEàBàD   [2 Marks]
 [2 Marks]
@@ -26842,6 +28549,26 @@ MST in increasing order, as long as they do not form a cycle. The steps of the
 algorithms are listed as
 1. Sort all edges in non-decreasing order of weight.
 Page 6 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: DF AVAIL = NULL
+
+Step 1: IF AVAIL = NULL Weite OMERFLON
+Write OVERFLOW Go to Step 10
+Go to Step 7 [eM OF IF]
+(END OF IF] Step 2: SET NEW_NODE = AMATL
+Step 2: SET NEW_NODE = AVAIL coe fo cer ars MOE DATA vat
+Step 3: SET AVAIL = AVATL->NEXT Stop 5. SET NeW NODE —>MEXT ~ MLL
+Step 4: SET NEW_NODE —>DATA = VAL Step 6: SET PTR = START
+Step 5: SET NEW_NODE—>NEXT = START Step 7: Repeat Step # while PTR->NEXT != MILL
+Step 6: SET START = NEW_NODE Step #: ‘SET PTR = PTR->MEXT
+: _ [END OF LOOP]
+Step as EXIT Step 9: SET PTR->MEXT = NEM_NODE
+Step 18: BIT
+
+Time complexity for inserting node at the begining will take less time complexity as it doesnt
+require traversing till the end.To insert node at the end of link list we need to tranverse till the
+end and then add the new node.
 --- page 7 ---
 4. Add the smallest edge to the MST if it doesn’t form a cycle.
 5. Continue adding edges until all vertices are connected.
@@ -26968,6 +28695,35 @@ X T H G * F / E - D C / B / + -
 5.   This is a sample question group   20
 1. Algorithm   10
 Page 11 of 17
+
+[Text in pictures on this page, read by OCR]
+Step (Character Action Stack ‘Output (Postfix)
+
+1 x Add to output x
+2 - Push to stack - x
+3 T Add to output - KT
+4 ” Push to stack _% XT
+5 { Push to stack “=f KT
+6 H Add to output -“'f XTH
+7 * Push to stack -~' 0% XTH
+8 6 Add to output ~ 40" XTHG
+] i] Pop until [ -, 4 XTHG*
+o i Push to stack -~A XTHG?
+an] F Add to output “ie XTHG*F
+12 - Pop / from stack =e XTHG*F/
+13 E Add to output “ie XTHG*F/E
+14 } Pop until ( 4 XTHG*F/E-
+15 / Push to stack - 4 f XTHG*F/E-
+16 B Add to output Af XTHG*F/E-D
+7 i Push to stack - Af XTHG*F/E-D
+18 c Add to output “ie XTHG*F/E-BC
+13 f Push to stack “ie XTHG*F/E-BC
+0 B Add to output “4 XTHG*F/E-DCB
+21 } Pop until ( -,% MTHG*F/E-DCB/S
+22 + Push to stack +,- XTHG*F/E-DCBYS
+23 A Add to output +,- XTHG*F/E-DCB/A
+
+24 End Pop remaining operators MTHG*F/E-BDCB/A+-
 --- page 12 ---
 The steps of achieving the insertion sort are listed as follows -
 Step 1 - If the element is the first element, assume that it is already sorted. Return 1.
@@ -27033,6 +28789,61 @@ The Dijkstra algorithm is applied to handle the shortest path problems. This alg
 also applicable for the given graph. [1 Mark]
 The computation of the Dijkstra algorithm is given as
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Advantages of Doubly Linked List over Singly Linked List
+
+1. Bidirectional Traversal:
+Tn a doubly linked list, each node has a pointer to both the next and previous nodes,
+allowing traversal in both directions (forward and backward). This is not possible in a
+singly linked list, where traversal is only one-way (forward).
+
+2. Efficieat Deletions:
+Inadoubly haked list, deleting a node ts easier and more efficient because you can directly
+access the previous mode via the backward pointer. Ina singly linked list, to delete a node,
+you need to traverse the list from the head to find the previous node, making deletions
+slower.
+
+3. Efficient Insertions:
+Insertion after or before a node ina doubly linked list is easier and faster because you have
+access to both the next and previous modes. Ina singly linked list, inserting before a node
+requires traversing the list to find the previous node first.
+
+4. Backtracking:
+Tna doubly linked list, you can easily go backward if you need to revisit or modify previous
+nodes. Singly Linked lists don't support backtracking because each mode only poimts to the
+mext node.
+
+5. Simpler Tail Operations:
+‘Operations at the tail (like deletion or insertion) are more efficient in a doubly linked List
+because you have ditect access to the last node through a pointer to the tail. In a singly
+linked list, to access the tail, you must traverse from the head.
+
+Disadvantages of Doubly Linked List over Singly Linked List
+
+1, Increased Memory Usage:
+Doubly linked lists require more memory because each node stores two pointers (next and
+previous), while singly linked lists store only one (next).
+
+2. Complexity in Implementation:
+Managing a doubly linked List is more complex than a singly linked List. You need to handle
+and update two pomters for each node (next and previous), increasing the chances of errors
+during insertion, deletion, or pointer updates.
+
+3, Higher Processing Overhead:
+Due to the extra pointer (previous) in each node, insertion and deletion require additional
+steps (adjusting both next and previous poimters), which may introduce a slight overhead
+compared to singly linked lists.
+
+4. Increased Time for Insertions’ Deletions:
+While doubly linked lists are more efficient for some operations (like deletion or insertion
+an the middle), maintainmg two pointers means that basic insertions and deletions are
+slightly slower than in singly linked lists, which only manage one pointer.
+
+5. More Complexity in Memory Management:
+Memory management becomes more complex with a doubly linked list because there are
+two pointers to update and handle correctly during dynamic memory allocation, which
+could increase the risk of memory leaks if not managed carefully.
 --- page 15 ---
 The vertex traversing order is given as V(G): AàCàEàBàD   [2 Marks]
 [2 Marks]
@@ -27251,6 +29062,26 @@ MST in increasing order, as long as they do not form a cycle. The steps of the
 algorithms are listed as
 1. Sort all edges in non-decreasing order of weight.
 Page 6 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: DF AVAIL = NULL
+
+Step 1: IF AVAIL = NULL Weite OMERFLON
+Write OVERFLOW Go to Step 10
+Go to Step 7 [eM OF IF]
+(END OF IF] Step 2: SET NEW_NODE = AMATL
+Step 2: SET NEW_NODE = AVAIL coe fo cer ars MOE DATA vat
+Step 3: SET AVAIL = AVATL->NEXT Stop 5. SET NeW NODE —>MEXT ~ MLL
+Step 4: SET NEW_NODE —>DATA = VAL Step 6: SET PTR = START
+Step 5: SET NEW_NODE—>NEXT = START Step 7: Repeat Step # while PTR->NEXT != MILL
+Step 6: SET START = NEW_NODE Step #: ‘SET PTR = PTR->MEXT
+: _ [END OF LOOP]
+Step as EXIT Step 9: SET PTR->MEXT = NEM_NODE
+Step 18: BIT
+
+Time complexity for inserting node at the begining will take less time complexity as it doesnt
+require traversing till the end.To insert node at the end of link list we need to tranverse till the
+end and then add the new node.
 --- page 7 ---
 4. Add the smallest edge to the MST if it doesn’t form a cycle.
 5. Continue adding edges until all vertices are connected.
@@ -27377,6 +29208,35 @@ X T H G * F / E - D C / B / + -
 5.   This is a sample question group   20
 1. Algorithm   10
 Page 11 of 17
+
+[Text in pictures on this page, read by OCR]
+Step (Character Action Stack ‘Output (Postfix)
+
+1 x Add to output x
+2 - Push to stack - x
+3 T Add to output - KT
+4 ” Push to stack _% XT
+5 { Push to stack “=f KT
+6 H Add to output -“'f XTH
+7 * Push to stack -~' 0% XTH
+8 6 Add to output ~ 40" XTHG
+] i] Pop until [ -, 4 XTHG*
+o i Push to stack -~A XTHG?
+an] F Add to output “ie XTHG*F
+12 - Pop / from stack =e XTHG*F/
+13 E Add to output “ie XTHG*F/E
+14 } Pop until ( 4 XTHG*F/E-
+15 / Push to stack - 4 f XTHG*F/E-
+16 B Add to output Af XTHG*F/E-D
+7 i Push to stack - Af XTHG*F/E-D
+18 c Add to output “ie XTHG*F/E-BC
+13 f Push to stack “ie XTHG*F/E-BC
+0 B Add to output “4 XTHG*F/E-DCB
+21 } Pop until ( -,% MTHG*F/E-DCB/S
+22 + Push to stack +,- XTHG*F/E-DCBYS
+23 A Add to output +,- XTHG*F/E-DCB/A
+
+24 End Pop remaining operators MTHG*F/E-BDCB/A+-
 --- page 12 ---
 The steps of achieving the insertion sort are listed as follows -
 Step 1 - If the element is the first element, assume that it is already sorted. Return 1.
@@ -27442,6 +29302,61 @@ The Dijkstra algorithm is applied to handle the shortest path problems. This alg
 also applicable for the given graph. [1 Mark]
 The computation of the Dijkstra algorithm is given as
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Advantages of Doubly Linked List over Singly Linked List
+
+1. Bidirectional Traversal:
+Tn a doubly linked list, each node has a pointer to both the next and previous nodes,
+allowing traversal in both directions (forward and backward). This is not possible in a
+singly linked list, where traversal is only one-way (forward).
+
+2. Efficieat Deletions:
+Inadoubly haked list, deleting a node ts easier and more efficient because you can directly
+access the previous mode via the backward pointer. Ina singly linked list, to delete a node,
+you need to traverse the list from the head to find the previous node, making deletions
+slower.
+
+3. Efficient Insertions:
+Insertion after or before a node ina doubly linked list is easier and faster because you have
+access to both the next and previous modes. Ina singly linked list, inserting before a node
+requires traversing the list to find the previous node first.
+
+4. Backtracking:
+Tna doubly linked list, you can easily go backward if you need to revisit or modify previous
+nodes. Singly Linked lists don't support backtracking because each mode only poimts to the
+mext node.
+
+5. Simpler Tail Operations:
+‘Operations at the tail (like deletion or insertion) are more efficient in a doubly linked List
+because you have ditect access to the last node through a pointer to the tail. In a singly
+linked list, to access the tail, you must traverse from the head.
+
+Disadvantages of Doubly Linked List over Singly Linked List
+
+1, Increased Memory Usage:
+Doubly linked lists require more memory because each node stores two pointers (next and
+previous), while singly linked lists store only one (next).
+
+2. Complexity in Implementation:
+Managing a doubly linked List is more complex than a singly linked List. You need to handle
+and update two pomters for each node (next and previous), increasing the chances of errors
+during insertion, deletion, or pointer updates.
+
+3, Higher Processing Overhead:
+Due to the extra pointer (previous) in each node, insertion and deletion require additional
+steps (adjusting both next and previous poimters), which may introduce a slight overhead
+compared to singly linked lists.
+
+4. Increased Time for Insertions’ Deletions:
+While doubly linked lists are more efficient for some operations (like deletion or insertion
+an the middle), maintainmg two pointers means that basic insertions and deletions are
+slightly slower than in singly linked lists, which only manage one pointer.
+
+5. More Complexity in Memory Management:
+Memory management becomes more complex with a doubly linked list because there are
+two pointers to update and handle correctly during dynamic memory allocation, which
+could increase the risk of memory leaks if not managed carefully.
 --- page 15 ---
 The vertex traversing order is given as V(G): AàCàEàBàD   [2 Marks]
 [2 Marks]
@@ -27660,6 +29575,26 @@ MST in increasing order, as long as they do not form a cycle. The steps of the
 algorithms are listed as
 1. Sort all edges in non-decreasing order of weight.
 Page 6 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: DF AVAIL = NULL
+
+Step 1: IF AVAIL = NULL Weite OMERFLON
+Write OVERFLOW Go to Step 10
+Go to Step 7 [eM OF IF]
+(END OF IF] Step 2: SET NEW_NODE = AMATL
+Step 2: SET NEW_NODE = AVAIL coe fo cer ars MOE DATA vat
+Step 3: SET AVAIL = AVATL->NEXT Stop 5. SET NeW NODE —>MEXT ~ MLL
+Step 4: SET NEW_NODE —>DATA = VAL Step 6: SET PTR = START
+Step 5: SET NEW_NODE—>NEXT = START Step 7: Repeat Step # while PTR->NEXT != MILL
+Step 6: SET START = NEW_NODE Step #: ‘SET PTR = PTR->MEXT
+: _ [END OF LOOP]
+Step as EXIT Step 9: SET PTR->MEXT = NEM_NODE
+Step 18: BIT
+
+Time complexity for inserting node at the begining will take less time complexity as it doesnt
+require traversing till the end.To insert node at the end of link list we need to tranverse till the
+end and then add the new node.
 --- page 7 ---
 4. Add the smallest edge to the MST if it doesn’t form a cycle.
 5. Continue adding edges until all vertices are connected.
@@ -27786,6 +29721,35 @@ X T H G * F / E - D C / B / + -
 5.   This is a sample question group   20
 1. Algorithm   10
 Page 11 of 17
+
+[Text in pictures on this page, read by OCR]
+Step (Character Action Stack ‘Output (Postfix)
+
+1 x Add to output x
+2 - Push to stack - x
+3 T Add to output - KT
+4 ” Push to stack _% XT
+5 { Push to stack “=f KT
+6 H Add to output -“'f XTH
+7 * Push to stack -~' 0% XTH
+8 6 Add to output ~ 40" XTHG
+] i] Pop until [ -, 4 XTHG*
+o i Push to stack -~A XTHG?
+an] F Add to output “ie XTHG*F
+12 - Pop / from stack =e XTHG*F/
+13 E Add to output “ie XTHG*F/E
+14 } Pop until ( 4 XTHG*F/E-
+15 / Push to stack - 4 f XTHG*F/E-
+16 B Add to output Af XTHG*F/E-D
+7 i Push to stack - Af XTHG*F/E-D
+18 c Add to output “ie XTHG*F/E-BC
+13 f Push to stack “ie XTHG*F/E-BC
+0 B Add to output “4 XTHG*F/E-DCB
+21 } Pop until ( -,% MTHG*F/E-DCB/S
+22 + Push to stack +,- XTHG*F/E-DCBYS
+23 A Add to output +,- XTHG*F/E-DCB/A
+
+24 End Pop remaining operators MTHG*F/E-BDCB/A+-
 --- page 12 ---
 The steps of achieving the insertion sort are listed as follows -
 Step 1 - If the element is the first element, assume that it is already sorted. Return 1.
@@ -27851,6 +29815,61 @@ The Dijkstra algorithm is applied to handle the shortest path problems. This alg
 also applicable for the given graph. [1 Mark]
 The computation of the Dijkstra algorithm is given as
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Advantages of Doubly Linked List over Singly Linked List
+
+1. Bidirectional Traversal:
+Tn a doubly linked list, each node has a pointer to both the next and previous nodes,
+allowing traversal in both directions (forward and backward). This is not possible in a
+singly linked list, where traversal is only one-way (forward).
+
+2. Efficieat Deletions:
+Inadoubly haked list, deleting a node ts easier and more efficient because you can directly
+access the previous mode via the backward pointer. Ina singly linked list, to delete a node,
+you need to traverse the list from the head to find the previous node, making deletions
+slower.
+
+3. Efficient Insertions:
+Insertion after or before a node ina doubly linked list is easier and faster because you have
+access to both the next and previous modes. Ina singly linked list, inserting before a node
+requires traversing the list to find the previous node first.
+
+4. Backtracking:
+Tna doubly linked list, you can easily go backward if you need to revisit or modify previous
+nodes. Singly Linked lists don't support backtracking because each mode only poimts to the
+mext node.
+
+5. Simpler Tail Operations:
+‘Operations at the tail (like deletion or insertion) are more efficient in a doubly linked List
+because you have ditect access to the last node through a pointer to the tail. In a singly
+linked list, to access the tail, you must traverse from the head.
+
+Disadvantages of Doubly Linked List over Singly Linked List
+
+1, Increased Memory Usage:
+Doubly linked lists require more memory because each node stores two pointers (next and
+previous), while singly linked lists store only one (next).
+
+2. Complexity in Implementation:
+Managing a doubly linked List is more complex than a singly linked List. You need to handle
+and update two pomters for each node (next and previous), increasing the chances of errors
+during insertion, deletion, or pointer updates.
+
+3, Higher Processing Overhead:
+Due to the extra pointer (previous) in each node, insertion and deletion require additional
+steps (adjusting both next and previous poimters), which may introduce a slight overhead
+compared to singly linked lists.
+
+4. Increased Time for Insertions’ Deletions:
+While doubly linked lists are more efficient for some operations (like deletion or insertion
+an the middle), maintainmg two pointers means that basic insertions and deletions are
+slightly slower than in singly linked lists, which only manage one pointer.
+
+5. More Complexity in Memory Management:
+Memory management becomes more complex with a doubly linked list because there are
+two pointers to update and handle correctly during dynamic memory allocation, which
+could increase the risk of memory leaks if not managed carefully.
 --- page 15 ---
 The vertex traversing order is given as V(G): AàCàEàBàD   [2 Marks]
 [2 Marks]
@@ -28069,6 +30088,26 @@ MST in increasing order, as long as they do not form a cycle. The steps of the
 algorithms are listed as
 1. Sort all edges in non-decreasing order of weight.
 Page 6 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: DF AVAIL = NULL
+
+Step 1: IF AVAIL = NULL Weite OMERFLON
+Write OVERFLOW Go to Step 10
+Go to Step 7 [eM OF IF]
+(END OF IF] Step 2: SET NEW_NODE = AMATL
+Step 2: SET NEW_NODE = AVAIL coe fo cer ars MOE DATA vat
+Step 3: SET AVAIL = AVATL->NEXT Stop 5. SET NeW NODE —>MEXT ~ MLL
+Step 4: SET NEW_NODE —>DATA = VAL Step 6: SET PTR = START
+Step 5: SET NEW_NODE—>NEXT = START Step 7: Repeat Step # while PTR->NEXT != MILL
+Step 6: SET START = NEW_NODE Step #: ‘SET PTR = PTR->MEXT
+: _ [END OF LOOP]
+Step as EXIT Step 9: SET PTR->MEXT = NEM_NODE
+Step 18: BIT
+
+Time complexity for inserting node at the begining will take less time complexity as it doesnt
+require traversing till the end.To insert node at the end of link list we need to tranverse till the
+end and then add the new node.
 --- page 7 ---
 4. Add the smallest edge to the MST if it doesn’t form a cycle.
 5. Continue adding edges until all vertices are connected.
@@ -28195,6 +30234,35 @@ X T H G * F / E - D C / B / + -
 5.   This is a sample question group   20
 1. Algorithm   10
 Page 11 of 17
+
+[Text in pictures on this page, read by OCR]
+Step (Character Action Stack ‘Output (Postfix)
+
+1 x Add to output x
+2 - Push to stack - x
+3 T Add to output - KT
+4 ” Push to stack _% XT
+5 { Push to stack “=f KT
+6 H Add to output -“'f XTH
+7 * Push to stack -~' 0% XTH
+8 6 Add to output ~ 40" XTHG
+] i] Pop until [ -, 4 XTHG*
+o i Push to stack -~A XTHG?
+an] F Add to output “ie XTHG*F
+12 - Pop / from stack =e XTHG*F/
+13 E Add to output “ie XTHG*F/E
+14 } Pop until ( 4 XTHG*F/E-
+15 / Push to stack - 4 f XTHG*F/E-
+16 B Add to output Af XTHG*F/E-D
+7 i Push to stack - Af XTHG*F/E-D
+18 c Add to output “ie XTHG*F/E-BC
+13 f Push to stack “ie XTHG*F/E-BC
+0 B Add to output “4 XTHG*F/E-DCB
+21 } Pop until ( -,% MTHG*F/E-DCB/S
+22 + Push to stack +,- XTHG*F/E-DCBYS
+23 A Add to output +,- XTHG*F/E-DCB/A
+
+24 End Pop remaining operators MTHG*F/E-BDCB/A+-
 --- page 12 ---
 The steps of achieving the insertion sort are listed as follows -
 Step 1 - If the element is the first element, assume that it is already sorted. Return 1.
@@ -28260,6 +30328,61 @@ The Dijkstra algorithm is applied to handle the shortest path problems. This alg
 also applicable for the given graph. [1 Mark]
 The computation of the Dijkstra algorithm is given as
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Advantages of Doubly Linked List over Singly Linked List
+
+1. Bidirectional Traversal:
+Tn a doubly linked list, each node has a pointer to both the next and previous nodes,
+allowing traversal in both directions (forward and backward). This is not possible in a
+singly linked list, where traversal is only one-way (forward).
+
+2. Efficieat Deletions:
+Inadoubly haked list, deleting a node ts easier and more efficient because you can directly
+access the previous mode via the backward pointer. Ina singly linked list, to delete a node,
+you need to traverse the list from the head to find the previous node, making deletions
+slower.
+
+3. Efficient Insertions:
+Insertion after or before a node ina doubly linked list is easier and faster because you have
+access to both the next and previous modes. Ina singly linked list, inserting before a node
+requires traversing the list to find the previous node first.
+
+4. Backtracking:
+Tna doubly linked list, you can easily go backward if you need to revisit or modify previous
+nodes. Singly Linked lists don't support backtracking because each mode only poimts to the
+mext node.
+
+5. Simpler Tail Operations:
+‘Operations at the tail (like deletion or insertion) are more efficient in a doubly linked List
+because you have ditect access to the last node through a pointer to the tail. In a singly
+linked list, to access the tail, you must traverse from the head.
+
+Disadvantages of Doubly Linked List over Singly Linked List
+
+1, Increased Memory Usage:
+Doubly linked lists require more memory because each node stores two pointers (next and
+previous), while singly linked lists store only one (next).
+
+2. Complexity in Implementation:
+Managing a doubly linked List is more complex than a singly linked List. You need to handle
+and update two pomters for each node (next and previous), increasing the chances of errors
+during insertion, deletion, or pointer updates.
+
+3, Higher Processing Overhead:
+Due to the extra pointer (previous) in each node, insertion and deletion require additional
+steps (adjusting both next and previous poimters), which may introduce a slight overhead
+compared to singly linked lists.
+
+4. Increased Time for Insertions’ Deletions:
+While doubly linked lists are more efficient for some operations (like deletion or insertion
+an the middle), maintainmg two pointers means that basic insertions and deletions are
+slightly slower than in singly linked lists, which only manage one pointer.
+
+5. More Complexity in Memory Management:
+Memory management becomes more complex with a doubly linked list because there are
+two pointers to update and handle correctly during dynamic memory allocation, which
+could increase the risk of memory leaks if not managed carefully.
 --- page 15 ---
 The vertex traversing order is given as V(G): AàCàEàBàD   [2 Marks]
 [2 Marks]
@@ -28478,6 +30601,26 @@ MST in increasing order, as long as they do not form a cycle. The steps of the
 algorithms are listed as
 1. Sort all edges in non-decreasing order of weight.
 Page 6 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: DF AVAIL = NULL
+
+Step 1: IF AVAIL = NULL Weite OMERFLON
+Write OVERFLOW Go to Step 10
+Go to Step 7 [eM OF IF]
+(END OF IF] Step 2: SET NEW_NODE = AMATL
+Step 2: SET NEW_NODE = AVAIL coe fo cer ars MOE DATA vat
+Step 3: SET AVAIL = AVATL->NEXT Stop 5. SET NeW NODE —>MEXT ~ MLL
+Step 4: SET NEW_NODE —>DATA = VAL Step 6: SET PTR = START
+Step 5: SET NEW_NODE—>NEXT = START Step 7: Repeat Step # while PTR->NEXT != MILL
+Step 6: SET START = NEW_NODE Step #: ‘SET PTR = PTR->MEXT
+: _ [END OF LOOP]
+Step as EXIT Step 9: SET PTR->MEXT = NEM_NODE
+Step 18: BIT
+
+Time complexity for inserting node at the begining will take less time complexity as it doesnt
+require traversing till the end.To insert node at the end of link list we need to tranverse till the
+end and then add the new node.
 --- page 7 ---
 4. Add the smallest edge to the MST if it doesn’t form a cycle.
 5. Continue adding edges until all vertices are connected.
@@ -28604,6 +30747,35 @@ X T H G * F / E - D C / B / + -
 5.   This is a sample question group   20
 1. Algorithm   10
 Page 11 of 17
+
+[Text in pictures on this page, read by OCR]
+Step (Character Action Stack ‘Output (Postfix)
+
+1 x Add to output x
+2 - Push to stack - x
+3 T Add to output - KT
+4 ” Push to stack _% XT
+5 { Push to stack “=f KT
+6 H Add to output -“'f XTH
+7 * Push to stack -~' 0% XTH
+8 6 Add to output ~ 40" XTHG
+] i] Pop until [ -, 4 XTHG*
+o i Push to stack -~A XTHG?
+an] F Add to output “ie XTHG*F
+12 - Pop / from stack =e XTHG*F/
+13 E Add to output “ie XTHG*F/E
+14 } Pop until ( 4 XTHG*F/E-
+15 / Push to stack - 4 f XTHG*F/E-
+16 B Add to output Af XTHG*F/E-D
+7 i Push to stack - Af XTHG*F/E-D
+18 c Add to output “ie XTHG*F/E-BC
+13 f Push to stack “ie XTHG*F/E-BC
+0 B Add to output “4 XTHG*F/E-DCB
+21 } Pop until ( -,% MTHG*F/E-DCB/S
+22 + Push to stack +,- XTHG*F/E-DCBYS
+23 A Add to output +,- XTHG*F/E-DCB/A
+
+24 End Pop remaining operators MTHG*F/E-BDCB/A+-
 --- page 12 ---
 The steps of achieving the insertion sort are listed as follows -
 Step 1 - If the element is the first element, assume that it is already sorted. Return 1.
@@ -28669,6 +30841,61 @@ The Dijkstra algorithm is applied to handle the shortest path problems. This alg
 also applicable for the given graph. [1 Mark]
 The computation of the Dijkstra algorithm is given as
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Advantages of Doubly Linked List over Singly Linked List
+
+1. Bidirectional Traversal:
+Tn a doubly linked list, each node has a pointer to both the next and previous nodes,
+allowing traversal in both directions (forward and backward). This is not possible in a
+singly linked list, where traversal is only one-way (forward).
+
+2. Efficieat Deletions:
+Inadoubly haked list, deleting a node ts easier and more efficient because you can directly
+access the previous mode via the backward pointer. Ina singly linked list, to delete a node,
+you need to traverse the list from the head to find the previous node, making deletions
+slower.
+
+3. Efficient Insertions:
+Insertion after or before a node ina doubly linked list is easier and faster because you have
+access to both the next and previous modes. Ina singly linked list, inserting before a node
+requires traversing the list to find the previous node first.
+
+4. Backtracking:
+Tna doubly linked list, you can easily go backward if you need to revisit or modify previous
+nodes. Singly Linked lists don't support backtracking because each mode only poimts to the
+mext node.
+
+5. Simpler Tail Operations:
+‘Operations at the tail (like deletion or insertion) are more efficient in a doubly linked List
+because you have ditect access to the last node through a pointer to the tail. In a singly
+linked list, to access the tail, you must traverse from the head.
+
+Disadvantages of Doubly Linked List over Singly Linked List
+
+1, Increased Memory Usage:
+Doubly linked lists require more memory because each node stores two pointers (next and
+previous), while singly linked lists store only one (next).
+
+2. Complexity in Implementation:
+Managing a doubly linked List is more complex than a singly linked List. You need to handle
+and update two pomters for each node (next and previous), increasing the chances of errors
+during insertion, deletion, or pointer updates.
+
+3, Higher Processing Overhead:
+Due to the extra pointer (previous) in each node, insertion and deletion require additional
+steps (adjusting both next and previous poimters), which may introduce a slight overhead
+compared to singly linked lists.
+
+4. Increased Time for Insertions’ Deletions:
+While doubly linked lists are more efficient for some operations (like deletion or insertion
+an the middle), maintainmg two pointers means that basic insertions and deletions are
+slightly slower than in singly linked lists, which only manage one pointer.
+
+5. More Complexity in Memory Management:
+Memory management becomes more complex with a doubly linked list because there are
+two pointers to update and handle correctly during dynamic memory allocation, which
+could increase the risk of memory leaks if not managed carefully.
 --- page 15 ---
 The vertex traversing order is given as V(G): AàCàEàBàD   [2 Marks]
 [2 Marks]
@@ -28887,6 +31114,26 @@ MST in increasing order, as long as they do not form a cycle. The steps of the
 algorithms are listed as
 1. Sort all edges in non-decreasing order of weight.
 Page 6 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: DF AVAIL = NULL
+
+Step 1: IF AVAIL = NULL Weite OMERFLON
+Write OVERFLOW Go to Step 10
+Go to Step 7 [eM OF IF]
+(END OF IF] Step 2: SET NEW_NODE = AMATL
+Step 2: SET NEW_NODE = AVAIL coe fo cer ars MOE DATA vat
+Step 3: SET AVAIL = AVATL->NEXT Stop 5. SET NeW NODE —>MEXT ~ MLL
+Step 4: SET NEW_NODE —>DATA = VAL Step 6: SET PTR = START
+Step 5: SET NEW_NODE—>NEXT = START Step 7: Repeat Step # while PTR->NEXT != MILL
+Step 6: SET START = NEW_NODE Step #: ‘SET PTR = PTR->MEXT
+: _ [END OF LOOP]
+Step as EXIT Step 9: SET PTR->MEXT = NEM_NODE
+Step 18: BIT
+
+Time complexity for inserting node at the begining will take less time complexity as it doesnt
+require traversing till the end.To insert node at the end of link list we need to tranverse till the
+end and then add the new node.
 --- page 7 ---
 4. Add the smallest edge to the MST if it doesn’t form a cycle.
 5. Continue adding edges until all vertices are connected.
@@ -29013,6 +31260,35 @@ X T H G * F / E - D C / B / + -
 5.   This is a sample question group   20
 1. Algorithm   10
 Page 11 of 17
+
+[Text in pictures on this page, read by OCR]
+Step (Character Action Stack ‘Output (Postfix)
+
+1 x Add to output x
+2 - Push to stack - x
+3 T Add to output - KT
+4 ” Push to stack _% XT
+5 { Push to stack “=f KT
+6 H Add to output -“'f XTH
+7 * Push to stack -~' 0% XTH
+8 6 Add to output ~ 40" XTHG
+] i] Pop until [ -, 4 XTHG*
+o i Push to stack -~A XTHG?
+an] F Add to output “ie XTHG*F
+12 - Pop / from stack =e XTHG*F/
+13 E Add to output “ie XTHG*F/E
+14 } Pop until ( 4 XTHG*F/E-
+15 / Push to stack - 4 f XTHG*F/E-
+16 B Add to output Af XTHG*F/E-D
+7 i Push to stack - Af XTHG*F/E-D
+18 c Add to output “ie XTHG*F/E-BC
+13 f Push to stack “ie XTHG*F/E-BC
+0 B Add to output “4 XTHG*F/E-DCB
+21 } Pop until ( -,% MTHG*F/E-DCB/S
+22 + Push to stack +,- XTHG*F/E-DCBYS
+23 A Add to output +,- XTHG*F/E-DCB/A
+
+24 End Pop remaining operators MTHG*F/E-BDCB/A+-
 --- page 12 ---
 The steps of achieving the insertion sort are listed as follows -
 Step 1 - If the element is the first element, assume that it is already sorted. Return 1.
@@ -29078,6 +31354,61 @@ The Dijkstra algorithm is applied to handle the shortest path problems. This alg
 also applicable for the given graph. [1 Mark]
 The computation of the Dijkstra algorithm is given as
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Advantages of Doubly Linked List over Singly Linked List
+
+1. Bidirectional Traversal:
+Tn a doubly linked list, each node has a pointer to both the next and previous nodes,
+allowing traversal in both directions (forward and backward). This is not possible in a
+singly linked list, where traversal is only one-way (forward).
+
+2. Efficieat Deletions:
+Inadoubly haked list, deleting a node ts easier and more efficient because you can directly
+access the previous mode via the backward pointer. Ina singly linked list, to delete a node,
+you need to traverse the list from the head to find the previous node, making deletions
+slower.
+
+3. Efficient Insertions:
+Insertion after or before a node ina doubly linked list is easier and faster because you have
+access to both the next and previous modes. Ina singly linked list, inserting before a node
+requires traversing the list to find the previous node first.
+
+4. Backtracking:
+Tna doubly linked list, you can easily go backward if you need to revisit or modify previous
+nodes. Singly Linked lists don't support backtracking because each mode only poimts to the
+mext node.
+
+5. Simpler Tail Operations:
+‘Operations at the tail (like deletion or insertion) are more efficient in a doubly linked List
+because you have ditect access to the last node through a pointer to the tail. In a singly
+linked list, to access the tail, you must traverse from the head.
+
+Disadvantages of Doubly Linked List over Singly Linked List
+
+1, Increased Memory Usage:
+Doubly linked lists require more memory because each node stores two pointers (next and
+previous), while singly linked lists store only one (next).
+
+2. Complexity in Implementation:
+Managing a doubly linked List is more complex than a singly linked List. You need to handle
+and update two pomters for each node (next and previous), increasing the chances of errors
+during insertion, deletion, or pointer updates.
+
+3, Higher Processing Overhead:
+Due to the extra pointer (previous) in each node, insertion and deletion require additional
+steps (adjusting both next and previous poimters), which may introduce a slight overhead
+compared to singly linked lists.
+
+4. Increased Time for Insertions’ Deletions:
+While doubly linked lists are more efficient for some operations (like deletion or insertion
+an the middle), maintainmg two pointers means that basic insertions and deletions are
+slightly slower than in singly linked lists, which only manage one pointer.
+
+5. More Complexity in Memory Management:
+Memory management becomes more complex with a doubly linked list because there are
+two pointers to update and handle correctly during dynamic memory allocation, which
+could increase the risk of memory leaks if not managed carefully.
 --- page 15 ---
 The vertex traversing order is given as V(G): AàCàEàBàD   [2 Marks]
 [2 Marks]
@@ -29296,6 +31627,26 @@ MST in increasing order, as long as they do not form a cycle. The steps of the
 algorithms are listed as
 1. Sort all edges in non-decreasing order of weight.
 Page 6 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: DF AVAIL = NULL
+
+Step 1: IF AVAIL = NULL Weite OMERFLON
+Write OVERFLOW Go to Step 10
+Go to Step 7 [eM OF IF]
+(END OF IF] Step 2: SET NEW_NODE = AMATL
+Step 2: SET NEW_NODE = AVAIL coe fo cer ars MOE DATA vat
+Step 3: SET AVAIL = AVATL->NEXT Stop 5. SET NeW NODE —>MEXT ~ MLL
+Step 4: SET NEW_NODE —>DATA = VAL Step 6: SET PTR = START
+Step 5: SET NEW_NODE—>NEXT = START Step 7: Repeat Step # while PTR->NEXT != MILL
+Step 6: SET START = NEW_NODE Step #: ‘SET PTR = PTR->MEXT
+: _ [END OF LOOP]
+Step as EXIT Step 9: SET PTR->MEXT = NEM_NODE
+Step 18: BIT
+
+Time complexity for inserting node at the begining will take less time complexity as it doesnt
+require traversing till the end.To insert node at the end of link list we need to tranverse till the
+end and then add the new node.
 --- page 7 ---
 4. Add the smallest edge to the MST if it doesn’t form a cycle.
 5. Continue adding edges until all vertices are connected.
@@ -29422,6 +31773,35 @@ X T H G * F / E - D C / B / + -
 5.   This is a sample question group   20
 1. Algorithm   10
 Page 11 of 17
+
+[Text in pictures on this page, read by OCR]
+Step (Character Action Stack ‘Output (Postfix)
+
+1 x Add to output x
+2 - Push to stack - x
+3 T Add to output - KT
+4 ” Push to stack _% XT
+5 { Push to stack “=f KT
+6 H Add to output -“'f XTH
+7 * Push to stack -~' 0% XTH
+8 6 Add to output ~ 40" XTHG
+] i] Pop until [ -, 4 XTHG*
+o i Push to stack -~A XTHG?
+an] F Add to output “ie XTHG*F
+12 - Pop / from stack =e XTHG*F/
+13 E Add to output “ie XTHG*F/E
+14 } Pop until ( 4 XTHG*F/E-
+15 / Push to stack - 4 f XTHG*F/E-
+16 B Add to output Af XTHG*F/E-D
+7 i Push to stack - Af XTHG*F/E-D
+18 c Add to output “ie XTHG*F/E-BC
+13 f Push to stack “ie XTHG*F/E-BC
+0 B Add to output “4 XTHG*F/E-DCB
+21 } Pop until ( -,% MTHG*F/E-DCB/S
+22 + Push to stack +,- XTHG*F/E-DCBYS
+23 A Add to output +,- XTHG*F/E-DCB/A
+
+24 End Pop remaining operators MTHG*F/E-BDCB/A+-
 --- page 12 ---
 The steps of achieving the insertion sort are listed as follows -
 Step 1 - If the element is the first element, assume that it is already sorted. Return 1.
@@ -29487,6 +31867,61 @@ The Dijkstra algorithm is applied to handle the shortest path problems. This alg
 also applicable for the given graph. [1 Mark]
 The computation of the Dijkstra algorithm is given as
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Advantages of Doubly Linked List over Singly Linked List
+
+1. Bidirectional Traversal:
+Tn a doubly linked list, each node has a pointer to both the next and previous nodes,
+allowing traversal in both directions (forward and backward). This is not possible in a
+singly linked list, where traversal is only one-way (forward).
+
+2. Efficieat Deletions:
+Inadoubly haked list, deleting a node ts easier and more efficient because you can directly
+access the previous mode via the backward pointer. Ina singly linked list, to delete a node,
+you need to traverse the list from the head to find the previous node, making deletions
+slower.
+
+3. Efficient Insertions:
+Insertion after or before a node ina doubly linked list is easier and faster because you have
+access to both the next and previous modes. Ina singly linked list, inserting before a node
+requires traversing the list to find the previous node first.
+
+4. Backtracking:
+Tna doubly linked list, you can easily go backward if you need to revisit or modify previous
+nodes. Singly Linked lists don't support backtracking because each mode only poimts to the
+mext node.
+
+5. Simpler Tail Operations:
+‘Operations at the tail (like deletion or insertion) are more efficient in a doubly linked List
+because you have ditect access to the last node through a pointer to the tail. In a singly
+linked list, to access the tail, you must traverse from the head.
+
+Disadvantages of Doubly Linked List over Singly Linked List
+
+1, Increased Memory Usage:
+Doubly linked lists require more memory because each node stores two pointers (next and
+previous), while singly linked lists store only one (next).
+
+2. Complexity in Implementation:
+Managing a doubly linked List is more complex than a singly linked List. You need to handle
+and update two pomters for each node (next and previous), increasing the chances of errors
+during insertion, deletion, or pointer updates.
+
+3, Higher Processing Overhead:
+Due to the extra pointer (previous) in each node, insertion and deletion require additional
+steps (adjusting both next and previous poimters), which may introduce a slight overhead
+compared to singly linked lists.
+
+4. Increased Time for Insertions’ Deletions:
+While doubly linked lists are more efficient for some operations (like deletion or insertion
+an the middle), maintainmg two pointers means that basic insertions and deletions are
+slightly slower than in singly linked lists, which only manage one pointer.
+
+5. More Complexity in Memory Management:
+Memory management becomes more complex with a doubly linked list because there are
+two pointers to update and handle correctly during dynamic memory allocation, which
+could increase the risk of memory leaks if not managed carefully.
 --- page 15 ---
 The vertex traversing order is given as V(G): AàCàEàBàD   [2 Marks]
 [2 Marks]
@@ -29705,6 +32140,26 @@ MST in increasing order, as long as they do not form a cycle. The steps of the
 algorithms are listed as
 1. Sort all edges in non-decreasing order of weight.
 Page 6 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: DF AVAIL = NULL
+
+Step 1: IF AVAIL = NULL Weite OMERFLON
+Write OVERFLOW Go to Step 10
+Go to Step 7 [eM OF IF]
+(END OF IF] Step 2: SET NEW_NODE = AMATL
+Step 2: SET NEW_NODE = AVAIL coe fo cer ars MOE DATA vat
+Step 3: SET AVAIL = AVATL->NEXT Stop 5. SET NeW NODE —>MEXT ~ MLL
+Step 4: SET NEW_NODE —>DATA = VAL Step 6: SET PTR = START
+Step 5: SET NEW_NODE—>NEXT = START Step 7: Repeat Step # while PTR->NEXT != MILL
+Step 6: SET START = NEW_NODE Step #: ‘SET PTR = PTR->MEXT
+: _ [END OF LOOP]
+Step as EXIT Step 9: SET PTR->MEXT = NEM_NODE
+Step 18: BIT
+
+Time complexity for inserting node at the begining will take less time complexity as it doesnt
+require traversing till the end.To insert node at the end of link list we need to tranverse till the
+end and then add the new node.
 --- page 7 ---
 4. Add the smallest edge to the MST if it doesn’t form a cycle.
 5. Continue adding edges until all vertices are connected.
@@ -29831,6 +32286,35 @@ X T H G * F / E - D C / B / + -
 5.   This is a sample question group   20
 1. Algorithm   10
 Page 11 of 17
+
+[Text in pictures on this page, read by OCR]
+Step (Character Action Stack ‘Output (Postfix)
+
+1 x Add to output x
+2 - Push to stack - x
+3 T Add to output - KT
+4 ” Push to stack _% XT
+5 { Push to stack “=f KT
+6 H Add to output -“'f XTH
+7 * Push to stack -~' 0% XTH
+8 6 Add to output ~ 40" XTHG
+] i] Pop until [ -, 4 XTHG*
+o i Push to stack -~A XTHG?
+an] F Add to output “ie XTHG*F
+12 - Pop / from stack =e XTHG*F/
+13 E Add to output “ie XTHG*F/E
+14 } Pop until ( 4 XTHG*F/E-
+15 / Push to stack - 4 f XTHG*F/E-
+16 B Add to output Af XTHG*F/E-D
+7 i Push to stack - Af XTHG*F/E-D
+18 c Add to output “ie XTHG*F/E-BC
+13 f Push to stack “ie XTHG*F/E-BC
+0 B Add to output “4 XTHG*F/E-DCB
+21 } Pop until ( -,% MTHG*F/E-DCB/S
+22 + Push to stack +,- XTHG*F/E-DCBYS
+23 A Add to output +,- XTHG*F/E-DCB/A
+
+24 End Pop remaining operators MTHG*F/E-BDCB/A+-
 --- page 12 ---
 The steps of achieving the insertion sort are listed as follows -
 Step 1 - If the element is the first element, assume that it is already sorted. Return 1.
@@ -29896,6 +32380,61 @@ The Dijkstra algorithm is applied to handle the shortest path problems. This alg
 also applicable for the given graph. [1 Mark]
 The computation of the Dijkstra algorithm is given as
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Advantages of Doubly Linked List over Singly Linked List
+
+1. Bidirectional Traversal:
+Tn a doubly linked list, each node has a pointer to both the next and previous nodes,
+allowing traversal in both directions (forward and backward). This is not possible in a
+singly linked list, where traversal is only one-way (forward).
+
+2. Efficieat Deletions:
+Inadoubly haked list, deleting a node ts easier and more efficient because you can directly
+access the previous mode via the backward pointer. Ina singly linked list, to delete a node,
+you need to traverse the list from the head to find the previous node, making deletions
+slower.
+
+3. Efficient Insertions:
+Insertion after or before a node ina doubly linked list is easier and faster because you have
+access to both the next and previous modes. Ina singly linked list, inserting before a node
+requires traversing the list to find the previous node first.
+
+4. Backtracking:
+Tna doubly linked list, you can easily go backward if you need to revisit or modify previous
+nodes. Singly Linked lists don't support backtracking because each mode only poimts to the
+mext node.
+
+5. Simpler Tail Operations:
+‘Operations at the tail (like deletion or insertion) are more efficient in a doubly linked List
+because you have ditect access to the last node through a pointer to the tail. In a singly
+linked list, to access the tail, you must traverse from the head.
+
+Disadvantages of Doubly Linked List over Singly Linked List
+
+1, Increased Memory Usage:
+Doubly linked lists require more memory because each node stores two pointers (next and
+previous), while singly linked lists store only one (next).
+
+2. Complexity in Implementation:
+Managing a doubly linked List is more complex than a singly linked List. You need to handle
+and update two pomters for each node (next and previous), increasing the chances of errors
+during insertion, deletion, or pointer updates.
+
+3, Higher Processing Overhead:
+Due to the extra pointer (previous) in each node, insertion and deletion require additional
+steps (adjusting both next and previous poimters), which may introduce a slight overhead
+compared to singly linked lists.
+
+4. Increased Time for Insertions’ Deletions:
+While doubly linked lists are more efficient for some operations (like deletion or insertion
+an the middle), maintainmg two pointers means that basic insertions and deletions are
+slightly slower than in singly linked lists, which only manage one pointer.
+
+5. More Complexity in Memory Management:
+Memory management becomes more complex with a doubly linked list because there are
+two pointers to update and handle correctly during dynamic memory allocation, which
+could increase the risk of memory leaks if not managed carefully.
 --- page 15 ---
 The vertex traversing order is given as V(G): AàCàEàBàD   [2 Marks]
 [2 Marks]
@@ -30114,6 +32653,26 @@ MST in increasing order, as long as they do not form a cycle. The steps of the
 algorithms are listed as
 1. Sort all edges in non-decreasing order of weight.
 Page 6 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: DF AVAIL = NULL
+
+Step 1: IF AVAIL = NULL Weite OMERFLON
+Write OVERFLOW Go to Step 10
+Go to Step 7 [eM OF IF]
+(END OF IF] Step 2: SET NEW_NODE = AMATL
+Step 2: SET NEW_NODE = AVAIL coe fo cer ars MOE DATA vat
+Step 3: SET AVAIL = AVATL->NEXT Stop 5. SET NeW NODE —>MEXT ~ MLL
+Step 4: SET NEW_NODE —>DATA = VAL Step 6: SET PTR = START
+Step 5: SET NEW_NODE—>NEXT = START Step 7: Repeat Step # while PTR->NEXT != MILL
+Step 6: SET START = NEW_NODE Step #: ‘SET PTR = PTR->MEXT
+: _ [END OF LOOP]
+Step as EXIT Step 9: SET PTR->MEXT = NEM_NODE
+Step 18: BIT
+
+Time complexity for inserting node at the begining will take less time complexity as it doesnt
+require traversing till the end.To insert node at the end of link list we need to tranverse till the
+end and then add the new node.
 --- page 7 ---
 4. Add the smallest edge to the MST if it doesn’t form a cycle.
 5. Continue adding edges until all vertices are connected.
@@ -30240,6 +32799,35 @@ X T H G * F / E - D C / B / + -
 5.   This is a sample question group   20
 1. Algorithm   10
 Page 11 of 17
+
+[Text in pictures on this page, read by OCR]
+Step (Character Action Stack ‘Output (Postfix)
+
+1 x Add to output x
+2 - Push to stack - x
+3 T Add to output - KT
+4 ” Push to stack _% XT
+5 { Push to stack “=f KT
+6 H Add to output -“'f XTH
+7 * Push to stack -~' 0% XTH
+8 6 Add to output ~ 40" XTHG
+] i] Pop until [ -, 4 XTHG*
+o i Push to stack -~A XTHG?
+an] F Add to output “ie XTHG*F
+12 - Pop / from stack =e XTHG*F/
+13 E Add to output “ie XTHG*F/E
+14 } Pop until ( 4 XTHG*F/E-
+15 / Push to stack - 4 f XTHG*F/E-
+16 B Add to output Af XTHG*F/E-D
+7 i Push to stack - Af XTHG*F/E-D
+18 c Add to output “ie XTHG*F/E-BC
+13 f Push to stack “ie XTHG*F/E-BC
+0 B Add to output “4 XTHG*F/E-DCB
+21 } Pop until ( -,% MTHG*F/E-DCB/S
+22 + Push to stack +,- XTHG*F/E-DCBYS
+23 A Add to output +,- XTHG*F/E-DCB/A
+
+24 End Pop remaining operators MTHG*F/E-BDCB/A+-
 --- page 12 ---
 The steps of achieving the insertion sort are listed as follows -
 Step 1 - If the element is the first element, assume that it is already sorted. Return 1.
@@ -30305,6 +32893,61 @@ The Dijkstra algorithm is applied to handle the shortest path problems. This alg
 also applicable for the given graph. [1 Mark]
 The computation of the Dijkstra algorithm is given as
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Advantages of Doubly Linked List over Singly Linked List
+
+1. Bidirectional Traversal:
+Tn a doubly linked list, each node has a pointer to both the next and previous nodes,
+allowing traversal in both directions (forward and backward). This is not possible in a
+singly linked list, where traversal is only one-way (forward).
+
+2. Efficieat Deletions:
+Inadoubly haked list, deleting a node ts easier and more efficient because you can directly
+access the previous mode via the backward pointer. Ina singly linked list, to delete a node,
+you need to traverse the list from the head to find the previous node, making deletions
+slower.
+
+3. Efficient Insertions:
+Insertion after or before a node ina doubly linked list is easier and faster because you have
+access to both the next and previous modes. Ina singly linked list, inserting before a node
+requires traversing the list to find the previous node first.
+
+4. Backtracking:
+Tna doubly linked list, you can easily go backward if you need to revisit or modify previous
+nodes. Singly Linked lists don't support backtracking because each mode only poimts to the
+mext node.
+
+5. Simpler Tail Operations:
+‘Operations at the tail (like deletion or insertion) are more efficient in a doubly linked List
+because you have ditect access to the last node through a pointer to the tail. In a singly
+linked list, to access the tail, you must traverse from the head.
+
+Disadvantages of Doubly Linked List over Singly Linked List
+
+1, Increased Memory Usage:
+Doubly linked lists require more memory because each node stores two pointers (next and
+previous), while singly linked lists store only one (next).
+
+2. Complexity in Implementation:
+Managing a doubly linked List is more complex than a singly linked List. You need to handle
+and update two pomters for each node (next and previous), increasing the chances of errors
+during insertion, deletion, or pointer updates.
+
+3, Higher Processing Overhead:
+Due to the extra pointer (previous) in each node, insertion and deletion require additional
+steps (adjusting both next and previous poimters), which may introduce a slight overhead
+compared to singly linked lists.
+
+4. Increased Time for Insertions’ Deletions:
+While doubly linked lists are more efficient for some operations (like deletion or insertion
+an the middle), maintainmg two pointers means that basic insertions and deletions are
+slightly slower than in singly linked lists, which only manage one pointer.
+
+5. More Complexity in Memory Management:
+Memory management becomes more complex with a doubly linked list because there are
+two pointers to update and handle correctly during dynamic memory allocation, which
+could increase the risk of memory leaks if not managed carefully.
 --- page 15 ---
 The vertex traversing order is given as V(G): AàCàEàBàD   [2 Marks]
 [2 Marks]
@@ -30523,6 +33166,26 @@ MST in increasing order, as long as they do not form a cycle. The steps of the
 algorithms are listed as
 1. Sort all edges in non-decreasing order of weight.
 Page 6 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: DF AVAIL = NULL
+
+Step 1: IF AVAIL = NULL Weite OMERFLON
+Write OVERFLOW Go to Step 10
+Go to Step 7 [eM OF IF]
+(END OF IF] Step 2: SET NEW_NODE = AMATL
+Step 2: SET NEW_NODE = AVAIL coe fo cer ars MOE DATA vat
+Step 3: SET AVAIL = AVATL->NEXT Stop 5. SET NeW NODE —>MEXT ~ MLL
+Step 4: SET NEW_NODE —>DATA = VAL Step 6: SET PTR = START
+Step 5: SET NEW_NODE—>NEXT = START Step 7: Repeat Step # while PTR->NEXT != MILL
+Step 6: SET START = NEW_NODE Step #: ‘SET PTR = PTR->MEXT
+: _ [END OF LOOP]
+Step as EXIT Step 9: SET PTR->MEXT = NEM_NODE
+Step 18: BIT
+
+Time complexity for inserting node at the begining will take less time complexity as it doesnt
+require traversing till the end.To insert node at the end of link list we need to tranverse till the
+end and then add the new node.
 --- page 7 ---
 4. Add the smallest edge to the MST if it doesn’t form a cycle.
 5. Continue adding edges until all vertices are connected.
@@ -30649,6 +33312,35 @@ X T H G * F / E - D C / B / + -
 5.   This is a sample question group   20
 1. Algorithm   10
 Page 11 of 17
+
+[Text in pictures on this page, read by OCR]
+Step (Character Action Stack ‘Output (Postfix)
+
+1 x Add to output x
+2 - Push to stack - x
+3 T Add to output - KT
+4 ” Push to stack _% XT
+5 { Push to stack “=f KT
+6 H Add to output -“'f XTH
+7 * Push to stack -~' 0% XTH
+8 6 Add to output ~ 40" XTHG
+] i] Pop until [ -, 4 XTHG*
+o i Push to stack -~A XTHG?
+an] F Add to output “ie XTHG*F
+12 - Pop / from stack =e XTHG*F/
+13 E Add to output “ie XTHG*F/E
+14 } Pop until ( 4 XTHG*F/E-
+15 / Push to stack - 4 f XTHG*F/E-
+16 B Add to output Af XTHG*F/E-D
+7 i Push to stack - Af XTHG*F/E-D
+18 c Add to output “ie XTHG*F/E-BC
+13 f Push to stack “ie XTHG*F/E-BC
+0 B Add to output “4 XTHG*F/E-DCB
+21 } Pop until ( -,% MTHG*F/E-DCB/S
+22 + Push to stack +,- XTHG*F/E-DCBYS
+23 A Add to output +,- XTHG*F/E-DCB/A
+
+24 End Pop remaining operators MTHG*F/E-BDCB/A+-
 --- page 12 ---
 The steps of achieving the insertion sort are listed as follows -
 Step 1 - If the element is the first element, assume that it is already sorted. Return 1.
@@ -30714,6 +33406,61 @@ The Dijkstra algorithm is applied to handle the shortest path problems. This alg
 also applicable for the given graph. [1 Mark]
 The computation of the Dijkstra algorithm is given as
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Advantages of Doubly Linked List over Singly Linked List
+
+1. Bidirectional Traversal:
+Tn a doubly linked list, each node has a pointer to both the next and previous nodes,
+allowing traversal in both directions (forward and backward). This is not possible in a
+singly linked list, where traversal is only one-way (forward).
+
+2. Efficieat Deletions:
+Inadoubly haked list, deleting a node ts easier and more efficient because you can directly
+access the previous mode via the backward pointer. Ina singly linked list, to delete a node,
+you need to traverse the list from the head to find the previous node, making deletions
+slower.
+
+3. Efficient Insertions:
+Insertion after or before a node ina doubly linked list is easier and faster because you have
+access to both the next and previous modes. Ina singly linked list, inserting before a node
+requires traversing the list to find the previous node first.
+
+4. Backtracking:
+Tna doubly linked list, you can easily go backward if you need to revisit or modify previous
+nodes. Singly Linked lists don't support backtracking because each mode only poimts to the
+mext node.
+
+5. Simpler Tail Operations:
+‘Operations at the tail (like deletion or insertion) are more efficient in a doubly linked List
+because you have ditect access to the last node through a pointer to the tail. In a singly
+linked list, to access the tail, you must traverse from the head.
+
+Disadvantages of Doubly Linked List over Singly Linked List
+
+1, Increased Memory Usage:
+Doubly linked lists require more memory because each node stores two pointers (next and
+previous), while singly linked lists store only one (next).
+
+2. Complexity in Implementation:
+Managing a doubly linked List is more complex than a singly linked List. You need to handle
+and update two pomters for each node (next and previous), increasing the chances of errors
+during insertion, deletion, or pointer updates.
+
+3, Higher Processing Overhead:
+Due to the extra pointer (previous) in each node, insertion and deletion require additional
+steps (adjusting both next and previous poimters), which may introduce a slight overhead
+compared to singly linked lists.
+
+4. Increased Time for Insertions’ Deletions:
+While doubly linked lists are more efficient for some operations (like deletion or insertion
+an the middle), maintainmg two pointers means that basic insertions and deletions are
+slightly slower than in singly linked lists, which only manage one pointer.
+
+5. More Complexity in Memory Management:
+Memory management becomes more complex with a doubly linked list because there are
+two pointers to update and handle correctly during dynamic memory allocation, which
+could increase the risk of memory leaks if not managed carefully.
 --- page 15 ---
 The vertex traversing order is given as V(G): AàCàEàBàD   [2 Marks]
 [2 Marks]
@@ -30932,6 +33679,26 @@ MST in increasing order, as long as they do not form a cycle. The steps of the
 algorithms are listed as
 1. Sort all edges in non-decreasing order of weight.
 Page 6 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: DF AVAIL = NULL
+
+Step 1: IF AVAIL = NULL Weite OMERFLON
+Write OVERFLOW Go to Step 10
+Go to Step 7 [eM OF IF]
+(END OF IF] Step 2: SET NEW_NODE = AMATL
+Step 2: SET NEW_NODE = AVAIL coe fo cer ars MOE DATA vat
+Step 3: SET AVAIL = AVATL->NEXT Stop 5. SET NeW NODE —>MEXT ~ MLL
+Step 4: SET NEW_NODE —>DATA = VAL Step 6: SET PTR = START
+Step 5: SET NEW_NODE—>NEXT = START Step 7: Repeat Step # while PTR->NEXT != MILL
+Step 6: SET START = NEW_NODE Step #: ‘SET PTR = PTR->MEXT
+: _ [END OF LOOP]
+Step as EXIT Step 9: SET PTR->MEXT = NEM_NODE
+Step 18: BIT
+
+Time complexity for inserting node at the begining will take less time complexity as it doesnt
+require traversing till the end.To insert node at the end of link list we need to tranverse till the
+end and then add the new node.
 --- page 7 ---
 4. Add the smallest edge to the MST if it doesn’t form a cycle.
 5. Continue adding edges until all vertices are connected.
@@ -31058,6 +33825,35 @@ X T H G * F / E - D C / B / + -
 5.   This is a sample question group   20
 1. Algorithm   10
 Page 11 of 17
+
+[Text in pictures on this page, read by OCR]
+Step (Character Action Stack ‘Output (Postfix)
+
+1 x Add to output x
+2 - Push to stack - x
+3 T Add to output - KT
+4 ” Push to stack _% XT
+5 { Push to stack “=f KT
+6 H Add to output -“'f XTH
+7 * Push to stack -~' 0% XTH
+8 6 Add to output ~ 40" XTHG
+] i] Pop until [ -, 4 XTHG*
+o i Push to stack -~A XTHG?
+an] F Add to output “ie XTHG*F
+12 - Pop / from stack =e XTHG*F/
+13 E Add to output “ie XTHG*F/E
+14 } Pop until ( 4 XTHG*F/E-
+15 / Push to stack - 4 f XTHG*F/E-
+16 B Add to output Af XTHG*F/E-D
+7 i Push to stack - Af XTHG*F/E-D
+18 c Add to output “ie XTHG*F/E-BC
+13 f Push to stack “ie XTHG*F/E-BC
+0 B Add to output “4 XTHG*F/E-DCB
+21 } Pop until ( -,% MTHG*F/E-DCB/S
+22 + Push to stack +,- XTHG*F/E-DCBYS
+23 A Add to output +,- XTHG*F/E-DCB/A
+
+24 End Pop remaining operators MTHG*F/E-BDCB/A+-
 --- page 12 ---
 The steps of achieving the insertion sort are listed as follows -
 Step 1 - If the element is the first element, assume that it is already sorted. Return 1.
@@ -31123,6 +33919,61 @@ The Dijkstra algorithm is applied to handle the shortest path problems. This alg
 also applicable for the given graph. [1 Mark]
 The computation of the Dijkstra algorithm is given as
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Advantages of Doubly Linked List over Singly Linked List
+
+1. Bidirectional Traversal:
+Tn a doubly linked list, each node has a pointer to both the next and previous nodes,
+allowing traversal in both directions (forward and backward). This is not possible in a
+singly linked list, where traversal is only one-way (forward).
+
+2. Efficieat Deletions:
+Inadoubly haked list, deleting a node ts easier and more efficient because you can directly
+access the previous mode via the backward pointer. Ina singly linked list, to delete a node,
+you need to traverse the list from the head to find the previous node, making deletions
+slower.
+
+3. Efficient Insertions:
+Insertion after or before a node ina doubly linked list is easier and faster because you have
+access to both the next and previous modes. Ina singly linked list, inserting before a node
+requires traversing the list to find the previous node first.
+
+4. Backtracking:
+Tna doubly linked list, you can easily go backward if you need to revisit or modify previous
+nodes. Singly Linked lists don't support backtracking because each mode only poimts to the
+mext node.
+
+5. Simpler Tail Operations:
+‘Operations at the tail (like deletion or insertion) are more efficient in a doubly linked List
+because you have ditect access to the last node through a pointer to the tail. In a singly
+linked list, to access the tail, you must traverse from the head.
+
+Disadvantages of Doubly Linked List over Singly Linked List
+
+1, Increased Memory Usage:
+Doubly linked lists require more memory because each node stores two pointers (next and
+previous), while singly linked lists store only one (next).
+
+2. Complexity in Implementation:
+Managing a doubly linked List is more complex than a singly linked List. You need to handle
+and update two pomters for each node (next and previous), increasing the chances of errors
+during insertion, deletion, or pointer updates.
+
+3, Higher Processing Overhead:
+Due to the extra pointer (previous) in each node, insertion and deletion require additional
+steps (adjusting both next and previous poimters), which may introduce a slight overhead
+compared to singly linked lists.
+
+4. Increased Time for Insertions’ Deletions:
+While doubly linked lists are more efficient for some operations (like deletion or insertion
+an the middle), maintainmg two pointers means that basic insertions and deletions are
+slightly slower than in singly linked lists, which only manage one pointer.
+
+5. More Complexity in Memory Management:
+Memory management becomes more complex with a doubly linked list because there are
+two pointers to update and handle correctly during dynamic memory allocation, which
+could increase the risk of memory leaks if not managed carefully.
 --- page 15 ---
 The vertex traversing order is given as V(G): AàCàEàBàD   [2 Marks]
 [2 Marks]
@@ -31341,6 +34192,26 @@ MST in increasing order, as long as they do not form a cycle. The steps of the
 algorithms are listed as
 1. Sort all edges in non-decreasing order of weight.
 Page 6 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: DF AVAIL = NULL
+
+Step 1: IF AVAIL = NULL Weite OMERFLON
+Write OVERFLOW Go to Step 10
+Go to Step 7 [eM OF IF]
+(END OF IF] Step 2: SET NEW_NODE = AMATL
+Step 2: SET NEW_NODE = AVAIL coe fo cer ars MOE DATA vat
+Step 3: SET AVAIL = AVATL->NEXT Stop 5. SET NeW NODE —>MEXT ~ MLL
+Step 4: SET NEW_NODE —>DATA = VAL Step 6: SET PTR = START
+Step 5: SET NEW_NODE—>NEXT = START Step 7: Repeat Step # while PTR->NEXT != MILL
+Step 6: SET START = NEW_NODE Step #: ‘SET PTR = PTR->MEXT
+: _ [END OF LOOP]
+Step as EXIT Step 9: SET PTR->MEXT = NEM_NODE
+Step 18: BIT
+
+Time complexity for inserting node at the begining will take less time complexity as it doesnt
+require traversing till the end.To insert node at the end of link list we need to tranverse till the
+end and then add the new node.
 --- page 7 ---
 4. Add the smallest edge to the MST if it doesn’t form a cycle.
 5. Continue adding edges until all vertices are connected.
@@ -31467,6 +34338,35 @@ X T H G * F / E - D C / B / + -
 5.   This is a sample question group   20
 1. Algorithm   10
 Page 11 of 17
+
+[Text in pictures on this page, read by OCR]
+Step (Character Action Stack ‘Output (Postfix)
+
+1 x Add to output x
+2 - Push to stack - x
+3 T Add to output - KT
+4 ” Push to stack _% XT
+5 { Push to stack “=f KT
+6 H Add to output -“'f XTH
+7 * Push to stack -~' 0% XTH
+8 6 Add to output ~ 40" XTHG
+] i] Pop until [ -, 4 XTHG*
+o i Push to stack -~A XTHG?
+an] F Add to output “ie XTHG*F
+12 - Pop / from stack =e XTHG*F/
+13 E Add to output “ie XTHG*F/E
+14 } Pop until ( 4 XTHG*F/E-
+15 / Push to stack - 4 f XTHG*F/E-
+16 B Add to output Af XTHG*F/E-D
+7 i Push to stack - Af XTHG*F/E-D
+18 c Add to output “ie XTHG*F/E-BC
+13 f Push to stack “ie XTHG*F/E-BC
+0 B Add to output “4 XTHG*F/E-DCB
+21 } Pop until ( -,% MTHG*F/E-DCB/S
+22 + Push to stack +,- XTHG*F/E-DCBYS
+23 A Add to output +,- XTHG*F/E-DCB/A
+
+24 End Pop remaining operators MTHG*F/E-BDCB/A+-
 --- page 12 ---
 The steps of achieving the insertion sort are listed as follows -
 Step 1 - If the element is the first element, assume that it is already sorted. Return 1.
@@ -31532,6 +34432,61 @@ The Dijkstra algorithm is applied to handle the shortest path problems. This alg
 also applicable for the given graph. [1 Mark]
 The computation of the Dijkstra algorithm is given as
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Advantages of Doubly Linked List over Singly Linked List
+
+1. Bidirectional Traversal:
+Tn a doubly linked list, each node has a pointer to both the next and previous nodes,
+allowing traversal in both directions (forward and backward). This is not possible in a
+singly linked list, where traversal is only one-way (forward).
+
+2. Efficieat Deletions:
+Inadoubly haked list, deleting a node ts easier and more efficient because you can directly
+access the previous mode via the backward pointer. Ina singly linked list, to delete a node,
+you need to traverse the list from the head to find the previous node, making deletions
+slower.
+
+3. Efficient Insertions:
+Insertion after or before a node ina doubly linked list is easier and faster because you have
+access to both the next and previous modes. Ina singly linked list, inserting before a node
+requires traversing the list to find the previous node first.
+
+4. Backtracking:
+Tna doubly linked list, you can easily go backward if you need to revisit or modify previous
+nodes. Singly Linked lists don't support backtracking because each mode only poimts to the
+mext node.
+
+5. Simpler Tail Operations:
+‘Operations at the tail (like deletion or insertion) are more efficient in a doubly linked List
+because you have ditect access to the last node through a pointer to the tail. In a singly
+linked list, to access the tail, you must traverse from the head.
+
+Disadvantages of Doubly Linked List over Singly Linked List
+
+1, Increased Memory Usage:
+Doubly linked lists require more memory because each node stores two pointers (next and
+previous), while singly linked lists store only one (next).
+
+2. Complexity in Implementation:
+Managing a doubly linked List is more complex than a singly linked List. You need to handle
+and update two pomters for each node (next and previous), increasing the chances of errors
+during insertion, deletion, or pointer updates.
+
+3, Higher Processing Overhead:
+Due to the extra pointer (previous) in each node, insertion and deletion require additional
+steps (adjusting both next and previous poimters), which may introduce a slight overhead
+compared to singly linked lists.
+
+4. Increased Time for Insertions’ Deletions:
+While doubly linked lists are more efficient for some operations (like deletion or insertion
+an the middle), maintainmg two pointers means that basic insertions and deletions are
+slightly slower than in singly linked lists, which only manage one pointer.
+
+5. More Complexity in Memory Management:
+Memory management becomes more complex with a doubly linked list because there are
+two pointers to update and handle correctly during dynamic memory allocation, which
+could increase the risk of memory leaks if not managed carefully.
 --- page 15 ---
 The vertex traversing order is given as V(G): AàCàEàBàD   [2 Marks]
 [2 Marks]
@@ -31750,6 +34705,26 @@ MST in increasing order, as long as they do not form a cycle. The steps of the
 algorithms are listed as
 1. Sort all edges in non-decreasing order of weight.
 Page 6 of 17
+
+[Text in pictures on this page, read by OCR]
+Step 1: DF AVAIL = NULL
+
+Step 1: IF AVAIL = NULL Weite OMERFLON
+Write OVERFLOW Go to Step 10
+Go to Step 7 [eM OF IF]
+(END OF IF] Step 2: SET NEW_NODE = AMATL
+Step 2: SET NEW_NODE = AVAIL coe fo cer ars MOE DATA vat
+Step 3: SET AVAIL = AVATL->NEXT Stop 5. SET NeW NODE —>MEXT ~ MLL
+Step 4: SET NEW_NODE —>DATA = VAL Step 6: SET PTR = START
+Step 5: SET NEW_NODE—>NEXT = START Step 7: Repeat Step # while PTR->NEXT != MILL
+Step 6: SET START = NEW_NODE Step #: ‘SET PTR = PTR->MEXT
+: _ [END OF LOOP]
+Step as EXIT Step 9: SET PTR->MEXT = NEM_NODE
+Step 18: BIT
+
+Time complexity for inserting node at the begining will take less time complexity as it doesnt
+require traversing till the end.To insert node at the end of link list we need to tranverse till the
+end and then add the new node.
 --- page 7 ---
 4. Add the smallest edge to the MST if it doesn’t form a cycle.
 5. Continue adding edges until all vertices are connected.
@@ -31876,6 +34851,35 @@ X T H G * F / E - D C / B / + -
 5.   This is a sample question group   20
 1. Algorithm   10
 Page 11 of 17
+
+[Text in pictures on this page, read by OCR]
+Step (Character Action Stack ‘Output (Postfix)
+
+1 x Add to output x
+2 - Push to stack - x
+3 T Add to output - KT
+4 ” Push to stack _% XT
+5 { Push to stack “=f KT
+6 H Add to output -“'f XTH
+7 * Push to stack -~' 0% XTH
+8 6 Add to output ~ 40" XTHG
+] i] Pop until [ -, 4 XTHG*
+o i Push to stack -~A XTHG?
+an] F Add to output “ie XTHG*F
+12 - Pop / from stack =e XTHG*F/
+13 E Add to output “ie XTHG*F/E
+14 } Pop until ( 4 XTHG*F/E-
+15 / Push to stack - 4 f XTHG*F/E-
+16 B Add to output Af XTHG*F/E-D
+7 i Push to stack - Af XTHG*F/E-D
+18 c Add to output “ie XTHG*F/E-BC
+13 f Push to stack “ie XTHG*F/E-BC
+0 B Add to output “4 XTHG*F/E-DCB
+21 } Pop until ( -,% MTHG*F/E-DCB/S
+22 + Push to stack +,- XTHG*F/E-DCBYS
+23 A Add to output +,- XTHG*F/E-DCB/A
+
+24 End Pop remaining operators MTHG*F/E-BDCB/A+-
 --- page 12 ---
 The steps of achieving the insertion sort are listed as follows -
 Step 1 - If the element is the first element, assume that it is already sorted. Return 1.
@@ -31941,6 +34945,61 @@ The Dijkstra algorithm is applied to handle the shortest path problems. This alg
 also applicable for the given graph. [1 Mark]
 The computation of the Dijkstra algorithm is given as
 Page 14 of 17
+
+[Text in pictures on this page, read by OCR]
+Advantages of Doubly Linked List over Singly Linked List
+
+1. Bidirectional Traversal:
+Tn a doubly linked list, each node has a pointer to both the next and previous nodes,
+allowing traversal in both directions (forward and backward). This is not possible in a
+singly linked list, where traversal is only one-way (forward).
+
+2. Efficieat Deletions:
+Inadoubly haked list, deleting a node ts easier and more efficient because you can directly
+access the previous mode via the backward pointer. Ina singly linked list, to delete a node,
+you need to traverse the list from the head to find the previous node, making deletions
+slower.
+
+3. Efficient Insertions:
+Insertion after or before a node ina doubly linked list is easier and faster because you have
+access to both the next and previous modes. Ina singly linked list, inserting before a node
+requires traversing the list to find the previous node first.
+
+4. Backtracking:
+Tna doubly linked list, you can easily go backward if you need to revisit or modify previous
+nodes. Singly Linked lists don't support backtracking because each mode only poimts to the
+mext node.
+
+5. Simpler Tail Operations:
+‘Operations at the tail (like deletion or insertion) are more efficient in a doubly linked List
+because you have ditect access to the last node through a pointer to the tail. In a singly
+linked list, to access the tail, you must traverse from the head.
+
+Disadvantages of Doubly Linked List over Singly Linked List
+
+1, Increased Memory Usage:
+Doubly linked lists require more memory because each node stores two pointers (next and
+previous), while singly linked lists store only one (next).
+
+2. Complexity in Implementation:
+Managing a doubly linked List is more complex than a singly linked List. You need to handle
+and update two pomters for each node (next and previous), increasing the chances of errors
+during insertion, deletion, or pointer updates.
+
+3, Higher Processing Overhead:
+Due to the extra pointer (previous) in each node, insertion and deletion require additional
+steps (adjusting both next and previous poimters), which may introduce a slight overhead
+compared to singly linked lists.
+
+4. Increased Time for Insertions’ Deletions:
+While doubly linked lists are more efficient for some operations (like deletion or insertion
+an the middle), maintainmg two pointers means that basic insertions and deletions are
+slightly slower than in singly linked lists, which only manage one pointer.
+
+5. More Complexity in Memory Management:
+Memory management becomes more complex with a doubly linked list because there are
+two pointers to update and handle correctly during dynamic memory allocation, which
+could increase the risk of memory leaks if not managed carefully.
 --- page 15 ---
 The vertex traversing order is given as V(G): AàCàEàBàD   [2 Marks]
 [2 Marks]

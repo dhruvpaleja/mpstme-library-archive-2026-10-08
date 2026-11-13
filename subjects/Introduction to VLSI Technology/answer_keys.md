@@ -116,6 +116,37 @@ CO-3, SO-1, BL-2   d.   Explain clock jitter and clock skew with example and   [
 waveforms.
 2 marks each
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Clock Skew and Jitter
+
+Clock skew (sometimes called timing skew) is a phenomenon ‘in synchronous digital
+circuit systems (such as computer systems) in which the same sourced clock signal arrives
+it different components at different times. Cause : Wires , Buffers etc
+
+Clock Jitter: Sometimes some external sources like noise, voltage variations may cause
+‘o disrupt the natural periodicity or frequency of the clock. This deviation from the natural
+ocation of the clock is termed to be clock jitter.
+
+Clock Uncertainty = Clock Jitter + Clock Skew
+
+Clock Jitter cal
+Ideal Clock | \ | \ / Si i \
+
+Clock with jitter J \ J \
+
+rea
+— ‘¢— Data setup
+tt
+ny ae
+Data re
+iG /
+tot
+
+ay. a
+valid
+
+violation caused by clock uncertainty
 --- page 5 ---
 Os
 wir LS LS BS ne
@@ -201,6 +232,23 @@ Q1   a.   Explain VLSI design styles in detail.   [10]
 CO-1, SO-1, BL-2   Diagram – 2 marks, Detailed explanation of each style -8
 marks
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Simulat
+
+Functior
+
+Ber or Red
+EDA Too De: re
+
+ting
+
+erformance Standar
+
+impact
+
+Time-to-Market Acceleration
+Al-driven EDA
 --- page 8 ---
 Q1   b.   Design CMOS circuit and stick diagram for the given Boolean   [10]
 CO-3, SO-1, BL-4   expression.
@@ -209,6 +257,54 @@ CMOS circuit – 5 marks, stick diagram – 5 marks
 (multiple stick diagram configurations are possible, any
 valid one is acceptable)
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Full-custom Semi-custom Programmable
+PLD
+Masked gate array CPLD
+Cell-based (MGA)
+
+(CBIC)
+(standard cells)
+
+FPGA
+
+Key VLSI Design Styles:
+
+* Full-Custom Design: Every transistor and interconnect is manually designed and
+laid out, offering maximum optimization for speed, power, and area. It is highly
+expensive and time-consuming, used only for high-performance processors or
+specialized analog circuits.
+
+* Semi-Custom Design: Utilizes pre-designed, pre-tested, and pre-characterized
+standard cells (logic gates, flip-flops) from a library to reduce design time.
+
+© Standard Cell-Based Design: Cells are placed in rows, with automated
+placement and routing (P&R). It offers a balance between performance and
+design speed.
+
+° Macro Cell-Based Design: Uses larger, pre-designed blocks (e.g., memory, PLLs)
+alongside standard cells to speed up the layout process.
+
++ Array-Based Design (Gate Array): A pre-diffused, pre-fabricated chip consisting
+of transistor arrays, where only the final metal interconnect masks are customized.
+
+° Channeled Gate Array: Interconnects are placed between rows of transistors.
+
+© Channel-less (Sea-of-Gates) Array: The chip is fully covered with transistors,
+offering higher density.
+
+* Programmable Logic Design (FPGA): Field Programmable Gate Arrays (FPGAs)
+allow the designer to program the interconnects and logic functions after
+fabrication using hardware description languages (HDLs). These offer the fastest
+time-to-market but with lower performance than ASIC counterparts.
+
+Design Style Comparison
+* Performance: Full-Custom > Standard Cell > Gate Array > FPGA.
+
+* Design Time/Cost: Full-Custom > Standard Cell > Gate Array > FPGA.
+
+* Flexibility: FPGA > Full-Custom > Semi-Custom.
 --- page 9 ---
 Q2   a.   Draw the circuit diagram and VTC of a real MOS inverter with   [10]
 CO-2, SO-1, BL-2   n-type D MOSFET load and explain the working.
@@ -326,6 +422,25 @@ CO-4, SO-1, BL-3   logic. Also draw their stick diagram.
 CMOS circuits – 2+2+3 marks, stick diagrams – 1 mark
 each
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Detailed Steps in ASIC design flow
+
+Design for Test RTL Desi, 1. Ship
+(OFT) insertion Partitioning synthesis ‘rurstional_ SPetification FRONT
+of chip verification END
+5
+=O — © — ¢
+6 Floor
+planning
+“ BACK
+7 END
+6 =Ommoumoe
+Placement
+Routi GDS II
+Stage Clock tree Stage. Final
+
+synthesis (CTS) 9 Verification
 --- page 12 ---
 2 INPUT — CMOS NAND GATE
 
@@ -353,6 +468,24 @@ Schematic capture tools in VLSI design are specialized
 software applications used to create a visual representation of
 electronic circuits, connecting components to form the logical
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
++ Asynchronous sequential circuit
+- Responding to the changes occurring in input signals at a circuit-delay-dependent time point
+during their operation
++ Synchronous operation
+- By adding a gating clock signal to the circuit
+- The outputs will respond to the input levels only during the active period of a clock pulse
++ Aclocked NOR-based SR latch
+- CK=0
++ The input signal have no influence upon the circuit response
++ Output hold its current state
+- CK=1
++ Sand R inputs are permitted to reach the SR latch
+- The circuit is strictly level-sensitive during active clock phases
++ Any changes occurring in the S and R input voltage when the CK level is equal to "1"
+
+CK
 --- page 15 ---
 foundation of a chip before layout. In modern VLSI design,
 these tools serve as the frontend operation, allowing designers
@@ -655,6 +788,37 @@ FI ICR D7 FAC HOH
 Q6   b.   Explain the effect of different values of VDS on the channel   [05]
 CO-2, SO-1, BL-2   formation and ID in E-MOSFET.
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+Simulation Tools (Cont.)
+
+a Simulation tools used at various stages of the
+design process are
+= Behavior simulation tools
+= Logic Level simulation tools
+>» Complement logic synthesis and optimization tools.
+= Circuit-leyel simulation tools
+
+> SPICE or derivatives such as HSPICE, PSPICE, etc.
+
+= Design Rule Checking tools
+
+> Layout rule checking, Electrical Rule Checking (ERC),
+reliability rule checking.
+
+¢ Drain end of the channel and Source
+end of the channel are at almost same
+voltage
+
+¢ The relative electron density is constant
+along the entire channel length.
+
+¢ Uniform channel width
+
+* Hence, Ip increases linearly as Vp.
+increases
+
+° Linear region: Vp. < Veg - Vz
 --- page 23 ---
 Vos
 
@@ -734,6 +898,24 @@ to adjust the threshold voltage of the PMOS transistor.
 Step 7 : Implant step is performed to adjust the threshold
 voltage of NMOS transistor.
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+When V,, becomes larger than Vpg (sat), the channel
+gets cut Short before reaching Drain.
+
+In this case, electrons enter the channel at the
+source, travel through the channel towards the drain
+and then at the point where the charge goes to zero,
+are injected into the depletion region, where they
+are swept by the E-field to the drain contact as
+minority carriers.
+
+Hence, I, remains constant for all values of
+Vos > Vos (saturation).
+
+This phenomenon is know as
+
+Saturation region: Vp, > Ves - Vz
 --- page 25 ---
 Step 8 : A thin layer of gate oxide and polysilicon is chemically
 deposited and patterned with the help of polysilicon mask.
@@ -758,6 +940,20 @@ Code for half adder:
 Code for test bench ($display is optional, marks to be given
 even if $display is not there):
 ********** 27 **********
+
+[Text in pictures on this page, read by OCR]
+module half_adder (
+input wire a,
+input wire b,
+output wire sum,
+output wire carry
+
+)3
+
+assign sum =a%*b; “/ XOR for sum
+assign carry = a &b; // AND for carry
+
+endmodule
 --- page 28 ---
 “timescale i1ns/ips
 module tb_half_adder;
@@ -812,7 +1008,7 @@ FI ICR 2 QA HH
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_EXTC_7006/Introduction to VLSI Technology/ANS_Introduction to VLSI Technology(702EX0C034)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Jul 2026
 - Text: mixed (25 pages), mean OCR confidence 80.5
-- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -874,6 +1070,42 @@ inverter: rise time, fall time, propagation delay, dynamic power.
 CO-3, SO-1, BL-2   d.   Explain setup time and hold time with example and waveforms.   [04]
 2 marks each for setup time and hold time.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+SN
+
+There are two main problems that can arise in synching di:
+
+> Max Delay: The data doesn’t have enough time toBass from one register
+to the next before the next clock edge. Ne O
+
+> Min Delay: The data path is so short «tah passes through several
+registers during the same clock gc ie)
+
+>» Max delay violations are a result-of a slow data path, including the
+registers, t,, therefore it sgsten called the “Setup” path.
+
+> Min delay violations asa result of a short data path, causing the data to
+change before the Ru has passed, therefore it is often called the “Hold”
+
+path.
+
+Setup (Max) Constraint
+
+> After the clock rises, it takes beg for the'data to propagate to point A.
+
+> Then the data goes through the delay of the logic to get to point B.
+> The data has to arrive at point B,\ty) before the next clock.
+
+Tdi + bioaie Hts
+
+T + Og) > co + hogic tts + 9,
+
+logic margin
+
+Setup Slack = Data Required Time — Data Arrival Time
+» Positive Slack : No Timing Violation
+> Negative Slack : Timing Violation
 --- page 4 ---
 CO-5, SO-1, BL-2   e.   Explain what are EDA tools and their overall importance in   [04]
 VLSI design.
@@ -900,12 +1132,51 @@ complex tasks, EDA tools enhance productivity and minimize
 errors, ensuring that designs adhere to rigorous industry
 standards.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Hold (Min) Constraint
+
+Hold problems occur due to the logic changing before t,,,\, has passed.
+
+This is not a function of cycle time — it is relative to a single clock edge!
+
++ The clock rises and the data at A changes after t,, . The data‘at B changes t,, (logic) later.
++ Since the data at B had to stay stable for t,,,, after the clock (for the second register), the
+change at B has to be at least t,,,)4 after the clock edge,
+
+«—<—-
+
+_T 1 vt +
+oi
+s— [fe =
+
+Leo wie > nota
+Hold Slack = Data Arrival Time— Data Required Time
+> Positive Slack : No Timing Violation
+> Negative Slack : Timing Violation
 --- page 5 ---
 (Section II) Attempt any 4   [80]
 Q1   a.   Explain how CAD technology is used in VLSI design for   [10]
 CO-1, SO-1, BL-2   synthesis, layout and simulation.
 3+3+4 marks for each tool
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Simulat
+
+Functior
+
+Ber or Red
+EDA Too De: re
+
+ting
+
+erformance Standar
+
+impact
+
+Time-to-Market Acceleration
+Al-driven EDA
 --- page 6 ---
 Synthesis Tools
 
@@ -962,6 +1233,23 @@ Circuit-5 marks, stick diagram-5 marks
 (multiple stick diagram configurations are possible, any
 valid one is acceptable)
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Simulation Tools (Cont.)
+
+a Simulation tools used at various stages of the
+design process are
+= Behavior simulation tools
+= Logic Level simulation tools
+>» Complement logic synthesis and optimization tools.
+= Circuit-leyel simulation tools
+
+> SPICE or derivatives such as HSPICE, PSPICE, etc.
+
+= Design Rule Checking tools
+
+> Layout rule checking, Electrical Rule Checking (ERC),
+reliability rule checking.
 --- page 8 ---
 VDD
 
@@ -982,6 +1270,29 @@ characteristics.
 Construction diagram -3 marks, description – 2 marks,
 characteristics – 3 marks, working explanation – 2 marks
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+N channel E-MOSFET construction
+
+* p type Substrate
+* n type Source D SiO, _/n - doped region
+* n type Drain
+
+* SiO, layer between Gate and Adetallic
+Substrate contacts
+
+* Metal layer to connect terminal: G
+
+No channel
+* No channel constructed
+between Source and Drain
+
+Substrate
+p-type ss
+Substrate
+* No channel, hence no current
+
+flow between Drain and Source 8 1 - doped region
 --- page 10 ---
 N channel E-MOSFET working
 
@@ -1045,6 +1356,61 @@ CMOS circuits – 2+2+3 marks, stick diagrams – 1 mark
 each
 AND GATE:
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+¢ Ata particular value of V<, there is a measurable
+current flow between drain and source.
+
+° pile = as of Vs is called threshold voltage denoted
+Y Vy.
+
+* For any voltage below the threshold value, there is
+no channel.
+
+. 2 Ip =O if Ves < Vy
+
+° Cutoff region: Ve, < Vy
+
+* For Vg > V; the relationship between drain current
+|pand gs is nonlinear and It is given as
+
+Ip = K (Vgs-Vr)?
+
+* Kis aconstant and is called conduction parameter.
+It is a function of the construction of the device.
+
+N channel E-MOSFET Drain Characteristics (I-
+V characteristics)
+
+Vos $ Ves - Vr
+
+Triode region
+amet]
+* As Vs increases beyond the threshold H j= Saturation region ——>
+level, the density of free carriers hp (mA):
+' t " Curve represents pinch-off values:
+(electrons) in the induced channel 6 eae,
+increases, increasing the drain current. 9
+
+2 [*— Vos = Ves - Vr
+* However, at some point of Vps, for
+constant V,., the drain current reaches 6
+a saturation level. 5
+
+* The value of V,. at this point is known 3
+
+Vos" *7V
+
+Vos™ *6V
+
+Vos" *5V
+
+as saturation voltage Vp (saturation) OF 2
+pinch-off voltage (V,). ' : Vest i3¥
+* The levelling off of |, is due to a pinch- 0” SVE tov 15v 20v/25V Vos)
+é6v Cutoff Vos" Vr=2V
+
+off process. (Ves <Vr)
 --- page 12 ---
 \v substrate connection
 
@@ -1236,6 +1602,19 @@ Routers and links connect cores
 Supports parallel data transfer
 Uses topologies like mesh, torus, or ring
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+Step5: Find Pin to Pine Combinational Delay (A to Y delay)
+
+Pin to Pin Combinational Delay (A to Y)
+= U7 Tpd + U5 Tpd + U6 Tpd
+=1+9+6=16ns
+
+Step5: Find Out Max Clock Frequency:
+
+Max Clock Freq = 1/ Max (Reg2reg, Clk2Out, Pin2Pin)
+= 1/ Max (16, 22, 16)
+= 45.5 Mhz
 --- page 20 ---
 NoC vs Bus Architecture
 
@@ -1296,6 +1675,56 @@ Step 3 : A plasma etching process using the complementary of
 the active area mask to create trenches used for insulating the
 devices.
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+Four Levels of Design Representation
+
+Behavioral
+Representation
+
+Circuit
+(Transistor-Level)
+Representation
+
+Transistor Schematics
+
+~ a] Physical Devices
+‘piled *
+
+Step 9. Routing
+
+Global Routing:
+
+* Routing: Create
+> Goal: Determine the location of all the interconnects.
+
+physical connections
+based on logical > Objective: Minimize the total interconnect area.
+
+connectivity. > Wire segments are tentatively assigned (embedded)
+° . within the chip layout .
+* Connect cells using
+
+metal layers (modern
+processes have 10-15
+
+metal layers) Detailed Routing:
++ Timing > Goal: Completely route all the interconnects on the
+
+eat ge chip.
+
+Optimization: Insert oe a
+
+buffers, resize gates, > Objective: Minimize the total interconnect length
+eee ” used.
+
+optimize paths to > Find actual geometric layout of each net within
+
+meet timing assigned routing regions.
+
+optimization
+
+Detailed Routing
 --- page 22 ---
 Step 4 : The trenches are filled with SiO2 which is called as the
 field oxide.
@@ -1331,6 +1760,46 @@ Code for full adder:
 Code for test bench ($display is optional, marks to be given
 even if $display is not there):
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+module full_adder (
+input wire a,
+input wire b,
+input wire cin,
+output wire sum,
+output wire cout
+
+)3
+
+assign sum =a * b * cin; // Sum
+assign cout = (a & b) | (b & cin) | (a & cin); // Carry-out
+
+endmodule
+
+“timescale ins/ips
+
+module tb full _adder;
+
+reg a;
+reg b;
+reg cin;
+wire sum;
+wire cout;
+
+// Instantiate the Full Adder
+full_adder uut (
+
+-a(a),
+
+-b(b),
+
+-cin(cin),
+
+-sum(sum),
+
+-cout (cout)
+
+y3
 --- page 25 ---
 initial begin
 $display("A B Cin | SUM Cout");

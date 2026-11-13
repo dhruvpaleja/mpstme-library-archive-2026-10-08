@@ -627,6 +627,25 @@ CO-3; SO-   best split. (Calculate the root node)
 2;
 BL-4
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+ID || Credit History Debt Collateral Income | Credit Risk?
+
+l bad high none 0-15k high
+2 unknown high none 15-35k high
+3 unknown low none 15-35k moderate
+4 unknown low none 0-15k high
+5 unknown low none >35k low
+6 unknown low adequate >35k low
+7 bad low none 0-15k high
+8 bad low adequate >35k moderate
+9 good low none >35k low
+10 good high adequate >35k low
+11 good high none 0-15k high
+12 good high none 15-35k moderate
+13 good high none > 35k low
+
+14 bad high none 15-35k high
 --- page 3 ---
 Instance A1 A2   A3   Classification
 1   True Hot   High   No
@@ -765,6 +784,25 @@ CO-3; SO-   best split. (Calculate the root node)
 2;
 BL-4
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+ID || Credit History Debt Collateral Income | Credit Risk?
+
+l bad high none 0-15k high
+2 unknown high none 15-35k high
+3 unknown low none 15-35k moderate
+4 unknown low none 0-15k high
+5 unknown low none >35k low
+6 unknown low adequate >35k low
+7 bad low none 0-15k high
+8 bad low adequate >35k moderate
+9 good low none >35k low
+10 good high adequate >35k low
+11 good high none 0-15k high
+12 good high none 15-35k moderate
+13 good high none > 35k low
+
+14 bad high none 15-35k high
 --- page 3 ---
 Instance A1 A2   A3   Classification
 1   True Hot   High   No
@@ -903,6 +941,25 @@ CO-3; SO-   best split. (Calculate the root node)
 2;
 BL-4
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+ID || Credit History Debt Collateral Income | Credit Risk?
+
+l bad high none 0-15k high
+2 unknown high none 15-35k high
+3 unknown low none 15-35k moderate
+4 unknown low none 0-15k high
+5 unknown low none >35k low
+6 unknown low adequate >35k low
+7 bad low none 0-15k high
+8 bad low adequate >35k moderate
+9 good low none >35k low
+10 good high adequate >35k low
+11 good high none 0-15k high
+12 good high none 15-35k moderate
+13 good high none > 35k low
+
+14 bad high none 15-35k high
 --- page 3 ---
 Instance A1 A2   A3   Classification
 1   True Hot   High   No

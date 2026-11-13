@@ -1415,7 +1415,8 @@ Page - 2.0} >
 - Programmes: B TECH / CIVIL
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/V SEMESTER/HIGHWAY AND RAILWAY ENGINEERING/HIGHWAY AND RAILWAY ENGINEERING B TECH (CIVIL), BATCH 15-16 RE EXAM.pdf`
 - Printed on paper: duration hours: 3; exam date: 26 November 2016
-- Text: ocr (3 pages), mean OCR confidence 74.8
+- Text: ocr (3 pages), mean OCR confidence 86.7
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 pies
@@ -1506,36 +1507,23 @@ red phase is of 5 sec. Assume rest as per IRC.
 
 23
 --- page 3 ---
-gw, ifwwmHoso
+100
 
-ul Eater
-a) Ua 2
-eee yy Ww
-a| 25 =" ee
-iT) og
-@ =>
-ie LL
-u. =
-a &
-e Olt oo a
-Ri
-¢ F
-9
-w
-o.
-al
-fava =
-m
-Oo a
-Ls]
-Pa
-io
-wn
-+
-thal m
-~ = m Jo qi
+~S 400
 
-8 8 &
+CBR (Percent)
+2 3 4 5 5 7 8 9 10 15 20
+ul — TRAFFIC GLASSIFIGATION
+: =
+No. of Commercial
+Vechicles per d
+CURVE i
+= A oO - 15
+F B 15 - 45
+c 45 -150
+D 150 -450
+
+Fig 1 : CBR Curves for Flexible Pavement Design
 ````
 
 ## 2016-17 · Re-Exam · Sem 5 · paper e5e9a329e105

@@ -376,6 +376,26 @@ Aggregating) involves training multiple models independently on different
 random samples of the dataset. It mainly reduces variance, and Random Forest
 is a common example. Boosting trains models sequentially, where each new
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Entropy(S) = 1
+
+IG(Age) = 0.3115
+IG(Income) = 0.0615
+IG(Student) = 1.0000
+IG(Credit Rating) = 0.0490
+
+Decision Tree
+
+Student
+/ \
+ves No
+Ves No
+Prediction
+
+For Age = Senior, Income = Medium, Student = Yes, Credit Rating = Fair
+
+Buy Product = Yes
 --- page 3 ---
 model focuses on correcting the errors of the previous one. It reduces bias and
 improves performance, with examples including AdaBoost, Gradient Boosting,
@@ -477,6 +497,26 @@ Aggregating) involves training multiple models independently on different
 random samples of the dataset. It mainly reduces variance, and Random Forest
 is a common example. Boosting trains models sequentially, where each new
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Entropy(S) = 1
+
+IG(Age) = 0.3115
+IG(Income) = 0.0615
+IG(Student) = 1.0000
+IG(Credit Rating) = 0.0490
+
+Decision Tree
+
+Student
+/ \
+ves No
+Ves No
+Prediction
+
+For Age = Senior, Income = Medium, Student = Yes, Credit Rating = Fair
+
+Buy Product = Yes
 --- page 3 ---
 model focuses on correcting the errors of the previous one. It reduces bias and
 improves performance, with examples including AdaBoost, Gradient Boosting,

@@ -1460,6 +1460,19 @@ is struggling, quantitative data pinpoints exactly where and how often the
 struggles occur, removing subjective bias from design decisions
 [0.5 Mark].
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+plan 0.
+dol
+at the same time, if the pot is full 2
+
+then 3-4
+after four or five minutes do 6
+
+aa are rE
+when kettle boils 1.4
+
+|__| Hierarchical task analysis: making a cup of tea
 --- page 10 ---
 1. Utilizing Task Completion Time 3 Marks)
 • What it indicates: Also known as "Time on Task," a high
@@ -2273,6 +2286,19 @@ is struggling, quantitative data pinpoints exactly where and how often the
 struggles occur, removing subjective bias from design decisions
 [0.5 Mark].
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+plan 0.
+dol
+at the same time, if the pot is full 2
+
+then 3-4
+after four or five minutes do 6
+
+aa are rE
+when kettle boils 1.4
+
+|__| Hierarchical task analysis: making a cup of tea
 --- page 10 ---
 1. Utilizing Task Completion Time 3 Marks)
 • What it indicates: Also known as "Time on Task," a high
@@ -3086,6 +3112,19 @@ is struggling, quantitative data pinpoints exactly where and how often the
 struggles occur, removing subjective bias from design decisions
 [0.5 Mark].
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+plan 0.
+dol
+at the same time, if the pot is full 2
+
+then 3-4
+after four or five minutes do 6
+
+aa are rE
+when kettle boils 1.4
+
+|__| Hierarchical task analysis: making a cup of tea
 --- page 10 ---
 1. Utilizing Task Completion Time 3 Marks)
 • What it indicates: Also known as "Time on Task," a high
@@ -3899,6 +3938,19 @@ is struggling, quantitative data pinpoints exactly where and how often the
 struggles occur, removing subjective bias from design decisions
 [0.5 Mark].
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+plan 0.
+dol
+at the same time, if the pot is full 2
+
+then 3-4
+after four or five minutes do 6
+
+aa are rE
+when kettle boils 1.4
+
+|__| Hierarchical task analysis: making a cup of tea
 --- page 10 ---
 1. Utilizing Task Completion Time 3 Marks)
 • What it indicates: Also known as "Time on Task," a high
@@ -4712,6 +4764,19 @@ is struggling, quantitative data pinpoints exactly where and how often the
 struggles occur, removing subjective bias from design decisions
 [0.5 Mark].
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+plan 0.
+dol
+at the same time, if the pot is full 2
+
+then 3-4
+after four or five minutes do 6
+
+aa are rE
+when kettle boils 1.4
+
+|__| Hierarchical task analysis: making a cup of tea
 --- page 10 ---
 1. Utilizing Task Completion Time 3 Marks)
 • What it indicates: Also known as "Time on Task," a high
@@ -7595,6 +7660,19 @@ is struggling, quantitative data pinpoints exactly where and how often the
 struggles occur, removing subjective bias from design decisions
 [0.5 Mark].
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+plan 0.
+dol
+at the same time, if the pot is full 2
+
+then 3-4
+after four or five minutes do 6
+
+aa are rE
+when kettle boils 1.4
+
+|__| Hierarchical task analysis: making a cup of tea
 --- page 10 ---
 1. Utilizing Task Completion Time 3 Marks)
 • What it indicates: Also known as "Time on Task," a high
@@ -10520,6 +10598,25 @@ BL-4   5. Offer error prevention and simple error handling   7-8
 4 m
 8. Reduce short-term memory load
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Fitts’s Law
+
+MT=a + b * log2(DIW + 1)
+
+« MT=:The movement time
+10 aand b= the intercept and slope
+D= the distance between the origin
+8 and the target
+We the width of the target
+MT
+6 slope: b
+4
+2
+Intercept: a
+
+0123456789
+ID
 --- page 4 ---
 a.   List and explain input output devices required to use online video lecture
 system.
@@ -10608,6 +10705,28 @@ Tech-Savviness: Highly proficient with mobile apps and AI-based services
 Lifestyle: Frequently stays in luxury resorts and values seamless digital
 experiences
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Prototype : Advantages : _ Disadvantages
+
+Low-fidelity - low developmental cost __- limited error checking
+
+prototype - evaluate multiple design - navigational and flow
+
+concepts limitations
+High-fidelity ~ fully interactive |- more expensive to
+prototype - look and feel of final develop
+
+product - time consuming to
+
+- clearly defines build
+
+navigational scheme - developers are
+
+reluctant to change
+
+something they have
+crafted for hours
 --- page 6 ---
 Pain Points:
 •   Prefers quick and hassle-free ordering without needing to call staff
@@ -10638,6 +10757,56 @@ SO-1;   (lights, security cameras, thermostats, etc.).   for
 BL-3
 Use Nielsen’s 10 heuristics to assess the usability of the app’s interface.   each
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+0, Get cash from ATM
+
+Plan 0: 1-2--exit
+
+Plan 1; 1. Identity self
+
+124 Sent
+
+2, Request cash
+
+1.4 Check|) 1.2 Push |] 1.3 Read PIN
+
+1.4 Enter |) 1.5 Press
+
+machine |} card into |] instructions off} PIN ‘Enter
+
+working |} card sit |] screen
+
+button
+
+3, Retrieve materials
+
+Pian 3:
+
+24 Read || 2.2 Choose |] 2.3 Press
+‘cash amount] cash option |] chosen ‘cash || ‘other
+
+potions | required
+
+option’ key
+
+2.4 Press
+
+amount key
+
+te
+25 Keyin ¢ 4 Sexi
+amount of
+
+cash required tell
+
+3.1 Wait for
+item tobe
+dispensed
+
+3.2 Pick ||3.3 Pick |]3.4 Pick |] 3.5 Check
+up card |} up receipt || up cash }} cash amount
+correct
 --- page 7 ---
 heuri
 1.Visibility of system status   stics
@@ -10660,6 +10829,45 @@ SO-1;
 BL-4   differ
 ence
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Difference between Qualitative and Quantitative Research
+
+Qualitative Research Quantitative Research
+A method for developing a better It is the method used to generate numerical
+understanding of human and social sciences, | data by using a lot of techniques such as
+in understanding human behaviour and logical, statistical and mathematical
+personalities better techniques
+It employs a subjective approach It employs an objective approach
+It is generally expressed using words It is expressed using graphs and numbers
+It has open-ended questions It has multiple choice questions
+Qualitative research needs only a few Quantitative research requires many
+respondents respondents
+The data collection methods involved are The data collection methods involved are
+interviews, focus groups, literature review, experiments, surveys, and observations
+ethnography expressed in numbers
+Qualitative research is holistic in nature Quantitative Research is particularistic in
+
+nature
+
+The reasoning used to synthesise data in this The reasoning used to synthesise data in
+
+research is inductive this research is deductive
+
+This method involves a process-oriented This method does not involve a process-
+inquiry oriented inquiry
+
+It develops the initial understanding of data It recommends a final course of action
+
+The data taken in the Qualitative research The data taken in this method is pretty
+method is pretty verbal measurable
+
+The objective of this research method is to The main objective of Quantitative research
+engage and discover various ideas is to examine the cause and effect between
+
+the variables
+
+It is one of the exploratory research methods It is a conclusive research method
 --- page 8 ---
 b.   An online education platform has received complaints about poor usability and
 difficult navigation. Identify five possible UX flaws that could be causing user
@@ -10835,6 +11043,25 @@ BL-3   1. Entry Conditions:   point
 • A restaurant is available and open for customers.
 • Emma has money or a payment method to pay for the meal.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Define system
+deliverables
+
+Des ign system Specify system Build sys tem
+architecture increment increment
+
+Validate
+increment
+
+System
+com plete? 4
+
+Validate
+system
+
+Integrate
+increment
 --- page 2 ---
 2. Roles:
 • Customer (Emma): Orders and eats the meal.
@@ -11017,6 +11244,26 @@ She selects the "Flight Updates" option and inputs her flight number.
 The system instantly provides her gate number, boarding time, and
 estimated walking time. Realizing she has time for a quick meal, Emma
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Prototype Advantages Disadvantages
+Low-fidelity - low developmental cost _ - limited error checking
+prototype - evaluate multiple design - navigational and flow
+
+concepts limitations
+High-fidelity ~ fully interactive ~ more expensive to
+prototype - look and feel of final develop
+
+product - time consuming to
+
+- clearly defines build
+
+navigational scheme - developers are
+
+reluctant to change
+
+something they have
+crafted for hours
 --- page 6 ---
 asks the assistant for nearby dining recommendations based on her
 preferences. The system suggests a café near her gate and even provides

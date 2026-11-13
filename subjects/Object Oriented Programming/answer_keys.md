@@ -352,6 +352,28 @@ Employee salesExecutive1 = new Employee("Abhishek","Sales",
 Employee salesExecutive2 = new Employee("Ishan","Sales", 10000);
 CEO.add(headSales);
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+CompositePatternDemo
+
++main() : void
+
+asks
+Employee
+Has list of
+-name: String employees
+-dept : String
+-salary: int
+
+-subordinates : List <Employee>
+
+-Employee ()
+
++add() : void
++remove() : void
++getSubordinates: List
+<Employee>
++toString() : String
 --- page 9 ---
 CEO.add(headMarketing);
 headSales.add(salesExecutive1);
@@ -1186,6 +1208,28 @@ Employee salesExecutive1 = new Employee("Abhishek","Sales",
 Employee salesExecutive2 = new Employee("Ishan","Sales", 10000);
 CEO.add(headSales);
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+CompositePatternDemo
+
++main() : void
+
+asks
+Employee
+Has list of
+-name: String employees
+-dept : String
+-salary: int
+
+-subordinates : List <Employee>
+
+-Employee ()
+
++add() : void
++remove() : void
++getSubordinates: List
+<Employee>
++toString() : String
 --- page 9 ---
 CEO.add(headMarketing);
 headSales.add(salesExecutive1);
@@ -2020,6 +2064,28 @@ Employee salesExecutive1 = new Employee("Abhishek","Sales",
 Employee salesExecutive2 = new Employee("Ishan","Sales", 10000);
 CEO.add(headSales);
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+CompositePatternDemo
+
++main() : void
+
+asks
+Employee
+Has list of
+-name: String employees
+-dept : String
+-salary: int
+
+-subordinates : List <Employee>
+
+-Employee ()
+
++add() : void
++remove() : void
++getSubordinates: List
+<Employee>
++toString() : String
 --- page 9 ---
 CEO.add(headMarketing);
 headSales.add(salesExecutive1);
@@ -2854,6 +2920,28 @@ Employee salesExecutive1 = new Employee("Abhishek","Sales",
 Employee salesExecutive2 = new Employee("Ishan","Sales", 10000);
 CEO.add(headSales);
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+CompositePatternDemo
+
++main() : void
+
+asks
+Employee
+Has list of
+-name: String employees
+-dept : String
+-salary: int
+
+-subordinates : List <Employee>
+
+-Employee ()
+
++add() : void
++remove() : void
++getSubordinates: List
+<Employee>
++toString() : String
 --- page 9 ---
 CEO.add(headMarketing);
 headSales.add(salesExecutive1);
@@ -3559,6 +3647,41 @@ System.out.println("Square displayed");
 public static void main(String[] args) {
 Square s = new Square();
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Single Multilevel Hierarchical Hybrid Multiple
+= wal 5
+a - ——
+[
+[a =| ES ri
+| —— |
+Exampld
+
+class At class At class Af class At ‘Not supported using
+; 3 } } classes.
+
+class B extends A{
+3
+
+class B extends A{
+3
+class C extends B{
+
+3
+
+class B extends A{
+3
+class C extends A{
+
+3
+
+class B extends A{
+3
+class C extends B{
+3
+class D extends B{
+
+3
 --- page 6 ---
 s.display();
 }
@@ -4342,6 +4465,41 @@ System.out.println("Square displayed");
 public static void main(String[] args) {
 Square s = new Square();
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Single Multilevel Hierarchical Hybrid Multiple
+= wal 5
+a - ——
+[
+[a =| ES ri
+| —— |
+Exampld
+
+class At class At class Af class At ‘Not supported using
+; 3 } } classes.
+
+class B extends A{
+3
+
+class B extends A{
+3
+class C extends B{
+
+3
+
+class B extends A{
+3
+class C extends A{
+
+3
+
+class B extends A{
+3
+class C extends B{
+3
+class D extends B{
+
+3
 --- page 6 ---
 s.display();
 }
@@ -5504,6 +5662,41 @@ System.out.println("Square displayed");
 public static void main(String[] args) {
 Square s = new Square();
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Single Multilevel Hierarchical Hybrid Multiple
+= wal 5
+a - ——
+[
+[a =| ES ri
+| —— |
+Exampld
+
+class At class At class Af class At ‘Not supported using
+; 3 } } classes.
+
+class B extends A{
+3
+
+class B extends A{
+3
+class C extends B{
+
+3
+
+class B extends A{
+3
+class C extends A{
+
+3
+
+class B extends A{
+3
+class C extends B{
+3
+class D extends B{
+
+3
 --- page 6 ---
 s.display();
 }
@@ -6287,6 +6480,41 @@ System.out.println("Square displayed");
 public static void main(String[] args) {
 Square s = new Square();
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Single Multilevel Hierarchical Hybrid Multiple
+= wal 5
+a - ——
+[
+[a =| ES ri
+| —— |
+Exampld
+
+class At class At class Af class At ‘Not supported using
+; 3 } } classes.
+
+class B extends A{
+3
+
+class B extends A{
+3
+class C extends B{
+
+3
+
+class B extends A{
+3
+class C extends A{
+
+3
+
+class B extends A{
+3
+class C extends B{
+3
+class D extends B{
+
+3
 --- page 6 ---
 s.display();
 }

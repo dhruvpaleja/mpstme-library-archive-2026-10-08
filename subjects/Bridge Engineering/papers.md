@@ -114,6 +114,25 @@ Permissible compressive stress = 158 MPa
 Table -1 – Value of constant ‘α’ (IRC-21)
 Class AA (Tracked vehicle)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+b for simply ~ for for simply: for
+
+1, supported continuous supported continuous
+
+slab slab slab slab
+0.1 0.40 0.40 11 2.60 2.28
+0.2 0.80 0.80 1,2 2.64 2.36
+0.3 1.16 1.16 1.3 2.72 2.40
+0.4 1.48 1.44 14 2.80 2.48
+0.5 1.72 1.68 1.5 2.84 2.48
+0.6 1.96 1.84 1.6 2.88 2.52
+0.7 2.12 1.96 1.7 2.92 2.56
+0.8 2.24 2.08 1.8 2.96 2.60
+0.9 2.36 2.16 19 3.00 2.60
+1.0 2.48 2.24 2& 3.00 2.60
+
+above
 --- page 4 ---
 CLASS 70R (T)
 

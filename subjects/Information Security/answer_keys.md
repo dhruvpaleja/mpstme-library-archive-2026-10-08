@@ -43,6 +43,28 @@ b.   2. Fault   [5]
 BL-2   3. Failure
 4. Flaw
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+_ Security Goals
+
+> Confidentiality > Authentication
+¢ Assuring that the communicating
+entity is the one that it claims to be
+
+> Access Control
+
+* Only intended users should be able
+to access the contents of a message
+
+» Integrity ° Who can access what resources and|
+« A message should be preserved as it under what conditions
+travels from one point to another > Non- Repudiation
+> Availability A Protection against denial by one of
+the entities involved in al
+» It ensures that the resources are Garment
+
+available to the authorized entities
+at all time
 --- page 2 ---
 Ans.
 CO-3   Explain the following terminologies.
@@ -53,6 +75,54 @@ c.   [5]
 BL-2   4. Groups and Roles
 Ans.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Sidebar 3-1 The Terminology of (Lack of) Quality
+
+Thanks to Admiral Grace Murray Hopper, we casually call a software problem a
+“bug.” [KID98] But that term can mean different things depending on context: a
+mistake in interpreting a requirement, a syntax error in a piece of code, or the
+(as-yet-unknown) cause of a system crash. The Institute of Electronics and
+Electrical Engineers (IEEE) suggests using a standard terminology (in IEEE
+Standard 729) for describing bugs in our software products [IEE83].
+
+When a human makes a mistake, called an error, in performing some
+software activity, the error may lead to a fault, or an incorrect step, command,
+process, or data definition in a computer program, design, or documentation. For
+example, a designer may misunderstand a requirement and create a design that
+does not match the actual intent of the requirements analyst and the user. This
+design fault is an encoding of the error, and it can lead to other faults, such as
+incorrect code and an incorrect description in a user manual. Thus, a single error
+can generate many faults, and a fault can reside in any development or
+maintenance product.
+
+A failure is a departure from the system’s required behavior. It can be
+discovered before or after system delivery, during testing, or during operation
+and maintenance. Since the requirements documents can contain faults, a failure
+indicates that the system is not performing as required, even though it may be
+performing as specified.
+
+Thus, a fault is an inside view of the system, as seen by the eyes of the
+developers, whereas a failure is an outside view: a problem that the user sees.
+Every failure has at least one fault as its root cause. But not every fault
+corresponds to a failure; for example, if faulty code is never executed or a
+particular state is never entered, the fault will never cause the code to fail.
+
+Although software engineers usually pay careful attention to the distinction
+between faults and failures, security engineers rarely do. Instead, security
+engineers use flaw to describe both faults and failures. In this book, we use the
+security terminology; we try to provide enough context so that you can
+understand whether we mean fault or failure.
+
+15.1. What Is Identity?
+
+Identity is simply a computer’s representation of an entity.
+
+Definition 15-1. A principal is a unique entity. An identity specifies a
+principal.
+
+Authentication binds a principal to a representation of identity internal
+to the computer. Each system has its own way of expressing this representation,
 --- page 3 ---
 but all decisions of access and resource allocation assume that the binding is
 correct.
@@ -491,6 +561,72 @@ SO-   b.   1. separation   [10]
 BL-1   3. access control
 Ans.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+executed until much later, so the delayed impact can be almost as difficult to diagnose as if
+the attack came from an unrelated, independent user. The most significant impact of a
+buffer overflow occurs when the excess data affect the operating system’s code or data.
+
+Modification of code and data for one user or another is significant, but it is not a major
+computer security issue. However, as we show in the next section, buffer overflows
+perpetrated on the operating system can have serious consequences.
+
+Affecting the Operating System or a Critical Application
+
+The same basic scenarios occur for operating system code or data as for users, although
+again there are important variations. Exploring these differences also leads us to consider
+motive, and so we shift from thinking of what are essentially accidents to intentional
+malicious acts by an attacker.
+
+Because the mix of programs changes continually on a computing system, there is little
+opportunity to affect any one particular use. We now consider the case in which an
+attacker who has already overtaken an ordinary user now wants to overtake the operating
+system. Such an attack can let the attacker plant permanent code that is reactivated each
+time a machine is restarted, for example. Or the attack may expose data, for example,
+passwords or cryptographic keys that the operating system is entrusted to safeguard. So
+now let us consider the impact a (compromised) user can have on the operating system.
+
+Users’ code and data are placed essentially at random: wherever there is free memory of
+an appropriate size. Only by tracing through system memory allocation tables can you
+learn where your program and data appear in memory. However, certain portions of the
+operating system are placed at particular fixed locations, and other data are located at
+places that can easily be determined during execution. Fixed or easily determined location
+distinguishes operating system routines, especially the most critical ones, from a user’s
+code and data.
+
+Asecond distinction between ordinary users and the operating system is that a user runs
+without operating system privileges. The operating system invokes a user’s program as if
+it were a subprocedure, and the operating system receives control back when the user’s
+program exits. If the user can alter what the operating system does when it regains control,
+the user can force the operating system to execute code the user wants to run, but with
+elevated privileges (those of the operating system). Being able to modify operating system
+code or data allows the user (that is, an attacker acting as the user) to obtain effective
+privileged status.
+
+Privilege escalation, executing attack code with higher system
+permissions, is a bonus for the attacker.
+
+The call and return sequence operates under a well-defined protocol using a data
+structure called the stack. Aleph One (Elias Levy) describes how to use buffer overflows
+to overwrite the call stack [ALE96]. In the next section we show how a programmer can
+use an overflow to compromise a computer’s operation.
+
+13.1 Introduction
+
+In this chapter, we’ll look at some of the security issues related to operating
+systems (OSs). OSs are large and complex pieces of software. Recall that in
+Chapter 12 we argued that there are almost certain to be security flaws in
+any large and complex computer program. But here we are concerned with
+the security protection provided by the OS, not with the very real threat of
+bad OS software. That is, we are concerned with the role of the OS as the
+security enforcer. This is a large topic that ties into many other aspects of
+security and we'll just barely scratch the surface.
+
+First, we'll describe the primary security-related functions of any modern
+operating system. Then we’ll discuss the notion of a trusted OS, and we’ll
+conclude with a look at Microsoft’s fairly recent effort to develop a trusted
+operating system, which goes by the catchy name of the Next Generation
+Secure Computing Base, or better yet, NGSCB.
 --- page 13 ---
 13.2 OS Security Functions
 
@@ -586,6 +722,54 @@ SO-   a.   1. Principle of Least Privilege   [10]
 2. Principle of Least Authority
 BL-2   3. Principle of Fail-Safe Defaults
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+on the access control applied to particular segments, users can share access
+to some segments or users can be restricted to specific segments.
+
+One serious drawback to segmentation is that the segments are of variable
+sizes. As a result, before the OS tries to reference any element of a given
+segment it must know the size of the segment so that it can be sure that
+the requested address is within the segment. But some segments—such as
+those that include dynamic memory allocation—can grow during execution.
+Consequently, the OS must keep track of dynamic segment sizes. And due
+the variability of segment sizes, memory fragmentation is a potential problem.
+Finally, when memory is compacted to make better use of the available space,
+the segmentation tables change. In short, segmentation is complex and places
+a significant burden on the OS.
+
+Paging is like segmentation, except that all segments are of a fixed size,
+as illustrated in Figure 13.2. With paging, access to a particular page uses a
+pair of the form <page, offset>. The advantages of paging over segmentation
+include no fragmentation, improved efficiency, and the fact that there are no
+variable sizes to worry about. The disadvantages are that there is, in general,
+no logical unity to pages, which makes it more difficult to determine the
+proper access control to apply to a given page.
+
+memory
+
+Page 1
+program fee
+Page 0 ee eee
+
+Page 1 |_fovee _|
+
+Page 2 Poge.0
+
+Page 3
+
+Page 4 ne
+Page 3
+
+Figure 13.2: Paging
+
+13.2.3. Access Control
+
+OSs are the ultimate enforcers of access control. This is one reason why the
+OS is such an attractive target for attack—a successful attack on the OS
+can effectively nullify any protection built in at a higher level. We discussed
+access control in Chapter 8 and we’ll briefly return to the subject in the next
+section when we discuss the concept of a trusted OS.
 --- page 16 ---
 Ans.
 
@@ -679,6 +863,62 @@ requirements for an IDS system.
 BL-2
 Ans.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+Definition 14-3. The principle of fail-safe defaults states that, unless a
+subject is given explicit access to an object, it should be denied access to
+that object.
+
+This principle requires that the default access to an object is none. Whenever
+access, privileges, or some security-related attribute is not explicitly granted, it
+should be denied. Moreover, if the subject is unable to complete its action or task,
+it should undo those changes it made to the security state of the system before it
+terminates. This way, even if the program fails, the system is still safe.
+
+EXAMPLE: If the mail server is unable to create a file in the spool directory,
+it should close the network connection, issue an error message, and stop. It
+should not try to store the message elsewhere or to expand its privileges to
+save the message in another location, because an attacker could use that ability
+to overwrite other files or fill up other disks (a denial of service attack). The
+protections on the mail spool directory itself should allow create and write access
+only to the mail server and read and delete access only to the local server. No other
+user should have access to the directory.
+
+In practice, most systems will allow an administrator access to the mail
+spool directory. By the principle of least privilege, that administrator should be
+able to access only the subjects and objects involved in mail queueing and delivery.
+As we have seen, this constraint minimizes the threats if that administrator’s
+account is compromised. The mail system can be damaged or destroyed, but
+nothing else can be.
+
+Because many users do not change default access control permissions, this
+rule applies to the default settings for both the system and for users.
+
+8.2 INTRUSION DE ON
+
+The following terms are relevant to our discussion:
+
+security intrusion: Unauthorized act of bypassing the security mechanisms of a
+system.
+
+intrusion detection: A hardware or software function that gathers and analyzes
+information from various areas within a computer or a network to identify possible
+security intrusions.
+
+An IDS comprises three logical components:
+
+° Sensors: Sensors are responsible for collecting data. The input for a sensor may
+be any part of a system that could contain evidence of an intrusion. Types of
+input to a sensor includes network packets, log files, and system call traces.
+Sensors collect and forward this information to the analyzer.
+
+e Analyzers: Analyzers receive input from one or more sensors or from other ana-
+lyzers. The analyzer is responsible for determining if an intrusion has occurred.
+The output of this component is an indication that an intrusion has occurred.
+The output may include evidence supporting the conclusion that an intrusion
+occurred. The analyzer may provide guidance about what actions to take as a
+result of the intrusion. The sensor inputs may also be stored for future analysis
+and review in a storage or database component.
 --- page 19 ---
 ¢ User interface: The user interface to an IDS enables a user to view output from
 the system or control the behavior of the system. In some systems, the user
@@ -742,6 +982,64 @@ CO-3
 SO-   a.   List the different types of filtering services. Discuss firewall and its types in detail.   [10]
 BL-2
 ********** 20 **********
+
+[Text in pictures on this page, read by OCR]
+Probability Profile of
+density function authorized user
+Profile of behavior
+
+intruder behavior
+
+Overlap in observed
+or expected behavior
+
+Average behavior Average behavior Measurable behavior
+of intruder _of authorized user parameter
+
+Figure 8.1 Profiles of Behavior of Intruders and Authorized Users
+
+identified as intruders. Thus, there is an element of compromise and art in the practice
+of intrusion detection. Ideally, you want an IDS to have a high detection rate, that is,
+the ratio of detected to total attacks, while minimizing the false alarm rate, the ratio
+of incorrectly classified to total normal usage [LAZA05].
+
+In an important early study of intrusion [ANDE80], Anderson postulated that
+one could, with reasonable confidence, distinguish between an outside attacker and a
+legitimate user. Patterns of legitimate user behavior can be established by observing
+past history, and significant deviation from such patterns can be detected. Anderson
+suggests the task of detecting an inside attacker (a legitimate user acting in an unau-
+thorized fashion) is more difficult, in that the distinction between abnormal and
+normal behavior may be small. Anderson concluded that such violations would be
+undetectable solely through the search for anomalous behavior. However, insider
+behavior might nevertheless be detectable by intelligent definition of the class of
+conditions that suggest unauthorized use. These observations, which were made in
+1980, remain true today.
+
+Requirements
+[BALA9§] lists the following as desirable for an IDS. It must:
+
+e Run continually with minimal human supervision.
+
+¢ Be fault tolerant in the sense that it must be able to recover from system crashes
+and reinitializations.
+
+¢ Resist subversion. The IDS must be able to monitor itself and detect if it has
+been modified by an attacker.
+
+¢ Impose a minimal overhead on the system where it is running.
+
+¢ Be able to be configured according to the security policies of the system that
+is being monitored.
+
+© Be able to adapt to changes in system and user behavior over time.
+¢ Be able to scale to monitor a large number of hosts.
+
+¢ Provide graceful degradation of service in the sense that if some components
+of the IDS stop working for any reason, the rest of them should be affected as
+little as possible.
+
+¢ Allow dynamic reconfiguration; that is, the ability to reconfigure the IDS with-
+out having to restart it.
 --- page 21 ---
 Filtering Services
 
@@ -911,6 +1209,51 @@ SO-   b.   Write short note on incomplete mediation.   [10]
 BL-2
 Ans.
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+Firewall types - Hardware
+
+» Hardware firewalls use a physical appliance that acts in a manner similar to a traffic router to
+intercept data packets and traffic requests before they're connected to the network's servers.
+Physical appliance-based firewalls like this excel at perimeter security by making sure malicious
+traffic from outside the network is intercepted before the company's network endpoints are exposed
+
+to risk.
+
+> The major weakness of a hardware-based firewall, however, is that it is often easy for insider
+attacks to bypass them. Also, the actual capabilities of a hardware firewall may vary depending on
+the manufacturer—some may have a more limited capacity to handle simultaneous connections
+
+than others.
+
+Firewall types - Cloud
+
+» Whenever a cloud solution is used to deliver a firewall, it can be called a cloud firewall,
+or firewall-as-a-service (FaaS). Cloud firewalls are considered synonymous with proxy
+firewalls by many, since a cloud server is often used in a proxy firewall setup (though
+
+the proxy doesn't necessarily have to be on the cloud, it frequently is).
+
+» The big benefit of having cloud-based firewalls is that they are very easy to scale with
+your organization. As your needs grow, you can add additional capacity to the cloud
+server to filter larger traffic loads. Cloud firewalls, like hardware firewalls, excel at
+
+perimeter security.
+
+Incomplete Mediation
+
+Mediation means checking: the process of intervening to confirm an actor’s
+authorization before it takes an intended action. In the last chapter we discussed the steps
+and actors in the authentication process: the access control triple that describes what
+subject can perform what operation on what object. Verifying that the subject is authorized
+to perform the operation on an object is called mediation. Incomplete mediation is a
+security problem that has been with us for decades: Forgetting to ask “Who goes there?”
+before allowing the knight across the castle drawbridge is just asking for trouble. In the
+same way, attackers exploit incomplete mediation to cause security problems.
+
+Definition
+
+Consider the following URL. In addition to a web address, it contains two parameters,
 --- page 25 ---
 so you can think of it as input to a program:
 Click} . ici
@@ -1166,6 +1509,43 @@ SO-   b.   Discuss privacy and android cell phones as an example of information 
 BL-2
 Ans.
 ********** 30 **********
+
+[Text in pictures on this page, read by OCR]
+Despite the many security vulnerabilities of passwords, they remain the most
+commonly used user authentication technique, and this is unlikely to change in the
+foreseeable future [HERL12]. Among the reasons for the persistent popularity of
+passwords are the following:
+
+1. Techniques that utilize client-side hardware, such as fingerprint scanners and
+smart card readers, require the implementation of the appropriate user authen-
+tication software to exploit this hardware on both the client and server systems.
+Until there is widespread acceptance on one side, there is reluctance to imple-
+ment on the other side, so we end up with a who-goes-first stalemate.
+
+2. Physical tokens, such as smart cards, are expensive and/or inconvenient to carry
+around, especially if multiple tokens are needed.
+
+3. Schemes that rely on a single sign-on to multiple services, using one of the non-
+password techniques described in this chapter, create a single point of security risk.
+
+4, Automated password managers that relieve users of the burden of knowing and
+entering passwords have poor support for roaming and synchronization across
+multiple client platforms, and their usability had not be adequately researched.
+
+Thus, it is worth our while to study the use of passwords for user authentication
+in some detail.
+
+17.6 Example Information Flow Controls
+
+Like the program-based information flow mechanisms discussed in this chapter,
+both special-purpose and general-purpose computer systems have information
+flow controls at the system level. File access controls, integrity controls, and
+other types of access controls are mechanisms that attempt to inhibit the flow
+of information within a system, or between systems.
+
+The first example follows a line of research that examines privacy in
+information flow on cell phones. The second example describes firewalls, which
+act to control information flow between (or among) networks.
 --- page 31 ---
 17.6.1. Privacy and Android Cell Phones
 
@@ -1852,6 +2232,36 @@ SO-   a.   1. Threats   [10]
 BL-2   3. Assumption and Trust
 Ans.
 ********** 45 **********
+
+[Text in pictures on this page, read by OCR]
+example, two users may request the same record, and the DBMS must arbitrate; one user
+is bound to be denied access for a while. Or the DBMS may withhold unprotected data to
+avoid revealing protected data, leaving the requesting user unhappy. We examine these
+problems in more detail later in this chapter. Problems like these result in high availability
+requirements for a DBMS.
+
+Integrity/Confidentiality/Availability
+
+The three aspects of computer security—integrity, confidentiality, and availability—
+clearly relate to database management systems. As we have described, integrity applies to
+the individual elements of a database as well as to the database as a whole. Integrity is also
+a property of the structure of the database (elements in one table correspond one to one
+with those of another) and of the relationships of the database (records having the same
+unique identifier, called a key, are related). Thus, integrity is a major concern in the design
+of database management systems. We look more closely at integrity issues in the next
+section.
+
+Confidentiality is likewise a key issue with databases because databases are often used
+to implement controlled sharing of sensitive data. Access to data can be direct (you
+request a record and the database provides it) or indirect (you request some records and
+from those results infer or intuit other data). Controlling direct access employs the access
+control techniques we describe in Chapters 2 and 5. Indirect access, however, is more
+difficult to control, and we explore it in more depth later in this chapter.
+
+Finally, availability is important because of the shared access motivation underlying
+database development. However, availability conflicts with confidentiality. The last
+sections of the chapter address availability in an environment in which confidentiality is
+also important.
 --- page 46 ---
 actions that could cause it to occur must be guarded against (or prepared for).
 Those actions are called attacks. Those who execute such actions, or cause them
@@ -2305,6 +2715,37 @@ BL-1   4. Exposure
 6. Threat Agent
 Ans.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+* Access: A subject or object’s ability to use, manipulate, modify, or affect another sub-
+ject or object. Authorized users have legal access to a system, whereas hackers must
+gain illegal access to a system. Access controls regulate this ability.
+
+* Asset: The organizational resource that ts being protected. An asset can be logical, such
+as a Web site, software information, or data; or an asset can be physical, such as a
+person, computer system, hardware, or other tangible object. Assets, particularly infor-
+mation assets, are the focus of what security efforts are attempting to protect.
+
+* Exploit: A technique used to compromise a system. This term can be a verb or a noun.
+Threat agents may attempt to exploit a system or other information asset by using it
+illegally for their personal gain. Or, an exploit can be a documented process to take
+advantage of a vulnerability or exposure, usually in software, that is either inherent in
+the software or created by the attacker. Exploits make use of existing software tools or
+custom-made software components.
+
+* Exposure: A condition or state of being exposed; in information security, exposure
+exists when a vulnerability is known to an attacker.
+
+* Threat: Any event or circumstance that has the potential to adversely affect operations
+and assets. The term threat source is commonly used interchangeably with the more
+generic term threat. While the two terms are technically distinct, in order to simplify
+discussion, the text will continue to use the term threat to describe threat sources.
+
+* Threat agent: The specific instance or a component of a threat. For example, the threat
+source of “trespass or espionage” is a category of potential danger to information assets,
+while “external professional hacker” (like Kevin Mitnick, who was convicted of hacking
+into phone systems) is a specific threat agent. A lightning strike, hailstorm, or tornado is
+a threat agent that is part of the threat source known as “acts of God/acts of nature.”
 --- page 2 ---
 COo-3
 
@@ -2387,6 +2828,59 @@ CO-3
 SO-   d.   State the means of authentication.   [5]
 BL-2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Yable 2.1 Average Time Required for Exhaustive Key Search
+
+Number of Time Required Time Required
+Key Size (bits) Alternative Keys at 1 Decryption/us at 10° Decryptions/us
+32 2°=43 = 10° 2" pes = 35.8 minutes 2.15 milliseconds
+56 2" = 7.2 x 1 2° pes = 1142 years 10.01 hours,
+128 m=34 x 10" 27 us = 5.4% 10 years 5.4 ™ 10" years
+16s 28=3.7 x 10" 2" us = 5.9 * 10" years 5.4% 10° years
+26 characters
+(permutation) 26!=4 x 10° 2™ LF us = 64 x 10° years 64% 10° years
+
+the nature of the algorithm plus perhaps some knowledge of the general character-
+istics of the plaintext or even some sample plaintext-ciphertext pairs. This type of
+attack exploits the characteristics of the algorithm to attempt to deduce a specific
+plaintext or to deduce the key being used. If the attack succeeds in deducing the
+key, the effect is catastrophic: All future and past messages encrypted with that key
+are compromised.
+
+The second method, known as the brute-force attack, is to try every possible
+key on a piece of ciphertext until an intelligible translation into plaintext is obtained.
+On average, half of all possible keys must be t . Table 2.1 shows
+how much time is involved for various key sizes. The table shows results for cach key
+size, assuming that it takes | ps to perform a single decryption, a reasonable order of
+magnitude for today’s computers. With the use of massively parallel organizations
+of microprocessors, it may be possible to achieve processing rates many orders of
+magnitude greater. The final column of the table considers the results for a system
+that can process 1 million keys per microsecond. As one can see, al this performance
+level, a 56-bit key can no longer be considered computationally secure.
+
+MALICIOUS PROGRAM ERRORS
+
+TYPES OF FUNCTION
+MALICIOUS CODE
+
+Virus Code that attaches to another program and copies itself to other programs.
+* Transient virus — life depends on life of its host
+* Resident virus — locates inside memory
+
+Trojan Horse malicious effect is hidden from user (Ex: login script)
+
+Logic viruses triggered by an event and goes off when specific condition occur
+
+Time viruses triggered by a time or date
+
+Trapdoor (backdoor) feature that allows access to program other than through normal channels
+
+Worm program that spreads copies of itself through a network, can be stand alone program
+Rabbit virus/worm that self-replicates without bound. Overtime, so many copies of Rabbit
+
+would be running that it would clog the system, making it run slow and making it
+more difficult to remove the program.
 --- page 4 ---
 Means of Authentication
 
@@ -3204,6 +3698,55 @@ b.   [10]
 2. Access Control Matrix
 BL-2   3. Access Control List
 ********** 20 **********
+
+[Text in pictures on this page, read by OCR]
+executed until much later, so the delayed impact can be almost as difficult to diagnose as if
+the attack came from an unrelated, independent user. The most significant impact of a
+buffer overflow occurs when the excess data affect the operating system’s code or data.
+
+Modification of code and data for one user or another is significant, but it is not a major
+computer security issue. However, as we show in the next section, buffer overflows
+perpetrated on the operating system can have serious consequences.
+
+Affecting the Operating System or a Critical Application
+
+The same basic scenarios occur for operating system code or data as for users, although
+again there are important variations. Exploring these differences also leads us to consider
+motive, and so we shift from thinking of what are essentially accidents to intentional
+malicious acts by an attacker.
+
+Because the mix of programs changes continually on a computing system, there is little
+opportunity to affect any one particular use. We now consider the case in which an
+attacker who has already overtaken an ordinary user now wants to overtake the operating
+system. Such an attack can let the attacker plant permanent code that is reactivated each
+time a machine is restarted, for example. Or the attack may expose data, for example,
+passwords or cryptographic keys that the operating system is entrusted to safeguard. So
+now let us consider the impact a (compromised) user can have on the operating system.
+
+Users’ code and data are placed essentially at random: wherever there is free memory of
+an appropriate size. Only by tracing through system memory allocation tables can you
+learn where your program and data appear in memory. However, certain portions of the
+operating system are placed at particular fixed locations, and other data are located at
+places that can easily be determined during execution. Fixed or easily determined location
+distinguishes operating system routines, especially the most critical ones, from a user’s
+code and data.
+
+Asecond distinction between ordinary users and the operating system is that a user runs
+without operating system privileges. The operating system invokes a user’s program as if
+it were a subprocedure, and the operating system receives control back when the user’s
+program exits. If the user can alter what the operating system does when it regains control,
+the user can force the operating system to execute code the user wants to run, but with
+elevated privileges (those of the operating system). Being able to modify operating system
+code or data allows the user (that is, an attacker acting as the user) to obtain effective
+privileged status.
+
+Privilege escalation, executing attack code with higher system
+permissions, is a bonus for the attacker.
+
+The call and return sequence operates under a well-defined protocol using a data
+structure called the stack. Aleph One (Elias Levy) describes how to use buffer overflows
+to overwrite the call stack [ALE96]. In the next section we show how a programmer can
+use an overflow to compromise a computer’s operation.
 --- page 21 ---
 Ans.
 
@@ -3413,6 +3956,49 @@ SO-   a.   [10]
 requirements for an IDS system.
 BL-2
 ********** 26 **********
+
+[Text in pictures on this page, read by OCR]
+The Multics operating system used a form of access control list in which each user
+belonged to three protection classes: a user, a group, and a compartment. The user
+designation identified a specific subject, and the group designation brought together
+subjects who had a common interest, such as their being coworkers on a project. The
+compartment confined an untrusted object; a program executing in one compartment could
+not access objects in another compartment without specific permission. The compartment
+was also a way to collect objects that were related, such as all files for a single project.
+
+To see how this type of protection might work, suppose every user who initiates access
+to the system identifies a group and a compartment with which to work. If Adams logs in
+as user Adams in group Decl and compartment Art2, only objects having Adams-Decl-
+Art2 in the access control list are accessible in the session.
+
+By itself, this kind of mechanism would be too restrictive to be usable. Adams cannot
+create general files to be used in any session. Worse yet, shared objects would not only
+have to list Adams as a legitimate subject but also have to list Adams under all acceptable
+groups and all acceptable compartments for each group.
+
+The solution is the use of wild cards, meaning placeholders that designate “any user”
+(or “any group” or “any compartment”). An access control list might specify access by
+Adams-Decl-Artl, giving specific rights to Adams if working in group Decl on
+compartment Artl. The list might also specify Adams-*-Artl, meaning that Adams can
+access the object from any group in compartment Artl. Likewise, a notation of *-Decl-*
+would mean “any user in group Decl in any compartment.” Different placements of the
+wildcard notation * have the obvious interpretations.
+
+Unix uses a similar approach with user-group-world permissions. Every user belongs
+to a group of related users—students in a common class, workers on a shared project, or
+members of the same department. The access permissions for each object are a triple
+(u,g,w) in which u is for the access rights of the user, g is for other members of the group,
+and w is for all other users in the world.
+
+The access control list can be maintained in sorted order, with * sorted as coming after
+all specific names. For example, Adams-Decl-* would come after all specific
+compartment designations for Adams. The search for access permission continues just
+until the first match. In the protocol, all explicit designations are checked before wild
+cards in any position, so a specific access right would take precedence over a wildcard
+right. The last entry on an access list could be *-*-*, specifying rights allowable to any
+user not explicitly on the access list. With this wildcard device, a shared public object can
+have a very short access list, explicitly naming the few subjects that should have access
+rights different from the default.
 --- page 27 ---
 Ans.
 
@@ -3507,6 +4093,64 @@ SO-   b.   [10]
 attacks and reasons for the persistent popularity.
 BL-2
 ********** 29 **********
+
+[Text in pictures on this page, read by OCR]
+Probability Profile of
+density function authorized user
+Profile of behavior
+
+intruder behavior
+
+Overlap in observed
+or expected behavior
+
+Average behavior Average behavior Measurable behavior
+of intruder _of authorized user parameter
+
+Figure 8.1 Profiles of Behavior of Intruders and Authorized Users
+
+identified as intruders. Thus, there is an element of compromise and art in the practice
+of intrusion detection. Ideally, you want an IDS to have a high detection rate, that is,
+the ratio of detected to total attacks, while minimizing the false alarm rate, the ratio
+of incorrectly classified to total normal usage [LAZA05].
+
+In an important early study of intrusion [ANDE80], Anderson postulated that
+one could, with reasonable confidence, distinguish between an outside attacker and a
+legitimate user. Patterns of legitimate user behavior can be established by observing
+past history, and significant deviation from such patterns can be detected. Anderson
+suggests the task of detecting an inside attacker (a legitimate user acting in an unau-
+thorized fashion) is more difficult, in that the distinction between abnormal and
+normal behavior may be small. Anderson concluded that such violations would be
+undetectable solely through the search for anomalous behavior. However, insider
+behavior might nevertheless be detectable by intelligent definition of the class of
+conditions that suggest unauthorized use. These observations, which were made in
+1980, remain true today.
+
+Requirements
+[BALA9§] lists the following as desirable for an IDS. It must:
+
+e Run continually with minimal human supervision.
+
+¢ Be fault tolerant in the sense that it must be able to recover from system crashes
+and reinitializations.
+
+¢ Resist subversion. The IDS must be able to monitor itself and detect if it has
+been modified by an attacker.
+
+¢ Impose a minimal overhead on the system where it is running.
+
+¢ Be able to be configured according to the security policies of the system that
+is being monitored.
+
+© Be able to adapt to changes in system and user behavior over time.
+¢ Be able to scale to monitor a large number of hosts.
+
+¢ Provide graceful degradation of service in the sense that if some components
+of the IDS stop working for any reason, the rest of them should be affected as
+little as possible.
+
+¢ Allow dynamic reconfiguration; that is, the ability to reconfigure the IDS with-
+out having to restart it.
 --- page 30 ---
 Ans.
 
@@ -3759,6 +4403,20 @@ CO-3   Explain symmetric key encryption and issues related to key sharing. Also,
 SO-   b.   with the help of a diagram the working of public-key certificate and digital envelope   [10]
 BL-2   techniques for key sharing.
 ********** 35 **********
+
+[Text in pictures on this page, read by OCR]
+BUSINESS CONTINUITY PLANNING
+
+ll After the Incident Is Resolved
+
+I Eventually, the incident response team closes the case.
+
+I At this point it will hold a review after the incident to consider two
+things:
+
+i Js any security control action to be taken?
+
+I Did the incident response plan work?
 --- page 36 ---
 Ans.
 
@@ -3983,6 +4641,64 @@ events in an information technology environment.
 BL-2
 Ans.
 ********** 40 **********
+
+[Text in pictures on this page, read by OCR]
+Principle of Open Design Principle of Separation of
+privilege
+> The principle suggests that complexity
+does not add security > This principle is restrictive because it
+
+> “The principle of open design states that limits access to system entities
+
+the security of a mechanism should not > The principle of separation of privilege
+depend on the secrecy of its design or states that a system should not grant
+implementation” permission based on single condition”
+> Designers of a program must not depend > Company checks for more than $75,000
+on secrecy of the details of their design must be signed by two officers of the
+and implementation to ensure security company. If either does not sign, the check
+> ithe stren gth of the program’s security is not valid. The two conditions are the
+
+depends on the ignorance of the user, a signatures of two officers
+
+knowledgeable user can defeat that
+security mechanism
+
+Principle of Psychological
+acceptability
+
+> this principle recognizes the human
+
+> this principle is restrictive because it element in computer security
+
+limits sharing > “The Principle of psychological
+acceptability states that security
+> The principle of least common mechanism should not make the resource
+mechanism states that mechanisms used more difficult to access than if the security
+to access resources should not be shared” mechanisms were not present”
+
+> if security related software is too
+complicated to configure, system
+administrators may unintentionally set up
+software in a non secure manner, security-
+related user programs must be easy to use
+and must output understandable messages
+
+> Sharing resources provides a channel
+along which information can be
+transmitted, and so such sharing should
+be minimized
+
+Security Information and Event
+Management
+
+- SIEM, which stands for Security Information and Event Management, is a
+comprehensive approach to managing and analyzing security events within an
+information technology (IT) environment. SIEM systems collect and aggregate log data
+generated throughout the organization's technology infrastructure, from host systems
+and applications to network and security devices. The primary goal of SIEM is to
+provide a centralized platform for real-time analysis of security alerts and events,
+
+aiding in the detection of security incidents.
 --- page 41 ---
 Security Information and Event
 Management
@@ -4294,6 +5010,23 @@ SO-   a.   What is a threat. Explain different types of threats.   [5]
 BL-2
 Ans.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Threats
+
+» A threat is a potential for violation of security or a possible danger that might exploit
+
+vulnerability.
+
+> In other words a threat is a set of activity that has ability to cause harm. The threat
+can be either generated by Human or Computer.
+» Threat is purposely created by an attacker to attack on the system. In other words, an
+
+exploitation of vulnerability is attack on the system.
+
+» There are four kinds of threats possible: Interception, Interruption, Modification,
+
+and Fabrication.
 --- page 2 ---
 CO-2
 SO-   b.   List the various types of malicious code and their functions.   [5]
@@ -4303,6 +5036,47 @@ CO-3
 SO-   c.   What do you mean by identity on the web?   [5]
 BL-2
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Types of Threats
+
+» Threats - A threat is a potential for violation of security or a possible danger that might exploit
+
+vulnerability.
+Interruption qi nterception Fabrication
+> in interruption. » Interception is > in modification, > in fabrication,
+the data may be keeping track of data is modified in attacker might
+lost or traffic without some way. ; hide his own
+unavailable due modification. In Receiver doesn’t identity and can
+to some other words, some have any , send the data to
+unauthorized unauthorized , knowledge of this receiver from
+system has gained modification some trusted
+Party access to an asset. host.
+
+e- ee, @ @6°
+
+MALICIOUS PROGRAM ERRORS
+
+TYPES OF FUNCTION
+MALICIOUS CODE
+
+Virus Code that attaches to another program and copies itself to other programs.
+* Transient virus — life depends on life of its host
++ Resident virus — locates inside memory
+
+Trojan Horse malicious effect is hidden from user (Ex: login script)
+
+Logic viruses triggered by an event and goes off when specific condition occur
+
+Time viruses triggered by a time or date
+
+Trapdoor (backdoor) feature that allows access to program other than through normal channels
+
+Worm program that spreads copies of itself through a network, can be stand alone program
+Rabbit virus/worm that self-replicates without bound. Ove: e, So many copies of Rabbit
+
+would be running that it would clog the system, making it run slow and making it
+more difficult to remove the program.
 --- page 3 ---
 Ans.
 
@@ -4708,6 +5482,48 @@ SO-   b.   1. separation   [10]
 BL-1   3. access control
 Ans.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+OPERATING SYSTEM CONTROLS ON USE OF PROGRAMS
+
+Wl Trusted Software — code has been rigorously developed and analyzed
+© Functional correctness
+© Enforcement of integrity
+© Limited privilege
+© Appropriate confidence level
+Hi Mutual Suspicion — assume other program is not trustworthy
+i Confinement — limit resources that program can access
+
+HB Access Log — list who access computer objects, when, and for how long
+
+ADMINISTRATIVE CONTROLS
+
+Wi Standards of Program Development
+WM Standards of design
+Wi Standards of documentation, language, and coding style
+WB Standards of programming
+lB Standards of testing
+WB Standards of configuration management
+ll Security Audits
+
+I Separation of Duties
+
+13.1 Introduction
+
+In this chapter, we’ll look at some of the security issues related to operating
+systems (OSs). OSs are large and complex pieces of software. Recall that in
+Chapter 12 we argued that there are almost certain to be security flaws in
+any large and complex computer program. But here we are concerned with
+the security protection provided by the OS, not with the very real threat of
+bad OS software. That is, we are concerned with the role of the OS as the
+security enforcer. This is a large topic that ties into many other aspects of
+security and we'll just barely scratch the surface.
+
+First, we'll describe the primary security-related functions of any modern
+operating system. Then we’ll discuss the notion of a trusted OS, and we’ll
+conclude with a look at Microsoft’s fairly recent effort to develop a trusted
+operating system, which goes by the catchy name of the Next Generation
+Secure Computing Base, or better yet, NGSCB.
 --- page 11 ---
 13.2 OS Security Functions
 
@@ -4804,6 +5620,54 @@ a.   [10]
 2. Principle of Least Common Mechanism
 BL-2   3. Psychological of Least Astonishment
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+on the access control applied to particular segments, users can share access
+to some segments or users can be restricted to specific segments.
+
+One serious drawback to segmentation is that the segments are of variable
+sizes. As a result, before the OS tries to reference any element of a given
+segment it must know the size of the segment so that it can be sure that
+the requested address is within the segment. But some segments—such as
+those that include dynamic memory allocation—can grow during execution.
+Consequently, the OS must keep track of dynamic segment sizes. And due
+the variability of segment sizes, memory fragmentation is a potential problem.
+Finally, when memory is compacted to make better use of the available space,
+the segmentation tables change. In short, segmentation is complex and places
+a significant burden on the OS.
+
+Paging is like segmentation, except that all segments are of a fixed size,
+as illustrated in Figure 13.2. With paging, access to a particular page uses a
+pair of the form <page, offset>. The advantages of paging over segmentation
+include no fragmentation, improved efficiency, and the fact that there are no
+variable sizes to worry about. The disadvantages are that there is, in general,
+no logical unity to pages, which makes it more difficult to determine the
+proper access control to apply to a given page.
+
+memory
+
+Page 1
+program fee
+Page 0 ee eee
+
+Page 1 |_fovee _|
+
+Page 2 Poge.0
+
+Page 3
+
+Page 4 ne
+Page 3
+
+Figure 13.2: Paging
+
+13.2.3. Access Control
+
+OSs are the ultimate enforcers of access control. This is one reason why the
+OS is such an attractive target for attack—a successful attack on the OS
+can effectively nullify any protection built in at a higher level. We discussed
+access control in Chapter 8 and we’ll briefly return to the subject in the next
+section when we discuss the concept of a trusted OS.
 --- page 14 ---
 14.2.6 Principle of Separation of Privilege
 
@@ -4968,6 +5832,57 @@ SO-   a.   [10]
 depth.
 BL-3
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+Intrusion Detection System & its
+Types
+
+» An intrusion occurs when an attacker attempts to gain entry into or disrupt the normal operations
+
+of an information system, almost always with the intent to do harm.
+» Intrusion detection consists of procedures and systems that identify system intrusions.
+> Intrusion reaction encompasses the actions an organization takes when an intrusion is detected.
+
+> Intrusion correction activities finalize the restoration of operations to a normal state and seek to
+identify the source and method of the intrusion in order to ensure that the same type of attack
+
+cannot occur again—thus reinitiating intrusion prevention.
+
+Intrusion Detection System & its
+Types
+
+» Host-based IDS (HIDS) - Monitors and analyzes activities on individual hosts or devices within a
+network. It focuses on detecting suspicious behavior at the host level, such as unauthorized access
+
+or changes to system files.
+
+» Network-based IDS (NIDS) - Examines network traffic and identifies suspicious patterns or
+anomalies. NIDS is deployed at strategic points within the network to monitor traffic and detect
+
+potential threats.
+
+» Signature-based IDS - Relies on a database of predefined signatures or patterns associated with
+known threats. It compares network or system activity against these signatures to identify and alert
+
+on known attacks.
+
+Intrusion Detection System & its
+Types
+
+» Anomaly-based IDS - Learns the baseline behavior of the network or system and triggers alerts
+when deviations from the normal behavior are detected. Anomaly-based IDS is effective in
+
+detecting new and unknown threats.
+
+» Heuristic-based IDS - Uses predefined rules and algorithms to identify patterns or behaviors that
+may indicate potential security incidents. Heuristic-based IDS combines aspects of both signature-
+
+based and anomaly-based detection.
+
+» Behavior-based IDS - Analyzes the behavior of users, applications, or systems to detect abnormal
+activities that may indicate a security threat. This approach focuses on deviations from expected
+
+behavior.
 --- page 18 ---
 Ans.
 
@@ -5260,6 +6175,64 @@ SO-   b.   [10]
 host program.
 BL-2
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+tested and shown to work correctly. Because security appears in every part of an operating
+system, security design and implementation cannot be left fuzzy or vague until the rest of
+the system is working and being tested.
+
+Completeness requires that security functionality be included in all places necessary.
+Although this requirement seems self-evident, not all developers are necessarily thinking
+of security as they design and write code, so security completeness is challenging. It is
+extremely hard to retrofit security features to an operating system designed with
+inadequate security. Leaving an operating system’s security to the last minute is much like
+trying to install plumbing or electrical wiring in a house whose foundation is set, floors
+laid, and walls already up and painted; not only must you destroy most of what you have
+built, but you may also find that the general structure can no longer accommodate all that
+is needed (and so some has to be left out or compromised). And last-minute additions are
+often done hastily under time pressure, which does not encourage completeness.
+
+Security enforcement must be correct and complete.
+
+Thus, security must be an essential part of the initial design of a trusted operating
+system. Indeed, the security considerations may shape many of the other design decisions,
+especially for a system with complex and constraining security requirements. For the same
+reasons, the security and other design principles must be carried throughout
+implementation, testing, and maintenance. Phrased differently, as explained in Sidebar 5-
+3, security emphatically cannot be added on at the end.
+
+Security seldom succeeds as an add-on; it must be part of the initial
+philosophy, requirements, design, and implementation.
+
+Sidebar 5-3 Security as an Add-On
+
+In the 1980s, the U.S. State Department handled its diplomatic office functions
+with a network of Wang computers. Each American embassy had at least one
+Wang system, with specialized word processing software to create documents,
+modify them, store and retrieve them, and send them from one location to
+another. Supplementing Wang’s office automation software was the State
+Department’s own Foreign Affairs Information System (FAIS).
+
+In the mid-1980s, the State Department commissioned a private contractor to
+add security to FAIS. Diplomatic and other correspondence was to be protected
+by a secure “envelope” surrounding sensitive materials. The added protection
+was intended to prevent unauthorized parties from “opening” an envelope and
+reading the contents.
+
+To design and implement the security features, the contractor had to
+supplement features offered by Wang’s operating system and utilities. The
+security design depended on the current Wang VS operating system design,
+including the use of unused words in operating system files. As designed and
+implemented, the new security features worked properly and met the State
+Department requirements. But the system was bound for failure because the
+
+evolutionary goals of VS were different from those of the State Department.
+That is, Wang could not guarantee that future modifications to VS would
+preserve the functions and structure required by the contractor’s security
+software. In other words, Wang might need to appropriate some of the unused
+words in operating system files for new system functions, regardless of whether
+or not FAIS was using those words. Eventually, there were fatal clashes of intent
+and practice, and the added-on security functions failed.
 --- page 25 ---
 Ans.
 
@@ -5330,6 +6303,35 @@ a.   [10]
 BL-3   3. biometric accuracy
 Ans.
 ********** 26 **********
+
+[Text in pictures on this page, read by OCR]
+Physically Logically
+
+a Virus Code
+Virus Code_| o0)
+
+Original
+Program
+Original
+Program
+Virus Code
+Part (b)
+
+FIGURE 3-20 Surrounding Virus
+Integrated Viruses and Replacements
+
+A third situation occurs when the virus replaces some of its target, integrating itself into
+the original code of the target. Such a situation is shown in Figure 3-21. Clearly, the virus
+writer has to know the exact structure of the original program to know where to insert
+which pieces of the virus.
+
+Original + Virus = Modified
+Program Code ia Program
+
+FIGURE 3-21 Virus Insertion
+
+Finally, the malicious code can replace an entire target, either mimicking the effect of
+the target or ignoring its expected effect and performing only the virus effect. In this case,
 --- page 27 ---
 and dynamic characteristics, such as voiceprint and signature. In essence, biomet-
 rics is based on pattern recognition. Compared to passwords and tokens, biometric
@@ -5699,6 +6701,42 @@ SO-   a.   1. Access Control Directory   [10]
 2. Access Control Matrix
 BL-   3. Access Control List
 ********** 35 **********
+
+[Text in pictures on this page, read by OCR]
+Organizations typically partition their network into several parts, with fire-
+walls between parts to prevent information from leaking. A common arrangement
+is to have two different internal networks, one accessible to the public and the other
+not (see Figure 17-4).
+
+Definition 17-13. The DMZ! is a portion of a network that separates a
+purely internal network from an external network.
+
+When information moves from the Internet to the internal network, con-
+fidentiality is not at issue. However, integrity is. So there are firewalls between
+the Internet and the DMZ, and between the DMZ and the internal network.
+These must not accept messages that will cause servers to work incorrectly or
+to crash. When information moves from the internal network to the Internet,
+confidentiality and integrity are both at issue. The firewalls must ensure that no
+confidential information goes to the Internet. The arrangement and configura-
+tion of the firewalls provide the supporting access control mechanisms used to
+implement the policy.
+
+In addition to controlling information flow, a different point of view is
+to use the firewall as an audit mechanism. In this role, the firewall analyzes the
+packets that transit it. The firewall can then base actions on this analysis, leading
+to traffic shaping (in which percentages of bandwidth are reserved for specific
+types of traffic), changes in access permissions due to the amount and nature of
+the traffic, and other controls.
+
+(a) (b)
+
+Figure 17-4 This figure shows two different common configurations for using
+firewalls to protect company internal networks. In both cases, the subnets
+labeled “DMZ” provide limited public access to various servers. In (a), the
+firewall is dual-homed and routes messages to the internal network or the DMZ
+as appropriate. In (b), the outer firewall sits between the Internet and the internal
+network. The inner firewall sits between the DMZ and the subnets that are not
+to be accessed by the public.
 --- page 36 ---
 Ans.
 
@@ -6964,6 +8002,43 @@ CO-3
 b.   Compare and contrast symmetric and asymmetric key cryptography.   [5]
 SO-
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Threat Consequence Threat Action (attack)
+
+Unauthorized Disclosure Exposure: Sensitive data are directly released to an unauthorized
+A. circumstance or event whereby entity.
+to data for Interception: An unauthorized entity directly accesses sensitive
+which the entity is not authorized. data traveling between authorized sources and destinations.
+
+Inference: A threat action whereby an unauthoried entity
+indirectly accesses scnsitive data (but not necessarily the
+data contained in the communication) by reasoning from
+characteristics or by-products of communications.
+
+Intrusion: An unauthorized entity gains access to sensitive data
+by circumventing a system's security protections.
+
+Deception Masquerade: An unauthorized entity gains access to a system or
+A circumstance or event that performs a malicious act by posing as an authorized entity.
+may result in an authorized entity Falsificati False data deceive an authorized entity.
+
+Sansa ets abled haber i Repudiation: An entity deceives another by falsely denying
+HORE A responsibility for an act. , _—
+
+Disruption Incapacitation: Prevents or interrupts system operation by
+A circumstance or event that disabling a system component.
+interrupts or prevents the correct Corruption: Undesirably alters system operation by adversely
+(FEEL ion of system services and modifying system functions or data.
+funetions. Obstruction: A threat action that interrupts delivery of system
+
+services by hindering system operation.
+
+Usurpation Misappropriation: An entity assumes unauthorized logical or
+A. circumstance or event that results physical control of a system resource.
+in control of system services or Misuse: Causes a system component to perform a function or
+
+functions by an unauthorized entity. service that is detrimental to system security.
 --- page 2 ---
 BL-4
 
@@ -6997,6 +8072,64 @@ SO-   d.   [5]
 tokens.
 BL-2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+SQLi Countermeasures
+
+Because SQLi attacks are so prevalent, damaging, and varied both by attack avenue
+and type, a single countermeasure is insufficient. Rather an integrated set of tech-
+niques is necessary. In this section, we provide a brief overview of the types of coun-
+termeasures that are in use or being researched, using the classification in [SHAR 13].
+These countermeasures can be classified into three types: defensive coding, detection,
+and run-time prevention.
+
+Many SOQLi attacks succeed because developers have used insecure coding prac-
+tices, as we discuss in Chapter 11. Thus, defensive coding is an effective way to dramati-
+cally reduce the threat from SQLi. Examples of defensive coding include the following:
+
+e Manual defensive coding practices: A common vulnerability exploited by SQLi
+attacks is insufficient input validation. The straightforward solution for elimi-
+nating these vulnerabilities is to apply suitable defensive coding practices. An
+example is input type checking, to check that inputs that are supposed to be
+numeric contain no characters other than digits. This type of technique can
+avoid attacks based on forcing errors in the database management system.
+Another type of coding practice is one that performs pattern matching to try
+to distinguish normal input from abnormal input.
+
+e Parameterized query insertion: This approach attempts to prevent SQLi by
+allowing the application developer to more accurately specify the structure
+of an SOL query, and pass the value parameters to it separately such that any
+unsanitary user input is not allowed to modify the query structure.
+
+¢ SQL DOM: SOL DOM isa set of classes that enables automated data type vali-
+dation and escaping [MCCLOS5]. This approach uses encapsulation of database
+queries to provide a safe and reliable way to access databases. This changes the
+query-building process from an unregulated one that uses string concatenation
+to a systematic one that uses a type-checked API. Within the API, developers
+are able to systematically apply coding best practices such as input filtering and
+rigorous type checking of user input.
+
+A variety of detection methods have been developed, including the following:
+
+e Signature-based: This technique attempts to match specific attack patterns.
+Such an approach must be constantly updated and may not work against self-
+modifying attacks.
+
+e Anomaly-based: This approach attempts to define normal behavior then
+detect behavior patterns outside the normal range. A number of approaches
+
+have been used. In general terms, there is a training phase, in which the
+system learns the range of normal behavior, followed by the actual detec-
+tion phase.
+
+e Code analysis: Code analysis techniques involve the use of a test suite to detect
+SQLi vulnerabilities. The test suite is designed to generate a wide range of SQLi
+attacks and assess the response of the system.
+
+Finally, a number of run-time prevention techniques have been developed as
+SQLi countermeasures. These techniques check queries at runtime to see if they
+conform to a model of expected queries. Various automated tools are available for
+this purpose [CHAN11, SHAR13].
 --- page 4 ---
 Ans.
 
@@ -7055,6 +8188,80 @@ SO-   a.   [10]
 function must have.
 BL-2
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+other magnetic-stripe cards, and radio transmitter cards (called RFID devices) are
+examples of static tokens. Static tokens are most useful for onsite authentication: When a
+guard looks at your picture badge, the fact that you possess such a badge and that your
+face looks (at least vaguely) like the picture causes the guard to pass your authentication
+and allow you access.
+
+We are also interested in remote authentication, that is, in your being able to prove your
+identity to a person or computer somewhere else. With the example of the picture badge, it
+may not be easy to transmit the image of the badge and the appearance of your face for a
+remote computer to compare. Worse, distance increases the possibility of forgery: A local
+guard could tell if you were wearing a mask, but a guard might not detect it from a remote
+image. Remote authentication is susceptible to the problem of the token having been
+forged.
+
+Tokens are vulnerable to an attack called skimming. Skimming is the use of a device to
+copy authentication data surreptitiously and relay it to an attacker. Automated teller
+machines (ATMs) and point-of-sale credit card readers are particularly vulnerable to
+skimming.* At an ATM the thief attaches a small device over the slot into which you insert
+your bank card. Because all bank cards conform to a standard format (so you can use your
+card at any ATM or merchant), the thief can write a simple piece of software to copy and
+retain the information recorded on the magnetic stripe on your bank card. Some skimmers
+also have a tiny camera to record your key strokes as you enter your PIN on the keypad.
+Either instantaneously (using wireless communication) or later (collecting the physical
+device), the thief thus obtains both your account number and its PIN. The thief simply
+creates a dummy card with your account number recorded and, using the PIN for
+authentication, visits an ATM and withdraws cash from your account or purchases things
+with a cloned credit card.
+
+1. Note that this discussion refers to the magnetic-stripe cards popular in the United States. Most other countries
+use embedded computer chip cards that are substantially less vulnerable to skimming.
+
+Another form of copying occurs with passwords. If you have to enter or speak your
+password, someone else can look over your shoulder or overhear you, and now that
+authenticator is easily copied or forged. To overcome copying of physical tokens or
+passwords, we can use dynamic tokens. A dynamic token is one whose value changes.
+Although there are several different forms, a dynamic authentication token is essentially a
+device that generates an unpredictable value that we might call a pass number. Some
+devices change numbers at a particular interval, for example, once a minute; others change
+numbers when you press a button, and others compute a new number in response to an
+input, sometimes called a challenge. In all cases, it does not matter if someone else sees or
+hears you provide the pass number, because that one value will be valid for only one
+access (yours), and knowing that one value will not allow the outsider to guess or generate
+the next pass number.
+
+Dynamic tokens have computing power on the token to change their
+internal state.
+
+Dynamic token generators are useful for remote authentication, especially of a person to
+a computer. An example of a dynamic token is the SecurID token from RSA Laboratories,
+
+shown in Figure 2-6. To use a SecurID token, you enter the current number displayed on
+the token when prompted by the authenticating application. Each token generates a
+distinct, virtually unpredictable series of numbers that change every minute, so the
+authentication system knows what number to expect from your token at any moment. In
+this way, two people can have SecurID tokens, but each token authenticates only its
+assigned owner. Entering the number from another token does not pass your
+authentication. And because the token generates a new number every minute, entering the
+number from a previous authentication fails as well.
+
+Token code: Clock
+Changi
+60 seconds
+
+synchronized to
+UCT
+Unique seed
+FIGURE 2-6 SecurID Token (Photo courtesy of RSA, the security division of EMS
+and copyright © RSA Corporation, all rights reserved.)
+We have now examined the three bases of authentication: something you know, are, or
+
+have. Used in an appropriate setting, each can offer reasonable security. In the next
+sections we look at some ways of enhancing the basic security from these three forms.
 --- page 6 ---
 Ans.
 
@@ -7464,6 +8671,47 @@ SO-   a.   [10]
 host program.
 BL-2
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Incident response often requires sharing information—within an
+organization, with similarly affected ones, and with national officials.
+
+Determining Incident Scope
+
+The scope of an incident is rarely obvious at the beginning. It may begin with
+someone’s noticing something irregular. (See the example in Sidebar 10-3 of how a tiny
+irregularity exploded into a major incident.)
+
+Sidebar 10-3 Incorrect Account Balance Leads to Intruder
+
+In 1986 Cliff Stoll was working as an astronomer at Lawrence Berkeley
+Laboratory when he noticed the amounts for computer accounts he managed did
+not add up properly. Although the mismatch was small, Stoll was unwilling just
+to dismiss it as an unfathomable computer error. Someone had created an extra
+account being charged against Stoll’s projects, but the monthly bill was not
+being delivered to Stoll (or to anyone else, because the account had no billing
+address). Coincidentally, Stoll received a report that someone from his site had
+been breaking into military computers, but he didn’t initially connect these two
+data points.
+
+Stoll removed the unauthorized account but found that the attacker remained,
+having acquired system administrator privileges. Thinking the attacker was a
+student at a nearby university, Stoll and his colleagues wanted to catch the
+attacker in the act. They soon found the flaw the attacker exploited but decided
+to keep the culprit engaged so they could investigate his actions, using an
+elaborate masquerade in which Stoll controlled everything the attacker could see
+and do [STO88, STO89]. Stoll’s trap was one of the first examples of a
+honeypot (introduced in Chapter 5).
+
+After months of activity Stoll and authorities identified the attacker as a
+German agent named Markus Hess, recruited by the Soviet KGB. German
+authorities arrested Hess, who was convicted of espionage and sentenced to one
+to three years in prison.
+
+Accounting records that did not balance—off by just $0.75—led to
+
+investigation and conviction of an international spy. When you begin to
+investigate an incident, you seldom know what its scope will be.
 --- page 15 ---
 Ans.
 
@@ -8896,6 +10144,41 @@ stateful firewalls in depth.
 BL-2
 Ans.
 ********** 43 **********
+
+[Text in pictures on this page, read by OCR]
+Active attacks involve some modification of the data stream or the creation
+of a false stream and can be subdivided into four categories: replay, masquerade,
+modification of messages, and denial of service.
+
+Replay involves the passive capture of a data unit and its subsequent retrans-
+mission to produce an unauthorized effect.
+
+A masquerade takes place when one entity pretends to be a different entity. A
+masquerade attack usually includes one of the other forms of active attack. For exam-
+ple, authentication sequences can be captured and replayed after a valid authentica-
+tion sequence has taken place, thus enabling an authorized entity with few privileges
+to obtain extra privileges by impersonating an entity that has those privileges.
+
+Modification of messages simply means that some portion of a legitimate
+message is altered, or that messages are delayed or reordered, to produce an
+unauthorized effect. For example, a message stating, “Allow John Smith to read
+confidential file accounts” is modified to say, “Allow Fred Brown to read confiden-
+tial file accounts.”
+
+The denial of service prevents or inhibits the normal use or management of
+communications facilities. This attack may have a specific target; for example, an
+entity may suppress all messages directed to a particular destination (e.g., the security
+audit service). Another form of service denial is the disruption of an entire network,
+either by disabling the network or by overloading it with messages so as to degrade
+performance.
+
+Active allacks present the opposite characteristics of passive attacks. Whereas
+passive attacks are difficult to detect, measures are available to prevent their
+success. On the other hand, it is quite difficult to prevent active attacks absolutely,
+because to do so would require physical protection of all communications facilities
+and paths at all times. Instead, the goal is to detect them and to recover from any
+disruption or delays caused by them. Because the detection has a deterrent effect, it
+may also contribute to preve
 --- page 44 ---
 9.3 TYPES OF FIREWALLS
 
@@ -9405,6 +10688,28 @@ SO-2   [5]
 countermeasure from the same.
 BL-3
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+, Security Goals
+
+> Confidentiality > Authentication
+* Assuring that the communicating
+entity is the one that it claims to be
+
+> Access Control
+
+* Only intended users should be able
+to access the contents of a message
+
+> Integrity * Who can access what resources and|
+» Amessage should be preserved as it! under what conditions
+travels from one point to another > Non-Repudiation
+> Availability * Protection against denial by one of
+the entities involved in a
+» It ensures that the resources are communication
+
+available to the authorized entities
+at all time
 --- page 2 ---
 Ans. | Password Authentication
 
@@ -9480,6 +10785,52 @@ BL-1
 5. Risk exposure
 Ans.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Firewall types - Proxy
+
+» Proxy firewalls operate at the application layer to filter incoming traffic between your network and
+the traffic source—hence, the name “application-level gateway.” These firewalls are delivered via a
+cloud-based solution or another proxy device. Rather than letting traffic connect directly, the proxy
+firewall first establishes a connection to the source of the traffic and inspects the incoming data
+packet.
+
+» This check is similar_to the stateful inspection firewall in that it looks at both the packet and at the
+TCP handshake protocol. However, proxy firewalls may also perform deep-layer packet inspections,
+checking the actual contents of the information packet to verify that it contains no malware.
+
+» Once the check is complete, and the packet is approved to connect to the destination, the proxy
+sends it off. This creates an extra layer of separation between the “client” (the system where the
+packet originated) and the individual devices on your network—obscuring them to create additional
+anonymity and protection for your network.
+
+» If there’s one drawback to proxy firewalls, it’s that they can create significant slowdown because of
+the extra steps in the data packet transferal process.
+
+Hi Risk Identification - is the examination and
+documentation of the security posture of an organization’s
+information technology and the risks it faces.
+
+i Risk Assessment — is the determination of the extent to
+which the organization’s information assets are exposed or at
+risk.
+
+i Risk Control — is the application of controls to reduce the
+risks to an organization’s data and information systems
+
+lf A risk is a potential problem that the system or its users
+may experience.
+i We distinguish a risk from other project events by looking for three
+things
+© A loss associated with an event. This loss is called the risk
+impact.
+© The likelihood that the event will occur. The probability of
+occurrence associated with each risk is measured from o
+(impossible) to 1 (certain).
+© The degree to which we can change the outcome. Risk control
+
+involves a set of actions to reduce or eliminate the risk.
+6
 --- page 4 ---
 I Effects of a risk can be quantified by multiplying the risk impact by
 the risk probability, known as risk exposure.
@@ -9657,6 +11008,59 @@ SO-2   [10]
 BL-2   Based Access Control Model in depth.
 Ans.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Intrusion Prevention System & its
+Types
+
+» Host-based IPS (HIPS) - Operates on individual hosts or devices to prevent malicious activities at
+the host level. HIPS can enforce security policies and respond to threats on the specific host where
+it is deployed.
+
+» Network-based IPS (NIPS) - Monitors network traffic in real-time and actively blocks or prevents
+malicious activities. NIPS is positioned inline on the network and can take immediate action to stop
+
+or mitigate threats.
+
+»   Signature-based IPS - Uses predefined signatures to identify known threats and takes action to
+prevent their execution. Signature-based IPS is effective for blocking well-known attack patterns.
+
+Intrusion Prevention System & its
+Types
+
+» Anomaly-based IPS - Analyzes deviations from normal behavior and takes proactive measures to
+
+prevent potential threats. Anomaly-based IPS can dynamically adapt to changing attack patterns.
+
+» Inline IPS - Operates directly in the network traffic path and can block or allow traffic in real-time.
+Inline IPS is positioned strategically to provide immediate response to security threats.
+
+» Passive IPS - Monitors network or system activities passively and generates alerts but does not take
+direct action to block or prevent threats. Passive IPS can provide insights into potential security
+
+incidents without disrupting normal operations.
+
+» Behavior-based IPS - Analyzes the behavior of users, applications, or systems and takes action to
+prevent abnormal activities. Behavior-based IPS focuses on proactively stopping threats based on
+
+observed behaviors.
+
+Mandatory Access Control (MAC) is an access control strategy in which access control
+decisions are limited directly to software developers or system administrators, ensuring strict,
+system-level control.
+
+Discretionary Access Control (DAC) is an access control strategy in
+which users have direct influence over access control decisions regarding their own data.
+
+Role-Based Access Control (RBAC)
+
+* Role-based access control (RBAC) assigns access permissions based on user roles within an
+organization. This model simplifies management by grouping permissions into roles rather
+than assigning them individually.
+
+Efficient management
+* Scalable for large organizations
+* Requires well-defined roles
 --- page 8 ---
 Role-based access control (RBAC)
 
@@ -9715,6 +11119,40 @@ SO-1   [10]
 BL-1   1. challenge response tokens
 2. time based tokens
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Attack Vectors
+
+» Cloud Computing Threat — Cloud computing is an on-demand delivery of IT capabilities where
+sensitive data of organization and their client is stored. Flaw in one client’s application cloud
+allows attackers to access other client’s data.
+
+» Advance Persistent Threats — An attack that is focused on stealing information from victim
+machine without user being aware of it.
+
+» Viruses and Worms — The most prevalent networking threat that are capable of infecting a
+network within seconds.
+
+» Ransomware — Restricts access to the computer system’s files and folder and demands an online
+
+ransom payment to the malware creator(s) in order to remove the restrictions.
+
+» Mobile Threats — Focus have shifted to mobile devices as it has comparatively less security.
+
+Attack Vectors
+
+» Botnet — A huge network of compromised systems used by an intruder to perform various
+network attacks.
+
+» Web Application Threats — Attackers target web applications to steal credentials, set up phishing
+
+site or acquire private information to threaten then performance of the website and hamper the
+
+security.
+
+» IoT Threats — loT devices include many software applications that are used to access the device
+remotely. Flaws in IoT devices allow attackers access into the device remotely and perform various
+attacks.
 --- page 10 ---
 Ans. | Authentication Token
 
@@ -9844,6 +11282,60 @@ Key matrix – 3 marks
 Rules – 2 marks
 Decryption process and explanation – 5 marks
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Mandatory access control (MAC)
+
+* In this non-discretionary model, people are granted access based on
+an information clearance.
+
+* A central authority regulates access rights based on different security
+levels.
+
+* It works on a hierarchy pattern.
+
+* MAC is also called a non-discretionary contro! model, which means
+that control isn’t gained at the discretion of the user or file owner.
+Access provisioning is centrally administered.
+
+* This model is common in government and military environments.
+
+Mandatory access control (MAC)
+
+* MAC uses label-based access control for data and clearance levels to
+manage and control access to resources.
+* It assigns a security label to every resource in the system.
+* These security labels such as ‘confidential’, 'secret,' or ‘public’ are
+identified on resources.
+* Clearance levels are also assigned to individuals within the organization.
+* The clearance level that each individual is assigned will determine the
+resources to which they are granted access.
+¢« Whenever a user wants to access a resource, the system evaluates
+the security label and clearance level of the user to confirm if they
+have the appropriate clearance before access is granted.
+
+PLAYFAIR CYPHER
+
+The Playfair cipher uses a 5 by 5 table containing a key word or phrase. Memorization of the
+keyword and 4 simple rules was all that was required to create the 5 by 5 table and use the
+cipher.
+
+1. Ifboth letters are the same (or only one letter is left), add an "X" after the first letter.
+Encrypt the new pair and continue. Some variants of Playfair use "Q" instead of "X", but
+any letter, itself uncommon as a repeated pair, will do.
+
+2. Ifthe letters appear on the same row of your table, replace them with the letters to their
+immediate right respectively (wrapping around to the left side of the row if a letter in the
+original pair was on the right side of the row).
+
+3.. Ifthe letters appear on the same column of your table, replace them with the letters
+immediately below respectively (wrapping around to the top side of the column if a letter
+in the original pair was on the bottom side of the column).
+
+4. If the letters are not on the same row or column, replace them with the letters on the
+same row respectively but at the other pair of corners of the rectangle defined by the
+original pair. The order is important — the first letter of the encrypted pair is the one that
+lies on the same row as the first letter of the plaintext pair.
 --- page 13 ---
 b.   Describe non-malicious program errors. Explain the below stated three
 error types in depth:
@@ -9854,6 +11346,57 @@ BL-2
 3. Time-to-check to Time-to-use
 Ans.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+NON-MALICIOUS PROGRAM ERRORS
+
+u These errors cause program malfunctions but do not lead
+to more serious security vulnerabilities
+
+= We consider three classic error types:
+© Buffer overflows
+°o Incomplete mediation
+© Time-to-check to Time-to-Use Errors
+
+NON-MALICIOUS PROGRAM ERRORS - Buffer Overflow
+
+mu A buffer is a space in which data can be held. A buffer’s capacity is
+finite.
+
+m= The programmer must declare the buffer’s max. size so that the
+compiler can set aside that amount of space.
+
+m= char sample[1o0];
+
+mu The compiler sets aside 10 bytes to store this buffer.
+m= sample[10]="B’
+
+= The subscript is out of bounds
+
+= sample[i]="B’
+
+NON-MALICIOUS PROGRAM ERRORS - Buffer Overflow
+
+Example:
+
+char sample[io];
+
+for (i=0; i<=9; i++)
+
+sample[i] = ‘A’;
+
+sample[10]=‘B’
+
+All programs and data are in memory during execution, sharing space with the OS,
+other code.
+
+There are 4 cases to consider in deciding where ‘B’ goes.
+
+= Buffer may overflow into (and change):
+© User’s own data space
+o User's program area
+o System data space
+o System program area
 --- page 14 ---
 NON-MALICIOUS PROGRAM ERRORS - Buffer Overflow
 
@@ -9982,6 +11525,67 @@ SO-2   Diffie Hellman algorithm. And perform a man-in-the-middle attack on   [10
 BL-3
 the same.
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Principle of Complete
+Mediation
+
+> Simplifies the design and implementation > this principle restricts the caching of
+of security mechanisms information, which often leads to simpler
+implementations of mechanisms
+
+> “the principle of economy of mechanism
+states that security mechanism should be > “The principle of complete mediation
+as simple as possible” requires that all accesses to objects be
+checked to ensure that they are allowed”
+
+> ita design and implementations are
+simple, fewer possibilities exist for errors > ifthe subject tries to read a resource again
+and again, the system should check that the
+subject is still allowed to read the object
+
+Principle of Open Design Principle of Separation of
+
+privilege
+> the principle suggests that complexity
+does not add security > This principle is restrictive because it
+> “rhe principle of open design states that limits access to system entities
+the security of a mechanism should not > “The principle of separation of privilege
+depend on the secrecy of its design or states that a system should not grant
+implementation” permission based on single condition”
+> Designers of a program must not depend > Company checks for more than 75,000
+on secrecy of the details of their design must be signed by two officers of the
+and implementation to ensure security company. If either does not sign, the check
+> ifthe strength of the program's security is not valid. The two conditions are the
+
+depends on the ignorance of the user, a signatures of two officers
+
+knowledgeable user can defeat that
+security mechanism
+
+Principle of Psychological
+
+acceptability
+> Co _— . > This principle recognizes the human
+This principle is restrictive because it element in computer security
+limits sharing we .
+> “The Principle of psychological
+acceptability states that security
+> “The principle of least common mechanism should not make the resource
+mechanism states that mechanisms used more difficult to access than if the security
+to access resources should not be shared” mechanisms were not present”
+
+> if security related software is too
+complicated to configure, system
+administrators may unintentionally set up
+software in a non secure manner, security-
+related user programs must be easy to use
+and must output understandable messages
+
+> Sharing resources provides a channel
+along which information can be
+transmitted, and so such sharing should
+be minimized
 --- page 17 ---
 Ans.
 " | SYMMETRIC-KEY EXCHANGE
@@ -10307,6 +11911,24 @@ CO-3
 SO-2   authentication system using mathematical concept of sets with an   [5]
 BL-2   example.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Data Categories
+
+= Any information about you is your data
+« This data is used to identify you online
+
+« Your computing devices have become the
+portal to your data and generate information
+about you
+
+= Hackers want your money - that's a short
+term profit
+
+« Hackers want your identity - that a long term
+profit
+
+A ~~ | 7 |fat Qa Qa
 --- page 2 ---
 Ans. | Authentication Basic
 
@@ -10370,6 +11992,48 @@ BL-2
 3. execution patterns
 4. transmission patterns
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Types of Filtering services
+
+» Email Filtering — Scan email content and attachments for malicious code, phishing
+attempts, or spam. Email filtering helps prevent the delivery of malicious content
+through email.
+
+» DNS Filtering — Block access to malicious websites by filtering DNS requests. DNS
+filtering can prevent users from accessing known malicious domains or websites.
+
+» Application Layer Filtering — Control or block specific applications or services at
+the application layer. This can include filtering instant messaging, peer-to-peer file
+
+sharing, or other applications that may pose security risks.
+
+Types of Filtering services
+
+» Virtual Private Network Filtering — Manage and control access to VPN
+connections to ensure secure and authorized remote access to the network.
+
+» Data Loss Prevention — Monitor and control the transfer of sensitive data within
+the network to prevent unauthorized access or data leakage.
+
+» Packet Filtering — Examines packets of data and makes decisions to allow or block
+the transmission based on predefined rules.
+
+» Behavioral Analysis — Analyze the behavior of network traffic and detect anomalies
+
+or patterns indicative of potential security threats.
+
+ll In general, we have three strategies for dealing with risk:
+
+1. Avoiding the risk, by changing requirements for security or other
+system characteristics
+
+2. Transferring the risk, by allocating the risk to other systems,
+people, organizations, or assets; or by buying insurance to cover any
+financial loss should the risk become a reality
+
+3. Assuming the risk, by accepting it, controlling it with available
+resources, and preparing to deal with the loss if it occurs
 --- page 4 ---
 Ans. || VIRUS SIGNATURES
 
@@ -10544,6 +12208,68 @@ CO-4   b.   Discuss the phases of security policy development. Also, describe th
 SO-2   [10]
 BL-2   security policy categories, types and format.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Factors DAC MAC RBAC ABAC
+
+Access Control to Through owner | Through fixed Through roles Through
+
+Information of data tules attributes
+
+Access Control Discretion of Classification of | Classification Evaluation of
+
+Based on owner of data users and data of roles attributes
+
+Flexibility for
+
+Accessing High Low High Very high
+
+Information
+
+Access Revocation Very complex Very easy Very easy Very easy
+
+Complexity
+
+Support for
+
+Multilevel Database No Yes Yes Yes
+
+System
+
+Used in Initial Unix The U.S. ATLAS The Federal
+system department of experiment in government
+
+defense CERN
+
+MAC vs. DAC
+
+Aspect Mandatory Access Control (MAC) Discretionary Access Control (DAC)
+
+Definition System tevel control set by administrators User-level control over data and
+or developers permissions
+
+Control Level Centralized Decentralized
+
+Flexibility Low High
+
+Security Confidentiality User Agency
+
+Requirement
+
+Management Admins set policies and permissions Users manage their own permissions
+
+Implementation Predefined policies strictly enforced Users define access controls for their
+resources
+
+Examples of Use Any strictly monitored system Social networks, file systems
+
+Strengths - High security- Strict control - Flexibility- User autonomy
+
+Limitations ~ Inflexibility- Not user-friendly ~- Security risks- Potential for
+
+misconfigurations
+
+User Management Managed by administrators Managed by individual users
 --- page 8 ---
 Ans.
 
@@ -10652,6 +12378,24 @@ Advantages of Kerberos
 •   Reusable Authentication
 Security
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+KERBEROS TICKET EXCHANGE
+
+=e
+£ OS ue
+
+J
+i Pda Here in my TGT. give me a Service
+
+USER LOGINS
+TO GAIN
+NETWOK
+
+4
+Herein youn Service Ticket
+
+ACCESS
 --- page 10 ---
 CO-4   b.
 SO-2   Discuss Discretionary Access Control Model.   [10]
@@ -10664,6 +12408,80 @@ SO-2   And demonstrate how digital signatures provide message authentication   [
 BL-3
 and message integrity.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+fo) F O ee
+Mandatory Access Control (MAC) is an access control strategy in which access control
+decisions are limited directly to software developers or system administrators, ensuring strict,
+system-level control.
+
+Discretionary Access Control (DAC) is an access control strategy in
+which users have direct influence over access control decisions regarding their own data.
+
+GRole-Based Access Control (RBAC)
+
+* Role-based access control (RBAC) assigns access permissions based on user roles within an
+organization. This model simplifies management by grouping permissions into roles rather
+than assigning them individually.
+
+* Efficient management
+
+°
+
+* Scalable for large organizations
+* Requires well-defined roles
+
+° O
+
+What is Discretionary Access Control (DAC)?
+
+Discretionary Access Control (DAC) is a strategy that grants users control over their own data. Unlike MAC, where
+access decisions are made by the system administrators or developers, DAC allows the data owners to decide who
+can access their data and what actions they can perform. This model emphasizes flexibility and user autonomy.
+
+DAC Implementation and Examples:
+
+DAC is widely used in environments where user flexibility and data sharing are essential. A common traditional
+example is the way file permissions are managed in operating systems like Windows or Unix. Users can create files
+and folders and then set permissions to determine who else can read, write, or execute those files.
+
+Another common example is found in social networking platforms. Users can choose who sees their posts, who can
+comment, and who can share their content. This level of control allows users to manage their privacy and
+interactions directly.
+Discretionary means that access decisions are made “at the discretion” of the users that have access to the data.
+In this method, the owner or administrator of the protected system, data, or resource sets the policies for who is
+allowed access.
+Example of DAC: File and Folder permissions that exist in Windows and Unix-based operating systems.
+DAC attributes include:
+
+* User may transfer object ownership to another user(s).
+
+* User may determine the access type of other users.
+
+* After several attempts, authorization failures restrict user access.
+
+Discretionary access control (DAC)
+
+Discretionary access control (DAC):
+
+¢ Applications:
+
+* Social Networks: Many social media networks allow users to limit or regulate
+access to the content they create. In social media networks, DAC allows the
+data owner to decide who can or can’t view it.
+
+* For example: Facebook’s friend:--The platform doesn’t allow users that see friend-locked
+content to share the data.
+
+* Google Docs and Google Sheets: The owner and creator of the document can
+grant access privileges to the document on several different levels.
+
+* Unix file mode: Computer file systems and UNIX, in particular, use the DAC
+model for read, write, and view permissions of files.
+
+* Smartphone applications: Application requires access to your location,
+contacts, or media folders, granting those permissions is at the user’s
+discretion.
 --- page 11 ---
 Ans. PUBLIC-KEY CERTIFICATE USE
 
@@ -11008,6 +12826,56 @@ SO-2   [10]
 BL-3   decryption using RSA algorithm with an example.
 Ans.
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+Classification of Attacks
+
+Passive Active Outsider
+> Footprinting > Denial of service > Planting keylogger > shoulder sniffing
+> Sniffing > Firewall and IDS > Data theft > Dumpster Diving,
+attack - :
+> Eavesdropping > > Theft of physical > Social _
+> Network Traffic Spoofing devices engineering
+Analysis > Replay > Wiretapping
+> Decryption of > Password based
+weakly > Man-in-middle
+
+encrypted traffic > Backdoor access
+
+> DNS and ARP
+poisoning
+
+RSA
+
+1. Choose two large prime numbers P and Q.
+2. Calculate N = Px Q.
+
+3- Select the public key (i.e. the encryption key) E such that it is not a factor of (P — 1) and
+(Q-1).
+
+4. Select the private key (i.e. the decryption key) D such that the following equation is true:
+(Dx E) mod (P - 1) x (Q-1) =1
+
+5- For encryption, calculate the cipher text CT from the plain text PT as follows: CT = PT= mod N
+6. Send CT as the cipher text to the receiver.
+
+7. For decryption, calculate the plain text PT from the cipher text CT as follows: PT = CT? mod N
+
+RSA EXAMPLE
+
+| | Select primes p=11, q=3.
+WB n=pq=11*3-=33
+BB (p-0(q-9 = 10 *2 = 20
+Choose E=3
+Check ged (E, (p-1)(q-1) ) = ged(3, 20) =1
+(i.e. 3 and 20 have no common factors except 1)
+HB compute D such that (D *E) mod (p-1)(q-1)=1
+ie. compute D = e* mod (p-1)(q-1)= 3% mod 20
+i.e. find D such that 20 divides 3D-1.
+Simple testing (d = 1, 2, ...) gives d =7
+Check: 3*7 - 1 = 20, which is divisible by (p-1)(q-1)
+
+Wh public key = (E,n) = (3,33) Private key = (D,n) = (7,33).
 --- page 18 ---
 Q7   [20]
 CO-2   a.   Describe the process of risk management with the help of its
@@ -11019,6 +12887,23 @@ CO-3   b.   Justify the use of SIEM in providing information security in any
 SO-2   [10]
 BL-5   organization.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+RSA EXAMPLE
+
+| Now say we want to encrypt the message m = 7,
+CT = PT? modn
+= 78 mod 33
+= 343 mod 33 = 13.
+Hence the cipher text c = 13.
+Bit decrypt we compute
+PT=CT? modn
+= 137 mod 33 = 7.
+m = 137 mod 33 = 13'3*3+ mod 33 = 133.13%.13 mod 33
+= (138 mod 33).(438 mod 33).(13 mod 33) mod 33
+= (2197 mod 33).(2197 mod 33).(13 mod 33) mod 33
+= 19.19.13 mod 33 = 4693 mod 33
+=7
 --- page 19 ---
 As. | Security Information and Event
 

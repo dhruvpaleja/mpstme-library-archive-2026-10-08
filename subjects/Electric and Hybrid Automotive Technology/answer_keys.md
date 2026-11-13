@@ -158,6 +158,22 @@ Coordination Platform:.
 Support to Investors and Industry
 Support to Consumers   3 marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+| Power Source | <-- Battery / Engine / Hybrid
+
+| Powertrain <-- Motor/Engine + Drive Axle
+
+| Transmission | <-- Gearbox, Differential
+
+I Vehicle | <-- Longitudinal/tateral Dynamics
+I Load & |
+| Environmental |
+
+| Control | <-- EMS, Torque, Regeneration
+
+Vehicle Output
+(Velocity, Acceleration, Range)
 --- page 5 ---
 Simulation model — 2
 

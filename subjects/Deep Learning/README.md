@@ -1,6 +1,6 @@
 # Deep Learning
 
-**62** unique papers (108 copies across programmes) · 2018-19 to 2025-26 · 28 programmes · Sem 2, Sem 3, Sem 5, Sem 6, Sem 7, Sem 8, Sem 11
+**63** unique papers (109 copies across programmes) · 2018-19 to 2025-26 · 28 programmes · Sem 2, Sem 3, Sem 5, Sem 6, Sem 7, Sem 8, Sem 11
 
 Download only this subject, sorted by academic year:
 
@@ -11,6 +11,8 @@ python organize_by_subject.py restore --destination D:/Study --subject "Deep Lea
 Files land in `D:/Study/PYQs_By_Subject/Deep Learning/<academic year>/`. Identical copies of one paper (the portal often files the same PDF under several programmes) are placed once.
 
 Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (every paper in full, newest first), [`questions.jsonl`](questions.jsonl) (one record per question with marks, year, exam, semester and department) and [`papers.jsonl`](papers.jsonl) (one record per paper). Answer keys, where the portal published them, are in `answer_keys.md`. See [`question_bank/README.md`](../../question_bank/README.md) for the fields.
+
+Syllabus of this course, every version found in the archive: [`syllabus.md`](syllabus.md) (see [`syllabi/`](../../syllabi/README.md) for all programmes).
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
@@ -26,6 +28,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Final-Exam | Answer key | Sem 7 | BTech EXTC 7006 | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 7 | BTech EXTC 7006, MBATech (ELECTRONICS TELECOMMUNICATION | ANS_Deep Learning(702AI0C008)_2025-2026_79487bab27.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Deep Learning(702AI0C008)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 8 | B TECH / CSBS | B_Tech__Deep_Learning__Sem-VIII__Batch_2025-26_Re_Exam_G12L5CaSrb.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech AI 7012 | QP_Deep Learning(702AI0C008)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech AIDS 7056 | QP_Deep Learning(702AI0C008)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech CSE DS 7011 | QP_Deep Learning(702AI0C008)_2025-2026.pdf |

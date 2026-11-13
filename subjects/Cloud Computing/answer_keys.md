@@ -988,6 +988,19 @@ maintains desired state.
 client requests to Pods.
 Description – 7 marks, Diagram – 3 marks
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Kubernetes Master
+
+Developer
+/ Operator Users
+Kubelet (_cravisor ) Kube-Proxy Kubelet (_crisor ) Kube-Proxy
+
+Plugin Network 1 Flannel, Weavenet, etc)
+
+ec. cla cel!
+
+Kubernetes Node Kubernetes Node
 ````
 
 ## 2025-26 · Final-Exam · Sem 7 · Answer key · paper af9c12cf7f12
@@ -1793,6 +1806,35 @@ CO- 2;
 SO- ;   [5]
 BL-3
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Active Attack Passive Attack
+
+In an active attack, Modification in information takes While in a passive attack, Modification in the information does not
+
+place. take place.
+
+Active Attack is a danger to Integrity as well as -
+oan Passive Attack is a danger to Confidentiality.
+availability.
+
+In an active attack, attention is on prevention. While in passive attack attention is on detection.
+
+Due to active attacks, the execution system is always 7 . .
+While due to passive attack, there is no harm to the system.
+damaged.
+
+In an active attack, Victim gets informed about the While in a passive attack, Victim does not get informed about the
+attack. attack.
+
+In an active attack, System resources can be changed. _ While in passive attack, System resources are not changing.
+
+- - While in a passive attack, information and messages in the system
+Active attack influences the services of the system. °
+
+or network are acquired.
+In an active attack, information collected through While passive attacks are performed by collecting information such
+passive attacks is used during execution. as passwords, and messages by themselves.
 --- page 3 ---
 d.   Discuss the key features of a Docker
 Any 5 features- 1 mark each
@@ -5458,7 +5500,7 @@ scheduling across nodes.
 - Departments: Information Technology
 - Programmes: BTech IT 7001
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/BTech_IT_7001/Cloud Computing/ANS_Cloud Computing(702IT0C026)_2025-2026.pdf`
-- Text: none (FileDataError: Failed to open stream)
+- Text: none (encrypted by the portal: the file is uniformly random bytes in 16-byte cipher blocks with no PDF structure, and the archive holds no key (its own re-download got the same bytes))
 
 ## 2025-26 · Re-Exam · Sem 7 · Answer key · paper 67f656a3aa9c
 

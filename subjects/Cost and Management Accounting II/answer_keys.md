@@ -28,6 +28,46 @@ Instructions:
 5. Use Of Simple Calculator is allowed.
 1.   15
 Page 1 of 7
+
+[Text in pictures on this page, read by OCR]
+Contract A/c —(12 Marks)
+
+Particulars Amount % Particulars Amount %
+
+To bal b/d Work Certified 15,00,000 | By Work in Progress:
+
+Work Uncertified 15,000 | Work Certified 20,00,000
+Work Uncertified 20,000
+
+To Materials at site b/d 15,000 | By Materials returned to 20,000
+supplier
+
+To Materials Issued 12,00,000 | By Materials returned to 60,000
+stores
+
+To Materials Purchased 6,00,000 | By Materials at site 80,000
+
+To Wages Paid 16,00,000 By Notional Loss 32,75,000
+
++ Accrued Wages 20,000
+
+- At start — (15,000) 16,05,000
+
+To Architect Fees 2,00,000
+
+To Plant Hire Charges 2,00,000
+
+To Indirect Expenses 40,000
+
+To Share of General Overheads 40,000
+
+apportioned
+
+To Fines & Penalties apportioned 40,000
+
+to this contract
+
+Total 54,55,000 | Total 34,55,000
 --- page 2 ---
 Contractee A/c (3 marks)
 

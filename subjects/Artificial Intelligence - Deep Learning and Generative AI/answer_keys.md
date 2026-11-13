@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/MASTER OF TECHNOLOGY (ARTIFICIAL INTELL_fdd2a5aa/Artificial Intelligence - Deep Learning_7071ba3b/ANS_Artificial Intelligence - Deep Learning & Generative AI(703DB0C066)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
 - Text: mixed (15 pages), mean OCR confidence 78.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -238,6 +239,34 @@ relationships between features.
 Helps the network respond strongly to important features while suppressing
 irrelevant ones.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Step 4: Update weights (Gradient Descent)
+OE
+
+Wnew = Wold — &* D—
+
+Ow
+
+Hidden layer:
+w; = 0.3 — 0.01 - 0.1104 = 0.2989
+wy = 0.5 — 0.01 - 0.0662 ~ 0.4993
+b, = 0.2 — 0.01 - 0.2208 ~ 0.1978
+ws = 0.4 — 0.01 - 0.1472 = 0.3985
+w, = 0.7 — 0.01 - 0.0883 = 0.6991
+by = 0.3 — 0.01 - 0.2944 = 0.2971
+Output layer:
+w; = 0.6 — 0.01 - 0.184 ~ 0.5982
+we = 0.8 — 0.01 - 0.2613 = 0.7974
+
+bs = 0.5 — 0.01 - 0.368 = 0.4963
+
+Step 5: Effect of Linear Activation
+© Linear activation does not introduce non-linearity, so the network is equivalent to a single linear
+transformation from input to output.
+* Multiple layers with linear activation cannot model complex relationships.
+* Suitable only for simple regression tasks; poor choice for tasks requiring non-linear mapping (like
+classification or complex function approximation).
 --- page 7 ---
 Pooling Layer (e.g., Max Pooling):
 Reduces spatial dimensions of feature maps, retaining the most important
@@ -288,6 +317,75 @@ mechanism would yield better results. Justify your reasoning in terms of
 SO-2;
 information flow, computational efficiency, and accuracy.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Self-Attention Mechanism:
+
+© Purpose: Allows a Transformer to weigh the importance of different words (or tokens) in a sequence
+when encoding a particular token.
+
+* Key components:
+
+1. Query (Q): Represents the token for which we are calculating attention.
+
+2. Key (K): Represents each token’s identity in the sequence.
+
+3. Value (V): Holds the actual information of each token to be combined based on attention scores.
+* Working Steps:
+
+1. Compute attention scores by taking the dot product of the query with all keys, then scale and
+
+apply softmax:
+
+Attention(Q, K,V) = softmax (=) v
+
+2. Multiply the attention weights with the values to get a weighted sum, emphasizing relevant tokens
+for the current query.
+
+Multi-Head Attention:
+
+* Instead of a single attention calculation, the model uses multiple attention heads (each with its own Q,
+K, V projections).
+
+* Each head learns different types of relationships or patterns in the sequence.
+
+© The outputs of all heads are concatenated and linearly transformed to form the final representation.
+
+Advantages of Multiple Heads:
+
+1. Captures diverse contextual information simultaneously.
+
+2. Helps the model attend to different positions and features in the sequence.
+
+3. Improves representation quality, leading to better performance on tasks like translation,
+summarization, and text generation.
+
+Summary: Self-attention computes contextualized representations using Q, K, and V, while multi-head
+attention allows the model to capture multiple aspects of relationships in the data, improving learning
+capacity and expressiveness.
+
+Self-Attention in Transformer Models
+
++ Attention Scores
+Softmax & Weighed Sum
+
+—$— fae
+
+gen
+
+Multi-Head Attention
+
+Parallel Processing
+
+e-(]-o
+
+Concatenated Output
+
+Multiple Attention Heads
+
+Captures both
+detailed and
+broad patterns
 --- page 9 ---
 BL-5   For very long sentences, a Transformer’s self-attention generally performs
 better than traditional seq2seq attention:
@@ -384,6 +482,32 @@ current input is added to the cell state.
 o Forget gate: Decides which information from the previous cell
 state should be retained or discarded.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+import torch
+import torch.nn as nn
+
+class LSTMModel{nn.Module):
+def _ init__(self, vocab_size, embed_size, hidden_size):
+super().__init__()
+self.embedding = nn.Embedding(voceb_size, embed_size)
+self.istm = nn.LSTM(embed_size, hidden_size)
+self.fc = nn.Linear(hidden_size, vwocab_size)
+
+def forward(self, x):
+x = self.embedding(x)
+out, _ = self.1stm(x)
+out = self.fcf{out[:, -1])
+return out
+
+model = LSTMModel(vocab_size=100, embed_size=32, hidden_size=64)
+
+output = model(x)
+
+loss_fn = on.CrossEntropyLoss()
+target = torch.randint(@, 106, (16, 18))
+
+loss = loss_fn(output, target)
 --- page 12 ---
 o Output gate: Determines how much of the cell state is exposed
 to the hidden state (i.e., the output at the current time step).
@@ -433,6 +557,27 @@ layer normalization, residual connections)
 • perform forward pass and compute loss
 •   generate text sequentially
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+import torch
+import torch.nn as nn
+import torch.nn.functional as F
+
+#1. Prepare Input-Target Sequences
+
+def create_sequences(text, seq_len, tokenizer):
+
+tokens = tokenizer.encode(text) # convert text to token IDs
+
+input_seq = []
+
+target_seq = []
+
+for i in range(len(tokens) - seq_len):
+input_seq.append(tokens[i:i+seq_len])
+target_seq.append(tokens[i+1:i+seq_len+1]) # next-token prediction
+
+return torch.tensor(input_seq), torch.tensor(target_seq)
 --- page 14 ---
 # 2. Masked Self-Attention
 
@@ -569,7 +714,7 @@ FRR IC 7 DA HOH
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/MASTER OF TECHNOLOGY (ARTIFICIAL INTELL_fdd2a5aa/Artificial Intelligence - Deep Learning_7071ba3b/ANS_Artificial Intelligence - Deep Learning & Generative AI(703DB0C066)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2025
 - Text: mixed (7 pages), mean OCR confidence 77.5
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -764,6 +909,20 @@ CO-2;   data processing, but they suffer from issues such as vanishing and
 SO-2;
 BL-5
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Updated Biases
+b, = 0.2 — (0.01 x 0.2208) = 0.1978
+by = 0.3 — (0.01 x 0.2944) = 0.2971
+
+Bs = 0.5 — (0.01 x 0.368) = 0.4963
+
+Final Answer
+
+After one iteration of backpropagation:
++ Updated Weights:
++ Updated Biases:
+by = 0.1978, bz = 0.2971, By = 0.4963
 --- page 5 ---
 exploding gradients. Explain the architecture of a basic RNN, derive its
 forward and backward propagation equations, and discuss how
@@ -849,4 +1008,21 @@ translation, multimodal learning.
 • Effect of Removing Cross-Attention: Reduces effectiveness in tasks
 requiring external context understanding.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+import tensorflow as tf
+from tensorflow.keras import layers, models
+
+model = models Sequential ([
+layers Conv20(64, (5,5), activation='relu', input_shape=(28, 28)), # Error 1
+layers.MaxPooling2D(3,3), # Error 2
+layers.Conv2D(32, (3,3), activation='relu'),
+layers. MaxPooling2D(2,2) ,
+layers.Dense(128, activation='relu'), # Error 3
+layers Dropout (0.5),
+layers.Dense(10, activation='sigmoid') # Error 4
+
+})
+
+model. compile(optimizer='adam', loss='mean_squared_error’, metrics=['accuracy']) # Error 5
 ````

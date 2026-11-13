@@ -33,6 +33,31 @@ Instructions:
 2.   15
 A.   8
 Page 1 of 3
+
+[Text in pictures on this page, read by OCR]
+The following extracts of costing information relate to commodity A for the year 31.3.2025
+
+Purchase of Raw Material % 48,000
+Direct Wages % 40,000
+Stock on 1-4-2024
+
+of Raw Material % 8,000
+of Finished Goods 1,600 quintals = 6,400
+Stock on 31-3-2025
+
+of Raw Material % 6,800
+of Finished Goods 3,200 quintals
+
+Work on cost (factory overhead) = 16,800
+Work-in-Progress:
+
+1st April 2024 = 1,920
+31st March 2025 % 6,400
+Office and Administrative Overheads related to production 3,200
+Sales (Finished Product) % 1,20,000
+
+Advertising, discount allowed and selling cost is Re. 0.40 per quintal. During the year 25,600 quintals of
+commodity were produced. Prepare Cost sheet.
 --- page 2 ---
 B.
 

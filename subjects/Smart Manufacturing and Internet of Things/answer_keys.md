@@ -73,6 +73,33 @@ Q.5   a.   Discuss the key components of an IoT-enabled smart manufacturing syst
 how they interact to streamline production.
 Correct Answer – 10 Marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Data Flow 4 Stage loT Architecture
+
+ZN Application Layer
+
+Smart Application
+‘Smart Applications and Management
+
+Data Processing Layer
+
+Processing Unit
+Data Analytics/ Decision Unit
+
+Process Information
+
+Network Layer
+
+Data Transmission
+Internet Gateway! Network Gateway
+Network Technology
+
+Sensing Layer
+
+Data Gathering
+Physical Object
+\ / Sensor and Actuator
 --- page 3 ---
 b.   Describe how Industrial IoT (IoT) is transforming traditional manufacturing   10
 practices. Provide real-world examples.
@@ -203,6 +230,33 @@ Explaination – 6 Marks
 Q.4   a.   Compare and contrast cloud computing and edge computing in IoT systems. How   10
 do they impact latency, bandwidth usage, and security?
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Data Flow 4 Stage loT Architecture
+
+os Application Layer
+
+Smart Application
+Smart Applications and Management
+
+Data Processing Layer
+
+Processing Unit | Process Information
+
+Data Analytics/ Decision Unit
+
+Network Layer
+
+| Data Transmission
+Internet Gateway! Network Gateway
+Network Technology
+
+Sensing Layer
+
+x 7 Physical Object
+Sensor and Actuator
+
+| Data Gathering
 --- page 3 ---
 b.   Explain the role of operating systems in IoT devices, with examples of commonly   10
 used IoT operating systems.
@@ -210,6 +264,23 @@ Correct Answer – 10 Marks
 Q.5   a.   Discuss the key components of an IoT-enabled smart manufacturing system and   10
 how they interact to streamline production.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Points of Edge Computing Cloud Computing
+Difference
+
+Operations Edge computing happens on | Cloud computing happens on cloud
+the device itself, platforms, such as Google Cloud,
+Amazon EC2, ete.
+
+Benefits You can independently scale | You can store a massive amount of data
+the network with each new | on scalable hosting over the intemet and
+device you add to a system. | access it anytime.
+
+Suitable Use Edge computing is a perfect | Cloud computing suits businesses that
+Cases match for operations with —_| require huge amounts of data storage, and
+extreme latency concems. —_| need scalable and cost-effective hosting
+providers,
 --- page 4 ---
 Diagram – 4 marks
 Explaination – 6 Marks
@@ -228,6 +299,29 @@ b.   Describe the role of edge computing in IoT-based smart manufacturing system
 Diagram -4 Marks
 Explaination – 6Marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+of 1OT ANALYTICS Insights that empower you to understand loT markets
+
+Cae)
+
+loT Edge Computing - What it is and how it is becoming intelligent
+
+¥v 5 ; —
+ata pre-processing and filtering
+@ i Edge analytics
+
+Es Exess
+E% EX E%
+
+0 = Distributed applications
+6 Kk Consolidated workloads
+
+(o> 00 mm
+
+60 €& 6
+
+Source: loT Analytics Research 2020
 --- page 5 ---
 Correct Answer — 10 Marks
 

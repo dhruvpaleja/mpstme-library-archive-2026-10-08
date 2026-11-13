@@ -74,6 +74,30 @@ III
 CO-2, BL-3   a   Identify and explain the NDT methods used for inspection purposes.
 [10]
 Cite some examples supporting your answer.
+
+[Text in pictures on this page, read by OCR]
+Composition (at% C)
+
+) 10 15 20 25
+hsser T T T
+1400
+12500
+1200+ syeseecoers T
+1147°C =
+4.30 in
+2000
+1000 }—
+7\+ FegC
+soo @ 1500
+e | 727°C
+y
+Pee
+0.022
+600)/-——"z, Ferrite a+ Fesc
+Cementite (Fe3¢)_ — 1000
+| | | | |
+4009 1 3 4 5 6 6.70
+(Fe) Composition (wt% C)
 --- page 4 ---
 Dye penetrant test, ultrasonic testing, and magnetic
 marks
@@ -219,6 +243,30 @@ solidifies   779-degree C
 c) The composition of the phases formed at 650-degree C
 10   62 , C=40,
 42%   5 MARKS approximately
+
+[Text in pictures on this page, read by OCR]
+1600 | T | T | T | T 4
+
+— 2800
+1500 |
+
+Liquid 1455°C
+
+— 2600
+
+1400 |-
+
+Liquidus line Solidus line pally
+1300
+
+ep 7
+1200 |— a = 2200
+1100 oA = 2000
+1085°C
+1000 oe p | 4, |
+0 20 40 60 80 100
+
+(Cu) Composition (wt% Ni) (Ni)
 ````
 
 ## 2025-26 · Final-Exam · Sem 7 · Answer key · paper 20ba194ef60e
@@ -286,6 +334,31 @@ CO-5, BL-3   c   Show the CCT diagram and explain its importance in heat treatme
 [5]
 Explanation ………..2 marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+800 T T T T
+
+Eutectoid temperature
+
+600}—
+
+500}—
+2 400 /—
+5
+
+300 |-
+
+M(start) i}
+
+200 |—
+
+M(90%)
+
+100 }— =| 200
+
+° ! ! | | l
+107 1 10 10? 10° 104 10°
+Time (s)
 --- page 3 ---
 Diagram………….3 marks
 II
@@ -313,6 +386,32 @@ CO-2, BL-3   a   Identify and explain the NDT methods used for inspection purpos
 [10]
 Cite some examples supporting your answer.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Composition (at% C)
+
+0 5 10 15 20 25
+°° T T
+saaec
+1493°C
+1400 L
+2500
+L   1394°C y+L
+1200}— ee
+1147°C =a
+fF __¥, Austenite ead 430 —l2000 =
+1000 |—
+y+ Fe3C
+goo |} 1500
+727°C
+H 0.76
+0.022
+p00 ‘a, Ferrite a+ Feac
+Cementite (Fe3¢)__ —} 1000
+| | | | | |
+4005 1 2 3 4 5 6 6.70
+
+(Fe) Composition (wt% C)
 --- page 4 ---
 • Dye penetrant test, ultrasonic testing, and magnetic
 particle testing. … each method explanation…………..3*2
@@ -476,6 +575,24 @@ c) The composition of the phases formed at 650-degree C…..use
 lever rule , Cα =10 , Cβ =62 , C=40, …ANSWER 57% AND
 42% ………5 MARKS
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+1600-77 TT ToT TOT
+
+— 2800
+1500 }—
+Liquid 1455°C
+— 2600
+1400 }—
+Liquidus line Solidus line | sa00
+1300 |—
+1200 }— 2200
+1100 eA = 2000
+1085°C
+1000 rte, | yy | yy fy
+0 20 40 60 80 100
+
+(Cu) Composition (wt% Ni) (Ni)
 ````
 
 ## 2025-26 · Re-Exam · Sem 3 · Answer key · paper 0a6b8a5d4327
@@ -555,6 +672,33 @@ Provide their temperatures and weight percentage carbon, and the
 phases formed.
 [10]
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Composition (at% C)
+
+1600° ; 10 13 20 25
+hs3gec
+ow 498°C
+1400 6 L
+— 2500
+L 1394°C y+L
+1200 | Lee
+1147°C ———
+ry, Austenite a4 430 —| 2000
+1000 |—
+912°C y+ Fe3C
+800 }{-* —| 1500
+727°C
+No 76
+ENY 022
+8001 Na, Ferrite a+Fe3C
+
+(Cementite (Fe3C) =} 1000
+
+400 | | | | | |
+oO 1 2 3 4 5 6 6.70
+
+(Fe) Composition (wt% C)
 --- page 3 ---
 Phases ….3 marks
 Temperatures…….3 marks
@@ -580,6 +724,41 @@ diagram in heat treatment.
 [5]
 IV
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+I T T/T I
+
+Transformation | Transformation
+
+2s temperature 675°C | ends
+SS gj Sees | 4
+ze _ yf
+8 4 — | i
+5 ns I
+fs ob NY tt
+1 lo | 10? | 10? 10 10°
+| Time (s)
+
+i ot
+I 1 |
+4 i i
+
+|_ Austenite
+700 (unstable)
+— 1200
+iy
+‘© 600
+2 50% Completion curve 2
+2 —1000
+= 500 KE SS conielion curve
+(~100% pearlite) 7
+Begin curve — 800
+(~0% pearlite)
+
+| | I | l
+1 10 10? 103 104 10°
+
+Time (s)
 --- page 4 ---
 b   Explain the Full annealing heat treatment process.
 • To relieve internal stresses induced due to cold working,
@@ -721,6 +900,33 @@ Provide their temperatures and weight percentage carbon, and the
 phases formed.
 [10]
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Composition (at% C)
+
+1600° ; 10 13 20 25
+hs3gec
+ow 498°C
+1400 6 L
+— 2500
+L 1394°C y+L
+1200 | Lee
+1147°C ———
+ry, Austenite a4 430 —| 2000
+1000 |—
+912°C y+ Fe3C
+800 }{-* —| 1500
+727°C
+No 76
+ENY 022
+8001 Na, Ferrite a+Fe3C
+
+(Cementite (Fe3C) =} 1000
+
+400 | | | | | |
+oO 1 2 3 4 5 6 6.70
+
+(Fe) Composition (wt% C)
 --- page 3 ---
 Phases ….3 marks
 Temperatures…….3 marks
@@ -746,6 +952,41 @@ diagram in heat treatment.
 [5]
 IV
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+I T T/T I
+
+Transformation | Transformation
+
+2s temperature 675°C | ends
+SS gj Sees | 4
+ze _ yf
+8 4 — | i
+5 ns I
+fs ob NY tt
+1 lo | 10? | 10? 10 10°
+| Time (s)
+
+i ot
+I 1 |
+4 i i
+
+|_ Austenite
+700 (unstable)
+— 1200
+iy
+‘© 600
+2 50% Completion curve 2
+2 —1000
+= 500 KE SS conielion curve
+(~100% pearlite) 7
+Begin curve — 800
+(~0% pearlite)
+
+| | I | l
+1 10 10? 103 104 10°
+
+Time (s)
 --- page 4 ---
 b   Explain the Full annealing heat treatment process.
 • To relieve internal stresses induced due to cold working,

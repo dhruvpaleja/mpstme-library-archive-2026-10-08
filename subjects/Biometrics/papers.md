@@ -1047,6 +1047,62 @@ CO-3,
 SO-7,
 BL-3
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+5 95%
+
+Detection Error Tradeoff (DET) curves
+
+| — Linear svM
+99% j___4 \_. —= Random Forest
+
+v
+80%
+50%
+S
+20%
+BD
+5%
+
+1%
+
+1% 5% 20% 50% 80% 95% 99%
+False Positive Rate (Positive label: 1)
+
+10
+
+08
+
+5 0.6
+
+5 0.4
+
+0.0
+
+Receiver Operating Characteristic (ROC) curves
+
+— Linear SVM (AUC = 0.96)
+———~ Random Forest (AUC = 0.99)
+
+0.0 02 04 0.6 08 10
+False Positive Rate (Positive label: 1)
+
+ROC Curve
+
+100,
+
+95)
+
+s
+90)
+
+85}
+
+800 1.00 10.00 100.00
+
+False match rate
+
+(b) Overlapping confidence intervals.
 ````
 
 ## 2025-26 · Re-Exam · Sem 6 · paper 6ff66f0a544a

@@ -444,6 +444,36 @@ So as an individual he has various need at various
 stages of his career.
 4 Marks for each level
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+1. Few sectors are Women-Friendly
+
+2. Poor Funding Prospects
+
+3. Lack of Social and Institutional Support
+4. Lack of Access to Professional Networks
+
+5. Pressure to Stick to Traditional Gender
+Roles
+
+6. Lack of an Entrepreneurial Environment
+7. Limited Mobility
+
+8. Lack of Education
+
+9. Low Risk-Bearing Ability
+
+10. Balancing Responsibilities between
+Family & Business
+
+11. Stiff Competition
+
+12. Limited Industry Knowledge
+13. Missing Role Models
+
+14. Social Construct
+
+15. Safety Concerns
 --- page 9 ---
 CO3 SO2   Q7.   A factory is causing pollution and disturbing the 20
 BL-   surroundings. Analyze the situation and suggest
@@ -814,6 +844,36 @@ So as an individual he has various need at various
 stages of his career.
 4 Marks for each level
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+1. Few sectors are Women-Friendly
+
+2. Poor Funding Prospects
+
+3. Lack of Social and Institutional Support
+4. Lack of Access to Professional Networks
+
+5. Pressure to Stick to Traditional Gender
+Roles
+
+6. Lack of an Entrepreneurial Environment
+7. Limited Mobility
+
+8. Lack of Education
+
+9. Low Risk-Bearing Ability
+
+10. Balancing Responsibilities between
+Family & Business
+
+11. Stiff Competition
+
+12. Limited Industry Knowledge
+13. Missing Role Models
+
+14. Social Construct
+
+15. Safety Concerns
 --- page 9 ---
 CO3 SO2   Q7.   A factory is causing pollution and disturbing the 20
 BL-   surroundings. Analyze the situation and suggest
@@ -1184,6 +1244,36 @@ So as an individual he has various need at various
 stages of his career.
 4 Marks for each level
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+1. Few sectors are Women-Friendly
+
+2. Poor Funding Prospects
+
+3. Lack of Social and Institutional Support
+4. Lack of Access to Professional Networks
+
+5. Pressure to Stick to Traditional Gender
+Roles
+
+6. Lack of an Entrepreneurial Environment
+7. Limited Mobility
+
+8. Lack of Education
+
+9. Low Risk-Bearing Ability
+
+10. Balancing Responsibilities between
+Family & Business
+
+11. Stiff Competition
+
+12. Limited Industry Knowledge
+13. Missing Role Models
+
+14. Social Construct
+
+15. Safety Concerns
 --- page 9 ---
 CO3 SO2   Q7.   A factory is causing pollution and disturbing the 20
 BL-   surroundings. Analyze the situation and suggest
@@ -1554,6 +1644,36 @@ So as an individual he has various need at various
 stages of his career.
 4 Marks for each level
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+1. Few sectors are Women-Friendly
+
+2. Poor Funding Prospects
+
+3. Lack of Social and Institutional Support
+4. Lack of Access to Professional Networks
+
+5. Pressure to Stick to Traditional Gender
+Roles
+
+6. Lack of an Entrepreneurial Environment
+7. Limited Mobility
+
+8. Lack of Education
+
+9. Low Risk-Bearing Ability
+
+10. Balancing Responsibilities between
+Family & Business
+
+11. Stiff Competition
+
+12. Limited Industry Knowledge
+13. Missing Role Models
+
+14. Social Construct
+
+15. Safety Concerns
 --- page 9 ---
 CO3 SO2   Q7.   A factory is causing pollution and disturbing the 20
 BL-   surroundings. Analyze the situation and suggest
@@ -1924,6 +2044,36 @@ So as an individual he has various need at various
 stages of his career.
 4 Marks for each level
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+1. Few sectors are Women-Friendly
+
+2. Poor Funding Prospects
+
+3. Lack of Social and Institutional Support
+4. Lack of Access to Professional Networks
+
+5. Pressure to Stick to Traditional Gender
+Roles
+
+6. Lack of an Entrepreneurial Environment
+7. Limited Mobility
+
+8. Lack of Education
+
+9. Low Risk-Bearing Ability
+
+10. Balancing Responsibilities between
+Family & Business
+
+11. Stiff Competition
+
+12. Limited Industry Knowledge
+13. Missing Role Models
+
+14. Social Construct
+
+15. Safety Concerns
 --- page 9 ---
 CO3 SO2   Q7.   A factory is causing pollution and disturbing the 20
 BL-   surroundings. Analyze the situation and suggest
@@ -2294,6 +2444,36 @@ So as an individual he has various need at various
 stages of his career.
 4 Marks for each level
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+1. Few sectors are Women-Friendly
+
+2. Poor Funding Prospects
+
+3. Lack of Social and Institutional Support
+4. Lack of Access to Professional Networks
+
+5. Pressure to Stick to Traditional Gender
+Roles
+
+6. Lack of an Entrepreneurial Environment
+7. Limited Mobility
+
+8. Lack of Education
+
+9. Low Risk-Bearing Ability
+
+10. Balancing Responsibilities between
+Family & Business
+
+11. Stiff Competition
+
+12. Limited Industry Knowledge
+13. Missing Role Models
+
+14. Social Construct
+
+15. Safety Concerns
 --- page 9 ---
 CO3 SO2   Q7.   A factory is causing pollution and disturbing the 20
 BL-   surroundings. Analyze the situation and suggest
@@ -2664,6 +2844,36 @@ So as an individual he has various need at various
 stages of his career.
 4 Marks for each level
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+1. Few sectors are Women-Friendly
+
+2. Poor Funding Prospects
+
+3. Lack of Social and Institutional Support
+4. Lack of Access to Professional Networks
+
+5. Pressure to Stick to Traditional Gender
+Roles
+
+6. Lack of an Entrepreneurial Environment
+7. Limited Mobility
+
+8. Lack of Education
+
+9. Low Risk-Bearing Ability
+
+10. Balancing Responsibilities between
+Family & Business
+
+11. Stiff Competition
+
+12. Limited Industry Knowledge
+13. Missing Role Models
+
+14. Social Construct
+
+15. Safety Concerns
 --- page 9 ---
 CO3 SO2   Q7.   A factory is causing pollution and disturbing the 20
 BL-   surroundings. Analyze the situation and suggest
@@ -3034,6 +3244,36 @@ So as an individual he has various need at various
 stages of his career.
 4 Marks for each level
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+1. Few sectors are Women-Friendly
+
+2. Poor Funding Prospects
+
+3. Lack of Social and Institutional Support
+4. Lack of Access to Professional Networks
+
+5. Pressure to Stick to Traditional Gender
+Roles
+
+6. Lack of an Entrepreneurial Environment
+7. Limited Mobility
+
+8. Lack of Education
+
+9. Low Risk-Bearing Ability
+
+10. Balancing Responsibilities between
+Family & Business
+
+11. Stiff Competition
+
+12. Limited Industry Knowledge
+13. Missing Role Models
+
+14. Social Construct
+
+15. Safety Concerns
 --- page 9 ---
 CO3 SO2   Q7.   A factory is causing pollution and disturbing the 20
 BL-   surroundings. Analyze the situation and suggest
@@ -3404,6 +3644,36 @@ So as an individual he has various need at various
 stages of his career.
 4 Marks for each level
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+1. Few sectors are Women-Friendly
+
+2. Poor Funding Prospects
+
+3. Lack of Social and Institutional Support
+4. Lack of Access to Professional Networks
+
+5. Pressure to Stick to Traditional Gender
+Roles
+
+6. Lack of an Entrepreneurial Environment
+7. Limited Mobility
+
+8. Lack of Education
+
+9. Low Risk-Bearing Ability
+
+10. Balancing Responsibilities between
+Family & Business
+
+11. Stiff Competition
+
+12. Limited Industry Knowledge
+13. Missing Role Models
+
+14. Social Construct
+
+15. Safety Concerns
 --- page 9 ---
 CO3 SO2   Q7.   A factory is causing pollution and disturbing the 20
 BL-   surroundings. Analyze the situation and suggest
@@ -3774,6 +4044,36 @@ So as an individual he has various need at various
 stages of his career.
 4 Marks for each level
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+1. Few sectors are Women-Friendly
+
+2. Poor Funding Prospects
+
+3. Lack of Social and Institutional Support
+4. Lack of Access to Professional Networks
+
+5. Pressure to Stick to Traditional Gender
+Roles
+
+6. Lack of an Entrepreneurial Environment
+7. Limited Mobility
+
+8. Lack of Education
+
+9. Low Risk-Bearing Ability
+
+10. Balancing Responsibilities between
+Family & Business
+
+11. Stiff Competition
+
+12. Limited Industry Knowledge
+13. Missing Role Models
+
+14. Social Construct
+
+15. Safety Concerns
 --- page 9 ---
 CO3 SO2   Q7.   A factory is causing pollution and disturbing the 20
 BL-   surroundings. Analyze the situation and suggest
@@ -4144,6 +4444,36 @@ So as an individual he has various need at various
 stages of his career.
 4 Marks for each level
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+1. Few sectors are Women-Friendly
+
+2. Poor Funding Prospects
+
+3. Lack of Social and Institutional Support
+4. Lack of Access to Professional Networks
+
+5. Pressure to Stick to Traditional Gender
+Roles
+
+6. Lack of an Entrepreneurial Environment
+7. Limited Mobility
+
+8. Lack of Education
+
+9. Low Risk-Bearing Ability
+
+10. Balancing Responsibilities between
+Family & Business
+
+11. Stiff Competition
+
+12. Limited Industry Knowledge
+13. Missing Role Models
+
+14. Social Construct
+
+15. Safety Concerns
 --- page 9 ---
 CO3 SO2   Q7.   A factory is causing pollution and disturbing the 20
 BL-   surroundings. Analyze the situation and suggest
@@ -4514,6 +4844,36 @@ So as an individual he has various need at various
 stages of his career.
 4 Marks for each level
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+1. Few sectors are Women-Friendly
+
+2. Poor Funding Prospects
+
+3. Lack of Social and Institutional Support
+4. Lack of Access to Professional Networks
+
+5. Pressure to Stick to Traditional Gender
+Roles
+
+6. Lack of an Entrepreneurial Environment
+7. Limited Mobility
+
+8. Lack of Education
+
+9. Low Risk-Bearing Ability
+
+10. Balancing Responsibilities between
+Family & Business
+
+11. Stiff Competition
+
+12. Limited Industry Knowledge
+13. Missing Role Models
+
+14. Social Construct
+
+15. Safety Concerns
 --- page 9 ---
 CO3 SO2   Q7.   A factory is causing pollution and disturbing the 20
 BL-   surroundings. Analyze the situation and suggest
@@ -4884,6 +5244,36 @@ So as an individual he has various need at various
 stages of his career.
 4 Marks for each level
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+1. Few sectors are Women-Friendly
+
+2. Poor Funding Prospects
+
+3. Lack of Social and Institutional Support
+4. Lack of Access to Professional Networks
+
+5. Pressure to Stick to Traditional Gender
+Roles
+
+6. Lack of an Entrepreneurial Environment
+7. Limited Mobility
+
+8. Lack of Education
+
+9. Low Risk-Bearing Ability
+
+10. Balancing Responsibilities between
+Family & Business
+
+11. Stiff Competition
+
+12. Limited Industry Knowledge
+13. Missing Role Models
+
+14. Social Construct
+
+15. Safety Concerns
 --- page 9 ---
 CO3 SO2   Q7.   A factory is causing pollution and disturbing the 20
 BL-   surroundings. Analyze the situation and suggest
@@ -5254,6 +5644,36 @@ So as an individual he has various need at various
 stages of his career.
 4 Marks for each level
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+1. Few sectors are Women-Friendly
+
+2. Poor Funding Prospects
+
+3. Lack of Social and Institutional Support
+4. Lack of Access to Professional Networks
+
+5. Pressure to Stick to Traditional Gender
+Roles
+
+6. Lack of an Entrepreneurial Environment
+7. Limited Mobility
+
+8. Lack of Education
+
+9. Low Risk-Bearing Ability
+
+10. Balancing Responsibilities between
+Family & Business
+
+11. Stiff Competition
+
+12. Limited Industry Knowledge
+13. Missing Role Models
+
+14. Social Construct
+
+15. Safety Concerns
 --- page 9 ---
 CO3 SO2   Q7.   A factory is causing pollution and disturbing the 20
 BL-   surroundings. Analyze the situation and suggest
@@ -5624,6 +6044,36 @@ So as an individual he has various need at various
 stages of his career.
 4 Marks for each level
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+1. Few sectors are Women-Friendly
+
+2. Poor Funding Prospects
+
+3. Lack of Social and Institutional Support
+4. Lack of Access to Professional Networks
+
+5. Pressure to Stick to Traditional Gender
+Roles
+
+6. Lack of an Entrepreneurial Environment
+7. Limited Mobility
+
+8. Lack of Education
+
+9. Low Risk-Bearing Ability
+
+10. Balancing Responsibilities between
+Family & Business
+
+11. Stiff Competition
+
+12. Limited Industry Knowledge
+13. Missing Role Models
+
+14. Social Construct
+
+15. Safety Concerns
 --- page 9 ---
 CO3 SO2   Q7.   A factory is causing pollution and disturbing the 20
 BL-   surroundings. Analyze the situation and suggest

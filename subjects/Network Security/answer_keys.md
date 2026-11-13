@@ -91,6 +91,35 @@ header
 Example   End-to-end email or SSH   Site-to-site VPN between
 security   offices
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Client
+
+fF
+| |
+
+| Establish Authenticated Transport Layer Connection |
+
+Server
+
+SSH_MSG_CHANNEL_OPEN
+
+Opena
+channel | ssH_MSG_CHANNEL_OPEN CONFIRMATION
+
+SSH_MSG_CHANNEL_DATA
+
+SSH_MSG_CHANNEL_DATA
+
+e
+Data e
+transfer
+e
+SSH_MSG_CHANNEL_DATA
+SSH_MSG_CHANNEL_DATA
+Close a SSH_MSG_CHANNEL_CLOSE
+
+channel
 --- page 3 ---
 d. Distinguish between Declarative vs Imperative approach used in Benefits of 5
 Infrastructure as Code (Any 5 Points).
@@ -180,6 +209,15 @@ generated and distributed for secure communication.
 Benefits:
 • Only the server requires a certificate (reduces PKI complexity).
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Client + Authenticator + Authentication Server
+
+|-- TLS Tunnel (Outer Layer) -->|
+
+|<-- Server Certificate
+|-- Inner Auth (CHAP/PAP)
+|<-- EAP Success & Key Info ----|
 --- page 5 ---
 •   Protects user credentials within TLS tunnel.
 • Compatible with existing authentication methods.
@@ -490,6 +528,7 @@ installing apps
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_CyberSecurity_7010/Network Security/ANS_Network Security(702IT0C014)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Feb 2026
 - Text: text (10 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -576,6 +615,21 @@ and metadata.
 3. Encrypted query is transmitted to cloud server.
 4. Cloud executes query over encrypted data and returns encrypted results.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Certificate Signing Request
+with my key pair. + |
+
+youtube.com web server Google CA
+
+Sure. | have signed your
+request with my private key.
+
+% fer % 7%
+
+Private Key Public Key Private Key Public Key
+
+A Browser
 --- page 3 ---
 5. Client decrypts results locally to obtain plaintext output.
 a. Discuss any four active attacks with an example.
@@ -615,6 +669,38 @@ o Enforce device registration and authentication via 802.1X.
 o Perform pre-admission checks for OS patch level, antivirus, and
 encryption.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+(Sm
+
+User
+
+ral
+
+1. Original query
+
+Metadata
+
+I
+—_— Database| |
+!
+:
+4. Plaintext bee eee eee —
+result I cr
+y i
+2. Transformed i
+i jue!
+Client Query = Query I
+processor executor
+3. Encrypted
+result
+Encrypt/ Cloud Encrypted
+database
+Destype server
+
+An Encryption Scheme for a Cloud-B:
+
+ed Database
 --- page 4 ---
 o Non-compliant devices are redirected to a remediation VLAN.
 o Continuous   post-admission   monitoring   ensures   policy
@@ -648,6 +734,25 @@ Benefits:
 • Does not require digital certificates.
 •   Provides mutual authentication and key derivation.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+[Supplicant] [Authenticator] [Authentication Server]
+
+| EAP-Request/Identity |
+
+Sn /
+| EAP-Response/Identity |
+| | RADIUS Access-Request |
+| --------22222222eeeeeeeeee- >|
+| PSK Challenge / Response Exchanges |
+| <--------------------------------------------- >|
+
+| Mutual Authentication using PSK |
+| Session Key Derivation |
+
+| | Verify Authentication|
+
+| Secure Communication Established |
 --- page 5 ---
 •   Resistant to dictionary attacks due to nonce-based exchange.
 b. Discuss man-in-the-middle (MitM) attacks affect wireless access points,
@@ -730,6 +835,42 @@ queries. Describe the purpose of RRSIG, DNSKEY, and DS records in
 BL-2
 validating DNS responses.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+HTTPS illustrated =
+
+Client
+=
+TCP SYN
+——
+4.T¢P =
+Handshake TCP SYN + ACK
+=
+TCP ACK
+
+‘= =|= connection established = =|= =
+Client Hello,
+
+2. Certificate Server Hello
+
+lem Certiticate P|
+=
+
+Server.Hello Done |
+| Client Key Exchange
+
+: &
+encrypted Change Cipher Spec |! 7
+session key pee — Bc
+: US En EM session key
+
+Change Cipher Spec] _
+L—
+Finished ——_|
+
+| — Encrypted Data
+
+1— Encrypted Data
 --- page 7 ---
 Answer:
 Marking Scheme: DNSSEC purpose & working – 4 marks, Explanation of

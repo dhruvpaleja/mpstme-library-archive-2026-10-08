@@ -295,6 +295,22 @@ CO-4, SO-2   b.   List down advantages of a good plant layout [any five].
 BL2   [05]
 Total five advantages = 05 marks
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Reasons for low-productivity :
+
+(1) Frequent machine breakdown
+(2) ack of Management control
+(3) Idle men
+
+(4) Poor quality
+
+(5) Confusion in machine scheduling
+(6) Shortage of materials
+
+(7) Excess inventory
+
+(8) Large quantity of reworked material.
 --- page 2 ---
 CO-3, SO-2   c.   Define Work Sampling. Write down its two advantages and limitations.
 BL2

@@ -11832,678 +11832,13 @@ delay . . . . . . . . . . . . . . . . . . . . .208, 210   Works and materials . 
 270
 ````
 
-## Year not stated · Exam not stated · Sem 2 · paper 3ac90ebd02fc
-
-- Departments: Common (all branches)
-- Programmes: B TECH
-- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PRINCIPLES OF ECONOMICS-I/Semester_1_scvI5RQN7Z.pdf`
-- Printed on paper: max marks: 100
-- Text: text (19 pages)
-
-````text
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-Program: MBA Tech. Artificial Intelligence   Semester : I
-Course/Module : Calculus   Module Code: 702BS0C001
-Teaching Scheme   Evaluation Scheme
-Practical   Internal   Term End
-Lecture   Tutorial
-(Hours   Continuous   Examinations (TEE)
-(Hours per   per   (Hours   Credit   Assessment (ICA)   (Marks- 100
-week)   per week)
-week)   (Marks - 50)   in Question Paper)
-Marks Scaled to   Marks Scaled to 50
-3   0   1   4
-50
-Pre-requisite:
-Knowledge of vector algebra, functions, limits, differentiation and integration of functions.
-Objectives:
-1. To instill in prospective engineers knowledge of techniques in Differential and Integral
-calculus.
-2. To equip the students with intermediate to advanced level concepts and aligned tools to
-help them tackle advanced mathematics and related applications.
-Outcomes:
-After completion of the course, students would be able to:
-1. Implement appropriate techniques of Differential and Integral Calculus to solve
-problems.
-2. Analyze functions using the techniques of calculus.
-3. Apply the knowledge of Differential and Integral Calculus to solve real life problems.
-Detailed Syllabus: (per session plan)
-Unit   Description   Duration
-1.   Differential Calculus of functions of one variable   9
-Rolle’s theorem, Lagrange’s Mean value theorem, Cauchy’s Mean value
-theorem, Convergence of Sequences and series, Taylor’s and Maclaurin’s
-Series Expansion, Indeterminate forms, L'Hospital's rule.
-2.   Partial Differentiation   9
-Functions of several variables: Limits and continuity, Partial
-differentiation, Taylor’s theorem of function of two variables, Maxima,
-Minima, Lagrange’s Method of Undetermined Multiplier.
-Signature
-(Prepared by Concerned Faculty/HOD)
-MBA Tech. AI / Semester-I / 2021-22 / Page 1
---- page 2 ---
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-3.   Integral Calculus of functions of one variable   8
-Volume of solid of revolution, Area of the surface of a solid of revolution,
-Improper Integrals, Special functions: Beta and Gamma functions.
-4. Multiple Integrals   10
-Double Integral, Change of order of Integration, Change of variables,
-Jacobian, Application of Double Integral to find area, Triple Integral,
-Change of variable to spherical and cylindrical co-ordinates, Application
-of Triple Integral to find volume.
-5.   Vector Calculus   9
-Gradient, Directional Derivative, Divergence, Curl, Scalar Potential,
-Harmonic function, Line Integral, Surface Integral, Greens Theorem,
-Stokes Theorem and Gauss Divergence Theorem.
-Total   45
-Text Books:
-1. B.V. Ramana, “Higher Engineering Mathematics”, McGraw Hill Education, 1st Edition
-2017.
-2. B.S. Grewal, “Higher Engineering Mathematics“, Khanna Publishers, 44th Edition 2017.
-Reference Books:
-1. G. B. Thomas, “Calculus”, Pearson, 14th Edition 2018.
-2. Veerarajan T, “Engineering Mathematics- I”, McGraw-Hill Education, 1st Edition 2017.
-3. Erwin Kreyszig, “Advanced Engineering Mathematics”, Wiley India, 10th Edition 2017.
-4. T. M. Apostol, “Calculus”, Volume – I, Wiley Eastern, 2nd Edition 2007.
-5. H. K. Dass, “Advanced Engineering Mathematics”, S. Chand, 22nd Edition 2019.
-Any other information :
-Total Marks of Internal Continuous Assessment (ICA) : 50 Marks
-Distribution of ICA Marks :
-Description of ICA   Marks
-Class Test   20
-Term Work   30
-Total Marks :   50
-Signature
-(Prepared by Concerned Faculty/HOD)
-MBA Tech. AI / Semester-I / 2021-22 / Page 2
---- page 3 ---
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-Program: MBA Tech. Artificial Intelligence   Semester: I
-Course/Module:   Physics   Module Code: 702BS0C002
-Teaching Scheme   Evaluation Scheme
-Lecture   Practical   Tutorial   Internal   Term End
-(Hours   (Hours   (Hours   Continuous   Examinations (TEE)
-per   per   per   Credit   Assessment (ICA)   (Marks- 100
-week)   week)   week)   (Marks - 50)   in Question Paper)
-3   2   0   4   Marks Scaled to 50   Marks Scaled to 50
-Objectives:
-1. To enable students to understand the basic principles of advanced physics theory and
-practice.
-2. To enhance the student’s ability to meet the needs of engineering applications
-3. To impart training to help the students develop skill sets for creating entities from basic
-and applied sciences.
-Outcomes:
-After completion of the course, students would be able to:
-1. Classify the solids according to energy bands and explain the theory of pn junction and
-biasing and able to calculate the conductivity, carrier concentration and position of
-Fermi level for the semiconductors.
-2. Describe the concept of interference, diffraction, mechanism of laser beam generation,
-working principle of optical fibre, their applications and calculate related parameters.
-3. Interpret the laws of electromagnetism and various terms related to electromagnetic
-properties of matter.
-4. Understand the concepts of nuclear reactions, particle accelerators and plasma physics,
-along with their applications and appreciate the role of different advanced and
-functional materials in engineering.
-Detailed Syllabus: (per session plan)
-Unit   Description   Duration
-1.   Semiconductors Physics:   8
-Formation of energy bands and classification of solids into conductors,
-semiconductors and insulators, direct and indirect band gap
-semiconductors, fermi levels in semiconductor, energy gap and its
-temperature dependence, physics of semiconductor junction, hall effect
-and application.
-Signature
-(Prepared by Concerned Faculty/HOD)
-MBA Tech. AI / Semester-I / 2021-22 / Page 3
---- page 4 ---
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-2.   Optics:   9
-Interference: Thin film interference, wedge shaped film and Newton’s
-rings and their applications.
-Diffraction: Fraunhofer and Fresnel diffraction, Fraunhofer diffraction at
-single slit, double slit, and multiple slits, Characteristics of diffraction
-grating and its applications.
-3. LASER and Fiber optics:   9
-Introduction to interaction of radiation with matter, Population
-inversion,
-pumping, various modes, threshold, population inversion, Solid state
-LASER, Semiconductor LASER, Gas LASER, applications of lasers.
-Introduction, optical fiber as a dielectric wave guide, total internal
-reflection, numerical aperture and various fiber parameters, losses
-associated with optical fibers, step and graded index fibers, application
-of optical fibers.
-4.   Electricity and Magnetism:   6
-Laws and applications of electrostatics and magnetostatics, Maxwell’s
-equations and applications, introduction to waveguides.
-5.   Nuclear and Plasma Physics:   8
-Introduction to nuclear physics, types of nuclear reactions, nuclear fission
-as a source of energy, Particle accelerators: Cyclotron, Synchrotron,
-Nuclear radiation counters: Geiger Muller Counter, scintillation counter.
-Basic concepts of Plasma physics: Plasma as a state of matter, Debye
-length, plasma frequency, collisions, dc conductivity, ac conductivity
-Applications of plasma physics.
-6.   Modern Engineering materials:   5
-(Introduction and basic properties of each material) Nanomaterials,
-Superconductors, Dielectrics, metallic glasses, biomaterials.
-Total   45
-Text Books:
-1. H.K Malik and A.K. Singh, “Engineering Physics”, Tata McGraw Hill, 2nd Edition 2017.
-Reference Books:
-Signature
-(Prepared by Concerned Faculty/HOD)
-MBA Tech. AI / Semester-I / 2021-22 / Page 4
---- page 5 ---
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-1. Jearl Walker, David Halliday and Robert Resnick, “Fundamentals of Physics”, Wiley
-India, 10th edition 2013.
-2. Avadhanulu M.N. and Kshirsagar P.G and TVS Arun Murthy, “A textbook of
-Engineering Physics”, S. Chand, 11th edition 2018.
-3. James F.Shackelford and Madanapalli K. Muralidhara, “Materials Science for
-Engineers” Pearson Education, 7th edition, 2006.
-4. Francis F. Chen, “Introduction to Plasma Physics”, Springer, 2012.
-Any other information :
-Total Marks of Internal Continuous Assessment (ICA) : 50 Marks
-Distribution of ICA Marks :
-Description of ICA   Marks
-Class Test   20
-Term Work   30
-Total Marks :   50
-Signature
-(Prepared by Concerned Faculty/HOD)
-MBA Tech. AI / Semester-I / 2021-22 / Page 5
---- page 6 ---
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-Program: MBA Tech. Artificial Intelligence   Semester: I
-Course/Module: English Communication   Module Code: 702BS0C010
-Teaching Scheme   Evaluation Scheme
-Lecture   Practical   Tutorial   Internal   Term End Examinations
-(Hours   (Hours   (Hours   Credits   Continuous   (TEE)
-per   per   per   Assessment (ICA)   (Marks- 100
-week)   week)   week)   (Marks - 50)   in Question Paper)
-1   2   1   3   Marks Scaled to 50   Marks Scaled to 50
-Objectives:
-1. To develop students’ competency in English language in relation to Listening, Speaking,
-Reading and Writing (LSRW).
-2. To develop in students, the basic functional communication abilities requisite for
-workplace environments.
-Outcomes:
-After successful completion of this course, students would be able to:
-1. understand the rules of English with the purpose to apply them effectively, with a
-substantially increased vocabulary base
-2. create formal, professional and persuasive written documents and presentations
-3. evaluate and analyze the demands of different socio-cultural and professional contexts
-and communicate confidently in them
-Detailed Syllabus: (per session plan)
-Unit   Description   Duration
-1.   Vocabulary Building and developing basic writing skills   2
- The concept of Word Formation
- Acquaintance with prefixes and suffixes from foreign
-languages in English to form derivatives.
- Synonyms, antonyms and standard abbreviations
- Sentence Structure
- Importance of proper punctuation
- Organizing principles of paragraphs in documents
-2.   Identifying Common Errors in Writing   3
- Subject-verb agreement
- Noun-pronoun agreement
- Misplaced modifiers
-Signature
-(Prepared by Concerned Faculty/HOD)
-MBA Tech. AI / Semester-I / 2021-22 / Page 6
---- page 7 ---
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-   Articles
- Prepositions
- Redundancies
- Clichés
-3.   Nature and Style of sensible Writing Practices   3
- Comprehension
- Précis Writing
- Essay Writing
- Email Writing
- Abstract writing
-4.   Technical Writing   3
- Report Writing (Term Projects)
- Project Presentations
- Poster Presentations
-5.   Oral Communication   4
- Communication at Workplace
- Elevator pitch
- Group Discussions
- Interviews (Resumes and cover letter)
-Total   15
-Text Book:
-1. Mark Lester and Larry Beason, “The McGraw Hill Handbook of English Grammar and
-Usage”, McGraw Hill Education, 2017.
-2. Hory Sankar Mukherjee, ‘’Business Communication: Connecting at work’’, Oxford
-University Press, 2nd edition 2016.
-Reference Books:
-1. Dr Meenakshi Raman and Dr Sangeeta Sharma, “Technical Communication’’, Oxford
-University Press, 2nd edition 2015.
-2. Bovee Courtland and John Thill, “Business Communication Today’’, Pearson
-Education, 14th edition 2017.
-3. John Seely, “Oxford Guide to Effective Writing and Speaking’’, Oxford University
-Press, 3rd edition 2013.
-4. Michael Swan, ‘’Practical English Usage’’, OUP, 4th edition 1995.
-Signature
-(Prepared by Concerned Faculty/HOD)
-MBA Tech. AI / Semester-I / 2021-22 / Page 7
---- page 8 ---
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-5. F.T. Wood, “Remedial English Grammar’’, Macmillan. 2007
-6. William Zinsser, “On Writing Well’’, Harper Resource Book, 30th edition 2001.
-7. Liz Hamp-Lyons and Ben Heasly, “Study Writing’’, Cambridge University Press. 2006.
-8. Sanjay Kumar and Pushplata, ‘’Communication Skills’’, Oxford University Press. 2011.
-9. Norman Lewis, ‘’Word Power Made Easy’’, Goyal Publisher, Reprint Edition 2011.
-Suggested Reading
-1. Arvind Krishna Mehrotra, “A Concise history of Indian Writing in English’’,
-Permanent Black
-2. The Old Man and the Sea, Ernest Hemingway.
-3. Pygmalion, George Bernard Shaw.
-Other sources of references:
-1. Selected TED talks
-2. Episodes of Yes Minister
-3. Episodes of Sherlock
-Any other information :
-This subject will be covered in 15 hours of Theory, 30 hours of Practical and 15 hours of
-Tutorial
-Total Marks of Internal Continuous Assessment (ICA) : 50 Marks
-Distribution of ICA Marks :
-Description of ICA   Marks
-Class Test   20
-Term Work   30
-Total Marks :   50
-Signature
-(Prepared by Concerned Faculty/HOD)
-MBA Tech. AI / Semester-I / 2021-22 / Page 8
---- page 9 ---
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-Program: MBA Tech. Artificial Intelligence   Semester: I
-Module/ Course : Programming for Problem Solving   Module Code: 702CO0C001
-Teaching Scheme   Evaluation Scheme
-Lecture   Practical Tutorial   Internal   Term End
-(Hours   (Hours   (Hours   Continuous   Examinations (TEE)
-Credit
-per   per   per   Assessment (ICA)   (Marks- 100
-week)   week)   week)   (Marks - 50)   in Question Paper)
-2   2   0   3   Marks Scaled to 50   Marks Scaled to 50
-Pre-requisite: Nil
-Objectives:
-Enable students to understand problem statements and solve them using basic
-programming constructs. Develop skills to analyse real life problem statements and
-implement using Object Oriented Programming.
-Outcomes:
-After successful completion of this course, students would be able to:
-1. Comprehend problem statements, build logic and draw flowchart.
-2. Develop complex logic using control structures.
-3. Implement programs using arrays, function and pointers.
-4. Solve real life problems using Object Oriented paradigm.
-Detailed Syllabus: (per session plan)
-Unit   Description   Duration
-1.   Introduction to problem solving skills, flowcharts, algorithms, basic   4
-program structure of C++, I/O statements, data types, variables,
-operators, expressions, pre-processor directives.
-2.   Control structures: Conditional branching, looping, nested looping,   8
-recursion.
-3.   Programming constructs 1 – D and 2 - D arrays, strings.   4
-4.   Modular Programming: functions, parameter passing, inline function,   4
-macro functions.
-5.   Programming using structures and pointers   3
-6.   Introduction to Object Oriented programming: necessity for OOP, data   2
-hiding, data abstraction and encapsulation. Classes and Objects.
-Signature
-(Prepared by Concerned Faculty/HOD)
-MBA Tech. AI / Semester-I / 2021-22 / Page 9
---- page 10 ---
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-7.   Programming using constructors, polymorphism and inheritance.   5
-Total   30
-Text Books:
-1. Bjarne Stroustrup, “The C++ Programming Language”, Addison Wesley, 4th
-Edition 2013.
-Reference Books:
-1. Bjarne Stroustrup, “Programming – Principles and Practice Using C++”, Addison
-Wesley, 2nd Edition 2014.
-2. KR Venugopal, Rajkumar, “Mastering C++”, Tata McGraw-Hill, Paperback
-Edition, 2013.
-Any other information:
-Total Marks of Internal Continuous Assessment (ICA): 50 Marks
-Distribution of ICA Marks:
-Description of ICA   Marks
-Class Test   20
-Term Work   30
-Total Marks :   50
-Minimum 10 practicals/programming exercises/tutorials (whichever is applicable)
-based on the entire syllabus
-Signature
-(Prepared by Concerned Faculty/HOD)
-MBA Tech. AI / Semester-I / 2021-22 / Page 10
---- page 11 ---
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-Program: MBA Tech. Artificial Intelligence   Semester: I
-Module/Course: Basic Electrical and Electronics   Module Code : 702EX0C001
-Engineering
-Teaching Scheme   Evaluation Scheme
-Lecture   Practical Tutorial   Term End
-Internal Continuous
-(Hours   (Hours   (Hours   Examinations (TEE)
-Credit   Assessment (ICA)
-per   per   per   (Marks -100 in Question
-(Marks-50)
-week)   week)   week)   Paper )
-2   2   0   3   Marks Scaled to 50   Marks Scaled to 50
-Pre-requisite: NIL
-Objectives:
-1. Equip the student to understand and solve simple ac and dc electrical circuits.
-2. To enable the student to obtain a basic understanding of the working principle and
-applications of electronics devices.
-3. To impart hands-on experience in assembling and testing of circuits.
-Outcomes:
-After completion of the course, students would be able to:
-1. Interpret DC circuits, theorems and time domain analysis of first order RL circuit.
-2. Analyse series and parallel AC circuits and summarize star/delta configurations.
-3. Comprehend the principles of transformer and electrical machines.
-4. Review the construction, working principle and applications of electronics devices and
-logic circuits.
-Detailed Syllabus: (per session plan)
-Unit   Description   Duration
-1. DC Circuits   6
-Electrical circuit elements (R, L and C), voltage and current sources,
-Kirchhoff’s current law, Kirchhoff’s voltage laws, Analysis of simple circuits
-with dc excitation, Superposition Theorem, Thevenin’s Theorems, Norton’s
-Theorems. Time-domain analysis of first-order RL circuits.
-2. AC Circuits   8
-Generation of alternating emf, instantaneous, rms, peak, average values and
-related other terms, vector representation of AC quantities, Steady state
-analysis of R, L, C series and parallel circuits, resonance. Generation of three-
-Signature
-(Prepared by Concerned Faculty/HOD)
-MBA Tech. AI / Semester-I / 2021-22 / Page 11
---- page 12 ---
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-phase emf, star connection, delta connection, relationship between line and
-phase quantities.
-3.   Transformers and Electrical Machines   6
-Construction and working of single-phase transformer Ideal and practical
-transformer, equivalent circuit, Losses in transformers, Generation of rotating
-magnetic fields, Construction and working of a three-phase induction motor,
-Single-phase induction motor, construction and working, DC motor
-construction, working and types.
-4.   Analog Electronics (no mathematical treatment and design)   5
-Half and full wave rectifiers, special purpose diodes -zener regulator, BJT and
-its applications, amplifier, oscillator, overview of opto-electronics devices,
-opto-couplers, concepts of transducer, Operational amplifier (IC-741),
-Inverting and   Non-Inverting,   Comparator, Timer   (IC-555) and
-multivibrators.
-5.   Digital Electronics   5
-Logic gates, concept of universal logic; implementation of Boolean
-expressions using logic gates, application of digital circuits: e.g., adder,
-subtractor, multiplexer, de-multiplexer, Analog to Digital Converter, Digital
-to Analog Converter.
-Total   45
-Text Books:
-1. D. C. Kulshreshtha, “Basic Electrical Engineering”, McGraw Hill Education,1st Edition 2017.
-2. E. Hughes, “Electrical and Electronics Technology”, Pearson Education, 10th Edition 2013.
-3. Boylstad R.L., Nashelsky L., “Electronic Devices and Circuit Theory”, Pearson, 12th Edition,
-2012.
-4. M. Morris Mano, “Digital Logic and Computer Design”, PHI, 10th Edition 2008.
-Reference Books:
-1. V. D. Toro, “Electrical Engineering Fundamentals”, Pearson Education India, PHI, 2nd
-Edition 2015.
-2. B. L. Theraja, “Fundamentals of Electrical Engineering and Electronics”, S. Chand & Co, 24th
-edition, 2012
-3. Jacob Millman & Halkias, "Electronic Devices & Circuits", Tata McGraw Hill, 2nd edition,
-2013.
-Any other information:
-Signature
-(Prepared by Concerned Faculty/HOD)
-MBA Tech. AI / Semester-I / 2021-22 / Page 12
---- page 13 ---
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-Total Marks of Internal Continuous Assessment (ICA): -- 50 Marks
-Distribution of ICA Marks:
-Description of ICA   Marks
-Class Test   20
-Term Work   30
-Total Marks :   50
-Details of Term Work:
-Term work should consist of the following
-1. At least ten laboratory experiments based on the entire syllabus duly recorded and graded.
-2. Presentation/Application based experiment and Quiz/Practical exam/Viva/Any other
-mode of evaluation.
-Signature
-(Prepared by Concerned Faculty/HOD)
-MBA Tech. AI / Semester-I / 2021-22 / Page 13
---- page 14 ---
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-Program: MBA Tech. Artificial Intelligence   Semester: I
-Course/Module: Design Thinking   Module Code: 702BS0C011
-Teaching Scheme   Evaluation Scheme
-Internal   Term End
-Lecture   Practical   Tutorial   Continuous   Examinations
-(Hours   (Hours per   (Hours per   Credit   Assessment   (TEE)
-per week)   week)   week)   (ICA)   (Marks -100
-in Question
-(Marks -50)   Paper)
-Marks Scaled to
-2   0   0   0   ---
-50
-Course Objectives
-1. Understand the concepts of Design Thinking and Innovation
-2. Understand the various phases of Design Thinking
-3. Apply the phases of Design Thinking to take an idea to launch
-Course Outcomes
-After completion of the course, students would be able to
-1. develop a human-centric approach towards problem solving,
-2. apply design thinking principles to come up with innovative solutions to problems
-and challenges.
-Detailed Syllabus: (per session plan)
-Unit Descriptions   Duration
-1.   Introduction to Design Thinking   2
--Design Thinking as ‘Experience Innovation’
-- Concepts of Customer Desirability, Technological Feasibility,
-Business Viability and their significance
-2.   Case Study: Discussion on HBR article Design Thinking by Tim Brown   2
-(Pre-Read based analysis of all four case studies covered in article)
-3.   Mindset Creation   2
-- Growth Mindset vs. Fixed Mindset
-- Essential elements of Design Thinking Mindset
-Signature
-(Prepared by Concerned Faculty/HOD)
-MBA Tech. AI / Semester-I / 2021-22 / Page 14
---- page 15 ---
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-- Case Study: Jeff Bezos-Amazon’s approach of being Customer
-Obsessed
-4.   - Pillars of Design Thinking   2
-- Introduction to Stages of Design Thinking based on Stanford d.
-School
-5.   Case Study for Application of Design Thinking   2
-IDEO Shopping Cart (Case Video followed by debrief/class
-discussion)
-6.   Empathy [A]   2
--Introduction to empathy
--Decoding Customer Behaviour using DT (using case study method)
-7.   Empathy [B]   4
--Tools:Understanding Consumer’s Unmet Needs & Pain Points:
-(Observation, Focused Interviews, Shadowing, Journey Mapping)
-- Rules and tips for each specific tool
-(Class activity based learning for each tool)
-8.   Empathy [C]   2
-Debrief of Class Activity for Journey Mapping
-Empathy Case Study: ‘Embrace- Infant Incubator’
-9.   Define   2
--Analysis of data gathered from Empathy stage through tools like
-Clustering & Affinity Diagrams
--Building Problem Statements & understanding POV
--Tools: Framing problems as ‘How Might We?’ questions
-10.   Ideate   2
--Concept of Semi-structured approach to Ideation in DT
--Rules of Ideation
--Tools: Brainstorming, Brainwriting, Dot Voting
-11.   Ideate   2
--Class Activity to demonstrate Brainstorming & Dot Voting
-- Case Study for Out of the Box Idea Generation: Steelcase
-Signature
-(Prepared by Concerned Faculty/HOD)
-MBA Tech. AI / Semester-I / 2021-22 / Page 15
---- page 16 ---
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-12.   Prototype   2
--Introduction to concept of prototyping & basic techniques of rapid
-prototyping
--Introduction to Low fidelity vs. High fidelity prototypes and their
-significance in the Design Thinking process
--General information on user testing & MVPs
-- Case Study for Prototyping & User Testing: Nordstorm Innovation
-Lab
-13. Term End Group Project   4
-Analysis of Design Thinking success stories from across various
-domains –
-Students are expected to build a presentation based on the design
-thinking led success story of their chosen company/organization
-Total   30
-Textbook and Reference Books
-1. Idris Mootee , “Design Thinking for Strategic Innovation’’, Wily, 2014.
-Any other information
-Total Marks of Internal Continuous Assessment (ICA) : 50 Marks
-Distribution of ICA Marks
-Description of ICA   Marks
-Class Test   NA
-Term Work   50
-Total Marks   50
-Signature
-(Prepared by Concerned Faculty/HOD)
-MBA Tech. AI / Semester-I / 2021-22 / Page 16
---- page 17 ---
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-Program: MBA Tech. Artificial Intelligence   Semester: I
-Course/Module: Workshop Practice   Module Code: 702ME0C003
-Teaching Scheme   Evaluation Scheme
-Lecture   Practical   Internal   Term End
-Tutorial
-(Hours   (Hours   Continuous   Examinations (TEE)
-(Hours per   Credit
-per   per   Assessment (ICA)   (Marks- 100
-week)
-week)   week)   (Marks - 50)   in Question Paper)
-0   4   0   2   Marks Scaled to 50   --
-Course Objectives
-Impart hands-on experience in performing mechanical operations like fitting, welding,
-sheet metal and plumbing. Ensure implementation of safety measures for the operator,
-equipment and product in all operations to develop the knowledge of standard practices
-of the workshop trades.
-Course Outcomes
-After completion of the course, students would be able to
-1. apply the safety measures practiced while using the tools,
-2. develop hands-on skills for various workshop trades,
-3. design application based circuits (PCB) by assembling Electronics & Electrical
-components,
-4. install OS and device drivers.
-Detailed Syllabus: (per session plan)
-Unit   Description   Duration
-1. Industrial Processes and Safety Measures. Study of various hand tools.   8
-Assembly and disassembly of Machines as per specifications.
-Demonstration of Power tools like lathe, shaping, drilling and cutting
-tools. Introduction to pattern making.
-2. Fitting: Use and setting of fitting tools for chipping, cutting, filing,   12
-Marking, center punching, drilling, tapping
-Sheet Metals fabrication: Use of hand tools for cutting, shearing,
-bending, edge folding and other operations.
-3. Welding: Study of operation of Arc welding, Simple butt and Lap   10
-welded joints, Fabrication of a welding job; Simple assignments to
-build proof of concept.
-Signature
-(Prepared by Concerned Faculty/HOD)
-MBA Tech. AI / Semester-I / 2021-22 / Page 17
---- page 18 ---
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-4. Printed Circuit boards Designing: Understanding the safety measures   10
-for assembly and identification of components; Ability to design PCB
-for small applications
-5. Soldiering and Joining Processes: Introduction to joining processes and   4
-soldering; Soldering Techniques and circuit assembly
-6. Study, demonstration and identification of common electrical   4
-materials such as wires, cables, switches, fuses.
-7. Introduction to PC Hardware: Study of basic I/O systems, Types of   12
-Memories- Static RAM and Dynamic RAM, ROM, PROM, EPROM,
-EEPROM, CPU (Central Processing Unit)- ALU and control unit.
-Knowledge of PC Configurations. Power on Self-Test for debugging.
-Installation of OS (Operating Software) Windows XP, installation of
-different types of Service Packs, Vista and Windows-7 etc.
-Installation of Device Drivers: Different types of Motherboard drivers,
-LAN, Audio, and Video.
-Total   60
-Text Books
-1. K.C. John, ”Mechanical Workshop Practice”, PHI Learning Pvt. Ltd. 2nd Edition
-2014.
-2. P. N. Rao, “Manufacturing Technology-Vol I, Tata McGraw Hill. 4th Edition 2014.
-3. R.S. Khandpur, “Printed Circuit Boards: Design, Fabrication, assembly and
-testing”, Tata McGraw Hill, 1st Edition 2005.
-4. Dan Gookin, “Troubleshooting and maintaining your PC”, Wiley, 3rd Edition 2017.
-Reference Books
-1. P.F. Ostwald, ‘’Manufacturing Processes and Systems”, John Willy & Sons INC. UK,
-9th Edition 2008.
-2. R.P. Singh, “Electrical Workshop: Safety, Commissioning, maintenance and testing
-of electrical equipment”, IK International Publishing House Pvt. Ltd. 3rd Edition
-2012.
-Signature
-(Prepared by Concerned Faculty/HOD)
-MBA Tech. AI / Semester-I / 2021-22 / Page 18
---- page 19 ---
-SVKM’s NMIMS
-Mukesh Patel School of Technology Management & Engineering
-Any other information
-Total Marks of Internal Continuous Assessment (ICA): -- 50 Marks
-Distribution of ICA Marks
-Description of ICA   Marks
-Class Test   NA
-Term Work   50
-Total Marks :   50
-Details of Term Work
-1. Demonstration of Industrial Safety practices
-2. Demonstration of Power Tools
-3. Jobs involving fitting,
-4. Jobs involving sheet metal
-5. Jobs involving welding
-6. Designing of Printed Circuit Board (PCB) for small electronic applications
-7. Classify and summarize different types of:
-a. cables, connectors, plugs and sockets
-b. switches ,holders, earthling and household wirings
-8. Study of joining processes and soldering technique for circuit assembly
-9. Study of basic I/O systems, Static RAM and Dynamic RAM, ROM, PROM,
-EPROM, EEPROM, CPU (Central Processing Unit)- ALU and control unit
-10. Study of installation of device drivers including different types of Motherboard
-drivers, LAN, Audio, and Video.
-Signature
-(Prepared by Concerned Faculty/HOD)
-MBA Tech. AI / Semester-I / 2021-22 / Page 19
-````
-
 ## Year not stated · Exam not stated · Sem 2 · paper 848e9cc9f096
 
 - Departments: Common (all branches)
 - Programmes: B TECH
 - Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PRINCIPLES OF ECONOMICS-I/Social Media Marketing ( PDFDrive ).pdf`
 - Text: mixed (410 pages), mean OCR confidence 88.7
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 22 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 
@@ -14598,6 +13933,37 @@ here specifically about the Social Feedback Cycle and the role of a brand ambass
 or an advocacy program that plays out in social media. In each of these, there is a spe-
 cific development process—from tire kicker to car owner to loyal customer to brand
 advocate—that can be understood in terms of available behavioral data. Posts on social
+
+[Text in pictures on this page, read by OCR]
+Work Play Support About Intel Change Locatio
+
+‘®) Software Network
+
+Connect with developers and intel engineers
+
+Communities Downloads Tools Forums/Blogs Resources Softvare Support
+
+Intel? Software Network Hall of Fame
+
+Get to Know the Intel® Software Network Community Members
+There are many people b
+rating their c
+
+id the success of the Intel® Software Network
+intribution. Click on a picture to view member details.
+
+Intel® Black Belt Software Developers
+Intel® Black Belt Software Developers are members of our communities known for their technical
+expertise, for sharing knowledge and for collaborating to make our communitins stronger. This is our new
+title designed to recognize and reward these members tor contribubng their experience and expertise to the
+communities, This title also recognizes members for their time and effort to help make Intel Software
+Network a valuable developer resource. Read more hore.
+
+Raf Schietekat currently works in Brussels, Belgium. After doing some document processing using SGML (from which XML
+was denved), Rat got interested in CORBA and wrote and commercially used his own implementation. Generally, he enjoys
+exploring various programming technologies in different environments, including finence and now aviation. Raf contributed
+several proposals to intel Threading Building Blocks, ranging from a new concurrent hath_map version to enhanced
+atomies features and portability
 --- page 59 ---
 sites, collected through social analytics tools, for example, can provide real clues as to
 where in the ascension to brand advocate (or descension to detractor) a particular indi-
@@ -15768,6 +15134,54 @@ Social Business and Measurement
 Before diving into the use of social media in business, consider the basic measurement
 methods as they apply to the business use of social technology. Chapter 6 explores
 measurement and metrics in-depth. As an initial step into the integration of metrics
+
+[Text in pictures on this page, read by OCR]
+Home Profile Account ~
+
+Dave Evans
+
+Wall Into Photos foxes +
+
+What's cn your mined
+
+Atode WE) sy + ay
+
+Q, options
+Susie Sharp ® What I bought today: Author Dave Evans, back from
+PAL ROE Cieeeens , New Delhi, would like It if YOU bought his book, tool
+
+28, Social Media Marketing: An Hour a Day
+
+AIROcL
+
+al Media Markating,
+
+vcial Mesa
+ting,
+
+1 new message(s)
+
+Leave a ee
+Voice message
+© cickhee 1) apet 23 2¢ 7:05pm   Wew Post ' Remove Tag
+
+‘Susan Bratton
+
+| v1 Dave Evans
+
+Friends ,
+01 frends S00 al
+
+1
+es 4) bay sadtechsFio
+matey =
+
+ae Kaushal Garda
+
+. 5] ~~ Track who is viewing your Facebook
+Brigette
+
+Waker
 --- page 89 ---
 within your social programs, however—and to get you thinking about this aspect of
 undertaking a social business effort—consider the assessment of participation, applied
@@ -16647,6 +16061,20 @@ great example of how the Social Web is beginning to exert an impact on business 
 within the enterprise outside of the marketing department. The Good Guide is a social
 business application. Read on to see how it works.
 Figure 4.2  ​The Good Guide
+
+[Text in pictures on this page, read by OCR]
+Clear GoodGuide
+
+_Looking up barcode...
+
+TO
+
+Garnier Fructis
+Fortifying Shampoo
+Sleek and Shine
+
+6.9 70
+
 --- page 112 ---
 Mobile applications for smartphones that scan a barcode and present pricing
 data and customer reviews are common. When I was looking for a portable spin-style
@@ -16882,6 +16310,34 @@ shown in Table 4.2 from BuddyMedia, ContextOptional and Step Change Group are
 all great examples of promotional programs with a decidedly social element: Take the
 time to visit the providers listed in Table 4.2—all have extensive client lists and all are
 top-notch.
+
+[Text in pictures on this page, read by OCR]
+STARTREK TWEET GENT 380 |S
+Pre Ore Game Now g “4 — ™
+
+
+ENGLISH TRANSLATION...
+
+WRITE YOUR TWEET IN KLINGON...
+
+Write your tweet in English here (or grab one below)...
+
+0 (x=)
+
+HIGHLY USEFUL KLINGON PHRASES. GRAB ONE!
+
+Itis a good day to tweet
+
+When a warrior goes into battle, he does not abandon his friends
+Your mother has a smooth forehead
+
+We will destroy the Federation!
+
+You will be remembered with honor
+
+We are Klingons
+
+Happy Birthday
 --- page 118 ---
 It is exactly this kind of smart approach to social media marketing and the
 larger area of social technology applied to business that makes obvious the way in
@@ -17042,6 +16498,48 @@ things that might improve the experience of being a fan. Some ideas are obvious�
 create chat rooms for rival fans—or a stretch at best: “Let the fans vote on the starting
 lineup for the upcoming game,” for example. Participants read these and then vote
 them up or down.
+
+[Text in pictures on this page, read by OCR]
+facebook Home Profile trends inbox (@F ecng: «ogo EO
+
+Coca-Cola
+Wall info Uoca Lola feeds Photos Discussions»
+
+Nrite something,
+
+Attach: €]
+> Lucy Nieves
+
+TB) eaters n> Com
+
+Ue - Regut
+
+Lucy Nieves | Jove coca cola
+12m ‘Comment * Uke » Report
+
+James Hetfield coca-cola ¥
+
+Akl te My Page's Favorites
+
+to Friends z
+Suggest to Friends 6 mites mp0 * Comment e+ Rapes
+
+5 090° Comment Like ° Report
+
+Kim Hoffsbakken Coca Cola¥
+
+39m Comment » Like ’ Report
+
+nothing compares 2u ¥
+
+41 mit Comment: Uke : Report
+
+about an hour ago" Cormmart - Lite « Report
+
+Girls David Gell Ales
+Seving Gthth
+
+: Ramzi Kaleel As a kid, this was my favorite soda. Now Tam addicted tn Fanta,
 --- page 122 ---
 100
 ■
@@ -17106,6 +16604,68 @@ n i
 t i
 e s
 Figure 4.6  ​Fannovation: Your Mascot Sucks
+
+[Text in pictures on this page, read by OCR]
+‘Tuesday, May 18, 2010 Miro M commenis
+
+Your Mascot Sucks
+
+i's More Than Mascot Status t's Hero Worship
+
+Sign up to receive breaking net
+as well as receive ultier sil
+
+‘You are here: Hlome /Dasketball/ Coke Zero Fannovatior
+
+ercial Shor
+
+Coke Zero Fannovation Commercial Shows Us What The
+
+Mascot Cam Would Look Like Enter your email address...
+March 19, 2010 b ments
+Filed under Naskethall, Chile Viden
+
+RECENT POSTS
+
+Olrando Magic Mascot Stuff Is Taking The
+susly
+
+ns To The
+ster The Olympics?
+
+olymp
+@ Lucky, Mascot Of TI
+Of A Crazy Dunk
+
+e Boston Celtics P
+
+@ Heather mitts Ar niiadelphia
+idence Dance With The Phillie
+
+Corso Becomes A Mascot... Not So
+
+@ bad Ma: @ Gameps.com
+Of all Coke Zero's Fannovation site that tum into reality, | hope this is first onthe Baseball
+Wist.
+Ina video pusted to bwilvid.com and playing during March Maurie: uke Zeru shows: rites Erg
+
+d college @ Log in
+
+4 Competitions
+
+exactly how it would look to have a camera showing U
+
+ar is the guinea pig in this video, ang all I have to say 1s it looks
+awesome d Vance
+@ Featured
+
+They did, however, leave out the shots of the mascot checking out the cheerle
+
+e Sure To Vote for your favorite idea
+
+‘o.comvncaa
+
+Cam Video after the Jump:
 --- page 124 ---
 The NCAA audience is obviously part of Coke’s target, and the experience
 of being a fan is relevant to that audience segment. Rather than serving its own
@@ -18696,6 +18256,17 @@ ment areas, which are then set in a business context. The complete table can be 
 at http://www.socialtimes.com/2010/02/social-media-metrics/.
 Even more importantly, rather than just accepting the examples in Table 6.1, use
 them as a starting point in developing a specific set of measures and sources that apply
+
+[Text in pictures on this page, read by OCR]
+Daily Volume [export ¥ {B51 video tutona
+
+Search Results by Day show chart Toolbar
+
+1/10/2010 1/24/2010 2/7/2010 2/21/2010
+
+Total @ Average ner day @ Peak @® tow @
+762 10.3 36 tt)
+19142010-3/1512010 Number of days: 74 on 14/2010 on 3/15/2010
 --- page 166 ---
 to your business. Always cite your own business objectives, your existing metrics, and
 then build off of those to develop your specifi c set of key performance indicators and
@@ -20141,6 +19712,39 @@ commentary on these cases: Check them out and see how their implementation of wh
 amounts to a suggestion box—done right—has changed their businesses.
 Collaboration extends into tactical marketing programs as well: Pepsi’s Refresh is
 one way of involving customers directly in building a relevant brand, clearly a long-term
+
+[Text in pictures on this page, read by OCR]
+A) pepsirefreshproject Current Leaders Funded ideas HowitWorks Refresh Blog
+
+IT’S UFFICIAL!
+
+The results are in! Check out the latest Funded Ideas that got the most votes.
+Also, you can vote now to support your favorite ideas this month and don't forget to vote every day!
+
+um @ © © © @ ©
+
+cATEGORIES ‘ARTS & CULTURE
+
+VOTEFOR [Stuffed ideas) ‘CURRENT GRANT CYCLE
+
+$5,000 $28,000 $50,000 $280,000 Days leftto vote 9
+‘deag inthe running 1341
+119 Wal Fund Lifesaving AED/CPR Classes for Finalists announced §= Jun 1st
+
+‘=== High School Students and Faculty.
+Funding availsble $1,300,000
+
+“(Build a halfpipe at the Recreation Center.
+
+Offer women's leadership training for non
+~**" welfare moms in north Denver. PROJECT NEWS: 6000
+Q&A: Is That a
+Cornstalk on Your
+Roof?
+
+2010.05.17, Mike Yohvay, th
+
+farming: on corn
 --- page 200 ---
 strategic social-media-based proposition. By comparison, in early 2010 announcements
 from other big consumer brands like Unilever and Coke indicated that they too would
@@ -20778,6 +20382,45 @@ a
 h
 c
 Figure 7.4  ​Collaborative Design: Threadless
+
+[Text in pictures on this page, read by OCR]
+© de bitp:/wwwthreadiess.com, > WE B- +
+Fmsimeg tyPeTE@s Suck IDS! login | JOINNOW!
+
+0 Items in your eart!
+
+Search
+
+throodeaw Guys + Girls » Participate +
+
+New tees for MONDAY, FEBRUARY 8
+
+Acar
+Bestee of NEY the Year
+
+BESTEE OF THE
+MONTH WINNER
+
+Threadless isa community-based tee
+shirt company with an ongoing, open
+call for design submissions.
+
+IF YOUR DESIGN 15 CHOSEN
+FOR PRINT, GET PAID UPTO
+
+2,500+
+
+£500 PER REPRINT
+
+win over $22,500 in
+
++ LEARN HOW TO GET STARTED!
+
+New tees and prints
+
+EVERY MONDAY!
+
+Join the nowsletter to stay in the loop!
 --- page 215 ---
 Threadless is a great example of a collaborative business. Founded in 2000,
 Threadless is also a testament to the viability of a collaborative business. According to
@@ -20940,6 +20583,39 @@ a
 h
 c
 Figure 7.5  ​Foursquare Badges
+
+[Text in pictures on this page, read by OCR]
+{ mo | add things | find people | stats | history | my frien
+
++ Bugs? Feodback? Leave it her Logged in oe Dave in Austin, TX
+
+ee Dave E. ToD08 now pone I TOTAL THn0s CONE
+et... 22140] 0 | 10
+TWsisy
+
++ Twitter Feed
++ Facebook Profile
+
+TOP 12. TODO my Ut REQUESTS
+ants to be your find.
+
+4, @Toxonza Coffee Frost Towor: Youll see state in your So x <'™
+
+2 @ Gold's Gym Bee Caves: Three letters: RPM @ days ag) 7 a Gkatobuck)r wants to be your frond
+. c= =>
+
+ere ig always something to look at
+
+BADGES
+foTot orale)
+
+een a patient here for 15
+
+the mayor of 3 places! fr
+
+thi, Doth
+
+xican Restaurant (Austin
 --- page 219 ---
 Once you’ve checked in, you’ll see a list of your friends also using Foursquare
 who are nearby, along with tips about the place you’ve checked into. The tips are one
@@ -21174,6 +20850,37 @@ product, or service takes on a new relevance for the customer. On the Social Web
 specific point of engagement generally occurs in a social context. A support forum or
 ideation platform, for example, provides a significant attachment point between a cus-
 tomer and a business based on the desire of a customer to share an idea or experience
+
+[Text in pictures on this page, read by OCR]
+7 Eg storm Lures | Think uke arish =
+
+< ¢
+
+w www.stormlures.com:
+
+DEALER LOCATOR
+
+enter your zip code
+
+-THEBRAND ATE PRODUCTS THEFUN = THELINKS
+
+ved,, Mar. $1, 2010
+
+BROWSE
+Que History
+
+HARD LURES
+AL Storm, we're pretly serivus abuul fishing and nut luo
+rious about other stuff. But, that’s another story. Our
+HYBRID LURES obsession with fishing can be kinda extreme. We believe
+in getting into the head of a fish to really understand
+what's goin on, What makes ‘em tick? Ya know what
+we're sayin? Like, do they chase slippery wiggle minnows
+ue ue iee with wild eyes? Yes, in fact they do. Nice. This is what we
+RIE cio and why we do it, Good fish mojo to you and your
+friends:
+
+SOFT LURES
 --- page 228 ---
 with others, and to learn more about how to apply this knowledge toward the end-
 goal of “becoming better” at the associated activities of that customer which drove
@@ -21640,6 +21347,87 @@ passengers and employees—understood the entire process and why longer delays m
 actually be in everyone’s best interest? For example, what if instead of fines (which do
 not flow back to the customer as a benefit in any appreciable form) the airlines were
 required to provide wholesome meals if the delay crossed a dinner hour? Or what if
+
+[Text in pictures on this page, read by OCR]
+READER SERVICES ~ OUR NETWORK OF SITES ~ Sunny 68°F | Forecast Fay ron ‘ies
+
+Star-Tel ea
+elegram ....... ee
+
+CARS HOR SHOPPIN
+
+Place aClassified ad Traffic Weather ¢ Edition eNewsletters Weddings Yellow Pages Click Subscribe Pets Sitemap Contact us
+
+Sorthy©Retevance@pato -
+
+Resuits 1-11 of 1
+Ti your search ia one of rose ;
+Sagano ‘Search for [siting three hour rule
+
+US Airways seeks exemption from delay rule
+
+P views ist dnosday Mat Category [News ¥
+BP ciassmeds (0) US Airways is joining other airlines with big East Coast operations that want
+
+exemptions from new rules punching long tarmac delays. Other big a. read
+O ovaunies entire article Advanced Hews Seat
+F sors Bill aims to speed up air traffic system overhaul
+
+Tuesday Mar 23, 2010
+Sainos0
+
+Transforming the nation's air traffic system by replacing World War ILera radar
+Dinvies (0) with 21st century GPS technology would be accelerated under a read entire
+
+amete
+
+2D viensvaver Aas 0» zs
+Thousands of BA flights canceled as crew on strike
+
+Dstac ter Pages (0
+
+iday Mar 19, 20
+
+Br Videos (0) British Airways cancoled more than 1,000 flights afer its cabin
+
+2 crew launched three-day strike Saturday, wreaking havoc on Fe
+Siege) the plans of tens of... read entire article
+
+PS coupons (}
+
+Wi kciencas natty Continental asks to be exempted from delays rule
+
+Friday Mar 19,
+
+rane Continental Airings Inc, has asked regulators for an exemption from new rules to
+
+Punish aitines for long tarmac delays, saying construction at No... read entire
+
+article
+Continental asks to be exempted from delays rule
+Friday Mar 19, 2010
+
+Continental Airlines Inc. has asked regulators for an exemption
+from new rules to punish aitlines for long tarmac delays, saying
+Construction at Ne... read entire article
+
+New delay rule comes too late for Virgin fliers
+Thur
+
+Mar 18, 2
+
+Anew federal rule that is supposed to prevent travelers from being stranded on
+airport tarmacs will be implemented too late to holp Virgin America... read entire
+
+article
+
+American Airlines wants exemption from three-hour rule
+Nednesday Mar 17, 2010
+
+NEW YORK .- Add Arn Airlines to the list of carriers that
+
+‘want out of the government's new rule to limit the time
+passengers can be held 0... read entire article
 --- page 239 ---
 they were required to keep essential on-board services (such as the bathroom and air
 conditioner) functioning? What if airports were required to provide free Wi-Fi, includ-
@@ -21806,6 +21594,55 @@ required is participation, some feedback, and a reasonable degree of incorporati
 what is offered by participants in the ideation process into your business, organization,
 or delivery channel. A different way to approach your customers? Yes. Impossible to
 implement? Hardly.
+
+[Text in pictures on this page, read by OCR]
+Home Profile Find People Settings Help Sign out
+
+What's happening? Be eee
+
+5.174 6496 771
+folowing fobowers sted
+
+n erportercox Iu ke one...high Tweet Bracket
+re np Match Madness meets
+Titer
+Real-time results for jetblue t5 © Save this search ware
+@uvansdave
+with @pamannairnitcn at JFK JetBlue TS! Direct Messages 849
+Favoritos
+Re rs
+JetBlue TS! ietblue 15) a
+
+Saved Searches:
+lobodro Wandering around @jetblue TS terminal for the next 4
+
+hours, thank god it's awesome! elinkeye
+Lists
+@brookeburke @AubreyODay B6 Blog » JetBlue » ICON AS on on
+display at JFK's TS! nitp sit ty/SukKeH? rite
+industry
+
+gizemist Photoset: Dear JetBlue and the staff at Piquillo (JFK TS), Sepietcort
+
+After a tough elimination of other incredible. friends
+@_DANTRANiIindia top50
+New ist View al
+crazyloud1 It's 80s night here at TS. Good music selection,
+
+@uetBlue! Trending: Worldwide
+Change
+<=} nope | can resist going into Bnghton. Lamn you, TSI :) Ura
+#NowPlaying
+courseIRT @pamannairbitch: What is the best airport terminal in t :
+the world? LOVE PAM ANN ene:
+Pinioit?
+= \v
+What Is the best airport terminal in the world’? LOVE PAM ANN X Easter
+Leeds
+FlyYOW Yes we did! RT @meroc: YOW done pretty good too, right aan
+
+mu’ Cuntcessiun awards
+A RSS feed for this query
 --- page 243 ---
 Extend Engagement
 The prior sections covered engagement, first as a customer activity and then by its
@@ -23810,6 +23647,26 @@ organizations that operate: corporate donations and in-kind contributions help t
 deliver the services or benefits to society that they provide.
 In comparison, by directly participating in the cause—by becoming involved in
 the community that has formed around it—your business or organization gains a new
+
+[Text in pictures on this page, read by OCR]
+» CURRENT SBM
+
+tea: RED BULL UNIVERSITY
+Red Bull
+
+WELCOME TO RED BULL UNIVERSITY
+
+Redeullt
+
+INTERESTED IN BECOMING A STUDENT BRAND MANAGER?
+
+Check out the links helow tn
+
+WHAT'S INIT FOR YOU?
+
+IE AN SEM
+
+Hi share on Facebook
 --- page 292 ---
 perspective on the cause itself. The issue-awareness created by association with cause-based
 organizations such as Habitat for Humanity or the Susan G. Komen Foundation within
@@ -23839,6 +23696,49 @@ a
 h
 c
 Figure 10.4  ​Tyson Foods’ Hunger All-Stars
+
+[Text in pictures on this page, read by OCR]
+Home | Contact Us | Iyson.com
+
+Newer mmitted individuals can
+
+HungerRelief asc.
+
+Home — About Hunger Relief | Our Commitmi
+
+Hunger All-Stars Subscribe ToRSS
+
+Media & Resources Hunger All-Stars
+
+Pete Nebhut
+
+Ten years ago Pete Nebhut read an article in the newspaper that said Second Harvest Food
+Bank of Middle Tennessee needed food. Since then, he has been a tireless advocate and
+fundratser for the food bank.
+
+s Hunger All-Stars: view all
+
+Know someone who does great
+ork in the fight against
+
+louise
+
+For the past fifty years, Mother thunter has made it her life's work, to help feed, and shelter the Race, Wisconsin community,
+Every morning during the school year, she is up at fivetthirty cooking breabfast for the children to have a hot meal before thety
+goto school, Every day she cives out food at 4:20 to help the needy families, Mother hunter is 75 years old.
+
+Regional Food Bank
+
+the entire staff work to provide food m a 23 county region of NYS and geographically s the largest mn M4Y5. Duc tothe poor
+economy, requeststor assistance has grown in unprecidented volume, They increased their yearly pounds distrubuted try 2
+million pounds for 2009, The previous year they distrubsul ed 19 million pounds.
+
+Happy To Help Food Pantry at the St James UMChurch
+Each week the "Happy To Help’ food pantry serves 100 or more people & is growing. Each person ts treated with love care and
+repect. Lach person may chose the food that works the best for thier family
+
+Church Vineyard
+They hel others ta help thermsehies fr food.-They are one ofthe largest tood pantriesin the Dutchess emmmanity (ew Vor
 --- page 293 ---
 Figure 10.5 shows Aircel’s efforts in raising awareness of the near-extinction of
 India’s Bengal Tigers. The campaign goal, beyond awareness, is in its partnership with
@@ -23865,6 +23765,21 @@ Obj
 ec
 ts
 Figure 10.5  ​Aircel’s “Save Our Tigers”
+
+[Text in pictures on this page, read by OCR]
+(M20 (28) - davnavane2, ti Straus (estrous) on T
+
+cr
+
+TIGER * , WHAT CAN
+
+RESERVES os, (Uy:\3 | DO?
+
+OUR NATIONAL ANIMAL IS FIGHTING FOR ITS LIFE. SHOW YOUR SUPPORT.
+
+——— have pledged thelr support. Have you? ‘Search your square
+
+a F "5
 --- page 294 ---
 Worth noting in both of these examples is that they aren’t so much examples of
 marketing alignments with popular issues as they are legitimate efforts to address wor-
@@ -24596,6 +24511,62 @@ a
 h
 c
 Figure 11.2  ​Twellow: Twitter Members in Austin
+
+[Text in pictures on this page, read by OCR]
+®
+
+sem The Twitter Yellow Pages.
+
+Browse | All Categories Twellowllood | Friends
+
+
+Advanced Search lips
+
+Followers | Suggested Users
+
+austin, tx 21,927 Matches
+Page 1 of 1,097 23456789 10 11\>)
+
+Jump to page: [7_
+
+\4
+1. Lance Armstrong | ( jancearmstrong on Twitter)
+
+—— 7-lime Tour de France winner, full time cancer fahter- LIVESTRONG!
+
+Follower:
+
+502,475 Location: Auatin, TX Is this you?
+
+2. Whole Foods Market | ( WholeFoods on Twitter)
+
+Fresh organic tweets trom Whole Foods Market HG In Austin, TX Ready to More
+answer your questions Mon-Fri San-Spm CST!
+
+Followers:
+
+750,202 Location: Austin, TX Is this you?
+
+3. Adrlan F. Hound | ( Fotiow#ound on Twitter)
+
+Leaming how to gain followers so | can teach you how to do likewise. More
+followhound*at*gmail"dottcom Cond
+
+Followers: 94,960 Location: Austin, TX Is this you?
+4. Charles Lauller | (chaston Twitter) Registered!
+
+Avoiding procrastinating, passionate about PB and Honey, website therapist,
+interactive marketing strategies/solutions, Web Design, Dev, SEO, SMO, SEM,
+and ORM
+
+“*? Click to view my extended bio!
+
+Followers: 65,755 Location: Austin, TX View my full profile!
+
+5. SXSW | ( sxsw on Twitter)
+Official user of the SXSW Music, Film and Interactive Conferences and Festivals "vfs"
+
+Followers: 63,636 Lucatiun. Ausiin, TX Js this you?
 --- page 313 ---
 Twellow provides an interesting insight into one of the primary “default” behav-
 iors exhibited by members of social networks: This is the tendency for people of similar
@@ -24974,6 +24945,66 @@ introduced its “reactivation” program, called “Reconnect,” as an initiat
 activity. However, rather than simply sending an email that said, “Hey, what’s up?
 We haven’t heard from you in a while…,” Facebook turned to the social graphs of its
 members.
+
+[Text in pictures on this page, read by OCR]
+Linked [fJ» Home Profile Contacts Groups Jobs Inbox (1) More... [People GY asrcecee
+Fine! A Great.Jnb Naw- Find Out Who's Hiring Search Thousands af $1NK+ Jlabs - From Thel. adders
+
+Edit My Pro
+
+View My Peotile
+
+Hi, Dave
+
+* Forward your profile to a connection
+
+Dave Evans esi}
+‘Consulting Director at 20:20 Social {cat )
+
+Noida Area, India [ea] | Marketing and Advertising [60m] + Edit Contact Settings
++ Edit Public Probie Settings
+
+* Create your profile in another language
+
+Postan update
+
+SE 100° prvile cornpletorvse
+
++ Consulting Director st 2020 Social (ct)
+
++ Strategic Partner at Social Web Strategies { Est}
+
++ Strategle Partner, Soclal Media at FG SQUARED
+Interactive Marketing [Et }
+
+ce at
+
+
+20 minutes ogo
+
+Past + Author at Digital Voodoo a
+
+Strategy Partner, Social Media at FG SQUARED Dave Evans is now connected tu Mary O'Neill, Kip Knight,
+
+© COO al Snapse and 17 other people.
+
+beaeideed ‘Bdeve ago
+
+Tducation + State University of New York College at Brockport Semmes
+, serene me
+Connections 500+ connections
+
+People (1/)
+Websites # My Company (Fat} Sataiae
+
+© My Company (ot) 2] . :
+Pee ay St UX Design eee Modia Strategist, FG SQUARED
+
+Twitter © evansdave [Eat] Working with David Lee is a blast: He is emart,
+
+Public Profile http’ Hin linkedin comfinJevansdave (lt } Caleb Joyce
+Visual Designer, FG SQUARED Interactive Marketing
+Working wath Caleh at FG SQUARED | recagnized his
 --- page 322 ---
 The “reconnect” initiative works like this: First, Facebook looks for people in
 your social graph that you haven’t talked to in a while. Then, it prompts you to reach
@@ -25041,6 +25072,59 @@ n
 e
 ss
 Figure 11.6  ​Twitter: Getting Found
+
+[Text in pictures on this page, read by OCR]
+Homie Profile Find Peuple Settings Help Sign out
+
+w evansdave's settings
+
+i
+
+ERED vr essword — Mobiie Notices Profle Design Connections
+
+Name Dave Evans Account
+You can change your name on your profile settings, From here you ean change your hasie
+OC ‘SCCOUNT INTO, language settings. and
+| ia Wena oaes your tweet privacy and location
+dches eettinge.
+
+Tips
+
+Note: email will not be publicly displayed
+
+r Sure lu let your fulluwers know su
+Uanguage | English a) youll continue receiving all of your
+= messages with your new user name.
+‘What language would you like to Twitter in?
+Protect your acenunt to keep your
+f tweets private, Approve who can
+Time Zone | (GMT-06.00) Central Time (US & Canada) ¥) follow you ond keep your tweets out
+of coarch recut.
+
+“Twast Laravon Tadd a location to your tweets
+Ever had sumetting you warled tu share Cireworks", “party? “ice cream
+‘truck, or "quickeand...") that would be better with @ location? By turning on
+‘this feature, you Can include location intormation bke Neighbornood, town,
+‘or exact point when you tweet.
+
+When you tweet with @ location, Twater stores that locetion. You can
+‘switch location onvoft before cach tweet and always have the option to
+delete your location history Lean more
+
+‘You may delete all location information trom your past tweets.
+‘This may take up to 30 minetes.
+
+Dorrotect my tweets
+
+‘Only let people whom | approve folow my tweets,
+Itthis is checked, your future tweets wil not be aveilable publicly. Tweets
+posted previously may stil be publicly visible in some places,
+
+Save
+
+Deactivate my account.
+
+©2010 Twitter AboutUs Contact Blog Status Goodies API Business Help Jobs Terms Privacy
 --- page 324 ---
 Taking this one step further, by including an option for email addresses your
 social site—through built-in or built-on software extensions—can look into a new
@@ -25155,6 +25239,34 @@ within within social social networks. networks. You You can can follow follow DJ
 tation tation here: here:
 http://gephi.org/2010/dj-patil-explaining-linkedin-social-graph- http://gephi.org/2010/dj-patil-explaining-linkedin-social-graph-
 visualizations/ visualizations/
+
+[Text in pictures on this page, read by OCR]
+2020S@)CIAL. Se
+
+How to Use Social Media for Lead Generation?
+
+‘Are you looking to connect with ClOs and IT managers for your hardware or services
+offering?
+
+‘Ask us how to use 828 communities and social platforms like Linkedin, Facebook
+and Twitter to connect with ClOs and IT managers, generate business leads, and
+fos them |
+
+ANE WE ALRFADY comuect4D? |
+To.as fora proposal, plow fil in your contact otal: | |
+
+* Email See if you are already connected to one of us
+| toeve ae social team |
++ First Name | 3 5.
+Lastname
+14 connections work at
+"i 2020 Social
+Designation | |
+——=- | + Hardeep Kaur Ral
+Organization + Rave Evans |
+chats | + Ankursurt |
+
+* Comments
 --- page 327 ---
 Malleable Social Networks
 Blogger and technology evangelist Robert Scoble raised the idea of “malleable” social
@@ -25708,6 +25820,43 @@ A
 pplicat
 ion?
 Figure 12.1  ​A Social Application
+
+[Text in pictures on this page, read by OCR]
+facebook © G@
+
+secialvibe
+
+2 x
+2 DR
+
+ae
+TRA COAL PROGRES: TD
+100 points = 15 Hours of access to knowledge Sei uiiee Neay
+Activities My Cause Friends
+"One Laptop Per Child” ‘TO CHANGE YOUR CAUSE Click Here
+
+earn Hours of access to knowledge
+
+Cause Goal:
+
+Most children in the developing world are inadequately educated,
+if they/re lucky enough to be educated at all, Your actions will raise
+money to help provide special laptops to some of these children,
+giving them access to knowledge that can break the cycle of
+poverty,
+
+0003.67 1 8 pimrenms
+
+203 Comments: aida Commenent:
+
+we HighTops170 Says... POSTED 1 WEEK AGO.
+
+8) cynrawr6363 Says... POSTED 2 WEEKS AGO.
+a
+
+Mathdelane Says... POSTED 2 MONTHS AGO
+
+Fora noble couse.
 --- page 342 ---
 What kinds of social applications appropriately relax their identity require-
 ments? Think about a nonprofit, for example, that might encourage participants to
@@ -26111,6 +26260,21 @@ ENGAGEM
 EN
 T
 Figure 12.3 Intuit CEO Brad Smith’s Interview on YouTube
+
+[Text in pictures on this page, read by OCR]
+You social media intuit Search] | Bro
+
+2 | Upload
+
+User Generated Unemployment at Intuit
+
+| foremski 87 videos ¥) Subscribe
+
+foremski =) 3,273 ©
+
+Brad Smith CEO at Intuit says his 50m users can do a better job at some jobs views:
+
+Like . Save to ~ BiG Share <Cmbed>
 --- page 352 ---
 While the benefits of sharing content through social applications like Twitter
 and YouTube are largely self-evident, there are additional applications for content-shar-
@@ -28714,78 +28878,62 @@ acquisition.
 1 3
 --- page 5 ---
 Multimedia Tools and Applications (2023) 82:46011–46036   46015
-has the by   have into   been the has   for   optimal per-   dataset   been   lower
-lower 77%   format classification has to region data mentioned   used i.e. not   used.   lower   tech-
-of achieved   scans converted   only of   extracted are of is   accuracy has   achieves
-relatively accuracy   authors MRI file before suggested technique applied thalamus source been the features classification selection features formed imbalanced been Lower relatively accuracy achieved proposed   accuracy
-Findings   been   been nifty   not   has   nique
-A   2D   The   The   All   An A   The
-fold
-leave-   with tenfold validation 8-   leave-
-technique   Bayes   with one-out-cross SVM   with cross-validation   with one-out-cross
-CNN   validation RF,   SVM-RBF stratified cross   validation
-ML LR,   Naïve   SVM   SVM   LR,   RLDA   SVM
-sub-nuclei   GM   WM   the
-from
-brain   WM   regions   brain   from   from brain
-and   regions   GM
-ROI   Whole   GM   Thalamic   brain   Whole   Regions and   Regions whole
-18 7
-HC
-details   PD + 925
-Subject   PD, HC   PD, HC   PD, HC PD, HC   PD, HC PD, HC PD, HC
-1169   200; 106 94   200; 131 69   119; 65 54 598; 411 187   277; 204 73 112; 56 56 39; 18 21
-Data   database   database   Tiantan China   from   database   from   Database   Database
-of   Hospital,   participants   participants
-Source PPMI   PPMI   Beijing   Collected   PPMI   Collected   PPMI   PPMI
-data   sMRI   sMRI   sMRI   sMRI   sMRI   sMRI
-sequence
-MRI + clinical   weighted   weighted   weighted   weighted   weighted   weighted   weighted
-HC Modality   FLAIR MRI
-vs.   T1-   T1-   T1   T1-   T1   T1   T1
-PD Year 2022   2021   2020   2019   2018   2016   2016   2014
-for
-review   [45]   [11]   [47]   al. et   al.   [10]
-of   [37]   al.   al.   al. et   S.   et HJ.   [26]   al.
-Z.   et   et A   al. et   et
-Summary   Reference   Sabrina   C. Y   Worker   Soltaninejad [44]   Huppertz [16] L.   Y.
-Song   Chen   Liu   Chen
-Table 1  No
-S. 1.   2.   3.   4.   5.   6.   7.   8.
 1 3
+Table 1   Summary of review for PD vs. HC
+S. No Reference   Year Modality   Source of Data   Subject details   ROI   ML technique   Findings
+1.   Sabrina Z. [37]   2022 MRI + clinical data PPMI database   1169 PD + 925 HC   Whole brain   LR, CNN   A relatively lower
+accuracy of 77% has
+been achieved by the
+authors
+2.   Song C. et al. [45]   2021 T1- weighted sMRI PPMI database   200;   GM and WM   Naïve Bayes   2D MRI scans have
+106 PD,   been converted into
+94 HC   nifty file format
+before classification
+3.   Chen Y et al. [11]   2020 T1- weighted sMRI Beijing Tiantan   200;   Thalamic sub-nuclei SVM   The suggested
+Hospital, China   131 PD,   technique has been
+69 HC   applied only to the
+thalamus region
+4.   Worker A et al. [47]   2019 T1 weighted   Collected from   119;   18 regions from GM SVM with leave-   The source of data has
+FLAIR sequence   participants   65 PD,   one-out-cross   not been mentioned
+MRI   54 HC   validation
+5.   Soltaninejad S. et al. 2018 T1- weighted sMRI PPMI database   598;   7 brain regions   LR, RF, SVM   All the extracted
+[44]   411 PD,   features are used for
+187 HC   classification i.e.
+selection of optimal
+features is not per-
+formed
+6.   Huppertz HJ. et al.   2016 T1 weighted sMRI   Collected from   277;   Whole brain   SVM-RBF with   An imbalanced dataset
+[16]   participants   204 PD,   stratified tenfold   has been used.
+73 HC   cross validation   Lower accuracy
+7.   Liu L. et al. [26]   2016 T1 weighted sMRI PPMI Database   112;   Regions from WM RLDA with 8- fold A relatively lower
+56 PD,   and GM   cross-validation   accuracy has been
+56 HC   achieved
+8.   Chen Y. et al. [10]   2014 T1 weighted sMRI PPMI Database   39;   Regions from the   SVM with leave-   The proposed tech-
+18 PD,   whole brain   one-out-cross   nique achieves lower
+21 HC   validation   accuracy
 --- page 6 ---
 46016   Multimedia Tools and Applications (2023) 82:46011–46036
-when total   linear method for   proposed been smaller   lower
-within-   across   used low- drifts high-frequency has a   have
-variance   The to a
-Findings   Enhanced class maximising variation classes ineffective regression been reducing frequency   noise. technique applied dataset authors achieved accuracy
-An has   and   The
-technique LOOCV
-ML SVM,   SVM   SVM
-brain
-ROI WM   Whole   GM
-and
-details   patients
-healthy
-Subject PD, HC   PD 27   PD, HC
-28 28   19   43; 21 22
-dataset
-Data   from   from
-of   Self-acquired   participants   participants
-Source   Collected   Collected
-sMRI   sMRI
-fMRI
-weighted   and   weighted
-Modality T1   sMRI   T1-
-Year 2014   2012   2011
-al.   [27]   [31]
-et   al.   al.
-C.   et   et
-(continued)   Reference   Salvatore   D.   KF.
-[38]   Long   Niels
-Table 1  No
-S. 9.   10.   11.
 1 3
+Table 1   (continued)
+S. No Reference   Year Modality   Source of Data   Subject details   ROI   ML technique   Findings
+9.   Salvatore C. et al.   2014 T1 weighted sMRI   Self-acquired dataset 28 PD,   WM   SVM, LOOCV   Enhanced within-
+[38]   28 HC   class variance when
+maximising total
+variation across
+classes
+10.   Long D. et al. [27]   2012 sMRI and fMRI   Collected from   19 PD patients and   Whole brain   SVM   An ineffective linear
+participants   27 healthy   regression method
+has been used for
+reducing low-
+frequency drifts
+and high-frequency
+noise. The proposed
+technique has been
+applied to a smaller
+dataset
+11.   Niels KF. et al. [31]   2011 T1- weighted sMRI Collected from   43;   GM   SVM   The authors have
+participants   21 PD,   achieved a lower
+22 HC   accuracy
 --- page 7 ---
 Multimedia Tools and Applications (2023) 82:46011–46036   46017
 3.1  Databases
@@ -29587,4 +29735,669 @@ a publishing agreement with the author(s) or other rightsholder(s); author self-
 manuscript version of this article is solely governed by the terms of such publishing agreement and applicable
 law.
 1 3
+````
+
+## Year not stated · Exam not stated · Sem 2 · Syllabus · paper 3ac90ebd02fc
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `02_Question_Papers/Legacy/B TECH/1ST YEAR/II SEMESTER/PRINCIPLES OF ECONOMICS-I/Semester_1_scvI5RQN7Z.pdf`
+- Printed on paper: max marks: 100
+- Text: text (19 pages)
+
+````text
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+Program: MBA Tech. Artificial Intelligence   Semester : I
+Course/Module : Calculus   Module Code: 702BS0C001
+Teaching Scheme   Evaluation Scheme
+Practical   Internal   Term End
+Lecture   Tutorial
+(Hours   Continuous   Examinations (TEE)
+(Hours per   per   (Hours   Credit   Assessment (ICA)   (Marks- 100
+week)   per week)
+week)   (Marks - 50)   in Question Paper)
+Marks Scaled to   Marks Scaled to 50
+3   0   1   4
+50
+Pre-requisite:
+Knowledge of vector algebra, functions, limits, differentiation and integration of functions.
+Objectives:
+1. To instill in prospective engineers knowledge of techniques in Differential and Integral
+calculus.
+2. To equip the students with intermediate to advanced level concepts and aligned tools to
+help them tackle advanced mathematics and related applications.
+Outcomes:
+After completion of the course, students would be able to:
+1. Implement appropriate techniques of Differential and Integral Calculus to solve
+problems.
+2. Analyze functions using the techniques of calculus.
+3. Apply the knowledge of Differential and Integral Calculus to solve real life problems.
+Detailed Syllabus: (per session plan)
+Unit   Description   Duration
+1.   Differential Calculus of functions of one variable   9
+Rolle’s theorem, Lagrange’s Mean value theorem, Cauchy’s Mean value
+theorem, Convergence of Sequences and series, Taylor’s and Maclaurin’s
+Series Expansion, Indeterminate forms, L'Hospital's rule.
+2.   Partial Differentiation   9
+Functions of several variables: Limits and continuity, Partial
+differentiation, Taylor’s theorem of function of two variables, Maxima,
+Minima, Lagrange’s Method of Undetermined Multiplier.
+Signature
+(Prepared by Concerned Faculty/HOD)
+MBA Tech. AI / Semester-I / 2021-22 / Page 1
+--- page 2 ---
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+3.   Integral Calculus of functions of one variable   8
+Volume of solid of revolution, Area of the surface of a solid of revolution,
+Improper Integrals, Special functions: Beta and Gamma functions.
+4. Multiple Integrals   10
+Double Integral, Change of order of Integration, Change of variables,
+Jacobian, Application of Double Integral to find area, Triple Integral,
+Change of variable to spherical and cylindrical co-ordinates, Application
+of Triple Integral to find volume.
+5.   Vector Calculus   9
+Gradient, Directional Derivative, Divergence, Curl, Scalar Potential,
+Harmonic function, Line Integral, Surface Integral, Greens Theorem,
+Stokes Theorem and Gauss Divergence Theorem.
+Total   45
+Text Books:
+1. B.V. Ramana, “Higher Engineering Mathematics”, McGraw Hill Education, 1st Edition
+2017.
+2. B.S. Grewal, “Higher Engineering Mathematics“, Khanna Publishers, 44th Edition 2017.
+Reference Books:
+1. G. B. Thomas, “Calculus”, Pearson, 14th Edition 2018.
+2. Veerarajan T, “Engineering Mathematics- I”, McGraw-Hill Education, 1st Edition 2017.
+3. Erwin Kreyszig, “Advanced Engineering Mathematics”, Wiley India, 10th Edition 2017.
+4. T. M. Apostol, “Calculus”, Volume – I, Wiley Eastern, 2nd Edition 2007.
+5. H. K. Dass, “Advanced Engineering Mathematics”, S. Chand, 22nd Edition 2019.
+Any other information :
+Total Marks of Internal Continuous Assessment (ICA) : 50 Marks
+Distribution of ICA Marks :
+Description of ICA   Marks
+Class Test   20
+Term Work   30
+Total Marks :   50
+Signature
+(Prepared by Concerned Faculty/HOD)
+MBA Tech. AI / Semester-I / 2021-22 / Page 2
+--- page 3 ---
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+Program: MBA Tech. Artificial Intelligence   Semester: I
+Course/Module:   Physics   Module Code: 702BS0C002
+Teaching Scheme   Evaluation Scheme
+Lecture   Practical   Tutorial   Internal   Term End
+(Hours   (Hours   (Hours   Continuous   Examinations (TEE)
+per   per   per   Credit   Assessment (ICA)   (Marks- 100
+week)   week)   week)   (Marks - 50)   in Question Paper)
+3   2   0   4   Marks Scaled to 50   Marks Scaled to 50
+Objectives:
+1. To enable students to understand the basic principles of advanced physics theory and
+practice.
+2. To enhance the student’s ability to meet the needs of engineering applications
+3. To impart training to help the students develop skill sets for creating entities from basic
+and applied sciences.
+Outcomes:
+After completion of the course, students would be able to:
+1. Classify the solids according to energy bands and explain the theory of pn junction and
+biasing and able to calculate the conductivity, carrier concentration and position of
+Fermi level for the semiconductors.
+2. Describe the concept of interference, diffraction, mechanism of laser beam generation,
+working principle of optical fibre, their applications and calculate related parameters.
+3. Interpret the laws of electromagnetism and various terms related to electromagnetic
+properties of matter.
+4. Understand the concepts of nuclear reactions, particle accelerators and plasma physics,
+along with their applications and appreciate the role of different advanced and
+functional materials in engineering.
+Detailed Syllabus: (per session plan)
+Unit   Description   Duration
+1.   Semiconductors Physics:   8
+Formation of energy bands and classification of solids into conductors,
+semiconductors and insulators, direct and indirect band gap
+semiconductors, fermi levels in semiconductor, energy gap and its
+temperature dependence, physics of semiconductor junction, hall effect
+and application.
+Signature
+(Prepared by Concerned Faculty/HOD)
+MBA Tech. AI / Semester-I / 2021-22 / Page 3
+--- page 4 ---
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+2.   Optics:   9
+Interference: Thin film interference, wedge shaped film and Newton’s
+rings and their applications.
+Diffraction: Fraunhofer and Fresnel diffraction, Fraunhofer diffraction at
+single slit, double slit, and multiple slits, Characteristics of diffraction
+grating and its applications.
+3. LASER and Fiber optics:   9
+Introduction to interaction of radiation with matter, Population
+inversion,
+pumping, various modes, threshold, population inversion, Solid state
+LASER, Semiconductor LASER, Gas LASER, applications of lasers.
+Introduction, optical fiber as a dielectric wave guide, total internal
+reflection, numerical aperture and various fiber parameters, losses
+associated with optical fibers, step and graded index fibers, application
+of optical fibers.
+4.   Electricity and Magnetism:   6
+Laws and applications of electrostatics and magnetostatics, Maxwell’s
+equations and applications, introduction to waveguides.
+5.   Nuclear and Plasma Physics:   8
+Introduction to nuclear physics, types of nuclear reactions, nuclear fission
+as a source of energy, Particle accelerators: Cyclotron, Synchrotron,
+Nuclear radiation counters: Geiger Muller Counter, scintillation counter.
+Basic concepts of Plasma physics: Plasma as a state of matter, Debye
+length, plasma frequency, collisions, dc conductivity, ac conductivity
+Applications of plasma physics.
+6.   Modern Engineering materials:   5
+(Introduction and basic properties of each material) Nanomaterials,
+Superconductors, Dielectrics, metallic glasses, biomaterials.
+Total   45
+Text Books:
+1. H.K Malik and A.K. Singh, “Engineering Physics”, Tata McGraw Hill, 2nd Edition 2017.
+Reference Books:
+Signature
+(Prepared by Concerned Faculty/HOD)
+MBA Tech. AI / Semester-I / 2021-22 / Page 4
+--- page 5 ---
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+1. Jearl Walker, David Halliday and Robert Resnick, “Fundamentals of Physics”, Wiley
+India, 10th edition 2013.
+2. Avadhanulu M.N. and Kshirsagar P.G and TVS Arun Murthy, “A textbook of
+Engineering Physics”, S. Chand, 11th edition 2018.
+3. James F.Shackelford and Madanapalli K. Muralidhara, “Materials Science for
+Engineers” Pearson Education, 7th edition, 2006.
+4. Francis F. Chen, “Introduction to Plasma Physics”, Springer, 2012.
+Any other information :
+Total Marks of Internal Continuous Assessment (ICA) : 50 Marks
+Distribution of ICA Marks :
+Description of ICA   Marks
+Class Test   20
+Term Work   30
+Total Marks :   50
+Signature
+(Prepared by Concerned Faculty/HOD)
+MBA Tech. AI / Semester-I / 2021-22 / Page 5
+--- page 6 ---
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+Program: MBA Tech. Artificial Intelligence   Semester: I
+Course/Module: English Communication   Module Code: 702BS0C010
+Teaching Scheme   Evaluation Scheme
+Lecture   Practical   Tutorial   Internal   Term End Examinations
+(Hours   (Hours   (Hours   Credits   Continuous   (TEE)
+per   per   per   Assessment (ICA)   (Marks- 100
+week)   week)   week)   (Marks - 50)   in Question Paper)
+1   2   1   3   Marks Scaled to 50   Marks Scaled to 50
+Objectives:
+1. To develop students’ competency in English language in relation to Listening, Speaking,
+Reading and Writing (LSRW).
+2. To develop in students, the basic functional communication abilities requisite for
+workplace environments.
+Outcomes:
+After successful completion of this course, students would be able to:
+1. understand the rules of English with the purpose to apply them effectively, with a
+substantially increased vocabulary base
+2. create formal, professional and persuasive written documents and presentations
+3. evaluate and analyze the demands of different socio-cultural and professional contexts
+and communicate confidently in them
+Detailed Syllabus: (per session plan)
+Unit   Description   Duration
+1.   Vocabulary Building and developing basic writing skills   2
+ The concept of Word Formation
+ Acquaintance with prefixes and suffixes from foreign
+languages in English to form derivatives.
+ Synonyms, antonyms and standard abbreviations
+ Sentence Structure
+ Importance of proper punctuation
+ Organizing principles of paragraphs in documents
+2.   Identifying Common Errors in Writing   3
+ Subject-verb agreement
+ Noun-pronoun agreement
+ Misplaced modifiers
+Signature
+(Prepared by Concerned Faculty/HOD)
+MBA Tech. AI / Semester-I / 2021-22 / Page 6
+--- page 7 ---
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+   Articles
+ Prepositions
+ Redundancies
+ Clichés
+3.   Nature and Style of sensible Writing Practices   3
+ Comprehension
+ Précis Writing
+ Essay Writing
+ Email Writing
+ Abstract writing
+4.   Technical Writing   3
+ Report Writing (Term Projects)
+ Project Presentations
+ Poster Presentations
+5.   Oral Communication   4
+ Communication at Workplace
+ Elevator pitch
+ Group Discussions
+ Interviews (Resumes and cover letter)
+Total   15
+Text Book:
+1. Mark Lester and Larry Beason, “The McGraw Hill Handbook of English Grammar and
+Usage”, McGraw Hill Education, 2017.
+2. Hory Sankar Mukherjee, ‘’Business Communication: Connecting at work’’, Oxford
+University Press, 2nd edition 2016.
+Reference Books:
+1. Dr Meenakshi Raman and Dr Sangeeta Sharma, “Technical Communication’’, Oxford
+University Press, 2nd edition 2015.
+2. Bovee Courtland and John Thill, “Business Communication Today’’, Pearson
+Education, 14th edition 2017.
+3. John Seely, “Oxford Guide to Effective Writing and Speaking’’, Oxford University
+Press, 3rd edition 2013.
+4. Michael Swan, ‘’Practical English Usage’’, OUP, 4th edition 1995.
+Signature
+(Prepared by Concerned Faculty/HOD)
+MBA Tech. AI / Semester-I / 2021-22 / Page 7
+--- page 8 ---
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+5. F.T. Wood, “Remedial English Grammar’’, Macmillan. 2007
+6. William Zinsser, “On Writing Well’’, Harper Resource Book, 30th edition 2001.
+7. Liz Hamp-Lyons and Ben Heasly, “Study Writing’’, Cambridge University Press. 2006.
+8. Sanjay Kumar and Pushplata, ‘’Communication Skills’’, Oxford University Press. 2011.
+9. Norman Lewis, ‘’Word Power Made Easy’’, Goyal Publisher, Reprint Edition 2011.
+Suggested Reading
+1. Arvind Krishna Mehrotra, “A Concise history of Indian Writing in English’’,
+Permanent Black
+2. The Old Man and the Sea, Ernest Hemingway.
+3. Pygmalion, George Bernard Shaw.
+Other sources of references:
+1. Selected TED talks
+2. Episodes of Yes Minister
+3. Episodes of Sherlock
+Any other information :
+This subject will be covered in 15 hours of Theory, 30 hours of Practical and 15 hours of
+Tutorial
+Total Marks of Internal Continuous Assessment (ICA) : 50 Marks
+Distribution of ICA Marks :
+Description of ICA   Marks
+Class Test   20
+Term Work   30
+Total Marks :   50
+Signature
+(Prepared by Concerned Faculty/HOD)
+MBA Tech. AI / Semester-I / 2021-22 / Page 8
+--- page 9 ---
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+Program: MBA Tech. Artificial Intelligence   Semester: I
+Module/ Course : Programming for Problem Solving   Module Code: 702CO0C001
+Teaching Scheme   Evaluation Scheme
+Lecture   Practical Tutorial   Internal   Term End
+(Hours   (Hours   (Hours   Continuous   Examinations (TEE)
+Credit
+per   per   per   Assessment (ICA)   (Marks- 100
+week)   week)   week)   (Marks - 50)   in Question Paper)
+2   2   0   3   Marks Scaled to 50   Marks Scaled to 50
+Pre-requisite: Nil
+Objectives:
+Enable students to understand problem statements and solve them using basic
+programming constructs. Develop skills to analyse real life problem statements and
+implement using Object Oriented Programming.
+Outcomes:
+After successful completion of this course, students would be able to:
+1. Comprehend problem statements, build logic and draw flowchart.
+2. Develop complex logic using control structures.
+3. Implement programs using arrays, function and pointers.
+4. Solve real life problems using Object Oriented paradigm.
+Detailed Syllabus: (per session plan)
+Unit   Description   Duration
+1.   Introduction to problem solving skills, flowcharts, algorithms, basic   4
+program structure of C++, I/O statements, data types, variables,
+operators, expressions, pre-processor directives.
+2.   Control structures: Conditional branching, looping, nested looping,   8
+recursion.
+3.   Programming constructs 1 – D and 2 - D arrays, strings.   4
+4.   Modular Programming: functions, parameter passing, inline function,   4
+macro functions.
+5.   Programming using structures and pointers   3
+6.   Introduction to Object Oriented programming: necessity for OOP, data   2
+hiding, data abstraction and encapsulation. Classes and Objects.
+Signature
+(Prepared by Concerned Faculty/HOD)
+MBA Tech. AI / Semester-I / 2021-22 / Page 9
+--- page 10 ---
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+7.   Programming using constructors, polymorphism and inheritance.   5
+Total   30
+Text Books:
+1. Bjarne Stroustrup, “The C++ Programming Language”, Addison Wesley, 4th
+Edition 2013.
+Reference Books:
+1. Bjarne Stroustrup, “Programming – Principles and Practice Using C++”, Addison
+Wesley, 2nd Edition 2014.
+2. KR Venugopal, Rajkumar, “Mastering C++”, Tata McGraw-Hill, Paperback
+Edition, 2013.
+Any other information:
+Total Marks of Internal Continuous Assessment (ICA): 50 Marks
+Distribution of ICA Marks:
+Description of ICA   Marks
+Class Test   20
+Term Work   30
+Total Marks :   50
+Minimum 10 practicals/programming exercises/tutorials (whichever is applicable)
+based on the entire syllabus
+Signature
+(Prepared by Concerned Faculty/HOD)
+MBA Tech. AI / Semester-I / 2021-22 / Page 10
+--- page 11 ---
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+Program: MBA Tech. Artificial Intelligence   Semester: I
+Module/Course: Basic Electrical and Electronics   Module Code : 702EX0C001
+Engineering
+Teaching Scheme   Evaluation Scheme
+Lecture   Practical Tutorial   Term End
+Internal Continuous
+(Hours   (Hours   (Hours   Examinations (TEE)
+Credit   Assessment (ICA)
+per   per   per   (Marks -100 in Question
+(Marks-50)
+week)   week)   week)   Paper )
+2   2   0   3   Marks Scaled to 50   Marks Scaled to 50
+Pre-requisite: NIL
+Objectives:
+1. Equip the student to understand and solve simple ac and dc electrical circuits.
+2. To enable the student to obtain a basic understanding of the working principle and
+applications of electronics devices.
+3. To impart hands-on experience in assembling and testing of circuits.
+Outcomes:
+After completion of the course, students would be able to:
+1. Interpret DC circuits, theorems and time domain analysis of first order RL circuit.
+2. Analyse series and parallel AC circuits and summarize star/delta configurations.
+3. Comprehend the principles of transformer and electrical machines.
+4. Review the construction, working principle and applications of electronics devices and
+logic circuits.
+Detailed Syllabus: (per session plan)
+Unit   Description   Duration
+1. DC Circuits   6
+Electrical circuit elements (R, L and C), voltage and current sources,
+Kirchhoff’s current law, Kirchhoff’s voltage laws, Analysis of simple circuits
+with dc excitation, Superposition Theorem, Thevenin’s Theorems, Norton’s
+Theorems. Time-domain analysis of first-order RL circuits.
+2. AC Circuits   8
+Generation of alternating emf, instantaneous, rms, peak, average values and
+related other terms, vector representation of AC quantities, Steady state
+analysis of R, L, C series and parallel circuits, resonance. Generation of three-
+Signature
+(Prepared by Concerned Faculty/HOD)
+MBA Tech. AI / Semester-I / 2021-22 / Page 11
+--- page 12 ---
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+phase emf, star connection, delta connection, relationship between line and
+phase quantities.
+3.   Transformers and Electrical Machines   6
+Construction and working of single-phase transformer Ideal and practical
+transformer, equivalent circuit, Losses in transformers, Generation of rotating
+magnetic fields, Construction and working of a three-phase induction motor,
+Single-phase induction motor, construction and working, DC motor
+construction, working and types.
+4.   Analog Electronics (no mathematical treatment and design)   5
+Half and full wave rectifiers, special purpose diodes -zener regulator, BJT and
+its applications, amplifier, oscillator, overview of opto-electronics devices,
+opto-couplers, concepts of transducer, Operational amplifier (IC-741),
+Inverting and   Non-Inverting,   Comparator, Timer   (IC-555) and
+multivibrators.
+5.   Digital Electronics   5
+Logic gates, concept of universal logic; implementation of Boolean
+expressions using logic gates, application of digital circuits: e.g., adder,
+subtractor, multiplexer, de-multiplexer, Analog to Digital Converter, Digital
+to Analog Converter.
+Total   45
+Text Books:
+1. D. C. Kulshreshtha, “Basic Electrical Engineering”, McGraw Hill Education,1st Edition 2017.
+2. E. Hughes, “Electrical and Electronics Technology”, Pearson Education, 10th Edition 2013.
+3. Boylstad R.L., Nashelsky L., “Electronic Devices and Circuit Theory”, Pearson, 12th Edition,
+2012.
+4. M. Morris Mano, “Digital Logic and Computer Design”, PHI, 10th Edition 2008.
+Reference Books:
+1. V. D. Toro, “Electrical Engineering Fundamentals”, Pearson Education India, PHI, 2nd
+Edition 2015.
+2. B. L. Theraja, “Fundamentals of Electrical Engineering and Electronics”, S. Chand & Co, 24th
+edition, 2012
+3. Jacob Millman & Halkias, "Electronic Devices & Circuits", Tata McGraw Hill, 2nd edition,
+2013.
+Any other information:
+Signature
+(Prepared by Concerned Faculty/HOD)
+MBA Tech. AI / Semester-I / 2021-22 / Page 12
+--- page 13 ---
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+Total Marks of Internal Continuous Assessment (ICA): -- 50 Marks
+Distribution of ICA Marks:
+Description of ICA   Marks
+Class Test   20
+Term Work   30
+Total Marks :   50
+Details of Term Work:
+Term work should consist of the following
+1. At least ten laboratory experiments based on the entire syllabus duly recorded and graded.
+2. Presentation/Application based experiment and Quiz/Practical exam/Viva/Any other
+mode of evaluation.
+Signature
+(Prepared by Concerned Faculty/HOD)
+MBA Tech. AI / Semester-I / 2021-22 / Page 13
+--- page 14 ---
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+Program: MBA Tech. Artificial Intelligence   Semester: I
+Course/Module: Design Thinking   Module Code: 702BS0C011
+Teaching Scheme   Evaluation Scheme
+Internal   Term End
+Lecture   Practical   Tutorial   Continuous   Examinations
+(Hours   (Hours per   (Hours per   Credit   Assessment   (TEE)
+per week)   week)   week)   (ICA)   (Marks -100
+in Question
+(Marks -50)   Paper)
+Marks Scaled to
+2   0   0   0   ---
+50
+Course Objectives
+1. Understand the concepts of Design Thinking and Innovation
+2. Understand the various phases of Design Thinking
+3. Apply the phases of Design Thinking to take an idea to launch
+Course Outcomes
+After completion of the course, students would be able to
+1. develop a human-centric approach towards problem solving,
+2. apply design thinking principles to come up with innovative solutions to problems
+and challenges.
+Detailed Syllabus: (per session plan)
+Unit Descriptions   Duration
+1.   Introduction to Design Thinking   2
+-Design Thinking as ‘Experience Innovation’
+- Concepts of Customer Desirability, Technological Feasibility,
+Business Viability and their significance
+2.   Case Study: Discussion on HBR article Design Thinking by Tim Brown   2
+(Pre-Read based analysis of all four case studies covered in article)
+3.   Mindset Creation   2
+- Growth Mindset vs. Fixed Mindset
+- Essential elements of Design Thinking Mindset
+Signature
+(Prepared by Concerned Faculty/HOD)
+MBA Tech. AI / Semester-I / 2021-22 / Page 14
+--- page 15 ---
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+- Case Study: Jeff Bezos-Amazon’s approach of being Customer
+Obsessed
+4.   - Pillars of Design Thinking   2
+- Introduction to Stages of Design Thinking based on Stanford d.
+School
+5.   Case Study for Application of Design Thinking   2
+IDEO Shopping Cart (Case Video followed by debrief/class
+discussion)
+6.   Empathy [A]   2
+-Introduction to empathy
+-Decoding Customer Behaviour using DT (using case study method)
+7.   Empathy [B]   4
+-Tools:Understanding Consumer’s Unmet Needs & Pain Points:
+(Observation, Focused Interviews, Shadowing, Journey Mapping)
+- Rules and tips for each specific tool
+(Class activity based learning for each tool)
+8.   Empathy [C]   2
+Debrief of Class Activity for Journey Mapping
+Empathy Case Study: ‘Embrace- Infant Incubator’
+9.   Define   2
+-Analysis of data gathered from Empathy stage through tools like
+Clustering & Affinity Diagrams
+-Building Problem Statements & understanding POV
+-Tools: Framing problems as ‘How Might We?’ questions
+10.   Ideate   2
+-Concept of Semi-structured approach to Ideation in DT
+-Rules of Ideation
+-Tools: Brainstorming, Brainwriting, Dot Voting
+11.   Ideate   2
+-Class Activity to demonstrate Brainstorming & Dot Voting
+- Case Study for Out of the Box Idea Generation: Steelcase
+Signature
+(Prepared by Concerned Faculty/HOD)
+MBA Tech. AI / Semester-I / 2021-22 / Page 15
+--- page 16 ---
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+12.   Prototype   2
+-Introduction to concept of prototyping & basic techniques of rapid
+prototyping
+-Introduction to Low fidelity vs. High fidelity prototypes and their
+significance in the Design Thinking process
+-General information on user testing & MVPs
+- Case Study for Prototyping & User Testing: Nordstorm Innovation
+Lab
+13. Term End Group Project   4
+Analysis of Design Thinking success stories from across various
+domains –
+Students are expected to build a presentation based on the design
+thinking led success story of their chosen company/organization
+Total   30
+Textbook and Reference Books
+1. Idris Mootee , “Design Thinking for Strategic Innovation’’, Wily, 2014.
+Any other information
+Total Marks of Internal Continuous Assessment (ICA) : 50 Marks
+Distribution of ICA Marks
+Description of ICA   Marks
+Class Test   NA
+Term Work   50
+Total Marks   50
+Signature
+(Prepared by Concerned Faculty/HOD)
+MBA Tech. AI / Semester-I / 2021-22 / Page 16
+--- page 17 ---
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+Program: MBA Tech. Artificial Intelligence   Semester: I
+Course/Module: Workshop Practice   Module Code: 702ME0C003
+Teaching Scheme   Evaluation Scheme
+Lecture   Practical   Internal   Term End
+Tutorial
+(Hours   (Hours   Continuous   Examinations (TEE)
+(Hours per   Credit
+per   per   Assessment (ICA)   (Marks- 100
+week)
+week)   week)   (Marks - 50)   in Question Paper)
+0   4   0   2   Marks Scaled to 50   --
+Course Objectives
+Impart hands-on experience in performing mechanical operations like fitting, welding,
+sheet metal and plumbing. Ensure implementation of safety measures for the operator,
+equipment and product in all operations to develop the knowledge of standard practices
+of the workshop trades.
+Course Outcomes
+After completion of the course, students would be able to
+1. apply the safety measures practiced while using the tools,
+2. develop hands-on skills for various workshop trades,
+3. design application based circuits (PCB) by assembling Electronics & Electrical
+components,
+4. install OS and device drivers.
+Detailed Syllabus: (per session plan)
+Unit   Description   Duration
+1. Industrial Processes and Safety Measures. Study of various hand tools.   8
+Assembly and disassembly of Machines as per specifications.
+Demonstration of Power tools like lathe, shaping, drilling and cutting
+tools. Introduction to pattern making.
+2. Fitting: Use and setting of fitting tools for chipping, cutting, filing,   12
+Marking, center punching, drilling, tapping
+Sheet Metals fabrication: Use of hand tools for cutting, shearing,
+bending, edge folding and other operations.
+3. Welding: Study of operation of Arc welding, Simple butt and Lap   10
+welded joints, Fabrication of a welding job; Simple assignments to
+build proof of concept.
+Signature
+(Prepared by Concerned Faculty/HOD)
+MBA Tech. AI / Semester-I / 2021-22 / Page 17
+--- page 18 ---
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+4. Printed Circuit boards Designing: Understanding the safety measures   10
+for assembly and identification of components; Ability to design PCB
+for small applications
+5. Soldiering and Joining Processes: Introduction to joining processes and   4
+soldering; Soldering Techniques and circuit assembly
+6. Study, demonstration and identification of common electrical   4
+materials such as wires, cables, switches, fuses.
+7. Introduction to PC Hardware: Study of basic I/O systems, Types of   12
+Memories- Static RAM and Dynamic RAM, ROM, PROM, EPROM,
+EEPROM, CPU (Central Processing Unit)- ALU and control unit.
+Knowledge of PC Configurations. Power on Self-Test for debugging.
+Installation of OS (Operating Software) Windows XP, installation of
+different types of Service Packs, Vista and Windows-7 etc.
+Installation of Device Drivers: Different types of Motherboard drivers,
+LAN, Audio, and Video.
+Total   60
+Text Books
+1. K.C. John, ”Mechanical Workshop Practice”, PHI Learning Pvt. Ltd. 2nd Edition
+2014.
+2. P. N. Rao, “Manufacturing Technology-Vol I, Tata McGraw Hill. 4th Edition 2014.
+3. R.S. Khandpur, “Printed Circuit Boards: Design, Fabrication, assembly and
+testing”, Tata McGraw Hill, 1st Edition 2005.
+4. Dan Gookin, “Troubleshooting and maintaining your PC”, Wiley, 3rd Edition 2017.
+Reference Books
+1. P.F. Ostwald, ‘’Manufacturing Processes and Systems”, John Willy & Sons INC. UK,
+9th Edition 2008.
+2. R.P. Singh, “Electrical Workshop: Safety, Commissioning, maintenance and testing
+of electrical equipment”, IK International Publishing House Pvt. Ltd. 3rd Edition
+2012.
+Signature
+(Prepared by Concerned Faculty/HOD)
+MBA Tech. AI / Semester-I / 2021-22 / Page 18
+--- page 19 ---
+SVKM’s NMIMS
+Mukesh Patel School of Technology Management & Engineering
+Any other information
+Total Marks of Internal Continuous Assessment (ICA): -- 50 Marks
+Distribution of ICA Marks
+Description of ICA   Marks
+Class Test   NA
+Term Work   50
+Total Marks :   50
+Details of Term Work
+1. Demonstration of Industrial Safety practices
+2. Demonstration of Power Tools
+3. Jobs involving fitting,
+4. Jobs involving sheet metal
+5. Jobs involving welding
+6. Designing of Printed Circuit Board (PCB) for small electronic applications
+7. Classify and summarize different types of:
+a. cables, connectors, plugs and sockets
+b. switches ,holders, earthling and household wirings
+8. Study of joining processes and soldering technique for circuit assembly
+9. Study of basic I/O systems, Static RAM and Dynamic RAM, ROM, PROM,
+EPROM, EEPROM, CPU (Central Processing Unit)- ALU and control unit
+10. Study of installation of device drivers including different types of Motherboard
+drivers, LAN, Audio, and Video.
+Signature
+(Prepared by Concerned Faculty/HOD)
+MBA Tech. AI / Semester-I / 2021-22 / Page 19
 ````

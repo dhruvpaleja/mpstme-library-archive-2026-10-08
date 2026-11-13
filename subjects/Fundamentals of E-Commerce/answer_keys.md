@@ -160,6 +160,18 @@ these measures did not work well either.
 Legitimacy: Legitimacy is the idea that those subject to laws should have
 some
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+om
+
+Aa Service system —{ [Backend apts}
+Web Server Application Server ,
+
+ee Intranet vs
+
+Client side — a, ~ Berver side ——_—_
+
+Figure 1.9 Typical architecture of a web-based e-commerce system
 --- page 4 ---
 role in formulating them. Some cultures allow their governments to
 operate with a high degree of autonomy and unquestioned
@@ -507,6 +519,20 @@ BL-3   M
 [05]
 large enterprises.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Customer Broker Merchant
+
+© Buy the scrips of different vendors
+
+>|
+< @ Send the aggregated scrips
+@ Pay by the senps > ® Check for the validity
+of the scrips and whether
+they have been spent
+from the database
+
+® Confirm the payment
 --- page 11 ---
 Syno E-commerce software requirements vary significantly between small
 ptic   businesses and large enterprises due to differences in scale, budget,
@@ -601,6 +627,28 @@ d) Competitive Advantage
 • Enables organizations to plan strategies to outperform competitors.
 • Supports innovation and market positioning.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+1. Difference between E-Commerce and E-Business (Tabular Form)
+
+Basis E-Commerce E-Business
+
+Definition Buying and selling of goods/services online Use of digital technolo}
+operations
+
+Scope Narrow (only transactions) Broad (includes all bust
+
+Focus Customer transactions and sales Internal and external b
+
+Activities Online ordering, payment, product listing Inventory, CRM, SCM,
+
+Technology Used Website, payment gateway ERP, CRM, databases, v
+
+Interaction Type Mainly customer-focused Includes customers, su
+
+Example Online purchase of products Managing supply chair]
+
+operations
 --- page 13 ---
 3. Importance of Organizational Alignment (Application)
 a) Coordination Between Departments
@@ -783,6 +831,18 @@ these measures did not work well either.
 Legitimacy: Legitimacy is the idea that those subject to laws should have
 some
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Ti
+
+Aa Service system —{ [Backend spn}
+Web Server Application Server ,
+
+ee Intranet vs
+
+Client side — i, ~ Barver side ——_—_
+
+Figure 1.9 Typical architecture of a web-based e-commerce system
 --- page 4 ---
 role in formulating them. Some cultures allow their governments to
 operate with a high degree of autonomy and unquestioned
@@ -1130,6 +1190,20 @@ BL-3   M
 [05]
 large enterprises.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Customer Broker Merchant
+
+© Buy the scrips of different vendors
+
+>|
+< @ Send the aggregated scrips
+@ Pay by the senps > ® Check for the validity
+of the scrips and whether
+they have been spent
+from the database
+
+® Confirm the payment
 --- page 11 ---
 Syno E-commerce software requirements vary significantly between small
 ptic   businesses and large enterprises due to differences in scale, budget,
@@ -1224,6 +1298,28 @@ d) Competitive Advantage
 • Enables organizations to plan strategies to outperform competitors.
 • Supports innovation and market positioning.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+1. Difference between E-Commerce and E-Business (Tabular Form)
+
+Basis E-Commerce E-Business
+
+Definition Buying and selling of goods/services online Use of digital technolo}
+operations
+
+Scope Narrow (only transactions) Broad (includes all bust
+
+Focus Customer transactions and sales Internal and external b
+
+Activities Online ordering, payment, product listing Inventory, CRM, SCM,
+
+Technology Used Website, payment gateway ERP, CRM, databases, v
+
+Interaction Type Mainly customer-focused Includes customers, su
+
+Example Online purchase of products Managing supply chair]
+
+operations
 --- page 13 ---
 3. Importance of Organizational Alignment (Application)
 a) Coordination Between Departments
@@ -1301,6 +1397,24 @@ ptic   1 Cardholder: The consumer making the purchase.   each
 network.
 6 Certification Authority (CA): Issues the digital certificates.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Step Contract element Participant Action
+
+1 Invites offers Seller Promotes product
+through Web page
+and states conditions
+under which offers
+will be accepted (for
+example, price and
+
+shipping terms)
+2. Offer Buyer Clicks button to make :
+offer to purchase product ADD TO CART
+3. Acceptance Seller Accepts buyer's offer,
+
+processes payment,
+and ships product
 --- page 2 ---
 CO-3, SO-   c.   [5]
 How does product-based marketing differ from customer-based marketing?
@@ -1855,6 +1969,24 @@ ptic   1 Cardholder: The consumer making the purchase.   each
 network.
 6 Certification Authority (CA): Issues the digital certificates.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Step Contract element Participant Action
+
+1 Invites offers Seller Promotes product
+through Web page
+and states conditions
+under which offers
+will be accepted (for
+example, price and
+
+shipping terms)
+2. Offer Buyer Clicks button to make :
+offer to purchase product ADD TO CART
+3. Acceptance Seller Accepts buyer's offer,
+
+processes payment,
+and ships product
 --- page 2 ---
 CO-3, SO-   c.   [5]
 How does product-based marketing differ from customer-based marketing?
@@ -2563,6 +2695,23 @@ SO-1   and what role do they play in enhancing customer engagement for businesse
 BL-3   Virtual communities significantly influence consumer behavior and brand
 loyalty by providing a platform for customers to connect, share experiences,
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Customer Bank
+@ Sond the blinded
+coins to the bank
+© Generate the blinded coins P| Debit the and sign the
+blinded coms
+® Retum the signed blinded coins
+© Unbiind the coins
+© Pay by the coins
+© Check the validity of the coms
+and whether they have been
+pokey iow De we i © Doposs the coms
+© Confiem the deposit
+‘Shap goods or pertorm the service
+
+Figure 10.6 Basic operation of the e-cash system
 --- page 5 ---
 and interact with a brand. Here's how they impact consumer behavior and
 loyalty:
@@ -2828,6 +2977,32 @@ E-Business enables the sharing of information and business processes across
 multiple organizations for stronger, more profitable relationships.
 Q.7
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+S.No. E-COMMERCE E-BUSINESS.
+
+01. E-Commerce refers to the performing online E-Business refers to performing all type of business activities through internet.
+activities, ions over i
+02. E-Commerce is a narrow concept and it is E-Business is a broad concept and it is considered as a superset of E-Commerce.
+
+considered as a subset of E-Business.
+
+03. Commercial transactions are carried out in e- Business transactions are carried out in e-business.
+commerce.
+04, In e-commerce transactions are limited. In e-business transactions are not limited.
+05. It includes activities like buying and selling It includes activities like procurement of raw materials/goods, customer
+product, making monetary transactions etc over ‘education, supply activities buying and selling product, making monetary
+internet. transactions etc over internet.
+06. _ usually requires the use of only a website. It requires the use of multiple websites, CRMs, ERPs that connect different
+business processes.
+07. Itinvolves mandatory use of internet. It involves the use of internet, intranet or extranet.
+08. E-commerce is more appropriate in Business to E-business is more appropriate in Business to Business (B28) context.
+
+Customer (B2C) context.
+
+09. E-Commerce covers outward/external business E-Business covers internal as well as external business process/activities.
+
+process.
 --- page 10 ---
 CO-1, A   Explain Copyright as an Intellectual Property. Give an example of vicarious   05
 SO-1,4,   copyright infringement .
@@ -2871,6 +3046,19 @@ BL-2   2. Mobile   Internet   Accessibility:   Improved   mobile   internet
 infrastructure, including the expansion of 4G and 5G networks, has
 enhanced internet accessibility and speed on mobile devices.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Brand CA
+(e.g Visa
+or Master)
+
+Ge litical CA’
+(e.g. Visa Asia)
+
+User level
+cA
+
+Figure 10.2 The digital certificate system for SET [SET Book 1]
 --- page 11 ---
 3. Mobile-Friendly Websites and Apps: Businesses are increasingly
 optimizing their websites and developing mobile apps to provide
@@ -3128,6 +3316,23 @@ SO-1   and what role do they play in enhancing customer engagement for businesse
 BL-3   Virtual communities significantly influence consumer behavior and brand
 loyalty by providing a platform for customers to connect, share experiences,
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Customer Bank
+@ Sond the blinded
+coins to the bank
+© Generate the blinded coins P| Debit the and sign the
+blinded coms
+® Retum the signed blinded coins
+© Unbiind the coins
+© Pay by the coins
+© Check the validity of the coms
+and whether they have been
+pokey iow De we i © Doposs the coms
+© Confiem the deposit
+‘Shap goods or pertorm the service
+
+Figure 10.6 Basic operation of the e-cash system
 --- page 5 ---
 and interact with a brand. Here's how they impact consumer behavior and
 loyalty:
@@ -3393,6 +3598,32 @@ E-Business enables the sharing of information and business processes across
 multiple organizations for stronger, more profitable relationships.
 Q.7
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+S.No. E-COMMERCE E-BUSINESS.
+
+01. E-Commerce refers to the performing online E-Business refers to performing all type of business activities through internet.
+activities, ions over i
+02. E-Commerce is a narrow concept and it is E-Business is a broad concept and it is considered as a superset of E-Commerce.
+
+considered as a subset of E-Business.
+
+03. Commercial transactions are carried out in e- Business transactions are carried out in e-business.
+commerce.
+04, In e-commerce transactions are limited. In e-business transactions are not limited.
+05. It includes activities like buying and selling It includes activities like procurement of raw materials/goods, customer
+product, making monetary transactions etc over ‘education, supply activities buying and selling product, making monetary
+internet. transactions etc over internet.
+06. _ usually requires the use of only a website. It requires the use of multiple websites, CRMs, ERPs that connect different
+business processes.
+07. Itinvolves mandatory use of internet. It involves the use of internet, intranet or extranet.
+08. E-commerce is more appropriate in Business to E-business is more appropriate in Business to Business (B28) context.
+
+Customer (B2C) context.
+
+09. E-Commerce covers outward/external business E-Business covers internal as well as external business process/activities.
+
+process.
 --- page 10 ---
 CO-1, A   Explain Copyright as an Intellectual Property. Give an example of vicarious   05
 SO-1,4,   copyright infringement .
@@ -3436,6 +3667,19 @@ BL-2   2. Mobile   Internet   Accessibility:   Improved   mobile   internet
 infrastructure, including the expansion of 4G and 5G networks, has
 enhanced internet accessibility and speed on mobile devices.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Brand CA
+(e.g Visa
+or Master)
+
+Ge litical CA’
+(e.g. Visa Asia)
+
+User level
+cA
+
+Figure 10.2 The digital certificate system for SET [SET Book 1]
 --- page 11 ---
 3. Mobile-Friendly Websites and Apps: Businesses are increasingly
 optimizing their websites and developing mobile apps to provide
@@ -3532,6 +3776,26 @@ SO-   Contract Acceptances
 1,4   An offer: An offer is a commitment with certain terms made to another party, such as a
 BL-2   declaration of willingness to buy or sell a product or service.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Table 10.1 Comparison of the 4C payment methods
+
+Cash Credit card Check Credit/debit
+Anonymity Yes, in general No No No
+Security Good Good Good Good
+Overhead cost Lowest, Higher than Highest, Low
+in general cash and in general
+credit/debit
+because of the
+paperwork
+involved
+Transferability Yes No No No
+Divisibility Not completely Yes Yes Yes
+divisible
+Acceptability Yes, in general —_Yes, in general No, in general —_No, in general
+it can only be it can only be
+
+used locally used locally
 --- page 2 ---
 An acceptance: An acceptance is the expression of willingness to take an offer, including
 all of its stated terms.
@@ -3670,6 +3934,42 @@ secret.
 ◼ According to the scrip ID, the vendor can identify the secret from a database
 and hence reproduce the certificate.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Payee's
+bank
+
+Payer's Payee's Payer’s
+Payer Payee bank bank Payer Payee bank
+® ® © | ®
+®
+®@® ®
+®
+®
+®
+@ Send check ® Send statement
+@ Deposit check © Send report
+‘@Clear check
+
+Deposit-and-clear
+
+Payer's Payee's Payer’s Payee’s
+
+Payer Payee bank beak Payer = Payee bank bank
+© ©
+® ®
+S ®
+= ®
+
+© Send check © Send check
+
+@ Clear check @ Transfer funds
+
+@ Send report @ Send report
+
+® Send statement @ Send statement
+
+Lockbox Funds transfer
 --- page 5 ---
 Micropayment System- Payword
 ◼ Payword was proposed by Ron Rivest and Adi Shamir [1997] for supporting
@@ -3702,6 +4002,39 @@ SO-1,   Explain the M-commerce value chain in relation to infrastructure , Servi
 2, 4,5   Contents
 BL-2
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Customer Broker Merchant
+
+© Buy the scrips of ditterent vendors
+
+42 Send the aggrogated seripa
+@ Pay by the senps © Check for the validity
+of the scrips and whether
+they have been spent
+© Contirm the payment a harmeniants
+
+Figure 10.8 Basic operation of the Millicent protocol
+
+VBS
+Customer (Merchant)
+
+Send the commitment message (PWo) . |
+
+Pay 1 cent by sending PW, Check H[PW,] = PWo
+Pay 1 cont by sending PWs Check HIPW.] = PW,
+Send PW,
+
+Pay j more cents.
+By sending 1+] and PW,.,
+
+Check PW,, ,— PW,,,, recursively
+
+Redeem by sending the
+‘commitment message (PW.)
+and PW, to the broker
+
+Figure 10.9 Basic operation of the Payword protocol
 --- page 6 ---
 CO-3, B What is an application? Explain enterprise application integration in detail.   10
 SO-6   A program that performs a specific function, such as creating invoices, calculating
@@ -3896,6 +4229,36 @@ BL-3   1.Create a consumer-centric strategy.
 4.Use information management to differentiate your product.
 5.Be part of an e-business community.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+S.No. E-COMMERCE E-BUSINESS
+
+01. E-Commerce refers to the performing online E-Business refers to performing all type of business activities through internet.
+
+commercial activities, transactions over internet.
+
+02. £-Commerce is a narrow concept and it is £-Business is a broad concept and it is considered as a superset of E-Commerce.
+
+considered as a subset of E-Business.
+
+03. Commercial transactions are carried out in e- Business transactions are carried out in e-business.
+commerce.
+04. In e-commerce transactions are limited. In e-business transactions are not limited.
+05. It includes activities like buying and selling It includes activities like procurement of raw materials/goods, customer
+product, making monetary transactions etc over education, supply activities buying and selling product, making monetary
+internet. transactions etc over internet.
+06. _Itusually requires the use of only a website. It requires the use of multiple websites, CRMs, ERPs that connect different
+
+business processes.
+
+07. It involves mandatory use of internet. It involves the use of internet, intranet or extranet.
+
+08. E-commerce is more appropriate in Business to E-business is more appropriate in Business to Business (B28) context.
+Customer (B2C) context.
+
+09. E-Commerce covers outward/external business E-Business covers internal as well as external business process/activities.
+
+process.
 --- page 10 ---
 6.Executive leadership is essential.
 
@@ -3948,6 +4311,26 @@ SO-   Contract Acceptances
 1,4   An offer: An offer is a commitment with certain terms made to another party, such as a
 BL-2   declaration of willingness to buy or sell a product or service.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Table 10.1 Comparison of the 4C payment methods
+
+Cash Credit card Check Credit/debit
+Anonymity Yes, in general No No No
+Security Good Good Good Good
+Overhead cost Lowest, Higher than Highest, Low
+in general cash and in general
+credit/debit
+because of the
+paperwork
+involved
+Transferability Yes No No No
+Divisibility Not completely Yes Yes Yes
+divisible
+Acceptability Yes, in general —_Yes, in general No, in general —_No, in general
+it can only be it can only be
+
+used locally used locally
 --- page 2 ---
 An acceptance: An acceptance is the expression of willingness to take an offer, including
 all of its stated terms.
@@ -4086,6 +4469,42 @@ secret.
 ◼ According to the scrip ID, the vendor can identify the secret from a database
 and hence reproduce the certificate.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Payee's
+bank
+
+Payer's Payee's Payer’s
+Payer Payee bank bank Payer Payee bank
+® ® © | ®
+®
+®@® ®
+®
+®
+®
+@ Send check ® Send statement
+@ Deposit check © Send report
+‘@Clear check
+
+Deposit-and-clear
+
+Payer's Payee's Payer’s Payee’s
+
+Payer Payee bank beak Payer = Payee bank bank
+© ©
+® ®
+S ®
+= ®
+
+© Send check © Send check
+
+@ Clear check @ Transfer funds
+
+@ Send report @ Send report
+
+® Send statement @ Send statement
+
+Lockbox Funds transfer
 --- page 5 ---
 Micropayment System- Payword
 ◼ Payword was proposed by Ron Rivest and Adi Shamir [1997] for supporting
@@ -4118,6 +4537,39 @@ SO-1,   Explain the M-commerce value chain in relation to infrastructure , Servi
 2, 4,5   Contents
 BL-2
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Customer Broker Merchant
+
+© Buy the scrips of ditterent vendors
+
+42 Send the aggrogated seripa
+@ Pay by the senps © Check for the validity
+of the scrips and whether
+they have been spent
+© Contirm the payment a harmeniants
+
+Figure 10.8 Basic operation of the Millicent protocol
+
+VBS
+Customer (Merchant)
+
+Send the commitment message (PWo) . |
+
+Pay 1 cent by sending PW, Check H[PW,] = PWo
+Pay 1 cont by sending PWs Check HIPW.] = PW,
+Send PW,
+
+Pay j more cents.
+By sending 1+] and PW,.,
+
+Check PW,, ,— PW,,,, recursively
+
+Redeem by sending the
+‘commitment message (PW.)
+and PW, to the broker
+
+Figure 10.9 Basic operation of the Payword protocol
 --- page 6 ---
 CO-3, B What is an application? Explain enterprise application integration in detail.   10
 SO-6   A program that performs a specific function, such as creating invoices, calculating
@@ -4312,6 +4764,36 @@ BL-3   1.Create a consumer-centric strategy.
 4.Use information management to differentiate your product.
 5.Be part of an e-business community.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+S.No. E-COMMERCE E-BUSINESS
+
+01. E-Commerce refers to the performing online E-Business refers to performing all type of business activities through internet.
+
+commercial activities, transactions over internet.
+
+02. £-Commerce is a narrow concept and it is £-Business is a broad concept and it is considered as a superset of E-Commerce.
+
+considered as a subset of E-Business.
+
+03. Commercial transactions are carried out in e- Business transactions are carried out in e-business.
+commerce.
+04. In e-commerce transactions are limited. In e-business transactions are not limited.
+05. It includes activities like buying and selling It includes activities like procurement of raw materials/goods, customer
+product, making monetary transactions etc over education, supply activities buying and selling product, making monetary
+internet. transactions etc over internet.
+06. _Itusually requires the use of only a website. It requires the use of multiple websites, CRMs, ERPs that connect different
+
+business processes.
+
+07. It involves mandatory use of internet. It involves the use of internet, intranet or extranet.
+
+08. E-commerce is more appropriate in Business to E-business is more appropriate in Business to Business (B28) context.
+Customer (B2C) context.
+
+09. E-Commerce covers outward/external business E-Business covers internal as well as external business process/activities.
+
+process.
 --- page 10 ---
 6.Executive leadership is essential.
 

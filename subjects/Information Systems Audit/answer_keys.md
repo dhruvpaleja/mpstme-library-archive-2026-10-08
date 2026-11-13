@@ -855,6 +855,22 @@ client moves in two possible directions based on whether the decision involves
 building custom software or configuring existing components purchased from
 different vendors.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Phase 1—Feasibility Study
+
+Phase 2-Requirements Definition
+
+Phase 3A-Software Selection and
+
+‘Acquisition Phase 3B—Design
+
+Phase 44—Configuration Phase 4B-Development
+
+Phase 5-Final Testing and Implementation
+
+Phase 6-
+Postimplementation
 --- page 4 ---
 Build (Design by IS) If after looking at the business integration needs, a decision is
 reached that their best option is to build a custom software program. This decision is

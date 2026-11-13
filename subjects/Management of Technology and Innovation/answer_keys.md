@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2024/Sem_09/Final-Exam/MBATech (MECHANICAL ENGINEERING) - 7046/Management of Technology and Innovation/ANS_Management of Technology and Innovation(703TG0C013)_2024-2025.pdf` (+4 identical copies)
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 10 Dec 2025
 - Text: text (17 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -150,6 +151,28 @@ Answer:
 BL-3
 1. Concept Overview
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Organization
+
+Commercial perspective
+
+A
+Strategy
+
+Push Pull
+mechanisms — Technology mechanisms -
+capabilities base requirements
+(knowledge (knowledge
+flows) Ss flows)
+
+Operations
+
+| Technological perspective |
+
+Figure 1.1 TM framework
+
+Source: Based on Phaal et al. (2004).
 --- page 5 ---
 Technology–Market Interaction explains how innovation emerges from the
 interplay between technological possibilities and market needs. Successful
@@ -233,6 +256,20 @@ smartphone layouts
 ✅ Greater productivity
 ✅ Scalability and efficiency
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+
+NK
+
+Time
+
+‘A Technology development D_ Mature technology
+B Application launch E Technology substitution
+C Application growth F Technology obsolescence
+
+FIGURE 5-3
+MARKET GROWTH AT DIFFERENT STAGES OF THE TECHNOLOGY
+LIFE CYCLE
 --- page 8 ---
 •   Process innovation continues for most of the technology life cycle,
 supporting incremental product improvements
@@ -255,6 +292,34 @@ Computational AI imaging
 innovation dominates later, and discontinuities reset the game.
 Rubric for Evaluation
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+TECHNOLOGICAL PROGRESS
+The progress of technology is shown in relation to product and process innovation
+
+A
+
+se
+
+-
+— Technology
+-
+Product x il Life Cycle
+c Innovation
+6
+=
+ro
+r3 Process
+3 Innovation
+Ss
+2
+o
+a
+Technological Dominant Aging Technology
+discontinuity Design (Substitution and
+(turbulence) discontinuity)
+
+Time
 --- page 9 ---
 1. Conceptual Understanding- 1 marks
 2. Explanation of Product Innovation (Early Stage)+ Explanation of Process
@@ -548,6 +613,7 @@ identification and explanation.
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/MBATech (CHEMICAL ENGINEERING) - 7045/Management of Technology and Innovation/ANS_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 10 Dec 2025
 - Text: text (17 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -689,6 +755,28 @@ Answer:
 BL-3
 1. Concept Overview
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Organization
+
+Commercial perspective
+
+A
+Strategy
+
+Push Pull
+mechanisms — Technology mechanisms -
+capabilities base requirements
+(knowledge (knowledge
+flows) Ss flows)
+
+Operations
+
+| Technological perspective |
+
+Figure 1.1 TM framework
+
+Source: Based on Phaal et al. (2004).
 --- page 5 ---
 Technology–Market Interaction explains how innovation emerges from the
 interplay between technological possibilities and market needs. Successful
@@ -772,6 +860,20 @@ smartphone layouts
 ✅ Greater productivity
 ✅ Scalability and efficiency
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+
+NK
+
+Time
+
+‘A Technology development D_ Mature technology
+B Application launch E Technology substitution
+C Application growth F Technology obsolescence
+
+FIGURE 5-3
+MARKET GROWTH AT DIFFERENT STAGES OF THE TECHNOLOGY
+LIFE CYCLE
 --- page 8 ---
 •   Process innovation continues for most of the technology life cycle,
 supporting incremental product improvements
@@ -794,6 +896,34 @@ Computational AI imaging
 innovation dominates later, and discontinuities reset the game.
 Rubric for Evaluation
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+TECHNOLOGICAL PROGRESS
+The progress of technology is shown in relation to product and process innovation
+
+A
+
+se
+
+-
+— Technology
+-
+Product x il Life Cycle
+c Innovation
+6
+=
+ro
+r3 Process
+3 Innovation
+Ss
+2
+o
+a
+Technological Dominant Aging Technology
+discontinuity Design (Substitution and
+(turbulence) discontinuity)
+
+Time
 --- page 9 ---
 1. Conceptual Understanding- 1 marks
 2. Explanation of Product Innovation (Early Stage)+ Explanation of Process
@@ -1087,6 +1217,7 @@ identification and explanation.
 - Source: `02_Question_Papers/2025/Sem_09/Final-Exam/MBATech_IT_7041/Management of Technology and Innovation/ANS_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 10 Dec 2025
 - Text: text (17 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1228,6 +1359,28 @@ Answer:
 BL-3
 1. Concept Overview
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Organization
+
+Commercial perspective
+
+A
+Strategy
+
+Push Pull
+mechanisms — Technology mechanisms -
+capabilities base requirements
+(knowledge (knowledge
+flows) Ss flows)
+
+Operations
+
+| Technological perspective |
+
+Figure 1.1 TM framework
+
+Source: Based on Phaal et al. (2004).
 --- page 5 ---
 Technology–Market Interaction explains how innovation emerges from the
 interplay between technological possibilities and market needs. Successful
@@ -1311,6 +1464,20 @@ smartphone layouts
 ✅ Greater productivity
 ✅ Scalability and efficiency
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+
+NK
+
+Time
+
+‘A Technology development D_ Mature technology
+B Application launch E Technology substitution
+C Application growth F Technology obsolescence
+
+FIGURE 5-3
+MARKET GROWTH AT DIFFERENT STAGES OF THE TECHNOLOGY
+LIFE CYCLE
 --- page 8 ---
 •   Process innovation continues for most of the technology life cycle,
 supporting incremental product improvements
@@ -1333,6 +1500,34 @@ Computational AI imaging
 innovation dominates later, and discontinuities reset the game.
 Rubric for Evaluation
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+TECHNOLOGICAL PROGRESS
+The progress of technology is shown in relation to product and process innovation
+
+A
+
+se
+
+-
+— Technology
+-
+Product x il Life Cycle
+c Innovation
+6
+=
+ro
+r3 Process
+3 Innovation
+Ss
+2
+o
+a
+Technological Dominant Aging Technology
+discontinuity Design (Substitution and
+(turbulence) discontinuity)
+
+Time
 --- page 9 ---
 1. Conceptual Understanding- 1 marks
 2. Explanation of Product Innovation (Early Stage)+ Explanation of Process
@@ -1626,6 +1821,7 @@ identification and explanation.
 - Source: `02_Question_Papers/2025/Sem_09/Re-Exam/MBATech (MECHANICAL ENGINEERING) - 7046/Management of Technology and Innovation/ANS_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 31 Jan 2026
 - Text: mixed (16 pages), mean OCR confidence 40.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -1657,6 +1853,22 @@ time.
 Y-axis: Performance metric (e.g., chip density, speed, efficiency)
 X-axis: Time / effort / learning
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+§ NEW TECHNOLOGY MATURE-
+© | INVENTION || IMPROVEMENT TECHNOLOGY
+2| PERIOD PERIOD PERIOD
+i Embryonic || Growth Maturity Aging
+ro)
+3
+i=
+3
+4
+
+Time
+FIGURE 5-1
+
+THE S-CURVE OF TECHNOLOGICAL PROGRESS
 --- page 2 ---
 Helps in forecasting, innovation planning, and technology strategy
 Rubric for evaluation
@@ -1746,6 +1958,53 @@ Extends the life of the parent technology
 Delays maturity and obsolescence
 •   Key idea: Innovation in parts sustains the whole system
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Technology Management Activities/ Process
+
+TM Process Description What it Involves
+Identification Detecting technological Scanning, forecasting, technology
+opportunities and threats intelligence
+. Choosing technologies aligned with _ Prioritization, evaluation, and
+Selection - .
+business strategy planning
+Obtaining technology through an
+. aining technology throug! In-house R&D, licensing,
+Acquisition internal development or external . 4
+. partnerships, collaborations
+sourcing
+Exploitation / Assimilation Applying technology to generate Utilization, technology transfer,
+business value commercialization
+Protection Safeguarding knowledge and IP rights, confidentiality, knowledge
+technology assets security
+Learning Improving future decisions through Knowledge capture, continuous
+
+experience feedback improvement, best practices
+
+Pa Subtechnology I!
+
+Technology
+2 Life Cycle
+
+Life Cycle
+
+SS | Subtechnology |
+Life Cycle
+
+Subtechnology III
+Life Cycle
+
+TECHNOLOGY
+CYCLE
+
+Time
+
+FIGURE 5-4
+
+MULTIPLE-GENERATION TECHNOLOGIES
+
+Subtechnology life cycles in multiple generations of innovation shape the
+overall technology life cycle.
 --- page 5 ---
 Q3
 a   Illustrate and Explain the Market Growth at different Stages of Technology Life Cycle?
@@ -1775,6 +2034,21 @@ BL- 3
 Rubric for Evaluation
 Concept and Diagram Explanation-1 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+
+; a
+WV
+KN
+
+Time
+A Technology development D Mature technology
+B Application launch E Technology substitution
+C Application growth F Technology obsolescence
+
+FIGURE 5-3
+MARKET GROWTH AT DIFFERENT STAGES OF THE TECHNOLOGY
+UFECYCLE
 --- page 6 ---
 Identification of Stages of Market Growth-2 marks
 Explanation of Market Behavior in Each Stage-2 marks
@@ -1794,6 +2068,39 @@ Rubric for evaluation
 2. Key Characteristics of Diffusion Process-2 marks
 3. Explanation of Technology Adoption Life Cycle-2 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Technology Adoption / Diffusion-Strategy for Each Segment
+
+Psychographic Label Winning Strategy for
+
+Adopter Category (Rogers) (moore) % of Market Core Mindset Firms
+Love experimenting; Focus on tech features,
+Innovators Technology Enthusiasts 2.5% willing to try unfinished —_ early access, open betas,
+products and deep product demos
+
+Sell vision, differentiation,
+
+Want breakthi h
+ant breakthroug and future potential —
+
+Early Adopters Visionaries 13.5% advantages: willing to take create case studies and
+thought leadership
+Gap between vision & Requires whole product
+(The Chasm) = — P Betw q| P
+practicality strategy and market proof
+Sell reliability, evidence,
+on . Practical, value-driven, references, ROI,
+Early Majority Pragmatists 34% want proven ROI testimonials, industry
+standards
+Risk-averse, cost- Sell convenience, low
+Late Majority Conservatives 34% conscious, follow the cost, standardization,
+crowd support & warranties
+Minimal investment —
+. iW .
+Laggards Skeptics 16% Resist change until forced; intain low-cost version
+
+prefer old solutions or exit stratogy
 --- page 7 ---
 Q4
 [10]
@@ -1820,6 +2127,27 @@ technology based on two dimensions:
 1. Level of Technological Capability within the Firm (Low → High)
 2. Degree of Familiarity with the Technology (Low → High)
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+FIGURE 10-1
+FACTORS AFFECTING THE TECHNOLOGY ACQUISITION DECISION
+
+Source: David Ford, "Develop Your Technology Strategy.” Reprinted from Long Range Planning Vol. 21,
+No. 5, 1988, p. 91, with permission from Elsevier Science.
+
+Companys Commitment? Technology
+JAcquisition : Urgency of tr Life Qycle || Categories of
+Methods Standing Acquisition Involved Position Technology
+pias r Most Distinctive
+IntemalR&D | High Lowest Eariest or Critical
+Joint Venture | Lower Early prong
+Contracted-out | f Distinctive
+RaD lah ee or Basic
+License - in 2 High i Lowest Later —
+eC ’ No Commitment /
+ie nyoo seal
+product or pest Low High pe ct All Stages Extemal
+production
 --- page 8 ---
 Case Context – Core Steel Ltd. (2 marks)
 • Existing Strengths: Mechanical and process engineering expertise (high
@@ -1853,6 +2181,23 @@ long-term competitiveness, ensuring a smooth Industry 4.0 transition within the
 set timeframe.
 Rubric for evaluation
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+4. Alternative Options - Evaluation (2 marks)
+
+Option Suitability Reason
+
+Internal R&D %& Not feasible Requires long gestation period; Core Steel lacks
+digital expertise.
+
+Contracted R&D (TechSense India) A\ Moderate May deliver components but not core capability;
+limited learning transfer.
+
+License-in (Siemens Suite) A\ Short-term fix Provides tools, not embedded know-how; risk of
+dependency.
+Buy Firm (Innova Automate Pvt. % Risky Expensive, integration challenges, and cultural
+
+Ltd.) mismatch likely.
 --- page 9 ---
 Q5
 a   Tesla Inc. has developed a next-generation 4680 battery cell design in its R&D lab and
@@ -1892,6 +2237,16 @@ of concept for scaling. The Fremont pilot line (2023–24) was instrumental in r
 Tesla’s dry-electrode process before transferring to other Gigafactories.
 5. Training and Skill Development
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Section Description Marks
+
+Concept of Ford's Matrix Explanation and structure 2
+Case Context Firm's position analysis 2
+Recommended Strategy Justification for JV 3
+Alternatives Evaluation Comparative reasoning 2
+
+Conclusion Summary and alignment 1
 --- page 10 ---
 Workforce capability is critical. Tesla conducts intensive training programs for plant
 engineers and operators, focusing on material handling, battery safety, automation,
@@ -2099,6 +2454,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2025/Sem_09/Re-Exam/MBATech_AI_7051/Management of Technology and Innovation/ANS_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 31 Jan 2026
 - Text: mixed (16 pages), mean OCR confidence 40.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -2130,6 +2486,22 @@ time.
 Y-axis: Performance metric (e.g., chip density, speed, efficiency)
 X-axis: Time / effort / learning
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+§ NEW TECHNOLOGY MATURE-
+© | INVENTION || IMPROVEMENT TECHNOLOGY
+2| PERIOD PERIOD PERIOD
+i Embryonic || Growth Maturity Aging
+ro)
+3
+i=
+3
+4
+
+Time
+FIGURE 5-1
+
+THE S-CURVE OF TECHNOLOGICAL PROGRESS
 --- page 2 ---
 Helps in forecasting, innovation planning, and technology strategy
 Rubric for evaluation
@@ -2219,6 +2591,53 @@ Extends the life of the parent technology
 Delays maturity and obsolescence
 •   Key idea: Innovation in parts sustains the whole system
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Technology Management Activities/ Process
+
+TM Process Description What it Involves
+Identification Detecting technological Scanning, forecasting, technology
+opportunities and threats intelligence
+. Choosing technologies aligned with _ Prioritization, evaluation, and
+Selection - .
+business strategy planning
+Obtaining technology through an
+. aining technology throug! In-house R&D, licensing,
+Acquisition internal development or external . 4
+. partnerships, collaborations
+sourcing
+Exploitation / Assimilation Applying technology to generate Utilization, technology transfer,
+business value commercialization
+Protection Safeguarding knowledge and IP rights, confidentiality, knowledge
+technology assets security
+Learning Improving future decisions through Knowledge capture, continuous
+
+experience feedback improvement, best practices
+
+Pa Subtechnology I!
+
+Technology
+2 Life Cycle
+
+Life Cycle
+
+SS | Subtechnology |
+Life Cycle
+
+Subtechnology III
+Life Cycle
+
+TECHNOLOGY
+CYCLE
+
+Time
+
+FIGURE 5-4
+
+MULTIPLE-GENERATION TECHNOLOGIES
+
+Subtechnology life cycles in multiple generations of innovation shape the
+overall technology life cycle.
 --- page 5 ---
 Q3
 a   Illustrate and Explain the Market Growth at different Stages of Technology Life Cycle?
@@ -2248,6 +2667,21 @@ BL- 3
 Rubric for Evaluation
 Concept and Diagram Explanation-1 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+
+; a
+WV
+KN
+
+Time
+A Technology development D Mature technology
+B Application launch E Technology substitution
+C Application growth F Technology obsolescence
+
+FIGURE 5-3
+MARKET GROWTH AT DIFFERENT STAGES OF THE TECHNOLOGY
+UFECYCLE
 --- page 6 ---
 Identification of Stages of Market Growth-2 marks
 Explanation of Market Behavior in Each Stage-2 marks
@@ -2267,6 +2701,39 @@ Rubric for evaluation
 2. Key Characteristics of Diffusion Process-2 marks
 3. Explanation of Technology Adoption Life Cycle-2 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Technology Adoption / Diffusion-Strategy for Each Segment
+
+Psychographic Label Winning Strategy for
+
+Adopter Category (Rogers) (moore) % of Market Core Mindset Firms
+Love experimenting; Focus on tech features,
+Innovators Technology Enthusiasts 2.5% willing to try unfinished —_ early access, open betas,
+products and deep product demos
+
+Sell vision, differentiation,
+
+Want breakthi h
+ant breakthroug and future potential —
+
+Early Adopters Visionaries 13.5% advantages: willing to take create case studies and
+thought leadership
+Gap between vision & Requires whole product
+(The Chasm) = — P Betw q| P
+practicality strategy and market proof
+Sell reliability, evidence,
+on . Practical, value-driven, references, ROI,
+Early Majority Pragmatists 34% want proven ROI testimonials, industry
+standards
+Risk-averse, cost- Sell convenience, low
+Late Majority Conservatives 34% conscious, follow the cost, standardization,
+crowd support & warranties
+Minimal investment —
+. iW .
+Laggards Skeptics 16% Resist change until forced; intain low-cost version
+
+prefer old solutions or exit stratogy
 --- page 7 ---
 Q4
 [10]
@@ -2293,6 +2760,27 @@ technology based on two dimensions:
 1. Level of Technological Capability within the Firm (Low → High)
 2. Degree of Familiarity with the Technology (Low → High)
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+FIGURE 10-1
+FACTORS AFFECTING THE TECHNOLOGY ACQUISITION DECISION
+
+Source: David Ford, "Develop Your Technology Strategy.” Reprinted from Long Range Planning Vol. 21,
+No. 5, 1988, p. 91, with permission from Elsevier Science.
+
+Companys Commitment? Technology
+JAcquisition : Urgency of tr Life Qycle || Categories of
+Methods Standing Acquisition Involved Position Technology
+pias r Most Distinctive
+IntemalR&D | High Lowest Eariest or Critical
+Joint Venture | Lower Early prong
+Contracted-out | f Distinctive
+RaD lah ee or Basic
+License - in 2 High i Lowest Later —
+eC ’ No Commitment /
+ie nyoo seal
+product or pest Low High pe ct All Stages Extemal
+production
 --- page 8 ---
 Case Context – Core Steel Ltd. (2 marks)
 • Existing Strengths: Mechanical and process engineering expertise (high
@@ -2326,6 +2814,23 @@ long-term competitiveness, ensuring a smooth Industry 4.0 transition within the
 set timeframe.
 Rubric for evaluation
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+4. Alternative Options - Evaluation (2 marks)
+
+Option Suitability Reason
+
+Internal R&D %& Not feasible Requires long gestation period; Core Steel lacks
+digital expertise.
+
+Contracted R&D (TechSense India) A\ Moderate May deliver components but not core capability;
+limited learning transfer.
+
+License-in (Siemens Suite) A\ Short-term fix Provides tools, not embedded know-how; risk of
+dependency.
+Buy Firm (Innova Automate Pvt. % Risky Expensive, integration challenges, and cultural
+
+Ltd.) mismatch likely.
 --- page 9 ---
 Q5
 a   Tesla Inc. has developed a next-generation 4680 battery cell design in its R&D lab and
@@ -2365,6 +2870,16 @@ of concept for scaling. The Fremont pilot line (2023–24) was instrumental in r
 Tesla’s dry-electrode process before transferring to other Gigafactories.
 5. Training and Skill Development
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Section Description Marks
+
+Concept of Ford's Matrix Explanation and structure 2
+Case Context Firm's position analysis 2
+Recommended Strategy Justification for JV 3
+Alternatives Evaluation Comparative reasoning 2
+
+Conclusion Summary and alignment 1
 --- page 10 ---
 Workforce capability is critical. Tesla conducts intensive training programs for plant
 engineers and operators, focusing on material handling, battery safety, automation,
@@ -2572,6 +3087,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2025/Sem_09/Re-Exam/MBATech_Computer_7047/Management of Technology and Innovation/ANS_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 31 Jan 2026
 - Text: mixed (16 pages), mean OCR confidence 40.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -2603,6 +3119,22 @@ time.
 Y-axis: Performance metric (e.g., chip density, speed, efficiency)
 X-axis: Time / effort / learning
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+§ NEW TECHNOLOGY MATURE-
+© | INVENTION || IMPROVEMENT TECHNOLOGY
+2| PERIOD PERIOD PERIOD
+i Embryonic || Growth Maturity Aging
+ro)
+3
+i=
+3
+4
+
+Time
+FIGURE 5-1
+
+THE S-CURVE OF TECHNOLOGICAL PROGRESS
 --- page 2 ---
 Helps in forecasting, innovation planning, and technology strategy
 Rubric for evaluation
@@ -2692,6 +3224,53 @@ Extends the life of the parent technology
 Delays maturity and obsolescence
 •   Key idea: Innovation in parts sustains the whole system
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Technology Management Activities/ Process
+
+TM Process Description What it Involves
+Identification Detecting technological Scanning, forecasting, technology
+opportunities and threats intelligence
+. Choosing technologies aligned with _ Prioritization, evaluation, and
+Selection - .
+business strategy planning
+Obtaining technology through an
+. aining technology throug! In-house R&D, licensing,
+Acquisition internal development or external . 4
+. partnerships, collaborations
+sourcing
+Exploitation / Assimilation Applying technology to generate Utilization, technology transfer,
+business value commercialization
+Protection Safeguarding knowledge and IP rights, confidentiality, knowledge
+technology assets security
+Learning Improving future decisions through Knowledge capture, continuous
+
+experience feedback improvement, best practices
+
+Pa Subtechnology I!
+
+Technology
+2 Life Cycle
+
+Life Cycle
+
+SS | Subtechnology |
+Life Cycle
+
+Subtechnology III
+Life Cycle
+
+TECHNOLOGY
+CYCLE
+
+Time
+
+FIGURE 5-4
+
+MULTIPLE-GENERATION TECHNOLOGIES
+
+Subtechnology life cycles in multiple generations of innovation shape the
+overall technology life cycle.
 --- page 5 ---
 Q3
 a   Illustrate and Explain the Market Growth at different Stages of Technology Life Cycle?
@@ -2721,6 +3300,21 @@ BL- 3
 Rubric for Evaluation
 Concept and Diagram Explanation-1 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+
+; a
+WV
+KN
+
+Time
+A Technology development D Mature technology
+B Application launch E Technology substitution
+C Application growth F Technology obsolescence
+
+FIGURE 5-3
+MARKET GROWTH AT DIFFERENT STAGES OF THE TECHNOLOGY
+UFECYCLE
 --- page 6 ---
 Identification of Stages of Market Growth-2 marks
 Explanation of Market Behavior in Each Stage-2 marks
@@ -2740,6 +3334,39 @@ Rubric for evaluation
 2. Key Characteristics of Diffusion Process-2 marks
 3. Explanation of Technology Adoption Life Cycle-2 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Technology Adoption / Diffusion-Strategy for Each Segment
+
+Psychographic Label Winning Strategy for
+
+Adopter Category (Rogers) (moore) % of Market Core Mindset Firms
+Love experimenting; Focus on tech features,
+Innovators Technology Enthusiasts 2.5% willing to try unfinished —_ early access, open betas,
+products and deep product demos
+
+Sell vision, differentiation,
+
+Want breakthi h
+ant breakthroug and future potential —
+
+Early Adopters Visionaries 13.5% advantages: willing to take create case studies and
+thought leadership
+Gap between vision & Requires whole product
+(The Chasm) = — P Betw q| P
+practicality strategy and market proof
+Sell reliability, evidence,
+on . Practical, value-driven, references, ROI,
+Early Majority Pragmatists 34% want proven ROI testimonials, industry
+standards
+Risk-averse, cost- Sell convenience, low
+Late Majority Conservatives 34% conscious, follow the cost, standardization,
+crowd support & warranties
+Minimal investment —
+. iW .
+Laggards Skeptics 16% Resist change until forced; intain low-cost version
+
+prefer old solutions or exit stratogy
 --- page 7 ---
 Q4
 [10]
@@ -2766,6 +3393,27 @@ technology based on two dimensions:
 1. Level of Technological Capability within the Firm (Low → High)
 2. Degree of Familiarity with the Technology (Low → High)
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+FIGURE 10-1
+FACTORS AFFECTING THE TECHNOLOGY ACQUISITION DECISION
+
+Source: David Ford, "Develop Your Technology Strategy.” Reprinted from Long Range Planning Vol. 21,
+No. 5, 1988, p. 91, with permission from Elsevier Science.
+
+Companys Commitment? Technology
+JAcquisition : Urgency of tr Life Qycle || Categories of
+Methods Standing Acquisition Involved Position Technology
+pias r Most Distinctive
+IntemalR&D | High Lowest Eariest or Critical
+Joint Venture | Lower Early prong
+Contracted-out | f Distinctive
+RaD lah ee or Basic
+License - in 2 High i Lowest Later —
+eC ’ No Commitment /
+ie nyoo seal
+product or pest Low High pe ct All Stages Extemal
+production
 --- page 8 ---
 Case Context – Core Steel Ltd. (2 marks)
 • Existing Strengths: Mechanical and process engineering expertise (high
@@ -2799,6 +3447,23 @@ long-term competitiveness, ensuring a smooth Industry 4.0 transition within the
 set timeframe.
 Rubric for evaluation
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+4. Alternative Options - Evaluation (2 marks)
+
+Option Suitability Reason
+
+Internal R&D %& Not feasible Requires long gestation period; Core Steel lacks
+digital expertise.
+
+Contracted R&D (TechSense India) A\ Moderate May deliver components but not core capability;
+limited learning transfer.
+
+License-in (Siemens Suite) A\ Short-term fix Provides tools, not embedded know-how; risk of
+dependency.
+Buy Firm (Innova Automate Pvt. % Risky Expensive, integration challenges, and cultural
+
+Ltd.) mismatch likely.
 --- page 9 ---
 Q5
 a   Tesla Inc. has developed a next-generation 4680 battery cell design in its R&D lab and
@@ -2838,6 +3503,16 @@ of concept for scaling. The Fremont pilot line (2023–24) was instrumental in r
 Tesla’s dry-electrode process before transferring to other Gigafactories.
 5. Training and Skill Development
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Section Description Marks
+
+Concept of Ford's Matrix Explanation and structure 2
+Case Context Firm's position analysis 2
+Recommended Strategy Justification for JV 3
+Alternatives Evaluation Comparative reasoning 2
+
+Conclusion Summary and alignment 1
 --- page 10 ---
 Workforce capability is critical. Tesla conducts intensive training programs for plant
 engineers and operators, focusing on material handling, battery safety, automation,
@@ -3045,6 +3720,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2025/Sem_09/Re-Exam/MBATech_IT_7041/Management of Technology and Innovation/ANS_Management of Technology and Innovation(703TG0C013)_2025-2026.pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 31 Jan 2026
 - Text: mixed (16 pages), mean OCR confidence 40.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -3076,6 +3752,22 @@ time.
 Y-axis: Performance metric (e.g., chip density, speed, efficiency)
 X-axis: Time / effort / learning
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+§ NEW TECHNOLOGY MATURE-
+© | INVENTION || IMPROVEMENT TECHNOLOGY
+2| PERIOD PERIOD PERIOD
+i Embryonic || Growth Maturity Aging
+ro)
+3
+i=
+3
+4
+
+Time
+FIGURE 5-1
+
+THE S-CURVE OF TECHNOLOGICAL PROGRESS
 --- page 2 ---
 Helps in forecasting, innovation planning, and technology strategy
 Rubric for evaluation
@@ -3165,6 +3857,53 @@ Extends the life of the parent technology
 Delays maturity and obsolescence
 •   Key idea: Innovation in parts sustains the whole system
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Technology Management Activities/ Process
+
+TM Process Description What it Involves
+Identification Detecting technological Scanning, forecasting, technology
+opportunities and threats intelligence
+. Choosing technologies aligned with _ Prioritization, evaluation, and
+Selection - .
+business strategy planning
+Obtaining technology through an
+. aining technology throug! In-house R&D, licensing,
+Acquisition internal development or external . 4
+. partnerships, collaborations
+sourcing
+Exploitation / Assimilation Applying technology to generate Utilization, technology transfer,
+business value commercialization
+Protection Safeguarding knowledge and IP rights, confidentiality, knowledge
+technology assets security
+Learning Improving future decisions through Knowledge capture, continuous
+
+experience feedback improvement, best practices
+
+Pa Subtechnology I!
+
+Technology
+2 Life Cycle
+
+Life Cycle
+
+SS | Subtechnology |
+Life Cycle
+
+Subtechnology III
+Life Cycle
+
+TECHNOLOGY
+CYCLE
+
+Time
+
+FIGURE 5-4
+
+MULTIPLE-GENERATION TECHNOLOGIES
+
+Subtechnology life cycles in multiple generations of innovation shape the
+overall technology life cycle.
 --- page 5 ---
 Q3
 a   Illustrate and Explain the Market Growth at different Stages of Technology Life Cycle?
@@ -3194,6 +3933,21 @@ BL- 3
 Rubric for Evaluation
 Concept and Diagram Explanation-1 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+
+; a
+WV
+KN
+
+Time
+A Technology development D Mature technology
+B Application launch E Technology substitution
+C Application growth F Technology obsolescence
+
+FIGURE 5-3
+MARKET GROWTH AT DIFFERENT STAGES OF THE TECHNOLOGY
+UFECYCLE
 --- page 6 ---
 Identification of Stages of Market Growth-2 marks
 Explanation of Market Behavior in Each Stage-2 marks
@@ -3213,6 +3967,39 @@ Rubric for evaluation
 2. Key Characteristics of Diffusion Process-2 marks
 3. Explanation of Technology Adoption Life Cycle-2 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Technology Adoption / Diffusion-Strategy for Each Segment
+
+Psychographic Label Winning Strategy for
+
+Adopter Category (Rogers) (moore) % of Market Core Mindset Firms
+Love experimenting; Focus on tech features,
+Innovators Technology Enthusiasts 2.5% willing to try unfinished —_ early access, open betas,
+products and deep product demos
+
+Sell vision, differentiation,
+
+Want breakthi h
+ant breakthroug and future potential —
+
+Early Adopters Visionaries 13.5% advantages: willing to take create case studies and
+thought leadership
+Gap between vision & Requires whole product
+(The Chasm) = — P Betw q| P
+practicality strategy and market proof
+Sell reliability, evidence,
+on . Practical, value-driven, references, ROI,
+Early Majority Pragmatists 34% want proven ROI testimonials, industry
+standards
+Risk-averse, cost- Sell convenience, low
+Late Majority Conservatives 34% conscious, follow the cost, standardization,
+crowd support & warranties
+Minimal investment —
+. iW .
+Laggards Skeptics 16% Resist change until forced; intain low-cost version
+
+prefer old solutions or exit stratogy
 --- page 7 ---
 Q4
 [10]
@@ -3239,6 +4026,27 @@ technology based on two dimensions:
 1. Level of Technological Capability within the Firm (Low → High)
 2. Degree of Familiarity with the Technology (Low → High)
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+FIGURE 10-1
+FACTORS AFFECTING THE TECHNOLOGY ACQUISITION DECISION
+
+Source: David Ford, "Develop Your Technology Strategy.” Reprinted from Long Range Planning Vol. 21,
+No. 5, 1988, p. 91, with permission from Elsevier Science.
+
+Companys Commitment? Technology
+JAcquisition : Urgency of tr Life Qycle || Categories of
+Methods Standing Acquisition Involved Position Technology
+pias r Most Distinctive
+IntemalR&D | High Lowest Eariest or Critical
+Joint Venture | Lower Early prong
+Contracted-out | f Distinctive
+RaD lah ee or Basic
+License - in 2 High i Lowest Later —
+eC ’ No Commitment /
+ie nyoo seal
+product or pest Low High pe ct All Stages Extemal
+production
 --- page 8 ---
 Case Context – Core Steel Ltd. (2 marks)
 • Existing Strengths: Mechanical and process engineering expertise (high
@@ -3272,6 +4080,23 @@ long-term competitiveness, ensuring a smooth Industry 4.0 transition within the
 set timeframe.
 Rubric for evaluation
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+4. Alternative Options - Evaluation (2 marks)
+
+Option Suitability Reason
+
+Internal R&D %& Not feasible Requires long gestation period; Core Steel lacks
+digital expertise.
+
+Contracted R&D (TechSense India) A\ Moderate May deliver components but not core capability;
+limited learning transfer.
+
+License-in (Siemens Suite) A\ Short-term fix Provides tools, not embedded know-how; risk of
+dependency.
+Buy Firm (Innova Automate Pvt. % Risky Expensive, integration challenges, and cultural
+
+Ltd.) mismatch likely.
 --- page 9 ---
 Q5
 a   Tesla Inc. has developed a next-generation 4680 battery cell design in its R&D lab and
@@ -3311,6 +4136,16 @@ of concept for scaling. The Fremont pilot line (2023–24) was instrumental in r
 Tesla’s dry-electrode process before transferring to other Gigafactories.
 5. Training and Skill Development
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Section Description Marks
+
+Concept of Ford's Matrix Explanation and structure 2
+Case Context Firm's position analysis 2
+Recommended Strategy Justification for JV 3
+Alternatives Evaluation Comparative reasoning 2
+
+Conclusion Summary and alignment 1
 --- page 10 ---
 Workforce capability is critical. Tesla conducts intensive training programs for plant
 engineers and operators, focusing on material handling, battery safety, automation,

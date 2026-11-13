@@ -3047,6 +3047,26 @@ internal cost structure
 •   Uses activity-based costing to evaluate activities
 • Same for significant competitors
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Primary Supply
+
+Activities Chain oe Sales and : Profit
+‘and Manage- Operations Distribution Marketing Service Margin
+Costs ment
+
+A
+
+Product R&D, Technology, and Systems Development
+Support
+
+Activities
+and
+Costs
+
+Human Resource Management
+
+General Administration
 --- page 8 ---
 (Marking Scheme – Value Chain diagram and explanation-3 ,
 process 2 )
@@ -3195,6 +3215,34 @@ Answer :
 ( Top down guidance – 2marks , enforcing consistency -2 marks , creation of
 work climate 2 marks)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Provide top-down guidance about how certain
+things need to be done
+¢ Channel individual and group efforts along a
+strategy-supportive path
+¢ Align the actions and behavior of company
+personnel with the requirements for good
+strategy execution
+¢ Place limits on independent action and help
+overcome resistance to change
+
+Well-Conceived
+
+Help enforce consistency in how strategy-critical
+activities are performed
+
+and ¢ Improve the quality and reliability of
+Procedures strategy execution
+
+Policies
+
+* Help coordinate the strategy execution efforts
+of individuals and groups throughout the
+organization
+
+Promote the creation of a work climate that
+facilitates good strategy execution
 ````
 
 ## 2024-25 · Final-Exam · Sem 10 · Answer key · paper bf781a7c9127
@@ -3457,6 +3505,26 @@ internal cost structure
 •   Uses activity-based costing to evaluate activities
 • Same for significant competitors
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Primary Supply
+
+Activities Chain oe Sales and : Profit
+‘and Manage- Operations Distribution Marketing Service Margin
+Costs ment
+
+A
+
+Product R&D, Technology, and Systems Development
+Support
+
+Activities
+and
+Costs
+
+Human Resource Management
+
+General Administration
 --- page 8 ---
 (Marking Scheme – Value Chain diagram and explanation-3 ,
 process 2 )
@@ -3605,6 +3673,34 @@ Answer :
 ( Top down guidance – 2marks , enforcing consistency -2 marks , creation of
 work climate 2 marks)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Provide top-down guidance about how certain
+things need to be done
+¢ Channel individual and group efforts along a
+strategy-supportive path
+¢ Align the actions and behavior of company
+personnel with the requirements for good
+strategy execution
+¢ Place limits on independent action and help
+overcome resistance to change
+
+Well-Conceived
+
+Help enforce consistency in how strategy-critical
+activities are performed
+
+and ¢ Improve the quality and reliability of
+Procedures strategy execution
+
+Policies
+
+* Help coordinate the strategy execution efforts
+of individuals and groups throughout the
+organization
+
+Promote the creation of a work climate that
+facilitates good strategy execution
 ````
 
 ## 2024-25 · Final-Exam · Sem 10 · Answer key · paper 33166ea7cf4b
@@ -3867,6 +3963,26 @@ internal cost structure
 •   Uses activity-based costing to evaluate activities
 • Same for significant competitors
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Primary Supply
+
+Activities Chain oe Sales and : Profit
+‘and Manage- Operations Distribution Marketing Service Margin
+Costs ment
+
+A
+
+Product R&D, Technology, and Systems Development
+Support
+
+Activities
+and
+Costs
+
+Human Resource Management
+
+General Administration
 --- page 8 ---
 (Marking Scheme – Value Chain diagram and explanation-3 ,
 process 2 )
@@ -4015,6 +4131,34 @@ Answer :
 ( Top down guidance – 2marks , enforcing consistency -2 marks , creation of
 work climate 2 marks)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Provide top-down guidance about how certain
+things need to be done
+¢ Channel individual and group efforts along a
+strategy-supportive path
+¢ Align the actions and behavior of company
+personnel with the requirements for good
+strategy execution
+¢ Place limits on independent action and help
+overcome resistance to change
+
+Well-Conceived
+
+Help enforce consistency in how strategy-critical
+activities are performed
+
+and ¢ Improve the quality and reliability of
+Procedures strategy execution
+
+Policies
+
+* Help coordinate the strategy execution efforts
+of individuals and groups throughout the
+organization
+
+Promote the creation of a work climate that
+facilitates good strategy execution
 ````
 
 ## 2024-25 · Final-Exam · Sem 10 · Answer key · paper f2bea31447e5
@@ -4277,6 +4421,26 @@ internal cost structure
 •   Uses activity-based costing to evaluate activities
 • Same for significant competitors
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Primary Supply
+
+Activities Chain oe Sales and : Profit
+‘and Manage- Operations Distribution Marketing Service Margin
+Costs ment
+
+A
+
+Product R&D, Technology, and Systems Development
+Support
+
+Activities
+and
+Costs
+
+Human Resource Management
+
+General Administration
 --- page 8 ---
 (Marking Scheme – Value Chain diagram and explanation-3 ,
 process 2 )
@@ -4425,6 +4589,34 @@ Answer :
 ( Top down guidance – 2marks , enforcing consistency -2 marks , creation of
 work climate 2 marks)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Provide top-down guidance about how certain
+things need to be done
+¢ Channel individual and group efforts along a
+strategy-supportive path
+¢ Align the actions and behavior of company
+personnel with the requirements for good
+strategy execution
+¢ Place limits on independent action and help
+overcome resistance to change
+
+Well-Conceived
+
+Help enforce consistency in how strategy-critical
+activities are performed
+
+and ¢ Improve the quality and reliability of
+Procedures strategy execution
+
+Policies
+
+* Help coordinate the strategy execution efforts
+of individuals and groups throughout the
+organization
+
+Promote the creation of a work climate that
+facilitates good strategy execution
 ````
 
 ## 2024-25 · Final-Exam · Sem 10 · Answer key · paper 9f2b2c4d4126
@@ -4687,6 +4879,26 @@ internal cost structure
 •   Uses activity-based costing to evaluate activities
 • Same for significant competitors
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Primary Supply
+
+Activities Chain oe Sales and : Profit
+‘and Manage- Operations Distribution Marketing Service Margin
+Costs ment
+
+A
+
+Product R&D, Technology, and Systems Development
+Support
+
+Activities
+and
+Costs
+
+Human Resource Management
+
+General Administration
 --- page 8 ---
 (Marking Scheme – Value Chain diagram and explanation-3 ,
 process 2 )
@@ -4835,6 +5047,34 @@ Answer :
 ( Top down guidance – 2marks , enforcing consistency -2 marks , creation of
 work climate 2 marks)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Provide top-down guidance about how certain
+things need to be done
+¢ Channel individual and group efforts along a
+strategy-supportive path
+¢ Align the actions and behavior of company
+personnel with the requirements for good
+strategy execution
+¢ Place limits on independent action and help
+overcome resistance to change
+
+Well-Conceived
+
+Help enforce consistency in how strategy-critical
+activities are performed
+
+and ¢ Improve the quality and reliability of
+Procedures strategy execution
+
+Policies
+
+* Help coordinate the strategy execution efforts
+of individuals and groups throughout the
+organization
+
+Promote the creation of a work climate that
+facilitates good strategy execution
 ````
 
 ## 2024-25 · Re-Exam · Sem 10 · Answer key · paper 97f44314b8c8
@@ -5033,6 +5273,33 @@ Q 3a.   manufacturing industry? (5 marks)
 CO-2 BL-3
 Answer :
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Firms in Other
+Industries Offering
+
+Substitute Products
+
+Competitive pressures coming
+from the producers of substitute
+products
+
+Rivalry among
+Competitive comeeting| Competitive
+pressures Sellers Pressures
+stemming stemming
+from supplier from buyer
+bargaining Competitive Pressures bargaining
+power coming from other firms in power
+
+the industry
+
+Competitive pressures coming from
+the threat of entry of new rivals
+
+Potential
+
+New Entran
 --- page 6 ---
 (Primary activities -3 marks , support activities – 2 marks )
 Explain the difference between tangible and intangible resources.
@@ -5040,6 +5307,62 @@ Provide examples? (5 marks)
 Q 3b.
 CO-2 BL-4
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Primary Activities (Directly Related to Production & Sales)
+
+Primary Activity Application in Automobile Industry
+
+Inbound Logistics (Supply Procurement of raw materials (steel, aluminum, plastics), batteries (for EVs), and
+Chain) components from suppliers. Efficient inventory management (e.g., Toyota's Just-in~
+
+Time system).
+
+Operations Car assembly in factories and plants using robotics and automation. Efficiency
+(Manufacturing & improvements in production lines (e.g., Ford's lean manufacturing, Tesla’s
+Assembly) Gigafactories).
+
+Outbound Logistics Distribution of vehicles via dealerships, direct sales, and online platforms (e.g.,
+
+Tesla's direct-to-customer model).
+
+Marketing & Sales Digital advertising, dealership promotions, sponsorships (e.g., Formula 1
+partnerships). Customer financing options (e.g., car leasing).
+
+After-Sales Service Warranty services, maintenance, software updates (especially for connected cars
+(Customer Support) and EVs). Service centers + 1° mobile repair units (e.g, Tesla's mobile servicing).
+
+Support Activities (Enabling Primary Activities)
+
+Support Activity Application in Automobile Industry
+
+Firm Infrastructure Corporate management, strategy, and regulatory compliance.
+
+Human Resource. Hiring skilled engineers, factory workers, and sales personnel. Continuous training
+Management (HRM) programs (e.g., Toyota's Kaizen philosophy).
+
+Technology Development _ Innovation in electric vehicles (EVs), self-driving technology, Al-powered safety
+(R&D) features, and fuel efficiency (e.g., Tesla’s Autopilot, Toyota's hydrogen cars).
+Procurement Supplier relationship management, bulk purchasing of materials, cost negotiation
+
+with steel and semiconductor suppliers.
+
+Tangible resources
+
++ Physical resources: land and real estate; manufacturing plants, equipment, or
+distribution facilities; the locations of stores, plants, or distribution centers,
+including the overall pattern of their physical locations; ownership of or access
+rights to natural resources (such as mineral deposits)
+
++ Financial resources: cash and cash equivalents; marketable securities; other
+financial assets such as a company’s credit rating and borrowing capacity
+
+* Technological assets: patents, copyrights, production technology, innovation
+technologies, technological processes
+
+* Organizational resources: |T and communication systems (satellites, servers,
+workstations, etc.); other planning, coordination, and control systems; the
+company’s organizational design and reporting structure
 --- page 7 ---
 (tangible 2 marks , and intangible resources- 3 marks )
 When a differentiation strategy works best? what are potential pitfalls
@@ -5070,6 +5393,27 @@ i.   Product features and performance
 ii.   Customer Services
 iii.   Production R &D
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Intangible resources
+
++ Human assets and intellectual capital: the education, experience, knowledge, and talent
+of the workforce, cumulative learning, and tacit knowledge of employees; collective learning
+embedded in the organization, the intellectual capital and know-how of specialized teams
+and work groups; the knowledge of key personnel concerning important business functions;
+managerial talent and leadership skill; the creativity and innovativeness of certain personnel
+
++ Brands, company image, and reputational assets: brand names, trademarks, product or
+company image, buyer loyalty and goodwill; company reputation for quality, service, and
+reliability; reputation with suppliers and partners for fair dealing
+
++ Relationships: alliances, joint ventures, or partnerships that provide access to
+technologies, specialized know-how, or geographic markets; networks of dealers or
+distributors; the trust established with various partners
+
++ Company culture and incentive system: the norms of behavior, business principles, and
+ingrained beliefs within the company; the attachment of personnel to the company's ideals;
+the compensation system and the motivation level of company personnel
 --- page 8 ---
 iv.   Technology and Innovation
 v.   Input Quality
@@ -5392,6 +5736,33 @@ Q 3a.   manufacturing industry? (5 marks)
 CO-2 BL-3
 Answer :
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Firms in Other
+Industries Offering
+
+Substitute Products
+
+Competitive pressures coming
+from the producers of substitute
+products
+
+Rivalry among
+Competitive comeeting| Competitive
+pressures Sellers Pressures
+stemming stemming
+from supplier from buyer
+bargaining Competitive Pressures bargaining
+power coming from other firms in power
+
+the industry
+
+Competitive pressures coming from
+the threat of entry of new rivals
+
+Potential
+
+New Entran
 --- page 6 ---
 (Primary activities -3 marks , support activities – 2 marks )
 Explain the difference between tangible and intangible resources.
@@ -5399,6 +5770,62 @@ Provide examples? (5 marks)
 Q 3b.
 CO-2 BL-4
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Primary Activities (Directly Related to Production & Sales)
+
+Primary Activity Application in Automobile Industry
+
+Inbound Logistics (Supply Procurement of raw materials (steel, aluminum, plastics), batteries (for EVs), and
+Chain) components from suppliers. Efficient inventory management (e.g., Toyota's Just-in~
+
+Time system).
+
+Operations Car assembly in factories and plants using robotics and automation. Efficiency
+(Manufacturing & improvements in production lines (e.g., Ford's lean manufacturing, Tesla’s
+Assembly) Gigafactories).
+
+Outbound Logistics Distribution of vehicles via dealerships, direct sales, and online platforms (e.g.,
+
+Tesla's direct-to-customer model).
+
+Marketing & Sales Digital advertising, dealership promotions, sponsorships (e.g., Formula 1
+partnerships). Customer financing options (e.g., car leasing).
+
+After-Sales Service Warranty services, maintenance, software updates (especially for connected cars
+(Customer Support) and EVs). Service centers + 1° mobile repair units (e.g, Tesla's mobile servicing).
+
+Support Activities (Enabling Primary Activities)
+
+Support Activity Application in Automobile Industry
+
+Firm Infrastructure Corporate management, strategy, and regulatory compliance.
+
+Human Resource. Hiring skilled engineers, factory workers, and sales personnel. Continuous training
+Management (HRM) programs (e.g., Toyota's Kaizen philosophy).
+
+Technology Development _ Innovation in electric vehicles (EVs), self-driving technology, Al-powered safety
+(R&D) features, and fuel efficiency (e.g., Tesla’s Autopilot, Toyota's hydrogen cars).
+Procurement Supplier relationship management, bulk purchasing of materials, cost negotiation
+
+with steel and semiconductor suppliers.
+
+Tangible resources
+
++ Physical resources: land and real estate; manufacturing plants, equipment, or
+distribution facilities; the locations of stores, plants, or distribution centers,
+including the overall pattern of their physical locations; ownership of or access
+rights to natural resources (such as mineral deposits)
+
++ Financial resources: cash and cash equivalents; marketable securities; other
+financial assets such as a company’s credit rating and borrowing capacity
+
+* Technological assets: patents, copyrights, production technology, innovation
+technologies, technological processes
+
+* Organizational resources: |T and communication systems (satellites, servers,
+workstations, etc.); other planning, coordination, and control systems; the
+company’s organizational design and reporting structure
 --- page 7 ---
 (tangible 2 marks , and intangible resources- 3 marks )
 When a differentiation strategy works best? what are potential pitfalls
@@ -5429,6 +5856,27 @@ i.   Product features and performance
 ii.   Customer Services
 iii.   Production R &D
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Intangible resources
+
++ Human assets and intellectual capital: the education, experience, knowledge, and talent
+of the workforce, cumulative learning, and tacit knowledge of employees; collective learning
+embedded in the organization, the intellectual capital and know-how of specialized teams
+and work groups; the knowledge of key personnel concerning important business functions;
+managerial talent and leadership skill; the creativity and innovativeness of certain personnel
+
++ Brands, company image, and reputational assets: brand names, trademarks, product or
+company image, buyer loyalty and goodwill; company reputation for quality, service, and
+reliability; reputation with suppliers and partners for fair dealing
+
++ Relationships: alliances, joint ventures, or partnerships that provide access to
+technologies, specialized know-how, or geographic markets; networks of dealers or
+distributors; the trust established with various partners
+
++ Company culture and incentive system: the norms of behavior, business principles, and
+ingrained beliefs within the company; the attachment of personnel to the company's ideals;
+the compensation system and the motivation level of company personnel
 --- page 8 ---
 iv.   Technology and Innovation
 v.   Input Quality
@@ -5751,6 +6199,33 @@ Q 3a.   manufacturing industry? (5 marks)
 CO-2 BL-3
 Answer :
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Firms in Other
+Industries Offering
+
+Substitute Products
+
+Competitive pressures coming
+from the producers of substitute
+products
+
+Rivalry among
+Competitive comeeting| Competitive
+pressures Sellers Pressures
+stemming stemming
+from supplier from buyer
+bargaining Competitive Pressures bargaining
+power coming from other firms in power
+
+the industry
+
+Competitive pressures coming from
+the threat of entry of new rivals
+
+Potential
+
+New Entran
 --- page 6 ---
 (Primary activities -3 marks , support activities – 2 marks )
 Explain the difference between tangible and intangible resources.
@@ -5758,6 +6233,62 @@ Provide examples? (5 marks)
 Q 3b.
 CO-2 BL-4
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Primary Activities (Directly Related to Production & Sales)
+
+Primary Activity Application in Automobile Industry
+
+Inbound Logistics (Supply Procurement of raw materials (steel, aluminum, plastics), batteries (for EVs), and
+Chain) components from suppliers. Efficient inventory management (e.g., Toyota's Just-in~
+
+Time system).
+
+Operations Car assembly in factories and plants using robotics and automation. Efficiency
+(Manufacturing & improvements in production lines (e.g., Ford's lean manufacturing, Tesla’s
+Assembly) Gigafactories).
+
+Outbound Logistics Distribution of vehicles via dealerships, direct sales, and online platforms (e.g.,
+
+Tesla's direct-to-customer model).
+
+Marketing & Sales Digital advertising, dealership promotions, sponsorships (e.g., Formula 1
+partnerships). Customer financing options (e.g., car leasing).
+
+After-Sales Service Warranty services, maintenance, software updates (especially for connected cars
+(Customer Support) and EVs). Service centers + 1° mobile repair units (e.g, Tesla's mobile servicing).
+
+Support Activities (Enabling Primary Activities)
+
+Support Activity Application in Automobile Industry
+
+Firm Infrastructure Corporate management, strategy, and regulatory compliance.
+
+Human Resource. Hiring skilled engineers, factory workers, and sales personnel. Continuous training
+Management (HRM) programs (e.g., Toyota's Kaizen philosophy).
+
+Technology Development _ Innovation in electric vehicles (EVs), self-driving technology, Al-powered safety
+(R&D) features, and fuel efficiency (e.g., Tesla’s Autopilot, Toyota's hydrogen cars).
+Procurement Supplier relationship management, bulk purchasing of materials, cost negotiation
+
+with steel and semiconductor suppliers.
+
+Tangible resources
+
++ Physical resources: land and real estate; manufacturing plants, equipment, or
+distribution facilities; the locations of stores, plants, or distribution centers,
+including the overall pattern of their physical locations; ownership of or access
+rights to natural resources (such as mineral deposits)
+
++ Financial resources: cash and cash equivalents; marketable securities; other
+financial assets such as a company’s credit rating and borrowing capacity
+
+* Technological assets: patents, copyrights, production technology, innovation
+technologies, technological processes
+
+* Organizational resources: |T and communication systems (satellites, servers,
+workstations, etc.); other planning, coordination, and control systems; the
+company’s organizational design and reporting structure
 --- page 7 ---
 (tangible 2 marks , and intangible resources- 3 marks )
 When a differentiation strategy works best? what are potential pitfalls
@@ -5788,6 +6319,27 @@ i.   Product features and performance
 ii.   Customer Services
 iii.   Production R &D
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Intangible resources
+
++ Human assets and intellectual capital: the education, experience, knowledge, and talent
+of the workforce, cumulative learning, and tacit knowledge of employees; collective learning
+embedded in the organization, the intellectual capital and know-how of specialized teams
+and work groups; the knowledge of key personnel concerning important business functions;
+managerial talent and leadership skill; the creativity and innovativeness of certain personnel
+
++ Brands, company image, and reputational assets: brand names, trademarks, product or
+company image, buyer loyalty and goodwill; company reputation for quality, service, and
+reliability; reputation with suppliers and partners for fair dealing
+
++ Relationships: alliances, joint ventures, or partnerships that provide access to
+technologies, specialized know-how, or geographic markets; networks of dealers or
+distributors; the trust established with various partners
+
++ Company culture and incentive system: the norms of behavior, business principles, and
+ingrained beliefs within the company; the attachment of personnel to the company's ideals;
+the compensation system and the motivation level of company personnel
 --- page 8 ---
 iv.   Technology and Innovation
 v.   Input Quality
@@ -6110,6 +6662,33 @@ Q 3a.   manufacturing industry? (5 marks)
 CO-2 BL-3
 Answer :
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Firms in Other
+Industries Offering
+
+Substitute Products
+
+Competitive pressures coming
+from the producers of substitute
+products
+
+Rivalry among
+Competitive comeeting| Competitive
+pressures Sellers Pressures
+stemming stemming
+from supplier from buyer
+bargaining Competitive Pressures bargaining
+power coming from other firms in power
+
+the industry
+
+Competitive pressures coming from
+the threat of entry of new rivals
+
+Potential
+
+New Entran
 --- page 6 ---
 (Primary activities -3 marks , support activities – 2 marks )
 Explain the difference between tangible and intangible resources.
@@ -6117,6 +6696,62 @@ Provide examples? (5 marks)
 Q 3b.
 CO-2 BL-4
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Primary Activities (Directly Related to Production & Sales)
+
+Primary Activity Application in Automobile Industry
+
+Inbound Logistics (Supply Procurement of raw materials (steel, aluminum, plastics), batteries (for EVs), and
+Chain) components from suppliers. Efficient inventory management (e.g., Toyota's Just-in~
+
+Time system).
+
+Operations Car assembly in factories and plants using robotics and automation. Efficiency
+(Manufacturing & improvements in production lines (e.g., Ford's lean manufacturing, Tesla’s
+Assembly) Gigafactories).
+
+Outbound Logistics Distribution of vehicles via dealerships, direct sales, and online platforms (e.g.,
+
+Tesla's direct-to-customer model).
+
+Marketing & Sales Digital advertising, dealership promotions, sponsorships (e.g., Formula 1
+partnerships). Customer financing options (e.g., car leasing).
+
+After-Sales Service Warranty services, maintenance, software updates (especially for connected cars
+(Customer Support) and EVs). Service centers + 1° mobile repair units (e.g, Tesla's mobile servicing).
+
+Support Activities (Enabling Primary Activities)
+
+Support Activity Application in Automobile Industry
+
+Firm Infrastructure Corporate management, strategy, and regulatory compliance.
+
+Human Resource. Hiring skilled engineers, factory workers, and sales personnel. Continuous training
+Management (HRM) programs (e.g., Toyota's Kaizen philosophy).
+
+Technology Development _ Innovation in electric vehicles (EVs), self-driving technology, Al-powered safety
+(R&D) features, and fuel efficiency (e.g., Tesla’s Autopilot, Toyota's hydrogen cars).
+Procurement Supplier relationship management, bulk purchasing of materials, cost negotiation
+
+with steel and semiconductor suppliers.
+
+Tangible resources
+
++ Physical resources: land and real estate; manufacturing plants, equipment, or
+distribution facilities; the locations of stores, plants, or distribution centers,
+including the overall pattern of their physical locations; ownership of or access
+rights to natural resources (such as mineral deposits)
+
++ Financial resources: cash and cash equivalents; marketable securities; other
+financial assets such as a company’s credit rating and borrowing capacity
+
+* Technological assets: patents, copyrights, production technology, innovation
+technologies, technological processes
+
+* Organizational resources: |T and communication systems (satellites, servers,
+workstations, etc.); other planning, coordination, and control systems; the
+company’s organizational design and reporting structure
 --- page 7 ---
 (tangible 2 marks , and intangible resources- 3 marks )
 When a differentiation strategy works best? what are potential pitfalls
@@ -6147,6 +6782,27 @@ i.   Product features and performance
 ii.   Customer Services
 iii.   Production R &D
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Intangible resources
+
++ Human assets and intellectual capital: the education, experience, knowledge, and talent
+of the workforce, cumulative learning, and tacit knowledge of employees; collective learning
+embedded in the organization, the intellectual capital and know-how of specialized teams
+and work groups; the knowledge of key personnel concerning important business functions;
+managerial talent and leadership skill; the creativity and innovativeness of certain personnel
+
++ Brands, company image, and reputational assets: brand names, trademarks, product or
+company image, buyer loyalty and goodwill; company reputation for quality, service, and
+reliability; reputation with suppliers and partners for fair dealing
+
++ Relationships: alliances, joint ventures, or partnerships that provide access to
+technologies, specialized know-how, or geographic markets; networks of dealers or
+distributors; the trust established with various partners
+
++ Company culture and incentive system: the norms of behavior, business principles, and
+ingrained beliefs within the company; the attachment of personnel to the company's ideals;
+the compensation system and the motivation level of company personnel
 --- page 8 ---
 iv.   Technology and Innovation
 v.   Input Quality

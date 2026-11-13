@@ -167,6 +167,21 @@ BL-3
 Answer:
 𝐹(𝑢, 𝑣) = 𝐻 . 𝑓(𝑥, 𝑦) . 𝐻𝑇
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Numerator:
+0.5 x [((R — G) + (R— B)| = 0.5 x [(100 — 200) + (100 — 50)| = 0.5 x (—100 + 50) = —25
+
+Denominator:
+
+V/(R - G)? + (R- B)(G — B) = v/(—100)? + (50)(150) = 10000 + 7500 = 17500 = 132.29
+
+Now,
+
+— cog ( 228) — et _ °
+H = cos 732.39) ~ © (—0.189) = 100.9
+
+Since B < G, we keep H as is.
 --- page 6 ---
 𝐹(𝑢, 𝑣) = [1 1   . [2 6   . [1   1
 1 −1]   3 5]   1 −1]
@@ -211,6 +226,17 @@ Image A
 Structuring element ‘B’, Center position is origin
 Answer:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Gradient magnitude
+
+0 0 0 0
+360 360 360 360
+
+M = ,/G2+G2=|G,|=
+z+ Gy= |G, 360 360 360 360
+
+0 0 0 0
 --- page 8 ---
 Morphological opening definition: 2 marks
 Image after erosion: 3 marks
@@ -409,6 +435,17 @@ f(x, y) =
 60   80   100
 110   120   127
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+80 85 78 82
+R14
+83 82 79 84
+200 195 198 202
+201 197 196
+
+R3 199
+
+R4
 --- page 15 ---
 Answer:
 Difference between Power-Law Transformation and Contrast Stretching - 2marks
@@ -600,6 +637,23 @@ SO-1;   𝑓= [2 6
 3 5]
 BL-3
 6
+
+[Text in pictures on this page, read by OCR]
+Numerator:
+0.5 x ((R — G) + (R— B)| = 0.5 x [(100 — 200) + (100 — 50)| = 0.5 x (—100 + 50) = —25
+
+Denominator:
+
+V(R— G)? + (R— B)(G — B) = \/(—100)? + (50)(150) = 10000 + 7500 = V/17500 = 132.29
+
+Now,
+—25
+
+132.29
+
+H =cos? ( ) =cos '(—0.189) = 100.9°
+
+Since B < G, we keep H as is.
 --- page 7 ---
 Answer:
 𝐹(𝑢, 𝑣) = 𝐻 . 𝑓(𝑥, 𝑦) . 𝐻𝑇
@@ -645,6 +699,17 @@ Image A
 1   0   1
 Structuring element ‘B’, Center position is origin
 8
+
+[Text in pictures on this page, read by OCR]
+Gradient magnitude
+
+0 0 0 0
+360 360 360 360
+
+M = ,/G2+G2=|G,| =
+2+ Gy = |G) 360 360 360 360
+
+0 0 0 0
 --- page 9 ---
 Answer:
 Morphological opening definition: 2 marks
@@ -710,6 +775,16 @@ BL-4
 Compute Gradient Direction for the center pixel using Prewitt operator.
 Answer:
 11
+
+[Text in pictures on this page, read by OCR]
+Horizontal mask (for vertical edges):
+—-1 0 +1
+G,=]-1 0 41
+-1 0 +1
+Vertical mask (for horizontal edges):
++1 41 41
+G,=|0 0 0
+-1 -1 -1
 --- page 12 ---
 Mask – 1 mark
 Gx, Gy - 2 marks
@@ -831,6 +906,17 @@ BL-2
 Exhaustive Search Block Matching Algorithm – 6marks
 Advantages and disadvantages – 4marks
 16
+
+[Text in pictures on this page, read by OCR]
+80 85 78 82
+R14
+83 82 79 84
+200 195 198 202
+201 197 196
+
+R3 199
+
+R4
 --- page 17 ---
 Q7   b What is difference between Power-Law Transformation and Contrast Stretching? Apply   [10]
 the Power-Law (Gamma) Transformation on the following image with C=1.2, and 𝛾 =
@@ -1452,6 +1538,12 @@ BL-4
 100   100   20   20
 Answer:
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Prewitt kernels:
+-1 01 1 1 1
+G,-—|-1 0 1 Gy -—|0 0 0
+-1 01 -1 -1 -1
 --- page 7 ---
 Prewitt kernels – 1 mark
 Gx Matrix - 2marks
@@ -1472,6 +1564,25 @@ BL-4   0   0   0   0   0   0   0   0   0
 0   0   0   0   0   0   0   0   0
 Image, 1-valued elements indicate ‘A’
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Horizontal derivative G_:
+
+0 —240 —240
+0 —240 —240
+0 —240 —240
+0 —240 —240
+
+Vertical derivative Gy:
+
+Gradient magnitude M = ,/G? + G3 = |G;':
+
+0 240 240
+0 240 240
+0 240 240
+0 240 240
+
+M=
 --- page 8 ---
 1   1   1
 1   1   1
@@ -1482,6 +1593,29 @@ Morphological closing definition: 2 marks
 Image after dilation: 3 marks
 After erosion (Final Image): 3 marks
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+After Dilation (A ©® B):
+
+(2) 12)
+1 12)
+1 1
+1 1
+1 1
+1 1
+1 1
+1 12)
+(2) 12)
+OB):
+(2) (2)
+(2) 12)
+(2) 12)
+1 12)
+1 @
+1 (2)
+(2) 12)
+12) 12)
+2) 12)
 --- page 9 ---
 Q4   a   Consider the given input image given below. Sketch and apply 3x3 Laplacian filter having [4]
 positive centre without diagonal elements to get the response on the shaded (underlined)
@@ -1569,6 +1703,22 @@ CO-4;
 SO-1;
 BL-4
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Gz = (—1)(10) + (0)(20) + (1)(80) + (—2)(5) + (0)(15) + (2)(25) + (—1)(0) + (0)(20) + (1)(20)
+G, = (—10+0+30-10+0+4+50+0+0+ 20) = 80
+
+Gy = (1)(10) + (2)(20) + (1)(80) + (0)(5) + (0)(15) + (0)(25) + (-1)(0) + (—2)(10) + (—1)(20)
+G, = (10 + 40 + 30 +0 +0+0~-0- 20-20) = 40
+
+Gz =80, Gy=40
+
+Gradient Direction:
+
+G 40
+6=tan? (2) = tan! ) = tan7!(0.5) = 26.56°
+
+r
 --- page 12 ---
 5   7   1   2   1
 6   2   4   1   2
@@ -1914,6 +2064,12 @@ BL-4
 100   100   20   20
 Answer:
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Prewitt kernels:
+-1 01 1 1 1
+G,-—|-1 0 1 Gy -—|0 0 0
+-1 01 -1 -1 -1
 --- page 7 ---
 Prewitt kernels – 1 mark
 Gx Matrix - 2marks
@@ -1934,6 +2090,25 @@ BL-4   0   0   0   0   0   0   0   0   0
 0   0   0   0   0   0   0   0   0
 Image, 1-valued elements indicate ‘A’
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Horizontal derivative G_:
+
+0 —240 —240
+0 —240 —240
+0 —240 —240
+0 —240 —240
+
+Vertical derivative Gy:
+
+Gradient magnitude M = ,/G? + G3 = |G;':
+
+0 240 240
+0 240 240
+0 240 240
+0 240 240
+
+M=
 --- page 8 ---
 1   1   1
 1   1   1
@@ -1944,6 +2119,29 @@ Morphological closing definition: 2 marks
 Image after dilation: 3 marks
 After erosion (Final Image): 3 marks
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+After Dilation (A ©® B):
+
+(2) 12)
+1 12)
+1 1
+1 1
+1 1
+1 1
+1 1
+1 12)
+(2) 12)
+OB):
+(2) (2)
+(2) 12)
+(2) 12)
+1 12)
+1 @
+1 (2)
+(2) 12)
+12) 12)
+2) 12)
 --- page 9 ---
 Q4   a   Consider the given input image given below. Sketch and apply 3x3 Laplacian filter having [4]
 positive centre without diagonal elements to get the response on the shaded (underlined)
@@ -2031,6 +2229,22 @@ CO-4;
 SO-1;
 BL-4
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Gz = (—1)(10) + (0)(20) + (1)(80) + (—2)(5) + (0)(15) + (2)(25) + (—1)(0) + (0)(20) + (1)(20)
+G, = (—10+0+30-10+0+4+50+0+0+ 20) = 80
+
+Gy = (1)(10) + (2)(20) + (1)(80) + (0)(5) + (0)(15) + (0)(25) + (-1)(0) + (—2)(10) + (—1)(20)
+G, = (10 + 40 + 30 +0 +0+0~-0- 20-20) = 40
+
+Gz =80, Gy=40
+
+Gradient Direction:
+
+G 40
+6=tan? (2) = tan! ) = tan7!(0.5) = 26.56°
+
+r
 --- page 12 ---
 5   7   1   2   1
 6   2   4   1   2
@@ -2376,6 +2590,12 @@ BL-4
 100   100   20   20
 Answer:
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Prewitt kernels:
+-1 01 1 1 1
+G,-—|-1 0 1 Gy -—|0 0 0
+-1 01 -1 -1 -1
 --- page 7 ---
 Prewitt kernels – 1 mark
 Gx Matrix - 2marks
@@ -2396,6 +2616,25 @@ BL-4   0   0   0   0   0   0   0   0   0
 0   0   0   0   0   0   0   0   0
 Image, 1-valued elements indicate ‘A’
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Horizontal derivative G_:
+
+0 —240 —240
+0 —240 —240
+0 —240 —240
+0 —240 —240
+
+Vertical derivative Gy:
+
+Gradient magnitude M = ,/G? + G3 = |G;':
+
+0 240 240
+0 240 240
+0 240 240
+0 240 240
+
+M=
 --- page 8 ---
 1   1   1
 1   1   1
@@ -2406,6 +2645,29 @@ Morphological closing definition: 2 marks
 Image after dilation: 3 marks
 After erosion (Final Image): 3 marks
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+After Dilation (A ©® B):
+
+(2) 12)
+1 12)
+1 1
+1 1
+1 1
+1 1
+1 1
+1 12)
+(2) 12)
+OB):
+(2) (2)
+(2) 12)
+(2) 12)
+1 12)
+1 @
+1 (2)
+(2) 12)
+12) 12)
+2) 12)
 --- page 9 ---
 Q4   a   Consider the given input image given below. Sketch and apply 3x3 Laplacian filter having [4]
 positive centre without diagonal elements to get the response on the shaded (underlined)
@@ -2493,6 +2755,22 @@ CO-4;
 SO-1;
 BL-4
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Gz = (—1)(10) + (0)(20) + (1)(80) + (—2)(5) + (0)(15) + (2)(25) + (—1)(0) + (0)(20) + (1)(20)
+G, = (—10+0+30-10+0+4+50+0+0+ 20) = 80
+
+Gy = (1)(10) + (2)(20) + (1)(80) + (0)(5) + (0)(15) + (0)(25) + (-1)(0) + (—2)(10) + (—1)(20)
+G, = (10 + 40 + 30 +0 +0+0~-0- 20-20) = 40
+
+Gz =80, Gy=40
+
+Gradient Direction:
+
+G 40
+6=tan? (2) = tan! ) = tan7!(0.5) = 26.56°
+
+r
 --- page 12 ---
 5   7   1   2   1
 6   2   4   1   2
@@ -2838,6 +3116,12 @@ BL-4
 100   100   20   20
 Answer:
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Prewitt kernels:
+-1 01 1 1 1
+G,-—|-1 0 1 Gy -—|0 0 0
+-1 01 -1 -1 -1
 --- page 7 ---
 Prewitt kernels – 1 mark
 Gx Matrix - 2marks
@@ -2858,6 +3142,25 @@ BL-4   0   0   0   0   0   0   0   0   0
 0   0   0   0   0   0   0   0   0
 Image, 1-valued elements indicate ‘A’
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Horizontal derivative G_:
+
+0 —240 —240
+0 —240 —240
+0 —240 —240
+0 —240 —240
+
+Vertical derivative Gy:
+
+Gradient magnitude M = ,/G? + G3 = |G;':
+
+0 240 240
+0 240 240
+0 240 240
+0 240 240
+
+M=
 --- page 8 ---
 1   1   1
 1   1   1
@@ -2868,6 +3171,29 @@ Morphological closing definition: 2 marks
 Image after dilation: 3 marks
 After erosion (Final Image): 3 marks
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+After Dilation (A ©® B):
+
+(2) 12)
+1 12)
+1 1
+1 1
+1 1
+1 1
+1 1
+1 12)
+(2) 12)
+OB):
+(2) (2)
+(2) 12)
+(2) 12)
+1 12)
+1 @
+1 (2)
+(2) 12)
+12) 12)
+2) 12)
 --- page 9 ---
 Q4   a   Consider the given input image given below. Sketch and apply 3x3 Laplacian filter having [4]
 positive centre without diagonal elements to get the response on the shaded (underlined)
@@ -2955,6 +3281,22 @@ CO-4;
 SO-1;
 BL-4
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Gz = (—1)(10) + (0)(20) + (1)(80) + (—2)(5) + (0)(15) + (2)(25) + (—1)(0) + (0)(20) + (1)(20)
+G, = (—10+0+30-10+0+4+50+0+0+ 20) = 80
+
+Gy = (1)(10) + (2)(20) + (1)(80) + (0)(5) + (0)(15) + (0)(25) + (-1)(0) + (—2)(10) + (—1)(20)
+G, = (10 + 40 + 30 +0 +0+0~-0- 20-20) = 40
+
+Gz =80, Gy=40
+
+Gradient Direction:
+
+G 40
+6=tan? (2) = tan! ) = tan7!(0.5) = 26.56°
+
+r
 --- page 12 ---
 5   7   1   2   1
 6   2   4   1   2

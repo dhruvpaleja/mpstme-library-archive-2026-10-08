@@ -1308,6 +1308,7 @@ Limitations of the first law of thermodynamics.   2 marks
 - Source: `02_Question_Papers/2024/Sem_04/Re-Exam/Integrated_Computer_7032/Physics-IV/ANS_Physics-IV(701BS0C014)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 83.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1364,6 +1365,21 @@ BL-1,2
 2m
 Zero point energy definition + formula
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Significance of harmonic oscillator in quantum mechanics
+
+The significance of harmonic oscillator in quantum mechanics is that any particle that is in its
+position of a stable equilibrium will execute simple harmonic motion (SHM) if displaced by a
+small amount. For example, simple pendulum or atom of hydrogen in hydrogen chloride (HCI).
+
+Intermolecular potential energy vs. intermolecular distance for a diatomic molecular distance is
+shown in the figure alongside.
+
+Vix)
+
+Parabolic approximation (dashed curve) to an arbitrary potential, in
+the neighborhood of a local minimum,
 --- page 3 ---
 Illustrate and explain Phase point and Phase space.
 2
@@ -1382,6 +1398,25 @@ Explain why the energy of a free particle is not quantized according to the
 BL-1,2   a.
 Schrödinger equation.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Phase Space (I Space)
+
+In classical mechanics the state of system of particles (atoms or molecules) at any time can be
+completely specified by 3N generalized position coordinates and 3N generalized momenta. For
+a single particle it has three position coordinates (x,y,z) and three momentum coordinates
+(px,py,pz). i.€. total 6 coordinates.
+
+In other words, we require six numerical
+quantities (x,y,2, pxpypz) to specify the state
+of a particle in space at a particular instant
+of time, and thus we define a 6-D phase
+space (Fig. 1). The Instantaneous state of a
+particle in a phase space is represented by a
+point known as phase point.
+
+Fig. 1. Symbolic representation of phase
+space.
 --- page 4 ---
 1
 1
@@ -1404,6 +1439,56 @@ BL-4   Given,   Wavelength of the light = λ = 2500 Å = 2500 x 10-10 m
 Work function of aluminium = W = 4 eV
 = 4 x 1.602 x10-19 J
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Schrodinger's equation : Time-Dependent Form for a free particle
+
+The one-dimensional time dependent Schrodinger equation for a free non-relativistic particle (V =
+0) is given below
+
+_ FB Fycxt) _ 9» dvixt)
+2m 6x? =ih ot (!)
+
+A free particle of total energy E and momentum p moving in the +x direction can be described by
+the wave-function ¥ of a place monochromatic wave. The expression for ¥ is given by
+
+W(x, t) = Aexp (: (px — Et)) (2)
+where A = amplitude of displacement of the wave
+f= reduced Planck constant (h/2) = 1.05457 x 10 Js
+
+The energy E and momentum p of the particle are related to its wave-vector k and frequency @ by
+the relations
+
+p= k=, E=ho
+
+Differentiating Eq. (2) once with respect to time gives.
+
+avxt)
+a iF Pao
+or
+ih a = EY(x,t) @)
+
+Differentiating Eq. (2) twice with respect to x gives,
+
+_ ap OR) _
+ih - p¥(x, t)
+= 2 8 ¥(xt) = yy
+ne EPO — pray 1) @)
+
+Dividing both sides of Eq. (4) by (1/2m), we obtain,
+
+_ EB eye) _ pt
+om ae am Pt) 6)
+
+Comparing equations (1), (3) and (5). the energy E and momentum p of a free non-relativistic
+particle of mass m are related by the expression
+2 nk?
+
+E=2=
+
+2m 2m
+
+(6)
 --- page 5 ---
 Let λ0 and V0 be the threshold wavelength and the stopping potential,
 respectively.
@@ -1501,6 +1586,27 @@ CO-1;
 BL-3,4
 Normalization:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+The planes are shown in Fig. 2, where D is the distance between the consecutive atoms and d is
+the inter-planar separation. The Bragg’s condition for constructive interference is
+
+nd = 2d sin® = 2d sin (90°-a) = 2d cos a (6)
+Again, from the above figure,
+d=Dsina (7)
+Combining Eqns. 6 and 7, we get
+nd= 2D sin a.cos a= D sin 2a
+In terms of ¢
+n=Dsin¢ (8)
+
+From x-ray data it is known that for nickel D = 2.15 A. Therefore, for 54 V electron at d= 50° and
+in the first order (i.e. n = 1)
+
+1=2.15A. Sin $0°=1.65 A
+
+Further, with V =54 V and standard values of the constants Eqn. 5 can be used to obtain the
+wavelength of electron as J = 1.66 A. The remarkably close agreement between the two results
+proves the validity of de Broglie hypothesis.
 --- page 8 ---
 Q4
 a.   Explain how the wave functions for the incident, reflected, and transmitted
@@ -1524,6 +1630,26 @@ its motion inside the barrier, where it is
 gradually attenuated on its way to the other
 side.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Expectation values
+
+In a large number of measurements (or measurement over a prolonged period of time), the
+measured value is an average value or expectation value. The expectation value of any observable
+quantity o is given by
+00
+Sogo BaP (x) dx
+00
+[i GY ede
+
+(a) =
+
+(14)
+
+Now, if the wave-function is normalized then i W*(x) ¥(x)dx = 1 and the expectation
+value is given by
+
+(a) = i WY (wa P(x)dx (15)
 --- page 9 ---
 The probability that an individual particle in the beam will tunnel through the potential
 barrier can be found by solving the boundary-value problem for the time-independent
@@ -1579,6 +1705,50 @@ b. Two copper nanowires are insulated by a copper oxide layer that provides a 10
 CO-1;   eV potential barrier. Analyze the tunneling probability between the nanowires
 BL-4   by 7 eV electrons through a 5 nm thick layer.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Ud
+
+U, 4
+oO yy,
+Ww
+SS ~_-
+x
+ie) L
+In region IL the terms in equation (8) can be rearranged to give
+d?1;(2)
+2
+Ta Bb)
+x a2)
+where the real number B is given by
+2m
+8° = 57 (Uo — B)
+(3)
+
+and is positive for Uo> £.
+The general solution of eqn. (13) is not oscillatory (unlike in the other regions) and is in the
+form of exponentials that describe a gradual attenuation of yx)
+
+wy (x) = Ce Be Det aay
+
+In region I, there are two waves—one is incident (moving to the right) and one is reflected
+(moving to the left)—so the constants 4 and 3 in eqn. (10) are non-zero. In region IIL there is
+only one wave (moving to the right), which is the transmitted wave, so the constant G must
+
+be zero.
+
+The incident wave is represented as
+
+Un(z) = Ae 4
+
+reflected wave is denoted as
+
+~ th.
+pep (t) = Be 40
+and the transmitted wave is given by
+
+f - pike
+Vira (2) = Fe 4)
 --- page 11 ---
 Soln.
 Collection of data with units   1 mark
@@ -1640,6 +1810,50 @@ statistics. Determine the total number of possible arrangements for each case.
 BL-4
 Soln.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Ihe a priori probability gi that a ball falls 1m the 1-i cell 1s equal to the tractional area ot the cell.
+If A is the total area, then
+
+gi=4 with Ygj=1 and Ya;=A
+
+The a priori probability of two balls simultaneously in the i-th cell is (gj. The a priori probability
+that nj balls go to i-th cell is (g,)".
+
+Hence, the a priori probability G of a distribution of N balls among k cells in which ny balls go to
+the Ist call, nz balls go to the 2" cell, and so on, is given by
+
+G= (g,)"" (g2)"? (g:)™ seeteeeeeee (94.)"* = E(g)™ @)
+Subject to the condition, N = Yn,
+
+Further, the distribution of balls among the cells are not equally probable, therefore we have to
+bring the concept of thermodynamic probability. The number ways in which n; balls out of N balls
+can be distributed in first cell is given by
+
+N!
+Cay ny!(N-n,)!
+
+The number of ways nz balls can be distributed out of the remaining (N-n) balls in the second cell
+is then given by
+
+_ _(w-ny)!
+ony nz!(N-ny-nz)!
+
+(N-m)
+
+Similarly, proceeding in the same manner, the total number of independent ways of arranging N
+balls among n containers such that nj balls in the first, m2 balls in the second ... m, balls in the k-th
+cell, will be
+
+_ om! (N-nj)! (N=my~ Ny.tk-1)!
+ny!(N=ny)! np!(N=ny—ng)! ngl(N=ny—ny nx)!
+
+NI MN
+
+— == —
+Ny INgloutg! — TY ni!
+
+(4)
 --- page 13 ---
 In MB statistics, the particles are identical but distinguishable and there is no
 restriction in the number of particles that can occupy a single state. Let the
@@ -1717,6 +1931,29 @@ BL-4   dU = dQ - PdV
 Therefore, the internal energy is decreased by 715.96 J.
 1
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+uM,
+The width L of the potential barrier that separates an a-
+
+particle from the outside world depends on the particle's
+kinetic energy Z. This width is the distance between the
+point marked by the nuclear radius R, and the point. Ro.
+where an a-particle emerges on the other side of the
+barrier|
+
+L=Ry-R (33)
+
++ At the distance the kinetic energy of the a-particle must be
+equal to electrostatic Coulomb repulsion energy.
+
+E= (4me9) 1Ze?/Ry G4)
+
+— Substituting the value of Ro obtained from eqn (34) into
+(33) gives,
+
+_ eZ
+4me9 E (35)
 --- page 15 ---
 c.   Describe the photoelectric effect and summarize its key experimental results.
 CO-1;   Photoelectric effect.   2
@@ -1739,6 +1976,51 @@ CO-2;
 BL-1,2
 1
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Equipartition of energy
+
+The total number of independent quantities required to specify the configuration and position
+ofa system is called the number of degrees of freedom of the system. The number is determined
+by the possibilities of motion of the parts of the system. In the case of a gas, if we regard it as
+a point, its position is specified by the coordinates x, y and z. thus each gas particle will have
+three degrees of freedom. If there are N number of gas particles in the system, the number of
+degrees of freedom of the system will be 3N. the law of equipartition of energy states that the
+thermal equilibrium energy of the gas particles is uniformly distributed among the various
+degrees of freedom and for each of them it is Shr. We shall establish this law here using the
+
+MB statistics.
+
+The kinetic energies of a particle associated with its motion along the x. y and z directions are
+px'/2m, p,7/2m and p.’/2m, respectively. Here p., py and p- are the x, y and z components of the
+momentum p. The average energy of the particle for its motion along any of the three directions
+is
+
+Si ih FEddpxdPy aps
+
+= redpdna = V=*H2)
+
+Where dp: dp dp: is a small volume element in the momentum space and the integrals extend
+
+over the entire momentum space.
+Using the Maxwell-Boltzmann form of the distribution function f/E) and noting that
+E =p? + py? + p2)/(2m), we obtain from the above equation
+
+ia eHhrap. [2 e Trap, f°, a
+
+==
+
+[o,e trap, oe ttbrap,
+
+Substituting x= p.*/2mkT we obtain
+
+[io xte*de
+
+Ey = KT espana = T= 2
+since (3/2) = (1/2)T'(1/2).
+Thus the mean kinetic energy for the motion along the x-direction is SKT- The same value of
+KT is also obtained for Ey and Ez. Thus the law of equipartition of energy is seen to be
+satisfied. The average energy per particle considering the three degrees of freedom is Ser.
 --- page 16 ---
 b.   X-ray photon of wavelength 0.5 Å is scattered through an angle 40° by a loosely
 bound electron. Analyse the wavelength of scattered photon.
@@ -1770,6 +2052,7 @@ with suitable examples   1
 - Source: `02_Question_Papers/2024/Sem_04/Re-Exam/Integrated_DS_7038/Physics-IV/ANS_Physics-IV(701BS0C014)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 83.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1826,6 +2109,21 @@ BL-1,2
 2m
 Zero point energy definition + formula
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Significance of harmonic oscillator in quantum mechanics
+
+The significance of harmonic oscillator in quantum mechanics is that any particle that is in its
+position of a stable equilibrium will execute simple harmonic motion (SHM) if displaced by a
+small amount. For example, simple pendulum or atom of hydrogen in hydrogen chloride (HCI).
+
+Intermolecular potential energy vs. intermolecular distance for a diatomic molecular distance is
+shown in the figure alongside.
+
+Vix)
+
+Parabolic approximation (dashed curve) to an arbitrary potential, in
+the neighborhood of a local minimum,
 --- page 3 ---
 Illustrate and explain Phase point and Phase space.
 2
@@ -1844,6 +2142,25 @@ Explain why the energy of a free particle is not quantized according to the
 BL-1,2   a.
 Schrödinger equation.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Phase Space (I Space)
+
+In classical mechanics the state of system of particles (atoms or molecules) at any time can be
+completely specified by 3N generalized position coordinates and 3N generalized momenta. For
+a single particle it has three position coordinates (x,y,z) and three momentum coordinates
+(px,py,pz). i.€. total 6 coordinates.
+
+In other words, we require six numerical
+quantities (x,y,2, pxpypz) to specify the state
+of a particle in space at a particular instant
+of time, and thus we define a 6-D phase
+space (Fig. 1). The Instantaneous state of a
+particle in a phase space is represented by a
+point known as phase point.
+
+Fig. 1. Symbolic representation of phase
+space.
 --- page 4 ---
 1
 1
@@ -1866,6 +2183,56 @@ BL-4   Given,   Wavelength of the light = λ = 2500 Å = 2500 x 10-10 m
 Work function of aluminium = W = 4 eV
 = 4 x 1.602 x10-19 J
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Schrodinger's equation : Time-Dependent Form for a free particle
+
+The one-dimensional time dependent Schrodinger equation for a free non-relativistic particle (V =
+0) is given below
+
+_ FB Fycxt) _ 9» dvixt)
+2m 6x? =ih ot (!)
+
+A free particle of total energy E and momentum p moving in the +x direction can be described by
+the wave-function ¥ of a place monochromatic wave. The expression for ¥ is given by
+
+W(x, t) = Aexp (: (px — Et)) (2)
+where A = amplitude of displacement of the wave
+f= reduced Planck constant (h/2) = 1.05457 x 10 Js
+
+The energy E and momentum p of the particle are related to its wave-vector k and frequency @ by
+the relations
+
+p= k=, E=ho
+
+Differentiating Eq. (2) once with respect to time gives.
+
+avxt)
+a iF Pao
+or
+ih a = EY(x,t) @)
+
+Differentiating Eq. (2) twice with respect to x gives,
+
+_ ap OR) _
+ih - p¥(x, t)
+= 2 8 ¥(xt) = yy
+ne EPO — pray 1) @)
+
+Dividing both sides of Eq. (4) by (1/2m), we obtain,
+
+_ EB eye) _ pt
+om ae am Pt) 6)
+
+Comparing equations (1), (3) and (5). the energy E and momentum p of a free non-relativistic
+particle of mass m are related by the expression
+2 nk?
+
+E=2=
+
+2m 2m
+
+(6)
 --- page 5 ---
 Let λ0 and V0 be the threshold wavelength and the stopping potential,
 respectively.
@@ -1963,6 +2330,27 @@ CO-1;
 BL-3,4
 Normalization:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+The planes are shown in Fig. 2, where D is the distance between the consecutive atoms and d is
+the inter-planar separation. The Bragg’s condition for constructive interference is
+
+nd = 2d sin® = 2d sin (90°-a) = 2d cos a (6)
+Again, from the above figure,
+d=Dsina (7)
+Combining Eqns. 6 and 7, we get
+nd= 2D sin a.cos a= D sin 2a
+In terms of ¢
+n=Dsin¢ (8)
+
+From x-ray data it is known that for nickel D = 2.15 A. Therefore, for 54 V electron at d= 50° and
+in the first order (i.e. n = 1)
+
+1=2.15A. Sin $0°=1.65 A
+
+Further, with V =54 V and standard values of the constants Eqn. 5 can be used to obtain the
+wavelength of electron as J = 1.66 A. The remarkably close agreement between the two results
+proves the validity of de Broglie hypothesis.
 --- page 8 ---
 Q4
 a.   Explain how the wave functions for the incident, reflected, and transmitted
@@ -1986,6 +2374,26 @@ its motion inside the barrier, where it is
 gradually attenuated on its way to the other
 side.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Expectation values
+
+In a large number of measurements (or measurement over a prolonged period of time), the
+measured value is an average value or expectation value. The expectation value of any observable
+quantity o is given by
+00
+Sogo BaP (x) dx
+00
+[i GY ede
+
+(a) =
+
+(14)
+
+Now, if the wave-function is normalized then i W*(x) ¥(x)dx = 1 and the expectation
+value is given by
+
+(a) = i WY (wa P(x)dx (15)
 --- page 9 ---
 The probability that an individual particle in the beam will tunnel through the potential
 barrier can be found by solving the boundary-value problem for the time-independent
@@ -2041,6 +2449,50 @@ b. Two copper nanowires are insulated by a copper oxide layer that provides a 10
 CO-1;   eV potential barrier. Analyze the tunneling probability between the nanowires
 BL-4   by 7 eV electrons through a 5 nm thick layer.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Ud
+
+U, 4
+oO yy,
+Ww
+SS ~_-
+x
+ie) L
+In region IL the terms in equation (8) can be rearranged to give
+d?1;(2)
+2
+Ta Bb)
+x a2)
+where the real number B is given by
+2m
+8° = 57 (Uo — B)
+(3)
+
+and is positive for Uo> £.
+The general solution of eqn. (13) is not oscillatory (unlike in the other regions) and is in the
+form of exponentials that describe a gradual attenuation of yx)
+
+wy (x) = Ce Be Det aay
+
+In region I, there are two waves—one is incident (moving to the right) and one is reflected
+(moving to the left)—so the constants 4 and 3 in eqn. (10) are non-zero. In region IIL there is
+only one wave (moving to the right), which is the transmitted wave, so the constant G must
+
+be zero.
+
+The incident wave is represented as
+
+Un(z) = Ae 4
+
+reflected wave is denoted as
+
+~ th.
+pep (t) = Be 40
+and the transmitted wave is given by
+
+f - pike
+Vira (2) = Fe 4)
 --- page 11 ---
 Soln.
 Collection of data with units   1 mark
@@ -2102,6 +2554,50 @@ statistics. Determine the total number of possible arrangements for each case.
 BL-4
 Soln.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Ihe a priori probability gi that a ball falls 1m the 1-i cell 1s equal to the tractional area ot the cell.
+If A is the total area, then
+
+gi=4 with Ygj=1 and Ya;=A
+
+The a priori probability of two balls simultaneously in the i-th cell is (gj. The a priori probability
+that nj balls go to i-th cell is (g,)".
+
+Hence, the a priori probability G of a distribution of N balls among k cells in which ny balls go to
+the Ist call, nz balls go to the 2" cell, and so on, is given by
+
+G= (g,)"" (g2)"? (g:)™ seeteeeeeee (94.)"* = E(g)™ @)
+Subject to the condition, N = Yn,
+
+Further, the distribution of balls among the cells are not equally probable, therefore we have to
+bring the concept of thermodynamic probability. The number ways in which n; balls out of N balls
+can be distributed in first cell is given by
+
+N!
+Cay ny!(N-n,)!
+
+The number of ways nz balls can be distributed out of the remaining (N-n) balls in the second cell
+is then given by
+
+_ _(w-ny)!
+ony nz!(N-ny-nz)!
+
+(N-m)
+
+Similarly, proceeding in the same manner, the total number of independent ways of arranging N
+balls among n containers such that nj balls in the first, m2 balls in the second ... m, balls in the k-th
+cell, will be
+
+_ om! (N-nj)! (N=my~ Ny.tk-1)!
+ny!(N=ny)! np!(N=ny—ng)! ngl(N=ny—ny nx)!
+
+NI MN
+
+— == —
+Ny INgloutg! — TY ni!
+
+(4)
 --- page 13 ---
 In MB statistics, the particles are identical but distinguishable and there is no
 restriction in the number of particles that can occupy a single state. Let the
@@ -2179,6 +2675,29 @@ BL-4   dU = dQ - PdV
 Therefore, the internal energy is decreased by 715.96 J.
 1
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+uM,
+The width L of the potential barrier that separates an a-
+
+particle from the outside world depends on the particle's
+kinetic energy Z. This width is the distance between the
+point marked by the nuclear radius R, and the point. Ro.
+where an a-particle emerges on the other side of the
+barrier|
+
+L=Ry-R (33)
+
++ At the distance the kinetic energy of the a-particle must be
+equal to electrostatic Coulomb repulsion energy.
+
+E= (4me9) 1Ze?/Ry G4)
+
+— Substituting the value of Ro obtained from eqn (34) into
+(33) gives,
+
+_ eZ
+4me9 E (35)
 --- page 15 ---
 c.   Describe the photoelectric effect and summarize its key experimental results.
 CO-1;   Photoelectric effect.   2
@@ -2201,6 +2720,51 @@ CO-2;
 BL-1,2
 1
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Equipartition of energy
+
+The total number of independent quantities required to specify the configuration and position
+ofa system is called the number of degrees of freedom of the system. The number is determined
+by the possibilities of motion of the parts of the system. In the case of a gas, if we regard it as
+a point, its position is specified by the coordinates x, y and z. thus each gas particle will have
+three degrees of freedom. If there are N number of gas particles in the system, the number of
+degrees of freedom of the system will be 3N. the law of equipartition of energy states that the
+thermal equilibrium energy of the gas particles is uniformly distributed among the various
+degrees of freedom and for each of them it is Shr. We shall establish this law here using the
+
+MB statistics.
+
+The kinetic energies of a particle associated with its motion along the x. y and z directions are
+px'/2m, p,7/2m and p.’/2m, respectively. Here p., py and p- are the x, y and z components of the
+momentum p. The average energy of the particle for its motion along any of the three directions
+is
+
+Si ih FEddpxdPy aps
+
+= redpdna = V=*H2)
+
+Where dp: dp dp: is a small volume element in the momentum space and the integrals extend
+
+over the entire momentum space.
+Using the Maxwell-Boltzmann form of the distribution function f/E) and noting that
+E =p? + py? + p2)/(2m), we obtain from the above equation
+
+ia eHhrap. [2 e Trap, f°, a
+
+==
+
+[o,e trap, oe ttbrap,
+
+Substituting x= p.*/2mkT we obtain
+
+[io xte*de
+
+Ey = KT espana = T= 2
+since (3/2) = (1/2)T'(1/2).
+Thus the mean kinetic energy for the motion along the x-direction is SKT- The same value of
+KT is also obtained for Ey and Ez. Thus the law of equipartition of energy is seen to be
+satisfied. The average energy per particle considering the three degrees of freedom is Ser.
 --- page 16 ---
 b.   X-ray photon of wavelength 0.5 Å is scattered through an angle 40° by a loosely
 bound electron. Analyse the wavelength of scattered photon.
@@ -2232,6 +2796,7 @@ with suitable examples   1
 - Source: `02_Question_Papers/2024/Sem_04/Re-Exam/Integrated_IT_7037/Physics-IV/ANS_Physics-IV(701BS0C014)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 83.3
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2288,6 +2853,21 @@ BL-1,2
 2m
 Zero point energy definition + formula
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Significance of harmonic oscillator in quantum mechanics
+
+The significance of harmonic oscillator in quantum mechanics is that any particle that is in its
+position of a stable equilibrium will execute simple harmonic motion (SHM) if displaced by a
+small amount. For example, simple pendulum or atom of hydrogen in hydrogen chloride (HCI).
+
+Intermolecular potential energy vs. intermolecular distance for a diatomic molecular distance is
+shown in the figure alongside.
+
+Vix)
+
+Parabolic approximation (dashed curve) to an arbitrary potential, in
+the neighborhood of a local minimum,
 --- page 3 ---
 Illustrate and explain Phase point and Phase space.
 2
@@ -2306,6 +2886,25 @@ Explain why the energy of a free particle is not quantized according to the
 BL-1,2   a.
 Schrödinger equation.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Phase Space (I Space)
+
+In classical mechanics the state of system of particles (atoms or molecules) at any time can be
+completely specified by 3N generalized position coordinates and 3N generalized momenta. For
+a single particle it has three position coordinates (x,y,z) and three momentum coordinates
+(px,py,pz). i.€. total 6 coordinates.
+
+In other words, we require six numerical
+quantities (x,y,2, pxpypz) to specify the state
+of a particle in space at a particular instant
+of time, and thus we define a 6-D phase
+space (Fig. 1). The Instantaneous state of a
+particle in a phase space is represented by a
+point known as phase point.
+
+Fig. 1. Symbolic representation of phase
+space.
 --- page 4 ---
 1
 1
@@ -2328,6 +2927,56 @@ BL-4   Given,   Wavelength of the light = λ = 2500 Å = 2500 x 10-10 m
 Work function of aluminium = W = 4 eV
 = 4 x 1.602 x10-19 J
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Schrodinger's equation : Time-Dependent Form for a free particle
+
+The one-dimensional time dependent Schrodinger equation for a free non-relativistic particle (V =
+0) is given below
+
+_ FB Fycxt) _ 9» dvixt)
+2m 6x? =ih ot (!)
+
+A free particle of total energy E and momentum p moving in the +x direction can be described by
+the wave-function ¥ of a place monochromatic wave. The expression for ¥ is given by
+
+W(x, t) = Aexp (: (px — Et)) (2)
+where A = amplitude of displacement of the wave
+f= reduced Planck constant (h/2) = 1.05457 x 10 Js
+
+The energy E and momentum p of the particle are related to its wave-vector k and frequency @ by
+the relations
+
+p= k=, E=ho
+
+Differentiating Eq. (2) once with respect to time gives.
+
+avxt)
+a iF Pao
+or
+ih a = EY(x,t) @)
+
+Differentiating Eq. (2) twice with respect to x gives,
+
+_ ap OR) _
+ih - p¥(x, t)
+= 2 8 ¥(xt) = yy
+ne EPO — pray 1) @)
+
+Dividing both sides of Eq. (4) by (1/2m), we obtain,
+
+_ EB eye) _ pt
+om ae am Pt) 6)
+
+Comparing equations (1), (3) and (5). the energy E and momentum p of a free non-relativistic
+particle of mass m are related by the expression
+2 nk?
+
+E=2=
+
+2m 2m
+
+(6)
 --- page 5 ---
 Let λ0 and V0 be the threshold wavelength and the stopping potential,
 respectively.
@@ -2425,6 +3074,27 @@ CO-1;
 BL-3,4
 Normalization:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+The planes are shown in Fig. 2, where D is the distance between the consecutive atoms and d is
+the inter-planar separation. The Bragg’s condition for constructive interference is
+
+nd = 2d sin® = 2d sin (90°-a) = 2d cos a (6)
+Again, from the above figure,
+d=Dsina (7)
+Combining Eqns. 6 and 7, we get
+nd= 2D sin a.cos a= D sin 2a
+In terms of ¢
+n=Dsin¢ (8)
+
+From x-ray data it is known that for nickel D = 2.15 A. Therefore, for 54 V electron at d= 50° and
+in the first order (i.e. n = 1)
+
+1=2.15A. Sin $0°=1.65 A
+
+Further, with V =54 V and standard values of the constants Eqn. 5 can be used to obtain the
+wavelength of electron as J = 1.66 A. The remarkably close agreement between the two results
+proves the validity of de Broglie hypothesis.
 --- page 8 ---
 Q4
 a.   Explain how the wave functions for the incident, reflected, and transmitted
@@ -2448,6 +3118,26 @@ its motion inside the barrier, where it is
 gradually attenuated on its way to the other
 side.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Expectation values
+
+In a large number of measurements (or measurement over a prolonged period of time), the
+measured value is an average value or expectation value. The expectation value of any observable
+quantity o is given by
+00
+Sogo BaP (x) dx
+00
+[i GY ede
+
+(a) =
+
+(14)
+
+Now, if the wave-function is normalized then i W*(x) ¥(x)dx = 1 and the expectation
+value is given by
+
+(a) = i WY (wa P(x)dx (15)
 --- page 9 ---
 The probability that an individual particle in the beam will tunnel through the potential
 barrier can be found by solving the boundary-value problem for the time-independent
@@ -2503,6 +3193,50 @@ b. Two copper nanowires are insulated by a copper oxide layer that provides a 10
 CO-1;   eV potential barrier. Analyze the tunneling probability between the nanowires
 BL-4   by 7 eV electrons through a 5 nm thick layer.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Ud
+
+U, 4
+oO yy,
+Ww
+SS ~_-
+x
+ie) L
+In region IL the terms in equation (8) can be rearranged to give
+d?1;(2)
+2
+Ta Bb)
+x a2)
+where the real number B is given by
+2m
+8° = 57 (Uo — B)
+(3)
+
+and is positive for Uo> £.
+The general solution of eqn. (13) is not oscillatory (unlike in the other regions) and is in the
+form of exponentials that describe a gradual attenuation of yx)
+
+wy (x) = Ce Be Det aay
+
+In region I, there are two waves—one is incident (moving to the right) and one is reflected
+(moving to the left)—so the constants 4 and 3 in eqn. (10) are non-zero. In region IIL there is
+only one wave (moving to the right), which is the transmitted wave, so the constant G must
+
+be zero.
+
+The incident wave is represented as
+
+Un(z) = Ae 4
+
+reflected wave is denoted as
+
+~ th.
+pep (t) = Be 40
+and the transmitted wave is given by
+
+f - pike
+Vira (2) = Fe 4)
 --- page 11 ---
 Soln.
 Collection of data with units   1 mark
@@ -2564,6 +3298,50 @@ statistics. Determine the total number of possible arrangements for each case.
 BL-4
 Soln.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Ihe a priori probability gi that a ball falls 1m the 1-i cell 1s equal to the tractional area ot the cell.
+If A is the total area, then
+
+gi=4 with Ygj=1 and Ya;=A
+
+The a priori probability of two balls simultaneously in the i-th cell is (gj. The a priori probability
+that nj balls go to i-th cell is (g,)".
+
+Hence, the a priori probability G of a distribution of N balls among k cells in which ny balls go to
+the Ist call, nz balls go to the 2" cell, and so on, is given by
+
+G= (g,)"" (g2)"? (g:)™ seeteeeeeee (94.)"* = E(g)™ @)
+Subject to the condition, N = Yn,
+
+Further, the distribution of balls among the cells are not equally probable, therefore we have to
+bring the concept of thermodynamic probability. The number ways in which n; balls out of N balls
+can be distributed in first cell is given by
+
+N!
+Cay ny!(N-n,)!
+
+The number of ways nz balls can be distributed out of the remaining (N-n) balls in the second cell
+is then given by
+
+_ _(w-ny)!
+ony nz!(N-ny-nz)!
+
+(N-m)
+
+Similarly, proceeding in the same manner, the total number of independent ways of arranging N
+balls among n containers such that nj balls in the first, m2 balls in the second ... m, balls in the k-th
+cell, will be
+
+_ om! (N-nj)! (N=my~ Ny.tk-1)!
+ny!(N=ny)! np!(N=ny—ng)! ngl(N=ny—ny nx)!
+
+NI MN
+
+— == —
+Ny INgloutg! — TY ni!
+
+(4)
 --- page 13 ---
 In MB statistics, the particles are identical but distinguishable and there is no
 restriction in the number of particles that can occupy a single state. Let the
@@ -2641,6 +3419,29 @@ BL-4   dU = dQ - PdV
 Therefore, the internal energy is decreased by 715.96 J.
 1
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+uM,
+The width L of the potential barrier that separates an a-
+
+particle from the outside world depends on the particle's
+kinetic energy Z. This width is the distance between the
+point marked by the nuclear radius R, and the point. Ro.
+where an a-particle emerges on the other side of the
+barrier|
+
+L=Ry-R (33)
+
++ At the distance the kinetic energy of the a-particle must be
+equal to electrostatic Coulomb repulsion energy.
+
+E= (4me9) 1Ze?/Ry G4)
+
+— Substituting the value of Ro obtained from eqn (34) into
+(33) gives,
+
+_ eZ
+4me9 E (35)
 --- page 15 ---
 c.   Describe the photoelectric effect and summarize its key experimental results.
 CO-1;   Photoelectric effect.   2
@@ -2663,6 +3464,51 @@ CO-2;
 BL-1,2
 1
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Equipartition of energy
+
+The total number of independent quantities required to specify the configuration and position
+ofa system is called the number of degrees of freedom of the system. The number is determined
+by the possibilities of motion of the parts of the system. In the case of a gas, if we regard it as
+a point, its position is specified by the coordinates x, y and z. thus each gas particle will have
+three degrees of freedom. If there are N number of gas particles in the system, the number of
+degrees of freedom of the system will be 3N. the law of equipartition of energy states that the
+thermal equilibrium energy of the gas particles is uniformly distributed among the various
+degrees of freedom and for each of them it is Shr. We shall establish this law here using the
+
+MB statistics.
+
+The kinetic energies of a particle associated with its motion along the x. y and z directions are
+px'/2m, p,7/2m and p.’/2m, respectively. Here p., py and p- are the x, y and z components of the
+momentum p. The average energy of the particle for its motion along any of the three directions
+is
+
+Si ih FEddpxdPy aps
+
+= redpdna = V=*H2)
+
+Where dp: dp dp: is a small volume element in the momentum space and the integrals extend
+
+over the entire momentum space.
+Using the Maxwell-Boltzmann form of the distribution function f/E) and noting that
+E =p? + py? + p2)/(2m), we obtain from the above equation
+
+ia eHhrap. [2 e Trap, f°, a
+
+==
+
+[o,e trap, oe ttbrap,
+
+Substituting x= p.*/2mkT we obtain
+
+[io xte*de
+
+Ey = KT espana = T= 2
+since (3/2) = (1/2)T'(1/2).
+Thus the mean kinetic energy for the motion along the x-direction is SKT- The same value of
+KT is also obtained for Ey and Ez. Thus the law of equipartition of energy is seen to be
+satisfied. The average energy per particle considering the three degrees of freedom is Ser.
 --- page 16 ---
 b.   X-ray photon of wavelength 0.5 Å is scattered through an angle 40° by a loosely
 bound electron. Analyse the wavelength of scattered photon.

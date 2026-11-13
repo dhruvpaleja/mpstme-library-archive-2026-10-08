@@ -8,9 +8,14 @@ The portal listed **30,804 unique file IDs**: **30,152 accounted for**, **652 un
 
 ## PYQs by subject
 
-All 25,900 question-paper files are sorted into **1,208 subjects** in [`subjects/`](subjects/README.md): one folder per subject, each with a README listing every paper by year, exam, semester and programme. Spelling variants of the same subject are merged (for example `APPLIED MATHEMATICES II` and `Applied Mathematics II`), and papers the portal filed in the wrong folder are moved to the subject named in the file.
+All 25,959 question-paper files are sorted into **1,213 subjects** in [`subjects/`](subjects/README.md): one folder per subject, each with a README listing every paper by year, exam, semester and programme. Spelling variants of the same subject are merged (for example `APPLIED MATHEMATICES II` and `Applied Mathematics II`), and papers the portal filed in the wrong folder are moved to the subject named in the file.
 
-That is every file in `02_Question_Papers/` (25,064) plus 836 papers that exist only inside the portal's original ZIP downloads in `00_Original_Downloads/`; the archive's own organizer never extracted them (mostly 2025-26 papers of NMIMS commerce, science and arts programmes, and older B.Tech Integrated papers). Every member of every raw ZIP was checked: the rest are byte-identical to files already listed, or are syllabi. `question_bank/raw_zip_papers.jsonl` records each member with its SHA-256.
+That is every file in `02_Question_Papers/` (25,064) plus 895 papers that exist only inside the portal's original ZIP downloads in `00_Original_Downloads/`, which the archive's own organizer never extracted:
+
+- 836 from the exam downloads: mostly 2025-26 papers of NMIMS commerce, science and arts programmes, and older B.Tech Integrated papers.
+- 59 from the portal's **syllabus** downloads (`00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip`), where the portal also keeps final-year exam papers, such as Generative AI, DevSecOps, Mechatronic Systems Design and Satellite Communication and Radar.
+
+Every member of every raw ZIP was checked: the rest are byte-identical to files already listed, or are syllabi. `question_bank/raw_zip_papers.jsonl` records each member with its SHA-256. Three files under `02_Question_Papers/` are kept but not read as papers: two syllabi the portal filed there (`kind: Syllabus`), and a Word file named as the Smart Cities 2025-26 paper that holds screenshots of the answer-sheet evaluation screen (`kind: Not a paper`, see `subject_overrides.json`).
 
 Download one or more subjects, already sorted into `PYQs_By_Subject/<Subject>/<Academic year>/`:
 
@@ -33,7 +38,25 @@ Every question paper has also been read into text (PDF text layer where present,
 - [`departments/`](departments/README.md): subjects grouped by branch (Computer, IT, EXTC, Mechanical, Civil, ..., and Commerce, Management Studies, Science and Arts for the other NMIMS programmes found in the ZIP downloads).
 - [`question_bank/README.md`](question_bank/README.md): field definitions, coverage and accuracy notes.
 
+What the reader does beyond plain text and OCR:
+
+- Pictures pasted into text-layer PDFs and Word files (worked solutions, tables, scanned questions) are OCR'd and added after the page text; on 5,700 pages this recovered content the text layer does not have. Charts and diagrams are left out.
+- Scans that are sideways or upside down (landscape tables, phone photos) are turned upright before OCR.
+- Truncated downloads are read as far as they go and marked with `damage`, and spreadsheets (exam data sets) are read sheet by sheet.
+- Nine papers have no text: the portal serves them encrypted (uniformly random bytes in 16-byte cipher blocks), and the archive's own re-download got the same bytes.
+
 `build_question_bank.py` regenerates all of this; see its header for the OCR requirements.
+
+## Syllabi
+
+All 4,003 documents in the portal's syllabus sections are read into text in [`syllabi/`](syllabi/README.md). They come from `04_Syllabi_Archive/`, `01_Current_Electives_2026-27/` and the syllabus ZIP downloads: 1,860 syllabi, 1,255 teaching schemes, and 888 exam papers and answer keys the portal filed there.
+
+- Syllabi are split into 12,814 course sections. The 10,212 that belong to a subject with past papers are also in that subject's folder as `subjects/<Subject>/syllabus.md`, next to its question papers: every version, newest batch first.
+- Courses without past papers have their own page in `syllabi/courses/`.
+- Each programme has a README by branch, batch and semester; `courses.jsonl` and `documents.jsonl` hold the same data for tools and AI.
+- Exam papers found in the syllabus sections link to their subject in the question bank instead of being split into courses.
+
+`build_syllabi.py` regenerates this from the committed text cache.
 
 ## Download and restore
 

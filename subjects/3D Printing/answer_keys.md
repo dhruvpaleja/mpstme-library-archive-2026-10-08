@@ -68,6 +68,14 @@ CO-2; BL-2   b.   Binder jetting additive manufacturing process   [10]
 • Explanation – 5 M
 • Applications – 2 M
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+* The triangulation to be made such that there are no vertices in the
+middle of an edge or a face.
+
+GG @F
+
+Consistent with the vertex-to-vertex rule WRONG triangulation for STL
 --- page 3 ---
 Q3
 CO-5; BL-4   a.   • Reverse engineering process – 5 M   [10]
@@ -94,6 +102,40 @@ CO-2; BL-3   a.   •   Selective Laser Melting (SLM) process   [10]
 •   Explanation – 5 M
 •   Applications – 2 M
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Description Additive Subtractive Formative
+
+Methodology Addition of layer Removal of material Shaping of material
+
+Volume Mass customised or Medium volume High volume
+customised
+
+Lead time Less High Medium
+
+Raw material Shapeless materials Bulk material Molten material/oulk material
+{powder, wire, etc.)
+
+Buy to fly ratio Low High Medium,
+
+Surface finish Low to medium Medium to high Medium
+
+Dimensional accuracy _ Low to medium High Medium
+
+Material No limitations Limited by material Metals and plastics
+
+hardness
+
+Size of components Limited to machine size in Large components canbe —_ Large components are
+
+most cases machined possible
+
+__Possible Limited
+
+_Compiex geometry
+Logistics freedom _
+
+Green technology Reduced material wastage “High material wastage Reduced material wastage
 --- page 5 ---
 CO-4; BL-2   b.   • Optimization - 2 M   [05]
 • Types of optimizations explanation – 3 M
@@ -241,6 +283,39 @@ file size.
 •   Units: STL files do not contain any information about the units used
 (millimeters, inches, etc.).
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Generative design
+
+* Generative design is a software tool that enables engineers and
+designers to approach design problems in more innovative and
+efficient ways.
+
+* Generative design algorithms explore all possible design solutions
+by defining goals and constraints, offering engineers numerous
+options to explore.
+
+* Generative design has shown remarkable potential for industrial
+applications, particularly when coupled with 3D printing.
+
+How generative design works
+
+1) Set parameters
+
+The designer specifies and sets the parameters for the part design, based on
+parameters such as weight, material, size, cost, strength, and manufacturing
+methods.
+
+2) Generate designs
+
+The generative design software uses algorithms to explore and generate
+thousands of design options. At this stage, the software can also use Al-powered
+algorithms to analyse each design and establish the most efficient designs.
+
+3) Select the best options
+
+The designer can then study these designs and select the outcomes which best
+meet the design goal.
 --- page 4 ---
 • The interpreting software assumes a unit, or the user must specify it.
 •   File Extension: The files typically have the extension .stl.
@@ -259,30 +334,318 @@ material.
 LOM works by using laminates of paper, plastic, or metal that are sequentially
 stacked and cut to form the desired shape.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Steps in LOM Process:
+
+* Layer Preparation: The material is fed into the machine from a roll or sheet
+stock.
+
+* Bonding: Layers are fused together by applying heat and pressure.
+* Cutting: A laser or CNC blade precisely cuts each cross-section from the sheet.
+
+* Waste Removal: After cutting, excess material surrounding the object (also called
+support material) is removed, often in a post-processing step.
+
+4
+
+1. Building Platform
+2. Feed Roller
+3. Lamination Roller
+4. Laser Cutter
+
+Bond-Then-Form Processes (LOM)
+Process Steps:
+
+¢ The building process involves three main steps:
+* Placing the laminate
+* Bonding it to the substrate
+* Cutting according to the slice contour
 --- page 5 ---
 Q3
 a. Explain how improper part orientation and layer thickness affects build time,   [10]
 material usage, and accuracy in additive manufacturing.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Form-Then-Bond Processes (LOM)
+
+Process Overview:
+
+¢ Sheet material is first cut to shape and then bonded to the substrate
+
+Key Features:
+
+* Commonly used for metallic and ceramic materials with thermal bonding
+
+* Currently, implementation is largely at the research level
+
+Importance of part orientation
+
+Part accuracy - By orientating the part in different directions, there is a
+significant difference in the print quality.
+
+Build time - Orientation can also have a significant impact on print time
+
+* Part strength - Some 3D printing build parts that have inherently
+anisotropic properties, meaning they are much stronger in the XY
+direction than the Z direction.
+
+° Support Structures - Support material adds extra time and cost to a 3D
+print.
+
+° Surface finish - the top or upward facing surfaces of a 3D printed part
+will have the best surface finish
+
+Effect of Layer Thickness
+
+* Strength:
+* Thicker layers may have weaker inter-layer adhesion, reducing overall part strength.
++ Thinner layers improve bonding between layers, generally resulting in stronger parts.
+* Dimensional Accuracy:
+* Thinner layers provide higher resolution and better accuracy for intricate details.
+* Thicker layers may compromise fine details, leading to a less accurate final product.
+* Surface Finish:
+* Thinner layers result in a smoother surface finish with less visible stepping or layer lines.
+* Thicker layers can cause a rougher finish with more pronounced layer lines, requiring additional post-processing.
+* Build Time:
+* Thicker layers reduce the number of layers needed, decreasing print time.
+* Thinner layers increase the number of layers, significantly extending the printing time.
+* Material Consumption:
+* Thicker layers might slightly reduce material usage due to fewer layers, though this effect is minimal.
+* Thinner layers increase material usage as more layers are required to complete the print.
+* Cost Efficiency or Trade-offs:
+* Thicker layers can lower costs by reducing printing time and post-processing needs but may compromise quality.
+
++ Thinner layers, while offering better quality, can increase costs due to longer print times and higher material
+consumption.
 --- page 6 ---
 b. What is power Bed fusion in 3D Printing? Illustrate and explain the working of [10]
 the Selective Laser Sintering (SLS) process with a neat diagram.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Powder bed fusion (PBF)
+
+Introduction to Powder Bed Fusion (PBF)
+
+e Uses thermal sources to induce fusion between powder particles.
+e Produces solid parts in specific locations within the build area.
+Characteristics of PBF Technologies
+
+¢ Employs mechanisms for powder application and smoothing during
+construction.
+
+e Final components are encased in powder.
+Thermal Sources
+e Commonly used thermal source: Lasers.
+
+e PBF processes utilizing lasers are known as Laser Sintering (LS).
+
+Selective Laser Sintering (SLS)
+
+¢ Type of Powder Bed Fusion (PBF) technology.
+
+¢ Employs laser as the primary thermal source for material fusion.
+
+Basic SLS Process Steps
+
+e Layering: A thin layer of powder material is spread across the build platform.
+
+¢ Scanning: A laser scans the powdered material, selectively fusing particles together based on a
+digital model.
+
+¢ Building: The build platform lowers, and a new layer of powder is applied, repeating the
+scanning and fusing process.
+
+¢ Cooling: The part remains encased in powder until cooling is complete, preventing warping.
+
+Enclosed Chamber
+- The part building takes place within an enclosed chamber filled with nitrogen gas.
+
+- This environment minimizes oxidation and degradation of the powdered material,
+ensuring high-quality outputs.
+
+Preheating Process
+
+-   Preheating the powder is crucial for successful printing.
+
++ It maintains an elevated and uniform temperature within the build platform.
+
+- This practice helps to reduce the laser power requirements needed for the process.
+Post-Printing Steps
+
+- After printing, parts are fully encapsulated in unsintered powder.
+
+- Asignificant cooling period, which can last up to 12 hours, is necessary before
+unpacking the components.
+
+- Careful handling during unpacking is essential to avoid damage.
+Cleaning Parts
+- Once cooled, parts are cleaned using compressed air or various blasting media.
+
++ This step prepares the parts for immediate use or for additional processing if necessary.
 --- page 7 ---
 Q4
 a. Apply the concept of topology optimization in additive manufacturing to explain [10]
 its methodology and demonstrate how it enables lightweight structure design.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Advantages of SLS
+
+¢ No need for support structures, as the surrounding powder acts as support.
+e Ability to create complex geometries and designs.
+
+¢ Suitable for both prototyping and low-to-medium volume production.
+
+Applications of SLS
+
+¢ Rapid prototyping for functional parts.
+
+¢ Production of end-use components in aerospace, automotive, and medical industries.
+e¢ Custom tools and fixtures.
+
+Topology optimization
+
+* Topology optimization (TO) methods determine the overall
+
+configuration of shape elements in a design problem.
+
+*TO results are used as inputs to subsequent size or shape
+
+optimization problems.
+
+¢ As structural optimization methods, finite element analyses are
+performed during each iteration of the optimization method, which
+
+means that TO can be computationally demanding.
+
+Topology optimization
+
+*TO solutions should result in structures that are nearly fully
+stressed, or have constant strain energy, throughout the structure
+geometry based on the specified loading conditions.
+
+* Two main approaches have been developed for TO problems:
+
+1. Truss-based methods.
+
+2. Volume-based density methods.
 --- page 8 ---
 b. Explain how Design for Additive Manufacturing (DfAM) enables innovation [05]
 in AM industry applications.
 c. Explain the AM process chain in detail from CAD model to final product.   [05]
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Design for Additive Manufacturing
+
+* This concept emerges due to the enormous design freedom provided
+by AM technologies.
+
+¢ To take full advantages of unique capabilities from AM processes,
+DfAM methods or tools are needed.
+
+* Typical DfAM methods or tools includes topology optimization,
+design for multiscale structures (lattice or cellular structures), multi-
+material design, mass customization, part consolidation, and other
+design methods which can make use of AM-enabled features.
+
+AM Unique Capabilities
+
+* Shape complexity: it is possible to build virtually any shape
+
+* Hierarchical complexity: features can be designed with shape
+
+complexity across multiple size scales
+
+¢ Functional complexity: functional devices (not just individual piece-
+
+parts) can be produced in one build
+
+« Material complexity: material can be processed one point, or one
+
+layer, at a time as a single material or as a combination of materials
+
+Step 1: CAD
+Step 3: Transfer to AM Machine and STL File Manipulation
+
+Step 6: Removal
+Step 8: Application
 --- page 9 ---
 Q5
 a. Discuss the Material Jetting process in detail, including working mechanism,   [10]
 materials, advantages, limitations, and applications.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Material Jetting
+
+* It operates similarly to inkjet printing but with more advanced materials like
+polymers, waxes, and even metals
+
+Process Overview:
+
+* Jetting Mechanism: Printer’s nozzles deposit small droplets of material layer
+by layer onto a build platform. These droplets are typically photosensitive
+polymers, which are then cured by ultraviolet (UV) light immediately after
+deposition. This allows for precise and rapid solidification.
+
+* Layering: Layers of material are built up to form a 3D object. Each layer is
+cured before the next layer is deposited.
+
+* Multimaterial Capabilities: Material jetting allows for multiple materials to
+be deposited in a single build process. Example-it can use rigid materials for
+structure and flexible materials for hinges or soft components.
+
+* High Resolution: Offers high dimensional accuracy and smooth surface
+finishes, making it suitable for intricate designs.
+
+Materials Used:
+
+* Photopolymers: (material that experiences a direct or indirect interaction with light to change its physical or chemical properties)
+Most commonly used materials in material jetting. They are cured with UV light
+after being deposited.
+
+* Waxes: Primarily used for applications like casting, where the wax model can later
+be used as a mold.
+
+* Metallic Inks: Some systems can deposit metallic particles in a binder, which can
+later be sintered to form solid metal parts (although these systems are less
+
+crammnan)
+
+Advantages:
+
++ High Detail & Accuracy: Material jetting offers very fine resolution, making it ideal for applications
+requiring intricate details.
+
++ Multi-Material & Color Printing: The ability to print in multiple materials and colors in a single build is
+a key feature.
+
+* Smooth Surface Finish: Process often results in smoother surfaces right out of the printer without any
+post processing.
+
+Limitations:
+
+* Material Limitations: The range of materials is limited compared to other methods like FDM or SLS.
+Most materials used are photopolymers or wax, which may not be suitable for functional or high-
+strength applications.
+
+* Cost: Material jetting systems tend to be expensive, both in terms of machine cost and material
+consumption.
+
+Applications:
+
+. Prototyping: Due to the high resolution, material jetting is ideal for creating detailed prototypes
+with a fine surface finish.
+
+* Medical Models: It's used to create anatomical models with realistic textures, colors, and
+materials for surgical planning or educational purposes.
+
+* Casting Molds: Wax models produced through material jetting can be used in investment casting
+for metal parts.
 --- page 10 ---
 b. Classify 3D Printing Processes based on their working principles.   [05]
 c. Explain the significance of support generation in FDM 3D printing.   [05]
@@ -296,6 +659,53 @@ design time.
 luxury cars).
 • Lightweight structures help improve fuel efficiency and performance.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Vat photo polymerization: processes that utilize a liquid photopolymer contained in a vat
+and processed by selectively delivering energy to cure specific regions of a part cross-section.
+
+Powder bed fusion: processes that utilize a container filled with powder processed
+selectively using an energy source, most commonly a scanning laser or electron beam.
+
+Material extrusion: processes that deposit a material by extruding it through a nozzle,
+typically while scanning the nozzle in a pattern that produces a part cross-section.
+
+Material jetting: ink-jet printing processes.
+
+Binder jetting: processes where a binder printed into a powder bed in order to form part
+cross-sections.
+
+Sheet lamination: processes that deposit a layer of material at a time, where the material is in
+sheet form.
+
+Directed energy deposition: processes that simultaneously deposit a material (usually
+powder or wire) and provide energy to process that material through a single deposition
+device.
+
+Support generation
+
+¢ FDM printers can’t deposit molten thermoplastic on thin air.
+
+* Certain part geometries require support structures, usually printed
+in the same material as the parts themselves.
+
+e Removing support structure materials can be difficult, often far
+easier to design parts in such a way that minimizes the need for
+support structures.
+
+* Support materials that dissolve in liquid available, but generally
+used them in tandem with higher-end FDM 3D printers.
+
+* Using dissolvable supports increase the overall cost ofa print.
+
+A visual illustration of
+support structures needed
+for printing a Y, H & T with
+
+il] FDM
+
+Y,H, and T printed with |
+FDM with support | iil
 --- page 11 ---
 • Enables complex geometries not achievable with conventional machining.
 • Shortened product development cycle, leading to faster market entry
@@ -324,15 +734,108 @@ patients.
 b. Explain the working principle of Ultrasonic Additive Manufacturing (UAM) and [10]
 discuss how it differs from conventional additive manufacturing processes.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Ultrasonic Additive Manufacturing (UAM)
+
+* Ultrasonic Additive Manufacturing (UAM) is a hybrid manufacturing process that
+combines additive and subtractive techniques, using ultrasonic energy to bond
+thin metal foils layer by layer.
+
+* It enables the creation of complex metal parts without melting the material, thus
+avoiding issues related to thermal stresses and distortion seen in conventional
+additive manufacturing (AM) methods like laser or electron beam melting.
+
+* Object built up on rigidly held base plate bolted on heated plate with temperature
+ranging from room temperature to 200° C.
+
+* Parts built from bottom to top and each layer composed of several metal foils laid
+
+side by side and then trimmed by CNC milling.
 --- page 12 ---
 Q7
 a. Demonstrate different post-processing methods used to enhance the dimensional   [10]
 accuracy and aesthetics of FDM printed parts.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Steps -
+
+1) A rotating sonotrode travels along the length of a thin metal foil
+(typically 100-150 um thick).
+
+2) Foil held closely in contact with the base plate or previous layer
+by applying a normal force via the rotating sonotrode
+
+3) Sonotrode oscillates transversely to the direction of motion, at a
+constant 20 kHz frequency and user-set oscillation amplitude.
+
+4) After depositing a foil, another foil deposited adjacent to it.
+
+5) Procedure repeated until a complete layer is placed.
+
+¢ The important controllable process parameters of UAM are:
+> Oscillation amplitude
+> Normal force
+> Travel speed
+> Temperature
+
+* The quality of bonding in UAM significantly affected by each
+of these process parameters.
+
+Post processing methods
+
+Priming & painting
+
+™ Vapor smoothing
+Gap filling
+Dippin;
+Polishing
+
+Epoxy coating
+Metal plating
 --- page 13 ---
 b. Describe the Vat Photopolymerization process in detail, including SLA, DLP, and [10]
 LCD techniques with advantages and limitations.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Vat Polymerization
+
+the model is constructed layer by layer.
+
+(Photopolymer resin is a polymer that changes its properties (crystalize and stiffen) when exposed to light, most commonly ultraviolet light)
+
+An ultraviolet (UV) light is used to cure or harden the resin where
+required, whilst a platform moves the object being made downwards after
+each new layer is cured.
+
+As the process uses liquid to form objects, there is no structural support
+from the material during the build phase.
+
+Resins are cured using a process of photo polymerisation or UV light.
+
+Light is directed across the surface of the resin with the use of motor
+controlled mirrors.
+
+The resin comes in contact with the light, it cures or hardens.
+
+Photopolymerisation — Step by Step
+
+The build platform is lowered from the top of the
+resin vat downwards by the layer thickness.
+
+A UV light cures the resin layer by layer.
+
+The platform continues to move downwards and
+additional layers are built on top of the previous.
+
+Some machines use a blade which moves between
+layers in order to provide a smooth resin base to build
+the next layer on.
+
+After completion, the vat is drained of resin and the
+object removed.
 --- page 14 ---
 1. Stereolithography (SLA)
 Process: SLA uses a laser to trace and cure the liquid resin layer by layer.
@@ -471,6 +974,39 @@ file size.
 •   Units: STL files do not contain any information about the units used
 (millimeters, inches, etc.).
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Generative design
+
+* Generative design is a software tool that enables engineers and
+designers to approach design problems in more innovative and
+efficient ways.
+
+* Generative design algorithms explore all possible design solutions
+by defining goals and constraints, offering engineers numerous
+options to explore.
+
+* Generative design has shown remarkable potential for industrial
+applications, particularly when coupled with 3D printing.
+
+How generative design works
+
+1) Set parameters
+
+The designer specifies and sets the parameters for the part design, based on
+parameters such as weight, material, size, cost, strength, and manufacturing
+methods.
+
+2) Generate designs
+
+The generative design software uses algorithms to explore and generate
+thousands of design options. At this stage, the software can also use Al-powered
+algorithms to analyse each design and establish the most efficient designs.
+
+3) Select the best options
+
+The designer can then study these designs and select the outcomes which best
+meet the design goal.
 --- page 4 ---
 • The interpreting software assumes a unit, or the user must specify it.
 •   File Extension: The files typically have the extension .stl.
@@ -489,30 +1025,318 @@ material.
 LOM works by using laminates of paper, plastic, or metal that are sequentially
 stacked and cut to form the desired shape.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Steps in LOM Process:
+
+* Layer Preparation: The material is fed into the machine from a roll or sheet
+stock.
+
+* Bonding: Layers are fused together by applying heat and pressure.
+* Cutting: A laser or CNC blade precisely cuts each cross-section from the sheet.
+
+* Waste Removal: After cutting, excess material surrounding the object (also called
+support material) is removed, often in a post-processing step.
+
+4
+
+1. Building Platform
+2. Feed Roller
+3. Lamination Roller
+4. Laser Cutter
+
+Bond-Then-Form Processes (LOM)
+Process Steps:
+
+¢ The building process involves three main steps:
+* Placing the laminate
+* Bonding it to the substrate
+* Cutting according to the slice contour
 --- page 5 ---
 Q3
 a. Explain how improper part orientation and layer thickness affects build time,   [10]
 material usage, and accuracy in additive manufacturing.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Form-Then-Bond Processes (LOM)
+
+Process Overview:
+
+¢ Sheet material is first cut to shape and then bonded to the substrate
+
+Key Features:
+
+* Commonly used for metallic and ceramic materials with thermal bonding
+
+* Currently, implementation is largely at the research level
+
+Importance of part orientation
+
+Part accuracy - By orientating the part in different directions, there is a
+significant difference in the print quality.
+
+Build time - Orientation can also have a significant impact on print time
+
+* Part strength - Some 3D printing build parts that have inherently
+anisotropic properties, meaning they are much stronger in the XY
+direction than the Z direction.
+
+° Support Structures - Support material adds extra time and cost to a 3D
+print.
+
+° Surface finish - the top or upward facing surfaces of a 3D printed part
+will have the best surface finish
+
+Effect of Layer Thickness
+
+* Strength:
+* Thicker layers may have weaker inter-layer adhesion, reducing overall part strength.
++ Thinner layers improve bonding between layers, generally resulting in stronger parts.
+* Dimensional Accuracy:
+* Thinner layers provide higher resolution and better accuracy for intricate details.
+* Thicker layers may compromise fine details, leading to a less accurate final product.
+* Surface Finish:
+* Thinner layers result in a smoother surface finish with less visible stepping or layer lines.
+* Thicker layers can cause a rougher finish with more pronounced layer lines, requiring additional post-processing.
+* Build Time:
+* Thicker layers reduce the number of layers needed, decreasing print time.
+* Thinner layers increase the number of layers, significantly extending the printing time.
+* Material Consumption:
+* Thicker layers might slightly reduce material usage due to fewer layers, though this effect is minimal.
+* Thinner layers increase material usage as more layers are required to complete the print.
+* Cost Efficiency or Trade-offs:
+* Thicker layers can lower costs by reducing printing time and post-processing needs but may compromise quality.
+
++ Thinner layers, while offering better quality, can increase costs due to longer print times and higher material
+consumption.
 --- page 6 ---
 b. What is power Bed fusion in 3D Printing? Illustrate and explain the working of [10]
 the Selective Laser Sintering (SLS) process with a neat diagram.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Powder bed fusion (PBF)
+
+Introduction to Powder Bed Fusion (PBF)
+
+e Uses thermal sources to induce fusion between powder particles.
+e Produces solid parts in specific locations within the build area.
+Characteristics of PBF Technologies
+
+¢ Employs mechanisms for powder application and smoothing during
+construction.
+
+e Final components are encased in powder.
+Thermal Sources
+e Commonly used thermal source: Lasers.
+
+e PBF processes utilizing lasers are known as Laser Sintering (LS).
+
+Selective Laser Sintering (SLS)
+
+¢ Type of Powder Bed Fusion (PBF) technology.
+
+¢ Employs laser as the primary thermal source for material fusion.
+
+Basic SLS Process Steps
+
+e Layering: A thin layer of powder material is spread across the build platform.
+
+¢ Scanning: A laser scans the powdered material, selectively fusing particles together based on a
+digital model.
+
+¢ Building: The build platform lowers, and a new layer of powder is applied, repeating the
+scanning and fusing process.
+
+¢ Cooling: The part remains encased in powder until cooling is complete, preventing warping.
+
+Enclosed Chamber
+- The part building takes place within an enclosed chamber filled with nitrogen gas.
+
+- This environment minimizes oxidation and degradation of the powdered material,
+ensuring high-quality outputs.
+
+Preheating Process
+
+-   Preheating the powder is crucial for successful printing.
+
++ It maintains an elevated and uniform temperature within the build platform.
+
+- This practice helps to reduce the laser power requirements needed for the process.
+Post-Printing Steps
+
+- After printing, parts are fully encapsulated in unsintered powder.
+
+- Asignificant cooling period, which can last up to 12 hours, is necessary before
+unpacking the components.
+
+- Careful handling during unpacking is essential to avoid damage.
+Cleaning Parts
+- Once cooled, parts are cleaned using compressed air or various blasting media.
+
++ This step prepares the parts for immediate use or for additional processing if necessary.
 --- page 7 ---
 Q4
 a. Apply the concept of topology optimization in additive manufacturing to explain [10]
 its methodology and demonstrate how it enables lightweight structure design.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Advantages of SLS
+
+¢ No need for support structures, as the surrounding powder acts as support.
+e Ability to create complex geometries and designs.
+
+¢ Suitable for both prototyping and low-to-medium volume production.
+
+Applications of SLS
+
+¢ Rapid prototyping for functional parts.
+
+¢ Production of end-use components in aerospace, automotive, and medical industries.
+e¢ Custom tools and fixtures.
+
+Topology optimization
+
+* Topology optimization (TO) methods determine the overall
+
+configuration of shape elements in a design problem.
+
+*TO results are used as inputs to subsequent size or shape
+
+optimization problems.
+
+¢ As structural optimization methods, finite element analyses are
+performed during each iteration of the optimization method, which
+
+means that TO can be computationally demanding.
+
+Topology optimization
+
+*TO solutions should result in structures that are nearly fully
+stressed, or have constant strain energy, throughout the structure
+geometry based on the specified loading conditions.
+
+* Two main approaches have been developed for TO problems:
+
+1. Truss-based methods.
+
+2. Volume-based density methods.
 --- page 8 ---
 b. Explain how Design for Additive Manufacturing (DfAM) enables innovation [05]
 in AM industry applications.
 c. Explain the AM process chain in detail from CAD model to final product.   [05]
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Design for Additive Manufacturing
+
+* This concept emerges due to the enormous design freedom provided
+by AM technologies.
+
+¢ To take full advantages of unique capabilities from AM processes,
+DfAM methods or tools are needed.
+
+* Typical DfAM methods or tools includes topology optimization,
+design for multiscale structures (lattice or cellular structures), multi-
+material design, mass customization, part consolidation, and other
+design methods which can make use of AM-enabled features.
+
+AM Unique Capabilities
+
+* Shape complexity: it is possible to build virtually any shape
+
+* Hierarchical complexity: features can be designed with shape
+
+complexity across multiple size scales
+
+¢ Functional complexity: functional devices (not just individual piece-
+
+parts) can be produced in one build
+
+« Material complexity: material can be processed one point, or one
+
+layer, at a time as a single material or as a combination of materials
+
+Step 1: CAD
+Step 3: Transfer to AM Machine and STL File Manipulation
+
+Step 6: Removal
+Step 8: Application
 --- page 9 ---
 Q5
 a. Discuss the Material Jetting process in detail, including working mechanism,   [10]
 materials, advantages, limitations, and applications.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Material Jetting
+
+* It operates similarly to inkjet printing but with more advanced materials like
+polymers, waxes, and even metals
+
+Process Overview:
+
+* Jetting Mechanism: Printer’s nozzles deposit small droplets of material layer
+by layer onto a build platform. These droplets are typically photosensitive
+polymers, which are then cured by ultraviolet (UV) light immediately after
+deposition. This allows for precise and rapid solidification.
+
+* Layering: Layers of material are built up to form a 3D object. Each layer is
+cured before the next layer is deposited.
+
+* Multimaterial Capabilities: Material jetting allows for multiple materials to
+be deposited in a single build process. Example-it can use rigid materials for
+structure and flexible materials for hinges or soft components.
+
+* High Resolution: Offers high dimensional accuracy and smooth surface
+finishes, making it suitable for intricate designs.
+
+Materials Used:
+
+* Photopolymers: (material that experiences a direct or indirect interaction with light to change its physical or chemical properties)
+Most commonly used materials in material jetting. They are cured with UV light
+after being deposited.
+
+* Waxes: Primarily used for applications like casting, where the wax model can later
+be used as a mold.
+
+* Metallic Inks: Some systems can deposit metallic particles in a binder, which can
+later be sintered to form solid metal parts (although these systems are less
+
+crammnan)
+
+Advantages:
+
++ High Detail & Accuracy: Material jetting offers very fine resolution, making it ideal for applications
+requiring intricate details.
+
++ Multi-Material & Color Printing: The ability to print in multiple materials and colors in a single build is
+a key feature.
+
+* Smooth Surface Finish: Process often results in smoother surfaces right out of the printer without any
+post processing.
+
+Limitations:
+
+* Material Limitations: The range of materials is limited compared to other methods like FDM or SLS.
+Most materials used are photopolymers or wax, which may not be suitable for functional or high-
+strength applications.
+
+* Cost: Material jetting systems tend to be expensive, both in terms of machine cost and material
+consumption.
+
+Applications:
+
+. Prototyping: Due to the high resolution, material jetting is ideal for creating detailed prototypes
+with a fine surface finish.
+
+* Medical Models: It's used to create anatomical models with realistic textures, colors, and
+materials for surgical planning or educational purposes.
+
+* Casting Molds: Wax models produced through material jetting can be used in investment casting
+for metal parts.
 --- page 10 ---
 b. Classify 3D Printing Processes based on their working principles.   [05]
 c. Explain the significance of support generation in FDM 3D printing.   [05]
@@ -526,6 +1350,53 @@ design time.
 luxury cars).
 • Lightweight structures help improve fuel efficiency and performance.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Vat photo polymerization: processes that utilize a liquid photopolymer contained in a vat
+and processed by selectively delivering energy to cure specific regions of a part cross-section.
+
+Powder bed fusion: processes that utilize a container filled with powder processed
+selectively using an energy source, most commonly a scanning laser or electron beam.
+
+Material extrusion: processes that deposit a material by extruding it through a nozzle,
+typically while scanning the nozzle in a pattern that produces a part cross-section.
+
+Material jetting: ink-jet printing processes.
+
+Binder jetting: processes where a binder printed into a powder bed in order to form part
+cross-sections.
+
+Sheet lamination: processes that deposit a layer of material at a time, where the material is in
+sheet form.
+
+Directed energy deposition: processes that simultaneously deposit a material (usually
+powder or wire) and provide energy to process that material through a single deposition
+device.
+
+Support generation
+
+¢ FDM printers can’t deposit molten thermoplastic on thin air.
+
+* Certain part geometries require support structures, usually printed
+in the same material as the parts themselves.
+
+e Removing support structure materials can be difficult, often far
+easier to design parts in such a way that minimizes the need for
+support structures.
+
+* Support materials that dissolve in liquid available, but generally
+used them in tandem with higher-end FDM 3D printers.
+
+* Using dissolvable supports increase the overall cost ofa print.
+
+A visual illustration of
+support structures needed
+for printing a Y, H & T with
+
+il] FDM
+
+Y,H, and T printed with |
+FDM with support | iil
 --- page 11 ---
 • Enables complex geometries not achievable with conventional machining.
 • Shortened product development cycle, leading to faster market entry
@@ -554,15 +1425,108 @@ patients.
 b. Explain the working principle of Ultrasonic Additive Manufacturing (UAM) and [10]
 discuss how it differs from conventional additive manufacturing processes.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Ultrasonic Additive Manufacturing (UAM)
+
+* Ultrasonic Additive Manufacturing (UAM) is a hybrid manufacturing process that
+combines additive and subtractive techniques, using ultrasonic energy to bond
+thin metal foils layer by layer.
+
+* It enables the creation of complex metal parts without melting the material, thus
+avoiding issues related to thermal stresses and distortion seen in conventional
+additive manufacturing (AM) methods like laser or electron beam melting.
+
+* Object built up on rigidly held base plate bolted on heated plate with temperature
+ranging from room temperature to 200° C.
+
+* Parts built from bottom to top and each layer composed of several metal foils laid
+
+side by side and then trimmed by CNC milling.
 --- page 12 ---
 Q7
 a. Demonstrate different post-processing methods used to enhance the dimensional   [10]
 accuracy and aesthetics of FDM printed parts.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Steps -
+
+1) A rotating sonotrode travels along the length of a thin metal foil
+(typically 100-150 um thick).
+
+2) Foil held closely in contact with the base plate or previous layer
+by applying a normal force via the rotating sonotrode
+
+3) Sonotrode oscillates transversely to the direction of motion, at a
+constant 20 kHz frequency and user-set oscillation amplitude.
+
+4) After depositing a foil, another foil deposited adjacent to it.
+
+5) Procedure repeated until a complete layer is placed.
+
+¢ The important controllable process parameters of UAM are:
+> Oscillation amplitude
+> Normal force
+> Travel speed
+> Temperature
+
+* The quality of bonding in UAM significantly affected by each
+of these process parameters.
+
+Post processing methods
+
+Priming & painting
+
+™ Vapor smoothing
+Gap filling
+Dippin;
+Polishing
+
+Epoxy coating
+Metal plating
 --- page 13 ---
 b. Describe the Vat Photopolymerization process in detail, including SLA, DLP, and [10]
 LCD techniques with advantages and limitations.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Vat Polymerization
+
+the model is constructed layer by layer.
+
+(Photopolymer resin is a polymer that changes its properties (crystalize and stiffen) when exposed to light, most commonly ultraviolet light)
+
+An ultraviolet (UV) light is used to cure or harden the resin where
+required, whilst a platform moves the object being made downwards after
+each new layer is cured.
+
+As the process uses liquid to form objects, there is no structural support
+from the material during the build phase.
+
+Resins are cured using a process of photo polymerisation or UV light.
+
+Light is directed across the surface of the resin with the use of motor
+controlled mirrors.
+
+The resin comes in contact with the light, it cures or hardens.
+
+Photopolymerisation — Step by Step
+
+The build platform is lowered from the top of the
+resin vat downwards by the layer thickness.
+
+A UV light cures the resin layer by layer.
+
+The platform continues to move downwards and
+additional layers are built on top of the previous.
+
+Some machines use a blade which moves between
+layers in order to provide a smooth resin base to build
+the next layer on.
+
+After completion, the vat is drained of resin and the
+object removed.
 --- page 14 ---
 1. Stereolithography (SLA)
 Process: SLA uses a laser to trace and cure the liquid resin layer by layer.
@@ -701,6 +1665,39 @@ file size.
 •   Units: STL files do not contain any information about the units used
 (millimeters, inches, etc.).
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Generative design
+
+* Generative design is a software tool that enables engineers and
+designers to approach design problems in more innovative and
+efficient ways.
+
+* Generative design algorithms explore all possible design solutions
+by defining goals and constraints, offering engineers numerous
+options to explore.
+
+* Generative design has shown remarkable potential for industrial
+applications, particularly when coupled with 3D printing.
+
+How generative design works
+
+1) Set parameters
+
+The designer specifies and sets the parameters for the part design, based on
+parameters such as weight, material, size, cost, strength, and manufacturing
+methods.
+
+2) Generate designs
+
+The generative design software uses algorithms to explore and generate
+thousands of design options. At this stage, the software can also use Al-powered
+algorithms to analyse each design and establish the most efficient designs.
+
+3) Select the best options
+
+The designer can then study these designs and select the outcomes which best
+meet the design goal.
 --- page 4 ---
 • The interpreting software assumes a unit, or the user must specify it.
 •   File Extension: The files typically have the extension .stl.
@@ -719,30 +1716,318 @@ material.
 LOM works by using laminates of paper, plastic, or metal that are sequentially
 stacked and cut to form the desired shape.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Steps in LOM Process:
+
+* Layer Preparation: The material is fed into the machine from a roll or sheet
+stock.
+
+* Bonding: Layers are fused together by applying heat and pressure.
+* Cutting: A laser or CNC blade precisely cuts each cross-section from the sheet.
+
+* Waste Removal: After cutting, excess material surrounding the object (also called
+support material) is removed, often in a post-processing step.
+
+4
+
+1. Building Platform
+2. Feed Roller
+3. Lamination Roller
+4. Laser Cutter
+
+Bond-Then-Form Processes (LOM)
+Process Steps:
+
+¢ The building process involves three main steps:
+* Placing the laminate
+* Bonding it to the substrate
+* Cutting according to the slice contour
 --- page 5 ---
 Q3
 a. Explain how improper part orientation and layer thickness affects build time,   [10]
 material usage, and accuracy in additive manufacturing.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Form-Then-Bond Processes (LOM)
+
+Process Overview:
+
+¢ Sheet material is first cut to shape and then bonded to the substrate
+
+Key Features:
+
+* Commonly used for metallic and ceramic materials with thermal bonding
+
+* Currently, implementation is largely at the research level
+
+Importance of part orientation
+
+Part accuracy - By orientating the part in different directions, there is a
+significant difference in the print quality.
+
+Build time - Orientation can also have a significant impact on print time
+
+* Part strength - Some 3D printing build parts that have inherently
+anisotropic properties, meaning they are much stronger in the XY
+direction than the Z direction.
+
+° Support Structures - Support material adds extra time and cost to a 3D
+print.
+
+° Surface finish - the top or upward facing surfaces of a 3D printed part
+will have the best surface finish
+
+Effect of Layer Thickness
+
+* Strength:
+* Thicker layers may have weaker inter-layer adhesion, reducing overall part strength.
++ Thinner layers improve bonding between layers, generally resulting in stronger parts.
+* Dimensional Accuracy:
+* Thinner layers provide higher resolution and better accuracy for intricate details.
+* Thicker layers may compromise fine details, leading to a less accurate final product.
+* Surface Finish:
+* Thinner layers result in a smoother surface finish with less visible stepping or layer lines.
+* Thicker layers can cause a rougher finish with more pronounced layer lines, requiring additional post-processing.
+* Build Time:
+* Thicker layers reduce the number of layers needed, decreasing print time.
+* Thinner layers increase the number of layers, significantly extending the printing time.
+* Material Consumption:
+* Thicker layers might slightly reduce material usage due to fewer layers, though this effect is minimal.
+* Thinner layers increase material usage as more layers are required to complete the print.
+* Cost Efficiency or Trade-offs:
+* Thicker layers can lower costs by reducing printing time and post-processing needs but may compromise quality.
+
++ Thinner layers, while offering better quality, can increase costs due to longer print times and higher material
+consumption.
 --- page 6 ---
 b. What is power Bed fusion in 3D Printing? Illustrate and explain the working of [10]
 the Selective Laser Sintering (SLS) process with a neat diagram.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Powder bed fusion (PBF)
+
+Introduction to Powder Bed Fusion (PBF)
+
+e Uses thermal sources to induce fusion between powder particles.
+e Produces solid parts in specific locations within the build area.
+Characteristics of PBF Technologies
+
+¢ Employs mechanisms for powder application and smoothing during
+construction.
+
+e Final components are encased in powder.
+Thermal Sources
+e Commonly used thermal source: Lasers.
+
+e PBF processes utilizing lasers are known as Laser Sintering (LS).
+
+Selective Laser Sintering (SLS)
+
+¢ Type of Powder Bed Fusion (PBF) technology.
+
+¢ Employs laser as the primary thermal source for material fusion.
+
+Basic SLS Process Steps
+
+e Layering: A thin layer of powder material is spread across the build platform.
+
+¢ Scanning: A laser scans the powdered material, selectively fusing particles together based on a
+digital model.
+
+¢ Building: The build platform lowers, and a new layer of powder is applied, repeating the
+scanning and fusing process.
+
+¢ Cooling: The part remains encased in powder until cooling is complete, preventing warping.
+
+Enclosed Chamber
+- The part building takes place within an enclosed chamber filled with nitrogen gas.
+
+- This environment minimizes oxidation and degradation of the powdered material,
+ensuring high-quality outputs.
+
+Preheating Process
+
+-   Preheating the powder is crucial for successful printing.
+
++ It maintains an elevated and uniform temperature within the build platform.
+
+- This practice helps to reduce the laser power requirements needed for the process.
+Post-Printing Steps
+
+- After printing, parts are fully encapsulated in unsintered powder.
+
+- Asignificant cooling period, which can last up to 12 hours, is necessary before
+unpacking the components.
+
+- Careful handling during unpacking is essential to avoid damage.
+Cleaning Parts
+- Once cooled, parts are cleaned using compressed air or various blasting media.
+
++ This step prepares the parts for immediate use or for additional processing if necessary.
 --- page 7 ---
 Q4
 a. Apply the concept of topology optimization in additive manufacturing to explain [10]
 its methodology and demonstrate how it enables lightweight structure design.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Advantages of SLS
+
+¢ No need for support structures, as the surrounding powder acts as support.
+e Ability to create complex geometries and designs.
+
+¢ Suitable for both prototyping and low-to-medium volume production.
+
+Applications of SLS
+
+¢ Rapid prototyping for functional parts.
+
+¢ Production of end-use components in aerospace, automotive, and medical industries.
+e¢ Custom tools and fixtures.
+
+Topology optimization
+
+* Topology optimization (TO) methods determine the overall
+
+configuration of shape elements in a design problem.
+
+*TO results are used as inputs to subsequent size or shape
+
+optimization problems.
+
+¢ As structural optimization methods, finite element analyses are
+performed during each iteration of the optimization method, which
+
+means that TO can be computationally demanding.
+
+Topology optimization
+
+*TO solutions should result in structures that are nearly fully
+stressed, or have constant strain energy, throughout the structure
+geometry based on the specified loading conditions.
+
+* Two main approaches have been developed for TO problems:
+
+1. Truss-based methods.
+
+2. Volume-based density methods.
 --- page 8 ---
 b. Explain how Design for Additive Manufacturing (DfAM) enables innovation [05]
 in AM industry applications.
 c. Explain the AM process chain in detail from CAD model to final product.   [05]
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Design for Additive Manufacturing
+
+* This concept emerges due to the enormous design freedom provided
+by AM technologies.
+
+¢ To take full advantages of unique capabilities from AM processes,
+DfAM methods or tools are needed.
+
+* Typical DfAM methods or tools includes topology optimization,
+design for multiscale structures (lattice or cellular structures), multi-
+material design, mass customization, part consolidation, and other
+design methods which can make use of AM-enabled features.
+
+AM Unique Capabilities
+
+* Shape complexity: it is possible to build virtually any shape
+
+* Hierarchical complexity: features can be designed with shape
+
+complexity across multiple size scales
+
+¢ Functional complexity: functional devices (not just individual piece-
+
+parts) can be produced in one build
+
+« Material complexity: material can be processed one point, or one
+
+layer, at a time as a single material or as a combination of materials
+
+Step 1: CAD
+Step 3: Transfer to AM Machine and STL File Manipulation
+
+Step 6: Removal
+Step 8: Application
 --- page 9 ---
 Q5
 a. Discuss the Material Jetting process in detail, including working mechanism,   [10]
 materials, advantages, limitations, and applications.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Material Jetting
+
+* It operates similarly to inkjet printing but with more advanced materials like
+polymers, waxes, and even metals
+
+Process Overview:
+
+* Jetting Mechanism: Printer’s nozzles deposit small droplets of material layer
+by layer onto a build platform. These droplets are typically photosensitive
+polymers, which are then cured by ultraviolet (UV) light immediately after
+deposition. This allows for precise and rapid solidification.
+
+* Layering: Layers of material are built up to form a 3D object. Each layer is
+cured before the next layer is deposited.
+
+* Multimaterial Capabilities: Material jetting allows for multiple materials to
+be deposited in a single build process. Example-it can use rigid materials for
+structure and flexible materials for hinges or soft components.
+
+* High Resolution: Offers high dimensional accuracy and smooth surface
+finishes, making it suitable for intricate designs.
+
+Materials Used:
+
+* Photopolymers: (material that experiences a direct or indirect interaction with light to change its physical or chemical properties)
+Most commonly used materials in material jetting. They are cured with UV light
+after being deposited.
+
+* Waxes: Primarily used for applications like casting, where the wax model can later
+be used as a mold.
+
+* Metallic Inks: Some systems can deposit metallic particles in a binder, which can
+later be sintered to form solid metal parts (although these systems are less
+
+crammnan)
+
+Advantages:
+
++ High Detail & Accuracy: Material jetting offers very fine resolution, making it ideal for applications
+requiring intricate details.
+
++ Multi-Material & Color Printing: The ability to print in multiple materials and colors in a single build is
+a key feature.
+
+* Smooth Surface Finish: Process often results in smoother surfaces right out of the printer without any
+post processing.
+
+Limitations:
+
+* Material Limitations: The range of materials is limited compared to other methods like FDM or SLS.
+Most materials used are photopolymers or wax, which may not be suitable for functional or high-
+strength applications.
+
+* Cost: Material jetting systems tend to be expensive, both in terms of machine cost and material
+consumption.
+
+Applications:
+
+. Prototyping: Due to the high resolution, material jetting is ideal for creating detailed prototypes
+with a fine surface finish.
+
+* Medical Models: It's used to create anatomical models with realistic textures, colors, and
+materials for surgical planning or educational purposes.
+
+* Casting Molds: Wax models produced through material jetting can be used in investment casting
+for metal parts.
 --- page 10 ---
 b. Classify 3D Printing Processes based on their working principles.   [05]
 c. Explain the significance of support generation in FDM 3D printing.   [05]
@@ -756,6 +2041,53 @@ design time.
 luxury cars).
 • Lightweight structures help improve fuel efficiency and performance.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Vat photo polymerization: processes that utilize a liquid photopolymer contained in a vat
+and processed by selectively delivering energy to cure specific regions of a part cross-section.
+
+Powder bed fusion: processes that utilize a container filled with powder processed
+selectively using an energy source, most commonly a scanning laser or electron beam.
+
+Material extrusion: processes that deposit a material by extruding it through a nozzle,
+typically while scanning the nozzle in a pattern that produces a part cross-section.
+
+Material jetting: ink-jet printing processes.
+
+Binder jetting: processes where a binder printed into a powder bed in order to form part
+cross-sections.
+
+Sheet lamination: processes that deposit a layer of material at a time, where the material is in
+sheet form.
+
+Directed energy deposition: processes that simultaneously deposit a material (usually
+powder or wire) and provide energy to process that material through a single deposition
+device.
+
+Support generation
+
+¢ FDM printers can’t deposit molten thermoplastic on thin air.
+
+* Certain part geometries require support structures, usually printed
+in the same material as the parts themselves.
+
+e Removing support structure materials can be difficult, often far
+easier to design parts in such a way that minimizes the need for
+support structures.
+
+* Support materials that dissolve in liquid available, but generally
+used them in tandem with higher-end FDM 3D printers.
+
+* Using dissolvable supports increase the overall cost ofa print.
+
+A visual illustration of
+support structures needed
+for printing a Y, H & T with
+
+il] FDM
+
+Y,H, and T printed with |
+FDM with support | iil
 --- page 11 ---
 • Enables complex geometries not achievable with conventional machining.
 • Shortened product development cycle, leading to faster market entry
@@ -784,15 +2116,108 @@ patients.
 b. Explain the working principle of Ultrasonic Additive Manufacturing (UAM) and [10]
 discuss how it differs from conventional additive manufacturing processes.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Ultrasonic Additive Manufacturing (UAM)
+
+* Ultrasonic Additive Manufacturing (UAM) is a hybrid manufacturing process that
+combines additive and subtractive techniques, using ultrasonic energy to bond
+thin metal foils layer by layer.
+
+* It enables the creation of complex metal parts without melting the material, thus
+avoiding issues related to thermal stresses and distortion seen in conventional
+additive manufacturing (AM) methods like laser or electron beam melting.
+
+* Object built up on rigidly held base plate bolted on heated plate with temperature
+ranging from room temperature to 200° C.
+
+* Parts built from bottom to top and each layer composed of several metal foils laid
+
+side by side and then trimmed by CNC milling.
 --- page 12 ---
 Q7
 a. Demonstrate different post-processing methods used to enhance the dimensional   [10]
 accuracy and aesthetics of FDM printed parts.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Steps -
+
+1) A rotating sonotrode travels along the length of a thin metal foil
+(typically 100-150 um thick).
+
+2) Foil held closely in contact with the base plate or previous layer
+by applying a normal force via the rotating sonotrode
+
+3) Sonotrode oscillates transversely to the direction of motion, at a
+constant 20 kHz frequency and user-set oscillation amplitude.
+
+4) After depositing a foil, another foil deposited adjacent to it.
+
+5) Procedure repeated until a complete layer is placed.
+
+¢ The important controllable process parameters of UAM are:
+> Oscillation amplitude
+> Normal force
+> Travel speed
+> Temperature
+
+* The quality of bonding in UAM significantly affected by each
+of these process parameters.
+
+Post processing methods
+
+Priming & painting
+
+™ Vapor smoothing
+Gap filling
+Dippin;
+Polishing
+
+Epoxy coating
+Metal plating
 --- page 13 ---
 b. Describe the Vat Photopolymerization process in detail, including SLA, DLP, and [10]
 LCD techniques with advantages and limitations.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Vat Polymerization
+
+the model is constructed layer by layer.
+
+(Photopolymer resin is a polymer that changes its properties (crystalize and stiffen) when exposed to light, most commonly ultraviolet light)
+
+An ultraviolet (UV) light is used to cure or harden the resin where
+required, whilst a platform moves the object being made downwards after
+each new layer is cured.
+
+As the process uses liquid to form objects, there is no structural support
+from the material during the build phase.
+
+Resins are cured using a process of photo polymerisation or UV light.
+
+Light is directed across the surface of the resin with the use of motor
+controlled mirrors.
+
+The resin comes in contact with the light, it cures or hardens.
+
+Photopolymerisation — Step by Step
+
+The build platform is lowered from the top of the
+resin vat downwards by the layer thickness.
+
+A UV light cures the resin layer by layer.
+
+The platform continues to move downwards and
+additional layers are built on top of the previous.
+
+Some machines use a blade which moves between
+layers in order to provide a smooth resin base to build
+the next layer on.
+
+After completion, the vat is drained of resin and the
+object removed.
 --- page 14 ---
 1. Stereolithography (SLA)
 Process: SLA uses a laser to trace and cure the liquid resin layer by layer.
@@ -931,6 +2356,39 @@ file size.
 •   Units: STL files do not contain any information about the units used
 (millimeters, inches, etc.).
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Generative design
+
+* Generative design is a software tool that enables engineers and
+designers to approach design problems in more innovative and
+efficient ways.
+
+* Generative design algorithms explore all possible design solutions
+by defining goals and constraints, offering engineers numerous
+options to explore.
+
+* Generative design has shown remarkable potential for industrial
+applications, particularly when coupled with 3D printing.
+
+How generative design works
+
+1) Set parameters
+
+The designer specifies and sets the parameters for the part design, based on
+parameters such as weight, material, size, cost, strength, and manufacturing
+methods.
+
+2) Generate designs
+
+The generative design software uses algorithms to explore and generate
+thousands of design options. At this stage, the software can also use Al-powered
+algorithms to analyse each design and establish the most efficient designs.
+
+3) Select the best options
+
+The designer can then study these designs and select the outcomes which best
+meet the design goal.
 --- page 4 ---
 • The interpreting software assumes a unit, or the user must specify it.
 •   File Extension: The files typically have the extension .stl.
@@ -949,30 +2407,318 @@ material.
 LOM works by using laminates of paper, plastic, or metal that are sequentially
 stacked and cut to form the desired shape.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Steps in LOM Process:
+
+* Layer Preparation: The material is fed into the machine from a roll or sheet
+stock.
+
+* Bonding: Layers are fused together by applying heat and pressure.
+* Cutting: A laser or CNC blade precisely cuts each cross-section from the sheet.
+
+* Waste Removal: After cutting, excess material surrounding the object (also called
+support material) is removed, often in a post-processing step.
+
+4
+
+1. Building Platform
+2. Feed Roller
+3. Lamination Roller
+4. Laser Cutter
+
+Bond-Then-Form Processes (LOM)
+Process Steps:
+
+¢ The building process involves three main steps:
+* Placing the laminate
+* Bonding it to the substrate
+* Cutting according to the slice contour
 --- page 5 ---
 Q3
 a. Explain how improper part orientation and layer thickness affects build time,   [10]
 material usage, and accuracy in additive manufacturing.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Form-Then-Bond Processes (LOM)
+
+Process Overview:
+
+¢ Sheet material is first cut to shape and then bonded to the substrate
+
+Key Features:
+
+* Commonly used for metallic and ceramic materials with thermal bonding
+
+* Currently, implementation is largely at the research level
+
+Importance of part orientation
+
+Part accuracy - By orientating the part in different directions, there is a
+significant difference in the print quality.
+
+Build time - Orientation can also have a significant impact on print time
+
+* Part strength - Some 3D printing build parts that have inherently
+anisotropic properties, meaning they are much stronger in the XY
+direction than the Z direction.
+
+° Support Structures - Support material adds extra time and cost to a 3D
+print.
+
+° Surface finish - the top or upward facing surfaces of a 3D printed part
+will have the best surface finish
+
+Effect of Layer Thickness
+
+* Strength:
+* Thicker layers may have weaker inter-layer adhesion, reducing overall part strength.
++ Thinner layers improve bonding between layers, generally resulting in stronger parts.
+* Dimensional Accuracy:
+* Thinner layers provide higher resolution and better accuracy for intricate details.
+* Thicker layers may compromise fine details, leading to a less accurate final product.
+* Surface Finish:
+* Thinner layers result in a smoother surface finish with less visible stepping or layer lines.
+* Thicker layers can cause a rougher finish with more pronounced layer lines, requiring additional post-processing.
+* Build Time:
+* Thicker layers reduce the number of layers needed, decreasing print time.
+* Thinner layers increase the number of layers, significantly extending the printing time.
+* Material Consumption:
+* Thicker layers might slightly reduce material usage due to fewer layers, though this effect is minimal.
+* Thinner layers increase material usage as more layers are required to complete the print.
+* Cost Efficiency or Trade-offs:
+* Thicker layers can lower costs by reducing printing time and post-processing needs but may compromise quality.
+
++ Thinner layers, while offering better quality, can increase costs due to longer print times and higher material
+consumption.
 --- page 6 ---
 b. What is power Bed fusion in 3D Printing? Illustrate and explain the working of [10]
 the Selective Laser Sintering (SLS) process with a neat diagram.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Powder bed fusion (PBF)
+
+Introduction to Powder Bed Fusion (PBF)
+
+e Uses thermal sources to induce fusion between powder particles.
+e Produces solid parts in specific locations within the build area.
+Characteristics of PBF Technologies
+
+¢ Employs mechanisms for powder application and smoothing during
+construction.
+
+e Final components are encased in powder.
+Thermal Sources
+e Commonly used thermal source: Lasers.
+
+e PBF processes utilizing lasers are known as Laser Sintering (LS).
+
+Selective Laser Sintering (SLS)
+
+¢ Type of Powder Bed Fusion (PBF) technology.
+
+¢ Employs laser as the primary thermal source for material fusion.
+
+Basic SLS Process Steps
+
+e Layering: A thin layer of powder material is spread across the build platform.
+
+¢ Scanning: A laser scans the powdered material, selectively fusing particles together based on a
+digital model.
+
+¢ Building: The build platform lowers, and a new layer of powder is applied, repeating the
+scanning and fusing process.
+
+¢ Cooling: The part remains encased in powder until cooling is complete, preventing warping.
+
+Enclosed Chamber
+- The part building takes place within an enclosed chamber filled with nitrogen gas.
+
+- This environment minimizes oxidation and degradation of the powdered material,
+ensuring high-quality outputs.
+
+Preheating Process
+
+-   Preheating the powder is crucial for successful printing.
+
++ It maintains an elevated and uniform temperature within the build platform.
+
+- This practice helps to reduce the laser power requirements needed for the process.
+Post-Printing Steps
+
+- After printing, parts are fully encapsulated in unsintered powder.
+
+- Asignificant cooling period, which can last up to 12 hours, is necessary before
+unpacking the components.
+
+- Careful handling during unpacking is essential to avoid damage.
+Cleaning Parts
+- Once cooled, parts are cleaned using compressed air or various blasting media.
+
++ This step prepares the parts for immediate use or for additional processing if necessary.
 --- page 7 ---
 Q4
 a. Apply the concept of topology optimization in additive manufacturing to explain [10]
 its methodology and demonstrate how it enables lightweight structure design.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Advantages of SLS
+
+¢ No need for support structures, as the surrounding powder acts as support.
+e Ability to create complex geometries and designs.
+
+¢ Suitable for both prototyping and low-to-medium volume production.
+
+Applications of SLS
+
+¢ Rapid prototyping for functional parts.
+
+¢ Production of end-use components in aerospace, automotive, and medical industries.
+e¢ Custom tools and fixtures.
+
+Topology optimization
+
+* Topology optimization (TO) methods determine the overall
+
+configuration of shape elements in a design problem.
+
+*TO results are used as inputs to subsequent size or shape
+
+optimization problems.
+
+¢ As structural optimization methods, finite element analyses are
+performed during each iteration of the optimization method, which
+
+means that TO can be computationally demanding.
+
+Topology optimization
+
+*TO solutions should result in structures that are nearly fully
+stressed, or have constant strain energy, throughout the structure
+geometry based on the specified loading conditions.
+
+* Two main approaches have been developed for TO problems:
+
+1. Truss-based methods.
+
+2. Volume-based density methods.
 --- page 8 ---
 b. Explain how Design for Additive Manufacturing (DfAM) enables innovation [05]
 in AM industry applications.
 c. Explain the AM process chain in detail from CAD model to final product.   [05]
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Design for Additive Manufacturing
+
+* This concept emerges due to the enormous design freedom provided
+by AM technologies.
+
+¢ To take full advantages of unique capabilities from AM processes,
+DfAM methods or tools are needed.
+
+* Typical DfAM methods or tools includes topology optimization,
+design for multiscale structures (lattice or cellular structures), multi-
+material design, mass customization, part consolidation, and other
+design methods which can make use of AM-enabled features.
+
+AM Unique Capabilities
+
+* Shape complexity: it is possible to build virtually any shape
+
+* Hierarchical complexity: features can be designed with shape
+
+complexity across multiple size scales
+
+¢ Functional complexity: functional devices (not just individual piece-
+
+parts) can be produced in one build
+
+« Material complexity: material can be processed one point, or one
+
+layer, at a time as a single material or as a combination of materials
+
+Step 1: CAD
+Step 3: Transfer to AM Machine and STL File Manipulation
+
+Step 6: Removal
+Step 8: Application
 --- page 9 ---
 Q5
 a. Discuss the Material Jetting process in detail, including working mechanism,   [10]
 materials, advantages, limitations, and applications.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Material Jetting
+
+* It operates similarly to inkjet printing but with more advanced materials like
+polymers, waxes, and even metals
+
+Process Overview:
+
+* Jetting Mechanism: Printer’s nozzles deposit small droplets of material layer
+by layer onto a build platform. These droplets are typically photosensitive
+polymers, which are then cured by ultraviolet (UV) light immediately after
+deposition. This allows for precise and rapid solidification.
+
+* Layering: Layers of material are built up to form a 3D object. Each layer is
+cured before the next layer is deposited.
+
+* Multimaterial Capabilities: Material jetting allows for multiple materials to
+be deposited in a single build process. Example-it can use rigid materials for
+structure and flexible materials for hinges or soft components.
+
+* High Resolution: Offers high dimensional accuracy and smooth surface
+finishes, making it suitable for intricate designs.
+
+Materials Used:
+
+* Photopolymers: (material that experiences a direct or indirect interaction with light to change its physical or chemical properties)
+Most commonly used materials in material jetting. They are cured with UV light
+after being deposited.
+
+* Waxes: Primarily used for applications like casting, where the wax model can later
+be used as a mold.
+
+* Metallic Inks: Some systems can deposit metallic particles in a binder, which can
+later be sintered to form solid metal parts (although these systems are less
+
+crammnan)
+
+Advantages:
+
++ High Detail & Accuracy: Material jetting offers very fine resolution, making it ideal for applications
+requiring intricate details.
+
++ Multi-Material & Color Printing: The ability to print in multiple materials and colors in a single build is
+a key feature.
+
+* Smooth Surface Finish: Process often results in smoother surfaces right out of the printer without any
+post processing.
+
+Limitations:
+
+* Material Limitations: The range of materials is limited compared to other methods like FDM or SLS.
+Most materials used are photopolymers or wax, which may not be suitable for functional or high-
+strength applications.
+
+* Cost: Material jetting systems tend to be expensive, both in terms of machine cost and material
+consumption.
+
+Applications:
+
+. Prototyping: Due to the high resolution, material jetting is ideal for creating detailed prototypes
+with a fine surface finish.
+
+* Medical Models: It's used to create anatomical models with realistic textures, colors, and
+materials for surgical planning or educational purposes.
+
+* Casting Molds: Wax models produced through material jetting can be used in investment casting
+for metal parts.
 --- page 10 ---
 b. Classify 3D Printing Processes based on their working principles.   [05]
 c. Explain the significance of support generation in FDM 3D printing.   [05]
@@ -986,6 +2732,53 @@ design time.
 luxury cars).
 • Lightweight structures help improve fuel efficiency and performance.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Vat photo polymerization: processes that utilize a liquid photopolymer contained in a vat
+and processed by selectively delivering energy to cure specific regions of a part cross-section.
+
+Powder bed fusion: processes that utilize a container filled with powder processed
+selectively using an energy source, most commonly a scanning laser or electron beam.
+
+Material extrusion: processes that deposit a material by extruding it through a nozzle,
+typically while scanning the nozzle in a pattern that produces a part cross-section.
+
+Material jetting: ink-jet printing processes.
+
+Binder jetting: processes where a binder printed into a powder bed in order to form part
+cross-sections.
+
+Sheet lamination: processes that deposit a layer of material at a time, where the material is in
+sheet form.
+
+Directed energy deposition: processes that simultaneously deposit a material (usually
+powder or wire) and provide energy to process that material through a single deposition
+device.
+
+Support generation
+
+¢ FDM printers can’t deposit molten thermoplastic on thin air.
+
+* Certain part geometries require support structures, usually printed
+in the same material as the parts themselves.
+
+e Removing support structure materials can be difficult, often far
+easier to design parts in such a way that minimizes the need for
+support structures.
+
+* Support materials that dissolve in liquid available, but generally
+used them in tandem with higher-end FDM 3D printers.
+
+* Using dissolvable supports increase the overall cost ofa print.
+
+A visual illustration of
+support structures needed
+for printing a Y, H & T with
+
+il] FDM
+
+Y,H, and T printed with |
+FDM with support | iil
 --- page 11 ---
 • Enables complex geometries not achievable with conventional machining.
 • Shortened product development cycle, leading to faster market entry
@@ -1014,15 +2807,108 @@ patients.
 b. Explain the working principle of Ultrasonic Additive Manufacturing (UAM) and [10]
 discuss how it differs from conventional additive manufacturing processes.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Ultrasonic Additive Manufacturing (UAM)
+
+* Ultrasonic Additive Manufacturing (UAM) is a hybrid manufacturing process that
+combines additive and subtractive techniques, using ultrasonic energy to bond
+thin metal foils layer by layer.
+
+* It enables the creation of complex metal parts without melting the material, thus
+avoiding issues related to thermal stresses and distortion seen in conventional
+additive manufacturing (AM) methods like laser or electron beam melting.
+
+* Object built up on rigidly held base plate bolted on heated plate with temperature
+ranging from room temperature to 200° C.
+
+* Parts built from bottom to top and each layer composed of several metal foils laid
+
+side by side and then trimmed by CNC milling.
 --- page 12 ---
 Q7
 a. Demonstrate different post-processing methods used to enhance the dimensional   [10]
 accuracy and aesthetics of FDM printed parts.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Steps -
+
+1) A rotating sonotrode travels along the length of a thin metal foil
+(typically 100-150 um thick).
+
+2) Foil held closely in contact with the base plate or previous layer
+by applying a normal force via the rotating sonotrode
+
+3) Sonotrode oscillates transversely to the direction of motion, at a
+constant 20 kHz frequency and user-set oscillation amplitude.
+
+4) After depositing a foil, another foil deposited adjacent to it.
+
+5) Procedure repeated until a complete layer is placed.
+
+¢ The important controllable process parameters of UAM are:
+> Oscillation amplitude
+> Normal force
+> Travel speed
+> Temperature
+
+* The quality of bonding in UAM significantly affected by each
+of these process parameters.
+
+Post processing methods
+
+Priming & painting
+
+™ Vapor smoothing
+Gap filling
+Dippin;
+Polishing
+
+Epoxy coating
+Metal plating
 --- page 13 ---
 b. Describe the Vat Photopolymerization process in detail, including SLA, DLP, and [10]
 LCD techniques with advantages and limitations.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Vat Polymerization
+
+the model is constructed layer by layer.
+
+(Photopolymer resin is a polymer that changes its properties (crystalize and stiffen) when exposed to light, most commonly ultraviolet light)
+
+An ultraviolet (UV) light is used to cure or harden the resin where
+required, whilst a platform moves the object being made downwards after
+each new layer is cured.
+
+As the process uses liquid to form objects, there is no structural support
+from the material during the build phase.
+
+Resins are cured using a process of photo polymerisation or UV light.
+
+Light is directed across the surface of the resin with the use of motor
+controlled mirrors.
+
+The resin comes in contact with the light, it cures or hardens.
+
+Photopolymerisation — Step by Step
+
+The build platform is lowered from the top of the
+resin vat downwards by the layer thickness.
+
+A UV light cures the resin layer by layer.
+
+The platform continues to move downwards and
+additional layers are built on top of the previous.
+
+Some machines use a blade which moves between
+layers in order to provide a smooth resin base to build
+the next layer on.
+
+After completion, the vat is drained of resin and the
+object removed.
 --- page 14 ---
 1. Stereolithography (SLA)
 Process: SLA uses a laser to trace and cure the liquid resin layer by layer.
@@ -1161,6 +3047,39 @@ file size.
 •   Units: STL files do not contain any information about the units used
 (millimeters, inches, etc.).
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Generative design
+
+* Generative design is a software tool that enables engineers and
+designers to approach design problems in more innovative and
+efficient ways.
+
+* Generative design algorithms explore all possible design solutions
+by defining goals and constraints, offering engineers numerous
+options to explore.
+
+* Generative design has shown remarkable potential for industrial
+applications, particularly when coupled with 3D printing.
+
+How generative design works
+
+1) Set parameters
+
+The designer specifies and sets the parameters for the part design, based on
+parameters such as weight, material, size, cost, strength, and manufacturing
+methods.
+
+2) Generate designs
+
+The generative design software uses algorithms to explore and generate
+thousands of design options. At this stage, the software can also use Al-powered
+algorithms to analyse each design and establish the most efficient designs.
+
+3) Select the best options
+
+The designer can then study these designs and select the outcomes which best
+meet the design goal.
 --- page 4 ---
 • The interpreting software assumes a unit, or the user must specify it.
 •   File Extension: The files typically have the extension .stl.
@@ -1179,30 +3098,318 @@ material.
 LOM works by using laminates of paper, plastic, or metal that are sequentially
 stacked and cut to form the desired shape.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Steps in LOM Process:
+
+* Layer Preparation: The material is fed into the machine from a roll or sheet
+stock.
+
+* Bonding: Layers are fused together by applying heat and pressure.
+* Cutting: A laser or CNC blade precisely cuts each cross-section from the sheet.
+
+* Waste Removal: After cutting, excess material surrounding the object (also called
+support material) is removed, often in a post-processing step.
+
+4
+
+1. Building Platform
+2. Feed Roller
+3. Lamination Roller
+4. Laser Cutter
+
+Bond-Then-Form Processes (LOM)
+Process Steps:
+
+¢ The building process involves three main steps:
+* Placing the laminate
+* Bonding it to the substrate
+* Cutting according to the slice contour
 --- page 5 ---
 Q3
 a. Explain how improper part orientation and layer thickness affects build time,   [10]
 material usage, and accuracy in additive manufacturing.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Form-Then-Bond Processes (LOM)
+
+Process Overview:
+
+¢ Sheet material is first cut to shape and then bonded to the substrate
+
+Key Features:
+
+* Commonly used for metallic and ceramic materials with thermal bonding
+
+* Currently, implementation is largely at the research level
+
+Importance of part orientation
+
+Part accuracy - By orientating the part in different directions, there is a
+significant difference in the print quality.
+
+Build time - Orientation can also have a significant impact on print time
+
+* Part strength - Some 3D printing build parts that have inherently
+anisotropic properties, meaning they are much stronger in the XY
+direction than the Z direction.
+
+° Support Structures - Support material adds extra time and cost to a 3D
+print.
+
+° Surface finish - the top or upward facing surfaces of a 3D printed part
+will have the best surface finish
+
+Effect of Layer Thickness
+
+* Strength:
+* Thicker layers may have weaker inter-layer adhesion, reducing overall part strength.
++ Thinner layers improve bonding between layers, generally resulting in stronger parts.
+* Dimensional Accuracy:
+* Thinner layers provide higher resolution and better accuracy for intricate details.
+* Thicker layers may compromise fine details, leading to a less accurate final product.
+* Surface Finish:
+* Thinner layers result in a smoother surface finish with less visible stepping or layer lines.
+* Thicker layers can cause a rougher finish with more pronounced layer lines, requiring additional post-processing.
+* Build Time:
+* Thicker layers reduce the number of layers needed, decreasing print time.
+* Thinner layers increase the number of layers, significantly extending the printing time.
+* Material Consumption:
+* Thicker layers might slightly reduce material usage due to fewer layers, though this effect is minimal.
+* Thinner layers increase material usage as more layers are required to complete the print.
+* Cost Efficiency or Trade-offs:
+* Thicker layers can lower costs by reducing printing time and post-processing needs but may compromise quality.
+
++ Thinner layers, while offering better quality, can increase costs due to longer print times and higher material
+consumption.
 --- page 6 ---
 b. What is power Bed fusion in 3D Printing? Illustrate and explain the working of [10]
 the Selective Laser Sintering (SLS) process with a neat diagram.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Powder bed fusion (PBF)
+
+Introduction to Powder Bed Fusion (PBF)
+
+e Uses thermal sources to induce fusion between powder particles.
+e Produces solid parts in specific locations within the build area.
+Characteristics of PBF Technologies
+
+¢ Employs mechanisms for powder application and smoothing during
+construction.
+
+e Final components are encased in powder.
+Thermal Sources
+e Commonly used thermal source: Lasers.
+
+e PBF processes utilizing lasers are known as Laser Sintering (LS).
+
+Selective Laser Sintering (SLS)
+
+¢ Type of Powder Bed Fusion (PBF) technology.
+
+¢ Employs laser as the primary thermal source for material fusion.
+
+Basic SLS Process Steps
+
+e Layering: A thin layer of powder material is spread across the build platform.
+
+¢ Scanning: A laser scans the powdered material, selectively fusing particles together based on a
+digital model.
+
+¢ Building: The build platform lowers, and a new layer of powder is applied, repeating the
+scanning and fusing process.
+
+¢ Cooling: The part remains encased in powder until cooling is complete, preventing warping.
+
+Enclosed Chamber
+- The part building takes place within an enclosed chamber filled with nitrogen gas.
+
+- This environment minimizes oxidation and degradation of the powdered material,
+ensuring high-quality outputs.
+
+Preheating Process
+
+-   Preheating the powder is crucial for successful printing.
+
++ It maintains an elevated and uniform temperature within the build platform.
+
+- This practice helps to reduce the laser power requirements needed for the process.
+Post-Printing Steps
+
+- After printing, parts are fully encapsulated in unsintered powder.
+
+- Asignificant cooling period, which can last up to 12 hours, is necessary before
+unpacking the components.
+
+- Careful handling during unpacking is essential to avoid damage.
+Cleaning Parts
+- Once cooled, parts are cleaned using compressed air or various blasting media.
+
++ This step prepares the parts for immediate use or for additional processing if necessary.
 --- page 7 ---
 Q4
 a. Apply the concept of topology optimization in additive manufacturing to explain [10]
 its methodology and demonstrate how it enables lightweight structure design.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Advantages of SLS
+
+¢ No need for support structures, as the surrounding powder acts as support.
+e Ability to create complex geometries and designs.
+
+¢ Suitable for both prototyping and low-to-medium volume production.
+
+Applications of SLS
+
+¢ Rapid prototyping for functional parts.
+
+¢ Production of end-use components in aerospace, automotive, and medical industries.
+e¢ Custom tools and fixtures.
+
+Topology optimization
+
+* Topology optimization (TO) methods determine the overall
+
+configuration of shape elements in a design problem.
+
+*TO results are used as inputs to subsequent size or shape
+
+optimization problems.
+
+¢ As structural optimization methods, finite element analyses are
+performed during each iteration of the optimization method, which
+
+means that TO can be computationally demanding.
+
+Topology optimization
+
+*TO solutions should result in structures that are nearly fully
+stressed, or have constant strain energy, throughout the structure
+geometry based on the specified loading conditions.
+
+* Two main approaches have been developed for TO problems:
+
+1. Truss-based methods.
+
+2. Volume-based density methods.
 --- page 8 ---
 b. Explain how Design for Additive Manufacturing (DfAM) enables innovation [05]
 in AM industry applications.
 c. Explain the AM process chain in detail from CAD model to final product.   [05]
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Design for Additive Manufacturing
+
+* This concept emerges due to the enormous design freedom provided
+by AM technologies.
+
+¢ To take full advantages of unique capabilities from AM processes,
+DfAM methods or tools are needed.
+
+* Typical DfAM methods or tools includes topology optimization,
+design for multiscale structures (lattice or cellular structures), multi-
+material design, mass customization, part consolidation, and other
+design methods which can make use of AM-enabled features.
+
+AM Unique Capabilities
+
+* Shape complexity: it is possible to build virtually any shape
+
+* Hierarchical complexity: features can be designed with shape
+
+complexity across multiple size scales
+
+¢ Functional complexity: functional devices (not just individual piece-
+
+parts) can be produced in one build
+
+« Material complexity: material can be processed one point, or one
+
+layer, at a time as a single material or as a combination of materials
+
+Step 1: CAD
+Step 3: Transfer to AM Machine and STL File Manipulation
+
+Step 6: Removal
+Step 8: Application
 --- page 9 ---
 Q5
 a. Discuss the Material Jetting process in detail, including working mechanism,   [10]
 materials, advantages, limitations, and applications.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Material Jetting
+
+* It operates similarly to inkjet printing but with more advanced materials like
+polymers, waxes, and even metals
+
+Process Overview:
+
+* Jetting Mechanism: Printer’s nozzles deposit small droplets of material layer
+by layer onto a build platform. These droplets are typically photosensitive
+polymers, which are then cured by ultraviolet (UV) light immediately after
+deposition. This allows for precise and rapid solidification.
+
+* Layering: Layers of material are built up to form a 3D object. Each layer is
+cured before the next layer is deposited.
+
+* Multimaterial Capabilities: Material jetting allows for multiple materials to
+be deposited in a single build process. Example-it can use rigid materials for
+structure and flexible materials for hinges or soft components.
+
+* High Resolution: Offers high dimensional accuracy and smooth surface
+finishes, making it suitable for intricate designs.
+
+Materials Used:
+
+* Photopolymers: (material that experiences a direct or indirect interaction with light to change its physical or chemical properties)
+Most commonly used materials in material jetting. They are cured with UV light
+after being deposited.
+
+* Waxes: Primarily used for applications like casting, where the wax model can later
+be used as a mold.
+
+* Metallic Inks: Some systems can deposit metallic particles in a binder, which can
+later be sintered to form solid metal parts (although these systems are less
+
+crammnan)
+
+Advantages:
+
++ High Detail & Accuracy: Material jetting offers very fine resolution, making it ideal for applications
+requiring intricate details.
+
++ Multi-Material & Color Printing: The ability to print in multiple materials and colors in a single build is
+a key feature.
+
+* Smooth Surface Finish: Process often results in smoother surfaces right out of the printer without any
+post processing.
+
+Limitations:
+
+* Material Limitations: The range of materials is limited compared to other methods like FDM or SLS.
+Most materials used are photopolymers or wax, which may not be suitable for functional or high-
+strength applications.
+
+* Cost: Material jetting systems tend to be expensive, both in terms of machine cost and material
+consumption.
+
+Applications:
+
+. Prototyping: Due to the high resolution, material jetting is ideal for creating detailed prototypes
+with a fine surface finish.
+
+* Medical Models: It's used to create anatomical models with realistic textures, colors, and
+materials for surgical planning or educational purposes.
+
+* Casting Molds: Wax models produced through material jetting can be used in investment casting
+for metal parts.
 --- page 10 ---
 b. Classify 3D Printing Processes based on their working principles.   [05]
 c. Explain the significance of support generation in FDM 3D printing.   [05]
@@ -1216,6 +3423,53 @@ design time.
 luxury cars).
 • Lightweight structures help improve fuel efficiency and performance.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Vat photo polymerization: processes that utilize a liquid photopolymer contained in a vat
+and processed by selectively delivering energy to cure specific regions of a part cross-section.
+
+Powder bed fusion: processes that utilize a container filled with powder processed
+selectively using an energy source, most commonly a scanning laser or electron beam.
+
+Material extrusion: processes that deposit a material by extruding it through a nozzle,
+typically while scanning the nozzle in a pattern that produces a part cross-section.
+
+Material jetting: ink-jet printing processes.
+
+Binder jetting: processes where a binder printed into a powder bed in order to form part
+cross-sections.
+
+Sheet lamination: processes that deposit a layer of material at a time, where the material is in
+sheet form.
+
+Directed energy deposition: processes that simultaneously deposit a material (usually
+powder or wire) and provide energy to process that material through a single deposition
+device.
+
+Support generation
+
+¢ FDM printers can’t deposit molten thermoplastic on thin air.
+
+* Certain part geometries require support structures, usually printed
+in the same material as the parts themselves.
+
+e Removing support structure materials can be difficult, often far
+easier to design parts in such a way that minimizes the need for
+support structures.
+
+* Support materials that dissolve in liquid available, but generally
+used them in tandem with higher-end FDM 3D printers.
+
+* Using dissolvable supports increase the overall cost ofa print.
+
+A visual illustration of
+support structures needed
+for printing a Y, H & T with
+
+il] FDM
+
+Y,H, and T printed with |
+FDM with support | iil
 --- page 11 ---
 • Enables complex geometries not achievable with conventional machining.
 • Shortened product development cycle, leading to faster market entry
@@ -1244,15 +3498,108 @@ patients.
 b. Explain the working principle of Ultrasonic Additive Manufacturing (UAM) and [10]
 discuss how it differs from conventional additive manufacturing processes.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Ultrasonic Additive Manufacturing (UAM)
+
+* Ultrasonic Additive Manufacturing (UAM) is a hybrid manufacturing process that
+combines additive and subtractive techniques, using ultrasonic energy to bond
+thin metal foils layer by layer.
+
+* It enables the creation of complex metal parts without melting the material, thus
+avoiding issues related to thermal stresses and distortion seen in conventional
+additive manufacturing (AM) methods like laser or electron beam melting.
+
+* Object built up on rigidly held base plate bolted on heated plate with temperature
+ranging from room temperature to 200° C.
+
+* Parts built from bottom to top and each layer composed of several metal foils laid
+
+side by side and then trimmed by CNC milling.
 --- page 12 ---
 Q7
 a. Demonstrate different post-processing methods used to enhance the dimensional   [10]
 accuracy and aesthetics of FDM printed parts.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Steps -
+
+1) A rotating sonotrode travels along the length of a thin metal foil
+(typically 100-150 um thick).
+
+2) Foil held closely in contact with the base plate or previous layer
+by applying a normal force via the rotating sonotrode
+
+3) Sonotrode oscillates transversely to the direction of motion, at a
+constant 20 kHz frequency and user-set oscillation amplitude.
+
+4) After depositing a foil, another foil deposited adjacent to it.
+
+5) Procedure repeated until a complete layer is placed.
+
+¢ The important controllable process parameters of UAM are:
+> Oscillation amplitude
+> Normal force
+> Travel speed
+> Temperature
+
+* The quality of bonding in UAM significantly affected by each
+of these process parameters.
+
+Post processing methods
+
+Priming & painting
+
+™ Vapor smoothing
+Gap filling
+Dippin;
+Polishing
+
+Epoxy coating
+Metal plating
 --- page 13 ---
 b. Describe the Vat Photopolymerization process in detail, including SLA, DLP, and [10]
 LCD techniques with advantages and limitations.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Vat Polymerization
+
+the model is constructed layer by layer.
+
+(Photopolymer resin is a polymer that changes its properties (crystalize and stiffen) when exposed to light, most commonly ultraviolet light)
+
+An ultraviolet (UV) light is used to cure or harden the resin where
+required, whilst a platform moves the object being made downwards after
+each new layer is cured.
+
+As the process uses liquid to form objects, there is no structural support
+from the material during the build phase.
+
+Resins are cured using a process of photo polymerisation or UV light.
+
+Light is directed across the surface of the resin with the use of motor
+controlled mirrors.
+
+The resin comes in contact with the light, it cures or hardens.
+
+Photopolymerisation — Step by Step
+
+The build platform is lowered from the top of the
+resin vat downwards by the layer thickness.
+
+A UV light cures the resin layer by layer.
+
+The platform continues to move downwards and
+additional layers are built on top of the previous.
+
+Some machines use a blade which moves between
+layers in order to provide a smooth resin base to build
+the next layer on.
+
+After completion, the vat is drained of resin and the
+object removed.
 --- page 14 ---
 1. Stereolithography (SLA)
 Process: SLA uses a laser to trace and cure the liquid resin layer by layer.
@@ -1391,6 +3738,39 @@ file size.
 •   Units: STL files do not contain any information about the units used
 (millimeters, inches, etc.).
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Generative design
+
+* Generative design is a software tool that enables engineers and
+designers to approach design problems in more innovative and
+efficient ways.
+
+* Generative design algorithms explore all possible design solutions
+by defining goals and constraints, offering engineers numerous
+options to explore.
+
+* Generative design has shown remarkable potential for industrial
+applications, particularly when coupled with 3D printing.
+
+How generative design works
+
+1) Set parameters
+
+The designer specifies and sets the parameters for the part design, based on
+parameters such as weight, material, size, cost, strength, and manufacturing
+methods.
+
+2) Generate designs
+
+The generative design software uses algorithms to explore and generate
+thousands of design options. At this stage, the software can also use Al-powered
+algorithms to analyse each design and establish the most efficient designs.
+
+3) Select the best options
+
+The designer can then study these designs and select the outcomes which best
+meet the design goal.
 --- page 4 ---
 • The interpreting software assumes a unit, or the user must specify it.
 •   File Extension: The files typically have the extension .stl.
@@ -1409,30 +3789,318 @@ material.
 LOM works by using laminates of paper, plastic, or metal that are sequentially
 stacked and cut to form the desired shape.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Steps in LOM Process:
+
+* Layer Preparation: The material is fed into the machine from a roll or sheet
+stock.
+
+* Bonding: Layers are fused together by applying heat and pressure.
+* Cutting: A laser or CNC blade precisely cuts each cross-section from the sheet.
+
+* Waste Removal: After cutting, excess material surrounding the object (also called
+support material) is removed, often in a post-processing step.
+
+4
+
+1. Building Platform
+2. Feed Roller
+3. Lamination Roller
+4. Laser Cutter
+
+Bond-Then-Form Processes (LOM)
+Process Steps:
+
+¢ The building process involves three main steps:
+* Placing the laminate
+* Bonding it to the substrate
+* Cutting according to the slice contour
 --- page 5 ---
 Q3
 a. Explain how improper part orientation and layer thickness affects build time,   [10]
 material usage, and accuracy in additive manufacturing.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Form-Then-Bond Processes (LOM)
+
+Process Overview:
+
+¢ Sheet material is first cut to shape and then bonded to the substrate
+
+Key Features:
+
+* Commonly used for metallic and ceramic materials with thermal bonding
+
+* Currently, implementation is largely at the research level
+
+Importance of part orientation
+
+Part accuracy - By orientating the part in different directions, there is a
+significant difference in the print quality.
+
+Build time - Orientation can also have a significant impact on print time
+
+* Part strength - Some 3D printing build parts that have inherently
+anisotropic properties, meaning they are much stronger in the XY
+direction than the Z direction.
+
+° Support Structures - Support material adds extra time and cost to a 3D
+print.
+
+° Surface finish - the top or upward facing surfaces of a 3D printed part
+will have the best surface finish
+
+Effect of Layer Thickness
+
+* Strength:
+* Thicker layers may have weaker inter-layer adhesion, reducing overall part strength.
++ Thinner layers improve bonding between layers, generally resulting in stronger parts.
+* Dimensional Accuracy:
+* Thinner layers provide higher resolution and better accuracy for intricate details.
+* Thicker layers may compromise fine details, leading to a less accurate final product.
+* Surface Finish:
+* Thinner layers result in a smoother surface finish with less visible stepping or layer lines.
+* Thicker layers can cause a rougher finish with more pronounced layer lines, requiring additional post-processing.
+* Build Time:
+* Thicker layers reduce the number of layers needed, decreasing print time.
+* Thinner layers increase the number of layers, significantly extending the printing time.
+* Material Consumption:
+* Thicker layers might slightly reduce material usage due to fewer layers, though this effect is minimal.
+* Thinner layers increase material usage as more layers are required to complete the print.
+* Cost Efficiency or Trade-offs:
+* Thicker layers can lower costs by reducing printing time and post-processing needs but may compromise quality.
+
++ Thinner layers, while offering better quality, can increase costs due to longer print times and higher material
+consumption.
 --- page 6 ---
 b. What is power Bed fusion in 3D Printing? Illustrate and explain the working of [10]
 the Selective Laser Sintering (SLS) process with a neat diagram.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Powder bed fusion (PBF)
+
+Introduction to Powder Bed Fusion (PBF)
+
+e Uses thermal sources to induce fusion between powder particles.
+e Produces solid parts in specific locations within the build area.
+Characteristics of PBF Technologies
+
+¢ Employs mechanisms for powder application and smoothing during
+construction.
+
+e Final components are encased in powder.
+Thermal Sources
+e Commonly used thermal source: Lasers.
+
+e PBF processes utilizing lasers are known as Laser Sintering (LS).
+
+Selective Laser Sintering (SLS)
+
+¢ Type of Powder Bed Fusion (PBF) technology.
+
+¢ Employs laser as the primary thermal source for material fusion.
+
+Basic SLS Process Steps
+
+e Layering: A thin layer of powder material is spread across the build platform.
+
+¢ Scanning: A laser scans the powdered material, selectively fusing particles together based on a
+digital model.
+
+¢ Building: The build platform lowers, and a new layer of powder is applied, repeating the
+scanning and fusing process.
+
+¢ Cooling: The part remains encased in powder until cooling is complete, preventing warping.
+
+Enclosed Chamber
+- The part building takes place within an enclosed chamber filled with nitrogen gas.
+
+- This environment minimizes oxidation and degradation of the powdered material,
+ensuring high-quality outputs.
+
+Preheating Process
+
+-   Preheating the powder is crucial for successful printing.
+
++ It maintains an elevated and uniform temperature within the build platform.
+
+- This practice helps to reduce the laser power requirements needed for the process.
+Post-Printing Steps
+
+- After printing, parts are fully encapsulated in unsintered powder.
+
+- Asignificant cooling period, which can last up to 12 hours, is necessary before
+unpacking the components.
+
+- Careful handling during unpacking is essential to avoid damage.
+Cleaning Parts
+- Once cooled, parts are cleaned using compressed air or various blasting media.
+
++ This step prepares the parts for immediate use or for additional processing if necessary.
 --- page 7 ---
 Q4
 a. Apply the concept of topology optimization in additive manufacturing to explain [10]
 its methodology and demonstrate how it enables lightweight structure design.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Advantages of SLS
+
+¢ No need for support structures, as the surrounding powder acts as support.
+e Ability to create complex geometries and designs.
+
+¢ Suitable for both prototyping and low-to-medium volume production.
+
+Applications of SLS
+
+¢ Rapid prototyping for functional parts.
+
+¢ Production of end-use components in aerospace, automotive, and medical industries.
+e¢ Custom tools and fixtures.
+
+Topology optimization
+
+* Topology optimization (TO) methods determine the overall
+
+configuration of shape elements in a design problem.
+
+*TO results are used as inputs to subsequent size or shape
+
+optimization problems.
+
+¢ As structural optimization methods, finite element analyses are
+performed during each iteration of the optimization method, which
+
+means that TO can be computationally demanding.
+
+Topology optimization
+
+*TO solutions should result in structures that are nearly fully
+stressed, or have constant strain energy, throughout the structure
+geometry based on the specified loading conditions.
+
+* Two main approaches have been developed for TO problems:
+
+1. Truss-based methods.
+
+2. Volume-based density methods.
 --- page 8 ---
 b. Explain how Design for Additive Manufacturing (DfAM) enables innovation [05]
 in AM industry applications.
 c. Explain the AM process chain in detail from CAD model to final product.   [05]
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Design for Additive Manufacturing
+
+* This concept emerges due to the enormous design freedom provided
+by AM technologies.
+
+¢ To take full advantages of unique capabilities from AM processes,
+DfAM methods or tools are needed.
+
+* Typical DfAM methods or tools includes topology optimization,
+design for multiscale structures (lattice or cellular structures), multi-
+material design, mass customization, part consolidation, and other
+design methods which can make use of AM-enabled features.
+
+AM Unique Capabilities
+
+* Shape complexity: it is possible to build virtually any shape
+
+* Hierarchical complexity: features can be designed with shape
+
+complexity across multiple size scales
+
+¢ Functional complexity: functional devices (not just individual piece-
+
+parts) can be produced in one build
+
+« Material complexity: material can be processed one point, or one
+
+layer, at a time as a single material or as a combination of materials
+
+Step 1: CAD
+Step 3: Transfer to AM Machine and STL File Manipulation
+
+Step 6: Removal
+Step 8: Application
 --- page 9 ---
 Q5
 a. Discuss the Material Jetting process in detail, including working mechanism,   [10]
 materials, advantages, limitations, and applications.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Material Jetting
+
+* It operates similarly to inkjet printing but with more advanced materials like
+polymers, waxes, and even metals
+
+Process Overview:
+
+* Jetting Mechanism: Printer’s nozzles deposit small droplets of material layer
+by layer onto a build platform. These droplets are typically photosensitive
+polymers, which are then cured by ultraviolet (UV) light immediately after
+deposition. This allows for precise and rapid solidification.
+
+* Layering: Layers of material are built up to form a 3D object. Each layer is
+cured before the next layer is deposited.
+
+* Multimaterial Capabilities: Material jetting allows for multiple materials to
+be deposited in a single build process. Example-it can use rigid materials for
+structure and flexible materials for hinges or soft components.
+
+* High Resolution: Offers high dimensional accuracy and smooth surface
+finishes, making it suitable for intricate designs.
+
+Materials Used:
+
+* Photopolymers: (material that experiences a direct or indirect interaction with light to change its physical or chemical properties)
+Most commonly used materials in material jetting. They are cured with UV light
+after being deposited.
+
+* Waxes: Primarily used for applications like casting, where the wax model can later
+be used as a mold.
+
+* Metallic Inks: Some systems can deposit metallic particles in a binder, which can
+later be sintered to form solid metal parts (although these systems are less
+
+crammnan)
+
+Advantages:
+
++ High Detail & Accuracy: Material jetting offers very fine resolution, making it ideal for applications
+requiring intricate details.
+
++ Multi-Material & Color Printing: The ability to print in multiple materials and colors in a single build is
+a key feature.
+
+* Smooth Surface Finish: Process often results in smoother surfaces right out of the printer without any
+post processing.
+
+Limitations:
+
+* Material Limitations: The range of materials is limited compared to other methods like FDM or SLS.
+Most materials used are photopolymers or wax, which may not be suitable for functional or high-
+strength applications.
+
+* Cost: Material jetting systems tend to be expensive, both in terms of machine cost and material
+consumption.
+
+Applications:
+
+. Prototyping: Due to the high resolution, material jetting is ideal for creating detailed prototypes
+with a fine surface finish.
+
+* Medical Models: It's used to create anatomical models with realistic textures, colors, and
+materials for surgical planning or educational purposes.
+
+* Casting Molds: Wax models produced through material jetting can be used in investment casting
+for metal parts.
 --- page 10 ---
 b. Classify 3D Printing Processes based on their working principles.   [05]
 c. Explain the significance of support generation in FDM 3D printing.   [05]
@@ -1446,6 +4114,53 @@ design time.
 luxury cars).
 • Lightweight structures help improve fuel efficiency and performance.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Vat photo polymerization: processes that utilize a liquid photopolymer contained in a vat
+and processed by selectively delivering energy to cure specific regions of a part cross-section.
+
+Powder bed fusion: processes that utilize a container filled with powder processed
+selectively using an energy source, most commonly a scanning laser or electron beam.
+
+Material extrusion: processes that deposit a material by extruding it through a nozzle,
+typically while scanning the nozzle in a pattern that produces a part cross-section.
+
+Material jetting: ink-jet printing processes.
+
+Binder jetting: processes where a binder printed into a powder bed in order to form part
+cross-sections.
+
+Sheet lamination: processes that deposit a layer of material at a time, where the material is in
+sheet form.
+
+Directed energy deposition: processes that simultaneously deposit a material (usually
+powder or wire) and provide energy to process that material through a single deposition
+device.
+
+Support generation
+
+¢ FDM printers can’t deposit molten thermoplastic on thin air.
+
+* Certain part geometries require support structures, usually printed
+in the same material as the parts themselves.
+
+e Removing support structure materials can be difficult, often far
+easier to design parts in such a way that minimizes the need for
+support structures.
+
+* Support materials that dissolve in liquid available, but generally
+used them in tandem with higher-end FDM 3D printers.
+
+* Using dissolvable supports increase the overall cost ofa print.
+
+A visual illustration of
+support structures needed
+for printing a Y, H & T with
+
+il] FDM
+
+Y,H, and T printed with |
+FDM with support | iil
 --- page 11 ---
 • Enables complex geometries not achievable with conventional machining.
 • Shortened product development cycle, leading to faster market entry
@@ -1474,15 +4189,108 @@ patients.
 b. Explain the working principle of Ultrasonic Additive Manufacturing (UAM) and [10]
 discuss how it differs from conventional additive manufacturing processes.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Ultrasonic Additive Manufacturing (UAM)
+
+* Ultrasonic Additive Manufacturing (UAM) is a hybrid manufacturing process that
+combines additive and subtractive techniques, using ultrasonic energy to bond
+thin metal foils layer by layer.
+
+* It enables the creation of complex metal parts without melting the material, thus
+avoiding issues related to thermal stresses and distortion seen in conventional
+additive manufacturing (AM) methods like laser or electron beam melting.
+
+* Object built up on rigidly held base plate bolted on heated plate with temperature
+ranging from room temperature to 200° C.
+
+* Parts built from bottom to top and each layer composed of several metal foils laid
+
+side by side and then trimmed by CNC milling.
 --- page 12 ---
 Q7
 a. Demonstrate different post-processing methods used to enhance the dimensional   [10]
 accuracy and aesthetics of FDM printed parts.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Steps -
+
+1) A rotating sonotrode travels along the length of a thin metal foil
+(typically 100-150 um thick).
+
+2) Foil held closely in contact with the base plate or previous layer
+by applying a normal force via the rotating sonotrode
+
+3) Sonotrode oscillates transversely to the direction of motion, at a
+constant 20 kHz frequency and user-set oscillation amplitude.
+
+4) After depositing a foil, another foil deposited adjacent to it.
+
+5) Procedure repeated until a complete layer is placed.
+
+¢ The important controllable process parameters of UAM are:
+> Oscillation amplitude
+> Normal force
+> Travel speed
+> Temperature
+
+* The quality of bonding in UAM significantly affected by each
+of these process parameters.
+
+Post processing methods
+
+Priming & painting
+
+™ Vapor smoothing
+Gap filling
+Dippin;
+Polishing
+
+Epoxy coating
+Metal plating
 --- page 13 ---
 b. Describe the Vat Photopolymerization process in detail, including SLA, DLP, and [10]
 LCD techniques with advantages and limitations.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Vat Polymerization
+
+the model is constructed layer by layer.
+
+(Photopolymer resin is a polymer that changes its properties (crystalize and stiffen) when exposed to light, most commonly ultraviolet light)
+
+An ultraviolet (UV) light is used to cure or harden the resin where
+required, whilst a platform moves the object being made downwards after
+each new layer is cured.
+
+As the process uses liquid to form objects, there is no structural support
+from the material during the build phase.
+
+Resins are cured using a process of photo polymerisation or UV light.
+
+Light is directed across the surface of the resin with the use of motor
+controlled mirrors.
+
+The resin comes in contact with the light, it cures or hardens.
+
+Photopolymerisation — Step by Step
+
+The build platform is lowered from the top of the
+resin vat downwards by the layer thickness.
+
+A UV light cures the resin layer by layer.
+
+The platform continues to move downwards and
+additional layers are built on top of the previous.
+
+Some machines use a blade which moves between
+layers in order to provide a smooth resin base to build
+the next layer on.
+
+After completion, the vat is drained of resin and the
+object removed.
 --- page 14 ---
 1. Stereolithography (SLA)
 Process: SLA uses a laser to trace and cure the liquid resin layer by layer.
@@ -1621,6 +4429,39 @@ file size.
 •   Units: STL files do not contain any information about the units used
 (millimeters, inches, etc.).
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Generative design
+
+* Generative design is a software tool that enables engineers and
+designers to approach design problems in more innovative and
+efficient ways.
+
+* Generative design algorithms explore all possible design solutions
+by defining goals and constraints, offering engineers numerous
+options to explore.
+
+* Generative design has shown remarkable potential for industrial
+applications, particularly when coupled with 3D printing.
+
+How generative design works
+
+1) Set parameters
+
+The designer specifies and sets the parameters for the part design, based on
+parameters such as weight, material, size, cost, strength, and manufacturing
+methods.
+
+2) Generate designs
+
+The generative design software uses algorithms to explore and generate
+thousands of design options. At this stage, the software can also use Al-powered
+algorithms to analyse each design and establish the most efficient designs.
+
+3) Select the best options
+
+The designer can then study these designs and select the outcomes which best
+meet the design goal.
 --- page 4 ---
 • The interpreting software assumes a unit, or the user must specify it.
 •   File Extension: The files typically have the extension .stl.
@@ -1639,30 +4480,318 @@ material.
 LOM works by using laminates of paper, plastic, or metal that are sequentially
 stacked and cut to form the desired shape.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Steps in LOM Process:
+
+* Layer Preparation: The material is fed into the machine from a roll or sheet
+stock.
+
+* Bonding: Layers are fused together by applying heat and pressure.
+* Cutting: A laser or CNC blade precisely cuts each cross-section from the sheet.
+
+* Waste Removal: After cutting, excess material surrounding the object (also called
+support material) is removed, often in a post-processing step.
+
+4
+
+1. Building Platform
+2. Feed Roller
+3. Lamination Roller
+4. Laser Cutter
+
+Bond-Then-Form Processes (LOM)
+Process Steps:
+
+¢ The building process involves three main steps:
+* Placing the laminate
+* Bonding it to the substrate
+* Cutting according to the slice contour
 --- page 5 ---
 Q3
 a. Explain how improper part orientation and layer thickness affects build time,   [10]
 material usage, and accuracy in additive manufacturing.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Form-Then-Bond Processes (LOM)
+
+Process Overview:
+
+¢ Sheet material is first cut to shape and then bonded to the substrate
+
+Key Features:
+
+* Commonly used for metallic and ceramic materials with thermal bonding
+
+* Currently, implementation is largely at the research level
+
+Importance of part orientation
+
+Part accuracy - By orientating the part in different directions, there is a
+significant difference in the print quality.
+
+Build time - Orientation can also have a significant impact on print time
+
+* Part strength - Some 3D printing build parts that have inherently
+anisotropic properties, meaning they are much stronger in the XY
+direction than the Z direction.
+
+° Support Structures - Support material adds extra time and cost to a 3D
+print.
+
+° Surface finish - the top or upward facing surfaces of a 3D printed part
+will have the best surface finish
+
+Effect of Layer Thickness
+
+* Strength:
+* Thicker layers may have weaker inter-layer adhesion, reducing overall part strength.
++ Thinner layers improve bonding between layers, generally resulting in stronger parts.
+* Dimensional Accuracy:
+* Thinner layers provide higher resolution and better accuracy for intricate details.
+* Thicker layers may compromise fine details, leading to a less accurate final product.
+* Surface Finish:
+* Thinner layers result in a smoother surface finish with less visible stepping or layer lines.
+* Thicker layers can cause a rougher finish with more pronounced layer lines, requiring additional post-processing.
+* Build Time:
+* Thicker layers reduce the number of layers needed, decreasing print time.
+* Thinner layers increase the number of layers, significantly extending the printing time.
+* Material Consumption:
+* Thicker layers might slightly reduce material usage due to fewer layers, though this effect is minimal.
+* Thinner layers increase material usage as more layers are required to complete the print.
+* Cost Efficiency or Trade-offs:
+* Thicker layers can lower costs by reducing printing time and post-processing needs but may compromise quality.
+
++ Thinner layers, while offering better quality, can increase costs due to longer print times and higher material
+consumption.
 --- page 6 ---
 b. What is power Bed fusion in 3D Printing? Illustrate and explain the working of [10]
 the Selective Laser Sintering (SLS) process with a neat diagram.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Powder bed fusion (PBF)
+
+Introduction to Powder Bed Fusion (PBF)
+
+e Uses thermal sources to induce fusion between powder particles.
+e Produces solid parts in specific locations within the build area.
+Characteristics of PBF Technologies
+
+¢ Employs mechanisms for powder application and smoothing during
+construction.
+
+e Final components are encased in powder.
+Thermal Sources
+e Commonly used thermal source: Lasers.
+
+e PBF processes utilizing lasers are known as Laser Sintering (LS).
+
+Selective Laser Sintering (SLS)
+
+¢ Type of Powder Bed Fusion (PBF) technology.
+
+¢ Employs laser as the primary thermal source for material fusion.
+
+Basic SLS Process Steps
+
+e Layering: A thin layer of powder material is spread across the build platform.
+
+¢ Scanning: A laser scans the powdered material, selectively fusing particles together based on a
+digital model.
+
+¢ Building: The build platform lowers, and a new layer of powder is applied, repeating the
+scanning and fusing process.
+
+¢ Cooling: The part remains encased in powder until cooling is complete, preventing warping.
+
+Enclosed Chamber
+- The part building takes place within an enclosed chamber filled with nitrogen gas.
+
+- This environment minimizes oxidation and degradation of the powdered material,
+ensuring high-quality outputs.
+
+Preheating Process
+
+-   Preheating the powder is crucial for successful printing.
+
++ It maintains an elevated and uniform temperature within the build platform.
+
+- This practice helps to reduce the laser power requirements needed for the process.
+Post-Printing Steps
+
+- After printing, parts are fully encapsulated in unsintered powder.
+
+- Asignificant cooling period, which can last up to 12 hours, is necessary before
+unpacking the components.
+
+- Careful handling during unpacking is essential to avoid damage.
+Cleaning Parts
+- Once cooled, parts are cleaned using compressed air or various blasting media.
+
++ This step prepares the parts for immediate use or for additional processing if necessary.
 --- page 7 ---
 Q4
 a. Apply the concept of topology optimization in additive manufacturing to explain [10]
 its methodology and demonstrate how it enables lightweight structure design.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Advantages of SLS
+
+¢ No need for support structures, as the surrounding powder acts as support.
+e Ability to create complex geometries and designs.
+
+¢ Suitable for both prototyping and low-to-medium volume production.
+
+Applications of SLS
+
+¢ Rapid prototyping for functional parts.
+
+¢ Production of end-use components in aerospace, automotive, and medical industries.
+e¢ Custom tools and fixtures.
+
+Topology optimization
+
+* Topology optimization (TO) methods determine the overall
+
+configuration of shape elements in a design problem.
+
+*TO results are used as inputs to subsequent size or shape
+
+optimization problems.
+
+¢ As structural optimization methods, finite element analyses are
+performed during each iteration of the optimization method, which
+
+means that TO can be computationally demanding.
+
+Topology optimization
+
+*TO solutions should result in structures that are nearly fully
+stressed, or have constant strain energy, throughout the structure
+geometry based on the specified loading conditions.
+
+* Two main approaches have been developed for TO problems:
+
+1. Truss-based methods.
+
+2. Volume-based density methods.
 --- page 8 ---
 b. Explain how Design for Additive Manufacturing (DfAM) enables innovation [05]
 in AM industry applications.
 c. Explain the AM process chain in detail from CAD model to final product.   [05]
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Design for Additive Manufacturing
+
+* This concept emerges due to the enormous design freedom provided
+by AM technologies.
+
+¢ To take full advantages of unique capabilities from AM processes,
+DfAM methods or tools are needed.
+
+* Typical DfAM methods or tools includes topology optimization,
+design for multiscale structures (lattice or cellular structures), multi-
+material design, mass customization, part consolidation, and other
+design methods which can make use of AM-enabled features.
+
+AM Unique Capabilities
+
+* Shape complexity: it is possible to build virtually any shape
+
+* Hierarchical complexity: features can be designed with shape
+
+complexity across multiple size scales
+
+¢ Functional complexity: functional devices (not just individual piece-
+
+parts) can be produced in one build
+
+« Material complexity: material can be processed one point, or one
+
+layer, at a time as a single material or as a combination of materials
+
+Step 1: CAD
+Step 3: Transfer to AM Machine and STL File Manipulation
+
+Step 6: Removal
+Step 8: Application
 --- page 9 ---
 Q5
 a. Discuss the Material Jetting process in detail, including working mechanism,   [10]
 materials, advantages, limitations, and applications.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Material Jetting
+
+* It operates similarly to inkjet printing but with more advanced materials like
+polymers, waxes, and even metals
+
+Process Overview:
+
+* Jetting Mechanism: Printer’s nozzles deposit small droplets of material layer
+by layer onto a build platform. These droplets are typically photosensitive
+polymers, which are then cured by ultraviolet (UV) light immediately after
+deposition. This allows for precise and rapid solidification.
+
+* Layering: Layers of material are built up to form a 3D object. Each layer is
+cured before the next layer is deposited.
+
+* Multimaterial Capabilities: Material jetting allows for multiple materials to
+be deposited in a single build process. Example-it can use rigid materials for
+structure and flexible materials for hinges or soft components.
+
+* High Resolution: Offers high dimensional accuracy and smooth surface
+finishes, making it suitable for intricate designs.
+
+Materials Used:
+
+* Photopolymers: (material that experiences a direct or indirect interaction with light to change its physical or chemical properties)
+Most commonly used materials in material jetting. They are cured with UV light
+after being deposited.
+
+* Waxes: Primarily used for applications like casting, where the wax model can later
+be used as a mold.
+
+* Metallic Inks: Some systems can deposit metallic particles in a binder, which can
+later be sintered to form solid metal parts (although these systems are less
+
+crammnan)
+
+Advantages:
+
++ High Detail & Accuracy: Material jetting offers very fine resolution, making it ideal for applications
+requiring intricate details.
+
++ Multi-Material & Color Printing: The ability to print in multiple materials and colors in a single build is
+a key feature.
+
+* Smooth Surface Finish: Process often results in smoother surfaces right out of the printer without any
+post processing.
+
+Limitations:
+
+* Material Limitations: The range of materials is limited compared to other methods like FDM or SLS.
+Most materials used are photopolymers or wax, which may not be suitable for functional or high-
+strength applications.
+
+* Cost: Material jetting systems tend to be expensive, both in terms of machine cost and material
+consumption.
+
+Applications:
+
+. Prototyping: Due to the high resolution, material jetting is ideal for creating detailed prototypes
+with a fine surface finish.
+
+* Medical Models: It's used to create anatomical models with realistic textures, colors, and
+materials for surgical planning or educational purposes.
+
+* Casting Molds: Wax models produced through material jetting can be used in investment casting
+for metal parts.
 --- page 10 ---
 b. Classify 3D Printing Processes based on their working principles.   [05]
 c. Explain the significance of support generation in FDM 3D printing.   [05]
@@ -1676,6 +4805,53 @@ design time.
 luxury cars).
 • Lightweight structures help improve fuel efficiency and performance.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Vat photo polymerization: processes that utilize a liquid photopolymer contained in a vat
+and processed by selectively delivering energy to cure specific regions of a part cross-section.
+
+Powder bed fusion: processes that utilize a container filled with powder processed
+selectively using an energy source, most commonly a scanning laser or electron beam.
+
+Material extrusion: processes that deposit a material by extruding it through a nozzle,
+typically while scanning the nozzle in a pattern that produces a part cross-section.
+
+Material jetting: ink-jet printing processes.
+
+Binder jetting: processes where a binder printed into a powder bed in order to form part
+cross-sections.
+
+Sheet lamination: processes that deposit a layer of material at a time, where the material is in
+sheet form.
+
+Directed energy deposition: processes that simultaneously deposit a material (usually
+powder or wire) and provide energy to process that material through a single deposition
+device.
+
+Support generation
+
+¢ FDM printers can’t deposit molten thermoplastic on thin air.
+
+* Certain part geometries require support structures, usually printed
+in the same material as the parts themselves.
+
+e Removing support structure materials can be difficult, often far
+easier to design parts in such a way that minimizes the need for
+support structures.
+
+* Support materials that dissolve in liquid available, but generally
+used them in tandem with higher-end FDM 3D printers.
+
+* Using dissolvable supports increase the overall cost ofa print.
+
+A visual illustration of
+support structures needed
+for printing a Y, H & T with
+
+il] FDM
+
+Y,H, and T printed with |
+FDM with support | iil
 --- page 11 ---
 • Enables complex geometries not achievable with conventional machining.
 • Shortened product development cycle, leading to faster market entry
@@ -1704,15 +4880,108 @@ patients.
 b. Explain the working principle of Ultrasonic Additive Manufacturing (UAM) and [10]
 discuss how it differs from conventional additive manufacturing processes.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Ultrasonic Additive Manufacturing (UAM)
+
+* Ultrasonic Additive Manufacturing (UAM) is a hybrid manufacturing process that
+combines additive and subtractive techniques, using ultrasonic energy to bond
+thin metal foils layer by layer.
+
+* It enables the creation of complex metal parts without melting the material, thus
+avoiding issues related to thermal stresses and distortion seen in conventional
+additive manufacturing (AM) methods like laser or electron beam melting.
+
+* Object built up on rigidly held base plate bolted on heated plate with temperature
+ranging from room temperature to 200° C.
+
+* Parts built from bottom to top and each layer composed of several metal foils laid
+
+side by side and then trimmed by CNC milling.
 --- page 12 ---
 Q7
 a. Demonstrate different post-processing methods used to enhance the dimensional   [10]
 accuracy and aesthetics of FDM printed parts.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Steps -
+
+1) A rotating sonotrode travels along the length of a thin metal foil
+(typically 100-150 um thick).
+
+2) Foil held closely in contact with the base plate or previous layer
+by applying a normal force via the rotating sonotrode
+
+3) Sonotrode oscillates transversely to the direction of motion, at a
+constant 20 kHz frequency and user-set oscillation amplitude.
+
+4) After depositing a foil, another foil deposited adjacent to it.
+
+5) Procedure repeated until a complete layer is placed.
+
+¢ The important controllable process parameters of UAM are:
+> Oscillation amplitude
+> Normal force
+> Travel speed
+> Temperature
+
+* The quality of bonding in UAM significantly affected by each
+of these process parameters.
+
+Post processing methods
+
+Priming & painting
+
+™ Vapor smoothing
+Gap filling
+Dippin;
+Polishing
+
+Epoxy coating
+Metal plating
 --- page 13 ---
 b. Describe the Vat Photopolymerization process in detail, including SLA, DLP, and [10]
 LCD techniques with advantages and limitations.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Vat Polymerization
+
+the model is constructed layer by layer.
+
+(Photopolymer resin is a polymer that changes its properties (crystalize and stiffen) when exposed to light, most commonly ultraviolet light)
+
+An ultraviolet (UV) light is used to cure or harden the resin where
+required, whilst a platform moves the object being made downwards after
+each new layer is cured.
+
+As the process uses liquid to form objects, there is no structural support
+from the material during the build phase.
+
+Resins are cured using a process of photo polymerisation or UV light.
+
+Light is directed across the surface of the resin with the use of motor
+controlled mirrors.
+
+The resin comes in contact with the light, it cures or hardens.
+
+Photopolymerisation — Step by Step
+
+The build platform is lowered from the top of the
+resin vat downwards by the layer thickness.
+
+A UV light cures the resin layer by layer.
+
+The platform continues to move downwards and
+additional layers are built on top of the previous.
+
+Some machines use a blade which moves between
+layers in order to provide a smooth resin base to build
+the next layer on.
+
+After completion, the vat is drained of resin and the
+object removed.
 --- page 14 ---
 1. Stereolithography (SLA)
 Process: SLA uses a laser to trace and cure the liquid resin layer by layer.
@@ -1851,6 +5120,39 @@ file size.
 •   Units: STL files do not contain any information about the units used
 (millimeters, inches, etc.).
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Generative design
+
+* Generative design is a software tool that enables engineers and
+designers to approach design problems in more innovative and
+efficient ways.
+
+* Generative design algorithms explore all possible design solutions
+by defining goals and constraints, offering engineers numerous
+options to explore.
+
+* Generative design has shown remarkable potential for industrial
+applications, particularly when coupled with 3D printing.
+
+How generative design works
+
+1) Set parameters
+
+The designer specifies and sets the parameters for the part design, based on
+parameters such as weight, material, size, cost, strength, and manufacturing
+methods.
+
+2) Generate designs
+
+The generative design software uses algorithms to explore and generate
+thousands of design options. At this stage, the software can also use Al-powered
+algorithms to analyse each design and establish the most efficient designs.
+
+3) Select the best options
+
+The designer can then study these designs and select the outcomes which best
+meet the design goal.
 --- page 4 ---
 • The interpreting software assumes a unit, or the user must specify it.
 •   File Extension: The files typically have the extension .stl.
@@ -1869,30 +5171,318 @@ material.
 LOM works by using laminates of paper, plastic, or metal that are sequentially
 stacked and cut to form the desired shape.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Steps in LOM Process:
+
+* Layer Preparation: The material is fed into the machine from a roll or sheet
+stock.
+
+* Bonding: Layers are fused together by applying heat and pressure.
+* Cutting: A laser or CNC blade precisely cuts each cross-section from the sheet.
+
+* Waste Removal: After cutting, excess material surrounding the object (also called
+support material) is removed, often in a post-processing step.
+
+4
+
+1. Building Platform
+2. Feed Roller
+3. Lamination Roller
+4. Laser Cutter
+
+Bond-Then-Form Processes (LOM)
+Process Steps:
+
+¢ The building process involves three main steps:
+* Placing the laminate
+* Bonding it to the substrate
+* Cutting according to the slice contour
 --- page 5 ---
 Q3
 a. Explain how improper part orientation and layer thickness affects build time,   [10]
 material usage, and accuracy in additive manufacturing.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Form-Then-Bond Processes (LOM)
+
+Process Overview:
+
+¢ Sheet material is first cut to shape and then bonded to the substrate
+
+Key Features:
+
+* Commonly used for metallic and ceramic materials with thermal bonding
+
+* Currently, implementation is largely at the research level
+
+Importance of part orientation
+
+Part accuracy - By orientating the part in different directions, there is a
+significant difference in the print quality.
+
+Build time - Orientation can also have a significant impact on print time
+
+* Part strength - Some 3D printing build parts that have inherently
+anisotropic properties, meaning they are much stronger in the XY
+direction than the Z direction.
+
+° Support Structures - Support material adds extra time and cost to a 3D
+print.
+
+° Surface finish - the top or upward facing surfaces of a 3D printed part
+will have the best surface finish
+
+Effect of Layer Thickness
+
+* Strength:
+* Thicker layers may have weaker inter-layer adhesion, reducing overall part strength.
++ Thinner layers improve bonding between layers, generally resulting in stronger parts.
+* Dimensional Accuracy:
+* Thinner layers provide higher resolution and better accuracy for intricate details.
+* Thicker layers may compromise fine details, leading to a less accurate final product.
+* Surface Finish:
+* Thinner layers result in a smoother surface finish with less visible stepping or layer lines.
+* Thicker layers can cause a rougher finish with more pronounced layer lines, requiring additional post-processing.
+* Build Time:
+* Thicker layers reduce the number of layers needed, decreasing print time.
+* Thinner layers increase the number of layers, significantly extending the printing time.
+* Material Consumption:
+* Thicker layers might slightly reduce material usage due to fewer layers, though this effect is minimal.
+* Thinner layers increase material usage as more layers are required to complete the print.
+* Cost Efficiency or Trade-offs:
+* Thicker layers can lower costs by reducing printing time and post-processing needs but may compromise quality.
+
++ Thinner layers, while offering better quality, can increase costs due to longer print times and higher material
+consumption.
 --- page 6 ---
 b. What is power Bed fusion in 3D Printing? Illustrate and explain the working of [10]
 the Selective Laser Sintering (SLS) process with a neat diagram.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Powder bed fusion (PBF)
+
+Introduction to Powder Bed Fusion (PBF)
+
+e Uses thermal sources to induce fusion between powder particles.
+e Produces solid parts in specific locations within the build area.
+Characteristics of PBF Technologies
+
+¢ Employs mechanisms for powder application and smoothing during
+construction.
+
+e Final components are encased in powder.
+Thermal Sources
+e Commonly used thermal source: Lasers.
+
+e PBF processes utilizing lasers are known as Laser Sintering (LS).
+
+Selective Laser Sintering (SLS)
+
+¢ Type of Powder Bed Fusion (PBF) technology.
+
+¢ Employs laser as the primary thermal source for material fusion.
+
+Basic SLS Process Steps
+
+e Layering: A thin layer of powder material is spread across the build platform.
+
+¢ Scanning: A laser scans the powdered material, selectively fusing particles together based on a
+digital model.
+
+¢ Building: The build platform lowers, and a new layer of powder is applied, repeating the
+scanning and fusing process.
+
+¢ Cooling: The part remains encased in powder until cooling is complete, preventing warping.
+
+Enclosed Chamber
+- The part building takes place within an enclosed chamber filled with nitrogen gas.
+
+- This environment minimizes oxidation and degradation of the powdered material,
+ensuring high-quality outputs.
+
+Preheating Process
+
+-   Preheating the powder is crucial for successful printing.
+
++ It maintains an elevated and uniform temperature within the build platform.
+
+- This practice helps to reduce the laser power requirements needed for the process.
+Post-Printing Steps
+
+- After printing, parts are fully encapsulated in unsintered powder.
+
+- Asignificant cooling period, which can last up to 12 hours, is necessary before
+unpacking the components.
+
+- Careful handling during unpacking is essential to avoid damage.
+Cleaning Parts
+- Once cooled, parts are cleaned using compressed air or various blasting media.
+
++ This step prepares the parts for immediate use or for additional processing if necessary.
 --- page 7 ---
 Q4
 a. Apply the concept of topology optimization in additive manufacturing to explain [10]
 its methodology and demonstrate how it enables lightweight structure design.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Advantages of SLS
+
+¢ No need for support structures, as the surrounding powder acts as support.
+e Ability to create complex geometries and designs.
+
+¢ Suitable for both prototyping and low-to-medium volume production.
+
+Applications of SLS
+
+¢ Rapid prototyping for functional parts.
+
+¢ Production of end-use components in aerospace, automotive, and medical industries.
+e¢ Custom tools and fixtures.
+
+Topology optimization
+
+* Topology optimization (TO) methods determine the overall
+
+configuration of shape elements in a design problem.
+
+*TO results are used as inputs to subsequent size or shape
+
+optimization problems.
+
+¢ As structural optimization methods, finite element analyses are
+performed during each iteration of the optimization method, which
+
+means that TO can be computationally demanding.
+
+Topology optimization
+
+*TO solutions should result in structures that are nearly fully
+stressed, or have constant strain energy, throughout the structure
+geometry based on the specified loading conditions.
+
+* Two main approaches have been developed for TO problems:
+
+1. Truss-based methods.
+
+2. Volume-based density methods.
 --- page 8 ---
 b. Explain how Design for Additive Manufacturing (DfAM) enables innovation [05]
 in AM industry applications.
 c. Explain the AM process chain in detail from CAD model to final product.   [05]
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Design for Additive Manufacturing
+
+* This concept emerges due to the enormous design freedom provided
+by AM technologies.
+
+¢ To take full advantages of unique capabilities from AM processes,
+DfAM methods or tools are needed.
+
+* Typical DfAM methods or tools includes topology optimization,
+design for multiscale structures (lattice or cellular structures), multi-
+material design, mass customization, part consolidation, and other
+design methods which can make use of AM-enabled features.
+
+AM Unique Capabilities
+
+* Shape complexity: it is possible to build virtually any shape
+
+* Hierarchical complexity: features can be designed with shape
+
+complexity across multiple size scales
+
+¢ Functional complexity: functional devices (not just individual piece-
+
+parts) can be produced in one build
+
+« Material complexity: material can be processed one point, or one
+
+layer, at a time as a single material or as a combination of materials
+
+Step 1: CAD
+Step 3: Transfer to AM Machine and STL File Manipulation
+
+Step 6: Removal
+Step 8: Application
 --- page 9 ---
 Q5
 a. Discuss the Material Jetting process in detail, including working mechanism,   [10]
 materials, advantages, limitations, and applications.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Material Jetting
+
+* It operates similarly to inkjet printing but with more advanced materials like
+polymers, waxes, and even metals
+
+Process Overview:
+
+* Jetting Mechanism: Printer’s nozzles deposit small droplets of material layer
+by layer onto a build platform. These droplets are typically photosensitive
+polymers, which are then cured by ultraviolet (UV) light immediately after
+deposition. This allows for precise and rapid solidification.
+
+* Layering: Layers of material are built up to form a 3D object. Each layer is
+cured before the next layer is deposited.
+
+* Multimaterial Capabilities: Material jetting allows for multiple materials to
+be deposited in a single build process. Example-it can use rigid materials for
+structure and flexible materials for hinges or soft components.
+
+* High Resolution: Offers high dimensional accuracy and smooth surface
+finishes, making it suitable for intricate designs.
+
+Materials Used:
+
+* Photopolymers: (material that experiences a direct or indirect interaction with light to change its physical or chemical properties)
+Most commonly used materials in material jetting. They are cured with UV light
+after being deposited.
+
+* Waxes: Primarily used for applications like casting, where the wax model can later
+be used as a mold.
+
+* Metallic Inks: Some systems can deposit metallic particles in a binder, which can
+later be sintered to form solid metal parts (although these systems are less
+
+crammnan)
+
+Advantages:
+
++ High Detail & Accuracy: Material jetting offers very fine resolution, making it ideal for applications
+requiring intricate details.
+
++ Multi-Material & Color Printing: The ability to print in multiple materials and colors in a single build is
+a key feature.
+
+* Smooth Surface Finish: Process often results in smoother surfaces right out of the printer without any
+post processing.
+
+Limitations:
+
+* Material Limitations: The range of materials is limited compared to other methods like FDM or SLS.
+Most materials used are photopolymers or wax, which may not be suitable for functional or high-
+strength applications.
+
+* Cost: Material jetting systems tend to be expensive, both in terms of machine cost and material
+consumption.
+
+Applications:
+
+. Prototyping: Due to the high resolution, material jetting is ideal for creating detailed prototypes
+with a fine surface finish.
+
+* Medical Models: It's used to create anatomical models with realistic textures, colors, and
+materials for surgical planning or educational purposes.
+
+* Casting Molds: Wax models produced through material jetting can be used in investment casting
+for metal parts.
 --- page 10 ---
 b. Classify 3D Printing Processes based on their working principles.   [05]
 c. Explain the significance of support generation in FDM 3D printing.   [05]
@@ -1906,6 +5496,53 @@ design time.
 luxury cars).
 • Lightweight structures help improve fuel efficiency and performance.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Vat photo polymerization: processes that utilize a liquid photopolymer contained in a vat
+and processed by selectively delivering energy to cure specific regions of a part cross-section.
+
+Powder bed fusion: processes that utilize a container filled with powder processed
+selectively using an energy source, most commonly a scanning laser or electron beam.
+
+Material extrusion: processes that deposit a material by extruding it through a nozzle,
+typically while scanning the nozzle in a pattern that produces a part cross-section.
+
+Material jetting: ink-jet printing processes.
+
+Binder jetting: processes where a binder printed into a powder bed in order to form part
+cross-sections.
+
+Sheet lamination: processes that deposit a layer of material at a time, where the material is in
+sheet form.
+
+Directed energy deposition: processes that simultaneously deposit a material (usually
+powder or wire) and provide energy to process that material through a single deposition
+device.
+
+Support generation
+
+¢ FDM printers can’t deposit molten thermoplastic on thin air.
+
+* Certain part geometries require support structures, usually printed
+in the same material as the parts themselves.
+
+e Removing support structure materials can be difficult, often far
+easier to design parts in such a way that minimizes the need for
+support structures.
+
+* Support materials that dissolve in liquid available, but generally
+used them in tandem with higher-end FDM 3D printers.
+
+* Using dissolvable supports increase the overall cost ofa print.
+
+A visual illustration of
+support structures needed
+for printing a Y, H & T with
+
+il] FDM
+
+Y,H, and T printed with |
+FDM with support | iil
 --- page 11 ---
 • Enables complex geometries not achievable with conventional machining.
 • Shortened product development cycle, leading to faster market entry
@@ -1934,15 +5571,108 @@ patients.
 b. Explain the working principle of Ultrasonic Additive Manufacturing (UAM) and [10]
 discuss how it differs from conventional additive manufacturing processes.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Ultrasonic Additive Manufacturing (UAM)
+
+* Ultrasonic Additive Manufacturing (UAM) is a hybrid manufacturing process that
+combines additive and subtractive techniques, using ultrasonic energy to bond
+thin metal foils layer by layer.
+
+* It enables the creation of complex metal parts without melting the material, thus
+avoiding issues related to thermal stresses and distortion seen in conventional
+additive manufacturing (AM) methods like laser or electron beam melting.
+
+* Object built up on rigidly held base plate bolted on heated plate with temperature
+ranging from room temperature to 200° C.
+
+* Parts built from bottom to top and each layer composed of several metal foils laid
+
+side by side and then trimmed by CNC milling.
 --- page 12 ---
 Q7
 a. Demonstrate different post-processing methods used to enhance the dimensional   [10]
 accuracy and aesthetics of FDM printed parts.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Steps -
+
+1) A rotating sonotrode travels along the length of a thin metal foil
+(typically 100-150 um thick).
+
+2) Foil held closely in contact with the base plate or previous layer
+by applying a normal force via the rotating sonotrode
+
+3) Sonotrode oscillates transversely to the direction of motion, at a
+constant 20 kHz frequency and user-set oscillation amplitude.
+
+4) After depositing a foil, another foil deposited adjacent to it.
+
+5) Procedure repeated until a complete layer is placed.
+
+¢ The important controllable process parameters of UAM are:
+> Oscillation amplitude
+> Normal force
+> Travel speed
+> Temperature
+
+* The quality of bonding in UAM significantly affected by each
+of these process parameters.
+
+Post processing methods
+
+Priming & painting
+
+™ Vapor smoothing
+Gap filling
+Dippin;
+Polishing
+
+Epoxy coating
+Metal plating
 --- page 13 ---
 b. Describe the Vat Photopolymerization process in detail, including SLA, DLP, and [10]
 LCD techniques with advantages and limitations.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Vat Polymerization
+
+the model is constructed layer by layer.
+
+(Photopolymer resin is a polymer that changes its properties (crystalize and stiffen) when exposed to light, most commonly ultraviolet light)
+
+An ultraviolet (UV) light is used to cure or harden the resin where
+required, whilst a platform moves the object being made downwards after
+each new layer is cured.
+
+As the process uses liquid to form objects, there is no structural support
+from the material during the build phase.
+
+Resins are cured using a process of photo polymerisation or UV light.
+
+Light is directed across the surface of the resin with the use of motor
+controlled mirrors.
+
+The resin comes in contact with the light, it cures or hardens.
+
+Photopolymerisation — Step by Step
+
+The build platform is lowered from the top of the
+resin vat downwards by the layer thickness.
+
+A UV light cures the resin layer by layer.
+
+The platform continues to move downwards and
+additional layers are built on top of the previous.
+
+Some machines use a blade which moves between
+layers in order to provide a smooth resin base to build
+the next layer on.
+
+After completion, the vat is drained of resin and the
+object removed.
 --- page 14 ---
 1. Stereolithography (SLA)
 Process: SLA uses a laser to trace and cure the liquid resin layer by layer.
@@ -2005,6 +5735,48 @@ BL-2
 CO-4;   c. Common medical applications – 5 M   [05]
 BL-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Parameter ‘AM machining CNC machining
+
+Material ‘AM includes development of CNC used for machining soft
+polymericmaterial, waxesand | materials or medium density
+paper laminates. fiber board, machinable foams
+
+and machinable waxes etc.
+
+Speed Higher, takes fewhourstomake | Lower, takes weeks to develop
+part. same part.
+
+Complexity Complex operation Easy operation
+
+Efficiency Higher Lower
+
+‘Accuracy More accurate Comparatively less
+
+Programming InAM machine the part won’tbe | Incorrect programming can
+built properly if in correct badly damage the machine and
+programmingis done may even be safety risk.
+
+Process Itis an additive process. Itis subtractive process.
+
+Industry 4.0 for AM
+
+* The latest industrial revolution, Industry 4.0, is encouraging the integration of
+intelligent production systems and advanced information technologies.
+
++ Additive manufacturing (AM) is considered to be an essential ingredient in
+this new movement.
+
+* Due to the necessity for mass customization in Industry 4.0, non-traditional
+manufacturing methods are needed to be developed.
+
++ AM become a key technology for fabricating customized products due to its
+ability to create sophisticated objects with advanced attributes (new
+materials, shapes).
+
+* Thanks to increased product quality, AM is currently being used in various
+industries such as aerospace, biomedical, and manufacturing
 --- page 2 ---
 CO-3;   d. Defects – 5 M   [05]
 BL-4   •   Stringing (otherwise known as oozing, whiskers, or “hairy” prints) occurs when small
@@ -2043,6 +5815,20 @@ the previous.
 resin base to build the next layer on.
 •   After completion, the vat is drained of resin and the object removed.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Common applications
+
+* Data generation (CT, MRI, 3D scan)
++ Surgical learning tools
+
+* Surgical guides and tools
+
+* Implants
+
++ Prosthetics
+
+* Hearing aids
 --- page 3 ---
 CO-2;   b. LOM –   [10]
 BL-2   •   Process – 8 M
@@ -2067,6 +5853,24 @@ Steps in LOM Process:
 support material) is removed, often in a post-processing step
 Q3
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Bond-Then-Form Processes
+
+*The building process consists of three steps in the following
+sequence: placing the laminate, bonding it to the substrate, and
+cutting it according to the slice contour.
+
+¢ A heated roller passes across the sheet after placing it for each layer,
+melting the adhesive and producing a bond between layers.
+
+* A laser (or in some cases a mechanical cutting knife) designed to cut
+to a depth of one layer thickness cuts the cross-sectional outline
+based on the slice information.
+
+* Unused material left in place as support material and is diced using a
+crosshatch pattern into small rectangular pieces called “tiles” or
+“cubes.”
 --- page 4 ---
 CO-5;   a.   [10]
 BL-4   Post processing methods explanation – 10 M
@@ -2084,12 +5888,59 @@ Q4
 CO-4;   a. Design for Additive Manufacturing (DfAM) – 5 M   [10]
 BL-2   Use in optimizing part geometry, material utilization, overall performance – 5 M
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Support Removal
+Priming & paintin
+Cold welding Seu g
+
+™ Vapor smoothing
+Gap filling
+Dipping
+Epoxy coating
+Metal plating
+
+¢ The important controllable process parameters of UAM are:
+> Oscillation amplitude
+>Normal force
+>Travel speed
+> Temperature
+
+* The quality of bonding in UAM significantly affected by each
+of these process parameters.
 --- page 5 ---
 CO-2;   b. Applications of 3 D printing in automotive sector – 5 M   [05]
 BL-2
 CO-5;   c. Post-processing steps involved in Selective Laser Melting (SLM) - 5 M   [05]
 BL-3
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Design for Additive Manufacturing
+
+* Design for Additive Manufacturing (DfAM) - The art, science and
+skill to design for manufacturability using 3D printers.
+
+*A general type of design methods or tools whereby functional
+performance and/or other key product life-cycle considerations such
+as manufacturability, reliability, and cost can be optimized subjected to
+the capabilities of additive manufacturing technologies.
+
+- Different from traditional manufacturing, this additive
+design process empowers engineers to create more intricate
+shapes and production parts while reducing weight and material
+consumption.
+
+* This concept emerges due to the enormous design freedom provided
+by AM technologies.
+
+¢ To take full advantages of unique capabilities from AM processes,
+DfAM methods or tools are needed.
+
+* Typical DfAM methods or tools includes topology optimization,
+design for multiscale structures (lattice or cellular structures), multi-
+material design, mass customization, part consolidation, and other
+design methods which can make use of AM-enabled features.
 --- page 6 ---
 Q5
 CO-2;   a.   Material jetting (MJ) process –   [10]
@@ -2114,6 +5965,34 @@ BL-2
 CO-1;   c. Benefits of generative design – 5 M   [05]
 BL-4
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Drop-on-demand
+* Individual droplets produced directly from the nozzle.
+
+* Droplets formed only when individual pressure pulses in the nozzle
+cause the fluid to be expelled
+
+* Pressure pulses created at specific times by thermal, electrostatic,
+piezoelectric, acoustic, or other actuators
+
+*In the current DOD printing industry, thermal (bubble-jet) and
+piezoelectric actuator technologies dominate
+
+Reverse engineering
+
+* Reverse engineering - process of studying existing parts or
+products to gain insight into how they are designed and
+manufactured.
+
+¢ Involves complete disassembly and documentation of all parts and
+assemblies, followed by computer digitization to recreate the parts
+as 3D files.
+
+*Some of the most common applications of reverse engineering
+include: the generation of 3D files that represent complex and
+organic surfaces, verifying parts to check dimensional compliance
+and the measurement of parts that are no longer in production.
 --- page 7 ---
 Q6
 CO-1;   a.   Effect of Part Orientation – 5 M   [10]
@@ -2145,6 +6024,40 @@ o Thinner layers increase material usage as more layers are required to complete
 the print.
 •   Cost Efficiency or Trade-offs:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Benefits of generative design
+
++ Innovative design options
+
+Generative design software can produce geometries that go beyond what humans
+can conceive, thereby enhancing human capabilities in product design.
++ Light weighting
+
+Generative design tools give engineers the resources to create lightweight parts
+using the minimum amount of material necessary, whilst adhering to the
+engineering requirements.
+
++ Part consolidation
+
+Generative design can provide solutions to consolidate subassemblies into a
+single part. Consolidating parts simplifies the assembly process, maintenance
+and can reduce overall manufacturing costs.
+
+¢ Part accuracy - By orientating the part in different directions, there is a
+significant difference in the print quality.
+
+° Build time - Orientation can also have a significant impact on print time
+
+° Part strength - Some 3D printing build parts that have inherently
+anisotropic properties, meaning they are much stronger in the XY
+direction than the Z direction.
+
+° Support Structures - Support material adds extra time and cost to a 3D
+print.
+
+° Surface finish - the top or upward facing surfaces of a 3D printed part
+will have the best surface finish
 --- page 8 ---
 o Thicker layers can lower costs by reducing printing time and post-processing
 needs but may compromise quality.
@@ -2179,6 +6092,28 @@ responsiveness.
 •   Automated and digital-driven, reducing dependence on skilled labor.
 7. Improved Product Lifecycle Economics
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Topology optimization
+* Topology optimization (TO) methods determine the overall
+configuration of shape elements in a design problem.
+¢TO results are used as inputs to subsequent size or shape
+optimization problems.
+¢ As structural optimization methods, finite element analyses are
+
+performed during each iteration of the optimization method, which
+
+means that TO can be computationally demanding.
+
+*TO solutions should result in structures that are nearly fully
+stressed, or have constant strain energy, throughout the structure
+geometry based on the specified loading conditions.
+
+* Two main approaches have been developed for TO problems:
+
+1. Truss-based methods.
+
+2. Volume-based density methods.
 --- page 9 ---
 •   Enables lightweight and optimized designs, reducing operational costs in sectors
 like automotive and aerospace.
@@ -2209,4 +6144,19 @@ Applications of SLS
 •   Production of end-use components in aerospace, automotive, and medical industries.
 • Custom tools and fixtures.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+I. The powder bin and the build area first heated just
+below the melting temperature of the polymer and a
+recoating blade spreads a thin layer of powder over the
+build platform.
+
+Il. A CO, laser scans the contour of the next layer and
+selectively sinters (fuses together) the particles of the
+polymer powder. Entire cross section of the component
+scanned, the part is built solid.
+
+IIll.One layer completes, the build platform moves
+downwards and the blade re-coats the surface. The
+process repeats until the whole part is complete.
 ````

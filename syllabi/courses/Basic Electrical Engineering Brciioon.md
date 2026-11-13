@@ -1,0 +1,450 @@
+# Basic Electrical Engineering Brciioon — syllabus
+
+1 syllabus section(s) for this course in the archive, newest batch first. Text comes from the PDF (OCR for scanned pages; check figures against the source). All programmes' syllabi: [`syllabi/`](../README.md).
+
+## B TECH WORK IN PROCESS · Data Science · batch 2019-2023 · Sem 1
+
+- Course as printed: Basic Electrical Engineering Brciioon BYMA01002
+- Source: `04_Syllabi_Archive/B TECH WORK IN PROCESS/Data Science/Batch 2019 - 2023/Semester - 1.pdf`, page 8-16
+
+````text
+Course/Module: Basic Electrical Engineering Brciioon BYMA01002;
+BTDS01003
+Teaching Scheme Evaluation Scheme
+. Practical/ Term End
+Lecture | Tutorial Group Conti Examinations
+. . . ‘ontinuous
+nat Ooo oor work Credit Evaluation m ee a0
+ion y y ; ‘ke. arks -
+week) week) (Hour a or (Marks-50) in Question
+week) Paper)
+Marks Scaled Marks Scaled to
+45 3 1 2 5 to 50 50
+Course Rationale:
+
+This course aims to develop an understanding of analysis techniques applied to de and ac circuits. It
+enhances the understanding of electrical and magnetic circuits through the study of basic concepts of
+electric and magnetic circuits, various theorems and electrical quantities.
+
+Course Objectives:
+
+1. Equip the student to understand and solve simple ac and de electrical and magnetic circuits using
+different theorems.
+
+2. To enable the student to obtain a basic understanding of the working principle and applications of
+motors.
+
+3. To impact hands-on experience in assembling and testing of circuits.
+
+Course Outcomes:
+After completion of the course, students would be able to:
+1. Analyze de circuits using network theorems,
+
+2. Understand and analyze AC circuits.
+3. Discuss the working principle and applications of transformer, DC and AC machines.
+
+4. Understand the concepts of power converter and electrical installation.
+
+Pedagogy:
+
+1. Classroom lectures and discussion.
+
+2. Learning through conducting laboratory experiments and in-class problem solving.
+3. Using the flipped classroom technique for participative learning.
+
+4, Peer to Peer learning
+
+Textbook:
+TBI. Basic Electrical Engineering, 1e, D.C. Kulshreshtha, Tata McGraw Hill, 2009.
+
+TB2. Electrical and Electronics Technology, 10, E. Hughes, Pearson Education, 2013.
+TB3. Power Electronics: Circuits, Devices and Applications, 3 e, M. H. Rashid, Pearson Education
+
+B. Tech. / Ist Year Semester-I / 2019-20 / Page 8
+SVKM’s Narsee Monjee Institute of Management Studies
+Mukesh Patel School of Technology Management & Engineering
+
+Reference Books:
+
+RB1. Electrical Engineering Fundamentals, 2, V. D. Toro, Prentice Hall India, 2010.
+
+RB2. Fundamentals of Electrical Engineering and Electronics, | Multicolor e (Reprint 2009), B. L.
+Theraja, S. Chand & Co., 2006.
+
+Links to websites:
+
+© wwwuiptelac.in
+
+Evaluation Scheme:
+
+e Tutorial Test/ Presentation/viva/quiz 30%
+¢ Mid Term 20%
+e = Term End Exam 50%
+Total 100%
+Session Plan:
+Session Topics Pedagogical Tool Textbook Chapters &
+Readings
+
+Unit 1 | DC Circuits -- -
+
+1. Electrical circuit elements (R, L_ | Class room discussion. TBI:
+and C), voltage and current Chapter 2: Ohms law
+sources .
+2. Kirchhoff’s current law Flipped Classroom using | TBI:
+videos from .
+Chapter 3: Network analy:
+nptel.ac.in/courses/10810 hapter ChWORK analysis
+8076 TB2:
+Chapter 3: Simple DC
+circuits
+3. Kirchoff’s voltage laws Flipped Classroom using { TBI:
+videos from :
+Chapter 3: Network anal
+nptel.ac.in/courses/10810 rapier vor analysis
+8076 TR2:
+Chapter 3: Simple DC
+circuits
+4, Analysis of simple circuits with | Classroom discussion and | TBI:
+de excitation numerical solving. Chapter 3: Network analysis
+TB2:
+Chapter 3: Simple DC
+circuits
+5. Superposition Theorem ¢ Classroom discussion | TBI:
+and numerical Chapter 4: Network theorems
+solving.
+e Laboratory
+experiment for TB2:
+verification of Chapter 4: Network theorem
+
+Superposition
+
+B. Tech. / Ist Year Semester-I / 2019-20 / Page 9
+SVKM’s Natsee Monjee Institute of Management Studies
+Mukesh Patel School of Technology Management & Engineering
+
+Theorem.
+
+6. Thevenin’s Theorems. ¢ Classroom discussion | TBI:
+and numerical Chapter 4: Network theorems
+solving.
+
+TB2;
+
+e Laboratory
+Chapter 4: Network theorem
+
+experiment for
+verification of
+Thevenin’s Theorem.
+
+7. Norton’s Theorems, ¢ Classroom discussion | TBI:
+and numerical Chapter 4: Network theorems
+solving.
+TB2:
+
+e Laboratory
+experiment for
+verification of
+Norton’s Theorem.
+
+Chapter 4: Network theorem
+
+8. Time-domain analysis of first- Peer Instructions using TBI:
+
+order RL circuits. videos from nptel.ac.in Chapter 8: DC Transients
+9. Time-domain analysis of first- Peer Instructions using TBI:
+
+order RC circuits videos from nptel.ac.in Chapter 8: DC Transients
+
+Unit 2 AC Circuits ~- i
+
+10. Representation of sinusoidal e Flipped classroom TBI:
+waveforms, peak and rms values using videos from Chapter 9; Alternating
+nptel.ac.in/courses/10
+
+8108076 voltage and currents
+
+¢ Demonstration of AC TB2:
+waveform parameters | Chapter 9: Alternating
+
+in laboratory voltage and current
+11. Phasor representation, real Classroom discussion TBI:
+power, reactive power, apparent Chapter 9: Alternating
+power, power factor.
+voltage and currents
+TB2:
+
+Chapter 9: Alternating
+voltage and current
+
+12. Analysis of single-phase ac ¢ Classroom discussion | TB1:
+circuits consisting of R , L and and numerical Chapter 10: AC circuits
+C circuits solving.
+
+TB2;
+
+e Laboratory
+Chapter (0: Single phase
+
+experiment on
+
+I® R,L,C Series circuits
+circuits Chapter 12: Power in AC
+Circuits
+13. Analysis of RL, RC circuits e Classroom discussion | TB1:
+and numerical Chapter 10: AC circuits
+solving.
+
+B. Tech. / Ist Year Semester-I / 2019-20 / Page 10
+
+SYKM'S
+
+PS OMBAE J
+SVKM’s Nartsee Monjee Institute. of Management Studies
+Mukesh Patel School of Technology Management & Engineering
+
+*® Laboratory TB2:
+experiment on Chapter 10: Single phase
+1D RL Series circuits
+and RC Chapter I [: Single phase
+circuits Parallel Networks
+Chapter 12: Power in AC
+Circuits
+14. Analysis of series and parallel ¢ Classroom discussion | TB1:
+RLC circuits and numerical Chapter 10:
+solving. a
+AC circuits
+¢ Laboratory
+experiment on TB2:
+1@ RLC Chapter 10: Single phase
+resonant Series circuits
+circuits Chapter {1: Single phase
+Parallel Networks
+Chapter 12: Power in AC
+Circuits
+15, Resonance (series resonant Classroom discussion TBI:
+circuit) Chapter 11: Resonance in ac
+circuits
+TB2:
+Chapter 14: Resonance in
+AC Circuits
+16. Resonance (Parallel resonant) ¢ Classroom discussion | TB1:
+e Laboratory Chapter 11: Resonance in ac
+experiment on circuits
+Parallel RLC ; TR2:
+resonant circuits
+Chapter 14: Resonance in
+AC Circuits
+17. Three-phase balanced circuits, Flipped classroom using | TB1:
+voltage and current relations in | videos from Ct 195 The
+ter 12: Three ph
+star and delta connections. nptel.ac.in/courses/10810 map" ‘ mee Phase
+circuits and systems
+8076.
+Unit 3 | Transformers - oo
+18. Magnetic materials, BH Peer Instructions using TBI:
+characteristics videos from
+Chapter 13: Transformer:
+nptel.ac.in/courses/10810 ‘apren m s
+8076. TB2:
+Chapter 34:
+Transformers
+
+B. Tech. / lst Year Semester-I / 2019-20 / Page 11
+SVKM’s Narsee Monjee Institute of Management Studies
+Mukesh Patel School of Technology Management & Engineering
+
+19, Ideal and practical transformer, | Peer Instructions using TBI:
+equivalent circuit videos from Chapter 13: Transformer
+nptel.ac.in/courses/10810 Apter Bae Aanstormers
+8076. TB2:
+Chapter 34: Transformers
+20. Losses in transformers, Peer Instructions using TBI:
+regulation and efficiency videos from Chapter 13: Transformer
+nptel.ac.in/courses/10810 hapten bee Stanstorneds
+8076. TB2:
+Chapter 34: Transformers
+21. Regulation and efficiency e Peer Instructions TB:
+using videos from Chapter 13: Transformers
+nptel.ac.in/courses/10
+8108076. TB2:
+* Laboratory Chapter 34: Transformers
+
+experiment to
+determine regulation
+and efficiency of
+
+transformer
+22. Auto-transformer Classroom discussion TBI:
+Chapter 13: Transformers
+TB2:
+Chapter 34: Transformers
+23. Three-phase transformer Classroom discussion TBI:
+connections Chapter 13: Transformers
+TB2:
+Chapter 34: Transformers
+24, Three-phase transformer Classroom discussion TBI:
+connections (cont.) Chapter 13: Transformers
+TB2;
+Chapter 34: Transformers
+Unit 4 | Electrical Machines -
+25. Generation of rotating magnetic | Flipped classroom using | TBI:
+fields videos from Chapter 14: Alternators and
+nptel.ac.in/courses/10810 .
+8076. synchronous motors
+TB2:
+Chapter 36: AC Synchronous
+Machine Windings
+26. Generation of rotating magnetic | Flipped classroom using | TBI:
+civ fields (Cont.) videos from Chapter 14: Alternators and
+
+B. Tech. / 1st Year Semester-I / 2019-20 / Page 12
+SVKM’s Narsee Monjee Institute of Management Studies
+Mukesh Patel School of Technology Management & Engineering
+
+nptel.ac.in/courses/10810 | synchronous motors
+8076.
+
+TB2:
+Chapter 36: AC Synchronous
+Machine Windings
+27, Construction and working of a ¢ Flipped classroom TBI:
+three-phase induction motor using videos from Chapter 15: Induction motors
+nptel.ac.in/courses/10
+8108076. TB2:
+
+¢ Demonstration of 3 @ | Chapter 38: Induction motor
+Induction motor
+constructional details
+in laboratory.
+
+28, Significance of torque-slip Classroom discussion. TBI:
+characteristic. Loss components
+
+. Chapter 15: Induction motors
+and efficiency.
+
+TB2:
+Chapter 38: Induction motor
+
+29, Starting and Speed control of Flipped classroom using | TBI:
+induction motor videos from :
+Chapter 15: Induct otors
+nptel.ac.in/courses/10810 P sone
+8076. TB2:
+Chapter 38: Induction motor
+30. Single-phase induction motor. *® Classroom discussion | TB1:
+« Laboratory Chapter 15: Induction motors
+experiment on slip- TR2:
+torque characteristics ,
+of 1 ® induction Chapter 38: Induction motor
+motor.
+31. Construction, working, torque- | ¢ Flipped classroom TBI:
+speed characteristic and speed using videos from Chapter 16: DC machines.
+control of separately excited de nptel.ac.in/courses/10
+motor 8108076. TB2:
+* Laboratory Chapter 42: Direct current
+
+experiment on speed | motors
+control of separately
+excited de motor.
+
+32. Construction and working of Flipped classroom using | TBI:
+synchronous generators videos from Chapter 14: Alternators and
+he .ac.in/courses/10810 synchronous motors
+TB2:
+Chapter 37: Characteristics
+of AC synchronous machines
+Unit 5 Power Converters ~ --
+33. DC-DC buck and boost ¢ Classroom discussion | TB2:
+ee Converters ¢ Flipped classroom Chapter 45: Power
+
+B. Tech. / ist Year Semester-I / 2019-20 / Page 13
+SVKM’s Narsee Monje Institute of Management Studies
+Mukesh Patel School of Technology Management & Engineering
+
+using videos from Electronics
+http:/Mptel.ac.in/cour | pp,
+ses/108101038/ ,
+Chapter 5: DC-DC converter
+34, Duty ratio control ¢ Classroom discussion | TB2:
+and Numerical Chapter 45: Power
+solving. os
+Electronics
+
+¢ Laboratory
+
+experiment on duty TBS:
+cycle control Chapter 6: Pulse width
+principal. modulated inverters
+35. Single-phase inverters ¢ Classroom discussion | TB2:
+e Laboratory Chapter 45: Power
+
+experiment on single | Electronics
+phase inverter.
+
+36, Three-phase voltage source Classroom discussion TB2:
+inverters, sinusoidal modulation Chapter 45: Power
+Electronics
+TB3:
+
+Chapter 5: DC-DC converter
+
+Chapter 6: Pulse width
+modulated inverters
+
+37. Sinusoidal modulation Classroom discussion TB2:
+Chapter 45: Power
+Electronics
+TB3:
+Chapter 5: DC-DC converter
+
+Chapter 6: Pulse width
+modulated inverters
+
+Unit 6 | Electrical Installations - --
+
+38. Components of LT Switchgear: | Classroom discussion TBI:
+Switch Fuse Unit (SFU), MCB, Chapter 19: Electrical
+ELCB, MCCB installation and illumination
+39, Types of Wires and Cables, Classroom discussion and | TBI:
+Earthing. Types of Batteries peer instructions. Chapter 19: Electrical
+
+installation and illumination
+
+40. important Characteristics for Classroom discussion and | TBI:
+Batteries, Elementary numerical solving, Chapter 19: Electrical
+calculations for energy installation and illumination
+
+consumption, power factor
+improvement and battery backup
+
+B. Tech. / Ist Year Semester-I / 2019-20 / Page 14
+SVKM’s Narsee Monjee Institute of Management Studies
+Mukesh Patel School of Technology Management & Engineering
+
+41. Single-phase voltage source Classroom discussion TBI:
+inverters Chapter 19: Electrical
+installation and illumination
+42. Three-phase voltage source Classroom discussion TBI:
+inverters Chapter 19: Electrical
+
+installation and illumination
+
+43,44, | Beyond classroom activities; including remedial lectures, guest lectures and other extension
+45 activities.
+
+a
+Signature Signature
+(Prepared by Concerned Faculty/HOD) (Approved by Dean)
+
+B. Tech. / 1st Year Semester-I / 2019-20 / Page 15
+SVKM’s Narsee Monjee Institute of Management Studies
+Mukesh Patel School of Technology Management & Engineering
+
+Program: B.Tech. (1.T, Computer, Semester: I
+EXTC, Mechanical, Civil,
+Mechatronics & Data Science)
+
+Module Code: BTIT01003, BTCO01003,
+````

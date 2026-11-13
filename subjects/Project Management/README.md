@@ -1,6 +1,6 @@
 # Project Management
 
-**84** unique papers (110 copies across programmes) · 2006-07 to 2025-26 · 14 programmes · Sem 3, Sem 4, Sem 5, Sem 6, Sem 7, Sem 8, Sem 9, Sem 10, Sem 12, Trim 5, Trim 6, Trim 8
+**86** unique papers (112 copies across programmes) · 2006-07 to 2025-26 · 14 programmes · Sem 3, Sem 4, Sem 5, Sem 6, Sem 7, Sem 8, Sem 9, Sem 10, Sem 12, Trim 5, Trim 6, Trim 8
 
 Download only this subject, sorted by academic year:
 
@@ -11,6 +11,8 @@ python organize_by_subject.py restore --destination D:/Study --subject "Project 
 Files land in `D:/Study/PYQs_By_Subject/Project Management/<academic year>/`. Identical copies of one paper (the portal often files the same PDF under several programmes) are placed once.
 
 Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (every paper in full, newest first), [`questions.jsonl`](questions.jsonl) (one record per question with marks, year, exam, semester and department) and [`papers.jsonl`](papers.jsonl) (one record per paper). Answer keys, where the portal published them, are in `answer_keys.md`. See [`question_bank/README.md`](../../question_bank/README.md) for the fields.
+
+Syllabus of this course, every version found in the archive: [`syllabus.md`](syllabus.md) (see [`syllabi/`](../../syllabi/README.md) for all programmes).
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
@@ -67,8 +69,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2014-15 | Re-Exam | Question paper | Sem 6 | MBA TECH | Project Management Batch (2014-15) Re Exam.pdf |
 | 2014-15 | Re-Exam | Question paper | Sem 4 | MCA | Project Management Batch 2014-15 Re Exam.pdf |
 | 2013-14 | Final-Exam | Question paper | Sem 7 | B TECH / CIVIL | PROJECT MANAGEMENT B TECH (CIVIL), 2013-14 FINAL EXAM.pdf |
+| 2013-14 | Final-Exam | Question paper | Sem 8 | B TECH / MECHANICAL | PROJECT_MANAGEMENT_B_TECH_(MECHANICAL)__2013-14_FINAL_EXAM_WQe0pA0ook.pdf |
 | 2013-14 | Final-Exam, Re-Exam | Question paper | Sem 6 | MBA TECH, MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / I T, MBA TECH / MECHANICAL | PROJECT MANAGMENT 2013-14 Final.pdf |
 | 2013-14 | Final-Exam | Question paper | Sem 4 | MCA | Project Management 2013-14 Final.pdf |
+| 2013-14 | Re-Exam | Question paper | Sem 8 | B TECH / MECHANICAL | PROJECT_MANAGEMENT_B_TECH_(MECHANICAL)__BATCH_2013-14_RE_EXAM_6AcRYczMNU.pdf |
 | 2013-14 | Re-Exam | Question paper | Sem 6 | MBA TECH, MBA TECH / CHEMICAL, MBA TECH / CIVIL, MBA TECH / MECHANICAL | PROJECT MANAGEMENT BATCH 2013-14 RE EXAM.pdf |
 | 2013-14 | Re-Exam | Question paper | Sem 6 | MBA TECH / I T | SAFETY,HEALTH ENVIRONMENTAL MANAGEMENT SYSTEM BATCH 2013-14 Re-exam.pdf [1] |
 | 2013-14 | Re-Exam | Question paper | Sem 4 | MCA | Project Management Batch 2013-14 Re Exam.pdf |

@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/Integrated_Computer_7032/Computer Graphics/ANS_Computer Graphics(701CO0C008)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (20 pages), mean OCR confidence 54.7
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -195,6 +196,42 @@ Algorithm: 4 marks
 Solution: 6 marks
 [10]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Given:
+
+Line: P(20, 30) to Q(80, 90)
+Window:
+
+® Step 1: Parametric Form of Line
+
+z
+
+20+ 60t, y=30+60t, O<t<1
+
+® Step 2: Define p; and g;
+
+Boundary Pi %
+Left (x 2 30) -60 -10
+Right (x < 70) 60 50
+Bottom (y 2 40) -60 -10
+
+Top (y < 80) 60 50
+
+® Step 3: Compute t = gj /p;
+© Left-¢ = 0.167
+
+e Right — ¢t = 0.833
+
+* Bottom -t = 0.167
+
+* Top -t = 0.833
+
+® Step 4: Determine Range
+
+tenter = 0-167, — tteave = 0.833
+
+Since tenter < tteave, the line is partially visible.
 --- page 6 ---
 Q2 b.What are the steps involved in filling a polygon using the scanline method,
 CO- elaborate using its special cases.
@@ -227,6 +264,19 @@ consider it as two points.
 •   If lines intersecting at the vertex are at opposite sides of the scanline,
 consider it as only one point.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+® Step 5: Compute Clipped Points
+
+Att = 0.167:
+
+a = 20 + 60(0.167) = 30, y = 30 + 60(0.167) = 40
+& (30, 40)
+Att = 0.833:
+
+x = 20 + 60(0.833) = 70, y = 30 + 60(0.833) = 80
+
+& (70, 80)
 --- page 7 ---
 Q3 a. Explain the 3D viewing pipeline in computer graphics. Describe the stages
 CO- involved in transforming a 3D object from world coordinates to screen
@@ -402,6 +452,40 @@ BL- Solution:
 Sum: 6 marks
 [10]
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Midpoint Circle Algorithm
+
+the first point on
+Rpt radius irele center (x., y.), and obtain
+% Py peieeradiniety circle centered on the origin as
+
+(x, Yo) = (0, 1)
+
+2. Calculate the initial value of the decision parameter as
+nel ie
+a4
+
+3. At each x, ition, starting at k = 0, perform the following test: If
+aA<O, septs along the circle centered on (0, 0) is esr, Yd and
+Prev = Pr + 2X44, +1
+
+Otherwise, the next point along the circle is (x, +1Ly— and
+
+Pest = Pe + 2%) +1 —2y,,
+
+Where 2r,., = 2x, + 2 and 241 = 2y, — 2.
+4 ine symmetry Points in the other seven octants.
+5. Move each calculated
+
+Pixel position (Co
+and plot the coordinate
+
+Y) onto the ci:
+
+on (x y,) values:
+
+rcular path cen.
 --- page 12 ---
 Q5 a. Explain rigid body transformations in computer graphics. Write the matrix
 CO- representations for translation, rotation, and scaling using homogeneous
@@ -430,6 +514,36 @@ CO- by (200,200) to (400,300). Derive the transformation equations, determine th
 BL-   illustrate the mapping of the window onto the viewport with a neat diagram and
 4   steps.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+DDA Line Algorithm
+1. Read the line end points (x,, y,) and (x, yg) such that they are not equal.
+(if equal then plot that point and exit]
+2 dx=|x,-x| and dy =|y2-y,|
+3. if(Ax2Ay) then
+length = Ax
+else
+length = Ay
+end if
+4. Ax =(x,—x,)/length
+Ay = (¥p—y,)/ length
+(This makes either Ax or Ay equal to 1 because length is either |x, - |
+or |y2 ~ yi]. Therefore, the incremental value for either x or y is one.}
+5. x =x, +0.5* Sign (Ax)
+y=y, + 0.5» Sign (Ay)
+(Here, Sign function makes the algorithm work in all quadrant. It
+returns ~ 1, 0, 1 depending on whether its argument is < 0, = 0, > 0
+
+respectively. The factor 0.5 makes it possible to round the values in
+the integer function rather than truncating them. ]
+
+6. i=1 [Begins the loop, in this loop points are plotted}
+While (i <length)
+{
+Plot (Integer (x), Integer (y) )
+x=x+Ax
+y=y+dy
+isi+1
 --- page 14 ---
 Solution:
 Component   Marks
@@ -447,6 +561,49 @@ BL- Definition & concept 2
 One-point perspective 2
 Two-point perspective   2
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+® Given:
+
+© Window: (a7", yi") = (0,0). (a, y@“*) = (100, 100)
+
+© Viewport: (27"", y™"") = (200, 200), (2%"*, y™**) = (400, 300)
+© Point: (tw, yw) = (25,75)
+
+® Step 1: General Transformation Equations
+
+maz min
+min . min), Ty Ty
+ty = 2" + (ay — 2") - ———_
+v w mar _ min
+w w
+
+max min
+
+
+maz _ amin
+Vw Yo
+
+@ Step 2: Compute Scaling Factors
+
+amar — gin 400 — 200
+
+S, = 2 = —
+xmaz —pmin ~ “100 —0
+
+ymat — ymin 300 — 200
+ym _ ymin ~~ 100 —0
+
+Sy =
+® Step 3: Apply Transformation
+For 2y:
+ay = 200 + (25 — 0) - 2 = 200 + 50 = 250
+For Yp:
+
+Yo = 200 + (75 — 0) - 1 = 200 + 75 = 275
+
+Final Mapped Coordinates:
+Zp (250, 275) Vv
 --- page 15 ---
 Diagrams   2
 Comparison / conclusion   1
@@ -508,6 +665,43 @@ BL-   1. Reflection about the y-axis
 3   2. Shearing in y-direction (Shy = 1)
 3. Scaling with Sx = 2, Sy = 0.5
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+@ Given:
+e Line: P) = (5,40), P2 = (75,95)
+e Window:
+
+® Step 1: Region Codes
+For P;(5, 40):
+e Left of window — 0001
+
+For P,(75, 95):
+e Right + Top — 1010
+
+® Step 2: Check Visibility
+« AND = 0001 & 1010 = 0000
+e@ Line is partially visible — Clip required
+
+® Step 3: Find Intersection Points
+
+Line Equation:
+Slope:
+
+95-40 55
+= = — = 0.786
+75 —5 70
+
+© Clip P, with Left Boundary z = 20
+y = 40 + 0.786(20 — 5) = 40 + 11.79 = 51.79
+
+o> New point: (20, 51.79)
+
+© Clip P, with Top Boundary y = 80
+80 = 40 + 0.786(x — 5)
+40 = 0.786(x — 5)
+x —5 = 50.89 > x = 55.89
+
+op New point: (55.89, 80)
 --- page 19 ---
 Solution:
 Component Marks
@@ -516,6 +710,39 @@ Matrix multiplication   3
 Applying transformation   3
 Final answers   1
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Homogeneous Matrices
+
+Reflection about Y-axis
+
+-1 0
+R,=|0 1
+0 0
+EB Shearing in Y-direction (Shy = 1)
+1 0
+Sh,=|1 1
+0 0
+
+Scaling (Sx = 2, Sy = 0.5)
+
+2 0
+S=)0 0.5
+
+0 0
+
+® Step 2: Composite Transformation Matrix
+
+T=S-Sh,-R,
+First Multiply: Sh, - Ry
+1 0 oO} f-1 0 of] f-1 0 0
+=|1 1 of ]o 1 oJ =]-1 1 0
+oo 1;lLo o1f Lo o1
+Now Multiply: S - (result)
+2 0 oO] f-1 0 o|] [-2 0 oO
+T= |0 05 oO] |-1 1 0] =|-05 05 0
+
+0 O 1;L0 01 L 0 0 1
 --- page 20 ---
 ® Step 3: Apply Transformation
 
@@ -556,6 +783,7 @@ FRI ICR DO) A RH
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/Integrated_DS_7038/Computer Graphics/ANS_Computer Graphics(701CO0C008)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (20 pages), mean OCR confidence 54.7
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -742,6 +970,42 @@ Algorithm: 4 marks
 Solution: 6 marks
 [10]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Given:
+
+Line: P(20, 30) to Q(80, 90)
+Window:
+
+® Step 1: Parametric Form of Line
+
+z
+
+20+ 60t, y=30+60t, O<t<1
+
+® Step 2: Define p; and g;
+
+Boundary Pi %
+Left (x 2 30) -60 -10
+Right (x < 70) 60 50
+Bottom (y 2 40) -60 -10
+
+Top (y < 80) 60 50
+
+® Step 3: Compute t = gj /p;
+© Left-¢ = 0.167
+
+e Right — ¢t = 0.833
+
+* Bottom -t = 0.167
+
+* Top -t = 0.833
+
+® Step 4: Determine Range
+
+tenter = 0-167, — tteave = 0.833
+
+Since tenter < tteave, the line is partially visible.
 --- page 6 ---
 Q2 b.What are the steps involved in filling a polygon using the scanline method,
 CO- elaborate using its special cases.
@@ -774,6 +1038,19 @@ consider it as two points.
 •   If lines intersecting at the vertex are at opposite sides of the scanline,
 consider it as only one point.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+® Step 5: Compute Clipped Points
+
+Att = 0.167:
+
+a = 20 + 60(0.167) = 30, y = 30 + 60(0.167) = 40
+& (30, 40)
+Att = 0.833:
+
+x = 20 + 60(0.833) = 70, y = 30 + 60(0.833) = 80
+
+& (70, 80)
 --- page 7 ---
 Q3 a. Explain the 3D viewing pipeline in computer graphics. Describe the stages
 CO- involved in transforming a 3D object from world coordinates to screen
@@ -949,6 +1226,40 @@ BL- Solution:
 Sum: 6 marks
 [10]
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Midpoint Circle Algorithm
+
+the first point on
+Rpt radius irele center (x., y.), and obtain
+% Py peieeradiniety circle centered on the origin as
+
+(x, Yo) = (0, 1)
+
+2. Calculate the initial value of the decision parameter as
+nel ie
+a4
+
+3. At each x, ition, starting at k = 0, perform the following test: If
+aA<O, septs along the circle centered on (0, 0) is esr, Yd and
+Prev = Pr + 2X44, +1
+
+Otherwise, the next point along the circle is (x, +1Ly— and
+
+Pest = Pe + 2%) +1 —2y,,
+
+Where 2r,., = 2x, + 2 and 241 = 2y, — 2.
+4 ine symmetry Points in the other seven octants.
+5. Move each calculated
+
+Pixel position (Co
+and plot the coordinate
+
+Y) onto the ci:
+
+on (x y,) values:
+
+rcular path cen.
 --- page 12 ---
 Q5 a. Explain rigid body transformations in computer graphics. Write the matrix
 CO- representations for translation, rotation, and scaling using homogeneous
@@ -977,6 +1288,36 @@ CO- by (200,200) to (400,300). Derive the transformation equations, determine th
 BL-   illustrate the mapping of the window onto the viewport with a neat diagram and
 4   steps.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+DDA Line Algorithm
+1. Read the line end points (x,, y,) and (x, yg) such that they are not equal.
+(if equal then plot that point and exit]
+2 dx=|x,-x| and dy =|y2-y,|
+3. if(Ax2Ay) then
+length = Ax
+else
+length = Ay
+end if
+4. Ax =(x,—x,)/length
+Ay = (¥p—y,)/ length
+(This makes either Ax or Ay equal to 1 because length is either |x, - |
+or |y2 ~ yi]. Therefore, the incremental value for either x or y is one.}
+5. x =x, +0.5* Sign (Ax)
+y=y, + 0.5» Sign (Ay)
+(Here, Sign function makes the algorithm work in all quadrant. It
+returns ~ 1, 0, 1 depending on whether its argument is < 0, = 0, > 0
+
+respectively. The factor 0.5 makes it possible to round the values in
+the integer function rather than truncating them. ]
+
+6. i=1 [Begins the loop, in this loop points are plotted}
+While (i <length)
+{
+Plot (Integer (x), Integer (y) )
+x=x+Ax
+y=y+dy
+isi+1
 --- page 14 ---
 Solution:
 Component   Marks
@@ -994,6 +1335,49 @@ BL- Definition & concept 2
 One-point perspective 2
 Two-point perspective   2
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+® Given:
+
+© Window: (a7", yi") = (0,0). (a, y@“*) = (100, 100)
+
+© Viewport: (27"", y™"") = (200, 200), (2%"*, y™**) = (400, 300)
+© Point: (tw, yw) = (25,75)
+
+® Step 1: General Transformation Equations
+
+maz min
+min . min), Ty Ty
+ty = 2" + (ay — 2") - ———_
+v w mar _ min
+w w
+
+max min
+
+
+maz _ amin
+Vw Yo
+
+@ Step 2: Compute Scaling Factors
+
+amar — gin 400 — 200
+
+S, = 2 = —
+xmaz —pmin ~ “100 —0
+
+ymat — ymin 300 — 200
+ym _ ymin ~~ 100 —0
+
+Sy =
+® Step 3: Apply Transformation
+For 2y:
+ay = 200 + (25 — 0) - 2 = 200 + 50 = 250
+For Yp:
+
+Yo = 200 + (75 — 0) - 1 = 200 + 75 = 275
+
+Final Mapped Coordinates:
+Zp (250, 275) Vv
 --- page 15 ---
 Diagrams   2
 Comparison / conclusion   1
@@ -1055,6 +1439,43 @@ BL-   1. Reflection about the y-axis
 3   2. Shearing in y-direction (Shy = 1)
 3. Scaling with Sx = 2, Sy = 0.5
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+@ Given:
+e Line: P) = (5,40), P2 = (75,95)
+e Window:
+
+® Step 1: Region Codes
+For P;(5, 40):
+e Left of window — 0001
+
+For P,(75, 95):
+e Right + Top — 1010
+
+® Step 2: Check Visibility
+« AND = 0001 & 1010 = 0000
+e@ Line is partially visible — Clip required
+
+® Step 3: Find Intersection Points
+
+Line Equation:
+Slope:
+
+95-40 55
+= = — = 0.786
+75 —5 70
+
+© Clip P, with Left Boundary z = 20
+y = 40 + 0.786(20 — 5) = 40 + 11.79 = 51.79
+
+o> New point: (20, 51.79)
+
+© Clip P, with Top Boundary y = 80
+80 = 40 + 0.786(x — 5)
+40 = 0.786(x — 5)
+x —5 = 50.89 > x = 55.89
+
+op New point: (55.89, 80)
 --- page 19 ---
 Solution:
 Component Marks
@@ -1063,6 +1484,39 @@ Matrix multiplication   3
 Applying transformation   3
 Final answers   1
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Homogeneous Matrices
+
+Reflection about Y-axis
+
+-1 0
+R,=|0 1
+0 0
+EB Shearing in Y-direction (Shy = 1)
+1 0
+Sh,=|1 1
+0 0
+
+Scaling (Sx = 2, Sy = 0.5)
+
+2 0
+S=)0 0.5
+
+0 0
+
+® Step 2: Composite Transformation Matrix
+
+T=S-Sh,-R,
+First Multiply: Sh, - Ry
+1 0 oO} f-1 0 of] f-1 0 0
+=|1 1 of ]o 1 oJ =]-1 1 0
+oo 1;lLo o1f Lo o1
+Now Multiply: S - (result)
+2 0 oO] f-1 0 o|] [-2 0 oO
+T= |0 05 oO] |-1 1 0] =|-05 05 0
+
+0 O 1;L0 01 L 0 0 1
 --- page 20 ---
 ® Step 3: Apply Transformation
 
@@ -1137,6 +1591,23 @@ Random scan display (vector display) draws images by directing the electron beam
 to the points where lines are to be drawn instead of scanning the whole screen.
 [5]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Raster Scan Display Random Scan Display
+
+Scanning method Scans entire screen line by line Draws only required lines/curves
+Picture representation Pixels Vectors / line segments
+
+Memory required More (frame buffer) Less
+
+Image quality Lower line smoothness Very smooth lines
+
+Suitable for Realistic images, photos Line drawings, CAD
+
+Refresh rate Fixed screen refresh Depends on number of lines
+Cost Less expensive More expensive
+
+Example TV, monitor Oscilloscope
 --- page 2 ---
 CO-2;   b.   Explain the concept of polygon filling and describe the scanline algorithm in detail.
 BL-2   Illustrate the steps involved with a suitable diagram.
@@ -1185,6 +1656,33 @@ N⋅V>0 → face is visible
 If
 N⋅V<0 → face is hidden (back face)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+1. Reflection about the line y = x
+
+The matrix is:
+
+reel |
+
+abl
+
+Apply it to point (6, 2):
+
+So, the reflected point is (2, 6).
+
+2. Reflection about the line y = —x
+
+The matrix is:
+
+Ryo-s = i Fl
+
+[Ss ol B= [
+
+v
+
+Apply it to point (6, 2):
+
+So, the reflected point is (-2, -6).
 --- page 4 ---
 Backface detection improves performance by:
 •   reducing the number of polygons to be rendered
@@ -1308,6 +1806,20 @@ Parallel Projection: 3 marks
 Perspective Projection: 3 marks
 Differentiate: 3 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Difference Between Boundary Fill and Flood Fill
+
+Feature Boundary Fill Flood Fill
+
+Filling stops at Boundary color Different interior color
+Requires boundary color Yes No
+
+Uses old color No Yes
+
+Suitable for Closed boundary shapes Colored regions
+
+Speed Slightly faster Depends on region size
 --- page 7 ---
 A projection is the process of representing a 3D object on a 2D viewing plane
 (screen).It converts 3D coordinates (x,y,z)(x, y, z)(x,y,z) into 2D coordinates (x,y)(x,
@@ -1365,6 +1877,20 @@ Two commonly used methods are:
 • Scanline Method
 Z-Buffer Method
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Difference Between Parallel and Perspective Projection
+
+Feature Parallel Projection Perspective Projection
+Projectors Parallel Converge at COP
+Vanishing point No Yes
+
+Object size Constant Decreases with distance
+Realism Less realistic More realistic
+
+Used in CAD, engineering Games, movies
+
+Depth effect Less High
 --- page 9 ---
 The Z-buffer method (also called depth-buffer method) stores the depth value
 (z-value) of every pixel in a separate buffer called the Z-buffer.
@@ -1430,6 +1956,21 @@ o Red gun → Red phosphor
 o   Green gun → Green phosphor
 o   Blue gun → Blue phosphor
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Difference Between Z-Buffer and Scanline Method
+
+Feature Z-Buffer Method Scanline Method
+
+Basis Pixel-by-pixel depth comparison Line-by-line processing
+Buffer required Z-buffer memory Edge tables / active lists
+Speed Faster for hardware Efficient for software
+Memory More memory required Less memory
+Complexity Simple More complex
+
+Suitable for Complex 3D scenes Polygon-based scenes
+
+Hardware support Excellent Limited
 --- page 11 ---
 •   By combining RGB intensities, a wide range of colors is produced.
 Features:
@@ -1470,6 +2011,39 @@ Define: 2 marks
 Transformation Matrix: 6 marks
 Example: 2 Marks
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+DDA Line Algorithm
+1. Read the line end points (x,, y,) and (x2, ya) such that they are not equal.
+(if equal then plot that point and exit]
+2, dx=|x,-x| and dy =|y¥2-y;|
+3. if(4x2Ay) then
+
+length = Ax
+else
+
+length = Ay
+end if
+
+4. Ax =(x,—x,)/length
+Ay = (Yo — y,)/ length
+(This makes either Ax or Ay equal to 1 because length is either |x, - x,|
+or ly2 - y;|- Therefore, the incremental value for either x or y is one.}
+5. x =x, + 0.5 * Sign (Ax)
+y =y, + 0.5» Sign (Ay)
+(Here, Sign function makes the algorithm work in all quadrant. It
+returns - 1, 0, 1 depending on whether its argument is < 0, = 0, >0
+
+respectively. The factor 0.5 makes it possible to round the values in
+the integer function rather than truncating them. ]
+
+6. i=1 [Begins the loop, in this loop points are plotted]
+While (i <length)
+{
+Plot (Integer (x), Integer (y) )
+x=x+Ax
+y=ytdy
+isi+1
 --- page 13 ---
 General Pivot Point Rotation
  Imagine rotating a polygon around a point other than the origin.
@@ -1481,6 +2055,30 @@ Q5 CO- b.   Using Midpoint Ellipse algorithm, generate an ellipse with rx = 6 an
 BL-3,   Solution:
 [10]
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+A point (x, y) can be re-written in homogeneous
+
+coordinates as (x w Vp h)
+
+> The homogeneous parameter h is a non:
+zero value such that:
+
+» We can then write any point (x, y) as (1 hx, hy, h)
+
+We can conveniently choose = J so that
+
+(es. y) becomes Oo J, 1)
+
+he three transformation matrices are combined as
+
+10 x, || CosO —Sin@ 0||1 0 —x,
+O01 y,|J Sin@ Cos8(0)|)0 1-y,
+00 1 0 0 1//00 1
+
+Cos@ —Sin@ x,(1—Cos@)+ y,Sin@
+=| Sin@ Cos@ y,(1—Cos0@)€x,SinO
+0) 0 1
 --- page 14 ---
 Q6 CO- a.   Define window and viewport. Explain window-to-viewport transformation algorithm
 3;   with diagram.
@@ -1495,6 +2093,29 @@ Translate the object so that the scaled window area is positioned to viewport.
 Q6 CO- b.   Explain 3D transformations: translation, rotation, and scaling with matrices.   [10]
 1;   Solution:
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Window
+
+A window is a selected rectangular area in the world coordinate system that contains the portion of the
+
+scene to be displayed.
+It defines what part of the scene is visible.
+A window is specified by:
+(®umins Yuwmin)
+
+(2wmazs Ywmaz)
+
+Viewport
+
+A viewport is a rectangular area on the display screen (device coordinates) where the selected window
+
+contents are mapped and displayed.
+It defines where on the screen the scene will appear.
+A viewport is specified by:
+(@ermins Yoruin)
+
+(Zemazs Yomaz)
 --- page 15 ---
 BL-3   Each Transformation: 3 marks
 Define: 1 mark
@@ -1511,6 +2132,34 @@ In 3D, rotation can occur about:
 •   y-axis
 •   z-axis
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+3-D Translation
+
+® Ina three-dimensional homogeneous coordinate representation, a
+point is translated from position P = (x, y, z) to position P' = (x',
+y', z') with the matrix operation
+
+P’=T-P
+x’ 100 f x
+
+y} |O 10 tf} }y
+Z| 10 0 1 ti lz
+
+x'=xt ty yuytty, z=2tt,
+
+Z-Axis Rotation
+x’ = xcos0 — ysin 0
+y’ = xsin@ + ycos0
+
+Laz
+
+P’=R.(0)-P
+x" cos? -sinOd 0 O|[x |
+y|_|sin@ cos? 0 O})y
+z| | 0 0 1 Offz
+
+1 0 0 0 1j{l A ®
 --- page 16 ---
 Q7 CO- a. A   rectangle   has   vertices A(2,1), B(6,1), C(6,4), D(2,4).
 3;   Perform the following homogeneous composite transformations:
@@ -1523,6 +2172,24 @@ Individual Matrix: 3 marks
 Composite Matrix 3 marks
 Final co-ordinates: 4 marks
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+3-D Scaling
+
+© Changes the size of the object and repositions the object relative to
+
+the coordinate origin.
+
+x’ s, 0 O O|[x
+
+y|_}O s, 0 O}|y
+
+z| 10 0 s. O]|z
+
+1} [0 o o iff y N
+P’=S-P
+
+x' =X. Sy y'=y. Sy L=ZSz
 --- page 17 ---
 Step 1: Scaling Matrix
 20 0
@@ -1599,6 +2266,36 @@ p2 = 90, q2 = 80 - 10 = 70
 p3 = -40, q3 = 30 - 20 = 10
 p4 = 40, q4 = 60 - 30 = 30
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+Point A(2,1)
+2
+A= 1
+1
+2 2 -2] [2 4
+A=]0 2 1 1] = |3
+oo 1; 1
+
+A’ = (4,3)
+Point B(6,1)
+12
+B'=1|3
+1
+B' = (12,3)
+Point C(6,4)
+18
+Cc’=19
+1
+C! = (18,9)
+Point D(2,4)
+
+D'=
+
+10
+9
+1
+
+D' = (10,9)
 --- page 19 ---
 t1 = max(0, q1/p1, q3/p3) = max(0, (-10/-90), (10/-40))
 q1/p1 = 0.1111
@@ -1661,6 +2358,23 @@ Random scan display (vector display) draws images by directing the electron beam
 to the points where lines are to be drawn instead of scanning the whole screen.
 [5]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Raster Scan Display Random Scan Display
+
+Scanning method Scans entire screen line by line Draws only required lines/curves
+Picture representation Pixels Vectors / line segments
+
+Memory required More (frame buffer) Less
+
+Image quality Lower line smoothness Very smooth lines
+
+Suitable for Realistic images, photos Line drawings, CAD
+
+Refresh rate Fixed screen refresh Depends on number of lines
+Cost Less expensive More expensive
+
+Example TV, monitor Oscilloscope
 --- page 2 ---
 CO-2;   b.   Explain the concept of polygon filling and describe the scanline algorithm in detail.
 BL-2   Illustrate the steps involved with a suitable diagram.
@@ -1709,6 +2423,33 @@ N⋅V>0 → face is visible
 If
 N⋅V<0 → face is hidden (back face)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+1. Reflection about the line y = x
+
+The matrix is:
+
+reel |
+
+abl
+
+Apply it to point (6, 2):
+
+So, the reflected point is (2, 6).
+
+2. Reflection about the line y = —x
+
+The matrix is:
+
+Ryo-s = i Fl
+
+[Ss ol B= [
+
+v
+
+Apply it to point (6, 2):
+
+So, the reflected point is (-2, -6).
 --- page 4 ---
 Backface detection improves performance by:
 •   reducing the number of polygons to be rendered
@@ -1832,6 +2573,20 @@ Parallel Projection: 3 marks
 Perspective Projection: 3 marks
 Differentiate: 3 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Difference Between Boundary Fill and Flood Fill
+
+Feature Boundary Fill Flood Fill
+
+Filling stops at Boundary color Different interior color
+Requires boundary color Yes No
+
+Uses old color No Yes
+
+Suitable for Closed boundary shapes Colored regions
+
+Speed Slightly faster Depends on region size
 --- page 7 ---
 A projection is the process of representing a 3D object on a 2D viewing plane
 (screen).It converts 3D coordinates (x,y,z)(x, y, z)(x,y,z) into 2D coordinates (x,y)(x,
@@ -1889,6 +2644,20 @@ Two commonly used methods are:
 • Scanline Method
 Z-Buffer Method
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Difference Between Parallel and Perspective Projection
+
+Feature Parallel Projection Perspective Projection
+Projectors Parallel Converge at COP
+Vanishing point No Yes
+
+Object size Constant Decreases with distance
+Realism Less realistic More realistic
+
+Used in CAD, engineering Games, movies
+
+Depth effect Less High
 --- page 9 ---
 The Z-buffer method (also called depth-buffer method) stores the depth value
 (z-value) of every pixel in a separate buffer called the Z-buffer.
@@ -1954,6 +2723,21 @@ o Red gun → Red phosphor
 o   Green gun → Green phosphor
 o   Blue gun → Blue phosphor
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Difference Between Z-Buffer and Scanline Method
+
+Feature Z-Buffer Method Scanline Method
+
+Basis Pixel-by-pixel depth comparison Line-by-line processing
+Buffer required Z-buffer memory Edge tables / active lists
+Speed Faster for hardware Efficient for software
+Memory More memory required Less memory
+Complexity Simple More complex
+
+Suitable for Complex 3D scenes Polygon-based scenes
+
+Hardware support Excellent Limited
 --- page 11 ---
 •   By combining RGB intensities, a wide range of colors is produced.
 Features:
@@ -1994,6 +2778,39 @@ Define: 2 marks
 Transformation Matrix: 6 marks
 Example: 2 Marks
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+DDA Line Algorithm
+1. Read the line end points (x,, y,) and (x2, ya) such that they are not equal.
+(if equal then plot that point and exit]
+2, dx=|x,-x| and dy =|y¥2-y;|
+3. if(4x2Ay) then
+
+length = Ax
+else
+
+length = Ay
+end if
+
+4. Ax =(x,—x,)/length
+Ay = (Yo — y,)/ length
+(This makes either Ax or Ay equal to 1 because length is either |x, - x,|
+or ly2 - y;|- Therefore, the incremental value for either x or y is one.}
+5. x =x, + 0.5 * Sign (Ax)
+y =y, + 0.5» Sign (Ay)
+(Here, Sign function makes the algorithm work in all quadrant. It
+returns - 1, 0, 1 depending on whether its argument is < 0, = 0, >0
+
+respectively. The factor 0.5 makes it possible to round the values in
+the integer function rather than truncating them. ]
+
+6. i=1 [Begins the loop, in this loop points are plotted]
+While (i <length)
+{
+Plot (Integer (x), Integer (y) )
+x=x+Ax
+y=ytdy
+isi+1
 --- page 13 ---
 General Pivot Point Rotation
  Imagine rotating a polygon around a point other than the origin.
@@ -2005,6 +2822,30 @@ Q5 CO- b.   Using Midpoint Ellipse algorithm, generate an ellipse with rx = 6 an
 BL-3,   Solution:
 [10]
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+A point (x, y) can be re-written in homogeneous
+
+coordinates as (x w Vp h)
+
+> The homogeneous parameter h is a non:
+zero value such that:
+
+» We can then write any point (x, y) as (1 hx, hy, h)
+
+We can conveniently choose = J so that
+
+(es. y) becomes Oo J, 1)
+
+he three transformation matrices are combined as
+
+10 x, || CosO —Sin@ 0||1 0 —x,
+O01 y,|J Sin@ Cos8(0)|)0 1-y,
+00 1 0 0 1//00 1
+
+Cos@ —Sin@ x,(1—Cos@)+ y,Sin@
+=| Sin@ Cos@ y,(1—Cos0@)€x,SinO
+0) 0 1
 --- page 14 ---
 Q6 CO- a.   Define window and viewport. Explain window-to-viewport transformation algorithm
 3;   with diagram.
@@ -2019,6 +2860,29 @@ Translate the object so that the scaled window area is positioned to viewport.
 Q6 CO- b.   Explain 3D transformations: translation, rotation, and scaling with matrices.   [10]
 1;   Solution:
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Window
+
+A window is a selected rectangular area in the world coordinate system that contains the portion of the
+
+scene to be displayed.
+It defines what part of the scene is visible.
+A window is specified by:
+(®umins Yuwmin)
+
+(2wmazs Ywmaz)
+
+Viewport
+
+A viewport is a rectangular area on the display screen (device coordinates) where the selected window
+
+contents are mapped and displayed.
+It defines where on the screen the scene will appear.
+A viewport is specified by:
+(@ermins Yoruin)
+
+(Zemazs Yomaz)
 --- page 15 ---
 BL-3   Each Transformation: 3 marks
 Define: 1 mark
@@ -2035,6 +2899,34 @@ In 3D, rotation can occur about:
 •   y-axis
 •   z-axis
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+3-D Translation
+
+® Ina three-dimensional homogeneous coordinate representation, a
+point is translated from position P = (x, y, z) to position P' = (x',
+y', z') with the matrix operation
+
+P’=T-P
+x’ 100 f x
+
+y} |O 10 tf} }y
+Z| 10 0 1 ti lz
+
+x'=xt ty yuytty, z=2tt,
+
+Z-Axis Rotation
+x’ = xcos0 — ysin 0
+y’ = xsin@ + ycos0
+
+Laz
+
+P’=R.(0)-P
+x" cos? -sinOd 0 O|[x |
+y|_|sin@ cos? 0 O})y
+z| | 0 0 1 Offz
+
+1 0 0 0 1j{l A ®
 --- page 16 ---
 Q7 CO- a. A   rectangle   has   vertices A(2,1), B(6,1), C(6,4), D(2,4).
 3;   Perform the following homogeneous composite transformations:
@@ -2047,6 +2939,24 @@ Individual Matrix: 3 marks
 Composite Matrix 3 marks
 Final co-ordinates: 4 marks
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+3-D Scaling
+
+© Changes the size of the object and repositions the object relative to
+
+the coordinate origin.
+
+x’ s, 0 O O|[x
+
+y|_}O s, 0 O}|y
+
+z| 10 0 s. O]|z
+
+1} [0 o o iff y N
+P’=S-P
+
+x' =X. Sy y'=y. Sy L=ZSz
 --- page 17 ---
 Step 1: Scaling Matrix
 20 0
@@ -2123,6 +3033,36 @@ p2 = 90, q2 = 80 - 10 = 70
 p3 = -40, q3 = 30 - 20 = 10
 p4 = 40, q4 = 60 - 30 = 30
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+Point A(2,1)
+2
+A= 1
+1
+2 2 -2] [2 4
+A=]0 2 1 1] = |3
+oo 1; 1
+
+A’ = (4,3)
+Point B(6,1)
+12
+B'=1|3
+1
+B' = (12,3)
+Point C(6,4)
+18
+Cc’=19
+1
+C! = (18,9)
+Point D(2,4)
+
+D'=
+
+10
+9
+1
+
+D' = (10,9)
 --- page 19 ---
 t1 = max(0, q1/p1, q3/p3) = max(0, (-10/-90), (10/-40))
 q1/p1 = 0.1111
@@ -2253,6 +3193,29 @@ Q2   a.   Definition: 4 marks
 [10]
 Algorithm with matrices: 6 marks
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Representation in Homogeneous Coordinates
+
+We represent the triangle’s coordinates in homogeneous form:
+
+25 4
+P=|3 4 1
+111
+
+Step 2: Reflection Matrix for the X-Axis
+
+The reflection matrix for the X-axis is:
+
+1 0 0
+R,=|0 -1 0
+0 0 1
+Step 3: Matrix Multiplication
+P'=R,xP
+
+1 0 0 25 4
+= j]0 -1 O| x}]3 4 1
+0 0 1 111
 --- page 4 ---
 Window
 •A world-coordinate area selected for display.
@@ -2284,6 +3247,31 @@ Once the view volume is determined, a projection transformation will
 convert the object in the 3D view volume to a 2D image on the projection
 plane.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Flood Fill Boundary Fill
+
+Purpose Fills a connected area with a color from a Fills an enclosed area bounded by a
+seed point. specific boundary color.
+Starting Point Can start from any point inside the Starts from a point inside the enclosed
+connected region. region and fills towards the boundary.
+Color Checking Fills all connected pixels of the same color. Stops filling when a boundary color is
+encountered.
+Recursive/Stack Can use recursion or stack to handle large Also uses recursion or stack but requires 2
+areas, boundary color to stop.
+Type of Region Works on open regions or areas connected Works on closed regions (shapes with
+by a color. defined boundaries).
+Boundary No boundary condition. Stops when no Stops when the boundary color is
+Condition more connected regions are found. encountered.
+Efficiency Can be inefficient for large or complex areas May be less efficient for large areas due to
+(may flood large connected regions). boundary checking.
+Memory Can lead to stack overflow in large areas Also susceptible to stack overflow but can
+Consumption (due to recursion). be limited by boundary detection.
+Common Use Used in flood-fill tools in graphics Used in applications where filling is
+applications (e.g., paint programs). required inside closed shapes or regions.
+Example Filling the background color of a complex Filling the interior of a closed polygon
+
+shape. defined by boundary color.
 --- page 5 ---
 Perspective
 Projection:
@@ -2316,6 +3304,24 @@ proportions of the object.
 5. The appearance of the solid object can then be reconstructed from
 the major views.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Three principle axes of the object is assumed
+— The front, top, and side face of the scene is apparent
+Vesting Pity
+
+”
+
+-
+
+‘Axes for Berapestne
+Cube Projection
+
+Figure 7-44
+Principal vanishing points for perspective-projection views of a cube. When the cube in
+(a) is projected to a view plane that intersects only the z axis, a single vanishing point in
+the z (b) is When the cube is to a view plane that intersects
+both the z and 1 axes, two vanishing points (c) are produced,
 --- page 6 ---
 Parallel projection is categorized into 2 main types:
 1.When the direction of projection is perpendicular to the view plane it is
@@ -2338,6 +3344,49 @@ If you rotate a rectangle, it is still a rectangle
 •Scales about a fixed point
 Uniform Scaling:
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Z-Buffer Method Scanline Method
+
+Concept Uses a depth (Z) buffer to store the depth Works row by row (scanline) to
+value of each pixel and determines visibility by determine visibility based on depth
+comparing depth values. and shading of polygons.
+
+Storage Requirement = Requires a Z-buffer (depth buffer) with the Requires additional data structures for
+same resolution as the frame buffer. active edge tables and depth
+
+calculations per scanline.
+
+Processing Approach — Works per pixel (pixel-based approach). Works per scanline (line-based
+
+approach).
+
+Depth Comparison Compares depth values for every pixel and Uses depth interpolation along
+stores the closest one. scanlines to determine visible
+
+surfaces.
+
+Memory Usage High memory usage due to storing depth Lower memory usage compared to Z-
+values for all pixels. buffer.
+
+Efficiency Simple to implement but can be More efficient for rendering polygonal
+computationally expensive for high-resolution models, but requires complex data
+scenes. management.
+
+Handling Can handle transparency with additional Harder to manage transparency as it
+
+Transparency buffers (alpha blending). works scanline-wise.
+
+Handling of Automatically handles overlapping objects by Needs explicit sorting and
+
+Overlapping Objects storing only the closest depth value. management of overlapping surfaces.
+
+Best Suited For General-purpose 3D rendering, hardware Rendering polygon-based scenes with
+implementation in GPUs. complex hidden surface removal.
+
+Implementation Easier to implement in hardware and software. More complex due to scanline
+
+Complexity calculations and active edge tables.
 --- page 7 ---
 1.5 0
 0 0.8
@@ -2819,6 +3868,29 @@ Q2   a.   Definition: 4 marks
 [10]
 Algorithm with matrices: 6 marks
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Representation in Homogeneous Coordinates
+
+We represent the triangle’s coordinates in homogeneous form:
+
+25 4
+P=|3 4 1
+111
+
+Step 2: Reflection Matrix for the X-Axis
+
+The reflection matrix for the X-axis is:
+
+1 0 0
+R,=|0 -1 0
+0 0 1
+Step 3: Matrix Multiplication
+P'=R,xP
+
+1 0 0 25 4
+= j]0 -1 O| x}]3 4 1
+0 0 1 111
 --- page 4 ---
 Window
 •A world-coordinate area selected for display.
@@ -2850,6 +3922,31 @@ Once the view volume is determined, a projection transformation will
 convert the object in the 3D view volume to a 2D image on the projection
 plane.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Flood Fill Boundary Fill
+
+Purpose Fills a connected area with a color from a Fills an enclosed area bounded by a
+seed point. specific boundary color.
+Starting Point Can start from any point inside the Starts from a point inside the enclosed
+connected region. region and fills towards the boundary.
+Color Checking Fills all connected pixels of the same color. Stops filling when a boundary color is
+encountered.
+Recursive/Stack Can use recursion or stack to handle large Also uses recursion or stack but requires 2
+areas, boundary color to stop.
+Type of Region Works on open regions or areas connected Works on closed regions (shapes with
+by a color. defined boundaries).
+Boundary No boundary condition. Stops when no Stops when the boundary color is
+Condition more connected regions are found. encountered.
+Efficiency Can be inefficient for large or complex areas May be less efficient for large areas due to
+(may flood large connected regions). boundary checking.
+Memory Can lead to stack overflow in large areas Also susceptible to stack overflow but can
+Consumption (due to recursion). be limited by boundary detection.
+Common Use Used in flood-fill tools in graphics Used in applications where filling is
+applications (e.g., paint programs). required inside closed shapes or regions.
+Example Filling the background color of a complex Filling the interior of a closed polygon
+
+shape. defined by boundary color.
 --- page 5 ---
 Perspective
 Projection:
@@ -2882,6 +3979,24 @@ proportions of the object.
 5. The appearance of the solid object can then be reconstructed from
 the major views.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Three principle axes of the object is assumed
+— The front, top, and side face of the scene is apparent
+Vesting Pity
+
+”
+
+-
+
+‘Axes for Berapestne
+Cube Projection
+
+Figure 7-44
+Principal vanishing points for perspective-projection views of a cube. When the cube in
+(a) is projected to a view plane that intersects only the z axis, a single vanishing point in
+the z (b) is When the cube is to a view plane that intersects
+both the z and 1 axes, two vanishing points (c) are produced,
 --- page 6 ---
 Parallel projection is categorized into 2 main types:
 1.When the direction of projection is perpendicular to the view plane it is
@@ -2904,6 +4019,49 @@ If you rotate a rectangle, it is still a rectangle
 •Scales about a fixed point
 Uniform Scaling:
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Z-Buffer Method Scanline Method
+
+Concept Uses a depth (Z) buffer to store the depth Works row by row (scanline) to
+value of each pixel and determines visibility by determine visibility based on depth
+comparing depth values. and shading of polygons.
+
+Storage Requirement = Requires a Z-buffer (depth buffer) with the Requires additional data structures for
+same resolution as the frame buffer. active edge tables and depth
+
+calculations per scanline.
+
+Processing Approach — Works per pixel (pixel-based approach). Works per scanline (line-based
+
+approach).
+
+Depth Comparison Compares depth values for every pixel and Uses depth interpolation along
+stores the closest one. scanlines to determine visible
+
+surfaces.
+
+Memory Usage High memory usage due to storing depth Lower memory usage compared to Z-
+values for all pixels. buffer.
+
+Efficiency Simple to implement but can be More efficient for rendering polygonal
+computationally expensive for high-resolution models, but requires complex data
+scenes. management.
+
+Handling Can handle transparency with additional Harder to manage transparency as it
+
+Transparency buffers (alpha blending). works scanline-wise.
+
+Handling of Automatically handles overlapping objects by Needs explicit sorting and
+
+Overlapping Objects storing only the closest depth value. management of overlapping surfaces.
+
+Best Suited For General-purpose 3D rendering, hardware Rendering polygon-based scenes with
+implementation in GPUs. complex hidden surface removal.
+
+Implementation Easier to implement in hardware and software. More complex due to scanline
+
+Complexity calculations and active edge tables.
 --- page 7 ---
 1.5 0
 0 0.8
@@ -3344,6 +4502,45 @@ Working Principle
 1. Divide the image into scanlines: The entire viewport is divided into
 horizontal scanlines, each corresponding to a row of pixels.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+We know that,
+
+Aspect ratio
+
+Aspect ratio
+
+Width
+
+Height
+
+8 x 100
+
+10x 100
+
+4:5
+
+4/5
+
+The transformation matrix for X-shear is:
+
+1 S, 0
+S,;-—|0 1 0
+0 0 1
+For S,; = 2:
+12 0
+S,=—|0 1 0
+
+Step 1: Shearing Matrix for Y-Direction
+
+The transformation matrix for Y-shear is:
+
+1
+Sy = | Sy
+LO
+For Sy = 1.5:
+rl
+Sy= {15
 --- page 3 ---
 2. Process active polygons: For each scanline, identify which polygons intersect
 it.
@@ -3452,6 +4649,36 @@ dimensional clipping methods.
 2. Instead of clipping against straight-line window boundaries, we now clip
 objects against the boundary planes of the view volume.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+DDA Line Algorithm
+1. Read the line end points (x,, y,) and (xg, Y2) such that they are not equal.
+(if equal then plot that point and exit]
+2. dx=|x,-x| and dy=|y2-yy|
+3. if(Ax2Ay) then
+length = Ax
+else
+length = Ay
+end if
+4. Ax = (x,-x,)/length
+Ay = (Yo —y,) / length
+(This makes either Ax or Ay equal to 1 because length is either |x, - x,|
+or |y2 ~ y;|- Therefore, the incremental value for either x or y is one.)
+5. x =x, +0.5* Sign (Ax)
+Y =y, + 0.5 * Sign (Ay)
+(Here, Sign function makes the algorithm work in all quadrant. It
+returns - 1, 0, 1 depending on whether its argument is < 0, = 0, >0
+
+respectively. The factor 0.5 makes it possible to round the values in
+the integer function rather than truncating them.]
+
+6. i=1 [Begins the loop, in this loop points are plotted)
+While (i <length)
+{
+Plot (Integer (x), Integer (y) )
+x=x+Ax
+yeytdy
+isi+1
 --- page 7 ---
 3. An endpoint (x, y, z) of a line segment is outside a boundary plane if Ax +
 By + Cz + D > 0, where A, B , C, and D are the plane parameters for that
@@ -3598,6 +4825,31 @@ this is the way that our eyes and a camera lens form images.
  The point at which a set of projected parallel lines appear to converge is
 called a vanishing point.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Scaling by Factor of 2
+
+Scaling Matrix
+
+The scaling transformation for S, = S, = 2 is:
+
+200
+S=|]0 2 0
+001
+Matrix Multiplication
+P"— 6x pM
+20 0 —-5 -7 -4
+=|0 2 OJ x] 3 5 7
+001 1 1 1
+
+(2x -5+0x3+0x1) (2x-74+0x5+0x1) (2x-44+0x7+0x1)
+= |(0x -5+2x3+0x1) (0x -7+2x5+0x1) (0x -4+2x7+0x 1)
+1 1 1
+
+6 10 «14
+
+—10 -14 -8
+1 1 1
 --- page 11 ---
  Each set of projected parallel lines will have a separate vanishing point and
 in general a scene can have any number of vanishing points depending on
@@ -3666,6 +4918,74 @@ Q7   a.   1. A point (x, y) can be re-written in homogeneous coordinates as (xh,
 3. Using homogeneous coordinates allows us use matrix multiplication to
 calculate transformations – extremely efficient
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+‘The two basic color display producing techniques are:
+
+1. Beam—Penetration Method: It is used with a random scan monitor for displaying pictures. There are
+two phosphorus layers- Red and Green are coated inside the screen. The color shown depends on how
+far the electron beam penetrates the phosphorus surface.
+
+A powerful electron beam penetrates the CRT, it passes through the red layer and excites the green layer
+
+within. A beam with slow electrons excites only the red layer. A beam with the medium speed of electrons,
+a mixture of red and green light is emitted to display two more colors- orange and yellow.
+
+Green layer
+
+/ Red layer
+
+Electron beams t
+Intermediate
+Layer (Orange & Yellow)
+
+Advantages:
+1. Better Resolution
+
+2. Half cost
+3. Inexpensive
+
+Disadvantages:
+
+1. Only four possible colors
+2. Time Consuming
+
+2.Shadew—Mask Method: It is used with a raster scan monitor for displaying pictures. It has more range
+of color than the beam penetration method. It is used in television sets and monitors.
+
+Structure:
+1. Ithas three phosphorus color dots at each position of the pixel.
+First Dot: Red color
+Second Dot: Green color
+Third Dot: Blue color
+1. Ithas three different guns. Each for one color.
+2. Ithas a metal screen or plate just before the phosphorus screen, named “Shadow-Mask.”
+3. It also has a shadow grid just behind the phosphorus coated screen with tiny holes in a triangular
+shape.
+
+Working: A Shadow Mask is a metal plate with
+
+y holes present inside a color monitor.
+
+A Shadow Mask directs the beam by consuming the electrons so that the beam hits only the desired point
+and displays a resulting picture.
+
+It has three different guns. These guns direct their beams to shadow mask, which allows them to pass. It is
+a task of a shadow mask to direct the beam on its particular dot on the screen and produce a picture on the
+screen.
+
+A Shadow Mask can display a wider range of pictures than beam penetration.
+
+Shadow Mask CRT
+
+BlugGun yg
+Gun
+Red
+Phosphor _ Green
+7 Phosphor
+Green Gun
+Blue
+Phosphor
 --- page 14 ---
 2. Deriving the Combined Rotation Matrix
 Using the general rotation matrices:

@@ -33,6 +33,18 @@ Instructions:
 a.   8
 b.   7
 Page 1 of 4
+
+[Text in pictures on this page, read by OCR]
+A) What is the date of approval for issue of the financial statements prepared for the
+reporting period from April 1, 2024 to March 31, 2025, in a situation where following
+dates are available? Completion of preparation of financial statements May 28, 2025
+Board reviews and approves it for issue June 19, 2025
+
+Available to shareholders July 01, 2025
+Annual General Meeting September 15, 2025
+Filed with regulatory authority October 16, 2025
+
+Will your answer differ if the entity is a partnership firm?
 --- page 2 ---
 B) M/s PQR Ltd. is in the process of finalizing the accounts for the year ended 31%
 March, 2025. The company seeks your advice on the following:
@@ -192,6 +204,13 @@ Instructions:
 a.   8
 b.   7
 Page 1 of 4
+
+[Text in pictures on this page, read by OCR]
+A) An earthquake destroyed a major warehouse of Riya Ltd. on 10.5.2025. The
+accounting year of the company ended on 31.3.2025. The accounts were
+approved on 30.6.2025. The loss from earthquake is estimated at Rs. 60 lakhs. State
+with reasons, whether the loss due to earthquake is an adjusting or non-adjusting
+event and how the fact of loss is to be disclosed by the company.
 --- page 2 ---
 B) Nigam Ltd. Was awarded a contract of construction of a bridge for Rs. 100 crore on 01- 06-2021.
 Total contract cost estimated was Rs. 80 crores. The position of the contract on 31-03-2024 and 31-03-
@@ -218,6 +237,56 @@ The cash price of the machinery was ₹4,00,000. The terms of payment were: ₹4
 immediately and the balance payable in three annual instalments of ₹1,20,000 each plus
 interest at 12% per annum on the outstanding balance on 31st December every year.
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+From the following Trial Balance of Shivaay as on 31st December, 2023, you are required to
+prepare Manufacturing A’c, Trading and Profit & Loss A/c for the year ended 31st December,
+2023 and a Balance Sheet as at that date after making necessary adjustments.
+
+Trial Balance as on 31st December, 2023
+
+Particulars Dr. (%) Cr. (@)
+‘Opening Stock —Raw Material 3.500
+‘Opening Stock — Work-in-Progress 7500
+‘Opening Stock — Finished Goods 4.000
+Purchase of Raw Materials 82.000
+Return Inwards 2,000
+Sundry Debtors 20,600
+Furniture and Fixtures 5,000
+Power and Fuel 200
+‘Camiage Outward 500
+Office Rent and Taxes 4.600
+Printing and Stationery 800
+Factory Expenses 400
+Postage 800
+Insurance Charges 700
+Salaries to Staff 21,300
+‘Cash and Bank Balance 26,700
+Drawings 16,000
+Direct wages 11,400
+Plant and Machinery 25,000
+‘Capital of Shivaay 1,00,000
+Sundry Creditors 10,000
+Sales 1,20.000
+Returm Outward. 1.000
+RDD 400
+Discount 400
+Bad Debts Recovered 1,200
+Total 2,33,000 2,33,000
+Adjustments:
+
+(a) Stock as on 31st December, 2023: Raw Material $2,000; Work-in-Progress 78,000;
+Finished Goods 74.600.
+
+(b) Prepaid Insurance 7300.
+
+(c) Provide Depreciation on Furniture and Fixtures @ 5% and on Plant and Machinery @
+20% p.a.
+
+(d White off Bad Debts 7600 and maintain Reserve for Doubtful Debts @ 5% on Sundry
+Debtors.
+
+(e) Goods distributed as free samples worth 74,000 to increase sales.
 --- page 4 ---
 Mr. Somnath paid the down payment and the first two instalments in time. However, he
 informed his inability to pay on 30/06/2025, whereupon M/s Badrinath Ltd. repossessed the
@@ -229,4 +298,39 @@ and also prepare Machinery A/c and M/s Badrinath Ltd. A/c in the books of Mr. So
 the years ending 31/12/2023, 31/12/2024 and 31/12/2025.
 4.   15
 Page 4 of 4
+
+[Text in pictures on this page, read by OCR]
+Sunlight Ltd. has a Head Office at Mumbai and Retail Branch Pune, goods are supplied to
+branch from the Head Office at 20% profit on sales Price. All the expenses of branch (except
+petty expenses) are paid by HO.
+
+z
+Balances on 1.1.2025:
+Petty Cash at Branch 4,600
+Stock at Branch at LP. 1.00,000
+Sundry Debtors at Branch 48.000
+Sundry Creditors at Branch 22.400
+Furniture at Branch 56,000
+Transactions during the year ended 31.12.2025:
+Goods sent to Branch less Returns (IP) §,08,000
+Cash Sales at Branch 11,60,000
+Credit Sales at Branch 1,90,000
+Discount allowed to Debtors 1,000
+Cash from Debtors 1,60,000
+Bad Debts written off 2,400
+Cash Remitted by Branch to H.O 10,63,000
+Cash send by H.O. to Branch for Petty Expenses 960
+Payments made by the Head Office:
+Rent 5,600
+Salaries 24,000
+Insurance 1,920
+Petty cash Expenses done by branch 2,560
+Balance on 31.12.2025
+Stock (IP) 75,000
+Creditors 46,000
+
+Waite off 10% depreciation on furniture
+
+Prepare Branch Account, Branch Debtors Account and Branch petty cash account from the
+above information:
 ````

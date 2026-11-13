@@ -68,6 +68,21 @@ CO-4; SO-1;   d Compare active corner and passive corner reflector.   5
 BL-2
 2.5
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Ans:
+
+Backward radiations from an antenna can be eliminated by using plane
+conducting sheets as reflectors. When two flat sheets intersecting at an angle a@ are used as
+reflectors, then such an arrangement is called corner reflector. Corner reflectors are of two types.
+They are,
+
+(i) Active corner reflector
+(ii) Passive corner reflector.
+(i) Active Corner Reflector
+When two flat sheets intersecting at an angle a < 180° with a driven element
+producing a sharp radiation pattern, then such an arrangement is called active corner reflector.
+The opening of the corner or aperture should be in the range of 1 to 2A.
 --- page 3 ---
 2.5
 (a)Absence of driven element:
@@ -386,6 +401,40 @@ Q.7A   Explain the measurement of impedance using magic tee.   5
 CO-6; SO-1;
 BL- 2
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+RESONANT ANTENNA NON — RESONANT ANTENNA *
+
+")) The antennas whieh correaponct The antenna on which standin
+To the Teonane Lansmission line waves de not eust, (en
+ee Known a4 zesenant antenna futh antenna is cattect ner
+
+resonant antenna:
+
+Divechon of Kaveting wave «
+>
+
+Feep eapintor®
+=
+I =
+3) The standing wave antenna The thavelling wave antenna
+resonan® antenna or   nen-TeoMant antenna or
+Priodic antenna apaiodic antenna
+
+4y Tn this, antenna, stands
+Want exist at Ree axe incl
+and veflected waves.
+
+S$) Usect for fixed PE Usect for vastable pat x
+
+6) Te hao bi- divectinat
+Tadiafion poten:
+
+No reflections, hence standing
+mae wave ele rot exigt.
+
+Te hes unellrectionat
+vadiation pattean:
 --- page 13 ---
 2.5
 2.5
@@ -520,6 +569,22 @@ surface. A parallel beam of rays are reflected by the parabola as a convergent b
 width which is re-reflected by the hyperbolic sub-reflector to make the beam
 convergent at the position of the feed.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+e- FOCUS OF PARABOLOID
+| ANO HYPERBOLOID
+
+WAVE GUIDE SoA BLOCKED OR
+OBSTRUCTED
+( Sai aaa eee RAYS:
+HORN — SYPERBOLOID SECONDARY
+
+OR SUB-REFLECTED
+
+PAR ABOLOID —~
+REFLECTOR
+
+Fig 5.4.1 Cassegrain Feed
 --- page 3 ---
 Q.2A   Explain the cut-off frequencies in TE and TM propagating modes in a   10
 CO-2; SO-1;   circular waveguide.
@@ -529,6 +594,54 @@ Q.2B   Explain the construction and working of the directional coupler. Also,   
 CO-3; SO-1;   define its parameters.
 BL- 2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Circular Waveguide
+
+The same techniques used to analyze the ideal rectangular waveguide
+may be used to determine the modes that propagate within an ideal circular
+waveguide [radius = a, filled with dielectric (j1,2)] The separation of
+variables technique yields
+solutions for the circular
+waveguide TE and TM
+propagating modes in terms of
+Bessel functions. The cutoff
+frequencies for the circular
+waveguide can be written in
+terms of the zeros associated
+with Bessel functions and
+derivatives of Bessel functions.
+
+The cutoff frequencies of the TE and TM modes in a circular
+waveguide are given by
+
+ff. TE — Xonn
+‘mn 2naype
+
+ff. TM _ Xn
+“mn 2nayue
+
+’
+where Xmnand Xmn define the n" zero of the m'-order Bessel function and
+Bessel function derivative, respectively. The values of these zeros are
+shown in the tables below.
+
+TE modes
+
+%nn ™=0 m=1 m=2— m=3 m=4 m=5 m=6
+n=1 3.8318 1.8412 3.0542 4.2012 5.3175 6.4155 7.5013
+n=2 7.0156 5.3315 6.7062 8.0153 9.2824 10.5199 11.7349 --
+n=3 10.1735 8.5363 9.9695 11.3459 12.6819 13.9872 15.2682
+
+TM modes
+
+%nn ™m=0 m=1 m=2 m=3 m=4 m=5 m=6
+n=1 2.4049 3.8318 5.1357 6.3802 7.5884 8.7715 9.9361
+n=2 5.5201 7.1056 8.4173 9.7610 11.0647 12.3386 13.5893 --
+n=3 8.6537 10.1735 11.6199 13.0152 14.3726 15.7002 17.0038 --
+
+Note that the dominant mode in a circular waveguide is the TE,, mode,
+followed in order by the TMy, mode, the TE,, mode and the TE,, mode.
 --- page 4 ---
 Answer   Diagram …….3 marks
 Explanation for construction ………3.5 marks
@@ -647,6 +760,28 @@ oscillating electric field in the cavity.
 •   Thus the oscillating field in the catcher cavity is an amplified copy of the signal
 applied to the buncher cavity.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Cathode
+
+}+-—— Drift Space —+|
+
+"Buncher"
+
+Cavity
+
+Electron Beam
+
+Microwave Input
+
+Density of Electrons
+
+"Catcher"
+Cavity
+
+Collector
+
+Microwave Output
 --- page 9 ---
 •   The amplified signal is extracted from the catcher cavity through a coaxial cable or
 waveguide. After passing through the catcher and giving up its energy, the lower

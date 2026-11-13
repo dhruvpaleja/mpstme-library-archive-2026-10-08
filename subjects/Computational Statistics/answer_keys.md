@@ -120,6 +120,18 @@ Variance explained – 1 mark
 Final interpretation and tabulation – 2 marks
 Q3
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Component Eigenvalue Eigenvector % Variance
+
+PC1 8.83 [1, 1.24] 99.5%
+
+PC? a.04 [1, -0.80] 0.596
+
+Covariance Matrix:
+
+3.50 4.30
+u— he ss
 --- page 4 ---
 a.
 CO-1; SO-1;
@@ -147,6 +159,16 @@ CO- 1; SO-6;   R², Adjusted R², Standard Error – 3 marks
 BL-2   Residual plot explanation – 2 marks
 Interpretation of results – 2 marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Step Merge Distance Resulting Clusters
+
+1 AB 1414 {A,B}
+2 DE 1414 {DE}
+3 {DE}, F 1414 {DEF
+4 {A.B}, C 2,000 {A,B,C}
+
+3 {A,B,C}, {D,E.F} 7.616 Final Cluster
 --- page 5 ---
 b.
 CO-1; SO-2;
@@ -175,6 +197,25 @@ Covariance matrix inverse – 3 marks
 Mahalanobis distances – 3 marks
 Discriminant function & classification – 2 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Mean (A) (9, 7)
+
+Mean (B) (5.5, 4.5)
+
+Ww (2.5, -1.5], [-1.5, 2.5]
+H (14.7, 10.5], 110.5, 7.5]
+Wilks' Lambda (/\) 0.0439
+
+Conclusion Significant difference between Branch A & Branch B
+
+For Accept (A):
+ga = —0.51n(0.000086) — 0.5(2.422)
+= —0.5(—9.36) — 1.211 = 4.68 — 1.211 = 3.47
+For Reject (R):
+gr = —0.5ln(0.000131) — 0.5(6.686)
+
+= —0.5(—8.94) — 3.343 = 4.47 — 3.343 = 1.13
 --- page 6 ---
 b.   1. Linearity (2 marks)
 The linear regression model assumes a linear relationship between the dependent
@@ -215,6 +256,21 @@ BL-5
 3. Mean difference – 1 mark
 4. Discriminant vector www calculation – 3 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Regression Line Y = 4,977 + 2.516X
+Error Variance (07) SSE / (n-2)
+Variance of first fitted value Var(¥,) = 0.0365
+
+Variance of first residual Var(e,) = 0.0252
+
+Mean (Fit) (2, 2)
+
+Mean (Unfit) (7, 7)
+Sw (4, 0], £0, 41]
+fa — pe [-5, -5]
+
+w= Sy" (en — pe) (-1.25, -1.25) or normalized (-0.707, -0.707)
 --- page 7 ---
 5. Interpretation – 2 marks
 Q7

@@ -84,6 +84,26 @@ time for the brand, as it faces competition from rising ride-hailing services su
 as Rapido, and One Drive. Infer and analyse the strategy archetype and explain
 the dimensions of the archetype with the pros/cons.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Technology Maps
+
+Consider
+Technol Identification emerging
+technology
+tends
+Onogeing Manageme nt Rae Decide on Needed Technology Additions
+- Platforms and -Intemal development (Make)
+derivatives - External acquisition (Buy)
+- Killing projects. - Partner ta oo-develop
+
+- Intellectual property
+
+commercialization
+
+issues
+Decide on "What to Sell" Stmtezy
+- License vs. full
 --- page 3 ---
 Q3   Acer has transformed high-performance storage with its FA200 PCIe 4.0 SSD. [10]
 Offering remarkable speed, durability and versatility altogether, the SSD is
@@ -112,6 +132,61 @@ ROI? And what if my competition adopts AI faster? We spoke to businesses
 and realised they need guidance on integrating AI, even in small steps. So, we
 built a structured AI stack to support marketers on this journey. It’s a
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Fast Follower = Early Superior Focus on cost, Pros:
+
+(Analyzer) adopters products distribution * Innovative late
+Early Lower prices entrants grow
+majority New business faster
+
+models
+
+Customer Early and Customized Relationship Pros:
+
+Intimate late majority solutions marketing * High margins
+
+(Differentiated — « Narrow Superior service Intimate customer * Repeat business
+
+Defender) niches knowledge leads to high
+© Specific customer lifetime
+
+(individual) value
+customers
+
+Operationally = Early and Superior Value chain Pros:
+
+Excellent late majority § combination of efficiency * High asset
+
+(Low-Cost © Mass market quality, price, turnover rates and
+
+Defender) © Price- and ease of asset return rates
+
+sensitive purchase
+
+customers Cost leadership
+
+. Ensure that each employee understands the organization's strategy and how innovation efforts
+are aligned with it.
+
+. Teach each employee the critical importance of diversity of thinking styles, experiences,
+perspectives, and expertise.
+
+. Maintain close relationships with the company’s most innovative customers to jointly determine
+what those customers will want next.
+
+. Create metrics and a procedure for frequent evaluation of project progress.
+
+. Make innovation part of everyone's job description and build it into the performance review
+process.
+
+. Provide considerable freedorn of action.
+
+. Allocate substantial resources to educate employees about emerging technologies.
+
+. Use teams of employees wha possess many skills among them.
+
+. Create a process for rapidly communicating new ideas across the company.
 --- page 4 ---
 complete suite of products and services that cater to different industries based
 on their level of digital maturity,"
@@ -200,6 +275,36 @@ Pricing of After-Sales Service based on segmentation
 “Basic needs”-want standard service with basic inspections and periodic
 maintenance
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Factors Affecting Customer Purchase Decision
+
+The benefits of adopting the new technology
+
+Relative advantage compared to the costs and in relation to other
+alternatives
+The extent to which adopting and using the
+‘Compatibility innovation is based on existing ways of doing things
+
+and standard cultural norms
+
+Complexity The difficulty involved im using the new product
+
+The extent to which a new productcan be tried on a
+
+URL EL a limited basis
+
+The ease and clarity with which the benefits of
+owning and using the new product can be
+communicated to prospective customers
+
+Ability to Communicate
+Product Benefits
+
+The extent that benefits of the new product are
+
+Observability ire =
+. visible to everyone
 --- page 6 ---
 ◦   fixed-price, well-defined, limited service contract
 “Risk avoiders”-Want to avoid big bills but don’t care about response time
@@ -320,6 +425,26 @@ time for the brand, as it faces competition from rising ride-hailing services su
 as Rapido, and One Drive. Infer and analyse the strategy archetype and explain
 the dimensions of the archetype with the pros/cons.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Technology Maps
+
+Consider
+Technol Identification emerging
+technology
+tends
+Onogeing Manageme nt Rae Decide on Needed Technology Additions
+- Platforms and -Intemal development (Make)
+derivatives - External acquisition (Buy)
+- Killing projects. - Partner ta oo-develop
+
+- Intellectual property
+
+commercialization
+
+issues
+Decide on "What to Sell" Stmtezy
+- License vs. full
 --- page 3 ---
 Q3   Acer has transformed high-performance storage with its FA200 PCIe 4.0 SSD. [10]
 Offering remarkable speed, durability and versatility altogether, the SSD is
@@ -348,6 +473,61 @@ ROI? And what if my competition adopts AI faster? We spoke to businesses
 and realised they need guidance on integrating AI, even in small steps. So, we
 built a structured AI stack to support marketers on this journey. It’s a
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Fast Follower = Early Superior Focus on cost, Pros:
+
+(Analyzer) adopters products distribution * Innovative late
+Early Lower prices entrants grow
+majority New business faster
+
+models
+
+Customer Early and Customized Relationship Pros:
+
+Intimate late majority solutions marketing * High margins
+
+(Differentiated — « Narrow Superior service Intimate customer * Repeat business
+
+Defender) niches knowledge leads to high
+© Specific customer lifetime
+
+(individual) value
+customers
+
+Operationally = Early and Superior Value chain Pros:
+
+Excellent late majority § combination of efficiency * High asset
+
+(Low-Cost © Mass market quality, price, turnover rates and
+
+Defender) © Price- and ease of asset return rates
+
+sensitive purchase
+
+customers Cost leadership
+
+. Ensure that each employee understands the organization's strategy and how innovation efforts
+are aligned with it.
+
+. Teach each employee the critical importance of diversity of thinking styles, experiences,
+perspectives, and expertise.
+
+. Maintain close relationships with the company’s most innovative customers to jointly determine
+what those customers will want next.
+
+. Create metrics and a procedure for frequent evaluation of project progress.
+
+. Make innovation part of everyone's job description and build it into the performance review
+process.
+
+. Provide considerable freedorn of action.
+
+. Allocate substantial resources to educate employees about emerging technologies.
+
+. Use teams of employees wha possess many skills among them.
+
+. Create a process for rapidly communicating new ideas across the company.
 --- page 4 ---
 complete suite of products and services that cater to different industries based
 on their level of digital maturity,"
@@ -436,6 +616,36 @@ Pricing of After-Sales Service based on segmentation
 “Basic needs”-want standard service with basic inspections and periodic
 maintenance
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Factors Affecting Customer Purchase Decision
+
+The benefits of adopting the new technology
+
+Relative advantage compared to the costs and in relation to other
+alternatives
+The extent to which adopting and using the
+‘Compatibility innovation is based on existing ways of doing things
+
+and standard cultural norms
+
+Complexity The difficulty involved im using the new product
+
+The extent to which a new productcan be tried on a
+
+URL EL a limited basis
+
+The ease and clarity with which the benefits of
+owning and using the new product can be
+communicated to prospective customers
+
+Ability to Communicate
+Product Benefits
+
+The extent that benefits of the new product are
+
+Observability ire =
+. visible to everyone
 --- page 6 ---
 ◦   fixed-price, well-defined, limited service contract
 “Risk avoiders”-Want to avoid big bills but don’t care about response time
@@ -556,6 +766,26 @@ time for the brand, as it faces competition from rising ride-hailing services su
 as Rapido, and One Drive. Infer and analyse the strategy archetype and explain
 the dimensions of the archetype with the pros/cons.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Technology Maps
+
+Consider
+Technol Identification emerging
+technology
+tends
+Onogeing Manageme nt Rae Decide on Needed Technology Additions
+- Platforms and -Intemal development (Make)
+derivatives - External acquisition (Buy)
+- Killing projects. - Partner ta oo-develop
+
+- Intellectual property
+
+commercialization
+
+issues
+Decide on "What to Sell" Stmtezy
+- License vs. full
 --- page 3 ---
 Q3   Acer has transformed high-performance storage with its FA200 PCIe 4.0 SSD. [10]
 Offering remarkable speed, durability and versatility altogether, the SSD is
@@ -584,6 +814,61 @@ ROI? And what if my competition adopts AI faster? We spoke to businesses
 and realised they need guidance on integrating AI, even in small steps. So, we
 built a structured AI stack to support marketers on this journey. It’s a
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Fast Follower = Early Superior Focus on cost, Pros:
+
+(Analyzer) adopters products distribution * Innovative late
+Early Lower prices entrants grow
+majority New business faster
+
+models
+
+Customer Early and Customized Relationship Pros:
+
+Intimate late majority solutions marketing * High margins
+
+(Differentiated — « Narrow Superior service Intimate customer * Repeat business
+
+Defender) niches knowledge leads to high
+© Specific customer lifetime
+
+(individual) value
+customers
+
+Operationally = Early and Superior Value chain Pros:
+
+Excellent late majority § combination of efficiency * High asset
+
+(Low-Cost © Mass market quality, price, turnover rates and
+
+Defender) © Price- and ease of asset return rates
+
+sensitive purchase
+
+customers Cost leadership
+
+. Ensure that each employee understands the organization's strategy and how innovation efforts
+are aligned with it.
+
+. Teach each employee the critical importance of diversity of thinking styles, experiences,
+perspectives, and expertise.
+
+. Maintain close relationships with the company’s most innovative customers to jointly determine
+what those customers will want next.
+
+. Create metrics and a procedure for frequent evaluation of project progress.
+
+. Make innovation part of everyone's job description and build it into the performance review
+process.
+
+. Provide considerable freedorn of action.
+
+. Allocate substantial resources to educate employees about emerging technologies.
+
+. Use teams of employees wha possess many skills among them.
+
+. Create a process for rapidly communicating new ideas across the company.
 --- page 4 ---
 complete suite of products and services that cater to different industries based
 on their level of digital maturity,"
@@ -672,6 +957,36 @@ Pricing of After-Sales Service based on segmentation
 “Basic needs”-want standard service with basic inspections and periodic
 maintenance
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Factors Affecting Customer Purchase Decision
+
+The benefits of adopting the new technology
+
+Relative advantage compared to the costs and in relation to other
+alternatives
+The extent to which adopting and using the
+‘Compatibility innovation is based on existing ways of doing things
+
+and standard cultural norms
+
+Complexity The difficulty involved im using the new product
+
+The extent to which a new productcan be tried on a
+
+URL EL a limited basis
+
+The ease and clarity with which the benefits of
+owning and using the new product can be
+communicated to prospective customers
+
+Ability to Communicate
+Product Benefits
+
+The extent that benefits of the new product are
+
+Observability ire =
+. visible to everyone
 --- page 6 ---
 ◦   fixed-price, well-defined, limited service contract
 “Risk avoiders”-Want to avoid big bills but don’t care about response time
@@ -792,6 +1107,26 @@ time for the brand, as it faces competition from rising ride-hailing services su
 as Rapido, and One Drive. Infer and analyse the strategy archetype and explain
 the dimensions of the archetype with the pros/cons.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Technology Maps
+
+Consider
+Technol Identification emerging
+technology
+tends
+Onogeing Manageme nt Rae Decide on Needed Technology Additions
+- Platforms and -Intemal development (Make)
+derivatives - External acquisition (Buy)
+- Killing projects. - Partner ta oo-develop
+
+- Intellectual property
+
+commercialization
+
+issues
+Decide on "What to Sell" Stmtezy
+- License vs. full
 --- page 3 ---
 Q3   Acer has transformed high-performance storage with its FA200 PCIe 4.0 SSD. [10]
 Offering remarkable speed, durability and versatility altogether, the SSD is
@@ -820,6 +1155,61 @@ ROI? And what if my competition adopts AI faster? We spoke to businesses
 and realised they need guidance on integrating AI, even in small steps. So, we
 built a structured AI stack to support marketers on this journey. It’s a
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Fast Follower = Early Superior Focus on cost, Pros:
+
+(Analyzer) adopters products distribution * Innovative late
+Early Lower prices entrants grow
+majority New business faster
+
+models
+
+Customer Early and Customized Relationship Pros:
+
+Intimate late majority solutions marketing * High margins
+
+(Differentiated — « Narrow Superior service Intimate customer * Repeat business
+
+Defender) niches knowledge leads to high
+© Specific customer lifetime
+
+(individual) value
+customers
+
+Operationally = Early and Superior Value chain Pros:
+
+Excellent late majority § combination of efficiency * High asset
+
+(Low-Cost © Mass market quality, price, turnover rates and
+
+Defender) © Price- and ease of asset return rates
+
+sensitive purchase
+
+customers Cost leadership
+
+. Ensure that each employee understands the organization's strategy and how innovation efforts
+are aligned with it.
+
+. Teach each employee the critical importance of diversity of thinking styles, experiences,
+perspectives, and expertise.
+
+. Maintain close relationships with the company’s most innovative customers to jointly determine
+what those customers will want next.
+
+. Create metrics and a procedure for frequent evaluation of project progress.
+
+. Make innovation part of everyone's job description and build it into the performance review
+process.
+
+. Provide considerable freedorn of action.
+
+. Allocate substantial resources to educate employees about emerging technologies.
+
+. Use teams of employees wha possess many skills among them.
+
+. Create a process for rapidly communicating new ideas across the company.
 --- page 4 ---
 complete suite of products and services that cater to different industries based
 on their level of digital maturity,"
@@ -908,6 +1298,36 @@ Pricing of After-Sales Service based on segmentation
 “Basic needs”-want standard service with basic inspections and periodic
 maintenance
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Factors Affecting Customer Purchase Decision
+
+The benefits of adopting the new technology
+
+Relative advantage compared to the costs and in relation to other
+alternatives
+The extent to which adopting and using the
+‘Compatibility innovation is based on existing ways of doing things
+
+and standard cultural norms
+
+Complexity The difficulty involved im using the new product
+
+The extent to which a new productcan be tried on a
+
+URL EL a limited basis
+
+The ease and clarity with which the benefits of
+owning and using the new product can be
+communicated to prospective customers
+
+Ability to Communicate
+Product Benefits
+
+The extent that benefits of the new product are
+
+Observability ire =
+. visible to everyone
 --- page 6 ---
 ◦   fixed-price, well-defined, limited service contract
 “Risk avoiders”-Want to avoid big bills but don’t care about response time
@@ -1174,6 +1594,26 @@ half for same level of performance.
  Threat of disruptive innovations and business models
 ◦ The Internet
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+1. Purchase of the new technology provides the customer a dramatic competitive advantage in a
+previously unavailable domain in 4 critical market.
+* This reason to buy is difficult to quantify in terms of costs/benefits.
+* Although appealing to the visionary, this reason to buy is unpalatable to pragmatists and
+conservatives.
+
+2. Purchase of the new technology radically improves productivity on an already well-understood
+critical success factor, and no other alternative to achieving a comparable result ts available.
+* This reason has the greatest appeal to a pragmatist, because the cost savings (in terms of a better
+return on resource expenditures) can be quantified, typically in terms of incremental dollars.
+3, Purchase of the new technology visibly ventiably and significantly reduces current total overall
+operating costs.
+* This reason will have the greatest appeal to a conservative because of the hard dollar savings.
+However:
+© The risk factors surrounding the new technology are still tao high for conservatives to take a
+chance.
+© The surrounding infrastructure for the whole product may not be sufficiently developed to
+convince these conservatives to take the purchase nsk.
 --- page 6 ---
  Cost transparency: customer leverage
  Reverse Auctions
@@ -1211,6 +1651,20 @@ Cost efficiency (CPM)
 Fit of the editorial climate with brand message
 Size/Frequency of the ads
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Integrated Marketing Communications
+
+HIGH
+Zs
+as 4. Trade Show
+=z Seminars, Training
+oe 3. Direct Mail
+2. Public Relations! Publicity
+rHisimg,
+Low
+
+Coverage of Target Audience (Reach)
 --- page 7 ---
 Ad agency or not?
 Message strategy: gain attention/ reinforce brand message

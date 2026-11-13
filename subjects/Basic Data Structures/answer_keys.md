@@ -2742,6 +2742,29 @@ o Not suitable when data must be accessed in
 other orders (like FIFO).
 Conversion: 6 marks
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Step-by-Step Conversion Table
+
+Step Symbol Stack (Top ~ Bottom) Postfix
+1 ( ( _
+
+2 A ( A
+
+3 + (+ A
+
+4 B (+ AB
+
+5 - ¢ AB+
+
+6 c ¢ AB+C
+7 * * AB+C
+8 D io AB+CD
+9 / C AB+CD"
+10 ( &/( AB+CD"
+1 E C/( AB+CD"
+
+12 + GG AB+CD"
 --- page 9 ---
 B) At a bank, customers arrive to be served by a teller.
 Use a linear queue to manage customers. Serve each
@@ -3789,6 +3812,29 @@ o Not suitable when data must be accessed in
 other orders (like FIFO).
 Conversion: 6 marks
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Step-by-Step Conversion Table
+
+Step Symbol Stack (Top ~ Bottom) Postfix
+1 ( ( _
+
+2 A ( A
+
+3 + (+ A
+
+4 B (+ AB
+
+5 - ¢ AB+
+
+6 c ¢ AB+C
+7 * * AB+C
+8 D io AB+CD
+9 / C AB+CD"
+10 ( &/( AB+CD"
+1 E C/( AB+CD"
+
+12 + GG AB+CD"
 --- page 9 ---
 B) At a bank, customers arrive to be served by a teller.
 Use a linear queue to manage customers. Serve each
@@ -4608,6 +4654,29 @@ b.
 •
 c.   Write a Program for Fibonacci series up to n terms using recursion .   [5]
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Step Symbol Action Stack
+
+1 10 Push 1@ onto the stack [10]
+
+2 6 Push 6 onto the stack [10, 6]
+
+3 9 Push 9 onto the stack [10, 6, 9]
+
+4 3 Push 3 onto the stack [10, 6, 9, 3]
+5 + Pop 3 and 9,compute 9 + 3 = 12 [10, 6, 12]
+6 -11 Push -11 onto the stack [10, 6, 12, -11]
+7 * Pop -11 and 12, compute 12 * -11 = -132 (10, 6, -132]
+8 / Pop -132 and 6, compute 6 / -132 = @ (integer division) [10, 9]
+
+9 17 Push 17 onto the stack [10, @, 17]
+10 + Pop 17 and @, compute @ + 17 = 17 [10, 17]
+
+11 5 Push 5 onto the stack [1@, 17, 5]
+12 + Pop 5 and 17,compute 17 +5 = 22 [10, 22]
+
+13 End The result is 22 22
 --- page 3 ---
 #include <stdio.h>
 // Recursive function to return Fibonacci number at position 'n'
@@ -5684,6 +5753,29 @@ b.
 •
 c.   Write a Program for Fibonacci series up to n terms using recursion .   [5]
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Step Symbol Action Stack
+
+1 10 Push 1@ onto the stack [10]
+
+2 6 Push 6 onto the stack [10, 6]
+
+3 9 Push 9 onto the stack [10, 6, 9]
+
+4 3 Push 3 onto the stack [10, 6, 9, 3]
+5 + Pop 3 and 9,compute 9 + 3 = 12 [10, 6, 12]
+6 -11 Push -11 onto the stack [10, 6, 12, -11]
+7 * Pop -11 and 12, compute 12 * -11 = -132 (10, 6, -132]
+8 / Pop -132 and 6, compute 6 / -132 = @ (integer division) [10, 9]
+
+9 17 Push 17 onto the stack [10, @, 17]
+10 + Pop 17 and @, compute @ + 17 = 17 [10, 17]
+
+11 5 Push 5 onto the stack [1@, 17, 5]
+12 + Pop 5 and 17,compute 17 +5 = 22 [10, 22]
+
+13 End The result is 22 22
 --- page 3 ---
 #include <stdio.h>
 // Recursive function to return Fibonacci number at position 'n'
@@ -6786,6 +6878,33 @@ arr[j + 1] = key;
 // Function to print the array
 void printArray(int arr[], int size) {
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+No
+ARRAY LINKED LIST
+A linked list is a group of entities called a
+An array is a grouping of data elements node. The node includes two segments:
+ib of equivalent data type. data and address.
+It stores the data elements in a It stores elements randomly, or we can say
+2. | contiguous memory zone. anywhere in the memory zone.
+In the case of an array, memory size is
+fixed, and it is not possible to change it In the linked list, the placement of
+3. | during the run time. elements is allocated during the run time.
+The elements are not dependent on each | The data elements are dependent on
+4. | other. each other.
+5. | The memory is assigned at compile time. | The memory is assigned at run time.
+It is easier and faster to access the In a linked list, the process of accessing
+6. | element in an array. elements takes more time.
+In the case of an array, memory utilization | In the case of the linked list, memory
+Ub is ineffective. utilization is effective.
+
+When it comes to executing any
+operation like insertion, deletion, array
+takes more time.
+
+When it comes to executing any operation
+like insertion, deletion, the linked list takes
+less time.
 --- page 4 ---
 for (int i = 0; i < size; i++)
 printf("%d ", arr[i]);

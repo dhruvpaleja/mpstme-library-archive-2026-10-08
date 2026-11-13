@@ -8,7 +8,7 @@ Answer keys and model answers published on the portal, newest first.
 - Programmes: BTech DS 7009, Integrated DS 7038, MBATech DS 7052
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_DS_7009/Applied Artificial Intelligence/ANS_Applied Artificial Intelligence(702DB0C019)_2025-2026.docx` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
-- Text: docx (1 page)
+- Text: mixed (7 pages), mean OCR confidence 79.4
 
 ````text
 SVKM’S NMIMS
@@ -342,6 +342,90 @@ Applications: Customer segmentation, anomaly detection, market basket analysis, 
 
 | [10]
 |
+--- page 2 ---
+Solution:
+
+P(Chocolate and Vanilla)
+
+P(Chocolate|Vanilla) = P(Vanilla)
+anilla
+
+e P(Chocolate and Vanilla) = i
+* P(Vanilla) = 2 = 3
+
+So:
+
+10/30 10 2
+
+P(Chocolate|Vanilla) = 15/30 ~ 15-3
+
+~ 0.6667
+--- page 3 ---
+|. Greedy Best-First Search
+
+Rule: Expand the node with the lowest heuristic value h(n). Ignore g(n).
+Step 1: Start at S — children:
+
+© A(h=6), B (h=4)
+
+* Choose B (lowest h)
+
+Step 2: Expand B — children:
+
+* D(h=2), E (h=1)
+
+* Frontier: Afh=6), D(h=2), E(h=1) — choose E (lowest h=1)
+Step 3: Expand E — child:
+
+* G{h=0)
+
+* Frontier: Afh=6), D(h=2), G(h=0) — choose G
+
+Path chosen by Greedy:
+
+S-B-E-G
+
+Total cost (g):
+--- page 4 ---
+A® path found:
+S-A-[-G
+
+Total cost (g): SA =2, A-D=6, (-s-j- 2 ahah = 16 @ optimal
+
+ill. Comparison and Optimality
+
+Algorithm Path chosen Total cost Optimal?
+
+Greedy S38-E-G6 13 No
+
+AY S+A-[-6 tl Yes
+--- page 5 ---
+(i) The required TPM is
+
+0 1 0
+P -| 0 O 1] & gq =[0.3,0.4,0.3]
+1/2 1/2 0
+--- page 6 ---
+(i) P(X, = By= ??
+
+la
+
+| Means we need to find q2(B) | Hence, go = qyP*
+p? = P.P | 0 0 1
+=(0.3 0.4 0.3)}/0.5 0.5 O
+: 3 0 05 05
+=| 0 O 1]}) 0 0 1
+11/2 1/2 Ojl1/2 1/2 0 =[0.20 0.35 0.45]
+ol Thus,
+=30.5 0.5 0
+| 0 O05 0.5 P(X, = B) = 0.35
+--- page 7 ---
+Max Z = (5*1500 -187.5 — 6*40) r + (4*1800 — 225 - 5*40)m
++ (5*1200 — 187.5 — 6*40)p
+
+Sub to: r+m+p<=125 (Land constraint)
+6r + 5m + 6p <= 500 (Man-days constraint)
+r,m,p>=0 (non-negativity)
 ````
 
 ## 2025-26 · Final-Exam · Sem 6 · Answer key · paper 93524fa397f0
@@ -554,6 +638,27 @@ By using resolution refutation, we have successfully proven that John likes pean
 Or
 Resolution Graph
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Step 2.1: Eliminate Implications
+¢ Convert A + Binto“AV B
+1. John likes all kinds of food:
+aFood(x) V Likes(John, x)
+2. Apple and vegetable are food (already in CNF):
+Food( Apple)
+Food(V egetable)
+
+3. Anything anyone eats and is not killed is food:
+
+aEats(y, x) V Killed(y) V Food(z)
+
+4. Anil eats peanuts and is still alive (already in CNF):
+Eats( Anil, Peanuts)
+=Killed( Anil)
+
+5. Harry eats everything that Anil eats:
+
+=Eats(Anil,x) V Eats(Harry, x)
 --- page 7 ---
 Explain the Markov assumption in probabilistic modeling and analyze its significance in
 2)   simplifying dependency structures?

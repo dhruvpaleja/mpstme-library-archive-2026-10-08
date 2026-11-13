@@ -229,10 +229,59 @@ CO3; BL1;   d)   Bourdon tube pressure guage   5
 - Departments: Mechanical
 - Programmes: BTech Mechanical 7003, Integrated Mechanical 7031
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Mechanical_7003/Aerodynamics in Flight Design/data_set_Aerodynamics in Flight Design(702ME0E014)_2025-2026.docx` (+1 identical copies)
-- Text: docx (1 page)
+- Text: mixed (2 pages), mean OCR confidence 80.7
 
 ````text
 
+--- page 2 ---
+Table 3.2 Historical mission segment
+weight fractions
+—-.
+
+_ Wa) | Cruise Loiter
+Warmup and takeoff 0.970 ,
+Climb 0.985 Jet (1,866 L/Dexe L/D yay
+— — Prop LDess 0.866 L/Dpy
+
+Table 3.3 Specific fuel consumption (C)
+
+Typical jet SFC’s Cruise Loiter
+Pure turbojet 0.9 0.8
+Low-bypass turbofan 0.8 0.7
+High-bypass turbofan 0.5 0.4
+—————— — ———————————————————————
+
+Table 3.4 Propeller specific fuel consumption (Conp)
+
+—
+
+Propeller: C= Cyn, V/(550n,)
+
+Typical C,,,, and 9, Cruise Loiter
+Piston-prop (fixed pitch) 0.4/0.8 0.5/0.7
+Piston-prop (variable pitch) 0.4/0.8 0.5/0.8
+Turboprop 0.5/0.8 0.6/0.8
+
+Table 3.1 Empty weight fraction vs W,
+
+W/W, =AWSK,, A Cc
+
+Sailplane—unpowered 0.86 — 0.05
+Sailplane—powered 0.91 — 0.05
+Homebuilt—metal/wood 1.19 — 0.09
+Homebuilt—composite 0.99 — 0.09
+General aviation—single engine 2.36 —0.18
+General aviation—twin engine 1.51 —0.10
+Agricultural aircraft 0.74 —0.03
+Twin turboprop 0.96 — 0.05
+Flying boat 1.09 — 0.05
+Jet trainer 1,59 —0.10
+Jet fighter 2.34 -0.13
+Military cargo/bomber 0.93 —0.07
+Jet transport 1.02 — 0.06
+
+K,, = variable sweep constant = 1.04 if variable sweep
+= 1.00 if fixed sweep
 ````
 
 ## 2024-25 · Final-Exam · Sem 6 · paper 11613cb55049

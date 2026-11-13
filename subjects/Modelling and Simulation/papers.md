@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_AI_7012/MODELLING AND SIMULATION/QP_MODELLING AND SIMULATION(702BS0I018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: text (4 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -100,6 +101,23 @@ Q4   a   Solve the Laplace equation using Jacobi’s method with the following i
 values (perform 5 iterations).   (10 marks)
 CO2-;
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+OLS Regression Results
+
+Dep. Variable: Head_size R-squared: 0.639
+Model: OLS Adj. R-squared: 0.638
+Method: Least Squares F-statistic: 416.5
+Date: Sun, 08 May 2022 Prob (F-statistic): 5.96e-54
+Time: 21:40:40 Log-Likelihood: -1613.4
+No. Observations: 237°) AIC: 3231.
+Df Residuals: 235 BIC: 3238.
+Df Model: 1
+Covariance je sys? nonrobust
+coef std err t P>|t] [0.025 0.975)
+Intercept 520.6101 153.215 3.398 0.001 218.759 822.461
+
+Brain_weight 2.4269 0.119 20.409 0.000 2.193 2.661
 --- page 3 ---
 SO-1;
 BL-4
@@ -153,6 +171,7 @@ Method & one next level using Crank-Nicolson Method.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Computer_7002/MODELLING AND SIMULATION/QP_MODELLING AND SIMULATION(702BS0I018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: text (4 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -242,6 +261,23 @@ Q4   a   Solve the Laplace equation using Jacobi’s method with the following i
 values (perform 5 iterations).   (10 marks)
 CO2-;
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+OLS Regression Results
+
+Dep. Variable: Head_size R-squared: 0.639
+Model: OLS Adj. R-squared: 0.638
+Method: Least Squares F-statistic: 416.5
+Date: Sun, 08 May 2022 Prob (F-statistic): 5.96e-54
+Time: 21:40:40 Log-Likelihood: -1613.4
+No. Observations: 237°) AIC: 3231.
+Df Residuals: 235 BIC: 3238.
+Df Model: 1
+Covariance je sys? nonrobust
+coef std err t P>|t] [0.025 0.975)
+Intercept 520.6101 153.215 3.398 0.001 218.759 822.461
+
+Brain_weight 2.4269 0.119 20.409 0.000 2.193 2.661
 --- page 3 ---
 SO-1;
 BL-4
@@ -295,6 +331,7 @@ Method & one next level using Crank-Nicolson Method.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CyberSecurity_7010/MODELLING AND SIMULATION/QP_MODELLING AND SIMULATION(702BS0I018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: text (4 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -384,6 +421,23 @@ Q4   a   Solve the Laplace equation using Jacobi’s method with the following i
 values (perform 5 iterations).   (10 marks)
 CO2-;
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+OLS Regression Results
+
+Dep. Variable: Head_size R-squared: 0.639
+Model: OLS Adj. R-squared: 0.638
+Method: Least Squares F-statistic: 416.5
+Date: Sun, 08 May 2022 Prob (F-statistic): 5.96e-54
+Time: 21:40:40 Log-Likelihood: -1613.4
+No. Observations: 237°) AIC: 3231.
+Df Residuals: 235 BIC: 3238.
+Df Model: 1
+Covariance je sys? nonrobust
+coef std err t P>|t] [0.025 0.975)
+Intercept 520.6101 153.215 3.398 0.001 218.759 822.461
+
+Brain_weight 2.4269 0.119 20.409 0.000 2.193 2.661
 --- page 3 ---
 SO-1;
 BL-4
@@ -437,6 +491,7 @@ Method & one next level using Crank-Nicolson Method.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_IT_7001/MODELLING AND SIMULATION/QP_MODELLING AND SIMULATION(702BS0I018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: text (4 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -526,6 +581,23 @@ Q4   a   Solve the Laplace equation using Jacobi’s method with the following i
 values (perform 5 iterations).   (10 marks)
 CO2-;
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+OLS Regression Results
+
+Dep. Variable: Head_size R-squared: 0.639
+Model: OLS Adj. R-squared: 0.638
+Method: Least Squares F-statistic: 416.5
+Date: Sun, 08 May 2022 Prob (F-statistic): 5.96e-54
+Time: 21:40:40 Log-Likelihood: -1613.4
+No. Observations: 237°) AIC: 3231.
+Df Residuals: 235 BIC: 3238.
+Df Model: 1
+Covariance je sys? nonrobust
+coef std err t P>|t] [0.025 0.975)
+Intercept 520.6101 153.215 3.398 0.001 218.759 822.461
+
+Brain_weight 2.4269 0.119 20.409 0.000 2.193 2.661
 --- page 3 ---
 SO-1;
 BL-4
@@ -579,6 +651,7 @@ Method & one next level using Crank-Nicolson Method.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/MBATech_AI_7051/MODELLING AND SIMULATION/QP_MODELLING AND SIMULATION(702BS0I018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: text (4 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -668,6 +741,23 @@ Q4   a   Solve the Laplace equation using Jacobi’s method with the following i
 values (perform 5 iterations).   (10 marks)
 CO2-;
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+OLS Regression Results
+
+Dep. Variable: Head_size R-squared: 0.639
+Model: OLS Adj. R-squared: 0.638
+Method: Least Squares F-statistic: 416.5
+Date: Sun, 08 May 2022 Prob (F-statistic): 5.96e-54
+Time: 21:40:40 Log-Likelihood: -1613.4
+No. Observations: 237°) AIC: 3231.
+Df Residuals: 235 BIC: 3238.
+Df Model: 1
+Covariance je sys? nonrobust
+coef std err t P>|t] [0.025 0.975)
+Intercept 520.6101 153.215 3.398 0.001 218.759 822.461
+
+Brain_weight 2.4269 0.119 20.409 0.000 2.193 2.661
 --- page 3 ---
 SO-1;
 BL-4
@@ -952,6 +1042,15 @@ CO2-;   (10 marks)
 SO-1;
 BL-4
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+1000 1000 1000 1000
+2000 4 : 500
+1203 786
+2000 c D 0
+1036 453
+1000
+500 0 0
 --- page 3 ---
 b   Explain the Particle Swarm Optimization (PSO) algorithm.
 Using PSO Minimize: f(x,y)=x2+y2

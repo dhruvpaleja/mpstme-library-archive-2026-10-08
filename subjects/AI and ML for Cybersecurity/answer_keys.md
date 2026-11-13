@@ -1112,6 +1112,19 @@ a series of feature-based splits.
 rectangular regions.
  Tuple placed into class based on the region within which it falls.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Linear Regression Logistic Regression
+
+PredictedY canexceed € y S-Curve | Predicted Y Lies
+
+Oand 1 range .] within
+Oand 1 range
+
+y=0L---A-------——_ y=0U- -----------—e
+
+a xX x
+Independent Variable Independent Variable
 --- page 9 ---
  Different decision tree approaches differ in how the tree is built: DT
 Induction
@@ -1289,6 +1302,23 @@ average.
  Ideal value of the Cost Function is 0 or somewhere closer to 0, that
 indicates a better model fit to the data.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Data Collection
+
+Data Cleaning
+
+Data Validation
+(Feature Selection)
+
+Model design
+
+Evaluating Model
+
+Parameter
+Tuning
+
+Prediction
 --- page 13 ---
  In order to get out ideal Cost Function, we can use Gradient technique
 (iterative optimization technique used to find the parameters that

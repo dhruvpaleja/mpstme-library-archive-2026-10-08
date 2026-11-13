@@ -154,6 +154,24 @@ B. Examine the concept of high-powered money. Discuss the factors that determine
 economy. (6+6)
 5.   12
 Page 2 of 3
+
+[Text in pictures on this page, read by OCR]
+Items (% in crore)
+
+1. Personal taxes 200
+2. Wage and Salaries 1200
+3. Undistributed Profit 50
+
+4, Rent 300
+5, Corporation tax 200
+6. Private Income 2000
+7. Interest 400
+8. Net Indirect tax 300
+9. Net factor income from abroad - 20
+10. Profit 500
+
+11. Social Security contributions by
+employers 250
 --- page 3 ---
 To support growth, RBI reduced Statutory Liquidity Ratio (SLR) gradually to free funds for
 private sector lending. SLR requires banks to hold a portion of deposits in government

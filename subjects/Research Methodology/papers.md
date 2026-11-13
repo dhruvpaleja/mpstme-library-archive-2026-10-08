@@ -4336,8 +4336,8 @@ If n > 20 this table cannot be used. A p can be computed for Uoyt, using the nor
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/COMMON FOR ALL BRANCH SEM VII/RESEACH METHODOLOGY/Research Methodology 2015-16,2016-17 Re-exam.pdf`
 - Printed on paper: max marks: 12
-- Text: ocr (6 pages), mean OCR confidence 76.0
-- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: ocr (6 pages), mean OCR confidence 84.9
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 SVKM’s NMIMS
@@ -4551,76 +4551,42 @@ y 0.4981 0.4982 i GAOR4 4985 0.4986 0.4986
 
 4[,
 --- page 5 ---
-s
-si 7
-52 ==FANNRARRRRSVOO
-Ak
-wI2 SPR ERKNOvannae Hw
-S\SSSRBSSSLSRSSTESSSaSRSBszrgygren
-w#le oe Ooeeenu eae ne
-SISLSFHSSLSRssnrsagerencanvga =
-SISM@HRBtassseeSryagaHRRsrlSssSnggrtge st szrasgsge
+diva cn fe Ligll fart V4 a
+CUT~ S84 FRE (9%) Dist hufioy -
 
-SIs ae2stEsgSsapervanvvonayg
-
-Fars o-
-gs i a
-g mM raraAteessainn = oSereoStYarrte Rogar
-~=sF=annag ag 2 mon Cras = ai wh
-F THR ARR ERAS Sa
-<
-
-SHe-avwreagn
-
-° aan mas
-
-So es S&es z o
-
-SSLYSIReRUCysenSgQgggesseS Rs a2 agsseses5e
-
-ZSagse4neea aagges2oa
-
-HSasRVysseegteltsazreres
-
-VAnnSesongtSeRtVanvesgesearsAgmonan
-= FRA ae edgyenataes & Sareoanr ga ae
-ower ear d sees seo st Geesartasek zany
-. TA naa AAAS zd zo wo
-siS@exqoqgregxeseagadeyxesaapvwrvsrnaecnranueg
-
-ZBISSSSsgashrRertesegasegcs
-S\S Satna HE SK BASHA HH EH ER BAAS H A
-
-SS aSSSSHSSYSSSPSeresanesszenrgraee
-Ries al con S At = Fret uynrak a
-—NMSARSSRSELSHRSRARSRS asgSgeqgAayrareregya
-
-
-cs i]
-2 a
-SuISSHRASSSSHSLERSKE SIM SNSRBRVASaReA
-Munloounsayraoona > RQErESsRrRgrcrgnaRalres
-BSISHSSR = SSR RARaRRQaSRarVSgnsseRrgres
-¢
-§ :
-£
-4
-
-Ro
-eISB2exeureessevrseanrgxeersscaaegsesrieess
-
-BSssss SSHSRRSSSSRILSES
-
-SISSASRAISZRERSSSSLRAEALARCRSSHsZSRSSES
-
-
-ny
-aes<SeoudeotTnganvuwwanmranDsanannrnonawevtwoanwonm
-ASSASHe gs SHRrSSALSLASREFRHUARESRS
-HSSHENHSASESHSHASASSFSLSRZSARSLHAGRAR
-
-PBIzAnnrtrnNGerwanonznnanetnvnwa~anostranetunenwaace
-uo SSeS SS SHEKHAR ANN AA RAR A AR
+Area in Right Tail
+Area in Right Tail 0.20 0.10 : Degrees of
+‘eoou 0,99 0.975 095 0.90 0.800 1.642 2.106 a a — =
+1 0.00016 0.00098 0.00398 0.0158 0.0642 3.219 4.605 S001 one 6.635 1
+2° 0.0201 0.0506 0.103 O2u 0.446 4642 hast nats : 9.210 2
+3 “OLS 0.216 0.352 0.584 1.005 5,989 a0 ise 348 11.345 3
+4 0.297 0.484 O71 1.064 1.649 7.289 9.236 1 on 11.143 13.277 4
+5 0.554 0.831 1.145 1.610 2.343 8.558 ‘iigas ose 12.833 15.086 5
+6 _ 0.872 1,237 1.685 2.204 3.070 9.803 12.017 14.067 wid 16.812 6
+7 1.239 “1.690 2.167 2.833 3,822 - 11.030 13.362 15507” 16.013 18.475 1
+8 1.646 2.180 2.733 3.490 4,594 (2943 aaa ie 7 17.535 20.090 8
+9 2,088 2.700 . 3.325 4.168 5.380 ixaag ‘eae9 6.919 19.023 21.666 5
+10 2.558 3.247 3.940 4.865 6.179 14.631 peat . 18.307 20.483 23.209 10
+ul 3,053 3.816 4,575 5.578 6.989 q isgio ‘esas 19.675 21.920 24.725 mT
+12 ; 3.571 4.404 5.226 6.304 7.807 ‘eons en 21.026 23.337 26.217 2
+13 4.107 5.009 5.892 7.042 8.634 — hace 22.362 24.736 27.688 B
+14 4.660 5.629 6.571 7.790 9.467 a . 23.685 26.119 29.141 14
+1s 5.229 6.262 7.261 8.547 10.307 a noon 24.996 27.488 30.578 os
+16 5.812 6.908 7.962 9.312 11,152 a “ 3.542 26.296 28.845 32.000
+7 6.408 7.564 8.672 10.085 12.002 angie 24.769 27.587 30.191 33.409 ° 16
+18 7.015 8.231 9.390 10.865 12.857 22.760 25.989 28.869 31.526 wal ° 7
+19 7.633 8.907 10.117 11.651 13.716 23.900 * 27.204 30.144 ee seit 18
+20 8.260 9.591 10.851 12.443 14.578 25.038 28.412 31.410 34.170 506 i
+21 8.897. 10.283 11.591 13.240 15.445 26.171 29.615 32.671 35.479 38.93 x
+2 9.542 10.982 12.338 14.041 16.314 27.301 30.813 33.924 36.781 oo -
+23 10.196 11.689 13.091 14.848 17.187 28.429 32.007 35.172 38.076 41.638 ~—
+4 10.856 12.401 13.848 15.658 18.062 29.553 33.196 36.415 39.364 42.980 x
+25 11.524 13.120 14.611 16.473 18.940 30.675 34.382 37.652 40.647 ton 24
+6 12.198 13.844 15.379 17.292 19,820 31795 35.563 33.385 41.923 43.649 ne
+27 12.879 14.573 16,151 18.114 20.703 32.912 36.741 40.113 43.194 dee 26
+28 13.565 (5,308 16.928 18,939 21.588 34.027 37.916 ‘saat ‘ade co 27
+29 14.256 16.047 17.708 19.768 22.475 35.139 39.087 ; ast 2 8 28
+30 14.953 16.791 18.493 20.599 23.364 36.250 40.256 : ~ 9.588 29
 --- page 6 ---
 Table A5.07: Critical Values for the Wilcoxon/Mann-Whitney Test (U)
 

@@ -148,6 +148,43 @@ S1   (20,10)   22   ₹10
 S2   (10, 40)   42   ₹ 10
 S3   (40,20)   36   ₹ 10
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+* Full-scale launch
+* Post-launch review
+
+“~
+
+- Formulation
+of new services
+objective / strate;
++ Idea generation
+and screening
+
+Enablers
+
+Service design
+and testing
+
+Process and system . concert band
+7 a evelopment an
+
+design and testing Product feuis Pp)
+
+Marketing program s
+
+design and testing
+Personnel training
+Service testing and
+pilot run
+
+Test marketing
+
+Systems
+
+* Business analysis
+
+* Project authorization 4
 --- page 4 ---
 Find the best site for the cement plant using Centre of gravity Method.
 Ans:
@@ -168,6 +205,22 @@ SO2   technology helps in efficient and effective management of demand and
 BL-   capacity management?
 Analyzing   Ans: The example of online Retailing
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+°
+
+Service Customer >ZInput Service >ZInput Provide!
+Category | -Supplier| Output> Provider Output> Supplie
+
+Minds Patient | >Disturbed | Therapist | >Prescription | Pharma
+
+Treated> Drugs>
+Bodies Patient >Blood Physician >Sample Lab
+Diagnosis> Test Result>
+Belongings Driver >Car Garage >Engine Machin
+Repaired> Rebuilt> Shop
+Information | Home >Property | Mortgage | >Location Title
+Buyer Loan> Company | Clear Title> Search
 --- page 5 ---
 On-line Traditional
 Shopping Shopping

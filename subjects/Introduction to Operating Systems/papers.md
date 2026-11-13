@@ -93,6 +93,15 @@ and management.
 BL-5
 b.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Process|Arrival Time|Burst Time
+
+Pl 0 10
+P2 l 5
+P3 2 8
+
+P4 3 6
 --- page 3 ---
 Q5
 a.   A system has 3 frames. Reference string:
@@ -227,6 +236,15 @@ and management.
 BL-5
 b.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Process|Arrival Time|Burst Time
+
+Pl 0 10
+P2 l 5
+P3 2 8
+
+P4 3 6
 --- page 3 ---
 Q5
 a.   A system has 3 frames. Reference string:
@@ -361,6 +379,15 @@ and management.
 BL-5
 b.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Process|Arrival Time|Burst Time
+
+Pl 0 10
+P2 l 5
+P3 2 8
+
+P4 3 6
 --- page 3 ---
 Q5
 a.   A system has 3 frames. Reference string:
@@ -500,6 +527,16 @@ Questions:
 4. Analyze:
 ○ Which algorithm gives minimum faults?
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Process|Arrival Time|Burst Time/Priority
+
+Pl 0 8 3
+P2 | 4 |
+P3 2 9 4
+P4 3 5 2
+
+P5 4 2 5
 --- page 3 ---
 Explain I/O management in an operating system.
 Discuss I/O buffering and its types, and explain the need for buffering

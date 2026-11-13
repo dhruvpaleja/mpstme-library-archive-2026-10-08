@@ -49,6 +49,15 @@ Formulate this problem as an LP model to minimize the cost of serving.
 Sol:
 ---1M
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Decision Variables
+Let
+
+* 2, = number of 100 gm servings of Food 1 used in the mixture
+* 22 = number of 100 gm servings of Food 2 used in the mixture
+
+* 2X3 = number of 100 gm servings of Food 3 used in the mixture
 --- page 2 ---
 obj function ----1M, constraints-----3M
 b. Apples are stored in warehouses at four different locations (New York, Philadelphia,
@@ -68,6 +77,17 @@ Warehouse   2: Philadelphia   6   4   3   120
 Demand (tons)   210   100   180
 Sol:
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Final LP Model
+Minimize Z = 1.52, + 222 + 1.223
+Subject to:
+3502, + 25025 + 20023 < 300
+2502, + 300r2 + 15023 < 200
+1002; + 15022 + 7523 > 100
+75a, + 12529 + 15023 > 100
+
+21, 22,23 > 0
 --- page 3 ---
 ---4 M
 Z=400+660+40+180+180+1200 Z=2660Z = 2660Z=2660   ------1M
@@ -90,6 +110,25 @@ Sol:
 Choose Maximum of the Minimum Values
 Max(50,70,60)=70   ----------1M
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Initial Transportation Table (NWCM)
+
+Warehouse / DC Boston Detroit Miami Supply
+New York 100 0 0 100
+Philadelphia 110 10 0 120
+Atlanta i) 90 30 120
+Dallas i) 0 150 150
+
+Demand 210 100 180
+
+Minimum Payoff for Each Career
+
+Career Option Minimum Payoff
+Di min({120, 85, 50) = 50
+D2 min({110, 90, 70) = 70
+
+D3 min(100, 80, 60) = 60
 --- page 4 ---
 The Maximin value = 70 corresponds to D2 (Data Scientist).
 Sarah should choose the career path of Data Scientist.   ----------1M
@@ -170,6 +209,14 @@ Iteration 1----------------3M
 Iteration 2----------------3M
 Final ans---------------------1M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Graphical Solution of LPP: Feasible Region and Optimal Point
+
+— 5y+2y=40
+— 3x + 2y = 30
+
+Tables (x)
 --- page 7 ---
 Final ans
 Q3   20
@@ -193,6 +240,22 @@ P3   4   6   2   8
 2. Find the initial shipping cost using the Least Cost Method (LCM).
 Solution:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Cj Basic 8 12 4 0 0
+
+Variables Quantity x1 x2 x3 slack 1 slack 2
+LL
+slack 1
+0 slack 2 20 2 5 10 0 1
+Zz 0 0 0 0 0 0
+CZ}
+Iteration 2 SS
+12
+i) slack 2 5 -3 0 5 -2.5 1
+Zq 36 12 12 12 6 0
+
+cj-zi 4 0 8 6 t)
 --- page 8 ---
 1. Mathematical Formulation of the Transportation Problem
 
@@ -292,6 +355,44 @@ CO-
 K3   complete all the tasks. Based on records, the estimated time (in minutes) taken by each
 technician to complete each task is given in the following table.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+1) Maximax Decision Criterion
+
+Rule: Choose the decision with the maximum possible payoff (profit).
+
+This represents an optimistic decision maker.
+
+Step: Find Maximum Profit for Each Option
+
+Gadget Maximum Profit
+
+DI max(1200, 1000, 900) = 1200
+D2 max(1300, 1100, 800) = 1300
+D3 max(1400, 950, 850) = 1400
+
+Choose Highest Value
+max(1200, 1300, 1400) = 1400
+
+Decision: Portable Speakers (D3)
+
+2) Laplace Decision Criterion
+
+Rule: Assume all market conditions are equally likely and compute average profit.
+
+Sum of profits
+
+Average Profit = 3
+Calculations
+Gadget Calculation Average Profit
+Di (1200 + 1000 + 900) / 3 1033.33
+D2 (1300 + 1100 + 800) / 3 1066.67
+D3 (1400 + 950 + 850) / 3 1066.67
+
+Choose Highest Average Profit
+max(1033.33, 1066.67, 1066.67) = 1066.67
+
+Decision: Wireless Earbuds (D2) and Portable Speakers (D3) (tie)
 --- page 11 ---
 maintenance tasks
 technicians A   B   C   D
@@ -388,6 +489,32 @@ CO-
 1,4;   Solution:
 K3   10
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Payoff Matrix (Profit to Nova Electronics in = millions)
+
+Nova Electronics \,
+
+Zenith Systems Zi 2 B Z4 Row Minimum
+N1 -1 0 0 5 A
+
+N2 3 2 2 2 2
+
+N3 -4 -3 0 2 -4
+
+N4 5 3 -4 2 -4
+
+Column Maximum 5 3 2 5
+
+x1 X2 RHS
+
+Minimize 5 10
+
+Constraint 1 1 2 <= 120
+Constraint 2 1 1 = 60
+Constraint 3 1 2 = 0
+
+Solution-> 60 0 300
 --- page 14 ---
 Graph--------------6M
 Points--------------3M
@@ -407,6 +534,22 @@ CO-
 K2
 ---------------1M
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Multiply the first constraint by -1.
+
+—22; + 342 — 4a3 > —5
+Second constraint already satisfies the condition.
+Standard Form
+
+Zmin = 52, — Lg + 3x3
+Subject to
+
+—22, + 32. — 423 > —5
+
+@, — 2%. + 623 > 3
+
+21,22,23 > 0
 --- page 15 ---
 -------------4M
 c Mr. Anand wants to invest in one of the three options A, B, and C. The pay-off for his
@@ -426,6 +569,25 @@ K2
 ----------3M
 Q6   20
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Dual Problem
+Maximize
+Z=—5y1 + 3y2
+Subject to
+—2y + ye 55
+3y1 — 2y. < -1
+—4y, + by. <3
+
+yi,y2 20
+
+Payoff Table
+
+Strategy Inflation Recession No Change Max Min
+$1 2000 1200 1500 2000 1200
+$2 3000 800 1000 3000 800
+
+$3 2500 1000 1800 2500 1000
 --- page 16 ---
 CO-   a   Solve the following LPP graphically.
 1,4,   Max Z = x + 2 x
@@ -448,6 +610,17 @@ smartwatch yields a profit of approximately ₹1,500. Market research indicates 
 demand limits, the company can sell at most 15 smartphones and 10 smartwatches per
 week. Formulate a linear programming model to determine the number of smartphones
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+x1 X2 RHS
+
+Maximize 1 2
+
+Constraint 1 1 2 >= 100
+Constraint 2 2 -1 = 0
+Constraint 3 2 1 = 200
+
+Solution-> 0 200 400
 --- page 17 ---
 and smartwatches the firm should produce weekly to maximize total profit, considering
 the constraints on production capacity and market demand.
@@ -491,6 +664,38 @@ K2
 -------3M
 --------------1M
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+Initial Feasible Solution using Least Cost Method (LCM)
+
+From / To Mysuru (500) Prayagraj (600) Jabalpur (700) Supply
+Coimbatore 500 (500) 1100 (100) 950 (0) 600
+Visakhapatnam 600 (0) 1000 (0) 700 (700) 700
+Kanpur 850 (0) 400 (500) 600 (0) 500
+
+Demand 500 600 700 1800
+
+Payoff Matrix (for Firm A)
+
+Bi B2 B3 Row Min
+Al 12 10 8 8
+A2 14 14 10 10
+A3 16 12 15 12
+
+Column Max 16 14 15
+
+Step 1: Check Saddle Point
+
+e Maximin = max(row minima)
+= max (8, 10, 12) = 12
+
+© = =Minimax = min(column maxima)
+= min (16, 14, 15) = 14
+
+Since
+Maximin 4 Minimax
+
+No saddle point exists.
 --- page 19 ---
 Step 2: Apply Dominance Rule
 A2 ≥ A1, Since A2 dominates A1, eliminate A1.
@@ -579,6 +784,27 @@ B   30 50 60   80
 C   10 45 80   85
 Solution:
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+Regret = Maximum payoff — Actual payoff
+
+Moderate Very High EOL
+Product Low (0.25) (0.35) High (0.25) (0.15) Calculation EOL
+
+A 10 10 5 te) (10x0.25)+ 7.25
+(10*0,35)+
+(5x0.25)+
+(0x0.15)
+
+B 0 0 15 10 (0x0,.25)+ 5.25
+(0x0.35)+
+(15*0.25)+
+(10*0.15)
+
+c 20 5 ty) 5 (20%0.25)+ 7.50
+(5x0.35)+
+(00.25)+
+(5x0.15)
 --- page 22 ---
 Payoff Table (Profit in = lakhs)
 

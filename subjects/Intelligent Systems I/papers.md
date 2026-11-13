@@ -741,6 +741,13 @@ CO-3;
 SO-1 ;   [10]
 BL- 3
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+2 8 3 1 2 3
+1 6 4 8 4
+7 5 7 6 5
+
+Initial State Final State
 --- page 2 ---
 1. Compute Manhattan heuristics and misplaced tiles heuristics for the
 given initial state.
@@ -902,6 +909,13 @@ CO-3;
 SO-1 ;   [10]
 BL- 3
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+2 8 3 1 2 3
+1 6 4 8 4
+7 5 7 6 5
+
+Initial State Final State
 --- page 2 ---
 1. Compute Manhattan heuristics and misplaced tiles heuristics for the
 given initial state.

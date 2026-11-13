@@ -288,6 +288,17 @@ o Unique and difficult to forge.
 o Relatively stable over time.
 o Easy to use for fast identification.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+ROC Curve
+
+0.2
+
+Y eo ROC Curve
+oo} --- Random Classifier
+
+00 0.2 0.4 0.6 08 10
+False Positive Rate (FPR)
 --- page 7 ---
 •   Behavioural traits (e.g., voice, gait, signature):
 o Can be captured without physical contact.
@@ -354,6 +365,53 @@ Mark Bifurcation
 (a) Calculate overall FMR (5 marks)
 (b) Expected false acceptances (5 marks)
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+a) Overall FMR using OR fusion (5 marks)
+
+1. Write the OR-fusion formula (1 mark):
+
+FMRor = 1 — (1 — FMRgp) x (1 — FMRiris)
+2. Substitute numerical values (1 mark):
+
+FMR» = 4% = 0.04, FMRiris = 3% = 0.03
+
+FMRor = 1 — (1 — 0.04) x (1 — 0.03)
+3. Compute complements (0.5 mark):
+1—0.04 = 0.96, 1—0.03 = 0.97
+
+4. Multiply step by step (digit-by-digit shown) (1 mark):
+
+96 x 97
+
+0.96 x 0.97 = Too x 100
+
+Compute 96 x 97:
+96 x 97 = 96 x (100 — 3) = 9600 — 288 = 9312.
+So 0.96 x 0.97 = 9312/10000 = 0.9312.
+
+5. Final subtraction and express as percent (1.5 marks):
+
+FMRop = 1 — 0.9312 = 0.0688 = 6.88%.
+
+b) Expected number of false acceptances out of 500 impostor attempts (5 marks)
+
+1. Use expectation formula (0.5 mark):
+
+Expected false accepts = Nimpostors   FMRor
+2. Substitute values (0.5 mark):
+
+= 500 x 0.0688
+3. Multiply (1 mark):
+500 x 0.0688 = 500 x ao = aes
+Compute 500 x 688 = 344000. Then divide: 344000/10000 = 34.4.
+
+4. Interpret and round appropriately (2 marks):
+
+The expected number of false acceptances is 34.4. Since counts of accepts must be whole numbers in
+practice, we interpret this as about 34 false acceptances expected over 500 impostor attempts (or say
+
+“approximately 34-35"). The fractional expected value (34.4) is the statistical expectation.
 --- page 9 ---
 b   What is confidence interval?   10
 Q5.   A university is using face recognition for student attendance. During exams, students
@@ -515,6 +573,31 @@ Tasks:
 5.   Analyze the system’s performance, focusing on the rank-1 recognition and
 suggesting possible improvements.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+(a) Expected Fused Accuracy (Weighted Average) (3 Marks):
+Fused Accuracy = (wy - Ay) + (wi- Ai)
+= (0.6 - 0.95) + (0.4 - 0.90) = 0.57 + 0.36 = 0.93 (93%)
+
+(© Expected Fused Accuracy = 93%
+
+(b) Correct Genuine Matches and False Rejections (2 Marks):
+
+© Correct genuine matches = 93% of 1000
+1000 - 0.93 = 930
+
+e False rejections = 1000 — 930 = 70
+
+(c) Correct Impostor Rejections and False Acceptances, Interpretation (5 Marks):
+
+* Assuming fusion threshold maintains proportional rejection rates, approximate impostor rejection using
+individual accuracies:
+
+* Weighted probability of correct impostor rejection =
+0.6 - 0.95 + 0.4- 0.90 = 0.93
+
+© Correct impostor rejections = 0.93 x 600 = 558
+e False acceptances = 600 - 558 = 42
 --- page 13 ---
 Marks Bifurcation (10 Marks):
 • Cumulative Matches and Recognition Percentage – 4 Marks
@@ -1170,6 +1253,22 @@ Given:
 • Unauthorized attempts = 1000
 • Fusion type = AND fusion
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Combined Accuracy:
+Accuracyanp = Accuracy, x Accuracy
+Accuracysnp — 0.9 x 0.95 = 0.855
+
+Accuracyanp = 85.5%
+
+False Rejections:
+False Rejections = (1 — 0.855) x 1000
+= 0.145 x 1000 = 145
+
+False Acceptances:
+False Acceptances = (1 — 0.855) x 1000
+
+= 145
 --- page 14 ---
 Q6.   a   A multimodal biometric system uses weighted fusion by combining face and   10
 CO-1,   fingerprint recognition, where the face recognition system has an accuracy of 92%
@@ -1198,6 +1297,25 @@ SO-6,
 BL-2   between two fingerprint images. Further, analyze how spatial transformations
 (such as translation and rotation) and the selection of matching thresholds
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+(b) Correct Matches and False Rejections (Authorized Users)
+
+Correct Matches:
+Correct Matches — Accuracy x Authorized
+— 0.95 x 1200
+— 1140
+False Rejections:
+
+False Rejections — Authorized — Correct Matches
+— 1200 — 1140
+— 60
+
+(c) False Acceptances (Unauthorized Users)
+False Acceptances — (1 — Accuracy) x Unauthorized
+— (1—0.95) = 800
+= 0.05 x 800
+— 40
 --- page 15 ---
 influence the accuracy and overall performance of the fingerprint recognition
 system.
@@ -2012,6 +2130,22 @@ Given:
 • Unauthorized attempts = 1000
 • Fusion type = AND fusion
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Combined Accuracy:
+Accuracyanp = Accuracy, x Accuracy
+Accuracysnp — 0.9 x 0.95 = 0.855
+
+Accuracyanp = 85.5%
+
+False Rejections:
+False Rejections = (1 — 0.855) x 1000
+= 0.145 x 1000 = 145
+
+False Acceptances:
+False Acceptances = (1 — 0.855) x 1000
+
+= 145
 --- page 14 ---
 Q6.   a   A multimodal biometric system uses weighted fusion by combining face and   10
 CO-1,   fingerprint recognition, where the face recognition system has an accuracy of 92%
@@ -2040,6 +2174,25 @@ SO-6,
 BL-2   between two fingerprint images. Further, analyze how spatial transformations
 (such as translation and rotation) and the selection of matching thresholds
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+(b) Correct Matches and False Rejections (Authorized Users)
+
+Correct Matches:
+Correct Matches — Accuracy x Authorized
+— 0.95 x 1200
+— 1140
+False Rejections:
+
+False Rejections — Authorized — Correct Matches
+— 1200 — 1140
+— 60
+
+(c) False Acceptances (Unauthorized Users)
+False Acceptances — (1 — Accuracy) x Unauthorized
+— (1—0.95) = 800
+= 0.05 x 800
+— 40
 --- page 15 ---
 influence the accuracy and overall performance of the fingerprint recognition
 system.
@@ -2854,6 +3007,22 @@ Given:
 • Unauthorized attempts = 1000
 • Fusion type = AND fusion
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Combined Accuracy:
+Accuracyanp = Accuracy, x Accuracy
+Accuracysnp — 0.9 x 0.95 = 0.855
+
+Accuracyanp = 85.5%
+
+False Rejections:
+False Rejections = (1 — 0.855) x 1000
+= 0.145 x 1000 = 145
+
+False Acceptances:
+False Acceptances = (1 — 0.855) x 1000
+
+= 145
 --- page 14 ---
 Q6.   a   A multimodal biometric system uses weighted fusion by combining face and   10
 CO-1,   fingerprint recognition, where the face recognition system has an accuracy of 92%
@@ -2882,6 +3051,25 @@ SO-6,
 BL-2   between two fingerprint images. Further, analyze how spatial transformations
 (such as translation and rotation) and the selection of matching thresholds
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+(b) Correct Matches and False Rejections (Authorized Users)
+
+Correct Matches:
+Correct Matches — Accuracy x Authorized
+— 0.95 x 1200
+— 1140
+False Rejections:
+
+False Rejections — Authorized — Correct Matches
+— 1200 — 1140
+— 60
+
+(c) False Acceptances (Unauthorized Users)
+False Acceptances — (1 — Accuracy) x Unauthorized
+— (1—0.95) = 800
+= 0.05 x 800
+— 40
 --- page 15 ---
 influence the accuracy and overall performance of the fingerprint recognition
 system.
@@ -3451,6 +3639,30 @@ Systematic Errors (bias in system design):
 • Camera misalignment or poor calibration leads to incomplete iris capture,
 increasing FNMR.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Answer (Brief)
+
+Given:
+FMR (fingerprint) = 0.03
+FMR (palm vein) = 0.01
+
+(a) AND Fusion Rule:
+
+For AND fusion, a user is accepted only if both systems accept.
+Combined FMR = FMR fingerprint X FMR palmvein
+= 0.03 x 0.01 = 0.0003
+
+Combined FMR = 0.03%
+
+(b) False Acceptances for 600 Unauthorized Attempts:
+False Acceptances = 600 x 0.0003 = 0.18
+
+= 0 or 1 unauthorized access likely to be falsely accepted.
+
+(© Final Answer:
+* Combined FMR = 0.03%
+e Expected false acceptances = 1 (out of 600 attempts)
 --- page 10 ---
 •   Incorrect threshold settings or algorithmic bias may raise FMR or FNMR for
 certain users.
@@ -3651,6 +3863,19 @@ and fine-tune on a representative dataset from the office (domain adaptation).
 threshold to trade FMR/FNMR appropriately for security vs convenience. For
 identification (1:N), consider using a stricter secondary check for near-ties.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+CMC Curve
+100
+
+0
+Rank 5: 95.83%
+
+10
+
+1 2 3.4 5 6 7 8 9 10
+
+Rack.
 --- page 15 ---
 5. Multi-stage matcher (cascaded): fast lightweight matcher to shortlist +
 stronger matcher for top candidates — can improve top-1 by reducing
@@ -3667,6 +3892,7 @@ contextual signals (time/location) for fusion to increase reliability.
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_Computer_7002/Biometrics/ANS_Biometrics(702CO0E009)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Jul 2026
 - Text: text (23 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3777,6 +4003,25 @@ BL-3   2 mark for discussion
 FMR= 50/400 = 0.125
 FNMR= 150/800 = 0.185
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Enrollment Sensor Level ) B‘ =1 (8°) (“Feature ) x
+
+Begs es) | co Extractor
+
+Identity’
+Decision
+
+(up)
+
+Decision
+Module
+
+Authentication Sensor Level
+Samples, _—}] Fusion Module
+B*={B‘,, .., B’y} f.()
+
+Fig. 6.15 Information flow in multibiometric system that employs sensor-level fusion.
 --- page 4 ---
 Interpretation:
 1. False Match Rate (FMR = 12.5%)
@@ -3916,6 +4161,14 @@ Challenges due to the behavioral attributes
 • Carrying Conditions: Bags, backpacks, or objects affect walking style.
 • Clothing Variations: Loose or bulky clothes distort body shape.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Biometric Fusion
+
+Prior to matching After matching
+
+Sensor | | Feature Score Rank Decisia
+Level Level Level Level Level
 --- page 8 ---
 • Emotional State: Stress or fatigue changes natural gait.
 • Surface and Footwear: Different terrains or shoes impact walking patterns.
@@ -4020,6 +4273,31 @@ to determine whether it is genuine or fraudulent. A dataset containing the
 biometric scores and their corresponding ground truth labels (legitimate or
 fraudulent) is provided in Table 1.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Ridge orientation and frequency estimation
+
+* Ridge pattern in a local area of a finger can be approximated by a cosine wave
+w(x,y) =Acos(27 fo(xcos 6 + ysin@))
+
+where A, fo, and 8 denote the amplitude, frequency, and orientation of the cosine wave.
+* Then, the 2D Fourier transform of the cosine wave is given by
+A . _ . _
+
+* It consists of a pair of impulses located at (fp cos® , fy sin® ) and (- fy cos® ,- fo sin@ ).
+
+* The parameters of the cosine wave can be easily obtained by detecting the maximum value of the magnitude
+spectrum.
+
+* Let (a, 0) denote the location of the maximum magnitude. ~
+
+* The parameters of the cosine wave are given by: A=|W(a,%)|,
+
+~ ~
+6 = arctan (=) , and
+ii
+
+Fourier transform gives information about the frequency content of the image.
 --- page 11 ---
 Using the data given in Table 1, infer the following tasks:
 1. Construct the Receiver Operating Characteristic (ROC) curve for the
@@ -4201,6 +4479,26 @@ characteristic
 – One would want to minimize the objections of the users to the
 measuring/collection of the biometric
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Aspect Physiological Biometrics Behavioral Biometrics
+
+Definition Based on physical characteristics that are Based on patterns of human behavior, whic!
+unique and stable over time can change over time
+
+Uniqueness & Highly unique and remains stable Unique but can vary due to mood, health, or
+
+Stability throughout life environmental factors
+
+Acquisition Requires physical scanning (e.g., fingerprint Captured through sensors, cameras, or
+
+Method scanner, iris scanner) software-based analysis
+
+Resistance to Difficult to forge (e.g., fingerprint and iris More vulnerable to mimicry and spoofing
+
+Spoofing patterns are hard to replicate) (e.g., voice and signature forgery)
+
+Examples Fingerprint recognition, Iris recognition Gait recognition, Keystroke dynamics
 --- page 16 ---
 b A university has implemented a biometric identification system to verify the   10
 identity of students during examinations. The system compares a probe
@@ -4339,6 +4637,45 @@ two feature vectors might lead to the curse-of-dimensionality problem, where
 increasing the number of features might actually degrade the system performance
 especially in the presence of small number of training samples.
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+Fingerprint
+
+Sample A Minutiae Set A
+2 ~
+ee oo
+=
+
+Minutiae Mosaicing
+
+Fingerprint
+Sample B
+
+Minutiae Set B
+
+4 ~
+i » pe
+ap Free
+ae? 2 aa
+<< * y ~ Match Identity
+ro a Score Decision
+a 1 e---e .
+at Se 1 1 i} 1
+a ne \! matchy !
+1
+da iy —, x 1 | Non-match |
+P po ' 1 1 1
+- ret eee t----- 4
+Lan? * 2 omg
+= =
+25°
+
+Fused Minutiae
+Set
+
+Fig. 6.18 Illustration of a homogeneous feature fusion (template improvement) scheme where
+minutia sets extracted from multiple impressions of the same finger are reconciled to generate a
+larger minutia set.
 --- page 20 ---
 4. Most commercial biometric systems do not provide access to the feature sets
 used in their products due to proprietary reasons.
@@ -4368,6 +4705,25 @@ Texture based approach : in forensics for finer skin details.
 Q7.   a   Explain the role of ROC and DET curves for evaluating the performance of a   10
 CO-1,3,   biometric system. For the images given below, compare the performance of
 ********** 20 **********
+
+[Text in pictures on this page, read by OCR]
+Face Recognition
+
+Appearance-based Model-based Texture-based
+
+2D 3D Gradient
+
+Non-linear
+
+Sub-space cc T Orientation
+
+Elastic Bunch Active
+Graph Appearance
+Matching Model
+
+Principal linear Independent
+Component Discriminant Component Morphable
+Analysis Analysis Analysis Model
 --- page 21 ---
 SO-2,   the two biometric systems. (you may label the curves as system as 1 and 2 for
 BL-4   comparison)
@@ -4400,6 +4756,47 @@ system errors. It plots:
 •   False Match Rate (FMR / FAR)
 •   False Non-Match Rate (FNMR / FRR)
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+Detection Error Tradeoff (DET) curves
+
+—— Linear SVM
+99% —— Random Forest
+
+5 95%
+
+e
+& 80%
+50%
+=
+
+20%
+BD
+
+5%
+
+1%
+
+1% 5% 20% 50% 80% 95% 99%
+False Positive Rate (Positive label: 1)
+
+10
+
+08
+
+5 0.6
+
+0.4
+
+0.0
+
+Receiver Operating Characteristic (ROC) curves
+
+—— Linear SVM (AUC = 0.96)
+——— Random Forest (AUC = 0.99)
+
+0.0 0.2 04 0.6 08 10
+False Positive Rate (Positive label: 1)
 --- page 22 ---
 Both axes are usually shown in logarithmic scale, making the error trade-offs easier
 to observe.
@@ -4433,6 +4830,20 @@ Marks:
 •   In the case of Fig.(a), the confidence intervals are narrow, implying that the
 ROC curves are very reliable.
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+100
+
+95)
+
+90
+
+ROC Curve
+
+1.0 10.0 100.0
+False match rate
+
+(a) Non-overlapping confidence intervals.
 --- page 23 ---
 • The intervals between the two curves do not overlap, so the claim that
 “System A has higher verification rates than System B” is statistically

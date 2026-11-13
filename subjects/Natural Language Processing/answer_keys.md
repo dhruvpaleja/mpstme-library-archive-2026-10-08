@@ -418,6 +418,13 @@ cleaning and transforming unstructured text data to prepare it for analysis.
 Text data contains noise in various forms like emoticons, punctuations, text in
 a different cases, HTML tags etc.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+(b) cos(teacher, board)
+e Dot = (1x1 + 1x0 + 0x1 + 0x0) =1
+e |teacher| = V2 = 1.414
+© [board] = V(12+02+12+02) = V2 = 1.414
+e Cos=1/(1.414x1.414)=1/2=0.5
 --- page 10 ---
 Inadequate or low-quality data can lead to lower accuracy and effectiveness of
 the model.
@@ -2233,6 +2240,13 @@ cleaning and transforming unstructured text data to prepare it for analysis.
 Text data contains noise in various forms like emoticons, punctuations, text in
 a different cases, HTML tags etc.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+(b) cos(teacher, board)
+e Dot = (1x1 + 1x0 + 0x1 + 0x0) =1
+e |teacher| = V2 = 1.414
+© [board] = V(12+02+12+02) = V2 = 1.414
+e Cos=1/(1.414x1.414)=1/2=0.5
 --- page 10 ---
 Inadequate or low-quality data can lead to lower accuracy and effectiveness of
 the model.
@@ -2647,6 +2661,18 @@ Total (10 M)
 Q5 a) Formula to calculate TF and IDF
 Here doc A refer Sentence A and doc B refer Sentence B
 Alternate solution for Q5b
+
+[Text in pictures on this page, read by OCR]
+Tr(a) =(
+
+Total Number of time term t is present in doc A
+Total number of tokens in doc A
+
+IDF(t) = log ( Total Documents
+
+Number of documents term t is present in
+
+TF - IDF =TF(t,d) «IDF (t)
 ````
 
 ## 2025-26 · Final-Exam · Sem 5 · Answer key · paper 5811d7382fb9
@@ -3065,6 +3091,13 @@ cleaning and transforming unstructured text data to prepare it for analysis.
 Text data contains noise in various forms like emoticons, punctuations, text in
 a different cases, HTML tags etc.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+(b) cos(teacher, board)
+e Dot = (1x1 + 1x0 + 0x1 + 0x0) =1
+e |teacher| = V2 = 1.414
+© [board] = V(12+02+12+02) = V2 = 1.414
+e Cos=1/(1.414x1.414)=1/2=0.5
 --- page 10 ---
 Inadequate or low-quality data can lead to lower accuracy and effectiveness of
 the model.
@@ -3478,6 +3511,18 @@ part (iii): 3 M
 Total (10 M)
 Q5 a) Formula to calculate TF and IDF
 Here doc A refer Sentence A and doc B refer Sentence B
+
+[Text in pictures on this page, read by OCR]
+Tr(a) =(
+
+Total Number of time term t is present in doc A
+Total number of tokens in doc A
+
+IDF(t) = log ( Total Documents
+
+Number of documents term t is present in
+
+TF - IDF =TF(t,d) «IDF (t)
 ````
 
 ## 2025-26 · Final-Exam · Sem 7 · Answer key · paper 117d60339db1
@@ -3896,6 +3941,13 @@ cleaning and transforming unstructured text data to prepare it for analysis.
 Text data contains noise in various forms like emoticons, punctuations, text in
 a different cases, HTML tags etc.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+(b) cos(teacher, board)
+e Dot = (1x1 + 1x0 + 0x1 + 0x0) =1
+e |teacher| = V2 = 1.414
+© [board] = V(12+02+12+02) = V2 = 1.414
+e Cos=1/(1.414x1.414)=1/2=0.5
 --- page 10 ---
 Inadequate or low-quality data can lead to lower accuracy and effectiveness of
 the model.
@@ -4717,6 +4769,13 @@ cleaning and transforming unstructured text data to prepare it for analysis.
 Text data contains noise in various forms like emoticons, punctuations, text in
 a different cases, HTML tags etc.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+(b) cos(teacher, board)
+e Dot = (1x1 + 1x0 + 0x1 + 0x0) =1
+e |teacher| = V2 = 1.414
+© [board] = V(12+02+12+02) = V2 = 1.414
+e Cos=1/(1.414x1.414)=1/2=0.5
 --- page 10 ---
 Inadequate or low-quality data can lead to lower accuracy and effectiveness of
 the model.
@@ -5588,6 +5647,13 @@ Rule-based approach: uses syntactic/linguistic rules like gender/number
 agreement, recency, and binding theory. (1.5 marks)
 Advantage: interpretable and linguistically motivated. (1 mark)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+(c) cos(farmer, plant)
+e Dot = (2x2 +0x0+0x1+1x1)=4+0+0+1=5
+e |farmer| = V5 = 2.236
+e |plant| = v(2? + 0? + 1? + 17) = V6 x 2.449
+© Cos =5/ (2.236 x 2.449) = 5/5477 = 0.944
 --- page 14 ---
 Neural/deep learning approach: uses contextual embeddings (e.g., BERT)
 and end-to-end models to learn pronoun resolution from data. (1.5 marks)
@@ -6241,6 +6307,13 @@ Rule-based approach: uses syntactic/linguistic rules like gender/number
 agreement, recency, and binding theory. (1.5 marks)
 Advantage: interpretable and linguistically motivated. (1 mark)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+(c) cos(farmer, plant)
+e Dot = (2x2 +0x0+0x1+1x1)=4+0+0+1=5
+e |farmer| = V5 = 2.236
+e |plant| = v(2? + 0? + 1? + 17) = V6 x 2.449
+© Cos =5/ (2.236 x 2.449) = 5/5477 = 0.944
 --- page 14 ---
 Neural/deep learning approach: uses contextual embeddings (e.g., BERT)
 and end-to-end models to learn pronoun resolution from data. (1.5 marks)
@@ -6894,6 +6967,13 @@ Rule-based approach: uses syntactic/linguistic rules like gender/number
 agreement, recency, and binding theory. (1.5 marks)
 Advantage: interpretable and linguistically motivated. (1 mark)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+(c) cos(farmer, plant)
+e Dot = (2x2 +0x0+0x1+1x1)=4+0+0+1=5
+e |farmer| = V5 = 2.236
+e |plant| = v(2? + 0? + 1? + 17) = V6 x 2.449
+© Cos =5/ (2.236 x 2.449) = 5/5477 = 0.944
 --- page 14 ---
 Neural/deep learning approach: uses contextual embeddings (e.g., BERT)
 and end-to-end models to learn pronoun resolution from data. (1.5 marks)
@@ -7547,6 +7627,13 @@ Rule-based approach: uses syntactic/linguistic rules like gender/number
 agreement, recency, and binding theory. (1.5 marks)
 Advantage: interpretable and linguistically motivated. (1 mark)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+(c) cos(farmer, plant)
+e Dot = (2x2 +0x0+0x1+1x1)=4+0+0+1=5
+e |farmer| = V5 = 2.236
+e |plant| = v(2? + 0? + 1? + 17) = V6 x 2.449
+© Cos =5/ (2.236 x 2.449) = 5/5477 = 0.944
 --- page 14 ---
 Neural/deep learning approach: uses contextual embeddings (e.g., BERT)
 and end-to-end models to learn pronoun resolution from data. (1.5 marks)
@@ -8200,6 +8287,13 @@ Rule-based approach: uses syntactic/linguistic rules like gender/number
 agreement, recency, and binding theory. (1.5 marks)
 Advantage: interpretable and linguistically motivated. (1 mark)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+(c) cos(farmer, plant)
+e Dot = (2x2 +0x0+0x1+1x1)=4+0+0+1=5
+e |farmer| = V5 = 2.236
+e |plant| = v(2? + 0? + 1? + 17) = V6 x 2.449
+© Cos =5/ (2.236 x 2.449) = 5/5477 = 0.944
 --- page 14 ---
 Neural/deep learning approach: uses contextual embeddings (e.g., BERT)
 and end-to-end models to learn pronoun resolution from data. (1.5 marks)
@@ -8853,6 +8947,13 @@ Rule-based approach: uses syntactic/linguistic rules like gender/number
 agreement, recency, and binding theory. (1.5 marks)
 Advantage: interpretable and linguistically motivated. (1 mark)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+(c) cos(farmer, plant)
+e Dot = (2x2 +0x0+0x1+1x1)=4+0+0+1=5
+e |farmer| = V5 = 2.236
+e |plant| = v(2? + 0? + 1? + 17) = V6 x 2.449
+© Cos =5/ (2.236 x 2.449) = 5/5477 = 0.944
 --- page 14 ---
 Neural/deep learning approach: uses contextual embeddings (e.g., BERT)
 and end-to-end models to learn pronoun resolution from data. (1.5 marks)
@@ -9506,6 +9607,13 @@ Rule-based approach: uses syntactic/linguistic rules like gender/number
 agreement, recency, and binding theory. (1.5 marks)
 Advantage: interpretable and linguistically motivated. (1 mark)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+(c) cos(farmer, plant)
+e Dot = (2x2 +0x0+0x1+1x1)=4+0+0+1=5
+e |farmer| = V5 = 2.236
+e |plant| = v(2? + 0? + 1? + 17) = V6 x 2.449
+© Cos =5/ (2.236 x 2.449) = 5/5477 = 0.944
 --- page 14 ---
 Neural/deep learning approach: uses contextual embeddings (e.g., BERT)
 and end-to-end models to learn pronoun resolution from data. (1.5 marks)
@@ -10159,6 +10267,13 @@ Rule-based approach: uses syntactic/linguistic rules like gender/number
 agreement, recency, and binding theory. (1.5 marks)
 Advantage: interpretable and linguistically motivated. (1 mark)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+(c) cos(farmer, plant)
+e Dot = (2x2 +0x0+0x1+1x1)=4+0+0+1=5
+e |farmer| = V5 = 2.236
+e |plant| = v(2? + 0? + 1? + 17) = V6 x 2.449
+© Cos =5/ (2.236 x 2.449) = 5/5477 = 0.944
 --- page 14 ---
 Neural/deep learning approach: uses contextual embeddings (e.g., BERT)
 and end-to-end models to learn pronoun resolution from data. (1.5 marks)
@@ -10812,6 +10927,13 @@ Rule-based approach: uses syntactic/linguistic rules like gender/number
 agreement, recency, and binding theory. (1.5 marks)
 Advantage: interpretable and linguistically motivated. (1 mark)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+(c) cos(farmer, plant)
+e Dot = (2x2 +0x0+0x1+1x1)=4+0+0+1=5
+e |farmer| = V5 = 2.236
+e |plant| = v(2? + 0? + 1? + 17) = V6 x 2.449
+© Cos =5/ (2.236 x 2.449) = 5/5477 = 0.944
 --- page 14 ---
 Neural/deep learning approach: uses contextual embeddings (e.g., BERT)
 and end-to-end models to learn pronoun resolution from data. (1.5 marks)

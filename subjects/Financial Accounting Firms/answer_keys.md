@@ -30,6 +30,31 @@ Instructions:
 6. All the workings should form part of your answers.
 1.   15
 Page 1 of 7
+
+[Text in pictures on this page, read by OCR]
+Trading Account for the year ended 31-03-2025 3 Marks
+
+Particulars zg zg Particulars zg zg
+To Opening Stock 2,70,000 | By Sales 11,58,000
+To Purchases 4,35,000
+To Wages 1,44,000
+To Carriage Inward 48,000 | By closing Stock 1,86,000
+To Gross Profit c/d 4,47,000
+13,44,000 13,44,000
+Profit and Loss Account for the year ended 31-03-2025 _5 Marks
+Particulars zg zg Particulars z z
+To Rent, Rates and Taxes 93,000 | By Gross profit b/d 4,47,000
+To Salaries 1,62,000
+To Office Expenses 37,500
+To Bad Debts 18,000
+Add: Further RDD 9,300
+bee Provision for Doubtful 9,000 18,300
+To Depreciation on
+fonittre 10,500
+To Bank Charges 15,000
+To Net profit c/d (12:8:5) 1,10,700
+
+4,47,000 4,47,000
 --- page 2 ---
 Partner’s Capital Account 2 Marks
 To drawings 1,50,000 | 75,000 12,000 | By Balance B/d 4,32,000 1,68,000 | 84,000

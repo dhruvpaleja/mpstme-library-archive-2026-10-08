@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_08/Final-Exam/MBATech_AI_7051/Applied Time Series Analysis/ANS_Applied Time Series Analysis(702DB0E007)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 May 2026
 - Text: mixed (19 pages), mean OCR confidence 79.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -213,6 +214,35 @@ Synoptic Answer
 1. Hypotheses: 1 Mark
 •   𝐻0: Series is non-stationary (has unit root)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Component form
+
+Forecast Yernlt = 4 + hb
+Level C= aye + (1 — a)(C-4 + By-1)
+Trend be = B' (lp — Cea) + (1 — 8) bes,
+
+& Two smoothing parameters « and /3* (0 < a, 3* < 1).
+
+u (, level: weighted average between y; and one-step ahead
+forecast for time t, (/:-1 + bra = Yejt-1)
+
+u b; slope: weighted average of ((; — (;-1) and by_4, current and
+previous estimate of slope.
+
+u Choose a, 3*, (9, by to minimise SSE.
+
+Holt and Winters extended Holt’s method to capture seasonality.
+C= (Yt — Stem) + (1 — a)(Cp1 + bys)
+be = Ble — G-a) + (1 -— B)Op-1
+
+St = Vt — f-1 — be-1) + (1 — 7)St-m
+
+uk =integer part of (h — 1)/m. Ensures estimates from the final year are used
+for forecasting.
+
+m Parameters: O0<a <1,0< 3* <1,0< 7<1-a andm= period of
+seasonality (e.g. m = 4 for quarterly data).
 --- page 7 ---
 •   𝐻1: Series is stationary
 2. Decision using Test Statistic: ---(2 marks)
@@ -241,6 +271,24 @@ BL-
 SO-
 1
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+2. ARIMA (3,1,2)(1,2,1)12 (3 Marks)
+(1 — ¢B — $B? — $3B*) (1 — 6B”) (1— B)(1- BY PY;
+= (1+ 0B + 0B") (1+ OB”) e;
+
+Explanation:
+¢ Non-seasonal AR(3), MA(2), differencing d = 1
+¢ Seasonal AR(1), MA(1), seasonal differencing D = 2, period s = 12
+
+3. ARIMA (4,2,3) (2 Marks)
+(1 — ¢1B — ¢2B? — $3B* — ¢4B*) (1— B)’Y:
+= (1+ 0B + 0.B? + 03B%) &,
+
+Explanation:
+¢ AR(4), MA(3), differencing d = 2
+
+e No seasonal component
 --- page 8 ---
 Parameter estimation ]
 
@@ -292,6 +340,29 @@ Synoptic answer:
 •   H1: Residuals are autocorrelated
 2. Test Statistic Formula (1 Mark):
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Maximum likelihood estimation ]
+
+Suppose that X,, Xo,...,X;, is drawn from a zero mean Gaussian
+ARMA\(p,q) process. The likelihood of parameters @ € R?, 0 € R®,
+a2, € R, is defined as the density of X = (X1, X2,...,X,)/ under the
+
+Gaussian model with those parameters:
+
+1
+
+L(¢,6,02,) = —————
+( ) apr,
+
+1
+exp (-x'1"x) ;
+where |A] denotes the determinant of a matrix A, and I’), is the
+
+variance/covariance matrix of X with the given parameter values.
+
+The maximum likelihood estimator (MLE) of @, 0, 02, maximizes this
+quantity.
 --- page 10 ---
 Q4   A After first differencing, the following patterns are observed:   5
 CO-   • ACF: Significant spikes at lag 1 and lag 2, then cuts off
@@ -325,6 +396,21 @@ SARIMA(p,d,q)(P,D,   Seasonal   ( d, D )
 Seasonal ARIMA   Yes
 Q)(_s)   data   differencing
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+3, Calculation (2 Marks):
+
+(0.40)? (0.10)?
+
+Q = 10(10 +2) ra th =
+
+010 0.01
+= 120 in ae
+
+9
+Q = 120 (0.01778 + 0.00125]
+
+Q = 120 x 0.01903 = 2.2836 = 2.28
 --- page 11 ---
 CO- C   i.   Explain the idea of time-series regression with a suitable example and a clear   10
 3   equation and interpret the meaning of each term in the model.
@@ -336,6 +422,38 @@ SO-   formulas, and briefly interpret what each measure tells you about the mode
 1   performance.
 1. Idea of Time Series Regression (2 Marks)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+2. ARMA Model (1 Mark)
+
+Example: ARMA(1,1})
+(1- dB)¥, = (1+ Byer
+
+* Combines AR and MA terms for stationary series
+
+4, SARIMA Model (1 Mark)
+Example: SARIMA(1,1,1)(1,1,1))9
+
+(1 ~ 6,B)(1 - &,B")(1— B)(1- BY )Y, = (1+ 0,B)(1 + O,B™)e,
+
+* Captures trend + seasonality
+
+Time series regression models the relationship between a dependent time series and one or more
+explanatory variables (which may also vary over time).
+
+Example & Equation:
+Y= By + AX + er
+
+Interpretation:
+
+© Ye Dependent variable at time ¢ (e.g., sales)
+
+¢ X;: Independent variable (e.g., temperature, advertising)
+Bo: Intercept (baseline level)
+
+© By: Effect of X; on ¥;
+
+© €,: Error term (random noise)
 --- page 12 ---
 2. Assumptions of Linear Time Series Regression (4 Marks)
 
@@ -414,6 +532,23 @@ Answer the questions below:
 4. Comment on whether the selected model changes when using AIC vs AICc.
 AIC & AICc Model Selection
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+1, Autoregression vs Multiple Regression (2.5 Marks)
+
+Basis Autoregression (AR) Multiple Regression
+Definition (1 Mark) Uses past values of same variable Uses multiple independent variables
+Equation (0.75 Mark) Y= OY ate + Meg +e Y= By + BX y + BoXy +++ +e
+
+Dependence (0.75 Mark) Depends on its own past values Depends on external predictors
+
+2. Autoregression vs Moving Average (2.5 Marks)
+
+Basis Autoregression (AR) Moving Average (MA)
+Definition (1 Mark) Depends on past values of series Depends on past error terms
+Equation (0.75 Mark) Y= OYatess +et Ye=ert+ erate
+
+Interpretation (0.75 Mark) Captures persistence in data Captures shock/error effects
 --- page 14 ---
 AICc Calculation (2 Marks):
 Model Selection (0.5 Mark):
@@ -428,6 +563,33 @@ SO-
 1
 4 Marks
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+3. AIC Calculation (1.5 Marks):
+e ARIMA(1.1,1):
+
+AIC = 220 + 2(3) = 226
+© ARIMA(2.1.2):
+
+AIC = 220 + 2(5) = 230
+© ARIMA(3.1.1):
+
+AIC = 220 + 2(5) = 230
+
+e ARIMA(1,1,1):
+
+2(3)(4) 24
+AlCe = 226 + —“) _ _ 996 + = = 226.67
+© + 70-31 + 36
+© ARIMA(2,1,2):
+2(5)(6) 60
+AlCe = 230 + 2") _ 930 4 2° = 231.
+Ce = 230 + FP = 230 + 5 = 231.76
+
+° ARIMA(3,1,1):
+
+‘0
+AlCe = 230 + ~ = 231.76
 --- page 15 ---
 3 Marks
 3 marks
@@ -559,6 +721,27 @@ patterns.
 VAR models multiple time series variables together, where each variable depends on its own
 past values and past values of other variables.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+(c) Trend Component (1 Mark):
+Piecewise Linear Trend:
+
+g(t) = (k + a(t)" 6)t + (m + a(t)? 7)
+
+e k: Growth rate
+ee om: Offset
+© a(t): Indicator for change points
+
+© 6,7: Adjustments
+
+(d) Seasonality Component (1 Mark):
+Modeled using Fourier series:
+
+s(t) = > [-. cos (=) +b, sin (*3*)|
+
+n=1
+
+e P: Period (e.g., 12 for monthly data)
 --- page 19 ---
 (d) Interpretation (1 Mark):
 •   Each variable depends on its own past + others’ past
@@ -764,6 +947,47 @@ Conclusion (1 Mark)
 Residuals are uncorrelated (white noise) up to lag 2. The ARIMA model is
 adequate.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+4. Significance of Terms (2 Marks)
+e AY, = Y, — Y;-1: First difference (removes non-stationarity)
+e Y;_1: Lagged level term (tests for unit root)
+° +: Key parameter — ify = 0, unit root exists
+¢ 9: Constant (captures mean level)
+¢ yt: Trend component (captures deterministic trend)
+¢ Sa;AY,_;: Lagged differences (removes autocorrelation)
+
+© = &;: White noise error term
+
+2. Ljung-Box Test Statistic (2 Marks)
+
+m
+
+( >> Pi
+Q=n(n+2 —
+mink
+
+Given:
+n= 10, m= 2, pi = 0.35, po = 0.15
+
+Q = 10(12) E =]
+
+9° 8
+
+122. 022
+= 120]° 5 0.0! |
+
+9° 8
+= 120(0.0136 + 0.0028) = 120(0.0164) = 1.97
+
+3. Decision Rule (1 Mark)
+
+Critical value:
+2
+X0.05,2 = 5-99
+Since:
+
+Q=1.97 < 5.99
 --- page 8 ---
 Q4   A After applying first-order differencing to a time series, the following observations 5
 CO-1   are made:
@@ -839,6 +1063,15 @@ CO-3   each parameter of the same model.
 BL-5
 SO-1
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+1. SARIMA Model Equation (2 Marks)
+
+A Seasonal ARIMA model is written as:
+SARIMA(p, d, q)(P, D, Q)s
+General equation:
+
+@(B) ®,(B*) (1 — B)“(1 — B*)?X, = O(B) ©,(B*) &
 --- page 10 ---
 CO-3 B A researcher fits three competing time series models to quarterly demand data. 5
 BL-5   The estimated number of parameters (including variance) and log-likelihood
@@ -861,6 +1094,24 @@ Model B   5   -90   190   192.5
 Model C   7   -88   190   195.0909
 ---------3 marks
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+2. Components & Parameters (3 Marks)
+ep: Order of non-seasonal AR terms (depends on past values)
+e d: Number of non-seasonal differences (removes trend)
+eq: Order of non-seasonal MA terms (depends on past errors)
+e P: Seasonal AR terms (captures seasonal dependence)
+e D: Seasonal differencing (removes seasonality)
+¢ Q: Seasonal MA terms (seasonal shocks)
+¢ —s: Seasonal period (e.g., 12 for monthly data)
+e (B): Non-seasonal AR polynomial
+¢ ,(B*): Seasonal AR polynomial
+e ©(B):Non-seasonal MA polynomial
+* ©,(B*): Seasonal MA polynomial
+* (1 — B)#: Removes trend
+¢ (1 — B*)?: Removes seasonal pattern
+
+¢ &,: White noise error
 --- page 11 ---
 Model selection changes slightly → AICc prefers Model B due to penalty for
 more parameters.
@@ -877,6 +1128,22 @@ importance in time series forecasting.
 ---- 2 marks
 ----- 2 Marks
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+General Structure of ARIMA(2,1,2)
+AR (AutoRegressive) part:
+
+Depends on past values
+
+®, X11, P2Xy-2
+| (Integrated) part:
+First differencing to remove non-stationarity
+
+(1 _ B)X, = X; _ X34
+MA (Moving Average) part:
+Depends on past errors
+
+O1€;-1, O2€1-2
 --- page 12 ---
 Step 2: Expand the Equation
 First expand the left-hand side:
@@ -1097,6 +1364,57 @@ o Easy to model using standard seasonal methods (e.g., SARIMA)
 o Multiple seasonal patterns present simultaneously
 o Example: Daily data with weekly + yearly seasonality
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+2. Adjust Level 2 Forecasts (Subgroups under A and B)
+For Group A (AA, AB, AC):
+
+Initial Sum for Group A: 700
+
+Calculate Proportions:
+
+Yas, 300
+
+Pay = 244 = —— ~ 0.429
+44700 ~ 700
+Yan _ 250
+
+Pay = == ~ 0.357
+48 "700 ~ 700
+y 7 5
+
+Pyo = Yet = BO Loy
+
+700 700
+
+Adjust Forecasts for Subgroups: Now, we adjust the forecasts based on the new forecast for Group
+A (619):
+
+Yaay = Pas x Yas = 0.429 x 619 © 265.57 © 266
+Vans = Pan x Yay = 0.357 x 619 © 220.57 © 221
+
+Vacu = Pac x Yay =
+
+.214 x 619 + 132.86 = 133
+
+Check Sum for Group A:
+Vasu + Vane + Yacu = 266 +221 + 133 = 620
+For Group B (BA, BB):
+Initial Sum for Group B: 450
+Calculate Proportions:
+
+_ 200
+
+Ppa = Fy © 4
+250
+Paw = 459 — 450 ~ 0556
+
+Adjust Forecasts for Subgroups: Now, we adjust the forecasts based on the new forecast for Group
+8B (381)
+
+Yay = Ppa   Ypy = 0.444 x 381 ~ 169.524 ~ 170
+
+Yupy = Paw x Yn. = 0.556 x 381 © 211.476 © 211
 --- page 18 ---
 o More difficult to model
 Difference:
@@ -1115,6 +1433,18 @@ o Does not capture interaction between variables
 o Multivariate
 o Captures interdependence among variables
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+¢ VAR is a multivariate time series model
+¢ Each variable depends on its own past values and past values of other variables
+
+General form:
+Y, = c+ AyYi-1 + Ao¥i-2 + +++ + ApYi-p + €t
+
+Where:
+e   Y;: Vector of variables
+e Aj: Coefficient matrices
+© e,: Error term
 ````
 
 ## 2023-24 · Final-Exam · Sem 7 · Answer key · paper 3e293bd7d8fc
@@ -1124,6 +1454,7 @@ o Captures interdependence among variables
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_AIML_7053/Applied Time Series Analysis/ANS_Applied Time Series Analysis(702DB0E007)_2025-2026.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: mixed (14 pages), mean OCR confidence 87.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -1407,6 +1738,37 @@ CO-3;   justification. Consider the original data is differenced 2 times.
 SO-2;
 BL-4
 7
+
+[Text in pictures on this page, read by OCR]
+The procedure is most easily understood via an example. We will illustrate it using a
+ARIMA(3,1,1) model which can be written as follows:
+
+(1— 6, B— $.B? — $,B°)(1 — B)ye = (1+ O1B)er.
+Then we expand the left hand side to obtain
+[2 — (1+ 6))B+ ($1 — $2)B? + (by — $4) BY + 4B" Ye = (1+ Oi B)er,
+and applying the backshift operator gives
+ye — (1+ dy) yea + (b1 — $a) ye-2 + (b2 — ba) 9-3 + Gaya = 20 + Pree.
+Finally, we move all terms other than y; to the right hand side:
+
+Ye = (1+ d:)ya1 — (b1 — $2)ye-2 — (b — b)¢e-a — bayea tert Oierr. (9.5)
+
+For the second step, we replace t with T + lin (9.5):
+
+
+Assuming we have observations up to time T,, all values on the right hand side are known
+except for ¢7,1, which we replace with zero, and ¢7, which we replace with the last observed
+residual er:
+
+Gra = (1+ d:)ur — (b1 — bo)yr—1 — (bo — b3)yr-2 — dayr-s + Orer.
+
+A forecast of yr+2 is obtained by replacing t with T + 2 in (9.5) . All values on the right hand
+side will be known at time T except yr+1 which we replace with Orsiyr> and ey; and e7+1,
+both of which we replace with zero:
+
+Urs2\7 =(1+ éy)9rvyr ~ (41 ~ bo)ur ~ (5 ~ s)yr—1 ~ bayr-2-
+
+The process continues in this manner for all future time periods. In this way, any number of
+point forecasts can be obtained.
 --- page 8 ---
 2. Suppose the differenced series shows an ACF that tails off gradually, while
 PACF cuts off sharply after lag 1. Propose the most likely ARIMA structure
@@ -1467,6 +1829,20 @@ Due to borderline results, it is advisable to perform further differencing
 once and/or check stationarity visually (plots) and with other tests. Only
 after confirming stationarity should ARIMA or other forecasting models
 9
+
+[Text in pictures on this page, read by OCR]
+1. The estimated coefficients Bo, sees By, are no longer the best estimates, as some
+information has been ignored in the calculation;
+
+2. Any statistical tests associated with the model (e.g., t-tests on the coefficients) will be
+incorrect.
+
+3. The AICc values of the fitted models are no longer a good guide as to which is the best
+model for forecasting.
+
+4. In most cases, the p-values associated with the coefficients will be too small, and so some
+predictor variables will appear to be important when they are not. This is known as
+“spurious regression”.
 --- page 10 ---
 be applied. Nonstationary series need differencing to avoid spurious
 forecasting results. (+1 marks)
@@ -1626,6 +2002,54 @@ CO-4;   [10]
 ARIMA class of models?
 SO-2;
 13
+
+[Text in pictures on this page, read by OCR]
+2. Adjust Level 2 Forecasts (Subgroups under A and B)
+For Group A (AA, AB, AC):
+
+Initial Sum for Group A: 700
+
+Calculate Proportions:
+
+300
+~ 700
+
+& 0.429
+
+250
+~ 700
+150
+
+Pac = 700 ~ 700 ~ 0.214
+
+& 0.357
+
+Adjust Forecasts for Subgroups: Now, we adjust the forecasts based on the new forecast for Group
+A (619):
+
+Vase = Pas x Yay = 0.429 x 619 ~ 265.57 © 266
+Vane = Pan x Yay = 0.357 619 © 220.57 © 221
+
+Vacy = Pac x Yay = 0.214 x 619 © 132.86 © 133
+
+Check Sum for Group A:
+Vasu + Vane + Yacu = 266 +221 + 133 = 620
+For Group B (BA, BB):
+Initial Sum for Group B: 450
+Calculate Proportions:
+
+_ 200
+
+Ppa = Fy © 4
+250
+Paw = 459 — 450 ~ 0556
+
+Adjust Forecasts for Subgroups: Now, we adjust the forecasts based on the new forecast for Group
+8B (381)
+
+Yay = Ppa   Ypy = 0.444 x 381 ~ 169.524 ~ 170
+
+Yupy = Paw x Yn. = 0.556 x 381 © 211.476 © 211
 --- page 14 ---
 BL-2
 Section   Marks

@@ -753,6 +753,25 @@ ii) Explain how you would use a clustering algorithm to segment the
 customers into groups based on their purchasing behaviour (Income and
 Spending Score). Describe the steps and a suitable algorithm.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Record Number A B
+R1 1.0 1.0
+R2 1.5 2.0
+R3 3.0 4.0
+R4 5.0 7.0
+R5 3.5 5.0
+RG 4.5 5.0
+R7 3.5 4.5
+
+Past Trend Open Interest Trading Volume Return
+
+Up High High Profit
+Up High Low Profit
+Down Low High Loss
+Down High Low Loss
+
+Up Low High Profit
 --- page 4 ---
 b. Solve the 8-Queens problem using backtracking. Show the stepwise
 assignments of the first 4 queens. Identify where backtracking occurs.
@@ -1700,6 +1719,19 @@ THEN rules from your decision tree for predicting Return.
 b. Explain the components of a Rule-Based Expert System and illustrate
 its working with a neat diagram.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Applicant CreditHistory Income Collateral ApproveLoan
+
+1 Good High Yes Yes
+2 Good High No Yes
+3 Fair High Yes Yes
+4 Poor Medium Yes No
+5 Poor Low No No
+6 Fair Medium No Yes
+7 Fair Low No No
+
+8 Good Medium Yes Yes
 --- page 4 ---
 a. A dataset contains information about 120 students of a university.
 The attributes are:
@@ -1861,6 +1893,19 @@ THEN rules from your decision tree for predicting Return.
 b. Explain the components of a Rule-Based Expert System and illustrate
 its working with a neat diagram.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Applicant CreditHistory Income Collateral ApproveLoan
+
+1 Good High Yes Yes
+2 Good High No Yes
+3 Fair High Yes Yes
+4 Poor Medium Yes No
+5 Poor Low No No
+6 Fair Medium No Yes
+7 Fair Low No No
+
+8 Good Medium Yes Yes
 --- page 4 ---
 a. A dataset contains information about 120 students of a university.
 The attributes are:
@@ -1987,6 +2032,27 @@ criteria gets promoted.
 bonus.
 (viii) Bob exceeds targets.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+h(n)
+
+target node node Heuristic distance to
+
+target node
+
+ee 0) 20
+
+node/
+
+4 Ne vertex ; 1 7
+
+Aa >» 3 10
+
+start node
+
+weight/cost 4 4
+/distance
+5 0
 --- page 3 ---
 Prove ‘Bob receives Bonus’ using Resolution Graph.
 b. Write down the rules converting FOL in CNF.
@@ -2027,6 +2093,16 @@ BL-3, 3   centroids.
 b. Design a rule-based expert system for diagnosing common
 cold vs flu (include rules and inference process).
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Past Trend Open Interest Trading Volume Return
+
+Up High High Profit
+Up High Low Profit
+Down Low High Loss
+Down High Low Loss
+
+Up Low High Profit
 ````
 
 ## 2025-26 · Re-Exam · Sem 6 · paper 222b82270fc4
@@ -2307,6 +2383,19 @@ THEN rules from your decision tree for predicting Return.
 b. Explain the components of a Rule-Based Expert System and illustrate
 its working with a neat diagram.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Applicant CreditHistory Income Collateral ApproveLoan
+
+1 Good High Yes Yes
+2 Good High No Yes
+3 Fair High Yes Yes
+4 Poor Medium Yes No
+5 Poor Low No No
+6 Fair Medium No Yes
+7 Fair Low No No
+
+8 Good Medium Yes Yes
 --- page 4 ---
 a. A dataset contains information about 120 students of a university.
 The attributes are:

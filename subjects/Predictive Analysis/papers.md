@@ -730,6 +730,23 @@ graph, and what insights can you draw from their distribution?
 CO-4; SO-1;   d. Explain any two limitations of neural network models and propose a   [05]
 BL-3,4   method or approach to address at least one of these limitations.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Frequency of Median Home Value Region
+Frequency
+
+2,500
+
+2,000
+
+1,500
+
+1,000
+
+500
+
+$100,000 $200,000 $300,000 $400,000 $500,000 $600,000
+Median Home Value Region
 --- page 2 ---
 Q2   Demonstrate the Model essential’s part with reference to the given
 CO-2; SO-1;   a. figure of optimize Complexity: Tune Models with Validate Data for the   [10]
@@ -745,6 +762,20 @@ leads to an optimal subset of predictors.
 Support your explanation with a diagram or flow showing each stage of
 backward selection.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Model Selection
+
+Training Data Validation Data
+
+“1
+
+A todsor
+|
+| a toddor
+
+Select the simplest model with the Model Validation
+highest validation assessment. Complexity Assessment
 --- page 3 ---
 Q3   Explain in brief about the model essentials, Predict New Cases: Neural
 CO-4; SO-1;   b.   [10]
@@ -767,6 +798,17 @@ CO-4; SO-1;   a. discussing its key model essentials - Predict New Cases, Select
 BL-4,   Inputs, and Optimize Complexity. Additionally, outline the major steps
 involved in the Least Angle Regression algorithm.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Assessment Measures
+
+Prediction Type Fit Statistic
+> Decisions leant
+D> Rankings ROC Index
+8 Gini Coefficient
+> Estimates Average Squared Error
+
+RMSE/SBC/AIC/Likelihood
 --- page 4 ---
 Q6   Evaluate the Ensemble Model using the provided figure of ROC curve and
 CO-3; SO-1;   b. Cumulative Lift chart. Compare its performance with other individual   [10]

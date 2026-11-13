@@ -1089,6 +1089,19 @@ station to another as it moves. This process is crucial for maintaining uninterr
 during calls or data sessions, as users travel or change locations.
 1.Hard Handoff:
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Trusted Execution Environment
+
+Feature (TEE) Secure Enclave
+Location Inside the main processor Separate co-processor
+Protection High Higher
+
+Level
+
+Purpose Secure app execution Secure keys &
+
+biometrics
 --- page 3 ---
 1.In a hard handoff, the device loses its connection to the first cell tower before connecting to the next
 one. This type of handoff is usually seen in older 2G or 3G networks.
@@ -1352,6 +1365,24 @@ involved.
 🔹 Steps:
 ✅ Seize and Isolate Devices – Use Faraday bags to block remote access.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Attack Name Method Used Impact Affected Devices
+
+BlueBorne Remote code execution via Device takeover, malware Android, iOS, Windows,
+Bluetooth vulnerability injection Linux
+BIAS Attack Impersonation of trusted devices Unauthorized access Bluetooth 4.2 & older
+Bluesnarfing Unauthorized data retrieval Data theft (contacts, SMS, Older mobile phones
+files)
+Bluebugging Remote control of mobile device Calls, texts, internet access Bluetooth 1.x, 2.x phones
+hijacked
+MITM Attack _Intercepting Bluetooth Eavesdropping, data theft Weakly encrypted
+communication Bluetooth connections
+BLE Fake BLE devices trick phones Phishing, tracking loT, BLE-enabled devices
+Spoofing
+DoS Attack Signal jamming Bluetooth device All Bluetooth-enabled
+
+disruption devices
 --- page 11 ---
 ✅ Identify Communication Channels – Check for emails, messaging apps, cloud storage, USB transfers.
 ✅ Clone Device Memory (Forensic Imaging) – Create a bit-by-bit copy to maintain original data integrity.
@@ -1601,4 +1632,25 @@ ChatStorage.sqlite (iOS).
 ● Cloud Backups – Google Drive (Android) & iCloud (iOS).
 ● Encryption Keys – Found in /data/data/com.whatsapp/files/key (Android, requires root).
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Android Security iOS Security
+
+App Sandboxing Linux-based, per-app UID Stricter sandboxing, XPC for inter-app
+
+communication
+
+File Access Scoped storage, per-app private Full file isolation, access via APIs only
+data
+
+Permissions Runtime & manifest-based Explicit approval, enforced at all levels
+
+Malware Google Play Protect, SafetyNet App Store screening, notarization
+
+Protection
+
+Secure Boot Verified Boot with rollback Secure Enclave for cryptographic security
+protection
+
+Encryption File-Based Encryption (FBE) Hardware-backed File Encryption
 ````

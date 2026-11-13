@@ -2894,6 +2894,17 @@ Q5   a.   Write the Bankers algorithm. Consider the following snapshot of the   
 CO-2;   system in which there are five process and four resources A, B, C and D
 SO-2;
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Process Id Arrival time Burst time
+
+Pl 5 5
+P2 4 6
+P3 3 7
+P4 1 9
+PS 2 2
+
+P6 6 3
 --- page 3 ---
 BL-6
 Max   Allocation   Available

@@ -203,7 +203,7 @@ RK KKK RK KK 22 2h KKK RK Kk KK
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_CS_7055/Complex Variables and Transforms/ANS_Complex Variables and Transforms(702BS0C080)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
 - Text: mixed (19 pages), mean OCR confidence 44.0
-- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -449,6 +449,34 @@ over (0,2𝜋).
 [8]
 y'''(t )- 3y ''( t ) + 3y '( t )- y ( t ) = t 2 e t , where y ( 0 ) = 0 , y '( 0 ) = 0 , y ''( 0 ) = 2
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Let fp(x) = cos(nz) and fm(x) = sin(mx) and m £ n.
+Qn
+I= | cos(nx) cos(mzx) dx
+0
+
+Using the identity cos A cos B = }{cos(A — B) + cos(A + B)],
+
+. . on
+
+(n—m) (n+m)
+
+Ifm =n #0, then
+
+_ 1 —i1 sin(na) or
+I -[ cos" (na) dr = 5/, [1 + cos(2na)| dx = 3 [- on |, =7 (2M)
+
+Form=n=0 on
+1=[ Idx = 2x (1M)
+0
+Hence
+on 0, msn
+| cos(mx) cos(nz)dx = 47, m=nZ0
+0
+2x7, m=n=0
+
+Therefore the set of functions S is orthogonal over the interval (0,27). (1M)
 --- page 10 ---
 U zZ t
 ya) ay") + 3y(t) yt) ~te ——_<x)
@@ -787,7 +815,7 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_Computer_7002/Complex Variables and Transforms/ANS_Complex Variables and Transforms(702BS0C080)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
 - Text: mixed (19 pages), mean OCR confidence 44.6
-- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -1030,6 +1058,34 @@ over (0,2𝜋).
 [8]
 y'''(t )- 3y ''( t ) + 3y '( t )- y ( t ) = t 2 e t , where y ( 0 ) = 0 , y '( 0 ) = 0 , y ''( 0 ) = 2
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Let fp(x) = cos(nz) and fm(x) = sin(mx) and m £ n.
+Qn
+I= | cos(nx) cos(mzx) dx
+0
+
+Using the identity cos A cos B = }{cos(A — B) + cos(A + B)],
+
+. . on
+
+(n—m) (n+m)
+
+Ifm =n #0, then
+
+_ 1 —i1 sin(na) or
+I -[ cos" (na) dr = 5/, [1 + cos(2na)| dx = 3 [- on |, =7 (2M)
+
+Form=n=0 on
+1=[ Idx = 2x (1M)
+0
+Hence
+on 0, msn
+| cos(mx) cos(nz)dx = 47, m=nZ0
+0
+2x7, m=n=0
+
+Therefore the set of functions S is orthogonal over the interval (0,27). (1M)
 --- page 10 ---
 U zZ t
 ya) ay") + 3y(t) yt) ~te ——_<x)
@@ -1578,6 +1634,26 @@ Alternate: By cross ratio Property
 over (0,2𝜋).
 [6]
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+z+0
+Solution: Let w = = - 7 where ad — be # 0 be the bilinear transformation that maps the
+
+points z = 2,1,00 into the points w = 2, 00,3 respectively.
+When 2 = 2 and w = 2:
+
+2a + b = 4c + 2d. — —--—-—--- (1) {1 Mark]
+When z = 1 and w = oo:
+d=~¢.—----------- (2) [1 Mark
+When z= 00 and w = 3:
+a=3e——-—-—-—----— (3) {1 Mark]
+Substituting (2) and (3) in (1), we obtain
+= —4¢—- —- —--------- (4) {1 Mark|
+
+Hence, using equations (2),(3) and (4), the bilinear transformation can be computed as
+
+32—
+w= — ‘ [2 Marks]
 --- page 9 ---
 ….(1)
 Hence
@@ -1586,6 +1662,17 @@ The given function is orthogonal.   …(1)
 [8]
 y'''(t )- 3y ''( t ) + 3y '( t )- y ( t ) = t 2 e t , where y ( 0 ) = 0 , y '( 0 ) = 0 , y ''( 0 ) = 2
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+I = § fy" [cos(n — m)x + cos(n + m)z] de = | [Soom 4 suintmie]™ _ 9 (2M)
+If m=n #0, then
+
+(nx)]*
+2n |, =e (2M)
+
+al a2
+= 2 id a
+1=[ cos*(na) de = 5 f [1+ ox(2ne)] de = 5 | -
 --- page 10 ---
 U z t
 ya) ay") + 3y(t) yt) ~te ——_<x)
@@ -1914,7 +2001,7 @@ to “Lc ®
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/MBATech_Computer_7047/Complex Variables and Transforms/ANS_Complex Variables and Transforms(702BS0C080)_2025-2026_ae18ef0be2.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
 - Text: mixed (19 pages), mean OCR confidence 44.0
-- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -2160,6 +2247,34 @@ over (0,2𝜋).
 [8]
 y'''(t )- 3y ''( t ) + 3y '( t )- y ( t ) = t 2 e t , where y ( 0 ) = 0 , y '( 0 ) = 0 , y ''( 0 ) = 2
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Let fp(x) = cos(nz) and fm(x) = sin(mx) and m £ n.
+Qn
+I= | cos(nx) cos(mzx) dx
+0
+
+Using the identity cos A cos B = }{cos(A — B) + cos(A + B)],
+
+. . on
+
+(n—m) (n+m)
+
+Ifm =n #0, then
+
+_ 1 —i1 sin(na) or
+I -[ cos" (na) dr = 5/, [1 + cos(2na)| dx = 3 [- on |, =7 (2M)
+
+Form=n=0 on
+1=[ Idx = 2x (1M)
+0
+Hence
+on 0, msn
+| cos(mx) cos(nz)dx = 47, m=nZ0
+0
+2x7, m=n=0
+
+Therefore the set of functions S is orthogonal over the interval (0,27). (1M)
 --- page 10 ---
 U zZ t
 ya) ay") + 3y(t) yt) ~te ——_<x)
@@ -2498,7 +2613,7 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/MBATech_Computer_7047/Complex Variables and Transforms/ANS_Complex Variables and Transforms(702BS0C080)_2025-2026pdf_ae18ef0b`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
 - Text: mixed (19 pages), mean OCR confidence 44.0
-- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -2744,6 +2859,34 @@ over (0,2𝜋).
 [8]
 y'''(t )- 3y ''( t ) + 3y '( t )- y ( t ) = t 2 e t , where y ( 0 ) = 0 , y '( 0 ) = 0 , y ''( 0 ) = 2
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Let fp(x) = cos(nz) and fm(x) = sin(mx) and m £ n.
+Qn
+I= | cos(nx) cos(mzx) dx
+0
+
+Using the identity cos A cos B = }{cos(A — B) + cos(A + B)],
+
+. . on
+
+(n—m) (n+m)
+
+Ifm =n #0, then
+
+_ 1 —i1 sin(na) or
+I -[ cos" (na) dr = 5/, [1 + cos(2na)| dx = 3 [- on |, =7 (2M)
+
+Form=n=0 on
+1=[ Idx = 2x (1M)
+0
+Hence
+on 0, msn
+| cos(mx) cos(nz)dx = 47, m=nZ0
+0
+2x7, m=n=0
+
+Therefore the set of functions S is orthogonal over the interval (0,27). (1M)
 --- page 10 ---
 U zZ t
 ya) ay") + 3y(t) yt) ~te ——_<x)
@@ -3082,7 +3225,7 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_08/Final-Exam/Integrated_Computer_7032/Complex Variables and Transforms/ANS_Complex Variables and Transforms(702BS0C057)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
 - Text: mixed (19 pages), mean OCR confidence 44.0
-- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -3328,6 +3471,34 @@ over (0,2𝜋).
 [8]
 y'''(t )- 3y ''( t ) + 3y '( t )- y ( t ) = t 2 e t , where y ( 0 ) = 0 , y '( 0 ) = 0 , y ''( 0 ) = 2
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Let fp(x) = cos(nz) and fm(x) = sin(mx) and m £ n.
+Qn
+I= | cos(nx) cos(mzx) dx
+0
+
+Using the identity cos A cos B = }{cos(A — B) + cos(A + B)],
+
+. . on
+
+(n—m) (n+m)
+
+Ifm =n #0, then
+
+_ 1 —i1 sin(na) or
+I -[ cos" (na) dr = 5/, [1 + cos(2na)| dx = 3 [- on |, =7 (2M)
+
+Form=n=0 on
+1=[ Idx = 2x (1M)
+0
+Hence
+on 0, msn
+| cos(mx) cos(nz)dx = 47, m=nZ0
+0
+2x7, m=n=0
+
+Therefore the set of functions S is orthogonal over the interval (0,27). (1M)
 --- page 10 ---
 U zZ t
 ya) ay") + 3y(t) yt) ~te ——_<x)
@@ -5073,6 +5244,30 @@ Evaluate    2 dz ,where C is the circle   by calculating residues
 C (2 z − 3)( z + 1)   [8]
 at its poles.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+2(a). Find the image of the circle (x — 3)? + y? = 9 under the transformation w = i
+
+Solution: The circle (x — 3)? + y° = 9 can be expressed as [2 — 3) = 3. —— |1 Mark]
+
+We have to find the image of this circle under w = > For this, 2 = T and let w= u-+ iv.
+
+|z-3|=3
+=> |n-3]=3 —-------- [1 Mark]
+1
+= |——-3|/=3
+utw
+
+=> |1-3(u+ iv)| = 3]ut in|
+= (L—3u)? $ Qe? = 9(u? 4 0)
+
+2 Mark}
+
+=> l1-tu=0
+1
+= uae
+
+. The image of the circle (x — 3)? + y? = 9 under the transformation w = i isu= = [2 Mark]
 --- page 5 ---
 92 6) a ee er
 ‘ re & zee Bnle J-@)
@@ -5121,6 +5316,38 @@ points w = i ,0, − i respectively.
 2   [6]
 f 1 ( x ) = 6, f 2 ( x ) = 4 x , f 3 ( x ) = Ax − 1 are orthogonal to each other over ( − 1,1)
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+A(a). Find the bilinear transformation which maps the points z = 1,i,—1 into the points
+w = i, 0, —i respectively.
+
+az+b
+
+Solution: Let w = , where ad — be # 0 be the bilinear transformation that maps the
+
+cz
+points z = 1,i,—1 into the points w = i,0,—i respectively.
+When z = | and w =i:
+
+a+b—ic— id =0----—--- (1) {1 Mark]
+When z =i and w =0:
+
+b= -ia—-—-——-—--—----— (2) {1 Mark]
+When 2 = —1 and w= -i:
+
+a—b+ic—id=0—-—------ (3) {1 Mark|
+Adding Equations (1) and (3), we obtain
+
+d=~iq—--------~-- (4) (1 Mark]
+
+Subtracting Equations (1) and (3) and then using equation (2), we obtain
+c= -a————-~~~—~—~-~— (5) {1 Mark|
+Hence, using equations (2),(4) and (5), the bilinear transformation can be computed as
+
+i-z
+i+z
+
+{1 Mark}
 --- page 8 ---
 4c   Determine the solution of the differential equation using Laplace Transform
 dy   t   [8]
@@ -5137,6 +5364,27 @@ Partial fraction decomposition-2 marks
 Q5   Apply inverse Laplace transform on the function   2   [6]
 (s+4)(s +9)
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Question 4.b) Find the value of A so that f;(x) = 6, fo(x) = 4x and f,(x) = Ax? —1
+are orthogonal over the interval (—1, 1).
+
+Solution:
+
+If fg(x) is orthogonal to fo(x):
+
+1 1
+
+/ (4)(Az? — 1) dr -/ (4Ar? —42)dr=0 (1M)
+-1 “1
+
+Because 4Ar* and —4r are both odd functions. (1M)
+
+Now, we set the integral of the product of fi(x) and f(x) to zero:
+
+[40 -yar=0=6 ae] =(4-1)-(441) (2M)
+
+= 74a <0 = 2A a2 = 24=6 = A=3 (2M)
 --- page 9 ---
 …….(1)
 …. (1)
@@ -5218,6 +5466,32 @@ Using the relation tan − 1  − tan − 1  = tan − 1   − �
 We get 1   tan − 1 ( s + 1) − tan − 1 ( s − 1)   = tan − 1  2     ….(2)
 2    s 2 
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+* 2. Fourier Cosine Transform (4 Marks)
+
+Step 1: Definition (1 Mark)
+
+1
+F,(n) -/ e™* cos (naa) dr
+0
+
+Step 2: Use standard integral (1 Mark)
+
+Bd
+
+ar 7 - oo e are 1 4
+[e cos(bar) dx aE ple cos ba + bsin br)
+
+Step 3: Apply limits (1 Mark)
+Ata — 1,0, using
+cosnm = (—1)", sinnaw — 0
+
+Step 4: Final Answer (1 Mark)
+
+Fi(n) = (e*(-1)" — 1)
+
+a? +n? wn?
 --- page 12 ---
  e − 2 t sinht sint   1   − 1   1  
 Putting s = 2, we get    dt =   tan   ( 1 ) =  =   ..(1)
@@ -5403,6 +5677,30 @@ Evaluate    2 dz ,where C is the circle   by calculating residues
 C (2 z − 3)( z + 1)   [8]
 at its poles.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+2(a). Find the image of the circle (x — 3)? + y? = 9 under the transformation w = i
+
+Solution: The circle (x — 3)? + y° = 9 can be expressed as [2 — 3) = 3. —— |1 Mark]
+
+We have to find the image of this circle under w = > For this, 2 = T and let w= u-+ iv.
+
+|z-3|=3
+=> |n-3]=3 —-------- [1 Mark]
+1
+= |——-3|/=3
+utw
+
+=> |1-3(u+ iv)| = 3]ut in|
+= (L—3u)? $ Qe? = 9(u? 4 0)
+
+2 Mark}
+
+=> l1-tu=0
+1
+= uae
+
+. The image of the circle (x — 3)? + y? = 9 under the transformation w = i isu= = [2 Mark]
 --- page 5 ---
 92 6) a ee er
 ‘ re & zee Bnle J-@)
@@ -5451,6 +5749,38 @@ points w = i ,0, − i respectively.
 2   [6]
 f 1 ( x ) = 6, f 2 ( x ) = 4 x , f 3 ( x ) = Ax − 1 are orthogonal to each other over ( − 1,1)
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+A(a). Find the bilinear transformation which maps the points z = 1,i,—1 into the points
+w = i, 0, —i respectively.
+
+az+b
+
+Solution: Let w = , where ad — be # 0 be the bilinear transformation that maps the
+
+cz
+points z = 1,i,—1 into the points w = i,0,—i respectively.
+When z = | and w =i:
+
+a+b—ic— id =0----—--- (1) {1 Mark]
+When z =i and w =0:
+
+b= -ia—-—-——-—--—----— (2) {1 Mark]
+When 2 = —1 and w= -i:
+
+a—b+ic—id=0—-—------ (3) {1 Mark|
+Adding Equations (1) and (3), we obtain
+
+d=~iq—--------~-- (4) (1 Mark]
+
+Subtracting Equations (1) and (3) and then using equation (2), we obtain
+c= -a————-~~~—~—~-~— (5) {1 Mark|
+Hence, using equations (2),(4) and (5), the bilinear transformation can be computed as
+
+i-z
+i+z
+
+{1 Mark}
 --- page 8 ---
 4c   Determine the solution of the differential equation using Laplace Transform
 dy   t   [8]
@@ -5467,6 +5797,27 @@ Partial fraction decomposition-2 marks
 Q5   Apply inverse Laplace transform on the function   2   [6]
 (s+4)(s +9)
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Question 4.b) Find the value of A so that f;(x) = 6, fo(x) = 4x and f,(x) = Ax? —1
+are orthogonal over the interval (—1, 1).
+
+Solution:
+
+If fg(x) is orthogonal to fo(x):
+
+1 1
+
+/ (4)(Az? — 1) dr -/ (4Ar? —42)dr=0 (1M)
+-1 “1
+
+Because 4Ar* and —4r are both odd functions. (1M)
+
+Now, we set the integral of the product of fi(x) and f(x) to zero:
+
+[40 -yar=0=6 ae] =(4-1)-(441) (2M)
+
+= 74a <0 = 2A a2 = 24=6 = A=3 (2M)
 --- page 9 ---
 …….(1)
 …. (1)
@@ -5548,6 +5899,32 @@ Using the relation tan − 1  − tan − 1  = tan − 1   − �
 We get 1   tan − 1 ( s + 1) − tan − 1 ( s − 1)   = tan − 1  2     ….(2)
 2    s 2 
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+* 2. Fourier Cosine Transform (4 Marks)
+
+Step 1: Definition (1 Mark)
+
+1
+F,(n) -/ e™* cos (naa) dr
+0
+
+Step 2: Use standard integral (1 Mark)
+
+Bd
+
+ar 7 - oo e are 1 4
+[e cos(bar) dx aE ple cos ba + bsin br)
+
+Step 3: Apply limits (1 Mark)
+Ata — 1,0, using
+cosnm = (—1)", sinnaw — 0
+
+Step 4: Final Answer (1 Mark)
+
+Fi(n) = (e*(-1)" — 1)
+
+a? +n? wn?
 --- page 12 ---
  e − 2 t sinht sint   1   − 1   1  
 Putting s = 2, we get    dt =   tan   ( 1 ) =  =   ..(1)
@@ -6067,6 +6444,30 @@ Evaluate    2 dz ,where C is the circle   by calculating residues
 C (2 z − 3)( z + 1)   [8]
 at its poles.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+2(a). Find the image of the circle (x — 3)? + y? = 9 under the transformation w = i
+
+Solution: The circle (x — 3)? + y° = 9 can be expressed as [2 — 3) = 3. —— |1 Mark]
+
+We have to find the image of this circle under w = > For this, 2 = T and let w= u-+ iv.
+
+|z-3|=3
+=> |n-3]=3 —-------- [1 Mark]
+1
+= |——-3|/=3
+utw
+
+=> |1-3(u+ iv)| = 3]ut in|
+= (L—3u)? $ Qe? = 9(u? 4 0)
+
+2 Mark}
+
+=> l1-tu=0
+1
+= uae
+
+. The image of the circle (x — 3)? + y? = 9 under the transformation w = i isu= = [2 Mark]
 --- page 5 ---
 92 6) a ee er
 ‘ re & zee Bnle J-@)
@@ -6115,6 +6516,38 @@ points w = i ,0, − i respectively.
 2   [6]
 f 1 ( x ) = 6, f 2 ( x ) = 4 x , f 3 ( x ) = Ax − 1 are orthogonal to each other over ( − 1,1)
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+A(a). Find the bilinear transformation which maps the points z = 1,i,—1 into the points
+w = i, 0, —i respectively.
+
+az+b
+
+Solution: Let w = , where ad — be # 0 be the bilinear transformation that maps the
+
+cz
+points z = 1,i,—1 into the points w = i,0,—i respectively.
+When z = | and w =i:
+
+a+b—ic— id =0----—--- (1) {1 Mark]
+When z =i and w =0:
+
+b= -ia—-—-——-—--—----— (2) {1 Mark]
+When 2 = —1 and w= -i:
+
+a—b+ic—id=0—-—------ (3) {1 Mark|
+Adding Equations (1) and (3), we obtain
+
+d=~iq—--------~-- (4) (1 Mark]
+
+Subtracting Equations (1) and (3) and then using equation (2), we obtain
+c= -a————-~~~—~—~-~— (5) {1 Mark|
+Hence, using equations (2),(4) and (5), the bilinear transformation can be computed as
+
+i-z
+i+z
+
+{1 Mark}
 --- page 8 ---
 4c   Determine the solution of the differential equation using Laplace Transform
 dy   t   [8]
@@ -6131,6 +6564,27 @@ Partial fraction decomposition-2 marks
 Q5   Apply inverse Laplace transform on the function   2   [6]
 (s+4)(s +9)
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Question 4.b) Find the value of A so that f;(x) = 6, fo(x) = 4x and f,(x) = Ax? —1
+are orthogonal over the interval (—1, 1).
+
+Solution:
+
+If fg(x) is orthogonal to fo(x):
+
+1 1
+
+/ (4)(Az? — 1) dr -/ (4Ar? —42)dr=0 (1M)
+-1 “1
+
+Because 4Ar* and —4r are both odd functions. (1M)
+
+Now, we set the integral of the product of fi(x) and f(x) to zero:
+
+[40 -yar=0=6 ae] =(4-1)-(441) (2M)
+
+= 74a <0 = 2A a2 = 24=6 = A=3 (2M)
 --- page 9 ---
 …….(1)
 …. (1)
@@ -6212,6 +6666,32 @@ Using the relation tan − 1  − tan − 1  = tan − 1   − �
 We get 1   tan − 1 ( s + 1) − tan − 1 ( s − 1)   = tan − 1  2     ….(2)
 2    s 2 
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+* 2. Fourier Cosine Transform (4 Marks)
+
+Step 1: Definition (1 Mark)
+
+1
+F,(n) -/ e™* cos (naa) dr
+0
+
+Step 2: Use standard integral (1 Mark)
+
+Bd
+
+ar 7 - oo e are 1 4
+[e cos(bar) dx aE ple cos ba + bsin br)
+
+Step 3: Apply limits (1 Mark)
+Ata — 1,0, using
+cosnm = (—1)", sinnaw — 0
+
+Step 4: Final Answer (1 Mark)
+
+Fi(n) = (e*(-1)" — 1)
+
+a? +n? wn?
 --- page 12 ---
  e − 2 t sinht sint   1   − 1   1  
 Putting s = 2, we get    dt =   tan   ( 1 ) =  =   ..(1)

@@ -52,6 +52,16 @@ CO-1
 BL-remember, Write short notes on “Price Bundling”.   [3]
 Understand
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Month Orders Month Orders
+
+January 120 June 50
+February 90 July 75
+March 100 August 130
+April 715 September 110
+
+May 110 October 90
 --- page 2 ---
 Q2
 What is Data Analytics? What are the types of Data Analytics? Explain Descriptive   [10]
@@ -109,6 +119,17 @@ CO-1; SO-;
 BL- Evaluate,
 Understand
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+PERIOD UNITS
+
+1 56
+2 61
+3 55
+4 70
+5 66
+6 65
+7 72
 ````
 
 ## 2025-26 · Final-Exam · Sem 9 · paper 473d74197061
@@ -159,6 +180,16 @@ CO-1
 BL-remember, Write short notes on “Price Bundling”.   [3]
 Understand
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Month Orders Month Orders
+
+January 120 June 50
+February 90 July 75
+March 100 August 130
+April 715 September 110
+
+May 110 October 90
 --- page 2 ---
 Q2
 What is Data Analytics? What are the types of Data Analytics? Explain Descriptive   [10]
@@ -216,6 +247,17 @@ CO-1; SO-;
 BL- Evaluate,
 Understand
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+PERIOD UNITS
+
+1 56
+2 61
+3 55
+4 70
+5 66
+6 65
+7 72
 ````
 
 ## 2025-26 · Final-Exam · Sem 9 · paper b118a25b06d7
@@ -266,6 +308,16 @@ CO-1
 BL-remember, Write short notes on “Price Bundling”.   [3]
 Understand
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Month Orders Month Orders
+
+January 120 June 50
+February 90 July 75
+March 100 August 130
+April 715 September 110
+
+May 110 October 90
 --- page 2 ---
 Q2
 What is Data Analytics? What are the types of Data Analytics? Explain Descriptive   [10]
@@ -323,6 +375,17 @@ CO-1; SO-;
 BL- Evaluate,
 Understand
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+PERIOD UNITS
+
+1 56
+2 61
+3 55
+4 70
+5 66
+6 65
+7 72
 ````
 
 ## 2025-26 · Final-Exam · Sem 9 · paper 93c3aa05f296
@@ -373,6 +436,16 @@ CO-1
 BL-remember, Write short notes on “Price Bundling”.   [3]
 Understand
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Month Orders Month Orders
+
+January 120 June 50
+February 90 July 75
+March 100 August 130
+April 715 September 110
+
+May 110 October 90
 --- page 2 ---
 Q2
 What is Data Analytics? What are the types of Data Analytics? Explain Descriptive   [10]
@@ -430,6 +503,17 @@ CO-1; SO-;
 BL- Evaluate,
 Understand
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+PERIOD UNITS
+
+1 56
+2 61
+3 55
+4 70
+5 66
+6 65
+7 72
 ````
 
 ## 2025-26 · Final-Exam · Sem 9 · paper 7696aaf7391a
@@ -480,6 +564,16 @@ CO-1
 BL-remember, Write short notes on “Price Bundling”.   [3]
 Understand
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Month Orders Month Orders
+
+January 120 June 50
+February 90 July 75
+March 100 August 130
+April 715 September 110
+
+May 110 October 90
 --- page 2 ---
 Q2
 What is Data Analytics? What are the types of Data Analytics? Explain Descriptive   [10]
@@ -537,6 +631,17 @@ CO-1; SO-;
 BL- Evaluate,
 Understand
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+PERIOD UNITS
+
+1 56
+2 61
+3 55
+4 70
+5 66
+6 65
+7 72
 ````
 
 ## 2025-26 · Re-Exam · Sem 9 · paper 013203184407
@@ -624,6 +729,26 @@ CO-1; SO-;
 BL- Evaluate,
 Understand
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Demand (1000s) per Quarter
+
+Year 1 2 3 4
+2008 12.6 8.6 6.3 17.5
+2009 14.1 10.3 75 18.2
+
+2010 15.3 10.6 8.1 19.6
+
+Demand for Repair and Service Calls
+
+Period Month Demand Period Month Demand
+1 January 37 7 July 43
+2 February 40 8 August 47
+3 March 41 9 September 56
+4 April 37 10 October 52
+5 May 45 11 November 55
+
+6 June 50 12 December 54
 ````
 
 ## 2024-25 · Final-Exam · Sem 10 · paper ca38a4b71e5d

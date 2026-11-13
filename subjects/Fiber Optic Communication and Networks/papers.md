@@ -1,6 +1,6 @@
 # Fiber Optic Communication and Networks: question papers in full
 
-16 unique papers · 2021-22 to 2025-26 · Electronics and Telecommunication
+20 unique papers · 2021-22 to 2025-26 · Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1221,6 +1221,182 @@ CO-2; $O-1; c Compare EDFA and Raman amplifier. [04]
 BL-2
 ````
 
+## 2022-23 · Final-Exam · Sem 8 · paper 0976f5f46fec
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: EXTC/SEMESTER VIII/FIBER OPTIC COMMUNICATION AND NETWORKS/Fiber_Optic_Communication_and_Networks__Sem-VIII__Year_2022-23__Final_Exam_JkekQh9Rx9.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 91.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN
+Academic Year: 2022-2023
+
+Program/s: B-Tech ; Year: [V Semester: VIII ~~
+Stream/s ; EXTC
+
+Subject: Fiber Optic Communication and Networks Time: 03 hrs (49am to 1 pm )
+7
+
+Date:_20 /04 / 2023 No. of Pages: 0 2
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Qi Answer briefly: (20)
+
+00-1: 80-4 Derive an expression for numerical aperture in terms of acceptance angle with
+-1; SO- 1; a
+
+. (4)
+
+BL-2 . diagram?
+
+wy SO- 1; b. | Differentiate between linear scattering and nonlinear scattering losses. [4]
+
+oe by SO-1; c. | Discuss the advantages and drawbacks of LED over LASER. [4]
+
+‘aa SO-1; d. | Write a short note on responsivity with respect to optical detector? [4]
+
+CO- 4; SO- . .
+
+li: e. Explain the elements of optical network. [4]
+_ BL-2
+
+Q2 .
+
+CO-1: $O-1: a Describe with detailed block diagram optical fiber communication system. [10]
+
+BL-2
+
+Q2
+
+CO-1; SO-1; b Explain Rayleigh Scattering and Mie scattering in detail. [10]
+
+BL-2
+
+Q3
+
+C0-2: 80-1; a Discuss the Raman fiber amplifier in detail? [10]
+
+BL-2
+
+Q3 Design the link power budget. In an optical fiber link the source is emitting Odbm
+
+CO-3; SO-6; b and receiver power requirement is -57dbm.It is required to leave 5db power [10]
+
+BL-6
+
+margin. The losses at transmitter and receiver ports are 6db each. Two connector
+--- page 2 ---
+with 1db each and S5slices with -Sdb loss each are used. Fiber attenuation has
+
+2db/km. Calculate link budget.
+
+Q4
+
+CO-2; SO-1;
+BL-2
+
+Explain construction and working of Avalanche Photodetector with suitable
+
+diagrams.
+
+[10]
+
+Q4
+
+CO-2; SO-1;
+BL-2
+
+With the help of neat diagram explain construction and working of Fabry Perot
+
+Laser diode.
+
+[10]
+
+Q5
+
+CO-4; SO-1;
+BL-2
+
+Discuss the soliton based communication in detail?
+
+[10]
+
+Q5
+
+CO-1; SO-6;
+BL-3
+
+Define Critical angle and Acceptance angle.
+Solve. The velocity of light in the core of a step index fiber is 2.01* 108m/s and
+
+the critical angie at the core cladding interface is 800. Determine the numerical
+aperture and the acceptance angle for the fiber in air. The velocity of light in
+
+vacuum is 2.998*108m/s.
+
+[10]
+
+Q6
+
+CO-1; SO-1;
+BL-1,2
+
+Define Splicing. Explain the fusion splicing in detail.
+
+[10]
+
+Q6
+
+CO-3; SO-1;
+BL-2
+
+Discuss with the help of a suitable diagram the cut-back technique used for the
+
+measurement of the total attenuation in an optical fiber?
+
+[10]
+
+Qi
+
+CO-2; SO-1;
+BL-2
+
+Explain construction and working of Edge Emitter LED.
+
+[10]
+
+Q7
+
+CO-2; SO-1;
+BL-2
+
+Explain the concept of dispersion in detail?
+
+[10]
+````
+
 ## 2022-23 · Final-Exam · Sem 6 · paper 21fa5bf07c0b
 
 - Departments: Electronics and Telecommunication
@@ -1322,6 +1498,159 @@ on. i SO- | c¢ Evaluate multiplication Factor M if a silicon Avalanche Photodio
 
 quantum efficiency of 65 percent at a wavelength of 900nm. Suppose
 0.S5uw of optical power produces a multiplied photocurrent of 10pA.
+````
+
+## 2022-23 · Re-Exam · Sem 8 · paper a9067b8480c4
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: EXTC/SEMESTER VIII/FIBER OPTIC COMMUNICATION AND NETWORKS/Fiber_Optic_Communication_and_Networks__Sem-VIII__Year_22-23_Re-Exam_vocYNxKfr3.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 89.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMEN
+Academic Year: 2022-2023
+
+Program/s: B-Tech Year: IV Semester: VIII
+
+Stream/s ; EXTC
+
+Subject: Fiber Optic Communication and Networks Time: O22) hrs (10:50 gmtol%oo pm _)
+Date:_30 / 06/2023 No. of Pages: 02. |_
+
+Marks: 100
+
+|
+Re - Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1 :
+. Answer briefly: (20)
+i SO-1; a. | Compare Step Index and Graded Index Fiber [4]
+conse 1; b. | List down different types of fiber optic couplers. Explain any one in short. [4]
+ro by SO-1; c. | Write a short note on different optical light sources? [4]
+reds SO-1; d. | Memorize and answer. What are the different noise sources in optical receiver? [4]
+CO- 4; SO- er nn 8 ‘
+1: e. Explain different network topologies in optical networks? [4]
+BL-2
+Q2 List down different fiber materials. While selecting materials for optical fibers,
+. : : a . ; [10]
+rae SO-1, which are the requirements must be satisfied?
+Q2
+CO-1; SO-1; b Explain dispersion shifted fiber and dispersion flattened fiber. [10]
+BL-2
+Q3 . . a .
+0-2: $0-1: a Discuss EDFA amplifier with its energy level diagram. [10]
+— BL-2
+Q3 Design the link power budget. Consider a source emitting 0dBm and receiver
+oe] CO-3; SO-6; b requires 6u.W that is -22.2dBm. Reflection loss at both ends are 0.2dBm and 1dB | [10]
+BL-6 connector loss each at transmitter and receiver. The coupling loss at step index
+--- page 2 ---
+?
+
+fiber is 12.4dB and for graded index fiber is 15.4dB.Calculate the link Tength for
+step index fiber and graded index fiber if attenuation loss is SdB/Km,;
+
+Q4
+
+CO-2; SO-1;
+BL-2
+
+Describe the operation on p-i-n photodiode as an optical detector?
+
+[10]
+
+Q4
+
+CO-2; SO-1;
+BL-2
+
+With the help of neat diagram explain construction and working of Laser diode.
+
+State its types.
+
+[10]
+
+Qs
+
+CO-4; SO-1;
+BL-2
+
+What is a Metropolitan-Area Networks? How it is constructed? Classify Multiple
+
+Access Protocol.
+
+[10]
+
+Q5
+
+CO-1; SO-6;
+BL-3
+
+Define Numericai aperture.
+Solve. A step index fiber with large core diameter compound with the wavelength
+
+of the transmitted light has an acceptance angle in air of 22° and a relative
+refractive index difference of 3%.Estimate the numerical aperture and the critical
+
+angle at the core cladding interface for the fiber.
+
+[10]
+
+Q6
+
+CO-1; SO-1;
+BL-1,2
+
+Define Splicing. Explain V-groove splicing technique in detail.
+
+[10]
+
+Q6
+
+CO-3; SO-1;
+BL-2
+
+Discuss Optical Time Domain Reflectometer (OTDR) with the help of neat
+
+diagram.
+
+[10]
+
+Q7
+
+CO-2; SO-1;
+BL-2
+
+Explain construction and working of Surface Emitter LED.
+
+[10]
+
+Q7
+
+CO-2; SO-1;
+BL-2
+
+Explain bending losses and its types with diagram.
+
+[10]
 ````
 
 ## 2022-23 · Re-Exam · Sem 6 · paper 43e59c52d582
@@ -1448,6 +1777,121 @@ optical detectors:- detectors responsivity, rise time and bandwidth.
 Page 2 of 2
 ````
 
+## 2021-22 · Final-Exam · Sem 8 · paper 5e59d2c25c09
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: EXTC/SEMESTER VIII/FIBER OPTIC COMMUNICATION AND NETWORKS/B_Tech__EXTC__Fiber_Optic_Communication_and_Networks__4th_Year__Sem-VIII__Year_2021-22__Final_Exam_uJwAYusf2V.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 19 April 2022
+- Text: ocr (2 pages), mean OCR confidence 87.3
+
+````text
+SVKM’s NMIMS
+*‘ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG!
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERIN;
+
+Academic Year: 2021-22
+
+ire S
+Programme: B.Tech (EXTC) Year: IV Semester: sutlbd ;
+Subject: Fiber Optic Communication and Networks f
+Marks: 100
+Date: 19 April 2022 Time: 2.00 pm to 5.00 pm
+
+Durations: 3 (hrs)
+No. of Pages: _ 2
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+
+Answer briefly: [20]
+CO-1; SO- “4:
+1 a | a Compare Meridinal rays and Skew Rays. [4]
+BL-1
+oe = 18. Discuss the intrinsic absorption loss inside optical fiber cable. [4]
+BL-2
+a al ha Why Laser sources are better than LED’s? [4]
+BL-1
+co-4;so- | q.
+1 Explain Wavelength Division Multiplexing. [4]
+BL-2
+€0-2;S0- |e
+1 What are the different noise sources in optical receiver? [4]
+BL-1 oo
+
+A Define Critical angle and Acceptance angle.
+
+The velocity of light in the core of a step index fiber is 2.01*
+@ 108m/s and the critical angle at the core cladding interface is 80°. [10]
+oe Determine the numerical aperture and the acceptance angle for
+ala 25 the fiber in air. The velocity of light in vacuum is 2.998*108m/s.
+
+B — _ ‘
+
+Define Splicing, Explain different types of splicing techniques. [10]
+
+Q3 A With the help of neat diagram explain construction and working [10]
+
+of Laser diode. State its types.
+
+Cale)
+--- page 2 ---
+Set B What is a Metropolitan-Area Networks? How it is constructed?
+
+0-;6BL-
+
+3,1 What are the various network topologies explain each in brief [10]
+with diagram?
+
+A Discuss the Semiconductor optical amplifier in detail with 110]
+
+suitable diagram.
+
+Q4 a : :
+
+Coan B Consider a source emitting 0dBm and receiver requires 6u.W that
+
+oom ’ is -22.2dBm. Reflection loss at both ends are 0.2dBm and 1dB
+
+BL-3,5 connector loss each at transmitter and receiver, The coupling loss [10]
+at step index fiber is 12.4dB and for graded index fiber is
+15.4dB.Calculate the link length for step index fiber and graded
+index fiber if attenuation loss is 5dB/Km.
+
+0s A What is SONET? Why it is called as Synchronous Network? [10]
+Draw the Structure of SONET and Explain in brief.
+
+CO-4,2; SO-6 5 ry >
+
+BL-1,2 B Explain construction and working of Avalanche Photodetector [10]
+with suitable diagrams.
+
+a6 A Draw and explain optical fiber communication system. [10]
+
+CO-1,3; SO-6 -
+
+a2 ° Write a short note on OTDR. [10]
+
+C2 (2)
+````
+
 ## 2021-22 · Final-Exam · Sem 6 · paper 8f4374e87610
 
 - Departments: Electronics and Telecommunication
@@ -1569,6 +2013,91 @@ to determine attenuation in optical fibers.
 BL2 SONET in optical networking.
 
 Page 2 of 2
+````
+
+## 2021-22 · Re-Exam · Sem 8 · paper b4583aea79a0
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: EXTC/SEMESTER VIII/FIBER OPTIC COMMUNICATION AND NETWORKS/Fiber_Optic_Communication_and_Networks__Sem-VIII__Re-Exam__Year_2021-22_2jNa6Dl5tq.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 June 2022
+- Text: ocr (2 pages), mean OCR confidence 89.5
+
+````text
+a
+.
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & E!
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE.
+Academic Year: 2021-22
+Programme: B.Tech (EXTC) Year: IV Semester: VIII ‘
+Subject: Fiber Optic Communication and Networks
+P Marks: 100
+Date: 08 June 2022 Time: 10.00 am to 1.00 pm
+Durations: 3 (Hrs)
+. No. of Pages: OZ.
+Re-Examination (2021-22)
+i]
+i Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+a of the Answer Book, which is provided for their use.
+1) Question No. _1___ is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all Squestions to be attempted.
+4) All questions carry equal marks.
+. 5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+at Answer briefly: [20]
+ey SO-1 | a. List Advantages and Disadvantages of optical fiber communication system. | [4]
+me SO-1 | b, Explain Intermodal and intra modal dispersion in brief. [4]
+_ : 80-2 | ¢. What is Optical Burst Switching in optical Networks? [4] |
+co-2; 80-1 | d. List the name of various optical sources and detectors along with the name | [4] |
+BL-l : of their principle. Also explain the principle of detection in brief.
+CO-;SO-1 |e Outline the Light Output characteristics of SOA. What information is [4]
+BL-2 obtained from Rise time budget?
+A Define the Term Numerical Aperture and acceptance Angle. A Silica
+Optical fiber with a core refractive index of 1.50 and cladding refractive [10]
+o index of 1.47 Evaluate the Critical Angle, NA and Acceptance angle.
+; B Explain Linear and Nonlinear scattering losses in brief. Five examples of
+a — each. A Long Single mode optical fiber has an attenuation of 0.5 db “when
+“ operating at a wavelength of 1.3m. The fiber core diameter is 6 um and the | [10]
+a LASER source bandwidth is 600 Mhz. Determine the Threshold optical
+power of stimulated Brillouin and Raman scattering.
+Q3 A Make use of energy state diagram for Absorption, spontaneous emission and
+C02,4-; SO- stimulated emission. In what state light amplification takes place. Explain in [10]
+
+6;BL-3,1 detail
+--- page 2 ---
+B What is a Metropolitan-Area Networks? How it is constructed? What are the f10]
+various network topologies explain each in brief with diagram.
+
+Construct the sketch of Erbium doped fiber amplifier and explain it. [10]
+
+B Components chosen for a digital fiber link of overall length of 10 Km and
+operating at 20 MBPS are as follows-
+Qs 1) LED capable of Launching an average power of 0.1 mW at 0.85 um.
+CO-2,3; SO-7 2) Fiber attenuation loss 2.5 db/Km. |
+Biss : 3) Splicing at every 2Km with a loss of 0.3 db per splice and connector [10]
+loss of 1.5 dB.
+4) The receiver power needed of -46 dbm in order to get 1071? BER.
+5) Predicted system Margin 6 db.
+Use link power budget to estimate the losses in the link.
+
+A What is SONET? Why it is called as Synchronous Network? Draw the [10]
+Structure of SONET and Explain in brief.
+
+es asos | 2 Explain the term “Quantum Efficiency”. When 3X10!! photons each with a
+
+BL-1.25 wavelength of 0.85ym are incident on a photo diode on average 1.2X10!! [10]
+Electrons are collected at the terminals of device. Determine the Quantum
+efficiency and Responsivity of diode at 0.85um.
+
+A Analyze the advantages of Multimode fibers. Draw the schematic of
+26 multimode step indexed and multimode graded index fiber with the [10]
+wa S06 refractive index profile and write the equation of refractive indices.
+, B Explain different types of Splices and connectors used in fiber optics. [10]
+
+-2- />
 ````
 
 ## 2021-22 · Re-Exam · Sem 6 · paper 08cafbdad93e

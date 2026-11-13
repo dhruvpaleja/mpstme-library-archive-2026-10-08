@@ -78,6 +78,50 @@ insurance contract, and they help maintain fairness and prevent fraud.
 Here are the key principles of insurance:
 1.   Principle of Indemnity:
 Page 3 of 6
+
+[Text in pictures on this page, read by OCR]
+Principle 5 — Professionalism
+
+Act in a manner that demonstrates exemplary professional conduct.
+Professionalism requires behaving with dignity and showing respect and courtesy to
+clients, fellow professionals, and others in business-related activities, and complying
+with appropriate rules, regulations and professional requirements. Professionalism
+requires the financial planning professional, individually and in cooperation with peers,
+to enhance and maintain the profession’s public image and its ability to serve the public
+
+interest.
+
+Principle 6 —- Competence
+
+Maintain the abilities, skills and knowledge necessary to provide professional
+services competently.
+
+Competence requires attaining and maintaining an adequate level of abilities, skills and
+knowledge in the provision of professional services. Competence also includes the
+wisdom to recognize one’s own limitations and when consultation with other
+professionals is appropriate or referral to other professionals necessary. Competence
+requires the financial planning professional to make a continuing commitment to
+
+learning and professional improvement.
+
+Principle 7 — Confidentiality
+
+Protect the confidentiality of all client information.
+
+Confidentiality requires client information to be protected and maintained in such a
+manner that allows access only to those who are authorized. A relationship of trust and
+confidence with the client can only be built on the understanding that the client’s
+
+information will not be disclosed inappropriately.
+
+Principle 8 — Diligence
+
+Provide professional services diligently.
+
+Diligence requires fulfilling professional commitments in a timely and thorough
+manner, and taking due care in planning, supervising and delivering professional
+
+services.
 --- page 4 ---
 The principle of indemnity ensures that the insured is compensated for the actual financial loss
 suffered, but not more than the loss. The idea is to restore the insured to the same financial

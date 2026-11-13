@@ -101,6 +101,36 @@ that during period of deformation.
 e = relative velocity after collision / relative velocity before collision
 e = v2 – v1/u1 – u2
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Accuracy is closeness with the true value of the Precision is a measure of the reproducibility of the
+quantity being measured. measurement.
+
+Measurement can be accurate but not necessarily Measurement can be precise but not necessarily
+
+precise. accurate,
+It can be determined with a single measurement. It needs serveral measurements to be determined.
+Accuracy may be affected with systematic error. Precision may be affected with random error.
+
+Accurate values have to be precise in most cases. Precise values may or may not be accurate.
+
+Perfectly Inelastic collision
+‘4 t collision in which total system kinetic| | __A special case of inelastic collision in]
+kinetic pelea td conserved is energy is not conserved is known as an} which the two colliding bodies stick
+Cohlelon | Perrecty elastic inelastic collision. with one other and moves as one
+° 7 _ system, is called perfectly inelastic
+collision is said to be perfectly elastic) |A Collision is said to be inelastic if law of | | collision.
+if law of conservation of momentum | Fonservation of momentum holds good
+and that of kinetic energy hold good | [uring collision while that of kinetic lLaw of conservation of momentum hold:
+during the collision. nergy is not. good for perfectly inelastic collision
+. while that of kinetic energy does|
+Examples: Examples: not.
+{) Cottision between two motecules of] | (i) cotision between two vehicles examples:
+(ii) Collision of two billiard balls {W) Colision of a rubber ball with a hard | | (i) Throwing a stone in wet clay.
+(ii) Collision of two steel balls (ii) Firing a bullet in a block of wood.
+
+iii) Collision of a meteorite with a
+lanet.
 --- page 3 ---
 Thus, coefficient of restitution (of a collision), is also defined as the ratio between relative
 velocities of two bodies after collision to that before collision.
@@ -198,6 +228,23 @@ BL-   [6M]
 Given:   1 Marks
 DT = 5 cm; Do = 4.98 cm; T0 = 25oC; α = 1.20×10−5 K−1
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Inertia of Rest Inertia of Motion Inertia of Direction
+The property of a body by The property of a body by The property of a body by
+
+virtue of which it is unable virtue of which it is not virtue of which it is unable
+to change its state of rest able to change its speed to change its direction of
+without the help of an without the help of an motion without the help of
+external force. external force. an external force.
+
+Example: A bus which is Example: During
+
+initially at rest suddenly Example: A person jumps sharpening of knife using
+starts its motion, the person | | from a moving bus falls in grinding wheel, the sparks
+sitting in bus falls forwards. fly off tangentially.
+
+backwards.
 --- page 5 ---
 Formula:   2 Marks
 Answer: T ≈ 359.67∘C.   1 Mark
@@ -348,6 +395,29 @@ BL- 2,3
 F = ma
 S = ut + ½ at2
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Fundamental Quantities Derived Quantities
+
+Quantities which are independent and Quantities which are derived from
+cannot be derived from any other fundamental quantities through
+
+physical quantity. multiplication or division.
+
+They are independent of other quantities. They depend on fundamental quantities.
+
+Length, Mass, Time, Temperature, etc. Velocity, Force, Energy, Pressure, etc.
+
+Fundamental Quantity symbol SI Unit
+
+Length L metre
+Mass M kilogram
+Time T second
+Electric current I ampere
+Thermodynamic temperature e kelvin
+Amount of substance N mole
+
+Luminous intensity J candela
 --- page 3 ---
 Acceleration = 5 m/s², Distance = 62.5m   1 Mark
 Q3   [20M]

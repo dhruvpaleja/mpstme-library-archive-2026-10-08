@@ -49,6 +49,24 @@ BL-2   Functions of dielectric fluids – 3 M
 1. Isolates tool electrode from the work-piece electrode to achieve a
 high current density in the plasma channel.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Overview of Nanomachining Techniques
+
+Deterministic S04 —
+Mechanical ——) ® Loose Abrasive
+Machining Machining
+Employs fixed and Uses loose abrasive
+controlled tools for grits for material
+precision removal
+
+Non- > Mechanical
+Mechanical SS Machining
+Machining Capable of
+
+Includes ocusdion c 7 spanmgacomeles
+
+EDM ~ 7
 --- page 2 ---
 2. Cools down the heated surfaces of the electrodes and exerts a
 counter pressure to the expanding plasma channel
@@ -104,6 +122,33 @@ procedures.
 • The joining is obtained with the help of electron irradiation and annealing
 effect (higher than 300 °C) at the contact region of nanotube
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Machine tool Work material
+
+Mechanical and thermal deformation Rigidity (stiffness)
+
+Geometrical inaccuracies Variation in grain size
+
+Error sources
+in microturning
+
+Cutting tool Reaction forces
+Material
+
+Resultant thrust force on the component
+
+Cutting edge radius, tool nose radius
+
+Cutting edge radius
+
+(,— Tool nose radius
+
+Chip removal Burnishing Rubbing
+
+R = cutting edge radius; t,= critical uncut chip thickness;
+
+ty, ty, t,= uncut chip thickness
 --- page 4 ---
 • The main mechanism of joint formation depends on the target material and
 characteristics of nanoparticles.
@@ -203,6 +248,21 @@ CO-5   b.   Diamond turning – 5 M   [10]
 BL-2   • Explanation
 • Diagram
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Welding current
+
+Lx Signal
+pe + lectrode voltag
+eaier ac Ei voltage acquisition
+Electrode holder ———— J
+
+Electrode “Sas _il Computer
+
+Insulation Electrode tip
+
+Enameled wire Plastic base
+a a . x -
 --- page 7 ---
 Shaper machining – 5 M
 • Explanation
@@ -219,6 +279,39 @@ CO-2   d.   Upsetting mechanism of laser forming process –   [05]
 BL-2   • Diagram – 2 M
 • Explanation - 3 M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Material ‘Machine condition
+
+Plastic—elastic properties Rigidity
+
+Grain size ‘Accuracy
+Hardness Vibration
+Tool wear and builtup edge
+
+Material
+
+Cutting edge radius
+
+Tool nose radius
+
+Cutting tool Machining parameters
+
+I Surlace anh
+
+Mechanical microturning
+
+Nonconventional microturning
+
+Rotating tool | Rotating workpiece
+
+WEDG EDM
+
+| Multiple tools | | Single tool
+
+Horizontal spindle
+
+| Vertical spindle
 --- page 8 ---
 Laser beam
 
@@ -279,6 +372,24 @@ BL-2   Functions of dielectric fluids – 3 M
 1. Isolates tool electrode from the work-piece electrode to achieve a
 high current density in the plasma channel.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Overview of Nanomachining Techniques
+
+Deterministic S04 —
+Mechanical ——) ® Loose Abrasive
+Machining Machining
+Employs fixed and Uses loose abrasive
+controlled tools for grits for material
+precision removal
+
+Non- > Mechanical
+Mechanical SS Machining
+Machining Capable of
+
+Includes ocusdion c 7 spanmgacomeles
+
+EDM ~ 7
 --- page 2 ---
 2. Cools down the heated surfaces of the electrodes and exerts a
 counter pressure to the expanding plasma channel
@@ -334,6 +445,33 @@ procedures.
 • The joining is obtained with the help of electron irradiation and annealing
 effect (higher than 300 °C) at the contact region of nanotube
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Machine tool Work material
+
+Mechanical and thermal deformation Rigidity (stiffness)
+
+Geometrical inaccuracies Variation in grain size
+
+Error sources
+in microturning
+
+Cutting tool Reaction forces
+Material
+
+Resultant thrust force on the component
+
+Cutting edge radius, tool nose radius
+
+Cutting edge radius
+
+(,— Tool nose radius
+
+Chip removal Burnishing Rubbing
+
+R = cutting edge radius; t,= critical uncut chip thickness;
+
+ty, ty, t,= uncut chip thickness
 --- page 4 ---
 • The main mechanism of joint formation depends on the target material and
 characteristics of nanoparticles.
@@ -433,6 +571,21 @@ CO-5   b.   Diamond turning – 5 M   [10]
 BL-2   • Explanation
 • Diagram
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Welding current
+
+Lx Signal
+pe + lectrode voltag
+eaier ac Ei voltage acquisition
+Electrode holder ———— J
+
+Electrode “Sas _il Computer
+
+Insulation Electrode tip
+
+Enameled wire Plastic base
+a a . x -
 --- page 7 ---
 Shaper machining – 5 M
 • Explanation
@@ -449,6 +602,39 @@ CO-2   d.   Upsetting mechanism of laser forming process –   [05]
 BL-2   • Diagram – 2 M
 • Explanation - 3 M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Material ‘Machine condition
+
+Plastic—elastic properties Rigidity
+
+Grain size ‘Accuracy
+Hardness Vibration
+Tool wear and builtup edge
+
+Material
+
+Cutting edge radius
+
+Tool nose radius
+
+Cutting tool Machining parameters
+
+I Surlace anh
+
+Mechanical microturning
+
+Nonconventional microturning
+
+Rotating tool | Rotating workpiece
+
+WEDG EDM
+
+| Multiple tools | | Single tool
+
+Horizontal spindle
+
+| Vertical spindle
 --- page 8 ---
 Laser beam
 

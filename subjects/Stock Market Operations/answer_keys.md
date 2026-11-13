@@ -637,6 +637,46 @@ Multiple Share Classes: If a company has Differential Voting Rights (DVRs) share
 meet the eligibility criteria, they are aggregated with the company’s common stock for
 index construction.
 Page 6 of 8
+
+[Text in pictures on this page, read by OCR]
+Particulars | Weighted Average of Price Free Float Market Capitalisation
+Relatives method method
+
+Definition/ The Weighted Average of Price | The Free Float Market Capitalisation
+meaning Relatives is a statistical method | method is a method used to construct
+used to construct index numbers | index numbers wherein weight of each
+by calculating the price change | security is based on the free-float
+of individual items and averaging | market capitalisation
+them according to their relative
+importance.
+
+Calculation | For each security in the index, a_| Market capitalization is calculated by
+
+logic "Price Relative" is calculated by | multiplying the share price by the
+dividing the current price by the | number of free-float shares. Weights
+base price. These relatives are are assigned as per free-float market
+
+then assigned weights. The capitalisation. The weights are
+
+index is the weighted average of | multiplied with price to calculate value
+
+these price relatives. of portfolio, which is then used to derive
+the index.
+
+Subjectivity | Choosing the "correct" weight is | Since weightage is based on free-float
+in weightage | pertinent to calculating correct market capitalisation, there is no
+
+values of the index. Incorrect subjectivity or bias
+weights may
+bring about bias in the index
+computation.
+
+Usage Used generally in Consumer Used generally for computation of stock
+Price Index — CPI for measuring | market indices like Nifty 50, BSE
+inflation and cost of living; Sensex
+
+Wholesale Price Index- WPI for
+tracking bulk goods prices
 --- page 7 ---
 The Nifty 50 index reflects the overall market conditions through a well-diversified set of 50
 companies traded on the National Stock Exchange (NSE). The criteria include:

@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Mechanical_7003/Advances in IC Engines/ANS_Advances in IC Engines(702ME0E015)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2026
 - Text: text (3 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -95,6 +96,48 @@ b. European emission standards:   [10]
 • Euro I–VI progressively stricter limits on CO, HC, NOx, PM.
 • Aim to reduce vehicular pollution.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Find Indicated Power (IP)
+
+BP BP 60
+
+Step 2: Find fuel consumption rate
+
+IP, IP
+th = —— = my = ——
+3
+ring = OX _ 5.01 x 10° keg/s
+
+~ 0.32 x 44 x 10°
+
+Step 3: Find air flow rate
+
+Titg = 12 x ray = 12 x 5.01 x 10°-* = 0.0601 kg/s
+
+Step 4: Convert to volume flow rate
+Assume air density = 1.2 kg/m?
+
+- tie — 0.0601 ;
+= — = —— =0.0501 m*
+Vv D 12 m'/s
+
+Step 5: Use volumetric efficiency relation
+
+For 4-stroke engine:
+
+V=n, xV,x N
+2x 60
+3000
+0.0501 = 0. Vv, x ——
+501 75 x Vs x 720
+
+0.0501 = 0.75 x V, x 25
+
+0.0501
+
+_ _ 3
+= F875 0.00267 m
 ````
 
 ## 2025-26 · Final-Exam · Sem 10 · Answer key · paper 4c8259c24907
@@ -104,6 +147,7 @@ b. European emission standards:   [10]
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_Mechanical_7031/Advances in IC Engines/ANS_Advances in IC Engines(702ME0E015)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2026
 - Text: text (3 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -190,4 +234,46 @@ b. European emission standards:   [10]
 • Euro I–VI progressively stricter limits on CO, HC, NOx, PM.
 • Aim to reduce vehicular pollution.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Find Indicated Power (IP)
+
+BP BP 60
+
+Step 2: Find fuel consumption rate
+
+IP, IP
+th = —— = my = ——
+3
+ring = OX _ 5.01 x 10° keg/s
+
+~ 0.32 x 44 x 10°
+
+Step 3: Find air flow rate
+
+Titg = 12 x ray = 12 x 5.01 x 10°-* = 0.0601 kg/s
+
+Step 4: Convert to volume flow rate
+Assume air density = 1.2 kg/m?
+
+- tie — 0.0601 ;
+= — = —— =0.0501 m*
+Vv D 12 m'/s
+
+Step 5: Use volumetric efficiency relation
+
+For 4-stroke engine:
+
+V=n, xV,x N
+2x 60
+3000
+0.0501 = 0. Vv, x ——
+501 75 x Vs x 720
+
+0.0501 = 0.75 x V, x 25
+
+0.0501
+
+_ _ 3
+= F875 0.00267 m
 ````

@@ -190,6 +190,14 @@ Cordon-Off Zone to be adopted for the Tsunami Disaster Management
  Gold Zone (Outer Zone / Strategic Level)
  Silver Zone (Intermediate / Tactical Level)
  Bronze Zone (Hot Zone / Operational Level)
+
+[Text in pictures on this page, read by OCR]
+Seis State Disaster (weitere
+Flood Control Technical Disaster
+
+Board Advisory eee nal Management
+
+Committee Authority
 --- page 6 ---
 Description of the above zones for - Who controls, Purpose, Access,
 Characteristics – 2 marks each

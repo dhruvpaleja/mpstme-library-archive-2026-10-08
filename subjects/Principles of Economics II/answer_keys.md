@@ -7,7 +7,7 @@ Answer keys and model answers published on the portal, newest first.
 - Departments: Data Science
 - Programmes: BTech CSE DS 7011
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CSE_DS_7011/Principles of Economics- II/ANS_Principles of Economics- II(702TG0C016)_2025-2026.docx`
-- Text: docx (1 page)
+- Text: mixed (3 pages), mean OCR confidence 84.2
 
 ````text
 Q1
@@ -1950,6 +1950,39 @@ India’s FTP 2023 is a marked shift from rigid, fixed-term policies to a more d
 
 | [20]
 |
+--- page 2 ---
+Step 1— Aggregate demand / IS:
+Y=C+1+G
+
+C=50+ 0.8Y
+
+1 = 200 — 50i
+
+So
+
+Y = (50 + 0.8Y) + (200 — 50%) + 150.
+Compute constant terms: 50 + 200 + 150 = 400. So
+Y = 400 + 0.8Y — 50%.
+
+Bring 0.8Y to LHS: Y — 0.8Y = 400 — 50i>0.2Y = 400 — 50i.
+Divide byo2:¥ = 400 _ 50;
+Wide by02¥ = 02 0.2"
+Calculate 400 + 0.2 = 2000.
+Calculate 50 + 0.2 = 250.
+
+So Is: Y = 2000 — 2502. (Equation Is)
+--- page 3 ---
+Step 2 — Money market / LM:
+Money demand: L = 0.25Y — 100i. Money supply = 300. Equilibrium: 0.25Y — 100i = 300.
+
+Solve for i:
+
+_ ._ 0.25Y — 300
+-100i = 300-0.25Y + i=—T OO.
+
+Compute constants: leave as fraction: i = 0.0025Y — 3. (since 0.25/100 = 0.0025; 300/100 = 3).
+
+So LM: i = 0.0025 Y — 3.
 ````
 
 ## 2025-26 · Final-Exam · Sem 3 · Answer key · paper 94503f57d62b
@@ -2178,6 +2211,37 @@ BL3,   Subjective and Objective Factors Affecting Consumption Function
 4   The consumption function (propounded by Keynes) shows the relationship
 between income and consumption. Consumption depends not only on current
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+|. Derive IS and LM equations
+Given:
+© Consumption: C = 200 + 0.6(Y — T), with T = 150.
+C = 200 + 0.6(Y — 150) = 200 + 0.6Y — 90 = 110 + 0.6Y.
+© Investment: J = 300 — 403.
+* Government spending: G = 250.
+IS: goods market equilibrium Y = C + I+ G.
+(Or equivalently, 4 = 16.5 — 0.01Y )
+Money market: real money demand L(Y ,i) = 0.3Y — 150: equals real money supply M*/P
+LM:
+0.3Y —150i=400 = 0.3Y = 400+ 150i
+4 1502 1
+y = 100+ 1508 _ 13331 + 500i] (LM curve)
+0.3 3
+(Or equivalently, i = 0.002Y — ay = 0.002Y — 2.6)
+
+Il. Equilibrium income and interest rate
+Set IS = LM:
+1650 — 100i = 13333 + 500i.
+Bring i-terms together:
+1650 — 13333 = 600i = 3166 = 600i.
+So
+t= = Sar = Fp © 0.52778.
+Now find ¥ using IS:
+19 57500 14375
+Y = 1650 — 100. 5 = = = 9 © 1597.2222.
+Final equilibrium (exact and approximate)
+Interest rate: i = = nie vasts
+© Income (output): ¥Y = 36°77 s 1597.22.
 --- page 7 ---
 income but also on several subjective (internal, psychological) and objective
 (external, economic/social) factors.
@@ -2319,6 +2383,34 @@ and OCB,  E=0.5\text{OC}_{B,\;E}=0.5OCB,E=0.5 Textiles → equal.
 Conclusion: Neither country has a comparative advantage over the other (their
 opportunity costs are identical).
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+i. Opportunity costs (step-by-step)
+Country A
++ 1 unit Textiles uses 4 hours; 1 unit Electronics uses 2 hours.
++ With 120 hours: max Textiles = 120 + 4 = 30 units.
+
+max Electronics = 120 + 2 = 60 units.
+Opportunity cost of 1 Textile (A): how many Electronics forgone?
+
+hours for 1 Textile 4 .
+OCa,7 = tours for 1 Electronic — 2 ~ 7 :
+Opportunity cost of 1 Electronic (A): how many Textiles forgone?
+
+2
+OCs, 2 = a = 0.5 Textiles.
+
+Country B
+* unit Textiles uses 6 hours; 1 unit Electronics uses 3 hours.
+* With 120 hours: max Textiles = 120 + 6 = 20 units.
+
+max Electronics = 120 + 3 = 40 units.
+
+Opportunity cost of 1 Textile (B):
+0Cz,r= $ =2 Electronics.
+Opportunity cost of 1 Electronic (8):
+
+OCz, z = 3 = 0.5 Textiles.
 --- page 11 ---
 iii. Suggested pattern of specialization and trade
 Because both countries have identical opportunity costs, there is no clear basis for
@@ -2900,6 +2992,29 @@ CO- 1;
 SO-2;   [5]
 BL-2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1— Aggregate demand / IS:
+Y=C+1+G
+
+C=50+0.8Y
+
+1 = 200 — 50i
+
+So
+
+Y = (50 + 0.8Y) + (200 — 50%) + 150.
+Compute constant terms: 50 + 200 + 150 = 400. So
+Y = 400 + 0.8Y — 50%.
+
+Bring 0.8Y to LHS: Y — 0.8Y = 400 — 50i>0.2Y = 400 — 50i.
+
+- 400 50.
+Divide by 0.2: ¥ = 55 — gai
+
+Calculate 400 + 0.2 = 2000.
+Calculate 50 + 0.2 = 250.
+So Is: Y = 2000 — 2502. (Equation Is)
 --- page 4 ---
 a. Elaborate on the Keynes pshylogical law of consumption
 b. Discuss on different types of unemployment.
@@ -2933,6 +3048,20 @@ additional income, savings grow as income rises.
 • Consumption function: The law forms the basis of Keynes’ consumption
 function, showing the relationship between income and consumption.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Step 2 — Money market / LM:
+Money demand: L = 0.25Y — 100i. Money supply = 300. Equilibrium: 0.25Y — 100i = 300.
+
+Solve for i:
+
+0.25Y — 300
+—100i = — 0.25Y i = ——___—_.
+00% = 300 — 0.25 > i 100
+
+Compute constants: leave as fraction: i = 0.0025Y — 3. (since 0.25/100 = 0.0025; 300/100 = 3).
+
+So LM: i = 0.0025 Y — 3.
 --- page 5 ---
 • Multiplier effect: The law explains why an increase in investment leads
 to a multiplied increase in income and employment.
@@ -3770,6 +3899,41 @@ CO-2;
 SO-2;   Solution   ]
 BL3,4   10 points-10 Marks
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1— Aggregate demand / IS:
+Y=C+1+G
+
+C=50 + 0.8Y
+
+1 = 200 — 50i
+
+So
+
+Y = (50 + 0.8Y) + (200 — 50é) + 150.
+Compute constant terms: 50 + 200 + 150 = 400. So
+Y = 400 + 0.8Y — 50%.
+
+Bring 0.8Y to LHS: Y — 0.8Y = 400 — 501 > 0.2Y = 400 — 50i.
+
+7 400 50.
+Divide by 0.2: ¥ = 55 — gai
+
+Calculate 400 + 0.2 = 2000.
+Calculate 50 + 0.2 = 250.
+So IS: Y = 2000 — 250 2. (Equation IS)
+
+Step 2— Money market / LM:
+Money demand: L = 0.25Y — 100i. Money supply = 300. Equilibrium: 0.25Y — 100i = 300.
+
+Solve for i:
+
+; ._ 0.25Y — 300
+—100i = 300-0.25Y + #=———.
+
+Compute constants: leave as fraction: i = 0.0025Y — 3. (since 0.25/100 = 0.0025; 300/100 = 3).
+
+So LM: i = 0.0025 Y — 3.
 --- page 25 ---
 Meaning:
 John Maynard Keynes, in his General Theory of Employment, Interest and Money
@@ -4627,6 +4791,29 @@ CO- 1;
 SO-2;   [5]
 BL-2
 ********** 44 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1— Aggregate demand / IS:
+Y=C+1+G
+
+C=50+0.8Y
+
+1 = 200 — 50i
+
+So
+
+Y = (50 + 0.8Y) + (200 — 50%) + 150.
+Compute constant terms: 50 + 200 + 150 = 400. So
+Y = 400 + 0.8Y — 503.
+
+Bring 0.8Y to LHS: Y — 0.8Y = 400 — 50i = 0.2Y = 400 — 50:.
+
+_ 400 50.
+Divide by02:¥ = 55 — gai
+
+Calculate 400 + 0.2 = 2000.
+Calculate 50 + 0.2 = 250.
+So IS: Y = 2000 — 2502. (Equation IS)
 --- page 45 ---
 e. Elaborate on the Keynes pshylogical law of consumption
 f. Discuss on different types of unemployment.
@@ -4660,6 +4847,19 @@ additional income, savings grow as income rises.
 • Consumption function: The law forms the basis of Keynes’ consumption
 function, showing the relationship between income and consumption.
 ********** 45 **********
+
+[Text in pictures on this page, read by OCR]
+Step 2— Money market / LM:
+Money demand: L = 0.25Y — 100i. Money supply = 300. Equilibrium: 0.25Y — 100i = 300.
+
+Solve for i:
+
+; ._ 0.25Y — 300
+—100i = 300-0.25Y + #=———.
+
+Compute constants: leave as fraction: i = 0.0025Y — 3. (since 0.25/100 = 0.0025; 300/100 = 3).
+
+So LM: i = 0.0025 Y — 3.
 --- page 46 ---
 • Multiplier effect: The law explains why an increase in investment leads
 to a multiplied increase in income and employment.
@@ -5383,7 +5583,7 @@ macroeconomic stability (exchange rates, inflation, etc.).
 - Departments: Data Science
 - Programmes: BTech CSE DS 7011
 - Source: `02_Question_Papers/2024/Sem_03/Final-Exam/BTech_CSE_DS_7011/Principles of Economics- II/ANS_Principles of Economics- II(702TG0C011)_2024-2025.docx`
-- Text: docx (1 page)
+- Text: mixed (4 pages), mean OCR confidence 83.0
 
 ````text
 Q1
@@ -5999,4 +6199,74 @@ Together, these measures boost aggregate demand, promote employment, and help th
 
 | [20]
 |
+--- page 2 ---
+I. Derive IS and LM equations
+Given:
+
+* Consumption: C = 200 + 0.6(Y — T), with T = 150.
+
+C = 200 + 0.6(Y — 150) = 200 + 0.6Y — 90 = 110 + 0.6Y.
+© Investment: J = 300 — 403.
+© Government spending: G = 250.
+
+IS: goods market equilibrium Y = C +I + G.
+
+(Or equivalently, i = 16.5 — 0.01Y )
+Money market: real money demand L(Y,7) = 0.3Y — 150i equals real money supply M*/P = 400.
+LM:
+
+0.3Y —150i= 400 = 0.3Y = 400+ 150i
+
+400 + 150% _ 15331 + 500i| (LM curve)
+
+Y= 93 3
+
+(Or equivalently, i = 0.002Y — $0 = 0.002Y — 2.6)
+--- page 3 ---
+Il. Equilibrium income and interest rate
+Set IS = LM:
+
+1650 — 100i = 13333 + 500i.
+Bring i-terms together:
+1650 — 13333 = 600i => 3166 = 600i.
+So
+
+3166 950 19
+j= —— = —— = — 0.52778.
+600 1800 36 0.52778
+Now find Y using IS:
+19 57500 14375
+Y = 1650 — 100-— = 7 — —*"” ~ 1597.2222.
+650 — 100 36 36 9 597,
+Final equilibrium (exact and approximate)
+
+© Interest rate: 4 = 9 = 0.52778.
+
+57500 _ M875 _ 1597.22.
+
+© Income (output): Y = 36, 9
+--- page 4 ---
+i. Opportunity costs (step-by-step)
+Country A
+* unit Textiles uses 4 hours; 1 unit Electronics uses 2 hours.
+* With 120 hours: max Textiles = 120 + 4 = 30 units.
+
+max Electronics = 120 + 2 = 60 units.
+Opportunity cost of 1 Textile (A): how many Electronics forgone?
+
+Opportunity cost of 1 Electronic (A): how many Textiles forgone?
+
+OCs,» = | =05 Teatiles.
+
+Country B
+* 1 unit Textiles uses 6 hours; 1 unit Electronics uses 3 hours.
+* With 120 hours: max Textiles = 120 -+ 6 = 20 units.
+
+max Electronics = 120 + 3 = 40 units.
+
+Opportunity cost of 1 Textile (B):
+OGz, r= $ = 2 Electronics.
+Opportunity cost of 1 Electronic (B):
+
+OCz, z = 3 = 0.5 Textiles.
 ````

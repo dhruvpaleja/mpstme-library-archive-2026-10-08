@@ -486,6 +486,64 @@ How it Works: SAML allows an identity provider (IdP) to pass a "security asserti
 digitally signed token) to a service provider (SP) to authenticate a user. The user only logs
 into the IdP once.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+IMPACT ANALYSIS
+> SYSTEM CATEGORIZATION
+
+ONGOING MONITORING <
+(OPERATIONS & EFFECTIVNESS
+OF SECURITY CONTROLS)
+
+> SELECT BASELINE CONTROLS
+> TAILOR & SUPPLEMENT
+CONTROLS
+> DEVELOP SECURITY PLAN
+
+STEP 5:
+AUTHORIZE OPERATIONS
+(BASED UPON RESIDUAL
+RISK & RISK TOLERANCE)
+
+STEP 4:
+ASSESS SECURITY CONTROLS <
+
+STEP 3:
+IMPLEMENT SECURITY CONTROLS
+
+OR
+
++ _
+Risk assessment | Step 1: Categorize the information system and the information processed,
+{analyze cloud | stored, and transmitted by that system based on a system impact analysis.
+environment to | Identify operational, performance, security, and privacy requirements.
+identify potential | Step 2: Select, based on the security categorization, the initial set of security
+vulnerabilities and | controls for the information system (referred to as baseline security controls).
+shortcomings) | Then, tailor and supplement the baseline security controls set based on the
+organizational assessment of risk and the conditions of the operational
+environment. Develop a strategy for the continuous monitoring of security control
+effectiveness. Document all the controls in the security plan. Review and
+approve the security plan.
+Risk treatment | Step 3: Implement the security controls and describe how the controls are
+(design mitigation |_employed within the information system and its environment of operation
+policies and plans) | Step 4: Assess the security controls using appropriate assessment procedures
+as documented in the assessment plan. The assessment determines if the
+controls are implemented correctly and if they are effective in producing the
+desired outcome.
+
+Step 5: Authorize information system operation based on the determined risk
+resulting from the operation of the information system and the decision that this
+risk is acceptable. The assessment is performed considering the risk to
+organizational operations (including mission, functions, image, or reputation),
+organizational assets, individuals, and other organizations.
+Risk control Step 6: Monitor the security controls in the information system on an ongoing
+(risk monitoring- | basis including assessing control effectiveness, documenting changes to the
+surveying, system or its environment of operation, conducting security impact analyses of
+reviewing events, | these changes, and reporting the security state of the system to designated
+identifying policy | organizational officials.
+adjustments)
+
+bh
 --- page 13 ---
 Use Case: An employee logs into their company's internal portal (the IdP, like Okta or
 Azure AD). When they click a link to Salesforce or Workday (the SP), they are logged in

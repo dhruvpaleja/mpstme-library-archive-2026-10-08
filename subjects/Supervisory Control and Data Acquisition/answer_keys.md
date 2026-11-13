@@ -72,6 +72,30 @@ inputs and outputs.
 block diagram of the VI.
 Back to top
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Error list = Oo x
+
+Items with errors
+
+Untitled 1 a
+
+2 errors and warnings
+
+@ Block Diagram Errors Aa
+
+You have connected two terminals of different types.
+While Loop: Conditional terminal is not wired
+
+i
+Details
+These cannot be wired together because their data types (numeric, string, array, a
+cluster, etc.) do not match. Show the Context Help window to see what data type is
+required.
+The type of the source is double [64-bit real (~15 digit precision)].
+The type of the sink is boolean (TRUE or FALSE).
+
+| Close | [- ShowError_] | Help
 --- page 3 ---
 Fixing Incorrect Behavior
 If your VI runs but produces incorrect results then you have a functional error in your
@@ -141,6 +165,19 @@ You can use the Breakpoint Manager (View>>Breakpoint Manager) to view, add, or
 delete breakpoints from your code. A breakpoint will pause the execution of the VI when
 that specific object is executed. You can place a VI, structure, wire, or operator.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+BB Probe Watch Window = Oo x
+
+iim « Probe Display
+n
+
+Probe(s) Value Last Update
+
+©   Add&Sub.vi
+[i]a 20.350E+0 15/03/2023 10:29:34
+
+[2] Probe 12.750E+0
 --- page 6 ---
 Figure 4: You can use the Breakpoint Manager to add, delete, or view breakpoints in
 your code.
@@ -156,6 +193,19 @@ of the block diagram you want to repeat. You also can place a While Loop on the 
 right-click the border of the While Loop, and select Replace with For Loop from the shortcut menu to
 change a While Loop to a For Loop.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Cc t ——=>! N
+count NI [=o]
+
+Condition
+met?
+
+Iteration ——>| [i]
+terminal Y
+
+(a) (b)
+Figure 4.1 (a) For Loop in LabVIEW and (b) Flow chart equivalent to the For Loop.
 --- page 7 ---
 The value in the count terminal ‘N’ (an input terminal) indicates how many times to repeat the
 subdiagram. Set the count explicitly by wiring a value from outside the loop to the left or top side of
@@ -179,6 +229,17 @@ BL-   Local variables transfer data within a single VI and allow data to be pass
 local variable are right-click on an object’s terminal and select Create»Local Variable. A local
 variable icon for the object appears on the block diagram as shown in Figure 4.23.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+10;4N
+
+Randorn andom number
+Number (0-1) ndicator
+}——_—— pOBL
+
+i
+
+Figure 4.2 Generating random numbers using For Loop.
 --- page 8 ---
 (2.5)
 d. Outline the objectives of Data Acquisition System.
@@ -431,6 +492,30 @@ the order of the elements in the cluster is the only way one can distinguish bet
 the function to contain the same number of outputs as there are elements in the input cluster.
 Fig. 5.11 Unbundle Function
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+GPIB, ENET, VI Development GPIB, ENET,
+7 USB, ... Software 7 USB, ...
+
+(Proprietary Processor, OS
+
+| (Cer)
+
+H ( PC Processor, OS
+
+| Coxe)
+_
+
+g ' PCI/PXI Bi
+PCI Bus 2 “ i
+c re ‘(52 =
+i|| Gagaeatal:
+2 Measurement 3 '| a= Modular Hardware 8
+
+€ Subsystem E 22
+LF (F8 J
+
+f Power Supply ) ( Shared Power Supply } L
 --- page 16 ---
 Bundle by Name: When it is required to operate on a few elements and not the entire cluster elements, you use
 the Bundle By Name function. In the Bundle by Name function elements are referenced by names rather than by
@@ -690,6 +775,30 @@ inputs and outputs.
 block diagram of the VI.
 Back to top
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Error list = Oo x
+
+Items with errors
+
+Untitled 1 a
+
+2 errors and warnings
+
+@ Block Diagram Errors Aa
+
+You have connected two terminals of different types.
+While Loop: Conditional terminal is not wired
+
+i
+Details
+These cannot be wired together because their data types (numeric, string, array, a
+cluster, etc.) do not match. Show the Context Help window to see what data type is
+required.
+The type of the source is double [64-bit real (~15 digit precision)].
+The type of the sink is boolean (TRUE or FALSE).
+
+| Close | [- ShowError_] | Help
 --- page 3 ---
 Fixing Incorrect Behavior
 If your VI runs but produces incorrect results then you have a functional error in your
@@ -759,6 +868,19 @@ You can use the Breakpoint Manager (View>>Breakpoint Manager) to view, add, or
 delete breakpoints from your code. A breakpoint will pause the execution of the VI when
 that specific object is executed. You can place a VI, structure, wire, or operator.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+BB Probe Watch Window = Oo x
+
+iim « Probe Display
+n
+
+Probe(s) Value Last Update
+
+©   Add&Sub.vi
+[i]a 20.350E+0 15/03/2023 10:29:34
+
+[2] Probe 12.750E+0
 --- page 6 ---
 Figure 4: You can use the Breakpoint Manager to add, delete, or view breakpoints in
 your code.
@@ -774,6 +896,19 @@ of the block diagram you want to repeat. You also can place a While Loop on the 
 right-click the border of the While Loop, and select Replace with For Loop from the shortcut menu to
 change a While Loop to a For Loop.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Cc t ——=>! N
+count NI [=o]
+
+Condition
+met?
+
+Iteration ——>| [i]
+terminal Y
+
+(a) (b)
+Figure 4.1 (a) For Loop in LabVIEW and (b) Flow chart equivalent to the For Loop.
 --- page 7 ---
 The value in the count terminal ‘N’ (an input terminal) indicates how many times to repeat the
 subdiagram. Set the count explicitly by wiring a value from outside the loop to the left or top side of
@@ -797,6 +932,17 @@ BL-   Local variables transfer data within a single VI and allow data to be pass
 local variable are right-click on an object’s terminal and select Create»Local Variable. A local
 variable icon for the object appears on the block diagram as shown in Figure 4.23.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+10;4N
+
+Randorn andom number
+Number (0-1) ndicator
+}——_—— pOBL
+
+i
+
+Figure 4.2 Generating random numbers using For Loop.
 --- page 8 ---
 (2.5)
 d. Outline the objectives of Data Acquisition System.
@@ -1049,6 +1195,30 @@ the order of the elements in the cluster is the only way one can distinguish bet
 the function to contain the same number of outputs as there are elements in the input cluster.
 Fig. 5.11 Unbundle Function
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+GPIB, ENET, VI Development GPIB, ENET,
+7 USB, ... Software 7 USB, ...
+
+(Proprietary Processor, OS
+
+| (Cer)
+
+H ( PC Processor, OS
+
+| Coxe)
+_
+
+g ' PCI/PXI Bi
+PCI Bus 2 “ i
+c re ‘(52 =
+i|| Gagaeatal:
+2 Measurement 3 '| a= Modular Hardware 8
+
+€ Subsystem E 22
+LF (F8 J
+
+f Power Supply ) ( Shared Power Supply } L
 --- page 16 ---
 Bundle by Name: When it is required to operate on a few elements and not the entire cluster elements, you use
 the Bundle By Name function. In the Bundle by Name function elements are referenced by names rather than by
@@ -1308,6 +1478,30 @@ inputs and outputs.
 block diagram of the VI.
 Back to top
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Error list = Oo x
+
+Items with errors
+
+Untitled 1 a
+
+2 errors and warnings
+
+@ Block Diagram Errors Aa
+
+You have connected two terminals of different types.
+While Loop: Conditional terminal is not wired
+
+i
+Details
+These cannot be wired together because their data types (numeric, string, array, a
+cluster, etc.) do not match. Show the Context Help window to see what data type is
+required.
+The type of the source is double [64-bit real (~15 digit precision)].
+The type of the sink is boolean (TRUE or FALSE).
+
+| Close | [- ShowError_] | Help
 --- page 3 ---
 Fixing Incorrect Behavior
 If your VI runs but produces incorrect results then you have a functional error in your
@@ -1377,6 +1571,19 @@ You can use the Breakpoint Manager (View>>Breakpoint Manager) to view, add, or
 delete breakpoints from your code. A breakpoint will pause the execution of the VI when
 that specific object is executed. You can place a VI, structure, wire, or operator.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+BB Probe Watch Window = Oo x
+
+iim « Probe Display
+n
+
+Probe(s) Value Last Update
+
+©   Add&Sub.vi
+[i]a 20.350E+0 15/03/2023 10:29:34
+
+[2] Probe 12.750E+0
 --- page 6 ---
 Figure 4: You can use the Breakpoint Manager to add, delete, or view breakpoints in
 your code.
@@ -1392,6 +1599,19 @@ of the block diagram you want to repeat. You also can place a While Loop on the 
 right-click the border of the While Loop, and select Replace with For Loop from the shortcut menu to
 change a While Loop to a For Loop.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Cc t ——=>! N
+count NI [=o]
+
+Condition
+met?
+
+Iteration ——>| [i]
+terminal Y
+
+(a) (b)
+Figure 4.1 (a) For Loop in LabVIEW and (b) Flow chart equivalent to the For Loop.
 --- page 7 ---
 The value in the count terminal ‘N’ (an input terminal) indicates how many times to repeat the
 subdiagram. Set the count explicitly by wiring a value from outside the loop to the left or top side of
@@ -1415,6 +1635,17 @@ BL-   Local variables transfer data within a single VI and allow data to be pass
 local variable are right-click on an object’s terminal and select Create»Local Variable. A local
 variable icon for the object appears on the block diagram as shown in Figure 4.23.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+10;4N
+
+Randorn andom number
+Number (0-1) ndicator
+}——_—— pOBL
+
+i
+
+Figure 4.2 Generating random numbers using For Loop.
 --- page 8 ---
 (2.5)
 d. Outline the objectives of Data Acquisition System.
@@ -1667,6 +1898,30 @@ the order of the elements in the cluster is the only way one can distinguish bet
 the function to contain the same number of outputs as there are elements in the input cluster.
 Fig. 5.11 Unbundle Function
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+GPIB, ENET, VI Development GPIB, ENET,
+7 USB, ... Software 7 USB, ...
+
+(Proprietary Processor, OS
+
+| (Cer)
+
+H ( PC Processor, OS
+
+| Coxe)
+_
+
+g ' PCI/PXI Bi
+PCI Bus 2 “ i
+c re ‘(52 =
+i|| Gagaeatal:
+2 Measurement 3 '| a= Modular Hardware 8
+
+€ Subsystem E 22
+LF (F8 J
+
+f Power Supply ) ( Shared Power Supply } L
 --- page 16 ---
 Bundle by Name: When it is required to operate on a few elements and not the entire cluster elements, you use
 the Bundle By Name function. In the Bundle by Name function elements are referenced by names rather than by
@@ -1926,6 +2181,30 @@ inputs and outputs.
 block diagram of the VI.
 Back to top
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Error list = Oo x
+
+Items with errors
+
+Untitled 1 a
+
+2 errors and warnings
+
+@ Block Diagram Errors Aa
+
+You have connected two terminals of different types.
+While Loop: Conditional terminal is not wired
+
+i
+Details
+These cannot be wired together because their data types (numeric, string, array, a
+cluster, etc.) do not match. Show the Context Help window to see what data type is
+required.
+The type of the source is double [64-bit real (~15 digit precision)].
+The type of the sink is boolean (TRUE or FALSE).
+
+| Close | [- ShowError_] | Help
 --- page 3 ---
 Fixing Incorrect Behavior
 If your VI runs but produces incorrect results then you have a functional error in your
@@ -1995,6 +2274,19 @@ You can use the Breakpoint Manager (View>>Breakpoint Manager) to view, add, or
 delete breakpoints from your code. A breakpoint will pause the execution of the VI when
 that specific object is executed. You can place a VI, structure, wire, or operator.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+BB Probe Watch Window = Oo x
+
+iim « Probe Display
+n
+
+Probe(s) Value Last Update
+
+©   Add&Sub.vi
+[i]a 20.350E+0 15/03/2023 10:29:34
+
+[2] Probe 12.750E+0
 --- page 6 ---
 Figure 4: You can use the Breakpoint Manager to add, delete, or view breakpoints in
 your code.
@@ -2010,6 +2302,19 @@ of the block diagram you want to repeat. You also can place a While Loop on the 
 right-click the border of the While Loop, and select Replace with For Loop from the shortcut menu to
 change a While Loop to a For Loop.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Cc t ——=>! N
+count NI [=o]
+
+Condition
+met?
+
+Iteration ——>| [i]
+terminal Y
+
+(a) (b)
+Figure 4.1 (a) For Loop in LabVIEW and (b) Flow chart equivalent to the For Loop.
 --- page 7 ---
 The value in the count terminal ‘N’ (an input terminal) indicates how many times to repeat the
 subdiagram. Set the count explicitly by wiring a value from outside the loop to the left or top side of
@@ -2033,6 +2338,17 @@ BL-   Local variables transfer data within a single VI and allow data to be pass
 local variable are right-click on an object’s terminal and select Create»Local Variable. A local
 variable icon for the object appears on the block diagram as shown in Figure 4.23.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+10;4N
+
+Randorn andom number
+Number (0-1) ndicator
+}——_—— pOBL
+
+i
+
+Figure 4.2 Generating random numbers using For Loop.
 --- page 8 ---
 (2.5)
 d. Outline the objectives of Data Acquisition System.
@@ -2285,6 +2601,30 @@ the order of the elements in the cluster is the only way one can distinguish bet
 the function to contain the same number of outputs as there are elements in the input cluster.
 Fig. 5.11 Unbundle Function
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+GPIB, ENET, VI Development GPIB, ENET,
+7 USB, ... Software 7 USB, ...
+
+(Proprietary Processor, OS
+
+| (Cer)
+
+H ( PC Processor, OS
+
+| Coxe)
+_
+
+g ' PCI/PXI Bi
+PCI Bus 2 “ i
+c re ‘(52 =
+i|| Gagaeatal:
+2 Measurement 3 '| a= Modular Hardware 8
+
+€ Subsystem E 22
+LF (F8 J
+
+f Power Supply ) ( Shared Power Supply } L
 --- page 16 ---
 Bundle by Name: When it is required to operate on a few elements and not the entire cluster elements, you use
 the Bundle By Name function. In the Bundle by Name function elements are referenced by names rather than by
@@ -2567,6 +2907,23 @@ and system maintenance costs, while improving time to market and the quality of 
 products.
 FIG.3: Traditional instruments (left) and software based virtual instruments (right).
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+USB, ... Software USB, ...
+(C SN nn —
+
+( Proprietary Processor, OS '
+
+7 GPIB, ENET, VI Development Wy GPIB, ENET,
+
+g PCI/PXI Bus
+; PCI Bus i | i
+i|| Gefaeatal:
+PF “oueelon 3 of Modular Hardware 8
+€ ra ‘Eg
+G (F8
+
+q ( Power Supply ) J
 --- page 3 ---
 CO- c Explanation of for loop in LabVIEW :   (05)
 2;
@@ -2589,6 +2946,19 @@ The iteration count always starts at zero. During the first iteration, the itera
 Figure 4.2 shows a simple For Loop which generates 10 random numbers and displays in the
 Random Number Indicator.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Cc t ——=>! N
+count NI [=o]
+
+Condition
+met?
+
+Iteration ——>| [i]
+terminal Y
+
+(a) (b)
+Figure 4.1 (a) For Loop in LabVIEW and (b) Flow chart equivalent to the For
 --- page 4 ---
 Both the count and iteration terminals are 32-bit signed integers. If you wire a floating-point
 number to the count terminal, LabVIEW rounds it and coerces it to within range. If you wire 0 or
@@ -2608,6 +2978,14 @@ The three primary characteristics of an analog signal include level, shape and
 frequency as shown in Figure 4.2.
 Figure 4.2 Primary characteristics of an analog signal.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+10;4N
+
+Random Random number
+Number (0-1) Indicator
+
+Figure 4.2 Generating random numbers using For Loop.
 --- page 5 ---
 Level gives vital information about the measured analog signal since analog
 signals can take on any value. The intensity of a light source, the temperature in a room,
@@ -2921,6 +3299,30 @@ ways. For this reason, it is important to understand the different types of sign
 and their corresponding attributes. Signals can be categorized into two groups:
 analog and digital.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Phenomena Transducer
+
+Temperature Thermocouples
+Resistive Temperature Devices (RTDs)
+Thermistors
+
+Light Vacuum Tube
+Photo Sensors
+
+Sound Microphone
+
+Force and Pressure Strain Gauges
+Piezoelectric Transducers
+
+Position and Displacement Potentiometers
+Linear Voltage Differential Transformer
+Optical Encoder
+
+Fluid Head Meters
+
+Rotational Flowmeters
+pH PH Electrodes
 --- page 14 ---
 c) Analog Signals: An analog signal can be at any value with respect to time. A few
 examples of analog signals include voltage, temperature, pressure, sound and load.
@@ -3125,6 +3527,22 @@ BL-
 Figure a
 Ans :
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+9, 1
+
+a4
+;
+
+3
+
+ROOTS OF QUADRATIC EQUATION
+
+_ Root
+-j
+Type of the Roots
+Roots are real
+Root2
 --- page 20 ---
 Front Panel   : 06 Marks
 Block Diagram : 10 Marks
@@ -3239,6 +3657,30 @@ inputs and outputs.
 block diagram of the VI.
 Back to top
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Error list = Oo x
+
+Items with errors
+
+Untitled 1 a
+
+2 errors and warnings
+
+@ Block Diagram Errors Aa
+
+You have connected two terminals of different types.
+While Loop: Conditional terminal is not wired
+
+i
+Details
+These cannot be wired together because their data types (numeric, string, array, a
+cluster, etc.) do not match. Show the Context Help window to see what data type is
+required.
+The type of the source is double [64-bit real (~15 digit precision)].
+The type of the sink is boolean (TRUE or FALSE).
+
+| Close | [- ShowError_] | Help
 --- page 3 ---
 Fixing Incorrect Behavior
 If your VI runs but produces incorrect results then you have a functional error in your
@@ -3308,6 +3750,19 @@ You can use the Breakpoint Manager (View>>Breakpoint Manager) to view, add, or
 delete breakpoints from your code. A breakpoint will pause the execution of the VI when
 that specific object is executed. You can place a VI, structure, wire, or operator.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+BB Probe Watch Window = Oo x
+
+iim « Probe Display
+n
+
+Probe(s) Value Last Update
+
+©   Add&Sub.vi
+[i]a 20.350E+0 15/03/2023 10:29:34
+
+[2] Probe 12.750E+0
 --- page 6 ---
 Figure 4: You can use the Breakpoint Manager to add, delete, or view breakpoints in
 your code.
@@ -3323,6 +3778,19 @@ of the block diagram you want to repeat. You also can place a While Loop on the 
 right-click the border of the While Loop, and select Replace with For Loop from the shortcut menu to
 change a While Loop to a For Loop.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Cc t ——=>! N
+count NI [=o]
+
+Condition
+met?
+
+Iteration ——>| [i]
+terminal Y
+
+(a) (b)
+Figure 4.1 (a) For Loop in LabVIEW and (b) Flow chart equivalent to the For Loop.
 --- page 7 ---
 The value in the count terminal ‘N’ (an input terminal) indicates how many times to repeat the
 subdiagram. Set the count explicitly by wiring a value from outside the loop to the left or top side of
@@ -3346,6 +3814,17 @@ BL-   Local variables transfer data within a single VI and allow data to be pass
 local variable are right-click on an object’s terminal and select Create»Local Variable. A local
 variable icon for the object appears on the block diagram as shown in Figure 4.23.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+10;4N
+
+Randorn andom number
+Number (0-1) ndicator
+}——_—— pOBL
+
+i
+
+Figure 4.2 Generating random numbers using For Loop.
 --- page 8 ---
 (2.5)
 d. Outline the objectives of Data Acquisition System.
@@ -3598,6 +4077,30 @@ the order of the elements in the cluster is the only way one can distinguish bet
 the function to contain the same number of outputs as there are elements in the input cluster.
 Fig. 5.11 Unbundle Function
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+GPIB, ENET, VI Development GPIB, ENET,
+7 USB, ... Software 7 USB, ...
+
+(Proprietary Processor, OS
+
+| (Cer)
+
+H ( PC Processor, OS
+
+| Coxe)
+_
+
+g ' PCI/PXI Bi
+PCI Bus 2 “ i
+c re ‘(52 =
+i|| Gagaeatal:
+2 Measurement 3 '| a= Modular Hardware 8
+
+€ Subsystem E 22
+LF (F8 J
+
+f Power Supply ) ( Shared Power Supply } L
 --- page 16 ---
 Bundle by Name: When it is required to operate on a few elements and not the entire cluster elements, you use
 the Bundle By Name function. In the Bundle by Name function elements are referenced by names rather than by
@@ -3794,6 +4297,7 @@ Block Diagram [ 10 Marks ]
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_DS_7009/Supervisory Control and Data Acquisition/ANS_Supervisory Control and Data Acquisition(702MH0I001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2026
 - Text: mixed (22 pages), mean OCR confidence 66.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3915,6 +4419,30 @@ TABLE 4.1 Phenomena and existing transducers
 3) Signals: The appropriate transducer converts the physical phenomena into measurable
 signals. However, different signals need to be measured in different ways. For this reason,
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Phenomena Transducer
+
+Temperature Thermocouples
+Resistive Temperature Devices (RTDs)
+Thermistors
+
+Light Vacuum Tube
+Photo Sensors
+
+Sound Microphone
+
+Force and Pressure Strain Gauges
+Piezoelectric Transducers
+
+Position and Displacement Potentiometers
+Linear Voltage Differential Transformer
+Optical Encoder
+
+Fluid Head Meters
+
+Rotational Flowmeters
+pH pH Electrodes
 --- page 5 ---
 it is important to understand the different types of signals and their corresponding
 attributes. Signals can be categorized into two groups: analog and digital.
@@ -4117,6 +4645,23 @@ programs.   ● Logical Error finding in large programs is
 difficult.   ● Passing parameters to sub VI is easy.
 Q.4
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+input variable
+[optional] output variable
+[optional]
+
+Evaluates mathematical formulas and expressions similar to C on
+the block diagram. The following built-in functions are allowed in
+ceil, cos, cosh, cot, csc, exp, expm1, floor, getexp, getman,
+int, intrz, In, Inp1, log, log2, max, min, mod, pow, rand, rem,
+sec, sign, sin, sinc, sinh, sizeOfDim, sqrt, tan, tanh. There are
+some differences between the parser in the Mathematics VIs
+and the Formula Node.
+
+Detailed help 2
+
+4
 --- page 11 ---
 CO- a Explanation of the various types of graphs and charts in LabVIEW.   (03)
 2;   Explanation of basic difference between Graphs from chart.   (04)
@@ -4321,6 +4866,27 @@ VME device register is as follows:
 6. The VME controller initiates a system bus cycle to return the data packet to the CPU,
 thus completing the load operation.
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+Progesser unit
+(IPnitt)
+
+MIPS Fi4xod,
+Raood or
+FALondd
+
+VME bus
+controller
+
+Secondary
+cache
+
+System bus
+
+Memory
+
+WME bus
+device
 --- page 18 ---
 A store to a VME device is similar except that it performs a VME bus write, and no data is
 returned.
@@ -4381,6 +4947,44 @@ contents.
 BL-
 6   Ans :
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+| 13pt Application Font |v | Text Settings: To change the font settings including size, style, colour.
+
+E=y| Align Objects: To align objects along axes, including vertical, top edge, lef
+
+tor} Distribute Objects: To space objects evenly, including gaps, compression
+i~| Resize Objects: To resize multiple front panel objects to the same size.
+ae Reorder: When you have objects that overlap each other and you want t
+
+define which one is in front or back of another, select one of the objects wit
+the positioning tool and then select from Move Forward, Move Backwara
+Move To Front, and Move To Back.
+
+Show Context Help Window button: To toggle the display of the Contex
+= Help window.
+
+Type: Remind you that a new value is available to replace an old valu
+The Enter button disappears when you click it, press the <Enter> key o
+click the front panel or block diagram workspace.
+
+Run button: To run a VI and it appears as a solid white arrow.
+
+While the VI runs, the Run button appears as shown.
+
+If the VI that is running is a subVI, the Run button appears as shown.
+
+Broken Run arrow means a nonexecutable VI and the VI you are creating or
+editing contains errors. Click this button to display the Error list window,
+which lists all errors and warnings.
+
+Run Continuously button: To run the VI until you abort or pause execution.
+Click the button again to disable continuous running.
+
+Abort Execution button: To stop the VI immediately if there is no other
+way to stop the VI.
+
+Pause button: To pause a running VI.
 --- page 20 ---
 Q.7   (20
 )
@@ -4396,6 +5000,12 @@ BL-   b. Build the block diagram to find the roots of a quadratic equation
 6   c. Save the VI as quad_tee.vi on desktop
 d. Print the VI by selecting option Icon, description, panel and diagram in Print contents
 ********** 20 **********
+
+[Text in pictures on this page, read by OCR]
+5 10 15 20 25 30 35 40 45 SO
+Time
+
+(a) Front panel (b) Block diagram
 --- page 21 ---
 Figure a
 
@@ -4421,6 +5031,7 @@ FIR ICR DAC HH
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/MBATech_Computer_7047/Supervisory Control and Data Acquisition/ANS_Supervisory Control and Data Acquisition(702MH0I001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2026
 - Text: mixed (22 pages), mean OCR confidence 66.5
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -4542,6 +5153,30 @@ TABLE 4.1 Phenomena and existing transducers
 3) Signals: The appropriate transducer converts the physical phenomena into measurable
 signals. However, different signals need to be measured in different ways. For this reason,
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Phenomena Transducer
+
+Temperature Thermocouples
+Resistive Temperature Devices (RTDs)
+Thermistors
+
+Light Vacuum Tube
+Photo Sensors
+
+Sound Microphone
+
+Force and Pressure Strain Gauges
+Piezoelectric Transducers
+
+Position and Displacement Potentiometers
+Linear Voltage Differential Transformer
+Optical Encoder
+
+Fluid Head Meters
+
+Rotational Flowmeters
+pH pH Electrodes
 --- page 5 ---
 it is important to understand the different types of signals and their corresponding
 attributes. Signals can be categorized into two groups: analog and digital.
@@ -4744,6 +5379,23 @@ programs.   ● Logical Error finding in large programs is
 difficult.   ● Passing parameters to sub VI is easy.
 Q.4
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+input variable
+[optional] output variable
+[optional]
+
+Evaluates mathematical formulas and expressions similar to C on
+the block diagram. The following built-in functions are allowed in
+ceil, cos, cosh, cot, csc, exp, expm1, floor, getexp, getman,
+int, intrz, In, Inp1, log, log2, max, min, mod, pow, rand, rem,
+sec, sign, sin, sinc, sinh, sizeOfDim, sqrt, tan, tanh. There are
+some differences between the parser in the Mathematics VIs
+and the Formula Node.
+
+Detailed help 2
+
+4
 --- page 11 ---
 CO- a Explanation of the various types of graphs and charts in LabVIEW.   (03)
 2;   Explanation of basic difference between Graphs from chart.   (04)
@@ -4948,6 +5600,27 @@ VME device register is as follows:
 6. The VME controller initiates a system bus cycle to return the data packet to the CPU,
 thus completing the load operation.
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+Progesser unit
+(IPnitt)
+
+MIPS Fi4xod,
+Raood or
+FALondd
+
+VME bus
+controller
+
+Secondary
+cache
+
+System bus
+
+Memory
+
+WME bus
+device
 --- page 18 ---
 A store to a VME device is similar except that it performs a VME bus write, and no data is
 returned.
@@ -5008,6 +5681,46 @@ contents.
 BL-
 6   Ans :
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+| 13pt Application Font | + | Text Settings: To change the font settings including size, style, colour.
+
+=m | Align Objects: To align objects along axes, including vertical, top edge, lef
+tor} Distribute Objects: To space objects evenly, including gaps, compression
+is~| Resize Objects: To resize multiple front panel objects to the same size.
+
+-~_ Reorder: When you have objects that overlap each other and you want t
+
+~~
+
+define which one is in front or back of another, select one of the objects wit
+the positioning tool and then select from Move Forward, Move Backwara
+Move To Front, and Move To Back.
+
+Show Context Help Window button: To toggle the display of the Contex
+= Help window.
+
+Type: Remind you that a new value is available to replace an old valu
+The Enter button disappears when you click it, press the <Enter> key o
+click the front panel or block diagram workspace.
+
+Run button: To run a VI and it appears as a solid white arrow.
+
+While the VI runs, the Run button appears as shown.
+
+If the VI that is running is a subVI, the Run button appears as shown.
+
+Broken Run arrow means a nonexecutable VI and the VI you are creating or
+editing contains errors. Click this button to display the Error list window,
+which lists all errors and warnings.
+
+Run Continuously button: Torun the VI until you abort or pause execution.
+Click the button again to disable continuous running.
+
+Abort Execution button: To stop the VI immediately if there is no other
+way to stop the VI.
+
+Pause button: To pause a running VI.
 --- page 20 ---
 Q.7   (20
 )
@@ -5023,6 +5736,12 @@ BL-   b. Build the block diagram to find the roots of a quadratic equation
 6   c. Save the VI as quad_tee.vi on desktop
 d. Print the VI by selecting option Icon, description, panel and diagram in Print contents
 ********** 20 **********
+
+[Text in pictures on this page, read by OCR]
+5 10 15 20 25 30 35 40 45 SO
+Time
+
+(a) Front panel (b) Block diagram
 --- page 21 ---
 Figure a
 

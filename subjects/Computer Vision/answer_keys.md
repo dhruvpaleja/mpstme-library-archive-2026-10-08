@@ -3202,6 +3202,24 @@ train classifier
 ii)
 (4M)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+10 10 10 10 10 10 10 10
+
+10 120 -120 10 10 120 120 1
+
+10 120 -120 10 10 -120 -120 |]
+
+10 10 10 10 10 10 10 10
+Gx Gy
+
+10 169.7 169.7 10 10 45 135 10
+10 169.7 169.7 10 10 135 45 10
+
+10 10 10 “J E 10 10 10
+10 10 10 10 10 10 10 10
+
+Magnitude Angle
 --- page 4 ---
 0 0   2×127.   2×42.   0   0   2×42.   2×127   0
 3   4   4   .3
@@ -3224,6 +3242,18 @@ filters. Filtered images are given below. Calculate
 Difference of Gaussian. Locate edge pixels for
 threshold = 10.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Io1 Io2
+
+20 28 32 28 20 24 34 40 34 2
+28 48 60 48 28 34 56 72 56 3
+=|/32 60 80 60 32} =|40 72 96 72 4
+28 48 60 48 28 34 56 72 56 3
+20 28 32 28 20 24 34 40 34 2
+
+Image filtered by Gaussian Image filtered by Gaussia
+filter with ol =1 filter with o2 =2
 --- page 5 ---
 Solutio   i) DoG   [10]
 n
@@ -3275,6 +3305,25 @@ the integral image to construct its Hessian matrix.
 highlighted point is a key point. (For Hessian matrix,
 constant, W = 0.9, and threshold = 10)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+1111 11111
+15 5 0 15 10 15 1
+I,=]1 10 10 0 l,=|1 5 10 15 6
+1 15 15 0 100 06
+11 6 6 116 6 6
+(3M)
+a TE
+1 25 25 1
+=]1 100 100 6 111 11
+1 225 225 0 6 1 25 100 225 1
+lo. el =|1 25 100 225 6
+10 0 p 6
+11 6 6 6
+1 11
+25 50 0
+Iy.ly=]1 50 100 0
+0 0 0
 --- page 7 ---
 Solutio   Integral Image
 n   1   2   3   4   5
@@ -3305,6 +3354,25 @@ descriptor in brief. Write the role of each step.
 BL-3,4
 ii) Illustrate key point orientation assignment in details.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+1 1
+1 1
+1 2
+1 2
+1 2
+image
+1 1
+1 1
+—2 -2
+1 1
+
+1 1
+
+1
+1
+
+xy
 --- page 8 ---
 Solutio   Steps
 n   1. Construct a Scale Space:
@@ -3350,6 +3418,22 @@ Solutio   Level 0 (root): split by x,
 n
 Level 1: split by y,
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Z
+
+/
+
+7 <
+
+The orientations all
+
+. . . ended up in two bins:
+Orientations in each of 41 in one bin, 5 in the
+
+the 16 pixels of the cell other. (rough count)
+
+511000000
 --- page 10 ---
 Level 2: split by z,
 … then repeat.
@@ -3652,6 +3736,25 @@ any
  Merge edges with weight less than a threshold
 (5M)
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+Input Image
+
+Selective Search
+2000 region Proposals
+
+Warp and resize to
+224x224
+
+CNN (Ex: Alexnet)
+
+Feature Vector
+
+Pa
+SVM Classifier BB regressor
+I |
+
+Predict Class Refined Box
 --- page 18 ---
  Merged edges are called components. Nodes which are
 not merged are the ones which have large distance
@@ -4033,6 +4136,21 @@ Solutio   Level 0 (root): split by x,
 n
 Level 1: split by y,
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+— +
+
+7 ‘
+
+The orientations all
+ended up in two bins:
+11 in one bin, 5 in the
+other. (rough count)
+
+511000000
+
+Orientations in each of
+the 16 pixels of the cell
 --- page 9 ---
 Level 2: split by z,
 … then repeat.
@@ -4331,6 +4449,25 @@ any
 • Connect nodes with low weight using edges
 • Merge edges with weight less than a threshold
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Input Image
+
+Selective Search
+2000 region Proposals
+
+Warp and resize to
+224x224
+
+CNN (Ex: Alexnet)
+
+Feature Vector
+
+SS
+
+SVM Classifier BB regressor
+
+Predict Class Refined Box
 --- page 17 ---
 • Merged edges are called components. Nodes which are
 not merged are the ones which have large distance
@@ -4893,6 +5030,18 @@ CO-4   [10]
 SO-5   sentences in brief.
 BL-4
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+line in the second image using E matrix
+
+Ex = I
+
+Conditions:
+
+1. Vectors, x, t, x’ are coplanar, therefore, | and I’ lie on this plane
+2. Camera at O’ is rotated and translated version of O
+
+3 There is no other transformation for O
 --- page 18 ---
 Solution
 •   Selective search determines region proposals
@@ -4919,6 +5068,28 @@ i) RCNN is slow
 Solution      Selective Search algorithm for generating region proposals,
 takes a lot of time
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+Fast RONN
+
+Input Image
+
+———
+
+CNN (Ex: VGG16)
+) Selective Search
+
+A
+
+Feature Map 2000 region Proposals
+ROI Pooling
+3
+Feature Vector
+Z
+Softmax Classifier BB regressor
+AN I
+
+Predicted Class Refined Box
 --- page 19 ---
  Each region proposal requires multiple stages
  Region proposal generation, feature extraction, and
@@ -4991,6 +5162,22 @@ Advantages:
 Solution
 1. Simple and Easy to Implement
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+* For stereo images,
+* Akey point in left image has corresponding point in a line in right image
+* This is epipolar constraint
+* Epipolar constraint reduces matching problem from 2D image search to 1D line search
+* Therefore search for correspondences is quicker
+* Corresponding point is searched on epipolar line
+
+* Determine a epipolar line for matching each corresponding point
+
+Epipolar line
+
+Key point
+
+Left image Right image
 --- page 2 ---
 2. Computationally Efficient
 Initial random centroids → quickly move to stable
@@ -5216,6 +5403,21 @@ SO- 1,6
 BL- 5   of the image.
 Solution
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Compute running average over the previous frames
+1 n-1
+Bayt) ==) IGy.t i) [B(xy.t)I(xy.t)| > th
+i=0
+
+If difference at a location less than threshold, then pixel at that location is
+background pixel
+Else it is mapped as a foreground pixel
+New object introduced in the current frame becomes a part of foreground
+Current frame holds the newly introduced object and background
+Background can also be generated by assigning weights
+
+B(x,y)=(1-a)B(x,y) + a I(x,y)
 --- page 8 ---
 Q6a
 Explain any five challenges of implementing a cereal grain inspection
@@ -5311,6 +5513,16 @@ CO- 4   • World coordinate system   [10]
 SO- 1, 6
 BL- 3   • Camera coordinate system
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+¢ All the points from origin to ‘p’ along line are equivalent to one another
+* Each point on line except origin is homogeneous coordinate of p = (x,y)
+* Cartesian to homogeneous, p > p
+
+BLS »=(5
+a
+
+By
 --- page 11 ---
 • Image coordinate system
 •   Pixel coordinate system
@@ -5325,6 +5537,20 @@ BL- 3   matrices.
 Solution
 (5M)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+* Standard epipolar geometry setup involves two cameras observing the same 3D
+point P
+
+* Cameras are located at O, and O,
+
+* Projection of point, P, on the image planes is located at p and p’ respectively
+
+epipolar plane Image planes
+
+oO, \ 2
+
+epipolar line for p’ baseline
 ````
 
 ## 2025-26 · Re-Exam · Sem 6 · Answer key · paper 25d2a4853ff6
@@ -6671,6 +6897,38 @@ SO-1;
 of RoI align in Mask RCNN
 BL-3
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+128 64 642
+
+Contraction network Expansion network
+
+Output imag
+
+Input image Eases
+
+572x572 x3
+
+256 128
+Li
+lglg
+
+a 512 256
+3x3, ReLU
+SS Zz (ts => conv 3x3, Rel
+
+3 Bx
+S# 512 512 1024 sin tS &   —coPyand crop
+
+= # max pool 2x2
+*
+88 SF: 1024 4A & # up-conv 2x2
+_aemes—
+a = conv 1x1
+
+o
+
+°
 --- page 13 ---
 Ans.
 • A region proposal on image, width = 200 and height = 145
@@ -6687,6 +6945,27 @@ RoI align
 [04
 ]
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Mask RCNN
+
+Input Image
+
+CNN (Ex: Resnet)
+Shared Feature Map
+
+Region Proposal Network
+
+Region Proposals
+
+ROI Align
+
+FC Layers
+Soft =
+2 BB regressor Mask head
+Classifier - .
+
+Predicted Class Refined Box Mask Coord
 --- page 14 ---
 [02
 ]
@@ -7210,6 +7489,38 @@ SO-1;
 of RoI align in Mask RCNN
 BL-3
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+128 64 642
+
+Contraction network Expansion network
+
+Output imag
+
+Input image Eases
+
+572x572 x3
+
+256 128
+Li
+lglg
+
+a 512 256
+3x3, ReLU
+SS Zz (ts => conv 3x3, Rel
+
+3 Bx
+S# 512 512 1024 sin tS &   —coPyand crop
+
+= # max pool 2x2
+*
+88 SF: 1024 4A & # up-conv 2x2
+_aemes—
+a = conv 1x1
+
+o
+
+°
 --- page 13 ---
 Ans.
 • A region proposal on image, width = 200 and height = 145
@@ -7226,6 +7537,27 @@ RoI align
 [04
 ]
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Mask RCNN
+
+Input Image
+
+CNN (Ex: Resnet)
+Shared Feature Map
+
+Region Proposal Network
+
+Region Proposals
+
+ROI Align
+
+FC Layers
+Soft =
+2 BB regressor Mask head
+Classifier - .
+
+Predicted Class Refined Box Mask Coord
 --- page 14 ---
 [02
 ]
@@ -7850,6 +8182,22 @@ n   • Determine corresponding epipolar line in the right image
 Essential Matrix (E) and Fundamental Matrix (F)
 • Goal is to determine E and F matrices
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+* Standard epipolar geometry setup involves two cameras observing the same 3D
+point P
+
+* Cameras are located at O, and O,
+
+* Projection of point, P, on the image planes is located at p and p’ respectively
+
+epipolar plane Image planes
+
+epipolar line for p
+
+epipolar line for p’
+
+baseline
 --- page 16 ---
 5 Marks: Depth calculation
 5 Marks: Epipolar geometry
@@ -7872,6 +8220,25 @@ Selective search:
 • Segment the image into regions
 • Regions have similarity in color, texture or any other parameter
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Input Image
+
+Selective Search
+2000 region Proposals
+
+Warp and resize to
+224x224
+
+CNN (Ex: Alexnet)
+
+Feature Vector
+
+SS
+
+SVM Classifier BB regressor
+
+Predict Class Refined Box
 --- page 17 ---
 • Use graph segmentation to capture the regions
 • Merge regions into larger regions iteratively
@@ -8510,6 +8877,22 @@ n   • Determine corresponding epipolar line in the right image
 Essential Matrix (E) and Fundamental Matrix (F)
 • Goal is to determine E and F matrices
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+* Standard epipolar geometry setup involves two cameras observing the same 3D
+point P
+
+* Cameras are located at O, and O,
+
+* Projection of point, P, on the image planes is located at p and p’ respectively
+
+epipolar plane Image planes
+
+epipolar line for p
+
+epipolar line for p’
+
+baseline
 --- page 16 ---
 5 Marks: Depth calculation
 5 Marks: Epipolar geometry
@@ -8532,6 +8915,25 @@ Selective search:
 • Segment the image into regions
 • Regions have similarity in color, texture or any other parameter
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Input Image
+
+Selective Search
+2000 region Proposals
+
+Warp and resize to
+224x224
+
+CNN (Ex: Alexnet)
+
+Feature Vector
+
+SS
+
+SVM Classifier BB regressor
+
+Predict Class Refined Box
 --- page 17 ---
 • Use graph segmentation to capture the regions
 • Merge regions into larger regions iteratively
@@ -9069,6 +9471,38 @@ SO-1;
 of RoI align in Mask RCNN
 BL-3
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+128 64 642
+
+Contraction network Expansion network
+
+Output imag
+
+Input image Eases
+
+572x572 x3
+
+256 128
+Li
+lglg
+
+a 512 256
+3x3, ReLU
+SS Zz (ts => conv 3x3, Rel
+
+3 Bx
+S# 512 512 1024 sin tS &   —coPyand crop
+
+= # max pool 2x2
+*
+88 SF: 1024 4A & # up-conv 2x2
+_aemes—
+a = conv 1x1
+
+o
+
+°
 --- page 13 ---
 Ans.
 • A region proposal on image, width = 200 and height = 145
@@ -9085,6 +9519,27 @@ RoI align
 [04
 ]
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Mask RCNN
+
+Input Image
+
+CNN (Ex: Resnet)
+Shared Feature Map
+
+Region Proposal Network
+
+Region Proposals
+
+ROI Align
+
+FC Layers
+Soft =
+2 BB regressor Mask head
+Classifier - .
+
+Predicted Class Refined Box Mask Coord
 --- page 14 ---
 [02
 ]
@@ -9847,6 +10302,22 @@ Advantages:
 Solution
 1. Simple and Easy to Implement
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+* For stereo images,
+* Akey point in left image has corresponding point in a line in right image
+* This is epipolar constraint
+* Epipolar constraint reduces matching problem from 2D image search to 1D line search
+* Therefore search for correspondences is quicker
+* Corresponding point is searched on epipolar line
+
+* Determine a epipolar line for matching each corresponding point
+
+Epipolar line
+
+Key point
+
+Left image Right image
 --- page 2 ---
 2. Computationally Efficient
 Initial random centroids → quickly move to stable
@@ -10072,6 +10543,21 @@ SO- 1,6
 BL- 5   of the image.
 Solution
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Compute running average over the previous frames
+1 n-1
+Bayt) ==) IGy.t i) [B(xy.t)I(xy.t)| > th
+i=0
+
+If difference at a location less than threshold, then pixel at that location is
+background pixel
+Else it is mapped as a foreground pixel
+New object introduced in the current frame becomes a part of foreground
+Current frame holds the newly introduced object and background
+Background can also be generated by assigning weights
+
+B(x,y)=(1-a)B(x,y) + a I(x,y)
 --- page 8 ---
 Q6a
 Explain any five challenges of implementing a cereal grain inspection
@@ -10167,6 +10653,16 @@ CO- 4   • World coordinate system   [10]
 SO- 1, 6
 BL- 3   • Camera coordinate system
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+¢ All the points from origin to ‘p’ along line are equivalent to one another
+* Each point on line except origin is homogeneous coordinate of p = (x,y)
+* Cartesian to homogeneous, p > p
+
+BLS »=(5
+a
+
+By
 --- page 11 ---
 • Image coordinate system
 •   Pixel coordinate system
@@ -10181,4 +10677,18 @@ BL- 3   matrices.
 Solution
 (5M)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+* Standard epipolar geometry setup involves two cameras observing the same 3D
+point P
+
+* Cameras are located at O, and O,
+
+* Projection of point, P, on the image planes is located at p and p’ respectively
+
+epipolar plane Image planes
+
+oO, \ 2
+
+epipolar line for p’ baseline
 ````

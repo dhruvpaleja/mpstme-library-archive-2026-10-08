@@ -724,6 +724,24 @@ Server when they start up, providing details like their hostname, IP
 address, port, and a unique service ID.
 2. Client Registration:
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+111.22.33.44:9090
+
+| Request
+111.22.33.44,8098 .
+ENON Service B
+Load 100.2.3.4:8090
+Balancer :
+Service B
+[Resisters
+333,111.33.1:8081
+ee Instance List Query Service B
+magaesaae° Disco
+Service-B iscovery |.—_
+ti22ssexs080)*#——F Service 111.22.33:8080
+
+Service -A | 111:22:33:44:8098 Service B
 --- page 10 ---
 Each microservice includes a Eureka Client library (e.g., in Spring
 Boot, via the spring-cloud-starter-netflix-eureka-client dependency).
@@ -893,6 +911,28 @@ Apache Kafka Architecture :
 • Sends key-value pairs.
 •   Writes are asynchronous and allow high throughput.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Kafka Cluster with group of brokers
+
+Broker 1
+
+Topics
+
+& Partitions Pull messagt
+=f a a
+altri ts]
+
+Messages get stored in partitions using offset ids
+
+Push messages
+
+4
+papxa}
+
+Broker 2 Pull message
+
+Broker 3
 --- page 15 ---
 • Does not directly communicate with the consumer.
 •   Acts as the entry point for data into the Kafka system.
@@ -1050,6 +1090,18 @@ these updates simultaneously. This is ideal for real-time notifications
 like “order accepted,” “out for delivery,” and “delivered,” without the
 publisher needing to know who the consumers are.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+Peta... nonnnne ny nnn
+Microservice - P
+Business
+awe Service Mesh
+Network
+Functions Ieee. h
+
+Application Network
+
+Functions Data Plane
 --- page 19 ---
 For managing transactions across payment, restaurant, and delivery
 services, the Saga pattern is recommended. Instead of using distributed
@@ -1505,6 +1557,24 @@ Server when they start up, providing details like their hostname, IP
 address, port, and a unique service ID.
 2. Client Registration:
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+111.22.33.44:9090
+
+| Request
+111.22.33.44,8098 .
+ENON Service B
+Load 100.2.3.4:8090
+Balancer :
+Service B
+[Resisters
+333,111.33.1:8081
+ee Instance List Query Service B
+magaesaae° Disco
+Service-B iscovery |.—_
+ti22ssexs080)*#——F Service 111.22.33:8080
+
+Service -A | 111:22:33:44:8098 Service B
 --- page 10 ---
 Each microservice includes a Eureka Client library (e.g., in Spring
 Boot, via the spring-cloud-starter-netflix-eureka-client dependency).
@@ -1674,6 +1744,28 @@ Apache Kafka Architecture :
 • Sends key-value pairs.
 •   Writes are asynchronous and allow high throughput.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Kafka Cluster with group of brokers
+
+Broker 1
+
+Topics
+
+& Partitions Pull messagt
+=f a a
+altri ts]
+
+Messages get stored in partitions using offset ids
+
+Push messages
+
+4
+papxa}
+
+Broker 2 Pull message
+
+Broker 3
 --- page 15 ---
 • Does not directly communicate with the consumer.
 •   Acts as the entry point for data into the Kafka system.
@@ -1831,6 +1923,18 @@ these updates simultaneously. This is ideal for real-time notifications
 like “order accepted,” “out for delivery,” and “delivered,” without the
 publisher needing to know who the consumers are.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+Peta... nonnnne ny nnn
+Microservice - P
+Business
+awe Service Mesh
+Network
+Functions Ieee. h
+
+Application Network
+
+Functions Data Plane
 --- page 19 ---
 For managing transactions across payment, restaurant, and delivery
 services, the Saga pattern is recommended. Instead of using distributed
@@ -2286,6 +2390,24 @@ Server when they start up, providing details like their hostname, IP
 address, port, and a unique service ID.
 2. Client Registration:
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+111.22.33.44:9090
+
+| Request
+111.22.33.44,8098 .
+ENON Service B
+Load 100.2.3.4:8090
+Balancer :
+Service B
+[Resisters
+333,111.33.1:8081
+ee Instance List Query Service B
+magaesaae° Disco
+Service-B iscovery |.—_
+ti22ssexs080)*#——F Service 111.22.33:8080
+
+Service -A | 111:22:33:44:8098 Service B
 --- page 10 ---
 Each microservice includes a Eureka Client library (e.g., in Spring
 Boot, via the spring-cloud-starter-netflix-eureka-client dependency).
@@ -2455,6 +2577,28 @@ Apache Kafka Architecture :
 • Sends key-value pairs.
 •   Writes are asynchronous and allow high throughput.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Kafka Cluster with group of brokers
+
+Broker 1
+
+Topics
+
+& Partitions Pull messagt
+=f a a
+altri ts]
+
+Messages get stored in partitions using offset ids
+
+Push messages
+
+4
+papxa}
+
+Broker 2 Pull message
+
+Broker 3
 --- page 15 ---
 • Does not directly communicate with the consumer.
 •   Acts as the entry point for data into the Kafka system.
@@ -2612,6 +2756,18 @@ these updates simultaneously. This is ideal for real-time notifications
 like “order accepted,” “out for delivery,” and “delivered,” without the
 publisher needing to know who the consumers are.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+Peta... nonnnne ny nnn
+Microservice - P
+Business
+awe Service Mesh
+Network
+Functions Ieee. h
+
+Application Network
+
+Functions Data Plane
 --- page 19 ---
 For managing transactions across payment, restaurant, and delivery
 services, the Saga pattern is recommended. Instead of using distributed
@@ -2982,6 +3138,47 @@ environment:
 - SPRING_DATASOURCE_URL=jdbc:mysql://db:3306/companydb
 - SPRING_DATASOURCE_USERNAME=root
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Integration Database
+Patterns Patterns Patterns
+
+Decompose by
+Business
+Capability
+
+API Gateway Database per Extemal
+Pattern Service Configuration
+
+Decompose by Aggregator Shared Database Performance IMM Service Discovery
+Subdomain Pattern per Service Metrics Pattern
+
+Distributed Circuit Breaker
+Tracing Pattern
+
+Decompose by
+
+BS proxy Pattern
+Transactions J
+
+Blue-Green
+Event Sourcing Health Check Deployment
+Pattern
+
+Gateway Routing
+
+trangler Pattern nasil
+
+Chained
+fee Bulkhead Pattern Microservice Saga Pattern
+Pattern
+
+ISS Sidecar Pattern JN Branch Pattern
+
+Client-Side UI
+Composition
+
+Pattern
 --- page 7 ---
 - SPRING_DATASOURCE_PASSWORD=root
 depends_on:
@@ -3366,6 +3563,19 @@ independently manageable.
 The lifecycle begins with service identification and design, where
 business requirements are analyzed and decomposed into small,
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Update 07
+
+01 Design 7S «®) Decommission 08
+02 Develop C4 \S
+
+a Microservices
+mies
+
+03 Build (a Monitor 06
+
+04 Deploy (e Operate 05
 --- page 8 ---
 independently deployable services based on business capabilities and
 bounded contexts. During this stage, clear API contracts, data
@@ -4012,6 +4222,19 @@ independently manageable.
 The lifecycle begins with service identification and design, where
 business requirements are analyzed and decomposed into small,
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Update 07
+
+01 Design 7S «®) Decommission 08
+02 Develop C4 \S
+
+a Microservices
+mies
+
+03 Build (a Monitor 06
+
+04 Deploy (e Operate 05
 --- page 8 ---
 independently deployable services based on business capabilities and
 bounded contexts. During this stage, clear API contracts, data

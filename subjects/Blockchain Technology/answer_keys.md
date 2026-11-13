@@ -2682,6 +2682,29 @@ typically with cryptocurrency (e.g., new Bitcoin).
 ▪ Example : Bitcoin solving SHA 256 hash lets a miner add the block
 and gain coin rewards
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|
+
+Puzzle
+
+Send Puzzle
+
+xt
+
+x2
+
+Send Solutions
+
+[BPI send award
+
+Network server
+
+Checks solutions
+
+y=ton) = wrong
+y=f(x2) © correct
+y=£(x3) © wrong
 --- page 4 ---
 b.   What are the limitations of distributed database and how it is overcome
 in blockchain?
@@ -3241,6 +3264,29 @@ typically with cryptocurrency (e.g., new Bitcoin).
 ▪ Example : Bitcoin solving SHA 256 hash lets a miner add the block
 and gain coin rewards
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|
+
+Puzzle
+
+Send Puzzle
+
+xt
+
+x2
+
+Send Solutions
+
+[BPI send award
+
+Network server
+
+Checks solutions
+
+y=ton) = wrong
+y=f(x2) © correct
+y=£(x3) © wrong
 --- page 4 ---
 b.   What are the limitations of distributed database and how it is overcome
 in blockchain?
@@ -3800,6 +3846,29 @@ typically with cryptocurrency (e.g., new Bitcoin).
 ▪ Example : Bitcoin solving SHA 256 hash lets a miner add the block
 and gain coin rewards
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|
+
+Puzzle
+
+Send Puzzle
+
+xt
+
+x2
+
+Send Solutions
+
+[BPI send award
+
+Network server
+
+Checks solutions
+
+y=ton) = wrong
+y=f(x2) © correct
+y=£(x3) © wrong
 --- page 4 ---
 b.   What are the limitations of distributed database and how it is overcome
 in blockchain?
@@ -4359,6 +4428,29 @@ typically with cryptocurrency (e.g., new Bitcoin).
 ▪ Example : Bitcoin solving SHA 256 hash lets a miner add the block
 and gain coin rewards
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|
+
+Puzzle
+
+Send Puzzle
+
+xt
+
+x2
+
+Send Solutions
+
+[BPI send award
+
+Network server
+
+Checks solutions
+
+y=ton) = wrong
+y=f(x2) © correct
+y=£(x3) © wrong
 --- page 4 ---
 b.   What are the limitations of distributed database and how it is overcome
 in blockchain?
@@ -4918,6 +5010,29 @@ typically with cryptocurrency (e.g., new Bitcoin).
 ▪ Example : Bitcoin solving SHA 256 hash lets a miner add the block
 and gain coin rewards
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|
+
+Puzzle
+
+Send Puzzle
+
+xt
+
+x2
+
+Send Solutions
+
+[BPI send award
+
+Network server
+
+Checks solutions
+
+y=ton) = wrong
+y=f(x2) © correct
+y=£(x3) © wrong
 --- page 4 ---
 b.   What are the limitations of distributed database and how it is overcome
 in blockchain?
@@ -6705,6 +6820,17 @@ transaction.
 4. In this step, the actual transfer of value occurs. The flow is from the
 sender's account to receiver's account. The account is created
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+POINTER TO PREVIOUS BLOCK’S HASH
+NONCE
+
+TIME STAMP
+MERKLE ROOT
+
+LIST OF TRANSACTIONS
+
+The generic structure of a block.
 --- page 6 ---
 automatically if the destination account specified in the transaction does
 not exist yet. Moreover, if the destination account is a contract, then the
@@ -7330,6 +7456,17 @@ transaction.
 4. In this step, the actual transfer of value occurs. The flow is from the
 sender's account to receiver's account. The account is created
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+POINTER TO PREVIOUS BLOCK’S HASH
+NONCE
+
+TIME STAMP
+MERKLE ROOT
+
+LIST OF TRANSACTIONS
+
+The generic structure of a block.
 --- page 6 ---
 automatically if the destination account specified in the transaction does
 not exist yet. Moreover, if the destination account is a contract, then the
@@ -7956,6 +8093,17 @@ transaction.
 4. In this step, the actual transfer of value occurs. The flow is from the
 sender's account to receiver's account. The account is created
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+POINTER TO PREVIOUS BLOCK’S HASH
+NONCE
+
+TIME STAMP
+MERKLE ROOT
+
+LIST OF TRANSACTIONS
+
+The generic structure of a block.
 --- page 6 ---
 automatically if the destination account specified in the transaction does
 not exist yet. Moreover, if the destination account is a contract, then the

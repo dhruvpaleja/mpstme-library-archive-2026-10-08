@@ -55,6 +55,30 @@ cout << "Enter the first die roll (A): ";
 cin >> A;
 cout << "Enter the required total sum (X): ";
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Start
+/ Enter number of students n /
+
+Seti=1
+
+Enter Student Name, Roll / (Ena)
+No
+
+/ Enter Marks of 3 Subjects ]
+
+Calculate Total = Sub1 +
+Sub2 + Sub3
+
+Calculate Average = Total /
+3
+
+Display Student Name, Roll
+No, Total, Average
+
+NN
+
+Increment i=i+1
 --- page 3 ---
 cin >> X;
 // Calculate the second die value
@@ -503,6 +527,30 @@ Ans.
 #include <iostream>
 // Define constants for the week days (0=Mon, 6=Sun)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Feature for Loop do-while Loop
+
+Primary Used when the number of iterations is Used when the loop must execute at
+
+Use known (definite loop), such as iterating over least once (indefinite loop), regardless
+an array or a fixed range. of the condition.
+
+Condition Entry-controlled. The condition is checked Exit-controlled. The condition is
+
+Check before the loop body executes. If the checked after the loop body executes.
+condition is false initially, the body never runs. The loop body is guaranteed to run at
+
+least once.
+
+Structure All control parts (initialization, condition, Control parts (initialization and update)
+update) are placed together at the top, are often separate from the condition
+making it clean and readable for counted check at the bottom.
+loops.
+
+Syntax for (initialization; condition; do { // body; update; } while
+
+update) { // body } (condition);
 --- page 12 ---
 const int SATURDAY = 5;
 const int SUNDAY = 6;
@@ -853,6 +901,41 @@ a.
 b. -It is a group of logically related data stored in contiguous memory blocks under a common name.   5
 -An Array is a homogeneous or similar data type under a common name.
 Page 1 of 15
+
+[Text in pictures on this page, read by OCR]
+#include <iostream>
+using namespace std;
+int main()
+
+It
+
+char ch;
+cout<<"Enter any Alpabet\n";
+cin>>ch;
+
+vowel letters
+case ‘a':
+cout<<ch<<" is a vowel";
+break;
+case 'e':
+cout<<ch<<" is a vowel";
+break;
+case 'i':
+cout<<ch<<" is a vowel";
+break;
+case ‘o':
+cout<<ch<<" is a vowel";
+break;
+case ‘u':
+cout<<ch<<" is a vowel";
+break;
+default:
+cout<<ch<<" is a consonant";
+break;
+
+: }
+return 0;
+}
 --- page 2 ---
 - Reading & Displaying –
 - There are multiple elements, and each element can be accessed using its index.
@@ -1401,6 +1484,41 @@ a.
 b. -It is a group of logically related data stored in contiguous memory blocks under a common name.   5
 -An Array is a homogeneous or similar data type under a common name.
 Page 1 of 15
+
+[Text in pictures on this page, read by OCR]
+#include <iostream>
+using namespace std;
+int main()
+
+It
+
+char ch;
+cout<<"Enter any Alpabet\n";
+cin>>ch;
+
+vowel letters
+case ‘a':
+cout<<ch<<" is a vowel";
+break;
+case 'e':
+cout<<ch<<" is a vowel";
+break;
+case 'i':
+cout<<ch<<" is a vowel";
+break;
+case ‘o':
+cout<<ch<<" is a vowel";
+break;
+case ‘u':
+cout<<ch<<" is a vowel";
+break;
+default:
+cout<<ch<<" is a consonant";
+break;
+
+: }
+return 0;
+}
 --- page 2 ---
 - Reading & Displaying –
 - There are multiple elements, and each element can be accessed using its index.
@@ -1949,6 +2067,41 @@ a.
 b. -It is a group of logically related data stored in contiguous memory blocks under a common name.   5
 -An Array is a homogeneous or similar data type under a common name.
 Page 1 of 15
+
+[Text in pictures on this page, read by OCR]
+#include <iostream>
+using namespace std;
+int main()
+
+It
+
+char ch;
+cout<<"Enter any Alpabet\n";
+cin>>ch;
+
+vowel letters
+case ‘a':
+cout<<ch<<" is a vowel";
+break;
+case 'e':
+cout<<ch<<" is a vowel";
+break;
+case 'i':
+cout<<ch<<" is a vowel";
+break;
+case ‘o':
+cout<<ch<<" is a vowel";
+break;
+case ‘u':
+cout<<ch<<" is a vowel";
+break;
+default:
+cout<<ch<<" is a consonant";
+break;
+
+: }
+return 0;
+}
 --- page 2 ---
 - Reading & Displaying –
 - There are multiple elements, and each element can be accessed using its index.
@@ -2497,6 +2650,41 @@ a.
 b. -It is a group of logically related data stored in contiguous memory blocks under a common name.   5
 -An Array is a homogeneous or similar data type under a common name.
 Page 1 of 15
+
+[Text in pictures on this page, read by OCR]
+#include <iostream>
+using namespace std;
+int main()
+
+It
+
+char ch;
+cout<<"Enter any Alpabet\n";
+cin>>ch;
+
+vowel letters
+case ‘a':
+cout<<ch<<" is a vowel";
+break;
+case 'e':
+cout<<ch<<" is a vowel";
+break;
+case 'i':
+cout<<ch<<" is a vowel";
+break;
+case ‘o':
+cout<<ch<<" is a vowel";
+break;
+case ‘u':
+cout<<ch<<" is a vowel";
+break;
+default:
+cout<<ch<<" is a consonant";
+break;
+
+: }
+return 0;
+}
 --- page 2 ---
 - Reading & Displaying –
 - There are multiple elements, and each element can be accessed using its index.
@@ -3045,6 +3233,41 @@ a.
 b. -It is a group of logically related data stored in contiguous memory blocks under a common name.   5
 -An Array is a homogeneous or similar data type under a common name.
 Page 1 of 15
+
+[Text in pictures on this page, read by OCR]
+#include <iostream>
+using namespace std;
+int main()
+
+It
+
+char ch;
+cout<<"Enter any Alpabet\n";
+cin>>ch;
+
+vowel letters
+case ‘a':
+cout<<ch<<" is a vowel";
+break;
+case 'e':
+cout<<ch<<" is a vowel";
+break;
+case 'i':
+cout<<ch<<" is a vowel";
+break;
+case ‘o':
+cout<<ch<<" is a vowel";
+break;
+case ‘u':
+cout<<ch<<" is a vowel";
+break;
+default:
+cout<<ch<<" is a consonant";
+break;
+
+: }
+return 0;
+}
 --- page 2 ---
 - Reading & Displaying –
 - There are multiple elements, and each element can be accessed using its index.
@@ -3593,6 +3816,41 @@ a.
 b. -It is a group of logically related data stored in contiguous memory blocks under a common name.   5
 -An Array is a homogeneous or similar data type under a common name.
 Page 1 of 15
+
+[Text in pictures on this page, read by OCR]
+#include <iostream>
+using namespace std;
+int main()
+
+It
+
+char ch;
+cout<<"Enter any Alpabet\n";
+cin>>ch;
+
+vowel letters
+case ‘a':
+cout<<ch<<" is a vowel";
+break;
+case 'e':
+cout<<ch<<" is a vowel";
+break;
+case 'i':
+cout<<ch<<" is a vowel";
+break;
+case ‘o':
+cout<<ch<<" is a vowel";
+break;
+case ‘u':
+cout<<ch<<" is a vowel";
+break;
+default:
+cout<<ch<<" is a consonant";
+break;
+
+: }
+return 0;
+}
 --- page 2 ---
 - Reading & Displaying –
 - There are multiple elements, and each element can be accessed using its index.
@@ -4141,6 +4399,41 @@ a.
 b. -It is a group of logically related data stored in contiguous memory blocks under a common name.   5
 -An Array is a homogeneous or similar data type under a common name.
 Page 1 of 15
+
+[Text in pictures on this page, read by OCR]
+#include <iostream>
+using namespace std;
+int main()
+
+It
+
+char ch;
+cout<<"Enter any Alpabet\n";
+cin>>ch;
+
+vowel letters
+case ‘a':
+cout<<ch<<" is a vowel";
+break;
+case 'e':
+cout<<ch<<" is a vowel";
+break;
+case 'i':
+cout<<ch<<" is a vowel";
+break;
+case ‘o':
+cout<<ch<<" is a vowel";
+break;
+case ‘u':
+cout<<ch<<" is a vowel";
+break;
+default:
+cout<<ch<<" is a consonant";
+break;
+
+: }
+return 0;
+}
 --- page 2 ---
 - Reading & Displaying –
 - There are multiple elements, and each element can be accessed using its index.
@@ -4689,6 +4982,41 @@ a.
 b. -It is a group of logically related data stored in contiguous memory blocks under a common name.   5
 -An Array is a homogeneous or similar data type under a common name.
 Page 1 of 15
+
+[Text in pictures on this page, read by OCR]
+#include <iostream>
+using namespace std;
+int main()
+
+It
+
+char ch;
+cout<<"Enter any Alpabet\n";
+cin>>ch;
+
+vowel letters
+case ‘a':
+cout<<ch<<" is a vowel";
+break;
+case 'e':
+cout<<ch<<" is a vowel";
+break;
+case 'i':
+cout<<ch<<" is a vowel";
+break;
+case ‘o':
+cout<<ch<<" is a vowel";
+break;
+case ‘u':
+cout<<ch<<" is a vowel";
+break;
+default:
+cout<<ch<<" is a consonant";
+break;
+
+: }
+return 0;
+}
 --- page 2 ---
 - Reading & Displaying –
 - There are multiple elements, and each element can be accessed using its index.
@@ -5237,6 +5565,41 @@ a.
 b. -It is a group of logically related data stored in contiguous memory blocks under a common name.   5
 -An Array is a homogeneous or similar data type under a common name.
 Page 1 of 15
+
+[Text in pictures on this page, read by OCR]
+#include <iostream>
+using namespace std;
+int main()
+
+It
+
+char ch;
+cout<<"Enter any Alpabet\n";
+cin>>ch;
+
+vowel letters
+case ‘a':
+cout<<ch<<" is a vowel";
+break;
+case 'e':
+cout<<ch<<" is a vowel";
+break;
+case 'i':
+cout<<ch<<" is a vowel";
+break;
+case ‘o':
+cout<<ch<<" is a vowel";
+break;
+case ‘u':
+cout<<ch<<" is a vowel";
+break;
+default:
+cout<<ch<<" is a consonant";
+break;
+
+: }
+return 0;
+}
 --- page 2 ---
 - Reading & Displaying –
 - There are multiple elements, and each element can be accessed using its index.
@@ -5785,6 +6148,41 @@ a.
 b. -It is a group of logically related data stored in contiguous memory blocks under a common name.   5
 -An Array is a homogeneous or similar data type under a common name.
 Page 1 of 15
+
+[Text in pictures on this page, read by OCR]
+#include <iostream>
+using namespace std;
+int main()
+
+It
+
+char ch;
+cout<<"Enter any Alpabet\n";
+cin>>ch;
+
+vowel letters
+case ‘a':
+cout<<ch<<" is a vowel";
+break;
+case 'e':
+cout<<ch<<" is a vowel";
+break;
+case 'i':
+cout<<ch<<" is a vowel";
+break;
+case ‘o':
+cout<<ch<<" is a vowel";
+break;
+case ‘u':
+cout<<ch<<" is a vowel";
+break;
+default:
+cout<<ch<<" is a consonant";
+break;
+
+: }
+return 0;
+}
 --- page 2 ---
 - Reading & Displaying –
 - There are multiple elements, and each element can be accessed using its index.
@@ -6333,6 +6731,41 @@ a.
 b. -It is a group of logically related data stored in contiguous memory blocks under a common name.   5
 -An Array is a homogeneous or similar data type under a common name.
 Page 1 of 15
+
+[Text in pictures on this page, read by OCR]
+#include <iostream>
+using namespace std;
+int main()
+
+It
+
+char ch;
+cout<<"Enter any Alpabet\n";
+cin>>ch;
+
+vowel letters
+case ‘a':
+cout<<ch<<" is a vowel";
+break;
+case 'e':
+cout<<ch<<" is a vowel";
+break;
+case 'i':
+cout<<ch<<" is a vowel";
+break;
+case ‘o':
+cout<<ch<<" is a vowel";
+break;
+case ‘u':
+cout<<ch<<" is a vowel";
+break;
+default:
+cout<<ch<<" is a consonant";
+break;
+
+: }
+return 0;
+}
 --- page 2 ---
 - Reading & Displaying –
 - There are multiple elements, and each element can be accessed using its index.
@@ -6881,6 +7314,41 @@ a.
 b. -It is a group of logically related data stored in contiguous memory blocks under a common name.   5
 -An Array is a homogeneous or similar data type under a common name.
 Page 1 of 15
+
+[Text in pictures on this page, read by OCR]
+#include <iostream>
+using namespace std;
+int main()
+
+It
+
+char ch;
+cout<<"Enter any Alpabet\n";
+cin>>ch;
+
+vowel letters
+case ‘a':
+cout<<ch<<" is a vowel";
+break;
+case 'e':
+cout<<ch<<" is a vowel";
+break;
+case 'i':
+cout<<ch<<" is a vowel";
+break;
+case ‘o':
+cout<<ch<<" is a vowel";
+break;
+case ‘u':
+cout<<ch<<" is a vowel";
+break;
+default:
+cout<<ch<<" is a consonant";
+break;
+
+: }
+return 0;
+}
 --- page 2 ---
 - Reading & Displaying –
 - There are multiple elements, and each element can be accessed using its index.
@@ -7429,6 +7897,41 @@ a.
 b. -It is a group of logically related data stored in contiguous memory blocks under a common name.   5
 -An Array is a homogeneous or similar data type under a common name.
 Page 1 of 15
+
+[Text in pictures on this page, read by OCR]
+#include <iostream>
+using namespace std;
+int main()
+
+It
+
+char ch;
+cout<<"Enter any Alpabet\n";
+cin>>ch;
+
+vowel letters
+case ‘a':
+cout<<ch<<" is a vowel";
+break;
+case 'e':
+cout<<ch<<" is a vowel";
+break;
+case 'i':
+cout<<ch<<" is a vowel";
+break;
+case ‘o':
+cout<<ch<<" is a vowel";
+break;
+case ‘u':
+cout<<ch<<" is a vowel";
+break;
+default:
+cout<<ch<<" is a consonant";
+break;
+
+: }
+return 0;
+}
 --- page 2 ---
 - Reading & Displaying –
 - There are multiple elements, and each element can be accessed using its index.
@@ -7977,6 +8480,41 @@ a.
 b. -It is a group of logically related data stored in contiguous memory blocks under a common name.   5
 -An Array is a homogeneous or similar data type under a common name.
 Page 1 of 15
+
+[Text in pictures on this page, read by OCR]
+#include <iostream>
+using namespace std;
+int main()
+
+It
+
+char ch;
+cout<<"Enter any Alpabet\n";
+cin>>ch;
+
+vowel letters
+case ‘a':
+cout<<ch<<" is a vowel";
+break;
+case 'e':
+cout<<ch<<" is a vowel";
+break;
+case 'i':
+cout<<ch<<" is a vowel";
+break;
+case ‘o':
+cout<<ch<<" is a vowel";
+break;
+case ‘u':
+cout<<ch<<" is a vowel";
+break;
+default:
+cout<<ch<<" is a consonant";
+break;
+
+: }
+return 0;
+}
 --- page 2 ---
 - Reading & Displaying –
 - There are multiple elements, and each element can be accessed using its index.
@@ -8525,6 +9063,41 @@ a.
 b. -It is a group of logically related data stored in contiguous memory blocks under a common name.   5
 -An Array is a homogeneous or similar data type under a common name.
 Page 1 of 15
+
+[Text in pictures on this page, read by OCR]
+#include <iostream>
+using namespace std;
+int main()
+
+It
+
+char ch;
+cout<<"Enter any Alpabet\n";
+cin>>ch;
+
+vowel letters
+case ‘a':
+cout<<ch<<" is a vowel";
+break;
+case 'e':
+cout<<ch<<" is a vowel";
+break;
+case 'i':
+cout<<ch<<" is a vowel";
+break;
+case ‘o':
+cout<<ch<<" is a vowel";
+break;
+case ‘u':
+cout<<ch<<" is a vowel";
+break;
+default:
+cout<<ch<<" is a consonant";
+break;
+
+: }
+return 0;
+}
 --- page 2 ---
 - Reading & Displaying –
 - There are multiple elements, and each element can be accessed using its index.
@@ -9073,6 +9646,41 @@ a.
 b. -It is a group of logically related data stored in contiguous memory blocks under a common name.   5
 -An Array is a homogeneous or similar data type under a common name.
 Page 1 of 15
+
+[Text in pictures on this page, read by OCR]
+#include <iostream>
+using namespace std;
+int main()
+
+It
+
+char ch;
+cout<<"Enter any Alpabet\n";
+cin>>ch;
+
+vowel letters
+case ‘a':
+cout<<ch<<" is a vowel";
+break;
+case 'e':
+cout<<ch<<" is a vowel";
+break;
+case 'i':
+cout<<ch<<" is a vowel";
+break;
+case ‘o':
+cout<<ch<<" is a vowel";
+break;
+case ‘u':
+cout<<ch<<" is a vowel";
+break;
+default:
+cout<<ch<<" is a consonant";
+break;
+
+: }
+return 0;
+}
 --- page 2 ---
 - Reading & Displaying –
 - There are multiple elements, and each element can be accessed using its index.
@@ -9621,6 +10229,41 @@ a.
 b. -It is a group of logically related data stored in contiguous memory blocks under a common name.   5
 -An Array is a homogeneous or similar data type under a common name.
 Page 1 of 15
+
+[Text in pictures on this page, read by OCR]
+#include <iostream>
+using namespace std;
+int main()
+
+It
+
+char ch;
+cout<<"Enter any Alpabet\n";
+cin>>ch;
+
+vowel letters
+case ‘a':
+cout<<ch<<" is a vowel";
+break;
+case 'e':
+cout<<ch<<" is a vowel";
+break;
+case 'i':
+cout<<ch<<" is a vowel";
+break;
+case ‘o':
+cout<<ch<<" is a vowel";
+break;
+case ‘u':
+cout<<ch<<" is a vowel";
+break;
+default:
+cout<<ch<<" is a consonant";
+break;
+
+: }
+return 0;
+}
 --- page 2 ---
 - Reading & Displaying –
 - There are multiple elements, and each element can be accessed using its index.
@@ -10169,6 +10812,41 @@ a.
 b. -It is a group of logically related data stored in contiguous memory blocks under a common name.   5
 -An Array is a homogeneous or similar data type under a common name.
 Page 1 of 15
+
+[Text in pictures on this page, read by OCR]
+#include <iostream>
+using namespace std;
+int main()
+
+It
+
+char ch;
+cout<<"Enter any Alpabet\n";
+cin>>ch;
+
+vowel letters
+case ‘a':
+cout<<ch<<" is a vowel";
+break;
+case 'e':
+cout<<ch<<" is a vowel";
+break;
+case 'i':
+cout<<ch<<" is a vowel";
+break;
+case ‘o':
+cout<<ch<<" is a vowel";
+break;
+case ‘u':
+cout<<ch<<" is a vowel";
+break;
+default:
+cout<<ch<<" is a consonant";
+break;
+
+: }
+return 0;
+}
 --- page 2 ---
 - Reading & Displaying –
 - There are multiple elements, and each element can be accessed using its index.
@@ -10717,6 +11395,41 @@ a.
 b. -It is a group of logically related data stored in contiguous memory blocks under a common name.   5
 -An Array is a homogeneous or similar data type under a common name.
 Page 1 of 15
+
+[Text in pictures on this page, read by OCR]
+#include <iostream>
+using namespace std;
+int main()
+
+It
+
+char ch;
+cout<<"Enter any Alpabet\n";
+cin>>ch;
+
+vowel letters
+case ‘a':
+cout<<ch<<" is a vowel";
+break;
+case 'e':
+cout<<ch<<" is a vowel";
+break;
+case 'i':
+cout<<ch<<" is a vowel";
+break;
+case ‘o':
+cout<<ch<<" is a vowel";
+break;
+case ‘u':
+cout<<ch<<" is a vowel";
+break;
+default:
+cout<<ch<<" is a consonant";
+break;
+
+: }
+return 0;
+}
 --- page 2 ---
 - Reading & Displaying –
 - There are multiple elements, and each element can be accessed using its index.
@@ -11265,6 +11978,41 @@ a.
 b. -It is a group of logically related data stored in contiguous memory blocks under a common name.   5
 -An Array is a homogeneous or similar data type under a common name.
 Page 1 of 15
+
+[Text in pictures on this page, read by OCR]
+#include <iostream>
+using namespace std;
+int main()
+
+It
+
+char ch;
+cout<<"Enter any Alpabet\n";
+cin>>ch;
+
+vowel letters
+case ‘a':
+cout<<ch<<" is a vowel";
+break;
+case 'e':
+cout<<ch<<" is a vowel";
+break;
+case 'i':
+cout<<ch<<" is a vowel";
+break;
+case ‘o':
+cout<<ch<<" is a vowel";
+break;
+case ‘u':
+cout<<ch<<" is a vowel";
+break;
+default:
+cout<<ch<<" is a consonant";
+break;
+
+: }
+return 0;
+}
 --- page 2 ---
 - Reading & Displaying –
 - There are multiple elements, and each element can be accessed using its index.
@@ -11813,6 +12561,41 @@ a.
 b. -It is a group of logically related data stored in contiguous memory blocks under a common name.   5
 -An Array is a homogeneous or similar data type under a common name.
 Page 1 of 15
+
+[Text in pictures on this page, read by OCR]
+#include <iostream>
+using namespace std;
+int main()
+
+It
+
+char ch;
+cout<<"Enter any Alpabet\n";
+cin>>ch;
+
+vowel letters
+case ‘a':
+cout<<ch<<" is a vowel";
+break;
+case 'e':
+cout<<ch<<" is a vowel";
+break;
+case 'i':
+cout<<ch<<" is a vowel";
+break;
+case ‘o':
+cout<<ch<<" is a vowel";
+break;
+case ‘u':
+cout<<ch<<" is a vowel";
+break;
+default:
+cout<<ch<<" is a consonant";
+break;
+
+: }
+return 0;
+}
 --- page 2 ---
 - Reading & Displaying –
 - There are multiple elements, and each element can be accessed using its index.
@@ -12361,6 +13144,41 @@ a.
 b. -It is a group of logically related data stored in contiguous memory blocks under a common name.   5
 -An Array is a homogeneous or similar data type under a common name.
 Page 1 of 15
+
+[Text in pictures on this page, read by OCR]
+#include <iostream>
+using namespace std;
+int main()
+
+It
+
+char ch;
+cout<<"Enter any Alpabet\n";
+cin>>ch;
+
+vowel letters
+case ‘a':
+cout<<ch<<" is a vowel";
+break;
+case 'e':
+cout<<ch<<" is a vowel";
+break;
+case 'i':
+cout<<ch<<" is a vowel";
+break;
+case ‘o':
+cout<<ch<<" is a vowel";
+break;
+case ‘u':
+cout<<ch<<" is a vowel";
+break;
+default:
+cout<<ch<<" is a consonant";
+break;
+
+: }
+return 0;
+}
 --- page 2 ---
 - Reading & Displaying –
 - There are multiple elements, and each element can be accessed using its index.
@@ -12934,6 +13752,25 @@ class multiplication
 {
 public:
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+<iostream>
+1a ace std;
+
+int mainQ)
+{
+
+int num = 96:
+
+if (um > 0)
+
+cout << "The number is positive"
+else if (num <0)
+cout << "The number is negative"
+
+cout << "Zero":
+
+return 0;
 --- page 3 ---
 void mul(int x, int y)
 {
@@ -13007,6 +13844,22 @@ b. Variable declaration – 01 Mark   5
 Reading input and displaying output – 01 Mark
 Use of correct formula/Logic – 03 marks
 Page 5 of 18
+
+[Text in pictures on this page, read by OCR]
+If.else if.. Ladder flow chart
+
+(expression1)
+Statement(s)1
+
+(expression2
+
+Statement(s)2
+
+Statement(s)3
+
+Statement(s)4
+
+Rest of the code
 --- page 6 ---
 #include <iostream>
 using namespace std;
@@ -13465,6 +14318,25 @@ class multiplication
 {
 public:
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+<iostream>
+1a ace std;
+
+int mainQ)
+{
+
+int num = 96:
+
+if (um > 0)
+
+cout << "The number is positive"
+else if (num <0)
+cout << "The number is negative"
+
+cout << "Zero":
+
+return 0;
 --- page 3 ---
 void mul(int x, int y)
 {
@@ -13538,6 +14410,22 @@ b. Variable declaration – 01 Mark   5
 Reading input and displaying output – 01 Mark
 Use of correct formula/Logic – 03 marks
 Page 5 of 18
+
+[Text in pictures on this page, read by OCR]
+If.else if.. Ladder flow chart
+
+(expression1)
+Statement(s)1
+
+(expression2
+
+Statement(s)2
+
+Statement(s)3
+
+Statement(s)4
+
+Rest of the code
 --- page 6 ---
 #include <iostream>
 using namespace std;
@@ -13996,6 +14884,25 @@ class multiplication
 {
 public:
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+<iostream>
+1a ace std;
+
+int mainQ)
+{
+
+int num = 96:
+
+if (um > 0)
+
+cout << "The number is positive"
+else if (num <0)
+cout << "The number is negative"
+
+cout << "Zero":
+
+return 0;
 --- page 3 ---
 void mul(int x, int y)
 {
@@ -14069,6 +14976,22 @@ b. Variable declaration – 01 Mark   5
 Reading input and displaying output – 01 Mark
 Use of correct formula/Logic – 03 marks
 Page 5 of 18
+
+[Text in pictures on this page, read by OCR]
+If.else if.. Ladder flow chart
+
+(expression1)
+Statement(s)1
+
+(expression2
+
+Statement(s)2
+
+Statement(s)3
+
+Statement(s)4
+
+Rest of the code
 --- page 6 ---
 #include <iostream>
 using namespace std;
@@ -14527,6 +15450,25 @@ class multiplication
 {
 public:
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+<iostream>
+1a ace std;
+
+int mainQ)
+{
+
+int num = 96:
+
+if (um > 0)
+
+cout << "The number is positive"
+else if (num <0)
+cout << "The number is negative"
+
+cout << "Zero":
+
+return 0;
 --- page 3 ---
 void mul(int x, int y)
 {
@@ -14600,6 +15542,22 @@ b. Variable declaration – 01 Mark   5
 Reading input and displaying output – 01 Mark
 Use of correct formula/Logic – 03 marks
 Page 5 of 18
+
+[Text in pictures on this page, read by OCR]
+If.else if.. Ladder flow chart
+
+(expression1)
+Statement(s)1
+
+(expression2
+
+Statement(s)2
+
+Statement(s)3
+
+Statement(s)4
+
+Rest of the code
 --- page 6 ---
 #include <iostream>
 using namespace std;
@@ -15058,6 +16016,25 @@ class multiplication
 {
 public:
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+<iostream>
+1a ace std;
+
+int mainQ)
+{
+
+int num = 96:
+
+if (um > 0)
+
+cout << "The number is positive"
+else if (num <0)
+cout << "The number is negative"
+
+cout << "Zero":
+
+return 0;
 --- page 3 ---
 void mul(int x, int y)
 {
@@ -15131,6 +16108,22 @@ b. Variable declaration – 01 Mark   5
 Reading input and displaying output – 01 Mark
 Use of correct formula/Logic – 03 marks
 Page 5 of 18
+
+[Text in pictures on this page, read by OCR]
+If.else if.. Ladder flow chart
+
+(expression1)
+Statement(s)1
+
+(expression2
+
+Statement(s)2
+
+Statement(s)3
+
+Statement(s)4
+
+Rest of the code
 --- page 6 ---
 #include <iostream>
 using namespace std;
@@ -15589,6 +16582,25 @@ class multiplication
 {
 public:
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+<iostream>
+1a ace std;
+
+int mainQ)
+{
+
+int num = 96:
+
+if (um > 0)
+
+cout << "The number is positive"
+else if (num <0)
+cout << "The number is negative"
+
+cout << "Zero":
+
+return 0;
 --- page 3 ---
 void mul(int x, int y)
 {
@@ -15662,6 +16674,22 @@ b. Variable declaration – 01 Mark   5
 Reading input and displaying output – 01 Mark
 Use of correct formula/Logic – 03 marks
 Page 5 of 18
+
+[Text in pictures on this page, read by OCR]
+If.else if.. Ladder flow chart
+
+(expression1)
+Statement(s)1
+
+(expression2
+
+Statement(s)2
+
+Statement(s)3
+
+Statement(s)4
+
+Rest of the code
 --- page 6 ---
 #include <iostream>
 using namespace std;
@@ -16120,6 +17148,25 @@ class multiplication
 {
 public:
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+<iostream>
+1a ace std;
+
+int mainQ)
+{
+
+int num = 96:
+
+if (um > 0)
+
+cout << "The number is positive"
+else if (num <0)
+cout << "The number is negative"
+
+cout << "Zero":
+
+return 0;
 --- page 3 ---
 void mul(int x, int y)
 {
@@ -16193,6 +17240,22 @@ b. Variable declaration – 01 Mark   5
 Reading input and displaying output – 01 Mark
 Use of correct formula/Logic – 03 marks
 Page 5 of 18
+
+[Text in pictures on this page, read by OCR]
+If.else if.. Ladder flow chart
+
+(expression1)
+Statement(s)1
+
+(expression2
+
+Statement(s)2
+
+Statement(s)3
+
+Statement(s)4
+
+Rest of the code
 --- page 6 ---
 #include <iostream>
 using namespace std;
@@ -16651,6 +17714,25 @@ class multiplication
 {
 public:
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+<iostream>
+1a ace std;
+
+int mainQ)
+{
+
+int num = 96:
+
+if (um > 0)
+
+cout << "The number is positive"
+else if (num <0)
+cout << "The number is negative"
+
+cout << "Zero":
+
+return 0;
 --- page 3 ---
 void mul(int x, int y)
 {
@@ -16724,6 +17806,22 @@ b. Variable declaration – 01 Mark   5
 Reading input and displaying output – 01 Mark
 Use of correct formula/Logic – 03 marks
 Page 5 of 18
+
+[Text in pictures on this page, read by OCR]
+If.else if.. Ladder flow chart
+
+(expression1)
+Statement(s)1
+
+(expression2
+
+Statement(s)2
+
+Statement(s)3
+
+Statement(s)4
+
+Rest of the code
 --- page 6 ---
 #include <iostream>
 using namespace std;
@@ -17182,6 +18280,25 @@ class multiplication
 {
 public:
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+<iostream>
+1a ace std;
+
+int mainQ)
+{
+
+int num = 96:
+
+if (um > 0)
+
+cout << "The number is positive"
+else if (num <0)
+cout << "The number is negative"
+
+cout << "Zero":
+
+return 0;
 --- page 3 ---
 void mul(int x, int y)
 {
@@ -17255,6 +18372,22 @@ b. Variable declaration – 01 Mark   5
 Reading input and displaying output – 01 Mark
 Use of correct formula/Logic – 03 marks
 Page 5 of 18
+
+[Text in pictures on this page, read by OCR]
+If.else if.. Ladder flow chart
+
+(expression1)
+Statement(s)1
+
+(expression2
+
+Statement(s)2
+
+Statement(s)3
+
+Statement(s)4
+
+Rest of the code
 --- page 6 ---
 #include <iostream>
 using namespace std;
@@ -17713,6 +18846,25 @@ class multiplication
 {
 public:
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+<iostream>
+1a ace std;
+
+int mainQ)
+{
+
+int num = 96:
+
+if (um > 0)
+
+cout << "The number is positive"
+else if (num <0)
+cout << "The number is negative"
+
+cout << "Zero":
+
+return 0;
 --- page 3 ---
 void mul(int x, int y)
 {
@@ -17786,6 +18938,22 @@ b. Variable declaration – 01 Mark   5
 Reading input and displaying output – 01 Mark
 Use of correct formula/Logic – 03 marks
 Page 5 of 18
+
+[Text in pictures on this page, read by OCR]
+If.else if.. Ladder flow chart
+
+(expression1)
+Statement(s)1
+
+(expression2
+
+Statement(s)2
+
+Statement(s)3
+
+Statement(s)4
+
+Rest of the code
 --- page 6 ---
 #include <iostream>
 using namespace std;
@@ -18244,6 +19412,25 @@ class multiplication
 {
 public:
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+<iostream>
+1a ace std;
+
+int mainQ)
+{
+
+int num = 96:
+
+if (um > 0)
+
+cout << "The number is positive"
+else if (num <0)
+cout << "The number is negative"
+
+cout << "Zero":
+
+return 0;
 --- page 3 ---
 void mul(int x, int y)
 {
@@ -18317,6 +19504,22 @@ b. Variable declaration – 01 Mark   5
 Reading input and displaying output – 01 Mark
 Use of correct formula/Logic – 03 marks
 Page 5 of 18
+
+[Text in pictures on this page, read by OCR]
+If.else if.. Ladder flow chart
+
+(expression1)
+Statement(s)1
+
+(expression2
+
+Statement(s)2
+
+Statement(s)3
+
+Statement(s)4
+
+Rest of the code
 --- page 6 ---
 #include <iostream>
 using namespace std;
@@ -18775,6 +19978,25 @@ class multiplication
 {
 public:
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+<iostream>
+1a ace std;
+
+int mainQ)
+{
+
+int num = 96:
+
+if (um > 0)
+
+cout << "The number is positive"
+else if (num <0)
+cout << "The number is negative"
+
+cout << "Zero":
+
+return 0;
 --- page 3 ---
 void mul(int x, int y)
 {
@@ -18848,6 +20070,22 @@ b. Variable declaration – 01 Mark   5
 Reading input and displaying output – 01 Mark
 Use of correct formula/Logic – 03 marks
 Page 5 of 18
+
+[Text in pictures on this page, read by OCR]
+If.else if.. Ladder flow chart
+
+(expression1)
+Statement(s)1
+
+(expression2
+
+Statement(s)2
+
+Statement(s)3
+
+Statement(s)4
+
+Rest of the code
 --- page 6 ---
 #include <iostream>
 using namespace std;
@@ -19306,6 +20544,25 @@ class multiplication
 {
 public:
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+<iostream>
+1a ace std;
+
+int mainQ)
+{
+
+int num = 96:
+
+if (um > 0)
+
+cout << "The number is positive"
+else if (num <0)
+cout << "The number is negative"
+
+cout << "Zero":
+
+return 0;
 --- page 3 ---
 void mul(int x, int y)
 {
@@ -19379,6 +20636,22 @@ b. Variable declaration – 01 Mark   5
 Reading input and displaying output – 01 Mark
 Use of correct formula/Logic – 03 marks
 Page 5 of 18
+
+[Text in pictures on this page, read by OCR]
+If.else if.. Ladder flow chart
+
+(expression1)
+Statement(s)1
+
+(expression2
+
+Statement(s)2
+
+Statement(s)3
+
+Statement(s)4
+
+Rest of the code
 --- page 6 ---
 #include <iostream>
 using namespace std;
@@ -19837,6 +21110,25 @@ class multiplication
 {
 public:
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+<iostream>
+1a ace std;
+
+int mainQ)
+{
+
+int num = 96:
+
+if (um > 0)
+
+cout << "The number is positive"
+else if (num <0)
+cout << "The number is negative"
+
+cout << "Zero":
+
+return 0;
 --- page 3 ---
 void mul(int x, int y)
 {
@@ -19910,6 +21202,22 @@ b. Variable declaration – 01 Mark   5
 Reading input and displaying output – 01 Mark
 Use of correct formula/Logic – 03 marks
 Page 5 of 18
+
+[Text in pictures on this page, read by OCR]
+If.else if.. Ladder flow chart
+
+(expression1)
+Statement(s)1
+
+(expression2
+
+Statement(s)2
+
+Statement(s)3
+
+Statement(s)4
+
+Rest of the code
 --- page 6 ---
 #include <iostream>
 using namespace std;
@@ -20368,6 +21676,25 @@ class multiplication
 {
 public:
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+<iostream>
+1a ace std;
+
+int mainQ)
+{
+
+int num = 96:
+
+if (um > 0)
+
+cout << "The number is positive"
+else if (num <0)
+cout << "The number is negative"
+
+cout << "Zero":
+
+return 0;
 --- page 3 ---
 void mul(int x, int y)
 {
@@ -20441,6 +21768,22 @@ b. Variable declaration – 01 Mark   5
 Reading input and displaying output – 01 Mark
 Use of correct formula/Logic – 03 marks
 Page 5 of 18
+
+[Text in pictures on this page, read by OCR]
+If.else if.. Ladder flow chart
+
+(expression1)
+Statement(s)1
+
+(expression2
+
+Statement(s)2
+
+Statement(s)3
+
+Statement(s)4
+
+Rest of the code
 --- page 6 ---
 #include <iostream>
 using namespace std;
@@ -20899,6 +22242,25 @@ class multiplication
 {
 public:
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+<iostream>
+1a ace std;
+
+int mainQ)
+{
+
+int num = 96:
+
+if (um > 0)
+
+cout << "The number is positive"
+else if (num <0)
+cout << "The number is negative"
+
+cout << "Zero":
+
+return 0;
 --- page 3 ---
 void mul(int x, int y)
 {
@@ -20972,6 +22334,22 @@ b. Variable declaration – 01 Mark   5
 Reading input and displaying output – 01 Mark
 Use of correct formula/Logic – 03 marks
 Page 5 of 18
+
+[Text in pictures on this page, read by OCR]
+If.else if.. Ladder flow chart
+
+(expression1)
+Statement(s)1
+
+(expression2
+
+Statement(s)2
+
+Statement(s)3
+
+Statement(s)4
+
+Rest of the code
 --- page 6 ---
 #include <iostream>
 using namespace std;
@@ -21430,6 +22808,25 @@ class multiplication
 {
 public:
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+<iostream>
+1a ace std;
+
+int mainQ)
+{
+
+int num = 96:
+
+if (um > 0)
+
+cout << "The number is positive"
+else if (num <0)
+cout << "The number is negative"
+
+cout << "Zero":
+
+return 0;
 --- page 3 ---
 void mul(int x, int y)
 {
@@ -21503,6 +22900,22 @@ b. Variable declaration – 01 Mark   5
 Reading input and displaying output – 01 Mark
 Use of correct formula/Logic – 03 marks
 Page 5 of 18
+
+[Text in pictures on this page, read by OCR]
+If.else if.. Ladder flow chart
+
+(expression1)
+Statement(s)1
+
+(expression2
+
+Statement(s)2
+
+Statement(s)3
+
+Statement(s)4
+
+Rest of the code
 --- page 6 ---
 #include <iostream>
 using namespace std;
@@ -21961,6 +23374,25 @@ class multiplication
 {
 public:
 Page 2 of 18
+
+[Text in pictures on this page, read by OCR]
+<iostream>
+1a ace std;
+
+int mainQ)
+{
+
+int num = 96:
+
+if (um > 0)
+
+cout << "The number is positive"
+else if (num <0)
+cout << "The number is negative"
+
+cout << "Zero":
+
+return 0;
 --- page 3 ---
 void mul(int x, int y)
 {
@@ -22034,6 +23466,22 @@ b. Variable declaration – 01 Mark   5
 Reading input and displaying output – 01 Mark
 Use of correct formula/Logic – 03 marks
 Page 5 of 18
+
+[Text in pictures on this page, read by OCR]
+If.else if.. Ladder flow chart
+
+(expression1)
+Statement(s)1
+
+(expression2
+
+Statement(s)2
+
+Statement(s)3
+
+Statement(s)4
+
+Rest of the code
 --- page 6 ---
 #include <iostream>
 using namespace std;

@@ -1,5 +1,5 @@
 {
-  "_comment": "Papers the portal filed under the wrong subject, found by comparing the subject printed in each paper's header with its folder and confirmed by looking at the page. Key: original path in the archive; value: the subject it belongs to and the subject as printed. Identical copies follow.",
+  "_comment": "Papers the portal filed under the wrong subject, found by comparing the subject printed in each paper's header with its folder and confirmed by looking at the page. Key: original path in the archive; value: the subject it belongs to and the subject as printed. Identical copies follow. An entry with \"kind\" says what a file really is when it is not a paper; it is listed but not read as one.",
   "02_Question_Papers/Legacy/M TECH/1ST YEAR/EXTC/II SEMESTER/ADVANCED IMAGE PROCESSING/ADVANCED COMMUNICATION NETWORKS BATCH 2014-20150001.pdf": {
     "subject": "Advanced Communication Networks",
     "printed": "Advanced Communication Networks"
@@ -235,5 +235,9 @@
   "02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/V SEMESTER/WIRELESS COMMUNICATION/WIRELESS NETWORKING 2017-2018 Final.pdf": {
     "subject": "Wireless Networking",
     "printed": "Wireless Networking"
+  },
+  "02_Question_Papers/2025/Sem_05/Final-Exam/BTech_Civil_7005/Smart Cities/QP_Smart Cities(702CI0I008)_2025-2026.docx": {
+    "kind": "Not a paper",
+    "note": "not the question paper: 145 screenshots of the portal's answer-sheet evaluation screen (students' answer books), filed under the paper's name; the Smart Cities 2025-26 paper itself is listed separately"
   }
 }

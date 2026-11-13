@@ -91,6 +91,26 @@ the appropriateness of the company’s presentation.
 2.   Answer the Following   15
 1.   8
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+Chhaava Industries Ltd. constructed a manufacturing unit for its own use during the financial
+year 2025-26. The construction was completed on 31 March 2026.
+
+The following costs were incurred during the construction of the plant:
+1. Direct materials — %14,80,00,000
+2. Direct labour — 87,60,00,000
+3. Construction overheads — %5,40,00,000 (including abnormal waste of %60,00,000)
+4. Site engineer and project management salaries — %1,90,00,000
+
+5. General administrative expenses — %2,80,00,000 (25% directly attributable to plant
+construction)
+
+6. Other directly attributable expenses — %95,00,000
+7. Initial trial run expenses — 21,20,00,000
+8. Sale proceeds from goods produced during trial run — 335,00,000
+
+Compute the cost of the plant to be recognised as Property, Plant and Equipment (PPE) as per
+IND AS 16.
 --- page 4 ---
 Border Ltd. purchased a printing press on 1 April 2021 for %25,00,000. The machine is
 depreciated using the reducing balance method at 20% per annum.

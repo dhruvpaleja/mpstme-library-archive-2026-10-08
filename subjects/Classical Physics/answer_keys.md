@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_Mechanical_7003/Classical Physics/ANS_Classical Physics(702BS0C092)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: text (13 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -73,6 +74,23 @@ termed perihelion. The point of greatest separation is aphelion, hence
 by Kepler's Second Law, a planet is moving fastest when it is at
 perihelion and slowest at aphelion.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Thus if J,, and J, be the moments of inertia of a plane lamina about
+the perpendicular axes, OX and OY, which lie in the plane of the lamina
+and intersect each other at O, the moment of inertia about an axis passing
+
+through O and perpendicular to the plane of the lamina is given by
+I=1,+l
+
+Consider a particle P of mass m at a distance x and y from OY and OX
+
+respectively and at distance r from O, we have
+
+Zz
+le +1, =) mr? vyte=r?
+
+Iptly =I
 --- page 3 ---
 3 marks
 d.   A ball of mass 0.35 kg is moving horizontally at a velocity of 10 m/s   [5]
@@ -130,6 +148,23 @@ Earth, however, is rotating about its axis and revolving around the Sun, so it i
 accelerated (non-inertial) frame.
 2 marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+In force-free space, no external force acts:
+
+Expanding we get
+Substitutin dm _
+° 9 a = av
+
+or
+
+Therefore, the acceleration is given by
+
+d
+ame) = 0
+
+dv dm
+mia dt
 --- page 5 ---
 However, for many everyday problems, we approximate Earth as an inertial frame
 because the effects of its acceleration are small. A classic example of physical effect
@@ -152,6 +187,18 @@ one side
 Let ABCD be a rectangular lamina of length l and breadth b and mass
 m. Let YoY’ be the axis of rotation.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Consider a body of mass M capable of rotating about a fixed axis AB. The
+body can be imagined to be made up of number of particles of masses
+M4,Mz, Mz etc at distancesr;,12,73 etc., from the axis of rotation. Then, the
+moment of inertia of the body about the axis of rotation AB will be the sum of the
+
+moments of inertia of the different particles.
+
+1 = mr? + mor? + mar? or 1 =Y mr?. SI unit of moment of inertia is
+
+Kgm?.
 --- page 6 ---
 6 marks
 b.   To balance a 35.5 kg automobile tire and wheel, a mechanic must   [6]
@@ -187,6 +234,24 @@ two key effects:
 1. Gyroscopic effect of the wheels: When the wheels rotate, they
 possess angular momentum, making them resist changes in their
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+In this case, since the axis coincides with AD or BC, we
+integrate the expression for the M.I. of the element of
+length dx at distance x from the axis, i.e.,
+
+(M/l) dx.x?,
+
+between the limits x = 0 at AD and x = lat BC. So
+that M.I. of the lamina about side AD or BC is given by
+
+1 [* xa “fe Me
+=f ea SIE)
+J, 1 T[3],~ 3
+
+a> he B
+oe?
+Dp! * ——_ c
 --- page 7 ---
 orientation. Thus, if the bicycle starts to tilt, the spinning wheels
 generate a gyroscopic torque that tends to oppose the tilt or redirect it.
@@ -483,6 +548,7 @@ F/M << aapple = F/m), and not noticeable.
 - Source: `02_Question_Papers/2025/Sem_08/Final-Exam/Integrated_Mechanical_7031/Classical Physics/ANS_Classical Physics(702BS0C054)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: text (13 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -547,6 +613,23 @@ termed perihelion. The point of greatest separation is aphelion, hence
 by Kepler's Second Law, a planet is moving fastest when it is at
 perihelion and slowest at aphelion.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Thus if J,, and J, be the moments of inertia of a plane lamina about
+the perpendicular axes, OX and OY, which lie in the plane of the lamina
+and intersect each other at O, the moment of inertia about an axis passing
+
+through O and perpendicular to the plane of the lamina is given by
+I=1,+l
+
+Consider a particle P of mass m at a distance x and y from OY and OX
+
+respectively and at distance r from O, we have
+
+Zz
+le +1, =) mr? vyte=r?
+
+Iptly =I
 --- page 3 ---
 3 marks
 d.   A ball of mass 0.35 kg is moving horizontally at a velocity of 10 m/s   [5]
@@ -604,6 +687,23 @@ Earth, however, is rotating about its axis and revolving around the Sun, so it i
 accelerated (non-inertial) frame.
 2 marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+In force-free space, no external force acts:
+
+Expanding we get
+Substitutin dm _
+° 9 a = av
+
+or
+
+Therefore, the acceleration is given by
+
+d
+ame) = 0
+
+dv dm
+mia dt
 --- page 5 ---
 However, for many everyday problems, we approximate Earth as an inertial frame
 because the effects of its acceleration are small. A classic example of physical effect
@@ -626,6 +726,18 @@ one side
 Let ABCD be a rectangular lamina of length l and breadth b and mass
 m. Let YoY’ be the axis of rotation.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Consider a body of mass M capable of rotating about a fixed axis AB. The
+body can be imagined to be made up of number of particles of masses
+M4,Mz, Mz etc at distancesr;,12,73 etc., from the axis of rotation. Then, the
+moment of inertia of the body about the axis of rotation AB will be the sum of the
+
+moments of inertia of the different particles.
+
+1 = mr? + mor? + mar? or 1 =Y mr?. SI unit of moment of inertia is
+
+Kgm?.
 --- page 6 ---
 6 marks
 b.   To balance a 35.5 kg automobile tire and wheel, a mechanic must   [6]
@@ -661,6 +773,24 @@ two key effects:
 1. Gyroscopic effect of the wheels: When the wheels rotate, they
 possess angular momentum, making them resist changes in their
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+In this case, since the axis coincides with AD or BC, we
+integrate the expression for the M.I. of the element of
+length dx at distance x from the axis, i.e.,
+
+(M/l) dx.x?,
+
+between the limits x = 0 at AD and x = lat BC. So
+that M.I. of the lamina about side AD or BC is given by
+
+1 [* xa “fe Me
+=f ea SIE)
+J, 1 T[3],~ 3
+
+a> he B
+oe?
+Dp! * ——_ c
 --- page 7 ---
 orientation. Thus, if the bicycle starts to tilt, the spinning wheels
 generate a gyroscopic torque that tends to oppose the tilt or redirect it.
@@ -957,6 +1087,7 @@ F/M << aapple = F/m), and not noticeable.
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_Mechanical_7003/Classical Physics/ANS_Classical Physics(702BS0C092)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: text (11 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -994,6 +1125,21 @@ then the angular momentum of the body remains constant. This is called
 the law of conservation of angular momentum.
 2 marks
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+For a system of N particles with masses m; and position vectors 7}, the center of mass is
+defined as:
+
+N * N *
+te M
+Where M = py m; is the total mass of the system.
+
+For a continuous mass distribution with density p(7), the center of mass is:
+a
+R=—f rp(7)d3r
+wre)
+
+Where M = J p(#)d?r is the total mass.
 --- page 2 ---
 3 marks
 c.   State the second Kepler’s laws of planetary motion and mention its
@@ -1024,6 +1170,30 @@ equations for a reference frame that is moving with uniform velocity along the x
 with respect to another reference frame. Discuss the limitations of Galilean   [10]
 transformations.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Proof:
+Consider a particle of mass m, rotating about an axis with torque ‘t’.
+Let p be the linear momentum of the particle and 7 be its position vector.
+
+-- Angular momentum, L = 7 x p
+
+Differentiating equation (1) with respect to time t, we get,
+
+di _ 4,5) = Big dt
+ae at *P Pkt
+
+dp dr o>. -
+We know that, EE = F,— ETP Sw
+
+te x B4m(exs)
+
+t
+wf LenB _.(=¥ xv =0)
+a iseesh ( #x F=7)
+Now, If the 7 = 0, then
+
+-. L is constant. Hence angular momentum remains conserved.
 --- page 3 ---
 Ans. A point or a particle at any instant, in space has different co-ordinates in different
 reference systems. The equations which provide the relationship between the co-
@@ -1107,6 +1277,52 @@ The wheel’s original center of mass is going to be the x-distance away
 from the origin of the new center of mass.
 Applying the center of mass equation and solving
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Let M be the mass of the disc and R, its radius. Then, since the area of the disc
+
+: . . . M
+is 1R?, its mass per unit area will be ard
+
+Consider a ring of the disc, distant x from O, that is radius x, and of width dx
+
+(fig). Its area is clearly equal to its circumference, multiplied by its width
+
+(2mx X dx) and its mass is thus
+
+2Mx.dx
+R
+
+= amex de =
+mR
+
+Hence the moment of inertia of this ring about an axis through O perpendicular to its plane is
+
+2Mx.dx , _ 2Mx3.dx
+- ga
+
+Rr R
+
+Since the whole dise may be supposed to be made up of such concentric rings of radii ranging from
+0 to R we can get the moment of inertia I of the disc by integrating the above expression for the moment of
+
+inertia of the ring, for the limits x = 0 and x = R.
+
+. . ROM
+«. Moment of Inertia of the disc i ee dx
+
+fo
+
+1a 2M [<}
+=e
+R [4],
+2M Rt
+p=
+R24
+MR?
+1=—_
+
+2
 --- page 6 ---
 Or 𝑋CM = -0.354 mm
 Therefore, the original center of mass is 0.354 mm away from the
@@ -1235,6 +1451,20 @@ height (h) from which the car has to start in order to pass the loop without
 falling down.   [10]
 Ans.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+¢ Diameter of asteroid orbit = 3x diameter of Earth’s orbit
+= Radius also becomes Tq — 3re¢
+
+Thus,
+
+T,
+
+Zz = (3)9? = 3v3
+
+Since Earth's time period T. = 1 year:
+
+T, = 3V3 years ~ 5.2 years
 --- page 9 ---
 2 marks
 In a roller coaster two forces are in act, viz. the gravitational force and the
@@ -1363,6 +1593,7 @@ preventing noticeable backward motion.
 - Source: `02_Question_Papers/2025/Sem_08/Re-Exam/Integrated_Mechanical_7031/Classical Physics/ANS_Classical Physics(702BS0C054)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: text (11 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1400,6 +1631,21 @@ then the angular momentum of the body remains constant. This is called
 the law of conservation of angular momentum.
 2 marks
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+For a system of N particles with masses m; and position vectors 7}, the center of mass is
+defined as:
+
+N * N *
+te M
+Where M = py m; is the total mass of the system.
+
+For a continuous mass distribution with density p(7), the center of mass is:
+a
+R=—f rp(7)d3r
+wre)
+
+Where M = J p(#)d?r is the total mass.
 --- page 2 ---
 3 marks
 c.   State the second Kepler’s laws of planetary motion and mention its
@@ -1430,6 +1676,30 @@ equations for a reference frame that is moving with uniform velocity along the x
 with respect to another reference frame. Discuss the limitations of Galilean   [10]
 transformations.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Proof:
+Consider a particle of mass m, rotating about an axis with torque ‘t’.
+Let p be the linear momentum of the particle and 7 be its position vector.
+
+-- Angular momentum, L = 7 x p
+
+Differentiating equation (1) with respect to time t, we get,
+
+di _ 4,5) = Big dt
+ae at *P Pkt
+
+dp dr o>. -
+We know that, EE = F,— ETP Sw
+
+te x B4m(exs)
+
+t
+wf LenB _.(=¥ xv =0)
+a iseesh ( #x F=7)
+Now, If the 7 = 0, then
+
+-. L is constant. Hence angular momentum remains conserved.
 --- page 3 ---
 Ans. A point or a particle at any instant, in space has different co-ordinates in different
 reference systems. The equations which provide the relationship between the co-
@@ -1513,6 +1783,52 @@ The wheel’s original center of mass is going to be the x-distance away
 from the origin of the new center of mass.
 Applying the center of mass equation and solving
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Let M be the mass of the disc and R, its radius. Then, since the area of the disc
+
+: . . . M
+is 1R?, its mass per unit area will be ard
+
+Consider a ring of the disc, distant x from O, that is radius x, and of width dx
+
+(fig). Its area is clearly equal to its circumference, multiplied by its width
+
+(2mx X dx) and its mass is thus
+
+2Mx.dx
+R
+
+= amex de =
+mR
+
+Hence the moment of inertia of this ring about an axis through O perpendicular to its plane is
+
+2Mx.dx , _ 2Mx3.dx
+- ga
+
+Rr R
+
+Since the whole dise may be supposed to be made up of such concentric rings of radii ranging from
+0 to R we can get the moment of inertia I of the disc by integrating the above expression for the moment of
+
+inertia of the ring, for the limits x = 0 and x = R.
+
+. . ROM
+«. Moment of Inertia of the disc i ee dx
+
+fo
+
+1a 2M [<}
+=e
+R [4],
+2M Rt
+p=
+R24
+MR?
+1=—_
+
+2
 --- page 6 ---
 Or 𝑋CM = -0.354 mm
 Therefore, the original center of mass is 0.354 mm away from the
@@ -1641,6 +1957,20 @@ height (h) from which the car has to start in order to pass the loop without
 falling down.   [10]
 Ans.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+¢ Diameter of asteroid orbit = 3x diameter of Earth’s orbit
+= Radius also becomes Tq — 3re¢
+
+Thus,
+
+T,
+
+Zz = (3)9? = 3v3
+
+Since Earth's time period T. = 1 year:
+
+T, = 3V3 years ~ 5.2 years
 --- page 9 ---
 2 marks
 In a roller coaster two forces are in act, viz. the gravitational force and the

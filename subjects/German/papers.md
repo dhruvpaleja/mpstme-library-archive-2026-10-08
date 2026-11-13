@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_AIDS_7056/German/QP_German(702BS1I001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: text (7 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -126,6 +127,20 @@ B: Ja, er trinkt ____________.
 5. A: Ruft dein Freund dich heute an?
 B: Ja, er ruft ____________ an.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+heute konnen die Hausaufgabe Max
+
+ins Kino schreiben meine Mutter um 5 Uhr
+wollen eine Stadttour ich muissen den Brief
+
+am Abend zusammen die Musik fragen
+planen Ich und meine Freundin gestern
+
+zum Arzt wir telefonieren einen Ausflug
+machen Anna das Essen horen
+
+am Montag jeden Tag die Reise Sie
 --- page 4 ---
 6. A: Magst du mich?
 B: Ja, ich mag ____________.
@@ -231,6 +246,18 @@ BUSFAHRRADAUTOSCHIFFFLUGZEUGZUG
 6. Im Winter ist es zu kalt. Wie ist es im Sommer?
 7. Was bestellen Sie meistens in einem Restaurant?   [10]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Name: Anna Miller
+
+Name: Luca Rossi
+
+
+Beruf: Kellner Beruf: Arztin
+
+Hobbys: Musik héren, Fahrrad fahren Hobbys: Lesen, Yoga machen
+
+Alter: 28 Sprachen: Italienisch, Deutsch Alter: 30 Sprachen, Deuisch
 --- page 7 ---
 8. Was müssen Sie machen? Was dürfen Sie nicht machen?
 b. Schreiben Sie die Ordinalzahlen: Datum
@@ -250,6 +277,7 @@ ALLES GUTE !
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_AI_7012/German/QP_German(702BS1I001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: text (7 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -365,6 +393,20 @@ B: Ja, er trinkt ____________.
 5. A: Ruft dein Freund dich heute an?
 B: Ja, er ruft ____________ an.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+heute konnen die Hausaufgabe Max
+
+ins Kino schreiben meine Mutter um 5 Uhr
+wollen eine Stadttour ich muissen den Brief
+
+am Abend zusammen die Musik fragen
+planen Ich und meine Freundin gestern
+
+zum Arzt wir telefonieren einen Ausflug
+machen Anna das Essen horen
+
+am Montag jeden Tag die Reise Sie
 --- page 4 ---
 6. A: Magst du mich?
 B: Ja, ich mag ____________.
@@ -470,6 +512,18 @@ BUSFAHRRADAUTOSCHIFFFLUGZEUGZUG
 6. Im Winter ist es zu kalt. Wie ist es im Sommer?
 7. Was bestellen Sie meistens in einem Restaurant?   [10]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Name: Anna Miller
+
+Name: Luca Rossi
+
+
+Beruf: Kellner Beruf: Arztin
+
+Hobbys: Musik héren, Fahrrad fahren Hobbys: Lesen, Yoga machen
+
+Alter: 28 Sprachen: Italienisch, Deutsch Alter: 30 Sprachen, Deuisch
 --- page 7 ---
 8. Was müssen Sie machen? Was dürfen Sie nicht machen?
 b. Schreiben Sie die Ordinalzahlen: Datum
@@ -489,6 +543,7 @@ ALLES GUTE !
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CSE_DS_7057/German/QP_German(702BS1I001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: text (7 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -604,6 +659,20 @@ B: Ja, er trinkt ____________.
 5. A: Ruft dein Freund dich heute an?
 B: Ja, er ruft ____________ an.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+heute konnen die Hausaufgabe Max
+
+ins Kino schreiben meine Mutter um 5 Uhr
+wollen eine Stadttour ich muissen den Brief
+
+am Abend zusammen die Musik fragen
+planen Ich und meine Freundin gestern
+
+zum Arzt wir telefonieren einen Ausflug
+machen Anna das Essen horen
+
+am Montag jeden Tag die Reise Sie
 --- page 4 ---
 6. A: Magst du mich?
 B: Ja, ich mag ____________.
@@ -709,6 +778,18 @@ BUSFAHRRADAUTOSCHIFFFLUGZEUGZUG
 6. Im Winter ist es zu kalt. Wie ist es im Sommer?
 7. Was bestellen Sie meistens in einem Restaurant?   [10]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Name: Anna Miller
+
+Name: Luca Rossi
+
+
+Beruf: Kellner Beruf: Arztin
+
+Hobbys: Musik héren, Fahrrad fahren Hobbys: Lesen, Yoga machen
+
+Alter: 28 Sprachen: Italienisch, Deutsch Alter: 30 Sprachen, Deuisch
 --- page 7 ---
 8. Was müssen Sie machen? Was dürfen Sie nicht machen?
 b. Schreiben Sie die Ordinalzahlen: Datum
@@ -728,6 +809,7 @@ ALLES GUTE !
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Civil_7005/German/QP_German(702BS1I001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: text (7 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -843,6 +925,20 @@ B: Ja, er trinkt ____________.
 5. A: Ruft dein Freund dich heute an?
 B: Ja, er ruft ____________ an.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+heute konnen die Hausaufgabe Max
+
+ins Kino schreiben meine Mutter um 5 Uhr
+wollen eine Stadttour ich muissen den Brief
+
+am Abend zusammen die Musik fragen
+planen Ich und meine Freundin gestern
+
+zum Arzt wir telefonieren einen Ausflug
+machen Anna das Essen horen
+
+am Montag jeden Tag die Reise Sie
 --- page 4 ---
 6. A: Magst du mich?
 B: Ja, ich mag ____________.
@@ -948,6 +1044,18 @@ BUSFAHRRADAUTOSCHIFFFLUGZEUGZUG
 6. Im Winter ist es zu kalt. Wie ist es im Sommer?
 7. Was bestellen Sie meistens in einem Restaurant?   [10]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Name: Anna Miller
+
+Name: Luca Rossi
+
+
+Beruf: Kellner Beruf: Arztin
+
+Hobbys: Musik héren, Fahrrad fahren Hobbys: Lesen, Yoga machen
+
+Alter: 28 Sprachen: Italienisch, Deutsch Alter: 30 Sprachen, Deuisch
 --- page 7 ---
 8. Was müssen Sie machen? Was dürfen Sie nicht machen?
 b. Schreiben Sie die Ordinalzahlen: Datum
@@ -967,6 +1075,7 @@ ALLES GUTE !
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Computer_7002/German/QP_German(702BS1I001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: text (7 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -1082,6 +1191,20 @@ B: Ja, er trinkt ____________.
 5. A: Ruft dein Freund dich heute an?
 B: Ja, er ruft ____________ an.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+heute konnen die Hausaufgabe Max
+
+ins Kino schreiben meine Mutter um 5 Uhr
+wollen eine Stadttour ich muissen den Brief
+
+am Abend zusammen die Musik fragen
+planen Ich und meine Freundin gestern
+
+zum Arzt wir telefonieren einen Ausflug
+machen Anna das Essen horen
+
+am Montag jeden Tag die Reise Sie
 --- page 4 ---
 6. A: Magst du mich?
 B: Ja, ich mag ____________.
@@ -1187,6 +1310,18 @@ BUSFAHRRADAUTOSCHIFFFLUGZEUGZUG
 6. Im Winter ist es zu kalt. Wie ist es im Sommer?
 7. Was bestellen Sie meistens in einem Restaurant?   [10]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Name: Anna Miller
+
+Name: Luca Rossi
+
+
+Beruf: Kellner Beruf: Arztin
+
+Hobbys: Musik héren, Fahrrad fahren Hobbys: Lesen, Yoga machen
+
+Alter: 28 Sprachen: Italienisch, Deutsch Alter: 30 Sprachen, Deuisch
 --- page 7 ---
 8. Was müssen Sie machen? Was dürfen Sie nicht machen?
 b. Schreiben Sie die Ordinalzahlen: Datum
@@ -1206,6 +1341,7 @@ ALLES GUTE !
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CyberSecurity_7010/German/QP_German(702BS1I001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: text (7 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -1321,6 +1457,20 @@ B: Ja, er trinkt ____________.
 5. A: Ruft dein Freund dich heute an?
 B: Ja, er ruft ____________ an.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+heute konnen die Hausaufgabe Max
+
+ins Kino schreiben meine Mutter um 5 Uhr
+wollen eine Stadttour ich muissen den Brief
+
+am Abend zusammen die Musik fragen
+planen Ich und meine Freundin gestern
+
+zum Arzt wir telefonieren einen Ausflug
+machen Anna das Essen horen
+
+am Montag jeden Tag die Reise Sie
 --- page 4 ---
 6. A: Magst du mich?
 B: Ja, ich mag ____________.
@@ -1426,6 +1576,18 @@ BUSFAHRRADAUTOSCHIFFFLUGZEUGZUG
 6. Im Winter ist es zu kalt. Wie ist es im Sommer?
 7. Was bestellen Sie meistens in einem Restaurant?   [10]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Name: Anna Miller
+
+Name: Luca Rossi
+
+
+Beruf: Kellner Beruf: Arztin
+
+Hobbys: Musik héren, Fahrrad fahren Hobbys: Lesen, Yoga machen
+
+Alter: 28 Sprachen: Italienisch, Deutsch Alter: 30 Sprachen, Deuisch
 --- page 7 ---
 8. Was müssen Sie machen? Was dürfen Sie nicht machen?
 b. Schreiben Sie die Ordinalzahlen: Datum
@@ -1445,6 +1607,7 @@ ALLES GUTE !
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_DS_7009/German/QP_German(702BS1I001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: text (7 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -1560,6 +1723,20 @@ B: Ja, er trinkt ____________.
 5. A: Ruft dein Freund dich heute an?
 B: Ja, er ruft ____________ an.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+heute konnen die Hausaufgabe Max
+
+ins Kino schreiben meine Mutter um 5 Uhr
+wollen eine Stadttour ich muissen den Brief
+
+am Abend zusammen die Musik fragen
+planen Ich und meine Freundin gestern
+
+zum Arzt wir telefonieren einen Ausflug
+machen Anna das Essen horen
+
+am Montag jeden Tag die Reise Sie
 --- page 4 ---
 6. A: Magst du mich?
 B: Ja, ich mag ____________.
@@ -1665,6 +1842,18 @@ BUSFAHRRADAUTOSCHIFFFLUGZEUGZUG
 6. Im Winter ist es zu kalt. Wie ist es im Sommer?
 7. Was bestellen Sie meistens in einem Restaurant?   [10]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Name: Anna Miller
+
+Name: Luca Rossi
+
+
+Beruf: Kellner Beruf: Arztin
+
+Hobbys: Musik héren, Fahrrad fahren Hobbys: Lesen, Yoga machen
+
+Alter: 28 Sprachen: Italienisch, Deutsch Alter: 30 Sprachen, Deuisch
 --- page 7 ---
 8. Was müssen Sie machen? Was dürfen Sie nicht machen?
 b. Schreiben Sie die Ordinalzahlen: Datum
@@ -1684,6 +1873,7 @@ ALLES GUTE !
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_EXTC_7006/German/QP_German(702BS1I001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: text (7 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -1799,6 +1989,20 @@ B: Ja, er trinkt ____________.
 5. A: Ruft dein Freund dich heute an?
 B: Ja, er ruft ____________ an.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+heute konnen die Hausaufgabe Max
+
+ins Kino schreiben meine Mutter um 5 Uhr
+wollen eine Stadttour ich muissen den Brief
+
+am Abend zusammen die Musik fragen
+planen Ich und meine Freundin gestern
+
+zum Arzt wir telefonieren einen Ausflug
+machen Anna das Essen horen
+
+am Montag jeden Tag die Reise Sie
 --- page 4 ---
 6. A: Magst du mich?
 B: Ja, ich mag ____________.
@@ -1904,6 +2108,18 @@ BUSFAHRRADAUTOSCHIFFFLUGZEUGZUG
 6. Im Winter ist es zu kalt. Wie ist es im Sommer?
 7. Was bestellen Sie meistens in einem Restaurant?   [10]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Name: Anna Miller
+
+Name: Luca Rossi
+
+
+Beruf: Kellner Beruf: Arztin
+
+Hobbys: Musik héren, Fahrrad fahren Hobbys: Lesen, Yoga machen
+
+Alter: 28 Sprachen: Italienisch, Deutsch Alter: 30 Sprachen, Deuisch
 --- page 7 ---
 8. Was müssen Sie machen? Was dürfen Sie nicht machen?
 b. Schreiben Sie die Ordinalzahlen: Datum
@@ -1923,6 +2139,7 @@ ALLES GUTE !
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Mechanical_7003/German/QP_German(702BS1I001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: text (7 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -2038,6 +2255,20 @@ B: Ja, er trinkt ____________.
 5. A: Ruft dein Freund dich heute an?
 B: Ja, er ruft ____________ an.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+heute konnen die Hausaufgabe Max
+
+ins Kino schreiben meine Mutter um 5 Uhr
+wollen eine Stadttour ich muissen den Brief
+
+am Abend zusammen die Musik fragen
+planen Ich und meine Freundin gestern
+
+zum Arzt wir telefonieren einen Ausflug
+machen Anna das Essen horen
+
+am Montag jeden Tag die Reise Sie
 --- page 4 ---
 6. A: Magst du mich?
 B: Ja, ich mag ____________.
@@ -2143,6 +2374,18 @@ BUSFAHRRADAUTOSCHIFFFLUGZEUGZUG
 6. Im Winter ist es zu kalt. Wie ist es im Sommer?
 7. Was bestellen Sie meistens in einem Restaurant?   [10]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Name: Anna Miller
+
+Name: Luca Rossi
+
+
+Beruf: Kellner Beruf: Arztin
+
+Hobbys: Musik héren, Fahrrad fahren Hobbys: Lesen, Yoga machen
+
+Alter: 28 Sprachen: Italienisch, Deutsch Alter: 30 Sprachen, Deuisch
 --- page 7 ---
 8. Was müssen Sie machen? Was dürfen Sie nicht machen?
 b. Schreiben Sie die Ordinalzahlen: Datum
@@ -2162,6 +2405,7 @@ ALLES GUTE !
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Mechatronics_7004/German/QP_German(702BS1I001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: text (7 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -2277,6 +2521,20 @@ B: Ja, er trinkt ____________.
 5. A: Ruft dein Freund dich heute an?
 B: Ja, er ruft ____________ an.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+heute konnen die Hausaufgabe Max
+
+ins Kino schreiben meine Mutter um 5 Uhr
+wollen eine Stadttour ich muissen den Brief
+
+am Abend zusammen die Musik fragen
+planen Ich und meine Freundin gestern
+
+zum Arzt wir telefonieren einen Ausflug
+machen Anna das Essen horen
+
+am Montag jeden Tag die Reise Sie
 --- page 4 ---
 6. A: Magst du mich?
 B: Ja, ich mag ____________.
@@ -2382,6 +2640,18 @@ BUSFAHRRADAUTOSCHIFFFLUGZEUGZUG
 6. Im Winter ist es zu kalt. Wie ist es im Sommer?
 7. Was bestellen Sie meistens in einem Restaurant?   [10]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Name: Anna Miller
+
+Name: Luca Rossi
+
+
+Beruf: Kellner Beruf: Arztin
+
+Hobbys: Musik héren, Fahrrad fahren Hobbys: Lesen, Yoga machen
+
+Alter: 28 Sprachen: Italienisch, Deutsch Alter: 30 Sprachen, Deuisch
 --- page 7 ---
 8. Was müssen Sie machen? Was dürfen Sie nicht machen?
 b. Schreiben Sie die Ordinalzahlen: Datum
@@ -2401,6 +2671,7 @@ ALLES GUTE !
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/MBATech_AI_7051/German/QP_German(702BS1I001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: text (7 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -2516,6 +2787,20 @@ B: Ja, er trinkt ____________.
 5. A: Ruft dein Freund dich heute an?
 B: Ja, er ruft ____________ an.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+heute konnen die Hausaufgabe Max
+
+ins Kino schreiben meine Mutter um 5 Uhr
+wollen eine Stadttour ich muissen den Brief
+
+am Abend zusammen die Musik fragen
+planen Ich und meine Freundin gestern
+
+zum Arzt wir telefonieren einen Ausflug
+machen Anna das Essen horen
+
+am Montag jeden Tag die Reise Sie
 --- page 4 ---
 6. A: Magst du mich?
 B: Ja, ich mag ____________.
@@ -2621,6 +2906,18 @@ BUSFAHRRADAUTOSCHIFFFLUGZEUGZUG
 6. Im Winter ist es zu kalt. Wie ist es im Sommer?
 7. Was bestellen Sie meistens in einem Restaurant?   [10]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Name: Anna Miller
+
+Name: Luca Rossi
+
+
+Beruf: Kellner Beruf: Arztin
+
+Hobbys: Musik héren, Fahrrad fahren Hobbys: Lesen, Yoga machen
+
+Alter: 28 Sprachen: Italienisch, Deutsch Alter: 30 Sprachen, Deuisch
 --- page 7 ---
 8. Was müssen Sie machen? Was dürfen Sie nicht machen?
 b. Schreiben Sie die Ordinalzahlen: Datum
@@ -2640,6 +2937,7 @@ ALLES GUTE !
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/MBATech_Computer_7047/German/QP_German(702BS1I001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: text (7 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -2755,6 +3053,20 @@ B: Ja, er trinkt ____________.
 5. A: Ruft dein Freund dich heute an?
 B: Ja, er ruft ____________ an.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+heute konnen die Hausaufgabe Max
+
+ins Kino schreiben meine Mutter um 5 Uhr
+wollen eine Stadttour ich muissen den Brief
+
+am Abend zusammen die Musik fragen
+planen Ich und meine Freundin gestern
+
+zum Arzt wir telefonieren einen Ausflug
+machen Anna das Essen horen
+
+am Montag jeden Tag die Reise Sie
 --- page 4 ---
 6. A: Magst du mich?
 B: Ja, ich mag ____________.
@@ -2860,6 +3172,18 @@ BUSFAHRRADAUTOSCHIFFFLUGZEUGZUG
 6. Im Winter ist es zu kalt. Wie ist es im Sommer?
 7. Was bestellen Sie meistens in einem Restaurant?   [10]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Name: Anna Miller
+
+Name: Luca Rossi
+
+
+Beruf: Kellner Beruf: Arztin
+
+Hobbys: Musik héren, Fahrrad fahren Hobbys: Lesen, Yoga machen
+
+Alter: 28 Sprachen: Italienisch, Deutsch Alter: 30 Sprachen, Deuisch
 --- page 7 ---
 8. Was müssen Sie machen? Was dürfen Sie nicht machen?
 b. Schreiben Sie die Ordinalzahlen: Datum
@@ -3882,6 +4206,18 @@ B: Ja, er sucht ____________.
 (j. A: Kauft ihr die Tickets?
 B: Ja, wir kaufen ____________.   [10]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+heute kGnnen die Hausaufgabe Max
+
+ins Kino schreiben meine Mutter um & Uhre
+wollen eine Stadttour ich missen den Brief
+am Abend zusammen die Musik fragen
+planen Ich und meine Freundin gestern
+Zum APzt wir telefonieren einen Ausflug
+machen Anna das Essen heren
+
+am Montag jeden Tag die Reise Sie
 --- page 5 ---
 b. Verbinden Sie die Sätze mit und,oder,aber.
 1. Mein Name ist Christina. Ich bin schon 18 Jahre alt.
@@ -4129,6 +4465,18 @@ B: Ja, er sucht ____________.
 (j. A: Kauft ihr die Tickets?
 B: Ja, wir kaufen ____________.   [10]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+heute kGnnen die Hausaufgabe Max
+
+ins Kino schreiben meine Mutter um & Uhre
+wollen eine Stadttour ich missen den Brief
+am Abend zusammen die Musik fragen
+planen Ich und meine Freundin gestern
+Zum APzt wir telefonieren einen Ausflug
+machen Anna das Essen heren
+
+am Montag jeden Tag die Reise Sie
 --- page 5 ---
 b. Verbinden Sie die Sätze mit und,oder,aber.
 1. Mein Name ist Christina. Ich bin schon 18 Jahre alt.
@@ -4376,6 +4724,18 @@ B: Ja, er sucht ____________.
 (j. A: Kauft ihr die Tickets?
 B: Ja, wir kaufen ____________.   [10]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+heute kGnnen die Hausaufgabe Max
+
+ins Kino schreiben meine Mutter um & Uhre
+wollen eine Stadttour ich missen den Brief
+am Abend zusammen die Musik fragen
+planen Ich und meine Freundin gestern
+Zum APzt wir telefonieren einen Ausflug
+machen Anna das Essen heren
+
+am Montag jeden Tag die Reise Sie
 --- page 5 ---
 b. Verbinden Sie die Sätze mit und,oder,aber.
 1. Mein Name ist Christina. Ich bin schon 18 Jahre alt.

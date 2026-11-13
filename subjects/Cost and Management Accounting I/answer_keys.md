@@ -30,6 +30,19 @@ Instructions:
 6. Working Notes Should Form part of Answers.
 1.   15
 Page 1 of 10
+
+[Text in pictures on this page, read by OCR]
+Working note 1
+
+Calculation of Sales Quantity (1 mark)
+
+Production = 25,600 quintals
+
+Closing stock = 3,200 quintals
+
+Opening stock = 1,600 quintals (added to availability)
+
+Available for sale = 1,600 + 25,600 — 3,200 = 24,000 quintals
 --- page 2 ---
 __Cost Sheet of Commodity A for the year ended 31st March, 2025
 +
@@ -404,6 +417,15 @@ Instructions:
 6. Working Notes Should Form part of Answers.
 1.   15
 Page 1 of 8
+
+[Text in pictures on this page, read by OCR]
+Calculation of closing stock quantity (1 MARK)
+
+Opening stock 1217 units
+Production quantity 14000 units
+- Sales quantity 14153 units
+
+Closing stock 1064 units
 --- page 2 ---
 Cost Sheet for the year ended 31st March, 2025
 Particulars

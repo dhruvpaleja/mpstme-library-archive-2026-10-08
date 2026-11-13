@@ -108,6 +108,29 @@ Permutation function and B the result.
    Li = leftmost 32 bits
 Ri = rightmost 32 bits.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate n and (7)
+1. Calculate n:
+n-PxQ=3x5=15
+2. Calculate @(n):
+O(n) = (P—-1) x (Q—1) = (3-1) x (5-1) -2x4=—8
+Step 2: Choose Public Exponent
+We need to choose E such that:
+© 1< E< d(n)
+e Eis coprime to o(n)
+Let's choose E = 3 (it is coprime to 8).
+Step 3: Calculate Private Exponent D
+We need to find D such that:
+D x E =1 (mod ¢(n))
+We need to solve for D:
+D x 3 =1 (mod 8)
+Using the Extended Euclidean Algorithm, we find D — 3 works since:
+3x 3—9=1(mod 8)
+
+Summary of Keys
+© Public key: (Z,n) = (3, 15)
+¢ Private key: (D,n) = (3,15)
 --- page 4 ---
    Step 3: Pick a 56 bit key. Permute it
    Step 4: Left circular shift it by 1 bit giving K1.
@@ -137,6 +160,40 @@ in the OSI model. Similarly, decryption occurs just as the communication
 arrives at and enters the receiving computer
 Q6
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Table 7-5. Comparison of Link and End-to-End Encryption.
+
+Link Encryption End-to-End Encryption
+
+Security within hosts
+
+Data exposed in sending host | Data encrypted in sending host
+
+Data exposed in intermediate |Data encrypted in intermediate nodes
+nodes
+
+Role of user
+
+Applied by sending host Applied by sending process
+
+Invisible to user User applies encryption
+
+Host maintains encryption User must find algorithm
+
+One facility for all users User selects encryption
+
+Typically done in hardware Either software or hardware implementation
+
+All or no data encrypted User chooses to encrypt or not, for each
+data item
+
+Implementation concerns
+
+Requires one key per host Requires one key per user pair
+pair
+
+Provides node authentication | Provides user authentication
 --- page 5 ---
 CO1; SO2;BL4   a. What are Stateful inspection firewalls? Compare them with Application   [10]
 Proxy firewalls and Packet filtering firewalls.
@@ -391,6 +448,26 @@ Scheme. Explain the steps involved.
 Ans.
 Step 1 Key Table construction: [2 Marks]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Attacker Spoofed Client
+
+ene
+
+Send SYN
+with spoofed sre
+(seq = x)
+
+Send SYN-ACK @
+(seq = y, ack = x+1) ~——_
+SYN-ACK’s to
+~—_ non-existant client
+Resend SYN-ACK discarded
+after timeouts ~——_
+
+Assume failed
+connection
+request
 --- page 5 ---
 D I/J P L O
 M A T B C
@@ -582,6 +659,56 @@ Diagram:
 Q6 b   Mention and explain the steps for risk analysis and management   [10]
 Ans.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+2. AS verifies user's access right in
+database, creates ticket-granting ticket
+and session key. Results are encrypted
+
+using key derived from user's password.
+Once per
+user logon Kerberos
+Session
+acke™ Authentication
+peat server (AS)
+an
+1. User logs on to ge yey a
+workstation and et
+requests service on host. not service
+soe L—>|   Ticket-
+granting
+|| server (TGS)
+
+type of service 4. TGS decrypts ticket and
+authenticator, verifies request,
+then creates ticket for requested
+server.
+
+3. Workstation prompts
+user for password and
+uses password to decrypt
+
+incoming message, then
+
+sends ticket and
+
+authenticator that
+
+contains user's name,
+
+network address, and 6. Server verifies that
+
+time to TGS, Once per ticket and authenticator
+
+5. Workstation sends service session “Or match, then grants access
+
+ticket and authenticator to service. If mutual
+
+to server. authentication is
+required, server returns
+an authenticator,
+
+Figure 15.1 Overview of Kerberos
 --- page 9 ---
 Marks Bifurcation: Introduction to Risk Analysis & Management – 2 Marks, Steps in
 Risk Analysis – 4 Marks, Steps in Risk Management – 4 Marks
@@ -880,6 +1007,26 @@ Scheme. Explain the steps involved.
 Ans.
 Step 1 Key Table construction: [2 Marks]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Attacker Spoofed Client
+
+ene
+
+Send SYN
+with spoofed sre
+(seq = x)
+
+Send SYN-ACK @
+(seq = y, ack = x+1) ~——_
+SYN-ACK’s to
+~—_ non-existant client
+Resend SYN-ACK discarded
+after timeouts ~——_
+
+Assume failed
+connection
+request
 --- page 5 ---
 D I/J P L O
 M A T B C
@@ -1071,6 +1218,56 @@ Diagram:
 Q6 b   Mention and explain the steps for risk analysis and management   [10]
 Ans.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+2. AS verifies user's access right in
+database, creates ticket-granting ticket
+and session key. Results are encrypted
+
+using key derived from user's password.
+Once per
+user logon Kerberos
+Session
+acke™ Authentication
+peat server (AS)
+an
+1. User logs on to ge yey a
+workstation and et
+requests service on host. not service
+soe L—>|   Ticket-
+granting
+|| server (TGS)
+
+type of service 4. TGS decrypts ticket and
+authenticator, verifies request,
+then creates ticket for requested
+server.
+
+3. Workstation prompts
+user for password and
+uses password to decrypt
+
+incoming message, then
+
+sends ticket and
+
+authenticator that
+
+contains user's name,
+
+network address, and 6. Server verifies that
+
+time to TGS, Once per ticket and authenticator
+
+5. Workstation sends service session “Or match, then grants access
+
+ticket and authenticator to service. If mutual
+
+to server. authentication is
+required, server returns
+an authenticator,
+
+Figure 15.1 Overview of Kerberos
 --- page 9 ---
 Marks Bifurcation: Introduction to Risk Analysis & Management – 2 Marks, Steps in
 Risk Analysis – 4 Marks, Steps in Risk Management – 4 Marks
@@ -1369,6 +1566,26 @@ Scheme. Explain the steps involved.
 Ans.
 Step 1 Key Table construction: [2 Marks]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Attacker Spoofed Client
+
+ene
+
+Send SYN
+with spoofed sre
+(seq = x)
+
+Send SYN-ACK @
+(seq = y, ack = x+1) ~——_
+SYN-ACK’s to
+~—_ non-existant client
+Resend SYN-ACK discarded
+after timeouts ~——_
+
+Assume failed
+connection
+request
 --- page 5 ---
 D I/J P L O
 M A T B C
@@ -1560,6 +1777,56 @@ Diagram:
 Q6 b   Mention and explain the steps for risk analysis and management   [10]
 Ans.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+2. AS verifies user's access right in
+database, creates ticket-granting ticket
+and session key. Results are encrypted
+
+using key derived from user's password.
+Once per
+user logon Kerberos
+Session
+acke™ Authentication
+peat server (AS)
+an
+1. User logs on to ge yey a
+workstation and et
+requests service on host. not service
+soe L—>|   Ticket-
+granting
+|| server (TGS)
+
+type of service 4. TGS decrypts ticket and
+authenticator, verifies request,
+then creates ticket for requested
+server.
+
+3. Workstation prompts
+user for password and
+uses password to decrypt
+
+incoming message, then
+
+sends ticket and
+
+authenticator that
+
+contains user's name,
+
+network address, and 6. Server verifies that
+
+time to TGS, Once per ticket and authenticator
+
+5. Workstation sends service session “Or match, then grants access
+
+ticket and authenticator to service. If mutual
+
+to server. authentication is
+required, server returns
+an authenticator,
+
+Figure 15.1 Overview of Kerberos
 --- page 9 ---
 Marks Bifurcation: Introduction to Risk Analysis & Management – 2 Marks, Steps in
 Risk Analysis – 4 Marks, Steps in Risk Management – 4 Marks
@@ -1763,6 +2030,36 @@ a.   Summarize the steps in DES algorithm. Compare it with AES algorithm.   [10]
 DES steps-6 m
  Step 1: Apply an initial permutation on a block.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate n and $(n)
+
+1. Calculate n:
+
+n-PxQ =-3x 11-33
+2. Calculate 4(n):
+O(n) = (P —1) x (Q—1) = (3-1) x (11-1) = 2 x 10 = 20
+
+Step 2: Choose public exponent #
+Choose an integer E such that:
+
+© 1<B< (n)
+
+e Eiscoprime to d(n)
+Let's choose E = 7 (it is coprime to 20).
+
+Step 3: Calculate private exponent D
+We need to find D such that:
+
+D x E=1 (mod ¢(n))
+We need to solve for D:
+
+D x 7=1(mod 20)
+
+Using the Extended Euclidean Algorithm or testing values:
+e Testing D = 3:
+
+7 x 3 = 21 =1 (mod 20)
 --- page 4 ---
  Result is B=IP(P) where P is the 64 bit block IP Initial Permutation
 function and B the result.
@@ -1838,6 +2135,40 @@ Steps of a Risk Analysis
 6. Project annual savings of control
 4m – examples/solutions for given scenario
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Table 7-5. Comparison of Link and End-to-End Encryption.
+
+Link Encryption | End-to-End Encryption
+
+Security within hosts
+
+Data exposed in sending host [Data encrypted in sending host
+
+Data exposed in intermediate | Data encrypted in intermediate nodes
+nodes
+
+Role of user
+
+Applied by sending host Applied by sending process
+
+Invisible to user User applies encryption
+
+Host maintains encryption User must find algorithm
+
+One facility for all users User selects encryption
+
+Typically done in hardware Either software or hardware implementation
+
+All or no data encrypted User chooses to encrypt or not, for each
+data item
+
+Implementation concerns
+
+Requires one key per host Requires one key per user pair
+pair
+
+Provides node authentication | Provides user authentication
 --- page 6 ---
 Risk analysis would identify vulnerabilities related to staff shortages, equipment
 scarcity, disruptions in care, and supply chain issues, allowing the hospital to
@@ -1999,6 +2330,24 @@ neat diagram, and describe how it works using a simple example.
 Ans.
 Marks Bifurcation:
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Katefile Alicefile Bobfile Mikefile
+
+Kate Ox RW - RW
+1) Alice R OX
+
+Bob R - OXRW Rw
+
+Mike AR RW - Ox
+
+Katefile Alicefile Bobfile Mikefile
+
+Kate ox Rw -
+2) Alice R Ox - RW
+Bob R - OXRW RW
+
+Mike R RW - Ox
 --- page 4 ---
 Definition of HIDS – 2 marks
 Diagram – 2 marks
@@ -2262,6 +2611,37 @@ back into plaintext M:
 M ≡ Cd mod n
 Calculation: - [5 Marks: Each step 1 marks]
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Find the Private Key d
+We need to find the private key d, which satisfies:
+dxe=1 mod d(n)
+dx13=1 mod 20
+To find d, we use the Extended Euclidean Algorithm to compute the modular inverse of e = 13
+mod 20.
+Apply the Extended Euclidean Algorithm
+We want to find d such that:
+
+13d=1 mod 20
+
+Using the extended Euclidean algorithm:
+20=1x1347
+13=1x7+6
+T=1x641
+6=6x1+0
+Now, backtrack to express 1 as a linear combination of 13 and 20:
+1 1=7-1x6
+2. Substitute 6 = 13 —1 x 7:
+1=7-1x(13—1x7)=2x7—-1x13
+3. Substitute 7 = 20 —1 x 13:
+
+1=2~x (20—1x 13)—1x13=2x 20-313
+
+Thus, 1 = 2 x 20—3 x 13,sod = —3 mod 20.
+
+Since d = —3, we add 20 to get the positive value:
+
+d=17
 --- page 10 ---
 Q7   b. An Amazon runs a large-scale online shopping platform that allows customers to   [5]
 register accounts, browse products, place orders, and complete payments using
@@ -2295,6 +2675,29 @@ statuses remain accurate and consistent. Customer complaints about incorrect
 order status and disputed payments highlight the need for maintaining data
 integrity. If data is altered or incorrect, it can lead to financial loss and loss of
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Step 4: Decrypt the Ciphertext
+
+Now that we have d = 17, we can decrypt the ciphertext C = 8 using:
+M=C" modn
+M=8" mod 33
+We can simplify 8'7 mod 33 using successive squaring.
+Step 4.1: Compute 8? mod 33
+=64 = 64 mod 33=64—33=31
+Step 4.2: Compute 8! mod 33
+8' = (8*)? =317=961 = 961 mod 33 =961—29 x 33=961—957=4
+Step 4.3: Compute 8° mod 33
+8 =(s' =4=16
+Step 4.4: Compute 8'° mod 33
+8 = (8) =167=256 = 256 mod 33 = 256 —7 x 33 = 256 — 231 = 25
+Step 4.5: Compute 8!’ mod 33
+8 =s"x8=25x8=200 = 200 mod 33= 200-6 x 33=200-198=2
+Final Answer
+The plaintext M is 2.
+Thus, the plaintext corresponding to the ciphertext C = 8 is:
+
+M=2
 --- page 11 ---
 customer trust. Therefore, mechanisms like validation checks and secure
 transaction processing are necessary.
@@ -2461,6 +2864,24 @@ neat diagram, and describe how it works using a simple example.
 Ans.
 Marks Bifurcation:
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Katefile Alicefile Bobfile Mikefile
+
+Kate Ox RW - RW
+1) Alice R OX
+
+Bob R - OXRW Rw
+
+Mike AR RW - Ox
+
+Katefile Alicefile Bobfile Mikefile
+
+Kate ox Rw -
+2) Alice R Ox - RW
+Bob R - OXRW RW
+
+Mike R RW - Ox
 --- page 4 ---
 Definition of HIDS – 2 marks
 Diagram – 2 marks
@@ -2724,6 +3145,37 @@ back into plaintext M:
 M ≡ Cd mod n
 Calculation: - [5 Marks: Each step 1 marks]
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Find the Private Key d
+We need to find the private key d, which satisfies:
+dxe=1 mod d(n)
+dx13=1 mod 20
+To find d, we use the Extended Euclidean Algorithm to compute the modular inverse of e = 13
+mod 20.
+Apply the Extended Euclidean Algorithm
+We want to find d such that:
+
+13d=1 mod 20
+
+Using the extended Euclidean algorithm:
+20=1x1347
+13=1x7+6
+T=1x641
+6=6x1+0
+Now, backtrack to express 1 as a linear combination of 13 and 20:
+1 1=7-1x6
+2. Substitute 6 = 13 —1 x 7:
+1=7-1x(13—1x7)=2x7—-1x13
+3. Substitute 7 = 20 —1 x 13:
+
+1=2~x (20—1x 13)—1x13=2x 20-313
+
+Thus, 1 = 2 x 20—3 x 13,sod = —3 mod 20.
+
+Since d = —3, we add 20 to get the positive value:
+
+d=17
 --- page 10 ---
 Q7   b. An Amazon runs a large-scale online shopping platform that allows customers to   [5]
 register accounts, browse products, place orders, and complete payments using
@@ -2757,6 +3209,29 @@ statuses remain accurate and consistent. Customer complaints about incorrect
 order status and disputed payments highlight the need for maintaining data
 integrity. If data is altered or incorrect, it can lead to financial loss and loss of
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Step 4: Decrypt the Ciphertext
+
+Now that we have d = 17, we can decrypt the ciphertext C = 8 using:
+M=C" modn
+M=8" mod 33
+We can simplify 8'7 mod 33 using successive squaring.
+Step 4.1: Compute 8? mod 33
+=64 = 64 mod 33=64—33=31
+Step 4.2: Compute 8! mod 33
+8' = (8*)? =317=961 = 961 mod 33 =961—29 x 33=961—957=4
+Step 4.3: Compute 8° mod 33
+8 =(s' =4=16
+Step 4.4: Compute 8'° mod 33
+8 = (8) =167=256 = 256 mod 33 = 256 —7 x 33 = 256 — 231 = 25
+Step 4.5: Compute 8!’ mod 33
+8 =s"x8=25x8=200 = 200 mod 33= 200-6 x 33=200-198=2
+Final Answer
+The plaintext M is 2.
+Thus, the plaintext corresponding to the ciphertext C = 8 is:
+
+M=2
 --- page 11 ---
 customer trust. Therefore, mechanisms like validation checks and secure
 transaction processing are necessary.
@@ -2923,6 +3398,24 @@ neat diagram, and describe how it works using a simple example.
 Ans.
 Marks Bifurcation:
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Katefile Alicefile Bobfile Mikefile
+
+Kate Ox RW - RW
+1) Alice R OX
+
+Bob R - OXRW Rw
+
+Mike AR RW - Ox
+
+Katefile Alicefile Bobfile Mikefile
+
+Kate ox Rw -
+2) Alice R Ox - RW
+Bob R - OXRW RW
+
+Mike R RW - Ox
 --- page 4 ---
 Definition of HIDS – 2 marks
 Diagram – 2 marks
@@ -3186,6 +3679,37 @@ back into plaintext M:
 M ≡ Cd mod n
 Calculation: - [5 Marks: Each step 1 marks]
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Find the Private Key d
+We need to find the private key d, which satisfies:
+dxe=1 mod d(n)
+dx13=1 mod 20
+To find d, we use the Extended Euclidean Algorithm to compute the modular inverse of e = 13
+mod 20.
+Apply the Extended Euclidean Algorithm
+We want to find d such that:
+
+13d=1 mod 20
+
+Using the extended Euclidean algorithm:
+20=1x1347
+13=1x7+6
+T=1x641
+6=6x1+0
+Now, backtrack to express 1 as a linear combination of 13 and 20:
+1 1=7-1x6
+2. Substitute 6 = 13 —1 x 7:
+1=7-1x(13—1x7)=2x7—-1x13
+3. Substitute 7 = 20 —1 x 13:
+
+1=2~x (20—1x 13)—1x13=2x 20-313
+
+Thus, 1 = 2 x 20—3 x 13,sod = —3 mod 20.
+
+Since d = —3, we add 20 to get the positive value:
+
+d=17
 --- page 10 ---
 Q7   b. An Amazon runs a large-scale online shopping platform that allows customers to   [5]
 register accounts, browse products, place orders, and complete payments using
@@ -3219,6 +3743,29 @@ statuses remain accurate and consistent. Customer complaints about incorrect
 order status and disputed payments highlight the need for maintaining data
 integrity. If data is altered or incorrect, it can lead to financial loss and loss of
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Step 4: Decrypt the Ciphertext
+
+Now that we have d = 17, we can decrypt the ciphertext C = 8 using:
+M=C" modn
+M=8" mod 33
+We can simplify 8'7 mod 33 using successive squaring.
+Step 4.1: Compute 8? mod 33
+=64 = 64 mod 33=64—33=31
+Step 4.2: Compute 8! mod 33
+8' = (8*)? =317=961 = 961 mod 33 =961—29 x 33=961—957=4
+Step 4.3: Compute 8° mod 33
+8 =(s' =4=16
+Step 4.4: Compute 8'° mod 33
+8 = (8) =167=256 = 256 mod 33 = 256 —7 x 33 = 256 — 231 = 25
+Step 4.5: Compute 8!’ mod 33
+8 =s"x8=25x8=200 = 200 mod 33= 200-6 x 33=200-198=2
+Final Answer
+The plaintext M is 2.
+Thus, the plaintext corresponding to the ciphertext C = 8 is:
+
+M=2
 --- page 11 ---
 customer trust. Therefore, mechanisms like validation checks and secure
 transaction processing are necessary.
@@ -3398,6 +3945,40 @@ Q7
 CO3; SO1; BL1   a. Why Digital signatures are important? Discuss the process for creating and   [5]
 verifying Digital Signatures.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Table 7-5. Comparison of Link and End-to-End Encryption.
+
+Link Encryption | End-to-End Encryption
+
+Security within hosts
+
+Data exposed in sending host | Data encrypted in sending host
+
+Data exposed in intermediate | Data encrypted in intermediate nodes
+nodes
+
+Role of user
+
+Applied by sending host | Applied by sending process
+
+Invisible to user User applies encryption
+
+Host maintains encryption User must find algorithm
+
+One facility for all users | User selects encryption
+
+Typically done in hardware Either software or hardware implementation
+
+All or no data encrypted User chooses to encrypt or not, for each
+data item
+
+Implementation concerns
+
+Requires one key per host Requires one key per user pair
+pair
+
+Provides node authentication | Provides user authentication
 --- page 5 ---
 CO2; SO1; BL2   b. What are the characteristics of a good password?   [5]
 Length: At least 12-16 characters long. Longer passwords are generally
@@ -3410,4 +3991,31 @@ c.   Discuss developmental Controls against program threats.
 Modularity, Encapsulation and information hiding
 d.   Explain Tunnel mode VPN with neat diagram.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Creating and verifying a digital signature
+
+=| St Peres
+= Jee \
+
+W?the calculated hashoode does not maich the result of the decrypted signature. ether the document was,
+changed after signing, of the signature was not generated with the private key of the alleged sender,
+
+VPN Virtual Tunnel
+
+-
+VPN server ~~,
+Untrusted
+
+rework /
+
+VPN server encrypts Remote VPN
+client packet and server receives
+places as data in packet, decrypts
+packet addressed for data packet, and sends
+
+Client sends remote VPN server to destination client Client receives
+unencrypted packet unencrypted packet
+
+GOTEEEEEY Tunnel Mode vPN
 ````

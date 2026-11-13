@@ -3779,8 +3779,9 @@ Fig. No. 2 Q 7.a
 - Programmes: MBA TECH / MECHANICAL
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/MECHANICAL/TRIM VI/DESIGN OF MACHINES ELEMNTS/DESIGN OF MACHINE ELEMENTS I FINAL 2012-13MBA TECH.pdf`
 - Printed on paper: exam date: 9/5/2013
-- Text: mixed (7 pages), mean OCR confidence 80.6
-- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: mixed (7 pages), mean OCR confidence 88.9
+- 1 page scanned sideways or upside down, turned upright before OCR
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM's NMIMS
@@ -3969,64 +3970,27 @@ sl7
 
 617
 --- page 7 ---
-—
-= >
-a, =! &
-= oS UTS
-qa Soo
-rey Be WwW Ww ?t = 5 2
-~ ONO rh tn s WW Oe oe ee eel eed = =
-y Sf 8
-09 3 8
-28
-3
-=
-[OOO ~ 5) hd | =>
-NP oaMAaarnh nN Oo FAM & Wh mn
-= re
-~ +
-= | 3
-Ty
-~
-S
-wo
-ad |G
-= a
-S| 8
-a
-nd Re, _ 4 =
-toe OOP MHA RD A & BY 1S =
-a =
-~s,
-=
-mH
-=z >
-s = &
-a>
-FAW OA YW DAA wre RS =
-a ss ss = es
-a 8
-~~ =)
-x8
-=|
-a
-— 5 y | Se
-SO DWM A GOH GBA Ww A tr ~
-Oo 2 | %
-a
-“Ss
-S
-wy
-a | 4
-~ '
-Ss | 8
-aye] s
-GnAoannvn anv Gan f ]S 2
-=>
-ty
-=
+Table Proportions of standard parallel, tapered and gib head keys.
 
-77
+Shafi diameter Kev cross-section Shaft diamerer Key cross-section
+final) upto and (Mun) upto and
+including Width (niin) Thickness (ain) ficluding Width (mm) | Thickness (nim
+
+6 2 2 85 25 14
+§ 3 3 95 28 16
+10 4 4 110 32 18
+12 5 5 130 36 20
+17 6 6 150 40 22
+22 8 2 170 45 25
+30 10 8 200 50 28
+38 12 8 239 56 32
+44 14 9 | 260 63 32
+50 16 10 290 70 36
+58 18 ll 330 80 40
+65 20 12 380 90 45
+75 22 14 440 100 50
+
+On i a SS eee
 ````
 
 ## 2012-13 · Re-Exam · Trim 6 · paper d9039b9ed599

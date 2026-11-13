@@ -292,6 +292,18 @@ BL-3   L={w∈{a,b}∗∣w contains at least one a}.
 SO-2   Also, determine whether the use of a stack is necessary for this language.
 Give reason.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Transition Function — 6
+
+Snes inlie Next state for Next state for | Next state for | Output
+
+Input: x Input: y Input: z A
+
+DA B A E io
+B B c D 8
+c E E c Yi
+D A D c 9
 ````
 
 ## 2025-26 · Final-Exam · Sem 4 · paper e8c221b5e5c0
@@ -418,6 +430,18 @@ BL-3   L={w∈{a,b}∗∣w contains at least one a}.
 SO-2   Also, determine whether the use of a stack is necessary for this language.
 Give reason.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Transition Function — 6
+
+Snes inlie Next state for Next state for | Next state for | Output
+
+Input: x Input: y Input: z A
+
+DA B A E io
+B B c D 8
+c E E c Yi
+D A D c 9
 ````
 
 ## 2025-26 · Final-Exam · Sem 4 · paper 619deec37d1e
@@ -544,6 +568,18 @@ BL-3   L={w∈{a,b}∗∣w contains at least one a}.
 SO-2   Also, determine whether the use of a stack is necessary for this language.
 Give reason.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Transition Function — 6
+
+Snes inlie Next state for Next state for | Next state for | Output
+
+Input: x Input: y Input: z A
+
+DA B A E io
+B B c D 8
+c E E c Yi
+D A D c 9
 ````
 
 ## 2025-26 · Final-Exam · Sem 8 · paper 50cf93a689f5
@@ -670,6 +706,18 @@ BL-3   L={w∈{a,b}∗∣w contains at least one a}.
 SO-2   Also, determine whether the use of a stack is necessary for this language.
 Give reason.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Transition Function — 6
+
+Snes inlie Next state for Next state for | Next state for | Output
+
+Input: x Input: y Input: z A
+
+DA B A E io
+B B c D 8
+c E E c Yi
+D A D c 9
 ````
 
 ## 2025-26 · Re-Exam · Sem 3 · paper 19b4818461da

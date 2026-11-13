@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_EXTC_7006/Digital Voice and Broadband Communication/ANS_Digital Voice and Broadband Communication(702EX0C027)_2025-2026.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Dec 2025
 - Text: mixed (16 pages), mean OCR confidence 81.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -137,6 +138,19 @@ Related Signaling in SS7. Provide examples of each.   [5]
 Definition: Signaling messages associated with establishing, maintaining, and
 releasing a specific voice circuit.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+==; Voice Switch
+
+POTS _ 0
+DSL Access Local Loop DSL Modem
+Multiplexer (carrying both POTS
+DSL data and DSL data/voice)
+
+Customer Premises
+
+Data
+Network > mT
 --- page 4 ---
 Purpose: Ensures the circuit is ready before the call, monitors its state, and
 releases it after completion.
@@ -233,6 +247,24 @@ Answer – SIP architecture – 3M ; Explanation – 4M
 Message format – 3M
 Message format
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+SIP - Architecture
+
+SIP Proxy Server
+SIP Redirect Server
+SIP Registrar Server
+
+SIP
+
+Router
+( Access Node
+Gateway )
+
+SIP Phone
+
+( User Agents /
+SIP End-points / softphones }
 --- page 6 ---
 Q3   b.   (i) Compare and contrast Gigabit PON (GPON) and Ethernet PON   [8]
 CO-5; SO-1;   (EPON) technologies. Discuss the following aspects:
@@ -276,6 +308,21 @@ Advantages
 support; longer reach (~20 lower cost; flexible
 km)   upgrades
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+INVITE sip:6455389@ rad.co.il SIP/2.0
+From: WoP student
+
+To Yaakov (7) Stein
+
+Call-ID: 5531212 @bynet-academy.co.il
+CSeq: | INVITE
+
+Subject How to use SIP
+
+Content-Type: application/sdp
+
+etc.
 --- page 7 ---
 Triple-play services   FTTH for residential or
 Typical
@@ -305,6 +352,17 @@ detection/correction.
 •   Definition: Occurs when multiplexing of digital signals is done
 without strict timing alignment between input signals.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Need multipoint Internet VLAN:
+all services need a VLAN ID.
+
+Ethernet segment
+
+No need VLAN:
+for provider only
+
+Ethernet segment
 --- page 8 ---
 • Cause: Input signals have slightly different clock rates, leading
 to timing misalignment.
@@ -361,6 +419,21 @@ Source Codec (vocoder)
 • Source coders operate using a model of how the source was generated, and
 attempt to extract parameters, from the signal being coded, the parameters of
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Cable modem transmission system (CMTS)
+
+l yi | Fiber
+From head end—+ Wee Combiner
+
+| A |
+
+Distribution hub
+| |
+| |
+
+Toand from | Data —ap |
+the Internet — | |
 --- page 10 ---
 the model. • It is these model parameters that are transmitted to the decoder. •
 Source coders for speech are called vocoders, and work as follows. • The
@@ -494,6 +567,19 @@ deduplication, and security, and then passes the data to an application server
 for processing. LoRaWAN supports uplink and downlink communication,
 uses adaptive data rate (ADR) to optimize battery life and network efficiency,
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+So, the probability that a call experiences congestion and therefore it
+delayed is given by-
+
+7 NB
+
+~ N—A(1— B)
+
+Where, N= no. of servers, A= ofered load (Er) and B = Blocking
+Probability for LCC system.
+
+Prob(delay)= P(> 0)
 --- page 13 ---
 and provides end-to-end encryption. Its combination of long-range, low power
 consumption, and simple infrastructure makes it ideal for IoT applications
@@ -626,6 +712,7 @@ ptical ccessNetwork   Terminal quipment
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/MBATech (ELECTRONICS & TELECOMMUNICATIO_ba3ceaa3/Digital Voice and Broadband Communication/ANS_Digital Voice and Broadband Communication(702EX0C027)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Dec 2025
 - Text: mixed (16 pages), mean OCR confidence 81.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -754,6 +841,19 @@ Related Signaling in SS7. Provide examples of each.   [5]
 Definition: Signaling messages associated with establishing, maintaining, and
 releasing a specific voice circuit.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+==; Voice Switch
+
+POTS _ 0
+DSL Access Local Loop DSL Modem
+Multiplexer (carrying both POTS
+DSL data and DSL data/voice)
+
+Customer Premises
+
+Data
+Network > mT
 --- page 4 ---
 Purpose: Ensures the circuit is ready before the call, monitors its state, and
 releases it after completion.
@@ -850,6 +950,24 @@ Answer – SIP architecture – 3M ; Explanation – 4M
 Message format – 3M
 Message format
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+SIP - Architecture
+
+SIP Proxy Server
+SIP Redirect Server
+SIP Registrar Server
+
+SIP
+
+Router
+( Access Node
+Gateway )
+
+SIP Phone
+
+( User Agents /
+SIP End-points / softphones }
 --- page 6 ---
 Q3   b.   (i) Compare and contrast Gigabit PON (GPON) and Ethernet PON   [8]
 CO-5; SO-1;   (EPON) technologies. Discuss the following aspects:
@@ -893,6 +1011,21 @@ Advantages
 support; longer reach (~20 lower cost; flexible
 km)   upgrades
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+INVITE sip:6455389@ rad.co.il SIP/2.0
+From: WoP student
+
+To Yaakov (7) Stein
+
+Call-ID: 5531212 @bynet-academy.co.il
+CSeq: | INVITE
+
+Subject How to use SIP
+
+Content-Type: application/sdp
+
+etc.
 --- page 7 ---
 Triple-play services   FTTH for residential or
 Typical
@@ -922,6 +1055,17 @@ detection/correction.
 •   Definition: Occurs when multiplexing of digital signals is done
 without strict timing alignment between input signals.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Need multipoint Internet VLAN:
+all services need a VLAN ID.
+
+Ethernet segment
+
+No need VLAN:
+for provider only
+
+Ethernet segment
 --- page 8 ---
 • Cause: Input signals have slightly different clock rates, leading
 to timing misalignment.
@@ -978,6 +1122,21 @@ Source Codec (vocoder)
 • Source coders operate using a model of how the source was generated, and
 attempt to extract parameters, from the signal being coded, the parameters of
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Cable modem transmission system (CMTS)
+
+l yi | Fiber
+From head end—+ Wee Combiner
+
+| A |
+
+Distribution hub
+| |
+| |
+
+Toand from | Data —ap |
+the Internet — | |
 --- page 10 ---
 the model. • It is these model parameters that are transmitted to the decoder. •
 Source coders for speech are called vocoders, and work as follows. • The
@@ -1111,6 +1270,19 @@ deduplication, and security, and then passes the data to an application server
 for processing. LoRaWAN supports uplink and downlink communication,
 uses adaptive data rate (ADR) to optimize battery life and network efficiency,
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+So, the probability that a call experiences congestion and therefore it
+delayed is given by-
+
+7 NB
+
+~ N—A(1— B)
+
+Where, N= no. of servers, A= ofered load (Er) and B = Blocking
+Probability for LCC system.
+
+Prob(delay)= P(> 0)
 --- page 13 ---
 and provides end-to-end encryption. Its combination of long-range, low power
 consumption, and simple infrastructure makes it ideal for IoT applications

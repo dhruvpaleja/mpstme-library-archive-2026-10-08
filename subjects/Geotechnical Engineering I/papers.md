@@ -5234,7 +5234,8 @@ Page 2 of 2
 - Programmes: MBA TECH / CIVIL
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/Geotechnical Engineering I Final Exam 2014-15.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29/11/2014
-- Text: ocr (10 pages), mean OCR confidence 78.5
+- Text: ocr (10 pages), mean OCR confidence 83.7
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 a SVEKM’s NMIMS .
@@ -5430,58 +5431,43 @@ aime’
 
 5/10
 --- page 6 ---
-.
+Table 3.1 Consolidation Test Data
 
-Oo
+Date 23-03-2014 24-03-2014 25-03-2014 26-03-2014 27-03-2014
+Pressure
+Increment. 0-020 0.20-0.50 .0.50-1.00 1.00-2.00 2.00-4.00 4.00-2.00 2.00-1.00 1.00-0.50 0.50-0.200 0.20-0.00
+kg./cm.” : ;
+* Elapsed
+Time
+minutes Dial Gauge Readings cm.
+0 2.200 2.008 1.898 1.785 1.654 1.505 1.520 1.543 _ 1573 1.608
+0.25 2.169 1.998 1.888 1.772 1.638 :
+1 2.158 1.993 1.882 _ 1.763 1.629
+2:25 2.149 1.985 1.876 1.754 1.616
+“. ge A 2.14 1.98 1.868 1.743 1.607
+36.25 2:13 1.974 1.861 1.737 1.596
+9 2.122 1.968 1.854 1.729 1.587
+12.25 2.114 1.962 1.848 1.721 ~ 1.578
+16 2.106 1.956 1.842 1.714 1.570
+20.25 1.951 1.837 1.708 1.563
+a 25 1.945 1.831 1.702 1.557
+ro) 36 1.936 1.823 1.692 1.546
+49 1.928 1.816 1.685 1.539
+64 1.923 1.811 1.680 1.535
+81 1.918 1.807 1.676 1.530
+100 1.915 1.804 1.673 1.528
+121 "4.912 1.802 1.671 1.525
+144
+ie “1440 2.008 1.898 1.785 1.654 11.505 152 1.543 1:573, 1.608 1.652
+Before test After Test
+Consolidation Wt. of ring+wet soil 193 gm. 182 gm.
+Ring Data Wt. of ring + dry soil 153
+Diameter 60 mm. Wt. of ring 100 gm.
+Initial %
+thickné@ss 20 mm.
+Soeciffe
 
-aD
-wo
-
-fon}
-
-oe)
-
-i¥)
-
-wm
-
-ive}
-
-a
-
-mS
-oi
-
-a
-
-i)
-
-N
-
-im
-N
-
-ad
-
-~ODNOwM MH
-nnnnn wn
-
-NNN OU M
-
-AAAAAAGH
-Ann nA a Tt Gt
-
-NMmwoatbt+A Od
-NmM+tTOW.O WN
-did
-
-t+
-al
-
-ix)
-a
-
-wm
+Gravity 2.65
 --- page 7 ---
 Fig. 5.1
 

@@ -9,7 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_Civil_7005/Concrete Technology/ANS_Concrete Technology(702CI0C034)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (6 pages), mean OCR confidence 36.2
-- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -42,6 +42,24 @@ cement takes to start and complete the setting process.) and test procedure – 
 c.
 Type – 1 marks, explanation – 2 marks, source – 2 marks
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Classification of Aggregates Based on Source
+
+Type Description Examples / Sources
+Natural Aggregate Aggregates obtained directly from natural sources - River Sand - from river beds or streams
+without significant processing. They are mined, crushed, _- Gravel - naturally rounded stones
+or washed for use. ~ Crushed Stone — quarried from rocks like granite, basalt, limestone
+Artificial / Manufactured Aggregates produced by human processes using - Fly Ash Aggregate - from thermal power plants
+Aggregate industrial by-products or waste materials. - Expanded Clay, Shale, or Slag Aggregates - lightweight aggregates for special concrete
+
+- Recycled Concrete Aggregate (RCA) from crushed demolished concrete
+
+Reclaimed Aggregate Aggregates obtained from demolished structures and ~ Crushed concrete debris
+processed for reuse in new construction. ~ Crushed asphalt from old pavements
+Mineral / Industrial Waste Aggregates obtained as waste or by-product from - Slag from steel manufacturing
+
+Aggregates industries, used to reduce environmental impact. - Furnace bottom ash from thermal power plants
 --- page 2 ---
 d.
 5 points with explanation – 2 marks each
@@ -75,6 +93,33 @@ Q3 a.
 compaction achieved by standard effort.) – Apparatus with diagram – 3 marks, Test procedure
 – 4 marks, calculation – 1 mark
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Aspect Lightweight Concrete (LWC) Heavyweight Concrete (HWC)
+
+Density Low density, typically < 2000 kg/m? High density, typically 2 2600-3000 kg/m?
+
+Aggregates Used Lightweight aggregates like pumice, Heavyweight aggregates like iron, barite,
+expanded clay, shale, or cinder magnetite, or hematite
+
+Purpose / Use Reduces structural weight, improves Increases weight for radiation shielding or
+thermal insulation, and fire resistance stability against heavy loads
+
+Compressive Strength Moderate strength, usually 10-50 MPa Can have normal to high strength, often 30-
+depending on mix 70 MPa or higher
+
+Thermal Properties Good thermal insulation Poor thermal insulation: dense material
+
+conducts heat
+
+Workability Usually good, easier to handle Can be difficult to handle due to high density
+and heavy aggregates
+Cost May be slightly higher due to lightweight Expensive due to heavy aggregates and
+aggregates transportation costs
+Applications Roof slabs, partition walls, insulation Nuclear plants, submarine structures, heavy
+panels, lightweight structures machinery foundations, radiation shielding
+
+walls
 --- page 3 ---
 Explanation of strain – strain – 2 marks (A stress–strain plot shows the relationship between
 stress (load per unit area) and strain (deformation) of a material when it is subjected to load. It
@@ -94,6 +139,18 @@ Q4 b.   Aggregate Content, Step 6: Determine Fine Aggregate Content, Step 7: Adj
 (If Needed), Step 8: Moisture Adjustments for Aggregates, Step 9: Trial Mix and Adjustments
 - listing of steps 5 marks and explanation 5 marks
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Split Tensile Test Flexural Tensile Test
+
+Type of Stress Indirect tension Bending tension (flexure)
+
+Specimen Cylinder Beam
+
+Failure Mode Splits along diameter Cracks at the bottom in tension
+Application Simple, widely used for cylinders Simulates bending in slabs and beams
+
+Tensile Stress Calculated Direct formula from load Flexural stress formula
 --- page 4 ---
 Q5 a.
 Calculation of table – 5 marks, FM formula and calculation – 3 marks
@@ -115,6 +172,37 @@ Key Components of an RMC Plant – 5 marks (or diagrammatic representation)
 Equipment), 4. Mixing System, 5. Water & Admixture Storage
 6. Concrete Dispatch System, 7. Quality Control Laboratory, 8. Control Room
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Sieve (mm) Weight (g) % Retained Cumulative % Retained
+
+475 0 0% 0
+
+2.36 60 12% 12
+1.18 100 20% 32
+0.6 160 32% 64
+0.3 120 24% 88
+
+0.15 60 12% 100
+
+Aspect Synthetic Fiber Natural Fiber
+
+Source Man-made from polymers (e.g., Derived from plants or animals (e.g., coir,
+Strength Generally high tensile strength and Usually lower tensile strength and variable
+uniform quality quality
+Durability in Concrete Highly durable and chemically resistant Less durable, can degrade in alkaline
+concrete over time
+Effect on Concrete Reduces plastic shrinkage cracks, Reduces cracks, improves ductility, but less
+improves toughness, and impact effective in high-strength concrete
+resistance
+Water Absorption Low water absorption High water absorption, may require
+treatment before use
+Cost Relatively expensive Relatively cheap and eco-friendly
+Workability Minimal effect on workability if properly May affect workability due to water
+dosed absorption or fiber clumping
+Applications Industrial floors, pavements, tunnel Low-cost housing, rural construction, non-
+
+linings, high-performance concrete structural elements
 --- page 5 ---
 Q7
 
@@ -261,6 +349,30 @@ Q1
 c
 1 marks for each texture with explanation
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Surface Texture Description Effect on Concrete Examples
+
+Smooth / Slick / Glassy Aggregates with smooth, polished, _- Low bond with cement paste River gravel, some polished natural
+or shiny surfaces - Reduces concrete strength slightly stones
+- Easier workability
+
+Rough / Angular / Aggregates with sharp, jagged - High bond with cement paste Crushed granite, crushed basalt,
+Crushed edges and rough surfaces - Improves concrete strength and durability machine-crushed stone
+- May reduce workability slightly
+
+Porous / Pitted / Vesicular Aggregates with tiny holes, pores, - Good mechanical interlock Pumice, scoria, expanded clay, volcanic
+or irregular cavities - May absorb more water aggregates
+
+- Can reduce workability if water is not adjusted
+
+Rounded / Sub-Rounded Aggregates with smooth edges but —_- Moderate bond with cement paste River sand, naturally worn gravel
+not completely polished - Improves workability
+- Slightly lower strength than angular aggregates
+
+Flaky / Elongated Aggregates that are thin or plate- - Poor bonding Some metamorphic rocks, slate
+like - May lead to weak concrete planes fragments
+- Reduces workability
 --- page 2 ---
 Q1   Explanation of two approaches: Reducing the capillary pore and Creating chemically active
 d   binding sites – 2.5 marks each
@@ -302,6 +414,30 @@ Q4   Ratio, Step 4: Determine the Water Content, Step 5: Calculate the Cement Co
 b.   Determine the Coarse and Fine Aggregate Proportions, Step 7: Adjust for Moisture and Bulking
 – listing of steps 5 marks and explanation 5 marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Glass fibers
+
+© Aspect ratios of 30 to 250. . .
+e Diameters vary from 0.25 mm to 0.75 ree _—e Strength, 1020'to
+mm. © Generally, fibers of length
+
+© High structural strength. x Seats s'
+
+© Reduced crack widths and control the eiineneeerone in impact
+
+crack widths tightly, thus improving strength.
+
+durability. — P @ Increased flexural strength,
+© Improve impact and abrasion ductiliey and comaanpets
+resistance.
+
+thermal shock.
+© Used in precast and structural SUG In Reh wongamimmnng
+apphestigns Mgbway and apart pools, ducts and roofs, sewer
+pavements, refractory and canal linings, TerGasretc
+
+industrial flooring, bridge decks, etc. S
 --- page 3 ---
 Q5
 a.
@@ -323,6 +459,53 @@ Q6   Concrete Pump and Equipment Positioning, Placement Sequence, Workability an
 b.   Compaction and Vibration, Environmental Conditions, Quality Control and Supervision, Safety
 Considerations) – 2 marks each
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Total weight = 10 + 25+ 40+ 15+ 10 = 100kg
+Step 2: Calculate % retained
+
+Weight on sieve
+
+%retained = Total weight x 100
+Sieve (mm) Weight (kg) % Retained Cumulative % Retained
+150 to) to) to)
+75 10 10% 10
+37.5 25 25% 35
+19 40 40% 75
+95 15 15% 90
+
+475 10 10% 100
+
+Normal Strength Concrete (NSC) and High Strength Concrete (HSC) differ mainly in terms of compressive
+strength, mix composition, durability, and applications.
+
+Aspect Normal Strength Concrete (NSC) High Strength Concrete (HSC) oO
+
+Compressive Strength Typically 20-40 MPa Usually above 60 MPa
+
+‘Water—Cement Ratio Higher water-cement ratio (about 0.45— Lower water—cement ratio (about 0.25-0.35)
+0.60)
+
+Materials Used Ordinary cement, sand, and coarse Uses high-quality cement, mineral
+aggregates admixtures (silica fume, fly ash), and
+
+superplasticizers
+Workability Moderate workability Often requires chemical admixtures to
+
+maintain workability
+
+Durability Norma! durability Higher durability and better resistance to
+environmental effects
+
+Permeability Higher permeability Very low permeability, making it more
+resistant to water and chemicals
+
+Cost Relatively low cost More expensive due to special materials and
+admixtures
+Applications Used in residential buildings, pavements, Used in high-rise buildings, bridges,
+and general construction offshore structures, and heavy-load
+
+structures
 --- page 4 ---
 Q7
 

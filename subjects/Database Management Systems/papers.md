@@ -70,6 +70,24 @@ decimal).
 Write MySQL queries for the following:
 (i)   Display patient ID, name, blood pressure, and fever using both the tables.
 Page 2 of 3
+
+[Text in pictures on this page, read by OCR]
+Consider the table HCL with the following fields. Worker Id (WID, int), Worker Name
+(WNAME, character variable width 35), Location (LOC, character variable width 20), Head Id
+(HID, integer with 3 digits), Wage (WAGE, 5 integers 2 decimals), Joining date (JOIN_DT,
+date).
+
+Write MySQL statements for the following.
+
+i) Display Worker Id, Worker Name, and Joining date.
+
+ii) Display Wage and 15% of Wage as HRA for each worker.
+
+iii) Display all workers whose wage is between 30,000 and 60,000.
+
+iv) Display all workers whose Joining is in the year 2021.
+
+v) Display Worker Id and Worker Name if the third character of the name is ‘r’
 --- page 3 ---
 (ii)   Display name and blood pressure of patients whose BP is more than 140 using
 both the tables.
@@ -1456,6 +1474,16 @@ Q7
 4. Abstraction in DBMS.   [4M]
 ---------------------------------------------END----------------------------------------
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+EMPLOYEE NAME EMPLOYEE ID EMPLOYEE LOCATION EMPLOYEE CONTACT
+
+NO
+AJAY 12455 DELHI 987565,356212
+AMIT 89752 AGRA 455145,988965
+AKSHAR 23654 HARYANA, 987454
+
+ALOKE 98765 KOCHI 124787
 ````
 
 ## 2025-26 · Final-Exam · Sem 4 · paper 9b66c3f8d47a

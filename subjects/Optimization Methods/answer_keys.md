@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CSE_DS_7057/Optimization Methods/ANS_Optimization Methods(702BS0C079)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
 - Text: text (19 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -45,6 +46,15 @@ distribution problem and compute the total distribution cost.
 Solution:
 4 Marks
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+D, D, D; Available
+
+s,| 265) | 7 4/5
+s,| 32) | 36 | 1 | 8
+s;| 5 4(3) | 74) | 7
+s;| 1 6 | 214) |14
+Requirement 7 9 18 34
 --- page 2 ---
 1 Marks
 Q1. b
@@ -139,6 +149,17 @@ A manufacturing company produces three types of portable LED lamps Model A, Mode
 The profit obtained from the sale of each unit of Model A, Model B, and Model C is ₹30, ₹40, and ₹20
 respectively. Each unit of the product requires processing time on a common machining line. The machining
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+C; dominated by a convex combination Cj and C3,
+82(15+1)/2 (A,=A,= 1/2)
+32 (-1+4)/2
+Hence C;, is deleted.
+Finally we get
+B; By
+
+A, (151
+A,\-1 4
 --- page 5 ---
 time required per unit is 10 minutes for Model A, 12 minutes for Model B, and 7 minutes for Model C. The
 total available machining time per week is limited to 10,000 minutes. In addition, due to packaging and market
@@ -168,6 +189,32 @@ Dallas   16   20   12   200
 Chicago   14   8   18   160
 Atlanta   26   24   16   90
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+| fel Basic 30 40 20 o 0
+
+Variables Quantity XA x2 XS slack 1 slack 2
+SS
+slack 1 10,000 10 12
+fi] slack 2 1,000 1 1 1 0 1
+z 0 = 2 2 ° :
+c}-2)
+iteration 2 SS ST
+40 X2| 833.3333 0.8333 1 0.5833 0.0833
+0 slack 2 166.6667 0.1667 i) 0.4167 -0.0833 1
+qj) 33,933,392 33,33 40 23.33 3.33 0
+
+cj-2] -3.3333 0 -3.3333 -3.3933 it)
+
+(untitled) Solution
+
+x2 x3 RHS Dual
+Maximize 40 20 |
+
+Constraint 4 10 12 7 <= 10000 3.33
+Constraint 2 1 1 1 <= 1000 it)
+
+Solution-> lo 833.33 0 | 33333.33
 --- page 6 ---
 Demand   180   120   150   450
 Determine the initial distribution for this company using the VAM method and check whether the obtained
@@ -271,6 +318,75 @@ Salesmen
 Identify the best allocation of salesmen to territories so that the sales revenues are maximized.
 Solution:
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+rroducing slack, surplus and artificial yariables, the
+
+In
+
+‘tard form as :
+se az = ;
+
+minimize Z = 500x, + 200x2 + 0.8) 4 0.59 + MA; + MAp
+
+gubject to the constraints
+
+3x1 + 2x2 +s) = 90
+
+X1 —S82+A,= 10
+-2x, +X2 +AQ= 0 ; x1, X2, $1, $2, Ay, Ag 2 0
+From the above system of equations, a starting basic feasible solution is :
+Ss; = 90, A; = 10 and A2=0
+
+problem can be expressed in
+
+P Iteration
+SIMPLEX TABLEAU I, II, III & IV
+Basic Solution 500 200 0. 0 M M ae
+ratio
+
+Gt _variables values ie % 5s, S A, A
+
+0 Sj 90 3 2 1 0 0 0 %
+
+M A, 10 1 0 0 ot 1 0 rs
+
+M TA, ft) -2 () +0 0 0 1 Oe
+jnenters & Z, -M M ft) -M M M :
+ik ees O-% 500#M 200-M 0 mM 0   O   |iteration 2
+
+t
+90
+
+0 Ss; 90 fl 0 1 0 ie) >
+
+| 200 % fe) 2 1 0 i) 0 _
+a
+Lenters & Z M-400 200 2 Fo *
+A, leaves G-3 900-M 0
+
+T
+
+1) 0 I 7 ;
+
+500 Si 2 4 0 0 -1 Iteration 3
+
+200 x, 10 0 1 0 -2
+
+eee ee 0. -900
+
+Zz, 9,000 | 500 - 0 ~—-900
+G-Z 9
+
+i he optimum
+
+Si Sait —Z, row are either zero or positive, t
+
+Nida be tn fe by : X1 = 10, xp = 20 with minum Z= #000.
+Hence the ransieesore! should manufacture 10 frames and 20 wheels at a mini ;
+Lv
+
+| “tof Rs. 90°,
 --- page 10 ---
 As the given problem is of maximization type, it has to be converted to minimization type.
 Minimization form
@@ -370,6 +486,33 @@ Branch C solution …………………..(1mark)
 Branch D solution …………………..(1mark)
 Branch E solution …………………..(1mark)
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+The value of the objective function at each of these extreme points is as follows:
+Extreme Point
+
+Objective function value
+
+Coordinates || ines through Extreme Point Z= Tx, + 9x
+(1.2)
+44x,20
+0(0, 0) 7(0) + 9(0) = 0
+
+5+ x20
+
+2 Ixy +x) $35
+
+A(5, 0) 5x20 7(5) + 9(0) = 35
+. 1— -x,+3x, <6
+B(4.5, 3.5) 2 Ix, +x £35 7(4.5) + 9(3.5) = 63
+1 -x,+3x, <6
+C(0, 2) 7(0) + 9(2) = 18
+
+4>x,20
+
+The maximum value of the objective function Z = 63 occurs at the extreme point (4.5, 3.5).
+
+Hence, the optimal solution to the given LP problem is : x; = 4.5, x2 = 3.5 and max Z = 63.
 --- page 13 ---
 Q6. a
 A fruit merchant purchases oranges at Rs 50 per basket and sells them at Rs 80. Unsold oranges are disposed
@@ -386,6 +529,36 @@ Daily sales (D)   No. of days (out of 120)   Empirical probability
 18   36   0.30
 ----------------(1 Mark)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+The branch and bound diagram
+
+A
+
+x, = 4.5,x9 =35
+
+£4= 63
+Zr = 55
+Solution steps by
+BigM method,
+‘Graphical method
+xyE4 xy 5
+B Cc
+X1 = 4.Xq = 3.3333 X1 = 5.X = 0
+Zp=38 Ze= 35
+£;=355 £, = 35
+Solution steps by Salution steps by
+BigM method, BigM method,
+Graphical method Graphical method
+x93 xye4
+Q E
+xy =4,%,=3
+Zn =35 Infeasible Solution
+Zr = 55
+Solution steps by ee oo by
+
+‘Graphical method
+‘Graphical method beetle
 --- page 14 ---
 Thus the Profit = 30 (no. of baskets sold) - 30 (no. of baskets unsold)
 Stock Q \ Demand D   15   16   17   18
@@ -485,6 +658,35 @@ Hence, non-integer optimal solution is arrived with value of variables as :
 x1=0.5,x2=0
 Max Z=1…………………….[02 Marks]
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Iteration-1 C; 2 5 0 0| 0
+B Cz Xz *y X,) SS, | Sy | Sgi
+
+x5 5 0.3333 0.6667 1 | 0.3333 | 0 0
+
+Ss 0 1.6667 -0.6667 0 | -0.3333 | 1 0
+
+Sg1 0 -0.3333 (- 0.6667) | 0 | -0.3333 | 0 1
+
+Z = 1.6667 Z 3.3333 5 | 1.6667 | 0 0
+
+C;- Z; - 1.3333 0 | -1.6667 | 0 0
+
+C,-Z;
+Ratio = ce 7 27 __ 5 |
+
+and Sgl,j <0
+
+Iteration-2 Cc; 2/5) 0);0)| 0
+B Cpl Xp || %2) Sy | S2| Sel
+X> 5 0 Oo; 1 0 | 0 1
+S, 0 2 |0/0)/0/1) -1
+xy 2 0.5 1/0/05) 0 | -1.5
+z= Z 2/5/10) 2
+Cc; - Zj 0o;0;}-1'0 -2
+
+Ratio
 --- page 17 ---
 Q7. a
 Distinguish between (i) Pure strategy and mixed strategy (ii) Zero-sum and non-zero-sum games.
@@ -576,6 +778,7 @@ Final decision variables: x1 = 70.0, x2 = 20.0.   ---------------(2 Marks)
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_DS_7009/Optimization Methods/ANS_Optimization Methods(702BS0C079)_2025-2026.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
 - Text: text (19 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -612,6 +815,15 @@ distribution problem and compute the total distribution cost.
 Solution:
 4 Marks
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+D, D, D; Available
+
+s,| 265) | 7 4/5
+s,| 32) | 36 | 1 | 8
+s;| 5 4(3) | 74) | 7
+s;| 1 6 | 214) |14
+Requirement 7 9 18 34
 --- page 2 ---
 1 Marks
 Q1. b
@@ -706,6 +918,17 @@ A manufacturing company produces three types of portable LED lamps Model A, Mode
 The profit obtained from the sale of each unit of Model A, Model B, and Model C is ₹30, ₹40, and ₹20
 respectively. Each unit of the product requires processing time on a common machining line. The machining
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+C; dominated by a convex combination Cj and C3,
+82(15+1)/2 (A,=A,= 1/2)
+32 (-1+4)/2
+Hence C;, is deleted.
+Finally we get
+B; By
+
+A, (151
+A,\-1 4
 --- page 5 ---
 time required per unit is 10 minutes for Model A, 12 minutes for Model B, and 7 minutes for Model C. The
 total available machining time per week is limited to 10,000 minutes. In addition, due to packaging and market
@@ -735,6 +958,32 @@ Dallas   16   20   12   200
 Chicago   14   8   18   160
 Atlanta   26   24   16   90
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+| fel Basic 30 40 20 o 0
+
+Variables Quantity XA x2 XS slack 1 slack 2
+SS
+slack 1 10,000 10 12
+fi] slack 2 1,000 1 1 1 0 1
+z 0 = 2 2 ° :
+c}-2)
+iteration 2 SS ST
+40 X2| 833.3333 0.8333 1 0.5833 0.0833
+0 slack 2 166.6667 0.1667 i) 0.4167 -0.0833 1
+qj) 33,933,392 33,33 40 23.33 3.33 0
+
+cj-2] -3.3333 0 -3.3333 -3.3933 it)
+
+(untitled) Solution
+
+x2 x3 RHS Dual
+Maximize 40 20 |
+
+Constraint 4 10 12 7 <= 10000 3.33
+Constraint 2 1 1 1 <= 1000 it)
+
+Solution-> lo 833.33 0 | 33333.33
 --- page 6 ---
 Demand   180   120   150   450
 Determine the initial distribution for this company using the VAM method and check whether the obtained
@@ -838,6 +1087,75 @@ Salesmen
 Identify the best allocation of salesmen to territories so that the sales revenues are maximized.
 Solution:
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+rroducing slack, surplus and artificial yariables, the
+
+In
+
+‘tard form as :
+se az = ;
+
+minimize Z = 500x, + 200x2 + 0.8) 4 0.59 + MA; + MAp
+
+gubject to the constraints
+
+3x1 + 2x2 +s) = 90
+
+X1 —S82+A,= 10
+-2x, +X2 +AQ= 0 ; x1, X2, $1, $2, Ay, Ag 2 0
+From the above system of equations, a starting basic feasible solution is :
+Ss; = 90, A; = 10 and A2=0
+
+problem can be expressed in
+
+P Iteration
+SIMPLEX TABLEAU I, II, III & IV
+Basic Solution 500 200 0. 0 M M ae
+ratio
+
+Gt _variables values ie % 5s, S A, A
+
+0 Sj 90 3 2 1 0 0 0 %
+
+M A, 10 1 0 0 ot 1 0 rs
+
+M TA, ft) -2 () +0 0 0 1 Oe
+jnenters & Z, -M M ft) -M M M :
+ik ees O-% 500#M 200-M 0 mM 0   O   |iteration 2
+
+t
+90
+
+0 Ss; 90 fl 0 1 0 ie) >
+
+| 200 % fe) 2 1 0 i) 0 _
+a
+Lenters & Z M-400 200 2 Fo *
+A, leaves G-3 900-M 0
+
+T
+
+1) 0 I 7 ;
+
+500 Si 2 4 0 0 -1 Iteration 3
+
+200 x, 10 0 1 0 -2
+
+eee ee 0. -900
+
+Zz, 9,000 | 500 - 0 ~—-900
+G-Z 9
+
+i he optimum
+
+Si Sait —Z, row are either zero or positive, t
+
+Nida be tn fe by : X1 = 10, xp = 20 with minum Z= #000.
+Hence the ransieesore! should manufacture 10 frames and 20 wheels at a mini ;
+Lv
+
+| “tof Rs. 90°,
 --- page 10 ---
 As the given problem is of maximization type, it has to be converted to minimization type.
 Minimization form
@@ -937,6 +1255,33 @@ Branch C solution …………………..(1mark)
 Branch D solution …………………..(1mark)
 Branch E solution …………………..(1mark)
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+The value of the objective function at each of these extreme points is as follows:
+Extreme Point
+
+Objective function value
+
+Coordinates || ines through Extreme Point Z= Tx, + 9x
+(1.2)
+44x,20
+0(0, 0) 7(0) + 9(0) = 0
+
+5+ x20
+
+2 Ixy +x) $35
+
+A(5, 0) 5x20 7(5) + 9(0) = 35
+. 1— -x,+3x, <6
+B(4.5, 3.5) 2 Ix, +x £35 7(4.5) + 9(3.5) = 63
+1 -x,+3x, <6
+C(0, 2) 7(0) + 9(2) = 18
+
+4>x,20
+
+The maximum value of the objective function Z = 63 occurs at the extreme point (4.5, 3.5).
+
+Hence, the optimal solution to the given LP problem is : x; = 4.5, x2 = 3.5 and max Z = 63.
 --- page 13 ---
 Q6. a
 A fruit merchant purchases oranges at Rs 50 per basket and sells them at Rs 80. Unsold oranges are disposed
@@ -953,6 +1298,36 @@ Daily sales (D)   No. of days (out of 120)   Empirical probability
 18   36   0.30
 ----------------(1 Mark)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+The branch and bound diagram
+
+A
+
+x, = 4.5,x9 =35
+
+£4= 63
+Zr = 55
+Solution steps by
+BigM method,
+‘Graphical method
+xyE4 xy 5
+B Cc
+X1 = 4.Xq = 3.3333 X1 = 5.X = 0
+Zp=38 Ze= 35
+£;=355 £, = 35
+Solution steps by Salution steps by
+BigM method, BigM method,
+Graphical method Graphical method
+x93 xye4
+Q E
+xy =4,%,=3
+Zn =35 Infeasible Solution
+Zr = 55
+Solution steps by ee oo by
+
+‘Graphical method
+‘Graphical method beetle
 --- page 14 ---
 Thus the Profit = 30 (no. of baskets sold) - 30 (no. of baskets unsold)
 Stock Q \ Demand D   15   16   17   18
@@ -1052,6 +1427,35 @@ Hence, non-integer optimal solution is arrived with value of variables as :
 x1=0.5,x2=0
 Max Z=1…………………….[02 Marks]
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Iteration-1 C; 2 5 0 0| 0
+B Cz Xz *y X,) SS, | Sy | Sgi
+
+x5 5 0.3333 0.6667 1 | 0.3333 | 0 0
+
+Ss 0 1.6667 -0.6667 0 | -0.3333 | 1 0
+
+Sg1 0 -0.3333 (- 0.6667) | 0 | -0.3333 | 0 1
+
+Z = 1.6667 Z 3.3333 5 | 1.6667 | 0 0
+
+C;- Z; - 1.3333 0 | -1.6667 | 0 0
+
+C,-Z;
+Ratio = ce 7 27 __ 5 |
+
+and Sgl,j <0
+
+Iteration-2 Cc; 2/5) 0);0)| 0
+B Cpl Xp || %2) Sy | S2| Sel
+X> 5 0 Oo; 1 0 | 0 1
+S, 0 2 |0/0)/0/1) -1
+xy 2 0.5 1/0/05) 0 | -1.5
+z= Z 2/5/10) 2
+Cc; - Zj 0o;0;}-1'0 -2
+
+Ratio
 --- page 17 ---
 Q7. a
 Distinguish between (i) Pure strategy and mixed strategy (ii) Zero-sum and non-zero-sum games.
@@ -1143,6 +1547,7 @@ Final decision variables: x1 = 70.0, x2 = 20.0.   ---------------(2 Marks)
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/BTech_DS_7009/Optimization Methods/ANS_Optimization Methods(702BS0C032)_2024-2025.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
 - Text: text (19 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1179,6 +1584,15 @@ distribution problem and compute the total distribution cost.
 Solution:
 4 Marks
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+D, D, D; Available
+
+s,| 265) | 7 4/5
+s,| 32) | 36 | 1 | 8
+s;| 5 4(3) | 74) | 7
+s;| 1 6 | 214) |14
+Requirement 7 9 18 34
 --- page 2 ---
 1 Marks
 Q1. b
@@ -1273,6 +1687,17 @@ A manufacturing company produces three types of portable LED lamps Model A, Mode
 The profit obtained from the sale of each unit of Model A, Model B, and Model C is ₹30, ₹40, and ₹20
 respectively. Each unit of the product requires processing time on a common machining line. The machining
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+C; dominated by a convex combination Cj and C3,
+82(15+1)/2 (A,=A,= 1/2)
+32 (-1+4)/2
+Hence C;, is deleted.
+Finally we get
+B; By
+
+A, (151
+A,\-1 4
 --- page 5 ---
 time required per unit is 10 minutes for Model A, 12 minutes for Model B, and 7 minutes for Model C. The
 total available machining time per week is limited to 10,000 minutes. In addition, due to packaging and market
@@ -1302,6 +1727,32 @@ Dallas   16   20   12   200
 Chicago   14   8   18   160
 Atlanta   26   24   16   90
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+| fel Basic 30 40 20 o 0
+
+Variables Quantity XA x2 XS slack 1 slack 2
+SS
+slack 1 10,000 10 12
+fi] slack 2 1,000 1 1 1 0 1
+z 0 = 2 2 ° :
+c}-2)
+iteration 2 SS ST
+40 X2| 833.3333 0.8333 1 0.5833 0.0833
+0 slack 2 166.6667 0.1667 i) 0.4167 -0.0833 1
+qj) 33,933,392 33,33 40 23.33 3.33 0
+
+cj-2] -3.3333 0 -3.3333 -3.3933 it)
+
+(untitled) Solution
+
+x2 x3 RHS Dual
+Maximize 40 20 |
+
+Constraint 4 10 12 7 <= 10000 3.33
+Constraint 2 1 1 1 <= 1000 it)
+
+Solution-> lo 833.33 0 | 33333.33
 --- page 6 ---
 Demand   180   120   150   450
 Determine the initial distribution for this company using the VAM method and check whether the obtained
@@ -1405,6 +1856,75 @@ Salesmen
 Identify the best allocation of salesmen to territories so that the sales revenues are maximized.
 Solution:
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+rroducing slack, surplus and artificial yariables, the
+
+In
+
+‘tard form as :
+se az = ;
+
+minimize Z = 500x, + 200x2 + 0.8) 4 0.59 + MA; + MAp
+
+gubject to the constraints
+
+3x1 + 2x2 +s) = 90
+
+X1 —S82+A,= 10
+-2x, +X2 +AQ= 0 ; x1, X2, $1, $2, Ay, Ag 2 0
+From the above system of equations, a starting basic feasible solution is :
+Ss; = 90, A; = 10 and A2=0
+
+problem can be expressed in
+
+P Iteration
+SIMPLEX TABLEAU I, II, III & IV
+Basic Solution 500 200 0. 0 M M ae
+ratio
+
+Gt _variables values ie % 5s, S A, A
+
+0 Sj 90 3 2 1 0 0 0 %
+
+M A, 10 1 0 0 ot 1 0 rs
+
+M TA, ft) -2 () +0 0 0 1 Oe
+jnenters & Z, -M M ft) -M M M :
+ik ees O-% 500#M 200-M 0 mM 0   O   |iteration 2
+
+t
+90
+
+0 Ss; 90 fl 0 1 0 ie) >
+
+| 200 % fe) 2 1 0 i) 0 _
+a
+Lenters & Z M-400 200 2 Fo *
+A, leaves G-3 900-M 0
+
+T
+
+1) 0 I 7 ;
+
+500 Si 2 4 0 0 -1 Iteration 3
+
+200 x, 10 0 1 0 -2
+
+eee ee 0. -900
+
+Zz, 9,000 | 500 - 0 ~—-900
+G-Z 9
+
+i he optimum
+
+Si Sait —Z, row are either zero or positive, t
+
+Nida be tn fe by : X1 = 10, xp = 20 with minum Z= #000.
+Hence the ransieesore! should manufacture 10 frames and 20 wheels at a mini ;
+Lv
+
+| “tof Rs. 90°,
 --- page 10 ---
 As the given problem is of maximization type, it has to be converted to minimization type.
 Minimization form
@@ -1504,6 +2024,33 @@ Branch C solution …………………..(1mark)
 Branch D solution …………………..(1mark)
 Branch E solution …………………..(1mark)
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+The value of the objective function at each of these extreme points is as follows:
+Extreme Point
+
+Objective function value
+
+Coordinates || ines through Extreme Point Z= Tx, + 9x
+(1.2)
+44x,20
+0(0, 0) 7(0) + 9(0) = 0
+
+5+ x20
+
+2 Ixy +x) $35
+
+A(5, 0) 5x20 7(5) + 9(0) = 35
+. 1— -x,+3x, <6
+B(4.5, 3.5) 2 Ix, +x £35 7(4.5) + 9(3.5) = 63
+1 -x,+3x, <6
+C(0, 2) 7(0) + 9(2) = 18
+
+4>x,20
+
+The maximum value of the objective function Z = 63 occurs at the extreme point (4.5, 3.5).
+
+Hence, the optimal solution to the given LP problem is : x; = 4.5, x2 = 3.5 and max Z = 63.
 --- page 13 ---
 Q6. a
 A fruit merchant purchases oranges at Rs 50 per basket and sells them at Rs 80. Unsold oranges are disposed
@@ -1520,6 +2067,36 @@ Daily sales (D)   No. of days (out of 120)   Empirical probability
 18   36   0.30
 ----------------(1 Mark)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+The branch and bound diagram
+
+A
+
+x, = 4.5,x9 =35
+
+£4= 63
+Zr = 55
+Solution steps by
+BigM method,
+‘Graphical method
+xyE4 xy 5
+B Cc
+X1 = 4.Xq = 3.3333 X1 = 5.X = 0
+Zp=38 Ze= 35
+£;=355 £, = 35
+Solution steps by Salution steps by
+BigM method, BigM method,
+Graphical method Graphical method
+x93 xye4
+Q E
+xy =4,%,=3
+Zn =35 Infeasible Solution
+Zr = 55
+Solution steps by ee oo by
+
+‘Graphical method
+‘Graphical method beetle
 --- page 14 ---
 Thus the Profit = 30 (no. of baskets sold) - 30 (no. of baskets unsold)
 Stock Q \ Demand D   15   16   17   18
@@ -1619,6 +2196,35 @@ Hence, non-integer optimal solution is arrived with value of variables as :
 x1=0.5,x2=0
 Max Z=1…………………….[02 Marks]
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Iteration-1 C; 2 5 0 0| 0
+B Cz Xz *y X,) SS, | Sy | Sgi
+
+x5 5 0.3333 0.6667 1 | 0.3333 | 0 0
+
+Ss 0 1.6667 -0.6667 0 | -0.3333 | 1 0
+
+Sg1 0 -0.3333 (- 0.6667) | 0 | -0.3333 | 0 1
+
+Z = 1.6667 Z 3.3333 5 | 1.6667 | 0 0
+
+C;- Z; - 1.3333 0 | -1.6667 | 0 0
+
+C,-Z;
+Ratio = ce 7 27 __ 5 |
+
+and Sgl,j <0
+
+Iteration-2 Cc; 2/5) 0);0)| 0
+B Cpl Xp || %2) Sy | S2| Sel
+X> 5 0 Oo; 1 0 | 0 1
+S, 0 2 |0/0)/0/1) -1
+xy 2 0.5 1/0/05) 0 | -1.5
+z= Z 2/5/10) 2
+Cc; - Zj 0o;0;}-1'0 -2
+
+Ratio
 --- page 17 ---
 Q7. a
 Distinguish between (i) Pure strategy and mixed strategy (ii) Zero-sum and non-zero-sum games.
@@ -1710,6 +2316,7 @@ Final decision variables: x1 = 70.0, x2 = 20.0.   ---------------(2 Marks)
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_CSE_DS_7057/Optimization Methods/ANS_Optimization Methods(702BS0C079)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Feb 2026
 - Text: mixed (23 pages), mean OCR confidence 75.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1745,6 +2352,25 @@ Solution:
 4 Marks
 1 Marks
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+D, D, D, D,
+
+30 Pa = =
+mi 6 8 8 5 36
+5 28 7 a
+S2 5 ll 9 7 46
+_ _ 25 25
+s 8 9 7 13| 50
+(Rs)
+S,2>D, 30units : cost 30x6 = 180
+S,—-D, 5 units : cost 5x5 =25
+S,—2>D, 28units : cost 28x 11 = 308
+S,—2D,; 7 units : cost 7x9 =63
+S;2D; 25units : cost 25x7 =175
+S;2D, 25units : cost 25 x 13 = 325
+
+Total cost = Rs 1076
 --- page 2 ---
 Q1.b
 Formulate the dual of the given primal problem.
@@ -1803,6 +2429,23 @@ Solution:
 1 Mark
 1 Mark
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Subtract row minima
+We subtract the row minimum from each row:
+
+7 15 6 O (-11)
+o 15 1 13 (-13)
+23 4 3 0 (-15)
+9 16 14 0 (-10)
+
+Subtract column minima
+We subtract the column minimum from each column:
+
+7 11 5 ie)
+te) 11 ie) 13
+23 ie) 2 ie)
+9 12 13 ie}
 --- page 4 ---
 1 Mark
 2 Marks
@@ -1823,6 +2466,20 @@ B1> B3, B3 dominates B1, delete B1   …………………….(1 mark)
 Avg(B3,B4)=B2, delete B2
 ………………..(1 Marks)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+42 (24+ 4)/2,2 2 (4+ 0)/2,
+
+42> (0+ 8)/2, (A, =A,= 1/2)
+
+*. column | can be deleted and the resulting
+matrix is
+
+B, B,
+Ay (2 4
+A,|4 0
+
+A,|0 8
 --- page 5 ---
 …………………………(1 Marks)
 …………………………..(3 Marks)
@@ -1846,6 +2503,37 @@ subject to,
 3 x 1 + x 2 + 2 x 3  70
 x 1 , x 2 , x 3  0
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+2<(44+0);4<(04+8)/2
+and hence row I can be deleted.
+Finally we get
+By B,
+
+A, (4 0
+A,|O 8
+= (44+ 8)—-(0+0)=12
+p3 = 8/12 = 2/3, py = 1/3
+q3 = 8/12 = 2/3, q4y = 1/3
+Value of the game is
+
+v=32/12=8/3
+
+LPP1 Solution
+
+Cj Basic 10 15 8 0 0
+Variables Quantity x1 X2 X3 slack 1 slack 2
+SS
+slack 1 150
+0 slack 2 70 3 1 2 0 1
+Zj ) 0 0 0 ) )
+Cj-zj
+iteration 2 SS
+0 slack 1
+15 X2 70 3 1 2 0 1
+Zz 1,050 45 15 30 0 15
+
+cj-zj -35 0 -22 0 15
 --- page 6 ---
 Setting up the initial solution
 And solving till iteration1 …………………………………………………………………….(3 marks)
@@ -1877,6 +2565,16 @@ IBFS by VAM
 3 Marks
 100+30+160+700+120+195+160=1465
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+LPP1 Solution
+
+x2 x3 RHS Dual
+15 8
+Constraint 1 2 [a 1 <= 150 io
+Constraint 2 3 1 2 < 70 15
+
+Solution-> lo \70 0 1050
 --- page 7 ---
 Non degeneracy test
 • Number of occupied cells = 7
@@ -1980,6 +2678,46 @@ Salesmen
 5   58   60   59   55   53
 Find the assignment of salesmen to districts that will result in the maximization of sales.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Subtracting surplus variable s; YOM \<), adding slack variable
+
+artificial variables Ay and Ag to (1) and (2) respectively. The above LE to (3) 4
+
+nd
+standard form may be rewritten as under : P Problem in
+Maximize Z = 10x; + 12xz + 0.8; + 0.82 - MA, — MA,
+subject to the constraints
+“ X, + X24 0.5; + 0.s2+A1+0Ay= 5
+Xx; + O.xg-s, + 0.s2+0A1+A,= 2
+0.x, +XQ+ 0.8) +Sot 0.A; + 0.A> = 4
+X1, X2, $1, $2, Ay, Ap > 0
+The initial basic feasible solution is obtained by setting :
+xX) =X2=S8) = S2 = 0 so that A, = 5, Ao = 2 and sp = 4,
+SIMPLEX TABLEAU I, I, III Iteration 1
+Cp Basic Solution) 10 12 0 0 -M -M Minimun]
+| = variables values * 3 Ss s A, A, ratio
+= A 5
+| -M A, 2 .° : e 0 . oO 5
+fa) s 4 A 0 -1 0 ° 1 2e
+x enies & ~Z, = — He ; a ) undefined
+Az leaves C,-Z 1042M 124M ig 0 lrg ;
+ow x Iteration 2
+1 3 0 i*
+10 x; 2 1 1 2 1 3e
+0 2 4 0 0 1 0 0 undefined
+x, enters& Z, 10 i 0 1 0 a
+A, leaves C,-Z, 0 uM, -M-10 0 -M
++12 M+10 0 to)
+12 % 3 0 u itl
+10 x, 2 1 1 ty)
+16) s 1
+2 1 0 0 aa oO
+Z, S| 37 -~ 1 Iteration 3
+C-Z 0 4 2 0
+Since all entries in the c_ = 2
+
+apkiion 6 arrived o end js given TOW are either zero or negative, the optimu™
 --- page 11 ---
 Solution:
 Maximization problem converted to minimization
@@ -2064,6 +2802,32 @@ x 2  5
 x 1 , x 2 are non negative integers
 Solution:
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+1. To draw constraint 2x; + 4x9 < 25 = (1)
+Treat it as 2x, + 4x5 = 25
+When x, = 0 then xy = ?
+
+= 2(0) + 4xy = 25
+
+= 4x7 = 25
+25
+Sx T= 6.25
+
+When x) = 0 then xy = ?
+= 2x, + 4(0) = 25
+> 2x, = 25
+
+25
+Sx, 77 12.5
+
+x1} 0 |12.5
+
+X2/6.25| 0
+
+Put x; = 0, xy = 0 (origin) in 2x; + 4x, = 25, then 0+ 0 < 25, which is true,
+
+The half plane containing the origin is the region of the solution set of the inequation 2x; + 4x» < 25
 --- page 14 ---
 2. To draw constraint x, <8 > Q)
 Treat it as x, = 8
@@ -2329,6 +3093,20 @@ R2(new)=R2(old) +(-0.5) R3(new
 …………………….[02 Marks]
 Identify the integer optimal solution
 ********** 20 **********
+
+[Text in pictures on this page, read by OCR]
+Iteration-1 Cc 1 3) 0/0) 0
+
+X5 3 0.5 0.5 1|05)0 0
+S> 10) 1.5 -0.5 0 |}-0.5) 1 0
+Sel 0 -0.5 (-0.5)/0|-05)'0) 1
+Z=15 Zj 1.5 3/15 > 0 0
+CG - Z; -0.5 0 |}-1.5) 0 0
+C,-Z,
+. IO 4
+Ratio = Sel.j 1+ --| 3 |---|
+
+and Sg1,j <0
 --- page 21 ---
 Since all Cj-Zj≤0
 Hence, integer optimal solution is arrived with value of variables as:
@@ -2455,6 +3233,7 @@ FIR ICR 2 I OH
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_DS_7009/Optimization Methods/ANS_Optimization Methods(702BS0C079)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Feb 2026
 - Text: mixed (23 pages), mean OCR confidence 75.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2490,6 +3269,25 @@ Solution:
 4 Marks
 1 Marks
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+D, D, D, D,
+
+30 Pa = =
+mi 6 8 8 5 36
+5 28 7 a
+S2 5 ll 9 7 46
+_ _ 25 25
+s 8 9 7 13| 50
+(Rs)
+S,2>D, 30units : cost 30x6 = 180
+S,—-D, 5 units : cost 5x5 =25
+S,—2>D, 28units : cost 28x 11 = 308
+S,—2D,; 7 units : cost 7x9 =63
+S;2D; 25units : cost 25x7 =175
+S;2D, 25units : cost 25 x 13 = 325
+
+Total cost = Rs 1076
 --- page 2 ---
 Q1.b
 Formulate the dual of the given primal problem.
@@ -2548,6 +3346,23 @@ Solution:
 1 Mark
 1 Mark
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Subtract row minima
+We subtract the row minimum from each row:
+
+7 15 6 O (-11)
+o 15 1 13 (-13)
+23 4 3 0 (-15)
+9 16 14 0 (-10)
+
+Subtract column minima
+We subtract the column minimum from each column:
+
+7 11 5 ie)
+te) 11 ie) 13
+23 ie) 2 ie)
+9 12 13 ie}
 --- page 4 ---
 1 Mark
 2 Marks
@@ -2568,6 +3383,20 @@ B1> B3, B3 dominates B1, delete B1   …………………….(1 mark)
 Avg(B3,B4)=B2, delete B2
 ………………..(1 Marks)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+42 (24+ 4)/2,2 2 (4+ 0)/2,
+
+42> (0+ 8)/2, (A, =A,= 1/2)
+
+*. column | can be deleted and the resulting
+matrix is
+
+B, B,
+Ay (2 4
+A,|4 0
+
+A,|0 8
 --- page 5 ---
 …………………………(1 Marks)
 …………………………..(3 Marks)
@@ -2591,6 +3420,37 @@ subject to,
 3 x 1 + x 2 + 2 x 3  70
 x 1 , x 2 , x 3  0
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+2<(44+0);4<(04+8)/2
+and hence row I can be deleted.
+Finally we get
+By B,
+
+A, (4 0
+A,|O 8
+= (44+ 8)—-(0+0)=12
+p3 = 8/12 = 2/3, py = 1/3
+q3 = 8/12 = 2/3, q4y = 1/3
+Value of the game is
+
+v=32/12=8/3
+
+LPP1 Solution
+
+Cj Basic 10 15 8 0 0
+Variables Quantity x1 X2 X3 slack 1 slack 2
+SS
+slack 1 150
+0 slack 2 70 3 1 2 0 1
+Zj ) 0 0 0 ) )
+Cj-zj
+iteration 2 SS
+0 slack 1
+15 X2 70 3 1 2 0 1
+Zz 1,050 45 15 30 0 15
+
+cj-zj -35 0 -22 0 15
 --- page 6 ---
 Setting up the initial solution
 And solving till iteration1 …………………………………………………………………….(3 marks)
@@ -2622,6 +3482,16 @@ IBFS by VAM
 3 Marks
 100+30+160+700+120+195+160=1465
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+LPP1 Solution
+
+x2 x3 RHS Dual
+15 8
+Constraint 1 2 [a 1 <= 150 io
+Constraint 2 3 1 2 < 70 15
+
+Solution-> lo \70 0 1050
 --- page 7 ---
 Non degeneracy test
 • Number of occupied cells = 7
@@ -2725,6 +3595,46 @@ Salesmen
 5   58   60   59   55   53
 Find the assignment of salesmen to districts that will result in the maximization of sales.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Subtracting surplus variable s; YOM \<), adding slack variable
+
+artificial variables Ay and Ag to (1) and (2) respectively. The above LE to (3) 4
+
+nd
+standard form may be rewritten as under : P Problem in
+Maximize Z = 10x; + 12xz + 0.8; + 0.82 - MA, — MA,
+subject to the constraints
+“ X, + X24 0.5; + 0.s2+A1+0Ay= 5
+Xx; + O.xg-s, + 0.s2+0A1+A,= 2
+0.x, +XQ+ 0.8) +Sot 0.A; + 0.A> = 4
+X1, X2, $1, $2, Ay, Ap > 0
+The initial basic feasible solution is obtained by setting :
+xX) =X2=S8) = S2 = 0 so that A, = 5, Ao = 2 and sp = 4,
+SIMPLEX TABLEAU I, I, III Iteration 1
+Cp Basic Solution) 10 12 0 0 -M -M Minimun]
+| = variables values * 3 Ss s A, A, ratio
+= A 5
+| -M A, 2 .° : e 0 . oO 5
+fa) s 4 A 0 -1 0 ° 1 2e
+x enies & ~Z, = — He ; a ) undefined
+Az leaves C,-Z 1042M 124M ig 0 lrg ;
+ow x Iteration 2
+1 3 0 i*
+10 x; 2 1 1 2 1 3e
+0 2 4 0 0 1 0 0 undefined
+x, enters& Z, 10 i 0 1 0 a
+A, leaves C,-Z, 0 uM, -M-10 0 -M
++12 M+10 0 to)
+12 % 3 0 u itl
+10 x, 2 1 1 ty)
+16) s 1
+2 1 0 0 aa oO
+Z, S| 37 -~ 1 Iteration 3
+C-Z 0 4 2 0
+Since all entries in the c_ = 2
+
+apkiion 6 arrived o end js given TOW are either zero or negative, the optimu™
 --- page 11 ---
 Solution:
 Maximization problem converted to minimization
@@ -2809,6 +3719,32 @@ x 2  5
 x 1 , x 2 are non negative integers
 Solution:
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+1. To draw constraint 2x; + 4x9 < 25 = (1)
+Treat it as 2x, + 4x5 = 25
+When x, = 0 then xy = ?
+
+= 2(0) + 4xy = 25
+
+= 4x7 = 25
+25
+Sx T= 6.25
+
+When x) = 0 then xy = ?
+= 2x, + 4(0) = 25
+> 2x, = 25
+
+25
+Sx, 77 12.5
+
+x1} 0 |12.5
+
+X2/6.25| 0
+
+Put x; = 0, xy = 0 (origin) in 2x; + 4x, = 25, then 0+ 0 < 25, which is true,
+
+The half plane containing the origin is the region of the solution set of the inequation 2x; + 4x» < 25
 --- page 14 ---
 2. To draw constraint x, <8 > Q)
 Treat it as x, = 8
@@ -3074,6 +4010,20 @@ R2(new)=R2(old) +(-0.5) R3(new
 …………………….[02 Marks]
 Identify the integer optimal solution
 ********** 20 **********
+
+[Text in pictures on this page, read by OCR]
+Iteration-1 Cc 1 3) 0/0) 0
+
+X5 3 0.5 0.5 1|05)0 0
+S> 10) 1.5 -0.5 0 |}-0.5) 1 0
+Sel 0 -0.5 (-0.5)/0|-05)'0) 1
+Z=15 Zj 1.5 3/15 > 0 0
+CG - Z; -0.5 0 |}-1.5) 0 0
+C,-Z,
+. IO 4
+Ratio = Sel.j 1+ --| 3 |---|
+
+and Sg1,j <0
 --- page 21 ---
 Since all Cj-Zj≤0
 Hence, integer optimal solution is arrived with value of variables as:
@@ -3200,6 +4150,7 @@ FIR ICR 2 I OH
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/MBATech_DS_7052/Optimization Methods/ANS_Optimization Methods(702BS0C079)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Feb 2026
 - Text: mixed (23 pages), mean OCR confidence 75.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3235,6 +4186,25 @@ Solution:
 4 Marks
 1 Marks
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+D, D, D, D,
+
+30 Pa = =
+mi 6 8 8 5 36
+5 28 7 a
+S2 5 ll 9 7 46
+_ _ 25 25
+s 8 9 7 13| 50
+(Rs)
+S,2>D, 30units : cost 30x6 = 180
+S,—-D, 5 units : cost 5x5 =25
+S,—2>D, 28units : cost 28x 11 = 308
+S,—2D,; 7 units : cost 7x9 =63
+S;2D; 25units : cost 25x7 =175
+S;2D, 25units : cost 25 x 13 = 325
+
+Total cost = Rs 1076
 --- page 2 ---
 Q1.b
 Formulate the dual of the given primal problem.
@@ -3293,6 +4263,23 @@ Solution:
 1 Mark
 1 Mark
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Subtract row minima
+We subtract the row minimum from each row:
+
+7 15 6 O (-11)
+o 15 1 13 (-13)
+23 4 3 0 (-15)
+9 16 14 0 (-10)
+
+Subtract column minima
+We subtract the column minimum from each column:
+
+7 11 5 ie)
+te) 11 ie) 13
+23 ie) 2 ie)
+9 12 13 ie}
 --- page 4 ---
 1 Mark
 2 Marks
@@ -3313,6 +4300,20 @@ B1> B3, B3 dominates B1, delete B1   …………………….(1 mark)
 Avg(B3,B4)=B2, delete B2
 ………………..(1 Marks)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+42 (24+ 4)/2,2 2 (4+ 0)/2,
+
+42> (0+ 8)/2, (A, =A,= 1/2)
+
+*. column | can be deleted and the resulting
+matrix is
+
+B, B,
+Ay (2 4
+A,|4 0
+
+A,|0 8
 --- page 5 ---
 …………………………(1 Marks)
 …………………………..(3 Marks)
@@ -3336,6 +4337,37 @@ subject to,
 3 x 1 + x 2 + 2 x 3  70
 x 1 , x 2 , x 3  0
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+2<(44+0);4<(04+8)/2
+and hence row I can be deleted.
+Finally we get
+By B,
+
+A, (4 0
+A,|O 8
+= (44+ 8)—-(0+0)=12
+p3 = 8/12 = 2/3, py = 1/3
+q3 = 8/12 = 2/3, q4y = 1/3
+Value of the game is
+
+v=32/12=8/3
+
+LPP1 Solution
+
+Cj Basic 10 15 8 0 0
+Variables Quantity x1 X2 X3 slack 1 slack 2
+SS
+slack 1 150
+0 slack 2 70 3 1 2 0 1
+Zj ) 0 0 0 ) )
+Cj-zj
+iteration 2 SS
+0 slack 1
+15 X2 70 3 1 2 0 1
+Zz 1,050 45 15 30 0 15
+
+cj-zj -35 0 -22 0 15
 --- page 6 ---
 Setting up the initial solution
 And solving till iteration1 …………………………………………………………………….(3 marks)
@@ -3367,6 +4399,16 @@ IBFS by VAM
 3 Marks
 100+30+160+700+120+195+160=1465
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+LPP1 Solution
+
+x2 x3 RHS Dual
+15 8
+Constraint 1 2 [a 1 <= 150 io
+Constraint 2 3 1 2 < 70 15
+
+Solution-> lo \70 0 1050
 --- page 7 ---
 Non degeneracy test
 • Number of occupied cells = 7
@@ -3470,6 +4512,46 @@ Salesmen
 5   58   60   59   55   53
 Find the assignment of salesmen to districts that will result in the maximization of sales.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Subtracting surplus variable s; YOM \<), adding slack variable
+
+artificial variables Ay and Ag to (1) and (2) respectively. The above LE to (3) 4
+
+nd
+standard form may be rewritten as under : P Problem in
+Maximize Z = 10x; + 12xz + 0.8; + 0.82 - MA, — MA,
+subject to the constraints
+“ X, + X24 0.5; + 0.s2+A1+0Ay= 5
+Xx; + O.xg-s, + 0.s2+0A1+A,= 2
+0.x, +XQ+ 0.8) +Sot 0.A; + 0.A> = 4
+X1, X2, $1, $2, Ay, Ap > 0
+The initial basic feasible solution is obtained by setting :
+xX) =X2=S8) = S2 = 0 so that A, = 5, Ao = 2 and sp = 4,
+SIMPLEX TABLEAU I, I, III Iteration 1
+Cp Basic Solution) 10 12 0 0 -M -M Minimun]
+| = variables values * 3 Ss s A, A, ratio
+= A 5
+| -M A, 2 .° : e 0 . oO 5
+fa) s 4 A 0 -1 0 ° 1 2e
+x enies & ~Z, = — He ; a ) undefined
+Az leaves C,-Z 1042M 124M ig 0 lrg ;
+ow x Iteration 2
+1 3 0 i*
+10 x; 2 1 1 2 1 3e
+0 2 4 0 0 1 0 0 undefined
+x, enters& Z, 10 i 0 1 0 a
+A, leaves C,-Z, 0 uM, -M-10 0 -M
++12 M+10 0 to)
+12 % 3 0 u itl
+10 x, 2 1 1 ty)
+16) s 1
+2 1 0 0 aa oO
+Z, S| 37 -~ 1 Iteration 3
+C-Z 0 4 2 0
+Since all entries in the c_ = 2
+
+apkiion 6 arrived o end js given TOW are either zero or negative, the optimu™
 --- page 11 ---
 Solution:
 Maximization problem converted to minimization
@@ -3554,6 +4636,32 @@ x 2  5
 x 1 , x 2 are non negative integers
 Solution:
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+1. To draw constraint 2x; + 4x9 < 25 = (1)
+Treat it as 2x, + 4x5 = 25
+When x, = 0 then xy = ?
+
+= 2(0) + 4xy = 25
+
+= 4x7 = 25
+25
+Sx T= 6.25
+
+When x) = 0 then xy = ?
+= 2x, + 4(0) = 25
+> 2x, = 25
+
+25
+Sx, 77 12.5
+
+x1} 0 |12.5
+
+X2/6.25| 0
+
+Put x; = 0, xy = 0 (origin) in 2x; + 4x, = 25, then 0+ 0 < 25, which is true,
+
+The half plane containing the origin is the region of the solution set of the inequation 2x; + 4x» < 25
 --- page 14 ---
 2. To draw constraint x, <8 > Q)
 Treat it as x, = 8
@@ -3819,6 +4927,20 @@ R2(new)=R2(old) +(-0.5) R3(new
 …………………….[02 Marks]
 Identify the integer optimal solution
 ********** 20 **********
+
+[Text in pictures on this page, read by OCR]
+Iteration-1 Cc 1 3) 0/0) 0
+
+X5 3 0.5 0.5 1|05)0 0
+S> 10) 1.5 -0.5 0 |}-0.5) 1 0
+Sel 0 -0.5 (-0.5)/0|-05)'0) 1
+Z=15 Zj 1.5 3/15 > 0 0
+CG - Z; -0.5 0 |}-1.5) 0 0
+C,-Z,
+. IO 4
+Ratio = Sel.j 1+ --| 3 |---|
+
+and Sg1,j <0
 --- page 21 ---
 Since all Cj-Zj≤0
 Hence, integer optimal solution is arrived with value of variables as:
@@ -3945,6 +5067,7 @@ FIR ICR 2 I OH
 - Source: `02_Question_Papers/2025/Sem_07/Re-Exam/Integrated_DS_7038/Optimization Methods/ANS_Optimization Methods(702BS0C032)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Feb 2026
 - Text: mixed (23 pages), mean OCR confidence 75.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3980,6 +5103,25 @@ Solution:
 4 Marks
 1 Marks
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+D, D, D, D,
+
+30 Pa = =
+mi 6 8 8 5 36
+5 28 7 a
+S2 5 ll 9 7 46
+_ _ 25 25
+s 8 9 7 13| 50
+(Rs)
+S,2>D, 30units : cost 30x6 = 180
+S,—-D, 5 units : cost 5x5 =25
+S,—2>D, 28units : cost 28x 11 = 308
+S,—2D,; 7 units : cost 7x9 =63
+S;2D; 25units : cost 25x7 =175
+S;2D, 25units : cost 25 x 13 = 325
+
+Total cost = Rs 1076
 --- page 2 ---
 Q1.b
 Formulate the dual of the given primal problem.
@@ -4038,6 +5180,23 @@ Solution:
 1 Mark
 1 Mark
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Subtract row minima
+We subtract the row minimum from each row:
+
+7 15 6 O (-11)
+o 15 1 13 (-13)
+23 4 3 0 (-15)
+9 16 14 0 (-10)
+
+Subtract column minima
+We subtract the column minimum from each column:
+
+7 11 5 ie)
+te) 11 ie) 13
+23 ie) 2 ie)
+9 12 13 ie}
 --- page 4 ---
 1 Mark
 2 Marks
@@ -4058,6 +5217,20 @@ B1> B3, B3 dominates B1, delete B1   …………………….(1 mark)
 Avg(B3,B4)=B2, delete B2
 ………………..(1 Marks)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+42 (24+ 4)/2,2 2 (4+ 0)/2,
+
+42> (0+ 8)/2, (A, =A,= 1/2)
+
+*. column | can be deleted and the resulting
+matrix is
+
+B, B,
+Ay (2 4
+A,|4 0
+
+A,|0 8
 --- page 5 ---
 …………………………(1 Marks)
 …………………………..(3 Marks)
@@ -4081,6 +5254,37 @@ subject to,
 3 x 1 + x 2 + 2 x 3  70
 x 1 , x 2 , x 3  0
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+2<(44+0);4<(04+8)/2
+and hence row I can be deleted.
+Finally we get
+By B,
+
+A, (4 0
+A,|O 8
+= (44+ 8)—-(0+0)=12
+p3 = 8/12 = 2/3, py = 1/3
+q3 = 8/12 = 2/3, q4y = 1/3
+Value of the game is
+
+v=32/12=8/3
+
+LPP1 Solution
+
+Cj Basic 10 15 8 0 0
+Variables Quantity x1 X2 X3 slack 1 slack 2
+SS
+slack 1 150
+0 slack 2 70 3 1 2 0 1
+Zj ) 0 0 0 ) )
+Cj-zj
+iteration 2 SS
+0 slack 1
+15 X2 70 3 1 2 0 1
+Zz 1,050 45 15 30 0 15
+
+cj-zj -35 0 -22 0 15
 --- page 6 ---
 Setting up the initial solution
 And solving till iteration1 …………………………………………………………………….(3 marks)
@@ -4112,6 +5316,16 @@ IBFS by VAM
 3 Marks
 100+30+160+700+120+195+160=1465
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+LPP1 Solution
+
+x2 x3 RHS Dual
+15 8
+Constraint 1 2 [a 1 <= 150 io
+Constraint 2 3 1 2 < 70 15
+
+Solution-> lo \70 0 1050
 --- page 7 ---
 Non degeneracy test
 • Number of occupied cells = 7
@@ -4215,6 +5429,46 @@ Salesmen
 5   58   60   59   55   53
 Find the assignment of salesmen to districts that will result in the maximization of sales.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Subtracting surplus variable s; YOM \<), adding slack variable
+
+artificial variables Ay and Ag to (1) and (2) respectively. The above LE to (3) 4
+
+nd
+standard form may be rewritten as under : P Problem in
+Maximize Z = 10x; + 12xz + 0.8; + 0.82 - MA, — MA,
+subject to the constraints
+“ X, + X24 0.5; + 0.s2+A1+0Ay= 5
+Xx; + O.xg-s, + 0.s2+0A1+A,= 2
+0.x, +XQ+ 0.8) +Sot 0.A; + 0.A> = 4
+X1, X2, $1, $2, Ay, Ap > 0
+The initial basic feasible solution is obtained by setting :
+xX) =X2=S8) = S2 = 0 so that A, = 5, Ao = 2 and sp = 4,
+SIMPLEX TABLEAU I, I, III Iteration 1
+Cp Basic Solution) 10 12 0 0 -M -M Minimun]
+| = variables values * 3 Ss s A, A, ratio
+= A 5
+| -M A, 2 .° : e 0 . oO 5
+fa) s 4 A 0 -1 0 ° 1 2e
+x enies & ~Z, = — He ; a ) undefined
+Az leaves C,-Z 1042M 124M ig 0 lrg ;
+ow x Iteration 2
+1 3 0 i*
+10 x; 2 1 1 2 1 3e
+0 2 4 0 0 1 0 0 undefined
+x, enters& Z, 10 i 0 1 0 a
+A, leaves C,-Z, 0 uM, -M-10 0 -M
++12 M+10 0 to)
+12 % 3 0 u itl
+10 x, 2 1 1 ty)
+16) s 1
+2 1 0 0 aa oO
+Z, S| 37 -~ 1 Iteration 3
+C-Z 0 4 2 0
+Since all entries in the c_ = 2
+
+apkiion 6 arrived o end js given TOW are either zero or negative, the optimu™
 --- page 11 ---
 Solution:
 Maximization problem converted to minimization
@@ -4299,6 +5553,32 @@ x 2  5
 x 1 , x 2 are non negative integers
 Solution:
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+1. To draw constraint 2x; + 4x9 < 25 = (1)
+Treat it as 2x, + 4x5 = 25
+When x, = 0 then xy = ?
+
+= 2(0) + 4xy = 25
+
+= 4x7 = 25
+25
+Sx T= 6.25
+
+When x) = 0 then xy = ?
+= 2x, + 4(0) = 25
+> 2x, = 25
+
+25
+Sx, 77 12.5
+
+x1} 0 |12.5
+
+X2/6.25| 0
+
+Put x; = 0, xy = 0 (origin) in 2x; + 4x, = 25, then 0+ 0 < 25, which is true,
+
+The half plane containing the origin is the region of the solution set of the inequation 2x; + 4x» < 25
 --- page 14 ---
 2. To draw constraint x, <8 > Q)
 Treat it as x, = 8
@@ -4564,6 +5844,20 @@ R2(new)=R2(old) +(-0.5) R3(new
 …………………….[02 Marks]
 Identify the integer optimal solution
 ********** 20 **********
+
+[Text in pictures on this page, read by OCR]
+Iteration-1 Cc 1 3) 0/0) 0
+
+X5 3 0.5 0.5 1|05)0 0
+S> 10) 1.5 -0.5 0 |}-0.5) 1 0
+Sel 0 -0.5 (-0.5)/0|-05)'0) 1
+Z=15 Zj 1.5 3/15 > 0 0
+CG - Z; -0.5 0 |}-1.5) 0 0
+C,-Z,
+. IO 4
+Ratio = Sel.j 1+ --| 3 |---|
+
+and Sg1,j <0
 --- page 21 ---
 Since all Cj-Zj≤0
 Hence, integer optimal solution is arrived with value of variables as:

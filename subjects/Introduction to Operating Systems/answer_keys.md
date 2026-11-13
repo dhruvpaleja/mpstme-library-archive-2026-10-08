@@ -311,6 +311,15 @@ Better response time
 More context switching (overhead)
 Lower waiting time
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Process|Arrival Time|Burst Time
+
+Pl 0 10
+P2 l 5
+P3 2 8
+
+P4 3 6
 --- page 10 ---
 ● Larger Time Quantum (4):
 Fewer context switches
@@ -893,6 +902,15 @@ Better response time
 More context switching (overhead)
 Lower waiting time
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Process|Arrival Time|Burst Time
+
+Pl 0 10
+P2 l 5
+P3 2 8
+
+P4 3 6
 --- page 10 ---
 ● Larger Time Quantum (4):
 Fewer context switches
@@ -1475,6 +1493,15 @@ Better response time
 More context switching (overhead)
 Lower waiting time
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Process|Arrival Time|Burst Time
+
+Pl 0 10
+P2 l 5
+P3 2 8
+
+P4 3 6
 --- page 10 ---
 ● Larger Time Quantum (4):
 Fewer context switches
@@ -2030,6 +2057,16 @@ CO1   ; b.   Gantt Chart:
 SO- ; BL-5
 Average WT = (0+7+10+18+22)/5 = 11.4
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Process|Arrival Time|Burst Time/Priority
+
+Pl 0 8 3
+P2 | 4 |
+P3 2 9 4
+P4 3 5 2
+
+P5 4 2 5
 --- page 9 ---
 SJF (Non-Preemptive) (3 Marks)
 Average WT = (0+4+9+11+17)/5 = 8.2
@@ -2047,6 +2084,26 @@ Comparison (4 Marks)
 Advantages & Limitations (3 Marks)
 Evaluation & Justification (1 Mark)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+‘
+
+Feature Monolithic
+Single large
+
+Layered H Microkernel
+Minimal kernel, services in user
+
+Structure
+
+ecneeene kemel
+Performance ae ‘Moderate ‘Lower (IPC overhead)
+Low ‘Moderate High
+Low Better than High
+
+monolithic
+
+(traditional) THE system Mach, Minix
 --- page 10 ---
 Modern operating systems prefer hybrid approaches (based on
 microkernel concepts) because they provide a balance between

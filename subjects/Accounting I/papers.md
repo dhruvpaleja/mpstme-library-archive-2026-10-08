@@ -32,6 +32,34 @@ Instructions:
 1.   15
 2.   15
 Page 1 of 3
+
+[Text in pictures on this page, read by OCR]
+Following figures are extracted from the books of Amar Company forthe year ended 31%
+March, 2025 :
+
+Department
+Particulars ARs} B(Rs.} CRs.)
+Stock as on 1-4-2024 45,000 35,000 40,000
+Purchases 400,000 5,00,000 1,00,000
+sales 6,00,000 900,000 3,00,000
+Wages 8,000 5,000 7,000
+Stock as on 31-3-2025 65,000 20,000 10,000
+
+Additional Information :
+(a) Goods transferred from AtoB Rs 10,000andto CRs. #000.
+(bo) «= Goods transferred from B to ARs. 6,500 andto C Rs. 5,600.
+Cc) Goods transferred from C to A Fis. 5,000 andtaB Rs. 6,000.
+(da) Telephone charges Rs. 15,800 to be apportioned inthe ratio of 3: 1: | among
+Departments A,B and C respectively.
+Ce) Rent Rs. 24,000 to be distributed as 1: 2: | among department A,B,C
+respectively.
+(fh) Insurance of goods Rs. 8,550 to be apportioned in the ratio of closing stock.
+(2) Discount allowed Rs. 18,000 and Bad debts Rs. 15,000 to be apportioned in
+the ratio of sales (excluding transfer).
+(hy) Income Tax Rs. 58,000 and Donation Rs. 24,000.
+All working should form a part of your answer.
+Prepare Department Trading and Profit and Loss Account in columnar form and General
+Profit and Loss Account for the year ended 31% March, 2025.
 --- page 2 ---
 On Ist April 2022, Singh had 20,000 equity shares in X Ltd. Face value of the shares was %
 10 each but their book value was 2 16 per share.
@@ -148,6 +176,28 @@ Instructions:
 1.   15
 2.   15
 Page 1 of 3
+
+[Text in pictures on this page, read by OCR]
+Manik and Co. has two departments P and Q. All goods purchased by ‘Q’ department from
+‘P’ department are transferred at normal market prices. From the following information
+prepare Trading and Profit and Loss A/c of the two departments and General Profit and Loss
+Account for the year ended 31s* December, 2024.
+
+Particulars Dept. P (Rs.) | Dept. Q (Rs. )
+Opening Stock 10,000
+
+Purchase 1,10,000 5,000
+Goods from Department P - 30,000
+Wages 600 3,200
+Salaries 2,400 600
+Closing Stock 18,000 6,000
+Sales 1,21,000 68,000
+Printing and Stationery 500 300
+
+The entire stock of the department Q represents those issued from the Department P. The
+general expenses of Rs. 9,000 and advertisement expenses of Rs. 5000 are to be apportioned
+in the ratio of 3:2 between P and Q. Interest received on Investment Rs 5,000. Donation paid
+Rs 4,000.
 --- page 2 ---
 Following Transactions appear in the books of Mr. Raju for 12% Government Bonds of 7100
 each. Interest is payable on 30" June and 31* December every year. Transactions during

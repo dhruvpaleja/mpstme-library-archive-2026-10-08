@@ -160,6 +160,24 @@ model building for static and dynamic models, transformation into simulation mod
 programming and computer-based control, and final implementation. In this atmosphere, hardware
 in the loop simulation plays a major part. Using visual simulation tools in a real-time environment,
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+insulating layer
+
+amplifier \J supply voltage
+vi
+invertin, terminals =
+terminalN | output terminal
+I—o* -—oO
+input —
+capacitor
+| -reset switch
+I non-
+tf   inverti
+input —_ termina’
+reference
+
+voltage
 --- page 5 ---
 major portions of the mechatronic product could be simulated along with the hardware in the loop
 simulation.
@@ -172,6 +190,44 @@ FC1   FK1 FK2 FC2
 Step 1: For both the masses in the illustration, writing the equation F= Ma, solving it for the
 acceleration of the particular mass and developing the primary block diagram. - 02 M
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Modeling/Simulation Prototyping Deployment/Life cycle
+
+Deployment of
+embedded software
+Life cycle
+optimization
+
+Recognition of
+the need
+
+Hardware-in-the-loop
+simulation
+
+Conceptual design and
+functional specification
+
+Design
+optimization
+
+First principle modular
+mathematical modeling
+
+Sensor and actuator
+selection
+
+Detailed modular
+mathematical modeling
+
+Control system
+design
+
+Design
+
+optimization
+
+Information for future modules/upgrades
 --- page 6 ---
 Step 2: For each of the two masses writing the force equation in terms of its components, the
 input (external force), spring force, and damping force. - 02 M
@@ -456,6 +512,31 @@ c) Comparison between Hydraulic and Pneumatic actuation systems based on energy 
 components used, power density, parameters, efficiency, linear movements, path accuracy,
 controlling techniques, advantages, limitations and applications. (Any 5 points) - 05 M
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Hydraulics System Pneumatic System
+
+It employs a pressurized liquid It employs a compressed gas, usually
+as a fluid air, as a fluid
+
+An oil hydraulic system operates at A pneumatic system usually operates
+pressures up to 700 bar at 5-10 bar
+
+Generally designed as closed system Usually designed as open system
+The system slows down when leakage Leakage does not affect the system
+occurs much
+
+Valve operations are difficult Valve operations are easy
+
+Heavier in weight Lighter in weight
+
+Pumps are used to provide Compressors are used to provide
+pressurized liquids compressed gases
+
+The system is unsafe to fire hazards The system is free from fire hazards
+Automatic lubrication is provided Special arrangements for lubrication
+
+are needed
 --- page 3 ---
 d) Explanation about configuration, operation and applications of an ON-OFF controller. – 05
 ON-OFF Controller is Used for slow acting operations where lag is unavoidable. Final correcting
@@ -598,6 +679,44 @@ input, r(t), to the state, x(t). - 01 M
 Step 3: Constructing the primary block diagram by connecting 2 integrators in series as the
 order of equation is two. - 01 M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Modeling/Simulation Prototyping Deployment/Life cycle
+
+Deployment of
+embedded software
+Life cycle
+optimization
+
+Recognition of
+the need
+
+Hardware-in-the-loop
+simulation
+
+Conceptual design and
+functional specification
+
+Design
+optimization
+
+First principle modular
+mathematical modeling
+
+Sensor and actuator
+selection
+
+Detailed modular
+mathematical modeling
+
+Control system
+design
+
+Design
+
+optimization
+
+Information for future modules/upgrades
 --- page 7 ---
 Step 4: Solving the state equation of step 2 and extending the primary block diagram
 implemented in step 3. - 02 M
@@ -660,6 +779,22 @@ controller input.
 The predictive control algorithm develops outputs to minimize the sum of squared errors over the
 prediction horizon, taking into account several future MV moves in its calculations.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Future
+
+ss yp Error Manipulated
+——4 SP prediction Vector Oy) Controlled
+if Control f (CV)
+Algorithm Process
+CV Prediction —— Future
+[la cv pv
+Disturbance ~~ Model output
+
+OF ale O
+Model output
+
+correction
 --- page 10 ---
 Q5.
 a) Flow chart of steps involved in designing a pattern recognition system. - 05 M

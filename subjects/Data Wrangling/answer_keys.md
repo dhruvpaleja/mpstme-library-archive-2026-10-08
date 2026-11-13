@@ -780,6 +780,24 @@ print(B1.ravel(order='F'))
 # Output: [ 1 5 9 13 17 2 6 10 14 18 3 7 11 15 19 4 8 12 16 20]
 # Explanation: Flatten matrix in **column-major order** ('F')
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+A1 = c(1, 2, 3, 40, 50, 80, 200, 500); order(Al) + Output: 1 2 3 4.5 6 7 8 because order() returns the
+
+indices that would sort the vector; since A1 is already in ascending order, the indices remain the same.
+
+B1 = matrix(1:20, nrow=5, ncol=4, byrow=TRUE); as.vector(B1) + Output: 1 2 3 .. 28 because the matrix is
+filled row-wise but as.vector() pulls elements column-wise; however, values are in natural sequence so the
+
+final vector is still 1 to 20.
+
+C1 = matrix(1:4); t(C1) + Output: 1 2 3 4 asa 1x4 matrix because matrix(1:4) creates a 4x1 column
+
+matrix by default and t() transposes it into a row.
+
+D1 = letters; D1[-1:-20] - Output: "u" "v" "w" "x" "y" "2" because letters contains 26 lowercase letters
+
+and -1:-2@ removes the first 20 elements, leaving positions 21 to 26.
 --- page 5 ---
 # Part C: Transpose of column vector (2 Marks)
 C1 = np.arange(1, 5).reshape(4, 1)
@@ -1143,6 +1161,24 @@ A2 = np.array([2, 5, 1, 8, 3])
 print(A2.argsort())
 # Output: [2 0 4 1 3]
 6
+
+[Text in pictures on this page, read by OCR]
+Al = c(1, 2, 3, 40, 50, 80, 200, 500); order(A1) —- Output: 1 2 3 4.5 6 7 8 because order() returns the
+
+indices that would sort the vector; since A1 is already in ascending order, the indices remain the same.
+
+B1 = matrix(1:20, nrow=5, ncol=4, byrow=TRUE); as.vector(B1) + Output: 1 2 3 .. 28 because the matrix is
+filled row-wise but as.vector() pulls elements column-wise; however, values are in natural sequence so the
+
+final vector is still 1 to 20.
+
+C1 = matrix(1:4); t(C1) - Output: 1 2 3 4 asa 1x4 matrix because matrix(1:4) creates a 4x1 column
+
+matrix by default and t() transposes it into a row.
+
+D1 = letters; D1[-1:-20] - Output: “u" "v" "w" "x" "y" "z" because letters contains 26 lowercase letters
+
+and -1:-28 removes the first 20 elements, leaving positions 21 to 26.
 --- page 7 ---
 # Explanation: Returns indices that would sort A2 in ascending order (0-based indexing)
 # Part B: Reshape and ravel (2 Marks)
@@ -1853,6 +1889,24 @@ print(B1.ravel(order='F'))
 # Output: [ 1 5 9 13 17 2 6 10 14 18 3 7 11 15 19 4 8 12 16 20]
 # Explanation: Flatten matrix in **column-major order** ('F')
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+A1 = c(1, 2, 3, 40, 50, 80, 200, 500); order(Al) + Output: 1 2 3 4.5 6 7 8 because order() returns the
+
+indices that would sort the vector; since A1 is already in ascending order, the indices remain the same.
+
+B1 = matrix(1:20, nrow=5, ncol=4, byrow=TRUE); as.vector(B1) + Output: 1 2 3 .. 28 because the matrix is
+filled row-wise but as.vector() pulls elements column-wise; however, values are in natural sequence so the
+
+final vector is still 1 to 20.
+
+C1 = matrix(1:4); t(C1) + Output: 1 2 3 4 asa 1x4 matrix because matrix(1:4) creates a 4x1 column
+
+matrix by default and t() transposes it into a row.
+
+D1 = letters; D1[-1:-20] - Output: "u" "v" "w" "x" "y" "2" because letters contains 26 lowercase letters
+
+and -1:-2@ removes the first 20 elements, leaving positions 21 to 26.
 --- page 5 ---
 # Part C: Transpose of column vector (2 Marks)
 C1 = np.arange(1, 5).reshape(4, 1)
@@ -2236,6 +2290,24 @@ print(B1.ravel(order='F'))
 # Output: [ 1 5 9 13 17 2 6 10 14 18 3 7 11 15 19 4 8 12 16 20]
 # Explanation: Flatten matrix in **column-major order** ('F')
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+A1 = c(1, 2, 3, 40, 50, 80, 200, 500); order(Al) + Output: 1 2 3 4.5 6 7 8 because order() returns the
+
+indices that would sort the vector; since A1 is already in ascending order, the indices remain the same.
+
+B1 = matrix(1:20, nrow=5, ncol=4, byrow=TRUE); as.vector(B1) + Output: 1 2 3 .. 28 because the matrix is
+filled row-wise but as.vector() pulls elements column-wise; however, values are in natural sequence so the
+
+final vector is still 1 to 20.
+
+C1 = matrix(1:4); t(C1) + Output: 1 2 3 4 asa 1x4 matrix because matrix(1:4) creates a 4x1 column
+
+matrix by default and t() transposes it into a row.
+
+D1 = letters; D1[-1:-20] - Output: "u" "v" "w" "x" "y" "2" because letters contains 26 lowercase letters
+
+and -1:-2@ removes the first 20 elements, leaving positions 21 to 26.
 --- page 5 ---
 # Part C: Transpose of column vector (2 Marks)
 C1 = np.arange(1, 5).reshape(4, 1)

@@ -25,6 +25,42 @@ Instructions:
 2. Answer to each new question to be started on a fresh page.
 3. Figure in right hand side indicates full marks
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Q1 — Answer Briefly
+
+(a) Specific Weight, Specific Gravity, Dynamic Viscosity [05]
+
+* Specific Weight (y): Weight per unit volume, ¥ = (9.
+
+* Specific Gravity (SG): Ratio of density of fluid to density of water.
+
++ Dynamic Viscosity (y): Resistance to shear deformation, relates shear stress to
+velocity gradient.
+Marks: Definition each = 1 mark, explanation each = 0.5 mark > Total 5.
+
+(b) Metacentric Height [05]
+* Definition: Distance between centre of buoyancy and metacentre.
+
++ Effect on stability: Large metacentric height > stable but stiff rolling; small >
+unstable.
+Marks: Definition = 2, explanation = 3.
+
+(c) U-tube vs Differential Manometer [05]
+
++ U-tube: One end to pressure source, other open to atmosphere. Measures absolute
+pressure.
+
+* Differential: Both ends connected to two points. Measures pressure difference.
+Marks: Comparison table (construction, use, application) = 5.
+
+(d) Surface Tension Expressions [05]
+_ 40
++ Soap bubble: P= d (two surfaces).
+20
+
+* Raindrop: p= ‘d (one surface).
+Marks: Derivation each = 2, final expressions = 1.
 --- page 2 ---
 Q2
 (a) Newton's Law of Viscosity [06]
@@ -417,6 +453,34 @@ Instructions:
 2. Answer to each new question to be started on a fresh page.
 3. Figure in right hand side indicates full marks
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Q1 (20 marks)
+
+(a) Specific gravity problem (5 marks)
+
+© Formula: 2 = SG X Pwater > 1 mark
+
+- Substitution: 0.85 x 1000 = 850kg/m* + 2 marks
+
+* Specific weight: 7 = Pg = 850 x 9.81 = 8.34kN/m? > 2 marks
+(b) Buoyancy & stability (5 marks)
+
+* Definition of buoyancy > 2 marks
+
+* Condition for stability (GM > 0) > 2 marks
+
+* Figure of floating body with forces > 1 mark
+
+(c) Viscosity (5 marks)
+
+* Definition > 2 marks
+du
+
+T= L—
+* Newton's law: dy > 2 marks
+
+* Figure of velocity gradient > 1 mark
 --- page 2 ---
 (d) Capillary rise (5 marks)
 * Balance of surface tension and weight > 2 marks

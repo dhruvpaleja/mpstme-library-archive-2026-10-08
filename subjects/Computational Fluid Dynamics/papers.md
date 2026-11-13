@@ -1,6 +1,6 @@
 # Computational Fluid Dynamics: question papers in full
 
-7 unique papers · 2013-14 to 2025-26 · Mechanical
+8 unique papers · 2013-14 to 2025-26 · Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -264,6 +264,130 @@ Ax = 0.25m, and At = 0.01 s by Euler’s Method.
 Ca ’ t
 
 FG 3 ok
+````
+
+## 2023-24 · Final-Exam · Sem 7 · paper cba67767fdb6
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: MECHANICAL/SEMESTER VII/COMPUTIONAL FLUID DYNAMICS/Computional_Fluid_Dynamics__Sem-VII__Final_Exam__A_Y_2023-24_VkDMXsy6Al.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 87.7
+
+````text
+SVKM’S NMIMS =
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E NG
+
+Academic Year: 2023-24 pe
+Program/s: B Tech Year: IV Semester: vil
+Stream/s ; Mechanical
+Subject: Computational Fluid Dynamics Time: 03 hrs Corto amtot S00 pm)
+Date:_01_ /12 / 2023 No. of Pages:02 3
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on thé question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+_ 1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly: [20]
+nat SO-1; a. | Describe the steps involved in running a CFD simulation. [05]
+CO-2: SO-1: b. | Differentiate between structured and unstructured grids and when they are used in [05]
+BL-2 the physical domain.
+CO-1: 0-1: c. | What are the governing equations of fluid flow? Write their mathematical form [05]
+BL-2 and meaning. *
+é ae SO-1; d. | Explain the features of turbulent flow? [05]
+Q a. | Deduce the conservation of momentum equation in conservation form from [0]
+. . UJ
+| a SO-1; Newton's Second Law of Motion for viscous compressible fluid flow.
+| a
+CO-2; SO-1; b. Oty Vin2—4Vi-1 $61 -4V ig Hi
+BL3 Prove ot — Ji-2 i-a a ita tVi+2 +0 (Ax)? [10]
+|
+wines Q3 a. | Discuss comparison of analytical, experimental and numerical approaches of [10]
+CO-1; SO-1; BL-2 problem solving.
+--- page 2 ---
+i
+
+b. | Explain the explicit and implicit approach for one dimensional heat‘conduction
+
+ar_ ar [10]
+at a Ox?
+
+CO-3; SO-1; BL-4
+equation given by
+
+a. | Solve the following set of equation using Gauss Seidel method
+
+Q4 2x-y=7
+[10]
+CO-3; SO-1; BL-3 -xt2y—z=1
+-y+2z=1 ;
+CO-2; SO-1; BL-2 b. Discuss difference between FDM and FEM. [4]
+CO-1; SO-1; BL-2 ¢. | Explain different boundary conditions for solving partial differential equations? [6]
+
+Consider a 5-m-long constantan block (k= 23 W/m °C) 30 cm high and 50 cm wide.
+The block is completely submerged in iced water at 0°C that is well stirred, and the
+heat transfer coefficient is so high that the temperatures on both sides of the block
+can be taken to be 0°C. The bottom surface of the bar is covered with a low-
+conductivity material so that heat transfer through the bottom surface is negligible.
+The top surface of the block is heated uniformly by a 6 kW resistance heater. Using
+the finite difference method with a mesh size of Ax = Ay=10 cm and taking
+advantage of symmetry, (a) obtain the finite difference formulation of this problem
+for steady two-dimensional heat transfer, (b) determine the unknown nodal
+
+Q5 CO-3; SO-1; BL-4 temperatures by solving those equations . Neglect heat flow normal to the plane of [20]
+
+paper.
+6 KW heater Insulation
+DODDTOOOOOHOOOOOOOOOOOOO
+LUT tt itd
+0°c orc
+\ /
+
+10cm
+10cm
+1
+
+Insulation
+--- page 3 ---
+i
+
+a. | Develop a mathematical model for 1-D steady heat conduction in.an isolated
+
+rectangular horizontal fin. The base temperature is maintained at T, and the fin tip
+
+Q6
+
+is insulated. The fin is exposed to convective environment which is at T.p» (Teo: S [10]
+CO-3; SO-1; BL-4
+
+To). The length of the fin is L = 2m, The average convective heat transfer
+
+coefficient is h.
+
+CO-3; SO-7; BL-3 . Discuss k-w and k- € models used in turbulence modeling. [10]
+
+Q7 a. | Derive pressure correction used in SIMPLE algorithm. [10]
+CO-3; SO-7; BL-3
+CO-3: $O-7: BL-3 b. | Develop a mathematical model for 1-D steady state convection diffusion [10]
+© problem. Discuss stability criterion for this situation.
+
+®
+am
 ````
 
 ## 2022-23 · Final-Exam · Sem 8 · paper da7c02cb1be9

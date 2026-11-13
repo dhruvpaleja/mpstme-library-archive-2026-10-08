@@ -27,6 +27,30 @@ Instructions:
 3. Figure in right hand side indicates full marks
 Qu1 :
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+1. Sewer Appurtenances
+
+Common appurtenances: manholes, drop manholes, lamp holes, cleanouts, catch
+basins, inverted siphons, storm regulators, pumping stations.
+
++ Manholes: Provide access for inspection, cleaning, and ventilation. Designed at
+junctions, changes in alignment, or intervals of 30-50 m.
+
++ Drop manholes: Used when there is a sudden change in level; prevent erosion and
+maintain flow.
+(Sketch: manhole cross-section, drop manhole arrangement)
+
+2. Characteristics of Water
+
++ Physical: temperature, color, taste, odor, turbidity. Significance: affects acceptability
+and aesthetics.
+
++ Chemical: hardness, alkalinity, chlorides, sulfates, nitrates, heavy metals.
+Significance: influences scaling, corrosion, health impacts.
+
+* Microbiological: bacteria (coliforms, E. coli), viruses, protozoa. Significance:
+indicates contamination, health risk, need for disinfection.
 --- page 2 ---
 3. BOD & COD
 

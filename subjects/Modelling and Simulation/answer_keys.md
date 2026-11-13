@@ -284,6 +284,16 @@ Computation Low cost   High cost (matrix
 inversion)
 Step size   Needs tuning   Automatically determined
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Using the internal points P1(1/3, 2/3), P2(2/3,2/3), P3(1/3, 1/3), and P4(2/3, 1/3), the
+system is:
+
+1. For P1:0+ P24+ 60+ P3—4- Pl = —0.89
+2. For P2: Pl+60+60+ P}-4-P2= —1.78
+3. For P3:0+ P+ PI+0-4- P38 = —044
+
+4. For P4: P34+604+ 24+0-4-P4= —0.89
 --- page 8 ---
 Suitability   Large-scale   Small/medium problems
 problems
@@ -606,6 +616,16 @@ Computation Low cost   High cost (matrix
 inversion)
 Step size   Needs tuning   Automatically determined
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Using the internal points P1(1/3, 2/3), P2(2/3,2/3), P3(1/3, 1/3), and P4(2/3, 1/3), the
+system is:
+
+1. For P1:0+ P24+ 60+ P3—4- Pl = —0.89
+2. For P2: Pl+60+60+ P}-4-P2= —1.78
+3. For P3:0+ P+ PI+0-4- P38 = —044
+
+4. For P4: P34+604+ 24+0-4-P4= —0.89
 --- page 8 ---
 Suitability   Large-scale   Small/medium problems
 problems
@@ -928,6 +948,16 @@ Computation Low cost   High cost (matrix
 inversion)
 Step size   Needs tuning   Automatically determined
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Using the internal points P1(1/3, 2/3), P2(2/3,2/3), P3(1/3, 1/3), and P4(2/3, 1/3), the
+system is:
+
+1. For P1:0+ P24+ 60+ P3—4- Pl = —0.89
+2. For P2: Pl+60+60+ P}-4-P2= —1.78
+3. For P3:0+ P+ PI+0-4- P38 = —044
+
+4. For P4: P34+604+ 24+0-4-P4= —0.89
 --- page 8 ---
 Suitability   Large-scale   Small/medium problems
 problems
@@ -1250,6 +1280,16 @@ Computation Low cost   High cost (matrix
 inversion)
 Step size   Needs tuning   Automatically determined
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Using the internal points P1(1/3, 2/3), P2(2/3,2/3), P3(1/3, 1/3), and P4(2/3, 1/3), the
+system is:
+
+1. For P1:0+ P24+ 60+ P3—4- Pl = —0.89
+2. For P2: Pl+60+60+ P}-4-P2= —1.78
+3. For P3:0+ P+ PI+0-4- P38 = —044
+
+4. For P4: P34+604+ 24+0-4-P4= —0.89
 --- page 8 ---
 Suitability   Large-scale   Small/medium problems
 problems
@@ -1572,6 +1612,16 @@ Computation Low cost   High cost (matrix
 inversion)
 Step size   Needs tuning   Automatically determined
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Using the internal points P1(1/3, 2/3), P2(2/3,2/3), P3(1/3, 1/3), and P4(2/3, 1/3), the
+system is:
+
+1. For P1:0+ P24+ 60+ P3—4- Pl = —0.89
+2. For P2: Pl+60+60+ P}-4-P2= —1.78
+3. For P3:0+ P+ PI+0-4- P38 = —044
+
+4. For P4: P34+604+ 24+0-4-P4= —0.89
 --- page 8 ---
 Suitability   Large-scale   Small/medium problems
 problems
@@ -1619,6 +1669,7 @@ FIC QF OH ar
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_Computer_7002/MODELLING AND SIMULATION/ANS_MODELLING AND SIMULATION(702BS0I018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: mixed (6 pages), mean OCR confidence 71.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1703,6 +1754,25 @@ SO-   • Used for prediction and interpretation of variable effects (1)   (10ma
 BL-2   Assumptions (3 marks)
 • Linear relationship between variables (1)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+¢ General form: Auzx + Buzy + Cuy +--+ = 0 (0.5)
+
+* Discriminant: D = B? — 4AC (0.5)
+
+
++ A=5,B=3,C =—7(05)
+
+« D=3? —4(5)(—7) = 9 + 140 = 149 > 0 = hyperbolic (1)
+For Muze + 3Uxy — 2uyy + +++ = 0:
+
++ A=m,B=3,C =—2(05)
+
+« D=9-—4(m)(—2) = 9 + 8m (05)
+Conditions:
+
+¢ Elliptic: D<0+>9+8m<0>m< —9/8 (0.5)
+¢ Parabolic: D = 0 > m = —9/8 (0.5)
 --- page 3 ---
 • Independence of errors (0.5)
 • Constant variance of errors (homoscedasticity) (0.5)
@@ -1789,6 +1859,19 @@ CO-2;
 O-1;   marks)
 BL-3
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+. PSO Algorithm IM New Position P1:
+
+|. Concept & Inspiration 2M
+
+OM (1,2)
+’, Principles (Cognitive/Social) aM
+3. Update Equations 1M
+
+1. Numerical Solution (PT)
+
+5. Final Result & Convergence
 --- page 5 ---
 b | 4. Gradient Descent Definition (2M)
 1. Algorithm: X,4) = X, —aW f(X,,).

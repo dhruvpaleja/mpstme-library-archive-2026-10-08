@@ -46,6 +46,21 @@ OCR_DPI = 200
 MAX_OCR_PIXELS = 3600            # longest side of a rendered page
 LOW_OCR_CONFIDENCE = 60          # mean Tesseract confidence below this: handwritten or a poor scan
 MIN_TEXT_LETTERS = 80            # fewer letters than this on a PDF page means it is a scan -> OCR
+XLSX_FULL_ROWS = 200             # worksheets up to this many rows are given in full
+XLSX_FULL_CHARS = 20000          # ... and this much text
+XLSX_PREVIEW_ROWS = 25           # larger ones (data sets) give up to this many rows (and XLSX_FULL_CHARS):
+                                 # the column headings and sample values
+IMAGE_REGION_SHARE = 0.06        # a picture covering this much of a text-layer page is OCR'd ...
+IMAGE_TEXT_TOKENS = 15           # ... and its text kept when it has this many words/numbers
+CHART_LINE_SHARE = 0.6           # ... unless this share of its lines is a lone short token (a chart's axis ticks)
+IMAGE_TEXT_CONFIDENCE = 60       # at this mean confidence (diagrams and photos read far below both)
+TURNED_TEXT_CHARS = 200         # turned text of at least this many characters (and TURNED_TEXT_SHARE of the
+TURNED_TEXT_SHARE = 0.3          # page) is laid out in its own direction; less stays inline (vertical headings)
+MIN_PAGE_IMAGE = 400            # pixels: smaller images in a truncated PDF are logos, not page scans
+TURNED_MIN_TOKENS = 25           # a turned reading must say at least this much to be kept
+TRIAL_DPI = 100                  # quick read of a weak page turned a quarter: a sideways table reads at
+TRIAL_CONFIDENCE = 38            # 40-50 mean confidence with hundreds of tokens even at this resolution,
+TRIAL_TOKENS = 50                # handwriting or a blank page at 20-35 with a few dozen
 
 # ============================================================================ text extraction (worker side)
 
@@ -113,12 +128,47 @@ def tidy(text):
     return '\n'.join(out).strip()
 
 
+def reading_angle(direction):
+    """0, 90, 180 or 270: how far a text line is turned anticlockwise from normal left-to-right reading."""
+    dx, dy = direction
+    if abs(dx) >= abs(dy):
+        return 0 if dx > 0 else 180
+    return 90 if dy < 0 else 270
+
+
+def turned_box(box, angle):
+    """A word box in the frame where text turned by `angle` reads left to right, top to bottom."""
+    x0, y0, x1, y1 = box
+    return {0: (x0, y0, x1, y1), 90: (-y1, x0, -y0, x1), 180: (-x1, -y1, -x0, -y0), 270: (y0, -x1, y1, -x0)}[angle]
+
+
 def layout_text(page):
     """Rebuild a page's visual rows from word positions so table columns (question, CO/BL tags, marks) stay
-    on the same line, separated by wide gaps ('   '), as OCR output does."""
-    words = page.get_text('words')
+    on the same line, separated by wide gaps ('   '), as OCR output does. Text drawn turned on the page (a
+    landscape table printed onto a portrait page) is laid out in its own reading direction, after the upright
+    text; a few turned words (a vertical table heading) stay where they are."""
+    import pymupdf
+    words = page.get_text('words', flags=pymupdf.TEXTFLAGS_WORDS)
     if not words:
         return ''
+    angles = {(block['number'], n): reading_angle(line['dir'])
+              for block in page.get_text('dict', flags=pymupdf.TEXTFLAGS_WORDS)['blocks']
+              for n, line in enumerate(block.get('lines', []))}
+    groups = defaultdict(list)
+    for word in words:
+        groups[angles.get((word[5], word[6]), 0)].append(word)
+    total = sum(len(w[4]) for w in words)
+    separate = sorted(a for a, ws in groups.items()
+                      if a and sum(len(w[4]) for w in ws) >= max(TURNED_TEXT_CHARS, TURNED_TEXT_SHARE * total))
+    upright = [w for a, ws in groups.items() if a not in separate for w in ws]
+    parts = [rows_text(upright)] if upright else []
+    for angle in separate:
+        parts.append(rows_text([(*turned_box(w[:4], angle), *w[4:]) for w in groups[angle]]))
+    return '\n'.join(p for p in parts if p)
+
+
+def rows_text(words):
+    """Words (x0, y0, x1, y1, text, ...) laid out as visual rows."""
     heights = sorted(w[3] - w[1] for w in words)
     tolerance = max(1.5, heights[len(heights) // 2] * 0.45)
     rows = []                                           # [y_centre, [words]]
@@ -151,22 +201,330 @@ def garbled(text):
     return letters < MIN_TEXT_LETTERS or len(words) < 10 or sum(not c.isascii() for c in text) > 0.3 * max(1, len(text))
 
 
-def document_pages(data, fmt):
-    """[{page, method, text, ocr_confidence}] for a PDF or image document."""
+def rebuilt_page_tree(data):
+    """A PDF whose page tree object is missing opens with no pages although its page objects are intact; point
+    the catalog at a new page tree listing them (in object order) and return the repaired bytes, else None."""
     import pymupdf
+    try:
+        with pymupdf.open(stream=data, filetype='pdf') as doc:
+            pages = [x for x in range(1, doc.xref_length())
+                     if re.search(r'/Type\s*/Page\b(?!s)', doc.xref_object(x, compressed=True) or '')]
+            if not pages:
+                return None
+            catalog = doc.pdf_catalog()
+            target = re.search(r'/Pages\s+(\d+)\s+0\s+R', doc.xref_object(catalog, compressed=True))
+            tree = int(target.group(1)) if target else doc.get_new_xref()
+            doc.update_object(tree, f"<</Type/Pages/Kids[{' '.join(f'{x} 0 R' for x in pages)}]/Count {len(pages)}>>")
+            if not target:
+                doc.xref_set_key(catalog, 'Pages', f'{tree} 0 R')
+            for x in pages:
+                doc.xref_set_key(x, 'Parent', f'{tree} 0 R')
+            return doc.tobytes()
+    except (RuntimeError, ValueError):                  # no usable catalog: a truncated file
+        return None
+
+
+def salvaged_page_images(data):
+    """A PDF cut off before its page objects (an interrupted download) can still hold complete page scans:
+    rebuild a PDF of one page per scan (object order, which is page order in these files), else None.
+    Images smaller than MIN_PAGE_IMAGE pixels on a side are logos or signatures, not pages."""
+    import pymupdf
+    try:
+        source = pymupdf.open(stream=data, filetype='pdf')
+    except RuntimeError:
+        return None
+    with source, pymupdf.open() as rebuilt:
+        for x in range(1, source.xref_length()):
+            try:
+                if source.xref_get_key(x, 'Subtype') != ('name', '/Image'):
+                    continue
+                pixmap = pymupdf.Pixmap(source, x)
+            except (RuntimeError, ValueError):
+                continue
+            if min(pixmap.width, pixmap.height) < MIN_PAGE_IMAGE:
+                continue
+            if pixmap.alpha or pixmap.n > 3:
+                pixmap = pymupdf.Pixmap(pymupdf.csRGB, pixmap)
+            page = rebuilt.new_page(width=pixmap.width * 72 / OCR_DPI, height=pixmap.height * 72 / OCR_DPI)
+            page.insert_image(page.rect, pixmap=pixmap)
+        return rebuilt.tobytes() if rebuilt.page_count else None
+
+
+def osd_rotation(png_bytes):
+    """Tesseract's orientation detection: degrees (90, 180, 270) to turn a page image clockwise so its text is
+    upright, or 0. Its guess is used however low its confidence: a turned reading is only kept when it reads
+    clearly better (turned_reading_better), and on sparse pages such as a numeric table the right guess often
+    comes with a confidence well below 1."""
+    with tempfile.TemporaryDirectory() as tmp:
+        image = Path(tmp) / 'page.png'
+        image.write_bytes(png_bytes)
+        result = subprocess.run(['tesseract', str(image), '-', '--psm', '0'], capture_output=True, text=True,
+                                env=dict(os.environ, OMP_THREAD_LIMIT='1'))
+    rotate = re.search(r'Rotate:\s*(\d+)', result.stdout)
+    return int(rotate.group(1)) % 360 if result.returncode == 0 and rotate else 0
+
+
+def ocr_tokens(text):
+    """Words of 3+ letters and numbers: what a page says, whether prose or a table of values."""
+    return len(re.findall(r'[A-Za-z]{3,}|\d+(?:\.\d+)?', text))
+
+
+def turned_reading_better(old_confidence, old_tokens, new_text, new_confidence):
+    """Orientation detection is unreliable on handwriting (it often calls an upright handwritten page upside
+    down), so a turned reading replaces the original only when it is confidently read and clearly better: a
+    sideways printed page jumps from near-noise to 70-95 mean confidence once turned. A turned reading with
+    almost nothing in it (a phone photo's camera watermark) gains nothing and is not kept."""
+    return (new_confidence or 0) >= LOW_OCR_CONFIDENCE and (new_confidence or 0) >= (old_confidence or 0) + 10 \
+        and ocr_tokens(new_text) >= max(old_tokens, TURNED_MIN_TOKENS)
+
+
+def turned_reading(page, pymupdf, dpi, png, confidence, tokens):
+    """The page read turned upright when that reads clearly better than the upright reading (its mean
+    confidence and token count given), else None. Tried: the orientation detector's guess; when it sees the
+    page as upright, both quarter turns, first at TRIAL_DPI, and in full only if that trial reads like text."""
+    angles = []
+    guess = osd_rotation(png)
+    if guess:
+        angles.append(guess)
+    else:
+        trial = TRIAL_DPI / 72
+        for angle in (90, 270):
+            pixmap = page.get_pixmap(matrix=pymupdf.Matrix(trial, trial).prerotate(angle), colorspace=pymupdf.csGRAY)
+            text, trial_confidence = ocr_png(pixmap.tobytes('png'))
+            if (trial_confidence or 0) >= TRIAL_CONFIDENCE and ocr_tokens(text) >= TRIAL_TOKENS:
+                angles.append(angle)
+    best, zoom = None, dpi / 72
+    for angle in angles:
+        pixmap = page.get_pixmap(matrix=pymupdf.Matrix(zoom, zoom).prerotate(angle), colorspace=pymupdf.csGRAY)
+        text, turned_confidence = ocr_png(pixmap.tobytes('png'))
+        if turned_reading_better(confidence, tokens, text, turned_confidence):
+            best = {'method': 'ocr', 'text': tidy(text), 'ocr_confidence': turned_confidence, 'rotated': angle}
+            confidence, tokens = turned_confidence, ocr_tokens(text)
+    return best
+
+
+def ocr_dpi(page):
+    longest = max(page.rect.width, page.rect.height) or 1
+    return max(72, min(OCR_DPI, int(MAX_OCR_PIXELS * 72 / longest)))
+
+
+def ocr_page(page, pymupdf):
+    """OCR one page. A page that reads poorly may have been scanned sideways or upside down (a landscape
+    table, a phone photo): then it is also read turned upright, and the better reading is kept."""
+    dpi = ocr_dpi(page)
+    png = page.get_pixmap(dpi=dpi, colorspace=pymupdf.csGRAY).tobytes('png')
+    text, confidence = ocr_png(png)
+    result = {'method': 'ocr', 'text': tidy(text), 'ocr_confidence': confidence}
+    if len(re.findall(r'[A-Za-z]{3,}', text)) >= 40 and (confidence or 0) >= LOW_OCR_CONFIDENCE:
+        return result
+    return turned_reading(page, pymupdf, dpi, png, confidence, ocr_tokens(text)) or result
+
+
+def document_pages(data, fmt, repairs=None, recover=True):
+    """[{page, method, text, ocr_confidence}] for a PDF or image document. A PDF that opens with no pages is
+    read both ways that can recover it (rebuilt page tree, page scans still inside) and the reading with more
+    text is kept. Repairs, and a PDF that ends early (an interrupted download), are noted in `repairs`."""
+    import pymupdf
+    notes = repairs if repairs is not None else []
+    truncated = fmt == 'pdf' and b'%%EOF' not in data[-2048:]
+    cut = 'truncated PDF (the file ends early, as from an interrupted download)'
+    if fmt == 'pdf' and recover:
+        with pymupdf.open(stream=data, filetype='pdf') as probe:
+            empty = probe.page_count == 0
+        if empty:
+            best = None
+            for repaired, note in ((rebuilt_page_tree(data), 'its page list is missing; the page tree was rebuilt '
+                                    'from the {} page object{} it still holds'),
+                                   (salvaged_page_images(data), 'it has no page list; read from the {} page scan{} '
+                                    'still inside it')):
+                if repaired:
+                    pages = document_pages(repaired, fmt, recover=False)
+                    letters = sum(len(p['text']) for p in pages)
+                    if best is None or letters > best[0]:
+                        best = (letters, pages, note.format(len(pages), 's' if len(pages) != 1 else ''))
+            if not best:
+                notes.append(f'{cut}: nothing readable survives' if truncated else 'no page could be recovered')
+                return []
+            notes.append(f'{cut}: {best[2]}; the rest of the document is lost' if truncated else best[2])
+            return best[1]
+        if truncated:
+            notes.append(f'{cut}: the pages it still holds are read; the rest of the document, and possibly the '
+                         'bottom of the last page, are lost')
     pages = []
     filetype = None if fmt == 'pdf' else {'tiff': 'tiff', 'jpeg': 'jpeg', 'png': 'png'}.get(fmt, fmt)
     with pymupdf.open(stream=data, filetype=filetype) as doc:
         for number, page in enumerate(doc, 1):
             text = page.get_text('text') if fmt == 'pdf' else ''
             if fmt == 'pdf' and not garbled(text):
-                pages.append({'page': number, 'method': 'text', 'text': tidy(layout_text(page))})
+                pages.append({'page': number, 'method': 'text', 'text': tidy(layout_text(page)),
+                              **image_text(page, pymupdf)})
                 continue
-            longest = max(page.rect.width, page.rect.height) or 1
-            dpi = max(72, min(OCR_DPI, int(MAX_OCR_PIXELS * 72 / longest)))
-            pixmap = page.get_pixmap(dpi=dpi, colorspace=pymupdf.csGRAY)
-            text, confidence = ocr_png(pixmap.tobytes('png'))
-            pages.append({'page': number, 'method': 'ocr', 'text': tidy(text), 'ocr_confidence': confidence})
+            pages.append({'page': number, **ocr_page(page, pymupdf)})
+    return pages
+
+
+def column_index(ref):
+    letters = re.match(r'[A-Z]+', ref or '')
+    index = 0
+    for char in letters.group(0) if letters else '':
+        index = index * 26 + ord(char) - 64
+    return index - 1
+
+
+def plain_number(text):
+    """Spreadsheet numbers are stored with 17 significant digits ('165349.20000000001'); give the short form."""
+    try:
+        value = float(text)
+    except ValueError:
+        return text
+    if not math.isfinite(value):
+        return text
+    if value.is_integer() and abs(value) < 1e15:
+        return str(int(value))
+    return repr(value)
+
+
+def xlsx_text(data):
+    """One page per worksheet: rows as cells joined by ' | '. Small sheets (teaching schemes, case studies) are
+    given in full; a large data set gives its first XLSX_PREVIEW_ROWS rows (the column headings and sample
+    values) and a count of the rest."""
+    import xml.etree.ElementTree as ET
+    ns = '{http://schemas.openxmlformats.org/spreadsheetml/2006/main}'
+    rel = '{http://schemas.openxmlformats.org/officeDocument/2006/relationships}id'
+    pages = []
+    with zipfile.ZipFile(io.BytesIO(data)) as book:
+        names = set(book.namelist())
+        shared = []
+        if 'xl/sharedStrings.xml' in names:
+            for item in ET.fromstring(book.read('xl/sharedStrings.xml')).iter(ns + 'si'):
+                shared.append(''.join(t.text or '' for t in item.iter(ns + 't')))
+        targets = {r.get('Id'): r.get('Target') for r in ET.fromstring(book.read('xl/_rels/workbook.xml.rels'))}
+        sheets = ET.fromstring(book.read('xl/workbook.xml')).iter(ns + 'sheet')
+        for number, sheet in enumerate(sheets, 1):
+            target = targets.get(sheet.get(rel), '')
+            path = target.lstrip('/') if target.startswith('/') else 'xl/' + target
+            if path not in names:
+                continue
+            rows, total, width = [], 0, 0
+            with book.open(path) as stream:
+                for _, element in ET.iterparse(stream):
+                    if element.tag != ns + 'row':
+                        continue
+                    cells = {}
+                    for cell in element.iter(ns + 'c'):
+                        kind, value = cell.get('t'), cell.find(ns + 'v')
+                        if kind == 'inlineStr':
+                            text = ''.join(t.text or '' for t in cell.iter(ns + 't'))
+                        elif value is None or value.text is None:
+                            continue
+                        elif kind == 's':
+                            text = shared[int(value.text)] if value.text.isdigit() and int(value.text) < len(shared) else ''
+                        elif kind == 'b':
+                            text = 'TRUE' if value.text == '1' else 'FALSE'
+                        else:
+                            text = plain_number(value.text)
+                        text = ' '.join(text.split())
+                        if text:
+                            cells[column_index(cell.get('r'))] = text
+                    element.clear()
+                    if not cells:
+                        continue
+                    total += 1
+                    width = max(width, max(cells) + 1)
+                    if len(rows) < XLSX_FULL_ROWS:
+                        rows.append(' | '.join(cells.get(i, '') for i in range(max(cells) + 1)))
+            if not total:
+                continue
+            whole = total <= XLSX_FULL_ROWS and sum(len(r) + 1 for r in rows) <= XLSX_FULL_CHARS
+            shown = rows
+            if not whole:
+                shown, size = [], 0
+                for row in rows[:XLSX_PREVIEW_ROWS]:
+                    if len(shown) >= 2 and size + len(row) > XLSX_FULL_CHARS:
+                        break
+                    shown.append(row)
+                    size += len(row) + 1
+            head = f'Sheet "{sheet.get("name")}": {total} rows, {width} columns'
+            if len(shown) < total:
+                head += f'; the first {len(shown)} rows are shown, the full data set is in the original file'
+            pages.append({'page': number, 'method': 'xlsx', 'text': tidy('\n'.join([head, ''] + shown))})
+    return pages
+
+
+def image_regions(page, pymupdf):
+    """Areas of a text-layer page covered by a large picture that the text layer says nothing about: a pasted
+    scan or screenshot of questions or a worked solution. (A searchable scan has its OCR text over the image,
+    so it is not listed.)"""
+    area = abs(page.rect) or 1
+    words = [pymupdf.Rect(w[:4]) for w in page.get_text('words', flags=pymupdf.TEXTFLAGS_WORDS)]
+    regions = []
+    for info in page.get_image_info():
+        box = pymupdf.Rect(info['bbox']) & page.rect
+        if box.is_empty or box.width < 100 or box.height < 60 or abs(box) < IMAGE_REGION_SHARE * area:
+            continue
+        if sum(1 for w in words if w.intersects(box)) >= 8:
+            continue
+        if not any(abs(box & other) > 0.8 * abs(box) for other in regions):
+            regions.append(box)
+    return sorted(regions, key=lambda r: (round(r.y0), r.x0))
+
+
+def reads_as_text(text, confidence):
+    """Is a picture's OCR worth keeping? Prose, worked solutions and tables are; a chart (its axis ticks read as
+    one short number per line) or a near-empty diagram is not."""
+    if (confidence or 0) < IMAGE_TEXT_CONFIDENCE or ocr_tokens(text) < IMAGE_TEXT_TOKENS:
+        return False
+    lines = [line.strip() for line in text.split('\n') if line.strip()]
+    lone = sum(1 for line in lines if len(line.split()) == 1 and len(line) <= 8)     # "25", "0.5", "1S)"
+    return lone < CHART_LINE_SHARE * len(lines)
+
+
+def image_text(page, pymupdf):
+    """{'images_text': ..., 'images_ocr_confidence': ...} for the large pictures on a text-layer page whose OCR
+    reads as text (a diagram or photo reads as a few low-confidence fragments and is left out); else {}."""
+    pieces = []
+    for box in image_regions(page, pymupdf):
+        dpi = max(72, min(OCR_DPI, int(MAX_OCR_PIXELS * 72 / max(box.width, box.height))))
+        text, confidence = ocr_png(page.get_pixmap(clip=box, dpi=dpi, colorspace=pymupdf.csGRAY).tobytes('png'))
+        if reads_as_text(text, confidence):
+            pieces.append((tidy(text), confidence))
+    if not pieces:
+        return {}
+    return {'images_text': '\n\n'.join(t for t, _ in pieces),
+            'images_ocr_confidence': round(math.fsum(c for _, c in pieces) / len(pieces), 1)}
+
+
+def docx_images(data):
+    """Pictures in a Word file, in document order, OCR'd as extra pages when they read as text: some papers
+    are scans pasted into Word, and answer keys often paste worked solutions as images."""
+    import pymupdf
+    pages = []
+    with zipfile.ZipFile(io.BytesIO(data)) as book:
+        names = set(book.namelist())
+        if 'word/_rels/document.xml.rels' not in names:
+            return pages
+        rels = dict(re.findall(r'Id="([^"]+)"[^>]*?Target="([^"]+)"',
+                               book.read('word/_rels/document.xml.rels').decode('utf-8', 'replace')))
+        order = re.findall(r'r:(?:embed|id)="([^"]+)"', book.read('word/document.xml').decode('utf-8', 'replace'))
+        seen = []
+        for rid in order:
+            target = rels.get(rid, '')
+            path = 'word/' + target.lstrip('/').removeprefix('word/') if target else ''
+            if path in names and path not in seen and re.search(r'(?i)\.(png|jpe?g|gif|bmp|tiff?)$', path):
+                seen.append(path)
+        for path in seen:
+            blob = book.read(path)
+            try:
+                with pymupdf.open(stream=blob, filetype=path.rsplit('.', 1)[-1].lower()) as image:
+                    page = image[0]
+                    pixels = pymupdf.Pixmap(blob)
+                    if min(pixels.width, pixels.height) < 100 or pixels.width * pixels.height < 60000:
+                        continue                                    # icons, logos, bullets, rules
+                    reading = ocr_page(page, pymupdf)
+            except (RuntimeError, ValueError):
+                continue
+            if reads_as_text(reading['text'], reading['ocr_confidence']):
+                pages.append({'page': len(pages) + 2, **reading, 'image': PurePosixPath(path).name})
     return pages
 
 
@@ -180,15 +538,30 @@ def docx_text(data):
     return [{'page': 1, 'method': 'docx', 'text': tidy(text)}]
 
 
+def looks_encrypted(data):
+    """Cipher output: whole 16-byte blocks of bytes with near-maximal entropy (no file format looks like this)."""
+    sample = data[:1 << 16]
+    if len(data) % 16 or len(sample) < 4096:
+        return False
+    counts = Counter(sample)
+    return -math.fsum(c / len(sample) * math.log2(c / len(sample)) for c in counts.values()) > 7.9
+
+
 def read_document(data, name='', depth=0):
     """Text of one file; ZIPs are opened and each paper inside is read."""
     fmt = sniff(data, name)
     record = {'format': fmt}
     try:
-        if fmt in ('pdf', 'tiff', 'jpeg', 'png'):
-            record['pages'] = document_pages(data, fmt)
+        if fmt in ('pdf', 'unknown') and b'%PDF' not in data[:1024] and looks_encrypted(data):
+            record['note'] = ('encrypted by the portal: the file is uniformly random bytes in 16-byte cipher blocks with '
+                              'no PDF structure, and the archive holds no key (its own re-download got the same bytes)')
+        elif fmt in ('pdf', 'tiff', 'jpeg', 'png'):
+            repairs = []
+            record['pages'] = document_pages(data, fmt, repairs)
+            if repairs:
+                record['damage'] = '; '.join(repairs)
         elif fmt == 'docx':
-            record['pages'] = docx_text(data)
+            record['pages'] = docx_text(data) + docx_images(data)
         elif fmt == 'zip' and depth < 2:
             members = []
             with zipfile.ZipFile(io.BytesIO(data)) as archive:
@@ -200,7 +573,9 @@ def read_document(data, name='', depth=0):
                     members.append(member)
             record['members'] = members
         elif fmt == 'xlsx':
-            record['note'] = 'spreadsheet data set; no question text'
+            record['pages'] = xlsx_text(data)
+            if not record['pages']:
+                record['note'] = 'spreadsheet with no cell values'
         else:
             record['note'] = f'unsupported format {fmt}'
     except Exception as error:                     # one broken scan must not stop the run
@@ -344,7 +719,7 @@ DEPARTMENTS = [                    # first match wins; programmes of other NMIMS
     (r'csbs|computer science and business', 'Computer Science and Business Systems'),
     (r'aiml|machine learning', 'AI and Machine Learning'),
     (r'aids|artificial intelligence (?:&|and) data science|ai & ds', 'AI and Data Science'),
-    (r'data scien|\bds\b|cseds', 'Data Science'),
+    (r'data scien|\bds\b|cseds|csds', 'Data Science'),
     (r'artifi|\bai\b', 'Artificial Intelligence'),
     (r'master of computer applications|\bmca\b', 'Computer Applications (MCA)'),
     (r'computer science|\bcs\b', 'Computer Science'),
@@ -397,12 +772,14 @@ TAGS = [
     ('bl', re.compile(r'\bB\s?L\s?[-–.:]?\s?(\d)\b[\s;,:]*')),
     ('so', re.compile(r'\b[SP]\s?[O0]\s?[-–.:]?\s?([\dlI](?:\s*[,&]\s*\d)*)\b[\s;,:]*')),
 ]
-QUESTION_START = re.compile(       # OCR reads "Q1" as "Ql"/"QI" and "Q5" as "QS"
-    r'^(?:Q(?:ue(?:stion|s)?)?\s*[.\-–:]?\s*(?:No\.?\s*[.\-–:]?\s*)?|Q\s*)(\d{1,2}|[lIS](?=[\s.):]|$)|(?:I{2,3}|IV|VI{0,3}|IX|XI{0,2}|V)(?=[\s.):]|$))'
+QUESTION_START = re.compile(       # "Q1", "Que.1", "Qu.1", "Q.No.1", "Q.N.1"; OCR reads "Q1" as "Ql"/"QI", "Q5" as "QS"
+    r'^(?:Q(?:u(?:e(?:stion|s)?)?)?\s*[.\-–:]?\s*(?:No?\.?\s*[.\-–:]?\s*)?|Q\s*)(\d{1,2}|(?<![A-PR-Z])[lIS](?=[\s.):]|$)|(?:I{2,3}|IV|VI{0,3}|IX|XI{0,2}|V)(?=[\s.):]|$))'
     r'\s*[.):\-]?\s*(.*)$', re.I)
-NUMBER_START = re.compile(r'^(\d{1,2})(?:\s*[.)]\s+|\s+(?=[A-Z(\[]))(\S.*)$')   # "1. Explain", "2) ...", "3 (a) ..."
+NUMBER_START = re.compile(   # "1. Explain", "2) ...", "3 (a) ...", "4   a) What is ..." (number column, then part a)
+    r'^(\d{1,2})(?:\s*[.)]\s+|\s+(?=[A-Z(\[]|a[).]\s))(\S.*)$')
 SUBQUESTION_START = re.compile(r'^(\d{1,2})\s*\)\s*(.*)$')          # "1)" inside "Q2 Attempt any 4"
-QPART_START = re.compile(r'^(?:Q\.?\s*)?(\d{1,2})\.?\(?([a-hA-H])\)?[\s._):]+(.*)$')   # "1.a", "1b", "2(a)", "Q3a"
+QPART_START = re.compile(   # "1.a", "1b", "2(a)", "Q3a", "Qu.2a:"
+    r'^(?:Q(?:u(?:e(?:stion|s)?)?)?\.?\s*(?:No?\.?\s*)?)?(\d{1,2})\.?\(?([a-hA-H])\)?[\s._):]+(.*)$')
 ROMAN_QUESTION = re.compile(r'^(I{1,3}|IV|VI{0,3}|IX|X)\s*[.)]\s+(\S.*)$')   # upper-case "II. Attempt any four"
 ROMAN_VALUE_Q = {'I': 1, 'II': 2, 'III': 3, 'IV': 4, 'V': 5, 'VI': 6, 'VII': 7, 'VIII': 8, 'IX': 9, 'X': 10}
 PART_START = re.compile(   # groups: 1 "(a)"  2 "a." "b)" "B -" "b__|"  3 "c   text" (table cell)  4 "A Write"  5 rest
@@ -416,6 +793,7 @@ MARKS_END = re.compile(
     r'|\b(\d{1,2})\s*(?:m|marks)\b\.?'                                        # 5M  10 marks
     r'|(?<=[.?):\]’\'"]\s)(\d{1,2}(?:\.5)?)'                                  # "... rank. 6" on scanned papers
     r'|(?<=\s)([0O][1-9S]))\s*$', re.I)                                       # zero-padded "04", OCR "OS" = 05
+PORTAL_ERROR = re.compile(r'^\s*\{\s*"message"\s*:\s*"([^"]{0,300})"')   # a JSON error rendered as the PDF
 SEPARATOR = re.compile(r'^\s*(OR|\(?OR\)?)\s*$', re.I)
 # A numbered line that is one of the paper's instructions, not a question.
 INSTRUCTION_TEXT = re.compile(
@@ -774,7 +1152,8 @@ QUESTION_FIELDS = ['subject', 'academic_year', 'exam', 'semester', 'departments'
                    'text_quality']
 PAPER_FIELDS = ['paper_id', 'subject', 'kind', 'academic_year', 'academic_year_filed', 'exam', 'exam_printed', 'semester', 'departments', 'programme_types',
                 'programmes', 'max_marks', 'duration_hours', 'exam_date', 'pages', 'extraction', 'ocr_confidence',
-                'questions_extracted', 'papers_in_file', 'text_quality', 'source_path', 'identical_copies', 'text_status']
+                'questions_extracted', 'papers_in_file', 'text_quality', 'pages_turned_upright', 'damage', 'source_path',
+                'identical_copies', 'text_status']
 
 
 def load_texts(path):
@@ -819,15 +1198,23 @@ def documents(record):
             yield (member['name'] + (' / ' + label if label else '')), pages
 
 
+def page_body(page):
+    """A page's text, followed by the OCR of pictures on it (text-layer pages with pasted scans)."""
+    if page.get('images_text'):
+        return f"{page['text']}\n\n[Text in pictures on this page, read by OCR]\n{page['images_text']}"
+    return page['text']
+
+
 def page_text(pages):
-    return '\n'.join((f'--- page {p["page"]} ---\n' if i else '') + p['text'] for i, p in enumerate(pages))
+    return '\n'.join((f'--- page {p["page"]} ---\n' if i else '') + page_body(p) for i, p in enumerate(pages))
 
 
 def extraction_summary(pages):
     methods = Counter(p['method'] for p in pages)
     confidences = [p['ocr_confidence'] for p in pages if p.get('ocr_confidence') is not None]
-    method = 'ocr' if methods['ocr'] and not methods['text'] else 'text' if methods['text'] and not methods['ocr'] \
-        else 'mixed' if methods['ocr'] else next(iter(methods), 'none')
+    exact = methods['text'] + methods['docx'] + methods['xlsx']
+    method = ('none' if not methods else next(iter(methods)) if len(methods) == 1
+              else 'mixed' if methods['ocr'] and exact else 'text')
     return method, (round(math.fsum(confidences) / len(confidences), 1) if confidences else None)
 
 
@@ -919,12 +1306,14 @@ def drop_ocr_noise(texts, known):
     for record in texts.values():
         for _, pages in documents(record):
             for page in pages:
-                if page['method'] == 'ocr':
-                    lines = page['text'].split('\n')
+                for field in ('text', 'images_text') if page['method'] == 'ocr' else ('images_text',):
+                    if not page.get(field):
+                        continue
+                    lines = page[field].split('\n')
                     kept = [line for line in lines if not ocr_noise(line, known)]
                     if len(kept) < len(lines):
-                        page['omitted_lines'] = len(lines) - len(kept)
-                        page['text'] = '\n'.join(kept)
+                        page['omitted_lines'] = page.get('omitted_lines', 0) + len(lines) - len(kept)
+                        page[field] = '\n'.join(kept)
 
 
 def build_subject(subject, papers, folder, texts, stats):
@@ -968,6 +1357,10 @@ def build_subject(subject, papers, folder, texts, stats):
         target = answer_blocks if first['kind'] == 'Answer key' else paper_blocks
         record = texts.get(sha)
         docs = list(documents(record)) if record else []
+        served = PORTAL_ERROR.search(page_text(docs[0][1])) if len(docs) == 1 else None
+        if served and len(page_text(docs[0][1])) < 400:
+            docs, record = [], dict(record, note=f'the portal served an error message, not the paper: '
+                                                 f'"{served.group(1)}"')
         if not docs:
             status = 'not extracted yet' if record is None else (record.get('error') or record.get('note')
                                                                  or 'no readable pages')
@@ -998,8 +1391,19 @@ def build_subject(subject, papers, folder, texts, stats):
             lines = [f'## {heading}' + (f' · {label}' if label else ''), ''] + meta
             if printed:
                 lines.append('- Printed on paper: ' + '; '.join(printed))
-            lines.append(f'- Text: {method} ({len(pages)} page{"s" if len(pages) != 1 else ""})'
+            unit = 'sheet' if method == 'xlsx' else 'page'
+            lines.append(f'- Text: {method} ({len(pages)} {unit}{"s" if len(pages) != 1 else ""})'
                          + (f', mean OCR confidence {confidence}' if confidence is not None else ''))
+            if record.get('damage'):
+                doc['damage'] = record['damage']
+                lines.append(f"- Damaged file: {record['damage']}")
+            stats['pages_with_picture_text'] += sum(1 for page in pages if page.get('images_text') or page.get('image'))
+            turned = sum(1 for page in pages if page.get('rotated'))
+            if turned:
+                doc['pages_turned_upright'] = turned
+                stats['pages_turned_upright'] += turned
+                lines.append(f'- {turned} page{"s" if turned != 1 else ""} scanned sideways or upside down, turned '
+                             'upright before OCR')
             omitted = sum(page.get('omitted_lines', 0) for page in pages)
             if omitted:
                 lines.append(f'- {omitted} unreadable OCR line{"s" if omitted != 1 else ""} (stamps, scribbles, '
@@ -1009,8 +1413,13 @@ def build_subject(subject, papers, folder, texts, stats):
                 stats['low_quality_' + ('answer_keys' if first['kind'] == 'Answer key' else 'papers')] += 1
                 lines.append('- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is '
                              'only partly readable. Restore the original file to read it.')
-            ticks = fence(text)
-            target.append('\n'.join(lines + ['', ticks + 'text', text, ticks, '']))
+            if first['kind'] == 'Not a paper':                  # see subject_overrides.json
+                doc['text_status'] = first.get('note') or 'not a paper'
+                target.append('\n'.join(lines + [f"- Not shown: {doc['text_status']}. Its OCR text is kept in "
+                                                  '`question_bank/extracted_text/`.', '']))
+            else:
+                ticks = fence(text)
+                target.append('\n'.join(lines + ['', ticks + 'text', text, ticks, '']))
             # Papers inside a ZIP are question papers too, unless their file name marks them as answers.
             if first['kind'] == 'Question paper' or (
                     first['kind'] == 'ZIP of papers' and not re.search(r'(?i)\b(ans|answers?|solutions?|key)\b', label)):
@@ -1141,10 +1550,19 @@ def write_bank_readme(stats, summary, dept_subjects):
         'in papers.md.',
         f'- {stats["low_quality_papers"]:,} question papers have low OCR quality (mostly handwritten 2004-2010 papers '
         'or poor scans); they and their questions are marked `text_quality: low`.',
+        f'- {stats["pages_with_picture_text"]:,} pages carry text from pictures (OCR of pasted scans, worked solutions '
+        'and tables on text-layer pages, and of pictures in Word files).',
+        f'- {stats["pages_turned_upright"]:,} scanned pages were sideways or upside down (landscape tables, phone '
+        'photos); Tesseract\'s orientation detection found them and they were read turned upright '
+        '(`pages_turned_upright` in `papers.jsonl`). Damaged PDFs (truncated downloads, a missing page list) are read as far as they go and say so in `damage`.',
         f'- {stats["raw_zip_papers"]:,} of these files exist only inside the portal\'s original ZIP downloads '
         '(`00_Original_Downloads/`), never extracted into `02_Question_Papers/`; they are included, with a path of '
         'the form `<ZIP> :: <file inside it>` and a `source` ending in "(ZIP download only)".',
-        f'- Files with no readable text (corrupt PDFs, spreadsheet data sets): {stats["papers_without_text"]:,}.'
+        f'- Files with no readable text: {stats["papers_without_text"]:,} (PDFs the portal serves encrypted, which '
+        'the archive\'s own re-download got the same way, and PDFs that hold only a portal error message); their '
+        '`papers.jsonl` record says which in `text_status`. Data sets given with a paper (`kind: Dataset`) are '
+        'included: Word and PDF ones in full, spreadsheets as one page per sheet, in full when small, otherwise the '
+        'column headings and first rows.'
         + (f' Not yet extracted: {stats["papers_not_extracted"]:,}.' if stats['papers_not_extracted'] else ''), '',
         '## questions.jsonl fields', '',
         '| Field | Meaning |', '| --- | --- |',
@@ -1163,7 +1581,9 @@ def write_bank_readme(stats, summary, dept_subjects):
         '| `extraction` | `text` (exact, from the PDF) or `ocr` (scanned paper read by Tesseract) |',
         '| `text_quality` | `low` when the scan read poorly (handwritten or faint papers); treat the text with care |', '',
         '## Accuracy', '',
-        'Text-layer papers (most 2024-25 and 2025-26 papers) are extracted exactly. Older papers are scans read by OCR: '
+        'Text-layer papers (most 2024-25 and 2025-26 papers) are extracted exactly; pictures pasted into them (worked '
+        'solutions, tables, scanned questions; and pictures in Word files) are read by OCR and added after the page '
+        'text under "[Text in pictures on this page, read by OCR]". Older papers are scans read by OCR: '
         'ordinary text is reliable, but equations, symbols and diagrams are often garbled, and diagrams are not '
         'captured. Splitting into questions is automatic; when a layout defeats it, the paper still appears in full '
         'in papers.md. Treat question counts and marks as a strong guide rather than an exact record.', '',

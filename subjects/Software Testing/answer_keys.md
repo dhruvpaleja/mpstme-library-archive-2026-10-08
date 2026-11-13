@@ -255,6 +255,25 @@ methods used are called
 methods used are called structure oriented methods or
 white-box methods.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Identification of Bugs
+
+Identification of
+
+Program failure Debugging
+
+bugs
+Modification {
+Modification
+of source code
+to make it bug free
+Selection & Execution of Test Cases
+Select en test Generate new test Execute test cases to
+covering the modified and [>| _,, a8 [2] (pettoraregression:
+if required testing
+
+affected parts of the code
 --- page 8 ---
 Examples:
 ❑ Equivalence partitioning
@@ -613,6 +632,25 @@ and fraud detection
 E-commerce:
 Tests user experience,
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Identification of Bugs
+
+Identification of
+
+Program failure Debugging
+
+bugs
+Modification f
+Modification
+of source code
+to make it bug free
+Selection & Execution of Test Cases
+Select ——— test Generate new test Execute test cases to
+covering the modified and ka poe [>| perform Tegression
+if required testing
+
+affected parts of the code
 --- page 8 ---
 payment gateway,
 and inventory logic

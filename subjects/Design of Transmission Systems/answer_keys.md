@@ -65,6 +65,37 @@ CO-; SO-;
 b   explanation   [10]
 BL-
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Step Centre distance
+From Eq. (17.5),
+
+mz, +25)   4(20-+120)
+a= =
+2
+
+= 280 mm
+
+Step IT Pitch circle diameters of pinion and gear
+df, = mz, = 4(20) = 80 mm
+
+d= m 2, =4(120) =480 mm
+
+Step IT Addendum and dedendum
+addendum (/,) =m = 4 mm
+dedendum (/i-) = 1.25 m= 1.25(4)= 5 mm
+
+StepIV Tooth thickness
+tooth thickness = 1.5708 m = 1.5708(4)
+= 6.2832 mm
+
+Step V Bottom clearance
+clearance (c) = 0.25 m= 0.25(4) = 1 mm
+
+Step VI Gear ratio
+Zz, 120
+
+z, 20
 --- page 3 ---
 Beam strength = 4930 N
 Wear strength = 4660

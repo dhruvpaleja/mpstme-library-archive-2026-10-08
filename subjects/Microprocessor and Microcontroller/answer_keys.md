@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_Computer_7002/Microprocessor and Microcontroller/ANS_Microprocessor and Microcontroller(702CO0C072)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
 - Text: mixed (9 pages), mean OCR confidence 84.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -232,6 +233,30 @@ CO-2;
 [10]
 BL-3
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Control unit (CU) ‘Numeric execution unit (NEU)
+
+Control register
+Status register |: | Exponent
+: | module Shifter
+Instruction || Arithmetic
+: decoder module
+|}— Data +
+H Operand Top of Temporary
+queue the data Tagisters
+Stack H
+8086) X sT(0):
+— Status + Bus racking :
+L-Address | _ Exceptions
+#Test}«— Busy i
+A stack of 8 x 80-bit
+FP Registers A. :
+3 ST(7):
+80-bit wide stack
+79 78 64 63 : ou
+
+S} Exp. Fraction
 --- page 6 ---
 a
 How parallel processing is achieved in the 8086 Microprocessor?
@@ -303,6 +328,49 @@ AGAIN: CPL A
 DJNZ R2,AGAIN
 DJNZ R3,NEXT
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Oscillator
+
+frequency +12
+Timer operation
+C/T =0 (from TMOD)
+— To
+Timer.
+registers
+T10 Tt
+Ccit=1 TMOD}
+(Input pin) Course’ operation )
+TR10 (from TCON)
+
+Gate (from TMOD)
+
+INT1/0
+(Input pin)
+
+>>
+
+Fig. 5.10 Timer/counter contro! logic
+
+‘B. B
+
+6
+
+
+7 ‘4 2 1 ()
+
+EA xX X | ES | ETI} EX1| ETO|EX0
+
+Don't care .
+(programmed ———» Enable external interrupt-0
+as zero) L_________» Enable timer-0 intermpt
+
+___________ Enable external interrupt-1
+> Enable timer-1 interrupt
+Enable all > Enable serial port interrupt
+interrupts
+
+Note: 1 = Enable ; 0 = Disable.
 --- page 8 ---
 a   Describe types Hardware & Software interrupts in 8086
 Q6   Microprocessor.
@@ -407,6 +475,36 @@ SO-1;
 BL-2   Name of operating modes(1M) +Comparison (4M)
 Any four valid point
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Microprocessor Microcontroller
+
+Dependent on other chips for many * Single chip computer which has
+functions so hardware size increases. everything in-built.
+
+CPU is stand-alone, RAM, ROM, VO, . Cpu, RAM, ROM, I/O and timer are
+timer are separate.
+
+; ” all on a single chip.
+Designer can decide on the amount
+
+¢ fix amount of on-chip ROM, RAM,
+
+of ROM, RAM and I/O ports.
+
+V/O ports.
+Program memory and data memory .
+are same. * Uses different program and data
+Suited to processing information in WSIS e
+computer systems. * Suited to control of I/O devices
+Powerful addressing mode. requiring a minimum component count.
+Data bus: 32,64,128 bits wide. + Extremely compact instructions.
+Clock rate > 1GHz. * Data bus: 8,16 bits wide.
+general-purpose. * 10 to 20 MHz.
+
+Expensive. * single-purpose.
+
+* Cheap.
 --- page 2 ---
 CO-1;   c.   Explain the function of the program counter and data pointer in the 8051.   [05]
 SO-1;
@@ -425,6 +523,46 @@ Consider a modern washing machine using an RTOS:
 Tasks involved:
 1. Water level sensing
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+MIN MODE
+
+Max MODE
+
+It is a uniprocessor mode.
+
+It is a multiprocessor mode,
+Along with 8086, there can be other
+
+1 8086 is the only processor in the processors like 8087 and 8089 in the
+circuit. nr
+circuit.
+2 | Here MN/ MX is connected to Vee. Here MN/ MX is connected to Ground.
+a As there are multiple processors, ALE for
+Ej ALE for the latch is given by 8086 the latch is given by 8288 bus
+itself,
+controller.
+‘DEN and pis R for the As there are multiple processors, DEN
+4 | transreceivers are given by 8086 and DT/ RB for the transreceivers is
+itself. given by 8289 bus controller.
+Direct control signals like M/ 10 , Instead of control signals, all processors
+5 | RD and WR are produced by produce status signals S,, S, and S,
+8056 itself.
+Control signals M/ 10, RD and Status signals Sy — and ‘Sy require
+6 WR. are decocded by a 3:8 special decoding are decoded by 8288
+decoder IC 74138. bus controller,
+7 INTA for interrupt acknowledgement | INTA for interrupt acknowledgement is
+is produced by 8086. produced by 8288 Bus Controller,
+8 Bus request are grant is handled Bus request are grant is handled using
+using HOLD and HLDA signals. RQ / GT signals.
+Since 74138 does nat independently Since 8288 independently generates
+9 | generate any signals, it does not control signals, it needs a CLK from
+need a CLK. 8284 clock generator.
+10 The circuit is simpler but does not The circuit is more complex but
+
+support multiprocessing.
+
+supports multiprocessing.
 --- page 3 ---
 2. Temperature control
 3. Motor control (drum rotation)
@@ -455,6 +593,33 @@ system.
 3. High Data Rates – USB 2.0: up to 480 Mbps, USB 3.0/3.1: several Gbps.
 4. Power Supply – Provides power to connected devices (e.g., keyboards, mice).
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+MEMORY
+
+H 1 INSTRUCTION !
+H 2 STREAM BYTE +
+: } 3 _| QUEUE '
+H
+H ES
+H cs
+: SS
+DS. 1
+1P CONTROL H
+
+it SYSTEM H
+'
+H
+
+Al i
+
+BI ALU i
+
+cH a H H
+Di DI : H
+SP. OPERANDS H
+
+FLAGS
 --- page 4 ---
 5. Supports Multiple Devices – Devices are connected via hubs in a tree topology.
 6. Standardized Protocol – Simplifies communication for peripherals across
@@ -509,6 +674,35 @@ The ADC converts this voltage into a digital value the microcontroller can proce
 🔹 DAC (Digital-to-Analog Converter)
 •   Converts digital data → analog signals
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Feature LoRaWAN ZigBee
+
+Full Form Long Range Wide Area Network Based on IEEE 602.15.4 standard
+
+Network Type LPWAN (Low Power Wide Area Network) WPAN (Wireless Persona! Area Network)
+
+Range Very long (2-15 km in urban/rural) Short (10-100 meters typically)
+
+Data Rate Low (0.3 kbps te ~50 kbps) Moderate (up to 250 kbps)
+
+Power Consumption Very low (battery lasts years) Low, but higher than LoRaWAN
+
+Topology Star-of-stars (via gateways) Mesh, star, tree
+
+Latency Higher (not suitable for real-time control) Low (good for real-time applications)
+
+Frequency Bands Sub-GHz (e.g., 668 MHz EU, 915 MHz US) 2.4 GHz (global), also 868/915 MHz
+
+Scalability Supports thousands of devices Limited compared to LoRaWAN
+
+Infrastructure Requires gateways and network server No central infrastructure needed (mesh-
+based)
+
+Cost Lower for large-area deployment Lower for smali/local networks
+
+v
+Security Strong (AES-128 encryption) Also secure (AES-128 encryption)
 --- page 6 ---
 •   Allows the microcontroller to control analog devices
 👉 Example: Producing audio signals, controlling motor speed, or generating
@@ -572,6 +766,29 @@ RAM- Explanation of Register Banks ,Explanation of Bit addressable area ,Explana
 Scratchpad memory(3M)
 Structure diagram (4M):
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Feature RISC-V ARM
+
+Type Open-standard ISA (Instruction Set Proprietary ISA developed by Arm Holding:
+Architecture)
+Licensing Open-source (free to use, modify. uires license,royalty
+implement}
+Customization Highly customizable (users can add custom Limited customization (controlled by ARM
+instructions) architecture}
+Cost Low (no licensing cost} Higher due to licensing fees
+Ecosystem Growing ecosystem Vary mature and widely adopted
+Performance Competitive, improving rapidly Highly optimized, proven performance
+Power Efficiency Good (depends on implementation) Excellent (widely used in low-power dev
+Instruction Set Simple and modular (base + extansions) More complex but well-optimized
+Toolchain Support mproving (GCC, LLVM supported) Extensive (compilers, debuggers, IDEs)
+Security Flexible, depends on implementation Strong, with built-in security features
+
+(TrustZone}
+
+Market Adoption Emerging (stertups, res
+
+Dominant (smartphones, embedded systems)
 --- page 9 ---
 7FH
 Scratch pad
@@ -646,6 +863,20 @@ Compare preemptive and non-preemptive scheduler with respect to RTOS-Any five
 valid point(5M)
 the role of Machine Learning on Microcontrollers(5M)
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Preemptive Scheduler Non-Preemptive Scheduler (Cooperative)
+
+CPU Control RTOS can interrupt a running task Task keeps CPU until it finishes or yields
+Task Switching Automatic (based on priority/time Voluntary (task must release CPU)
+slice)
+Response Time Fast, suitable for real-time systems Slower, depends on task behavior
+Priority Handling Strict priority enforcement Priority less effective
+Complexity More complex to implement Simpler design
+Overhead Higher (context switching) Lower overhead
+Reliability Better for critical tasks Risk of one task blocking others
+
+Use Case Hard/soft real-time systems Simple embedded systems
 --- page 11 ---
 Role of Machine Learning in Microcontroller-Based Systems (08
 Marks)
@@ -794,6 +1025,36 @@ SO-1;
 BL-2   Name of operating modes(1M) +Comparison (4M)
 Any four valid point
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Microprocessor Microcontroller
+
+Dependent on other chips for many * Single chip computer which has
+functions so hardware size increases. everything in-built.
+
+CPU is stand-alone, RAM, ROM, VO, . Cpu, RAM, ROM, I/O and timer are
+timer are separate.
+
+; ” all on a single chip.
+Designer can decide on the amount
+
+¢ fix amount of on-chip ROM, RAM,
+
+of ROM, RAM and I/O ports.
+
+V/O ports.
+Program memory and data memory .
+are same. * Uses different program and data
+Suited to processing information in WSIS e
+computer systems. * Suited to control of I/O devices
+Powerful addressing mode. requiring a minimum component count.
+Data bus: 32,64,128 bits wide. + Extremely compact instructions.
+Clock rate > 1GHz. * Data bus: 8,16 bits wide.
+general-purpose. * 10 to 20 MHz.
+
+Expensive. * single-purpose.
+
+* Cheap.
 --- page 2 ---
 CO-1;   c.   Explain the function of the program counter and data pointer in the 8051.   [05]
 SO-1;
@@ -812,6 +1073,46 @@ Consider a modern washing machine using an RTOS:
 Tasks involved:
 1. Water level sensing
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+MIN MODE
+
+Max MODE
+
+It is a uniprocessor mode.
+
+It is a multiprocessor mode,
+Along with 8086, there can be other
+
+1 8086 is the only processor in the processors like 8087 and 8089 in the
+circuit. nr
+circuit.
+2 | Here MN/ MX is connected to Vee. Here MN/ MX is connected to Ground.
+a As there are multiple processors, ALE for
+Ej ALE for the latch is given by 8086 the latch is given by 8288 bus
+itself,
+controller.
+‘DEN and pis R for the As there are multiple processors, DEN
+4 | transreceivers are given by 8086 and DT/ RB for the transreceivers is
+itself. given by 8289 bus controller.
+Direct control signals like M/ 10 , Instead of control signals, all processors
+5 | RD and WR are produced by produce status signals S,, S, and S,
+8056 itself.
+Control signals M/ 10, RD and Status signals Sy — and ‘Sy require
+6 WR. are decocded by a 3:8 special decoding are decoded by 8288
+decoder IC 74138. bus controller,
+7 INTA for interrupt acknowledgement | INTA for interrupt acknowledgement is
+is produced by 8086. produced by 8288 Bus Controller,
+8 Bus request are grant is handled Bus request are grant is handled using
+using HOLD and HLDA signals. RQ / GT signals.
+Since 74138 does nat independently Since 8288 independently generates
+9 | generate any signals, it does not control signals, it needs a CLK from
+need a CLK. 8284 clock generator.
+10 The circuit is simpler but does not The circuit is more complex but
+
+support multiprocessing.
+
+supports multiprocessing.
 --- page 3 ---
 2. Temperature control
 3. Motor control (drum rotation)
@@ -842,6 +1143,33 @@ system.
 3. High Data Rates – USB 2.0: up to 480 Mbps, USB 3.0/3.1: several Gbps.
 4. Power Supply – Provides power to connected devices (e.g., keyboards, mice).
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+MEMORY
+
+H 1 INSTRUCTION !
+H 2 STREAM BYTE +
+: } 3 _| QUEUE '
+H
+H ES
+H cs
+: SS
+DS. 1
+1P CONTROL H
+
+it SYSTEM H
+'
+H
+
+Al i
+
+BI ALU i
+
+cH a H H
+Di DI : H
+SP. OPERANDS H
+
+FLAGS
 --- page 4 ---
 5. Supports Multiple Devices – Devices are connected via hubs in a tree topology.
 6. Standardized Protocol – Simplifies communication for peripherals across
@@ -896,6 +1224,35 @@ The ADC converts this voltage into a digital value the microcontroller can proce
 🔹 DAC (Digital-to-Analog Converter)
 •   Converts digital data → analog signals
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Feature LoRaWAN ZigBee
+
+Full Form Long Range Wide Area Network Based on IEEE 602.15.4 standard
+
+Network Type LPWAN (Low Power Wide Area Network) WPAN (Wireless Persona! Area Network)
+
+Range Very long (2-15 km in urban/rural) Short (10-100 meters typically)
+
+Data Rate Low (0.3 kbps te ~50 kbps) Moderate (up to 250 kbps)
+
+Power Consumption Very low (battery lasts years) Low, but higher than LoRaWAN
+
+Topology Star-of-stars (via gateways) Mesh, star, tree
+
+Latency Higher (not suitable for real-time control) Low (good for real-time applications)
+
+Frequency Bands Sub-GHz (e.g., 668 MHz EU, 915 MHz US) 2.4 GHz (global), also 868/915 MHz
+
+Scalability Supports thousands of devices Limited compared to LoRaWAN
+
+Infrastructure Requires gateways and network server No central infrastructure needed (mesh-
+based)
+
+Cost Lower for large-area deployment Lower for smali/local networks
+
+v
+Security Strong (AES-128 encryption) Also secure (AES-128 encryption)
 --- page 6 ---
 •   Allows the microcontroller to control analog devices
 👉 Example: Producing audio signals, controlling motor speed, or generating
@@ -959,6 +1316,29 @@ RAM- Explanation of Register Banks ,Explanation of Bit addressable area ,Explana
 Scratchpad memory(3M)
 Structure diagram (4M):
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Feature RISC-V ARM
+
+Type Open-standard ISA (Instruction Set Proprietary ISA developed by Arm Holding:
+Architecture)
+Licensing Open-source (free to use, modify. uires license,royalty
+implement}
+Customization Highly customizable (users can add custom Limited customization (controlled by ARM
+instructions) architecture}
+Cost Low (no licensing cost} Higher due to licensing fees
+Ecosystem Growing ecosystem Vary mature and widely adopted
+Performance Competitive, improving rapidly Highly optimized, proven performance
+Power Efficiency Good (depends on implementation) Excellent (widely used in low-power dev
+Instruction Set Simple and modular (base + extansions) More complex but well-optimized
+Toolchain Support mproving (GCC, LLVM supported) Extensive (compilers, debuggers, IDEs)
+Security Flexible, depends on implementation Strong, with built-in security features
+
+(TrustZone}
+
+Market Adoption Emerging (stertups, res
+
+Dominant (smartphones, embedded systems)
 --- page 9 ---
 7FH
 Scratch pad
@@ -1033,6 +1413,20 @@ Compare preemptive and non-preemptive scheduler with respect to RTOS-Any five
 valid point(5M)
 the role of Machine Learning on Microcontrollers(5M)
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Preemptive Scheduler Non-Preemptive Scheduler (Cooperative)
+
+CPU Control RTOS can interrupt a running task Task keeps CPU until it finishes or yields
+Task Switching Automatic (based on priority/time Voluntary (task must release CPU)
+slice)
+Response Time Fast, suitable for real-time systems Slower, depends on task behavior
+Priority Handling Strict priority enforcement Priority less effective
+Complexity More complex to implement Simpler design
+Overhead Higher (context switching) Lower overhead
+Reliability Better for critical tasks Risk of one task blocking others
+
+Use Case Hard/soft real-time systems Simple embedded systems
 --- page 11 ---
 Role of Machine Learning in Microcontroller-Based Systems (08
 Marks)
@@ -1152,6 +1546,7 @@ In a smart surveillance camera:
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/MBATech_Computer_7047/Microprocessor and Microcontroller/ANS_Microprocessor and Microcontroller(702CO0C072)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
 - Text: mixed (9 pages), mean OCR confidence 84.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1375,6 +1770,30 @@ CO-2;
 [10]
 BL-3
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Control unit (CU) ‘Numeric execution unit (NEU)
+
+Control register
+Status register |: | Exponent
+: | module Shifter
+Instruction || Arithmetic
+: decoder module
+|}— Data +
+H Operand Top of Temporary
+queue the data Tagisters
+Stack H
+8086) X sT(0):
+— Status + Bus racking :
+L-Address | _ Exceptions
+#Test}«— Busy i
+A stack of 8 x 80-bit
+FP Registers A. :
+3 ST(7):
+80-bit wide stack
+79 78 64 63 : ou
+
+S} Exp. Fraction
 --- page 6 ---
 a
 How parallel processing is achieved in the 8086 Microprocessor?
@@ -1446,6 +1865,49 @@ AGAIN: CPL A
 DJNZ R2,AGAIN
 DJNZ R3,NEXT
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Oscillator
+
+frequency +12
+Timer operation
+C/T =0 (from TMOD)
+— To
+Timer.
+registers
+T10 Tt
+Ccit=1 TMOD}
+(Input pin) Course’ operation )
+TR10 (from TCON)
+
+Gate (from TMOD)
+
+INT1/0
+(Input pin)
+
+>>
+
+Fig. 5.10 Timer/counter contro! logic
+
+‘B. B
+
+6
+
+
+7 ‘4 2 1 ()
+
+EA xX X | ES | ETI} EX1| ETO|EX0
+
+Don't care .
+(programmed ———» Enable external interrupt-0
+as zero) L_________» Enable timer-0 intermpt
+
+___________ Enable external interrupt-1
+> Enable timer-1 interrupt
+Enable all > Enable serial port interrupt
+interrupts
+
+Note: 1 = Enable ; 0 = Disable.
 --- page 8 ---
 a   Describe types Hardware & Software interrupts in 8086
 Q6   Microprocessor.
@@ -1521,6 +1983,7 @@ FIC QF OH ar
 - Source: `02_Question_Papers/2025/Sem_08/Final-Exam/Integrated_Computer_7032/Microprocessor and Microcontroller/ANS_Microprocessor and Microcontroller(702CO0C009)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
 - Text: mixed (9 pages), mean OCR confidence 84.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1744,6 +2207,30 @@ CO-2;
 [10]
 BL-3
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Control unit (CU) ‘Numeric execution unit (NEU)
+
+Control register
+Status register |: | Exponent
+: | module Shifter
+Instruction || Arithmetic
+: decoder module
+|}— Data +
+H Operand Top of Temporary
+queue the data Tagisters
+Stack H
+8086) X sT(0):
+— Status + Bus racking :
+L-Address | _ Exceptions
+#Test}«— Busy i
+A stack of 8 x 80-bit
+FP Registers A. :
+3 ST(7):
+80-bit wide stack
+79 78 64 63 : ou
+
+S} Exp. Fraction
 --- page 6 ---
 a
 How parallel processing is achieved in the 8086 Microprocessor?
@@ -1815,6 +2302,49 @@ AGAIN: CPL A
 DJNZ R2,AGAIN
 DJNZ R3,NEXT
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Oscillator
+
+frequency +12
+Timer operation
+C/T =0 (from TMOD)
+— To
+Timer.
+registers
+T10 Tt
+Ccit=1 TMOD}
+(Input pin) Course’ operation )
+TR10 (from TCON)
+
+Gate (from TMOD)
+
+INT1/0
+(Input pin)
+
+>>
+
+Fig. 5.10 Timer/counter contro! logic
+
+‘B. B
+
+6
+
+
+7 ‘4 2 1 ()
+
+EA xX X | ES | ETI} EX1| ETO|EX0
+
+Don't care .
+(programmed ———» Enable external interrupt-0
+as zero) L_________» Enable timer-0 intermpt
+
+___________ Enable external interrupt-1
+> Enable timer-1 interrupt
+Enable all > Enable serial port interrupt
+interrupts
+
+Note: 1 = Enable ; 0 = Disable.
 --- page 8 ---
 a   Describe types Hardware & Software interrupts in 8086
 Q6   Microprocessor.
@@ -1890,6 +2420,7 @@ FIC QF OH ar
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_Computer_7002/Microprocessor and Microcontroller/ANS_Microprocessor and Microcontroller(702CO0C072)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Jul 2026
 - Text: text (12 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2069,6 +2600,28 @@ Q3
 b   Make use of the control word and status word of the 8087
 coprocessors with a diagram and the significance of each bit.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+INTERRUPT
+SERVICE
+PROCEDURE
+
+MAINLINE PUSH FLAGS PUSH REGISTERS
+PROGRAM CLEAR IF
+CLEAR TF
+
+PUSH CS
+PUSH IP
+FETCH ISR ADDRESS
+
+INQ POP IP
+POP CS
+POP FLAGS
+POP REGISTERS
+
+IRET
+
+Fig. 8086 interrupt response
 --- page 5 ---
 Ans: he 8087 Numeric Data Processor (NDP) uses two important 16-bit
 registers:
@@ -2095,6 +2648,45 @@ CO-; SO-;   calculated using segment and offset values   [10]
 BL-
 Ans: Memory segmentation concept in 8086 (4 Marks):
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+8087 status words
+
+1 7
+HELPER RL PP pee pee]
+Staves
+(000 = register 0 is stack op
+
+(001 = register 1 is stack top
+‘111 = register 7 is stack top
+
+5
+
+12
+
+[im [Jem [umyom]zm Jom]im |
+
+le] RO [Pe
+
+Exception masks
+1 = exception masked
+
+invalid operation
+denormalized operand
+zero divide
+
+‘overflow
+
+underflow
+
+precision
+
+reserved
+interrupt-enable mask
+precision control
+rounding control
+infinity control
+reserved
 --- page 6 ---
 8086 Microprocessor has a 20-bit address bus, which allows it to address 1
 MB of memory (since 220 = 1,048,576 bytes or 1 MB).
@@ -2125,6 +2717,32 @@ Step 2: Add Offset
 Final Answer:
 Physical Address = 21234H
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Physical
+
+address
+FRFFEH   -Wemey Highest address
+7FFFF iy = <— Top of extra nt (ES)
+64k]: segment’
+—=- onan? of extra segment (ES)
+registers in BIU SFFFF H |4— Top of stack segment (SS)
+f Stack
+64k ment
+Ss 5 0 0 0 50000 H_ ¥ -———} <— Bottom of stack segment (SS)
+ps|~2 5 55 0 Top of code (cs)
+
+I
+
+isters hold
+esgic renee ri +— Bottom of code segment (CS)
+(apspebebsemponancls oil == Top of data segment (DS)
+that 8086 is working with Data
+
+at any particular time
+
+One way of positioning four 64k byte segments within the
+1M byte memory space of an 8086
 --- page 7 ---
 b   Write an ALP for the 8086 with comments to arrange 05 numbers
 in descending order.05 Numbers are stored from memory location
@@ -2253,6 +2871,43 @@ programmer (e.g., INTR)
 • Non-Maskable Interrupts: Cannot be disabled; used for critical
 events (e.g., power failure)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+ADDRESS
+
+3FFH
+| TYPE2S5POINTER: __|
+(AVAILABLE)
+3FCH
+AVAILABLE INTERRUPT T T
+FOWTERS 220) TYPE 33 POINTER :
+Zz (AVAILABLE) =I
+084H
+TYPE 32 POINTER :
+80H (AVAILABLE)
+O7FH | -TYPE31POINTER: __|
+(RESERVED)
+RESERVED INTERRUPT Ral a
+POINTERS (27) 1 ;
+| —s TYPES POINTER :
+(RESERVED)
+O14H
+TYPE 4 POINTER :
+OVERFLOW
+10H
+| _ TYPE 3 POINTER:
+1-BYTE INT INSTRUCTION |
+DEDICATED INTERRUPT | -«-TYPE2POINTER: 9 __|
+POINTERS (5) NON-MASKABLE
+| sTYPE1 POINTER: 9 _|
+SINGLE-STEP
+004H ---
+TYPEOPOINTER: __|
+DIVIDE ERROR
+000H ---
+-——— sans ———+|
+
+8086 interrupt vector table
 --- page 10 ---
 c. Based on Addressing:
 • Vectored Interrupts: ISR address is predefined (e.g., RST 7.5 in
@@ -2275,6 +2930,30 @@ Q7
 diagram.   [10]
 (3M – Diagram, 6M for explanation of architecture)
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Data Bus 8-bit
+
+Flash Program Status
+Program Counter and Controt
+¥
+Interrupt
+32x8 Unit
+Instruction General
+Register Purpose of oe |
+Registrers ae Oe
+instruction {Yeeros |
+' of re |
+Bz
+6 ef vo Moduler | ef vo Moduler |
+
+Data
+SRAM VO Module 2
+eS
+
+vV
+
+Arduino Architecture
 --- page 11 ---
 Explanation of following blocks: 128 Byte RAM, ROM, Interrupt, I/O
 Ports, Timer, ALU, Serial Communication block, registers.
@@ -2300,6 +2979,48 @@ END
 CY PSW.   Carry Flag
 7
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Arithmetic Special- c ° i vo
+and PSW Function g pj AO-A7
+Logic Unit Registers rc - @ } 00-07
+RAM
+8-Bit Data and =
+A 8 Address Bus 5 ak
+
+2 fed EE 0
+
+= 5
+l I | s ee
+=
+
+DPTR
+pc | | DPH ROM =
+DPL 5 2 E wo
+Vt = [7] & F asais
+16-Bit Adress Bus ~
+<n L 10
+— , pecial- oo { Interrupt
+EA 4 System pees Function Lj $s Lb} = FE counter
+ALE — Timing esses Registers 3 = b~ serial Data
+PSEN + Lao WE
+XTALL —{ System Register 3 T
+XTAL2 —]__ Interrupts 1P
+Bank 3
+RESET —] Timers PCON I
+Data Buffers SBUF !
+Vec 4 Register
+GND Memory Contrat Bank? SCON I
+1 TCON |
+\ Register TMOD. l
+Bank 1 TLO 1
+i THO
+1 Register Tu |
+nk
+! Bank 0 TAT |
+I. Internal RAM Structure |
+
+ee ee ee
 --- page 12 ---
 AC PSW.   Auxiliary Carry Flag
 6
@@ -2341,6 +3062,7 @@ arithmetic operations.
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/MBATech_Computer_7047/Microprocessor and Microcontroller/ANS_Microprocessor and Microcontroller(702CO0C072)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Jul 2026
 - Text: text (12 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2520,6 +3242,28 @@ Q3
 b   Make use of the control word and status word of the 8087
 coprocessors with a diagram and the significance of each bit.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+INTERRUPT
+SERVICE
+PROCEDURE
+
+MAINLINE PUSH FLAGS PUSH REGISTERS
+PROGRAM CLEAR IF
+CLEAR TF
+
+PUSH CS
+PUSH IP
+FETCH ISR ADDRESS
+
+INQ POP IP
+POP CS
+POP FLAGS
+POP REGISTERS
+
+IRET
+
+Fig. 8086 interrupt response
 --- page 5 ---
 Ans: he 8087 Numeric Data Processor (NDP) uses two important 16-bit
 registers:
@@ -2546,6 +3290,45 @@ CO-; SO-;   calculated using segment and offset values   [10]
 BL-
 Ans: Memory segmentation concept in 8086 (4 Marks):
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+8087 status words
+
+1 7
+HELPER RL PP pee pee]
+Staves
+(000 = register 0 is stack op
+
+(001 = register 1 is stack top
+‘111 = register 7 is stack top
+
+5
+
+12
+
+[im [Jem [umyom]zm Jom]im |
+
+le] RO [Pe
+
+Exception masks
+1 = exception masked
+
+invalid operation
+denormalized operand
+zero divide
+
+‘overflow
+
+underflow
+
+precision
+
+reserved
+interrupt-enable mask
+precision control
+rounding control
+infinity control
+reserved
 --- page 6 ---
 8086 Microprocessor has a 20-bit address bus, which allows it to address 1
 MB of memory (since 220 = 1,048,576 bytes or 1 MB).
@@ -2576,6 +3359,32 @@ Step 2: Add Offset
 Final Answer:
 Physical Address = 21234H
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Physical
+
+address
+FRFFEH   -Wemey Highest address
+7FFFF iy = <— Top of extra nt (ES)
+64k]: segment’
+—=- onan? of extra segment (ES)
+registers in BIU SFFFF H |4— Top of stack segment (SS)
+f Stack
+64k ment
+Ss 5 0 0 0 50000 H_ ¥ -———} <— Bottom of stack segment (SS)
+ps|~2 5 55 0 Top of code (cs)
+
+I
+
+isters hold
+esgic renee ri +— Bottom of code segment (CS)
+(apspebebsemponancls oil == Top of data segment (DS)
+that 8086 is working with Data
+
+at any particular time
+
+One way of positioning four 64k byte segments within the
+1M byte memory space of an 8086
 --- page 7 ---
 b   Write an ALP for the 8086 with comments to arrange 05 numbers
 in descending order.05 Numbers are stored from memory location
@@ -2704,6 +3513,43 @@ programmer (e.g., INTR)
 • Non-Maskable Interrupts: Cannot be disabled; used for critical
 events (e.g., power failure)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+ADDRESS
+
+3FFH
+| TYPE2S5POINTER: __|
+(AVAILABLE)
+3FCH
+AVAILABLE INTERRUPT T T
+FOWTERS 220) TYPE 33 POINTER :
+Zz (AVAILABLE) =I
+084H
+TYPE 32 POINTER :
+80H (AVAILABLE)
+O7FH | -TYPE31POINTER: __|
+(RESERVED)
+RESERVED INTERRUPT Ral a
+POINTERS (27) 1 ;
+| —s TYPES POINTER :
+(RESERVED)
+O14H
+TYPE 4 POINTER :
+OVERFLOW
+10H
+| _ TYPE 3 POINTER:
+1-BYTE INT INSTRUCTION |
+DEDICATED INTERRUPT | -«-TYPE2POINTER: 9 __|
+POINTERS (5) NON-MASKABLE
+| sTYPE1 POINTER: 9 _|
+SINGLE-STEP
+004H ---
+TYPEOPOINTER: __|
+DIVIDE ERROR
+000H ---
+-——— sans ———+|
+
+8086 interrupt vector table
 --- page 10 ---
 c. Based on Addressing:
 • Vectored Interrupts: ISR address is predefined (e.g., RST 7.5 in
@@ -2726,6 +3572,30 @@ Q7
 diagram.   [10]
 (3M – Diagram, 6M for explanation of architecture)
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Data Bus 8-bit
+
+Flash Program Status
+Program Counter and Controt
+¥
+Interrupt
+32x8 Unit
+Instruction General
+Register Purpose of oe |
+Registrers ae Oe
+instruction {Yeeros |
+' of re |
+Bz
+6 ef vo Moduler | ef vo Moduler |
+
+Data
+SRAM VO Module 2
+eS
+
+vV
+
+Arduino Architecture
 --- page 11 ---
 Explanation of following blocks: 128 Byte RAM, ROM, Interrupt, I/O
 Ports, Timer, ALU, Serial Communication block, registers.
@@ -2751,6 +3621,48 @@ END
 CY PSW.   Carry Flag
 7
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Arithmetic Special- c ° i vo
+and PSW Function g pj AO-A7
+Logic Unit Registers rc - @ } 00-07
+RAM
+8-Bit Data and =
+A 8 Address Bus 5 ak
+
+2 fed EE 0
+
+= 5
+l I | s ee
+=
+
+DPTR
+pc | | DPH ROM =
+DPL 5 2 E wo
+Vt = [7] & F asais
+16-Bit Adress Bus ~
+<n L 10
+— , pecial- oo { Interrupt
+EA 4 System pees Function Lj $s Lb} = FE counter
+ALE — Timing esses Registers 3 = b~ serial Data
+PSEN + Lao WE
+XTALL —{ System Register 3 T
+XTAL2 —]__ Interrupts 1P
+Bank 3
+RESET —] Timers PCON I
+Data Buffers SBUF !
+Vec 4 Register
+GND Memory Contrat Bank? SCON I
+1 TCON |
+\ Register TMOD. l
+Bank 1 TLO 1
+i THO
+1 Register Tu |
+nk
+! Bank 0 TAT |
+I. Internal RAM Structure |
+
+ee ee ee
 --- page 12 ---
 AC PSW.   Auxiliary Carry Flag
 6
@@ -2792,6 +3704,7 @@ arithmetic operations.
 - Source: `02_Question_Papers/2025/Sem_08/Re-Exam/Integrated_Computer_7032/Microprocessor and Microcontroller/ANS_Microprocessor and Microcontroller(702CO0C009)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Jul 2026
 - Text: text (12 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2971,6 +3884,28 @@ Q3
 b   Make use of the control word and status word of the 8087
 coprocessors with a diagram and the significance of each bit.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+INTERRUPT
+SERVICE
+PROCEDURE
+
+MAINLINE PUSH FLAGS PUSH REGISTERS
+PROGRAM CLEAR IF
+CLEAR TF
+
+PUSH CS
+PUSH IP
+FETCH ISR ADDRESS
+
+INQ POP IP
+POP CS
+POP FLAGS
+POP REGISTERS
+
+IRET
+
+Fig. 8086 interrupt response
 --- page 5 ---
 Ans: he 8087 Numeric Data Processor (NDP) uses two important 16-bit
 registers:
@@ -2997,6 +3932,45 @@ CO-; SO-;   calculated using segment and offset values   [10]
 BL-
 Ans: Memory segmentation concept in 8086 (4 Marks):
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+8087 status words
+
+1 7
+HELPER RL PP pee pee]
+Staves
+(000 = register 0 is stack op
+
+(001 = register 1 is stack top
+‘111 = register 7 is stack top
+
+5
+
+12
+
+[im [Jem [umyom]zm Jom]im |
+
+le] RO [Pe
+
+Exception masks
+1 = exception masked
+
+invalid operation
+denormalized operand
+zero divide
+
+‘overflow
+
+underflow
+
+precision
+
+reserved
+interrupt-enable mask
+precision control
+rounding control
+infinity control
+reserved
 --- page 6 ---
 8086 Microprocessor has a 20-bit address bus, which allows it to address 1
 MB of memory (since 220 = 1,048,576 bytes or 1 MB).
@@ -3027,6 +4001,32 @@ Step 2: Add Offset
 Final Answer:
 Physical Address = 21234H
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Physical
+
+address
+FRFFEH   -Wemey Highest address
+7FFFF iy = <— Top of extra nt (ES)
+64k]: segment’
+—=- onan? of extra segment (ES)
+registers in BIU SFFFF H |4— Top of stack segment (SS)
+f Stack
+64k ment
+Ss 5 0 0 0 50000 H_ ¥ -———} <— Bottom of stack segment (SS)
+ps|~2 5 55 0 Top of code (cs)
+
+I
+
+isters hold
+esgic renee ri +— Bottom of code segment (CS)
+(apspebebsemponancls oil == Top of data segment (DS)
+that 8086 is working with Data
+
+at any particular time
+
+One way of positioning four 64k byte segments within the
+1M byte memory space of an 8086
 --- page 7 ---
 b   Write an ALP for the 8086 with comments to arrange 05 numbers
 in descending order.05 Numbers are stored from memory location
@@ -3155,6 +4155,43 @@ programmer (e.g., INTR)
 • Non-Maskable Interrupts: Cannot be disabled; used for critical
 events (e.g., power failure)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+ADDRESS
+
+3FFH
+| TYPE2S5POINTER: __|
+(AVAILABLE)
+3FCH
+AVAILABLE INTERRUPT T T
+FOWTERS 220) TYPE 33 POINTER :
+Zz (AVAILABLE) =I
+084H
+TYPE 32 POINTER :
+80H (AVAILABLE)
+O7FH | -TYPE31POINTER: __|
+(RESERVED)
+RESERVED INTERRUPT Ral a
+POINTERS (27) 1 ;
+| —s TYPES POINTER :
+(RESERVED)
+O14H
+TYPE 4 POINTER :
+OVERFLOW
+10H
+| _ TYPE 3 POINTER:
+1-BYTE INT INSTRUCTION |
+DEDICATED INTERRUPT | -«-TYPE2POINTER: 9 __|
+POINTERS (5) NON-MASKABLE
+| sTYPE1 POINTER: 9 _|
+SINGLE-STEP
+004H ---
+TYPEOPOINTER: __|
+DIVIDE ERROR
+000H ---
+-——— sans ———+|
+
+8086 interrupt vector table
 --- page 10 ---
 c. Based on Addressing:
 • Vectored Interrupts: ISR address is predefined (e.g., RST 7.5 in
@@ -3177,6 +4214,30 @@ Q7
 diagram.   [10]
 (3M – Diagram, 6M for explanation of architecture)
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Data Bus 8-bit
+
+Flash Program Status
+Program Counter and Controt
+¥
+Interrupt
+32x8 Unit
+Instruction General
+Register Purpose of oe |
+Registrers ae Oe
+instruction {Yeeros |
+' of re |
+Bz
+6 ef vo Moduler | ef vo Moduler |
+
+Data
+SRAM VO Module 2
+eS
+
+vV
+
+Arduino Architecture
 --- page 11 ---
 Explanation of following blocks: 128 Byte RAM, ROM, Interrupt, I/O
 Ports, Timer, ALU, Serial Communication block, registers.
@@ -3202,6 +4263,48 @@ END
 CY PSW.   Carry Flag
 7
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Arithmetic Special- c ° i vo
+and PSW Function g pj AO-A7
+Logic Unit Registers rc - @ } 00-07
+RAM
+8-Bit Data and =
+A 8 Address Bus 5 ak
+
+2 fed EE 0
+
+= 5
+l I | s ee
+=
+
+DPTR
+pc | | DPH ROM =
+DPL 5 2 E wo
+Vt = [7] & F asais
+16-Bit Adress Bus ~
+<n L 10
+— , pecial- oo { Interrupt
+EA 4 System pees Function Lj $s Lb} = FE counter
+ALE — Timing esses Registers 3 = b~ serial Data
+PSEN + Lao WE
+XTALL —{ System Register 3 T
+XTAL2 —]__ Interrupts 1P
+Bank 3
+RESET —] Timers PCON I
+Data Buffers SBUF !
+Vec 4 Register
+GND Memory Contrat Bank? SCON I
+1 TCON |
+\ Register TMOD. l
+Bank 1 TLO 1
+i THO
+1 Register Tu |
+nk
+! Bank 0 TAT |
+I. Internal RAM Structure |
+
+ee ee ee
 --- page 12 ---
 AC PSW.   Auxiliary Carry Flag
 6

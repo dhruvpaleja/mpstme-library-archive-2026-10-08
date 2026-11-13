@@ -1205,12 +1205,74 @@ CO1;   a   add method to compute y(n) = x(n)*h(n) for N=4
 SO1;   [10]
 BL2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+No,
+
+Disadvantage
+
+High Computational Cost for Sharp
+
+Responses
+
+Longer Delay (Latency)
+
+More Memory Required
+
+Not Always Optimal for Real-Time
+
+Systems
+
+Higher Power Consumption
 --- page 4 ---
 Q2
 CO2;   b   Define phase delay, group delay, and derive an equation for group delay   [10]
 SO1;
 BL5;   and phase delay of a Discrete Time LTI System.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+oe h(n) is of length M = 3 and 2,(n) is of
+nt = 4, the linear convolution is of length
+jens, — 1) = (4+ 3-1) = 6. We have to pad
+(N + ction by (M — 1) = 2 zeros and h(n) by
+each 1) = 3 zeros so that their lengths will be equal
+(N oe length of the result of the linear convolution.
+as the sections (or blocks) of input sequence are
+m(”) = {i, 2, 3, 4, 0, 0}
+2 zeros
+x(n) = {5, 6, ts 8, 9, O}
+2 zeros
+
+n(n) = {9 10, 0, 0, 0, 0}
+
+2 zeros
+
+Now we will compute the linear convolution using 6-
+point circular convolution of each section z-(n) with
+
+h(n) to get yr (n).
+
+yo(n) = h(n) @ a(n) = {1, 2, 2, 2, —3, —4}
+added
+
+os
+=h = 2) +7; 48
+y(n) = h(n) @ n(n) = {5, 6, 2, }
+
+added
+added
+
+y2(n) = h(n) @ m(n) = {9, 10, —9, —10, 0, 0}
+
+The filtered output sections will overlap by (M—1) =
+2 samples, and these overlap samples must be added
+to get the correct final result.
+
+y(n) = {1, 2, 2,2, -3+5, -4+6, 2,2,
+
+—7+9, -8+10, —9, —10}
+= {1, 2, 2, 2, 2, 2, 2, 2,2, 2, —9, —10}
 --- page 5 ---
 ou Hn use def '/p In terme Oh — bra”
 t'mpulce Tesponse b[n].
@@ -1426,6 +1488,16 @@ SO2;   T=0.5
 BL6;
 a
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+i, The Butterworth filters are all pole design.
+ii. At the cutoff frequency Q.,, the magnitude of normalized Butterworth filter is 1/42.
+
+iii. The filter order N, completely specifies the filter and as the value of N increases the magnitude
+response approaches the ideal response.
+
+iv. The magnitude is maximally flat at the origin and monotonically decreasing with
+increasing Q.
 --- page 12 ---
 Compare the Butterworth and Chebyshev Type-1 filters? Sketch the
 b   mapping of s-plane to z-plane in bilinear transformation.
@@ -1438,6 +1510,44 @@ CO2;   a   {1   0 ≤𝑛≤7   [12]
 𝑥(𝑛) =
 SO1;   0   𝑜𝑡ℎ𝑒𝑟𝑤𝑖𝑠𝑒
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Butterworth
+
+Chebyshev Type-1
+
+i. All pole design.
+ii, The poles lie on a circle in s- plane.
+
+iii. The magnitude response is
+maximally flat at the origin and
+monotonically decreasing function
+of Q.
+
+iv. The normalized magnitude
+response has a value of 1/./2 at
+the cutoff frequency 2..
+
+v. Only few parameters has to be
+calculated to determine the transfer
+function.
+
+i, All pole design.
+
+ii, The poles lie on an ellipse in s- plane.
+
+iii, The magnitude response is
+equiripple in passband and
+monotonically decreasing in the
+stopband.
+
+iv. The normalized magnitude
+response has a value of 1/ + <* at
+the cutoff frequency Q..
+
+v. A large number of parameters has
+to be calculated to determine the
+transfer function.
 --- page 13 ---
 BL4;   By using DIF -FFT algorithm.
 Consider the causal linear time invariant system with system function
@@ -1452,6 +1562,20 @@ SO2;
 BL-2
 Q7   An LTI system is described by the difference equation   I
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Given that N = 8. We know that WK = e7) **.
+Therefore,
+
+Wwe =1, We =0.707 — 50.707,
+W2 =-j, We = -0.707 — 70.707
+
+The butterfly diagram of an 8-point DIF-FFT algo-
+rithm is shown in Fig. 9.15.
+
+X(k) = {8,0,0,0, 0,0, 0, 0}
 --- page 14 ---
 CO4-;   a   𝑦(𝑛) = 𝑎1𝑦(𝑛−1) + 𝑥(𝑛) + 𝑏1𝑥(𝑛−1)
 SO2;
@@ -1465,6 +1589,38 @@ SO1;
 these coefficients in binary registers. These registers are just digital
 BL-5   memories in the DSP system.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+1+biz —_.
+=| ’ EL — az!
+‘poles
+
+a
+
+zeros
+
+- (49 ee = Hi(z) H(z)
+
+where Ai (z) = a =1+bi27
+w(n) = 2(n) + biz(n — 1)
+
+and
+_ Y(z) _ 1
+Ha(2) = W(z) 1—a@z-}
+
+y(n) = aiy(n — 1) + w(n)
+
+The direct-form I structure is shown in Fig. 10.22(a).
+We can convert direct-form I structure into direct-
+form II structure by placing all-pole filter H2(z)
+before the all-zero filter Hi(z). The direct-form I
+structure is shown in Fig. 10.22(b).
+
+xn) mtn) _ 9)
+Fal Fal)
+by 4
+
+(a)
 --- page 15 ---
 •   Generally, we use infinite precision arithmetic for describing filter
 coefficients in the interest of accuracy. But practically, it is not possible

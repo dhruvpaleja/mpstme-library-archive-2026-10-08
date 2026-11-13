@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Science (Information Technology) - 45618/Discrete Mathematics/ANS_Final-Exam_Discrete Mathematics(NHDSM109)_Semester I_2025-2026.pdf`
 - Printed on paper: max marks: 30; duration hours: 1; exam date: 07 Oct 2025
 - Text: mixed (7 pages), mean OCR confidence 71.7
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -30,6 +31,18 @@ Instructions:
 A.
 5
 Page 1 of 7
+
+[Text in pictures on this page, read by OCR]
+Verify using the truth table whether
+
+PA(qVr) = (pAq)V (pAr)
+
+is a valid equivalence.
+
+Solution
+
+Conclusion: The equivalence holds.
+columns 4 to 8 One marks each
 --- page 2 ---
 If A= {1/x: 2 €N,2 < 5} and B= {1/27 : 2 €N,zx < 6}, list the elements of A— B, B— A,
 and find the value of n(B x A).
@@ -266,6 +279,38 @@ Solution:
 Q. 2(b) Check whether the following graph is a bipartite graph. Also write the corresponding
 adjacency matrix.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Question 2(b) (i)
+
+A simple graph G has 12 vertices, and each vertex has a degree of either 3 or 5. If the number of vertices
+with degree 3 is twice the number of vertices with degree 5, determine the number of edges in G.
+Solution
+
+Let the graph G have x vertices of degree 3 and y vertices of degree 5.
+Given that
+a@+y=12 and «=2y.
+
+Substituting 2 = 2y in the first equation, we get
+
+Qyty=12 => 3y=12 = y=4.
+
+Hence,
+oy = 8
+[1 Mark]
+By the Handshaking Lemma,
+Ye deg(v) = Q|E|.
+Therefore,
+3a + 5y = 2|E}.
+{1 Mark]
+Substituting the values of x and y,
+3(8) + 5(4) = 2|E.
+24 + 20 = 2|F|.
+44 = 2|B].
+|E| = 22.
+{1 Mark]
+
+Final Answer: Graph G has 22 edges.
 --- page 4 ---
 (2 colour graph condition is also right) If student state that there is no odd cycle (all cycles
 are even) then they have to show that all cycles of the given graph and show them even).
@@ -287,6 +332,30 @@ Step-2:
 Assume that P(k) is true for some natural number k. That is,
 𝑘(𝑘+ 1)(𝑘+ 2) = 6𝑡⋯(𝑖), where 𝑡 is a natural number.   (1M)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Solution
+
+Let G be the given graph, then W(G) = {1,2,3,4,5,6}. A graph is said to be bipartite graph if its vertex
+set can be partitioned in two disjoined sets Vi, V2 such that every edge has one end point in Vi and other
+one in V9. Let the partition of the vertex set is given as
+
+Vi = {1,2,6} and Vo = {3,4,5} {1 Mark]
+
+Further, the edges are {1,3}, {1,4}, {1,5}, {2,3}, {2,4}, {2,5}, {6,3}, {6,4}, (6, 5}
+
+It is evident that every edge has one end point in Vj and other one in V3, then by definition, G is a
+bipartite graph. {1 Mark]
+We know that an adjacency matrix for a graph G with n vertices is an x n matrix such that
+
+A = 1, if there is an edge from vertex i to vertex j
+9" )0, otherwise
+As there are 6 vertices in given graph and edges are {1,3}, {1,4}, {1,5}, {2,3}, {2, 4}, {2, 5}, {6,3}, {6,4}, {6,5};
+
+these edges contributes 1 in adjacency matrices and all other entries are 0. Thus, corresponding adjacency
+matrix is
+
+[1 Mark]
 --- page 5 ---
 Step-3:
 To prove: P(k+1) is true.
@@ -461,6 +530,23 @@ bijection from ℝ→ℝ.
 Solution:
 invertible
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+P @ &
+
+iv Vv vi
+
+1) Arrange all the vertices according to their degree in ascending order: (1 mark)
+2) All six steps to get MST: (6 marks)
+3) Total weight = 39 (1 mark)
+
+For a function to be a invertible its has to be injective Le. if f(a) = f(b)
+then a = 6 and it has to be surjective, ie. if b= f(a) then a = f-'(b).
+Bm]
+
+Consider the equation f(a) = —32°+7. If = 2, f(#) = —5, if = —2,
+f(2) = —5. Thus we see that for «© = 2 or r = —2, f(r) is the same.
+Thus f (2) is not injective and hence it is not a bijection. [3m
 --- page 13 ---
 Q.6 b) Find the edge connectivity and the vertex connectivity of the graphs:
 Solution:
@@ -822,6 +908,23 @@ Step 3: Exit.
 Q.6 a) Define conditions for a function to be a bijective function. Explain why 𝑓(𝑥) = −3𝑥2 + 7 cannot be a
 bijection from ℝ→ℝ.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+P @ &
+
+iv Vv vi
+
+1) Arrange all the vertices according to their degree in ascending order: (1 mark)
+2) All six steps to get MST: (6 marks)
+3) Total weight = 39 (1 mark)
+
+Solution:
+
+L. (Lo M)(12) = L(M(12)) = L(2) =4 [1.5m]
+2. (Mo L)(12) = M(L(12)) = M(144) =4 [1.5m]
+3. (Lo M)(9) = L(M(9)) = L(4) = 16 [1.5m]
+
+4. (Mo L)(9) = M(L(9)) = M(81) =1 [1.5m]
 --- page 11 ---
 Q.6 b) Find the edge connectivity and the vertex connectivity of the graphs:
 Solution: Edge connectivity = 3, Vertex connectivity = 1,
@@ -1224,6 +1327,23 @@ Step 3: Exit.
 Q.6 a) Define conditions for a function to be a bijective function. Explain why 𝑓(𝑥) = −3𝑥2 + 7 cannot be a
 bijection from ℝ→ℝ.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+P @ &
+
+iv Vv vi
+
+1) Arrange all the vertices according to their degree in ascending order: (1 mark)
+2) All six steps to get MST: (6 marks)
+3) Total weight = 39 (1 mark)
+
+Solution:
+
+L. (Lo M)(12) = L(M(12)) = L(2) =4 [1.5m]
+2. (Mo L)(12) = M(L(12)) = M(144) =4 [1.5m]
+3. (Lo M)(9) = L(M(9)) = L(4) = 16 [1.5m]
+
+4. (Mo L)(9) = M(L(9)) = M(81) =1 [1.5m]
 --- page 11 ---
 Q.6 b) Find the edge connectivity and the vertex connectivity of the graphs:
 Solution: Edge connectivity = 3, Vertex connectivity = 1,
@@ -1626,6 +1746,23 @@ Step 3: Exit.
 Q.6 a) Define conditions for a function to be a bijective function. Explain why 𝑓(𝑥) = −3𝑥2 + 7 cannot be a
 bijection from ℝ→ℝ.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+P @ &
+
+iv Vv vi
+
+1) Arrange all the vertices according to their degree in ascending order: (1 mark)
+2) All six steps to get MST: (6 marks)
+3) Total weight = 39 (1 mark)
+
+Solution:
+
+L. (Lo M)(12) = L(M(12)) = L(2) =4 [1.5m]
+2. (Mo L)(12) = M(L(12)) = M(144) =4 [1.5m]
+3. (Lo M)(9) = L(M(9)) = L(4) = 16 [1.5m]
+
+4. (Mo L)(9) = M(L(9)) = M(81) =1 [1.5m]
 --- page 11 ---
 Q.6 b) Find the edge connectivity and the vertex connectivity of the graphs:
 Solution: Edge connectivity = 3, Vertex connectivity = 1,
@@ -2028,6 +2165,23 @@ Step 3: Exit.
 Q.6 a) Define conditions for a function to be a bijective function. Explain why 𝑓(𝑥) = −3𝑥2 + 7 cannot be a
 bijection from ℝ→ℝ.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+P @ &
+
+iv Vv vi
+
+1) Arrange all the vertices according to their degree in ascending order: (1 mark)
+2) All six steps to get MST: (6 marks)
+3) Total weight = 39 (1 mark)
+
+Solution:
+
+L. (Lo M)(12) = L(M(12)) = L(2) =4 [1.5m]
+2. (Mo L)(12) = M(L(12)) = M(144) =4 [1.5m]
+3. (Lo M)(9) = L(M(9)) = L(4) = 16 [1.5m]
+
+4. (Mo L)(9) = M(L(9)) = M(81) =1 [1.5m]
 --- page 11 ---
 Q.6 b) Find the edge connectivity and the vertex connectivity of the graphs:
 Solution: Edge connectivity = 3, Vertex connectivity = 1,
@@ -2670,6 +2824,23 @@ Step 3: Exit.
 Q.6 a) Define conditions for a function to be a bijective function. Explain why 𝑓(𝑥) = −3𝑥2 + 7 cannot be a
 bijection from ℝ→ℝ.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+P @ &
+
+iv Vv vi
+
+1) Arrange all the vertices according to their degree in ascending order: (1 mark)
+2) All six steps to get MST: (6 marks)
+3) Total weight = 39 (1 mark)
+
+Solution:
+
+L. (Lo M)(12) = L(M(12)) = L(2) =4 [1.5m]
+2. (Mo L)(12) = M(L(12)) = M(144) =4 [1.5m]
+3. (Lo M)(9) = L(M(9)) = L(4) = 16 [1.5m]
+
+4. (Mo L)(9) = M(L(9)) = M(81) =1 [1.5m]
 --- page 11 ---
 Q.6 b) Find the edge connectivity and the vertex connectivity of the graphs:
 Solution: Edge connectivity = 3, Vertex connectivity = 1,
@@ -2826,7 +2997,7 @@ FOI 7 6 FC Cr
 - Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Science (Information Technology) - 45618/Discrete Mathematics/ANS_Re-Exam_Discrete Mathematics(NHDSM109)_Semester I_2025-2026.pdf`
 - Printed on paper: max marks: 30; duration hours: 1; exam date: 23 Jan 2026
 - Text: mixed (6 pages), mean OCR confidence 74.4
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -2846,6 +3017,18 @@ Instructions:
 1.   Solve the following:(Attempt Any 2 Questions)   10
 A.   5
 Page 1 of 6
+
+[Text in pictures on this page, read by OCR]
+Verify using the truth table whether
+
+PV (qAr) = (pV q)A (pV r)
+
+is a valid equivalence.
+
+Solution
+
+Conclusion: The equivalence holds.
+columns 4 to 8 One marks each
 --- page 2 ---
 Given sets A, B,C where the symmetric difference is defined by
 AAB = (A— B)U(B-A)
@@ -3410,6 +3593,19 @@ Using Step-2, we get that 3. (8𝑘− 3𝑘) is divisible by 5 and 5. 8𝑘 is 
 their sum is divisible by 5. (1.5M)
 This completes the proof.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+bipartite graph.
+We know that a adjacency matrix for a graph G with n vertices is a n x n matrix such that
+
+A. = 1, if there is an edge from vertex i to vertex j
+” 0, otherwise
+
+As there are 6 vertices in given graph and edges are {a, 9}, {a, f}, {a, e}, {a,c}, {b, f}, {b, e}, {b,c}, {d,e},:
+{d, f}, {d, 9}, {d, c}; these edges contributes 1 in adjacency matrices and all other entries are 0. Thus,
+corresponding adjacency matrix is
+
+c]1101000 amok
 --- page 6 ---
 Q.3 b) Determine the chromatic number of the graph given below using Welch Powell’s algorithm
 and write steps of the algorithm.
@@ -3593,6 +3789,15 @@ Q.6 a) Let 𝐿 & 𝑀 be functions on set of natural numbers such that,
 i) (𝐿∘𝑀)(12)   ii) (𝑀∘𝐿)(12)   iii) (𝐿∘𝑀)(9)   iv) (𝑀∘𝐿)(9)
 Q.6 b) Define Planar graph. Show that following graphs are planar
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+1. (Lo M)(12) = L(M(12)) = L(2) =4 [1.5m]
+2. (Mo L)(12) = M(L(12)) = M(144) =4 [1.5m]
+3. (Lo M)(9) = L(M(9)) = L(4) = 16 [1.5m]
+
+4, (Mo L)(9) = M(L(9)) = M(81) = 1 [1.5m]
 --- page 13 ---
 Solution: A graph G is said to be planar if it can be drawn on a plane without cross-overs 2 M
 2 M
@@ -3902,6 +4107,19 @@ Using Step-2, we get that 3. (8𝑘− 3𝑘) is divisible by 5 and 5. 8𝑘 is 
 their sum is divisible by 5. (1.5M)
 This completes the proof.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+bipartite graph.
+We know that a adjacency matrix for a graph G with n vertices is a n x n matrix such that
+
+A. = 1, if there is an edge from vertex i to vertex j
+” 0, otherwise
+
+As there are 6 vertices in given graph and edges are {a, 9}, {a, f}, {a, e}, {a,c}, {b, f}, {b, e}, {b,c}, {d,e},:
+{d, f}, {d, 9}, {d, c}; these edges contributes 1 in adjacency matrices and all other entries are 0. Thus,
+corresponding adjacency matrix is
+
+c]1101000 amok
 --- page 6 ---
 Q.3 b) Determine the chromatic number of the graph given below using Welch Powell’s algorithm
 and write steps of the algorithm.
@@ -4085,6 +4303,15 @@ Q.6 a) Let 𝐿 & 𝑀 be functions on set of natural numbers such that,
 i) (𝐿∘𝑀)(12)   ii) (𝑀∘𝐿)(12)   iii) (𝐿∘𝑀)(9)   iv) (𝑀∘𝐿)(9)
 Q.6 b) Define Planar graph. Show that following graphs are planar
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+1. (Lo M)(12) = L(M(12)) = L(2) =4 [1.5m]
+2. (Mo L)(12) = M(L(12)) = M(144) =4 [1.5m]
+3. (Lo M)(9) = L(M(9)) = L(4) = 16 [1.5m]
+
+4, (Mo L)(9) = M(L(9)) = M(81) = 1 [1.5m]
 --- page 13 ---
 Solution: A graph G is said to be planar if it can be drawn on a plane without cross-overs 2 M
 2 M
@@ -4394,6 +4621,19 @@ Using Step-2, we get that 3. (8𝑘− 3𝑘) is divisible by 5 and 5. 8𝑘 is 
 their sum is divisible by 5. (1.5M)
 This completes the proof.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+bipartite graph.
+We know that a adjacency matrix for a graph G with n vertices is a n x n matrix such that
+
+A. = 1, if there is an edge from vertex i to vertex j
+” 0, otherwise
+
+As there are 6 vertices in given graph and edges are {a, 9}, {a, f}, {a, e}, {a,c}, {b, f}, {b, e}, {b,c}, {d,e},:
+{d, f}, {d, 9}, {d, c}; these edges contributes 1 in adjacency matrices and all other entries are 0. Thus,
+corresponding adjacency matrix is
+
+c]1101000 amok
 --- page 6 ---
 Q.3 b) Determine the chromatic number of the graph given below using Welch Powell’s algorithm
 and write steps of the algorithm.
@@ -4577,6 +4817,15 @@ Q.6 a) Let 𝐿 & 𝑀 be functions on set of natural numbers such that,
 i) (𝐿∘𝑀)(12)   ii) (𝑀∘𝐿)(12)   iii) (𝐿∘𝑀)(9)   iv) (𝑀∘𝐿)(9)
 Q.6 b) Define Planar graph. Show that following graphs are planar
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+1. (Lo M)(12) = L(M(12)) = L(2) =4 [1.5m]
+2. (Mo L)(12) = M(L(12)) = M(144) =4 [1.5m]
+3. (Lo M)(9) = L(M(9)) = L(4) = 16 [1.5m]
+
+4, (Mo L)(9) = M(L(9)) = M(81) = 1 [1.5m]
 --- page 13 ---
 Solution: A graph G is said to be planar if it can be drawn on a plane without cross-overs 2 M
 2 M
@@ -4886,6 +5135,19 @@ Using Step-2, we get that 3. (8𝑘− 3𝑘) is divisible by 5 and 5. 8𝑘 is 
 their sum is divisible by 5. (1.5M)
 This completes the proof.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+bipartite graph.
+We know that a adjacency matrix for a graph G with n vertices is a n x n matrix such that
+
+A. = 1, if there is an edge from vertex i to vertex j
+” 0, otherwise
+
+As there are 6 vertices in given graph and edges are {a, 9}, {a, f}, {a, e}, {a,c}, {b, f}, {b, e}, {b,c}, {d,e},:
+{d, f}, {d, 9}, {d, c}; these edges contributes 1 in adjacency matrices and all other entries are 0. Thus,
+corresponding adjacency matrix is
+
+c]1101000 amok
 --- page 6 ---
 Q.3 b) Determine the chromatic number of the graph given below using Welch Powell’s algorithm
 and write steps of the algorithm.
@@ -5069,6 +5331,15 @@ Q.6 a) Let 𝐿 & 𝑀 be functions on set of natural numbers such that,
 i) (𝐿∘𝑀)(12)   ii) (𝑀∘𝐿)(12)   iii) (𝐿∘𝑀)(9)   iv) (𝑀∘𝐿)(9)
 Q.6 b) Define Planar graph. Show that following graphs are planar
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+1. (Lo M)(12) = L(M(12)) = L(2) =4 [1.5m]
+2. (Mo L)(12) = M(L(12)) = M(144) =4 [1.5m]
+3. (Lo M)(9) = L(M(9)) = L(4) = 16 [1.5m]
+
+4, (Mo L)(9) = M(L(9)) = M(81) = 1 [1.5m]
 --- page 13 ---
 Solution: A graph G is said to be planar if it can be drawn on a plane without cross-overs 2 M
 2 M
@@ -5378,6 +5649,19 @@ Using Step-2, we get that 3. (8𝑘− 3𝑘) is divisible by 5 and 5. 8𝑘 is 
 their sum is divisible by 5. (1.5M)
 This completes the proof.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+bipartite graph.
+We know that a adjacency matrix for a graph G with n vertices is a n x n matrix such that
+
+A. = 1, if there is an edge from vertex i to vertex j
+” 0, otherwise
+
+As there are 6 vertices in given graph and edges are {a, 9}, {a, f}, {a, e}, {a,c}, {b, f}, {b, e}, {b,c}, {d,e},:
+{d, f}, {d, 9}, {d, c}; these edges contributes 1 in adjacency matrices and all other entries are 0. Thus,
+corresponding adjacency matrix is
+
+c]1101000 amok
 --- page 6 ---
 Q.3 b) Determine the chromatic number of the graph given below using Welch Powell’s algorithm
 and write steps of the algorithm.
@@ -5561,6 +5845,15 @@ Q.6 a) Let 𝐿 & 𝑀 be functions on set of natural numbers such that,
 i) (𝐿∘𝑀)(12)   ii) (𝑀∘𝐿)(12)   iii) (𝐿∘𝑀)(9)   iv) (𝑀∘𝐿)(9)
 Q.6 b) Define Planar graph. Show that following graphs are planar
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+1. (Lo M)(12) = L(M(12)) = L(2) =4 [1.5m]
+2. (Mo L)(12) = M(L(12)) = M(144) =4 [1.5m]
+3. (Lo M)(9) = L(M(9)) = L(4) = 16 [1.5m]
+
+4, (Mo L)(9) = M(L(9)) = M(81) = 1 [1.5m]
 --- page 13 ---
 Solution: A graph G is said to be planar if it can be drawn on a plane without cross-overs 2 M
 2 M
@@ -5870,6 +6163,19 @@ Using Step-2, we get that 3. (8𝑘− 3𝑘) is divisible by 5 and 5. 8𝑘 is 
 their sum is divisible by 5. (1.5M)
 This completes the proof.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+bipartite graph.
+We know that a adjacency matrix for a graph G with n vertices is a n x n matrix such that
+
+A. = 1, if there is an edge from vertex i to vertex j
+” 0, otherwise
+
+As there are 6 vertices in given graph and edges are {a, 9}, {a, f}, {a, e}, {a,c}, {b, f}, {b, e}, {b,c}, {d,e},:
+{d, f}, {d, 9}, {d, c}; these edges contributes 1 in adjacency matrices and all other entries are 0. Thus,
+corresponding adjacency matrix is
+
+c]1101000 amok
 --- page 6 ---
 Q.3 b) Determine the chromatic number of the graph given below using Welch Powell’s algorithm
 and write steps of the algorithm.
@@ -6053,6 +6359,15 @@ Q.6 a) Let 𝐿 & 𝑀 be functions on set of natural numbers such that,
 i) (𝐿∘𝑀)(12)   ii) (𝑀∘𝐿)(12)   iii) (𝐿∘𝑀)(9)   iv) (𝑀∘𝐿)(9)
 Q.6 b) Define Planar graph. Show that following graphs are planar
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+1. (Lo M)(12) = L(M(12)) = L(2) =4 [1.5m]
+2. (Mo L)(12) = M(L(12)) = M(144) =4 [1.5m]
+3. (Lo M)(9) = L(M(9)) = L(4) = 16 [1.5m]
+
+4, (Mo L)(9) = M(L(9)) = M(81) = 1 [1.5m]
 --- page 13 ---
 Solution: A graph G is said to be planar if it can be drawn on a plane without cross-overs 2 M
 2 M
@@ -6362,6 +6677,19 @@ Using Step-2, we get that 3. (8𝑘− 3𝑘) is divisible by 5 and 5. 8𝑘 is 
 their sum is divisible by 5. (1.5M)
 This completes the proof.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+bipartite graph.
+We know that a adjacency matrix for a graph G with n vertices is a n x n matrix such that
+
+A. = 1, if there is an edge from vertex i to vertex j
+” 0, otherwise
+
+As there are 6 vertices in given graph and edges are {a, 9}, {a, f}, {a, e}, {a,c}, {b, f}, {b, e}, {b,c}, {d,e},:
+{d, f}, {d, 9}, {d, c}; these edges contributes 1 in adjacency matrices and all other entries are 0. Thus,
+corresponding adjacency matrix is
+
+c]1101000 amok
 --- page 6 ---
 Q.3 b) Determine the chromatic number of the graph given below using Welch Powell’s algorithm
 and write steps of the algorithm.
@@ -6545,6 +6873,15 @@ Q.6 a) Let 𝐿 & 𝑀 be functions on set of natural numbers such that,
 i) (𝐿∘𝑀)(12)   ii) (𝑀∘𝐿)(12)   iii) (𝐿∘𝑀)(9)   iv) (𝑀∘𝐿)(9)
 Q.6 b) Define Planar graph. Show that following graphs are planar
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+1. (Lo M)(12) = L(M(12)) = L(2) =4 [1.5m]
+2. (Mo L)(12) = M(L(12)) = M(144) =4 [1.5m]
+3. (Lo M)(9) = L(M(9)) = L(4) = 16 [1.5m]
+
+4, (Mo L)(9) = M(L(9)) = M(81) = 1 [1.5m]
 --- page 13 ---
 Solution: A graph G is said to be planar if it can be drawn on a plane without cross-overs 2 M
 2 M
@@ -6854,6 +7191,19 @@ Using Step-2, we get that 3. (8𝑘− 3𝑘) is divisible by 5 and 5. 8𝑘 is 
 their sum is divisible by 5. (1.5M)
 This completes the proof.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+bipartite graph.
+We know that a adjacency matrix for a graph G with n vertices is a n x n matrix such that
+
+A. = 1, if there is an edge from vertex i to vertex j
+” 0, otherwise
+
+As there are 6 vertices in given graph and edges are {a, 9}, {a, f}, {a, e}, {a,c}, {b, f}, {b, e}, {b,c}, {d,e},:
+{d, f}, {d, 9}, {d, c}; these edges contributes 1 in adjacency matrices and all other entries are 0. Thus,
+corresponding adjacency matrix is
+
+c]1101000 amok
 --- page 6 ---
 Q.3 b) Determine the chromatic number of the graph given below using Welch Powell’s algorithm
 and write steps of the algorithm.
@@ -7037,6 +7387,15 @@ Q.6 a) Let 𝐿 & 𝑀 be functions on set of natural numbers such that,
 i) (𝐿∘𝑀)(12)   ii) (𝑀∘𝐿)(12)   iii) (𝐿∘𝑀)(9)   iv) (𝑀∘𝐿)(9)
 Q.6 b) Define Planar graph. Show that following graphs are planar
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+1. (Lo M)(12) = L(M(12)) = L(2) =4 [1.5m]
+2. (Mo L)(12) = M(L(12)) = M(144) =4 [1.5m]
+3. (Lo M)(9) = L(M(9)) = L(4) = 16 [1.5m]
+
+4, (Mo L)(9) = M(L(9)) = M(81) = 1 [1.5m]
 --- page 13 ---
 Solution: A graph G is said to be planar if it can be drawn on a plane without cross-overs 2 M
 2 M
@@ -7673,6 +8032,19 @@ Using Step-2, we get that 3. (8𝑘− 3𝑘) is divisible by 5 and 5. 8𝑘 is 
 their sum is divisible by 5. (1.5M)
 This completes the proof.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+bipartite graph.
+We know that a adjacency matrix for a graph G with n vertices is a n x n matrix such that
+
+A. = 1, if there is an edge from vertex i to vertex j
+” 0, otherwise
+
+As there are 6 vertices in given graph and edges are {a, 9}, {a, f}, {a, e}, {a,c}, {b, f}, {b, e}, {b,c}, {d,e},:
+{d, f}, {d, 9}, {d, c}; these edges contributes 1 in adjacency matrices and all other entries are 0. Thus,
+corresponding adjacency matrix is
+
+c]1101000 amok
 --- page 6 ---
 Q.3 b) Determine the chromatic number of the graph given below using Welch Powell’s algorithm
 and write steps of the algorithm.
@@ -7856,6 +8228,15 @@ Q.6 a) Let 𝐿 & 𝑀 be functions on set of natural numbers such that,
 i) (𝐿∘𝑀)(12)   ii) (𝑀∘𝐿)(12)   iii) (𝐿∘𝑀)(9)   iv) (𝑀∘𝐿)(9)
 Q.6 b) Define Planar graph. Show that following graphs are planar
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+1. (Lo M)(12) = L(M(12)) = L(2) =4 [1.5m]
+2. (Mo L)(12) = M(L(12)) = M(144) =4 [1.5m]
+3. (Lo M)(9) = L(M(9)) = L(4) = 16 [1.5m]
+
+4, (Mo L)(9) = M(L(9)) = M(81) = 1 [1.5m]
 --- page 13 ---
 Solution: A graph G is said to be planar if it can be drawn on a plane without cross-overs 2 M
 2 M
@@ -8165,6 +8546,19 @@ Using Step-2, we get that 3. (8𝑘− 3𝑘) is divisible by 5 and 5. 8𝑘 is 
 their sum is divisible by 5. (1.5M)
 This completes the proof.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+bipartite graph.
+We know that a adjacency matrix for a graph G with n vertices is a n x n matrix such that
+
+A. = 1, if there is an edge from vertex i to vertex j
+” 0, otherwise
+
+As there are 6 vertices in given graph and edges are {a, 9}, {a, f}, {a, e}, {a,c}, {b, f}, {b, e}, {b,c}, {d,e},:
+{d, f}, {d, 9}, {d, c}; these edges contributes 1 in adjacency matrices and all other entries are 0. Thus,
+corresponding adjacency matrix is
+
+c]1101000 amok
 --- page 6 ---
 Q.3 b) Determine the chromatic number of the graph given below using Welch Powell’s algorithm
 and write steps of the algorithm.
@@ -8348,6 +8742,15 @@ Q.6 a) Let 𝐿 & 𝑀 be functions on set of natural numbers such that,
 i) (𝐿∘𝑀)(12)   ii) (𝑀∘𝐿)(12)   iii) (𝐿∘𝑀)(9)   iv) (𝑀∘𝐿)(9)
 Q.6 b) Define Planar graph. Show that following graphs are planar
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+1. (Lo M)(12) = L(M(12)) = L(2) =4 [1.5m]
+2. (Mo L)(12) = M(L(12)) = M(144) =4 [1.5m]
+3. (Lo M)(9) = L(M(9)) = L(4) = 16 [1.5m]
+
+4, (Mo L)(9) = M(L(9)) = M(81) = 1 [1.5m]
 --- page 13 ---
 Solution: A graph G is said to be planar if it can be drawn on a plane without cross-overs 2 M
 2 M
@@ -8657,6 +9060,19 @@ Using Step-2, we get that 3. (8𝑘− 3𝑘) is divisible by 5 and 5. 8𝑘 is 
 their sum is divisible by 5. (1.5M)
 This completes the proof.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+bipartite graph.
+We know that a adjacency matrix for a graph G with n vertices is a n x n matrix such that
+
+A. = 1, if there is an edge from vertex i to vertex j
+” 0, otherwise
+
+As there are 6 vertices in given graph and edges are {a, 9}, {a, f}, {a, e}, {a,c}, {b, f}, {b, e}, {b,c}, {d,e},:
+{d, f}, {d, 9}, {d, c}; these edges contributes 1 in adjacency matrices and all other entries are 0. Thus,
+corresponding adjacency matrix is
+
+c]1101000 amok
 --- page 6 ---
 Q.3 b) Determine the chromatic number of the graph given below using Welch Powell’s algorithm
 and write steps of the algorithm.
@@ -8840,6 +9256,15 @@ Q.6 a) Let 𝐿 & 𝑀 be functions on set of natural numbers such that,
 i) (𝐿∘𝑀)(12)   ii) (𝑀∘𝐿)(12)   iii) (𝐿∘𝑀)(9)   iv) (𝑀∘𝐿)(9)
 Q.6 b) Define Planar graph. Show that following graphs are planar
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+1. (Lo M)(12) = L(M(12)) = L(2) =4 [1.5m]
+2. (Mo L)(12) = M(L(12)) = M(144) =4 [1.5m]
+3. (Lo M)(9) = L(M(9)) = L(4) = 16 [1.5m]
+
+4, (Mo L)(9) = M(L(9)) = M(81) = 1 [1.5m]
 --- page 13 ---
 Solution: A graph G is said to be planar if it can be drawn on a plane without cross-overs 2 M
 2 M
@@ -9120,6 +9545,15 @@ a n =2 +3   (1 mark)
 ii.
 6
 Page 4 of 20
+
+[Text in pictures on this page, read by OCR]
+Identity elementis @ € P(S),suchthat AAd = (A-—@)U(@-—A)=AUG=AVAE
+P(S). (2 Marks)
+
+Let inverse element of A € P(S) is B, then AAB = (A — B) U (B — A) = o, implies A—
+B= and B —A = @,i.e.B = A. Therefore inverse element of A is A itself.
+
+(2 Marks)
 --- page 5 ---
 uy uy vy
 v2
@@ -9223,6 +9657,49 @@ matrix of the same form.
 Let’s multiply two such matrices M(\alpha)(α) and (β), where \alphaα and \beta are two
 real numbers:
 Page 8 of 20
+
+[Text in pictures on this page, read by OCR]
+Let M be a set of mathematics students
+C be a set of computer science students
+B be a set of business course students
+
+na
+
+|MUCUB|= the set of students had taken at least one of these courses.
+
+|M|=64
+
+|C|=94
+
+|B|=58
+
+|MoB|=28 (1)
+
+IMoC|=26
+
+|CoB|=22
+
+IMABoC|=14
+
+By addition principle
+
+|MUCUB| = |[M|+]C]+/B]-|MaC|-|MoB]-|CoB]+|MaBoc|
+= 64+94+58-28-26-22+14 = 154.
+
+(a) Now number of students had taken none of these types of course
+
+= Total no. of students — No. of students who had taken (1)
+at least one type of course.
+
+(2)
+
+= 260-154 = 106
+
+(b) No. of students had taken only computer science
+= eMC IT ICN el tIMaBnC| (1)
+= 94-26-22+14 =
+
+:
 --- page 9 ---
 M(\alpha) \cdot M(\beta) = \begin{pmatrix} \cos(\alpha) & -\sin(\alpha) \\ \sin(\alpha) &
 \cos(\alpha) \end{pmatrix} \cdot \begin{pmatrix} \cos(\beta) & -\sin(\beta) \\ \sin(\beta)
@@ -9282,6 +9759,23 @@ ii.
 6
 8
 Page 10 of 20
+
+[Text in pictures on this page, read by OCR]
+QNoS5:
+
+P: You have to access the network. (1 Mark)
+Q: You can change your grade. (1 Mark)
+P..Q= Q (valid) (1 Mark)
+
+P(1 Mark) L (1 Mark) P.L= P(1 Mark)
+T T T
+T F T
+F T F
+F F F
+
+Hence argument is valid.
+
+ne:
 --- page 11 ---
 Given, the seeusvence polation %-
 An = BAn-| — 6AN-2D +0
@@ -9503,6 +9997,30 @@ i.
 6
 6
 Page 16 of 20
+
+[Text in pictures on this page, read by OCR]
+(i) (fog)(x) = = f{g0)}
+
+= (4x? +1 (1)
+= (4x? + i
+(ii) (gof)(x) = aN
+= x
+= aoe? +4 ”
+
+(iii) {(goh)of}(x) = [(goh){f(x)}]
+= (goh)(x")
+= gfh)}
+= g(7x - 2)
+= 4(7x°-2)? +1
+
+(iv) {go(hof)}(x) = g{(hof)(x)}
+= gfhif}
+= glhec)] (2)
+= g(7x*— 2)
+= A(7x°- 2)? +1
+Note :(goh)of = go(hof)
+
+(2)
 --- page 17 ---
 ii.
 iii.
@@ -9683,6 +10201,15 @@ a n =2 +3   (1 mark)
 ii.
 6
 Page 4 of 20
+
+[Text in pictures on this page, read by OCR]
+Identity elementis @ € P(S),suchthat AAd = (A-—@)U(@-—A)=AUG=AVAE
+P(S). (2 Marks)
+
+Let inverse element of A € P(S) is B, then AAB = (A — B) U (B — A) = o, implies A—
+B= and B —A = @,i.e.B = A. Therefore inverse element of A is A itself.
+
+(2 Marks)
 --- page 5 ---
 uy uy vy
 v2
@@ -9786,6 +10313,49 @@ matrix of the same form.
 Let’s multiply two such matrices M(\alpha)(α) and (β), where \alphaα and \beta are two
 real numbers:
 Page 8 of 20
+
+[Text in pictures on this page, read by OCR]
+Let M be a set of mathematics students
+C be a set of computer science students
+B be a set of business course students
+
+na
+
+|MUCUB|= the set of students had taken at least one of these courses.
+
+|M|=64
+
+|C|=94
+
+|B|=58
+
+|MoB|=28 (1)
+
+IMoC|=26
+
+|CoB|=22
+
+IMABoC|=14
+
+By addition principle
+
+|MUCUB| = |[M|+]C]+/B]-|MaC|-|MoB]-|CoB]+|MaBoc|
+= 64+94+58-28-26-22+14 = 154.
+
+(a) Now number of students had taken none of these types of course
+
+= Total no. of students — No. of students who had taken (1)
+at least one type of course.
+
+(2)
+
+= 260-154 = 106
+
+(b) No. of students had taken only computer science
+= eMC IT ICN el tIMaBnC| (1)
+= 94-26-22+14 =
+
+:
 --- page 9 ---
 M(\alpha) \cdot M(\beta) = \begin{pmatrix} \cos(\alpha) & -\sin(\alpha) \\ \sin(\alpha) &
 \cos(\alpha) \end{pmatrix} \cdot \begin{pmatrix} \cos(\beta) & -\sin(\beta) \\ \sin(\beta)
@@ -9845,6 +10415,23 @@ ii.
 6
 8
 Page 10 of 20
+
+[Text in pictures on this page, read by OCR]
+QNoS5:
+
+P: You have to access the network. (1 Mark)
+Q: You can change your grade. (1 Mark)
+P..Q= Q (valid) (1 Mark)
+
+P(1 Mark) L (1 Mark) P.L= P(1 Mark)
+T T T
+T F T
+F T F
+F F F
+
+Hence argument is valid.
+
+ne:
 --- page 11 ---
 Given, the seeusvence polation %-
 An = BAn-| — 6AN-2D +0
@@ -10066,6 +10653,30 @@ i.
 6
 6
 Page 16 of 20
+
+[Text in pictures on this page, read by OCR]
+(i) (fog)(x) = = f{g0)}
+
+= (4x? +1 (1)
+= (4x? + i
+(ii) (gof)(x) = aN
+= x
+= aoe? +4 ”
+
+(iii) {(goh)of}(x) = [(goh){f(x)}]
+= (goh)(x")
+= gfh)}
+= g(7x - 2)
+= 4(7x°-2)? +1
+
+(iv) {go(hof)}(x) = g{(hof)(x)}
+= gfhif}
+= glhec)] (2)
+= g(7x*— 2)
+= A(7x°- 2)? +1
+Note :(goh)of = go(hof)
+
+(2)
 --- page 17 ---
 ii.
 iii.
@@ -10246,6 +10857,15 @@ a n =2 +3   (1 mark)
 ii.
 6
 Page 4 of 20
+
+[Text in pictures on this page, read by OCR]
+Identity elementis @ € P(S),suchthat AAd = (A-—@)U(@-—A)=AUG=AVAE
+P(S). (2 Marks)
+
+Let inverse element of A € P(S) is B, then AAB = (A — B) U (B — A) = o, implies A—
+B= and B —A = @,i.e.B = A. Therefore inverse element of A is A itself.
+
+(2 Marks)
 --- page 5 ---
 uy uy vy
 v2
@@ -10349,6 +10969,49 @@ matrix of the same form.
 Let’s multiply two such matrices M(\alpha)(α) and (β), where \alphaα and \beta are two
 real numbers:
 Page 8 of 20
+
+[Text in pictures on this page, read by OCR]
+Let M be a set of mathematics students
+C be a set of computer science students
+B be a set of business course students
+
+na
+
+|MUCUB|= the set of students had taken at least one of these courses.
+
+|M|=64
+
+|C|=94
+
+|B|=58
+
+|MoB|=28 (1)
+
+IMoC|=26
+
+|CoB|=22
+
+IMABoC|=14
+
+By addition principle
+
+|MUCUB| = |[M|+]C]+/B]-|MaC|-|MoB]-|CoB]+|MaBoc|
+= 64+94+58-28-26-22+14 = 154.
+
+(a) Now number of students had taken none of these types of course
+
+= Total no. of students — No. of students who had taken (1)
+at least one type of course.
+
+(2)
+
+= 260-154 = 106
+
+(b) No. of students had taken only computer science
+= eMC IT ICN el tIMaBnC| (1)
+= 94-26-22+14 =
+
+:
 --- page 9 ---
 M(\alpha) \cdot M(\beta) = \begin{pmatrix} \cos(\alpha) & -\sin(\alpha) \\ \sin(\alpha) &
 \cos(\alpha) \end{pmatrix} \cdot \begin{pmatrix} \cos(\beta) & -\sin(\beta) \\ \sin(\beta)
@@ -10408,6 +11071,23 @@ ii.
 6
 8
 Page 10 of 20
+
+[Text in pictures on this page, read by OCR]
+QNoS5:
+
+P: You have to access the network. (1 Mark)
+Q: You can change your grade. (1 Mark)
+P..Q= Q (valid) (1 Mark)
+
+P(1 Mark) L (1 Mark) P.L= P(1 Mark)
+T T T
+T F T
+F T F
+F F F
+
+Hence argument is valid.
+
+ne:
 --- page 11 ---
 Given, the seeusvence polation %-
 An = BAn-| — 6AN-2D +0
@@ -10629,6 +11309,30 @@ i.
 6
 6
 Page 16 of 20
+
+[Text in pictures on this page, read by OCR]
+(i) (fog)(x) = = f{g0)}
+
+= (4x? +1 (1)
+= (4x? + i
+(ii) (gof)(x) = aN
+= x
+= aoe? +4 ”
+
+(iii) {(goh)of}(x) = [(goh){f(x)}]
+= (goh)(x")
+= gfh)}
+= g(7x - 2)
+= 4(7x°-2)? +1
+
+(iv) {go(hof)}(x) = g{(hof)(x)}
+= gfhif}
+= glhec)] (2)
+= g(7x*— 2)
+= A(7x°- 2)? +1
+Note :(goh)of = go(hof)
+
+(2)
 --- page 17 ---
 ii.
 iii.
@@ -10809,6 +11513,15 @@ a n =2 +3   (1 mark)
 ii.
 6
 Page 4 of 20
+
+[Text in pictures on this page, read by OCR]
+Identity elementis @ € P(S),suchthat AAd = (A-—@)U(@-—A)=AUG=AVAE
+P(S). (2 Marks)
+
+Let inverse element of A € P(S) is B, then AAB = (A — B) U (B — A) = o, implies A—
+B= and B —A = @,i.e.B = A. Therefore inverse element of A is A itself.
+
+(2 Marks)
 --- page 5 ---
 uy uy vy
 v2
@@ -10912,6 +11625,49 @@ matrix of the same form.
 Let’s multiply two such matrices M(\alpha)(α) and (β), where \alphaα and \beta are two
 real numbers:
 Page 8 of 20
+
+[Text in pictures on this page, read by OCR]
+Let M be a set of mathematics students
+C be a set of computer science students
+B be a set of business course students
+
+na
+
+|MUCUB|= the set of students had taken at least one of these courses.
+
+|M|=64
+
+|C|=94
+
+|B|=58
+
+|MoB|=28 (1)
+
+IMoC|=26
+
+|CoB|=22
+
+IMABoC|=14
+
+By addition principle
+
+|MUCUB| = |[M|+]C]+/B]-|MaC|-|MoB]-|CoB]+|MaBoc|
+= 64+94+58-28-26-22+14 = 154.
+
+(a) Now number of students had taken none of these types of course
+
+= Total no. of students — No. of students who had taken (1)
+at least one type of course.
+
+(2)
+
+= 260-154 = 106
+
+(b) No. of students had taken only computer science
+= eMC IT ICN el tIMaBnC| (1)
+= 94-26-22+14 =
+
+:
 --- page 9 ---
 M(\alpha) \cdot M(\beta) = \begin{pmatrix} \cos(\alpha) & -\sin(\alpha) \\ \sin(\alpha) &
 \cos(\alpha) \end{pmatrix} \cdot \begin{pmatrix} \cos(\beta) & -\sin(\beta) \\ \sin(\beta)
@@ -10971,6 +11727,23 @@ ii.
 6
 8
 Page 10 of 20
+
+[Text in pictures on this page, read by OCR]
+QNoS5:
+
+P: You have to access the network. (1 Mark)
+Q: You can change your grade. (1 Mark)
+P..Q= Q (valid) (1 Mark)
+
+P(1 Mark) L (1 Mark) P.L= P(1 Mark)
+T T T
+T F T
+F T F
+F F F
+
+Hence argument is valid.
+
+ne:
 --- page 11 ---
 Given, the seeusvence polation %-
 An = BAn-| — 6AN-2D +0
@@ -11192,6 +11965,30 @@ i.
 6
 6
 Page 16 of 20
+
+[Text in pictures on this page, read by OCR]
+(i) (fog)(x) = = f{g0)}
+
+= (4x? +1 (1)
+= (4x? + i
+(ii) (gof)(x) = aN
+= x
+= aoe? +4 ”
+
+(iii) {(goh)of}(x) = [(goh){f(x)}]
+= (goh)(x")
+= gfh)}
+= g(7x - 2)
+= 4(7x°-2)? +1
+
+(iv) {go(hof)}(x) = g{(hof)(x)}
+= gfhif}
+= glhec)] (2)
+= g(7x*— 2)
+= A(7x°- 2)? +1
+Note :(goh)of = go(hof)
+
+(2)
 --- page 17 ---
 ii.
 iii.
@@ -11372,6 +12169,15 @@ a n =2 +3   (1 mark)
 ii.
 6
 Page 4 of 20
+
+[Text in pictures on this page, read by OCR]
+Identity elementis @ € P(S),suchthat AAd = (A-—@)U(@-—A)=AUG=AVAE
+P(S). (2 Marks)
+
+Let inverse element of A € P(S) is B, then AAB = (A — B) U (B — A) = o, implies A—
+B= and B —A = @,i.e.B = A. Therefore inverse element of A is A itself.
+
+(2 Marks)
 --- page 5 ---
 uy uy vy
 v2
@@ -11475,6 +12281,49 @@ matrix of the same form.
 Let’s multiply two such matrices M(\alpha)(α) and (β), where \alphaα and \beta are two
 real numbers:
 Page 8 of 20
+
+[Text in pictures on this page, read by OCR]
+Let M be a set of mathematics students
+C be a set of computer science students
+B be a set of business course students
+
+na
+
+|MUCUB|= the set of students had taken at least one of these courses.
+
+|M|=64
+
+|C|=94
+
+|B|=58
+
+|MoB|=28 (1)
+
+IMoC|=26
+
+|CoB|=22
+
+IMABoC|=14
+
+By addition principle
+
+|MUCUB| = |[M|+]C]+/B]-|MaC|-|MoB]-|CoB]+|MaBoc|
+= 64+94+58-28-26-22+14 = 154.
+
+(a) Now number of students had taken none of these types of course
+
+= Total no. of students — No. of students who had taken (1)
+at least one type of course.
+
+(2)
+
+= 260-154 = 106
+
+(b) No. of students had taken only computer science
+= eMC IT ICN el tIMaBnC| (1)
+= 94-26-22+14 =
+
+:
 --- page 9 ---
 M(\alpha) \cdot M(\beta) = \begin{pmatrix} \cos(\alpha) & -\sin(\alpha) \\ \sin(\alpha) &
 \cos(\alpha) \end{pmatrix} \cdot \begin{pmatrix} \cos(\beta) & -\sin(\beta) \\ \sin(\beta)
@@ -11534,6 +12383,23 @@ ii.
 6
 8
 Page 10 of 20
+
+[Text in pictures on this page, read by OCR]
+QNoS5:
+
+P: You have to access the network. (1 Mark)
+Q: You can change your grade. (1 Mark)
+P..Q= Q (valid) (1 Mark)
+
+P(1 Mark) L (1 Mark) P.L= P(1 Mark)
+T T T
+T F T
+F T F
+F F F
+
+Hence argument is valid.
+
+ne:
 --- page 11 ---
 Given, the seeusvence polation %-
 An = BAn-| — 6AN-2D +0
@@ -11755,6 +12621,30 @@ i.
 6
 6
 Page 16 of 20
+
+[Text in pictures on this page, read by OCR]
+(i) (fog)(x) = = f{g0)}
+
+= (4x? +1 (1)
+= (4x? + i
+(ii) (gof)(x) = aN
+= x
+= aoe? +4 ”
+
+(iii) {(goh)of}(x) = [(goh){f(x)}]
+= (goh)(x")
+= gfh)}
+= g(7x - 2)
+= 4(7x°-2)? +1
+
+(iv) {go(hof)}(x) = g{(hof)(x)}
+= gfhif}
+= glhec)] (2)
+= g(7x*— 2)
+= A(7x°- 2)? +1
+Note :(goh)of = go(hof)
+
+(2)
 --- page 17 ---
 ii.
 iii.
@@ -11935,6 +12825,15 @@ a n =2 +3   (1 mark)
 ii.
 6
 Page 4 of 20
+
+[Text in pictures on this page, read by OCR]
+Identity elementis @ € P(S),suchthat AAd = (A-—@)U(@-—A)=AUG=AVAE
+P(S). (2 Marks)
+
+Let inverse element of A € P(S) is B, then AAB = (A — B) U (B — A) = o, implies A—
+B= and B —A = @,i.e.B = A. Therefore inverse element of A is A itself.
+
+(2 Marks)
 --- page 5 ---
 uy uy vy
 v2
@@ -12038,6 +12937,49 @@ matrix of the same form.
 Let’s multiply two such matrices M(\alpha)(α) and (β), where \alphaα and \beta are two
 real numbers:
 Page 8 of 20
+
+[Text in pictures on this page, read by OCR]
+Let M be a set of mathematics students
+C be a set of computer science students
+B be a set of business course students
+
+na
+
+|MUCUB|= the set of students had taken at least one of these courses.
+
+|M|=64
+
+|C|=94
+
+|B|=58
+
+|MoB|=28 (1)
+
+IMoC|=26
+
+|CoB|=22
+
+IMABoC|=14
+
+By addition principle
+
+|MUCUB| = |[M|+]C]+/B]-|MaC|-|MoB]-|CoB]+|MaBoc|
+= 64+94+58-28-26-22+14 = 154.
+
+(a) Now number of students had taken none of these types of course
+
+= Total no. of students — No. of students who had taken (1)
+at least one type of course.
+
+(2)
+
+= 260-154 = 106
+
+(b) No. of students had taken only computer science
+= eMC IT ICN el tIMaBnC| (1)
+= 94-26-22+14 =
+
+:
 --- page 9 ---
 M(\alpha) \cdot M(\beta) = \begin{pmatrix} \cos(\alpha) & -\sin(\alpha) \\ \sin(\alpha) &
 \cos(\alpha) \end{pmatrix} \cdot \begin{pmatrix} \cos(\beta) & -\sin(\beta) \\ \sin(\beta)
@@ -12097,6 +13039,23 @@ ii.
 6
 8
 Page 10 of 20
+
+[Text in pictures on this page, read by OCR]
+QNoS5:
+
+P: You have to access the network. (1 Mark)
+Q: You can change your grade. (1 Mark)
+P..Q= Q (valid) (1 Mark)
+
+P(1 Mark) L (1 Mark) P.L= P(1 Mark)
+T T T
+T F T
+F T F
+F F F
+
+Hence argument is valid.
+
+ne:
 --- page 11 ---
 Given, the seeusvence polation %-
 An = BAn-| — 6AN-2D +0
@@ -12318,6 +13277,30 @@ i.
 6
 6
 Page 16 of 20
+
+[Text in pictures on this page, read by OCR]
+(i) (fog)(x) = = f{g0)}
+
+= (4x? +1 (1)
+= (4x? + i
+(ii) (gof)(x) = aN
+= x
+= aoe? +4 ”
+
+(iii) {(goh)of}(x) = [(goh){f(x)}]
+= (goh)(x")
+= gfh)}
+= g(7x - 2)
+= 4(7x°-2)? +1
+
+(iv) {go(hof)}(x) = g{(hof)(x)}
+= gfhif}
+= glhec)] (2)
+= g(7x*— 2)
+= A(7x°- 2)? +1
+Note :(goh)of = go(hof)
+
+(2)
 --- page 17 ---
 ii.
 iii.
@@ -12498,6 +13481,15 @@ a n =2 +3   (1 mark)
 ii.
 6
 Page 4 of 20
+
+[Text in pictures on this page, read by OCR]
+Identity elementis @ € P(S),suchthat AAd = (A-—@)U(@-—A)=AUG=AVAE
+P(S). (2 Marks)
+
+Let inverse element of A € P(S) is B, then AAB = (A — B) U (B — A) = o, implies A—
+B= and B —A = @,i.e.B = A. Therefore inverse element of A is A itself.
+
+(2 Marks)
 --- page 5 ---
 uy uy vy
 v2
@@ -12601,6 +13593,49 @@ matrix of the same form.
 Let’s multiply two such matrices M(\alpha)(α) and (β), where \alphaα and \beta are two
 real numbers:
 Page 8 of 20
+
+[Text in pictures on this page, read by OCR]
+Let M be a set of mathematics students
+C be a set of computer science students
+B be a set of business course students
+
+na
+
+|MUCUB|= the set of students had taken at least one of these courses.
+
+|M|=64
+
+|C|=94
+
+|B|=58
+
+|MoB|=28 (1)
+
+IMoC|=26
+
+|CoB|=22
+
+IMABoC|=14
+
+By addition principle
+
+|MUCUB| = |[M|+]C]+/B]-|MaC|-|MoB]-|CoB]+|MaBoc|
+= 64+94+58-28-26-22+14 = 154.
+
+(a) Now number of students had taken none of these types of course
+
+= Total no. of students — No. of students who had taken (1)
+at least one type of course.
+
+(2)
+
+= 260-154 = 106
+
+(b) No. of students had taken only computer science
+= eMC IT ICN el tIMaBnC| (1)
+= 94-26-22+14 =
+
+:
 --- page 9 ---
 M(\alpha) \cdot M(\beta) = \begin{pmatrix} \cos(\alpha) & -\sin(\alpha) \\ \sin(\alpha) &
 \cos(\alpha) \end{pmatrix} \cdot \begin{pmatrix} \cos(\beta) & -\sin(\beta) \\ \sin(\beta)
@@ -12660,6 +13695,23 @@ ii.
 6
 8
 Page 10 of 20
+
+[Text in pictures on this page, read by OCR]
+QNoS5:
+
+P: You have to access the network. (1 Mark)
+Q: You can change your grade. (1 Mark)
+P..Q= Q (valid) (1 Mark)
+
+P(1 Mark) L (1 Mark) P.L= P(1 Mark)
+T T T
+T F T
+F T F
+F F F
+
+Hence argument is valid.
+
+ne:
 --- page 11 ---
 Given, the seeusvence polation %-
 An = BAn-| — 6AN-2D +0
@@ -12881,6 +13933,30 @@ i.
 6
 6
 Page 16 of 20
+
+[Text in pictures on this page, read by OCR]
+(i) (fog)(x) = = f{g0)}
+
+= (4x? +1 (1)
+= (4x? + i
+(ii) (gof)(x) = aN
+= x
+= aoe? +4 ”
+
+(iii) {(goh)of}(x) = [(goh){f(x)}]
+= (goh)(x")
+= gfh)}
+= g(7x - 2)
+= 4(7x°-2)? +1
+
+(iv) {go(hof)}(x) = g{(hof)(x)}
+= gfhif}
+= glhec)] (2)
+= g(7x*— 2)
+= A(7x°- 2)? +1
+Note :(goh)of = go(hof)
+
+(2)
 --- page 17 ---
 ii.
 iii.
@@ -13061,6 +14137,15 @@ a n =2 +3   (1 mark)
 ii.
 6
 Page 4 of 20
+
+[Text in pictures on this page, read by OCR]
+Identity elementis @ € P(S),suchthat AAd = (A-—@)U(@-—A)=AUG=AVAE
+P(S). (2 Marks)
+
+Let inverse element of A € P(S) is B, then AAB = (A — B) U (B — A) = o, implies A—
+B= and B —A = @,i.e.B = A. Therefore inverse element of A is A itself.
+
+(2 Marks)
 --- page 5 ---
 uy uy vy
 v2
@@ -13164,6 +14249,49 @@ matrix of the same form.
 Let’s multiply two such matrices M(\alpha)(α) and (β), where \alphaα and \beta are two
 real numbers:
 Page 8 of 20
+
+[Text in pictures on this page, read by OCR]
+Let M be a set of mathematics students
+C be a set of computer science students
+B be a set of business course students
+
+na
+
+|MUCUB|= the set of students had taken at least one of these courses.
+
+|M|=64
+
+|C|=94
+
+|B|=58
+
+|MoB|=28 (1)
+
+IMoC|=26
+
+|CoB|=22
+
+IMABoC|=14
+
+By addition principle
+
+|MUCUB| = |[M|+]C]+/B]-|MaC|-|MoB]-|CoB]+|MaBoc|
+= 64+94+58-28-26-22+14 = 154.
+
+(a) Now number of students had taken none of these types of course
+
+= Total no. of students — No. of students who had taken (1)
+at least one type of course.
+
+(2)
+
+= 260-154 = 106
+
+(b) No. of students had taken only computer science
+= eMC IT ICN el tIMaBnC| (1)
+= 94-26-22+14 =
+
+:
 --- page 9 ---
 M(\alpha) \cdot M(\beta) = \begin{pmatrix} \cos(\alpha) & -\sin(\alpha) \\ \sin(\alpha) &
 \cos(\alpha) \end{pmatrix} \cdot \begin{pmatrix} \cos(\beta) & -\sin(\beta) \\ \sin(\beta)
@@ -13223,6 +14351,23 @@ ii.
 6
 8
 Page 10 of 20
+
+[Text in pictures on this page, read by OCR]
+QNoS5:
+
+P: You have to access the network. (1 Mark)
+Q: You can change your grade. (1 Mark)
+P..Q= Q (valid) (1 Mark)
+
+P(1 Mark) L (1 Mark) P.L= P(1 Mark)
+T T T
+T F T
+F T F
+F F F
+
+Hence argument is valid.
+
+ne:
 --- page 11 ---
 Given, the seeusvence polation %-
 An = BAn-| — 6AN-2D +0
@@ -13444,6 +14589,30 @@ i.
 6
 6
 Page 16 of 20
+
+[Text in pictures on this page, read by OCR]
+(i) (fog)(x) = = f{g0)}
+
+= (4x? +1 (1)
+= (4x? + i
+(ii) (gof)(x) = aN
+= x
+= aoe? +4 ”
+
+(iii) {(goh)of}(x) = [(goh){f(x)}]
+= (goh)(x")
+= gfh)}
+= g(7x - 2)
+= 4(7x°-2)? +1
+
+(iv) {go(hof)}(x) = g{(hof)(x)}
+= gfhif}
+= glhec)] (2)
+= g(7x*— 2)
+= A(7x°- 2)? +1
+Note :(goh)of = go(hof)
+
+(2)
 --- page 17 ---
 ii.
 iii.
@@ -13624,6 +14793,15 @@ a n =2 +3   (1 mark)
 ii.
 6
 Page 4 of 20
+
+[Text in pictures on this page, read by OCR]
+Identity elementis @ € P(S),suchthat AAd = (A-—@)U(@-—A)=AUG=AVAE
+P(S). (2 Marks)
+
+Let inverse element of A € P(S) is B, then AAB = (A — B) U (B — A) = o, implies A—
+B= and B —A = @,i.e.B = A. Therefore inverse element of A is A itself.
+
+(2 Marks)
 --- page 5 ---
 uy uy vy
 v2
@@ -13727,6 +14905,49 @@ matrix of the same form.
 Let’s multiply two such matrices M(\alpha)(α) and (β), where \alphaα and \beta are two
 real numbers:
 Page 8 of 20
+
+[Text in pictures on this page, read by OCR]
+Let M be a set of mathematics students
+C be a set of computer science students
+B be a set of business course students
+
+na
+
+|MUCUB|= the set of students had taken at least one of these courses.
+
+|M|=64
+
+|C|=94
+
+|B|=58
+
+|MoB|=28 (1)
+
+IMoC|=26
+
+|CoB|=22
+
+IMABoC|=14
+
+By addition principle
+
+|MUCUB| = |[M|+]C]+/B]-|MaC|-|MoB]-|CoB]+|MaBoc|
+= 64+94+58-28-26-22+14 = 154.
+
+(a) Now number of students had taken none of these types of course
+
+= Total no. of students — No. of students who had taken (1)
+at least one type of course.
+
+(2)
+
+= 260-154 = 106
+
+(b) No. of students had taken only computer science
+= eMC IT ICN el tIMaBnC| (1)
+= 94-26-22+14 =
+
+:
 --- page 9 ---
 M(\alpha) \cdot M(\beta) = \begin{pmatrix} \cos(\alpha) & -\sin(\alpha) \\ \sin(\alpha) &
 \cos(\alpha) \end{pmatrix} \cdot \begin{pmatrix} \cos(\beta) & -\sin(\beta) \\ \sin(\beta)
@@ -13786,6 +15007,23 @@ ii.
 6
 8
 Page 10 of 20
+
+[Text in pictures on this page, read by OCR]
+QNoS5:
+
+P: You have to access the network. (1 Mark)
+Q: You can change your grade. (1 Mark)
+P..Q= Q (valid) (1 Mark)
+
+P(1 Mark) L (1 Mark) P.L= P(1 Mark)
+T T T
+T F T
+F T F
+F F F
+
+Hence argument is valid.
+
+ne:
 --- page 11 ---
 Given, the seeusvence polation %-
 An = BAn-| — 6AN-2D +0
@@ -14007,6 +15245,30 @@ i.
 6
 6
 Page 16 of 20
+
+[Text in pictures on this page, read by OCR]
+(i) (fog)(x) = = f{g0)}
+
+= (4x? +1 (1)
+= (4x? + i
+(ii) (gof)(x) = aN
+= x
+= aoe? +4 ”
+
+(iii) {(goh)of}(x) = [(goh){f(x)}]
+= (goh)(x")
+= gfh)}
+= g(7x - 2)
+= 4(7x°-2)? +1
+
+(iv) {go(hof)}(x) = g{(hof)(x)}
+= gfhif}
+= glhec)] (2)
+= g(7x*— 2)
+= A(7x°- 2)? +1
+Note :(goh)of = go(hof)
+
+(2)
 --- page 17 ---
 ii.
 iii.
@@ -14111,6 +15373,12 @@ of at most   .
 2
 SOLUTION:
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+e Reflexive: Yes, a line is parallel to itself.
+© Symmetric: Yes, if x is parallel to y, then y is parallel to x.
+
+© Transitive: Yes, if x is parallel to y and y is parallel to z, then z is parallel to z.
 --- page 2 ---
 2. Calculate the diagonal of each smaller square:
 
@@ -14168,6 +15436,30 @@ SOLUTION:
 (1m)
 (1m)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Let's take three integers a, b, c and check if the associative property holds for subtraction.
+1. Compute the left-hand side:
+(a—b)—e
+2. Compute the right-hand side:
+
+a—(b—c)
+
+Example Calculation
+Let's take specific integers for clarity. Leta — 5, b — 3, andc — 2.
+
+1. Left-hand side:
+(5—3)-2—-2—-2-0
+2. Right-hand side:
+5—(3—2)—5—-1=—4
+Conclusion
+Since:
+(5—3)—2=—0 and 5—(3—2)—4
+we find that:
+O74
+Final Statement
+
+Therefore, the set of integers does not satisfy the associative property under subtraction.
 --- page 4 ---
 (1m)
 b.
@@ -14180,6 +15472,20 @@ SOLUTION
 (1m)
 ii) Determine whether the following graph is bi-partite. Justify your answer.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Next, let's consider the degree of the vertex with degree 6. A graph with only 4 vertices means each
+vertex can have at most degree 3 (since a vertex can only be connected to 3 other vertices in a graph
+
+with 4 total vertices),
+
+However, one of the vertices is said to have degree 6, which is impossible because, with only 3 other
+vertices available, no vertex in a graph with 4 vertices can have a degree greater than 3.
+Conclusion:
+
+There is no graph with 4 vertices that can have the specified degrees 1, 1,2, 6. The degree 6
+
+requirement is impossible for a graph with only 4 vertices. Hence, no such graph exists,
 --- page 5 ---
 V, = } A, D J (1m)
 ~ V ( Vo = p &
@@ -14360,6 +15666,27 @@ come second.
 Thus, if Carlo won the competition, then Sergio didn’t come third.”
 SOLUTION:
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+* Element 5:
+* 5+5=4
+© 5+5+5=3
+© 5+5+59+5=2
+© 54+59+5+5+5=1
+
+® 545454+54+54+5=0
+
+This generates G — {0,1,2,3,4, 5}.
+Since both 1 and 5 can generate all elements of G, the graup is cyclic.
+
+iv) Find the Order of Elements 2 and 3
+The order of an element is the smallest positive integer m such thatg + m= (0 mod 6.
+* Order of 2:
+© 242=4
+© 24242=0- Orderis 3.
+* Order of 3:
+
+* $345 =0 - Order is 2,
 --- page 11 ---
 Since the pres in lat column
 ow het
@@ -14453,6 +15780,47 @@ A =  1,2,3,4,5,6  and R be a relation on A .
 Divisor of 24: ={1,2,3,4,6,8,12,24}
 (2m)
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+10.
+
+11.
+
+. Edge I-J (Weight: 1): Add this edge.
+
+Edge I-K (Weight: 1): Add this edge.
+
+. Edge C-G (Weight: 2): Add this edge.
+
+Edge C-E (Weight: 2): Add this edge.
+Edge C-D (Weight: 2): Add this edge.
+Edge G-I (Weight: 2): Add this edge.
+
+Edge A-B (Weight: 6): Add this edge.
+Edge A-C (Weight: 6): Add this edge.
+Edge F-E (Weight: 4): Add this edge.
+Edge J-L (Weight: 8): Add this edge.
+
+Edge F-H (Weight: 10): Add this edge.
+
+First, we need to find which sums x + y are divisors of 24. The divisors of 24 are:
+
+{1, 2, 3,4, 6,8, 12, 24}.
+
+We will now calculate a + y for all pairs (x, y) from A = {1, 2,3, 4,5, 6}, and check whether the
+sum is a divisor of 24.
+
+a\y 1 2 3 4 5 6
+1 2 3 4 5 6 7
+2 3 4 5 6 7 8
+3 4 5 6 7 8 9
+4 5 6 7 8 9 10
+5 6 7 8 9 10 "
+6 7 8 9 10 " 12
+
+Next, we mark pairs where the sum is a divisor of 24. These sums are:
+
+{2,3, 4,6, 8, 12}.
 --- page 15 ---
 The corresponding relational matrix is:
 
@@ -14701,6 +16069,12 @@ of at most   .
 2
 SOLUTION:
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+e Reflexive: Yes, a line is parallel to itself.
+© Symmetric: Yes, if x is parallel to y, then y is parallel to x.
+
+© Transitive: Yes, if x is parallel to y and y is parallel to z, then z is parallel to z.
 --- page 2 ---
 2. Calculate the diagonal of each smaller square:
 
@@ -14758,6 +16132,30 @@ SOLUTION:
 (1m)
 (1m)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Let's take three integers a, b, c and check if the associative property holds for subtraction.
+1. Compute the left-hand side:
+(a—b)—e
+2. Compute the right-hand side:
+
+a—(b—c)
+
+Example Calculation
+Let's take specific integers for clarity. Leta — 5, b — 3, andc — 2.
+
+1. Left-hand side:
+(5—3)-2—-2—-2-0
+2. Right-hand side:
+5—(3—2)—5—-1=—4
+Conclusion
+Since:
+(5—3)—2=—0 and 5—(3—2)—4
+we find that:
+O74
+Final Statement
+
+Therefore, the set of integers does not satisfy the associative property under subtraction.
 --- page 4 ---
 (1m)
 b.
@@ -14770,6 +16168,20 @@ SOLUTION
 (1m)
 ii) Determine whether the following graph is bi-partite. Justify your answer.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Next, let's consider the degree of the vertex with degree 6. A graph with only 4 vertices means each
+vertex can have at most degree 3 (since a vertex can only be connected to 3 other vertices in a graph
+
+with 4 total vertices),
+
+However, one of the vertices is said to have degree 6, which is impossible because, with only 3 other
+vertices available, no vertex in a graph with 4 vertices can have a degree greater than 3.
+Conclusion:
+
+There is no graph with 4 vertices that can have the specified degrees 1, 1,2, 6. The degree 6
+
+requirement is impossible for a graph with only 4 vertices. Hence, no such graph exists,
 --- page 5 ---
 V, = } A, D J (1m)
 ~ V ( Vo = p &
@@ -14950,6 +16362,27 @@ come second.
 Thus, if Carlo won the competition, then Sergio didn’t come third.”
 SOLUTION:
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+* Element 5:
+* 5+5=4
+© 5+5+5=3
+© 5+5+59+5=2
+© 54+59+5+5+5=1
+
+® 545454+54+54+5=0
+
+This generates G — {0,1,2,3,4, 5}.
+Since both 1 and 5 can generate all elements of G, the graup is cyclic.
+
+iv) Find the Order of Elements 2 and 3
+The order of an element is the smallest positive integer m such thatg + m= (0 mod 6.
+* Order of 2:
+© 242=4
+© 24242=0- Orderis 3.
+* Order of 3:
+
+* $345 =0 - Order is 2,
 --- page 11 ---
 Since the pres in lat column
 ow het
@@ -15043,6 +16476,47 @@ A =  1,2,3,4,5,6  and R be a relation on A .
 Divisor of 24: ={1,2,3,4,6,8,12,24}
 (2m)
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+10.
+
+11.
+
+. Edge I-J (Weight: 1): Add this edge.
+
+Edge I-K (Weight: 1): Add this edge.
+
+. Edge C-G (Weight: 2): Add this edge.
+
+Edge C-E (Weight: 2): Add this edge.
+Edge C-D (Weight: 2): Add this edge.
+Edge G-I (Weight: 2): Add this edge.
+
+Edge A-B (Weight: 6): Add this edge.
+Edge A-C (Weight: 6): Add this edge.
+Edge F-E (Weight: 4): Add this edge.
+Edge J-L (Weight: 8): Add this edge.
+
+Edge F-H (Weight: 10): Add this edge.
+
+First, we need to find which sums x + y are divisors of 24. The divisors of 24 are:
+
+{1, 2, 3,4, 6,8, 12, 24}.
+
+We will now calculate a + y for all pairs (x, y) from A = {1, 2,3, 4,5, 6}, and check whether the
+sum is a divisor of 24.
+
+a\y 1 2 3 4 5 6
+1 2 3 4 5 6 7
+2 3 4 5 6 7 8
+3 4 5 6 7 8 9
+4 5 6 7 8 9 10
+5 6 7 8 9 10 "
+6 7 8 9 10 " 12
+
+Next, we mark pairs where the sum is a divisor of 24. These sums are:
+
+{2,3, 4,6, 8, 12}.
 --- page 15 ---
 The corresponding relational matrix is:
 
@@ -15251,7 +16725,7 @@ FR ORR 9 CROCK RK
 - Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Re-Exam/BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY) - 7010/Discrete Mathematics/ANS_Re-Exam_Discrete Mathematics(702BS0C047)_Semester III_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (20 pages), mean OCR confidence 71.1
-- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -15491,6 +16965,51 @@ i. (a) Closure axiom :−   All the elements of composition table   6
 lies in G, it follows closure axiom.
 02 Marks
 Page 8 of 20
+
+[Text in pictures on this page, read by OCR]
+Here |N| = 25, |T| = 26, |F| = 26, INA T|=9, [TOF = 11, NAF =8, |NATOF|=3
+
+(a) By addition principle,
+=25+26+26-9-11-8+3 =52
+
+(b) --3 read all three magazine.
+“. 11-3 = 8 read N & T but not all three magazine
+and 9-3 = 6 read N & F but not all three magazines
+and 8 —- 3 = 5 read F & T but not all three magazines
+
+No. of people read only
+N=|N|-|NOF|-|NOT|+|INQTOP|
+
+=25-9-11+3 (2\
+=8 Vay
+No. of people read only T (S 8
+
+=|T)-|TOAN|-|TOFI+|INOTOFP
+=26-11-8+3
+
+=10
+
+No. of people read only F = |F| — |F A T|-|FAN|+|INATOFP|
+=26-9-8+3 =12
+
+No. of people read no magazine at all = 60 - 52 =8
+
+(c) No. of people read only one magazine = 8 + 10 + 12
+= 30
+
+(1)
+
+(2)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
 --- page 9 ---
 (b) Associativity : − For a, b, c ∈ G
 a + 6 (b + 6 c) = (a + 6 b) + 6 c   (from table)   01 Mark
@@ -15668,6 +17187,44 @@ steps)
 5.   20
 6
 Page 15 of 20
+
+[Text in pictures on this page, read by OCR]
+To prove that f is injective, assume f(x ,) = f (a2) for some x}, 2 © IR. We need to showt
+w= #2.
+
+2Qr,;-3 ax.—3
+
+5a,;—-7 5a2.—7
+
+f (x1) = (2) =
+Cross-multiply to eliminate the denominators:
+
+(2x, — 3)(5x2 — 7) = (22 — 3)(5a — 7) (2)
+Expand both sides:
+
+10xyr2 — 14a, — 15x + 21 = Wary — 142 — 15a, +21
+Simplify the equation:
+—14z, — 1l5zq — — 1422 — 152,
+
+Rearrange terms:
+
+14zq — 15rq = 14x, — 152,
+
+—% = —-2
+Thus, 2 = <2, proving that f is injective.
+Let f(x) = y:
+22-3
+bo?
+
+Multiply both sides by 5a — 7 to get:
+
+2x — 3 = y(5x—7)
+Expand the right-hand side:
+
+Qe — 3 = Szy — Ty (2)
+Rearrange the equation to solve for 2:
+
+Qe — Say — —Ty +3
 --- page 16 ---
 Factor out x:
 2(2—5y) =3—Ty
@@ -15768,7 +17325,7 @@ Page 20 of 20
 - Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Re-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047/Discrete Mathematics/ANS_Re-Exam_Discrete Mathematics(702BS0C047)_Semester III_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (20 pages), mean OCR confidence 71.1
-- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -16008,6 +17565,51 @@ i. (a) Closure axiom :−   All the elements of composition table   6
 lies in G, it follows closure axiom.
 02 Marks
 Page 8 of 20
+
+[Text in pictures on this page, read by OCR]
+Here |N| = 25, |T| = 26, |F| = 26, INA T|=9, [TOF = 11, NAF =8, |NATOF|=3
+
+(a) By addition principle,
+=25+26+26-9-11-8+3 =52
+
+(b) --3 read all three magazine.
+“. 11-3 = 8 read N & T but not all three magazine
+and 9-3 = 6 read N & F but not all three magazines
+and 8 —- 3 = 5 read F & T but not all three magazines
+
+No. of people read only
+N=|N|-|NOF|-|NOT|+|INQTOP|
+
+=25-9-11+3 (2\
+=8 Vay
+No. of people read only T (S 8
+
+=|T)-|TOAN|-|TOFI+|INOTOFP
+=26-11-8+3
+
+=10
+
+No. of people read only F = |F| — |F A T|-|FAN|+|INATOFP|
+=26-9-8+3 =12
+
+No. of people read no magazine at all = 60 - 52 =8
+
+(c) No. of people read only one magazine = 8 + 10 + 12
+= 30
+
+(1)
+
+(2)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
 --- page 9 ---
 (b) Associativity : − For a, b, c ∈ G
 a + 6 (b + 6 c) = (a + 6 b) + 6 c   (from table)   01 Mark
@@ -16185,6 +17787,44 @@ steps)
 5.   20
 6
 Page 15 of 20
+
+[Text in pictures on this page, read by OCR]
+To prove that f is injective, assume f(x ,) = f (a2) for some x}, 2 © IR. We need to showt
+w= #2.
+
+2Qr,;-3 ax.—3
+
+5a,;—-7 5a2.—7
+
+f (x1) = (2) =
+Cross-multiply to eliminate the denominators:
+
+(2x, — 3)(5x2 — 7) = (22 — 3)(5a — 7) (2)
+Expand both sides:
+
+10xyr2 — 14a, — 15x + 21 = Wary — 142 — 15a, +21
+Simplify the equation:
+—14z, — 1l5zq — — 1422 — 152,
+
+Rearrange terms:
+
+14zq — 15rq = 14x, — 152,
+
+—% = —-2
+Thus, 2 = <2, proving that f is injective.
+Let f(x) = y:
+22-3
+bo?
+
+Multiply both sides by 5a — 7 to get:
+
+2x — 3 = y(5x—7)
+Expand the right-hand side:
+
+Qe — 3 = Szy — Ty (2)
+Rearrange the equation to solve for 2:
+
+Qe — Say — —Ty +3
 --- page 16 ---
 Factor out x:
 2(2—5y) =3—Ty
@@ -16285,7 +17925,7 @@ Page 20 of 20
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/BTech_AIDS_7056/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (20 pages), mean OCR confidence 71.1
-- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -16525,6 +18165,51 @@ i. (a) Closure axiom :−   All the elements of composition table   6
 lies in G, it follows closure axiom.
 02 Marks
 Page 8 of 20
+
+[Text in pictures on this page, read by OCR]
+Here |N| = 25, |T| = 26, |F| = 26, INA T|=9, [TOF = 11, NAF =8, |NATOF|=3
+
+(a) By addition principle,
+=25+26+26-9-11-8+3 =52
+
+(b) --3 read all three magazine.
+“. 11-3 = 8 read N & T but not all three magazine
+and 9-3 = 6 read N & F but not all three magazines
+and 8 —- 3 = 5 read F & T but not all three magazines
+
+No. of people read only
+N=|N|-|NOF|-|NOT|+|INQTOP|
+
+=25-9-11+3 (2\
+=8 Vay
+No. of people read only T (S 8
+
+=|T)-|TOAN|-|TOFI+|INOTOFP
+=26-11-8+3
+
+=10
+
+No. of people read only F = |F| — |F A T|-|FAN|+|INATOFP|
+=26-9-8+3 =12
+
+No. of people read no magazine at all = 60 - 52 =8
+
+(c) No. of people read only one magazine = 8 + 10 + 12
+= 30
+
+(1)
+
+(2)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
 --- page 9 ---
 (b) Associativity : − For a, b, c ∈ G
 a + 6 (b + 6 c) = (a + 6 b) + 6 c   (from table)   01 Mark
@@ -16702,6 +18387,44 @@ steps)
 5.   20
 6
 Page 15 of 20
+
+[Text in pictures on this page, read by OCR]
+To prove that f is injective, assume f(x ,) = f (a2) for some x}, 2 © IR. We need to showt
+w= #2.
+
+2Qr,;-3 ax.—3
+
+5a,;—-7 5a2.—7
+
+f (x1) = (2) =
+Cross-multiply to eliminate the denominators:
+
+(2x, — 3)(5x2 — 7) = (22 — 3)(5a — 7) (2)
+Expand both sides:
+
+10xyr2 — 14a, — 15x + 21 = Wary — 142 — 15a, +21
+Simplify the equation:
+—14z, — 1l5zq — — 1422 — 152,
+
+Rearrange terms:
+
+14zq — 15rq = 14x, — 152,
+
+—% = —-2
+Thus, 2 = <2, proving that f is injective.
+Let f(x) = y:
+22-3
+bo?
+
+Multiply both sides by 5a — 7 to get:
+
+2x — 3 = y(5x—7)
+Expand the right-hand side:
+
+Qe — 3 = Szy — Ty (2)
+Rearrange the equation to solve for 2:
+
+Qe — Say — —Ty +3
 --- page 16 ---
 Factor out x:
 2(2—5y) =3—Ty
@@ -16802,7 +18525,7 @@ Page 20 of 20
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/BTech_AIML_7053/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (20 pages), mean OCR confidence 71.1
-- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -17042,6 +18765,51 @@ i. (a) Closure axiom :−   All the elements of composition table   6
 lies in G, it follows closure axiom.
 02 Marks
 Page 8 of 20
+
+[Text in pictures on this page, read by OCR]
+Here |N| = 25, |T| = 26, |F| = 26, INA T|=9, [TOF = 11, NAF =8, |NATOF|=3
+
+(a) By addition principle,
+=25+26+26-9-11-8+3 =52
+
+(b) --3 read all three magazine.
+“. 11-3 = 8 read N & T but not all three magazine
+and 9-3 = 6 read N & F but not all three magazines
+and 8 —- 3 = 5 read F & T but not all three magazines
+
+No. of people read only
+N=|N|-|NOF|-|NOT|+|INQTOP|
+
+=25-9-11+3 (2\
+=8 Vay
+No. of people read only T (S 8
+
+=|T)-|TOAN|-|TOFI+|INOTOFP
+=26-11-8+3
+
+=10
+
+No. of people read only F = |F| — |F A T|-|FAN|+|INATOFP|
+=26-9-8+3 =12
+
+No. of people read no magazine at all = 60 - 52 =8
+
+(c) No. of people read only one magazine = 8 + 10 + 12
+= 30
+
+(1)
+
+(2)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
 --- page 9 ---
 (b) Associativity : − For a, b, c ∈ G
 a + 6 (b + 6 c) = (a + 6 b) + 6 c   (from table)   01 Mark
@@ -17219,6 +18987,44 @@ steps)
 5.   20
 6
 Page 15 of 20
+
+[Text in pictures on this page, read by OCR]
+To prove that f is injective, assume f(x ,) = f (a2) for some x}, 2 © IR. We need to showt
+w= #2.
+
+2Qr,;-3 ax.—3
+
+5a,;—-7 5a2.—7
+
+f (x1) = (2) =
+Cross-multiply to eliminate the denominators:
+
+(2x, — 3)(5x2 — 7) = (22 — 3)(5a — 7) (2)
+Expand both sides:
+
+10xyr2 — 14a, — 15x + 21 = Wary — 142 — 15a, +21
+Simplify the equation:
+—14z, — 1l5zq — — 1422 — 152,
+
+Rearrange terms:
+
+14zq — 15rq = 14x, — 152,
+
+—% = —-2
+Thus, 2 = <2, proving that f is injective.
+Let f(x) = y:
+22-3
+bo?
+
+Multiply both sides by 5a — 7 to get:
+
+2x — 3 = y(5x—7)
+Expand the right-hand side:
+
+Qe — 3 = Szy — Ty (2)
+Rearrange the equation to solve for 2:
+
+Qe — Say — —Ty +3
 --- page 16 ---
 Factor out x:
 2(2—5y) =3—Ty
@@ -17319,7 +19125,7 @@ Page 20 of 20
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/BTech_AI_7012/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (20 pages), mean OCR confidence 71.1
-- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -17559,6 +19365,51 @@ i. (a) Closure axiom :−   All the elements of composition table   6
 lies in G, it follows closure axiom.
 02 Marks
 Page 8 of 20
+
+[Text in pictures on this page, read by OCR]
+Here |N| = 25, |T| = 26, |F| = 26, INA T|=9, [TOF = 11, NAF =8, |NATOF|=3
+
+(a) By addition principle,
+=25+26+26-9-11-8+3 =52
+
+(b) --3 read all three magazine.
+“. 11-3 = 8 read N & T but not all three magazine
+and 9-3 = 6 read N & F but not all three magazines
+and 8 —- 3 = 5 read F & T but not all three magazines
+
+No. of people read only
+N=|N|-|NOF|-|NOT|+|INQTOP|
+
+=25-9-11+3 (2\
+=8 Vay
+No. of people read only T (S 8
+
+=|T)-|TOAN|-|TOFI+|INOTOFP
+=26-11-8+3
+
+=10
+
+No. of people read only F = |F| — |F A T|-|FAN|+|INATOFP|
+=26-9-8+3 =12
+
+No. of people read no magazine at all = 60 - 52 =8
+
+(c) No. of people read only one magazine = 8 + 10 + 12
+= 30
+
+(1)
+
+(2)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
 --- page 9 ---
 (b) Associativity : − For a, b, c ∈ G
 a + 6 (b + 6 c) = (a + 6 b) + 6 c   (from table)   01 Mark
@@ -17736,6 +19587,44 @@ steps)
 5.   20
 6
 Page 15 of 20
+
+[Text in pictures on this page, read by OCR]
+To prove that f is injective, assume f(x ,) = f (a2) for some x}, 2 © IR. We need to showt
+w= #2.
+
+2Qr,;-3 ax.—3
+
+5a,;—-7 5a2.—7
+
+f (x1) = (2) =
+Cross-multiply to eliminate the denominators:
+
+(2x, — 3)(5x2 — 7) = (22 — 3)(5a — 7) (2)
+Expand both sides:
+
+10xyr2 — 14a, — 15x + 21 = Wary — 142 — 15a, +21
+Simplify the equation:
+—14z, — 1l5zq — — 1422 — 152,
+
+Rearrange terms:
+
+14zq — 15rq = 14x, — 152,
+
+—% = —-2
+Thus, 2 = <2, proving that f is injective.
+Let f(x) = y:
+22-3
+bo?
+
+Multiply both sides by 5a — 7 to get:
+
+2x — 3 = y(5x—7)
+Expand the right-hand side:
+
+Qe — 3 = Szy — Ty (2)
+Rearrange the equation to solve for 2:
+
+Qe — Say — —Ty +3
 --- page 16 ---
 Factor out x:
 2(2—5y) =3—Ty
@@ -17836,7 +19725,7 @@ Page 20 of 20
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/BTech_CSE_DS_7057/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (20 pages), mean OCR confidence 71.1
-- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -18076,6 +19965,51 @@ i. (a) Closure axiom :−   All the elements of composition table   6
 lies in G, it follows closure axiom.
 02 Marks
 Page 8 of 20
+
+[Text in pictures on this page, read by OCR]
+Here |N| = 25, |T| = 26, |F| = 26, INA T|=9, [TOF = 11, NAF =8, |NATOF|=3
+
+(a) By addition principle,
+=25+26+26-9-11-8+3 =52
+
+(b) --3 read all three magazine.
+“. 11-3 = 8 read N & T but not all three magazine
+and 9-3 = 6 read N & F but not all three magazines
+and 8 —- 3 = 5 read F & T but not all three magazines
+
+No. of people read only
+N=|N|-|NOF|-|NOT|+|INQTOP|
+
+=25-9-11+3 (2\
+=8 Vay
+No. of people read only T (S 8
+
+=|T)-|TOAN|-|TOFI+|INOTOFP
+=26-11-8+3
+
+=10
+
+No. of people read only F = |F| — |F A T|-|FAN|+|INATOFP|
+=26-9-8+3 =12
+
+No. of people read no magazine at all = 60 - 52 =8
+
+(c) No. of people read only one magazine = 8 + 10 + 12
+= 30
+
+(1)
+
+(2)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
 --- page 9 ---
 (b) Associativity : − For a, b, c ∈ G
 a + 6 (b + 6 c) = (a + 6 b) + 6 c   (from table)   01 Mark
@@ -18253,6 +20187,44 @@ steps)
 5.   20
 6
 Page 15 of 20
+
+[Text in pictures on this page, read by OCR]
+To prove that f is injective, assume f(x ,) = f (a2) for some x}, 2 © IR. We need to showt
+w= #2.
+
+2Qr,;-3 ax.—3
+
+5a,;—-7 5a2.—7
+
+f (x1) = (2) =
+Cross-multiply to eliminate the denominators:
+
+(2x, — 3)(5x2 — 7) = (22 — 3)(5a — 7) (2)
+Expand both sides:
+
+10xyr2 — 14a, — 15x + 21 = Wary — 142 — 15a, +21
+Simplify the equation:
+—14z, — 1l5zq — — 1422 — 152,
+
+Rearrange terms:
+
+14zq — 15rq = 14x, — 152,
+
+—% = —-2
+Thus, 2 = <2, proving that f is injective.
+Let f(x) = y:
+22-3
+bo?
+
+Multiply both sides by 5a — 7 to get:
+
+2x — 3 = y(5x—7)
+Expand the right-hand side:
+
+Qe — 3 = Szy — Ty (2)
+Rearrange the equation to solve for 2:
+
+Qe — Say — —Ty +3
 --- page 16 ---
 Factor out x:
 2(2—5y) =3—Ty
@@ -18353,7 +20325,7 @@ Page 20 of 20
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/BTech_Computer_7002/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (20 pages), mean OCR confidence 71.1
-- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -18593,6 +20565,51 @@ i. (a) Closure axiom :−   All the elements of composition table   6
 lies in G, it follows closure axiom.
 02 Marks
 Page 8 of 20
+
+[Text in pictures on this page, read by OCR]
+Here |N| = 25, |T| = 26, |F| = 26, INA T|=9, [TOF = 11, NAF =8, |NATOF|=3
+
+(a) By addition principle,
+=25+26+26-9-11-8+3 =52
+
+(b) --3 read all three magazine.
+“. 11-3 = 8 read N & T but not all three magazine
+and 9-3 = 6 read N & F but not all three magazines
+and 8 —- 3 = 5 read F & T but not all three magazines
+
+No. of people read only
+N=|N|-|NOF|-|NOT|+|INQTOP|
+
+=25-9-11+3 (2\
+=8 Vay
+No. of people read only T (S 8
+
+=|T)-|TOAN|-|TOFI+|INOTOFP
+=26-11-8+3
+
+=10
+
+No. of people read only F = |F| — |F A T|-|FAN|+|INATOFP|
+=26-9-8+3 =12
+
+No. of people read no magazine at all = 60 - 52 =8
+
+(c) No. of people read only one magazine = 8 + 10 + 12
+= 30
+
+(1)
+
+(2)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
 --- page 9 ---
 (b) Associativity : − For a, b, c ∈ G
 a + 6 (b + 6 c) = (a + 6 b) + 6 c   (from table)   01 Mark
@@ -18770,6 +20787,44 @@ steps)
 5.   20
 6
 Page 15 of 20
+
+[Text in pictures on this page, read by OCR]
+To prove that f is injective, assume f(x ,) = f (a2) for some x}, 2 © IR. We need to showt
+w= #2.
+
+2Qr,;-3 ax.—3
+
+5a,;—-7 5a2.—7
+
+f (x1) = (2) =
+Cross-multiply to eliminate the denominators:
+
+(2x, — 3)(5x2 — 7) = (22 — 3)(5a — 7) (2)
+Expand both sides:
+
+10xyr2 — 14a, — 15x + 21 = Wary — 142 — 15a, +21
+Simplify the equation:
+—14z, — 1l5zq — — 1422 — 152,
+
+Rearrange terms:
+
+14zq — 15rq = 14x, — 152,
+
+—% = —-2
+Thus, 2 = <2, proving that f is injective.
+Let f(x) = y:
+22-3
+bo?
+
+Multiply both sides by 5a — 7 to get:
+
+2x — 3 = y(5x—7)
+Expand the right-hand side:
+
+Qe — 3 = Szy — Ty (2)
+Rearrange the equation to solve for 2:
+
+Qe — Say — —Ty +3
 --- page 16 ---
 Factor out x:
 2(2—5y) =3—Ty
@@ -18870,7 +20925,7 @@ Page 20 of 20
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/BTech_IT_7001/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (20 pages), mean OCR confidence 71.1
-- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -19110,6 +21165,51 @@ i. (a) Closure axiom :−   All the elements of composition table   6
 lies in G, it follows closure axiom.
 02 Marks
 Page 8 of 20
+
+[Text in pictures on this page, read by OCR]
+Here |N| = 25, |T| = 26, |F| = 26, INA T|=9, [TOF = 11, NAF =8, |NATOF|=3
+
+(a) By addition principle,
+=25+26+26-9-11-8+3 =52
+
+(b) --3 read all three magazine.
+“. 11-3 = 8 read N & T but not all three magazine
+and 9-3 = 6 read N & F but not all three magazines
+and 8 —- 3 = 5 read F & T but not all three magazines
+
+No. of people read only
+N=|N|-|NOF|-|NOT|+|INQTOP|
+
+=25-9-11+3 (2\
+=8 Vay
+No. of people read only T (S 8
+
+=|T)-|TOAN|-|TOFI+|INOTOFP
+=26-11-8+3
+
+=10
+
+No. of people read only F = |F| — |F A T|-|FAN|+|INATOFP|
+=26-9-8+3 =12
+
+No. of people read no magazine at all = 60 - 52 =8
+
+(c) No. of people read only one magazine = 8 + 10 + 12
+= 30
+
+(1)
+
+(2)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
 --- page 9 ---
 (b) Associativity : − For a, b, c ∈ G
 a + 6 (b + 6 c) = (a + 6 b) + 6 c   (from table)   01 Mark
@@ -19287,6 +21387,44 @@ steps)
 5.   20
 6
 Page 15 of 20
+
+[Text in pictures on this page, read by OCR]
+To prove that f is injective, assume f(x ,) = f (a2) for some x}, 2 © IR. We need to showt
+w= #2.
+
+2Qr,;-3 ax.—3
+
+5a,;—-7 5a2.—7
+
+f (x1) = (2) =
+Cross-multiply to eliminate the denominators:
+
+(2x, — 3)(5x2 — 7) = (22 — 3)(5a — 7) (2)
+Expand both sides:
+
+10xyr2 — 14a, — 15x + 21 = Wary — 142 — 15a, +21
+Simplify the equation:
+—14z, — 1l5zq — — 1422 — 152,
+
+Rearrange terms:
+
+14zq — 15rq = 14x, — 152,
+
+—% = —-2
+Thus, 2 = <2, proving that f is injective.
+Let f(x) = y:
+22-3
+bo?
+
+Multiply both sides by 5a — 7 to get:
+
+2x — 3 = y(5x—7)
+Expand the right-hand side:
+
+Qe — 3 = Szy — Ty (2)
+Rearrange the equation to solve for 2:
+
+Qe — Say — —Ty +3
 --- page 16 ---
 Factor out x:
 2(2—5y) =3—Ty
@@ -19387,7 +21525,7 @@ Page 20 of 20
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/MBATech_AI_7051/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (20 pages), mean OCR confidence 71.1
-- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -19627,6 +21765,51 @@ i. (a) Closure axiom :−   All the elements of composition table   6
 lies in G, it follows closure axiom.
 02 Marks
 Page 8 of 20
+
+[Text in pictures on this page, read by OCR]
+Here |N| = 25, |T| = 26, |F| = 26, INA T|=9, [TOF = 11, NAF =8, |NATOF|=3
+
+(a) By addition principle,
+=25+26+26-9-11-8+3 =52
+
+(b) --3 read all three magazine.
+“. 11-3 = 8 read N & T but not all three magazine
+and 9-3 = 6 read N & F but not all three magazines
+and 8 —- 3 = 5 read F & T but not all three magazines
+
+No. of people read only
+N=|N|-|NOF|-|NOT|+|INQTOP|
+
+=25-9-11+3 (2\
+=8 Vay
+No. of people read only T (S 8
+
+=|T)-|TOAN|-|TOFI+|INOTOFP
+=26-11-8+3
+
+=10
+
+No. of people read only F = |F| — |F A T|-|FAN|+|INATOFP|
+=26-9-8+3 =12
+
+No. of people read no magazine at all = 60 - 52 =8
+
+(c) No. of people read only one magazine = 8 + 10 + 12
+= 30
+
+(1)
+
+(2)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
 --- page 9 ---
 (b) Associativity : − For a, b, c ∈ G
 a + 6 (b + 6 c) = (a + 6 b) + 6 c   (from table)   01 Mark
@@ -19804,6 +21987,44 @@ steps)
 5.   20
 6
 Page 15 of 20
+
+[Text in pictures on this page, read by OCR]
+To prove that f is injective, assume f(x ,) = f (a2) for some x}, 2 © IR. We need to showt
+w= #2.
+
+2Qr,;-3 ax.—3
+
+5a,;—-7 5a2.—7
+
+f (x1) = (2) =
+Cross-multiply to eliminate the denominators:
+
+(2x, — 3)(5x2 — 7) = (22 — 3)(5a — 7) (2)
+Expand both sides:
+
+10xyr2 — 14a, — 15x + 21 = Wary — 142 — 15a, +21
+Simplify the equation:
+—14z, — 1l5zq — — 1422 — 152,
+
+Rearrange terms:
+
+14zq — 15rq = 14x, — 152,
+
+—% = —-2
+Thus, 2 = <2, proving that f is injective.
+Let f(x) = y:
+22-3
+bo?
+
+Multiply both sides by 5a — 7 to get:
+
+2x — 3 = y(5x—7)
+Expand the right-hand side:
+
+Qe — 3 = Szy — Ty (2)
+Rearrange the equation to solve for 2:
+
+Qe — Say — —Ty +3
 --- page 16 ---
 Factor out x:
 2(2—5y) =3—Ty
@@ -19904,7 +22125,7 @@ Page 20 of 20
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/MBATech_IT_7041/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (20 pages), mean OCR confidence 71.1
-- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -20144,6 +22365,51 @@ i. (a) Closure axiom :−   All the elements of composition table   6
 lies in G, it follows closure axiom.
 02 Marks
 Page 8 of 20
+
+[Text in pictures on this page, read by OCR]
+Here |N| = 25, |T| = 26, |F| = 26, INA T|=9, [TOF = 11, NAF =8, |NATOF|=3
+
+(a) By addition principle,
+=25+26+26-9-11-8+3 =52
+
+(b) --3 read all three magazine.
+“. 11-3 = 8 read N & T but not all three magazine
+and 9-3 = 6 read N & F but not all three magazines
+and 8 —- 3 = 5 read F & T but not all three magazines
+
+No. of people read only
+N=|N|-|NOF|-|NOT|+|INQTOP|
+
+=25-9-11+3 (2\
+=8 Vay
+No. of people read only T (S 8
+
+=|T)-|TOAN|-|TOFI+|INOTOFP
+=26-11-8+3
+
+=10
+
+No. of people read only F = |F| — |F A T|-|FAN|+|INATOFP|
+=26-9-8+3 =12
+
+No. of people read no magazine at all = 60 - 52 =8
+
+(c) No. of people read only one magazine = 8 + 10 + 12
+= 30
+
+(1)
+
+(2)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
 --- page 9 ---
 (b) Associativity : − For a, b, c ∈ G
 a + 6 (b + 6 c) = (a + 6 b) + 6 c   (from table)   01 Mark
@@ -20321,6 +22587,44 @@ steps)
 5.   20
 6
 Page 15 of 20
+
+[Text in pictures on this page, read by OCR]
+To prove that f is injective, assume f(x ,) = f (a2) for some x}, 2 © IR. We need to showt
+w= #2.
+
+2Qr,;-3 ax.—3
+
+5a,;—-7 5a2.—7
+
+f (x1) = (2) =
+Cross-multiply to eliminate the denominators:
+
+(2x, — 3)(5x2 — 7) = (22 — 3)(5a — 7) (2)
+Expand both sides:
+
+10xyr2 — 14a, — 15x + 21 = Wary — 142 — 15a, +21
+Simplify the equation:
+—14z, — 1l5zq — — 1422 — 152,
+
+Rearrange terms:
+
+14zq — 15rq = 14x, — 152,
+
+—% = —-2
+Thus, 2 = <2, proving that f is injective.
+Let f(x) = y:
+22-3
+bo?
+
+Multiply both sides by 5a — 7 to get:
+
+2x — 3 = y(5x—7)
+Expand the right-hand side:
+
+Qe — 3 = Szy — Ty (2)
+Rearrange the equation to solve for 2:
+
+Qe — Say — —Ty +3
 --- page 16 ---
 Factor out x:
 2(2—5y) =3—Ty
@@ -20421,7 +22725,7 @@ Page 20 of 20
 - Source: `02_Question_Papers/2024/Sem_05/Re-Exam/BTech_EXTC_7006/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (20 pages), mean OCR confidence 71.1
-- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -20661,6 +22965,51 @@ i. (a) Closure axiom :−   All the elements of composition table   6
 lies in G, it follows closure axiom.
 02 Marks
 Page 8 of 20
+
+[Text in pictures on this page, read by OCR]
+Here |N| = 25, |T| = 26, |F| = 26, INA T|=9, [TOF = 11, NAF =8, |NATOF|=3
+
+(a) By addition principle,
+=25+26+26-9-11-8+3 =52
+
+(b) --3 read all three magazine.
+“. 11-3 = 8 read N & T but not all three magazine
+and 9-3 = 6 read N & F but not all three magazines
+and 8 —- 3 = 5 read F & T but not all three magazines
+
+No. of people read only
+N=|N|-|NOF|-|NOT|+|INQTOP|
+
+=25-9-11+3 (2\
+=8 Vay
+No. of people read only T (S 8
+
+=|T)-|TOAN|-|TOFI+|INOTOFP
+=26-11-8+3
+
+=10
+
+No. of people read only F = |F| — |F A T|-|FAN|+|INATOFP|
+=26-9-8+3 =12
+
+No. of people read no magazine at all = 60 - 52 =8
+
+(c) No. of people read only one magazine = 8 + 10 + 12
+= 30
+
+(1)
+
+(2)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
 --- page 9 ---
 (b) Associativity : − For a, b, c ∈ G
 a + 6 (b + 6 c) = (a + 6 b) + 6 c   (from table)   01 Mark
@@ -20838,6 +23187,44 @@ steps)
 5.   20
 6
 Page 15 of 20
+
+[Text in pictures on this page, read by OCR]
+To prove that f is injective, assume f(x ,) = f (a2) for some x}, 2 © IR. We need to showt
+w= #2.
+
+2Qr,;-3 ax.—3
+
+5a,;—-7 5a2.—7
+
+f (x1) = (2) =
+Cross-multiply to eliminate the denominators:
+
+(2x, — 3)(5x2 — 7) = (22 — 3)(5a — 7) (2)
+Expand both sides:
+
+10xyr2 — 14a, — 15x + 21 = Wary — 142 — 15a, +21
+Simplify the equation:
+—14z, — 1l5zq — — 1422 — 152,
+
+Rearrange terms:
+
+14zq — 15rq = 14x, — 152,
+
+—% = —-2
+Thus, 2 = <2, proving that f is injective.
+Let f(x) = y:
+22-3
+bo?
+
+Multiply both sides by 5a — 7 to get:
+
+2x — 3 = y(5x—7)
+Expand the right-hand side:
+
+Qe — 3 = Szy — Ty (2)
+Rearrange the equation to solve for 2:
+
+Qe — Say — —Ty +3
 --- page 16 ---
 Factor out x:
 2(2—5y) =3—Ty
@@ -20938,7 +23325,7 @@ Page 20 of 20
 - Source: `02_Question_Papers/2024/Sem_05/Re-Exam/MBATech(ELECTRONICS & TELECOMMUNICATION_21542d76/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (20 pages), mean OCR confidence 71.1
-- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -21178,6 +23565,51 @@ i. (a) Closure axiom :−   All the elements of composition table   6
 lies in G, it follows closure axiom.
 02 Marks
 Page 8 of 20
+
+[Text in pictures on this page, read by OCR]
+Here |N| = 25, |T| = 26, |F| = 26, INA T|=9, [TOF = 11, NAF =8, |NATOF|=3
+
+(a) By addition principle,
+=25+26+26-9-11-8+3 =52
+
+(b) --3 read all three magazine.
+“. 11-3 = 8 read N & T but not all three magazine
+and 9-3 = 6 read N & F but not all three magazines
+and 8 —- 3 = 5 read F & T but not all three magazines
+
+No. of people read only
+N=|N|-|NOF|-|NOT|+|INQTOP|
+
+=25-9-11+3 (2\
+=8 Vay
+No. of people read only T (S 8
+
+=|T)-|TOAN|-|TOFI+|INOTOFP
+=26-11-8+3
+
+=10
+
+No. of people read only F = |F| — |F A T|-|FAN|+|INATOFP|
+=26-9-8+3 =12
+
+No. of people read no magazine at all = 60 - 52 =8
+
+(c) No. of people read only one magazine = 8 + 10 + 12
+= 30
+
+(1)
+
+(2)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
+
+(1)
 --- page 9 ---
 (b) Associativity : − For a, b, c ∈ G
 a + 6 (b + 6 c) = (a + 6 b) + 6 c   (from table)   01 Mark
@@ -21355,6 +23787,44 @@ steps)
 5.   20
 6
 Page 15 of 20
+
+[Text in pictures on this page, read by OCR]
+To prove that f is injective, assume f(x ,) = f (a2) for some x}, 2 © IR. We need to showt
+w= #2.
+
+2Qr,;-3 ax.—3
+
+5a,;—-7 5a2.—7
+
+f (x1) = (2) =
+Cross-multiply to eliminate the denominators:
+
+(2x, — 3)(5x2 — 7) = (22 — 3)(5a — 7) (2)
+Expand both sides:
+
+10xyr2 — 14a, — 15x + 21 = Wary — 142 — 15a, +21
+Simplify the equation:
+—14z, — 1l5zq — — 1422 — 152,
+
+Rearrange terms:
+
+14zq — 15rq = 14x, — 152,
+
+—% = —-2
+Thus, 2 = <2, proving that f is injective.
+Let f(x) = y:
+22-3
+bo?
+
+Multiply both sides by 5a — 7 to get:
+
+2x — 3 = y(5x—7)
+Expand the right-hand side:
+
+Qe — 3 = Szy — Ty (2)
+Rearrange the equation to solve for 2:
+
+Qe — Say — —Ty +3
 --- page 16 ---
 Factor out x:
 2(2—5y) =3—Ty
@@ -21455,7 +23925,7 @@ Page 20 of 20
 - Source: `02_Question_Papers/2024/Sem_07/Re-Exam/Integrated_Computer_7032/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 75.3
-- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -21482,6 +23952,33 @@ a.
 (2m)
 (1m)
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+1. Reflexive:
+Arelation R is reflexive if for all 2 € Z, we have rRa.
+e For any a € Z, we need to check whether x — x € Z.
+
+e Since x — x — 0,and0 € Z, the relation is reflexive.
+
+2. Symmetric:
+
+Arelation R is symmetric if for all «, y © Z, whenever zRy, it follows that yRa.
+e IfaRy, thena —y & Z.
+
+e We need to check whether y — a € Z holds.
+
+e Since y — a — —(a — y), and —(x — y) © Z because integers are closed under negation,
+
+the relation is symmetric.
+
+3. Anti-symmetric:
+
+Arelation R is anti-symmetric if for all 7, y © Z, whenever zRy and yRz, it follows that x — y.
+
+© However, « — y © Z does not imply that z — y unless z — y.
+
+© Therefore, the relation is not anti-symmetric, because it allows cases where x # y but eRy
+and yRz still hold.
 --- page 2 ---
 b.
 (1m)
@@ -21498,6 +23995,37 @@ d.
 (1m)
 (1m)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+“If quadrilateral ABCD is a square, then it is both a rectangle and a rhombus.’
+
+Let:
+© P: "Quadrilateral ABCD is a square.”
+
+* Q: “Quadrilateral ABCD is both a rectangle and a rhombus."
+
+Thus, the original implication can be written as:
+
+© P= Qf P, then QQ.”
+
+* Converse: If ABCD is both a rectangle and a rhombus, then it is a square.
+* Inverse: If ABCD is not a square, then it is not both a rectangle and a rhombus.
+
+* Contrapositive: If ABCD is not both a rectangle and a rhombus, then it is not a square.
+
+1. Divide the interval (0), 1) into four sub-intervals of length i. These sub-intervals are:
+
+© = (0,7)
+b= (hd
+¢ ds = (5,4
+
+* I= (4,1
+
+By the pigeonhole principle, lt least two of the five numbers will lie within the same sub-interval of
+
+length :. Therefore, these two numbers will differ by at most i.
+
+Thus, at least two of the numbers differ by at most t.
 --- page 3 ---
 © Let's take two odd numbers:
 © Leta = 2m + 1 (where m is an integer).
@@ -21786,6 +24314,31 @@ numbers under multiplication. Let f : G → G′ by defined by f ( x ) = e x . S
 isomorphism.
 SOLUTION:
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+a, — 5a, 1+ 6a, 29 = 2”.
+hand side is of the form 2", we will try a particular solution of the form:
+al?) = An2”,
+nto the recurrence relation:
+(An2") —5A(n — 1)2" 14 6A(nm — 2)2" 2 = 2",
+
+€ powers of 2:
+
+An2”" — 5.A(nm — 1)2" + 6A(nm — 2)2" = 2”.
+
+2"(An — 5A(nm — 1) + GA(n — 2)) = 2”.
+1€ expression inside the parentheses
+in — 5.A(m — 1) 4+ 6A(n — 2) = An — 5A(nm — 1) 4+ 6A(n — 2).
+her, this gives:
+A=1.
+ular solution is:
+alF) = n2".
+
+-ral Solution
+
+ution to the recurrence relation is the sum of the homogeneous and particular
+
+an = C12" + C23" 4+ 2",
 --- page 12 ---
 (2m)
 (1m)
@@ -21797,6 +24350,21 @@ SOLUTION:
 (2m)
 (2m)
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+1. Let 2 be an even integer and y be an odd integer:
+
+e By definition, we can write:
+z—2k (even)
+
+y—2m+1 (odd)
+e Here, k and m are integers.
+2. Calculate the sum x + y:
+x+y = (2k) + (2m+1)
+3. Simplify the expression:
+r+y-—2k+22m+41
+
+= 2(k+m)+1
 --- page 13 ---
 (2m)
 c.
@@ -21957,7 +24525,7 @@ DR ROR RK 1Q FH
 - Source: `02_Question_Papers/2024/Sem_07/Re-Exam/Integrated_IT_7037/Discrete Mathematics/ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: mixed (18 pages), mean OCR confidence 75.4
-- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -21984,6 +24552,33 @@ a.
 (2m)
 (1m)
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+1. Reflexive:
+Arelation R is reflexive if for all 2 € Z, we have rRa.
+e For any a € Z, we need to check whether x — x € Z.
+
+e Since x — x — 0,and0 € Z, the relation is reflexive.
+
+2. Symmetric:
+
+Arelation R is symmetric if for all «, y © Z, whenever zRy, it follows that yRa.
+e IfaRy, thena —y & Z.
+
+e We need to check whether y — a € Z holds.
+
+e Since y — a — —(a — y), and —(x — y) © Z because integers are closed under negation,
+
+the relation is symmetric.
+
+3. Anti-symmetric:
+
+Arelation R is anti-symmetric if for all 7, y © Z, whenever zRy and yRz, it follows that x — y.
+
+© However, « — y © Z does not imply that z — y unless z — y.
+
+© Therefore, the relation is not anti-symmetric, because it allows cases where x # y but eRy
+and yRz still hold.
 --- page 2 ---
 b.
 (1m)
@@ -22000,6 +24595,37 @@ d.
 (1m)
 (1m)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+“If quadrilateral ABCD is a square, then it is both a rectangle and a rhombus.’
+
+Let:
+© P: "Quadrilateral ABCD is a square.”
+
+* Q: “Quadrilateral ABCD is both a rectangle and a rhombus."
+
+Thus, the original implication can be written as:
+
+© P= Qf P, then QQ.”
+
+* Converse: If ABCD is both a rectangle and a rhombus, then it is a square.
+* Inverse: If ABCD is not a square, then it is not both a rectangle and a rhombus.
+
+* Contrapositive: If ABCD is not both a rectangle and a rhombus, then it is not a square.
+
+1. Divide the interval (0), 1) into four sub-intervals of length i. These sub-intervals are:
+
+© = (0,7)
+b= (hd
+¢ ds = (5,4
+
+* I= (4,1
+
+By the pigeonhole principle, lt least two of the five numbers will lie within the same sub-interval of
+
+length :. Therefore, these two numbers will differ by at most i.
+
+Thus, at least two of the numbers differ by at most t.
 --- page 3 ---
 © Let's take two odd numbers:
 © Leta = 2m + 1 (where m is an integer).
@@ -22289,6 +24915,31 @@ numbers under multiplication. Let f : G → G′ by defined by f ( x ) = e x . S
 isomorphism.
 SOLUTION:
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+a, — 5a, 1+ 6a, 29 = 2”.
+hand side is of the form 2", we will try a particular solution of the form:
+al?) = An2”,
+nto the recurrence relation:
+(An2") —5A(n — 1)2" 14 6A(nm — 2)2" 2 = 2",
+
+€ powers of 2:
+
+An2”" — 5.A(nm — 1)2" + 6A(nm — 2)2" = 2”.
+
+2"(An — 5A(nm — 1) + GA(n — 2)) = 2”.
+1€ expression inside the parentheses
+in — 5.A(m — 1) 4+ 6A(n — 2) = An — 5A(nm — 1) 4+ 6A(n — 2).
+her, this gives:
+A=1.
+ular solution is:
+alF) = n2".
+
+-ral Solution
+
+ution to the recurrence relation is the sum of the homogeneous and particular
+
+an = C12" + C23" 4+ 2",
 --- page 12 ---
 (2m)
 (1m)
@@ -22300,6 +24951,21 @@ SOLUTION:
 (2m)
 (2m)
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+1. Let 2 be an even integer and y be an odd integer:
+
+e By definition, we can write:
+z—2k (even)
+
+y—2m+1 (odd)
+e Here, k and m are integers.
+2. Calculate the sum x + y:
+x+y = (2k) + (2m+1)
+3. Simplify the expression:
+r+y-—2k+22m+41
+
+= 2(k+m)+1
 --- page 13 ---
 (2m)
 c.

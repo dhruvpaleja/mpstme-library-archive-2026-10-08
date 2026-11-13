@@ -177,6 +177,34 @@ SO-;   b.   In an experiment of dice roll, A dice is rolled 30 times.   [5]
 BL-4,   Probability of rolling a “6” = 1/6.
 BL-5
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Good Market $40,000
+
+Opena 0.3
+small shop 0.4 Average Market $20,000
+
+$15,500 9.3 Bad Market -$15,000
+
+ae Good Market $70,000
+
+0.4 Average Market $30,000
+
+Opena
+medium-sized shop
+
+Se Bad Market -$50,000
+
+Good Market so
+Do not
+
+open a shop
+
+$o
+
+0.4 Average Market $0
+
+0.3 Bad Market
 --- page 6 ---
 Find
 1. Probability of rolling exactly 5 sixes.
@@ -195,6 +223,35 @@ SO-;
 BL-3;
 BL-4
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+(a) Probability (3 Marks)
+
+~ 7, _f
+Dif=%, P(X)=F
+
+Values: 0.15, 0.25, 0.30, 0.20, 0.10
+
+(b) Mean, Variance, SD (6 Marks)
+bi fe
+p=
+
+“= 3.85
+Lif
+So fa?
+of = Ss _ P= 1.33
+hf
+
+o0 =V133=1.15
+
+(c) Excel (4 Marks)
+
+VAR.P = 1.33, STDEV.P = 1.15
+VARS = 1.40, STDEV.S = 1.18
+
+(d) Interpretation (2 Marks)
+
+Moderate variation, fairly consistent data
 --- page 7 ---
 CO-1,2;
 SO-;
@@ -584,6 +641,34 @@ SO-;   b.   In an experiment of dice roll, A dice is rolled 30 times.   [5]
 BL-4,   Probability of rolling a “6” = 1/6.
 BL-5
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Good Market $40,000
+
+Opena 0.3
+small shop 0.4 Average Market $20,000
+
+$15,500 9.3 Bad Market -$15,000
+
+ae Good Market $70,000
+
+0.4 Average Market $30,000
+
+Opena
+medium-sized shop
+
+Se Bad Market -$50,000
+
+Good Market so
+Do not
+
+open a shop
+
+$o
+
+0.4 Average Market $0
+
+0.3 Bad Market
 --- page 6 ---
 Find
 1. Probability of rolling exactly 5 sixes.
@@ -602,6 +687,35 @@ SO-;
 BL-3;
 BL-4
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+(a) Probability (3 Marks)
+
+~ 7, _f
+Dif=%, P(X)=F
+
+Values: 0.15, 0.25, 0.30, 0.20, 0.10
+
+(b) Mean, Variance, SD (6 Marks)
+bi fe
+p=
+
+“= 3.85
+Lif
+So fa?
+of = Ss _ P= 1.33
+hf
+
+o0 =V133=1.15
+
+(c) Excel (4 Marks)
+
+VAR.P = 1.33, STDEV.P = 1.15
+VARS = 1.40, STDEV.S = 1.18
+
+(d) Interpretation (2 Marks)
+
+Moderate variation, fairly consistent data
 --- page 7 ---
 CO-1,2;
 SO-;
@@ -991,6 +1105,34 @@ SO-;   b.   In an experiment of dice roll, A dice is rolled 30 times.   [5]
 BL-4,   Probability of rolling a “6” = 1/6.
 BL-5
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Good Market $40,000
+
+Opena 0.3
+small shop 0.4 Average Market $20,000
+
+$15,500 9.3 Bad Market -$15,000
+
+ae Good Market $70,000
+
+0.4 Average Market $30,000
+
+Opena
+medium-sized shop
+
+Se Bad Market -$50,000
+
+Good Market so
+Do not
+
+open a shop
+
+$o
+
+0.4 Average Market $0
+
+0.3 Bad Market
 --- page 6 ---
 Find
 1. Probability of rolling exactly 5 sixes.
@@ -1009,6 +1151,35 @@ SO-;
 BL-3;
 BL-4
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+(a) Probability (3 Marks)
+
+~ 7, _f
+Dif=%, P(X)=F
+
+Values: 0.15, 0.25, 0.30, 0.20, 0.10
+
+(b) Mean, Variance, SD (6 Marks)
+bi fe
+p=
+
+“= 3.85
+Lif
+So fa?
+of = Ss _ P= 1.33
+hf
+
+o0 =V133=1.15
+
+(c) Excel (4 Marks)
+
+VAR.P = 1.33, STDEV.P = 1.15
+VARS = 1.40, STDEV.S = 1.18
+
+(d) Interpretation (2 Marks)
+
+Moderate variation, fairly consistent data
 --- page 7 ---
 CO-1,2;
 SO-;
@@ -1398,6 +1569,34 @@ SO-;   b.   In an experiment of dice roll, A dice is rolled 30 times.   [5]
 BL-4,   Probability of rolling a “6” = 1/6.
 BL-5
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Good Market $40,000
+
+Opena 0.3
+small shop 0.4 Average Market $20,000
+
+$15,500 9.3 Bad Market -$15,000
+
+ae Good Market $70,000
+
+0.4 Average Market $30,000
+
+Opena
+medium-sized shop
+
+Se Bad Market -$50,000
+
+Good Market so
+Do not
+
+open a shop
+
+$o
+
+0.4 Average Market $0
+
+0.3 Bad Market
 --- page 6 ---
 Find
 1. Probability of rolling exactly 5 sixes.
@@ -1416,6 +1615,35 @@ SO-;
 BL-3;
 BL-4
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+(a) Probability (3 Marks)
+
+~ 7, _f
+Dif=%, P(X)=F
+
+Values: 0.15, 0.25, 0.30, 0.20, 0.10
+
+(b) Mean, Variance, SD (6 Marks)
+bi fe
+p=
+
+“= 3.85
+Lif
+So fa?
+of = Ss _ P= 1.33
+hf
+
+o0 =V133=1.15
+
+(c) Excel (4 Marks)
+
+VAR.P = 1.33, STDEV.P = 1.15
+VARS = 1.40, STDEV.S = 1.18
+
+(d) Interpretation (2 Marks)
+
+Moderate variation, fairly consistent data
 --- page 7 ---
 CO-1,2;
 SO-;
@@ -1805,6 +2033,34 @@ SO-;   b.   In an experiment of dice roll, A dice is rolled 30 times.   [5]
 BL-4,   Probability of rolling a “6” = 1/6.
 BL-5
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Good Market $40,000
+
+Opena 0.3
+small shop 0.4 Average Market $20,000
+
+$15,500 9.3 Bad Market -$15,000
+
+ae Good Market $70,000
+
+0.4 Average Market $30,000
+
+Opena
+medium-sized shop
+
+Se Bad Market -$50,000
+
+Good Market so
+Do not
+
+open a shop
+
+$o
+
+0.4 Average Market $0
+
+0.3 Bad Market
 --- page 6 ---
 Find
 1. Probability of rolling exactly 5 sixes.
@@ -1823,6 +2079,35 @@ SO-;
 BL-3;
 BL-4
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+(a) Probability (3 Marks)
+
+~ 7, _f
+Dif=%, P(X)=F
+
+Values: 0.15, 0.25, 0.30, 0.20, 0.10
+
+(b) Mean, Variance, SD (6 Marks)
+bi fe
+p=
+
+“= 3.85
+Lif
+So fa?
+of = Ss _ P= 1.33
+hf
+
+o0 =V133=1.15
+
+(c) Excel (4 Marks)
+
+VAR.P = 1.33, STDEV.P = 1.15
+VARS = 1.40, STDEV.S = 1.18
+
+(d) Interpretation (2 Marks)
+
+Moderate variation, fairly consistent data
 --- page 7 ---
 CO-1,2;
 SO-;
@@ -2212,6 +2497,34 @@ SO-;   b.   In an experiment of dice roll, A dice is rolled 30 times.   [5]
 BL-4,   Probability of rolling a “6” = 1/6.
 BL-5
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Good Market $40,000
+
+Opena 0.3
+small shop 0.4 Average Market $20,000
+
+$15,500 9.3 Bad Market -$15,000
+
+ae Good Market $70,000
+
+0.4 Average Market $30,000
+
+Opena
+medium-sized shop
+
+Se Bad Market -$50,000
+
+Good Market so
+Do not
+
+open a shop
+
+$o
+
+0.4 Average Market $0
+
+0.3 Bad Market
 --- page 6 ---
 Find
 1. Probability of rolling exactly 5 sixes.
@@ -2230,6 +2543,35 @@ SO-;
 BL-3;
 BL-4
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+(a) Probability (3 Marks)
+
+~ 7, _f
+Dif=%, P(X)=F
+
+Values: 0.15, 0.25, 0.30, 0.20, 0.10
+
+(b) Mean, Variance, SD (6 Marks)
+bi fe
+p=
+
+“= 3.85
+Lif
+So fa?
+of = Ss _ P= 1.33
+hf
+
+o0 =V133=1.15
+
+(c) Excel (4 Marks)
+
+VAR.P = 1.33, STDEV.P = 1.15
+VARS = 1.40, STDEV.S = 1.18
+
+(d) Interpretation (2 Marks)
+
+Moderate variation, fairly consistent data
 --- page 7 ---
 CO-1,2;
 SO-;
@@ -2619,6 +2961,34 @@ SO-;   b.   In an experiment of dice roll, A dice is rolled 30 times.   [5]
 BL-4,   Probability of rolling a “6” = 1/6.
 BL-5
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Good Market $40,000
+
+Opena 0.3
+small shop 0.4 Average Market $20,000
+
+$15,500 9.3 Bad Market -$15,000
+
+ae Good Market $70,000
+
+0.4 Average Market $30,000
+
+Opena
+medium-sized shop
+
+= Bad Market -$50,000
+
+Good Market so
+Do not
+
+open a shop
+
+$o
+
+0.4 Average Market $0
+
+0.3 Bad Market $0
 --- page 6 ---
 Find
 1. Probability of rolling exactly 5 sixes.
@@ -2637,6 +3007,35 @@ SO-;
 BL-3;
 BL-4
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+(a) Probability (3 Marks)
+
+~ 7, _f
+Dif=%, P(X)=F
+
+Values: 0.15, 0.25, 0.30, 0.20, 0.10
+
+(b) Mean, Variance, SD (6 Marks)
+bi fe
+p=
+
+“= 3.85
+Lif
+So fa?
+of = Ss _ P= 1.33
+hf
+
+o0 =V133=1.15
+
+(c) Excel (4 Marks)
+
+VAR.P = 1.33, STDEV.P = 1.15
+VARS = 1.40, STDEV.S = 1.18
+
+(d) Interpretation (2 Marks)
+
+Moderate variation, fairly consistent data
 --- page 7 ---
 CO-1,2;
 SO-;
@@ -3002,6 +3401,27 @@ BL-3,
 1. Using excel formula, create employee labels;
 Employee Label comprises of name of the Employee followed by
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+1. Calorie Constraint
+
+500 < 2002; + 25022 + 8023 + 15024 + 11025 < 700
+
+2. Protein Constraint
+
+Ax, + 20x2 + 323 + 624 + las > 20
+
+3. Vitamin C Constraint
+
+3023 + 224 + 9025 > 50
+
+4. Fat Constraint (< 35%)
+
+302; + 120a2 + 1023 + 50r4 + Ors < 0.35(2002) + 25022 + 8023 + 15024
+
+5. Non-negativity
+
+21, £2,£3,%4,05 > 0
 --- page 6 ---
 ‘-‘ followed by the Department in which the employee works
 Eg: “Amit-HR”
@@ -3037,6 +3457,30 @@ Find
 1. Probability of exactly 5 correct answers.
 =BINOM.DIST(5, 20, 0.25, FALSE) = 0.202
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+High
+800000
+ct]
+o4
+Plant-A Moderate
+1 300000
+0 300000
+O2
+-200000
+0 -200000
+o4
+High
+500000
+o4
+Moderate
+| 250000
+QO 250000
+O.2
+-50000
+Qo -50000
+No Expansion
+a ee oO
 --- page 8 ---
 2. Probability of at most 5 correct answers.
 =BINOM.DIST(5, 20, 0.25, TRUE) = 0.616
@@ -3053,6 +3497,27 @@ SO-;
 BL-3;
 BL-4
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+(a) Probability (3 Marks)
+
+7 = = 7, — f
+Sof =25, P(X) = 35
+
+(b) Mean, Variance, SD (6 Marks)
+
+p= 6.96
+ao = 1.36
+o=117
+
+(c) Excel (4 Marks)
+
+VAR.P = 1.36, STDEV.P = 1.17
+VARS = 1.42, STDEV.S = 1.19
+
+(d) Interpretation (2 Marks)
+
+Stable patient inflow
 --- page 9 ---
 CO-1,2;   b.   Consider the following dataset on project deadlines   [5]
 SO-;
@@ -3480,6 +3945,27 @@ BL-3,
 1. Using excel formula, create employee labels;
 Employee Label comprises of name of the Employee followed by
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+1. Calorie Constraint
+
+500 < 2002; + 25022 + 8023 + 15024 + 11025 < 700
+
+2. Protein Constraint
+
+Ax, + 20x2 + 323 + 624 + las > 20
+
+3. Vitamin C Constraint
+
+3023 + 224 + 9025 > 50
+
+4. Fat Constraint (< 35%)
+
+302; + 120a2 + 1023 + 50r4 + Ors < 0.35(2002) + 25022 + 8023 + 15024
+
+5. Non-negativity
+
+21, £2,£3,%4,05 > 0
 --- page 6 ---
 ‘-‘ followed by the Department in which the employee works
 Eg: “Amit-HR”
@@ -3515,6 +4001,30 @@ Find
 1. Probability of exactly 5 correct answers.
 =BINOM.DIST(5, 20, 0.25, FALSE) = 0.202
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+High
+800000
+ct]
+o4
+Plant-A Moderate
+1 300000
+0 300000
+O2
+-200000
+0 -200000
+o4
+High
+500000
+o4
+Moderate
+| 250000
+QO 250000
+O.2
+-50000
+Qo -50000
+No Expansion
+a ee oO
 --- page 8 ---
 2. Probability of at most 5 correct answers.
 =BINOM.DIST(5, 20, 0.25, TRUE) = 0.616
@@ -3531,6 +4041,27 @@ SO-;
 BL-3;
 BL-4
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+(a) Probability (3 Marks)
+
+7 = = 7, — f
+Sof =25, P(X) = 35
+
+(b) Mean, Variance, SD (6 Marks)
+
+p= 6.96
+ao = 1.36
+o=117
+
+(c) Excel (4 Marks)
+
+VAR.P = 1.36, STDEV.P = 1.17
+VARS = 1.42, STDEV.S = 1.19
+
+(d) Interpretation (2 Marks)
+
+Stable patient inflow
 --- page 9 ---
 CO-1,2;   b.   Consider the following dataset on project deadlines   [5]
 SO-;
@@ -3958,6 +4489,27 @@ BL-3,
 1. Using excel formula, create employee labels;
 Employee Label comprises of name of the Employee followed by
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+1. Calorie Constraint
+
+500 < 2002; + 25022 + 8023 + 15024 + 11025 < 700
+
+2. Protein Constraint
+
+Ax, + 20x2 + 323 + 624 + las > 20
+
+3. Vitamin C Constraint
+
+3023 + 224 + 9025 > 50
+
+4. Fat Constraint (< 35%)
+
+302; + 120a2 + 1023 + 50r4 + Ors < 0.35(2002) + 25022 + 8023 + 15024
+
+5. Non-negativity
+
+21, £2,£3,%4,05 > 0
 --- page 6 ---
 ‘-‘ followed by the Department in which the employee works
 Eg: “Amit-HR”
@@ -3993,6 +4545,30 @@ Find
 1. Probability of exactly 5 correct answers.
 =BINOM.DIST(5, 20, 0.25, FALSE) = 0.202
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+High
+800000
+ct]
+o4
+Plant-A Moderate
+1 300000
+0 300000
+O2
+-200000
+0 -200000
+o4
+High
+500000
+o4
+Moderate
+| 250000
+QO 250000
+O.2
+-50000
+Qo -50000
+No Expansion
+a ee oO
 --- page 8 ---
 2. Probability of at most 5 correct answers.
 =BINOM.DIST(5, 20, 0.25, TRUE) = 0.616
@@ -4009,6 +4585,27 @@ SO-;
 BL-3;
 BL-4
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+(a) Probability (3 Marks)
+
+7 = = 7, — f
+Sof =25, P(X) = 35
+
+(b) Mean, Variance, SD (6 Marks)
+
+p= 6.96
+ao = 1.36
+o=117
+
+(c) Excel (4 Marks)
+
+VAR.P = 1.36, STDEV.P = 1.17
+VARS = 1.42, STDEV.S = 1.19
+
+(d) Interpretation (2 Marks)
+
+Stable patient inflow
 --- page 9 ---
 CO-1,2;   b.   Consider the following dataset on project deadlines   [5]
 SO-;

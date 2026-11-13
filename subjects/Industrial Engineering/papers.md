@@ -196,6 +196,15 @@ Find:
 • Effective working time;
 • Normal time;
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Cycle Time (min) Rating
+
+Elements 1 2 3
+1. Collect componen} 0.4 3.9 7.8 1
+2. Assemble parts 1.2 5.5 9.4 1.25
+
+3. Inspect product 2.8 6.7 1l 0.95
 --- page 3 ---
 • Standard time per unit.
 CO-5; SO-7;   b.   Distinguish between Value Engineering and Value Analysis in brief with   [10]
@@ -522,6 +531,15 @@ CO-5; SO-2;   product launch. Classify these activities under Value Engineering 
 BL-2
 Analysis and explain.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Cycle Time (min) Rating
+
+Elements 1 2 3
+1. Collect componen| 0.4 3.9 7.8 1
+2. Assemble parts 1.2 5.5 9.4 1.25
+
+3. Inspect product 2.8 6.7 11 0.95
 --- page 3 ---
 Q7   [20]
 a. Awkward postures are a major ergonomic risk factor that can lead to

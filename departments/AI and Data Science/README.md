@@ -1,6 +1,6 @@
 # AI and Data Science
 
-50 subjects, 228 papers, 2481 extracted questions. Each subject folder holds `papers.md` (full text of every paper) and `questions.jsonl` (one record per question with marks, year and exam). Records carry a `departments` field: keep those containing "AI and Data Science" to see only this branch's papers.
+50 subjects, 228 papers, 2482 extracted questions. Each subject folder holds `papers.md` (full text of every paper) and `questions.jsonl` (one record per question with marks, year and exam). Records carry a `departments` field: keep those containing "AI and Data Science" to see only this branch's papers.
 
 | Subject | Papers for this branch | Questions | Years | Full text | Questions |
 | --- | ---: | ---: | --- | --- | --- |
@@ -25,7 +25,7 @@
 | [Database Management Systems](../../subjects/Database%20Management%20Systems/README.md) | 5 | 88 | 2005-06 to 2025-26 | [papers.md](../../subjects/Database%20Management%20Systems/papers.md) | [questions.jsonl](../../subjects/Database%20Management%20Systems/questions.jsonl) |
 | [Deep Learning](../../subjects/Deep%20Learning/README.md) | 4 | 76 | 2018-19 to 2025-26 | [papers.md](../../subjects/Deep%20Learning/papers.md) | [questions.jsonl](../../subjects/Deep%20Learning/questions.jsonl) |
 | [Disaster Management](../../subjects/Disaster%20Management/README.md) | 4 | 33 | 2022-23 to 2025-26 | [papers.md](../../subjects/Disaster%20Management/papers.md) | [questions.jsonl](../../subjects/Disaster%20Management/questions.jsonl) |
-| [Discrete Mathematics](../../subjects/Discrete%20Mathematics/README.md) | 9 | 118 | 2007-08 to 2025-26 | [papers.md](../../subjects/Discrete%20Mathematics/papers.md) | [questions.jsonl](../../subjects/Discrete%20Mathematics/questions.jsonl) |
+| [Discrete Mathematics](../../subjects/Discrete%20Mathematics/README.md) | 9 | 119 | 2007-08 to 2025-26 | [papers.md](../../subjects/Discrete%20Mathematics/papers.md) | [questions.jsonl](../../subjects/Discrete%20Mathematics/questions.jsonl) |
 | [Elements of Biology](../../subjects/Elements%20of%20Biology/README.md) | 8 | 80 | 2019-20 to 2025-26 | [papers.md](../../subjects/Elements%20of%20Biology/papers.md) | [questions.jsonl](../../subjects/Elements%20of%20Biology/questions.jsonl) |
 | [Film Appreciation](../../subjects/Film%20Appreciation/README.md) | 2 | 14 | 2022-23 to 2025-26 | [papers.md](../../subjects/Film%20Appreciation/papers.md) | [questions.jsonl](../../subjects/Film%20Appreciation/questions.jsonl) |
 | [Financial Derivatives](../../subjects/Financial%20Derivatives/README.md) | 2 | 16 | 2022-23 to 2025-26 | [papers.md](../../subjects/Financial%20Derivatives/papers.md) | [questions.jsonl](../../subjects/Financial%20Derivatives/questions.jsonl) |

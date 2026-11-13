@@ -2449,6 +2449,50 @@ Q2. B.   10
 CO-   What are the different components of software maintenance? What are the
 4;BL 2   infrastructure tools that support maintenance in quality assurance?
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Factor Quality requirement Quality requirement Test classification
+
+category factor sub-factor according to requirements
+Operation 1. Correctness 4.1 Accuracy and 1.1 Output correctness
+completeness of outputs, tests
+accuracy and
+completeness of data
+1.2 Accuracy and 1.2 Documentation tests
+completeness of
+documentation
+1.3 Availability 1,3 Availability (reaction
+(reaction time) time) tests
+
+1.4 Data processing and 1,4 Data processing and
+
+Calculations correctness calculations correctness
+tests
+
+1.5 Coding and 1.5 Software qualification
+
+documentation standards — tests
+
+2, Reliability 2, Reliability tests
+
+3, Efficiency 3, Stress tests (load tests,
+
+durability tests)
+4, Integrity 4, Software system
+Security tests
+5. Usability 5.1 Training usability 5.1 Training usability tests
+5.2 Operational usability 5.2 Operational usability
+tests
+Revision 6. Maintainability 6, Maintainability tests
+7. Flexibility 7. Flexibility tests
+8, Testability 8, Testability tests
+Transition 9, Portability 9, Portability tests
+10, Reusability 10, Reusability tests
+11. Interoperability 11.1 Interoperability with 11.1 Software
+other software interoperability tests
+
+11.2 Interoperability 11.2 Equipment
+with otherequipment interoperability tests
 --- page 7 ---
 Components of Software Maintenance
 Software maintenance refers to modifications made to a software system
@@ -2807,6 +2851,56 @@ these ready-for-use elements will achieve savings in development resources,
 a shorter timetable and higher quality software. Software of higher quality is
 expected as these components have already been tested and corrected by
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+1 Scope of the tests
+
+1.1 The software package to be tested (name, version and revision)
+
+1.2 The documents that provide the basis for the planned tests (name and
+version for each document)
+
+2 Testing environment
+
+2.1 Testing sites
+
+2.2 Required hardware and firmware configuration
+2.3 Participating organizations
+
+2.4 Manpower requirements
+
+2.5 Preparation and training required of the test team
+
+3 Test details (for each test)
+
+3.1 Test identification
+
+3.2 Test objective
+
+3.3 Cross-reference to the relevant design document and the requirement
+document
+
+3.4 Test class
+
+3.5 Test level (unit, integration or system tests)
+
+3.6 Test case requirements
+
+3.7 Special requirements (e.g., measurements of response times, security
+requirements)
+
+3.8 Data to be recorded
+
+4 Test schedule (for each test or test group) including time estimates for the
+following:
+
+4.1 Preparation
+
+4.2 Testing
+
+4.3 Error correction
+
+4.4 Regression tests
 --- page 17 ---
 the developers as well as corrected according to the faults identified by
 previous customers. The characteristics of COTS software and quality
@@ -3072,6 +3166,50 @@ Q2. B.   10
 CO-   What are the different components of software maintenance? What are the
 4;BL 2   infrastructure tools that support maintenance in quality assurance?
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Factor Quality requirement Quality requirement Test classification
+
+category factor sub-factor according to requirements
+Operation 1. Correctness 4.1 Accuracy and 1.1 Output correctness
+completeness of outputs, tests
+accuracy and
+completeness of data
+1.2 Accuracy and 1.2 Documentation tests
+completeness of
+documentation
+1.3 Availability 1,3 Availability (reaction
+(reaction time) time) tests
+
+1.4 Data processing and 1,4 Data processing and
+
+Calculations correctness calculations correctness
+tests
+
+1.5 Coding and 1.5 Software qualification
+
+documentation standards — tests
+
+2, Reliability 2, Reliability tests
+
+3, Efficiency 3, Stress tests (load tests,
+
+durability tests)
+4, Integrity 4, Software system
+Security tests
+5. Usability 5.1 Training usability 5.1 Training usability tests
+5.2 Operational usability 5.2 Operational usability
+tests
+Revision 6. Maintainability 6, Maintainability tests
+7. Flexibility 7. Flexibility tests
+8, Testability 8, Testability tests
+Transition 9, Portability 9, Portability tests
+10, Reusability 10, Reusability tests
+11. Interoperability 11.1 Interoperability with 11.1 Software
+other software interoperability tests
+
+11.2 Interoperability 11.2 Equipment
+with otherequipment interoperability tests
 --- page 7 ---
 Components of Software Maintenance
 Software maintenance refers to modifications made to a software system
@@ -3430,6 +3568,56 @@ these ready-for-use elements will achieve savings in development resources,
 a shorter timetable and higher quality software. Software of higher quality is
 expected as these components have already been tested and corrected by
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+1 Scope of the tests
+
+1.1 The software package to be tested (name, version and revision)
+
+1.2 The documents that provide the basis for the planned tests (name and
+version for each document)
+
+2 Testing environment
+
+2.1 Testing sites
+
+2.2 Required hardware and firmware configuration
+2.3 Participating organizations
+
+2.4 Manpower requirements
+
+2.5 Preparation and training required of the test team
+
+3 Test details (for each test)
+
+3.1 Test identification
+
+3.2 Test objective
+
+3.3 Cross-reference to the relevant design document and the requirement
+document
+
+3.4 Test class
+
+3.5 Test level (unit, integration or system tests)
+
+3.6 Test case requirements
+
+3.7 Special requirements (e.g., measurements of response times, security
+requirements)
+
+3.8 Data to be recorded
+
+4 Test schedule (for each test or test group) including time estimates for the
+following:
+
+4.1 Preparation
+
+4.2 Testing
+
+4.3 Error correction
+
+4.4 Regression tests
 --- page 17 ---
 the developers as well as corrected according to the faults identified by
 previous customers. The characteristics of COTS software and quality
@@ -3695,6 +3883,50 @@ Q2. B.   10
 CO-   What are the different components of software maintenance? What are the
 4;BL 2   infrastructure tools that support maintenance in quality assurance?
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Factor Quality requirement Quality requirement Test classification
+
+category factor sub-factor according to requirements
+Operation 1. Correctness 4.1 Accuracy and 1.1 Output correctness
+completeness of outputs, tests
+accuracy and
+completeness of data
+1.2 Accuracy and 1.2 Documentation tests
+completeness of
+documentation
+1.3 Availability 1,3 Availability (reaction
+(reaction time) time) tests
+
+1.4 Data processing and 1,4 Data processing and
+
+Calculations correctness calculations correctness
+tests
+
+1.5 Coding and 1.5 Software qualification
+
+documentation standards — tests
+
+2, Reliability 2, Reliability tests
+
+3, Efficiency 3, Stress tests (load tests,
+
+durability tests)
+4, Integrity 4, Software system
+Security tests
+5. Usability 5.1 Training usability 5.1 Training usability tests
+5.2 Operational usability 5.2 Operational usability
+tests
+Revision 6. Maintainability 6, Maintainability tests
+7. Flexibility 7. Flexibility tests
+8, Testability 8, Testability tests
+Transition 9, Portability 9, Portability tests
+10, Reusability 10, Reusability tests
+11. Interoperability 11.1 Interoperability with 11.1 Software
+other software interoperability tests
+
+11.2 Interoperability 11.2 Equipment
+with otherequipment interoperability tests
 --- page 7 ---
 Components of Software Maintenance
 Software maintenance refers to modifications made to a software system
@@ -4053,6 +4285,56 @@ these ready-for-use elements will achieve savings in development resources,
 a shorter timetable and higher quality software. Software of higher quality is
 expected as these components have already been tested and corrected by
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+1 Scope of the tests
+
+1.1 The software package to be tested (name, version and revision)
+
+1.2 The documents that provide the basis for the planned tests (name and
+version for each document)
+
+2 Testing environment
+
+2.1 Testing sites
+
+2.2 Required hardware and firmware configuration
+2.3 Participating organizations
+
+2.4 Manpower requirements
+
+2.5 Preparation and training required of the test team
+
+3 Test details (for each test)
+
+3.1 Test identification
+
+3.2 Test objective
+
+3.3 Cross-reference to the relevant design document and the requirement
+document
+
+3.4 Test class
+
+3.5 Test level (unit, integration or system tests)
+
+3.6 Test case requirements
+
+3.7 Special requirements (e.g., measurements of response times, security
+requirements)
+
+3.8 Data to be recorded
+
+4 Test schedule (for each test or test group) including time estimates for the
+following:
+
+4.1 Preparation
+
+4.2 Testing
+
+4.3 Error correction
+
+4.4 Regression tests
 --- page 17 ---
 the developers as well as corrected according to the faults identified by
 previous customers. The characteristics of COTS software and quality

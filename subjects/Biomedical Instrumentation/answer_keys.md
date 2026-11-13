@@ -100,6 +100,22 @@ For a regular EEG, the EEG technician attaches 16 to 20 electrodes to the patien
 then glue is used to attach these electrodes to the skin of the scalp. This is a noninvasive procedure,
 and no medical stimulation is transmitted to the brain. The procedure for proper measurement of
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Buttons
+1
+
+Programmable
+Systemon — > Buzzer
+
+Display
+Electrochemical
+
+Sensor chi
+t 'p — 1/0 Bus
+Test Strip t
+
+Battery
 --- page 3 ---
 electrical activity in multiple parts of the brain can take approximately one hour. The patient is asked
 to breathe slowly or quickly, or a flash of light may be used to visually stimulate brain activity.
@@ -147,6 +163,17 @@ alternately turns each LED on and off. The pulse oximeter repeatedly samples the
 while the red LED is on, while the infrared LED is on and while both are off. By sampling with both
 LED's off, the pulse oximeter is able to subtract any ambient light that is present.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Human
+
+Finger
+Vec Photoplethysmograph
+(Analog Signal)
+Cds (Digital signal)
+Cell
+Light Source Signal <=> |L——|_ Micro
+(LED) NY Conditioning " ane “| controller
 --- page 5 ---
 Q3.
 a) Block diagram of a pacemaker circuit. --- 04 M
@@ -176,6 +203,20 @@ a hallmark of asthma.
 Thus, the spirometer is an effective, non-invasive tool that not only helps in diagnosing asthma but
 also in monitoring the progression of the disease and evaluating the effectiveness of treatment.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Reversion Sensing | Refractory |
+
+Circuit Circuit | Circuit
+ae Pulse Rate
+eo + Width Ls Limit A me
+Circuit Circuit
+A
+si Voltage Erergy :
+Slowdown ; >|Compensation
+Monitor
+
+Circuit Circuit
 --- page 6 ---
 Q4
 a) Explanation about macro shock and micro shock. --- 03 M
@@ -353,6 +394,25 @@ transmission of the fetal heart rate, as unlike external monitoring, it is not a
 movement. Internal monitoring may be used when external monitoring is inadequate, or if closer
 surveillance is needed. Internal tocometry can only be used if the amniotic sac is ruptured either
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Skin
+t
+External tranemitter | Internal recaiver
+'
+
+1 Electrodes
+| Implanted array
+
+1
+
+'
+
+Mikrophone Amplifier +
+speech Encoder ‘elle recalver, ~
+processor 72 A dacodsr
+
+RF ink |
 --- page 11 ---
 spontaneously or artificially and the cervix is open. To gauge the strength of contractions, a small
 catheter called an intrauterine pressure catheter or IUPC is passed into the uterus past the fetus.
@@ -414,6 +474,52 @@ analysis both in time and in frequency domain. Cardio pathological and diagnosti
 drawn from HRV analysis.
 Discussion about the frequency domain measures of HRV. --- 03 M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Amplification Digitization Threshold Parameter
+
+ECG signal initialization initialization
+(database / ms Band-pass Artifact ere for ORS peak for
+real-time) : filtering removal detection classification
+
+Preprocessing module Learning module
+
+Cardio- Nonlinear erection into normal /
+—
+
+abnormal
+heart beats
+
+pathological i) measures Frequency
+. domain
+
+inferences
+
+HRV analysis module Detection & classification module
+
+Measures Unit Description Frequency
+
+Absolute measures
+
+Peak frequency Hz VLF, LF, HF band frequencies -
+
+Total power ms? Sum of the energy in the frequency bands ~=04Hz
+
+ULF ms? Power | ultralow frequency range = 0.003 Hz
+
+VLF ms? Power | very low frequency range 0.003—0.04 Hz
+
+LF ms? Power | low frequency range 0.04—0.15 Hz
+
+HF ms? Power | high frequency range 0.15—0.4 Hz
+
+Relative measures
+
+LF-norm % Normalized low frequency power LFATotal power — VLF) X 100
+HF-norm % Normalized high frequency power HFATotal power — VLF) X 100
+LF/HF % Ratio of low and high frequency power -
+
+HRV, heart rate variability; HF, high frequency; LF, low frequency; VLF, very low frequency.
 --- page 13 ---
 FIR ICR 7] QI HO
 ````
@@ -453,6 +559,31 @@ response is inhibited or limited to a specific range of sensory input from the v
 VOO- This type of pacemaker paces the ventricle but does not sense it. It produces pulses at a fixed
 rate. --- 01 M
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Beta Waves (12H2-30Hz2)
+
+\ F anf j Normal waking state, tration,
+Worm scone five physical sence, integrated
+
+0.0 02 o4 0.6 0.8 10
+
+Alpha Waves (7.5Hz-12Hz)
+Rel light meditats it
+PV Vaan > elaxed, gh meditation, creative,
+super learning, conscious
+Theta Wace «atic 7st
+
+Light sleep, deep meditation,
+
+ae [- > creative, recall, fantasy,
+0.6 0.8 1.0
+
+Delta Waves (0.1-4Hz)
+
+; Deep, dreamless sleep, non-REM
+Ne _ > sleep, unconscious
+00 02 od 06 Oo8 1.0
 --- page 2 ---
 VVIR- This type of pacemaker paces the ventricle as well as senses it. However, its response is
 inhibited or limited to a specific range of sensory input from the ventricle. It is a rate responsive
@@ -489,6 +620,17 @@ automatically adjusts amplification depending on signal strength. For soft sound
 higher gain to make them audible. For loud sounds, it should reduce gain to prevent discomfort. In this
 case loud sounds are uncomfortable, indicating that AGC is not limiting gain properly and soft sounds
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Human
+
+Finger
+Voc Photoplethysmograph
+(Analog Signal)
+Cds (Digital signal)
+Cell
+Light Source Signal H————— || Micro
+(LED) 2 Conditioning % ADC “| controller
 --- page 3 ---
 are unclear, indicating that AGC is not amplifying sufficiently This indicates improper functioning or
 absence of AGC.
@@ -553,6 +695,23 @@ a) Discussion about NFPA electrical safety guidelines to be followed while using
 equipments. --- 10 M
 1) Double-insulated appliances shall have two conductor cords. However, there are other
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+6000 J ~ Inspiration ~
+
+"tty Ti.) UT
+
+Inspiratory Inspiratory Vital
+Reserve Capacity Capacity ;
+4000 + Volume Tidal
+Volume
+ae oe 0 --F--—-- Total __
+= x Lung
+—) Expiratory Reserve Capacity ~~
+vac Functional
+1000 = cy Residual —————}+——____
+Residual - Capacity
+Volume ~ Expiration ~
 --- page 5 ---
 appliances used in patient care that are provided with a three-wire cord and a three-pin grounding-
 type plug.
@@ -579,6 +738,46 @@ b) Classification of various equipment used in respiratory measurements. --- 03 
 Diagram of ventilator. --- 03 M
 Explanation of its working. --- 04 M
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Ventilator Unit
+
+I Control Valve r— >| Main Solenoid 1
+1
+1 i} !
+| !
+I i
+Spirometer Bellows 1
+I
+Ali >
+Yarm | Control 1
+ell ono I Electronics I
+ellows 1
+~ J 1 Meta
+1 Lower | Inlet I
+Outlet 1
+Outlet
+!
+
+L:xpination
+
+Valve
+
+@1 ;
+
+| Outside Air Au
+Compressor I
+
+Inspiration Bacterial |
+
+<—
+
+Nebulizer
+
+=" Filter
+rc
+
+Humidifier
 --- page 6 ---
 Q5.
 a) Block diagram of a pacemaker circuit. --- 04 M
@@ -601,6 +800,20 @@ They are defined as a short-term decline in fetal HR. Given two main factors - d
 relationship between decelerations and the onset and the end of the uterine contraction, decelerations
 are classified into three main groups: variable, early and late.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Reversion |_ Sensing |. Refractory |
+Circuit Circuit | Circuit
+a
+ae Pulse Rate
+aan >| Width >| Limit me >
+Circuit Circuit
+yj
+Rate
+Slowdown nen: > Binet
+Monitor
+
+Circuit Circuit
 --- page 7 ---
 Q6.
 a) Block diagram of Bekesy audiometer. --- 04 M
@@ -677,6 +890,33 @@ operation, type of measurement, suitable subjects, accuracy, signal processing, 
 detection technique and applications. --- 05 M
 c) Discussion about correlation between autonomic nervous system and HRV. --- 03 M
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Parasympathetic nervous system (PSNS):
+* Reduced heart rate
+
+Vagus nerve (parasympathetic) = ° Increased HRV
+Relaxed state (resting and digesting) * Respiration slows
+
+Think, repair, and rebuild * Lowstress hormone level
+Sympathetic cardiac nerves << Sympathetic nervous system (SNS):
+Survival mode * Increased heart rate
+(fight-or-flight) * Reduced HRV
+
+* Respiration speeds up
+* High stress hormone level
+
+R-R interval (ms)
+
+R
+828 845 754 742
+UI
+SA node P
+AV node 0
+s
+
+Intervals between each heart beat vary and
+this variation constitutes HRV
 --- page 10 ---
 Functional block diagram of HRV measurement system. --- 03 M
 Explanation of its operation. --- 04 M
@@ -700,4 +940,31 @@ the HRV. HRV analysis is accomplished using linear or nonlinear techniques. Line
 analysis both in time and in frequency domain. Cardio pathological and diagnostic inferences can be
 drawn from HRV analysis.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Amplification Digitization Threshold Parameter
+
+ECG signal initialization initialization
+
+meee for QRS peak for
+detection classification
+
+(database / ib. Band-pass Artifact
+real-time) , filtering removal
+
+Preprocessing module Learning module
+
+|
+
+Cardio- . Nonlinear detection into normal /
+pathological —__] measures Frequency _
+
+domain
+
+abnormal
+heart beats
+
+inferences
+
+HRV analysis module Detection & classification module
 ````

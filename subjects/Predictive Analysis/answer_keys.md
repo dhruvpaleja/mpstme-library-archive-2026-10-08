@@ -708,6 +708,25 @@ how these measures contribute to understanding patterns in Market Basket
 Analysis and suggest actionable insights for the store.
 ANS:
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+We are analyzing the association rule {milk} > {Bread} using support, confidence, and lift to
+understand purchase patterns.
+
+Step 1: Calculate Support
+Support measures how frequently the item set appears in the transactions.
+
+Transactions containing both Milk and Bread
+Total Transactions
+
+Support(Milk > Bread) =
+
+From the dataset: Transactions with both Milk and Bread = 1, 4, 6, 8, 9 — 5 transactions.
+Total transactions = 10
+
+Support = — = 0.5 (50%)
+
+7
 --- page 20 ---
 02x3
 Step 4: Interpretation   02
@@ -734,6 +753,37 @@ model:
 cases. Higher accuracy indicates that the decision tree is correctly
 predicting outcomes for most observations.
 ********** 20 **********
+
+[Text in pictures on this page, read by OCR]
+Step 2: Calculate Confidence
+
+Confidence measures how often Bread is purchased when Milk is purchased.
+
+Transactions containing both Milk and Bread
+Transactions containing Milk
+
+Confidence(Milk > Bread) =
+
+Transactions with Milk = 1, 2, 4, 6, 8, 9 - 6 transactions
+
+5
+
+Confidence = 5 = 0.833 (83.3%)
+
+Step 3: Calculate Lift
+
+Lift measures how much more likely Bread is purchased with Milk compared to its baseline frequency.
+
+Confidence(Milk > Bread)
+
+Lift(Milk + Bread) = Support (Bread)
+
+Transactions with Bread = 1, 3, 4, 5, 6, 8, 9, 10 — 8 transactions
+
+Support(Bread) = = =0.8
+
+, _ 0.833 _
+Lift = > ~ 1.04
 --- page 21 ---
 •   Misclassification: This is the proportion of cases that are incorrectly
 classified by the decision tree. It measures the error rate and is
@@ -782,6 +832,34 @@ Predicting whether a customer will purchase a product:
 Logistic regression predicts the probability of purchase based on features
 such as age, income, and browsing time.
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+1
+
+P(Y=1|X)= 1p ee MX Ma)
+
+Where:
+
++ P(Y =1) X) = probability that the target variable belongs to class 1
+» B=
+* Bi, Bo,-..,
+e X,,Xo,...,X, = independent variables
+« e= base of the natural logarithm
+
+intercept (bias term)
+
+8, = model coefficients
+
+Explanation of the Formula
+1. The expression
+
+Bo + BX +++++ BaXn
+
+represents a linear combination of inputs.
+2. The sigmoid function transforms this linear value into a probability between 0 and 1.
+3. Adecision threshold (usually 0.5) is applied:
+e If probability = 0.5 — Class 1
+e If probability < 0.5 — Class 0
 ````
 
 ## 2025-26 · Final-Exam · Sem 6 · Answer key · paper 240a653df3e9
@@ -824,6 +902,20 @@ CO- 2;
 SO- 1;   [5]
 BL-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+High:
+Gini = 1 — (0.8? + 0.27) = 0.32
+
+Medium:
+
+Gini = 1 — (0.6? + 0.47) = 0.48
+Low:
+
+Gini = 1 — (0.4 + 0.67) = 0.48
+Weighted:
+
+x0. 32) + 75 °-(0. 48) + 2. (0.48) — 0.426
 --- page 2 ---
 b.   Given the following dataset representing the number of hours studied (X)
 and the final exam score (Y) for 5 students:
@@ -853,6 +945,31 @@ Importance:
 • Help in selecting the best model
 • Measure prediction accuracy
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Compute sums
+
+Sox =25, SOY =370
+Sox? = 151, SO XY = 2035
+n=5
+Calculate slope m
+__ 5(2035) — (25)(370)
+5(151) — (25)?
+
+1 —
+_ 10175~9250 925
+755-625 130
+
+Calculate intercept c
+
+370 — (7.115 x 25)
+7
+5
+370 — 177.875 192.125
+_ _
+
+= 38.425
+5 5
 --- page 3 ---
 •   Detect overfitting or underfitting
 • Ensure model reliability
@@ -1115,6 +1232,20 @@ CO- 2;
 SO- 1;   [5]
 BL-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+High:
+Gini = 1 — (0.8? + 0.27) = 0.32
+
+Medium:
+
+Gini = 1 — (0.6? + 0.47) = 0.48
+Low:
+
+Gini = 1 — (0.4 + 0.67) = 0.48
+Weighted:
+
+x0. 32) + 75 °-(0. 48) + 2. (0.48) — 0.426
 --- page 2 ---
 b.   Given the following dataset representing the number of hours studied (X)
 and the final exam score (Y) for 5 students:
@@ -1144,6 +1275,31 @@ Importance:
 • Help in selecting the best model
 • Measure prediction accuracy
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Compute sums
+
+Sox =25, SOY =370
+Sox? = 151, SO XY = 2035
+n=5
+Calculate slope m
+__ 5(2035) — (25)(370)
+5(151) — (25)?
+
+1 —
+_ 10175~9250 925
+755-625 130
+
+Calculate intercept c
+
+370 — (7.115 x 25)
+7
+5
+370 — 177.875 192.125
+_ _
+
+= 38.425
+5 5
 --- page 3 ---
 •   Detect overfitting or underfitting
 • Ensure model reliability
@@ -1373,6 +1529,7 @@ BL-4
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_AIDS_7056/Predictive Analysis/ANS_Predictive Analysis(702DB0E003)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Feb 2026
 - Text: text (20 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1454,6 +1611,20 @@ BL-2   Value Region” variable in the dataset? How many bins are used in this
 graph, and what insights can you draw from their distribution?
 ANS:
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Frequency of Median Home Value Region
+Frequency
+
+2,500
+2,000
+1,500
+1,000
+
+500
+
+$100,000 $200,000 $300,000 $400,000 $500,000 $600,000
+Median Home Value Region
 --- page 3 ---
 1. The figure is a histogram created by dividing the “Median Home
 01x5
@@ -1520,6 +1691,32 @@ efficiency, provided their predictive performance is adequate.
 • The sketch shows that as complexity increases; training performance
 improves but validation performance may decline due to overfitting.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Model Selection
+
+Training Data Validation Data
+
+Select the simplest model with the Model
+highest validation assessment. Complexity
+
+Model Training Data Validation Decision
+
+Complexity Performance Assessment
+
+1 (Simplest) Moderate High Selected
+
+2 High High Consider
+
+3 Very High Moderate Reject
+(Overfit)
+
+4 Very High Low Reject
+(Overfit)
+
+5 (Most Complex) | Very High Low Reject
+
+(Overfit)
 --- page 5 ---
 • The optimal model is the one with good validation performance and
 minimal complexity.
@@ -1665,6 +1862,22 @@ Q4   Explain in brief about any two problem solving methods from the given
 CO-2; SO-1;   a.   figure:   [10]
 BL-2,3
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Neural Network Binary Prediction Formula
+F
+
+logit
+
+link function A A A
+
+j H, = tanh(Wyo + W441 X1 + Waz Xp)
+A A A
+
+t) 1 Hy = tanh(Wa + W241 X14 + Wp Xz)
+
+A A A
+Hg = tanh(Wap + Waq X4 + Wa X2)
 --- page 9 ---
 ANS:   05x2
 Problem-Solving Methods in Regression Modeling
@@ -1723,6 +1936,18 @@ classified.
 •   Purpose: Evaluate how well the model assigns cases to the correct
 category.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Assessment Measures
+
+Prediction Type Fit Statistic
+a Accuracy/Misclassification
+D> Decisions KS Youden
+7 ROC Index
+D> Rankings Gini Coefficient
+> Estimates Average Squared Error
+
+RMSE/SBC/AIC/Likelihood
 --- page 11 ---
 B. Ranking Predictions (Scores or Probabilities)
 • Used when the model outputs a ranking or probability score for each
@@ -2061,6 +2286,37 @@ indicates good predictive ranking.
 with the higher predicted probability has a lower actual outcome.
 High discordance indicates misranking by the model.
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Identify the Transactions
+
+« Transactions containing Bread: 2, 3, 5,6, 8 —- Total=5
+
+« Transactions containing Butter: 2, 5, 7 — Total = 3
+
+« Transactions containing both Bread and Butter: 2, 5 — Total = 2
+« Total transactions = 8
+
+Step 2: Calculate Support
+
+Transactions with Bread and Butter 2
+
+Support(Bread > Butter) = Total T tions = 37 0.25 (25%)
+
+Step 3: Calculate Confidence
+
+T ti ith Bread and Butt: 2
+Confidence(Bread > Butter) = a ~— — ~ ad = = = 0.4(40%)
+ansas vo
+
+Step 4: Calculate Lift
+
+Confidence(Bread > Butter) 04 0.4
+
+Lift(Bread > Butter) = ===
+ift(Bread > Butter) Support (Butter) 3/8 0.375
+
+= 1.07
 --- page 20 ---
 Usage:
 These metrics help assess the ranking ability of decision tree models,
@@ -2083,4 +2339,22 @@ ANS:
 Explanation of the following figure:
 .
 ********** 20 **********
+
+[Text in pictures on this page, read by OCR]
+Linear Regression Prediction Formula
+
+input
+
+measurement
+
+A A A A prediction
+Y = Wot WX, + WX)“;
+
+Choose intercept and parameter estimates to minimize:
+squared error function
+A
+D(vi- Vi)?
+
+training
+data
 ````

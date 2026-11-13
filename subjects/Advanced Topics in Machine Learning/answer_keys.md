@@ -78,6 +78,50 @@ CO-4 D   Discuss concept, causes and drawbacks due to over smoothing problem in 
 SO-1
 BL-3
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Virtual batch normalization
+ee
+
+Given an activation a in a layer:
+
+1. Compute the batch mean:
+
+o Batch normalization?
+
+© It works by normalizing uB= aoe
+the activations of each 2. Compute the batch variance:
+layer across a mini- im
+batch, making the ob = =e ~ pe)?
+optimization process 5 porate “
+smoother a Zicme
+" Yoz+e
+
+where € is a small constant for numerical stability.
+4, Apply learnable scale and shift parameters ( and 8):
+
+yi = ei +8
+
+Virtual batch normalization
+a
+
+1. Select a Reference Batch: A fixed batch of samples is chosen at the beginning of training and
+
+1 Virtual Batch never changes.
+Normalization 2. Compute Statistics from the Reference Batch:
+© Normalizes each sample ‘* Compute mean j, and variance @? from the reference batch.
+independently using 3. Normalize Each Sample Independently:
+sta 's computed from
+a fixed "reference * For each input sample 2, compute:
+
+batch," rather than using
+statistics from the current
+mini-batch
+
+where € is a small constant for numerical stability.
+© Then apply scale and shift parameters y and 8 (learned during training):
+
+y= 78+8
 --- page 3 ---
 Concept (2 Marks)
 Causes (2 Marks)
@@ -88,6 +132,84 @@ SO-1   ii.   State challenges experienced in traditional machine learning algori
 BL-3   iii.   Discuss meta training and meta testing in brief with reference to training
 set, support set and query set
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Over smoothing problem
+|
+
+2 Oversmoothing is a well-known problem in message-passing GNNs
+
+© Most GNNs follow the message-passing paradigm, where node representations are computed
+by recursively aggregating and transforming the representations of the neighboring nodes
+
+© One notably drawback of this repeated message-passing is oversmoothing, which refers to the
+phenomenon that increasing model depth leads to homogeneous node representations and
+thus worse downstream task performances
+
+© Over-smoothing occurs when node representations in a Graph Neural Network (GNN) become
+indistinguishable as the number of layers increases.
+
+© It leads to nodes in the same cluster having overly similar embeddings, reducing the model's
+ability to distinguish different node features
+
+a If a GNN has many layers, all node embeddings start to look the same, making classification
+difficult
+
+© Asa result, many GNNs used in practice remain shallow and often only have a few layers
+
+Over smoothing problem
+
+0 Typical GNN performances with
+respect to the model depth would
+
+look like the following plot, where £
+increasing network depth will first E
+
+increase the performance, and once 3
+
+the model bypasses its optimal
+
+depth, which is typically a small (a small number) # layers
+number (e.g. 2—4 layers), the
+
+performance will quickly decrease
+
+go As the number of layers tends to
+infinity, oversmoothing is inevitable [Li
+
+Oo Having “some” graph convolutions is
+better than having no graph
+
+2022).
+
+4 Combining the above two points of (o-small umber)
+views, the optimal depth is finite (i.e.
+the curve should indeed have a hump
+shape) [Keriven 2022]
+
+# layers
+
+Oo Causes of over smoothing
+© Laplacian Smoothing Effect
+
+= GCNs apply repeated neighbourhood aggregation, which smoothens node features across the
+graph.
+= Mathematically, the node representation update is:
+
+1 4
+
+= HE = o(p-2aD HW)
+
+m= where A = adjacency matrix and D = degree matrix.
+
+= Ask increases, all nodes in the same connected component converge to a similar
+representation
+
+™ The deeper the network, the more nodes share information, resulting in similar
+representations.
+
+= Instead of capturing local differences, GNNs spread features too uniformly across
+the graph
 --- page 4 ---
 iv.   Explain zero shot learning algorithm with the help of suitable scenario
 and illustrations
@@ -96,6 +218,43 @@ and illustrations
 (iii)   (2.5 Marks)
 (iv)   (2.5 Marks)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Traditional ML Vs Meta-learning
+
+a In supervised learning, models are trained to solve a specific
+task using a defined training dataset
+
+a Meta learning process entails a variety of tasks, each with
+its own associated dataset
+
+a From these multiple learning events, models gain the ability
+to generalize across tasks, which allow them to adapt swiftly
+to novel scenarios even with little data
+
+a Meta learning algorithms are trained on the predictions and
+metadata of other
+
+Challenges
+
+0 Large datasets are unavailable:
+This issue is common in many domains ( classification of rare diseases, translation of rare
+languages.
+
+0 Data has a long tail:
+© This issue can easily break the standard machine learning paradigm.
+For example, in the self-driving car setting, an autonomous vehicle can be trained to handle
+common situations very well, but it often struggles with uncommon situations (such as people jay-
+walking, animals crossing, traffic lines not working) where humans can easily handle.
+
+This can lead to very bad outcomes, such as the Uber's accident in A
+
+na a few years ago.
+
+- We want to quickly learn something about a new task without training our model from scratch:
+o Humans can do this quite easily by leveraging our prior experience.
+o For example, if | know a bit of Gujrati, then it should not be too difficult for me to learn
+Marwadi, as these two languages are quite similar linguistically.
 --- page 5 ---
 CO-1 B   Consider a scenario where the embedding generated by the Siamese network for (5)
 SO-1   the two images are as follows-
@@ -108,6 +267,51 @@ ii.   For margin m = 0.4, calculate contrastive loss for both the cases- 𝑙�
 1 𝑎𝑛𝑑 𝑙𝑎𝑏𝑒𝑙 𝑦= 0
 iii.   Interpret the result obtained in (ii)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Zero-shot learning (ZSL) is a scenario in which an is trained to
+recognize and categorize objects or concepts without having seen any examples of those
+categories or concepts beforehand
+
+Idea behind ZSL
+
+humans can naturally find similarities between data classes
+
+© similarly training the machine to identify patterns
+
+Goal of ZSL
+
+1 gain the ability to predict the results without any training samples
+
+| machine has to recognize the objects from classes that are not trained during training
+
+Zero shot learning is a way for machines to recognize new objects or concepts without needing
+any prior examples
+
+Instead of relying on large sets of labeled data, it uses what it already knows to figure things
+out
+
+Zero-shot learning (ZSL) is a scenario in which an is trained to
+recognize and categorize objects or concepts without having seen any examples of those
+categories or concepts beforehand
+
+Idea behind ZSL
+
+© humans can naturally find similarities between data classes
+
+o similarly training the machine to identify patterns
+
+Goal of ZSL
+
+5 gain the ability to predict the results without any training samples
+
+© machine has to recognize the objects from classes that are not trained during training
+
+Zero shot learning is a way for machines to recognize new objects or concepts without needing
+any prior examples
+
+Instead of relying on large sets of labeled data, it uses what it already knows to figure things
+out
 --- page 6 ---
 CO-2 C   Sketch the model of a sparse autoencoder.   (5)
 SO-1   L1 regularization contributes to establishing sparsity in a sparse autoencoder.
@@ -130,6 +334,29 @@ vector is zero for the decoder.
 v.   Evaluate mean square error loss.
 2 Marks each Section
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+argminy, E[A(2:, f(g(2:)))] + AD, a!”
+
+What each part means
+
+e First term:
+
+E[A(2;, f(9(x:)))]
+
+— Reconstruction loss (how well the autoencoder rebuilds the input)
+e Second term:
+
+Ad: a‘)
+
+— L1 regularization on hidden activations (forces sparsity)
+e 2 (lambda)
+
+— Controls how strong the sparsity penalty is
+
+e Large A > more sparse (more zeros)
+
+e¢ Small A - less sparse
 --- page 8 ---
 CO-4 B   With reference to Variational Autoencoders (VAE), answer the following (10)
 SO-1   questions
@@ -229,6 +456,43 @@ images as being real or fake, the WGAN changes or replaces the discriminator
 model with a critic that scores the realness or fakeness of a given image
 WGAN Pseudocode (5 Marks)
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+oO Reconstruction Error
+
+The reconstruction error in a VAE quantifies how well the
+decoder reconstructs the input from the latent space
+o KL Divergence
+
+This term ensures that the learned distribution is
+similar.to prior distribution which is assumed to be
+standard normal distribution
+
+Algorithm 1 WGAN, our proposed algorithm. All experiments in the paper used
+the default values a = 0.00005, c = 0.01, m = 64, neritic = 5.
+
+Require: : a, the learning rate. c, the clipping parameter. m, the batch size.
+Necritic, the number of iterations of the critic per generator iteration.
+Require: : wo, initial critic parameters. 9, initial generator’s parameters.
+1: while 6 has not converged do
+
+2: for t = 0,..., Ncritic do
+
+3: Sample {c}™, ~ P,. a batch from the real data.
+4: Sample {z‘)}™, ~ p(z) a batch of prior samples.
+5 gu Vw [EM fala) — 2%, folgo(2)]
+6: w + w+a-RMSProp(w, gu)
+
+7: w + clip(w, —c, c)
+
+8: end for
+
+9: Sample {2 }™, ~ p(z) a batch of prior samples.
+10: 99 + —VoX rina fw (Go(2))
+
+11: 6 + 6—a- RMSProp(8, ge)
+
+12: end while
 --- page 11 ---
 CO-2 B A GAN model has the following functions-   (5)
 SO-1   Discrimintator 𝐷(𝑥) = 1
@@ -246,6 +510,31 @@ i.   2 Marks
 ii.   2 Marks
 iii.   1 Mark
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Feature matching
+De
+
+0 Feature Matching is a regularizing objective for a generator in GAN that prevents it from
+overtraining on the current discriminator
+
+0 Instead of directly maximizing the output of the discriminator the new objective requires the
+generator to generate data that matches the statistics of the real data, where we use the
+discriminator only to specify the statistics that we think are worth matching
+
+Specifically, we train the generator to match the expected value of the features on an
+intermediate layer of the discriminator
+
+a This is a natural choice of statistics for the generator to match, since by training the
+discriminator we ask it to find those features that are most discriminative of real data versus
+data generated by the current model
+
+a Letting f(x) denote activations on an intermediate layer of the discriminator, our new objective
+for the generator is defined as
+
+(x) — Exny.(2)f(G(z))|
+
+| Few pass 3.
 --- page 12 ---
 Q5
 CO-3 A   Consider an application to design an English to Hindi Machine translation system (10)
@@ -269,6 +558,31 @@ iv.   2.5 Marks
 CO-3 B   i.   State drawbacks of self attention and justify the need of multi-headed (10)
 SO-1   attention
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+co Feature matching changes the cost function for the generator to minimizing the statistical difference between
+the features of the real images and the generated images
+
+2 Often, we measure the L2-distance between the means of their feature vectors
+
+2 Therefore, feature matching expands the goal from beating the opponent to matching features in real
+images
+
+0 Here is the new objective function:
+||Ex~puuf(#) — Ez~p, (2)f(G(z))||3-
+
+where f(x) is the feature vector extracted in an immediate layer by the discriminator
+
+Benefits of Feature Matching
+
+a Stabilizes GAN training: Reduces mode collapse and helps the generator
+learn meaningful features.
+
+a Encourages diversity: Instead of just fooling the discriminator, the
+generator learns to create samples with richer, more realistic variations.
+
+c Improves generalization: Generated samples align better with real data
+distributions in feature space.
 --- page 13 ---
 BL-4   ii.   Consider the attention model with the given data
 2 0 1
@@ -303,6 +617,37 @@ ii.   Discuss the role of encoder with suitable expressions
 iii.   Discuss the role of decoder with suitable expressions
 iv.   State and explain the loss function
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Variational Graph Autoencoder VGAE
+
+oO Unsupervised Learning on Graph structured data
+
+O This model makes use of latent variables and is capable. of learning
+interpretable latent representations for undirected graphs
+
+a Applies the idea of VAE to graph-structured data
+
+co We want our variational graph autoencoder to be able to generate new
+graphs or reason about graphs
+
+Oo However, we can’t just straightforwardly apply the idea of VAE because
+graph-structured data are irregular
+
+oO Each graph has a variable size of unordered nodes and each node in a
+graph has a different number of neighbours, so we can’t just use convolution
+directly anymore
+
+Variational Graph Autoencoder
+
+Obtain adjacency matrix and feature matrix of a graph
+
+OOO who ot
+7. “lll wf,
+o Pe © [EE]
+[RE Of
+
+100
 --- page 15 ---
 ;
 
@@ -341,6 +686,38 @@ iv.   Develop message passing expression for the above computational graph
 v.   Develop message aggregation equation for node N2 in above
 computational graph
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+‘Then we can calculate Z using parameterization trick
+
+Z=ptor*e
+
+where € ~ N(0,1).
+
+The decoder (generative model) is defined by an inner product between latent variable Z. The output of
+our decoder is a reconstructed adjacency matrix A-hat, which is defined as
+
+A =o(z27)
+
+where a() is the logistic sigmoid function.
+
+Variational Graph Autoencoder
+
+In summary, the encoder is represented as
+
+q(zi|X, A) = N(zi|mi, diag(o7)
+and the decoder is represented as
+
+p(Aijg = 1\2i, 2) = o(2) 2)
+
+The loss function for variational graph autoencoder is pretty much the same
+as before. The first part is the reconstruction loss between the input
+adjacency matrix and the reconstructed adjacency matrix. More specifically,
+it is the binary cross-entropy between the target (A) and output (A) logits.
+The second part is the KL-divergence between q(Z | X, A) and p(Z), where
+p(Z) = N(0,1). It measures how closely our q(Z | X, A) matches to p(Z).
+
+L = Eyz\x,a)llogp(A|Z)] — KL[q(Z|X, A)||p(Z)]
 --- page 17 ---
 vi.   Express update equation for node N2
 CO-3 B   With reference to the Transformer model, briefly explain the following (5)
@@ -373,6 +750,24 @@ iv.   Computation complexity
 v.   Effectiveness.
 1 Mark each
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+‘Computation Type Additive attention (MLP-based) Multiplicative attention (dot-product)
+
+Score Function score(hy, 8¢-1) = v! tanh(Wihe + score(he, 81) = hf Ws; or
+Wost1) score(he, st) = hfs
+
+Context Vector Uses previous decoder state (s,_,) when Uses current decoder state (s,) when
+
+Calculation computing attention scores computing attention scores
+
+Computational Higher due to learned weight matrices and Lower due to dot product operations
+
+Complexity tanh
+
+Effectiveness More flexible, better for handling long More efficient, works well for short-to-
+
+sequences medium sequences
 ````
 
 ## 2025-26 · Final-Exam · Sem 6 · Answer key · paper 8255fb29480e
@@ -451,6 +846,50 @@ CO-4 D   Discuss concept, causes and drawbacks due to over smoothing problem in 
 SO-1
 BL-3
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Virtual batch normalization
+ee
+
+Given an activation a in a layer:
+
+1. Compute the batch mean:
+
+o Batch normalization?
+
+© It works by normalizing uB= aoe
+the activations of each 2. Compute the batch variance:
+layer across a mini- im
+batch, making the ob = =e ~ pe)?
+optimization process 5 porate “
+smoother a Zicme
+" Yoz+e
+
+where € is a small constant for numerical stability.
+4, Apply learnable scale and shift parameters ( and 8):
+
+yi = ei +8
+
+Virtual batch normalization
+a
+
+1. Select a Reference Batch: A fixed batch of samples is chosen at the beginning of training and
+
+1 Virtual Batch never changes.
+Normalization 2. Compute Statistics from the Reference Batch:
+© Normalizes each sample ‘* Compute mean j, and variance @? from the reference batch.
+independently using 3. Normalize Each Sample Independently:
+sta 's computed from
+a fixed "reference * For each input sample 2, compute:
+
+batch," rather than using
+statistics from the current
+mini-batch
+
+where € is a small constant for numerical stability.
+© Then apply scale and shift parameters y and 8 (learned during training):
+
+y= 78+8
 --- page 3 ---
 Concept (2 Marks)
 Causes (2 Marks)
@@ -461,6 +900,84 @@ SO-1   ii.   State challenges experienced in traditional machine learning algori
 BL-3   iii.   Discuss meta training and meta testing in brief with reference to training
 set, support set and query set
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Over smoothing problem
+|
+
+2 Oversmoothing is a well-known problem in message-passing GNNs
+
+© Most GNNs follow the message-passing paradigm, where node representations are computed
+by recursively aggregating and transforming the representations of the neighboring nodes
+
+© One notably drawback of this repeated message-passing is oversmoothing, which refers to the
+phenomenon that increasing model depth leads to homogeneous node representations and
+thus worse downstream task performances
+
+© Over-smoothing occurs when node representations in a Graph Neural Network (GNN) become
+indistinguishable as the number of layers increases.
+
+© It leads to nodes in the same cluster having overly similar embeddings, reducing the model's
+ability to distinguish different node features
+
+a If a GNN has many layers, all node embeddings start to look the same, making classification
+difficult
+
+© Asa result, many GNNs used in practice remain shallow and often only have a few layers
+
+Over smoothing problem
+
+0 Typical GNN performances with
+respect to the model depth would
+
+look like the following plot, where £
+increasing network depth will first E
+
+increase the performance, and once 3
+
+the model bypasses its optimal
+
+depth, which is typically a small (a small number) # layers
+number (e.g. 2—4 layers), the
+
+performance will quickly decrease
+
+go As the number of layers tends to
+infinity, oversmoothing is inevitable [Li
+
+Oo Having “some” graph convolutions is
+better than having no graph
+
+2022).
+
+4 Combining the above two points of (o-small umber)
+views, the optimal depth is finite (i.e.
+the curve should indeed have a hump
+shape) [Keriven 2022]
+
+# layers
+
+Oo Causes of over smoothing
+© Laplacian Smoothing Effect
+
+= GCNs apply repeated neighbourhood aggregation, which smoothens node features across the
+graph.
+= Mathematically, the node representation update is:
+
+1 4
+
+= HE = o(p-2aD HW)
+
+m= where A = adjacency matrix and D = degree matrix.
+
+= Ask increases, all nodes in the same connected component converge to a similar
+representation
+
+™ The deeper the network, the more nodes share information, resulting in similar
+representations.
+
+= Instead of capturing local differences, GNNs spread features too uniformly across
+the graph
 --- page 4 ---
 iv.   Explain zero shot learning algorithm with the help of suitable scenario
 and illustrations
@@ -469,6 +986,43 @@ and illustrations
 (iii)   (2.5 Marks)
 (iv)   (2.5 Marks)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Traditional ML Vs Meta-learning
+
+a In supervised learning, models are trained to solve a specific
+task using a defined training dataset
+
+a Meta learning process entails a variety of tasks, each with
+its own associated dataset
+
+a From these multiple learning events, models gain the ability
+to generalize across tasks, which allow them to adapt swiftly
+to novel scenarios even with little data
+
+a Meta learning algorithms are trained on the predictions and
+metadata of other
+
+Challenges
+
+0 Large datasets are unavailable:
+This issue is common in many domains ( classification of rare diseases, translation of rare
+languages.
+
+0 Data has a long tail:
+© This issue can easily break the standard machine learning paradigm.
+For example, in the self-driving car setting, an autonomous vehicle can be trained to handle
+common situations very well, but it often struggles with uncommon situations (such as people jay-
+walking, animals crossing, traffic lines not working) where humans can easily handle.
+
+This can lead to very bad outcomes, such as the Uber's accident in A
+
+na a few years ago.
+
+- We want to quickly learn something about a new task without training our model from scratch:
+o Humans can do this quite easily by leveraging our prior experience.
+o For example, if | know a bit of Gujrati, then it should not be too difficult for me to learn
+Marwadi, as these two languages are quite similar linguistically.
 --- page 5 ---
 CO-1 B   Consider a scenario where the embedding generated by the Siamese network for (5)
 SO-1   the two images are as follows-
@@ -481,6 +1035,51 @@ ii.   For margin m = 0.4, calculate contrastive loss for both the cases- 𝑙�
 1 𝑎𝑛𝑑 𝑙𝑎𝑏𝑒𝑙 𝑦= 0
 iii.   Interpret the result obtained in (ii)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Zero-shot learning (ZSL) is a scenario in which an is trained to
+recognize and categorize objects or concepts without having seen any examples of those
+categories or concepts beforehand
+
+Idea behind ZSL
+
+humans can naturally find similarities between data classes
+
+© similarly training the machine to identify patterns
+
+Goal of ZSL
+
+1 gain the ability to predict the results without any training samples
+
+| machine has to recognize the objects from classes that are not trained during training
+
+Zero shot learning is a way for machines to recognize new objects or concepts without needing
+any prior examples
+
+Instead of relying on large sets of labeled data, it uses what it already knows to figure things
+out
+
+Zero-shot learning (ZSL) is a scenario in which an is trained to
+recognize and categorize objects or concepts without having seen any examples of those
+categories or concepts beforehand
+
+Idea behind ZSL
+
+© humans can naturally find similarities between data classes
+
+o similarly training the machine to identify patterns
+
+Goal of ZSL
+
+5 gain the ability to predict the results without any training samples
+
+© machine has to recognize the objects from classes that are not trained during training
+
+Zero shot learning is a way for machines to recognize new objects or concepts without needing
+any prior examples
+
+Instead of relying on large sets of labeled data, it uses what it already knows to figure things
+out
 --- page 6 ---
 CO-2 C   Sketch the model of a sparse autoencoder.   (5)
 SO-1   L1 regularization contributes to establishing sparsity in a sparse autoencoder.
@@ -503,6 +1102,29 @@ vector is zero for the decoder.
 v.   Evaluate mean square error loss.
 2 Marks each Section
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+argminy, E[A(2:, f(g(2:)))] + AD, a!”
+
+What each part means
+
+e First term:
+
+E[A(2;, f(9(x:)))]
+
+— Reconstruction loss (how well the autoencoder rebuilds the input)
+e Second term:
+
+Ad: a‘)
+
+— L1 regularization on hidden activations (forces sparsity)
+e 2 (lambda)
+
+— Controls how strong the sparsity penalty is
+
+e Large A > more sparse (more zeros)
+
+e¢ Small A - less sparse
 --- page 8 ---
 CO-4 B   With reference to Variational Autoencoders (VAE), answer the following (10)
 SO-1   questions
@@ -602,6 +1224,43 @@ images as being real or fake, the WGAN changes or replaces the discriminator
 model with a critic that scores the realness or fakeness of a given image
 WGAN Pseudocode (5 Marks)
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+oO Reconstruction Error
+
+The reconstruction error in a VAE quantifies how well the
+decoder reconstructs the input from the latent space
+o KL Divergence
+
+This term ensures that the learned distribution is
+similar.to prior distribution which is assumed to be
+standard normal distribution
+
+Algorithm 1 WGAN, our proposed algorithm. All experiments in the paper used
+the default values a = 0.00005, c = 0.01, m = 64, neritic = 5.
+
+Require: : a, the learning rate. c, the clipping parameter. m, the batch size.
+Necritic, the number of iterations of the critic per generator iteration.
+Require: : wo, initial critic parameters. 9, initial generator’s parameters.
+1: while 6 has not converged do
+
+2: for t = 0,..., Ncritic do
+
+3: Sample {c}™, ~ P,. a batch from the real data.
+4: Sample {z‘)}™, ~ p(z) a batch of prior samples.
+5 gu Vw [EM fala) — 2%, folgo(2)]
+6: w + w+a-RMSProp(w, gu)
+
+7: w + clip(w, —c, c)
+
+8: end for
+
+9: Sample {2 }™, ~ p(z) a batch of prior samples.
+10: 99 + —VoX rina fw (Go(2))
+
+11: 6 + 6—a- RMSProp(8, ge)
+
+12: end while
 --- page 11 ---
 CO-2 B A GAN model has the following functions-   (5)
 SO-1   Discrimintator 𝐷(𝑥) = 1
@@ -619,6 +1278,31 @@ i.   2 Marks
 ii.   2 Marks
 iii.   1 Mark
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Feature matching
+De
+
+0 Feature Matching is a regularizing objective for a generator in GAN that prevents it from
+overtraining on the current discriminator
+
+0 Instead of directly maximizing the output of the discriminator the new objective requires the
+generator to generate data that matches the statistics of the real data, where we use the
+discriminator only to specify the statistics that we think are worth matching
+
+Specifically, we train the generator to match the expected value of the features on an
+intermediate layer of the discriminator
+
+a This is a natural choice of statistics for the generator to match, since by training the
+discriminator we ask it to find those features that are most discriminative of real data versus
+data generated by the current model
+
+a Letting f(x) denote activations on an intermediate layer of the discriminator, our new objective
+for the generator is defined as
+
+(x) — Exny.(2)f(G(z))|
+
+| Few pass 3.
 --- page 12 ---
 Q5
 CO-3 A   Consider an application to design an English to Hindi Machine translation system (10)
@@ -642,6 +1326,31 @@ iv.   2.5 Marks
 CO-3 B   i.   State drawbacks of self attention and justify the need of multi-headed (10)
 SO-1   attention
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+co Feature matching changes the cost function for the generator to minimizing the statistical difference between
+the features of the real images and the generated images
+
+2 Often, we measure the L2-distance between the means of their feature vectors
+
+2 Therefore, feature matching expands the goal from beating the opponent to matching features in real
+images
+
+0 Here is the new objective function:
+||Ex~puuf(#) — Ez~p, (2)f(G(z))||3-
+
+where f(x) is the feature vector extracted in an immediate layer by the discriminator
+
+Benefits of Feature Matching
+
+a Stabilizes GAN training: Reduces mode collapse and helps the generator
+learn meaningful features.
+
+a Encourages diversity: Instead of just fooling the discriminator, the
+generator learns to create samples with richer, more realistic variations.
+
+c Improves generalization: Generated samples align better with real data
+distributions in feature space.
 --- page 13 ---
 BL-4   ii.   Consider the attention model with the given data
 2 0 1
@@ -676,6 +1385,37 @@ ii.   Discuss the role of encoder with suitable expressions
 iii.   Discuss the role of decoder with suitable expressions
 iv.   State and explain the loss function
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Variational Graph Autoencoder VGAE
+
+oO Unsupervised Learning on Graph structured data
+
+O This model makes use of latent variables and is capable. of learning
+interpretable latent representations for undirected graphs
+
+a Applies the idea of VAE to graph-structured data
+
+co We want our variational graph autoencoder to be able to generate new
+graphs or reason about graphs
+
+Oo However, we can’t just straightforwardly apply the idea of VAE because
+graph-structured data are irregular
+
+oO Each graph has a variable size of unordered nodes and each node in a
+graph has a different number of neighbours, so we can’t just use convolution
+directly anymore
+
+Variational Graph Autoencoder
+
+Obtain adjacency matrix and feature matrix of a graph
+
+OOO who ot
+7. “lll wf,
+o Pe © [EE]
+[RE Of
+
+100
 --- page 15 ---
 ;
 
@@ -714,6 +1454,38 @@ iv.   Develop message passing expression for the above computational graph
 v.   Develop message aggregation equation for node N2 in above
 computational graph
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+‘Then we can calculate Z using parameterization trick
+
+Z=ptor*e
+
+where € ~ N(0,1).
+
+The decoder (generative model) is defined by an inner product between latent variable Z. The output of
+our decoder is a reconstructed adjacency matrix A-hat, which is defined as
+
+A =o(z27)
+
+where a() is the logistic sigmoid function.
+
+Variational Graph Autoencoder
+
+In summary, the encoder is represented as
+
+q(zi|X, A) = N(zi|mi, diag(o7)
+and the decoder is represented as
+
+p(Aijg = 1\2i, 2) = o(2) 2)
+
+The loss function for variational graph autoencoder is pretty much the same
+as before. The first part is the reconstruction loss between the input
+adjacency matrix and the reconstructed adjacency matrix. More specifically,
+it is the binary cross-entropy between the target (A) and output (A) logits.
+The second part is the KL-divergence between q(Z | X, A) and p(Z), where
+p(Z) = N(0,1). It measures how closely our q(Z | X, A) matches to p(Z).
+
+L = Eyz\x,a)llogp(A|Z)] — KL[q(Z|X, A)||p(Z)]
 --- page 17 ---
 vi.   Express update equation for node N2
 CO-3 B   With reference to the Transformer model, briefly explain the following (5)
@@ -746,6 +1518,24 @@ iv.   Computation complexity
 v.   Effectiveness.
 1 Mark each
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+‘Computation Type Additive attention (MLP-based) Multiplicative attention (dot-product)
+
+Score Function score(hy, 8¢-1) = v! tanh(Wihe + score(he, 81) = hf Ws; or
+Wost1) score(he, st) = hfs
+
+Context Vector Uses previous decoder state (s,_,) when Uses current decoder state (s,) when
+
+Calculation computing attention scores computing attention scores
+
+Computational Higher due to learned weight matrices and Lower due to dot product operations
+
+Complexity tanh
+
+Effectiveness More flexible, better for handling long More efficient, works well for short-to-
+
+sequences medium sequences
 ````
 
 ## 2025-26 · Final-Exam · Sem 6 · Answer key · paper e6e153ae9759
@@ -824,6 +1614,50 @@ CO-4 D   Discuss concept, causes and drawbacks due to over smoothing problem in 
 SO-1
 BL-3
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Virtual batch normalization
+ee
+
+Given an activation a in a layer:
+
+1. Compute the batch mean:
+
+o Batch normalization?
+
+© It works by normalizing uB= aoe
+the activations of each 2. Compute the batch variance:
+layer across a mini- im
+batch, making the ob = =e ~ pe)?
+optimization process 5 porate “
+smoother a Zicme
+" Yoz+e
+
+where € is a small constant for numerical stability.
+4, Apply learnable scale and shift parameters ( and 8):
+
+yi = ei +8
+
+Virtual batch normalization
+a
+
+1. Select a Reference Batch: A fixed batch of samples is chosen at the beginning of training and
+
+1 Virtual Batch never changes.
+Normalization 2. Compute Statistics from the Reference Batch:
+© Normalizes each sample ‘* Compute mean j, and variance @? from the reference batch.
+independently using 3. Normalize Each Sample Independently:
+sta 's computed from
+a fixed "reference * For each input sample 2, compute:
+
+batch," rather than using
+statistics from the current
+mini-batch
+
+where € is a small constant for numerical stability.
+© Then apply scale and shift parameters y and 8 (learned during training):
+
+y= 78+8
 --- page 3 ---
 Concept (2 Marks)
 Causes (2 Marks)
@@ -834,6 +1668,84 @@ SO-1   ii.   State challenges experienced in traditional machine learning algori
 BL-3   iii.   Discuss meta training and meta testing in brief with reference to training
 set, support set and query set
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Over smoothing problem
+|
+
+2 Oversmoothing is a well-known problem in message-passing GNNs
+
+© Most GNNs follow the message-passing paradigm, where node representations are computed
+by recursively aggregating and transforming the representations of the neighboring nodes
+
+© One notably drawback of this repeated message-passing is oversmoothing, which refers to the
+phenomenon that increasing model depth leads to homogeneous node representations and
+thus worse downstream task performances
+
+© Over-smoothing occurs when node representations in a Graph Neural Network (GNN) become
+indistinguishable as the number of layers increases.
+
+© It leads to nodes in the same cluster having overly similar embeddings, reducing the model's
+ability to distinguish different node features
+
+a If a GNN has many layers, all node embeddings start to look the same, making classification
+difficult
+
+© Asa result, many GNNs used in practice remain shallow and often only have a few layers
+
+Over smoothing problem
+
+0 Typical GNN performances with
+respect to the model depth would
+
+look like the following plot, where £
+increasing network depth will first E
+
+increase the performance, and once 3
+
+the model bypasses its optimal
+
+depth, which is typically a small (a small number) # layers
+number (e.g. 2—4 layers), the
+
+performance will quickly decrease
+
+go As the number of layers tends to
+infinity, oversmoothing is inevitable [Li
+
+Oo Having “some” graph convolutions is
+better than having no graph
+
+2022).
+
+4 Combining the above two points of (o-small umber)
+views, the optimal depth is finite (i.e.
+the curve should indeed have a hump
+shape) [Keriven 2022]
+
+# layers
+
+Oo Causes of over smoothing
+© Laplacian Smoothing Effect
+
+= GCNs apply repeated neighbourhood aggregation, which smoothens node features across the
+graph.
+= Mathematically, the node representation update is:
+
+1 4
+
+= HE = o(p-2aD HW)
+
+m= where A = adjacency matrix and D = degree matrix.
+
+= Ask increases, all nodes in the same connected component converge to a similar
+representation
+
+™ The deeper the network, the more nodes share information, resulting in similar
+representations.
+
+= Instead of capturing local differences, GNNs spread features too uniformly across
+the graph
 --- page 4 ---
 iv.   Explain zero shot learning algorithm with the help of suitable scenario
 and illustrations
@@ -842,6 +1754,43 @@ and illustrations
 (iii)   (2.5 Marks)
 (iv)   (2.5 Marks)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Traditional ML Vs Meta-learning
+
+a In supervised learning, models are trained to solve a specific
+task using a defined training dataset
+
+a Meta learning process entails a variety of tasks, each with
+its own associated dataset
+
+a From these multiple learning events, models gain the ability
+to generalize across tasks, which allow them to adapt swiftly
+to novel scenarios even with little data
+
+a Meta learning algorithms are trained on the predictions and
+metadata of other
+
+Challenges
+
+0 Large datasets are unavailable:
+This issue is common in many domains ( classification of rare diseases, translation of rare
+languages.
+
+0 Data has a long tail:
+© This issue can easily break the standard machine learning paradigm.
+For example, in the self-driving car setting, an autonomous vehicle can be trained to handle
+common situations very well, but it often struggles with uncommon situations (such as people jay-
+walking, animals crossing, traffic lines not working) where humans can easily handle.
+
+This can lead to very bad outcomes, such as the Uber's accident in A
+
+na a few years ago.
+
+- We want to quickly learn something about a new task without training our model from scratch:
+o Humans can do this quite easily by leveraging our prior experience.
+o For example, if | know a bit of Gujrati, then it should not be too difficult for me to learn
+Marwadi, as these two languages are quite similar linguistically.
 --- page 5 ---
 CO-1 B   Consider a scenario where the embedding generated by the Siamese network for (5)
 SO-1   the two images are as follows-
@@ -854,6 +1803,51 @@ ii.   For margin m = 0.4, calculate contrastive loss for both the cases- 𝑙�
 1 𝑎𝑛𝑑 𝑙𝑎𝑏𝑒𝑙 𝑦= 0
 iii.   Interpret the result obtained in (ii)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Zero-shot learning (ZSL) is a scenario in which an is trained to
+recognize and categorize objects or concepts without having seen any examples of those
+categories or concepts beforehand
+
+Idea behind ZSL
+
+humans can naturally find similarities between data classes
+
+© similarly training the machine to identify patterns
+
+Goal of ZSL
+
+1 gain the ability to predict the results without any training samples
+
+| machine has to recognize the objects from classes that are not trained during training
+
+Zero shot learning is a way for machines to recognize new objects or concepts without needing
+any prior examples
+
+Instead of relying on large sets of labeled data, it uses what it already knows to figure things
+out
+
+Zero-shot learning (ZSL) is a scenario in which an is trained to
+recognize and categorize objects or concepts without having seen any examples of those
+categories or concepts beforehand
+
+Idea behind ZSL
+
+© humans can naturally find similarities between data classes
+
+o similarly training the machine to identify patterns
+
+Goal of ZSL
+
+5 gain the ability to predict the results without any training samples
+
+© machine has to recognize the objects from classes that are not trained during training
+
+Zero shot learning is a way for machines to recognize new objects or concepts without needing
+any prior examples
+
+Instead of relying on large sets of labeled data, it uses what it already knows to figure things
+out
 --- page 6 ---
 CO-2 C   Sketch the model of a sparse autoencoder.   (5)
 SO-1   L1 regularization contributes to establishing sparsity in a sparse autoencoder.
@@ -876,6 +1870,29 @@ vector is zero for the decoder.
 v.   Evaluate mean square error loss.
 2 Marks each Section
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+argminy, E[A(2:, f(g(2:)))] + AD, a!”
+
+What each part means
+
+e First term:
+
+E[A(2;, f(9(x:)))]
+
+— Reconstruction loss (how well the autoencoder rebuilds the input)
+e Second term:
+
+Ad: a‘)
+
+— L1 regularization on hidden activations (forces sparsity)
+e 2 (lambda)
+
+— Controls how strong the sparsity penalty is
+
+e Large A > more sparse (more zeros)
+
+e¢ Small A - less sparse
 --- page 8 ---
 CO-4 B   With reference to Variational Autoencoders (VAE), answer the following (10)
 SO-1   questions
@@ -975,6 +1992,43 @@ images as being real or fake, the WGAN changes or replaces the discriminator
 model with a critic that scores the realness or fakeness of a given image
 WGAN Pseudocode (5 Marks)
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+oO Reconstruction Error
+
+The reconstruction error in a VAE quantifies how well the
+decoder reconstructs the input from the latent space
+o KL Divergence
+
+This term ensures that the learned distribution is
+similar.to prior distribution which is assumed to be
+standard normal distribution
+
+Algorithm 1 WGAN, our proposed algorithm. All experiments in the paper used
+the default values a = 0.00005, c = 0.01, m = 64, neritic = 5.
+
+Require: : a, the learning rate. c, the clipping parameter. m, the batch size.
+Necritic, the number of iterations of the critic per generator iteration.
+Require: : wo, initial critic parameters. 9, initial generator’s parameters.
+1: while 6 has not converged do
+
+2: for t = 0,..., Ncritic do
+
+3: Sample {c}™, ~ P,. a batch from the real data.
+4: Sample {z‘)}™, ~ p(z) a batch of prior samples.
+5 gu Vw [EM fala) — 2%, folgo(2)]
+6: w + w+a-RMSProp(w, gu)
+
+7: w + clip(w, —c, c)
+
+8: end for
+
+9: Sample {2 }™, ~ p(z) a batch of prior samples.
+10: 99 + —VoX rina fw (Go(2))
+
+11: 6 + 6—a- RMSProp(8, ge)
+
+12: end while
 --- page 11 ---
 CO-2 B A GAN model has the following functions-   (5)
 SO-1   Discrimintator 𝐷(𝑥) = 1
@@ -992,6 +2046,31 @@ i.   2 Marks
 ii.   2 Marks
 iii.   1 Mark
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Feature matching
+De
+
+0 Feature Matching is a regularizing objective for a generator in GAN that prevents it from
+overtraining on the current discriminator
+
+0 Instead of directly maximizing the output of the discriminator the new objective requires the
+generator to generate data that matches the statistics of the real data, where we use the
+discriminator only to specify the statistics that we think are worth matching
+
+Specifically, we train the generator to match the expected value of the features on an
+intermediate layer of the discriminator
+
+a This is a natural choice of statistics for the generator to match, since by training the
+discriminator we ask it to find those features that are most discriminative of real data versus
+data generated by the current model
+
+a Letting f(x) denote activations on an intermediate layer of the discriminator, our new objective
+for the generator is defined as
+
+(x) — Exny.(2)f(G(z))|
+
+| Few pass 3.
 --- page 12 ---
 Q5
 CO-3 A   Consider an application to design an English to Hindi Machine translation system (10)
@@ -1015,6 +2094,31 @@ iv.   2.5 Marks
 CO-3 B   i.   State drawbacks of self attention and justify the need of multi-headed (10)
 SO-1   attention
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+co Feature matching changes the cost function for the generator to minimizing the statistical difference between
+the features of the real images and the generated images
+
+2 Often, we measure the L2-distance between the means of their feature vectors
+
+2 Therefore, feature matching expands the goal from beating the opponent to matching features in real
+images
+
+0 Here is the new objective function:
+||Ex~puuf(#) — Ez~p, (2)f(G(z))||3-
+
+where f(x) is the feature vector extracted in an immediate layer by the discriminator
+
+Benefits of Feature Matching
+
+a Stabilizes GAN training: Reduces mode collapse and helps the generator
+learn meaningful features.
+
+a Encourages diversity: Instead of just fooling the discriminator, the
+generator learns to create samples with richer, more realistic variations.
+
+c Improves generalization: Generated samples align better with real data
+distributions in feature space.
 --- page 13 ---
 BL-4   ii.   Consider the attention model with the given data
 2 0 1
@@ -1049,6 +2153,37 @@ ii.   Discuss the role of encoder with suitable expressions
 iii.   Discuss the role of decoder with suitable expressions
 iv.   State and explain the loss function
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Variational Graph Autoencoder VGAE
+
+oO Unsupervised Learning on Graph structured data
+
+O This model makes use of latent variables and is capable. of learning
+interpretable latent representations for undirected graphs
+
+a Applies the idea of VAE to graph-structured data
+
+co We want our variational graph autoencoder to be able to generate new
+graphs or reason about graphs
+
+Oo However, we can’t just straightforwardly apply the idea of VAE because
+graph-structured data are irregular
+
+oO Each graph has a variable size of unordered nodes and each node in a
+graph has a different number of neighbours, so we can’t just use convolution
+directly anymore
+
+Variational Graph Autoencoder
+
+Obtain adjacency matrix and feature matrix of a graph
+
+OOO who ot
+7. “lll wf,
+o Pe © [EE]
+[RE Of
+
+100
 --- page 15 ---
 ;
 
@@ -1087,6 +2222,38 @@ iv.   Develop message passing expression for the above computational graph
 v.   Develop message aggregation equation for node N2 in above
 computational graph
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+‘Then we can calculate Z using parameterization trick
+
+Z=ptor*e
+
+where € ~ N(0,1).
+
+The decoder (generative model) is defined by an inner product between latent variable Z. The output of
+our decoder is a reconstructed adjacency matrix A-hat, which is defined as
+
+A =o(z27)
+
+where a() is the logistic sigmoid function.
+
+Variational Graph Autoencoder
+
+In summary, the encoder is represented as
+
+q(zi|X, A) = N(zi|mi, diag(o7)
+and the decoder is represented as
+
+p(Aijg = 1\2i, 2) = o(2) 2)
+
+The loss function for variational graph autoencoder is pretty much the same
+as before. The first part is the reconstruction loss between the input
+adjacency matrix and the reconstructed adjacency matrix. More specifically,
+it is the binary cross-entropy between the target (A) and output (A) logits.
+The second part is the KL-divergence between q(Z | X, A) and p(Z), where
+p(Z) = N(0,1). It measures how closely our q(Z | X, A) matches to p(Z).
+
+L = Eyz\x,a)llogp(A|Z)] — KL[q(Z|X, A)||p(Z)]
 --- page 17 ---
 vi.   Express update equation for node N2
 CO-3 B   With reference to the Transformer model, briefly explain the following (5)
@@ -1119,6 +2286,24 @@ iv.   Computation complexity
 v.   Effectiveness.
 1 Mark each
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+‘Computation Type Additive attention (MLP-based) Multiplicative attention (dot-product)
+
+Score Function score(hy, 8¢-1) = v! tanh(Wihe + score(he, 81) = hf Ws; or
+Wost1) score(he, st) = hfs
+
+Context Vector Uses previous decoder state (s,_,) when Uses current decoder state (s,) when
+
+Calculation computing attention scores computing attention scores
+
+Computational Higher due to learned weight matrices and Lower due to dot product operations
+
+Complexity tanh
+
+Effectiveness More flexible, better for handling long More efficient, works well for short-to-
+
+sequences medium sequences
 ````
 
 ## 2025-26 · Final-Exam · Sem 7 · Answer key · paper 2a917ca39fa4
@@ -1218,6 +2403,54 @@ This is done by:
 Scaled Dot-Product Attention (Mathematical Form)
 The Transformer uses Scaled Dot-Product Attention:
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+FACTORS
+
+Primarily focuses on boundaries
+and differences between classes
+
+By maximizing the joint
+probability of P(x, ¥)
+
+The conditional
+probability P(y)
+
+With less data, it can perform
+well with classification tasks
+
+Since it only focuses on the decision
+boundary, it takes only a few parameters,
+
+Excels in image classification, sentiment analysis
+speech recognition, and object detection.
+
+Primarily used for classifying existing data such
+as image classification and spam filtering.
+
+Generative Al
+
+Focuses on providing insights by going
+through the underlying data distribution &
+structure.
+
+It maximizes the conditional
+probability P(Y |X)
+
+The joint probability distribution
+P(x, y) or likelihood of P(x)
+
+It requires more data to better understand
+the data and extract meaningful insights.
+
+it has a larger parameter count as it
+takes the entire data distribution.
+
+it can generate new data samples
+based on the trained data.
+
+It is used for data generation filling up missing
+data, density estimation and many more.
 --- page 4 ---
 Each word is represented as a Query, Key, and Value — and the attention determines how much each word
 should attend to every other word.
@@ -1254,6 +2487,16 @@ Step 3: Obtain Node Embeddings
 The output of the GNN is a low-dimensional embedding vector for each node.
 These embeddings capture:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Attention(Q,A,W) = softmax (= ) Vv
+de
+Where:
+© (@Q: Query (current word representation)
+© J: Key (all input word representations)
+« VW: Value (information of words)
+
+© dj): scaling factor (dimension of keys)
 --- page 5 ---
 How connected each user is
 Similarity to other users
@@ -1418,6 +2661,20 @@ o Output: probability that the image is real
 o   Objective: Correctly classify real vs fake
 Training Process
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Mathematical Insight:
+® GAN Objective:
+
+D= arg max V(D,G) > V(G) = 2-JSD (pata || Py) — log(4)
+
+* When py and pdata have no overlap, 5.0 = log(2), - no gradient.
+® WGAN Objective:
+
+W (Daatas Pg) = ant p Few~lle —y ]
+ve data -Pg
+
+* Always provides meaningful gradients — stable learning.
 --- page 10 ---
 Application in Medical Domain
 Step Process   Example
@@ -1441,6 +2698,20 @@ In a chatbot, the attention mechanism helps the model:
 •   Maintain contextual understanding of multi-turn dialogues.
 Mechanism
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Training Process
+1. Discriminator Training:
+
+© Trained to maximize:
+
+log D(x) + log(1 — D(G(z)))
+2. Generator Training:
+
+* Trained to minimize:
+
+log(1 — D(G(2)))
+* i, to generate images that make D(G(z)) 4 1
 --- page 11 ---
 Given Query (Q), Key (K), and Value (V) matrices:
 • Query (Q): current input (e.g., last user message)
@@ -1457,6 +2728,30 @@ User (later): “Make it for tomorrow.”
 → Attention mechanism helps relate “it” to “flight”.
 (b) Compute Attention Output
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Given: dy. = 2
+
+Let's assume example matrices:
+
+; 1 0 1 2
+Q=[{1 0), K=]j0 1], V=/0 1
+11 1 0
+
+Step 1: Compute QA?
+
+gx? =tt0)[5 2 j= a0
+
+Step 2: Scale by y/d, = 4/2
+
+Qk
+/2
+
+= (0.707, 0, 0.707]
+
+Step 3: Apply softmax
+
+softmax(|0.707, 0,0.707]) = (0.401, 0.198, 0.401]
 --- page 12 ---
 Q6. Graph Neural Networks (GNN)
 (a) GNN Architecture with Example
@@ -1469,6 +2764,19 @@ Each user’s embedding is updated using features from friends → community det
 recommendation, etc.
 (b) Node Classification
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Step 4: Multiply by V
+
+1 2
+
+Attention(Q, K,V) = [0.401,0.198,0.401] JO 1
+10
+
+= [(0.401 + 1+ 0.198 «040.401 +1), (0.401 +2 + 0.198 « 1 + 0.401 + 0)|
+= (0.802, 1.000)
+
+() Attention Output = [0.802, 1.000]
 --- page 13 ---
 Hence, node 2 has the strongest feature activation, meaning it is most central/informative in the graph.
 Q7. Supervised vs Unsupervised GNNs and Scalability
@@ -1577,6 +2885,50 @@ CO-4 D   Discuss concept, causes and drawbacks due to over smoothing problem in 
 SO-1
 BL-3
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Virtual batch normalization
+ee
+
+Given an activation a in a layer:
+
+1. Compute the batch mean:
+
+o Batch normalization?
+
+© It works by normalizing uB= aoe
+the activations of each 2. Compute the batch variance:
+layer across a mini- im
+batch, making the ob = =e ~ pe)?
+optimization process 5 porate “
+smoother a Zicme
+" Yoz+e
+
+where € is a small constant for numerical stability.
+4, Apply learnable scale and shift parameters ( and 8):
+
+yi = ei +8
+
+Virtual batch normalization
+a
+
+1. Select a Reference Batch: A fixed batch of samples is chosen at the beginning of training and
+
+1 Virtual Batch never changes.
+Normalization 2. Compute Statistics from the Reference Batch:
+© Normalizes each sample ‘* Compute mean j, and variance @? from the reference batch.
+independently using 3. Normalize Each Sample Independently:
+sta 's computed from
+a fixed "reference * For each input sample 2, compute:
+
+batch," rather than using
+statistics from the current
+mini-batch
+
+where € is a small constant for numerical stability.
+© Then apply scale and shift parameters y and 8 (learned during training):
+
+y= 78+8
 --- page 3 ---
 Concept (2 Marks)
 Causes (2 Marks)
@@ -1587,6 +2939,84 @@ SO-1   ii.   State challenges experienced in traditional machine learning algori
 BL-3   iii.   Discuss meta training and meta testing in brief with reference to training
 set, support set and query set
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Over smoothing problem
+|
+
+2 Oversmoothing is a well-known problem in message-passing GNNs
+
+© Most GNNs follow the message-passing paradigm, where node representations are computed
+by recursively aggregating and transforming the representations of the neighboring nodes
+
+© One notably drawback of this repeated message-passing is oversmoothing, which refers to the
+phenomenon that increasing model depth leads to homogeneous node representations and
+thus worse downstream task performances
+
+© Over-smoothing occurs when node representations in a Graph Neural Network (GNN) become
+indistinguishable as the number of layers increases.
+
+© It leads to nodes in the same cluster having overly similar embeddings, reducing the model's
+ability to distinguish different node features
+
+a If a GNN has many layers, all node embeddings start to look the same, making classification
+difficult
+
+© Asa result, many GNNs used in practice remain shallow and often only have a few layers
+
+Over smoothing problem
+
+0 Typical GNN performances with
+respect to the model depth would
+
+look like the following plot, where £
+increasing network depth will first E
+
+increase the performance, and once 3
+
+the model bypasses its optimal
+
+depth, which is typically a small (a small number) # layers
+number (e.g. 2—4 layers), the
+
+performance will quickly decrease
+
+go As the number of layers tends to
+infinity, oversmoothing is inevitable [Li
+
+Oo Having “some” graph convolutions is
+better than having no graph
+
+2022).
+
+4 Combining the above two points of (o-small umber)
+views, the optimal depth is finite (i.e.
+the curve should indeed have a hump
+shape) [Keriven 2022]
+
+# layers
+
+Oo Causes of over smoothing
+© Laplacian Smoothing Effect
+
+= GCNs apply repeated neighbourhood aggregation, which smoothens node features across the
+graph.
+= Mathematically, the node representation update is:
+
+1 4
+
+= HE = o(p-2aD HW)
+
+m= where A = adjacency matrix and D = degree matrix.
+
+= Ask increases, all nodes in the same connected component converge to a similar
+representation
+
+™ The deeper the network, the more nodes share information, resulting in similar
+representations.
+
+= Instead of capturing local differences, GNNs spread features too uniformly across
+the graph
 --- page 4 ---
 iv.   Explain zero shot learning algorithm with the help of suitable scenario
 and illustrations
@@ -1595,6 +3025,43 @@ and illustrations
 (iii)   (2.5 Marks)
 (iv)   (2.5 Marks)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Traditional ML Vs Meta-learning
+
+a In supervised learning, models are trained to solve a specific
+task using a defined training dataset
+
+a Meta learning process entails a variety of tasks, each with
+its own associated dataset
+
+a From these multiple learning events, models gain the ability
+to generalize across tasks, which allow them to adapt swiftly
+to novel scenarios even with little data
+
+a Meta learning algorithms are trained on the predictions and
+metadata of other
+
+Challenges
+
+0 Large datasets are unavailable:
+This issue is common in many domains ( classification of rare diseases, translation of rare
+languages.
+
+0 Data has a long tail:
+© This issue can easily break the standard machine learning paradigm.
+For example, in the self-driving car setting, an autonomous vehicle can be trained to handle
+common situations very well, but it often struggles with uncommon situations (such as people jay-
+walking, animals crossing, traffic lines not working) where humans can easily handle.
+
+This can lead to very bad outcomes, such as the Uber's accident in A
+
+na a few years ago.
+
+- We want to quickly learn something about a new task without training our model from scratch:
+o Humans can do this quite easily by leveraging our prior experience.
+o For example, if | know a bit of Gujrati, then it should not be too difficult for me to learn
+Marwadi, as these two languages are quite similar linguistically.
 --- page 5 ---
 CO-1 B   Consider a scenario where the embedding generated by the Siamese network for (5)
 SO-1   the two images are as follows-
@@ -1607,6 +3074,51 @@ ii.   For margin m = 0.4, calculate contrastive loss for both the cases- 𝑙�
 1 𝑎𝑛𝑑 𝑙𝑎𝑏𝑒𝑙 𝑦= 0
 iii.   Interpret the result obtained in (ii)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Zero-shot learning (ZSL) is a scenario in which an is trained to
+recognize and categorize objects or concepts without having seen any examples of those
+categories or concepts beforehand
+
+Idea behind ZSL
+
+humans can naturally find similarities between data classes
+
+© similarly training the machine to identify patterns
+
+Goal of ZSL
+
+1 gain the ability to predict the results without any training samples
+
+| machine has to recognize the objects from classes that are not trained during training
+
+Zero shot learning is a way for machines to recognize new objects or concepts without needing
+any prior examples
+
+Instead of relying on large sets of labeled data, it uses what it already knows to figure things
+out
+
+Zero-shot learning (ZSL) is a scenario in which an is trained to
+recognize and categorize objects or concepts without having seen any examples of those
+categories or concepts beforehand
+
+Idea behind ZSL
+
+© humans can naturally find similarities between data classes
+
+o similarly training the machine to identify patterns
+
+Goal of ZSL
+
+5 gain the ability to predict the results without any training samples
+
+© machine has to recognize the objects from classes that are not trained during training
+
+Zero shot learning is a way for machines to recognize new objects or concepts without needing
+any prior examples
+
+Instead of relying on large sets of labeled data, it uses what it already knows to figure things
+out
 --- page 6 ---
 CO-2 C   Sketch the model of a sparse autoencoder.   (5)
 SO-1   L1 regularization contributes to establishing sparsity in a sparse autoencoder.
@@ -1629,6 +3141,29 @@ vector is zero for the decoder.
 v.   Evaluate mean square error loss.
 2 Marks each Section
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+argminy, E[A(2:, f(g(2:)))] + AD, a!”
+
+What each part means
+
+e First term:
+
+E[A(2;, f(9(x:)))]
+
+— Reconstruction loss (how well the autoencoder rebuilds the input)
+e Second term:
+
+Ad: a‘)
+
+— L1 regularization on hidden activations (forces sparsity)
+e 2 (lambda)
+
+— Controls how strong the sparsity penalty is
+
+e Large A > more sparse (more zeros)
+
+e¢ Small A - less sparse
 --- page 8 ---
 CO-4 B   With reference to Variational Autoencoders (VAE), answer the following (10)
 SO-1   questions
@@ -1728,6 +3263,43 @@ images as being real or fake, the WGAN changes or replaces the discriminator
 model with a critic that scores the realness or fakeness of a given image
 WGAN Pseudocode (5 Marks)
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+oO Reconstruction Error
+
+The reconstruction error in a VAE quantifies how well the
+decoder reconstructs the input from the latent space
+o KL Divergence
+
+This term ensures that the learned distribution is
+similar.to prior distribution which is assumed to be
+standard normal distribution
+
+Algorithm 1 WGAN, our proposed algorithm. All experiments in the paper used
+the default values a = 0.00005, c = 0.01, m = 64, neritic = 5.
+
+Require: : a, the learning rate. c, the clipping parameter. m, the batch size.
+Necritic, the number of iterations of the critic per generator iteration.
+Require: : wo, initial critic parameters. 9, initial generator’s parameters.
+1: while 6 has not converged do
+
+2: for t = 0,..., Ncritic do
+
+3: Sample {c}™, ~ P,. a batch from the real data.
+4: Sample {z‘)}™, ~ p(z) a batch of prior samples.
+5 gu Vw [EM fala) — 2%, folgo(2)]
+6: w + w+a-RMSProp(w, gu)
+
+7: w + clip(w, —c, c)
+
+8: end for
+
+9: Sample {2 }™, ~ p(z) a batch of prior samples.
+10: 99 + —VoX rina fw (Go(2))
+
+11: 6 + 6—a- RMSProp(8, ge)
+
+12: end while
 --- page 11 ---
 CO-2 B A GAN model has the following functions-   (5)
 SO-1   Discrimintator 𝐷(𝑥) = 1
@@ -1745,6 +3317,31 @@ i.   2 Marks
 ii.   2 Marks
 iii.   1 Mark
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Feature matching
+De
+
+0 Feature Matching is a regularizing objective for a generator in GAN that prevents it from
+overtraining on the current discriminator
+
+0 Instead of directly maximizing the output of the discriminator the new objective requires the
+generator to generate data that matches the statistics of the real data, where we use the
+discriminator only to specify the statistics that we think are worth matching
+
+Specifically, we train the generator to match the expected value of the features on an
+intermediate layer of the discriminator
+
+a This is a natural choice of statistics for the generator to match, since by training the
+discriminator we ask it to find those features that are most discriminative of real data versus
+data generated by the current model
+
+a Letting f(x) denote activations on an intermediate layer of the discriminator, our new objective
+for the generator is defined as
+
+(x) — Exny.(2)f(G(z))|
+
+| Few pass 3.
 --- page 12 ---
 Q5
 CO-3 A   Consider an application to design an English to Hindi Machine translation system (10)
@@ -1768,6 +3365,31 @@ iv.   2.5 Marks
 CO-3 B   i.   State drawbacks of self attention and justify the need of multi-headed (10)
 SO-1   attention
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+co Feature matching changes the cost function for the generator to minimizing the statistical difference between
+the features of the real images and the generated images
+
+2 Often, we measure the L2-distance between the means of their feature vectors
+
+2 Therefore, feature matching expands the goal from beating the opponent to matching features in real
+images
+
+0 Here is the new objective function:
+||Ex~puuf(#) — Ez~p, (2)f(G(z))||3-
+
+where f(x) is the feature vector extracted in an immediate layer by the discriminator
+
+Benefits of Feature Matching
+
+a Stabilizes GAN training: Reduces mode collapse and helps the generator
+learn meaningful features.
+
+a Encourages diversity: Instead of just fooling the discriminator, the
+generator learns to create samples with richer, more realistic variations.
+
+c Improves generalization: Generated samples align better with real data
+distributions in feature space.
 --- page 13 ---
 BL-4   ii.   Consider the attention model with the given data
 2 0 1
@@ -1802,6 +3424,37 @@ ii.   Discuss the role of encoder with suitable expressions
 iii.   Discuss the role of decoder with suitable expressions
 iv.   State and explain the loss function
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Variational Graph Autoencoder VGAE
+
+oO Unsupervised Learning on Graph structured data
+
+O This model makes use of latent variables and is capable. of learning
+interpretable latent representations for undirected graphs
+
+a Applies the idea of VAE to graph-structured data
+
+co We want our variational graph autoencoder to be able to generate new
+graphs or reason about graphs
+
+Oo However, we can’t just straightforwardly apply the idea of VAE because
+graph-structured data are irregular
+
+oO Each graph has a variable size of unordered nodes and each node in a
+graph has a different number of neighbours, so we can’t just use convolution
+directly anymore
+
+Variational Graph Autoencoder
+
+Obtain adjacency matrix and feature matrix of a graph
+
+OOO who ot
+7. “lll wf,
+o Pe © [EE]
+[RE Of
+
+100
 --- page 15 ---
 ;
 
@@ -1840,6 +3493,38 @@ iv.   Develop message passing expression for the above computational graph
 v.   Develop message aggregation equation for node N2 in above
 computational graph
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+‘Then we can calculate Z using parameterization trick
+
+Z=ptor*e
+
+where € ~ N(0,1).
+
+The decoder (generative model) is defined by an inner product between latent variable Z. The output of
+our decoder is a reconstructed adjacency matrix A-hat, which is defined as
+
+A =o(z27)
+
+where a() is the logistic sigmoid function.
+
+Variational Graph Autoencoder
+
+In summary, the encoder is represented as
+
+q(zi|X, A) = N(zi|mi, diag(o7)
+and the decoder is represented as
+
+p(Aijg = 1\2i, 2) = o(2) 2)
+
+The loss function for variational graph autoencoder is pretty much the same
+as before. The first part is the reconstruction loss between the input
+adjacency matrix and the reconstructed adjacency matrix. More specifically,
+it is the binary cross-entropy between the target (A) and output (A) logits.
+The second part is the KL-divergence between q(Z | X, A) and p(Z), where
+p(Z) = N(0,1). It measures how closely our q(Z | X, A) matches to p(Z).
+
+L = Eyz\x,a)llogp(A|Z)] — KL[q(Z|X, A)||p(Z)]
 --- page 17 ---
 vi.   Express update equation for node N2
 CO-3 B   With reference to the Transformer model, briefly explain the following (5)
@@ -1872,6 +3557,24 @@ iv.   Computation complexity
 v.   Effectiveness.
 1 Mark each
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+‘Computation Type Additive attention (MLP-based) Multiplicative attention (dot-product)
+
+Score Function score(hy, 8¢-1) = v! tanh(Wihe + score(he, 81) = hf Ws; or
+Wost1) score(he, st) = hfs
+
+Context Vector Uses previous decoder state (s,_,) when Uses current decoder state (s,) when
+
+Calculation computing attention scores computing attention scores
+
+Computational Higher due to learned weight matrices and Lower due to dot product operations
+
+Complexity tanh
+
+Effectiveness More flexible, better for handling long More efficient, works well for short-to-
+
+sequences medium sequences
 ````
 
 ## 2025-26 · Final-Exam · Sem 8 · Answer key · paper 4d2db042d6ee
@@ -1950,6 +3653,50 @@ CO-4 D   Discuss concept, causes and drawbacks due to over smoothing problem in 
 SO-1
 BL-3
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Virtual batch normalization
+ee
+
+Given an activation a in a layer:
+
+1. Compute the batch mean:
+
+o Batch normalization?
+
+© It works by normalizing uB= aoe
+the activations of each 2. Compute the batch variance:
+layer across a mini- im
+batch, making the ob = =e ~ pe)?
+optimization process 5 porate “
+smoother a Zicme
+" Yoz+e
+
+where € is a small constant for numerical stability.
+4, Apply learnable scale and shift parameters ( and 8):
+
+yi = ei +8
+
+Virtual batch normalization
+a
+
+1. Select a Reference Batch: A fixed batch of samples is chosen at the beginning of training and
+
+1 Virtual Batch never changes.
+Normalization 2. Compute Statistics from the Reference Batch:
+© Normalizes each sample ‘* Compute mean j, and variance @? from the reference batch.
+independently using 3. Normalize Each Sample Independently:
+sta 's computed from
+a fixed "reference * For each input sample 2, compute:
+
+batch," rather than using
+statistics from the current
+mini-batch
+
+where € is a small constant for numerical stability.
+© Then apply scale and shift parameters y and 8 (learned during training):
+
+y= 78+8
 --- page 3 ---
 Concept (2 Marks)
 Causes (2 Marks)
@@ -1960,6 +3707,84 @@ SO-1   ii.   State challenges experienced in traditional machine learning algori
 BL-3   iii.   Discuss meta training and meta testing in brief with reference to training
 set, support set and query set
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Over smoothing problem
+|
+
+2 Oversmoothing is a well-known problem in message-passing GNNs
+
+© Most GNNs follow the message-passing paradigm, where node representations are computed
+by recursively aggregating and transforming the representations of the neighboring nodes
+
+© One notably drawback of this repeated message-passing is oversmoothing, which refers to the
+phenomenon that increasing model depth leads to homogeneous node representations and
+thus worse downstream task performances
+
+© Over-smoothing occurs when node representations in a Graph Neural Network (GNN) become
+indistinguishable as the number of layers increases.
+
+© It leads to nodes in the same cluster having overly similar embeddings, reducing the model's
+ability to distinguish different node features
+
+a If a GNN has many layers, all node embeddings start to look the same, making classification
+difficult
+
+© Asa result, many GNNs used in practice remain shallow and often only have a few layers
+
+Over smoothing problem
+
+0 Typical GNN performances with
+respect to the model depth would
+
+look like the following plot, where £
+increasing network depth will first E
+
+increase the performance, and once 3
+
+the model bypasses its optimal
+
+depth, which is typically a small (a small number) # layers
+number (e.g. 2—4 layers), the
+
+performance will quickly decrease
+
+go As the number of layers tends to
+infinity, oversmoothing is inevitable [Li
+
+Oo Having “some” graph convolutions is
+better than having no graph
+
+2022).
+
+4 Combining the above two points of (o-small umber)
+views, the optimal depth is finite (i.e.
+the curve should indeed have a hump
+shape) [Keriven 2022]
+
+# layers
+
+Oo Causes of over smoothing
+© Laplacian Smoothing Effect
+
+= GCNs apply repeated neighbourhood aggregation, which smoothens node features across the
+graph.
+= Mathematically, the node representation update is:
+
+1 4
+
+= HE = o(p-2aD HW)
+
+m= where A = adjacency matrix and D = degree matrix.
+
+= Ask increases, all nodes in the same connected component converge to a similar
+representation
+
+™ The deeper the network, the more nodes share information, resulting in similar
+representations.
+
+= Instead of capturing local differences, GNNs spread features too uniformly across
+the graph
 --- page 4 ---
 iv.   Explain zero shot learning algorithm with the help of suitable scenario
 and illustrations
@@ -1968,6 +3793,43 @@ and illustrations
 (iii)   (2.5 Marks)
 (iv)   (2.5 Marks)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Traditional ML Vs Meta-learning
+
+a In supervised learning, models are trained to solve a specific
+task using a defined training dataset
+
+a Meta learning process entails a variety of tasks, each with
+its own associated dataset
+
+a From these multiple learning events, models gain the ability
+to generalize across tasks, which allow them to adapt swiftly
+to novel scenarios even with little data
+
+a Meta learning algorithms are trained on the predictions and
+metadata of other
+
+Challenges
+
+0 Large datasets are unavailable:
+This issue is common in many domains ( classification of rare diseases, translation of rare
+languages.
+
+0 Data has a long tail:
+© This issue can easily break the standard machine learning paradigm.
+For example, in the self-driving car setting, an autonomous vehicle can be trained to handle
+common situations very well, but it often struggles with uncommon situations (such as people jay-
+walking, animals crossing, traffic lines not working) where humans can easily handle.
+
+This can lead to very bad outcomes, such as the Uber's accident in A
+
+na a few years ago.
+
+- We want to quickly learn something about a new task without training our model from scratch:
+o Humans can do this quite easily by leveraging our prior experience.
+o For example, if | know a bit of Gujrati, then it should not be too difficult for me to learn
+Marwadi, as these two languages are quite similar linguistically.
 --- page 5 ---
 CO-1 B   Consider a scenario where the embedding generated by the Siamese network for (5)
 SO-1   the two images are as follows-
@@ -1980,6 +3842,51 @@ ii.   For margin m = 0.4, calculate contrastive loss for both the cases- 𝑙�
 1 𝑎𝑛𝑑 𝑙𝑎𝑏𝑒𝑙 𝑦= 0
 iii.   Interpret the result obtained in (ii)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Zero-shot learning (ZSL) is a scenario in which an is trained to
+recognize and categorize objects or concepts without having seen any examples of those
+categories or concepts beforehand
+
+Idea behind ZSL
+
+humans can naturally find similarities between data classes
+
+© similarly training the machine to identify patterns
+
+Goal of ZSL
+
+1 gain the ability to predict the results without any training samples
+
+| machine has to recognize the objects from classes that are not trained during training
+
+Zero shot learning is a way for machines to recognize new objects or concepts without needing
+any prior examples
+
+Instead of relying on large sets of labeled data, it uses what it already knows to figure things
+out
+
+Zero-shot learning (ZSL) is a scenario in which an is trained to
+recognize and categorize objects or concepts without having seen any examples of those
+categories or concepts beforehand
+
+Idea behind ZSL
+
+© humans can naturally find similarities between data classes
+
+o similarly training the machine to identify patterns
+
+Goal of ZSL
+
+5 gain the ability to predict the results without any training samples
+
+© machine has to recognize the objects from classes that are not trained during training
+
+Zero shot learning is a way for machines to recognize new objects or concepts without needing
+any prior examples
+
+Instead of relying on large sets of labeled data, it uses what it already knows to figure things
+out
 --- page 6 ---
 CO-2 C   Sketch the model of a sparse autoencoder.   (5)
 SO-1   L1 regularization contributes to establishing sparsity in a sparse autoencoder.
@@ -2002,6 +3909,29 @@ vector is zero for the decoder.
 v.   Evaluate mean square error loss.
 2 Marks each Section
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+argminy, E[A(2:, f(g(2:)))] + AD, a!”
+
+What each part means
+
+e First term:
+
+E[A(2;, f(9(x:)))]
+
+— Reconstruction loss (how well the autoencoder rebuilds the input)
+e Second term:
+
+Ad: a‘)
+
+— L1 regularization on hidden activations (forces sparsity)
+e 2 (lambda)
+
+— Controls how strong the sparsity penalty is
+
+e Large A > more sparse (more zeros)
+
+e¢ Small A - less sparse
 --- page 8 ---
 CO-4 B   With reference to Variational Autoencoders (VAE), answer the following (10)
 SO-1   questions
@@ -2101,6 +4031,43 @@ images as being real or fake, the WGAN changes or replaces the discriminator
 model with a critic that scores the realness or fakeness of a given image
 WGAN Pseudocode (5 Marks)
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+oO Reconstruction Error
+
+The reconstruction error in a VAE quantifies how well the
+decoder reconstructs the input from the latent space
+o KL Divergence
+
+This term ensures that the learned distribution is
+similar.to prior distribution which is assumed to be
+standard normal distribution
+
+Algorithm 1 WGAN, our proposed algorithm. All experiments in the paper used
+the default values a = 0.00005, c = 0.01, m = 64, neritic = 5.
+
+Require: : a, the learning rate. c, the clipping parameter. m, the batch size.
+Necritic, the number of iterations of the critic per generator iteration.
+Require: : wo, initial critic parameters. 9, initial generator’s parameters.
+1: while 6 has not converged do
+
+2: for t = 0,..., Ncritic do
+
+3: Sample {c}™, ~ P,. a batch from the real data.
+4: Sample {z‘)}™, ~ p(z) a batch of prior samples.
+5 gu Vw [EM fala) — 2%, folgo(2)]
+6: w + w+a-RMSProp(w, gu)
+
+7: w + clip(w, —c, c)
+
+8: end for
+
+9: Sample {2 }™, ~ p(z) a batch of prior samples.
+10: 99 + —VoX rina fw (Go(2))
+
+11: 6 + 6—a- RMSProp(8, ge)
+
+12: end while
 --- page 11 ---
 CO-2 B A GAN model has the following functions-   (5)
 SO-1   Discrimintator 𝐷(𝑥) = 1
@@ -2118,6 +4085,31 @@ i.   2 Marks
 ii.   2 Marks
 iii.   1 Mark
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Feature matching
+De
+
+0 Feature Matching is a regularizing objective for a generator in GAN that prevents it from
+overtraining on the current discriminator
+
+0 Instead of directly maximizing the output of the discriminator the new objective requires the
+generator to generate data that matches the statistics of the real data, where we use the
+discriminator only to specify the statistics that we think are worth matching
+
+Specifically, we train the generator to match the expected value of the features on an
+intermediate layer of the discriminator
+
+a This is a natural choice of statistics for the generator to match, since by training the
+discriminator we ask it to find those features that are most discriminative of real data versus
+data generated by the current model
+
+a Letting f(x) denote activations on an intermediate layer of the discriminator, our new objective
+for the generator is defined as
+
+(x) — Exny.(2)f(G(z))|
+
+| Few pass 3.
 --- page 12 ---
 Q5
 CO-3 A   Consider an application to design an English to Hindi Machine translation system (10)
@@ -2141,6 +4133,31 @@ iv.   2.5 Marks
 CO-3 B   i.   State drawbacks of self attention and justify the need of multi-headed (10)
 SO-1   attention
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+co Feature matching changes the cost function for the generator to minimizing the statistical difference between
+the features of the real images and the generated images
+
+2 Often, we measure the L2-distance between the means of their feature vectors
+
+2 Therefore, feature matching expands the goal from beating the opponent to matching features in real
+images
+
+0 Here is the new objective function:
+||Ex~puuf(#) — Ez~p, (2)f(G(z))||3-
+
+where f(x) is the feature vector extracted in an immediate layer by the discriminator
+
+Benefits of Feature Matching
+
+a Stabilizes GAN training: Reduces mode collapse and helps the generator
+learn meaningful features.
+
+a Encourages diversity: Instead of just fooling the discriminator, the
+generator learns to create samples with richer, more realistic variations.
+
+c Improves generalization: Generated samples align better with real data
+distributions in feature space.
 --- page 13 ---
 BL-4   ii.   Consider the attention model with the given data
 2 0 1
@@ -2175,6 +4192,37 @@ ii.   Discuss the role of encoder with suitable expressions
 iii.   Discuss the role of decoder with suitable expressions
 iv.   State and explain the loss function
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Variational Graph Autoencoder VGAE
+
+oO Unsupervised Learning on Graph structured data
+
+O This model makes use of latent variables and is capable. of learning
+interpretable latent representations for undirected graphs
+
+a Applies the idea of VAE to graph-structured data
+
+co We want our variational graph autoencoder to be able to generate new
+graphs or reason about graphs
+
+Oo However, we can’t just straightforwardly apply the idea of VAE because
+graph-structured data are irregular
+
+oO Each graph has a variable size of unordered nodes and each node in a
+graph has a different number of neighbours, so we can’t just use convolution
+directly anymore
+
+Variational Graph Autoencoder
+
+Obtain adjacency matrix and feature matrix of a graph
+
+OOO who ot
+7. “lll wf,
+o Pe © [EE]
+[RE Of
+
+100
 --- page 15 ---
 ;
 
@@ -2213,6 +4261,38 @@ iv.   Develop message passing expression for the above computational graph
 v.   Develop message aggregation equation for node N2 in above
 computational graph
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+‘Then we can calculate Z using parameterization trick
+
+Z=ptor*e
+
+where € ~ N(0,1).
+
+The decoder (generative model) is defined by an inner product between latent variable Z. The output of
+our decoder is a reconstructed adjacency matrix A-hat, which is defined as
+
+A =o(z27)
+
+where a() is the logistic sigmoid function.
+
+Variational Graph Autoencoder
+
+In summary, the encoder is represented as
+
+q(zi|X, A) = N(zi|mi, diag(o7)
+and the decoder is represented as
+
+p(Aijg = 1\2i, 2) = o(2) 2)
+
+The loss function for variational graph autoencoder is pretty much the same
+as before. The first part is the reconstruction loss between the input
+adjacency matrix and the reconstructed adjacency matrix. More specifically,
+it is the binary cross-entropy between the target (A) and output (A) logits.
+The second part is the KL-divergence between q(Z | X, A) and p(Z), where
+p(Z) = N(0,1). It measures how closely our q(Z | X, A) matches to p(Z).
+
+L = Eyz\x,a)llogp(A|Z)] — KL[q(Z|X, A)||p(Z)]
 --- page 17 ---
 vi.   Express update equation for node N2
 CO-3 B   With reference to the Transformer model, briefly explain the following (5)
@@ -2245,6 +4325,24 @@ iv.   Computation complexity
 v.   Effectiveness.
 1 Mark each
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+‘Computation Type Additive attention (MLP-based) Multiplicative attention (dot-product)
+
+Score Function score(hy, 8¢-1) = v! tanh(Wihe + score(he, 81) = hf Ws; or
+Wost1) score(he, st) = hfs
+
+Context Vector Uses previous decoder state (s,_,) when Uses current decoder state (s,) when
+
+Calculation computing attention scores computing attention scores
+
+Computational Higher due to learned weight matrices and Lower due to dot product operations
+
+Complexity tanh
+
+Effectiveness More flexible, better for handling long More efficient, works well for short-to-
+
+sequences medium sequences
 ````
 
 ## 2025-26 · Re-Exam · Sem 6 · Answer key · paper da46124e9bde
@@ -2285,6 +4383,36 @@ SO-1   i.   Discuss Vanishing Gradient limitation in GANs.
 BL-2   ii.   With the help of suitable expression of generator loss function explain how
 the above limitation can be overcome.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+0 Large datasets are unavailable:
+This issue is common in many domains ( classification of rare diseases, translation of rare
+languages.
+
+0 Data has a long tai
+This issue can easily break the standard machine learning paradigm.
+For example, in the self-driving car setting, an autonomous vehicle can be trained to handle
+common situations very well, but it often struggles with uncommon situations (such as people jay-
+walking, animals crossing, traffic lines not working) where humans can easily handle.
+This can lead to very bad outcomes, such as the Uber's accident in Arizona a few years ago.
+
++ We want to quickly learn something about a new task without training our model from scratch:
+Humans can do this quite easily by leveraging our prior experience.
+» For example, if | know a bit of Gujrati, then it should not be too difficult for me to learn
+Marwadi, as these two languages are quite similar linguistically.
+
+In supervised learning, models are trained to solve a specific
+task using a defined training dataset
+
+Meta learning process entails a variety of tasks, each with
+its own associated dataset
+
+From these multiple learning events, models gain the ability
+to generalize across tasks, which allow them to adapt swiftly
+to novel scenarios even with little data
+
+Meta learning algorithms are trained on the predictions and
+metadata of other
 --- page 2 ---
 2M
 Loss function in the original GAN algorithm   3M
@@ -2298,6 +4426,66 @@ CO-4 D   Compare Graph Convolution Network and Graph Attention Network.   (5)
 SO-1
 BL-3
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Vanishing Gradients
+
+|
+co Vanishing gradient problem means derivative of loss with respect to w and b
+becomes close to 0
+
+a a
+© Means iw and =, — 0 during initial training process of the generator
+
+a This happens because
+© First the discriminator is trained very well to detect between fake (0) and real (1)
+© After that training of the generator starts
+
+5 In the initial phase, the generator is not able to produce very good fake samples to fool
+the discriminator
+
+5 Asa result, since discriminator is very strong, it will easily detect the fake samples that is 0
+5 Asa result, the gradients for the back propagation becomes very close to 0
+
+Long-range dependency problem in RNN and LSTM
+© Encoder and decoder are stacks of LSTM/RNN units
+
+© Encoder LSTM is used to process the entire input sentence and encode it into a context
+vector, which is the last hidden state of the LSTM/RNN
+
+© This is expected to be a good summary of the input sentence
+
+© All the intermediate states of the encoder are ignored, and the final state is supposed to
+be the initial hidden state of the decoder
+
+© Decoder LSTM or RNN units produce the words in a sentence one after another
+
+Main drawback of this approach is that if the encoder makes a bad summary, the
+translation will also be bad
+
+It has been observed that the encoder creates a bad summary when it tries to
+understand longer sentences
+
+Poor Handling of Long Sequences
+
+& RNNs cannot remember longer sentences and sequences due to the vanishing/exploding
+gradient problem
+
+o It can remember the parts which it has just seen
+
+© An encoder neural network reads and encodes a source sentence into a fixed-length
+vector
+
+© A decoder then outputs a translation from the encoded vector
+
+& Whole encoder—decoder system, which consists of the encoder and the decoder for a
+
+language pair, is jointly trained to maximize the probability of a correct translation given
+a source sentence
+
+Potential issue with this encoder—decoder approach is that a neural network should to be
+able to compress all the necessary information of a source sentence into a fixed-length
+vector
 --- page 3 ---
 1.5M
 1.5M
@@ -2326,6 +4514,53 @@ Feature Extraction- CNN can be used for feature extraction. It extracts   1.5M
 meaningful features, and represents them as embeddings in a high-dimensional
 space
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+} {')
+
+2X; .O;
+
+GCN (Graph Convolutional |GAT (Graph Attention
+Feature Network) Network)
+Neighbor weighting Treats all neighbors Learns weights using
+
+equally (or based on attention — some
+
+degree) neighbors matter more
+
+)Flexibility Less flexible; assumes More flexible; learns
+
+fixed structure which neighbors are useful
+Performance Works well on simple Better on complex, noisy,
+
+graphs or heterogenous graphs
+Interpretability Hard to interpret why Easier to interpret via
+
+decisions are made attention scores
+
+Training
+Dataset
+
+Input X1
+mpe Target Y from training
+
+dataset (1 or 0)
+Twin £0X1) lox
+
+Network 1 one
+(CNN) | Distance unction
+metric Sigmoid
+
+(x2) } calculator T=) function
+Input X2 (Euclidean
+
+Prediction Y'
+(1 or 0)
+
+or Cosine) | scqlar
+Twin distance d
+—>| Network 2
+(CNN)
 --- page 4 ---
 Distance metric- A common distance metric used is the Euclidean distance,   1.5M
 which measures the similarity between two feature vectors. Lower distance
@@ -2359,6 +4594,54 @@ Q3
 CO-4 A   Consider a Denoising autoencoder where the input is corrupted using salt and (10)
 SO-1   pepper noise.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Selection of functions f and g for binary
+inputs
+
+co If our input is binary, that is
+1 = f(Wth +0) a x,€{0,1}
+a Which function do you think is
+suitable for the decoder?
+a x; = logistic (W *h+c)
+a Answer is logistic as it restricts
+x the output to 0 or 1
+
+0 So for binary input, function f
+1 1 0 1 (binary inputs) is a logistic function
+
+Selection of functions f and g for binary
+
+inputs
+|
+
+a Binary input, function f
+i= f(Wh +0) . a .
+©2009 is a logistic function
+a
+OO O O)r=atwa+b) O g is taken as a
+W sigmoid function
+OO0O00)*
+
+0 1 1 0 1 (binary inputs)
+
+Choosing the loss function
+a
+
+o Case2: Consider the case of
+
+a We can use the sigmoid
+
+we
+decoder which can predict
+O O O O b= (Wx: +b) output between
+w
+
+o For single n dimensional
+O O O O Ox input , the following loss
+VY function can be used
+0 1 1 0 1 (binary inputs) min{— } 9 (aij log #;; + (1 — 24) log(1 — 44,))}
+j=l
 --- page 6 ---
 BL-4   i   Let actual input 𝑥𝑖= [1,1,1,0]. Obtain masking noise corrupted output 𝑥̃𝑖 if
 the random number generated of each digit in the input is [0.35, 0.25, 0.1,
@@ -2465,6 +4748,57 @@ Generator 𝐺(𝑧) = 𝑧2 + 1
 Let noise input 𝑧= 2 and real input 𝑥= 1.
 i   Compute output of the generator
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 1: Figure sketches how mini-
+batch discrimination works. Features
+f(x;) from sample x; are multiplied
+through a tensor 7’, and cross-sample
+distance is computed.
+
+Minibatch discrimination
+
+9 Concept of minibatch discrimination is quite general:
+
+Any discriminator model that looks at multiple examples in combination, rather than in isolation, could potentially help
+avoid collapse of the generator
+
+One successful specification for modelling the closeness between examples in a minibatch is as
+follows:
+
+Let feature vector for input x; be f(x;)eR4
+
+© Here we assume that f(x;) produced by some intermediate layer in the discrit
+© Multiply f(x) by a tensor T € RAXBXC
+
+5 This results in a matrix Mj € RE*°
+
+© Compute the L1-distance between the rows of the resulting matrix M; across samples i €
+
+(12,3 ....n}
+5 Apply negative exponential to obtain c;,(x;,x)) = exp (=m. —Myy TP) ER
+© The output 0(x;) for this minibatch layer for sample x; is sum of the cy (x;,x;) to all other
+
+samples
+o(@i)y = Yo cv(ai,w;) ER
+
+j=l
+
+3 Concatenate 0(x;) of the mi ‘h layer with intermediate features f (x;)
+that were its input, and we feed the result into the next layer of the
+discriminator
+
+O These minibatch features are computerd separately for samples from the
+generator and from the training data
+
+a As before, the discriminator is still required to output a single number for
+each example indicating how likely it is to come from the training data:
+© The task of the discriminator is thus effectively still to classify single examples as
+real data or generated data, but it is now able to use the other examples in the
+minibatch as side information
+
+© Minibatch discrimination allows us to generate visually appealing samples very
+quickly, and in this regard it is superior to feature matching
 --- page 10 ---
 ii Compute output of the discriminator for real and fake inputs
 iii Evaluate GAN loss and comment on the same
@@ -2614,6 +4948,68 @@ iv.   Aggregate neighbour information
 [2.5 Marks each]
 Q7
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+a Step 1: Linear Transformation
+
+© In.order.to obtain sufficient expressive power to transform the input features into
+higher-level features, at least one learnable linear transformation is required.
+
+© To that end, as an initial step, a shared linear transformation, parametrized by a
+weight matrix
+
+WeRxF
+
+Each node feature is first linearly transformed:
+
+hi, = Wh;
+
+0 Step 2: Attention Score
+
+© We calculate how important a neighbor j is to node i, using
+attention, we perform self attention on the nodes:
+
+-a shared attentional mechanism a : RY” x RF’ 4 R
+© computes attention coefficients
+
+643 = a(Wh,, Wh;)
+© that indicate the importance ot node j’s features to node i
+
+© we compute eij for nodes which are the first-order
+neighbors of i (including i).
+
+O Step 3: Normalize with Softmax
+0 Here qj; tells us how important is j to i
+o To make coefficients easily comparable
+across different nodes, we normalize them
+
+across all choices of j using the softmax
+function
+
+egg; — — SP leus)
+7 Ciena xP(Ci)
+
+uk
+
+Oo Step 4: Aggregate Neighbour Information (Weighted Sum of
+Neighbors)
+
+Q Each node updates its representation by aggregating features of its neighbors,
+weighted by attention
+
+Q_ the attention mechanism a is a single-layer feedforward neural network, parametrized
+by a weight vector,
+
+ae RF
+Q and applying the LeakyReLU nonlinearity (with negative input slope = 0:2).
+Q Fully expanded out, the coefficients computed by the attention mechanism as illustrated
+
+eij = LeakyReLU (a” [A || hi) sed as:
+exp (LeakyReLU (a?{wh,|wh,))) ae —a { S> aijht
+aij =
+Dye: exp (LeakyReLu (a”[Wii,||Win)) ) jEN(i)
+
+where T represents transposition and | | is the concatenation operation
 --- page 16 ---
 CO-4 A   Consider a fitness interaction scenario where the node represents a user and edges (10)
 SO-1   represent workout interaction (e.g., training together, sharing fitness plan etc.) The
@@ -2736,6 +5132,36 @@ SO-1   i.   Discuss Vanishing Gradient limitation in GANs.
 BL-2   ii.   With the help of suitable expression of generator loss function explain how
 the above limitation can be overcome.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+0 Large datasets are unavailable:
+This issue is common in many domains ( classification of rare diseases, translation of rare
+languages.
+
+0 Data has a long tai
+This issue can easily break the standard machine learning paradigm.
+For example, in the self-driving car setting, an autonomous vehicle can be trained to handle
+common situations very well, but it often struggles with uncommon situations (such as people jay-
+walking, animals crossing, traffic lines not working) where humans can easily handle.
+This can lead to very bad outcomes, such as the Uber's accident in Arizona a few years ago.
+
++ We want to quickly learn something about a new task without training our model from scratch:
+Humans can do this quite easily by leveraging our prior experience.
+» For example, if | know a bit of Gujrati, then it should not be too difficult for me to learn
+Marwadi, as these two languages are quite similar linguistically.
+
+In supervised learning, models are trained to solve a specific
+task using a defined training dataset
+
+Meta learning process entails a variety of tasks, each with
+its own associated dataset
+
+From these multiple learning events, models gain the ability
+to generalize across tasks, which allow them to adapt swiftly
+to novel scenarios even with little data
+
+Meta learning algorithms are trained on the predictions and
+metadata of other
 --- page 2 ---
 2M
 Loss function in the original GAN algorithm   3M
@@ -2749,6 +5175,66 @@ CO-4 D   Compare Graph Convolution Network and Graph Attention Network.   (5)
 SO-1
 BL-3
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Vanishing Gradients
+
+|
+co Vanishing gradient problem means derivative of loss with respect to w and b
+becomes close to 0
+
+a a
+© Means iw and =, — 0 during initial training process of the generator
+
+a This happens because
+© First the discriminator is trained very well to detect between fake (0) and real (1)
+© After that training of the generator starts
+
+5 In the initial phase, the generator is not able to produce very good fake samples to fool
+the discriminator
+
+5 Asa result, since discriminator is very strong, it will easily detect the fake samples that is 0
+5 Asa result, the gradients for the back propagation becomes very close to 0
+
+Long-range dependency problem in RNN and LSTM
+© Encoder and decoder are stacks of LSTM/RNN units
+
+© Encoder LSTM is used to process the entire input sentence and encode it into a context
+vector, which is the last hidden state of the LSTM/RNN
+
+© This is expected to be a good summary of the input sentence
+
+© All the intermediate states of the encoder are ignored, and the final state is supposed to
+be the initial hidden state of the decoder
+
+© Decoder LSTM or RNN units produce the words in a sentence one after another
+
+Main drawback of this approach is that if the encoder makes a bad summary, the
+translation will also be bad
+
+It has been observed that the encoder creates a bad summary when it tries to
+understand longer sentences
+
+Poor Handling of Long Sequences
+
+& RNNs cannot remember longer sentences and sequences due to the vanishing/exploding
+gradient problem
+
+o It can remember the parts which it has just seen
+
+© An encoder neural network reads and encodes a source sentence into a fixed-length
+vector
+
+© A decoder then outputs a translation from the encoded vector
+
+& Whole encoder—decoder system, which consists of the encoder and the decoder for a
+
+language pair, is jointly trained to maximize the probability of a correct translation given
+a source sentence
+
+Potential issue with this encoder—decoder approach is that a neural network should to be
+able to compress all the necessary information of a source sentence into a fixed-length
+vector
 --- page 3 ---
 1.5M
 1.5M
@@ -2777,6 +5263,53 @@ Feature Extraction- CNN can be used for feature extraction. It extracts   1.5M
 meaningful features, and represents them as embeddings in a high-dimensional
 space
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+} {')
+
+2X; .O;
+
+GCN (Graph Convolutional |GAT (Graph Attention
+Feature Network) Network)
+Neighbor weighting Treats all neighbors Learns weights using
+
+equally (or based on attention — some
+
+degree) neighbors matter more
+
+)Flexibility Less flexible; assumes More flexible; learns
+
+fixed structure which neighbors are useful
+Performance Works well on simple Better on complex, noisy,
+
+graphs or heterogenous graphs
+Interpretability Hard to interpret why Easier to interpret via
+
+decisions are made attention scores
+
+Training
+Dataset
+
+Input X1
+mpe Target Y from training
+
+dataset (1 or 0)
+Twin £0X1) lox
+
+Network 1 one
+(CNN) | Distance unction
+metric Sigmoid
+
+(x2) } calculator T=) function
+Input X2 (Euclidean
+
+Prediction Y'
+(1 or 0)
+
+or Cosine) | scqlar
+Twin distance d
+—>| Network 2
+(CNN)
 --- page 4 ---
 Distance metric- A common distance metric used is the Euclidean distance,   1.5M
 which measures the similarity between two feature vectors. Lower distance
@@ -2810,6 +5343,54 @@ Q3
 CO-4 A   Consider a Denoising autoencoder where the input is corrupted using salt and (10)
 SO-1   pepper noise.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Selection of functions f and g for binary
+inputs
+
+co If our input is binary, that is
+1 = f(Wth +0) a x,€{0,1}
+a Which function do you think is
+suitable for the decoder?
+a x; = logistic (W *h+c)
+a Answer is logistic as it restricts
+x the output to 0 or 1
+
+0 So for binary input, function f
+1 1 0 1 (binary inputs) is a logistic function
+
+Selection of functions f and g for binary
+
+inputs
+|
+
+a Binary input, function f
+i= f(Wh +0) . a .
+©2009 is a logistic function
+a
+OO O O)r=atwa+b) O g is taken as a
+W sigmoid function
+OO0O00)*
+
+0 1 1 0 1 (binary inputs)
+
+Choosing the loss function
+a
+
+o Case2: Consider the case of
+
+a We can use the sigmoid
+
+we
+decoder which can predict
+O O O O b= (Wx: +b) output between
+w
+
+o For single n dimensional
+O O O O Ox input , the following loss
+VY function can be used
+0 1 1 0 1 (binary inputs) min{— } 9 (aij log #;; + (1 — 24) log(1 — 44,))}
+j=l
 --- page 6 ---
 BL-4   i   Let actual input 𝑥𝑖= [1,1,1,0]. Obtain masking noise corrupted output 𝑥̃𝑖 if
 the random number generated of each digit in the input is [0.35, 0.25, 0.1,
@@ -2916,6 +5497,57 @@ Generator 𝐺(𝑧) = 𝑧2 + 1
 Let noise input 𝑧= 2 and real input 𝑥= 1.
 i   Compute output of the generator
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 1: Figure sketches how mini-
+batch discrimination works. Features
+f(x;) from sample x; are multiplied
+through a tensor 7’, and cross-sample
+distance is computed.
+
+Minibatch discrimination
+
+9 Concept of minibatch discrimination is quite general:
+
+Any discriminator model that looks at multiple examples in combination, rather than in isolation, could potentially help
+avoid collapse of the generator
+
+One successful specification for modelling the closeness between examples in a minibatch is as
+follows:
+
+Let feature vector for input x; be f(x;)eR4
+
+© Here we assume that f(x;) produced by some intermediate layer in the discrit
+© Multiply f(x) by a tensor T € RAXBXC
+
+5 This results in a matrix Mj € RE*°
+
+© Compute the L1-distance between the rows of the resulting matrix M; across samples i €
+
+(12,3 ....n}
+5 Apply negative exponential to obtain c;,(x;,x)) = exp (=m. —Myy TP) ER
+© The output 0(x;) for this minibatch layer for sample x; is sum of the cy (x;,x;) to all other
+
+samples
+o(@i)y = Yo cv(ai,w;) ER
+
+j=l
+
+3 Concatenate 0(x;) of the mi ‘h layer with intermediate features f (x;)
+that were its input, and we feed the result into the next layer of the
+discriminator
+
+O These minibatch features are computerd separately for samples from the
+generator and from the training data
+
+a As before, the discriminator is still required to output a single number for
+each example indicating how likely it is to come from the training data:
+© The task of the discriminator is thus effectively still to classify single examples as
+real data or generated data, but it is now able to use the other examples in the
+minibatch as side information
+
+© Minibatch discrimination allows us to generate visually appealing samples very
+quickly, and in this regard it is superior to feature matching
 --- page 10 ---
 ii Compute output of the discriminator for real and fake inputs
 iii Evaluate GAN loss and comment on the same
@@ -3065,6 +5697,68 @@ iv.   Aggregate neighbour information
 [2.5 Marks each]
 Q7
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+a Step 1: Linear Transformation
+
+© In.order.to obtain sufficient expressive power to transform the input features into
+higher-level features, at least one learnable linear transformation is required.
+
+© To that end, as an initial step, a shared linear transformation, parametrized by a
+weight matrix
+
+WeRxF
+
+Each node feature is first linearly transformed:
+
+hi, = Wh;
+
+0 Step 2: Attention Score
+
+© We calculate how important a neighbor j is to node i, using
+attention, we perform self attention on the nodes:
+
+-a shared attentional mechanism a : RY” x RF’ 4 R
+© computes attention coefficients
+
+643 = a(Wh,, Wh;)
+© that indicate the importance ot node j’s features to node i
+
+© we compute eij for nodes which are the first-order
+neighbors of i (including i).
+
+O Step 3: Normalize with Softmax
+0 Here qj; tells us how important is j to i
+o To make coefficients easily comparable
+across different nodes, we normalize them
+
+across all choices of j using the softmax
+function
+
+egg; — — SP leus)
+7 Ciena xP(Ci)
+
+uk
+
+Oo Step 4: Aggregate Neighbour Information (Weighted Sum of
+Neighbors)
+
+Q Each node updates its representation by aggregating features of its neighbors,
+weighted by attention
+
+Q_ the attention mechanism a is a single-layer feedforward neural network, parametrized
+by a weight vector,
+
+ae RF
+Q and applying the LeakyReLU nonlinearity (with negative input slope = 0:2).
+Q Fully expanded out, the coefficients computed by the attention mechanism as illustrated
+
+eij = LeakyReLU (a” [A || hi) sed as:
+exp (LeakyReLU (a?{wh,|wh,))) ae —a { S> aijht
+aij =
+Dye: exp (LeakyReLu (a”[Wii,||Win)) ) jEN(i)
+
+where T represents transposition and | | is the concatenation operation
 --- page 16 ---
 CO-4 A   Consider a fitness interaction scenario where the node represents a user and edges (10)
 SO-1   represent workout interaction (e.g., training together, sharing fitness plan etc.) The
@@ -3187,6 +5881,36 @@ SO-1   i.   Discuss Vanishing Gradient limitation in GANs.
 BL-2   ii.   With the help of suitable expression of generator loss function explain how
 the above limitation can be overcome.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+0 Large datasets are unavailable:
+This issue is common in many domains ( classification of rare diseases, translation of rare
+languages.
+
+0 Data has a long tai
+This issue can easily break the standard machine learning paradigm.
+For example, in the self-driving car setting, an autonomous vehicle can be trained to handle
+common situations very well, but it often struggles with uncommon situations (such as people jay-
+walking, animals crossing, traffic lines not working) where humans can easily handle.
+This can lead to very bad outcomes, such as the Uber's accident in Arizona a few years ago.
+
++ We want to quickly learn something about a new task without training our model from scratch:
+Humans can do this quite easily by leveraging our prior experience.
+» For example, if | know a bit of Gujrati, then it should not be too difficult for me to learn
+Marwadi, as these two languages are quite similar linguistically.
+
+In supervised learning, models are trained to solve a specific
+task using a defined training dataset
+
+Meta learning process entails a variety of tasks, each with
+its own associated dataset
+
+From these multiple learning events, models gain the ability
+to generalize across tasks, which allow them to adapt swiftly
+to novel scenarios even with little data
+
+Meta learning algorithms are trained on the predictions and
+metadata of other
 --- page 2 ---
 2M
 Loss function in the original GAN algorithm   3M
@@ -3200,6 +5924,66 @@ CO-4 D   Compare Graph Convolution Network and Graph Attention Network.   (5)
 SO-1
 BL-3
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Vanishing Gradients
+
+|
+co Vanishing gradient problem means derivative of loss with respect to w and b
+becomes close to 0
+
+a a
+© Means iw and =, — 0 during initial training process of the generator
+
+a This happens because
+© First the discriminator is trained very well to detect between fake (0) and real (1)
+© After that training of the generator starts
+
+5 In the initial phase, the generator is not able to produce very good fake samples to fool
+the discriminator
+
+5 Asa result, since discriminator is very strong, it will easily detect the fake samples that is 0
+5 Asa result, the gradients for the back propagation becomes very close to 0
+
+Long-range dependency problem in RNN and LSTM
+© Encoder and decoder are stacks of LSTM/RNN units
+
+© Encoder LSTM is used to process the entire input sentence and encode it into a context
+vector, which is the last hidden state of the LSTM/RNN
+
+© This is expected to be a good summary of the input sentence
+
+© All the intermediate states of the encoder are ignored, and the final state is supposed to
+be the initial hidden state of the decoder
+
+© Decoder LSTM or RNN units produce the words in a sentence one after another
+
+Main drawback of this approach is that if the encoder makes a bad summary, the
+translation will also be bad
+
+It has been observed that the encoder creates a bad summary when it tries to
+understand longer sentences
+
+Poor Handling of Long Sequences
+
+& RNNs cannot remember longer sentences and sequences due to the vanishing/exploding
+gradient problem
+
+o It can remember the parts which it has just seen
+
+© An encoder neural network reads and encodes a source sentence into a fixed-length
+vector
+
+© A decoder then outputs a translation from the encoded vector
+
+& Whole encoder—decoder system, which consists of the encoder and the decoder for a
+
+language pair, is jointly trained to maximize the probability of a correct translation given
+a source sentence
+
+Potential issue with this encoder—decoder approach is that a neural network should to be
+able to compress all the necessary information of a source sentence into a fixed-length
+vector
 --- page 3 ---
 1.5M
 1.5M
@@ -3228,6 +6012,53 @@ Feature Extraction- CNN can be used for feature extraction. It extracts   1.5M
 meaningful features, and represents them as embeddings in a high-dimensional
 space
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+} {')
+
+2X; .O;
+
+GCN (Graph Convolutional |GAT (Graph Attention
+Feature Network) Network)
+Neighbor weighting Treats all neighbors Learns weights using
+
+equally (or based on attention — some
+
+degree) neighbors matter more
+
+)Flexibility Less flexible; assumes More flexible; learns
+
+fixed structure which neighbors are useful
+Performance Works well on simple Better on complex, noisy,
+
+graphs or heterogenous graphs
+Interpretability Hard to interpret why Easier to interpret via
+
+decisions are made attention scores
+
+Training
+Dataset
+
+Input X1
+mpe Target Y from training
+
+dataset (1 or 0)
+Twin £0X1) lox
+
+Network 1 one
+(CNN) | Distance unction
+metric Sigmoid
+
+(x2) } calculator T=) function
+Input X2 (Euclidean
+
+Prediction Y'
+(1 or 0)
+
+or Cosine) | scqlar
+Twin distance d
+—>| Network 2
+(CNN)
 --- page 4 ---
 Distance metric- A common distance metric used is the Euclidean distance,   1.5M
 which measures the similarity between two feature vectors. Lower distance
@@ -3261,6 +6092,54 @@ Q3
 CO-4 A   Consider a Denoising autoencoder where the input is corrupted using salt and (10)
 SO-1   pepper noise.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Selection of functions f and g for binary
+inputs
+
+co If our input is binary, that is
+1 = f(Wth +0) a x,€{0,1}
+a Which function do you think is
+suitable for the decoder?
+a x; = logistic (W *h+c)
+a Answer is logistic as it restricts
+x the output to 0 or 1
+
+0 So for binary input, function f
+1 1 0 1 (binary inputs) is a logistic function
+
+Selection of functions f and g for binary
+
+inputs
+|
+
+a Binary input, function f
+i= f(Wh +0) . a .
+©2009 is a logistic function
+a
+OO O O)r=atwa+b) O g is taken as a
+W sigmoid function
+OO0O00)*
+
+0 1 1 0 1 (binary inputs)
+
+Choosing the loss function
+a
+
+o Case2: Consider the case of
+
+a We can use the sigmoid
+
+we
+decoder which can predict
+O O O O b= (Wx: +b) output between
+w
+
+o For single n dimensional
+O O O O Ox input , the following loss
+VY function can be used
+0 1 1 0 1 (binary inputs) min{— } 9 (aij log #;; + (1 — 24) log(1 — 44,))}
+j=l
 --- page 6 ---
 BL-4   i   Let actual input 𝑥𝑖= [1,1,1,0]. Obtain masking noise corrupted output 𝑥̃𝑖 if
 the random number generated of each digit in the input is [0.35, 0.25, 0.1,
@@ -3367,6 +6246,57 @@ Generator 𝐺(𝑧) = 𝑧2 + 1
 Let noise input 𝑧= 2 and real input 𝑥= 1.
 i   Compute output of the generator
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 1: Figure sketches how mini-
+batch discrimination works. Features
+f(x;) from sample x; are multiplied
+through a tensor 7’, and cross-sample
+distance is computed.
+
+Minibatch discrimination
+
+9 Concept of minibatch discrimination is quite general:
+
+Any discriminator model that looks at multiple examples in combination, rather than in isolation, could potentially help
+avoid collapse of the generator
+
+One successful specification for modelling the closeness between examples in a minibatch is as
+follows:
+
+Let feature vector for input x; be f(x;)eR4
+
+© Here we assume that f(x;) produced by some intermediate layer in the discrit
+© Multiply f(x) by a tensor T € RAXBXC
+
+5 This results in a matrix Mj € RE*°
+
+© Compute the L1-distance between the rows of the resulting matrix M; across samples i €
+
+(12,3 ....n}
+5 Apply negative exponential to obtain c;,(x;,x)) = exp (=m. —Myy TP) ER
+© The output 0(x;) for this minibatch layer for sample x; is sum of the cy (x;,x;) to all other
+
+samples
+o(@i)y = Yo cv(ai,w;) ER
+
+j=l
+
+3 Concatenate 0(x;) of the mi ‘h layer with intermediate features f (x;)
+that were its input, and we feed the result into the next layer of the
+discriminator
+
+O These minibatch features are computerd separately for samples from the
+generator and from the training data
+
+a As before, the discriminator is still required to output a single number for
+each example indicating how likely it is to come from the training data:
+© The task of the discriminator is thus effectively still to classify single examples as
+real data or generated data, but it is now able to use the other examples in the
+minibatch as side information
+
+© Minibatch discrimination allows us to generate visually appealing samples very
+quickly, and in this regard it is superior to feature matching
 --- page 10 ---
 ii Compute output of the discriminator for real and fake inputs
 iii Evaluate GAN loss and comment on the same
@@ -3516,6 +6446,68 @@ iv.   Aggregate neighbour information
 [2.5 Marks each]
 Q7
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+a Step 1: Linear Transformation
+
+© In.order.to obtain sufficient expressive power to transform the input features into
+higher-level features, at least one learnable linear transformation is required.
+
+© To that end, as an initial step, a shared linear transformation, parametrized by a
+weight matrix
+
+WeRxF
+
+Each node feature is first linearly transformed:
+
+hi, = Wh;
+
+0 Step 2: Attention Score
+
+© We calculate how important a neighbor j is to node i, using
+attention, we perform self attention on the nodes:
+
+-a shared attentional mechanism a : RY” x RF’ 4 R
+© computes attention coefficients
+
+643 = a(Wh,, Wh;)
+© that indicate the importance ot node j’s features to node i
+
+© we compute eij for nodes which are the first-order
+neighbors of i (including i).
+
+O Step 3: Normalize with Softmax
+0 Here qj; tells us how important is j to i
+o To make coefficients easily comparable
+across different nodes, we normalize them
+
+across all choices of j using the softmax
+function
+
+egg; — — SP leus)
+7 Ciena xP(Ci)
+
+uk
+
+Oo Step 4: Aggregate Neighbour Information (Weighted Sum of
+Neighbors)
+
+Q Each node updates its representation by aggregating features of its neighbors,
+weighted by attention
+
+Q_ the attention mechanism a is a single-layer feedforward neural network, parametrized
+by a weight vector,
+
+ae RF
+Q and applying the LeakyReLU nonlinearity (with negative input slope = 0:2).
+Q Fully expanded out, the coefficients computed by the attention mechanism as illustrated
+
+eij = LeakyReLU (a” [A || hi) sed as:
+exp (LeakyReLU (a?{wh,|wh,))) ae —a { S> aijht
+aij =
+Dye: exp (LeakyReLu (a”[Wii,||Win)) ) jEN(i)
+
+where T represents transposition and | | is the concatenation operation
 --- page 16 ---
 CO-4 A   Consider a fitness interaction scenario where the node represents a user and edges (10)
 SO-1   represent workout interaction (e.g., training together, sharing fitness plan etc.) The
@@ -3840,6 +6832,25 @@ b) Input Sentence: “The cat sat”
 Given Queries (Q), Keys (K), and Values (V) — each with dimensionality dk=2.
 Compute the Attention Output step-by-step using the Scaled Dot-Product Attention mechanism
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+What is Self-Attention?
+
+Self-attention relates words within the = prereeepreon
+same sentence, deciding what needs =
+focus.
+
+Key components: Query, Key, and Value
+vectors.
+
+Three key questions:
+
+e What are Query, Key & Value?
+
+e What is Positional Encoding?
+
+e What inputs do Query, Key & Value
+receive?
 --- page 7 ---
 Answer:
 Choice of linear projection (example weights)
@@ -3973,6 +6984,22 @@ Training is done using pairs or triplets of images:
 Contrastive Loss: Used with image pairs (x1, x2) and label y (1 for same, 0 for different). It minimizes distance
 for similar pairs and maximizes for dissimilar pairs.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Generic Siamese Model
+
+Input 1 Input 2
+
+Input 1_|Neural network 1
+Network 1 - Weights Network 2 z
+<=
+ob
+
+Features Features a
+
+Loss Value
+
+Input 2. Neural network 2
 --- page 11 ---
 Triplet Loss: Uses three images – anchor, positive, and negative. It encourages the anchor-positive distance to be
 smaller than anchor-negative distance by a margin.
@@ -4006,6 +7033,20 @@ Lipschitz constraint: To make the Kantorovich–Rubinstein dual valid, the criti
 WGAN enforces this by weight clipping (clamp critic weights to a small range). This keeps the critic smooth and
 stabilizes training, though clipping can be crude.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Contrastive Loss — Formula
+
+L=(1-—Y)-D?+Y-max(0,m—D)?
+Where:
+
+¢ Y = 0 for similar pairs
+
+e¢ Y = 1 for dissimilar pairs
+
+e Dis the distance
+
+¢ mis the margin
 --- page 12 ---
 Improved enforcement (WGAN-GP): Gradient penalty encourages the critic’s gradient norm to be ≈1 along lines
 between real and fake samples, avoiding the pitfalls of clipping and improving stability.
@@ -4024,6 +7065,21 @@ objective produce smoother, more reliable optimization and learning curves.
 Architectural flexibility: Because the objective is better behaved, WGANs often tolerate broader architecture
 choices and longer training without catastrophic failures.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+WGAN Loss Functions
+
+e Critic Loss:
+
+min — (E_~px[D(2)] — E:-pe(D(G(2))])
+
+> Critic tries to maximize score difference (real — fake).
+
+e Generator Loss:
+
+min —E,~p,[D(G(z))]
+
+> Generator tries to maximize fake scores (make fakes look real).
 --- page 13 ---
 b) What is the over-smoothing problem in Graph Neural Networks? Illustrate with an example how this problem
 can affect community detection in social networks. [CO4, SO-1, BL4]
@@ -4039,6 +7095,37 @@ most nodes receive similar averaged signals.
 suppressing high-frequency (node-specific) components while amplifying smooth, low-frequency
 components.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+1 Train the Discriminator:
+
+Discriminator |. — »<<“ Classification >».
+
+Take a random real example x from the training dataset.
+
+Get a new random noise vector z and, using the Generator network, syn-
+thesize a fake example x*.
+
+Use the Discriminator network to classify x and x*.
+
+« Compute the classification errors and backpropagate the total error to
+update the Discriminator weights and biases, seeking to minimize the clas-
+sification errors.
+
+2 Train the Generator:
+
+2 Train the Generator:
+
+| (0) and (c) 1
+1
+
+Get a new random noise vector z and, using the Generator network, syn-
+thesize a fake example x*.
+Use the Discriminator network to classify x*.
+
+e Compute the classification error and backpropagate the error to update
+the Generator weights and biases, seeking to maximize the Discrimina-
+tor’s error.
 --- page 14 ---
 ● Topology influence: Dense connections, short path lengths, or strong inter-community links accelerate
 homogenization. Noisy edges further dilute class- or community-specific signals.
@@ -4112,6 +7199,25 @@ interleave generation with incoming audio to provide partial translations.
 output and further reduce latency in production systems.
 Cascaded vs end-to-end
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Key Innovation — The Transformer Architecture
+
+Output
+Probabilties
+
+Replaces sequential processing with parallel process
+Introduces self-attention & positional encoding
+
+Composed of Encoder and Decoder stacks
+
+Postona Postonal
+Encoding POD) Encooing
+Tor Sas
+evosiio| Lemoore
+ius Outputs
+
+(shifted right)
 --- page 16 ---
 ● Cascaded: ASR encoder-decoder produces English text; a second encoder-decoder MT system translates
 to Japanese, benefiting from mature text MT but risking error propagation.
@@ -4413,6 +7519,36 @@ SO-1   i.   Discuss Vanishing Gradient limitation in GANs.
 BL-2   ii.   With the help of suitable expression of generator loss function explain how
 the above limitation can be overcome.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+0 Large datasets are unavailable:
+This issue is common in many domains ( classification of rare diseases, translation of rare
+languages.
+
+0 Data has a long tai
+This issue can easily break the standard machine learning paradigm.
+For example, in the self-driving car setting, an autonomous vehicle can be trained to handle
+common situations very well, but it often struggles with uncommon situations (such as people jay-
+walking, animals crossing, traffic lines not working) where humans can easily handle.
+This can lead to very bad outcomes, such as the Uber's accident in Arizona a few years ago.
+
++ We want to quickly learn something about a new task without training our model from scratch:
+Humans can do this quite easily by leveraging our prior experience.
+» For example, if | know a bit of Gujrati, then it should not be too difficult for me to learn
+Marwadi, as these two languages are quite similar linguistically.
+
+In supervised learning, models are trained to solve a specific
+task using a defined training dataset
+
+Meta learning process entails a variety of tasks, each with
+its own associated dataset
+
+From these multiple learning events, models gain the ability
+to generalize across tasks, which allow them to adapt swiftly
+to novel scenarios even with little data
+
+Meta learning algorithms are trained on the predictions and
+metadata of other
 --- page 2 ---
 2M
 Loss function in the original GAN algorithm   3M
@@ -4426,6 +7562,66 @@ CO-4 D   Compare Graph Convolution Network and Graph Attention Network.   (5)
 SO-1
 BL-3
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Vanishing Gradients
+
+|
+co Vanishing gradient problem means derivative of loss with respect to w and b
+becomes close to 0
+
+a a
+© Means iw and =, — 0 during initial training process of the generator
+
+a This happens because
+© First the discriminator is trained very well to detect between fake (0) and real (1)
+© After that training of the generator starts
+
+5 In the initial phase, the generator is not able to produce very good fake samples to fool
+the discriminator
+
+5 Asa result, since discriminator is very strong, it will easily detect the fake samples that is 0
+5 Asa result, the gradients for the back propagation becomes very close to 0
+
+Long-range dependency problem in RNN and LSTM
+© Encoder and decoder are stacks of LSTM/RNN units
+
+© Encoder LSTM is used to process the entire input sentence and encode it into a context
+vector, which is the last hidden state of the LSTM/RNN
+
+© This is expected to be a good summary of the input sentence
+
+© All the intermediate states of the encoder are ignored, and the final state is supposed to
+be the initial hidden state of the decoder
+
+© Decoder LSTM or RNN units produce the words in a sentence one after another
+
+Main drawback of this approach is that if the encoder makes a bad summary, the
+translation will also be bad
+
+It has been observed that the encoder creates a bad summary when it tries to
+understand longer sentences
+
+Poor Handling of Long Sequences
+
+& RNNs cannot remember longer sentences and sequences due to the vanishing/exploding
+gradient problem
+
+o It can remember the parts which it has just seen
+
+© An encoder neural network reads and encodes a source sentence into a fixed-length
+vector
+
+© A decoder then outputs a translation from the encoded vector
+
+& Whole encoder—decoder system, which consists of the encoder and the decoder for a
+
+language pair, is jointly trained to maximize the probability of a correct translation given
+a source sentence
+
+Potential issue with this encoder—decoder approach is that a neural network should to be
+able to compress all the necessary information of a source sentence into a fixed-length
+vector
 --- page 3 ---
 1.5M
 1.5M
@@ -4454,6 +7650,53 @@ Feature Extraction- CNN can be used for feature extraction. It extracts   1.5M
 meaningful features, and represents them as embeddings in a high-dimensional
 space
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+} {')
+
+2X; .O;
+
+GCN (Graph Convolutional |GAT (Graph Attention
+Feature Network) Network)
+Neighbor weighting Treats all neighbors Learns weights using
+
+equally (or based on attention — some
+
+degree) neighbors matter more
+
+)Flexibility Less flexible; assumes More flexible; learns
+
+fixed structure which neighbors are useful
+Performance Works well on simple Better on complex, noisy,
+
+graphs or heterogenous graphs
+Interpretability Hard to interpret why Easier to interpret via
+
+decisions are made attention scores
+
+Training
+Dataset
+
+Input X1
+mpe Target Y from training
+
+dataset (1 or 0)
+Twin £0X1) lox
+
+Network 1 one
+(CNN) | Distance unction
+metric Sigmoid
+
+(x2) } calculator T=) function
+Input X2 (Euclidean
+
+Prediction Y'
+(1 or 0)
+
+or Cosine) | scqlar
+Twin distance d
+—>| Network 2
+(CNN)
 --- page 4 ---
 Distance metric- A common distance metric used is the Euclidean distance,   1.5M
 which measures the similarity between two feature vectors. Lower distance
@@ -4487,6 +7730,54 @@ Q3
 CO-4 A   Consider a Denoising autoencoder where the input is corrupted using salt and (10)
 SO-1   pepper noise.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Selection of functions f and g for binary
+inputs
+
+co If our input is binary, that is
+1 = f(Wth +0) a x,€{0,1}
+a Which function do you think is
+suitable for the decoder?
+a x; = logistic (W *h+c)
+a Answer is logistic as it restricts
+x the output to 0 or 1
+
+0 So for binary input, function f
+1 1 0 1 (binary inputs) is a logistic function
+
+Selection of functions f and g for binary
+
+inputs
+|
+
+a Binary input, function f
+i= f(Wh +0) . a .
+©2009 is a logistic function
+a
+OO O O)r=atwa+b) O g is taken as a
+W sigmoid function
+OO0O00)*
+
+0 1 1 0 1 (binary inputs)
+
+Choosing the loss function
+a
+
+o Case2: Consider the case of
+
+a We can use the sigmoid
+
+we
+decoder which can predict
+O O O O b= (Wx: +b) output between
+w
+
+o For single n dimensional
+O O O O Ox input , the following loss
+VY function can be used
+0 1 1 0 1 (binary inputs) min{— } 9 (aij log #;; + (1 — 24) log(1 — 44,))}
+j=l
 --- page 6 ---
 BL-4   i   Let actual input 𝑥𝑖= [1,1,1,0]. Obtain masking noise corrupted output 𝑥̃𝑖 if
 the random number generated of each digit in the input is [0.35, 0.25, 0.1,
@@ -4593,6 +7884,57 @@ Generator 𝐺(𝑧) = 𝑧2 + 1
 Let noise input 𝑧= 2 and real input 𝑥= 1.
 i   Compute output of the generator
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 1: Figure sketches how mini-
+batch discrimination works. Features
+f(x;) from sample x; are multiplied
+through a tensor 7’, and cross-sample
+distance is computed.
+
+Minibatch discrimination
+
+9 Concept of minibatch discrimination is quite general:
+
+Any discriminator model that looks at multiple examples in combination, rather than in isolation, could potentially help
+avoid collapse of the generator
+
+One successful specification for modelling the closeness between examples in a minibatch is as
+follows:
+
+Let feature vector for input x; be f(x;)eR4
+
+© Here we assume that f(x;) produced by some intermediate layer in the discrit
+© Multiply f(x) by a tensor T € RAXBXC
+
+5 This results in a matrix Mj € RE*°
+
+© Compute the L1-distance between the rows of the resulting matrix M; across samples i €
+
+(12,3 ....n}
+5 Apply negative exponential to obtain c;,(x;,x)) = exp (=m. —Myy TP) ER
+© The output 0(x;) for this minibatch layer for sample x; is sum of the cy (x;,x;) to all other
+
+samples
+o(@i)y = Yo cv(ai,w;) ER
+
+j=l
+
+3 Concatenate 0(x;) of the mi ‘h layer with intermediate features f (x;)
+that were its input, and we feed the result into the next layer of the
+discriminator
+
+O These minibatch features are computerd separately for samples from the
+generator and from the training data
+
+a As before, the discriminator is still required to output a single number for
+each example indicating how likely it is to come from the training data:
+© The task of the discriminator is thus effectively still to classify single examples as
+real data or generated data, but it is now able to use the other examples in the
+minibatch as side information
+
+© Minibatch discrimination allows us to generate visually appealing samples very
+quickly, and in this regard it is superior to feature matching
 --- page 10 ---
 ii Compute output of the discriminator for real and fake inputs
 iii Evaluate GAN loss and comment on the same
@@ -4742,6 +8084,68 @@ iv.   Aggregate neighbour information
 [2.5 Marks each]
 Q7
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+a Step 1: Linear Transformation
+
+© In.order.to obtain sufficient expressive power to transform the input features into
+higher-level features, at least one learnable linear transformation is required.
+
+© To that end, as an initial step, a shared linear transformation, parametrized by a
+weight matrix
+
+WeRxF
+
+Each node feature is first linearly transformed:
+
+hi, = Wh;
+
+0 Step 2: Attention Score
+
+© We calculate how important a neighbor j is to node i, using
+attention, we perform self attention on the nodes:
+
+-a shared attentional mechanism a : RY” x RF’ 4 R
+© computes attention coefficients
+
+643 = a(Wh,, Wh;)
+© that indicate the importance ot node j’s features to node i
+
+© we compute eij for nodes which are the first-order
+neighbors of i (including i).
+
+O Step 3: Normalize with Softmax
+0 Here qj; tells us how important is j to i
+o To make coefficients easily comparable
+across different nodes, we normalize them
+
+across all choices of j using the softmax
+function
+
+egg; — — SP leus)
+7 Ciena xP(Ci)
+
+uk
+
+Oo Step 4: Aggregate Neighbour Information (Weighted Sum of
+Neighbors)
+
+Q Each node updates its representation by aggregating features of its neighbors,
+weighted by attention
+
+Q_ the attention mechanism a is a single-layer feedforward neural network, parametrized
+by a weight vector,
+
+ae RF
+Q and applying the LeakyReLU nonlinearity (with negative input slope = 0:2).
+Q Fully expanded out, the coefficients computed by the attention mechanism as illustrated
+
+eij = LeakyReLU (a” [A || hi) sed as:
+exp (LeakyReLU (a?{wh,|wh,))) ae —a { S> aijht
+aij =
+Dye: exp (LeakyReLu (a”[Wii,||Win)) ) jEN(i)
+
+where T represents transposition and | | is the concatenation operation
 --- page 16 ---
 CO-4 A   Consider a fitness interaction scenario where the node represents a user and edges (10)
 SO-1   represent workout interaction (e.g., training together, sharing fitness plan etc.) The

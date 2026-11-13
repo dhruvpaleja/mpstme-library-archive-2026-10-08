@@ -1729,6 +1729,23 @@ The speed control mechanism in pick-and-place is usually based on varying robot
 speed across different segments of the trajectory rather than using one constant speed
 for the whole cycle. Gross transfer motions between lift-off and set-down are
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Gross motion
+
+Gross
+motion
+
+Gross
+motion
+
+Litt-off EJ Set-down
+Fine Fine
+motion motion
+
+Pick Place
+
+Work surface
 --- page 10 ---
 performed fast for productivity, while the fine approach and departure motions near
 the pick and place surfaces are performed slowly for safety and accuracy.
@@ -2296,6 +2313,23 @@ The speed control mechanism in pick-and-place is usually based on varying robot
 speed across different segments of the trajectory rather than using one constant speed
 for the whole cycle. Gross transfer motions between lift-off and set-down are
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Gross motion
+
+Gross
+motion
+
+Gross
+motion
+
+Litt-off EJ Set-down
+Fine Fine
+motion motion
+
+Pick Place
+
+Work surface
 --- page 10 ---
 performed fast for productivity, while the fine approach and departure motions near
 the pick and place surfaces are performed slowly for safety and accuracy.

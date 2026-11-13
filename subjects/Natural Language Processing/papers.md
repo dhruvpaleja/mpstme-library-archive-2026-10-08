@@ -3995,7 +3995,8 @@ Pase- 2
 - Programmes: B TECH / ARTIFICAL INTELLIGENCE
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/ARTIFICAL INTELLIGENCE/SEM-V/NATURAL LANGUAGE PROCESSING/Natural Language Processing, 3rd Year, Sem-V, Year 2022-23, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 22 November 2022
-- Text: ocr (4 pages), mean OCR confidence 76.5
+- Text: ocr (4 pages), mean OCR confidence 85.7
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 SVKM’s NMIMS
@@ -4142,44 +4143,40 @@ W1= [0.2,0.1,0.3,0.4] and w2=[0.3,0,0.2,0.5]
 Calculate the cosine similarity between wl and w2? Are the words wl and
 w2 similar or dissimilar?
 --- page 4 ---
-—]
+Tag _ Description Example Tag Description Example Tag Description Example
+es ee ee
 
-ou
+CC coordinating and, but, or PDT _ predeterminer all, both “BP verb non-3sg eat
+conjunction present
 
-BAS eS
-5 eek
-o YY
-2 ¢ 82
-Seo = &
-3 aq ts
+CD cardinal number one, two POS possessive ending 's VBZ verb3sgpres eats
 
-a
-cs)
-8 Be
+DT determiner a, the PRP personal pronoun J, you, he WDT wh-determ. which, that
 
-otmana
-BOF > > >
-3
+EX existential ‘there’ there PRP$ possess. pronoun your, one’s WP   wh-pronoun _ what, who
 
-wy 3 Ket
-ti. é
+FW foreign word meaculpa RB adverb quickly WP$ wh-possess. whose
 
-5 3 S
+IN preposition/ of, in, by |RBR_ comparative faster WRB wh-adverb how, where
+subordin-conj adverb
 
-~8SH38O0
-« ,
+JJ adjective yellow RBS - superlatv. adverb fastest $ dollarsign $
 
-& 3 2 3
+JIR comparative adj bigger RP particle up, off # poundsign #
 
-a a &
+JIS superlative adj wildest SYM symbol +,%, & left quote “or “
 
-a cs a
+LS list item marker 1,2,One TO — “to” to a right quote or”:
 
-E a2 5 5
+MD modal can, should UH interjection ah, oops ( left paren Gd <
 
-| =]
+NN sing or mass noun llama VB sverbbaseform _— eat ) right paren Leh >
 
-g Fae 6
+NNS _ noun, plural llamas VBD verb past tense ate 2 comma i
+
+NNP propernoun, sing. JBM VBG verb gerund éating : sent-end punc . ! ?
+
+NNPS proper noun, plu. Carolinas VBN_ verb past part. eaten : sent-mid punc :;...—-
 ````
 
 ## 2022-23 · Final-Exam · Sem 8 · paper 730b2a58f8d0

@@ -187,6 +187,21 @@ CO-2; BL-
 lending. They also assist in disbursement and repayment of loans availed on
 NBFC P2P. (https://www.i2ifunding.com/) (https://www.faircent.com/)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Types of Crowdfunding
+
+Reward-Based Donation-Based Peer-to-Peer
+Crowdfunding Crowdfunding Lending
+- 7
+It involves individuals contribut- It is a way to source money for a It is the practice of lending
+ing comparatively small amounts Project by asking a large number money to individuals or
+of money to projects in return for _of contributors to individually businesses through online
+some kind of reward. donate a small amount to it. services that match lenders
+with borrowers.
+EXAMPLE EXAMPLE EXAMPLE
+wee
+KICKSTARTER gofundme LendingClub
 --- page 3 ---
 Eligibility requirements for a company to register as a P2P lending platform
 include a minimum capital of 20 million rupees;
@@ -259,6 +274,54 @@ customer-facing features.
 Applications of IoT in the Fintech Industry
 1. Personalized Financial Services
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Project Lifecycle Stages
+
+> Initiating a Project
+
+> Project Scope Management
+
+> Project Planning
+
+> Project Risk Management
+
+> Project Schedule Management
+> Executing a Project
+
+> Controlling a Project
+
+> Project Closure
+
+Triple Constrains
+
+2 /
+Quality
+KR
+
+Cost
+
+4 P’s of Project Management 9 Knowledge Areas
+
+> Integration
+> Scope
+
+G oT
+> Product _ GR S > Time
+° ALOK ME >» Cost
+
+RST
+
+> People
+
+(=
+Be) 4 ,
+> Process SAS id Quality RS
+<5! d aR cat ok
+> Project ‘4 ommunications
+> Risk
+
+> Procurement
 --- page 5 ---
 2. Improved Customer Experience
 3. Fraud Prevention and Enhanced Security
@@ -370,6 +433,21 @@ CO-2; BL-
 lending. They also assist in disbursement and repayment of loans availed on
 NBFC P2P. (https://www.i2ifunding.com/) (https://www.faircent.com/)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Types of Crowdfunding
+
+Reward-Based Donation-Based Peer-to-Peer
+Crowdfunding Crowdfunding Lending
+- 7
+It involves individuals contribut- It is a way to source money for a It is the practice of lending
+ing comparatively small amounts Project by asking a large number money to individuals or
+of money to projects in return for _of contributors to individually businesses through online
+some kind of reward. donate a small amount to it. services that match lenders
+with borrowers.
+EXAMPLE EXAMPLE EXAMPLE
+wee
+KICKSTARTER gofundme LendingClub
 --- page 3 ---
 Eligibility requirements for a company to register as a P2P lending platform
 include a minimum capital of 20 million rupees;
@@ -442,6 +520,54 @@ customer-facing features.
 Applications of IoT in the Fintech Industry
 1. Personalized Financial Services
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Project Lifecycle Stages
+
+> Initiating a Project
+
+> Project Scope Management
+
+> Project Planning
+
+> Project Risk Management
+
+> Project Schedule Management
+> Executing a Project
+
+> Controlling a Project
+
+> Project Closure
+
+Triple Constrains
+
+2 /
+Quality
+KR
+
+Cost
+
+4 P’s of Project Management 9 Knowledge Areas
+
+> Integration
+> Scope
+
+G oT
+> Product _ GR S > Time
+° ALOK ME >» Cost
+
+RST
+
+> People
+
+(=
+Be) 4 ,
+> Process SAS id Quality RS
+<5! d aR cat ok
+> Project ‘4 ommunications
+> Risk
+
+> Procurement
 --- page 5 ---
 2. Improved Customer Experience
 3. Fraud Prevention and Enhanced Security
@@ -553,6 +679,21 @@ CO-2; BL-
 lending. They also assist in disbursement and repayment of loans availed on
 NBFC P2P. (https://www.i2ifunding.com/) (https://www.faircent.com/)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Types of Crowdfunding
+
+Reward-Based Donation-Based Peer-to-Peer
+Crowdfunding Crowdfunding Lending
+- 7
+It involves individuals contribut- It is a way to source money for a It is the practice of lending
+ing comparatively small amounts Project by asking a large number money to individuals or
+of money to projects in return for _of contributors to individually businesses through online
+some kind of reward. donate a small amount to it. services that match lenders
+with borrowers.
+EXAMPLE EXAMPLE EXAMPLE
+wee
+KICKSTARTER gofundme LendingClub
 --- page 3 ---
 Eligibility requirements for a company to register as a P2P lending platform
 include a minimum capital of 20 million rupees;
@@ -625,6 +766,54 @@ customer-facing features.
 Applications of IoT in the Fintech Industry
 1. Personalized Financial Services
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Project Lifecycle Stages
+
+> Initiating a Project
+
+> Project Scope Management
+
+> Project Planning
+
+> Project Risk Management
+
+> Project Schedule Management
+> Executing a Project
+
+> Controlling a Project
+
+> Project Closure
+
+Triple Constrains
+
+2 /
+Quality
+KR
+
+Cost
+
+4 P’s of Project Management 9 Knowledge Areas
+
+> Integration
+> Scope
+
+G oT
+> Product _ GR S > Time
+° ALOK ME >» Cost
+
+RST
+
+> People
+
+(=
+Be) 4 ,
+> Process SAS id Quality RS
+<5! d aR cat ok
+> Project ‘4 ommunications
+> Risk
+
+> Procurement
 --- page 5 ---
 2. Improved Customer Experience
 3. Fraud Prevention and Enhanced Security
@@ -736,6 +925,21 @@ CO-2; BL-
 lending. They also assist in disbursement and repayment of loans availed on
 NBFC P2P. (https://www.i2ifunding.com/) (https://www.faircent.com/)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Types of Crowdfunding
+
+Reward-Based Donation-Based Peer-to-Peer
+Crowdfunding Crowdfunding Lending
+- 7
+It involves individuals contribut- It is a way to source money for a It is the practice of lending
+ing comparatively small amounts Project by asking a large number money to individuals or
+of money to projects in return for _of contributors to individually businesses through online
+some kind of reward. donate a small amount to it. services that match lenders
+with borrowers.
+EXAMPLE EXAMPLE EXAMPLE
+wee
+KICKSTARTER gofundme LendingClub
 --- page 3 ---
 Eligibility requirements for a company to register as a P2P lending platform
 include a minimum capital of 20 million rupees;
@@ -808,6 +1012,54 @@ customer-facing features.
 Applications of IoT in the Fintech Industry
 1. Personalized Financial Services
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Project Lifecycle Stages
+
+> Initiating a Project
+
+> Project Scope Management
+
+> Project Planning
+
+> Project Risk Management
+
+> Project Schedule Management
+> Executing a Project
+
+> Controlling a Project
+
+> Project Closure
+
+Triple Constrains
+
+2 /
+Quality
+KR
+
+Cost
+
+4 P’s of Project Management 9 Knowledge Areas
+
+> Integration
+> Scope
+
+G oT
+> Product _ GR S > Time
+° ALOK ME >» Cost
+
+RST
+
+> People
+
+(=
+Be) 4 ,
+> Process SAS id Quality RS
+<5! d aR cat ok
+> Project ‘4 ommunications
+> Risk
+
+> Procurement
 --- page 5 ---
 2. Improved Customer Experience
 3. Fraud Prevention and Enhanced Security
@@ -919,6 +1171,21 @@ CO-2; BL-
 lending. They also assist in disbursement and repayment of loans availed on
 NBFC P2P. (https://www.i2ifunding.com/) (https://www.faircent.com/)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Types of Crowdfunding
+
+Reward-Based Donation-Based Peer-to-Peer
+Crowdfunding Crowdfunding Lending
+- 7
+It involves individuals contribut- It is a way to source money for a It is the practice of lending
+ing comparatively small amounts Project by asking a large number money to individuals or
+of money to projects in return for _of contributors to individually businesses through online
+some kind of reward. donate a small amount to it. services that match lenders
+with borrowers.
+EXAMPLE EXAMPLE EXAMPLE
+wee
+KICKSTARTER gofundme LendingClub
 --- page 3 ---
 Eligibility requirements for a company to register as a P2P lending platform
 include a minimum capital of 20 million rupees;
@@ -991,6 +1258,54 @@ customer-facing features.
 Applications of IoT in the Fintech Industry
 1. Personalized Financial Services
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Project Lifecycle Stages
+
+> Initiating a Project
+
+> Project Scope Management
+
+> Project Planning
+
+> Project Risk Management
+
+> Project Schedule Management
+> Executing a Project
+
+> Controlling a Project
+
+> Project Closure
+
+Triple Constrains
+
+2 /
+Quality
+KR
+
+Cost
+
+4 P’s of Project Management 9 Knowledge Areas
+
+> Integration
+> Scope
+
+G oT
+> Product _ GR S > Time
+° ALOK ME >» Cost
+
+RST
+
+> People
+
+(=
+Be) 4 ,
+> Process SAS id Quality RS
+<5! d aR cat ok
+> Project ‘4 ommunications
+> Risk
+
+> Procurement
 --- page 5 ---
 2. Improved Customer Experience
 3. Fraud Prevention and Enhanced Security
@@ -1105,6 +1420,23 @@ CO-2; BL-
 • At-home gold valuation
 • Scheme Comparison
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Easily store and Aadhaar e-KYC, e-Sign, Department of Electronics
+Paperless } Pavers toyer uf retrieve information Digital Locker and information
+digitally Technology
+
+Unique digital Aadhaar card, Unique Identification
+iresence-less presences ayer | biometric identity Mobile Aadhaar Authority of India
+
+with open API access
+
+7 A modern privacy
+Consent layer data sharing Open parent data neomcve Dork of
+b framework
+An electronic IMPS, AEPS,APB, National Payments
+Cashless layer interoperable UPI Corporation of India
+payment network
 --- page 3 ---
 • Online Calculators
 •   Eligibility Check
@@ -1138,6 +1470,37 @@ Management industry? Provide its types along with its advantages.   [10]
 CO-2; BL-   Answer: -
 3
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Blockchain Prior Authorization/Claims System
+
+Smart Contract Insurer process payment for provider
+based on wmart contract once insurer gets
+
+a) charge (ode in patient block hain data
+
+Standard data feds & patient’s pubic
+
+id are redivected to blochchain via APTS
+
+¥
+a
+Cheat al data 6 Bored
+Blockchain 4
+
+Health 1 system
+Patient date v
+
+Ta)
+ise)
+
+Lach transaction is stored on the Bhockchain, containing View patient clinical data inchading.
+the patient's public (non sdentMable) © soreion, tanter and dos hare
+Codes aivo able to vabdate the data
+
+wing patient proeate bey
+
+Claim process through Blockchain
 --- page 4 ---
 ROBO advisors are similar to financial advisors, but rather than utilizing the
 services of another person, the software takes its place. They are digital

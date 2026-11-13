@@ -5535,6 +5535,31 @@ a   1. Conception phase (Phase A)
 Sketch and explanation for each phase
 [Sketch:02 Marks Explanation for each phase: 08Marks]
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+11.2 Identify Risk
+
+1. Inputs
+1. Project management plan
+2. Project documents
+3. Agreements
+4. Procurement documentation
+5. Enterprise enviromental factors
+6. Organizational process assets
+
+2. Tools & Techniques
+1. Expert judgement
+2. Data gathering
+3. Data analysis
+4. Interpersonal and team skilis i
+5. prompt lists
+6. Meetings
+
+3. Outputs
+1. Risk register
+2. Risk report
+
+A 3. Project documents updates wy,
 --- page 8 ---
 Detail procedure’s steps:
 1. Gathering Critical Documents
@@ -5567,6 +5592,26 @@ This helps prioritize risks based on their potential effect on project objective
 3. Enables Proactive Risk Response Planning
 With risks clearly documented:
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Phase A: Conception phase —————> Phase B: Definition phase
+
+Initiation stage Project definition
+Feasibility stage System definition
+Proposal preparation User and system
+requirements
+Phase D: Operation phase ~——————- Phase C: Execution phase
+System maintenance Design stage
+and evaluation Production/build stage
+x _ Fabrication
+Testing
+System System ‘
+improvement termination aaa ame
+| Acceptance tests
+Installation
+(To Phase A: Termination
+
+repeat cycle)
 --- page 9 ---
  Teams can develop mitigation, avoidance, transfer, or acceptance
 strategies.
@@ -5748,6 +5793,15 @@ Time:
 • 3 months
 Performance:
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Risk-Averse Risk-Neutral Risk-Seeking
+
+utility utility utility
+
+mana
+
+potential payoff potential payoff potential payoff
 --- page 3 ---
 • Standard UI/UX
 • Basic security
@@ -5839,6 +5893,39 @@ Advantages:
 Q3b
 analyses the effects of identified risks on the entire project objectives
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+a
+
+Writing
+
+Literature Review
+
+Data Collection
+
+Revision
+
+Data Analysis
+
+Methodology Design
+
+Topic Selection
+
+Submission
+
+31. Mar
+
+07 Apr
+
+14 Apr
+
+21 Apr
+
+28 Apr
+
+05 May
+
+12 May
 --- page 5 ---
 -Failure Mode and Effect Analysis (FMEA) FMEA is the application of a
 scoring model
@@ -5875,6 +5962,33 @@ it is important to be ready to deal with it in advance (basis for plan risk
 response)
 - Based on the types of risks various types of response need to plan
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Failure Effecton | Severity | Occurren | Detectio Action
+
+Mode Project (S) ce (O) n(D) RPN Priority
+Delayin | Project
+material | timeline 8 7 4 224 High
+delivery | impact
+Design Rework
+g" | andcost | 9 5 3 135 Medium
+
+error
+
+overrun
+Resource
+unavaila | Schedule | 7 6 5 210 High
+bility Ppag
+Software | Quality | ¢ 4 6 144 Medium
+bug issues
+commun Misalign
+
+ment of 5 6 7 210 High
+breakdo
+
+goals
+
+wn
 --- page 6 ---
 (Explanation and description of inputs, tools & techniques, outputs in plan risk
 response process: 08 Marks)
@@ -5944,6 +6058,47 @@ Q6b
 -Bottom-up approach refers to estimating the costs by looking at elements of the
 Q6c   project—individual work packages and end-item components   [08]
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Aspect | Qualitative Risk Analysis Quantitative Risk Analysis
+
+Prioritize risks based on their Measure risk impact numerically
+Purpose probability and impact using to estimate overall project risk
+
+subjective judgment. exposure.
+
+Uses descriptive scales (High, Uses numerical techniques like
+Approach . . a :
+
+Medium, Low) or scoring models. Decision Tree Analysis, FMEA
+Data Requires limited data; relies on Requires detailed, accurate data
+Requirement expert opinion and historical info. (cost, time, probabilities).
+
+uantified risk values (e.g., cost
+
+Risk ranking or categorization for a : : , le :
+Output we ae impact in \$, schedule delay in
+
+prioritization.
+
+days).
+
+Tools & Probability-Impact Matrix, Risk Simulation models, sensitivity
+Techniques Categorization. analysis, statistical methods.
+
+Time-consuming, requires
+
+Time & Effort Faster, less resource-intensive. eye .
+specialized tools and expertise.
+
+Early stages of project or when data | Later stages or for high-value,
+
+When Used woe .
+is limited. complex projects.
+. . are Monte Carlo simulation predicts
+Example Risk scored as High probability & 80% chance of \$50,000 cost
+
+High impact > Top priority. overrun
 --- page 8 ---
 Disadvantages:
 1. Time-consuming
@@ -5979,6 +6134,21 @@ Q7b   -Organization structure:
 3. Affects resources allocation
 4. Impacts project manager’s authority
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Aspect Bottom-Up Approach
+
+Definition Budget is estimated by calculating costs for individual tasks or work packages, then
+aggregated to form the total budget.
+
+Basis Detailed task-level analysis, resource requirements, time estimates.
+Accuracy High accuracy; suitable for detailed planning.
+
+Speed Slower to implement.
+
+Cost More resource-intensive.
+
+Use Case Final budgeting, detailed project planning, cost control.
 --- page 9 ---
 5. Enhances efficiency and effectiveness
 6. Facilitates risk management
@@ -6109,6 +6279,15 @@ Initial Scope:
 •   Notifications
 Time:
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Risk-Averse Risk-Neutral Risk-Seeking
+
+utility utility utility
+
+mana
+
+potential payoff potential payoff potential payoff
 --- page 3 ---
 • 3 months
 Performance:
@@ -6199,6 +6378,39 @@ Advantages:
 3. Provides a schedule of earliest possible start and finish times of activities
 (Charts use with example & sketch: 07Marks, Advantages:03Marks)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+a
+
+Writing
+
+Literature Review
+
+Data Collection
+
+Revision
+
+Data Analysis
+
+Methodology Design
+
+Topic Selection
+
+Submission
+
+31. Mar
+
+07 Apr
+
+14 Apr
+
+21 Apr
+
+28 Apr
+
+05 May
+
+12 May
 --- page 5 ---
 -Quantitative Risk Analysis is a project management process that numerically
 analyses the effects of identified risks on the entire project objectives
@@ -6239,6 +6451,33 @@ it is important to be ready to deal with it in advance (basis for plan risk
 response)
 - Based on the types of risks various types of response need to plan
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Failure Effecton | Severity | Occurren | Detectio Action
+
+Mode Project (S) ce (O) n(D) RPN Priority
+Delayin | Project
+material | timeline 8 7 4 224 High
+delivery | impact
+Design Rework
+
+andcost |9 5 3 135 Medium
+error
+
+overrun
+Resource
+unavaila Schedule 7 6 5 210 High
+bility Ppag
+Software | Quality | ¢ 4 6 144 Medium
+bug issues
+commun Misalign
+
+ment of 5 6 7 210 High
+breakdo
+
+goals
+
+wn
 --- page 6 ---
 (Explanation and description of inputs, tools & techniques, outputs in plan risk
 response process: 08 Marks)
@@ -6309,6 +6548,47 @@ Q6b
 Q6c -Bottom-up approach refers to estimating the costs by looking at elements of the   [08]
 project—individual work packages and end-item components
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Aspect | Qualitative Risk Analysis Quantitative Risk Analysis
+
+Prioritize risks based on their Measure risk impact numerically
+Purpose probability and impact using to estimate overall project risk
+
+subjective judgment. exposure.
+
+Uses descriptive scales (High, Uses numerical techniques like
+Approach . . a :
+
+Medium, Low) or scoring models. Decision Tree Analysis, FMEA
+Data Requires limited data; relies on Requires detailed, accurate data
+Requirement expert opinion and historical info. (cost, time, probabilities).
+
+uantified risk values (e.g., cost
+
+Risk ranking or categorization for a : : , le :
+Output we ae impact in \$, schedule delay in
+
+prioritization.
+
+days).
+
+Tools & Probability-Impact Matrix, Risk Simulation models, sensitivity
+Techniques Categorization. analysis, statistical methods.
+
+Time-consuming, requires
+
+Time & Effort Faster, less resource-intensive. eye .
+specialized tools and expertise.
+
+Early stages of project or when data | Later stages or for high-value,
+
+When Used wo .
+is limited. complex projects.
+. . are Monte Carlo simulation predicts
+Example Risk scored as High probability & 80% chance of \$50,000 cost
+
+High impact > Top priority. overrun
 --- page 8 ---
 Disadvantages:
 1. Time-consuming
@@ -6343,6 +6623,21 @@ Q7b   assigned, coordinated, and controlled to achieve common goals and objectiv
 2. Influences communication flow
 3. Affects resources allocation
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Aspect Bottom-Up Approach
+
+Definition Budget is estimated by calculating costs for individual tasks or work packages, then
+aggregated to form the total budget.
+
+Basis Detailed task-level analysis, resource requirements, time estimates.
+Accuracy High accuracy; suitable for detailed planning.
+
+Speed Slower to implement.
+
+Cost More resource-intensive.
+
+Use Case Final budgeting, detailed project planning, cost control.
 --- page 9 ---
 4. Impacts project manager’s authority
 5. Enhances efficiency and effectiveness
@@ -7584,6 +7879,15 @@ Initial Scope:
 •   Notifications
 Time:
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Risk-Averse Risk-Neutral Risk-Seeking
+
+utility utility utility
+
+mana
+
+potential payoff potential payoff potential payoff
 --- page 3 ---
 • 3 months
 Performance:
@@ -7674,6 +7978,39 @@ Advantages:
 3. Provides a schedule of earliest possible start and finish times of activities
 (Charts use with example & sketch: 07Marks, Advantages:03Marks)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+a
+
+Writing
+
+Literature Review
+
+Data Collection
+
+Revision
+
+Data Analysis
+
+Methodology Design
+
+Topic Selection
+
+Submission
+
+31. Mar
+
+07 Apr
+
+14 Apr
+
+21 Apr
+
+28 Apr
+
+05 May
+
+12 May
 --- page 5 ---
 -Quantitative Risk Analysis is a project management process that numerically
 analyses the effects of identified risks on the entire project objectives
@@ -7714,6 +8051,33 @@ it is important to be ready to deal with it in advance (basis for plan risk
 response)
 - Based on the types of risks various types of response need to plan
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Failure Effecton | Severity | Occurren | Detectio Action
+
+Mode Project (S) ce (O) n(D) RPN Priority
+Delayin | Project
+material | timeline 8 7 4 224 High
+delivery | impact
+Design Rework
+
+andcost |9 5 3 135 Medium
+error
+
+overrun
+Resource
+unavaila Schedule 7 6 5 210 High
+bility Ppag
+Software | Quality | ¢ 4 6 144 Medium
+bug issues
+commun Misalign
+
+ment of 5 6 7 210 High
+breakdo
+
+goals
+
+wn
 --- page 6 ---
 (Explanation and description of inputs, tools & techniques, outputs in plan risk
 response process: 08 Marks)
@@ -7784,6 +8148,47 @@ Q6b
 Q6c -Bottom-up approach refers to estimating the costs by looking at elements of the   [08]
 project—individual work packages and end-item components
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Aspect | Qualitative Risk Analysis Quantitative Risk Analysis
+
+Prioritize risks based on their Measure risk impact numerically
+Purpose probability and impact using to estimate overall project risk
+
+subjective judgment. exposure.
+
+Uses descriptive scales (High, Uses numerical techniques like
+Approach . . a :
+
+Medium, Low) or scoring models. Decision Tree Analysis, FMEA
+Data Requires limited data; relies on Requires detailed, accurate data
+Requirement expert opinion and historical info. (cost, time, probabilities).
+
+uantified risk values (e.g., cost
+
+Risk ranking or categorization for a : : , le :
+Output we ae impact in \$, schedule delay in
+
+prioritization.
+
+days).
+
+Tools & Probability-Impact Matrix, Risk Simulation models, sensitivity
+Techniques Categorization. analysis, statistical methods.
+
+Time-consuming, requires
+
+Time & Effort Faster, less resource-intensive. eye .
+specialized tools and expertise.
+
+Early stages of project or when data | Later stages or for high-value,
+
+When Used wo .
+is limited. complex projects.
+. . are Monte Carlo simulation predicts
+Example Risk scored as High probability & 80% chance of \$50,000 cost
+
+High impact > Top priority. overrun
 --- page 8 ---
 Disadvantages:
 1. Time-consuming
@@ -7818,6 +8223,21 @@ Q7b   assigned, coordinated, and controlled to achieve common goals and objectiv
 2. Influences communication flow
 3. Affects resources allocation
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Aspect Bottom-Up Approach
+
+Definition Budget is estimated by calculating costs for individual tasks or work packages, then
+aggregated to form the total budget.
+
+Basis Detailed task-level analysis, resource requirements, time estimates.
+Accuracy High accuracy; suitable for detailed planning.
+
+Speed Slower to implement.
+
+Cost More resource-intensive.
+
+Use Case Final budgeting, detailed project planning, cost control.
 --- page 9 ---
 4. Impacts project manager’s authority
 5. Enhances efficiency and effectiveness

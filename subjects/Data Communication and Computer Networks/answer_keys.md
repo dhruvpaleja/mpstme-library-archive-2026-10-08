@@ -79,6 +79,54 @@ CO-4;   c   Explain the function of ARP (Address Resolution Protocol) in the net
 SO-1 ;   layer with a labeled diagram.
 BL-2
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+2
+DG
+
+o
+%
+
+o
+OG
+
+2
+%
+
+The Address Resolution Protocol (ARP) is used to associate a logical
+address with a physical address.
+
+ARP is used to find the physical address of the node when its Internet
+address is known.
+
+ARP is a broadcast protocol - every host on the network receives the
+request.
+
+Each host checks the request against it’s IP address - the right one
+responds i.e. an ARP reply is unicast.
+
+Looking for physical address ofa
+node with IP address 141.23.56.23
+
+oo
+
+System A y | | y | System B
+
+y
+Cb ceB CD
+
+Request
+
+a. ARP request is broadcast
+
+The node physical address
+is A4:6E:F4:59:83:AB
+
+oO Te.
+
+System A | | ] System B
+
+b. ARP reply is unicast
 --- page 3 ---
 CO-5 ;   d   Explain the IEEE 802.11 (Wi-Fi) protocol stack physical and data link layer.   [5]
 SO-1 ;
@@ -114,6 +162,20 @@ the form of light atoms or photons.
 The cores of the fiberglass & the cladding have a special refractive index to
 twist inward light at a particular angle.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Transmission
+
+media
+|
+| |
+Guided Unguided
+(wired) (wireless)
+I |
+Twisted-pair Coaxial Fiber-optic
+
+Free space
+cable cable cable Pat
 --- page 4 ---
 Radio waves are used for multicast communications, such as radio, television,
 and paging systems.
@@ -137,6 +199,29 @@ The client program issues a request for an active open. A client that wishes to
 connect to an open server tells its TCP that it needs to be connected to that
 particular server.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 23.18 Connection establishment using three-way handshaking
+
+Server
+pelt = * — ASYN segment cannot
+ALACK fla = carry data, but it
+5:SYN fog = consumes one sequence
+number.
+Active
+open oa, Passive * — ASYN + ACK segment
+iS] open cannot carry data,
+ae ry
+
+but does consume
+one sequence number.
+
+* — AnACK segment, if
+carrying no data,
+consumes no sequence
+number.
+
+Time Time
 --- page 5 ---
 Q3   a   [10]
 CO-1;
@@ -164,6 +249,36 @@ Coding is possible and different coding techniques can
 Coding is not possible.
 6   be used to detect and correct errors.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Data transfer
+
+= After connection is established, bidirectional data transfer can take
+place. The client and server can both send data and acknowledgments.
+
+= The acknowledgment is piggybacked with the data.
+
+= Example:
+
+= The client sends 2000 bytes of data in two segments. The server then sends
+2000 bytes in one segment. The client sends one more segment. The first
+three segments carry both data and acknowledgment, but the last segment
+carries only an acknowledgment because there are no more data to be sent.
+
+= Note the values of the sequence and acknowledgment numbers. The data
+segments sent by the client have the PSH (push) flag set so that the server
+TCP knows to deliver data to the server process as soon as they are
+received.
+
+= The segment from the server, on the other hand, does not set the push flag.
+
+= Most TCP implementations have the option to set or not set this flag.
+
+Connection Termination
+
+= Any of the two parties involved in exchanging data
+(client or server) can close the connection, although it
+is usually initiated by the client.
 --- page 6 ---
 ANALOG COMMUNICATION   DIGITAL COMMUNICATION
 Separating out noise and signal in analog   Separating out noise and signal in digital
@@ -217,6 +332,28 @@ Augmented data=10010110110000   ---- 2M
 Modulo-2 Division (XOR Division)
 Divide 10010110110000 by 10011.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Basis Symmetric Encryption Asymmetric Encryption
+
+Keys Used One key Two keys (Public + Private)
+Speed Fast Slow
+
+Security Less secure More secure
+
+Key Distribution Difficult Easy
+
+Used For Large data encryption Key exchange, digital signature:
+
+Example Algorithms AES, DES RSA, ECC
+
+¢ Data bit stream = 1001011011
+© Generator polynomial = 24 + 2 +1
+
+Convert generator polynomial to binary:
+vi+2+1=> 10011
+
+Degree of polynomial = 4 — Append 4 zeros to data.
 --- page 8 ---
 ------ 6M
 Final Remainder and Codeword
@@ -239,6 +376,30 @@ programmability, and dynamic network management, making SDN highly
 suitable for modern applications such as cloud computing, IoT, and 5G
 networks.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+- 10010 / 10011 — (First 5 bits)
+
+« 100106 10011 = 00001
+
+. Bring down the next 4 bits (1101) to get 5 bits: 11101
+e 11101610011 = 01110
+
+. Bring down the next bit (1) to get 5 bits: 11101
+
+« 11101610011 = 01110
+
+. Bring down the next bit (0) to get 5 bits: 11100
+« 111006 10011 = 01111
+
+. Bring down the next bit (0) to get 5 bits: 11110
+e 11110610011 = 01101
+
+. Bring down the next bit (0) to get 5 bits: 11010
+« 110106 10011 = 01001
+
+. Bring down the final bit (0) to get 5 bits: 10010
+« 100106 10011 = 00001
 --- page 9 ---
 The SDN architecture is divided into three main layers (planes):
 Application Plane
@@ -263,6 +424,17 @@ Example: 10.0.0.1
 Network = 10
 Host = 0.0.1
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Class First Octet Range Address Range Default Subnet Mask
+
+Class A 1-126 1.0.0.0 — 126.255.255.255 255.0.0.0
+
+Class B 128-191 128.0.0.0 — 255.255.0.0
+191.255.255.255
+
+Class C 192 - 223 192.0.0.0 — 255.255.255.0
+223.255.255.255
 --- page 10 ---
 Class B Addressing
 • Used for medium-sized networks.
@@ -371,6 +543,38 @@ BL-2   Avoidance (CSMA/CA) with neat diagram
 Explanation ---- 6M
 Diagram   ---- 4M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+To allow access to network
+
+Application
+PP resources
+
+To translate, encrypt, and
+
+Presentation
+compress data
+
+To establish, manage, and
+
+Session . :
+, , terminate sessions
+To provide reliable process-to-
+process message delivery and Transport
+error recovery y To move packets from source
+
+Network to destination; to provide
+
+«bigs internetworking
+To organize bits into frames;
+
+Data link
+
+to provide hop-to-hop delive
+P P P id To transmit bits over a medium;
+
+Physical to provide mechanical and
+electrical specifications
 --- page 13 ---
 ⚫ We need to avoid collisions on wireless networks because they cannot
 be detected.
@@ -412,6 +616,22 @@ incoming queue.
 • When the process terminates, the queues are destroyed
 Applns
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Size:
+
+Found binary exponential
+
+idle
+Continuously sense
+
+AAARAAAAL
+
+aa ka eS
+
+Busy Contention window Send frame Time-out ‘Tim
+
+IFS
 --- page 14 ---
 • UDP is suitable for a process with internal flow and error control
 mechanisms.
@@ -446,6 +666,31 @@ manage, control, and deliver networking resources such as routers, switches,
 firewalls, load balancers, and virtual networks over the internet. Instead of
 relying on physical hardware, cloud networking uses virtualized network
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Direction of data
+
+a
+
+Monitor
+
+Mainframe
+
+a. Simplex
+
+Direction of data at time 1
+
+——__—_——>
+Station } < Station )
+
+Direction of data at time 2
+
+b. Half-duplex
+
+Direction of data all the time
+Station } Station )
+
+c. Full-duplex
 --- page 15 ---
 resources hosted in data centers and managed through cloud service providers
 like AWS, Microsoft Azure, and Google Cloud.
@@ -480,6 +725,18 @@ Cloud networking connects IoT devices to cloud servers where data is stored,
 processed, and analyzed.
 Example: Smart home systems, smart city traffic monitoring systems.
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Cloud Provider Cloud Networking Services
+
+Amazon Web Services VPC (Virtual Private Cloud), Elastic Load Balancer, Route
+53 (DNS), CloudFront
+
+Microsoft Azure Azure Virtual Network, Azure Load Balancer, Azure DNS|
+VPN Gateway
+
+Google Cloud Platform Virtual Private Cloud, Cloud Load Balancing, Cloud DNS
+Cloud CDN
 ````
 
 ## 2025-26 · Final-Exam · Sem 4 · Answer key · paper ef5a0817d533
@@ -559,6 +816,54 @@ CO-4;   c   Explain the function of ARP (Address Resolution Protocol) in the net
 SO-1 ;   layer with a labeled diagram.
 BL-2
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+2
+DG
+
+o
+%
+
+o
+OG
+
+2
+%
+
+The Address Resolution Protocol (ARP) is used to associate a logical
+address with a physical address.
+
+ARP is used to find the physical address of the node when its Internet
+address is known.
+
+ARP is a broadcast protocol - every host on the network receives the
+request.
+
+Each host checks the request against it’s IP address - the right one
+responds i.e. an ARP reply is unicast.
+
+Looking for physical address ofa
+node with IP address 141.23.56.23
+
+oo
+
+System A y | | y | System B
+
+y
+Cb ceB CD
+
+Request
+
+a. ARP request is broadcast
+
+The node physical address
+is A4:6E:F4:59:83:AB
+
+oO Te.
+
+System A | | ] System B
+
+b. ARP reply is unicast
 --- page 3 ---
 CO-5 ;   d   Explain the IEEE 802.11 (Wi-Fi) protocol stack physical and data link layer.   [5]
 SO-1 ;
@@ -594,6 +899,20 @@ the form of light atoms or photons.
 The cores of the fiberglass & the cladding have a special refractive index to
 twist inward light at a particular angle.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Transmission
+
+media
+|
+| |
+Guided Unguided
+(wired) (wireless)
+I |
+Twisted-pair Coaxial Fiber-optic
+
+Free space
+cable cable cable Pat
 --- page 4 ---
 Radio waves are used for multicast communications, such as radio, television,
 and paging systems.
@@ -617,6 +936,29 @@ The client program issues a request for an active open. A client that wishes to
 connect to an open server tells its TCP that it needs to be connected to that
 particular server.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 23.18 Connection establishment using three-way handshaking
+
+Server
+pelt = * — ASYN segment cannot
+ALACK fla = carry data, but it
+5:SYN fog = consumes one sequence
+number.
+Active
+open oa, Passive * — ASYN + ACK segment
+iS] open cannot carry data,
+ae ry
+
+but does consume
+one sequence number.
+
+* — AnACK segment, if
+carrying no data,
+consumes no sequence
+number.
+
+Time Time
 --- page 5 ---
 Q3   a   [10]
 CO-1;
@@ -644,6 +986,36 @@ Coding is possible and different coding techniques can
 Coding is not possible.
 6   be used to detect and correct errors.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Data transfer
+
+= After connection is established, bidirectional data transfer can take
+place. The client and server can both send data and acknowledgments.
+
+= The acknowledgment is piggybacked with the data.
+
+= Example:
+
+= The client sends 2000 bytes of data in two segments. The server then sends
+2000 bytes in one segment. The client sends one more segment. The first
+three segments carry both data and acknowledgment, but the last segment
+carries only an acknowledgment because there are no more data to be sent.
+
+= Note the values of the sequence and acknowledgment numbers. The data
+segments sent by the client have the PSH (push) flag set so that the server
+TCP knows to deliver data to the server process as soon as they are
+received.
+
+= The segment from the server, on the other hand, does not set the push flag.
+
+= Most TCP implementations have the option to set or not set this flag.
+
+Connection Termination
+
+= Any of the two parties involved in exchanging data
+(client or server) can close the connection, although it
+is usually initiated by the client.
 --- page 6 ---
 ANALOG COMMUNICATION   DIGITAL COMMUNICATION
 Separating out noise and signal in analog   Separating out noise and signal in digital
@@ -697,6 +1069,28 @@ Augmented data=10010110110000   ---- 2M
 Modulo-2 Division (XOR Division)
 Divide 10010110110000 by 10011.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Basis Symmetric Encryption Asymmetric Encryption
+
+Keys Used One key Two keys (Public + Private)
+Speed Fast Slow
+
+Security Less secure More secure
+
+Key Distribution Difficult Easy
+
+Used For Large data encryption Key exchange, digital signature:
+
+Example Algorithms AES, DES RSA, ECC
+
+¢ Data bit stream = 1001011011
+© Generator polynomial = 24 + 2 +1
+
+Convert generator polynomial to binary:
+vi+2+1=> 10011
+
+Degree of polynomial = 4 — Append 4 zeros to data.
 --- page 8 ---
 ------ 6M
 Final Remainder and Codeword
@@ -719,6 +1113,30 @@ programmability, and dynamic network management, making SDN highly
 suitable for modern applications such as cloud computing, IoT, and 5G
 networks.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+- 10010 / 10011 — (First 5 bits)
+
+« 100106 10011 = 00001
+
+. Bring down the next 4 bits (1101) to get 5 bits: 11101
+e 11101610011 = 01110
+
+. Bring down the next bit (1) to get 5 bits: 11101
+
+« 11101610011 = 01110
+
+. Bring down the next bit (0) to get 5 bits: 11100
+« 111006 10011 = 01111
+
+. Bring down the next bit (0) to get 5 bits: 11110
+e 11110610011 = 01101
+
+. Bring down the next bit (0) to get 5 bits: 11010
+« 110106 10011 = 01001
+
+. Bring down the final bit (0) to get 5 bits: 10010
+« 100106 10011 = 00001
 --- page 9 ---
 The SDN architecture is divided into three main layers (planes):
 Application Plane
@@ -743,6 +1161,17 @@ Example: 10.0.0.1
 Network = 10
 Host = 0.0.1
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Class First Octet Range Address Range Default Subnet Mask
+
+Class A 1-126 1.0.0.0 — 126.255.255.255 255.0.0.0
+
+Class B 128-191 128.0.0.0 — 255.255.0.0
+191.255.255.255
+
+Class C 192 - 223 192.0.0.0 — 255.255.255.0
+223.255.255.255
 --- page 10 ---
 Class B Addressing
 • Used for medium-sized networks.
@@ -851,6 +1280,38 @@ BL-2   Avoidance (CSMA/CA) with neat diagram
 Explanation ---- 6M
 Diagram   ---- 4M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+To allow access to network
+
+Application
+PP resources
+
+To translate, encrypt, and
+
+Presentation
+compress data
+
+To establish, manage, and
+
+Session . :
+, , terminate sessions
+To provide reliable process-to-
+process message delivery and Transport
+error recovery y To move packets from source
+
+Network to destination; to provide
+
+«bigs internetworking
+To organize bits into frames;
+
+Data link
+
+to provide hop-to-hop delive
+P P P id To transmit bits over a medium;
+
+Physical to provide mechanical and
+electrical specifications
 --- page 13 ---
 ⚫ We need to avoid collisions on wireless networks because they cannot
 be detected.
@@ -892,6 +1353,22 @@ incoming queue.
 • When the process terminates, the queues are destroyed
 Applns
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Size:
+
+Found binary exponential
+
+idle
+Continuously sense
+
+AAARAAAAL
+
+aa ka eS
+
+Busy Contention window Send frame Time-out ‘Tim
+
+IFS
 --- page 14 ---
 • UDP is suitable for a process with internal flow and error control
 mechanisms.
@@ -926,6 +1403,31 @@ manage, control, and deliver networking resources such as routers, switches,
 firewalls, load balancers, and virtual networks over the internet. Instead of
 relying on physical hardware, cloud networking uses virtualized network
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Direction of data
+
+a
+
+Monitor
+
+Mainframe
+
+a. Simplex
+
+Direction of data at time 1
+
+——__—_——>
+Station } < Station )
+
+Direction of data at time 2
+
+b. Half-duplex
+
+Direction of data all the time
+Station } Station )
+
+c. Full-duplex
 --- page 15 ---
 resources hosted in data centers and managed through cloud service providers
 like AWS, Microsoft Azure, and Google Cloud.
@@ -960,6 +1462,18 @@ Cloud networking connects IoT devices to cloud servers where data is stored,
 processed, and analyzed.
 Example: Smart home systems, smart city traffic monitoring systems.
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Cloud Provider Cloud Networking Services
+
+Amazon Web Services VPC (Virtual Private Cloud), Elastic Load Balancer, Route
+53 (DNS), CloudFront
+
+Microsoft Azure Azure Virtual Network, Azure Load Balancer, Azure DNS|
+VPN Gateway
+
+Google Cloud Platform Virtual Private Cloud, Cloud Load Balancing, Cloud DNS
+Cloud CDN
 ````
 
 ## 2025-26 · Final-Exam · Sem 4 · Answer key · paper 9a641989784c
@@ -1039,6 +1553,54 @@ CO-4;   c   Explain the function of ARP (Address Resolution Protocol) in the net
 SO-1 ;   layer with a labeled diagram.
 BL-2
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+2
+DG
+
+o
+%
+
+o
+OG
+
+2
+%
+
+The Address Resolution Protocol (ARP) is used to associate a logical
+address with a physical address.
+
+ARP is used to find the physical address of the node when its Internet
+address is known.
+
+ARP is a broadcast protocol - every host on the network receives the
+request.
+
+Each host checks the request against it’s IP address - the right one
+responds i.e. an ARP reply is unicast.
+
+Looking for physical address ofa
+node with IP address 141.23.56.23
+
+oo
+
+System A y | | y | System B
+
+y
+Cb ceB CD
+
+Request
+
+a. ARP request is broadcast
+
+The node physical address
+is A4:6E:F4:59:83:AB
+
+oO Te.
+
+System A | | ] System B
+
+b. ARP reply is unicast
 --- page 3 ---
 CO-5 ;   d   Explain the IEEE 802.11 (Wi-Fi) protocol stack physical and data link layer.   [5]
 SO-1 ;
@@ -1074,6 +1636,20 @@ the form of light atoms or photons.
 The cores of the fiberglass & the cladding have a special refractive index to
 twist inward light at a particular angle.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Transmission
+
+media
+|
+| |
+Guided Unguided
+(wired) (wireless)
+I |
+Twisted-pair Coaxial Fiber-optic
+
+Free space
+cable cable cable Pat
 --- page 4 ---
 Radio waves are used for multicast communications, such as radio, television,
 and paging systems.
@@ -1097,6 +1673,29 @@ The client program issues a request for an active open. A client that wishes to
 connect to an open server tells its TCP that it needs to be connected to that
 particular server.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 23.18 Connection establishment using three-way handshaking
+
+Server
+pelt = * — ASYN segment cannot
+ALACK fla = carry data, but it
+5:SYN fog = consumes one sequence
+number.
+Active
+open oa, Passive * — ASYN + ACK segment
+iS] open cannot carry data,
+ae ry
+
+but does consume
+one sequence number.
+
+* — AnACK segment, if
+carrying no data,
+consumes no sequence
+number.
+
+Time Time
 --- page 5 ---
 Q3   a   [10]
 CO-1;
@@ -1124,6 +1723,36 @@ Coding is possible and different coding techniques can
 Coding is not possible.
 6   be used to detect and correct errors.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Data transfer
+
+= After connection is established, bidirectional data transfer can take
+place. The client and server can both send data and acknowledgments.
+
+= The acknowledgment is piggybacked with the data.
+
+= Example:
+
+= The client sends 2000 bytes of data in two segments. The server then sends
+2000 bytes in one segment. The client sends one more segment. The first
+three segments carry both data and acknowledgment, but the last segment
+carries only an acknowledgment because there are no more data to be sent.
+
+= Note the values of the sequence and acknowledgment numbers. The data
+segments sent by the client have the PSH (push) flag set so that the server
+TCP knows to deliver data to the server process as soon as they are
+received.
+
+= The segment from the server, on the other hand, does not set the push flag.
+
+= Most TCP implementations have the option to set or not set this flag.
+
+Connection Termination
+
+= Any of the two parties involved in exchanging data
+(client or server) can close the connection, although it
+is usually initiated by the client.
 --- page 6 ---
 ANALOG COMMUNICATION   DIGITAL COMMUNICATION
 Separating out noise and signal in analog   Separating out noise and signal in digital
@@ -1177,6 +1806,28 @@ Augmented data=10010110110000   ---- 2M
 Modulo-2 Division (XOR Division)
 Divide 10010110110000 by 10011.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Basis Symmetric Encryption Asymmetric Encryption
+
+Keys Used One key Two keys (Public + Private)
+Speed Fast Slow
+
+Security Less secure More secure
+
+Key Distribution Difficult Easy
+
+Used For Large data encryption Key exchange, digital signature:
+
+Example Algorithms AES, DES RSA, ECC
+
+¢ Data bit stream = 1001011011
+© Generator polynomial = 24 + 2 +1
+
+Convert generator polynomial to binary:
+vi+2+1=> 10011
+
+Degree of polynomial = 4 — Append 4 zeros to data.
 --- page 8 ---
 ------ 6M
 Final Remainder and Codeword
@@ -1199,6 +1850,30 @@ programmability, and dynamic network management, making SDN highly
 suitable for modern applications such as cloud computing, IoT, and 5G
 networks.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+- 10010 / 10011 — (First 5 bits)
+
+« 100106 10011 = 00001
+
+. Bring down the next 4 bits (1101) to get 5 bits: 11101
+e 11101610011 = 01110
+
+. Bring down the next bit (1) to get 5 bits: 11101
+
+« 11101610011 = 01110
+
+. Bring down the next bit (0) to get 5 bits: 11100
+« 111006 10011 = 01111
+
+. Bring down the next bit (0) to get 5 bits: 11110
+e 11110610011 = 01101
+
+. Bring down the next bit (0) to get 5 bits: 11010
+« 110106 10011 = 01001
+
+. Bring down the final bit (0) to get 5 bits: 10010
+« 100106 10011 = 00001
 --- page 9 ---
 The SDN architecture is divided into three main layers (planes):
 Application Plane
@@ -1223,6 +1898,17 @@ Example: 10.0.0.1
 Network = 10
 Host = 0.0.1
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Class First Octet Range Address Range Default Subnet Mask
+
+Class A 1-126 1.0.0.0 — 126.255.255.255 255.0.0.0
+
+Class B 128-191 128.0.0.0 — 255.255.0.0
+191.255.255.255
+
+Class C 192 - 223 192.0.0.0 — 255.255.255.0
+223.255.255.255
 --- page 10 ---
 Class B Addressing
 • Used for medium-sized networks.
@@ -1331,6 +2017,38 @@ BL-2   Avoidance (CSMA/CA) with neat diagram
 Explanation ---- 6M
 Diagram   ---- 4M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+To allow access to network
+
+Application
+PP resources
+
+To translate, encrypt, and
+
+Presentation
+compress data
+
+To establish, manage, and
+
+Session . :
+, , terminate sessions
+To provide reliable process-to-
+process message delivery and Transport
+error recovery y To move packets from source
+
+Network to destination; to provide
+
+«bigs internetworking
+To organize bits into frames;
+
+Data link
+
+to provide hop-to-hop delive
+P P P id To transmit bits over a medium;
+
+Physical to provide mechanical and
+electrical specifications
 --- page 13 ---
 ⚫ We need to avoid collisions on wireless networks because they cannot
 be detected.
@@ -1372,6 +2090,22 @@ incoming queue.
 • When the process terminates, the queues are destroyed
 Applns
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Size:
+
+Found binary exponential
+
+idle
+Continuously sense
+
+AAARAAAAL
+
+aa ka eS
+
+Busy Contention window Send frame Time-out ‘Tim
+
+IFS
 --- page 14 ---
 • UDP is suitable for a process with internal flow and error control
 mechanisms.
@@ -1406,6 +2140,31 @@ manage, control, and deliver networking resources such as routers, switches,
 firewalls, load balancers, and virtual networks over the internet. Instead of
 relying on physical hardware, cloud networking uses virtualized network
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Direction of data
+
+a
+
+Monitor
+
+Mainframe
+
+a. Simplex
+
+Direction of data at time 1
+
+——__—_——>
+Station } < Station )
+
+Direction of data at time 2
+
+b. Half-duplex
+
+Direction of data all the time
+Station } Station )
+
+c. Full-duplex
 --- page 15 ---
 resources hosted in data centers and managed through cloud service providers
 like AWS, Microsoft Azure, and Google Cloud.
@@ -1440,4 +2199,16 @@ Cloud networking connects IoT devices to cloud servers where data is stored,
 processed, and analyzed.
 Example: Smart home systems, smart city traffic monitoring systems.
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Cloud Provider Cloud Networking Services
+
+Amazon Web Services VPC (Virtual Private Cloud), Elastic Load Balancer, Route
+53 (DNS), CloudFront
+
+Microsoft Azure Azure Virtual Network, Azure Load Balancer, Azure DNS|
+VPN Gateway
+
+Google Cloud Platform Virtual Private Cloud, Cloud Load Balancing, Cloud DNS
+Cloud CDN
 ````

@@ -6456,6 +6456,7 @@ sector.
 - Source: `00_Original_Downloads/2025/Semester II/75268__Re-Exam.zip :: BACHELOR OF TECHNOLOGY (MECHATRONICS ENGINEERING) - 7004/Principles of Economics and Management/ANS_Re-Exam_Principles of Economics and Management(702TG0C015)_Semester II_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Jul 2026
 - Text: text (7 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -6568,6 +6569,15 @@ Q6, 6a (10 marks)
 • Income Consumption Curve (ICC): Effect of income change.
 • PCC shows substitution effect; ICC shows income effect.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Price Consumption Curve (PCC) Income Consumption Curve (ICC)
+
+Quantity Quantity
+of Good X of Good X
+
+0 Bui 812 Quantity of 0 Blt BL2 quantity of
+Good Y Good Y
 --- page 5 ---
 6b (10 marks)
 •   Price Elasticity of Demand (PED) = %ΔQ / %ΔP
@@ -6594,6 +6604,27 @@ Managerial relevance:
 • Managers can design policies like fair wages (physiological), job security (safety), team building
 (social), rewards (esteem), and career growth (self-actualization).
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+1. Perfectly elastic 2. Perfectly inelastic 3. Unitary elastic
+
+R
+Ps LS
+2 = 2
+Ep G3) DD (PED =0) g (PED=1)
+D P “po
+os] a1 Q fe Q
+1 Quantity Demanded Quantity Demanded 1 Quantity Demanded
+y (Inunits) ¥ (in units) Y (In units)
+4. Relatively elastic 5. Relatively inelastic
+y y
+Zo . 2p.b-y
+= = ar N (r<n
+a H D 2 . \
++ Quantity Demanded oY a 2
+fs {Quantity Demanded Tutor’sTi
+
+(in units)
 --- page 6 ---
 2. Herzberg’s Two-Factor Theory
 • Two sets of factors:
@@ -6666,6 +6697,7 @@ Conclusion
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_AIDS_7056/Principles of Economics and Management/ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Jul 2026
 - Text: text (7 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -6778,6 +6810,15 @@ Q6, 6a (10 marks)
 • Income Consumption Curve (ICC): Effect of income change.
 • PCC shows substitution effect; ICC shows income effect.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Price Consumption Curve (PCC) Income Consumption Curve (ICC)
+
+Quantity Quantity
+of Good X of Good X
+
+0 Bui 812 Quantity of 0 Blt BL2 quantity of
+Good Y Good Y
 --- page 5 ---
 6b (10 marks)
 •   Price Elasticity of Demand (PED) = %ΔQ / %ΔP
@@ -6804,6 +6845,27 @@ Managerial relevance:
 • Managers can design policies like fair wages (physiological), job security (safety), team building
 (social), rewards (esteem), and career growth (self-actualization).
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+1. Perfectly elastic 2. Perfectly inelastic 3. Unitary elastic
+
+R
+Ps LS
+2 = 2
+Ep G3) DD (PED =0) g (PED=1)
+D P “po
+os] a1 Q fe Q
+1 Quantity Demanded Quantity Demanded 1 Quantity Demanded
+y (Inunits) ¥ (in units) Y (In units)
+4. Relatively elastic 5. Relatively inelastic
+y y
+Zo . 2p.b-y
+= = ar N (r<n
+a H D 2 . \
++ Quantity Demanded oY a 2
+fs {Quantity Demanded Tutor’sTi
+
+(in units)
 --- page 6 ---
 2. Herzberg’s Two-Factor Theory
 • Two sets of factors:
@@ -6876,6 +6938,7 @@ Conclusion
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_AIML_7053/Principles of Economics and Management/ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Jul 2026
 - Text: text (7 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -6988,6 +7051,15 @@ Q6, 6a (10 marks)
 • Income Consumption Curve (ICC): Effect of income change.
 • PCC shows substitution effect; ICC shows income effect.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Price Consumption Curve (PCC) Income Consumption Curve (ICC)
+
+Quantity Quantity
+of Good X of Good X
+
+0 Bui 812 Quantity of 0 Blt BL2 quantity of
+Good Y Good Y
 --- page 5 ---
 6b (10 marks)
 •   Price Elasticity of Demand (PED) = %ΔQ / %ΔP
@@ -7014,6 +7086,27 @@ Managerial relevance:
 • Managers can design policies like fair wages (physiological), job security (safety), team building
 (social), rewards (esteem), and career growth (self-actualization).
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+1. Perfectly elastic 2. Perfectly inelastic 3. Unitary elastic
+
+R
+Ps LS
+2 = 2
+Ep G3) DD (PED =0) g (PED=1)
+D P “po
+os] a1 Q fe Q
+1 Quantity Demanded Quantity Demanded 1 Quantity Demanded
+y (Inunits) ¥ (in units) Y (In units)
+4. Relatively elastic 5. Relatively inelastic
+y y
+Zo . 2p.b-y
+= = ar N (r<n
+a H D 2 . \
++ Quantity Demanded oY a 2
+fs {Quantity Demanded Tutor’sTi
+
+(in units)
 --- page 6 ---
 2. Herzberg’s Two-Factor Theory
 • Two sets of factors:
@@ -7086,6 +7179,7 @@ Conclusion
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_AI_7012/Principles of Economics and Management/ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Jul 2026
 - Text: text (7 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -7198,6 +7292,15 @@ Q6, 6a (10 marks)
 • Income Consumption Curve (ICC): Effect of income change.
 • PCC shows substitution effect; ICC shows income effect.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Price Consumption Curve (PCC) Income Consumption Curve (ICC)
+
+Quantity Quantity
+of Good X of Good X
+
+0 Bui 812 Quantity of 0 Blt BL2 quantity of
+Good Y Good Y
 --- page 5 ---
 6b (10 marks)
 •   Price Elasticity of Demand (PED) = %ΔQ / %ΔP
@@ -7224,6 +7327,27 @@ Managerial relevance:
 • Managers can design policies like fair wages (physiological), job security (safety), team building
 (social), rewards (esteem), and career growth (self-actualization).
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+1. Perfectly elastic 2. Perfectly inelastic 3. Unitary elastic
+
+R
+Ps LS
+2 = 2
+Ep G3) DD (PED =0) g (PED=1)
+D P “po
+os] a1 Q fe Q
+1 Quantity Demanded Quantity Demanded 1 Quantity Demanded
+y (Inunits) ¥ (in units) Y (In units)
+4. Relatively elastic 5. Relatively inelastic
+y y
+Zo . 2p.b-y
+= = ar N (r<n
+a H D 2 . \
++ Quantity Demanded oY a 2
+fs {Quantity Demanded Tutor’sTi
+
+(in units)
 --- page 6 ---
 2. Herzberg’s Two-Factor Theory
 • Two sets of factors:
@@ -7296,6 +7420,7 @@ Conclusion
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_CyberSecurity_7010/Principles of Economics and Management/ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Jul 2026
 - Text: text (7 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -7408,6 +7533,15 @@ Q6, 6a (10 marks)
 • Income Consumption Curve (ICC): Effect of income change.
 • PCC shows substitution effect; ICC shows income effect.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Price Consumption Curve (PCC) Income Consumption Curve (ICC)
+
+Quantity Quantity
+of Good X of Good X
+
+0 Bui 812 Quantity of 0 Blt BL2 quantity of
+Good Y Good Y
 --- page 5 ---
 6b (10 marks)
 •   Price Elasticity of Demand (PED) = %ΔQ / %ΔP
@@ -7434,6 +7568,27 @@ Managerial relevance:
 • Managers can design policies like fair wages (physiological), job security (safety), team building
 (social), rewards (esteem), and career growth (self-actualization).
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+1. Perfectly elastic 2. Perfectly inelastic 3. Unitary elastic
+
+R
+Ps LS
+2 = 2
+Ep G3) DD (PED =0) g (PED=1)
+D P “po
+os] a1 Q fe Q
+1 Quantity Demanded Quantity Demanded 1 Quantity Demanded
+y (Inunits) ¥ (in units) Y (In units)
+4. Relatively elastic 5. Relatively inelastic
+y y
+Zo . 2p.b-y
+= = ar N (r<n
+a H D 2 . \
++ Quantity Demanded oY a 2
+fs {Quantity Demanded Tutor’sTi
+
+(in units)
 --- page 6 ---
 2. Herzberg’s Two-Factor Theory
 • Two sets of factors:
@@ -7506,6 +7661,7 @@ Conclusion
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_DS_7009/Principles of Economics and Management/ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Jul 2026
 - Text: text (7 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -7618,6 +7774,15 @@ Q6, 6a (10 marks)
 • Income Consumption Curve (ICC): Effect of income change.
 • PCC shows substitution effect; ICC shows income effect.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Price Consumption Curve (PCC) Income Consumption Curve (ICC)
+
+Quantity Quantity
+of Good X of Good X
+
+0 Bui 812 Quantity of 0 Blt BL2 quantity of
+Good Y Good Y
 --- page 5 ---
 6b (10 marks)
 •   Price Elasticity of Demand (PED) = %ΔQ / %ΔP
@@ -7644,6 +7809,27 @@ Managerial relevance:
 • Managers can design policies like fair wages (physiological), job security (safety), team building
 (social), rewards (esteem), and career growth (self-actualization).
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+1. Perfectly elastic 2. Perfectly inelastic 3. Unitary elastic
+
+R
+Ps LS
+2 = 2
+Ep G3) DD (PED =0) g (PED=1)
+D P “po
+os] a1 Q fe Q
+1 Quantity Demanded Quantity Demanded 1 Quantity Demanded
+y (Inunits) ¥ (in units) Y (In units)
+4. Relatively elastic 5. Relatively inelastic
+y y
+Zo . 2p.b-y
+= = ar N (r<n
+a H D 2 . \
++ Quantity Demanded oY a 2
+fs {Quantity Demanded Tutor’sTi
+
+(in units)
 --- page 6 ---
 2. Herzberg’s Two-Factor Theory
 • Two sets of factors:
@@ -7716,6 +7902,7 @@ Conclusion
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_EXTC_7006/Principles of Economics and Management/ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Jul 2026
 - Text: text (7 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -7828,6 +8015,15 @@ Q6, 6a (10 marks)
 • Income Consumption Curve (ICC): Effect of income change.
 • PCC shows substitution effect; ICC shows income effect.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Price Consumption Curve (PCC) Income Consumption Curve (ICC)
+
+Quantity Quantity
+of Good X of Good X
+
+0 Bui 812 Quantity of 0 Blt BL2 quantity of
+Good Y Good Y
 --- page 5 ---
 6b (10 marks)
 •   Price Elasticity of Demand (PED) = %ΔQ / %ΔP
@@ -7854,6 +8050,27 @@ Managerial relevance:
 • Managers can design policies like fair wages (physiological), job security (safety), team building
 (social), rewards (esteem), and career growth (self-actualization).
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+1. Perfectly elastic 2. Perfectly inelastic 3. Unitary elastic
+
+R
+Ps LS
+2 = 2
+Ep G3) DD (PED =0) g (PED=1)
+D P “po
+os] a1 Q fe Q
+1 Quantity Demanded Quantity Demanded 1 Quantity Demanded
+y (Inunits) ¥ (in units) Y (In units)
+4. Relatively elastic 5. Relatively inelastic
+y y
+Zo . 2p.b-y
+= = ar N (r<n
+a H D 2 . \
++ Quantity Demanded oY a 2
+fs {Quantity Demanded Tutor’sTi
+
+(in units)
 --- page 6 ---
 2. Herzberg’s Two-Factor Theory
 • Two sets of factors:
@@ -7926,6 +8143,7 @@ Conclusion
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_IT_7001/Principles of Economics and Management/ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Jul 2026
 - Text: text (7 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -8038,6 +8256,15 @@ Q6, 6a (10 marks)
 • Income Consumption Curve (ICC): Effect of income change.
 • PCC shows substitution effect; ICC shows income effect.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Price Consumption Curve (PCC) Income Consumption Curve (ICC)
+
+Quantity Quantity
+of Good X of Good X
+
+0 Bui 812 Quantity of 0 Blt BL2 quantity of
+Good Y Good Y
 --- page 5 ---
 6b (10 marks)
 •   Price Elasticity of Demand (PED) = %ΔQ / %ΔP
@@ -8064,6 +8291,27 @@ Managerial relevance:
 • Managers can design policies like fair wages (physiological), job security (safety), team building
 (social), rewards (esteem), and career growth (self-actualization).
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+1. Perfectly elastic 2. Perfectly inelastic 3. Unitary elastic
+
+R
+Ps LS
+2 = 2
+Ep G3) DD (PED =0) g (PED=1)
+D P “po
+os] a1 Q fe Q
+1 Quantity Demanded Quantity Demanded 1 Quantity Demanded
+y (Inunits) ¥ (in units) Y (In units)
+4. Relatively elastic 5. Relatively inelastic
+y y
+Zo . 2p.b-y
+= = ar N (r<n
+a H D 2 . \
++ Quantity Demanded oY a 2
+fs {Quantity Demanded Tutor’sTi
+
+(in units)
 --- page 6 ---
 2. Herzberg’s Two-Factor Theory
 • Two sets of factors:
@@ -11622,6 +11870,7 @@ profitability while maintaining high service standards.
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_IT_7001/Principles of Economics and Management/ANS_Principles of Economics and Management(702TG0C015)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Jul 2026
 - Text: text (7 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -11734,6 +11983,15 @@ Q6, 6a (10 marks)
 • Income Consumption Curve (ICC): Effect of income change.
 • PCC shows substitution effect; ICC shows income effect.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Price Consumption Curve (PCC) Income Consumption Curve (ICC)
+
+Quantity Quantity
+of Good X of Good X
+
+0 Bui 812 Quantity of 0 Blt BL2 quantity of
+Good Y Good Y
 --- page 5 ---
 6b (10 marks)
 •   Price Elasticity of Demand (PED) = %ΔQ / %ΔP
@@ -11760,6 +12018,27 @@ Managerial relevance:
 • Managers can design policies like fair wages (physiological), job security (safety), team building
 (social), rewards (esteem), and career growth (self-actualization).
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+1. Perfectly elastic 2. Perfectly inelastic 3. Unitary elastic
+
+R
+Ps LS
+2 = 2
+Ep G3) DD (PED =0) g (PED=1)
+D P “po
+os] a1 Q fe Q
+1 Quantity Demanded Quantity Demanded 1 Quantity Demanded
+y (Inunits) ¥ (in units) Y (In units)
+4. Relatively elastic 5. Relatively inelastic
+y y
+Zo . 2p.b-y
+= = ar N (r<n
+a H D 2 . \
++ Quantity Demanded oY a 2
+fs {Quantity Demanded Tutor’sTi
+
+(in units)
 --- page 6 ---
 2. Herzberg’s Two-Factor Theory
 • Two sets of factors:
@@ -11832,6 +12111,7 @@ Conclusion
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/Integrated_IT_7037/Principles of Economics and Management/ANS_Principles of Economics and Management(702TG0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Jul 2026
 - Text: text (7 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -11944,6 +12224,15 @@ Q6, 6a (10 marks)
 • Income Consumption Curve (ICC): Effect of income change.
 • PCC shows substitution effect; ICC shows income effect.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Price Consumption Curve (PCC) Income Consumption Curve (ICC)
+
+Quantity Quantity
+of Good X of Good X
+
+0 Bui 812 Quantity of 0 Blt BL2 quantity of
+Good Y Good Y
 --- page 5 ---
 6b (10 marks)
 •   Price Elasticity of Demand (PED) = %ΔQ / %ΔP
@@ -11970,6 +12259,27 @@ Managerial relevance:
 • Managers can design policies like fair wages (physiological), job security (safety), team building
 (social), rewards (esteem), and career growth (self-actualization).
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+1. Perfectly elastic 2. Perfectly inelastic 3. Unitary elastic
+
+R
+Ps LS
+2 = 2
+Ep G3) DD (PED =0) g (PED=1)
+D P “po
+os] a1 Q fe Q
+1 Quantity Demanded Quantity Demanded 1 Quantity Demanded
+y (Inunits) ¥ (in units) Y (In units)
+4. Relatively elastic 5. Relatively inelastic
+y y
+Zo . 2p.b-y
+= = ar N (r<n
+a H D 2 . \
++ Quantity Demanded oY a 2
+fs {Quantity Demanded Tutor’sTi
+
+(in units)
 --- page 6 ---
 2. Herzberg’s Two-Factor Theory
 • Two sets of factors:

@@ -43,6 +43,36 @@ CO-2 ; SO-1; b.   Classify and describe numerous types of Multiple Input and Mul
 BL-2   Output (MIMO) technologies.
 Ans:
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+wane i a ‘Tonner >The next option is to increase cellular density by increasing
+
+Aaa=a——— jions’s i i | .
+
+spectrum is shared globally for many services. Base Stations's (BSs) in every predefined cell area,
+The intra-base station distances are in meters, and thus base
+stations are employed in such a way that they avoid shadowing
+
+>This would limit the range of service and its in cells.
+
+rel; ity. It limits the base station scalability.
+
+>Huge slots of bandwidth are available in 30-300
+GHz band (mmWave band), but frequencies in
+these bands are valid for short range only.
+
+Thus, we have no option other than moving base stations
+closer to user terminals.
+
+Thus, these frequencies have limited coverage This leads to increased shadowing, which in turn reduces
+and performance. coverage of the system.
+
+>mmWaves solves the above problem but within short range
+of cell.
+
+Thus, we can conclude that increasing bandwidth and
+densification of cells are not viable solutions, but using massive
+MIMO we can significantly improve SE
 --- page 2 ---
 Diagram 2 marks
 Explanation 3 marks
@@ -69,6 +99,43 @@ antenna element and improving overall system efficiency.
 Compact Size: Terahertz antennas need to be compact to facilitate
 integration into various devices and systems.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+=Single-user MIMO focuses all _ the
+streams of antenna arrays on a single
+user.
+
+=Single-user MIMO technology allows
+data__to transfer simultaneously
+through more than one data streams to
+one device.
+
+= Advantage of SU-MIMO is that there are
+no_ interferences and radio channel
+estimation is easier to achieve.
+
+= Downside is that it can only serve one
+device at_a time and if transmission
+matrix is uncorrelated, MIMO cannot
+be used.
+
+=MU-MIMO is a technology that utilizes
+more than one antenna to create several
+connections simultaneously to different
+devices to improve the network capacity.
+
+= MU-MIMO, in other words multiple users,
+
+multiple input, multiple output, is
+created for the environments where
+many people are trying to connect to a
+wireless network at the same time.
+
+«It
+
+«In comparison to standard MIMO, MU-MIMO
+has_ multiple data_ streams to different
+devices simultaneously.
 --- page 3 ---
 Isolation: In MIMO systems, high isolation between antenna elements is
 essential   for   preventing   interference and maintaining system
@@ -132,6 +199,21 @@ Ans:
 Diagram 3 marks
 Explanation 4 marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Introduction to Hybrid Beamforming
+
+> In this configuration, it is no longer possible to apply digital weights on each antenna element.
+
+» Instead, the digital weights can only be applied at each RF chain.
+
+» At the element level, the signal is adjusted by analog phase shifters, which only changes the phase of the
+signal.
+
+» Thus, the precoding or combining are actually done in two stages.
+
+» Because this approach performs beamforming in both digital and analog domains, it is referred to as hybrid
+beamforming.
 --- page 5 ---
 CO-4; SO-1; b.   [07]
 BL-2
@@ -168,6 +250,35 @@ antenna patterns to changing conditions, optimizing performance in
 various scenarios.
 Applications in 5G and Beyond:
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+each user transmits an individual data stream and receives
+only the intended data stream
+
+data streams are transmitted in different spatial domain
+
+Channel State Information(’S)
+
+Data stream 1 | 1
+—
+
+Data stream2 9 —>~"
+
+7 fo
+
+Data stream K Mf
+== mae
+
+K active users i
+M-antenna base station | Data stream K
+M base station antennas. :
+Terminal K
+Kactive users
+
+FIGURE 5.3 Massive MIMO Downlink Operation.
+
+“M” base station antennas are in the form of a small antenna array,
+and “K” users would have a single antenna each @
 --- page 6 ---
 3D beamforming is a key technology for 5G and future wireless
 communication systems, enabling high data rates and improved network
@@ -293,6 +404,27 @@ CO-3; SO-1;   systems.
 BL-2
 Ans: 10 Marks
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+«Beamforming is an RF management technique that-
+
+"maximizes the signal power at the receiver by focu
+broadcast data
+
+"to specific users instead of a large area.
+
+«With 5G, three-dimensional (3D) beamforming forms and di
+vertical and horizontal beams at the user.
+
+«These can reach devices even if they're at the top of a high-ri:
+
+example.
+
+"The beams prevent interference with other wireless signals an
+with users as they move throughout a given area. |
+
+3D beamforming in massive 5G MIMO systems forms and directs
+vertical and horizontal beams at the user devices.
 --- page 9 ---
 While "large-scale MIMO" is a broader term encompassing various
 antenna configurations, "Massive MIMO" refers to a specific type where

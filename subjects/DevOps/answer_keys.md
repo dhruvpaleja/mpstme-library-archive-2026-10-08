@@ -42,6 +42,30 @@ CO-1
 SO-2   Agile methods in software development are guided by several   [5]
 BL- 2   key principles that prioritize flexibility, collaboration, and
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Possible Bottlenecks in CI/CD Pipeline
+
+Bottleneck Description Possible Solution
+
+Slow Builds Long build times delay Optimize build tools, use caching, and
+deployments. parallelize builds.
+
+Flaky Tests Unstable tests cause false failures. Improve test reliability and use test retries.
+
+Manual Approvals Delays due to human intervention. Automate approvals where possible.
+
+Limited Infrastructure Inadequate resources slow down Use cloud-based scalable infrastructure.
+pipelines.
+
+Inefficient Code Merges —_ Frequent merge conflicts slow Use feature flags and small, frequent merges.
+integration.
+
+Security Scans Delays Security checks slow down Integrate lightweight, automated security
+deployment. scans.
+
+Logging & Monitoring Lack of insights makes debugging —_ Implement centralized logging and proactive
+Gaps slow. monitoring.
 --- page 2 ---
 customer value. The Agile Manifesto outlines the core
 principles of Agile development, which include:
@@ -107,6 +131,55 @@ CO-3
 SO-2   [5]
 BL-1
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Pull Request (PR) Model in Source Code Management
+
+A Pull Request (PR) is a process in Git-based workflows where developers propose changes to a
+
+repository. It enables code review, collaboration, and version control before merging changes.
+
+Step Description
+
+1. Fork & Clone Developer creates a copy of the repository and clones it locally.
+
+2. Create a Branch Anew feature branch is created for changes ( git checkout -b feature-branch ).
+3. Make Changes & Code is modified and committed with meaningful messages ( git commit -m
+Commit “Feature update" ).
+
+4. Push to Remote Changes are pushed to the remote repo ( git push origin feature-branch ).
+
+5. Open a Pull Request Developer submits a PR for review in platforms like GitHub, GitLab, or Bitbucket.
+6. Code Review & Reviewers provide feedback, request changes, or approve the PR.
+
+Discussion
+
+7. Merge the PR Once approved, the branch is merged into the main branch ( git merge ).
+
+8. Delete the Branch The feature branch is deleted to keep the repo clean ( git branch -d feature-
+
+branch ).
+
+Short Notes on Ansible
+
+Aspect Description
+
+What is Ansible? An open-source automation tool used for configuration management, application
+
+deployment, and orchestration.
+
+Key Features Agentless, uses YAML-based Playbooks, idempotent (ensures consistency), and supports
+
+multi-tier deployments.
+How it Works? Uses SSH for remote execution and inventory files to define managed hosts.
+
+Core Components _Playbooks (automation scripts), Modules (pre-built tasks), Roles (structured Playbooks).
+
+Common Use Server provisioning, Cl/CD automation, cloud configuration, security hardening.
+Cases
+Basic Command ansible all -m ping (tests connectivity), ansible-playbook playbook.yml (runs a
+
+ee
 --- page 4 ---
 a   Describe various components that constitute the DevOps architecture with
 a neat diagram

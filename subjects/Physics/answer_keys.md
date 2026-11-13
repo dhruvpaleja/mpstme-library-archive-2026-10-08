@@ -172,6 +172,41 @@ field and surface area, S, perpendicular to the field.
 CO-4;
 BL-2,3   1/2 Mark   [6]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Given data:
+
+* Charge enclosed: q =13.5 uC =13.5x10-°C
+
+«Side of cube: a = 6.0 cm = 0.06 m
++ Permittivity of free space: eo=8.854x 10-12 C?/N.m?
+
+Formula used: Gauss’s Law
+
+ital = Gencisea /€o
+(i) Electric flux through the whole cube
+roto = 13.5 x 10° / 8,854 x 10" = 1.524 x 10°N,m?/ C|
+
+Flux through the whole cube = 1.52 x 10° N.m?/C
+
+Since the charge is symmetrically placed at the center, the total flux is equally distributed among the
+six faces of the cube.
+
+Electric flux through one face of the cube =
+
+Done face = Oto) / 6 = 1.524 x 10°= 2,54 x 10°N.m’/ C
+
+Flux entering the volume = Oj, = 20000
+
+1 Mark
+Flux leaving (diverging) from the volume = Oy. = 45000
+net electric flux through the surface, Dyer = Dour-Din
+Dyer = 45000-20000 = 25000 1 Mark
+Using Gauss’s Law: Oy-=Qenclosea/ £0
+Cech = net. 1 Mark
+Qunclosed = 25000 x 8.854 10-2 1 Mark
+
+Qunclased =2.21*1077 C
 --- page 6 ---
 Given: radius of the particle (c) = 12 um = 1210 5 n,
 radius of nanoparticle (r) = 120 nm = 120x10 ar - [1] mark]
@@ -372,6 +407,44 @@ ratio of capacitance of a capacitor containing the dielectric medium to
 the   capacitance   of   the same   capacitor   with   air   as   the
 medium   2 Marks
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Answer:
+
+In extrinsic semiconductors, the Fermi energy level (E77) depends on the type and concentratio|
+dopant added.
+1. For n-type semiconductor:
+When donor atoms are introduced, free electrons increase. As a result, Zp moves upward to!
+conduction band (Ec).
+Increasing dopant concentration shifts Ep closer to Ec.
+2. For p-type semiconductor:
+When acceptor atoms are added, hole concentration increases. Ej moves downward towar
+valence band (Ey).
+Increasing dopant concentration shifts Ep closer to By.
+3. At very high doping (degenerate case):
+Ep may enter the conduction (n-type) or valence (p-type) band, and the semiconductor sho’
+like conductivity.
+
+Ampere’s Law states that the line integral of the magnetic field (B’) around any closed path is
+equal to lo times the total current enclosed by that path.
+
+It relates the magnetic field produced in space to the current that creates it.
+
+This law is particularly useful for determining the magnetic field due to symmetrical current
+distributions, such as in a straight wire, solenoid, or toroid. 1 Mark
+
+4
+
+1 Mark
+
+Mathematical Form:
+f Be dl = polene
+
+Where,
+. f B- dl =Line integral of magnetic field around a closed loop
+© 9 = Permeability of free space (4m x 107’ H/m)
+
+© Tene = Current enclosed by the loop NA 2 Mark
 --- page 13 ---
 Relation 1 Mark
 where C0 is the capacitance with air as the medium between the plates
@@ -553,6 +626,29 @@ CO-4;
 BL-2,3
 1/2 Mark
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Given data:
+
+* Charge enclosed: q =13.5 uC =13.5x10-°C
+
+¢ Side of cube: a = 6.0 cm = 0.06 m
++   Permittivity of free space: e9=8.854x 10-12 C?/N.m?
+
+Formula used: Gauss’s Law
+
+hotel = Pencloea /€o
+(i) Electric flux through the whole cube
+iota) = 13.5 x 10° / 8,854 x 107 = 1,524 x 10°N,m?/ C|
+
+Flux through the whole cube = 1.52 x 10° N.m?/C
+
+Since the charge is symmetrically placed at the center, the total flux is equally distributed among the
+six faces of the cube.
+
+Electric flux through one face of the cube =
+
+Dene face = Oto) / 6 = 1.524 x 10°= 2,54 x 10°N.m’/ C
 --- page 6 ---
 All equivalent correct answers will also get equal credit
 c.
@@ -566,6 +662,35 @@ CO-4;
 BL-1
 4 marks (½ mark for each right equation)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Flux entering the volume = Oj, = 20000
+
+1 Mark
+Flux leaving (diverging) from the volume = Oy. = 45000
+net electric flux through the surface, Dyer = Dour-Din
+Dyer = 45000-20000 = 25000 1 Mark
+Using Gauss’s Law: Oy-=Qenclosea/ £0
+Cech = net. 1 Mark
+Qunclosed = 25000 x 8.854 10-2 1 Mark
+
+Qunclased =2.21*1077 C
+
+Given: radius of the particle (t) = d/2 = 6 um =6x 10°? m,
+
+radius of nanoparticle (1) = d/2 =60 nm = 60X 107? m - [1 mark]
+
+We have, : = “where ris the radius of the particle. Hence, for the micrometer sized particle,
+_] mark]
+
+: = a. 2x 10° -[0.5 marks]
+
+Similarly tr the nanometre sized particle,
+
+My _ O00" 0 x 1079 - [05 marks]
+
+Ny
+Hence, ratio ts smaller for the nanoparticle by a factor of 10 x 10°? - [1 mark]
 --- page 7 ---
 All equivalent correct answers will also get equal credit
 
@@ -738,6 +863,45 @@ while the negative charge is displaced in opposite direction, as shown in
 figure. Consequently, the centres of positive and negative charges of each
 atom are displaced from their equilibrium positions. Such a molecule (or
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Answer:
+
+In extrinsic semiconductors, the Fermi energy level (E77) depends on the type and concentratio|
+dopant added.
+1. For n-type semiconductor:
+When donor atoms are introduced, free electrons increase. As a result, EZ moves upward to!
+conduction band (Ec).
+Increasing dopant concentration shifts Ep closer to Ec.
+2. For p-type semiconductor:
+When acceptor atoms are added, hole concentration increases. Ej moves downward towar
+valence band (Ey).
+Increasing dopant concentration shifts Ep closer to By.
+3. At very high doping (degenerate case):
+Ep may enter the conduction (n-type) or valence (p-type) band, and the semiconductor sho’
+like conductivity.
+
+Ampere’s Law states that the line integral of the magnetic field (B’) around any closed path is
+equal to lo times the total current enclosed by that path.
+
+It relates the magnetic field produced in space to the current that creates it.
+
+This law is particularly useful for determining the magnetic field due to symmetrical current
+distributions, such as in a straight wire, solenoid, or toroid. 1 Mark
+
+Qs
+
+1 Mark
+
+Mathematical Form:
+
+f B-a- Holene
+
+Where,
+. f B- dl =Line integral of magnetic field around a closed loop
+© {9 = Permeability of free space (4m x 107’ H/m)
+
+© Tene = Current enclosed by the loop NA 2 Mark
 --- page 13 ---
 All equivalent correct answers will also get equal credit
 atom) is then called as induced electric dipole and this process is known as
@@ -929,6 +1093,29 @@ CO-4;
 BL-2,3
 1/2 Mark
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Given data:
+
+* Charge enclosed: q =13.5 uC =13.5x10-°C
+
+¢ Side of cube: a = 6.0 cm = 0.06 m
++   Permittivity of free space: e9=8.854x 10-12 C?/N.m?
+
+Formula used: Gauss’s Law
+
+hotel = Pencloea /€o
+(i) Electric flux through the whole cube
+iota) = 13.5 x 10° / 8,854 x 107 = 1,524 x 10°N,m?/ C|
+
+Flux through the whole cube = 1.52 x 10° N.m?/C
+
+Since the charge is symmetrically placed at the center, the total flux is equally distributed among the
+six faces of the cube.
+
+Electric flux through one face of the cube =
+
+Dene face = Oto) / 6 = 1.524 x 10°= 2,54 x 10°N.m’/ C
 --- page 6 ---
 All equivalent correct answers will also get equal credit
 c.
@@ -942,6 +1129,35 @@ CO-4;
 BL-1
 4 marks (½ mark for each right equation)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Flux entering the volume = Oj, = 20000
+
+1 Mark
+Flux leaving (diverging) from the volume = Oy. = 45000
+net electric flux through the surface, Dyer = Dour-Din
+Dyer = 45000-20000 = 25000 1 Mark
+Using Gauss’s Law: Oy-=Qenclosea/ £0
+Cech = net. 1 Mark
+Qunclosed = 25000 x 8.854 10-2 1 Mark
+
+Qunclased =2.21*1077 C
+
+Given: radius of the particle (t) = d/2 = 6 um =6x 10°? m,
+
+radius of nanoparticle (1) = d/2 =60 nm = 60X 107? m - [1 mark]
+
+We have, : = “where ris the radius of the particle. Hence, for the micrometer sized particle,
+_] mark]
+
+: = a. 2x 10° -[0.5 marks]
+
+Similarly tr the nanometre sized particle,
+
+My _ O00" 0 x 1079 - [05 marks]
+
+Ny
+Hence, ratio ts smaller for the nanoparticle by a factor of 10 x 10°? - [1 mark]
 --- page 7 ---
 All equivalent correct answers will also get equal credit
 
@@ -1114,6 +1330,45 @@ while the negative charge is displaced in opposite direction, as shown in
 figure. Consequently, the centres of positive and negative charges of each
 atom are displaced from their equilibrium positions. Such a molecule (or
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Answer:
+
+In extrinsic semiconductors, the Fermi energy level (E77) depends on the type and concentratio|
+dopant added.
+1. For n-type semiconductor:
+When donor atoms are introduced, free electrons increase. As a result, EZ moves upward to!
+conduction band (Ec).
+Increasing dopant concentration shifts Ep closer to Ec.
+2. For p-type semiconductor:
+When acceptor atoms are added, hole concentration increases. Ej moves downward towar
+valence band (Ey).
+Increasing dopant concentration shifts Ep closer to By.
+3. At very high doping (degenerate case):
+Ep may enter the conduction (n-type) or valence (p-type) band, and the semiconductor sho’
+like conductivity.
+
+Ampere’s Law states that the line integral of the magnetic field (B’) around any closed path is
+equal to lo times the total current enclosed by that path.
+
+It relates the magnetic field produced in space to the current that creates it.
+
+This law is particularly useful for determining the magnetic field due to symmetrical current
+distributions, such as in a straight wire, solenoid, or toroid. 1 Mark
+
+Qs
+
+1 Mark
+
+Mathematical Form:
+
+f B-a- Holene
+
+Where,
+. f B- dl =Line integral of magnetic field around a closed loop
+© {9 = Permeability of free space (4m x 107’ H/m)
+
+© Tene = Current enclosed by the loop NA 2 Mark
 --- page 13 ---
 All equivalent correct answers will also get equal credit
 atom) is then called as induced electric dipole and this process is known as
@@ -1303,6 +1558,41 @@ field and surface area, S, perpendicular to the field.
 CO-4;
 BL-2,3   1/2 Mark   [6]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Given data:
+
+* Charge enclosed: q =13.5 uC =13.5x10-°C
+
+«Side of cube: a = 6.0 cm = 0.06 m
++ Permittivity of free space: eo=8.854x 10-12 C?/N.m?
+
+Formula used: Gauss’s Law
+
+ital = Gencisea /€o
+(i) Electric flux through the whole cube
+roto = 13.5 x 10° / 8,854 x 10" = 1.524 x 10°N,m?/ C|
+
+Flux through the whole cube = 1.52 x 10° N.m?/C
+
+Since the charge is symmetrically placed at the center, the total flux is equally distributed among the
+six faces of the cube.
+
+Electric flux through one face of the cube =
+
+Done face = Oto) / 6 = 1.524 x 10°= 2,54 x 10°N.m’/ C
+
+Flux entering the volume = Oj, = 20000
+
+1 Mark
+Flux leaving (diverging) from the volume = Oy. = 45000
+net electric flux through the surface, Dyer = Dour-Din
+Dyer = 45000-20000 = 25000 1 Mark
+Using Gauss’s Law: Oy-=Qenclosea/ £0
+Cech = net. 1 Mark
+Qunclosed = 25000 x 8.854 10-2 1 Mark
+
+Qunclased =2.21*1077 C
 --- page 6 ---
 Given: radius of the particle (c) = 12 um = 1210 5 n,
 radius of nanoparticle (r) = 120 nm = 120x10 ar - [1] mark]
@@ -1503,6 +1793,44 @@ ratio of capacitance of a capacitor containing the dielectric medium to
 the   capacitance   of   the same   capacitor   with   air   as   the
 medium   2 Marks
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Answer:
+
+In extrinsic semiconductors, the Fermi energy level (E77) depends on the type and concentratio|
+dopant added.
+1. For n-type semiconductor:
+When donor atoms are introduced, free electrons increase. As a result, Zp moves upward to!
+conduction band (Ec).
+Increasing dopant concentration shifts Ep closer to Ec.
+2. For p-type semiconductor:
+When acceptor atoms are added, hole concentration increases. Ej moves downward towar
+valence band (Ey).
+Increasing dopant concentration shifts Ep closer to By.
+3. At very high doping (degenerate case):
+Ep may enter the conduction (n-type) or valence (p-type) band, and the semiconductor sho’
+like conductivity.
+
+Ampere’s Law states that the line integral of the magnetic field (B’) around any closed path is
+equal to lo times the total current enclosed by that path.
+
+It relates the magnetic field produced in space to the current that creates it.
+
+This law is particularly useful for determining the magnetic field due to symmetrical current
+distributions, such as in a straight wire, solenoid, or toroid. 1 Mark
+
+4
+
+1 Mark
+
+Mathematical Form:
+f Be dl = polene
+
+Where,
+. f B- dl =Line integral of magnetic field around a closed loop
+© 9 = Permeability of free space (4m x 107’ H/m)
+
+© Tene = Current enclosed by the loop NA 2 Mark
 --- page 13 ---
 Relation 1 Mark
 where C0 is the capacitance with air as the medium between the plates
@@ -1517,7 +1845,7 @@ permittivity.   1 Mark
 - Departments: Data Science
 - Programmes: BTech CSE DS 7057, MBATech DS 7052
 - Source: `02_Question_Papers/2025/Sem_01/Final-Exam/BTech_CSE_DS_7057/Physics/ANS_Physics(702BS0C002)_2025-2026.docx` (+1 identical copies)
-- Text: docx (1 page)
+- Text: mixed (8 pages), mean OCR confidence 84.5
 
 ````text
 Q1
@@ -1869,6 +2197,141 @@ When a neutral dielectric slab is placed between the plates of a charged capacit
 
 | 4
 |
+--- page 2 ---
+Given data:
+
+e Charge enclosed: q =13.5 uC =13.5x10° C 1 mark
+e Side of cube: a = 6.0 cm = 0.06 m
+e Permittivity of free space: e9=8.854« 10-12 C?2/N.m?2
+
+Formula used: Gauss’s Law
+
+1 mark
+Diotal = Genclosed /€o
+(i) Electric flux through the whole cube
+Dyotai = 13.5 x 10°° / 8.854 x 10°? = 1.524 x 10°N.m?/ c| 1 mark
+
+Flux through the whole cube = 1.52 x 10° N.m2/C
+
+Since the charge is symmetrically placed at the center, the total flux is equally distributed among the
+six faces of the cube.
+
+Electric flux through one face of the cube = 1 mark
+
+face = =i1. x = 2.54% m
+/6=1.524 x 10°= 2.54 x 10°N.m?2/C
+--- page 3 ---
+Flux entering the volume = Oj, = 20000
+
+1 Mark
+Flux leaving (diverging) from the volume = Ogy = 45000
+net electric flux through the surface, Dye: = Doux—VDin
+Dy, = 45000-20000 = 25000 1 Mark
+Using Gauss’s Law: Dy-:=Qenclosed/£0
+Qenclosed = Daes., £0 1 Mark
+Qenclosed = 25000 = 8.854« 10-2 1 Mark
+
+Qenclosed =2-21* 1077 C
+--- page 4 ---
+Given: radius of the particle (r) = d/2 = 6 um = 6x 107° m,
+
+radius of nanoparticle (r) = d/2 =60 nm = 60x 107? m - [1 mark]
+
+We have. ~ = 5 where 1 is the radius of the particle. Hence, for the micrometer sized particle,
+- _f] mark]
+
+wb = sxio™" = 2x 1078 - [0.5 marks]
+
+Similarly for the nanometre sized particle,
+
+Nb — 80x10" _ 99 x 1079 - [0.5 marks]
+
+Ns 3
+Hence, ratio is smaller for the nanoparticle by a factor of 10 x 107° - [1 mark]
+--- page 5 ---
+Physical Significance of Maxwell’s °
+Equations G
+
+This is Gauss’s law of electrostatics, and it tells us that electric charge
+of any shape produces an electric field.
+
+V-D=p,
+This is Gauss’s law of magnetostatics, and it tells us that magnetic
+
+field lines have no beginning and no end; i.e. magnetic field lines are
+
+continuous.
+V-B=0
+
+This is Faraday’s law of induction, and it tells us that a changing
+magnetic field will induce an electric field.
+
+This is more general form of Ampere’s circuit law, and it tells us that a
+magnetic field is produced by a current or by a changing electric field.
+
+aD
+
+VxXH=J+—
+--- page 6 ---
+Given data:
+
+e Radius of coil, r=5m
+1 Mark
+
+e Current, I= 4A
+e Permeability of free space, to=4ax 10-7 T.m/A
+
+Formula Used:
+
+Magnetic field at the centre of a circular loop: 1 Mark
+
+B = pol/ 2r
+B= (42x 107’) x 4/ (2x5)
+
+= 7 -7
+B=1.6 x z x107'=5.0266 x10~' T 1 Mark
+
+B = 5.0266 x107 T
+--- page 7 ---
+Answer:
+
+In extrinsic semiconductors, the Fermi energy level (Er) depends on the type and concentration of
+dopant added.
+
+1. For n-type semiconductor:
+When donor atoms are introduced, free electrons increase. As a result, E moves upward toward the
+conduction band (Ec).
+Increasing dopant concentration shifts Er closer to Eg.
+2. For p-type semiconductor:
+When acceptor atoms are added, hole concentration increases. E 7 moves downward toward the
+valence band (Ey).
+Increasing dopant concentration shifts Ep closer to Ey.
+3. At very high doping (degenerate case):
+Ep may enter the conduction (n-type) or valence (p-type) band, and the semiconductor shows metal-
+
+like conductivity.
+--- page 8 ---
+Ampere’s Law states that the line integral of the magnetic field (B’) around any closed path is
+equal to uo times the total current enclosed by that path.
+
+It relates the magnetic field produced in space to the current that creates it.
+
+This law is particularly useful for determining the magnetic field due to symmetrical current
+distributions, such as in a straight wire, solenoid, or toroid. 1 Mark
+
+@s
+
+1 Mark
+
+Mathematical Form:
+fa . di — Molenc
+
+Where,
+
+° f B-dl=Line integral of magnetic field around a closed loop
+© [lg = Permeability of free space (4m x 1077 H/m)
+
+¢ Tene = Current enclosed by the loop LV > Mark
 ````
 
 ## 2025-26 · Final-Exam · Sem 1 · Answer key · paper feb9aadc57a9
@@ -2040,6 +2503,29 @@ CO-4;
 BL-2,3
 1/2 Mark
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Given data:
+
+* Charge enclosed: q =13.5 uC =13.5x10-°C
+
+¢ Side of cube: a = 6.0 cm = 0.06 m
++   Permittivity of free space: e9=8.854x 10-12 C?/N.m?
+
+Formula used: Gauss’s Law
+
+hotel = Pencloea /€o
+(i) Electric flux through the whole cube
+iota) = 13.5 x 10° / 8,854 x 107 = 1,524 x 10°N,m?/ C|
+
+Flux through the whole cube = 1.52 x 10° N.m?/C
+
+Since the charge is symmetrically placed at the center, the total flux is equally distributed among the
+six faces of the cube.
+
+Electric flux through one face of the cube =
+
+Dene face = Oto) / 6 = 1.524 x 10°= 2,54 x 10°N.m’/ C
 --- page 6 ---
 All equivalent correct answers will also get equal credit
 c.
@@ -2053,6 +2539,35 @@ CO-4;
 BL-1
 4 marks (½ mark for each right equation)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Flux entering the volume = Oj, = 20000
+
+1 Mark
+Flux leaving (diverging) from the volume = Oy. = 45000
+net electric flux through the surface, Dyer = Dour-Din
+Dyer = 45000-20000 = 25000 1 Mark
+Using Gauss’s Law: Oy-=Qenclosea/ £0
+Cech = net. 1 Mark
+Qunclosed = 25000 x 8.854 10-2 1 Mark
+
+Qunclased =2.21*1077 C
+
+Given: radius of the particle (t) = d/2 = 6 um =6x 10°? m,
+
+radius of nanoparticle (1) = d/2 =60 nm = 60X 107? m - [1 mark]
+
+We have, : = “where ris the radius of the particle. Hence, for the micrometer sized particle,
+_] mark]
+
+: = a. 2x 10° -[0.5 marks]
+
+Similarly tr the nanometre sized particle,
+
+My _ O00" 0 x 1079 - [05 marks]
+
+Ny
+Hence, ratio ts smaller for the nanoparticle by a factor of 10 x 10°? - [1 mark]
 --- page 7 ---
 All equivalent correct answers will also get equal credit
 
@@ -2225,6 +2740,45 @@ while the negative charge is displaced in opposite direction, as shown in
 figure. Consequently, the centres of positive and negative charges of each
 atom are displaced from their equilibrium positions. Such a molecule (or
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Answer:
+
+In extrinsic semiconductors, the Fermi energy level (E77) depends on the type and concentratio|
+dopant added.
+1. For n-type semiconductor:
+When donor atoms are introduced, free electrons increase. As a result, EZ moves upward to!
+conduction band (Ec).
+Increasing dopant concentration shifts Ep closer to Ec.
+2. For p-type semiconductor:
+When acceptor atoms are added, hole concentration increases. Ej moves downward towar
+valence band (Ey).
+Increasing dopant concentration shifts Ep closer to By.
+3. At very high doping (degenerate case):
+Ep may enter the conduction (n-type) or valence (p-type) band, and the semiconductor sho’
+like conductivity.
+
+Ampere’s Law states that the line integral of the magnetic field (B’) around any closed path is
+equal to lo times the total current enclosed by that path.
+
+It relates the magnetic field produced in space to the current that creates it.
+
+This law is particularly useful for determining the magnetic field due to symmetrical current
+distributions, such as in a straight wire, solenoid, or toroid. 1 Mark
+
+Qs
+
+1 Mark
+
+Mathematical Form:
+
+f B-a- Holene
+
+Where,
+. f B- dl =Line integral of magnetic field around a closed loop
+© {9 = Permeability of free space (4m x 107’ H/m)
+
+© Tene = Current enclosed by the loop NA 2 Mark
 --- page 13 ---
 All equivalent correct answers will also get equal credit
 atom) is then called as induced electric dipole and this process is known as
@@ -2416,6 +2970,29 @@ CO-4;
 BL-2,3
 1/2 Mark
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Given data:
+
+* Charge enclosed: q =13.5 uC =13.5x10-°C
+
+¢ Side of cube: a = 6.0 cm = 0.06 m
++   Permittivity of free space: e9=8.854x 10-12 C?/N.m?
+
+Formula used: Gauss’s Law
+
+hotel = Pencloea /€o
+(i) Electric flux through the whole cube
+iota) = 13.5 x 10° / 8,854 x 107 = 1,524 x 10°N,m?/ C|
+
+Flux through the whole cube = 1.52 x 10° N.m?/C
+
+Since the charge is symmetrically placed at the center, the total flux is equally distributed among the
+six faces of the cube.
+
+Electric flux through one face of the cube =
+
+Dene face = Oto) / 6 = 1.524 x 10°= 2,54 x 10°N.m’/ C
 --- page 6 ---
 All equivalent correct answers will also get equal credit
 c.
@@ -2429,6 +3006,35 @@ CO-4;
 BL-1
 4 marks (½ mark for each right equation)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Flux entering the volume = Oj, = 20000
+
+1 Mark
+Flux leaving (diverging) from the volume = Oy. = 45000
+net electric flux through the surface, Dyer = Dour-Din
+Dyer = 45000-20000 = 25000 1 Mark
+Using Gauss’s Law: Oy-=Qenclosea/ £0
+Cech = net. 1 Mark
+Qunclosed = 25000 x 8.854 10-2 1 Mark
+
+Qunclased =2.21*1077 C
+
+Given: radius of the particle (t) = d/2 = 6 um =6x 10°? m,
+
+radius of nanoparticle (1) = d/2 =60 nm = 60X 107? m - [1 mark]
+
+We have, : = “where ris the radius of the particle. Hence, for the micrometer sized particle,
+_] mark]
+
+: = a. 2x 10° -[0.5 marks]
+
+Similarly tr the nanometre sized particle,
+
+My _ O00" 0 x 1079 - [05 marks]
+
+Ny
+Hence, ratio ts smaller for the nanoparticle by a factor of 10 x 10°? - [1 mark]
 --- page 7 ---
 All equivalent correct answers will also get equal credit
 
@@ -2601,6 +3207,44 @@ while the negative charge is displaced in opposite direction, as shown in
 figure. Consequently, the centres of positive and negative charges of each
 atom are displaced from their equilibrium positions. Such a molecule (or
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Answer:
+
+In extrinsic semiconductors, the Fermi energy level (E77) depends on the type and concentratio|
+dopant added.
+1. For n-type semiconductor:
+When donor atoms are introduced, free electrons increase. As a result, EZ moves upward to!
+conduction band (Ec).
+Increasing dopant concentration shifts Ep closer to Ec.
+2. For p-type semiconductor:
+When acceptor atoms are added, hole concentration increases. Ej moves downward towar
+valence band (Ey).
+Increasing dopant concentration shifts Ep closer to By.
+3. At very high doping (degenerate case):
+Ep may enter the conduction (n-type) or valence (p-type) band, and the semiconductor sho’
+like conductivity.
+
+Ampere’s Law states that the line integral of the magnetic field (B’) around any closed path is
+equal to lo times the total current enclosed by that path.
+
+It relates the magnetic field produced in space to the current that creates it.
+
+This law is particularly useful for determining the magnetic field due to symmetrical current
+distributions, such as in a straight wire, solenoid, or toroid. 1 Mark
+
+4
+
+1 Mark
+
+Mathematical Form:
+f Be dl = polene
+
+Where,
+. f B- dl =Line integral of magnetic field around a closed loop
+© 9 = Permeability of free space (4m x 107’ H/m)
+
+© Tene = Current enclosed by the loop NA 2 Mark
 --- page 13 ---
 All equivalent correct answers will also get equal credit
 atom) is then called as induced electric dipole and this process is known as
@@ -2792,6 +3436,31 @@ CO-4;
 BL-2,3
 1/2 Mark
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Given data:
+
+© Charge enclosed: q =13.5 uC =13.5x10°°C
+
++ Side of cube: a = 6.0 cm = 0.06 m
++ Permittivity of free space: e0=8.854% 10-12 C?/N.m?
+
+Formula used: Gauss’s Law
+
+[Leva]
+
+total = Gencosed /€0
+
+(i) Electric flux through the whole cube
+oto = 13.5 x 10° / 8,854 x 10°? = 1.524 x 10°N.m?/ C|
+Flux through the whole cube = 1.52 x 10° N.m2/C
+
+Since the charge is symmetrically placed at the center, the total flux is equally distributed among the
+six faces of the cube.
+
+Electric flux through one face of the cube =
+
+ane face = Otay / 6 = 1.524 x 10°= 2.54 x 10°Nm?/ C
 --- page 6 ---
 All equivalent correct answers will also get equal credit
 c.
@@ -2805,6 +3474,36 @@ CO-4;
 BL-1
 4 marks (½ mark for each right equation)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Flux entering the volume = ®j, = 20000
+
+1Mark
+Flux leaving (diverging) from the volume = Oy. = 45000
+net electric flux through the surface, Oper = Dou Din
+Dye, = 45000-20000 = 25000 aia
+Using Gauss’s Law: Oye=Qunclosed/€0
+oe 1 Mark
+Quaclosed, = 25000 x 8.854x10-2 1 Mark
+
+Qeaclased =2.21%10-7 C
+
+Given: radius of the particle (0) = d/2 = 6 wm = 6x 10* m,
+
+radius of nanoparticle (£) = d/2=60 om = 60x 107? m - [I mark]
+
+We have, 5 = = where 11s the radius of the particle. Hence, for the micrometer sized particle,
+_fl mark]
+
+My 90 Ly 8 - [05 marks]
+
+Ns
+Similarly for the nanometre sized particle,
+
+ag
+tS = 20x10" - [0.5 marks]
+Ng
+Hence, ratio is smaller for the nanoparticle by a factor of 10 x 10°? - [1 mark]
 --- page 7 ---
 All equivalent correct answers will also get equal credit
 
@@ -2976,6 +3675,48 @@ while the negative charge is displaced in opposite direction, as shown in
 figure. Consequently, the centres of positive and negative charges of each
 atom are displaced from their equilibrium positions. Such a molecule (or
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Answer:
+
+In extrinsic semiconductors, the Fermi energy level (Ep) depends on the type and concentratio|
+
+dopant added.
+
+1. For n-type semiconductor:
+When donor atoms are introduced, free electrons increase. As a result, Ep moves upward to}
+conduction band (Ec).
+Increasing dopant concentration shifts Ep closer to Ec.
+
+2. For p-type semiconductor:
+When acceptor atoms are added, hole concentration increases. Ep moves downward towar
+valence band (Ey).
+Increasing dopant concentration shifts Ep closer to Ey.
+
+3. At very high doping (degenerate case):
+Ep may enter the conduction (n-type) or valence (p-type) band, and the semiconductor sho'
+like conductivity.
+
+Ampere’s Law states that the line integral of the magnetic field (B’) around any closed path is
+equal to po times the total current enclosed by that path.
+
+It relates the magnetic field produced in space to the current that creates it.
+
+This law is particularly useful for determining the magnetic field due to symmetrical current
+distributions, such as in a straight wire, solenoid, or toroid. 1 Mark
+
+Qs
+
+1 Mark
+
+Mathematical Form:
+f Ba polo
+
+Where,
+«ff B- di =Line integral of magnetic field around a closed loop
+© 49 = Permeability of free space (4m x 10°’ H/m)
+
+© Tene = Current enclosed by the loop ap 2 Mark
 --- page 13 ---
 All equivalent correct answers will also get equal credit
 atom) is then called as induced electric dipole and this process is known as
@@ -3002,6 +3743,7 @@ polarization.   (1 M)
 - Source: `02_Question_Papers/2025/Sem_01/Final-Exam/BTech_EXTC_7006/Physics/ANS_Physics(702BS0C002)_2025-2026.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: mixed (14 pages), mean OCR confidence 73.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3167,6 +3909,29 @@ BL-2,3   The electric flux is defined as the product of the magnitude of the ele
 field and surface area, S, perpendicular to the field.
 Φ=ES   1/2 Mark
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Given data:
+
+* Charge enclosed: q =13.5 uC =13.5x10-°C
+
+¢ Side of cube: a = 6.0 cm = 0.06 m
++   Permittivity of free space: e9=8.854x 10-12 C?/N.m?
+
+Formula used: Gauss’s Law
+
+hotel = Pencloea /€o
+(i) Electric flux through the whole cube
+iota) = 13.5 x 10° / 8,854 x 107 = 1,524 x 10°N,m?/ C|
+
+Flux through the whole cube = 1.52 x 10° N.m?/C
+
+Since the charge is symmetrically placed at the center, the total flux is equally distributed among the
+six faces of the cube.
+
+Electric flux through one face of the cube =
+
+Dene face = Oto) / 6 = 1.524 x 10°= 2,54 x 10°N.m’/ C
 --- page 6 ---
 All equivalent correct answers will also get equal credit
 
@@ -3220,6 +3985,30 @@ CO-4;
 BL-1
 3 marks
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Physical Significance of Maxwell’s °
+Equations G
+
+This is Gauss’s law of electrostatics, and it tells us that electric charge
+of any shape produces an electric field.
+
+V-D=p,
+This is Gauss’s law of magnetostatics, and it tells us that magnetic
+
+field lines have no beginning and no end; i.e. magnetic field lines are
+
+continuous.
+vV-B=0
+
+This is Faraday’s law of induction, and it tells us that a changing
+magnetic field will induce an electric field.
+
+This is more general form of Ampere’s circuit law, and it tells us that a
+magnetic field is produced by a current or by a changing electric field.
+aD
+
+VXH=J+—
 --- page 8 ---
 All equivalent correct answers will also get equal credit
 b.
@@ -3241,6 +4030,29 @@ Given:
 •   Thickness, t=1 mm=1×10−3 m
 Calculation:
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Given data:
+
+¢ Radius of coil, r= 5m
+
+¢ Current, I= 4A
+
+1 Mark
+
+¢ Permeability of free space, o=42* 1077 T.m/A
+
+Formula Used:
+
+Magnetic field at the centre of a circular loop: 1 Mark
+
+B= pol/ 2r
+B= (42*1077) x 4/ (2x5)
+
+= Ta 7
+B=1.6 x x x107’=5.0266 x107’ T 1 Mark
+
+B= 5.0266 x107 T
 --- page 9 ---
 All equivalent correct answers will also get equal credit
 VH = (6×10−7) ⋅ (200) ⋅ (1.5) / 1×10−3 V
@@ -3330,6 +4142,40 @@ explanation similar to below mentioned answer 2 marks
 All equivalent correct answers will also get equal credit
 CO-2; BL- 2   b.   Each definition +mathematical form – 2×2 =4 marks.   4
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Answer:
+
+In extrinsic semiconductors, the Fermi energy level (E77) depends on the type and concentratio|
+dopant added.
+1. For n-type semiconductor:
+When donor atoms are introduced, free electrons increase. As a result, Ep moves upward to!
+conduction band (Ec).
+Increasing dopant concentration shifts Ep closer to Ec.
+2. For p-type semiconductor:
+When acceptor atoms are added, hole concentration increases. FE moves downward towar
+valence band (Ey).
+Increasing dopant concentration shifts Ep closer to Ey.
+3. At very high doping (degenerate case):
+Ep may enter the conduction (n-type) or valence (p-type) band, and the semiconductor sho’
+like conductivity.
+
+“The rate at which the angle of diffraction varies with wavelength”.
+
+The factor (d6/d2) is called the dispersive power for that order.
+
+® The diffraction of the n® order principal maximum for a wavelength / is:
+(at+b)sinO = nd
+where: (a+b) is the grating element
+
+n is the order of diffraction
+6 is the angle of diffraction
+. Differentiating the above equation w.r.t. 2, we get,
+
+(a+b)cos0 dO = ndd
+
+dé n
+da (a+b)cos@
 --- page 13 ---
 All equivalent correct answers will also get equal credit
 CO-3 ; BL-2   c.   Solution: V-number with formula (1.5 + 0.5 m) + No of modes (1m) + Identify   4
@@ -3340,6 +4186,54 @@ each charged particle and pushes the positive charge in its own direction
 while the negative charge is displaced in opposite direction, as shown in
 figure. Consequently, the centres of positive and negative charges of each
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+The Resolving power of grating is defined as:
+
+“The ratio of the wavelength of any spectral line to the difference in the
+wavelength between this line and a neighboring line such that the two lines appear to be
+just resolved”.
+
+Thus, the resolving power of grating = order of spectrum x total number of lines on grating
+
+Therefore, Resolving power, —=nN
+
+di
+
+A dimensionless parameter that combines the key variables of the optical fiber isknown as
+normalized frequency or “V” number and is defined as
+
+
+Where a is the fiber radius and 2 is the operating wavelength.
+The maximum number of modes, Nm, supported by a step index fiber is given by
+Nm = 0.5 V? (8)
+
+Thus, For   =10, Nm is 50. When the normalized frequency V is less than 2.405, the fiber can
+support only one mode, which propagates along the axial length of the fiber, and the fiber
+becomes a single mode fiber. The wavelength at which the fiber becomes a single mode is
+called the cut-off wavelength, A, of the fiber.
+
+Ampere’s Law states that the line integral of the magnetic field (B’) around any closed path is
+equal to lo times the total current enclosed by that path.
+
+It relates the magnetic field produced in space to the current that creates it.
+
+This law is particularly useful for determining the magnetic field due to symmetrical current
+distributions, such as in a straight wire, solenoid, or toroid. 1 Mark
+
+Qs
+
+1 Mark
+
+Mathematical Form:
+
+f B-a- Holene
+
+Where,
+. f B- dl =Line integral of magnetic field around a closed loop
+© {9 = Permeability of free space (4m x 107’ H/m)
+
+© Tene = Current enclosed by the loop NA 2 Mark
 --- page 14 ---
 All equivalent correct answers will also get equal credit
 atom are displaced from their equilibrium positions. Such a molecule (or
@@ -3530,6 +4424,41 @@ field and surface area, S, perpendicular to the field.
 CO-4;
 BL-2,3   1/2 Mark   [6]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Given data:
+
+* Charge enclosed: q =13.5 uC =13.5x10-°C
+
+«Side of cube: a = 6.0 cm = 0.06 m
++ Permittivity of free space: eo=8.854x 10-12 C?/N.m?
+
+Formula used: Gauss’s Law
+
+ital = Gencisea /€o
+(i) Electric flux through the whole cube
+roto = 13.5 x 10° / 8,854 x 10" = 1.524 x 10°N,m?/ C|
+
+Flux through the whole cube = 1.52 x 10° N.m?/C
+
+Since the charge is symmetrically placed at the center, the total flux is equally distributed among the
+six faces of the cube.
+
+Electric flux through one face of the cube =
+
+Done face = Oto) / 6 = 1.524 x 10°= 2,54 x 10°N.m’/ C
+
+Flux entering the volume = Oj, = 20000
+
+1 Mark
+Flux leaving (diverging) from the volume = Oy. = 45000
+net electric flux through the surface, Dyer = Dour-Din
+Dyer = 45000-20000 = 25000 1 Mark
+Using Gauss’s Law: Oy-=Qenclosea/ £0
+Cech = net. 1 Mark
+Qunclosed = 25000 x 8.854 10-2 1 Mark
+
+Qunclased =2.21*1077 C
 --- page 6 ---
 Given: radius of the particle (c) = 12 um = 1210 5 n,
 radius of nanoparticle (r) = 120 nm = 120x10 ar - [1] mark]
@@ -3730,6 +4659,44 @@ ratio of capacitance of a capacitor containing the dielectric medium to
 the   capacitance   of   the same   capacitor   with   air   as   the
 medium   2 Marks
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Answer:
+
+In extrinsic semiconductors, the Fermi energy level (E77) depends on the type and concentratio|
+dopant added.
+1. For n-type semiconductor:
+When donor atoms are introduced, free electrons increase. As a result, Zp moves upward to!
+conduction band (Ec).
+Increasing dopant concentration shifts Ep closer to Ec.
+2. For p-type semiconductor:
+When acceptor atoms are added, hole concentration increases. Ej moves downward towar
+valence band (Ey).
+Increasing dopant concentration shifts Ep closer to By.
+3. At very high doping (degenerate case):
+Ep may enter the conduction (n-type) or valence (p-type) band, and the semiconductor sho’
+like conductivity.
+
+Ampere’s Law states that the line integral of the magnetic field (B’) around any closed path is
+equal to lo times the total current enclosed by that path.
+
+It relates the magnetic field produced in space to the current that creates it.
+
+This law is particularly useful for determining the magnetic field due to symmetrical current
+distributions, such as in a straight wire, solenoid, or toroid. 1 Mark
+
+4
+
+1 Mark
+
+Mathematical Form:
+f Be dl = polene
+
+Where,
+. f B- dl =Line integral of magnetic field around a closed loop
+© 9 = Permeability of free space (4m x 107’ H/m)
+
+© Tene = Current enclosed by the loop NA 2 Mark
 --- page 13 ---
 Relation 1 Mark
 where C0 is the capacitance with air as the medium between the plates
@@ -3911,6 +4878,31 @@ CO-4;
 BL-2,3
 1/2 Mark
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Given data:
+
+Charge enclosed: q =13.5 uC =13.5x10°°C
+
++ Side of cube: a = 6.0 cm = 0.06 m
++ Permittivity of free space: e0=8.854% 10-12 C?/N.m?
+
+Formula used: Gauss’s Law
+
+Leva]
+
+total = Gencoses /€0
+
+(i) Electric flux through the whole cube
+toto) = 13.5 x 10° / 8.854 x 10°? = 1.524 x 10°N.m?/ C|
+Flux through the whole cube = 1.52 x 10° N.m2/C
+
+Since the charge is symmetrically placed at the center, the total flux is equally distributed among the
+six faces of the cube.
+
+Electric flux through one face of the cube =
+
+yng tace = Dror / 6 = 1.524 x 10°= 2.54 x 10°N.m?/C
 --- page 6 ---
 All equivalent correct answers will also get equal credit
 c.
@@ -3924,6 +4916,34 @@ CO-4;
 BL-1
 4 marks (½ mark for each right equation)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Flux entering the volume = ®j, = 20000
+
+1 Mark
+Flux leaving (diverging) from the volume = Oy. = 45000
+net electric flux through the surface, Oper = Dou Din
+Dye, = 45000-20000 = 25000 alow
+Using Gauss’s Law: Oye=Qunclosed/£0
+en 1 Mark
+Quaclosed, = 25000 x 8.854%10-2 1 Mark
+
+Qeaclosed =2.21%10-7 C
+
+Given: rads of the particle (0) = d/2 = 6 wm = 6x 10°* m,
+
+radius of nanoparticle () = d/2 =60 nm = 60x 107? m - [1 mark]
+
+We have, 2 = “where ris the radius of the particle. Hence, for the micrometer sized particle,
+- _{] mark]
+
+ve sar ox 10 - [05 marks}
+
+Similarly for the nanometre sized particle,
+479
+a ae =20x107 - [0.5 marks]
+Ng
+Hence, ratio is smaller for the nanoparticle by a factor of 10 x 10°? - [1 mark]
 --- page 7 ---
 All equivalent correct answers will also get equal credit
 
@@ -4095,6 +5115,50 @@ while the negative charge is displaced in opposite direction, as shown in
 figure. Consequently, the centres of positive and negative charges of each
 atom are displaced from their equilibrium positions. Such a molecule (or
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Answer:
+
+In extrinsic semiconductors, the Fermi energy level (Ep) depends on the type and concentratio|
+
+dopant added.
+
+1. For n-type semiconductor:
+When donor atoms are introduced, free electrons increase. As a result, Ep moves upward to}
+conduction band (Ec).
+Increasing dopant concentration shifts Ep closer to Ec.
+
+2. For p-type semiconductor:
+When acceptor atoms are added, hole concentration increases. Ep moves downward towar
+valence band (Ey).
+Increasing dopant concentration shifts Ep closer to Ey.
+
+3. At very high doping (degenerate case):
+Ep may enter the conduction (n-type) or valence (p-type) band, and the semiconductor sho'
+like conductivity.
+
+Ampere’s Law states that the line integral of the magnetic field (BY) around any closed path is
+equal to po times the total current enclosed by that path.
+
+It relates the magnetic field produced in space to the current that creates it.
+
+This law is particularly useful for determining the magnetic field due to symmetrical current
+distributions, such as in a straight wire, solenoid, or toroid. 1 Mark
+
+Qs
+
+1 Mark
+
+Mathematical Form:
+f B.di- Holene
+
+° f B- dl =.ine integral of magnetic field around a closed loop
+
+Where,
+
+© 449 = Permeability of free space (4m x 10°’ H/m)
+
+© Tene = Current enclosed by the loop ap 2 Mark
 --- page 13 ---
 All equivalent correct answers will also get equal credit
 atom) is then called as induced electric dipole and this process is known as
@@ -4195,6 +5259,16 @@ Let us consider a Sphere of radius “r”.
 Its Surface Area =4πr2 and its volume= 4/3πr3
 Surface Area to Volume Ratio= 3/r.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+dB. Infinitesimal magnetic field
+
+Hg: Permeability of free space (4a x 10-7 T- m/A)
+F- Electric current
+
+dl: Length of the conductor element
+
+@: Angle between current element and distance vector
 --- page 3 ---
 ▪ Thus when the radius of the Sphere decreases, its Surface to Volume ratio
 increases.
@@ -4252,6 +5326,18 @@ film – 2 marks
 6
 - 3 marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Fringe width (B)
+
+If xnis the distance of the nth dark fringe from the edge and
+xmis the distance for (n+m) th dark fringe. then
+
+xn = nd/2ué and xn+m = (n+m)A/2u0
+
+Therefore, Fringe width 6 = xn-m- xn = md/2u@
+
+Form=1, P=A/2u0
 --- page 5 ---
 c. A point charge of 20 μC is enclosed at the centre of the cube of side 6.0 cm. Find
 the electric flux (i) through the whole volume and (ii) through one face of the cube.
@@ -4375,6 +5461,20 @@ b.   State Gauss’s law in electrostatics with its mathematical form. Find the 
 flux and specify the direction of the electric field lines for a spherical Gaussian 6
 surface that contains 100 million electrons.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Electrode
+
+Laser output at 694.3 nm
+
+LALO
+PAI Yo
+Partially reflecting
+Totally reflecting mirror (99%)
+mirror (99.9%)
+
+Flash tube for
+optical pumping
 --- page 9 ---
 Solution:
 Statement of Gauss’s law – 1 mark
@@ -4428,6 +5528,26 @@ Solution:
 Type I superconductors – 3 marks (1M for diagram + 2M for explanation)
 6
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Type I Superconductor
+
+> Intype-I superconductors, superconductivity is abruptly destroyed via a first order
+phase transition when the strength of the applied magnetic field rises above a critical
+value He (fig.8).
+
+> The maximum value of Heis of the order of 0.1 W/m’.
+
+> Perfectly diamagnetic and exhibit complete Meissner effect.
+>» Exhibit zero electrical resistivity below a critical temperature.
+> The transition at He is reversible.
+
+» Normally exhibited by pure metals, ¢.g. aluminium, lead, and mercury. The only alloy
+known up to now which exhibits type I superconductivity is TaSip.
+
+>» Superconductivity in Type I superconductors is modeled well by the BCS theory.
+
+>» Type I superconductors are sometimes called "soft" superconductors.
 --- page 11 ---
 Type II superconductors – 3 marks (1M for diagram + 2M for explanation)
 c.   Calculate the concentration of holes and electrons in N-type Ge at 300K, if the
@@ -4436,6 +5556,30 @@ Solution:
 Given Data – 1 mark   4
 Formula – 1 mark
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Type II Superconductors
+
+>» Type II superconductivity was discovered by Schubnikov in 1930’s and explained by
+Abrikosov in 1957.
+
+>» They have two values of critical magnetic fields Hei and H.2.
+
+> The material is perfectly diamagnetic and exhibits complete Meissner effect below the
+lower critical field Hei. Above the upper critical field, H.2, superconductivity is
+destroyed.
+
+> Type-II superconductors exist in a mixed state of normal and superconducting regions
+between the critical fields H.} and H.. This is sometimes called a vortex state, because
+vortices of superconducting currents surround filaments or cores of normal material
+
+Type II superconductors do not exhibit complete Meissner effect between the critical
+fields Hei and He2.
+
+Normally exhibited by alloys.
+
+Exhibit much higher critical magnetic fields and critical temperatures. Hence, type II
+superconductors are called hard superconductors.
 --- page 12 ---
 Correct substitution and answer – 2 marks
 n = 2.08 x 1016 cm-3
@@ -4527,6 +5671,27 @@ coating).
 – Glass or plastic with a higher index of refraction than the
 cladding
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+So that the net force F, = 0.
+
+Actually, the electric field is set up when the magnetic field shifts the hole distribution slightly in the
+negative (-) y direction. Once E£, balances v;B-, no lateral force is experienced by the holes as they drift
+along the bar.
+
+The establishment of the electric field £, is known as the Hall effect, and the resulting voltage V4g =E,w
+is called the Hall voltage (where w is the width of the bar).
+
+Now, if / is the current density and po is the concentration of holes, then
+
+J = qpov
+Therefore, we can express Ey as
+
+_ J = . _ 1
+Ey= apoB = RyJ,B, with Ry =
+
+Thus the Hall field is proportional to the product of the current density and the magnetic flux density.
+The proportionality constant Ri = (qpo)" is called the Hall coefficient.
 --- page 15 ---
 – Carries the signal
 •   Cladding
@@ -4660,6 +5825,66 @@ state 5kT below the Fermi level being occupied by an electron at 400 K.
 Solution:
 10
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+i)
+
+Bottom —up technique
+
+The technique in which the materials and
+devices are built up atom by atom.
+
+Bottom-up manufacturing would provide
+components made of single molecules,
+which are held together by covalent forces
+that are far stronger than the forces that
+hold together macro-scale components.
+
+The amount of information that can be stored
+in devices build from the bottom-up
+approach would be enormous.
+
+Nanomaterial can be synthesized using
+Bottom up technique in mainly two ways:
+
+a) Molecular self-assembly
+
+b) Positional Assembly
+
+ii) Top- Down technique
+
+= Technique in which devices are fabricated by
+removing existing material from larger
+entities.
+
+= The current top down method for manufacturing
+involves the construction of parts through
+methods such as cutting, carving and molding.
+
+= Using these techniques, a variety of machinery
+and electronic devices are being fabricated.
+
+= But the limitation of this technique is that the
+size at which the devices can be made is
+limited by the ability to cut, carve and mold.
+
+Three different techniques are used to make
+Nanostructures using Top — down approach:
+
+a) Lithography
+b) Nano imprint lithography
+c) Dip pen Lithography
+
+Consider an intrinsic semiconductor at T K.
+
+The concentration of electrons in the conduction band is
+
+-E,
+n= Neexp[—(==*)]
+
+Where, Ne = 2(2ampkT/h’)*? is the effective density of electrons at the conduction band edge (Ec)
+
+m,= effective mass of the e, k = Boltzmann’s constant, A = Planck’s constant
 --- page 3 ---
 - 1 mark
 - 1 mark
@@ -4677,6 +5902,28 @@ Total marks for both methods – (2 x 2 M = 4 M)
 Division of Wavefront
 The wavefront originating from a source of light is divided into two parts
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Similarly, the concentration of holes in the valence band is given by
+p= Nyexpl -(=*)|
+
+Where, Ny=2(2xmpkT/h?)>” represents the effective density of holes at the valence band edge, Ey.
+
+Mp = effective mass of the hole.
+
+Putting the values of Ny and Ne we get
+
+Ep = 24+ 2xTIn@2)
+
+AtT=0K
+
+— Ect Ey
+
+i= =>
+
+i.e. the Fermi level lies in the middle of the conduction and the valence band. This is also true for
+other temperatures provided m, = m,. However, in general m,>m, and the Fermi level is raised
+slightly as T exceeds 0 K. |
 --- page 4 ---
 which serves the purpose of coherent sources.
 These two parts of the same wavefront travel unequal distances and
@@ -4760,6 +6007,24 @@ Solution:   10
 Construction of He-Ne laser – 5 marks (2 marks for diagram + 3 marks for
 explanation).
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+A scanning electron microscope (SEM) is a type of electron microscope that produces
+images of a sample by scanning the surface with a focused beam of electrons. The
+electrons interact with atoms in the sample, producing various signals that contain
+information about the surface topography and composition of the sample. The electron
+beam is scanned in a raster scan pattern, and the position of the beam is combined with
+the intensity of the detected signal to produce an image. In the most common SEM mode,
+secondary electrons emitted by atoms excited by the electron beam are detected using a
+secondary electron detector (Everhart-Thornley detector). The number of secondary
+electrons that can be detected, and thus the signal intensity, depends, among other things,
+on specimen topography. Some SEMs can achieve resolutions better than 1 nanometer.
+
+AFM microscopes operate on the principle of surface sensing using an extremely sharp
+tip on a micro machined silicon probe. This tip is used to image a sample by raster
+scanning across the surface line by line, although the method varies dramatically between
+distinct operating modes. The two primary groups of operating modes are widely defined
+as contact mode and dynamic, or tapping, mode.
 --- page 7 ---
 The basic construction of a He-Ne laser is shown above. The setup consists of a
 discharge tube of length 80 cm and bore diameter of 1.5cm. A mixture of helium
@@ -4854,6 +6119,54 @@ Solution:
 Meissner effect with diagram – 3 M
 Critical current density in superconductor with diagram - 3 M
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+In 1933, Walter Meissner and Robert Ochsenfeld discovered a _{ssicowxs|
+magnetic phenomenon that showed that superconductors are not just | () | 0 |
+
+perfect conductors. 0 |
+|
+
+Imagine that both the ideal conductor and superconductor are above
+
+their critical temperature, Tc. i.e, they both are in a normal
+conducting state and have electrical resistance (fig.2). A magnetic ol i
+
+field, Ba, is then applied. This results in the field penetrating both
+materials.
+
+Fig: Illustration of Meissner effect.
+
+Both samples are then cooled below their critical temperature, Tc, so that the ideal conductor
+now has zero resistance. Now, the magnetic field is switched off.
+
+In case of ideal conductor, switching off the field induces currents in the ideal conductor that
+prevent changes in the magnetic field inside it — by Lenz’s law. Thus, the ideal conductor
+
+maintains its interior field. In an ideal conductor, < =0.
+
+The superconductor, on the other hand, expels the magnetic field from inside it. For a
+superconductor, at T <Tc, B = 0 and o(H + M) = 0.
+
+Hence, M = -H (M represents the magnetization of the sample and H is the applied magnetic
+field). The susceptibility, y of the material is
+
+xy = M/H = -1. (exhibited by a diamagnetic material).
+
+Thus, a superconducting specimen becomes a perfect diamagnet when the magnetization
+completely cancels the external magnetic field. The Meissner effect is a reversible effect. In a
+superconductor, both B and dB/dt are 0.
+
+An electric current flowing through a superconducting material itself can produce magnetic
+field of requisite strength to destroy superconductivity. The maximum current density at which
+superconductivity disappears is called critical current density, J.. This effect was observed in
+1916 by Silsbee and is known as Silsbee effect. A superconducting ring of radius R ceases to
+be a superconductor when the current is I. = 2xRHe.
+
+The existence of a critical current sets a definite limit to the size of the current that can flow
+through a superconducting coil without disturbing its superconducting state.
+
+Figure 6. Phase diagram of a superconductor.
 --- page 11 ---
 c.   Calculate the resistance of an intrinsic germanium rod (2 cm long, 3 mm wide,
 4 mm thick) at 300 K. Given: ni = 5 x 10¹⁹ m⁻³, µe = 0.39 m²/V·s, µh = 0.19
@@ -4897,6 +6210,27 @@ Definition of Hall effect – 1 mark
 Diagram – 1 mark
 6
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+The diffraction of the n“ order principal maximum for a wavelength A is:
+
+(atb)sin® = nd.
+
+where: (atb) is the grating element
+nis the order of diffraction
+6 is the angle of diffraction
+
+Differentiating the above equation w.rt. A, we get,
+
+(atb)cosé d2 = nda,
+dO _ n
+da (a+ B)cos
+
+In 1879, E.H. Hall observed that when a current carrying conductor is placed in a magnetic field, a
+potential proportional to the current and to the magnetic field is developed across the material in a
+direction perpendicular to both the current and to the magnetic field. The establishment of electric field
+
+is known as Hall effect and the resultant voltage is known as Hall voltage.
 --- page 13 ---
 - 2 marks
 - 2 marks
@@ -4924,6 +6258,32 @@ Acceptance angle
 The acceptance angle is the maximum angle at which light can enter the optical
 fiber and still propagate through it by total internal reflection.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Measurement of carrier concentration
+The measurement of Hall voltage for a known current and magnetic field can be used to find the hole
+
+concentration po.
+
+4
+_ 1 _ JyB,_ Br 1B,
+Po GRx aFy = q(-AB) —atVae
+
+Where w and ¢ are the width and the thickness of the bar, respectively.
+
+Since all the quantities of the right hand side of the above equation can be measured, Hall effect can be
+
+used to determine the carrier concentration accurately.
+
+Measurement of mobility
+
+If R is the resistance of the sample, then resistivity
+
+Hence, Hp = ap. Rn
+
+Therefore, the measurements of the Hall coefficient and the resistivity over a range of temperature give
+plots of majority carrier concentration and mobility vs. temperature. Such measurements are extremely
+useful in the analysis of semiconductor materials.
 --- page 14 ---
 Numerical aperture
 Numerical aperture (NA) of the fiber is the light collecting efficiency of the fiber
@@ -5035,6 +6395,15 @@ BL-2
 known as Hall effect and the resultant voltage is known as Hall voltage.
 2 marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Given 0, = 35°, n, = 1.5, np = 1.
+
+NA = nosin@, = 1 x sin 35° = 0.5736
+
+NA = yn —nz => 0.5736 = 1.5? — n}
+0.329 = 2.25-—n} => n} = 1.921
+ny = V1.921 ~ 1.39
 --- page 3 ---
 1 mark
 Derivation of Hall Coefficient
@@ -5324,6 +6693,21 @@ direction, as shown in figure. Consequently, the centres of positive
 and negative charges of each atom are displaced from their
 equilibrium positions. Such a molecule (or atom) is then called as
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Answer:
+
+As temperature increases, more covalent bonds in the semiconductor break, generating 4
+electron-hole pairs.
+e Inn-type semiconductors, the number of electrons in the conduction band increase:
+from donor atoms dominate.
+e In p-type semiconductors, the number of holes increases, though holes from accept
+
+the majority carriers.
+
+At high temperatures, both types behave more like intrinsic semiconductors as intrinsic ¢
+
+concentration becomes dominant.
 --- page 13 ---
 induced electric dipole and this process is known as dielectric
 polarisation, (1 M)
@@ -5420,6 +6804,15 @@ BL-2
 known as Hall effect and the resultant voltage is known as Hall voltage.
 2 marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Given 0, = 35°, n, = 1.5, np = 1.
+
+NA = nosin@, = 1 x sin 35° = 0.5736
+
+NA = yn —nz => 0.5736 = 1.5? — n}
+0.329 = 2.25-—n} => n} = 1.921
+ny = V1.921 ~ 1.39
 --- page 3 ---
 1 mark
 Derivation of Hall Coefficient
@@ -5709,6 +7102,21 @@ direction, as shown in figure. Consequently, the centres of positive
 and negative charges of each atom are displaced from their
 equilibrium positions. Such a molecule (or atom) is then called as
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Answer:
+
+As temperature increases, more covalent bonds in the semiconductor break, generating 4
+electron-hole pairs.
+e Inn-type semiconductors, the number of electrons in the conduction band increase:
+from donor atoms dominate.
+e In p-type semiconductors, the number of holes increases, though holes from accept
+
+the majority carriers.
+
+At high temperatures, both types behave more like intrinsic semiconductors as intrinsic ¢
+
+concentration becomes dominant.
 --- page 13 ---
 induced electric dipole and this process is known as dielectric
 polarisation, (1 M)
@@ -5770,6 +7178,31 @@ Diffraction
 CO-2; BL- 1   [4]
 CO-3 ; BL-1   c.   Given 0.5m; formula: 1m each (2m); Solution: 1m; correct answer: 0.5m   [4]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+INTERFERENCE
+DIFFRACTION
+
+1. The interaction takes place between
+
+1. The interaction takes place between the
+two separate wave fronts arising ' : p
+
+secondary wavelets originating from
+
+trom two coherent squrees: different points of the exposed parts of
+2. In interference pattern the regions the same wave front.
+of minimum intensity are perfectly 2. In diffraction pattern the regions of
+dark. minimum intensity are not perfectly
+3. The interference fringes are equally dark.
+spaced. 3. The diffraction fringes are never equally
+spaced.
+
+4. In interference pattern all bright
+fringes are of equal intensity. 4. Indiffraction pattern only first maximum
+
+has maximum intensity and the intensity
+m £. Sa eee. a
 --- page 2 ---
 d.
 CO-4 ; BL-1   [4]
@@ -5793,6 +7226,16 @@ BL-2
 Derivation of Hall Coefficient
 RH= EH/J. B   4 Marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Given 0, = 35°, ny = 1.5, np = 1.
+
+NA = nosin@, = 1 x sin35° = 0.5736
+
+NA= yn =n => 0.57367 = 1.5? — n}
+
+0.329 = 2.25 -n} => n} = 1.921
+ng = V1.921 ~ 1.39
 --- page 3 ---
 Solution
 Numerical data
@@ -5966,6 +7409,25 @@ The probability of occupancy f(E) is given by the Fermi-Dirac
 distribution function:
 f(E) = 1/1+e(E−EF)/kT
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Formula for magnetic field due to a long straight current-carrying conductor:
+
+pa tol
+ar
+
+Substitution:
+
+(4m x 10-7) x 9
+
+2a x 0.07
+Cancel 7:
+_ 36x 10-7
+0.14
+B=257%10 °°
+Answer:
+
+B= 2.57 x 107° Tesla
 --- page 8 ---
 Let ΔE = E−EF.
 (a) Energy level ΔE = kT above EF:
@@ -6072,6 +7534,21 @@ CO-3 ; BL-2   c.   Solution: Four differences-4m   (1 m each)   4
 CO-4 ; BL-2   d.   Definition of Bio Savart’s law   2 Marks   4
 Its mathematical form   2 Marks
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Answer:
+
+As temperature increases, more covalent bonds in the semiconductor break, generating 4
+electron-hole pairs.
+e Inn-type semiconductors, the number of electrons in the conduction band increase:
+from donor atoms dominate.
+* In p-type semiconductors, the number of holes increases, though holes from accept
+
+the majority carriers.
+
+At high temperatures, both types behave more like intrinsic semiconductors as intrinsic ¢
+
+concentration becomes dominant.
 --- page 12 ---
 CO-5; BL- 2 e. Definition of dielectric constant with appropriate formula
 e
@@ -6170,6 +7647,15 @@ BL-2
 known as Hall effect and the resultant voltage is known as Hall voltage.
 2 marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Given 0, = 35°, n, = 1.5, np = 1.
+
+NA = nosin@, = 1 x sin 35° = 0.5736
+
+NA = yn —nz => 0.5736 = 1.5? — n}
+0.329 = 2.25-—n} => n} = 1.921
+ny = V1.921 ~ 1.39
 --- page 3 ---
 1 mark
 Derivation of Hall Coefficient
@@ -6459,6 +7945,21 @@ direction, as shown in figure. Consequently, the centres of positive
 and negative charges of each atom are displaced from their
 equilibrium positions. Such a molecule (or atom) is then called as
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Answer:
+
+As temperature increases, more covalent bonds in the semiconductor break, generating 4
+electron-hole pairs.
+e Inn-type semiconductors, the number of electrons in the conduction band increase:
+from donor atoms dominate.
+e In p-type semiconductors, the number of holes increases, though holes from accept
+
+the majority carriers.
+
+At high temperatures, both types behave more like intrinsic semiconductors as intrinsic ¢
+
+concentration becomes dominant.
 --- page 13 ---
 induced electric dipole and this process is known as dielectric
 polarisation, (1 M)
@@ -6555,6 +8056,15 @@ BL-2
 known as Hall effect and the resultant voltage is known as Hall voltage.
 2 marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Given 0, = 35°, n, = 1.5, np = 1.
+
+NA = nosin@, = 1 x sin 35° = 0.5736
+
+NA = yn —nz => 0.5736 = 1.5? — n}
+0.329 = 2.25-—n} => n} = 1.921
+ny = V1.921 ~ 1.39
 --- page 3 ---
 1 mark
 Derivation of Hall Coefficient
@@ -6844,6 +8354,21 @@ direction, as shown in figure. Consequently, the centres of positive
 and negative charges of each atom are displaced from their
 equilibrium positions. Such a molecule (or atom) is then called as
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Answer:
+
+As temperature increases, more covalent bonds in the semiconductor break, generating 4
+electron-hole pairs.
+e Inn-type semiconductors, the number of electrons in the conduction band increase:
+from donor atoms dominate.
+e In p-type semiconductors, the number of holes increases, though holes from accept
+
+the majority carriers.
+
+At high temperatures, both types behave more like intrinsic semiconductors as intrinsic ¢
+
+concentration becomes dominant.
 --- page 13 ---
 induced electric dipole and this process is known as dielectric
 polarisation, (1 M)
@@ -6940,6 +8465,15 @@ BL-2
 known as Hall effect and the resultant voltage is known as Hall voltage.
 2 marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Given 0, = 35°, n, = 1.5, np = 1.
+
+NA = nosin@, = 1 x sin 35° = 0.5736
+
+NA = yn —nz => 0.5736 = 1.5? — n}
+0.329 = 2.25-—n} => n} = 1.921
+ny = V1.921 ~ 1.39
 --- page 3 ---
 1 mark
 Derivation of Hall Coefficient
@@ -7229,6 +8763,21 @@ direction, as shown in figure. Consequently, the centres of positive
 and negative charges of each atom are displaced from their
 equilibrium positions. Such a molecule (or atom) is then called as
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Answer:
+
+As temperature increases, more covalent bonds in the semiconductor break, generating 4
+electron-hole pairs.
+e Inn-type semiconductors, the number of electrons in the conduction band increase:
+from donor atoms dominate.
+e In p-type semiconductors, the number of holes increases, though holes from accept
+
+the majority carriers.
+
+At high temperatures, both types behave more like intrinsic semiconductors as intrinsic ¢
+
+concentration becomes dominant.
 --- page 13 ---
 induced electric dipole and this process is known as dielectric
 polarisation, (1 M)
@@ -7333,6 +8882,66 @@ state 5kT below the Fermi level being occupied by an electron at 400 K.
 Solution:
 10
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+i)
+
+Bottom —up technique
+
+The technique in which the materials and
+devices are built up atom by atom.
+
+Bottom-up manufacturing would provide
+components made of single molecules,
+which are held together by covalent forces
+that are far stronger than the forces that
+hold together macro-scale components.
+
+The amount of information that can be stored
+in devices build from the bottom-up
+approach would be enormous.
+
+Nanomaterial can be synthesized using
+Bottom up technique in mainly two ways:
+
+a) Molecular self-assembly
+
+b) Positional Assembly
+
+ii) Top- Down technique
+
+= Technique in which devices are fabricated by
+removing existing material from larger
+entities.
+
+= The current top down method for manufacturing
+involves the construction of parts through
+methods such as cutting, carving and molding.
+
+= Using these techniques, a variety of machinery
+and electronic devices are being fabricated.
+
+= But the limitation of this technique is that the
+size at which the devices can be made is
+limited by the ability to cut, carve and mold.
+
+Three different techniques are used to make
+Nanostructures using Top — down approach:
+
+a) Lithography
+b) Nano imprint lithography
+c) Dip pen Lithography
+
+Consider an intrinsic semiconductor at T K.
+
+The concentration of electrons in the conduction band is
+
+-E,
+n= Neexp[—(==*)]
+
+Where, Ne = 2(2ampkT/h’)*? is the effective density of electrons at the conduction band edge (Ec)
+
+m,= effective mass of the e, k = Boltzmann’s constant, A = Planck’s constant
 --- page 3 ---
 - 1 mark
 - 1 mark
@@ -7350,6 +8959,28 @@ Total marks for both methods – (2 x 2 M = 4 M)
 Division of Wavefront
 The wavefront originating from a source of light is divided into two parts
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Similarly, the concentration of holes in the valence band is given by
+p= Nyexpl -(=*)|
+
+Where, Ny=2(2xmpkT/h?)>” represents the effective density of holes at the valence band edge, Ey.
+
+Mp = effective mass of the hole.
+
+Putting the values of Ny and Ne we get
+
+Ep = 24+ 2xTIn@2)
+
+AtT=0K
+
+— Ect Ey
+
+i= =>
+
+i.e. the Fermi level lies in the middle of the conduction and the valence band. This is also true for
+other temperatures provided m, = m,. However, in general m,>m, and the Fermi level is raised
+slightly as T exceeds 0 K. |
 --- page 4 ---
 which serves the purpose of coherent sources.
 These two parts of the same wavefront travel unequal distances and
@@ -7433,6 +9064,24 @@ Solution:   10
 Construction of He-Ne laser – 5 marks (2 marks for diagram + 3 marks for
 explanation).
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+A scanning electron microscope (SEM) is a type of electron microscope that produces
+images of a sample by scanning the surface with a focused beam of electrons. The
+electrons interact with atoms in the sample, producing various signals that contain
+information about the surface topography and composition of the sample. The electron
+beam is scanned in a raster scan pattern, and the position of the beam is combined with
+the intensity of the detected signal to produce an image. In the most common SEM mode,
+secondary electrons emitted by atoms excited by the electron beam are detected using a
+secondary electron detector (Everhart-Thornley detector). The number of secondary
+electrons that can be detected, and thus the signal intensity, depends, among other things,
+on specimen topography. Some SEMs can achieve resolutions better than 1 nanometer.
+
+AFM microscopes operate on the principle of surface sensing using an extremely sharp
+tip on a micro machined silicon probe. This tip is used to image a sample by raster
+scanning across the surface line by line, although the method varies dramatically between
+distinct operating modes. The two primary groups of operating modes are widely defined
+as contact mode and dynamic, or tapping, mode.
 --- page 7 ---
 The basic construction of a He-Ne laser is shown above. The setup consists of a
 discharge tube of length 80 cm and bore diameter of 1.5cm. A mixture of helium
@@ -7527,6 +9176,54 @@ Solution:
 Meissner effect with diagram – 3 M
 Critical current density in superconductor with diagram - 3 M
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+In 1933, Walter Meissner and Robert Ochsenfeld discovered a _{ssicowxs|
+magnetic phenomenon that showed that superconductors are not just | () | 0 |
+
+perfect conductors. 0 |
+|
+
+Imagine that both the ideal conductor and superconductor are above
+
+their critical temperature, Tc. i.e, they both are in a normal
+conducting state and have electrical resistance (fig.2). A magnetic ol i
+
+field, Ba, is then applied. This results in the field penetrating both
+materials.
+
+Fig: Illustration of Meissner effect.
+
+Both samples are then cooled below their critical temperature, Tc, so that the ideal conductor
+now has zero resistance. Now, the magnetic field is switched off.
+
+In case of ideal conductor, switching off the field induces currents in the ideal conductor that
+prevent changes in the magnetic field inside it — by Lenz’s law. Thus, the ideal conductor
+
+maintains its interior field. In an ideal conductor, < =0.
+
+The superconductor, on the other hand, expels the magnetic field from inside it. For a
+superconductor, at T <Tc, B = 0 and o(H + M) = 0.
+
+Hence, M = -H (M represents the magnetization of the sample and H is the applied magnetic
+field). The susceptibility, y of the material is
+
+xy = M/H = -1. (exhibited by a diamagnetic material).
+
+Thus, a superconducting specimen becomes a perfect diamagnet when the magnetization
+completely cancels the external magnetic field. The Meissner effect is a reversible effect. In a
+superconductor, both B and dB/dt are 0.
+
+An electric current flowing through a superconducting material itself can produce magnetic
+field of requisite strength to destroy superconductivity. The maximum current density at which
+superconductivity disappears is called critical current density, J.. This effect was observed in
+1916 by Silsbee and is known as Silsbee effect. A superconducting ring of radius R ceases to
+be a superconductor when the current is I. = 2xRHe.
+
+The existence of a critical current sets a definite limit to the size of the current that can flow
+through a superconducting coil without disturbing its superconducting state.
+
+Figure 6. Phase diagram of a superconductor.
 --- page 11 ---
 c.   Calculate the resistance of an intrinsic germanium rod (2 cm long, 3 mm wide,
 4 mm thick) at 300 K. Given: ni = 5 x 10¹⁹ m⁻³, µe = 0.39 m²/V·s, µh = 0.19
@@ -7570,6 +9267,27 @@ Definition of Hall effect – 1 mark
 Diagram – 1 mark
 6
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+The diffraction of the n“ order principal maximum for a wavelength A is:
+
+(atb)sin® = nd.
+
+where: (atb) is the grating element
+nis the order of diffraction
+6 is the angle of diffraction
+
+Differentiating the above equation w.rt. A, we get,
+
+(atb)cosé d2 = nda,
+dO _ n
+da (a+ B)cos
+
+In 1879, E.H. Hall observed that when a current carrying conductor is placed in a magnetic field, a
+potential proportional to the current and to the magnetic field is developed across the material in a
+direction perpendicular to both the current and to the magnetic field. The establishment of electric field
+
+is known as Hall effect and the resultant voltage is known as Hall voltage.
 --- page 13 ---
 - 2 marks
 - 2 marks
@@ -7597,6 +9315,32 @@ Acceptance angle
 The acceptance angle is the maximum angle at which light can enter the optical
 fiber and still propagate through it by total internal reflection.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Measurement of carrier concentration
+The measurement of Hall voltage for a known current and magnetic field can be used to find the hole
+
+concentration po.
+
+4
+_ 1 _ JyB,_ Br 1B,
+Po GRx aFy = q(-AB) —atVae
+
+Where w and ¢ are the width and the thickness of the bar, respectively.
+
+Since all the quantities of the right hand side of the above equation can be measured, Hall effect can be
+
+used to determine the carrier concentration accurately.
+
+Measurement of mobility
+
+If R is the resistance of the sample, then resistivity
+
+Hence, Hp = ap. Rn
+
+Therefore, the measurements of the Hall coefficient and the resistivity over a range of temperature give
+plots of majority carrier concentration and mobility vs. temperature. Such measurements are extremely
+useful in the analysis of semiconductor materials.
 --- page 14 ---
 Numerical aperture
 Numerical aperture (NA) of the fiber is the light collecting efficiency of the fiber
@@ -7863,6 +9607,32 @@ BL-   (listing 2 marks)   [10]
 U6   Explanation of any 2 techniques   (3 marks each for explanation and 1m for
 figure)
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Explain Nuclear Radius. Calculate the nuclear radius of (a) s6Fe and (b) 23sU. Given ro = 1.2
+fm
+
+Answer: Nuclear Radius: _[2M]
+
+The scattering of a-particles by the nucleus demonstrated that the size of any atom is almost
+
+constant, but the size (volume) of any nucleus depends on its mass number A. Assuming a
+nucleus to be in the form of a sphere, its radius R is given by
+
+R= Als
+The value of ro is found to depend on the type of experiment. In general, it is between 1.2 x 10-3
+cm and 1.48 x 1073 cm.
+Radius of s6Fe: [2M]
+Given: A= 56; ro = 1.2 fm.
+R= mA'/s
+Formula:
+R= (1.2) (56)!3 = 4.59 fin
+Radius of 233U: 2M]
+Given: A= 238; ro = 1.2 fm
+R= A's
+Formula:
+
+R= (1.2) (238)"3 = 7.44 fm
 --- page 9 ---
 1) Transmission Electron Microscopes [TEM]
 The TEM operates on the same basic principles as the light microscope but uses electrons
@@ -8056,6 +9826,21 @@ II.   (Attempt Any 4 Questions)   80
 a. Brief of the Hall effect and diagram - 2 + 2 Marks   10
 Derivation of hall voltage: obtain the relation V H = - JBd/(ne) - 4 Marks
 Page 4 of 18
+
+[Text in pictures on this page, read by OCR]
+1 qQ
+ATE 1
+
+Uz =
+
+e Us the potential energy
+
+@ is the vacuum permitivity = 8.854 x 10-"F.m!
+e = qis the electric charge of the point charge
+
+e Q is the reference charge
+
+e ris the distance from the point charges
 --- page 5 ---
 Explanation of nature and density of charge carriers in materials: using formula R H = -
 1/ne - 2 Marks
@@ -8544,6 +10329,21 @@ II.   (Attempt Any 4 Questions)   80
 a. Brief of the Hall effect and diagram - 2 + 2 Marks   10
 Derivation of hall voltage: obtain the relation V H = - JBd/(ne) - 4 Marks
 Page 4 of 18
+
+[Text in pictures on this page, read by OCR]
+1 qQ
+ATE 1
+
+Uz =
+
+e Us the potential energy
+
+@ is the vacuum permitivity = 8.854 x 10-"F.m!
+e = qis the electric charge of the point charge
+
+e Q is the reference charge
+
+e ris the distance from the point charges
 --- page 5 ---
 Explanation of nature and density of charge carriers in materials: using formula R H = -
 1/ne - 2 Marks
@@ -9032,6 +10832,21 @@ II.   (Attempt Any 4 Questions)   80
 a. Brief of the Hall effect and diagram - 2 + 2 Marks   10
 Derivation of hall voltage: obtain the relation V H = - JBd/(ne) - 4 Marks
 Page 4 of 18
+
+[Text in pictures on this page, read by OCR]
+1 qQ
+ATE 1
+
+Uz =
+
+e Us the potential energy
+
+@ is the vacuum permitivity = 8.854 x 10-"F.m!
+e = qis the electric charge of the point charge
+
+e Q is the reference charge
+
+e ris the distance from the point charges
 --- page 5 ---
 Explanation of nature and density of charge carriers in materials: using formula R H = -
 1/ne - 2 Marks
@@ -9520,6 +11335,21 @@ II.   (Attempt Any 4 Questions)   80
 a. Brief of the Hall effect and diagram - 2 + 2 Marks   10
 Derivation of hall voltage: obtain the relation V H = - JBd/(ne) - 4 Marks
 Page 4 of 18
+
+[Text in pictures on this page, read by OCR]
+1 qQ
+ATE 1
+
+Uz =
+
+e Us the potential energy
+
+@ is the vacuum permitivity = 8.854 x 10-"F.m!
+e = qis the electric charge of the point charge
+
+e Q is the reference charge
+
+e ris the distance from the point charges
 --- page 5 ---
 Explanation of nature and density of charge carriers in materials: using formula R H = -
 1/ne - 2 Marks
@@ -10008,6 +11838,21 @@ II.   (Attempt Any 4 Questions)   80
 a. Brief of the Hall effect and diagram - 2 + 2 Marks   10
 Derivation of hall voltage: obtain the relation V H = - JBd/(ne) - 4 Marks
 Page 4 of 18
+
+[Text in pictures on this page, read by OCR]
+1 qQ
+ATE 1
+
+Uz =
+
+e Us the potential energy
+
+@ is the vacuum permitivity = 8.854 x 10-"F.m!
+e = qis the electric charge of the point charge
+
+e Q is the reference charge
+
+e ris the distance from the point charges
 --- page 5 ---
 Explanation of nature and density of charge carriers in materials: using formula R H = -
 1/ne - 2 Marks
@@ -10496,6 +12341,21 @@ II.   (Attempt Any 4 Questions)   80
 a. Brief of the Hall effect and diagram - 2 + 2 Marks   10
 Derivation of hall voltage: obtain the relation V H = - JBd/(ne) - 4 Marks
 Page 4 of 18
+
+[Text in pictures on this page, read by OCR]
+1 qQ
+ATE 1
+
+Uz =
+
+e Us the potential energy
+
+@ is the vacuum permitivity = 8.854 x 10-"F.m!
+e = qis the electric charge of the point charge
+
+e Q is the reference charge
+
+e ris the distance from the point charges
 --- page 5 ---
 Explanation of nature and density of charge carriers in materials: using formula R H = -
 1/ne - 2 Marks
@@ -10984,6 +12844,21 @@ II.   (Attempt Any 4 Questions)   80
 a. Brief of the Hall effect and diagram - 2 + 2 Marks   10
 Derivation of hall voltage: obtain the relation V H = - JBd/(ne) - 4 Marks
 Page 4 of 18
+
+[Text in pictures on this page, read by OCR]
+1 qQ
+ATE 1
+
+Uz =
+
+e Us the potential energy
+
+@ is the vacuum permitivity = 8.854 x 10-"F.m!
+e = qis the electric charge of the point charge
+
+e Q is the reference charge
+
+e ris the distance from the point charges
 --- page 5 ---
 Explanation of nature and density of charge carriers in materials: using formula R H = -
 1/ne - 2 Marks
@@ -11472,6 +13347,21 @@ II.   (Attempt Any 4 Questions)   80
 a. Brief of the Hall effect and diagram - 2 + 2 Marks   10
 Derivation of hall voltage: obtain the relation V H = - JBd/(ne) - 4 Marks
 Page 4 of 18
+
+[Text in pictures on this page, read by OCR]
+1 qQ
+ATE 1
+
+Uz =
+
+e Us the potential energy
+
+@ is the vacuum permitivity = 8.854 x 10-"F.m!
+e = qis the electric charge of the point charge
+
+e Q is the reference charge
+
+e ris the distance from the point charges
 --- page 5 ---
 Explanation of nature and density of charge carriers in materials: using formula R H = -
 1/ne - 2 Marks
@@ -11960,6 +13850,21 @@ II.   (Attempt Any 4 Questions)   80
 a. Brief of the Hall effect and diagram - 2 + 2 Marks   10
 Derivation of hall voltage: obtain the relation V H = - JBd/(ne) - 4 Marks
 Page 4 of 18
+
+[Text in pictures on this page, read by OCR]
+1 qQ
+ATE 1
+
+Uz =
+
+e Us the potential energy
+
+@ is the vacuum permitivity = 8.854 x 10-"F.m!
+e = qis the electric charge of the point charge
+
+e Q is the reference charge
+
+e ris the distance from the point charges
 --- page 5 ---
 Explanation of nature and density of charge carriers in materials: using formula R H = -
 1/ne - 2 Marks
@@ -12448,6 +14353,21 @@ II.   (Attempt Any 4 Questions)   80
 a. Brief of the Hall effect and diagram - 2 + 2 Marks   10
 Derivation of hall voltage: obtain the relation V H = - JBd/(ne) - 4 Marks
 Page 4 of 18
+
+[Text in pictures on this page, read by OCR]
+1 qQ
+ATE 1
+
+Uz =
+
+e Us the potential energy
+
+@ is the vacuum permitivity = 8.854 x 10-"F.m!
+e = qis the electric charge of the point charge
+
+e Q is the reference charge
+
+e ris the distance from the point charges
 --- page 5 ---
 Explanation of nature and density of charge carriers in materials: using formula R H = -
 1/ne - 2 Marks
@@ -12936,6 +14856,21 @@ II.   (Attempt Any 4 Questions)   80
 a. Brief of the Hall effect and diagram - 2 + 2 Marks   10
 Derivation of hall voltage: obtain the relation V H = - JBd/(ne) - 4 Marks
 Page 4 of 18
+
+[Text in pictures on this page, read by OCR]
+1 qQ
+ATE 1
+
+Uz =
+
+e Us the potential energy
+
+@ is the vacuum permitivity = 8.854 x 10-"F.m!
+e = qis the electric charge of the point charge
+
+e Q is the reference charge
+
+e ris the distance from the point charges
 --- page 5 ---
 Explanation of nature and density of charge carriers in materials: using formula R H = -
 1/ne - 2 Marks
@@ -13424,6 +15359,21 @@ II.   (Attempt Any 4 Questions)   80
 a. Brief of the Hall effect and diagram - 2 + 2 Marks   10
 Derivation of hall voltage: obtain the relation V H = - JBd/(ne) - 4 Marks
 Page 4 of 18
+
+[Text in pictures on this page, read by OCR]
+1 qQ
+ATE 1
+
+Uz =
+
+e Us the potential energy
+
+@ is the vacuum permitivity = 8.854 x 10-"F.m!
+e = qis the electric charge of the point charge
+
+e Q is the reference charge
+
+e ris the distance from the point charges
 --- page 5 ---
 Explanation of nature and density of charge carriers in materials: using formula R H = -
 1/ne - 2 Marks
@@ -13912,6 +15862,21 @@ II.   (Attempt Any 4 Questions)   80
 a. Brief of the Hall effect and diagram - 2 + 2 Marks   10
 Derivation of hall voltage: obtain the relation V H = - JBd/(ne) - 4 Marks
 Page 4 of 18
+
+[Text in pictures on this page, read by OCR]
+1 qQ
+ATE 1
+
+Uz =
+
+e Us the potential energy
+
+@ is the vacuum permitivity = 8.854 x 10-"F.m!
+e = qis the electric charge of the point charge
+
+e Q is the reference charge
+
+e ris the distance from the point charges
 --- page 5 ---
 Explanation of nature and density of charge carriers in materials: using formula R H = -
 1/ne - 2 Marks
@@ -14400,6 +16365,21 @@ II.   (Attempt Any 4 Questions)   80
 a. Brief of the Hall effect and diagram - 2 + 2 Marks   10
 Derivation of hall voltage: obtain the relation V H = - JBd/(ne) - 4 Marks
 Page 4 of 18
+
+[Text in pictures on this page, read by OCR]
+1 qQ
+ATE 1
+
+Uz =
+
+e Us the potential energy
+
+@ is the vacuum permitivity = 8.854 x 10-"F.m!
+e = qis the electric charge of the point charge
+
+e Q is the reference charge
+
+e ris the distance from the point charges
 --- page 5 ---
 Explanation of nature and density of charge carriers in materials: using formula R H = -
 1/ne - 2 Marks
@@ -15034,6 +17014,32 @@ BL-   (listing 2 marks)   [10]
 U6   Explanation of any 2 techniques   (3 marks each for explanation and 1m for
 figure)
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Explain Nuclear Radius. Calculate the nuclear radius of (a) s6Fe and (b) 23sU. Given ro = 1.2
+fm
+
+Answer: Nuclear Radius: _[2M]
+
+The scattering of a-particles by the nucleus demonstrated that the size of any atom is almost
+
+constant, but the size (volume) of any nucleus depends on its mass number A. Assuming a
+nucleus to be in the form of a sphere, its radius R is given by
+
+R= Als
+The value of ro is found to depend on the type of experiment. In general, it is between 1.2 x 10-3
+cm and 1.48 x 1073 cm.
+Radius of s6Fe: [2M]
+Given: A= 56; ro = 1.2 fm.
+R= mA'/s
+Formula:
+R= (1.2) (56)!3 = 4.59 fin
+Radius of 233U: 2M]
+Given: A= 238; ro = 1.2 fm
+R= A's
+Formula:
+
+R= (1.2) (238)"3 = 7.44 fm
 --- page 9 ---
 1) Transmission Electron Microscopes [TEM]
 The TEM operates on the same basic principles as the light microscope but uses electrons
@@ -15373,6 +17379,32 @@ BL-   (listing 2 marks)   [10]
 U6   Explanation of any 2 techniques   (3 marks each for explanation and 1m for
 figure)
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Explain Nuclear Radius. Calculate the nuclear radius of (a) s6Fe and (b) 23sU. Given ro = 1.2
+fm
+
+Answer: Nuclear Radius: _[2M]
+
+The scattering of a-particles by the nucleus demonstrated that the size of any atom is almost
+
+constant, but the size (volume) of any nucleus depends on its mass number A. Assuming a
+nucleus to be in the form of a sphere, its radius R is given by
+
+R= Als
+The value of ro is found to depend on the type of experiment. In general, it is between 1.2 x 10-3
+cm and 1.48 x 1073 cm.
+Radius of s6Fe: [2M]
+Given: A= 56; ro = 1.2 fm.
+R= mA'/s
+Formula:
+R= (1.2) (56)!3 = 4.59 fin
+Radius of 233U: 2M]
+Given: A= 238; ro = 1.2 fm
+R= A's
+Formula:
+
+R= (1.2) (238)"3 = 7.44 fm
 --- page 9 ---
 1) Transmission Electron Microscopes [TEM]
 The TEM operates on the same basic principles as the light microscope but uses electrons
@@ -15550,6 +17582,52 @@ CO- b   Define Wedge shaped film in case of thin film interference and write the
 [6]
 2,3;   .   and minima.   2 marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Schematic Diagram
+
+Quartz Tube Partially Silyered Mirror
+
+Atte
+“r= Laser
+ict Beam
+/ ahem
+
+Fully Stlvered Mirror
+
+Construction
+3M
+
+Energy Level Diagram
+
+Metastable State
+
+20.66 eV
+
+2061 eV
+6328 A
+Tae!
+
+18.70 ev
+
+6328 A
+Pa aied
+6228 A
+WA
+
+‘Spontaneous
+Emission
+
+He Ground state
+
+Working- 3M
+
+Radiation-less|
+Transition
+
+Ne
+
+2M
 --- page 3 ---
 BL-
 3,4
@@ -15575,6 +17653,51 @@ BL-   [10]
 U2
 Till here 3 marks
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Given:
+
+0)
+© = 40 seconds = —— degrees
+3600 ~
+
+=O, cians 8 = 0.12
+= sH00 The ians,8 = 0.12cm
+Formula:
+
+Spacing between the consecutive bright fringes is, B = Dy (for air film)
+The wavelength is, 4= 28 x 0
+A=2x 0.12 x 40 x — x 180
+
+3600
+
+= 46.54 x 10-8em
+) = 465449
+
+Newton’s ring experiment:
+
+2 \ A
+
+A
+]
+
+1.When a plano-convex lens of large radius of curvature is placed on a plane glass plate.an air film is formed between t
+
+Air in
+Co
+
+lower surface of the lens and upper surface of the plate. [10
+2.The thickness of the film gradually increases from the point of contact outwards.
+
+3.If monochromatic light is allowed to fall normally on this film,a system of alternate bright and dark concentric rings,
+
+centre dark is formed in the air film.
+4.These rings were first studied by Newton and hence they are known as Newton’s rings.
+5.They can be seen through a low power microscope focused on the film.
+
+6.Newton’s rings are formed as a result of interference between the waves reflected from the top and bottom surfaces o:
+
+air film formed between the lens and the plate.
 --- page 4 ---
 R-t R
 P. Q
@@ -15720,6 +17843,35 @@ Two dimensions with an example   -[1Mark]
 U6
 Three dimensions with an example -[1Mark]
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Cone of
+light eater
+
+MME g LMMMEEEElt0
+
+MMMMMEEEEEEEEEHEEEEEEll4
+{b)
+
+2 marks dia
+
+Let us consider an optical fibre into which the light is incident., we show a section of
+cylindrical optical fibre, The refractive index of the core is n! and that of the cladding is n2
+such that nl > n2. The refractive index of the medium form which the light is incident in the
+fibre is nO.
+
+NA = no.5in in = Ny sind = nysin (OOP — A’)
+
+2
+or NA= n,cos@, =n,,1—sin*@l = ny, -3
+1
+or NA= ni? — ng
+3 marks
+2 2
+vuion
+8, = 2Zsin71 ++
+
+2 marks
 --- page 8 ---
 Cc. Given clete en =a
 
@@ -15838,6 +17990,15 @@ Critical magnetic field, persistent current, zero resistance, critical magnetic 
 Messier’s effect , critical current, isotopic effect
 [1+1+1+1+2+1+1]Marks
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Gauss’s Law: The electric field's mapping is equal to the
+charge density divided by the permittivity of free space.
+The relationship between electric field and electric charge
+
+Gauss’s Law for Magnetism: The net magnetic flux out
+of any closed surface is zero. There is no such thing as
+a magnetic monopole
 --- page 12 ---
 Intensity distribution curve for single slit diffraction:
 
@@ -15888,6 +18049,23 @@ number (A) shows distinct trends:
 1.   Initial Increase: For light nuclei (small values of A),
 BE/A increases as nucleons (protons and neutrons) are added.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Intensity distribution curve for multiple slits diffraction:
+
+N=42
+100
+i 50
+-2n -5 0 ; on
+—, Y
+
+(01 M)
+
+Intensity distribution equation:
+1 = Ip (Sin? f/B%) (Sin® Ny/ Sin’y) acsancuetoes oars (01M)
+
+Where, (Sin? Ny/ Sin’), represents the interference pattern produced by N equally spaced point
+sources separated by a distance d.
 --- page 14 ---
 This means that adding nucleons generally enhances nuclear
 stability.
@@ -16010,6 +18188,53 @@ e.
 II.   (Attempt Any 4 Questions)   80
 1.   20
 Page 3 of 18
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Any four applications — [1x4 Marks]
+
+(i) Superconducting cables can be used to transmit electric power over long distances without power
+losses,
+(ii) Superconductors can be used to check unwanted magnetic flux by using their diamagnetic property.
+(ili) By using superconductor, very fast and accurate computers can be developed.
+(iv) Superconductors are used to detect brain wave activities.
+(v) Superconductors are also used in harnessing the various forms of nuclear energies.
+
+(vi) Most successful application is to use superconducting wire to carry the large currents in high field
+electromagnets. Such superconducting magnets are widely used in modern particle accelerators.
+Superconducting magnets are also used in magnetic resonance imaging (MRI) in medicine.
+
+(vii) The superconducting quantum interference device (SQUID) may be configured as a magnetometer
+to detect incredibly small magnetic fields, i.¢., small enough to measure the magnetic fields in living
+organisms.
+
+(viii) Highly powerful strong field superconductor electromagnets are fabricated using liquid helium
+superconductors. These electromagnets are used in NMR spectrometers and NMR imaging that
+
+are employed in medical diagnosis. Electromagnets are also used to produce Josephson’s devices,
+electromagnetic shields and magnetically levitating world’s fastest trains.
+
+(ix) Low temperature superconductors have been used to construct fractional wavelength antennas,
+leading to a significant improvement in radiation efficiency. However, the use of liquid helium as a
+eryogen limits the application of such antennas.
+
+(x) It is seen that conventional metal guides at mm wavelength have attenuations of the order of 10
+dB/m due to the high value of surface resistance of the metal walls at ~ 200 GHz, Therefore,
+potential application for superconductors is also in the construction of electromagnetic waveguides.
+The advantage over conventional metal waveguides would be at the higher frequencies.
+
+(xi) Now it has been possible to design ceramic superconductors which can act at temperature > 77 Ky
+Le. it can act as hi-T, superconductors, These superconductors have advantage over low T,
+
+superconductors because liquid nitrogen can be used as coolant, which is cheaper and has better
+cooling due to its high thermal capacity,
+
+(xii) Other industrial applications of superconductors are through magnets, sensors, transducers and
+magnetic shielding.
+
+(xiii) Superconductors also have applications in power generation, energy storage, fusion, transformers
+and transducers.
 --- page 4 ---
 a. Description of N-type and P-type semiconductors with diagram - 3 + 2 Marks   10
 List of five differences in n-type and p-type semiconductors - 1×5 = 5 Marks
@@ -16123,6 +18348,48 @@ Application of it to describe magnetic levitation   3 marks
 c.
 4
 Page 9 of 18
+
+[Text in pictures on this page, read by OCR]
+" Population Inversion- 1M
+For a system with three energy states viz. El (population N1), E2 (population N2) and E3 (population N3) in
+equilibrium such that El < E2 < E3, the uppermost level E3 is populated least whereas the lowest level El is
+populated most. Since the population in these states follow the trend N1 > N2 > N3, the system shall absorb
+photons rather than emitting them. However, when a sizable population of electrons is achieved in the upper levels,
+the condition is known as population inversion.
+
+Metastable State- IM
+Itis the excited energy level or higher energy level of an atom that have a longer lifetime than the ordinary excited
+states. In Metastable state rate of spontaneous decay to lower state is lower than any other state which results in
+population inversion.
+
+Digram 2M | Construction of semiconductor LASER 2M
+Semiconductor laser is made up of an active layer of gallium
+arsenide (GaAs) of thickness 0.2 microns. This is sandwiched in
+between a n-type GaAsAl and p-type GaAsAl layer as shown in Fig.
+The resonant cavity is provided by polishing opposite faces of the
+re tall GaAs crystal and the pumping occurs by passing electrical current
+7 from an ordinary source (Power Supply). From this system GaAs
+(2p ny semiconductor, laser beams of wavelength ranging from 7000 A to.
+
+re Ay 30,000 A can be produced.
+
+ialad 4p Working of semiconductor LASER. 2M
+When the current is passed through a p-n junction diode in forward
+bias, holes move from p-region to n-region and the electrons move
+from n-region to p-region. These electrons and holes are
+recombined in the junction region and emit photons due to the
+
+transition of electrons from the conduction band to the valence
+band. This results in stimulated radiation coming from a very
+narrow region near the junction. The action is intensified by
+increasing the current and decreasing the junction thickness.
+
+Advantages of Semiconductor LASER (Any two) _ _ 2M
+1. Ithas remarkably small size,
+2. exhibits high efficiency
+3. It can be operated at low temperature.
+4, Highly monochromatic
+5. Tunable and continues beam.
 --- page 10 ---
 - Stalewewt 4, (aw of mass cetion
 . L____ 1 wey
@@ -16723,6 +18990,53 @@ e.
 II.   (Attempt Any 4 Questions)   80
 1.   20
 Page 3 of 18
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Any four applications — [1x4 Marks]
+
+(i) Superconducting cables can be used to transmit electric power over long distances without power
+losses,
+(ii) Superconductors can be used to check unwanted magnetic flux by using their diamagnetic property.
+(ili) By using superconductor, very fast and accurate computers can be developed.
+(iv) Superconductors are used to detect brain wave activities.
+(v) Superconductors are also used in harnessing the various forms of nuclear energies.
+
+(vi) Most successful application is to use superconducting wire to carry the large currents in high field
+electromagnets. Such superconducting magnets are widely used in modern particle accelerators.
+Superconducting magnets are also used in magnetic resonance imaging (MRI) in medicine.
+
+(vii) The superconducting quantum interference device (SQUID) may be configured as a magnetometer
+to detect incredibly small magnetic fields, i.¢., small enough to measure the magnetic fields in living
+organisms.
+
+(viii) Highly powerful strong field superconductor electromagnets are fabricated using liquid helium
+superconductors. These electromagnets are used in NMR spectrometers and NMR imaging that
+
+are employed in medical diagnosis. Electromagnets are also used to produce Josephson’s devices,
+electromagnetic shields and magnetically levitating world’s fastest trains.
+
+(ix) Low temperature superconductors have been used to construct fractional wavelength antennas,
+leading to a significant improvement in radiation efficiency. However, the use of liquid helium as a
+eryogen limits the application of such antennas.
+
+(x) It is seen that conventional metal guides at mm wavelength have attenuations of the order of 10
+dB/m due to the high value of surface resistance of the metal walls at ~ 200 GHz, Therefore,
+potential application for superconductors is also in the construction of electromagnetic waveguides.
+The advantage over conventional metal waveguides would be at the higher frequencies.
+
+(xi) Now it has been possible to design ceramic superconductors which can act at temperature > 77 Ky
+Le. it can act as hi-T, superconductors, These superconductors have advantage over low T,
+
+superconductors because liquid nitrogen can be used as coolant, which is cheaper and has better
+cooling due to its high thermal capacity,
+
+(xii) Other industrial applications of superconductors are through magnets, sensors, transducers and
+magnetic shielding.
+
+(xiii) Superconductors also have applications in power generation, energy storage, fusion, transformers
+and transducers.
 --- page 4 ---
 a. Description of N-type and P-type semiconductors with diagram - 3 + 2 Marks   10
 List of five differences in n-type and p-type semiconductors - 1×5 = 5 Marks
@@ -16836,6 +19150,48 @@ Application of it to describe magnetic levitation   3 marks
 c.
 4
 Page 9 of 18
+
+[Text in pictures on this page, read by OCR]
+" Population Inversion- 1M
+For a system with three energy states viz. El (population N1), E2 (population N2) and E3 (population N3) in
+equilibrium such that El < E2 < E3, the uppermost level E3 is populated least whereas the lowest level El is
+populated most. Since the population in these states follow the trend N1 > N2 > N3, the system shall absorb
+photons rather than emitting them. However, when a sizable population of electrons is achieved in the upper levels,
+the condition is known as population inversion.
+
+Metastable State- IM
+Itis the excited energy level or higher energy level of an atom that have a longer lifetime than the ordinary excited
+states. In Metastable state rate of spontaneous decay to lower state is lower than any other state which results in
+population inversion.
+
+Digram 2M | Construction of semiconductor LASER 2M
+Semiconductor laser is made up of an active layer of gallium
+arsenide (GaAs) of thickness 0.2 microns. This is sandwiched in
+between a n-type GaAsAl and p-type GaAsAl layer as shown in Fig.
+The resonant cavity is provided by polishing opposite faces of the
+re tall GaAs crystal and the pumping occurs by passing electrical current
+7 from an ordinary source (Power Supply). From this system GaAs
+(2p ny semiconductor, laser beams of wavelength ranging from 7000 A to.
+
+re Ay 30,000 A can be produced.
+
+ialad 4p Working of semiconductor LASER. 2M
+When the current is passed through a p-n junction diode in forward
+bias, holes move from p-region to n-region and the electrons move
+from n-region to p-region. These electrons and holes are
+recombined in the junction region and emit photons due to the
+
+transition of electrons from the conduction band to the valence
+band. This results in stimulated radiation coming from a very
+narrow region near the junction. The action is intensified by
+increasing the current and decreasing the junction thickness.
+
+Advantages of Semiconductor LASER (Any two) _ _ 2M
+1. Ithas remarkably small size,
+2. exhibits high efficiency
+3. It can be operated at low temperature.
+4, Highly monochromatic
+5. Tunable and continues beam.
 --- page 10 ---
 - Stalewewt 4, (aw of mass cetion
 . L____ 1 wey
@@ -17078,6 +19434,53 @@ e.
 II.   (Attempt Any 4 Questions)   80
 1.   20
 Page 3 of 18
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Any four applications — [1x4 Marks]
+
+(i) Superconducting cables can be used to transmit electric power over long distances without power
+losses,
+(ii) Superconductors can be used to check unwanted magnetic flux by using their diamagnetic property.
+(ili) By using superconductor, very fast and accurate computers can be developed.
+(iv) Superconductors are used to detect brain wave activities.
+(v) Superconductors are also used in harnessing the various forms of nuclear energies.
+
+(vi) Most successful application is to use superconducting wire to carry the large currents in high field
+electromagnets. Such superconducting magnets are widely used in modern particle accelerators.
+Superconducting magnets are also used in magnetic resonance imaging (MRI) in medicine.
+
+(vii) The superconducting quantum interference device (SQUID) may be configured as a magnetometer
+to detect incredibly small magnetic fields, i.¢., small enough to measure the magnetic fields in living
+organisms.
+
+(viii) Highly powerful strong field superconductor electromagnets are fabricated using liquid helium
+superconductors. These electromagnets are used in NMR spectrometers and NMR imaging that
+
+are employed in medical diagnosis. Electromagnets are also used to produce Josephson’s devices,
+electromagnetic shields and magnetically levitating world’s fastest trains.
+
+(ix) Low temperature superconductors have been used to construct fractional wavelength antennas,
+leading to a significant improvement in radiation efficiency. However, the use of liquid helium as a
+eryogen limits the application of such antennas.
+
+(x) It is seen that conventional metal guides at mm wavelength have attenuations of the order of 10
+dB/m due to the high value of surface resistance of the metal walls at ~ 200 GHz, Therefore,
+potential application for superconductors is also in the construction of electromagnetic waveguides.
+The advantage over conventional metal waveguides would be at the higher frequencies.
+
+(xi) Now it has been possible to design ceramic superconductors which can act at temperature > 77 Ky
+Le. it can act as hi-T, superconductors, These superconductors have advantage over low T,
+
+superconductors because liquid nitrogen can be used as coolant, which is cheaper and has better
+cooling due to its high thermal capacity,
+
+(xii) Other industrial applications of superconductors are through magnets, sensors, transducers and
+magnetic shielding.
+
+(xiii) Superconductors also have applications in power generation, energy storage, fusion, transformers
+and transducers.
 --- page 4 ---
 a. Description of N-type and P-type semiconductors with diagram - 3 + 2 Marks   10
 List of five differences in n-type and p-type semiconductors - 1×5 = 5 Marks
@@ -17191,6 +19594,48 @@ Application of it to describe magnetic levitation   3 marks
 c.
 4
 Page 9 of 18
+
+[Text in pictures on this page, read by OCR]
+" Population Inversion- 1M
+For a system with three energy states viz. El (population N1), E2 (population N2) and E3 (population N3) in
+equilibrium such that El < E2 < E3, the uppermost level E3 is populated least whereas the lowest level El is
+populated most. Since the population in these states follow the trend N1 > N2 > N3, the system shall absorb
+photons rather than emitting them. However, when a sizable population of electrons is achieved in the upper levels,
+the condition is known as population inversion.
+
+Metastable State- IM
+Itis the excited energy level or higher energy level of an atom that have a longer lifetime than the ordinary excited
+states. In Metastable state rate of spontaneous decay to lower state is lower than any other state which results in
+population inversion.
+
+Digram 2M | Construction of semiconductor LASER 2M
+Semiconductor laser is made up of an active layer of gallium
+arsenide (GaAs) of thickness 0.2 microns. This is sandwiched in
+between a n-type GaAsAl and p-type GaAsAl layer as shown in Fig.
+The resonant cavity is provided by polishing opposite faces of the
+re tall GaAs crystal and the pumping occurs by passing electrical current
+7 from an ordinary source (Power Supply). From this system GaAs
+(2p ny semiconductor, laser beams of wavelength ranging from 7000 A to.
+
+re Ay 30,000 A can be produced.
+
+ialad 4p Working of semiconductor LASER. 2M
+When the current is passed through a p-n junction diode in forward
+bias, holes move from p-region to n-region and the electrons move
+from n-region to p-region. These electrons and holes are
+recombined in the junction region and emit photons due to the
+
+transition of electrons from the conduction band to the valence
+band. This results in stimulated radiation coming from a very
+narrow region near the junction. The action is intensified by
+increasing the current and decreasing the junction thickness.
+
+Advantages of Semiconductor LASER (Any two) _ _ 2M
+1. Ithas remarkably small size,
+2. exhibits high efficiency
+3. It can be operated at low temperature.
+4, Highly monochromatic
+5. Tunable and continues beam.
 --- page 10 ---
 - Stalewewt 4, (aw of mass cetion
 . L____ 1 wey
@@ -17433,6 +19878,53 @@ e.
 II.   (Attempt Any 4 Questions)   80
 1.   20
 Page 3 of 18
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Any four applications — [1x4 Marks]
+
+(i) Superconducting cables can be used to transmit electric power over long distances without power
+losses,
+(ii) Superconductors can be used to check unwanted magnetic flux by using their diamagnetic property.
+(ili) By using superconductor, very fast and accurate computers can be developed.
+(iv) Superconductors are used to detect brain wave activities.
+(v) Superconductors are also used in harnessing the various forms of nuclear energies.
+
+(vi) Most successful application is to use superconducting wire to carry the large currents in high field
+electromagnets. Such superconducting magnets are widely used in modern particle accelerators.
+Superconducting magnets are also used in magnetic resonance imaging (MRI) in medicine.
+
+(vii) The superconducting quantum interference device (SQUID) may be configured as a magnetometer
+to detect incredibly small magnetic fields, i.¢., small enough to measure the magnetic fields in living
+organisms.
+
+(viii) Highly powerful strong field superconductor electromagnets are fabricated using liquid helium
+superconductors. These electromagnets are used in NMR spectrometers and NMR imaging that
+
+are employed in medical diagnosis. Electromagnets are also used to produce Josephson’s devices,
+electromagnetic shields and magnetically levitating world’s fastest trains.
+
+(ix) Low temperature superconductors have been used to construct fractional wavelength antennas,
+leading to a significant improvement in radiation efficiency. However, the use of liquid helium as a
+eryogen limits the application of such antennas.
+
+(x) It is seen that conventional metal guides at mm wavelength have attenuations of the order of 10
+dB/m due to the high value of surface resistance of the metal walls at ~ 200 GHz, Therefore,
+potential application for superconductors is also in the construction of electromagnetic waveguides.
+The advantage over conventional metal waveguides would be at the higher frequencies.
+
+(xi) Now it has been possible to design ceramic superconductors which can act at temperature > 77 Ky
+Le. it can act as hi-T, superconductors, These superconductors have advantage over low T,
+
+superconductors because liquid nitrogen can be used as coolant, which is cheaper and has better
+cooling due to its high thermal capacity,
+
+(xii) Other industrial applications of superconductors are through magnets, sensors, transducers and
+magnetic shielding.
+
+(xiii) Superconductors also have applications in power generation, energy storage, fusion, transformers
+and transducers.
 --- page 4 ---
 a. Description of N-type and P-type semiconductors with diagram - 3 + 2 Marks   10
 List of five differences in n-type and p-type semiconductors - 1×5 = 5 Marks
@@ -17546,6 +20038,48 @@ Application of it to describe magnetic levitation   3 marks
 c.
 4
 Page 9 of 18
+
+[Text in pictures on this page, read by OCR]
+" Population Inversion- 1M
+For a system with three energy states viz. El (population N1), E2 (population N2) and E3 (population N3) in
+equilibrium such that El < E2 < E3, the uppermost level E3 is populated least whereas the lowest level El is
+populated most. Since the population in these states follow the trend N1 > N2 > N3, the system shall absorb
+photons rather than emitting them. However, when a sizable population of electrons is achieved in the upper levels,
+the condition is known as population inversion.
+
+Metastable State- IM
+Itis the excited energy level or higher energy level of an atom that have a longer lifetime than the ordinary excited
+states. In Metastable state rate of spontaneous decay to lower state is lower than any other state which results in
+population inversion.
+
+Digram 2M | Construction of semiconductor LASER 2M
+Semiconductor laser is made up of an active layer of gallium
+arsenide (GaAs) of thickness 0.2 microns. This is sandwiched in
+between a n-type GaAsAl and p-type GaAsAl layer as shown in Fig.
+The resonant cavity is provided by polishing opposite faces of the
+re tall GaAs crystal and the pumping occurs by passing electrical current
+7 from an ordinary source (Power Supply). From this system GaAs
+(2p ny semiconductor, laser beams of wavelength ranging from 7000 A to.
+
+re Ay 30,000 A can be produced.
+
+ialad 4p Working of semiconductor LASER. 2M
+When the current is passed through a p-n junction diode in forward
+bias, holes move from p-region to n-region and the electrons move
+from n-region to p-region. These electrons and holes are
+recombined in the junction region and emit photons due to the
+
+transition of electrons from the conduction band to the valence
+band. This results in stimulated radiation coming from a very
+narrow region near the junction. The action is intensified by
+increasing the current and decreasing the junction thickness.
+
+Advantages of Semiconductor LASER (Any two) _ _ 2M
+1. Ithas remarkably small size,
+2. exhibits high efficiency
+3. It can be operated at low temperature.
+4, Highly monochromatic
+5. Tunable and continues beam.
 --- page 10 ---
 - Stalewewt 4, (aw of mass cetion
 . L____ 1 wey
@@ -17788,6 +20322,53 @@ e.
 II.   (Attempt Any 4 Questions)   80
 1.   20
 Page 3 of 18
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Any four applications — [1x4 Marks]
+
+(i) Superconducting cables can be used to transmit electric power over long distances without power
+losses,
+(ii) Superconductors can be used to check unwanted magnetic flux by using their diamagnetic property.
+(ili) By using superconductor, very fast and accurate computers can be developed.
+(iv) Superconductors are used to detect brain wave activities.
+(v) Superconductors are also used in harnessing the various forms of nuclear energies.
+
+(vi) Most successful application is to use superconducting wire to carry the large currents in high field
+electromagnets. Such superconducting magnets are widely used in modern particle accelerators.
+Superconducting magnets are also used in magnetic resonance imaging (MRI) in medicine.
+
+(vii) The superconducting quantum interference device (SQUID) may be configured as a magnetometer
+to detect incredibly small magnetic fields, i.¢., small enough to measure the magnetic fields in living
+organisms.
+
+(viii) Highly powerful strong field superconductor electromagnets are fabricated using liquid helium
+superconductors. These electromagnets are used in NMR spectrometers and NMR imaging that
+
+are employed in medical diagnosis. Electromagnets are also used to produce Josephson’s devices,
+electromagnetic shields and magnetically levitating world’s fastest trains.
+
+(ix) Low temperature superconductors have been used to construct fractional wavelength antennas,
+leading to a significant improvement in radiation efficiency. However, the use of liquid helium as a
+eryogen limits the application of such antennas.
+
+(x) It is seen that conventional metal guides at mm wavelength have attenuations of the order of 10
+dB/m due to the high value of surface resistance of the metal walls at ~ 200 GHz, Therefore,
+potential application for superconductors is also in the construction of electromagnetic waveguides.
+The advantage over conventional metal waveguides would be at the higher frequencies.
+
+(xi) Now it has been possible to design ceramic superconductors which can act at temperature > 77 Ky
+Le. it can act as hi-T, superconductors, These superconductors have advantage over low T,
+
+superconductors because liquid nitrogen can be used as coolant, which is cheaper and has better
+cooling due to its high thermal capacity,
+
+(xii) Other industrial applications of superconductors are through magnets, sensors, transducers and
+magnetic shielding.
+
+(xiii) Superconductors also have applications in power generation, energy storage, fusion, transformers
+and transducers.
 --- page 4 ---
 a. Description of N-type and P-type semiconductors with diagram - 3 + 2 Marks   10
 List of five differences in n-type and p-type semiconductors - 1×5 = 5 Marks
@@ -17901,6 +20482,48 @@ Application of it to describe magnetic levitation   3 marks
 c.
 4
 Page 9 of 18
+
+[Text in pictures on this page, read by OCR]
+" Population Inversion- 1M
+For a system with three energy states viz. El (population N1), E2 (population N2) and E3 (population N3) in
+equilibrium such that El < E2 < E3, the uppermost level E3 is populated least whereas the lowest level El is
+populated most. Since the population in these states follow the trend N1 > N2 > N3, the system shall absorb
+photons rather than emitting them. However, when a sizable population of electrons is achieved in the upper levels,
+the condition is known as population inversion.
+
+Metastable State- IM
+Itis the excited energy level or higher energy level of an atom that have a longer lifetime than the ordinary excited
+states. In Metastable state rate of spontaneous decay to lower state is lower than any other state which results in
+population inversion.
+
+Digram 2M | Construction of semiconductor LASER 2M
+Semiconductor laser is made up of an active layer of gallium
+arsenide (GaAs) of thickness 0.2 microns. This is sandwiched in
+between a n-type GaAsAl and p-type GaAsAl layer as shown in Fig.
+The resonant cavity is provided by polishing opposite faces of the
+re tall GaAs crystal and the pumping occurs by passing electrical current
+7 from an ordinary source (Power Supply). From this system GaAs
+(2p ny semiconductor, laser beams of wavelength ranging from 7000 A to.
+
+re Ay 30,000 A can be produced.
+
+ialad 4p Working of semiconductor LASER. 2M
+When the current is passed through a p-n junction diode in forward
+bias, holes move from p-region to n-region and the electrons move
+from n-region to p-region. These electrons and holes are
+recombined in the junction region and emit photons due to the
+
+transition of electrons from the conduction band to the valence
+band. This results in stimulated radiation coming from a very
+narrow region near the junction. The action is intensified by
+increasing the current and decreasing the junction thickness.
+
+Advantages of Semiconductor LASER (Any two) _ _ 2M
+1. Ithas remarkably small size,
+2. exhibits high efficiency
+3. It can be operated at low temperature.
+4, Highly monochromatic
+5. Tunable and continues beam.
 --- page 10 ---
 - Stalewewt 4, (aw of mass cetion
 . L____ 1 wey
@@ -18143,6 +20766,53 @@ e.
 II.   (Attempt Any 4 Questions)   80
 1.   20
 Page 3 of 18
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Any four applications — [1x4 Marks]
+
+(i) Superconducting cables can be used to transmit electric power over long distances without power
+losses,
+(ii) Superconductors can be used to check unwanted magnetic flux by using their diamagnetic property.
+(ili) By using superconductor, very fast and accurate computers can be developed.
+(iv) Superconductors are used to detect brain wave activities.
+(v) Superconductors are also used in harnessing the various forms of nuclear energies.
+
+(vi) Most successful application is to use superconducting wire to carry the large currents in high field
+electromagnets. Such superconducting magnets are widely used in modern particle accelerators.
+Superconducting magnets are also used in magnetic resonance imaging (MRI) in medicine.
+
+(vii) The superconducting quantum interference device (SQUID) may be configured as a magnetometer
+to detect incredibly small magnetic fields, i.¢., small enough to measure the magnetic fields in living
+organisms.
+
+(viii) Highly powerful strong field superconductor electromagnets are fabricated using liquid helium
+superconductors. These electromagnets are used in NMR spectrometers and NMR imaging that
+
+are employed in medical diagnosis. Electromagnets are also used to produce Josephson’s devices,
+electromagnetic shields and magnetically levitating world’s fastest trains.
+
+(ix) Low temperature superconductors have been used to construct fractional wavelength antennas,
+leading to a significant improvement in radiation efficiency. However, the use of liquid helium as a
+eryogen limits the application of such antennas.
+
+(x) It is seen that conventional metal guides at mm wavelength have attenuations of the order of 10
+dB/m due to the high value of surface resistance of the metal walls at ~ 200 GHz, Therefore,
+potential application for superconductors is also in the construction of electromagnetic waveguides.
+The advantage over conventional metal waveguides would be at the higher frequencies.
+
+(xi) Now it has been possible to design ceramic superconductors which can act at temperature > 77 Ky
+Le. it can act as hi-T, superconductors, These superconductors have advantage over low T,
+
+superconductors because liquid nitrogen can be used as coolant, which is cheaper and has better
+cooling due to its high thermal capacity,
+
+(xii) Other industrial applications of superconductors are through magnets, sensors, transducers and
+magnetic shielding.
+
+(xiii) Superconductors also have applications in power generation, energy storage, fusion, transformers
+and transducers.
 --- page 4 ---
 a. Description of N-type and P-type semiconductors with diagram - 3 + 2 Marks   10
 List of five differences in n-type and p-type semiconductors - 1×5 = 5 Marks
@@ -18256,6 +20926,48 @@ Application of it to describe magnetic levitation   3 marks
 c.
 4
 Page 9 of 18
+
+[Text in pictures on this page, read by OCR]
+" Population Inversion- 1M
+For a system with three energy states viz. El (population N1), E2 (population N2) and E3 (population N3) in
+equilibrium such that El < E2 < E3, the uppermost level E3 is populated least whereas the lowest level El is
+populated most. Since the population in these states follow the trend N1 > N2 > N3, the system shall absorb
+photons rather than emitting them. However, when a sizable population of electrons is achieved in the upper levels,
+the condition is known as population inversion.
+
+Metastable State- IM
+Itis the excited energy level or higher energy level of an atom that have a longer lifetime than the ordinary excited
+states. In Metastable state rate of spontaneous decay to lower state is lower than any other state which results in
+population inversion.
+
+Digram 2M | Construction of semiconductor LASER 2M
+Semiconductor laser is made up of an active layer of gallium
+arsenide (GaAs) of thickness 0.2 microns. This is sandwiched in
+between a n-type GaAsAl and p-type GaAsAl layer as shown in Fig.
+The resonant cavity is provided by polishing opposite faces of the
+re tall GaAs crystal and the pumping occurs by passing electrical current
+7 from an ordinary source (Power Supply). From this system GaAs
+(2p ny semiconductor, laser beams of wavelength ranging from 7000 A to.
+
+re Ay 30,000 A can be produced.
+
+ialad 4p Working of semiconductor LASER. 2M
+When the current is passed through a p-n junction diode in forward
+bias, holes move from p-region to n-region and the electrons move
+from n-region to p-region. These electrons and holes are
+recombined in the junction region and emit photons due to the
+
+transition of electrons from the conduction band to the valence
+band. This results in stimulated radiation coming from a very
+narrow region near the junction. The action is intensified by
+increasing the current and decreasing the junction thickness.
+
+Advantages of Semiconductor LASER (Any two) _ _ 2M
+1. Ithas remarkably small size,
+2. exhibits high efficiency
+3. It can be operated at low temperature.
+4, Highly monochromatic
+5. Tunable and continues beam.
 --- page 10 ---
 - Stalewewt 4, (aw of mass cetion
 . L____ 1 wey
@@ -18498,6 +21210,53 @@ e.
 II.   (Attempt Any 4 Questions)   80
 1.   20
 Page 3 of 18
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Any four applications — [1x4 Marks]
+
+(i) Superconducting cables can be used to transmit electric power over long distances without power
+losses,
+(ii) Superconductors can be used to check unwanted magnetic flux by using their diamagnetic property.
+(ili) By using superconductor, very fast and accurate computers can be developed.
+(iv) Superconductors are used to detect brain wave activities.
+(v) Superconductors are also used in harnessing the various forms of nuclear energies.
+
+(vi) Most successful application is to use superconducting wire to carry the large currents in high field
+electromagnets. Such superconducting magnets are widely used in modern particle accelerators.
+Superconducting magnets are also used in magnetic resonance imaging (MRI) in medicine.
+
+(vii) The superconducting quantum interference device (SQUID) may be configured as a magnetometer
+to detect incredibly small magnetic fields, i.¢., small enough to measure the magnetic fields in living
+organisms.
+
+(viii) Highly powerful strong field superconductor electromagnets are fabricated using liquid helium
+superconductors. These electromagnets are used in NMR spectrometers and NMR imaging that
+
+are employed in medical diagnosis. Electromagnets are also used to produce Josephson’s devices,
+electromagnetic shields and magnetically levitating world’s fastest trains.
+
+(ix) Low temperature superconductors have been used to construct fractional wavelength antennas,
+leading to a significant improvement in radiation efficiency. However, the use of liquid helium as a
+eryogen limits the application of such antennas.
+
+(x) It is seen that conventional metal guides at mm wavelength have attenuations of the order of 10
+dB/m due to the high value of surface resistance of the metal walls at ~ 200 GHz, Therefore,
+potential application for superconductors is also in the construction of electromagnetic waveguides.
+The advantage over conventional metal waveguides would be at the higher frequencies.
+
+(xi) Now it has been possible to design ceramic superconductors which can act at temperature > 77 Ky
+Le. it can act as hi-T, superconductors, These superconductors have advantage over low T,
+
+superconductors because liquid nitrogen can be used as coolant, which is cheaper and has better
+cooling due to its high thermal capacity,
+
+(xii) Other industrial applications of superconductors are through magnets, sensors, transducers and
+magnetic shielding.
+
+(xiii) Superconductors also have applications in power generation, energy storage, fusion, transformers
+and transducers.
 --- page 4 ---
 a. Description of N-type and P-type semiconductors with diagram - 3 + 2 Marks   10
 List of five differences in n-type and p-type semiconductors - 1×5 = 5 Marks
@@ -18611,6 +21370,48 @@ Application of it to describe magnetic levitation   3 marks
 c.
 4
 Page 9 of 18
+
+[Text in pictures on this page, read by OCR]
+" Population Inversion- 1M
+For a system with three energy states viz. El (population N1), E2 (population N2) and E3 (population N3) in
+equilibrium such that El < E2 < E3, the uppermost level E3 is populated least whereas the lowest level El is
+populated most. Since the population in these states follow the trend N1 > N2 > N3, the system shall absorb
+photons rather than emitting them. However, when a sizable population of electrons is achieved in the upper levels,
+the condition is known as population inversion.
+
+Metastable State- IM
+Itis the excited energy level or higher energy level of an atom that have a longer lifetime than the ordinary excited
+states. In Metastable state rate of spontaneous decay to lower state is lower than any other state which results in
+population inversion.
+
+Digram 2M | Construction of semiconductor LASER 2M
+Semiconductor laser is made up of an active layer of gallium
+arsenide (GaAs) of thickness 0.2 microns. This is sandwiched in
+between a n-type GaAsAl and p-type GaAsAl layer as shown in Fig.
+The resonant cavity is provided by polishing opposite faces of the
+re tall GaAs crystal and the pumping occurs by passing electrical current
+7 from an ordinary source (Power Supply). From this system GaAs
+(2p ny semiconductor, laser beams of wavelength ranging from 7000 A to.
+
+re Ay 30,000 A can be produced.
+
+ialad 4p Working of semiconductor LASER. 2M
+When the current is passed through a p-n junction diode in forward
+bias, holes move from p-region to n-region and the electrons move
+from n-region to p-region. These electrons and holes are
+recombined in the junction region and emit photons due to the
+
+transition of electrons from the conduction band to the valence
+band. This results in stimulated radiation coming from a very
+narrow region near the junction. The action is intensified by
+increasing the current and decreasing the junction thickness.
+
+Advantages of Semiconductor LASER (Any two) _ _ 2M
+1. Ithas remarkably small size,
+2. exhibits high efficiency
+3. It can be operated at low temperature.
+4, Highly monochromatic
+5. Tunable and continues beam.
 --- page 10 ---
 - Stalewewt 4, (aw of mass cetion
 . L____ 1 wey
@@ -18853,6 +21654,53 @@ e.
 II.   (Attempt Any 4 Questions)   80
 1.   20
 Page 3 of 18
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Any four applications — [1x4 Marks]
+
+(i) Superconducting cables can be used to transmit electric power over long distances without power
+losses,
+(ii) Superconductors can be used to check unwanted magnetic flux by using their diamagnetic property.
+(ili) By using superconductor, very fast and accurate computers can be developed.
+(iv) Superconductors are used to detect brain wave activities.
+(v) Superconductors are also used in harnessing the various forms of nuclear energies.
+
+(vi) Most successful application is to use superconducting wire to carry the large currents in high field
+electromagnets. Such superconducting magnets are widely used in modern particle accelerators.
+Superconducting magnets are also used in magnetic resonance imaging (MRI) in medicine.
+
+(vii) The superconducting quantum interference device (SQUID) may be configured as a magnetometer
+to detect incredibly small magnetic fields, i.¢., small enough to measure the magnetic fields in living
+organisms.
+
+(viii) Highly powerful strong field superconductor electromagnets are fabricated using liquid helium
+superconductors. These electromagnets are used in NMR spectrometers and NMR imaging that
+
+are employed in medical diagnosis. Electromagnets are also used to produce Josephson’s devices,
+electromagnetic shields and magnetically levitating world’s fastest trains.
+
+(ix) Low temperature superconductors have been used to construct fractional wavelength antennas,
+leading to a significant improvement in radiation efficiency. However, the use of liquid helium as a
+eryogen limits the application of such antennas.
+
+(x) It is seen that conventional metal guides at mm wavelength have attenuations of the order of 10
+dB/m due to the high value of surface resistance of the metal walls at ~ 200 GHz, Therefore,
+potential application for superconductors is also in the construction of electromagnetic waveguides.
+The advantage over conventional metal waveguides would be at the higher frequencies.
+
+(xi) Now it has been possible to design ceramic superconductors which can act at temperature > 77 Ky
+Le. it can act as hi-T, superconductors, These superconductors have advantage over low T,
+
+superconductors because liquid nitrogen can be used as coolant, which is cheaper and has better
+cooling due to its high thermal capacity,
+
+(xii) Other industrial applications of superconductors are through magnets, sensors, transducers and
+magnetic shielding.
+
+(xiii) Superconductors also have applications in power generation, energy storage, fusion, transformers
+and transducers.
 --- page 4 ---
 a. Description of N-type and P-type semiconductors with diagram - 3 + 2 Marks   10
 List of five differences in n-type and p-type semiconductors - 1×5 = 5 Marks
@@ -18966,6 +21814,48 @@ Application of it to describe magnetic levitation   3 marks
 c.
 4
 Page 9 of 18
+
+[Text in pictures on this page, read by OCR]
+" Population Inversion- 1M
+For a system with three energy states viz. El (population N1), E2 (population N2) and E3 (population N3) in
+equilibrium such that El < E2 < E3, the uppermost level E3 is populated least whereas the lowest level El is
+populated most. Since the population in these states follow the trend N1 > N2 > N3, the system shall absorb
+photons rather than emitting them. However, when a sizable population of electrons is achieved in the upper levels,
+the condition is known as population inversion.
+
+Metastable State- IM
+Itis the excited energy level or higher energy level of an atom that have a longer lifetime than the ordinary excited
+states. In Metastable state rate of spontaneous decay to lower state is lower than any other state which results in
+population inversion.
+
+Digram 2M | Construction of semiconductor LASER 2M
+Semiconductor laser is made up of an active layer of gallium
+arsenide (GaAs) of thickness 0.2 microns. This is sandwiched in
+between a n-type GaAsAl and p-type GaAsAl layer as shown in Fig.
+The resonant cavity is provided by polishing opposite faces of the
+re tall GaAs crystal and the pumping occurs by passing electrical current
+7 from an ordinary source (Power Supply). From this system GaAs
+(2p ny semiconductor, laser beams of wavelength ranging from 7000 A to.
+
+re Ay 30,000 A can be produced.
+
+ialad 4p Working of semiconductor LASER. 2M
+When the current is passed through a p-n junction diode in forward
+bias, holes move from p-region to n-region and the electrons move
+from n-region to p-region. These electrons and holes are
+recombined in the junction region and emit photons due to the
+
+transition of electrons from the conduction band to the valence
+band. This results in stimulated radiation coming from a very
+narrow region near the junction. The action is intensified by
+increasing the current and decreasing the junction thickness.
+
+Advantages of Semiconductor LASER (Any two) _ _ 2M
+1. Ithas remarkably small size,
+2. exhibits high efficiency
+3. It can be operated at low temperature.
+4, Highly monochromatic
+5. Tunable and continues beam.
 --- page 10 ---
 - Stalewewt 4, (aw of mass cetion
 . L____ 1 wey
@@ -19208,6 +22098,53 @@ e.
 II.   (Attempt Any 4 Questions)   80
 1.   20
 Page 3 of 18
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Any four applications — [1x4 Marks]
+
+(i) Superconducting cables can be used to transmit electric power over long distances without power
+losses,
+(ii) Superconductors can be used to check unwanted magnetic flux by using their diamagnetic property.
+(ili) By using superconductor, very fast and accurate computers can be developed.
+(iv) Superconductors are used to detect brain wave activities.
+(v) Superconductors are also used in harnessing the various forms of nuclear energies.
+
+(vi) Most successful application is to use superconducting wire to carry the large currents in high field
+electromagnets. Such superconducting magnets are widely used in modern particle accelerators.
+Superconducting magnets are also used in magnetic resonance imaging (MRI) in medicine.
+
+(vii) The superconducting quantum interference device (SQUID) may be configured as a magnetometer
+to detect incredibly small magnetic fields, i.¢., small enough to measure the magnetic fields in living
+organisms.
+
+(viii) Highly powerful strong field superconductor electromagnets are fabricated using liquid helium
+superconductors. These electromagnets are used in NMR spectrometers and NMR imaging that
+
+are employed in medical diagnosis. Electromagnets are also used to produce Josephson’s devices,
+electromagnetic shields and magnetically levitating world’s fastest trains.
+
+(ix) Low temperature superconductors have been used to construct fractional wavelength antennas,
+leading to a significant improvement in radiation efficiency. However, the use of liquid helium as a
+eryogen limits the application of such antennas.
+
+(x) It is seen that conventional metal guides at mm wavelength have attenuations of the order of 10
+dB/m due to the high value of surface resistance of the metal walls at ~ 200 GHz, Therefore,
+potential application for superconductors is also in the construction of electromagnetic waveguides.
+The advantage over conventional metal waveguides would be at the higher frequencies.
+
+(xi) Now it has been possible to design ceramic superconductors which can act at temperature > 77 Ky
+Le. it can act as hi-T, superconductors, These superconductors have advantage over low T,
+
+superconductors because liquid nitrogen can be used as coolant, which is cheaper and has better
+cooling due to its high thermal capacity,
+
+(xii) Other industrial applications of superconductors are through magnets, sensors, transducers and
+magnetic shielding.
+
+(xiii) Superconductors also have applications in power generation, energy storage, fusion, transformers
+and transducers.
 --- page 4 ---
 a. Description of N-type and P-type semiconductors with diagram - 3 + 2 Marks   10
 List of five differences in n-type and p-type semiconductors - 1×5 = 5 Marks
@@ -19321,6 +22258,48 @@ Application of it to describe magnetic levitation   3 marks
 c.
 4
 Page 9 of 18
+
+[Text in pictures on this page, read by OCR]
+" Population Inversion- 1M
+For a system with three energy states viz. El (population N1), E2 (population N2) and E3 (population N3) in
+equilibrium such that El < E2 < E3, the uppermost level E3 is populated least whereas the lowest level El is
+populated most. Since the population in these states follow the trend N1 > N2 > N3, the system shall absorb
+photons rather than emitting them. However, when a sizable population of electrons is achieved in the upper levels,
+the condition is known as population inversion.
+
+Metastable State- IM
+Itis the excited energy level or higher energy level of an atom that have a longer lifetime than the ordinary excited
+states. In Metastable state rate of spontaneous decay to lower state is lower than any other state which results in
+population inversion.
+
+Digram 2M | Construction of semiconductor LASER 2M
+Semiconductor laser is made up of an active layer of gallium
+arsenide (GaAs) of thickness 0.2 microns. This is sandwiched in
+between a n-type GaAsAl and p-type GaAsAl layer as shown in Fig.
+The resonant cavity is provided by polishing opposite faces of the
+re tall GaAs crystal and the pumping occurs by passing electrical current
+7 from an ordinary source (Power Supply). From this system GaAs
+(2p ny semiconductor, laser beams of wavelength ranging from 7000 A to.
+
+re Ay 30,000 A can be produced.
+
+ialad 4p Working of semiconductor LASER. 2M
+When the current is passed through a p-n junction diode in forward
+bias, holes move from p-region to n-region and the electrons move
+from n-region to p-region. These electrons and holes are
+recombined in the junction region and emit photons due to the
+
+transition of electrons from the conduction band to the valence
+band. This results in stimulated radiation coming from a very
+narrow region near the junction. The action is intensified by
+increasing the current and decreasing the junction thickness.
+
+Advantages of Semiconductor LASER (Any two) _ _ 2M
+1. Ithas remarkably small size,
+2. exhibits high efficiency
+3. It can be operated at low temperature.
+4, Highly monochromatic
+5. Tunable and continues beam.
 --- page 10 ---
 - Stalewewt 4, (aw of mass cetion
 . L____ 1 wey
@@ -19563,6 +22542,53 @@ e.
 II.   (Attempt Any 4 Questions)   80
 1.   20
 Page 3 of 18
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Any four applications — [1x4 Marks]
+
+(i) Superconducting cables can be used to transmit electric power over long distances without power
+losses,
+(ii) Superconductors can be used to check unwanted magnetic flux by using their diamagnetic property.
+(ili) By using superconductor, very fast and accurate computers can be developed.
+(iv) Superconductors are used to detect brain wave activities.
+(v) Superconductors are also used in harnessing the various forms of nuclear energies.
+
+(vi) Most successful application is to use superconducting wire to carry the large currents in high field
+electromagnets. Such superconducting magnets are widely used in modern particle accelerators.
+Superconducting magnets are also used in magnetic resonance imaging (MRI) in medicine.
+
+(vii) The superconducting quantum interference device (SQUID) may be configured as a magnetometer
+to detect incredibly small magnetic fields, i.¢., small enough to measure the magnetic fields in living
+organisms.
+
+(viii) Highly powerful strong field superconductor electromagnets are fabricated using liquid helium
+superconductors. These electromagnets are used in NMR spectrometers and NMR imaging that
+
+are employed in medical diagnosis. Electromagnets are also used to produce Josephson’s devices,
+electromagnetic shields and magnetically levitating world’s fastest trains.
+
+(ix) Low temperature superconductors have been used to construct fractional wavelength antennas,
+leading to a significant improvement in radiation efficiency. However, the use of liquid helium as a
+eryogen limits the application of such antennas.
+
+(x) It is seen that conventional metal guides at mm wavelength have attenuations of the order of 10
+dB/m due to the high value of surface resistance of the metal walls at ~ 200 GHz, Therefore,
+potential application for superconductors is also in the construction of electromagnetic waveguides.
+The advantage over conventional metal waveguides would be at the higher frequencies.
+
+(xi) Now it has been possible to design ceramic superconductors which can act at temperature > 77 Ky
+Le. it can act as hi-T, superconductors, These superconductors have advantage over low T,
+
+superconductors because liquid nitrogen can be used as coolant, which is cheaper and has better
+cooling due to its high thermal capacity,
+
+(xii) Other industrial applications of superconductors are through magnets, sensors, transducers and
+magnetic shielding.
+
+(xiii) Superconductors also have applications in power generation, energy storage, fusion, transformers
+and transducers.
 --- page 4 ---
 a. Description of N-type and P-type semiconductors with diagram - 3 + 2 Marks   10
 List of five differences in n-type and p-type semiconductors - 1×5 = 5 Marks
@@ -19676,6 +22702,48 @@ Application of it to describe magnetic levitation   3 marks
 c.
 4
 Page 9 of 18
+
+[Text in pictures on this page, read by OCR]
+" Population Inversion- 1M
+For a system with three energy states viz. El (population N1), E2 (population N2) and E3 (population N3) in
+equilibrium such that El < E2 < E3, the uppermost level E3 is populated least whereas the lowest level El is
+populated most. Since the population in these states follow the trend N1 > N2 > N3, the system shall absorb
+photons rather than emitting them. However, when a sizable population of electrons is achieved in the upper levels,
+the condition is known as population inversion.
+
+Metastable State- IM
+Itis the excited energy level or higher energy level of an atom that have a longer lifetime than the ordinary excited
+states. In Metastable state rate of spontaneous decay to lower state is lower than any other state which results in
+population inversion.
+
+Digram 2M | Construction of semiconductor LASER 2M
+Semiconductor laser is made up of an active layer of gallium
+arsenide (GaAs) of thickness 0.2 microns. This is sandwiched in
+between a n-type GaAsAl and p-type GaAsAl layer as shown in Fig.
+The resonant cavity is provided by polishing opposite faces of the
+re tall GaAs crystal and the pumping occurs by passing electrical current
+7 from an ordinary source (Power Supply). From this system GaAs
+(2p ny semiconductor, laser beams of wavelength ranging from 7000 A to.
+
+re Ay 30,000 A can be produced.
+
+ialad 4p Working of semiconductor LASER. 2M
+When the current is passed through a p-n junction diode in forward
+bias, holes move from p-region to n-region and the electrons move
+from n-region to p-region. These electrons and holes are
+recombined in the junction region and emit photons due to the
+
+transition of electrons from the conduction band to the valence
+band. This results in stimulated radiation coming from a very
+narrow region near the junction. The action is intensified by
+increasing the current and decreasing the junction thickness.
+
+Advantages of Semiconductor LASER (Any two) _ _ 2M
+1. Ithas remarkably small size,
+2. exhibits high efficiency
+3. It can be operated at low temperature.
+4, Highly monochromatic
+5. Tunable and continues beam.
 --- page 10 ---
 - Stalewewt 4, (aw of mass cetion
 . L____ 1 wey
@@ -19917,6 +22985,52 @@ CO- b   Define Wedge shaped film in case of thin film interference and write the
 [6]
 2,3;   .   and minima.   2 marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Schematic Diagram
+
+Quartz Tube Partially Silyered Mirror
+
+Atte
+“r= Laser
+ict Beam
+/ ahem
+
+Fully Stlvered Mirror
+
+Construction
+3M
+
+Energy Level Diagram
+
+Metastable State
+
+20.66 eV
+
+2061 eV
+6328 A
+Tae!
+
+18.70 ev
+
+6328 A
+Pa aied
+6228 A
+WA
+
+‘Spontaneous
+Emission
+
+He Ground state
+
+Working- 3M
+
+Radiation-less|
+Transition
+
+Ne
+
+2M
 --- page 3 ---
 BL-
 3,4
@@ -19942,6 +23056,51 @@ BL-   [10]
 U2
 Till here 3 marks
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Given:
+
+0)
+© = 40 seconds = —— degrees
+3600 ~
+
+=O, cians 8 = 0.12
+= sH00 The ians,8 = 0.12cm
+Formula:
+
+Spacing between the consecutive bright fringes is, B = Dy (for air film)
+The wavelength is, 4= 28 x 0
+A=2x 0.12 x 40 x — x 180
+
+3600
+
+= 46.54 x 10-8em
+) = 465449
+
+Newton’s ring experiment:
+
+2 \ A
+
+A
+]
+
+1.When a plano-convex lens of large radius of curvature is placed on a plane glass plate.an air film is formed between t
+
+Air in
+Co
+
+lower surface of the lens and upper surface of the plate. [10
+2.The thickness of the film gradually increases from the point of contact outwards.
+
+3.If monochromatic light is allowed to fall normally on this film,a system of alternate bright and dark concentric rings,
+
+centre dark is formed in the air film.
+4.These rings were first studied by Newton and hence they are known as Newton’s rings.
+5.They can be seen through a low power microscope focused on the film.
+
+6.Newton’s rings are formed as a result of interference between the waves reflected from the top and bottom surfaces o:
+
+air film formed between the lens and the plate.
 --- page 4 ---
 R-t R
 P. Q
@@ -20087,6 +23246,35 @@ Two dimensions with an example   -[1Mark]
 U6
 Three dimensions with an example -[1Mark]
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Cone of
+light eater
+
+MME g LMMMEEEElt0
+
+MMMMMEEEEEEEEEHEEEEEEll4
+{b)
+
+2 marks dia
+
+Let us consider an optical fibre into which the light is incident., we show a section of
+cylindrical optical fibre, The refractive index of the core is n! and that of the cladding is n2
+such that nl > n2. The refractive index of the medium form which the light is incident in the
+fibre is nO.
+
+NA = no.5in in = Ny sind = nysin (OOP — A’)
+
+2
+or NA= n,cos@, =n,,1—sin*@l = ny, -3
+1
+or NA= ni? — ng
+3 marks
+2 2
+vuion
+8, = 2Zsin71 ++
+
+2 marks
 --- page 8 ---
 Cc. Given clete en =a
 
@@ -20205,6 +23393,15 @@ Critical magnetic field, persistent current, zero resistance, critical magnetic 
 Messier’s effect , critical current, isotopic effect
 [1+1+1+1+2+1+1]Marks
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Gauss’s Law: The electric field's mapping is equal to the
+charge density divided by the permittivity of free space.
+The relationship between electric field and electric charge
+
+Gauss’s Law for Magnetism: The net magnetic flux out
+of any closed surface is zero. There is no such thing as
+a magnetic monopole
 --- page 12 ---
 Intensity distribution curve for single slit diffraction:
 
@@ -20255,6 +23452,23 @@ number (A) shows distinct trends:
 1.   Initial Increase: For light nuclei (small values of A),
 BE/A increases as nucleons (protons and neutrons) are added.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Intensity distribution curve for multiple slits diffraction:
+
+N=42
+100
+i 50
+-2n -5 0 ; on
+—, Y
+
+(01 M)
+
+Intensity distribution equation:
+1 = Ip (Sin? f/B%) (Sin® Ny/ Sin’y) acsancuetoes oars (01M)
+
+Where, (Sin? Ny/ Sin’), represents the interference pattern produced by N equally spaced point
+sources separated by a distance d.
 --- page 14 ---
 This means that adding nucleons generally enhances nuclear
 stability.
@@ -20376,6 +23590,52 @@ CO- b   Define Wedge shaped film in case of thin film interference and write the
 [6]
 2,3;   .   and minima.   2 marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Schematic Diagram
+
+Quartz Tube Partially Silyered Mirror
+
+Atte
+“r= Laser
+ict Beam
+/ ahem
+
+Fully Stlvered Mirror
+
+Construction
+3M
+
+Energy Level Diagram
+
+Metastable State
+
+20.66 eV
+
+2061 eV
+6328 A
+Tae!
+
+18.70 ev
+
+6328 A
+Pa aied
+6228 A
+WA
+
+‘Spontaneous
+Emission
+
+He Ground state
+
+Working- 3M
+
+Radiation-less|
+Transition
+
+Ne
+
+2M
 --- page 3 ---
 BL-
 3,4
@@ -20401,6 +23661,51 @@ BL-   [10]
 U2
 Till here 3 marks
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Given:
+
+0)
+© = 40 seconds = —— degrees
+3600 ~
+
+=O, cians 8 = 0.12
+= sH00 The ians,8 = 0.12cm
+Formula:
+
+Spacing between the consecutive bright fringes is, B = Dy (for air film)
+The wavelength is, 4= 28 x 0
+A=2x 0.12 x 40 x — x 180
+
+3600
+
+= 46.54 x 10-8em
+) = 465449
+
+Newton’s ring experiment:
+
+2 \ A
+
+A
+]
+
+1.When a plano-convex lens of large radius of curvature is placed on a plane glass plate.an air film is formed between t
+
+Air in
+Co
+
+lower surface of the lens and upper surface of the plate. [10
+2.The thickness of the film gradually increases from the point of contact outwards.
+
+3.If monochromatic light is allowed to fall normally on this film,a system of alternate bright and dark concentric rings,
+
+centre dark is formed in the air film.
+4.These rings were first studied by Newton and hence they are known as Newton’s rings.
+5.They can be seen through a low power microscope focused on the film.
+
+6.Newton’s rings are formed as a result of interference between the waves reflected from the top and bottom surfaces o:
+
+air film formed between the lens and the plate.
 --- page 4 ---
 R-t R
 P. Q
@@ -20546,6 +23851,35 @@ Two dimensions with an example   -[1Mark]
 U6
 Three dimensions with an example -[1Mark]
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Cone of
+light eater
+
+MME g LMMMEEEElt0
+
+MMMMMEEEEEEEEEHEEEEEEll4
+{b)
+
+2 marks dia
+
+Let us consider an optical fibre into which the light is incident., we show a section of
+cylindrical optical fibre, The refractive index of the core is n! and that of the cladding is n2
+such that nl > n2. The refractive index of the medium form which the light is incident in the
+fibre is nO.
+
+NA = no.5in in = Ny sind = nysin (OOP — A’)
+
+2
+or NA= n,cos@, =n,,1—sin*@l = ny, -3
+1
+or NA= ni? — ng
+3 marks
+2 2
+vuion
+8, = 2Zsin71 ++
+
+2 marks
 --- page 8 ---
 Cc. Given clete en =a
 
@@ -20664,6 +23998,15 @@ Critical magnetic field, persistent current, zero resistance, critical magnetic 
 Messier’s effect , critical current, isotopic effect
 [1+1+1+1+2+1+1]Marks
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Gauss’s Law: The electric field's mapping is equal to the
+charge density divided by the permittivity of free space.
+The relationship between electric field and electric charge
+
+Gauss’s Law for Magnetism: The net magnetic flux out
+of any closed surface is zero. There is no such thing as
+a magnetic monopole
 --- page 12 ---
 Intensity distribution curve for single slit diffraction:
 
@@ -20714,6 +24057,23 @@ number (A) shows distinct trends:
 1.   Initial Increase: For light nuclei (small values of A),
 BE/A increases as nucleons (protons and neutrons) are added.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Intensity distribution curve for multiple slits diffraction:
+
+N=42
+100
+i 50
+-2n -5 0 ; on
+—, Y
+
+(01 M)
+
+Intensity distribution equation:
+1 = Ip (Sin? f/B%) (Sin® Ny/ Sin’y) acsancuetoes oars (01M)
+
+Where, (Sin? Ny/ Sin’), represents the interference pattern produced by N equally spaced point
+sources separated by a distance d.
 --- page 14 ---
 This means that adding nucleons generally enhances nuclear
 stability.

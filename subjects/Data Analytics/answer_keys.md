@@ -1412,6 +1412,7 @@ CountryY 2.50
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_Computer_7032/Data Analytics/ANS_Data Analytics(702DB0I001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: text (20 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2108,6 +2109,34 @@ print(numerical_cols)
 print("\n--- Statistical Summary of Medicine Sales ---")
 print(df[drug_cols + ['Total_Sales']].describe())
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+--- Dataset Dimensions ---
+Rows: 58532, Columns: 13
+
+--- Data Types ---
+datum object
+Me1AB floate4
+M@1AE floate4
+Ne2BA floate4
+Ne2BE floate4
+NesB floated
+Nesc floatées
+RO3 floate4
+ROE floated
+Year inte4
+Month inte4
+Hour intea
+Weekday Name object
+
+dtype: object
+No missing values detected.
+
+--- Categorical Variables ---
+['datum', ‘Weekday Name’, ‘Day Period']
+
+--- Numerical Variables ---
+['M@1AB', "M@1AE', ‘N@2BA', ‘N@2BE', ‘N@5B', ‘N@5C', *R@3', ‘R@6', ‘Year’, ‘Month’, ‘Hour’, ‘Total_Sales', ‘Is_Weekend']
 --- page 17 ---
 # GroupBy Case 1: Average Total Sales by Weekday
 weekday_analysis   =   df.groupby('Weekday
@@ -2141,6 +2170,35 @@ plt.show()
 # Insight: The distribution is right-skewed, indicating many hours have low sales,
 but a few hours experience high "rush" volumes.
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+--- Statistical Summary of Medicine Sales ---
+
+M@1AB M@1AE N@2BA N@2BE NesB \
+
+count 50532. 50532. 50532. 50532. 50532.
+mean 0.209787 0.162365 @.161723 1.246842 0.368989
+std 2.556003 2.41619 0.453211 2.387392 2.930934
+25% e. e. 2. 2. e.
+50% e. e. 2. e. e.
+75% 8. e. e. 1.875000 @.000000
+max 7. 6. 6. 29. 15.
+
+NesC Re3 Re6 Total_Sales
+count 58532. 50532. 5532. 50532.
+mean 0.024736 @.229732 2.120878 2.525044
+std 0.217871 1.240513 2.391999 3.680968
+min 8. e. e. 8.
+25% 8. 8. a. 8.
+50% @. e. e. 1.
+75% e. e. e. 4.
+max 6. 25. 5. 37.
+
+Insight (Grouped by Weekday)
+Observation: Pharmacies often see peak sales on specific days (e.g., Mondays or Saturdays).
+
+--- Insight (Grouped by Day Period) ---
+Observation: Sales volume is usually highest during ‘Afternoon’ or ‘Evening’ when customers visit after work/school.
 --- page 18 ---
 # Visualization 2: Weekly Sales Volume (Univariate/Bivariate)
 plt.figure()
@@ -2164,6 +2222,22 @@ plt.show()
 # Insight: There are distinct peaks and valleys in sales, likely corresponding to
 pharmacy opening hours and peak commute times.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+30000 Univariate Analysis: Distribution of Hourly Total Sales
+
+25000
+20000
+
+2
+
+$ 15000
+10000
+
+5000
+
+15 20 2 wn
+Total Quantity Sold
 --- page 19 ---
 # Visualization 4: Medicine Category Correlations (Multivariate)
 plt.figure(figsize=(10, 8))
@@ -2177,6 +2251,35 @@ certain medications are often purchased together or serve similar seasonal needs
 # Visualization 5: Total Sales by Day Period & Weekend Status (Multivariate)
 plt.figure()
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+Bivariate Analysis: Hourly Sales Trend
+
+o—e—-e—__ oe. —,
+
+o 12 3 4 5 6 7 8 9 100 1 #12 13 14 15 1 #17 18 #19 2 21 2 2
+Hour of Day (24-hour format)
+
+Multivariate Analysis: Correlation Heatmap of Drug Categories 10
+
+0.17 0.16 0.2 0.15 0.038 0.06 0.12
+
+0.065 0.13 08
+
+0.055 0.1
+
+06
+0.11 0.14
+
+0.06 0.096
+-04
+
+0.012 0.023
+0.072 -02
+
+0.12 0.13 0.1 0.14 0.096 0.023 0.072 1
+
+MO1AB MO1AE NO2BA NO2BE NOSB NOSC RO3 RO6
 --- page 20 ---
 sns.boxplot(data=df,   x='Day_Period',   y='Total_Sales',   hue='Is_Weekend',
 palette='Set2')
@@ -2191,4 +2294,26 @@ outliers, indicating heavy footfall compared to weekday mornings.
 # Final Export of Cleaned Data
 df.to_csv('cleaned_sales_data.csv', index=False)
 ********** 20 **********
+
+[Text in pictures on this page, read by OCR]
+Morning
+
+Multivariate Analysis: Sales by Period and Weekend Status
+
+°
+
+°
+
+° °
+° °
+8 8
+
+Afternoon Evening
+Period of Day
+
+Is Weekend
+a No
+am Yes
+
+Night
 ````

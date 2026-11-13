@@ -269,6 +269,23 @@ Any three (6M)
 c. Centroid also known as geometric center or center of figure, of a plane figure or solid figure   [04]
 is the arithmetic mean position of all the points in the surface of the figure.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Sno Types of Representation Reaction Resisting
+
+Support by Force Load
+1. | Roller Support & Vertical
+
+Horizontal and | —jom,
+2. | Pinned Support A, vertical t
+
+Horizontal, vertical
+
+and 3
+3. Fixed Support moments
+
+Vertical
+4. | Simple Support t
 ````
 
 ## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 7feaf9ccca33
@@ -538,4 +555,21 @@ Any three (6M)
 c. Centroid also known as geometric center or center of figure, of a plane figure or solid figure   [04]
 is the arithmetic mean position of all the points in the surface of the figure.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Sno Types of Representation Reaction Resisting
+
+Support by Force Load
+1. | Roller Support & Vertical
+
+Horizontal and | —jom,
+2. | Pinned Support A, vertical t
+
+Horizontal, vertical
+
+and 3
+3. Fixed Support moments
+
+Vertical
+4. | Simple Support t
 ````

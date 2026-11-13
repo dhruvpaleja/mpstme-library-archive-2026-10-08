@@ -135,6 +135,27 @@ B.
 type of material involved and the nature of movement. The main types include falls,
 topples, slides, spreads, and flows. In a rockfall, individual rock fragments detach
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Accretionary
+
+prism Trench
+Volcano
+
+-1000°C---
+
+Lithospheric
+mantle a
+
+@® Magma reservoir
+mmm Oceanic crust
+eon Plate motion
+
+q Partial melt diapir
+Asthenospheric Area of melting
+
+tl
+menue + Fluid pathway
 --- page 5 ---
 from steep slopes or cliffs and fall freely through the air due to weathering or loss of
 support. Topples occur when a block of rock pivots forward and overturns due to

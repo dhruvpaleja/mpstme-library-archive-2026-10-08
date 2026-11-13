@@ -61,6 +61,24 @@ ii. One point one mark each—4 points   4
 A.   5
 5 marks
 Page 3 of 5
+
+[Text in pictures on this page, read by OCR]
+Factor Description
+
+Accessibility Both physical access to the destination via roads, boat or plane and the
+potential for the customer to book a trip to the destination.
+
+Attractions Both natural and man-made attractions, for example waterfall, museums,
+parks.
+
+Accommodation Any supply of overnight facilities incuding campsites, puest houses, hotel
+B&Bs.
+
+Amenities The physical infrastructure supporting the destination.
+
+Ancillary services The provision of catering, entertainment, information, etc.
+
+Source: Cooper. et al. (1993) o.81
 --- page 4 ---
 B.   5
 5 marks

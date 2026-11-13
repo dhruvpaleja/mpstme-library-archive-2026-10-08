@@ -89,6 +89,25 @@ BL- 1,2   normally perpendicular surface.
 Φ = E.S
 Magnetic Flux   2M
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Critical Velocity Terminal Velocity ¢
+
+The maximum velocity up to which fluid The constant maximum velocity attained by a
+flow remains streamlined (laminar) body falling through a fluid
+Fluid flow in pipes (hydrodynamics) Motion of objects in fluids (viscosity, drag)
+Occurs when flow changes from laminar to Occurs when net force on the body becomes
+turbulent zero
+Depends on viscous and inertial forces Balance of weight, buoyant force, and viscous
+(Reynolds number) drag
+Depends on density, viscosity, and radius of Depends on size, density of object, and
+pipe viscosity of fluid
+Related to type of flow (laminar/turbulent) Related to motion of falling body
+
+Rey 2r*(p-a)g
+Ye = — Ut = on
+
+Flow of water in a pipe Raindrop falling through air
 --- page 3 ---
 Magnetic flux is defined as the surface integral of the magnetic field (B) over a given
 area (A). In simpler terms, it's proportional to the number of magnetic field lines
@@ -258,6 +277,28 @@ V = IR
 Application to Metallic Conductor   2M
 •   In a metallic conductor, free electrons move under an applied electric field.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+By Archimedes principle,
+Upthrust force = loss of weight of body in liquid
+
+= weight of displaced liquid
+Since metal sphere falls with constant velocity, the total upward force is equal to the down ward
+force.
+“Total upward force = Downward force
+
+.: [force of viscosity ] +[upthrust force] = [Weight of the metal sphere]
+«« [67rNv] + [weight of displaced liquid ] = [Weight of the metal sphere]
+« [677rNv] +[(mass of displaced liquid )   g] = [(mass of metal sphere ) x g]
+
+« [67rNv] +[(volume of cisplaced liquid) (Density of liquid ) x g ]
+= = (volume of metal sphere) (Density of metal ) x g]
+
+« [erry] + x p x= (ex axa
+« [67rnv] 1=5 m8 g (d-g)
+
+v=2 r? g (dp)
+9 7
 --- page 8 ---
 • As voltage increases, current increases proportionally, provided temperature remains constant.
 •   The resistance RRR remains constant for a given conductor under constant physical
@@ -385,6 +426,26 @@ CO-2
 [6M]
 BL- 2,3
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Let, A=1= unit area around the point ‘X’
+h = Height of the cylinder
+
+iat dey 2
+
+= Depth of the point ‘X’ from free surface
+
+= Pressure (static) head
+p = Density of the liquid = mass of liquid /volume
+P= pressure at point ‘X’
+Downward force on unit area around point X = Weight of liquid inside the cylinder
+i.e. Pressure at point ‘X” =[mass of liquid in the cylinder]xg
+= [(Axh)xp]xg
+= [1xhxpxg]
+Thus, Pressure at point ‘X’ P=hpg
+Thus h, p, and g are the factors on which pressure at a point in a liquid depends.
+
+Hence, more depth more is the pressure.
 --- page 13 ---
 Velocity of larger bubble   3M
 State Coulomb’s law. How does the force between two charges change if the
@@ -542,6 +603,27 @@ CO -2
 [6M]
 BL- 2,3
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Relation between Velocity, Frequency
+and wavelength
+
+. Distance covered
+Hence, velocity = —————___
+
+time taken
+When disturbance travels through one full wave, then,
+
+Distance covered = Wavelength =A
+
+. Wavelength
+Time taken =~"
+Period
+
+v-A and taf
+T T
+f - frequency
+. v=fin
 --- page 5 ---
 b) Strain produced – 2M
 c) Extension in the wire - 1M
@@ -613,6 +695,34 @@ Proper derivation with all steps is compulsory   [10M]
 BL-2
 Diagram with label of all forces – 2M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Progressive waves Stationary waves
+
+Progressive waves are advancing waves For stationary waves there is no
+which move in the medium continuously | advancement of wave in any direction.
+
+with a finite velocity
+
+Energy flows across every plane in the There is no flow of energy across any plane
+direction of propagation of the wave.
+
+Each particle of the medium executes Except nodes, all the particles of medium
+, simple harmonic motion about its mean | execute simple harmonic motion with
+
+position with same amplitude varying amplitude.
+
+The phase of vibration varies All points between any pair of nodes
+
+continuously from point to point vibrate in the same phase, but phase
+
+suddenly reverses at each node.
+
+All the particles do not pass through All the particles pass through their mean
+their mean positions or reach their positions or reach their outermost
+outermost positions simultaneously positions simultaneously twice in periodic
+
+time.
 --- page 8 ---
 Explanation of Stoke’s law with equation -3 M
 Stokes law states that the force of viscosity experienced by a small metal sphere falling freely
@@ -634,6 +744,28 @@ BL-1   between the bodies. Two electrons placed at small separation are found to
 this repulsive force (Electric force) is only because of electric charge on electrons.
 Basic properties – 3M
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+By Archimedes principle,
+Upthrust force = loss of weight of body in liquid
+
+= weight of displaced liquid
+Since metal sphere falls with constant velocity, the total upward force is equal to the down ward
+force.
+“Total upward force = Downward force
+
+.. [force of viscosity ] +[upthrust force] = [Weight of the metal sphere]
+«. [677r/Nv] + [weight of displaced liquid ] = [Weight of the metal sphere]
++ [67rNv] +[(mass of displaced liquid ) < g] = [(mass of metal sphere ) x g]
+
+«: [677rnv] +[(volume of specs liquid) (Density of liquid ) x g]
+= (volume of metal sphere) (Density of metal ) x g]
+
++ [677rnv] + FS x pxgl= (Ex axa
+#[677rnv] => 1g (dg)
+
+—2 rg (d-p) | M
+verre —
 --- page 9 ---
 Additivity of charges
 If a system contains two point charges q1 and q2 , the total charge of the system is obtained
@@ -975,6 +1107,27 @@ CO -2
 [6M]
 BL- 2,3
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Relation between Velocity, Frequency
+and wavelength
+
+. Distance covered
+Hence, velocity = —————___
+
+time taken
+When disturbance travels through one full wave, then,
+
+Distance covered = Wavelength =A
+
+. Wavelength
+Time taken =~"
+Period
+
+v-A and taf
+T T
+f - frequency
+. v=fin
 --- page 5 ---
 b) Strain produced – 2M
 c) Extension in the wire - 1M
@@ -1046,6 +1199,34 @@ Proper derivation with all steps is compulsory   [10M]
 BL-2
 Diagram with label of all forces – 2M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Progressive waves Stationary waves
+
+Progressive waves are advancing waves For stationary waves there is no
+which move in the medium continuously | advancement of wave in any direction.
+
+with a finite velocity
+
+Energy flows across every plane in the There is no flow of energy across any plane
+direction of propagation of the wave.
+
+Each particle of the medium executes Except nodes, all the particles of medium
+, simple harmonic motion about its mean | execute simple harmonic motion with
+
+position with same amplitude varying amplitude.
+
+The phase of vibration varies All points between any pair of nodes
+
+continuously from point to point vibrate in the same phase, but phase
+
+suddenly reverses at each node.
+
+All the particles do not pass through All the particles pass through their mean
+their mean positions or reach their positions or reach their outermost
+outermost positions simultaneously positions simultaneously twice in periodic
+
+time.
 --- page 8 ---
 Explanation of Stoke’s law with equation -3 M
 Stokes law states that the force of viscosity experienced by a small metal sphere falling freely
@@ -1067,6 +1248,28 @@ BL-1   between the bodies. Two electrons placed at small separation are found to
 this repulsive force (Electric force) is only because of electric charge on electrons.
 Basic properties – 3M
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+By Archimedes principle,
+Upthrust force = loss of weight of body in liquid
+
+= weight of displaced liquid
+Since metal sphere falls with constant velocity, the total upward force is equal to the down ward
+force.
+“Total upward force = Downward force
+
+.. [force of viscosity ] +[upthrust force] = [Weight of the metal sphere]
+«. [677r/Nv] + [weight of displaced liquid ] = [Weight of the metal sphere]
++ [67rNv] +[(mass of displaced liquid ) < g] = [(mass of metal sphere ) x g]
+
+«: [677rnv] +[(volume of specs liquid) (Density of liquid ) x g]
+= (volume of metal sphere) (Density of metal ) x g]
+
++ [677rnv] + FS x pxgl= (Ex axa
+#[677rnv] => 1g (dg)
+
+—2 rg (d-p) | M
+verre —
 --- page 9 ---
 Additivity of charges
 If a system contains two point charges q1 and q2 , the total charge of the system is obtained
@@ -1408,6 +1611,27 @@ CO -2
 [6M]
 BL- 2,3
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Relation between Velocity, Frequency
+and wavelength
+
+. Distance covered
+Hence, velocity = —————___
+
+time taken
+When disturbance travels through one full wave, then,
+
+Distance covered = Wavelength =A
+
+. Wavelength
+Time taken =~"
+Period
+
+v-A and taf
+T T
+f - frequency
+. v=fin
 --- page 5 ---
 b) Strain produced – 2M
 c) Extension in the wire - 1M
@@ -1479,6 +1703,34 @@ Proper derivation with all steps is compulsory   [10M]
 BL-2
 Diagram with label of all forces – 2M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Progressive waves Stationary waves
+
+Progressive waves are advancing waves For stationary waves there is no
+which move in the medium continuously | advancement of wave in any direction.
+
+with a finite velocity
+
+Energy flows across every plane in the There is no flow of energy across any plane
+direction of propagation of the wave.
+
+Each particle of the medium executes Except nodes, all the particles of medium
+, simple harmonic motion about its mean | execute simple harmonic motion with
+
+position with same amplitude varying amplitude.
+
+The phase of vibration varies All points between any pair of nodes
+
+continuously from point to point vibrate in the same phase, but phase
+
+suddenly reverses at each node.
+
+All the particles do not pass through All the particles pass through their mean
+their mean positions or reach their positions or reach their outermost
+outermost positions simultaneously positions simultaneously twice in periodic
+
+time.
 --- page 8 ---
 Explanation of Stoke’s law with equation -3 M
 Stokes law states that the force of viscosity experienced by a small metal sphere falling freely
@@ -1500,6 +1752,28 @@ BL-1   between the bodies. Two electrons placed at small separation are found to
 this repulsive force (Electric force) is only because of electric charge on electrons.
 Basic properties – 3M
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+By Archimedes principle,
+Upthrust force = loss of weight of body in liquid
+
+= weight of displaced liquid
+Since metal sphere falls with constant velocity, the total upward force is equal to the down ward
+force.
+“Total upward force = Downward force
+
+.. [force of viscosity ] +[upthrust force] = [Weight of the metal sphere]
+«. [677r/Nv] + [weight of displaced liquid ] = [Weight of the metal sphere]
++ [67rNv] +[(mass of displaced liquid ) < g] = [(mass of metal sphere ) x g]
+
+«: [677rnv] +[(volume of specs liquid) (Density of liquid ) x g]
+= (volume of metal sphere) (Density of metal ) x g]
+
++ [677rnv] + FS x pxgl= (Ex axa
+#[677rnv] => 1g (dg)
+
+—2 rg (d-p) | M
+verre —
 --- page 9 ---
 Additivity of charges
 If a system contains two point charges q1 and q2 , the total charge of the system is obtained

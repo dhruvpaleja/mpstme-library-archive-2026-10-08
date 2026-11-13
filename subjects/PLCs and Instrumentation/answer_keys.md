@@ -143,6 +143,31 @@ Ex: ABB AC110, Bosch-Rexroth L25, Hitachi H-series.
 Architectural Block diagram of PLC. --- 03 M
 Description of each component used in the block diagram. --- 04 M
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+HORIZONTAL POLARIZER
+
+EMITTER nin i —-
+TTL TTT
+
+Receiver| | | | |
+
+LENS REFLECTOR
+VERTICAL POLARIZER
+(LIGHT PASSES THROUGH)
+REFLECTING
+
+HORIZONTAL POLARIZER TARGET
+
+EMITTER t=} td As |
+
+——
+RECEIVER
+
+LENS REFLECTOR
+
+VERTICAL POLARIZER
+(LIGHT IS BLOCKED)
 --- page 5 ---
 Q4.
 a) Comparison between Stain gauge and Piezoelectric transducer. ---10 M
@@ -168,6 +193,23 @@ inability to measure steady-state signals, susceptibility to temperature variati
 specialized signal conditioning circuits. Overall, while strain gauges are preferred for static and low-
 frequency measurements, piezoelectric transducers excel in dynamic and high-frequency applications.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Field Inputs Field Outputs
+
+Push
+Button ML POWER SUPPLY Q Lamp
+pe | 0 Contactor
+Switch U
+— N CPU + y
+Limit “
+Switch A P P
+U USER DATA U
+Push T MEMORY | MEMORY :
+Button
+tr SERIAL PORT
+
+PROGRAMMING DEVICE
 --- page 6 ---
 b) PLC ladder logic program with proper addressing for a bakery industry using relay logic,
 counter and data compare instructions. –-- 10 M
@@ -279,6 +321,37 @@ even if the temperature exceeds the required 30°C–40°C range during abnormal
 and durable, making it suitable for experimental setups where environmental conditions may vary.
 Additionally, thermocouples have a fast response time, allowing quick detection of temperature
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Function Block Diagram (FBD) Graphical languages Sequential Flow Chart (SFC)
+
+AUTO CALCL
+START STEP
+DI CALC PUMP
+v IN1_ OUT >-l ti_—=-
+mMANON-] FQ STEPA N| action p1 | D1_READY
+act IN2 D| ACTION D2 | D2_READY
+=
+Ladder Diagram (LD) STEP B N| AcTIOND3 | D3_READY
+D| actionD4 | D4_READY
+CALC1 3
+AUTO CALC PUMP
+1 i— In1 —_——_{ }—
+ACT Textual languages structured Text (ST)
+1/t#— 1n2
+MAN ON VAR CONSTANT X : REAL := 53.8 ;
+ia 2 : REAL; END_VAR
+
+VAR aFB, bFB : FB type; END VAR
+a _ -
+
+Instruction List (IL) DEB(A:=1, B:=‘OK’);
+
+Z := X - INT_TO_REAL (bFB.OUT1) ;
+
+A: LD ‘%IX1 (* PUSH BUTTON *) IF Z>57.0 THEN aFB(A:=0, B:=“ERR”) ;
+ANDN %MX5 (* NOT INHIBITED *) ELSE aFB(A:=1, B:=“Z is OK”);
+ST   %QX2 (* FAN ON *) END_IF
 --- page 10 ---
 changes and enabling better control of the heater. They are also cost-effective and easy to install
 compared to other sensors.
@@ -393,6 +466,30 @@ Explanation of its working. - 02 M
 Block diagram of discrete AC input module of PLC. - 03 M
 Explanation of its working. - 02 M
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+IS NEEDED TO:
+
+USE TO « Prevent voltage
+DROP THE transients from
+VOLTAGE damaging the
+
+TO LOGIC processor.
+
+LEVEL «Helps reduce the
+
+effects of electrical
+
+\ noise
+
+Oo— tO
+Current Signal
+FROM Limiting ac: Conditioning
+INPUT Resistor ISOLATOR Buffer, Filter, TO
+DEVICE hysteresis PROCESSOR
+Circuits
+
+o— ——o
 --- page 4 ---
 Q3.
 a) Constructional diagram of conductive capacitive sensor. - 04 M
@@ -410,6 +507,27 @@ of the control logic is implemented in software rather than through hardwired re
 RLC, where extensive wiring is required between devices and relay contacts, in a PLC this
 interconnection is achieved through the program (ladder logic or other languages), reducing
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+y IS NEEDED TO:
+
+CONVERTS THE AC / * Prevent voltage
+INPUT TO DC AND / transients from
+DROPS THE VOLTAGE / damaging the
+TO LOGIC LEVEL processor.
+*Helps reduce the
+/ effects of electrical
+NN \ / noise
+/
+\ /
+Oo . O
+Rectifier, c Ha
+FROM Resistor opTo- onaitioning
+INPUT Network ISOLATOR Buffer, Filter, PROCESSOR
+DEVICE hysteresis
+Circuits
+
+o— -—O
 --- page 5 ---
 complexity and installation time. Additionally, PLCs make it easier and faster to implement changes,
 as modifications can be done by simply editing the program without altering physical wiring, whereas
@@ -454,6 +572,33 @@ laboratories and process   like furnaces and engines.
 control circuits.
 control.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Field Inputs Field Outputs
+
+Push
+Button POWER SUPPLY Lamp
+2% {X}-4
+
+Limit 6)
+a | y Contactor
+J
+1
+
+Switch A, N
+Limit )
+Switch
+
+71 U USER DATA
+
+Push T MEMORY MEMORY U
+Button T
+
+SERIAL PORT
+
+CPU
+
+PROGRAMMING DEVICE
 --- page 6 ---
 b) Discussion about the OFF-delay timer instruction in PLC with neat timing diagram. – 04 M
 PLC ladder logic program with proper addressing for a boiler chimney indicator light using timer

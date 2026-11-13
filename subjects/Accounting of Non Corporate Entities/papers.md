@@ -36,6 +36,44 @@ March 2020, prepare Trading and Profit and Loss Account for the year ended 31st 
 2020 and a Balance Sheet as on that date after considering the adjustments given below:(15
 Marks)
 Page 2 of 3
+
+[Text in pictures on this page, read by OCR]
+From the following information provided to you by Sharma Traders. you are required to prepare
+Departmental Trading and Profit & Loss A/c and General Profit & Loss A/c for the year ended 31st
+march, 2025.
+
+Particulars Dept. M Dept. N Dept.C | Common
+
+z z z z
+Sales 1,60.000 | 3,20,000 4.80.000 -
+Purchases 1,20,000 80,000 40,000 -
+Opening Stock 1.44.000 1,36,000 1.20.000 -
+Closing Stock 1,60,000 1,68,000 1,62,000 -
+Audit Fees - - - 32.000
+Selling Expenses - - - 40,000
+Discount Received - - - 27,200
+Interest Paid - - - 34,800
+Distribution Expenses - - - 34,800
+Carriage Inward - - - 12,000
+Income Tax - - - 11,200
+Printing & Stationery - - - 18,000
+Telephone Charges - - - 10,500
+Power - - - 41,600
+Postage & telegram - - - 16,800
+Repairs to Machinery - - - 72,000
+Advertisement - - - 24,000
+Rent Paid - - - 65,600
+Additional information:
+
+1. Space occupied by Department M._N & C is 2,000 SQFT, 2,000 SQFT & 4.000 SQFT respectively.
+2. Value of machinery in Dept. M. Dept. N & Dept. C is Rs. 1,60,000, Rs. 80.000 and Rs. 2,40,000
+respectively.
+
+3. Horse Power used by machinery in dept. M.N & C is 300HP.200HP and 100HP respectively.
+
+4. Printing & Stationery; Postage & Telegram and Telephone charges are to be allocated equally.
+
+5. You are required to mention the basis of apportionment and Round off up to two decimals points.
 --- page 3 ---
 Adjustments:
 a) Closing Stock is valued at Rs. 4,75,000
@@ -45,6 +83,49 @@ d) Provide depreciation @ 10% p.a. on furniture
 e) Outstanding Salaries Rs. 10,000
 f) Prepaid Travelling Expenses Rs. 2,000
 Page 3 of 3
+
+[Text in pictures on this page, read by OCR]
+Trial Balance as on 31st March 2020
+
+Particulars Dr. (Rs.) Cr. (Rs.
+Share Capital 300,000
+Reserve Fund 60,000
+‘Creditors 40,000
+Profit & Loss A/c (4/4/2019) 1,50,000
+‘Opening Stock 3,60,000
+
+Fumitare 220,000
+
+Container Deposit 30,000
+
+Salaries 300,000
+
+Debtors ‘60,000
+
+‘Commission Bo,000
+
+Rent and Taxes ‘60,000
+
+Postage 8,000
+
+Travelling Expenses 18,000
+
+Printing and Stationery 12,000
+
+Admission Fees. 2,000
+Purchases: ‘63,759,000
+
+Coolie Charges & Freight 1,590,000
+
+Investments 2)25,000
+
+Sales 76,50,000
+‘Cash in hand ‘6,000
+
+Bank Balance 4,50,000
+Development Fund 9,000
+
+Total 81,81,000 | 81,581,000
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · paper 0fdeb8b01053

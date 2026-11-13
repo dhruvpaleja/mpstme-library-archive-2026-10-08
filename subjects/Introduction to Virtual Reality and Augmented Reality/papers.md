@@ -1,6 +1,6 @@
 # Introduction to Virtual Reality and Augmented Reality: question papers in full
 
-68 unique papers · 2022-23 to 2025-26 · Computer Engineering, Common (all branches), Data Science, Information Technology, Computer Applications (MCA), Mechanical, Electronics and Telecommunication, Artificial Intelligence, Cyber Security, AI and Data Science, AI and Machine Learning, Computer Science, Civil
+69 unique papers · 2022-23 to 2025-26 · Computer Engineering, Common (all branches), Data Science, Information Technology, Computer Applications (MCA), Electronics and Telecommunication, Mechanical, Artificial Intelligence, Cyber Security, AI and Data Science, AI and Machine Learning, Computer Science, Civil
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -2778,6 +2778,141 @@ CO - 04; (10)
 SO - 01; b. Explain the steps to setup an XR project in Unity.
 
 BL- 02 :
+````
+
+## 2024-25 · Final-Exam · Sem 8 · paper 1a9f1bd6c899
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: EXTC/SEMESTER VIII/INTRODUCTION TO VIRTUAL REALITY AND AUGMENTED REALITY/Introduction_to_Virtual_Reality_and_Augmented_Reality__Sem-VIII__Year_2024-25_Final_Exam_HlAjQqn1i7.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03/05/2025
+- Text: ocr (2 pages), mean OCR confidence 91.1
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+
+Program/s: B. Tech/ B. Tech Integrated Year: [V/VI Semester: VIIE/XII
+Stream/s : Electronics and Telecommunication Engineering
+
+Subject: Introduction to Virtual Reality and Augmented Reality Time: 03 hrs (10:00 am to 01:00pm)
+Date: 03/05/2025 No. of Pages: 02
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20] -
+
+aa 7 a 3 a List and briefly explain any three types of sensors commonly used with ESP32 for AR/VR (0s)
+
+BL- 02 * | applications. How do they contribute to immersive experiences?
+
+= = Ha b Demonstrate, with a simple block diagram, how an ESP32-based system can be used to control (05)
+
+BL- 03. * | adigital twin representation in an AR interface.
+
+CO - 03; ater p A 7 . ai (05)
+
+S0-02: |c Evaluate the feasibility of using an Arduino-driven force feedback system in a VR-based training
+
+BL-0. 4. * | simulator. Discuss its limitations and improvements.
+
+CO - 04; p 5 P P (05)
+
+SO-07: 1d Design an architecture for a hybrid AR system that integrates sensor data from both ESP32 and
+
+BL-0. 5 * | Arduino. Justify your choices in terms of real-time processing, scalability, and reliability.
+
+Q2 | (20)
+A research team is developing a VR-based sign language learning application using MediaPipe Hand
+Tracking. The system captures real-time hand gestures and translates them into virtual hand animations
+within a VR environment. The goal is to provide an interactive and immersive learning experience for
+users. j
+
+CO - 03; Tasks to be answered:
+
+$0-06; Explain how MediaPipe Hand Tracking can be integrated into the VR application to detect and interpret ”
+
+BL- 04 hand gestures.
+
+Discuss how gesture data can be used to trigger animations or actions in the VR scene.
+Propose an efficient data processing pipeline to ensure real-time performance in VR.
+Identify potential challenges and limitations in implementing this system and suggest solutions.
+--- page 2 ---
+Q3 [ (20)
+
+Your team is developing an MR-based industrial training simulation using Meta Quest 2 and Meta XR
+All-in-One SDK. The simulation will train workers in a factory to assemble complex machinery using
+virtual guides overlaid on real-world components. The project must include precise object tracking,
+interactive 3D models, and hand gesture controls.
+
+CO - 03; Tasks to be answered:
+SO - 06; Explain the core workflow for setting up this MR training simulation using Meta XR SDK and Building
+BL- 04 Blocks.
+
+Describe the role of object recognition and tracking in aligning virtual guides with real-world parts.
+Outline the integration of hand gestures to allow users to manipulate virtual components naturally.
+Discuss the challenges of user interaction and spatial mapping in an MR training environment and
+propose solutions.
+
+Q4 | {20}
+
+Ina VR-based driving simulator, you need to script realistic car physics, including steering, acceleration, .
+and braking. The user will control the vehicle using VR controllers and experience real-time physics
+
+feedback.
+CO - 04; Tasks to be answered:
+SO - 06; Explain how C# scripts can be used to implement wheel physics and fares) application in Unity’s
+BL - 06 Rigidbody-based system,
+
+Describe how you would use VR controller input mapping to control acceleration and steering.
+Provide a C# script snippet (pseudo-code) to apply force to the wheels based on VR controller trigger ©
+
+input.
+Qs [20}
+CO - 02; Explain the different types of GameObjects used in a VR environment. Provide examples of at (10)
+SO-03; | a. | least four GameObject types (such as Static Objects, Dynamic Objects, UI Elements, and
+BL - 03 Interactive Objects) and describe their role in a VR scene. “
+sO i Wa b Describe the steps to load a new scene in Unity using C#. How can scene transitions be handled (10)
+BL- 03. * | smoothly to improve user experience in a VR environment?
+Q6 [20]
+CO - 03; Describe the basic steps to connect a single-board microcontroller (e.g., ESP32, Arduino) with (15) |
+SO-07; | a. | Unity to send sensor data. Mention the communication protocol commonly used and how data
+BL - 02 is received in Unity. .
+So p Re b What is the difference between Augmented Reality (AR), Virtual Reality (VR), and Mixed 05)
+BL . o * | Reality (MR)? Provide an example where MR is more beneficial than AR or VR.
+
+Qi ; [20]
+
+You are leading the development of a VR rhythm-based action game, similar to Beat Saber, where
+players use virtual swords to hit moving targets in sync with background music. The game must feature _
+dynamic audio effects, haptic feedback, and customizable difficulty levels.
+
+CO - 04; Tasks to be answered:
+SO - 05; Explain the game logic and mechanics, detailing how targets spawn and respond to player interactions.
+BL-05 Describe how real-time audio analysis can be used to synchronize target movement with music beats.
+
+Outline the integration of haptic feedback and visual effects to enhance user experience.
+Discuss the challenges of latency and synchronization in VR and propose solutions to ensure
+responsiveness.
 ````
 
 ## 2024-25 · Final-Exam · Sem 3 · paper 18c425b6b93d

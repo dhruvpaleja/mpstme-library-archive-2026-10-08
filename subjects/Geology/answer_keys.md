@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_Civil_7005/Geology/ANS_Geology(702BS0C081)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2026
 - Text: text (23 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -198,6 +199,30 @@ tilt), atmospheric composition, and tectonic changes. Ice ages lead to major
 changes in sea levels, climate zones, and habitats, which in turn influence
 evolution and extinction. There is often a relationship between ice ages and
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The given core pieces are: 26.6 cm, 31 cm, 44.9 cm, 6.4 cm, 25.5 cm, 21.6 cm, 8 cm, and
+
+recovery.
+Only pieces greater than 10 cm are counted:
+
+50,
+
+Length of pieces more than 10 cm
+ROD = “eth o' pisess mer “ < 100
+Total core run length
+
+The question says 250 m borehole, but since the core pieces are given in cm, this is alm
+
+to be a 250 cm core run in the usual classroom-style ROD problem. Taking the total ruy
+
+149.6
+
+RQD = x 100 = 59.84%
+
+So, the ROD = 59.84%, or approximately 60%.
+
+This indicates fair rock quality.
 --- page 6 ---
 extinction events, as drastic climatic shifts can eliminate species unable to adapt to
 cold or changing environments.
@@ -310,6 +335,21 @@ continuously rose and created new oceanic crust. The plates moved apart, and the
 ocean basin widened over millions of years. This stage is governed by the concept
 of seafloor spreading, where new crust is generated and pushed outward.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+aN
+
+Early Rifting
+
+Continued thinning of crust and mantle lithosphere
+
+Advanced Rifting
+
+Passive margin New Oceanic crust created at Mid-Ocean Ridge
+
+\ Y
+
+—_ Upwelling &
 --- page 10 ---
 4
 Stage 4: Mature Atlantic Ocean
@@ -318,6 +358,22 @@ continental margins on either side. Sediments accumulated along the margins, and
 the ocean continued to widen as the plates moved apart. This stage reflects a
 mature divergent plate boundary system.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Embryonic
+African rift valley
+
+Young
+
+Red Sea
+
+Gulf of California
+Mature
+Arctic, Southern, pal
+North and South Atia|
+
+Terminal
+Mediterranean Sea
 --- page 11 ---
 4
 What was the name of the sea between India and Tibet and what happened to
@@ -374,6 +430,21 @@ At divergent boundaries, plates move away from each other. Magma rises to fill
 the gap, creating new crust. This process is known as seafloor spreading and is
 seen at mid-ocean ridges.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+aN
+
+Continued thinning of crust and mantle lithosphere
+
+Early Rifting
+
+Advanced Rifting
+
+Passive margin New Oceanic crust created at Mid-Ocean Ridge
+
+\ V
+
+—_ Upwelling &
 --- page 15 ---
 4
 At convergent boundaries, plates move toward each other. One plate may
@@ -381,6 +452,38 @@ subduct beneath another (in oceanic-continental or oceanic-oceanic cases), or bo
 may collide (continental-continental), leading to mountain building. This involves
 the concept of subduction and orogeny.
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Where the Ridge
+rises above sea
+
+5 Volcanic Mid Atlantic Ocean Ridge —a
+level islands such Vent range of submarine mountains
+as Iceland are and volcanoes.
+
+created
+
+An
+
+—
+
+Atlantic —
+Ocean ~~
+
+al
+
+Earth's N American Plats moves West Eurasian Plate moves East
+Crust =
+
+{oceanic}
+G ~X ~~
+
+Mantle
+
+Convection Currents
+Drive the plates apart
+
+A constructive or DIVERGENT plate margin
 --- page 16 ---
 4
 At transform boundaries, plates slide past each other horizontally. This lateral
@@ -539,6 +642,17 @@ through plucking and abrasion, converting it into a deep U-shaped valley.
 Tributary glaciers, being smaller, erode less deeply.
 6   a.   Distinguish between the physical features of hardness and lustre in minerals   10
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+anticline
+
+axis
+syncline
+axial plane
+symmetrical asymmetrical overfold recumbent
+fold fold fold
+
+© 2015 Encyclopedia Britannica, Inc.
 --- page 22 ---
 CO-3,   Hardness is the resistance of a mineral to scratching. It is measured using the Mohs
 1   scale of hardness, which ranges from 1 (softest) to 10 (hardest). The concept
@@ -718,6 +832,32 @@ and interpreting their cooling environments, depth of emplacement, and
 magma evolution.
 Formation of Directive Textures in Igneous Rocks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Weathering, erosion,
+transportation
+and deposition
+
+The Rock
+Cycle
+
+Extrusive
+Earth’s Surface
+
+Burial,
+compaction &
+cementation
+
+igneous rock
+
+Cooling
+
+Sedimentary
+rock
+
+Deeper burial,
+
+Melting heat and pressure
 --- page 3 ---
 Directive textures refer to the preferred orientation or alignment of
 mineral grains, crystals, or inclusions within igneous rocks, produced due
@@ -1356,6 +1496,57 @@ sorting, and rounding, indicating the energy and distance of transport. A second
 important type is crystalline texture, typical of chemically precipitated rocks such
 as limestone or gypsum, where minerals form interlocking crystals rather than
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+THE ROCK CYCLE
+
+CONTINENTS OCEANS
+
+compaction —-Puriel —TSnsper! Sediment
+cementation: natty
+
+Sedimentary Fiocks
+
+bons Dissolved
+in Ocean Water
+
+bio-precipitatiorn
+
+burial, compaction,
+cam entation
+
+Sedimentary Rocks
+
+erosion, weathering, rarsport
+_ J neathering
+erosion erosion \
+
+| Yoleanic & Plutonic
+deep burial — Igneous Rocks
+
+elting Yolosnic & Plutonic
+
+subduction of oceanic sediments: Igneous Rocks
+
+inelling above A
+duction subduction zones:
+
+Metamorphic Rocks
+
+trveltirng at mid-
+
+i ocean ridges
+Processes Driven
+MANTLE
+b= —————
+
+Processes Driven subduction ———"| by internal Heat
+by Solar En ‘at tranches: ;
+¥ egy melting
+} |) weathering subduction
+transport deep burial
+
+erosion uplift
 --- page 4 ---
 transported fragments. A third is bioclastic texture, where the rock consists of
 visible remains or fragments of organisms, such as shells or skeletal material,
@@ -1608,6 +1799,40 @@ laterite formation at the top. This layered basaltic sequence gives the region i
 characteristic “step-like” topography (hence the term “traps,” from the Swedish
 word trappa meaning stairs).
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+68° 76° 84° 92°
+
+36°
+
+Distribution of Deccan trap
+
+20°.
+
+rp
+
+ares
+9, 300 Km
+
+70°E 72°E 74°E 76°E 78°E 80°E
+1 1 1 1 1 1 1 1 1 1 1
+
+regions dominated
+——~ by compound
+KAC ic flows
+
+20°N4
+| Decean Traps
+(unexposed area,
+mostly subsurface)
+18°N
+Lon BB Deccan Traps a
+16°N4 ARABIAN SEA   Oligocene-Miocene Clear
+
+sediments I ix
+
+0 200 km
+—
 --- page 10 ---
 a.   10
 Folds are bends in rock layers formed due to compressional forces, and they are
@@ -1646,6 +1871,15 @@ gradually builds extensive flat surfaces called floodplains. The key concept
 involved is sediment sorting, where particle size determines the distance of
 transport and place of deposition.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Upright fold
+Recumbent fold
+Inclined fold
+Reclined fold
+Overturned fold Upright ou, recumbent fold,
+
+inclined fold reclined fold overturned fold
 --- page 11 ---
 Stage-wise process of deposition
 1. Flood Stage (Overflow):
@@ -1791,6 +2025,31 @@ deposition, and metamorphism. These principles help in understanding Earth
 materials and are essential for applications in engineering, construction, and
 environmental studies.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Mohs Hardness Scale ‘2
+
+Co
+Mineral Name Scale Number Common Object
+a Diamond 10 =
+cb) ed ra Masonry Drill Bit
+¢q ¥ Corundum 9 a, (8.5)
+ue} Topaz 8 G
+iS Steel Nail
+at & Quartz 7 (6.5)
+Orthoclase 6 :
+lo) 0) BA i Knife/Glass Plate
+¢q 5 E (5.5)
+Apatite 5
+Or =
+s = Fluorite 4 a Copper Penny
+Sb / (6)
+5 Calcite 3 8
+{ Fingernail
+S t (2.5)
+
+es} o Gypsum 2
+Talc 1
 ````
 
 ## 2025-26 · Re-Exam · Sem 3 · Answer key · paper a5d3c2399a9c
@@ -2050,6 +2309,27 @@ minerals rich in magnesium and iron, such as olivine and pyroxene.
 • The upper mantle (up to ~700 km) includes the asthenosphere, a
 semi-molten, plastic layer that allows tectonic plates to move.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+(a) Coupled margin
+
+thrust loading
+and rapid flexural
+foreland subidence
+
+(b) Neutral margin foreland basin
+
+no thrust loading
+and slow, limited
+foreland subsidence
+
+foreland basin
+
+no thrust loading,
+
+no accommodation,
+and foreland uncon-
+formity development
 --- page 7 ---
 • The lower mantle is more rigid due to high pressure, but it still flows
 slowly over geological time.
@@ -2091,6 +2371,21 @@ temperature and pressure cause rocks to melt partially, forming magma.
 2
 This magma then rises through the crust due to its lower density compared to
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Lithosphere
+(crust and upper-
+most solid mantle)
+
+Crust 0-100 km
+thick [
+
+Core
+Outer core
+
+Inner core Not to scale
+
+To scale
 --- page 8 ---
 surrounding solid rocks. As it moves upward, several processes determine the
 type and texture of the igneous rock that will form.

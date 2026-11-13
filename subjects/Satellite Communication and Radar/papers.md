@@ -1,6 +1,6 @@
 # Satellite Communication and Radar: question papers in full
 
-10 unique papers · 2016-17 to 2023-24 · Electronics and Telecommunication
+19 unique papers · 2013-14 to 2023-24 · Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -611,6 +611,132 @@ C0-1,4; SO-1- :
 Page 2 of 2
 ````
 
+## 2018-19 · Final-Exam · Sem 8 · paper 1bd5668af082
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: EXTC/SEMESTER VIII/SATELLITE COMMUNICATION AND RADAR/SATELLITE_COMMUNICATION_AND_RADAR_2018-19_FINAL_EXAM_.pdf`
+- Printed on paper: max marks: 70; exam date: 12 April 2019
+- Text: ocr (2 pages), mean OCR confidence 91.5
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program B.Tech (EXTC) Year: IV. Semester: VIII
+. Academic Year: 2018-2019
+
+Subject: Satellite Communication and Radar Marks: 70 ‘
+/ %
+Date : 12 April 2019 / Time2.00 pm to 5.00,pmMe~   \%,
+Duration: (¢hrs) LIBRARY
+No. of Pagé
+
+Final Examination (2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the covér of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Q.1 is compulsory.
+
+2. Out of remaining questions, attempt any four questions.
+
+3. Inall five questions to be attempted.
+
+4. All question carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets indicates full marks.
+7. Illustrate your answers with neat labelled diagram wherever necessary.
+
+Q.1 Attempt any four questions. Each question carries 3.5 marks. (14M)
+
+A Name different navigation systems designed by various countries. Give orbit
+: name, altitude and frequency bands used for navigation satellites.
+B State and explain the Doppler Effect and pulse repetition frequency in Radar.
+
+Cc Classify satellite orbits and also give their applications.
+
+D List various applications of Radar technology. Mention Indian Radar systems
+with applications.
+
+E Describe Kepler’s three laws for planetary motion that applies to satellites
+
+orbiting the earth with diagram.
+
+Q2 A Discuss TDMA frame structure and advantages of TDMA in satellite
+
+communications. (7™)
+B Define the following terms with diagram:(Any 4) (7™)
+
+i. Apogee
+
+ii. Perigee
+
+iii. Eccentric anomaly
+
+iv. Sub satellite point
+
+Vv. Azimuth Angle
+
+vi. Elevation angle
+
+Q3 A Discuss in detail principle of Moving Target Indicator Radar System.
+Also explain the Butterfly effect and blind speed in MTI Radar. (7™)
+B Derive Radar range equation as a function of S/N minimum. Explain the factors
+
+affecting maximum radar range. (7™)
+
+1/2
+--- page 2 ---
+Q4
+
+Q5
+
+. Q.6
+
+Q.7
+
+What are the various Satellite subsystems. Explain with diagram Telemetry,
+Tracking command and monitoring system. (7™)
+A satellite is in an elliptical orbit with a perigee of 1000 Km and an apogee of
+4000 Km. Using a mean earth radius of 6378.14 Km, find the period of the
+
+orbit in hours, minutes, and seconds, and the eccentricity of the orbit. (Assume
+
+Lt = 3.986004418 X 10°) (7)
+
+Derive general link design link equation. Find out expressions for C/N and G/T
+ratio in satellite communication. (7™)
+Explain in detail Indian Regional Navigation System (IRNSS) architecture.
+
+(7M)
+
+(i) MTI radar operates at 5 GHz, with a pulse repetition frequency of 800
+pps. Calculate the lowest three blind speeds of this radar. (3M)
+
+“(ii) Calculate the maximum range of a radar system which operates at 3 cm
+
+with a peak pulse power of 500 kW if its minimum receivable power is
+10°3 W, the capture area of its antenna is 5 m’, and the radar cross-
+
+sectional area of the target is 20 m?. (4M)
+Classify Radar systems and Radar displays. Explain in detail A scope display
+used in Radar. Mention its applications. (7™)
+Write short notes with diagram on any 3 of the following. (14M)
+VSAT
+CW Doppler Radar System
+
+Single conversion transponder ,
+GPS signal structure
+Cross Polarization discrimination and polarization isolation
+
+2/2
+````
+
 ## 2018-19 · Final-Exam · Sem 10 · paper 3fe965f251f2
 
 - Departments: Electronics and Telecommunication
@@ -1036,6 +1162,320 @@ B | GPS 07
 C | Radar system losses 07
 ````
 
+## 2017-18 · Final-Exam · Sem 8 · paper 45e422005ee9
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: EXTC/SEMESTER VIII/SATELLITE COMMUNICATION AND RADAR/SATELLITE COMMUNICATION AND RADAR (EXTC), FINAL EXAM 2017-18.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 05 May 2018
+- Text: ocr (3 pages), mean OCR confidence 90.7
+
+````text
+——
+
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINED RINGe
+: ‘i
+
+| Programme:B. Tech (EXTC) Year: IV
+
+J % *
+Academic Year: 2017-2018 ( pe!
+i me . DEA
+Subject:Satellite Communication and Radar \ “ig Nee at “ee
+Marks:60 * Misa saves 4
+Date:05 May 2018 Time: 2.00 pm to 5. ee
+Durations: 3 (hrs)
+No. of Pages : os
+Final Examination
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+1) Question No. 1 is compulsory.
+2) Out of remaining questions, attempt any 4 questions. .
+>) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary,
+Q.1 Attempt any four questions
+A. Define the Terms with Diagram a) Apogee b) Retrograde Orbit C) [3]
+Descending Node.
+B. Differentiate Geostationary & Geosynchronous Satellite. [3]
+C. Explain the effect of Rain depolarization. [3]
+D. The sum of Apogee & Perigee distances of a certain elliptical satellite orbit [3]
+is 50,000 KM & the difference of Apogee & Perigee distances is 30,000 KM.
+Determine the eccentricity.
+E. State the applications of RADAR. [3]
+onieanaaaal
+gee. Q.2
+; A. A 3m Diameter parabolic Satellite antenna operates at 6.8 GHz. Determine [4]
+the half power beamwidth, beamwidth between first nulls & gain of antenna
+in dB
+2
+--- page 2 ---
+B. Draw the Block Diagram of MTI RADAR & Explain the function of each [8]
+Block. Explain how it detects moving target with the help of waveforms.
+
+a
+
+A. State and explain Kepler’s laws with diagram and prove third law. {6]
+
+B. Explain the Expendable launch vehicle technology for launching [6]
+Geostationary Satellites.
+
+Q.4
+
+»
+
+A. A satellite Carrying an 11.7 GHz Continuous Wave Beacon Transmitter is [6]
+located in Geosynchronous orbit 38000KM From an earth station. Beacon’s
+output power is 200 mW & it feed antenna with an 18.9 dB gain towards the
+earth Station. Earth Station Receiving antenna is 12 ft. in diameter& has
+aperture efficiency of 50-%. Assume overall noise temperature of earth
+station is to be 1250 K.
+
+i. Calculate Satellite EIRP in dBW
+ii. Calculate Receiver antenna gain in dB
+iii. Calculate Path loss in dB
+iv. Calculate Received signal power in dBm :
+v. Calculate Receiver noise power in 100 Hz noise bandwidth
+
+vi. Calculate Receiver carrier to noise ratio in 100Hz noise
+bandwidth
+
+B. Draw & Explain Attitude Control Subsystem & state its functions. [6]
+
+Q.5
+
+A. Explain VSAT Technology with any one VSAT Network Configuration. [6]
+
+es B. Draw & explain various Scanning patterns used in Radars. [6]
+--- page 3 ---
+~ Q.6
+
+A. A marine radar operating at 10 GHz has a maximum range of 50KM with [6]
+antenna gain of 4000. if transmitter has power of 250 kW & minimum
+detectable signal of 1071! W. Determine the cross section of target the radar
+can sight, also calculate unambiguous range of radar, Duty Cycle & average
+
+power if pulse repetition frequency is 1500 pps, pulse width is 0.8 usec.
+
+B. Compare TDMA, FDMA and CDMA with diagram and applications. [6]
+
+Q.7 "Write Short Notes on (Any Two) [12]
+
+A. Methods to calculate the effect of Depolarization.
+
+»
+B. GPS
+
+Cc. FMCW RADAR
+
+3/3
+````
+
+## 2017-18 · Re-Exam · Sem 8 · paper 53c985ba12e4
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: EXTC/SEMESTER VIII/SATELLITE COMMUNICATION AND RADAR/SATELLITE_COMMUNICATION_AND_RADAR_B_TECH_(EXTC)__BATCH_17-18_RE_EXAM__WEHaFQERMP.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 29 June 2018
+- Text: ocr (2 pages), mean OCR confidence 94.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: IV Semester: VIII
+
+Batch: (2017-18)
+Academic Year: 2017-18
+
+Subject: Satellite Communication and Radar
+Marks: 60
+
+Date: 29 June 2018 Time: 10.00 am to 1.00 pm
+‘ Durations: 3 (hrs)
+No. of Pages:
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No.___1__is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+3)Inall__5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1. Answer any 3 only. (12 marks)
+1.What are the advantages and drawbacks of satellite communication over terrestrial
+Communication?
+2.State Kepler’s laws.
+3.Explain the function of Radar cross section?
+4.Discuss briefly various frequencies and application of IRNSS.
+
+Q2a. Describe principle of MTI radar with a neat diagram. (6 marks)
+
+b. Discuss the working of telemetry tracking and command center with a neat diagram.
+(6 marks)
+Q3a. What is meant by system noise temperature and inter modulation noise. How does it affect
+C/N ratio. (6 marks)
+b. Explain briefly the architecture of VSAT system. Mention various access control protocols
+used in VSAT. (6 marks)
+Q4a. Explain the terms: look angle, coverage angle and satellite range. (6 marks)
+b. Derive expression for radar range equation and explain significance of the various parameters.
+(6 marks)
+
+Page 1 of 2
+--- page 2 ---
+Q5a. What are different losses to be considered in satellite system? How are they minimized?
+
+(6 marks)
+b. Explain in detail TDMA frame structure along with reference and traffic burst structure.
+(6 marks)
+Q6a.Discuss objectives to be considered while designing a down link in satellite system. Discuss
+steps involved in downlink design with a suitable example. (8 marks)
+b. Describe various RADAR scanning and tracking methods. (4 marks)
+_ Q7.Write short note on the following: (Any three) (12 marks)
+
+(a.) DBS receiver
+(b.) RCS of a Complex Target.
+(c.) CW radar
+
+(d.) Double conversion transponder
+
+Page 2 of 2
+````
+
+## 2016-17 · Final-Exam · Sem 8 · paper 8b62ba82efb0
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: EXTC/SEMESTER VIII/SATELLITE COMMUNICATION AND RADAR/SATELLITE_COMMUNICATION_AND_RADAR_B_TECH_(EXTC)__2016-17_FINAL_EXAM_CrfRadj6Da.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 06 May 2017
+- Text: ocr (2 pages), mean OCR confidence 92.8
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGI
+
+a
+7
+
+Programme: B. Tech (EXTC) Year: IV Semester: VIII
+“ | (, mw Pst a A
+Academic Year: 2016-2017 a 1BRAR
+ry
+: Subject: Satellite Communication and Radar wg Ore rie”
+Marks: 60 —
+Date: 06 May 2017 Time: 2.00 pm to 5.00 pm
+Durations: 3 (hrs)
+No. of Pages:
+
+Final-Examinations
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1. Q.1 is compulsory.
+
+2. Out of remaining questions, attempt any four questions.
+
+3. In all five questions to be attempted.
+
+4. All question carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figure in brackets indicates full marks.
+
+7. Illustrate your answers with neat labelled diagram wherever necessary.
+
+Q.1 Attempt any four questions. Each question carries 3 marks. (12M)
+
+A List various navigation systems designed by various countries. Also mention
+Navigation system and Augmentation system of India. Give L1 and L2
+frequencies values for GPS.
+
+B List various DTH service providers in India. Which type of Antennas can be used
+for DTH reception?
+
+Cc Define Doppler Effect and pulse repetition frequency in Radar.
+
+D List various Satellite orbits on diagram and give their applications.
+
+E State Kepler’s three laws for planetary motion that applies to satellites orbiting
+the earth with diagram.
+
+Q2 A Compare FDMA, TDMA and CDMA with diagram. (6M)
+
+B Explain the following terms: (6M)
+i. Apogee
+ii. Perigee
+iii. Eccentric anomaly
+iv. Sub satellite point
+Vv. Azimuth Angle
+vi. Elevation angle
+
+— Q3 A Derive Radar range equation as a function of S/N minimum. Explain the
+factors affecting maximum radar range. (6M)
+ge B Draw and explain block diagram of Moving Target Indicator Radar System.
+Explain Butterfly effect and blind speed in MTI Radar. (6M)
+Q4 A Describe procedure of installation of Satellite Dish antenna for DTH reception
+
+and also discuss low noise block converter (LNBC) with diagram. (6M)
+
+B A satellite is in an elliptical orbit with a perigee of 1000 Km and an apogee of
+
+» Page 1 of 2
+--- page 2 ---
+Qs A
+
+Q6 A
+
+Q.7
+
+4000 Km. Using a mean earth radius of 6378.14 Km, find the period of the
+orbit in hours, minutes, and seconds, and the eccentricity of the orbit. (Assume
+t= 3.986004418 X 105) (6M)
+
+Derive general link design link equation. Find out expressions for C/N and G/T
+
+ratio in satellite communication. (6M)
+List various satellite subsystems. Describe Double conversion Transponder with
+diagram. (6M)
+
+(i) MTI radar operates at 5 GHz, with a pulse repetition frequency of 800
+pps. Calculate the lowest three blind speeds of this radar. (3M)
+
+(ii) Calculate the maximum range of a radar system which operates at 3 cm
+with a peak pulse power of 500 kW if its minimum receivable power is
+10°3 W, the capture area of its antenna is 5 m’, and the radar cross-
+sectional area of the target is 20 m?. (3M)
+
+Give classification of Radar systems and Radar displays. Explain in detail Plan
+
+position indicator system (PPI) used in Radar. (6M)
+Write short notes with diagram on any 3 of the following. (12M)
+FMCW Altimeter and its applications ‘
+VSAT Architecture
+
+Telemetry Tracking and Command System (TT&C)
+Cross Polarization discrimination and polarization isolation
+GPS segments
+
+Page 2 of 2
+````
+
 ## 2016-17 · Final-Exam · Sem 6 · paper 3936d05a1064
 
 - Departments: Electronics and Telecommunication
@@ -1171,4 +1611,597 @@ GPS
 [2]
 
 [12]
+````
+
+## 2015-16 · Final-Exam · Sem 8 · paper 8e0c8e6a37a1
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: EXTC/SEMESTER VIII/SATELLITE COMMUNICATION AND RADAR/SATELLITE_COMMUNICATION_AND_RADAR_B_TECH_(EXTC)__2015-16_FINAL_EXAM_aMw0d98CZb.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 09/05/2016
+- Text: ocr (2 pages), mean OCR confidence 92.0
+
+````text
+SVKM’s NMIMS
+
+Programme: B. Tech (EXTC) Year: IV Semester: VIII
+Academic Year: 2015-2016
+
+Subject : Satellite Communication and Radar
+
+Marks: 60
+Date : 09/05/2016 Time : 10.00 am to 1.00 p
+Durations: 3 (hrs)
+
+Final-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+NB:
+1. Question No. 1 is compulsory.
+2. Out of remaining questions, attempt any four questions.
+3. In all five questions to be attempted.
+4. All question carry equal marks.
+“>. Answer to each new question to be started on a fresh page.
+6. Figure in brackets indicates full marks.
+7. Illustrate your answers with neat labelled diagram wherever necessary.
+
+Q.1 Attempt any four questions. Each question carries Three marks. (12M)
+
+A. What are the applications of Radar system?
+B_ State Kepler’s Laws and prove the third law.
+C._ List the various DTH services in India.
+
+D_ Define the terms:
+
+i. Ascending node
+
+ii. Descending node
+
+iii. Prograde orbit
+
+iv. Retrograde orbit
+
+v. Angle of inclination
+vi. Argument of Perigee
+
+a E_ Explain Rain depolarization.
+
+Q.2 A. Explain Orbital perturbations in satellite communication system. (6M)
+B Compare LEO, MEO, and GEO satellites. (6M)
+Q.3 A. Derive carrier to noise power ratio for uplink and downlink and the combined (6M)
+C/N, ratio.
+B_ Draw the block schematic MTI radar system and explain the same. What is (6M)
+blind speed?
+aeeed
+Q4 A. Anearth station situated in the Docklands of London, England needs to (6M)
+pass calculate the look angle to a geostationary satellite in the Indian Ocean operated
+by Intelsat. The details of the earth station site and the satellite are as follows:
+
+Earth station latitude and longitude are 52.0° N and 0°.
+Satellite longitude (sub satellite point) is 66.0° E.
+( Re = 6,378 Km, Rs = 42,164 Km)
+
+B. Explain three axis and spin axis stabilization techniques. (6M)
+Q.5 A. Draw and explain FMCW radar system and state the applications. (6M)
+B.A satellite has following parameters: (6M)
+--- page 2 ---
+Pad
+
+we i
+
+ry
+
+Q.6
+
+Q7
+
+A
+
+i. Uplink:
+Saturation flux density = -68 dBW/m?
+Input back off = 11 dB
+Satellite G/T ratio = -12 dB/K
+ii. Downlink:
+Saturation EIRP= 26.5 dBW
+Output back off = 6dB
+Transmission path loss = 203 dB
+Earth station G/T = 41 dB/K
+Calculate carrier to noise power density ratio for uplink & downlink
+and the combined value. Neglect the terms which are not given.
+What is Radar cross section? Explain radar cross section of sphere and Rod.
+Explain how the geostationary satellite is launched into its final circular orbit
+with zero inclination using ELV. Compare ELV and STS.
+
+Write short notes with diagram on any three of the following.
+
+Code division multiple access
+GPS architecture
+
+Double conversion transponder
+Radar displays
+
+2/2.
+
+(6M)
+(6M)
+
+(12M)
+````
+
+## 2014-15 · Final-Exam · Sem 8 · paper 9f520938b774
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: EXTC/SEMESTER VIII/SATELLITE COMMUNICATION AND RADAR/SATELLITE COMMUNICATION B TECH (EXTC), FINAL EXAM 14-15 .pdf`
+- Printed on paper: exam date: 08/05/2015
+- Text: ocr (2 pages), mean OCR confidence 92.4
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech (EXTC) Year: IV Semester: VIII
+} Academic Year: 2014-2015 ae ce
+| Subject: Satellite Communication and Radar SS
+Marks; ; x
+Date: 08/05/2015 Time | mips Me anit pm
+puri 3 ra)
+Final-Examination a
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the answer book, which is provided for their use
+1. Question No. 1 is compulsory
+2. Out of the remaining questions, attempt any four questions
+3. In all5 questions to be attempted
+= 4. Answer to each question must be started on a new page
+5. Figures on the right indicate full marks
+
+Q1 a. Whatis spot beam? Explain its use is satellite communication. 03
+b. Explain what is meant by FDMA, and show how this differs from FDM. 03
+c. What do you mean by reliability? Explain the significance of the bath tub curve 03
+
+d. Derive the relationship between the minimum detectable radar signal, Smin and the 03
+signal-to-noise ratio
+
+Q2 a. What you mean by satellite attitude? Distinguish between 3-axis and spin-stabilized 06
+satellites.
+b. Define and explain what is meant by frame efficiency in relation to TDMA operation. 06
+In a TDMA network the reference burst and the preamble each requires 560 bits,
+and the nominal guard interval between burst is equivalent to 120bits. Given that
+there are eight traffic bursts and one reference burst per frame and the total frame
+length is equivalent to 40800 bits, calculate the frame efficiency.
+
+Q3 a. An observation satellite is to be placed into a circular equatorial orbit so that it 06
+moves in the same direction as the earth’s rotation. Using a synthetic aperture radar
+system, the satellite will store data on surface barometric pressure, and other
+weather related parameters, as it flies overhead. These data will later be played back
+to a controlling earth station after each trip around the world. The orbit is to be
+designed so that the satellite i s directly above the controlling earth station, which is
+located on the equator, once every 4 hours. The controlling earth station’s antenna is
+unable to operate below an elevation angle of 10° to the horizontal in any direction.
+Taking the earth’s rotational period to be exactly 24 hours, find the following
+
+quantities: (Hint: Consider the earth’s rotation speed)
+
+gx i. The satellite's angular velocity in radians per second.
+
+ii. The orbital period in hours.
+iii. | The orbital radius in kilometers.
+
+4/2.
+--- page 2 ---
+b. What you mean by the radar cross section? Describe the chief characteristic of the 06
+radar echo from a target when its RCS is in the (a) Rayleigh region (b) resonance
+region (c) optical region
+
+Q4 a i. Explain what is meant by the geostationary orbit and why is there only one 06
+geostationary orbit.
+ii. | A satellite is in a circular orbit around the earth. The altitude of the satellite’s
+orbit above the surface of the earth is 1,400 km. (i) What are the centripetal
+and centrifugal accelerations acting on the satellite in its orbit? Give your
+answer in m/s?. (ii) What is the velocity of the satellite in this orbit? Give
+your answer in km/s. (iii) What is the orbital period of the satellite in this
+orbit? Give your answer in hours, minutes, and seconds. Note: assume the
+average radius of the earth is 6,378.137 km and Kepler’s constant has the
+value 3.986004418 x105km3/s2 ~
+b. A radar is mounted on an automobile is to be used to determine the distance toa 06
+vehicle traveling directly in front of it. The radar operates at a frequency of
+9375MHz (X band) with a pulse width of 10ns. The maximum range is to be 500ft.
+
+i. What is the pulse repetition frequency that corresponds to a range of
+500ft?
+
+ii. What is the range resolution?
+
+ili. If the antenna dimensions were 1ft by 1ft and the antenna efficiency
+were 0.6, what would be the antenna gain (dB)?
+
+iv. Find the average power required to detect a 10m? radar cross section
+
+vehicle of 500ft, if the minimum detectable signal is 5x10-3W
+
+Q5 a. Explain orbital effects in communication system’s performance 06
+b. Explain the difference between cross-polarization discrimination and polarization 06
+isolation. Explain how depolarization is caused by rain.
+
+Q6 a. i. Explain how intermodulation noise originates in a satellite link and describe 06
+how it may be reduced.
+ii. In a satellite circuit, the carrier-to-noise ratios are uplink 25dB; downlink
+
+20dB; intermodulation 13dB. Calculate the overall carrier-to-noise ratio
+b. What are the limitations of CW Radar and how are these limitations overcome using 06
+
+FMCW radar?
+Q7 Explain the following:
+— a. Range ambiguity in radars 03
+b. VSAT network architectures 03
+pate c. GPS positillon location principle 03
+: d. Kepler’s laws of orbital motion 03
+
+x
+
+x
+````
+
+## 2014-15 · Re-Exam · Sem 8 · paper bbad1023b62a
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: EXTC/SEMESTER VIII/SATELLITE COMMUNICATION AND RADAR/SATELLITE_COMMUNICATION_AND_RADAR_B_TECH_(EXTC)__BATCH_2014-15_RE_EXAM_CsZUO6j3Mf.pdf`
+- Printed on paper: exam date: 30/06/2015
+- Text: ocr (2 pages), mean OCR confidence 93.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: IV Semester: VII
+Batch: 2014-15
+Academic Year: 2014-2015
+, Subject: Satellite Communication and Radar
+| Marks:
+| Date: 30/06/2015 Time:
+Durations:
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the answer book, which is provided for their use
+
+1. Question No. 1 is compulsory
+
+2. Out of the remaining questions, attempt any four questions
+
+3. Inall 5 questions to be attempted
+
+4. Answer to each question must be started on a new page
+
+5. Figures on the right indicate full marks
+
+Q1 a. Why is it preferable to optrate the satellite position west than east of the earth 03
+station longitude?
+
+b. Explain in brief losses in radar 03
+
+c. Explain sun synchronous orbit 03
+
+d. What is the basic difference between search radar and tracking radar? 03
+
+Q2 a. Discuss interference effects in satellite link design 06
+
+b. Three identical large earth stations with 500W saturate output power transmitters 06
+access a 36MHz bandwidth transponder using FDMA. The transponder saturated
+output power is 40W and is operated with 3dB output backoff when FDMA is used.
+The gain of transponder is 105dB in its linear range. The bandwidths of earth station
+signals are
+Station A 15MHZ
+StationB 10MHZ
+StationC SMHZ
+Find the power level at output of each transponder in dBW for each earth station
+signal, assuming that the transponder is operating in the linear region with 3dB
+output backoff.
+
+Q3. a. i. A quasi-GEO satellite is in circular equatorial orbit close to geosynchronous 06
+altitude. However it doesnot have the period of 1 sidereal day; its orbit
+period is exactly 24 hours. Calculate
+a. Radius of orbit
+b. Rate of drift around equator of the subsatellite in degrees per solar day.
+
+An observer on the earth sees that a satellite is drifting across the sky.
+c. Is the satellite moving towards east or west?
+b. What you mean by the radar cross section? Explain the same in context of sphere, 06
+
+Z. Ip
+--- page 2 ---
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+a
+
+cone and rod.
+
+i. A satellite is in a circular orbit around the earth. The altitude of the satellite’s
+orbit above the surface of the earth is 1,400 km. (i) What are the centripetal
+and centrifugal accelerations acting on the satellite in its orbit? Give your
+answer in m/s2. (ii) What is the velocity of the satellite in this orbit? Give
+your answer in km/s. (iii) What is the orbital period of the satellite in this
+orbit? Give your answer in hours, minutes, and seconds. Note: assume the
+average radius of the earth is 6,378.137 km and Kepler’s constant has the
+value 3.986004418 x105km3/s2
+
+ii. Explain earth station design considerations
+
+is If the noise figure of a receiver is 2.5dB, what reduction (measured in dB)
+occurs in SNR at the output compared to the input SNR?
+ii An MTI radar is operating at 10 GHz with a prf of 1000 Hz. Calculate the
+
+lowest three blind speeds.
+
+Compare advantages TDMA, FDMA and DS-SS CDMA in satellite signals.
+Derive the uplink design equation for a satellite link with respect to saturation flux
+density, input backoff, earth station high power amplifier and rain fade margin.
+
+Compare expendable launch vehicle and space transportation method of launching
+satellites.
+
+Derive the expression for Doppler frequency shift in terms of transmitted frequency
+and radial component of target velocity vector.
+
+Explain the following:
+
+Staggered PRF
+
+Frequency reuse in satellite communication
+DTH systems
+
+Need of stabilization techniques for GEO satellite
+Fe HK
+
+06
+
+06
+
+06
+06
+
+06
+
+06
+
+03
+03
+03
+03
+````
+
+## 2013-14 · Final-Exam · Sem 8 · paper 53db976258e5
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: EXTC/SEMESTER VIII/SATELLITE COMMUNICATION AND RADAR/SATELLITE_COMMUNICATION_AND_RADAR_B_TECH_(EXTC)__2013-14_FINAL_EXAM_2tKYr2e45k.pdf`
+- Printed on paper: exam date: 09/05/2014
+- Text: ocr (2 pages), mean OCR confidence 93.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B. Tech (Electronics & Telecommunication) Year: IV Semester: VIII
+
+Academic Year: 2013-2014 _—
+
+LN
+Subject : Satellite Communication and Radar YA = Xe, Y
+Marky: ps TM {ods -
+Date : 09/05/2014 Ti 0.90; ate >
+
+Instruction: Candidates should carefully read the instructions printed on the question paper and
+on the cover of the answer book, provided for use.
+
+NB:
+1) Question No. 1 is compulsory
+2) Out of the remaining questions, attempt any four
+3) Inall five questions to be attempted
+4) Answer to each new question to be started on a new page
+5) Figure in brackets indicate full marks
+
+1) Attempt all the questions
+
+a) State Kepler’s 3 Laws of planetary motion and give the mathematical formulation (proof)
+of Kepler’s third Law. (5)
+
+b) A satellite at a distance of 40,000km from a point on the earth’s surface radiates a power
+of 10W from an antenna with a gain of 17dB in the direction of the observer. Find the
+flux density at the receiving point, and the power received by an antenna at this point
+
+with an effective area of 10m’. (5)
+c) Derive the simple radar range equation (5)
+d) What are the system design considerations that influence the design of a satellite
+communication system (5)
+
+a 2)
+a) What is the difference, or are the differences, between a geosynchronous satellite and a
+
+geostationary satellite orbit? A satellite is in a 322 km high circular orbit above the
+surface of the earth. Determine:
+
+i) The orbital angular velocity in radians per second;
+ii) The orbital period in minutes; and
+iii) The orbital velocity in meters per second.
+
+Note: assume the average radius of the earth is 6,378.137 km and Kepler’s constant has
+the value 3.986004418 x10° km3/s? (10)
+
+b) Why perturbation occurs in satellite? Explain orbital perturbations in detail. (10)
+--- page 2 ---
+3)
+
+4)
+
+5)
+
+6)
+
+7)
+
+a) Ina link-budget calculation at 12GHz, the free-space loss is 206dB, the antenna pointing
+loss is 1dB, and the atmospheric absorption is 2dB. The receiver [G/T] is 19.5dB/K and
+
+receiver feeder losses are 1dB. The EIRP is 48dBW. Calculate the carrier-to-noise
+spectral density ratio.
+
+k = 1.38x10™ J/K (10)
+
+b) Explain the need for input and output backoff. Derive the equation for combined C/N
+ratio for uplink and downlink. (10)
+
+a) Differentiate between 3 axis and spin stabilized satellite. (5)
+
+b) What do you mean by Reliability and explain the Bathtub curve? (5)
+
+c) Explain Telemetry, Tracking and Command System with suitable block diagram (10)
+
+a) Explain single conversion and double conversion transponder with block diagram (10)
+b) (i) If a radar is designed for operation at 10GHz with an antenna diameter of 2m,
+
+calculate peak pulse power required to have a max. range of 1000km with the target RCS
+area of 20m’. Consider the min. detectable signal of 36x107°w.
+
+(ii)With 3MHz of radar receiver bandwidth, calculate the highest range resolution
+
+realizable with this radar. (10)
+a) Explain the following MTI radar and FMCW radar (10)
+b) Describe the brief characteristics of the radar echo from a spherical target when its RCS
+is in the (i) Rayleigh region, (ii) resonance region, and (iii) optical region (10)
+Write notes on any four (20)
+a) VSAT
+b) GPS
+
+c) Cross polarization discrimination
+
+d) Rain depolarization
+
+e) Ionospheric Scintillations
+
+f) Advantages and disadvantages of FDMA
+
+x
+````
+
+## 2013-14 · Re-Exam · Sem 8 · paper dc0514276376
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: EXTC/SEMESTER VIII/SATELLITE COMMUNICATION AND RADAR/SATELLITE_COMMUNICATION_AND_RADAR_BATCH_2013-14_RE_EXAM_tbO6FIOug6.pdf`
+- Printed on paper: exam date: 01/07/2014
+- Text: ocr (1 page), mean OCR confidence 94.0
+
+````text
+SVKM’s NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech (EXTC) Year: IV Semester: VIII
+Batch : 2013-2014
+_ Academic Year: 2013-2014
+Subject : Satellite Communication and Radar
+Marks:
+Date : 01/07/2014 Time:
+
+Durations:
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+
+on the cover of the answer book, which is provided for their use.
+
+NB:
+
+1. Question No.1 is compulsory.
+
+2. Out of the remaining questions, attempt any 4 questions.
+3. In all 5 questions to be attempted.
+
+4. Answer to each question to be started on a fresh paper.
+5. Figures on the right hand side indicate full marks.
+
+Q1. Explain any five questions:-
+
+Q2 A
+
+Q3 oA
+
+Q4 A
+
+Q5 A
+
+Q6 A
+
+Q7 A
+
+Significance of microwave freq in satellite communication
+Sun synchronous orbit
+
+Polarization of satellite signals
+
+Life time and reliability
+
+Input multiplexer transponder
+
+Gain to noise temperature
+
+Principle of FDMA
+
+Compare LEO MEO GEO
+Explain earth eclipse of satellite
+
+A satellite moving in highly eccentric orbit having the farthest and closest points as
+35000km and 500km respectively from the surface of earth.Determine the orbital time
+and the velocity at the apogee and perigee points assuming radius of earth 6360km.
+
+What is meant by frequency reuse and describe briefly two methods by which
+this can be achieved
+
+Explain radar cross section for simple targets
+What do you understand by back — off condition at the transponder? Why is it required?
+How does it affect satellite link performance?
+
+Discuss the technical procedure to change the orbit from parking to geostationary orbit
+Explain PN sequence in CDMA and DSS CDMA.
+
+Explain TTC system
+Explain mesh and star connection for VSAT
+
+Explein continuous wave radar and MTI radar
+Derive the radar range equation and conclude
+
+® xX
+
+20
+
+10
+10
+
+10
+
+10
+
+10
+10
+
+10
+
+10
+
+10
+10
+
+10
+10
 ````

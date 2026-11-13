@@ -155,6 +155,23 @@ CO1; SO1;   .   following S-box 1 for input value 111010. Write the steps   ]
 BL-High   followed for the same.
 S1 0   1   2   3   4   5   6   7   8   9 10 11 12 13
 0 14   4 13   1   2 15 11   8   3 10   6 12   5   9
+
+[Text in pictures on this page, read by OCR]
+1
+
+Block 1
+23 4
+
+Block 8
+29 30 31 32
+
+1
+
+2
+
+3 4 5 6
+
+7 8 9 10 11 12
 --- page 5 ---
 1   0 15   7   4 14   2 13   1 10   6 12 11   9   5   3   8
 2   4   1 14   8 13   6   2 11 15 12   9   7   3 10   5   0
@@ -217,6 +234,31 @@ F6 07 18 E5
 80 5D 6E 7F
 Q4   b Describe different types of keys involved in Diffie-Hellman   [10
 CO2; SO1;   .   algorithm. Alice and Bob agree on a prime number q=11 and a   ]
+
+[Text in pictures on this page, read by OCR]
+Key F
+¥
+
+w10, 31 Add round key
+
+jaintet
+
+Xpand key ]
+
+Inverse mix ce
+
+:
+rq
+
+Add round key W136, 39]
+
+[suns J
+
+Add round key wI40, 43] Add round key
+
+Ciphertext Ciphertext
+
+Deerypti
 --- page 7 ---
 BL-high   primitive root g=2. If Alice's private key is a=3 and Bob's private
 key is b=5, what is the shared secret key they exchange?
@@ -237,6 +279,23 @@ B=gbmod  pB=gbmodp (Bob’s public key)
 4. Shared Secret Key:
 This shared secret key can then be used for symmetric encryption
 to secure communications.
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate Alice's public key A = g* mod q
+A=2' mod11=8 mod11=8
+
+Step 2: Calculate Bob's public key B = g° mod q
+Calculate 2° mod 11:
+
+21=2
+?=4
+23 =8
+
+24=16=5 modll
+2° =5x2=10 mod 11
+So,
+
+B=10
 --- page 8 ---
 Q5   a Describe different types of active attacks with the help of suitable [10
 CO1; SO1;   .   examples. Compare Active attacks with Passive attacks.   ]
@@ -263,6 +322,23 @@ Data modification, DoS attacks,   Eavesdropping, traffic analy
 spoofing   keylogging
 Firewalls, intrusion   Encryption, secure protocols
 detection/prevention systems   obfuscation
+
+[Text in pictures on this page, read by OCR]
+Step 3: Calculate shared secret key S
+* Alice computes S = B? mod q=10* mod 11
+
+Calculate:
+107 =100=1 mod 11
+10° = 10? x 10=1x10=10 mod 11
+* Bob computes S = A’ mod q=8° mod 11
+Calculate powers of 8 modulo 11:
+g'=8
+8?=64=9 mod 11
+88 =9x8=72=6 mod 11
+8'=6x8=48=4 mod 11
+8° =4x8=32=10 mod 11
+
+Both get S = 10.
 --- page 9 ---
 Immediate and potentially severe   Long-term risk due to data leakage
 Q5   b Explain the properties that make a hash function suitable for   [10
@@ -425,6 +501,26 @@ Comparison with Stateful Inspection firewalls- at least 3
 differences-3Marks
 Comparison with Application proxies.- - at least 3 differences-
 3Marks
+
+[Text in pictures on this page, read by OCR]
+TLS Connection & TLS Session
+
+TLS connection TLS session
+
+Itis a transport that provides a suitable type of Itis an association between a client and a serve
+service
+
+Created by the Handshake Protocol
+For TLS, such connections are peer-to-peer
+
+relationships
+is Define a set of cryptographic security parametd
+
+which can be shared among multiple connectio}
+Connections are transient i.e. temporary
+
+Used to avoid the expensive negotiation of ne
+Every connection is associated with one session security parameters for each connection
 --- page 13 ---
 Packet Filtering Stateful Inspection | Application Proxy | Guard Personal Firew|
 
@@ -584,6 +680,22 @@ the output.
 • Aligns Data Size with the Round Key: Expansion increases the 32-
 bit half-block to match the 48-bit round key, enabling proper XOR
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Bob
+
+To public —
+
+Key-generation
+Alice I Public-key distribution procedure
+
+a H channel
+1
+
+Public key ¢ f Private key
+a |} hee} [
+
+Plaintext Ciphertext Insecure channel Ciphertext Plaintext
 --- page 4 ---
 operation during the round function. This ensures consistent
 processing in all 16 DES rounds.
@@ -621,6 +733,12 @@ E5 F6 07 18
 Ans.
 Marks bifurcation:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Block 1 Block 2 Block 8
+123 4 § 676 29 30 31 32
+
+1238 45 6 7 8 9 10 11 12 43 44 45 46 47 48
 --- page 5 ---
 Encryption & decryption process in AES: 08 marks (diagram 3 marks+
 explanation 5 marks)
@@ -650,6 +768,31 @@ F6 07 18 E5
 3B 4C 19 2A
 80 5D 6E 7F
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Key
+
++
+
+w0, 3] Add round key
+
+atext
+
+Expand key] [Limverse sup bytes]
+
+Inverse shift rows
+
+yt
+
+wI36, 39]
+
+a:
+
+wi40, 43]
+
+Ciphertext
+
+(a) ption
 --- page 6 ---
 Q4   b. Describe different types of keys involved in Diffie-Hellman algorithm.   [10]
 CO2; SO1;   Alice and Bob agree on a prime number q=11 and a primitive root g=2. If
@@ -671,6 +814,23 @@ B=gbmod  pB=gbmodp (Bob’s public key)
 This shared secret key can then be used for symmetric encryption to
 secure communications.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate Alice's public key A = g* mod q
+A=2> mod11=8 mod 11=8
+
+Step 2: Calculate Bob's public key B = g° mod q
+Calculate 2° mod 11:
+
+21=2
+?=4
+23 =8
+
+24=16=5 modll
+2 =5x2=10 modil
+So,
+
+B=10
 --- page 7 ---
 Q5   a. Describe different types of active attacks with the help of suitable [10]
 CO1; SO1;   examples. Compare Active attacks with Passive attacks.
@@ -701,6 +861,23 @@ Long-term risk due to data
 Immediate and potentially severe
 leakage
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Calculate shared secret key S
+* Alice computes S = B? mod q= 10° mod 11
+
+Calculate:
+107=100=1 mod 11
+10° =10? x 10=1x10=10 mod11
+* Bob computes S = A’ mod q=8° mod 11
+Calculate powers of 8 modulo 11:
+g'=8
+8?=64=9 mod 11
+88 =9x8=72=6 mod 11
+8'=6x8=48=4 mod 1l
+8° =4x8=32=10 mod 11
+
+Both get S = 10.
 --- page 8 ---
 Q5   b. Explain the properties that make a hash function suitable for cryptographic   [10]
 CO2; SO4;   applications and describe at least two practical scenarios where hash
@@ -854,6 +1031,45 @@ BL-
 moderate   Packet-filtering firewalls-4m
 Comparison-6m
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+TLS Connection & TLS Session
+
+TLS connection TLS session
+
+Itis a transport that provides a suitable type of It is an association between a client and a server
+service
+
+Created by the Handshake Protocol
+For TLS, such connections are peer-to-peer
+
+relationships
+is Define a set of cryptographic security parameters
+
+which can be shared among multiple connections
+Connections are transient i.e. temporary
+
+Used to avoid the expensive negotiation of new
+Every connection is associated with one session security parameters for each connection
+
+Packet Filtering Stateful Inspection | Application Proxy | Guard Personal Firewall
+
+Simplest More complex Even more complex | Most complex Similar to packet
+filtering firewall
+Sees only addresses | Can see either Sees full data Sees full text of Can see full data
+and service protocol | addresses or data portion of packet communication portion of packet
+type
+Auditing difficult Auditing possible Can audit activity Can audit activity Canand usually
+doesaudit activity
+Screens based on Screens based on Screens based on Screens based on Typically, screens
+connection rules information across | behavior of proxies | interpretation of based on
+packetsin either message content information in a
+header or data field single packet, using
+header or data
+Complex addressing | Usually Simple proxies can | Complex guard Usually starts in
+rules can make preconfigured to substitute for functionality can "deny all inbound"
+
+configuration tricky | detect certain attack | complex addressing | limit assurance mode, to which user
 ````
 
 ## 2025-26 · Final-Exam · Sem 7 · Answer key · paper f37be6ef82fc
@@ -994,6 +1210,22 @@ the output.
 • Aligns Data Size with the Round Key: Expansion increases the 32-
 bit half-block to match the 48-bit round key, enabling proper XOR
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Bob
+
+To public —
+
+Key-generation
+Alice I Public-key distribution procedure
+
+a H channel
+1
+
+Public key ¢ f Private key
+a |} hee} [
+
+Plaintext Ciphertext Insecure channel Ciphertext Plaintext
 --- page 4 ---
 operation during the round function. This ensures consistent
 processing in all 16 DES rounds.
@@ -1031,6 +1263,12 @@ E5 F6 07 18
 Ans.
 Marks bifurcation:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Block 1 Block 2 Block 8
+123 4 § 676 29 30 31 32
+
+1238 45 6 7 8 9 10 11 12 43 44 45 46 47 48
 --- page 5 ---
 Encryption & decryption process in AES: 08 marks (diagram 3 marks+
 explanation 5 marks)
@@ -1060,6 +1298,31 @@ F6 07 18 E5
 3B 4C 19 2A
 80 5D 6E 7F
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Key
+
++
+
+w0, 3] Add round key
+
+atext
+
+Expand key] [Limverse sup bytes]
+
+Inverse shift rows
+
+yt
+
+wI36, 39]
+
+a:
+
+wi40, 43]
+
+Ciphertext
+
+(a) ption
 --- page 6 ---
 Q4   b. Describe different types of keys involved in Diffie-Hellman algorithm.   [10]
 CO2; SO1;   Alice and Bob agree on a prime number q=11 and a primitive root g=2. If
@@ -1081,6 +1344,23 @@ B=gbmod  pB=gbmodp (Bob’s public key)
 This shared secret key can then be used for symmetric encryption to
 secure communications.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate Alice's public key A = g* mod q
+A=2> mod11=8 mod 11=8
+
+Step 2: Calculate Bob's public key B = g° mod q
+Calculate 2° mod 11:
+
+21=2
+?=4
+23 =8
+
+24=16=5 modll
+2 =5x2=10 modil
+So,
+
+B=10
 --- page 7 ---
 Q5   a. Describe different types of active attacks with the help of suitable [10]
 CO1; SO1;   examples. Compare Active attacks with Passive attacks.
@@ -1111,6 +1391,23 @@ Long-term risk due to data
 Immediate and potentially severe
 leakage
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Calculate shared secret key S
+* Alice computes S = B? mod q= 10° mod 11
+
+Calculate:
+107=100=1 mod 11
+10° =10? x 10=1x10=10 mod11
+* Bob computes S = A’ mod q=8° mod 11
+Calculate powers of 8 modulo 11:
+g'=8
+8?=64=9 mod 11
+88 =9x8=72=6 mod 11
+8'=6x8=48=4 mod 1l
+8° =4x8=32=10 mod 11
+
+Both get S = 10.
 --- page 8 ---
 Q5   b. Explain the properties that make a hash function suitable for cryptographic   [10]
 CO2; SO4;   applications and describe at least two practical scenarios where hash
@@ -1264,6 +1561,45 @@ BL-
 moderate   Packet-filtering firewalls-4m
 Comparison-6m
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+TLS Connection & TLS Session
+
+TLS connection TLS session
+
+Itis a transport that provides a suitable type of It is an association between a client and a server
+service
+
+Created by the Handshake Protocol
+For TLS, such connections are peer-to-peer
+
+relationships
+is Define a set of cryptographic security parameters
+
+which can be shared among multiple connections
+Connections are transient i.e. temporary
+
+Used to avoid the expensive negotiation of new
+Every connection is associated with one session security parameters for each connection
+
+Packet Filtering Stateful Inspection | Application Proxy | Guard Personal Firewall
+
+Simplest More complex Even more complex | Most complex Similar to packet
+filtering firewall
+Sees only addresses | Can see either Sees full data Sees full text of Can see full data
+and service protocol | addresses or data portion of packet communication portion of packet
+type
+Auditing difficult Auditing possible Can audit activity Can audit activity Canand usually
+doesaudit activity
+Screens based on Screens based on Screens based on Screens based on Typically, screens
+connection rules information across | behavior of proxies | interpretation of based on
+packetsin either message content information in a
+header or data field single packet, using
+header or data
+Complex addressing | Usually Simple proxies can | Complex guard Usually starts in
+rules can make preconfigured to substitute for functionality can "deny all inbound"
+
+configuration tricky | detect certain attack | complex addressing | limit assurance mode, to which user
 ````
 
 ## 2025-26 · Final-Exam · Sem 7 · Answer key · paper 2da5734b575c
@@ -1404,6 +1740,22 @@ the output.
 • Aligns Data Size with the Round Key: Expansion increases the 32-
 bit half-block to match the 48-bit round key, enabling proper XOR
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Bob
+
+To public —
+
+Key-generation
+Alice I Public-key distribution procedure
+
+a H channel
+1
+
+Public key ¢ f Private key
+a |} hee} [
+
+Plaintext Ciphertext Insecure channel Ciphertext Plaintext
 --- page 4 ---
 operation during the round function. This ensures consistent
 processing in all 16 DES rounds.
@@ -1441,6 +1793,12 @@ E5 F6 07 18
 Ans.
 Marks bifurcation:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Block 1 Block 2 Block 8
+123 4 § 676 29 30 31 32
+
+1238 45 6 7 8 9 10 11 12 43 44 45 46 47 48
 --- page 5 ---
 Encryption & decryption process in AES: 08 marks (diagram 3 marks+
 explanation 5 marks)
@@ -1470,6 +1828,31 @@ F6 07 18 E5
 3B 4C 19 2A
 80 5D 6E 7F
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Key
+
++
+
+w0, 3] Add round key
+
+atext
+
+Expand key] [Limverse sup bytes]
+
+Inverse shift rows
+
+yt
+
+wI36, 39]
+
+a:
+
+wi40, 43]
+
+Ciphertext
+
+(a) ption
 --- page 6 ---
 Q4   b. Describe different types of keys involved in Diffie-Hellman algorithm.   [10]
 CO2; SO1;   Alice and Bob agree on a prime number q=11 and a primitive root g=2. If
@@ -1491,6 +1874,23 @@ B=gbmod  pB=gbmodp (Bob’s public key)
 This shared secret key can then be used for symmetric encryption to
 secure communications.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate Alice's public key A = g* mod q
+A=2> mod11=8 mod 11=8
+
+Step 2: Calculate Bob's public key B = g° mod q
+Calculate 2° mod 11:
+
+21=2
+?=4
+23 =8
+
+24=16=5 modll
+2 =5x2=10 modil
+So,
+
+B=10
 --- page 7 ---
 Q5   a. Describe different types of active attacks with the help of suitable [10]
 CO1; SO1;   examples. Compare Active attacks with Passive attacks.
@@ -1521,6 +1921,23 @@ Long-term risk due to data
 Immediate and potentially severe
 leakage
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Calculate shared secret key S
+* Alice computes S = B? mod q= 10° mod 11
+
+Calculate:
+107=100=1 mod 11
+10° =10? x 10=1x10=10 mod11
+* Bob computes S = A’ mod q=8° mod 11
+Calculate powers of 8 modulo 11:
+g'=8
+8?=64=9 mod 11
+88 =9x8=72=6 mod 11
+8'=6x8=48=4 mod 1l
+8° =4x8=32=10 mod 11
+
+Both get S = 10.
 --- page 8 ---
 Q5   b. Explain the properties that make a hash function suitable for cryptographic   [10]
 CO2; SO4;   applications and describe at least two practical scenarios where hash
@@ -1674,4 +2091,43 @@ BL-
 moderate   Packet-filtering firewalls-4m
 Comparison-6m
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+TLS Connection & TLS Session
+
+TLS connection TLS session
+
+Itis a transport that provides a suitable type of It is an association between a client and a server
+service
+
+Created by the Handshake Protocol
+For TLS, such connections are peer-to-peer
+
+relationships
+is Define a set of cryptographic security parameters
+
+which can be shared among multiple connections
+Connections are transient i.e. temporary
+
+Used to avoid the expensive negotiation of new
+Every connection is associated with one session security parameters for each connection
+
+Packet Filtering Stateful Inspection | Application Proxy | Guard Personal Firewall
+
+Simplest More complex Even more complex | Most complex Similar to packet
+filtering firewall
+Sees only addresses | Can see either Sees full data Sees full text of Can see full data
+and service protocol | addresses or data portion of packet communication portion of packet
+type
+Auditing difficult Auditing possible Can audit activity Can audit activity Canand usually
+doesaudit activity
+Screens based on Screens based on Screens based on Screens based on Typically, screens
+connection rules information across | behavior of proxies | interpretation of based on
+packetsin either message content information in a
+header or data field single packet, using
+header or data
+Complex addressing | Usually Simple proxies can | Complex guard Usually starts in
+rules can make preconfigured to substitute for functionality can "deny all inbound"
+
+configuration tricky | detect certain attack | complex addressing | limit assurance mode, to which user
 ````

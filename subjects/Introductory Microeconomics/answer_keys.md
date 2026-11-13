@@ -108,6 +108,14 @@ Income consumption curve traces out the income effect on the quantity consumed o
 can either be positive or negative. Income effect for a good is said to be positive when with the increase in
 income of the consumer, his consumption of the good also increases.
 Page 3 of 7
+
+[Text in pictures on this page, read by OCR]
+™ KON ty B @
+Goosx
+
+Fig. 8.43. Price Effect Spit up into Substitution and income Effects through
+
+Compensating Variation Method
 --- page 4 ---
 B. Budget Line   12
 Given: Income = ₹600, Px = ₹30, Py = ₹20
@@ -320,6 +328,14 @@ Income consumption curve traces out the income effect on the quantity consumed o
 can either be positive or negative. Income effect for a good is said to be positive when with the increase in
 income of the consumer, his consumption of the good also increases.
 Page 3 of 7
+
+[Text in pictures on this page, read by OCR]
+™ KON ty B @
+Goosx
+
+Fig. 8.43. Price Effect Spit up into Substitution and income Effects through
+
+Compensating Variation Method
 --- page 4 ---
 B. Budget Line   12
 Given: Income = ₹600, Px = ₹30, Py = ₹20

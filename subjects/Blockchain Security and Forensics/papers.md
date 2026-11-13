@@ -236,8 +236,9 @@ Page 3 of 3
 - Programmes: B TECH / CSE CYBER SECURITY
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSE CYBER SECURITY/SEM-VI/BLOCK CHAIN SECURITY AND FORENSIC/Blockchain Security and Forensics, Sem-VI, A Y 2023-24, Re Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29/6/2024
-- Text: ocr (3 pages), mean OCR confidence 70.7
-- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: ocr (3 pages), mean OCR confidence 85.1
+- 1 page scanned sideways or upside down, turned upright before OCR
+- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS Sigs UNIVE
@@ -326,74 +327,22 @@ Page 2 of 3
 
 a
 --- page 3 ---
-gs 8 54 R Bl a
-= =
-Sslse eos |e
-SSIS & Beye [S E
-qt mMico oO :
-—£ 13 .
-a |g 2
-& ca gis
-3 5
-5 Ie
-a as
-3 ig N |x
-= |e Ble
-© < a eB
-a Oo Salo
-= [= Q Se
-a |Z Rees
-j=]
-ESA | 5 a
-WY > Bis a
-Or|'o RIM 5 aro
-eee zMIS
-5 25 ‘a O}fa 3S)
-a a — 3
-Bole SI 7
-=| a Bs ~~ S
-f=] oO 4
-t+ S g
-ont 3 z
-a oD ond Psy
-Oo S sa <
-o g oUl~K |
-& g Ele =
-s zac =
-5 I a
-o 2 M 8
-E A & a
-& fe
-oO < 3
-a 3 S 2
-3 3 a ic
-Ez & a &
-< =
-= Z
-e, <
-= oO
-5 <a
-lon ans
-is 55
-aS Se
-ira) o'2
-mM 5
-ai ggg
-at es 2
-aw g|a =
-a a i
-4s
-eo
-= ~
-SL oS
-gc 5 aie
-Sm o| OA
-‘oe oO
-= Bela 8
-ARIZS
-ah wn ‘
-Hn 6 2
-=o
+‘ DB]
+
+d755 08:37:11 1 | B4bK6bYR2 074 | 1 | LD4MzK65 000
+2 | aQp1BuyDn 816
+
+Table 1: Bitcoin Transaction
+
+Date and Inp Amount | Out Amount(
+ID: Time ut | From (BTC) put_| To BTC)
+a34b__| 05:19:56 1 | WuFnS6W7y8C 07 1_| WeKJeuHEVX7W 88
+IM96jhEtnzP8QT4XrelpflwhL | 0.792187
+2 | uiLyj9ssP 19
+
+Table 2: Bitcoin Transaction
+
+Page 3 of 3
 ````
 
 ## 2022-23 · Final-Exam · Sem 6 · paper 765be3c38569
@@ -402,8 +351,9 @@ Hn 6 2
 - Programmes: B TECH / CSE CYBER SECURITY
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CSE CYBER SECURITY/SEM-VI/BLOCK CHAIN SECURITY AND FORENSIC/Blockchain Security and Forensics, Sem-VI, Year 2022-23, Final Exam.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 2/5/2023
-- Text: ocr (3 pages), mean OCR confidence 73.2
-- 17 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: ocr (3 pages), mean OCR confidence 85.3
+- 1 page scanned sideways or upside down, turned upright before OCR
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -486,64 +436,24 @@ BL4 to the same owner. Write explanation about your conclusion.
 
 Page 2 of 3
 --- page 3 ---
-a
+Amount
+Amount
+ID: Input | From (BTC) | Output | To (BTC)
+1053 05:19:56 1 X55hEGkate 1 1 mJQ4e7Vj 0.788567
+2 oiUkTwK Y4yc 167 2 7W24luWGRwD 2
+1C3NQAvQmoqNF7Ppwé6wio6 | 0.78960
+3 i3yHSkWr7qet 6
+2 JvX5r5Fgm 1 2 hz7wCVXqj I
+2 9Uv4xIv4 LY 1 2 GfDm7GSqykSLh 1
+5607 04:44:08 1 mF YxyzmNk 1 1 mJQ4e7Vj 0.499761
+1LFapdMewUnSDnRRG3vR253
+2 S3vuwThDEgk 0.5
+1595- | 11/09/2016, 1A6GHKqpDcksnwsBikBDLar | 1.43506 19GmggChQdakj3fb66ecrk53Ek
+1cl0 05:35:34 1 9Kr9syCBNQ4 | 235 1 mJQ4e7Vj 0.5
+1GdJxEYsu9tLdESo3r7H | rbkK8
+2 y7K Lhjac 0.934904
 
-=
+Table 1: Bitcoin Transactions
 
-~~ Neo} Ne} —
-Ke} So Co \o
-a) io} \o ~
-one) lo an lon
-ine) nD an lon
-a] a7 “4 we on av
-aa aay jay ea) a 1
-al Sal Sa) Sal is) Gal
-ive) wo vey wo a4 Ve)
-5 5 5 5 om 5
-g 8 g 8 i2 |g
-a a a fa, ec
-isa) oa ical < jo (aay isa)
-2 2 we nd [oe Tal ir
-ss) 3 | ~~ IS 5 tm lz
-je4 oO je4 > 1O zo |O
-— a 2 |2 8 |-..|84 |e a
-Og Og Og QAlOS |p 5 |oge
-a's ae ae DAS |Am IAS
-= & = & = & O |} € lau | &
-— — = N 4 N —
-S Ne)
-S S
-S cn
-6B so
-~i Sow - i = 4 =A
-oo 8 *< S = >
-g = og N a ~
-N z po) lo
-Q 6 & 2 i A
-= 3 5 S > ca)
-= ob 3s 0
-C & |e 2 g e
-ian oy a aS =
-= Zz & g Ss &
-f=] icy To oO ° g
-| D bd =
-3 » £2 jn 5 S3 > IS ag
-22 Ve 25 Zi3= eZ a2
-> ~ o
-Ex ~< < +t Oo §€ fea]
-oO <e |< gm > |> 5 SO
-Zz, O- OZ a4 Sle & mY
-a O> la 62 |85 |€& Fav,
-— foal = = N — _
-~~ YY ~~ ~ <<
-— Oo =“ Oa i) — 0 ot
-<a im om a Qo
-Qa Qs Qua Qe aw
-as as a als ee
-val Tw ug ceges =
-‘ ' fl ' \
-oom yo} \o oso tf
-a0 Ss 3 at =o as
-ao na Oo my — © WwW Oo
-on rN Nome} loom ay —
+Page 3 of 3
 ````

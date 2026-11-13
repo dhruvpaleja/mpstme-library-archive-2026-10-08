@@ -1,6 +1,6 @@
 # Introduction to Virtual Reality and Augmented Reality
 
-**68** unique papers (83 copies across programmes) · 2022-23 to 2025-26 · 28 programmes · Sem 3, Sem 5, Sem 6, Sem 9, Sem 12
+**69** unique papers (84 copies across programmes) · 2022-23 to 2025-26 · 29 programmes · Sem 3, Sem 5, Sem 6, Sem 8, Sem 9, Sem 12
 
 Download only this subject, sorted by academic year:
 
@@ -11,6 +11,8 @@ python organize_by_subject.py restore --destination D:/Study --subject "Introduc
 Files land in `D:/Study/PYQs_By_Subject/Introduction to Virtual Reality and Augmented Reality/<academic year>/`. Identical copies of one paper (the portal often files the same PDF under several programmes) are placed once.
 
 Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (every paper in full, newest first), [`questions.jsonl`](questions.jsonl) (one record per question with marks, year, exam, semester and department) and [`papers.jsonl`](papers.jsonl) (one record per paper). Answer keys, where the portal published them, are in `answer_keys.md`. See [`question_bank/README.md`](../../question_bank/README.md) for the fields.
+
+Syllabus of this course, every version found in the archive: [`syllabus.md`](syllabus.md) (see [`syllabi/`](../../syllabi/README.md) for all programmes).
 
 Also filed as: `Introdcution to Virtual Reality & Aug Reality`, `Introduction to Virtual and Augmented Reality`, `INTRODUCTION TO VIRTUAL REALITY & AUGME`, `INTRODUCTION TO VIRTUAL REALITY AND AUG`
 
@@ -70,6 +72,7 @@ Also filed as: `Introdcution to Virtual Reality & Aug Reality`, `Introduction to
 | 2025-26 | Re-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Introduction to Virtual Reality and Augmented Reality(702MH0I004)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3, Sem 9 | B TECH, B TECH / COMPUTER, B TECH / MECHANICAL, B.TECH INTEGRATED, B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / MECHANICAL, MCA | Introduction to virtual Reality and Augmented Reality Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH, MBA TECH | Intro to Virtual Reality & Augmented Reality, Sem VI, Year 2024-25 Final Exam.pdf |
+| 2024-25 | Final-Exam | Question paper | Sem 8 | B TECH / EXTC | Introduction_to_Virtual_Reality_and_Augmented_Reality__Sem-VIII__Year_2024-25_Final_Exam_HlAjQqn1i7.pdf |
 | 2024-25 | Final-Exam | Question paper |  | B.TECH INTEGRATED | Introduction to Virtual Reality and Augmented Reality Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 12 | B.TECH INTEGRATED / EXTC | Introduction to Virtural Reality and Augmented Reality Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | BTech Computer 7002, BTech CSE DS 7057, MBATech Computer 7047 | QP_Introduction to Virtual Reality and Augmented Reality(702MH0I004)_2024-2025.pdf |

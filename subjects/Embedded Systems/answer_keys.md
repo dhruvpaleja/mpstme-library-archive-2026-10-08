@@ -224,6 +224,46 @@ CO-1;   in   real-time   operating   systems.
 SO-2;   Discuss how each algorithm handles task execution, prioritization, and response time in a real-
 BL-4;   time environment. Support your answer with suitable timing diagrams and examples.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Sensor State Diagram Sequence Diagram
+
+readTemp() ( Idle ») ,
+calibrate() User Display | |Controller) | Sensor
+T
+' f
+1 i
+1 f
+
+timer/clock ! setTemp!
+ji
+Comparing! 1 ‘update | H
+Deciding
+
+Heater Cooler id isetspoint | '
+bei et heater/cooler cmd odaren
+Actuating ‘em temp !
+
+PowerManager | SystemClock optional ne
+sleep() [tick Maintaining | showSta '
+i} 1 ' 1
+
+SystemClock optional |__neck();
+
+1
+tick() Fault / Recovery i 1 !
+
+Sequence Diagram
+
+Round-robin scheduling
+Same as SCHED_FIFO but with timeslices
+
+Among tasks of equal priority:
++ Rotate through all tasks
++ Each task gets a fixed time slice
+
++ Only a higher priority SCHED_FIFO or SCHED_RR task can preempt a SCHED_FIFO Time
++ Tasks of equal priority preempt each other after timeslice expiration
 --- page 6 ---
 Q4   B   Evaluate different codesign methodologies (traditional vs. modern integrated approaches) in terms [10 ]
 CO-2;   of   flexibility,   verification   efficiency,   and   risk   of   late-stage   failures.
@@ -439,6 +479,34 @@ Combine both hardware and software components and verify through co-simulation o
 emulation.
 3️. Factors Influencing Partitioning Decisions
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+A
+
+BC B
+
+oo 01 1 10
+
+1 1 0 1
+
+1 0 0 0
+
+Cc
+P= A’B! + AIC’ + BIC’
+Fy =(AB+ AC + BC)'
+
+A
+
+BC B
+00 01 i110
+
+1 0 0 0
+
+0 1 1 1
+
+c
+F,= AB + AC+ A'BIC!
+F,=(A'C+A'B+ BIC)’
 --- page 11 ---
 •   Performance:
 o Hardware gives faster execution and deterministic timing.
@@ -572,6 +640,26 @@ external event or a response. e.g. a push-button task stays blocked until the bu
 •   Most RTOSs have other states like suspended, waiting, dormant etc. but these are just sub-divisions
 of one of the three states above.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Feature CISC (Complex Instruction Set Computer) RISC (Reduced Instruction Set Computer)
+
+Instruction Set Large set of complex instructions; each can Small set of simple instructions; each performs
+perform multiple operations. one basic operation.
+
+Instruction Length Variable length; some instructions take Fixed length; most instructions execute in one
+many cycles to execute. clock cycle.
+
+Register Usage Fewer general-purpose registers; heavy Many general-purpose registers; minimizes
+dependence on memory. memory access.
+
+Design Philosophy Hardware complexity; microcoded control Simplified hardware; hardwired control; focus
+unit; focus on reducing code size. on speed and pipelining.
+
+Performance Slower execution; more cycles per Faster execution; efficient instruction pipeline.
+instruction.
+
+Examples Intel x86, Motorola 68000. ARM, MIPS, PowerPC.
 --- page 3 ---
 d   Describe the role of device drivers in embedded systems.   [5]
 .   Explain how architecture-specific and generic drivers differ in managing hardware components.
@@ -741,6 +829,35 @@ Q B   Evaluate how cross-fertilization between hardware and software design—us
 4   languages, and shared databases—improves the efficiency of embedded system development. Also state the key   ]
 requirements of an ideal codesign environment that enable such integration.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+EDF Scheduling
+
+Earliest Deadline First (EDF) scheduling
+* Simple, yet effective
+
++ Whichever task has next deadline gets to run
+
+Deadline: 5 Deadline: 8 [Tsk | Deadline: 12
+Exec time: 4 Exec time: 3 Exec time: 2
+
++ Theory exists to analyze such systems
+
+Time ° ts ts
+
+te
+
+Round Robin Scheduling
+
+Round-robin scheduling
+‘Same as SCHED_FIFO but with timeslices
+
+Among tasks of equal priority:
+* Rotate through all tasks
++ Each task gets a fixed time slice
+
+* Only a higher priority SCHED_FIFO or SCHED_BR task can preempt a SCHED_FIFO Time
++ Tasks of equal priority each other after ti
 --- page 7 ---
 Cross-fertilization in embedded system design refers to the close collaboration and overlap between
 hardware and software development activities to achieve faster, more efficient, and optimized system design.
@@ -988,6 +1105,25 @@ Q B Compare FPGA, ASIC, and PSOC technologies with respect to their architecture
 7   performance, and cost. Explain how these factors influence the choice of implementation for various embedded   ]
 system applications.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Feature FPGA ASIC PSOC
+
+Architecture Configurable logic blocks and Fully customized gate- MCU core + programmable
+routing matrix level design analog/digital blocks
+Design Flexibility High (reconfigurable) None (fixed post- Moderate (reconfigurable mixed-sic
+fabrication)
+Performance Medium to high Very high Moderate
+Power Consumption Moderate to high Very low Low
+Development Time Short (ready-to-program) Long (requires Short to moderate
+
+fabrication)
+
+Cost per Unit High for low-volume, low for Very low for large Moderate
+prototypes volume, high NRE
+Typical Use Prototyping, DSP, Communication Mass-market high-speed Low-power, mixed-signal embeddec
+
+applications systems
 ````
 
 ## 2025-26 · Re-Exam · Sem 5 · Answer key · paper 4b18497ca3a2
@@ -1056,6 +1192,26 @@ external event or a response. e.g. a push-button task stays blocked until the bu
 •   Most RTOSs have other states like suspended, waiting, dormant etc. but these are just sub-divisions
 of one of the three states above.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Feature CISC (Complex Instruction Set Computer) RISC (Reduced Instruction Set Computer)
+
+Instruction Set Large set of complex instructions; each can Small set of simple instructions; each performs
+perform multiple operations. one basic operation.
+
+Instruction Length Variable length; some instructions take Fixed length; most instructions execute in one
+many cycles to execute. clock cycle.
+
+Register Usage Fewer general-purpose registers; heavy Many general-purpose registers; minimizes
+dependence on memory. memory access.
+
+Design Philosophy Hardware complexity; microcoded control Simplified hardware; hardwired control; focus
+unit; focus on reducing code size. on speed and pipelining.
+
+Performance Slower execution; more cycles per Faster execution; efficient instruction pipeline.
+instruction.
+
+Examples Intel x86, Motorola 68000. ARM, MIPS, PowerPC.
 --- page 3 ---
 d   Describe the role of device drivers in embedded systems.   [5]
 .   Explain how architecture-specific and generic drivers differ in managing hardware components.
@@ -1225,6 +1381,35 @@ Q B   Evaluate how cross-fertilization between hardware and software design—us
 4   languages, and shared databases—improves the efficiency of embedded system development. Also state the key   ]
 requirements of an ideal codesign environment that enable such integration.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+EDF Scheduling
+
+Earliest Deadline First (EDF) scheduling
+* Simple, yet effective
+
++ Whichever task has next deadline gets to run
+
+Deadline: 5 Deadline: 8 [Tsk | Deadline: 12
+Exec time: 4 Exec time: 3 Exec time: 2
+
++ Theory exists to analyze such systems
+
+Time ° ts ts
+
+te
+
+Round Robin Scheduling
+
+Round-robin scheduling
+‘Same as SCHED_FIFO but with timeslices
+
+Among tasks of equal priority:
+* Rotate through all tasks
++ Each task gets a fixed time slice
+
+* Only a higher priority SCHED_FIFO or SCHED_BR task can preempt a SCHED_FIFO Time
++ Tasks of equal priority each other after ti
 --- page 7 ---
 Cross-fertilization in embedded system design refers to the close collaboration and overlap between
 hardware and software development activities to achieve faster, more efficient, and optimized system design.
@@ -1472,6 +1657,25 @@ Q B Compare FPGA, ASIC, and PSOC technologies with respect to their architecture
 7   performance, and cost. Explain how these factors influence the choice of implementation for various embedded   ]
 system applications.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Feature FPGA ASIC PSOC
+
+Architecture Configurable logic blocks and Fully customized gate- MCU core + programmable
+routing matrix level design analog/digital blocks
+Design Flexibility High (reconfigurable) None (fixed post- Moderate (reconfigurable mixed-sic
+fabrication)
+Performance Medium to high Very high Moderate
+Power Consumption Moderate to high Very low Low
+Development Time Short (ready-to-program) Long (requires Short to moderate
+
+fabrication)
+
+Cost per Unit High for low-volume, low for Very low for large Moderate
+prototypes volume, high NRE
+Typical Use Prototyping, DSP, Communication Mass-market high-speed Low-power, mixed-signal embeddec
+
+applications systems
 ````
 
 ## 2025-26 · Re-Exam · Sem 9 · Answer key · paper 564f1fa53218
@@ -1540,6 +1744,26 @@ external event or a response. e.g. a push-button task stays blocked until the bu
 •   Most RTOSs have other states like suspended, waiting, dormant etc. but these are just sub-divisions
 of one of the three states above.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Feature CISC (Complex Instruction Set Computer) RISC (Reduced Instruction Set Computer)
+
+Instruction Set Large set of complex instructions; each can Small set of simple instructions; each performs
+perform multiple operations. one basic operation.
+
+Instruction Length Variable length; some instructions take Fixed length; most instructions execute in one
+many cycles to execute. clock cycle.
+
+Register Usage Fewer general-purpose registers; heavy Many general-purpose registers; minimizes
+dependence on memory. memory access.
+
+Design Philosophy Hardware complexity; microcoded control Simplified hardware; hardwired control; focus
+unit; focus on reducing code size. on speed and pipelining.
+
+Performance Slower execution; more cycles per Faster execution; efficient instruction pipeline.
+instruction.
+
+Examples Intel x86, Motorola 68000. ARM, MIPS, PowerPC.
 --- page 3 ---
 d   Describe the role of device drivers in embedded systems.   [5]
 .   Explain how architecture-specific and generic drivers differ in managing hardware components.
@@ -1709,6 +1933,35 @@ Q B   Evaluate how cross-fertilization between hardware and software design—us
 4   languages, and shared databases—improves the efficiency of embedded system development. Also state the key   ]
 requirements of an ideal codesign environment that enable such integration.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+EDF Scheduling
+
+Earliest Deadline First (EDF) scheduling
+* Simple, yet effective
+
++ Whichever task has next deadline gets to run
+
+Deadline: 5 Deadline: 8 [Tsk | Deadline: 12
+Exec time: 4 Exec time: 3 Exec time: 2
+
++ Theory exists to analyze such systems
+
+Time ° ts ts
+
+te
+
+Round Robin Scheduling
+
+Round-robin scheduling
+‘Same as SCHED_FIFO but with timeslices
+
+Among tasks of equal priority:
+* Rotate through all tasks
++ Each task gets a fixed time slice
+
+* Only a higher priority SCHED_FIFO or SCHED_BR task can preempt a SCHED_FIFO Time
++ Tasks of equal priority each other after ti
 --- page 7 ---
 Cross-fertilization in embedded system design refers to the close collaboration and overlap between
 hardware and software development activities to achieve faster, more efficient, and optimized system design.
@@ -1956,4 +2209,23 @@ Q B Compare FPGA, ASIC, and PSOC technologies with respect to their architecture
 7   performance, and cost. Explain how these factors influence the choice of implementation for various embedded   ]
 system applications.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Feature FPGA ASIC PSOC
+
+Architecture Configurable logic blocks and Fully customized gate- MCU core + programmable
+routing matrix level design analog/digital blocks
+Design Flexibility High (reconfigurable) None (fixed post- Moderate (reconfigurable mixed-sic
+fabrication)
+Performance Medium to high Very high Moderate
+Power Consumption Moderate to high Very low Low
+Development Time Short (ready-to-program) Long (requires Short to moderate
+
+fabrication)
+
+Cost per Unit High for low-volume, low for Very low for large Moderate
+prototypes volume, high NRE
+Typical Use Prototyping, DSP, Communication Mass-market high-speed Low-power, mixed-signal embeddec
+
+applications systems
 ````

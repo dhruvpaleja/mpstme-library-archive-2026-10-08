@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_EXTC_7006/Introduction to VLSI Technology/QP_Introduction to VLSI Technology(702EX0C034)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
 - Text: text (2 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -97,6 +98,26 @@ Q6   Write the RTL Verilog code for a half adder and develop a
 d.   [05]
 CO-5, SO-1, BL-3   corresponding test bench to verify its functionality.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+FF1 tmin 6 ns
+tax 9 ns FF?
+
+tain 1 ns
+D Q FR tin 1 ns
+max 2 11S D Q
+Lf haa 18
+
+tmax |2 ns teti-qmax 11 ns
+
+tnin 2 ns
+
+tmax 3 NS | {nin 2 m8 thoi 2 ns
+| tmax 3 ns tana 4S
+ta, Sns setup 4 1S
+tax 9 ns
+
+CLK
 ````
 
 ## 2025-26 · Re-Exam · Sem 4 · paper f8bb0a44a20c

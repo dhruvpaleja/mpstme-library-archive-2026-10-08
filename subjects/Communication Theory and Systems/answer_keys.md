@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_EXTC_7006/Communication Theory and Systems/ANS_Communication Theory and Systems(702EX0C036)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (27 pages), mean OCR confidence 64.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -69,6 +70,27 @@ CO-   c Demonstrate with mathematical equations Source Coding Theorem.   [05]
 SO-
 Diagram 1 marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+FEED BACK SHIFT REGISTER
+
+computes a Boolean Tunction of the states of
+the flip-flops,
+
+Logic circuit
+A Multi loop feedback
+Flip-flop circult
+we Output
+Shift register } 2 > >" sequence
+with m_flip flops
+Clock + b
+
+FIGURE 7.1 Feedback shift register.
+
+The flip-flops in the shift register are regulated by a single timing clock.
+
+At each pulse (tick) of the clock, the state of each flip-flop is shifted to t
+he next one down the line.
 --- page 3 ---
 1; Explanation 4 marks
 BL-2
@@ -137,6 +159,38 @@ c) How many errors can be detected? How many errors can be corrected?
 What is the minimum distance between the code vectors? (3 Marks)
 Ans:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+For this, the value Lmin has to be determined.
+
+Let us refer to the definition, Given a discrete memoryless source of entropy H| (5), the average code-word length L for any source
+encoding is bounded as L > H(6)."
+
+In simpler words, the code word (example: Morse code for the word QUEUE is -.- ..- . ..- . ) is always greater than or equal to the
+source code (QUEUE in example). Which means, the symbols in the code word are greater than or equal to the alphabets in the source
+code.
+
+Hence with Linin = H(5), the efficiency of the source encoder in terms of Entropy H(6) may be written as
+
+This source coding theorem is called as noiseless coding theorem as it establishes an error-free encoding. It is also called as
+Shannons first theorem.
+
+Inter Symbol Interference
+in Digital Transmission
+
+Inter-symbol interference
+(ISI) arises when the data
+transmitted through the
+channel is dispersive, in
+which each received pulse
+is affected somewhat by
+adjacent pulses and due to
+which interference occurs
+in the transmitted signals.
+
+It is difficult to recover the
+original data from one
+channel sample
 --- page 5 ---
 RK KKK RK KK 5 2h KKK RK Kk KK
 --- page 6 ---
@@ -176,6 +230,42 @@ BL-1   Find the Huffman Code (3Marks), Average code length (2 Marks), Entropy (2
 Marks).
 Ans:
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Code Quantization
+number level mit), volts
+
+0
+4 y mit)
+7 35 > f
+3
+6 25 Sf >
+2
+5 15
+iA | ___t
+4 05 i
+oO} t : T
+3 -05 Te : t
+17h eee
+2 -15 ‘ t t i t ING
+“24 1 t t t
+ve re POY
+cl H i H 1 H
+° -35 , t t Sea t
+ee ee 1
+t 1 H t H H
+H ' 1 ' ' '
+Sample value 13 3.6 23 07 -07 -24
+Nearest quantization level 1.5 3.5 25 05 -0.5 25
+Code number 5 7 6 4 3 1
+Binary representation 101 1 110 100 oll 001
+
+s regularly sampled. Quantization levels are indicated. |
+
+Figure 5.9-1 A message signal i
+esentation is indicated.
+
+sample the quantized value is given and its binary repr
 --- page 9 ---
 Explain with block schematic entire working of Correlation receiver for baseband
 detection in communication system.
@@ -208,6 +298,43 @@ BL-2   Analog modulation techniques : 1 marks
 Waveforms: 2 marks
 Explanation: 3 marks
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Coherent Binary PSK:
+
+Non Retum to
+
+Zero Level Product
+———|“Eacodar Modulator [> ———>
+Binary Binary PSK Signal
+Data Sequence |
+
+A00= [2 cosets
+T,
+
+Fig(a) Block diagram of BPSK transmitter
+
+7 Xi Decision Choose | if x;>0
+f at Device >————
+‘ Choose 0 if x:<0
+~ Correlator [
+CG) Threshold A= 0
+
+Fig (b) Coherent binary PSK receiver
+
+In a Coherent binary PSK system the pair of signals S)(t) and S2(t) are used to
+represent binary symbol ‘1’ and ‘0° respectively.
+
+S,(O= 2: Cos2at.t oo for Symbol ‘1°
+b
+
+S,(Q= ea Cos(2zf.t +2) =—- a Cos2nf.t ------- for Symbol *0°
+b b
+
+Where E,= Average energy transmitted per bit E, — Ft En > En
+In the case of PSK, there is only one basic function of Unit energy which is given
+
+by
 --- page 11 ---
 If the information signal is analog:
  And if amplitude (V) of the carrier is varied proportional to the information
@@ -288,6 +415,42 @@ SO-
 1;   Diagram: 4 marks
 BL-3   Explanation: 6 marks
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+IF (S(2)m(t))}
+
+Ie lg Sty ae Shy f
+
+Figure 5.1-2 (a) The magnitude plot of the spectral density of a signal bandlimited to fy. (b) Plot of
+amplitude of spectrum of sampled signal.
+
+Let the signal m(t) have a spectral density M(jw) = F[m(t)] which is as
+shown in Fig. 5.1-2a. Then m(t) is bandlimited to the frequency range below fy.
+The spectrum of the first term in Eq. (5.1-2) extends from 0 to fy. The spectrum
+of the second term is symmetrical about the frequency 2f/, and extends from 2fy
+—JIu =Iu tO Bue + Se = 3fy- Altogether the spectrum of the sampled signal has
+the appearance shown in Fig. 5.1-2b. Suppose then that the sampled signal is
+passed through an ideal low-pass filter with cutoff frequency at fy. If the filter
+transmission were constant in the passband and if the cutoff were infinitely sharp
+at fy, , the filter would pass the signal m(t) and nothing else.
+
+The spectral pattern corresponding to Fig. 5.1-2b is shown in Fig. 5.1-3a for
+the case in which the sampling rate f, = 1/T, is larger than 2f,,. In this case there
+
+Guard band
+IF (S(t) m(t))} (e) £>2h,
+ot
+if :
+i
+fou
+Ia 4 f
+4 he
+IF (S(am(ey)}
+ate oe
+{% f f Figure 5.1-3 (a) A guard band
+appears when f, > 2f,,. (b) Over-
+
+aha lapping of spectra when f, < 2fy.
 --- page 15 ---
 CO5-
 ; SO- b   [10
@@ -309,6 +472,40 @@ FSK, the carrier signal is modulated with the digital data, whereas in non-coher
 FSK, the carrier signal’s frequency is varied, but the carrier signal itself is not
 modulated.
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+The PCM System
+
+res is to each samy main the ration f quantized multilevel si
+of spree nsbes and ident! binary pulse or perp ae PAM signal is now
+binary level pattern. reconstituted. filtered ee any
+
+\ frequency components lying outside 9 F
+
+the baseband,
+
+mth figs whan |
+
+ale converte DtoAconverter —
+
+1 Communion
+
+RAE ce: i
+and replaces it with ot mC
+
+ssion of code" "7" "774°" "= "> | |
+
+sisting of a train of ate ee =
+con: a train
+pulses in which each Quantized PAM Sivertne usbehas casstal
+pulse may be interpreted which of twe wi has occurred.
+
+as the representation of
+a digit in an arithmetic |
+
+9
+
+reconstituted of regenerated puise train to the dee
 --- page 16 ---
 Phase Shift Keying is a digital modulation technique in which the phase of the carrier
 signal is varied according to the digital data to be transmitted. In PSK, the binary data
@@ -338,6 +535,22 @@ include any desirable waveform (sine, square, etc.).
 •   Carrier signal source produces the carrier signal. This signal is usually a high-
 frequency waveform, most frequently a sine wave.
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+Modulating
+
+i Carrier signal
+Signal
+source
+Generator
+(sine wave (square wave
+generator) generator)
+
+Amplitude
+Modulation
+
+2s
+Circuit PAM Signal
 --- page 18 ---
 • The PAM signal is created by this circuit by combining the modulating and
 carrier signals. The carrier signal's amplitude is managed by the modulating
@@ -391,6 +604,22 @@ the entire channel for short burst of time.
 Q7   a   Explain with diagram entire Baseband Binary Data Transmission System.   [05
 .   ]
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+PAM x(t
+Signal Reconstruction
+———>
+
+filter Equalizer ————}
+The distortion caused by the use of PAM
+to transmit an analog Reduces
+information bearing signal is referred to aperture
+as the aperture effect. effect and
+This distortion may be corrected by attenuation
+
+connecting an equalizer in
+cascade with the low-pass
+reconstruction filter
 --- page 20 ---
 CO-   Ans:
 4;
@@ -416,6 +645,31 @@ diagram for the same.
 [05
 ]
 ********** 20 **********
+
+[Text in pictures on this page, read by OCR]
+Y(t) is sampled synchronously with the
+New sequence of short transmitter, with the sampling instants being
+pulses short enough to determined by a clock or timing signal that
+approximate impulses. is usually extracted from the receive-filter
+i‘. output.
+Input , Sy lif
+rT Pulse la) | Transit | al) | Race | yi) SP yd | nee Poe Sai yo
+es angle fp] fit amp _ fit amp “s
+ih) modulator Mi) cl) Sample at bem Say Dit yi)
+Impulse Impulse tine =i |
+response h(t) _— hit? += response
+Olek Gausian c(t) Threshold A
+pulses noise wt) the amplitude of each sample is
+
+compared with a zero threshold,
+assuming that the symbols 1 and 0
+are equiprobable.
+
+I | |
+
+I Transmitter | Channel >| Receiver |
+
+Baseband binary data transmission system.
 --- page 21 ---
 At the modulators input, the message signals even bits (i.e., 2 nd bit, 4th bit, 6th bit,
 etc.) and odd bits (i.e., 1st bit, 3rd bit, 5th bit, etc.) are separated by the bits splitter
@@ -432,6 +686,41 @@ The two product detectors at the input of demodulator simultaneously demodulate
 the two BPSK signals. The pair of bits are recovered here from the original data.
 These signals after processing, are passed to the parallel to serial converter.
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+PSK;
+
+E ~
+. A 2 QPS
+
+re Carrier
+a £
+Digital Odd | Even | Out
+
+data bits | bits
+
+2 Phase
+2-bit 7 shifter T
+
+Serial-to-parallel
+converter
+
++}
+PSKg
+
+PSK,
+
+Odd Even D
+OPSK 5 5
+bits bits
+Input ? Q) S i
+Local 2-bit
+| Carrier Parallel-to-seria
+converter
+
+TXHEHE
+
+PSKg
 --- page 22 ---
 Minimum shift keying, MSK, is a form frequency modulation based on a system
 called continuous-phase frequency-shift keying.
@@ -460,6 +749,16 @@ modulating data signal changes the frequency of the signal and there are no phas
 discontinuities. This arises as a result of the unique factor of MSK that the frequency
 difference between the logical one and logical zero states is always equal to half the
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+Carrier / Channel
+
+Modulating value from two bits
+0 2 if 3
+(00) (10) (01) (11)
+
+Modulated
+Result
 --- page 23 ---
 data rate. This can be expressed in terms of the modulation index, and it is always
 equal to 0.5.
@@ -584,7 +883,7 @@ FR ICR D7 FAC KH
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_EXTC_7006/Communication Theory and Systems/ANS_Communication Theory and Systems(702EX0C036)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2026
 - Text: mixed (23 pages), mean OCR confidence 49.4
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -617,6 +916,27 @@ CO-2 ;   b.   Classify and explain numerous multiplexing techniques in   [05]
 SO-1;   communication systems.
 BL-2   Ans:
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+COMPUTES A. Boolean function. of th estates ‘of
+
+preventing the pt y
+Shift register from the'fllp” tops. -
+
+emptying Logic circuit
+h Multi loop feedback
+Flip-flop circuit
+_ Output
+Shift register 1 = 2 > =~ ™ sequence
+with m flip flops
+Clock + +
+
+FIGURE 7.1 Feedback shift register.
+
+The flip-flops in the shift register are regulated by a single timing clock.
+
+At each pulse (tick) of the clock, the state of each flip-flop is shifted to t
+he next one down tthe line.
 --- page 2 ---
 Diagram- 2marks
 Explaination-3 marks
@@ -677,6 +997,28 @@ ility   5   5
 Find the Huffman Code, Average code length, Entropy.
 Ans:
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Best sampling
+time
+
+Distortion at sampling time
+—_
+
+Slope = sensitivity to
+timing error
+
+Margin over
+
+noise:
+
+ST Zero-crossing
+: jitter
+Time interval over
+which the wave is
+best sampled
+
+Interpretation of the eye pattern for a baseband binary data transmission system.
 --- page 4 ---
 Rare 75 id Oo STS + 0.275
 
@@ -703,6 +1045,40 @@ b) What is minimum distance between code vectors? (2 Marks)
 c) How many errors can be detected? How many errors can be
 corrected? (2 Marks)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+m(t)
+(a)
+
+mol S(t) X m(t)
+
+Multiplier -——>
+S(t [
+S(t) dt ul
+
+|] {LLL
+t
+
+0 q,
+
+(e)
+
+(b)
+
+Figure 5.1-1 (a) A signal m(t) which is to be sampled. (6) The sampling function S(t) consists of a train
+of very narrow unit amplitude pulses. (c) The sampling operation is performed in a multiplier. (d) The
+samples of the signal m(t).
+
+Guard )
+
+|F (S(t) m(t))| (a) £>2f,
+‘ I
+IF (S(4)m(4))]
+(b) <2,
+|4 f, f Figure 5.1-3 (a) A guard band
+
+appears when f, > 2fy. (b) Over-
+A-hy lapping of spectra when f, < 2fy.
 --- page 7 ---
 d) What is the minimum distance between the code vectors? (1
 mark)
@@ -749,6 +1125,24 @@ The Quadrature Phase Shift Keying (QPSK) is a variation of BPSK,
 [06]
 and it is also a Double Side Band Suppressed Carrier (DSBSC)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+A time-invariant filter defined in this way is called a matched filter. Correspondingly, | LO”
+optimum receiver using matched filters in place of correlators is called a matched-filt
+receiver. Such a receiver is depicted in Figure 7.9, shown below.
+
+o(T-A ere yy
+
+Received o(T- > ro ; | Observation
+
+signal —p | vector
+ait) | x
+
+‘ Ne.
+
+oF part of oT ~1) 2 i iy
+filter receiver; the signal transmission Matched Sample
+decoder is as shown in Figure 7.8(b). filters atteT
 --- page 10 ---
 CO-5;   modulation scheme, which sends two bits of digital information at a
 SO-1;   time, called as bigits.
@@ -769,6 +1163,24 @@ modulated.
 The QPSK waveform for two-bits input is as follows, which shows the
 modulated result for different instances of binary inputs.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+PSK,
+
+x
+
+LO
+4
+a QPSK
+_ # Carrier
+Digital Odd | Even [a Output
+data bits | bits |.
+= Phase
+2-bit shifter
+Serial-to-parallel
+converter
+
+PSKg
 --- page 11 ---
 Q4   a.   Classify and demonstrate with frequency spectrum of numerous   [10]
 CO-1;   Amplitude modulation (AM) techniques. Give one application of each
@@ -777,6 +1189,42 @@ BL-2   Ans:
 Diagram 5 marks
 Explanation 5 marks
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+QPSK Demodulator
+
+The QPSK Demodulator uses two product demodulator circuits with local oscillator, two band pass filters, two
+integrator circuits, and a 2-bit parallel to serial converter. Following is the diagram for the same.
+
+PSK,
+xrere
+bed
+| Data
+
+}—>
+
+apsk Odd | Even
+Input ia) RY sell es
+Tocal Toit
+I Carrier Parallel-to-serial
+converter
+xX-iAtl
+co
+
+PSKq
+
+The two product detectors at the input of demodulator simultaneously demodulate the two BPSK signals. The pair
+of bits are recovered here from the original data. These signals after processing, are passed to the parallel to serial
+converter.
+
+Carrier / Channel
+
+Modulating value from two bits
+0 2 1 3
+(00) (10) (01) (11)
+
+Modulated
+Result
 --- page 12 ---
 CO-2;   b.
 SO-1;   [10]
@@ -788,6 +1236,15 @@ Sampling Techniques: 2 Marks
 Diagram- 3 marks
 Explanation- 5 marks
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Pulse width modulation (PWM) is defined as the process of varying the width of the pulse in proportion to
+the instantaneous variations of message,
+Lot A be the width of the pulse in the unmodulated pulse train, In PWM
+
+Ae Vv, (58)
+Mathematically, the width of pulse in PWM signal is given by
+4 =A(I+y), (59)
 --- page 13 ---
 Q5   a.   Explain Adaptive Delta modulation digital modulation technique with   [10]
 CO-3;   related waveforms and diagram.
@@ -796,6 +1253,45 @@ BL-3
 Diagram : 4 Marks
 Explanation : 6 Marks
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+When there is no message, i. v, =O, then the width of the pulse wil be equal tothe original width A, For
+positive values of message, the width will be proportionately increases by (1 + v.) factor, For negative values
+of message, the width decreases by (1 ~ ,) factor,
+
+%m
+
+uu,
+
+it
+
+TL
+
+Fig.53° Generation of PWM signal (a) Message, (b) pulse train and (c) PWM.
+
+;
+
+Figure 5.3 shows the generation of PWM signal, The amplitude of the pulse remains constant in this case.
+Thus PWM is more roubst to noise compared to PAM, This is the difference with respect to PAM signal. The
+mathematical treatement about the frequency domain aspect of PWM is an involved process, However, the
+resulting PWM will still have the spectrum in the baseband region itself. The illustration given in Fig, 5.3 is
+made only using trailing edge of the pulse, We can also perform the same using either leading edge or both,
+Even though, the PWM signal also contains the message information in the pulse train, it is seldom used as
+a sampling process to discretize the continuous time signal as in PAM case due to its indirect way of storing
+message information and also the randomness involved in the width modification, Thus PWM has limited use
+in signal processing and communication field, Alternatively, PWM finds use in power applications like direct
+current (dc) motor speed control as described next,
+
+Speech Control of DC Motors using PWM The speed of the de motor depends on the average de volt-
+age applied across its terminals, Suppose if V volts is the voltage for running the de motor at its full speed,
+then 0 volt is the voltage for the rest condition of de motor. Now, the speed of the de motor can be varied
+from its rest to full speed value by varying the de voltage. This can be conveniently performed with the help
+of PWM as illustrated in Fig, 5.4, The constant de voltage source is applied across the terminals of de motor
+through a gating circuit controlled by the PWM signal, The gating circuit will essentially convert the constant
+de source into a variable de source, Suppose when there is no modulation, the width of the pulse will be the
+original value A and let this run the de motor at some speed. Now when the width increases, the voltage value
+increases from its unmodulated case and hence the speed, It happens in the opposite way for the decrease in
+width, Thus, PWM provides a convenient and efficient approach for the speed control of de motors,
 --- page 14 ---
 CO-5-;   b.
 SO-1;
@@ -853,6 +1349,39 @@ Diagram: 2 marks
 Waveforms: 2 marks
 Explanation: 6 marks
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+Unmodulated Unenodulated
+
+F With no modulation, a
+_ peak detector is simply
+_ HWR and op voltage is Average value of output voltage is
+Vp-0.3V approx. equal to the peak value of the
+y unmodulated carrier.
+
+v,70.3
+i 60
+FIGURE 5-27 Postive peak detector: [a] input waveform; {b) outgut waveform
+
+
+The pulse analog modulation techniques are of three types namely, PAM, PWM and PPM. This section
+describes cach of them and also about the recovery of message from them.
+
+5.2.1 Pulse Amplitude Modulation (PAM)
+Pulse amplitude modulation is defined as the process of varying the amplitude of the pulse in proportion to
+the instantaneous variations of message signal.
+Let the message signal be given by
+v, = F sine t (5.1)
+If-x(1) is a periodic signal with period T,, then it should satisfy the defnition stated as x(t) = x(r + T,). The
+pulse train is a periodic signal with some fundamental period say 7, Then the information present in each
+period of the pulse train is given by
+pe, Ostsa (5.2)
+=0 AsisT, . (8.3)
+where A is the width of the pulse and the leading edge of the pulse is assumed to be coinciding with the start-
+ing of the interval in each period.
+The pulse amplitude modulated wave in the time domain is obtained by multiplying the message with the
+pulse train and is given by
+| hl (3.4)
 --- page 18 ---
 Q7   a.   Utilize the diagram to describe the working of Synthesizer for   [05]
 CO-4;   generating the signal and analyzer for reconstructing the signal for
@@ -861,6 +1390,47 @@ BL-2   Ans:
 Diagram 2 marks
 Explanation 3 marks
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+‘Substituting p in the above equation we get
+p= VV sine Ostsd (5.5)
+
+=o astsT, (56)
+
+Figure 5.1 shows the message, pulse train and PAM signal, The amplitude of the PAM signal follows the
+message signal contour and hence the name. It can be shown that the spectrum of PAM signal is a sine flunc-
+tion present at all frequencies (for derivation, please refer to the topic of Fourier series in any of the signals
+and systems textbook). Of course, its significant spectral amplitude values will be in the low frequency
+range and tapers off as we move towards the high frequency range, The message signal is a low frequency
+signal. Multiplication of the two for generating the PAM signal results in the convolution of their spectra in
+the frequency domain, Thus PAM signal still retains the message spectrum in the low frequency range after
+modulation, This és the difference between amplitude modulation of sine wave and pulse train. Therefore,
+PAM is not useful like AM for communication. Altematively, PAM is found to be useful in understanding the
+sampling process to be described next.
+
+Oe | iin (a)
+ALI tb)
+
+Pe
+
+Up °
+
+Sampling Process Sampling is a signal processing operation that helps in sensing the continuous time
+signal values at discrete instants of time, The sampled sequence will have amplitudes equal to signal values
+at the sampling instants and undefined at all other times. This process can be conveniently performed using
+PAM described above, The sampling process can be treated as an
+electronic switching action as shown in Fig. 5.2. The continuous
+time signal to be sampled is applied to the input terminal, The = “sin [—*
+pulse train is applied asthe contro signal ofthe switch, When the Sa! Sigal
+pulse occurs, the switch is in ON condition, that is, acts as short
+circuit between input and output terminals. The output value will
+therefore be equal to input. During the other intervals of the pulse
+train, the switch is in OFF condition, that is, acts as open circuit = pulse tain
+
+The output is therefore undefined. The output of the switch will be
+
+essentially a PAM signal. Any active device like diode, transistor Fig 5.2 istration of sampling
+or FET can be used as a switch, pres,
 --- page 19 ---
 CO-5;   b.   [05]
 SO-
@@ -891,6 +1461,27 @@ level of filtering is increased and the bandwidth reduced. To overcome
 this problem GMSK is often used and this is based on Minimum Shift
 Keying, MSK modulation. The advantage of which is what is known as
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+na Fe en
+
+6,(0)
+
+T
+sil) J Sf dt —> Sj
+
+sf —
+
+oo(t)
+
+L+(s > i dt Pe Siy
+
+oy(o
+
+(a) (b)
+
+(a) Synthesizer for generating the signal s,(t). (b) Analyzer for reconstructing the signal
+vector {s;}.
 --- page 20 ---
 a continuous phase scheme. Here there are no phase discontinuities
 because the frequency changes occur at the carrier zero crossing points.

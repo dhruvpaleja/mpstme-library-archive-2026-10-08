@@ -245,6 +245,32 @@ SO-7;   procedure.
 BL-2
 b.   10
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+CURRENT
+CONDUCTOR
+
+———_
+DIRECTION OF
+WELDING
+
+SHIELDING
+
+GAS GAS IN
+
+NOZZLE
+NONCONSUMABLE
+
+TUNGSTEN
+ELECTRODE
+
+FILLER 1st
+iad | e—cas SHIELD
+WZ Vitis
+Narc
+SOLIDIFIED
+
+WELD METAL
 --- page 5 ---
 Q.6
 CO-1;
@@ -261,4 +287,31 @@ SO-7;   b. Correct Answer – 10 Marks   10
 BL-2
 **************
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+HOT ROLLING COLD ROLLING
+PROCESS PROCESS
+
+Metal is fed into the rolls after being | Metal is fed into the rolls when its
+heated above the recrystallization —_| temperature is below the
+
+temperature. recrystallization temperature or at
+room temperature.
+
+Very thin sections and sheets are Aluminium foils up to 0.02 mm can
+
+obtained. be made,
+
+The process of rolling consists of A process by which the sheet metal
+passing the hot ingot through the two | or strip stock is introduced between
+rolls, rotating in opposite directions, | rollers and then compressed and
+at a uniform peripheral speed. squeezed,
+
+Cheaper and less time consuming. __| Expensive and more time consuming
+
+Less manufacturing delays due to | More manufacturing delays
+the fact steel does not need to be
+reheated
+
+Use of heat is required. No use of heat is required.
 ````

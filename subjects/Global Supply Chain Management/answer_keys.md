@@ -84,6 +84,43 @@ BL-2,5   design , material sourcing and selection , manufacturing processes ,
 delivery of the final product to the consumers as well as end of life
 management of the product after its useful life.”
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Dimensions to Consider When Evaluating Total Cost from Offshoring
+
+Activity Affecting
+Di ce Impact of Offshoring
+Order communication ‘Order placement More difficult communication
+Supply chain visibility ‘Scheduling and expediting Poorer visibility
+Raw material costs ‘Sourcing of raw material ‘Could go either way
+depending on raw material
+sourcing
+Unit cost Production, quality (production Labor/fixed costs decrease;
+and transportation) quality may suffer
+Freight costs Transportation modes and Higher freight costs
+quanti
+Taxes and tariffs Border crossing Could go either way
+‘Supply lead time ‘Order Communication, supplier Lead time increase results in
+production scheduling, poorer forecasts and higher
+production time, customs, inventories
+transportation, receiving
+‘On-time delivery/iead time Production, quality, customs, Poorer on-time delivery and
+uncertainty transportation, receiving increased uncertainty resulting
+in higher inventory and lower
+product availability
+Minimum order quantity Production, transportation Larger minimum quantities
+increase inventory
+Product returns Quality Increased returns likely
+Inventories Lead times, inventory in transit Increase
+and production
+Working capital Inventories and financial Increase
+reconciliation
+Hidden costs ‘Order communication, Higher hidden costs
+invoicing errors, managing
+exchange rate risk
+Stockouts ‘Ordering, production, Increase
+transportation with poorer
+visibility
 --- page 4 ---
 Elaborate with examples.
 A multinational company like Sony uses a globally distributed supply
@@ -293,6 +330,43 @@ BL-2,5   design , material sourcing and selection , manufacturing processes ,
 delivery of the final product to the consumers as well as end of life
 management of the product after its useful life.”
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Dimensions to Consider When Evaluating Total Cost from Offshoring
+
+Activity Affecting
+Di ce Impact of Offshoring
+Order communication ‘Order placement More difficult communication
+Supply chain visibility ‘Scheduling and expediting Poorer visibility
+Raw material costs ‘Sourcing of raw material ‘Could go either way
+depending on raw material
+sourcing
+Unit cost Production, quality (production Labor/fixed costs decrease;
+and transportation) quality may suffer
+Freight costs Transportation modes and Higher freight costs
+quanti
+Taxes and tariffs Border crossing Could go either way
+‘Supply lead time ‘Order Communication, supplier Lead time increase results in
+production scheduling, poorer forecasts and higher
+production time, customs, inventories
+transportation, receiving
+‘On-time delivery/iead time Production, quality, customs, Poorer on-time delivery and
+uncertainty transportation, receiving increased uncertainty resulting
+in higher inventory and lower
+product availability
+Minimum order quantity Production, transportation Larger minimum quantities
+increase inventory
+Product returns Quality Increased returns likely
+Inventories Lead times, inventory in transit Increase
+and production
+Working capital Inventories and financial Increase
+reconciliation
+Hidden costs ‘Order communication, Higher hidden costs
+invoicing errors, managing
+exchange rate risk
+Stockouts ‘Ordering, production, Increase
+transportation with poorer
+visibility
 --- page 4 ---
 Elaborate with examples.
 A multinational company like Sony uses a globally distributed supply
@@ -502,6 +576,43 @@ BL-2,5   design , material sourcing and selection , manufacturing processes ,
 delivery of the final product to the consumers as well as end of life
 management of the product after its useful life.”
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Dimensions to Consider When Evaluating Total Cost from Offshoring
+
+Activity Affecting
+Di ce Impact of Offshoring
+Order communication ‘Order placement More difficult communication
+Supply chain visibility ‘Scheduling and expediting Poorer visibility
+Raw material costs ‘Sourcing of raw material ‘Could go either way
+depending on raw material
+sourcing
+Unit cost Production, quality (production Labor/fixed costs decrease;
+and transportation) quality may suffer
+Freight costs Transportation modes and Higher freight costs
+quanti
+Taxes and tariffs Border crossing Could go either way
+‘Supply lead time ‘Order Communication, supplier Lead time increase results in
+production scheduling, poorer forecasts and higher
+production time, customs, inventories
+transportation, receiving
+‘On-time delivery/iead time Production, quality, customs, Poorer on-time delivery and
+uncertainty transportation, receiving increased uncertainty resulting
+in higher inventory and lower
+product availability
+Minimum order quantity Production, transportation Larger minimum quantities
+increase inventory
+Product returns Quality Increased returns likely
+Inventories Lead times, inventory in transit Increase
+and production
+Working capital Inventories and financial Increase
+reconciliation
+Hidden costs ‘Order communication, Higher hidden costs
+invoicing errors, managing
+exchange rate risk
+Stockouts ‘Ordering, production, Increase
+transportation with poorer
+visibility
 --- page 4 ---
 Elaborate with examples.
 A multinational company like Sony uses a globally distributed supply
@@ -711,6 +822,43 @@ BL-2,5   design , material sourcing and selection , manufacturing processes ,
 delivery of the final product to the consumers as well as end of life
 management of the product after its useful life.”
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Dimensions to Consider When Evaluating Total Cost from Offshoring
+
+Activity Affecting
+Di ce Impact of Offshoring
+Order communication ‘Order placement More difficult communication
+Supply chain visibility ‘Scheduling and expediting Poorer visibility
+Raw material costs ‘Sourcing of raw material ‘Could go either way
+depending on raw material
+sourcing
+Unit cost Production, quality (production Labor/fixed costs decrease;
+and transportation) quality may suffer
+Freight costs Transportation modes and Higher freight costs
+quanti
+Taxes and tariffs Border crossing Could go either way
+‘Supply lead time ‘Order Communication, supplier Lead time increase results in
+production scheduling, poorer forecasts and higher
+production time, customs, inventories
+transportation, receiving
+‘On-time delivery/iead time Production, quality, customs, Poorer on-time delivery and
+uncertainty transportation, receiving increased uncertainty resulting
+in higher inventory and lower
+product availability
+Minimum order quantity Production, transportation Larger minimum quantities
+increase inventory
+Product returns Quality Increased returns likely
+Inventories Lead times, inventory in transit Increase
+and production
+Working capital Inventories and financial Increase
+reconciliation
+Hidden costs ‘Order communication, Higher hidden costs
+invoicing errors, managing
+exchange rate risk
+Stockouts ‘Ordering, production, Increase
+transportation with poorer
+visibility
 --- page 4 ---
 Elaborate with examples.
 A multinational company like Sony uses a globally distributed supply
@@ -920,6 +1068,43 @@ BL-2,5   design , material sourcing and selection , manufacturing processes ,
 delivery of the final product to the consumers as well as end of life
 management of the product after its useful life.”
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Dimensions to Consider When Evaluating Total Cost from Offshoring
+
+Activity Affecting
+Di ce Impact of Offshoring
+Order communication ‘Order placement More difficult communication
+Supply chain visibility ‘Scheduling and expediting Poorer visibility
+Raw material costs ‘Sourcing of raw material ‘Could go either way
+depending on raw material
+sourcing
+Unit cost Production, quality (production Labor/fixed costs decrease;
+and transportation) quality may suffer
+Freight costs Transportation modes and Higher freight costs
+quanti
+Taxes and tariffs Border crossing Could go either way
+‘Supply lead time ‘Order Communication, supplier Lead time increase results in
+production scheduling, poorer forecasts and higher
+production time, customs, inventories
+transportation, receiving
+‘On-time delivery/iead time Production, quality, customs, Poorer on-time delivery and
+uncertainty transportation, receiving increased uncertainty resulting
+in higher inventory and lower
+product availability
+Minimum order quantity Production, transportation Larger minimum quantities
+increase inventory
+Product returns Quality Increased returns likely
+Inventories Lead times, inventory in transit Increase
+and production
+Working capital Inventories and financial Increase
+reconciliation
+Hidden costs ‘Order communication, Higher hidden costs
+invoicing errors, managing
+exchange rate risk
+Stockouts ‘Ordering, production, Increase
+transportation with poorer
+visibility
 --- page 4 ---
 Elaborate with examples.
 A multinational company like Sony uses a globally distributed supply

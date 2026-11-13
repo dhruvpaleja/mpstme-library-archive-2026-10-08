@@ -1749,7 +1749,8 @@ ARRRSRSIS SA SERE a= !
 - Programmes: B TECH / MECHATRONICS
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELECTRONIC DEVICES AND CIRCUITS BATCH 2018-19 RE EXAM.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 23 January 2019
-- Text: ocr (3 pages), mean OCR confidence 67.9
+- Text: ocr (3 pages), mean OCR confidence 79.8
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 J -
@@ -1863,86 +1864,35 @@ impedance with feedback.
 
 2 of 3
 --- page 3 ---
-$x9o |eveg] || Pars
+DATA SHEET
 
-agt = e/¢e
-ggae peer ee oe ea
-s/[dfolo Sls
-a! “een] | | : 3/3
-oO aad a) elo
-°3 alalale
-. - 7 ol-1 ole
-an an = + = = iS) 4
-3 23s lsh. apa slo gh}21 |
-; nloleole e232
-: AlN, ofo
-s|¥/ 88288 18 aha
-* seeeee slalsle
-AEN OO
-3|. a
-E/sieesagea] fafstgia| |< 2
-2 : = m4
-& vlals|e
-Elglssasagig} [ECE fg
-7 : == ale] ele = wlio
-- ma fal ald ie a
-5
-13 looooouse ; 1
-SE /SSERRSS baba Ss
-Slog elole ele
-El giaaaagisa! 9/3|3/F\= al 2\2
-~ » ~
-: ° Blelelels J 3/218
-* fl eel aa a SPS 14
-S)e/88es248) Boo
-8/3/28] 4)8
-q Fa a |elé
-[=3 ” “ ‘
-Ep |RR2R838 MERE ee eee le
-4 :
-fa Elelslele
-% o]t|ais .
-a Jig mune [Oo = A : j oly
-” ° & | (2/8
-< & a“ < e mS
-&| Js lee ri} tts ale
-< su j/asl il alSlo
-al >? =\§ Esa
-i =/8 £2) 212
-iy &
-elenisaial SIAAAl |S gels
-eis ~ a aA
-‘lees BELLI ly
-esau i=]
-Jide (|SSSS98914) 5° 5 Pglele
-“3 TSF 3s
-o> 3!
-of e
-S35 /SSS2Re8li jor, ¥
-| 222 2 elole
-= xxx . os Rim
-G26 yan 8
-Sk lroovnay wea s
-SEV [asses eg
-oy. p- “
-ERE Bareeas 8 BP . 318 Ss
-= a2 s
-ger |7 : 2 eg3 ll i] 3
-ge nooo : Se
-ERs (essarggsl| ladaaaaa
-R@zPlar™ CSP lizleuusesy
-Sleyghas
-aes
-S| |g
-ee
-& a~ Hal = 5 &
-: = lel _& ze | |S
-iy c 5 an |...
-§ | g8S2seells/Sq8828y & Fl g|=
-2 |Saasecciisigssaess| S| fEIE
-& |S8SRSSR IE SARRRRA = Ey
+Pdmax Icmax Vo) y v v v. . . Derate
+Transistor type @25C @ 25°C vol volts (Sis) (SE) wl WHET maz oe STEM ain Small’ Signal, mi sche Tee
 
-3 of 3
+Wats Amps d.c. : dic. volts d.c.volis dic. duce dic. toe min typ. max. min, typ. max. : wee
+2N 3055 115-5 15-0. 1-1 100 60 70 90 1 200 20 50 70 18 50 120 18 1
+
+- o +S 0-7
+ECN 055 50-0 5-0 10 60 50 55 60 5 200 25 » 50 100 25 75 125 15 35 0-4
+ECN 149 30-0 40 1-0 50 40. _ _ 8 150 30 50 110 33 60 us 1-2 4-0 0-3
+ECN 100 5-0 0-7 0-6 70 60 65 - 6 200 50 90 280 50 90 280 0-9. 35 0-05
+ae eee ) use fea tas a bd 50 _ 6 125 11S 180 220 | 125 220 260 0-9 _ _-
+ae os ‘ es g — -_ _ 100 35 _ 65 — - 45 — ae as aa
+BCIMIB 0-25 - OL 6-25 50 45 50 _ 6 125 200 290 450. 240 330 500 0-9 _ -
+Transistor type hie - hoe hre aja
+BC 147A 27K 2 ‘18h.o 15 x10" 0-4°C/mw BFW 11—JFET MUTUAL GHERACTERISTICS
+2N 525 (PNP) 14KQ 2s 3-2 x 10* — -Ves valts 0-0 | -0-2 | 04} 0-6) 0-8} 1-0] 1-2 |.16] 20] 24 | 2-5 | .3-0 | 3-5 | 4-0
+Tee ths asf pe 30n © 2x 10% 0-4°C/mw Fos max. mA _|.40|-9-0| 831 76168] 61] 54] 42|.31] 22 | 2-0] 1-1 [ 0-5"| 00
+ECN 149 250 2 7 Ips typ. mA «| 7-0 69-| 54 | 46) 4-0] 3-3 | 2-7 | 1-7 | 08] 0-2 | 0-0 | 60 0-0 | 0-0
+ECN 055 100 2 : . Ios min. mA | 4-0 | 3-0 | 22[ 1-6] 1-0]. 0:5] 0-0] 00] 00] 00 | 00[ 00 | 00 | 00
+2N 3055 25 2 = = == :
+N-Channel_JFET 5
+Vy; max. Vp, max. Vz, max. P, max. T, max. Joss Bae -V, Volts ‘, Derate 8,
+Type Volts Volts Vols   @25°C (ypical) above 25°C
+
+2N3822 50 50 50-300 mW 175°C 2mA 3000 ng 6 50KQ   2mWrc 0-59°C/mW
+
+BFW 11 (typical) 30 30 30 300 mW 200°C" 7 mA 5600 2B 25 50 KQ — 0.59° C/mwW
 ````
 
 ## 2017-18 · Exam not stated · Sem 3 · paper e7510425f450

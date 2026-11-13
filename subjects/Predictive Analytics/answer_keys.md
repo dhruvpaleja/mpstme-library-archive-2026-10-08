@@ -238,6 +238,16 @@ idea of splitting the dataset into 2 parts- training data and test data.
 Train data is used to train the model and the unseen test data is
 used for prediction. If the model performs well over the test data
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+(9) (97) 102.5)
+Lower Medi Upper
+Quartile
+(Q) Ps (Q) Bon Bh
+* , Value
+(uy
+Proanenesesenent pcannennnanccensecan|
+80 90 100 no 120
 --- page 4 ---
 and gives good accuracy, it means the model has not over fitted the
 training data and can be used for prediction.
@@ -325,6 +335,67 @@ The ROC curve is the plot between sensitivity and (1- specificity).
 sensitivity is also known as the True Positive rate. Following is the
 ROC curve for the case in hand.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Cummulative
+
+Lift/Gain_Columi ~ [sRights _%Wrongs|Cum %Rig Cum %Wrong|K-S
+
+Row La > o 1 Grand Tot 0% 0% 0% 0% 0%
+2 543 543) 14% 0%) 14% 0%) 14%)
+2 = 542 544) 14% 0% 28% 0% 28%)
+3 7 337 saa] 14% 0%| 42% 1%] 42%
+4 1s 529 544) 14% 1%] 56% 2%] 54%)
+S 20 524 544) 14% 1% 69% 3% 67%)
+6 42 502 544) 13% 3% 83% 5%] 77%
+7 104 440 saa] 11% 7%] 94% 12%] 82%) K-S
+8 345 199 S44) 5% 22%) 99% 34%) 65%
+9 51s 23 544) 1% 32%) 100% 66% 34%)
+10 540 5 545) 0% 3496] 100% 100% 0%)
+
+Grand Tot 1590 3850 5440)
+
+Target
+Positve | Negative
+
+Confusion Matrix
+
+Mode! |_Pestive a b Positive Predictive Value _| a/(a+b)
+Negative c d Negative Predictive Value | d/(c+d)
+Sensitivity | Specificity :
+aaa aes Accuracy = (a+d)/(a+b+c+d)
+
+Hence, for each sensitivity, we get a different specificity. The two vary as follows:
+
+True Negative rate
+
+True Positive rate
+Sensitivity
+
+Criterion value
+
+100%
+
+80%
+
+20%
+
+ROC curve
+
+— Model
+
+—— Random
+
+0%
+
+20%
+
+40% 60%
+1- specificity
+
+80%
+
+100%
 --- page 8 ---
 Here, students can provide an example such as threshold = 0.5
 and the confusion matrix:
@@ -537,6 +608,20 @@ CO-1;SO-2;BL-2   10
 | Value   | Business benefit   | Insight extraction
 | Variability | Data inconsistency | Pattern management |
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Step 4: Final LOF Table (Exact Values)
+
+Point LOF
+
+A 1.087
+B 1.087
+Cc 1.087
+D 1.103
+E 1.077
+G 0.921
+
+F 0.921
 --- page 14 ---
 Steps in the KDD Process -
 1. Data Selection
@@ -577,6 +662,25 @@ CO-3;SO-2;BL-4   artificial neural network (ANN).
 a.   10
 Ans: 4 marks for diagram and 6 marks for explanation
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Pattern nowledge
+Evaluation
+
+Wa “\_-4
+
+Pattern
+
+Transformation
+Task Relevant
+an ao
+
+Data
+Cleaning,
+Data Warehouse
+
+Data Integration
+Pesnitiiian:
 --- page 15 ---
 Architecture
 Input Layer: Receives raw data features (e.g., pixels, financial data).
@@ -599,6 +703,24 @@ Meta-Learning: Learns common patterns across tasks, Adapts to
 new tasks with few samples and Enables fast learning and
 generalization
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Inputs enter Input has weights
+
+the input layer assigned to it
+Predicted
+—_ sm output
+Outputs are
+predicted 9
+Outputs
+—> 22 > Error difference
+between predicted
+output and actual
+y output
+> 3 Actual
+. Output
+
+T= ta Layer Hidden Layer Output Layer
 --- page 16 ---
 Task Distribution - Instead of one dataset, the model is trained
 on multiple related tasks Example: classifying different object

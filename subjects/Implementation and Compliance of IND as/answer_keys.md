@@ -246,6 +246,36 @@ inventory valuation under Ind AS 2. (01 mark)
 1.   8
 2.   7
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+Step 1: Purchase price (after trade discount) (2 Marks)
+Catalogue price = 362,00,000
+
+Less: 8% trade discount = 4,96,000
+
+Net purchase price = %57,04,000
+
+(GST ignored since recoverable)
+
+Step 2: Directly attributable costs (capitalised) (4 Marks)
+
+Particulars Amount ()
+Net purchase price 57,04,000
+Freight & insurance 2,75,000
+
+Customs & port charges 1,60,000
+Non-refundable import duty 4,20,000
+Inland transportation 95,000
+Factory floor modification 1,85,000
+Installation & calibration 2,90,000
+Trial run consumables 1,50,000
+Subtotal = %72,79,000
+
+Step 3: Costs not capitalized (1 Mark)
+Training expenses — %1,40,000 (expensed)
+Maintenance contract — %2,10,000 (service expense/prepaid)
+
+Final Cost of PPE
 --- page 4 ---
 Solution
 

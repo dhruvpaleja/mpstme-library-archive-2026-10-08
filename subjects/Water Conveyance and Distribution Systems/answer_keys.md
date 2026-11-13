@@ -45,6 +45,22 @@ Q3a
 •   Form and solve Jacobian for corrections.
 2.5X4
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Gravity vs Pumping system — Gravity systems use elevation difference, low O&M
+cost, reliable but limited to terrain; Pumping systems use mechanical energy, flexible
+siting, higher O&M, vulnerable to power failure.
+
+Newton Raphson vs Linear Theory — Newton Raphson: iterative, quadratic
+convergence, requires Jacobian; Linear Theory: assumes linear head-flow relation,
+simpler but less accurate.
+
+Balancing vs Impounding reservoirs — Balancing: equalize fluctuations, smaller
+capacity, daily regulation; Impounding: store seasonal flows, large capacity,
+long-term regulation.
+
+Node compatibility — At a node, algebraic sum of discharges = 0 (continuity); head
+compatibility ensures equal hydraulic grade line Eagiunction|
 --- page 2 ---
 •   Update heads until convergence.
 Q3b

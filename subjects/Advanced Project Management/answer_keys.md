@@ -195,6 +195,25 @@ Canada teams can proceed without waiting.
 Application: Use Jira for backlog tracking, Confluence for documentation, and Miro
 for planning.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Barrier Example
+
+A manufacturing firm tried to adopt Agile without CEO support — team reverted to old
+
+1. Lack of Executive Sponsorship: habits,
+
+2. Resistance to Change: Functional managers feared loss of control when introducing standardized templates.
+
+A global IT company applied PRINCE2 rigidly in India without adapting to local work
+culture — low adoption.
+
+3. Cultural Misalignment:
+4, Insufficient Training: Teams didn't understand the methodology — inconsistent application.
+
+5. Over-complex frameworks: A startup adopted a highly bureaucratic methodology —> delayed projects.
+
+6. Lack of perceived value: Employees felt the methodology adds paperwork but no results.
 --- page 5 ---
 Example: All teams update task progress in Jira daily; stakeholders can track sprint
 status anytime.
@@ -260,6 +279,50 @@ Q 6 A   Analyze the difference between a project manager’s and a portfolio man
 CO-3;
 BL-4
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Level Description Key Characteristics
+
+[At this entry level, PM processes are ad-hoc and inconsistent.
+Projects are managed reactively, with little standardization or —_|- No common processes - High variability
+Level 1: Initial Process documentation. Success depends on individual heroics rather than |in outcomes - Reliance on personal
+repeatable methods. Organizations recognize the need for PM but |experience
+lack formal structures.
+
+Basic PM processes are established and repeatable for individual
+Level 2: Structured Process |projects. Standards for planning, tracking, and controlling are
+and Standards (or Repeatable) |introduced, allowing some consistency. However, these are not
+yet integrated across the organization.
+
+- Repeatable practices for similar projects -
+Basic tools and training - Focus on
+discipline in execution
+
+Level 3: Organizational PM processes are standardized and integrated organization-wide.
+Standards and A singular methodology is adopted, ensuring consistency across |" Eperprise wide standards - Imeerated
+Institutionalized Process (or _|all projects. Training and compliance are emphasized, with ie fi nee vd boa peaches ‘ocus on
+Defined) processes documented and tailored as needed. compliance and Dest practices
+
+Processes are quantitatively managed and measured using
+Level 4: Managed Process (or |metrics. Benchmarking against industry standards occurs,
+Benchmarking) allowing data-driven decisions. Risks are proactively controlled,
+and performance is predictable.
+
+- Use of KPIs and analytics -
+Benchmarking for improvement - Focus on
+optimization through data
+
+‘The highest level, where processes are continuously refined based
+
+Level 5: Optimized Process on feedback and lessons learned. Innovation and proactive
+
+(or Continuous Improvement) |improvement are embedded, with a culture of excellence driving
+ongoing enhancements.
+
+|- Automated tools for improvement -
+‘Culture of innovation - Sustained high
+
+performance
 --- page 7 ---
 Solution   Dimension   Project Manager (PM)   Portfolio Manager (PfM)
 Primary Focus   Delivering a specific project’s Aligning projects/programs

@@ -2130,7 +2130,8 @@ cae rol SloxrodGGst o i. _
 - Programmes: MBA TECH / TELECOM EXTC
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/Electronic Circuit Analysis & Design Batch 2014-15 Re -exam.pdf`
 - Printed on paper: exam date: 01/12/2015
-- Text: ocr (3 pages), mean OCR confidence 71.1
+- Text: ocr (3 pages), mean OCR confidence 77.9
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 : A SVKM’s NMIMS
@@ -2219,139 +2220,46 @@ series regulator : [6]
 b) Design single stage R-C coupled CC amplifier with following specification [6]
 B=60 Ajs=10 Vpe=0.7V Vec= 15V.
 --- page 3 ---
-vodix
+\
+!
+~ DATA 'SHEET
+: : Derate -
+Pdmax Iemax Veo" Veg Vergo Veen Vex Vero D.C. current gain Small Signal hi, Yin 7105, above
 
-3,
+Transistor type @ 25°C @ 25°C volis volts (Sus) (Sus) - volts volts T, max - a * max. °CcIW . 25°C
+: Watts Amps ° duc. “ dic. volts d.c.volts dic. d.c. dc. ° °C min Lyp. max. min. typ. max. wee
+2N 3055. 115-5 15-01-2100 60 70 90 1 200 20 50. 70 15 50 120. «18 1-5 0-7
+ECN 055 50-0 5:0 1-0 60 50 59 60 5 200 25 - 50 100 25 75 125 15° 3-5 0-4
+ECN 149 30-0 4-0 1-0 50 40. _ = 3 “150 30 50 110 33, 60 115 1-2 4-0 0-3
+ECN 100 5-0 07° (0-6 70 60 65 _ 6. 200 50 90 280 50 90, 280 0-9. ° 35 0-05
+BCIATA 0-25 0-1 0-25 _ 50 45 50 _ 6 125 5 180 220 125 220 260 0-9 — =
+-2N, 52.5(PNP |) 0-225 O-5 0-25 85- 30 _ _ _ 100 35 _ 65 _— 45 _ _— _ —
+BC147B 0-25 . OL 0-25 50 45 50 _ 6 125 200 290 450 | 240 330 500 0-9 — —_
+Transistor type * hie » hoe hre Oja . . ,
+BC 147A DTK Q WE LS x10 O4°Chmw — BPW 1—-JFET MUTUAL CHARACTERISTICS
+2N 525 (PNP) 14KQ, 2p U 3-2 x 10“ = -Ves volts - 0-0. | -0-2 | O4 0-6 | 0-8 T-0'| 1-2 ].1-6 | 2-0] 2-4 | 2-5. } .3-0 3-5°| 4-0
 
-ns
+EGR 100" “ea oF 2x 10* O-4°C/mw FES max. mA _|.40]-9.0] 33) 76] 6] 61] 54] 42[.31[ 22] 20] 11 [05 | 00
+ECN 149 2300 — Ips yp. mA | 7-0 | 6-0] 5-4] 4-6| 4-0] 3-3 | 2-7 | 1-7 | 0-8 | 0-2 | 0-0 | 6-0 | 0-0 | 0.0
+ECN 055 1002 — —_ —— psminmA | -40| 3:0] 22] 1-6] 1-0]. 05 [0-0 | 0-0'| 0-0] 0-0 | 0-0 | 0-0 | 0-0 | 0-0
 
-Vela)
-a
+2N 3055 25 2 — nae -—— . .
+N-Channel_JFET . _ a
 
-an
+"type Vis max. ~Vyg max. Vg, max. P, max, T, max. Joss Eno -V, Volts” Fy Derate 6,
 
-on
+_ ai Volts Volts * Volts — @25°C ; (typical) above 25°C 7
+2N3822 50 50 50 300 mW 175°C ° ... 2 mA 3000 LO 6 50 KO “2 mWPC 0-59°C/mW
+BFW 11 (typical) 30° 30 30 300 mW 200°C'° = 7 mA 5600 ps a5 25 ‘50 KQ eens " 0:59° C/nv
 
-ou
+po
+ko
+iva)
+fol
+wD
 
-aw
-aa
-
-oo
-
-oo
-
-anal
-
-on
-aN
-
-eo
-an
-
-a
-
-eo
-as
-
-on
-a)
-
-eo
-ea
-
-a
-
-i=}
-a
-
-J
-
-~
-
-)
-
-i]
-+
-
-i)
-
-2
-2
-
-Va
-a
-
-id
-Lt
-a 1m
-o's}
-Sis
-a uM
-
-eno
-
-won
-
-me
-
-eye
-
-ese
-vA
-
-Data
-
-Brelelele
-
-= re
-5
-<
-
-Tlslelslé
-Sl Sls ar
-SHEL
-
-Blalala
-a] 4} 2) 24.8
-2/2] ||
-jas |
-S| oO
-“V5 5
-
-o
-Bee || ||
-S| xxx :
-yas
-
-=e
-(| BPR
-2) 285111 1
-28a
-
-adaaaac
-] Moco
-=| oc
-
-ans
-2 ~
-
-EY x
-
-a) =
-
-. 4
-
-iS} ~ aw
-$ Snaseas
-BISQsstss
-| =R= 3
-
-Bias eagaa
-
-S
-
-m
+om
+ot
 ````
 
 ## 2015-16 · Re-Exam · Sem 3 · paper e03abd3c29ee
@@ -2360,8 +2268,8 @@ m
 - Programmes: MBA TECH / TELECOM EXTC
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/TELECOM EXTC/III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/Electronic Circuit Analysis & Design Batch 2015-16 Re -exam.pdf` (+1 identical copies)
 - Printed on paper: exam date: 10 June 2016
-- Text: ocr (3 pages), mean OCR confidence 62.5
-- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: ocr (3 pages), mean OCR confidence 73.8
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 ~ : SVKM’s NMIMS
@@ -2440,137 +2348,33 @@ Q.7 Write short notes on following: [12]
 a) Trans resistance Amplifier
 b) High frequency model of transistor
 --- page 3 ---
-Appendix Data Sheet
-
-rs 2% 5233 | !
-
-3 =
-ood
-gsak s |
-2 . 21e/ 219 os 19
-Tl/OlSIS a
-SS |2R2ali | 3
-“3 “as aba icaccan
-MOL SIS 1
-8 Jeugaaya ea hol hea be &
-8
-: sare
-Leo; Oe] Sy] e
-f/Snnoa160 iid aa ad Q 5; &
-
-S/eg/RG2Ssis Sl a
-
-s E sea A tlalale Si
-
-* NYA SIS
-
-3 - ‘ ‘ :
-
-one :
-
-2&|S/888eese!. Telcfele oc {Sig
-
-| * Qa ALA SIS sis
-
-vari al
-= : : WVISiele
-
-
-E FAM AAN I Ss 2
-
-4 aS =
-St Sle >= ae
-feialald ‘ a
-
-Eres s 1 - an
-
-S/E/RSSesss elafele
-
-=> eS als
-
-= : :
-
-§ ‘ Slololo :
-
-Pojug BaSsssie wf Pl?) S 2| . Dib
-
-g a MAMAN D Qo LOol;oi tis .
-
-2] * =~ 8 5 Ss) a]s
-
-8
-Bf elelele J2/ 8/8
-
-. SLSolaide]s ae isd
-
-O18 onoonNO fl =
-
-a EL NAMHaAMS §
-
-“8 baldieais
-= 3 aha hale
-
-8 : <g]/<
-
-eooco &
-
-EO aaegsss § g1ofolo 8 B/E
-fa RO ARS Ae et 3 SIAL Slr ate
-| es B{elelele :
-
-goog i~} wis qo
-
-I>
-x & Um PRLS
-Ee] 88s loo Tlallsis
-Sissy /SSilit i | a] cy) eye
-Q a iH) ays
-mie =z] SLE Se YOLE IE
-EON RiSfelale SI Ele
-3 2 Qi eB E
-Sag /Ralsgial 8/78) 3/8 ~Ssls
-
-s ad als
-
-G
-
-; - z ;
-
-sg~ Sesconou]| - Z| é| ||| ¥
-=> Pas | PHTSSRS 3 oO ESlole
-Ss. Do e a& Mies
-= ~.. OM, . s
-o 8 « |
-on
-SSL leooconc
-Baw Loearaan| BRS] | {ti |
-Sl ey | hi ESZisclo
-94 Bi xxx eo] B18
-4.20 won 8
-88s /zeeeggyll (2a s |
-as aA d ON
-oda
-re) "
-RO a g
-3 SSOnm sue pPp- 2
-ERE BASS SSS y rain El ols
-Lez % 28g 111 3
-es ae ea
-; . ips 2eeengs wis
-nue ~ [) u
-
-a Mek Seon
-
-Slee nk Qar |
-Nee |
-
-ts S Fi
-oR a =
-z= Gl >
-<ageo el & -_
-
-eae eee al * |g =|
-Baysssal S [5 a
+a
+: 1
+DATA SHEET
+~ : Derate
+Pdmax Icmax Vi, Vero Vero Vege Vex Varo D.C. current gain Small Signal hy, Vor 0, above
+Transistor type @ 25°C @ 25°C volts volts (Sus) (Sus). volts volts T; max — “ max, civ 25°C
+Watts Amps dic. dic. volts d.e.volts dic, dic. dic. *¢ min typ. max, min, typ. max, werC
+2N 3055 115-5 15-0 1-1 100 60 70 90 7 200 20 50 70 15 50 120 1-8 1-5 0-7-
+ECN 055 50-0 5-0 1-0 60 50 55 60 s 200 25 50 100 25 75 125 15: 3-5 0-4
+ECN 149 30-0 40 1-0 50 40. _ _ 8 “150 30 50 10 33 60 1s 1-2 40 0-3
+ECN 100 3-0 0-7 0-6 70 60 65 _ 6 200 50 90 280 50 90 280 0-9. 35 0-0,
+BCLATA 0-25 O-1 0.25 50 45 50 _ 6 125 11s 180 220 125 220 260 0-9 —_ a
+2N S25(PNP ) 0-225 OS 0:25 85 30 — > ~ 100. 35 _ 65 — 45 —_ — _ =
+BC147B 0-25 0-1 0-25 50 45 50 _ 6 125 200 . 290 450 240 330 500 0-9 _ ~—
+Transistor type hie hoe : hre Qa . .
+| : 7
+BCMA ot Q. 18h 0 15 x 104 —0.4°C/mw BFW 1} JFET MUTUAL SAR AGLERIST IES ae 2 a Stans
+2N 525 (PNP) 2 14 EQ) 25 U 3-2 10+ = -Vas volts 0:0 | 0-2} 041 6.6] 0.8 1-0} 1-2 |.1-6 | 2.0 2-4 | 2-5] 3.0 | 3.5 4.0
+nat te? : re 301 & 2x ICE 04°Chmw mA _|.401 9.0 | 83/761 cel ea 4 | 42 |. 31] 22120 T aa fos Too
+ECN 149 250 2 _ __ Ips typ. mA 7-0] 6.0 | 5.4 4-6 | 4-0] 3-3} 27] 1-71 08 0-2 | 0-0] G0 | 0.0 0-0
+ECN 055 100Q — — —— bs min. mA 40 | 3-0 | 22] 16] 10] 05] 001 001 00 0.0 | 0-0 0.0 [ 0.0 0-0
+2N_3055 . 25.9 o— —— — :
+N-Channel JFET a heoseuse ;
+Type Vag max. Voge max. Vos max, P 4 Max, T, max. - E fers Bing ~V. Volts ft Derate a,
+; Volts Volts Volts @25°C (typical) above 25°C
+2N3822 50 50 50 300 mW 178°C ama 3000 1 zy 6 50KQ “2mwrc 0-59°C/mW
+BFW 11 (typical) 30° 30 20 300 mW 200°C * 7TmA 5600 1 zy “25 50 KQ — 0-59° C/mw
 ````
 
 ## 2014-15 · Final-Exam · Sem 3 · paper 2630dfea816c
