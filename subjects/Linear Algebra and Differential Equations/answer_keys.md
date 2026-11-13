@@ -20930,7 +20930,479 @@ FRR ICR 7 QI OR
 - Departments: Computer Engineering
 - Programmes: MBATech Computer 7047
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/MBATech_Computer_7047/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026pdf_63c8c3ae`
-- Text: none (no readable pages)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
+- Text: mixed (19 pages), mean OCR confidence 44.5
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG   -NM -M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. T
+(COMP)/B. Tech (CS)/B. Tech (CSBS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech
+(DS)/B. Tech (EXTC)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA
+Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Sem 2 Re-exam/Semester II(Exam Y ear: 2025-2026)
+Subject: Linear Algebra and Differen tial Equations
+Date: 29 Jun 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks : 100
+RE EXAMINATION   (Acad. Year:2025-2026)
+Instructions :
+1. This question paper contains 19 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, ttempt a any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly:
+(a) Reduce   to   row echelon form   and find   the   rank   of   a
+.
+CO -1;
+SO -1;   [4]
+BL -Low
+CO -2;   (b) Let   be a linear map where T 1,1   2,0 and T 1, 1   0,4 .   [4]
+SO -1;
+BL -Low   Find the transformation T x , y . Using this transformation T find 4, 3 .
+**   **   1
+--- page 2 ---
+ab TCUN=(2,9) STUD oe, &)
+BiAN= Cyo)s (1)
+“(L29)= TUHADFTON OD »
+A C= (8-1 (81)
+&. (0,4) =TCL9) - T(0,1) 2
+
+aling > 4®,
+TCUON= C1,2)
+TO, 1)= C1,-D
+
+*T(%,4)= (x+y 2t-a) 9
+TC4,-3)= (1, 14) i")
+
+Ble ale
+Se We 2
+are . f pinned 3y ode 20
+( 4¢ Pax) dxt ( An% 1 pe
+( YAR tT 2%) AKT g q
+M= 4tAnt2* 5 N= Am x +34
+see a
+: cin)
+aM= CA 5 AN = Coan acing
+“Os an
+(
+ERIPIPIP] N Ee
+PGE Fhe grew out, ap)’ mM am ear - .
+: a Fy
+PIP] el 5
+PIPIPIPIRIPIPGE! oe fi
+FAng Satmuce J4
+r L. ~~ £ ‘ x
+[man 4 ia np ke rimg
+( tow f Pw
+frwe w 3
+Runa
+C fucant2™)are 4 (34° dk =C
+Oe bc (
+y xe +47 = C¢
+{ Ain + ? i _C1my
+FRI] | AR FIFI]
+ERIGE] a y
+2 Ay oH
+ale dx” dx®
+
+PIRI)
+--- page 3 ---
+(e) Form the partial differential equation by eliminating constants the arbitra from [4]
+the following equation
+x 2   y 2
+2 z   .
+a 2 b 2
+CO -5;
+SO -2;
+BL -High
+Q2   (a) In an electrical circuit, three branch i , i currents , i (in amperes) meet at
+1   2   3
+[6]
+CO -6;   junction. Using Kirchhoff ’s laws, the following system of linear
+SO -2;   equations is obtained
+**   **   3
+--- page 4 ---
+BL -Low   i 1   i 2   i 3 7; i 1   i 2 2 i 3   1; i 1 2 i 2   i 3 3 .
+Find the values of the currents i , i , i .
+1   2   3
+(b) If T : R 2 o R 2 ,   and   , S x , y   2 x , x y ,
+then find S T and T S . Write the matrix associated S with T and T S
+with respect to the standard basis.
+CO -2;
+SO -1;
+BL -   [6]
+Moderate
+CO -4;   (c)
+SO -2;
+BL -   Use variation of parameters method to D solve 2 1 y cos ecx .   [8]
+Moderate
+**   **   4
+--- page 5 ---
+
+--- page 6 ---
+(b) Find Characteristic equation of A matrix and hence find the matrix
+CO -2;
+SO -1;   2   1 1 “
+BL -   represented by5 A 5 A 4 3 A 3 5 A 2 11 A 3 where A   2 2   1 « .   [6]
+«
+Moderate   1   1 2 « ‹
+**   **   6
+--- page 7 ---
+Answer: Given:
+
+2 -1 1
+A=|—2 2 -l
+1 -l 2
+
+2-4 -1 01
+A-d4l=| 2 2-4 -1
+1 -1 2-4
+Q-a -1 1
+det(A—AN=|-2 2-A4 -1 |=0
+
+1 -1 2-A
+Thus|
+
+43-647 +94-4=0 (1)
+By Cavley-Hamilton Theorem
+
+A -64°+94-4I=0. (a)
+
+We perform polynomial division by considering:
+
+#-54°434)4547 4114430
+
+5
+=(4°-64°+94—41)(4° +A) +(154+3/). ®)
+Since £4 —6.4°+94—A4] = 0; therefore
+A -§4° 434 +54 4114437 =(15443]). (1)
+Thus the answer is
+(30 -15 15 (30 0
+154=|-30 30 -15/;37=|0 3 0}.
+{18 -15 30 {0 03
+(33-18 15
+Finally 4 —54°+34° +54? +114+37=154+32=|-30 33-15]. (1)
+{15 -15 33
+
+Aik Hina Aik
+
+
+ale feel
+--- page 8 ---
+Soln.
+
+Auxiliary equation
+
+D?-~3D+2-0—>(D-—1)(D-2)-0> D= (1,2)
+
+CF.
+> 2 marks
+y— ce” + me~*
+and
+I. = = 4(2)
+rc z
+f(D)
+i t (e~** + e* sin 2x)
+y D? 3D 22 s 1 mark
+1 -2 1 a
+= pF * sin 2x
+D?—3D+2° D—3p+2°
+replace D = —2
+
+22
+e~ 1 .
+a = sin 2x
+
+~ [a 3-2) 32 * © Dy? -3Ds 72
+
+et
+
+=p + py p sind 1 marks
+replace D? = —4
+e~= 1
+=> “=> sin2x | 1 mark
+rationalising
+et x
+=F 7 10? sin 2x —cos2xr) | 2 marks
+
+-. General solution
+
+»~2z =
+
+y = ce” + coe” + = - To" sin 2x — cos 2)
+
+1 mark
+
+AP] Bl IPI
+
+GE
+
+eda xy Bly pale
+
+dx® dx
+--- page 9 ---
+ty 4 2 4y =a", where D = d/dz...(1)
+dx? dx
+
+Letx
+
+e* (or z = log x) and D, = d/dz. Then (1) becomes:
+
+[D,(Di — 1) + D; — 4]y = (e?)® or (D7 — 4)y = e* [Mark=1]
+
+Complementary Function (C.F.)
+Its auxiliary equation is D? — 4 = 0, so that D = +2.
+
+“C.F. = ce? + ee 22 cya? bea 2 [Mark=2]
+where c; and 2 are arbitrary constants.
+Particular Integral (P.I.)
+1 P 1. 1,
+P.L=—= e* = e** = =e*
+D} 4 9-4 5
+1s
+= 5 ,asz=logr [Mark=2]
+General Solution
+ion i 2 2,14 [Mark=1]
+*, Solution is y = cia" + ea * + Sa
+5
+FIFI] ES
+lelraGleleiteieizicial of wl lee
+
+Ba &
+--- page 10 ---
+(c) i) In R 2, check whether the vector 7,11 is in the linear span of
+S   ^ 2,3 , 4,5 ‘ .
+ii) Examine the following set of vectors for linear dependence
+independence
+^ 1, 2,4 , 3, 1,5 , 2, 3, ‘ .
+(i)
+CO -1;
+SO -1;   [8]
+BL -High
+**   **   10
+--- page 11 ---
+(ii)
+(a) A mass on a spring in a viscous medium follows the differential
+d 2 x   dx
+7   10 x 0
+dt 2   dt
+Given the initial conditions x 0   2 and x ' 0   2 . Find the displacement
+x t .
+Q5
+CO -6;   [6]
+SO -2;
+BL -Low
+CO -3;   (b)
+SO -1;   Solve: 3 xy 2 y 3 dx 2 x 2 y xy 2 dy 0 .   [6]
+BL -High
+**   **   11
+--- page 12 ---
+QS \
+y= -3 We -a%s a )
+
+» “>.
+os gtr Sh ee COS
+ay a
+am 4 2S 7 ark
+TSS se i C2 marks >
+NS nor ae RRA ‘ a.
+
+Neat be
+The swe ef dsqier %,
+
+\
+Ses: = a i
+Qyra dS “ey ‘
+we Sey SS Se
+
+_———-
+
+PAMipy 3 weir Sis os
+
+(A-
+
+The sdvtion VS
+
+(a-%)*"
+
+)aee(B TE) ED
+
+(3 ay = ©
+
+, ey ec. Ce
+
+2 war —v
+
+IPI
+
+arxPly & P Rely gl z
+
+BRAY PPxPy@ AR" #x# fz
+
+ele
+
+12
+--- page 13 ---
+Q6   (a) Verify that, the following functions are solutions of the wave
+2 u   2 w 2 u
+CO -5;   2   c   2 .   [6]
+SO -2;   t   w x
+BL -High   i) u sin( wct )sin( wx   ii) u x 3 3 xt 2 .
+**   **   13
+--- page 14 ---
+Q-6-a
+
+aia ey oN au
+Der ~ < =x ——@
+
+> Us Sin (wok) Sin (ww)
+
+OY Ly sin( wet) cos(wn)
+2x
+
+stu us? sin(wet) Sin(O)
+Se
+
+andy |
+
+— (wt) sin( ex)
+ot
+
+we: Cos
+
+7 " ») __-@
+2 1.2 sin (oct) sin (or) )
+= = -b c
+
+St
+a (€9)
+
+_— wi aa inte t) sin(ox) =
+
+de comes
+
+ae stn(toct) Sin(wo%)
+
+2 jee cetl _————“t 1)
+dy cel i ;
+au" Lunch'en sobs bier “1 m , fer c= tH
+3
+
+2
+un xt 3xt
+
+i)
+Bu L aptenet Be ext OO
+5, = 3™ +e , et
+2 — = €xK ~ =
+a dhe comer
+(e 3) 2 * _
+7 6x= (cx) a me See
+me a + cotl
+«given hnchen scbishier fC) bh FE
+AA Meee | AAR
+eae ByeROx CRORE py em
+dx 7 a. a
+
+GPA
+
+14
+--- page 15 ---
+(c)   2 1 1 “
+CO -2;   «
+SO -2;   Show that the matrix A   1 2 1 is diagonalizable. Find the transf [8]
+«
+BL -Low   0 0 1 « ‹
+matrix and the diagonal matrix.
+**   **   15
+--- page 16 ---
+(Seal os eae |
+yee i]
+
+Gr io-/\
+Consrdey Cho® ey \A-rAT=0
+Nees No NSS SHO =)
+wee ye 18 ; i
+
+,
+
+Eigen vectors
+
+poo -| oo GB)
+[2 |
+\
+
+Nes
+
+me 2 t __@
+°
+
+Be Kz), AM= GMs 2 ee (5,
+
+fer X23 Bus GM=)
+A NS diagoralenble -
+
+Mef-1 Tf ard D=]) © ©
+\ 0 ) os | ° —©
+
+o ) @ .
+Al
+
+——®
+
+am eee eee)
+
+PRIGP
+ERIE
+
+16
+--- page 17 ---
+(2 QVvay> ) dp + (e+ 2PV) AV =o
+
+Me 2eVev7- N= ps 2PV Cy marie)
+DM = 2942V = ON
+ECxacr DE. @ manles )
+
+cawricn 16
+
+Pvt Nin’
+
+cecee | oom
+ae
+u wu A x
+WwW
+
+xX wy
+PIPIIFIRIPIPIGE!
+
+ele
+
+17
+--- page 18 ---
+CO -2;   (c) Consider the linear transformation T : R 3 o R 3 defined by   [8]
+SO -1;   T x , y , z   x 2 y z , y z , x y   2 z . Find the range and kernel of the
+BL -Low
+given transformation. Verify –nullity rank   theorem.
+**   **   18
+--- page 19 ---
+fv
+jd
+101)
+
+nk ta 9H Ne
+pohyHB
+
+\:| F ef
+
+Glenn wc
+````
 
 ## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 0fbc657b8fe3
 

@@ -151,11 +151,36 @@ def garbled(text):
     return letters < MIN_TEXT_LETTERS or len(words) < 10 or sum(not c.isascii() for c in text) > 0.3 * max(1, len(text))
 
 
+def rebuilt_page_tree(data):
+    """A PDF whose page tree object is missing opens with no pages although its page objects are intact; point
+    the catalog at a new page tree listing them (in object order) and return the repaired bytes, else None."""
+    import pymupdf
+    with pymupdf.open(stream=data, filetype='pdf') as doc:
+        pages = [x for x in range(1, doc.xref_length())
+                 if re.search(r'/Type\s*/Page\b(?!s)', doc.xref_object(x, compressed=True) or '')]
+        if not pages:
+            return None
+        catalog = doc.pdf_catalog()
+        target = re.search(r'/Pages\s+(\d+)\s+0\s+R', doc.xref_object(catalog, compressed=True))
+        tree = int(target.group(1)) if target else doc.get_new_xref()
+        doc.update_object(tree, f"<</Type/Pages/Kids[{' '.join(f'{x} 0 R' for x in pages)}]/Count {len(pages)}>>")
+        if not target:
+            doc.xref_set_key(catalog, 'Pages', f'{tree} 0 R')
+        for x in pages:
+            doc.xref_set_key(x, 'Parent', f'{tree} 0 R')
+        return doc.tobytes()
+
+
 def document_pages(data, fmt):
     """[{page, method, text, ocr_confidence}] for a PDF or image document."""
     import pymupdf
     pages = []
     filetype = None if fmt == 'pdf' else {'tiff': 'tiff', 'jpeg': 'jpeg', 'png': 'png'}.get(fmt, fmt)
+    if fmt == 'pdf':
+        with pymupdf.open(stream=data, filetype='pdf') as probe:
+            empty = probe.page_count == 0
+        if empty:
+            data = rebuilt_page_tree(data) or data
     with pymupdf.open(stream=data, filetype=filetype) as doc:
         for number, page in enumerate(doc, 1):
             text = page.get_text('text') if fmt == 'pdf' else ''
