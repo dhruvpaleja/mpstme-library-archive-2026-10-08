@@ -9,7 +9,6 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/Integrated_IT_7037/Introduction to Data Communication and Networks/ANS_Introduction to Data Communication and Networks(701IT0C004)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2025
 - Text: ocr (12 pages), mean OCR confidence 90.7
-- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -340,6 +339,7 @@ USA, and Germany.
 labs.
 * A bank network linking branches, ATMs, and data centers.
 
+FOO ICO ACI ACA CHK a
 --- page 6 ---
 Q4 a. | How does Analog-to-Digital Conversion (ADC) work? Explain in detail the three [10]
 
@@ -596,6 +596,7 @@ e 1SO (International Organization for Standardization)
 o Developed the OSI Reference Model.
 o Sets international standards for technology.
 
+FOC ICO OQ) ICI ACH Ak a
 --- page 10 ---
 e   JEEE (Institute of Electrical and Electronics Engineers)
 o Focuses on networking hardware and LAN standards (e.g., IEEE
@@ -2385,5 +2386,751 @@ applications that use communication services.
 • Key Functions: Provides network services to applications, such as email, file transfer, and web
 browsing. It enables end-users to access network resources through various protocols like HTTP,
 FTP, SMTP, and others.
+********** 14 **********
+````
+
+## 2024-25 · Re-Exam · Sem 5 · Answer key · paper 1a03072d502c
+
+- Departments: Information Technology
+- Programmes: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037
+- Source: `00_Original_Downloads/2024/65247__Semester V__context_fixed.zip :: Re-Exam/BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037/Introduction to Data Communication and Networks/ANS_Re-Exam_Introduction to Data Communication and Networks(701IT0C004)_Semester V_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 17 Feb 2025
+- Text: text (14 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX
+YEARS INTEGRATED PROGRAM
+Year: III/Sem 5 Re-exam(Exam Year: 2024-2025)
+Subject: Introduction to Data Communication and Networks
+Date: 17 Feb 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 14 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question 1 is compulsory.
+5. Answer any 4 of the remaining questions.
+Q1   Answer the following questions briefly:   [20]
+a.   Explain the real-life applications of Local Area Networks (LAN) in brief.
+Answer:
+•   File and resource sharing: Enables access to data, applications, printers and other resources connected to
+the LAN.
+•   Application hosting: Key organizational apps like email, web servers, and databases are hosted on servers
+within the LAN.   5
+•   Shared internet access: Provides a single internet connection that can be accessed by all devices on the
+LAN.
+•   Communication: Allows instant messaging, calling, and video conferencing between users within the
+organization.
+•   Data backup: Critical data is periodically backed up over the high-speed LAN onto organizational servers.
+b.   Discuss the benefits and drawbacks of 4G: The Era of Mobile Broadband.
+Answer:
+Benefits:
+❑ High-Speed Data: 4G offered high-speed mobile broadband, enabling smooth HD video streaming and
+online gaming.
+❑ Low Latency: Reduced latency improved real-time communication and interactive applications.   5
+❑ App Economy: 4G was crucial for the growth of app-based services and the mobile ecosystem.
+Drawbacks:
+❑ Coverage Gaps: While 4G coverage improved, there were still areas with limited or no coverage.
+❑ Infrastructure Requirements: The deployment of 4G required significant infrastructure upgrades, which
+posed challenges in some regions.
+❑ Internet Speed: 4G networks offered data speeds ranging from 100 Mbps to 1 Gbps (gigabit per second),
+allowing for high-quality video streaming, online gaming, and rapid downloads.
+c.   Compare the efficiency of data transmission in circuit switching versus message switching.
+Answer:
+Circuit switching and message switching are two different methods of data transmission used in networking.
+Each has its own characteristics affecting the efficiency of data transmission. Here’s a comparison:   5
+Circuit Switching
+Definition:
+•   In circuit switching, a dedicated communication path or circuit is established between two nodes for
+the duration of the communication session.
+Characteristics:
+********** 1 **********
+--- page 2 ---
+•   Connection Establishment: A circuit must be established before any data can be transmitted. This
+involves signaling to allocate resources.
+•   Fixed Bandwidth: The dedicated path has a fixed bandwidth, ensuring a constant data rate for the
+duration of the call.
+•   Data Transmission: Data is transmitted in a continuous stream once the circuit is established.
+Efficiency:
+•   Pros:
+o High efficiency during the call since bandwidth is reserved and available for the entire
+duration.
+o Low latency for real-time applications (e.g., voice calls) due to the constant path.
+•   Cons:
+o   Inefficient during idle times since the dedicated path remains reserved even when no data is
+being transmitted.
+o   Resource wastage can occur if the connection is not fully utilized.
+Message Switching
+Definition:
+•   In message switching, messages are routed independently through the network without establishing a
+dedicated path. Each message is stored and forwarded at intermediate nodes.
+Characteristics:
+• No Dedicated Path: Messages are sent as complete units and are stored at intermediate nodes until
+the next node is ready to receive them.
+•   Variable Bandwidth: Resources are allocated as needed, allowing for dynamic use of network
+bandwidth.
+•   Store-and-Forward: Each node temporarily stores the entire message before forwarding it to the next
+node.
+Efficiency:
+•   Pros:
+o More efficient use of network resources since the bandwidth is shared among multiple
+messages, reducing idle time.
+o Can handle bursty traffic well, as messages can be queued and transmitted when resources
+become available.
+•   Cons:
+o   Higher latency due to the store-and-forward mechanism, as each message must be processed
+at each node before being forwarded.
+o   Potential delays and increased overhead if there is a heavy load on the network, leading to
+possible congestion.
+d.   Explain how scalability and reliability influence the design of network architectures.
+Answer:
+Scalability and reliability are two critical factors that significantly influence the design of network
+architectures. Here's how they impact the design process:
+Scalability
+Scalability refers to the ability of a network to grow and handle increasing amounts of traffic or to expand in
+size without losing performance or efficiency. The design considerations for scalability in network architectures
+include:
+1. Future Growth:   5
+o Networks are designed with an expectation that the number of users, devices, and data traffic will
+increase over time. Scalable architectures allow for easy expansion without requiring a complete
+overhaul of the network infrastructure.
+2. Modular Design:
+o   Scalable networks often use a modular approach, where components can be added or upgraded
+individually. This might include adding new switches, routers, or other devices to accommodate
+growth.
+3. Load Balancing:
+o To handle increased traffic effectively, scalable networks incorporate load balancing techniques
+that distribute traffic evenly across multiple paths or devices, preventing any single component
+from becoming a bottleneck.
+4.   Efficient Protocols:
+********** 2 **********
+--- page 3 ---
+o   Protocols that support scalability are crucial in network design. For example, protocols like BGP
+(Border Gateway Protocol) are designed to handle large and complex networks, such as the
+internet.
+Reliability
+Reliability refers to the network's ability to function consistently, without failures, and to provide uninterrupted
+services even in the event of problems. Design considerations for reliability include:
+1. Redundancy:
+o   Reliable network architectures include redundancy in their design. This means having multiple
+pathways for data to travel, so if one path fails, the network can reroute traffic through another
+path, minimizing downtime.
+2. Fault Tolerance:
+o   Fault-tolerant designs ensure that the network can continue operating even if some components
+fail. This might involve using backup systems, failover mechanisms, or duplicate hardware to
+maintain service continuity.
+3. Error Detection and Correction:
+o   Protocols in reliable networks often include error detection and correction mechanisms to identify
+and fix data transmission errors, ensuring data integrity during communication.
+4. High Availability:
+o Network architectures prioritize high availability by minimizing points of failure and
+incorporating mechanisms that quickly restore services after an outage or failure.
+Q2   Answer the following questions.   [20]
+a.   “Satellite broadband a good alternative in rural areas despite being slower than DSL and cable” Justify the
+statement with proper reasoning.
+Answer:
+Satellite broadband is considered a good alternative in rural areas despite being slower than DSL and cable for
+several reasons:
+1.   Availability in Remote Locations:
+o One of the primary advantages of satellite broadband is its ability to provide internet access in
+remote and rural areas where other broadband options like DSL, cable, or fibre-optic are
+unavailable. Satellite connections can reach virtually any location as long as there is a clear view
+of the sky, making it a practical solution for underserved regions.
+2. No Dependence on Physical Infrastructure:
+o   Unlike DSL and cable, which require extensive ground-based infrastructure like telephone lines
+or coaxial cables, satellite broadband does not depend on physical connections to deliver internet
+service. This makes it easier to deploy in areas where laying cables is difficult or cost-prohibitive.
+3. Quick Installation:
+o   Satellite broadband installations are generally faster and easier compared to running new cables
+for DSL or fibre-optic connections. Once a satellite dish and modem are set up, the service is ready
+to go, making it a convenient option for rural users who need quick internet access.
+4. Consistent Coverage:   10
+o   Satellite internet provides consistent coverage over large geographic areas, as its service is not
+affected by distance from urban centers or infrastructure limitations. Rural residents can access
+the same quality of service as users in more populated areas, unlike DSL connections, which may
+experience speed degradation with increased distance from the switching station.
+5. Alternative When Other Options are Unavailable:
+o   In many rural areas, the infrastructure for DSL, cable, or fibre-optic broadband simply does not
+exist, or the cost of extending these services is too high. In such cases, satellite broadband becomes
+the only viable alternative to connect to the internet.
+6. Technological Advancements:
+o Advances in satellite technology, such as Low Earth Orbit (LEO) satellites, have significantly
+improved the speed and reliability of satellite broadband. These newer satellites can provide faster
+internet speeds and lower latency compared to traditional geostationary satellites, making satellite
+broadband a more competitive option even in comparison to other technologies.
+7.   Scalability:
+o   Satellite broadband is scalable, allowing providers to expand coverage and services to new areas
+without the need for extensive ground infrastructure. This makes it possible to quickly adapt and
+provide service to growing communities in rural areas.
+While satellite broadband may have higher latency and lower speeds compared to DSL and cable, its unique
+benefits of wide availability, independence from ground-based infrastructure, and technological advancements
+make it an essential alternative for providing internet access in rural and remote locations.
+********** 3 **********
+--- page 4 ---
+b.   Evaluate the advantages and limitations of using wireless technologies in Personal Area Networks (PAN).
+Include technologies like Bluetooth, NFC, and ZigBee in your discussion.
+Answer:
+Wireless technologies play a significant role in Personal Area Networks (PAN), enabling communication
+among personal devices within a short range. Here, we evaluate the advantages and limitations of using wireless
+technologies like Bluetooth, NFC, and ZigBee in PANs.
+Advantages of Using Wireless Technologies in PAN
+1.   Flexibility and Convenience:
+o   Wireless technologies allow seamless communication between devices without the need for
+cables, making them highly flexible and easy to use.
+o   Technologies like Bluetooth are widely used for connecting smartphones to headphones,
+smartwatches, fitness bands, and other wearable devices, providing convenience and portability.
+2. Low Power Consumption:
+o   Bluetooth and ZigBee are designed to operate with low power consumption, making them ideal
+for battery-operated devices like wearables and IoT devices.
+o   This energy efficiency helps extend the battery life of connected devices, making them suitable
+for continuous use.
+3. Cost-Effectiveness:
+o   These wireless technologies are relatively inexpensive to implement compared to wired
+connections, reducing the overall cost of setting up a PAN.
+o Most modern smartphones and devices come with built-in Bluetooth and NFC capabilities,
+eliminating the need for additional hardware.
+4. Ease of Use and Quick Setup:
+o   Setting up connections using wireless technologies like NFC (Near Field Communication) is
+quick and straightforward. For example, tapping a smartphone to a payment terminal initiates a
+secure transaction almost instantly.
+o ZigBee technology simplifies the setup process for home automation systems, allowing users to 10
+connect multiple smart devices easily.
+5. Wide Range of Applications:
+o   Bluetooth is used for data transfer, audio streaming, and peripheral connections.
+o NFC is primarily used for contactless payments, secure access control, and data exchange between
+devices.
+o ZigBee is popular in IoT applications like smart home automation, enabling communication
+between sensors, lights, thermostats, and security systems.
+Limitations of Using Wireless Technologies in PAN
+1. Limited Range:
+o   Bluetooth and NFC have a limited range of communication. Bluetooth typically covers up to 10
+meters (or up to 100 meters for the latest versions), while NFC requires devices to be within a few
+centimeters.
+o ZigBee has a longer range compared to Bluetooth and NFC but still faces limitations in larger
+areas without using additional signal repeaters or mesh networking.
+2. Data Transfer Speed:
+o   Wireless technologies generally have lower data transfer rates compared to wired connections. For
+example, Bluetooth has slower speeds compared to Wi-Fi, which can limit its use for transferring
+large files or streaming high-quality video.
+o ZigBee is also designed for low data-rate applications, focusing more on reliability and energy
+efficiency rather than high-speed data transfer.
+3. Interference Issues:
+o   Wireless technologies operating on the 2.4 GHz frequency band, like Bluetooth and ZigBee, are
+susceptible to interference from other wireless devices such as Wi-Fi routers, microwaves, and
+other electronic devices, which can degrade signal quality.
+o   This interference can lead to connectivity issues or reduced performance, especially in densely
+populated areas with many wireless devices.
+4. Security Concerns:
+o   Bluetooth and NFC have been targets of security vulnerabilities such as unauthorized access and
+data interception (e.g., bluejacking and eavesdropping attacks).
+********** 4 **********
+--- page 5 ---
+o While security protocols are in place, such as encryption and secure pairing methods, these
+technologies may still be vulnerable if not properly configured.
+5. Limited Device Connectivity:
+o   Bluetooth technology can typically connect to a limited number of devices at the same time, which
+can be a constraint in environments where multiple devices need to interact simultaneously.
+o ZigBee supports more extensive device connectivity due to its mesh network capability but may
+still face challenges when scaling to larger networks.
+Q3   Answer the following questions.   [20]
+a.   A company currently using DSL internet wants to upgrade to a fibre-optic broadband connection to support
+high-speed data transfer for video conferencing and large file sharing. What are the specific benefits of fibre-
+optic broadband that make it a suitable choice for this scenario, and what potential drawbacks should the
+company consider?
+Answer:
+Benefits of Fibre-Optic Broadband
+1. Ultra-High-Speed Data Transfer:
+o   Fibre-optic broadband offers significantly faster data transfer rates compared to DSL, making it
+ideal for bandwidth-intensive activities like video conferencing, file sharing, and cloud-based
+applications. Speeds can range from hundreds of Mbps to several Gbps, ensuring smooth and
+uninterrupted communication.
+2. Reliable and Stable Connection:
+o   Fibre-optic cables are less susceptible to external interference from electrical signals, weather
+conditions, or distance. This means the connection is more stable and reliable, which is crucial for
+business operations that rely on real-time communication, such as video calls.
+3. Low Latency:
+o   Fibre-optic broadband provides lower latency compared to DSL. This is important for video
+conferencing and VoIP calls, where minimal delays are necessary for clear and smooth
+conversations without lag or interruptions.
+4. Greater Bandwidth:
+o   Fibre-optic connections offer higher bandwidth capacity, allowing multiple users or devices to use
+the internet simultaneously without any noticeable drop in speed. This is essential for a company
+where employees may be accessing large files, streaming content, and using other online services
+at the same time.
+5. Future-Proof Technology:   10
+o   Fibre-optic networks are scalable and can handle future increases in data requirements without the
+need for major infrastructure changes. As the company's needs grow, fibre-optic technology can
+easily accommodate higher speeds and greater data demands.
+6. Enhanced Security:
+o   Data transmitted over fibre-optic cables is more secure because it's harder to intercept or tap into
+the signal without being detected. This provides an added layer of security for sensitive business
+communications and data transfers.
+Potential Drawbacks of Fibre-Optic Broadband
+1. Higher Installation Costs:
+o The initial installation cost of fibre-optic broadband can be significantly higher than DSL. This
+includes expenses for laying the fibre-optic cables, purchasing the necessary equipment, and any
+fees associated with infrastructure setup. The company must consider this upfront cost, especially
+if budget constraints are a concern.
+2. Limited Availability:
+o   Although fibre-optic technology is expanding, it may not be available in all areas, especially in
+rural or less-developed regions. If the company is located in an area without existing fibre-optic
+infrastructure, they may need to wait for deployment or explore alternative options.
+3. Potential Downtime During Installation:
+o   Upgrading from DSL to fibre-optic may require some downtime during the installation process,
+which could temporarily disrupt business operations. Planning for a smooth transition with
+minimal impact on productivity is crucial.
+4. Compatibility with Existing Equipment:
+o Some of the company's existing networking equipment may not be compatible with fibre-optic
+technology, requiring upgrades or replacements. This can add to the overall cost and complexity
+of the transition.
+5. Higher Ongoing Costs:
+********** 5 **********
+--- page 6 ---
+o While fibre-optic broadband is generally more cost-effective in the long run, the monthly service
+fees might be higher compared to DSL plans. The company should evaluate the recurring costs to
+ensure they align with their budget and expected benefits.
+b.   Explain the communication flow and functionality of databases in the 2G cellular networks.
+Answer:
+2G Architecture Database
+Home Location Register (HLR): The HLR is a centralized database that contains subscriber information,
+including user profiles, authentication details, and current location. It stores permanent data about each
+subscriber and plays a critical role in managing subscriber mobility.
+Visitor Location Register (VLR): The VLR is a temporary database linked to the MSC. It contains
+information about subscribers who are currently roaming in the area served by that particular MSC. It stores
+information like the user's location, temporary mobile number, and authentication details.
+Authentication Center (AuC): The AuC is responsible for authenticating the identity of subscribers to
+ensure that only legitimate users can access the network. It stores security information like encryption keys and
+authentication algorithms used to protect communication.
+Equipment Identity Register (EIR): The EIR is a database that stores information about mobile devices.
+It is used to verify the identity of mobile equipment by checking its International Mobile Equipment Identity 10
+(IMEI) number. The EIR helps detect stolen or unauthorized devices on the network.
+Communication Flow in 2G Architecture
+• When a user makes a call or sends data, the signal is transmitted from the Mobile Station (MS) to the
+nearest Base Transceiver Station (BTS).
+•   The BTS then forwards the signal to the Base Station Controller (BSC), which manages the radio
+resources and coordinates communication between multiple BTSs.
+•   The Mobile Switching Center (MSC) in the Network and Switching Subsystem (NSS) handles the call
+setup, routing, and termination, as well as mobility management.
+•   The MSC consults the Home Location Register (HLR) and Visitor Location Register (VLR) for
+information about the subscriber’s identity, location, and network services.
+•   The Authentication Center (AuC) verifies the subscriber’s identity using encryption keys, while the
+Equipment Identity Register (EIR) checks the validity of the mobile device.
+Q4   Answer the following questions.   [20]
+a.   Distinguish between NRZ-L and NRZ-I (any 5 points). Give the advantages and disadvantages of RZ.
+NRZ-L (Non-Return-to-Zero-Level) and NRZ-I (Non-Return-to-Zero-Inverted) are two different encoding
+schemes used for digital data transmission. Here's a comparison between them:
+1. Definition:
+• NRZ-L (Non-Return-to-Zero-Level): In NRZ-L encoding, the signal level is directly related to the
+bit value. A specific voltage level is used to represent a binary 0 or 1, and the level does not change
+throughout the bit duration.
+• NRZ-I (Non-Return-to-Zero-Inverted): In NRZ-I encoding, the signal level changes only when
+there is a binary 1. The presence of a 1 bit causes a transition (change in voltage level), while a 0 bit 10
+results in no change.
+2. Signal Representation:
+• NRZ-L:
+o A binary 0 is represented by a low voltage level.
+o A binary 1 is represented by a high voltage level.
+•   NRZ-I:
+o A binary 0 causes no change in the voltage level (the signal stays the same as the previous
+state).
+o A binary 1 causes a change in the voltage level (the signal inverts to the opposite state).
+********** 6 **********
+--- page 7 ---
+3. Bit Synchronization:
+• NRZ-L: Synchronization issues can arise if there is a long sequence of identical bits (e.g., multiple 0s
+or 1s) because the signal level remains constant.
+•   NRZ-I: Synchronization is improved compared to NRZ-L since a transition always occurs when a 1
+bit is transmitted, even in long sequences of bits.
+4. Error Detection:
+• NRZ-L: It does not inherently support error detection, as errors can go undetected when the signal
+level remains the same.
+•   NRZ-I: Errors are more noticeable because each 1 bit must cause a transition. If a transition does not
+occur where it is expected, it indicates a potential error.
+5. Usage:
+• NRZ-L: Often used in applications where simple and direct mapping of bit values to voltage levels is
+required.
+•   NRZ-I: Preferred in applications where synchronization is a critical factor, such as in communication
+systems that need to maintain a consistent data clock.
+6. Transition-Based Encoding:
+• NRZ-L: The encoding is based on the absolute signal level, so the signal directly corresponds to the
+bit value (0 or 1).
+•   NRZ-I: The encoding is based on the transitions (or changes) of the signal, so the bit value determines
+whether a change occurs rather than the absolute level itself.
+Advantages of RZ:
+•   High noise immunity: The polar line coding scheme has a high noise immunity, as it uses a differential
+signal.
+•   Error resistance: The polar line coding scheme is less susceptible to errors, as it uses a differential signal.
+Disadvantages:
+•   Complex receiver circuit: The receiver circuit for polar line coding is complex, as it needs to detect the
+positive and negative voltage levels.
+•   Limited data rate: The polar line coding scheme has a limited data rate, as it requires a larger number of bits
+to represent the same information as the unipolar or bipolar line coding schemes.
+b.   Discuss the concept of packet switching. Describe the potential drawbacks of using datagram packet switching
+in a network with high congestion.
+Answer:
+Packet switching
+•   In this switching technique in which the message is sent in one go, but it is divided into smaller pieces, and
+they are sent individually.
+•   The message splits into smaller pieces known as packets and packets are given a unique number to identify 10
+their order at the receiving end.
+•   Every packet contains some information in its headers such as source address, destination address and
+sequence number.
+•   Packets will travel across the network, taking the shortest path as possible.
+•   All the packets are reassembled at the receiving end in correct order.
+•   If any packet is missing or corrupted, then the message will be sent to resend the message.
+•   If the correct order of the packets is reached, then the acknowledgment message will be sent.
+********** 7 **********
+--- page 8 ---
+Using datagram packet switching in a network with high congestion can lead to several potential drawbacks
+that can negatively impact overall network performance and user experience. Here are some of the key issues:
+1. Increased Latency
+•   Queuing Delays: As network congestion increases, packets may need to wait in queues at routers and
+switches. This waiting time adds to the overall latency experienced by users.
+•   Longer Delivery Times: The time it takes for packets to reach their destination can vary significantly,
+leading to unpredictable communication delays.
+2. Packet Loss
+•   Buffer Overflow: If a router’s buffer is full due to high traffic, any incoming packets may be dropped.
+This leads to packet loss, which is especially problematic for applications that require reliable delivery.
+•   Resending Packets: Lost packets may need to be retransmitted, further increasing the time it takes for
+the complete data to arrive and adding to network congestion.
+3. Out-of-Order Delivery
+•   Variable Path Routing: In a congested network, packets may take different paths to reach the
+destination, resulting in out-of-order delivery. This can complicate the reassembly of data at the
+destination, especially for applications that require data in a specific order (e.g., video streaming, voice
+calls).
+•   Increased Complexity: Applications must implement mechanisms to handle out-of-order packets,
+adding complexity to application development and processing.
+4. Jitter
+•   Variability in Packet Arrival: High congestion can lead to variations in packet arrival times, causing
+jitter. This is especially detrimental for real-time applications like VoIP or online gaming, where
+consistent timing is crucial for quality.
+•   Impact on User Experience: Jitter can result in choppy audio or video, leading to a poor user
+experience.
+5. Quality of Service (QoS) Challenges
+•   Limited QoS Guarantees: Datagram packet switching generally offers limited QoS mechanisms,
+making it challenging to prioritize traffic during congestion. Important traffic (like real-time video or
+voice) may be treated the same as less critical data, leading to degradation in service quality.
+•   Difficulty in Traffic Management: Managing and optimizing traffic flows becomes more difficult in
+a congested environment, potentially impacting overall network efficiency.
+6. Increased Resource Usage
+•   Higher Bandwidth Consumption: The need to retransmit lost packets can lead to increased
+bandwidth usage, exacerbating congestion and potentially leading to a cycle of degradation.
+•   Processing Overhead: Routers and switches may require more processing power to manage high
+levels of packet loss and retransmissions, straining network resources.
+Q5   Answer the following questions.   [20]
+a.   A broadcasting company needs to transmit multiple television channels over a single cable connection. Which
+multiplexing technique (FDM, TDM, or WDM) would be the best fit for this requirement, and what are the
+challenges associated with implementing it in this scenario?   10
+Answer:
+********** 8 **********
+--- page 9 ---
+For a broadcasting company that needs to transmit multiple television channels over a single cable connection,
+Frequency Division Multiplexing (FDM) is the most suitable multiplexing technique. Here's why FDM is the
+best fit for this requirement and the challenges associated with its implementation.
+Why Frequency Division Multiplexing (FDM) is the Best Fit:
+1.   Efficient Use of Bandwidth:
+o FDM is specifically designed to handle multiple signals by dividing the available bandwidth
+into separate frequency channels.
+o Each television channel can be assigned a distinct frequency band, allowing them to be
+transmitted simultaneously without interference.
+2. Analog Signal Transmission:
+o   Television signals, especially in traditional cable broadcasting, are often transmitted in analog
+form, which is well-suited to FDM.
+o FDM is commonly used in radio and television broadcasting, where different frequency
+channels are allocated to different stations or channels.
+3. Simultaneous Transmission:
+o FDM allows for the simultaneous transmission of multiple television channels over the same
+medium, which matches the requirement of broadcasting a variety of content at the same time.
+o   This technique is ideal for cable television networks that need to provide many channels to
+subscribers concurrently.
+Challenges Associated with Implementing FDM:
+1. Crosstalk and Interference:
+o A significant challenge with FDM is the potential for crosstalk between frequency channels.
+Crosstalk occurs when signals from adjacent frequency bands interfere with each other,
+leading to signal degradation or noise.
+o To minimize interference, guard bands (small frequency gaps) must be used between
+channels, which can slightly reduce overall bandwidth efficiency.
+2. Bandwidth Requirements:
+o FDM requires a large amount of bandwidth to accommodate multiple channels, especially
+when the number of television channels increases.
+o   In cases where the available bandwidth is limited, the number of channels that can be
+transmitted using FDM may also be limited.
+3. Complexity of Hardware:
+o   Implementing FDM requires complex hardware, including multiplexers and demultiplexers,
+to separate the frequency bands at the receiver end.
+o   Specialized filters are also necessary to ensure that each channel occupies its designated
+frequency range without overlapping into other channels.
+4. Signal Attenuation:
+o Over long distances, the signal strength of higher frequency channels can degrade more
+quickly due to attenuation.
+o To address this issue, amplifiers are often needed to boost the signal, which can add to the
+cost and complexity of the system.
+5. Maintenance and Tuning:
+o FDM systems require ongoing maintenance to ensure that the frequencies are properly aligned
+and do not drift over time.
+o Any misalignment in frequency allocation can lead to signal overlap, resulting in poor quality
+or distorted reception for viewers.
+b.   Discuss why an organization might choose a hybrid topology over a bus or ring topology.
+Answer:
+An organization might choose a hybrid topology over a bus or ring topology for several reasons, particularly
+regarding flexibility, scalability, reliability, and performance. Here’s a detailed comparison of the three 10
+topologies:
+1. Flexibility and Scalability
+•   Hybrid Topology:
+o Combines elements of multiple topologies (like star, ring, and bus), allowing organizations to
+tailor the network to their specific needs.
+********** 9 **********
+--- page 10 ---
+o   Easier to scale as the network grows; additional nodes can be integrated without major
+disruptions.
+• Bus Topology:
+o   Limited scalability; adding new devices requires careful planning and can lead to performance
+degradation as more devices share the same communication line.
+o   Difficult to manage as the network expands, leading to potential collisions and network
+slowdowns.
+•   Ring Topology:
+o Adding or removing devices can disrupt the network, as it breaks the ring. This makes scaling
+cumbersome.
+o   Performance can degrade with more devices since data must travel around the ring.
+2. Reliability
+•   Hybrid Topology:
+o   Offers redundancy by using multiple topologies, meaning if one segment fails, other parts of
+the network can still operate. For instance, if a star segment goes down, the rest of the network
+remains functional.
+• Bus Topology:
+o A single point of failure (the main cable) can take down the entire network if it fails, making
+it less reliable.
+•   Ring Topology:
+o Each device is connected in a closed loop. If one device or connection fails, it can disrupt the
+entire network unless a dual ring is implemented.
+3. Performance
+•   Hybrid Topology:
+o Allows for the use of different types of cabling and technologies (e.g., wired and wireless)
+that can optimize performance based on specific requirements.
+o Can effectively manage traffic loads by segmenting parts of the network, which can enhance
+overall performance.
+• Bus Topology:
+o   Limited bandwidth; as more devices are added, the network can slow down due to increased
+traffic and potential data collisions.
+•   Ring Topology:
+o While performance can be good under light loads, it can become inefficient with many devices
+due to the sequential nature of data transmission around the ring.
+4. Network Management
+•   Hybrid Topology:
+o   Easier to manage due to its segmented structure, allowing administrators to monitor and
+maintain different sections independently.
+o   Issues can be isolated to specific segments without affecting the entire network.
+• Bus Topology:
+o   Troubleshooting can be challenging, as problems may affect the entire bus and require
+extensive checks to identify issues.
+•   Ring Topology:
+o   Troubleshooting can be complex due to the dependency on each device for data transmission.
+Problems in one device can affect the whole network.
+5. Cost Considerations
+•   Hybrid Topology:
+o   Initial setup might be more expensive due to the combination of different technologies and
+devices. However, the long-term benefits of flexibility and reliability often justify the
+investment.
+• Bus Topology:
+o   Generally less expensive to set up initially due to fewer devices and cabling requirements.
+However, potential costs in terms of downtime and maintenance can accumulate over time.
+•   Ring Topology:
+o Moderate cost; however, issues with network reliability and performance might lead to higher
+maintenance costs in the long run.
+Q6   Answer the following questions.   [20]
+a.   Discuss the different modes of data transmission with an example.   10
+********** 10 **********
+--- page 11 ---
+Answer:
+The different modes of data transmission refer to the way data is transferred between devices in a network.
+These modes determine how data flows, either in one direction or in both directions, and whether the
+transmission can happen simultaneously or alternately. The three primary data transmission modes are Simplex,
+Half-Duplex, and Full-Duplex.
+1. Simplex Mode
+•   Definition: In simplex mode, data flows in only one direction. A device can either send or receive data,
+but not both. Communication in this mode is unidirectional.
+•   Example: A keyboard connected to a computer is an example of simplex transmission. The keyboard
+can only send data (key presses) to the computer, but it does not receive any data from the computer.
+2. Half-Duplex Mode
+•   Definition: Half-duplex mode allows data transmission in both directions, but not at the same time.
+Devices can either send or receive data, but they have to take turns in doing so.
+•   Example: A walkie-talkie is a common example of half-duplex communication. When one person
+speaks, the other must wait until the channel is free to reply. Only one person can transmit at a time,
+while the other listens.
+3. Full-Duplex Mode
+•   Definition: In full-duplex mode, data can be transmitted in both directions simultaneously. Both
+devices can send and receive data at the same time, which leads to faster communication.
+•   Example: Modern smartphones operate in full-duplex mode during a voice call. Both parties can
+speak and listen simultaneously without interrupting each other, enabling smooth two-way
+communication.
+b.   A homeowner is interested in installing a smart security system that includes cameras, sensors, and automated
+alerts. What components are necessary for this IoT-based security system, and how do they communicate to
+provide real-time updates to the homeowner?
+Answer:
+For a homeowner looking to install a smart security system using IoT technology, the system should include
+several key components to ensure comprehensive protection, real-time updates, and efficient communication.
+Here’s a breakdown of the necessary components and how they work together:
+1. Key Components of the IoT-Based Smart Security System
+1. Smart Cameras
+o   Function: These cameras provide live video feeds, record footage, and detect motion in and
+around the house.   10
+o   Features: Look for cameras with night vision, high-definition video, wide-angle lenses, and cloud
+storage options for recording.
+o Communication: They connect to the home's Wi-Fi network, allowing the homeowner to access
+the live feed remotely through a smartphone app or web portal.
+2. Motion Sensors
+o   Function: Motion sensors detect any movement within their designated range, triggering alerts if
+unauthorized motion is detected.
+o Placement: These sensors are typically installed near entry points, like doors and windows, as
+well as in hallways and other sensitive areas.
+o Communication: They send data wirelessly to the central security hub or directly to the
+homeowner's device when they detect movement.
+3. Door and Window Sensors
+o   Function: These sensors detect when doors or windows are opened or closed, providing instant
+alerts if someone attempts to enter the home without permission.
+o Mechanism: They usually consist of two parts that create a circuit when a door or window is
+closed. When the circuit breaks, the system triggers an alert.
+********** 11 **********
+--- page 12 ---
+o Communication: They communicate with the central hub or smart home system using wireless
+protocols like Zigbee, Z-Wave, or Wi-Fi.
+4. Smart Security Hub (Central Hub)
+o   Function: The central hub acts as the brain of the system, connecting all the sensors, cameras, and
+alarms into a unified network.
+o   Role: It processes data from all connected devices and sends alerts to the homeowner’s
+smartphone or other devices.
+o Communication: It uses wireless protocols to interact with devices and typically connects to the
+internet to send real-time updates to the homeowner.
+5. Siren and Alarm System
+o   Function: A loud siren is activated when a security breach is detected, alerting the homeowner
+and possibly scaring off intruders.
+o Placement: The siren should be loud enough to be heard both inside and outside the home.
+o Communication: It is usually triggered by the central hub upon receiving signals from sensors or
+cameras.
+6. Automated Alerts and Notifications
+o   Function: Automated alerts are sent to the homeowner’s smartphone or email whenever a
+suspicious activity is detected, such as motion in a restricted area or a door opening unexpectedly.
+o   Integration: Alerts can be customized for different events, and they may include real-time video
+or image snapshots from the cameras.
+o Communication: Push notifications, SMS, or email alerts are used to provide instant updates,
+allowing homeowners to take immediate action.
+7. Mobile App or Web Portal
+o   Function: A mobile app or web-based interface allows the homeowner to monitor the security
+system remotely, view live camera feeds, and control the devices.
+o   Features: The app often includes options to arm/disarm the system, receive alerts, review camera
+footage, and even control other smart devices in the home.
+o Communication: The app communicates with the security hub via the internet, providing real-
+time updates and allowing remote management.
+2. How the Components Communicate to Provide Real-Time Updates
+1. Data Collection
+o   Sensors and cameras constantly monitor the environment and collect data, such as motion,
+door/window status, and video footage.
+2. Data Transmission
+o The collected data is transmitted to the central hub using wireless communication protocols like
+Wi-Fi, Zigbee, Z-Wave, or Bluetooth, depending on the device.
+3. Data Processing
+o The central hub processes the incoming data from various sensors and cameras. It analyzes the
+data to determine if there is a potential security threat or if it is a routine activity.
+4. Alert Generation
+o   If a threat is detected, the hub immediately triggers the alarm system and sends real-time alerts to
+the homeowner's mobile app or other devices via the internet.
+5. Homeowner Notification
+o The homeowner receives instant notifications, which may include live video feeds, images, or
+detailed information about the detected event.
+o   This allows the homeowner to take appropriate action, such as calling emergency services,
+activating additional alarms, or remotely monitoring the situation.
+6. Two-Way Communication
+o Advanced smart security systems may also offer two-way communication, allowing the
+homeowner to speak to visitors or intruders via the camera’s built-in microphone and speaker.
+Communication Protocols Commonly Used:
+•   Wi-Fi: Commonly used for connecting cameras and hubs to the internet for remote access.
+•   Zigbee/Z-Wave: Low-power wireless protocols ideal for communication between sensors and the central
+hub.
+•   Bluetooth: Useful for short-range communication between devices within the home.
+Benefits of Using an IoT-Based Smart Security System:
+1. Real-Time Monitoring: Allows for constant surveillance and instant alerts in case of security breaches.
+********** 12 **********
+--- page 13 ---
+2. Remote Access: Homeowners can control and monitor the system from anywhere using their smartphone
+or computer.
+3. Automation: The system can be programmed to automatically take actions, such as locking doors or
+turning on lights when motion is detected.
+4. Enhanced Security: Combining different devices creates a layered security approach, making it difficult
+for intruders to bypass.
+Q7   Answer the following questions.   [20]
+a.   Explain the client/server model function in electronic commerce. Give the advantages of electronic commerce.
+Answer:
+Electronic commerce, or e-commerce, is the buying and selling of goods and services over the internet using
+computers, tablets, smartphones, and other smart devices.
+E-commerce operates in several market segments, including:
+▪   Business to Business (B2B): When a good or service is sold by a business to another business, e.g., a
+software-as-a-service is sold by a business for other businesses to use.
+▪   Business to Consumer (B2C): When a good or service is sold to an individual consumer by a business, e.g.,
+we buy a pair of shoes from an online retailer.
+▪   Consumer to Consumer (C2C): When a good or service is sold by a consumer to another consumer, e.g.,
+we sell our old furniture on eBay to another consumer.
+▪   Consumer to Business (C2B): When a consumer’s own products or services is sold to a business or 10
+organization, e.g., an authority offers exposure to their online audience in exchange for a fee or a
+photographer licenses their photo for a business to use.
+Advantages of E-commerce:
+▪   E-commerce enables fast and secure shopping.
+▪   It is making digitalized world.
+▪   E-commerce also enables to choose different goods and services according to your choice.
+▪   It is a simple way of selling and buying products and services.
+▪   E-commerce replaced the paper work as all transactions are through internet today.
+▪   It provides better management system, as it has a centralized database.
+▪   E-commerce via internet covers a large number of customers worldwide.
+▪   E-commerce has several payment modes.
+b.   Explain why the TCP/IP model is more widely adopted than the OSI model in practical implementations.
+Answer:
+The TCP/IP model is more widely adopted than the OSI model in practical implementations for several key
+reasons:
+1. Practical Development and Real-World Usage
+•   The TCP/IP model was developed alongside the early implementation of the internet and was directly
+tied to its growth. It was designed to solve real-world networking problems and became the foundation
+of the modern internet.
+•   It evolved as a result of experimentation and was used in real-life scenarios before becoming a standard,
+which made it more practical and applicable than the OSI model.   10
+2. Simplicity and Flexibility
+•   The TCP/IP model is simpler and has fewer layers (four or five layers, depending on the version)
+compared to the seven layers of the OSI model. This makes it easier to understand and implement in
+networking environments.
+•   Its flexibility allows it to adapt to different types of networks and applications, which makes it more
+versatile in handling a wide range of communication technologies.
+3. Internet Protocol Suite Standard
+•   TCP/IP protocols like TCP (Transmission Control Protocol) and IP (Internet Protocol) became the
+standard protocols used by the internet, ensuring compatibility and interoperability between different
+networks and devices.
+•   The internet’s rapid growth cemented TCP/IP's status as the de facto standard for network
+communication, and as a result, all major network technologies support TCP/IP.
+4. Wide Industry Support
+********** 13 **********
+--- page 14 ---
+•   Since TCP/IP is the protocol suite used for all internet-based communications, it has received extensive
+support from hardware and software vendors, ensuring that it remains compatible with most
+networking equipment.
+•   Most network infrastructure companies design their devices to work with TCP/IP, making it easier for
+businesses to deploy and scale their networks using this model.
+5. Real-World Implementations vs. Conceptual Framework
+•   The OSI model was developed as a theoretical framework for standardizing network communication.
+Although it provides a detailed structure of networking concepts, it was never fully implemented as a
+complete protocol suite.
+•   TCP/IP, on the other hand, was built with the goal of implementation from the beginning, making it
+more practical for actual deployment.
+6. Protocol Stack Standardization
+•   The TCP/IP model’s protocol stack is well-defined with standardized protocols at each layer, such as
+HTTP, FTP, TCP, UDP, and IP. This consistency has led to its widespread adoption in various
+networking applications.
+•   In contrast, the OSI model does not specify the protocols to be used at each layer, making it more of a
+guideline than a standard protocol stack.
+7. Historical Adoption and Momentum
+•   The historical adoption of TCP/IP during the development of ARPANET and the early internet gave it
+a significant head start over the OSI model.
+• By the time the OSI model was developed, TCP/IP was already widely adopted, making it difficult to
+replace or shift away from a model that was already in use by the majority of networked systems.
 ********** 14 **********
 ````

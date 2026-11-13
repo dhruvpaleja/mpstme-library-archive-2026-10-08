@@ -1,6 +1,6 @@
 # Business Communication and Value Science I: question papers in full
 
-9 unique papers · 2019-20 to 2024-25 · Common (all branches), Computer Science and Business Systems
+11 unique papers · 2019-20 to 2024-25 · Common (all branches), Computer Science and Business Systems
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1420,6 +1420,747 @@ teacher’s letters from English to Spanish so they can read them.
 (fill in the blank with the correct option from the given list)
 
 A. fabricate B. originate C. divide D. translate
+````
+
+## 2022-23 · Final-Exam · Sem 1 · paper 62f01cfffa8f
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B TECH/3__1ST YEAR.zip :: I SEMESTER/BUSINESS COMMUNICATION & VALUE SCIENCE-I/Business_Communication_and_Value_Science-I__1st__Year__Sem-I__Year__2022-23__Final_Exam_DKKUY5S1Wf.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11 January 2023
+- Text: ocr (10 pages), mean OCR confidence 93.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+OOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2022-23
+
+Programme: B.Tech (CSBS) Year: I Semester: I
+Subject: Business Communication & Value Science - I
+
+Marks: 100
+Date: 11 January 2023 Time: 11.00 am - 2.00 pm
+
+Durations: 3 (Hrs)
+
+No. of Pages: 70
+Final Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+O 2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions are to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question should be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Ql
+Answer the following questions : [4X5=20]
+CO-1&2; | a. Explain various types of gestures and their relevance in the process of (4)
+_ Communication.
+b. You are writing to a client explaining him/her the features of the CRM
+toes: software his/her company has recently purchased from you. Share any (4)
+@) | SO-3,7; three principles of communication that you will be utilizing while writing
+BL-4 —
+to this client.
+COo- Bs og & re . . .
+1,283: What is SQ3R technique? How can it help improve Reading and content (4)
+SO-7; comprehension?
+BL-1&2
+d. Read the following scenarios carefully and choose an option that best
+Cco- reflects the correct etiquette and values system matching the situation or
+1,2,3&4 ; communication context. Also share the reasons that justify your choice: | [4]
+SO-3,4&7 .
+SBL-5 1. Sangeeta is attending a Public lecture series. She is quite
+
+captivated by the speech as the topic is near to her heart. One of
+
+‘40
+--- page 2 ---
+the ideas expressed by the speaker though disturbs her and she
+wants to question it. Sangeeta should: [2]
+
+a. Raise her hand immediately and politely raise her concern
+
+b. Stand up and challenge the speaker to prove the validity of
+the idea
+
+c. Allow the speaker to finish and then politely raise her
+concerns and her reasons, thereafter seeking the logic
+underlying the idea.
+
+d. Start researching for information that she can use to prove
+the speaker wrong and then challenge the speaker to
+establish the validity of his idea.
+
+2. You travel daily form bus to your college. You often share your
+commute with a student from your college who’s studying in a
+different class and program. Both of you have often exchanged
+greetings and smiles often, though never talked. One day you see
+a few youngsters harassing and bullying him/her on the commute.
+You would: [2]
+
+a. Immediately start talking to that student, to convey to the
+bullies that he/she is not alone.
+
+b. Talk to the bullies, telling them that their actions are wrong.
+
+c. Seek the bus conductor’s intervention to prevent any further
+violence.
+
+d. Talk to the student and co-passengers at the same time to
+create a distraction and also to convey to the bullies that
+others may unite as they are all witnessing the act and are
+
+now talking to each other.
+
+Cco- e. You have recently launched a start -up that provides curated content to
+i expecting as well as young mothers. The content covers a wide range of | [4]
+3,7;BL-6 topics like mother and child care; postpartum care; prenatal care; medical
+
+*/10
+--- page 3 ---
+emergencies and role of medical professionals in providing diversified
+
+care etc.
+
+Draft vision and mission statement/s for your business.
+
+coo “ What are the various non-verbal cues that play a major role while [10]
+
+SO-3,7; delivering a presentation?
+
+BL-2
+
+B. The following extract is taken from an article on World Health
+
+Organization Website. Read the article carefully and answer the
+questions that follow:
+The abuse of older people, also known as elder abuse, is a single or
+repeated act, or lack of appropriate action, occurring within any
+relationship where there is an expectation of trust, which causes harm or
+distress to an older person. This type of violence constitutes a violation of
+human rights and includes physical, sexual, psychological and emotional
+abuse; financial and material abuse; abandonment; neglect; and serious
+loss of dignity and respect.
+
+CO-1; SO Scope of the problem
+
+-7; Abuse of older people is an important public health problem. A 2017 | [10]
+
+BL-4 review of 52 studies in 28 countries from diverse regions estimated that
+
+over the past year 1 in 6 people (15.7%) aged 60 years and older were
+subjected to some form of abuse (1). Although rigorous data are limited,
+the review provides prevalence estimates of the proportion of older people
+
+affected by different types of abuse (see Table 1).
+
+Data on the extent of the problem in institutions such as hospitals, nursing
+homes and other long-term care facilities are scarce. However, a review
+of recent studies on abuse of older people in institutional settings indicates
+
+that 64.2% of staff reported perpetrating some form of abuse in the past
+
+year.
+
+3/10
+--- page 4 ---
+Table 1: Systematic reviews and meta-analyses
+
+‘Abuse of older {Abuse of older people in
+people in institutional settings (2)
+community
+
+settings (1)
+
+Type of abuse Reported by ‘Reported by _ {Reported by
+
+older adults older adults staff
+
+land their
+
+proxies
+Overall [15.7% Not enough 64.2% or 2
+prevalence data in 3 staff
+Psychological |11.6% 33.4% 32.5%
+abuse:
+Physical 2.6% 14.1% 9.3%
+abuse:
+Financial 6.8% 13.8% INot enough
+abuse: data
+Neglect: 4.2% 11.6% 12.0%
+
+Sexual abuse: 0.9% 1.9% 0.7%
+
+5
+
+Globally, the number of cases of elder abuse is projected to increase as
+many countries have rapidly ageing populations. Even if the proportion of
+victims of abuse of older people remains constant, the global number of
+victims will increase rapidly due to population ageing, growing to some
+320 million victims by 2050, as the global population of people aged 60
+years and more increases to 2 billion by 2050.
+
+Consequences
+A
+
+4/10
+--- page 5 ---
+Abuse of older people can have serious physical and mental health,
+financial, and social consequences, including, for instance, physical
+injuries, premature mortality, depression, cognitive decline, financial
+devastation and placement in nursing homes. For older people, the
+consequences of abuse can be especially serious and recovery may take
+longer.
+
+Risk factors
+
+Individual level characteristics which increase the risk of becoming a
+victim of abuse include functional dependence/disability, poor physical
+health, cognitive impairment, poor mental health and low income.
+Individual level characteristics which increase the risk of becoming a
+perpetrator of abuse include mental illness, substance abuse and
+dependency — often financial — of the abuser on the victim. At the
+relationship level, the type of relationship (e.g., spouse/partner or
+child/parent) and marital status may be associated with an elevated risk of
+abuse, but these factors vary by country and region. Community- and
+societal-level factors linked to elder abuse may include ageism against
+older people and certain cultural norms (e.g., normalization of violence).
+Social support and living alone reduce the likelihood of elder abuse.
+Prevention
+
+Many strategies have been tried to prevent and respond to abuse of older
+people, but evidence for the effectiveness of most of these interventions
+is limited at present. Strategies considered most promising include
+caregiver interventions, which provide services to relieve the burden of
+caregiving; money management programmes for older adults vulnerable
+to financial exploitation; helplines and emergency shelters; and multi-
+disciplinary teams, as the responses required often cut across many
+systems, including criminal justice, health care, mental health care, adult
+protective services and long-term care.
+
+In some countries, the health sector has taken a leading role in raising
+
+public concern about abuse of older people, while in others the social
+
+7/10
+--- page 6 ---
+welfare sector has taken the lead. Globally, too little is known about elder
+
+abuse and how to prevent it, particularly in developing countries.
+
+Reference:
+
+https://www.who.int/news-room/fact-sheets/detail/abuse-of-older-people
+
+1. According to the paragraph one in passage elderly abuse: (1)
+a. Dehumanizes the victim
+b. Distressful to the victims
+c. Committed by care givers only
+d. Constitutes elderly abandonment only
+2. According to the passage, which of the following may not be a
+risk factor towards becoming victims of elderly abuse: (1)
+a. Lack of financial independence or less income.
+b. Substance abuse
+c. Physical disability or dependence
+d. Cognitive impairment
+3. Based on the met analyses of data on elderly abuse, which of the
+following constitutes the highest percentage of elderly abuse: (1)
+a. Sexual Abuse
+b. Psychological abuse
+. ¢. Physical Abuse
+d. Financial Abuse
+4. Based on the information shared in the passage, it can be inferred
+that: (1)
+a. Institutional settings expose elderly even further to all
+forms of abuse
+b. Elderly abuse is expected to decrease in the coming years
+c. Elderly abuse is expected to increase in the coming years.
+
+. d. Elderly population shows decremental trend.
+
+Y10
+--- page 7 ---
+5. As used in the second last paragraph of the passage “Multi-
+disciplinary teams” would mean (1)
+
+a. Response teams that can take care of all kinds of elderly
+health needs
+
+b. Rapid response teams that can facilitate fast track legal
+justice
+
+c. Teams comprising of professionals cutting across areas of
+health-care; criminal justice, mental health care etc.
+
+d. Teams working in shelter homes for distressed elderly.
+
+6. Summarize the above passage. (5)
+
+A. Do as directed:
+
+1. The old car was in fairly good operating condition, but the
+condition of the body was poor. (Identify the sentence as simple,
+compound, or complex)
+
+2. Which of the following is a compound sentence?
+
+a) I like walking on the beach with my dog. b) I like walking
+but my dog likes running.
+
+3. Several countries participated in the airlift Italy Belgium France
+and Luxembourg. (punctuate)
+
+Q3 4. The following are the primary colors red, blue, and yellow.
+(punctuate)
+CO-1; 5. Its such a beautiful day that Ive decided to take a sun bath. [10]
+SO-7; (punctuate)
+BL-3 6. Either my mother or my father (is, are) coming to the meeting.
+
+(choose the correct option)
+
+7. Every one of those books (is, are) fiction.
+
+8. Please give me (a/an/the/no article) cake that is on the counter.
+(choose the correct option)
+
+9. Glenn almost fell inside/into/in the river. (choose the correct
+option)
+
+10. Travis’s mother is not satisfied with his/him/he’s securing third
+position in the races. (choose the correct option)
+
+Gn B. You are leading a team of six software professionals who are joining
+
+forces with each other for the first time for an important project. As the
+1,2&3; [10]
+$0 tgam leader you want them to be aware of each other’s strengths and
+
+weak spots. So you have arranged for a Johari window Tool based
+
+710
+--- page 8 ---
+3,5&7;
+
+workshop ahead of the project start. Draft an email addressed to your
+
+BL-6 team members, explaining them about the relevance of the workshop and
+also informing them about the Johari Model.
+You are a senior Manager with a software firm. Your organization
+regularly publishes content on its website for internal as well as external
+Q4 consumption. One of the function that this content serves is, it helps the
+CO-1,2,3; employees stay well informed and motivated. Draft a 400-500-word blog
+a on “How Multiple Intelligences Contribute towards harmony and U0]
+BL-6 diversity within a Team”. This article is to be published on the website
+and the author’s objective is to enrich the reader with information that
+can be utilized within a team set up.
+CO-1,2;
+SO-3,5
+&T: List and Explain various types of teams . [10]
+BL-1&2
+The Cultural Committee of ABC Pyt. Ltd. has conducted its first
+quarterly meeting for the year 2022. A total of 9 participants including
+the chairperson and the secretary were invited and the meeting duration
+was three hours. Some of the points that were discussed included-
+nota Planning for the 5 days Literature festival organized every year;
+So- Marketing and publicity for the event; Approaching authors and speakers | [20]
+ees to participate in the events; shortlisting event hosts designing and
+circulating invites for the event etc.
+Draft an Agenda and Minutes of Narration based on the above given
+information. Assume any logical and relevant information or data to
+finish the documents.
+Q6 What are the various barriers to listening and what measures one can [10]
+
+take to overcome these barriers effectively?
+
+10
+
+SS
+--- page 9 ---
+CO-1,2;
+
+SO-3,7;
+BL-2
+B. Create a brand campaign targeted at the ToFU stage for a newly
+CO-1,2,3; launched Children’s clothing and apparel brand. The brand has opened
+SO-3,7; its stores in all major Indian Cities and also retails through e-commerce | [10]
+BL-6 websites. The campaign duration is 2 months and the budget is
+approximately 4 Crores.
+Q7 A
+CO-1,2; “An understanding of formal communication networks can heip a
+SO- . . [10]
+3 5&7: manager effectively manage work. and workforce.” Reflect.
+BL-4
+B. Do as directed:
+1. Identify the word that is farthest in meaning to ABSURD:
+a. Batty b. Sensible c. Certain d. insane
+2. The other children did not want Alexander to play with them, so
+they him from their game. (Fill in the blank with an
+appropriate word from the given list)
+a. exchanged b. exhibited c. exposed d. examined e. excluded
+3. The dancer tried to the movements of his teacher, exactly
+CO-1; copying every graceful step. (Fill in the blank with an appropriate
+SO-7; word from the given list) [10]
+— a. plagiarize b. interpret c.mimic d. deposes e. refine
+
+4. Identify the word that is nearest in meaning to INSTIL:
+
+5. We had a Pizza after the movie that was delicious. (Identify and
+correct any modification error)
+
+6. Walking through the dense forest, ants covered my feet. (Identify
+and correct any modification error.
+
+7. He bought a burger from the shop filled with meat. (Identify and
+
+correct any modification error)
+
+Y10
+--- page 10 ---
+10.
+
+After working hard all day, a warm meal felt satisfying. (Identify
+and correct any modification error.)
+
+A man got onto the bus with a bottle of cold drink. (Identify and
+correct any error in modification)
+
+He thought about his lost baseball glove driving home. (Identify
+and correct any error in modification)
+
+xX
+
+10
+````
+
+## 2022-23 · Re-Exam · Sem 1 · paper 320fc5605766
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B TECH/3__1ST YEAR.zip :: I SEMESTER/BUSINESS COMMUNICATION & VALUE SCIENCE-I/Business_Communication_and_Value_Science-I__Sem-I__Year__2022-23__Special_Re_Exam_JT4DTNDdEn.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 16/6 /23
+- Text: ocr (7 pages), mean OCR confidence 93.4
+
+````text
+~
+
+SVKM’S NMIMS
+
+Academic Year: 2022-2023 ,
+Program: B. Tech. Stream : CSBS Year: First Semester: I
+
+Subject: Business Communication and Value Science-I Time: 3 hrs. ({/s00amto 2200pm)
+Date: 16/6 /23 No. of Pages: 07
+Marks: 100
+
+Special Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+> 2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions are to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question should be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+Answer the following questions : [4X5=20]
+CO-1,2; a. Discuss different attributes of positive body language that help one 14]
+SO-3,7; 7
+if; 9
+BL2 exhibit confidence and control?
+A045 b. You are writing an email to your HoD regarding the problems you are
+So-3 7 facing in coping with some of your subjects. Share any three principles | [4]
+= BL-4 of communication that you will follow while drafting the email.
+CO-1,2; | c. ;
+~ | SO-3,7; Explain the underlying reasons for poor listening. [4]
+BL-2
+d. Read the following scenarios carefully and choose an option that
+best reflects the correct etiquette and value system matching the
+Co- situation or communication context. Also share the reasons that
+1,2,3&4 ; justify your choice: 4
+SO-3,4&7 . oe : 4]
+; BL-5 1. You are working on a team project. You feel that your team
+
+leader doesn’t assign you any task of significance, but when it
+
+comes to appraisal of contribution, he/she blames you for not
+--- page 2 ---
+contributing much to the project. This is affecting your morale.
+You would: [2]
+
+a) Talk to the HR about this and share your concern.
+
+b) Talk to other team members and vent so that you no
+longer feel overwhelmed.
+
+c) Talk to the team leader and raise a concern that your
+contribution depends on the quality and quantity of
+assigned tasks.
+
+d) Remain silent on this, and wait for any major task being
+assigned to you where you can prove your ability.
+
+2. You have a friend who likes socializing a lot. Although you like
+hanging out with him/her, you feel overwhelmed when he/she
+drags you to meet his/her extended group of friends. Moreover,
+you don’t always like to indulge in the activities these people
+engage in, as you find those things a waste of time and effort.
+You would: [2]
+
+a) Stop hanging out with him/her altogether.
+
+b) Complain to the friend’s parents about his/her ways
+
+c) Talk to your friend and make him/her understand that you
+prefer only his/her company and would rather plan timed
+outings with him/her only.
+
+d) Focus on your studies and say no every time you are
+
+invited by the aforementioned friend for an outing.
+
+CO e. You have recently started an NGO that provides shelter to injured and
+1,2&4;SO abandoned stray animals. Draft vision and mission statement/s for your | [4]
+~7;BL-6 NGO.
+
+Q2 A.
+
+1383 Discuss vertical communication and the role it plays in smooth 10)
+SO- , functioning of an organization.
+3,5&7;
+
+BL-2
+--- page 3 ---
+B. Read the following Article and draft a summary:
+
+N.B. the article is taken from a public Source
+Reference Hyperlink: https://www.simplilearn.com/future-of-artificial-
+
+intelligence-article
+
+"AI is the ability of machines or computer-controlled robots to execute
+tasks that are associated with intelligence.” As a result, Al is a branch of
+computer science whose goal is to create intelligent machines that can
+replicate human behaviour.
+
+Al can be classified into three categories based on its capabilities:
+
+1. Narrow AI: It is capable of intelligently accomplishing specific
+tasks. AI is now in a restricted stage.
+
+2. General AI: Artificial General Intelligence, or AGI, is a term that
+refers to machines that can mimic human intelligence.
+
+3. Super AI: Super AI refers to self-aware AI that has cognitive
+capacities that are superior to humans. It is a level at which
+machines with cognitive abilities can perform any task that a
+
+human can.
+CO-1; SO
+-7; At this time, AI is classified as Narrow AI or Weak AI, which can only | [10]
+do specific jobs. Self-driving automobiles, voice recognition, and other
+BL4 technologies are a few of its examples.
+
+AI has applications in practically every field, and we'll talk about the
+future of AI in each of the key fields.
+
+1. Health Care Industries: AI can diagnose diseases based on
+symptoms by reading data from a fitness band or a person's
+medical history, analyzing the pattern, and suggesting
+appropriate medication, which can be ordered easily through cell
+phones. Adopters stand to. gain a lot from adopting Artificial
+Intelligence in the future in the healthcare industry. The primary
+focus of the healthcare industry as a whole has been gathering
+precise and pertinent data about patients and those who enter
+treatment. As a result, AI is an excellent fit for the healthcare
+industry's wealth of data. Additionally, there are several
+applications for AI in the healthcare industry.
+
+2. Alin Education: The level of education received by youngsters
+determines a country's progress. We can see that there are a lot
+of courses accessible on AI right now. However, AI will change
+--- page 4 ---
+traditional schooling in the future. Manufacturing industries no
+longer require skilled labourers, as robots and technology have
+mostly replaced them. The educational system has the potential
+to be very effective and tailored to an individual's personality and
+abilities. It would provide opportunities for brighter pupils to
+shine, as well as a better opportunity for struggling students to
+cope up. On the one hand, proper education may strengthen
+individuals and nations and improper education can have
+disastrous consequences.
+
+3. AI in Finance: Any country's economic and financial situation
+is directly tied to its growth quantification. Because AI has so
+much potential in practically every industry, it has a lot of
+potential to improve people's economic health and the economic
+health of a country. The AI algorithm is now being employed in
+the management of equity funds. When determining the optimal
+approach to handle funds, an AI system could consider a large
+number of variables. It would outperform a human supervisor. In
+the world of finance, Al-driven tactics are set to disrupt
+traditional trading and investing practises. It could be disastrous
+for fund management organizations that cannot afford such
+facilities, and it could have a large-scale impact on business
+because the choices would be made quickly and abruptly. The
+competition would be fierce and tense at all times.
+
+4. AI in Military and Cybersecurity: Al-assisted military
+technologies have created autonomous weapon systems that do
+not require people, resulting in the safest way to improve a
+nation's security. In the near future, we may witness robot
+military that is as intelligent as a soldier/commando and capable
+of doing various tasks. Al-assisted methods would improve
+mission efficacy while also ensuring the safest execution. The
+element about Al-assisted systems that is of a little concern is
+that the algorithm it conducts is not completely explainable. The
+key issue here would be explainable AI, as deep neural
+networks grow faster and continue to develop. When technology
+falls into the wrong hands or makes poor decisions on its own, it
+might have disastrous consequences.
+
+:, Q3
+
+mi CO-1;
+SO-7;
+BL-3
+
+A.
+
+Do as Directed:
+1. The hostess noticed that there was no food
+
+(in/inside/on) my plate. (choose the correct option)
+
+[10]
+--- page 5 ---
+a
+
+2. Either we eat a pizza, or we remain hungry all day. (Identify
+this sentence as simple, compound, or complex.) .
+
+3. We can stand outside until the shop opens. (Identify this
+sentence as simple, compound, or complex.)
+
+4. what makes you think that you are special (punctuate)
+
+5. Theres a sale going on furniture at the Delazzo’s said my
+mother so we better buy our bedroom furniture from there.
+(punctuate)
+
+6. Childrens section is on the third floor, and the womens
+accessories are on the fourth. (punctuate)
+
+7. Rahuland Khushi__ (doesn't, don't) want to join us for the
+picnic. (choose the correct option)
+
+8. Oneofmy brothers _(is, are) studying engineering at IIT
+Delhi.(choose the correct option)
+
+9. Rahul’s father is not very happy with __—_(his/him/ he’s)
+joining the Indian Armed Forces. (choose the correct option)
+
+10. Ayesha speaks (a/an/the/no article) French fluently.
+
+You are running a social media campaign to raise awareness about Drug
+
+Abuse and its ill effects. You want your classmates to join hands with
+
+— you so that they can help you with campaign design and making it live
+for one month. The class shares a common email id that was created for
+SO- [10]
+3,581: academic communication purposes. Draft an email addressed to your
+—_ classmates, seeking volunteers to support your campaign. Add some
+strong points to convince your classmates about the significance of
+contributing to the cause.
+Q4 You are working at a leadership position with a reputed software firm.
+CO-1,2,3; Your organization regularly publishes content on its website for
+lee internal as well as external consumption. You are expected to [10]
+BL-6 contribute to the website with an objective of training, educating and
+
+motivating employees. Keeping these objectives in mind, draft a 400-
+--- page 6 ---
+500-word blog on” Importance of Conducting SWOT before a Product
+
+Launch”.
+CO1,2,3-;
+SO- How can one run effective meetings to serve all important meeting (10)
+3,5&7; objectives ?
+BL-2
+The HR department of Sriranga Pvt. Ltd. has organized its 34 quarterly
+meeting of the year 2022. Six participants including the chairperson
+and secretary were invited and the meeting duration was 4 hours. Some
+Q5 of the points discussed during the meeting included: Employee
+a outreach Programs; Leadership Training sessions; Launch of diversity 120]
+3,5&7; program; Renewal of hiring policies etc.
+BL-6 Draft an Agenda and Minutes of Resolution based on the above given
+information. Assume any logical and relevant information or data to
+finish the documents.
+Q6
+CO-1,2; Discuss the points that one should be mindful of while making r10]
+SO-3,7; presentations.
+BL-2
+CO-1,2,3; You work with the marketing department of a newly launched audio
+SO-3,7; books based app. Design a brand campaign for two months’ duration [10]
+BL-6 targeting ToFU Stage.
+Q7 “An awareness of organizational barriers to communication, equips a
+Son fe manager well with the strategies to overcome these and engage in [10]
+BL-4 ; impactful and effective formal communication.” Reflect.
+_ CO-1: Do as Directed:
+50-7: 1. Diana her engagement. (fill in the blank with 10]
+
+os BL-3
+
+appropriate option from the list.)
+a. broke in b. broke off c. breakin d. broke for
+--- page 7 ---
+2. While you are here, you will have to the rules:and
+regulations of this organization. (fill in the blank with
+appropriate option from the list.)
+
+a. abide for b. abideat c. abideto d. abide by
+
+3. My old house is ; we have to do something about it
+soon or we would be in big trouble. (fill in the blank with
+appropriate option from the list.)
+
+a. falling apart b. fallingin c. fellingin d. falling out
+
+4. Why don’t you if the TV is working now? (fill in the
+blank with appropriate option from the list.)
+a. tryin b.tryup c.tryout d. try for
+
+i 5. Before sharing with people, my visiting card needs some
+modifications. (identify and correct any modification error.)
+
+6. This sculpture was made by an Italian carpenter in marble.
+(identify and correct any modification error.)
+
+7. The child is standing on the terrace in blue t-shirt and making
+funny faces at passers-by. (identify and correct any
+modification error.)
+
+8. The flautist only played one tune. (identify and correct any
+modification error.)
+
+9. The man stepped into the taxi with a black briefcase. (identify
+and correct any modification errors.)
+
+10. While walking briskly, the smart watch beep startled Jane.
+(identify and correct any modification errors.)
 ````
 
 ## 2022-23 · Re-Exam · Sem 1 · paper 0c9aef177081

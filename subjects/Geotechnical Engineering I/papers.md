@@ -5943,7 +5943,7 @@ e) Explain the sand replacement method of determining the unit weight of soil. 0
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/CIVIL/V SEMESTER/GEOTECHNICAL ENGINEERING I/Geotechnical Engineering I Batch 2014-15 Re Exam.pdf`
 - Printed on paper: max marks: 60; exam date: 09/06/2015
 - Text: ocr (9 pages), mean OCR confidence 63.4
-- 13 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 12 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 MUKESH PATEL SCHOOL OF TECHNOLUGY MAN AUraMcan t Uo suawuasnaeaserece
@@ -6103,6 +6103,7 @@ Frg st”
 
 cos ad notes (4H y yay, 10) R bt 1902°-5—
 consultants + et {x AY SOS Dale tr a-wy
+i_wesh ‘. of Dei lig: Rote 4 Biwi Lt 10+
 ‘Ts; ea” ~ f
 Depth 8x, NES w Sox | ty be
 ro Byouww , ——____ ,s v| ty Saud 5

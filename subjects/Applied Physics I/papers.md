@@ -3980,10 +3980,10 @@ ALL THE BEST
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/APPLIED PHYSICS I/2005-2006(2).pdf`
 - Printed on paper: duration hours: 1.5
 - Text: ocr (1 page), mean OCR confidence 90.0
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Shri Vile.Parle Kelavani Manadal’s
+NARSEE MONJEE INSTITUTE OF MANAGEMEN
 (Deemed University)
 Course: M. B. A. (Tech) Year: First Trimes &
 Subject: Applied Physics Duration: 1.5 hours Total Marks;

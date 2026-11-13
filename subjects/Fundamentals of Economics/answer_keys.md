@@ -109,3 +109,85 @@ Ans.   Explain the Central government
 Evaluate   Define the functions of Central bank in India
 ********** 2 **********
 ````
+
+## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 0ee5809f50cd
+
+- Departments: Computer Science and Business Systems
+- Programmes: BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE AND BUSINESS SYSTEMS) - 7036
+- Source: `00_Original_Downloads/2024/Semester II/69329__Re-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE AND BUSINESS SYSTEMS) - 7036/Fundamentals of Economics/ANS_Re-Exam_Fundamentals of Economics(702TG0C004)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2025
+- Text: mixed (2 pages), mean OCR confidence 91.4
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE AND BUSINESS
+SYSTEMS)
+Year: I/Sem 2 Re-exam(Exam Year: 2024-2025)
+Subject: Fundamentals of Economics
+Date: 10 Jul 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Q.1 is compulsory
+5. Out of Q.2, attempt any 4 questions
+6. All questions carry equal marks
+7. Assume suitable data if necessary
+********** 1 **********
+--- page 2 ---
+Explanation of concept of inefficiency of factor with graph
+
+Explain the three motives for holding money as given by Keynes
+Define Money demand,
+
+lAns Keynes view of Money,
+
+motives of demand for money
+
+IHow does an increase in income affect the budget constraint and consumer equilibrium?
+Define indifference curve,
+lans lexplanation of income effect,
+Explain budget constraint and equilibrium,
+Explain the shift in equilibrium due to change income
+
+IHow does an expansionary monetary policy affect money supply?
+Define monetary policy and expansionary monetary policy,
+lang @XPlain money supply and the relation between monetary policy and money supply
+
+lf a consumer prefers coffee over tea, how wi | their indifference curve look in graphs comparing
+coffee and tea consumption?
+lans_ [Explain indifference curve of substitute product with graph and example of tea and coffee
+
+How does unemployment change during different phases of the business cycle?
+Define business cycle and unemployment,
+
+lans explain phases of business cycle,
+
+the relation between unemployment and business cycle.
+
+If a firm experiences diminishing marginal return, What happens to its marginal cost curve?
+Explain the concept of TP and MP,
+lans the law of diminishing marginal return with one variable and relationship between the TP and MP
+
+How does increase in government spending affect the IS-LM equilibrium?
+
+Explain IS-LM model and the role of government spending and its impact on equilibrium
+Ans
+L hy do firms in Monopolistic competition engage in product differentiation?
+
+Explain the term Monopolistic competition and product differentiation,
+lans the role of product differentiation on market with graph
+
+How does technological advancement impact voluntary and involuntary unemployment?
+Explain the term unemployment,
+
+lans oluntary and involuntary unemployment,
+
+impact of technological advancement on it.
+
+FIC 2 I HH ar
+````

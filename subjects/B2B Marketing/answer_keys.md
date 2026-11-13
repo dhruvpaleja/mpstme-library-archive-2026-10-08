@@ -2680,6 +2680,225 @@ Analyze
 ********** 6 **********
 ````
 
+## 2024-25 · Re-Exam · Sem 8 · Answer key · paper eb60698a7810
+
+- Departments: Mechanical
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (MECHANICAL ENGINEERING) - 7046
+- Source: `00_Original_Downloads/2024/67754__Semester VIII__context_fixed.zip :: Re-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (MECHANICAL ENGINEERING) - 7046/B2B Marketing/ANS_Re-Exam_B2B Marketing(703TM0C004)_Semester VIII_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 03 Jul 2025
+- Text: text (5 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (DS)/MBA.
+Tech (EXTC)/MBA. Tech (IT)/MBA. Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2024-2025)
+Subject: B2B Marketing
+Date: 03 Jul 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 5 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. _1___ is compulsory
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted
+7. All questions carry equal marks
+8. Assume Suitable data if necessary
+Marks shall be allotted based on the accuracy, relevance, and completeness of the answer in accordance
+with the synoptic guidelines
+Q1
+Answer briefly:   [10]
+a.   Explain the classification of Industrial products and services.
+Answer
+•   Materials & Parts(These enter final product)
+Raw materials, Manufactured materials, Component parts, Subassemblies
+CO-1;
+•   Capital Items (These are used in production process)   [2.5
+BL-
+• Heavy and Light equipment
+Understan   marks]
+•   Plant and buildings
+d
+•   Supplies & Services (These support operations)
+Operating and maintenance supplies
+• Wide range of Services
+b.   Discuss the benefits of strong brand equity in B2B marketing
+Answer
+High brand equity results in the following preferential actions from
+CO-1;   customers:
+BL-   • Customers are willing to pay a higher price.   [2.5
+Understan   • Customers give higher share of their purchase requirements.   marks]
+d   • Customers take less time to decide the orders.
+•   Less likelihood of customers switching to competitors’ offerings.
+********** 1 **********
+--- page 2 ---
+c.   Explain the broad components of a Marketing Strategy.
+Answer
+The Marketing Strategy includes:
+CO-1;   •   Selection of target segments.   [2.5
+BL-   •   Positioning strategy.
+Understan   • Marketing-mix strategies (4Ps).   marks]
+d   • Branding
+• Customer service.
+• Marketing research.
+d.   Havell’s is planning to enter the South American market with its range of
+electric equipment products. Explain the different entry strategies that
+Havell’s can use to enter the market.
+Exporting through local agent
+CO-2;   [2.5
+Exporting through foreign agent
+BL-
+Exporting to foreign importer / distributor   marks]
+Apply
+Setting up local office / representative
+Licensing / Franchising
+Setting up Joint ventures for distribution / manufacture
+Setting up wholly owned manufacturing facilities
+Rakesh Jain is a Sales Manager in Oracle India. Oracle offers a wide range
+of enterprise solutions, including cloud applications (like ERP, CRM, and
+HCM), designed to help businesses manage various aspects of their
+operations, customer relationships and data management. He is responsible
+for selling Oracle solutions to the Banking sector. Multiple people in the
+Bank are likely to be involved in the purchase decision. Classify the different
+Q2   roles in organizational buying which Rajesh can identify as a part of his sales
+strategy.
+CO-1;
+[10]
+BL-   • Users use the product. Sometimes they initiate purchase action.
+Understan   • Buyers implement purchase procedure.
+d   •   Influencers are individuals who influence the buying process.
+• Deciders are members who make buying decisions on the supplier
+or the brand of a product.
+• Gatekeepers control information to buying center members.
+Hitesh Bhatt is a Regional Head (Sales and Marketing) at Delta electronics
+known for its DC industrial fans, Energy efficient electric motors and power
+Q3   supplies. Explain the macro-variables that Hitesh can use to effectively
+CO-1;   segment the market. Further, examine some targeting strategies that Hitesh
+BL-   can use to target the market.   [10]
+Understan
+d   • Major Macro-variables
+- Type of Industry
+- Type of customer
+********** 2 **********
+--- page 3 ---
+-   Size or usage rate of customer companies
+-   Customer’s geographical location
+-   Application or end-use of the product
+Targeting strategies
+-   Concentrated marketing
+-   Differentiated marketing
+-   Undifferentiated marketing
+- Niche marketing
+Apollo Tyres Limited is an Indian multinational tyre manufacturing
+company known for its global presence and a wide range of tires for various
+vehicles. Their product portfolio includes passenger car tyres, SUV tyres,
+light truck tyres, truck-bus tyres, two-wheeler tyres, and bicycle tyres. The
+company is considering an idea to launch tyres for the airline industry.
+Analyze the steps involved in the new product development process and how
+companies can utilize them to introduce products into the market
+Q4
+CO-2;
+[10]
+BL-
+Analyze
+Alstom T&D India is a global leader in the Transformer Manufacturing
+industry. The company has a large sales team of over 900 sales employees.
+Amit Mahajan (National Sales Head) has however identified that the team
+is not performing to their best ability due to lack of training. Apply the
+ACMEE technique to design a training program for the team.
+Q5
+CO- 2;   •   Assess training needs of: (1) newly hired sales trainees, and
+BL-   (2) experienced / existing salespeople   [10]
+Apply   • Design and execute sales training program using ‘ACMEE
+Method’: Aims, Content, Methods, Execution& Evaluation
+Designing & Executing Sales Training Program
+❑ Aims / Objectives (vary from company to company)
+•   Prepare new sales trainees
+•   Increase sales, profits, or both
+•   Increase sales force productivity
+********** 3 **********
+--- page 4 ---
+❑ Content of training program
+•   Initial training for new sales trainees (broader
+training)
+• Company, product, customer, competitor
+knowledge
+•   Selling skills or sales techniques
+•   Continuing training for existing salespeople
+(specific training)
+• Depending on training needs
+• Examples: New product, negotiating skills
+Sales Training Methods :Grouped into five categories
+•   Class room / conference training: Lectures, group
+discussions
+•   Behavioral learning: Case studies, role-playing
+•   Online training : Distance learning, interactive
+multimedia. Absorption training: CD-ROM, audio
+cassettes, manuals, books
+• On the job training: Mentoring, job rotation
+Execution of Sales Training program
+➢ Decide
+• Who will be the trainees and trainers?
+• When and where the training will take place?
+• What would be the budgeted expenditure?
+➢ Arranging internal / external trainers, Arranging conference
+hall, teaching aids, travel, etc.
+➢ Evaluation of Sales Training Program
+➢ Sales performance against targets before and after training
+➢ Written tests before and after the training
+➢ Trainees evaluate training program
+➢ Reinforcement training methods
+➢ Web – based or online training, Refresher training and
+retraining
+SKF India Ltd. has evolved from a ball bearing manufacturer to a
+knowledge-driven engineering company offering solutions in bearings and
+lubrication products. Discuss the various types of intermediaries (channel
+partners or middle-men) that SKF can use in the distribution of their
+products. Further, discuss the selection process and criteria that SKF can use
+to select the intermediaries or channel partners
+Q6)
+Types of Intermediaries
+CO-2   • Value added resellers(VARs)
+•   Distributors or dealers   [10]
+BL-Apply
+•   Manufacturer’s representatives (reps) or agents
+•   Brokers
+• Commission merchants
+•   Jobbers
+•   Selection process consists of :
+•   Generating a list of intermediaries through ads., databases
+of consultants and trade associations
+•   Visiting prospective channel members
+•   Negotiating with short-listed intermediaries
+********** 4 **********
+--- page 5 ---
+•   Finalizing agreements
+•   Selection criteria generally used are:
+•   Location
+•   Relevant experience
+•   Financial standing
+•   Infrastructure
+Specific criteria may differ for different types of intermediaries and
+product – market situations
+Mr. Nikhil Dube is the General Manager (Marketing) of S.M Auto
+Engineering Pvt Ltd, a family-owned group company. SM Auto Engineering
+manufactures exhaust systems for Passenger Cars, Commercial Vehicle.
+They have recently launched a range of exhaust systems for the two-wheeler
+Q7)   industry. Recommend the different pricing strategies that Mr. Dube can use
+CO-3;   to effectively price the products.
+SO- ; BL-   Answer   [10]
+Create   There are four methods:
+•   Cost-based pricing
+• Value - based pricing
+•   Competition-based pricing
+•   Transfer pricing
+********** 5 **********
+````
+
 ## 2024-25 · Re-Exam · Sem 8 · Answer key · paper e45e854965e5
 
 - Departments: Electronics and Telecommunication

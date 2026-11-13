@@ -1,6 +1,6 @@
 # Signals and Systems: question papers in full
 
-127 unique papers · 2010-11 to 2025-26 · Electronics and Telecommunication, Information Technology, Mechatronics, Cyber Security, Computer Engineering, Electrical, Common (all branches)
+128 unique papers · 2010-11 to 2025-26 · Electronics and Telecommunication, Information Technology, Mechatronics, Cyber Security, Computer Engineering, Electrical, Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1074,6 +1074,145 @@ an.
 os.
 
 Page 3 of 3
+````
+
+## 2024-25 · Re-Exam · Sem 4 · paper a6a1665a3543
+
+- Departments: Information Technology
+- Programmes: B TECH / I T
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B TECH/2ND YEAR/1123__I T.zip :: SEMESTER IV/SIGNAL AND SYSTEMS/Signals_and_Systems__Sem_IV__Batch_2021-22_Re_Exam_oUMNHQxvjj.pdf`
+- Printed on paper: max marks: 100; exam date: 7 / 5 / 225
+- Text: ocr (4 pages), mean OCR confidence 79.1
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+
+Academic Year: 2024-25
+
+Program: BTech - _ i Stream; IT Year: IL: Semester: _Iv.
+Subject: Signals & Systems_ _ Time: __3__hrs (10:0vanto 4:00PM)
+Date: 7 / 5 / 225 No. of Pages: 3
+
+Marks: 100.
+
+Re-Examination C2 Dak - 2d 2)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___is compulsory.
+
+2) Out of remaining questions, attempt any __4 __ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [4x5=20]
+CO-1;SO- | a. | Define and give examples of continuous and discrete-time signals. [4]
+1;
+
+_BL-1 .
+
+CO-3;SO- |b. | Explain Dirichlet’s conditions for Fourier series. [4]
+1; BL-2
+
+CO-4;SO- | c. | What is Region of Convergence (ROC) in Z-transform? Explain with [4]
+1; BL-1,2 an example.
+
+CO-3;SO- | d. | Determine the Fourier Transform of x(t) = e "u(t. [4]
+1; BL-5 :
+CO-3; SO-1 je | List any three properties of Laplace Transform. ; [4]
+
+; BL-1
+
+a. | Determine the convolution of the given two signals using graphical
+
+Q2 CO-2; method of convolution. _
+xi _ cite Oe
+SO-1; BL- 5 > Pane ; [10}
+5 -
+23 G 2 7
+--- page 2 ---
+e
+
+b. | Determine whether the following signals are energy signals, power
+
+CO-1; SO- signals, or neither. [10]
+1; @ x(t) = tu(t)
+BL-5 (ii) x(t) = Acos(wett 9)
+
+a. | Determine the exponential Fourier series for the periodic signal shown
+
+in
+;
+Q3 CO-3;
+i t «ft [10]
+SO-1; BL-5 3-2-0 61 23
+—— Tad
+b. | Determine the Fourier transform of the following signal.
+x()
+. 1
+CO-3; SO- (10)
+1; BL-5 : t
+1
+~T
+a. | Determine the inverse Laplace transform of the given system.
+Q4CO-3;
+$O-1; BL-5 X(s) = ae?) ml
+= $7 S(s+3)s+4
+
+C03: SO- |b. | Discuss the Properties of Region of convergence for Laplace Transform.
+
+1; BL-6
+
+{10}
+
+Q5CO-3; | a. | The differential equation of the system is given as
+
+d’y(t) _ dy(t) dx(t) . [10]
+SO-1; BL-5 po ss = 2%
+de +5 at + 6y(t) = 2 at + x(t)
+--- page 3 ---
+The input given to the system is given by x(t) = u(t). Determine the
+output response of the system. Assume that all initial conditions are
+
+zero.
+
+CO-3;SO- |b. | Explain time shifting and differentiation property of Fourier transform.
+
+10
+1; BL-2 [10]
+Q6CO-3; a. | The system produces the output of y(t) = e~‘u(t), for an input of
+, x(t) = e~4u(t). Determine the impulse response and frequency —- [10]
+SO-1; BL-5 response of the system.
+b. |Determine x(n) for the following Region of convergence using partial
+fraction expansion method.
+24745
+xe) = 2a Me+ 5)
+C0-4; SO- @-3)@-D)E-2)
+1; BL-5 ROC’s: (10)
+@ = 2<24<3
+di) iz|>3
+iii) [z| <1
+a. | A discrete time system is described by a difference equation |
+Q7
+CO-4: SO- y(n) + O.1y(n — 1) — 0.2y(n —2) = x(n) + x(n — 1) [10]
+L: BL. 5 @ Determine the impulse response y(n) for input x(n) = 8(n).
+7 (ii) | Determine the system response y(n) for input x(n) = u(n).
+b. | Explain wi :
+CO-1: SO- xplain with example (19)
+1; BL-2 (6) Causal and Non-Causal systems
+
+(ii) _ Stable and Unstable Systems
+--- page 4 ---
+
 ````
 
 ## 2024-25 · Re-Exam · Sem 3 · paper 134e0a4084f6

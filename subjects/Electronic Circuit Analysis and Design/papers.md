@@ -1,6 +1,6 @@
 # Electronic Circuit Analysis and Design: question papers in full
 
-23 unique papers · 2010-11 to 2019-20 · Electronics and Telecommunication
+24 unique papers · 2010-11 to 2019-20 · Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1432,6 +1432,225 @@ i]
 
 1°
 nm
+````
+
+## 2016-17 · Re-Exam · Sem 3 · paper e39308f137e6
+
+- Departments: Electronics and Telecommunication
+- Programmes: MBA TECH / TELECOM EXTC
+- Source: `00_Original_Downloads_Local/MBA_TECH_2ND_YEAR/6880__TELECOM EXTC.zip :: III SEMESTER/ELECTRONIC CIRCUIT ANALYSIS & DESIGN/Electronic_Circuit_Analysis_and_Design_Batch_2015-16_Re-exam_vozZvnWkiB.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 01 December 2016
+- Text: ocr (4 pages), mean OCR confidence 66.9
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme : MBA. Tech (EXTC) Year : I
+
+Semester : III
+Batch : 2015-16
+
+Academic Year : 2016-2017
+
+Subject : Electronic Circuit Analysis and Design Marks: 60
+
+Time: 10.00 am to 1.00 pm
+
+Date : 01 December 2016 - Duration : 3 (hrs)
+
+Re-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. 01 is compulsory.
+
+2) Out of remaining questions, attempt any 04 questions.
+
+3) In all 05 questions to be attempted.
+
+4) Answer to each new question to be started on a fresh page.
+5) Figures in brackets on the right hand side indicate full marks.
+6) Assume Suitable data if necessary.
+
+1. Design a single stage RC coupled CE amplifier using BC147B transistor for low [12]
+frequency range 10Hz to 20 KHz with following requirement.
+
+Voltage Gain | Ay| = 120
+
+Vo=1V
+R,= 10 KQ
+S<10
+
+Calculate Ay Ri, and Ro of the designed circuit.
+
+2 (a) Design 1 MHz Colpitt’s oscillator using BJT. [06]
+(b) Explain with example use of EDA tools like Pspice in design of amplifiers. [06]
+3. Design two stage RC coupled CS amplifier to work up to lower frequency of 50 Hz [12]
+
+using BFW11 having mutual characteristics given by Ipmax v/s Vgs max, Ay> 49,
+
+Vo = 3V. Design for zero temperature drift biasing.
+
+4/4,
+--- page 2 ---
+4, Derive expressions for voltage gain, current gain, input impedance and output
+for BJT voltage amplifier using h-model. Determine voltage gain,
+
+and output impedance for network shown.
+
+impedance [12]
+
+current gain, input impedance
+
+— - et VCC hfe = Hany te = ko,
+J hre = 2tin) hse+ 3007
+Ske Ris loo ka A
+||
+BA ° Raz loK%&
+
+= on aL Re-vj 212 BM
+, 4 Re= [kL
+| Rs= 600
+Re a RL= tok&
+Ceys cera= LOWE
+“E= loose,
+
+“5. Derive expressions of voltage gain, input impedance, and output impedance
+for JFET voltage amplifier shown in figure.
+
+Oitag
+
+Calculate from above expressions voltage gain, input impedance, and output
+
+impedance for same circuit. e Ny} >p
+|
+Zp
+Lt [=
+NO
+—P7 <p
+
+[12]
+
+NVpp23V
+
+Ro = 2-2kS
+Rg. 750%
+Re= LoMM
+
+Yor 26kR0
+tpss= 3m
+Wwel= AV
+--- page 3 ---
+6. Design full wave bridge rectifier DC Supply with Vdc =15V, [12]
+R = 15Q, ripple factor > 0.05. Use L- section filter. Calculate expected ripple factor for
+designed circuit.
+
+7. a) Draw a sketch to illustrate the principle of series voltage negative feedback, and [06]
+
+Briefly explain. Also , list the major effects of negative feedback on an amplifier.
+
+b) Analyse type of feedback used in given circuit and determine A, Rif, Rof [06]
+and Avf for network shown. ANC CO
+RE Re
+——1]——__+e-vo
+<+—
+re :
+~ ReE= toykve
+& | Ke Q Rez (6 RO
+| } Rs lo n\n
+Rs Mt
+v We- |{ koe
+aL hRe= tod
+--- page 4 ---
+: : E866 beemaypr yi ¢ .
+
+y & dea8 eecR ‘| + % a}
+3 ; Fy]. ! Siarais >
+: s m =z]d]} apo 7
+‘ se [@PeR rit -
+. +o SUS wlia/ solo = F
+. Al Stsis
+: , : wy [dange a |" elsielor" ol | . >
+. _ pope - falAfala], velo : oo
+, ; . : LHL oe
+4l2}eie $ gz] 7 ¥ ;
+apa} ald | BL : ;
++ . wd
+VPS se
+wpa oto, 4 +
+: “
+7 roa he fica pod =
+. be afr d]s . Rosle
+win
+Ble elale}e]:
+ag mama A 2
+“4 _ nm - = 7
+Saeed S |ejs
+: ella at . a
+: ey¢g ége 22R38 : - ~ >
+ss | 8 4.
+; = e}sial
+78 * AS] Alo]
+= gfegsoos |S o!9e plop
+PE, a |e eens s mia al] ajal--
+. 3
+° &
+ely J2) 3818
+pis == BRIS
+~ | Gls lenaasag :
+= i Rah _
+Lied WIR
+; ai’ 3 egysy = . |<is .
+EU 18382388 ele 2 ele :
+; & ee RSARASS wla ale
+< =S}" pe
+> & 82g |ruous jel: bad : *
+: “| SES l Je oly
+: : Be
+~ E ia nla
+“4a |e <\¢ . ;
+ssgjasi rtd =| © .
+i ay.
+i ‘ 7 g solale
+i . gs 518 & 4 er .
+! S23 leaisess aa
+ad]: a1 2 4 :
+: Bis | Sass al§ Gl 11. lESiele
+° : $ 50x . 35 .
+_ . o °c a
+ea :
+gs osoansg -
+apeu jauaurnan £26 i | 4 1
+- lax)! 2 slole
+. ae 2
+= > . \
+TS¢g)eoeenanl 28" 32
+2a
+ates |22-egsealt ; ;
+vy. ; : :
+a ok eo esres - pop le ds ole
+ag BSsssaoilylaasy 1] | a[alal- -
+. <= . « 1
+oe . # RB i ts
+2s lueoegey its
+: as SSS5993\| |aaaaagg| . :
+= e BS wl see O _ -
+LQ | 3 BPRS BS 7
+te sg GS
+aac - : Z —
+a . yt .
+S 4
+a = go as 3
+ra : e Hel = gig gs
+8 : = an =
+8 Jygesskal/S|Sq82288| Ble | ale ;
+3° ae) Bees abe its ‘as rd :
+: SERENE ae U . ;
 ````
 
 ## 2016-17 · Re-Exam · Sem 3 · paper 6e7999f21473

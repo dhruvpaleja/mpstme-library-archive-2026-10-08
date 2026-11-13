@@ -1,6 +1,6 @@
 # Artificial Intelligence
 
-**113** unique papers (137 copies across programmes) · 2006-07 to 2025-26 · 28 programmes · Sem 1, Sem 2, Sem 3, Sem 4, Sem 5, Sem 6, Sem 7, Sem 8, Sem 9, Sem 10, Trim 2
+**115** unique papers (139 copies across programmes) · 2006-07 to 2025-26 · 28 programmes · Sem 1, Sem 2, Sem 3, Sem 4, Sem 5, Sem 6, Sem 7, Sem 8, Sem 9, Sem 10, Trim 2
 
 Download only this subject, sorted by academic year:
 
@@ -63,8 +63,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / COMPUTER, MBA TECH / Computer | Artificial Intelligence ,Final exam 2023-24.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 6 | B TECH / CSE Data Science (311) | Artifical Intelligence, Sem-VI, Final Exam 2023-24.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 3 | M TECH / DATA SCIENCES FALL BACH | Artificial Intelligence Batch 2023-24 Final0001.pdf |
+| 2023-24 | Final-Exam | Question paper | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Final-Exam_Artificial Intelligence(703CO0C008)_Semester II_2023-2024.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 2 | MCA | Artificial Intelligence Batch 2023-24 Final.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 3 | MCA | Artificial Intelligence Batch 2023-24 Final.pdf |
+| 2023-24 | Final-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Final-Exam_Artificial Intelligence(703CO0C008)_Semester II_2023-2024.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 6 | B TECH / CSE Data Science (311) | Artificial Intelligence, Sem-VI, A Y 2023-24, Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 2 | MCA | Artificial Intelligence Batch 2023-24 ,2021-22 Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 3 | MCA | Artificial Intelligence Batch 2023-24 Re Exam0001.pdf |

@@ -616,7 +616,7 @@ U feta a a 7 :
 - Programmes: B TECH, MBA TECH
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/ALL STREAMS/SEM-VII/FRENCH/French, Sem-VII, Final Exam 2024-25.pdf` (+1 identical copies)
 - Text: ocr (7 pages), mean OCR confidence 81.2
-- 15 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 14 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYKM’S NMIMS .
@@ -789,6 +789,7 @@ Questions: (10 marks}
 
 [20]
 --- page 6 ---
+4.- Quel est le plat préféré de Marie ?
 5. Que fait Marie aprés le diner ?
 
 1. Look for the corresponding words from the text. (10

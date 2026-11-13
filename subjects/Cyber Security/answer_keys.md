@@ -3245,3 +3245,169 @@ words/names, Keyboard patterns, Personal information, Reused passwords, Simple
 numeric sequences
 ********** 11 **********
 ````
+
+## 2024-25 · Final-Exam · Sem 3 · Answer key · paper 46a1c5092a5a
+
+- Departments: Computer Applications (MCA)
+- Programmes: MASTER OF COMPUTER APPLICATIONS - 7061
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Final-Exam/MASTER OF COMPUTER APPLICATIONS - 7061/Cyber Security/ANS_Final-Exam_Cyber Security(703AI0C002)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Dec 2024
+- Text: text (5 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MASTER OF COMPUTER APPLICATIONS
+Year: II/Semester III(Exam Year: 2024-2025)
+Subject: Cyber Security
+Date: 13 Dec 2024   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 5 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory. Out of remaining questions, attempt any 4 questions.
+5. Assume Suitable data if necessary.
+Q1   Answer briefly:   [20]
+CO1; SO1 ;BL-   a. What are active attacks? Explain any three types of active attacks.   [5]
+low
+active attacks-2m
+types-1 mark each
+CO2; SO1 ;BL-   b.   Describe Discretionary Access Control with strengths and limitations.   [5]
+moderate   DAC-3m
+Strengths-1m
+Limitations-1m
+CO3; SO1;BL-   c.   Discuss Transport mode of VPN with neat diagram.   [5]
+low
+Transport mode explanation-3m
+Diag-2m
+CO4; SO1;BL2   d. What is Risk management? Enlist Steps in Risk Management.   [5]
+RM-1M
+Steps-4M
+Q2
+CO1; SO1; BL2   a.   Explain different types of attacks. Consider an online banking application.   [10]
+Who might want to attack the program? What types of harm might they
+want to cause? What kinds of vulnerabilities might they exploit to cause
+harm?
+Types of attacks-3m
+Who might want to attack the program-2m
+1. Cybercriminals
+2. Hacktivists
+3. Insiders
+4. State-sponsored actors
+Types of Harm-3m
+1. Financial Loss: Direct theft of funds or unauthorized transactions.
+********** 1 **********
+--- page 2 ---
+2. Data Breaches: Exposure of sensitive customer data, leading to
+identity theft.
+3. Reputation Damage: Loss of customer trust and business, which
+can have long-term consequences.
+4. Service Disruption: Denial of service attacks can incapacitate the
+banking application, preventing legitimate users from accessing
+services.
+Vulnerabilities-2m
+CO2; SO1; BL2   b. With suitable examples explain any four types of substitution ciphers.   [10]
+Compare substitution ciphers with transposition ciphers.
+substitution ciphers -8m
+Comparison -2m
+Q3
+CO1; SO1;BL2   a. Apply RSA algorithm to encrypt and decrypt the message string “ABC”.   [10]
+Assume suitable values for p, q, encryption key and decryption key.
+ Select primes p=11, q=3.
+ n = pq = 11x3 = 33
+φ (n) = (p-1)(q-1) = 10x2 = 20
+ Choose e=3
+Check gcd (e, φ (n) ) = gcd(3, 20) = 1
+(i.e. 3 and 20 have no common factors except 1)
+ Compute d such that ed ≡ 1 mod φ (n)
+i.e. compute d = e-1 mod φ (n) = 3-1 mod 20
+i.e. find a value for d such that φ divides (ed-1)
+i.e. find d such that 20 divides 3d-1.
+Simple testing (d = 1, 2, ...) gives d = 7
+Check: ed-1 = 3.7 - 1 = 20, which is divisible by φ (n).
+ Public key = (e,n) = (3, 33)   Private key = (d,n) = (7,33).
+CO2; SO1;BL2   b.   Discuss various biometric features with applications used   for   [10]
+authentication. Also summarize Problems with biometrics.
+Features with applications-7m
+Problems-3m
+Problems:
+Biometrics are relatively new and some people find their use intrusive
+Devices are costly
+It can become a single point of failure
+Although equipment is improving, there are still false readings
+Q4
+CO3; SO1;BL2   a. Summarize the steps in DES algorithm. Compute the output using   [10]
+following S-box 1 for input value 101110. Write the steps followed
+for the same.
+********** 2 **********
+--- page 3 ---
+DES steps-7 m
+s-box output with steps-3m
+ Step 1: Apply an initial permutation on a block.
+ Result is B=IP(P) where P is the 64 bit block IP Initial
+Permutation function and B the result.
+   Step 2: Split B into 32 bit blocks
+   Li = leftmost 32 bits
+Ri = rightmost 32 bits.
+   Step 3: Pick a 56 bit key. Permute it
+   Step 4: Left circular shift it by 1 bit giving K1.
+ Step 5: Perform a complex sequence of operations and obtain
+ X1 = F(R1,K1) (The complex set of operations include table
+look up and dropping bits).
+ Step 6: Find R2 = L1 + X1
+ Step 7: Set L2 = R1
+ Repeat steps 2 to 7 , 16 times to get B16 = L16,R16
+ Step 8: Apply inverse of initial permutation on B16
+ The result is the encrypted block
+CO4; SO1;BL2   b. With neat diagram, explain working of Kerberos system.   [10]
+Discuss any five types of access controls with suitable examples.
+2 marks for each type
+Q5
+CO3; SO1;BL2   a. What are non-malicious program errors? Explain their major types.   [10]
+1 m – non-malicious program errors
+3 marks for each type
+CO4; SO2;BL2   b.   Explain Link encryption with the help of neat diagram and compare it   [10]
+with End-to-End Encryption.
+********** 3 **********
+--- page 4 ---
+Link encryption with diagram-5m
+Comparison-5m
+Link Encryption In link encryption, data are encrypted justbefore the
+system places them on the physical communications link. at layer 1 or 2
+in the OSI model. Similarly, decryption occurs just as the communication
+arrives at and enters the receiving computer
+Q6
+CO1; SO2;BL4   a. What are Intrusion Detection Systems? Explain any four types of   [10]
+Intrusion Detection Systems with their drawbacks.
+IDS-2m
+IDS types- 2m for each type
+CO4; SO1;BL2   b. Summarize the steps involved in Risk Analysis for a chain of hospitals.   [10]
+6m- steps
+4m – examples/solutions for given scenario
+Steps of a Risk Analysis
+1. Identify assets.
+2. Determine vulnerabilities.
+3. Estimate likelihood of exploitation.
+4. Compute expected annual loss.
+5. Survey applicable controls and their costs.
+6. Project annual savings of control
+Q7
+CO3; SO1; BL1   a. Why Digital signatures are important? Discuss the process for creating and   [5]
+verifying Digital Signatures.
+********** 4 **********
+--- page 5 ---
+CO2; SO1; BL2   b. What are the characteristics of a good password?   [5]
+Length: At least 12-16 characters long. Longer passwords are generally
+more secure.
+Complexity: A mix of uppercase and lowercase letters, numbers, and
+special characters (e.g., !, @, #).
+Unpredictability: Avoid common words, phrases, or easily guessable
+information like birthdays or names.
+c.   Discuss developmental Controls against program threats.
+Modularity, Encapsulation and information hiding
+d.   Explain Tunnel mode VPN with neat diagram.
+********** 5 **********
+````

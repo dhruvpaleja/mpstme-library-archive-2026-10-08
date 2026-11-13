@@ -3093,7 +3093,7 @@ SSeS
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/MECHATRONICS/SEM III/ELECTRONIC DEVICES AND CIRCUITS/ELECTRONIC DEVICES AND CIRCUITS (MECHATRONICS), YEAR 15- FINAL EXAM.pdf`
 - Printed on paper: exam date: 05/12/2015
 - Text: ocr (3 pages), mean OCR confidence 67.1
-- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -3231,6 +3231,7 @@ S| SJRRSRSLS Abed bea ba ~
 21,5 : as afAlald - Ball ms
 . RS
 ; wi . wisi (ey: :
+/ f)/2layceyie bod Nacd uae bd 3
 : & = Read ~~ =S
 i é é . sisi nie = oe
 : 2 en apy cpio < “aN

@@ -1,6 +1,6 @@
 # Machine Learning
 
-**111** unique papers (137 copies across programmes) · 2017-18 to 2025-26 · 31 programmes · Sem 1, Sem 2, Sem 3, Sem 4, Sem 5, Sem 6, Sem 7, Sem 8, Sem 9, Sem 10
+**120** unique papers (146 copies across programmes) · 2017-18 to 2025-26 · 31 programmes · Sem 1, Sem 2, Sem 3, Sem 4, Sem 5, Sem 6, Sem 7, Sem 8, Sem 9, Sem 10
 
 Download only this subject, sorted by academic year:
 
@@ -76,18 +76,24 @@ Also filed as: `MACHINE LERANING`
 | 2024-25 | Final + Re-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / EXTC | Machine learning Batch 2024-25 Final Batch 2023-24 Re Exam.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 6 | MBA TECH / Computer, MBA TECH / EXTC | Machine Learning ,Final 2024-25,Re-exam 2023-24.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH / CSE DATA SCIENCE | Machine Learning, Sem-V, Final Exam 2024-25.pdf |
+| 2024-25 | Final-Exam | Question paper | Sem 3 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Final-Exam_Machine Learning(703CO1C003)_Semester III_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | MCA | Machnine Learning Batch 2024-25 Final.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Final-Exam_Machine Learning(703CO1C003)_Semester III_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 7 | B TECH / CSBS | B Tech (CSBS,CS) Machine Learning, VII 2024-25 Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / CSE DATA SCIENCE | Machine Learning, Sem-V, Batch 2024-25, Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | MCA | Machine Learning Batch 2023-24,2024-25 Re Exam0001.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 6 | B TECH / COMPUTER, MBA TECH / Computer, MBA TECH / EXTC | Machine Learning, Sem-VI, Final 2023-24.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / CSBS | Machine Learning, Sem-V, Final Exam, A Y 2023-24 (2).pdf |
+| 2023-24 | Final-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / COMPUTER | Machine_Learning_Batch_2023-24_Final_rxQftWsoGC.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 1 | M TECH / ARTIFICIAL INTELLIGENT | Machine Learning Batch 2023-24 Final0001.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 3 | MCA | Machine Learning Batch 2023-24 Final.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 4 | B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CSE DATA SCIENCE, MBA TECH / ARTIFICIAL INTELLIGENCE | Machine Learning , Re-exam 2022-23,2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 4 | B TECH / ARTIFICIAL INTELLIGENCE | Machine Learning, Batch 2022-23, 2023-24 Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 5 | B TECH / CSBS | Machine Learning, Sem-V, Year 2023-24, Re Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 5 | B TECH / DATA SCIENCE | Machine Learning, Sem-V, Year 2023-24, Re Exam.pdf |
+| 2023-24 | Re-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / COMPUTER | Machine_Learning_Batch_2023-24_Re_Exam_HLEHf0O82D.pdf |
+| 2023-24 | Re-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / COMPUTER | Machine_Learning_Batch_2023-24_Re_Exam_IrRAmzmGDn.pdf |
+| 2023-24 | Re-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / COMPUTER | Machine_Learning_Batch_2023-24_Re_Exam_wmGauguNN2.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 1 | M TECH / ARTIFICIAL INTELLIGENT | Machine Leraning Batch 2023-24 Re Exam0001.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 3 | MCA | Machine Learning Batch 2023-24 Re Exam0001.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 4 | B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CSE DATA SCIENCE, MBA TECH / ARTIFICIAL INTELLIGENCE | Machine Learning, Sem-IV, Final & Re Exam 2022-23.pdf |
@@ -99,6 +105,7 @@ Also filed as: `MACHINE LERANING`
 | 2022-23 | Final-Exam | Question paper | Sem 5 | B TECH / CSBS | Machine Learning, 3rd Year, Sem-V, Year 2022-23, Final Exam.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 5 | B TECH / CSE Data Science (311) | Machine Learning, 3rd Year, Sem-V, Year 2022-23, Final Exam.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 7 | B TECH / EXTC | Machine Learning, 4th Year, Sem VII, Year 2022-23, Final Exam.pdf |
+| 2022 | Final-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / COMPUTER | Machine_Learning_Batch_2022_Final0001_0ONEQPrkve.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 1 | M TECH / ARTIFICIAL INTELLIGENT | Machine Learning Batch 2022-23 Final0001.pdf |
 | 2022-23 | Final-Exam | Question paper |  | M TECH / DATA SCIENCE | Machine Learning Batch 2022-23 Final0001.pdf |
 | 2022 | Final-Exam | Question paper | Sem 3 | MCA | Machine Learning Batch 2022 Final0001.pdf |
@@ -108,6 +115,8 @@ Also filed as: `MACHINE LERANING`
 | 2022-23 | Re-Exam | Question paper | Sem 6 | B TECH / COMPUTER, B TECH / EXTC, MBA TECH / Computer, MBA TECH / EXTC | Machine Learning, Sem-VI, Year 2022-23, Re Exam.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 5 | B TECH / CSE Data Science (311) | Machine Learning, 3rd Year, Sem-V, Year 2022-23, Re-Exam.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 7 | B TECH / EXTC | Machine Learning, 4th Year, Sem-VII, Year 2022-23 Re Exam.pdf |
+| 2022-23 | Re-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / COMPUTER | Machine_Learning_Batch_2022-23_Re_Exam0001_89feSdfT5F.pdf |
+| 2022-23 | Re-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / COMPUTER | Machine_Learning_Re_Exam_2022-23_Re_Exam0001_0X7a3RpQH0.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 6 | MBA TECH / Computer | Machine Learning , Re-exam 2022-23.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 3 | MCA | Machine Learning Batch 2022-23 Re Exam0001.pdf |
 | 2021-22 | Final-Exam | Question paper | Sem 4 | B TECH / ARTIFICIAL INTELLIGENCE | B Tech, Artificial Intelligence, Machine Learning, 2nd Year, Sem-IV, Final Exam, 2021-22.pdf |

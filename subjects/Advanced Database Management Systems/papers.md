@@ -1,8 +1,114 @@
 # Advanced Database Management Systems: question papers in full
 
-70 unique papers · 2013-14 to 2025-26 · Information Technology, Computer Engineering, Computer Applications (MCA), Data Science, Computer Science, AI and Machine Learning
+72 unique papers · 2013-14 to 2025-26 · Information Technology, Computer Applications (MCA), Computer Engineering, Data Science, Computer Science, AI and Machine Learning
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 2 · paper f8a5d67c7d7b
+
+- Departments: Computer Applications (MCA)
+- Programmes: MASTER OF COMPUTER APPLICATIONS - 7061
+- Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: MASTER OF COMPUTER APPLICATIONS - 7061/Advanced Database Management System/QP_Final-Exam_Advanced Database Management System(703CO0E018)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MASTER OF COMPUTER APPLICATIONS
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Advanced Database Management System
+Date: 09 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Attempt any FOUR questions from the remaining questions.
+6. Assume suitable data wherever required.
+Q1
+Answer briefly:
+CO- 1; SO- 2;   Explain the concept of constraint types in the Enhanced ER model and
+BL-2   a   illustrate their use with a suitable example.   [5]
+CO-1; SO-2;   Explain the role of implicit cursor attributes in PL/SQL programs with appropriate
+BL-2   b   examples.   [5]
+CO- 2; SO-2 ;   Describe the concept of encapsulation in Object-Oriented Database Systems and
+BL-2   c   justify its importance in managing complex data.   [5]
+CO- 3; SO- 3;   Explain the concept of parallel query evaluation and discuss how it improves
+BL-2   d   database system performance.   [5]
+A university database stores structured relational data along with multimedia
+Q2
+lecture recordings and nested course material objects. Explain why Object-
+CO-3; SO-1;
+Relational DBMS (ORDBMS) is more suitable than traditional RDBMS for
+BL-1
+a   this application.   [10]
+A large e-commerce company executes complex analytical queries on very
+CO-1,;   SO-;
+large datasets. Explain how parallel query processing techniques improve
+BL-
+b performance in such environments.   [10]
+Develop a PL/SQL block using an explicit cursor that:
+1. Retrieves employee salaries in descending order
+2. Identifies the second highest distinct salary
+3. Displays:
+Q3
+o employee name
+CO-2; SO-3;
+o employee ID
+BL-4
+o second highest salary
+4. Handles condition when:
+o fewer than two distinct salaries exist
+5. Uses cursor control statements (OPEN, FETCH, CLOSE) explicitly
+a   [10]
+CO-3; SO-3;   Write a stored procedure that updates department number of an employee
+BL-3   b and displays confirmation message after execution.   [10]
+Develop a PL/SQL block using an explicit cursor that:
+Q4
+1. Retrieves employee salaries in descending order
+CO-1,; SO-2;
+2. Identifies the second highest distinct salary
+BL-3
+3. Displays:
+a   o employee name   [10]
+********** 1 **********
+--- page 2 ---
+o employee ID
+o second highest salary
+4. Handles condition when:
+o fewer than two distinct salaries exist
+5. Uses cursor control statements (OPEN, FETCH, CLOSE) explicitly
+CO-1,; SO-2;   Compare Object-Oriented DBMS and Object-Relational DBMS in terms of
+BL-3   b   structure, capability, and application suitability.   [10]
+Q5
+CO-2,; SO-3;   Explain the major goals of parallel database systems and analyze how they
+BL-4   a   contribute to scalability and throughput improvement.   [10]
+CO-3,; SO-3;   Explain the concept of XPath expressions and demonstrate how they are used
+BL-4   b   to retrieve elements from XML documents.   [10]
+Q6
+CO-1; SO-2;   Explain the concept of data fragmentation in distributed databases and
+BL-3   a   differentiate between horizontal and vertical fragmentation.   [10]
+CO-1; SO-3;   Discuss the role of data replication strategies in improving reliability and
+BL-6   b   availability in distributed database environments.   [10]
+Q7
+CO-1;   SO-1   Explain the XML hierarchical tree model and illustrate the relationships
+BL-1   a among root, parent, child, sibling, and leaf nodes.   [10]
+Implement a PL/SQL block using a cursor FOR loop that:
+1. Accepts department number as input
+2. Displays employees whose names start with vowel characters
+CO-1; SO-2;   3. Calculates and prints:
+BL-3   o   total number of such employees
+o average salary of filtered employees
+4. Uses implicit cursor attributes where required
+5. Displays message if no matching records are found
+b   [5]
+CO-1; SO-2;   Explain the purpose and structure of DTD (Document Type Definition) and
+BL-3   c   analyze how it supports XML document validation.   [5]
+********** 2 **********
+````
 
 ## 2025-26 · Final-Exam · Sem 5 · paper 3308ee17ca66
 

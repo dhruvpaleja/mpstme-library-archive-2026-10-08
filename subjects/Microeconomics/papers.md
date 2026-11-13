@@ -1,8 +1,223 @@
 # Microeconomics: question papers in full
 
-21 unique papers · 2015-16 to 2025-26 · Common (all branches), Artificial Intelligence, Information Technology, Computer Engineering, Data Science
+29 unique papers · 2015-16 to 2025-26 · Common (all branches), Commerce, Computer Engineering, Data Science, Artificial Intelligence, Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 2 · paper 0c758222e66e
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce - 45611
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Commerce - 45611/Microeconomics/QP_Final-Exam_Microeconomics(NAECO168)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 25 Mar 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.Com
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Microeconomics/Microeconomics II
+Date: 25 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question must be started on a fresh page.
+3. Figures on right hand side indicate full marks
+4. All questions are compulsory
+5. Draw neat and well labeled diagrams wherever necessary
+6. Use of simple calculator is allowed
+1.   Answer the following(Attempt Any 1 Question)   12
+A. a) With the help of a diagram, describe the various phases through which returns to scale   12
+operate.
+b) Given a wage rate w = 6 and capital rental rate r = 12, and the following marginal
+products at different input combinations. Compute MRTS for each input pair; determine
+which combination lies on the expansion path, and identify the cost-minimizing choice.
+(6+6 marks)
+L   K   MPL   MPK
+2   8   28   45
+3   7   22   35
+4   6   12   24
+5   5   9   15
+B. a. Explain the behaviour of Average fixed cost( AFC) , Average variable cost (AVC) and   12
+Average cost (AC ) with the help of a suitable diagram.
+Page 1 of 2
+--- page 2 ---
+b. Given that a firm sells its output at a constant price of Rs. 12 per unit, prepare a revenue
+schedule showing total revenue (TR), average revenue (AR) and marginal revenue (MR) for
+output levels from 0 to 5 units. Identify the market and examine the relationship between TR,
+AR and MR under this market condition. (6+6)
+2.   Answer the following(Attempt Any 1 Question)   12
+A. a. A pharmaceutical company holds a patent for a life-saving drug used to treat a rare disease.   12
+Since no close substitutes are available, the firm is the sole producer in the market. The
+company has recently increased the price of the drug despite criticism from consumer groups.
+The management argues that high prices are necessary to recover research and development
+costs and to fund future innovations. Identify the type of market structure described and
+justify your answer with the market features.
+b. Illustrate with the help of diagrams the conditions under which a firm earns normal profit
+and supernormal profit in a perfectly competitive market.
+B. Consider the smartphone market, which is dominated by a few large players but also features   12
+numerous smaller competitors offering differentiated products.
+a. Compare and contrast the characteristics of monopolistic competition and oligopoly in the
+context of the smartphone market.
+b. Examine how these market structures influence the behaviour of firms, the level of
+competition, and the pricing of products.
+3.   Explain the following statements:   6
+A. Sunk Cost should be ignored in the short run decision-making.   3
+B. Monopolist charges a price higher than a firm in a perfectly competitive market.   3
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 2 · paper fc9a3a91ad18
+
+- Departments: Computer Engineering
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047
+- Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047/MICROECONOMICS/QP_Final-Exam_MICROECONOMICS(702TG0C023)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 06 May 2026
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: MICROECONOMICS
+Date: 06 May 2026   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 2 pages.
+2. Question No. 1 is compulsory (Section I)
+3. Out of the remaining questions (Given in Section II), attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume suitable data if necessary.
+Q1
+Write a Short Note on:   [10]
+CO-1 ; BL-   a.   Define economics and state different types of economic
+[2.5]
+Remember   systems.
+CO-2; BL-   b.   Compare the Cardinal Utility approach vs the Ordinal Utility
+[2.5]
+Understand   approach
+CO-2; BL-   c.
+List four examples of fixed costs.   [2.5]
+Understand
+CO-4; BL-   d.
+Examine Free Entry and Free Exit in the Market   [2.5]
+Apply
+Q2   [10]
+CO-1 ; BL-   Explain the Law of Demand with a suitable demand schedule
+Understand   and Demand Curve. Also, explain what the different
+Exceptions to the Law of Demand.
+Q3   [10]
+CO-2; BL-   Using the concept of indifference curve analysis, explain with
+Apply   a proper IC curve and Budget Line how a consumer
+determines the equilibrium point under a given budget
+constraint.
+Q4   [10]
+CO-2 ; BL-   Explain how the Total Cost (TC) curve is derived and why it
+Apply   shares the same shape as the TVC curve.
+Q5   [10]
+CO-4 ; BL-   Distinguish between a perfectly competitive market and an
+Understand   oligopoly market with a suitable example.
+and Apply
+Q6   [10]
+CO-4 ; BL-   An airline company charges higher ticket prices during
+Understand   weekends, holidays, and peak travel seasons, while ticket
+and Apply
+********** 1 **********
+--- page 2 ---
+prices are lower during weekdays and off-season periods
+when demand for air travel is low.
+Explain the concept of peak load pricing. Why is this pricing
+method suitable for airline companies where demand
+fluctuates at different times?
+Q7   [10]
+CO-1,2,3 ;   Explain the factors influencing the elasticity of demand in the
+BL- Apply   above situation with its Business Implication for firms
+(Organisation) and examine the conditions (Exceptions) under
+which the Law of Diminishing Marginal Utility may not apply
+********** 2 **********
+````
+
+## 2025-26 · Final-Exam · Sem 2 · paper ec156feee3fe
+
+- Departments: Data Science
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (DATA SCIENCE) - 7052
+- Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (DATA SCIENCE) - 7052/MICROECONOMICS/QP_Final-Exam_MICROECONOMICS(702TG0C023)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 06 May 2026
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: MICROECONOMICS
+Date: 06 May 2026   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 2 pages.
+2. Question No. 1 is compulsory (Section I)
+3. Out of the remaining questions (Given in Section II), attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume suitable data if necessary.
+Q1
+Write a Short Note on:   [10]
+CO-1 ; BL-   a.   Define economics and state different types of economic
+[2.5]
+Remember   systems.
+CO-2; BL-   b.   Compare the Cardinal Utility approach vs the Ordinal Utility
+[2.5]
+Understand   approach
+CO-2; BL-   c.
+List four examples of fixed costs.   [2.5]
+Understand
+CO-4; BL-   d.
+Examine Free Entry and Free Exit in the Market   [2.5]
+Apply
+Q2   [10]
+CO-1 ; BL-   Explain the Law of Demand with a suitable demand schedule
+Understand   and Demand Curve. Also, explain what the different
+Exceptions to the Law of Demand.
+Q3   [10]
+CO-2; BL-   Using the concept of indifference curve analysis, explain with
+Apply   a proper IC curve and Budget Line how a consumer
+determines the equilibrium point under a given budget
+constraint.
+Q4   [10]
+CO-2 ; BL-   Explain how the Total Cost (TC) curve is derived and why it
+Apply   shares the same shape as the TVC curve.
+Q5   [10]
+CO-4 ; BL-   Distinguish between a perfectly competitive market and an
+Understand   oligopoly market with a suitable example.
+and Apply
+Q6   [10]
+CO-4 ; BL-   An airline company charges higher ticket prices during
+Understand   weekends, holidays, and peak travel seasons, while ticket
+and Apply
+********** 1 **********
+--- page 2 ---
+prices are lower during weekdays and off-season periods
+when demand for air travel is low.
+Explain the concept of peak load pricing. Why is this pricing
+method suitable for airline companies where demand
+fluctuates at different times?
+Q7   [10]
+CO-1,2,3 ;   Explain the factors influencing the elasticity of demand in the
+BL- Apply   above situation with its Business Implication for firms
+(Organisation) and examine the conditions (Exceptions) under
+which the Law of Diminishing Marginal Utility may not apply
+********** 2 **********
+````
 
 ## 2025-26 · Final-Exam · Sem 2 · paper b94ba0e68100
 
@@ -152,6 +367,65 @@ BL- Apply   above situation with its Business Implication for firms
 (Organisation) and examine the conditions (Exceptions) under
 which the Law of Diminishing Marginal Utility may not apply
 ********** 2 **********
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper 4719b946785d
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce - 45611
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Re-Exam/Bachelor of Commerce - 45611/Microeconomics/QP_Re-Exam_Microeconomics(NAECO168)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 19 Jun 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.Com
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Microeconomics/Microeconomics II
+Date: 19 Jun 2026   Time: 10:30 am - 11:30 am (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question must be started on a fresh page.
+3. Figures on right hand side indicate full marks
+4. All questions are compulsory
+5. Draw neat and well labeled diagrams wherever necessary
+6. Use of simple calculator is allowed
+1.   Answer the following(Attempt Any 1 Question)   12
+A.   a) Explain the three stages of returns to scale with causes.   12
+b) A firm produces output using Labour (L) and Capital (K). The marginal products of
+labour and capital are given below.   The wage rate (w) is Rs. 12 and the rental rate
+of capital (r) is Rs. 24.For each combination, calculate MRTS. At which   input
+combination does the firm achieve producer’s equilibrium? ( 6+6)
+L   K   MPL   MPK
+1   6   36   72
+2   5   28   40
+3   4   20   20
+4   3   12   10
+B. a. The Total Cost schedule for a firm is given below. Calculate the Total variable cost (TVC),   12
+Average variable cost (AVC), Average total cost (ATC) and Marginal Cost (MC) from the
+given schedule.
+Page 1 of 2
+--- page 2 ---
+Quantity Quantity (Units) (Units)   0 0   1 1   2 2   3 3   4 4   5 5   6 6   7 7
+Total Cost (Rs.)   40 52 59 64 70 78 89 103
+b. Compare the nature and behaviour of total revenue curves under perfect and imperfect
+markets. (6+6)
+2.   Answer the following(Attempt Any 1 Question)   12
+A. a. Monopolist may earn super-normal profits or incur a loss in the short run. Illustrate with   12
+diagrams.
+b. A large number of wheat farmers sell identical wheat in the market. No single farmer can
+influence the price. Identify the market structure and justify your answer by explaining the
+features of that market.
+B. a. Oligopoly firms face a kinked demand curve and discontinuous marginal revenue curve.   12
+Discuss.
+b. Distinction between monopolistic competition and oligopoly.
+3.   Explain the following statements:   6
+A.   Implicit cost is considered as opportunity cost.   3
+B. Monopolistic competition is a combination of perfect competition and monopoly.   3
+Page 2 of 2
 ````
 
 ## 2025-26 · Re-Exam · Sem 2 · paper 0a031c6b58b4

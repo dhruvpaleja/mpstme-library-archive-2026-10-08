@@ -1,6 +1,6 @@
 # Computer Networks: question papers in full
 
-162 unique papers · 2010-11 to 2025-26 · Information Technology, Computer Engineering, Computer Applications (MCA), Artificial Intelligence, Electronics and Telecommunication, Computer Science and Business Systems, Data Science, Cyber Security, AI and Data Science, Computer Science, AI and Machine Learning, Common (all branches)
+164 unique papers · 2010-11 to 2025-26 · Information Technology, Computer Engineering, Computer Applications (MCA), Electronics and Telecommunication, Artificial Intelligence, Computer Science and Business Systems, Data Science, Cyber Security, AI and Data Science, Computer Science, AI and Machine Learning, Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -7194,6 +7194,126 @@ BL- 2 sketch the neat labeled diagram.
 Page 3 of 3
 ````
 
+## 2022 · Final-Exam · Sem 7 · paper 755ab074d8b7
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: EXTC/SEMESTER VII/Computer Networks/Computer_Networks_Batch_2022__Final0001_rgLzikWiLB.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 17 November 2022
+- Text: ocr (3 pages), mean OCR confidence 83.4
+
+````text
+SVKM’s NMIMS
+
+Acadsenfo Year: 2022-23
+
+/ Programme: B. Tech Integrated (EXTC) / . Year: IV ; Semester: VI
+Subject: Computer Networks _
+, Marks: 100
+Date: 17 November 2022 _ Time: 10.00 am’- 1.00 pm - .
+
+Durations: 3 (Hrs) .
+
+No. of Pages: _0% _
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed o on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all'5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+CO/SO/. Q.1
+
+Answer briefly: 20
+_ y [20]
+C02 a. Discuss the types of error that occur while transmitting the data on the data
+SO-1; ‘fink layer. [5]
+-BL-2
+me b. Discuss the need of Internet Control Message Protocol (ICMP). Describe
+SO-1 ’ ; any two error reporting messages in ICMP. [5]
+
+BL- 2 .
+
+oa ri c Explain Autonomous system.. What is Intradomain and Interdomain
+S02: routing? 5]
+BL- 2,1
+CO-1; d. Distinguish between circuit switching and packet switching
+SO-2 ; [5]
+BL-5 ; : —
+CO-1; Q.2 A. Draw and explain bus and mesh topology. Compare both topologies with
+SO-1; respect to its.advantage and disadvantage? [7]
+
+BL- 2,5 . e
+
+Page 1|[3
+--- page 2 ---
+Q.2.B. Classify and explain the different transmission media and state the |
+
+CO-2;
+SO-2; applications of each of the unguided media. [7]
+BL-4
+CO-3; Q.2C. Discuss the transport layer addressing or port number and its types.
+SO-2; . [6]
+BL-2 . ,
+CO-3; Q.3 A. Draw and explain the IEEE 802.3 Ethernet MAC frame format.
+SO-1; [10]
+BL- 3, 2 . .
+CO-2: Q.3B. Analyze the functionality of Go-Back-N ARQ with the help of flow
+SO-4; diagram considering window size < 2“(m) and window size = 2“(m). [10]
+BL- 4
+ea Q.4 A. (i) Identify the difference between classful and classless addressing.
+atin , (ii) Justify the need for Fragmentation? Discuss the Identification and [5]
+- ¥ F Flag field related to fragmentation in IPv4 datagram. ; 5]
+CO-4: Q.4B. Explain the operation of Open Shortest Path First (OSPF) with the help of _ |
+SO-1; a suitable diagram? . [10] |
+BL- 2 |
+CO-3: Q.5 A. Demonstrate the TCP connection process with detailed flow diagram . |
+SO-2; using three-way handshaking. [10]
+BL- 2
+CO-2: Q.5B. Explain the encoding and decoding process in simple parity check code |
+SO-2; and illustrate it with the help of figure. [10]
+“BL-3 E
+CO-3: -Q.6 A. What is the significance of Reverse Address Resolution Protocol?
+SO-4; Explain the operation of RARP with diagram. [10]
+BL- 4,3 .
+CO-3; Q.6B. Elaborate Slotted aloha protocol with diagram. i
+SO-4; ' [10] .
+BL- 5
+
+Page 2|3
+--- page 3 ---
+Q.7 A. Estimate the shortest routes from source vertex A to all vertices in the
+
+given graph using the Bellman Ford Algorithm. Summarize the final
+
+result in a tabular format.
+
+CO-4;
+
+— S0-6; [10]
+BL-6
+CO-3: Q.7B. Write short notes on .
+SO-1; ‘   (j) SNMP (Simple Network Management Protocol)
+
+Bee / : [5]
+
+(ii) SMTP (Simple Mail Transfer Protocol)
+
+Page 3/3
+````
+
 ## 2022-23 · Final-Exam · Sem 3 · paper 8f876960e9a6
 
 - Departments: Computer Engineering, Electronics and Telecommunication
@@ -7841,6 +7961,186 @@ CO-1; SO-; b. | Explain in detail the network topologies with the help of diagra
 BL-2 explaia two advantages and disadvantages of each topology.
 
 Page 2 of 2
+````
+
+## 2022-23 · Re-Exam · Sem 7 · paper 15273ecaeae9
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: EXTC/SEMESTER VII/Computer Networks/Computer_Network_Batch_2022-23_Re_Exam0001_bYMjQ1QT5I.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27 January 2023
+- Text: ocr (3 pages), mean OCR confidence 89.1
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+» Program: B. Tech Integrated (EXTC) ° : Year: IV. Semester : VII -
+
+AcademicY ear: 2022-2023
+Subject: Computer Networks -
+
+Marks: 100
+Time: 02.00 PM - 05.00 PM
+Durations: 3 (Hrs)
+
+No. of Pages: 3
+Re-Examination (2022-23)
+
+Date : 27 January 2023.
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+CO/SO) QA
+
+Answer briefly: [20]
+/BL
+
+a. Determine the hamming distance for d(10010, 10100).
+So. How many datawords and codewords can be generated if the length of (5)
+BL- 5,3 dataword(k) is 4 and length of codeword(n) is 7.
+CO-3; b. : . .
+SO-1 - Explain the working of Dynamic Host Control Protocol (DHCP). 15]
+BL- 2 .
+cO-4;   & Classify various routing algorithms. How flooding can be overcome in a packet
+SO-2 ; switching network? {5]
+BL- 4,1
+CO-1;   d. . : .
+50-2: Determine the function of each of the layer in the OSI model. (5)
+BL- 5
+CO-1; Q.2 A. Draw and explain star and mesh topology. Compare both topologies with
+SO-1; respect to its advantage and disadvantage? [7]
+BL- 2,5 .
+Page 1|3
+--- page 2 ---
+CO-2;
+SO-2;
+BL-4
+
+CO-3;
+SO-2;
+BL- 2
+
+CO-3;
+SO-1;
+BL- 3,2
+
+CO-2;
+SO-4;
+BL- 4
+
+CO-3;
+SO-4;
+BL- 4
+
+CO-4;
+5o-L
+BL- 2
+
+CO-3;
+SO-2;
+BL-2
+
+CO-2;
+SO-2;
+BL-5
+
+CO-3;
+SO-4;
+BL- 4,3
+
+Q.2B.
+
+Q2C.
+
+Q.3 A.
+
+Q.3 B.
+
+Q.4 A.
+
+Q.4 B.
+
+Q.5 A.
+
+Q.5 B.
+
+Q.6 A.
+
+Classify and explain the different transmission media and state the
+
+applications of each guided media. {7]
+
+Explain connection-less service verses connection-oriented service in the
+
+[6]
+transport layer with an example.
+Draw and explain the architecture of Extended Service set in IEEE 802.11]
+Wireless LAN Std. [10]
+Analyze the functionality of Selective Repeat ARQ with the help of flow
+diagram considering window size = 2(m- 1) and window size > 2“(m- 1). [10]
+
+(i) Distinguish between IPv4 and IPv6.
+(ii) For the given IP Address - 146.123.X.X and Subnet Mask 255.255.0.0, [5]
+
+the total number of subnet is 7. Determine the subnet address for each subnet. [5]
+
+Explain the operation of Distance Vector Routing Protocol to find the shortest
+
+distance with suitable example. [10]
+
+Illustrate any two methods each for open-loop congestion control and closed-
+
+loop congestion control in TCP? [10]
+
+The codeword received at the receiver is 1101001. Determine the syndrome
+using cyclic redundancy check and justify weather the dataword received is
+correct or incorrect. Find the value of n and k, i.e. length of codeword and [10]
+
+dataword respectively.
+
+What is the significance of Address Resolution Protocol? Explain the
+
+operation of ARP with diagram. [10]
+
+Page 2|3
+
+>
+--- page 3 ---
+CO-3; Q.6 B.
+SO-4; Elaborate the Persistence methods in Carrier Sense Multiple Access with the (10)
+BL- 5
+
+help of proper diagrams.
+
+Q.7 A. Estimate the shortest path from source vertex C, to every other vertex in the
+graph using Dijkstra’s Algorithm. Illustrate step-by-step procedure and draw
+the shortest path table.
+
+CO-4;
+SO-6; {10}
+BL- 6
+
+Q.7 B. Write short notes on
+CO-3; (i) DNS (Domain Name Server) . [5]
+a \ (ii) HTTP (Hyper Text Transfer Protocol) [5]
+
+e 3|[3
 ````
 
 ## 2022-23 · Re-Exam · Sem 3 · paper f6f0975abe93

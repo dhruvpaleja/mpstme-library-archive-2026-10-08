@@ -1,6 +1,6 @@
 # Introduction to Data, Signal and Image Analysis
 
-**22** unique papers (32 copies across programmes) · 2021-22 to 2025-26 · 7 programmes · Sem 4, Sem 8
+**23** unique papers (33 copies across programmes) · 2021-22 to 2025-26 · 8 programmes · Sem 4, Sem 8
 
 Download only this subject, sorted by academic year:
 
@@ -33,6 +33,7 @@ Also filed as: `INTRODUCTION TO DATA SIGNAL & IMAGE ANALYSIS`, `INTRODUCTION TO 
 | 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated DS 7038 | ANS_Introduction to Data, Signal and Image Analysis(702DB0C007)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE | Introduction to Data, Signal and Image Analysis ,Sem IV, Final Exam 2024-25 & Re _5570a6bc.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE | Introduction to Data, Signal and Image Analysis, Sem IV, Final Exam 2024-25 & Re _b5d4aa4e.pdf |
+| 2024-25 | Final + Re-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / DATA SCIENCE | Introduction_to_Data__Signal_and_Image_Analysis_Batch_2024-25_Final_Batch_2023-24_Re_Exam_eFtgjTIxkA.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 4 | B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE | Introduction to Data Signal and Image analysis, Sem-IV, Year 2022-23, Final Exam.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 4 | B TECH / CSE DATA SCIENCE, B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE | Introduction to Data ,Signal & Image Analysis Re-exam 2022-23.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 4 | B TECH / DATA SCIENCE, MBA TECH / DATA SCIENCE | Introduction to Data ,Signal and Image analysis, Sem-IV, Year 2022-23, Re Exam.pdf |

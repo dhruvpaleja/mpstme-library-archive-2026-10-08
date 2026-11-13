@@ -1,6 +1,6 @@
 # Financial Analysis and Working Capital Management: question papers in full
 
-18 unique papers · 2015-16 to 2025-26 · Common (all branches)
+19 unique papers · 2015-16 to 2025-26 · Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -196,6 +196,192 @@ co- 1; SO- | a, Trade Credit [10]
 | BL-
 Understand | >- | Operating cycle
 
+Page 4 of 4
+````
+
+## 2024-25 · Re-Exam · paper 86058f901a65
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/MBA TECH/4TH YEAR/9015__COMMON FOR ALL BRANCH SEM VII.zip :: FINANCIAL ANALYSIS AND WORKING CAPITAL MANAGEMENT/Financial_Analysis_and_Working_Capital_Management___Re_Exam_2022-23__2023-24_mQBMfJDNBR.pdf`
+- Printed on paper: max marks: 50
+- Text: ocr (4 pages), mean OCR confidence 91.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& EN
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2024-2025 ee
+Program: MBA Tech Year: [V Semester: VII
+Stream/s: All Streams
+Subject: Financial Analysis and Working Capital Management Time: Qhours (10.00am to 12.00pm)
+Date:_25 / 11/2024 No. of Pages: 04 pages
+
+Marks: 50
+Re-Examination (2022-23, 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+
+2) Out of remaining questions, attempt any __4__ questions.
+
+3) In all___5__ questions to be attempted. °
+
+4) All questions carry equal marks. “—
+
+5) Answer to each new question to be started on afresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [10]
+
+a. Explain the purpose of Profitability Ratios + [02]
+
+b. Explain the purpose of management of receivables - [02]
+
+G: Explain the determinants of Working Capitai. [02]
+CO- 1; SO- ;
+BL-
+Understand
+
+Classify the transactions into Operating, Investing and Financing Activities.
+1. Ina financial year company issues Equity Shares of Rs 15,00,000.
+
+2. Paid cash to suppliers of materials for the outstanding invoices Rs 50,000 [04] ,
+3. Company pays dividend on preference shares at 12% amounting to Rs 1,20,000
+
+4. Company spent Rs 1,00,000 on replacement of the part of the machinery.
+
+Page 1 of 4
+--- page 2 ---
+PQR International has Current Ratio = 3, Quick Ratio = 1.5, Debt Equity Ratio = 0.5,
+Proprietary Ratio = 0.78 and Interest Coverage Ratio = 10 times.
+
+You are working as a finance manager of ABC International and you are required
+compare its performance with its competitor and comment on its financial soundness
+based on above mentioned ratios
+
+Liabilities Amount Assets Amount
+Equity Share Capital
+(at the rate of 10 each) 2,100,000 | Plant and Machinery 3,150,000
+12% Preference Share ;
+-Q2 Capital 1,470,000 | Office Premises 630,000
+CO-2; SO-; 8% Debenture 1,260,000 | Patents 420,000 | | t10]
+BL- Apply Creditors 273,000 | Bills Receivables 273,000 ~
+Bills Payable 168,000 | Debtors 378,000
+Outstanding Expenses 189,000 | Inventory 504,000
+, Prepaid Expenses 105,000
+5,460,000 5,460,000
+Sales 2730000
+COGS 1911000
+Tax rate 40%
+Charles Ltd. is presently producing 30,000 units and will continue to operate at
+same level for next one year. The following data has been supplied to you:
+i. Unit cost structure of the product at current level:
+Raw material Rs. 8
+Wages Rs. 4 a
+Overheads Rs. 6
+Profit Rs. 6
+Seliing price Rs.24
+Q3
+CO-2; SO-; ii. | Raw materials will remain in stores for 1 month before being issued | [10]
+BL- Apply for production. Material will remain in process for further 1 month.
+
+Suppliers grant 3 months’ credit to the company.
+iii. | Finished goods remain in godown for 1 month.
+iv. Debtors are allowed credit for 2 months.
+v. Average time-lag in wages and overhead payments is 1 month and
+these expenses accrue evenly throughout the production cycle.
+vi. No increase either in cost of inputs or selling price is envisaged.
+Prepare a statement showing working capital requirement at the new level, if a
+minimum cash balance of Rs 18,000 must be maintained.
+
+Page 2 of 4
+--- page 3 ---
+ve
+
+Prepare a Cash-Budget of a company for April, May and June 2024 using the
+following information:
+
+Month Sales Purchases Wages
+
+January i 125,000 | . 70,000 31,500
+February 125,000 62,500 28,250
+March 117,000 65,000 34,500
+April 140,000 78,000 37,500
+
+Q4 May 132,000 70,000 31,250
+
+CO-4; SO-; June 125,000 ~ $4,000 28,250 [16]
+
+BL- Analyse
+You are further informed that:
+
+(a) 10% of the purchases and 20% of the sales are for cash
+(b) The average collection period of the company is | month and the credit
+purchases are paid off regularly after two months.
+(c) Wages are paid half rionthly.
+(d) Payment of interest on a loan amount of Rs. 1,00,000 is due in June at
+the rate of 10%.
+(e) Cash and Bank Balance as on April were Rs. 30,000
+A firm is contemplating stricter collection policies. The following details are
+available:
+1. At present, the firm is selling 36,000 units on credit at a price of Rs 32 each;
+the variable cost per unit is Rs 25 while the average cost per unit is Rs 29;
+average collection period is 58 days; and collection expenses amount to Rs
+
+Q5 10,000; bad debts are 3 per cent. :
+
+a eine , 2. If the collection procedures are tightened, additional collection charges {10}
+amounting to Rs 20,000 would be required, bad debts will be 1 per cent; the
+collection period will be 40 days; sales volume is likely to decline by 500 units.
+Assuming a 20 per cent rate of return on investments, what would be your
+recommendation? Should the firm implement the decision?
+
+Q6
+
+CO-4; SO-; Answer briefly: [10]
+
+BL- Analyse
+
+Calculate Re-Ordering Level, Maximum Level, Minimum Level and Average
+Level from the following data:
+Re-order Quantity 3,000 units;
+
+Re-order Period 4 to 6 weeks;
+
+Normal Re-order period 5 weeks;
+
+Page 3 of 4
+--- page 4 ---
+Maximum Consumption 800 units per week;
+Normal Consumption 600 units per week;
+
+Minimum Consumption 500 units per week.
+
+The following transactions occurred during the year for XYZ Ltd. regarding its
+assets. Calculate the cash flow from investment activities:
+
+e Purchased machinery for 250,000 in cash.
+
+e Sold old equipment with a book value of %50,000 for ¥60,000.
+
+e Purchased land for 2500,000, paying 50% in cash and the rest financed.
+e Sold investment property for 400,000 (no profit/loss recorded).
+
+e Bought software for =150,000.
+
+Q7 ~
+sees Write Short notes on: [le,
+BL- :
+Remember ie
+Commercial Papers [05]
+Letters of Credit [05]
+>
 Page 4 of 4
 ````
 

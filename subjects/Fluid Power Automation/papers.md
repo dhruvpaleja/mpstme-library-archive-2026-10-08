@@ -11,7 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_Mechatronics_7004/Fluid Power Automation/QP_Fluid Power Automation(702MH0E020)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Dec 2025
 - Text: ocr (3 pages), mean OCR confidence 90.0
-- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -136,6 +136,7 @@ BL2 loop hydraulic system.
 CO2, SO1, d. Classify different types of amplifiers used in a proportional hydraulic system. List [05]
 BL2 the benefits of a modular amplifier.
 
+FOCI ACI ACI ACH Ck a
 ````
 
 ## 2025-26 · Final-Exam · Sem 7 · paper 7343c6b6ae13

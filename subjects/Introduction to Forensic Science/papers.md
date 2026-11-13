@@ -1,8 +1,114 @@
 # Introduction to Forensic Science: question papers in full
 
-42 unique papers · 2023-24 to 2025-26 · Computer Engineering, Information Technology, Artificial Intelligence, Common (all branches), Cyber Security, Mechanical, Data Science, Electronics and Telecommunication, Mechatronics
+44 unique papers · 2023-24 to 2025-26 · Computer Engineering, Information Technology, Artificial Intelligence, Common (all branches), Data Science, Cyber Security, Mechanical, Electronics and Telecommunication, Mechatronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 10 · paper 7a7ffb64ce6b
+
+- Departments: Data Science
+- Programmes: BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038
+- Source: `00_Original_Downloads/2025/76555__Semester X.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038/Introduction to Forensic Science/QP_Final-Exam_Introduction to Forensic Science(702BS0I021)_Semester X_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (COMP)/B. Tech (CSE - CS)/B. Tech (DS)/B. Tech Intg.
+(CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)/B. Tech (IT)/B. Tech
+(MECH)/MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (IT)
+Year: III / V/Semester VI/Semester X(Exam Year: 2025-2026)
+Subject: Introduction to Forensic Science
+Date: 16 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question No.1 is compulsory.
+3. Out of the remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1
+Answer the following
+CO-3; BL-1   a Demonstrate the methods used for detecting latent fingerprints using   [4M]
+ultraviolet imaging systems.
+CO-2; BL-2   b   Discuss how blood pattern analysis helps in interpreting the sequence and   [4M]
+nature of events at a crime scene.
+CO-1; BL-3   c   Illustrate the sites where the probability of evidence presence is maximum.   [4M]
+CO-1; BL-2   d   Explain the difference between a psychiatrist and a psychologist.   [4M]
+CO-5; BL-3   e   Illustrate the cybercrimes related to intellectual property rights.   [4M]
+Q2 CO-2; BL-4   a   Given the following samples, identify the appropriate state-of-the-art   [10M]
+spectroscopy technique for each and explain the underlying principle of
+the selected method to support your answer:
+1. Nails and hairs
+2. Drugs
+3. Trace arsenic and lead
+4. Ethyl alcohol.
+5. Unknown crystalline sample
+CO-1; BL-2   b   Classify different types of evidence with examples. At a crime scene,   [10M]
+flowers of a particular type belonging to another geographical location and
+a gun are discovered. Justify which two different types of forensic
+principles applies to this case. If an eyewitness comes forward for the
+testimony of the above crime, but the investigation team discovers the
+eyewitness to be a sociopath, what are five behavioural symptoms of this
+category of people?
+Q3   Answer the following
+CO-3;BL-4   a   Examine the relationship between the anatomical features of fingerprints   [10M]
+and the development of latent prints on various surfaces, and evaluate the
+techniques a forensic expert would apply and analyse these prints.
+********** 1 **********
+--- page 2 ---
+CO- 2; BL-3   b How does the blood fall and spatter? Discuss passive versus projected   [10M]
+blood patterns.
+Q4   Answer the following
+CO- 1; BL-3   a   Jack is the elder brother of Jim. Jim has inherited all their parent’s tangible   [10M]
+property (Land, house, gold, etc.) whereas Jack inherited his father's
+business. Both the brothers are not happy for their inheritance. One fine
+day Jack’s factory caught fire and Jim was found lying dead in a pool of
+blood near the factory site with fingerprints over the gates. You are as an
+investigator forensic expert how will you find answers to below
+investigative questions with reference to the above situation:
+i. What will you interpret the blood pattern formed at a crime scene? [2M]
+ii. Burnt documents and accelerant are obtained at the scene, how will you
+analyse this evidence? Justify the analysis method chosen. [4M]
+iii. which principle is applicable here and why? [4M]
+CO-2;BL-4   b   Differentiate the classes of explosives, examine the motives and damages   [10M]
+associated with explosions, and investigate the procedures for collecting
+and analysing samples from an explosion site, including selection of
+suitable spectroscopic techniques with justification for the examination of
+explosive evidence.
+Q5   Answer the following
+CO-5; BL-4   a   A college student receives multiple emails claiming that she has won a   [10M]
+scholarship and must submit personal details through a provided link.
+Around the same time, she also starts communicating with a person on
+social media who claims to be a student from another country. After
+gaining her trust, the person asks for money for an emergency. Later, it is
+discovered that the emails were fraudulent and the social media profile
+was fake. Analyze the above situation and, based on it explain the concepts
+of spamming and catfishing, and discuss the possible motives behind
+committing these cyber-crimes.
+CO- 4; BL-3   b   Demonstrate the various stages of fire by applying them to real-life   [10M]
+situations and explain each stage with the help of examples.
+Q6   Answer the following
+CO- 3; BL-2   a   Classify fingerprint ridge patterns.   [4M]
+CO-2; BL-3   b   Explain IPC Section 84 with an appropriate example. Correlate the class of   [10M]
+persons belonging to section 84 with principle of analysis and justify why
+this principle plays an important role in the justice system.
+CO-1; BL-1   c   Define narcotics and toxicology. Discuss ant two types of toxicology with   [6M]
+the help of suitable examples.
+Q7   Answer the following
+********** 2 **********
+--- page 3 ---
+CO-5; BL-2   a   Compare conventional versus computer crimes.   [6M]
+CO-1; BL-4   b   Classify mental illnesses based on disorders with appropriate examples.   [10M]
+CO-4; BL-3   c   A deliberate cylinder explosion is caused by a group of people. What could   [4M]
+be the possible motives behind the act.
+********** 3 **********
+````
 
 ## 2025-26 · Final-Exam · Sem 5 · paper 03938c2109f6
 

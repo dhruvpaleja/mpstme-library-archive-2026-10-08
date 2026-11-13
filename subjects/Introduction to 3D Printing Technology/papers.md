@@ -1,6 +1,6 @@
 # Introduction to 3D Printing Technology: question papers in full
 
-10 unique papers · 2022-23 to 2025-26 · Mechanical
+12 unique papers · 2022-23 to 2025-26 · Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -187,6 +187,89 @@ CO-2. : b. | Compare PLA and ABS based on mechanical and physical properties. Al
 BL-2 ° list pros and cons of 3D printing.
 
 RRR RRR DR KKK
+````
+
+## 2024-25 · Final-Exam · Sem 5 · paper 871cd975c234
+
+- Departments: Mechanical
+- Programmes: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7031
+- Source: `00_Original_Downloads/2024/65247__Semester V__context_fixed.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7031/Introduction to 3D Printing Technology/QP_Final-Exam_Introduction to 3D Printing Technology(701ME0C018)_Semester V_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX
+YEARS INTEGRATED PROGRAM
+Year: III/Semester V(Exam Year: 2024-2025)
+Subject: Introduction to 3D Printing Technology
+Date: 03 Dec 2024   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Question No. _Q.1___ is compulsory.
+3. Out of remaining questions in Q.2, attempt any __4__questions between A-F
+4. In all ___5_ questions to be attempted.
+5. All questions carry equal marks.
+6. Figures in brackets on the right hand side indicate full marks.
+7. Assume Suitable data if necessary.
+8. Answer to each new question to be started on a fresh page.
+Q.1
+Answer briefly:   [20]
+Explain the different manufacturing processes used in industry with
+CO-1 ; SO-7 ;BL-1   a.   5
+suitable examples of each.
+Distinguish thermoset polymers from thermoplastic polymers.
+CO-2 ; SO-7 ;BL-2   b.   5
+Provide examples of each.
+CO-1; SO-7; BL-1   c.   Explain the role of support structures in 3D printing technologies.   5
+3D printing is being used in the construction industry- Discuss its
+CO-1 ; SO-7 ;BL-2   d.   5
+potential in building homes and structures.
+Q.2
+A.
+CO-1; SO-7; BL-2   I. Explain the 3D printing process chain.   10
+Differentiate between DLP, MSLA and SLA 3D printing
+CO-1; SO-7; BL-2   II.   10
+technologies.
+B.
+Explain the process parameters that affect any 3D printed part
+CO-1; SO-7; BL-3   I.   10
+formation.
+Identify the different types of supports used during 3d printing
+CO-1; SO-7; BL-3   II.   10
+and how they can be removed.
+C.
+Compare metal powders and plastic filaments as materials for 3D
+CO-2; SO-7; BL-2   I.   10
+printing. State their typical applications and challenges.
+********** 1 **********
+--- page 2 ---
+Explain the Ultrasonic additive manufacturing (UAM) as a 3D
+CO-1; SO-7; BL-2   II.   10
+printing technology.
+D.
+Discuss the role of 3D scanning in reverse engineering. How does
+CO-1; SO-7;BL-2   I.   10
+it assist in capturing the geometry of complex parts?
+Explain how post processing can help to improve the external
+CO-3; SO-7;BL-3   II.   10
+quality of a 3D printed part.
+E.
+CO-1; SO-7; BL-3   I. Discuss the machine parameters to be considered in FDM.   10
+Explain the applications of 3D printing in medical implant
+CO-3; SO-7; BL-3   II.   10
+industry and jewelry industries.
+F.
+Explain the process parameters that affect a part build in SLA 3D
+CO-1; SO-7; BL-3   I.   10
+printing.
+Explain some property enhancement techniques used in 3d
+CO-1; SO-7; BL-3   II.   10
+printing.
+********** 2 **********
 ````
 
 ## 2024-25 · Final-Exam · Sem 5 · paper 1410ce26ba8c

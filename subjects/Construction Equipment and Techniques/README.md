@@ -1,6 +1,6 @@
 # Construction Equipment and Techniques
 
-**9** unique papers (13 copies across programmes) · 2015-16 to 2021-22 · 2 programmes · Sem 7, Sem 8
+**12** unique papers (16 copies across programmes) · 2015-16 to 2021-22 · 3 programmes · Sem 6, Sem 7, Sem 8
 
 Download only this subject, sorted by academic year:
 
@@ -19,9 +19,12 @@ Also filed as: `CONSTRUCTION EQUIPMENTS AND TECHNIQUES`
 | 2021-22 | — | Question paper | Sem 7, Sem 8 | B TECH / CIVIL, MBA TECH / CIVIL | Construction equipment and Techniques , Sem 8 , A.Y.2021-22.pdf |
 | 2019-20 | Final-Exam | Question paper | Sem 7 | B TECH / CIVIL, MBA TECH / CIVIL | Construction equipment and Techniques , Final 2019-20.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 7 | B TECH / CIVIL, MBA TECH / CIVIL | Construction equipment and techniques Final 2018-19.pdf |
+| 2018-19 | Final-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / CIVIL | Constuction_Equipments_and_Techniques_2018-19_Final_CgMiqtAJrz.pdf |
 | 2017-18 | Final-Exam | Question paper | Sem 7 | B TECH / CIVIL | CONSTRUCTION EQUIPMENT AND TECXHNIQUES (CIVIL), 2017-18 FINAL EXAM.pdf |
+| 2017-18 | Final-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / CIVIL | Construction_Equipment_and_Techniques_2017-2018_Final_wbUe1NRXej.pdf |
 | 2017-18 | Final-Exam | Question paper | Sem 7 | MBA TECH / CIVIL | Construction equipment and techniques 2017-18 Final.pdf |
 | 2016-17 | Final-Exam | Question paper | Sem 7 | B TECH / CIVIL | CONSTRUCTION EQUIPMENT AND TECHNIQUES B TECH (CIVIL), 2016-17 FINAL EXAM.pdf |
+| 2016-17 | Final-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / CIVIL | Construction_Equipment_and_Techniques_2016-2017_Final_V8hHSvi8TV.pdf |
 | 2016-17 | Final-Exam | Question paper | Sem 7 | MBA TECH / CIVIL | Construction Equipment and Techniques Batch 2016-17 Final.pdf |
 | 2015-16 | Final-Exam | Question paper | Sem 7 | B TECH / CIVIL | CONSTRUCTION EQUIPMENT AND TECHNIQUES B TECH (CIVIL), 2015-16 FINAL EXAM.pdf |
 | 2015-16 | Final-Exam | Question paper | Sem 7 | MBA TECH / CIVIL | Construction euipment and techniques 2015-16 Final.pdf |

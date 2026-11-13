@@ -1,6 +1,6 @@
 # Mathematics IV
 
-**18** unique papers (27 copies across programmes) · 2022-23 to 2024-25 · 8 programmes · Sem 4
+**22** unique papers (31 copies across programmes) · 2022-23 to 2024-25 · 10 programmes · Sem 4
 
 Download only this subject, sorted by academic year:
 
@@ -15,8 +15,12 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / IT, B.TECH INTEGRATED / MECHANICAL | Mathematics IV Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf |
+| 2024-25 | Final-Exam | Question paper | Sem 4 | BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7032 | QP_Final-Exam_Mathematics-IV(701BS0C012)_Semester IV_2024-2025.pdf |
+| 2024-25 | Final-Exam | Question paper | Sem 4 | BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038 | QP_Final-Exam_Mathematics-IV(701BS0C012)_Semester IV_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 4 | Integrated IT 7037 | QP_Mathematics-IV(701BS0C012)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 4 | Integrated Mechanical 7031 | QP_Mathematics-IV(701BS0C012)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 4 | BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7032 | ANS_Final-Exam_Mathematics-IV(701BS0C012)_Semester IV_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 4 | BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038 | ANS_Final-Exam_Mathematics-IV(701BS0C012)_Semester IV_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 4 | Integrated IT 7037 | ANS_Mathematics-IV(701BS0C012)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 4 | Integrated Mechanical 7031 | ANS_Mathematics-IV(701BS0C012)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 4 | B.TECH INTEGRATED | Mathematics IV Batch 2022-23,2023-24,2024-25 Re Exam.pdf |

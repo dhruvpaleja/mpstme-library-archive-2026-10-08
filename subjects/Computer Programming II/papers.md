@@ -1,6 +1,6 @@
 # Computer Programming II: question papers in full
 
-46 unique papers · 2006-07 to 2019-20 · Common (all branches), Electronics and Telecommunication
+48 unique papers · 2006-07 to 2019-20 · Common (all branches), Electronics and Telecommunication, Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1737,6 +1737,88 @@ ap
 7
 ````
 
+## 2016-17 · Final-Exam · Sem 3 · paper 80f921bc8485
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3636__2nd YEAR.zip :: COMPUTER/SEMESTER  III/COMPUTER PROGRAMMING II/Computer_Programming_II_Batch_2016-17_Final_RdUosJirb8.pdf`
+- Printed on paper: exam date: 01 December 2016
+- Text: ocr (2 pages), mean OCR confidence 88.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TEOAN OLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech Integrated (COMPUTER/EXTC) Year: II S ter: III
+: emester:
+
+Academic Year: 2016-2017
+
+Subject : Computer Programming-II : cm 10% os Bs
+>
+Date : 01 December 2016 Maxks!"70 7
+
+Time : 10.00 ang tp
+. urations: 8 (hrs = |
+Final-Examination ~~ ® x, £
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary
+
+Q.1 Attempt any seven of the following: (14]
+a) Explain what is the use of scope resolution operator?
+b) List two types of function call.
+c) Define class with its syntax.
+d) Define copy constructor.
+e) List four operators that can not be overloaded.
+f) Write syntax to define derived class. Also define what is abstract class.
+g) Whatis pointer? Give syntax for pointer declaration-
+h) List different types of inheritance.
+
+Q.2 a) When we use default arguments in a function? Explain with example. [7]
+b) Whats inline function? Why it is used? Give example of inline function. [7]
+
+Q3 a) Write a program to declare a class ‘employee’ having data members as [7]
+name, age and designation. Accept this data for three objects and display
+the same. Use appropriate functions to accept the data and to display it.
+b) Write a program to add data objects of two different classes using friend [7]
+function.
+
+Q.4 a) Explain default constructor and parameterized constructor with example. [7]
+b) Write a program to declare two classes Rupee and Dollar. Declare objects of [7]
+both the classes and perform conversion from Rupee to Dollar.
+
+Q.5 a) Describe multilevel inheritance with example. (7]
+
+Page} | 2
+--- page 2 ---
+b) Write a program to add two complex numbers using operator overloading. [7]
+
+Q.6 a) Whatis virtual function? Why do we need it? Explain with example. [7]
+
+b) Explain the order in which constructors in base class and derived class are [7]
+executed.
+
+Q.7.a) Explain function template and class template. [7]
+
+b) Explain the concept of this pointer with example. [7]
+
+Page2| 2
+````
+
 ## 2016-17 · Final-Exam · Sem 3 · paper 827ff60a80b3
 
 - Departments: Electronics and Telecommunication
@@ -2239,6 +2321,74 @@ a. Write a program to find iength of a string using pointer to string.
 b. Explain virtual function with suitable example.
 
 fo
+````
+
+## 2015-16 · Re-Exam · Sem 3 · paper 5e0d061977aa
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3636__2nd YEAR.zip :: COMPUTER/SEMESTER  III/COMPUTER PROGRAMMING II/Computer_Programming_II_Batch_2015-16_Re_Exam_MI2FCVFJvo.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 10-Jun-16
+- Text: ocr (1 page), mean OCR confidence 89.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech Integrated (Comphter/ EXTC) Year: II Semester: III
+Academic Year: 2015-2016
+
+Subject : Computer Programming - II BATCH: 2015-2016
+Marks: 60
+
+Date : 10-Jun-16 Time : 2.00 pm to
+Durations: 3 (hrsj/
+Re-Examination af BL LIBRARY
+‘ote: Oo Lo m*
+e Attempt any four out of remaining six. ~
+e — Assumptions made should be clearly stated. :
+e Answer to each new question to be started on fresh page.
+e Figures on right side indicate full marks.
+ide: 1. Attempt any SIX of the following: [12]
+a. ‘Define class with its syntax.
+b. Write any two rules to define friend function. .
+c. What is copy constructor?
+d. State different visibility modes used in inheritance.
+e. Define polymorphism. List type of polymorphism.
+f. What is the significance of scope resolution operator,
+g. Define pointer variable. Give its syntax.
+h. Write any two characteristics of static member function
+i. How do we invoke a constructor?
+2. Attempt the following:
+a. Write any six rules to define constructor in a class [6]
+b. Write a program to overload ++ operator [6]
+
+3. Attempt the following:
+
+a. What is exception handling? Give one example that throwing and catching mechanism [6]
+oy b. State different types of inheritance with diagram [6]
+4. Attempt the following:
+a. Write a program to declare a class staff having data members as name and post.
+
+Accept and display data for five staff members. (Using array of object) [6]
+b. Explain the concept of this pointer with an example [6]
+5. Attempt the following:
+a. Why do we need virtual functions? Explain with an example [6]
+b. Write a program to search a number from an array using pointer to array [6]
+6. Attempt the following :(each 6 marks) [12]
+i a. Write a program to declare a class birthday having data members day, month,
+year. Accept this information for five objects using pointer to the array of objects.
+pe b. Explain overloaded constructor in a class with suitable example.
+
+7. Attempt the following: (each 6 marks) [12]
+a. Write a program to find reverse of a string using pointer to a string.
+b. Write a program to calculate area of circle and area of rectangle using function
+overloading.
+
+t “Ff
+
+/\
 ````
 
 ## 2015-16 · Re-Exam · Trim 2 · paper 6b5db7fe2663

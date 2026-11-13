@@ -1,6 +1,6 @@
 # Research Methodology: question papers in full
 
-62 unique papers · 2008-09 to 2025-26 · Common (all branches), Information Technology, Mechanical, Chemical, Manufacturing, Artificial Intelligence, Computer Engineering, Cyber Security, Data Science, PhD Research, Computer Science, Electronics and Telecommunication, Mechatronics, AI and Data Science, AI and Machine Learning
+73 unique papers · 2008-09 to 2025-26 · Common (all branches), Information Technology, Commerce, Mechanical, Chemical, Manufacturing, Artificial Intelligence, Computer Engineering, Cyber Security, Data Science, PhD Research, Computer Science, Electronics and Telecommunication, Mechatronics, AI and Data Science, AI and Machine Learning
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -137,6 +137,165 @@ y
 
 FOG a Gk A
 .
+````
+
+## 2025-26 · Final-Exam · Sem 1 · paper a754ae362e6c
+
+- Departments: Commerce
+- Programmes: MASTER OF COMMERCE (ADVANCED ACCOUNTANCY) - 45701
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/MASTER OF COMMERCE (ADVANCED ACCOUNTANCY) - 45701/Research Methodology/QP_Final-Exam_Research Methodology(NIREM507)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 08 Nov 2025
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: M.Com (AA)/M.Com (B & F)/M.Com (BM)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Research Methodology/Research Methodology
+Date: 08 Nov 2025   Time: 11:00 am - 01:00 pm (02:00 Hrs.)
+Max Marks: 60
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question 1 and Question 3 are compulsory
+5. Attempt any 2 questions from Question 2
+6. Use of Simple Calculator is allowed
+1.   Answer the following   15
+a. “Research is of various types and vary as per the purpose of the researcher.” Justify this   7
+statement with the help of relevant examples.
+b. Explain the concept of research design. Contrast your views on the descriptive research design.   8
+2.   Answer the following(Attempt Any 2 Questions)   30
+A. ..   Answer the following   15
+i. “Questionnaire requires a set of logical steps to be followed during its creation”.   7
+Elaborate this statement with respect to the various stages of designing questionnaire.
+ii. “Research report is a technical document and involves certain essentials in writing”.   8
+Justify.
+Page 1 of 2
+--- page 2 ---
+B. ..   Answer the following   15
+i. Literature review is vital for getting started with a research study. Identify the   7
+importance of literature review to justify this statement.
+ii. Enumerate and explain the various errors that affect research design and sampling.   8
+C. ..   Answer the following   15
+i. Write a detailed note on measures of central tendency.   7
+ii. Explain the concept of research proposal. Construct a research proposal for any topic of   8
+your choice.
+3.   Short Notes   15
+A. Various tests in hypothesis testing   5
+B.   5
+Inductive interpretation
+C.   5
+Citation styles
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 1 · paper 0e27054a8f5d
+
+- Departments: Commerce
+- Programmes: MASTER OF COMMERCE (BANKING & FINANCE) - 45702
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/MASTER OF COMMERCE (BANKING & FINANCE) - 45702/Research Methodology/QP_Final-Exam_Research Methodology(NJREM507)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 08 Nov 2025
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: M.Com (AA)/M.Com (B & F)/M.Com (BM)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Research Methodology/Research Methodology
+Date: 08 Nov 2025   Time: 11:00 am - 01:00 pm (02:00 Hrs.)
+Max Marks: 60
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question 1 and Question 3 are compulsory
+5. Attempt any 2 questions from Question 2
+6. Use of Simple Calculator is allowed
+1.   Answer the following   15
+a. “Research is of various types and vary as per the purpose of the researcher.” Justify this   7
+statement with the help of relevant examples.
+b. Explain the concept of research design. Contrast your views on the descriptive research design.   8
+2.   Answer the following(Attempt Any 2 Questions)   30
+A. ..   Answer the following   15
+i. “Questionnaire requires a set of logical steps to be followed during its creation”.   7
+Elaborate this statement with respect to the various stages of designing questionnaire.
+ii. “Research report is a technical document and involves certain essentials in writing”.   8
+Justify.
+Page 1 of 2
+--- page 2 ---
+B. ..   Answer the following   15
+i. Literature review is vital for getting started with a research study. Identify the   7
+importance of literature review to justify this statement.
+ii. Enumerate and explain the various errors that affect research design and sampling.   8
+C. ..   Answer the following   15
+i. Write a detailed note on measures of central tendency.   7
+ii. Explain the concept of research proposal. Construct a research proposal for any topic of   8
+your choice.
+3.   Short Notes   15
+A. Various tests in hypothesis testing   5
+B.   5
+Inductive interpretation
+C.   5
+Citation styles
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 1 · paper 05087610fa3d
+
+- Departments: Commerce
+- Programmes: MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703/Research Methodology   /QP_Final-Exam_Research Methodology   (NKREM507)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 08 Nov 2025
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: M.Com (AA)/M.Com (B & F)/M.Com (BM)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Research Methodology/Research Methodology
+Date: 08 Nov 2025   Time: 11:00 am - 01:00 pm (02:00 Hrs.)
+Max Marks: 60
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question 1 and Question 3 are compulsory
+5. Attempt any 2 questions from Question 2
+6. Use of Simple Calculator is allowed
+1.   Answer the following   15
+a. “Research is of various types and vary as per the purpose of the researcher.” Justify this   7
+statement with the help of relevant examples.
+b. Explain the concept of research design. Contrast your views on the descriptive research design.   8
+2.   Answer the following(Attempt Any 2 Questions)   30
+A. ..   Answer the following   15
+i. “Questionnaire requires a set of logical steps to be followed during its creation”.   7
+Elaborate this statement with respect to the various stages of designing questionnaire.
+ii. “Research report is a technical document and involves certain essentials in writing”.   8
+Justify.
+Page 1 of 2
+--- page 2 ---
+B. ..   Answer the following   15
+i. Literature review is vital for getting started with a research study. Identify the   7
+importance of literature review to justify this statement.
+ii. Enumerate and explain the various errors that affect research design and sampling.   8
+C. ..   Answer the following   15
+i. Write a detailed note on measures of central tendency.   7
+ii. Explain the concept of research proposal. Construct a research proposal for any topic of   8
+your choice.
+3.   Short Notes   15
+A. Various tests in hypothesis testing   5
+B.   5
+Inductive interpretation
+C.   5
+Citation styles
+Page 2 of 2
 ````
 
 ## 2025-26 · Final-Exam · Sem 5 · paper d3c9d08fdfb9
@@ -1583,6 +1742,169 @@ different forms for communication
 + te
 
 FOI RR RR
+````
+
+## 2025-26 · Re-Exam · Sem 1 · paper c60dce96d76f
+
+- Departments: Commerce
+- Programmes: MASTER OF COMMERCE (ADVANCED ACCOUNTANCY) - 45701
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/MASTER OF COMMERCE (ADVANCED ACCOUNTANCY) - 45701/Research Methodology/QP_Re-Exam_Research Methodology(NIREM507)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 19 Jan 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: M.Com (AA)/M.Com (B & F)/M.Com (BM)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Research Methodology/Research Methodology
+Date: 19 Jan 2026   Time: 11:00 am - 01:00 pm (02:00 Hrs.)
+Max Marks: 60
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question 1 and Question 3 are compulsory
+5. Attempt any 2 questions from Question 2
+6. Use of Simple Calculator is allowed
+1.   Answer the following   15
+a. “The nature and characteristics of research are diverse”. Elaborate this statement   7
+b. “Research design is of various types that vary as per the nature of research”. Comment.   8
+2.   Answer the following(Attempt Any 2 Questions)   30
+A. ..   Answer the following   15
+i. Contrast your views on the utility of observation method of primary data collection.   7
+ii. Explain ethics in writing a research report with respect to the researcher’s responsibility   8
+towards research participants.
+B. ..   Answer the following   15
+i. Literature review is a vital reference for conducting any research. Appraise this   7
+statement.
+Page 1 of 2
+--- page 2 ---
+ii. Explain the concept of sampling. Elaborate on the probability methods of sampling.   8
+C. ..   Answer the following   15
+i. “Graphical representation of data is the most precise way of explaining large data in a   7
+compressed form”. Elaborate this statement by explaining the various types of graphical
+representations.
+ii. Research proposal is a well-structured document. Construct a research proposal for any   8
+topic of your choice.
+3.   Short Notes   15
+A.   5
+Margin of error and Level of significance
+B.   5
+Importance of data interpretation
+C.   5
+Research and its methodology
+Page 2 of 2
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper 0f94e9d14343
+
+- Departments: Commerce
+- Programmes: MASTER OF COMMERCE (BANKING & FINANCE) - 45702
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/MASTER OF COMMERCE (BANKING & FINANCE) - 45702/Research Methodology/QP_Final-Exam_Modern Networking(UIMNE552)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 25 Mar 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+SVKM's UPG College of Arts, Sci. & Com.
+Programme: Master of Science (Information Technology)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Modern Networking
+Date: 25 Mar 2026   Time: 08:00 am - 10:00 am (02:00 Hrs.)
+Max Marks: 60
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. All questions are compulsory.
+3. Figure in right hand side indicates full marks.
+4. Answer to each new question to be started on a fresh page.
+1.   Answer the following questions.(Attempt Any 3 Questions)   15
+a. Write an overview of Wi-Fi, including a discussion of its application areas and common data   5
+rates.
+b. What are the differences between the five generations of cellular networks?   5
+c. Compare Interior Routing and Exterior Routing with suitable protocol examples.   5
+d. Explain Quality of service (QOS) and quality of experience (QOE).   5
+2.   Answer the following questions.(Attempt Any 3 Questions)   15
+a. Difference Between Traditional Network Architecture and Modern Network Architecture.   5
+b. Compare the different types of Group Tables within the OpenFlow architecture   5
+c. How do the six REST constraints influence the design of a RESTful API?   5
+Page 1 of 2
+--- page 2 ---
+d. Write in detail about: -   5
+(i)   Forwarding Abstraction
+(ii)   Distribution Abstraction
+(iii)   Specification Abstraction
+3.   Answer the following questions.(Attempt Any 3 Questions)   15
+a. What is container vitalization? How it is different from traditional virtual machine?   5
+b. Describe any of the following two terms:-   5
+(i)   Virtualized Infrastructure Manager
+(ii)   NFV Orchestrator
+(iii)   OSS/BSS
+c. Describe Virtual Local Area Network (VLAN). Explain with the help of diagram.   5
+d. What are the key features offered by Software-Defined Infrastructure (SDI)?   5
+4.   Answer the following questions.(Attempt Any 3 Questions)   15
+a. Explain the Components of Quality of Service (QoS).   5
+b. What are the types of IP performance metrics?   5
+c. Describe the role of user, service, application level QoS and Network level QoS in QoE/QoS   5
+model.
+d. Discuss the various application areas of QoE   5
+Page 2 of 2
+````
+
+## 2025-26 · Re-Exam · Sem 1 · paper 46d2f1a0cf4f
+
+- Departments: Commerce
+- Programmes: MASTER OF COMMERCE (BANKING & FINANCE) - 45702
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/MASTER OF COMMERCE (BANKING & FINANCE) - 45702/Research Methodology/QP_Re-Exam_Research Methodology(NJREM507)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 19 Jan 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: M.Com (AA)/M.Com (B & F)/M.Com (BM)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Research Methodology/Research Methodology
+Date: 19 Jan 2026   Time: 11:00 am - 01:00 pm (02:00 Hrs.)
+Max Marks: 60
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question 1 and Question 3 are compulsory
+5. Attempt any 2 questions from Question 2
+6. Use of Simple Calculator is allowed
+1.   Answer the following   15
+a. “The nature and characteristics of research are diverse”. Elaborate this statement   7
+b. “Research design is of various types that vary as per the nature of research”. Comment.   8
+2.   Answer the following(Attempt Any 2 Questions)   30
+A. ..   Answer the following   15
+i. Contrast your views on the utility of observation method of primary data collection.   7
+ii. Explain ethics in writing a research report with respect to the researcher’s responsibility   8
+towards research participants.
+B. ..   Answer the following   15
+i. Literature review is a vital reference for conducting any research. Appraise this   7
+statement.
+Page 1 of 2
+--- page 2 ---
+ii. Explain the concept of sampling. Elaborate on the probability methods of sampling.   8
+C. ..   Answer the following   15
+i. “Graphical representation of data is the most precise way of explaining large data in a   7
+compressed form”. Elaborate this statement by explaining the various types of graphical
+representations.
+ii. Research proposal is a well-structured document. Construct a research proposal for any   8
+topic of your choice.
+3.   Short Notes   15
+A.   5
+Margin of error and Level of significance
+B.   5
+Importance of data interpretation
+C.   5
+Research and its methodology
+Page 2 of 2
 ````
 
 ## 2025-26 · Re-Exam · Sem 6 · paper 0af85c6275b5

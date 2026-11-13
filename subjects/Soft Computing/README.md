@@ -1,6 +1,6 @@
 # Soft Computing
 
-**15** unique papers (15 copies across programmes) · 2014-15 to 2022-23 · 3 programmes · Sem 8, Sem 10
+**21** unique papers (21 copies across programmes) · 2014-15 to 2023-24 · 3 programmes · Sem 8, Sem 9, Sem 10
 
 Download only this subject, sorted by academic year:
 
@@ -14,10 +14,16 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2023-24 | Re-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / COMPUTER | Soft_Computing_Batch_2023-24_Re_Exam_4VtMHfAiHC.pdf |
+| 2023-24 | Re-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / COMPUTER | Soft_Computing_Batch_2023-24_Re_Exam_IIvIganBRX.pdf |
+| 2023-24 | Re-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / COMPUTER | Soft_Computing_Batch_2023-24_Re_Exam_TGCHT81873.pdf |
+| 2022 | Final-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / COMPUTER | Soft_Computing_Batch_2022_Final0001_i8EEVuT1du.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / COMPUTER | Soft Computing Batch 2022-23 Re Exam0001.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / COMPUTER | Soft Computing Batch 22-23 Re Exam0001.pdf |
 | 2021-22 | Final-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / COMPUTER | Soft Computing 2021-22 Final0001.pdf |
 | 2021-22 | Re-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / COMPUTER | Soft Computing Batch 2021-22 Re Exam0001.pdf |
+| 2019-20 | Final-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / COMPUTER | Soft_Computing_2019-20_Final_8KeZM0Lis0.pdf |
+| 2018-19 | Final-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / COMPUTER | Soft_Computing_2018-19_Final_jY0JQ2OnoR.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 8 | MBA TECH / COMPUTER | Soft computing ...Final 2018-19.pdf |
 | 2017-18 | Final-Exam | Question paper | Sem 8 | B TECH / COMPUTER | SOFT COMPUTING (COMPUTER), FINAL EXAM 2017-18.pdf |
 | 2017-18 | Final-Exam | Question paper | Sem 8 | MBA TECH / COMPUTER | Soft Computing 2017-18 Final.pdf |

@@ -1,8 +1,506 @@
 # Soft Computing: question papers in full
 
-15 unique papers · 2014-15 to 2022-23 · Computer Engineering
+21 unique papers · 2014-15 to 2024-25 · Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2024-25 · Re-Exam · Sem 9 · paper 012ad514a664
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: COMPUTER/SEM IX/SOFT COMPUTING/Soft_Computing_Batch_2023-24_Re_Exam_4VtMHfAiHC.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 87.0
+
+````text
+MPSTME
+
+LIBRARY
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+
+Program: B Tech Integrated Stream ;Computer Engineering Year: V Semester: IX
+
+Subject: Soft Computing Time: 03 hrs (2: 00pm to_5.00 pm)
+Date:_03 /12/2094 . No. of Pages:02
+
+Marks: 100
+
+Re-Examination (Batch 2023-24)
+
+> Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. a
+
+1) Question No. _1___ is compulsory. Tey
+
+2) Out of remaining questions, attempt any _4 questions.
+
+3) Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started ona fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql Answer the followings af
+col, a. | What are the applications of neural networks? (5)
+S$O2,BL2
+CO3, b. | What are the properties of fuzzy sets? “ (5)
+So2, .
+BL2
+C03, c. | What is meant by hybrid system? Discuss its advantages and limitations. (5)
+, SO2,
+BL2
+CO3, d. | Explain various operators in genetic algorithm. (5)
+So2,
+BL2
+Q.2 a. | What are the advantages of genetic programming? (10)
+Co3,
+SO2,
+BL2
+CO3, b. | Discuss different defuzzification techniques with suitable example. (10)
+SO2,
+BL2
+Q.3 a. | Design an Air conditioning controller using fuzzy logic. (10)
+Cco3,
+S06, :
+BLS
+--- page 2 ---
+CO3, b. | What are the different operations that can be performed fuzzy relations? *} (10)
+SQ2, :
+
+BL2
+
+Q.4 a. | Explain Fuzzy Inference system in detail. (10)
+CO3,
+S02,
+BL4
+
+mi b. | What are the different steps in genetic algorithm? (10)
+So2,
+
+BL3
+
+Q.5 a. | Design cruise controller using fuzzy logic system. (10)
+CO3;
+S06,
+BLS
+
+one b. | Explain different mutation techniques in genetic algorithm. (10)
+S02,
+
+BL3
+
+Q.6 a. | Explain Fuzzy extension principle in detail, . (10)
+CO3, .
+so2,
+BL2
+
+ey
+
+CO3, b. | Discuss fuzzy rule based system in detail (10)
+So2,
+
+BL3
+
+Q7 a. | Discuss the concept of linear separability with respect to neural network. (10)
+col,
+
+S$O2,
+
+BL3
+
+CO3, b. | Explain Genetic —Neuro hybrid system. . (10)
+BL4
+````
+
+## 2024-25 · Re-Exam · Sem 9 · paper 92cb735835ac
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: COMPUTER/SEM IX/SOFT COMPUTING/Soft_Computing_Batch_2023-24_Re_Exam_IIvIganBRX.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 89.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+
+Program: B Tech Integrated Stream ;Computer Engineering Year: V Semester: IX
+
+Subject: Soft Computing Time: 03 hrs (Qionpnato 5% 00pm)
+Date: 2240 /227/2025e No. of Pages: 02
+
+Marks: 100
+
+Re-Examination (Batch 2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 Answer the followings
+
+Col, a. | State definition of neural network and state advantages of neural (5)
+S02, BLI network
+
+CO3, b. | What are the advantages and applications of genetic algorithm (5)
+SO2,BL2
+
+CO3, c. | Explain centroid method for defuzzification. (5)
+CO2, BL3
+
+CO3, d. | Differentiate between Classical set and fuzzy set. : (5)
+S02, BL2
+
+Q.2 a. | How genetic algorithm differs from traditional algorithm? (10)
+CO3.SO2,
+
+BL2
+
+(COE b. | Explain the working of a simple neuron. (10)
+S02, BL2 :
+
+@Q3 a. | What are the fuzzy set operations? (10)
+CO3,
+
+S02, BL2
+
+CO3, b. | Explain Key concepts in genetic algorithm. (10)
+S02, BL2
+Q.4 a._| What is fuzzy logic and what are its applications? (10)
+--- page 2 ---
+C03,
+S06, BL2
+
+CO35 b. | Discuss Fuzzy extension principle in details. (10)
+S06, BL2
+
+Q.5 a. | Explain Genetic Fuzzy rule-based hybrid system. (10)
+CO3,
+S06, BL3
+
+CO3; b. | What is defuzzification? Discuss different techniques of (10)
+SO2, BL2 defuzzification?
+
+Q.6 a. | Explain working principle of Fuzzy Inference system. (10)
+CO3,
+SO6, BL2
+
+COL b. | What are the characteristics of Artificial Neural network? (10)
+S02, BL2
+
+Q.7 a. | Design washing machine controller using fuzzy logic system. (10)
+€O3;
+S06, BLS
+
+C€O3; b. | State the characteristics of Neuro-Fuzzy hybrid system. (10)
+S02, BL1
+````
+
+## 2023-24 · Re-Exam · Sem 9 · paper 3cfc3c050e06
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: COMPUTER/SEM IX/SOFT COMPUTING/Soft_Computing_Batch_2023-24_Re_Exam_TGCHT81873.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (3 pages), mean OCR confidence 86.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024 _
+Program/s: B TECH INTG Yeapy MS eiesler: ix;
+Stream/s ; Computer Engg.
+Subject: _Soft Computing
+
+Date:_08 /02/2024
+Marks: 100
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use. 5
+
+(> 1) Question No. _l___ is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions.
+3) In all__5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+a jd = E+ S424 ands = (474% 4%} fing
+CO- 3: a3 4's
+, i. Complements of both A and B [4]
+SO- 7; ii. Union of A,B
+BL-3 iii. Intersection of AB
+iv. Difference A/B
+CO-2 ; b. «| [4]
+SO- 1; Justify-XOR function is non-linearly separable by a single decision boundary line..
+© | BL2
+CO- 3; c. Describe how fuzzy vehicle cruise control works with the help of neat | [4]
+aie diagram
+BL-3 Bram
+CO- 3; d. [4]
+SO- 4; Compare Genetic Algorithm with natural genetics
+BL-4
+Q2 Answer the following [20]
+co-1; a Describe different types of activation functions and architectures in neural (10)
+SO-1;
+
+BL-1 network with corresponding graph, equation and diagrams
+--- page 2 ---
+Consider the following two discrete fuzzy sets, which are defined on
+
+universe X = {—5, 5} and Y = {0, 5}
+
+CO-3; A = “zero” = {= + “ + - + < + a and
+SO-1; [10]
+BL-3 B = “positive medium” = { + “s + ; + ~ + “*}
+€ = “Slightly positive medium”
+Construct the relation for the rule IF A THEN B and IF A THEN B Else C
+Q3 Answer the following [20]
+Two companies bid for a contract. A committee has to review the
+estimates of those companies and give reports to its chairperson. The
+reviewed reports are evaluated on a non-dimensional scale and assigned a
+weighted score that is represented by a fuzzy membership function, as
+illustrated by the two fuzzy sets, Bland 82, in Fig. The chairperson is
+interested in the lowest bid, as well as a metric to measure the combined
+“‘best’’ score. For the logical union of the membership functions shown
+we want to find the defuzzified quantity. For each of the seven methods
+Sor, presented in this chapter assess (i) whether each is applicable and, if so, [10]
+BL- 3 (ii) calculate the defuzzified value, z*« for centroid method and
+(iii)center of sum or center of largest area method.
+H “ ;
+1 A 1
+0.5 0.5 v\
+o| 12345 6s ol 1203045 6
+(a) )
+Nee Explain fuzzy classification with help of example also write its advantages 110]
+BL-3 and disadvantages also describe challenges of fuzzy classification.
+Q4 Answer the following [20]
+c0-3; WA fae Se Shand B= (Pa Se [10]
+
+find
+
+o~
+--- page 3 ---
+SO-7; i). Algebraic product of fuzzy set *
+ii). Multiplication of fuzzy set by crisp number ‘a
+
+BL-3 iii). Algebraic sum of fuzzy set
+iv). Bounded sum of fuzzy sets
+v) Algebraic difference of fuzzy set
+
+Son b Describe with example defuzzification by Max membership principle, centroid {10}
+BL-1 ‘ method with an example
+
+Q5
+
+CO-3; Describe Greg Viot 's fuzzy cruise controller . [20]
+SO-4;
+
+BL-4 .
+
+Q6 Answer the following [20]
+he 3 Draw the block diagram of a simple fuzzy control system and describe open [10]
+BL-3 loop and closed loop fuzzy control systems
+CO-3; b ;
+SO-1; What are offspring and discuss creation of offspring in genetic algorithm Tio]
+BL-2
+Q7 Answer the following [20]
+CO-3; a
+SO-7; Discuss Neuro Fuzzy Hybrid system 6
+BL-3 Perce)
+co-3: b Compare Genetic algorithm with traditional algorithm on basis of search
+S0-3} strategies, solution representation, exploration vs exploitation, ‘ Lo}
+BL-3
+
+convergence, problem types,
+````
+
+## 2022-23 · Final-Exam · Sem 9 · paper bff34edc9641
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: COMPUTER/SEM IX/SOFT COMPUTING/Soft_Computing_Batch_2022_Final0001_i8EEVuT1du.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 81.6
+
+````text
+Programme: B. Tech Integrated (Computer) Year: V
+
+SVKM’s NMIMS fis/
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+SS
+
+Academic Year: 2022-23
+
+Semester: IX
+
+Subject: Soft Computing ,
+
+Date:
+
+Instructions: Candidates should read carefull
+
+Marks: 100
+
+Time: 2.00 pm - 5.00 pm
+Durations: 3 (Hrs)
+
+No. of Pages: _O3 _
+
+25 November 2022
+
+Final Examination
+
+ly the instructions printed on the question paper and on the cover
+
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1
+Q Answer briefly:
+i 7 What are the different basic models of neural network? [05]
+CO-3:; SO- b. Find the power set, cardinality of the given set and cardinality of the power set: [05]
+6; BL-3 X= {4,9,6,8}
+car _ c. Discuss different types of Activation functions in ANN. [05]
+feat so d. Draw and explain FLC for an air conditioner? [05]
+Q2. A.
+CO-2: So- Implement ANDNOT function using MCP neuron model (use binary data) [10]
+2; BL-4
+B. Determine the lambda cut sets for the given fuzzy sets:
+a {é 0.5 0.65 085 10 10
+Slot nt wet oo * 80 * won [
+2. Sa ee ee
+Q & (5+ 20 * 40 * Go * wo * 100 [10]
+CO-3; SO-
+6; BL-3 Express following for lambda cut = 0.5
+—
+@ GUS: GN): OF: @D) BS,
+@ GUE): GAS) ~
+Q3. A. For the fuzzy relation R,
+
+{10}
+
+1/3
+--- page 2 ---
+C0-3;S0- fo2 05 07 1 09
+6; BL-3 03 6.5 07 1 08
+B= |04 06 08 09 04
+
+0.9 1 #08 06 04
+
+Find the lambda cut sets for 0.2, 0.4, 0.7, 0.9
+
+(Binary aul r & Tare s)
+
+ae Bl Desi Hebb rei impl logical OR fun .
+esign a Hebbriét to implement logic: ction (use bipolar inputsand-
+CO-2; S0- gn a Hebbniét to imp ei ( [10]
+2;BL-4
+A. For the given fuzzy sets, A = {(1,0), (3,0.5), (7,0.5), (8,0)}, B = {(3,0), (4,0.3),
+Q4. (8,0.3), (9,0)}. [10]
+a ; sO a. Draw graph
+° b. Find X* using Centre of sum and Centre of largest area.
+B. Consider the following fuzzy sets:
+X= {(0,0.5), (1,0.8), (2,0.9), (5,0.2), (7,0.1), (9,0.1), (10,0.2)}
+Q4. Y = {(0,1.0), (1,0.0), (2,0.7), (5,0.3), (7,0.6), (9,0.8), (10,1.0)}
+CO-3: SO. Find — Algebraic sum, Algebraic product, Bounded sum, Bounded difference, [10]
+6; BL-3 Union, Intersection, Difference(B|A), complement of (X U Y), complement of (X
+Ny)
+A. Classify the two — dimensional pattern shown in figure below using perceptron
+network. The symbol ‘*’ indicates +1 and ‘ ® ° indicates -1. Target for ‘I’ is +1
+and ‘F” is -1 ;
+Qs. = @ & s ¢ 2
+CO-2; SO- [10]
+2; BL-3 - *s 7s *
+* * *& es @ e
+aid - -
+Q5. B. Two fuzzy relation are given as:
+CO-3; SO- [10]
+6; BL-3
+
+2|3
+--- page 3 ---
+fo8 1 05 o4 0
+E . 0
+= {1 02 03 021 9
+0.106 0.2 07 1 09
+10.1 0.4 0.5 08 1 09
+
+[0.1 0.2 05 09 0
+
+0.1 0.2 05 09 0
+
+_ | 01 0.2 05 09 0
+B= 103 04 07 06 1
+0.3 04 0.7 06 1
+
+}0.3 04 0.7 O01 1
+
+Find the relation A o B, using
+a. Max — Min composition
+b. Max — product composition
+A. Consider three fuzzy sets:
+
+Q6 A= {(10,0.9), (20,0.0.6), (30,0.5)}; B= {(1,0.5), (2,0.4), (3,0.9)}; C = {(10,0.1),
+CO-3:S0. (20,0.2), (30,0.3)}, Find fuzzy relation between: R= A XB;S=C XB; Also [10]
+
+-3:SO-
+6; BL-3 find max — min and max product composition between fuzzy relation R and S. |
+06. B.
+CO-3; SO- Explain genetic algorithm with suitable example? [10]
+6; BL-2
+Qi. A. Design a fuzzy logic controller for a washing machine. (Assume suitable data if 110]
+CO-3; SO- necess :
+6; BL-4 ary)
+
+B. Explain following w.r.t Genetic Neuro hybrid systems?
+Q7. a. Properties
+b. Block diagram [10]
+
+CO-3; SO-
+6; BL2 c. Advantages
+
+3|3
+````
 
 ## 2022-23 · Re-Exam · Sem 10 · paper 1285dd1d7b6c
 
@@ -516,6 +1014,209 @@ CO-4;
 BL-2
 
 Kh
+````
+
+## 2019-20 · Final-Exam · Sem 9 · paper fbf7fc7741f3
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: COMPUTER/SEM IX/SOFT COMPUTING/Soft_Computing_2019-20_Final_8KeZM0Lis0.pdf`
+- Printed on paper: exam date: 13 November 2019
+- Text: ocr (2 pages), mean OCR confidence 91.7
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program :B.Tech Integrated (Computer) Year: V Semester IX
+Academic Year: 2019-2020
+
+Subject: Soft Computing
+Date : 13 November 2019
+
+- E inal Examination(2019-20)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer'to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume_suitable data if necessary.
+
+Ql A What are the characteristics of artificial neural network ? 03
+B Explain Supervised learning by example. 04
+Cc Compare between Artificial Neural network and biological neural network: 03
+D Explain Binary encoding and one type of crossover in detail. 04
+Q2 A Draw ADALINE network and give its training algorithm. 07
+B tis necessary tc compare two sensors based upon their detection levels 07
+
+And gain settings . The table of gain settings and sensor detection levels
+With a standard item being monitored providing typical membership values
+To represent the detection levels for each sensor is given below:
+
+Gain Settings | Detection Detection of
+level of sensor | sensor 2
+1(D1) (D2)
+
+0 0 0
+
+10 0.2 0.35
+
+20 0.35 0.25
+
+30 0.65 0.8
+
+40 0.85 0.95
+
+i
+--- page 2 ---
+[50 1 [1
+
+1) Give mathematical representation of sensor] (D1) ,sensor 2 (D2)
+2) Give membership function D1 Union D2
+
+3) Give membership function D1 intersection D2
+
+4) Give membership function of Complement of D1
+
+5) Give membership function of Complement of D2
+
+Q3 ‘Explain Fuzzy inference system for TIP problem in a restaurant. 07
+Inputl is : Service quality levels are: bad , average , excellent
+Input2 is :Food quality levels are : poor ,good ,very good
+Output is :Tip levels are: less, good , generous.
+Design 8 (Eight) different rules for deciding the amount of TIP.
+How genetic algorithm differs from regular algorithms? 07
+Q4 Explain genetic neuro hybrid system. Also give its advantages. 07
+Draw the diagram and explain. .
+Draw the architecture for auto-associative memory network and give training algorithm for the | 07
+same.
+Q5 Give advantages and limitations of genetic algorithm 07
+Find linear regression equation for the following: 07
+Xi column shows scores on aptitude tests , Yi column shows statistics grades. The last 2
+columns show deviations.
+Student Xi Yi (Xi- X) (Yi-Y)
+1 95 85
+2 80 70 ‘
+3 85 95
+- 70 65
+5 60 70
+| Sum
+Mean
+Calculate the regression equation.
+Q6 Compare crisp sets and fuzzy sets. 07
+Explain Rosenblatt’s perceptron with a diagram. 07
+Q7 Write short notes oni
+Kohonen’s self organizing map. 04
+
+Implementing AND using 2 input 1 output Neuron.
+
+04
+
+03
+
+Hammimg network and its testing algorithm.
+
+03
+
+Qo So
+
+itations i ithm.
+Esplona Plowerand qo Ce abet
+
+a
+````
+
+## 2018-19 · Final-Exam · Sem 9 · paper 6bb6125545eb
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: COMPUTER/SEM IX/SOFT COMPUTING/Soft_Computing_2018-19_Final_jY0JQ2OnoR.pdf`
+- Printed on paper: max marks: 60; exam date: 21 November 2018
+- Text: ocr (2 pages), mean OCR confidence 91.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program B.Tech Integrated (COMPUTER) + Year: V Semester: IX =
+AcademicY ear: 2018-2019
+
+Subject: Soft Computing -—~ See Marks: 60
+it~ ON
+Date : 21 November 2018 | e VO\Time:2.00 pm to 5.00 pm_.
+
+Instructions: Candidates should read carefully the ins ed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+|) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume suitable data if necessary.
+
+1 A Explain biological neuron with diagram. 6
+B Explain supervised and unsupervised learning. 6
+2 A Explain Winner — take-all rule and out-star learning rule. 6
+B Explain Hebb’s training algorithm with flowchart. 6
+3 A Explain radial basis function network with architecture and 6
+flowchart. ,
+B Explain learning factors for back propagation network. 6
+4 A How genetic algorithms differ from regular algorithms. 6
+B Explain flowchart of genetic programing with a diagram. 6
+| A Draw the architecture for discrete BAM and _ give its testing 6
+algorithm.
+B For a function f(x)= x’ give first two generations for following
+case:
+
+Ao, 2
+--- page 2 ---
+A
+
+Take generation | as 4 strings of 7 bits. Do crossover
+after 5" bit.
+
+Do mutation for first 3 bits. Comment on the result for
+generation2, use average and expected count for comparison.
+
+Explain with block diagram genetic-neuro hybrids. What are their
+advantages.
+
+Explain any 2 defuzzification methods
+
+Write notes on: (Any TWO)
+
+What are the components of fuzzy logic controller . Explain Fuzzy
+If-then rules of your choice.
+
+Implement AND function using McCulloch Pitts neuron (use
+binary data -Oand 1 only).
+
+Explain fuzzy logic control Genetic algorithm (FLC GA) based
+optimization with flowchart.
+
+22
+
+12
+
+\
 ````
 
 ## 2018-19 · Final-Exam · Sem 8 · paper b27f826d6841

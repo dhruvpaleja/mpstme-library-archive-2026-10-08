@@ -1,6 +1,6 @@
 # Financial Derivatives
 
-**67** unique papers (82 copies across programmes) · 2022-23 to 2025-26 · 20 programmes · Sem 5, Sem 6, Sem 9, Sem 10
+**71** unique papers (86 copies across programmes) · 2022-23 to 2025-26 · 22 programmes · Sem 2, Sem 5, Sem 6, Sem 9, Sem 10
 
 Download only this subject, sorted by academic year:
 
@@ -17,6 +17,7 @@ Also filed as: `FINANCIAL DERIVATIES (OE)`
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH, B.TECH INTEGRATED, MBA TECH | Financial Derivatives 2025-26 Final Exam.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 10 | BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037 | QP_Final-Exam_Financial Derivatives(702TF0I002)_Semester X_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech AI 7012 | QP_Financial Derivatives(702TF0I002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech AIDS 7056 | QP_Financial Derivatives(702TF0I002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Computer 7002 | QP_Financial Derivatives(702TF0I002)_2025-2026.pdf |
@@ -30,10 +31,12 @@ Also filed as: `FINANCIAL DERIVATIES (OE)`
 | 2025-26 | Final-Exam | Question paper | Sem 9 | Integrated IT 7037 | QP_Financial Derivatives(702TF0I002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 9 | Integrated Mechanical 7031 | QP_Financial Derivatives(702TF0I002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | Integrated Mechanical 7031 | QP_Financial Derivatives(702TF0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | MASTER OF COMMERCE (BANKING & FINANCE) - 45702 | QP_Final-Exam_Financial Derivatives(NJFID555)_Semester II_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech AI 7051 | QP_Financial Derivatives(702TF0I002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech Computer 7047 | QP_Financial Derivatives(702TF0I002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech DS 7052 | QP_Financial Derivatives(702TF0I002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech IT 7041 | QP_Financial Derivatives(702TF0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037 | ANS_Final-Exam_Financial Derivatives(702TF0I002)_Semester X_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AI 7012 | ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AIDS 7056 | ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf |
@@ -47,6 +50,7 @@ Also filed as: `FINANCIAL DERIVATIES (OE)`
 | 2025-26 | Final-Exam | Answer key | Sem 9 | Integrated IT 7037 | ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 9 | Integrated Mechanical 7031 | ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 10 | Integrated Mechanical 7031 | ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | MASTER OF COMMERCE (BANKING & FINANCE) - 45702 | ANS_Final-Exam_Financial Derivatives(NJFID555)_Semester II_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech AI 7051 | ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech DS 7052 | ANS_Financial Derivatives(702TF0I002)_2025-2026.pdf |

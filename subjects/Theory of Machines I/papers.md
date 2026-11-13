@@ -1,8 +1,120 @@
 # Theory of Machines I: question papers in full
 
-45 unique papers · 2011-12 to 2019-20 · Mechanical, Mechatronics
+52 unique papers · 2011-12 to 2019-20 · Mechanical, Mechatronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2019-20 · Final + Re-Exam · Sem 5 · paper 4fb78687ff9c
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER V/THEORY OF MACHINES I/Theory_of_Machines_I_2019-20_Final_Batch_2018-19_Re_Exam_dag8rGIjsZ.pdf`
+- Printed on paper: exam date: 08 November 2019
+- Text: ocr (2 pages), mean OCR confidence 92.6
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated (Mechanical) _— Year: III .-- Semester: V ~~
+
+Academic Year: 2019-20 _—
+Subject: Theory of Machines I —
+
+Date: 08 November 2019
+
+Final Examination (2019-20)/ Re-Examinat
+
+ae =
+
+instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+1 Solve any two Sub-Questions from a, b, c & any two Sub-Questions from d, e, f
+
+a Differentiate between machine and mechanism (3)
+b_ Write a short note on straight line mechanism (3)
+c Sketch a neat labelled diagram of Hookes Joint (3)
+d Locate all the instantaneous centre for a four bar chain mechanism . (4)
+e Define space diagram (4)
+f Draw the acceleration diagram for a link (4) |
+2a Explain the working of quick return motion mechanism. (7)
+
+b Define degrees of freedom. Explain the terms used in Grubler’s criterion and determine the (7)
+mobility of a Scissor using the same.
+
+3a Explain the working of Pantograph and list its applications. (7)
+
+Page 1 of 2—
+--- page 2 ---
+g
+
+b Explain Ackermann steering gear.
+
+4a Locate all the instantaneous centres of the slider crank mechanism as shown in Figure. 1. The
+lengths of crank OB and connecting rod AB are 100 mm and 400 mm respectively. If the crank
+rotates clockwise with an angular velocity of 10 rad/s, find: 1. Velocity of the slider A, and 2.
+
+Angular velocity of the connecting rod AB.
+
+400 mm
+
+Figure 1
+
+b. Write a short note on Instantaneous centre, types and mention its properties.
+
+5a Write a short note to find velocity of a point on a link by relative velocity method.
+
+b Highlight the difference between ideal mechanical advantage and actual mechanical
+advantage? What will be the rubbing velocity at pin joint when the two links move in the same
+
+a
+
+and opposite directions .
+
+6a Explain the steps used to draw acceleration diagram of a slider crank mechanism.
+
+b Explain the terms radial component, tangential component and Coriolis component of
+acceleration.
+
+7a Explain the different types of joint and its nature of motion.
+
+b Inacrank and slotted lever quick return mechanism, the distance between the fixed centres is
+
+150 mm and the driving crank is 75 mm long. Determine the ratio of the time taken on the
+cutting and return strokes. What happens to the ratio of the time taken on cutting to return
+
+stroke if only the length of driving crank is reduced to 60 mm.
+Ze
+
+(7)
+
+(7)
+
+1)
+
+7)
+(7)
+
+(8)
+(6)
+
+(8)
+(6)
+````
 
 ## 2019-20 · Re-Exam · Sem 3 · paper 0a58b16fa85e
 
@@ -239,6 +351,131 @@ Q7 A Write notes on: - i) Oldham‘s coupling, ii) Whitworth quick return motion
 Q7 B_ Derive the condition for transmitting the maximum power in a flat belt drive. (6)
 ````
 
+## 2018-19 · Final-Exam · Sem 5 · paper d2743824a28e
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER V/THEORY OF MACHINES I/Theory_of_Machines_I_2018-19_Final_JcXioSyjun.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 16 November 2018
+- Text: ocr (4 pages), mean OCR confidence 93.8
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENG
+
+Program B.Tech Integrated (MECHANICAL) Year: Il
+Academic Year: 2018-2019
+
+Subject: Theory of Machines-I_ — Marks: 70
+
+Date : 16 November 2018 _- Time:2.00 pm to 5.00 pm ~
+Duration: 3 (hrs) _”
+
+No. of Pages: 4
+
+Final Examination (2018-19)/Re-examination (2017-18) <
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which, is provided for their use.
+
+1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary. .
+
+1. Define:
+
+a. Machine
+
+b. Inversion
+
+c. Straight line mechanism
+
+d. Instantaneous centre
+
+e. Tangential component
+
+f. Mechanical advantage
+
+g. Mobility (2x7= 14)
+2. a. Define:
+
+(i) Sliding Pair and Screw Pair.
+
+eee
+--- page 2 ---
+(ii) Constrained and Incompletely constrained motion. (4)
+b. Sketch and explain the working of a gnome engine. (6)
+
+c. Determine the mobility of the following mechanisms. (4)
+
+B
+2 3
+A 1 (e
+Figure 1 ,
+a. Explain the condition of a straight line mechanism with a neat sketch. (4)
+
+b. Explain the functioning of an ackermann steering gear with a neat sketch. What are the
+
+disadvantages of davis steering gear. (6)
+c. Define linear velocity. (2)
+d. Define Coriolis component. (2)
+
+a. Locate all the instantaneous centres for the mechanisms shown in Figure 2 and Figure 3.
+
+(8)
+
+Figure 2
+
+>|
+--- page 3 ---
+Figure 3
+b. Define :
+(i) Plane motion and scberteal motion
+(ii) Translation and Helical motion (4)
+c. Sketch any two rules of the Instantaneous Centre. (2)
+
+a. In a four bar chain ABCD shown in Figure 4, AD is fixed and is 150 mm long. The crank AB is
+40 mm long and rotates at 120 rpm. clockwise, while the link CD = 80 mm oscillates about D. BC
+
+and AD are of equal length. Find the angular velocity of link CD when angle BAD = 60°.
+
+(8)
+150
+150
+Figure 4
+b. What is rubbing velocities at pin joints? (4)
+c. Define angular acceleration. (2)
+
+hs
+--- page 4 ---
+a. Explain the working of a crank and slotted lever mechanism. (8)
+b. In a crank and slotted lever quick return mechanism, the distance between the fixed centres is 150
+mm and the driving crank is 75 mm long. Determine the ratio of the time taken on the cutting and
+return strokes. (4)
+
+c. Derive the relationship between angular velocity and linear velocity. (2)
+
+a. The crank of a slider crank mechanism rotates clockwise at a constant speed of 200 rpm. The
+crank is 150 mm-:and the connecting rod is 600 mm long. Determine: 1. Linear velocity and
+
+acceleration of the midpoint of the connecting rod, and 2. angular velocity and angular acceleration
+
+of the connecting rod, at a crank angle of 45° from inner dead centre position. (8)
+b. Draw the acceleration diagram for a link. (4)
+c. Define radial component: (2)
+
+aly
+````
+
 ## 2018-19 · Final-Exam · Sem 3 · paper a204b23d5f34
 
 - Departments: Mechanical
@@ -455,6 +692,131 @@ Q.7 a.) Derive Equation for an open belt drive. 07
 b.) Explain Crank and slotted Lever Quick Return Motion Mechanism with neat sketch. 07
 
 Page 3 of 3
+````
+
+## 2018-19 · Re-Exam · Sem 5 · paper 2a886e6cfafa
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER V/THEORY OF MACHINES I/Theory_of_Machines_I_Batch_2017-18__2018-19_Re_Exam_3FV7fCFOdX.tif`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 14 January 2019
+- Text: ocr (4 pages), mean OCR confidence 93.9
+
+````text
+SVKM’S NMIMS INI
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Program: B.Tech Integrated (Mechanical) a“ Year: III Semester: V
+Academic Year: 2018-2019
+
+Subject: Theory of Machines-I — Marks: 70 -
+
+Time: 2.00 pm to 5.00 pm ~
+Date: 14 January 2019 . .
+Durations: 3 (hrs)
+
+. No. of Pages:_ o'+
+Re-examination (2017-18/ 2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume -suitable data if necessary.
+
+1. Define:
+
+a. Mechanism
+
+b. Inversion of the mechanism
+
+c. Hooke’s joint
+
+d. Aronhold Kennedy Theorem
+
+e. Tangential component
+
+f. Rubbing velocity
+
+g. Degrees of freedom (2x7= 14)
+2. a. Differentiate between the following:
+
+(i) Lower Pair and Higher Pair
+--- page 2 ---
+(ii) Machine and Structure. (4)
+b. Sketch and explain the working of an elliptical trammel. (6)
+
+c. Determine the mobility of the following mechanisms. (4)
+
+Figure 1
+
+a. Explain the working of a pantograph with a neat sketch and explain its working principle. (4)
+
+b. Explain the working of a Davis steering gear with a neat sketch derive the condition for correct
+
+steering. , (6)
+c. Define angular displacement. (2)
+d. Define Coriolis component of acceleration. (2)
+a. Locate all the instaritaneous centres for the following mechanism as shown in Figure 2. (4)
+
+Figure 2
+
+b. Locate all the instantaneous centres of the slider crank mechanism as shown in Figure 3. The
+lengths of crank OB and connecting rod AB are 100 mm and 400 mm respectively. If the crank
+rotates clockwise with an angular velocity of 10 rad/s, find: (i). Velocity of the slider A, and (ii).
+
+Angular velocity of the connecting rod AB. Angle BOA = 45°. (8)
+
+|
+--- page 3 ---
+Al © O
+
+Figure 3
+
+c. What are the Properties of the Instantaneous Centre. (2)
+
+a. In‘Figure 4, the angular velocity of the crank OA is 600 rpm. Determine the linear velocity of the
+slider D and the angular velocity of the link BD, when the crank is inclined at an angle of 75° to the
+vertical. The dimensions of various links are: OA = 28 mm; AB = 44 mm; BC 49 mm; and BD = 46
+mm. The centre distance between the centres of rotation O and C is 65 mm. The path of travel of the
+
+slider is 11 mm below the fixed point C. The slider moves along a horizontal path and OC is vertical.
+
+(8)
+
+Figure 4
+b. What is mechanical advantage? How is actual mechanical advantage different from ideal
+mechanical advantage. (4)
+c. Define angular velocity, (2)
+
+a. Explain the working of a whitworth quick return motion mechanism, also derive an equation for
+
+the ratio of time taken for return stroke and forward strokes. (8)
+
+3 Ly.
+--- page 4 ---
+b. A crank and slotted lever mechanism used in a shaper has a centre distance of 300 mm between
+the centre of oscillation of the slotted lever and the centre of rotation of the crank. The radius of the
+crank is 120 mm. Find the ratio of the time of cutting to the time of return stroke. (4)
+
+c. What is the relationship between linear velocity and angular velocity, (2)
+
+a. The crank of a slider crank mechanism rotates clockwise at a constant speed of 300 rpm. The
+crank is 150 mm and the connecting rod is 600 mm long. Determine: 1. Linear velocity and
+acceleration of the midpoint of the connecting rod, and 2. angular velocity and angular acceleration
+of the connecting rod, at a crank angle of 45° from inner dead centre position. (8)
+
+b. Draw the acceleration diagram of a slider crank mechanism. (6)
 ````
 
 ## 2018-19 · Re-Exam · Sem 3 · paper 1e85a42a40a0
@@ -1446,6 +1808,123 @@ speeds of the driven shaft. (6)
 Page 3 of 3
 ````
 
+## 2017-18 · Final-Exam · Sem 5 · paper 2395caf25142
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER V/THEORY OF MACHINES I/Theory_of_Machines_I_2017-18_Final_IX0yc6ibi2.pdf`
+- Printed on paper: exam date: 25 November 2017
+- Text: ocr (3 pages), mean OCR confidence 93.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+ne
+
+Academic Year: 2017-2018 < =
+Program: B. Tech. Integrated (Mechanical) . Year: IIL‘ / Gia
+Subject: Theory of Machines —I “ Marks: Y. Ss
+Time: mi fae 08. nt J} .
+Date : 25 November 2017”
+
+Duration: MNS
+No. of Pages: cod
+
+FINAL EXAMINATION
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1(a) Explain Grubler’s criterion for determining degree of freedom for mechanisms. Using
+
+Grubler’s criterion for plane mechanism, prove that the minimum number of binary links in a
+
+constrained mechanism with simple hinges is four. (3)
+(b) What is velocity of rubbing? How is it found? (3)
+(c) What is the Coriolis acceleration component? In which cases does it occur? How is it
+determined? (4)
+(d) What is pantograph? Sketch a pantograph, explain it’s working. (4)
+
+Q.2 (a) How are the Whitworth quick-return mechanism and crank and slotted lever mechanism
+
+different from each other? Sketch and explain any one of them. (7)
+(b) Diffentiate between (i) mechanism and machines (ii) Lower pair and higher pair. (4)
+(c) Discuss various types of constrained motion. (3)
+
+Page 1 of 3
+--- page 2 ---
+Q.3 (a) Prove that a point on one of links of a Hart mechanism traces a straight line on the
+movement of its links. (8)
+
+(b) Two shafts are connected by a universal joint. The driving shaft rotates at a uniform speed of
+1200 r.p.m. Determine the greatest permissible angle between the shaft axes so that the total
+
+fluctuation of speed does not exceed 100 r.p.m. Also calculate the maximum and minimum
+
+speeds of the driven shaft. (6):
+
+Q.4 (a) State and prove Kennedy’s theorem. . (3)
+(b) What do you understand by the instantaneous centre of rotation in kinematic of machines?
+Discuss the three types of instantaneous centres for a mechanism. (4)
+(c) In a slider crank mechanism, the lengths of links OB, BA and OA are 160 mm, 470 mm and
+600 mm respectively. Locate all the instantaneous centre of the mechanism. Also find the
+
+velocity of the slider and the angular velocity of the connecting rod if the crank rotates at 12
+
+rad/s. (7)
+
+Br
+
+Q.5 Figure 1 shows the structure of Whitworth quick return mechanism used in reciprocating
+machine tools. The various dimensions of the tool are as follows: OQ = 100 mm; OP = 200 mm,
+RQ =150 mm and RS = 500 mm. The crank OP makes an angle of 60°with the vertical.
+Determine the velocity of the slider S (cutting tool) when the crank rotates at 120 r.p.m.
+clockwise. Find also the angular velocity of the link RS and the velocity of the sliding block Ton
+
+the slotted lever QT. (14)
+
+Page 2 of 3
+--- page 3 ---
+Figure 1
+Q.6 In the mechanism, as shown in Fig. 2, the crank OA rotates at 20 r.p.m. anticlockwise and
+
+gives motion to the sliding blocks B and D. The dimensions of the various links are OA
+mm; AB
+
+= 300
+= 1200 mm; BC = 450 mm and CD = 450 mm. For the given configuration, determine:
+1. velocities of sliding at B and D, 2. Angular velocity of CD, 3. linear acceleration of D, and 4.
+
+angular acceleration of CD. (14)
+
+1050 mm >
+
+Figure 2
+Q.7 (a) What do you understand by the term degree of freedom? Sketch and explain any two
+
+inversions of a double Slider crank chain. (7)
+
+(b) What is the condition for correct steering? Sketch and show the two main types of steering
+
+gears and discuss their relative advantages. (7)
+
+Page 3 of 3
+````
+
 ## 2017-18 · Final-Exam · Sem 3 · paper e53615ba289d
 
 - Departments: Mechanical
@@ -1685,6 +2164,129 @@ Q7a) Differentiate between Davis and Ackerman’s steering gear mechanism. (6M)
 Q7b) Write notes on :- i) Oldham’s coupling, ii) Whitworth quick return motion mechanism. (8M)
 
 Page 02 02
+````
+
+## 2017-18 · Re-Exam · Sem 5 · paper 6be60f925675
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER V/THEORY OF MACHINES I/Theory_of_Machines_I_Batch_2017-18_Re_Exam_eoO0tWH56F.pdf`
+- Printed on paper: exam date: 29 May 2018
+- Text: ocr (2 pages), mean OCR confidence 88.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B. Tech Integrated (Mechanical) Year: Ill Semester: V ¢
+
+Batch: 2017-18
+
+Academic Year: 2017-2018 ©
+
+VY Pts
+
+vy
+
+wd 70 a We
+Date: 29 May 2018 ve Q.90 am, to, 408
+
+Ae 3 tes (hrs) ie
+Neg uses
+
+Subject: Theory of Machines -I «
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _l___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q 1) Attempt the following.
+
+a) What is kinematic link? What are the different types of links? Also explain structure. (5M)
+b) What is kinematic chain? Explain the relation between number of links, number of pairs and number of
+joints. (SM)
+c) Explain Degrees of Freedom in detail. (4M)
+OR
+
+d) What ismechanism? (44 M)
+
+Q2a) With neat sketch explain Beam engine (crank and lever mechanism) & Watt’s indicator mechanism (Double
+lever mechanism) (8M)
+
+Q2b) Explain in detail Crank and slotted lever quick return motion mechanism. (6M)
+Q3a) Draw neat sketch of Oldham’s coupling and explain its use, Iso explain Scotch yoke mechanism. (10M)
+Q3b) Describe different types of Instantaneous centers. (4M)
+
+Q4a) Explain with neat sketch condition for correct steering and explain Davis Steering mechanism and its
+limitations. (10M)
+
+Q4b) Explain Hart’s mechanism. (4M)
+
+feege ol of 02
+--- page 2 ---
+Q5) A mechanism, as shown in Figure below, has the following dimensions: OA = 200 mm; AB = 1.5 m; BC = 600 mm;
+CD = 500 mm and BE = 400 mm. Locate all the instantaneous centers. If crank OA rotates uniformly at 120 r.p.m.
+clockwise, find 1. the velocity of B, C and D, 2. the angular velocity of the links AB, BC and CD. (14M)
+
+Q6) In a mechanism shown in Figure below, the crank OA is 100 mm long and rotates clockwise about O at 120
+
+r.p.m. The connecting rod AB is 400 mm long.
+
+At a point C on AB, 150 mm from A, the rod CE 350 mm long is attached. This rod CE slides in a slot in a trunnion at
+D. The end Eis connected by a link EF, 300 mm long to the horizontally moving slider F..For the mechanism in the
+position shown, find 1. velocity of F, 2. velocity of sliding of CE in the trunnion, and 3. angular velocity of CE. (14M)
+
+a mm >
+~ \ el
+
+7 NN ee pe
+
+m\ /
+
+300 mm \
+
+_ _ a
+eX 9
+
+A ¥\30°
+Q7) In the mechanism shown in Figure below, the slider C is moving to the right with a velocity of 1 m/s and an
+
+acceleration of 2.5 m/s’.
+The dimensions of various links are AB = 3 m inclined at 45° with the vertical and BC = 1.5m inclined at 45° with the
+
+horizontal. Determine: 1. the magnitude of vertical and horizontal component of the acceleration of the point B, and
+2. the angular acceleration of the links AB and BC. (14M)
+
+A
+
+45° sm
+
+1
+
+——— OB
+
+45°
+MfilisgEll 1.5m
+
+D MATT!
+
+C
+
+Frage o20b0L
 ````
 
 ## 2017-18 · Re-Exam · Sem 3 · paper 5627662c3ccb
@@ -2719,6 +3321,123 @@ Where E = Mean energy of the flywheel, andC, = coefficient of fluctuation of spe
 ys
 ````
 
+## 2016-17 · Final-Exam · Sem 5 · paper 203822449694
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER V/THEORY OF MACHINES I/Theory_of_Machines_I_2016-17_Final_7VS3U6foES.pdf`
+- Printed on paper: max marks: 60; exam date: 25 November 2016
+- Text: ocr (3 pages), mean OCR confidence 90.1
+
+````text
+—
+
+. SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+i Programme: B. Tech Integrated (MECHANICAL) Year: I | Semester: V
+
+Academic Year: 2016-2017
+
+Subject : Theory of Machines-I ay
+: Marks: 60; eu
+
+Date : 25 November 2016 Time : 10.00 gin to 1 7
+
+i Durations: NEWS).
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No.01 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1. Attempt any FOUR of the following: 4 x(03)=(12)
+
+a (a) Describe the Hart’s Mechanism with its application.
+(b) Explain Bull Engine with its applications.
+(c) | What you know about Machine and Structure.
+(a) Explain the successful constrained motion.
+(e) Explain the term location of Instantaneous centres.
+(f) Describe application of Kutzbach’s criterion applied to mechanisms with a
+
+higher pair.
+Q.2.a Describe any two inversions of a Double slider-crank mechanism with (06)
+the help of neat sketches.
+ae b. Draw the neat sketch diagram and explain the ‘Whitworth Quick Return (06)
+Motion Mechanism’ with its application in the industries.
+Q.3.a. Describe the working Principle of ‘Peaucellier Mechanism’ and Prove (06)
+pe that it produces an exact straight line motion.
+b. Derive an expression for the ratio of shafts velocities for Hooke’s joint and (06)
+
+draw the polar diagram depicting the salient features of driven shaft speed.
+
+\Ja
+--- page 2 ---
+Q.4. The mechanism of a wrapping machine, as shown in Fig.1, has the (12)
+following dimensions : O,;A = 100 mm; AC = 700 mm; BC = 200 mm;
+O3C = 200 mm; O2E = 400 mm; 02D = 200 mm and BD = 150 mm.The
+crank OA rotates at a uniform speed of 100 rad/s. Find the velocity of
+the point E of the bell crank lever by instantaneous centre method.
+
+Mo
+—t— 300 mm
+Fig. 01 ®
+
+Q.5. In the toggle mechanism, as shown in Fig 2. , the slider D is constrained to (12)
+move on a horizontal path. The crank OA is rotating in the counter-clockwise
+direction at a speed of 180 r.p.m. The dimensions of various links are as
+follows : OA = 180 mm ; CB = 240 mm ; AB = 360 mm; and BD = 540 mm.
+For the given configuration, find : 1. Velocity of slider D, 2. Angular velocity
+of links AB, CB and BD;
+
+wien a
+\ rliecsste
+i ,
+®
+Fig.02
+Q.6. In the mechanism shown in Fig. 3, the slider C is moving to the right with a (12)
+
+velocity of | m/s and an acceleration of 2.5 m/s*. The dimensions of various
+links are AB = 3 m inclined at 45° with the vertical and BC = 1.5 m inclined at
+45° with the horizontal. Determine: 1. The magnitude of vertical and horizontal
+component of the acceleration of the point B, and 2. the angular acceleration of
+the links AB and BC.
+--- page 3 ---
+Q7(a)
+
+(b)
+
+()
+
+Ze
+st- TRH
+
+yo a3
+
+Explain the Grashof’s law of classification of mechanisms.
+
+Describe the Watt’s parallel mechanism for straight line motion and derive the
+Condition under which the straight line is traced.
+
+Describe different types of Instantaneous centres.
+
+(03)
+
+(06)
+
+(03)
+````
+
 ## 2016-17 · Final-Exam · Sem 3 · paper c4e2670dd781
 
 - Departments: Mechanical
@@ -3030,6 +3749,128 @@ Ne
 re ne
 
 Ae,
+````
+
+## 2016-17 · Re-Exam · Sem 5 · paper a7263f952205
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: MECHANICAL/SEMESTER V/THEORY OF MACHINES I/Theory_of_Machines_I_Batch_2016-17_Re_Exam_wkIfhvKCeE.pdf`
+- Printed on paper: exam date: 27-May-17
+- Text: ocr (3 pages), mean OCR confidence 86.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: B.Tech Integrated (MECHANICAL) Year: III Semester: V
+
+Batch: 2016-17
+Academic Year: 2016-2017
+
+Subject: Theory of Machines - I
+
+Date: 27-May-17
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No.01 is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Attempt any FOUR of the following: 04 x(03) =(12)
+(a) Explain the Grublers criterion for plane mechanism.
+(b) Describe different types of links for connecting driver and follower.
+(c) Explain Oscillating Cylinder Engine mechanism with its application.
+(d) Describe different types of Instantaneous centres.
+(e) Write a short note on oldham's coupling with neat sketch.
+
+(f) Explain Pantograph with the help of a neat diagram.
+
+Q.2.a. Draw the neat sketch diagram and explain the ‘Crank and slotted lever (06)
+Quick return motion mechanism’ with its application in the industries.
+b. Classify and explain the kinematics of pair according to type of relative (06)
+motion between the elements.
+Q.3.a. Describe the Watt’s parallel mechanism for straight line motion and (06)
+derive the condition under which the straight line is traced.
+b. Give a neat sketch of the straight line motion ‘Hart mechanism.’ Prove (06)
+that it produces an exact straight line motion.
+Q.4. _ Fig. 1 shows a sewing needle bar mechanism 0,ABO,CD wherein the (12)
+
+different dimensions are as follows:
+
+Crank O,A = 16 mm;
+
+ZP=45°; Vertical distance between O; and O2 = 40 mm;
+
+Horizontal distance between O,andO,= 13 mm;
+
+O.B = 23mm; AB =35 mm; 2 OBC = 90°;
+
+BC = 16 mm; CD = 40 mm. D lies vertically below O,
+
+Find the velocity of needle ‘D’ when crank 0,A rotates at 400 r.p.m using
+Instantaneous centre method.
+
+3
+--- page 2 ---
+P Zt
+ral OU
+
+Fig.1
+
+Q.5. In Fig. 02, the crank OA rotates by 600 r.p.m. Determine the linear ~ (42)
+velocity of the slider D and the angular velocity of the link BD, when the
+crank is inclined at an angle of 75° to the vertical. The dimensions of
+various links are : OA = 28 mm ; AB = 44 mm; BC 49 mm; and BD = 46
+mm. The centre distance between the centres of rotation O and C is 65
+mm. The path of travel of the slider is 11 mm below the fixed point C.
+The slider moves along a horizontal path and OC is vertical.
+
+A s
+é 1
+/
+Bef
+wo
+DY
+Leiba eset he
+fi _ = =
+TTT Ar
+Fig.02
+Q.06. The crank of a slider crank mechanism rotates clockwise at a (12)
+
+constant speed of 300 r.p.m. The crank is 150 mm and the
+connecting rod is 600 mm long. Determine: 1. Linear velocity and
+acceleration of the midpoint of the connecting rod, and 2. angular
+velocity and angular acceleration of the connecting rod, at a crank
+angle of 45° from inner dead centre position.
+
+2/3
+--- page 3 ---
+¥
+mn 7
+BL
+A D150 mm
+7 re r 459).
+~—. - -— —
+shorty LD.C. oO
+Fig.3
+Q.07(a) Explain the concept of “inversion of mechanisms”; Describe Watts (08)
+Indicator Mechanism and Gnome Engine with the help of neat sketches.
+(b) Describe the working Principle of ‘Peaucellier Mechanism’ with neat (04)
+
+sketch.
 ````
 
 ## 2015-16 · Final-Exam · Sem 3 · paper d5b1bcd7ad43

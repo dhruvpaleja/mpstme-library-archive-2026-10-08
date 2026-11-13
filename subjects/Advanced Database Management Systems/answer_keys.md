@@ -2,6 +2,400 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 0f0a3f58960a
+
+- Departments: Computer Applications (MCA)
+- Programmes: MASTER OF COMPUTER APPLICATIONS - 7061
+- Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: MASTER OF COMPUTER APPLICATIONS - 7061/Advanced Database Management System/ANS_Final-Exam_Advanced Database Management System(703CO0E018)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
+- Text: text (9 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MASTER OF COMPUTER APPLICATIONS
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Advanced Database Management System
+Date: 09 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 9 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Attempt any FOUR questions from the remaining questions.
+6. Assume suitable data wherever required.
+Q1
+Answer briefly:
+Explain the concept of constraint types in the Enhanced ER model and
+illustrate their use with a suitable example.
+Two major constraint types in specialization:
+1. Disjointness constraint
+Specifies whether an entity belongs to only one subclass
+Example: Employee → Manager / Engineer
+2. Completeness constraint
+Specifies whether participation in subclass is mandatory or optional
+Types:
+CO- 1; SO- 2;   •   Total specialization
+BL-2   •   Partial specialization
+Example: Person → Student OR Employee
+Rubric (5 Marks)
+Component   Marks
+Definition of constraint types 1
+Disjointness explanation   1
+Completeness explanation   1
+Example   1
+a   Diagram/clarity/structure   1   [5]
+Explain the role of implicit cursor attributes in PL/SQL programs with appropriate
+examples.
+CO-1; SO-2;
+Synoptic Answer
+BL-2
+Implicit cursor created automatically by Oracle.
+b   Attributes:   [5]
+********** 1 **********
+--- page 2 ---
+SQL%FOUND → TRUE if rows affected
+SQL%NOTFOUND → TRUE if no rows affected
+SQL%ROWCOUNT → number of rows affected
+SQL%ISOPEN → FALSE (auto-closed cursor)
+Rubric
+Component   Marks
+Definition implicit cursor 1
+SQL%FOUND   1
+SQL%NOTFOUND   1
+SQL%ROWCOUNT   1
+SQL%ISOPEN   1
+Describe the concept of encapsulation in Object-Oriented Database Systems and
+justify its importance in managing complex data.
+Synoptic Answer
+Encapsulation = binding data + methods inside object.
+Example:
+Student object
+Attributes → name, marks
+Method → calculateGrade()
+Advantages:
+•   data hiding
+•   abstraction
+CO- 2; SO-2 ;   •   modularity
+BL-2   •   security
+Rubric
+Component   Marks
+Definition encapsulation   1
+Object structure explanation 1
+Example   1
+Advantages   1
+c   Application significance   1   [5]
+Explain the concept of parallel query evaluation and discuss how it improves
+database system performance.
+Synoptic Answer
+Parallel query evaluation executes queries using multiple processors
+simultaneously.
+Types:
+CO- 3; SO- 3;
+BL-2   •   Inter-query parallelism
+•   Intra-query parallelism
+Advantages:
+•   faster execution
+d   •   high throughput   [5]
+********** 2 **********
+--- page 3 ---
+•   better CPU utilization
+Rubric
+Component   Marks
+Definition   1
+Inter-query explanation 1
+Intra-query explanation 1
+Advantages   1
+Example/application   1
+A university database stores structured relational data along with multimedia
+lecture recordings and nested course material objects. Explain why Object-
+Relational DBMS (ORDBMS) is more suitable than traditional RDBMS for
+this application.
+Synoptic Answer
+ORDBMS supports:
+•   multimedia storage
+•   nested objects
+•   inheritance
+•   user-defined data types
+•   object references
+RDBMS limitations:
+Q2   •   supports only tabular data
+CO-3; SO-1;   • weak multimedia handling
+BL-1   • no inheritance support
+Example:
+Lecture object:
+video + slides + notes
+Hence ORDBMS improves flexibility and performance.
+Rubric
+Component   Marks
+Scenario interpretation 2
+RDBMS limitations   2
+ORDBMS features   3
+Comparison justification 2
+a   Example   1   [10]
+A large e-commerce company executes complex analytical queries on very
+large datasets. Explain how parallel query processing techniques improve
+performance in such environments.
+CO-1,;   SO-;
+BL-
+Synoptic Answer
+Parallel query processing divides tasks across processors.
+b   Benefits:   [10]
+********** 3 **********
+--- page 4 ---
+•   faster execution
+• workload distribution
+•   scalability
+• reduced response time
+•   high throughput
+Used in ecommerce analytics systems.
+Rubric
+Component   Marks
+Definition   2
+Working principle   2
+Performance improvement factors 4
+Example/application   2
+Develop a PL/SQL block using an explicit cursor that:
+1. Retrieves employee salaries in descending order
+2. Identifies the second highest distinct salary
+3. Displays:
+o employee name
+o employee ID
+o second highest salary
+4. Handles condition when:
+o fewer than two distinct salaries exist
+5. Uses cursor control statements (OPEN, FETCH, CLOSE) explicitly
+Synoptic Answer
+Steps:
+1 Declare cursor with salary DESC
+Q3   2 OPEN cursor
+CO-2; SO-3;   3 FETCH records sequentially
+BL-4   4 Identify second distinct salary
+5 Display employee details
+6 CLOSE cursor
+7 Handle insufficient records condition
+Rubric
+Component   Marks
+Cursor declaration   2
+OPEN statement   1
+FETCH logic   2
+Second highest logic 3
+Display output   1
+a   Exception handling   1   [10]
+Write a stored procedure that updates department number of an employee
+CO-3; SO-3;   and displays confirmation message after execution.
+BL-3   Synoptic Answer
+b   Stored procedure:   [10]
+********** 4 **********
+--- page 5 ---
+•   accepts employee ID
+•   updates department number
+•   displays confirmation message
+Advantages:
+•   reusable
+•   secure
+•   faster execution
+• modular structure
+Rubric
+Component   Marks
+Procedure syntax   3
+Parameter usage   2
+Update statement   2
+Output message   1
+Advantages explanation 2
+Develop a PL/SQL block using an explicit cursor that:
+1. Retrieves employee salaries in descending order
+2. Identifies the second highest distinct salary
+3. Displays:
+o employee name
+o employee ID
+o second highest salary
+4. Handles condition when:
+o fewer than two distinct salaries exist
+5. Uses cursor control statements (OPEN, FETCH, CLOSE) explicitly
+Algorithm / Logic Steps
+Q4   1. Declare an explicit cursor to select employee details ordered by salary
+CO-1,; SO-2;   DESC.
+BL-3   2. OPEN the cursor.
+3. FETCH records sequentially.
+4. Maintain a counter to track row position.
+5. Identify the second distinct salary.
+6. Display:
+o employee ID
+o employee name
+o second highest salary
+7. Handle condition when fewer than two distinct salaries exist.
+8. CLOSE cursor.
+Component   Marks
+Cursor declaration with DESC ordering 2
+a OPEN cursor usage   1   [10]
+********** 5 **********
+--- page 6 ---
+FETCH loop logic   2
+Second-highest salary identification logic 3
+Output display (ID, name, salary)   1
+Condition handling (insufficient records) 1
+Compare Object-Oriented DBMS and Object-Relational DBMS in terms of
+structure, capability, and application suitability.
+Synoptic Answer
+Feature   OODBMS   ORDBMS
+Storage   Objects   Tables + objects
+Inheritance   Supported   Partial
+Complex data Strong support Moderate
+SQL support   Limited   Strong
+CO-1,; SO-2;
+BL-3   Applications CAD   Multimedia systems
+Rubric
+Component   Marks
+Definition OODBMS   2
+Definition ORDBMS   2
+Comparison table   4
+Applications   1
+b   Conclusion   1   [10]
+Explain the major goals of parallel database systems and analyze how they
+contribute to scalability and throughput improvement.
+Synoptic Answer
+Goals:
+• speedup
+•   scaleup
+•   load balancing
+•   fault tolerance
+Q5   •   high throughput
+CO-2,; SO-3;
+BL-4   Improves performance of large datasets.
+Rubric
+Component   Marks
+Definition   2
+Speedup explanation 2
+Scaleup explanation 2
+Other goals   2
+a   Applications   2   [10]
+Explain the concept of XPath expressions and demonstrate how they are used
+CO-3,; SO-3;
+to retrieve elements from XML documents.
+BL-4
+b   [10]
+********** 6 **********
+--- page 7 ---
+Synoptic Answer
+XPath retrieves XML elements using path expressions.
+Example:
+/student/name
+Uses:
+•   navigation
+•   filtering
+•   searching elements
+•   extracting structured data
+Rubric
+Component   Marks
+Definition XPath   2
+Syntax example   2
+Navigation explanation 2
+Filtering usage   2
+Applications   2
+Explain the concept of data fragmentation in distributed databases and
+differentiate between horizontal and vertical fragmentation.
+Synoptic Answer
+Fragmentation divides database into parts.
+Types:
+Horizontal fragmentation → rows divided
+Vertical fragmentation → columns divided
+Advantages:
+Q6   •   faster access
+CO-1; SO-2;   • reduced communication cost
+BL-3   • improved performance
+Rubric
+Component   Marks
+Definition   2
+Horizontal explanation 3
+Vertical explanation   3
+a   Advantages   2   [10]
+Discuss the role of data replication strategies in improving reliability and
+availability in distributed database environments.
+CO-1; SO-3;   Synoptic Answer
+BL-6   Replication stores copies of data at multiple locations.
+Types:
+b   •   full replication   [10]
+********** 7 **********
+--- page 8 ---
+•   partial replication
+Advantages:
+•   availability
+•   reliability
+•   faster access
+• backup support
+Rubric
+Component   Marks
+Definition   2
+Types explanation 4
+Advantages   3
+Applications   1
+Explain the XML hierarchical tree model and illustrate the relationships
+among root, parent, child, sibling, and leaf nodes.
+Synoptic Answer
+Root node → top element
+Parent node → contains child
+Child node → inside parent
+Sibling node → same level
+Q7   Leaf node → no children
+CO-1;   SO-1
+BL-1   Rubric
+Component   Marks
+Definition XML tree model 2
+Root node   2
+Parent/child nodes   2
+Sibling node   2
+a   Leaf node   2   [10]
+Implement a PL/SQL block using a cursor FOR loop that:
+1. Accepts department number as input
+2. Displays employees whose names start with vowel characters
+3. Calculates and prints:
+o   total number of such employees
+o average salary of filtered employees
+CO-1; SO-2;   4. Uses implicit cursor attributes where required
+BL-3   5. Displays message if no matching records are found
+Synoptic Answer
+Steps:
+1 Accept dept input
+2 Declare cursor
+3 Filter vowel names
+b 4 Count employees   [5]
+********** 8 **********
+--- page 9 ---
+5 Calculate average salary
+6 Display results
+Rubric
+Component   Marks
+Cursor declaration 1
+Filtering logic   1
+Loop structure   1
+Aggregation logic 1
+Output handling   1
+Explain the purpose and structure of DTD (Document Type Definition) and
+analyze how it supports XML document validation.
+Synoptic Answer
+DTD defines:
+•   allowed elements
+•   attributes
+•   structure
+•   hierarchy
+Example:
+CO-1; SO-2;
+<!ELEMENT student(name,age)>
+BL-3   Ensures XML follows defined structure.
+Rubric
+Component   Marks
+Definition   1
+Structure explanation 1
+Syntax example   1
+Validation role   1
+c   Advantages   1   [5]
+********** 9 **********
+````
+
 ## 2025-26 · Final-Exam · Sem 5 · Answer key · paper 265624f4eb28
 
 - Departments: Computer Science

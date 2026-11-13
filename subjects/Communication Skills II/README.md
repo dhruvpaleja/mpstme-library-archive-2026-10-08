@@ -1,6 +1,6 @@
 # Communication Skills II
 
-**10** unique papers (11 copies across programmes) · 2021-22 to 2024-25 · 2 programmes · Sem 2
+**28** unique papers (29 copies across programmes) · 2021-22 to 2025-26 · 9 programmes · Sem 2
 
 Download only this subject, sorted by academic year:
 
@@ -16,6 +16,24 @@ Also filed as: `COMMUNICATIONS SKILLS-II`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | Bachelor of Commerce (Economics) - 45616 | QP_Final-Exam_Communication Skills II(NFENG160)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | Bachelor of Commerce (Financial Markets) - 45612 | QP_Final-Exam_Communication Skills II(NDENG159)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | Bachelor of Commerce (Management and Finance) - 45615 | QP_Final-Exam_Communication Skills II(NEENG160)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | Bachelor of Commerce - 45611 | QP_Final-Exam_Communication Skills II(NAENG159)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | Bachelor of Commerce(Accounting and Finance) - 45613 | QP_Final-Exam_Communication Skills II(NCENGS159)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | Bachelor of Commerce(Economics & Analytics) - 45617 | QP_Final-Exam_Communication Skills II(NGENG159)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | Bachelor of Science (Information Technology) - 45618 | QP_Final-Exam_Communication Skills II(NHENG160)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | Bachelor of Commerce (Economics) - 45616 | ANS_Final-Exam_Communication Skills II(NFENG160)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | Bachelor of Commerce (Financial Markets) - 45612 | ANS_Final-Exam_Communication Skills II(NDENG159)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | Bachelor of Commerce (Management and Finance) - 45615 | ANS_Final-Exam_Communication Skills II(NEENG160)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | Bachelor of Commerce - 45611 | ANS_Final-Exam_Communication Skills II(NAENG159)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | Bachelor of Commerce(Accounting and Finance) - 45613 | ANS_Final-Exam_Communication Skills II(NCENGS159)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | Bachelor of Commerce(Economics & Analytics) - 45617 | ANS_Final-Exam_Communication Skills II(NGENG159)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | Bachelor of Science (Information Technology) - 45618 | ANS_Final-Exam_Communication Skills II(NHENG160)_Semester II_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | Bachelor of Commerce - 45611 | QP_Re-Exam_Communication Skills II(NAENG159)_Semester II_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | Bachelor of Commerce(Accounting and Finance) - 45613 | QP_Re-Exam_Communication Skills II(NCENGS159)_Semester II_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | Bachelor of Commerce - 45611 | ANS_Re-Exam_Communication Skills II(NAENG159)_Semester II_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | Bachelor of Commerce(Accounting and Finance) - 45613 | ANS_Re-Exam_Communication Skills II(NCENGS159)_Semester II_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech CSE DS 7011 | QP_Communication Skills-II(702BS0C019)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 2 | BTech CSE DS 7011 | ANS_Communication Skills-II(702BS0C019)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech CSE DS 7011 | QP_Communication Skills-II(702BS0C019)_2024-2025.pdf |

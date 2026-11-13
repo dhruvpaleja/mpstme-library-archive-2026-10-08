@@ -1,8 +1,50 @@
 # Operations Research: question papers in full
 
-101 unique papers · 2006-07 to 2025-26 · Computer Applications (MCA), Computer Engineering, Mechanical, Information Technology, Chemical, Computer Science and Business Systems, Mechatronics, Data Science, Civil, Common (all branches)
+103 unique papers · 2006-07 to 2025-26 · Computer Applications (MCA), Computer Engineering, Mechanical, Information Technology, Chemical, Computer Science and Business Systems, Mechatronics, Data Science, Civil, Commerce, Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 1 · paper 16a6d795a4ab
+
+- Departments: Commerce
+- Programmes: MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703/Operations Research/QP_Final-Exam_Operations Research(NKOPR509)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 07 Nov 2025
+- Text: mixed (2 pages), mean OCR confidence 89.3
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: M.Com (BM)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Operations Research
+Date: 07 Nov 2025   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use of simple calculator is allowed.
+1.   10
+2.   10
+3.   Answer the following:   10
+5
+Page 1 of 2
+--- page 2 ---
+Determine the probabilities associated with each strategy of each player whose
+payoff matrix is given as follows and also find the value of the game.
+
+Player B
+A. By B,
+Ay 1 05
+Player.4
+Az} 05 0
+
+B. What are the application areas of Operation Research techniques?
+
+Page 2 of 2
+````
 
 ## 2025-26 · Final-Exam · Sem 5 · paper 37362365c825
 

@@ -1,6 +1,6 @@
 # Statistical Methods
 
-**84** unique papers (138 copies across programmes) · 2006-07 to 2025-26 · 20 programmes · Sem 2, Sem 3, Sem 4, Trim 3, Trim 4, Trim 6
+**86** unique papers (140 copies across programmes) · 2006-07 to 2025-26 · 21 programmes · Sem 2, Sem 3, Sem 4, Trim 3, Trim 4, Trim 6
 
 Download only this subject, sorted by academic year:
 
@@ -20,11 +20,13 @@ Also filed as: `SATISTICAL METHODES`
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech AIDS 7056 | QP_Statistical Methods(702BS0C085)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech AIML 7053 | QP_Statistical Methods(702BS0C085)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech CSE DS 7057 | QP_Statistical Methods(702BS0C085)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | Bachelor of Commerce (Management and Finance) - 45615 | QP_Final-Exam_Statistical Methods(UISME159)_Semester II_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | MBATech AI 7051 | QP_Statistical Methods(702BS0C085)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 4 | BTech AI 7012 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AIDS 7056 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 4 | BTech AIML 7053 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CSE DS 7057 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | Bachelor of Commerce (Management and Finance) - 45615 | ANS_Final-Exam_Statistical Methods(UISME159)_Semester II_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 4 | MBATech AI 7051 | ANS_Statistical Methods(702BS0C085)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | B TECH / ARTIFICIAL INTELLIGENCE, B TECH / CSE DATA SCIENCE | Statistical Method, Sem-IV, Batch 2022-23, 2023-24 &2024-25, 2025-26, Re Exam.pdf [1] |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech AI 7012 | QP_Statistical Methods(702BS0C085)_2025-2026.pdf |

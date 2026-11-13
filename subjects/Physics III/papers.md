@@ -1,6 +1,6 @@
 # Physics III: question papers in full
 
-26 unique papers · 2022 to 2025-26 · Common (all branches), Data Science, Information Technology, Mechanical, Computer Engineering
+28 unique papers · 2022 to 2025-26 · Common (all branches), Data Science, Information Technology, Mechanical, Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -308,6 +308,126 @@ C0-3; BL- |e. :
 ft
 
 yr (
+````
+
+## 2024-25 · Final-Exam · Sem 3 · paper c7f77be5d130
+
+- Departments: Computer Engineering
+- Programmes: BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7032
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7032/Physics-III/QP_Final-Exam_Physics-III(701BS0C016)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27 Nov 2024
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)
+Year: II/Semester III(Exam Year: 2024-2025)
+Subject: Physics-III
+Date: 27 Nov 2024   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks.
+4. Question No. 1 is compulsory.
+5. Attempt any 4 questions out of the six options of Question No. 2.
+6. Total 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+[Given: Planck’s constant h = 6.625 x 10-34 J-s = 4.14 x 10-15 eV-s, Speed of light, c = 3 x 108 m/s, electronic
+mass, me = 9.1 x 10-31 kg, electronic charge, e = 1.6 x 10-19 C, Boltzmann’s constant, kB = 1.38 x 10-23 J/K,
+free space permeability = µ0 = 4π x 10-7 H/m]
+Q1
+Answer briefly.   [20]
+CO-1 ;   a.   What is an amorphous material? Discuss with proper diagram and examples.   [4]
+BL- 1,2
+CO-1 ;   b.   Define Hall effect.   [4]
+BL-1,2
+c.   Explain the term ‘coherence’ in relation with the light waves. How coherent sources
+CO-2 ;   [4]
+BL-1,2   are obtained?
+d.   In an optical fiber, the core refractive index is 1.6 and the cladding refractive index
+CO- 2;   is 1.3. What is the value of critical angle at the core-cladding interface? Also   [4]
+BL-1,2
+calculate the value of the numerical aperture of this optical fiber.
+CO- 3;   e.   State Lorentz force equation with mathematical expression.   [4]
+BL-1,2
+Q2   Answer any four (4) questions.   [80]
+A   [20]
+CO-1; BL-   a.   Explain crystal with a proper diagram. Find the atomic packing fraction for a face
+[10]
+1,2   centered cubic (FCC) structure.
+CO-1; BL-   b.   The inter-planar spacing of [1 1 0] plane is 2 Å for a FCC crystal. Find the atomic
+[6]
+4   radius.
+CO-1; BL-   c.
+Analyze the significance of Hall coefficient being positive and negative.   [4]
+3,4
+********** 1 **********
+--- page 2 ---
+B   [20]
+CO-1; BL-   a.   Show that the Fermi level of an intrinsic semiconductor lies at the half of the energy
+[10]
+1,2   band gap at low temperature.
+b.   A Si sample, with an intrinsic carrier concentration of 9.8 x 1015 /m3 at 300 K, is
+CO-1; BL-
+made n-type material. If the density of donor atoms is 1021 m-3, determine the   [6]
+4
+electron and hole densities.
+CO-1; BL-   c.
+Identify the various causes of crystal defects.   [4]
+3,4
+C   [20]
+CO-2; BL-   a.   What is a diffraction grating? Explain the dispersive power and the resolving power
+[10]
+1,2   of a grating.
+b.   Monochromatic light of λ = 6560 Å falls normally on the grating of width 3 cm.
+CO-2; BL-
+The first order spectrum is produced at an angle 19O from the normal. What is the [6]
+4
+total number of lines on the grating?
+CO-2; BL-   c.
+Examine why two level systems fail to produce lasers.   [4]
+3,4
+D   [20]
+CO-2; BL-   a.   What is an optical fiber? What is the basic principle behind its operation? Compare
+[10]
+1,2   different types of optical fibers.
+b.   A laser having power of 75 mW, wavelength 720 nm and an aperture 5 mm is
+CO-2; BL-
+focused with a lens of focal length of 0.1 m. Calculate the area and the intensity of   [6]
+4
+the image.
+CO-2; BL-   c.   If energy is always conserved, how come the interference maximum has amplitude
+[4]
+3,4   more than the sum of individual interfering rays?
+E   [20]
+CO-3; BL-   a.   What is a magnetic material?
+[10]
+1,2   Summarize the properties of different types of magnetic materials.
+CO-3; BL-   b.   A magnetic material has a magnetization of 3200 A/m and flux density of 0.0045
+[6]
+4   Wb/m2. Determine the magnetic field and the relative permeability of the material.
+CO-1; BL-   c.
+Compare Schottky and Frenkel defects with proper illustration.   [4]
+3,4
+F   [20]
+********** 2 **********
+--- page 3 ---
+CO-2; BL-   a.
+Explain the construction and working of Ruby laser with relevant diagrams.   [10]
+1,2
+b.   NaCl crystals have FCC crystal structure. The density of NaCl is 2.18 x 103 kg/m3,
+CO-1; BL-
+the atomic weight of Na is 23 gm/mole and that of Cl is 35.5 gm/mole. Find the   [6]
+4
+lattice constant. Given Avogadro number N = 6.02 x 1023 mole-1.
+CO-3; BL-   c.
+Examine Ampere’s law of electromagnetism.   [4]
+3,4
+********** 3 **********
 ````
 
 ## 2024-25 · Final-Exam · Sem 3 · paper 55edd1ea0c8d

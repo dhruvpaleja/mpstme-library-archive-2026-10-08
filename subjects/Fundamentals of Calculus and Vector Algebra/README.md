@@ -1,6 +1,6 @@
 # Fundamentals of Calculus and Vector Algebra
 
-**3** unique papers (3 copies across programmes) · 2021-22 · 1 programme · Sem 4
+**6** unique papers (6 copies across programmes) · 2021 to 2021-22 · 2 programmes · Sem 4
 
 Download only this subject, sorted by academic year:
 
@@ -14,8 +14,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2021 | — | Question paper | Sem 4 | B.TECH INTEGRATED / COMPUTER | Fundamentals_of_Calculus_and_Vector_Algebra_Batch_2021-20001_JvvA4NMKoQ.pdf |
 | 2021-22 | — | Question paper | Sem 4 | B.TECH INTEGRATED / MECHANICAL | Fundamentals of Calculus and Vector Algebra 2021-22 Fina0001.pdf |
 | 2021-22 | — | Question paper | Sem 4 | B.TECH INTEGRATED / MECHANICAL | Fundamentals of Calculus and Vector Algebra Batch 2021-2022.pdf |
+| 2021-22 | Re-Exam | Question paper | Sem 4 | B.TECH INTEGRATED / COMPUTER | Fundamentals_of_Calculus_and_Vector_Algebra_Batch_2021-22_Re_Exam_3gBAQPnkLU.pdf |
+| 2021-22 | Re-Exam | Question paper | Sem 4 | B.TECH INTEGRATED / COMPUTER | Fundamentals_of_Calculus_and_Vector_Algebra_Batch_2021-22_Re_Exam_mc6rMPIyPs.pdf |
 | 2021-22 | Re-Exam | Question paper | Sem 4 | B.TECH INTEGRATED / MECHANICAL | Fundamentals of Calculus and Vector Algebra Batch 2021-22 Re Exam.pdf |
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

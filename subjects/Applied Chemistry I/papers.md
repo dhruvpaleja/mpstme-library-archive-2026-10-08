@@ -1283,9 +1283,9 @@ HERRERA K
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/APPLIED CHEMISTRY I/2005-2006.pdf`
 - Printed on paper: max marks: 50
 - Text: ocr (2 pages), mean OCR confidence 88.3
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
+NARSEE MONJEE INSTIT oe STUDIES ae
 (DEE : DOUN IVE! RSI c
 
 M.B.A.(TECH.) I Y. “TRIM. ck DIV- iN (2005 = 06)
@@ -1436,13 +1436,13 @@ iv) Green House Effect
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/APPLIED CHEMISTRY I/2004-2005.pdf`
 - Printed on paper: exam date: 5/11/04
 - Text: ocr (2 pages), mean OCR confidence 82.7
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 &
 
 as
 
+NARSEE MONJEE INSTITU“ OF MANAGEMERS STD
 (DEEMED UNIVERSITY)
 
 M.B.A(TECH,) I YR. TRE, i DIV -A/E (2004 — 05)

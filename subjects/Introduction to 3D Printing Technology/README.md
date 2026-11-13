@@ -1,6 +1,6 @@
 # Introduction to 3D Printing Technology
 
-**10** unique papers (10 copies across programmes) · 2022 to 2025-26 · 2 programmes · Sem 5, Sem 7
+**12** unique papers (12 copies across programmes) · 2022 to 2025-26 · 3 programmes · Sem 5, Sem 7
 
 Download only this subject, sorted by academic year:
 
@@ -18,6 +18,8 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Final-Exam | Question paper | Sem 5 | Integrated Mechanical 7031 | QP_Introduction to 3D Printing Technology(701ME0C018)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 5 | Integrated Mechanical 7031 | ANS_Introduction to 3D Printing Technology(701ME0C018)_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / MECHANICAL | Introduction to 3D PRinting Technology Batch 2024-25 Final.pdf |
+| 2024-25 | Final-Exam | Question paper | Sem 5 | BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7031 | QP_Final-Exam_Introduction to 3D Printing Technology(701ME0C018)_Semester V_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 5 | BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7031 | ANS_Final-Exam_Introduction to 3D Printing Technology(701ME0C018)_Semester V_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | Integrated Mechanical 7031 | QP_Introduction to 3D Printing Technology(701ME0C018)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 5 | Integrated Mechanical 7031 | ANS_Introduction to 3D Printing Technology(701ME0C018)_2024-2025.pdf |
 | 2023-24 | — | Question paper | Sem 5 | B.TECH INTEGRATED / MECHANICAL | Introduction to 3D Printing Technology Batch 2023-24 Fin0001.pdf |

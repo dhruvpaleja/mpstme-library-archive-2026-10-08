@@ -1,6 +1,6 @@
 # Classical Physics: question papers in full
 
-15 unique papers · 2021-22 to 2025-26 · Mechanical
+16 unique papers · 2021-22 to 2025-26 · Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -546,6 +546,164 @@ forces of equal magnitude but in opposite direction according to [4]
 Newton’s third law. The football moves but the player does not. Why?
 
 FOI ICR A OR
+````
+
+## 2024-25 · Final + Re-Exam · Sem 8 · paper 1befa50cae12
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: MECHANICAL/SEMESTER VIII/Classical Physics/Classical_Physics_Batch_2024-25_Final_Batch_2022-23__2023-24_Re_Exam_iduJqLfx24.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/05/2025
+- Text: ocr (3 pages), mean OCR confidence 90.3
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS E
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2024-2025 ¥
+Program/s: B.Tech/BTECH (ENTS ) Year: I/IV, Semester: IV/VIIL
+Stream/s: Mechanical
+Subject: Classical Physics Time: 3 hrs (10.00 am to 1.00 pm)
+Date: 12/05/2025 No. of Pages: 03
+Marks: 100
+
+Final Examination (2024-2025) /Re- Exam 2022-23, 2023-24
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks. a
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+8) Non-programmable scientific calculators can be used.
+
+Qi
+Answer briefly: : [20]
+nae a. | Express mathematically the velocity and acceleration for motion in one dimension. [5]
+CO-2; b. | Write a note on conservation of momentum. Show and identify impulse momentum 15]
+BL-2,3 .
+> relation.
+
+(a CO-3; c. | State any two Kepler’s laws of planetary motion. Provide the formula to calculate the
+
+- B)
+Era eccentricity of an elliptical orbit. B)
+
+ceed d. | What is a Low Earth orbit and a Medium Earth orbit? [5]
+Q2 Answer the following questions: [20]
+CO-1; a. . .
+—r Find velocity and acceleration in polar coordinate system. [10]
+CO-2; b. | A rubber ball of mass 0.3 kg falls to the floor. The ball hits with a speed of 10 m/s and
+BL-3 rebounds with approximately the same speed. High speed photographs show that the ball [6]
+is in contact with the floor for At = 1074s. what can we say about the force exerted on
+the ball by the floor?
+
+Page 1 of 3
+--- page 2 ---
+CO-3; c.
+
+What is a polar orbiting satellite? . [4]
+
+BL-1,2 ¥
+
+Q3 Answer the following questions: ; - [20]
+
+CO-2; a. | Give work-energy theorem in one dimension.
+
+BL-1,3 A mass m is thrown vertically upward with initial speed v. How high does it rise, find the [10]
+maximum height by assuming gravitational force to be constant and neglecting air
+friction?
+
+CO-3; b. Deseribe L: . [6]
+
+escribe La; € points.
+
+BL-1,2 ae
+
+CO-1; c.
+
+a State all three Newton’s law of motion. What do you mean by inertial frame of reference? [4]
+
+Q4 Answer the following questions: [20]
+
+CO-3; a. | Looking at the following data, prove Kepler’s Third law:
+
+BL-3,4,5 i
+
+Mean Orbital
+Planet Distance to Period
+Sun (Earth
+(nits) Days)
+Jupiter 5.2 4331 [10]
+Saturn 9.58 10747
+Uranus 19.22 30589
+Neptune 30.05 59800
+
+CO-1; b. | What are algebraic properties of vectors? Identify the commutative law by using a diagram [6]
+
+BL-1,3 and triangle law of addition.
+
+CO-2,3; c. | Suppose the position of a particle is given by:
+
+BL-5 r= B(cos(wt) i + sin(ot) j) [4]
+where B and @ are constants. Find the velocity and acceleration of the particle.
+
+Q5 Answer the following questions: [20]
+
+CO-1,2; | a. | Show that the total force applied to a system equals the rate of change of the system’s 110]
+
+BL-1,3,4 momentum.
+
+€0-1,2; b. | Find how the translational velocity of any particle in a rotating rigid body is related to the [6]
+
+BL-1,2 angular velocity of the body.
+
+Page 2 of 3
+--- page 3 ---
+c. | Using Kepler's Second Law of planetary motion, explain why planets travel faster near the
+
+»
+
+sun.
+woe An artificial satellite orbiting a planet has a velocity of 9000 m/s when it is 6000 km from | [4]
+the planets center. What is the velocity of the satellite when it is 12000 km from the planets
+center?
+Q6 Answer the following questions: [20]
+CO-1,2; a. | Derive the center of mass equation for a system of particles and extend it to a continuous
+BL-1,2 mass distribution.
+A rod of length L has a non-uniform density. The mass per unit length of the rod, A, varies | [10]
+as A = Ao(x/L), where Ag is a constant and x is the distance from the end marked 0. Find
+the center of mass.
+CO-3; db.
+BLA2 Describe the key types of ground-based sensors used in meteorological observation [6]
+CO-1; c. —
+BL3/4 Explain and derive Galilean transformation for velocity and acceleration. [4]
+Q7 Answer the following questions: [20]
+CO-3; a. | What is an orbit? What is a geostationary orbit?
+BL-1,2 An artificial satellite orbits a planet with a period of 8 hours. If another artificial satellite 110]
+
+orbits the same planet with a period of 27 hours, and the first satellites semi-major axis is
+
+10000 km, what is the semi-major axis of the second artificial satellite?
+
+CO-2,3; | b. | Convert the coordinates of the points P(3, . 2) and Q(2, 3 1) from cylindrical to spherical ;
+BL-2,3,4 6]
+coordinate system.
+
+oan c. | Show and examine relation between angular momentum and torque. [4]
+
+Page 3 of 3
 ````
 
 ## 2024-25 · Final + Re-Exam · Sem 4 · paper b52d1dba33eb

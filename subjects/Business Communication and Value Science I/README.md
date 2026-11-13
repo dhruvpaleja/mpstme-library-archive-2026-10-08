@@ -1,6 +1,6 @@
 # Business Communication and Value Science I
 
-**9** unique papers (9 copies across programmes) · 2019-20 to 2024-25 · 2 programmes · Sem 1
+**11** unique papers (11 copies across programmes) · 2019-20 to 2024-25 · 2 programmes · Sem 1
 
 Download only this subject, sorted by academic year:
 
@@ -21,6 +21,8 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSBS 7036 | ANS_Business Communication & Value Science - I(702BS0C025)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 1 | B TECH | Business Communication & Value Science-I, Sem-I, A Y 2023-24, Final Exam.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 1 | B TECH | Business Communication & Value Science-I, Sem-I, Batch 2022-23 & 2023-24 Re Exam.pdf |
+| 2022-23 | Final-Exam | Question paper | Sem 1 | B TECH | Business_Communication_and_Value_Science-I__1st__Year__Sem-I__Year__2022-23__Final_Exam_DKKUY5S1Wf.pdf |
+| 2022-23 | Re-Exam | Question paper | Sem 1 | B TECH | Business_Communication_and_Value_Science-I__Sem-I__Year__2022-23__Special_Re_Exam_JT4DTNDdEn.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 1 | B TECH | Basic Communication and Value, Science-I, 1st, Year, Sem-I, Year, 2022-23, Re Exam.pdf |
 | 2019-20 | Final-Exam | Question paper | Sem 1 | B TECH | BUSINESS COMMUNICATION AND VALUE SCIENCE I 2019-20 FINAL 2019-20.pdf |
 

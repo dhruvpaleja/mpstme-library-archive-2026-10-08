@@ -1,8 +1,149 @@
 # Application Architecture and Deployment: question papers in full
 
-9 unique papers · 2024-25 to 2025-26 · Data Science, Artificial Intelligence
+11 unique papers · 2024-25 to 2025-26 · Data Science, Artificial Intelligence
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 2 · paper a206a535e8b5
+
+- Departments: Data Science
+- Programmes: MASTER OF TECHNOLOGY - DATA SCIENCE (BUSINESS ANALYTICS) - 7027
+- Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: MASTER OF TECHNOLOGY - DATA SCIENCE (BUSINESS ANALYTICS) - 7027/Application Architecture & Deployment/QP_Final-Exam_Application Architecture & Deployment(703DB0E024)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MASTER OF TECHNOLOGY - DATA SCIENCE (BUSINESS ANALYTICS)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Application Architecture & Deployment
+Date: 09 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. _1___ is compulsory.
+5. Out of remaining questions, attempt any __4___ questions.
+6. In all ___5_ questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+Q No.   Part   Question   Marks
+Q1   a   A healthcare company is building a patient management system that   5
+CO1   needs to handle appointment booking, medical record management,
+BL-1,2   and billing. Initially, they plan to start small but expect exponential
+user growth. Would you recommend a monolithic or microservices
+architecture? Justify your answer. How would factors like scalability,
+fault isolation, and independent deployability influence your choice?
+b   A university is developing a Student Information System using REST   5
+CO3   APIs. The system should allow students and admins to create,
+BL-1,2,3   retrieve, update, and delete student records. Explain the different
+REST API methods (GET, POST, PUT, PATCH, DELETE) with examples
+related to managing student records.
+c   Explain the concept of Virtualization. How does it differ from   5
+CO2   Containerization? State key advantages of containerization.
+BL-
+1,2,3,4
+d   What is a Kubernetes Service? Explain the types of Kubernetes   5
+CO4   Services (ClusterIP, NodePort, LoadBalancer).
+BL-
+2,3,4,5,6
+Q2   a   Explain the essential qualities of a well-designed software   10
+CO1   architecture. Cover aspects such as scalability, maintainability,
+BL-1,2,3   availability, and security. Why are these characteristics critical for
+enterprise applications?
+b   Compare REST, SOAP, GraphQL and gRPC APIs. Highlight their   10
+CO3   advantages, disadvantages, and best use-case scenarios for each.
+BL-2,4
+********** 1 **********
+--- page 2 ---
+Q No.   Part   Question   Marks
+Q3   a   TechStart, an EdTech company, has multiple developers building   10
+CO5   different modules of their online learning platform — courses, users,
+BL-1,3,4   payments, and video streaming.
+Challenges:
+1. Each developer uses a different OS and Python version causing 'it
+works on my machine' issues.
+2. Deploying updates requires manual configuration across servers.
+3. New developers take days to set up their local environment.
+Explain how Docker resolves these challenges.
+Describe the role of a Dockerfile and write one for a simple Flask
+application that returns 'Welcome to TechStart!' on port 8080.
+Explain how to build and run this container.
+b   Explain the Kubernetes architecture. Describe the roles of the Master   10
+CO3   Node components (API Server, etcd, Scheduler, Controller Manager)
+BL-1,3   and Worker Node components (kubelet, kube-proxy, container
+runtime).
+Q4   a   Explain the common security threats faced by REST APIs (such as   10
+CO5   injection attacks, broken authentication, excessive data exposure).
+BL-1,3,4   Additionally, describe the steps and tools to secure APIs effectively,
+including use of JWT, OAuth2, and HTTPS.
+b   Explain the role of Docker in modern DevOps workflows. Describe   10
+CO4   Docker Engine, Docker Hub, Docker Images, Docker Containers, and
+BL-1,4   Docker Volumes. Compare Docker-based deployment to traditional
+VM-based deployment.
+Q5   a   A fintech company is deploying a real-time fraud detection API on   10
+CO3   Kubernetes. The API handles unpredictable traffic spikes during
+BL-1,2   shopping festivals.
+1. Which Kubernetes features would you use for automatic scaling?
+Explain HPA (Horizontal Pod Autoscaler) and how it works.
+2. How would you configure liveness and readiness probes to handle
+container health?
+3. Suggest a deployment strategy (Rolling Update / Blue-Green) to
+deploy updates with zero downtime.
+b   A retail company's e-commerce application is currently monolithic. As   10
+CO4   the business grows, it faces issues with slow deployments, scaling
+BL-1,2,3   bottlenecks, and difficulty adding new features.
+1. What specific scaling and maintenance challenges are they likely
+facing?
+2. Outline a step-by-step strategy to migrate from the monolithic
+system to a microservices architecture while ensuring business
+continuity.
+********** 2 **********
+--- page 3 ---
+Q No.   Part   Question   Marks
+Q6   a   Your team is deploying a sentiment analysis ML model as a REST API.   10
+CO2   You want to use CI/CD for automated testing and deployment.
+BL-
+1. Explain Continuous Integration (CI) and Continuous Deployment
+1,3,4,6
+(CD) and their significance in MLOps.
+2. Describe the key steps in setting up a CI/CD pipeline for this ML API
+using GitHub Actions.
+3. What challenges are specific to CI/CD for ML models and how
+would you address them?
+b   A healthcare SaaS platform is built using microservices: Auth Service,   10
+CO4   Patient Service, and Appointment Service.
+BL-1,2,3
+1. What is Docker Compose and how does it help manage this multi-
+container setup?
+2. Write a docker-compose.yml to define and run these three services,
+each as a Python Flask app.
+3. Explain how inter-service communication and networking works in
+Docker Compose.
+Q7   a   You are deploying a trained churn prediction ML model as a Flask   10
+CO4   REST API using Docker, Kubernetes, and CI/CD pipelines.
+BL-1,2
+Explain the process of containerizing the Flask ML model and
+advantages over bare-metal deployment.
+How can Kubernetes manage, scale, and monitor this containerized
+ML model? Mention Deployments, Services, and HPA.
+Outline a CI/CD pipeline from code commit to Kubernetes
+deployment, including testing, image build, and rollout stages.
+b   A food delivery startup is designing a new mobile application similar   10
+CO5   to Zomato. The team must prepare HLD and LLD before coding begins.
+BL-2,3,5
+Explain the differences between High-Level Design (HLD) and Low-
+Level Design (LLD) in software architecture.
+For the food delivery app, describe what aspects would be covered
+under HLD (system components, APIs, databases) and what under LLD
+(class design, method signatures, database schema).
+Why is it essential to complete both HLD and LLD before starting
+development?
+********** 3 **********
+````
 
 ## 2025-26 · Final-Exam · Sem 1 · paper 19b1ea7f6df7
 

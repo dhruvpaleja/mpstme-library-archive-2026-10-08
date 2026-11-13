@@ -1,6 +1,6 @@
 # Construction Materials
 
-**6** unique papers (6 copies across programmes) · 2015-16 to 2018-19 · 1 programme · Trim 1
+**15** unique papers (15 copies across programmes) · 2015-16 to 2019-20 · 2 programmes · Sem 3, Trim 1
 
 Download only this subject, sorted by academic year:
 
@@ -14,11 +14,20 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2019-20 | Final-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / CIVIL | Construction_Materials_2019-20_Final_jzDLL72qUW.pdf |
 | 2018-19 | Final-Exam | Question paper | Trim 1 | PGDM (Real Estate Construction AND Management) | Construction Materials 2018-19 Final.pdf |
 | 2018-19 | Re-Exam | Question paper | Trim 1 | PGDM (Real Estate Construction AND Management) | Construction Materials Batch 2018-19 Re Exam.pdf |
+| 2017-18 | Final-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / CIVIL | Construction_Materials_2017-18_Final_XZpCozjWhU.pdf |
 | 2017-18 | Final-Exam | Question paper | Trim 1 | PGDM (Real Estate Construction AND Management) | Construction Materials 2017-18 Final.pdf |
+| 2017-18 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / CIVIL | Construction_Materials_Batch_2017-18_Re_Exam_AS40lUcfru.pdf |
+| 2017-18 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / CIVIL | Construction_Materials_Batch_2017-18_Re_Exam_NAqeiGckkk.pdf |
+| 2016-17 | Final-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / CIVIL | Construction_Materials_Batch_2016-17_Final_exXZja0GQO.pdf |
 | 2016-17 | Final-Exam | Question paper | Trim 1 | PGDM (Real Estate Construction AND Management) | Construction Materials 2016-17 Final.pdf |
+| 2016-17 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / CIVIL | Construction_Materials_Batch_2016-17_Re_Exam_Zi7NB7yQS0.pdf |
+| 2015-16 | Final-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / CIVIL | Construction_Materials_Batch_2015-16_Final_YxU1VDYHvQ.pdf |
 | 2015-16 | Final-Exam | Question paper | Trim 1 | PGDM (Real Estate Construction AND Management) | Construction Materials 2015-16 Final.pdf |
+| 2015-16 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / CIVIL | Construction_Materials_Batch_2015-16_Re_Exam_eJhYIrRG8C.pdf |
+| 2015-16 | Re-Exam | Question paper | Sem 3 | B.TECH INTEGRATED / CIVIL | Construction_Materials_Batch_2015-16_Re_Exam_k4SyMK4a5t.pdf |
 | 2015-16 | Re-Exam | Question paper | Trim 1 | PGDM (Real Estate Construction AND Management) | Construction of Materials Batch 2015-16 Re Exam.pdf |
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

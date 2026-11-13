@@ -1,6 +1,6 @@
 # Concrete Technology
 
-**54** unique papers (57 copies across programmes) · 2012-13 to 2025-26 · 4 programmes · Sem 4, Sem 5, Sem 6, Trim 7
+**55** unique papers (58 copies across programmes) · 2012-13 to 2025-26 · 4 programmes · Sem 4, Sem 5, Sem 6, Sem 8, Trim 7
 
 Download only this subject, sorted by academic year:
 
@@ -23,6 +23,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2023-24 | Final + Re-Exam | Question paper | Sem 4 | B TECH / CIVIL | Concrete Technology Batch 2023-24 Final Batch 2022-23 Re Exam.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 4 | B TECH / CIVIL | Concrete Technology, Sem-IV, Year 2022-23 Final Exam.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 4 | B TECH / CIVIL | Concrete Technology, Sem-IV Batch 2022-23 Special Re Exam.pdf |
+| 2022-23 | Re-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / CIVIL | Concete_Technology_Batch_2022-23_Re_Exam_bTlhKPPGuC.pdf |
 | 2021-22 | Final-Exam | Question paper | Sem 4 | B TECH / CIVIL | B Tech, Civil, Concrete Technology, 2nd Year, Sem-IV, Final Exam, 2021-22.pdf |
 | 2021-22 | Re-Exam | Question paper | Sem 4 | B TECH / CIVIL | Concrete Technology, Sem-IV, Re-Exam, Year 2021-22.pdf |
 | 2019-20 | Final-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / CIVIL | Concrete Technology 2019-20 Final.pdf |

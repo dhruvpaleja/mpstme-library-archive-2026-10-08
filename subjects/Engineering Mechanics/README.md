@@ -1,6 +1,6 @@
 # Engineering Mechanics
 
-**123** unique papers (180 copies across programmes) · 2004-05 to 2025-26 · 17 programmes · Sem 2, Sem 3, Sem 6, Sem 7, Trim 2, Trim 3
+**129** unique papers (186 copies across programmes) · 2004-05 to 2025-26 · 18 programmes · Sem 2, Sem 3, Sem 6, Sem 7, Trim 2, Trim 3
 
 Download only this subject, sorted by academic year:
 
@@ -37,27 +37,33 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Re-Exam | Question paper | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | QP_Engineering Mechanics(701ME0C026)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | QP_Engineering Mechanics(701ME0C026)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | QP_Engineering Mechanics(701ME0C026)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | QP_Re-Exam_Engineering Mechanics(701ME0C026)_Semester II_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 2 | BTech Civil 7005 | ANS_Engineering Mechanics(702ME0C025)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Mechanical 7003 | ANS_Engineering Mechanics(702ME0C025)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Mechatronics 7004 | ANS_Engineering Mechanics(702ME0C025)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Engineering Mechanics(701ME0C026)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 2 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | ANS_Engineering Mechanics(701ME0C026)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 2 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | ANS_Engineering Mechanics(701ME0C026)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_Re-Exam_Engineering Mechanics(701ME0C026)_Semester II_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 3, Sem 7 | B TECH / CIVIL, B TECH / MECHANICAL, B TECH / MECHATRONICS, B.TECH INTEGRATED / CIVIL, B.TECH INTEGRATED / MECHANICAL, MBA TECH / MECHANICAL | Engineering Mechanics Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | BTech Civil 7005 | QP_Engineering Mechanics(702ME0C025)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | DIPLOMA | Engineering Mechanics Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | QP_Engineering Mechanics(701ME0C026)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | QP_Engineering Mechanics(701ME0C026)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | QP_Final-Exam_Engineering Mechanics(701ME0C026)_Semester II_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | QP_Engineering Mechanics(701ME0C026)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 2 | BTech Civil 7005 | ANS_Engineering Mechanics(702ME0C025)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Engineering Mechanics(701ME0C026)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | ANS_Engineering Mechanics(701ME0C026)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | ANS_Final-Exam_Engineering Mechanics(701ME0C026)_Semester II_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_Engineering Mechanics(701ME0C026)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3, Sem 7 | B TECH / CIVIL, B TECH / MECHANICAL, B TECH / MECHATRONICS, B.TECH INTEGRATED / MECHANICAL, MBA TECH / MECHANICAL | Engineering Mechanics, Sem-III, Batch 2022-23, 2023-24 & 2024-25, Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | BTech Civil 7005 | QP_Engineering Mechanics(702ME0C025)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | QP_Engineering Mechanics(701ME0C026)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 2 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEERING - 7074 | QP_Re-Exam_Engineering Mechanics(701ME0C026)_Semester II_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 2 | BTech Civil 7005 | ANS_Engineering Mechanics(702ME0C025)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Engineering Mechanics(701ME0C026)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 2 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEERING - 7074 | ANS_Re-Exam_Engineering Mechanics(701ME0C026)_Semester II_2024-2025.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 2, Sem 6 | B TECH, B.TECH INTEGRATED / CIVIL | Eningeering Mechanics Batch 2023-24 Fianl batch 2021-22,2022-23 Re Exam.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 3 | B TECH / CIVIL, B TECH / MECHANICAL, B TECH / MECHATRONICS | Engineering Mechanics, Sem-III, Final Exam 2023-24 & Re Exam 2022-23.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 3 | B TECH / MECHANICAL, MBA TECH / MECHANICAL | Engineering Mechanics ,Final 2023-24,Re-exam 2022-23.pdf |

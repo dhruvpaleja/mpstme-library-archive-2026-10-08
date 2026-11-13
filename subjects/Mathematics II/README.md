@@ -1,6 +1,6 @@
 # Mathematics II
 
-**52** unique papers (56 copies across programmes) · 2014-15 to 2025-26 · 6 programmes · Sem 2
+**56** unique papers (60 copies across programmes) · 2014-15 to 2025-26 · 7 programmes · Sem 2
 
 Download only this subject, sorted by academic year:
 
@@ -14,18 +14,22 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | QP_Final-Exam_Mathematics-II(701BS0C030)_Semester II_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | QP_Mathematics-II(701BS0C030)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | QP_Mathematics-II(701BS0C030)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | QP_Mathematics-II(701BS0C030)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Final-Exam_Mathematics-II(701BS0C030)_Semester II_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEE | ANS_Mathematics-II(701BS0C030)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | ANS_Mathematics-II(701BS0C030)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_Mathematics-II(701BS0C030)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 2 | DIPLOMA | Mathematics II Batch 2024-25,2025-26 Re Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | DIPLOMA | Mathematics II Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | QP_Mathematics-II(701BS0C030)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEERING - 7074 | QP_Final-Exam_Mathematics-II(701BS0C030)_Semester II_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | QP_Mathematics-II(701BS0C030)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 2 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | QP_Mathematics-II(701BS0C030)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | ANS_Mathematics-II(701BS0C030)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN COMPUTER SCIENCE AND ENGINEERING - 7074 | ANS_Final-Exam_Mathematics-II(701BS0C030)_Semester II_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN INFORMATION TECHNOLOGY - 7075 | ANS_Mathematics-II(701BS0C030)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 2 | DIPLOMA IN MECHANICAL ENGINEERING - 7072 | ANS_Mathematics-II(701BS0C030)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | DIPLOMA IN COMPUTER ENGINEERING - 7073 | QP_Mathematics-II(701BS0C030)_2024-2025.pdf |

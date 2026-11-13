@@ -2,6 +2,170 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 1 · Answer key · paper fda13fb196ce
+
+- Departments: Commerce
+- Programmes: MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703/Operations Research/ANS_Final-Exam_Operations Research(NKOPR509)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 07 Nov 2025
+- Text: mixed (5 pages), mean OCR confidence 57.9
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: M.Com (BM)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Operations Research
+Date: 07 Nov 2025   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 5 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use of simple calculator is allowed.
+1.   10
+Page 1 of 5
+--- page 2 ---
+== - 2. i =
+t= Pa 2
+je | CS aes
+= A br ee
+a = [_ ae of =
+
+J man = eer =
++ ee Oe no ok alienate
+ae >
+TA fetes o
+[= ye om <7 =
+_S {Fz | > a
+c aa a
+a wet Gq
+A— ie => : =!
+say 4
+cy
+
+Min CS 104-5
+was = @+ 2 sutraact Ss
+
+: = (4M)
+
+Page 2 of 5
+--- page 3 ---
+9) Or |W
+
+2
+(S] Aa]
+E: Pa nm cal
+ce |, bIAW A
+- : e)
+D 6 Ot |
+uy
+
+=(UK2S) £(3KA0) + (HWS)
+“+ (oxs) + [oxs)
+
+= Spadfa sit
+
+(4M)
+
+Page 3 of 5
+
+10
+--- page 4 ---
+\ A 68 C dD €/ cen Mint: see
+\ 1a 8 AO ee Oe
+‘dg go wy @ 4 i6| | @ fo} 8 —
+Ba + 1B 10 1+ |
+ies 1-68
+5 4 th
+
+ao 15
+
+2M
+Reet MINWALSATION *
+
+a Gale BE sage acne #5
+14 2 4 BI we, doa ne._mid - 00° oF Ung -
+> | Ww |B a 6 min =4 :
+
+
+y 4 2 9 9 5 \_ io (5) ws
+S12 gt 6 & |2 (H)10 $ 0
+
+Pon _ Min im(S ATION) 3 @® 382 YY 2
+As Aer eet SE = y % \ Oe 5
+Ll $3 2 «04 12"0 5 (5 5 ~p BD) \ | »
+
+20 16 way
+3-6) iy Bee Y
+y 3 0'6 5 | 2m
+
+5 ite. (eg eraeoeal
+
+3. Answer the following:
+
+Solution using algebraic method
+Herea=1.b= -0.5.c= -0.5,d=0
+
+d-c 0+0.5 05
+
+Pi=Gsa-(be) ()-(-05-05) 171°
+
+py = 1 +p, =1- 0.25 = 0.75
+
+_ d-b _ 0+05 _ 05
+11~ (a+d-(b+0) (1)-(-05-05) 141
+
+=0.25
+
+Qo = 1-qy = 1- 0.25 = 0.75
+
+__ard-b-c (1 *0)-(-05% -0.5) 0-025
+= Grad-(bt0 (05-08) 141
+
+= -0125
+
+Page 4 of 5
+--- page 5 ---
+. Resource Allocation
+* Optimizing use of manpower, machines, materials, and money
+* Example: Allocating budget among different departments to maximize
+output
+. Production Management
+* Production scheduling, inventory control, quality control
+* Example: Determining optimal batch sizes or production sequences
+. Inventory Management
+* Economic order quantity (EOQ), safety stock, reorder levels
+* Example: Minimizing inventory costs while avoiding stockouts
+
+4 Transportation and Logistics
+
+* Shortest route, vehicle scheduling, cargo loading
++ Example: Reducing transportation cost for supply chain routes
+. Project Management
+* Critical Path Method (CPM), Program Evaluation Review Technique
+(PERT)
++ Example: Planning large construction or software development projects.
+. Queuing and Service Systems
+* Analysing waiting lines in banks, hospitals, call centres
+* Example: Deciding number of service counters needed
+. Decision Analysis
+* Evaluating alternative decisions under risk and uncertainty
+* Example: Launching a new product or expanding to a new market
+. Game Theory
+* Strategic decision-making in competitive environments
++ Example: Pricing strategies between competing companies
+. Simulation
+* Testing and analysing systems that are too complex to model directly
+* Example: Simulating customer flow in a supermarket. (5M)
+
+Page 5 of 5
+````
+
 ## 2025-26 · Final-Exam · Sem 5 · Answer key · paper 464490a48c8b
 
 - Departments: Computer Engineering

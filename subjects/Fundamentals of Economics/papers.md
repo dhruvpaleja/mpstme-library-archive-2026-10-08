@@ -1,6 +1,6 @@
 # Fundamentals of Economics: question papers in full
 
-7 unique papers · 2021-22 to 2025-26 · Common (all branches), Computer Science and Business Systems
+9 unique papers · 2021-22 to 2025-26 · Common (all branches), Computer Science and Business Systems
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -132,6 +132,64 @@ CO:-1&3, BL-Analyze   a. Why do companies in an oligopoly often follow price cha
 competitors?
 CO:-2&3, BL- Evaluate   b. What is the role of the central government in an economy?   10
 ********** 2 **********
+````
+
+## 2024-25 · Re-Exam · Sem 2 · paper 20ac618495d5
+
+- Departments: Computer Science and Business Systems
+- Programmes: BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE AND BUSINESS SYSTEMS) - 7036
+- Source: `00_Original_Downloads/2024/Semester II/69329__Re-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE AND BUSINESS SYSTEMS) - 7036/Fundamentals of Economics/QP_Re-Exam_Fundamentals of Economics(702TG0C004)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2025
+- Text: mixed (2 pages), mean OCR confidence 89.1
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE AND BUSINESS
+SYSTEMS)
+Year: I/Sem 2 Re-exam(Exam Year: 2024-2025)
+Subject: Fundamentals of Economics
+Date: 10 Jul 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Q.1 is compulsory
+5. Out of Q.2, attempt any 4 questions
+6. All questions carry equal marks
+7. Assume suitable data if necessary
+********** 1 **********
+--- page 2 ---
+co:-1, a) | How does an increase in income affect the budget constraint and consumer 10
+BL-Apply equilibrium
+
+CO:-283, b) | How does an expansionary monetary policy affect money supply? 10
+BL- Analysis
+
+Q.4 20
+CO:-18&3, a) | If a consumer prefers coffee over tea, how wil their indifference curvelook | 10
+BL- Apply in graphs comparing coffee and tea consumption?
+
+CO:-2&3, b) | How does unemployment change during different phases of the business 10
+BL-Evaluate cycle?
+
+Qs 20
+CO:-1&3, a) | Ifa firm experiences diminishing marginal returns, What happens to its 10
+BL- Evaluate marginal cost curve?
+
+CO:-2, b) | How does an increase in government spending affect the IS-LM 10
+BL- Apply equilibrium?
+
+Q.6 20
+CO:-1&3, a) | Why do firms in Monopolistic competition engage in product 10
+BL- Analyze differentiation?
+
+CO:-2&3, b) | How does technological advancement impact voluntary and involuntary 10
+BL-Evaluate unemployment?
+
+FIC 2 I HH ar
 ````
 
 ## 2022-23 · Final + Re-Exam · Sem 2 · paper 639d5044a7f9

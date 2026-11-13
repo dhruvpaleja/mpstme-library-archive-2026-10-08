@@ -2,6 +2,587 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 04c02c45541b
+
+- Departments: AI and Data Science
+- Programmes: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE) - 7056
+- Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE) - 7056/Data Wrangling/ANS_Final-Exam_Data Wrangling(702DB0C036)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
+- Text: text (11 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND DATA
+SCIENCE)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Data Wrangling
+Date: 08 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 11 pages.
+2. Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+3. Question No. 1 is compulsory
+4. Out of remaining questions, attempt any 4 questions.
+5. In all 5 questions to be attempted
+6. All questions carry equal marks
+7. Answer to each new question to be started on a fresh page
+8. Figures in brackets on the right hand side indicate full marks
+9. Assume Suitable data if necessary
+Q.1a   Explain descriptive question and inferential question with suitable example in context   5
+CO1   to data science?
+BL2
+Understa
+nd
+Descriptive question -2.5 marks
+Inferential question – 2.5 marks
+A descriptive question focuses on summarizing and describing the existing
+characteristics of a dataset. It answers questions such as what happened or what is
+happening in the data. Descriptive analysis uses statistical measures like mean,
+median, frequency distribution, and percentages to summarize data.
+Example:
+A retail company may ask:
+“What was the average monthly sales in 2024?”
+The analysis will summarize historical sales data to describe overall performance.
+Inferential Question
+An inferential question uses sample data to make predictions or generalizations about
+a larger population. Inferential analysis applies statistical methods such as hypothesis
+testing, confidence intervals, and regression analysis.
+Example:
+“Based on a sample of customers, can we infer that increasing advertising will
+increase sales for the entire market?”
+Here, the analyst uses sample data to draw conclusions about a broader population.
+Q.1b   A company records advertising expenditure (X) and sales revenue (Y) as follows:   5
+CO2   (10, 50), (15, 55), (20, 60), (25, 62), (30, 68)
+BL2   Draw a scatter plot for the above data and interpret the pattern observed and explain
+Understa   the relationship between the variables
+nd
+Scatter plot-2 marks
+********** 1 **********
+--- page 2 ---
+Interpretation -3 marks
+When the given data points are plotted, the points show an upward trend from left to
+right.
+Interpretation
+As advertising expenditure increases, sales revenue also increases.
+The points follow an upward pattern, indicating a positive relationship between the
+variables. The points are not perfectly aligned but still show a clear upward direction.
+Conclusion
+Thus, the scatter plot suggests a moderate positive correlation between advertising
+expenditure and sales revenue. Increasing advertising expenditure tends to increase
+sales.
+Q.1c   Differentiate between OLTP and OLAP system?   5
+CO5
+BL2
+Understa
+nd
+5 differences- 5 marks
+OLTP systems are designed to manage day-to-day business transactions efficiently,
+such as banking transactions or order processing.
+OLAP systems are designed to analyze large volumes of historical data to support
+strategic decision-making, such as sales trend analysis or forecasting.
+Basis   OLTP   OLAP
+Online Transaction
+Meaning   Online Analytical Processing
+Processing
+Handles daily   Used for analytical processing
+Purpose
+operational transactions and decision making
+Data Type Current operational data Historical and aggregated data
+Insert, update, delete
+Operations   Complex queries and analysis
+transactions
+Clerks, customers,   Managers, analysts, decision
+Users
+operational staff   makers
+Q.1d   Explain any two characteristics of data warehouse?   5
+CO4
+BL2
+Understa
+nd
+Any two characteristics -2.5*2=5 marks
+One of the most important characteristics of a Data Warehouse is that it is subject-
+oriented. This means that data in a Data Warehouse is organized around major
+business subjects rather than around individual applications. In operational systems,
+data is usually organized based on specific processes such as order processing,
+payroll, or inventory management. However, in a Data Warehouse, data is grouped by
+subjects such as customers, products, sales, or finance. This subject-oriented
+organization helps analysts study business behavior and performance more effectively,
+because data related to a single subject is stored together, even if it originally came
+from multiple systems. Another defining characteristic of a Data Warehouse is
+********** 2 **********
+--- page 3 ---
+integration. Organizations typically use many different systems that may store data in
+different formats, units, or naming conventions. For example, one system may store
+gender as “M” and “F”, while another stores it as “Male” and “Female”. A Data
+Warehouse resolves these inconsistencies during data integration. All incoming data is
+transformed into a consistent format before being stored. This ensures that when users
+analyze data, they are working with a unified and reliable version of information
+across the entire organization. A Data Warehouse is also time-variant in nature.
+Unlike operational systems that store only current data, a Data Warehouse maintains
+historical data over long periods, often several years. Each data record is associated
+with a time dimension, such as date, month, quarter, or year. This time-stamped data
+allows analysts to perform trend analysis, compare performance over different time
+periods, and make forecasts. Without time-variant data, it would be impossible to
+understand how a business is evolving. The final key characteristic of a Data
+Warehouse is that it is non-volatile. Once data is loaded into the warehouse, it is not
+frequently updated or deleted. Instead, new data is periodically added in batches. This
+stability ensures that analytical results remain consistent over time. Because data does
+not change frequently, users can trust that reports generated today will match reports
+generated tomorrow for the same time period.
+Q.2a   Explain the lifecycle of Data Science and describe how it can be applied to the use   1
+CO1   case of student placement prediction in an educational institution.   0
+BL3
+Apply
+Component   Marks
+Explanation of Data Science lifecycle concept with diagram 2
+Discovery phase applied to placement prediction   2
+Data preparation activities   2
+Model planning and model building   2
+Operationalization and communication of results   2
+Total   10
+The Data Science Lifecycle consists of multiple phases that guide the development of
+data-driven solutions. These phases include Discovery, Data Preparation, Model
+Planning, Model Building, Operationalization, and Communication of Results.
+In the Discovery Phase, the problem is clearly defined from a real-world perspective.
+In the case of student placement prediction, the objective is to identify students who are
+likely to get placed so that institutions can provide better guidance and training.
+Stakeholders and Data Scientists work together to determine objectives, available
+resources, and expected outcomes.
+In the Data Preparation Phase, data related to students is collected and cleaned. This
+data may include academic records, attendance, and performance indicators. The data
+may contain missing values, duplicate records, or inconsistent formats, which must be
+corrected. Data is cleaned, transformed, and converted into a suitable format so that it
+can be used effectively for modeling.
+In the Model Planning Phase, the problem is identified as a classification problem,
+where the system predicts whether a student will be placed or not. Suitable algorithms
+and evaluation metrics are selected to guide the model-building process.
+********** 3 **********
+--- page 4 ---
+During the Model Building Phase, the dataset is divided into training and testing sets.
+The model learns patterns between student attributes and placement outcomes using
+training data. The trained model is then tested on unseen data to evaluate its
+performance, and parameter tuning may be performed to improve accuracy.
+In the Operationalization Phase, the model is integrated into institutional systems where
+it can predict placement outcomes using live data. This helps administrators identify
+students who may need additional training.
+Finally, in the Communication Phase, the results are presented to faculty members and
+administrators through reports or dashboards so that they can take appropriate actions
+to improve student placement outcomes.
+Q.2b   The marks of students are: 55, 57, 56, 58, 60, 59, 95. Detect the outlier using both Z-   1
+CO2   score (consider population data) and IQR methods.   0
+BL3
+Apply
+Step   Marks
+Mean calculation   2
+Standard deviation calculation   2
+Z-score calculation for all values   2
+Q1, Q3 and IQR calculation   2
+Identification of outlier using both methods 2
+Mean=62.86
+Standard deviation =13.22
+Z-scores
+Value Z-score
+55   -0.59
+57   -0.44
+56   -0.52
+58   -0.37
+60   -0.22
+59   -0.29
+95   2.43
+No Z-score outlier.
+IQR
+Sorted
+55, 56, 57, 58, 59, 60, 95
+Q1 = 56
+Q3 = 60
+IQR = 4
+Upper bound = 66
+95 is an outlier.
+Q.3a   What are Label Encoding and One-Hot Encoding techniques in machine learning   1
+CO2   preprocessing? A dataset contains a column “Vehicle Type” with categories Car, Bus,   0
+BL3   Motorcycle, Bicycle, and Truck. Explain the methods and perform both Label
+Apply   Encoding and One-Hot Encoding.
+Explanation of Label Encoding – 2 marks
+Explanation of One-Hot Encoding – 2 marks
+Correct Label Encoding mapping – 3 marks
+Correct One-Hot Encoding columns – 3 marks
+********** 4 **********
+--- page 5 ---
+Label Encoding:
+Label Encoding converts categorical values into numeric labels, where each category
+is assigned a unique integer.
+One-Hot Encoding:
+One-Hot Encoding converts each category into a separate binary column indicating
+presence (1) or absence (0).
+Label Encoding
+Bicycle → 0
+Bus → 1
+Car → 2
+Motorcycle → 3
+Truck → 4
+One-Hot Encoding
+Vehicle_Bicycle
+Vehicle_Bus
+Vehicle_Car
+Vehicle_Motorcycle
+Vehicle_Truck
+Each column contains 1 if the record belongs to that category otherwise 0. (Must be shown
+in tabular format)
+Q.3b   Explain Max-Abs Scaling and Robust Scaling. A column named “Monthly Product   1
+CO2   Sales” contains seven values: 40, 55, 70, 65, 90, 60 and 50. Apply Max-Abs Scaling   0
+BL3   and Robust Scaling to this data.
+Apply
+Explanation of Robust Scaling and formula – 3 marks
+Explanation of Max-Abs Scaling and formula– 3 marks
+Robust scaling calculations – 2 marks
+Max-Abs scaling calculations – 2 marks
+1. Max-Abs Scaling : Max-Abs Scaling divides every value by the maximum absolute
+value, scaling data to the range [-1,1].
+x' = {x} / { |x_{max}| }
+Maximum value = 90
+Scaled values
+40 → 0.44
+55 → 0.61
+70 → 0.78
+65 → 0.72
+90 → 1
+60 → 0.67
+50 → 0.56
+2. Robust Scaling Robust Scaling uses the median and interquartile range (IQR) to
+scale the data, making it less sensitive to outliers.
+x' = x - x_{median} /{IQR}
+Sorted values
+40, 50, 55, 60, 65, 70, 90
+Median = 60
+Q1 = 50
+Q3 = 70
+IQR = 20
+********** 5 **********
+--- page 6 ---
+Scaled values
+40 → -1
+55 → -0.25
+70 → 0.50
+65 → 0.25
+90 → 1.50
+60 → 0
+50 → -0.50
+Q.4a   Write the code and corresponding output for each of the following:   1
+CO3   i) Create a NumPy array using arange() from 50 to 53 (included).   0
+BL3   ii) Convert the array into 2 × 2 matrix.
+Apply   iii) Print the matrix size.
+iv) Print the number of dimensions of matrix.
+v) Extract the last row of 2 × 2 matrix.
+Part   Marks
+i   2
+ii   2
+iii   2
+iv   2
+v   2
+import numpy as np
+arr = np.arange(50,54)
+matrix = arr.reshape(2,2)
+print(matrix.size)
+print(matrix.ndim)
+print(matrix[1, : : ])
+Array
+[50 51 52 53]
+Matrix
+[[50 51]
+[52 53]]
+Size = 4
+Dimensions = 2
+Slice [52 53]
+Q.4b   Create two 3 × 3 NumPy arrays.   1
+CO3   Array A contains 2, 4, 6; 8, 10, 12; 14, 16, 18.   0
+BL3   Array B contains 1, 3, 5; 7, 9, 11; 13, 15, 17.
+Apply   Using nested for loops, perform following and show the output:
+a) Element-wise subtraction (Array A - Array B)
+b) Element-wise division (Array A/Array B)
+Creating two arrays – 2 marks
+Correct nested loop structure – 2 marks
+Element-wise subtraction logic – 3 marks
+Element-wise divison logic – 3 marks
+import numpy as np
+A = np.array([[2,4,6],
+[8,10,12],
+[14,16,18]])
+B = np.array([[1,3,5],
+[7,9,11],
+[13,15,17]])
+********** 6 **********
+--- page 7 ---
+sub = np.zeros((3,3))
+div = np.zeros((3,3))
+for i in range(3):
+for j in range(3):
+sub[i][j] = A[i][j] - B[i][j]
+div[i][j] = A[i][j] / B[i][j]
+print(sub)
+print(div)
+Subtraction
+[[1 1 1]
+[1 1 1]
+[1 1 1]]
+Division (approx)
+[[2.00 1.33 1.20]
+[1.14 1.11 1.09]
+[1.08 1.07 1.06]]
+Q.5a   Create a DataFrame employee_df with columns: Employee_ID, Salary, Experience, 1
+CO3   Gender, Department   0
+BL3   The rows are:
+Apply   Rows:
+Row1: 201, 50000, 3, Male, HR
+Row2: 202, Salary missing, 5, Female, Finance
+Row3: 203, 60000, Experience missing, Male, IT
+Row4: 204, 55000, 4, Female, Marketing
+Row5: 205, 52000, 2, Male, IT
+Perform the following with appropriate code:
+i) Create the DataFrame
+ii) Select Employee_ID, Salary, Department (without loc/iloc)
+iii) Write code to check sum of missing values in each column
+iv) Replace missing values using mean of the respective column.
+Part   Marks
+i   4
+ii   2
+iii   2
+iv   2
+import pandas as pd
+import numpy as np
+data = {
+"Employee_ID":[201,202,203,204,205],
+"Salary":[50000,np.nan,60000,55000,52000],
+"Experience":[3,5,np.nan,4,2],
+"Gender":["Male","Female","Male","Female","Male"],
+"Department":["HR","Finance","IT","Marketing","IT"]
+}
+employee_df = pd.DataFrame(data)
+print(employee_df[["Employee_ID","Salary","Department"]])
+print(employee_df.isnull().sum())
+employee_df["Salary"].fillna(employee_df["Salary"].mean(), inplace=True)
+employee_df["Experience"].fillna(employee_df["Experience"].mean(), inplace=True)
+print(employee_df)
+********** 7 **********
+--- page 8 ---
+Q.5b   Given DataFrame employee_df   1
+CO3   Emp_ID Salary Experience Gender Department   0
+BL3   0   201 50000   3   Male   HR
+Apply   1   202 60000   5   Female Finance
+2   203 55000   4   Male   IT
+3   204 65000   6   Female HR
+4   205 52000   2   Male   IT
+5   206 58000   4   Female Finance
+6   207 62000   5   Male   HR
+i) What will be output of print(employee_df.head(4))
+ii) What will be output of employee_df.iloc[1:4,1:3]
+iii) Write query where Salary > 55000 OR Department = IT. Also write the output.
+iv) Write code to Sort dataframe by Salary and show output.
+v)Write   code   to   rename   columns   using   rename   function   for:
+Emp_ID → EmployeeID, Salary → Income, Experience → Exp.
+Part   Marks
+i   1
+ii   2
+iii   3
+iv   2
+v   2
+i) Output
+Emp_ID Salary Experience Gender Department
+0   201 50000   3 Male   HR
+1   202 60000   5 Female Finance
+2   203 55000   4 Male   IT
+3   204 65000   6 Female   HR
+ii) Output
+Salary Experience
+1 60000   5
+2 55000   4
+3 65000   6
+iii) Query
+employee_df[(employee_df["Salary"]>55000) | (employee_df["Department"]=="IT")]
+Output
+Emp_ID Salary Experience Gender Department
+1   202 60000   5 Female Finance
+2   203 55000   4 Male   IT
+3   204 65000   6 Female   HR
+4   205 52000   2 Male   IT
+5   206 58000   4 Female Finance
+6   207 62000   5 Male   HR
+iv) Code
+employee_df.sort_values(by="Salary")
+Emp_ID Salary Experience Gender Department
+0   201 50000   3 Male   HR
+4   205 52000   2 Male   IT
+2   203 55000   4 Male   IT
+********** 8 **********
+--- page 9 ---
+5   206 58000   4 Female   Finance
+1   202 60000   5 Female   Finance
+6   207 62000   5 Male   HR
+3   204 65000   6 Female HR
+v) Code
+employee_df.rename(columns={"Emp_ID":"EmployeeID","Salary":"Income","Experi
+ence":"Exp"}, inplace=True)
+Q.6a   Explain the concept of OLAP systems and their role in analytical processing.   1
+CO4   0
+BL2
+Understa
+nd
+Definition of OLAP – 2
+Characteristics – 4
+Role in analysis and example – 4
+OLAP (Online Analytical Processing) refers to systems designed to support complex
+data analysis rather than routine transaction processing. These systems are mainly
+used by managers, analysts, and decision-makers to analyze large volumes of
+historical data.
+Unlike OLTP systems, which focus on frequent updates and transaction processing,
+OLAP systems focus on reading large amounts of data and performing complex
+queries. These queries often involve aggregations, summaries, comparisons, and trend
+analysis across different dimensions such as time, location, and product category.
+OLAP systems usually operate on data stored in data warehouses. The data warehouse
+stores integrated historical data collected from multiple operational systems.
+For example, business analysts may use OLAP systems to analyze sales performance
+across different regions over several years. This type of analysis requires scanning
+large datasets and performing complex calculations, which OLAP systems are
+designed to handle efficiently.
+Thus, OLAP systems play a crucial role in business intelligence and strategic decision-
+making.
+Q.6b   Explain all the stages of the ETL process.   1
+CO5   0
+BL2
+Understa
+nd
+Extraction-3
+Transformation-4
+Loading-3
+Extraction is the first stage of the ETL process. It involves identifying and retrieving
+data from various source systems so that it can be processed further and loaded into
+the data warehouse. Source systems may include operational databases, enterprise
+applications, flat files, spreadsheets, or external data feeds. These systems are
+designed for operational tasks rather than analytical purposes, so their data structures
+may differ significantly. Extraction can be performed in two ways: full extraction and
+incremental extraction. Full extraction retrieves all available data from the source
+system, while incremental extraction retrieves only new or modified records since the
+previous extraction. Incremental extraction is commonly used because it reduces
+processing time and system load.
+Transformation is the second stage of the ETL process and is considered the most
+complex stage. In this stage, extracted data is converted into a consistent and analysis-
+ready format before being loaded into the data warehouse. Major transformation
+activities include:
+********** 9 **********
+--- page 10 ---
+• Data cleaning – removing duplicates, correcting invalid entries, and handling
+missing values.
+• Data integration – combining data from different systems into a unified structure.
+• Data standardization – converting data into consistent formats such as common date
+formats or currencies.
+• Aggregation – summarizing detailed transactional data into higher-level metrics such
+as monthly or yearly totals.
+These transformations ensure that the data warehouse contains reliable and consistent
+information suitable for analytical processing.
+Loading is the final stage of the ETL process in which transformed data is stored in the
+data warehouse. The goal of this stage is to ensure that cleaned and integrated data is
+placed correctly into warehouse tables for analytical use. Loading may occur in batch
+mode or near real-time mode, depending on business requirements. In batch loading,
+large volumes of data are loaded periodically, such as daily or weekly. In real-time
+loading, data is updated continuously or at very short intervals. During loading, data is
+inserted into fact tables and dimension tables according to the warehouse schema such
+as star schema or snowflake schema. Indexes and constraints may also be applied to
+improve query performance and maintain data integrity.
+Q.7a   What is meant by data quality tool. Explain data profiling and data validation for data 1
+CO5   quality tool functions.   0
+BL2
+Understa
+nd
+Data Quality tool functions – 2
+Data profiling – 4
+Data validation – 4
+A data quality tool is not a single cleaning program. Instead, it is a comprehensive
+software system designed to analyze, control, improve, and continuously monitor the
+quality of data used in analytics, reporting, and data science projects. These tools are
+widely used in industries such as banking, healthcare, e-commerce, telecom, and
+government systems. Data Profiling Data profiling is the starting point of all data
+quality activities. Technically, data profiling means examining the structure and actual
+content of data before making any changes to it. At this stage, the tool scans each
+column of the dataset to understand what kind of values exist, how frequently they
+appear, and whether they follow expected patterns. For example, if we consider a
+student database, data profiling may reveal that the “Age” column contains values like
+18, 19, 20, but also values such as 3 or 150. It may also show that some records have
+missing roll numbers or that names appear in different formats. Importantly, profiling
+does not correct anything; it only provides visibility into hidden data problems.
+Without profiling, organizations work blindly.
+Data Validation Once data behavior is understood, the next function is data validation.
+Data validation checks whether data conforms to predefined rules. These rules are based
+on business logic and domain constraints. For instance, in an academic system,
+validation rules ensure that internal marks do not exceed the maximum limit, dates of
+admission are not in the future, and semester numbers fall within a valid range. If a
+record violates a rule, it is flagged as invalid. Validation acts as a quality gate,
+preventing incorrect data from flowing into downstream systems such as data
+warehouses or analytics platforms.
+Q.7b   Explain the concept of unit testing and system testing in data warehouse?   1
+CO4   0
+BL2
+Understa
+nd
+Unit testing -5
+********** 10 **********
+--- page 11 ---
+System testing -5
+Data warehouse testing is performed at four progressive levels, where each level
+checks correctness from a different perspective. These levels move from small
+isolated components to complete business validation, ensuring reliability at every
+stage. The first level is Unit Testing, where individual components such as ETL jobs,
+transformations, and calculations are tested independently. The goal here is to ensure
+that each small piece of logic works exactly as intended before it interacts with
+anything else. The second level is Integration Testing, where we verify that different
+components of the data warehouse work correctly together. This includes checking
+data flow from source systems to staging areas and finally into warehouse tables.
+Unit testing in data warehousing refers to the process of verifying individual data
+warehouse components in isolation. These components typically include ETL jobs,
+data transformations, calculations, constraints, and validation rules. At this stage, we
+do not test the entire data flow. Instead, we focus on one transformation or one rule at
+a time, ensuring it produces the correct output for a given input. This approach helps
+identify errors at an early stage, when they are easier and cheaper to fix. For example,
+if an ETL job converts sales amounts from dollars to rupees, unit testing ensures that
+the conversion formula is mathematically correct and consistently applied. Key Focus
+Areas One major focus area of unit testing is data transformations. In a data
+warehouse, raw data is rarely used directly. It is transformed according to business
+rules-for example, categorizing customers as “Premium” or “Regular” based on
+purchase value. Unit testing ensures that these rules are implemented correctly and
+consistently. Another important focus area is calculations. Data warehouses store
+derived metrics such as total revenue, average order value, profit margin, and growth
+percentage. Unit testing verifies the accuracy of these calculations so that reports do
+not show misleading numbers. Unit testing also checks data types and formats. This
+ensures that date fields, numeric fields, and string fields are stored in the correct
+format. For instance, a date should not be stored as text, and numeric fields should not
+contain invalid characters. Finally, constraints and validation rules are tested. This
+includes checks such as primary key uniqueness, non null constraints, and referential
+integrity. These validations prevent incorrect or incomplete data from entering the
+warehouse.
+System testing is performed to evaluate the complete data warehouse system as a
+whole. It ensures that the entire system meets the specified requirements and functions
+correctly under realistic conditions.
+During system testing, all components such as data extraction, transformation, loading
+processes, databases, and reporting tools are tested together. The goal is to ensure that
+the entire workflow operates smoothly.
+System testing verifies several aspects, including data accuracy, query performance,
+and system reliability. For example, testers may run complex analytical queries to
+confirm that the system produces correct results within acceptable response times.
+Another important aspect of system testing is identifying performance bottlenecks.
+Since data warehouses process large volumes of data, system testing ensures that the
+system can handle expected workloads.
+Thus, system testing ensures that the data warehouse operates effectively as a
+complete system.
+A real-world example of an online shopping company like Amazon or Flipkart. Data
+is coming from customer orders, payment systems, delivery partners, and inventory
+databases. System testing checks whether a customer’s order placed today is correctly
+reflected in sales dashboards, inventory reports, revenue summaries, and management
+analytics - from start to finish, without any breaks or inconsistencies.
+********** 11 **********
+````
+
 ## 2025-26 · Final-Exam · Sem 3 · Answer key · paper ccbae41db91f
 
 - Departments: AI and Data Science
@@ -392,7 +973,7 @@ into the data warehouse.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CSE_DS_7057/Data Wrangling/ANS_Data Wrangling(702DB0C036)_2025-2026.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100
 - Text: mixed (23 pages), mean OCR confidence 47.5
-- 94 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 92 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -671,6 +1252,7 @@ Labeled diagram (2 marks)
 10
 --- page 11 ---
 OF A dodo Wworehouse
+fig Dako Wavekouse Ach ee UA
 
 g
 
@@ -1051,6 +1633,7 @@ Very ‘ . Oa the infosmatren os O14
 
 Closses depending Upon how fost Dre deta   @-
 Osvrives Gcto Ub | ty
+Claw E:- Lt totes a foo niflliseconds fox he et
 cata to sou Un ODS. The tm elapsed & Cf
 transparent te the Users. Arpplicadren — Applteal ur o-
 Coss T:- Tt takes Seenal hours fov the data

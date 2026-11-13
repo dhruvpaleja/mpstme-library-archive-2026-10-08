@@ -1,6 +1,6 @@
 # Electromagnetic Wave Theory
 
-**8** unique papers (9 copies across programmes) · 2021-22 to 2024-25 · 2 programmes · Sem 4
+**10** unique papers (11 copies across programmes) · 2021-22 to 2024-25 · 3 programmes · Sem 4
 
 Download only this subject, sorted by academic year:
 
@@ -16,6 +16,8 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | --- | --- | --- | --- | --- | --- |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / EXTC | Electromagnetic Wave Theory, Sem IV, Final Exam 2024-25 & Re Exam 2023-24.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 4 | B TECH / EXTC | B Tech, Elecromagnetic Wave Theory, Sem-IV, Batch 2024-25, Re Exam.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 4 | BACHELOR OF TECHNOLOGY (ELECTRONICS & TELECOMMUNICATION ENGINEERING) - 7006 | QP_Re-Exam_Electromagnetic Wave Theory(702EX0C011)_Semester IV_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 4 | BACHELOR OF TECHNOLOGY (ELECTRONICS & TELECOMMUNICATION ENGINEERING) - 7006 | ANS_Re-Exam_Electromagnetic Wave Theory(702EX0C011)_Semester IV_2024-2025.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 4 | B TECH / EXTC | Electromagnetic Wave Theory, Sem-IV, Final Exam 2023-24 & Re Exam Batch 2021-22, 2022-23.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 4 | B TECH / EXTC | Electromagnetic Wave Theory, Sem-IV, Year 2022-23, Re Exam & Re Exam.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 4 | B TECH / EXTC, MBA TECH / TELECOM EXTC | Electromagnetic Wave Theory,Re-exam 2021-22,2022-23.pdf |

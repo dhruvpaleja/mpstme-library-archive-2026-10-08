@@ -1,6 +1,6 @@
 # Digital Logic Design: question papers in full
 
-122 unique papers · 2010-11 to 2025-26 · Information Technology, Computer Engineering, Electronics and Telecommunication, Cyber Security, Mechatronics, Common (all branches), Chemical
+123 unique papers · 2010-11 to 2025-26 · Information Technology, Computer Engineering, Electronics and Telecommunication, Cyber Security, Mechatronics, Common (all branches), Chemical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1969,6 +1969,135 @@ BL-4
 oO
 
 313.
+````
+
+## 2024-25 · Re-Exam · Sem 7 · paper d76bff6626c9
+
+- Departments: Information Technology
+- Programmes: B.TECH INTEGRATED / IT
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: IT/SEMESTER VII/Digital Logic Design/Digital_Logic_Design_Batch_2022-23_2023-24_2024-25_Re_Ex0001_STzvQICf7p.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 85.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+on
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025 :
+Program/s: B Tech /MBA Tech/ B Tech Integrated Year: ling/Semester:1/Vi
+Stream/s : B Tech (EXTC/ Mechatronics/ Computer/ Information
+Technology / CSE -Cyber Security) MBA Tech (Information Technology/
+
+Computer) B Tech Integrated (Computer / Information Technology)
+
+Subject: Digital Logic Design Time: 3 hrs (0:¢eamto 1300 pm)
+Date:_17 / 2 /2024 No. of Pages: 3
+Marks: 100
+
+Re-Examination (Re-exam 2022-23, 2023-24)/24-25
+
+Instructions: Candidates should read carefully the instructions s printed on the question Paper and on the cover
+
+of the Answer Book, which is provided for their use.
+
+ey
+
+1) Question No. _1__ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1 -
+Q Answer briefly: [20]
+a. | Solve
+(i) Convert (1011.011)2 to decimal. |
+eel $O-1; (ii) Give the Binary Code for the Gray Number (11001101)
+BL- 1
+(iii) ADD (11101)2 with (11011)2 ul
+(iv) Subtract (00101110)2 from (11100101)2 using 2's complement method. [2]
+oe $O-1; |b. | Design a Half Adder. [5]
+-5-¢9.9. | ¢ | Simplify the given function using K Maps
+“a F(A, B, C,D) = TIM(4,5,6,7,8,12).d(1,2,3,9,11,14) [5]
+C0 -3:$0-2: d. | Define Shift registers. Illustrate with necessary block diagrams, the types of
+BLa/2 Shift Registers. [5]
+Q@ a. | Define Universal Gates. Implement the basic NOT and OR gates using
+{10]
+CO-1; SO-1; NAND and NOR universal gate.
+
+1/3
+--- page 2 ---
+BL-1
+
+Q2
+C0-1; S0-1: Design a Binary to Gray Code converter. [10]
+BL-6
+Q3 Design an Octal to Binary encoder circuit using logic s mbol, truth table and
+ary § logic sy!
+CO-2; SO-2; implementation diagram. [10]
+BL-6
+Q3 . : . .
+Design and explain the operation of a 4 bit Bi-Directional Shift Register.
+CO-3; SO-2; i
+*| Pa Ser Mention its application. {10]
+BL-5/6
+Construct the equation in the canonical SOP form for the given K Map.
+Simplify the equation and implement the same.
+Q4
+CO-1; SO-1; [10]
+BL-3
+Q4 List the advantages and limitations of using VHDL.
+C0-4; S0-2; Construct the VHDL codes for implementing a Half Adder [10]
+BL-1/3
+Q5 Build the given function using a single 8:1 MUX mE
+BL-3
+Q5 . . .
+Develop a JK Flip Flop using SR Flip Flop.
+CO-3; SO-2; [10]
+BL-3
+Q6 ;
+C0-4; 0-2; List and explain with suitable examples the Modeling styles used in VHDL. [10]
+BL- 1,2
+Q6 Compare Asynchronous and Synchronous Counters. Design a MOD 10 Ripple
+Counter. [10]
+CO-3; SO-2;
+
+2|3
+--- page 3 ---
+on
+
+BL-4/6
+
+Design a circuit for the given functions using suitable decoder.
+
+Q7 = 5m (0,4,7) +d 2,3)
+
+CO-2; SO-2; F, = Ym (1,5,6) [5]
+BL-6 Fi = ym (0,2,4,6)
+
+o State and Prove De Morgan’s Theorem. Show the implementation using
+
+CO-1; SO-1; Gates. 5]
+BL-5
+
+Q7 Construct T Flip Flop using suitable gates. Give the Present state/Next state
+CO-3; SO-2; table, excitation table and its characteristic equation. [5]
+BL-3
+
+Q7 Simplify the given expression using Boolean laws and implement using gates.
+
+CO-1; SO-1; F=x’y’2’ + x’yzt+xy’z’?+xyz’., [5]
+BL-4
+
+3|3
 ````
 
 ## 2024-25 · Re-Exam · Sem 3 · paper 66655f045f4a

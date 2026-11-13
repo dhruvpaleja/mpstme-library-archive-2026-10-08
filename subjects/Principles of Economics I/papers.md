@@ -1,6 +1,6 @@
 # Principles of Economics I: question papers in full
 
-10 unique papers · 2021-22 to 2024-25 · Common (all branches), Data Science
+12 unique papers · 2021-22 to 2024-25 · Common (all branches), Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -139,6 +139,162 @@ III.   Elaborate on how does the emergence of a black market contradict the
 purpose of the price ceiling?
 b. Discuss different functions of commercial banking
 ********** 3 **********
+````
+
+## 2024-25 · Re-Exam · Sem 2 · paper 62890e36de5b
+
+- Departments: Data Science
+- Programmes: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE) - 7011
+- Source: `00_Original_Downloads/2024/Semester II/69329__Re-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE) - 7011/Principles of Economics -I/QP_Re-Exam_Principles of Economics -I(702TG0C006)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 Jul 2025
+- Text: mixed (4 pages), mean OCR confidence 37.8
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND
+ENGINEERING (DATA SCIENCE)
+Year: I/Sem 2 Re-exam(Exam Year: 2024-2025)
+Subject: Principles of Economics -I
+Date: 07 Jul 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Draw Diagram wherever necessary
+Q1
+Answer briefly:   [20]
+CO- 1; SO-2;   a. Elaborate on Liberalization, Privatization and Globalization.   [5]
+BL-2
+CO- 1; SO-2;   b. Discuss the concept of Multiplier.   [5]
+BL-2
+CO- 1; SO-2;   c. Elucidate meaning and importance of demand forecasting   [5]
+BL-2
+d. Explain different government policies to promote Foreign Direct
+CO- 1; SO-2;   [5]
+BL-2   Investment (FDI) in India.
+I.   Show in a diagram the effect on the demand curve, the supply
+curve, the equilibrium price, and the equilibrium quantity of
+each of the following events.
+II.   The market for newspapers in your town
+Case 1: The salaries of journalists go up.
+Case 2: There is a big news event in your town, which is reported in
+the news papers
+Q2   III.   The market for St. Louis Rams cotton T-shirts
+CO-2;   Case 1: The Rams win the Super Bowl.   [20]
+SO-2;   Case 2: The price of cotton increases.
+BL2-   IV.   The market for bagels
+Case 1: People realize how fattening bagels are.
+Case 2: People have less time to make themselves a cooked
+breakfast
+b. A recent government report highlights a steady rise in household incomes
+due to economic growth. As a result, families are spending more on goods and
+services, while also saving a portion of their earnings. However, the report also
+********** 1 **********
+--- page 2 ---
+notes that lower-income households tend to spend a larger fraction of their
+income, whereas higher-income households allocate more towards savings.
+At the same time, an economic slowdown in the following year leads to
+uncertainty, causing consumers to reduce their spending and increase
+precautionary savings. Businesses experience lower sales, which further affects
+economic growth.
+I.   What is the consumption function, and how does it relate to income
+levels?
+II.   Explain the concepts of Marginal Propensity to Consume (MPC)
+and Marginal Propensity to Save (MPS) in the context of the case
+study.
+III.   Analyze why do lower-income households spend a greater
+proportion of their income compared to higher-income households?
+a. Illustrate with the help of diagram the law of diminishing marginal utility.
+b. XYZ Corporation, a manufacturing firm, is planning to expand its production
+capacity. The company’s decision depends on several economic factors,
+including interest rates, business confidence, and expected future demand.
+Initially, the central bank lowers interest rates, making borrowing cheaper. This
+encourages XYZ Corporation to invest in new machinery and infrastructure.
+Q3   However, a year later, due to global economic uncertainty, business confidence
+declines, leading the company to reconsider its investment plans despite low
+CO-2;   [20]
+interest rates. Additionally, a rise in production costs and uncertainty about
+SO-2;
+future consumer demand further discourage XYZ’s expansion plans.
+BL-2-
+I.   Define investment function. Analyse how do economic factors
+influence business investment decisions?
+II.   Despite lower interest rates, discuss why did declining business
+confidence affect XYZ’s investment decisions.
+a. A firm uses labor as a variable input while keeping capital fixed. The
+following table shows the total product (TP) when different units of
+labor are employed.
+Labor (Units) Total Product (TP)
+1   10
+Q4   2   24
+CO-3;   3   39
+[20]
+SO-2;   4   48
+BL 3, 4   5   50
+1. Calculate the Marginal Product (MP) for each additional unit of labour.
+2. Identify the three stages of the Law of Variable Proportions from the
+data.
+3. Explain why the MP starts declining after a certain point.
+********** 2 **********
+--- page 3 ---
+b. Discuss 3-sector circular flow of national income with the help of
+diagram.
+a. A firm produces a product using labor and capital. The following table
+shows the firm’s cost structure at different output levels.
+Output   Total Fixed Cost   Total Variable cost
+0   150   0
+1   150   70
+2   150   130
+Q5   3   150   180
+CO-3;   4   150   220
+SO-2;   I.   Define and Calculate Total cost (TC), Average cost (AC),   [20]
+BL3,4   Average fixed cost (AFC) and Average Variable cost (AVC)
+and Marginal cost (MC)
+II.   Differentiate between Economic cost and accounting cost.
+III.   Analyze how do cost structures differ in the short run and
+long run?
+b. Discuss different measures used by RBI to control Inflation.
+a. ABC Power Ltd. is the only electricity provider in a city. Due to high
+infrastructure costs and government regulations, no other company can
+enter the market. Since there are no competitors, ABC Power Ltd. has
+full control over electricity prices.Recently, customers have complained
+about high electricity bills and poor service quality, but they have no
+alternative suppliers. The government is considering regulating
+Q6
+electricity prices or allowing competition in the sector.
+CO-4;   [20]
+SO-2;   I.   Discuss why is ABC Power Ltd. considered a monopoly?
+BL3,4   Analyse what are the key characteristics of a monopoly in this
+case?
+II.   Discuss the case of super-normal profit for ABC power Ltd.
+b. Discuss different types of inflation. Elaborate on fiscal measures to
+control inflation.
+a. The government of Country X sets a price floor on wheat to protect
+farmers from low market prices. The minimum price is fixed above the
+equilibrium price, ensuring that farmers receive a fair income. Initially,
+farmers benefit from higher prices. However, as a result, wheat supply
+increases, but consumer demand decreases because of the higher price.
+This leads to a surplus of wheat in the market, with unsold stocks piling
+Q7
+up. The government then has to purchase excess wheat to prevent losses
+CO-4;   for farmers.   [20]
+SO-2;
+BL-3,4-   I.   Define price floor. Discuss why did the government implement price
+floor in this case?
+II.   Analyse how can the government manage the excess wheat
+production? Suggest two possible solutions.
+b. Discuss Comparative cost advantage theory of international trade.
+********** 3 **********
+--- page 4 ---
+FIC 7) IC HOH
 ````
 
 ## 2023-24 · Final + Re-Exam · Sem 2 · paper 0f291a168b38

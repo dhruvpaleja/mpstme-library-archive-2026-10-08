@@ -1,8 +1,661 @@
 # Communication Skills I: question papers in full
 
-4 unique papers · 2024-25 to 2024-25 · Data Science
+24 unique papers · 2024-25 to 2025-26 · Commerce, B.Sc Information Technology, Data Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 1 · paper cde60a728343
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Economics) - 45616
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce (Economics) - 45616/Communication Skills I/QP_Final-Exam_Communication Skills I(NFENG110)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 08 Oct 2025
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Communication Skills I
+Date: 08 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use fictitious names wherever necessary
+1.   Answer the following - (Attempt Any 1 Question)   10
+a.   Define Body language and explain it's role in the process of communication with suitable   10
+examples.
+b.   Define physical barriers to communication. Explain various measures to overcome   10
+different kinds of barriers to communication.
+2. Draft a job application letter and resume in response to the following job advertisement -.   10
+FinSight Analytics Pvt. Ltd. is recruiting Junior Data Analysts to support consulting projects.
+Key tasks include analyzing business datasets, preparing dashboards and data visualizations,
+assisting in predictive modeling, and supporting senior analysts in client reporting. Applicants
+must hold a degree in Economics & Analytics, be proficient in Python, Tableau, and Excel,
+and possess strong numerical and problem-solving skills. Draft the Job application and
+Resume for the given post . (5+5)
+3.   Answer the following questions -   10
+a.   5
+CASE STUDY
+Page 1 of 2
+--- page 2 ---
+Mr. Thomas Berger, President of EduTech Solutions in Germany, visited GlobalEd Institute in
+Chennai to present his Learning Management System model. His 40-minute talk was delivered
+in a German accent. Additionally, he used PowerPoint slides with bullet points, charts, and
+diagrams. After the session, the principal director suggested customising the model for the
+Indian context. Berger welcomed the idea, and they agreed to collaborate on integrating both
+models.
+Analyse how the effective use of non-verbal communication contributed to the success of the
+presentation in this situation.
+b.   5
+Edit the following to reflect appropriate Email etiquette.
+A project manager sends the following email to her team regarding tasks for an upcoming
+client presentation –
+From: anita.kapoor@nextgenprojects.com
+Subject: Stuff we gotta do b4 meeting lol
+Hey guys,
+We’ve got that client thing coming up nxt week and we all gotta prep asap. Pls chk the ppt,
+make sure all the graphs r there, marketing ppl gotta add smth about budget, ops team needs to
+update stuff abt delivery, and design guys shud polish up the template. Idk if we hv enough
+time but let’s just try to finish somehow.
+Thx,
+Anita
+Briefly analyse the violation of email etiquettes in the given situation and rewrite the email in
+a professional manner.
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 1 · paper 989992c905bf
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Management and Finance) - 45615
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce (Management and Finance) - 45615/Communication Skills I/QP_Final-Exam_Communication Skills I(NEENG111)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 08 Oct 2025
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Communication Skills I
+Date: 08 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use fictitious names wherever necessary
+1.   Answer the following - (Attempt Any 1 Question)   10
+a.   Define Body language and explain it's role in the process of communication with suitable   10
+examples.
+b.   Define physical barriers to communication. Explain various measures to overcome   10
+different kinds of barriers to communication.
+2. Draft a job application letter and resume in response to the following job advertisement -.   10
+FinSight Analytics Pvt. Ltd. is recruiting Junior Data Analysts to support consulting projects.
+Key tasks include analyzing business datasets, preparing dashboards and data visualizations,
+assisting in predictive modeling, and supporting senior analysts in client reporting. Applicants
+must hold a degree in Economics & Analytics, be proficient in Python, Tableau, and Excel,
+and possess strong numerical and problem-solving skills. Draft the Job application and
+Resume for the given post . (5+5)
+3.   Answer the following questions -   10
+a.   5
+CASE STUDY
+Page 1 of 2
+--- page 2 ---
+Mr. Thomas Berger, President of EduTech Solutions in Germany, visited GlobalEd Institute in
+Chennai to present his Learning Management System model. His 40-minute talk was delivered
+in a German accent. Additionally, he used PowerPoint slides with bullet points, charts, and
+diagrams. After the session, the principal director suggested customising the model for the
+Indian context. Berger welcomed the idea, and they agreed to collaborate on integrating both
+models.
+Analyse how the effective use of non-verbal communication contributed to the success of the
+presentation in this situation.
+b.   5
+Edit the following to reflect appropriate Email etiquette.
+A project manager sends the following email to her team regarding tasks for an upcoming
+client presentation –
+From: anita.kapoor@nextgenprojects.com
+Subject: Stuff we gotta do b4 meeting lol
+Hey guys,
+We’ve got that client thing coming up nxt week and we all gotta prep asap. Pls chk the ppt,
+make sure all the graphs r there, marketing ppl gotta add smth about budget, ops team needs to
+update stuff abt delivery, and design guys shud polish up the template. Idk if we hv enough
+time but let’s just try to finish somehow.
+Thx,
+Anita
+Briefly analyse the violation of email etiquettes in the given situation and rewrite the email in
+a professional manner.
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 1 · paper fb298226c0e8
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce - 45611
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce - 45611/Communication Skills I/QP_Final-Exam_Communication Skills I(NAENG110)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 08 Oct 2025
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Commerce/Bachelor of Commerce(Accounting and Finance)/Bachelor of
+Commerce (Economics)/Bachelor of Commerce(Economics & Analytics)/Bachelor of Commerce
+(Financial Markets)/Bachelor of Commerce (Management and Finance)/Bachelor of Science
+(Information Technology)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Communication Skills I
+Date: 08 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use fictitious names wherever necessary
+1.   Answer the following - (Attempt Any 1 Question)   10
+a.   Define Body language and explain it's role in the process of communication with suitable   10
+examples.
+b.   Define physical barriers to communication. Explain various measures to overcome   10
+different kinds of barriers to communication.
+2. Draft a job application letter and resume in response to the following job advertisement -.   10
+FinSight Analytics Pvt. Ltd. is recruiting Junior Data Analysts to support consulting projects.
+Key tasks include analyzing business datasets, preparing dashboards and data visualizations,
+assisting in predictive modeling, and supporting senior analysts in client reporting. Applicants
+must hold a degree in Economics & Analytics, be proficient in Python, Tableau, and Excel,
+and possess strong numerical and problem-solving skills. Draft the Job application and
+Resume for the given post . (5+5)
+3.   Answer the following questions -   10
+a.   5
+CASE STUDY
+Page 1 of 2
+--- page 2 ---
+Mr. Thomas Berger, President of EduTech Solutions in Germany, visited GlobalEd Institute in
+Chennai to present his Learning Management System model. His 40-minute talk was delivered
+in a German accent. Additionally, he used PowerPoint slides with bullet points, charts, and
+diagrams. After the session, the principal director suggested customising the model for the
+Indian context. Berger welcomed the idea, and they agreed to collaborate on integrating both
+models.
+Analyse how the effective use of non-verbal communication contributed to the success of the
+presentation in this situation.
+b.   5
+Edit the following to reflect appropriate Email etiquette.
+A project manager sends the following email to her team regarding tasks for an upcoming
+client presentation –
+From: anita.kapoor@nextgenprojects.com
+Subject: Stuff we gotta do b4 meeting lol
+Hey guys,
+We’ve got that client thing coming up nxt week and we all gotta prep asap. Pls chk the ppt,
+make sure all the graphs r there, marketing ppl gotta add smth about budget, ops team needs to
+update stuff abt delivery, and design guys shud polish up the template. Idk if we hv enough
+time but let’s just try to finish somehow.
+Thx,
+Anita
+Briefly analyse the violation of email etiquettes in the given situation and rewrite the email in
+a professional manner.
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 1 · paper 51f79e7fa501
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce(Economics & Analytics) - 45617
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce(Economics & Analytics) - 45617/Communication Skills I/QP_Final-Exam_Communication Skills I(NGENG109)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 08 Oct 2025
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Communication Skills I
+Date: 08 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use fictitious names wherever necessary
+1.   Answer the following - (Attempt Any 1 Question)   10
+a.   Define Body language and explain it's role in the process of communication with suitable   10
+examples.
+b.   Define physical barriers to communication. Explain various measures to overcome   10
+different kinds of barriers to communication.
+2. Draft a job application letter and resume in response to the following job advertisement -.   10
+FinSight Analytics Pvt. Ltd. is recruiting Junior Data Analysts to support consulting projects.
+Key tasks include analyzing business datasets, preparing dashboards and data visualizations,
+assisting in predictive modeling, and supporting senior analysts in client reporting. Applicants
+must hold a degree in Economics & Analytics, be proficient in Python, Tableau, and Excel,
+and possess strong numerical and problem-solving skills. Draft the Job application and
+Resume for the given post . (5+5)
+3.   Answer the following questions -   10
+a.   5
+CASE STUDY
+Page 1 of 2
+--- page 2 ---
+Mr. Thomas Berger, President of EduTech Solutions in Germany, visited GlobalEd Institute in
+Chennai to present his Learning Management System model. His 40-minute talk was delivered
+in a German accent. Additionally, he used PowerPoint slides with bullet points, charts, and
+diagrams. After the session, the principal director suggested customising the model for the
+Indian context. Berger welcomed the idea, and they agreed to collaborate on integrating both
+models.
+Analyse how the effective use of non-verbal communication contributed to the success of the
+presentation in this situation.
+b.   5
+Edit the following to reflect appropriate Email etiquette.
+A project manager sends the following email to her team regarding tasks for an upcoming
+client presentation –
+From: anita.kapoor@nextgenprojects.com
+Subject: Stuff we gotta do b4 meeting lol
+Hey guys,
+We’ve got that client thing coming up nxt week and we all gotta prep asap. Pls chk the ppt,
+make sure all the graphs r there, marketing ppl gotta add smth about budget, ops team needs to
+update stuff abt delivery, and design guys shud polish up the template. Idk if we hv enough
+time but let’s just try to finish somehow.
+Thx,
+Anita
+Briefly analyse the violation of email etiquettes in the given situation and rewrite the email in
+a professional manner.
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 1 · paper 9a14784632aa
+
+- Departments: B.Sc Information Technology
+- Programmes: Bachelor of Science (Information Technology) - 45618
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Science (Information Technology) - 45618/Communication Skills I/QP_Final-Exam_Communication Skills I(NHENG110)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 08 Oct 2025
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Communication Skills I
+Date: 08 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use fictitious names wherever necessary
+1.   Answer the following - (Attempt Any 1 Question)   10
+a.   Define Body language and explain it's role in the process of communication with suitable   10
+examples.
+b.   Define physical barriers to communication. Explain various measures to overcome   10
+different kinds of barriers to communication.
+2. Draft a job application letter and resume in response to the following job advertisement -.   10
+FinSight Analytics Pvt. Ltd. is recruiting Junior Data Analysts to support consulting projects.
+Key tasks include analyzing business datasets, preparing dashboards and data visualizations,
+assisting in predictive modeling, and supporting senior analysts in client reporting. Applicants
+must hold a degree in Economics & Analytics, be proficient in Python, Tableau, and Excel,
+and possess strong numerical and problem-solving skills. Draft the Job application and
+Resume for the given post . (5+5)
+3.   Answer the following questions -   10
+a.   5
+CASE STUDY
+Page 1 of 2
+--- page 2 ---
+Mr. Thomas Berger, President of EduTech Solutions in Germany, visited GlobalEd Institute in
+Chennai to present his Learning Management System model. His 40-minute talk was delivered
+in a German accent. Additionally, he used PowerPoint slides with bullet points, charts, and
+diagrams. After the session, the principal director suggested customising the model for the
+Indian context. Berger welcomed the idea, and they agreed to collaborate on integrating both
+models.
+Analyse how the effective use of non-verbal communication contributed to the success of the
+presentation in this situation.
+b.   5
+Edit the following to reflect appropriate Email etiquette.
+A project manager sends the following email to her team regarding tasks for an upcoming
+client presentation –
+From: anita.kapoor@nextgenprojects.com
+Subject: Stuff we gotta do b4 meeting lol
+Hey guys,
+We’ve got that client thing coming up nxt week and we all gotta prep asap. Pls chk the ppt,
+make sure all the graphs r there, marketing ppl gotta add smth about budget, ops team needs to
+update stuff abt delivery, and design guys shud polish up the template. Idk if we hv enough
+time but let’s just try to finish somehow.
+Thx,
+Anita
+Briefly analyse the violation of email etiquettes in the given situation and rewrite the email in
+a professional manner.
+Page 2 of 2
+````
+
+## 2025-26 · Re-Exam · Sem 1 · paper e8fe4d261680
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Economics) - 45616
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Commerce (Economics) - 45616/Communication Skills I/QP_Re-Exam_Communication Skills I(NFENG110)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 17 Jan 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Communication Skills I
+Date: 17 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use fictitious names wherever necessary
+1.   Answer the following - (Attempt Any 1 Question)   10
+a.   List various modes of oral and written communication used in a professional workplace.   10
+Discuss how globalization has influenced communication needs in the present times. Explain
+the importance of communication in corporate decision-making.
+b.   Differentiate between hearing and listening with suitable examples. Write a note on the   10
+importance of active listening in workplace communication.
+2. Draft a job application letter and resume in response to the following job advertisement -.   10
+Deloitte Consulting is recruiting Business Analyst Associates. The responsibilities involve
+analyzing client data, preparing reports and presentations, participating in case study problem-
+solving, and supporting process optimization. Applicants should hold a bachelor's degree in
+commerce or a related discipline, demonstrate critical thinking and teamwork skills, and be
+proficient in Excel, SQL, and data visualization tools. Draft the Job application and Resume
+for the given post. (5+5)
+3.   Answer the following questions -   10
+a.   5
+CASE STUDY
+Page 1 of 2
+--- page 2 ---
+Ramesh Verma, the MD of Zenith Motors, organised informal meetings with the engineers and
+mid-level managers of the company. Participants were encouraged to share their thoughts on
+improving the company’s operations and sales. When dealership managers hesitated to speak
+up, he asked them to submit their suggestions in writing. He implemented relevant suggestions.
+Eventually, the company’s operational performance and growth increased. Also, employees
+and dealers felt that their inputs were valued.
+Analyse the situation as a case demonstrating the positive role of effective listening in
+workplace contexts.
+b.   5
+Edit the following to reflect appropriate Email etiquette.
+The coordinator of a staff training program sent an email to the HR associate of
+MarketingMania, a digital marketing company. The purpose of the email was to invite
+volunteers for a training program. The HR associate sent the following reply to the
+coordinator’s email -
+From: hr_associate@marketingmania.com
+To: allstaff@marketingmania.com
+Subject: Invitation for Training Program
+Hi,
+Ya I can.
+Thanks,
+Briefly analyse the violation of email etiquettes in the given situation and rewrite the email in
+a professional manner.
+Page 2 of 2
+````
+
+## 2025-26 · Re-Exam · Sem 1 · paper 368f93f80ed1
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Management and Finance) - 45615
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Commerce (Management and Finance) - 45615/Communication Skills I/QP_Re-Exam_Communication Skills I(NEENG111)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 17 Jan 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Communication Skills I
+Date: 17 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use fictitious names wherever necessary
+1.   Answer the following - (Attempt Any 1 Question)   10
+a.   List various modes of oral and written communication used in a professional workplace.   10
+Discuss how globalization has influenced communication needs in the present times. Explain
+the importance of communication in corporate decision-making.
+b.   Differentiate between hearing and listening with suitable examples. Write a note on the   10
+importance of active listening in workplace communication.
+2. Draft a job application letter and resume in response to the following job advertisement -.   10
+Deloitte Consulting is recruiting Business Analyst Associates. The responsibilities involve
+analyzing client data, preparing reports and presentations, participating in case study problem-
+solving, and supporting process optimization. Applicants should hold a bachelor's degree in
+commerce or a related discipline, demonstrate critical thinking and teamwork skills, and be
+proficient in Excel, SQL, and data visualization tools. Draft the Job application and Resume
+for the given post. (5+5)
+3.   Answer the following questions -   10
+a.   5
+CASE STUDY
+Page 1 of 2
+--- page 2 ---
+Ramesh Verma, the MD of Zenith Motors, organised informal meetings with the engineers and
+mid-level managers of the company. Participants were encouraged to share their thoughts on
+improving the company’s operations and sales. When dealership managers hesitated to speak
+up, he asked them to submit their suggestions in writing. He implemented relevant suggestions.
+Eventually, the company’s operational performance and growth increased. Also, employees
+and dealers felt that their inputs were valued.
+Analyse the situation as a case demonstrating the positive role of effective listening in
+workplace contexts.
+b.   5
+Edit the following to reflect appropriate Email etiquette.
+The coordinator of a staff training program sent an email to the HR associate of
+MarketingMania, a digital marketing company. The purpose of the email was to invite
+volunteers for a training program. The HR associate sent the following reply to the
+coordinator’s email -
+From: hr_associate@marketingmania.com
+To: allstaff@marketingmania.com
+Subject: Invitation for Training Program
+Hi,
+Ya I can.
+Thanks,
+Briefly analyse the violation of email etiquettes in the given situation and rewrite the email in
+a professional manner.
+Page 2 of 2
+````
+
+## 2025-26 · Re-Exam · Sem 1 · paper 48699b9c8142
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce - 45611
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Commerce - 45611/Communication Skills I/QP_Re-Exam_Communication Skills I(NAENG110)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 17 Jan 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Communication Skills I
+Date: 17 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use fictitious names wherever necessary
+1.   Answer the following - (Attempt Any 1 Question)   10
+a.   List various modes of oral and written communication used in a professional workplace.   10
+Discuss how globalization has influenced communication needs in the present times. Explain
+the importance of communication in corporate decision-making.
+b.   Differentiate between hearing and listening with suitable examples. Write a note on the   10
+importance of active listening in workplace communication.
+2. Draft a job application letter and resume in response to the following job advertisement -.   10
+Deloitte Consulting is recruiting Business Analyst Associates. The responsibilities involve
+analyzing client data, preparing reports and presentations, participating in case study problem-
+solving, and supporting process optimization. Applicants should hold a bachelor's degree in
+commerce or a related discipline, demonstrate critical thinking and teamwork skills, and be
+proficient in Excel, SQL, and data visualization tools. Draft the Job application and Resume
+for the given post. (5+5)
+3.   Answer the following questions -   10
+a.   5
+CASE STUDY
+Page 1 of 2
+--- page 2 ---
+Ramesh Verma, the MD of Zenith Motors, organised informal meetings with the engineers and
+mid-level managers of the company. Participants were encouraged to share their thoughts on
+improving the company’s operations and sales. When dealership managers hesitated to speak
+up, he asked them to submit their suggestions in writing. He implemented relevant suggestions.
+Eventually, the company’s operational performance and growth increased. Also, employees
+and dealers felt that their inputs were valued.
+Analyse the situation as a case demonstrating the positive role of effective listening in
+workplace contexts.
+b.   5
+Edit the following to reflect appropriate Email etiquette.
+The coordinator of a staff training program sent an email to the HR associate of
+MarketingMania, a digital marketing company. The purpose of the email was to invite
+volunteers for a training program. The HR associate sent the following reply to the
+coordinator’s email -
+From: hr_associate@marketingmania.com
+To: allstaff@marketingmania.com
+Subject: Invitation for Training Program
+Hi,
+Ya I can.
+Thanks,
+Briefly analyse the violation of email etiquettes in the given situation and rewrite the email in
+a professional manner.
+Page 2 of 2
+````
+
+## 2025-26 · Re-Exam · Sem 1 · paper 93e3bb7e384d
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce(Accounting and Finance) - 45613
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Commerce(Accounting and Finance) - 45613/Communication Skills I/QP_Re-Exam_Communication Skills I(NCENG109)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 17 Jan 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Communication Skills I
+Date: 17 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use fictitious names wherever necessary
+1.   Answer the following - (Attempt Any 1 Question)   10
+a.   List various modes of oral and written communication used in a professional workplace.   10
+Discuss how globalization has influenced communication needs in the present times. Explain
+the importance of communication in corporate decision-making.
+b.   Differentiate between hearing and listening with suitable examples. Write a note on the   10
+importance of active listening in workplace communication.
+2. Draft a job application letter and resume in response to the following job advertisement -.   10
+Deloitte Consulting is recruiting Business Analyst Associates. The responsibilities involve
+analyzing client data, preparing reports and presentations, participating in case study problem-
+solving, and supporting process optimization. Applicants should hold a bachelor's degree in
+commerce or a related discipline, demonstrate critical thinking and teamwork skills, and be
+proficient in Excel, SQL, and data visualization tools. Draft the Job application and Resume
+for the given post. (5+5)
+3.   Answer the following questions -   10
+a.   5
+CASE STUDY
+Page 1 of 2
+--- page 2 ---
+Ramesh Verma, the MD of Zenith Motors, organised informal meetings with the engineers and
+mid-level managers of the company. Participants were encouraged to share their thoughts on
+improving the company’s operations and sales. When dealership managers hesitated to speak
+up, he asked them to submit their suggestions in writing. He implemented relevant suggestions.
+Eventually, the company’s operational performance and growth increased. Also, employees
+and dealers felt that their inputs were valued.
+Analyse the situation as a case demonstrating the positive role of effective listening in
+workplace contexts.
+b.   5
+Edit the following to reflect appropriate Email etiquette.
+The coordinator of a staff training program sent an email to the HR associate of
+MarketingMania, a digital marketing company. The purpose of the email was to invite
+volunteers for a training program. The HR associate sent the following reply to the
+coordinator’s email -
+From: hr_associate@marketingmania.com
+To: allstaff@marketingmania.com
+Subject: Invitation for Training Program
+Hi,
+Ya I can.
+Thanks,
+Briefly analyse the violation of email etiquettes in the given situation and rewrite the email in
+a professional manner.
+Page 2 of 2
+````
+
+## 2025-26 · Re-Exam · Sem 1 · paper 2501efd59c10
+
+- Departments: B.Sc Information Technology
+- Programmes: Bachelor of Science (Information Technology) - 45618
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Science (Information Technology) - 45618/Communication Skills I/QP_Re-Exam_Communication Skills I(NHENG110)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 17 Jan 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Communication Skills I
+Date: 17 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Use fictitious names wherever necessary
+1.   Answer the following - (Attempt Any 1 Question)   10
+a.   List various modes of oral and written communication used in a professional workplace.   10
+Discuss how globalization has influenced communication needs in the present times. Explain
+the importance of communication in corporate decision-making.
+b.   Differentiate between hearing and listening with suitable examples. Write a note on the   10
+importance of active listening in workplace communication.
+2. Draft a job application letter and resume in response to the following job advertisement -.   10
+Deloitte Consulting is recruiting Business Analyst Associates. The responsibilities involve
+analyzing client data, preparing reports and presentations, participating in case study problem-
+solving, and supporting process optimization. Applicants should hold a bachelor's degree in
+commerce or a related discipline, demonstrate critical thinking and teamwork skills, and be
+proficient in Excel, SQL, and data visualization tools. Draft the Job application and Resume
+for the given post. (5+5)
+3.   Answer the following questions -   10
+a.   5
+CASE STUDY
+Page 1 of 2
+--- page 2 ---
+Ramesh Verma, the MD of Zenith Motors, organised informal meetings with the engineers and
+mid-level managers of the company. Participants were encouraged to share their thoughts on
+improving the company’s operations and sales. When dealership managers hesitated to speak
+up, he asked them to submit their suggestions in writing. He implemented relevant suggestions.
+Eventually, the company’s operational performance and growth increased. Also, employees
+and dealers felt that their inputs were valued.
+Analyse the situation as a case demonstrating the positive role of effective listening in
+workplace contexts.
+b.   5
+Edit the following to reflect appropriate Email etiquette.
+The coordinator of a staff training program sent an email to the HR associate of
+MarketingMania, a digital marketing company. The purpose of the email was to invite
+volunteers for a training program. The HR associate sent the following reply to the
+coordinator’s email -
+From: hr_associate@marketingmania.com
+To: allstaff@marketingmania.com
+Subject: Invitation for Training Program
+Hi,
+Ya I can.
+Thanks,
+Briefly analyse the violation of email etiquettes in the given situation and rewrite the email in
+a professional manner.
+Page 2 of 2
+````
 
 ## 2024-25 · Final-Exam · Sem 1 · paper 03242393d48d
 

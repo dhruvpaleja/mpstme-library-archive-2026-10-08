@@ -1,6 +1,6 @@
 # Introduction to Data Communication and Networks: question papers in full
 
-10 unique papers · 2023-24 to 2025-26 · Information Technology
+12 unique papers · 2023-24 to 2025-26 · Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -519,6 +519,77 @@ RRA RRR 2 RAR REE
 10
 
 10
+````
+
+## 2024-25 · Re-Exam · Sem 5 · paper 2c4cb5483b1d
+
+- Departments: Information Technology
+- Programmes: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037
+- Source: `00_Original_Downloads/2024/65247__Semester V__context_fixed.zip :: Re-Exam/BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037/Introduction to Data Communication and Networks/QP_Re-Exam_Introduction to Data Communication and Networks(701IT0C004)_Semester V_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 17 Feb 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX
+YEARS INTEGRATED PROGRAM
+Year: III/Sem 5 Re-exam(Exam Year: 2024-2025)
+Subject: Introduction to Data Communication and Networks
+Date: 17 Feb 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question 1 is compulsory.
+5. Answer any 4 of the remaining questions.
+Q1   Answer the following questions briefly:   [20]
+a. Explain the real-life applications of Local Area Networks (LAN) in brief.   5
+b. Discuss the benefits and drawbacks of 4G: The Era of Mobile Broadband.   5
+c. Compare the efficiency of data transmission in circuit switching versus message 5
+switching.
+d. Explain how scalability and reliability influence the design of network architectures.   5
+Q2   Answer the following questions.   [20]
+a.   “Satellite broadband a good alternative in rural areas despite being slower than DSL and 10
+cable” Justify the statement with proper reasoning.
+b. Evaluate the advantages and limitations of using wireless technologies in Personal Area
+10
+Networks (PAN). Include technologies like Bluetooth, NFC, and ZigBee in your
+discussion.
+Q3   Answer the following questions.   [20]
+a. A company currently using DSL internet wants to upgrade to a fibre-optic broadband 10
+connection to support high-speed data transfer for video conferencing and large file
+sharing. What are the specific benefits of fibre-optic broadband that make it a suitable
+choice for this scenario, and what potential drawbacks should the company consider?
+b. Explain the communication flow and functionality of databases in the 2G cellular 10
+networks.
+Q4   Answer the following questions.   [20]
+a.   Distinguish between NRZ-L and NRZ-I (any 5 points). Give the advantages and 10
+disadvantages of RZ.
+b. Discuss the concept of packet switching. Describe the potential drawbacks of using 10
+datagram packet switching in a network with high congestion.
+********** 1 **********
+--- page 2 ---
+Q5   Answer the following questions.   [20]
+a. A broadcasting company needs to transmit multiple television channels over a single 10
+cable connection. Which multiplexing technique (FDM, TDM, or WDM) would be the
+best fit for this requirement, and what are the challenges associated with implementing
+it in this scenario?
+b. Discuss why an organization might choose a hybrid topology over a bus or ring topology. 10
+Q6   Answer the following questions.   [20]
+a.   Discuss the different modes of data transmission with an example.   10
+b. A homeowner is interested in installing a smart security system that includes cameras, 10
+sensors, and automated alerts. What components are necessary for this IoT-based
+security system, and how do they communicate to provide real-time updates to the
+homeowner?
+Q7   Answer the following questions.   [20]
+a. Explain the client/server model function in electronic commerce. Give the advantages of 10
+electronic commerce.
+b. Explain why the TCP/IP model is more widely adopted than the OSI model in practical 10
+implementations.
+********** 2 **********
 ````
 
 ## 2023-24 · Final-Exam · paper 7cdce990d311

@@ -1,6 +1,6 @@
 # Corporate Finance
 
-**4** unique papers (6 copies across programmes) · 2007-08 to 2023-24 · 4 programmes · Sem 8, Trim 12
+**6** unique papers (8 copies across programmes) · 2007-08 to 2025-26 · 5 programmes · Sem 2, Sem 8, Trim 12
 
 Download only this subject, sorted by academic year:
 
@@ -14,6 +14,8 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703 | QP_Final-Exam_Corporate Finance (NKCOF552)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703 | ANS_Final-Exam_Corporate Finance (NKCOF552)_Semester II_2025-2026.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 8 | B TECH / COMPUTER | Corporate Finance, Sem-VIII, Final Exam 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 8 | B TECH / CSBS | Corporate Finance, Sem-VIII, A Y 2023-24, Re Exam.pdf |
 | 2007-08 | — | Question paper | Trim 12 | MBA TECH / I T, MBA TECH / MANUFACTURING | 2007-2008 I(6).pdf |

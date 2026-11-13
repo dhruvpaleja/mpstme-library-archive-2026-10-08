@@ -1,6 +1,6 @@
 # Data Structures and Algorithms: question papers in full
 
-200 unique papers · 2005-06 to 2025-26 · Information Technology, Data Science, Computer Engineering, Artificial Intelligence, Computer Applications (MCA), Common (all branches), Mechatronics, Electronics and Telecommunication, Computer Science and Business Systems, Cyber Security, AI and Data Science, AI and Machine Learning, Computer Science
+208 unique papers · 2005-06 to 2025-26 · Information Technology, Data Science, Computer Engineering, Artificial Intelligence, Computer Applications (MCA), Common (all branches), Mechatronics, Electronics and Telecommunication, Computer Science and Business Systems, Cyber Security, AI and Data Science, AI and Machine Learning, Computer Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -4403,6 +4403,224 @@ Page 4 of 4
 «
 ````
 
+## 2024-25 · Final-Exam · Sem 3 · paper 1c63f125a8f0
+
+- Departments: Artificial Intelligence
+- Programmes: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE) - 7012
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE) - 7012/Data Structures and Algorithms/QP_Final-Exam_Data Structures and Algorithms(702CO1C001)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27 Nov 2024
+- Text: text (4 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CE)/B. Tech (CS)/B. Tech
+(CSBS)/B. Tech (CSE - CS)/B. Tech - (CSEDS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech (IT)/B. Tech
+(MXTC)/MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (IT)
+Year: II/Semester III (Exam Year: 2024-2025)
+Subject: Data Structures and Algorithms
+Date: 27 Nov 2024   Time: 10:00 am - 01:00 pm (03:00 Hrs.)
+Max Marks: 100
+FINAL EXAMINATION(2024-2025)
+Instructions:
+1. This question paper contains 4 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question number 1 is compulsory
+5. Attempt any 4 questions out of remaining questions
+1.   This is a sample question group   20
+I. Discuss whether stack or queue or linked list is the appropriate data structure for determining   5
+the order in which elements are processed in each situation.
+1. Computer programs are submitted to the computer center for execution.
+2. Program A calls subprogram B which calls subprogram C and so on.
+3. Hospital bed allocation system to maintain the bed allotment.
+4. Tracking browser history where the most recent page needs to be revisited after pressing the
+back button.
+5. Implementing recursion
+II. Given an array of size 10 with 7 elements, demonstrate how you would insert a new element at   5
+index 3.
+III. Discuss any two ways to represent a graph in memory and explain their advantages and   5
+disadvantages.
+Page 1 of 4
+--- page 2 ---
+IV. Explain merge sort and apply it to sort the following dataset:39,9,81,45,90,27,72,18   5
+2.   This is a sample question group (Attempt Any 2 Questions)   80
+1.   This is a sample question group   20
+1. Write an algorithm to perform enqueue operation on a simple queue, also identify and   10
+draw a circular Queue position in below scenarios. Assume size of the Queue as 6.
+1.   Front ==Rear
+2.   Front==0 and Rear==size-1
+3.   Front==Rear+1
+4.   Front<Rear
+5.   Front==-1 and Rear==-1
+2. Given a Binary Search Tree (BST), write a function to print all the leaf nodes of a   10
+Binary Search Tree. Construct a Binary Search Tree using the data set [40, 50, 46,
+29,19, 45, 25, 46, 45, 16, 47, 33, 10, 34]. Apply this function to the constructed Binary
+Search Tree and illustrate the process.
+2.   This is a sample question group   20
+1. Write an algorithm to find a specific value in a single linked list and an algorithm to   10
+delete the last element of a single linked list.
+2.   10
+For the given graph, compute the minimum spanning tree(MST) using the Prims
+Algorithm with proper justification of the algorithmic steps. Calculate weight of MST.
+Write the steps for Prim's algorithm.
+Assume, a is arbitrary vertex to pick.
+Page 2 of 4
+--- page 3 ---
+3.   This is a sample question group   20
+1. Explain the method to represent a binary tree using arrays and linked lists with the help   10
+of suitable example. Describe the advantages and disadvantages of each representation
+method.
+2. Explain the concepts of linear probing and quadratic probing as collision resolution   10
+techniques in hashing with example.
+4.   This is a sample question group   20
+1. Construct a binary tree using the given pre-order and in-order traversals:   10
+Pre-order: 1, 2, 4, 8, 9, 10, 11, 5, 3, 6, 7
+In-order: 8, 4, 10, 9, 11, 2, 5, 1, 6, 3, 7
+After constructing the binary tree, determine the post-order traversal.
+Additionally, calculate the following properties of the constructed binary tree:
+1. The height of the tree.
+2. The depth of node ‘1’.
+3. The degree of the node with value ‘9’.
+Use step-by-step illustrations and explanations to justify your answers.
+2. Consider a simple queue and a circular queue, each with a size of 5. Perform the   10
+following operations in sequence on both types of queues.
+Enqueue(10), Enqueue(20), Enqueue(30), Dequeue(), Enqueue(40),
+Enqueue(50),,Enqueue(60), Dequeue(), Dequeue()
+For each operation, demonstrate how the queues will look after performing the
+operation. Illustrate the changes in the positions of the front and rear pointers for both
+the simple and circular queue.
+5.   This is a sample question group   20
+1. Write an algorithm for the merge sort. Using this algorithm, sort the elements of the   10
+following array: [38, 27, 43, 3, 9, 82, 10]. Provide a detailed explanation of the sorting
+process, including the steps taken.
+Page 3 of 4
+--- page 4 ---
+2. Write an algorithm to delete a node with given value in single link List.   5
+3.   5
+Compute and design the Breadth First Tree for the below mentioned graph. Vertex S can
+be considered as source vertex.
+6.   This is a sample question group   20
+1. Suggest a suitable data structure (stacks, queue) using linked list for implementing an   10
+"Undo" feature for a text editor. The editor should store the recent actions and allow the
+user to undo the last few actions. Justify why the chosen data structure is the most
+appropriate. For the selected data structure write an algorithm to represent action edit
+and action undo.
+2. Briefly explain any two real-world applications of data structures.   5
+3. Write an algorithm to check whether a string is palindrome or not using stack data   5
+structure.
+Page 4 of 4
+````
+
+## 2024-25 · Final-Exam · Sem 3 · paper 9b07448d0503
+
+- Departments: Computer Engineering
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Final-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047/Data Structures and Algorithms/QP_Final-Exam_Data Structures and Algorithms(702CO1C001)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27 Nov 2024
+- Text: text (4 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CE)/B. Tech (CS)/B. Tech
+(CSBS)/B. Tech (CSE - CS)/B. Tech - (CSEDS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech (IT)/B. Tech
+(MXTC)/MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (IT)
+Year: II/Semester III (Exam Year: 2024-2025)
+Subject: Data Structures and Algorithms
+Date: 27 Nov 2024   Time: 10:00 am - 01:00 pm (03:00 Hrs.)
+Max Marks: 100
+FINAL EXAMINATION(2024-2025)
+Instructions:
+1. This question paper contains 4 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question number 1 is compulsory
+5. Attempt any 4 questions out of remaining questions
+1.   This is a sample question group   20
+I. Discuss whether stack or queue or linked list is the appropriate data structure for determining   5
+the order in which elements are processed in each situation.
+1. Computer programs are submitted to the computer center for execution.
+2. Program A calls subprogram B which calls subprogram C and so on.
+3. Hospital bed allocation system to maintain the bed allotment.
+4. Tracking browser history where the most recent page needs to be revisited after pressing the
+back button.
+5. Implementing recursion
+II. Given an array of size 10 with 7 elements, demonstrate how you would insert a new element at   5
+index 3.
+III. Discuss any two ways to represent a graph in memory and explain their advantages and   5
+disadvantages.
+Page 1 of 4
+--- page 2 ---
+IV. Explain merge sort and apply it to sort the following dataset:39,9,81,45,90,27,72,18   5
+2.   This is a sample question group (Attempt Any 2 Questions)   80
+1.   This is a sample question group   20
+1. Write an algorithm to perform enqueue operation on a simple queue, also identify and   10
+draw a circular Queue position in below scenarios. Assume size of the Queue as 6.
+1.   Front ==Rear
+2.   Front==0 and Rear==size-1
+3.   Front==Rear+1
+4.   Front<Rear
+5.   Front==-1 and Rear==-1
+2. Given a Binary Search Tree (BST), write a function to print all the leaf nodes of a   10
+Binary Search Tree. Construct a Binary Search Tree using the data set [40, 50, 46,
+29,19, 45, 25, 46, 45, 16, 47, 33, 10, 34]. Apply this function to the constructed Binary
+Search Tree and illustrate the process.
+2.   This is a sample question group   20
+1. Write an algorithm to find a specific value in a single linked list and an algorithm to   10
+delete the last element of a single linked list.
+2.   10
+For the given graph, compute the minimum spanning tree(MST) using the Prims
+Algorithm with proper justification of the algorithmic steps. Calculate weight of MST.
+Write the steps for Prim's algorithm.
+Assume, a is arbitrary vertex to pick.
+Page 2 of 4
+--- page 3 ---
+3.   This is a sample question group   20
+1. Explain the method to represent a binary tree using arrays and linked lists with the help   10
+of suitable example. Describe the advantages and disadvantages of each representation
+method.
+2. Explain the concepts of linear probing and quadratic probing as collision resolution   10
+techniques in hashing with example.
+4.   This is a sample question group   20
+1. Construct a binary tree using the given pre-order and in-order traversals:   10
+Pre-order: 1, 2, 4, 8, 9, 10, 11, 5, 3, 6, 7
+In-order: 8, 4, 10, 9, 11, 2, 5, 1, 6, 3, 7
+After constructing the binary tree, determine the post-order traversal.
+Additionally, calculate the following properties of the constructed binary tree:
+1. The height of the tree.
+2. The depth of node ‘1’.
+3. The degree of the node with value ‘9’.
+Use step-by-step illustrations and explanations to justify your answers.
+2. Consider a simple queue and a circular queue, each with a size of 5. Perform the   10
+following operations in sequence on both types of queues.
+Enqueue(10), Enqueue(20), Enqueue(30), Dequeue(), Enqueue(40),
+Enqueue(50),,Enqueue(60), Dequeue(), Dequeue()
+For each operation, demonstrate how the queues will look after performing the
+operation. Illustrate the changes in the positions of the front and rear pointers for both
+the simple and circular queue.
+5.   This is a sample question group   20
+1. Write an algorithm for the merge sort. Using this algorithm, sort the elements of the   10
+following array: [38, 27, 43, 3, 9, 82, 10]. Provide a detailed explanation of the sorting
+process, including the steps taken.
+Page 3 of 4
+--- page 4 ---
+2. Write an algorithm to delete a node with given value in single link List.   5
+3.   5
+Compute and design the Breadth First Tree for the below mentioned graph. Vertex S can
+be considered as source vertex.
+6.   This is a sample question group   20
+1. Suggest a suitable data structure (stacks, queue) using linked list for implementing an   10
+"Undo" feature for a text editor. The editor should store the recent actions and allow the
+user to undo the last few actions. Justify why the chosen data structure is the most
+appropriate. For the selected data structure write an algorithm to represent action edit
+and action undo.
+2. Briefly explain any two real-world applications of data structures.   5
+3. Write an algorithm to check whether a string is palindrome or not using stack data   5
+structure.
+Page 4 of 4
+````
+
 ## 2024-25 · Final-Exam · Sem 1 · paper 7626d0548cb0
 
 - Departments: Computer Applications (MCA)
@@ -6176,6 +6394,182 @@ Az O WALD
 Onn OmmO.
 
 FIC 3 OIA
+````
+
+## 2024-25 · Re-Exam · Sem 3 · paper 3285d4608973
+
+- Departments: Computer Engineering
+- Programmes: BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) - 7002
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Re-Exam/BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) - 7002/Data Structures and Algorithms/QP_Re-Exam_Data Structures and Algorithms(702CO1C001)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 15 Feb 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CE)/B. Tech (CS)/B. Tech
+(CSBS)/B. Tech (CSE - CS)/B. Tech - (CSEDS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech (IT)/B. Tech
+(MXTC)/MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (IT)
+Year: II/Semester III (Exam Year: 2024-2025)
+Subject: Data Structures and Algorithms
+Date: 15 Feb 2025   Time: 10:00 am - 01:00 pm (03:00 Hrs.)
+Max Marks: 100
+RE EXAMINATION(2024-2025)
+Instructions:
+1. This question paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question number 1 is compulsory
+5. Attempt any 4 questions out of remaining questions
+1.   This is a sample question group   20
+I. Define Data structure. Write the importance of data structures.   5
+II. Using a stack data structure, write an algorithm for 1. Push and 2. Pop. Demonstrate your   5
+implementation with an example sequence of operations (push 10, push 20, push 30, pop, peek,
+Push 40) and show the stack's state after each step.
+III. Explain the concept of a Minimum Spanning Tree (MST) in an undirected, weighted graph.   5
+How does the MST differ from a general spanning tree? Additionally, describe the significance
+of MST in practical applications, providing one real-world example.
+IV.   5
+Explain Binary search to search element 4 in the given array [3,4,5,6,7,8,9].
+2.   This is a sample question group (Attempt Any 2 Questions)   80
+1.   This is a sample question group   20
+1. Explain the concept of a priority queue and how it differs from a regular queue.   10
+Page 1 of 3
+--- page 2 ---
+Explain real life scenario where each can be used. Explain concept of ascending
+priority queue and descending priority queue.
+2. Given a Binary Tree, write a function to count the number of nodes in the tree.   10
+Construct a Binary Tree using the data set [27,40,26,49,29,29,28,38,32,45,31,50].
+Apply this function to the constructed Binary Tree and illustrate the process.
+2.   This is a sample question group   20
+1. Write an algorithm and compare the time complexity for inserting a node at the   10
+beginning and end of a link list with algorithm. Justify which has less time complexity.
+2. For the given graph, you must traverse all the vertex with minimum cost. Is it possible?   10
+Which algorithm can be considered for traverse all the edge of the graph with
+optimized solution (minimum cost) and why? Justify your answer with valid proof.
+3.   This is a sample question group   20
+1. Explain how to find the In-order, Pre-order, and Post-order traversals of any given   10
+binary tree. Use an example to illustrate each traversal method.
+2. Explain hash table and various hash functions. Show the each step of hash table entries   10
+for the given data set using linear probing 12,45,67,88,27,78,20,62,36,55 (size=10)
+4.   This is a sample question group   20
+1.   Consider the given letters along with their frequencies.   10
+Letter   K   Z   E   D   M   U   C   L
+Frequency 7   2   120   42   24   37   32   42
+a. Construct a Huffman tree for the given characters and their frequencies? Show all the
+steps involved in the construction process.
+b. Generate the Huffman codes for each character and list them.
+c. Calculate the average length of the Huffman codes.
+2. Convert below infix expression into a prefix expression using stack data structure.   10
+Show each and every step.
+A+(B/C/D)*(E-F/(G*H))^T-X
+5.   This is a sample question group   20
+Page 2 of 3
+--- page 3 ---
+1. Explain the Insertion Sort algorithm. Apply the algorithm to sort the array [8, 4,   10
+3, 7, 6, 5, 2] step by step, explaining how elements are inserted into their correct
+positions during each pass.
+2. State advantages and disadvantages of Doubly Link list over singly Link List (at least 3   5
+points each)
+3. Which type of problems are handled by the Dijkstra algorithm? Can Dijkstra algorithm   5
+applicable for the below mentioned graph? Justify your answer with valid proof and
+compute.
+6.   This is a sample question group   20
+1. Write an algorithm to concatenate two singly linked list and print the concatenated list.   10
+2. Describe how to analyze the performance of an algorithm.   5
+3. Consider a two-dimensional array arr[10][10] with base address = 1000 and the array's   5
+number of bytes per element = 2. Now, compute the address of the element arr[8][5],
+assuming that the elements are stored in column-major order. (Row:[1..10],
+Column[1..5]
+Page 3 of 3
+````
+
+## 2024-25 · Re-Exam · Sem 3 · paper ad4b5e908a54
+
+- Departments: Data Science
+- Programmes: BACHELOR OF TECHNOLOGY COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE) - 7057
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Re-Exam/BACHELOR OF TECHNOLOGY COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE) - 7057/Data Structures and Algorithms/QP_Re-Exam_Data Structures and Algorithms(702CO1C001)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 15 Feb 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CE)/B. Tech (CS)/B. Tech
+(CSBS)/B. Tech (CSE - CS)/B. Tech - (CSEDS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech (IT)/B. Tech
+(MXTC)/MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (IT)
+Year: II/Semester III (Exam Year: 2024-2025)
+Subject: Data Structures and Algorithms
+Date: 15 Feb 2025   Time: 10:00 am - 01:00 pm (03:00 Hrs.)
+Max Marks: 100
+RE EXAMINATION(2024-2025)
+Instructions:
+1. This question paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question number 1 is compulsory
+5. Attempt any 4 questions out of remaining questions
+1.   This is a sample question group   20
+I. Define Data structure. Write the importance of data structures.   5
+II. Using a stack data structure, write an algorithm for 1. Push and 2. Pop. Demonstrate your   5
+implementation with an example sequence of operations (push 10, push 20, push 30, pop, peek,
+Push 40) and show the stack's state after each step.
+III. Explain the concept of a Minimum Spanning Tree (MST) in an undirected, weighted graph.   5
+How does the MST differ from a general spanning tree? Additionally, describe the significance
+of MST in practical applications, providing one real-world example.
+IV.   5
+Explain Binary search to search element 4 in the given array [3,4,5,6,7,8,9].
+2.   This is a sample question group (Attempt Any 2 Questions)   80
+1.   This is a sample question group   20
+1. Explain the concept of a priority queue and how it differs from a regular queue.   10
+Page 1 of 3
+--- page 2 ---
+Explain real life scenario where each can be used. Explain concept of ascending
+priority queue and descending priority queue.
+2. Given a Binary Tree, write a function to count the number of nodes in the tree.   10
+Construct a Binary Tree using the data set [27,40,26,49,29,29,28,38,32,45,31,50].
+Apply this function to the constructed Binary Tree and illustrate the process.
+2.   This is a sample question group   20
+1. Write an algorithm and compare the time complexity for inserting a node at the   10
+beginning and end of a link list with algorithm. Justify which has less time complexity.
+2. For the given graph, you must traverse all the vertex with minimum cost. Is it possible?   10
+Which algorithm can be considered for traverse all the edge of the graph with
+optimized solution (minimum cost) and why? Justify your answer with valid proof.
+3.   This is a sample question group   20
+1. Explain how to find the In-order, Pre-order, and Post-order traversals of any given   10
+binary tree. Use an example to illustrate each traversal method.
+2. Explain hash table and various hash functions. Show the each step of hash table entries   10
+for the given data set using linear probing 12,45,67,88,27,78,20,62,36,55 (size=10)
+4.   This is a sample question group   20
+1.   Consider the given letters along with their frequencies.   10
+Letter   K   Z   E   D   M   U   C   L
+Frequency 7   2   120   42   24   37   32   42
+a. Construct a Huffman tree for the given characters and their frequencies? Show all the
+steps involved in the construction process.
+b. Generate the Huffman codes for each character and list them.
+c. Calculate the average length of the Huffman codes.
+2. Convert below infix expression into a prefix expression using stack data structure.   10
+Show each and every step.
+A+(B/C/D)*(E-F/(G*H))^T-X
+5.   This is a sample question group   20
+Page 2 of 3
+--- page 3 ---
+1. Explain the Insertion Sort algorithm. Apply the algorithm to sort the array [8, 4,   10
+3, 7, 6, 5, 2] step by step, explaining how elements are inserted into their correct
+positions during each pass.
+2. State advantages and disadvantages of Doubly Link list over singly Link List (at least 3   5
+points each)
+3. Which type of problems are handled by the Dijkstra algorithm? Can Dijkstra algorithm   5
+applicable for the below mentioned graph? Justify your answer with valid proof and
+compute.
+6.   This is a sample question group   20
+1. Write an algorithm to concatenate two singly linked list and print the concatenated list.   10
+2. Describe how to analyze the performance of an algorithm.   5
+3. Consider a two-dimensional array arr[10][10] with base address = 1000 and the array's   5
+number of bytes per element = 2. Now, compute the address of the element arr[8][5],
+assuming that the elements are stored in column-major order. (Row:[1..10],
+Column[1..5]
+Page 3 of 3
 ````
 
 ## 2024-25 · Re-Exam · Sem 1 · paper 8fcb40298c76

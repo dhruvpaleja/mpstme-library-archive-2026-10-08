@@ -1,6 +1,6 @@
 # Rock Mechanics: question papers in full
 
-9 unique papers · 2018-19 to 2025-26 · Civil, Open Electives
+10 unique papers · 2018-19 to 2025-26 · Civil, Open Electives
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1421,6 +1421,196 @@ favourable unfavourable
 —
 
 b/S
+````
+
+## 2018-19 · Exam not stated · Sem 10 · paper acb67df591e2
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: CIVIL/SEM X/ROCK MECHANICS /Rock_Mechanics_2018-19_0DsdtylR56.pdf`
+- Printed on paper: duration hours: 3; exam date: 15 April 2019
+- Text: ocr (3 pages), mean OCR confidence 88.1
+
+````text
+\
+Bt
+4 SVKM’S NMIMS
+__MUKESH PATEL SCHOOL OF TECHNOLOGY MANAG
+Program :B.Tech Integrated (CIVIL)
+e AcademicY ear: 2018-2019
+
+Subject: Reck Mechanics ¢
+Date: 15 April 2019 ~ hoe Time: 02.00 pm to 05.00 pm -
+Duration: 3 (hrs)
+6 No. of Pages: O3 *_
+Final Examination (2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+~- and on the cover of the Answer Book, which is provided for their use.
+
+1. Question No. 1 (one) is compulsory.
+: 2. Out of remaining questions, attempt any 4 (four) questions.
+3. Inall 5 (five) questions are to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+6. Figures in brackets on the right hand side indicate full marks.
+
+7. Assume Suitable data if necessary
+
+1. a. What are the different types of slope failures in rocks? 4
+
+b. Diagrammatically describe the different types of faults that are found in rocks. 4
+
+c. Draw diagrams to show Mohr’s circles of special stress conditions. 4
+
+2. a. Describe the concept of subduction zones in plate tectonic theory, using the example 6
+of the formation of the Himalayan Range.
+
+b. Resolve the stresses for a force acting on an inclined plane to the x-y coordinate system. 6
+
+Draw the diagram and show the different resolutions of the force.
+3. a. The following stress elements represent stress state at a point of a rock mass. Draw the 6
+
+elements when rotated to the principal stress conditions. Thereafter find the new
+stresses on the element when rotated counter clockwise by 42°.
+
+oy= 105 MPa
+«|
+
+Txy= 20.5 MPa
+
+Py,
+4. ++ y= 34 MPa
+—_
+
+b. Howis strength rendered in rocks due to induced anisotropy in rocks? 6
+
+4. a. A bored pile is installed in weathered rock upto a depth of 25 m and is then 6
+socketed in rock to a depth of 5 m. Following data is given:
+
+1 [g age
+--- page 2 ---
+6.
+
+Te
+
+a.
+
+a.
+
+Diameter of pile =1.0m
+
+Total axial load on Pile, P = 20000 kN
+Unit frictional resistance along shaft, f = 120 kN/m?.
+Modulus of socket rock, Er =7.5x 10° kN/m?
+Pells and Turner’s Influence factor, lp =0.5
+
+Determine the following:
+a. The load on socket
+b. Elastic settlement of pile insocket &
+
+Draw Mohr’s circles and determine the magnitudes ofthe principal stresses for the
+following states of stress. ,
+
+a. 0x=25 MPa, oy=-10 MPa, tx = 20 MPa
+
+b. ox=-10 MPa, oy = -20 MPa, Ty = -20 MPa
+
+Explain the different types of bearing capacity failures of shallow foundations on rock
+with diagrams.
+Arock slope of height H =10 m has a base slope f of 70°. The properties of the rock are
+c= 40 kN/m?; @ = 40°, y = 20 kN/m?. There is a potential sliding joint plane at an angle
+of 8 = 50° to the horizontal. Calculate factor of safety of the slope against sliding along
+the joint plane.
+
+A7m diameter tunnel is to be driven through a sequence of shale and basalt rock. The
+shale rock formations dip towards the east with strikes around 185°. The basalts form
+sub-vertical planes with a 180° strike. Shale dips 30°, basalt joints dip 60°. Draw free
+hand stereogram sketches to depict these data.
+
+Joints in the shale are rough, most are thin and filled in with calcite. Overall rock is
+blocky and seamy. Groundwater is 50 m above the invert of the tunnel. Average
+uniaxial compressive strength is 53IMPa. Fracture spacing is 0.4m.
+
+Calculate the RQD of the rock taking into consideration, a 200 m borehole which yields
+the following data: 53cm, 19cm, 18cm, 9.6 cm, 5.26 cm, 37.5 cm, 10 cm, no recovery.
+Calculate the RMR index of this rock if the tunnel is being driven west to east.
+Differentiate betwéen contact grouting and consolidation grouting techniques.
+
+Describe the different types of rock bolts and their applications.
+Elaborate upon the Flat Jack Method of in situ stress measurements in rocks.
+
+2|page
+--- page 3 ---
+36 Support of underground excavations in hard rock
+
+g
+
+Table 4.4: Rock Mass Rating System (After Bieniawski, 1989).
+
+|A. CLASSIFICATION -PARAMETERS AND THEIR RATINGS
+
+Parameter Range of values
+Point-load For this low range -
+Strength jl >10 MPa 4-10MPa 2-4MPa F. 1-2MPa uniaxial compressive!
+af strength index iat le preilles
+1 | intact rock | Uniaxial comp. 7 . . §-25|1-5) <1
+material _ [strength >250 MPa 100 - 250 MPa 50 - 100 MPa 25 - 50 MPa MPa_| MPa | MPa
+Rating 15 12 7 4 2 1 O
+Drill core Quality RQD 90% - -100% 75% - -90% 50% - 75% 25% - 50% < 25%
+2 Rating 20 17 13 8 3
+Spacing of discontinuities >2m 0.6-2.m 200 - 600 mm 60 - 200 mm <60mm
+3 Rating 20 15 10 8 5
+Very rough —surfaces [Slightly rough sur-|Slightly rough sur-|Slickensided surfaces |Soft gouge >5 mm
+Not continuous faces faces or thick
+Condition of —discontinuities |No separation Separation< 1mm _ |Separation<1mm   |Gouge <5 mm thick or
+4 ‘See E) .pUnweathered wall Stonty weathered Hichy weathered or Separation > 5mm
+rock walls walls Separation 1-5mm_ | Continuous
+s Continuous
+Ratifg 30 25 20 10 0
+Inflow per 10 m < . 25-
+tunnel length (W/m) None 10 10-25 5 - 125 > 125
+Ground | (Joint water press)/
+-s| ‘water |(Major principal a) 0 <0.1 0.1,-0.2 0.2-0.5 >05
+General conditions Completely dry Damp Wet Dripping Flowing
+Rating 15 10 7 4 tt)
+B. RATING ADJUSTMENT FOR DISCONTINUITY ORIENTATIONS (See F)
+Strike —and dip orientations Very favourable Favourable Fair Unfavourable Very Unfavourable
+Tunnels & mines ti) =2 5 -10 “12
+Ratings Foundations i} 2 7 “15 -25
+Slopes 0 5 -25 -50
+C. ROCK MASS CLASSES DETERMINED FROM TOTAL RATINGS
+Rating 100 < 81 80 < 61 60<41 - 40 < 21 <21
+Class number 1 It tl VV Vv
+Description Very good rock Good rock Fair rock Poor rock Very poor rock
+D. MEANING OF ROCK CLASSES
+Class number | yr ll {lt Vv Vv
+Average stand-up time 20 yrs for 15m span | 1 year for 10 m span | 1 week for 5m span | 10 hrs for 2.5m span} 30 min for 1m span
+Cohesion of rock mass (kPa) > 400 300 - 400 200 - 300 100 - 200 < 100
+Friction angle of rock mass (deg) >45 35-45 25-35 15-25 <15
+E, GUIDELINES FOR CLASSIFICATION OF DISCONTINUITY conditions
+Discontinuity length (persistence) <im 1-3m 3-10m 10-20m >20m
+Rating 6 4 2 1 0
+Separation (aperture) None <0.1 mm 0.1-1.0 mm 41-5mm >5mm
+Rating 6 ‘ 4 1 )
+Roughness Very rough Rough Slightly rough Smooth Slickensided
+Rating 6 5 3 1 i‘)
+Infilling (gouge) None Hard filling< 5mm | Hard filling > 5mm Soft filling < 5 mm Soft filling > 5 mm.
+Rating 6 4 2 2 o
+Weathering Unweathered Slightly weathered | Moderately weathered} Highly weathered Decomposed
+Ratings 6 5 3 1 0
+IF. EFFECT OF DISCONTINUITY STRIKE AND DIP ORIENTATION IN TUNNELLING™
+Strike perpendicular to tunnel axis Strike parallel to tunnei axis
+Drive with dip - Dip 45 - 90° Drive with dip - Dip 20 - 45° Dip 45 - 90° Dip 20 - 45°
+Very favourable Favourable Very favourable Fair
+Drive against —dip - Dip 45-90° Drive against —dip - Dip 20-45° —Dip 0-20 - Irrespective of strike®
+Fair Unfavourable Fair
+
+* Some conditions are mutually exclusive . For example, if infilling is present, the roughness of the surface will be overshadowed by the
+influence of the gouge. —In such cases use A.4 directly.
+** Modified after Wickham et al (1972).
+
+3/3
 ````
 
 ## 2018-19 · Final-Exam · Sem 8 · paper 71ec1b3094e9

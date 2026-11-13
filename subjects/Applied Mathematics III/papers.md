@@ -3485,7 +3485,7 @@ eignvectors [-3 | and |- 2; | .
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM III/APPLIED MATHEMATICES III/2004-2005(11).pdf`
 - Text: ocr (2 pages), mean OCR confidence 50.3
-- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -3493,6 +3493,7 @@ DaTe
 
 \ime
 
+Narsee Mons EE Tn TUTE Or f ANA
 AE
 
 M. 2%. A. Cecs-) Trim — WW

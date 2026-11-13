@@ -1,6 +1,6 @@
 # Industrial Economics and Management: question papers in full
 
-37 unique papers · 2013-14 to 2022-23 · Computer Engineering, Computer Applications (MCA), Electronics and Telecommunication, Electronics, Electrical
+39 unique papers · 2013-14 to 2022-23 · Computer Engineering, Computer Applications (MCA), Electronics and Telecommunication, Electronics, Electrical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -247,6 +247,114 @@ D 80 120
 6. What is Organization Structure? Explain the types of Organization Structure. (14 Marks)
 7. ‘ Explain the techniques of Capital Budgeting. (14 Marks)
 
+````
+
+## 2018-19 · Final-Exam · Sem 8 · paper 0b3b2b434c43
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: EXTC/SEMESTER VIII/INDUSTRIAL ECONOMICS AND MANAGEMENT/Industial_Economics_and_Management_2018-19_Final_A0f2U3XuIp.pdf`
+- Printed on paper: max marks: 70; duration hours: 3
+- Text: ocr (2 pages), mean OCR confidence 89.8
+
+````text
+SVKM’S NMIMS|j< /
+MUKESH PATEL SCHOOL OF TECHNOLOGY MAN
+
+Program :B.Tech Integrated (EXTC) —~
+Academic Year: 2018-2019
+
+Subject: Industrial Economics and Management
+
+Date: 13 April2019 _~
+
+Final Examination (2018-19) o
+
+b
+
+\
+
+y
+
+Marks: 70 va
+Time: 10.00 am to 01.00 pm = _~
+Duration: 3 (hrs)
+No. of Pages: 2-
+
+J
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any _4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1) ANSWER THE FOLLOWING
+
+1) DEMAND VS SUPPLY
+
+2) BOP VS BOT
+
+3) SHORT NOTE ON BEP ANALYSIS
+
+4) TRAINING- AN INTEGRAL PART OF H.R.M. .
+
+Q2) ANSWER THE FOLLOWING:-
+
+1) ECONOMIC SYSTEMS- MARKET & PLANNED ECONOMIES
+2) SHORT NOTE ON MONOPOLISTIC COMPETITION
+
+Q3) ANSWER THE FOLLOWING:-
+
+1) CENTRAL BANK & ITS FUNCTIONS
+2) NEP 1991-GLOBALIZATION
+
+Q4) ANSWER THE FOLLOWING:-
+
+1) INFLATION
+2) CONSUMER BEHAVIOUR
+
+1|9.
+
+14 MARKS
+(3.5X 4)
+
+14 MARKS
+(7X2)
+
+14 MARKS
+(7X2)
+
+14 MARKS
+(7X2)
+--- page 2 ---
+Q5) ANSWER THE FOLLOWING:- 14 MARKS
+
+1) BEP ANALYSIS (7X2)
+2) STAFFING- A VITAL PART OF H.R.M.
+
+Q6) ANSWER THE FOLLOWING:- 14 MARKS
+
+1) MC GREGOR’S X VS Y THEORY (7X2)
+2) DELEGATION OF AUTHORITY
+
+Q7) ANSWER THE FOLLOWING:- 14 MARKS
+
+1) ABRAHAM MASLOW’S THEORY OF NEEDS & ACHIEVEMENT (7X2)
+2) MB.O.
+
+ao
 ````
 
 ## 2018-19 · Final-Exam · Sem 8 · paper 70e271121e82
@@ -646,6 +754,81 @@ b Explain Line and Staff organisation structure. (7)
 b Explain advertisement as a marketing function, (7)
 
 Fage | 09, |
+````
+
+## 2017-18 · Final-Exam · Sem 8 · paper 48167172e315
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: EXTC/SEMESTER VIII/INDUSTRIAL ECONOMICS AND MANAGEMENT/Industial_Economics_and_Management_2017-18_Final_OyjSeh1M0T.pdf`
+- Printed on paper: max marks: 60; exam date: 16 May 2018
+- Text: ocr (2 pages), mean OCR confidence 91.3
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B.Tech Integrated (EXTC)- Year: IV: Semester: VIII”
+
+Academic Year: 2017-2018 - fo aN
+
+Subject:Industrial Economics and Management
+
+Marks:60 «
+
+Date:16 May 2018 < Time:, 2: ES ) pm to 5. a pra
+Durati
+
+No. of
+
+Final Examination (2017-18)
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started-on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume ‘suitable data if necessary.
+1. Short notes (any 4 out of 6)
+a. Breakeven Analysis (12 marks)
+b. Management by Objectives
+c. Operational Plans
+d. Inventory Management
+e. Monopoly vs Oligopoly -
+f. Demand vs Supply
+
+2. Explain the difference between Sales and Marketing (12marks)
+
+3. Is Fedrick Taylor still relevant? Do you still feel that the principles will (12 marks)
+
+work for start-ups in India?
+
+4. Explain the following concepts and its applicability: (12 marks)
+
+Ve
+--- page 2 ---
+a. Quality Control
+b. Training
+c. Decentralization
+
+Answer the following (12 marks)
+a. RBI and its functions
+b. Elasticity of Demand
+
+Answer the following (12 marks)
+a. NEP 1991 LPG Model
+
+b. Perfect vs Imperfect competition
+
+Answer the following (12 marks)
+a. BOP vs BOT
+b. L.D.M.U
+
+21)
 ````
 
 ## 2017-18 · Final-Exam · Sem 6 · paper d3f09a352dcb

@@ -5184,6 +5184,628 @@ market -
 ********** 7 **********
 ````
 
+## 2024-25 · Re-Exam · Sem 8 · Answer key · paper e0e887ebd4ea
+
+- Departments: Artificial Intelligence
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (ARTIFICIAL INTELLIGENCE) - 7051
+- Source: `00_Original_Downloads/2024/67754__Semester VIII__context_fixed.zip :: Re-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (ARTIFICIAL INTELLIGENCE) - 7051/Contract, Competition and Consumer Laws/ANS_Re-Exam_Contract, Competition and Consumer Laws(703TG0C016)_Semester VIII_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 07 Jul 2025
+- Text: text (8 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (DS)/MBA.
+Tech (EXTC)/MBA. Tech (IT)/MBA. Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2024-2025)
+Subject: Contract, Competition and Consumer Laws
+Date: 07 Jul 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 8 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question 1 is compulsory.
+5. Attempt any 4 question from Q2 to Q7.
+Q1.
+a. Law plays a crucial role in the smooth functioning of business enterprises.
+a.   It provides a legal framework that governs how businesses operate, ensuring fairness,
+accountability, and protection for all stakeholders.
+b. Laws regulate contracts, protect consumer rights, ensure fair competition, safeguard
+intellectual property, and establish dispute resolution mechanisms.
+c. Compliance with legal requirements helps businesses avoid penalties, build trust, and
+maintain their reputation.
+d. Additionally, legal frameworks promote ethical business practices, encourage investment,
+and create a stable economic environment conducive to growth and innovation.
+e. Any other relevant point can be included.
+b. (1) of the age of majority, (2) of sound mind, and (3) not disqualified by any law they are subject
+to. Incompetent parties include minors, persons of unsound mind, and those disqualified by law
+(like insolvents or alien enemies). Any agreement made by an incompetent party is void and
+unenforceable in law.
+c. Under the Consumer Protection Act, 2019, Unfair Trade Practice (UTP) refers to deceptive,
+fraudulent, or unethical methods used by businesses to promote the sale, use, or supply of goods
+or services. It includes practices like making false or misleading advertisements, offering fake
+bargains, hoarding or black-marketing, and providing false warranties or guarantees. UTP also
+covers deceptive practices related to the quality, quantity, or standard of products and services.
+The Act empowers consumers to seek redressal against such practices, ensuring fair and ethical
+trade in the marketplace. Any other relevant point to be considered.
+d. The functions are as follows –
+********** 1 **********
+--- page 2 ---
+a. To eliminate practices having adverse effect on competition, promote and sustain
+competition, protect the interests of consumers and ensure freedom of trade in the markets
+of India.
+b. To give opinion on competition issues on a reference received from a statutory authority
+established under any law and to undertake competition advocacy, create public awareness
+and impart training on competition issues.
+2.
+a.
+•   Establishes Legal Framework
+• Ensures Fair Competition
+•   Protects Consumer Rights
+• Regulates Business Transactions
+• Safeguards Employees' Interests
+• Promotes Corporate Governance
+•   Facilitates Dispute Resolution
+• Encourages Ethical Practices
+• Any other relevant point.
+b. X (bailee) hires Y’s (bailor) car for personal use under a contract of bailment - Bailment involves the
+delivery of goods for a specific purpose with an obligation to return or dispose of them as per the
+bailor’s instructions.
+Misuse of the Goods – X uses the car as a taxi, violating the agreed purpose (personal use). This
+constitutes unauthorized use or misappropriation of the goods.
+Right of the Bailor (Y) to Sue - Yes, Y can sue X under the contract of bailment.
+Under Section 153 of the Indian Contract Act, 1872, if the bailee uses the goods contrary to the terms of
+the bailment, the bailor can terminate the contract and claim damages.
+Duties of a Bailee in This Scenario -
+o Duty to Use Goods Only for the Agreed Purpose (Section 154).
+o Duty to Take Reasonable Care of the goods (Section 151).
+o Duty Not to Mix Goods Without Consent (Section 155-157).
+o Duty to Return the Goods as Agreed (Section 160-161).
+o Legal Consequences for Breach
+X becomes liable for any loss or damage, even if caused by accident (Section 154). Y has the right to
+claim compensation for unauthorized use and any resulting loss.
+3.
+********** 2 **********
+--- page 3 ---
+a. Definition (Section 2(h), Indian Contract Act, 1872): A contract is defined as an agreement
+enforceable by law. Agreement vs. Contract – agreement is Every promise or set of promises forming
+consideration while Contract is When an agreement is backed by legal enforceability, it becomes a
+contract.
+Essential Elements of a Valid Contract: (3 marks)
+o Offer and Acceptance
+o Lawful Consideration
+o Capacity of Parties
+o Free Consent
+o Lawful Object
+o Not expressly declared void
+o Legal Formalities (if any)
+o Enforceability by Law:
+• Only agreements that fulfill legal requirements can be enforced in a court of law. Agreements
+without legal enforceability are mere social or moral agreements (e.g., a dinner invitation).
+• Legal Consequences: Contracts create legal obligations and rights for the parties involved.
+Failure to perform results in legal remedies.
+b. Offer (Proposal):
+o Defined under Section 2(a) of the Indian Contract Act, 1872.
+o   It is an expression of willingness to enter into a contract on specific terms, intending to
+get acceptance.
+o   If accepted, it results in a binding contract.
+o Example: A offers to sell his car to B for ₹2,00,000.
+2. Invitation to Offer:
+o   It is merely an invitation to others to make an offer.
+o   It shows readiness to negotiate or receive offers, but does not intend to create legal
+obligations at this stage.
+o Acceptance of an invitation does not result in a contract.
+o Example: Display of goods with a price tag in a shop window, auction advertisements.
+3. Counter Offer:
+o   It is a response to an offer, but with different terms or conditions.
+o A counter offer rejects the original offer and puts forward a new offer in its place.
+o The original offer lapses and cannot be accepted unless renewed.
+o Example: A offers to sell his car for ₹2,00,000. B replies, "I’ll buy it for ₹1,80,000"
+(counter offer).
+Key Differences at a Glance:
+Basis   Offer   Invitation to Offer   Counter Offer
+Invitation to negotiate/make New offer rejecting
+Nature   Direct proposal to contract
+offers   original
+Legal   Can lead to contract upon   No legal effect until offer is Original offer
+Effect   acceptance   made   terminates
+********** 3 **********
+--- page 4 ---
+Basis   Offer   Invitation to Offer   Counter Offer
+"I'll pay ₹1,80,000
+Example   Selling a car for ₹2,00,000   Auction catalogue
+instead"
+c. Void agreements are those that never became valid contracts due to some reasons forbidden by law –
+examples (any 2 )–
+o With people incapable of contract
+o When entered in with mutual mistake of fact (no consensus ad idem)
+o Consideration or objective unlawful
+o Agreements without consideration
+o Agreements in restraint of marriage
+o Agreements in restraint of trade
+o Agreements in restraint of legal proceedings
+o Uncertain agreements – cant establish meaning clearly
+o Wagering agreement
+o Agreement to do an impossible act.
+4.
+a. (3 marks)This is a contract of personal skill and expertise between Mr. Rich (promisee) and Mr. Kalakar
+(promisor). The work involved is a personal artistic service requiring Mr. Kalakar's unique talent.
+Section 40 states that if a contract involves personal skill or confidence, it must be performed by the
+promisor himself. It cannot be delegated to another person, even to a close family member like Mr. Sonu.
+Mr. Kalakar’s paralysis renders performance impossible. Under Section 56 (Doctrine of Supervening
+Impossibility), the contract becomes void when performance becomes impossible due to unforeseen
+circumstances.
+Can Mr. Rich Ask Mr. Sonu to Complete the Work? No, Mr. Sonu has not assumed his father’s profession,
+nor is he party to the contract. The contract was based on Mr. Kalakar’s personal skills, not transferable
+to Mr. Sonu.
+(2 marks)Refund of Advance Payment: Since the contract is now void due to impossibility, Mr. Rich is
+entitled to a refund of the unearned advance amount.
+Under Section 65, when a contract becomes void, any benefit received under it must be restored. Mr. Rich
+can claim the refund of ₹ 50,000, or at least the portion for the incomplete part of the work.
+■ b. Breach operates when (3 marks) -
+– Party refuses to perform their obligations
+– Causes impossibility due to their conduct
+– wholly or partially fails to perform his obligations
+■ Effect of breach - . If a party does not do what the contract instructs that they do, then the non-
+breaching party will be allowed to take legal action and can file a lawsuit against them in court.
+■ Anticipatory breach - Injured party shall have the right to sue for breach immediately or wait till
+the time for performance arrived.
+********** 4 **********
+--- page 5 ---
+■ Relevant examples can be given
+■ Legal remedies available –
+– When a Contract is broken, the aggrieved party (the party who is not in breach) has one or
+more of the following remedies -
+–
+– (1) Recession of the Contract
+– (2) Suit for Damages
+– (3) Suit upon Quantum Meruit
+– (4) Suit for Specific Performance
+– (5) Suit for Injunction
+5.
+a. Importance of ADR
+1. Corporate Dispute Resolution – Helps businesses resolve conflicts efficiently, avoiding
+litigation costs.
+2. Contract Management – ADR clauses are common in commercial agreements.
+3. International Business – ADR is crucial for cross-border trade and investment disputes.
+4. Ethical Business Practices – ADR promotes amicable settlements and preserves business
+relationships.
+5. Reduce the burden of the Courts
+6. Provide speedy access to justice and also cost effective
+7. Private mode of settling disputes involving strategic business points
+8. Not a zero-sum game like court proceedings
+9. Relevant examples can be given
+b. Tools of ADR (2 marks) –
+1. Negotiation:
+o A voluntary, informal process where parties directly communicate to settle the dispute without
+third-party intervention.
+2. Mediation:
+o A neutral third party (mediator) facilitates communication and helps parties reach a mutually
+acceptable solution.
+o The mediator does not impose a decision.
+3. Conciliation:
+o   Similar to mediation, but the conciliator may actively propose solutions to resolve the dispute.
+o   It is often less formal and used in pre-litigation stages.
+4. Arbitration:
+o A neutral third party (arbitrator) hears both sides and makes a binding decision (award).
+********** 5 **********
+--- page 6 ---
+o Governed by the Arbitration and Conciliation Act, 1996.
+5. Lok Adalat:
+o Statutory mechanism for resolving disputes through compromise/settlement, recognized under
+the Legal Services Authorities Act, 1987.
+o The award is binding and enforceable.
+Difference Between Mediation and Arbitration: (3 marks)
+Basis   Mediation   Arbitration
+Facilitated negotiation with mediator aiding   Formal hearing process similar to court
+Process
+communication.   proceedings.
+Mediator assists but does not decide the   Arbitrator listens to both parties and
+Role of Third Party
+outcome.   gives a binding decision.
+Parties control the outcome; voluntary   Arbitrator imposes a decision (award),
+Decision-Making
+settlement.   binding on parties.
+Settlement agreement may or may not be   Arbitral award is binding and
+Enforceability
+binding unless formalized.   enforceable as a court decree.
+Confidentiality &   Confidential but more structured and
+Highly confidential and flexible process.
+Flexibility   formal.
+6.
+a. Establishment of Consumer Dispute Redressal Commission
+- The Act provides for setting up of a Consumer Dispute Redressal Commission (CDRC), which
+shall be set up at the district, state and national level (Commissions).
+- The CDRC is empowered to resolve complaints with respect to unfair and restrictive trade
+practices, defective goods and services, overcharging and goods which are a hazardous to life and
+safety
+Section 28 - Establishment of District Consumer Disputes Redressal Commission (value of complaints
+= 1 crore) .
+Section 42 - Establishment of State Consumer Disputes Redressal Commission (value of complaints =
+exceeds 1 crore upto 10 crores) .
+Section 53 - Establishment of National Consumer Disputes Redressal Commission (value of complaints
+= exceeds 10 crores)
+Central Consumer Protection Authority (Section 10 - 27)
+The Act introduces the establishment of a Central Consumer Protection Authority (CCPA) by the central
+government.
+is a regulatory authority and shall be empowered to impose penalties, recall goods, cause withdrawal of
+services, provide refunds and investigate into matters.
+It shall also be responsible for protecting the rights of consumers as a class and shall further ensure that
+no person engages in unfair trade practices and that no misleading advertisements are made.
+Section numbers not important.
+********** 6 **********
+--- page 7 ---
+b. Yes, online sale is covered under COPRA 2019. (1 mark)
+Rights of the consumer (4 marks)
+- be protected against the marketing of goods, products or services which are hazardous to
+life and property;
+- be informed about the quality, quantity, potency, purity, standard and price of goods,
+products or services;
+- be assured, wherever possible, access to a variety of goods, products or services at
+competitive prices;
+- be heard and to be assured that consumers' interests will receive due consideration at
+appropriate fora;
+-   seek redressal against unfair trade practice or restrictive trade practices or unscrupulous
+exploitation of consumers; and
+- consumer awareness
+7.
+a. Composition of CCI (2 marks)
+• The Commission consists of one Chairperson and six Members as per the Competition Act who
+shall be appointed by the Central Government.
+• The commission is a quasi-judicial body which gives opinions to statutory authorities and also
+deals with other cases. The Chairperson and other Members shall be whole-time Members
+• Role of CCI – (5 marks)
+• To eliminate practices having adverse effect on competition, promote and sustain
+competition, protect the interests of consumers and ensure freedom of trade in the markets
+of India.
+• To give opinion on competition issues on a reference received from a statutory authority
+established under any law and to undertake competition advocacy, create public awareness
+and impart training on competition issues.
+• The Competition Commission of India takes the following measures to achieve
+its objectives:
+• Consumer welfare: To make the markets work for the benefit and welfare of consumers.
+• Ensure fair and healthy competition in economic activities in the country for faster and
+inclusive growth and development of the economy.
+• Implement competition policies with an aim to effectuate the most efficient utilization of
+economic resources.
+• Develop and nurture effective relations and interactions with sectoral regulators to ensure
+smooth alignment of sectoral regulatory laws in tandem with the competition law.
+•   Effectively carry out competition advocacy and spread the information on benefits of
+competition among all stakeholders to establish and nurture competition culture in Indian
+economy.
+• Need for CCI – (3 marks)
+********** 7 **********
+--- page 8 ---
+• Promote free enterprise: Competition laws have been described as the Magna Carta of
+free enterprise. Competition is important for the preservation of economic freedom and our
+free enterprise system.
+•   Protect against market distortions: The need for competition law arises because market
+can suffer from failures and distortions, and various players can resort to anti- competitive
+activities such as cartels, abuse of dominance etc. which adversely impact economic
+efficiency and consumer welfare.
+• Thus, there is a need for competition law to provide a regulative force which establishes
+effective control over economic activities.
+• Promotes domestic industries: During the era in which the economies are moving from
+closed economies to open economies, an effective competition commission is essential to
+ensure the continued viability of domestic industries, carefully balanced with attaining the
+benefits of foreign investment increased competition.
+********** 8 **********
+````
+
+## 2024-25 · Re-Exam · Sem 8 · Answer key · paper f2ee72cbf561
+
+- Departments: Computer Engineering
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTER ENGINEERING) - 7047
+- Source: `00_Original_Downloads/2024/67754__Semester VIII__context_fixed.zip :: Re-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTER ENGINEERING) - 7047/Contract, Competition and Consumer Laws/ANS_Re-Exam_Contract, Competition and Consumer Laws(703TG0C016)_Semester VIII_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 07 Jul 2025
+- Text: text (8 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (DS)/MBA.
+Tech (EXTC)/MBA. Tech (IT)/MBA. Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2024-2025)
+Subject: Contract, Competition and Consumer Laws
+Date: 07 Jul 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 8 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question 1 is compulsory.
+5. Attempt any 4 question from Q2 to Q7.
+Q1.
+a. Law plays a crucial role in the smooth functioning of business enterprises.
+a.   It provides a legal framework that governs how businesses operate, ensuring fairness,
+accountability, and protection for all stakeholders.
+b. Laws regulate contracts, protect consumer rights, ensure fair competition, safeguard
+intellectual property, and establish dispute resolution mechanisms.
+c. Compliance with legal requirements helps businesses avoid penalties, build trust, and
+maintain their reputation.
+d. Additionally, legal frameworks promote ethical business practices, encourage investment,
+and create a stable economic environment conducive to growth and innovation.
+e. Any other relevant point can be included.
+b. (1) of the age of majority, (2) of sound mind, and (3) not disqualified by any law they are subject
+to. Incompetent parties include minors, persons of unsound mind, and those disqualified by law
+(like insolvents or alien enemies). Any agreement made by an incompetent party is void and
+unenforceable in law.
+c. Under the Consumer Protection Act, 2019, Unfair Trade Practice (UTP) refers to deceptive,
+fraudulent, or unethical methods used by businesses to promote the sale, use, or supply of goods
+or services. It includes practices like making false or misleading advertisements, offering fake
+bargains, hoarding or black-marketing, and providing false warranties or guarantees. UTP also
+covers deceptive practices related to the quality, quantity, or standard of products and services.
+The Act empowers consumers to seek redressal against such practices, ensuring fair and ethical
+trade in the marketplace. Any other relevant point to be considered.
+d. The functions are as follows –
+********** 1 **********
+--- page 2 ---
+a. To eliminate practices having adverse effect on competition, promote and sustain
+competition, protect the interests of consumers and ensure freedom of trade in the markets
+of India.
+b. To give opinion on competition issues on a reference received from a statutory authority
+established under any law and to undertake competition advocacy, create public awareness
+and impart training on competition issues.
+2.
+a.
+•   Establishes Legal Framework
+• Ensures Fair Competition
+•   Protects Consumer Rights
+• Regulates Business Transactions
+• Safeguards Employees' Interests
+• Promotes Corporate Governance
+•   Facilitates Dispute Resolution
+• Encourages Ethical Practices
+• Any other relevant point.
+b. X (bailee) hires Y’s (bailor) car for personal use under a contract of bailment - Bailment involves the
+delivery of goods for a specific purpose with an obligation to return or dispose of them as per the
+bailor’s instructions.
+Misuse of the Goods – X uses the car as a taxi, violating the agreed purpose (personal use). This
+constitutes unauthorized use or misappropriation of the goods.
+Right of the Bailor (Y) to Sue - Yes, Y can sue X under the contract of bailment.
+Under Section 153 of the Indian Contract Act, 1872, if the bailee uses the goods contrary to the terms of
+the bailment, the bailor can terminate the contract and claim damages.
+Duties of a Bailee in This Scenario -
+o Duty to Use Goods Only for the Agreed Purpose (Section 154).
+o Duty to Take Reasonable Care of the goods (Section 151).
+o Duty Not to Mix Goods Without Consent (Section 155-157).
+o Duty to Return the Goods as Agreed (Section 160-161).
+o Legal Consequences for Breach
+X becomes liable for any loss or damage, even if caused by accident (Section 154). Y has the right to
+claim compensation for unauthorized use and any resulting loss.
+3.
+********** 2 **********
+--- page 3 ---
+a. Definition (Section 2(h), Indian Contract Act, 1872): A contract is defined as an agreement
+enforceable by law. Agreement vs. Contract – agreement is Every promise or set of promises forming
+consideration while Contract is When an agreement is backed by legal enforceability, it becomes a
+contract.
+Essential Elements of a Valid Contract: (3 marks)
+o Offer and Acceptance
+o Lawful Consideration
+o Capacity of Parties
+o Free Consent
+o Lawful Object
+o Not expressly declared void
+o Legal Formalities (if any)
+o Enforceability by Law:
+• Only agreements that fulfill legal requirements can be enforced in a court of law. Agreements
+without legal enforceability are mere social or moral agreements (e.g., a dinner invitation).
+• Legal Consequences: Contracts create legal obligations and rights for the parties involved.
+Failure to perform results in legal remedies.
+b. Offer (Proposal):
+o Defined under Section 2(a) of the Indian Contract Act, 1872.
+o   It is an expression of willingness to enter into a contract on specific terms, intending to
+get acceptance.
+o   If accepted, it results in a binding contract.
+o Example: A offers to sell his car to B for ₹2,00,000.
+2. Invitation to Offer:
+o   It is merely an invitation to others to make an offer.
+o   It shows readiness to negotiate or receive offers, but does not intend to create legal
+obligations at this stage.
+o Acceptance of an invitation does not result in a contract.
+o Example: Display of goods with a price tag in a shop window, auction advertisements.
+3. Counter Offer:
+o   It is a response to an offer, but with different terms or conditions.
+o A counter offer rejects the original offer and puts forward a new offer in its place.
+o The original offer lapses and cannot be accepted unless renewed.
+o Example: A offers to sell his car for ₹2,00,000. B replies, "I’ll buy it for ₹1,80,000"
+(counter offer).
+Key Differences at a Glance:
+Basis   Offer   Invitation to Offer   Counter Offer
+Invitation to negotiate/make New offer rejecting
+Nature   Direct proposal to contract
+offers   original
+Legal   Can lead to contract upon   No legal effect until offer is Original offer
+Effect   acceptance   made   terminates
+********** 3 **********
+--- page 4 ---
+Basis   Offer   Invitation to Offer   Counter Offer
+"I'll pay ₹1,80,000
+Example   Selling a car for ₹2,00,000   Auction catalogue
+instead"
+c. Void agreements are those that never became valid contracts due to some reasons forbidden by law –
+examples (any 2 )–
+o With people incapable of contract
+o When entered in with mutual mistake of fact (no consensus ad idem)
+o Consideration or objective unlawful
+o Agreements without consideration
+o Agreements in restraint of marriage
+o Agreements in restraint of trade
+o Agreements in restraint of legal proceedings
+o Uncertain agreements – cant establish meaning clearly
+o Wagering agreement
+o Agreement to do an impossible act.
+4.
+a. (3 marks)This is a contract of personal skill and expertise between Mr. Rich (promisee) and Mr. Kalakar
+(promisor). The work involved is a personal artistic service requiring Mr. Kalakar's unique talent.
+Section 40 states that if a contract involves personal skill or confidence, it must be performed by the
+promisor himself. It cannot be delegated to another person, even to a close family member like Mr. Sonu.
+Mr. Kalakar’s paralysis renders performance impossible. Under Section 56 (Doctrine of Supervening
+Impossibility), the contract becomes void when performance becomes impossible due to unforeseen
+circumstances.
+Can Mr. Rich Ask Mr. Sonu to Complete the Work? No, Mr. Sonu has not assumed his father’s profession,
+nor is he party to the contract. The contract was based on Mr. Kalakar’s personal skills, not transferable
+to Mr. Sonu.
+(2 marks)Refund of Advance Payment: Since the contract is now void due to impossibility, Mr. Rich is
+entitled to a refund of the unearned advance amount.
+Under Section 65, when a contract becomes void, any benefit received under it must be restored. Mr. Rich
+can claim the refund of ₹ 50,000, or at least the portion for the incomplete part of the work.
+■ b. Breach operates when (3 marks) -
+– Party refuses to perform their obligations
+– Causes impossibility due to their conduct
+– wholly or partially fails to perform his obligations
+■ Effect of breach - . If a party does not do what the contract instructs that they do, then the non-
+breaching party will be allowed to take legal action and can file a lawsuit against them in court.
+■ Anticipatory breach - Injured party shall have the right to sue for breach immediately or wait till
+the time for performance arrived.
+********** 4 **********
+--- page 5 ---
+■ Relevant examples can be given
+■ Legal remedies available –
+– When a Contract is broken, the aggrieved party (the party who is not in breach) has one or
+more of the following remedies -
+–
+– (1) Recession of the Contract
+– (2) Suit for Damages
+– (3) Suit upon Quantum Meruit
+– (4) Suit for Specific Performance
+– (5) Suit for Injunction
+5.
+a. Importance of ADR
+1. Corporate Dispute Resolution – Helps businesses resolve conflicts efficiently, avoiding
+litigation costs.
+2. Contract Management – ADR clauses are common in commercial agreements.
+3. International Business – ADR is crucial for cross-border trade and investment disputes.
+4. Ethical Business Practices – ADR promotes amicable settlements and preserves business
+relationships.
+5. Reduce the burden of the Courts
+6. Provide speedy access to justice and also cost effective
+7. Private mode of settling disputes involving strategic business points
+8. Not a zero-sum game like court proceedings
+9. Relevant examples can be given
+b. Tools of ADR (2 marks) –
+1. Negotiation:
+o A voluntary, informal process where parties directly communicate to settle the dispute without
+third-party intervention.
+2. Mediation:
+o A neutral third party (mediator) facilitates communication and helps parties reach a mutually
+acceptable solution.
+o The mediator does not impose a decision.
+3. Conciliation:
+o   Similar to mediation, but the conciliator may actively propose solutions to resolve the dispute.
+o   It is often less formal and used in pre-litigation stages.
+4. Arbitration:
+o A neutral third party (arbitrator) hears both sides and makes a binding decision (award).
+********** 5 **********
+--- page 6 ---
+o Governed by the Arbitration and Conciliation Act, 1996.
+5. Lok Adalat:
+o Statutory mechanism for resolving disputes through compromise/settlement, recognized under
+the Legal Services Authorities Act, 1987.
+o The award is binding and enforceable.
+Difference Between Mediation and Arbitration: (3 marks)
+Basis   Mediation   Arbitration
+Facilitated negotiation with mediator aiding   Formal hearing process similar to court
+Process
+communication.   proceedings.
+Mediator assists but does not decide the   Arbitrator listens to both parties and
+Role of Third Party
+outcome.   gives a binding decision.
+Parties control the outcome; voluntary   Arbitrator imposes a decision (award),
+Decision-Making
+settlement.   binding on parties.
+Settlement agreement may or may not be   Arbitral award is binding and
+Enforceability
+binding unless formalized.   enforceable as a court decree.
+Confidentiality &   Confidential but more structured and
+Highly confidential and flexible process.
+Flexibility   formal.
+6.
+a. Establishment of Consumer Dispute Redressal Commission
+- The Act provides for setting up of a Consumer Dispute Redressal Commission (CDRC), which
+shall be set up at the district, state and national level (Commissions).
+- The CDRC is empowered to resolve complaints with respect to unfair and restrictive trade
+practices, defective goods and services, overcharging and goods which are a hazardous to life and
+safety
+Section 28 - Establishment of District Consumer Disputes Redressal Commission (value of complaints
+= 1 crore) .
+Section 42 - Establishment of State Consumer Disputes Redressal Commission (value of complaints =
+exceeds 1 crore upto 10 crores) .
+Section 53 - Establishment of National Consumer Disputes Redressal Commission (value of complaints
+= exceeds 10 crores)
+Central Consumer Protection Authority (Section 10 - 27)
+The Act introduces the establishment of a Central Consumer Protection Authority (CCPA) by the central
+government.
+is a regulatory authority and shall be empowered to impose penalties, recall goods, cause withdrawal of
+services, provide refunds and investigate into matters.
+It shall also be responsible for protecting the rights of consumers as a class and shall further ensure that
+no person engages in unfair trade practices and that no misleading advertisements are made.
+Section numbers not important.
+********** 6 **********
+--- page 7 ---
+b. Yes, online sale is covered under COPRA 2019. (1 mark)
+Rights of the consumer (4 marks)
+- be protected against the marketing of goods, products or services which are hazardous to
+life and property;
+- be informed about the quality, quantity, potency, purity, standard and price of goods,
+products or services;
+- be assured, wherever possible, access to a variety of goods, products or services at
+competitive prices;
+- be heard and to be assured that consumers' interests will receive due consideration at
+appropriate fora;
+-   seek redressal against unfair trade practice or restrictive trade practices or unscrupulous
+exploitation of consumers; and
+- consumer awareness
+7.
+a. Composition of CCI (2 marks)
+• The Commission consists of one Chairperson and six Members as per the Competition Act who
+shall be appointed by the Central Government.
+• The commission is a quasi-judicial body which gives opinions to statutory authorities and also
+deals with other cases. The Chairperson and other Members shall be whole-time Members
+• Role of CCI – (5 marks)
+• To eliminate practices having adverse effect on competition, promote and sustain
+competition, protect the interests of consumers and ensure freedom of trade in the markets
+of India.
+• To give opinion on competition issues on a reference received from a statutory authority
+established under any law and to undertake competition advocacy, create public awareness
+and impart training on competition issues.
+• The Competition Commission of India takes the following measures to achieve
+its objectives:
+• Consumer welfare: To make the markets work for the benefit and welfare of consumers.
+• Ensure fair and healthy competition in economic activities in the country for faster and
+inclusive growth and development of the economy.
+• Implement competition policies with an aim to effectuate the most efficient utilization of
+economic resources.
+• Develop and nurture effective relations and interactions with sectoral regulators to ensure
+smooth alignment of sectoral regulatory laws in tandem with the competition law.
+•   Effectively carry out competition advocacy and spread the information on benefits of
+competition among all stakeholders to establish and nurture competition culture in Indian
+economy.
+• Need for CCI – (3 marks)
+********** 7 **********
+--- page 8 ---
+• Promote free enterprise: Competition laws have been described as the Magna Carta of
+free enterprise. Competition is important for the preservation of economic freedom and our
+free enterprise system.
+•   Protect against market distortions: The need for competition law arises because market
+can suffer from failures and distortions, and various players can resort to anti- competitive
+activities such as cartels, abuse of dominance etc. which adversely impact economic
+efficiency and consumer welfare.
+• Thus, there is a need for competition law to provide a regulative force which establishes
+effective control over economic activities.
+• Promotes domestic industries: During the era in which the economies are moving from
+closed economies to open economies, an effective competition commission is essential to
+ensure the continued viability of domestic industries, carefully balanced with attaining the
+benefits of foreign investment increased competition.
+********** 8 **********
+````
+
 ## 2024-25 · Re-Exam · Sem 8 · Answer key · paper 2f24c7006644
 
 - Departments: Electronics and Telecommunication

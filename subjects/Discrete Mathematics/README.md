@@ -1,6 +1,6 @@
 # Discrete Mathematics
 
-**135** unique papers (227 copies across programmes) · 2007-08 to 2025-26 · 35 programmes · Sem 1, Sem 3, Sem 4, Sem 5, Sem 6, Sem 7, Trim 1
+**145** unique papers (237 copies across programmes) · 2007-08 to 2025-26 · 39 programmes · Sem 1, Sem 3, Sem 4, Sem 5, Sem 6, Sem 7, Trim 1
 
 Download only this subject, sorted by academic year:
 
@@ -22,6 +22,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech Computer 7002 | QP_Discrete Mathematics(702BS0C077)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech EXTC 7006 | QP_Discrete Mathematics(702BS0C047)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech EXTC 7006 | QP_Discrete Mathematics(702BS0C047)_2025-2026_da44cb8b25.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 1 | Bachelor of Science (Information Technology) - 45618 | QP_Final-Exam_Discrete Mathematics(NHDSM109)_Semester I_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | MBATech IT 7041 | QP_Discrete Mathematics(702BS0C077)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AIDS 7056 | ANS_Discrete Mathematics(702BS0C077)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Discrete Mathematics(702BS0C077)_2025-2026.pdf |
@@ -29,6 +30,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CSBS 7036 | ANS_Discrete Mathematics(702BS0C077)_2025-2026_48cfc12685.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 3 | BTech Computer 7002 | ANS_Discrete Mathematics(702BS0C077)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 5 | BTech EXTC 7006 | ANS_Discrete Mathematics(702BS0C047)_2025-2026_84b0b2547f.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | Bachelor of Science (Information Technology) - 45618 | ANS_Final-Exam_Discrete Mathematics(NHDSM109)_Semester I_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech AIDS 7056 | QP_Discrete Mathematics(702BS0C077)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech AIML 7053 | QP_Discrete Mathematics(702BS0C077)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech CS 7055 | QP_Discrete Mathematics(702BS0C077)_2025-2026.pdf |
@@ -36,6 +38,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech Computer 7002, BTech CSE DS 7057, BTech CyberSecurity 7010 | QP_Discrete Mathematics(702BS0C077)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech EXTC 7006 | QP_Discrete Mathematics(702BS0C047)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech IT 7001 | QP_Discrete Mathematics(702BS0C077)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 1 | Bachelor of Science (Information Technology) - 45618 | QP_Re-Exam_Discrete Mathematics(NHDSM109)_Semester I_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | Integrated Computer 7032 | QP_Discrete Mathematics(702BS0C047)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | Integrated IT 7037 | QP_Discrete Mathematics(702BS0C047)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | MBATech AI 7051 | QP_Discrete Mathematics(702BS0C077)_2025-2026.pdf |
@@ -48,6 +51,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Re-Exam | Answer key | Sem 3 | BTech Computer 7002, BTech CSE DS 7057, BTech CyberSecurity 7010 | ANS_Discrete Mathematics(702BS0C077)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 5 | BTech EXTC 7006 | ANS_Discrete Mathematics(702BS0C047)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 3 | BTech IT 7001 | ANS_Discrete Mathematics(702BS0C077)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | Bachelor of Science (Information Technology) - 45618 | ANS_Re-Exam_Discrete Mathematics(NHDSM109)_Semester I_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated Computer 7032 | ANS_Discrete Mathematics(702BS0C047)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 7 | Integrated IT 7037 | ANS_Discrete Mathematics(702BS0C047)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 3 | MBATech AI 7051 | ANS_Discrete Mathematics(702BS0C077)_2025-2026.pdf |
@@ -57,6 +61,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / COMPUTER | Discrete Mathematics, Sem IV, Final Exam 2024-25 & Re Exam 2022-23 and 2023-24.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / IT | Discrete Mathematics Batch 2024-25 Final Batch 23-24 Re Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / COMPUTER, B.TECH INTEGRATED / IT | Discrete Mathematics Batch 2024-25 Final.pdf |
+| 2024-25 | Final-Exam | Question paper | Sem 3 | BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE) - 7056 | QP_Final-Exam_Discrete Mathematics(702BS0C047)_Semester III_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | BTech AI 7012 | QP_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | BTech AIML 7053 | QP_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | BTech CSBS 7036 | QP_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
@@ -68,6 +73,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Final-Exam | Question paper | Sem 3 | MBATech AI 7051 | QP_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | MBATech Computer 7047 | QP_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | MBATech IT 7041 | QP_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 3 | BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE) - 7056 | ANS_Final-Exam_Discrete Mathematics(702BS0C047)_Semester III_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 3 | BTech AI 7012 | ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 3 | BTech CSBS 7036 | ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
@@ -79,6 +85,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Final-Exam | Answer key | Sem 3 | MBATech AI 7051 | ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 3 | MBATech Computer 7047 | ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 3 | MBATech IT 7041 | ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 3 | BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY) - 7010 | QP_Re-Exam_Discrete Mathematics(702BS0C047)_Semester III_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | BTech AI 7012 | QP_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | BTech AIDS 7056 | QP_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | BTech AIML 7053 | QP_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
@@ -89,9 +96,11 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Re-Exam | Question paper | Sem 3 | BTech IT 7001 | QP_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 7 | Integrated Computer 7032 | QP_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 7 | Integrated IT 7037 | QP_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 3 | MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047 | QP_Re-Exam_Discrete Mathematics(702BS0C047)_Semester III_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | MBATech AI 7051 | QP_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 3 | MBATech IT 7041 | QP_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | MBATech(ELECTRONICS & TELECOMMUNICATION | QP_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3 | BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY) - 7010 | ANS_Re-Exam_Discrete Mathematics(702BS0C047)_Semester III_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 3 | BTech AI 7012 | ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 3 | BTech AIDS 7056 | ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 3 | BTech AIML 7053 | ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
@@ -102,6 +111,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Re-Exam | Answer key | Sem 3 | BTech IT 7001 | ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 7 | Integrated Computer 7032 | ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 7 | Integrated IT 7037 | ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 3 | MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047 | ANS_Re-Exam_Discrete Mathematics(702BS0C047)_Semester III_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 3 | MBATech AI 7051 | ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 3 | MBATech IT 7041 | ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 5 | MBATech(ELECTRONICS & TELECOMMUNICATION | ANS_Discrete Mathematics(702BS0C047)_2024-2025.pdf |

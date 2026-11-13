@@ -1,6 +1,6 @@
 # Communication Skills I
 
-**4** unique papers (4 copies across programmes) · 2024-25 · 1 programme · Sem 1
+**24** unique papers (24 copies across programmes) · 2024-25 to 2025-26 · 7 programmes · Sem 1
 
 Download only this subject, sorted by academic year:
 
@@ -14,6 +14,26 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Question paper | Sem 1 | Bachelor of Commerce (Economics) - 45616 | QP_Final-Exam_Communication Skills I(NFENG110)_Semester I_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 1 | Bachelor of Commerce (Management and Finance) - 45615 | QP_Final-Exam_Communication Skills I(NEENG111)_Semester I_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 1 | Bachelor of Commerce - 45611 | QP_Final-Exam_Communication Skills I(NAENG110)_Semester I_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 1 | Bachelor of Commerce(Economics & Analytics) - 45617 | QP_Final-Exam_Communication Skills I(NGENG109)_Semester I_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 1 | Bachelor of Science (Information Technology) - 45618 | QP_Final-Exam_Communication Skills I(NHENG110)_Semester I_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | Bachelor of Commerce (Economics) - 45616 | ANS_Final-Exam_Communication Skills I(NFENG110)_Semester I_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | Bachelor of Commerce (Management and Finance) - 45615 | ANS_Final-Exam_Communication Skills I(NEENG111)_Semester I_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | Bachelor of Commerce - 45611 | ANS_Final-Exam_Communication Skills I(NAENG110)_Semester I_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | Bachelor of Commerce(Economics & Analytics) - 45617 | ANS_Final-Exam_Communication Skills I(NGENG109)_Semester I_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | Bachelor of Science (Information Technology) - 45618 | ANS_Final-Exam_Communication Skills I(NHENG110)_Semester I_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 1 | Bachelor of Commerce (Economics) - 45616 | QP_Re-Exam_Communication Skills I(NFENG110)_Semester I_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 1 | Bachelor of Commerce (Management and Finance) - 45615 | QP_Re-Exam_Communication Skills I(NEENG111)_Semester I_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 1 | Bachelor of Commerce - 45611 | QP_Re-Exam_Communication Skills I(NAENG110)_Semester I_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 1 | Bachelor of Commerce(Accounting and Finance) - 45613 | QP_Re-Exam_Communication Skills I(NCENG109)_Semester I_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 1 | Bachelor of Science (Information Technology) - 45618 | QP_Re-Exam_Communication Skills I(NHENG110)_Semester I_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | Bachelor of Commerce (Economics) - 45616 | ANS_Re-Exam_Communication Skills I(NFENG110)_Semester I_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | Bachelor of Commerce (Management and Finance) - 45615 | ANS_Re-Exam_Communication Skills I(NEENG111)_Semester I_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | Bachelor of Commerce - 45611 | ANS_Re-Exam_Communication Skills I(NAENG110)_Semester I_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | Bachelor of Commerce(Accounting and Finance) - 45613 | ANS_Re-Exam_Communication Skills I(NCENG109)_Semester I_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | Bachelor of Science (Information Technology) - 45618 | ANS_Re-Exam_Communication Skills I(NHENG110)_Semester I_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 1 | BTech CSE DS 7011 | QP_Communication Skills-I(702BS0C017)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 1 | BTech CSE DS 7011 | ANS_Communication Skills-I(702BS0C017)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 1 | BTech CSE DS 7011 | QP_Communication Skills-I(702BS0C017)_2024-2025.pdf |

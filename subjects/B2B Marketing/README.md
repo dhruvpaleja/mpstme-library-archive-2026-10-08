@@ -1,6 +1,6 @@
 # B2B Marketing
 
-**40** unique papers (40 copies across programmes) · 2013-14 to 2025-26 · 8 programmes · Sem 8
+**42** unique papers (42 copies across programmes) · 2013-14 to 2025-26 · 9 programmes · Sem 8
 
 Download only this subject, sorted by academic year:
 
@@ -39,10 +39,12 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_B2B Marketing(703TM0C004)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_B2B Marketing(703TM0C004)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_B2B Marketing(703TM0C004)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 8 | MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (MECHANICAL ENGINEERING) - 7046 | QP_Re-Exam_B2B Marketing(703TM0C004)_Semester VIII_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_B2B Marketing(703TM0C004)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech AI 7051 | QP_B2B Marketing(703TM0C004)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech Computer 7047 | QP_B2B Marketing(703TM0C004)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech DS 7052 | QP_B2B Marketing(703TM0C004)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (MECHANICAL ENGINEERING) - 7046 | ANS_Re-Exam_B2B Marketing(703TM0C004)_Semester VIII_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_B2B Marketing(703TM0C004)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_B2B Marketing(703TM0C004)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_B2B Marketing(703TM0C004)_2024-2025.pdf |

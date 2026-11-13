@@ -1,8 +1,687 @@
 # Communication Skills II: question papers in full
 
-10 unique papers · 2021-22 to 2024-25 · Common (all branches), Data Science
+28 unique papers · 2021-22 to 2025-26 · Commerce, Common (all branches), Data Science, B.Sc Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 2 · paper 7d22daf480a8
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Economics) - 45616
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Commerce (Economics) - 45616/Communication Skills II/QP_Final-Exam_Communication Skills II(NFENG160)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 11 Mar 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Communication Skills II
+Date: 11 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figures at the right indicate full marks
+4. All main questions are compulsary
+5. Use fictitious names wherever necessary
+1.   Answer the following question(Attempt Any 1 Question)   10
+a.   10
+Explain why Group Discussion is described as a simulation of workplace behaviour. Explain
+how a leader manages conflict and time during GD. (5+5)
+b.   10
+Examine how meetings help organizations gain instant feedback and employee involvement.
+Analyze the responsibilities of participants in maintaining discipline, relevance, and
+continuity in meetings. (4+6)
+2.   Draft the following letters(Attempt Any 2 Questions)   10
+a.   5
+Atlas Engineering Works operates a manufacturing unit with heavy machinery and over 120
+employees. The management wants to safeguard its assets and workforce against unforeseen
+risks. As the HR manager, draft an enquiry letter to SecureShield Insurance Services regarding
+insurance policies, premium rates, coverage benefits, the claim settlement process, and tax
+advantages.
+b.   5
+Page 1 of 2
+--- page 2 ---
+UrbanGlow Lighting Solutions, Surat, received a formal complaint from a retail client stating
+that decorative lighting items were damaged upon delivery. The customer has attached
+photographs showing broken fixtures and cracked casings. Investigation reveals that the
+damage occurred during transit despite standard packaging. The client has demanded either
+compensation or replacement. Draft an adjustment letter in response to the complaint,
+expressing regret, accepting responsibility, and confirming that replacement goods will be
+dispatched immediately at no additional cost.
+c.   5
+Mr. Suresh Naik purchased a water purifier from PureDrop Home Systems, Hubballi,
+Bangalore after being assured of safe drinking water and free servicing for one year. Within
+weeks, his family members experienced stomach infections, and laboratory testing revealed
+contamination in the filtered water. The company’s technician blamed external water quality
+and refused responsibility. Despite repeated complaints, the purifier was neither replaced nor
+repaired. Draft a consumer grievance letter seeking a replacement, reimbursement for medical
+expenses, and accountability for negligence.
+3.   Answer the following questions   10
+a.   5
+Vikrant Sharma, the Assistant Branch Manager at Infratech Corp., organises a group discussion
+with his team to brainstorm new methods that will help customer service representatives to
+achieve their quarterly goals. In the discussion, a senior representative named Rohan disagrees
+with every suggestion offered by other members. He mocks others’ perspectives and uses a
+condescending tone when junior members provide suggestions. Consequently, other
+representatives stop contributing to the discussion. They look at their notes silently and wait for
+the discussion to end.
+a. Analyze how Rohan’s behaviour influences collaboration and problem-solving in the group
+discussion. (3 marks)
+b. Suggest two strategies that Vikrant can implement to ensure equal participation in the group
+discussion. (2 marks)
+b.   5
+‘Blue Water Hospitality’ is planning to open three new hotels in Goa. Draft a notice for the
+Project Management team and an agenda to start the planning phase for this expansion.
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 2 · paper 3fac5b4b633b
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Financial Markets) - 45612
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Commerce (Financial Markets) - 45612/Communication Skills II/QP_Final-Exam_Communication Skills II(NDENG159)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 11 Mar 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Communication Skills II
+Date: 11 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figures at the right indicate full marks
+4. All main questions are compulsary
+5. Use fictitious names wherever necessary
+1.   Answer the following question(Attempt Any 1 Question)   10
+a.   10
+Explain why Group Discussion is described as a simulation of workplace behaviour. Explain
+how a leader manages conflict and time during GD. (5+5)
+b.   10
+Examine how meetings help organizations gain instant feedback and employee involvement.
+Analyze the responsibilities of participants in maintaining discipline, relevance, and
+continuity in meetings. (4+6)
+2.   Draft the following letters(Attempt Any 2 Questions)   10
+a.   5
+Atlas Engineering Works operates a manufacturing unit with heavy machinery and over 120
+employees. The management wants to safeguard its assets and workforce against unforeseen
+risks. As the HR manager, draft an enquiry letter to SecureShield Insurance Services regarding
+insurance policies, premium rates, coverage benefits, the claim settlement process, and tax
+advantages.
+b.   5
+Page 1 of 2
+--- page 2 ---
+UrbanGlow Lighting Solutions, Surat, received a formal complaint from a retail client stating
+that decorative lighting items were damaged upon delivery. The customer has attached
+photographs showing broken fixtures and cracked casings. Investigation reveals that the
+damage occurred during transit despite standard packaging. The client has demanded either
+compensation or replacement. Draft an adjustment letter in response to the complaint,
+expressing regret, accepting responsibility, and confirming that replacement goods will be
+dispatched immediately at no additional cost.
+c.   5
+Mr. Suresh Naik purchased a water purifier from PureDrop Home Systems, Hubballi,
+Bangalore after being assured of safe drinking water and free servicing for one year. Within
+weeks, his family members experienced stomach infections, and laboratory testing revealed
+contamination in the filtered water. The company’s technician blamed external water quality
+and refused responsibility. Despite repeated complaints, the purifier was neither replaced nor
+repaired. Draft a consumer grievance letter seeking a replacement, reimbursement for medical
+expenses, and accountability for negligence.
+3.   Answer the following questions   10
+a.   5
+Vikrant Sharma, the Assistant Branch Manager at Infratech Corp., organises a group discussion
+with his team to brainstorm new methods that will help customer service representatives to
+achieve their quarterly goals. In the discussion, a senior representative named Rohan disagrees
+with every suggestion offered by other members. He mocks others’ perspectives and uses a
+condescending tone when junior members provide suggestions. Consequently, other
+representatives stop contributing to the discussion. They look at their notes silently and wait for
+the discussion to end.
+a. Analyze how Rohan’s behaviour influences collaboration and problem-solving in the group
+discussion. (3 marks)
+b. Suggest two strategies that Vikrant can implement to ensure equal participation in the group
+discussion. (2 marks)
+b.   5
+‘Blue Water Hospitality’ is planning to open three new hotels in Goa. Draft a notice for the
+Project Management team and an agenda to start the planning phase for this expansion.
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 2 · paper 2557642bd065
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Management and Finance) - 45615
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Commerce (Management and Finance) - 45615/Communication Skills II/QP_Final-Exam_Communication Skills II(NEENG160)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 11 Mar 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Communication Skills II
+Date: 11 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figures at the right indicate full marks
+4. All main questions are compulsary
+5. Use fictitious names wherever necessary
+1.   Answer the following question(Attempt Any 1 Question)   10
+a.   10
+Explain why Group Discussion is described as a simulation of workplace behaviour. Explain
+how a leader manages conflict and time during GD. (5+5)
+b.   10
+Examine how meetings help organizations gain instant feedback and employee involvement.
+Analyze the responsibilities of participants in maintaining discipline, relevance, and
+continuity in meetings. (4+6)
+2.   Draft the following letters(Attempt Any 2 Questions)   10
+a.   5
+Atlas Engineering Works operates a manufacturing unit with heavy machinery and over 120
+employees. The management wants to safeguard its assets and workforce against unforeseen
+risks. As the HR manager, draft an enquiry letter to SecureShield Insurance Services regarding
+insurance policies, premium rates, coverage benefits, the claim settlement process, and tax
+advantages.
+b.   5
+Page 1 of 2
+--- page 2 ---
+UrbanGlow Lighting Solutions, Surat, received a formal complaint from a retail client stating
+that decorative lighting items were damaged upon delivery. The customer has attached
+photographs showing broken fixtures and cracked casings. Investigation reveals that the
+damage occurred during transit despite standard packaging. The client has demanded either
+compensation or replacement. Draft an adjustment letter in response to the complaint,
+expressing regret, accepting responsibility, and confirming that replacement goods will be
+dispatched immediately at no additional cost.
+c.   5
+Mr. Suresh Naik purchased a water purifier from PureDrop Home Systems, Hubballi,
+Bangalore after being assured of safe drinking water and free servicing for one year. Within
+weeks, his family members experienced stomach infections, and laboratory testing revealed
+contamination in the filtered water. The company’s technician blamed external water quality
+and refused responsibility. Despite repeated complaints, the purifier was neither replaced nor
+repaired. Draft a consumer grievance letter seeking a replacement, reimbursement for medical
+expenses, and accountability for negligence.
+3.   Answer the following questions   10
+a.   5
+Vikrant Sharma, the Assistant Branch Manager at Infratech Corp., organises a group discussion
+with his team to brainstorm new methods that will help customer service representatives to
+achieve their quarterly goals. In the discussion, a senior representative named Rohan disagrees
+with every suggestion offered by other members. He mocks others’ perspectives and uses a
+condescending tone when junior members provide suggestions. Consequently, other
+representatives stop contributing to the discussion. They look at their notes silently and wait for
+the discussion to end.
+a. Analyze how Rohan’s behaviour influences collaboration and problem-solving in the group
+discussion. (3 marks)
+b. Suggest two strategies that Vikrant can implement to ensure equal participation in the group
+discussion. (2 marks)
+b.   5
+‘Blue Water Hospitality’ is planning to open three new hotels in Goa. Draft a notice for the
+Project Management team and an agenda to start the planning phase for this expansion.
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 2 · paper ed28c416d00a
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce - 45611
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Commerce - 45611/Communication Skills II/QP_Final-Exam_Communication Skills II(NAENG159)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 11 Mar 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Communication Skills II
+Date: 11 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figures at the right indicate full marks
+4. All main questions are compulsary
+5. Use fictitious names wherever necessary
+1.   Answer the following question(Attempt Any 1 Question)   10
+a.   10
+Explain why Group Discussion is described as a simulation of workplace behaviour. Explain
+how a leader manages conflict and time during GD. (5+5)
+b.   10
+Examine how meetings help organizations gain instant feedback and employee involvement.
+Analyze the responsibilities of participants in maintaining discipline, relevance, and
+continuity in meetings. (4+6)
+2.   Draft the following letters(Attempt Any 2 Questions)   10
+a.   5
+Atlas Engineering Works operates a manufacturing unit with heavy machinery and over 120
+employees. The management wants to safeguard its assets and workforce against unforeseen
+risks. As the HR manager, draft an enquiry letter to SecureShield Insurance Services regarding
+insurance policies, premium rates, coverage benefits, the claim settlement process, and tax
+advantages.
+b.   5
+Page 1 of 2
+--- page 2 ---
+UrbanGlow Lighting Solutions, Surat, received a formal complaint from a retail client stating
+that decorative lighting items were damaged upon delivery. The customer has attached
+photographs showing broken fixtures and cracked casings. Investigation reveals that the
+damage occurred during transit despite standard packaging. The client has demanded either
+compensation or replacement. Draft an adjustment letter in response to the complaint,
+expressing regret, accepting responsibility, and confirming that replacement goods will be
+dispatched immediately at no additional cost.
+c.   5
+Mr. Suresh Naik purchased a water purifier from PureDrop Home Systems, Hubballi,
+Bangalore after being assured of safe drinking water and free servicing for one year. Within
+weeks, his family members experienced stomach infections, and laboratory testing revealed
+contamination in the filtered water. The company’s technician blamed external water quality
+and refused responsibility. Despite repeated complaints, the purifier was neither replaced nor
+repaired. Draft a consumer grievance letter seeking a replacement, reimbursement for medical
+expenses, and accountability for negligence.
+3.   Answer the following questions   10
+a.   5
+Vikrant Sharma, the Assistant Branch Manager at Infratech Corp., organises a group discussion
+with his team to brainstorm new methods that will help customer service representatives to
+achieve their quarterly goals. In the discussion, a senior representative named Rohan disagrees
+with every suggestion offered by other members. He mocks others’ perspectives and uses a
+condescending tone when junior members provide suggestions. Consequently, other
+representatives stop contributing to the discussion. They look at their notes silently and wait for
+the discussion to end.
+a. Analyze how Rohan’s behaviour influences collaboration and problem-solving in the group
+discussion. (3 marks)
+b. Suggest two strategies that Vikrant can implement to ensure equal participation in the group
+discussion. (2 marks)
+b.   5
+‘Blue Water Hospitality’ is planning to open three new hotels in Goa. Draft a notice for the
+Project Management team and an agenda to start the planning phase for this expansion.
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 2 · paper 1c63c327a821
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce(Accounting and Finance) - 45613
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Commerce(Accounting and Finance) - 45613/Communication Skills II/QP_Final-Exam_Communication Skills II(NCENGS159)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 11 Mar 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Communication Skills II
+Date: 11 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figures at the right indicate full marks
+4. All main questions are compulsary
+5. Use fictitious names wherever necessary
+1.   Answer the following question(Attempt Any 1 Question)   10
+a.   10
+Explain why Group Discussion is described as a simulation of workplace behaviour. Explain
+how a leader manages conflict and time during GD. (5+5)
+b.   10
+Examine how meetings help organizations gain instant feedback and employee involvement.
+Analyze the responsibilities of participants in maintaining discipline, relevance, and
+continuity in meetings. (4+6)
+2.   Draft the following letters(Attempt Any 2 Questions)   10
+a.   5
+Atlas Engineering Works operates a manufacturing unit with heavy machinery and over 120
+employees. The management wants to safeguard its assets and workforce against unforeseen
+risks. As the HR manager, draft an enquiry letter to SecureShield Insurance Services regarding
+insurance policies, premium rates, coverage benefits, the claim settlement process, and tax
+advantages.
+b.   5
+Page 1 of 2
+--- page 2 ---
+UrbanGlow Lighting Solutions, Surat, received a formal complaint from a retail client stating
+that decorative lighting items were damaged upon delivery. The customer has attached
+photographs showing broken fixtures and cracked casings. Investigation reveals that the
+damage occurred during transit despite standard packaging. The client has demanded either
+compensation or replacement. Draft an adjustment letter in response to the complaint,
+expressing regret, accepting responsibility, and confirming that replacement goods will be
+dispatched immediately at no additional cost.
+c.   5
+Mr. Suresh Naik purchased a water purifier from PureDrop Home Systems, Hubballi,
+Bangalore after being assured of safe drinking water and free servicing for one year. Within
+weeks, his family members experienced stomach infections, and laboratory testing revealed
+contamination in the filtered water. The company’s technician blamed external water quality
+and refused responsibility. Despite repeated complaints, the purifier was neither replaced nor
+repaired. Draft a consumer grievance letter seeking a replacement, reimbursement for medical
+expenses, and accountability for negligence.
+3.   Answer the following questions   10
+a.   5
+Vikrant Sharma, the Assistant Branch Manager at Infratech Corp., organises a group discussion
+with his team to brainstorm new methods that will help customer service representatives to
+achieve their quarterly goals. In the discussion, a senior representative named Rohan disagrees
+with every suggestion offered by other members. He mocks others’ perspectives and uses a
+condescending tone when junior members provide suggestions. Consequently, other
+representatives stop contributing to the discussion. They look at their notes silently and wait for
+the discussion to end.
+a. Analyze how Rohan’s behaviour influences collaboration and problem-solving in the group
+discussion. (3 marks)
+b. Suggest two strategies that Vikrant can implement to ensure equal participation in the group
+discussion. (2 marks)
+b.   5
+‘Blue Water Hospitality’ is planning to open three new hotels in Goa. Draft a notice for the
+Project Management team and an agenda to start the planning phase for this expansion.
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 2 · paper 9edf5bf8e952
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce(Economics & Analytics) - 45617
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Commerce(Economics & Analytics) - 45617/Communication Skills II/QP_Final-Exam_Communication Skills II(NGENG159)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 11 Mar 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Communication Skills II
+Date: 11 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figures at the right indicate full marks
+4. All main questions are compulsary
+5. Use fictitious names wherever necessary
+1.   Answer the following question(Attempt Any 1 Question)   10
+a.   10
+Explain why Group Discussion is described as a simulation of workplace behaviour. Explain
+how a leader manages conflict and time during GD. (5+5)
+b.   10
+Examine how meetings help organizations gain instant feedback and employee involvement.
+Analyze the responsibilities of participants in maintaining discipline, relevance, and
+continuity in meetings. (4+6)
+2.   Draft the following letters(Attempt Any 2 Questions)   10
+a.   5
+Atlas Engineering Works operates a manufacturing unit with heavy machinery and over 120
+employees. The management wants to safeguard its assets and workforce against unforeseen
+risks. As the HR manager, draft an enquiry letter to SecureShield Insurance Services regarding
+insurance policies, premium rates, coverage benefits, the claim settlement process, and tax
+advantages.
+b.   5
+Page 1 of 2
+--- page 2 ---
+UrbanGlow Lighting Solutions, Surat, received a formal complaint from a retail client stating
+that decorative lighting items were damaged upon delivery. The customer has attached
+photographs showing broken fixtures and cracked casings. Investigation reveals that the
+damage occurred during transit despite standard packaging. The client has demanded either
+compensation or replacement. Draft an adjustment letter in response to the complaint,
+expressing regret, accepting responsibility, and confirming that replacement goods will be
+dispatched immediately at no additional cost.
+c.   5
+Mr. Suresh Naik purchased a water purifier from PureDrop Home Systems, Hubballi,
+Bangalore after being assured of safe drinking water and free servicing for one year. Within
+weeks, his family members experienced stomach infections, and laboratory testing revealed
+contamination in the filtered water. The company’s technician blamed external water quality
+and refused responsibility. Despite repeated complaints, the purifier was neither replaced nor
+repaired. Draft a consumer grievance letter seeking a replacement, reimbursement for medical
+expenses, and accountability for negligence.
+3.   Answer the following questions   10
+a.   5
+Vikrant Sharma, the Assistant Branch Manager at Infratech Corp., organises a group discussion
+with his team to brainstorm new methods that will help customer service representatives to
+achieve their quarterly goals. In the discussion, a senior representative named Rohan disagrees
+with every suggestion offered by other members. He mocks others’ perspectives and uses a
+condescending tone when junior members provide suggestions. Consequently, other
+representatives stop contributing to the discussion. They look at their notes silently and wait for
+the discussion to end.
+a. Analyze how Rohan’s behaviour influences collaboration and problem-solving in the group
+discussion. (3 marks)
+b. Suggest two strategies that Vikrant can implement to ensure equal participation in the group
+discussion. (2 marks)
+b.   5
+‘Blue Water Hospitality’ is planning to open three new hotels in Goa. Draft a notice for the
+Project Management team and an agenda to start the planning phase for this expansion.
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 2 · paper acb3c962e497
+
+- Departments: B.Sc Information Technology
+- Programmes: Bachelor of Science (Information Technology) - 45618
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Science (Information Technology) - 45618/Communication Skills II/QP_Final-Exam_Communication Skills II(NHENG160)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 11 Mar 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Communication Skills II
+Date: 11 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figures at the right indicate full marks
+4. All main questions are compulsary
+5. Use fictitious names wherever necessary
+1.   Answer the following question(Attempt Any 1 Question)   10
+a.   10
+Explain why Group Discussion is described as a simulation of workplace behaviour. Explain
+how a leader manages conflict and time during GD. (5+5)
+b.   10
+Examine how meetings help organizations gain instant feedback and employee involvement.
+Analyze the responsibilities of participants in maintaining discipline, relevance, and
+continuity in meetings. (4+6)
+2.   Draft the following letters(Attempt Any 2 Questions)   10
+a.   5
+Atlas Engineering Works operates a manufacturing unit with heavy machinery and over 120
+employees. The management wants to safeguard its assets and workforce against unforeseen
+risks. As the HR manager, draft an enquiry letter to SecureShield Insurance Services regarding
+insurance policies, premium rates, coverage benefits, the claim settlement process, and tax
+advantages.
+b.   5
+Page 1 of 2
+--- page 2 ---
+UrbanGlow Lighting Solutions, Surat, received a formal complaint from a retail client stating
+that decorative lighting items were damaged upon delivery. The customer has attached
+photographs showing broken fixtures and cracked casings. Investigation reveals that the
+damage occurred during transit despite standard packaging. The client has demanded either
+compensation or replacement. Draft an adjustment letter in response to the complaint,
+expressing regret, accepting responsibility, and confirming that replacement goods will be
+dispatched immediately at no additional cost.
+c.   5
+Mr. Suresh Naik purchased a water purifier from PureDrop Home Systems, Hubballi,
+Bangalore after being assured of safe drinking water and free servicing for one year. Within
+weeks, his family members experienced stomach infections, and laboratory testing revealed
+contamination in the filtered water. The company’s technician blamed external water quality
+and refused responsibility. Despite repeated complaints, the purifier was neither replaced nor
+repaired. Draft a consumer grievance letter seeking a replacement, reimbursement for medical
+expenses, and accountability for negligence.
+3.   Answer the following questions   10
+a.   5
+Vikrant Sharma, the Assistant Branch Manager at Infratech Corp., organises a group discussion
+with his team to brainstorm new methods that will help customer service representatives to
+achieve their quarterly goals. In the discussion, a senior representative named Rohan disagrees
+with every suggestion offered by other members. He mocks others’ perspectives and uses a
+condescending tone when junior members provide suggestions. Consequently, other
+representatives stop contributing to the discussion. They look at their notes silently and wait for
+the discussion to end.
+a. Analyze how Rohan’s behaviour influences collaboration and problem-solving in the group
+discussion. (3 marks)
+b. Suggest two strategies that Vikrant can implement to ensure equal participation in the group
+discussion. (2 marks)
+b.   5
+‘Blue Water Hospitality’ is planning to open three new hotels in Goa. Draft a notice for the
+Project Management team and an agenda to start the planning phase for this expansion.
+Page 2 of 2
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper 67c885e1b80e
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce - 45611
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Re-Exam/Bachelor of Commerce - 45611/Communication Skills II/QP_Re-Exam_Communication Skills II(NAENG159)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 24 Jun 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Communication Skills II
+Date: 24 Jun 2026   Time: 10:30 am - 11:30 am (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figures at the right indicate full marks
+4. All main questions are compulsary
+5. Use fictitious names wherever necessary
+1.   Answer the following question(Attempt Any 1 Question)   10
+a.   10
+Analyze the skills and attributes most potential employers look for in interviews, focusing on
+analytical skills, adaptability, and professionalism. Briefly discuss any two areas of
+questioning used to assess these skills. (6+4)
+b.   10
+Critically examine the assumption that collective discussion leads to better decisions during
+meetings. How does the chairperson ensure that objectives are achieved in a consultative
+meeting? (5+5)
+2.   Draft the following letters(Attempt Any 2 Questions)   10
+a.   5
+GlowNest Organics is launching a new line of herbal skincare products in the market. To create
+strong brand awareness, the company plans an integrated advertising campaign. The marketing
+head wants to enquire with BrandWave Communications regarding digital marketing
+strategies, print and social media packages, campaign duration, and estimated costs. Draft an
+enquiry letter requesting all required information.
+b.   5
+Page 1 of 2
+--- page 2 ---
+MetroLine Logistics Pvt. Ltd., Nagpur, has received a written complaint from one of its regular
+clients regarding the delayed delivery of medical supplies. The delay occurred due to
+unexpected highway closures and traffic diversions, which were beyond the company’s initial
+control. The client has expressed dissatisfaction as the delay disrupted hospital inventory
+planning. After internal review, the company accepts partial responsibility for not
+communicating the delay promptly. Draft an adjustment letter responding to the complaint,
+apologizing for the inconvenience, explaining the reason politely, and offering a discount on
+the next shipment.
+c.   5
+Mr. Rakesh Malhotra regularly orders meals through QuickBite Online Services Ltd., Delhi,
+which advertises transparent pricing and zero hidden costs. Over the last month, he noticed
+additional “service facilitation fees” added at checkout without prior disclosure. His emails to
+customer support received generic automated replies, and no refund was processed. Mr.
+Malhotra believes this practice amounts to unfair trade and misleading advertisements. Draft a
+consumer grievance letter demanding a refund of excess charges and the discontinuation of
+such practices.
+3.   Answer the following questions   10
+a.   5
+Vikram Malhotra, the Zonal Manager of Aura Fintech Solutions, has appointed a four-person
+team to resolve the lack of sufficient office space at the Mumbai branch. The team is led by
+Arjun Mehta, a Senior Operations Manager. Arjun schedules weekly meetings for four weeks
+to address the problem. After two meetings, he notices that everyone is contributing to the
+team, except Priya, the Technical Consultant. She often jumps ahead of the topic or interrupts a
+speaker’s train of thought. At other times, she doodles on her notepad and remains silent after
+team members deliver lengthy reports about possible solutions to the issue at hand.
+a. Analyze the impact of Priya’s behaviour on the outcome of the meetings. (3 marks)
+b. Propose two changes Arjun could implement for the final two meetings to ensure meeting
+productivity. (2 marks)
+b.   5
+The Sales Department of ‘Swift Motors’ has exceeded its annual targets. Draft a notice for the
+HR and Finance heads and an agenda to discuss the distribution of bonuses and performance-
+linked incentives.
+Page 2 of 2
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper 4f92b5f21cd2
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce(Accounting and Finance) - 45613
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Re-Exam/Bachelor of Commerce(Accounting and Finance) - 45613/Communication Skills II/QP_Re-Exam_Communication Skills II(NCENGS159)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 24 Jun 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Communication Skills II
+Date: 24 Jun 2026   Time: 10:30 am - 11:30 am (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figures at the right indicate full marks
+4. All main questions are compulsary
+5. Use fictitious names wherever necessary
+1.   Answer the following question(Attempt Any 1 Question)   10
+a.   10
+Analyze the skills and attributes most potential employers look for in interviews, focusing on
+analytical skills, adaptability, and professionalism. Briefly discuss any two areas of
+questioning used to assess these skills. (6+4)
+b.   10
+Critically examine the assumption that collective discussion leads to better decisions during
+meetings. How does the chairperson ensure that objectives are achieved in a consultative
+meeting? (5+5)
+2.   Draft the following letters(Attempt Any 2 Questions)   10
+a.   5
+GlowNest Organics is launching a new line of herbal skincare products in the market. To create
+strong brand awareness, the company plans an integrated advertising campaign. The marketing
+head wants to enquire with BrandWave Communications regarding digital marketing
+strategies, print and social media packages, campaign duration, and estimated costs. Draft an
+enquiry letter requesting all required information.
+b.   5
+Page 1 of 2
+--- page 2 ---
+MetroLine Logistics Pvt. Ltd., Nagpur, has received a written complaint from one of its regular
+clients regarding the delayed delivery of medical supplies. The delay occurred due to
+unexpected highway closures and traffic diversions, which were beyond the company’s initial
+control. The client has expressed dissatisfaction as the delay disrupted hospital inventory
+planning. After internal review, the company accepts partial responsibility for not
+communicating the delay promptly. Draft an adjustment letter responding to the complaint,
+apologizing for the inconvenience, explaining the reason politely, and offering a discount on
+the next shipment.
+c.   5
+Mr. Rakesh Malhotra regularly orders meals through QuickBite Online Services Ltd., Delhi,
+which advertises transparent pricing and zero hidden costs. Over the last month, he noticed
+additional “service facilitation fees” added at checkout without prior disclosure. His emails to
+customer support received generic automated replies, and no refund was processed. Mr.
+Malhotra believes this practice amounts to unfair trade and misleading advertisements. Draft a
+consumer grievance letter demanding a refund of excess charges and the discontinuation of
+such practices.
+3.   Answer the following questions   10
+a.   5
+Vikram Malhotra, the Zonal Manager of Aura Fintech Solutions, has appointed a four-person
+team to resolve the lack of sufficient office space at the Mumbai branch. The team is led by
+Arjun Mehta, a Senior Operations Manager. Arjun schedules weekly meetings for four weeks
+to address the problem. After two meetings, he notices that everyone is contributing to the
+team, except Priya, the Technical Consultant. She often jumps ahead of the topic or interrupts a
+speaker’s train of thought. At other times, she doodles on her notepad and remains silent after
+team members deliver lengthy reports about possible solutions to the issue at hand.
+a. Analyze the impact of Priya’s behaviour on the outcome of the meetings. (3 marks)
+b. Propose two changes Arjun could implement for the final two meetings to ensure meeting
+productivity. (2 marks)
+b.   5
+The Sales Department of ‘Swift Motors’ has exceeded its annual targets. Draft a notice for the
+HR and Finance heads and an agenda to discuss the distribution of bonuses and performance-
+linked incentives.
+Page 2 of 2
+````
 
 ## 2024-25 · Final-Exam · Sem 2 · paper 74cae0855b8f
 

@@ -1,6 +1,6 @@
 # Operations Research
 
-**101** unique papers (133 copies across programmes) · 2006-07 to 2025-26 · 19 programmes · Sem 4, Sem 5, Sem 6, Sem 7, Sem 8, Sem 9, Sem 10, Sem 12, Trim 5, Trim 7
+**103** unique papers (135 copies across programmes) · 2006-07 to 2025-26 · 20 programmes · Sem 1, Sem 4, Sem 5, Sem 6, Sem 7, Sem 8, Sem 9, Sem 10, Sem 12, Trim 5, Trim 7
 
 Download only this subject, sorted by academic year:
 
@@ -19,8 +19,10 @@ Also filed as: `OPERATION RESEARCH`, `Operation Research`, `OPRATION RESEARCH`
 | 2025-26 | Final-Exam | Question paper | Sem 5, Sem 9 | B TECH / COMPUTER, B TECH / MECHATRONICS, B.TECH INTEGRATED / COMPUTER | Operations Research 2025-26 Final.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech CSBS 7036 | QP_Operations Research(702BS0C089)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | BTech Mechatronics 7004 | QP_Operations Research(702MH0E002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 1 | MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703 | QP_Final-Exam_Operations Research(NKOPR509)_Semester I_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 4 | BTech CSBS 7036 | ANS_Operations Research(702BS0C089)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 5 | BTech Mechatronics 7004 | ANS_Operations Research(702MH0E002)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703 | ANS_Final-Exam_Operations Research(NKOPR509)_Semester I_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | B TECH / CSBS | B Tech, Operations Research, Sem-IV, Batch 2023-24, 2024-25 & 2025-26, Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 4 | BTech CSBS 7036 | QP_Operations Research(702BS0C089)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 9 | Integrated Computer 7032 | QP_Operations Research(702CO0E003)_2025-2026.pdf |

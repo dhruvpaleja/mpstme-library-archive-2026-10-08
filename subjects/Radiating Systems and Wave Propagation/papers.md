@@ -1,8 +1,71 @@
 # Radiating Systems and Wave Propagation: question papers in full
 
-6 unique papers · 2017-18 to 2019-20 · Electronics and Telecommunication
+9 unique papers · 2017-18 to 2019-20 · Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2019-20 · Final + Re-Exam · Sem 7 · paper b6ec3a52e351
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: EXTC/SEMESTER VII/RADIATING SYSTEMS AND WAVE PROPAGATION/Radiating_Systems_and_Wave_Propagation_2019-20_Final_Batch_2018-19_Re_Exam_4COIfGLIaE.pdf`
+- Printed on paper: exam date: 12 November 2019
+- Text: ocr (1 page), mean OCR confidence 91.1
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING \
+
+Programme: B.Tech Integrated (EXTC) Year: IV Semester: VII
+
+Academic Year: 2019-20
+Subject: Radiating Systems and Wave Propagation.
+
+Date: 12 November 2019
+7
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks,
+7) Assume Suitable data if necessary.
+
+Q.1 Attempt any FOUR 14
+A Define field regions of the antenna.
+B Compare travelling and standing wave antenna.
+
+Cc Draw and explain pattern multiplication in array.
+D State and explain reciprocity theorem.
+EB Explain the term skip distance.
+
+i What is a smart antenna?
+Q.2A Derive E and H fields for hertzian dipole. 07
+Q.2B Explain the formation of layers of ionosphere. 07
+Q.3A Derive equation for radiation pattern of two point sources with equal amplitude and opposite 07
+phase.
+Q.3B Explain in detail V antenna. 07
+Q.4A _ Give the relation between input impedance and power of the receiving antenna. 07
+Q.4B Derive Wave equation in term of B and H. 07
+Q.5A _ Derive the input impedance equation of the folded dipole. 07
+Q.5B Draw and explain feeding method of parabolic reflector antenna. 07
+Q.6A Discuss different modes of helical antenna. 07
+Q.6B Explain different methods of gain measurement. 07
+Q.7 Write short notes on TWO 14
+
+A Sky wave propagation
+B Beam switched array
+C Rhombic antenna
+````
 
 ## 2019-20 · Final + Re-Exam · Sem 5 · paper 98f33c3118f6
 
@@ -73,6 +136,89 @@ B Adaptive beam forming antenna
 Cc Tropospheric scattering
 
 pegs 4of4
+````
+
+## 2018-19 · Final-Exam · Sem 7 · paper 100acaeb478c
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: EXTC/SEMESTER VII/RADIATING SYSTEMS AND WAVE PROPAGATION/Radiating_Systems_and_Wave_Propagation_2018-19_Final_klCt5kRkjO.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 22 November 2018
+- Text: ocr (2 pages), mean OCR confidence 91.5
+
+````text
+SVKM’S NMIMS
+
+Program B.Tech Integrated (EXTC) — Year: IV
+AcademicY ear: 2018-2019
+Subject: Radiating Systems and Wave Propagation ~~ Marks: 70
+Date : 22 November 2018 /, Time:10.00 am to 1.00 pm <—
+
+Duration: 3 (hrs)
+No. of Pages: 2
+Final Examination (2018-19) «~
+
+Instructions: Candidates should read carefully the instructions printed on the question
+paper and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks. :
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q. 1. (a) Define the following: i. Curl ii. Scalar Potential iii. Vector Potential
+[06]
+(b) Draw a neat sketch of ionospheric layers and explain the effect of these layers on
+wave propagation. [04]
+(c) Effect of height on antenna. [04]
+Q. 2. (a) In connection with the reflecting mechanism, define the following:
+i. Virtualheight ii. Skipdistance iii, MUF _ iv. Radio horizon. [08]
+
+(b) A 150 m antenna transmitting at 1.2 MHz and therefore by ground wave, has an antenna
+current of 8 A. What voltage is received by the receiving antenna 40 km away with a height
+of 2m? [06]
+
+1|Bage
+--- page 2 ---
+Q. 3. (a) Starting from the Maxwell’s equations, derive the wave equation and explain its
+
+significance. [07]
+(b) Draw the radiation patterns of the dipoles of the following lengths:
+
+i. 34/2 ii, A/2 iii, A iv. 2A
+
+along with the current distribution. [07]
+
+Q. 4. (a). Derive Friis Transmission equations and explain about its application.
+
+[07]
+(b) At 20 km from the free space from a point source, the power density is
+200uW / m? What will be the power density 25 km away from the
+Antenna? [07]
+
+Q. 5. (a) Describe an antenna using parabolic reflector along with its applications. [07]
+
+(b) Explain log periodic antenna. Why is it called log-periodic? [07]
+
+Q. 6 (a) Derive an expression for 17, g> developed by an infinitesimal dipole in free space at a
+
+distance r from the dipole. [07]
+(b) Explain two antenna method of gain measurement of antenna. [07]
+Q.7 Write notes on any two of the following:
+i. Circular Loop antenna ii. Rhombic antenna iii. Yagi - Uda antenna.
+
+[14]
+
+RK
+
+2|Bage
 ````
 
 ## 2018-19 · Re-Exam · Sem 5 · paper e7ff1e64ba12
@@ -371,6 +517,116 @@ Q.7-A) What are the method of measurement of antenna impedance? Explain slotted 
 B) List benefit of Smart antennas. Explain adaptive beam forming.
 
 [7]
+````
+
+## 2017-18 · Final-Exam · Sem 7 · paper 1e9c5fea9445
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: EXTC/SEMESTER VII/RADIATING SYSTEMS AND WAVE PROPAGATION/Radiating_Systems_and_Wave_Propagation_2017-18_Final_APGYGW6CLE.pdf`
+- Printed on paper: exam date: 24 November 2017
+- Text: ocr (2 pages), mean OCR confidence 90.7
+
+````text
+SVKM’S NMIMS .
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2017-2018
+
+Program: B. Tech Integrated (EXTC)~ Year:1V © Semester: VIL .
+
+Subject: Radiating Systems and Wave Propagation ~ Marks: 6
+
+Date : 24 November 2017 ~
+
+FINAL EXAMINATION
+
+Instructions: Candidates should read carefully the instructions printed on the questi
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to-be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Attempt the following
+
+A) What is beam solid angle? Obtainedit’s value. [3]
+B) Compare Yagi-Uda and Log periodic Antenna. [37
+C) Explain the significance of Maxwell’s Equation. £37
+
+Time: 02, vr
+Durafio) rs .
+
+a
+Poot
+
+n the cover
+
+[12]
+
+D) Calculate the effective aperture of a dipole antenna of length 2CM at a frequency of 1.2 £37
+Ghz. What will be the power received for an incident power density of 2 mW/m’.
+
+Q.2-A) A VHF communication link is to be established with 35 W transmitter at 90 Mhz. find the [6]
+distance up to which line of sight communication may be possible if the height of
+transmitting and receiving antenna are 40 m and 25 m eSpOOl vehi, Qlso determine the field
+
+strength at receiving point.
+
+B) What do you mean by Polarization of EM wave. With the help of diagram explain types of [6]
+
+Polarization.
+Q.3-A) What are ground waves ? How they are polarized? Write properties of ionosphere. [6]
+B) Define effective aperture of Antenna. Derive the basic equation for Effective aperture. [4]
+
+Q.4-A) Compare infinitesimal dipole,small dipole,and half wave dipole.
+impedance of Folded dipete is 292Q.
+
+Show that input [6]
+
+Page 1 of 2
+--- page 2 ---
+/
+
+d
+
+B)
+Q.5-A)
+B)
+Q.6-A)
+B)
+
+Q.7-A)
+B)
+
+Two point source of equal magnitude and same phase are placed at a distance 1/2. [6]
+Calculate the direction of maximum radiation, minimum radiation and half power point
+direction.
+
+Prove that radiation resistance of Half Wave Dipole is 73Q. and state its applications. {s]
+Explain the principle of Pattern multiplication. Draw the radiation pattern of array of 4 point [6]
+source.
+
+Design a log periodic antenna for a operating frequency of 50-200 Mhz. Write it’s [6]
+applications.
+
+List various feeding methods of Micro Strip Patch Antenna. With the help of diagram explain [6]
+inset feed method.
+
+Draw the set-up of comparison method of Antenna gain measurement and explain it. [6]
+List benefit of Smart Antennas. Explain adaptive beam forming.
+
+Page 2 of 2
 ````
 
 ## 2017-18 · Final-Exam · Sem 5 · paper 4991aa983d39

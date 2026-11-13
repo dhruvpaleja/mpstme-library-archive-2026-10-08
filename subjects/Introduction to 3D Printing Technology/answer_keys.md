@@ -219,6 +219,81 @@ Pros & Cons- 4 marks
 ********** 6 **********
 ````
 
+## 2024-25 · Final-Exam · Sem 5 · Answer key · paper a8730ee9c079
+
+- Departments: Mechanical
+- Programmes: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7031
+- Source: `00_Original_Downloads/2024/65247__Semester V__context_fixed.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7031/Introduction to 3D Printing Technology/ANS_Final-Exam_Introduction to 3D Printing Technology(701ME0C018)_Semester V_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
+- Text: text (2 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX
+YEARS INTEGRATED PROGRAM
+Year: III/Semester V(Exam Year: 2024-2025)
+Subject: Introduction to 3D Printing Technology
+Date: 03 Dec 2024   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Question No. _Q.1___ is compulsory.
+3. Out of remaining questions in Q.2, attempt any __4__questions between A-F
+4. In all ___5_ questions to be attempted.
+5. All questions carry equal marks.
+6. Figures in brackets on the right hand side indicate full marks.
+7. Assume Suitable data if necessary.
+8. Answer to each new question to be started on a fresh page.
+Q1
+Answer briefly:   [20]
+Manufacturing processes- Additive ,subtractive , formative
+a.   [5]
+Definition of each -3 marks
+Examples -2 marks
+b.   Thermoset polymers with examples-2.5 marks   [5]
+Thermoplastic polymers with examples- 2.5 marks
+Definition of support structures- 2 marks
+c.   Use of support structures- 3 marks   [5]
+Explain contour printing : 2 marks
+d.   Potential of construction industry: 3 marks with examples.   [5]
+Q.2   I
+A.   Process chain – 5 marks   [10]
+Explanation -5 marks
+II   State difference -4 marks
+Diagram of each -6 marks   [10]
+B..   I.   Min 5 common parameters with explanation of each -5*2 marks   [10]
+Explain all types of supports used in 3D printing-5*2 marks
+II   [10]
+C.   I.   Comparison – 4 marks
+Examples of each -4 marks
+[10]
+Applications & challenges- 2 marks
+********** 1 **********
+--- page 2 ---
+Explanation of process- 5 marks
+II.
+Diagram-3 marks   [10]
+Application-2 marks
+D.   I.   Explanation – 5marks
+Application- 5marks   [10]
+II.   Need of post processing- 5 marks
+[10]
+Different types -5 marks
+I.
+E.   Min 5 parameters- 5*2 marks   [10]
+II.   Application in medical inplant industry – 5 marks
+[10]
+Application in jewellery industry – 5 marks
+F.   I.   Laser parameters – 5 marks
+Explanation -5 marks   [10]
+II.   Property enhancement techniques – 6 marks
+Explanation - 4 marks   [10]
+********** 2 **********
+````
+
 ## 2024-25 · Re-Exam · Sem 5 · Answer key · paper 7c5a393ea17f
 
 - Departments: Mechanical

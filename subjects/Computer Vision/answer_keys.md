@@ -2,6 +2,253 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 8720c2b551c8
+
+- Departments: Data Science
+- Programmes: MASTER OF TECHNOLOGY - DATA SCIENCE (BUSINESS ANALYTICS) - 7027
+- Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: MASTER OF TECHNOLOGY - DATA SCIENCE (BUSINESS ANALYTICS) - 7027/Computer Vision/ANS_Final-Exam_Computer Vision(703DB0E027)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2026
+- Text: text (5 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: M. Tech (AI)/M. Tech - DS (BA)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Computer Vision
+Date: 05 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 5 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. _1___ is compulsory.
+5. Out of remaining questions, attempt any __4___ questions.
+6. In all ___5_ questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+Q No.   Part   Question   Model Answer / Key Points   Marks
+Q1   a   What is image processing? List its common   Image processing: manipulating digital   4
+CO1   objectives and explain any two types of   images using computers to improve
+BL-   image processing with examples.   quality or extract info.
+1,2,3   Objectives: Enhancement, Restoration,
+Segmentation, Feature Extraction,
+Analysis.
+Enhancement: Improve
+brightness/contrast (e.g., histogram
+equalization).
+Restoration: Recover blurred/noisy
+images (e.g., Wiener filter, inpainting).
+b   What is the Harris Corner Detector? Explain   Harris Corner Detector: detects corners   4
+CO3   its basic principle and state three real-world   by analyzing intensity variation in all
+BL-   use cases.   directions.
+2,3,4   Flat region: no change in any direction.
+Edge: change in one direction. Corner:
+change in all directions.
+Uses: Object tracking, image stitching,
+3D reconstruction.
+c   Define a Convolutional Neural Network   CNN: deep neural network that processes   4
+CO2   (CNN). Name its key layers and explain the   images by learning spatial hierarchies of
+BL-   role of Max Pooling.   features.
+2,3,4,5   Key layers: Convolutional, Activation
+(ReLU), Pooling, Fully Connected,
+Softmax.
+Max Pooling: reduces spatial dimensions
+by retaining the maximum value in each
+region — reduces parameters and
+provides translation invariance.
+********** 1 **********
+--- page 2 ---
+Q No.   Part   Question   Model Answer / Key Points   Marks
+d   What is YOLO? State how it differs from   YOLO (You Only Look Once): single-   4
+CO4   traditional two-stage object detectors like R-   stage detector treating detection as one
+BL-   CNN.   regression problem.
+2,3,4   R-CNN: region proposals → feature
+extraction → classification (slow, ~0.02
+fps).
+YOLO: entire image processed in one
+forward pass → grid predictions → 45
+fps (real-time). Key difference: speed and
+unified architecture.
+Q2   a   Explain histogram equalization as an image   Histogram equalization redistributes pixel   10
+CO3   enhancement technique. Describe how it   intensities to achieve uniform
+BL-3,4   works, state its formula, and discuss its   distribution, improving contrast.
+advantages and limitations with a real-world   Steps: compute histogram → compute
+example.   CDF → map original intensities using:
+s_k = (L-1) × CDF(r_k).
+Advantages: automatic, no parameters,
+improves low-contrast images (e.g.,
+medical X-rays).
+Limitations: may over-enhance noise;
+does not work well when histogram is
+already spread (CLAHE used instead).
+b   Compare Discrete Fourier Transform (DFT)   DFT: converts spatial → frequency   10
+CO3   and Fast Fourier Transform (FFT) in image   domain; O(N²) complexity. FFT: efficient
+BL-   processing. Explain low-pass, high-pass, and DFT computation; O(N log N).
+3,5,6   band-pass frequency filters with use cases   Low-Pass Filter: keeps low frequencies
+for each.   → smoothing, noise removal (e.g.,
+blurring).
+High-Pass Filter: keeps high frequencies
+→ sharpening, edge detection.
+Band-Pass Filter: keeps specific
+frequency range → pattern recognition,
+texture analysis.
+FFT is ~100× faster for 1024×1024
+images.
+Q3   a   A manufacturing company wants to   Thresholding: T=128 → pixel > T =   10
+CO3   automate quality inspection of products on   white (foreground), else black. Simple,
+BL-3,5   an assembly line using computer vision.   fast, effective for high contrast.
+1. Which image segmentation techniques   Watershed: treats image as topographic
+would you recommend for separating   surface; finds boundaries between
+defective regions from the background?   catchment basins.
+Explain Thresholding and Watershed   Canny Steps: (1) Gaussian smoothing (2)
+Segmentation in detail.   Gradient calculation-Sobel (3) Non-
+2. How would you apply the Canny Edge   maximum suppression (4) Double
+Detector to identify defect boundaries?   thresholding (5) Edge tracking by
+Describe its five steps.   hysteresis.
+3. What challenges might arise and how   Challenges: varying lighting → use
+would you address them?   adaptive thresholding; texture noise →
+apply Gaussian pre-filter.
+b   Explain SIFT (Scale-Invariant Feature   SIFT: detects keypoints and creates 128-   10
+CO4   Transform) as a feature extraction method.   dimensional descriptor invariant to scale,
+BL-   Describe why it is scale-invariant and   rotation, and illumination.
+2,3,4   rotation-invariant, and compare it with   Scale-invariant: uses Gaussian scale
+SURF (Speeded-Up Robust Features) in   space / DoG pyramid to detect keypoints
+terms of speed, accuracy, and use cases.   at multiple scales.
+********** 2 **********
+--- page 3 ---
+Q No.   Part   Question   Model Answer / Key Points   Marks
+Rotation-invariant: assigns dominant
+orientation to each keypoint.
+SURF: faster using integral images; 64-
+dim descriptor. Comparable accuracy.
+SIFT: preferred for high-accuracy
+matching. SURF: preferred for real-time
+applications.
+Q4   a   Explain Generative Adversarial Networks   GAN: Generator G creates fake images   10
+CO4   (GANs) in detail. Describe the GAN training   from noise z; Discriminator D classifies
+BL-   process, the loss functions used, and explain   real/fake.
+2,3,4   two practical applications of GANs in   Training: D maximizes log(D(x)) + log(1-
+computer vision.   D(G(z))); G minimizes log(1-D(G(z))).
+Nash equilibrium: G produces
+indistinguishable images; D outputs 0.5.
+Applications: Image-to-image translation
+(pix2pix — sketches to photos), Super-
+resolution (SRGAN), Data augmentation
+for rare classes.
+b   A healthcare startup wants to improve the   Histogram Equalization: redistributes   10
+CO5   quality of low-resolution chest X-ray images   intensities to improve contrast of dark X-
+BL-   before feeding them into a diagnostic model.   ray regions.
+3,4,5,6   1. Which image enhancement and restoration   Denoising: remove Gaussian/salt-and-
+techniques would you apply (histogram   pepper noise using median filter or
+equalization, denoising, deblurring)?   Gaussian blur.
+Explain each.   Deblurring: Wiener filter or deep learning
+2. Explain how Linear Filtering   deconvolution to restore sharpness.
+(Convolution and Gaussian Filtering) helps   Gaussian Filtering: convolves image with
+in pre-processing these medical images.   Gaussian kernel σ to suppress high-
+3. How would GANs help in generating   frequency noise.
+high-quality synthetic X-ray data to augment   GANs: conditional GAN (cGAN) can
+the training dataset?   synthesize realistic X-ray images with
+specific pathologies for augmentation.
+Q5   a   A smart city surveillance system needs to   YOLO: single-stage, grid-based   10
+CO5   detect pedestrians and vehicles in real time.   predictions; 45+ fps; slightly lower
+BL-   1. Compare YOLO and SSD object detection   accuracy on small objects.
+3,4,5,6   architectures — explain how each works,   SSD: multi-scale anchor boxes across
+their speed vs accuracy tradeoffs.   multiple feature maps; 59 fps; better
+2. Which architecture would you choose for   small object detection.
+real-time camera feeds and why?   Choice: YOLO v8 for real-time (160+
+3. How would you handle class imbalance in   fps), especially with GPU; SSD if better
+the training dataset for rare vehicle types   accuracy on small objects needed.
+(e.g., ambulances)?   Class imbalance: oversampling rare
+classes, data augmentation (flip, crop,
+color jitter), weighted loss function (focal
+loss).
+b   A hospital wants to classify skin lesion   Transfer Learning: reuses ResNet-50   10
+CO4   images (benign/malignant) but has only 800   weights (trained on 1.2M ImageNet
+BL-   labeled images.   images) to avoid training from scratch.
+2,3,4   1. Explain Transfer Learning and why it is   Strategy: freeze Conv1–Conv4 (low-level
+the most appropriate approach here.   features — edges, textures); retrain
+2. Describe the fine-tuning strategy using   Conv5 + new FC layers (domain-specific
+ResNet-50: which layers to freeze, which to   patterns).
+retrain, and why.   Phase 2: unfreeze last blocks with very
+low lr (1e-5) for end-to-end fine-tuning.
+********** 3 **********
+--- page 4 ---
+Q No.   Part   Question   Model Answer / Key Points   Marks
+3. What data augmentation techniques would   Augmentation: horizontal flip, random
+you apply to expand the dataset and improve   rotation (±15°), color jitter, zoom, cutout
+generalization?   — prevent overfitting on 800 samples.
+Q6   a   A robotics company is developing a system   Optical Flow: measures apparent motion   10
+CO3   to track moving objects on a factory floor   of pixels between frames. Assumes
+BL-   using cameras.   brightness constancy.
+2,3,4,5   1. Explain Optical Flow for moving object   Lucas-Kanade: sparse flow, local
+description — what it measures and two   polynomial expansion around keypoints;
+algorithms (Lucas-Kanade, Horn-Schunck).   fast, noisy regions problematic.
+2. Explain Background Subtraction for   Horn-Schunck: dense flow, global
+detecting moving objects — describe the   smoothness constraint; slower but dense
+MOG2 method.   field.
+3. How would you combine both approaches   Background Subtraction: MOG2 (Mixture
+for robust object tracking?   of Gaussians) models background with
+multiple Gaussians per pixel; foreground
+= moving objects.
+Combined: use MOG2 to detect regions
+of interest → apply Lucas-Kanade for
+tracking within detected regions.
+b   A mobile app startup wants to create an   Harris: detects corners as initial interest   10
+CO5   image matching feature (like Google Lens)   points (scale-insensitive). SIFT:
+BL-   that can identify products from a photo.   computes 128-d descriptor at Harris
+3,4,5,6   1. Explain the role of keypoint detection   keypoints — scale and rotation invariant.
+using Harris Corner Detector and SIFT in   Camera Calibration: estimates intrinsic
+building a product recognition pipeline.   (focal length, principal point) and
+2. Explain camera calibration and pose   extrinsic (rotation, translation)
+estimation — why are they important when   parameters — corrects lens distortion.
+the photo angle varies?   Pose Estimation: finds camera position
+3. How would feature descriptors enable   relative to scene using PnP algorithm
+robust matching across different lighting and   with matched keypoints.
+viewpoints?   Descriptor matching: Lowe's ratio test
+filters false matches; RANSAC removes
+outliers → robust to lighting/viewpoint
+changes.
+Q7   a   A satellite imagery company wants to detect   Pre-processing: Gaussian smoothing for   10
+CO1   deforestation by comparing forest images   noise, histogram equalization for contrast
+BL-   taken at different times.   normalization, radiometric correction for
+3,4,6   1. Which image processing techniques   satellite sensors.
+would you use for pre-processing (noise   Change detection: segment both images
+removal, enhancement)?   using Watershed/K-means → extract
+2. How would change detection using image   SIFT features → compare descriptors or
+segmentation and feature extraction identify   difference maps to identify changed
+deforested areas?   regions.
+3. What CNN-based approach would you use CNN approach: Use semantic
+to classify and localize deforestation at   segmentation (U-Net) to classify every
+scale?   pixel as forest/non-forest; compare
+segmentation masks across time periods.
+Or use Siamese CNN for direct change
+detection.
+Scale: apply sliding window or tile-based
+inference on large satellite tiles.
+b   Explain the complete ML pipeline for a   Pipeline: Collect dashcam data →   10
+CO3   Computer Vision task: image collection,   annotate bounding boxes (CVAT tool,
+BL-2,3   preprocessing, model selection, training,   COCO format) → preprocess (resize
+evaluation, and deployment.   640×640, normalize 0-1, augment) →
+train YOLOv8 → evaluate → export
+********** 4 **********
+--- page 5 ---
+Q No.   Part   Question   Model Answer / Key Points   Marks
+A self-driving car company needs to deploy   ONNX → deploy on NVIDIA Jetson
+a real-time pedestrian detection system.   edge device.
+1. Describe the pipeline from data collection   Metrics: Precision (reduce false positives
+(dashcam footage) to model deployment on — important for braking), Recall (detect
+an edge device.   all pedestrians — critical for safety),
+2. What evaluation metrics (precision, recall,   mAP@0.5:0.95 for overall benchmark.
+mAP) would you use and why?   Model drift: monitor confidence score
+3. How would you handle model drift after   distribution in production; trigger
+deployment?   retraining when accuracy drops;
+implement active learning pipeline.
+********** 5 **********
+````
+
 ## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 618db90dcd5b
 
 - Departments: Artificial Intelligence

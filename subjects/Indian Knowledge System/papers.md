@@ -1,8 +1,474 @@
 # Indian Knowledge System: question papers in full
 
-8 unique papers · 2024-25 to 2025-26 · Mechanical, Common (all branches), Artificial Intelligence, Civil, Computer Engineering, Cyber Security, Data Science, Information Technology, Mechatronics
+33 unique papers · 2024-25 to 2025-26 · Commerce, B.Sc Information Technology, Mechanical, Common (all branches), Artificial Intelligence, Civil, Computer Engineering, Cyber Security, Data Science, Information Technology, Mechatronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 1 · paper d51bc63d865b
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Economics) - 45616
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce (Economics) - 45616/Indian Knowledge Systems/QP_Final-Exam_Indian Knowledge Systems(NFIKS112)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 06 Oct 2025
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.A. (FTNMP)/B.A.M.M.C./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M
+& F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Indian Knowledge Systems
+Date: 06 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. All the questions are compulsory, Q1 has three sub-questions wherein you can answer any two out of the
+three given questions.
+1.   Answer the following(Attempt Any 2 Questions)   20
+a. Define the term “Indian Knowledge System”, explain in brief what is your understanding of   10
+the words Indian, Knowledge and System.
+b. 1.   Explain how town planning differs differ from modern urban planning?   10
+c. Analyze the Indian model of the Body-Mind-Intellect-Consciousness complex. How does this   10
+framework help in understanding holistic health?
+2. Read the given case study and answer the questions that follow .   10
+Inner Balance Yoga Center runs workshops to help participants enhance self-awareness
+and improve their mental and emotional well-being. During a group session, the
+instructor observes that participants display different tendencies in their behavior,
+choices, and reactions. Some are calm and thoughtful, others energetic but restless, and
+a few struggle with lethargy or procrastination.
+Page 1 of 2
+--- page 2 ---
+The instructor explains that these tendencies are influenced by three fundamental
+qualities, or Gunas, and that understanding them can help individuals regulate
+behavior, improve decision-making, and achieve mental balance. The participants are
+encouraged to reflect on their daily routines, habits, and interactions to identify patterns
+in their own behavior. Some notice that stress or excitement seems to shift their
+tendencies throughout the day. Others find that certain activities or environments bring
+out different qualities more strongly. The instructor emphasizes that awareness of these
+patterns is the first step toward achieving balance and personal growth.
+With reference to the above case, Answer the following:
+1. Based on the Inner Balance Yoga Center case, identify behaviors that indicate the
+presence of the Tamas Guna in participants, and analyze its attributes, binding force,
+and effects on their habits, motivation, and overall personal development. (5 marks)
+2. From the Inner Balance Yoga Center case, identify the tendencies that reflect the
+Rajas Guna in participants’ behavior, and analyze the attributes, binding force, and
+effects of this Guna on their daily routines and decision-making. (5 marks)
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 3 · paper 13765196ce54
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Economics) - 45616
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce (Economics) - 45616/Indian Knowledge Systems/QP_Re-Exam_Strategic Financial Management(NCSFM202)_Semester III_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 20 Jan 2026
+- Text: mixed (3 pages), mean OCR confidence 94.6
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F.
+Year: II/Semester III (Exam Year: 2025-2026)
+Subject: Strategic Financial Management
+Date: 20 Jan 2026   Time: 11:00 am - 01:00 pm (02:00 Hrs.)
+Max Marks: 60
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Only Simple Calculator is allowed.
+5. Working form part of the answer.
+1.   15
+2.   Answer the following.   15
+a. Aquafina Ltd. recently installed a new machine. The initial cost is ₹ 5,000 and it is depreciated   8
+on fixed installment basis to a zero-salvage value in 4 years which is useful economic life.
+Fixed cost is ₹ 1500 per year and the variable cost is ₹ 0.40 per unit. The selling price per unit
+is ₹ 1.60. Tax rate is 35%. The company uses 15% discount factor. Determine the financial
+break-even point of number of units for a company.
+Page 1 of 3
+--- page 2 ---
+b. Explain any four techniques of Risk Analysis in Capital Budgeting with examples.   7
+3.   15
+4.   Answer the following.   15
+a.   8
+Page 2 of 3
+--- page 3 ---
+Shine Bright Ltd. has 1,50,000 equity shares outstanding, each selling at *40 per share. The
+company expects to earn a net income of %10,00,000 during the current year. It is considering
+declaring a dividend of % 4 per share at the end of the year. The capitalization rate applicable
+to the company is 10%. As per the Modigliani and Miller (M—M) approach:
+
+(A) What will be the price of a share at the end of the year if:
+(i) Dividend is not paid
+(ii) Dividend is paid
+
+(B) If the company decides to pay the dividend and at the same time requires %15,00,000 for
+an approved investment project during the year, how many new shares must be issued?
+
+(C) State how MM approach affects the value of Shine Bright Ltd. if dividend is paid or not
+paid
+
+Arjun Ltd. has an earnings per share (EPS) of %10. The capitalization rate applicable to the firm is
+12%. The company is considering the following dividend payout ratios:
+
+(a) 40%
+
+(b) 80%
+
+Calculate the price per share using Walter’s Model if the rate of return is:
+
+(i) 18%
+
+(ii) 8%
+
+State the inference that can be drawn from Walter’s model for optimum price?
+
+Page 3 of 3
+````
+
+## 2025-26 · Final-Exam · Sem 1 · paper aca6b27e9d7d
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Financial Markets) - 45612
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce (Financial Markets) - 45612/Indian Knowledge Systems/QP_Final-Exam_Indian Knowledge Systems(NDIKS111)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 06 Oct 2025
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.A. (FTNMP)/B.A.M.M.C./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M
+& F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Indian Knowledge Systems
+Date: 06 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. All the questions are compulsory, Q1 has three sub-questions wherein you can answer any two out of the
+three given questions.
+1.   Answer the following(Attempt Any 2 Questions)   20
+a. Define the term “Indian Knowledge System”, explain in brief what is your understanding of   10
+the words Indian, Knowledge and System.
+b. 1.   Explain how town planning differs differ from modern urban planning?   10
+c. Analyze the Indian model of the Body-Mind-Intellect-Consciousness complex. How does this   10
+framework help in understanding holistic health?
+2. Read the given case study and answer the questions that follow .   10
+Inner Balance Yoga Center runs workshops to help participants enhance self-awareness
+and improve their mental and emotional well-being. During a group session, the
+instructor observes that participants display different tendencies in their behavior,
+choices, and reactions. Some are calm and thoughtful, others energetic but restless, and
+a few struggle with lethargy or procrastination.
+Page 1 of 2
+--- page 2 ---
+The instructor explains that these tendencies are influenced by three fundamental
+qualities, or Gunas, and that understanding them can help individuals regulate
+behavior, improve decision-making, and achieve mental balance. The participants are
+encouraged to reflect on their daily routines, habits, and interactions to identify patterns
+in their own behavior. Some notice that stress or excitement seems to shift their
+tendencies throughout the day. Others find that certain activities or environments bring
+out different qualities more strongly. The instructor emphasizes that awareness of these
+patterns is the first step toward achieving balance and personal growth.
+With reference to the above case, Answer the following:
+1. Based on the Inner Balance Yoga Center case, identify behaviors that indicate the
+presence of the Tamas Guna in participants, and analyze its attributes, binding force,
+and effects on their habits, motivation, and overall personal development. (5 marks)
+2. From the Inner Balance Yoga Center case, identify the tendencies that reflect the
+Rajas Guna in participants’ behavior, and analyze the attributes, binding force, and
+effects of this Guna on their daily routines and decision-making. (5 marks)
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 1 · paper fce25e659341
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Management and Finance) - 45615
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce (Management and Finance) - 45615/Indian Knowledge Systems/QP_Final-Exam_Indian Knowledge Systems(NEIKS113)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 06 Oct 2025
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.A. (FTNMP)/B.A.M.M.C./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M
+& F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Indian Knowledge Systems
+Date: 06 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. All the questions are compulsory, Q1 has three sub-questions wherein you can answer any two out of the
+three given questions.
+1.   Answer the following(Attempt Any 2 Questions)   20
+a. Define the term “Indian Knowledge System”, explain in brief what is your understanding of   10
+the words Indian, Knowledge and System.
+b. 1.   Explain how town planning differs differ from modern urban planning?   10
+c. Analyze the Indian model of the Body-Mind-Intellect-Consciousness complex. How does this   10
+framework help in understanding holistic health?
+2. Read the given case study and answer the questions that follow .   10
+Inner Balance Yoga Center runs workshops to help participants enhance self-awareness
+and improve their mental and emotional well-being. During a group session, the
+instructor observes that participants display different tendencies in their behavior,
+choices, and reactions. Some are calm and thoughtful, others energetic but restless, and
+a few struggle with lethargy or procrastination.
+Page 1 of 2
+--- page 2 ---
+The instructor explains that these tendencies are influenced by three fundamental
+qualities, or Gunas, and that understanding them can help individuals regulate
+behavior, improve decision-making, and achieve mental balance. The participants are
+encouraged to reflect on their daily routines, habits, and interactions to identify patterns
+in their own behavior. Some notice that stress or excitement seems to shift their
+tendencies throughout the day. Others find that certain activities or environments bring
+out different qualities more strongly. The instructor emphasizes that awareness of these
+patterns is the first step toward achieving balance and personal growth.
+With reference to the above case, Answer the following:
+1. Based on the Inner Balance Yoga Center case, identify behaviors that indicate the
+presence of the Tamas Guna in participants, and analyze its attributes, binding force,
+and effects on their habits, motivation, and overall personal development. (5 marks)
+2. From the Inner Balance Yoga Center case, identify the tendencies that reflect the
+Rajas Guna in participants’ behavior, and analyze the attributes, binding force, and
+effects of this Guna on their daily routines and decision-making. (5 marks)
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 1 · paper 9a3e521de424
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce - 45611
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce - 45611/Indian Knowledge Systems/QP_Final-Exam_Indian Knowledge Systems(NAIKS111)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 06 Oct 2025
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Art in Multimedia and Mass Communication/Bachelor of Arts (Film,
+Television and New Media Production)/Bachelor of Commerce/Bachelor of Commerce(Accounting
+and Finance)/Bachelor of Commerce (Economics)/Bachelor of Commerce(Economics &
+Analytics)/Bachelor of Commerce (Financial Markets)/Bachelor of Commerce (Management and
+Finance)/Bachelor of Science (Information Technology)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Indian Knowledge Systems
+Date: 06 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. All the questions are compulsory, Q1 has three sub-questions wherein you can answer any two out of the
+three given questions.
+1.   Answer the following(Attempt Any 2 Questions)   20
+a. Define the term “Indian Knowledge System”, explain in brief what is your understanding of   10
+the words Indian, Knowledge and System.
+b. 1.   Explain how town planning differs differ from modern urban planning?   10
+c. Analyze the Indian model of the Body-Mind-Intellect-Consciousness complex. How does this   10
+framework help in understanding holistic health?
+2. Read the given case study and answer the questions that follow .   10
+Inner Balance Yoga Center runs workshops to help participants enhance self-awareness
+and improve their mental and emotional well-being. During a group session, the
+instructor observes that participants display different tendencies in their behavior,
+choices, and reactions. Some are calm and thoughtful, others energetic but restless, and
+a few struggle with lethargy or procrastination.
+Page 1 of 2
+--- page 2 ---
+The instructor explains that these tendencies are influenced by three fundamental
+qualities, or Gunas, and that understanding them can help individuals regulate
+behavior, improve decision-making, and achieve mental balance. The participants are
+encouraged to reflect on their daily routines, habits, and interactions to identify patterns
+in their own behavior. Some notice that stress or excitement seems to shift their
+tendencies throughout the day. Others find that certain activities or environments bring
+out different qualities more strongly. The instructor emphasizes that awareness of these
+patterns is the first step toward achieving balance and personal growth.
+With reference to the above case, Answer the following:
+1. Based on the Inner Balance Yoga Center case, identify behaviors that indicate the
+presence of the Tamas Guna in participants, and analyze its attributes, binding force,
+and effects on their habits, motivation, and overall personal development. (5 marks)
+2. From the Inner Balance Yoga Center case, identify the tendencies that reflect the
+Rajas Guna in participants’ behavior, and analyze the attributes, binding force, and
+effects of this Guna on their daily routines and decision-making. (5 marks)
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 1 · paper 1c232b7084a1
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce(Accounting and Finance) - 45613
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce(Accounting and Finance) - 45613/Indian Knowledge Systems/QP_Final-Exam_Indian Knowledge Systems(NCIKS111)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 06 Oct 2025
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.A. (FTNMP)/B.A.M.M.C./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M
+& F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Indian Knowledge Systems
+Date: 06 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. All the questions are compulsory, Q1 has three sub-questions wherein you can answer any two out of the
+three given questions.
+1.   Answer the following(Attempt Any 2 Questions)   20
+a. Define the term “Indian Knowledge System”, explain in brief what is your understanding of   10
+the words Indian, Knowledge and System.
+b. 1.   Explain how town planning differs differ from modern urban planning?   10
+c. Analyze the Indian model of the Body-Mind-Intellect-Consciousness complex. How does this   10
+framework help in understanding holistic health?
+2. Read the given case study and answer the questions that follow .   10
+Inner Balance Yoga Center runs workshops to help participants enhance self-awareness
+and improve their mental and emotional well-being. During a group session, the
+instructor observes that participants display different tendencies in their behavior,
+choices, and reactions. Some are calm and thoughtful, others energetic but restless, and
+a few struggle with lethargy or procrastination.
+Page 1 of 2
+--- page 2 ---
+The instructor explains that these tendencies are influenced by three fundamental
+qualities, or Gunas, and that understanding them can help individuals regulate
+behavior, improve decision-making, and achieve mental balance. The participants are
+encouraged to reflect on their daily routines, habits, and interactions to identify patterns
+in their own behavior. Some notice that stress or excitement seems to shift their
+tendencies throughout the day. Others find that certain activities or environments bring
+out different qualities more strongly. The instructor emphasizes that awareness of these
+patterns is the first step toward achieving balance and personal growth.
+With reference to the above case, Answer the following:
+1. Based on the Inner Balance Yoga Center case, identify behaviors that indicate the
+presence of the Tamas Guna in participants, and analyze its attributes, binding force,
+and effects on their habits, motivation, and overall personal development. (5 marks)
+2. From the Inner Balance Yoga Center case, identify the tendencies that reflect the
+Rajas Guna in participants’ behavior, and analyze the attributes, binding force, and
+effects of this Guna on their daily routines and decision-making. (5 marks)
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 1 · paper 9c268d997e31
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce(Economics & Analytics) - 45617
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce(Economics & Analytics) - 45617/Indian Knowledge Systems/QP_Final-Exam_Indian Knowledge Systems(NGIKS112)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 06 Oct 2025
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.A. (FTNMP)/B.A.M.M.C./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M
+& F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Indian Knowledge Systems
+Date: 06 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. All the questions are compulsory, Q1 has three sub-questions wherein you can answer any two out of the
+three given questions.
+1.   Answer the following(Attempt Any 2 Questions)   20
+a. Define the term “Indian Knowledge System”, explain in brief what is your understanding of   10
+the words Indian, Knowledge and System.
+b. 1.   Explain how town planning differs differ from modern urban planning?   10
+c. Analyze the Indian model of the Body-Mind-Intellect-Consciousness complex. How does this   10
+framework help in understanding holistic health?
+2. Read the given case study and answer the questions that follow .   10
+Inner Balance Yoga Center runs workshops to help participants enhance self-awareness
+and improve their mental and emotional well-being. During a group session, the
+instructor observes that participants display different tendencies in their behavior,
+choices, and reactions. Some are calm and thoughtful, others energetic but restless, and
+a few struggle with lethargy or procrastination.
+Page 1 of 2
+--- page 2 ---
+The instructor explains that these tendencies are influenced by three fundamental
+qualities, or Gunas, and that understanding them can help individuals regulate
+behavior, improve decision-making, and achieve mental balance. The participants are
+encouraged to reflect on their daily routines, habits, and interactions to identify patterns
+in their own behavior. Some notice that stress or excitement seems to shift their
+tendencies throughout the day. Others find that certain activities or environments bring
+out different qualities more strongly. The instructor emphasizes that awareness of these
+patterns is the first step toward achieving balance and personal growth.
+With reference to the above case, Answer the following:
+1. Based on the Inner Balance Yoga Center case, identify behaviors that indicate the
+presence of the Tamas Guna in participants, and analyze its attributes, binding force,
+and effects on their habits, motivation, and overall personal development. (5 marks)
+2. From the Inner Balance Yoga Center case, identify the tendencies that reflect the
+Rajas Guna in participants’ behavior, and analyze the attributes, binding force, and
+effects of this Guna on their daily routines and decision-making. (5 marks)
+Page 2 of 2
+````
+
+## 2025-26 · Final-Exam · Sem 1 · paper 063613906288
+
+- Departments: B.Sc Information Technology
+- Programmes: Bachelor of Science (Information Technology) - 45618
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Science (Information Technology) - 45618/Indian Knowledge Systems/QP_Final-Exam_Indian Knowledge Systems(NHIKS113)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 06 Oct 2025
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.A. (FTNMP)/B.A.M.M.C./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M
+& F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Indian Knowledge Systems
+Date: 06 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. All the questions are compulsory, Q1 has three sub-questions wherein you can answer any two out of the
+three given questions.
+1.   Answer the following(Attempt Any 2 Questions)   20
+a. Define the term “Indian Knowledge System”, explain in brief what is your understanding of   10
+the words Indian, Knowledge and System.
+b. 1.   Explain how town planning differs differ from modern urban planning?   10
+c. Analyze the Indian model of the Body-Mind-Intellect-Consciousness complex. How does this   10
+framework help in understanding holistic health?
+2. Read the given case study and answer the questions that follow .   10
+Inner Balance Yoga Center runs workshops to help participants enhance self-awareness
+and improve their mental and emotional well-being. During a group session, the
+instructor observes that participants display different tendencies in their behavior,
+choices, and reactions. Some are calm and thoughtful, others energetic but restless, and
+a few struggle with lethargy or procrastination.
+Page 1 of 2
+--- page 2 ---
+The instructor explains that these tendencies are influenced by three fundamental
+qualities, or Gunas, and that understanding them can help individuals regulate
+behavior, improve decision-making, and achieve mental balance. The participants are
+encouraged to reflect on their daily routines, habits, and interactions to identify patterns
+in their own behavior. Some notice that stress or excitement seems to shift their
+tendencies throughout the day. Others find that certain activities or environments bring
+out different qualities more strongly. The instructor emphasizes that awareness of these
+patterns is the first step toward achieving balance and personal growth.
+With reference to the above case, Answer the following:
+1. Based on the Inner Balance Yoga Center case, identify behaviors that indicate the
+presence of the Tamas Guna in participants, and analyze its attributes, binding force,
+and effects on their habits, motivation, and overall personal development. (5 marks)
+2. From the Inner Balance Yoga Center case, identify the tendencies that reflect the
+Rajas Guna in participants’ behavior, and analyze the attributes, binding force, and
+effects of this Guna on their daily routines and decision-making. (5 marks)
+Page 2 of 2
+````
 
 ## 2025-26 · Final-Exam · Sem 7 · paper afbbbcbe803e
 
@@ -223,6 +689,288 @@ BL-1
 
 
 Ga)
+````
+
+## 2025-26 · Re-Exam · Sem 1 · paper a2626288abf9
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Economics) - 45616
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Commerce (Economics) - 45616/Indian Knowledge Systems/QP_Re-Exam_Indian Knowledge Systems(NFIKS112)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 21 Jan 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.A. (FTNMP)/B.A.M.M.C./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M
+& F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Indian Knowledge Systems
+Date: 21 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. All the questions are compulsory, Q1 has three sub-questions wherein you can answer any two out of the
+three given questions.
+1.   Answer the following(Attempt Any 2 Questions)   20
+a. Evaluate the potential long-term impacts of the Indian Knowledge System on students   10
+b. How did ancient Indians measure time, distance, or weight?   10
+c. Explain in detail what are the Trigunas and how do they affect human behavior?   10
+2. Read Suresh, the given a 55-year-old case study businessman, and answer the has questions been suffering that follow from . chronic digestive issues such as   10
+bloating, acidity, and irregular bowel movements. Despite undergoing multiple medical tests,
+doctors found no major disease and prescribed antacids and dietary supplements. While these
+gave temporary relief, his discomfort continued. A family friend suggested he consult an
+Ayurvedic physician. During the consultation, Vaidya asked detailed questions about his
+eating habits, sleep cycle, stress levels, and even emotional tendencies. He also checked
+Suresh’s Nadi (pulse), tongue, and skin. The diagnosis revealed an imbalance caused by
+excessive spicy food, irregular meal timings, and mental stress. Instead of prescribing heavy
+medicines, the Vaidya recommended a Pitta-pacifying diet (cooling foods like cucumber,
+ghee, milk), regular yoga practice, pranayama, and herbal formulations. Within weeks, Suresh
+experienced significant improvement in his digestion and overall energy.
+Page 1 of 2
+--- page 2 ---
+With reference to the above case, examine how Ayurvedic disease management differs from
+modern medicine in Suresh’s case. What role do diagnostic techniques and lifestyle
+corrections play in long-term healing?
+Page 2 of 2
+````
+
+## 2025-26 · Re-Exam · Sem 1 · paper 00e551675044
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Financial Markets) - 45612
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Commerce (Financial Markets) - 45612/Indian Knowledge Systems/QP_Re-Exam_Indian Knowledge Systems(NDIKS111)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 21 Jan 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.A. (FTNMP)/B.A.M.M.C./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M
+& F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Indian Knowledge Systems
+Date: 21 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. All the questions are compulsory, Q1 has three sub-questions wherein you can answer any two out of the
+three given questions.
+1.   Answer the following(Attempt Any 2 Questions)   20
+a. Evaluate the potential long-term impacts of the Indian Knowledge System on students   10
+b. How did ancient Indians measure time, distance, or weight?   10
+c. Explain in detail what are the Trigunas and how do they affect human behavior?   10
+2. Read Suresh, the given a 55-year-old case study businessman, and answer the has questions been suffering that follow from . chronic digestive issues such as   10
+bloating, acidity, and irregular bowel movements. Despite undergoing multiple medical tests,
+doctors found no major disease and prescribed antacids and dietary supplements. While these
+gave temporary relief, his discomfort continued. A family friend suggested he consult an
+Ayurvedic physician. During the consultation, Vaidya asked detailed questions about his
+eating habits, sleep cycle, stress levels, and even emotional tendencies. He also checked
+Suresh’s Nadi (pulse), tongue, and skin. The diagnosis revealed an imbalance caused by
+excessive spicy food, irregular meal timings, and mental stress. Instead of prescribing heavy
+medicines, the Vaidya recommended a Pitta-pacifying diet (cooling foods like cucumber,
+ghee, milk), regular yoga practice, pranayama, and herbal formulations. Within weeks, Suresh
+experienced significant improvement in his digestion and overall energy.
+Page 1 of 2
+--- page 2 ---
+With reference to the above case, examine how Ayurvedic disease management differs from
+modern medicine in Suresh’s case. What role do diagnostic techniques and lifestyle
+corrections play in long-term healing?
+Page 2 of 2
+````
+
+## 2025-26 · Re-Exam · Sem 1 · paper 3b02090537b1
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Management and Finance) - 45615
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Commerce (Management and Finance) - 45615/Indian Knowledge Systems/QP_Re-Exam_Indian Knowledge Systems(NEIKS113)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 21 Jan 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.A. (FTNMP)/B.A.M.M.C./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M
+& F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Indian Knowledge Systems
+Date: 21 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. All the questions are compulsory, Q1 has three sub-questions wherein you can answer any two out of the
+three given questions.
+1.   Answer the following(Attempt Any 2 Questions)   20
+a. Evaluate the potential long-term impacts of the Indian Knowledge System on students   10
+b. How did ancient Indians measure time, distance, or weight?   10
+c. Explain in detail what are the Trigunas and how do they affect human behavior?   10
+2. Read Suresh, the given a 55-year-old case study businessman, and answer the has questions been suffering that follow from . chronic digestive issues such as   10
+bloating, acidity, and irregular bowel movements. Despite undergoing multiple medical tests,
+doctors found no major disease and prescribed antacids and dietary supplements. While these
+gave temporary relief, his discomfort continued. A family friend suggested he consult an
+Ayurvedic physician. During the consultation, Vaidya asked detailed questions about his
+eating habits, sleep cycle, stress levels, and even emotional tendencies. He also checked
+Suresh’s Nadi (pulse), tongue, and skin. The diagnosis revealed an imbalance caused by
+excessive spicy food, irregular meal timings, and mental stress. Instead of prescribing heavy
+medicines, the Vaidya recommended a Pitta-pacifying diet (cooling foods like cucumber,
+ghee, milk), regular yoga practice, pranayama, and herbal formulations. Within weeks, Suresh
+experienced significant improvement in his digestion and overall energy.
+Page 1 of 2
+--- page 2 ---
+With reference to the above case, examine how Ayurvedic disease management differs from
+modern medicine in Suresh’s case. What role do diagnostic techniques and lifestyle
+corrections play in long-term healing?
+Page 2 of 2
+````
+
+## 2025-26 · Re-Exam · Sem 1 · paper 4bc3f7cf586a
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce - 45611
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Commerce - 45611/Indian Knowledge Systems/QP_Re-Exam_Indian Knowledge Systems(NAIKS111)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 21 Jan 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.A. (FTNMP)/B.A.M.M.C./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M
+& F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Indian Knowledge Systems
+Date: 21 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. All the questions are compulsory, Q1 has three sub-questions wherein you can answer any two out of the
+three given questions.
+1.   Answer the following(Attempt Any 2 Questions)   20
+a. Evaluate the potential long-term impacts of the Indian Knowledge System on students   10
+b. How did ancient Indians measure time, distance, or weight?   10
+c. Explain in detail what are the Trigunas and how do they affect human behavior?   10
+2. Read Suresh, the given a 55-year-old case study businessman, and answer the has questions been suffering that follow from . chronic digestive issues such as   10
+bloating, acidity, and irregular bowel movements. Despite undergoing multiple medical tests,
+doctors found no major disease and prescribed antacids and dietary supplements. While these
+gave temporary relief, his discomfort continued. A family friend suggested he consult an
+Ayurvedic physician. During the consultation, Vaidya asked detailed questions about his
+eating habits, sleep cycle, stress levels, and even emotional tendencies. He also checked
+Suresh’s Nadi (pulse), tongue, and skin. The diagnosis revealed an imbalance caused by
+excessive spicy food, irregular meal timings, and mental stress. Instead of prescribing heavy
+medicines, the Vaidya recommended a Pitta-pacifying diet (cooling foods like cucumber,
+ghee, milk), regular yoga practice, pranayama, and herbal formulations. Within weeks, Suresh
+experienced significant improvement in his digestion and overall energy.
+Page 1 of 2
+--- page 2 ---
+With reference to the above case, examine how Ayurvedic disease management differs from
+modern medicine in Suresh’s case. What role do diagnostic techniques and lifestyle
+corrections play in long-term healing?
+Page 2 of 2
+````
+
+## 2025-26 · Re-Exam · Sem 1 · paper 0fc601208f7d
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce(Accounting and Finance) - 45613
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Commerce(Accounting and Finance) - 45613/Indian Knowledge Systems/QP_Re-Exam_Indian Knowledge Systems(NCIKS111)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 21 Jan 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.A. (FTNMP)/B.A.M.M.C./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M
+& F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Indian Knowledge Systems
+Date: 21 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. All the questions are compulsory, Q1 has three sub-questions wherein you can answer any two out of the
+three given questions.
+1.   Answer the following(Attempt Any 2 Questions)   20
+a. Evaluate the potential long-term impacts of the Indian Knowledge System on students   10
+b. How did ancient Indians measure time, distance, or weight?   10
+c. Explain in detail what are the Trigunas and how do they affect human behavior?   10
+2. Read Suresh, the given a 55-year-old case study businessman, and answer the has questions been suffering that follow from . chronic digestive issues such as   10
+bloating, acidity, and irregular bowel movements. Despite undergoing multiple medical tests,
+doctors found no major disease and prescribed antacids and dietary supplements. While these
+gave temporary relief, his discomfort continued. A family friend suggested he consult an
+Ayurvedic physician. During the consultation, Vaidya asked detailed questions about his
+eating habits, sleep cycle, stress levels, and even emotional tendencies. He also checked
+Suresh’s Nadi (pulse), tongue, and skin. The diagnosis revealed an imbalance caused by
+excessive spicy food, irregular meal timings, and mental stress. Instead of prescribing heavy
+medicines, the Vaidya recommended a Pitta-pacifying diet (cooling foods like cucumber,
+ghee, milk), regular yoga practice, pranayama, and herbal formulations. Within weeks, Suresh
+experienced significant improvement in his digestion and overall energy.
+Page 1 of 2
+--- page 2 ---
+With reference to the above case, examine how Ayurvedic disease management differs from
+modern medicine in Suresh’s case. What role do diagnostic techniques and lifestyle
+corrections play in long-term healing?
+Page 2 of 2
+````
+
+## 2025-26 · Re-Exam · Sem 1 · paper e28101339888
+
+- Departments: B.Sc Information Technology
+- Programmes: Bachelor of Science (Information Technology) - 45618
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Science (Information Technology) - 45618/Indian Knowledge Systems/QP_Re-Exam_Indian Knowledge Systems(NHIKS113)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 21 Jan 2026
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.A. (FTNMP)/B.A.M.M.C./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M
+& F)/B.F.M./B.Sc. (IT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Indian Knowledge Systems
+Date: 21 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. All the questions are compulsory, Q1 has three sub-questions wherein you can answer any two out of the
+three given questions.
+1.   Answer the following(Attempt Any 2 Questions)   20
+a. Evaluate the potential long-term impacts of the Indian Knowledge System on students   10
+b. How did ancient Indians measure time, distance, or weight?   10
+c. Explain in detail what are the Trigunas and how do they affect human behavior?   10
+2. Read Suresh, the given a 55-year-old case study businessman, and answer the has questions been suffering that follow from . chronic digestive issues such as   10
+bloating, acidity, and irregular bowel movements. Despite undergoing multiple medical tests,
+doctors found no major disease and prescribed antacids and dietary supplements. While these
+gave temporary relief, his discomfort continued. A family friend suggested he consult an
+Ayurvedic physician. During the consultation, Vaidya asked detailed questions about his
+eating habits, sleep cycle, stress levels, and even emotional tendencies. He also checked
+Suresh’s Nadi (pulse), tongue, and skin. The diagnosis revealed an imbalance caused by
+excessive spicy food, irregular meal timings, and mental stress. Instead of prescribing heavy
+medicines, the Vaidya recommended a Pitta-pacifying diet (cooling foods like cucumber,
+ghee, milk), regular yoga practice, pranayama, and herbal formulations. Within weeks, Suresh
+experienced significant improvement in his digestion and overall energy.
+Page 1 of 2
+--- page 2 ---
+With reference to the above case, examine how Ayurvedic disease management differs from
+modern medicine in Suresh’s case. What role do diagnostic techniques and lifestyle
+corrections play in long-term healing?
+Page 2 of 2
 ````
 
 ## 2025-26 · Re-Exam · Sem 7 · paper 3c797d1411ed

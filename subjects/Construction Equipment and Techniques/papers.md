@@ -1,6 +1,6 @@
 # Construction Equipment and Techniques: question papers in full
 
-9 unique papers · 2015-16 to 2021-22 · Civil
+12 unique papers · 2015-16 to 2021-22 · Civil
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -186,6 +186,128 @@ ee
 e1/o|
 ````
 
+## 2018-19 · Final-Exam · Sem 6 · paper 14445569a27c
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: CIVIL/SEMESTER VI/CONSTRUCTION EQUIPMENT AND TECHNIQUES/Constuction_Equipments_and_Techniques_2018-19_Final_CgMiqtAJrz.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 17 April 2019
+- Text: ocr (2 pages), mean OCR confidence 92.2
+
+````text
+SVKMW’S N
+MUKESH PATEL SCHOOL OF TECHNOLOG
+
+a: Y¥GINEERING
+Program :B.Tech Integrated (CIVIL) qespar: TT Semester: VI ~
+
+. us US
+Academic Y ear: 2018-201
+
+Subject: Construction Equipments and Techniques ~ Marks: 70”
+
+Date: 17 April 2019 _~ Time: 02.00 pm to 5.00 pm .~
+Duration: 3 (hrs)
+No. of Pages: Qe
+
+Final Examination (2018-19) ~
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. lis compulsory.
+
+2) Out of remaining questions, attempt any 4questions.
+
+3) In all Squestions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Marks
+
+a) Explain following terms in Blasting Equipment. Also write down use of the same 07
+Firing charge, blasting caps, safety fuse, drill bits.
+
+b) Which are different aggregate crushing equipments? Explain different types along with its 07
+suitability.
+
+Q2 Compare following equipments on the basis of at least 5 criteria. 14
+
+a) Dragline b) Power Shovel c) Back Hoe) Clam shell
+
+Q3
+a) Determine the probable cost of owning and operating a 2 m* diesel engine crawler mounted 10
+power shovel given the following particulars :
+Engine = 160 HP
+Crank case capacity : = 30 litres
+Useful Life = 5 years
+Time between oil Changes = 100 hours
+Shipping weight = 104 tonnes
+Factory price of the equipment (list price) = Rs 6,00,000/-
+Operating factor = 0.6
+Freight charges = Rs 30/Tonnes
+Unloading and assembly charges = Rs 600
+Hours used/year = 5000 hours
+b) Which tools are to be used for blasting? What is the use of respective tools? 04
+
+PAno: ©) [a
+--- page 2 ---
+Q4
+a)
+b)
+
+Q5
+a)
+
+b)
+Q6
+a)
+b)
+
+Q7
+a)
+
+b)
+
+Compare crawler type and wheel type tractors.
+Which are the methods of Tunneling in Soft rocks and hard rocks-
+
+What is mass diagram? Also explain following terms .”
+
+Free haul Distance, Overhaul distance, balance line.
+
+Which are the types of pile driving equipment? Which are the types of hammers are to be
+used? *
+
+Which are the types of rollers? Explain its applications, advantages and disadvantages.
+Write a note on.Sand Stone & Stone Column.
+
+Which are different hauling equipments? Explain different hauling equipments with
+respective suitability.
+Which are the factors to be considered while selection of drill?
+
+07
+07
+
+07
+
+07
+
+07
+oF
+
+07
+
+07
+
+PY fe of
+````
+
 ## 2018-19 · Final-Exam · Sem 7 · paper ab4a52a17ef9
 
 - Departments: Civil
@@ -246,6 +368,133 @@ Q.7 a)Explain depreciation and factors affecting depreciation. 07
 b) Elaborate on slip formwork, collapsible formwork and prefabricated formwork. 07
 
 44
+````
+
+## 2017-18 · Final-Exam · Sem 6 · paper 2034489785f0
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: CIVIL/SEMESTER VI/CONSTRUCTION EQUIPMENT AND TECHNIQUES/Construction_Equipment_and_Techniques_2017-2018_Final_wbUe1NRXej.pdf`
+- Printed on paper: max marks: 70; duration hours: 3; exam date: 10 May 2018
+- Text: ocr (2 pages), mean OCR confidence 91.7
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B.Tech Integrated (CIVIL) Year: Ill © ; Semester: VI”
+
+Academic Year: 2017-2018
+
+Subject:Construction Equipment and Techniques ~
+
+. Marks:70 « | ‘4‘
+Date:10 May 2018 ; Time: 2.00 pm. 10 0 pm” wi
+Durations: 3 (hr) a cs a ee
+No. of Pages :_ 9° F>———
+
+Final Examination (2017-18) «
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q-1 Attempt all four (3.5 marks each) ; (14)
+
+a Enlist three advantages and four disadvantages of using construction
+equipment at civil sites.
+
+» Explain the following:-balancing the operation of equipment with
+suitable example.
+
+c What are the cost associated with owning and operating of
+equipment?
+
+d What is a pilot tunnel? What are the purposes of constructing a pilot
+
+tunnel?
+Q-2 a Differentiate between primary, secondary and tertiary crushers. (07)
+Explain the working of gyratory crusher with neat line sketch.
+b_ State the comparative merits and demerits trenching machines and (07)
+dozers.
+Q-3 a. What is a floating crane and where it is used? Name the parts of a (07)
+
+tower crane with neat line sketch and specify the use of each part.
+
+h
+--- page 2 ---
+Q-4
+
+Q-5
+
+Q-6
+
+What is vaccum concrete? Why is it necessary to perform the
+operation of vaccum concrete? Explain the operations of vaccum
+concrete in detail with sketch,
+
+An equipment is down for 4%, 7%, 9%, 12% and 15% of the AME in the
+first five years of use. The operating cost is Rs 500/hour. It works for 2500
+hours in a year. The average productivity factor is 0.8. Work out the
+downtime cost, cumulative downtime cost and cumulative cost per hour.
+Enumerate different types of pile driving hammers and their use.
+
+’ Explain the working of diesel hammer with neat sketch.
+
+What is a rock anchor? Explain the construction technique of
+
+diaphragm wall.
+Explain the different types of cladding. Explain the working of collapsible
+
+form for tunnel lining.
+
+What do you understand by foundation grouting? Which type of
+grouting is used in tunnel construction? Explain stage-grouting in
+details.
+
+Differentiate between
+
+i) Ropeway and cable way
+
+ii) Builders hoist and passenger hoist
+
+iii) Geotextiles and geomembranes
+
+Explain the following (3.5 marks each)
+
+a) Blasting material
+
+b) Tunnel Boring Machine
+
+c) Jack hammer
+
+d) Portable aggregate crushing and screening plant
+
+(07)
+
+(07)
+
+(07)
+(07)
+(07)
+
+(07)
+
+(07)
+
+(14)
 ````
 
 ## 2017-18 · Final-Exam · Sem 7 · paper e787358ae8d7
@@ -408,6 +657,146 @@ b) Cone crusher.
 c)   Geocells and Geo grids
 d) Tower cranes
 '.
+````
+
+## 2016-17 · Final-Exam · Sem 6 · paper 8fd47fb82406
+
+- Departments: Civil
+- Programmes: B.TECH INTEGRATED / CIVIL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: CIVIL/SEMESTER VI/CONSTRUCTION EQUIPMENT AND TECHNIQUES/Construction_Equipment_and_Techniques_2016-2017_Final_V8hHSvi8TV.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 12 May 2017
+- Text: ocr (2 pages), mean OCR confidence 94.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & Siomauena
+
+Programme: B. Tech Integrated (CIVIL) Year: III Semester: VI
+Academic Year: 2016-2017
+
+Subject : Construction Equipment and Techniques
+Marks: 60
+
+Time : 10.00 am to 1.00 pm
+Date : 12 May 2017 Durations: 3 (hrs)
+
+No. of Pages: Z2—
+Final-Examination
+
+Instruction: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+NB:
+
+1) Question No. one is compulsory.
+
+2) Out of remaining questions, attempt any four questions.
+
+3) In all five questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary,
+
+Q-1 Attempt all’ four (3.0 marks each) (12)
+a Differentiate between special and standard equipment.
+
+b Explain the following. — Operating factor, Cycle time and balancing
+the operation of equipment.
+
+c Explain what is meant by stabilization of soil. Enlist the method by
+which soil stabilization can be achieved.
+
+d Why lining of tunnel is important. Does tunneling in hard rock
+require lining? If yes justify the answer?
+
+Q-2 a Classify cranes on the basis of broad construction features. Explain (06)
+the working of tower crane with neat line sketch.
+
+b State the comparative merits and demerits draglines and clamshell (06)
+
+A
+--- page 2 ---
+Q-3
+
+Q-4
+
+Q-5
+
+Q-6
+
+a
+
+a
+
+bucket.
+
+Classify stone crushers on the basis size reduction ratios. Explain the
+working of jaw crusher with neat line sketch.
+
+Explain sand drain technique of soil stabilization with neat sketch.
+
+Determine owning and operating cost per hour for an excavator from the
+following data:-
+
+Purchased cost:- Rs. 15 Lakhs
+
+Useful life:- 10yrs (2000 hrs/yr)
+
+Engine Capacity:- 40HP (Diesel Type)
+
+Salvage Value:- 10% of Purchase cost °
+Investment cost:- 12% average annual investment
+Lubrication Cost:- 20% of fuel cost
+
+Operator Salary:- Rs. 15000/month
+
+Maintenance and repair:- 85% of annual depreciation
+
+Operator Factor:- 0.65
+
+Grease requirement:- 1/4" Kg per hour
+
+Define mass concrete. What are the problems generally faced during
+mass concreting? What precaution will you take for mass
+concreting? .
+
+Categorized different types of pile driving hammers based on their
+suitability. Explain the working of drop hammer.
+
+Explain how to achieve dust control and ventilation in tunnel.
+Enumerate the parts of conveyor belts and its working.
+
+Explain the following (3.0 marks each)
+
+a) Slipform
+
+b) Jack hammer.
+
+c) Types of cladding
+
+d) Explain the following terms related to blasting
+
+i) Stemming
+ii) Safety fuse
+ili) Electric blasting caps
+
+a
+
+(06)
+
+(06)
+(12)
+
+(06)
+
+(06)
+
+(06)
+(06)
+(12)
 ````
 
 ## 2016-17 · Final-Exam · Sem 7 · paper 49b4576cc940

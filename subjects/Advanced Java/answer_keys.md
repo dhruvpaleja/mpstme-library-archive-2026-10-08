@@ -1323,6 +1323,639 @@ HTML form. For example
 ********** 16 **********
 ````
 
+## 2024-25 · Final-Exam · Sem 2 · Answer key · paper 58e4acfd5ffb
+
+- Departments: Computer Applications (MCA)
+- Programmes: MASTER OF COMPUTER APPLICATIONS - 7061
+- Source: `00_Original_Downloads/2024/Semester II/67783__Final-Exam__context_fixed.zip :: MASTER OF COMPUTER APPLICATIONS - 7061/Advanced Java/ANS_Final-Exam_Advanced Java(703CO0E019)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Apr 2025
+- Text: text (15 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MASTER OF COMPUTER APPLICATIONS
+Year: I/Semester II(Exam Year: 2024-2025)
+Subject: Advanced Java
+Date: 30 Apr 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 15 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Question No. 1 is compulsory
+4. Out of remaining questions, attempt any 4 questions
+5. In all 5 questions to be attempted.
+6. All questions carry equal marks
+7. Figure in right hand side indicates full marks
+8. Assume Suitable data if necessary
+Q1   Solve the following sub-questions.
+CO-1;   a.   Explain the lifecycle of Servlet.   [5]
+SO-7;
+BL-3   Servlet is loaded & instantiated (Constructor is called).
+init() method is executed (Runs only once).
+service() method handles each request (Runs multiple times
+for each request).
+destroy() method is called when the servlet is removed.
+CO-2;   b.   BeanFactory vs ApplicationContext   [5]
+SO-7;   A lightweight   A more advanced
+BL-4   container that   container that extends
+Definition   manages beans   BeanFactory and
+and their   provides additional
+dependencies.   features.
+Beans are loaded
+Eager vs Lazy   Beans are loaded
+lazily (only when
+Loading   eagerly at startup.
+needed).
+Does not support Supports event
+Event Handling   event   propagation for
+propagation.   application-wide events.
+Supports
+Internationalization   internationalization
+Not supported.
+Support   (i18n) for different
+languages.
+********** 1 **********
+--- page 2 ---
+Provides features like
+Lacks enterprise- declarative event
+Enterprise Features
+level features.   listeners and lifecycle
+management.
+Used for
+lightweight
+Used for enterprise
+Recommended   applications
+applications requiring
+Usage   where memory
+advanced features.
+efficiency is
+crucial.
+CO-1;   c.   What are the advantage of using Hibernate over JDBC.   [5]
+SO-7;
+BL-2   Simplified Code: Hibernate significantly reduces boilerplate
+code required in JDBC, making the codebase cleaner and more
+readable.
+Advanced Mapping Features: Unlike JDBC, Hibernate fully
+supports object-oriented features such as inheritance,
+associations, and collections.
+Transaction Management: Hibernate seamlessly handles
+transaction management, requiring transactions for most
+operations, which contrasts with JDBC's manual transaction
+handling through commit and rollback.
+Exception Handling: Hibernate abstracts boilerplate try-catch
+blocks by converting JDBC's checked SQLExceptions into
+unchecked JDBCException or HibernateException, simplifying
+error handling.
+Object-Oriented Query Language: HQL (Hibernate Query
+Language) offers an object-oriented API, which aligns it more
+with Java programming concepts than JDBC's need for native
+SQL queries.
+Caching for Performance: Hibernate's support for caching
+enhances performance, a feature not available with JDBC, where
+queries are directly executed without caching.
+Database Synchronization: Hibernate can automatically
+generate database tables, offering greater flexibility than JDBC,
+which requires pre-existing tables.
+Flexible Connection Management: Hibernate allows for both
+JDBC-like connections and JNDI DataSource connections with
+pooling, which is essential for enterprise applications and not
+supported by JDBC.
+ORM Tool Independence: By supporting JPA annotations,
+Hibernate-based applications are not tightly bound to Hibernate
+********** 2 **********
+--- page 3 ---
+and can switch ORM tools more easily than JDBC-based
+applications, which are closely coupled with the database.
+CO-1;   d.   List Down 5 annotations with example.   [5]
+SO-7;
+BL-3   1. @Controller:
+• Used to define a class as a controller. It is a specialization
+of @Component, allowing Spring to automatically detect
+it via component scanning.
+2. @RequestMapping:
+• Maps an HTTP request to a specific method in a
+controller.
+•   It can be applied to methods or classes to map the URL
+pattern and request type (GET, POST, etc.).
+3. @GetMapping, @PostMapping, @PutMapping,
+@DeleteMapping:
+• These are specialized versions of @RequestMapping used
+for specific HTTP methods:
+o @GetMapping: For GET requests
+o @PostMapping: For POST requests
+o @PutMapping: For PUT requests
+o @DeleteMapping: For DELETE requests
+4. @RequestParam:
+• Used to bind HTTP request parameters to method
+parameters.
+Example:
+@RequestMapping("/user")
+public String getUser(@RequestParam("id") int userId) {
+// Process request
+return "userDetails";
+}
+5. @PathVariable:
+• Used to extract variables from the URL path.
+Example:
+@RequestMapping("/user/{id}")
+public String getUser(@PathVariable("id") int userId) {
+// Process request
+return "userDetails";
+}
+********** 3 **********
+--- page 4 ---
+Q2
+CO-2;   a.   What is JDBCTemplate ? what are the problems spring JDBC [10]
+SO-7;   solves.
+BL-3
+Spring JDBC module, particularly through JdbcTemplate, solves
+several common problems encountered in traditional JDBC
+programming. Here are the primary issues it addresses:
+1. Boilerplate Code for Resource Management
+• Problem: Traditional JDBC requires a lot of boilerplate
+code for managing resources such as Connection,
+Statement, and ResultSet. You need to open connections,
+handle exceptions, and close resources manually, which
+increases the chance of errors (like resource leaks) and
+makes the code harder to maintain.
+•   Solution: Spring JDBC handles resource management for
+you. It automatically manages the opening and closing of
+database connections, statements, and result sets, and
+ensures that these resources are cleaned up correctly even
+in the case of errors.
+Example of traditional JDBC:
+Connection con = DriverManager.getConnection(...);
+Statement stmt = con.createStatement();
+ResultSet rs = stmt.executeQuery("SELECT * FROM users");
+// Code to process the result set
+con.close();
+With Spring JDBC, this process is simplified and abstracted by
+JdbcTemplate:
+jdbcTemplate.query("SELECT * FROM users", new
+UserRowMapper());
+2. Exception Handling (SQLException)
+• Problem: JDBC uses SQLException, which is very
+specific to SQL and database vendors. This means that
+developers need to handle SQLException and map it to
+more generic exceptions.
+•   Solution: Spring wraps SQLException into a consistent
+exception hierarchy using the DataAccessException class.
+This allows you to handle database-related errors
+uniformly, without worrying about the specifics of the
+underlying database or SQL.
+For example, JdbcTemplate throws a DataAccessException
+instead of SQLException, which can be caught and handled in a
+consistent manner:
+********** 4 **********
+--- page 5 ---
+try {
+jdbcTemplate.query("SELECT * FROM users", new
+UserRowMapper());
+} catch (DataAccessException e) {
+// Handle the error
+}
+3. Manual Mapping of Results
+• Problem: When querying a database, developers need to
+manually map the rows from the result set to Java objects.
+This is often tedious and error-prone, especially if you're
+working with large result sets or complex objects.
+•   Solution: Spring JDBC provides the RowMapper interface
+to map database rows to Java objects automatically. By
+implementing RowMapper, you can simplify the process
+of converting result sets into domain objects.
+Example with RowMapper:
+List<User> users = jdbcTemplate.query("SELECT * FROM
+users", new UserRowMapper());
+4. SQL Injection Protection
+• Problem: Writing raw SQL queries with user input
+directly can lead to SQL injection vulnerabilities, where
+malicious users can manipulate SQL queries to gain
+unauthorized access to the database.
+•   Solution: Spring JDBC encourages the use of prepared
+statements, which automatically handle user input as
+parameters and prevent SQL injection. The use of
+JdbcTemplate.update() and JdbcTemplate.query() with
+parameterized queries ensures that user input is treated as
+data, not executable code.
+Example of preventing SQL injection:
+String sql = "SELECT * FROM users WHERE id = ?";
+User user = jdbcTemplate.queryForObject(sql, new Object[]{id},
+new UserRowMapper());
+5. Transaction Management
+• Problem: When executing multiple database operations
+that need to be performed as a single transaction, it is easy
+to make mistakes while managing transactions, especially
+in complex scenarios.
+•   Solution: Spring JDBC integrates with Spring's
+transaction management system, allowing you to easily
+handle both programmatic and declarative transactions.
+You can define transactional boundaries using
+@Transactional or via a programmatic approach, ensuring
+********** 5 **********
+--- page 6 ---
+that operations are either fully committed or rolled back in
+case of errors.
+Example with @Transactional:
+@Transactional
+public void transferMoney(int fromAccountId, int toAccountId,
+double amount) {
+// Perform money transfer operations, including database
+updates
+}
+6. Batch Processing
+• Problem: Executing multiple SQL operations (e.g.,
+inserts, updates) individually can lead to performance
+bottlenecks, especially for large datasets.
+Solution: Spring JDBC provides support for batch processing
+via JdbcTemplate.batchUpdate(), which allows you to execute a
+batch of SQL statements in a single call, improving performance.
+CO-3;   b.   Explain Spring Framework and Modules.   [10]
+SO-7;
+BL-3
+Q3
+CO-3;   a.   Write a JSP Page with simple form submission using JSP.   [10]
+SO-6;
+BL-3
+<%@ page language="java" contentType="text/html;
+charset=UTF-8" pageEncoding="UTF-8" %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Simple JSP Form</title>
+</head>
+<body>
+<h2>Simple JSP Form Submission</h2>
+<form action="form.jsp" method="post">
+********** 6 **********
+--- page 7 ---
+Name: <input type="text" name="name"
+required><br><br>
+Email: <input type="email" name="email"
+required><br><br>
+<input type="submit" value="Submit">
+</form>
+<%
+String name = request.getParameter("name");
+String email = request.getParameter("email");
+if (name != null && email != null) {
+%>
+<h3>Submitted Data:</h3>
+<p><strong>Name:</strong> <%= name %></p>
+<p><strong>Email:</strong> <%= email %></p>
+<%
+}
+%>
+</body>
+</html>
+CO-3;   b.   Write a Hibernate Program to save Student having id, name   [10]
+SO-7;   & address as property. write all files needed to run this
+BL-3   program using MYSQL as DB.
+HibernateStudentApp/
+│── src/
+│ ├── com/example/hibernate/
+│ │ ├── Student.java
+│ │ ├── HibernateUtil.java
+│ │ ├── SaveStudent.java
+│── resources/
+│ ├── hibernate.cfg.xml
+│── pom.xml (if using Maven)
+public class SaveStudent {
+public static void main(String[] args) {
+Session session =
+HibernateUtil.getSessionFactory().openSession();
+Transaction transaction = session.beginTransaction();
+// Creating Student object
+Student student = new Student("John Doe", "123 Main
+Street");
+// Saving Student
+session.save(student);
+transaction.commit();
+********** 7 **********
+--- page 8 ---
+session.close();
+System.out.println("Student saved successfully!");
+}
+}
+Q4
+CO-2;   a.   Explain Bean & creation of bean & lifecycle.   [10]
+SO-7;
+BL-4   A Bean in Java (specifically in Spring and Java EE) is an object
+that is managed by a container, such as the Spring Framework. It
+is a reusable software component that follows specific
+conventions:
+1. It must have a public no-argument constructor.
+2. It must have getter and setter methods for accessing
+properties.
+Instantiation: Spring container creates an instance of the
+bean.
+Property Population: Dependencies are injected (via
+constructor, setter, or autowiring).
+Initialization:
+•   If the bean implements InitializingBean,
+afterPropertiesSet() is called.
+•   If an init-method is specified, it is executed.
+•   If @PostConstruct is used, that method runs.
+Ready to Use: The bean is now fully initialized and available
+for use.
+Destruction:
+•   If DisposableBean is implemented, destroy() is called.
+•   If a destroy-method is specified, it is executed.
+•   If @PreDestroy is used, that method runs before the bean
+is destroyed.
+CO-1;   b.   Explain Spring MVC architecture & key annotations.   [10]
+SO-7;
+BL-4   Spring MVC is based on the Servlet API, but it offers several
+enhancements that make it easier to work with, especially in
+large-scale web applications.
+********** 8 **********
+--- page 9 ---
+How Spring MVC Handles Requests
+Spring MVC Workflow (Request Flow)
+1. Client sends HTTP request: The request could be a GET,
+POST, or any other type of HTTP request.
+2. DispatcherServlet intercepts the request: The
+DispatcherServlet acts as the front controller, receiving the
+request and forwarding it to the appropriate handler.
+3. HandlerMapping determines the appropriate
+controller: It matches the incoming request to a specific
+controller method based on URL patterns, annotations, or
+other configurations.
+4. Controller processes the request: The controller
+performs the business logic, updates the model, and
+returns a ModelAndView object (or just a model).
+5. ViewResolver resolves the view: The logical view name
+returned by the controller is resolved by the ViewResolver
+to an actual view (e.g., JSP or Thymeleaf).
+6. View renders the response: The view takes the model
+data and renders it (e.g., as HTML) to be sent back to the
+client.
+7. Response sent to the client: The rendered response is sent
+back to the client (browser).
+Key Annotations in Spring MVC
+Spring MVC Annotations Overview
+1. @Controller:
+• Used to define a class as a controller. It is a specialization
+of @Component, allowing Spring to automatically detect
+it via component scanning.
+2. @RequestMapping:
+********** 9 **********
+--- page 10 ---
+• Maps an HTTP request to a specific method in a
+controller.
+•   It can be applied to methods or classes to map the URL
+pattern and request type (GET, POST, etc.).
+3. @GetMapping, @PostMapping, @PutMapping,
+@DeleteMapping:
+• These are specialized versions of @RequestMapping used
+for specific HTTP methods:
+o @GetMapping: For GET requests
+o @PostMapping: For POST requests
+o @PutMapping: For PUT requests
+o @DeleteMapping: For DELETE requests
+4. @RequestParam:
+Used to bind HTTP request parameters to method parameters.
+Q5
+CO-2;   a.   Explain AOP flow & types of pointcut.   [10]
+SO-7;
+BL-3   Aspect-Oriented Programming (AOP) is a programming
+paradigm that helps modularize cross-cutting concerns such as
+logging, security, transactions, caching, and exception
+handling. AOP allows separating these concerns from business
+logic, improving code maintainability.
+AOP Flow (Execution Flow in Spring AOP)
+1. Join Point – A specific point in the execution flow of a
+program (e.g., method execution, object creation).
+2. Pointcut – A predicate (expression) that matches one or
+more Join Points where advice should be applied.
+3. Advice – The actual code that runs before, after, or around
+a Join Point.
+4. Aspect – A module that encapsulates Advice and
+Pointcuts.
+5. Weaving – The process of linking Aspects with the target
+objects (Spring AOP supports runtime weaving).
+Types of Pointcuts include execution, within, args, this,
+target, and annotation-based pointcuts.
+@Aspect and @Pointcut help define AOP behavior in Spring.
+CO-1;   b. What is Spring Boot Layered Architecture.   [5]
+SO-7;
+BL-3   Spring Boot applications typically follow a four-layer
+architecture:
+1️ Presentation Layer (Controller Layer)
+• Handles HTTP requests and user interactions.
+•   Calls the Service Layer to process business logic.
+********** 10 **********
+--- page 11 ---
+• Returns responses (e.g., JSON, HTML) to the client.
+2️ Service Layer (Business Logic Layer)
+• Contains business logic and rules.
+• Communicates with the Repository Layer.
+• Ensures that data processing follows the business
+requirements.
+3️ Repository Layer (Data Access Layer - DAO)
+•   Directly interacts with the database.
+• Uses Spring Data JPA or JDBC to fetch, save, and
+update records.
+4️ Database Layer (Persistence Layer)
+• Represents the database (e.g., MySQL, PostgreSQL).
+• Uses Entity classes and ORM (Hibernate) for database
+interaction.
+Flow of Data in Layered Architecture
+1. User (Client) sends a request → (Controller Layer)
+2. Controller calls the Service Layer to process the request.
+3. Service Layer interacts with Repository Layer to
+fetch/update data.
+4. Repository Layer communicates with the Database.
+5. Data flows back from Repository → Service →
+Controller → User.
+CO-2;   c.   Explain the Syntax & semantics of JSP. List all the implicit   [5]
+SO-7;   object.
+BL-4
+. Syntax of JSP
+JSP (JavaServer Pages) allows embedding Java code into HTML
+using various elements:
+JSP
+Syntax   Purpose
+Element
+<%@   Defines global settings (e.g.,
+Directive
+directive %>   page encoding, imports).
+Declaration <%! code %>   Declares variables and methods.
+Embeds Java code inside the
+Scriptlet   <% code %>
+JSP.
+<%=   Outputs data directly to the
+Expression
+expression %>   browser.
+JSP-specific functionality (e.g.,
+Action Tag <jsp:action />
+forward, include).
+********** 11 **********
+--- page 12 ---
+<%-- comment - Hidden comment (not sent to
+Comment
+-%>   client).
+2. JSP Semantics (Execution Flow)
+1. JSP Compilation – JSP is converted into a Servlet by the
+server.
+2. Servlet Execution – The converted servlet handles
+requests using the service() method.
+3. Response Generation – The servlet processes data and
+generates an HTML response.
+4. Client Receives Output – The response is sent back to the
+browser.
+Q6
+CO-2;   a.   What is Caching in Hibernate? Explain the different level of   [10]
+SO-7;   caching supported by Hibernate.
+BL-3
+Caching in Hibernate improves application performance by
+reducing database queries. It stores frequently accessed data in
+memory, minimizing unnecessary database interactions.
+Hibernate supports two levels of caching:
+1. First-Level Cache (Session-Level)
+2. Second-Level Cache (SessionFactory-Level)
+Additionally, Hibernate supports Query Cache for caching query
+results.
+1️ First-Level Cache (Session Cache)
+• Enabled by default (No configuration needed).
+• Works at the Session level.
+• Data is stored in the Session object and remains cached
+until the session is closed.
+• Each Hibernate session has its own isolated cache.
+•   If an entity is queried multiple times within the same
+session, Hibernate does not hit the database again.
+2️ Second-Level Cache (SessionFactory Cache)
+• Works across multiple sessions (shared cache).
+• Disabled by default (must be explicitly configured).
+• Uses external cache providers such as:
+o EHCache
+o OSCache
+o Infinispan
+o Hazelcast
+CO-4;   b. What is hibernate & key feature? what are the different types   [10]
+SO-7;   of association mapping supported by hibernate with example.
+********** 12 **********
+--- page 13 ---
+BL-3
+Hibernate is a Java-based ORM (Object-Relational Mapping)
+framework that simplifies database interactions by mapping Java
+objects to database tables. It eliminates the need for complex
+JDBC code and provides automatic SQL generation.
+Key Features of Hibernate
+ORM (Object-Relational Mapping) – Maps Java objects to
+database tables.
+HQL (Hibernate Query Language) – Allows writing queries
+independent of the database.
+First & Second-Level Caching – Improves performance by
+reducing database calls.
+Automatic Table Creation – Uses hbm2ddl.auto to
+create/update tables automatically.
+Lazy & Eager Loading – Controls data fetching strategy.
+Transaction Management – Supports ACID transactions and
+integrates with Spring.
+Cross-Database Support – Works with MySQL, PostgreSQL,
+Oracle, etc.
+Types of Association Mapping in Hibernate
+Hibernate supports four types of associations:
+1. One-to-One (@OneToOne)
+2. One-to-Many (@OneToMany) & Many-to-One
+(@ManyToOne)
+3. Many-to-Many (@ManyToMany)
+Q7
+CO-5;   a.   Explain Spring Framework & features.   [10]
+SO-6;
+BL-2   Spring is a powerful, lightweight, and modular Java framework
+used for building enterprise applications. It simplifies Java
+development by providing:
+Dependency Injection (DI) for better modularity.
+Aspect-Oriented Programming (AOP) for handling cross-
+cutting concerns.
+Transaction Management for database operations.
+Integration with ORM frameworks like Hibernate.
+Key Features of Spring Framework
+1️ Dependency Injection (DI)
+• Spring manages object dependencies automatically.
+• Reduces tight coupling between components.
+• Uses @Autowired annotation for injecting dependencies.
+2️ Aspect-Oriented Programming (AOP)
+• Helps separate business logic from cross-cutting
+concerns (logging, security, etc.).
+********** 13 **********
+--- page 14 ---
+• Uses @Aspect and @Around annotations.
+3️ Transaction Management
+• Ensures data consistency in database operations.
+• Uses @Transactional annotation.
+4️ Spring MVC (Model-View-Controller)
+• Helps build web applications in a structured way.
+• Handles HTTP requests, responses, and views.
+Spring Framework Modules
+Spring is modular, meaning you can use only the parts you need.
+Module   Purpose
+Spring Core   Provides Dependency Injection (DI)
+Spring AOP   Aspect-Oriented Programming (AOP)
+Web applications (REST APIs, JSP,
+Spring MVC
+Thymeleaf)
+Spring Data
+Database integration with Hibernate
+JPA
+Spring Security Authentication & Authorization
+Spring Boot   Simplifies Spring app development
+Spring Cloud   Microservices support (Eureka, Feign, Zuul)
+CO-2;   b. What is session tracking. Explain the way of session tracking   [10]
+SO-5;   with syntax & example.
+BL-3
+Http protocol is a stateless so we need to maintain state using
+session tracking techniques. Each time user requests to the server,
+server treats the request as the new request.
+HTTP is stateless that means each request is considered as the
+new request.
+Dynamic applications are built on the assumption that the same
+client accesses the application multiple times.
+Client data is lost with every request being considered as a new
+request.
+Session Tracking Techniques
+There are four techniques used in Session tracking:
+1. Cookies
+2. Hidden Form Field
+3. URL Rewriting
+4. HttpSession
+1. Cookie
+A cookie is a small piece of textual information sent by the server
+to the client, stored on the client, and returned by the client for all
+requests to the server.
+********** 14 **********
+--- page 15 ---
+•   Stores data on the client-side (user's browser).
+• Less secure than sessions for sensitive information (due to
+potential theft).
+How to create Cookie?
+Let's see the simple code to create cookie.
+Cookie ck=new Cookie("user","kumar");//creating cookie object
+response.addCookie(ck);//adding cookie in the response
+URL Rewriting
+// (Pseudocode, not recommended for real applications)
+String sessionId = request.getSession().getId();
+String targetUrl = "welcome.jsp?sessionid=" + sessionId;
+response.sendRedirect(targetUrl);
+Advantage of URL Rewriting
+1. It will always work whether cookie is disabled or not
+(browser independent).
+2. Extra form submission is not required on each pages.
+Disadvantage of URL Rewriting
+1. It will work only with links.
+2. It can send Only textual information.
+Hidden Form Fields in HTML
+In this approach the unique token is embedded within each
+HTML form. For example
+<input type=”Hidden” name=”uid” value=”dac”>
+********** 15 **********
+````
+
 ## 2024-25 · Re-Exam · Sem 2 · Answer key · paper ba7944cf07d0
 
 - Departments: Computer Applications (MCA)

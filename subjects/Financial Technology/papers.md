@@ -1,8 +1,64 @@
 # Financial Technology: question papers in full
 
-19 unique papers · 2017-18 to 2025-26 · Common (all branches), Computer Engineering, Mechanical, Artificial Intelligence, Data Science, Information Technology
+21 unique papers · 2017-18 to 2025-26 · Common (all branches), Computer Engineering, Mechanical, Artificial Intelligence, Data Science, Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 10 · paper fd7422f74ee0
+
+- Departments: Computer Engineering
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047
+- Source: `00_Original_Downloads/2025/76555__Semester X.zip :: Final-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047/Financial Technology/QP_Final-Exam_Financial Technology(703TF0E006)_Semester X_2025-2026.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 13 May 2026
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY
+MANAGEMENT (COMPUTERENGINEERING)
+Year: V/Semester X(Exam Year: 2025-2026)
+Subject: Financial Technology
+Date: 13 May 2026   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Question 1 is compulsory. Solve any four from the remaining questions
+4. Use of laptops mobile phones is strictly prohibited
+5. Each question carries 10 marks
+Answer the following questions. Question 1 is compulsory and attempt any four from the
+remaining questions.
+1) A hedge fund manager working with based out of Florida, USA stated that Silver has quietly been
+one of the best performing assets for algo trading in 2025. What could be the possible reasons for
+surging profits through algo trading in case of Silver? First, briefly discuss the concept of Algo
+trading with advantages of algo trading and then discuss the reasons for possible profits for Silver
+algo traders in 2025. Silver price movement over the past five years in given below for reference.
+2) With a diagram, illustrate your understanding of cloud computing. Further, explain the three main
+cloud service models and discuss how AI will affect each of these models?
+3) In 2021, Google relaunched payment app, Google Pay, aimed to bring all required user functions
+under one roof. Its streamlined interface and intuitive usability made it the winner of this year’s
+Innovation by Design Award in finance. And Design thinking was a critical aspect of this success.
+Today, Google Pay, has an estimated 35% market share in India and design thinking has played a
+critical role in making Google Pay one of the best payment apps in India. Discuss the concept of
+design thinking with a diagram and discuss how Google Pay must have used design thinking to
+create a award winning app.
+********** 1 **********
+--- page 2 ---
+4) What are the growth prospects, challenges and outlook of small finance banks in India? Illustrate
+your understanding of the small finance banks sector related to growth, challenges and outlook for
+the sector using example of small finance bank operating in India.
+5) Discuss the layers of Blockchain with a diagram. Further, discuss how digital assets work as
+medium of exchange and explain the three main types of financial assets.
+6) Evaluate the rise of fintech app Groww as the leading broker in India. Discuss how DigiLocker and
+Esign have helped the rise of fintech services providers like Groww in India.
+7) Aadhaar is the foundational identity layer (or "digital spine") of the India Stack, a unified set of
+digital public infrastructure (DPI) designed to enable paperless, presence less, and cashless services.
+In detail, illustrate your understanding of the technology behind Aadhar and also discuss the
+advantages of Aadhar based eKYC.
+********** 2 **********
+````
 
 ## 2025-26 · Final-Exam · Sem 9 · paper 2817581928c6
 

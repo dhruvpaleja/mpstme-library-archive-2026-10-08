@@ -2,6 +2,604 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 1 · Answer key · paper 3406c5276f97
+
+- Departments: Management Studies
+- Programmes: Bachelor of Management Studies - 45614
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Management Studies - 45614/Principles Of Management/ANS_Final-Exam_Principles Of Management(NBPOM101)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 60; exam date: 13 Feb 2026
+- Text: text (10 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Management Studies/B.M.S.
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Principles of Management/Principles Of
+Management
+Time: 07:30 am - 09:30 am (02:00
+Date: 13 Feb 2026
+Hrs.)
+Max Marks: 60
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 10 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+1.   Answer the following:(Attempt Any 2 Questions)   12
+a.   6
+Explanation of each level of management along with the relevant skills will be awarded 2
+marks per level.
+Management is divided into three levels based on authority and responsibility.
+1. Top Level Management Includes Board of Directors, CEO, Managing Director.
+Functions: Formulation of policies Setting long-term objectives Strategic planning Skills
+Required: Conceptual skills Decision-making skills Leadership skills
+2. Middle Level Management Includes department heads and managers.
+Functions: Implementing policies Coordinating activities Motivating employees Skills
+Required: Human skills Communication skills Analytical skills
+3. Lower Level (Supervisory) Management Includes supervisors and foremen.
+Functions: Supervising workers Maintaining discipline Ensuring quality and productivity Skills
+Required: Technical skills Problem-solving skills Interpersonal skills
+b. Principles of Chanakya Neeti – 3 marks Relevance in modern management – 3 marks   6
+Page 1 of 10
+--- page 2 ---
+Principles of Chanakya Neeti Wise and Strategic Leadership: Leaders should plan with
+foresight and intelligence. Strategic Planning: Importance of careful preparation and resource
+allocation. Discipline and Accountability: Employees and managers should be responsible for
+their duties. Ethical Governance: Decisions should be fair, ethical, and transparent. Employee
+Loyalty and Welfare: Maintaining team morale, loyalty, and wellbeing. Crisis Management:
+Leaders must act decisively during challenges. Relevance in Modern Management Supports
+Strategic Management: Encourages long-term planning and risk assessment. Ethical
+Leadership: Aligns with modern principles of corporate governance. Employee Management:
+Focus on loyalty, motivation, and ethical treatment. Crisis Handling: Applicable in
+competitive, uncertain, and disruptive environments. Decision-Making: Provides practical
+guidance for balancing ethics, strategy, and outcomes. Example: Modern CEOs use Chanakya-
+inspired strategies for planning, decision-making, and crisis management.
+c. Focus on human behavior – 3 marks Limitations of Neo-Classical approach – 3 marks   6
+Focus of Neo-Classical Approach The Neo-Classical approach (Human Relations Approach)
+emphasizes the human aspect of management, highlighting that employee behavior,
+motivation, and social relationships affect productivity. Key points: Employee Motivation:
+Employees are motivated by social and psychological needs, not just money. Leadership and
+Supervision: Leadership style influences employee satisfaction and efficiency. Group
+Dynamics: Teams and informal groups impact performance. Communication: Effective
+communication improves morale and coordination. Employee Participation: Involving workers
+in decision-making enhances commitment. Example: Hawthorne Experiments by Elton Mayo
+showed productivity improves when workers feel valued. Limitations Overemphasis on human
+relations, neglecting technical and structural aspects. Assumes employees are always
+cooperative, which may not be true. Ignores economic and external factors influencing
+performance. Difficult to quantify the impact of motivation and group behavior. Less
+applicable to highly mechanized or structured industries.
+2.   Answer the following:(Attempt Any 2 Questions)   12
+a. Planning is the foremost, fundamental and important function of management. It is a process of   6
+setting goals and choosing the means to achieve these goals. Planning is the starting point of
+management process and all other functions of management are related to and dependent on
+planning function. It involves selecting missions and objectives and the actions to achieve
+them. Below are the key steps in the planning process: 1. Setting Objectives The first and most
+important step in planning is establishing clear and measurable objectives. These objectives
+provide a direction for the organization and serve as the foundation for subsequent planning
+activities. Objectives should be SMART (Specific, Measurable, Achievable, Relevant, and
+Time-bound) to ensure they are practical and attainable. By setting clear goals, management
+can align resources and efforts toward achieving these targets. 2. Developing Premises
+Premises are assumptions about the future that form the basis of planning. These assumptions
+Page 2 of 10
+--- page 3 ---
+may include forecasts related to market trends, economic conditions, competition, and internal
+capabilities. Developing accurate premises is critical because plans are built on these
+predictions. Organizations may use historical data, expert opinions, or market research to form
+premises. Careful consideration of these factors helps minimize risks and uncertainties during
+the planning process. 3. Identifying Alternatives Once objectives are set and premises
+established, the next step is to identify various alternatives for achieving the goals. Multiple
+approaches should be considered to ensure the best possible course of action is selected. This
+process involves brainstorming and listing all potential strategies that could help the
+organization meet its objectives. Identifying alternatives fosters creativity and ensures that all
+possible paths are explored before committing to one. 4. Evaluating Alternatives After
+identifying potential alternatives, each must be thoroughly evaluated in terms of feasibility,
+costs, risks, and potential outcomes. This evaluation helps to determine which option is most
+likely to achieve the organization’s objectives with the least risk and highest benefit. The pros
+and cons of each alternative are weighed, often using decision-making tools like SWOT
+(Strengths, Weaknesses, Opportunities, Threats) analysis or cost-benefit analysis. 5. Selecting
+the Best Alternative Based on the evaluation, the next step is to choose the best alternative. The
+selected alternative should offer the most efficient and effective means of achieving the
+objectives. In some cases, a combination of alternatives might be the best approach. The
+decision should be made with consideration of the available resources, organizational
+capabilities, and potential risks involved. This is a critical step, as it determines the direction of
+the organization’s future actions. 6. Formulating Action Plans Once the best alternative is
+selected, detailed action plans need to be developed. Action plans break down the selected
+strategy into specific tasks and responsibilities. They define the steps that must be taken, the
+resources required, timelines, and the individuals or teams responsible for execution. Action
+plans ensure that everyone in the organization understands their role in implementing the
+strategy, thereby facilitating coordination and accountability. 7. Allocating Resources Planning
+involves identifying the resources needed to execute the action plans. Resources include
+financial assets, human capital, technology, and materials. Proper resource allocation ensures
+that the organization has everything it needs to successfully carry out the plans. This step also
+involves budgeting, scheduling, and assigning personnel to ensure that the plan can be
+implemented within the available resources and constraints. 8. Implementing the Plan The
+implementation phase puts the plan into action. It involves coordinating the efforts of various
+departments and individuals, monitoring progress, and making adjustments as needed.
+Effective implementation requires strong leadership, communication, and ongoing supervision
+to ensure that the plan is followed. Without proper execution, even the best-laid plans can fail
+to achieve the desired outcomes. 9. Monitoring and Controlling Once the plan is in motion,
+continuous monitoring and control are necessary to ensure that the organization stays on track
+toward its objectives. This step involves tracking progress, comparing actual performance with
+the set goals, and making necessary adjustments. If deviations occur, corrective actions must be
+taken to bring the plan back on course. Monitoring also allows for learning and improvement,
+Page 3 of 10
+--- page 4 ---
+as organizations can identify areas where future planning processes could be enhanced. 10.
+Reviewing and Revising Plans The final step in planning is reviewing the outcomes and
+revising the plans as needed. Plans should be flexible and adaptable to changing circumstances.
+Periodic reviews help assess whether the plan remains relevant in light of new information or
+unexpected challenges. Based on these reviews, adjustments can be made to improve the plan’s
+effectiveness and ensure continued alignment with organizational objectives. 10 steps- 5
+marks, 1 mark for example
+b. Management by Exception (MBE) is a management approach that focuses on addressing   6
+deviations from established norms or standards rather than managing routine activities. It is
+based on the principle that managers should only intervene when performance significantly
+deviates from expectations. This approach allows for more efficient management by
+concentrating attention on significant issues and exceptions rather than routine operations.
+Concept of Management by Exception (MBE) • Principle of Focus: MBE operates on the
+principle that managers should focus on exceptional cases—those situations where
+performance deviates from the norm or established standards. Routine activities and operations
+are managed by standard procedures and do not require constant oversight. • Exception
+Reporting: In MBE, performance is regularly monitored against predefined standards or
+benchmarks. When actual performance deviates beyond acceptable thresholds, exception
+reports are generated. These reports highlight significant deviations that need managerial
+attention. • Delegation of Routine Tasks: Routine and operational tasks are delegated to lower-
+level managers or employees who follow established procedures. This allows top management
+to concentrate on strategic decision-making and addressing exceptional cases. • Decision-
+Making: Managers use the information from exception reports to make informed decisions
+about corrective actions. The focus is on identifying the causes of deviations and implementing
+solutions to bring performance back in line with expectations. Benefits of Management by
+Exception (MBE) • Efficient Use of Time and Resources: MBE helps managers use their time
+and resources more efficiently by focusing only on significant deviations from standards. This
+prevents the need for micromanagement and allows managers to devote their attention to
+critical issues. • Improved Decision-Making: By highlighting significant exceptions, MBE
+provides managers with relevant information needed for decision-making. This allows for
+timely and informed actions to address problems and improve performance. • Enhanced Focus
+on Strategic Issues: With routine operations managed by lower levels, top management can
+focus on strategic issues and long-term goals. This alignment helps ensure that managerial
+efforts are directed toward areas that have a significant impact on organizational success. •
+Increased Accountability: MBE encourages accountability at all levels by setting clear
+performance standards and expectations. Employees and lower-level managers are responsible
+for routine tasks and performance within set standards, while exceptions are managed at higher
+levels. • Motivation and Engagement: Employees are often motivated by the clear delegation of
+routine tasks and the autonomy to manage their day-to-day activities. Knowing that their
+Page 4 of 10
+--- page 5 ---
+managers will focus on exceptions rather than routine work can enhance job satisfaction and
+engagement. • Flexibility and Responsiveness: MBE allows organizations to be more flexible
+and responsive to changes. By addressing deviations as they occur, organizations can adapt
+quickly to new challenges and opportunities, ensuring that performance remains aligned with
+organizational goals. • Cost Control: By focusing on significant deviations, MBE helps in
+controlling costs associated with inefficiencies and deviations. It ensures that corrective actions
+are targeted where they are needed most, preventing unnecessary expenditure. Management by
+Exception (MBE) is a valuable approach that enhances managerial efficiency by concentrating
+on significant deviations from established standards. By focusing on exceptions rather than
+routine activities, MBE allows for better decision-making, improved use of time and resources,
+and increased accountability. Its benefits include enhanced strategic focus, motivation,
+flexibility, and cost control, making it an effective management tool for organizations aiming to
+optimize performance and address critical issues effectively. Any 6 points- 6 marks
+c. Qualitative decision-making techniques focus on understanding problems, generating ideas,   6
+and evaluating solutions based on subjective judgment, creativity, and group dynamics rather
+than relying solely on numerical data. These techniques are used to tackle complex or uncertain
+situations where human insights, experiences, and discussions play a key role in making
+effective decisions. 1. Brainstorming: Brainstorming is a popular group problem-solving
+method that encourages spontaneous idea generation. It allows participants to freely contribute
+creative ideas without criticism, promoting a wide range of solutions. The aim is to generate as
+many ideas as possible, which can later be evaluated and refined. Example: In a marketing
+team meeting, brainstorming might be used to come up with innovative campaign ideas for a
+new product launch. Each team member shares ideas openly, helping the group explore
+creative possibilities. 2. Nominal Group Technique: The Nominal Group Technique (NGT) is a
+structured group discussion process designed to generate ideas and prioritize solutions. Unlike
+brainstorming, NGT ensures that every group member contributes equally. It involves
+individuals writing down their ideas silently, sharing them with the group, and then discussing
+and ranking them. This technique helps in balancing the views of more vocal members with
+those who may be quieter. Example: In a company deciding how to improve customer service,
+NGT might be used to gather and prioritize suggestions from employees. After sharing and
+discussing ideas, the group can vote on the most viable solutions. 3. Delphi Method: The
+Delphi Method is a structured technique that gathers opinions from a panel of experts through
+multiple rounds of questionnaires. Each round aims to reach a consensus or agreement on a
+specific issue. Experts provide feedback anonymously, which minimizes bias and peer
+pressure. The method is especially useful in situations where specialized knowledge or
+forecasts are needed. Example: A company considering future trends in technology might use
+the Delphi method to gather predictions from industry experts on the impact of artificial
+intelligence. After several rounds of feedback, the company can gain clearer insights to inform
+its strategy. 4. SWOT Analysis: SWOT analysis is a simple yet effective technique used to
+Page 5 of 10
+--- page 6 ---
+evaluate the internal and external factors influencing a decision. It involves identifying an
+organization’s Strengths, Weaknesses, Opportunities, and Threats. This analysis provides a
+comprehensive view of a situation, helping decision-makers identify areas to leverage or
+improve and external risks to watch out for. Example: A business planning to expand into new
+markets might use SWOT analysis to evaluate its competitive strengths, potential risks in the
+new market, and opportunities for growth. 5. Focus Groups: Focus groups involve gathering a
+small, diverse group of people to discuss a particular issue or product. The interaction and
+discussion among group members help decision-makers gather insights into people’s opinions,
+preferences, and emotions. It is commonly used in market research to explore consumer
+behavior. Example: Before launching a new mobile phone, a company might hold focus groups
+to get feedback on design, features, and usability. Insights gained from these discussions help
+in making product-related decisions. 6. Expert Judgment: Expert judgment is a qualitative
+decision-making technique where experienced individuals or specialists provide insights and
+recommendations. Their knowledge and experience are particularly valuable in complex or
+uncertain situations where data might be limited, but expert intuition and insights can guide the
+decision-making process. Example: A pharmaceutical company developing a new drug might
+consult experts in the field to assess potential side effects and predict its market acceptance. 7.
+Scenario Planning: Scenario planning involves creating and analyzing multiple hypothetical
+future situations or “scenarios” based on different sets of assumptions. This technique helps
+organizations anticipate potential challenges and opportunities, allowing them to be more
+prepared for uncertainty. Example: An energy company might use scenario planning to explore
+how different future regulatory changes or shifts in oil prices could impact its business and
+then develop strategies to address each scenario. 8. Multi-Criteria Decision Analysis (MCDA):
+Multi-Criteria Decision Analysis (MCDA) helps decision-makers evaluate multiple options by
+comparing them across several criteria, both qualitative and quantitative. It provides a
+structured way to weigh different factors, such as cost, quality, risk, and customer satisfaction,
+ensuring a balanced decision. Example: A city government choosing a location for a new
+school might use MCDA to compare different sites based on proximity to neighborhoods,
+environmental impact, and construction costs. 9. Consensus Decision Making: Consensus
+decision making is a group process where participants work together to reach a decision that
+everyone agrees on or can accept. The goal is not simply majority rule but to find a solution
+that considers the needs and concerns of all members. It encourages collaboration and reduces
+conflict. Example: A nonprofit organization may use consensus decision making when
+deciding on a community project, ensuring that all board members and stakeholders feel their
+input is valued and the final decision is mutually acceptable. 10. Ethnographic Research:
+Ethnographic research involves studying people’s behavior in their natural environment to gain
+deep insights into their actions, preferences, and needs. It is often used in market research and
+product development to understand consumer habits and design user-centered products.
+Example: A company developing a new kitchen appliance might conduct ethnographic
+Page 6 of 10
+--- page 7 ---
+research by observing families using existing appliances at home, helping them identify
+practical design improvements. Any 6 points- 6 marks
+3.   Answer the following:(Attempt Any 2 Questions)   12
+a. Meaning (2 marks):   6
+A virtual organisational structure is a flexible form of organisation where employees, teams,
+and business partners operate from different geographical locations and coordinate their
+activities through digital communication and information technology systems.
+Advantages (2 marks):
+1. Reduces operational costs related to office space and infrastructure.
+2. Enables access to a global talent pool and provides greater flexibility in work arrangements.
+Limitations (2 marks):
+1. Communication gaps and lack of face-to-face interaction may affect coordination and trust.
+2. Monitoring performance and maintaining control can be challenging in remote working
+environments.
+b. Identification & Meaning (2 marks): The organisation follows a Matrix Organisational   6
+Structure. In this structure, employees work under a dual reporting system, reporting
+simultaneously to a functional manager and a project or product manager to achieve better
+coordination across functions and projects.
+Advantages (2 marks):
+1.   Enables efficient utilisation of specialised resources across multiple projects.
+2.   Improves coordination and flexibility in handling complex tasks.
+Limitations (2 marks):
+1.   Dual authority can lead to confusion and role conflict.
+2.   Decision-making may be delayed due to overlapping responsibilities.
+c. Meaning of Delegation (1 mark):   6
+Delegation involves entrusting subordinates with responsibility and the necessary authority to
+perform tasks, while holding them accountable for the results achieved.
+Barriers to Effective Delegation (5 marks):
+Page 7 of 10
+--- page 8 ---
+1. Inadequate authority: Employees are not given sufficient authority to take independent
+decisions.
+2. Fear of responsibility: Lack of confidence and fear of making mistakes discourages
+initiative.
+3. Poor communication: Unclear instructions and expectations increase dependence on the
+manager.
+4. Absence of motivation: Lack of encouragement and recognition reduces willingness to
+accept responsibility.
+5. Lack of training and experience: Insufficient skills and exposure make employees
+hesitant to take charge.
+4.   Answer the following:(Attempt Any 2 Questions)   12
+a. Definition/concept of motivation – 2 marks Benefits to employees – 2 marks Benefits to   6
+organisation – 2 marks
+Concept of Motivation Motivation is the internal drive that stimulates individuals to act and
+achieve goals. It involves satisfying both physiological and psychological needs of employees.
+Example: Recognition, promotions, monetary incentives, and challenging tasks motivate
+employees to perform better. Benefits to Employees Job Satisfaction: Motivated employees
+feel valued and satisfied. Higher Productivity: Encourages employees to put in maximum
+effort. Skill Development: Motivates learning and personal growth. Reduced Absenteeism:
+Engaged employees are more committed to work. Benefits to Organisation Increased
+Efficiency: Leads to better performance and output. Achievement of Goals: Motivated
+employees contribute to organizational objectives. Employee Retention: Reduced turnover due
+to higher satisfaction. Positive Work Culture: Enhances morale, cooperation, and teamwork.
+b.   6
+To address employee concerns and ensure smooth implementation of the new work process,
+the manager can apply the following change management strategies:
+1. Clear and transparent communication: (1 Mark)
+Explain the need for change, its objectives, and its impact on roles and reporting
+relationships to reduce uncertainty and rumours.
+2. Employee involvement and participation: (1 Mark)
+Involve employees in planning and decision-making to create a sense of ownership and
+Page 8 of 10
+--- page 9 ---
+reduce resistance.
+3. Training and skill development: (1 Mark)
+Provide adequate training to help employees adapt to new roles, responsibilities, and work
+methods confidently.
+4. Supportive leadership and guidance: (1 Mark)
+Managers should actively support, guide, and motivate employees during the transition
+period.
+5. Counselling and emotional support: (1 Mark)
+Address employee fears and concerns through counselling, feedback sessions, and open
+discussions.
+6. Reinforcement through rewards and recognition: (1 Mark)
+Recognise and reward employees who adapt positively to the change, reinforcing
+acceptance and desired behaviour.
+c. Identification of Theory & Explanation (2 mark): The situation can be addressed using   6
+McClelland’s Need Theory. McClelland’s theory states that employee motivation is driven by
+three learned needs- Need for Achievement (nAch), Need for Affiliation (nAff), and Need for
+Power (nPow)- which vary among individuals.
+Application to the Situation (3 marks):
+Employees with high nAch can be motivated through challenging sales targets and
+performance-based rewards.
+Employees with high nAff can be encouraged through teamwork and supportive work
+relationships.
+Employees with high nPow can be given supervisory roles or responsibility for influencing
+store operations.
+Justification (1 mark): Since underperformance may result from mismatch between job roles
+and dominant needs, McClelland’s theory allows tailored motivation strategies to improve
+performance.
+5. Read Mention the case of and check answer sheet the – 2 following marks Mention questions:. of Pareto chart – 2 marks Explanation of impact   12
+on problem identification – 2 marks
+Page 9 of 10
+--- page 10 ---
+Q1. Check Sheet: Bright Foods used a check sheet to systematically record customer
+complaints. It helped identify patterns in defects, revealing that most complaints were from
+the evening shift. Pareto Chart: A Pareto analysis was conducted to pinpoint the most critical
+causes of defects. The chart showed that improper seasoning and poor sealing were
+responsible for the majority of problems (“vital few”). Effectiveness: These quantitative tools
+allowed management to focus on the most significant issues, rather than addressing minor or
+irrelevant problems. Enabled data-driven decision-making for quality improvement.
+Outcome: By identifying the root causes using these tools, management could prioritize
+corrective measures, ensuring resources were used effectively.
+Explanation of systems approach – 2 marks Explanation of contingency approach – 2 marks
+Impact on quality improvement – 2 marks
+Q2. Systems Approach The systems approach views the organization as a network of
+interrelated subsystems. Bright Foods realized that raw material quality, machine
+maintenance, and worker training were all interconnected. Improvement in any one subsystem
+(like worker training) positively impacted overall product quality. Example: Better raw
+materials combined with proper machine maintenance led to consistent taste and packaging.
+2. Contingency Approach The contingency approach emphasizes that management practices
+should adapt to specific situations. Bright Foods applied stricter quality checks during peak
+demand and simplified procedures during normal production. This ensured flexibility,
+efficient use of resources, and maintained quality under varying operational conditions.
+Impact Defects were reduced, customer satisfaction improved, and repeat sales increased.
+Workers became actively involved in suggesting quality improvements, reflecting effective
+TQM implementation.
+Page 10 of 10
+````
+
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper bda049cf0d71
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce - 45611
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Commerce - 45611/Principles Of Management/ANS_Final-Exam_Principles Of Management(NAPOM152)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 16 Mar 2026
+- Text: text (8 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.B.I./B.Com
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Principles Of Management
+Date: 16 Mar 2026   Time: 08:00 am - 10:00 am (02:00 Hrs.)
+Max Marks: 60
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 8 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. All questions are compulsory
+5. Question 1 to Question 4 have internal choice wherein, you can answer two of the given three options.
+6. Question 5 comprises a Case Study accompanied with questions to be answered in the context of the given
+case.
+1.   Answer the following question. (Attempt Any 2 Questions)   12
+a.   6
+Brief explanation of appropriate skills for all 3 levels of management 2 marks each - Total
+6 marks
+Levels of Management - Top level management, Middle level management, Lower/First-
+line Management.
+Managerial Skills - Technical skills, Conceptual Skills, Human Skills, Decision Making
+Skills, etc.
+b.   6
+Brief explanation about how functioning of an organisation can improve using any 3
+principles from the 14 principles of management given by Henri Fayol for 2 marks each,
+Total - 6 marks
+Page 1 of 8
+--- page 2 ---
+Division of Work: Specialization increases efficiency and improves productivity.
+Authority and Responsibility: Managers must have the authority to give orders and the
+responsibility to ensure work is done.
+Discipline: Employees must obey and respect organizational rules.
+Unity of Command: An employee should receive orders from only one superior.
+Unity of Direction: One head and one plan for activities with the same objective.
+Subordination of Individual Interest to General Interest: Organisational interests should
+prevail over personal interests.
+Remuneration: Employees should receive fair and reasonable wages.
+Centralization: The degree to which authority is concentrated or dispersed in the
+organization.
+Scalar Chain: Clear line of authority from top to bottom (chain of command).
+Order: The right person and material should be in the right place at the right time.
+Equity: Managers should be kind and fair to employees.
+Stability of Tenure of Personnel: Job security increases efficiency and loyalty.
+Initiative: Employees should be encouraged to take initiative.
+Esprit de Corps: Promoting team spirit and unity among employees.
+c.   6
+Brief explanation of the 3 problems for 2 marks each, Total 6 marks
+Chanakya says that three common problems come before leaders:
+People Situation: People who want to reach the top or are at the top must know how to
+handle people. But every individual is different, and that’s why the way of handling
+them also varies. Chanakya suggests reading and understanding human psychology.
+Page 2 of 8
+--- page 3 ---
+Knowledge Situation: Companies spend crores on research and development in
+today’s knowledge economy because proper knowledge is essential to advance. Gain
+knowledge by reading books.
+Material Situation: Under material come money, machines, technology, etc. Chanakya
+says you can handle this situation by having a plan already in place. If a problem
+arises, you must have a backup plan.
+2.   Answer the following question. (Attempt Any 2 Questions)   12
+a.   6
+Any three benefits of planning: 03 marks
+Focus attention on objectives
+Ensures economical operation
+Reduces uncertainty
+Facilitates control
+Encourages innovation and creativity
+Any three limitations of Planning: 03 marks
+Lack of reliable data
+Lack of initiative
+Costly process
+Rigidity in organisational working
+Non-acceptability of change
+External limitations
+Psychological barriers
+(Any other relevant point can be considered)
+b.   6
+Limitations of MBO: Any 6 points- 1 Mark for each point
+Page 3 of 8
+--- page 4 ---
+Difficulty in Setting Quantitative Targets
+Emphasis on Short-Term Goals
+Resistance to Change
+Lack of Training
+Lack of Follow-up
+Rigidity
+Limited Application
+Costly Process
+(Any other relevant point can be considered)
+c.   6
+Brief explanation of Brainstorming: 03 Marks
+It is often used in the idea-generation phase of decision-making and is intended to solve
+problems that are new to the organisation and have major consequences. In
+brainstorming, the group meets to consider specifically to generate alternatives. The
+members present ideas and clarify them with brief explanations
+Brief explanation of Delphi Technique: 03 Marks
+This technique is used for a systematic probing of the minds of experts who possess the
+necessary expertise in the pertinent field or area. Under this method, a panel of experts
+related to a particular problem area is queried. Instead of bringing these experts together
+face-to-face to discuss a problem, a coordinator keeps them from one another. This is
+done to prevent experts from being influenced by each other and to eliminate the
+possibility of the emergence of a band-wagon mentality.
+3.   Answer the following question. (Attempt Any 2 Questions)   12
+a.   6
+Basis   Functional Organisation Matrix Organisation
+Structure   Based on functions   Dual reporting system
+Page 4 of 8
+--- page 5 ---
+Basis   Functional Organisation Matrix Organisation
+Authority   Single authority   Dual authority
+Flexibility Low   High
+Suitability   Stable environment   Project-based, dynamic
+Marks Split:
+Meaning of Functional organisation – 1 mark
+Meaning of Matrix organisation – 1 mark
+features   (any 4 points × 1) – 4 marks
+Or 3 marks each for features of functional and matrix organisation.
+b. Concept of Departmentation:   6
+Departmentation refers to the process of grouping related activities and functions into
+separate units or departments to facilitate effective management and coordination.
+Bases of Departmentation:
+1. Functional Departmentation – Based on functions like production, marketing
+2. Product Departmentation – Based on product lines
+3. Geographical Departmentation – Based on location
+4. Customer Departmentation – Based on customer groups
+5. Process Departmentation – Based on stages of production, etc.
+Marks Split:
+Meaning of departmentation – 1 mark
+Explanation of bases (any 5 points × 1) – 5 marks
+c. 1. Managerial Barriers   6
+Fear of loss of control – Managers hesitate to share decision-making authority.
+Lack of trust in subordinates – Doubts about employees’ ability to perform tasks
+effectively.
+Page 5 of 8
+--- page 6 ---
+Perfectionism – Managers believe they can perform tasks better themselves.
+Fear of being overshadowed – Insecurity about subordinates outperforming them.
+Poor communication skills – Unclear instructions and expectations.
+Inability to plan and organise – Failure to identify which tasks can be delegated.
+Reluctance to take risks – Fear of mistakes made by subordinates.
+Over-centralisation tendency – Preference for retaining authority at higher levels.
+2. Subordinate Barriers
+Lack of confidence – Fear of failure or criticism.
+Lack of competence – Insufficient skills or knowledge to handle responsibility.
+Fear of accountability – Avoidance of responsibility due to possible blame.
+Lack of motivation – Unwillingness to accept additional duties.
+Dependence on managers – Habit of seeking constant guidance.
+Poor time management – Inability to complete assigned tasks on time.
+3. Organisational Barriers
+Absence of clear authority–responsibility relationships – Confusion over roles.
+Inadequate training systems – Employees not prepared for delegated tasks.
+Poor organisational culture – Lack of openness and trust.
+Ineffective control systems – Either too strict or too weak supervision.
+Lack of clear policies and procedures – Ambiguity in task execution.
+1 Mark X Any 6 Relevant Points = 6 Marks
+4.   Answer the following question. (Attempt Any 2 Questions)   12
+a. McClelland’s Need Theory of motivation:   6
+1. Need for Achievement (nAch) – Desire to excel and achieve standards
+2. Need for Power (nPow) – Desire to influence others
+Page 6 of 8
+--- page 7 ---
+3. Need for Affiliation (nAff) – Desire for friendly relationships
+Marks Split:
+Meaning / overview of theory – 1.5 marks
+Explanation of three needs (1.5 marks × 3) – 4.5 marks
+Or Explanation of all 3 needs - 2 marks each, Total - 6 marks
+b. Role of Budgetary Control:   6
+Sets standards and benchmarks
+Controls costs and expenditures
+Role of MIS:
+Provides real-time performance data
+Supports corrective and strategic decisions
+Together, both techniques ensure effective, timely, and informed control of organisational
+activities.
+Marks Split:
+Role of Budgetary Control – 3 marks
+Role of MIS – 3 marks
+c. Nature / Characteristics of Organisational Change:   6
+1. Continuous process
+2. Dynamic and inevitable
+3. Affects people and systems
+4. May be planned or unplanned
+5. Involves uncertainty and risk
+6. Change in one subsystem creates a chain reaction throughout the organisation.
+Page 7 of 8
+--- page 8 ---
+7. Organisational members must adjust to internal and external environmental
+requirements.
+8. Change leads to new equilibrium within the organisation, etc.
+Marks Split:
+Explanation of nature (any 6 characteristics × 1) – 6 marks
+5.   Read the following case study and answer the following questons.   12
+a. Analyse how the functions of management were applied in SkyWings Airlines’
+transformation strategy. (6 Marks)
+Answer: Identification and analysis of any 3 functions of management from the case - 2
+marks each, Total - 6 marks
+Planning: Fleet modernization and restructuring strategy.
+Organising: New structures and integration of subsidiaries.
+Staffing: Employee training and skill development.
+Directing: Leadership guiding cultural shift.
+Coordinating: Digital systems for interdepartmental alignment.
+Controlling: Performance dashboards and MIS systems.
+b. Examine the role of leadership and change management in overcoming employee
+resistance during organisational restructuring. (4 Marks)
+Answer: Any 4 relevant points - 1 mark each, Total - 4 marks
+Communicating vision clearly.
+Managing resistance through training and support.
+Aligning culture with new standards.
+Motivating employees during transition.
+Ensuring continuous feedback mechanisms, etc.
+c. Suggest two planning or decision-making techniques that could help SkyWings
+Airlines manage global competition effectively. (2 Marks)
+Answer: Any 2 relevant suggestions - 1 mark each, Total - 2 marks
+Suggestive Techniques:
+Scenario Planning.
+Delphi Technique, etc.
+Page 8 of 8
+````
+
 ## 2025-26 · Final-Exam · Sem 1 · Answer key · paper 7fb252cf1ffa
 
 - Departments: Artificial Intelligence, Computer Engineering, Data Science
@@ -506,6 +1104,569 @@ Leadership is not just about achieving goals but how those goals are achieved. E
 leadership ensures that influence is exercised responsibly, balancing organizational success
 with integrity and social good.
 ********** 5 **********
+````
+
+## 2025-26 · Re-Exam · Sem 1 · Answer key · paper ef74d02e9a85
+
+- Departments: Management Studies
+- Programmes: Bachelor of Management Studies - 45614
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Management Studies - 45614/Principles Of Management/ANS_Re-Exam_Principles Of Management(NBPOM101)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 60; exam date: 30 Mar 2026
+- Text: text (10 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Management Studies/B.M.S.
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Principles of Management/Principles Of
+Management
+Time: 08:00 am - 10:00 am (02:00
+Date: 30 Mar 2026
+Hrs.)
+Max Marks: 60
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 10 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+1.   Answer the following:(Attempt Any 2 Questions)   12
+a. Explanation of management hierarchy – 3 marks   6
+Explanation of managerial competencies – 3 marks
+Hierarchical Levels of Management: Top Level Management Responsible for strategic
+decisions and overall organizational direction. Middle Level Management Acts as a link
+between top and lower management and translates plans into action. Lower Level Management
+Directly supervises employees and ensures execution of work.
+Managerial Competencies Required: Conceptual Competency Ability to understand the
+organization as a whole (important at top level). Technical Competency Knowledge of specific
+tasks and processes (important at lower level). Human Competency Ability to work with and
+motivate people (important at all levels). Communication Competency Clear exchange of
+information across levels. Decision-Making Competency Choosing the best alternative in a
+given situation.
+b. Key ideas of Vedic management – 3 marks Explanation of contribution to managerial practices   6
+– 3 marks
+Page 1 of 10
+--- page 2 ---
+Key Ideas of Vedic Management Dharma (Ethics and Duty): Managers should act ethically and
+fulfill their responsibilities. Karma Yoga (Selfless Work): Focus on performing duties sincerely
+without attachment to results. Leadership by Values: Emphasises ethical, moral, and value-
+based leadership. Holistic Development: Balances material, spiritual, and social goals. Self-
+Discipline and Control: Personal mastery and inner management are key. Team Harmony:
+Cooperation, collaboration, and respect for all members. Contribution to Managerial Practices
+Encourages ethical decision-making in business. Motivates employees through purpose and
+values rather than only monetary rewards. Develops transformational and value-based
+leadership. Promotes sustainable and responsible management practices. Strengthens
+organizational culture with respect, harmony, and discipline. Example: Indian companies like
+Tata Group incorporate ethics, social responsibility, and employee welfare in line with Vedic
+principles.
+c. Explanation of any 6 techniques – 1 mark for each technique   6
+Techniques of Scientific Management Time Study – Measuring the time taken for each task
+and setting standards. Example: A factory determines the time needed to assemble a
+component. Motion Study – Analysing motions of workers to eliminate unnecessary
+movements. Example: Redesigning the way a worker lifts materials to reduce fatigue.
+Standardisation of Work Methods – Establishing the best method for performing a task.
+Example: Standard operating procedures in assembly lines. Scientific Selection and Training of
+Workers – Selecting workers based on ability and training them for specific tasks. Example:
+Hiring operators based on skills and providing specialized training. Differential Piece-Rate
+System – Rewarding workers based on output to motivate higher productivity. Example:
+Paying higher wages to employees who produce more units. Functional Foremanship –
+Division of management work among multiple supervisors for specialization.
+2.   Answer the following:(Attempt Any 2 Questions)   12
+a. Planning is the foremost, fundamental and important function of management. It is a process of   6
+setting goals and choosing the means to achieve these goals. Planning is the starting point of
+management process and all other functions of management are related to and dependent on
+planning function. It involves selecting missions and objectives and the actions to achieve
+them. 1. Planning is Goal-oriented: Planning seeks to achieve certain objectives and all plans
+are linked with the goals of the organization. Planning will become a useless exercise if it does
+not contribute in some positive way to the accomplishment of desired objectives. Planning
+identifies the actions that would lead to the desired results quickly and economically. Thus,
+planning is purposeful. In fact planning cannot be thought without objectives. 2. Planning is
+Future-oriented: Planning is essentially looking ahead and preparing for the future. It is based
+on the proverb "look before you leap." Planning seeks to manage future events to the best
+advantage of the organization. It, therefore, becomes essential to anticipate or predict the
+future. Scientific anticipation of future events is called forecasting which serves as the basis of
+Page 2 of 10
+--- page 3 ---
+planning. For example, a manufacturer prepares next year's production plan after forecasting
+the demand. Therefore, it is said that planning is thinking before doing. 3. Planning is an
+Intellectual Process: Planning is a mental exercise involving creative thinking and imagination.
+A manager can prepare sound plans only when he has sound judgement, foresight and vision.
+Planning is not mere guesswork but involves logical and systematic thinking. It requires a
+conscious determining of courses of action on the basis of goals, facts and considered
+estimates. Both creativity and analysis are required in identifying opportunities and constraints.
+4. Planning is a Primary Function: Planning serves as the basis for all other functions of
+management. It precedes organizing, staffing, directing and controlling. All these functions are
+performed within the framework of plans. By specifying the objectives and the ways of
+achieving them, planning provides the foundation for managerial actions. Thus, planning is the
+most basic function. 5. Planning is Pervasive: Planning is required in all types of organizations
+and at all levels of management. Every department prepares plans. However, the scope of
+planning may differ from one level to another. For example, top management plans for the
+organization as a whole. Middle management prepares departmental plans. At the lowest level,
+supervisors formulate day-to-day operational plans. 6. Planning is a Continuous Process:
+Planning is an ongoing process. Plans are formulated on the basis of forecasts. When
+assumptions about the future do not come true, the original plan must be revised in the light of
+changing conditions. For example, suppose a firm has planned to sell 5000 motor cycles during
+2002-2003 in a particular area. There is a flood in that area due to which the original plan
+cannot be executed. The firm will have to change its plan and prepare itself to achieve the sales
+target in some other area. Thus, planning is a never-ending exercise. 7. Planning Involves
+Choice: Planning is essentially the process of choosing from among alternative courses of
+action. If there is only one need for planning as there is no choice. The need for planning arises
+because there exist alternative goals as well as different ways of reaching the goals. For
+example, a person possible alternative, there is no who wants to manufacture and sell ball pens
+may either construct his own either construct or he may take an existing factory on rent. In
+order to make the right choice, it is necessary to evaluate and compare the two alternatives.
+Thus, planning is essentially decision-making. 8. Planning Aims at Efficiency: Plans are
+prepared to achieve the objectives in the best way. Sound planning leads to accomplishment of
+desired objectives at the minimum possible cost. It helps in optimization of resources. A plan is
+worthless if it is not worth the cost incurred on it. Unplanned actions are likely to result in
+undesirable consequences. Planning is irrelevant if it does not contribute to the efficiency of
+operations. Any 6 points- 6 marks
+b. Management by Exception (MBE) is a management approach that focuses on addressing   6
+deviations from established norms or standards rather than managing routine activities. It is
+based on the principle that managers should only intervene when performance significantly
+deviates from expectations. This approach allows for more efficient management by
+concentrating attention on significant issues and exceptions rather than routine operations.
+Page 3 of 10
+--- page 4 ---
+Concept of Management by Exception (MBE) • Principle of Focus: MBE operates on the
+principle that managers should focus on exceptional cases—those situations where
+performance deviates from the norm or established standards. Routine activities and operations
+are managed by standard procedures and do not require constant oversight. • Exception
+Reporting: In MBE, performance is regularly monitored against predefined standards or
+benchmarks. When actual performance deviates beyond acceptable thresholds, exception
+reports are generated. These reports highlight significant deviations that need managerial
+attention. • Delegation of Routine Tasks: Routine and operational tasks are delegated to lower-
+level managers or employees who follow established procedures. This allows top management
+to concentrate on strategic decision-making and addressing exceptional cases. • Decision-
+Making: Managers use the information from exception reports to make informed decisions
+about corrective actions. The focus is on identifying the causes of deviations and implementing
+solutions to bring performance back in line with expectations. Benefits of Management by
+Exception (MBE) • Efficient Use of Time and Resources: MBE helps managers use their time
+and resources more efficiently by focusing only on significant deviations from standards. This
+prevents the need for micromanagement and allows managers to devote their attention to
+critical issues. • Improved Decision-Making: By highlighting significant exceptions, MBE
+provides managers with relevant information needed for decision-making. This allows for
+timely and informed actions to address problems and improve performance. • Enhanced Focus
+on Strategic Issues: With routine operations managed by lower levels, top management can
+focus on strategic issues and long-term goals. This alignment helps ensure that managerial
+efforts are directed toward areas that have a significant impact on organizational success. •
+Increased Accountability: MBE encourages accountability at all levels by setting clear
+performance standards and expectations. Employees and lower-level managers are responsible
+for routine tasks and performance within set standards, while exceptions are managed at higher
+levels. • Motivation and Engagement: Employees are often motivated by the clear delegation of
+routine tasks and the autonomy to manage their day-to-day activities. Knowing that their
+managers will focus on exceptions rather than routine work can enhance job satisfaction and
+engagement. • Flexibility and Responsiveness: MBE allows organizations to be more flexible
+and responsive to changes. By addressing deviations as they occur, organizations can adapt
+quickly to new challenges and opportunities, ensuring that performance remains aligned with
+organizational goals. • Cost Control: By focusing on significant deviations, MBE helps in
+controlling costs associated with inefficiencies and deviations. It ensures that corrective actions
+are targeted where they are needed most, preventing unnecessary expenditure. Management by
+Exception (MBE) is a valuable approach that enhances managerial efficiency by concentrating
+on significant deviations from established standards. By focusing on exceptions rather than
+routine activities, MBE allows for better decision-making, improved use of time and resources,
+and increased accountability. Its benefits include enhanced strategic focus, motivation,
+flexibility, and cost control, making it an effective management tool for organizations aiming to
+optimize performance and address critical issues effectively. Any 6 points- 6 marks
+Page 4 of 10
+--- page 5 ---
+c. Quantitative techniques are methods used to analyze data and make decisions based on   6
+numbers, statistics, and mathematical models. These techniques help provide objective, data-
+driven insights, which improve the accuracy and effectiveness of decision-making processes.
+They are used extensively in business, economics, management, and other fields where data is
+available and must be interpreted. 1. Linear Programming (LP): Linear programming is a
+mathematical technique used to find the best outcome (such as maximum profit or minimum
+cost) in a given situation, subject to constraints (like limited resources). It helps businesses
+allocate resources efficiently. Example: A company producing two products can use LP to
+determine how much of each product to produce, given resource constraints, to maximize
+profits. 2. Marginal Cost Analysis: Marginal cost refers to the additional cost incurred when
+producing one more unit of a product. Businesses use marginal cost analysis to make decisions
+about scaling production. By comparing marginal cost to marginal revenue, companies
+determine if producing additional units will be profitable. Example: A factory producing
+smartphones may calculate the marginal cost to decide whether it’s worth increasing
+production or stopping once it reaches a certain output level. 3. Cost-Benefit Analysis (CBA):
+Cost-benefit analysis helps decision-makers evaluate whether the benefits of a particular
+decision outweigh the costs. By comparing the total expected costs and benefits, it determines
+if an action is worthwhile from a financial standpoint. Example: Before launching a new
+product, a company might use CBA to assess whether the potential revenue from the product
+justifies the production and marketing costs. 4. Decision Trees: Decision trees lay out various
+courses of action and their possible outcomes in a tree structure. This helps decision-makers
+visualize different paths and the consequences associated with each choice. Example: A
+company deciding whether to invest in a new project can use a decision tree to evaluate
+different scenarios such as success, failure, or market competition. 5. Game Theory: Game
+theory analyzes situations where the outcome of one’s decision depends on the actions of
+others. It is useful in competitive environments, helping companies anticipate competitors'
+actions and decide on their strategies accordingly. Example: In pricing strategies, businesses
+use game theory to predict competitors' reactions to a price cut, allowing them to make more
+informed decisions. 6. Forecasting Techniques: Forecasting uses historical data to predict
+future events or trends. Quantitative forecasting methods include time-series analysis, moving
+averages, and regression analysis, which help in demand forecasting, sales projections, and
+financial planning. Example: A retail business can forecast future demand for products based
+on past sales data, helping manage inventory levels effectively. 7. Queuing Theory: Queuing
+theory is used to manage waiting lines or service queues. It helps organizations minimize
+waiting times and optimize resource allocation by predicting customer flow and service
+demand. Example: A hospital can use queuing theory to determine how many doctors are
+needed at peak times to ensure minimal waiting time for patients. 8. Simulation: Simulation
+models real-world scenarios to predict outcomes without performing real-world experiments. It
+allows companies to test different conditions and variables, such as changes in demand or
+production processes, to optimize decisions. Example: A car manufacturer can simulate
+Page 5 of 10
+--- page 6 ---
+production line processes to find inefficiencies and optimize workflow before implementing
+changes. 9. Inventory Control Models: Inventory control models help businesses manage stock
+levels efficiently. They determine the optimal amount of inventory to hold, reorder points, and
+economic order quantities, aiming to minimize costs associated with holding inventory and
+ordering. Example: A retailer uses the Economic Order Quantity (EOQ) model to determine
+the ideal amount of stock to order to minimize holding and ordering costs. 10. Operations
+Research (OR): Operations research uses mathematical models, statistics, and algorithms to
+solve complex decision-making problems. OR is widely used in logistics, production
+scheduling, and supply chain management to optimize processes and resource allocation.
+Example: A delivery company might use OR to determine the most efficient routes for
+delivering packages, minimizing fuel consumption and delivery times. 11. Network Analysis –
+PERT and CPM: Network analysis techniques like Program Evaluation Review Technique
+(PERT) and Critical Path Method (CPM) are used in project management to plan, schedule,
+and coordinate tasks. PERT focuses on estimating the time needed to complete each task, while
+CPM identifies the critical path—the sequence of tasks that directly impact the project’s
+completion time. Example: A construction company can use PERT to estimate how long each
+phase of a project will take and use CPM to ensure they finish the project on time by focusing
+on the critical path tasks. 12. Break-Even Analysis: Break-even analysis helps businesses
+determine the point at which total revenues equal total costs, meaning there is no profit or loss.
+It is particularly useful for pricing decisions and determining minimum sales targets. Example:
+A startup uses break-even analysis to determine how many units of their product must be sold
+to cover production costs before making a profit. Any 6 points- 6 marks
+3.   Answer the following:(Attempt Any 2 Questions)   12
+a.   6
+Meaning of Line and Staff Structure (2 marks): A line and staff structure combines line
+authority (direct command and responsibility) with staff authority (advisory and support
+roles) to assist line managers in decision-making.
+Advantages (2 marks):
+1. Specialised advice improves the quality of decisions.
+2. Relieves line managers of routine and technical tasks.
+Disadvantages (2 marks):
+1. Conflict may arise between line and staff personnel.
+2. Staff advice may be ignored or resisted by line managers.
+Page 6 of 10
+--- page 7 ---
+b. Identification & Meaning (2 marks): The organisation follows a Matrix Organisational   6
+Structure. In this structure, employees work under a dual reporting system, reporting
+simultaneously to a functional manager and a project or product manager to achieve better
+coordination across functions and projects.
+Advantages (2 marks):
+1. Enables efficient utilisation of specialised resources across multiple projects.
+2. Improves coordination and flexibility in handling complex tasks.
+Limitations (2 marks):
+1. Dual authority can lead to confusion and role conflict.
+2. Decision-making may be delayed due to overlapping responsibilities.
+c. Meaning of Delegation (1 mark):   6
+Delegation is the process by which a manager assigns responsibility, grants the necessary
+authority, and creates accountability in subordinates to perform specific tasks effectively.
+Barriers to Delegation – Superior-related (5 marks):
+1. Fear of loss of control: Managers feel that delegating authority may reduce their control
+over work and outcomes.
+2. Lack of confidence in subordinates: Doubts about employees’ competence or judgment
+discourage delegation.
+3. Insecurity and ego issues: Managers fear that capable subordinates may outperform them
+or threaten their position.
+4. Desire to retain power: Reluctance to share authority, even for routine decisions, leads to
+over-centralisation.
+5. Perfectionism and belief in ‘doing it oneself’: Managers assume they can perform tasks
+better and faster than others.
+4.   Answer the following:(Attempt Any 2 Questions)   12
+a. Each point 1 mark (6 points 6 marks)   6
+Page 7 of 10
+--- page 8 ---
+Leadership sets the vision and direction for the team. Motivation energizes employees to work
+towards goals willingly. Communication ensures instructions, feedback, and information flow
+clearly and efficiently. Interconnection: Leadership uses communication to influence and guide
+employees. Motivation is strengthened through effective communication and recognition.
+Feedback from communication helps leaders adjust strategies and motivate better. Example: A
+project manager communicates project goals (communication), inspires the team to excel
+(leadership), and rewards achievements (motivation) to meet deadlines and quality standards.
+Impact: Harmonized leadership, motivation, and communication improve efficiency, employee
+engagement, and goal achievement.
+b. Concept of Change Management (1 mark)   6
+Change management refers to a systematic and planned approach adopted by organisations to
+prepare, support, and guide employees through changes in processes, technology, structure, or
+culture in order to achieve organisational goals with minimum resistance and disruption.
+Characteristics of Change Management (5 Marks)
+1. Planned and systematic process:
+Change management follows a structured approach involving planning, implementation,
+and review to ensure smooth transition.
+2. People-oriented:
+It focuses on managing employee attitudes, behaviour, and emotions, recognising that
+acceptance by people is crucial for successful change.
+3. Continuous and dynamic:
+In modern organisations, change is ongoing due to technological advancements,
+competition, and environmental uncertainty.
+4. Goal-oriented:
+Change initiatives are aligned with organisational objectives such as improved efficiency,
+productivity, and competitiveness.
+5. Requires effective communication and leadership:
+Clear communication and strong leadership help reduce resistance, build trust, and guide
+employees through the change process.
+c. Identification & Explanation of Theory (2 marks):   6
+Page 8 of 10
+--- page 9 ---
+McClelland’s Need Theory states that individual motivation is influenced by three dominant
+learned needs- Need for Achievement (nAch), Need for Affiliation (nAff), and Need for
+Power (nPow)- which vary among employees and shape their work behaviour.
+Application to the Situation (3 marks):
+Employees motivated by challenging targets (high nAch) should be assigned demanding
+sales goals, performance-based incentives, and individual responsibility for outcomes.
+Employees who value teamwork (high nAff) can be motivated through group-based
+targets, collaborative selling, and supportive interpersonal relationships.
+Employees seeking opportunities to influence decisions (high nPow) should be given
+leadership roles, authority over key accounts, or involvement in strategic sales planning.
+Justification (1 mark):
+By aligning tasks, responsibilities, and rewards with employees’ dominant motivational needs,
+managers can enhance motivation, job satisfaction, and overall sales performance.
+5. Read 1. the 1. case Blake and and answer Mouton’s the following Managerial questions:. Grid evaluates leadership styles based on concern for   12
+production and concern for people.
+Analysis of Managers :
+Manager A – Authority–Compliance (9,1) (1.5marks):
+Shows high concern for production and low concern for people. Strong focus on
+targets, efficiency, and deadlines, with little attention to employee needs, leading to
+pressure and stress.
+Manager B – Country Club Management (1,9) (1.5 marks):
+Demonstrates high concern for people but low concern for production. Emphasises
+harmony and satisfaction while avoiding strict standards, resulting in declining
+productivity.
+Manager C – Middle-of-the-Road Management (5,5) (1.5 marks):
+Attempts a balance between task and people concerns but avoids firm decisions. Moderate
+concern for both leads to unclear expectations and average performance.
+Manager D – Team Management (9,9) (1.5 marks):
+Displays high concern for both people and production. Encourages participation, aligns
+goals with performance, and supports employee development, leading to clarity and
+commitment.
+2.   2. Identification of Most Effective Style (1 mark):
+The Team Management style (9,9) is the most effective for Flipkart.
+Evaluation and Reasoning (5 marks):
+Page 9 of 10
+--- page 10 ---
+Balances performance and people needs (1.5 marks):
+High concern for production ensures efficiency, while high concern for people improves
+morale and engagement.
+Addresses varied departmental challenges (1.5 marks):
+Helps manage work pressure through support, corrects lack of performance focus with
+clear goals, and reduces confusion through consistent leadership.
+Encourages participation and ownership (1.5 marks):
+Employee involvement increases commitment and accountability, critical in a fast-
+changing digital environment.
+Supports continuous skill development (1.5 marks):
+Aligns well with Flipkart’s emphasis on digital tools and learning, ensuring adaptability
+and sustained productivity.
+In a technology-driven, competitive e-commerce environment, Team Management (9,9) best
+ensures high morale, clarity, and long-term performance, making it the most suitable
+leadership style for Flipkart.
+Page 10 of 10
+````
+
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper f31046ffe699
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce - 45611
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Re-Exam/Bachelor of Commerce - 45611/Principles Of Management/ANS_Re-Exam_Principles Of Management(NAPOM152)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 23 Jun 2026
+- Text: text (8 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.B.I./B.Com
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Principles Of Management
+Date: 23 Jun 2026   Time: 10:30 am - 12:30 pm (02:00 Hrs.)
+Max Marks: 60
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 8 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. All questions are compulsory
+5. Question 1 to Question 4 have internal choice wherein, you can answer two of the given three options.
+6. Question 5 comprises a Case Study accompanied with questions to be answered in the context of the given
+case.
+1.   Answer the following question. (Attempt Any 2 Questions)   12
+a.   6
+Meaning of Management - 1 mark
+Meaning: Management is the process of effective utilisation of human and material
+resources to achieve enterprise objectives. Management is a distinct process consisting of
+planning, organising, staffing, directing, and controlling, performed to determine and
+accomplish stated objectives with the effective and efficient utilisation of human beings
+and other resources.
+Brief explanation whether management satisfies the criteria of a profession any 5 relevant
+points 1 mark each - 5 marks.
+Criteria or essential requirements for a profession are:
+Specialised body of knowledge.
+Educational requirements and training.
+Page 1 of 8
+--- page 2 ---
+Representative or professional body.
+Code of conduct for self-regulation.
+Social status.
+b.   6
+Brief explanation about how work processes of an organisation can improve using any 3
+principles from the principles of scientific management given by F.W.Taylor for 2 marks each,
+Total - 6 marks
+Scientific Management Principles by F.W.Taylor:
+c.   6
+Brief explanation of the 3 principles of vedic management supporting ethical and sustainable
+management practices 2 marks each, Total - 6 marks.
+Key principles of Vedic Management:
+Page 2 of 8
+--- page 3 ---
+"Sattva“ - the balance between the material and spiritual aspects of life.
+"Dharma" - the moral and ethical principles that guide human behaviour.
+"Karma" - all actions have consequences
+2.   Answer the following question. (Attempt Any 2 Questions)   12
+a.   6
+Any six benefits of Planning: 1 mark each
+Focus attention on objectives
+Ensures economical operation
+Reduces uncertainty
+Facilitates control
+Encourages innovation and creativity
+Improves motivation
+Improves competitive strength
+Achieves better coordination
+(Any other relevant point can be considered)
+b.   6
+Meaning of Coordination: (1 Mark)
+Coordination integrates the efforts of different departments and individuals. It is not an
+independent function but is achieved while performing all managerial activities.
+Coordination through Managerial Functions: (5 Marks)
+Coordination through Planning
+Coordination through Organising
+Coordination through Staffing
+Page 3 of 8
+--- page 4 ---
+Coordination through Directing
+Coordination through Controlling
+c.   6
+Nominal Group Technique: 03 Marks
+Whereas brainstorming is used primarily to generate alternatives, this technique may be
+used in other phases of decision-making, such as identification of the problem and of
+appropriate criteria for evaluating alternatives.This technique is used when a high degree
+of innovation and idea generation is required. A nominal group exists in name only as the
+members have minimal interaction before producing a decision. This technique is highly
+structured.
+Delphi Technique: 03 Marks
+This technique is used for a systematic probing of the minds of experts who possess the
+necessary expertise in the pertinent field or area. Under this method, a panel of experts
+related to a particular problem area is queried. Instead of bringing these experts together
+face-to-face to discuss a problem, a coordinator keeps them from one another. This is
+done to prevent experts from being influenced by each other and to eliminate the
+possibility of the emergence of a band-wagon mentality.
+3.   Answer the following question. (Attempt Any 2 Questions)   12
+a. Steps in the Process of Organising:   6
+1. Determination of Objectives
+2. Identification of activities – Determining tasks required to achieve objectives
+3. Grouping of activities – Departmentalisation based on functions or products
+4. Assignment of duties – Allocating work to individuals or groups
+5. Delegation of authority – Granting authority necessary to perform duties
+6. Establishing reporting relationships – Defining hierarchy and responsibility
+Marks Split:
+Explanation of all steps – 6 marks
+Page 4 of 8
+--- page 5 ---
+b. Developing an Organisation Structure involves the following steps:   6
+1. Identification of activities
+2. Grouping of activities
+3. Assignment of duties
+4. Delegation of authority
+5. Establishing reporting relationships
+Marks Split:
+Introduction to organisational structure – 1 mark
+Explanation of steps (any 4–5 steps × 1) – 5 marks
+OR
+Process of Developing Organisational Structure:
+1. Activities Analysis
+2. Decision Analysis
+3. Relations Analysis
+Each step - 2 marks, Total - 6 marks
+c. A balance between centralisation and decentralisation ensures that strategic control   6
+remains with top management, while operational efficiency is achieved through delegated
+authority.
+Reasons:
+1. Avoids over-burdening top management
+2. Improves speed and quality of decisions
+3. Encourages managerial development
+4. Maintains organisational control, etc
+Marks Split:
+Explanation of statement – 2 marks
+Reasons / justification (any 4 points × 1) – 4 marks
+Page 5 of 8
+--- page 6 ---
+4.   Answer the following question. (Attempt Any 2 Questions)   12
+a. Motivation refers to the internal and external forces that stimulate individuals to act and   6
+sustain their efforts towards achieving organisational and personal goals.
+Benefits of Motivation
+Improves performance – Encourages employees to work efficiently and effectively.
+Increases productivity – Higher output with better utilisation of resources.
+Enhances job satisfaction – Employees feel valued and fulfilled.
+Reduces absenteeism and turnover – Motivated employees are more committed.
+Promotes organisational loyalty – Builds strong employer–employee relationships.
+Encourages initiative and creativity – Employees willingly contribute new ideas.
+Improves morale – Creates a positive and energetic work environment.
+Facilitates achievement of organisational goals – Collective effort improves results, etc.
+Marks Split:
+Definition / meaning – 2 marks
+Explanation of Benefits (any 3–4 points × 1) – 4 marks
+Or Brief explanation of any 6 relevant benefits - 1 mark each, Total - 6 marks
+b. Characteristics of Controlling:   6
+Pervasive Function
+Review of Past Event
+Forward Looking
+Action-Oriented
+Continuous Process
+Dynamic Process, etc.
+Page 6 of 8
+--- page 7 ---
+Marks Split:
+Brief explanation of any 6 relevant characteristics -1 mark each, Total - 6 marks
+c. Importance of Managing Resistance:   6
+Ensures successful implementation of change
+Improves employee acceptance and cooperation
+Measures to Overcome Resistance:
+Effective communication
+Employee participation
+Training and support
+Negotiation and incentives, etc.
+Marks Split:
+Importance of managing resistance – 2 marks
+Measures to overcome resistance (any 4 points × 1) – 6 marks
+Or explanation of any 4 measures - 1.5 marks each, Total - 6 marks
+5.   Read the following case study and answer the following questons.   12
+a. Analyse the leadership style adopted by Mr. Suresh and its impact on strategy
+execution. (4 Marks)
+Answer: Identifying leadership style - 1 mark and impact on strategy execution - 3
+marks, Total - 4 marks
+Leadership Style - Country Club /People Oriented
+Impact on Strategy Execution:
+Weak delegation and unclear accountability.
+High initial morale but low discipline.
+Missed deadlines and productivity issues.
+Lack of clarity in project ownership, etc.
+b. Apply the concept of delegation to suggest how operational effectiveness can be
+improved in this organization. (4 Marks)
+Page 7 of 8
+--- page 8 ---
+Answer: Any 4 relevant points - 1 mark each, Total - 4 marks
+Clearly define roles and responsibilities.
+Assign project ownership.
+Set measurable performance standards.
+Implement periodic monitoring and feedback.
+Balance support with accountability, etc.
+c. Evaluate whether a purely people-oriented leadership style without clear control
+mechanisms is sustainable in a deadline-driven industry. Justify your answer. (4 Marks)
+Answer: Any 4 relevant points - 1 mark each, Total - 4 marks
+Not sustainable in a deadline-driven industry.
+Lack of control affects client satisfaction.
+Reduces operational efficiency.
+Needs balance between people-focus and task-focus, etc.
+Page 8 of 8
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · Answer key · paper edd65f3a8fb6

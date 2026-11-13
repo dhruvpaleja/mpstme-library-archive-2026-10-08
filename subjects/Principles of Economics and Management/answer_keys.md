@@ -2,6 +2,255 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 32b5fdf65d89
+
+- Departments: Information Technology
+- Programmes: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY) - 7001
+- Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY) - 7001/Principles of Economics and Management/ANS_Final-Exam_Principles of Economics and Management(702TG0C015)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 06 May 2026
+- Text: text (7 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CSE - CS)/B. Tech
+(DS)/B. Tech (EXTC)/B. Tech Intg. (IT)/B. Tech (IT)/B. Tech (MXTC)
+Year: I / II / III/Semester II/Semester IV/Semester VI(Exam Year: 2025-2026)
+Subject: Principles of Economics and Management
+Date: 06 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 7 pages.
+2. Question No. 1 is compulsory.
+3. Out of the remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume suitable data if necessary.
+Answers for:
+Q1. Brief Notes
+(a) PPC (Production Possibility Curve)
+• Represents maximum combinations of two goods using given resources and technology.
+• Downward sloping due to scarcity of resources.
+• Concave to origin due to increasing opportunity cost.
+•   Points on curve show efficient use, inside show inefficiency, outside are unattainable.
+(b) Average Cost and Marginal Cost
+• AC = TC / Q, MC = ΔTC / ΔQ
+• MC intersects AC at its minimum point.
+• When MC < AC, AC falls; when MC > AC, AC rises.
+• Both curves are typically U-shaped due to law of returns.
+********** 1 **********
+--- page 2 ---
+(c) LPG (Liberalization, Privatization, Globalization)
+• Introduced in 1991 to reform Indian economy.
+•   Liberalization: removal of government restrictions.
+•   Privatization: increased role of private sector.
+•   Globalization: integration with global markets.
+•   Objective: improve efficiency, growth, and competitiveness.
+(d) Levels of Management
+• Top Level: Policy making and strategic decisions.
+• Middle Level: Implementation of plans and coordination.
+• Lower Level: Supervision of day-to-day operations.
+All the below answers headings should be explained in detail by the student considering its 10 mark
+Q2
+(a) Isoquant and Producer Equilibrium
+• Isoquant shows combinations of inputs yielding same output.
+• Downward sloping and convex due to diminishing MRTS.
+• Producer equilibrium occurs where isoquant is tangent to isocost line.
+•   Condition: MRTS = ratio of input prices.
+• At this M point in diagram, producer minimizes cost for given output.
+(b) Cost Types & MC-AC Relationship
+Fixed & Variable Cost
+Explicit & Implicit Cost
+Economic & Accounting Cost
+MC, AC, TC
+All the above should be explained in detail by the student.
+• Fixed cost remains constant irrespective of output.
+********** 2 **********
+--- page 3 ---
+• Variable cost changes with output.
+•   Total cost = Fixed cost + Variable cost.
+• MC and AC are U-shaped.
+• MC intersects AC at its minimum point.
+•   Relationship indicates cost efficiency and production behavior.
+Q3
+(a) Perfect vs Imperfect Markets
+• Perfect Market:
+Large number of firms, homogeneous product, price taker, free entry and exit.
+• Imperfect Market:
+Fewer firms, product differentiation, price maker, barriers to entry.
+Types of Imperfect Markets:
+• Monopoly (single seller)
+• Monopolistic competition (many sellers with differentiated products)
+• Oligopoly (few dominant firms)
+• Duopoly (two sellers)
+All markets should be explained with example
+(b) Need for LPG Reforms in India
+• Economic crisis in 1991: low foreign exchange reserves, high fiscal deficit.
+•   Inefficiency of public sector and license raj.
+• Need to increase productivity and global competitiveness.
+Reforms aimed at:
+• Encouraging private sector
+•   Attracting foreign investment
+• Boosting exports
+• Improving efficiency and growth
+Q4
+(a) Reasons for Failure of Planning
+1. Inaccurate forecasting
+2. Lack of flexibility
+3. Poor communication
+********** 3 **********
+--- page 4 ---
+4. External environmental uncertainties
+5. Lack of coordination and commitment
+Example: Sudden economic policy changes disrupting business plans.
+(b) Taylor vs Fayol vs Mayo
+Basis   F.W. Taylor   Henri Fayol   Elton Mayo
+Approach   Scientific Management   Administrative Theory   Human Relations Approach
+Focus   Shop-floor efficiency   Overall management process Human behavior at workplace
+Level of
+Lower level (workers)   Top and middle level   All levels
+Management
+Improve productivity   Functions of management   Importance of social and
+Key Idea
+through scientific methods (planning, organizing, etc.)   psychological factors
+Economic man (motivated   Social man (motivated by
+View of Worker   Organizational resource
+by money)   relationships)
+Time study, motion study,
+Techniques   14 principles of management Hawthorne experiments
+standardization
+Motivation   Monetary incentives   Discipline and order   Recognition, belongingness
+Improved understanding of
+Increased efficiency and   Structured management
+Contribution   employee morale and
+productivity   theory
+motivation
+Q5
+(a) Line vs Staff & Conflict Resolution
+• Line authority: Direct responsibility for achieving objectives.
+•   Staff authority: Advisory role providing expertise.
+Conflict arises due to:
+•   Differences in authority and responsibility
+• Lack of understanding of each other's roles
+Solutions:
+•   Clearly define roles
+• Improve communication
+• Encourage collaboration
+• Conduct joint decision-making
+(b) Improving Team Effectiveness
+•   Establish clear goals and responsibilities
+• Improve communication channels
+• Conduct regular meetings
+• Promote team spirit over departmental interests
+• Ensure leadership coordination
+•   Introduce accountability mechanisms
+********** 4 **********
+--- page 5 ---
+Q6
+(a)
+Consumer equilibrium is the state where a rational consumer maximizes total utility (satisfaction) from
+purchasing goods, given their limited income and prevailing market prices. At this point, the last unit of
+money spent provides equal marginal utility across all products, or the marginal utility of a good equals
+its price, resulting in no incentive to change consumption
+A movement along the demand curve is caused solely by a change in a good's price, resulting in a
+contraction or expansion of quantity demanded. Conversely, a shift in the entire demand curve,
+caused by non-price factors like income or preferences, represents a change in demand at every
+price level.
+Movement Along the Demand Curve (Change in Quantity Demanded) – Diagram a
+• Cause: A change in the price of the product itself.
+•   Effect: A move from one point to another on the same curve.
+• Upward Movement (Contraction): Price increases, resulting in a decrease in quantity
+demanded.
+• Downward Movement (Expansion): Price decreases, resulting in an increase in quantity
+demanded. [1,
+Shift in the Demand Curve (Change in Demand) - Diagram b
+• Cause: Changes in factors other than the product's price, such as income, tastes, population, or
+prices of related goods.
+•   Effect: The entire curve moves to the left or right.
+• Rightward Shift (Increase in Demand): Caused by factors like increased income, higher
+popularity, or higher prices of substitutes.
+• Leftward Shift (Decrease in Demand): Caused by factors like reduced income, lower
+popularity, or lower prices of substitutes.
+Key Determinants Causing Shifts
+• Income: Higher income increases demand for normal goods, shifting the curve right.
+• Prices of Related Goods: If the price of a substitute (e.g., tea) increases, demand for the primary
+good (e.g., coffee) increases. If the price of a complement (e.g., petrol) increases, demand for the
+primary good (e.g., cars) decreases.
+• Tastes/Preferences: Popularity increases boost demand.
+• Expectations: Expecting higher future prices can increase current demand.
+********** 5 **********
+--- page 6 ---
+(b) Types of Elasticity of Demand
+1. Price Elasticity: responsiveness to price change.
+= % change in quantity demanded / % change in price
+2. Income Elasticity: responsiveness to income change.
+= % change in quantity demanded / % change in income
+3. Cross Elasticity: responsiveness to price of related goods.
+= % change in quantity demanded of commodity A / % change in price of commodity B
+Q7
+(a) Herzberg’s theory
+Herzberg classified factors into:
+• Hygiene factors: salary, working conditions, policies, supervision, and job security.
+• Motivators: achievement, recognition, responsibility, advancement, meaningful work.
+Case analysis
+The Company has provided hygiene factors such as good salary and working conditions. These may
+reduce dissatisfaction, but they do not create strong motivation.
+Employees are leaving because motivator factors are weak:
+• Work is Monotonous,
+• Recognition is Low,
+• Growth Opportunities are Limited,
+•   Responsibility may be Low.
+Practical steps
+1. Enrich jobs by making work more meaningful.
+2. Recognise good performance.
+3. Give employees more responsibility.
+4. Create career growth and promotion paths.
+5. Encourage achievement-oriented work design.
+6. Involve employees in problem-solving.
+********** 6 **********
+--- page 7 ---
+Important distinction
+Hygiene factors prevent dissatisfaction; motivators create satisfaction and commitment.
+Conclusion
+The organisation must go beyond salary and facilities. To improve motivation, it should focus on
+recognition, responsibility, achievement, and career development.
+(b) Inventory & Coordination Improvement
+Problems in the case
+• Excess inventory increases carrying cost.
+• Poor coordination leads to shortages and emergency buying.
+• Working capital gets blocked.
+•   Functional departments are operating in isolation.
+Inventory control meaning
+Inventory control means maintaining optimum stock levels so that materials are available when needed
+without excessive investment.
+Inventory control techniques
+1. Set minimum, maximum, and reorder levels.
+2. Use EOQ-type thinking for economic ordering.
+3. Classify inventory by importance.
+4. Monitor fast-moving and slow-moving items.
+5. Maintain proper stock records.
+6. Avoid overstocking and understocking.
+Need for functional coordination
+• Marketing should share demand forecasts and promotion schedules.
+• Finance should monitor cost, budget, and working capital.
+• Operations/HR should ensure manpower and process readiness for expected demand.
+Benefits of coordination
+•   Better Planning,
+• Lower Carrying Cost,
+• Fewer Stockouts,
+• Smoother Production,
+• Improved Profitability,
+• Stronger Customer Service.
+Conclusion
+Inventory control alone is not enough. Effective coordination among marketing, finance, and
+operations is essential for cost control and operational efficiency.
+********** 7 **********
+````
+
 ## 2025-26 · Final-Exam · Sem 2 · Answer key · paper a621e109a68d
 
 - Departments: AI and Data Science
@@ -6198,6 +6447,216 @@ Effective control thus drives   efficiency, improves customer
 satisfaction, and supports IndiGo’s competitive edge in the aviation
 sector.
 ********** 14 **********
+````
+
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper f4bd3e7cf910
+
+- Departments: Mechatronics
+- Programmes: BACHELOR OF TECHNOLOGY (MECHATRONICS ENGINEERING) - 7004
+- Source: `00_Original_Downloads/2025/Semester II/75268__Re-Exam.zip :: BACHELOR OF TECHNOLOGY (MECHATRONICS ENGINEERING) - 7004/Principles of Economics and Management/ANS_Re-Exam_Principles of Economics and Management(702TG0C015)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Jul 2026
+- Text: text (7 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CSE - CS)/B. Tech
+(DS)/B. Tech (EXTC)/B. Tech Intg. (IT)/B. Tech (IT)/B. Tech (MXTC)
+Year: I / II / III/Sem 2 Re-exam/Sem 4 Re-exam/Sem 6 Re-exam(Exam Year: 2025-2026)
+Subject: Principles of Economics and Management
+Date: 02 Jul 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 7 pages.
+2. Question No. 1 is compulsory.
+3. Out of the remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume suitable data if necessary.
+Answers
+Q1 (5 marks each)
+a) Types of Elasticity of Demand
+•   Price Elasticity: Measures responsiveness of quantity demanded to price change.
+• Income Elasticity: Change in demand due to change in consumer income.
+• Cross Elasticity: Demand change for one good due to price change of another.
+Mathematical representations/diagrams
+b) Least Cost Combination
+• Combination of inputs (labour, capital) that produces given output at minimum cost.
+• Achieved when MPL/PL = MPK/PK.
+• Represented by tangency of isoquant and isocost line.
+********** 1 **********
+--- page 2 ---
+c) Oligopoly
+• Few firms dominate the market.
+•   Interdependence among firms.
+•   Barriers to entry.
+•   Price rigidity (kinked demand curve).
+d) Importance of Management
+• Achieves organisational goals efficiently.
+• Ensures coordination of resources.
+• Improves productivity.
+• Helps in decision-making and innovation.
+Q2, 2a (10 marks)
+• As one variable input increases:
+o Stage I: Increasing returns (TP rises at increasing rate).
+o Stage II: Diminishing returns (TP rises at decreasing rate).
+o Stage III: Negative returns (TP declines).
+•   Rational stage: Stage II.
+• Graph: TP curve first convex, then concave, then downward.
+Student should draw all 3 stages diagram for this
+2b (10 marks)
+• Production Function: Functional relation between inputs and output.
+Q=f(K,L)
+********** 2 **********
+--- page 3 ---
+•   Returns to scale:
+o Increasing RTS → falling long-run costs.
+o Constant RTS → constant costs.
+o Decreasing RTS → rising costs.
+• Leads to U-shaped long-run average cost curve.
+Q3, 3a (10 marks)
+• Market is perfect competition.
+•   If farmer charges higher price:
+o Buyers shift to others.
+o Demand for his product becomes zero.
+• Reason: Homogeneous product, perfect information.
+3b (10 marks)
+Features:
+• Large number of sellers
+• Homogeneous product
+• Free entry and exit
+•   Price taker
+Demand curve:
+•   Perfectly elastic (horizontal line).
+Q4, 4a (10 marks)
+Out of 14, any Five principles (with relevance/elaboration can be considered) or 10 principles
+•   Division of Work: Increases efficiency (specialisation still relevant).
+• Authority & Responsibility: Clear roles improve accountability.
+• Unity of Command: Avoids confusion in reporting.
+•   Discipline: Essential for organisational order.
+• Scalar Chain: Clear communication hierarchy.
+4b (10 marks)
+Strategic Management: Planning and implementing long-term goals.
+SWOT (Example: Startup)
+•   Strengths: Innovation, agility
+• Weaknesses: Limited funds
+• Opportunities: Market gaps
+• Threats: Competition
+Any Case: Startup uses strengths to exploit opportunities while minimizing weaknesses and threats.
+********** 3 **********
+--- page 4 ---
+Q5, 5a (10 marks)
+• Line Relationship: Direct authority over subordinates.
+•   Staff Relationship: Advisory role.
+Centralization vs Decentralization:
+•   Centralization: Decisions at top level.
+•   Decentralization: Authority distributed.
+Delegation:
+• Assigning authority and responsibility.
+• Improves efficiency, reduces workload, develops managers.
+5b (10 marks)
+• HR management ensures recruitment, training, motivation.
+• Team management improves coordination and performance.
+Example:
+• A company forms cross-functional teams → improves productivity and innovation.
+Q6, 6a (10 marks)
+•   Price Consumption Curve (PCC): Effect of price change.
+• Income Consumption Curve (ICC): Effect of income change.
+• PCC shows substitution effect; ICC shows income effect.
+********** 4 **********
+--- page 5 ---
+6b (10 marks)
+•   Price Elasticity of Demand (PED) = %ΔQ / %ΔP
+Types:
+•   Perfectly elastic
+•   Perfectly inelastic
+•   Relatively elastic
+•   Relatively inelastic
+•   Unitary elastic
+Graphically:
+•   Flatter curve → elastic
+•   Steeper curve → inelastic
+Q7 (10 marks each)
+7a) Motivation Theories and Their Managerial Use
+1. Maslow’s Need Hierarchy Theory
+• Human needs are arranged in a hierarchy:
+1. Physiological (food, salary)
+2. Safety (job security)
+3. Social (belongingness)
+4. Esteem (recognition)
+5. Self-actualization (growth)
+• Lower-level needs must be satisfied before higher-level needs motivate behavior.
+Managerial relevance:
+• Managers can design policies like fair wages (physiological), job security (safety), team building
+(social), rewards (esteem), and career growth (self-actualization).
+********** 5 **********
+--- page 6 ---
+2. Herzberg’s Two-Factor Theory
+• Two sets of factors:
+o Hygiene factors: Salary, working conditions, policies → prevent dissatisfaction.
+o Motivators: Achievement, recognition, responsibility → create satisfaction.
+Managerial relevance:
+• Simply increasing salary is not enough.
+• Managers must provide meaningful work, recognition, and growth opportunities.
+3. McClelland’s Theory of Needs
+• Three key needs:
+o Need for Achievement (nAch): Desire to excel
+o Need for Power (nPow): Desire to control/influence
+o Need for Affiliation (nAff): Desire for relationships
+Managerial relevance:
+• High nAch employees → assign challenging tasks.
+• High nPow → leadership roles.
+• High nAff → team-oriented roles.
+Overall Role in Motivation
+• These theories help managers:
+o Understand diverse employee needs
+o Design effective incentive systems
+o Improve job satisfaction and productivity
+o Reduce turnover and absenteeism
+7b) Controlling and Quality Control in the Given Case
+Problem Analysis:
+• Company focuses only on output targets.
+• No inspection checkpoints.
+• Action is taken only after customer complaints.
+• Leads to poor quality, high returns, and loss of goodwill.
+Role of Controlling Function
+Controlling ensures that actual performance matches planned standards.
+Steps involved:
+1. Setting Standards: Define acceptable quality level for mixer grinders.
+2. Measuring Performance: Check products during production.
+3. Comparing: Identify deviations from standards.
+4. Corrective Action: Fix defects immediately.
+********** 6 **********
+--- page 7 ---
+Benefits:
+• Reduces defects and wastage
+• Improves customer satisfaction
+• Maintains brand reputation
+Role of Quality Control
+• Focuses specifically on maintaining product standards.
+• Moves from reactive approach (after complaints) to proactive approach (during
+production).
+Suggested Control Process for the Company
+1. Pre-production control:
+o Check quality of raw materials.
+2. Concurrent control (during production):
+o Introduce inspection checkpoints at each stage.
+o Use sampling and testing techniques.
+3. Post-production control:
+o Final inspection before dispatch.
+4. Feedback system:
+o Analyze customer complaints regularly.
+o Use feedback for continuous improvement.
+5. Responsibility assignment:
+o Quality control team to monitor standards.
+Conclusion
+•   Integrating controlling with quality control will shift focus from quantity to quality.
+• This will reduce complaints, improve efficiency, and enhance long-term profitability.
+********** 7 **********
 ````
 
 ## 2025-26 · Re-Exam · Sem 2 · Answer key · paper b985da5bcf54
@@ -13008,6 +13467,1164 @@ Implementing these inventory control techniques will help the
 restaurant manage costs more effectively and improve overall
 profitability while maintaining high service standards.
 ********** 22 **********
+````
+
+## 2024-25 · Final-Exam · Sem 2 · Answer key · paper 89f6202591dc
+
+- Departments: AI and Data Science
+- Programmes: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE) - 7056
+- Source: `00_Original_Downloads/2024/Semester II/67783__Final-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE) - 7056/Principles of Economics and Management/ANS_Final-Exam_Principles of Economics and Management(702TG0C015)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2025
+- Text: text (13 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CSE - CS)/B. Tech -
+(CSEDS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech (IT)/B. Tech (MXTC)/MBA. Tech (AI)/MBA.
+Tech (DS)/MBA. Tech (IT)
+Year: I/Semester II(Exam Year: 2024-2025)
+Subject: Principles of Economics and Management
+Date: 13 May 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 13 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume suitable data if necessary.
+Q1
+Write a Short Note on:   [20]
+a.   Free Market Economy
+CO- 1; BL-   A free market economy is an economic system where the production,
+[5]
+Understand   distribution, and pricing of goods and services are determined by
+unrestricted competition between privately owned businesses, with
+minimal government intervention.
+b.   Monopolistic Competition
+CO-1; BL-
+Monopolistic competition is a market structure where many firms sell   [5]
+Remember
+similar but not identical products. Each firm has some control over pricing
+due to product differentiation, but competition remains strong.
+c.   Delegation of Authority
+CO-3; BL-   Delegation of authority is the process by which a manager assigns tasks,
+[5]
+Understand   responsibilities, and decision-making power to subordinates while
+retaining accountability for the final results. It is essential for efficient
+management and organizational success.
+d.   Orientation of an Organization toward Finance and Marketing
+CO- 3; BL- Analyze   An organization's orientation toward finance and marketing reflects its   [5]
+strategic focus on managing financial resources and promoting products or
+services. Both functions are crucial for long-term success.
+Q2   [20]
+********** 1 **********
+--- page 2 ---
+a.   Elaborate on the Production Possibility Curve and its role in determining
+the economic growth of a nation.
+Production Possibility Curve (PPC) and Its Role in Economic
+Growth
+The Production Possibility Curve (PPC) is a graphical
+representation of the maximum combination of two goods or
+services that an economy can produce with its available resources
+and technology. It illustrates the concept of opportunity cost,
+efficiency, and economic trade-offs.
+Key Features of PPC:
+1. Concave Shape – Due to the law of increasing opportunity cost.
+2. Efficient Points – Any point on the curve represents maximum
+resource utilization.
+3. Inefficient Points – Points inside the curve indicate
+underutilization of resources.
+4. Unattainable Points – Points outside the curve are impossible to
+achieve with current resources.
+Role of PPC in Economic Growth:
+CO-1
+BL- Understand and   [10]
+1. Measures Resource Allocation – Shows how efficiently resources
+Apply   are used.
+2. Indicates Opportunity Cost – Highlights trade-offs between
+different goods.
+3. Reflects Economic Efficiency – Movement toward the curve
+signifies better resource utilization.
+4. Demonstrates Economic Growth – A shift outward in the PPC
+represents an increase in a nation’s productive capacity due to:
+o Improved Technology – Enhancing production efficiency.
+o   Capital Investment – More factories, infrastructure, and
+machinery.
+o   Skilled Workforce – Education and training improve labor
+productivity.
+o Discovery of New Resources – More raw materials lead to
+higher output.
+*Also draw a diagram which shows economic growth through PPC.
+Conclusion
+The PPC serves as a vital tool in economic analysis, illustrating
+scarcity, trade-offs, and efficiency. A shift outward in the PPC
+indicates economic growth, enabling a nation to produce more goods
+and services, thereby improving the standard of living.
+b.   Elucidate the uses of Elasticity of Demand with suitable
+CO- 1; BL-   examples.
+Understand and   [10]
+Uses of Elasticity of Demand with Examples
+Evaluate
+Elasticity of demand measures how the quantity demanded of a
+product responds to changes in price, income, or other factors. It
+********** 2 **********
+--- page 3 ---
+plays a crucial role in business, policymaking, and economic
+planning.
+Uses of Elasticity of Demand:
+1. Pricing Decisions – Businesses set prices based on demand
+elasticity.
+o Example: If demand for luxury cars is elastic, a price
+increase may reduce sales significantly.
+2. Revenue Optimization – Helps firms decide whether to
+increase or decrease prices.
+o Example: If demand for essential goods like salt is
+inelastic, raising prices may increase total revenue.
+3. Taxation Policies – Governments impose higher taxes on
+goods with inelastic demand to generate revenue.
+o Example: Taxes on cigarettes and alcohol do not
+drastically reduce consumption.
+4. Substitute Availability Analysis – Products with elastic
+demand face strong competition from substitutes.
+o Example: If the price of Pepsi rises, consumers may switch
+to Coca-Cola.
+5. Income Distribution Effects – Determines the impact of
+income changes on demand.
+o Example: Luxury products like designer handbags have
+high-income elasticity, meaning demand rises as income
+increases.
+6. Foreign Trade Policies – Helps governments decide
+import/export strategies based on price sensitivity.
+o Example: If a country exports inelastic goods (like
+petroleum), it can benefit from price hikes.
+7. Production and Supply Decisions – Businesses plan
+production based on elasticity to avoid overproduction.
+o Example: Agricultural products often have inelastic
+demand, so excess production may lead to price drops.
+Conclusion
+Elasticity of demand is a powerful tool for businesses, governments,
+and economists, guiding pricing, taxation, and trade policies.
+Understanding demand sensitivity helps optimize revenue, improve
+economic planning, and enhance consumer welfare.
+Q3
+[20]
+a.   Enumerate the main characteristics of the Indifference Curve.
+Analyze the process through which a consumer attains optimal
+satisfaction using the Indifference Curve and Budget Line
+CO-1&2; BL-   approach.
+Understand &   [10]
+Characteristics of the Indifference Curve and Consumer
+Analyze
+Equilibrium
+An Indifference Curve (IC) represents different combinations of
+two goods that provide the same level of satisfaction to a consumer.
+It helps in understanding consumer preferences and choices.
+********** 3 **********
+--- page 4 ---
+Main Characteristics of the Indifference Curve:
+1. Downward Sloping – As consumption of one good increases, the
+other must decrease to maintain the same satisfaction level.
+2. Convex to the Origin – Due to the diminishing marginal rate of
+substitution (MRS), consumers are willing to give up less of one
+good to gain more of another.
+3. Higher IC Represents Higher Satisfaction – A curve further from
+the origin signifies a greater level of utility.
+4. Indifference Curves Never Intersect – Each curve represents a
+unique level of satisfaction.
+5. Not a Straight Line – Unlike perfect substitutes, ICs are usually
+curved.
+Consumer Equilibrium: Indifference Curve and Budget Line
+Approach
+A consumer attains optimal satisfaction where the budget
+constraint and the highest possible indifference curve intersect.
+*Also draw a diagram of Consumer Equilibrium to support the
+answer.
+Steps to Achieve Consumer Equilibrium:
+1. Budget Line (BL) – Represents all affordable combinations of two
+goods based on income and prices.
+2. Point of Tangency – Consumer equilibrium occurs where the
+budget line is tangent to the highest indifference curve.
+3. Condition for Equilibrium:
+o MRSxy = Px / Py (Marginal Rate of Substitution equals the
+price ratio of goods).
+4. Beyond Equilibrium:
+o   If a consumer moves beyond the budget line, it becomes
+unaffordable.
+o Any point below the budget line is inefficient, as it does
+not maximize satisfaction.
+Conclusion
+Using the Indifference Curve and Budget Line approach,
+consumers make rational choices to maximize their satisfaction
+while staying within their income constraints. This analysis helps
+businesses and policymakers understand consumer behavior and
+market demand.
+********** 4 **********
+--- page 5 ---
+CO-1&2;   b.   "The interaction between Total Utility (TU) and Marginal Utility
+BL- Apply   (MU) is very significant in decision-making on the part of
+consumers. Classical economists employed Cardinal Utility
+Analysis to measure satisfaction in terms of absolute numbers,
+whereas contemporary economists opt for the Ordinal Utility
+method, ranking preferences” In line with this viewpoint
+perform a comparative study of Cardinal and Ordinal Utility
+theories, assessing their assumptions. Also, Illustrate the
+relationship between TU and MU using an appropriate diagram.
+Comparative Study of Cardinal and Ordinal Utility Theories
+Utility is the satisfaction a consumer derives from consuming goods
+and services. Classical economists used the Cardinal Utility
+Theory, which assumes utility can be measured in absolute
+numbers, while modern economists prefer the Ordinal Utility
+Theory, which ranks preferences instead of assigning numerical
+values.
+Comparison of Cardinal and Ordinal Utility Theories
+Feature   Cardinal Utility Theory   Ordina
+Ranks preferenc
+Definition   Measures utility in absolute terms (utils).
+specific number
+Utility is only co
+Measurement Utility is quantifiable.
+lower).   [10]
+Law of Diminishing Marginal Utility (MU Indifference Cur
+Main Concept
+declines as consumption increases).   preferences ove
+Consumers can express satisfaction in   Consumers can
+Assumptions
+numerical terms.   measure exact s
+Uses Marginal Utility to determine   Uses Indifferenc
+Approach
+consumer equilibrium.   Constraints for
+"A cup of tea gives me 10 utils of   "I prefer tea ove
+Example
+satisfaction."   say by how muc
+Relationship Between Total Utility (TU) and Marginal Utility
+(MU)
+•   Total Utility (TU) is the total satisfaction obtained from
+consuming a given quantity of a good.
+•   Marginal Utility (MU) is the additional satisfaction gained from
+consuming one more unit of the good.
+• Law of Diminishing Marginal Utility: As consumption increases,
+MU decreases, and when MU becomes zero, TU is maximized.
+Diagram: TU and MU Relationship
+TU Curve: Starts increasing, reaches a peak, then declines.
+MU Curve: Starts high, decreases, becomes zero when TU is max,
+and turns negative if consumption continues.
+Graph Representation:
+********** 5 **********
+--- page 6 ---
+• The TU curve rises initially, then flattens at maximum
+satisfaction, and declines if overconsumption occurs.
+• The MU curve declines with each additional unit consumed,
+eventually turning negative.
+Thus, the Cardinal Utility Theory explains utility numerically,
+while the Ordinal Utility Theory focuses on consumer preferences.
+The TU and MU relationship helps in understanding consumer
+decision-making regarding optimal consumption levels.
+Q4   [20]
+a.   What is an isocost line and an isoquant? How do they help a
+producer in determining a least-cost output
+Isocost Line and Isoquant: Tools for Least-Cost Output Decision
+Producers aim to maximize output while minimizing costs. Isocost
+lines and isoquants are essential tools in production analysis that
+help firms achieve this objective.
+1. Isocost Line
+An isocost line represents all possible combinations of two inputs
+(e.g., labor and capital) that a firm can purchase with a given
+budget.
+Equation of Isocost Line:
+TC=(PL×L)+(PK×K)TC = (P_L \times L) + (P_K \times K)
+Where:
+• TC = Total cost
+• P_L = Price of labor
+•   L = Quantity of labor
+CO- 1; BL- Understand   • P_K = Price of capital   [10]
+& Apply   • K = Quantity of capital
+Characteristics:
+•   It is a straight line with a negative slope, indicating a trade-off
+between labor and capital.
+• A shift in the isocost line occurs when the budget changes.
+2. Isoquant Curve
+An isoquant represents all combinations of two inputs that produce
+the same level of output. It is similar to an indifference curve in
+consumer theory but used in production analysis.
+Characteristics:
+• Downward Sloping – More of one input requires less of the other
+to maintain output.
+• Convex to the Origin – Reflects diminishing marginal returns.
+•   Higher Isoquants Represent Higher Output – More inputs
+increase production.
+********** 6 **********
+--- page 7 ---
+3. Least-Cost Combination of Inputs
+Producers aim to achieve cost minimization where the isoquant is
+tangent to the isocost line. This point ensures:
+• The Marginal Rate of Technical Substitution (MRTS) equals the
+ratio of input prices: MRTS=MPLMPK=PLPKMRTS =
+\frac{MP_L}{MP_K} = \frac{P_L}{P_K}
+• Any other point would either increase costs or reduce output
+efficiency.
+*Also draw a diagram of the Least Cost Combination/Producer’s
+Equilibrium.
+Conclusion
+By using isoquant and isocost analysis, firms determine the
+optimal mix of labor and capital to minimize costs and maximize
+output, leading to higher profitability and efficient resource
+utilization.
+b.   Explain different types of costs in detail. List all the
+segregations’ of cost and explain them in detail
+Different Types of Costs in Detail
+Cost is the monetary value of resources used in the production of
+goods and services. Businesses classify costs based on various
+criteria to improve financial planning and decision-making.
+1. Classification Based on Behavior:
+1. Fixed Costs – Costs that remain constant regardless of production
+level.
+o Example: Rent, salaries, insurance.
+2. Variable Costs – Costs that change with production volume.
+o Example: Raw materials, wages, electricity.
+3. Semi-Variable Costs – Costs with both fixed and variable
+CO-1; BL-
+components.
+Understand &   o Example: Telephone bills (fixed rental + variable usage   [10]
+Analyze   charge).
+2. Classification Based on Production:
+1. Total Cost (TC) – The sum of all costs incurred in production.
+TC=FixedCost+VariableCostTC = Fixed Cost + Variable Cost
+2. Average Cost (AC) – Cost per unit of output. AC=TCTotalOutputAC
+= \frac{TC}{Total Output}
+3. Marginal Cost (MC) – The additional cost incurred when
+producing one more unit. MC=ΔTCΔOutputMC = \frac{\Delta
+TC}{\Delta Output}
+3. Classification Based on Traceability:
+1. Direct Costs – Costs that can be traced to a specific product.
+o Example: Raw materials, direct labor.
+********** 7 **********
+--- page 8 ---
+2. Indirect Costs – Costs that support production but cannot be
+directly assigned.
+o Example: Factory rent, administrative expenses.
+4. Classification Based on Decision-Making:
+1. Opportunity Cost – The cost of the next best alternative
+foregone.
+o Example: Choosing to produce shoes instead of bags.
+2. Sunk Cost – Costs already incurred and cannot be recovered.
+o Example: Research and development expenses.
+5. Classification Based on Periodicity:
+1. Short-Run Cost – Costs incurred in the short term with some fixed
+inputs.
+2. Long-Run Cost – Costs where all inputs become variable over
+time.
+Conclusion
+Understanding different types of costs helps businesses optimize
+pricing, budgeting, and profitability strategies, ensuring efficient
+resource allocation and financial management.
+Q5
+[20]
+a.   Explain the super-normal profit and loss-making situations of a
+firm in a perfectly competitive market with a suitable diagram
+and example.
+Super-Normal Profit and Loss-Making Situations in a Perfectly
+Competitive Market
+In a perfectly competitive market, firms are price takers and can
+earn different levels of profit based on cost and revenue conditions.
+The two key situations are:
+1. Super-Normal Profit (Abnormal Profit)
+A firm earns super-normal profit when total revenue exceeds total
+cost. This happens when the price (P) > Average Total Cost
+(ATC).
+CO- 1; BL- Analyze   Graph Explanation:   [10]
+• The firm's equilibrium is at P = MR = MC (Profit-Maximizing
+Condition).
+•   Since P > ATC, the firm earns an economic profit, represented by
+the shaded area in the graph.
+Example:
+A tech startup with an innovative product might temporarily earn
+super-normal profits before competitors enter the market.
+*Also draw a diagram.
+2. Loss-Making Situation
+A firm incurs losses when price (P) < ATC, meaning total revenue
+is insufficient to cover total costs.
+********** 8 **********
+--- page 9 ---
+Graph Explanation:
+• The firm's equilibrium is still at P = MR = MC, but ATC > P, leading
+to losses.
+•   If P ≥ AVC (Average Variable Cost), the firm continues production
+to cover variable costs.
+•   If P < AVC, the firm shuts down to avoid further losses.
+Example:
+A small farmer selling wheat at a price lower than production cost
+experiences losses, especially if market prices decline due to
+oversupply.
+*Also draw a diagram.
+Conclusion
+In the long run, firms in perfect competition earn only normal
+profit, as super-normal profits attract new entrants, increasing
+supply and lowering prices. Conversely, loss-making firms exit the
+market, reducing supply and raising prices until only normal profit
+remains.
+b. How Maslow’s theory of Motivation is different from
+McClelland’s theory of Achievement? Explain with a suitable
+example.
+Difference Between Maslow’s and McClelland’s Theories of
+Motivation
+Maslow’s Hierarchy of Needs and McClelland’s Theory of
+Achievement both explain motivation but differ in approach.
+1. Maslow’s Theory of Motivation (1943)
+o Based on a hierarchical structure of five needs:
+(i) Physiological, (ii) Safety, (iii) Social, (iv) Esteem, (v)
+Self-Actualization.
+o   Individuals satisfy lower-level needs before progressing to
+CO-3;   higher ones.
+BL- Remember &   o Example: An employee first seeks job security (safety   [10]
+need) before aiming for recognition (esteem need).
+Apply
+2. McClelland’s Theory of Achievement (1961)
+o Focuses on three key motivational drivers:
+(i) Need for Achievement (nAch), (ii) Need for Power
+(nPow), (iii) Need for Affiliation (nAff).
+o Motivation varies between individuals based on dominant
+needs.
+o Example: An entrepreneur with high nAch takes risks and
+strives for success, while a politician with high nPow
+seeks influence.
+Key Difference:
+Maslow’s theory applies universally, while McClelland’s focuses on
+individual personality traits that drive motivation in a professional
+setting.
+Q6   [20]
+********** 9 **********
+--- page 10 ---
+a. How do you support the view that Management must be defined
+in terms of effectiveness, coordination of resources, and
+objectives?
+Management in Terms of Effectiveness, Coordination of
+Resources, and Objectives
+Management is the process of planning, organizing, leading, and
+controlling resources to achieve organizational goals efficiently and
+effectively. It must be defined in terms of effectiveness,
+coordination of resources, and objectives because these elements
+determine a firm’s success.
+1. Effectiveness – Refers to achieving the desired goals within
+a given time frame.
+o A manager must ensure that employees work toward
+achieving the company’s mission.
+o Example: A software company must deliver a product on
+CO-3;   schedule to meet customer expectations.
+BL- Apply &   2. Coordination of Resources – Involves efficiently utilizing   [10]
+Analyze   human, financial, and material resources.
+o   Effective management ensures minimum waste and
+maximum productivity.
+o Example: A manufacturing firm must allocate raw
+materials, labor, and technology efficiently to optimize
+production.
+3. Objectives Alignment – Every organization operates to
+achieve specific short-term and long-term objectives.
+o Managers align company activities with strategic goals.
+o Example: A retail chain expanding internationally must
+align operations with market demand and financial goals.
+Conclusion
+Management is not just about administering tasks but ensuring
+effectiveness, optimizing resources, and aligning activities with
+objectives. A well-managed organization achieves growth,
+sustainability, and competitive advantage.
+b.   Define Planning. What are the essentials of effective planning
+and highlight the key factors leading to failure of the Plan.
+Definition of Planning
+Planning is the process of setting goals, determining actions, and
+outlining strategies to achieve organizational objectives. It acts as a
+CO-2&3; BL-   roadmap for decision-making and future activities.
+[10]
+Remember and Apply   Essentials of Effective Planning:
+1. Clear Objectives – Goals should be well-defined and measurable.
+2. Flexibility – Plans should adapt to changing circumstances.
+3. Feasibility – Plans must be realistic and based on available
+resources.
+4. Accuracy – Based on factual data and logical assumptions.
+********** 10 **********
+--- page 11 ---
+5. Time-Bound – Includes specific timelines for goal achievement.
+6. Coordination – Aligns all departments and resources for unified
+action.
+Key Factors Leading to Plan Failure:
+1. Lack of Clear Vision – Undefined objectives create confusion.
+2. Rigid Structure – Inability to adapt to changes leads to
+inefficiency.
+3. Inaccurate Forecasting – Poor data analysis results in flawed
+decisions.
+4. Resource Constraints – Insufficient funds, manpower, or
+technology hinder execution.
+5. Resistance to Change – Employees and stakeholders may oppose
+new plans.
+6. Poor Communication – Lack of clarity in goals and expectations
+causes misalignment.
+Conclusion
+Effective planning ensures goal achievement, resource
+optimization, and organizational success, while failure in planning
+results in inefficiency and missed opportunities.
+Q7
+[20]
+a.   Briefly explain the contributions of F W Taylor and Elton Mayo in the
+discipline of Management.
+Contributions of F.W. Taylor and Elton Mayo in Management
+1. F.W. Taylor – Scientific Management Theory
+Frederick Winslow Taylor, known as the father of scientific
+management, introduced principles to enhance productivity through
+systematic work processes.
+Key Contributions:
+1. Scientific Work Methods – Replaced traditional methods with
+CO-3; BL-   time and motion studies.
+Understand and   2. Standardization – Established rules and tools for efficiency.   [10]
+Apply   3. Task Specialization – Encouraged division of labor for increased
+output.
+4. Incentive-Based Pay – Linked wages to worker performance.
+5. Four Principles of Management – Science, Harmony,
+Cooperation, and Development.
+Example: Taylor’s principles helped in assembly-line production,
+as seen in Henry Ford’s automobile manufacturing.
+2. Elton Mayo – Human Relations Theory
+Elton Mayo emphasized the importance of social and
+psychological factors in workplace productivity through the
+Hawthorne Studies.
+********** 11 **********
+--- page 12 ---
+Key Contributions:
+1. Workplace Environment – Found that employee morale affects
+efficiency.
+2. Group Dynamics – Social relationships impact productivity.
+3. Employee Motivation – Encouraged recognition and
+communication between workers and management.
+4. Participative Management – Recommended involving employees
+in decision-making.
+Example: Modern HR practices focus on employee engagement,
+teamwork, and leadership development, influenced by Mayo’s
+research.
+Conclusion
+Taylor’s scientific management improved productivity through
+efficiency, while Mayo’s human relations approach highlighted
+the importance of motivation and teamwork. Both theories shaped
+modern management practices.
+b.   Explain the concept of "Inventory Control" and discuss its
+importance in the context of modern business operations. Also,
+highlight any one technique used for effective inventory control.
+Concept of Inventory Control
+Inventory control refers to the process of managing stock levels to
+ensure the right quantity of materials is available at the right time
+while minimizing costs. It helps businesses avoid overstocking,
+understocking, and wastage.
+Importance of Inventory Control in Modern Business
+Operations:
+1. Cost Reduction – Reduces storage, handling, and wastage costs.
+2. Efficient Production – Ensures smooth operations by maintaining
+CO- 3; BL-   optimal stock levels.
+Understand and   3. Customer Satisfaction – Prevents stockouts and delays, ensuring   [10]
+Apply   timely deliveries.
+4. Improved Cash Flow – Prevents excessive capital being tied up in
+inventory.
+5. Minimizing Losses – Reduces risks of spoilage, theft, and
+obsolescence.
+Technique for Effective Inventory Control – Economic Order
+Quantity (EOQ):
+The EOQ model determines the optimal order quantity that
+minimizes total inventory costs, including ordering and holding
+costs.
+EOQ Formula:
+EOQ=2DSHEOQ = \sqrt{\frac{2DS}{H}}
+Where:
+• D = Annual demand
+•   S = Ordering cost per order
+********** 12 **********
+--- page 13 ---
+• H = Holding cost per unit per year
+Conclusion
+Effective inventory control enhances cost efficiency, smooth
+operations, and customer satisfaction. Techniques like EOQ help
+businesses maintain an optimal balance between demand and supply.
+********** 13 **********
+````
+
+## 2024-25 · Final-Exam · Sem 2 · Answer key · paper 89747abee6ab
+
+- Departments: Electronics and Telecommunication
+- Programmes: BACHELOR OF TECHNOLOGY (ELECTRONICS & TELECOMMUNICATION ENGINEERING) - 7006
+- Source: `00_Original_Downloads/2024/Semester II/67783__Final-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY (ELECTRONICS & TELECOMMUNICATION ENGINEERING) - 7006/Principles of Economics and Management/ANS_Final-Exam_Principles of Economics and Management(702TG0C015)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 May 2025
+- Text: text (13 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CSE - CS)/B. Tech -
+(CSEDS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech (IT)/B. Tech (MXTC)/MBA. Tech (AI)/MBA.
+Tech (DS)/MBA. Tech (IT)
+Year: I/Semester II(Exam Year: 2024-2025)
+Subject: Principles of Economics and Management
+Date: 13 May 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 13 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume suitable data if necessary.
+Q1
+Write a Short Note on:   [20]
+a.   Free Market Economy
+CO- 1; BL-   A free market economy is an economic system where the production,
+[5]
+Understand   distribution, and pricing of goods and services are determined by
+unrestricted competition between privately owned businesses, with
+minimal government intervention.
+b.   Monopolistic Competition
+CO-1; BL-
+Monopolistic competition is a market structure where many firms sell   [5]
+Remember
+similar but not identical products. Each firm has some control over pricing
+due to product differentiation, but competition remains strong.
+c.   Delegation of Authority
+CO-3; BL-   Delegation of authority is the process by which a manager assigns tasks,
+[5]
+Understand   responsibilities, and decision-making power to subordinates while
+retaining accountability for the final results. It is essential for efficient
+management and organizational success.
+d.   Orientation of an Organization toward Finance and Marketing
+CO- 3; BL- Analyze   An organization's orientation toward finance and marketing reflects its   [5]
+strategic focus on managing financial resources and promoting products or
+services. Both functions are crucial for long-term success.
+Q2   [20]
+********** 1 **********
+--- page 2 ---
+a.   Elaborate on the Production Possibility Curve and its role in determining
+the economic growth of a nation.
+Production Possibility Curve (PPC) and Its Role in Economic
+Growth
+The Production Possibility Curve (PPC) is a graphical
+representation of the maximum combination of two goods or
+services that an economy can produce with its available resources
+and technology. It illustrates the concept of opportunity cost,
+efficiency, and economic trade-offs.
+Key Features of PPC:
+1. Concave Shape – Due to the law of increasing opportunity cost.
+2. Efficient Points – Any point on the curve represents maximum
+resource utilization.
+3. Inefficient Points – Points inside the curve indicate
+underutilization of resources.
+4. Unattainable Points – Points outside the curve are impossible to
+achieve with current resources.
+Role of PPC in Economic Growth:
+CO-1
+BL- Understand and   [10]
+1. Measures Resource Allocation – Shows how efficiently resources
+Apply   are used.
+2. Indicates Opportunity Cost – Highlights trade-offs between
+different goods.
+3. Reflects Economic Efficiency – Movement toward the curve
+signifies better resource utilization.
+4. Demonstrates Economic Growth – A shift outward in the PPC
+represents an increase in a nation’s productive capacity due to:
+o Improved Technology – Enhancing production efficiency.
+o   Capital Investment – More factories, infrastructure, and
+machinery.
+o   Skilled Workforce – Education and training improve labor
+productivity.
+o Discovery of New Resources – More raw materials lead to
+higher output.
+*Also draw a diagram which shows economic growth through PPC.
+Conclusion
+The PPC serves as a vital tool in economic analysis, illustrating
+scarcity, trade-offs, and efficiency. A shift outward in the PPC
+indicates economic growth, enabling a nation to produce more goods
+and services, thereby improving the standard of living.
+b.   Elucidate the uses of Elasticity of Demand with suitable
+CO- 1; BL-   examples.
+Understand and   [10]
+Uses of Elasticity of Demand with Examples
+Evaluate
+Elasticity of demand measures how the quantity demanded of a
+product responds to changes in price, income, or other factors. It
+********** 2 **********
+--- page 3 ---
+plays a crucial role in business, policymaking, and economic
+planning.
+Uses of Elasticity of Demand:
+1. Pricing Decisions – Businesses set prices based on demand
+elasticity.
+o Example: If demand for luxury cars is elastic, a price
+increase may reduce sales significantly.
+2. Revenue Optimization – Helps firms decide whether to
+increase or decrease prices.
+o Example: If demand for essential goods like salt is
+inelastic, raising prices may increase total revenue.
+3. Taxation Policies – Governments impose higher taxes on
+goods with inelastic demand to generate revenue.
+o Example: Taxes on cigarettes and alcohol do not
+drastically reduce consumption.
+4. Substitute Availability Analysis – Products with elastic
+demand face strong competition from substitutes.
+o Example: If the price of Pepsi rises, consumers may switch
+to Coca-Cola.
+5. Income Distribution Effects – Determines the impact of
+income changes on demand.
+o Example: Luxury products like designer handbags have
+high-income elasticity, meaning demand rises as income
+increases.
+6. Foreign Trade Policies – Helps governments decide
+import/export strategies based on price sensitivity.
+o Example: If a country exports inelastic goods (like
+petroleum), it can benefit from price hikes.
+7. Production and Supply Decisions – Businesses plan
+production based on elasticity to avoid overproduction.
+o Example: Agricultural products often have inelastic
+demand, so excess production may lead to price drops.
+Conclusion
+Elasticity of demand is a powerful tool for businesses, governments,
+and economists, guiding pricing, taxation, and trade policies.
+Understanding demand sensitivity helps optimize revenue, improve
+economic planning, and enhance consumer welfare.
+Q3
+[20]
+a.   Enumerate the main characteristics of the Indifference Curve.
+Analyze the process through which a consumer attains optimal
+satisfaction using the Indifference Curve and Budget Line
+CO-1&2; BL-   approach.
+Understand &   [10]
+Characteristics of the Indifference Curve and Consumer
+Analyze
+Equilibrium
+An Indifference Curve (IC) represents different combinations of
+two goods that provide the same level of satisfaction to a consumer.
+It helps in understanding consumer preferences and choices.
+********** 3 **********
+--- page 4 ---
+Main Characteristics of the Indifference Curve:
+1. Downward Sloping – As consumption of one good increases, the
+other must decrease to maintain the same satisfaction level.
+2. Convex to the Origin – Due to the diminishing marginal rate of
+substitution (MRS), consumers are willing to give up less of one
+good to gain more of another.
+3. Higher IC Represents Higher Satisfaction – A curve further from
+the origin signifies a greater level of utility.
+4. Indifference Curves Never Intersect – Each curve represents a
+unique level of satisfaction.
+5. Not a Straight Line – Unlike perfect substitutes, ICs are usually
+curved.
+Consumer Equilibrium: Indifference Curve and Budget Line
+Approach
+A consumer attains optimal satisfaction where the budget
+constraint and the highest possible indifference curve intersect.
+*Also draw a diagram of Consumer Equilibrium to support the
+answer.
+Steps to Achieve Consumer Equilibrium:
+1. Budget Line (BL) – Represents all affordable combinations of two
+goods based on income and prices.
+2. Point of Tangency – Consumer equilibrium occurs where the
+budget line is tangent to the highest indifference curve.
+3. Condition for Equilibrium:
+o MRSxy = Px / Py (Marginal Rate of Substitution equals the
+price ratio of goods).
+4. Beyond Equilibrium:
+o   If a consumer moves beyond the budget line, it becomes
+unaffordable.
+o Any point below the budget line is inefficient, as it does
+not maximize satisfaction.
+Conclusion
+Using the Indifference Curve and Budget Line approach,
+consumers make rational choices to maximize their satisfaction
+while staying within their income constraints. This analysis helps
+businesses and policymakers understand consumer behavior and
+market demand.
+********** 4 **********
+--- page 5 ---
+CO-1&2;   b.   "The interaction between Total Utility (TU) and Marginal Utility
+BL- Apply   (MU) is very significant in decision-making on the part of
+consumers. Classical economists employed Cardinal Utility
+Analysis to measure satisfaction in terms of absolute numbers,
+whereas contemporary economists opt for the Ordinal Utility
+method, ranking preferences” In line with this viewpoint
+perform a comparative study of Cardinal and Ordinal Utility
+theories, assessing their assumptions. Also, Illustrate the
+relationship between TU and MU using an appropriate diagram.
+Comparative Study of Cardinal and Ordinal Utility Theories
+Utility is the satisfaction a consumer derives from consuming goods
+and services. Classical economists used the Cardinal Utility
+Theory, which assumes utility can be measured in absolute
+numbers, while modern economists prefer the Ordinal Utility
+Theory, which ranks preferences instead of assigning numerical
+values.
+Comparison of Cardinal and Ordinal Utility Theories
+Feature   Cardinal Utility Theory   Ordina
+Ranks preferenc
+Definition   Measures utility in absolute terms (utils).
+specific number
+Utility is only co
+Measurement Utility is quantifiable.
+lower).   [10]
+Law of Diminishing Marginal Utility (MU Indifference Cur
+Main Concept
+declines as consumption increases).   preferences ove
+Consumers can express satisfaction in   Consumers can
+Assumptions
+numerical terms.   measure exact s
+Uses Marginal Utility to determine   Uses Indifferenc
+Approach
+consumer equilibrium.   Constraints for
+"A cup of tea gives me 10 utils of   "I prefer tea ove
+Example
+satisfaction."   say by how muc
+Relationship Between Total Utility (TU) and Marginal Utility
+(MU)
+•   Total Utility (TU) is the total satisfaction obtained from
+consuming a given quantity of a good.
+•   Marginal Utility (MU) is the additional satisfaction gained from
+consuming one more unit of the good.
+• Law of Diminishing Marginal Utility: As consumption increases,
+MU decreases, and when MU becomes zero, TU is maximized.
+Diagram: TU and MU Relationship
+TU Curve: Starts increasing, reaches a peak, then declines.
+MU Curve: Starts high, decreases, becomes zero when TU is max,
+and turns negative if consumption continues.
+Graph Representation:
+********** 5 **********
+--- page 6 ---
+• The TU curve rises initially, then flattens at maximum
+satisfaction, and declines if overconsumption occurs.
+• The MU curve declines with each additional unit consumed,
+eventually turning negative.
+Thus, the Cardinal Utility Theory explains utility numerically,
+while the Ordinal Utility Theory focuses on consumer preferences.
+The TU and MU relationship helps in understanding consumer
+decision-making regarding optimal consumption levels.
+Q4   [20]
+a.   What is an isocost line and an isoquant? How do they help a
+producer in determining a least-cost output
+Isocost Line and Isoquant: Tools for Least-Cost Output Decision
+Producers aim to maximize output while minimizing costs. Isocost
+lines and isoquants are essential tools in production analysis that
+help firms achieve this objective.
+1. Isocost Line
+An isocost line represents all possible combinations of two inputs
+(e.g., labor and capital) that a firm can purchase with a given
+budget.
+Equation of Isocost Line:
+TC=(PL×L)+(PK×K)TC = (P_L \times L) + (P_K \times K)
+Where:
+• TC = Total cost
+• P_L = Price of labor
+•   L = Quantity of labor
+CO- 1; BL- Understand   • P_K = Price of capital   [10]
+& Apply   • K = Quantity of capital
+Characteristics:
+•   It is a straight line with a negative slope, indicating a trade-off
+between labor and capital.
+• A shift in the isocost line occurs when the budget changes.
+2. Isoquant Curve
+An isoquant represents all combinations of two inputs that produce
+the same level of output. It is similar to an indifference curve in
+consumer theory but used in production analysis.
+Characteristics:
+• Downward Sloping – More of one input requires less of the other
+to maintain output.
+• Convex to the Origin – Reflects diminishing marginal returns.
+•   Higher Isoquants Represent Higher Output – More inputs
+increase production.
+********** 6 **********
+--- page 7 ---
+3. Least-Cost Combination of Inputs
+Producers aim to achieve cost minimization where the isoquant is
+tangent to the isocost line. This point ensures:
+• The Marginal Rate of Technical Substitution (MRTS) equals the
+ratio of input prices: MRTS=MPLMPK=PLPKMRTS =
+\frac{MP_L}{MP_K} = \frac{P_L}{P_K}
+• Any other point would either increase costs or reduce output
+efficiency.
+*Also draw a diagram of the Least Cost Combination/Producer’s
+Equilibrium.
+Conclusion
+By using isoquant and isocost analysis, firms determine the
+optimal mix of labor and capital to minimize costs and maximize
+output, leading to higher profitability and efficient resource
+utilization.
+b.   Explain different types of costs in detail. List all the
+segregations’ of cost and explain them in detail
+Different Types of Costs in Detail
+Cost is the monetary value of resources used in the production of
+goods and services. Businesses classify costs based on various
+criteria to improve financial planning and decision-making.
+1. Classification Based on Behavior:
+1. Fixed Costs – Costs that remain constant regardless of production
+level.
+o Example: Rent, salaries, insurance.
+2. Variable Costs – Costs that change with production volume.
+o Example: Raw materials, wages, electricity.
+3. Semi-Variable Costs – Costs with both fixed and variable
+CO-1; BL-
+components.
+Understand &   o Example: Telephone bills (fixed rental + variable usage   [10]
+Analyze   charge).
+2. Classification Based on Production:
+1. Total Cost (TC) – The sum of all costs incurred in production.
+TC=FixedCost+VariableCostTC = Fixed Cost + Variable Cost
+2. Average Cost (AC) – Cost per unit of output. AC=TCTotalOutputAC
+= \frac{TC}{Total Output}
+3. Marginal Cost (MC) – The additional cost incurred when
+producing one more unit. MC=ΔTCΔOutputMC = \frac{\Delta
+TC}{\Delta Output}
+3. Classification Based on Traceability:
+1. Direct Costs – Costs that can be traced to a specific product.
+o Example: Raw materials, direct labor.
+********** 7 **********
+--- page 8 ---
+2. Indirect Costs – Costs that support production but cannot be
+directly assigned.
+o Example: Factory rent, administrative expenses.
+4. Classification Based on Decision-Making:
+1. Opportunity Cost – The cost of the next best alternative
+foregone.
+o Example: Choosing to produce shoes instead of bags.
+2. Sunk Cost – Costs already incurred and cannot be recovered.
+o Example: Research and development expenses.
+5. Classification Based on Periodicity:
+1. Short-Run Cost – Costs incurred in the short term with some fixed
+inputs.
+2. Long-Run Cost – Costs where all inputs become variable over
+time.
+Conclusion
+Understanding different types of costs helps businesses optimize
+pricing, budgeting, and profitability strategies, ensuring efficient
+resource allocation and financial management.
+Q5
+[20]
+a.   Explain the super-normal profit and loss-making situations of a
+firm in a perfectly competitive market with a suitable diagram
+and example.
+Super-Normal Profit and Loss-Making Situations in a Perfectly
+Competitive Market
+In a perfectly competitive market, firms are price takers and can
+earn different levels of profit based on cost and revenue conditions.
+The two key situations are:
+1. Super-Normal Profit (Abnormal Profit)
+A firm earns super-normal profit when total revenue exceeds total
+cost. This happens when the price (P) > Average Total Cost
+(ATC).
+CO- 1; BL- Analyze   Graph Explanation:   [10]
+• The firm's equilibrium is at P = MR = MC (Profit-Maximizing
+Condition).
+•   Since P > ATC, the firm earns an economic profit, represented by
+the shaded area in the graph.
+Example:
+A tech startup with an innovative product might temporarily earn
+super-normal profits before competitors enter the market.
+*Also draw a diagram.
+2. Loss-Making Situation
+A firm incurs losses when price (P) < ATC, meaning total revenue
+is insufficient to cover total costs.
+********** 8 **********
+--- page 9 ---
+Graph Explanation:
+• The firm's equilibrium is still at P = MR = MC, but ATC > P, leading
+to losses.
+•   If P ≥ AVC (Average Variable Cost), the firm continues production
+to cover variable costs.
+•   If P < AVC, the firm shuts down to avoid further losses.
+Example:
+A small farmer selling wheat at a price lower than production cost
+experiences losses, especially if market prices decline due to
+oversupply.
+*Also draw a diagram.
+Conclusion
+In the long run, firms in perfect competition earn only normal
+profit, as super-normal profits attract new entrants, increasing
+supply and lowering prices. Conversely, loss-making firms exit the
+market, reducing supply and raising prices until only normal profit
+remains.
+b. How Maslow’s theory of Motivation is different from
+McClelland’s theory of Achievement? Explain with a suitable
+example.
+Difference Between Maslow’s and McClelland’s Theories of
+Motivation
+Maslow’s Hierarchy of Needs and McClelland’s Theory of
+Achievement both explain motivation but differ in approach.
+1. Maslow’s Theory of Motivation (1943)
+o Based on a hierarchical structure of five needs:
+(i) Physiological, (ii) Safety, (iii) Social, (iv) Esteem, (v)
+Self-Actualization.
+o   Individuals satisfy lower-level needs before progressing to
+CO-3;   higher ones.
+BL- Remember &   o Example: An employee first seeks job security (safety   [10]
+need) before aiming for recognition (esteem need).
+Apply
+2. McClelland’s Theory of Achievement (1961)
+o Focuses on three key motivational drivers:
+(i) Need for Achievement (nAch), (ii) Need for Power
+(nPow), (iii) Need for Affiliation (nAff).
+o Motivation varies between individuals based on dominant
+needs.
+o Example: An entrepreneur with high nAch takes risks and
+strives for success, while a politician with high nPow
+seeks influence.
+Key Difference:
+Maslow’s theory applies universally, while McClelland’s focuses on
+individual personality traits that drive motivation in a professional
+setting.
+Q6   [20]
+********** 9 **********
+--- page 10 ---
+a. How do you support the view that Management must be defined
+in terms of effectiveness, coordination of resources, and
+objectives?
+Management in Terms of Effectiveness, Coordination of
+Resources, and Objectives
+Management is the process of planning, organizing, leading, and
+controlling resources to achieve organizational goals efficiently and
+effectively. It must be defined in terms of effectiveness,
+coordination of resources, and objectives because these elements
+determine a firm’s success.
+1. Effectiveness – Refers to achieving the desired goals within
+a given time frame.
+o A manager must ensure that employees work toward
+achieving the company’s mission.
+o Example: A software company must deliver a product on
+CO-3;   schedule to meet customer expectations.
+BL- Apply &   2. Coordination of Resources – Involves efficiently utilizing   [10]
+Analyze   human, financial, and material resources.
+o   Effective management ensures minimum waste and
+maximum productivity.
+o Example: A manufacturing firm must allocate raw
+materials, labor, and technology efficiently to optimize
+production.
+3. Objectives Alignment – Every organization operates to
+achieve specific short-term and long-term objectives.
+o Managers align company activities with strategic goals.
+o Example: A retail chain expanding internationally must
+align operations with market demand and financial goals.
+Conclusion
+Management is not just about administering tasks but ensuring
+effectiveness, optimizing resources, and aligning activities with
+objectives. A well-managed organization achieves growth,
+sustainability, and competitive advantage.
+b.   Define Planning. What are the essentials of effective planning
+and highlight the key factors leading to failure of the Plan.
+Definition of Planning
+Planning is the process of setting goals, determining actions, and
+outlining strategies to achieve organizational objectives. It acts as a
+CO-2&3; BL-   roadmap for decision-making and future activities.
+[10]
+Remember and Apply   Essentials of Effective Planning:
+1. Clear Objectives – Goals should be well-defined and measurable.
+2. Flexibility – Plans should adapt to changing circumstances.
+3. Feasibility – Plans must be realistic and based on available
+resources.
+4. Accuracy – Based on factual data and logical assumptions.
+********** 10 **********
+--- page 11 ---
+5. Time-Bound – Includes specific timelines for goal achievement.
+6. Coordination – Aligns all departments and resources for unified
+action.
+Key Factors Leading to Plan Failure:
+1. Lack of Clear Vision – Undefined objectives create confusion.
+2. Rigid Structure – Inability to adapt to changes leads to
+inefficiency.
+3. Inaccurate Forecasting – Poor data analysis results in flawed
+decisions.
+4. Resource Constraints – Insufficient funds, manpower, or
+technology hinder execution.
+5. Resistance to Change – Employees and stakeholders may oppose
+new plans.
+6. Poor Communication – Lack of clarity in goals and expectations
+causes misalignment.
+Conclusion
+Effective planning ensures goal achievement, resource
+optimization, and organizational success, while failure in planning
+results in inefficiency and missed opportunities.
+Q7
+[20]
+a.   Briefly explain the contributions of F W Taylor and Elton Mayo in the
+discipline of Management.
+Contributions of F.W. Taylor and Elton Mayo in Management
+1. F.W. Taylor – Scientific Management Theory
+Frederick Winslow Taylor, known as the father of scientific
+management, introduced principles to enhance productivity through
+systematic work processes.
+Key Contributions:
+1. Scientific Work Methods – Replaced traditional methods with
+CO-3; BL-   time and motion studies.
+Understand and   2. Standardization – Established rules and tools for efficiency.   [10]
+Apply   3. Task Specialization – Encouraged division of labor for increased
+output.
+4. Incentive-Based Pay – Linked wages to worker performance.
+5. Four Principles of Management – Science, Harmony,
+Cooperation, and Development.
+Example: Taylor’s principles helped in assembly-line production,
+as seen in Henry Ford’s automobile manufacturing.
+2. Elton Mayo – Human Relations Theory
+Elton Mayo emphasized the importance of social and
+psychological factors in workplace productivity through the
+Hawthorne Studies.
+********** 11 **********
+--- page 12 ---
+Key Contributions:
+1. Workplace Environment – Found that employee morale affects
+efficiency.
+2. Group Dynamics – Social relationships impact productivity.
+3. Employee Motivation – Encouraged recognition and
+communication between workers and management.
+4. Participative Management – Recommended involving employees
+in decision-making.
+Example: Modern HR practices focus on employee engagement,
+teamwork, and leadership development, influenced by Mayo’s
+research.
+Conclusion
+Taylor’s scientific management improved productivity through
+efficiency, while Mayo’s human relations approach highlighted
+the importance of motivation and teamwork. Both theories shaped
+modern management practices.
+b.   Explain the concept of "Inventory Control" and discuss its
+importance in the context of modern business operations. Also,
+highlight any one technique used for effective inventory control.
+Concept of Inventory Control
+Inventory control refers to the process of managing stock levels to
+ensure the right quantity of materials is available at the right time
+while minimizing costs. It helps businesses avoid overstocking,
+understocking, and wastage.
+Importance of Inventory Control in Modern Business
+Operations:
+1. Cost Reduction – Reduces storage, handling, and wastage costs.
+2. Efficient Production – Ensures smooth operations by maintaining
+CO- 3; BL-   optimal stock levels.
+Understand and   3. Customer Satisfaction – Prevents stockouts and delays, ensuring   [10]
+Apply   timely deliveries.
+4. Improved Cash Flow – Prevents excessive capital being tied up in
+inventory.
+5. Minimizing Losses – Reduces risks of spoilage, theft, and
+obsolescence.
+Technique for Effective Inventory Control – Economic Order
+Quantity (EOQ):
+The EOQ model determines the optimal order quantity that
+minimizes total inventory costs, including ordering and holding
+costs.
+EOQ Formula:
+EOQ=2DSHEOQ = \sqrt{\frac{2DS}{H}}
+Where:
+• D = Annual demand
+•   S = Ordering cost per order
+********** 12 **********
+--- page 13 ---
+• H = Holding cost per unit per year
+Conclusion
+Effective inventory control enhances cost efficiency, smooth
+operations, and customer satisfaction. Techniques like EOQ help
+businesses maintain an optimal balance between demand and supply.
+********** 13 **********
 ````
 
 ## 2024-25 · Final-Exam · Sem 2 · Answer key · paper 977fdbff22eb

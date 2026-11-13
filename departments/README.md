@@ -4,26 +4,32 @@ Subjects grouped by the department (branch) whose programmes set the papers. A s
 
 | Department | Subjects | Papers | Questions |
 | --- | ---: | ---: | ---: |
-| [AI and Data Science](AI%20and%20Data%20Science/README.md) | 50 | 220 | 2358 |
-| [AI and Machine Learning](AI%20and%20Machine%20Learning/README.md) | 49 | 201 | 2121 |
-| [Artificial Intelligence](Artificial%20Intelligence/README.md) | 170 | 1012 | 11759 |
-| [Chemical](Chemical/README.md) | 124 | 1004 | 12921 |
-| [Civil](Civil/README.md) | 169 | 1712 | 21200 |
-| [Common (all branches)](Common%20%28all%20branches%29/README.md) | 322 | 3223 | 42235 |
-| [Computer Applications (MCA)](Computer%20Applications%20%28MCA%29/README.md) | 72 | 768 | 9804 |
-| [Computer Engineering](Computer%20Engineering/README.md) | 279 | 2775 | 32326 |
-| [Computer Science](Computer%20Science/README.md) | 69 | 268 | 2690 |
-| [Computer Science and Business Systems](Computer%20Science%20and%20Business%20Systems/README.md) | 86 | 470 | 5084 |
-| [Cyber Security](Cyber%20Security/README.md) | 87 | 449 | 4667 |
-| [Data Science](Data%20Science/README.md) | 252 | 1786 | 18075 |
-| [Electrical](Electrical/README.md) | 39 | 138 | 1973 |
-| [Electronics](Electronics/README.md) | 36 | 154 | 1987 |
-| [Electronics and Telecommunication](Electronics%20and%20Telecommunication/README.md) | 234 | 1982 | 25128 |
-| [Industrial Automation](Industrial%20Automation/README.md) | 10 | 30 | 395 |
-| [Information Technology](Information%20Technology/README.md) | 279 | 2551 | 28797 |
-| [Manufacturing](Manufacturing/README.md) | 32 | 215 | 2497 |
-| [Mechanical](Mechanical/README.md) | 227 | 2175 | 26556 |
-| [Mechatronics](Mechatronics/README.md) | 127 | 802 | 9874 |
-| [Open Electives](Open%20Electives/README.md) | 5 | 5 | 42 |
-| [PhD Research](PhD%20Research/README.md) | 2 | 12 | 132 |
-| [Real Estate and Construction Management](Real%20Estate%20and%20Construction%20Management/README.md) | 31 | 134 | 1635 |
+| [AI and Data Science](AI%20and%20Data%20Science/README.md) | 50 | 228 | 2481 |
+| [AI and Machine Learning](AI%20and%20Machine%20Learning/README.md) | 49 | 205 | 2260 |
+| [Artificial Intelligence](Artificial%20Intelligence/README.md) | 170 | 1024 | 12642 |
+| [Arts (BA)](Arts%20%28BA%29/README.md) | 1 | 1 | 6 |
+| [B.Sc Information Technology](B.Sc%20Information%20Technology/README.md) | 17 | 54 | 305 |
+| [Chemical](Chemical/README.md) | 124 | 1004 | 14019 |
+| [Civil](Civil/README.md) | 171 | 1751 | 23896 |
+| [Commerce](Commerce/README.md) | 82 | 378 | 1472 |
+| [Common (all branches)](Common%20%28all%20branches%29/README.md) | 323 | 3231 | 45630 |
+| [Computer Applications (MCA)](Computer%20Applications%20%28MCA%29/README.md) | 72 | 778 | 10370 |
+| [Computer Engineering](Computer%20Engineering/README.md) | 284 | 2870 | 34834 |
+| [Computer Science](Computer%20Science/README.md) | 69 | 276 | 2823 |
+| [Computer Science and Business Systems](Computer%20Science%20and%20Business%20Systems/README.md) | 86 | 474 | 5307 |
+| [Cyber Security](Cyber%20Security/README.md) | 87 | 456 | 4944 |
+| [Data Science](Data%20Science/README.md) | 252 | 1823 | 19351 |
+| [Electrical](Electrical/README.md) | 39 | 138 | 2032 |
+| [Electronics](Electronics/README.md) | 36 | 154 | 2528 |
+| [Electronics and Telecommunication](Electronics%20and%20Telecommunication/README.md) | 235 | 2015 | 26731 |
+| [Industrial Automation](Industrial%20Automation/README.md) | 10 | 30 | 446 |
+| [Information Technology](Information%20Technology/README.md) | 280 | 2583 | 31103 |
+| [Management Studies](Management%20Studies/README.md) | 10 | 31 | 134 |
+| [Manufacturing](Manufacturing/README.md) | 32 | 215 | 2734 |
+| [Mechanical](Mechanical/README.md) | 227 | 2240 | 29297 |
+| [Mechatronics](Mechatronics/README.md) | 127 | 806 | 10426 |
+| [Multimedia and Mass Communication](Multimedia%20and%20Mass%20Communication/README.md) | 1 | 2 | 3 |
+| [Open Electives](Open%20Electives/README.md) | 5 | 5 | 43 |
+| [PhD Research](PhD%20Research/README.md) | 2 | 12 | 150 |
+| [Real Estate and Construction Management](Real%20Estate%20and%20Construction%20Management/README.md) | 32 | 136 | 1947 |
+| [Science (B.Sc)](Science%20%28B.Sc%29/README.md) | 2 | 2 | 0 |

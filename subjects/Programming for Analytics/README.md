@@ -1,6 +1,6 @@
 # Programming for Analytics
 
-**10** unique papers (14 copies across programmes) · 2022-23 to 2025-26 · 5 programmes · Sem 1, Sem 4, Sem 8
+**11** unique papers (15 copies across programmes) · 2022-23 to 2025-26 · 6 programmes · Sem 1, Sem 4, Sem 8
 
 Download only this subject, sorted by academic year:
 
@@ -21,6 +21,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Re-Exam | Question paper | Sem 1 | MASTER OF TECHNOLOGY - DATA SCIENCE (BU | QP_Programming for Analytics(703DB0C048)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 1 | MASTER OF TECHNOLOGY - DATA SCIENCE (BU | ANS_Programming for Analytics(703DB0C048)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / I T | Programming for Analytics, Final Exam 2024-25 & Re Exam 2022-23, 2023-24.pdf |
+| 2024-25 | Final + Re-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / IT | Programming_for_Analytics_Batch_2024-25_Final_Batch_2022-23_2023-24_Re_Exam_Vq8oR1cHwX.pdf |
 | 2024-25 | Final-Exam | Question paper |  | M TECH / DATA SCIENCE | Programming for Analytics Batch 2024-25 Final.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 4 | B TECH / I T, MBA TECH / I T | Programming for Analytics, Final & Re Exam 2022-23.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 4 | B TECH / I T, MBA TECH / I T | Programming for Analytics , Re-exam 2022-2023.pdf |

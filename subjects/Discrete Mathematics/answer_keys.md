@@ -2,6 +2,201 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 1 · Answer key · paper 69e343085206
+
+- Departments: B.Sc Information Technology
+- Programmes: Bachelor of Science (Information Technology) - 45618
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Science (Information Technology) - 45618/Discrete Mathematics/ANS_Final-Exam_Discrete Mathematics(NHDSM109)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 07 Oct 2025
+- Text: mixed (7 pages), mean OCR confidence 71.7
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Science (Information Technology)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Discrete Mathematics
+Date: 07 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 7 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks.
+4. Scientific calculator is allowed .
+1.   Solve the following:(Attempt Any 2 Questions)   10
+5
+A.
+5
+Page 1 of 7
+--- page 2 ---
+If A= {1/x: 2 €N,2 < 5} and B= {1/27 : 2 €N,zx < 6}, list the elements of A— B, B— A,
+and find the value of n(B x A).
+
+Solution
+
+A= {1,1/2,1/3,1/4} > [1 marks ]
+B = {1/2,1/4, 1/6, 1/8, 1/10, 1/12} > [1 marks ]
+A-—B= {1,1/3} > [1 marks ]
+
+B—A={1/6,1/8,1/10, 1/12} + [1 marks ]
+n(B x A) =6x4= 24 > [1 marks |
+
+Prove that sum of two rational numbers is rational.
+
+Proof:
+Let the two rational numbers be x and y. By definition of rational numbers, there exist integers
+a,b,c,d with b # 0 and d #0 such that:
+
+g—-2 -£
+|
+— [3 marks |
+Then their sum is:
+a c_ ad+be
+t+y=7+>5=
+
+bod bd
+Since ad + be and bd are integers and bd # 0, x + y is rational.
+— [2 marks ]
+
+Solve the following:(Attempt Any 2 Questions)
+
+Page 2 of 7
+
+10
+--- page 3 ---
+Prove that the sum of the squares of the first m natural numbers is
+
+2 a(n+1)(2n+ 1)
+
+1742743? +..-4+n :
+
+for all integers n > 1.
+
+Solution:
+Step 1: Base case (n = 1):
+
+[1+ 12-141) 1-2-3
+
+=1 and
+an 6 6
+
+=1.
+
+So the formula holds for n = 1. + [1 marks ]
+Step 2: Inductive hypothesis: Assume that for some integer k > 1,
+K(k + 1)(2k +1)
+
+2,92... 4 BPR
+nm +art k 3
+
+9
+
+— [1 marks |
+Step 3: Inductive step: Consider n = & + 1:
+
+2 Rk +1Qk+)
+
+ZB,ot, . ae 4
+P42 +h +(k41) 7
+
++ (hk + 1? (by hypothesis).
+Factor (& + 1) from the right-hand side:
+
+k(k + 1)(2k +1) 7 k(2k +1)
+a +(eenr= (e+) (AAD SG +n)).
+
+Simplify the expression inside the parentheses:
+
+k(2k +1)
+6
+
+2+ k+GkK+6 2h +TkR+6   (k+2)(2k +3)
+
++(k+1)= 5 7 7
+So we get:
+
+(k+2)(Q2k+38) — (k+1)(k+2)(2k +3)
+: 6 ~ i ;
+
+P4P4..-4(k+1P =(k41)
+
+This matches the formula form = k+ 1. + [3 marks |
+
+Page 3 of 7
+--- page 4 ---
+C.
+
+Solve the recurrence relation:
+
+by = —Abp_y — Abo, bg = 0, By = —1
+
+Solution 1
+
+Characteristic equation:
+r+4r+4=0 = (r+2)?=0 = r=-—2 (double root)
+
+— [1 marks |
+General solution:
+by, = A(—2)* + Bk(—2)*
+
+—> [2 marks |
+Apply initial conditions:
+
+b =0 = A=0, b =-1 = -2B=-1 => B=5
+
+— [2 marks |
+
+by = sh-2) | k>0
+
+Let f : Z— Z be defined by
+f(x) =2r+3
+
+Determine whether f is one-one and onto. If the inverse exists, find f—!(x).
+
+Solution
+
+Step 1: Check one-one
+
+Suppose f (21) = f (x2):
+
+27, +3=2794+3 => 21 =29
+
+Hence, f is one-one. + [ 2 marks ]
+Step 2: Check onto
+
+For any y € Z, solve y= 27 +3 => r= a Since oe € Z only if y — 3 is even, not all
+integers are reachable.
+
+=> f is not onto. + [ 3 marks ].
+
+Solve the following:(Attempt Any 2 Questions)
+
+Page 4 of 7
+
+10
+--- page 5 ---
+teint whe po $56 HF otD9
+
+=1A9 6. OO
+ae
+
+Page 5 of 7
+
+*)
+--- page 6 ---
+a3
+
+L(an) = 94
+
+Math => ASE SD.
+
+Page 6 of 7
+--- page 7 ---
+Page 7 of 7
+````
+
 ## 2025-26 · Final-Exam · Sem 3 · Answer key · paper dd6992aaf46e
 
 - Departments: AI and Machine Learning, Artificial Intelligence, Computer Engineering, Computer Science and Business Systems, Cyber Security, Data Science, Electronics and Telecommunication, Information Technology
@@ -2622,6 +2817,195 @@ Further, there is « chose path ? = (1,2.4,3,1) which covers all the vertices ex
 Ay has o Hamiltonian cireuit bat not Eulerian circuit. [1 Mark]
 
 FOI 7 6 FC Cr
+````
+
+## 2025-26 · Re-Exam · Sem 1 · Answer key · paper 8202dc864462
+
+- Departments: B.Sc Information Technology
+- Programmes: Bachelor of Science (Information Technology) - 45618
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Science (Information Technology) - 45618/Discrete Mathematics/ANS_Re-Exam_Discrete Mathematics(NHDSM109)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 23 Jan 2026
+- Text: mixed (6 pages), mean OCR confidence 74.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Science (Information Technology)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Discrete Mathematics
+Date: 23 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 6 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks.
+4. Scientific calculator is allowed .
+1.   Solve the following:(Attempt Any 2 Questions)   10
+A.   5
+Page 1 of 6
+--- page 2 ---
+Given sets A, B,C where the symmetric difference is defined by
+AAB = (A— B)U(B-A)
+Let A = {a,b,c,d}, B = {c,d,e, f}, C = {e, f,g,h}. Find the set (AAB)AC.
+
+Solution
+
+First, compute AAB:
+A— B= {a,b} > [1 marks ]
+
+B-—A= {e, f} — [1 marks ]
+Thus, AAB = {a,b,e, f}
+Next, compute (AAB)AC:
+C= {e, fg; h}
+(AAB) — C = {a,b} > [1 marks ]
+C — (AAB) = {g,h} > [1 marks ]
+So (AAB)AC = {a,b,g,h} — [1 marks ]
+
+Page 2 of 6
+--- page 3 ---
+2.
+
+Show that ifa@ |b and b| c, then a | c
+
+Proof:
+Suppose a |b and 5|c. Then there exist integers & and | such that:
+
+b=ak, c=A4l
+
+— [3 marks ]
+Substituting b = ak into ¢ = bl:
+c = (ak)l = a(kl)
+
+= [1 marks ]
+Since él is an integer, a | c. ++ [1 marks |
+
+Solve the following:(Attempt Any 2 Questions)
+
+Page 3 of 6
+
+10
+--- page 4 ---
+Use mathematical induction to prove that for all integers n > 1,
+
+5” — 1 is divisible by 4.
+
+Solution:
+Step 1: Base case (n = 1):
+5s}_1=4,
+
+which is divisible by 4. So the base case holds. + [1 marks ]
+Step 2: Inductive hypothesis: Assume that for some integer k > 1,
+
+5* _ 1 is divisible by 4.
+Then there exists an integer m such that
+5* 1 =4m.
+
+— [1 marks ]
+Step 3: Inductive step: Consider n = k + 1:
+
+pett_4 5-5 15-5 5 44=5(5* 1) 44.
+By the inductive hypothesis, 5* — 1 = 4m, so:
+5e+T _ 1 — 5(4m) + 4 = 20m +4 =4(5m + 1),
+
+which is divisible by 4. Hence the statement is true for n = k + 1.
+— [3 marks ]
+Conclusion: By mathematical induction, 5" — 1 is divisible by 4 for all n > 1.
+
+Solve the recurrence relation:
+
+Ce = —Bep_1 —9cp-a, co =1, ¢ =—3
+
+Solution 2
+
+Characteristic equation:
+r+6r+9=0 = (r+3)?=0 = r=-—3 (double root)
+
+— [1 marks ]
+General solution:
+ch = A(—3)* + Bk(—3)*
+— 2 marks |
+Apply initial conditions:
+
+o@=1 => A=1, 4 =-3 = -3A-3B=-3 = B=0
+
+ce = (—3)* |, k>0
+
+— [2 marks |
+
+Page 4 of 6
+--- page 5 ---
+Determine whether the function f : R + R defined by
+f(z) =32+2
+
+is one-one and onto. If the inverse exists, find f—'(z).
+
+Solution 1
+
+Step 1: Check one-one (injective)
+Suppose f(x1) = f(r):
+37, +2=—3904+2 = 32, =399 => 1 =29
+Hence, f is one-one. + [ 2 marks ]
+
+Step 2: Check onto (surjective)
+Let y € R. Solve y = 32 + 2 for z:
+
+=-— eR
+x 5 €
+Hence, f 1s onto.
+— [2 marks }
+Step 3: Find inverse
+fa) = 2"
+3
+2
+f is one-one and onto, f-'(x) = * 3
+
++ [1 marks }
+
+Solve the following:(Attempt Any 2 Questions)
+
+Show that the relation
+R= {(a,b) €Zx Z: a—bis divisible by 4}
+is an equivalence relation on Z.
+
+Solution: Reflexive: a — a = 0 is divisible by 4. + [ 1 marks ].
+Symmetric: if a — b divisible by 4, then b — a = —(a — b) divisible by 4.
+— [2 marks ].
+Transitive: if a — b and b — c divisible by 4, then a — c = (a — b) + (b—c) divisible by 4. > R is
+an equivalence relation. + [ 2 marks ].
+
+Page 5 of 6
+
+10
+--- page 6 ---
+6 4 |
+S i. Or 8
+Yul NqF\, TD
+2d 5/4 an 7 :
+
+x™\ |
+— 0 :
+(5) 7 (ar) os o~ 3
+* is] 5 es ee ae
+a fp cc
+2 at e zal IS
+pe RRS > fim)
+oo — ly,
+bin! Db deng. Yom
+Taeq az 6 Rhete » A moe
+adegb= & | ea
+Aeg c= G
+deg = 5
+dég € =3
+2 SA efv)=d6 > fm)
+
+ke GA
+
+-- dea ) = IAx2 “text
+
+Page 6 of 6
 ````
 
 ## 2025-26 · Re-Exam · Sem 4 · Answer key · paper d7bd93ca29e8
@@ -8613,6 +8997,569 @@ circuit if and only if each of its vertices t way k j
 Lwin k
 ````
 
+## 2024-25 · Final-Exam · Sem 3 · Answer key · paper 8596e7048fbb
+
+- Departments: AI and Data Science
+- Programmes: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE) - 7056
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE) - 7056/Discrete Mathematics/ANS_Final-Exam_Discrete Mathematics(702BS0C047)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 25 Nov 2024
+- Text: mixed (20 pages), mean OCR confidence 66.6
+
+````text
+Synoptic
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CE)/B. Tech (CSBS)/B. Tech (CSE -
+CS)/B. Tech - (CSEDS)/B. Tech (EXTC)/B. Tech (IT)/MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech
+(EXTC)/MBA. Tech (IT)
+Year: II/Semester III/Semester V (Exam Year: 2024-2025)
+Subject: Discrete Mathematics
+Date: 25 Nov 2024   Time: 10:00 am - 01:00 pm (03:00 Hrs.)
+Max Marks: 100
+FINAL EXAMINATION(2024-2025)
+Instructions:
+1. This Synoptic paper contains 20 pages
+2. Part A is compulsory.
+3. Attempt any 4 questions from part B
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figure in right hand side indicates full marks.
+8. Assume Suitable data if necessary.
+.   Part A (Compulsory)   20
+i.
+4
+Page 1 of 20
+--- page 2 ---
+il.
+
+Ap xem tx & bb}
+
+Ke f(a. ae 45)
+
+Re {O9, 2) U9), OY) 29, 62) 6.3), BD 62), Uy)
+Chest (3) ER
+
+~ Ry wet veflexne = —— (mM)
+Me (uu) ER
+
+BR yom reflesng = (1)
+¥ AYER baek
+
+ah OQae 4 es 4 bt4 250
+
+5 Rh Syrnmiig (i)
+Ae 2, U,a)ER ba EER
+Ro met Wansite — (1)
+
+‘
+a)
+
+Page 2 of 20
+--- page 3 ---
+* API Viannwp) are]
+5S ~ te eee 20 é
+| Pie ae Oe | YAP (GAPIVCGAwP ) |
+
+Be sh | F i ea | |
+| ah : T | FE = |
+a ee |
+re ee ne es coe Sh Sia I |
+| © ae eet eS a
+CMs)" ((UMES) (mks)
+
+Come Cir4ks)
+
+Divide the circle into 6 equal parts by drawing radii so that angle between two consecutive radii is 5
+(1M)
+
+iii. Consider these six parts as pigeonholes (m) and given 7 points as pigeons (n). n > m. (1M)
+By the pigeonhole principle, there is a part containing at least =| = | = 2 points. The distance between
+these two is at most 1. (2M)
+
+a) (@) K33
+1 Mark
+(ii) Cs
+1 Mark
+iv.
+b)
+vy Vi,
+2 Marks
+V;
+V;3
+Vv.
+
+Page 3 of 20
+--- page 4 ---
+.   Part B(Attempt Any 4 Questions)   80
+1.   20
+6
+i. 1. Form the characteristic equation:
+The recurrence relation is transformed into a characteristic equation:
+2
+r −5r+6 = 0   (1 mark)
+2. Solve the characteristic equation:
+2
+Solve r −5r+6=0 to get the roots r 1 =2, r 2 =3.   (1 mark)
+3. Write the general solution:
+The general solution is:
+n   n
+a n =A(2 )+B(3 )   (1 mark)
+4. Apply initial conditions:
+Use a 0 =2 and a 1 =5 to solve for A and B.
+For a 0 =2:
+A+B=2
+For a 1 =5:
+2A+3B=5   (1 mark)
+5. Solve for constants A and B:
+Solving the system of equations gives A=1, B=1.   (1 mark)
+6. Final solution:
+Substitute A and B into the general solution:
+n n
+a n =2 +3   (1 mark)
+ii.
+6
+Page 4 of 20
+--- page 5 ---
+uy uy vy
+v2
+Ys
+v3
+Us ug U3 V4
+
+Necessary conditions for Isomorphism
+
+Graph-1 1
+1. Number of Vertices: 5 Mark
+
+2. Number of edges: 7
+3. Degree of Vertices: 4, 4. 3, 3.2
+
+Graph-2
+1. Number of Vertices: 5 L
+2. Number of edges: 7 Mark
+
+3. Degree of Vertices: 4, 4, 3, 3.2
+
+For mapping:
+
+Graph-1 Graph-2
+Vertex Degree of | Degree of | Vertex Degree of | Degree of
+A ; : 2
+Vertex adjacent Vertex adjacent =
+. Marks
+vertex vertex ——_
+Uy 3 3.4.4 V1 3 3.4.4.3
+U2 4 3.3.4.2 V2 2 44
+ug 2 4.4 V3 4 3.2.3.4
+U4 4 3.3.4.2 V4 3 3.4.4
+Us 3 3.4.4 Vs 4 3.3.4.2
+f(uy) = vy, f(z) = v3, f(g) = v2, f(ug) = Vs, f(s) = V4,
+2
+mark
+
+Since all necessary conditions are satisfied, given graphs are Isomorphic
+graphs.
+
+iii.
+
+Page 5 of 20
+--- page 6 ---
+Ke GO Qbez bk arb =ewn}
+
+TS legwike-
+
+—_—
+
+B She 4Q =2a ' ew HN Qéz,
+v (4,9€E ke
+— fain)
+A Kw oetlewe.
+it AWEK A axe B ew,
+Ss bra hb od eum
+= (baler, (1)
+SRB SYrmmdy
+Ww (0,6) (69 € &
+3 gabe bh en, b+c is even
+Oybs 2K, bet= 2%
+(ase) +( bee) = (Kats) (3m)
+vy atc e2[ With] = ec hewn,
+vy (Ac) ER. Heme RS Swivolonce .
+
+Fortier , Sine BW odd, So ev odd Weyer Wil be iy te
+oh Bo) dead todd = wm, (L ")
+
+Page 6 of 20
+--- page 7 ---
+ii. Solution:   6
+Step 1. List degrees of all vertices
+deg(v 1 ) = 3, deg(v 2 ) = 2, deg(v 3 ) = 3, deg(v 4 ) = 3, deg(v 5 ) = 3, deg(v 6 ) = 4
+Step 2. Arranging all vertices with descending order of their degrees
+v 6 (4), v 1 (3), v 3 (3), v 4 (3), v 5 (3), v 2 (2)
+Step 3. Assign colors using welsh-powell algorithm
+v 6 - Assign color 1 , current state v 6 (1)
+v 1 - Connected to v 6 , hence assign color 2 , current state v 6 (1), v 1 (2)
+v 3 - Connected to v 6 , but not connected to v 1 , hence assign color 2 ,
+current state v 6 (1), v 1 (2), v 3 (2)
+v 4 - Connected to v 6 , connected to v 3 , hence assign color 3 ,
+current state v 6 (1), v 1 (2), v 3 (2),v 4 (3)
+v 5 - Connected to v 6 , v 3 , v 4 hence assign color 4 ,
+Page 7 of 20
+--- page 8 ---
+current state v 6 (1), v 1 (2), v 3 (2),v 4 (3), v 5 (4)
+v 2 - Connected to v 1 , v 3 but not connected to v 1 , hence assign color 1 ,
+Final state v 6 (1), v 1 (2), v 3 (2),v 4 (3), v 5 (4),v 2 (1)
+Step 4: Conclusion
+The chromatic number of the graph χ(G) is 4 and the coloring scheme is v 6 (1), v 1 (2),
+v 3 (2),v 4 (3), v 5 (4),v 2 (1)
+8
+iii.
+3.   20
+i. Let's prove that this set of matrices forms a group under matrix multiplication and   6
+whether the group is abelian (i.e., commutative).
+Step 1: Closure
+For closure, we need to show that the product of any two matrices in the set is also a
+matrix of the same form.
+Let’s multiply two such matrices M(\alpha)(α) and (β), where \alphaα and \beta are two
+real numbers:
+Page 8 of 20
+--- page 9 ---
+M(\alpha) \cdot M(\beta) = \begin{pmatrix} \cos(\alpha) & -\sin(\alpha) \\ \sin(\alpha) &
+\cos(\alpha) \end{pmatrix} \cdot \begin{pmatrix} \cos(\beta) & -\sin(\beta) \\ \sin(\beta)
+& \cos(\beta) \end{pmatrix}
+Multiplying the matrices, we get:
+M(\alpha) \cdot M(\beta) = \begin{pmatrix} \cos(\alpha)\cos(\beta) -
+\sin(\alpha)\sin(\beta) & -\cos(\alpha)\sin(\beta) - \sin(\alpha)\cos(\beta) \\
+\sin(\alpha)\cos(\beta) + \cos(\alpha)\sin(\beta) & -\sin(\alpha)\sin(\beta) +
+\cos(\alpha)\cos(\beta) \end{pmatrix}
+Using trigonometric identities:
+\cos(\alpha + \beta) = \cos(\alpha)\cos(\beta) - \sin(\alpha)\sin(\beta)
+\sin(\alpha + \beta) = \sin(\alpha)\cos(\beta) + \cos(\alpha)\sin(\beta)
+Thus, the product is:
+M(\alpha + \beta) = \begin{pmatrix} \cos(\alpha + \beta) & -\sin(\alpha + \beta) \\
+\sin(\alpha + \beta) & \cos(\alpha + \beta) \end{pmatrix}
+This is still a matrix of the same form, with
+β as the new angle. Hence, the set is closed under matrix multiplication.   1.5 Marks
+Step 2: Associativity
+Matrix multiplication is associative in general. For any three matrices A, BB, and CC,
+we have:
+Thus, the set is associative under matrix multiplication.
+1 Mark
+Step 3: Identity Element
+The identity matrix II in this set is the rotation matrix where \alpha = 0α=0:
+Thus, M(0)M(0) is the identity element for this group.
+1 Mark
+Step 4: Inverse Element
+The inverse of a matrix (α) is another matrix in the set. To find the inverse, we look for
+(−α), since:
+M(\alpha) \cdot M(-\alpha) = M(0) = I
+Using trigonometric identities:
+M(-\alpha) = \begin{pmatrix} \cos(-\alpha) & -\sin(-\alpha) \\ \sin(-\alpha) & \cos(-
+\alpha) \end{pmatrix} = \begin{pmatrix} \cos(\alpha) & \sin(\alpha) \\ -\sin(\alpha) &
+\cos(\alpha) \end{pmatrix}
+Hence,M(α) has an inverse M(−α), which is also a matrix of the same form.   1
+Mark
+Step 5: Commutativity (Abelian Property)
+To check if the group is abelian, we need to verify whether matrix multiplication is
+commutative. Let's calculate AM(\alpha) \cdot M(\beta)(α)⋅A(β) and A
+M(\beta) \cdot M(\alpha)(β)⋅A(α):
+M(\alpha) \cdot M(\beta) = M(\alpha + \beta)
+Page 9 of 20
+--- page 10 ---
+A(α)⋅A(β)=A(α+β) A
+M(\beta) \cdot M(\alpha) = M(\beta + \alpha) = M(\alpha + \beta)
+(β)⋅A(α)=A(β+α)=A(α+β)
+Since matrix multiplication for these rotation matrices is commutative, the group is
+abelian.   1.5 Marks
+Conclusion
+The set of matrices \{ M(\alpha) \mid \alpha \in \mathbb{R} \}{A(α)∣α∈R}, where A
+M(\alpha)(α) is the rotation matrix:
+M(\alpha) = \begin{pmatrix} \cos(\alpha) & -\sin(\alpha) \\ \sin(\alpha) & \cos(\alpha)
+\end{pmatrix}
+A(α)=(cos(α)sin(α) −sin(α)cos(α) )
+forms an abelian group under matrix multiplication.
+ii.
+6
+8
+Page 10 of 20
+--- page 11 ---
+Given, the seeusvence polation %-
+An = BAn-| — 6AN-2D +0
+
+Chactaetorishe eats .
+
+mr sr x6 =O
+
+or, Pr BE-F
+
+pt+h-O0
+
+os, bn-3y CP) =O
+_—()
+
+Roots %
+
+An
+
+Pactrientac golution ar P=
+
+h 7 A.” 483
+
+\vel
+
+@,= 2 and 5-2.
+Genou) solution for the Rornepjenea® pot $
+
+—_A)
+
+——_U)
+
+cn+D-
+
+NH PeELsTeNnce elation 3
+
+a)
+
+roy +n
+
+Substitute tho
+@n+D= pfecn) 4D ~ ejers
+or, ENtD = 5en- 5C+D - GOn +126 -60+0
+‘ 2
+
+n-4e 4Go-0 =O
+
+os, ac
+os, (2¢-")® - (fe -20) =©
+~-2ID=
+sai =O Te-2d=0 8
+os, ¢= 2 os D> Fe = 4
+The eseeal gowtion © P
+an = an” + oO
+A.2% + B.3°+ Wott —w
+
+Page 11 of 20
+--- page 12 ---
+iii.
+4.   20
+i. Step 1: Verify Homomorphism Property   6
+Let x_1, x_2 \in Gx 1 ,x 2 ∈G. We want to show that:
+f(x_1 \ast x_2) = f(x_1) \ast f(x_2).
+f(x 1 ∗x 2 )=f(x 1 )∗f(x 2 ).
+First, calculate f(x_1 \ast x_2)f(x 1 ∗x 2 ) using the definition of ff:
+f(x_1 \ast x_2) = a \ast (x_1 \ast x_2) \ast a^{-1}.
+−1
+f(x 1 ∗x 2 )=a∗(x 1 ∗x 2 )∗a   .
+Now, calculate f(x_1) \ast f(x_2)f(x 1 )∗f(x 2 ) separately:
+f(x_1) = a \ast x_1 \ast a^{-1}, \quad f(x_2) = a \ast x_2 \ast a^{-1}.
+−1   −1
+f(x 1 )=a∗x 1 ∗a   , f(x 2 )=a∗x 2 ∗a   .
+The product f(x_1) \ast f(x_2)f(x 1 )∗f(x 2 ) is:
+f(x_1) \ast f(x_2) = (a \ast x_1 \ast a^{-1}) \ast (a \ast x_2 \ast a^{-1}).
+−1   −1
+f(x 1 )∗f(x 2 )=(a∗x 1 ∗a )∗(a∗x 2 ∗a   ).
+Using the associativity of the group operation \ast∗, we can rewrite this expression:
+f(x_1) \ast f(x_2) = a \ast x_1 \ast (a^{-1} \ast a) \ast x_2 \ast a^{-1}.
+−1   −1
+f(x 1 )∗f(x 2 )=a∗x 1 ∗(a ∗a)∗x 2 ∗a   .
+1
+Page 12 of 20
+--- page 13 ---
+−1
+Since a^{-1} \ast a = ea ∗a=e, where ee is the identity element in GG, this simplifies
+to:
+f(x_1) \ast f(x_2) = a \ast x_1 \ast x_2 \ast a^{-1}.
+−1
+f(x 1 )∗f(x 2 )=a∗x 1 ∗x 2 ∗a   .
+Thus, we have:
+f(x_1 \ast x_2) = a \ast x_1 \ast x_2 \ast a^{-1} = f(x_1) \ast f(x_2).
+−1
+f(x 1 ∗x 2 )=a∗x 1 ∗x 2 ∗a =f(x 1 )∗f(x 2 ).
+This shows that ff preserves the group operation, so ff is a homomorphism.
+02 Marks
+Step 2: Verify Bijectivity
+(a) Injectivity:
+To prove that ff is injective, we need to show that:
+f(x_1) = f(x_2) \implies x_1 = x_2 \quad \text{for all} \quad x_1, x_2 \in G.
+f(x 1 )=f(x 2 )⟹x 1 =x 2 for all x 1 ,x 2 ∈G.
+Assume that f(x_1) = f(x_2)f(x 1 )=f(x 2 ). This means:
+a \ast x_1 \ast a^{-1} = a \ast x_2 \ast a^{-1}.
+−1   −1
+a∗x 1 ∗a =a∗x 2 ∗a   .
+−1
+By multiplying both sides on the left by a^{-1}a   and on the right by aa, we get:
+x_1 = x_2.
+x 1 =x 2 .
+Thus, ff is injective.
+02 Marks
+(b) Surjectivity:
+To prove that ff is surjective, we need to show that for every y \in Gy ∈ G, there exists
+an x \in Gx ∈ G such that f(x) = yf(x)= y.
+Given any y \in Gy ∈ G, we need to find x \in Gx ∈ G such that:
+f(x) = a \ast x \ast a^{-1} = y.
+−1
+f(x)=a∗x∗a =y.
+−1
+Multiplying both sides on the left by a^{-1}a   and on the right by aa, we obtain:
+x = a^{-1} \ast y \ast a.
+−1
+x=a ∗y∗a.
+Since x \in Gx ∈ G, this shows that for every y \in Gy ∈ G, there exists an x \in Gx ∈ G
+such that f(x) = yf(x)=y. Therefore, ff is surjective.   02 Marks
+Conclusion:
+Since ff is both a homomorphism and bijective, it is an isomorphism. Therefore, the
+−1
+map f(x) = a \ast x \ast a^{-1}f(x)=a∗x∗a   is an isomorphism of the group (G, \ast)
+(G,∗).
+ii.
+6
+Page 13 of 20
+--- page 14 ---
+Let us assume the contrary that root 3 is
+rational. Then v3 = p/q, where p, q are the
+integers i.e., p, q& Z and co-primes, i.e.,
+GCD (p,q) =1.
+
+v3 = p/q
+»>p=v3q
+
+By squaring both sides, we get,
+
+p*=3q
+
+(1) shows that 3 is a factor of p. (Since we
+
+know that by theorem, if ais a prime
+
+number and if a divides p2, thena aA
+p, where ais a positive integer)
+
+Here 3 is the prime number that divides
+
+p*, then 3 divides p and thus 3 is a factor
+of p.
+
+ili.
+
+[ Step | Description | Figure | Weight
+
+Page 14 of 20
+--- page 15 ---
+S-01   Start joining the   W=01 Unit
+vertices h and g   1M
+joining edge of
+minimum weight 1
+Unit
+S-02   Continue joining   W=03 Units
+vertices g and   1M
+f joining edge of
+minimum weight 2
+Unit
+S-03   Continue joining   W=07 Units
+vertices a and   1M
+b joining edge of
+minimum weight 4
+Unit
+**These are
+disjoint graphs
+S-04   Continue joining   W=13 Units
+g and i for 6 Unit   1M
+distance
+**These are
+disjoint graphs
+S-05   Further we cannot   W=20 Units
+proceed to join g   1M
+with any other
+point so for next
+minimum distance
+7 units joining
+vertices c and d.
+**These are
+disjoint graphs
+S-06   Connecting   W=28 Units
+vertices a and h for   1M
+next available
+minimum distance
+of 8 units
+**These are
+disjoint graphs
+S-07   Connecting   W=36 Units
+vertices b and c for   1M
+next available
+minimum distance
+of 8 units
+Page 15 of 20
+--- page 16 ---
+S-08   Finally in order to   W=45 Units
+complete the tree   1M
+for all vertices one
+shall join vertices
+d and e for next
+available minimum
+distance of 9 units
+END Algorithm
+5.   20
+i.
+6
+6
+Page 16 of 20
+--- page 17 ---
+ii.
+iii.
+1M   8
+Closed: 1.   For any integers a, b, c and d
+one will have
+Where
+And
+Therefore, the set   is closed
+under the operations of usual addition
+and multiplication.
+1M
+Associative 1.   (addition)
+1M
+Commutative 1.   (Addition)
+Therefore
+Page 17 of 20
+--- page 18 ---
+1M
+Additive 1.   Identity
+If for some   one has
+Then   Hence
+additive identity exists.
+1M
+Additive 1.   Inverse
+If for some one has
+Then   Hence
+additive inverse exists for all elements
+in   .
+This implies the set   is an
+Abelian group under addition.
+1M
+Associative 1.   (Multiplication)
+1M
+Unity 1.
+Hence unit element exits for all
+members
+1M
+Distributive 1.
+Hence   is a ring.
+6.   20
+Page 18 of 20
+--- page 19 ---
+Page 19 of 20
+--- page 20 ---
+3. Determine if the given graph has   8
+In case a path exists, the sequence can be different then mentioned here. Examiner will
+need to verify the path.
+2m for each step
+Solution:
+1. Eulerian path does not exist
+2. Eulerian cycle does not exist
+3. Hamilton Path exists d-a-e-b-f-c
+4. Hamilton Cycle exists d-a-e-b-f-c-d
+Page 20 of 20
+````
+
 ## 2024-25 · Final-Exam · Sem 3 · Answer key · paper 5ce90bbe78f5
 
 - Departments: AI and Machine Learning
@@ -14295,6 +15242,1040 @@ Homilbentoww oye does not expt (2m)
 (2m)
 
 FR ORR 9 CROCK RK
+````
+
+## 2024-25 · Re-Exam · Sem 3 · Answer key · paper 68bae90754eb
+
+- Departments: Cyber Security
+- Programmes: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY) - 7010
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Re-Exam/BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY) - 7010/Discrete Mathematics/ANS_Re-Exam_Discrete Mathematics(702BS0C047)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
+- Text: mixed (20 pages), mean OCR confidence 71.1
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+Synoptic
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CE)/B. Tech (CSBS)/B. Tech (CSE -
+CS)/B. Tech - (CSEDS)/B. Tech (EXTC)/B. Tech (IT)/MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech
+(EXTC)/MBA. Tech (IT)
+Year: II/Semester III/Semester V (Exam Year: 2024-2025)
+Subject: Discrete Mathematics
+Date: 13 Feb 2025   Time: 10:00 am - 01:00 pm (03:00 Hrs.)
+Max Marks: 100
+RE EXAMINATION(2024-2025)
+Instructions:
+1. This Synoptic paper contains 20 pages
+2. Part A is compulsory.
+3. Attempt any 4 questions from part B
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figure in right hand side indicates full marks.
+8. Assume Suitable data if necessary.
+.   Part A (Compulsory)   20
+i.
+4
+Page 1 of 20
+--- page 2 ---
+il.
+
+— \
+
+Az \ 123, 4,5, 6)
+
+R= Ge): alb)
+Re (uy, 0,43), OD, U6) 2, bo), 0), 63)
+4), uy), 6s) (OS) }
+
+Hes (Aa) EK YaEA & Rheuie
+
+1M
+
+nw Hf Q¥) EK, baer
+ay WDER bd BIEL
+4 Ke \h not SY mmetn'¢ / _—— | M
+
+-\
+Y RMRED & Rig wd wymrdi'e — |
+
+5)
+EAR= FO, 2.9 P42 WM) E900) ep
+
+
+Page 2 of 20
+--- page 3 ---
+* PAG) and cCeVaIANP CAMS)
+
+P ia |e | weave! Pva | CPVY)AMP |
+
+‘ue il a + | “¢
+J Ee ee:
+SE ae at: =f
+I | |
+7 ihe bei Na F c
+CIMks) cg Mks ) Cb ) UMKe 5
+
+log ae eq. urvalout” é UM)
+
+Let X be the family of 5-element subsets.
+Y = {15, 16, 17, ++ 240}. (Y being the set of sum of any 5-elements set of X) (1M)
+ji, Note that |Y| = 226 and |X| = ?°C,=252. (1M)
+Consider |Y| = m as pigeonholes and |X| = n as pigeons, (1M)
+Therefore by the pigeonhole principle, there are [2 sets in X with the same sum in Y. (1M)
+
+iv.
+a) By Handshaking theorem
+n
+deg (V;) = 2 X edges
+i=1
+
+Edges=18/2=9 2 Marks
+Yes graph exist.
+
+b) As we know that A tree with n vertices has n-1 edges.
+So tree with 7 vertices and 7 edges does not exists. 2 Marks
+
+Page 3 of 20
+--- page 4 ---
+If the identity element exists, let it be e.
+Then for any a € R,
+a*e=a
+Le., at+e+2ae=a
+i.e., e(1 + 2a) = 0
+e@=0, since 1 + 2a #0, for any ae R.
+Let qc_be the inverse of an element a € R. Thena * a! =e
+
+Le., ata'+2a-a'=0
+
+Le., a!- (1 + 2a) = -a (2 Marks)
+
+(2 Marks)
+
+__a
+1+2a
+
+1 -] : = _ d
+Ifa# 774 exists and i+ 20°
+
+Part B(Attempt Any 4 Questions)
+
+i. Fonm the characteristic equation:
+
+The recurrence relation is transformed into a characteristic equation:
+
+r>—-5r+6=0 (1 mark)
+ii. Solvethe characteristic equation:
+
+Solver?—5r+6=0 to get the roots r=2, r=3. (1 mark)
+iii. Write the general solution:
+
+The general solution is:
+
+an=A(2")+B(3") (1 mark)
+iv. Apply initial conditions:
+
+Use ap=2 and a;=5 to solve for A and B.
+
+For ap=2:
+
+A+B=2
+
+Forai=5:
+
+2A+3B=5 (1 mark)
+v. Solve for constants A and B:
+
+Solving the system of equations gives A=1, B=1. (1 mark)
+vi. Final solution:
+
+Substitute A and B into the general solution:
+
+An=22+3" (1 mark)
+
+i.
+
+Page 4 of 20
+
+80
+
+20
+--- page 5 ---
+1 2 3 a b
+SKI
+6 5 4 d c
+
+G H
+Necessary conditions for Isomorphism
+Graph-G
+7. Number of Vertices: 6
+8. Number of edges: 9 1
+9. Degree of Vertices: 3,3.3.3.3.3 Mark
+Graph-H 1
+7. Number of Vertices: 6 Mark
+8. Number of edges: 9
+9. Degree of Vertices: 3,3,3,3,3.3
+For mapping:
+Graph-G Graph-H
+Vertex Degree of | Degree of | Vertex Degree of | Degree of
+Vertex adjacent Vertex adjacent
+vertex vertex
+1 3 3.3.3 a 3 3.3.3
+2 3 3.3.3 b 3 3.3.3
+3 3 3.3.3 c 3 3.3.3
+4 3 3.3.3 d 3 3.3.3
+5 3 3.3.3 e 3 3.3.3 5
+6 3 3.3.3 f 3 3.3.3 <
+Marks
+fA=afQ=-bhfA=« fH=d fS)=f,f@ =e
+2
+Since all necessary conditions are satisfied, given graphs are Isomorphic Marks
+
+graphs.
+
+iii.
+
+Page 5 of 20
+--- page 6 ---
+Rs 2 (ABs AB},
+
+Site Sct ot Stumatie rnin of AL Mat AES.
+Cet (MAJER Ara’ ——(om)
+vo RB refleyve-
+(A ABER 4 A-B" w gr e(o")”
+vw B-4 24 b,A)ER
+
+BRS Syooratie (2")
+it .8),8.c) ER
+
+A-B), Bech 4g Aa (@)Ec- a7
+
+» (OER, (2 m)
+
+Page 6 of 20
+
+20
+--- page 7 ---
+ii. Step 1. List degrees of all vertices   1m   6
+deg(a) = 3, deg(b) = 3, deg(c) = 4, deg(d) = 3, deg(e) = 3, deg(f) = 3
+Step 2. Arranging all vertices with descending order of their degrees 1m
+c(4), a(3), b(3), d(3), e(3), f(3)
+Step 3. Assign colors using welsh-powell algorithm   3m
+c - Assign color 1 , current state c(1)
+a - Connected to c, hence assign color 2 , current state c(1), a(2)
+b - Connected to a,c, hence assign color 3 ,
+current state c(1), a(2),b(3)
+Page 7 of 20
+--- page 8 ---
+d - Connected to c and b, but not-connected to a, hence assign color 2 , current state
+c(1), a(2),b(3),d(2)
+e - Connected to a,c but not to d hence assign color 2 ,
+current state c(1), a(2),b(3),d(2),e(2)
+f - Connected to e,b,d, but not connected to c, hence assign color 1 ,
+Final state c(1), a(2),b(3),d(2),e(2),f(1)
+Step 4: Conclusion   1m
+The chromatic number of the graph chi(G) is 3 and the coloring scheme is c(1),
+a(2),b(3),d(2),e(2),f(1)
+iii.
+8
+3.   20
+i. (a) Closure axiom :−   All the elements of composition table   6
++ 6   0   1   2   3   4   5
+0   0   1   2   3   4   5
+1   1   2   3   4   5   0
+2   2   3   4   5   0   1
+3   3   4   5   0   1   2
+4   4   5   0   1   2   3
+5   5   0   1   2   3   4
+lies in G, it follows closure axiom.
+02 Marks
+Page 8 of 20
+--- page 9 ---
+(b) Associativity : − For a, b, c ∈ G
+a + 6 (b + 6 c) = (a + 6 b) + 6 c   (from table)   01 Mark
+(c) Identity :− From table we find ‘0’ is an identity element of G.
+01 Mark
+(d) Inverses :− All the elements of G are invertible and their inverses are
+−1   −1
+(0) =   0   (3)   =   3
+−1   −1
+(1) =   5   (4)   =   2
+−1   −1
+(2) =   4   (5)   =   1
+(e) Commutativity : It follows commutative law
+a, b ∈ G,   a + 6 b = b + 6 a
+G is an Abelian group with respect to ‘+ 6 ’.   02 Marks
+1
+(iv) 1   =   1
+2
+1   =   1 + 6   1   =   2
+3
+1   =   1 + 6   1 + 6 1 = 3
+4
+1   =   1 + 6   1 + 6   1 + 6   1 = 4
+5
+1   =   1 + 6   1 + 6   1 + 6   1 + 6
+6
+1   =   1 + 6   1 + 6   1 + 6   1 + 6
+1 is the generator of G
+G is a cyclic group
+01 Mark
+ii.
+6
+Page 9 of 20
+--- page 10 ---
+Q3:
+
+S: | study.
+F: | fail mathematics.
+
+B: | play basketball.
+
+"If | study, then | will not fail mathematics" becomes: S . +F. (1 Mark)
+"If | do not play basketball, then | will study’ becomes: -B -. S. (1 Mark)
+\ "But | failed mathematics" becomes F.
+Conclusion: "Therefore, | must have played basketball" becomes: B (1 Mark)
+
+Ss F B S. ~F (1 Mark) ~B-.S(1 Mark) | Conclusion B (1 Mark)
+
+na:
+
+Find the charaeteristic equation of he poxreiperelieg Rareqeeost past
+Qn= 9an-b + QAn-2
+
+Charactoxisti¢ won, PIPL =0 ®
+
+ay
+Roots ¢ P= 1+ 2
+Genel solution ¢
+Guess the pecicunn
+
+arf = Cnt D
+
+ake ACHE BCE) ie)
+goluhion of the non - Reenogeneous past
+— ()
+
+into the SeALVOLONCA polation,
+
+irate
+Subst (ns) D+ cca-a) +d +0
+
+Coto = 2%
+
+Page 10 of 20
+--- page 11 ---
+iii.
+4.   20
+i. Step 1: Check if ff is a Homomorphism   6
+First, recall that the group operation on G_1 \times G_2G 1 ×G 2 is defined component-
+wise. That is, for any (a_1, b_1), (a_2, b_2) \in G_1 \times G_2(a 1 ,b 1 ),(a 2 ,b 2 ) ∈ G 1 ×G 2
+, the group operation in G_1 \times G_2G 1 ×G 2 is:
+(a_1, b_1) \ast (a_2, b_2) = (a_1 \ast_1 a_2, b_1 \ast_2 b_2),
+(a 1 ,b 1 )∗(a 2 ,b 2 )=(a 1 ∗a 2 , b 1 ∗ b 2 ),
+Page 11 of 20
+--- page 12 ---
+Now, we check whether ff preserves the group operation. For any
+(a_1, b_1), (a_2, b_2) \in G_1 \times G_2(a 1 ,b 1 ), (a 2 ,b 2 ) ∈ G 1 ×G 2 , we need to verify
+that:
+f((a_1, b_1) \ast (a_2, b_2)) = f(a_1, b_1) \ast_1 f(a_2, b_2).
+f((a 1 ,b 1 )∗(a 2 ,b 2 ))=f(a 1 ,b 1 )∗f(a 2 ,b 2 ).
+The left-hand side is:
+f((a_1, b_1) \ast (a_2, b_2)) = f((a_1 \ast_1 a_2, b_1 \ast_2 b_2)) = a_1 \ast_1 a_2.
+f((a 1 ,b 1 )∗(a 2 ,b 2 ))=f((a 1 ∗ a 2 , b 1 ∗ b 2 ))=a 1 ∗ a 2 .
+The right-hand side is:
+f(a_1, b_1) \ast_1 f(a_2, b_2) = a_1 \ast_1 a_2.
+f(a 1 ,b 1 )∗f(a 2 ,b 2 )=a 1 ∗ a 2 .
+Since both sides are equal, we conclude that ff preserves the group operation. Thus, ff is
+a homomorphism.   02 Marks
+Step 2: Check if ff is Bijective
+(a) Injectivity:
+To prove that ff is injective, we need to show that if f(a_1, b_1) = f(a_2, b_2)f(a 1 ,b 1
+)=f(a 2 ,b 2 ), then (a_1, b_1) = (a_2, b_2)(a 1 ,b 1 )=(a 2 ,b 2 ).
+Suppose f(a_1, b_1) = f(a_2, b_2)f(a 1 ,b 1 )=f(a 2 ,b 2 ). By the definition of ff, this means:
+a_1 = a_2.
+a 1 =a 2 .
+However, knowing a_1 = a_2a 1 =a 2 does not imply that b_1 = b_2b 1 =b 2 . Therefore, ff
+is not injective.   02 Marks
+(b) Surjectivity:
+To prove that ff is surjective, we need to show that for every a \in G_1a∈G 1 , there exists
+some (a, b) \in G_1 \times G_2(a, b)∈ G 1 ×G 2 such that f(a, b) = af(a, b)=a.
+This is immediate from the definition of ff, since for any a \in G_1a ∈ G 1 , we can
+choose any b \in G_2b ∈ G 2 , and f(a, b) = af(a, b)=a. Therefore, ff is surjective.
+02 Marks
+Conclusion:
+The function ff is a homomorphism but is not injective, so it is not an isomorphism.
+However, it is surjective, but due to the lack of injectivity, ff does not qualify as an
+isomorphism between G_1 \times G_2G 1 ×G 2 and G_1G 1 .
+ii.
+6
+Page 12 of 20
+--- page 13 ---
+iii.
+Step   Description   Figure   Weight   8
+S-01   Start joining the   W=01 Unit
+vertices 6 and 7   1M
+joining edge of
+minimum weight 1
+Unit
+S-02   Continue joining   W=03 Units
+vertices 6 and   1M
+5 joining edge of
+minimum weight 2
+Unit
+S-03   Continue joining   W=07 Units
+vertices 5 and   1M
+2 joining edge of
+minimum weight 4
+Unit
+Page 13 of 20
+--- page 14 ---
+S-04   Continue joining   W=09 Units
+vertices 2 and   1M
+8 joining edge of
+minimum weight 2
+Unit
+S-05   The edges joining   W=16 Units
+vertices 8 with   1M
+7,6 could not
+preserve the tree
+structure so one
+should
+continuejoining
+edge joining 2 and
+3 of next available
+minimum weight 7
+Unit
+S-06   Continue joining   W=24 Units
+vertices 7 and   1M
+0 joining edge of
+weight 8 Unit
+S-07   Continue joining   W=28 Units
+vertices 0 and   1M
+1 joining edge of
+weight 4 Unit
+Page 14 of 20
+--- page 15 ---
+S-08   Finally joining   W=37 Units
+vertices 3 and 4   1M
+joining edge of
+weight 9 Unit
+END Algorithm
+(Everywhere
+Connected in all
+steps)
+5.   20
+6
+Page 15 of 20
+--- page 16 ---
+Factor out x:
+2(2—5y) =3—Ty
+Thus, the solution is:
+3—Ty
+toy
+2-5 (1)
+
+For this to be defined, y + 2, which is already excluded in the problem. Therefore, for any y € R
+
+{2}, there exists a corresponding z, proving that f is surjective.
+
+To find f~!, we solve f(x) — y for x, which we already did in the surjectivity step:
+
+7 3—Ty
+1 _
+MW) =,
+Thus, the inverse function is:
+3—Ty
+-1/,) —
+Lw=z Sy (1)
+i.
+i.
+
+Plonas_qrash A Graph that Cam be dyson Pr a Plane gn
+
+Sh g way Hat no edges axtervsect Feshotha —
+t Yalled a Plana Trp, —6n)
+
+—— Bm.
+
+orm a,
+
+iii. Addition Modulo 15 Table
+
+45 0 3 6 9 12
+0 0 3 6 9 12
+3 3 6 9 12 0
+6 6 9 12 0 3
+9 9 12 0 3 6
+12 12 0 3 6 9
+
+Page 16 of 20
+--- page 17 ---
+2M
+It is evident from the addition modulo composition table that   following
+postulates are always satisfied in support of   is an Abelian group with additive
+identity 0.
+1.   : Associative
+2.   : Commutative
+3.   : Additive Identity
+4.   ,   ,   ,
+1M
+Multiplication Modulo 15 Table
+0   3   6   9   12
+0   0   0   0   0   0
+3   0   9   3   12   6
+6   0   3   6   9   12
+9   0   12   9   6   3
+12   0   6   12   3   9
+2M
+It is evident from the a modulo composition table that   following postulates
+are always satisfied in support of   with unity (6).
+1.   : Associative
+2.   : Multiplication is Distributive over
+Addition
+3.   : Addition is Distributive over
+Multiplication
+4.   ,   ,   ,
+5. 1M
+6. Moreover Since
+But neither of the element is zero except when either a or b is zero, so this is not a
+ring with zero divisors and hence not an integral domain. So cannot be a field.
+1M
+Page 17 of 20
+--- page 18 ---
+Page 18 of 20
+
+20
+--- page 19 ---
+3. 2m for each step   8
+In case a path exists, the sequence can be different then mentioned here. Examiner will
+need to verify the path.
+Solution:
+1. Eulerian path does not exist
+Page 19 of 20
+--- page 20 ---
+2. Eulerian cycle exists a-b-c-d-e-c-a-d-b-e-a
+3. Hamilton Path exists a-b-c-d-e
+4. Hamilton Cycle exists a-b-c-d-e-a
+Page 20 of 20
+````
+
+## 2024-25 · Re-Exam · Sem 3 · Answer key · paper c5c625309533
+
+- Departments: Computer Engineering
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Re-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047/Discrete Mathematics/ANS_Re-Exam_Discrete Mathematics(702BS0C047)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
+- Text: mixed (20 pages), mean OCR confidence 71.1
+- 11 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+Synoptic
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CE)/B. Tech (CSBS)/B. Tech (CSE -
+CS)/B. Tech - (CSEDS)/B. Tech (EXTC)/B. Tech (IT)/MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech
+(EXTC)/MBA. Tech (IT)
+Year: II/Semester III/Semester V (Exam Year: 2024-2025)
+Subject: Discrete Mathematics
+Date: 13 Feb 2025   Time: 10:00 am - 01:00 pm (03:00 Hrs.)
+Max Marks: 100
+RE EXAMINATION(2024-2025)
+Instructions:
+1. This Synoptic paper contains 20 pages
+2. Part A is compulsory.
+3. Attempt any 4 questions from part B
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figure in right hand side indicates full marks.
+8. Assume Suitable data if necessary.
+.   Part A (Compulsory)   20
+i.
+4
+Page 1 of 20
+--- page 2 ---
+il.
+
+— \
+
+Az \ 123, 4,5, 6)
+
+R= Ge): alb)
+Re (uy, 0,43), OD, U6) 2, bo), 0), 63)
+4), uy), 6s) (OS) }
+
+Hes (Aa) EK YaEA & Rheuie
+
+1M
+
+nw Hf Q¥) EK, baer
+ay WDER bd BIEL
+4 Ke \h not SY mmetn'¢ / _—— | M
+
+-\
+Y RMRED & Rig wd wymrdi'e — |
+
+5)
+EAR= FO, 2.9 P42 WM) E900) ep
+
+
+Page 2 of 20
+--- page 3 ---
+* PAG) and cCeVaIANP CAMS)
+
+P ia |e | weave! Pva | CPVY)AMP |
+
+‘ue il a + | “¢
+J Ee ee:
+SE ae at: =f
+I | |
+7 ihe bei Na F c
+CIMks) cg Mks ) Cb ) UMKe 5
+
+log ae eq. urvalout” é UM)
+
+Let X be the family of 5-element subsets.
+Y = {15, 16, 17, ++ 240}. (Y being the set of sum of any 5-elements set of X) (1M)
+ji, Note that |Y| = 226 and |X| = ?°C,=252. (1M)
+Consider |Y| = m as pigeonholes and |X| = n as pigeons, (1M)
+Therefore by the pigeonhole principle, there are [2 sets in X with the same sum in Y. (1M)
+
+iv.
+a) By Handshaking theorem
+n
+deg (V;) = 2 X edges
+i=1
+
+Edges=18/2=9 2 Marks
+Yes graph exist.
+
+b) As we know that A tree with n vertices has n-1 edges.
+So tree with 7 vertices and 7 edges does not exists. 2 Marks
+
+Page 3 of 20
+--- page 4 ---
+If the identity element exists, let it be e.
+Then for any a € R,
+a*e=a
+Le., at+e+2ae=a
+i.e., e(1 + 2a) = 0
+e@=0, since 1 + 2a #0, for any ae R.
+Let qc_be the inverse of an element a € R. Thena * a! =e
+
+Le., ata'+2a-a'=0
+
+Le., a!- (1 + 2a) = -a (2 Marks)
+
+(2 Marks)
+
+__a
+1+2a
+
+1 -] : = _ d
+Ifa# 774 exists and i+ 20°
+
+Part B(Attempt Any 4 Questions)
+
+i. Fonm the characteristic equation:
+
+The recurrence relation is transformed into a characteristic equation:
+
+r>—-5r+6=0 (1 mark)
+ii. Solvethe characteristic equation:
+
+Solver?—5r+6=0 to get the roots r=2, r=3. (1 mark)
+iii. Write the general solution:
+
+The general solution is:
+
+an=A(2")+B(3") (1 mark)
+iv. Apply initial conditions:
+
+Use ap=2 and a;=5 to solve for A and B.
+
+For ap=2:
+
+A+B=2
+
+Forai=5:
+
+2A+3B=5 (1 mark)
+v. Solve for constants A and B:
+
+Solving the system of equations gives A=1, B=1. (1 mark)
+vi. Final solution:
+
+Substitute A and B into the general solution:
+
+An=22+3" (1 mark)
+
+i.
+
+Page 4 of 20
+
+80
+
+20
+--- page 5 ---
+1 2 3 a b
+SKI
+6 5 4 d c
+
+G H
+Necessary conditions for Isomorphism
+Graph-G
+7. Number of Vertices: 6
+8. Number of edges: 9 1
+9. Degree of Vertices: 3,3.3.3.3.3 Mark
+Graph-H 1
+7. Number of Vertices: 6 Mark
+8. Number of edges: 9
+9. Degree of Vertices: 3,3,3,3,3.3
+For mapping:
+Graph-G Graph-H
+Vertex Degree of | Degree of | Vertex Degree of | Degree of
+Vertex adjacent Vertex adjacent
+vertex vertex
+1 3 3.3.3 a 3 3.3.3
+2 3 3.3.3 b 3 3.3.3
+3 3 3.3.3 c 3 3.3.3
+4 3 3.3.3 d 3 3.3.3
+5 3 3.3.3 e 3 3.3.3 5
+6 3 3.3.3 f 3 3.3.3 <
+Marks
+fA=afQ=-bhfA=« fH=d fS)=f,f@ =e
+2
+Since all necessary conditions are satisfied, given graphs are Isomorphic Marks
+
+graphs.
+
+iii.
+
+Page 5 of 20
+--- page 6 ---
+Rs 2 (ABs AB},
+
+Site Sct ot Stumatie rnin of AL Mat AES.
+Cet (MAJER Ara’ ——(om)
+vo RB refleyve-
+(A ABER 4 A-B" w gr e(o")”
+vw B-4 24 b,A)ER
+
+BRS Syooratie (2")
+it .8),8.c) ER
+
+A-B), Bech 4g Aa (@)Ec- a7
+
+» (OER, (2 m)
+
+Page 6 of 20
+
+20
+--- page 7 ---
+ii. Step 1. List degrees of all vertices   1m   6
+deg(a) = 3, deg(b) = 3, deg(c) = 4, deg(d) = 3, deg(e) = 3, deg(f) = 3
+Step 2. Arranging all vertices with descending order of their degrees 1m
+c(4), a(3), b(3), d(3), e(3), f(3)
+Step 3. Assign colors using welsh-powell algorithm   3m
+c - Assign color 1 , current state c(1)
+a - Connected to c, hence assign color 2 , current state c(1), a(2)
+b - Connected to a,c, hence assign color 3 ,
+current state c(1), a(2),b(3)
+Page 7 of 20
+--- page 8 ---
+d - Connected to c and b, but not-connected to a, hence assign color 2 , current state
+c(1), a(2),b(3),d(2)
+e - Connected to a,c but not to d hence assign color 2 ,
+current state c(1), a(2),b(3),d(2),e(2)
+f - Connected to e,b,d, but not connected to c, hence assign color 1 ,
+Final state c(1), a(2),b(3),d(2),e(2),f(1)
+Step 4: Conclusion   1m
+The chromatic number of the graph chi(G) is 3 and the coloring scheme is c(1),
+a(2),b(3),d(2),e(2),f(1)
+iii.
+8
+3.   20
+i. (a) Closure axiom :−   All the elements of composition table   6
++ 6   0   1   2   3   4   5
+0   0   1   2   3   4   5
+1   1   2   3   4   5   0
+2   2   3   4   5   0   1
+3   3   4   5   0   1   2
+4   4   5   0   1   2   3
+5   5   0   1   2   3   4
+lies in G, it follows closure axiom.
+02 Marks
+Page 8 of 20
+--- page 9 ---
+(b) Associativity : − For a, b, c ∈ G
+a + 6 (b + 6 c) = (a + 6 b) + 6 c   (from table)   01 Mark
+(c) Identity :− From table we find ‘0’ is an identity element of G.
+01 Mark
+(d) Inverses :− All the elements of G are invertible and their inverses are
+−1   −1
+(0) =   0   (3)   =   3
+−1   −1
+(1) =   5   (4)   =   2
+−1   −1
+(2) =   4   (5)   =   1
+(e) Commutativity : It follows commutative law
+a, b ∈ G,   a + 6 b = b + 6 a
+G is an Abelian group with respect to ‘+ 6 ’.   02 Marks
+1
+(iv) 1   =   1
+2
+1   =   1 + 6   1   =   2
+3
+1   =   1 + 6   1 + 6 1 = 3
+4
+1   =   1 + 6   1 + 6   1 + 6   1 = 4
+5
+1   =   1 + 6   1 + 6   1 + 6   1 + 6
+6
+1   =   1 + 6   1 + 6   1 + 6   1 + 6
+1 is the generator of G
+G is a cyclic group
+01 Mark
+ii.
+6
+Page 9 of 20
+--- page 10 ---
+Q3:
+
+S: | study.
+F: | fail mathematics.
+
+B: | play basketball.
+
+"If | study, then | will not fail mathematics" becomes: S . +F. (1 Mark)
+"If | do not play basketball, then | will study’ becomes: -B -. S. (1 Mark)
+\ "But | failed mathematics" becomes F.
+Conclusion: "Therefore, | must have played basketball" becomes: B (1 Mark)
+
+Ss F B S. ~F (1 Mark) ~B-.S(1 Mark) | Conclusion B (1 Mark)
+
+na:
+
+Find the charaeteristic equation of he poxreiperelieg Rareqeeost past
+Qn= 9an-b + QAn-2
+
+Charactoxisti¢ won, PIPL =0 ®
+
+ay
+Roots ¢ P= 1+ 2
+Genel solution ¢
+Guess the pecicunn
+
+arf = Cnt D
+
+ake ACHE BCE) ie)
+goluhion of the non - Reenogeneous past
+— ()
+
+into the SeALVOLONCA polation,
+
+irate
+Subst (ns) D+ cca-a) +d +0
+
+Coto = 2%
+
+Page 10 of 20
+--- page 11 ---
+iii.
+4.   20
+i. Step 1: Check if ff is a Homomorphism   6
+First, recall that the group operation on G_1 \times G_2G 1 ×G 2 is defined component-
+wise. That is, for any (a_1, b_1), (a_2, b_2) \in G_1 \times G_2(a 1 ,b 1 ),(a 2 ,b 2 ) ∈ G 1 ×G 2
+, the group operation in G_1 \times G_2G 1 ×G 2 is:
+(a_1, b_1) \ast (a_2, b_2) = (a_1 \ast_1 a_2, b_1 \ast_2 b_2),
+(a 1 ,b 1 )∗(a 2 ,b 2 )=(a 1 ∗a 2 , b 1 ∗ b 2 ),
+Page 11 of 20
+--- page 12 ---
+Now, we check whether ff preserves the group operation. For any
+(a_1, b_1), (a_2, b_2) \in G_1 \times G_2(a 1 ,b 1 ), (a 2 ,b 2 ) ∈ G 1 ×G 2 , we need to verify
+that:
+f((a_1, b_1) \ast (a_2, b_2)) = f(a_1, b_1) \ast_1 f(a_2, b_2).
+f((a 1 ,b 1 )∗(a 2 ,b 2 ))=f(a 1 ,b 1 )∗f(a 2 ,b 2 ).
+The left-hand side is:
+f((a_1, b_1) \ast (a_2, b_2)) = f((a_1 \ast_1 a_2, b_1 \ast_2 b_2)) = a_1 \ast_1 a_2.
+f((a 1 ,b 1 )∗(a 2 ,b 2 ))=f((a 1 ∗ a 2 , b 1 ∗ b 2 ))=a 1 ∗ a 2 .
+The right-hand side is:
+f(a_1, b_1) \ast_1 f(a_2, b_2) = a_1 \ast_1 a_2.
+f(a 1 ,b 1 )∗f(a 2 ,b 2 )=a 1 ∗ a 2 .
+Since both sides are equal, we conclude that ff preserves the group operation. Thus, ff is
+a homomorphism.   02 Marks
+Step 2: Check if ff is Bijective
+(a) Injectivity:
+To prove that ff is injective, we need to show that if f(a_1, b_1) = f(a_2, b_2)f(a 1 ,b 1
+)=f(a 2 ,b 2 ), then (a_1, b_1) = (a_2, b_2)(a 1 ,b 1 )=(a 2 ,b 2 ).
+Suppose f(a_1, b_1) = f(a_2, b_2)f(a 1 ,b 1 )=f(a 2 ,b 2 ). By the definition of ff, this means:
+a_1 = a_2.
+a 1 =a 2 .
+However, knowing a_1 = a_2a 1 =a 2 does not imply that b_1 = b_2b 1 =b 2 . Therefore, ff
+is not injective.   02 Marks
+(b) Surjectivity:
+To prove that ff is surjective, we need to show that for every a \in G_1a∈G 1 , there exists
+some (a, b) \in G_1 \times G_2(a, b)∈ G 1 ×G 2 such that f(a, b) = af(a, b)=a.
+This is immediate from the definition of ff, since for any a \in G_1a ∈ G 1 , we can
+choose any b \in G_2b ∈ G 2 , and f(a, b) = af(a, b)=a. Therefore, ff is surjective.
+02 Marks
+Conclusion:
+The function ff is a homomorphism but is not injective, so it is not an isomorphism.
+However, it is surjective, but due to the lack of injectivity, ff does not qualify as an
+isomorphism between G_1 \times G_2G 1 ×G 2 and G_1G 1 .
+ii.
+6
+Page 12 of 20
+--- page 13 ---
+iii.
+Step   Description   Figure   Weight   8
+S-01   Start joining the   W=01 Unit
+vertices 6 and 7   1M
+joining edge of
+minimum weight 1
+Unit
+S-02   Continue joining   W=03 Units
+vertices 6 and   1M
+5 joining edge of
+minimum weight 2
+Unit
+S-03   Continue joining   W=07 Units
+vertices 5 and   1M
+2 joining edge of
+minimum weight 4
+Unit
+Page 13 of 20
+--- page 14 ---
+S-04   Continue joining   W=09 Units
+vertices 2 and   1M
+8 joining edge of
+minimum weight 2
+Unit
+S-05   The edges joining   W=16 Units
+vertices 8 with   1M
+7,6 could not
+preserve the tree
+structure so one
+should
+continuejoining
+edge joining 2 and
+3 of next available
+minimum weight 7
+Unit
+S-06   Continue joining   W=24 Units
+vertices 7 and   1M
+0 joining edge of
+weight 8 Unit
+S-07   Continue joining   W=28 Units
+vertices 0 and   1M
+1 joining edge of
+weight 4 Unit
+Page 14 of 20
+--- page 15 ---
+S-08   Finally joining   W=37 Units
+vertices 3 and 4   1M
+joining edge of
+weight 9 Unit
+END Algorithm
+(Everywhere
+Connected in all
+steps)
+5.   20
+6
+Page 15 of 20
+--- page 16 ---
+Factor out x:
+2(2—5y) =3—Ty
+Thus, the solution is:
+3—Ty
+toy
+2-5 (1)
+
+For this to be defined, y + 2, which is already excluded in the problem. Therefore, for any y € R
+
+{2}, there exists a corresponding z, proving that f is surjective.
+
+To find f~!, we solve f(x) — y for x, which we already did in the surjectivity step:
+
+7 3—Ty
+1 _
+MW) =,
+Thus, the inverse function is:
+3—Ty
+-1/,) —
+Lw=z Sy (1)
+i.
+i.
+
+Plonas_qrash A Graph that Cam be dyson Pr a Plane gn
+
+Sh g way Hat no edges axtervsect Feshotha —
+t Yalled a Plana Trp, —6n)
+
+—— Bm.
+
+orm a,
+
+iii. Addition Modulo 15 Table
+
+45 0 3 6 9 12
+0 0 3 6 9 12
+3 3 6 9 12 0
+6 6 9 12 0 3
+9 9 12 0 3 6
+12 12 0 3 6 9
+
+Page 16 of 20
+--- page 17 ---
+2M
+It is evident from the addition modulo composition table that   following
+postulates are always satisfied in support of   is an Abelian group with additive
+identity 0.
+1.   : Associative
+2.   : Commutative
+3.   : Additive Identity
+4.   ,   ,   ,
+1M
+Multiplication Modulo 15 Table
+0   3   6   9   12
+0   0   0   0   0   0
+3   0   9   3   12   6
+6   0   3   6   9   12
+9   0   12   9   6   3
+12   0   6   12   3   9
+2M
+It is evident from the a modulo composition table that   following postulates
+are always satisfied in support of   with unity (6).
+1.   : Associative
+2.   : Multiplication is Distributive over
+Addition
+3.   : Addition is Distributive over
+Multiplication
+4.   ,   ,   ,
+5. 1M
+6. Moreover Since
+But neither of the element is zero except when either a or b is zero, so this is not a
+ring with zero divisors and hence not an integral domain. So cannot be a field.
+1M
+Page 17 of 20
+--- page 18 ---
+Page 18 of 20
+
+20
+--- page 19 ---
+3. 2m for each step   8
+In case a path exists, the sequence can be different then mentioned here. Examiner will
+need to verify the path.
+Solution:
+1. Eulerian path does not exist
+Page 19 of 20
+--- page 20 ---
+2. Eulerian cycle exists a-b-c-d-e-c-a-d-b-e-a
+3. Hamilton Path exists a-b-c-d-e
+4. Hamilton Cycle exists a-b-c-d-e-a
+Page 20 of 20
 ````
 
 ## 2024-25 · Re-Exam · Sem 3 · Answer key · paper 0d50d8140bc2

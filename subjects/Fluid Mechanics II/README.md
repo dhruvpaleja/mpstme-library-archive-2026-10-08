@@ -1,6 +1,6 @@
 # Fluid Mechanics II
 
-**8** unique papers (8 copies across programmes) · 2011-12 to 2018-19 · 2 programmes · Sem 4, Trim 5
+**13** unique papers (13 copies across programmes) · 2011-12 to 2018-19 · 3 programmes · Sem 4, Sem 6, Trim 5
 
 Download only this subject, sorted by academic year:
 
@@ -14,9 +14,14 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2018-19 | Final-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / CIVIL | Fluid_Mechanics_II_2018-19_Final_5RfphENLv8.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 4 | MBA TECH / CHEMICAL | Fluid mechanics-II Final exam 2018-19.pdf |
+| 2017-18 | Final-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / CIVIL | Fluid_Mechanics_II_2017-18_Final_bCN18AzGtQ.pdf |
 | 2017-18 | Final-Exam | Question paper | Sem 4 | MBA TECH / CHEMICAL | Fluid mecahnics -II 2017-18 Final.pdf |
+| 2017-18 | Re-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / CIVIL | Fluid_Mechanics_II_Batch_2017-18_Re_Exam_mih86xEPfS.pdf |
+| 2016-17 | Final-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / CIVIL | Fluid_Mechanics_II_2016-17_Final_cXA9rFzgLx.pdf |
 | 2016-17 | Final-Exam | Question paper | Sem 4 | MBA TECH / CHEMICAL | FLUID MECHANICS II 2016-2017 FINAL.pdf |
+| 2016-17 | Re-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / CIVIL | Fluid_Mechanics_II_Batch_2016-17_Re_Exam_BkNdNhkhZJ.pdf |
 | 2016-17 | Re-Exam | Question paper | Sem 4 | MBA TECH / CHEMICAL | FLUID MECHANICS II BATCH 2016-2017 RE EXAM.pdf |
 | 2015-16 | Final-Exam | Question paper | Sem 4 | MBA TECH / CHEMICAL | Fluid Mechanics II Batch 2015-16 Final.pdf |
 | 2014-15 | Final-Exam | Question paper | Sem 4 | MBA TECH / CHEMICAL | FLUID MECHANICS II BATCH 2014-2015 FINAL.pdf |

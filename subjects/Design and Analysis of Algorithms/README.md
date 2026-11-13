@@ -1,6 +1,6 @@
 # Design and Analysis of Algorithms
 
-**87** unique papers (117 copies across programmes) · 2007-08 to 2025-26 · 18 programmes · Sem 2, Sem 4, Sem 5, Sem 6, Sem 8, Trim 2, Trim 3
+**96** unique papers (126 copies across programmes) · 2007-08 to 2025-26 · 19 programmes · Sem 2, Sem 4, Sem 5, Sem 6, Sem 8, Trim 2, Trim 3
 
 Download only this subject, sorted by academic year:
 
@@ -48,6 +48,8 @@ Also filed as: `DESIGN & ANALYSIS ALGORITHMS`, `DESIGN AND ANALYSS OF ALGORITHMS
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / COMPUTER, MBA TECH / COMPUTER | Design and Analysis of Algorithms, Sem IV, Final Exam 2024-25 & Re Exam 2022-23 a_2c6a9957.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / COMPUTER | Design and Analysis of Algorithms Batch 2024-25 Final Batch 2022-23,2023-24 Re Exam.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / CSBS | Design and Analysis of Algorithms, Sem-V, Final Exam 2024-25.pdf |
+| 2024-25 | Final-Exam | Question paper | Sem 4 | BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE) - 7011 | QP_Final-Exam_Design and Analysis of Algorithms(702CO0C010)_Semester IV_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 4 | BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE) - 7011 | ANS_Final-Exam_Design and Analysis of Algorithms(702CO0C010)_Semester IV_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 5 | B TECH / ARTIFICAL INTELLIGENCE, B TECH / CSBS | Design and Analysis of Algorithms, Sem-V, Batch 2024-25, Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 4 | BTech CSE DS 7011 | QP_Design and Analysis of Algorithms(702CO0C010)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 4 | BTech CSE DS 7011 | ANS_Design and Analysis of Algorithms(702CO0C010)_2024-2025.pdf |
@@ -66,16 +68,23 @@ Also filed as: `DESIGN & ANALYSIS ALGORITHMS`, `DESIGN AND ANALYSS OF ALGORITHMS
 | 2021-22 | Re-Exam | Question paper | Sem 4 | B TECH / CSE DATA SCIENCE | Design and Analysis of Algorithms, Sem-IV, Re-Exam, Year 2021-22 (2).pdf |
 | 2021-22 | Re-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / COMPUTER | Design and Analysis of Algorithm Batch 2021-22 Re Exam0001.pdf |
 | 2021-22 | Re-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / COMPUTER | Design and Analysis of Algorithms Batch 2021-22 Re Exam0001.pdf |
+| 2019-20 | Final + Re-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / COMPUTER | Design_and_Analysis_of_Algorithms_2019-20_Final_Batch_2017-18_2018-19_Re_Exam_BBgkJAqjSD.pdf |
+| 2018-19 | Final-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / COMPUTER | Design_and_Analysis_of_Algorithms_2018-19_Final_oXQY5tYiQm.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 2 | MCA | Design and Analysis of Algorithms 2018-19 Final.pdf |
+| 2018-19 | Re-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / COMPUTER | Design_and_Analysis_of_Algorithms_Batch_2017-18_2018-19_Re_Exam_F5zY3q8onb.tif |
 | 2018-19 | Re-Exam | Question paper | Sem 2 | MCA | Design and Analysis of Algorithms Batch 2018-19 Re Exam.pdf |
 | 2017-18 | Final-Exam | Question paper | Sem 5 | B TECH / COMPUTER | DESIGN & ANALYSIS OF ALGORITHMS (COMPUTER), FINAL EXAM 2017-18.pdf |
+| 2017-18 | Final-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / COMPUTER | Design_and_Analysis_of_Algorithms_2017-18_Final_oIiKkwlXqV.pdf |
 | 2017-18 | Final-Exam | Question paper | Sem 2 | MCA | Design and Analysis of Algorithms 2017-18 Final.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 5 | B TECH / COMPUTER | DESIGN AND ANALYSIS OF ALGORITHMS BATCH 14-15 15-16 16-17 RE EXAM 2017-18.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 5 | B TECH / COMPUTER | DESIGN AND ANALYSIS OF ALGORITHMS BATCH 17-18 RE EXAM 2017-18.pdf |
+| 2017-18 | Re-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / COMPUTER | Design_and_Analysis_of_Algorithms_Batch_2017-18_Re_Exam_KdZ3h9kPK3.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 2 | MCA | Design and Analysis of Algorithms Batch 2017-18 Re Exam.pdf |
+| 2016-17 | Final-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / COMPUTER | Design_and_Analysis_of_Algorithms_Batch_2016-17_Final_FQiX9bMJd7.pdf |
 | 2016-17 | Final-Exam | Question paper | Sem 2 | MCA | Design and Analysis of Algorithms 2016-17 Final.pdf |
 | 2016-17 | Re-Exam | Question paper | Sem 5 | B TECH / COMPUTER | DESIGN & ANALYSIS OF ALGORITHMS (COMPUTER), BATCH 14-15, 15-16, 16-17 RE EXAM.pdf |
 | 2016-17 | Re-Exam | Question paper | Sem 5 | B TECH / COMPUTER | DESIGN AND ANALYSIS OF ALGORITHMS BATCH 14-15, 15-16, 16-17 RE EXAM.pdf |
+| 2016-17 | Re-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / COMPUTER | Design_and_Analysis_of_Algorithms_Batch_2016-17_Re_Exam_RKeEqfphLZ.pdf |
 | 2016-17 | Re-Exam | Question paper | Sem 2 | MCA | Design and Analysis of Algorithms Batch 2016-17 Re Exam.pdf |
 | 2015-16 | Final-Exam | Question paper | Sem 5 | B TECH / COMPUTER | DESIGN AND ANALYSIS OF ALGORITHMS B TECH (COMPUTER), 2015-16 FINAL EXAM.pdf |
 | 2015-16 | Final-Exam | Question paper | Sem 2 | MCA | Design and Analysis of Algorithms 2015-16 Final.pdf |

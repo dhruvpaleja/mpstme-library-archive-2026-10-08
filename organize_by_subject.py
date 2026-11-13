@@ -3,9 +3,12 @@
 The backup keeps question papers in the portal's original hierarchy
 (year / semester / exam / programme / subject, or for older papers
 programme / year / branch / semester / subject), so one subject is spread over
-dozens of folders. This tool assigns each of the 25,064 question-paper paths a
-canonical subject (merging spelling variants such as "APPLIED MATHEMATICES II"
-and "Applied Mathematics II") and builds a subject-wise folder tree:
+dozens of folders. This tool assigns every question-paper path a canonical
+subject (merging spelling variants such as "APPLIED MATHEMATICES II" and
+"Applied Mathematics II") and builds a subject-wise folder tree. Papers that
+exist only inside the portal's original ZIP downloads (question_bank/
+raw_zip_papers.jsonl) are included as "<zip path> :: <file inside it>"; restore
+fetches the ZIP and extracts just that file. The tree looks like:
 
     PYQs_By_Subject/<Subject>/<Academic year>/<paper>
 
@@ -34,7 +37,7 @@ from pathlib import Path, PurePosixPath
 from collections import Counter, defaultdict
 from difflib import SequenceMatcher
 from urllib.parse import quote
-import argparse, csv, hashlib, json, os, re, shutil, subprocess, sys, unicodedata
+import argparse, csv, hashlib, json, os, re, shutil, subprocess, sys, unicodedata, zipfile
 
 HERE = Path(__file__).resolve().parent
 INDEX_DIR = HERE / 'subjects'
@@ -45,6 +48,9 @@ MANIFEST_NAME = 'full-library-manifest.json'
 REPO = 'dhruvpaleja/mpstme-library-archive-2026-10-08'
 TAG = 'complete-library-2026-10-08'
 QP_ROOT = '02_Question_Papers/'
+RAW_MEMBERS_FILE = HERE / 'question_bank' / 'raw_zip_members.json'   # papers kept only inside raw ZIP downloads
+RAW_PAPERS_FILE = HERE / 'question_bank' / 'raw_zip_papers.jsonl'    # their SHA-256 and size, read from the ZIPs
+IN_ZIP = ' :: '                                     # "<zip path> :: <member>" names a file inside a ZIP
 TREE_NAME = 'PYQs_By_Subject'
 KIND_ORDER = {'Question paper': 0, 'Answer key': 1, 'Dataset': 2, 'ZIP of papers': 3}   # listing order
 CSV_FIELDS = ['subject', 'academic_year', 'exam', 'kind', 'semester', 'programme', 'source', 'bytes', 'sha256',
@@ -321,7 +327,9 @@ def subject_from_portal_filename(name):
     """'QP_Introduction to Business Statistics, Analytics & Modeling-I(702BS0C018)_2024-2025.pdf' -> the full name."""
     text = re.sub(r'\.[A-Za-z0-9]{1,5}$', '', name)
     text = re.sub(r'(?i)^(?:QP|ANS|data_set)_', '', HASH_SUFFIX.sub('', text))
+    text = re.sub(r'(?i)^(?:final|re)-exam_', '', text)          # names inside the portal's ZIP downloads
     text = re.split(r'_(?:19|20)\d\d-(?:19|20)\d\d', text)[0]
+    text = re.sub(r'(?i)_(?:semester|sem)\s*[ivx\d]+$', '', text)
     if '(' in text:                                     # course code "(702BS0C018)", possibly cut short
         text = text[:text.rindex('(')]
     return re.sub(r'\s+', ' ', text).strip(' .,-&_')
@@ -462,11 +470,66 @@ def load_overrides(path=OVERRIDES_FILE):
     return {k: v if isinstance(v, dict) else {'subject': v} for k, v in data.items() if not k.startswith('_')}
 
 
-def classify(manifest_files, aliases=None, overrides=None):
-    """Return one record per question-paper path with its canonical subject."""
+def question_paper_path(location):
+    """Where a paper kept only inside a raw ZIP download would sit under 02_Question_Papers/, from the folder the
+    ZIP was downloaded from plus the member's path inside it; None for syllabi and anything else."""
+    parts = [p for p in location.split('/') if p]
+    if len(parts) >= 3 and parts[0] == 'QUESTIONS PAPERS':
+        return QP_ROOT + 'Legacy/' + '/'.join(parts[1:])
+    if len(parts) >= 6 and re.fullmatch(r'(?:19|20)\d\d', parts[0]):
+        # <year>/Semester <n>/<exam>/<programme - code>/<subject>/<file>; some ZIPs nest a second
+        # <exam>/<programme>/<subject> inside the first, so the programme is the last folder with a code.
+        programme_at = max((i for i, p in enumerate(parts[:-2]) if i >= 3 and re.search(r' - \d{3,6}$', p)), default=3)
+        exam = next((p for p in reversed(parts[2:programme_at]) if re.fullmatch(r'(?i)(final|re)-exam', p)), parts[2])
+        printed = re.search(r'(?i)_semester\s+([ivx]+|\d+)_', parts[-1])  # the file's own semester wins
+        match = printed or re.fullmatch(r'(?i)semester\s+([ivx]+|\d+)', parts[1])
+        number = match and (int(match.group(1)) if match.group(1).isdigit() else ROMAN_VALUE.get(match.group(1).lower()))
+        if number:
+            return QP_ROOT + f'{parts[0]}/Sem_{number:02d}/{exam}/{parts[programme_at]}/{parts[-2]}/{parts[-1]}'
+    return None
+
+
+def raw_zip_location(entry):
+    """Download folder + member path for a ZIP member: the recorded virtual path, else the ZIP's own folder
+    ('2024/Semester I/65063__Final-Exam__context_fixed.zip' holds '<programme>/<subject>/<file>')."""
+    if entry.get('virtual_path'):
+        return entry['virtual_path']
+    folder, _, name = entry['zip_path'].removeprefix('00_Original_Downloads/').rpartition('/')
+    exam = re.match(r'\d+__((?:Final|Re)-Exam)', name)
+    return f"{folder}/{exam.group(1)}/{entry['member']}" if exam else ''
+
+
+def raw_zip_rows(manifest_files, members_file=RAW_MEMBERS_FILE, papers_file=RAW_PAPERS_FILE):
+    """Manifest-style rows for question papers that exist only inside raw ZIP downloads (never extracted into
+    02_Question_Papers/). Each row's 'path' is where the paper would sit there (used to classify it) and
+    'location' is '<zip path> :: <member>'. Members whose bytes already appear under 02_Question_Papers/ are left
+    out: that paper is already listed."""
+    if not members_file.exists() or not papers_file.exists():
+        return []
+    listed = {f['sha256'] for f in manifest_files if f['path'].startswith(QP_ROOT)}
+    members = {(m['zip_path'], m['member']): m for m in json.loads(members_file.read_text(encoding='utf-8'))}
+    rows, seen = [], set()
+    with papers_file.open(encoding='utf-8') as stream:
+        for line in stream:
+            paper = json.loads(line)
+            if paper.get('missing') or paper['sha256'] in listed:
+                continue
+            entry = members.get((paper['zip_path'], paper['member'])) or {**paper, 'virtual_path': ''}
+            path = question_paper_path(raw_zip_location(entry))
+            if not path or (path, paper['sha256']) in seen:
+                continue
+            seen.add((path, paper['sha256']))
+            rows.append({'path': path, 'sha256': paper['sha256'], 'bytes': paper['bytes'],
+                         'location': paper['zip_path'] + IN_ZIP + paper['member']})
+    return rows
+
+
+def classify(manifest_files, aliases=None, overrides=None, raw_rows=()):
+    """Return one record per question-paper path with its canonical subject (raw_rows: see raw_zip_rows)."""
     aliases = aliases or {}
     overrides = overrides or {}
-    rows = sorted((r for r in manifest_files if r['path'].startswith(QP_ROOT)), key=lambda r: r['path'])
+    rows = sorted([r for r in manifest_files if r['path'].startswith(QP_ROOT)] + list(raw_rows),
+                  key=lambda r: (r['path'], r.get('location', '')))
     facts = [read_entry(r) for r in rows]
 
     # Vocabulary: every subject folder that is not a semester / branch label.
@@ -615,8 +678,10 @@ def classify(manifest_files, aliases=None, overrides=None):
             subject = names[clusters.root(key)]
         records.append({
             'subject': subject, 'academic_year': fact['academic_year'], 'exam': fact['exam'], 'kind': fact['kind'],
-            'semester': fact['semester'], 'programme': fact['programme'], 'source': fact['source'],
-            'bytes': row['bytes'], 'sha256': row['sha256'], 'path': row['path'], 'filed_as': choice, 'note': note,
+            'semester': fact['semester'], 'programme': fact['programme'],
+            'source': fact['source'] + (' (ZIP download only)' if row.get('location') else ''),
+            'bytes': row['bytes'], 'sha256': row['sha256'], 'path': row.get('location') or row['path'],
+            'filed_as': choice, 'note': note,
         })
     # subject_overrides.json: papers whose own header names a different subject. Identical copies of the
     # same file elsewhere follow the same correction.
@@ -665,7 +730,7 @@ def load_records(manifest=None):
     """Subject records from the committed index, or classified afresh from a manifest."""
     if manifest or not INDEX_CSV.exists():
         _, data = load_manifest(manifest)
-        return classify(data['files'], load_aliases(), load_overrides())
+        return classify(data['files'], load_aliases(), load_overrides(), raw_zip_rows(data['files']))
     with INDEX_CSV.open(encoding='utf-8', newline='') as stream:
         records = list(csv.DictReader(stream))
     for record in records:
@@ -751,11 +816,12 @@ def build_tree(records, library, out, copy=False):
     """Hard-link (or copy) restored papers into out/<Subject>/<Year>/<name>; identical files appear once."""
     library, out = library.resolve(), out.resolve()
     folders = subject_folders({r['subject'] for r in records})
-    placed, missing, linked, copied, duplicates = {}, [], 0, 0, 0
+    placed, missing, linked, copied, extracted, duplicates = {}, [], 0, 0, 0, 0
     taken = set()
     rows = []
     for record in sorted(records, key=lambda r: (r['subject'].lower(), r['academic_year'], r['path'])):
-        source = library.joinpath(*PurePosixPath(record['path']).parts)
+        container, _, member = record['path'].partition(IN_ZIP)
+        source = library.joinpath(*PurePosixPath(container).parts)
         if not source.is_file():
             missing.append(record['path'])
             continue
@@ -777,6 +843,15 @@ def build_tree(records, library, out, copy=False):
         if target.exists():
             if target.stat().st_size != record['bytes'] or sha256_of(target) != record['sha256']:
                 raise SystemExit(f'Refusing to overwrite a different file: {target}')
+        elif member:                                    # a paper kept only inside a ZIP download
+            with zipfile.ZipFile(source) as archive:
+                data = archive.read(member)
+            if hashlib.sha256(data).hexdigest() != record['sha256']:
+                raise SystemExit(f'{member} in {source} does not match the index; restore the ZIP again.')
+            partial = target.with_name(target.name + '.partial')
+            partial.write_bytes(data)
+            partial.replace(target)
+            extracted += 1
         elif copy:
             shutil.copy2(source, target)
             copied += 1
@@ -795,8 +870,8 @@ def build_tree(records, library, out, copy=False):
         writer = csv.writer(stream)
         writer.writerow(['subject', 'file_in_this_tree', 'original_library_path'])
         writer.writerows(rows)
-    print(f'{len(placed)} files placed in {out} ({linked} hard links, {copied} copies); '
-          f'{duplicates} identical duplicates skipped.')
+    print(f'{len(placed)} files placed in {out} ({linked} hard links, {copied} copies, {extracted} extracted from '
+          f'ZIP downloads); {duplicates} identical duplicates skipped.')
     if missing:
         print(f'{len(missing)} papers are not in {library}; restore them first (first: {missing[0]}).')
     return placed, missing
@@ -820,9 +895,12 @@ def cmd_restore(args):
     chosen = set(pick_subjects(records, args.subject))
     manifest_path, _ = load_manifest(args.manifest)
     records = [r for r in records if r['subject'] in chosen]
-    paths = sorted({r['path'] for r in records})
+    paths = sorted({r['path'].partition(IN_ZIP)[0] for r in records})
     size = sum({r['sha256']: r['bytes'] for r in records}.values())
-    print(f'Restoring {len(paths)} papers ({size / 2**20:.0f} MiB) for: {", ".join(sorted(chosen))}', flush=True)
+    zips = sorted({r['path'].partition(IN_ZIP)[0] for r in records if IN_ZIP in r['path']})
+    print(f'Restoring {len(records)} papers ({size / 2**20:.0f} MiB) for: {", ".join(sorted(chosen))}', flush=True)
+    if zips:
+        print(f'{len(zips)} ZIP download(s) are restored whole because some papers exist only inside them.', flush=True)
     sys.path.insert(0, str(HERE))
     import restore_library
     destination = Path(args.destination)
@@ -903,6 +981,9 @@ def write_catalog(records, index_dir=INDEX_DIR):
             'the portal published them, are in `answer_keys.md`. See '
             '[`question_bank/README.md`](../../question_bank/README.md) for the fields.', '',
         ]
+        if (index_dir / folder / 'syllabus.md').exists():
+            lines += ['Syllabus of this course, every version found in the archive: [`syllabus.md`](syllabus.md) '
+                      '(see [`syllabi/`](../../syllabi/README.md) for all programmes).', '']
         if filed_as:
             lines += ['Also filed as: ' + ', '.join(f'`{md_cell(x)}`' for x in filed_as), '']
         lines += ['| Year | Exam | Type | Sem | Programmes | File |', '| --- | --- | --- | --- | --- | --- |']
@@ -933,10 +1014,13 @@ def write_catalog(records, index_dir=INDEX_DIR):
         (index_dir / folder / 'README.md').write_text('\n'.join(lines), encoding='utf-8')
 
     total_unique = len({r['sha256'] for r in records})
+    in_zips = sum(1 for r in records if IN_ZIP in r['path'])
     lines = [
         '# PYQs by subject', '',
-        f'All **{len(records):,}** question-paper files in the archive (`02_Question_Papers/`, {total_unique:,} '
-        f'unique) sorted into **{len(by_subject):,} subjects**. Spelling variants of one subject are merged, '
+        f'All **{len(records):,}** question-paper files in the archive ({total_unique:,} unique) sorted into '
+        f'**{len(by_subject):,} subjects**: every file in `02_Question_Papers/`, plus {in_zips:,} papers that exist '
+        'only inside the portal\'s original ZIP downloads (listed as `<ZIP> :: <file>`; restore extracts them). '
+        'Spelling variants of one subject are merged, '
         'e.g. `APPLIED MATHEMATICES II` and `Applied Mathematics II`. Each folder below has a README listing '
         'every paper for that subject by year, exam, semester and programme.', '',
         'The PDFs themselves stay in the private release (18.6 GiB; too large for git). '
@@ -965,7 +1049,7 @@ def write_catalog(records, index_dir=INDEX_DIR):
 
 def cmd_catalog(args):
     _, data = load_manifest(args.manifest)
-    records = classify(data['files'], load_aliases(), load_overrides())
+    records = classify(data['files'], load_aliases(), load_overrides(), raw_zip_rows(data['files']))
     write_catalog(records)
 
 

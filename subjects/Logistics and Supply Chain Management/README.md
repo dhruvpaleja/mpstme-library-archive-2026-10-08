@@ -1,6 +1,6 @@
 # Logistics and Supply Chain Management
 
-**27** unique papers (31 copies across programmes) · 2007-08 to 2025-26 · 11 programmes · Sem 7, Sem 8, Trim 12
+**31** unique papers (35 copies across programmes) · 2007-08 to 2025-26 · 13 programmes · Sem 7, Sem 8, Trim 12
 
 Download only this subject, sorted by academic year:
 
@@ -33,9 +33,13 @@ Also filed as: `LOGISTIC & SUPPLY CHAIN MANAGEMENT`, `Logitstics and supply chai
 | 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 8 | MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (ARTIFICIAL INTELLIGENCE) - 7051 | QP_Re-Exam_Logistics and Supplychain Management(703TO0C004)_Semester VIII_2024-2025.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 8 | MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (DATA SCIENCE) - 7052 | QP_Re-Exam_Logistics and Supplychain Management(703TO0C004)_Semester VIII_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech Computer 7047 | QP_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (ARTIFICIAL INTELLIGENCE) - 7051 | ANS_Re-Exam_Logistics and Supplychain Management(703TO0C004)_Semester VIII_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (DATA SCIENCE) - 7052 | ANS_Re-Exam_Logistics and Supplychain Management(703TO0C004)_Semester VIII_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Logistics and Supplychain Management(703TO0C004)_2024-2025.pdf |

@@ -1,6 +1,6 @@
 # Digital Marketing
 
-**32** unique papers (32 copies across programmes) · 2021-22 to 2025-26 · 8 programmes · Sem 10
+**36** unique papers (36 copies across programmes) · 2021-22 to 2025-26 · 9 programmes · Sem 1, Sem 10
 
 Download only this subject, sorted by academic year:
 
@@ -14,18 +14,22 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Question paper | Sem 1 | Bachelor of Science (Information Technology) - 45618 | QP_Final-Exam_Digital Marketing(NHDMK106)_Semester I_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech (CHEMICAL ENGINEERING) - 7045 | QP_Digital Marketing(703TM0E015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Digital Marketing(703TM0E015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech AI 7051 | QP_Digital Marketing(703TM0E015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech Computer 7047 | QP_Digital Marketing(703TM0E015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech DS 7052 | QP_Digital Marketing(703TM0E015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | MBATech IT 7041 | QP_Digital Marketing(703TM0E015)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | Bachelor of Science (Information Technology) - 45618 | ANS_Final-Exam_Digital Marketing(NHDMK106)_Semester I_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech (CHEMICAL ENGINEERING) - 7045 | ANS_Digital Marketing(703TM0E015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Digital Marketing(703TM0E015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech AI 7051 | ANS_Digital Marketing(703TM0E015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech Computer 7047 | ANS_Digital Marketing(703TM0E015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech DS 7052 | ANS_Digital Marketing(703TM0E015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 10 | MBATech IT 7041 | ANS_Digital Marketing(703TM0E015)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 1 | Bachelor of Science (Information Technology) - 45618 | QP_Re-Exam_Digital Marketing(NHDMK106)_Semester I_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | Bachelor of Science (Information Technology) - 45618 | ANS_Re-Exam_Digital Marketing(NHDMK106)_Semester I_2025-2026.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech (CHEMICAL ENGINEERING) - 7045 | QP_Digital Marketing(703TM0E015)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Digital Marketing(703TM0E015)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 10 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Digital Marketing(703TM0E015)_2024-2025.pdf |

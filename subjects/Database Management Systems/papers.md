@@ -1,8 +1,81 @@
 # Database Management Systems: question papers in full
 
-197 unique papers · 2005-06 to 2025-26 · Information Technology, Computer Engineering, Computer Applications (MCA), Data Science, Artificial Intelligence, Computer Science and Business Systems, Cyber Security, AI and Data Science, AI and Machine Learning, Computer Science, Common (all branches)
+205 unique papers · 2005-06 to 2025-26 · Information Technology, Computer Engineering, Computer Applications (MCA), Data Science, Artificial Intelligence, Computer Science and Business Systems, Cyber Security, AI and Data Science, AI and Machine Learning, Commerce, Computer Science, Common (all branches), Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 1 · paper 9c034ae60ea9
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce - 45611
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce - 45611/Database Management Systems/QP_Final-Exam_Database Management Systems(NADBM105)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 15 Oct 2025
+- Text: text (3 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Commerce
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Database Management Systems
+Date: 15 Oct 2025   Time: 11:30 am - 12:30 pm (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Assume suitable data if necessary.
+5. All questions are compulsory.
+1.   Answer the following question.(Attempt Any 2 Questions)   15
+A. Write MySQL statements for the following   7.5
+i) Create table ACCOUNT containing (acc_no integer, should not be empty ), (cust_name
+character of variable width 22), (account_type character of variable width 10), (open_date
+date), (balance, 7 integers 2 decimals)), (status, character of width 1).
+ii) Change data type of balance column to 10 integers 2 decimals
+iii) Delete status column.
+B. There exists a table OFFICE having account number (ANO, primary key integer), name   7.5
+(AccName , character of variable width 20), type (Type, character of variable width 10),
+opening year (Oyear integer), opening date (odate date), balance (5 integers 2 decimals).
+Write MySQL statements for the following:
+(i) Enter the following 3 records in the OFFICE table.
+101   Ajay   Savings   2022   2022-06-10   15000
+102   Neha   Current   2023   2023-01-14   90000
+103   Suresh   Savings   2021   2021-11-21   78000
+Page 1 of 3
+--- page 2 ---
+(ii) Change the account name to “Prakash” in the 3rd record.
+(iii) Delete the 2nd row.
+(iv) Change the balance of the 1st record to 82000.
+C.   7.5
+2.   Answer the following question.(Attempt Any 2 Questions)   15
+A. Explain the following built in Functions in MY SQL   7.5
+(i)   YEAR()
+(ii)   UPPER()
+(iii)   MIN()
+(iv)   RIGHT()
+(v)   AVG()
+B.   7.5
+Consider the table COURSES which contain the columns StartDate (SDATE , date) ,
+Enrollments (ENR, integer ), Fee (FEE, 7 decimal 2 integer ).
+Write MySQL statements for the following.
+i) Display all courses starting between 01-Jan-2020 and 31-Dec-2024.
+ii) Display all courses with total fee collected (Enrollments × Fee)
+iii) Display the message: “The course <course name> started on < Start date> ”
+C.   7.5
+There exists a table PATIENT containing columns Patient ID (PID, integer), Name (NAME,
+character), Age (Age, Integer) There exists another table DIAGNOSIS containing columns
+Patient ID (PID, integer), Blood Pressure (BP, integer) and Fever (Fever, 3 integer, 2
+decimal).
+Write MySQL queries for the following:
+(i)   Display patient ID, name, blood pressure, and fever using both the tables.
+Page 2 of 3
+--- page 3 ---
+(ii)   Display name and blood pressure of patients whose BP is more than 140 using
+both the tables.
+(iii)   Display name and sum of BP and Fever using both the tables.
+Page 3 of 3
+````
 
 ## 2025-26 · Final-Exam · Sem 1 · paper 73ee60fad9c4
 
@@ -3389,6 +3462,95 @@ S06; D. | Illustrate the ER to relational mapping process with a neat diagram. 5
 BL2
 
 FOR dodo kkk
+````
+
+## 2025-26 · Re-Exam · Sem 1 · paper 7fcfdf49add5
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce - 45611
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Commerce - 45611/Database Management Systems/QP_Re-Exam_Database Management Systems(NADBM105)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 29 Jan 2026
+- Text: text (3 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Commerce
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Database Management Systems
+Date: 29 Jan 2026   Time: 11:00 am - 12:00 pm (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Assume suitable data if necessary.
+5. All questions are compulsory.
+1.   Answer the following question.(Attempt Any 2 Questions)   15
+A. Write MySQL statements for the following   7.5
+(i) Create table PRODUCT containing (P_ID small integer, auto increment), (PNAME
+character of variable width 20), (CATEGORY, character of variable width 15), (MFG_DATE
+date), (STOCK_QTY, integer size 2), (PRICE 6 integers and 2 decimals). P_ID is primary
+key.
+(ii) Change the data type of stock_qty column to integer size 3.
+(iii) Add a new column SUPPLIER varchar(18).
+7.5
+B. There exists a table ORDERS containing order id (OID, primary key integer), customer
+(Customer , character of variable width 20), item (Item, character of variable width15),
+quantity (integer), order date (Odate date), total amount (amt, 5 integers 2 decimals).
+Write MySQL statements for the following:
+(i) Enter the following 3 records in the ORDERS table.
+1   Riya   book   3   2025-09-   300
+01
+Page 1 of 3
+--- page 2 ---
+2   Vijay   pen   5   2025-09-   400
+02
+3   Amrita   stapler   1   2025-09-   350
+03
+ii) Change the Total amount to 500 in the first record.
+(iii) change the customer column to cust_name.
+(iv) Delete the third record.
+C. Consider the table IBM with the following fields. Code (CID, int), Name (CNAME,   7.5
+character variable width 25), Branch (BRANCH, character variable width 15), Leader Id
+(LID, integer with 3 digits), Salary (SALARY, 7 integers 2 decimals), Joining date (JDATE
+,date)
+Write MySQL statements for the following.
+(i) ) Display Code, Branch, and Salary for all employees.
+ii) Display Name and Salary increased by 1000 as NEW_Salary
+iii) Display all employees whose salary is less than 25000.
+iv) Display all employees who joined in the month of March.
+v) Display Code and Name if the name contains more than 6 characters.
+2.   Answer the following question.(Attempt Any 2 Questions)   15
+A.   7.5
+Explain the following built in Functions in MY SQL
+i.   DAY()
+ii.   LENGTH()
+iii.   LEFT()
+iv.   SUM()
+v.   MOD()
+B. Consider a table FLIGHT containing the columns Flight No (FNO, variable character of   7.5
+length 12), Airline (AIRLINE, variable character 20), Travel date (TDATE date), Seat
+Booked (SEATS integer), Ticket fare (FARE, 6 integer, 2 decimal).
+Write MySQL statements for the following.
+i) Display records where travel date is between 01-Jan-2015 and 01-Jan-2025.
+ii) Display all flights with total revenue (SEATS × FARE)
+Page 2 of 3
+--- page 3 ---
+iii) Display the message: The fare of < flight number > by < airline> was on <Travel date>
+.
+C. There exists a table TREES containing columns Tree ID (TID, integer), Tree Name   7.5
+(TNAME, character), Species (SP, character), height (HT, integer). There exists another table
+PLANTING containing columns Planter ID (PID, integer), Tree ID (TID, integer) and
+Planting Date (PDATE, Date)
+Write MySQL queries for the following:
+(i) Display the tree name, tree ID, and date planted for all trees using both tables.
+(ii) Display the tree name, species, planter ID, and date planted for trees taller than 500 using
+both tables.
+(iii) Display tree name, Planter Id, species, and height from both tables whose Tree name
+starts with A.
+Page 3 of 3
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · paper e4edb02f90be
@@ -11440,6 +11602,123 @@ Explain how to retrieve documents using find()
 3/3
 ````
 
+## 2022-23 · Re-Exam · Sem 6 · paper 89a95e1e88ef
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: COMPUTER/SEMESTER VI/DATABASE MANAGEMENT SYSTMES/Database_Management_System_Batch_2021-22_Re_Exam0001_fDeDFdFQs4.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (2 pages), mean OCR confidence 89.9
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY atime ENGINEERING
+Academic Year: 2022-2023
+
+Program: BTI Stream : Computer
+
+ar Semester:
+ty Ht ie Sn
+
+Rime! aes odooamto dt
+fpbecemto =]
+
+Date:_26 /04 /2093 . Ni “of Pages:2
+Marks: 100
+
+Subject: Database Management System
+
+Re-Examination (Batch 2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+
+© — of the Answer Book, which is provided for their use.
+1) Question No. | is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer Briefly: [20]
+ft a. | Describe the different database users. [5]
+at b. | State the difference between inner join and outer join. [5]
+
+~ . : : by)
+
+a c. | Define weak entity with suitable example. 5]
+
+Cc cot d. | Mention ACID properties with suitable examples. [9]
+BL-2 Prop
+
+@ [10]
+CO-1 a. | Explain the purpose of a database system and the compare it to file systems
+BL-2
+
+Explain the different operations of relational algebra. Provide examples of each. [10]
+
+Q2 i) selection
+
+7 ii) projection
+aa bs iii) union
+iv) intersection
+v) difference
+. | Auniversity needs to develop a new course registration system. The system should [10]
+
+Q3 allow students to register for courses, view their schedules, and track their academic
+CO-1 a. | progress. The university has multiple schools, each with its own set of departments and
+BL-6 courses. The system should also allow faculty members to manage course offerings,
+
+track student progress, and grade assignments.
+--- page 2 ---
+Design an ER Diagram for the above scenario.
+
+Q3 [10]
+CO-2 b. | Mention the four sub languages in SQL with examples.
+BL-2
+Q4 ; _ Baan, [10]
+CO-4 a. Explain the concept of ordered indices. How do dense and sparse indices differ from
+BL-2 each other?
+A company has a database that contains information about their employees, [10]
+departments, and salaries. The company wants to retrieve information about their
+highest-paid employees in each department.
+Q4 i) What is the SQL query to retrieve the highest salary for each department?
+COo-2 b. ii) What is the SQL query to retrieve the employee details who have the
+BL-6 highest salary in each department?
+iii) How can we modify the SQL query to retrieve the second-highest salary
+for each department? .
+iv) What is the SQL query to retrieve the employee details who have the
+second-highest salary in each department?
+Define Normalization. Explain the normal forms with suitable examples [10]
+Q5 i) INF
+CO-4 a. ii) 2NF
+BL-2 iii) 3NF
+iv) BCNF
+Mention the types of serializibility. Check whether the given schedule S is conflict [10]
+serializable or not-
+ead, b. S: RI(A), R2(A), R1(B), R2(B), R3(B), W1(A), W2(B)
+oni a) Draw Precedence graph
+b) Check whether the schedule is serializable or not
+c) Write the serializable schedule
+os. 4 a Discuss the advantages and disadvantages of lock-based protocols in database [1g]
+BL-2 “| management systems. Explain two phase locking protocol.
+Explain decomposition. [10]
+R(A,B,C,D) has functional dependencies
+Q6 F= (AB > C, C> D, DA)
+CO-4 b. | This relation is divided in to R1= (A, B, C) R2(C, D)
+BL-5 i) List the number of keys
+ii) Check the relation is lossless decomposition or not. Why?
+iii) Is dependency preserved?
+Write short notes on: (ANY 4) [20]
+a) Functional Dependency
+Q7 b) Domain Constraints
+CO-3 ‘ c) States of Transaction
+BL-2 d) Shadow Paging
+
+e) Triggers
+````
+
 ## 2022-23 · Re-Exam · Sem 4 · paper f56d5f61b4d1
 
 - Departments: Computer Science and Business Systems
@@ -12277,6 +12556,260 @@ Referential integrity constraint with an example.
 END- = =
 ````
 
+## 2021-22 · Final-Exam · Sem 6 · paper e33a4bd9b6ee
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: COMPUTER/SEMESTER VI/DATABASE MANAGEMENT SYSTMES/Database_Management_Systems_2021-22_Final0001_UPoqD1bQYv.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 April 2022
+- Text: ocr (3 pages), mean OCR confidence 90.2
+
+````text
+SVKM’s NMIMS
+
+“URES PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & fe INE! 7 ERING ¢ ds
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINE. \s .
+YS
+
+VY ed
+Academic Year: 2021-22 Qa MIS We a
+Programme: B.Tech Integrated (Computer) Year: III Semester: VI
+Subject: Database Management Systems
+; . Marks: 100
+Date: 13 April 2022 Time: 10.00 am - 01.00 pm -
+
+Durations: 3 (Hrs)
+No. of Pages: 4
+Final Examination
+
+2 AIG AV AGUIEEMLALIUEL
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+CO- 1; a. | Identify role of different types of database users in DBMS. [5]
+CO-2 ; b. | Mention the ACID properties for transaction with suitable examples. [5]
+CO- 2; c. | List and explain aggregate functions in SQL. [5]
+
+Consider the following relational database schema:
+branch (branch_name, branch_city, assets)
+customer (customer_name, customer_street, customer_city)
+account (account_number, branch_name, balance)
+co-2: 4 loan (loan_number, branch_name, amount) (5]
+depositor (customer_name, account_number)
+borrower (customer_name, loan_number)
+Write Relational Algebra for the following:
+
+¢ Find the names of all customers who have a loan, an account, or both, from
+
+the bank
+--- page 2 ---
++ Find the names of all customers who have a loan at the Perryridge branch.
+
+Q2
+CO-1,3;
+
+Consider a CONFERENCE REVIEW database in which researchers submit their
+research papers for consideration. Reviews by reviewers are recorded for use in the
+paper selection process. The database system caters primarily to reviewers who
+record answers to evaluation questions for each paper they review and make
+recommendations regarding whether to accept or reject the paper. The data
+requirements are summarized as follows:
+
+= Authors of papers are uniquely identified by e-mail id. First and last names are
+also recorded.
+
+= Each paper is assi gned a unique identifier by the system and is described
+
+by a title, abstract, and the name of the electronic file containing the paper.
+
+w A paper may have multiple authors, but one of the authors is designated as the
+contact author.
+
+= Reviewers of papers are uniquely identified by e-mail address. Each reviewer’s
+first name, last name, phone number, affiliation, and topics of interest are also
+recorded.
+
+a Each paper is assigned between two and four reviewers. A reviewer rates each
+paper assigned to him or her ona scale of | to 10 in four categories: technical merit,
+readability, originality, and relevance to the conference. Finally, each reviewer
+provides an overall recommendation regarding each paper.
+
+= Each review contains two types of written comments: one to be seen by
+
+the review committee only and the other as feedback to the author(s).
+
+Design an entity—relationship diagram for the CONFERENCE_REVIEW
+
+database.
+
+[10]
+
+Identify need of authorization in dbms and explain different forms of
+
+authorization.
+
+[10]
+
+Q3
+CO-2,4;
+
+Write a sql queries for following scenarios, assume suitable data if required.
+
+EMP(empno, empname, deptid, City)
+FACULTY (faculty_id, faculty_name, salary)
+1. Write a SQL query to create view on employee table to see only employees of
+
+department id 10.
+
+[10]
+
+2/3
+--- page 3 ---
+———————————— —-
+
+>
+2. Write a SQL query to revoke access of table faculty from user U2.
+3. Write a SQL query to sort EMP table by salary.
+4. Write a SQL query by using IN to select all employees with a City of
+"Mumbai" or "Delhi".
+5. hiatins a SQL query to select all employee with name starting with "a", "s", or
+Ea conflict serializability. Check whether the schedule is conflict
+b. | serializable or not? Also give corresponding precedence graph. [10]
+r1(A); r2(A);w1(B);w2(B); r1(B); r2(B);w2(C);w1(D);
+a4 a. | Define Normalization-and explain different normal forms with suitable examples. [10]
+CO-4;
+b. | Describe deadlock in dbms. Also mention deadlock prevention methods. [10]
+Q5 7 Explain sparse index and dense index with suitable examples. Also mention 110)
+CO-4; advantages and disadvantages of both the techniques.
+4. Describe working of shadow paging in dbms with diagram. Also mention 10]
+advantages and disadvantages for the shadow paging.
+Write Short Notes on:
+Q6 1. Constraints in SQL
+CO-2,4; 2. Armstrong Axioms [20]
+
+3. Static hashing
+
+4. Functional dependency
+
+3/3
+````
+
+## 2021-22 · Final-Exam · Sem 6 · paper 89bc4f2fe79b
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: EXTC/SEMESTER VI/DATABASE MANAGEMENT SYSTMES/Database_Management_Systmes_2021-22_Final0001_XZ0ANlZR6e.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13 April 2022
+- Text: ocr (2 pages), mean OCR confidence 88.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGIN
+
+Academic Year: 2021-22
+
+Programme: B.Tech Integrated (EXTC) Year: III Semester: VI
+Subject: DATABASE MANAGEMENT SYSTEMS
+: : Marks: 100
+Date: 13 April 2022 Time: 10.00 am - 01.00 pm
+Durations: 3 (Hrs)
+No. of Pages: _A
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any 4 _ questions.
+
+3) Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+CO-2;SO-1; | a. Compare file system with Data base system explaining the advantages of
+BL-II database over file system
+Bll 80-15 |b. Describe Select, Project and Rename operation in Relational algebra
+Bua 180-6; Jc. Define Allow, Deny, limit and revoke access in data security.
+a sd. Explain Primary key, Foreign key with examples.
+Q2
+Bat SO-1; a) List and explain Armstrong’s Axiom for functional dependency with [10]
+° examples.
+CO-1; SO-1; b
+BL-Il +8) What are attributes? Explain each type of attributes with examples [10]
+Q3
+CO-4; S0-6; a
+BL-Il ) Describe in detail ACID properties in transaction with examples. [10]
+b) - Department Employees
+Dep | Dep mp
+. : De 2 Em Em
+CO-1: SO-2; p p Pp .
+BL-III ID Nam Local ID Nam Age [10]
+El Sunil 40 El Sunil 40
+E2 Raj 51 E2 Raj 51
+
+1/2
+--- page 2 ---
+Create a table ‘Works’ which is a relationship table for the above two
+tables, Dep ID and Emp ID are the primary keys.
+state its relationship type and justify the same.
+
+Q4
+CO-2; SO-6;
+BL-III a Explain concepts of Triggers with example. [10]
+b) Write SQL queries for the below given tables:
+Person(driver_id, name,city)
+Car(model_no,year,color)
+Accident(report-number, date, location)
+Owns(driver-id,driver_name,license,issuing date)
+ain Participated(driver-id,license,report-number,damage,amount) [10]
+, i) Find person names who lives in Delhi and second last
+character is ‘U’
+ii) Find the Id and name of those drivers who got the license on
+12" Sept 2020
+iii) Find total number of accidents occurred for each location
+iv) Retrieve the name and city of driver id 10403
+Q5
+ae 80-1; a) List all the Join functions. Explain Full Outer , Right Outer and left [10]
+Outer Join Functions with examples.
+ear SO; b) | Elaborate on different aspects of Data security in detail [10]
+Q6 Short Note on(Any two) [20]
+CO-4; SO-1;
+BL-l a) Cost of calculation in Query processing
+CO-3; SO-1; b
+BL-II ) Log based recovery
+CO-1; SO-6;
+BL-I “ Difference between Assertions and Triggers
+CO-4; SO-6; "| q
+BL-II ) Schedules in Transaction
+
+2/2
+````
+
 ## 2021-22 · Final-Exam · Sem 4 · paper c3b02a3f2ea7
 
 - Departments: Computer Science and Business Systems
@@ -12600,6 +13133,126 @@ rai diagrams. Explain ACID properties of database transactions.
 BL-2
 So Briefly explain the two phase locking protocol and strict two phase locking 10]
 BL-2 protocols used in concurrency control?
+````
+
+## 2021-22 · Re-Exam · Sem 6 · paper 08e16ad12e43
+
+- Departments: Electronics and Telecommunication
+- Programmes: B.TECH INTEGRATED / EXTC
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3906__3rd YEAR.zip :: EXTC/SEMESTER VI/DATABASE MANAGEMENT SYSTMES/Database_Management_Systmes_Batch_2021-22_Re_Exam0001_kfOIBWmfTi.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 June 2022
+- Text: ocr (2 pages), mean OCR confidence 87.5
+
+````text
+.
+
+SVKM’s NMIMS ;
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENG
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEE!
+
+Academic Year: 2021-22
+
+Programme: B.Tech Integrated (EXTC) Year: III
+Subject: Database Management Systems
+Marks: 100
+Date: 09 June 2022 Time: 2.00 pm to 5.00 pm
+
+Durations: 3 (Hrs)
+No. of Pages: _9Z—
+Re-Examination (2021-22)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any _ 4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+
+Answer briefly: [20]
+at al aa Explain the three levels of data abstraction
+c0-3;S0-6 | b. Compare Union, Intersection and Minus operations in relational algebra
+sBL-II giving examples
+f 380-6 Jc. Define Allow, Deny, limit and revoke access in data security.
+
+d. R(A B C Dy has functional dependencies
+FD: (AB > C, C>D,D >A). This relation is divided into R1(A B C) ; R2
+
+CO-1 ; SO: eB)
+aE tat in 1) Is dependency preserved for the above functional dependencies?
+Explain ,
+2) Find closure of AB ~
+Q2
+a)
+Supplier ID Supplier Name Order ID Order Name
+Sol Harish 02 Sanjay
+CO-1; SO- i
+aan S02 Jigar 04 Akshay [10]
+S03 Bhavesh 06 Sunil
+
+Justify why the table is not in second normal form. Transform the table
+into 2™ Normal form.
+
+1/2
+--- page 2 ---
+4
+
+CO-1; SO-
+
+6:BL-I b) Explain the different types of data constraint keys that can be implemented | [10]
+in SQL with examples.
+Q3 s
+CO-4; SO-6; a)
+BL. Explain Serializability describing its type in detail with examples. [10]
+b) Solve below SQL queries for given tables
+Customer(customer_name,customer_street,customer_city)
+Loan(loan_number,branch_name,amount)
+Account(account_number,branch_name,balance)
+Borrower(customer_name,loan_number)
+CO-1; S0-6; Depositor(customer_name,account_number) - [10]
+BL-III 1) Find loan number\s of loan account at branch ‘Andheri’.
+2) Find details of customer\s who lives in city’Mumbai’.
+3) Count the number of customers by customer_city using group by
+clause
+4) Display Names of Depositors whose name begins with ‘A’ and
+account number should have second last number 2.
+Q4
+/ a) Draw an ER Diagram for your favourite sports team. Its stores matches
+CO-2; SO- played, scores in each match, the players in each match and individual [12]
+2;BL-Ill player statistics for each match. Also explain the relations between the
+entities.
+Bie SO- y Explain the Relational algebra operations (Select,Project,Rename ). [8]
+Q5
+C03; SO- a) Illustrate with examples all the Join functions in relational operations. ce
+1;BL-II Pp
+CO-2; SO- b)
+6;BL-II Explain concepts of Triggers with example. [10]
+6 .
+Q Write Short Note on (Any two) ] | [20]
+CO-4; SO- a)
+6;BL-II Query Processing
+CO-4; SO- b)
+6;BL-II Aggregate Functions
+
+c0-3;S0- | ©)
+
+L:BL-II BCNF normalization
+
+c0-4; 0-1; | 4)
+
+BL-II Shadow paging scheme
+
+2/2
 ````
 
 ## 2021-22 · Re-Exam · Sem 4 · paper 86d7de3e8ff8

@@ -1,6 +1,6 @@
 # Production Technology: question papers in full
 
-8 unique papers · 2022-23 to 2025-26 · Mechanical
+10 unique papers · 2022-23 to 2025-26 · Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -296,6 +296,129 @@ Distinguish between cylindrical grinding, surface grinding and -
 
 ````
 
+## 2023-24 · Final-Exam · Sem 4 · paper d794209f47db
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3636__2nd YEAR.zip :: MECHANICAL/SEMESTER IV/Production Technology/Production_Technology_Batch_2023-24_Final_ejQ7IMW0vb.pdf`
+- Text: ocr (3 pages), mean OCR confidence 87.7
+
+````text
+SVKM’S NMIMS P
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024
+
+¥
+
+Program/s: B. Tech Integrated Year: I Semester: IV
+
+Stream/s ; Mechanical Engineering y = “S
+Subject: Production Technology : ime: 3 hrs (10 ann to toy )
+Date:_19 /Ap*/ 2024 Ne ‘of Pages:_ 3.
+
+Marks: _100 \
+Final Examination, . ‘SS oo “a
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+@ 1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Qi
+
+Answer briefly: [20]
+CO-1;
+SO-7; a__ | List the important characteristics of ECM. .s [05]
+BL-l
+CO-2; . ;
+m@ 50-7: 5 What are the advantages of grinding process over other cutting [05]
+era processes?
+CO-1;
+SO-7 ; c | What is machine tool? What are the functions of a machine tool. [05]
+BL-1
+CO-3 ;
+SO-7 ; d | What is an abrasive? How are abrasive classified. [05]
+
+BL-1
+--- page 2 ---
+Q2
+
+Explain briefly with neat diagrams the following lathe operations"
+
+[10]
+603 (i) Threading, (ii) Knurling (iii) Forming and (iv) Reaming
+, v) Turnin
+SO-7; f a [07]
+Write a note on cutting tool materials
+BL-2 [03]
+What are the types of chips?
+A work piece of 300 mm diameter and 600 mm length is to be turned
+down to 282 mm diameter for the entire length. The suggested feed is
+1.2 mm/revolution and cutting speed is 162 m/min. The maximum
+Q3 allowable depth of cut is 4.5 mm. Assume tool over travel 12mm.
+CO-3; Neglect tool approach. [10]
+SO-1; Calculate: (i) Spindle r. p.m.
+BL-3 (ii) Feed speed
+(iii) Material removal rate.
+(iv) Cutting time. ©
+What are the advantages and limitations of centerless grinding? [10]
+Q4 Sketch and explain Milling Operations in detail. [10]
+CO-2; Write the differences between drilling and reaming operations [05]
+SO-7; Give the comparison between a turret lathe and a capstan lathe. [05]
+BL-2
+Q5
+CO-3;
+. _ [10]
+SO-1; How is gear manufacturing done? Explain in detail.
+BL-3
+Mild steel pieace is being machined by two different tools A and B
+nos under identical machining conditions. The tool life equations for
+, these tools are:
+SO-1; [10]
+For Tool-A: VT??? = 42.5
+BL-3
+
+For Tool-B: VT°45 = 88.6
+
+Where V and T are in m/s and s, respectively.
+
+por,
+--- page 3 ---
+Calculate the cutting speed above which tool-B will give better
+‘
+
+tool life.
+Q6
+CO-2; a. | What are the differences between Shaper, Planer and Slotter? [10]
+SO-7; b. | Sketch and explain Surface Grinding machine. [10]
+BL-2
+Write short notes on: -
+Q7 > [05]
+(a) Tool wear
+CO-2; . [05]
+(b) Laser Beam Machining
+SO-7; ~ | [05]
+(c) Cutting tool materials
+BL-2 [05]
+
+(d) NC and CNC Machines
+
+SR RICK Ra RK
+````
+
 ## 2023-24 · Final-Exam · Sem 5 · paper 31c06b112652
 
 - Departments: Mechanical
@@ -555,6 +678,131 @@ BL-2
 Describe ISO format for NC (Numerical Control) machine tool part program.
 
 [04]
+````
+
+## 2023-24 · Re-Exam · Sem 4 · paper c0e83c93190c
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/3636__2nd YEAR.zip :: MECHANICAL/SEMESTER IV/Production Technology/Production_Technology_Batch_2023-24_Re_Exam_tqRcbMy1EH.pdf`
+- Printed on paper: duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 87.8
+
+````text
+SVKM’S NMIMS ea
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINE)
+SCHOOL OF TECHNOLOGY MANAGEMENT
+
+Academic Year: 2023-2024
+
+Program/s: B. Tech Integrated Year: II Semester: [V
+Stream/s ; Mechanical.Engineering ;
+Subject: Production Technology Time: 3 hrs (fozevento 1: 00pm)
+Date:_2¢ / 6 / 2024 No. of Pages:_ 3
+Marks: __ 100
+
+ReExamination; |
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+(> of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql .
+Answer briefly: : [20]
+CO-1; :
+SO-7; a | List the important characteristics of EDM. [05]
+BL-1 ;
+C “CO-2;
+SO- 7; b | Define cutting speed, feed and depth of cut in relation to shaper work. | [05]
+BL-1
+CO-1; .
+What does ‘Tool failure’ mean? List the factors which cause tool
+SO-7; c [05]
+failure.
+BL-1
+CO-3;
+SO-7; d_ | What are the application of gear. [05]
+
+BL-1
+--- page 2 ---
+is)
+
+} f10)
+
+Q2 Sketch and explain the parts of Engine Lathe. —
+CO-2; Sketch and explain Tool signature of Single point cutting tool. [07]
+so-7; What are the types of chips? [03]
+BL-2
+| A work piece of 250 mm diameter and 500 mm length is to be turned
+
+down to 235 mm diameter for the entire length. The suggested feed is
+
+1 mm/teyolution and cutting speed is 135 m/min. The maximum
+Q3 allowable depth of cut is 5.0 mm. [10]
+CO-3; Calculate: (i) Spindle r. p.m,
+SO-1; (ii) Feed speed
+BL-3 (iii) Material removal rate.
+
+(iv) Cutting time.
+
+What are the advantages and limitations of centerless grinding? [10]
+Q4 Sketch and explain about the various Milling Operations [10]
+CO-2; Note the differences between drilling and reaming operations [05]
+SO-7; What are the Lathes operations? [05]
+BL-2
+
+A hole of 30mm diameter and 75 mm depth is to be drilled. The
+Q5 suggested feed is 1.3 mm/rev. and cutting speed is 62 m/min.
+CO-3; Assuming tool approach and tool overtravel as 6 mm. Calculate, f10]
+SO-1; i) Spindle r.p.m.
+BL-3 ii) Feed speed
+
+iii) Cutting time
+iv) Material removal rate. ;
+
+CO-3; Mild steel piece is being machined by two different tools A and B
+SO-1; under identical machining conditions. The tool life equations for [10]
+
+BL-3
+
+these tools are:
+
+i.
+--- page 3 ---
+"
+
+For Tool-A: VT°3? = 42.5
+For Tool-B: VT°45 = 88.6
+Where V and T are in m/s and s, respectively.
+
+Calculate the cutting speed above which tool-B will give better
+
+tool life.
+Q6
+CO-2; What are the differences between Shaper, Planer and Slotter? [10]
+SO-7; Sketch and explain Surface Grinding machine. [10]
+BL-2
+
+Draw a Schematic diagram of ‘Laser Beam Machining’ and Explain
+co its bitten principle and process parameters. [10]
+SO-7;
+ary Explain USM process with its advantages, limitations and [10]
+
+applications.
+
+2 eo oe 2 2 oe OK
 ````
 
 ## 2023-24 · Re-Exam · Sem 5 · paper b0d4c8621c59

@@ -1,6 +1,6 @@
 # Information System Management: question papers in full
 
-52 unique papers · 2012-13 to 2025-26 · Common (all branches), Artificial Intelligence, Computer Engineering, Information Technology, Electronics and Telecommunication, Data Science, Mechanical, Chemical
+54 unique papers · 2012-13 to 2025-26 · Common (all branches), Artificial Intelligence, Computer Engineering, Data Science, Information Technology, Electronics and Telecommunication, Mechanical, Chemical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1786,6 +1786,88 @@ Q7   What is knowledge Management? Explain the importance of KM value chain
 CO-2;   in any organization.   [10]
 SO-;2 BL
 -2
+********** 2 **********
+````
+
+## 2024-25 · Re-Exam · Sem 8 · paper c1f336e760e7
+
+- Departments: Data Science
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (DATA SCIENCE) - 7052
+- Source: `00_Original_Downloads/2024/67754__Semester VIII__context_fixed.zip :: Re-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (DATA SCIENCE) - 7052/Information System Management/QP_Re-Exam_Information System Management(703TG0C003)_Semester VIII_2024-2025.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 05 Jul 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (EXTC)/MBA.
+Tech (IT)/MBA. Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2024-2025)
+Subject: Information System Management
+Date: 05 Jul 2025   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No 1 is Compulsory
+5. Out of Remaining questions, attempt any__4__questions
+6. In all __5__questions to be attempted
+7. All Questions carry equal marks
+8. Assume suitable data if necessary
+Q1   Section A   [10]
+CO- 1;   a.
+Mention the 6 strategic objectives for which any firm invests heavily in   [2]
+SO-1; BL-
+Information systems
+1
+b.   Provide one liner for all the information systems being used by different
+CO-1; SO-   [2]
+2; BL-2   management groups.
+CO-1,2;   c.   What are disruptive technologies – provide an example & also explain
+SO-3; BL-   [2]
+one liner about First movers and fast followers
+3
+CO- 3;   d.   With proper diagram explain the difference between Push Versus Pull
+SO-3; BL-   [2]
+Based supply chain model.
+3
+e.   A retail company wants to expand its e-commerce operations. Identify and
+CO-2;
+SO4-; BL-   explain the key Information Systems it should implement to support this   [2]
+3   growth.
+Section B
+Q2   By integrating collaboration tools, organizations can cultivate a culture of
+CO-1,2,3;   innovation, inclusivity, and efficiency, ultimately enhancing productivity and
+[10]
+SO-2; BL-   employee satisfaction. Justify!!
+4
+Q3
+Explain how E-commerce world is different from traditional strategies along
+[10]
+CO-2; SO-   with its types & revenue models
+2; BL- 2
+Evaluate the role of artificial intelligence (AI) and big data in enhancing
+Q4   collaboration within multinational corporations. What are the potential risks   [10]
+and limitations of relying on AI-driven decision-making?
+********** 1 **********
+--- page 2 ---
+CO-2,3;
+SO-2; BL-
+2
+Q5
+CO-2;   Provide the different types of Knowledge Management System along with a   [10]
+SO;2   proper explanation & example.
+BL;2
+Q6
+Are systems vulnerable – Do justify your answer.? Also explain spoofing and   [10]
+CO-2; SO-   its different types.
+3; BL- 3
+Q7
+Provide and explain in short, the components of IT infrastructure in detail.
+CO-2; SO-   [10]
+2; BL-2
 ********** 2 **********
 ````
 

@@ -1,6 +1,6 @@
 # Artificial Intelligence: question papers in full
 
-113 unique papers · 2006-07 to 2025-26 · Computer Engineering, Data Science, Computer Applications (MCA), Computer Science and Business Systems, Electronics and Telecommunication, AI and Data Science, Information Technology, Mechatronics, Common (all branches), Artificial Intelligence, Computer Science
+115 unique papers · 2006-07 to 2025-26 · Computer Engineering, Computer Applications (MCA), Data Science, Computer Science and Business Systems, Electronics and Telecommunication, AI and Data Science, Information Technology, Mechatronics, Common (all branches), Artificial Intelligence, Computer Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -4615,6 +4615,83 @@ CO-4; SO-
 (vi) Calculate Information Gain
 
 y
+````
+
+## 2023-24 · Final-Exam · Sem 2 · paper f7496ce437b6
+
+- Departments: Computer Applications (MCA)
+- Programmes: MASTER OF COMPUTER APPLICATIONS - 7061
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/MASTER OF COMPUTER APPLICATIONS - 7061/Artificial Intelligence/QP_Final-Exam_Artificial Intelligence(703CO0C008)_Semester II_2023-2024.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 22 Apr 2024
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MASTER OF COMPUTER APPLICATIONS
+Year: I/Semester II (Exam Year: 2023-2024)
+Subject: Artificial Intelligence
+Date: 22 Apr 2024   Time: 10:00 am - 01:00 pm (03:00 Hrs.)
+Max Marks: 100
+FINAL EXAMINATION(2023-2024)
+Instructions:
+1. This question paper contains 3 pages
+2. Question No. _1_ is compulsory.
+3. Out of remaining questions, attempt any _4_ questions.
+4. In all _5_ questions to be attempted.
+5. All main questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+1. Solve the following   20
+A. Discuss any two real life applications of AI in detail?   5
+B. What is variable ordering? Give example.   5
+C. What is resolution in First-Order predicate logic? Explain in brief.   5
+D. Discuss any two suitable applications of Expert System with detail specification.   5
+2. Solve the following (Attempt Any 4 Questions)   80
+1.   20
+A. Explain the concept of learning agent with the help of block diagram.   10
+B. Sate the significance of state space search tree in AI domain? Formulate the complete tree for   10
+Water-Jug problem.
+2.   20
+Page 1 of 3
+--- page 2 ---
+A. Explain the criteria to choose the accurate heuristic function. How does it affect the end result   10
+of searching? Give suitable example.
+B. Consider the following statements and convert them into FOPL.   10
+1. All people who are graduating are happy
+2. All happy people smile
+3. Someone is graduating
+Prove that “someone is smiling” with the help of “resolution”
+3.   20
+A. What do you mean by Local Beam Search? explain with suitable example.   10
+B. What is the significance of Backtracking in CSP? Discuss with suitable example.   10
+4.   20
+A. Explain the working of MINMAX search and significance of alpha-beta pruning with suitable   10
+example
+B. What is the significance of learning in AI? Discuss inductive learning with suitable example.   10
+5.   20
+A. Explain backward chaining method used by the inference engine. Give suitable example.   10
+B. Design the decision tree and classify the following training data set   10
+X1   X2   Y
+2   1.5   1
+2   3   1
+3   4   1
+3.5   1   1
+4   4   1
+4.5   2   1
+3   2   -1
+3   3   -1
+4   2.5   -1
+3.4   2.5   -1
+Clearly show all the constructed decision boundaries on 2-D scatter plot.
+Page 2 of 3
+--- page 3 ---
+6.   20
+A. Explain significance of local search used in CSP with the help of Sudoku problem.   10
+B. Explain goal driven and data driven reasoning with respect to Expert System. Give suitable   10
+example.
+Page 3 of 3
 ````
 
 ## 2023-24 · Final-Exam · Sem 5 · paper 805611215001

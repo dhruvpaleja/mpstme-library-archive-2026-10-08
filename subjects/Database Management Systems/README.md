@@ -1,6 +1,6 @@
 # Database Management Systems
 
-**197** unique papers (268 copies across programmes) · 2005-06 to 2025-26 · 41 programmes · Sem 1, Sem 3, Sem 4, Sem 5, Sem 6, Sem 7, Sem 8, Trim 2, Trim 3, Trim 4
+**205** unique papers (276 copies across programmes) · 2005-06 to 2025-26 · 43 programmes · Sem 1, Sem 3, Sem 4, Sem 5, Sem 6, Sem 7, Sem 8, Trim 2, Trim 3, Trim 4
 
 Download only this subject, sorted by academic year:
 
@@ -27,6 +27,7 @@ Also filed as: `DATABASE MANAGEMENT SYSTEM`, `Database Management System`
 | 2025-26 | Final-Exam | Question paper | Sem 4 | BTech Computer 7002 | QP_Database Management Systems(702AI0C027)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech CyberSecurity 7010, BTech IT 7001 | QP_Database Management Systems(702AI0C027)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 3 | BTech DS 7009 | QP_Database Management Systems(702AI0C027)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 1 | Bachelor of Commerce - 45611 | QP_Final-Exam_Database Management Systems(NADBM105)_Semester I_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | Integrated Computer 7032 | QP_Database Management Systems(702AI0C001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | Integrated DS 7038 | QP_Database Management Systems(702AI0C001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Database Management Systems(703AI0C003)_2025-2026.pdf |
@@ -45,6 +46,7 @@ Also filed as: `DATABASE MANAGEMENT SYSTEM`, `Database Management System`
 | 2025-26 | Final-Exam | Answer key | Sem 4 | BTech Computer 7002 | ANS_Database Management Systems(702AI0C027)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 3 | BTech CyberSecurity 7010, BTech IT 7001 | ANS_Database Management Systems(702AI0C027)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 3 | BTech DS 7009 | ANS_Database Management Systems(702AI0C027)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | Bachelor of Commerce - 45611 | ANS_Final-Exam_Database Management Systems(NADBM105)_Semester I_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated Computer 7032 | ANS_Database Management Systems(702AI0C001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 8 | Integrated DS 7038 | ANS_Database Management Systems(702AI0C001)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 7 | Integrated IT 7037 | ANS_Database Management Systems(702AI0C001)_2025-2026.docx |
@@ -64,6 +66,7 @@ Also filed as: `DATABASE MANAGEMENT SYSTEM`, `Database Management System`
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech CyberSecurity 7010 | QP_Database Management Systems(702AI0C027)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech DS 7009 | QP_Database Management Systems(702AI0C027)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 3 | BTech IT 7001 | QP_Database Management Systems(702AI0C027)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 1 | Bachelor of Commerce - 45611 | QP_Re-Exam_Database Management Systems(NADBM105)_Semester I_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | Integrated Computer 7032 | QP_Database Management Systems(702AI0C001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 8 | Integrated DS 7038 | QP_Database Management Systems(702AI0C001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Database Management Systems(703AI0C003)_2025-2026.pdf |
@@ -81,6 +84,7 @@ Also filed as: `DATABASE MANAGEMENT SYSTEM`, `Database Management System`
 | 2025-26 | Re-Exam | Answer key | Sem 3 | BTech CyberSecurity 7010 | ANS_Database Management Systems(702AI0C027)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 3 | BTech DS 7009 | ANS_Database Management Systems(702AI0C027)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 3 | BTech IT 7001 | ANS_Database Management Systems(702AI0C027)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | Bachelor of Commerce - 45611 | ANS_Re-Exam_Database Management Systems(NADBM105)_Semester I_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated Computer 7032 | ANS_Database Management Systems(702AI0C001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated DS 7038 | ANS_Database Management Systems(702AI0C001)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 1 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Database Management Systems(703AI0C003)_2025-2026.pdf |
@@ -124,8 +128,12 @@ Also filed as: `DATABASE MANAGEMENT SYSTEM`, `Database Management System`
 | 2022-23 | Re-Exam | Question paper | Sem 1 | MCA | Database Management Systmes Batch 2022-23 Re Exam0001.pdf |
 | 2021-22 | Final-Exam | Question paper | Sem 4 | B TECH / CSBS | B Tech, CSBS, Database Management Systems, 2nd Year, Sem-IV, Final Exam, 2021-22.pdf |
 | 2021-22 | Final-Exam | Question paper | Sem 4 | B TECH / DATA SCIENCE | B Tech, Database Management System, 2nd Year, Sem-IV, Final Exam, 2021-22.pdf |
+| 2021-22 | Final-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / COMPUTER | Database_Management_Systems_2021-22_Final0001_UPoqD1bQYv.pdf |
+| 2021-22 | Final-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / EXTC | Database_Management_Systmes_2021-22_Final0001_XZ0ANlZR6e.pdf |
 | 2021-22 | Re-Exam | Question paper | Sem 4 | B TECH / CSBS | Database Management Systems, Sem-IV, Re-Exam, Year 2021-22.pdf |
 | 2021-22 | Re-Exam | Question paper | Sem 4 | B TECH / DATA SCIENCE | Database Management Systmes, Sem-IV, Re-Exam, Year 2021-22.pdf |
+| 2021-22 | Re-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / COMPUTER | Database_Management_System_Batch_2021-22_Re_Exam0001_fDeDFdFQs4.pdf |
+| 2021-22 | Re-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / EXTC | Database_Management_Systmes_Batch_2021-22_Re_Exam0001_kfOIBWmfTi.pdf |
 | 2019-20 | Final + Re-Exam | Question paper | Sem 5 | B.TECH INTEGRATED / COMPUTER | Database Management Systems 2019-20 Final Batch 2017-18,2018-19 Re Exam.pdf |
 | 2019-20 | Final-Exam | Question paper | Sem 3 | B TECH / I T, MBA TECH / I T | DATABASE MANAGEMENT SYSTEMS B TECH (IT),_2019-20_FINAL EXAM.pdf |
 | 2019-20 | Final-Exam | Question paper | Sem 1 | MCA | Database Management Systems 2019-20 Final.pdf |

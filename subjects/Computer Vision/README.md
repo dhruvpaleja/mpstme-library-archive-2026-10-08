@@ -1,6 +1,6 @@
 # Computer Vision
 
-**55** unique papers (85 copies across programmes) · 2018-19 to 2025-26 · 27 programmes · Sem 1, Sem 2, Sem 6, Sem 7, Sem 8, Sem 12, Trim 2
+**57** unique papers (87 copies across programmes) · 2018-19 to 2025-26 · 28 programmes · Sem 1, Sem 2, Sem 6, Sem 7, Sem 8, Sem 12, Trim 2
 
 Download only this subject, sorted by academic year:
 
@@ -23,6 +23,7 @@ Also filed as: `COMPUETR VISION`, `COMPUTER VISION FOR AI`
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech CSE DS 7011, BTech CSE DS 7057 | QP_COMPUTER VISION(702EX0E015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Computer 7002 | QP_COMPUTER VISION(702EX0E015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 2 | MASTER OF TECHNOLOGY (ARTIFICIAL INTELL | QP_Computer Vision(703DB0E027)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | MASTER OF TECHNOLOGY - DATA SCIENCE (BUSINESS ANALYTICS) - 7027 | QP_Final-Exam_Computer Vision(703DB0E027)_Semester II_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech Computer 7047 | QP_COMPUTER VISION(702EX0E015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | BTech AIDS 7056 | ANS_COMPUTER VISION FOR AI(702AI0C029)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 7 | BTech AI 7012, BTech AIML 7053, MBATech AI 7051 | ANS_COMPUTER VISION FOR AI(702AI0C029)_2025-2026.pdf |
@@ -30,6 +31,7 @@ Also filed as: `COMPUETR VISION`, `COMPUTER VISION FOR AI`
 | 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CSE DS 7011, BTech CSE DS 7057 | ANS_COMPUTER VISION(702EX0E015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | BTech Computer 7002 | ANS_COMPUTER VISION(702EX0E015)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 2 | MASTER OF TECHNOLOGY (ARTIFICIAL INTELL | ANS_Computer Vision(703DB0E027)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | MASTER OF TECHNOLOGY - DATA SCIENCE (BUSINESS ANALYTICS) - 7027 | ANS_Final-Exam_Computer Vision(703DB0E027)_Semester II_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_COMPUTER VISION(702EX0E015)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech AI 7012 | QP_COMPUTER VISION FOR AI(702AI0C029)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech AIDS 7056 | QP_COMPUTER VISION FOR AI(702AI0C029)_2025-2026.pdf |

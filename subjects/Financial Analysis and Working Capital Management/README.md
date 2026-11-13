@@ -1,6 +1,6 @@
 # Financial Analysis and Working Capital Management
 
-**18** unique papers (19 copies across programmes) · 2015-16 to 2023-24 · 1 programme
+**19** unique papers (20 copies across programmes) · 2015-16 to 2023-24 · 1 programme
 
 Download only this subject, sorted by academic year:
 
@@ -16,6 +16,7 @@ Also filed as: `FINANCIAL ANALYSIS AND WORKING CAPITAL`, `Financial Analysis and
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2023-24 | Re-Exam | Question paper |  | MBA TECH | Financial_Analysis_and_Working_Capital_Management___Re_Exam_2022-23__2023-24_mQBMfJDNBR.pdf |
 | 2023-24 | Re-Exam | Question paper |  | MBA TECH | Financial Analy & Working Capital Mgmt, Re-exam 2022-23,2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper |  | MBA TECH | Financial Analysis & working Capital Management, Re-exam (2022-23,2023-24).pdf |
 | 2022-23 | Re-Exam | Question paper |  | MBA TECH | Financial Analysis & working capital mgmt , Re-exam 2022-23.pdf |

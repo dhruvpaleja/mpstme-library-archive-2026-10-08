@@ -1,6 +1,6 @@
 # Machine Drawing
 
-**3** unique papers (7 copies across programmes) · 2023-24 to 2024-25 · 2 programmes · Sem 3
+**4** unique papers (8 copies across programmes) · 2023-24 to 2024-25 · 3 programmes · Sem 3, Sem 7
 
 Download only this subject, sorted by academic year:
 
@@ -15,6 +15,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2024-25 | Final-Exam | Question paper | Sem 3 | B TECH / MECHANICAL | Machine Drawing Batch 2024-25 Final.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / MECHANICAL | Machine_Drawing_Batch_2024-25_Re_Exam0001_4F1SttWJc9.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 3 | B TECH / MECHANICAL, MBA TECH / MECHANICAL | Machine Drawing , Final 2023-2024.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 3 | B TECH / MECHANICAL, MBA TECH / MECHANICAL | Machine Drawing ,Re-exam 2023-24.pdf |
 

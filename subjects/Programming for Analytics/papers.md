@@ -1,6 +1,6 @@
 # Programming for Analytics: question papers in full
 
-10 unique papers · 2023-24 to 2025-26 · Data Science, Information Technology
+11 unique papers · 2023-24 to 2025-26 · Data Science, Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -461,6 +461,319 @@ dataset.
 2/2
 
 &
+````
+
+## 2024-25 · Final + Re-Exam · Sem 8 · paper 3456261740de
+
+- Departments: Information Technology
+- Programmes: B.TECH INTEGRATED / IT
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: IT/SEMESTER VIII/Programming for Analytics/Programming_for_Analytics_Batch_2024-25_Final_Batch_2022-23_2023-24_Re_Exam_Vq8oR1cHwX.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (6 pages), mean OCR confidence 77.6
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS ‘
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+ee
+
+Academic Year: 2024-2025 Ss pereins
+Program/s: B.Tech/MBA Tech/B.Tech (Intg.) Year: II/TV Semester: IV/Vill
+Stream/s :Information Technology of ie
+Subject: Programming for Analytics Time: 3 hrs (10.00 AM to 1.00 PM)
+Date: o2\05 }20 25 No. of Pages: 06
+Marks: 100
+
+Final Examination/Re-Examination (2022-23 ,2023-24)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper
+and on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Figures in brackets on the right hand side indicate full marks.
+
+6) Assume Suitable data if necessary.
+
+7) Create a folder named TEE in SAS on Demand for Academics application. Upload all the data
+files given.
+
+8) Create a library named “Exam” pointing to this folder.
+
+9) All programs to be saved in a folder named PA ~* *
+
+10) Create a single pdf clearly indicating the question number and screenshots of code and the
+
+output.
+Qi
+Answer briefly: [20]
+a. Create a temporary table using SASHELP.CREDIT Table which includes
+co-1; only those observations where locale is “fr’. Show the code. How
+-1: [05]
+pes many observations and numeric variables are there in the new
+dataset?
+b. Write a code to print the following output using SASHELP.BASEBALL i
+TABLE.
+CO-2; Show the code.
+SO- 1; , [05]
+BL-4 Variable Label N Mean StdDev Minimum Maximum
+OHits Hits in 1986 322 10340 44.18 31.00 238.00
+nHome Home Runsin 1986 322 11.10 8.70 0.00 40.00
+CrHits Career Hits 322 747.69 654.79 34.00 4256.00
+
+CO-3; G Using the SASHELP.CARS dataset, write a SAS program that creates a
+
+$0-1; {05}
+BL-3 temporary table and rounds the MSRP values to the nearest hundred
+
+1/6
+--- page 2 ---
+¥
+
+and stores it in a variable MSRPNEW. Print the report showing the new
+variable along with the original variable.
+
+Show the Code and the Report screenshot.
+
+d. Use the SAS data set customer_dim and create a temporary table
+Customer_new which stores a variable gender as “Female” if
+
+Customer_Gender is “F” and “Male” if Customer_Gender is “M”.
+
+cO-4; Print the following report for this new table. Show the Code.
+SO-1; [05]
+BL-3 Obs Customer_Name Customer_Group Gender
+1 James Kvarniq Orion Club members. Male
+6 David Black Orion Club members: Male
+7 Markus Sepxe Orion Club Goki members Male
+Write a program to sort UNSORTED.sas7bdat Table and create two
+output tables; Sorted and dupsorted in which the first table stores the
+Q2
+sorted data and the dupsorted stores all the duplicate observations.
+CO-2; a. {15]
+SO-1; Print the observations of dupsorted table.
+BL-4 Show the code and the screenshot of report. What is the value of
+subject in the first row of dupsorted table?
+a2 Write a code to create customized dataset using Sorted.sas7bdat
+. Table created above. Include only those observations where the
+cO-1; b. [05]
+SO-1; subject is Math and Marks are not equal to 90.How many observations
+a are there in the new dataset? Show the code.
+Obtain a table insurance.sas7bdat using the file insurance.csv and
+Q3
+create 2 meaningful reports. Also, write your analysis based on the
+CO-3; a. [45]
+50-1; reports. Show the code and analyze the output of both the reports.
+BL-4
+b. | Demonstrate the use of macrovariable by completing the code that
+Q3 uses insurance table created above to get the following output:
+CO-2; %let Region=southwest;
+[05]
+SO-1; proc means data=insurance;
+BL-3 where Region=_
+
+var i
+
+2/6
+--- page 3 ---
+run;
+
+The MEANS Procedure
+
+Analysis Variable : age
+ig
+
+225 30.4553848 12.0508855 19.0000000 84.0000000
+Show the code.
+
+How many observations were read?
+
+a4
+
+CcO-4;
+SO-1;
+BL-3
+
+Create two temporary datasets boys and girls using sashelp.class such
+that, wherever the sex is F, the observations are stored in girls table,
+and wherever sex=M, the observations are stored in boys table. Also,
+create a column Gender which stores Female in girls table and Male in
+boys table.
+
+Generate the following reports for each of these tables.
+Show the code. :
+
+Obs Name Age Height Gender
+
+1 Alice 13 57 Female
+2| Barbara 13 65 Female
+3] Cacok 14 63 Female
+“4 Jane 12 60 Female
+5 Janet 15 63 Female
+
+Obs Name Age Height | Gender
+
+1 Alfred 14 68 Male
+2 Henry 14 64 Male
+3 James 12 57) Male
+4 Jefkey 12 63 Male
+5 John 12 5e@ (Male
+
+{15}
+
+3/6
+--- page 4 ---
+4
+
+Get the following reports for the Girls and Boys Table created above:
+
+Show the relevant code.
+
+GIRLS DATA
+HEIGHT AND WEIGHT INFORMATION FOR GIRLS
+
+Obs Name Sex Age Height Weight Gender
+
+1) Alice F 12 57 84° Female
+2 Barbara F i 65 83 Female
+3 Cart =F 14 62 102 Female
+4 Jane F 12 60 35 Female
+a4 6 vanes F 15 2 112 Female
+CO-2; b. ENO OF REPORT [05]
+SoO-1;
+BL-3
+BOYS DATA
+HEIGHT AND WEIGHT INFORMATION FOR BOYS
+>
+Obs Name Sex Age Height Weight Gender
+1 Aired M 14 60 112 Male
+2 Heny M 14 64 103 Male
+3 James M 12 57 83 Male
+4 Jeffrey M 2 82 84 Male
+5 Jon OM 12 59 100 Male
+END OF REFORT
+Using stormexam table, create a new temporary table storm_new
+and use it to generate the following report. Clearly identify the
+variables used for creating new columns   StormDetailsi,
+StormDetails2, StormDetails3 and use appropriate functions to create
+these new columns.
+Qs Storm Description
+BL-3 44 GREG 2017Indian GREG-2017indian GREG-2017-indian
+43 ELLA2017Pacific ELLA-2017P ache ELLA-2017-Pacific
+14 ADRIAN 2017Pacific   ADRIAN-2017Pacific — ADRIAN-2017-Pacific
+15 MORA2017Indian MORA-2017indian MORA-2017-Indian
+end of report
+
+Show the code.
+
+4/6
+--- page 5 ---
+How many observations and numeric variables are there in the
+
+storm_new table?
+
+Q5 b. | Use appropriate code to access all the sheets of Demand.xIsx File
+CcO-3; and print the first five observations of Data2 sheet. [05]
+SO-1;
+BL. 3 Show the code and Output.
+Concatenate libref.sSTORM_SUMMARY and libref.STORM_2017 to get
+the following output (include the variables as shown in the report and
+first 20 observations).Identify the column that should be renamed to
+ensure that you get the following output. Show the code.
+Obs Season Basin Name StartDate EndDate MaxWindMPH MinPressure
+4 2017 NA ARLENE IGAPR201T 21APR2017 50 920
+2 2017 NA BRET 1QJUN2017 20JUN2017 45 1007
+3 2017 NA CINDY 20JUN2017 = 23JUN2017 60 oe2
+Q6 4 2017 NA DON ATJULZ017 = 18JUL2017 50 1007
+5 2017 NA EMILY 31JUL2017 92AUG2017 45 1005
+CO-1; 6 2017 NA FRANKLIN O7AUG201T 10AUG2017 85 ost
+Ne) 1 a. 7 2017 NA GERT WAUG2017 17AUG2017 106 OF {15]
+TA, 8 2017 NA HARVEY ITAUG2017 + O§SEP2017 130 938
+BL-4 : 2017 NA IRMA 3O0AUG2017 12SEP2017 185 O14
+i 10 2017 NA JOSE O5SEP2017 22SEP2017 155 038
+cil j 2017 NA KATIA 05JUN2017 O9SEP2017 105 972
+12 2017 NA Lee ISSEP2017 30SEP2017 15 62
+13 2017 NA MARIA 10SEP2017T 20SEP2017 175 eos
+14 2017 NA NATE Q40CT2017 O80CT2017 90 31
+16 2017 NA OPHELIA C9OCT2017 =1BOCT2017 5 0
+16 2017 NA PHILIPPE 280CT2017 200CT2017 60 nT
+47 2017 NA RINA O6NOV2017 OONOV2017, 60 5
+18 2017 «EP ADRIAN QBMAY201T 10MAY2017 45 1004
+19 2017 «EP BEATRIZ QIMAY2017 — 02JUN2017 45 1001
+20 2017 «EP CALVIN VJUN2017 = 13JUN2017 45 1004 .
+b. | Use the concatenated table created above and format the columns to
+get the following output report. Show the code.
+Q6
+Obs Season Basin Name StartDate EndDate MaxWindMPH MinPressure
+cO-3; 2017 NA ARLENE 19APRI7   21APRI7 50.0 920.0 | [05]
+SO-1; 2017 NA BRET 1QJUN17 = 20JUN17 45.0 1007.0
+BL-3 "3 > 2017 NA CINDY = 20JUNIT_ 230UN17 60.0 992.0
+4 2017) (NA DON WJULIT =: 1SJUL IT 50.0 1007.0
+Ly 2017) NA EMILY B1JULIT §=O2AUGIT 45.0 1006.0
+Q7 Write a code to get the following report (the screenshot is just a small
+a. . 5 10
+CO-2; snippet of the complete output) using SASHELP.CARS. Show the code. [10]
+SO-1;
+
+‘ 5/6
+--- page 6 ---
+4
+
+BL-4 Give two inferences (analysis) for different Types of cars of ACURA’
+Make?
+Selected Summary Statistics of Cars
+Make Type NObs Variable Minimum Mean Maximum
+Acura suv 1 MSRP 38045.00 26045.00   36945.00
+Invoice 32337.00 3332700 © 32337.00
+Sedan 5 MSRP (22820.00 24772.00 486100.00
+Invoice 2176100 3136420 © 41100.00
+Sports 1 MSRP $0765.00 $0785.00 380765.00
+Invoice 7097809 70973900 7978.00
+Audi Sedan 13° MSRP (25040.00 4107.69 89109.00
+Invoice 22608.00 2740054   64740.00
+Spons 4 MSRP 35040.00 4982000 4800.00
+Invoice 3251200 44889.75 76417.60
+‘Wagon 2 MSRP — 40840.00   44905.00   49000.00
+tmoice 37060.00 40753.00 44446.00
+BMW suv 2. MSRP 3700000 4450750 §2105.00
+voice $2873.00 4070650   47720.00
+Sedan 13° MSRP 28495.00 4337962 72105.00
+lnveice 26155.00 20608.85   66830.00
+Sports 4 MSRP 32805.00 4492250   56505.00
+Invoice 31065.00 41158.25 51815.00
+‘Wagon 1 MSRP — 32845.00 | 2845.00 32845.09
+invoice 2019.00" 2010.00 20119.00
+Suck suv 2 MSRP 26545.00 22220.00 37895.00
+levoice 2408600" 29221.00 24357.00
+Sedan 7 MSRP 22180.00 20057.14   40720.00
+Invoice 2038100 27484.57   38027.00
+Cadillac suv 2 MSRP 46005.09 49805.00   52705.00
+invoice 42523.00   45950.00 4837.00
+Sean 4 MSRP -30825.00 43707.50 50505.00
+Invoice 28575.00 40107.90   46362.00
+b. | Identify the Datatype of Volume, Date and High Variables in libref.T7
+Table. What is wrong with it?
+Create a new dataset T7_New by manipulating the datatypes of
+Volume and Date Column to suitable types and print the following
+Q7 report.
+Obs Stock Datenew Volumenew °
+CO-4; — “> [10]
+S0-1: 5 ABC Company 96/01/17 4801386
+, 6 ABC Company 07/02/17 3056590
+BL-3 7 ABC Company 06/01/17 8430536
+
+8 ABC Company 05/01/17 “6896904
+9 ABC Company 04/03/17 10700200
+10 ABC Company 02/01/17 5025627
+
+6/6
 ````
 
 ## 2024-25 · Final + Re-Exam · Sem 4 · paper f5a370dc4c16

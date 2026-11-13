@@ -1,6 +1,6 @@
 # Fundamentals of Microwave Engineering
 
-**27** unique papers (33 copies across programmes) · 2007-08 to 2019-20 · 4 programmes · Sem 5, Sem 6, Trim 6
+**31** unique papers (37 copies across programmes) · 2007-08 to 2019-20 · 5 programmes · Sem 5, Sem 6, Sem 7, Trim 6
 
 Download only this subject, sorted by academic year:
 
@@ -17,9 +17,13 @@ Also filed as: `FUNDAMENTAL OF MICROWAVE ENIGENEERING`
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2019-20 | Final + Re-Exam | Question paper | Sem 5 | B TECH / EXTC, MBA TECH / EXTC | Fundamentals of Microwave engg, Final 19-20,Re-exam 18.pdf |
+| 2019-20 | Final + Re-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / EXTC | Fundamentals_of_Microwave_Engineering_2019-20_Final_Batch_2018-19_Re_Exam_hGGCulukLt.pdf |
+| 2018-19 | Final-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / EXTC | Fundamentals_of_Microwave_Engineering_2018-19_Final_vdwgmuLnKG.pdf |
 | 2018-19 | Re-Exam | Question paper | Sem 5 | B TECH / EXTC | FUNDAMENTALS OF MICROWAVE ENGINEERING BATCH 2017-18 18-19 RE EXAM.pdf |
 | 2018-19 | Re-Exam | Question paper | Sem 5 | B TECH / EXTC, MBA TECH / EXTC | Fundamentals of Microwave engineering F 18-19 Re 17-18.pdf |
+| 2018-19 | Re-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / EXTC | Fundamentals_of_Microwave_Engineering_Batch_2018-19_Re_Exam_eTak3mqdGp.pdf |
 | 2017-18 | — | Question paper | Sem 5 | MBA TECH / EXTC | Fundamentals of Microwave engineering 2017-18 (EXTC).pdf |
+| 2017-18 | Final-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / EXTC | Fundamentals_of_Microwave_Engineering_2017-18_Final_fOclCCwmm3.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 5 | B TECH / EXTC | FUNDAMENTALS OF MICROWAVE ENGINEERING BATCH 14-15 RE EXAM 2017-18.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 5 | B TECH / EXTC | FUNDAMENTALS OF MICROWAVE ENGINEERING BATCH 16-17 RE EXAM 2017-18.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 5 | B TECH / EXTC | FUNDAMENTALS OF MICROWAVE ENGINEERING BATCH 17-18 RE EXAM 2017-18.pdf |

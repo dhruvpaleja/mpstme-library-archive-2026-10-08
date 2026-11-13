@@ -1,6 +1,6 @@
 # Principles of Management
 
-**31** unique papers (36 copies across programmes) · 2007-08 to 2025-26 · 10 programmes · Sem 1, Sem 3, Sem 5, Trim 1
+**39** unique papers (44 copies across programmes) · 2007-08 to 2025-26 · 12 programmes · Sem 1, Sem 2, Sem 3, Sem 5, Trim 1
 
 Download only this subject, sorted by academic year:
 
@@ -17,14 +17,22 @@ Also filed as: `PRINCIPAL OF MANAGEMENT`, `Principle of Management`
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH / CSE Data Science (311) | Principles of Management, Sem-V, Year 2025-26 Final Exam.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | Bachelor of Commerce - 45611 | QP_Final-Exam_Principles Of Management(NAPOM152)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 1 | Bachelor of Management Studies - 45614 | QP_Final-Exam_Principles Of Management(NBPOM101)_Semester I_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 1 | MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052, MBATech IT 7041 | QP_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | Bachelor of Commerce - 45611 | ANS_Final-Exam_Principles Of Management(NAPOM152)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | Bachelor of Management Studies - 45614 | ANS_Final-Exam_Principles Of Management(NBPOM101)_Semester I_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 1 | MBATech AI 7051, MBATech Computer 7047, MBATech DS 7052 | ANS_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 1 | MBATech IT 7041 | ANS_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech CSE DS 7011 | QP_Principles of Management(702TG0C010)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | Bachelor of Commerce - 45611 | QP_Re-Exam_Principles Of Management(NAPOM152)_Semester II_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 1 | Bachelor of Management Studies - 45614 | QP_Re-Exam_Principles Of Management(NBPOM101)_Semester I_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | MBATech AI 7051 | QP_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | MBATech Computer 7047 | QP_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 1 | MBATech DS 7052 | QP_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CSE DS 7011 | ANS_Principles of Management(702TG0C010)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | Bachelor of Commerce - 45611 | ANS_Re-Exam_Principles Of Management(NAPOM152)_Semester II_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 1 | Bachelor of Management Studies - 45614 | ANS_Re-Exam_Principles Of Management(NBPOM101)_Semester I_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 1 | MBATech AI 7051 | ANS_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 1 | MBATech Computer 7047 | ANS_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 1 | MBATech DS 7052 | ANS_PRINCIPLES OF MANAGEMENT(702TG0C018)_2025-2026.pdf |

@@ -1142,3 +1142,480 @@ banking. Their role in credit creation and economic development makes them
 vital for a stable and growing economy.
 ********** 30 **********
 ````
+
+## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 740a4dadf899
+
+- Departments: Data Science
+- Programmes: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE) - 7011
+- Source: `00_Original_Downloads/2024/Semester II/69329__Re-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE) - 7011/Principles of Economics -I/ANS_Re-Exam_Principles of Economics -I(702TG0C006)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 07 Jul 2025
+- Text: mixed (14 pages), mean OCR confidence 33.3
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND
+ENGINEERING (DATA SCIENCE)
+Year: I/Sem 2 Re-exam(Exam Year: 2024-2025)
+Subject: Principles of Economics -I
+Date: 07 Jul 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 14 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Draw Diagram wherever necessary
+Q1   [20
+Answer briefly:
+]
+a.   Elaborate on Liberalization, Privatization and Globalization.
+Solution
+•   Definition and importance of each term: (3 Marks)
+o   Liberalization: Removal of restrictions on trade, investment,
+and economic activities to allow free-market policies.
+CO- 1;   o   Privatization: Transfer of ownership from the public sector to
+SO-2;   private entities to improve efficiency.   [5]
+BL-2   o Globalization: Integration of economies through trade,
+investment, and cultural exchange.
+• Examples of LPG policies in India: (2 Marks)
+o 1991 Economic Reforms, FDI policies, and globalization-
+driven industries
+b.   Discuss the concept of Multiplier.
+The Multiplier Effect refers to the process by which an initial increase in
+spending leads to a more than proportional increase in national income and
+CO- 1;   economic activity. It is a key concept in Keynesian economics, explaining
+SO-2;   how an economy responds to changes in investment, government spending,   [5]
+BL-2   or consumption.
+********** 1 **********
+--- page 2 ---
+Investment Multiplier
+• The increase in national income resulting from an increase in
+investment.
+• Higher investment leads to higher production, employment, and
+demand.
+c.   Elucidate meaning and importance of demand forecasting.
+Solution
+•   Definition of demand forecasting: (2 Marks)
+CO- 1;
+o Estimating future demand for goods/services using data
+SO-2;   [5]
+analysis.
+BL-2
+•   Its role in business decision-making: (3 Marks)
+o Helps firms plan production, inventory, and pricing strategies.
+d.   Explain different government policies to promote Foreign Direct Investment
+(FDI) in India.
+Solution
+Government Policies to Promote FDI in India (5 Marks)
+CO- 1;
+SO-2;   [5]
+• FDI policies, incentives, and sectors impacted: (3 Marks)
+BL-2
+o Relaxed norms in retail, manufacturing, and infrastructure.
+• Examples of successful FDI initiatives: (2 Marks)
+o Make in India, 100% FDI in certain sectors.
+a.   Show in a diagram the effect on the demand curve, the supply curve,
+the equilibrium price, and the equilibrium quantity of each of the
+following events.
+I.   The market for newspapers in your town
+Case 1: The salaries of journalists go up.
+Case 2: There is a big news event in your town, which is reported in the
+news papers
+Q2
+CO-
+II.   The market for St. Louis Rams cotton T-shirts
+2;
+Case 1: The Rams win the Super Bowl.
+SO-   [2
+Case 2: The price of cotton increases.
+2;   0]
+III.   The market for bagels
+Case 1: People realize how fattening bagels are.
+BL3,
+4
+b. A recent government report highlights a steady rise in household incomes due to
+economic growth. As a result, families are spending more on goods and services,
+while also saving a portion of their earnings. However, the report also notes that
+lower-income households tend to spend a larger fraction of their income, whereas
+higher-income households allocate more towards savings.
+********** 2 **********
+--- page 3 ---
+At the same time, an economic slowdown in the following year leads to uncertainty,
+causing consumers to reduce their spending and increase precautionary savings.
+Businesses experience lower sales, which further affects economic growth.
+I.   What is the consumption function, and how does it relate to income
+levels?
+II.   Explain the concepts of Marginal Propensity to Consume (MPC) and
+Marginal Propensity to Save (MPS) in the context of the case study.
+III.   Analyze why do lower-income households spend a greater proportion of
+their income compared to higher-income households?
+Solution
+Market Changes Analysis (10 Marks)
+• Each case’s impact on demand/supply curves: (5 Cases x 2 Marks each)
+Case 1: Journalists are an input in the production of newspapers; an increase in
+their salaries will cause newspaper publishers to reduce the quantity supplied at any
+given price. This represents a leftward shift of the supply curve from S1 to S2 and
+results in a rise in the equilibrium price and a fall in the equilibrium quantity as the
+equilibrium changes from E1 to E2.
+Case 2: Townspeople will wish to purchase more newspapers at any given price.
+This represents a rightward shift of the demand curve from D1 to D2 and leads to
+a rise in both the equilibrium price and quantity as the equilibrium changes from
+E1 to E2.
+Solutions:
+a. Case 1: Fans will demand more St. Louis Rams memorabilia at any given price.
+This represents a rightward shift of the demand curve from D1 to D2 and leads to a
+rise in both the equilibrium price and quantity as the equilibrium changes from E1
+to E2.
+********** 3 **********
+--- page 4 ---
+Case 2: Cotton is an input into T-shirts; an increase in its price will cause T-shirt
+manufacturers to reduce the quantity supplied at any given price, representing a
+leftward shift of the supply curve from S1 to S2. This leads to a rise in the equilibrium
+price and a fall in the equilibrium
+Case 1: Consumers will demand fewer bagels at any given price. This represents a
+leftward shift of the demand curve from D1 to D2 and leads to a fall in both the
+equilibrium price and quantity as the equilibrium changes from E1 to E2.
+B
+Consumption Function & MPC/MPS (10 Marks)
+•   Explanation of Consumption Function: (3 Marks)
+o Shows relationship between consumption and income.
+•   Analysis of MPC and MPS from the case study: (4 Marks)
+o MPC = Change in consumption/change in income.
+o MPS = Change in savings/change in income.
+• Why lower-income groups spend more? (3 Marks)
+o Higher MPC, essential consumption needs.
+********** 4 **********
+--- page 5 ---
+a. Illustrate with the help of diagram the law of diminishing marginal utility.
+b. XYZ Corporation, a manufacturing firm, is planning to expand its production capacity.
+The company’s decision depends on several economic factors, including interest rates,
+business confidence, and expected future demand. Initially, the central bank lowers
+interest rates, making borrowing cheaper. This encourages XYZ Corporation to invest in
+new machinery and infrastructure. However, a year later, due to global economic
+uncertainty, business confidence declines, leading the company to reconsider its
+investment plans despite low interest rates. Additionally, a rise in production costs and
+uncertainty about future consumer demand further discourage XYZ’s expansion plans.
+I.   Define investment function. Analyse how do economic factors influence
+business investment decisions?
+II.   Despite lower interest rates, discuss why did declining business confidence
+affect XYZ’s investment decisions.
+Solution-
+A
+Q3
+CO-   Law of Diminishing Marginal Utility (10 Marks)
+2;
+SO-   • Diagram illustrating the law: (4 Marks)   [2
+2;   •   Explanation with real-life examples: (6 Marks)   0]
+BL-
+3,4-   As consumption increases, additional satisfaction decreases.
+B
+Investment Function Case Study (10 Marks)
+•   Definition of Investment Function: (2 Marks)
+• How economic factors influence investment? (4 Marks)
+o   Interest rates, business confidence, demand expectations.
+• Impact of declining business confidence: (4 Marks)
+o Reduces willingness to invest despite low borrowing costs.
+Q4   a. A firm uses labor as a variable input while keeping capital fixed. The following
+CO-3   table shows the total product (TP) when different units of labor are employed.
+SO-   Labor (Units) Total Product (TP)   [2
+2;   1   10   0]
+BL3,   2   24
+4--   3   39
+********** 5 **********
+--- page 6 ---
+4   48
+5   50
+1. Calculate the Marginal Product (MP) for each additional unit of labour.
+2. Identify the three stages of the Law of Variable Proportions from the data.
+3. Explain why the MP starts declining after a certain point.
+b. Discuss 3-sector circular flow of national income with the help of diagram
+Solution
+Marking Scheme (Total: 10 Marks)
+1. MP Calculation – (3 Marks)
+2. Identification of Three Stages – (4 Marks)
+3. Explanation for MP Decline – (3 Marks)
+a
+Identify the Three Stages of the Law of Variable Proportions
+The Law of Variable Proportions explains how output changes as more units of a variable
+factor (labor) are added to a fixed factor (like land or capital). The three stages are:
+1. Stage 1: Increasing Returns to Labor (1 to 3 units of labor)
+o MP is increasing (10 → 14 → 15).
+o Each additional unit of labor adds more output due to better utilization of
+fixed factors.
+2. Stage 2: Diminishing Returns to Labor (3 to 4 units of labor)
+o MP starts decreasing (15 → 9).
+o The fixed factor becomes a constraint, leading to lower additional output
+per worker.
+3. Stage 3: Negative Returns (4 to 5 units of labor)
+o MP drops significantly (9 → 2).
+o Adding more labor leads to overcrowding and inefficiencies, reducing
+productivity.
+3. Explanation for the Decline in Marginal Product (MP)
+MP declines after a certain point due to:
+********** 6 **********
+--- page 7 ---
+• Fixed Factor Constraint: Capital or land remains constant, limiting production
+efficiency.
+•   Overutilization of Resources: Too many workers using the same fixed resources
+reduces productivity.
+• Diminishing Returns: Each additional worker adds less to output than the
+previous one.
+Diagram and explanation. (5 Marks for diagram, 5 Marks for explanation)
+a. A firm produces a product using labor and capital. The following table shows the
+firm’s cost structure at different output levels.
+Output   Total Fixed Cost   Total Variable cost
+0   150   0
+1   150   70
+2   150   130
+3   150   180
+4   150   220
+I.   Define and Calculate Total cost (TC), Average cost (AC), Average
+Q5   fixed cost (AFC) and Average Variable cost (AVC) and Marginal cost
+CO-3   (MC)
+SO-   II.   Differentiate between Economic cost and accounting cost.
+2;   III.   Analyze how do cost structures differ in the short run and long run?   [2
+0]
+BL3,   B Discuss different measures used by RBI to control Inflation
+4-
+Solution
+Definitions & Formulas:
+1. Total Cost (TC) = Fixed Cost (FC) + Variable Cost (VC)
+2. Average Cost (AC) = Total Cost (TC) ÷ Output (Q)
+3. Average Fixed Cost (AFC) = Fixed Cost (FC) ÷ Output (Q)
+4. Average Variable Cost (AVC) = Variable Cost (VC) ÷ Output (Q)
+5. Marginal Cost (MC) = Change in Total Cost (ΔTC) ÷ Change in Output (ΔQ)
+********** 7 **********
+--- page 8 ---
+Cost Structure Analysis (Total: 10 Marks)
+a) Cost Calculations (5 Marks)
+• TC, AC, AFC, AVC, and MC calculations.
+b) Economic Cost vs. Accounting Cost (3 Marks)
+• Economic cost includes opportunity cost, accounting cost focuses on explicit
+costs.
+c) Short-Run vs. Long-Run Cost Structures (2 Marks)
+• Fixed vs. variable costs and economies of scale.
+Inflation refers to the sustained rise in the general price level of goods and services. The
+Reserve Bank of India (RBI), as the central bank, controls inflation through monetary
+policy tools to ensure price stability while supporting economic growth.
+RBI uses two types of measures to control inflation:
+1. Quantitative Measures – Affect the overall money supply.
+2. Qualitative Measures – Influence specific sectors of the economy.
+1. Quantitative Measures (General Tools to Regulate Money Supply)
+a) Repo Rate (Policy Rate)
+•   Definition: The interest rate at which the RBI lends money to commercial banks.
+•   Effect on Inflation:
+o Increase in Repo Rate → Higher borrowing costs → Less lending by
+banks → Reduced money supply → Inflation decreases.
+o Decrease in Repo Rate → Cheaper loans → More spending → Inflation
+increases.
+********** 8 **********
+--- page 9 ---
+• Example: RBI raised the repo rate in 2022 to curb rising inflation.
+b) Reverse Repo Rate
+•   Definition: The interest rate at which RBI borrows money from commercial
+banks.
+•   Effect on Inflation:
+o Increase in Reverse Repo Rate → Banks deposit more money with RBI →
+Money supply shrinks → Inflation decreases.
+c) Cash Reserve Ratio (CRR)
+•   Definition: The percentage of total bank deposits that commercial banks must
+keep with the RBI.
+•   Effect on Inflation:
+o Higher CRR → Less money available for lending → Reduced money
+supply → Lower inflation.
+o Lower CRR → More money available → Increased inflation.
+d) Statutory Liquidity Ratio (SLR)
+•   Definition: The percentage of bank reserves that must be invested in government
+securities.
+•   Effect on Inflation:
+o Higher SLR → Less money for loans → Lower money supply → Inflation
+decreases.
+o Lower SLR → More money for loans → Increased money supply →
+Inflation increases.
+e) Open Market Operations (OMO)
+•   Definition: Buying and selling of government securities by the RBI in the open
+market.
+•   Effect on Inflation:
+o Selling Securities → Absorbs excess money from the economy →
+Inflation decreases.
+o Buying Securities → Injects money into the economy → Inflation
+increases.
+2. Qualitative Measures (Selective Credit Controls)
+a) Credit Rationing
+•   Definition: RBI restricts loans to specific sectors contributing to inflation, such as
+real estate and luxury goods.
+•   Effect on Inflation: Reduces money flow into speculative sectors, controlling
+price rises.
+********** 9 **********
+--- page 10 ---
+b) Moral Suasion
+•   Definition: RBI persuades banks to follow its monetary policy measures
+voluntarily.
+•   Effect on Inflation: Encourages responsible lending practices.
+c) Margin Requirements
+•   Definition: RBI increases the margin on loans against securities, reducing the
+amount borrowers can access.
+•   Effect on Inflation: Limits excessive borrowing and spending.
+1.
+a. ABC Power Ltd. is the only electricity provider in a city. Due to high
+infrastructure costs and government regulations, no other company can enter the
+market. Since there are no competitors, ABC Power Ltd. has full control over
+electricity prices.Recently, customers have complained about high electricity bills
+and poor service quality, but they have no alternative suppliers. The government
+is considering regulating electricity prices or allowing competition in the sector.
+I.   Discuss why is ABC Power Ltd. considered a monopoly? Analyse what
+are the key characteristics of a monopoly in this case?
+II.   Discuss the case of super-normal profit for ABC power Ltd.
+b. Discuss different types of inflation. Elaborate on fiscal measures to control
+inflation.
+Q6
+CO-
+4;
+SO-   Solution   [2
+2;   0]
+Monopoly Market Analysis (Total: 10 Marks)
+BL3,
+4-   a) Why ABC Power Ltd. is a Monopoly? (5 Marks)
+•   Sole provider, high entry barriers.
+b) Super-Normal Profit Analysis (5 Marks)
+• Monopoly pricing power leads to abnormal profits.
+B Types of Inflation & Fiscal Measures (10 Marks)
+• Demand-pull, cost-push inflation.
+• Government controls via taxation, spending.
+a. The government of Country X sets a price floor on wheat to protect farmers from
+Q7
+low market prices. The minimum price is fixed above the equilibrium price,
+CO-4   [2
+ensuring that farmers receive a fair income. Initially, farmers benefit from higher
+SO-   0]
+prices. However, as a result, wheat supply increases, but consumer demand
+2;
+decreases because of the higher price. This leads to a surplus of wheat in the
+********** 10 **********
+--- page 11 ---
+BL-   market, with unsold stocks piling up. The government then has to purchase excess
+3,4-   wheat to prevent losses for farmers.
+I.   Define price floor. Discuss why did the government implement price floor in
+this case?
+II.   Analyse how can the government manage the excess wheat production?
+Suggest two possible solutions.
+a. Discuss Comparative cost advantage theory of international trade.
+Solution
+Definition of Price Floor & Government Implementation
+Definition of Price Floor:
+A price floor is a minimum legal price set by the government for a good or service. It is
+fixed above the equilibrium price, meaning sellers cannot sell below this price. The main
+objective of a price floor is to ensure fair income for producers, especially in sectors like
+agriculture and labor markets (e.g., minimum wage laws).
+Why Did the Government Implement a Price Floor on Wheat?
+The government of Country X introduced a price floor on wheat to protect farmers from
+price fluctuations and ensure their economic stability.
+• Ensuring Fair Income for Farmers:
+o Agricultural markets often face price volatility due to changing weather
+conditions and global supply-demand shifts.
+o A price floor prevents farmers from selling at very low prices, ensuring a
+stable livelihood.
+• Encouraging Wheat Production:
+o By offering a higher-than-market price, the government incentivizes
+farmers to grow more wheat.
+•   Preventing Market Exploitation:
+o Without a price floor, middlemen or large buyers could exploit farmers by
+forcing them to sell at extremely low prices.
+II. Managing the Excess Wheat Production & Suggested Solutions
+Since the price floor is above equilibrium price, it creates excess supply (surplus) as
+farmers produce more, but consumers demand less. The government must intervene to
+manage the surplus.
+Solutions to Manage the Excess Wheat:
+1. Government Procurement & Storage Programs
+o The government can buy surplus wheat and store it in food reserves for
+later use.
+o This stock can be used in public distribution systems (PDS) or as
+emergency food supply.
+2. Exporting the Surplus Wheat
+********** 11 **********
+--- page 12 ---
+o The government can sell excess wheat to international markets where
+demand is higher.
+o This would reduce domestic surplus and bring foreign exchange earnings.
+Other Alternative Solutions:
+•   Subsidizing Wheat-Based Products:
+o Encouraging the production of wheat-based goods (bread, biscuits, etc.) to
+increase domestic consumption.
+• Lowering the Price Floor Gradually:
+o Adjusting the price to a level that still benefits farmers but reduces excess
+supply.
+Marking Scheme (Total: 10 Marks)
+1. Definition of Price Floor – (2 Marks)
+2. Reason for Government Implementation – (3 Marks)
+3. Analysis of Surplus Problem – (2 Marks)
+4. Suggested Solutions (Two well-explained methods) – (3 Marks)
+B
+Introduction to Comparative Advantage Theory
+The Comparative Cost Advantage Theory was developed by David Ricardo in 1817. It
+explains how countries benefit from trade by specializing in producing goods where they
+have a comparative advantage (lower opportunity cost).
+Key Idea of the Theory
+A country has a comparative advantage in producing a good if it can produce it at a lower
+opportunity cost than another country. Even if one country is more efficient in producing
+all goods (absolute advantage), both countries can still gain from trade if they specialize
+based on comparative advantage.
+Example of Comparative Advantage
+Consider two countries: Country A and Country B, producing Wheat and Cloth. The
+table below shows the labor required to produce one unit of each good:
+Country Wheat (hours per unit) Cloth (hours per unit)
+A   4 hours   2 hours
+B   6 hours   3 hours
+• Country A has an absolute advantage in both wheat and cloth (it takes fewer
+hours).
+• However, comparative advantage is based on opportunity cost:
+o Opportunity Cost of Wheat in Country A = 4/2 = 2 Cloth units
+o Opportunity Cost of Wheat in Country B = 6/3 = 2 Cloth units
+********** 12 **********
+--- page 13 ---
+o Opportunity Cost of Cloth in Country A = 2/4 = 0.5 Wheat units
+o Opportunity Cost of Cloth in Country B = 3/6 = 0.5 Wheat units
+Since Country A has a lower opportunity cost for cloth, it should specialize in cloth.
+Since Country B has a lower opportunity cost for wheat, it should specialize in wheat.
+By trading, both countries benefit because they exchange goods at a lower opportunity
+cost than producing both themselves.
+Assumptions of Comparative Advantage Theory
+1. Two countries and two goods – The model assumes trade between two nations for
+simplicity.
+2. Constant opportunity cost – It assumes that opportunity cost remains the same
+while producing additional units.
+3. No transport costs – The theory does not consider shipping costs.
+4. Perfect mobility of labor within a country – Workers can easily switch industries.
+Benefits of Comparative Advantage & Trade
+1. Increases Total Output:
+o Specialization leads to efficient resource utilization and higher production.
+2. Lower Prices for Consumers:
+o Trade allows goods to be produced at a lower cost, leading to affordable
+prices.
+3. Encourages Economic Growth:
+o Countries earn more revenue by exporting goods in which they specialize.
+4. Better International Relations:
+o Trade strengthens ties between countries, promoting global cooperation.
+Limitations of Comparative Advantage Theory
+1. Ignores Transport & Trade Barriers:
+o High shipping costs or tariffs may reduce trade benefits.
+2. Assumes Perfect Competition:
+o In reality, monopolies and imperfect markets exist.
+3. Neglects Dynamic Changes:
+o A country’s comparative advantage can change due to technological
+advancements.
+Marking Scheme (Total: 10 Marks)
+1. Definition of Comparative Advantage – (2 Marks)
+2. Explanation with Example – (3 Marks)
+3. Assumptions of the Theory – (2 Marks)
+4. Benefits & Limitations – (3 Marks)
+********** 13 **********
+--- page 14 ---
+FRR IC 7 I OH
+````

@@ -2,6 +2,107 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 10 · Answer key · paper bad7da80a522
+
+- Departments: Computer Engineering
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047
+- Source: `00_Original_Downloads/2025/76555__Semester X.zip :: Final-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047/Financial Technology/ANS_Final-Exam_Financial Technology(703TF0E006)_Semester X_2025-2026.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 13 May 2026
+- Text: text (3 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY
+MANAGEMENT (COMPUTERENGINEERING)
+Year: V/Semester X(Exam Year: 2025-2026)
+Subject: Financial Technology
+Date: 13 May 2026   Time: 10:00 am to 12:00 pm (02:00 Hrs.)
+Max. Marks: 50
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Question 1 is compulsory. Solve any four from the remaining questions
+4. Use of laptops mobile phones is strictly prohibited
+5. Each question carries 10 marks
+Answer each of the following questions:
+1) A hedge fund manager working with based out of Florida, USA stated that Silver has quietly been
+one of the best performing assets for algo trading in 2025. What could be the possible reasons for
+surging profits through algo trading in case of Silver? First, briefly discuss the concept of Algo
+trading with advantages of algo trading and then discuss the reasons for possible profits for Silver
+algo traders in 2025. Silver price movement over the past five years in given below for reference.
+Algorithmic Trading which is also referred to as algo-trading, automated trading, or black-box
+trading is when computer programs follow a defined set of instructions (an algorithm) to
+automatically execute trades in financial markets. The algorithm is based on variables such as price,
+timing, quantity, or other mathematical models with the aim of generating profits faster than a
+human trader. Algorithmic trading uses technology to automate market decisions based on
+predefined rules and data models. It plays a growing role in modern financial markets due to its
+speed, consistency, and scalability.
+Reason for losses:
+********** 1 **********
+--- page 2 ---
+Higher volatility in silver prices helped in momentum based algo strategies including directional
+VWAP. Higher volatility leads to higher return on overall capital.
+2) With a diagram, illustrate your understanding of cloud computing. Further, explain the three main
+cloud service models and discuss how AI will affect each of these models?
+Provide broad explanation on types of cloud services available including Software as a Service
+(SaaS), Platform as a Service (PaaS) and Infrastructure as a Service (IaaS). Students are expected to
+explain in their own words how AI can be used to improve cloud services like AI based IaaS.
+3) In 2021, Google relaunched payment app, Google Pay, aimed to bring all required user functions
+under one roof. Its streamlined interface and intuitive usability made it the winner of this year’s
+Innovation by Design Award in finance. And Design thinking was a critical aspect of this success.
+Today, Google Pay, has an estimated 35% market share in India and design thinking has played a
+critical role in making Google Pay one of the best payment apps in India. Discuss the concept of
+design thinking with a diagram and discuss how Google Pay must have used design thinking to
+create an award winning app.
+Students should explain design thinking with a diagram and provide two solutions of their own
+banking app. Suggestions could include better interface payment app or changes to dashboard menu
+payment which currently look clustered with unwanted information or products.
+4) What are the growth prospects, challenges and outlook of small finance banks in India? Illustrate
+your understanding of the small finance banks sector related to growth, challenges and outlook for
+the sector using example of small finance bank operating in India.
+Broadly, Growth prospects: Strong due to financial inclusion and credit demand
+Challenges: Asset quality, funding cost, profitability pressure
+Outlook: Short term → cautious
+Long term → positive and promising
+In essence: SFBs are high-growth but high-risk institutions that will play a crucial role in India’s
+inclusive banking ecosystem, but their success depends on managing credit risk and improving
+funding stability.
+AU small finance bank or Ujjivan Small finance bank can be taken as examples.
+5) Discuss the layers of Blockchain with a diagram. Further, discuss how digital assets work as
+medium of exchange and explain the three main types of financial assets.
+Daigram below needs to shown in answer with discussion on payment tokens, utility tokens and
+security tokens.
+********** 2 **********
+--- page 3 ---
+6) Evaluate the rise of fintech app Groww as the leading broker in India. Discuss how DigiLocker and
+Esign have helped the rise of fintech services providers like Groww in India.
+Groww’s success comes from combining ease of use, low costs, broad product access, regulatory
+compliance, and digital innovation, making investing accessible to millions of retail users in India.
+Groww’s rise as a top broker in India is a result of innovative use of digital technology,
+customer‑centric design, and a paperless onboarding model that leverages nationwide digital
+platforms like DigiLocker and eSign. These digital infrastructures (part of India Stack) have
+transformed the fintech landscape by enabling easy, fast, and secure onboarding — lowering barriers
+and encouraging mass participation in financial markets.
+7) Aadhaar is the foundational identity layer (or "digital spine") of the India Stack, a unified set of
+digital public infrastructure (DPI) designed to enable paperless, presence less, and cashless services.
+In detail, illustrate your understanding of the technology behind Aadhar and also discuss the
+advantages of Aadhar based eKYC.
+The technology that enabled Aadhaar as a foundational identity for a digital ecosystem involved
+several Application Program Interface (APIs). These APIs allow public and private service providers
+to authenticate identity using the underlying data biometrics, demographics, links to individual
+phones registered with Aadhaar to facilitate authentication by means of a One Time Password
+(OTP). Using these technologies, the launch of the digital ID was immediately followed by its
+linking with several public sector services, including banking services. The eKYC service (linked to
+Aadhar) adheres to the principle of data minimization, sharing only relevant demographic data and
+the photograph of the identity holder with the service provider, after the identity holder provides
+consent and this drastically reduced the cost of complying with regulatory KYC requirements during
+the onboarding process for opening bank accounts.
+********** 3 **********
+````
+
 ## 2025-26 · Final-Exam · Sem 9 · Answer key · paper d31ba3e5d478
 
 - Departments: Mechanical

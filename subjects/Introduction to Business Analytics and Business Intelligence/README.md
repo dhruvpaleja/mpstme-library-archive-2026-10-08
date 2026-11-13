@@ -1,6 +1,6 @@
 # Introduction to Business Analytics and Business Intelligence
 
-**9** unique papers (9 copies across programmes) · 2022-23 to 2024-25 · 2 programmes · Sem 1
+**11** unique papers (11 copies across programmes) · 2022-23 to 2024-25 · 2 programmes · Sem 1
 
 Download only this subject, sorted by academic year:
 
@@ -22,6 +22,8 @@ Also filed as: `INTRODUCTION TO BUSINESS ANALYTICS & BU`
 | 2024-25 | Re-Exam | Answer key | Sem 1 | BTech CSE DS 7011 | ANS_Introduction to Business Analytics and Business Intelligence(702DB0C022)_2024-2025.pdf |
 | 2022-23 | — | Question paper | Sem 1 | B TECH | Introduction to Business Analytics & Business Intelligence, Sem-I, Batch 2022-23,_54922b70.pdf |
 | 2022-23 | — | Question paper | Sem 1 | B TECH | Introduction to Business Analytics and Business Intelligence, Sem-I, Year 2022-23_aaebd80c.pdf |
+| 2022-23 | Final-Exam | Question paper | Sem 1 | B TECH | Introduction_to_Business_Analytics_and_Business_Intelligence__1st_Year__Sem_I__Year_22-23_Final_Exam_05GqDsAGnN.pdf |
+| 2022-23 | Re-Exam | Question paper | Sem 1 | B TECH | Introduction_to_Business_Analytics_and_Business__1st_Year__Sem-I__Year_2022-23__Re_Exam_F9gUTYVzfr.pdf |
 | — | Final-Exam | Question paper | Sem 1 | B TECH | Introduction to Business Analytics & Business Intelligence, Sem-I, Final Exam 202_c01b3e8c.pdf |
 | — | Final-Exam | Question paper | Sem 1 | B TECH | Introduction to Business Analytics and Business Intelligence, Sem-I, Final Exam 2_c5456391.pdf |
 | — | Re-Exam | Question paper | Sem 1 | B TECH | Re-Exam QP - Introduction to Business Analytics and Business Intelligence.pdf |

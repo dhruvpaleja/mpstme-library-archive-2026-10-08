@@ -3338,6 +3338,789 @@ X-------------------------------------------------------------------------------
 ********** 18 **********
 ````
 
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 955caf338b45
+
+- Departments: Computer Science
+- Programmes: BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE) - 7055
+- Source: `00_Original_Downloads/2025/Semester II/75268__Re-Exam.zip :: BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE) - 7055/OBJECT ORIENTED PROGRAMMING/ANS_Re-Exam_OBJECT ORIENTED PROGRAMMING(702CO0C075)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2026
+- Text: text (17 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (COMP)/B. Tech (CS)/B. Tech (CSBS)/B. TECH (CSE - DS)/MBA Tech
+(Comp)
+Year: I/Sem 2 Re-exam(Exam Year: 2025-2026)
+Subject: OBJECT ORIENTED PROGRAMMING
+Date: 09 Jul 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 17 pages.
+2. Section A is compulsory.
+3. Attempt any 4 questions from Section B.
+4. In all 5 questions are to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. The figure on the right-hand side indicates full marks.
+8. Assume suitable data if necessary.
+Section-A
+Q1
+CO-1 A.   What are the key paradigms of object-oriented programming? List and   [05]
+BL-3   demonstrate each one with an example.
+02 Marks – Key Paradigms
+03 Marks – Description with programming example
+If any programming language supports Encapsulation, Polymorphism,
+Inheritance and Abstraction etc. is called as OOP
+Encapsulation: -
+- Binding/Wrapping of data to its related functions into a single unit
+-   In OOP, we can achieve encapsulation by creating classes and
+objects.
+Abstraction: -
+-   It hides the implementation details.
+- A Class can decide which member will be visible to the outside of
+the class
+Polymorphism (many forms):-
+-   Defining multiple functions with the same name
+- These functions with same name will show different behaviours
+- There are two types of polymorphism → Static(Overloading) &
+Dynamic(Overriding)
+Inheritance:-
+-   Inherence is reusability (of encapsulation).
+********** 1 **********
+--- page 2 ---
+-   Child/Derived/ Sub Class inherits the properties of Parent/Base/
+Super Class.
+Example:
+class Person {
+private String name;
+void work() {
+System.out.println("Person works");
+}
+}  Encapsulation (name + work)
+class Teacher extends Person { Inheritance
+Teacher(String name) {
+this.name=name;
+}
+void work() {  Dynamic Polymorphism
+System.out.println(name + " teaches");
+}
+}
+Class Test{
+public static void main(String[] args) {
+Teacher t = new Teacher("Paavan");
+t.work();  Abstraction
+}
+}
+CO-2   B.   Consider a product class with only one data member, discount. Apply the   [05]
+BL-3   concept of constructor overloading to write an object-oriented program,
+such that one constructor initializes the discount to 5 and another
+parameterized constructor initializes it to 10 by accepting the discount as a
+parameter. Create two objects by invoking both the constructors and
+displaying the discount.
+03 Marks – Code for Constructor Overloading
+02 Mark – Class Definition, Main Method & Object Creation in main
+public class Product {
+private double discount;
+public Product( ) {
+this.discount = 5.0;
+System.out.println("Discount set to: " + discount + "%");
+}
+public Product(double discount) {
+this.discount = discount;
+System.out.println("Discount set to: " + discount + "%");
+}
+public static void main(String[] args) {
+Product product1 = new Product();
+Product product2 = new Product(10.0);
+}
+}
+CO-4   C.   What is an abstract class? Utilize the concept of abstract to explain its   [05]
+BL-3   working with a programming example.
+********** 2 **********
+--- page 3 ---
+02 Marks – Abstract Class
+03 Marks - Programming Example
+Abstract Class:
+- An abstract class is a class declared with the abstract keyword
+-   cannot be instantiated directly.
+-   serves as a blueprint for subclasses/supports inheritance
+- Can contain abstract and non-abstract methods
+- Can have constructors
+- Can contain variables and static methods
+abstract class Animal {
+abstract void sound(); // abstract method
+void eat() {
+System.out.println("Animal eats food");
+}
+}
+class Dog extends Animal {
+void sound() {   // Implementation of abstract method
+System.out.println("Dog barks");
+}
+public static void main(String[] args) {
+Animal a = new Dog(); // abstract class reference
+a.sound();
+a.eat();
+}
+}
+CO-5 D.   What is a generic class? Demonstrate its implementation with an   [05]
+BL-3   appropriate programming example?
+02 Marks – Generic Class
+03 Marks - Programming Example
+Generic Class:
+- A generic class in Java is a class that can operate on objects of
+various types while providing compile-time type safety and code
+reusability.
+-   Instead of writing a class for each data type, you define the class
+with a type parameter that is replaced by a concrete type when an
+instance of the class is created.
+-   This approach avoids the need for manual type casting and helps
+catch type-mismatch errors during compilation rather than at
+runtime.
+- Type parameters must be reference types (not primitives)
+Example:
+public class GenericBox<T> {
+private T t;
+public void set(T t) {
+this.t = t;
+}
+********** 3 **********
+--- page 4 ---
+public T get() {
+return t;
+}
+}
+class Test{
+public static void main(String ...a){
+GenericBox<Integer> integerBox = new GenericBox<Integer>();
+integerBox.set(10);
+int i = integerBox.get();
+GenericBox<String> stringBox = new GenericBox<String>();
+stringBox.set("Hello World");
+String s = stringBox.get();
+}
+}
+Section- B
+Q2
+CO-2 A   What is Inheritance? What are its types? Develop a program that explains   [10]
+the concept of multilevel inheritance.
+BL-3
+02 Marks – Inheritance
+04 Marks – Types of Inheritance
+04 Marks – Programming Example of Multilevel Inheritance
+Inheritance:
+-   Inheritance is a mechanism in which a derived object acquires all
+the properties and behaviours of a base object. [Reusability of
+Encapsulation]
+- Using inheritance, one can reuse methods and fields of the
+superclass in the subclass.
+- Why Inheritance?
+- Reuse
+- Avoid redundant coding
+- Allow function Overriding.
+- Syntax of Java Inheritance
+class Superclass_Name{
+//methods and fields
+}
+class Subclass_Name extends Superclass_Name {
+}
+********** 4 **********
+--- page 5 ---
+Types of Inheritance:
+Multilevel Inheritance:
+-   Multilevel inheritance is a concept where a class inherits from a
+class that is already a subclass of another class, forming a chain of
+inheritance (e.g., Class A → Class B → Class C).
+- The child class has access to methods and properties from all its
+ancestor classes.
+- Example :
+Shape
+Rectangle
+Square
+class Shape extents Object {
+void draw() {
+System.out.println("Drawing shape");
+}
+}
+class Rectangle extends Shape {
+void calculateArea() {
+System.out.println("Rectangle area calculated");
+}
+}
+class Square extends Rectangle {
+void display() {
+draw();
+calculateArea();
+System.out.println("Square displayed");
+}
+public static void main(String[] args) {
+Square s = new Square();
+********** 5 **********
+--- page 6 ---
+s.display();
+}
+}
+CO-4 B   A library maintains various types of items, such as Books and Magazines.   [10]
+Each item calculates its late fee differently. Write an object-oriented
+BL-3
+program to create an abstract class LibraryItem, which includes an abstract
+method calculateLateFee( ). The class LibraryItem has subclasses Book and
+Magazine. Both subclasses implement calculateLateFee( ) and display the
+late fees for each item. Create a main class to execute the program. Consider
+late fees of Rs. 3 per day for Magazines and Rs. 5 per day for books.
+03 Marks – Code for Abstract class & method definitions
+05 Marks – code for Subclasses & its methods
+02 Marks – Main & execution
+abstract class LibraryItem {
+int daysLate;
+LibraryItem(int daysLate) {
+this.daysLate = daysLate;
+}
+abstract double calculateLateFee( );
+}
+class Book extends LibraryItem {
+Book(int daysLate) {
+super(daysLate);
+}
+double calculateLateFee( ) {
+return daysLate*5;
+}
+}
+class Magazine extends LibraryItem {
+Magazine(int daysLate) {
+super(daysLate);
+}
+double calculateLateFee() {
+return daysLate*3;
+}
+}
+class Main {
+public static void main(String[ ] args) {
+LibraryItem b = new Book(4);
+LibraryItem m = new Magazine(4);
+System.out.println("Book late fee = " + b.calculateLateFee());
+System.out.println("Magazine late fee = " + m.calculateLateFee());
+}
+}
+********** 6 **********
+--- page 7 ---
+Q3
+CO-3 A   Write an object-oriented program that defines a method divide(int a, int b),   [10]
+which throws an arithmetic exception if division by zero occurs. Call this
+BL-3
+method from the main( ) method and handle the exception.
+04 Marks – Code for Divide method & throws exception
+04 Marks – Appropriate code for Exception Handling in main
+02 Marks – main method & call to divide
+class ThrowsDivision {
+static int divide(int a, int b) throws ArithmeticException {
+return a / b;
+}
+public static void main(String[] args) {
+try {
+int result = divide(10,0);
+System.out.println("Result = " + result);
+}
+catch(ArithmeticException e) {
+System.out.println("Cannot divide by zero.");
+}
+}
+}
+CO-5 B   What is the Singleton design pattern? Use the Singleton design pattern to   [10]
+create a program that creates only one instance.
+BL-3
+05 Marks – Description of Singleton
+05 Marks – Suitable programming example
+Singleton
+-   Singleton is a creational design pattern
+-   It ensures a class has only one instance
+-   It provides a global access point to that instance
+-   Singleton design pattern ensures that only one instance of the class
+will be created and that instance will have global access within the
+application.
+- The Singleton pattern works by:
+o Making the constructor private
+▪ Prevents object creation from outside the class
+o Creating a static instance variable
+▪ Holds the single object of the class
+o Providing a public static method (getInstance())
+▪ Returns the same instance every time
+- Programming Example
+Singleton
+-instance:Singleton
+-Singleton( )
++getInstance()
+********** 7 **********
+--- page 8 ---
+class Singleton {
+private static Singleton instance;
+private Singleton( ) {
+System.out.println("Singleton Instance Created");
+}
+public static Singleton getInstance( ) {
+if (instance == null) {
+instance = new Singleton( ); // created only once
+}
+return instance;
+}
+}
+class Main {
+public static void main(String[ ] args) {
+Singleton s1 = Singleton.getInstance();
+Singleton s2 = Singleton.getInstance();
+System.out.println(s1);
+System.out.println(s2);
+// Checking if it is one object or two different Objects
+if (s1 == s2) {
+System.out.println("Only one instance exists!");
+}
+}
+}
+Q4
+CO-2 A   Develop an Object-oriented program to maintain a database of employees   [10]
+for an educational institution. The Staff class has instance variables such as
+BL-3
+id and name. The Teacher and Officer are inherited from Staff. The Teacher
+class has an instance variable subject taught, and the Officer class has a
+work type as an instance variable. Each class will have instance methods
+read ( ) and show ( ). Specify all the classes and define methods to create
+the database described above and to retrieve individual information.
+02 Marks - Staff class, attributes & methods
+02 Marks - Teacher class, attributes & methods
+02 Marks - Officer class, attributes & methods
+02Marks – Implementation of Inheritance
+02Marks – Main, subclass object creation, and call to methods
+class Staff
+{
+int id;
+String name;
+public void read(int id, String name)
+{
+this.id = id;
+this.name=name;
+}
+public void show()
+{
+System.out.println(id);
+System.out.println(name);
+}
+********** 8 **********
+--- page 9 ---
+}
+class Teacher extends Staff
+{
+String sub_taught;
+public void read( String sub_taught)
+{
+super.read( );
+this.sub_taught=sub_taught;
+}
+public void show()
+{
+super.show( );
+System.out.println(sub_taught);
+}
+}
+class Officer extends Staff
+{
+String work_type;
+public void read(String work_type)
+{
+super.read( );
+this.work_type=work_type;
+}
+public void show()
+{
+super.show( );
+System.out.println(work_type);
+}
+}
+class Retreive
+{
+public static void main(String args[])
+{
+Officer of=new Officer();
+of.read(10, "Rohit");
+of.read("Lab Manager");
+of.show();
+Teacher t=new Teacher();
+t.read(20, "Virat");
+t.read("physics");
+t.show();
+}
+}
+CO-1 B   What are arrays? Explain how to declare, initialise, and create them with a   [10]
+BL-3   programming example.
+02 Marks – Array
+01 Mark – Declaration
+01 Marks – Initialisation
+01 Mark – Creation
+05 Mark- Programming Example
+********** 9 **********
+--- page 10 ---
+- An array is a collection of a fixed number of elements of the same
+type. There are situations where we might wish to store a group of
+similar type of values in a variable.
+- An array is a memory space allocated that can store multiple values
+of the same data type, in contiguous locations.
+-   This memory space, which can be perceived to have many logical
+contiguous locations, can be accessed with a common name.
+- A specific element in an array is accessed by the use of a subscript
+or index used in brackets, along with the name of the array.
+- For example, marks[5]would mean marks of 5th student.
+- While the complete set of values is called an array, the individual
+values are known as elements.
+- Arrays can be of two types:
+o one-dimensional array
+o multi-dimensional array
+Declaring an array
+•   Declaring an array is the same as declaring a normal variable, except
+that you must use a set of square brackets with the variable type.
+• There can be two ways [Syntax] in which an array can be declared.
+– type arrayname[ ];
+– type[ ] arrayname;
+• For e.g.
+int marks[ ]; or
+int[ ] marks;
+Creating memory locations
+• An array is more complex than a normal variable, so we have to
+assign memory to the array when we declare it.
+• We can assign memory to an array by specifying its size.
+Interestingly, our same old new operator helps in doing the job, just
+as shown below:
+– Arrayname = new type [size];
+•   So, allocating space and size for the array named marks can be done
+as,
+– marks = new int[5];
+Initialising an array
+• Assignment of values to an array, which can also be termed as
+initialisation of an array, can be done as follows,
+– Arrayname[index] = {list of values}
+– Ex int a[ ] = {1,2,3,4,5}
+class ArrayTest {
+public static void main(String[ ] args) {
+int a[]; // Declaration
+a = new int [5]; //creation
+for(int e:a)
+System.out.print(e+ " " ); //displays 0 0 0 0 0
+System.out.println( );
+int[ ] marks = new int[ ]{12,45,67,89,90}; // initialization
+for(int i=0;i<marks.length;i++)
+System.out.print(marks[i]+ " ");
+********** 10 **********
+--- page 11 ---
+}
+}
+Q5
+CO-1 A   Define a class named GradeTest with a method gradeCheck(int) that accepts   [10]
+marks as a parameter and classifies the score based on the range: display A
+BL-3
+if 90-100, B for 80-90, C for 70-80, D for 60-70, E for 50-60, F for 0-50,
+and indicate invalid otherwise. Write a complete object-oriented
+programming (OOP) program to demonstrate this scenario.
+02 Mark – GradeTest class
+02 Marks – gradeCheck method
+04 Marks -Grade Check Logic
+02 Marks – main, object creation and method call
+class GradeTest {
+void gradeCheck(int marks) {
+if (marks >= 90 && marks <= 100) {
+System.out.println("Grade: A");
+}
+else if (marks >= 80 && marks < 90) {
+System.out.println("Grade: B");
+}
+else if (marks >= 70 && marks < 80) {
+System.out.println("Grade: C");
+}
+else if (marks >= 60 && marks < 70) {
+System.out.println("Grade: D");
+}
+else if (marks >= 50 && marks < 60) {
+System.out.println("Grade: E");
+}
+else if (marks >= 0 && marks < 50) {
+System.out.println("Grade: F");
+}
+else {
+System.out.println("Invalid Marks");
+}
+}
+public static void main(String[] args) {
+GradeTest obj = new GradeTest();
+int marks = 85;
+obj.gradeCheck(marks);
+}
+}
+********** 11 **********
+--- page 12 ---
+CO-4 B   What are wrapper classes? Explain how wrapper classes assist with data   [10]
+conversion. Develop a program that reads three numbers as Strings,
+BL-3
+converts them into integers using wrapper class methods, and calculates the
+sum and average.
+02 Marks – Wrapper class
+03 Marks – List of wrapper classes
+05 Marks – Program to read three numbers & its conversion
+Wrapper Classes
+- Wrapper classes are predefined classes in Java.
+- Wrapper classes are used to convert between primitive data types
+and objects.
+- Wrapper classes provide a way to use primitive data types (int,
+boolean, etc..) as objects
+- Each primitive type has a corresponding wrapper class.
+List of Wrapper classes:
+Primitive Data Type Wrapper Class
+byte   Byte
+short   Short
+int   Integer
+long   Long
+float   Float
+double   Double
+boolean   Boolean
+char   Character
+Wrapper classes provide methods that make conversion easy:
+String → Primitive Conversion
+Using methods like:
+- Integer.parseInt()
+- Double.parseDouble()
+import java.util.Scanner;
+class WrapperDemo {
+public static void main(String[] args) {
+Scanner sc = new Scanner(System.in);
+int sum = 0;
+for(int i = 1; i <= 3; i++) {
+System.out.print("Enter number " + i + " (as String): ");
+String input = sc.nextLine();
+// String to integer conversion using wrapper class
+int num = Integer.parseInt(input);
+********** 12 **********
+--- page 13 ---
+sum += num;
+}
+double average = (double) sum / 3;
+System.out.println("Sum = " + sum);
+System.out.println("Average = " + average);
+}
+}
+Q6
+CO-5 A   Create a class ComplexNumber with real and imaginary parts as instance   [10]
+variables to represent a complex number (a + bi). Develop an object-
+BL-3
+oriented program that utilizes a generic class StoreComplexNumber to
+store, input, and output a complex number using a user-defined Complex
+class. Use the constructor to store the number, and provide methods to read
+and
+display it.
+02 Marks – Complex Number Class
+02 Marks – Generic Class Definition
+02 Marks – Read Complex no in generic class
+02 Marks – Display Complex no in generic class
+02 Marks – main method, generic class object and method call
+import java.util.Scanner;
+class ComplexNumber {
+double real;
+double imaginary;
+}
+class StoreComplexNumber<T> {
+private T obj;
+public StoreComplexNumber(T obj) {
+this.obj = obj;
+}
+public void read() {
+Scanner sc = new Scanner(System.in);
+ComplexNumber c = (ComplexNumber) obj;
+System.out.print("Enter real part: ");
+c.real = sc.nextDouble();
+System.out.print("Enter imaginary part: ");
+c.imaginary = sc.nextDouble();
+}
+public void display() {
+ComplexNumber c = (ComplexNumber) obj;
+System.out.println("CompNo: " + c.real + " + " + c.imaginary + "i");
+}
+********** 13 **********
+--- page 14 ---
+}
+class Main {
+public static void main(String[] args) {
+ComplexNumber c1 = new ComplexNumber();
+StoreComplexNumber<ComplexNumber> store = new
+StoreComplexNumber<>(c1);
+store.read();
+store.display();
+}
+}
+CO-2 B   Use your knowledge of Object-Oriented Programming to distinguish [10]
+BL-3   between the following.
+- Methods and Constructors
+-   Encapsulation and Abstraction
+05 Marks – Method and Constructor - at least 4 valid points &
+example
+05 Marks - Encapsulation and Abstraction – at least 2-3 valid points
+and example
+Constructor   Method
+It is a special method having the   It can have any name
+same name as the class
+Used to create an object and   It shows the behavior of an object
+initializes an instance variable
+To invoke the constructor, the   An object or class is required
+new operator is required
+It is not static   It is static or non-static
+It is not inherited   It is inherited
+Constructor overriding is not   Overriding is possible
+possible
+class Student {   Example:
+private String name;   public class Calculator {
+public Student() {   public int add(int a, int b) {
+System.out.println("Default");   return a + b;
+}   }
+public double add(double a, double
+public Student(String name) {   b) {
+System.out.println("Parameterized");   return a + b;
+}   }
+public static void main(String[] args)   public static void main(String[]
+{   args) {
+new Student();   Calculator calc = new
+new Student(" ");   Calculator();
+}
+}   calc.add(2, 3);
+calc.add(2.5, 3.7);
+}
+}
+********** 14 **********
+--- page 15 ---
+Encapsulation and Abstraction
+Abstraction:
+- Abstraction means hiding the implementation details
+- Abstraction = User knows what to do, not how it is done
+- Abstraction means showing only the essential features to the user and
+hiding the internal implementation details.
+Encapsulation:
+- Encapsulation involves bundling data and methods (functions) into a
+single unit.
+- The term 'Encapsulation' is similar to enclosing something inside a
+capsule.
+- This process involves concealing all internal details of an object from the
+external environment.
+- Encapsulation = Data   is hidden + accessed only through
+methods/functions
+-
+Example:
+class EncapsulationAbstractionTest{
+private int data;
+public void setterMethod( ){
+data = 100;
+}
+public void getterMethod( ){
+System.out.println(data);
+}
+} //Encapsulation
+class MainTest{
+public static void main(String args[ ]){
+EncapsulationAbstractionTest eat = new
+EncapsulationAbstractionTest( );
+eat.setterMethod( ); //abstraction
+eat.getterMethod( );
+}
+}
+Q7
+CO-3 A   Write an object-oriented program that copies a file's contents to another   [10]
+using byte streams. The program should prompt the user for source and
+BL-3
+destination filenames, manage exceptions properly, and display a success
+message upon completion.
+01 Marks – Reading file names from user
+02 Marks - File Opening in Read mode
+02 Marks – File Opening in Write mode
+04 Marks – Copying File Contents
+01 Mark – Appropriate Exception Handling
+********** 15 **********
+--- page 16 ---
+import java.io.*;
+import java.util.Scanner;
+class FileCopyByte {
+public static void main(String[] args) {
+Scanner sc = new Scanner(System.in);
+System.out.print("Enter source file: ");
+String source = sc.nextLine();
+System.out.print("Enter destination file: ");
+String dest = sc.nextLine();
+try{
+FileInputStream fis = new FileInputStream(source);
+FileOutputStream fos = new FileOutputStream(dest);
+int data;
+while ((data = fis.read()) != -1) {
+fos.write(data);
+}
+System.out.println("File copied successfully.");
+} catch (IOException e) {
+System.out.println("Error: " + e.getMessage());
+}
+}
+}
+CO-1 B   Build an object-oriented program to determine whether a specified number   [05]
+lies within the range of 50 to 100 (inclusive)
+BL-3
+02 Marks – Class & main method
+03 Marks – Code for Checking number between 50 and 100
+public class NumberRangeChecker {
+public void checkRange(int number) {
+System.out.print(number + " ");
+if (number >= 50 && number <= 100) {
+System.out.println("is WITHIN range 50-100");
+} else {
+System.out.println("is OUTSIDE range 50-100");
+}
+}
+public static void main(String[] args) {
+NumberRangeChecker obj = new NumberRangeChecker( )
+obj.checkRange(75);
+}
+}
+CO-2 C   Apply your understanding of Polymorphism to explain run-time   [05]
+polymorphism with a suitable programming example.
+********** 16 **********
+--- page 17 ---
+BL-3
+02 Marks – Run Time Polymorphism
+03 Marks – Programming Example
+- Runtime polymorphism, also known as dynamic method
+dispatch or late binding, is a core object-oriented programming
+concept where an overridden method's call is resolved at runtime,
+rather than compile time.
+-   This mechanism allows a single action to be performed in different
+ways depending on the actual type of the object
+- Runtime polymorphism requires an "is-a" relationship
+(inheritance) between classes, where a subclass extends a
+superclass.
+-   It involves a superclass reference variable pointing to a subclass
+object. The type of reference is the parent class, but
+the object instance is of the child class. (upcasting)
+Example:
+class Animal {
+void sound( ) {
+System.out.println("Animal sound");
+}
+}
+class Cat extends Animal {
+void sound( ) {
+System.out.println("Cat meows");
+}
+}
+class Main {
+public static void main(String[] args) {
+Animal a = new Cat( );
+a.sound( );
+}
+}
+X------------------------------------------------------------------------------------------------------------X
+********** 17 **********
+````
+
 ## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 4b4b5f4392e9
 
 - Departments: Computer Science and Business Systems

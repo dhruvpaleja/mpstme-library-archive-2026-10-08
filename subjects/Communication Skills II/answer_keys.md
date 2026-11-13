@@ -2,6 +2,1176 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper cb84c20c5b66
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Economics) - 45616
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Commerce (Economics) - 45616/Communication Skills II/ANS_Final-Exam_Communication Skills II(NFENG160)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 11 Mar 2026
+- Text: mixed (4 pages), mean OCR confidence 94.4
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Communication Skills II
+Date: 11 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 4 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figures at the right indicate full marks
+4. All main questions are compulsary
+5. Use fictitious names wherever necessary
+1.   Answer the following question(Attempt Any 1 Question)   10
+a.   10
+Why Group Discussion is a Simulation of Workplace Behaviour (5 Marks)
+• Represents Team Interaction – GD reflects real workplace meetings and teamwork.
+• Tests Communication Skills – Similar to professional discussions and presentations.
+• Evaluates Problem-Solving Ability – Participants analyse issues collectively.
+• Assesses Leadership and Initiative – Like workplace project settings.
+• Reveals Interpersonal Behaviour – Shows cooperation, tolerance, and adaptability.
+Thus, GD mirrors actual organizational situations where employees collaborate, negotiate,
+and make decisions.
+How a Leader Manages Conflict and Time during GD (5 Marks)
+• Encourages Equal Participation – Ensures all members contribute.
+• Resolves Disagreements Diplomatically – Summarizes opposing views and finds common
+ground.
+• Maintains Neutrality – Avoids personal bias while moderating discussion.
+• Keeps Discussion Focused – Prevents deviation from the topic.
+• Monitors Time Effectively – Allocates time for discussion and conclusion.
+Therefore, an effective leader ensures smooth flow, constructive debate, and timely
+completion of the group discussion.
+Page 1 of 4
+--- page 2 ---
+b.   10
+Role of Meetings in Gaining Instant Feedback and Employee Involvement (4 Marks)
+• Immediate Response Mechanism – Employees can clarify doubts and give suggestions
+instantly.
+• Two-Way Communication – Encourages dialogue between management and staff.
+• Improved Decision-Making – Real-time reactions help refine proposals.
+• Enhanced Engagement – Employees feel valued and involved in organizational processes.
+Thus, meetings act as interactive platforms for quick feedback and participative management.
+Responsibilities of Participants in Maintaining Discipline, Relevance, and Continuity (6
+Marks)
+• Preparation – Study agenda and relevant documents beforehand.
+• Punctuality – Respect time and meeting schedule.
+• Stay Relevant – Speak only on agenda-related matters.
+• Active Listening – Avoid interruptions and repetition.
+• Constructive Contribution – Provide logical and solution-oriented inputs.
+• Follow-Up Responsibility – Support implementation of decisions taken.
+Therefore, disciplined and responsible participation ensures productive, focused, and
+continuous meeting outcomes.
+2.   Draft the following letters(Attempt Any 2 Questions)   10
+a.   5
+Format: 2; Content: 3 Format – letterhead, date, address, subject, signature Content – inquiry
+details, budget, costing, delivery terms, etc.
+b.   5
+Format – 2 marks; Content – 3 marks Format – letterhead, date, address, subject, signature
+Content – details of adjustment, Acknowledge the receipt of the letter of complaint and thank
+the customer for writing it., Express regret for the cause of the complaint, Explain the situation,
+State the action taken, Communicate one’s genuine concern
+c.   5
+Format – 2 marks; Content – 3 marks Format – date, consumer redressal forum address,
+complainant, opposite party, nature of complaint, details, prayer Content – details of the
+purchase, details of the problem; prayer
+3.   Answer the following questions   10
+a.   5
+Mark scheme
+Page 2 of 4
+--- page 3 ---
+a. Analysis of collaboration and problem-solving
+1 mark – identifying how Rohan’s tone leads to members’ silence
+1 mark – analysing how the loss of diverse perspectives narrows the range of solutions
+1 mark – recognising that members waiting for the discussion to end shows breakdown in
+team morale and collaboration
+b. Strategies for equal participation
+1 mark – giving equal time to all members to share their ideas
+1 mark – setting standards for behaviour in the meeting
+Synoptic answer
+a. Rohan’s behavior dismantles the team’s ability to collaborate. His mockery makes members
+withdraw from the meeting. This leads to loss of diverse perspectives, and the discussion
+becomes more like a monologue. The final outcome would be one that is either dictated by
+Rohan or is just a superficial set of ideas that no one feels invested in implementing.
+b. To restore balance in the team, Vikrant must allot fixed timings for members to share their
+ideas. This will ensure equal participation and prevent Rohan’s dominance. Next, he must set
+standards for behaviour. For example, time should be allocated to critique members’ views
+after everyone has contributed to the discussion. This would allow everyone to put forward
+their opinions without any immediate fear of mockery.
+b.   5
+Marking scheme –
+Notice Format (company name, ‘Notice’ heading, date) – 1 mark
+Content (meeting details, date, time, venue, and invitees) – 1 mark
+Agenda (list of 3 to 4 points to be discussed in the meeting)– 2 marks
+Professional language and tone – 1 mark
+Synoptic answer
+Blue Water Hospitality
+Notice
+February 17, 2026
+Expansion Project: Goa Hotels
+The Project Management team is required to attend a planning meeting on 24th February, 2026
+at 12 noon in the Board Room. The meeting is regarding the upcoming expansion involving
+three new hotel properties in Goa.
+(Signed)
+Project Director
+Agenda
+i. Site overview and architectural blueprints.
+ii. Environmental clearances and legal permits.
+iii. Resource allocation and procurement strategy.
+Page 3 of 4
+--- page 4 ---
+iv. Setting the Phase | completion milestones.
+
+y. Any other matter with consent of the chair
+
+Page 4 of 4
+````
+
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper d1a8dd27f56b
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Financial Markets) - 45612
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Commerce (Financial Markets) - 45612/Communication Skills II/ANS_Final-Exam_Communication Skills II(NDENG159)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 11 Mar 2026
+- Text: mixed (4 pages), mean OCR confidence 94.4
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Communication Skills II
+Date: 11 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 4 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figures at the right indicate full marks
+4. All main questions are compulsary
+5. Use fictitious names wherever necessary
+1.   Answer the following question(Attempt Any 1 Question)   10
+a.   10
+Why Group Discussion is a Simulation of Workplace Behaviour (5 Marks)
+• Represents Team Interaction – GD reflects real workplace meetings and teamwork.
+• Tests Communication Skills – Similar to professional discussions and presentations.
+• Evaluates Problem-Solving Ability – Participants analyse issues collectively.
+• Assesses Leadership and Initiative – Like workplace project settings.
+• Reveals Interpersonal Behaviour – Shows cooperation, tolerance, and adaptability.
+Thus, GD mirrors actual organizational situations where employees collaborate, negotiate,
+and make decisions.
+How a Leader Manages Conflict and Time during GD (5 Marks)
+• Encourages Equal Participation – Ensures all members contribute.
+• Resolves Disagreements Diplomatically – Summarizes opposing views and finds common
+ground.
+• Maintains Neutrality – Avoids personal bias while moderating discussion.
+• Keeps Discussion Focused – Prevents deviation from the topic.
+• Monitors Time Effectively – Allocates time for discussion and conclusion.
+Therefore, an effective leader ensures smooth flow, constructive debate, and timely
+completion of the group discussion.
+Page 1 of 4
+--- page 2 ---
+b.   10
+Role of Meetings in Gaining Instant Feedback and Employee Involvement (4 Marks)
+• Immediate Response Mechanism – Employees can clarify doubts and give suggestions
+instantly.
+• Two-Way Communication – Encourages dialogue between management and staff.
+• Improved Decision-Making – Real-time reactions help refine proposals.
+• Enhanced Engagement – Employees feel valued and involved in organizational processes.
+Thus, meetings act as interactive platforms for quick feedback and participative management.
+Responsibilities of Participants in Maintaining Discipline, Relevance, and Continuity (6
+Marks)
+• Preparation – Study agenda and relevant documents beforehand.
+• Punctuality – Respect time and meeting schedule.
+• Stay Relevant – Speak only on agenda-related matters.
+• Active Listening – Avoid interruptions and repetition.
+• Constructive Contribution – Provide logical and solution-oriented inputs.
+• Follow-Up Responsibility – Support implementation of decisions taken.
+Therefore, disciplined and responsible participation ensures productive, focused, and
+continuous meeting outcomes.
+2.   Draft the following letters(Attempt Any 2 Questions)   10
+a.   5
+Format: 2; Content: 3 Format – letterhead, date, address, subject, signature Content – inquiry
+details, budget, costing, delivery terms, etc.
+b.   5
+Format – 2 marks; Content – 3 marks Format – letterhead, date, address, subject, signature
+Content – details of adjustment, Acknowledge the receipt of the letter of complaint and thank
+the customer for writing it., Express regret for the cause of the complaint, Explain the situation,
+State the action taken, Communicate one’s genuine concern
+c.   5
+Format – 2 marks; Content – 3 marks Format – date, consumer redressal forum address,
+complainant, opposite party, nature of complaint, details, prayer Content – details of the
+purchase, details of the problem; prayer
+3.   Answer the following questions   10
+a.   5
+Mark scheme
+Page 2 of 4
+--- page 3 ---
+a. Analysis of collaboration and problem-solving
+1 mark – identifying how Rohan’s tone leads to members’ silence
+1 mark – analysing how the loss of diverse perspectives narrows the range of solutions
+1 mark – recognising that members waiting for the discussion to end shows breakdown in
+team morale and collaboration
+b. Strategies for equal participation
+1 mark – giving equal time to all members to share their ideas
+1 mark – setting standards for behaviour in the meeting
+Synoptic answer
+a. Rohan’s behavior dismantles the team’s ability to collaborate. His mockery makes members
+withdraw from the meeting. This leads to loss of diverse perspectives, and the discussion
+becomes more like a monologue. The final outcome would be one that is either dictated by
+Rohan or is just a superficial set of ideas that no one feels invested in implementing.
+b. To restore balance in the team, Vikrant must allot fixed timings for members to share their
+ideas. This will ensure equal participation and prevent Rohan’s dominance. Next, he must set
+standards for behaviour. For example, time should be allocated to critique members’ views
+after everyone has contributed to the discussion. This would allow everyone to put forward
+their opinions without any immediate fear of mockery.
+b.   5
+Marking scheme –
+Notice Format (company name, ‘Notice’ heading, date) – 1 mark
+Content (meeting details, date, time, venue, and invitees) – 1 mark
+Agenda (list of 3 to 4 points to be discussed in the meeting)– 2 marks
+Professional language and tone – 1 mark
+Synoptic answer
+Blue Water Hospitality
+Notice
+February 17, 2026
+Expansion Project: Goa Hotels
+The Project Management team is required to attend a planning meeting on 24th February, 2026
+at 12 noon in the Board Room. The meeting is regarding the upcoming expansion involving
+three new hotel properties in Goa.
+(Signed)
+Project Director
+Agenda
+i. Site overview and architectural blueprints.
+ii. Environmental clearances and legal permits.
+iii. Resource allocation and procurement strategy.
+Page 3 of 4
+--- page 4 ---
+iv. Setting the Phase | completion milestones.
+
+y. Any other matter with consent of the chair
+
+Page 4 of 4
+````
+
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper efe2170b32f0
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Management and Finance) - 45615
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Commerce (Management and Finance) - 45615/Communication Skills II/ANS_Final-Exam_Communication Skills II(NEENG160)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 11 Mar 2026
+- Text: mixed (4 pages), mean OCR confidence 94.4
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Communication Skills II
+Date: 11 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 4 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figures at the right indicate full marks
+4. All main questions are compulsary
+5. Use fictitious names wherever necessary
+1.   Answer the following question(Attempt Any 1 Question)   10
+a.   10
+Why Group Discussion is a Simulation of Workplace Behaviour (5 Marks)
+• Represents Team Interaction – GD reflects real workplace meetings and teamwork.
+• Tests Communication Skills – Similar to professional discussions and presentations.
+• Evaluates Problem-Solving Ability – Participants analyse issues collectively.
+• Assesses Leadership and Initiative – Like workplace project settings.
+• Reveals Interpersonal Behaviour – Shows cooperation, tolerance, and adaptability.
+Thus, GD mirrors actual organizational situations where employees collaborate, negotiate,
+and make decisions.
+How a Leader Manages Conflict and Time during GD (5 Marks)
+• Encourages Equal Participation – Ensures all members contribute.
+• Resolves Disagreements Diplomatically – Summarizes opposing views and finds common
+ground.
+• Maintains Neutrality – Avoids personal bias while moderating discussion.
+• Keeps Discussion Focused – Prevents deviation from the topic.
+• Monitors Time Effectively – Allocates time for discussion and conclusion.
+Therefore, an effective leader ensures smooth flow, constructive debate, and timely
+completion of the group discussion.
+Page 1 of 4
+--- page 2 ---
+b.   10
+Role of Meetings in Gaining Instant Feedback and Employee Involvement (4 Marks)
+• Immediate Response Mechanism – Employees can clarify doubts and give suggestions
+instantly.
+• Two-Way Communication – Encourages dialogue between management and staff.
+• Improved Decision-Making – Real-time reactions help refine proposals.
+• Enhanced Engagement – Employees feel valued and involved in organizational processes.
+Thus, meetings act as interactive platforms for quick feedback and participative management.
+Responsibilities of Participants in Maintaining Discipline, Relevance, and Continuity (6
+Marks)
+• Preparation – Study agenda and relevant documents beforehand.
+• Punctuality – Respect time and meeting schedule.
+• Stay Relevant – Speak only on agenda-related matters.
+• Active Listening – Avoid interruptions and repetition.
+• Constructive Contribution – Provide logical and solution-oriented inputs.
+• Follow-Up Responsibility – Support implementation of decisions taken.
+Therefore, disciplined and responsible participation ensures productive, focused, and
+continuous meeting outcomes.
+2.   Draft the following letters(Attempt Any 2 Questions)   10
+a.   5
+Format: 2; Content: 3 Format – letterhead, date, address, subject, signature Content – inquiry
+details, budget, costing, delivery terms, etc.
+b.   5
+Format – 2 marks; Content – 3 marks Format – letterhead, date, address, subject, signature
+Content – details of adjustment, Acknowledge the receipt of the letter of complaint and thank
+the customer for writing it., Express regret for the cause of the complaint, Explain the situation,
+State the action taken, Communicate one’s genuine concern
+c.   5
+Format – 2 marks; Content – 3 marks Format – date, consumer redressal forum address,
+complainant, opposite party, nature of complaint, details, prayer Content – details of the
+purchase, details of the problem; prayer
+3.   Answer the following questions   10
+a.   5
+Mark scheme
+Page 2 of 4
+--- page 3 ---
+a. Analysis of collaboration and problem-solving
+1 mark – identifying how Rohan’s tone leads to members’ silence
+1 mark – analysing how the loss of diverse perspectives narrows the range of solutions
+1 mark – recognising that members waiting for the discussion to end shows breakdown in
+team morale and collaboration
+b. Strategies for equal participation
+1 mark – giving equal time to all members to share their ideas
+1 mark – setting standards for behaviour in the meeting
+Synoptic answer
+a. Rohan’s behavior dismantles the team’s ability to collaborate. His mockery makes members
+withdraw from the meeting. This leads to loss of diverse perspectives, and the discussion
+becomes more like a monologue. The final outcome would be one that is either dictated by
+Rohan or is just a superficial set of ideas that no one feels invested in implementing.
+b. To restore balance in the team, Vikrant must allot fixed timings for members to share their
+ideas. This will ensure equal participation and prevent Rohan’s dominance. Next, he must set
+standards for behaviour. For example, time should be allocated to critique members’ views
+after everyone has contributed to the discussion. This would allow everyone to put forward
+their opinions without any immediate fear of mockery.
+b.   5
+Marking scheme –
+Notice Format (company name, ‘Notice’ heading, date) – 1 mark
+Content (meeting details, date, time, venue, and invitees) – 1 mark
+Agenda (list of 3 to 4 points to be discussed in the meeting)– 2 marks
+Professional language and tone – 1 mark
+Synoptic answer
+Blue Water Hospitality
+Notice
+February 17, 2026
+Expansion Project: Goa Hotels
+The Project Management team is required to attend a planning meeting on 24th February, 2026
+at 12 noon in the Board Room. The meeting is regarding the upcoming expansion involving
+three new hotel properties in Goa.
+(Signed)
+Project Director
+Agenda
+i. Site overview and architectural blueprints.
+ii. Environmental clearances and legal permits.
+iii. Resource allocation and procurement strategy.
+Page 3 of 4
+--- page 4 ---
+iv. Setting the Phase | completion milestones.
+
+y. Any other matter with consent of the chair
+
+Page 4 of 4
+````
+
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 4ad153d62e04
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce - 45611
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Commerce - 45611/Communication Skills II/ANS_Final-Exam_Communication Skills II(NAENG159)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 11 Mar 2026
+- Text: mixed (4 pages), mean OCR confidence 94.4
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Communication Skills II
+Date: 11 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 4 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figures at the right indicate full marks
+4. All main questions are compulsary
+5. Use fictitious names wherever necessary
+1.   Answer the following question(Attempt Any 1 Question)   10
+a.   10
+Why Group Discussion is a Simulation of Workplace Behaviour (5 Marks)
+• Represents Team Interaction – GD reflects real workplace meetings and teamwork.
+• Tests Communication Skills – Similar to professional discussions and presentations.
+• Evaluates Problem-Solving Ability – Participants analyse issues collectively.
+• Assesses Leadership and Initiative – Like workplace project settings.
+• Reveals Interpersonal Behaviour – Shows cooperation, tolerance, and adaptability.
+Thus, GD mirrors actual organizational situations where employees collaborate, negotiate,
+and make decisions.
+How a Leader Manages Conflict and Time during GD (5 Marks)
+• Encourages Equal Participation – Ensures all members contribute.
+• Resolves Disagreements Diplomatically – Summarizes opposing views and finds common
+ground.
+• Maintains Neutrality – Avoids personal bias while moderating discussion.
+• Keeps Discussion Focused – Prevents deviation from the topic.
+• Monitors Time Effectively – Allocates time for discussion and conclusion.
+Therefore, an effective leader ensures smooth flow, constructive debate, and timely
+completion of the group discussion.
+Page 1 of 4
+--- page 2 ---
+b.   10
+Role of Meetings in Gaining Instant Feedback and Employee Involvement (4 Marks)
+• Immediate Response Mechanism – Employees can clarify doubts and give suggestions
+instantly.
+• Two-Way Communication – Encourages dialogue between management and staff.
+• Improved Decision-Making – Real-time reactions help refine proposals.
+• Enhanced Engagement – Employees feel valued and involved in organizational processes.
+Thus, meetings act as interactive platforms for quick feedback and participative management.
+Responsibilities of Participants in Maintaining Discipline, Relevance, and Continuity (6
+Marks)
+• Preparation – Study agenda and relevant documents beforehand.
+• Punctuality – Respect time and meeting schedule.
+• Stay Relevant – Speak only on agenda-related matters.
+• Active Listening – Avoid interruptions and repetition.
+• Constructive Contribution – Provide logical and solution-oriented inputs.
+• Follow-Up Responsibility – Support implementation of decisions taken.
+Therefore, disciplined and responsible participation ensures productive, focused, and
+continuous meeting outcomes.
+2.   Draft the following letters(Attempt Any 2 Questions)   10
+a.   5
+Format: 2; Content: 3 Format – letterhead, date, address, subject, signature Content – inquiry
+details, budget, costing, delivery terms, etc.
+b.   5
+Format – 2 marks; Content – 3 marks Format – letterhead, date, address, subject, signature
+Content – details of adjustment, Acknowledge the receipt of the letter of complaint and thank
+the customer for writing it., Express regret for the cause of the complaint, Explain the situation,
+State the action taken, Communicate one’s genuine concern
+c.   5
+Format – 2 marks; Content – 3 marks Format – date, consumer redressal forum address,
+complainant, opposite party, nature of complaint, details, prayer Content – details of the
+purchase, details of the problem; prayer
+3.   Answer the following questions   10
+a.   5
+Mark scheme
+Page 2 of 4
+--- page 3 ---
+a. Analysis of collaboration and problem-solving
+1 mark – identifying how Rohan’s tone leads to members’ silence
+1 mark – analysing how the loss of diverse perspectives narrows the range of solutions
+1 mark – recognising that members waiting for the discussion to end shows breakdown in
+team morale and collaboration
+b. Strategies for equal participation
+1 mark – giving equal time to all members to share their ideas
+1 mark – setting standards for behaviour in the meeting
+Synoptic answer
+a. Rohan’s behavior dismantles the team’s ability to collaborate. His mockery makes members
+withdraw from the meeting. This leads to loss of diverse perspectives, and the discussion
+becomes more like a monologue. The final outcome would be one that is either dictated by
+Rohan or is just a superficial set of ideas that no one feels invested in implementing.
+b. To restore balance in the team, Vikrant must allot fixed timings for members to share their
+ideas. This will ensure equal participation and prevent Rohan’s dominance. Next, he must set
+standards for behaviour. For example, time should be allocated to critique members’ views
+after everyone has contributed to the discussion. This would allow everyone to put forward
+their opinions without any immediate fear of mockery.
+b.   5
+Marking scheme –
+Notice Format (company name, ‘Notice’ heading, date) – 1 mark
+Content (meeting details, date, time, venue, and invitees) – 1 mark
+Agenda (list of 3 to 4 points to be discussed in the meeting)– 2 marks
+Professional language and tone – 1 mark
+Synoptic answer
+Blue Water Hospitality
+Notice
+February 17, 2026
+Expansion Project: Goa Hotels
+The Project Management team is required to attend a planning meeting on 24th February, 2026
+at 12 noon in the Board Room. The meeting is regarding the upcoming expansion involving
+three new hotel properties in Goa.
+(Signed)
+Project Director
+Agenda
+i. Site overview and architectural blueprints.
+ii. Environmental clearances and legal permits.
+iii. Resource allocation and procurement strategy.
+Page 3 of 4
+--- page 4 ---
+iv. Setting the Phase | completion milestones.
+
+y. Any other matter with consent of the chair
+
+Page 4 of 4
+````
+
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 466f4a8b9f8d
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce(Accounting and Finance) - 45613
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Commerce(Accounting and Finance) - 45613/Communication Skills II/ANS_Final-Exam_Communication Skills II(NCENGS159)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 11 Mar 2026
+- Text: mixed (4 pages), mean OCR confidence 94.4
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Communication Skills II
+Date: 11 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 4 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figures at the right indicate full marks
+4. All main questions are compulsary
+5. Use fictitious names wherever necessary
+1.   Answer the following question(Attempt Any 1 Question)   10
+a.   10
+Why Group Discussion is a Simulation of Workplace Behaviour (5 Marks)
+• Represents Team Interaction – GD reflects real workplace meetings and teamwork.
+• Tests Communication Skills – Similar to professional discussions and presentations.
+• Evaluates Problem-Solving Ability – Participants analyse issues collectively.
+• Assesses Leadership and Initiative – Like workplace project settings.
+• Reveals Interpersonal Behaviour – Shows cooperation, tolerance, and adaptability.
+Thus, GD mirrors actual organizational situations where employees collaborate, negotiate,
+and make decisions.
+How a Leader Manages Conflict and Time during GD (5 Marks)
+• Encourages Equal Participation – Ensures all members contribute.
+• Resolves Disagreements Diplomatically – Summarizes opposing views and finds common
+ground.
+• Maintains Neutrality – Avoids personal bias while moderating discussion.
+• Keeps Discussion Focused – Prevents deviation from the topic.
+• Monitors Time Effectively – Allocates time for discussion and conclusion.
+Therefore, an effective leader ensures smooth flow, constructive debate, and timely
+completion of the group discussion.
+Page 1 of 4
+--- page 2 ---
+b.   10
+Role of Meetings in Gaining Instant Feedback and Employee Involvement (4 Marks)
+• Immediate Response Mechanism – Employees can clarify doubts and give suggestions
+instantly.
+• Two-Way Communication – Encourages dialogue between management and staff.
+• Improved Decision-Making – Real-time reactions help refine proposals.
+• Enhanced Engagement – Employees feel valued and involved in organizational processes.
+Thus, meetings act as interactive platforms for quick feedback and participative management.
+Responsibilities of Participants in Maintaining Discipline, Relevance, and Continuity (6
+Marks)
+• Preparation – Study agenda and relevant documents beforehand.
+• Punctuality – Respect time and meeting schedule.
+• Stay Relevant – Speak only on agenda-related matters.
+• Active Listening – Avoid interruptions and repetition.
+• Constructive Contribution – Provide logical and solution-oriented inputs.
+• Follow-Up Responsibility – Support implementation of decisions taken.
+Therefore, disciplined and responsible participation ensures productive, focused, and
+continuous meeting outcomes.
+2.   Draft the following letters(Attempt Any 2 Questions)   10
+a.   5
+Format: 2; Content: 3 Format – letterhead, date, address, subject, signature Content – inquiry
+details, budget, costing, delivery terms, etc.
+b.   5
+Format – 2 marks; Content – 3 marks Format – letterhead, date, address, subject, signature
+Content – details of adjustment, Acknowledge the receipt of the letter of complaint and thank
+the customer for writing it., Express regret for the cause of the complaint, Explain the situation,
+State the action taken, Communicate one’s genuine concern
+c.   5
+Format – 2 marks; Content – 3 marks Format – date, consumer redressal forum address,
+complainant, opposite party, nature of complaint, details, prayer Content – details of the
+purchase, details of the problem; prayer
+3.   Answer the following questions   10
+a.   5
+Mark scheme
+Page 2 of 4
+--- page 3 ---
+a. Analysis of collaboration and problem-solving
+1 mark – identifying how Rohan’s tone leads to members’ silence
+1 mark – analysing how the loss of diverse perspectives narrows the range of solutions
+1 mark – recognising that members waiting for the discussion to end shows breakdown in
+team morale and collaboration
+b. Strategies for equal participation
+1 mark – giving equal time to all members to share their ideas
+1 mark – setting standards for behaviour in the meeting
+Synoptic answer
+a. Rohan’s behavior dismantles the team’s ability to collaborate. His mockery makes members
+withdraw from the meeting. This leads to loss of diverse perspectives, and the discussion
+becomes more like a monologue. The final outcome would be one that is either dictated by
+Rohan or is just a superficial set of ideas that no one feels invested in implementing.
+b. To restore balance in the team, Vikrant must allot fixed timings for members to share their
+ideas. This will ensure equal participation and prevent Rohan’s dominance. Next, he must set
+standards for behaviour. For example, time should be allocated to critique members’ views
+after everyone has contributed to the discussion. This would allow everyone to put forward
+their opinions without any immediate fear of mockery.
+b.   5
+Marking scheme –
+Notice Format (company name, ‘Notice’ heading, date) – 1 mark
+Content (meeting details, date, time, venue, and invitees) – 1 mark
+Agenda (list of 3 to 4 points to be discussed in the meeting)– 2 marks
+Professional language and tone – 1 mark
+Synoptic answer
+Blue Water Hospitality
+Notice
+February 17, 2026
+Expansion Project: Goa Hotels
+The Project Management team is required to attend a planning meeting on 24th February, 2026
+at 12 noon in the Board Room. The meeting is regarding the upcoming expansion involving
+three new hotel properties in Goa.
+(Signed)
+Project Director
+Agenda
+i. Site overview and architectural blueprints.
+ii. Environmental clearances and legal permits.
+iii. Resource allocation and procurement strategy.
+Page 3 of 4
+--- page 4 ---
+iv. Setting the Phase | completion milestones.
+
+y. Any other matter with consent of the chair
+
+Page 4 of 4
+````
+
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 939732c662e4
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce(Economics & Analytics) - 45617
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Commerce(Economics & Analytics) - 45617/Communication Skills II/ANS_Final-Exam_Communication Skills II(NGENG159)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 11 Mar 2026
+- Text: mixed (4 pages), mean OCR confidence 94.4
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Communication Skills II
+Date: 11 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 4 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figures at the right indicate full marks
+4. All main questions are compulsary
+5. Use fictitious names wherever necessary
+1.   Answer the following question(Attempt Any 1 Question)   10
+a.   10
+Why Group Discussion is a Simulation of Workplace Behaviour (5 Marks)
+• Represents Team Interaction – GD reflects real workplace meetings and teamwork.
+• Tests Communication Skills – Similar to professional discussions and presentations.
+• Evaluates Problem-Solving Ability – Participants analyse issues collectively.
+• Assesses Leadership and Initiative – Like workplace project settings.
+• Reveals Interpersonal Behaviour – Shows cooperation, tolerance, and adaptability.
+Thus, GD mirrors actual organizational situations where employees collaborate, negotiate,
+and make decisions.
+How a Leader Manages Conflict and Time during GD (5 Marks)
+• Encourages Equal Participation – Ensures all members contribute.
+• Resolves Disagreements Diplomatically – Summarizes opposing views and finds common
+ground.
+• Maintains Neutrality – Avoids personal bias while moderating discussion.
+• Keeps Discussion Focused – Prevents deviation from the topic.
+• Monitors Time Effectively – Allocates time for discussion and conclusion.
+Therefore, an effective leader ensures smooth flow, constructive debate, and timely
+completion of the group discussion.
+Page 1 of 4
+--- page 2 ---
+b.   10
+Role of Meetings in Gaining Instant Feedback and Employee Involvement (4 Marks)
+• Immediate Response Mechanism – Employees can clarify doubts and give suggestions
+instantly.
+• Two-Way Communication – Encourages dialogue between management and staff.
+• Improved Decision-Making – Real-time reactions help refine proposals.
+• Enhanced Engagement – Employees feel valued and involved in organizational processes.
+Thus, meetings act as interactive platforms for quick feedback and participative management.
+Responsibilities of Participants in Maintaining Discipline, Relevance, and Continuity (6
+Marks)
+• Preparation – Study agenda and relevant documents beforehand.
+• Punctuality – Respect time and meeting schedule.
+• Stay Relevant – Speak only on agenda-related matters.
+• Active Listening – Avoid interruptions and repetition.
+• Constructive Contribution – Provide logical and solution-oriented inputs.
+• Follow-Up Responsibility – Support implementation of decisions taken.
+Therefore, disciplined and responsible participation ensures productive, focused, and
+continuous meeting outcomes.
+2.   Draft the following letters(Attempt Any 2 Questions)   10
+a.   5
+Format: 2; Content: 3 Format – letterhead, date, address, subject, signature Content – inquiry
+details, budget, costing, delivery terms, etc.
+b.   5
+Format – 2 marks; Content – 3 marks Format – letterhead, date, address, subject, signature
+Content – details of adjustment, Acknowledge the receipt of the letter of complaint and thank
+the customer for writing it., Express regret for the cause of the complaint, Explain the situation,
+State the action taken, Communicate one’s genuine concern
+c.   5
+Format – 2 marks; Content – 3 marks Format – date, consumer redressal forum address,
+complainant, opposite party, nature of complaint, details, prayer Content – details of the
+purchase, details of the problem; prayer
+3.   Answer the following questions   10
+a.   5
+Mark scheme
+Page 2 of 4
+--- page 3 ---
+a. Analysis of collaboration and problem-solving
+1 mark – identifying how Rohan’s tone leads to members’ silence
+1 mark – analysing how the loss of diverse perspectives narrows the range of solutions
+1 mark – recognising that members waiting for the discussion to end shows breakdown in
+team morale and collaboration
+b. Strategies for equal participation
+1 mark – giving equal time to all members to share their ideas
+1 mark – setting standards for behaviour in the meeting
+Synoptic answer
+a. Rohan’s behavior dismantles the team’s ability to collaborate. His mockery makes members
+withdraw from the meeting. This leads to loss of diverse perspectives, and the discussion
+becomes more like a monologue. The final outcome would be one that is either dictated by
+Rohan or is just a superficial set of ideas that no one feels invested in implementing.
+b. To restore balance in the team, Vikrant must allot fixed timings for members to share their
+ideas. This will ensure equal participation and prevent Rohan’s dominance. Next, he must set
+standards for behaviour. For example, time should be allocated to critique members’ views
+after everyone has contributed to the discussion. This would allow everyone to put forward
+their opinions without any immediate fear of mockery.
+b.   5
+Marking scheme –
+Notice Format (company name, ‘Notice’ heading, date) – 1 mark
+Content (meeting details, date, time, venue, and invitees) – 1 mark
+Agenda (list of 3 to 4 points to be discussed in the meeting)– 2 marks
+Professional language and tone – 1 mark
+Synoptic answer
+Blue Water Hospitality
+Notice
+February 17, 2026
+Expansion Project: Goa Hotels
+The Project Management team is required to attend a planning meeting on 24th February, 2026
+at 12 noon in the Board Room. The meeting is regarding the upcoming expansion involving
+three new hotel properties in Goa.
+(Signed)
+Project Director
+Agenda
+i. Site overview and architectural blueprints.
+ii. Environmental clearances and legal permits.
+iii. Resource allocation and procurement strategy.
+Page 3 of 4
+--- page 4 ---
+iv. Setting the Phase | completion milestones.
+
+y. Any other matter with consent of the chair
+
+Page 4 of 4
+````
+
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 750648bd1200
+
+- Departments: B.Sc Information Technology
+- Programmes: Bachelor of Science (Information Technology) - 45618
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Science (Information Technology) - 45618/Communication Skills II/ANS_Final-Exam_Communication Skills II(NHENG160)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 11 Mar 2026
+- Text: mixed (4 pages), mean OCR confidence 94.4
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Communication Skills II
+Date: 11 Mar 2026   Time: 08:00 am - 09:00 am (01:00 Hrs.)
+Max Marks: 30
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 4 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figures at the right indicate full marks
+4. All main questions are compulsary
+5. Use fictitious names wherever necessary
+1.   Answer the following question(Attempt Any 1 Question)   10
+a.   10
+Why Group Discussion is a Simulation of Workplace Behaviour (5 Marks)
+• Represents Team Interaction – GD reflects real workplace meetings and teamwork.
+• Tests Communication Skills – Similar to professional discussions and presentations.
+• Evaluates Problem-Solving Ability – Participants analyse issues collectively.
+• Assesses Leadership and Initiative – Like workplace project settings.
+• Reveals Interpersonal Behaviour – Shows cooperation, tolerance, and adaptability.
+Thus, GD mirrors actual organizational situations where employees collaborate, negotiate,
+and make decisions.
+How a Leader Manages Conflict and Time during GD (5 Marks)
+• Encourages Equal Participation – Ensures all members contribute.
+• Resolves Disagreements Diplomatically – Summarizes opposing views and finds common
+ground.
+• Maintains Neutrality – Avoids personal bias while moderating discussion.
+• Keeps Discussion Focused – Prevents deviation from the topic.
+• Monitors Time Effectively – Allocates time for discussion and conclusion.
+Therefore, an effective leader ensures smooth flow, constructive debate, and timely
+completion of the group discussion.
+Page 1 of 4
+--- page 2 ---
+b.   10
+Role of Meetings in Gaining Instant Feedback and Employee Involvement (4 Marks)
+• Immediate Response Mechanism – Employees can clarify doubts and give suggestions
+instantly.
+• Two-Way Communication – Encourages dialogue between management and staff.
+• Improved Decision-Making – Real-time reactions help refine proposals.
+• Enhanced Engagement – Employees feel valued and involved in organizational processes.
+Thus, meetings act as interactive platforms for quick feedback and participative management.
+Responsibilities of Participants in Maintaining Discipline, Relevance, and Continuity (6
+Marks)
+• Preparation – Study agenda and relevant documents beforehand.
+• Punctuality – Respect time and meeting schedule.
+• Stay Relevant – Speak only on agenda-related matters.
+• Active Listening – Avoid interruptions and repetition.
+• Constructive Contribution – Provide logical and solution-oriented inputs.
+• Follow-Up Responsibility – Support implementation of decisions taken.
+Therefore, disciplined and responsible participation ensures productive, focused, and
+continuous meeting outcomes.
+2.   Draft the following letters(Attempt Any 2 Questions)   10
+a.   5
+Format: 2; Content: 3 Format – letterhead, date, address, subject, signature Content – inquiry
+details, budget, costing, delivery terms, etc.
+b.   5
+Format – 2 marks; Content – 3 marks Format – letterhead, date, address, subject, signature
+Content – details of adjustment, Acknowledge the receipt of the letter of complaint and thank
+the customer for writing it., Express regret for the cause of the complaint, Explain the situation,
+State the action taken, Communicate one’s genuine concern
+c.   5
+Format – 2 marks; Content – 3 marks Format – date, consumer redressal forum address,
+complainant, opposite party, nature of complaint, details, prayer Content – details of the
+purchase, details of the problem; prayer
+3.   Answer the following questions   10
+a.   5
+Mark scheme
+Page 2 of 4
+--- page 3 ---
+a. Analysis of collaboration and problem-solving
+1 mark – identifying how Rohan’s tone leads to members’ silence
+1 mark – analysing how the loss of diverse perspectives narrows the range of solutions
+1 mark – recognising that members waiting for the discussion to end shows breakdown in
+team morale and collaboration
+b. Strategies for equal participation
+1 mark – giving equal time to all members to share their ideas
+1 mark – setting standards for behaviour in the meeting
+Synoptic answer
+a. Rohan’s behavior dismantles the team’s ability to collaborate. His mockery makes members
+withdraw from the meeting. This leads to loss of diverse perspectives, and the discussion
+becomes more like a monologue. The final outcome would be one that is either dictated by
+Rohan or is just a superficial set of ideas that no one feels invested in implementing.
+b. To restore balance in the team, Vikrant must allot fixed timings for members to share their
+ideas. This will ensure equal participation and prevent Rohan’s dominance. Next, he must set
+standards for behaviour. For example, time should be allocated to critique members’ views
+after everyone has contributed to the discussion. This would allow everyone to put forward
+their opinions without any immediate fear of mockery.
+b.   5
+Marking scheme –
+Notice Format (company name, ‘Notice’ heading, date) – 1 mark
+Content (meeting details, date, time, venue, and invitees) – 1 mark
+Agenda (list of 3 to 4 points to be discussed in the meeting)– 2 marks
+Professional language and tone – 1 mark
+Synoptic answer
+Blue Water Hospitality
+Notice
+February 17, 2026
+Expansion Project: Goa Hotels
+The Project Management team is required to attend a planning meeting on 24th February, 2026
+at 12 noon in the Board Room. The meeting is regarding the upcoming expansion involving
+three new hotel properties in Goa.
+(Signed)
+Project Director
+Agenda
+i. Site overview and architectural blueprints.
+ii. Environmental clearances and legal permits.
+iii. Resource allocation and procurement strategy.
+Page 3 of 4
+--- page 4 ---
+iv. Setting the Phase | completion milestones.
+
+y. Any other matter with consent of the chair
+
+Page 4 of 4
+````
+
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 1c6e4875121e
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce - 45611
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Re-Exam/Bachelor of Commerce - 45611/Communication Skills II/ANS_Re-Exam_Communication Skills II(NAENG159)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 24 Jun 2026
+- Text: text (4 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Communication Skills II
+Date: 24 Jun 2026   Time: 10:30 am - 11:30 am (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 4 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figures at the right indicate full marks
+4. All main questions are compulsary
+5. Use fictitious names wherever necessary
+1.   Answer the following question(Attempt Any 1 Question)   10
+a.   10
+Skills and Attributes Employers Look For (6 Marks)
+(a) Analytical Skills • Ability to think logically and solve problems systematically. • Involves
+data interpretation, critical thinking, and decision-making. • Employers assess how candidates
+evaluate situations and provide solutions. • Important for roles requiring planning, strategy,
+and troubleshooting.
+(b) Adaptability • Ability to adjust to new environments, technologies, and work cultures. •
+Shows flexibility in handling change and uncertainty. • Employers value candidates who can
+learn quickly and manage pressure. • Essential in dynamic and fast-changing workplaces.
+(c) Professionalism • Demonstrates ethical behaviour, responsibility, and accountability. •
+Includes punctuality, positive attitude, and respectful communication. • Reflects commitment
+to organizational values and work discipline. • Builds trust and credibility in the workplace.
+Thus, analytical ability ensures effective decision-making, adaptability ensures growth in
+changing environments, and professionalism ensures workplace harmony and reliability.
+2. Any Two Areas of Questioning Used to Assess These Skills (4 Marks)
+• Behavioural Questions – Ask candidates to describe past situations (e.g., handling change
+or solving problems).
+Page 1 of 4
+--- page 2 ---
+• Situational Questions – Present hypothetical scenarios to assess decision-making and
+adaptability.
+• Competency-Based Questions – Focus on specific skills like leadership, problem-solving,
+adaptability.
+• Stress Questions – Assess how candidates respond under pressure.
+• Technical/Case-Based Questions – Evaluate analytical ability through real or simulated
+problems.
+• Opinion-Based Questions – Assess professionalism and clarity of thought.
+b.   10
+Critical Examination: Does Collective Discussion Always Lead to Better Decisions (5 Marks)
+• Advantage – Diverse Perspectives – Collective discussion brings multiple viewpoints,
+improving analysis.
+• Shared Responsibility – Increases acceptance and commitment to decisions.
+• Risk of Groupthink – Pressure to conform may suppress dissenting ideas.
+• Dominance by Few Members – Strong personalities may influence outcomes unfairly.
+• Time-Consuming Process – Excessive discussion may delay decisions.
+Thus, collective discussion can enhance decision-making when managed properly, but
+without structure and leadership, it may lead to inefficiency or biased outcomes.
+Role of Chairperson in Achieving Objectives in a Consultative Meeting (5 Marks)
+• Clarifies Purpose and Agenda – Ensures members understand discussion goals.
+• Encourages Equal Participation – Invites opinions from all members.
+• Maintains Focus – Prevents deviation from the topic.
+• Summarizes Key Points – Organizes ideas for clarity.
+• Guides Toward Consensus – Helps convert discussion into actionable recommendations.
+Therefore, in a consultative meeting, the chairperson acts as a facilitator who structures
+discussion to ensure objectives are effectively achieved.
+2.   Draft the following letters(Attempt Any 2 Questions)   10
+a.   5
+Format: 2; Content: 3 Format – letterhead, date, address, subject, signature Content – inquiry
+details, budget, costing, delivery terms, etc.
+b.   5
+Format – 2 marks; Content – 3 marks Format – letterhead, date, address, subject, signature
+Content – details of adjustment, Acknowledge the receipt of the letter of complaint and thank
+the customer for writing it., Express regret for the cause of the complaint, Explain the situation,
+State the action taken, Communicate one’s genuine concern
+c.   5
+Page 2 of 4
+--- page 3 ---
+Format – 2 marks; Content – 3 marks Format – date, consumer redressal forum address,
+complainant, opposite party, nature of complaint, details, prayer Content – details of the
+purchase, details of the problem; prayer
+3.   Answer the following questions   10
+a.   5
+Mark scheme
+a. Analysis of impact of behaviour -
+2 marks – identification of specific disruptive behaviours (interruption, doodling, and silence)
+1 mark – impact on final outcome
+b. Two changes Arjun can implement –
+1 mark – implementation of timed agenda - assigning specific time for speakers in the agenda
+1 mark – pre-meeting with Priya and communicating with her
+Synoptic answer
+a. Priya’s behaviour deters the team objective of solving the space crisis. Firstly, her tendency
+to interrupt and jump ahead disrupts the flow of the discussion and hinders problem-solving.
+Team members would not be able to express their views properly. Secondly, her disengagement
+(through doodling and silence) suggests lack of technical consideration. Since she is the
+Technical Consultant, her failure to analyse the technical feasibility of proposed solutions may
+result in an outcome that is spatially viable but technically flawed. Ultimately, this would lead
+to a final recommendation that cannot be implemented effectively at the Mumbai branch.
+b. Suggestions for Arjun include implementing a structured time agenda and conducting a pre-
+meeting brief with Priya. Allocating specific slots for each speaker will contain Priya’s
+interruptions without dismissing her input. Next, Arjun can hold a one-on-one brief with Priya
+before the meeting to communicate the importance of her inputs to the meeting. He can also
+politely point out her lack of active listening and the impact of the same on meeting outcome.
+This will validate Priya’s role in the team and ensure her active engagement.
+b.   5
+Marking scheme –
+Notice Format (company name, ‘Notice’ heading, date) – 1 mark
+Content (meeting details, date, time, venue, and invitees) – 1 mark
+Agenda (list of 3 to 4 points to be discussed in the meeting)– 2 marks
+Professional language and tone – 1 mark
+Synoptic answer
+Swift Motors
+Notice
+February 17, 2026
+Page 3 of 4
+--- page 4 ---
+Incentive Distribution Planning
+Following the Sales Department exceeding annual targets, a meeting with the HR and Finance
+Heads is scheduled to finalize performance-linked incentives.
+Date: 21st February, 2026
+Time: 2:00 PM
+Venue: Boardroom
+(Signed)
+Director of Operations
+Agenda
+i. Briefing on total sales exceeding targets.
+ii. Calculation of bonus pool for the Sales team.
+iii. Criteria for individual performance-linked incentives.
+iv. Approval of the disbursement schedule.
+v. Any other matter with consent of the chair
+Page 4 of 4
+````
+
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper c936071e5b11
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce(Accounting and Finance) - 45613
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Re-Exam/Bachelor of Commerce(Accounting and Finance) - 45613/Communication Skills II/ANS_Re-Exam_Communication Skills II(NCENGS159)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 30; duration hours: 1; exam date: 24 Jun 2026
+- Text: text (4 pages)
+
+````text
+Synoptic
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.A.F./B.Com/B.Com (Eco)/B.Com (Eco & Analytics)/B.Com (M & F)/B.F.M./B.Sc. (IT)
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Communication Skills II
+Date: 24 Jun 2026   Time: 10:30 am - 11:30 am (01:00 Hrs.)
+Max Marks: 30
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This Synoptic paper contains 4 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figures at the right indicate full marks
+4. All main questions are compulsary
+5. Use fictitious names wherever necessary
+1.   Answer the following question(Attempt Any 1 Question)   10
+a.   10
+Skills and Attributes Employers Look For (6 Marks)
+(a) Analytical Skills • Ability to think logically and solve problems systematically. • Involves
+data interpretation, critical thinking, and decision-making. • Employers assess how candidates
+evaluate situations and provide solutions. • Important for roles requiring planning, strategy,
+and troubleshooting.
+(b) Adaptability • Ability to adjust to new environments, technologies, and work cultures. •
+Shows flexibility in handling change and uncertainty. • Employers value candidates who can
+learn quickly and manage pressure. • Essential in dynamic and fast-changing workplaces.
+(c) Professionalism • Demonstrates ethical behaviour, responsibility, and accountability. •
+Includes punctuality, positive attitude, and respectful communication. • Reflects commitment
+to organizational values and work discipline. • Builds trust and credibility in the workplace.
+Thus, analytical ability ensures effective decision-making, adaptability ensures growth in
+changing environments, and professionalism ensures workplace harmony and reliability.
+2. Any Two Areas of Questioning Used to Assess These Skills (4 Marks)
+• Behavioural Questions – Ask candidates to describe past situations (e.g., handling change
+or solving problems).
+Page 1 of 4
+--- page 2 ---
+• Situational Questions – Present hypothetical scenarios to assess decision-making and
+adaptability.
+• Competency-Based Questions – Focus on specific skills like leadership, problem-solving,
+adaptability.
+• Stress Questions – Assess how candidates respond under pressure.
+• Technical/Case-Based Questions – Evaluate analytical ability through real or simulated
+problems.
+• Opinion-Based Questions – Assess professionalism and clarity of thought.
+b.   10
+Critical Examination: Does Collective Discussion Always Lead to Better Decisions (5 Marks)
+• Advantage – Diverse Perspectives – Collective discussion brings multiple viewpoints,
+improving analysis.
+• Shared Responsibility – Increases acceptance and commitment to decisions.
+• Risk of Groupthink – Pressure to conform may suppress dissenting ideas.
+• Dominance by Few Members – Strong personalities may influence outcomes unfairly.
+• Time-Consuming Process – Excessive discussion may delay decisions.
+Thus, collective discussion can enhance decision-making when managed properly, but
+without structure and leadership, it may lead to inefficiency or biased outcomes.
+Role of Chairperson in Achieving Objectives in a Consultative Meeting (5 Marks)
+• Clarifies Purpose and Agenda – Ensures members understand discussion goals.
+• Encourages Equal Participation – Invites opinions from all members.
+• Maintains Focus – Prevents deviation from the topic.
+• Summarizes Key Points – Organizes ideas for clarity.
+• Guides Toward Consensus – Helps convert discussion into actionable recommendations.
+Therefore, in a consultative meeting, the chairperson acts as a facilitator who structures
+discussion to ensure objectives are effectively achieved.
+2.   Draft the following letters(Attempt Any 2 Questions)   10
+a.   5
+Format: 2; Content: 3 Format – letterhead, date, address, subject, signature Content – inquiry
+details, budget, costing, delivery terms, etc.
+b.   5
+Format – 2 marks; Content – 3 marks Format – letterhead, date, address, subject, signature
+Content – details of adjustment, Acknowledge the receipt of the letter of complaint and thank
+the customer for writing it., Express regret for the cause of the complaint, Explain the situation,
+State the action taken, Communicate one’s genuine concern
+c.   5
+Page 2 of 4
+--- page 3 ---
+Format – 2 marks; Content – 3 marks Format – date, consumer redressal forum address,
+complainant, opposite party, nature of complaint, details, prayer Content – details of the
+purchase, details of the problem; prayer
+3.   Answer the following questions   10
+a.   5
+Mark scheme
+a. Analysis of impact of behaviour -
+2 marks – identification of specific disruptive behaviours (interruption, doodling, and silence)
+1 mark – impact on final outcome
+b. Two changes Arjun can implement –
+1 mark – implementation of timed agenda - assigning specific time for speakers in the agenda
+1 mark – pre-meeting with Priya and communicating with her
+Synoptic answer
+a. Priya’s behaviour deters the team objective of solving the space crisis. Firstly, her tendency
+to interrupt and jump ahead disrupts the flow of the discussion and hinders problem-solving.
+Team members would not be able to express their views properly. Secondly, her disengagement
+(through doodling and silence) suggests lack of technical consideration. Since she is the
+Technical Consultant, her failure to analyse the technical feasibility of proposed solutions may
+result in an outcome that is spatially viable but technically flawed. Ultimately, this would lead
+to a final recommendation that cannot be implemented effectively at the Mumbai branch.
+b. Suggestions for Arjun include implementing a structured time agenda and conducting a pre-
+meeting brief with Priya. Allocating specific slots for each speaker will contain Priya’s
+interruptions without dismissing her input. Next, Arjun can hold a one-on-one brief with Priya
+before the meeting to communicate the importance of her inputs to the meeting. He can also
+politely point out her lack of active listening and the impact of the same on meeting outcome.
+This will validate Priya’s role in the team and ensure her active engagement.
+b.   5
+Marking scheme –
+Notice Format (company name, ‘Notice’ heading, date) – 1 mark
+Content (meeting details, date, time, venue, and invitees) – 1 mark
+Agenda (list of 3 to 4 points to be discussed in the meeting)– 2 marks
+Professional language and tone – 1 mark
+Synoptic answer
+Swift Motors
+Notice
+February 17, 2026
+Page 3 of 4
+--- page 4 ---
+Incentive Distribution Planning
+Following the Sales Department exceeding annual targets, a meeting with the HR and Finance
+Heads is scheduled to finalize performance-linked incentives.
+Date: 21st February, 2026
+Time: 2:00 PM
+Venue: Boardroom
+(Signed)
+Director of Operations
+Agenda
+i. Briefing on total sales exceeding targets.
+ii. Calculation of bonus pool for the Sales team.
+iii. Criteria for individual performance-linked incentives.
+iv. Approval of the disbursement schedule.
+v. Any other matter with consent of the chair
+Page 4 of 4
+````
+
 ## 2024-25 · Final-Exam · Sem 2 · Answer key · paper f6ebe7b074c4
 
 - Departments: Data Science

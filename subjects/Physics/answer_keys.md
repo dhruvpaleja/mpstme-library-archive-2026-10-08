@@ -4574,6 +4574,389 @@ The temperature must be kept below 7.28 K. – 0.5 mark
 ********** 16 **********
 ````
 
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 5583a5a30e1d
+
+- Departments: Mechanical
+- Programmes: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) - 7003
+- Source: `00_Original_Downloads/2025/Semester II/75268__Re-Exam.zip :: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) - 7003/Physics/ANS_Re-Exam_Physics(702BS0C002)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2026
+- Text: text (15 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (CIVIL)/B. Tech (MECH)
+Year: I/Sem 2 Re-exam(Exam Year: 2025-2026)
+Subject: Physics
+Date: 01 Jul 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 15 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks.
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. Assume suitable data wherever necessary.
+7. Use non-programmable scientific calculator.
+Q1   Answer briefly:   [20]
+a.   List any four differences between direct and indirect bandgap semiconductors.
+Solution:
+Each difference – 1 mark
+Total – [4 x 1M = 4M]
+Indirect Bandgap
+Direct Bandgap Semiconductors
+Semiconductors
+Conduction band minimum and
+Occur at different k-
+valence band maximum occur at the
+values   4
+same k-value
+No phonon required for electron   Phonon required to
+transition   conserve momentum
+Low (mostly non-
+High (efficient radiative
+radiative
+recombination)
+recombination)
+Used in transistors,
+Used in LEDs, laser diodes
+solar cells
+b. Monochromatic light of λ = 6560Å falls normally on the grating 3 cm wide. The
+second order spectrum is produced at an angle 22 degree from the normal. What
+is the total number of lines on the grating?
+Solution:
+Given data – 1 mark   4
+(1/N’) sin = n   - 1 mark
+N’ = 2.86 x 105 lines/m   - 1 mark
+N = N’ x width = 2.86 x 105 x 0.03 = 8580 lines   - 1 mark
+c. Explain absorption and stimulated emission with suitable diagrams.
+Solution:   4
+Absorption – 2 marks (0.5 M for diagram + 1.5 M for explanation)
+Stimulated emission – 2 marks (0.5 M for diagram + 1.5 M for explanation)
+********** 1 **********
+--- page 2 ---
+d. State the differential form of continuity equation and give its physical
+significance.
+Solution:
+Differential form of continuity equation with the meaning of each and every
+term in the expression – 2 marks
+4
+Physical significance – 2 marks
+The physical significance of equation of continuity is that the amount of electric
+charge in any volume of space can only change by the amount of electric current
+flowing into or out of that volume through its boundaries.
+e. Give any four differences between bottom-up and top-down production
+techniques of nanomaterials.
+Solution:
+Each difference – 1 mark
+Total – (4 x 1M = 4 marks)
+4
+Q2   [20]
+a. Find the expression for the energy of the Fermi level for intrinsic semiconductors.
+In a system with a Fermi energy of EF = 6 eV, find the probability of an energy
+state 5kT below the Fermi level being occupied by an electron at 400 K.
+Solution:
+10
+********** 2 **********
+--- page 3 ---
+- 1 mark
+- 1 mark
+- 2 marks
+- 2 marks
+Numerical
+Given data – 1 mark
+- 1 mark
+- 2 marks
+b. Describe the two methods for obtaining multiple coherent sources from a single
+light source. Why thick films do not show interference patterns?
+Solution:
+Name of each of the methods along with brief description – 2 marks   6
+Total marks for both methods – (2 x 2 M = 4 M)
+Division of Wavefront
+The wavefront originating from a source of light is divided into two parts
+********** 3 **********
+--- page 4 ---
+which serves the purpose of coherent sources.
+These two parts of the same wavefront travel unequal distances and
+reunite at some angle to produce interference bands.
+E.g. Young’s double slit expt., Fresnel biprism.
+Division of Amplitude
+The amplitude of the beam is divided into two parts by partial reflection or refraction
+methods.
+The waves corresponding to the divided parts travel different paths and hence produce
+interference.
+E.g. Interference due to thin films, wedge shaped film interference, Newton’s rings.
+Reason behind thick films not showing interference pattern – 2 marks
+Thick films don’t show visible interference patterns because:
+The path difference is too large → coherence is lost
+Too many reflections → patterns overlap
+Fringe spacing very small → cannot be resolved
+c. There are two concentric spherical metallic shells. The radius of the inner
+metallic shell having a charge of 5 C is 2 cm while the radius of the outer
+metallic shell having a charge of -3 C is 5 cm. Using Gauss’s law, calculate the
+electric field at 3 cm and 7 cm.
+Solution:
+Given data – 1 mark
+Formula – 1 mark
+(i)   At r = 3 cm,
+4
+- 1 mark
+(ii)   At r = 7 cm
+- 1 mark
+Q3   [20]
+********** 4 **********
+--- page 5 ---
+a. Obtain the expression for the diameter of Newton’s rings and the condition for
+bright rings with a proper labeled diagram.
+A Newton’s ring arrangement is used with a source emitting two wavelengths 𝜆1
+= 650 nm and 𝜆2 = 640 nm and it is found that the nth dark ring due to 𝜆1 coincides
+with (n + 1)th dark ring for 𝜆2. If the radius of curvature of the curved surface is
+80 cm, find the diameter of the nth dark ring.
+Solution:
+Diagram – 2 marks
+To calculate the diameter of dark and bright rings, consider GCH to be the plano-
+convex lens placed on a glass plate AB. Let R be the radius of curvature of the
+lens.
+Point C is the point of contact between plate AB and lens GCH. Regions GCA
+and HCB is the wedge-shape circular air film. Newton’s rings are formed due to
+this air film. Let r be the radius of Newton’s rings corresponding to constant film
+thickness t, the locus of which forms a locus of points of a circle with centre on
+point C.
+Now from the property of circle,
+IE x IF = IC x ID
+But   IE = IF = r, radius of the rings, IC = t and ID = 2R –t
+Therefore,   r x r = t x (2R – t)
+r2 = 2Rt – t2   10
+r2 = 2Rt   [ t <<< R and hence t2 can be neglected compared to 2Rt]
+Now if Dn is the diameter of the nth ring, Dn = 2r
+Therefore,   Dn2/4 = 2Rt Or   2t = Dn2/4R
+- 2 marks
+Condition for bright rings – 2 marks
+Numerical
+Given data: 1 mark
+********** 5 **********
+--- page 6 ---
+-   1.5 marks
+-   1.5 marks
+b. Explain in brief (i) Scanning Electron Microscope and (ii) Atomic Force
+Microscope techniques for characterizing nanomaterials.
+Solution:
+Scanning Electron Microscope – 3 marks
+6
+Atomic Force Microscope – 3 marks
+c. A UHF television loop antenna has a diameter of 10 cm. The magnetic field of a
+TV signal is normal to the plane of the loop and, at one instant of time, its
+magnitude is changing at the rate 0.16 T/s. The magnetic field is uniform.
+Calculate the emf induced in the antenna.
+Solution:
+Given data – 1 mark
+Formula – 1 mark
+Correct substitution and answer – 2 marks   4
+Q4   [20]
+a. Explain the construction and working of He-Ne laser with appropriate diagrams.
+Solution:   10
+Construction of He-Ne laser – 5 marks (2 marks for diagram + 3 marks for
+explanation).
+********** 6 **********
+--- page 7 ---
+The basic construction of a He-Ne laser is shown above. The setup consists of a
+discharge tube of length 80 cm and bore diameter of 1.5cm. A mixture of helium
+and neon gases, in approximately a 10:1 ratio, contained at low pressure in a glass
+envelope. The energy or pumping of the laser is provided by a high voltage
+electrical discharge passed through the gas between the anode and cathode
+within the tube. The optical cavity of the laser usually consists of two concave
+mirrors or one plane and one concave mirror, one having very high (typically
+99.9%) reflectance and the output coupler mirror allowing approximately 1%
+transmission.
+Working of He-Ne Laser – 5 marks (2 marks for diagram + 3 marks for
+explanation).
+In order to pump the ground state Ne atoms to the excited state, the ground state
+atoms of He are pumped to the 23S1 and 21S0 long-lived, metastable excited states
+by passing an electric discharge. The excited He atoms then collide with the ground
+state Ne atoms and transfer their energy to the Ne atoms exciting them into the
+2s and 3s states. This is due to a coincidence of energy levels between the helium
+and neon atoms.
+This process is given by the reaction equation:
+He* + Ne → He + Ne* + ΔE
+where (*) represents an excited state, and ΔE is the small energy difference between the
+energy states of the two atoms, of the order of 0.05 eV.
+The reason behind the above indirect transfer of energy to Ne is the small atomic cross-
+section of Ne which makes direct energy transfer a bit difficult to realize.
+The number of neon atoms entering the excited states builds up as further collisions
+between helium and neon atoms occur, causing a population inversion between the neon
+********** 7 **********
+--- page 8 ---
+3s and 2s, and 3p and 2p states. Spontaneous emission between the 3s and 2p states
+results in emission of 632.8 nm wavelength light, the typical operating wavelength of a
+He-Ne laser. After this, fast radiative decay occurs from the 2p to the 1s energy levels,
+which then decay to the ground state via collisions of the neon atoms with the container
+walls. Because of this last required step, the bore size of the laser cannot be made very
+large and the He-Ne laser is limited in size and power. Typical power output for He-Ne
+lasers lie between 1 and 50 mW for continuous wave operations for inputs of ~ 5-10 W.
+b. State the Coulomb’s law of electrostatics with its mathematical form.
+Two point charges Q1 and Q2 are located at (0, 4, 3) and (0, 1, 1). If Q1 is 3 nC,
+find Q2 such that the force on a test charge at ( 0 , 2 , 4 ) has no Z component.
+Solution:
+Coulomb’s law statement with its mathematical form – 2 marks
+Coulomb’s law states that the electrostatic force of attraction or repulsion
+between two point charges is directly proportional to the product of the
+magnitudes of the charges and inversely proportional to the square of the distance
+between them, acting along the line joining the two charges.
+F = electrostatic force between the charges
+𝑞1, 𝑞2 = magnitudes of the two charges
+𝑟 = distance between the centers of the charges
+k = Coulomb’s constant
+Numerical   6
+F = 𝑘 𝑞1𝑄𝑡 𝑧̂
+𝑟3
+- 2 marks
+𝑄2 = −2√2 nC   - 2 marks
+c. A superconductor’s Tc drops from 15 K to 14.52 K when isotope mass increases
+from 120 to 128. Check whether this follows the expected α = 0.5.
+Solution
+Given data – 1 mark
+- 1 mark
+4
+Correct substitution and answer – 2 marks
+********** 8 **********
+--- page 9 ---
+Q5   [20]
+a. Summarize Maxwell’s equations in differential form and explain what physical
+phenomena each represents.
+Calculate the value of magnetic field of the circular coil at the centre with 6 m
+radius and 5 A current flowing through it.
+Solution
+[ 4 x 0.2 M = 2 M]
+Explanation of physical phenomenon of Maxwell’s equations – [1M x 4 = 4
+M]
+1. It states that the electric flux through any closed surface is equal to the 1/ 𝜺𝟎
+times the magnitude of the total electric charge enclosed by this surface.[Gauss
+law of electrostatics]
+2.   The net magnetic flux through any closed surface s zero. Magnetic 10
+monopoles do not exist. [Gauss law of magnetostatics]
+3.   The electromotive force around a closed path is equal to the time
+derivative of the magnetic displacement through any surface bounded by the
+path. [Faraday’s law]
+4.   The magnetomotive force around a closed path is equal to the conduction
+current plus time derivative of the electric displacement through any surface
+bounded by the path. [Ampere-Maxwell law]
+Numerical
+Given data – 1 mark
+Formula – 1 mark
+Correct substitution and answer – 2 marks
+b. Explain the phenomenon of (a) Meissner Effect and (b) Critical current density   6
+in superconductor with appropriate diagrams.
+********** 9 **********
+--- page 10 ---
+Solution:
+Meissner effect with diagram – 3 M
+Critical current density in superconductor with diagram - 3 M
+********** 10 **********
+--- page 11 ---
+c.   Calculate the resistance of an intrinsic germanium rod (2 cm long, 3 mm wide,
+4 mm thick) at 300 K. Given: ni = 5 x 10¹⁹ m⁻³, µe = 0.39 m²/V·s, µh = 0.19
+m²/V·s.
+Solution:
+Given data – 1 mark
+Formula – 1 mark
+Correct substitution and answer – 2 marks
+4
+Q6   [20]
+a. Define (a) interference (b) diffraction grating (c) dispersive power and (d)
+resolving power of grating.
+Each definition – 2.5 marks
+Total – (4 x 2.5 = 10 M)
+Interference
+When two light waves superimpose, then the resultant amplitude/intensity in the
+region of superposition is different than the amplitude of individual waves. This
+modification in the distribution of intensity in the region of superposition is
+called interference   10
+Diffraction Grating:
+Diffraction Grating is an arrangement consisting of a large number of parallel
+slits of same width separated by equal opaque spaces. Gratings are fabricated by
+ruling equidistant parallel lines on a glass plate with the help of a fine diamond
+point. The lines act as opaque spaces and the incident light cannot pass through
+them. The space between the two lines is transparent to light and acts as a slit.
+Dispersive Power
+The dispersive power of grating is defined as: “The rate at which the angle of
+diffraction varies with wavelength”.
+********** 11 **********
+--- page 12 ---
+Resolving Power
+“The ratio of the wavelength of any spectral line to the difference in the
+wavelength between this line and a neighboring line such that the two lines
+appear to be just resolved”. Thus, the resolving power of grating = order of
+spectrum x total number of lines on grating.
+b.   Explain Hall effect with appropriate diagram. Discuss the applications of Hall
+effect in determining the concentration and mobility of charge carriers with the
+help of proper mathematical expressions.
+Solution:
+Definition of Hall effect – 1 mark
+Diagram – 1 mark
+6
+********** 12 **********
+--- page 13 ---
+- 2 marks
+- 2 marks
+c.   Optical power of 1 mW is launched into an optical fiber of length 150 m. If the
+power emerging from the other end is 0.4 mW, calculate the fiber attenuation in
+dB/km.
+Solution
+Given data – 1 mark   4
+Formula – 1 mark
+ = (10/L)log10 (Pi/Po)
+Correct substitution and answer – 2 marks
+ = 26.5 dB/km
+Q.7   [20]
+a. Explain the following terms related to optical fiber: a) critical angle, b)
+acceptance angle, c) numerical aperture, d) V-number and e) fractional refractive
+index with proper mathematical expressions.
+Solution:
+Each definition – 2 marks ( 1M for definition + 1 M for mathematical
+expression)
+Total – (5 x 2 = 10 M)
+Critical angle   10
+The critical angle is the angle of incidence in a denser medium for which the
+angle of refraction in the rarer medium becomes 90°.
+Acceptance angle
+The acceptance angle is the maximum angle at which light can enter the optical
+fiber and still propagate through it by total internal reflection.
+********** 13 **********
+--- page 14 ---
+Numerical aperture
+Numerical aperture (NA) of the fiber is the light collecting efficiency of the fiber
+and is a measure of the amount of light rays can be accepted by the fiber.
+V-number
+The V-number (or normalized frequency) of an optical fiber is a parameter that
+determines how many modes can propagate through the fiber.
+Fractional refractive index
+The fractional refractive index difference (denoted by Δ) is the relative difference
+between the refractive indices of the core and cladding in an optical fiber.
+b. Calculate the Hall coefficient and electron mobility of germanium (length: 2 cm,
+breadth: 5 mm, thickness: 3 mm). (Given: I = 8 mA, V = 1.35 V, Hall voltage =
+20 mV, B = 0.45 Wb/m²).
+Solution
+Given data – 1 mark
+6
+- 2 marks
+********** 14 **********
+--- page 15 ---
+-   1.5 marks
+ = 0.13 m2/V.s   - 1.5 marks
+c.   Calculate the penetration depth of a superconductor at 6 K, if the critical
+temperature of the superconductor is 10 K and the penetration depth is 30 nm at
+0 K.
+Solution
+Given data – 1 mark
+Formula – 1 mark
+4
+Correct substitution and answer – 2 marks
+ (T) = 32.2 nm
+********** 15 **********
+````
+
 ## 2025-26 · Re-Exam · Sem 1 · Answer key · paper f2d34f7c4ce3
 
 - Departments: AI and Data Science
@@ -7245,6 +7628,345 @@ Formula – 1 mark
 Correct substitution and answer – 2 marks
  (T) = 32.2 nm
 ********** 15 **********
+````
+
+## 2024-25 · Final-Exam · Sem 2 · Answer key · paper 4f5a322d02b1
+
+- Departments: Civil
+- Programmes: BACHELOR OF TECHNOLOGY(CIVIL ENGINEERING) - 7005
+- Source: `00_Original_Downloads/2024/Semester II/67783__Final-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY(CIVIL ENGINEERING) - 7005/Physics/ANS_Final-Exam_Physics(702BS0C002)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2025
+- Text: mixed (12 pages), mean OCR confidence 75.3
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (CIVIL)/B. Tech - (CSEDS)/B. Tech (MECH)
+Year: I/Semester II(Exam Year: 2024-2025)
+Subject: Physics
+Date: 02 May 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 12 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of the remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. Assume Suitable data if necessary.
+Q1   Answer briefly:
+CO   a
+-1;   .   Definition of intrinsic semiconductor   1 mark
+BL-   Definition of extrinsic semiconductor   1 mark   [4]
+1,2   List any four differences between them.   0.5*4=2 mark
+U1
+CO   b   Definition of interference   1 mark
+-1;   .
+Definition of diffraction   1 mark
+BL-   [4]
+1,2   List any four conditions for sustainable interference.   0.5*4=2 marks
+U2
+c
+.
+CO
+-2 ;
+BL-   [4]
+1,2
+U3
+CO   d Statement of gauss’s law electrostatics and its mathematical form
+-2 ;   .   [4]
+1+1marks
+BL-
+********** 1 **********
+--- page 2 ---
+1,2   Statement of gauss’s law for magnetostatics and its mathematical form
+U4   1+1 marks
+e Top-Down technique
+.   Diagram   1.5 marks
+CO
+-1;
+BL-   [4]
+1,2
+U6
+Explanation of the method in brief (should cover below points)   2 marks
+• Technique in which devices are fabricated by removing existing material from
+larger entities
+▪ The current top-down method for manufacturing involves the construction of parts
+through methods such as cutting, carving and molding.
+▪ Using these techniques, a variety of machinery and electronic devices are being
+fabricated.
+▪ But the limitation of this technique is that the size at which the devices can be made
+is limited by the ability to cut, carve and mold.
+▪ Three different techniques are used to make Nanostructures using Top – down
+approach:
+a) Lithography
+b) Nano imprint lithography
+c) Dip pen Lithography
+Q2
+CO- a
+1,2;   .
+[10
+BL-
+]
+1,2
+U3
+********** 2 **********
+--- page 3 ---
+Description about the ruby laser-   2 marks
+Construction diagram-   3 marks
+Energy Level diagram-   3 marks
+Description about the Energy level-   2 marks
+b
+.
+CO-
+2,3;
+BL-   [6]
+3,4
+U2
+c
+CO-   .
+[4]
+1,2;   Definition of Electric Flux-   1mark
+********** 3 **********
+--- page 4 ---
+BL- Given data- 1 mark
+1,2
+U4 Formula: Me =E.S.cos@ 1 mark
+
+Final answer: De = 3464 Nm2/C 1 mark
+
+Q3
+
+Co-
+
+1,2;
+
+BL. (0
+3,4
+
+U2
+
+FIC 7) IC HOH
+--- page 5 ---
+b Answer:
+.
+Given, Critical temperature of mercury (Tc) = 5.2K,
+Penetration depth λ (T=3.1K) = 67nm = 67×10−9m,
+Calculate, λ(T=0) =?   – [1 mark]
+Formula:-   [1 mark]
+CO-
+2,3;   λ(T=0) =λ(T=3.1) [1−(T/Tc)4]1/2
+BL-   [6]
+3,4   λ(T=0) =67×10−9 [1−(3.1/5.2)4]1/2   [1.5 mark]
+U6
+λ(T=0) = 62.6 nm   [0.5 mark]
+λ(T=4.1) = 62.6×10−9[1−(4.1/5.2)4]1/2   [1.5 mark]
+λ(T=4.1) = 49.03 nm   [0.5 mark]
+CO- c
+2,3;   .
+BL-   Answer:   [4]
+5
+U1
+********** 5 **********
+--- page 6 ---
+Q4
+a   (a) Stimulated Emission   explanation and diagram   2marks
+.   (b) optical resonator cavity, explanation and diagram   2 marks
+CO-   (c) Acceptance Angle   explanation and correct formula   2
+1;   marks
+BL-   [10]
+1,2   (d) Normalized Frequency, explanation and correct formula   2
+U3   marks
+(e) Step index fiber.   explanation and diagram   2
+marks
+b   (a) Meissner effect:
+.
+Figure
+[1mark]
+CO-
+2,3;
+BL-   [6]
+1, 5
+U6
+********** 6 **********
+--- page 7 ---
+When a specimen is placed in a magnetic field, the magnetic flux lines pass through it. If the
+temperature is decreased below the transition temperature Tc it expels all the magnetic flux
+lines from inside of the specimen
+[1 Mark]
+where M is the intensity of magnetisation due to applied magnetic field H   -   [1
+Mark]
+By the definition of magnetic susceptibility,
+Since diamagnetic materials have negative magnetic susceptibility, the specimen becomes an
+‘ideal diamagnetic’ in superconducting state. If a specimen of superconductor is placed in a
+strong magnetic field, the specimen loses its property of superconductivity and becomes
+normal material.
+[1 Mark]
+(b) Isotope effect
+Definition of the isotope effect of a superconductor.   [1.5
+Marks]
+Mathematical expression   [0.5
+Mark]
+c
+.
+CO-
+2,3;
+BL-   [4]
+3,4
+U1
+Q5
+a   Statement of Maxwell’s fourth equation (Ampere’s law)   2
+CO-
+.   marks
+1,2;
+Derivation of Maxwell 4th Equation in differential and integration form   4
+BL-   [10]
+marks
+3,4
+Discussion for need of correction
+U4
+1marks
+********** 7 **********
+--- page 8 ---
+Derivation of Maxwell’s final equation with Physical Significance-   3
+marks
+b
+.
+CO-
+2,3;
+BL-   [6]
+3,4
+U5
+c Two-point charges, q1 = 4μC and q2 = -3μC, are separated by a distance of 0.2 m. Find
+.
+the magnitude of the electrostatic force between them. All tell whether the force
+attractive or repulsive? (Permittivity in free space = 8.854×10-12 C2/ (N.m2))
+Given data with conversion of all values in the SI system.   1
+CO-   mark
+2,3;
+BL-   Formula- F = k ∣q1 q2∣/ r2 define each term in the formula   1 [4]
+5   mark
+U4
+Result- 2.7 N   1
+mark
+Nature of force: Attractive   1
+mark
+Q6
+a   Answer:
+.
+CO-   Transmission Electron Microscopes [TEM], Scanning Electron Microscope [SEM],
+1,2;   Scanning Tunnelling Microscope [STM], Atomic Force Microscope [AFM].
+BL-   (listing 2 marks)   [10]
+1,2
+U6   Explanation of any 2 techniques   (3 marks each for explanation and 1m for
+figure)
+********** 8 **********
+--- page 9 ---
+1) Transmission Electron Microscopes [TEM]
+The TEM operates on the same basic principles as the light microscope but uses electrons
+instead of light. When an electron beam passes through a thin section specimen of a
+material, electrons are scattered. A sophisticated system of electromagnetic lenses focuses
+the scattered electrons into an image or a diffraction pattern or a nano-analytical spectrum,
+depending on the mode of operation.
+2) Scanning Electron Microscope [SEM]
+A scanning electron microscope (SEM) is a type of electron microscope that produces
+images of a sample by scanning the surface with a focused beam of electrons. The electrons
+interact with atoms in the sample, producing various signals that contain information about
+the surface topography and composition of the sample. The electron beam is scanned in a
+raster scan pattern, and the position of the beam is combined with the intensity of the
+detected signal to produce an image. In the most common SEM mode, secondary electrons
+emitted by atoms excited by the electron beam are detected using a secondary electron
+detector (Everhart-Thornley detector). The number of secondary electrons that can be
+detected, and thus the signal intensity, depends, among other things, on specimen
+topography. Some SEMs can achieve resolutions better than 1 nanometre.
+3) Scanning Tunnelling Microscope [STM]
+The scanning tunnelling microscope (STM) works by scanning a very sharp metal wire tip
+over a surface. By bringing the tip very close to the surface, and by applying an electrical
+voltage to the tip or sample, we can image the surface at an extremely small scale – down to
+resolving individual atoms. The STM is based on several principles. One is the quantum
+mechanical effect of tunnelling. It is this effect that allows us to “see” the surface. Another
+principle is the piezoelectric effect. It is this effect that allows us to precisely scan the tip
+with angstrom-level control. Lastly, a feedback loop is required, which monitors the
+tunnelling current and coordinates the current and the positioning of the tip. This is shown
+schematically below where the tunnelling is from tip to surface with the tip rastering with
+piezoelectric positioning, with the feedback loop maintaining a current set point to generate
+a 3D image of the electronic topography.
+4) Atomic Force Microscope [AFM]
+AFM microscopes operate on the principle of surface sensing using an extremely sharp tip
+on a micro machined silicon probe. This tip is used to image a sample by raster scanning
+across the surface line by line, although the method varies dramatically between distinct
+operating modes. The two primary groups of operating modes are widely defined as contact
+mode and dynamic, or tapping, mode.
+********** 9 **********
+--- page 10 ---
+b
+.
+CO-
+2,3;
+BL-
+[6]
+2,3,
+4
+U2
+c   Instead of below listed applications if any other correct application is mentioned than
+CO-
+.   also marks to be given
+3;
+BL-   [4]
+Answer:
+5
+Plasma TVs: Plasma technology is used in flat-panel televisions, where small cells
+U5
+containing ionized gas emit ultraviolet light when electrically charged. This light then
+********** 10 **********
+--- page 11 ---
+excites phosphors to produce vibrant images, offering high contrast and wide viewing angle.
+[2M]
+Medical Sterilization: Plasma is utilized in medical sterilization processes, particularly with
+low-temperature plasma systems. These systems effectively kill bacteria, viruses, and other
+pathogens on surgical instruments and medical devices without damaging sensitive
+materials, ensuring a high level of cleanliness and safety.
+[2M]
+Q7
+a   Statement of Hall effect with appropriate labeled diagram   2
+CO   . marks
+-   Derivation of mathematical form of Hall voltage   3
+1,2;   marks
+[10]
+BL-   Statement for hall coefficient and its derivation   3
+3,4   marks
+U1   List of any two correct applications of Hall effect   2
+marks
+b Correct of explanation of intrinsic semiconductor affects with temperature
+. 2marks
+CO
+-
+2,3;
+[6]
+BL-
+3,4
+U1
+CO   c Given data:   ½
+-   . mark
+2,3;   Formula: NA= (n12 −n22 )½ = 0.93   1
+[4]
+BL-   mark
+5   Acceptance angle θa = sin-1 (NA)=68.430   1
+U3   mark
+********** 11 **********
+--- page 12 ---
+Angle of Acceptance Cone = 2* 0, = 136.87°
+mark
+
+Critical angle= sin! (n2/n1)=54.09°
+
+mark
+
+Vy
+
+FRR ICR] DA KH
 ````
 
 ## 2024-25 · Final-Exam · Sem 1 · Answer key · paper 0c81e377ced9
@@ -14755,6 +15477,465 @@ mark
 Vy
 
 FRR ICR] DA KH
+````
+
+## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 80c0feb1a6ad
+
+- Departments: Mechanical
+- Programmes: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) - 7003
+- Source: `00_Original_Downloads/2024/Semester II/69329__Re-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) - 7003/Physics/ANS_Re-Exam_Physics(702BS0C002)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Jul 2025
+- Text: mixed (15 pages), mean OCR confidence 56.2
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (CIVIL)/B. Tech - (CSEDS)/B. Tech (MECH)
+Year: I/Sem 2 Re-exam(Exam Year: 2024-2025)
+Subject: Physics
+Date: 03 Jul 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 15 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of the remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. Assume Suitable data if necessary.
+Q1   Answer briefly:
+CO-   a. Definition of extrinsic semiconductors   1
+1;   mark
+BL-   List of its type as n-type and p-type   1 [4]
+1,2   mark
+U1   Any four correct differences.   0.5*4=2marks
+CO- b   Definition of diffraction   1 mark
+1;   .   List of its type as Fresnel and Fraunhofer   1 mark
+BL-   Differences between including diagram (for any correct difference 0.5 marks)   [4]
+1,2   2mark
+U2
+********** 1 **********
+--- page 2 ---
+c.
+CO-
+2 ;
+BL-   [4]
+1,2
+U3
+CO- d
+2 ;   .   List of all Maxwell’s equations in its integral and differential for and mentioning of
+BL-   correct name of law associated with it   [4]
+1,2   1*4=4 marks
+U4
+CO-   e. Bottom –up technique
+1;
+BL-   Diagram of the process   1 mark   [4]
+1,2
+Brief description about the process   3 marks
+U6
+Q2
+a.
+CO-
+1,2;
+[10
+BL-
+]
+1,2
+U3
+CO- b   Define Wedge shaped film in case of thin film interference and write the condition of maxima
+[6]
+2,3;   .   and minima.   2 marks
+********** 2 **********
+--- page 3 ---
+BL-
+3,4
+U2
+Marks distribution for above numerical
+for given data   1 mark
+For formula   1 mark
+Calculation and correct answer   2 mark
+c. Given data-   1 mark
+CO-   Formula- F = K q1q2 /r2   1 mark
+1,2;   Calculation:
+BL-   FAB = 125 N   2 marks
+[4]
+1,2   FBA = 675 N   2 marks
+U4   Net force= 550 N   2 marks
+Direction of the force-   2 marks
+Q3
+a.
+CO-
+1,2;
+BL-   [10]
+3,4
+U2
+Till here 3 marks
+********** 3 **********
+--- page 4 ---
+R-t R
+P. Q
+P
+eS : 8
+On Pp
+
+Let p be the radius of a Newton’s ring corresponding to the constant film thickness t.
+vy
+Path difference between two interfering rays = 2ut cos(r + @) + 3
+
+R2=p?+(R-t)?
+
+p? =2Rt—-t
+t<<R
+2
+p
+2t = —
+R
+p> 2
+Path difference between the interfering rays is R + 2
+
+Till here more 4 marks
+
+For dark rings :
+
+zd
+Path difference = 7 + 2
+(2n +1) x
+=(2n =
+2
+If D is the diameter of Newton’s ring
+2
+ara)
+2
+—F=nh
+4R
+D,a/n
+
+Thus proved that the diameters of nth dark rings are proportional to square root of natural numbe
+
+Till here more 3 marks
+
+FIC 7) IC HOH
+--- page 5 ---
+SUeN, Tg, = 318K =
+M, + 2660 (9 a
+Mo = 2945 =
+
+Ter = 2 be
+
+. =+ im 2
+Equation M% Te = constant; cohece «= 4 @) ~
+
+mY = const-CK)
+Te e
+Te
+
+Teo =!
+So, eersng 4p data, (i \. res) a
+. —
+
+Teo ~
+es,
+° (2852) - “Be -W «|
+
+25-5 6 _
+ss or, Teas 3'8* \-aq55 call
+2,3; + a
+BL- _ gtax Co-881) 6)
+he aie x 0-296 :
+
+°° |e = aan | -— «!
+
+Now, find Ma, cohen Tes= SF: é!
+
+ee) «Ca 2
+or, ss = (see —W 2
+
+* 50 ~
+0% Mg? = 0:636 x 25-50 |
+3-212 :
+
+or, \™s Seal) -@ =
+
+FOGG DR rR AR Rx
+--- page 6 ---
+Cc.
+
+Eyed
+Case-1 energy devel obove fermi Level fs = KT
+
+Case - J " “ nN " uw 2 SKF
+
+LT No marks for qiven oleta |
+
+Formule
+| —
+SCO) = ——~ Waifs
+\+ @
+& = €y _ devel
+me - \ Mave
+Co. Ey = Fermi enaqy evel
+2,3; : [t2-man Constaud
+BL- k 60" [4]
+7 T = Temysrakirve im Kelvin
+4(€) 2 Pro doabi li ity. + faa, dante + any
+energy fevel CE)
+Sn Ota given G.- €-€, = kT O¢ Ser
+{ey | Mat
+Dako gubsti tution
+\ \
+Cage 1 4ce) =. > wee ——. = 07269
+ePVRT eet Rak
+(= 8044
+u -\ = | ~ \_ ——————
+case +(@)= la Oks = ne? y+ 20° 08S
+: L 5 1 mark
+Q4
+a.
+Buffer/Jacket
+Co-
+a Claddin 10
+1,2 ]
+U3
+
+Core
+
+Construction of optical fiber with diagram 1 mark
+
+FIC 6 I HF
+--- page 7 ---
+b   Definition – [2 Marks]
+.
+CO-
+Explanation of each:
+2,3;
+Zero dimension with an example   -[1Mark]
+BL-   [6]
+One dimension with an example   -[1Mark]
+1, 5
+Two dimensions with an example   -[1Mark]
+U6
+Three dimensions with an example -[1Mark]
+********** 7 **********
+--- page 8 ---
+Cc. Given clete en =a
+
+» = oroo1™.
+
+Maquetic iets Streung Ue (8) -=2ES Mb/w~
+Cuvrent (1) = 800A
+PGlect+m Reusity ™) + 3-4 nto Sec Cay)
+Slectvow Chou < le) = 'éxXI0 3 ie.
+Healt Voltage Cue) > 2?
+
+C. . : 1 Mark
+Oux Mark for given oclale to be Five 2f ates
+ic Compiled with Unit Convermion cn SL-£ Appee, z
+
+“Ls PPropn -
+
+co- ee
+2,3; 7 Sete ;
+
+BL- For muta [4]
+3,4 18 ‘
+
+ul Va * het
+
+Data substitution
+
+Vy > Goose @-s)
+
+z =
+3-4x ie8 XVE XID %® 00}
+
+Q5
+
+i wtegyed — & Uf ferential fees =
+
+State out? _ Beare.
+“NGheaeece law lates hed nee
+pu throug & Llased suxfaee © OS 3
+ts €4 &
+
+Cucloser:
+
+aomayvk [10]
+
+marke
+
+of anrL24.
+
+oSermnrcerd
+
+2l\eciwe lx
+
+Dh ron oie
+
+FIC QF EH 1
+--- page 9 ---
+as ‘¢
+e & Aas cos O
+
+\ 4 coeds
+
+urea a
+
+é ° Lemed
+*, ge Ola clistance. a) Qua surperee e
+As rom Clone “a!
+ds cos 6 ~ Ey ae
+jaw =e = 4 ,
+a”
+at 4, Jwrarle-
+
+cul tervroleck | ag
+
+CO-
+1,2;
+BL-
+
+3,4
+U4
+
+FEI QF IG Ir
+--- page 10 ---
+b
+.   Explain Electric quadrupole moment. Calculate the electric quadrupole moment
+for a Calcium nucleus with having atomic number Z = 20. (Larger radius b =
+3.5 fm and smaller radius a = 2.8 fm)
+Answer: Electric quadrupole moment   [2M]
+The electric quadrupole moment is a measure of the deviation of the nucleus from its
+spherical symmetry. Under the situation of a deviation, the nucleus can be imagined
+CO-   to be an ellipsoid of revolution with its diameter 2b along the axis of symmetry and
+2,3;   diameter 2a along the axis perpendicular to this. The quadrupole moment Q of the
+BL-   nucleus, when its electric6 charge is uniformly distributed throughout the ellipsoid, is   [6]
+3,4   given by
+U5
+Q is zero for the nuclei having spherical symmetry (a = b) and uniform charge
+distribution. The magnitude of electric quadrupole moment depends on the magnitude
+of nuclear charge Z, size of the nucleus (magnitudes of b and a) and the extent of
+deviation (difference in b and a) from spherical symmetry.
+********** 10 **********
+--- page 11 ---
+Electric quadrupole moment for a Calcium nucleus
+Given: Z = 20; b = 3.5 fm ; a = 2.8 fm    [1M]
+Formula:   [1M]
+Q = (2/5) 20 [(3.5)2 - (2.8)2]   [1M]
+Q = 35.28 fm   [1M]
+c. For each physical significance- 2 marks
+CO-
+2,3;
+BL-   [4]
+5
+U4
+Q6
+a. Definition Superconductivity   [2 marks]
+Critical magnetic field, persistent current, zero resistance, critical magnetic field,
+Messier’s effect , critical current, isotopic effect
+[1+1+1+1+2+1+1]Marks
+********** 11 **********
+--- page 12 ---
+Intensity distribution curve for single slit diffraction:
+
+Amplitude distribution
+Intensity distribution
+
+Dx L\
+iad VJ ‘hf * cin ; sevecesenesees (01 M)
+
+Intensity distribution equation:
+
+Co-
+2.3: T= Ip Sin? BiB? sennennennnnnnnnnnnnne nnn (01 M)
+BL- Where, B = 2d Sin 6/2 6]
+ra Intensity distribution curve for double slits diffraction:
+U2
+b= 0.0068 om
+d=0.07 cm
+46.328 x 1079 om
+be aAAAN Al | I, BN saad
+1 5 0 05
+—- of
+oo (01M)
+Intensity distribution equation:
+1=4lp (Sin? B/B*) Costy = wnnnnneenneeeneenneeeesore (01M)
+
+Where, Cosy, represents the interference pattern produced by two point sources separated by a
+distance d
+
+FRR ICR] DA KH
+--- page 13 ---
+c.
+With the help of a suitable graph, explain any two characteristics of variation of
+binding energy per nucleon (BE/A) curve with increasing mass number (A).
+Answer: The binding energy curve illustrates the stability of atomic nuclei
+based on their mass number (A). We can plot mass numbers on X-axis for
+ranges from 1 to around 260) and binding energy on Y-axis for ranges from 0
+to about 9-10 MeV.   [1M]
+CO-
+3;
+BL-   [4]
+5
+U5
+[1M]
+Any two   [2M]
+The variation of binding energy per nucleon (BE/A) with increasing mass
+number (A) shows distinct trends:
+1.   Initial Increase: For light nuclei (small values of A),
+BE/A increases as nucleons (protons and neutrons) are added.
+********** 13 **********
+--- page 14 ---
+This means that adding nucleons generally enhances nuclear
+stability.
+2.   Peak at Iron: As A increases, BE/A continues to rise,
+reaching a maximum around iron (A ≈ 56). Iron nuclei are
+among the most stable, with the highest binding energy per
+nucleon.
+3.   Subsequent Decrease: Beyond iron, the BE/A starts to
+decline with further increases in A. This indicates that heavier
+nuclei are less stable. The decrease is due to the increasing
+repulsive electromagnetic force between the larger number of
+protons, which is not fully countered by the strong nuclear
+force.
+4.   Overall Trend: The overall trend illustrates that while
+light and medium nuclei benefit from increased stability with
+added nucleons, heavy nuclei become less stable, leading to
+processes like nuclear fission or radioactive decay.
+Q7
+a. Explanation of the splitting of electron levels and formation energy
+bands   3 marks
+CO-
+1,2;
+[10
+BL-
+]
+3,4
+U1
+2 marks
+Classification of solids: conductors, insulators, semiconductors and any five correct
+differences between them   5 marks
+CO-
+2,3;
+BL-
+3,4   Definition of intrinsic semiconductors
+U1
+********** 14 **********
+--- page 15 ---
+c. Given Data-   1 marks
+Formula-   2 Marks (1 marks each)
+CO-
+Numerical Aperture (NA):
+2,3;
+BL-   [4]
+5   Acceptance angle:
+U3   Result:   1 Mark
+NA≈0.56
+Acceptance angle- θa ≈3 4.07∘
+********** 15 **********
 ````
 
 ## 2024-25 · Re-Exam · Sem 1 · Answer key · paper 0b777dad22ff

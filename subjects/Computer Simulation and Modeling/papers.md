@@ -637,7 +637,6 @@ c) Correlation
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/I T/VI SEMESTER/COMPUTER SIMULATION & MODELING/computer simulation and modeling 2017-18 Final.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 03 May 2018
 - Text: ocr (4 pages), mean OCR confidence 80.6
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS
@@ -860,6 +859,7 @@ Le -4713° 4719-4726 «4732 1473B 14744 47614787
 2.7 A965 4966 4967 =4963 4969-4970 14971 14972 14973 14974
 2.8 4974 = A9TS 4976 «= 49TT = ADTT «= 4978-4979 497949804981
 2.9 4981 4982 498249834984 49844985 4985 14986 «4986
+3.0 4987 = AOB7 = ABT 4988 ABB «ABD = «489.4989. 4990 .4590
 3.1 -4990 4991 4991 4991-4992 49924992 4992 4993-4993
 32 4993 A993 A994 «64994 «4996 499d 4994) 4995 4995 4995
 53. A995 4995 4995 4996 4996 4996 4996 4996 | 14996-4997

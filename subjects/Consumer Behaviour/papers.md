@@ -1,8 +1,67 @@
 # Consumer Behaviour: question papers in full
 
-8 unique papers · 2008-09 to 2014-15 · Common (all branches)
+10 unique papers · 2008-09 to 2025-26 · Common (all branches), Commerce
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 1 · paper e7eb2018fd10
+
+- Departments: Commerce
+- Programmes: MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703/Consumer Behaviour/QP_Final-Exam_Consumer Behaviour(NKCMB511)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 14 Nov 2025
+- Text: text (2 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: MASTER OF COMMERCE (BUSINESS MANAGEMENT)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Consumer Behaviour
+Date: 14 Nov 2025   Time: 11:00 am - 01:00 pm (02:00 Hrs.)
+Max Marks: 60
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 2 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question 1 and Question 3 are compulsory
+5. Attempt any 1 question from question 2
+1 Answer Explain the following. the concepts of customer and consumer. “Consumers are of various types and hence   15
+brands get to witness consumer diversity”. Contrast your views on this statement by
+summarizing the types of consumers and consumer diversity.
+2.   Answer the following(Attempt Any 2 Questions)   30
+st
+A. Interpret the importance of consumer behaviour for 21 century marketers. With the help of   15
+suitable examples illustrate the concept of consumer involvement.
+B. “Consumers depict various personalities when it comes to buying behaviour”. Reflect your   15
+views on this statement by explaining any 5 personality traits in detail.
+C. Quote your views on the concept of consumer decision making. Devise how consumers   15
+undergo adoption of innovations with the help of an example.
+3 Read the following case and answer the questions asked.   15
+Page 1 of 2
+--- page 2 ---
+FinTrust Bank, a leading digital banking service, introduced an AI-powered app to enhance
+customer experience. The app offered interactive communication through chatbots, video
+support, and personalized notifications. The bank aimed to improve engagement, reduce
+response time, and build customer trust in digital banking services.
+To ensure secure transactions, FinTrust implemented behavioral biometrics, analyzing typing
+patterns, touch gestures, and device handling. This technology allowed the app to detect
+unusual behavior and prevent fraud in real time. Customers felt more secure, knowing their
+accounts were protected while enjoying a seamless digital experience.
+Interactive communication enhanced satisfaction by providing instant support and
+personalized financial advice. Behavioral biometrics reduced anxiety about online security,
+increasing trust and adoption of digital services. By combining communication and biometric
+security, FinTrust influenced consumer behavior positively, encouraging more frequent app
+usage and higher engagement with banking services.
+Answer the following Questions:
+How does interactive communication affect consumer behavior in digital banking?
+(5marks)
+What role do behavioral biometrics play in influencing consumer trust? (5marks)
+How did FinTrust combine communication and biometrics to enhance customer
+engagement? (5marks)
+Page 2 of 2
+````
 
 ## 2014-15 · Final-Exam · Sem 10 · paper 9ec46b824dec
 

@@ -1,6 +1,6 @@
 # Statistics, Probability and Calculus: question papers in full
 
-10 unique papers · 2022-23 to 2025-26 · Computer Science and Business Systems, Common (all branches)
+11 unique papers · 2022-23 to 2025-26 · Common (all branches), Computer Science and Business Systems
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1167,7 +1167,7 @@ FIC QF OH ar
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_CSBS_7036/Statistics, Probability & Calculus/QP_Statistics, Probability & Calculus(702BS0C023)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Feb 2025
 - Text: mixed (9 pages), mean OCR confidence 50.5
-- 40 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 39 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -1654,6 +1654,7 @@ POS SBS RIS x2 2855s NO SER REKRR
 : eer
 
 
+i=) rw Don oNoOorna w tort on~nMm ow Oran
 
 
 
@@ -2768,4 +2769,313 @@ HY 22 613 486 68.1 wa2
 tay 674 TOT ar ed WS 14
 
 8/8
+````
+
+## 2022-23 · Re-Exam · Sem 1 · paper e51a8746bcc1
+
+- Departments: Common (all branches)
+- Programmes: B TECH
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B TECH/3__1ST YEAR.zip :: I SEMESTER/STATISTICAL PROBABILITY & CALCULUS/Statistics_Probability_and_Calculus__Sem-I__Year__2022-23__Special_Re_Exam_VwUFXfw9hJ.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 13/06/2023
+- Text: ocr (8 pages), mean OCR confidence 63.3
+- 27 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY
+MANAGEMENT & ENGINEERING
+Academic Year: 2022-2023
+
+Program:B.Tech Year:I Semester: Stream :CSBS
+Subject:Statistics, Probability & Calculus Time:3 hrs —
+Date:13/06/2023 Marks: 100 No. of Pages:8
+
+Special Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the ques-
+tion paper and on the cover of the Answer Book, which is provided for their use.
+
+1. Question No. 1 is compulsory.
+
+2. Out of remaining questions, attempt any 4 questions.
+
+3. In all 5 questions to be attempted.
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+7. Assume Suitable data if necessary.
+
+Q.1 (a)} The numbers 3.2, 5.8,7.9 and 4.5 have frequencies x, x + 2, 7 —3 and
+x + 6 respectively of the arithmetic mean is 4.876. Find x.
+
+(b)} Suppose four dice are tossed. What is the probability that at most
+one 6 appears?
+
+(c)| Kevin rolls two dice and tells you that there is at least one 6. What is
+the probability that the sum is at least 9?
+
+(d)| The first four moments of a distribution about the value 4 are -1.5, 17,
+-30 and 108. Calculate the moments about the mean.
+
+\1e
+
+SM
+™
+
+S™
+
+™
+
+")
+--- page 2 ---
+Q.2 (a)
+
+Evaluate [ ve" de | we dr (8 M]
+0 0
+
+(b) Tom is planning to pick up a friend at the airport. He has figured out
+that the plane is late 80% of the time when it rains, but only 30% of
+the time when it does not rain. If the weather forecast that morning (6 mM
+
+calls for a 40% chance of rain, what is the probability that the plane
+will be late?
+
+» (c) A random variable X is uniformly distributed between 3 and 15. Find
+the following parameters:
+
+i. The expected value of X. : (6 M]
+ii. The variance of X.
+Q.3 (a) ,
+Evaluate [f rv/a? — r?dr.dé [| 0 mM |
+0 Jo
+
+(b) The random variable X can assume the values 1 and -1 with probability
+5 each. Find
+
+i. the moment generating function and (1 (6) mM)
+li. the first four moments about origin.
+
+218
+--- page 3 ---
+¢
+
+Q.4 (a) X and Y are two continuous random variables whose joint. PDF is given
+by iy
+
+0 Otherwise
+. Are X and Y independent?
+
+e7 (+9) 0<4%<w,0<y<o
+fxy(x,y) = a (8 M4]
+
+(b) The number of cars that arrive at a drive-in window of a certain bank (6 mM)
+over a 20-minute period is a Poisson random variable with a mean of
+
+four cars. What. is the probability that more than three cars will arrive
+during any 20- minute period?
+
+©)
+Evaluate [ f [ dzdady [6 mM]
+y
+
+y2
+Q.5 (a) List applications of statistics in various in various branches of sciences
+with suitable examples (8 M |
+
+(b) The following table represents the joint probability distribution of the
+discrete RV (X,Y)
+
+y{ [xX j
+ae [om
+1/35/4[0
+2}o/i/ i
+
+cpt
+3 lig la | is |
+
+Find P(X <2), P(Y > 2)
+
+(c) The times between telephone calls that arrive at a switchboard are
+exponentially distributed with a mean of 30 minutes. Given that a
+call has just arrived, what is the probability that it takes at least 2
+hours before the next call arrives?
+
+(6™]
+
+3/8
+--- page 4 ---
+Q.6 (a) .
+Evaluate / sin? x cos‘ x dx ie [2 mM }
+
+Tv
+
+(b) i. Using the table for F distribution find
+A. F95,10,15 B. Fo.05,8,30
+
+ii. If a variable U has t- distribution with v = 10, find value of c such
+
+that P(U < c= .20) (6 mM |
+
+[given ty = t.80 => 879]
+
+(c) A random variable X has following probability distribution of X. a
+X /O/ 1}2)3 44
+
+P(X) |k| 2k | 4k | 2k/k G m J
+
+Find the each of following
+
+i. k li. mean ili. variance
+
+Q.7 (a) The mean weight of 200 students in a certain college is 140 lbs, and
+the standard deviation is 10 lbs. If we assume that the weights are
+normally distributed, evaluate the following: 10 ™ |
+
+i. The expected number of students that weigh between 110 and 145
+Ibs.
+
+ii. The expected number of students that weigh less than 120 Ibs.
+
+(b) Evaluate the integral
+
+— lom]
+[ VEE JB TGR away [
+
+v3y
+
+l€
+--- page 5 ---
+
+--- page 6 ---
+A cd cei
+--- page 7 ---
+w
+
+-O
+
+Se)
+
+array Nv roa Se OmMhs oO OD
+
+orn agdary a HaaN & Ot
+
+
+BRERE G2288 pases gee
+ZNGAS 2°08 BaF Tt Yas
+
+
+twee
+
+oh &
+nin in
+
+onan
+
+wie motrnwo NOt oon
+
+NM ONAN NAAN AOA
+
+an oronr a anrnnaneo Bs 2
+ah tToONrRSo raraan NOP
+
+
+OM ANANN NANA AN
+
+
+1H YNNHMANN NANA AA
+
+Oy OUrHKG Ganga ag
+
+19 MMMHM AANAN AA
+
+8 £Se8X B28aks faa8
+
+fee]
+ar Bes Nw
+
+raed AGNI Adds add
+
+Be $agee peeee age
+—
+HS 8838 BERNA BEN
+
+
+To mn Are Qanam ™ aan
+tTeRmeOM trrMaor yoo
+
++o ax 98h anmroan wh
+SOOh TLTAH BAN
+
+or sot tts tre
+
+
+rorrrrr rrrrl ANN
+
+& JOBUIWOUAaG ay} Jo} Wapaa 4 jo saaiéaq >
+
+(1/8
+
+Nr
+
+conn
+NA
+
+RN
+i xt
+tt
+
+Tw
+AM
+
+Ko
+
+N
+Nr
+
+aa
+oo
+
+A
+--- page 8 ---
+Tu
+
+eet
+
+wOnRD a pal oO wa sa)
+S658 FERRY BSB8h B8SS88
+Bodog Bane B88 Baees
+CS9NsS BA88 Sagas Oran
+OONaANN NAAN A AAA AN a FS 5 et
+Nnote@o Haoyna aon~rar NN WON
+AM ONN AN ANA A NAN NW SN) sr re = sme
+ao © ROKR NHORD rr)
+THHADG ld on N2°RS Za8R5
+ANMANN AN ANA NAN NW NN rer
+CYRSE non & BBA aOon~wrao
+Ayah OHYAQ NN eK OO000
+AMaAAN AA AA ANA AA NNN
+gbige $8592 esa Beare
+oa 2
+AMAaAN NAN NNN NNN AS NA ANN
+=
+ee42q gkbeh FleHd aARada
+TMNMANAN NANA A ANN NN NN NN A
+=) AMT arand Ot
+
+JOJEuIWOUAQ ay} Jo) Wopeal, jo saaidag +
+
+nonan
+m
+
+earan
+
+3h
+~@
+
+rr
 ````

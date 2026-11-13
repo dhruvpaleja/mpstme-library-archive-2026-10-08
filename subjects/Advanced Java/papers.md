@@ -1,6 +1,6 @@
 # Advanced Java: question papers in full
 
-35 unique papers · 2008-09 to 2025-26 · Computer Applications (MCA)
+37 unique papers · 2008-09 to 2025-26 · Computer Applications (MCA)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -429,6 +429,95 @@ SO-5; with syntax & example.
 BL-3
 
 FOR 2 oka kr
+````
+
+## 2024-25 · Final-Exam · Sem 2 · paper c0d8a75094d4
+
+- Departments: Computer Applications (MCA)
+- Programmes: MASTER OF COMPUTER APPLICATIONS - 7061
+- Source: `00_Original_Downloads/2024/Semester II/67783__Final-Exam__context_fixed.zip :: MASTER OF COMPUTER APPLICATIONS - 7061/Advanced Java/QP_Final-Exam_Advanced Java(703CO0E019)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Apr 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MASTER OF COMPUTER APPLICATIONS
+Year: I/Semester II(Exam Year: 2024-2025)
+Subject: Advanced Java
+Date: 30 Apr 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Question No. 1 is compulsory
+4. Out of remaining questions, attempt any 4 questions
+5. In all 5 questions to be attempted.
+6. All questions carry equal marks
+7. Figure in right hand side indicates full marks
+8. Assume Suitable data if necessary
+Q1   Solve the following sub-questions.
+CO-1;   a.   Explain the lifecycle of Servlet.   [5]
+SO-7;
+BL-3
+CO-2;   b.   BeanFactory vs ApplicationContext   [5]
+SO-7;
+BL-4
+CO-1;   c.   What are the advantage of using Hibernate over JDBC.   [5]
+SO-7;
+BL-2
+CO-1;   d.   List Down 5 annotations with example.   [5]
+SO-7;
+BL-3
+Q2
+CO-2;   a.   What is JDBCTemplate ? what are the problems spring JDBC [10]
+SO-7;   solves.
+BL-3
+CO-3;   b.   Explain Spring Framework and Modules.   [10]
+SO-7;
+BL-3
+Q3
+CO-3;   a.   Write a JSP Page with simple form submission using JSP   [10]
+SO-6;
+BL-3
+CO-3;   b.   Write a Hibernate Program to save Student having id, name   [10]
+SO-7;   & address as property. write all files needed to run this
+BL-3   program using MYSQL as DB.
+Q4
+CO-2;   a.   Explain Bean & creation of bean & lifecycle.   [10]
+SO-7;
+BL-4
+CO-1;   b.   Explain Spring MVC architecture & key annotations.   [10]
+SO-7;
+BL-4
+********** 1 **********
+--- page 2 ---
+Q5
+CO-2;   a.   Explain AOP flow & types of pointcut.   [10]
+SO-7;
+BL-3
+CO-1;   b. What is Spring Boot Layered Architecture.   [5]
+SO-7;
+BL-3
+CO-2;   c.   Explain the Syntax & semantics of JSP. List all the implicit   [5]
+SO-7;   object.
+BL-4
+Q6
+CO-2;   a.   What is Caching in Hibernate? Explain the different level of   [10]
+SO-7;   caching supported by Hibernate.
+BL-3
+CO-4;   b. What is hibernate & key feature? what are the different types   [10]
+SO-7;   of association mapping supported by hibernate with example.
+BL-3
+Q7
+CO-5;   a.   Explain Spring Framework & features.   [10]
+SO-6;
+BL-2
+CO-2;   b. What is session tracking. Explain the way of session tracking   [10]
+SO-5;   with syntax & example.
+BL-3
+********** 2 **********
 ````
 
 ## 2024-25 · Re-Exam · Sem 2 · paper 7591fbba089b

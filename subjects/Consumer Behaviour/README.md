@@ -1,6 +1,6 @@
 # Consumer Behaviour
 
-**8** unique papers (8 copies across programmes) · 2008-09 to 2014-15 · 1 programme · Sem 10, Trim 15
+**10** unique papers (10 copies across programmes) · 2008-09 to 2025-26 · 2 programmes · Sem 1, Sem 10, Trim 15
 
 Download only this subject, sorted by academic year:
 
@@ -14,6 +14,8 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Question paper | Sem 1 | MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703 | QP_Final-Exam_Consumer Behaviour(NKCMB511)_Semester I_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703 | ANS_Final-Exam_Consumer Behaviour(NKCMB511)_Semester I_2025-2026.pdf |
 | 2014-15 | Final-Exam | Question paper | Sem 10 | MBA TECH | Consumer Behaviour 2014-15 Final.pdf |
 | 2011-12 | Re-Exam | Question paper | Trim 15 | MBA TECH | CONSUMER BEHAVIOR BATCH 2011-12 RE EXAM0001.pdf |
 | 2010-11 | — | Question paper | Trim 15 | MBA TECH | CONSUMER BEHAVIOR BACTH 2010-2011.pdf |

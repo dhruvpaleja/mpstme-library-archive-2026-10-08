@@ -1,6 +1,6 @@
 # Data Warehousing and Mining
 
-**93** unique papers (111 copies across programmes) · 2006-07 to 2025-26 · 14 programmes · Sem 1, Sem 3, Sem 4, Sem 7, Sem 8, Sem 9, Sem 10, Trim 1, Trim 7
+**94** unique papers (112 copies across programmes) · 2006-07 to 2025-26 · 15 programmes · Sem 1, Sem 3, Sem 4, Sem 7, Sem 8, Sem 9, Sem 10, Trim 1, Trim 7
 
 Download only this subject, sorted by academic year:
 
@@ -32,6 +32,7 @@ Also filed as: `DATA WAREHOSUING AND MIINING`, `DATAWARE HOUSING AND MINING`
 | 2025-26 | Re-Exam | Answer key | Sem 8 | Integrated IT 7037 | ANS_Data Warehousing and Mining(702IT0C012)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 4 | MBATech IT 7041 | ANS_Data Warehousing and Mining(702IT0C033)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 4 | B TECH / CSE-CYBER SECURITY, B TECH / I T, MBA TECH / I T | Data Warehousing and Mining, Sem IV, Final Exam 2024-25 & Re Exam 2022-23 and 2023-24.pdf |
+| 2024-25 | Final + Re-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / IT | Data_Warehousing_and_Mining_Batch_2024-25_Final_Batch_2022-23_2023-24_Re_Exam_PyxVAo1STl.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 4 | B TECH / CSE-CYBER SECURITY, B TECH / I T, MBA TECH / I T | Data Warehousing & Mining ,Re-exam 2021-22,2022-23,2023-24.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 4 | B TECH / CSE-CYBER SECURITY, B TECH / I T, MBA TECH / I T | Data Warehousing & Mining, Sem-IV, Final & Re Exam 2021-22 & 2022-23.pdf |
 | 2022-23 | Final + Re-Exam | Question paper | Sem 4 | B TECH / CSE-CYBER SECURITY, B TECH / I T, MBA TECH / I T | Data Warehousing & Mining, Sem-IV, Year 2022-23, Final & Re Exam.pdf |

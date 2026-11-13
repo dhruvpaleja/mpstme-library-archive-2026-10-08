@@ -141,3 +141,85 @@ This reduces travel time, improves road safety, and enhances urban mobility. It 
 component of smart city infrastructure.
 ********** 4 **********
 ````
+
+## 2024-25 · Final-Exam · Sem 2 · Answer key · paper 29f663c8c8de
+
+- Departments: Artificial Intelligence
+- Programmes: MASTER OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE) - 7028
+- Source: `00_Original_Downloads/2024/Semester II/67783__Final-Exam__context_fixed.zip :: MASTER OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE) - 7028/Edge Computing/ANS_Final-Exam_Edge Computing(703DB0E029)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Apr 2025
+- Text: text (2 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MASTER OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE)
+Year: I/Semester II(Exam Year: 2024-2025)
+Subject: Edge Computing
+Date: 30 Apr 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Question No. 1 is compulsory
+3. Out of remaining questions, attempt any 4 questions
+4. In all 5 questions to be attempted
+5. All questions carry equal marks
+6. Answer to each new question to be started on a fresh page.
+7. Figure in on the right hand side indicate full marks
+8. Assume Suitable data if necessary.
+Q1
+Answer briefly:   [20]
+A   Define edge computing? Provide a detailed overview of its concept and explain
+how it compares with traditional cloud computing, particularly in terms of
+[10]
+latency, data processing location, and data privacy.
+Logically correct solution with detailed explanation is expected
+B   Discuss the evolution of edge computing. Explain how industry trends—such
+as the rise of the Internet of Things (IoT), advancements in 5G networks, and
+the integration of artificial intelligence (AI)—have influenced its development. [10]
+Provide examples where applicable.
+Logically correct solution with detailed explanation is expected
+Q2   A   Discuss the integration of machine learning and AI in the Edge AI architecture. [10]
+Logically correct solution with detailed explanation is expected
+B   How are AI models and algorithms adapted for on-device processing, and
+Q2   what are the primary challenges and strategies in this integration   [10]
+Logically correct solution with detailed explanation is expected?
+A   Describe the hardware and software infrastructure required for effective Edge
+Q3   AI deployment. What is the significance of selecting appropriate AI models and [10]
+algorithms that match the hardware capabilities of edge devices
+Logically correct solution with detailed explanation is expected
+B
+Define Multi Access Edge Computing (MEC) and explain its primary
+Q3   objectives   [10]
+Logically correct solution with detailed explanation is expected
+********** 1 **********
+--- page 2 ---
+Q4   A   What challenges in traditional network architectures does MEC aim to address?   [10]
+Logically correct solution with detailed explanation is expected
+B   Discuss the importance of standards and industry initiatives in MEC, with a
+Q4   focus on ETSI MEC. Explain the key components such as the MEC Server and [10]
+MEC Applications.
+Logically correct solution with detailed explanation is expected
+A   Describe the sector implications of edge computing in healthcare,
+manufacturing, and retail. Include specific examples of applications in each
+Q5   sector and explain how edge computing enhances operational efficiency and [10]
+service quality
+Logically correct solution with detailed explanation is expected
+Q5   B   What is Data Fusion in edge computing? Explain Data fusion techniques   [10]
+Logically correct solution with detailed explanation is expected
+A   Describe the significance of video compression and encoding techniques for
+Q6   edge video processing.   [10]
+Logically correct solution with detailed explanation is expected
+B   How do these techniques contribute to efficient video data handling in edge
+Q6   environments?   [10]
+Logically correct solution with detailed explanation is expected
+A   What is the importance of log analysis for monitoring and troubleshooting in
+Q7   Edge AI environments?   [10]
+Logically correct solution with detailed explanation is expected
+B   How does effective log analysis contribute to system reliability and
+Q7   performance?   [10]
+Logically correct solution with detailed explanation is expected
+********** 2 **********
+````

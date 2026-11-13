@@ -1,6 +1,6 @@
 # Elements of Mechanical Engineering: question papers in full
 
-9 unique papers · 2022-23 to 2025-26 · Mechanical
+13 unique papers · 2022-23 to 2025-26 · Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -96,6 +96,89 @@ BL-3
 CO-5; SO- b   Explain the idea of green manufacturing and discuss its major principles with
 7   [10]
 BL-4   practical examples of eco-friendly manufacturing.
+********** 2 **********
+````
+
+## 2024-25 · Final-Exam · Sem 3 · paper 6491ba9fc562
+
+- Departments: Mechanical
+- Programmes: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7031
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7031/Elements of Mechanical Engineering/QP_Final-Exam_Elements of Mechanical Engineering(701ME0C002)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Dec 2024
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX
+YEARS INTEGRATED PROGRAM
+Year: II/Semester III(Exam Year: 2024-2025)
+Subject: Elements of Mechanical Engineering
+Date: 04 Dec 2024   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any four questions.
+4. In all five questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly:   [5 x 4= 20]
+CO-1; SO-7; BL-   a.   List and briefly explain two major stages of the mechanical
+Understand   design process.
+CO-1; SO- 4; BL-   b.   What are the key differences between tensile stress and
+Remember   compressive stress?
+CO-2; SO- 3; BL-   c.   Explain the significance of fluid density in determining the
+Understand   behaviour of fluids.
+CO-2; SO- 3; BL-   d.   Explain the working principle of a Pelton wheel turbine.
+Understand
+CO-3; SO- 3; BL-   e.   Differentiate between an open system and a closed system
+Understand, Apply   with suitable examples.
+Q2   A   Discuss the various manufacturing processes, such as casting, [10]
+CO-1; SO-5;   forming, machining, joining, and finishing. Provide examples
+BL-Apply, Analyze   of products made using each of these processes.
+Q2   B   Discuss the different types of engineering materials (metals, [10]
+CO-1; SO-5;   ceramics, polymers, composites) and their properties. Explain
+BL-Understand, Apply   the factors to consider when selecting materials for
+engineering applications.
+Q3   A   Explain the concept of drag force and discuss how the shape [10]
+CO-2; SO-7; BL-   of an object influences the drag experienced by it. Use
+Understand, Apply   examples from automotive or aerospace engineering.
+********** 1 **********
+--- page 2 ---
+Q3   B   Describe the classification of hydraulic turbines based on the [10]
+CO-2; SO-7; BL-   direction of water flow and give examples for each type.
+Understand, Apply
+Q4   A   Describe the Reynolds number and its importance in [10]
+CO-2; SO-7;   determining whether a flow is laminar or turbulent. How do
+BL- Understand,   engineers use this concept in fluid dynamics applications?
+Analyze
+Q4   B   Discuss the various types of energy conversions in thermal [10]
+CO-3; SO-7;   systems and give examples of how energy is transformed from
+BL- Understand, Apply   one form to another.
+Q5   A   Explain the working principle of Kaplan turbines and discuss [10]
+CO-2; SO-1;   its advantages and applications in low-head water power
+BL- Understand,   generation.
+Analyze
+Q5   B   Describe the various types of gears used in power [10]
+CO-3; SO-1;   transmission (spur, helical, bevel, and worm gears). Explain
+BL- Understand,   their functions, advantages, and typical applications.
+Analyze
+Q6   A   Compare solar thermal power systems and conventional [10]
+CO-3; SO-5;   fossil-fuel-based power systems. Highlight their energy
+BL- Understand, Apply   conversion processes and environmental impacts.
+Q6   B   Compare belt drives and chain drives in terms of power [10]
+CO-3; SO-5;   transmission, efficiency, and practical applications. In what
+BL- Understand,   scenarios would each type be preferred?
+Analyze
+Q7   Write Short notes on:   [20]
+CO-1,3; SO-1;   a) Stress and Strain
+BL-Evaluate   b) Gravitational Potential Energy
+c) Laws of Machine
+d) Simple gear train
 ********** 2 **********
 ````
 
@@ -240,6 +323,90 @@ c) Laws of Machine
 d) Simple gear train
 
 FIC 2 a kk
+````
+
+## 2024-25 · Re-Exam · Sem 3 · paper 2dfbd38f40b2
+
+- Departments: Mechanical
+- Programmes: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7031
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Re-Exam/BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7031/Elements of Mechanical Engineering/QP_Re-Exam_Elements of Mechanical Engineering(701ME0C002)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 22 Feb 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX
+YEARS INTEGRATED PROGRAM
+Year: II/Sem 3 Re-exam(Exam Year: 2024-2025)
+Subject: Elements of Mechanical Engineering
+Date: 22 Feb 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any four questions.
+4. In all five questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly:   [5 x 4= 20]
+CO-1; SO-7; BL-   a.   Explain the significance of dimensional consistency in
+Understand   engineering calculations.
+CO-1; SO- 4; BL-   b.   Define stress and strain. Provide the formula for calculating
+Remember   each.
+CO-2; SO- 3; BL-   c.   Differentiate between laminar and turbulent flow.
+Understand
+CO-2; SO- 3; BL-   d.   Differentiate between impulse and reaction turbines in terms
+Understand   of how they utilize energy from water.
+CO-3; SO- 3; BL-   e.   Define the conservation of energy and provide an example
+Understand, Apply   from thermal systems to illustrate this concept.
+Q2   A   Describe the importance of communication   skills in [10]
+CO-1; SO-5;   engineering, focusing on written reports, public speaking, and
+BL-Apply, Analyze   leadership. Provide examples of how these skills impact
+engineering projects.
+Q2   B   Explain the stress-strain curve and describe its important [10]
+CO-1; SO-5;   regions, including the proportional limit, elastic limit, and
+BL-Understand, Apply   yield point. How is the curve used to characterize a material's
+behavior?
+********** 1 **********
+--- page 2 ---
+Q3   A   Describe Pascal's Law and its application in hydraulic [10]
+CO-2; SO-7; BL-   systems. Provide examples of how Pascal's Law is used in
+Understand, Apply   practical fluid engineering applications.
+Q3   B   Discuss the main components of a Pelton wheel turbine and [10]
+CO-2; SO-7; BL-   explain how each component contributes to its operation.
+Understand, Apply
+Q4   A   Discuss the various types of fluid flow (steady, unsteady, [10]
+CO-2; SO-7;   viscous,   non-viscous,   compressible,   incompressible,
+BL- Understand,   rotational, and irrotational). Provide examples where each
+Analyze   type of flow is encountered in engineering.
+Q4   B   Explain the working principle of a thermal power plant, [10]
+CO-3; SO-7;   detailing how heat energy is converted into electrical energy.
+BL- Understand, Apply
+Q5   A   Explain the working mechanism of a centrifugal pump and [10]
+CO-2; SO-1;   compare it with a reciprocating pump in terms of efficiency
+BL- Understand,   and application.
+Analyze
+Q5   B   Explain the concept of Mechanical Advantage, Velocity [10]
+CO-3; SO-1;   Ratio, and Efficiency in lifting machines. How are these
+BL- Understand,   parameters related and how do they influence the performance
+Analyze   of machines such as screw jacks?
+Q6   A   Describe the four-stroke cycle of an internal combustion [10]
+CO-3; SO-5;   engine and explain how it converts chemical energy into
+BL- Understand, Apply   mechanical work.
+Q6   B   Discuss the working principles of a simple screw jack and a [10]
+CO-3; SO-5;   differential screw jack. Compare their mechanical advantages
+BL- Understand,   and explain in which situations each would be more
+Analyze   beneficial.
+Q7   Write Short notes on:   [20]
+CO-1,3; SO-1;   a) Selection of materials for engineering purpose
+BL-Evaluate   b) Types of system
+c) Belt and Chain drives
+d) lifting Machines
+********** 2 **********
 ````
 
 ## 2024-25 · Re-Exam · Sem 3 · paper d5e5b330ae81

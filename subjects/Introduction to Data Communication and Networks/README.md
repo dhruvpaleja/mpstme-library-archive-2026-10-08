@@ -1,6 +1,6 @@
 # Introduction to Data Communication and Networks
 
-**10** unique papers (10 copies across programmes) · 2023-24 to 2025-26 · 2 programmes · Sem 5
+**12** unique papers (12 copies across programmes) · 2023-24 to 2025-26 · 3 programmes · Sem 5
 
 Download only this subject, sorted by academic year:
 
@@ -22,6 +22,8 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Final-Exam | Question paper |  | B.TECH INTEGRATED / IT | Introduction to Data Communication and Networks Batch 2024-25 Final.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 5 | Integrated IT 7037 | QP_Introduction to Data Communication and Networks(701IT0C004)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 5 | Integrated IT 7037 | ANS_Introduction to Data Communication and Networks(701IT0C004)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 5 | BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037 | QP_Re-Exam_Introduction to Data Communication and Networks(701IT0C004)_Semester V_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 5 | BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037 | ANS_Re-Exam_Introduction to Data Communication and Networks(701IT0C004)_Semester V_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper |  | B.TECH INTEGRATED / IT | Intorduction to Data Communication and Networks Batch 2023-24 Final.pdf |
 | 2023-24 | Re-Exam | Question paper |  | B.TECH INTEGRATED / IT | Introduction to Data Communication and Networks Batch 2023-24 Re Exam.pdf |
 

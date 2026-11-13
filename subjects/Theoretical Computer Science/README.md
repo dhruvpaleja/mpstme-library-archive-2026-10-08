@@ -1,6 +1,6 @@
 # Theoretical Computer Science
 
-**58** unique papers (73 copies across programmes) · 2013-14 to 2025-26 · 9 programmes · Sem 3, Sem 4, Sem 5, Sem 6, Sem 8
+**65** unique papers (80 copies across programmes) · 2013-14 to 2025-26 · 9 programmes · Sem 3, Sem 4, Sem 5, Sem 6, Sem 7, Sem 8
 
 Download only this subject, sorted by academic year:
 
@@ -49,14 +49,21 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2022-23 | Re-Exam | Question paper | Sem 4 | B TECH / COMPUTER, MBA TECH / COMPUTER | Theoretical Computer Science, Sem-IV, Batch 2021-22 & 2022-23, Re Exam.pdf |
 | 2021-22 | Final-Exam | Question paper | Sem 4 | B TECH / COMPUTER, MBA TECH / COMPUTER | Theoretical Computer Science,SemIV, Final ,A.Y.2021-22.pdf |
 | 2021-22 | Re-Exam | Question paper | Sem 4 | B TECH / COMPUTER, MBA TECH / COMPUTER | Theoretical Computer Science, Re-exam 2021-2022.pdf |
+| 2019-20 | Final-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / COMPUTER | Theoretical_Computer_Science_2019-20_Final_qtSc2JoAmA.pdf |
 | 2018-19 | Final + Re-Exam | Question paper | Sem 4 | B TECH / COMPUTER | THEORETICAL COMPUTER SCIENCE 2018-19 FINAL AND 17-18 RE EXAM.pdf |
+| 2018-19 | Final-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / COMPUTER | Theoretical_Computer_Science_2018-19_Final_szGDTrPMvb.pdf |
 | 2018-19 | Re-Exam | Question paper | Sem 4 | B TECH / COMPUTER | THEORETICAL COMPUTER SCIENCE BATCH 17-18 18-19 RE EXAM.pdf |
+| 2018-19 | Re-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / COMPUTER | Theoretical_Computer_Science_Batch_2018-19_Re_Exam_z0yCuyzrzI.pdf |
 | 2017-18 | Final-Exam | Question paper | Sem 4 | B TECH / COMPUTER | THEORETICAL COMPUTER SCIENCE (COMPUTER), 2017-18 FINAL EXAM.pdf |
 | 2017-18 | Final-Exam | Question paper | Sem 6 | B TECH / COMPUTER | THEORETICAL COMPPUTER SCIENCE (COMPUTER), 2017-18 FINAL EXAM.pdf |
+| 2017-18 | Final-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / COMPUTER | Theoretical_Computer_Science_2017-18_Final_ojhIpo0FIz.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 4 | B TECH / COMPUTER | THEORETICAL_COMPUTER_SCIENCE_BATCH_17-18_RE_EXAM_.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 5 | B TECH / COMPUTER | THEORETICAL COMPUTER SCIENCE BATCH 14-15 15-16 RE EXAM 2017-18.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 6 | B TECH / COMPUTER | THEORETICAL COMPUTER SCIENCE BATCH 17-18 RE EXAM.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 6 | B TECH / COMPUTER | THEORETICAL_COMPUTER_SCIENCE_B TECH (COMPUTER) BATCH_17-18_RE_EXAM_.pdf |
+| 2017-18 | Re-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / COMPUTER | Theoretical_Computer_Science_Batch_2017-18_Re_Exam_FDpghSHdNG.pdf |
+| 2017-18 | Re-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / COMPUTER | Theoretical_Computer_Science_Batch_2017-18_Re_Exam_a3xEQLCC10.pdf |
+| 2017-18 | Re-Exam | Question paper | Sem 7 | B.TECH INTEGRATED / COMPUTER | Theoretical_Computer_Science_Batch_2017-18_Re_Exam_m921KOXp6r.pdf |
 | 2016-17 | Final-Exam | Question paper | Sem 5 | B TECH / COMPUTER | THEORETICAL COMPUTER SCIENCE B TECH (COMP), 2016-17 FINAL EXAM.pdf |
 | 2016-17 | Re-Exam | Question paper | Sem 5 | B TECH / COMPUTER | THEORETICAL COMPUTER SCIENCE BATC H14-15 15-16 16-17 RE EXAM.pdf |
 | 2016-17 | Re-Exam | Question paper | Sem 5 | B TECH / COMPUTER | THEORETICAL COMPUTER SCIENCE BATCH 14-15 15-16 16-17 RE EXAM.pdf |

@@ -1,6 +1,6 @@
 # Kinematics and Dynamics of Machines: question papers in full
 
-12 unique papers · 2021-22 to 2025-26 · Mechanical
+13 unique papers · 2021-22 to 2025-26 · Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -320,6 +320,156 @@ addenda on pinion and gear wheel; 2. the length of path of contact; and 3. the
 maximum velocity of sliding of teeth on either side of the pitch point.
 
 FOUR OR Hk i ik
+````
+
+## 2024-25 · Final + Re-Exam · Sem 8 · paper 0245f066410e
+
+- Departments: Mechanical
+- Programmes: B.TECH INTEGRATED / MECHANICAL
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: MECHANICAL/SEMESTER VIII/Kinematics and Dynamics of Machines/Kinematics_and_Dynamics_of_Machines_Batch_2024-25_Final_Batch_2022-23_2023-2024_Re_Exam_fVXzhO7VZy.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 86.1
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT&
+Academic Year: 2024-2025
+
+-< Ky,
+
+eR UNIVERSIY SZ
+
+Program:- B.Tech/Btech. Integrated Year: IV/IV Semester: IV/ VIE
+Stream:-Mechanical Engineering _
+Subject: Kinematics and Dynamics of Machines Time: 03hrs (LOam to 1 pm )
+Date:.0 2/05/2025 - : ; No. of Pages:03
+
+Marks:100 |
+
+Final Examination 2024-25 / Re-Exam 2022-23, 2023-24
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+- 1) Question No. li is compulsory.
+2) Out of remaining questions, attempt any __4 _ questions.
+3)Inall___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page. “
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+
+Illustrate the concept of degree. of freedom? Also find the DOF for the given
+below mechanisms.
+
+CO:-01
+SO:-01
+BL:-03
+
+[4]
+
+CO:-02 b, | Illustrate the concept of ICR in detail.
+
+SO:-02 ; [3]
+BL:-03 :
+
+CO:-03 c, | Classify the cams based on motion of follower. :
+
+SO:-03- a [3]
+BL:-02 |
+CO:-04 :
+S0:-01 : | Prove T, = mv?, for the belt drive. [3]
+BL:-03
+CO:-05
+SO:-02 * | Explain the working of internal expanding brake with sketch [3]
+BL:-02 ; : : a
+
+CO:-06 f What do you mean by tooth gearing? State Advantages & Dis-advantages of gear (4)
+er drive. :
+--- page 2 ---
+Q . oo | 0]
+
+a Locate all the instantaneous centres of the mechanism as shown in Fig. The lengths
+of various links are : AB = 150 mm ; BC = 300 mm ; CD = 225 mm ; and CE=
+500 mm. When the crank AB rotates in the anticlockwise direction at a uniform
+
+speed of 240 r.p.m. ; find-1. Velocity of the slider E, and 2. Angular velocity of the
+links BC and CE.
+CO:-02
+
+So:-01. | - [20]
+BL:-04
+toe _ .
+¢G; oan
+soln ,
+400 mm —
+are “ a 6
+tae ——S
+
+ae
+
+Q3 | | [20]
+
+The following data relate to a cam operating an oscillating roller follower.
+
+= Minimum radius=44mm, Diameter of roller=l14mm, length of the follower
+CO:-03 arm=50mm, Distance of fulcrum centre from cam centre=60mm, Angle of
+SO:-01. "| ascent=75 degree, angle of descent=105degree, Angle of dwell for follower in the |- [20]
+eee highest position = 60degree, Angle of oscillation of follower = 28degree. Draw the
+profile of the cam if the ascent & descent take place with SHM. If the cam rotated
+at a uniform speed of 150rpm, Draw the velocity & acceleration of the follower.
+04 [20]
+Coral a. State and explain various condition of Grasho’s law. i
+S©:-02 [5]
+BL:-01
+b, | A” open belt drive connects two pulleys 1.2 m and 0.5 m diameter, on parallel
+shafts 4 metres apart. The mass of the belt is 0.9 kg per metre length and the
+Poet maximum tension is not to exceed 2000 N. The coefficient of friction is 0.3. The
+SO:-01 ; 1.2 m pulley, which is the driver, runs at 200 r.p.m. Due to belt slip on one of the | [15]
+BL:-03
+
+pulleys, the velocity of the driven shaft is only.450 r.p.m. Calculate the torque on
+each of the two shafts, the power transmitted, and power lost in friction. What is
+
+the efficiency of the drive ?
+--- page 3 ---
+=
+
+Q5 [20]
+CO:-01 Illustrate the concept of inversion. Also explain the inversion of Double slider
+SO:-02 crank chain. ; [10]
+BL:-03
+CO:-05 : ;
+SO:-02 Prove that T=nFR for centrifugal clutch [10]
+_| BL:-03 1 ;
+
+Q6 [20]
+CO:-01 ;
+SO:-02 © State & explain the various types of motion along with sketch [5]
+BL:-01 : :
+
+In an epicyclic gear train, the internal wheels A and B and compound wheels C
+
+and D rotate independently about axis O. The wheels E and F rotate on pins fixed
+
+to the arm G. E gears with A and C and F gears with B and D. All the wheels have
+Banh the same module and the number of teeth are : TC = 28; TD = 26; TE = TF = 18. iG
+BL.-04 1. Sketch the arrangement ; 2. Find the number of teeth on A and B ; 3. If the arm
+
+G makes 100 r.p.m. clockwise and A is fixed, find the speed of B ; and 4. If the
+
+arm G makes 100 r.p.m. clockwise and wheel A makes 10 r.p.m. counter clockwise
+
+‘| ; find the speed of wheel B. :
+
+Q7 [20]
+CO:-05 : .
+SO:-02 Explain the concept of uniform wear theory & derive its expression for torque. [10]
+BL:-01 : ; .
+CO:-6 .
+SO:-01 Derive an expression for the length of arc of contact. [10]
+BL:-03
 ````
 
 ## 2024-25 · Final-Exam · Sem 4 · paper 19ef30adfd77

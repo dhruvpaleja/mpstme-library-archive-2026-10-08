@@ -1,6 +1,6 @@
 # Mobile Computing: question papers in full
 
-56 unique papers · 2011-12 to 2024-25 · Computer Engineering, Information Technology, Computer Applications (MCA), Electronics and Telecommunication, Computer Science and Business Systems
+57 unique papers · 2011-12 to 2024-25 · Computer Engineering, Information Technology, Computer Applications (MCA), Electronics and Telecommunication, Computer Science and Business Systems
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1795,6 +1795,78 @@ Explain WAP protocol stack with diagram. [6]
 Discuss Zone routing protocol [6]
 Describe various design issues of mobile databases. [4]
 Write a short note on Android operating system. [4]
+````
+
+## 2018-19 · Final-Exam · Sem 10 · paper 473c3618b862
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: COMPUTER/SEM X/MOBILE COMPUTING/Mobile_Computing_2018-19_Final_iHqeGPhhku.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 15 April 2019
+- Text: ocr (2 pages), mean OCR confidence 90.3
+
+````text
+SVKM’S NMIMS :
+* MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEN
+
+Program :B.Tech Integrated (COMPUTER)
+AcademicYear: 201842019
+Subject: Mobile Computing ; Marks: 60
+
+.Date : 15 April 2019 _ ‘Time: 02.00 pm to 05.00 pm
+
+Duration: 3 (hrs)
+No. of Pages: O2-
+Final Examination (2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover of the
+Answer Book, which is provided for their use.
+N.B.:
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining 6 questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks. _
+
+7) Assume Suitable data if necessary
+
+QI. A) What is MACA and how does it solve the hidden and exposed terminal problem? 06
+B) What is Process Migration? List the steps in Process Migration with a neat diagram. 06
+Q2. A) Discuss the features of Android and justify how it is better than Symbian OS. 06
+B) Explain tunneling mechanism of Mobile IP using IP-in-I[P and minimal encapsulation respectively?
+Q3. A) Explain CDMA with an example and compare it with TDMA? 06
+B) Describe mobile communication architecture? 06
+Q4. A) Compare and contrast DSR and AODV with example. 06
+B) Discuss WAP programming model in detail. 06
+Q5. A) Discuss ZRP routing protocol with example. 06
+
+B) What are Aglets? Explain Aglet Object Model and Aglet Life Cycle Model with neat diagram.
+
+of /o2
+--- page 2 ---
+06
+
+’
+
+x
+Q6. A) What is CODA file system? Explain stages involved in CODA system? 06
+B) Why traditional TCP is not suitable for mobile environment? Discuss about strength and weakness
+of indirect -TCP, Snooping TCP, and M-TCP. nn: 06
+Q7. Write short note on any three of the following: - ; 12
+i. CSMA
+ii. Reverse tunneling
+
+iii. | Hierarchical State Routing Protocol
+iv. Bluetooth ~
+
+O2}o2_
 ````
 
 ## 2018-19 · Final-Exam · Sem 8 · paper 27d6d7b99b7c

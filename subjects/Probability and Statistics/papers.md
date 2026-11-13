@@ -24598,7 +24598,7 @@ Page 4of 4
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/COMPUTER/SEM III/PROBABILITY AND STATISTICS/Probability & Statistics, 2nd Year, Sem III, Year 2022-23, Final Exam.pdf` (+3 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 21 November 2022
 - Text: ocr (9 pages), mean OCR confidence 79.2
-- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 4
@@ -24795,6 +24795,7 @@ Table of Standard Normal Disiibution
 Ee 0.00 an Daz 0.03 and 0.05 ODS DOT 0.08 0.03
 
 D4 O8:0388 0.0435 G@O478 GO5IT MOssr O.0506 9.0636 o0s7Ts BOi4 10753
+O2 O0793 O0832 OORTt. goa 0048 o.08g7 ioe e106 , 01103 Ott
 O3 G17 O.4217 G4953 1203 11931 0.1308 O1406 01443 0.4480 AST
 05 4515 O4080 G408S G2mig Mans 2088 02123 G2157 O:2180 02224
 

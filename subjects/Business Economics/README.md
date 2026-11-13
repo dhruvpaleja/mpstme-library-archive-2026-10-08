@@ -1,6 +1,6 @@
 # Business Economics
 
-**29** unique papers (55 copies across programmes) · 2006-07 to 2019-20 · 7 programmes · Sem 3, Sem 4, Sem 5, Trim 5, Trim 7
+**37** unique papers (63 copies across programmes) · 2006-07 to 2025-26 · 10 programmes · Sem 2, Sem 3, Sem 4, Sem 5, Trim 5, Trim 7
 
 Download only this subject, sorted by academic year:
 
@@ -14,6 +14,14 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | Bachelor of Commerce (Financial Markets) - 45612 | QP_Final-Exam_Business Economics(NDBEC167)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | Bachelor of Commerce (Management and Finance) - 45615 | QP_Final-Exam_Business Economics(NEECO169)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | Bachelor of Commerce(Accounting and Finance) - 45613 | QP_Final-Exam_Business Economics(NCBEC167)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | Bachelor of Commerce (Financial Markets) - 45612 | ANS_Final-Exam_Business Economics(NDBEC167)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | Bachelor of Commerce (Management and Finance) - 45615 | ANS_Final-Exam_Business Economics(NEECO169)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | Bachelor of Commerce(Accounting and Finance) - 45613 | ANS_Final-Exam_Business Economics(NCBEC167)_Semester II_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | Bachelor of Commerce(Accounting and Finance) - 45613 | QP_Re-Exam_Business Economics(NCBEC167)_Semester II_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | Bachelor of Commerce(Accounting and Finance) - 45613 | ANS_Re-Exam_Business Economics(NCBEC167)_Semester II_2025-2026.pdf |
 | 2019-20 | Final-Exam | Question paper | Sem 5 | B TECH / DATA SCIENCE | BUSINESS_ECONOMICS_FINAL_EXAM_2019-20_.pdf |
 | 2017-18 | — | Question paper | Sem 4 | MBA TECH | Business Economics 2017-18.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 3, Sem 4 | MBA TECH, MBA TECH / CHEMICAL | Business_Economics_2017-18_UD5T1IcE8e.pdf [1] [2] |

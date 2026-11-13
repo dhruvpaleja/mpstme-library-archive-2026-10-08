@@ -1,6 +1,6 @@
 # Data Warehousing and Mining: question papers in full
 
-93 unique papers · 2006-07 to 2025-26 · Information Technology, Computer Engineering, Computer Applications (MCA), Cyber Security
+94 unique papers · 2006-07 to 2025-26 · Information Technology, Computer Engineering, Computer Applications (MCA), Cyber Security
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1146,6 +1146,188 @@ COZ: S02; help of a neat diagram. Discuss the issues related to KDD.
 BL-2 f
 
 FIR 2 ik
+````
+
+## 2024-25 · Final + Re-Exam · Sem 8 · paper d300bc1751fd
+
+- Departments: Information Technology
+- Programmes: B.TECH INTEGRATED / IT
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: IT/SEMESTER VIII/Data Warehousing and Mining/Data_Warehousing_and_Mining_Batch_2024-25_Final_Batch_2022-23_2023-24_Re_Exam_PyxVAo1STl.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (4 pages), mean OCR confidence 87.6
+
+````text
+SVKM’S NMIMS F
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING/
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2024-2025
+
+Program/s: B.Tech/MBA Tech/BTE (ZN S$) Year: I/IV Semester: [V/VHI
+Stream/s: IT/Cyber C CSE- cs)
+Subject: Data Warehousing and Mining Time: 3 hrs loemto 4pm )
+Date:_A8 / 4 / 2025 No. of Pages:_4y _
+Marks: 100
+
+lo Final Fxgminafion/Re-Examination ( Re-exam year) +2022-23 20 23-24
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory. —_
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql
+
+Answer briefly:
+cnr al I he Dimension tables are wide. Fact tables are deep.Justify [5]
+CO-2: S0-2: b. | Discuss Various data sources feed the data warehouse. What are the pieces of
+BL-2 > > information you need to get about data sources? [5]
+G c. | For the following confusion matrix calculate Accuracy, Precision and Recall, Fl-
+CO-3 ; SO-2 ; score. 5
+BL-3 —— TP=100 FP=10 [5]
+
+FN=5 TN=50
+
+CO-3 ;SO-2; | d.
+
+BL-2 Summarize the process of Web Usage Mining. [5]
+a | A manufacturing company has a huge sales network. To control the sales,
+it is divided in the regions. Each region has multiple zones. Each Zone has
+Q2 different cities. Each sales person is allocated different cities. The object
+. . is to track sales figure at different granularity levels of region. Also to
+CO-2; SO-2; se . : [10]
+BL-3 count no. of products sold, Design information package diagram create a
+
+suitable data warehouse schema to take into consideration of above
+granularity levels for region, sales person and the quarterly, yearly and
+monthly sales.
+--- page 2 ---
+b | Apply Naive Bayes algorithm to give prediction for Unseen Sample
+X=<(<=30, Medium, Yes, Fair)>
+
+Credit Buys
+Age Income | Student | Rating Computer
+
+<=30__| High No Fair No
+<=30. | High No ‘| Excellent | No
+31..40 | High No Fair Yes
+Q2 . ~ || >40 Medium | No Fair Yes
+CO-3; SO-2; >40 Low Yes Fair No [10]
+BL-3 >40 Low Yes Excellent | No
+; 31..40 | Low No Excellent | Yes
+<=30 | Medium | No Fair No
+<=30 | Low Yes Fair Yes
+>40 Medium | Yes Fair Yes
+<=30 | Medium | Yes Excellent | Yes
+31..40 | Medium | No Excellent | Yes
+31..40 | High Yes Fair Yes
+. >40 Medium | No Excellent | No
+Q3 a :
+CO-2; SO-2; What are hypercubes? How do they apply in an OLAP system? [10]
+BL-2
+Q3 b | Explain the K-means clustering algorithm. Apply K-means Clustering to
+CO-3; SO-2; create 2 clusters for the given dataset. Take initial centroids as 1 and 15. } [10]
+BL-3 Use Manhattan Distance. Dataset = {1, 5, 7, 8, 14, 15, 18, 22, 30, 35}
+a | Describe the need of slowly changing dimensions. What is the type 1 and
+Q4 type 2 SCD? Assume you are in the Banking business. Find two examples
+. . of type 2 slowly changing dimensions in that business. As an analyst on
+CO-2; SO-2; ; eae : [10]
+BL-3 the project, write the specifications for applying the type 2 changes to the
+data warehouse with regard to the two examples.
+b | Apply ID3 Decision tree algorithm to decide the best split.(Calculate the
+root node) |
+Runnin; Coughin; Reddended
+Nose(N} (c) ° Skin( R) Stakus
+Q4 + + + Healthy
+CO-3; SO-2; + + - Healthy [10]
+BL-3 + - - Unhealthy
+- + + Unhealthy
+- - + Unhealthy
+
+- - - Unhealthy
+--- page 3 ---
+a
+
+Consider the transactions given below. If minimum support count is 2 &
+minimum confidence is 50%, determine the frequent item sets atid
+generate the strong rules using APRIORI algorithm.
+
+TID Items
+T1 i, 12, 15
+Q5 T2 ~| 12,14
+CO-1,CO-3; T3 12, 13 [10]
+SO-2; T4 |01,2,14
+BL TS | 11,13
+_T6 12, 13
+T7 {0,3
+T8 Il, 12, 13, 15
+T9 |0,2,13
+Q5 b
+CO-1,CO-3; Discuss the importance and types of metadata in data warehouse [5]
+SO-2; BL- 2 oe,
+c | Apply KNN algorithm to predict the Sugar for unseen sample
+<54.2, 50>.Assume k=3
+BMI Age Sugar
+Qs 33.6 50 1
+CO-1,CO-3; [5]
+SO-2: 26.6 30 0
+BL- 3 23.4 40 0
+43.1 67 0
+35.3 23 1
+35.9 67 1
+a | Draw a Dendrogram to simulate Single link hierarchical clustering
+algorithm.
+P1 P2 | P3 | P4 | PS | P6
+Q6 P1/0
+CO-1,CO-3;
+$0-2: P2 | 0.24 0 [10]
+BL-3 P3 | 0.22 | 0.15 | 0
+
+P4 | 0.37 | 0.20 | 0.15] 0 |
+P5 | 0.34 | 0.14 | 0.28 | 0.29 | 0
+P6 | 0.23 | 0.25 | 0.11 | 0.22 | 0.39 | 0
+--- page 4 ---
+Q6 CO-2,CO- | b | Consider a data ware house of hospital, where there are three dimensions: _,.
+
+3; SO-2; 1. Doctor. 2. Patient 3. Time , Measures as count/fees .For this example create | [5]
+BL- 3 the OLAP cube and explain the slice and Dice operations.
+ha Soo © Explain the concept of Web Content Mining and describe how it is used to [5]
+BL- 3 7 extract useful information from web data
+Q7 a
+CO-1; SO-2; Differentiate between OLAP and OLTP. [5]
+BL-2
+Q7 b | Justify the statement “Data Mining is a subset of KDD process”.
+CO-1-; SO-2; [5]
+BL-2
+c | To see how students' reaction skills have improved over a year, eight
+
+students took a reactions test at the start of the year and at the end of the
+
+year. These are their scores:
+Q7
+CO-1,CO-3; First
+S0-2: Test,x | 56| 75| 61]-61 | 67| 72} 62) 61 [5]
+BL-3
+
+Second | 51 | 39| 34| 21| 32] 24| 29] 24
+Test, y
+
+Find the equation of the regression line.
+Q7 d_ | Explain the concept of Spatial Data Mining and describe its significance in
+CO-3; SO- discovering patterns from spatial data. [5]
+
+2;BL-2
 ````
 
 ## 2024-25 · Final + Re-Exam · Sem 4 · paper fd72afa139f9

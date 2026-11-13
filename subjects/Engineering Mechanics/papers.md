@@ -1,6 +1,6 @@
 # Engineering Mechanics: question papers in full
 
-123 unique papers · 2004-05 to 2025-26 · Common (all branches), Civil, Mechanical, Mechatronics, Computer Engineering, Computer Science, Information Technology
+129 unique papers · 2004-05 to 2025-26 · Common (all branches), Mechanical, Civil, Mechatronics, Computer Engineering, Computer Science, Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1056,6 +1056,129 @@ with an acceleration of 6 m/s. Find relative position, velocity and acceleration
 iw.r.t. A, 5 sec from the start.
 
 FIR RAC AR oR a
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper 8b77f9630037
+
+- Departments: Mechanical
+- Programmes: DIPLOMA IN MECHANICAL ENGINEERING - 7072
+- Source: `00_Original_Downloads/2025/Semester II/75268__Re-Exam.zip :: DIPLOMA IN MECHANICAL ENGINEERING - 7072/Engineering Mechanics/QP_Re-Exam_Engineering Mechanics(701ME0C026)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Jul 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: Diploma (COMP)/Diploma (CSE)/Diploma (IT)/Diploma (MECH)
+Year: I/Sem 2 Re-exam(Exam Year: 2025-2026)
+Subject: Engineering Mechanics
+Date: 03 Jul 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right-hand side indicate full marks.
+8. Assume Suitable data if necessary.
+9. Students are allowed to use scientific calculator.
+Q1   Answer briefly:   [20]
+CO-1; SO-2;   a. State and explain the law of parallelogram of forces. Illustrate how it is used   [05]
+BL-2   to determine the resultant of two concurrent forces.
+CO-2; SO-2;   b.   [05]
+Illustrate the terms limiting friction and coefficient of friction.
+BL-2
+CO-3; SO-2;   c. Define centroid and centre of gravity. State their significance in engineering   [05]
+BL-2   mechanics.
+CO-3; SO-2;   d.   [05]
+List the parts of a simple wheel and axle and draw a neat labeled sketch.
+BL-2
+Q2
+CO- 3; SO-1;   a   Y
+BL-4   Find the centroid of the given shape   [12]
+with reference to the X and Y axis.
+X
+CO-1; SO-1;   b   Replace the force and couple moment system acting on the beam by an
+BL-4   equivalent resultant force. At which point this resultant force will act?
+[8]
+********** 1 **********
+--- page 2 ---
+Q3
+CO-1; SO-2;   a   (i) Define moment of a force. Explain its physical significance with   [8]
+BL-2   examples.
+(ii) State and prove Varignon’s theorem of moments.
+CO-2; SO-1;   b   [5]
+BL-4   A body is subjected to a force
+P. Find the value of P for
+which the body is on the
+verge of motion
+CO-2; SO-1;   c   [7]
+BL-4
+A 50 kg smooth sphere rests on the
+30o inclined plane as shown in
+figure. Calculate the contact forces
+at point A and point B.
+Q4
+CO-2; SO-1;   a   [10]
+BL-4   The figure shows an arrangement for
+just moving the block of weight W
+horizontally. An effort of 40 N just
+move the block. If the coefficient of
+static friction is 0.3 and the pulley is
+frictionless, find out the weight of the
+block
+b   [10]
+CO-1; SO-1;
+BL-4
+Find out the reaction forces at A and C for the given beam subjected to loads
+and moment.
+Q5
+CO- 3; SO-2;   a   Identify the frictional forces in a machine. State how friction affects the   [10]
+BL- 2   efficiency and reversibility of lifting machines.
+CO-1; SO-1;   b A concurrent force system has the below five forces –   [10]
+********** 2 **********
+--- page 3 ---
+BL-4   20 N force makes an angle of 30o with positive X axis in counter clockwise
+direction,
+25 N force makes an angle of 30o with positive Y axis, in clockwise direction,
+10 N force makes an angle of 60o with negative X axis in clockwise direction,
+15 N force acting along the negative X axis and
+10 N force makes an angle of 30o with negative X axis in counter clockwise
+direction.
+Find out the magnitude and direction of the resultant force.
+Q6
+CO-2; SO-1;   a   [10]
+BL-4
+Two smooth spheres of weight 1000 N
+and radius 25 cm are resting in a
+horizontal channel of width 90 cm as
+shown in figure. Find the reactions at the
+points of contact at A, B and C.
+CO-2; SO-2;   b A ladder rests against a rough vertical wall and a rough horizontal floor.   [4]
+BL-2   Draw the free body diagram (FBD) of the ladder, clearly showing all forces
+acting on it. Indicate the direction of friction at both the wall and the floor.
+c With the help of neat and clear diagrams, show the position of the centroid   [6]
+CO-3; SO-1;
+for the following plane figures: (i) rectangle, (ii) triangle, (iii) semicircle, (iv)
+BL-2
+quarter circle.
+Q7
+a   In a simple lifting machine an effort of 70 N lifts a load of 3010 N. when   [08]
+CO-3; SO-1;
+load moves 10 cm, effort moves 800 cm. find mechanical advantage, velocity
+BL-4
+ratio and efficiency.
+CO-1; SO-1;   b   [06]
+BL-4   Find out the algebraic sum of
+moment of all forces as shown in
+figure about point C. Consider AB
+= BC = CA = 2 m.
+CO-2; SO-2;   c   Explain different types of supports used in engineering structures. Describe   [06]
+BL-2   the nature of support reactions for roller, hinged, and fixed supports.
+********** 3 **********
 ````
 
 ## 2025-26 · Re-Exam · Sem 2 · paper 60e00cd6e931
@@ -2314,6 +2437,130 @@ the given instant. .
 [10]
 ````
 
+## 2024-25 · Final-Exam · Sem 2 · paper ca0214810e1a
+
+- Departments: Information Technology
+- Programmes: DIPLOMA IN INFORMATION TECHNOLOGY - 7075
+- Source: `00_Original_Downloads/2024/Semester II/67783__Final-Exam__context_fixed.zip :: DIPLOMA IN INFORMATION TECHNOLOGY - 7075/Engineering Mechanics/QP_Final-Exam_Engineering Mechanics(701ME0C026)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Apr 2025
+- Text: text (4 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: DIPLOMA IN COMPUTER ENGINEERING/DIPLOMA IN COMPUTER
+SCIENCE AND ENGINEERING/DIPLOMA IN INFORMATION
+TECHNOLOGY/DIPLOMA IN MECHANICAL ENGINEERING
+Year: I/Semester II(Exam Year: 2024-2025)
+Subject: Engineering Mechanics
+Date: 30 Apr 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. _1___ is compulsory.
+5. Out of remaining questions, attempt any __4___ questions.
+6. In all ___5_ questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly:   [20]
+CO-2; SO-1;   a.   State and explain Lami’s theorem.   [5]
+BL-2
+CO-2; SO-1;   b.   Define force and explain characteristics of forces.   [5]
+BL-1
+CO-1; SO-1;   c.   Define angle of friction and angle of repose with diagram.   [5]
+BL-1
+CO-3; SO-1;   d.   Explain simple lifting machines and sketch simple wheel and axle.   [5]
+BL-2
+Identify the minimum value of the force P to just move the system. The
+two blocks are placed on rough horizontal plane. Coefficient of friction
+between the block A and the plane is 0.3. That between B and the plane
+is 0.2. Also, show the tension in the string. Weight of A is 30 N and B is
+Q2 a.
+50 N.   [10]
+CO-2; SO-1;
+BL-3
+********** 1 **********
+--- page 2 ---
+The rectangular frame acted upon
+by a general coplanar force system
+shown in figure. Examine the
+Q2 b.
+position and magnitude of the
+CO-1; SO-1;   [10]
+resultant   force   acting on   the
+BL-4
+framework.   Discover   is   the
+moment of the force system about
+origin?
+Show the resultant of the given
+force system as shown in figure.
+Q3 a.
+[10]
+CO-1; SO-1;
+BL-2
+Solve the reactions at supports A and B of the loaded beam shown in
+figure.
+Q3 b.
+CO-2; SO-1;   [10]
+BL-3
+A circular roller of weight 1000N and radius
+20 cm hangs by a tie rod AB = 40 cm and
+Q4 a.   rests against a smooth vertical wall at C as
+CO-2; SO-1;   shown in figure. Analyse the tension in the   [10]
+BL-4
+tie rod AB and reactions at point C.
+Solve magnitude, direction and line of
+action of the resultant of forces acting on
+Q4 b.   a poll AB as shown in figure.
+CO-1; SO-1;   [10]
+BL-3
+********** 2 **********
+--- page 3 ---
+A flexible string ABCD at points B and C as shown in figure supports
+two equal loads of 2500 N. Discover the tensions in the portion AB, BC
+and CD of the string.
+Q5 a.
+CO-2; SO-1;   [10]
+BL-4
+An effort of 400 N is applied in a lifting machine. The distance moved by
+Q5 b.   effort is 4 m and that by load is 40 cm. If the efficiency of the lifting
+CO-3; SO-1;   machine is 70%, Show magnitude of: (i) load lifted by the machine, (ii) [10]
+BL-2
+mechanical advantage, (iii) velocity ratio.
+A block weighing 300 N is resting on an inclined plane making an angle
+Q6 a.
+of 30° with the horizonatal. If the pull applied parallel to the plane to [10]
+CO-3; SO-1;
+BL-4   move the block up is 240.93 N, analyse the co-efficient of friction.
+Identify   the   centroid   of   the
+following shaded areas shown in
+figure.
+Q6 b.
+CO-3; SO-1;   [10]
+BL-3
+Figure shows four concurrent
+force systems. Find magnitude
+Q7 a.   of ∑Fy.
+CO-1; SO-1;   [05]
+BL-1
+********** 3 **********
+--- page 4 ---
+Show free body diagram of the rigid
+body as shown in figure.
+Q7 b.
+CO-2; SO-1;   [05]
+BL-1
+Find the centroid of the
+plane areas shown in figure.
+Q7 c.
+CO-3; SO-1;   [10]
+BL-1
+********** 4 **********
+````
+
 ## 2024-25 · Final-Exam · Sem 2 · paper 08f886ce81e2
 
 - Departments: Civil
@@ -2993,6 +3240,128 @@ Sm »
 ry
 
 FRR A RK Re
+````
+
+## 2024-25 · Re-Exam · Sem 2 · paper 14f018071749
+
+- Departments: Computer Science
+- Programmes: DIPLOMA IN COMPUTER SCIENCE AND ENGINEERING - 7074
+- Source: `00_Original_Downloads/2024/Semester II/69329__Re-Exam__context_fixed.zip :: DIPLOMA IN COMPUTER SCIENCE AND ENGINEERING - 7074/Engineering Mechanics/QP_Re-Exam_Engineering Mechanics(701ME0C026)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Jul 2025
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: DIPLOMA IN COMPUTER ENGINEERING/DIPLOMA IN COMPUTER
+SCIENCE AND ENGINEERING/DIPLOMA IN INFORMATION
+TECHNOLOGY/DIPLOMA IN MECHANICAL ENGINEERING
+Year: I/Sem 2 Re-exam(Exam Year: 2024-2025)
+Subject: Engineering Mechanics
+Date: 03 Jul 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. _1___ is compulsory.
+5. Out of remaining questions, attempt any __4___ questions.
+6. In all ___5_ questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly:   [20]
+CO-2; SO-1;   a.   Define beam. What are different types of loading acting on a beam?   [5]
+BL-1
+CO-2; SO-1;   b.   List various Laws of Friction.   [5]
+BL-1
+CO-1; SO-1 ;   c.   Explain principle of transmissibility of force.   [5]
+BL-2
+CO-3 ; SO-1 ;   d.   Explain the condition of irreversibility of a machine.   [5]
+BL-2
+A block weighing 300 N is resting on an inclined plane making an angle of 30°
+Q2 a.
+with the horizontal. Identify magnitude of the pull applied parallel to the plane   [10]
+CO-2; SO-1;
+BL-3   to move the block up the plane if co-efficient of friction is 0.35.
+The rectangular frame acted
+upon by a general coplanar force
+system shown in figure. Examine
+Q2 b.
+the position and magnitude of the
+CO-1; SO-1;   [10]
+resultant force acting on the
+BL-4
+framework.   Also   discover
+moment of the force system
+about origin?
+********** 1 **********
+--- page 2 ---
+Show the resultant of the
+given force system as shown
+Q3 a.   in figure.
+[10]
+CO-1; SO-1;
+BL-2
+Solve   the   reactions   at
+Q3 b.
+supports A and B of the
+CO-2; SO-1;   [10]
+loaded beam shown in figure
+BL-3
+below.
+Examine the horizontal distance (x) to
+which 5 m long string holding weight of 3
+Q4 a.   kN can be pulled before the string breaks.
+CO-2; SO-1;   The string can withstand the maximum pull   [10]
+BL-4
+of 8 kN as shown in figure. Also analyze the
+required force F.
+Solve magnitude, direction and line of action of the resultant of four forces as
+shown in figure.
+Q4 b.
+CO-1; SO-1;   [10]
+BL-3
+Discover the tension in ropes AC and
+CB as shown in figure.
+Q5 a.
+CO-2; SO-1;   [10]
+BL-4
+Identify the law of machines in which an effort of 11.6 N raised a load of 50 N
+Q5 b.
+and an effort of 17.6 N raised a load of 80 N. Also, identify the effort required   [10]
+CO-3; SO-1;
+BL-2   to lift a load of 70 N. What is maximum mechanical advantage?
+********** 2 **********
+--- page 3 ---
+Weight of two blocks A and B are
+100 N and 150 N respectively.
+Q6 a.   Examine the smallest value of
+CO-3; SO-1;   [10]
+horizontal force F to just move the
+BL-4
+lower block B.
+Identify the centroid of the shaded
+plane areas shown in figure.
+Q6 b.
+CO-3; SO-1;   [10]
+BL-3
+Figure shows the three concurrent
+force systems. Find magnitude of
+Q7 a.
+CO-1; SO-1;   ∑Fx.   [05]
+BL-1
+Show free body diagram of the rigid
+body as shown in figure.
+Q7 b.
+CO-2; SO-1;   [05]
+BL-1
+Find the centroid of the following
+plane areas shown in figure.
+Q7 c.
+CO-3; SO-1;   [10]
+BL-1
+********** 3 **********
 ````
 
 ## 2024-25 · Re-Exam · Sem 2 · paper a46efa8301a0

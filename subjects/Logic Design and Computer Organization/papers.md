@@ -1,8 +1,100 @@
 # Logic Design and Computer Organization: question papers in full
 
-4 unique papers · 2023-24 to 2024-25 · Data Science, Common (all branches)
+6 unique papers · 2023-24 to 2024-25 · Data Science, Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2024-25 · Final-Exam · Sem 2 · paper ecbf6075a5ca
+
+- Departments: Data Science
+- Programmes: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE) - 7011
+- Source: `00_Original_Downloads/2024/Semester II/67783__Final-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE) - 7011/Logic Design and Computer Organization/QP_Final-Exam_Logic Design and Computer Organization(702CO0C053)_Semester II_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 06 May 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND
+ENGINEERING (DATA SCIENCE)
+Year: I/Semester II(Exam Year: 2024-2025)
+Subject: Logic Design and Computer Organization
+Date: 06 May 2025   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Question No. 1 is compulsory
+3. Out of remaining questions, attempt any 4 questions
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1
+Answer briefly:
+CO1   a.   Solve the following conversion,
+SO1   (A3D2)H = (?)10 = (?)2 = (?)8   [5]
+BL-3
+CO2   b. Make a use of K-map to minimize four variable logic function   [5]
+SO1   Y = f(A,B,C,D) = πM (1,3,5,7,9,11,14)
+BL-3
+CO2   c.   [5]
+SO1   Illustrate 8:1 multiplexer using two 4:1 multiplexer and one OR gate.
+BL-2
+CO3   d.   Compare SRAM and DRAM.   [5]
+SO1,2
+BL-4
+Q2   a.   What is the drawback of Half subtractor circuit? Design full subtractor
+CO2   [10]
+SO1   circuit with suitable diagram.
+BL-1,6
+CO3   b.   Discuss the role and functions of the Control Unit, Arithmetic Logic Unit,
+SO1   [10]
+BL6   and registers in a CPU.
+Q3   a.   Demonstrate the step-by-step process of non-restoring division for 13 ÷ 3   [10]
+CO3
+SO1   in binary.
+BL-2
+CO3   b.   Illustrate the architecture diagram of 8086 Processor and discuss bus   [10]
+SO1
+BL-2,6   interface unit components.
+Q4   a.   What is a shift register? Explain the working of a Serial Input - Serial   [10]
+CO2   Output (SISO) register with a timing diagram.
+SO1
+********** 1 **********
+--- page 2 ---
+BL-1,2
+CO3   b.   [10]
+SO1   What is IEEE 754 format. Develop (1259.125)10 into single precision
+BL-1,6   format and double precision format.
+Q5   a.
+CO3   What is Booth’s algorithm? Multiply (+7) and (+4) using Booth's   [10]
+SO1   algorithm. Consider the suitable count value.
+BL-1,5
+CO3   b.   Illustrate the memory hierarchy with a labeled diagram.
+SO1   Explain the difference between volatile and non-volatile memory .   [10]
+BL-2,3
+a.   Discuss the following types of data transfer used in computers
+Q6
+i.   Program-controlled I/O
+CO4   ii.   Interrupt-driven I/O   [10]
+SO1
+BL-6   iii.   Direct Memory Access (DMA).
+CO3   b.   [10]
+SO1   What is mean by addressing mode? List and discuss all the addressing
+modes of 8086 Processor with suitable examples.
+BL-1,6
+Q7   a.   [10]
+CO3   Develop an assembly language program to perform division operation on
+SO1   16-bit by 8 bit number. Store the result in data memory.
+BL-6
+b.   Solve the following expression using k-map & implement with minimum   [10]
+CO2   number of gates-
+SO1   Y = f(A,B,C,D) = m (1, 3, 5, 7, 8, 12) + d(9,11)
+BL-3
+********** 2 **********
+````
 
 ## 2024-25 · Re-Exam · Sem 2 · paper ac5e923c26f0
 

@@ -18418,6 +18418,802 @@ or (floor((k-1)/2)) if the root is at index 0. 13, 13, 3, 4, 12, 12,14, 10, 5,
 ********** 17 **********
 ````
 
+## 2024-25 · Final-Exam · Sem 3 · Answer key · paper 1be49ef61ba0
+
+- Departments: Artificial Intelligence
+- Programmes: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE) - 7012
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE) - 7012/Data Structures and Algorithms/ANS_Final-Exam_Data Structures and Algorithms(702CO1C001)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27 Nov 2024
+- Text: mixed (17 pages), mean OCR confidence 93.3
+
+````text
+Synoptic
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CE)/B. Tech (CS)/B. Tech
+(CSBS)/B. Tech (CSE - CS)/B. Tech - (CSEDS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech (IT)/B. Tech
+(MXTC)/MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (IT)
+Year: II/Semester III (Exam Year: 2024-2025)
+Subject: Data Structures and Algorithms
+Date: 27 Nov 2024   Time: 10:00 am - 01:00 pm (03:00 Hrs.)
+Max Marks: 100
+FINAL EXAMINATION(2024-2025)
+Instructions:
+1. This Synoptic paper contains 17 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question number 1 is compulsory
+5. Attempt any 4 questions out of remaining questions
+1.   This is a sample question group   20
+I. for each sub question 0.5 mark for answer and 0.5 for the explanation.   5
+1. Queue or linked List
+2. Stack
+3. Queue or priority queue or linked list
+4. Stack or linked list
+5. Stack.
+II. Inserting a new element at index 3 in an array of size 10 with 7 elements:   5
+Let's visualize this with a simple example. Assume we have an integer array with 7 elements:
+Copy
+Page 1 of 17
+--- page 2 ---
+Initial array: [10, 20, 30, 40, 50, 60, 70, _, _, _]
+Indices:   0 1 2 3 4 5 6 7 8 9
+To insert a new element (let's say 35) at index 3, we need to:
+a) Shift all elements from index 3 onwards to the right by one position. b) Insert the new
+element at index 3.
+Step-by-step process:
+1. Start from the last occupied position (index 6) and move each element one position to the
+right:
+Copy
+[10, 20, 30, 40, 50, 60, 70, 70, _, _]
+[10, 20, 30, 40, 50, 60, 60, 70, _, _]
+[10, 20, 30, 40, 50, 50, 60, 70, _, _]
+[10, 20, 30, 40, 40, 50, 60, 70, _, _]
+2. Once we reach index 3, stop shifting and insert the new element:
+Copy
+[10, 20, 30, 35, 40, 50, 60, 70, _, _]
+Final result:
+Copy
+[10, 20, 30, 35, 40, 50, 60, 70, _, _]
+0 1 2 3 4 5 6 7 8 9
+This operation has a time complexity of O(n) in the worst case, where n is the number of
+elements in the array, because we potentially need to shift all elements after the insertion point.
+III. 1. Adjacency Matrix (2.5 marks)   5
+Description: This is a 2D array where each cell [i][j] indicates whether there is an edge
+between vertex i and vertex j. For example, if there's an edge, the cell will have a value of 1 (or
+the weight of the edge), and if not, it will be 0.
+Advantages:
+Simple to implement and understand.
+Efficient for checking if an edge exists between two vertices (O(1) time).
+Disadvantages:
+Uses a lot of memory, especially for sparse graphs (O(V²) space).
+Inefficient for adding or removing edges.
+2. Adjacency List (2.5 marks)
+Description: This is an array of lists. Each index in the array represents a vertex, and the list at
+that index contains all the vertices it is connected to.
+Advantages:
+Page 2 of 17
+--- page 3 ---
+More memory-efficient for sparse graphs (O(V + E) space).
+Faster to iterate through neighbors of a vertex.
+Disadvantages:
+Checking for the existence of an edge between two vertices can take longer (O(V) time in the
+worst case).
+Slightly more complex to implement compared to an adjacency matrix.
+IV. Merge Sort is a divide-and-conquer algorithm that efficiently sorts a dataset by dividing it into   5
+smaller subarrays, sorting those subarrays, and then merging them back together. The
+algorithm consists of two main phases:
+1. Divide: Split the array into two halves until each subarray contains a single element.
+2. Conquer (Merge): Merge the subarrays back together in sorted order.
+Steps of the Merge Sort Algorithm
+1. If the array has one or zero elements, it is already sorted. Return it.
+2. Divide the array into two halves.
+3. Recursively apply merge sort to both halves.
+4. Merge the two sorted halves into a single sorted array.
+Steps Involved:
+1. Initial Array:
+[39, 9, 81, 45, 90, 27, 72, 18]
+2. Dividing the Array:
+Split into two halves:
+Left Half: [39, 9, 81, 45]
+Right Half: [90, 27, 72, 18]
+3. Further Division:
+Left Half: Split into [39, 9] and [81, 45].
+Right Half: Split into [90, 27] and [72, 18].
+Page 3 of 17
+--- page 4 ---
+4. Merging the Left Half:
+[39] and [9] merge to [9, 39].
+[81] and [45] merge to [45, 81].
+Merging both results: [9, 39, 45, 81].
+5. Merging the Right Half:
+[90] and [27] merge to [27, 90].
+[72] and [18] merge to [18, 72].
+Merging both results: [18, 27, 72, 90].
+6. Final Merge:
+Merge the sorted left half [9, 39, 45, 81] and the sorted right half [18, 27, 72, 90] to get
+the final sorted array:
+Sorted Array: [9, 18, 27, 39, 45, 72, 81, 90].
+2.   This is a sample question group (Attempt Any 2 Questions)   80
+1.   This is a sample question group   20
+1. Algorithm for enqueue operation: (5 marks)   10
+Let Q be the array of some specified size
+1. Initialize front=rear=-1
+2. Input the value to be inserted and assign to variable “data”
+3. If(rear>size)
+1. Display “Queue overflow”
+2. Exit
+4. if (front==-1)
+Page 4 of 17
+--- page 5 ---
+1. front=rear=0
+
+5. Else
+
+1. rear=rear+1
+
+6. Q[rear]=data
+exit
+
+Scenarios — 5 marks
+
+Page 5 of 17
+--- page 6 ---
+Front<rear
+2. function printLeafNodes(node):   10
+Begin
+if node is NULL:
+return
+if node.left is NULL and node.right is NULL:
+print(node.value).
+else:
+printLeafNodes(node.left).
+printLeafNodes(node.right).
+End
+Binary Search Tree for the given data [40, 50, 46, 29,19, 45, 25, 33, 46, 16, 47, 33, 10,
+34]
+Page 6 of 17
+--- page 7 ---
+printLeafNodes(node) will print the sequence as: 10, 25,34,45,47
+Allocate three marks for the algorithm, four marks for the construction of the binary
+search tree, and three marks for illustrating the working of the algorithm
+2.   This is a sample question group   20
+1. Algorithm find specific value in SLL (5 marks)   10
+Function: findValue(head, targetData)
+1. Set current to head.
+2. While current is not null:
+a. If current.data is equal to targetData:
+Print "Value found: targetData".
+Return true.
+b. Move current to current.next.
+3. If current is null:
+Print "Value not found".
+4. Return false.
+Algorithm to delete the last element in SLL (5 marks)
+Function: deleteLast(head)
+1. If head is null:
+Print "List is empty"
+return null
+2. If head.next == null:
+Set head = null (delete the only node).
+Page 7 of 17
+--- page 8 ---
+Return head
+3. Initialize current to head.
+While current->next->next != null:
+current=current->next
+4. Set current->next=null (this removes the last node)
+5. Return Head
+2. The final MST using prims algorithm is - 5 marks   10
+Cost of tree will be sum of all distances taken for MST = 4+8+2+4+2+1+7+9
+Write the steps for Prim's algorithm- 5 marks
+Algorithm:
+Step 1: Select a starting vertex
+Step 2: Repeat Steps 3 and 4 until there are fringe vertices
+Step 3: Select an edge e connecting the tree vertex and fringe vertex that has
+minimum weight
+Step 4: Add the selected edge and the vertex to the minimum spanning tree T [END
+OF LOOP]
+Step 5: EXIT
+3.   This is a sample question group   20
+1. Allocate three marks each for representing and explaining the array and linked list   10
+representations. Additionally, allocate two marks each for describing the advantages
+and disadvantages of each representation.
+Array Representation
+In an array representation of a binary tree, the tree nodes are stored in a sequential
+manner. The root node is placed at the first index, and the children of each node are
+placed at specific indices based on their parent’s index.
+Indexing Rules:
+Page 8 of 17
+--- page 9 ---
+The root node is at index 0.
+For any node at index (i):
+The left child is at index (2i + 1).
+The right child is at index (2i + 2).
+Advantages:
+1. Direct Access: Nodes can be accessed directly using their indices, which makes
+traversal operations faster.
+2. Memory Efficiency: For complete binary trees, arrays are memory efficient as there
+are no unused spaces.
+Disadvantages:
+1. Wasted Space: For sparse trees, many array elements may remain unused, leading
+to memory wastage.
+2. Fixed Size: The size of the array needs to be defined initially, which can be limiting
+if the tree grows beyond the allocated size.
+Linked List Representation
+In a linked list representation, each node contains data and pointers to its left and right
+children. This is typically implemented using a structure or class with three fields: data,
+left pointer, and right pointer.
+Advantages:
+1. Dynamic Size: The tree can grow and shrink dynamically as nodes are added or
+removed.
+2. Memory Utilization: Only the required memory is allocated, avoiding wastage.
+Disadvantages:
+1. Pointer Overhead: Each node requires additional memory for storing pointers,
+which can be significant for large trees.
+2. Traversal Complexity: Accessing nodes is slower compared to arrays as it requires
+following pointers.
+Summary
+Page 9 of 17
+--- page 10 ---
+Array Representation: Efficient for complete binary trees with direct access to
+nodes but can waste space for sparse trees and has a fixed size.
+Linked List Representation: Flexible and memory-efficient for dynamic trees but has
+pointer overhead and slower access times.
+2. Linear Probing with example- 5 marks   10
+Linear probing resolves collisions by checking the next available slot in the hash table
+sequentially until an empty slot is found. This method utilizes the formula:
+\text{New Index} = ( \text{Hash(key)} + i ) \mod \text{Table Size}
+New Index=(Hash(key)+i)modTable Size
+where ii is the number of attempts made to find an open slot (starting from 0).
+Quadratic Probing with example- 5 marks
+Quadratic probing is a collision resolution technique used in open addressing for hash
+tables. When a collision occurs (i.e., when two keys hash to the same index), quadratic
+probing finds the next available slot using a quadratic function.
+Key Concepts
+Hash Function: A function that computes an index for a given key.
+Collision: Occurs when two keys hash to the same index.
+Quadratic Probing Formula:
+\text{New Index} = ( \text{Hash(key)} + i^2 ) \mod \text{Table Size}
+New Index=(Hash(key)+i2)modTable Size
+Here, ii represents the number of attempts made to resolve the collision, starting
+from 00.
+How It Works
+1. Calculate the Initial Index: Use the hash function to determine the initial index for
+the key.
+2. Collision Detection: If the calculated index is already occupied, increment ii and
+calculate the next index using the quadratic probing formula.
+3. Repeat: Continue checking the next index until an empty slot is found.
+4. Insertion: Place the key in the found empty slot.
+4.   This is a sample question group   20
+Page 10 of 17
+--- page 11 ---
+1. [4 marks for construction of   10
+correct Binary Tree.]
+Postorder: 8,10,11,9,4,5,2,6,7,3,1. [3 marks for correct traversal]
+i. The height of the binary tree is 4. [1 Mark]
+Calculating the height:
+1. Height of Subtree rooted at 9:
+1. Both 10 and 11 are leaf nodes, so the height of 9 is 1 (1 edge to the leaves).
+2. Height of Subtree rooted at 4:
+1. The height of 8 is 0 (leaf node).
+2. The height of 9 is 1 (calculated above).
+3. So, the height of 4 is 2 (1 edge to 9, and 1 edge further down to its children).
+3. Height of Subtree rooted at 2:
+1. The height of 4 is 2 (calculated above).
+2. The height of 5 is 0 (leaf node).
+3. So, the height of 2 is 3 (2 edges to 4 and further down to its children).
+4. Height of Subtree rooted at 3:
+1. Both 6 and 7 are leaf nodes, so the height of 3 is 1.
+Page 11 of 17
+--- page 12 ---
+5. Height of the entire tree (root 1):
+The height of the left subtree (rooted at 2) is 3.
+The height of the right subtree (rooted at 3) is 1.
+So, the height of the tree is 4 (3 edges to the deepest node 11 via node 2 and 9).
+ii. Node '1' is at the root (Level 0), its depth is 0. because A is at Root Node i.e. Level
+0.
+[1 mark]
+iii. The degree of a node in a tree is defined as the number of children it has. [ 1 Mark]
+In the given tree:
+Node with value 9 has two children: Node 10 (left child) and Node 11 (right child).
+Thus, the degree of Node 9 is 2.
+2. Students have to draw simple queue and circular queue at each step.   10
+Page 12 of 17
+--- page 13 ---
+5.   This is a sample question group   20
+1. Algorithm/pseudocode   10
+def partition(array, low, high):
+pivot = array[high]
+i = low - 1
+for j in range(low, high):
+if array[j] <= pivot:
+i += 1
+array[i], array[j] = array[j], array[i]
+array[i+1], array[high] = array[high], array[i+1]
+return i+1
+def quicksort(array, low=0, high=None):
+Page 13 of 17
+--- page 14 ---
+if high is None:
+high = len(array) - 1
+if low < high:
+pivot_index = partition(array, low, high)
+quicksort(array, low, pivot_index-1)
+quicksort(array, pivot_index+1, high)
+my_array = [64, 34, 25, 12, 22, 11, 90, 5]
+quicksort(my_array)
+print("Sorted array:", my_array)
+2.   5
+3. Final Step of the BFS Computation   5
+Page 14 of 17
+--- page 15 ---
+BFS TREE
+6.   This is a sample question group   20
+1. Suitable Data Structure: Stack (2 Marks)   10
+Justification: A stack is the most suitable data structure for implementing an "Undo"
+feature in a text editor because:
+LIFO (Last In, First Out): Stacks follow the LIFO principle, meaning the most recent
+action can be undone first. This is precisely the behavior needed for undoing text edits,
+where the last change made is the first one to revert.
+Simple Operations: Stacks allow for efficient push and pop operations, which
+correspond to recording an action and undoing it, respectively.
+Dynamic Size: Using a linked list to implement the stack allows for a dynamic size,
+accommodating an arbitrary number of actions without worrying about pre-allocation
+or resizing issues associated with arrays.
+Page 15 of 17
+--- page 16 ---
+Algorithm for Action Edit: (4 marks)
+Function push(action)
+1. Create a newnode->action=action
+2. newnode->next=top
+3. top=newnode
+Algorithm for Action Undo: (4 marks)
+Function pop()
+1. if top == null
+print "No actions to undo"
+return null
+2. lastAction=top->action
+3. top=top->next
+return lastAction
+2. [2.5] marks for each real-word application explanation. (any two)   5
+Social Media Platforms: Data structures like graphs are essential in social media
+applications. Users can be represented as nodes, while connections (friends or
+followers) can be represented as edges. This allows for efficient management of
+relationships, enabling features like friend suggestions, news feed algorithms, and
+community detection.
+Databases: Data structures such as B-trees and hash tables are widely used in
+database management systems. B-trees help in maintaining sorted data and allow for
+efficient insertion, deletion, and search operations. Hash tables enable quick data
+retrieval by mapping keys to values, making them ideal for applications requiring fast
+access to data, like caching user sessions in web applications.
+Search Engines: Data structures like inverted indexes and tries are vital in search
+engines. An inverted index maps keywords to their locations in documents, allowing
+for fast and efficient full-text searches. Tries are used for autocomplete features,
+enabling quick suggestions as users type queries.
+Network Routing: Data structures such as priority queues and graphs are used in
+network routing algorithms. For example, Dijkstra’s algorithm utilizes a priority
+queue to find the shortest path between nodes in a network, which is crucial for
+efficient data transmission and reducing latency in communication networks.
+3. 1. Procedure isPalindrome(string)   5
+2.   Initialize an empty stack
+Page 16 of 17
+--- page 17 ---
+3. Set n = length of string
+4. #Step 1: Push all characters of the string onto the stack
+5.   for i = 0 to n-1 do
+6.   Push string[i] onto the stack
+7. end for
+8.   #Step 2: Pop characters from the stack and compare
+9.   for i = 0 to n-1 do
+10.   ch = Pop from stack
+11.   if ch != string[i] then
+12.   return "Not a Palindrome"
+13.   end if
+14. end for
+15. return "Palindrome"
+16. End Procedure
+Page 17 of 17
+````
+
+## 2024-25 · Final-Exam · Sem 3 · Answer key · paper d1bb8a0e05ca
+
+- Departments: Computer Engineering
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Final-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047/Data Structures and Algorithms/ANS_Final-Exam_Data Structures and Algorithms(702CO1C001)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27 Nov 2024
+- Text: mixed (17 pages), mean OCR confidence 93.3
+
+````text
+Synoptic
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CE)/B. Tech (CS)/B. Tech
+(CSBS)/B. Tech (CSE - CS)/B. Tech - (CSEDS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech (IT)/B. Tech
+(MXTC)/MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (IT)
+Year: II/Semester III (Exam Year: 2024-2025)
+Subject: Data Structures and Algorithms
+Date: 27 Nov 2024   Time: 10:00 am - 01:00 pm (03:00 Hrs.)
+Max Marks: 100
+FINAL EXAMINATION(2024-2025)
+Instructions:
+1. This Synoptic paper contains 17 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question number 1 is compulsory
+5. Attempt any 4 questions out of remaining questions
+1.   This is a sample question group   20
+I. for each sub question 0.5 mark for answer and 0.5 for the explanation.   5
+1. Queue or linked List
+2. Stack
+3. Queue or priority queue or linked list
+4. Stack or linked list
+5. Stack.
+II. Inserting a new element at index 3 in an array of size 10 with 7 elements:   5
+Let's visualize this with a simple example. Assume we have an integer array with 7 elements:
+Copy
+Page 1 of 17
+--- page 2 ---
+Initial array: [10, 20, 30, 40, 50, 60, 70, _, _, _]
+Indices:   0 1 2 3 4 5 6 7 8 9
+To insert a new element (let's say 35) at index 3, we need to:
+a) Shift all elements from index 3 onwards to the right by one position. b) Insert the new
+element at index 3.
+Step-by-step process:
+1. Start from the last occupied position (index 6) and move each element one position to the
+right:
+Copy
+[10, 20, 30, 40, 50, 60, 70, 70, _, _]
+[10, 20, 30, 40, 50, 60, 60, 70, _, _]
+[10, 20, 30, 40, 50, 50, 60, 70, _, _]
+[10, 20, 30, 40, 40, 50, 60, 70, _, _]
+2. Once we reach index 3, stop shifting and insert the new element:
+Copy
+[10, 20, 30, 35, 40, 50, 60, 70, _, _]
+Final result:
+Copy
+[10, 20, 30, 35, 40, 50, 60, 70, _, _]
+0 1 2 3 4 5 6 7 8 9
+This operation has a time complexity of O(n) in the worst case, where n is the number of
+elements in the array, because we potentially need to shift all elements after the insertion point.
+III. 1. Adjacency Matrix (2.5 marks)   5
+Description: This is a 2D array where each cell [i][j] indicates whether there is an edge
+between vertex i and vertex j. For example, if there's an edge, the cell will have a value of 1 (or
+the weight of the edge), and if not, it will be 0.
+Advantages:
+Simple to implement and understand.
+Efficient for checking if an edge exists between two vertices (O(1) time).
+Disadvantages:
+Uses a lot of memory, especially for sparse graphs (O(V²) space).
+Inefficient for adding or removing edges.
+2. Adjacency List (2.5 marks)
+Description: This is an array of lists. Each index in the array represents a vertex, and the list at
+that index contains all the vertices it is connected to.
+Advantages:
+Page 2 of 17
+--- page 3 ---
+More memory-efficient for sparse graphs (O(V + E) space).
+Faster to iterate through neighbors of a vertex.
+Disadvantages:
+Checking for the existence of an edge between two vertices can take longer (O(V) time in the
+worst case).
+Slightly more complex to implement compared to an adjacency matrix.
+IV. Merge Sort is a divide-and-conquer algorithm that efficiently sorts a dataset by dividing it into   5
+smaller subarrays, sorting those subarrays, and then merging them back together. The
+algorithm consists of two main phases:
+1. Divide: Split the array into two halves until each subarray contains a single element.
+2. Conquer (Merge): Merge the subarrays back together in sorted order.
+Steps of the Merge Sort Algorithm
+1. If the array has one or zero elements, it is already sorted. Return it.
+2. Divide the array into two halves.
+3. Recursively apply merge sort to both halves.
+4. Merge the two sorted halves into a single sorted array.
+Steps Involved:
+1. Initial Array:
+[39, 9, 81, 45, 90, 27, 72, 18]
+2. Dividing the Array:
+Split into two halves:
+Left Half: [39, 9, 81, 45]
+Right Half: [90, 27, 72, 18]
+3. Further Division:
+Left Half: Split into [39, 9] and [81, 45].
+Right Half: Split into [90, 27] and [72, 18].
+Page 3 of 17
+--- page 4 ---
+4. Merging the Left Half:
+[39] and [9] merge to [9, 39].
+[81] and [45] merge to [45, 81].
+Merging both results: [9, 39, 45, 81].
+5. Merging the Right Half:
+[90] and [27] merge to [27, 90].
+[72] and [18] merge to [18, 72].
+Merging both results: [18, 27, 72, 90].
+6. Final Merge:
+Merge the sorted left half [9, 39, 45, 81] and the sorted right half [18, 27, 72, 90] to get
+the final sorted array:
+Sorted Array: [9, 18, 27, 39, 45, 72, 81, 90].
+2.   This is a sample question group (Attempt Any 2 Questions)   80
+1.   This is a sample question group   20
+1. Algorithm for enqueue operation: (5 marks)   10
+Let Q be the array of some specified size
+1. Initialize front=rear=-1
+2. Input the value to be inserted and assign to variable “data”
+3. If(rear>size)
+1. Display “Queue overflow”
+2. Exit
+4. if (front==-1)
+Page 4 of 17
+--- page 5 ---
+1. front=rear=0
+
+5. Else
+
+1. rear=rear+1
+
+6. Q[rear]=data
+exit
+
+Scenarios — 5 marks
+
+Page 5 of 17
+--- page 6 ---
+Front<rear
+2. function printLeafNodes(node):   10
+Begin
+if node is NULL:
+return
+if node.left is NULL and node.right is NULL:
+print(node.value).
+else:
+printLeafNodes(node.left).
+printLeafNodes(node.right).
+End
+Binary Search Tree for the given data [40, 50, 46, 29,19, 45, 25, 33, 46, 16, 47, 33, 10,
+34]
+Page 6 of 17
+--- page 7 ---
+printLeafNodes(node) will print the sequence as: 10, 25,34,45,47
+Allocate three marks for the algorithm, four marks for the construction of the binary
+search tree, and three marks for illustrating the working of the algorithm
+2.   This is a sample question group   20
+1. Algorithm find specific value in SLL (5 marks)   10
+Function: findValue(head, targetData)
+1. Set current to head.
+2. While current is not null:
+a. If current.data is equal to targetData:
+Print "Value found: targetData".
+Return true.
+b. Move current to current.next.
+3. If current is null:
+Print "Value not found".
+4. Return false.
+Algorithm to delete the last element in SLL (5 marks)
+Function: deleteLast(head)
+1. If head is null:
+Print "List is empty"
+return null
+2. If head.next == null:
+Set head = null (delete the only node).
+Page 7 of 17
+--- page 8 ---
+Return head
+3. Initialize current to head.
+While current->next->next != null:
+current=current->next
+4. Set current->next=null (this removes the last node)
+5. Return Head
+2. The final MST using prims algorithm is - 5 marks   10
+Cost of tree will be sum of all distances taken for MST = 4+8+2+4+2+1+7+9
+Write the steps for Prim's algorithm- 5 marks
+Algorithm:
+Step 1: Select a starting vertex
+Step 2: Repeat Steps 3 and 4 until there are fringe vertices
+Step 3: Select an edge e connecting the tree vertex and fringe vertex that has
+minimum weight
+Step 4: Add the selected edge and the vertex to the minimum spanning tree T [END
+OF LOOP]
+Step 5: EXIT
+3.   This is a sample question group   20
+1. Allocate three marks each for representing and explaining the array and linked list   10
+representations. Additionally, allocate two marks each for describing the advantages
+and disadvantages of each representation.
+Array Representation
+In an array representation of a binary tree, the tree nodes are stored in a sequential
+manner. The root node is placed at the first index, and the children of each node are
+placed at specific indices based on their parent’s index.
+Indexing Rules:
+Page 8 of 17
+--- page 9 ---
+The root node is at index 0.
+For any node at index (i):
+The left child is at index (2i + 1).
+The right child is at index (2i + 2).
+Advantages:
+1. Direct Access: Nodes can be accessed directly using their indices, which makes
+traversal operations faster.
+2. Memory Efficiency: For complete binary trees, arrays are memory efficient as there
+are no unused spaces.
+Disadvantages:
+1. Wasted Space: For sparse trees, many array elements may remain unused, leading
+to memory wastage.
+2. Fixed Size: The size of the array needs to be defined initially, which can be limiting
+if the tree grows beyond the allocated size.
+Linked List Representation
+In a linked list representation, each node contains data and pointers to its left and right
+children. This is typically implemented using a structure or class with three fields: data,
+left pointer, and right pointer.
+Advantages:
+1. Dynamic Size: The tree can grow and shrink dynamically as nodes are added or
+removed.
+2. Memory Utilization: Only the required memory is allocated, avoiding wastage.
+Disadvantages:
+1. Pointer Overhead: Each node requires additional memory for storing pointers,
+which can be significant for large trees.
+2. Traversal Complexity: Accessing nodes is slower compared to arrays as it requires
+following pointers.
+Summary
+Page 9 of 17
+--- page 10 ---
+Array Representation: Efficient for complete binary trees with direct access to
+nodes but can waste space for sparse trees and has a fixed size.
+Linked List Representation: Flexible and memory-efficient for dynamic trees but has
+pointer overhead and slower access times.
+2. Linear Probing with example- 5 marks   10
+Linear probing resolves collisions by checking the next available slot in the hash table
+sequentially until an empty slot is found. This method utilizes the formula:
+\text{New Index} = ( \text{Hash(key)} + i ) \mod \text{Table Size}
+New Index=(Hash(key)+i)modTable Size
+where ii is the number of attempts made to find an open slot (starting from 0).
+Quadratic Probing with example- 5 marks
+Quadratic probing is a collision resolution technique used in open addressing for hash
+tables. When a collision occurs (i.e., when two keys hash to the same index), quadratic
+probing finds the next available slot using a quadratic function.
+Key Concepts
+Hash Function: A function that computes an index for a given key.
+Collision: Occurs when two keys hash to the same index.
+Quadratic Probing Formula:
+\text{New Index} = ( \text{Hash(key)} + i^2 ) \mod \text{Table Size}
+New Index=(Hash(key)+i2)modTable Size
+Here, ii represents the number of attempts made to resolve the collision, starting
+from 00.
+How It Works
+1. Calculate the Initial Index: Use the hash function to determine the initial index for
+the key.
+2. Collision Detection: If the calculated index is already occupied, increment ii and
+calculate the next index using the quadratic probing formula.
+3. Repeat: Continue checking the next index until an empty slot is found.
+4. Insertion: Place the key in the found empty slot.
+4.   This is a sample question group   20
+Page 10 of 17
+--- page 11 ---
+1. [4 marks for construction of   10
+correct Binary Tree.]
+Postorder: 8,10,11,9,4,5,2,6,7,3,1. [3 marks for correct traversal]
+i. The height of the binary tree is 4. [1 Mark]
+Calculating the height:
+1. Height of Subtree rooted at 9:
+1. Both 10 and 11 are leaf nodes, so the height of 9 is 1 (1 edge to the leaves).
+2. Height of Subtree rooted at 4:
+1. The height of 8 is 0 (leaf node).
+2. The height of 9 is 1 (calculated above).
+3. So, the height of 4 is 2 (1 edge to 9, and 1 edge further down to its children).
+3. Height of Subtree rooted at 2:
+1. The height of 4 is 2 (calculated above).
+2. The height of 5 is 0 (leaf node).
+3. So, the height of 2 is 3 (2 edges to 4 and further down to its children).
+4. Height of Subtree rooted at 3:
+1. Both 6 and 7 are leaf nodes, so the height of 3 is 1.
+Page 11 of 17
+--- page 12 ---
+5. Height of the entire tree (root 1):
+The height of the left subtree (rooted at 2) is 3.
+The height of the right subtree (rooted at 3) is 1.
+So, the height of the tree is 4 (3 edges to the deepest node 11 via node 2 and 9).
+ii. Node '1' is at the root (Level 0), its depth is 0. because A is at Root Node i.e. Level
+0.
+[1 mark]
+iii. The degree of a node in a tree is defined as the number of children it has. [ 1 Mark]
+In the given tree:
+Node with value 9 has two children: Node 10 (left child) and Node 11 (right child).
+Thus, the degree of Node 9 is 2.
+2. Students have to draw simple queue and circular queue at each step.   10
+Page 12 of 17
+--- page 13 ---
+5.   This is a sample question group   20
+1. Algorithm/pseudocode   10
+def partition(array, low, high):
+pivot = array[high]
+i = low - 1
+for j in range(low, high):
+if array[j] <= pivot:
+i += 1
+array[i], array[j] = array[j], array[i]
+array[i+1], array[high] = array[high], array[i+1]
+return i+1
+def quicksort(array, low=0, high=None):
+Page 13 of 17
+--- page 14 ---
+if high is None:
+high = len(array) - 1
+if low < high:
+pivot_index = partition(array, low, high)
+quicksort(array, low, pivot_index-1)
+quicksort(array, pivot_index+1, high)
+my_array = [64, 34, 25, 12, 22, 11, 90, 5]
+quicksort(my_array)
+print("Sorted array:", my_array)
+2.   5
+3. Final Step of the BFS Computation   5
+Page 14 of 17
+--- page 15 ---
+BFS TREE
+6.   This is a sample question group   20
+1. Suitable Data Structure: Stack (2 Marks)   10
+Justification: A stack is the most suitable data structure for implementing an "Undo"
+feature in a text editor because:
+LIFO (Last In, First Out): Stacks follow the LIFO principle, meaning the most recent
+action can be undone first. This is precisely the behavior needed for undoing text edits,
+where the last change made is the first one to revert.
+Simple Operations: Stacks allow for efficient push and pop operations, which
+correspond to recording an action and undoing it, respectively.
+Dynamic Size: Using a linked list to implement the stack allows for a dynamic size,
+accommodating an arbitrary number of actions without worrying about pre-allocation
+or resizing issues associated with arrays.
+Page 15 of 17
+--- page 16 ---
+Algorithm for Action Edit: (4 marks)
+Function push(action)
+1. Create a newnode->action=action
+2. newnode->next=top
+3. top=newnode
+Algorithm for Action Undo: (4 marks)
+Function pop()
+1. if top == null
+print "No actions to undo"
+return null
+2. lastAction=top->action
+3. top=top->next
+return lastAction
+2. [2.5] marks for each real-word application explanation. (any two)   5
+Social Media Platforms: Data structures like graphs are essential in social media
+applications. Users can be represented as nodes, while connections (friends or
+followers) can be represented as edges. This allows for efficient management of
+relationships, enabling features like friend suggestions, news feed algorithms, and
+community detection.
+Databases: Data structures such as B-trees and hash tables are widely used in
+database management systems. B-trees help in maintaining sorted data and allow for
+efficient insertion, deletion, and search operations. Hash tables enable quick data
+retrieval by mapping keys to values, making them ideal for applications requiring fast
+access to data, like caching user sessions in web applications.
+Search Engines: Data structures like inverted indexes and tries are vital in search
+engines. An inverted index maps keywords to their locations in documents, allowing
+for fast and efficient full-text searches. Tries are used for autocomplete features,
+enabling quick suggestions as users type queries.
+Network Routing: Data structures such as priority queues and graphs are used in
+network routing algorithms. For example, Dijkstra’s algorithm utilizes a priority
+queue to find the shortest path between nodes in a network, which is crucial for
+efficient data transmission and reducing latency in communication networks.
+3. 1. Procedure isPalindrome(string)   5
+2.   Initialize an empty stack
+Page 16 of 17
+--- page 17 ---
+3. Set n = length of string
+4. #Step 1: Push all characters of the string onto the stack
+5.   for i = 0 to n-1 do
+6.   Push string[i] onto the stack
+7. end for
+8.   #Step 2: Pop characters from the stack and compare
+9.   for i = 0 to n-1 do
+10.   ch = Pop from stack
+11.   if ch != string[i] then
+12.   return "Not a Palindrome"
+13.   end if
+14. end for
+15. return "Palindrome"
+16. End Procedure
+Page 17 of 17
+````
+
 ## 2024-25 · Final-Exam · Sem 1 · Answer key · paper 57de2d444bb4
 
 - Departments: Computer Applications (MCA)
@@ -24538,6 +25334,824 @@ Page 16 of 17
 14. end for
 15. return "Palindrome"
 16. End Procedure
+Page 17 of 17
+````
+
+## 2024-25 · Re-Exam · Sem 3 · Answer key · paper 836fb9ccd9ed
+
+- Departments: Computer Engineering
+- Programmes: BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) - 7002
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Re-Exam/BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) - 7002/Data Structures and Algorithms/ANS_Re-Exam_Data Structures and Algorithms(702CO1C001)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 15 Feb 2025
+- Text: text (17 pages)
+
+````text
+Synoptic
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CE)/B. Tech (CS)/B. Tech
+(CSBS)/B. Tech (CSE - CS)/B. Tech - (CSEDS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech (IT)/B. Tech
+(MXTC)/MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (IT)
+Year: II/Semester III (Exam Year: 2024-2025)
+Subject: Data Structures and Algorithms
+Date: 15 Feb 2025   Time: 10:00 am - 01:00 pm (03:00 Hrs.)
+Max Marks: 100
+RE EXAMINATION(2024-2025)
+Instructions:
+1. This Synoptic paper contains 17 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question number 1 is compulsory
+5. Attempt any 4 questions out of remaining questions
+1.   This is a sample question group   20
+I. Definition 1: mark Importance 4: marks   5
+A data structure is a specialized format for organizing, processing, retrieving and storing
+data.
+Data structures can offer many benefits to your computer programs, such as improving the
+efficiency and speed of your algorithms. By selecting the right data structure for your data
+and operations, you can reduce the time and space complexity of your code, making it run
+faster and use less memory. Additionally, data structures can enhance the readability and
+maintainability of your code by utilizing clear and consistent structures. This can help you
+avoid errors and bugs while making your code easier to understand and modify.
+Furthermore, abstract and modular data structures can facilitate the reuse and extension of
+your code, allowing you to create reusable components that can be used for different
+purposes and scenarios.
+II. Push, Pop algo (Marks:- 1.5, 1.5 marks)   5
+Page 1 of 17
+--- page 2 ---
+Final stack:- [10, 20, 40, , ] ← (TOP = 2)…..2M
+III. 1. Concept of Minimum Spanning Tree (MST) – (2 marks)   5
+A Minimum Spanning Tree (MST) is a tree that connects all the vertices in a graph using the
+smallest possible total edge weight. It is formed from an undirected, weighted graph and has no
+cycles.
+2. Difference between MST and a general spanning tree – (1.5 marks)
+A general spanning tree connects all vertices without any cycles but does not necessarily
+minimize the total edge weight. An MST, on the other hand, always has the smallest possible
+total edge weight among all spanning trees.
+3. Practical significance and real-world example – (1.5 marks)
+The MST is important in applications like network design, where the goal is to connect
+locations with the least cost. For example, an MST can help in laying out the most cost-
+efficient road network connecting cities.
+IV. Merge Sort Algorithm : Merge Sort is a divide-and-conquer sorting algorithm that works by   5
+recursively splitting an array into smaller subarrays, sorting those subarrays, and merging them
+back together in sorted order.
+Step 1: Initialize Pointers
+Set low to the first index (0).
+Set high to the last index (6).
+Step 2: Calculate Middle Index
+Calculate the middle index:
+mid = (low + high) / 2 = (0 + 6) / 2 = 3
+Step 3: Compare Middle Value with Target
+Compare the middle value (6) with the target (4):
+Since 6 is greater than 4, we will search in the lower half.
+Update high to mid - 1:
+high = mid - 1 = 3 - 1 = 2
+Page 2 of 17
+--- page 3 ---
+Step 4: Recalculate Middle Index
+Calculate the new middle index:
+mid = (low + high) / 2 = (0 + 2) / 2 = 1
+Value at mid is 4.
+Step 5: Compare Middle Value with Target Again
+Compare the middle value (4) with the target (4):
+Since 4 equals 4, we have found the target
+2.   This is a sample question group (Attempt Any 2 Questions)   80
+1.   This is a sample question group   20
+1. Concept of Priority queue, difference, real life scenario- 5 marks   10
+APQ, DPQ – 5 marks
+Concept of a Priority Queue: A priority queue is an abstract data type that is similar to
+a regular queue, but with an important distinction: each element in a priority queue has
+an associated priority. In a priority queue, elements with higher priority are served (or
+dequeued) before elements with lower priority, regardless of their order of insertion.
+Difference from a Regular Queue:
+a. Regular Queue: Follows the First-In-First-Out (FIFO) principle. The element that
+has been in the queue the longest is always the first to be dequeued.
+b. Priority Queue: The order of dequeuing is determined by the priority of the
+elements, not their order of arrival.
+c. Two types of priority queue:
+a. Ascending priority queue (APQ)
+b. Descending priority queue (DPQ)
+APQ:
+It is a collection of items into which items can be inserted arbitrarily and from which
+only the smallest item can be removed.
+Page 3 of 17
+--- page 4 ---
+If apq is an ascending priority queue, the operation pqinsert(apq,x) inserts element x
+into apq
+pqmindelete(apq) is the operation which will remove the minimum element from apq
+and returns its value.
+Once pqmindelete has been applied to retrieve the smallest element of an ascending
+priority queue, it can be applied again to retrieve the next smallest, and so on.
+Thus the operation successively retrieves elements of a priority queue in ascending
+order.
+DPQ:
+It is a collection of items into which items can be inserted arbitrarily and from which
+only the largest item can be removed.
+If dpq is an descending priority queue, the operation pqinsert(dpq,x) inserts element x
+into dpq
+pqmaxdelete(dpq) is the operation which will remove the largest element from dpq and
+returns its value.
+Once pqmaxdelete has been applied to retrieve the largest element of an descending
+priority queue, it can be applied again to retrieve the next largest, and so on.
+Thus the operation successively retrieves elements of a priority queue in descending
+order.
+2. function count_nodes(node)   10
+Begin
+if node is null:
+return 0
+else:
+return 1 + count_nodes(node.left) + count_nodes(node.right)
+End
+Page 4 of 17
+--- page 5 ---
+count_nodes(root) = 12
+Allocate three marks for the algorithm, four marks for the construction of the binary
+tree, and three marks for illustrating the working of the algorithm
+2.   This is a sample question group   20
+1. Algorithm for inserting a node at the beginning and end of a link list with algorithm- 7   10
+marks
+Comparison and justification- 3 marks
+Page 5 of 17
+--- page 6 ---
+2. Prim’s Algorithm and Kruskal’s Algorithm are used to solve the problem of traversing   10
+all the vertices of a graph with minimum cost. These algorithms are designed to find
+the Minimum Spanning Tree (MST) of a graph, which connects all vertices with the
+minimum possible total edge weight. Yes, it is possible to traverse all vertices with
+minimum cost if the graph is connected (i.e., there is a path between every pair of
+vertices). The goal is to find a Minimum Spanning Tree (MST), which ensures that all
+vertices are connected with the least possible edge weights.
+Which algorithm can be considered?
+Both Prim’s Algorithm and Kruskal’s Algorithm can be considered for this problem, as
+they both produce an MST. The choice of algorithm depends on the structure and
+representation of the graph. Prim’s Algorithm is typically better for dense graphs.
+Kruskal’s Algorithm is usually preferred for sparse graphs.
+Prim’s Algorithm: Prim’s algorithm builds the MST by starting from a single vertex
+and expanding the tree by adding the smallest edge that connects a new vertex to the
+already constructed tree. The steps of the algorithms are listed as
+1. Start from any arbitrary vertex.
+2. Select the edge with the smallest weight that connects a vertex in the tree to a vertex
+outside the tree.
+3. Repeat this process until all vertices are included in the tree.
+Prim's Algorithm is efficient for dense graphs because it builds the MST incrementally,
+focusing on vertices and their neighbouring edges. It ensures the minimum cost as it
+always picks the smallest available edge.
+Kruskal’s Algorithm: This algorithm sorts all the edges by weight and adds them to the
+MST in increasing order, as long as they do not form a cycle. The steps of the
+algorithms are listed as
+1. Sort all edges in non-decreasing order of weight.
+Page 6 of 17
+--- page 7 ---
+4. Add the smallest edge to the MST if it doesn’t form a cycle.
+5. Continue adding edges until all vertices are connected.
+Kruskal’s Algorithm is efficient for sparse graphs because it processes edges
+independently and only adds those that minimize the cost while avoiding cycles. This
+ensures that only the minimum necessary edges are used to connect all vertices.
+Justification with Proof
+The Minimum Spanning Tree (MST) guarantees that all vertices are connected with the
+minimum possible total edge weight. Both Prim’s and Kruskal’s algorithms ensure this
+by selecting the smallest edge that connects unconnected vertices (in Prim's) or avoids
+cycles (in Kruskal's). Both Prim’s and Kruskal’s algorithms are greedy algorithms,
+meaning they build the solution step by step, always choosing the locally optimal edge.
+This guarantees a globally optimal solution:
+Prim’s Algorithm builds the MST one edge at a time, ensuring that each new edge
+added results in the minimum possible weight at that step.
+Kruskal’s Algorithm sorts all edges by weight and always adds the smallest edge
+that maintains the tree structure without forming a cycle.
+In both algorithms, the final tree is guaranteed to connect all vertices with the
+minimum possible total weight, which is the definition of an MST. Therefore, the
+algorithms are justified in their ability to find the optimal solution to traverse all the
+vertices of the graph with the minimum cost.
+3.   This is a sample question group   20
+1. 01 Marks for explaining the meaning traversal and three marks each for explaining   10
+each traversal technique with example.
+Consider the following binary tree.
+Page 7 of 17
+--- page 8 ---
+In-order Traversal : In-order traversal visits nodes in the following order: Left
+Subtree, Root, Right Subtree.
+Steps:
+1. Start at the root (A).
+2. Traverse the left subtree of A (B).
+3. Traverse the left subtree of B (D) - visit D.
+4. Visit B.
+5. Traverse the right subtree of B (E) - visit E.
+6. Visit A.
+7. Traverse the right subtree of A (C).
+8. Traverse the left subtree of C (none).
+9. Visit C.
+10. Traverse the right subtree of C (F) - visit F.
+In-order Traversal: D, B, E, A, C, F
+Pre-order Traversal : Pre-order traversal visits nodes in the following order: Root, Left
+Subtree, Right Subtree.
+Steps:
+1. Start at the root (A) - visit A.
+2. Traverse the left subtree of A (B).
+3. Visit B.
+4. Traverse the left subtree of B (D) - visit D.
+5. Traverse the right subtree of B (E) - visit E.
+6. Traverse the right subtree of A (C).
+7. Visit C.
+8. Traverse the left subtree of C (none).
+Page 8 of 17
+--- page 9 ---
+9. Traverse the right subtree of C (F) - visit F.
+Pre-order Traversal: A, B, D, E, C, F
+Post-order Traversal : Post-order traversal visits nodes in the following order: Left
+Subtree, Right Subtree, Root.
+Steps:
+1. Start at the root (A).
+2. Traverse the left subtree of A (B).
+3. Traverse the left subtree of B (D) - visit D.
+4. Traverse the right subtree of B (E) - visit E.
+5. Visit B.
+6. Traverse the right subtree of A (C).
+7. Traverse the left subtree of C (none).
+8. Traverse the right subtree of C (F) - visit F.
+9. Visit C.
+10. Visit A.
+Post-order Traversal: D, E, B, F, C, A.
+2. Explain hash table and various hash function- 5 marks   10
+Show the each step of hash table entries for the given data set using linear probing
+12,45,67,88,27,78,20,62,36,55 (size=10)- 5 marks
+Explain hash table and various hash function
+Hash table is a data structure in which keys are mapped to array positions by a hash
+function. we map the keys to array locations or array indices. A value stored in a hash
+table can be searched in O(1) time by using a hash function which generates an address
+from the key (by producing the index of the array where the value is stored).
+Hash function
+The Modulo Division Hash Function is a straightforward and commonly used hashing
+technique for mapping keys to a hash table. It operates by dividing the key by the size
+of the hash table (usually denoted as 𝑚 m) and using the remainder as the hash value.
+Formula For a given key 𝑘 k and hash table size 𝑚 m, the hash function can be
+represented as: ℎ ( 𝑘 ) = 𝑘 m o d     𝑚 h(k)=kmodm.
+Buckets: The table is divided into "buckets," or slots, where values are stored.
+The Folding Hash Function is a hashing technique that divides a key into smaller parts,
+processes each part separately, and then combines these processed parts to get the hash
+value. This technique is particularly useful when working with long keys, like phone
+numbers or account numbers, because it spreads the effect of each part of the key
+across the final hash value, providing a more uniform distribution.
+Hash table
+Page 9 of 17
+--- page 10 ---
+4.   This is a sample question group   20
+1. a. Construct a Huffman tree for the given characters and their frequencies? Show all the   10
+steps involved in the construction process. [04 Marks]
+b. Generate the Huffman codes for each character and list them. [03 Marks]
+c. Calculate the average length of the Huffman codes. [03 Marks]
+The Huffman Tree for the given data is :
+The Huffman codes for the given data is summarized in the table below :
+Letter   Freq   Code   Bits
+E   120   0   1
+D   42   101   3
+L   42   110   3
+U   37   100   3
+C   32   1110   4
+M   24   11111   5
+K   7   111101   6
+Z   2   111100   6
+The average length is 2.56 bits.
+Average Length= (Total Weighted Length) / (Total Frequency)
+=(120 + 126 + 126 + 111 + 128 + 120 + 42 + 12 = 785 )/(7 + 2 + 120 + 42 + 24 + 37 +
+32 + 42)
+= 785 / 306 = 2.56 bits
+2. Reverse the Infix Expression   10
+X - T ^ ( H * G ) / F - E ) / D / C / B ) + A
+Page 10 of 17
+--- page 11 ---
+2. Convert Reversed Infix to Postfix
+Final Postfix Expression:
+X T H G * F / E - D C / B / + -
+3. Reverse the Postfix Expression
+- + / B / C D - E / F * G H T X
+5.   This is a sample question group   20
+1. Algorithm   10
+Page 11 of 17
+--- page 12 ---
+The steps of achieving the insertion sort are listed as follows -
+Step 1 - If the element is the first element, assume that it is already sorted. Return 1.
+Step2 - Pick the next element, and store it separately in a key.
+Step3 - Now, compare the key with all elements in the sorted array.
+Step 4 - If the element in the sorted array is smaller than the current element, then
+move to the next element. Else, shift greater elements in the array towards the right.
+Step 5 - Insert the value.
+Step 6 - Repeat until the array is sorted.
+Application
+Step-by-step Application on Array [8, 4, 3, 7, 6, 5, 2] (5 Marks)
+Initial array:
+8,4,3,7,6,5,28, 4, 3, 7, 6, 5, 28,4,3,7,6,5,2
+Step-by-Step Explanation:
+1. Pass 1 (i = 1, key = 4):
+Compare 4 with 8 (previous element).
+Since 4 < 8, move 8 one position to the right.
+Insert 4 in its correct position.
+Array after Pass 1:
+4,8,3,7,6,5,24, 8, 3, 7, 6, 5, 24,8,3,7,6,5,2
+2. Pass 2 (i = 2, key = 3):
+Compare 3 with 8 and 4.
+Since 3 < 8 and 3 < 4, move 8 and 4 to the right.
+Insert 3 in its correct position.
+Array after Pass 2:
+3,4,8,7,6,5,23, 4, 8, 7, 6, 5, 23,4,8,7,6,5,2
+3. Pass 3 (i = 3, key = 7):
+Compare 7 with 8.
+Since 7 < 8, move 8 one position to the right.
+Insert 7 in its correct position.
+Array after Pass 3:
+3,4,7,8,6,5,23, 4, 7, 8, 6, 5, 23,4,7,8,6,5,2
+4. Pass 4 (i = 4, key = 6):
+Compare 6 with 8, 7, and 4.
+Since 6 < 8 and 6 < 7, move 8 and 7 to the right.
+Insert 6 in its correct position.
+Page 12 of 17
+--- page 13 ---
+Array after Pass 4:
+3,4,6,7,8,5,23, 4, 6, 7, 8, 5, 23,4,6,7,8,5,2
+5. Pass 5 (i = 5, key = 5):
+Compare 5 with 8, 7, 6, and 4.
+Since 5 < 8, 5 < 7, and 5 < 6, move 8, 7, and 6 to the right.
+Insert 5 in its correct position.
+Array after Pass 5:
+3,4,5,6,7,8,23, 4, 5, 6, 7, 8, 23,4,5,6,7,8,2
+6. Pass 6 (i = 6, key = 2):
+Compare 2 with 8, 7, 6, 5, 4, and 3.
+Since 2 < 8, 2 < 7, 2 < 6, 2 < 5, 2 < 4, and 2 < 3, move all of these elements to the
+right.
+Insert 2 in its correct position.
+Array after Pass 6:
+2,3,4,5,6,7,82, 3, 4, 5, 6, 7, 82,3,4,5,6,7,8
+Final Sorted Array:
+2,3,4,5,6,7,82, 3, 4, 5, 6, 7, 82,3,4,5,6,7,8
+5
+Page 13 of 17
+--- page 14 ---
+2.   Consider any three point
+from advantages and 3 point from disdvantages
+3.   5
+The Dijkstra algorithm is applied to handle the shortest path problems. This algorithm is
+also applicable for the given graph. [1 Mark]
+The computation of the Dijkstra algorithm is given as
+Page 14 of 17
+--- page 15 ---
+The vertex traversing order is given as V(G): AàCàEàBàD   [2 Marks]
+[2 Marks]
+6.   This is a sample question group   20
+10
+1.   concat(Node* head1, Node* head2) {
+if (head1 == null)
+return head2;
+// Find the last node of the first list
+Node* curr = head1;
+while (curr->next != null) {
+curr = curr->next;
+}
+// Link the last node of the first list
+// to the head of the second list
+curr->next = head2;
+Page 15 of 17
+--- page 16 ---
+//print the list
+Node* curr = head1;
+while (curr != nullptr) {
+print curr->data;
+curr = curr->next;
+}
+}
+2. 1 mark for each analyzing factor   5
+Analyzing the performance of an algorithm typically involves:
+1. Identifying Input Size: Determine the size of the input data that affects the
+algorithm's execution.
+2. Measuring Time Complexity: Evaluate how the execution time of the algorithm
+changes as the input size grows, usually using Big O notation.
+3. Measuring Space Complexity: Assess how much memory the algorithm uses
+relative to the input size.
+4. Best, Worst, and Average Cases: Analyze the algorithm in different scenarios to
+understand its behavior under various conditions.
+5. Empirical Testing: Optionally, run the algorithm with different inputs and measure
+execution time and memory usage for practical insights.
+3. Formula for Column-Major Order Address Calculation   5
+The address of an element arr[i][j] can be calculated using the formula:
+Address(arr[i][j])=Base Address+Size of each element×(J-J 0 ×Number of rows+I-I 0 )
+Given Values
+Base Address = 1000
+Size of each element = 2 bytes
+Page 16 of 17
+--- page 17 ---
+Number of rows = 10 (since it's a 10x10 array)
+For the element arr[8][5]:
+Step-by-step Calculation
+1. Calculate the linear index:
+Index=4×10+7=40+7=47
+2. Calculate the address:
+Address(arr[8][5])=1000+2*47=1000+94=1094
+Page 17 of 17
+````
+
+## 2024-25 · Re-Exam · Sem 3 · Answer key · paper e74b276eed10
+
+- Departments: Data Science
+- Programmes: BACHELOR OF TECHNOLOGY COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE) - 7057
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Re-Exam/BACHELOR OF TECHNOLOGY COMPUTER SCIENCE AND ENGINEERING (DATA SCIENCE) - 7057/Data Structures and Algorithms/ANS_Re-Exam_Data Structures and Algorithms(702CO1C001)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 15 Feb 2025
+- Text: text (17 pages)
+
+````text
+Synoptic
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CE)/B. Tech (CS)/B. Tech
+(CSBS)/B. Tech (CSE - CS)/B. Tech - (CSEDS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech (IT)/B. Tech
+(MXTC)/MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (IT)
+Year: II/Semester III (Exam Year: 2024-2025)
+Subject: Data Structures and Algorithms
+Date: 15 Feb 2025   Time: 10:00 am - 01:00 pm (03:00 Hrs.)
+Max Marks: 100
+RE EXAMINATION(2024-2025)
+Instructions:
+1. This Synoptic paper contains 17 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question number 1 is compulsory
+5. Attempt any 4 questions out of remaining questions
+1.   This is a sample question group   20
+I. Definition 1: mark Importance 4: marks   5
+A data structure is a specialized format for organizing, processing, retrieving and storing
+data.
+Data structures can offer many benefits to your computer programs, such as improving the
+efficiency and speed of your algorithms. By selecting the right data structure for your data
+and operations, you can reduce the time and space complexity of your code, making it run
+faster and use less memory. Additionally, data structures can enhance the readability and
+maintainability of your code by utilizing clear and consistent structures. This can help you
+avoid errors and bugs while making your code easier to understand and modify.
+Furthermore, abstract and modular data structures can facilitate the reuse and extension of
+your code, allowing you to create reusable components that can be used for different
+purposes and scenarios.
+II. Push, Pop algo (Marks:- 1.5, 1.5 marks)   5
+Page 1 of 17
+--- page 2 ---
+Final stack:- [10, 20, 40, , ] ← (TOP = 2)…..2M
+III. 1. Concept of Minimum Spanning Tree (MST) – (2 marks)   5
+A Minimum Spanning Tree (MST) is a tree that connects all the vertices in a graph using the
+smallest possible total edge weight. It is formed from an undirected, weighted graph and has no
+cycles.
+2. Difference between MST and a general spanning tree – (1.5 marks)
+A general spanning tree connects all vertices without any cycles but does not necessarily
+minimize the total edge weight. An MST, on the other hand, always has the smallest possible
+total edge weight among all spanning trees.
+3. Practical significance and real-world example – (1.5 marks)
+The MST is important in applications like network design, where the goal is to connect
+locations with the least cost. For example, an MST can help in laying out the most cost-
+efficient road network connecting cities.
+IV. Merge Sort Algorithm : Merge Sort is a divide-and-conquer sorting algorithm that works by   5
+recursively splitting an array into smaller subarrays, sorting those subarrays, and merging them
+back together in sorted order.
+Step 1: Initialize Pointers
+Set low to the first index (0).
+Set high to the last index (6).
+Step 2: Calculate Middle Index
+Calculate the middle index:
+mid = (low + high) / 2 = (0 + 6) / 2 = 3
+Step 3: Compare Middle Value with Target
+Compare the middle value (6) with the target (4):
+Since 6 is greater than 4, we will search in the lower half.
+Update high to mid - 1:
+high = mid - 1 = 3 - 1 = 2
+Page 2 of 17
+--- page 3 ---
+Step 4: Recalculate Middle Index
+Calculate the new middle index:
+mid = (low + high) / 2 = (0 + 2) / 2 = 1
+Value at mid is 4.
+Step 5: Compare Middle Value with Target Again
+Compare the middle value (4) with the target (4):
+Since 4 equals 4, we have found the target
+2.   This is a sample question group (Attempt Any 2 Questions)   80
+1.   This is a sample question group   20
+1. Concept of Priority queue, difference, real life scenario- 5 marks   10
+APQ, DPQ – 5 marks
+Concept of a Priority Queue: A priority queue is an abstract data type that is similar to
+a regular queue, but with an important distinction: each element in a priority queue has
+an associated priority. In a priority queue, elements with higher priority are served (or
+dequeued) before elements with lower priority, regardless of their order of insertion.
+Difference from a Regular Queue:
+a. Regular Queue: Follows the First-In-First-Out (FIFO) principle. The element that
+has been in the queue the longest is always the first to be dequeued.
+b. Priority Queue: The order of dequeuing is determined by the priority of the
+elements, not their order of arrival.
+c. Two types of priority queue:
+a. Ascending priority queue (APQ)
+b. Descending priority queue (DPQ)
+APQ:
+It is a collection of items into which items can be inserted arbitrarily and from which
+only the smallest item can be removed.
+Page 3 of 17
+--- page 4 ---
+If apq is an ascending priority queue, the operation pqinsert(apq,x) inserts element x
+into apq
+pqmindelete(apq) is the operation which will remove the minimum element from apq
+and returns its value.
+Once pqmindelete has been applied to retrieve the smallest element of an ascending
+priority queue, it can be applied again to retrieve the next smallest, and so on.
+Thus the operation successively retrieves elements of a priority queue in ascending
+order.
+DPQ:
+It is a collection of items into which items can be inserted arbitrarily and from which
+only the largest item can be removed.
+If dpq is an descending priority queue, the operation pqinsert(dpq,x) inserts element x
+into dpq
+pqmaxdelete(dpq) is the operation which will remove the largest element from dpq and
+returns its value.
+Once pqmaxdelete has been applied to retrieve the largest element of an descending
+priority queue, it can be applied again to retrieve the next largest, and so on.
+Thus the operation successively retrieves elements of a priority queue in descending
+order.
+2. function count_nodes(node)   10
+Begin
+if node is null:
+return 0
+else:
+return 1 + count_nodes(node.left) + count_nodes(node.right)
+End
+Page 4 of 17
+--- page 5 ---
+count_nodes(root) = 12
+Allocate three marks for the algorithm, four marks for the construction of the binary
+tree, and three marks for illustrating the working of the algorithm
+2.   This is a sample question group   20
+1. Algorithm for inserting a node at the beginning and end of a link list with algorithm- 7   10
+marks
+Comparison and justification- 3 marks
+Page 5 of 17
+--- page 6 ---
+2. Prim’s Algorithm and Kruskal’s Algorithm are used to solve the problem of traversing   10
+all the vertices of a graph with minimum cost. These algorithms are designed to find
+the Minimum Spanning Tree (MST) of a graph, which connects all vertices with the
+minimum possible total edge weight. Yes, it is possible to traverse all vertices with
+minimum cost if the graph is connected (i.e., there is a path between every pair of
+vertices). The goal is to find a Minimum Spanning Tree (MST), which ensures that all
+vertices are connected with the least possible edge weights.
+Which algorithm can be considered?
+Both Prim’s Algorithm and Kruskal’s Algorithm can be considered for this problem, as
+they both produce an MST. The choice of algorithm depends on the structure and
+representation of the graph. Prim’s Algorithm is typically better for dense graphs.
+Kruskal’s Algorithm is usually preferred for sparse graphs.
+Prim’s Algorithm: Prim’s algorithm builds the MST by starting from a single vertex
+and expanding the tree by adding the smallest edge that connects a new vertex to the
+already constructed tree. The steps of the algorithms are listed as
+1. Start from any arbitrary vertex.
+2. Select the edge with the smallest weight that connects a vertex in the tree to a vertex
+outside the tree.
+3. Repeat this process until all vertices are included in the tree.
+Prim's Algorithm is efficient for dense graphs because it builds the MST incrementally,
+focusing on vertices and their neighbouring edges. It ensures the minimum cost as it
+always picks the smallest available edge.
+Kruskal’s Algorithm: This algorithm sorts all the edges by weight and adds them to the
+MST in increasing order, as long as they do not form a cycle. The steps of the
+algorithms are listed as
+1. Sort all edges in non-decreasing order of weight.
+Page 6 of 17
+--- page 7 ---
+4. Add the smallest edge to the MST if it doesn’t form a cycle.
+5. Continue adding edges until all vertices are connected.
+Kruskal’s Algorithm is efficient for sparse graphs because it processes edges
+independently and only adds those that minimize the cost while avoiding cycles. This
+ensures that only the minimum necessary edges are used to connect all vertices.
+Justification with Proof
+The Minimum Spanning Tree (MST) guarantees that all vertices are connected with the
+minimum possible total edge weight. Both Prim’s and Kruskal’s algorithms ensure this
+by selecting the smallest edge that connects unconnected vertices (in Prim's) or avoids
+cycles (in Kruskal's). Both Prim’s and Kruskal’s algorithms are greedy algorithms,
+meaning they build the solution step by step, always choosing the locally optimal edge.
+This guarantees a globally optimal solution:
+Prim’s Algorithm builds the MST one edge at a time, ensuring that each new edge
+added results in the minimum possible weight at that step.
+Kruskal’s Algorithm sorts all edges by weight and always adds the smallest edge
+that maintains the tree structure without forming a cycle.
+In both algorithms, the final tree is guaranteed to connect all vertices with the
+minimum possible total weight, which is the definition of an MST. Therefore, the
+algorithms are justified in their ability to find the optimal solution to traverse all the
+vertices of the graph with the minimum cost.
+3.   This is a sample question group   20
+1. 01 Marks for explaining the meaning traversal and three marks each for explaining   10
+each traversal technique with example.
+Consider the following binary tree.
+Page 7 of 17
+--- page 8 ---
+In-order Traversal : In-order traversal visits nodes in the following order: Left
+Subtree, Root, Right Subtree.
+Steps:
+1. Start at the root (A).
+2. Traverse the left subtree of A (B).
+3. Traverse the left subtree of B (D) - visit D.
+4. Visit B.
+5. Traverse the right subtree of B (E) - visit E.
+6. Visit A.
+7. Traverse the right subtree of A (C).
+8. Traverse the left subtree of C (none).
+9. Visit C.
+10. Traverse the right subtree of C (F) - visit F.
+In-order Traversal: D, B, E, A, C, F
+Pre-order Traversal : Pre-order traversal visits nodes in the following order: Root, Left
+Subtree, Right Subtree.
+Steps:
+1. Start at the root (A) - visit A.
+2. Traverse the left subtree of A (B).
+3. Visit B.
+4. Traverse the left subtree of B (D) - visit D.
+5. Traverse the right subtree of B (E) - visit E.
+6. Traverse the right subtree of A (C).
+7. Visit C.
+8. Traverse the left subtree of C (none).
+Page 8 of 17
+--- page 9 ---
+9. Traverse the right subtree of C (F) - visit F.
+Pre-order Traversal: A, B, D, E, C, F
+Post-order Traversal : Post-order traversal visits nodes in the following order: Left
+Subtree, Right Subtree, Root.
+Steps:
+1. Start at the root (A).
+2. Traverse the left subtree of A (B).
+3. Traverse the left subtree of B (D) - visit D.
+4. Traverse the right subtree of B (E) - visit E.
+5. Visit B.
+6. Traverse the right subtree of A (C).
+7. Traverse the left subtree of C (none).
+8. Traverse the right subtree of C (F) - visit F.
+9. Visit C.
+10. Visit A.
+Post-order Traversal: D, E, B, F, C, A.
+2. Explain hash table and various hash function- 5 marks   10
+Show the each step of hash table entries for the given data set using linear probing
+12,45,67,88,27,78,20,62,36,55 (size=10)- 5 marks
+Explain hash table and various hash function
+Hash table is a data structure in which keys are mapped to array positions by a hash
+function. we map the keys to array locations or array indices. A value stored in a hash
+table can be searched in O(1) time by using a hash function which generates an address
+from the key (by producing the index of the array where the value is stored).
+Hash function
+The Modulo Division Hash Function is a straightforward and commonly used hashing
+technique for mapping keys to a hash table. It operates by dividing the key by the size
+of the hash table (usually denoted as 𝑚 m) and using the remainder as the hash value.
+Formula For a given key 𝑘 k and hash table size 𝑚 m, the hash function can be
+represented as: ℎ ( 𝑘 ) = 𝑘 m o d     𝑚 h(k)=kmodm.
+Buckets: The table is divided into "buckets," or slots, where values are stored.
+The Folding Hash Function is a hashing technique that divides a key into smaller parts,
+processes each part separately, and then combines these processed parts to get the hash
+value. This technique is particularly useful when working with long keys, like phone
+numbers or account numbers, because it spreads the effect of each part of the key
+across the final hash value, providing a more uniform distribution.
+Hash table
+Page 9 of 17
+--- page 10 ---
+4.   This is a sample question group   20
+1. a. Construct a Huffman tree for the given characters and their frequencies? Show all the   10
+steps involved in the construction process. [04 Marks]
+b. Generate the Huffman codes for each character and list them. [03 Marks]
+c. Calculate the average length of the Huffman codes. [03 Marks]
+The Huffman Tree for the given data is :
+The Huffman codes for the given data is summarized in the table below :
+Letter   Freq   Code   Bits
+E   120   0   1
+D   42   101   3
+L   42   110   3
+U   37   100   3
+C   32   1110   4
+M   24   11111   5
+K   7   111101   6
+Z   2   111100   6
+The average length is 2.56 bits.
+Average Length= (Total Weighted Length) / (Total Frequency)
+=(120 + 126 + 126 + 111 + 128 + 120 + 42 + 12 = 785 )/(7 + 2 + 120 + 42 + 24 + 37 +
+32 + 42)
+= 785 / 306 = 2.56 bits
+2. Reverse the Infix Expression   10
+X - T ^ ( H * G ) / F - E ) / D / C / B ) + A
+Page 10 of 17
+--- page 11 ---
+2. Convert Reversed Infix to Postfix
+Final Postfix Expression:
+X T H G * F / E - D C / B / + -
+3. Reverse the Postfix Expression
+- + / B / C D - E / F * G H T X
+5.   This is a sample question group   20
+1. Algorithm   10
+Page 11 of 17
+--- page 12 ---
+The steps of achieving the insertion sort are listed as follows -
+Step 1 - If the element is the first element, assume that it is already sorted. Return 1.
+Step2 - Pick the next element, and store it separately in a key.
+Step3 - Now, compare the key with all elements in the sorted array.
+Step 4 - If the element in the sorted array is smaller than the current element, then
+move to the next element. Else, shift greater elements in the array towards the right.
+Step 5 - Insert the value.
+Step 6 - Repeat until the array is sorted.
+Application
+Step-by-step Application on Array [8, 4, 3, 7, 6, 5, 2] (5 Marks)
+Initial array:
+8,4,3,7,6,5,28, 4, 3, 7, 6, 5, 28,4,3,7,6,5,2
+Step-by-Step Explanation:
+1. Pass 1 (i = 1, key = 4):
+Compare 4 with 8 (previous element).
+Since 4 < 8, move 8 one position to the right.
+Insert 4 in its correct position.
+Array after Pass 1:
+4,8,3,7,6,5,24, 8, 3, 7, 6, 5, 24,8,3,7,6,5,2
+2. Pass 2 (i = 2, key = 3):
+Compare 3 with 8 and 4.
+Since 3 < 8 and 3 < 4, move 8 and 4 to the right.
+Insert 3 in its correct position.
+Array after Pass 2:
+3,4,8,7,6,5,23, 4, 8, 7, 6, 5, 23,4,8,7,6,5,2
+3. Pass 3 (i = 3, key = 7):
+Compare 7 with 8.
+Since 7 < 8, move 8 one position to the right.
+Insert 7 in its correct position.
+Array after Pass 3:
+3,4,7,8,6,5,23, 4, 7, 8, 6, 5, 23,4,7,8,6,5,2
+4. Pass 4 (i = 4, key = 6):
+Compare 6 with 8, 7, and 4.
+Since 6 < 8 and 6 < 7, move 8 and 7 to the right.
+Insert 6 in its correct position.
+Page 12 of 17
+--- page 13 ---
+Array after Pass 4:
+3,4,6,7,8,5,23, 4, 6, 7, 8, 5, 23,4,6,7,8,5,2
+5. Pass 5 (i = 5, key = 5):
+Compare 5 with 8, 7, 6, and 4.
+Since 5 < 8, 5 < 7, and 5 < 6, move 8, 7, and 6 to the right.
+Insert 5 in its correct position.
+Array after Pass 5:
+3,4,5,6,7,8,23, 4, 5, 6, 7, 8, 23,4,5,6,7,8,2
+6. Pass 6 (i = 6, key = 2):
+Compare 2 with 8, 7, 6, 5, 4, and 3.
+Since 2 < 8, 2 < 7, 2 < 6, 2 < 5, 2 < 4, and 2 < 3, move all of these elements to the
+right.
+Insert 2 in its correct position.
+Array after Pass 6:
+2,3,4,5,6,7,82, 3, 4, 5, 6, 7, 82,3,4,5,6,7,8
+Final Sorted Array:
+2,3,4,5,6,7,82, 3, 4, 5, 6, 7, 82,3,4,5,6,7,8
+5
+Page 13 of 17
+--- page 14 ---
+2.   Consider any three point
+from advantages and 3 point from disdvantages
+3.   5
+The Dijkstra algorithm is applied to handle the shortest path problems. This algorithm is
+also applicable for the given graph. [1 Mark]
+The computation of the Dijkstra algorithm is given as
+Page 14 of 17
+--- page 15 ---
+The vertex traversing order is given as V(G): AàCàEàBàD   [2 Marks]
+[2 Marks]
+6.   This is a sample question group   20
+10
+1.   concat(Node* head1, Node* head2) {
+if (head1 == null)
+return head2;
+// Find the last node of the first list
+Node* curr = head1;
+while (curr->next != null) {
+curr = curr->next;
+}
+// Link the last node of the first list
+// to the head of the second list
+curr->next = head2;
+Page 15 of 17
+--- page 16 ---
+//print the list
+Node* curr = head1;
+while (curr != nullptr) {
+print curr->data;
+curr = curr->next;
+}
+}
+2. 1 mark for each analyzing factor   5
+Analyzing the performance of an algorithm typically involves:
+1. Identifying Input Size: Determine the size of the input data that affects the
+algorithm's execution.
+2. Measuring Time Complexity: Evaluate how the execution time of the algorithm
+changes as the input size grows, usually using Big O notation.
+3. Measuring Space Complexity: Assess how much memory the algorithm uses
+relative to the input size.
+4. Best, Worst, and Average Cases: Analyze the algorithm in different scenarios to
+understand its behavior under various conditions.
+5. Empirical Testing: Optionally, run the algorithm with different inputs and measure
+execution time and memory usage for practical insights.
+3. Formula for Column-Major Order Address Calculation   5
+The address of an element arr[i][j] can be calculated using the formula:
+Address(arr[i][j])=Base Address+Size of each element×(J-J 0 ×Number of rows+I-I 0 )
+Given Values
+Base Address = 1000
+Size of each element = 2 bytes
+Page 16 of 17
+--- page 17 ---
+Number of rows = 10 (since it's a 10x10 array)
+For the element arr[8][5]:
+Step-by-step Calculation
+1. Calculate the linear index:
+Index=4×10+7=40+7=47
+2. Calculate the address:
+Address(arr[8][5])=1000+2*47=1000+94=1094
 Page 17 of 17
 ````
 

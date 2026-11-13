@@ -1,0 +1,288 @@
+# Cost and Management Accounting I: question papers in full
+
+4 unique papers · 2025-26 to 2025-26 · Commerce
+
+Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 1 · paper d479f696e189
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Management and Finance) - 45615
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce (Management and Finance) - 45615/Cost And Management Accounting I/QP_Final-Exam_Cost And Management Accounting I(NECMA102)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 15 Oct 2025
+- Text: mixed (3 pages), mean OCR confidence 94.0
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Commerce (Management and Finance)/Bachelor of
+Commerce(Management and Finance)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Cost And Management Accounting I
+Date: 15 Oct 2025   Time: 11:30 am - 01:30 pm (02:00 Hrs.)
+Max Marks: 60
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks.
+4. All Questions are compulsory.
+5. Use Of Only Simple Calculator is Allowed.
+6. Working Notes Should Form part of Answers.
+1.   15
+2.   15
+A.   8
+Page 1 of 3
+--- page 2 ---
+B.
+
+From the following particulars, prepare stock record by FIFO.
+
+Date Transactions Units Rate
+04-6-2017 Purchase 240 30
+17-6-2017 Purchase 260 28
+20-6-2017 Sale 250 35
+22-6-2017 Purchase 280 29
+25-6-2017 Sale 280 33
+28-6-2017 Sale 220 34
+30-6-2017 Purchase 300 26
+31-6-2017 Sale 290 35
+
+The stock on hand on Ist June, 2017 was 250 units @ 2 25 each.
+
+[The annual demand for an item is 12,800 units. The units cost is 324 and inventory
+carrying charges is 25% p.a. If the cost of one procurement is 7600, determine:
+(a)E.0.Q__(b) No. of orders per year (c) Time between two consecutive orders.
+
+Two workmen, ‘A’ and ‘B’, produce the same product using the same material. Their normal
+wage rate is also the same. ‘A’ is paid bonus according to the Rowan system, while ‘B’ is
+paid bonus according to the Halsey system. The time allowed to make the product is 50
+hours. ‘A’ takes 30 hours while ‘B’ takes 40 hours to complete the product. The factory
+overhead rate is = 5 per man-hour actually worked. The factory cost for the product for ‘A’
+is = 3,490 and for ‘B’ it is = 3,600.
+
+Required:
+
+a. COMPUTE the normal rate of wages;
+
+b. COMPUTE the cost of materials cost;
+
+Page 2 of 3
+
+15
+--- page 3 ---
+The management of B.R Ltd. is worried about their increasing employee turnover inthe factory
+and before analysing the causes and taking remedial steps; it wants to have an idea of the
+profit foregone as a result of employee turnover in the last year.
+
+Lastyear sales amounted to ¥ 83,03,300 and P/V ratio was 20 percent. The total number of actual
+hours worked by the direct employee force was 4.45 lakhs. The actual direct employee hours
+included 30,000 hours attributable to training new recruits, out of which half of the hours were
+unproductive. As a result of the delays by the Personnel Department in filling vacancies due to
+employee turnover, 1,00,000 potentially productive hours (excluding unproductive training
+hours) were lost.
+
+The costs incurred consequent on employee turnover revealed, on analysis, the following:
+
+Settlement cost due to leaving ¥ 43,820
+Recruitment costs % 26,740
+Selection costs % 12,750
+Training costs ¥ 30,490
+
+Assuming that the potential production lost as a consequence of employee turnover
+could have been sold at prevailing prices, FIND the profit foregone last year on
+account of employee turnover.
+
+Journalize the following transactions under the integral accounting system:
+
+Direct wages paid in cash 1,20.000
+Indirect wages paid in cash 60,000
+Purchases made in cash 30,000
+Purchases [credit] 5,80,000
+Stores issued against production order 5,50,000
+Works expenses incurred and paid in cash 1,10.000
+Works expenses allocated to jobs 1,60.000
+Administration expenses paid in cash 80,000
+Administration expenses allocated to jobs 96,000
+Finished goods transferred to warehouse 19,00,000
+And Also Required :
+
+A) Wages Ledger Control Account
+
+B) Factory Overhead Control Account
+
+C) Administrative Overhead Control Account
+D) Stores Ledger Control Account
+
+Page 3 of 3
+
+15
+````
+
+## 2025-26 · Re-Exam · Sem 1 · paper 3066df9afe68
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce (Management and Finance) - 45615
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Commerce (Management and Finance) - 45615/Cost And Management Accounting I/QP_Re-Exam_Cost And Management Accounting I(NECMA102)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 23 Jan 2026
+- Text: mixed (5 pages), mean OCR confidence 93.3
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.Com (M & F)
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Cost And Management Accounting I
+Date: 23 Jan 2026   Time: 11:00 am - 01:00 pm (02:00 Hrs.)
+Max Marks: 60
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 5 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks.
+4. All Questions are compulsory.
+5. Use Of Only Simple Calculator is Allowed.
+6. Working Notes Should Form part of Answers.
+1.   15
+Page 1 of 5
+--- page 2 ---
+Following information relate to a manufacturing concern for the year ended 31st March,
+
+2025:
+
+Material (opening) 2,28,000
+Raw Material (closing) 3,05,000
+Purchases of Raw Material 42,25,000
+Freight Inwards 1,00,000
+Direct wages paid 12,56,000
+Direct wages-outstanding at the end of the year 1,50,000
+Factory Overheads 20% of prime cost
+Work-in-progress (opening) 1,92,500
+Work-in-progress (closing) 1,40,700
+Administrative Overheads (related to production) 1,73,000
+Distribution Expenses 16 per unit
+Finished Stock (opening)-1217 Units 6,08,500
+Sale of scrap of material 8,000
+
+The firm produced 14000 units of output during the year. The stock of finished goods at
+the end of the year is valued at cost of production. The firm sold 14153 units at a price of
+618 per unit during the year.
+
+—)
+
+rrepare cost sheet of the firm.
+
+Page 2 of 5
+
+15
+--- page 3 ---
+Two components A and B are used as follows:
+Normal usage = 100 per week each
+
+Re-order quantity = A- 600; B-1,000
+Maximum usage = 150 per week each
+Minimum usage = 50 per week each
+
+Re-order period: A- 8 to 12 weeks; B - 4 to 8 weeks
+Emergency Period 6 Weeks
+
+Calculate for each component
+(a) Re-order level; (b) Minimum level; (c) Maximum level;
+(d) Average stock level & (f) Danger stock level.
+
+Ajay company buys its annual requirement of 1,44,000 units in six installments. Each ut
+costs 24 and the ordering cost is 100. The inventory carrying cost is estimated 420% of
+unit value. Find the total annual cost of the existing inventory policy.
+
+How much money can be saved by using E.O.Q?
+
+An article passes through five hand operations as follows:
+
+Operation No. Time per article Grade of worker | Wage rate per hour (2)
+1 15 minutes A 0.65
+2 25 minutes B 0.50
+3 10 minutes Cc 0.40
+4 30 minutes D 0.35
+5 20 minutes E 0.30
+
+The factory works 40 hours a week and the production target is 600 dozen per week. Prepare a
+statement showing for each operation and in total the number of operations required, the labour cost
+per dozen and the total labour cost per week to produce the total targeted output.
+
+Page 3 of 5
+
+15
+--- page 4 ---
+The management of A.K. Ltd. is concerned about the cost of employee turnover last year. The details are:
+e Sales = %92,00,000
+e P/V ratio = 25%
+e Actual direct employee hours worked = 5,00,000 hours
+e Training hours for new recruits = 40,000 hours (30% unproductive)
+
+e Potential productive hours lost due to delays in filling vacancies = 80,000 hours excluding training
+hours
+
+e Costs due to employee turnover:
+o Settlement = 2 50,000
+o Recruitment = = 30,000
+o Selection = = 15,000
+o Training = % 40,000
+
+Calculate the profit foregone due to employee turnover last year.
+
+Page 4 of 5
+
+15
+--- page 5 ---
+From the following data, write up various accounts as you envisage in the cost ledger
+and prepare a trial balance as on 31 March, 2023.
+
+Balance as on ist April, 2022:
+
+Particulars < (Thousand)
+
+Material Control 2.480
+
+Work in Progress 1,250
+Finished Goods 480
+Production Overhead 168
+
+Administration Overhead 240 (Cr.)
+
+Selling and Distribution Overhead 130
+
+General Ledger Control 4.268
+
+Transactions for the year ended 31st March, 2023:
+
+Materials: Purchase 9,602
+Issued to: Jobs 9,548
+
+Maintenance work 824
+Administration offices 68
+Selling Department 144
+Direct wages 2,986
+Indirect wage 1,300
+Carriage inward 168
+
+Production overhead:
+Incurred 4,864
+
+Absorbed 7,182
+Administration overheads:
+
+Incurred 1,480
+Allocated to production completed 1,058
+
+Allocated to sales 296
+Sales Overheads:
+Incurred 1,284
+
+Absorbed 1,640
+
+Finished goods produced 19,168
+Finished goods sold (at production cost) 19,546
+Sales Realization 24,860
+
+Page 5 of 5
+````

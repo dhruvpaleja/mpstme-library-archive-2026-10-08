@@ -1,6 +1,6 @@
 # Formal Language and Automata Theory: question papers in full
 
-10 unique papers · 2022-23 to 2025-26 · Data Science, Computer Science and Business Systems
+14 unique papers · 2022-23 to 2025-26 · Data Science, Computer Engineering, Computer Science and Business Systems
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -319,6 +319,135 @@ BL-2   [20]
 FC QI a iar
 ````
 
+## 2024-25 · Re-Exam · Sem 7 · paper 176e381612b8
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: COMPUTER/SEMESTER VII/Formal Language and Automata Theory/Formal_Lagugage_and_Automation_Theory_Batch_2022-23_Re_Exam_OaioagEnsh.pdf`
+- Printed on paper: max marks: 100
+- Text: ocr (4 pages), mean OCR confidence 83.0
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2024-2025
+Program: BTech Integrated Stream :Computer Year: IV Semester: VII
+
+Subject: Formal Language and Automata Theory Time: o8hrs (40:am to 4+ pm _)
+Date:_418 /02 /2025 . No. of Pages: "4
+Marks: 100
+
+Re-Examination (Batch 2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No._1____ is compulsory.
+
+2) Out of remaining questions, attempt any _4 questions.
+3)Inall___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql Answer Briefly: [20]
+CO-3 |a Define DFA with suitable example. [5]
+SO-1,2
+BL-1
+CO-2 |b G be the grammar [5]
+SO-1 S— aB| bA
+BL-3 A>a |aS |bAA
+B>b | bS |aBB
+For the string aaabbabbba, Find
+a. Leftmost Derivation.
+b. Rightmost Derivation
+CO-l | ¢ Define the following: [5]
+SO-1 i) Symbol
+BL-1 ii) Alphabet
+iii) Language
+iv) String
+v) Grammar
+Co- d State the difference between PDA and FSM [5]
+28
+--- page 2 ---
+SO-1,2
+
+BL-1
+Q2
+Co- a | Construct a Turing Machine for the language L = {0"1"2"} where n=1. Write the simulation | [10]
+2,3 for the string “001122”.
+SO-1,2
+BL-3
+COo- b Convert the following Grammar into its equivalent GNF: [10]
+2,3
+SO-1,2 S> AB
+BL-4 A> BS/b
+B> SA/a
+Q3.
+COo- a Construct a Push Down Automata that accepts all even length palindrome strings over [10]
+2,3 >= {a,b}. Write the simulation for the string “abba”
+SO-1,2
+BL-3
+co-3 |b | Design TM to accept the language consisting of equal number of 0’s and 1’s. Simulate the | [10]
+SO-1,2 operation for 110100
+BL-6
+Q4
+CO- a Convert The following Grammar to CNF: [10]
+2,3 S > AACD
+SO-1,2 A> aAb/€
+BL-3 CDaC/a
+D > aDa/ bDb/€
+Co- b | Construct a TM accepting language L={ww"| w is in {a,b}*} [10]
+2,3
+SO-1,2
+BL-3
+Q5
+CO-3 |a_ | Minimize the given below DFA, where )={0,1} [10]
+-SO-1,2 0,1
+BL-3
+CO-3 |b | Convert the following Mealy machine into equivalent Moore machine [10]
+SO-1,2
+--- page 3 ---
+BL-2 a/1 a/1
+
+_a b/1
+ee Va
+Pe (
+(Xan 7 ap a,
+yw a ae gs
+ets exw, ee
+ee .
+b/1
+
+Q6
+CO-3 |a | Consider the DFA given below. Apply Arden’s theorem and obtain a regular expression R | [10]
+SO-1,2
+BL-3 a b
+
+“™\
+
+a es
+NN
+
+Co- b | Design a PDA for accepting a language {a"b™ | n>=1}. Show the simulation for “abb” [10]
+253
+SO-1,2
+BIL-6
+Q7 Write short note on : [5]*4
+Co-
+2,3 1) NFA and epsilon NFA
+SO-1,2 2) Closure properties of Regular Language
+BL-2 3) Chomsky Hierarchy
+
+4) Halting Problem
+--- page 4 ---
+
+````
+
 ## 2024-25 · Re-Exam · Sem 6 · paper 993a6cd8c99c
 
 - Departments: Data Science
@@ -509,6 +638,146 @@ sei b. Give the difference between LBA and DFA. Identify the type of given gramm
 SA >B/A/aa; B>b; ADa
 ````
 
+## 2022-23 · Final-Exam · Sem 7 · paper ad7c0dafc37d
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: COMPUTER/SEMESTER VII/Formal Language and Automata Theory/Formal_Language_and_Automata_Theory_Batch_2022_Final0001_QxmwSXd2wz.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 17 November 2022
+- Text: ocr (4 pages), mean OCR confidence 84.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS if \
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING / © IN
+
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+S J
+
+Academic Year: 2022-23 ——S
+Programme: B. Tech Integrated (Computer) _ Year: IV Semester: VII
+Subject: Formal Language and Automata Theory .
+Marks: 100. -
+Date: 17 November 2022 Time: 10.00 am - 1.00 pm -
+
+Durations: 3 (Hrs) .~
+
+No. of Pages: ott
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi .
+Answer briefly: [20]
+a. Write the CFGs generating the following languages:
+ae (1) L1 = {(bdb)? c®| n> 0} [5]
+; (2) L2 = {a" b™ 2" | n, m> 0}
+b. Construct regular Expression for the language
+(1) All String that contains & = {0,1} and has even number of 0’s.
+Co- 1; (2) All Strings that represent the set of all a’s and b’s containing at [5]
+BL- II least one combination of double letters.
+a * c. Compare Post Machine and Push down Automata [5]
+d. Design an FSM that reads strings made up of letters in the word
+a ‘POSTER’ and recognizes those strings that contain the word ‘POT' as [5]
+a substring. =
+Al
+--- page 2 ---
+Explain Normal Forms of Grammar. Simplify the given grammar G.
+G:[ {S,A,B,C,D}, {a,b}, P, {S} ]
+
+Q2 S > ABaC
+CO-3; A>BC . |
+BL- II : BOb/€ |
+C>D/E€
+DMa
+b) Construct the Mealy and Moore Machine for the following processes,
+Q “For input from (0+1)*, If inputs end in 101, the output is x, if the
+CO- 2; input ends in 110, the output is y; otherwise the output is z”. [10]
+BL- III
+a Define Deterministic Finite Automata.
+Construct a minimum state automaton for the following state transition
+diagram.
+Q3
+CO- 2; [10]
+BL- III
+b) Construct a Non-Deterministic Push Down Automata for the language
+03 over )={a,b} such that the strings are in the form WWE. Show the
+simulation for the string “bbbb”.
+CO- 4; [10] os
+BL- HI
+--- page 3 ---
+Q4 a) Design a Turing Machine for Language L = WCW. Show the
+
+CO- 4; simulation for the string “abaCaba” [10]
+
+BL- VI
+
+Q4 b) Explain Chomsky Hierarchy in detail with diagram and suitable
+CO- 1; examples for each type. [10]
+BL- I
+
+a) Consider the following NFA with €-transitions. Assume ‘p’ to be the
+
+initial state and ‘r’ as the final state.
+
+Ee a b c
+
+os Plo | & | @|o a0)
+CO- 2;
+BL-V q| {p} | ta} | ft} | o
+
+1) Compute the €-closure of each state
+
+2) Convert the automaton to its equivalent DFA
+Q5 b)
+CO- 4; Design and explain a post machine for Language L={a" b'c"/n>=1}. [10]
+BL- V
+
+a) Convert the following grammar into GNF:
+
+G:[ {S,A,B} , {a,b} , S, P}
+26 P: [10]
+CO- 3;
+BL-IV S>AB
+
+A> BS/a
+
+B>SA/b
+Q6 b) , . casi
+
+State Arden’s Theorem. Construct a regular Expression, corresponding [10]
+ae to the state transition diagram shown below, using Arden’s Theorem.
+
+4
+--- page 4 ---
+Write short notes on (ANY FOUR)
+a) Closure properties of Regular Language
+b) Halting Problem ,
+aa? c) Solvable, Semi-Solvable and Unsolvable Problem
+CO- 4; ee atents . . [5*4=20]
+BL a d) Limitations of Finite State Machine }
+
+e) Pumping Lemma for Regular Language
+
+4
+````
+
 ## 2022-23 · Final-Exam · Sem 3 · paper 04d3a5180844
 
 - Departments: Computer Science and Business Systems
@@ -601,6 +870,271 @@ oe b. Draw a DFA for the language accepting strings ending with ‘01’ over in
 BL-2 alphabets }={0, 1}. Write tuples, sample strings, and transition function.
 
 ae
+````
+
+## 2022-23 · Re-Exam · Sem 7 · paper fd85ec0709f8
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: COMPUTER/SEMESTER VII/Formal Language and Automata Theory/Formal_Language_and_Automata_Theory_Batch_2022-23_Re_Exa0001_iixHFyycLW.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27 January 2023
+- Text: ocr (4 pages), mean OCR confidence 88.7
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program: B. Tech Integrated (Computer) - Year: IV “ Semester : VII “
+
+AcademicY ear: 2022-2023
+
+Subject: Formal Language and Automata Theory -
+Marks: 100
+
+Date : 27 January 2023 - Time: 02.00 PM - 05.00 PM
+Durations: 3 (Hrs)
+
+No. of Pages: 4
+Re-Examination (2022-23)
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+1) Question No. | is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+Ql .
+Answer briefly: [20]
+a. Consider the following grammar [(S,C) , (i,b,t,e,a,j) , P., S J:
+CO- 3: S > iCtS | iCtSeS | a [5]
+BL- III CDbij
+Derive the string “ijtibtaeaea” using leftmost and rightmost derivation.
+b. Construct regular Expression for —
+a) A\ll strings containing even number of a’s followed by odd
+om | CO-1; number of b’s. [5]
+BL- III b) All strings of a’s and b’s without any combination of double
+letters.
+a : Ge Compare Finite state machine and Push down Automata {5]
+d. Design an FSM that reads strings made up of letters in the word
+. =e “CHARIOT? and recognizes those strings that contain the word ‘CAT' [5]
+
+as a substring.
+
+uy
+--- page 2 ---
+a)
+Explain Normal Forms of Grammar. Convert the following Context
+
+Free Grammar into its equivalent Chomsky Normal Form:
+
+Q2 S > aAB 0)
+1
+CO- 3; A> aAa/€
+BL- I
+A> bb/B
+Boa
+b) Compare Moore and Mealy Machine.
+Convert the following Mealy machine to its equivalent Moore
+machine. [Show the State transition diagram, State Transition table of
+Moore machine and simulation]
+Q2
+Next State
+Co- 2; Present State a b [10]
+BL-IV State o/P State o/P
+a an 1 bed oO
+a qs 1 as 1
+qs cr 1 as 1
+a as ° a 1
+a)
+Define Finite Automata.
+Construct a minimum state automaton for the following state transition
+diagram.
+Q3
+CO-2; [a]
+BL- VI
+--- page 3 ---
+Q3 b) Construct a Push Down Automata for the language over )'={a,b} such
+
+CO- 4; that number of (a) is less than number of (b). Show the simulation for [10]
+BL- Ill string “abbab”.
+Q4 a) F F P _ R
+
+Design a Turing Machine for Language L = WW where WE {a,b}*. 0]
+CO- 4; [1
+BL- VI Show the simulation for string “abaaba”.
+Q4 b) Explain Chomsky Hierarchy in detail with diagram and suitable
+CO-1; examples. [10]
+BL- 1
+
+a) Construct equivalent Minimized DFA for the following given €-NFA.
+
+Q5
+CO- 2; [10]
+BL- II
+Q5 b)
+CO- 4; Design and Explain a post machine for well formedness of parenthesis. [10]
+BL- I
+a) Define Grammar.
+Q6 Write a CFG that will generate the language:
+CO- 3; L= {WCW W € (a, b)*, and WR is the reverse of W} [10]
+BL-I Using this grammar, show the leftmost derivation, rightmost
+derivation, and derivation tree for the input string ‘ababCbaba’.
+b) Construct a regular Expression, corresponding to the state transition
+diagram shown below, using Arden’s Theorem.
+Q6
+CO- 2; [10]
+BL- Il
+--- page 4 ---
+Q7
+
+CO- 4;
+BL- I
+
+Write short notes on (ANY FOUR)
+a) Closure properties of Context Free Language
+b) Halting Problem
+c) Recursive and Recursively Enumerable Language
+d) Elements of Push Down automata
+
+e) Pumping Lemma for Regular Language
+
+[5*4=20]
+
+>
+````
+
+## 2022-23 · Re-Exam · Sem 7 · paper 431e71f89065
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/4122__4th YEAR.zip :: COMPUTER/SEMESTER VII/Formal Language and Automata Theory/Formal_Language_and_Automata_Theory_Batch_2022-23_Re_Exa0002_QUML27fRf9.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 12/06 /23
+- Text: ocr (4 pages), mean OCR confidence 87.2
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2022-2023
+
+Program: B.Tech Integrated Stream : Computer Year: IV Semester: VII. ,
+Subject: Formal Language and Automata Theory Time: 3 hrs to 2:00 pm)
+
+Date: 12/06 /23 No. of Pa es . MP.
+Marks: 100 eA LIBR A-
+
+Special Re- Examination SoS
+
+SS
+LE NERS
+Instructions: Candidates should read carefully the instructions printed on the question paper snianme oor
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+> 3) In all 5 questions to be attempted.
+
+, 4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql .
+Answer briefly: [20]
+Define the following terms in the context of automata theory:
+i. Symbol
+ii. Alphabet
+CO-1; fg 7 [5]
+BL- 1 iii. String
+iv. Language
+v. Grammar
+Construct a DFA that accepts a language of all strings over {0, 1} that end
+C02; Ty p guag g {0, 1} [5]
+BL-3 with '01'.
+— ; c. Compare Type 2 and Type 3 Grammar. [5]
+pins d. Define Push down Automata. [5]
+(a) Convert the following English statement into a regular expression:
+2
+Q 1. "A language containing strings that start with 'ab' followed by any
+CO-I: a. [10]
+BL-2 number of ‘a's and end with 'b' where 2 ={a,b}."
+--- page 2 ---
+2."A aa containing strings that start with either 'aa' or 'bb', followed
+by any number of ‘a's or 'b's where 2 ={a,b}."
+
+3. "A language consisting of strings that contain 'abc' as a substring where
+x ={a,b,c}."
+
+4. "A language containing strings that start with 'a', followed by any
+
+number of b's, and end with 'c' where © ={a,b,c}."
+
+(b) Express the regular expression (a|b)*abb in plain English.
+
+Convert the given NFA to its equivalent DFA.
+
+Q2°
+CO-2; b. [10]
+BL-3
+
+1, Explain Chomsky Normal Form (CNF).
+
+2. Convert the given grammar to CNF, where the non-terminals are
+Q3 {S,A,B} and terminals are {a,b}
+a a. S>aBIbA ; [10]
+BL-3 A>alaS|bAA
+
+B>b|bS|aBB
+Q3 Construct a PDA that accepts the language over 2 = {a, b}, and is defined
+CO-4; |B. | as: L= {a%®|n=0,1,2...}. [10]
+BL- 6 Simulate the working of this PDA for the input - aaabbb
+Q4 a. Convert the given Mealy Machine to equivalent Moore Machine [10]
+--- page 3 ---
+CO-2;
+
+BL-3
+1. Define Grammar.
+2. Simplify the following grammar, where S is the start symbol.
+a 77 S > 0A0/1B1/BB [10]
+OBL-5 iii
+BOS/A
+C > S/ epsilon
+Define Finite Automata. Minimize the given Finite Automata.
+Q5
+CO-1; a. [10]
+BL- 3
+1. Define Context Free Grammar. Explain the components of a CFG
+including terminals, non-terminals, production rules, and start symbol.
+Bl Q5 2. Prove using leftmost and rightmost derivation, that the string ‘aabbb’ is
+CO- 3; db. a member of L(G), where G is defined as: [10]
+BL-5 S> XY
+XD YY{a
+Y>xXyY|b
+Os Convert the given Finite Automata to Regular Expression using Arden’s
+ae * Theorem. 0]
+--- page 4 ---
+Q6 Construct Turing machine accepts the language over X = {a, b, c}, and is
+
+CO-4; b. defined as: L= {a"b"c"|n=0, 1,2 ...}. [10]
+BL-6
+Simulate the working of this turing machine for the input - aabbcc
+
+Write short notes on: [ANY 4]
+a) Closure properties of Regular Language
+
+Q7 b) Pumping Lemma for Regular Language
+CO-4; c) Compare Push down automata (PDA) & Post Machine (PM) [5*4]
+BL-1 d) Types of Turing Machine
+
+e) Enumerable and recursively enumerable languages
+f) Halting Problem
 ````
 
 ## 2022-23 · Re-Exam · Sem 3 · paper 62b22209b18b

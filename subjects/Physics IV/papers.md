@@ -1,6 +1,6 @@
 # Physics IV: question papers in full
 
-16 unique papers · 2022-23 to 2025-26 · Data Science, Computer Engineering, Information Technology, Common (all branches), Mechanical
+18 unique papers · 2022-23 to 2025-26 · Data Science, Information Technology, Computer Engineering, Common (all branches), Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -234,6 +234,112 @@ CO-3; BL-3,4 State the first law of thermodynamics and analyze its three major [
 limitations with suitable examples.
 
 FOIICICI I 3k ok a kok ok ek ok
+````
+
+## 2024-25 · Final-Exam · Sem 4 · paper 4682d9ede9e7
+
+- Departments: Information Technology
+- Programmes: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037
+- Source: `00_Original_Downloads/2024/67804__Semester IV__context_fixed.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037/Physics-IV/QP_Final-Exam_Physics-IV(701BS0C014)_Semester IV_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Apr 2025
+- Text: text (2 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)
+Year: II/Semester IV(Exam Year: 2024-2025)
+Subject: Physics-IV
+Date: 30 Apr 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 2 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. In all 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary. [Given: Planck’s constant h = 6.625 x 10-34 J-s = 4.14 x 10-15 eV-s,
+Speed of light, c = 3 x 108 m/s, electronic mass, me = 9.1 x 10-31 kg, electronic charge, e = 1.6 x 10-19
+C, Boltzmann’s constant, kB = 1.38 x 10-23 J/K]
+Q1   Answer briefly:   [20]
+CO-1 ; BL-   a. An electron beam is accelerated from rest through a potential difference
+[4]
+1,2   of 100 V. Calculate the associated wavelength.
+b. What is a wave function? Write four necessary conditions of well-behaved
+CO-1 ; BL-1,2   [4]
+wave function?
+CO-1 ; BL-1,2   c. Define Particle flux and Reflection coefficient.   [4]
+CO- 2; BL-1,2   d.   Illustrate and explain any two ensembles.   [4]
+e. What are the limitations of first law of thermodynamics? Express the
+CO- 3; BL-1,2   [4]
+relation between different scales of temperature.
+Q2   [20]
+a. Explain the process of obtaining the time-dependent and time-independent
+CO-1; BL-1,2   [10]
+Schrödinger equations.
+b. X-ray photon of wavelength 0.4 Å is scattered through an angle 60° by a
+CO-1; BL-4   [6]
+loosely bound electron. Analyse the wavelength of scattered photon.
+c.   Is the function sin(x) an eigen function of the operator d2/dx2 and if so,
+CO-1; BL-3,4   [4]
+identify the corresponding eigenvalue?
+Q3   [20]
+a.   State Heisenberg Uncertainity Principle and show that the radius of the
+CO-1; BL-1,2   first Bohr orbit using the Heisenberg’s uncertainty principle is   [10]
+r= 𝜺𝟎𝒉𝟐 /𝝅𝒎𝒁𝒆𝟐.
+b. An electron is trapped in an infinite potential well of length 1 Å. In the ground
+CO-1; BL-4   state, analyse and calculate the probability of finding the electron in the [6]
+region x = 0 to 0.25 Å.
+CO-1; BL-3,4   c.   List in detail the four fundamental postulates of quantum mechanics.   [4]
+Q4   [20]
+********** 1 **********
+--- page 2 ---
+a. Explain how the lowest energy of a quantum harmonic oscillator is 𝐸0 =
+CO-1; BL-1,2   1   [10]
+ℎ𝜈 using the Schrödinger equation
+2
+b. Calculate the probability of transmission for an electron of energy 3 eV
+CO-1; BL-4   incident upon a rectangular potential barrier of height 5 eV and width 2 [6]
+nm.
+c. Derive a relation between thermodynamics and statistical mechanics and
+CO-2; BL-3,4   [4]
+explain its significance.
+Q5   [20]
+a.   State the five basic postulates of Maxwell-Boltzmann and Bose-Einstein
+CO-2; BL-1,2   statistics and write their corresponding distribution equations. Highlight [10]
+two major limitations of Maxwell-Boltzmann statistics.
+b. Two particles are to be distributed in three cells under MB, FD, and BE
+CO-2; BL-4   statistics. Determine the total number of possible arrangements for each [6]
+case.
+c. Describe the working of a Scanning Tunneling Microscope (STM) and
+CO-1; BL-3,4   [4]
+illustrate its operation with a labeled diagram.
+Q6   [20]
+a.   State second law of thermodynamics and Explain Carnot’s cycle with
+CO-3; BL-1,2   [10]
+appropriate diagram.
+b. In changing the state of a gas adiabatically from an equilibrium state A to
+another equilibrium state B, an amount of work equal to 25 J is done on
+CO-3; BL-4   the system. If the gas is taken from state A to B via a process in which the [6]
+net heat absorbed by the system is 10 cal, analyse the net work done by
+the system in the latter case? (Take 1 cal = 4.19 J)
+c. Describe Photoelectric effect and mention the failures of classical
+CO-1; BL-3,4   [4]
+electromagnetic theory in explaining the photoelectric effect?
+Q7   [20]
+a. Describe black body radiation and interpret the derivation of Planck’s
+CO-2; BL-1,2   [10]
+radiation formula with respect to frequency.
+b. The work function for cadmium is 4.08 eV. What must be the wavelength
+CO-1; BL-4   of radiation incident on cadmium so that the maximum velocity of [6]
+photoelectrons will be 7.2 x 105 m/s.
+c.   State the first law of thermodynamics and analyze its three major
+CO-3; BL-3,4   [4]
+limitations with suitable examples.
+********** 2 **********
 ````
 
 ## 2024-25 · Final-Exam · Sem 4 · paper 9922e3a6d7d1

@@ -1,6 +1,6 @@
 # Contract, Competition and Consumer Laws
 
-**39** unique papers (39 copies across programmes) · 2024-25 to 2025-26 · 8 programmes · Sem 8
+**43** unique papers (43 copies across programmes) · 2024-25 to 2025-26 · 10 programmes · Sem 8
 
 Download only this subject, sorted by academic year:
 
@@ -49,9 +49,13 @@ Also filed as: `Contracts,Competition and Consumer Laws`
 | 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Contract, Competition and Consumer Laws(703TG0C016)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Contract, Competition and Consumer Laws(703TG0C016)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Contract, Competition and Consumer Laws(703TG0C016)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 8 | MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (ARTIFICIAL INTELLIGENCE) - 7051 | QP_Re-Exam_Contract, Competition and Consumer Laws(703TG0C016)_Semester VIII_2024-2025.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 8 | MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTER ENGINEERING) - 7047 | QP_Re-Exam_Contract, Competition and Consumer Laws(703TG0C016)_Semester VIII_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Contract, Competition and Consumer Laws(703TG0C016)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Contract, Competition and Consumer Laws(703TG0C016)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech DS 7052 | QP_Contract, Competition and Consumer Laws(703TG0C016)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (ARTIFICIAL INTELLIGENCE) - 7051 | ANS_Re-Exam_Contract, Competition and Consumer Laws(703TG0C016)_Semester VIII_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTER ENGINEERING) - 7047 | ANS_Re-Exam_Contract, Competition and Consumer Laws(703TG0C016)_Semester VIII_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Contract, Competition and Consumer Laws(703TG0C016)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Contract, Competition and Consumer Laws(703TG0C016)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Contract, Competition and Consumer Laws(703TG0C016)_2024-2025.pdf |

@@ -833,12 +833,12 @@ i) (1111010.0001 )2=(? )io ii) (72A.1A)is=(? 2
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/COMPUTER FUNDAMENTAL/computer fundamentals 2005(1).pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: ocr (2 pages), mean OCR confidence 86.9
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 =...
 c LO XV
 
+NARSEE MONJEE INSTITUTE OEN
 (DEEMED AESeER
 « MBA-TECH (TRIMEST )
 SUBJECT:- COMPUTER TFUNDAME

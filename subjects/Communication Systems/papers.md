@@ -1438,7 +1438,7 @@ d) Draw and explain PAM modulator and demodulator 8
 - Programmes: MBA TECH / I T, MBA TECH / TELECOM EXTC
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM IV/COMMUNICATION SYSTMS/2005-2006(24).pdf` (+1 identical copies)
 - Text: ocr (2 pages), mean OCR confidence 91.2
-- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 > SVKwe \
@@ -1447,6 +1447,7 @@ x Mumbs, - 56. Ye
 UDEES8Aary Je
 we =)
 
+NARSEE MONJEE INSTITUTE OF MANAGEMEN
 
 (DEEMED UNIVERSITY) ey
 COURSE:- IV (Trimester)(IT/Telecomm.) F.M.: 8

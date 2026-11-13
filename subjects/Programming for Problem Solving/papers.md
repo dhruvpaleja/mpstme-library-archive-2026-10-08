@@ -1,6 +1,6 @@
 # Programming for Problem Solving: question papers in full
 
-102 unique papers · 2018-19 to 2025-26 · Data Science, Common (all branches), Computer Engineering, Information Technology, Mechanical, Artificial Intelligence, Civil, Cyber Security, Computer Science and Business Systems, Electronics and Telecommunication, Mechatronics, AI and Data Science, AI and Machine Learning, Computer Science
+104 unique papers · 2018-19 to 2025-26 · Data Science, Information Technology, Common (all branches), Computer Engineering, Mechanical, Artificial Intelligence, Civil, Cyber Security, Computer Science and Business Systems, Electronics and Telecommunication, Mechatronics, AI and Data Science, AI and Machine Learning, Computer Science
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -4146,6 +4146,140 @@ Page 4 of 4
 20
 
 10
+````
+
+## 2024-25 · Re-Exam · Sem 3 · paper c20759fb023e
+
+- Departments: Information Technology
+- Programmes: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Re-Exam/BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037/Programming for Problem Solving/QP_Re-Exam_Programming for Problem Solving(701CO0C018)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 20 Feb 2025
+- Text: text (4 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CE)/B. Tech (CIVIL)/B. Tech
+(CS)/B. Tech (CSBS)/B. Tech (CSE - CS)/B. Tech - (CSEDS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech Intg.
+(CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)/B. Tech (IT)/B. Tech (MECH)/B. Tech
+(MXTC)/MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (IT)
+Year: II/Semester I/Semester III/Semester V (Exam Year: 2024-2025)
+Subject: Programming for Problem Solving
+Date: 20 Feb 2025   Time: 02:00 pm - 05:00 pm (03:00 Hrs.)
+Max Marks: 100
+RE EXAMINATION(2024-2025)
+Instructions:
+1. This question paper contains 4 pages
+2. Section A is compulsory.
+3. Attempt any 4 questions from Section B
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume suitable data if necessary.
+.   Section A   20
+a. Design a program that accepts numbers and prints whether the number is positive or negative.   5
+b. What is a string? Illustrate how it is declared and initialized with syntax and examples.   5
+c. Write a C++ program to overload the multiplication function to perform the multiplication of   5
+two integers and two floating-point numbers.
+d. Draw a flow chart to find the sum of the following series:   5
+2+4+6+------N.
+.   Section B(Attempt Any 4 Questions)   80
+1.   20
+Page 1 of 4
+--- page 2 ---
+a. Give an if-else-if ladder flowchart and develop a C++ program to calculate the late   10
+return fee for products ordered through an e-commerce platform like Amazon or
+Flipkart. The user will enter the number of days past the return deadline, and the fee
+will be calculated according to the following table:
+Days Past Return Deadline   Late Fee
+≤ 5   Rs. 50 per day
+> 5 and ≤ 10   Rs. 100 per day
+> 10   Rs. 200 per day
+The program takes the late return days as input and displays the applicable late return
+fee.
+b. Develop a C++ program without using the loop to find the sum of a cube of three-digit   5
+3   3   3
+numbers. For example, if the number is 423 then Sum = 4 + 2 + 3 .
+c. State and explain the output of the following code:   5
+#include <iostream>
+using namespace std;
+int main()
+{
+int arr[3] = {3, 6, 9};
+int *p = arr;
+cout<<"p:"<<*p<<endl;
+for (int i = 0; i < 3; i++) {
+*(p + i) *= 2;
+}
+for (int i = 0; i < 3; i++) {
+cout << *(arr + i) << " ";
+}
+cout << endl;
+return 0;
+}
+2.   20
+10
+Page 2 of 4
+--- page 3 ---
+a. You are a software developer working on a project that requires combining two
+matrices representing sales data from two regions. You need to create a C++ program
+that reads two 2D arrays (matrices) of size entered by the user, performs matrix
+addition, and displays the resultant matrix.
+b. Implement a C++ program to create a class Person with a constructor that initializes the   5
+name and age of a person and a display function to display all the initialized details.
+Define the main function to create an object of a person and invoke the display function.
+c. What will be the output?   5
+#include<iostream>
+using namespace std;
+int main() {
+int a = 2;
+int b = (a-- >= 1) ? a + 3 : a - 1;
+cout << "a: " << a << endl;
+cout << "b: " << b << endl;
+return 0;
+}
+3.   20
+a. Write the general syntax of a do-while loop in C++. Write a C++ program to find the   10
+sum of all multiples of 3 or 5 below 1000 using any loop.
+b. Explain the concept of Encapsulation with an example. Define a class Resort with data   10
+members: room_no, charges, and no_of_days. Write a program to accept Resort details,
+calculate the bill (bill=charges*no_of_days), and display all the details of the Resort,
+including the bill.
+4.   20
+a. A hospital management system wants to manage the patients assigned to various   10
+doctors. Develop a program using the structure for patients with the following
+information: the patient's ID, name, type of illness, and the doctor who treated the
+patient. The program should read all the details of the ten patients and display the
+details of all patients under the same doctor's treatment by reading a doctor's name
+from the user.
+b. What is a function in C++? Why are functions used in programming? Write a C++   10
+program that uses a user-defined function to swap two numbers using pass-by-
+Page 3 of 4
+--- page 4 ---
+reference. The program should demonstrate the function call within the main()
+function.
+5.   20
+a. Develop a C++ program using inheritance. The base class Employee has attributes like   10
+name and employee ID and a member function to displayRole () to display the role as
+‘general employee’. Create a derived class Manager with an additional attribute for
+managing a department and override the displayRole() function to display the role as
+‘manager’. Additionally, implement the member functions in the derived class to input
+and display the details such as name, employee ID, department, and role (e.g.,
+manager/general employee).
+b. Develop a program to calculate the sum of the following series using a recursive   10
+functions:
+1! + 2! + 3! + 4! + 5! + ... + N!
+6.   20
+a. Write a program to print the following pattern using nested loops.   10
+A A A A
+B B B
+C C
+D
+b. Write a program to count vowels in a given string.   5
+c. Convert the following mathematical formula to a programming equivalent statement and   5
+write the C++ program to calculate the value of the equation.
+Page 4 of 4
 ````
 
 ## 2024-25 · Re-Exam · Sem 1 · paper f32adc9b905d

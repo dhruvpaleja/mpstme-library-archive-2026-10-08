@@ -1,6 +1,6 @@
 # Microprocessor
 
-**11** unique papers (24 copies across programmes) · 2008-09 to 2012-13 · 3 programmes · Trim 4, Trim 5
+**21** unique papers (34 copies across programmes) · 2008-09 to 2021-22 · 4 programmes · Sem 6, Trim 4, Trim 5
 
 Download only this subject, sorted by academic year:
 
@@ -16,6 +16,16 @@ Also filed as: `Microprocessors`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2021-22 | Final + Re-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / COMPUTER | Microprocessor_2021-22_Final_Batch_2020-21_Final_Re_Exam_5wbcpS0czs.pdf |
+| 2021-22 | Re-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / COMPUTER | Microprocessor_Batch_2021-22_Re_Exam0001_uPccLEdFeh.pdf |
+| 2021-22 | Re-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / COMPUTER | Mircoprocessor_Batch_2020-21__2021-22_Re_Exam0001_2OLunGniM5.pdf |
+| 2018-19 | Final-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / COMPUTER | Microprocessor_2018-19_Final_CMnR8aQ2Wx.pdf |
+| 2018-19 | Re-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / COMPUTER | Microprocessor_Batch_2017-18_2018-19_Re_Exam_x8VC0Hoz1b.pdf |
+| 2017-18 | Final-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / COMPUTER | Microprocessor_2017-2018_Final_inip2wSo5d.pdf |
+| 2017-18 | Re-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / COMPUTER | Microprocessor_Batch_2017-18_Re_Exam_zt2tO0FYB8.pdf |
+| 2016-17 | Final-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / COMPUTER | Microprocessor_2016-2017_Final_LltNbglF6o.pdf |
+| 2016-17 | Re-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / COMPUTER | Microprocessor_Batch_2016-17_Re_Exam_YJbzTAdPoP.pdf |
+| 2016-17 | Re-Exam | Question paper | Sem 6 | B.TECH INTEGRATED / COMPUTER | Microprocessor_Batch_2016-17_Re_Exam_faTLBGYI5z.pdf |
 | 2012-13 | — | Question paper | Trim 5 | MBA TECH / COMPUTER, MBA TECH / I T | MICROPROCESSOR 2012-13.pdf |
 | 2012-13 | Re-Exam | Question paper | Trim 5 | MBA TECH / I T | MICROPROCESSOR V (IT) MBA TECH 2012-13 RE EXAM.pdf |
 | 2012-13 | Re-Exam | Question paper | Trim 5 | MBA TECH / TELECOM EXTC | MICROPROCESSOR V (EXTC) MBA TECH 2012-13 RE EXAM.pdf |

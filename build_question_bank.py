@@ -1,25 +1,34 @@
 """Turn every past question paper into text an AI can read, organised by subject and department.
 
-Two stages:
+Stages:
 
-  extract  Download the release bundles that hold question papers (37 bundles, about 19 GiB), rebuild each
-           paper, and read its text: straight from the PDF when it has a text layer, otherwise by OCR with
-           Tesseract. Bundles are processed one at a time and deleted afterwards, so about 3 GiB of free space
-           is enough. Results go to a resumable cache (texts.jsonl); rerunning skips finished work.
+  extract      Download the release bundles that hold question papers (37 bundles, about 19 GiB), rebuild each
+               paper, and read its text: straight from the PDF when it has a text layer, otherwise by OCR with
+               Tesseract. Bundles are processed one at a time and deleted afterwards, so about 3 GiB of free space
+               is enough. Results go to a resumable cache (texts.jsonl); rerunning skips finished work.
+               --prefix reads another library folder instead (build_syllabi.py uses 04_Syllabi_Archive/).
 
-  build    Read that cache (or the committed question_bank/extracted_text.jsonl.gz) together with
-           subjects/pyq_subject_index.csv and write, for every subject:
-             subjects/<Subject>/papers.md        full text of every paper, newest first, with metadata
-             subjects/<Subject>/questions.jsonl  one record per question: number, part, text, marks, CO/BL,
-                                                 year, exam, semester, programme, department
-           plus departments/<Department>/README.md and question_bank/README.md (schema and statistics).
+  extract-raw  Read the papers that exist only inside the portal's original ZIP downloads (listed in
+               question_bank/raw_zip_members.json): the ZIPs are rebuilt from their bundles, each listed member
+               is read, and question_bank/raw_zip_papers.jsonl records its SHA-256 and size. organize_by_subject.py
+               files the new ones (bytes not already under 02_Question_Papers/) under their subjects.
+
+  build        Merge new texts.jsonl files (--texts, repeatable) into the committed cache in
+               question_bank/extracted_text/, then read it with subjects/pyq_subject_index.csv and write, for
+               every subject:
+                 subjects/<Subject>/papers.md        full text of every paper, newest first, with metadata
+                 subjects/<Subject>/questions.jsonl  one record per question: number, part, text, marks, CO/BL,
+                                                     year, exam, semester, programme, department
+               plus departments/<Department>/README.md and question_bank/README.md (schema and statistics).
 
 Requirements for extract: Python 3.11+, `pip install pymupdf`, and the Tesseract OCR program on PATH
 (Windows: https://github.com/UB-Mannheim/tesseract/wiki; Debian/Ubuntu: apt install tesseract-ocr).
 build needs only the standard library.
 
   python build_question_bank.py extract --work D:/qb_work --manifest full-library-manifest.json
-  python build_question_bank.py build --texts D:/qb_work/texts.jsonl
+  python build_question_bank.py extract-raw --work D:/qb_raw --manifest full-library-manifest.json
+  python organize_by_subject.py catalog --manifest full-library-manifest.json
+  python build_question_bank.py build --texts D:/qb_work/texts.jsonl --texts D:/qb_raw/texts.jsonl
   python build_question_bank.py build                      # rebuild from the committed text cache
 """
 from pathlib import Path, PurePosixPath
@@ -259,8 +268,9 @@ def cmd_extract(args):
                 except (json.JSONDecodeError, KeyError):
                     pass                                # a line cut off by an interrupted run
     papers = {}
+    prefixes = tuple(args.prefix or [QP_ROOT])
     for row in manifest['files']:
-        if row['path'].startswith(QP_ROOT):
+        if row['path'].startswith(prefixes):
             papers.setdefault(row['sha256'], row)
     by_bundle = defaultdict(list)
     for sha, row in sorted(papers.items()):
@@ -315,15 +325,25 @@ def cmd_extract(args):
 # ============================================================================ departments
 
 PROGRAMME_TYPES = [
-    (r'integrated', 'B.Tech Integrated'), (r'mba\s*tech', 'MBA Tech'), (r'master of technology|\bm\s*tech\b', 'M.Tech'),
+    (r'integrated', 'B.Tech Integrated'),
+    (r'mba\s*tech|master of business administration in technology management', 'MBA Tech'),
+    (r'master of technology|\bm\s*tech\b', 'M.Tech'),
     (r'master of computer applications|\bmca\b', 'MCA'), (r'diploma', 'Diploma'), (r'pgdm', 'PGDM'),
-    (r'\bphd\b', 'PhD'), (r'b\.?\s*tech', 'B.Tech'),
+    (r'\bphd\b', 'PhD'), (r'master of commerce', 'M.Com'), (r'bachelor of commerce', 'B.Com'),
+    (r'bachelor of management studies', 'BMS'), (r'bachelor of science', 'B.Sc'), (r'bachelor of arts?\b', 'BA'),
+    (r'b\.?\s*tech|bachelor of technology', 'B.Tech'),
 ]
-DEPARTMENTS = [
+DEPARTMENTS = [                    # first match wins; programmes of other NMIMS schools come first
+    (r'bachelor of commerce|master of commerce', 'Commerce'),
+    (r'bachelor of management studies', 'Management Studies'),
+    (r'multimedia|mass communication', 'Multimedia and Mass Communication'),
+    (r'bachelor of science\s*\(information technology\)', 'B.Sc Information Technology'),
+    (r'bachelor of science', 'Science (B.Sc)'),
+    (r'bachelor of arts\b', 'Arts (BA)'),
     (r'cyber', 'Cyber Security'),
-    (r'csbs', 'Computer Science and Business Systems'),
+    (r'csbs|computer science and business', 'Computer Science and Business Systems'),
     (r'aiml|machine learning', 'AI and Machine Learning'),
-    (r'aids|artificial intelligence & data science|ai & ds', 'AI and Data Science'),
+    (r'aids|artificial intelligence (?:&|and) data science|ai & ds', 'AI and Data Science'),
     (r'data scien|\bds\b|cseds', 'Data Science'),
     (r'artifi|\bai\b', 'Artificial Intelligence'),
     (r'master of computer applications|\bmca\b', 'Computer Applications (MCA)'),
@@ -362,14 +382,23 @@ FOOTER = re.compile(r'(?i)^\s*(\*{3,}.*\*{3,}|page\s*\d+\s*(of\s*\d+)?|-+\s*\d+\
                     r'(\*+\s*)?(end of (the )?(question )?paper|all the best|best of luck)(\s*\*+)?)\s*$')
 INSTRUCTION = re.compile(r'(?i)compulsory|attempt|figures? (in|to)|full marks|assume|answer(s)? to each|'
                          r'instructions?|candidates? should|carry equal|fresh page|calculators?|'
-                         r'question paper contains|in all \d|out of (the )?remaining')
+                         r'question paper contains|in all \d|out of (the )?remaining|to be attempted|answer book|'
+                         r'provided for (their|your) use')
+# Instruction sentences that never belong to a question (kept out of question text, never drop a question).
+BOILERPLATE = re.compile(r'(?i)answer book|provided for (their|your) use|candidates? should read|carry equal marks|'
+                         r'to be attempted|fresh page|figures? (in|to|on) (the )?(brackets|right)|is compulsory')
+# Paper header lines (who/when/what), skipped when they appear before the first question.
+HEADER_LINE = re.compile(r'(?i)^\W{0,3}(svkm|nmims|mukesh|narsee|school of|mpstme|(academic|acad\.?) ?year|'
+                         r'program(me)?s?\b|stream|subject|course|date\b|time\b|duration|(max(imum)?\.? ?)?marks|'
+                         r'year\b|sem(ester)?\b|trim(ester)?\b|batch|no\.? of pages|(final|re)[\s-]*exam|'
+                         r'examination|term end|section\b|part\b|nb\b|note\b)')
 TAGS = [
     ('co', re.compile(r'\b[CG]\s?[O0]\s?[-–.:]?\s?(\d{1,2}(?:\s*[,&/]\s*\d{1,2})*)\b[\s;,:]*')),
     ('bl', re.compile(r'\bB\s?L\s?[-–.:]?\s?(\d)\b[\s;,:]*')),
     ('so', re.compile(r'\b[SP]\s?[O0]\s?[-–.:]?\s?([\dlI](?:\s*[,&]\s*\d)*)\b[\s;,:]*')),
 ]
 QUESTION_START = re.compile(       # OCR reads "Q1" as "Ql"/"QI" and "Q5" as "QS"
-    r'^(?:Q(?:ue(?:stion|s)?)?\s*\.?\s*(?:No\.?\s*)?|Q\s*)(\d{1,2}|[lIS](?=[\s.):]|$)|(?:I{2,3}|IV|VI{0,3}|IX|XI{0,2}|V)(?=[\s.):]|$))'
+    r'^(?:Q(?:ue(?:stion|s)?)?\s*[.\-–:]?\s*(?:No\.?\s*[.\-–:]?\s*)?|Q\s*)(\d{1,2}|[lIS](?=[\s.):]|$)|(?:I{2,3}|IV|VI{0,3}|IX|XI{0,2}|V)(?=[\s.):]|$))'
     r'\s*[.):\-]?\s*(.*)$', re.I)
 NUMBER_START = re.compile(r'^(\d{1,2})(?:\s*[.)]\s+|\s+(?=[A-Z(\[]))(\S.*)$')   # "1. Explain", "2) ...", "3 (a) ..."
 SUBQUESTION_START = re.compile(r'^(\d{1,2})\s*\)\s*(.*)$')          # "1)" inside "Q2 Attempt any 4"
@@ -488,6 +517,24 @@ def question_number(label, roman=False):
     return {'l': '1', 'i': '1', 's': '5'}.get(label.lower(), label)
 
 
+INSTITUTION = re.compile(r'(?i)svkm|nmims|narsee\s*monjee|mukesh\s*patel')
+EXAM_HEADER = re.compile(r'(?i)\bsubject\b|\bmarks\b|instructions?|examination|\bdate\b|\btime\b|\bduration')
+
+
+def split_papers(text):
+    """Split a file holding several papers (e.g. a Final and a Re-exam scanned together) at each new paper header:
+    an institution line followed within 15 lines by at least two exam-header lines (Subject, Marks, Date, ...)."""
+    lines = text.split('\n')
+    starts = [0]
+    for index, line in enumerate(lines):
+        if index - starts[-1] < 20 or not INSTITUTION.search(line):
+            continue
+        window = lines[index:index + 15]
+        if sum(bool(EXAM_HEADER.search(l)) for l in window) >= 2:
+            starts.append(index)
+    return ['\n'.join(lines[a:b]) for a, b in zip(starts, starts[1:] + [len(lines)])]
+
+
 def instructions_end(lines):
     """Index of the first line after the paper's instruction block (0 when there is none).
 
@@ -520,13 +567,31 @@ def parse_questions(text):
         return bool(re.match(r'(?i)(is|carries|will|must|from)\b', rest)) or (
             'compulsory' in rest.lower() and len(rest) < 40)
 
-    start = next((i for i, line in enumerate(lines)
-                  if (m := QUESTION_START.match(take_tags(line.strip(), None))) and m.group(1) in ('1', 'l', 'I', 'i')
-                  and not instruction_about_q1(m.group(2))), None)
-    if start is None:
-        start = instructions_end(lines)
+    # Questions start right after the instructions block. Without an instructions heading, start at the first
+    # question marker of any number (a "Q1" can be garbled, and a stray "q I" can sit inside a figure later on).
+    start = instructions_end(lines)
+    if start == 0:
+        first = next(((i, question_number(m.group(1))) for i, line in enumerate(lines)
+                      if (m := QUESTION_START.match(take_tags(line.strip(), None)))
+                      and not instruction_about_q1(m.group(2))), None)
+        if first and first[1] == '1' and not any(
+                NUMBER_START.match(take_tags(l.strip(), None)) and not INSTRUCTION.search(l) and not HEADER_LINE.match(l)
+                for l in lines[:first[0]]):
+            start = first[0]                            # the header runs up to a genuine Q1
     body = lines[start:]
-    q_style = sum(1 for l in body if QUESTION_START.match(take_tags(l, None))) >= 2
+
+    def sequence_length(pattern):
+        """Length of the run 1, 2, 3, ... found in order among lines matching a numbering pattern."""
+        expected = 1
+        for line in body:
+            found = pattern.match(take_tags(line.strip(), None))
+            if found and question_number(found.group(1)) == str(expected):
+                expected += 1
+        return expected - 1
+
+    q_count = sum(1 for l in body if QUESTION_START.match(take_tags(l, None)))
+    # Q-numbered unless Q markers are scarce and a clean "1.", "2.", "3.", "4." run exists instead.
+    q_style = q_count >= 2 and not (q_count <= 2 and sequence_length(NUMBER_START) >= 4)
     # Papers with "I.", "II." as questions and "1.", "2." under them: Arabic numbers become sub-questions.
     roman_style = not q_style and sum(1 for l in body if ROMAN_QUESTION.match(l.strip())) >= 2
     questions, current, item, sub = [], None, None, ''
@@ -604,7 +669,11 @@ def parse_questions(text):
             if not line:
                 continue
         if current is None:
-            continue
+            if HEADER_LINE.match(line) or INSTRUCTION.search(line) or INSTRUCTION_TEXT.match(line) or len(line) < 4:
+                continue
+            # Text before the first recognised question number (OCR often garbles "Q1"): keep it.
+            current = {'question': '0', 'stem': [], 'marks': None, 'parts': [], 'implicit': True}
+            questions.append(current)
         numbered = (SUBQUESTION_START.match(line) if q_style
                     else NUMBER_START.match(line) or re.match(r'^(\d{1,2})\s*[.)]\s*(.*)$', line) if roman_style
                     else None)
@@ -655,23 +724,33 @@ def parse_questions(text):
             elif item.get('marks') is None:
                 item['marks'] = marks
         line = line.strip()
-        if line and line.lower() not in ('marks', 'marks co bl', 'q. no.', 'q.no.', 'question', 'q no'):
+        if line and line.lower() not in ('marks', 'marks co bl', 'q. no.', 'q.no.', 'question', 'q no') \
+                and not (len(line) < 160 and (INSTRUCTION_TEXT.match(line) or BOILERPLATE.search(line))):
             (item['lines'] if item is not None else current['stem']).append(line)
+    # Name the implicit question: it is question 1 when the first numbered one found is 2, else unnumbered.
+    for position, question in enumerate(questions):
+        if question.get('implicit'):
+            following = next((q['question'] for q in questions[position + 1:] if not q.get('implicit')), None)
+            question['question'] = '1' if following == '2' else None
+            question['note'] = ('question number not printed or not readable' if following == '2' else
+                                'paper not split into questions' if following is None else
+                                'text before the first numbered question')
     out = []
     for question in questions:
-        question['parts'] = [p for p in question['parts']
-                             if not (INSTRUCTION_TEXT.match(' '.join(p['lines'])) and len(' '.join(p['lines'])) < 160)]
-        if INSTRUCTION_TEXT.match(' '.join(question['stem'])) and not question['parts']:
-            continue
         stem = ' '.join(question['stem']).strip()
         parts = [p for p in question['parts'] if ' '.join(p['lines']).strip() or p.get('marks')]
+        if question.get('note') and len(stem) + sum(len(' '.join(p['lines'])) for p in parts) < 40:
+            continue                                    # a stray fragment, not content
         if not parts:
             if stem:
-                out.append({'question': question['question'], 'part': None, 'text': stem,
-                            'marks': question['marks']})
+                record = {'question': question['question'], 'part': None, 'text': stem, 'marks': question['marks']}
+                if question.get('note'):
+                    record['note'] = question['note']
+                out.append(record)
             continue
         if len(stem) > 120:                            # a full question or case text, not just "Answer briefly"
-            out.append({'question': question['question'], 'part': None, 'text': stem, 'marks': question['marks']})
+            out.append({'question': question['question'], 'part': None, 'text': stem, 'marks': question['marks'],
+                        **({'note': question['note']} if question.get('note') else {})})
         for part in parts:
             record = {'question': question['question'], 'part': part['part'],
                       'text': ' '.join(part['lines']).strip(), 'marks': part.get('marks')}
@@ -679,6 +758,8 @@ def parse_questions(text):
                 record['question_stem'] = stem
             if question['marks'] is not None:
                 record['question_marks'] = question['marks']
+            if question.get('note'):
+                record['note'] = question['note']
             for key in ('co', 'bl'):
                 if part.get(key):
                     record[key] = part[key]
@@ -689,10 +770,11 @@ def parse_questions(text):
 # ============================================================================ build stage
 
 QUESTION_FIELDS = ['subject', 'academic_year', 'exam', 'semester', 'departments', 'paper_id', 'question', 'part',
-                   'question_stem', 'text', 'marks', 'question_marks', 'co', 'bl', 'extraction', 'text_quality']
+                   'question_stem', 'text', 'marks', 'question_marks', 'co', 'bl', 'note', 'extraction',
+                   'text_quality']
 PAPER_FIELDS = ['paper_id', 'subject', 'kind', 'academic_year', 'academic_year_filed', 'exam', 'exam_printed', 'semester', 'departments', 'programme_types',
                 'programmes', 'max_marks', 'duration_hours', 'exam_date', 'pages', 'extraction', 'ocr_confidence',
-                'questions_extracted', 'text_quality', 'source_path', 'identical_copies', 'text_status']
+                'questions_extracted', 'papers_in_file', 'text_quality', 'source_path', 'identical_copies', 'text_status']
 
 
 def load_texts(path):
@@ -772,20 +854,26 @@ def md_escape(text):
 def cmd_build(args):
     sys.path.insert(0, str(HERE))
     from organize_by_subject import subject_folders, caseless
-    source = Path(args.texts) if args.texts else TEXT_CACHE
-    if not source.exists():
-        raise SystemExit(f'{source} not found; run extract first or pass --texts.')
-    texts = load_texts(source)
-    if args.texts:
-        save_text_cache(texts)
-    drop_ocr_noise(texts, known_words(texts))               # after saving: the cache keeps the raw OCR
+    texts = load_texts(TEXT_CACHE) if TEXT_CACHE.exists() else {}
+    for extra in args.texts or []:                          # new extraction results join the committed cache
+        if not Path(extra).exists():
+            raise SystemExit(f'{extra} not found; run extract first.')
+        texts.update(load_texts(extra))
+    if not texts:
+        raise SystemExit(f'{TEXT_CACHE} not found; run extract first or pass --texts.')
     with INDEX_CSV.open(encoding='utf-8', newline='') as stream:
         rows = list(csv.DictReader(stream))
+    if args.texts:                                          # keep only papers the index lists
+        listed = {row['sha256'] for row in rows}
+        texts = {sha: record for sha, record in texts.items() if sha in listed}
+        save_text_cache(texts)
+    drop_ocr_noise(texts, known_words(texts))               # after saving: the cache keeps the raw OCR
     by_subject = defaultdict(lambda: defaultdict(list))         # subject -> sha -> copies
     for row in rows:
         by_subject[row['subject']][row['sha256']].append(row)
     folders = subject_folders(by_subject)
     stats, summary = Counter(), []
+    stats['raw_zip_papers'] = len({row['sha256'] for row in rows if ' :: ' in row['path']})
     for subject in sorted(by_subject, key=caseless):
         summary.append(build_subject(subject, by_subject[subject], HERE / 'subjects' / folders[subject], texts, stats))
         summary[-1]['folder'] = folders[subject]
@@ -926,21 +1014,33 @@ def build_subject(subject, papers, folder, texts, stats):
             # Papers inside a ZIP are question papers too, unless their file name marks them as answers.
             if first['kind'] == 'Question paper' or (
                     first['kind'] == 'ZIP of papers' and not re.search(r'(?i)\b(ans|answers?|solutions?|key)\b', label)):
-                parsed = [q for q in parse_questions(text) if q['text']]
-                stats['question_papers_read'] += 1
-                stats['question_papers_split'] += len({q['question'] for q in parsed}) >= 3
-                doc['questions_extracted'] = len(parsed)
-                for q in parsed:
-                    if q.get('question_stem'):
-                        q['question_stem'] = q['question_stem'][:300]
-                    entry = dict(q, subject=subject, academic_year=doc['academic_year'], exam=doc['exam'],
-                                 semester=doc['semester'], departments=departments, paper_id=doc['paper_id'],
-                                 extraction=method, text_quality=doc.get('text_quality'))
-                    question_lines.append(json.dumps({k: entry[k] for k in QUESTION_FIELDS
-                                                      if entry.get(k) not in (None, '', [])}, ensure_ascii=False))
-                    stats['questions'] += 1
-                    stats['questions_with_marks'] += q.get('marks') is not None or q.get('question_marks') is not None
-                dept_questions.update({d: len(parsed) for d in departments})
+                # One file can hold several papers (a Final and a Re-exam scanned together): parse each on its own,
+                # with the year and exam its own header prints.
+                segments = split_papers(text)
+                doc['questions_extracted'] = 0
+                if len(segments) > 1:
+                    doc['papers_in_file'] = len(segments)
+                for number, segment in enumerate(segments, 1):
+                    parsed = [q for q in parse_questions(segment) if q['text']]
+                    own = paper_header(segment) if len(segments) > 1 else {}
+                    printed_exam = own.get('exam_title', '').lower()
+                    exam = ('Re-Exam' if printed_exam.startswith('re') else 'Final-Exam' if printed_exam.startswith(('final', 'end'))
+                            else doc['exam'])
+                    stats['question_papers_read'] += 1
+                    stats['question_papers_split'] += len({q['question'] for q in parsed}) >= 3
+                    doc['questions_extracted'] += len(parsed)
+                    for q in parsed:
+                        if q.get('question_stem'):
+                            q['question_stem'] = q['question_stem'][:300]
+                        entry = dict(q, subject=subject, academic_year=own.get('academic_year') or doc['academic_year'],
+                                     exam=exam, semester=doc['semester'], departments=departments,
+                                     paper_id=doc['paper_id'] + (f'#{number}' if len(segments) > 1 else ''),
+                                     extraction=method, text_quality=doc.get('text_quality'))
+                        question_lines.append(json.dumps({k: entry[k] for k in QUESTION_FIELDS
+                                                          if entry.get(k) not in (None, '', [])}, ensure_ascii=False))
+                        stats['questions'] += 1
+                        stats['questions_with_marks'] += q.get('marks') is not None or q.get('question_marks') is not None
+                    dept_questions.update({d: len(parsed) for d in departments})
             paper_lines.append(json.dumps({k: doc[k] for k in PAPER_FIELDS if doc.get(k) not in (None, '', [])},
                                           ensure_ascii=False))
     span = (f'{min(years, key=year_order)} to {max(years, key=year_order)}' if years else 'years not stated')
@@ -1041,6 +1141,9 @@ def write_bank_readme(stats, summary, dept_subjects):
         'in papers.md.',
         f'- {stats["low_quality_papers"]:,} question papers have low OCR quality (mostly handwritten 2004-2010 papers '
         'or poor scans); they and their questions are marked `text_quality: low`.',
+        f'- {stats["raw_zip_papers"]:,} of these files exist only inside the portal\'s original ZIP downloads '
+        '(`00_Original_Downloads/`), never extracted into `02_Question_Papers/`; they are included, with a path of '
+        'the form `<ZIP> :: <file inside it>` and a `source` ending in "(ZIP download only)".',
         f'- Files with no readable text (corrupt PDFs, spreadsheet data sets): {stats["papers_without_text"]:,}.'
         + (f' Not yet extracted: {stats["papers_not_extracted"]:,}.' if stats['papers_not_extracted'] else ''), '',
         '## questions.jsonl fields', '',
@@ -1075,6 +1178,140 @@ def write_bank_readme(stats, summary, dept_subjects):
     (BANK_DIR / 'README.md').write_text('\n'.join(lines), encoding='utf-8')
 
 
+# ============================================================================ papers kept only inside raw portal ZIPs
+
+RAW_MEMBERS = BANK_DIR / 'raw_zip_members.json'
+RAW_RESOLVED = BANK_DIR / 'raw_zip_papers.jsonl'
+
+
+def cmd_extract_raw(args):
+    """Read the papers that exist only inside the original portal ZIPs (00_Original_Downloads).
+
+    The archive's own organiser left these out of 02_Question_Papers ("no unambiguous portal path mapping",
+    "not listed under this portal folder", or never recorded). question_bank/raw_zip_members.json lists them.
+    Each ZIP is rebuilt from its verified release chunks one at a time; every listed member is hashed, files
+    already in 02_Question_Papers are recorded as copies, and new ones are read like any other paper."""
+    if not shutil.which('tesseract'):
+        raise SystemExit('Tesseract OCR is not on PATH; see the instructions at the top of this file.')
+    manifest = json.loads(Path(args.manifest).read_text(encoding='utf-8'))
+    members = json.loads(RAW_MEMBERS.read_text(encoding='utf-8'))
+    work = Path(args.work).resolve()
+    for sub in ('bundles', 'chunks', 'zips', 'papers'):
+        (work / sub).mkdir(parents=True, exist_ok=True)
+    texts_path, resolved_path = work / 'texts.jsonl', work / 'raw_zip_papers.jsonl'
+    done_zips = set()
+    if resolved_path.exists():
+        done_zips = {json.loads(l)['zip_path'] for l in resolved_path.open(encoding='utf-8') if l.strip()}
+    known = {f['sha256'] for f in manifest['files'] if f['path'].startswith(QP_ROOT)}
+    if texts_path.exists():
+        known |= {json.loads(l)['sha256'] for l in texts_path.open(encoding='utf-8') if l.strip()}
+    wanted = defaultdict(set)
+    for m in members:
+        if m['zip_path'] not in done_zips:
+            wanted[m['zip_path']].add(m['member'])
+    files = {f['path']: f for f in manifest['files']}
+    chunk_bundle = {c: v['bundle'] for c, v in manifest['chunks'].items()}
+    bundles = {b['name']: b for b in manifest['bundles']}
+    legacy = {b['name']: b for b in manifest['legacy']['bundles']}
+    needs = defaultdict(set)                            # bundle -> chunk ids or legacy zip paths
+    for zip_path in wanted:
+        f = files[zip_path]
+        if f.get('legacy_bundle'):
+            needs[f['legacy_bundle']].add(zip_path)
+        else:
+            for chunk in f['chunks']:
+                needs[chunk_bundle[chunk]].add(chunk)
+    order = sorted(needs, key=lambda n: (n in legacy, n))
+    chunk_refs = Counter(c for z in wanted if not files[z].get('legacy_bundle') for c in files[z]['chunks'])
+    print(f'{len(wanted)} ZIPs to open, {sum(len(v) for v in wanted.values())} members, {len(order)} bundles.', flush=True)
+
+    def ready(zip_path):
+        f = files[zip_path]
+        if f.get('legacy_bundle'):
+            return (work / 'zips' / Path(zip_path).name).exists()
+        return all((work / 'chunks' / c).exists() for c in f['chunks'])
+
+    def assemble(zip_path):
+        f = files[zip_path]
+        target = work / 'zips' / Path(zip_path).name
+        if not f.get('legacy_bundle'):
+            with target.open('wb') as out:
+                for chunk in f['chunks']:
+                    out.write((work / 'chunks' / chunk).read_bytes())
+                    chunk_refs[chunk] -= 1
+                    if chunk_refs[chunk] <= 0:          # a chunk can be shared by several ZIPs
+                        (work / 'chunks' / chunk).unlink()
+        if target.stat().st_size != f['bytes'] or sha256_file(target) != f['sha256']:
+            raise SystemExit(f'Rebuilt ZIP does not match its checksum: {zip_path}')
+        return target
+
+    with texts_path.open('a', encoding='utf-8') as texts_out, resolved_path.open('a', encoding='utf-8') as res_out, \
+            ProcessPoolExecutor(args.workers) as pool:
+        pending, futures, read = set(wanted), [], 0
+
+        def drain(wait=False):
+            nonlocal futures, read
+            for future in (as_completed(futures) if wait else [f for f in futures if f.done()]):
+                texts_out.write(json.dumps(future.result(), ensure_ascii=False) + '\n')
+                read += 1
+            futures = [] if wait else [f for f in futures if not f.done()]
+            texts_out.flush()
+
+        for index, name in enumerate(order, 1):
+            meta = legacy.get(name) or bundles[name]
+            if name in legacy:
+                meta = dict(meta, url=f"https://github.com/{REPO}/releases/download/{manifest['legacy']['release_tag']}/{name}")
+            path = download(meta, work / 'bundles' / name, args.download)
+            with zipfile.ZipFile(path) as archive:
+                for item in needs[name]:
+                    source = item if item in files else 'objects/' + item   # whole ZIP (legacy) or a chunk
+                    target = work / ('zips' if item in files else 'chunks') / (Path(item).name if item in files else item)
+                    with archive.open(source) as src, target.open('wb') as dst:
+                        shutil.copyfileobj(src, dst, 1 << 20)
+            path.unlink()
+            for zip_path in sorted(z for z in pending if ready(z)):
+                pending.discard(zip_path)
+                local = assemble(zip_path)
+                with zipfile.ZipFile(local) as raw:
+                    infos = [i for i in raw.infolist() if not i.is_dir()]
+                    names = {i.filename for i in infos}
+                    targets = names if '*' in wanted[zip_path] else wanted[zip_path]
+                    for member in sorted(targets):
+                        if member not in names:
+                            res_out.write(json.dumps({'zip_path': zip_path, 'member': member, 'missing': True}) + '\n')
+                            continue
+                        data = raw.read(member)
+                        sha = hashlib.sha256(data).hexdigest()
+                        res_out.write(json.dumps({'zip_path': zip_path, 'member': member, 'sha256': sha,
+                                                  'bytes': len(data)}, ensure_ascii=False) + '\n')
+                        if sha in known:
+                            continue
+                        known.add(sha)
+                        paper = work / 'papers' / sha
+                        paper.write_bytes(data)
+                        futures.append(pool.submit(extract_one, sha, str(paper), PurePosixPath(member).name))
+                res_out.flush()
+                local.unlink()
+            drain()                                     # OCR keeps running while the next bundle downloads
+            print(f'[{index}/{len(order)}] {name}: {read} papers read, {len(futures)} queued; '
+                  f'{len(pending)} ZIPs pending', flush=True)
+        drain(wait=True)
+    save_raw_resolved(resolved_path)
+    print(f'Raw ZIP extraction finished: {read} new papers read; {RAW_RESOLVED} updated.', flush=True)
+
+
+def save_raw_resolved(source, target=RAW_RESOLVED):
+    """Committed copy of the member -> SHA-256 records, one per member, sorted so reruns give identical bytes."""
+    rows = {}
+    for line in Path(source).open(encoding='utf-8'):
+        if line.strip():
+            row = json.loads(line)
+            rows[(row['zip_path'], row['member'])] = row
+    with Path(target).open('w', encoding='utf-8', newline='\n') as out:
+        for key in sorted(rows):
+            out.write(json.dumps(rows[key], ensure_ascii=False, sort_keys=True) + '\n')
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = parser.add_subparsers(dest='command', required=True)
@@ -1085,10 +1322,19 @@ def main():
     p.add_argument('--download', choices=['https', 'gh'], default='gh',
                    help='gh: GitHub CLI (default); https: curl to the API, with GITHUB_TOKEN if set')
     p.add_argument('--limit', type=int, help='only the first N bundles (for a trial run)')
+    p.add_argument('--prefix', action='append',
+                   help=f'read files under this library folder instead of {QP_ROOT} (repeatable), e.g. 04_Syllabi_Archive/')
     p.set_defaults(run=cmd_extract)
+    p = sub.add_parser('extract-raw', help='read papers that exist only inside the original portal ZIPs')
+    p.add_argument('--manifest', required=True, help='verified full-library-manifest.json')
+    p.add_argument('--work', required=True, help='working folder (needs about 6 GiB free)')
+    p.add_argument('--workers', type=int, default=os.cpu_count() or 2)
+    p.add_argument('--download', choices=['https', 'gh'], default='gh')
+    p.set_defaults(run=cmd_extract_raw)
     p = sub.add_parser('build', help='write papers.md / questions.jsonl per subject and the department indexes')
-    p.add_argument('--texts', help='texts.jsonl from extract (also refreshes the committed text cache); '
-                                   'default: question_bank/extracted_text.jsonl.gz')
+    p.add_argument('--texts', action='append',
+                   help='texts.jsonl from extract or extract-raw (repeatable); merged into the committed cache in '
+                        'question_bank/extracted_text/, which is then saved with only the papers the index lists')
     p.set_defaults(run=cmd_build)
     args = parser.parse_args()
     args.run(args)

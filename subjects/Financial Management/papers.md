@@ -1,6 +1,6 @@
 # Financial Management: question papers in full
 
-102 unique papers · 2008-09 to 2025-26 · Common (all branches), Information Technology, Chemical, Computer Science and Business Systems, Computer Engineering, Artificial Intelligence, Data Science, Electronics and Telecommunication, Mechanical, Manufacturing, Real Estate and Construction Management
+106 unique papers · 2008-09 to 2025-26 · Common (all branches), Information Technology, Chemical, Computer Science and Business Systems, Computer Engineering, Electronics and Telecommunication, Artificial Intelligence, Data Science, Mechanical, Manufacturing, Real Estate and Construction Management
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1356,6 +1356,138 @@ company, and why?
 FRR 0 a kk
 
 .
+````
+
+## 2025-26 · Re-Exam · Sem 8 · paper b0f4f893b698
+
+- Departments: Computer Engineering
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047
+- Source: `00_Original_Downloads/2023/76631__Semester VIII.zip :: Re-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047/Financial Management/QP_Re-Exam_Financial Management(703TF0C003)_Semester VIII_2023-2024.pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 02 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA Tech (Comp)/MBA Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2025-2026)
+Subject: Financial Management
+Date: 02 May 2026   Time: 02:00 pm to 04:00 pm (02:00 Hrs.)
+Max. Marks: 50
+RE EXAMINATION (Acad. Year:2023-2024)
+Instructions:
+1. This question paper contains 3 pages.
+2. This question paper contains 1 pages.
+3. Question 1 is Compulsory.
+4. From remaining questions, attempt any four.
+5. In all five questions to be attempted.
+6. Figure in right hand side indicates full marks
+7. Answer to each new question to be started on a fresh page.
+8. All questions carry equal marks.
+9. Assume suitable data if necessary
+Q1   Answer briefly:   [10]
+CO-2;   Mr. Sharma invests ₹20,000 per month in a systematic savings
+a.
+SO- ;   plan that offers 1.2% monthly interest compounded monthly. What   [2.5]
+BL- Apply   will be the value of his investment after 8 years?
+ABC Ltd. is considering a project that requires an initial
+investment of $120,000 that will generate annual cash flows after
+CO- 2; SO- ;   b.
+taxes of $40,000; $38,000; $42,000 and $35,000 respectively.   [2.5]
+BL-Apply
+Suggest whether the company should invest in this project if the
+cutoff period is 3 years.
+CO- 1; SO- ;
+c. Cost of capital is considered an important basis for evaluating
+BL-   [2.5]
+capital investment decisions. Explain and justify this statement.
+Understand
+CO- 1; SO- ;
+d. What do you mean by Financing decisions in Financial
+BL-   [2.5]
+Management?
+Understand
+Q2   Answer the following:   [10]
+Ms. Neha is planning for a steady annual income and expects a
+return of 7%. How much should she invest for each of the
+CO-2 ; SO- ;
+following alternatives? Which alternative should she choose?   [05]
+BL- Apply   a
+i. Earn ₹12,000 at the end of each year for the next 12 years
+ii. Earn ₹6,000 at the end of each year for the next 22 years
+CO-1 ; SO- ;
+Explain the role and importance of financial markets in an
+BL-   b   [05]
+economy.
+Understand
+********** 1 **********
+--- page 2 ---
+Kavya Industries is evaluating a project for manufacturing a new
+product. The machinery required will cost ₹1,80,000 with a life of
+3 years and a salvage value of ₹15,000. Additional working capital
+requirement is ₹40,000.
+Q3   The selling price per unit is ₹10 and variable cost per unit is ₹5.
+CO-3; SO-;   Annual fixed cost will be ₹70,000.   [10]
+BL- Analyse   Expected demand is 60,000 units, 58,000 units, and 55,000 units
+over the next three years. The firm falls under a 35% tax bracket.
+If the cost of capital is 16% and depreciation is charged using the
+straight-line method, should the project be accepted as per NPV
+method?
+PQR Ltd. has the following book value capital structure:
+Particulars   ₹ in crore
+Equity share capital (₹10 each, fully paid)   100
+13% Preference share capital (₹100 each)   20
+10.5% Debentures (₹100 each)   40
+Q4   12% Term Loan   15
+CO-2; SO-;   The expected dividend per equity share next year is ₹5.50, growing   [10]
+BL- Apply   at 9% annually. The current market price per share is ₹70. The
+corporate tax rate is 35%.
+Preference shares, redeemable after 12 years, are selling at ₹102,
+and debentures, redeemable after 7 years, are selling at ₹98.
+Compute the weighted average cost of capital using:
+(a) Book value proportions (b) Market value proportions
+Following data of Alpha Industries Ltd. and Beta Industries Ltd.
+is available to you:
+Selling Price = ₹120 per unit
+Variable Cost = 65% of sales
+Fixed Cost = ₹6,00,000
+a. Prepare the Operating Income Statement of Alpha Industries
+Ltd. and Beta Industries Ltd.
+Q5   b. Calculate the Operating Leverage if Alpha Industries Ltd. and
+CO-3; SO-;   Beta Industries Ltd. produce and sell 18,000 units and 22,000   [10]
+BL- Analyse   units respectively
+c. If sales increase by 6%, what would be the percentage change
+in EBIT?
+d. Gamma Ltd. is planning to acquire one of the above
+companies. Which one would you recommend if Gamma Ltd.
+prefers high risk and high returns? Justify your answer.
+********** 2 **********
+--- page 3 ---
+Nova Limited is planning to consider raising a Capital of Rs.
+25,00,000.
+Different Financing Plans and relevant information is as below:
+Financing Plan   Equity (%)   Debt (%)   Preference (%)
+A   40%   60%   -
+Q6   B   30%   40%   30%
+CO-2; SO-;   [10]
+BL- Apply
+C   20%   50%   30%
+• Cost of debt is 9%
+• Cost of Preference share is 12%
+• Tax rate 30%
+• Face value of Equity share is Rs. 100 per share
+• Expected EBIT 8,00,000
+Suggest which financial Plan should be chosen by the Nova
+Limited
+Ganga Ltd. has an investment of ₹25 crore divided into 25 lakh
+ordinary shares. The equity capitalization rate is 11%. Determine
+Q7
+the optimum dividend payout policy of the company using
+CO-2; SO-;   [10]
+Gordon’s Model if rate of return on investment is 18%
+BL- Apply
+Write a note on Gordon’s Model
+********** 3 **********
 ````
 
 ## 2025-26 · Re-Exam · Sem 8 · paper ab5fa9188d5e
@@ -5118,6 +5250,202 @@ wee 19 6.550 6.198 5.877 5.584 5.316 5.970 4,844 4.097 3.539 3.109 2.770 2.496
 20 6.623 6.259 5.929 5.628 5.353 5.101 4.870 4.110 3.546 3.113 2.772 2.497
 25: 6.873 6.464 6.097 5.766 5,467 5.195 4,948 4.147   °3,564 3.122 2.776 2.499
 30 7.003 6.566 6.177 5.829 5.517 5.235 4.979 4.160 3.569 3.124 2.778 2.500
+````
+
+## 2024-25 · Re-Exam · Sem 8 · paper b4846fb7c27f
+
+- Departments: Electronics and Telecommunication
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (ELECTRONICS & TELECOMMUNICATION ENGINEERING) - 7043
+- Source: `00_Original_Downloads/2024/67754__Semester VIII__context_fixed.zip :: Re-Exam/MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (ELECTRONICS & TELECOMMUNICATION ENGINEERING) - 7043/Financial Management/QP_Re-Exam_Financial Management(703TF0C003)_Semester VIII_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
+- Text: text (4 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MBA. Tech (AI)/MBA. Tech (Chem)/MBA Tech (Comp)/MBA. Tech (DS)/MBA.
+Tech (EXTC)/MBA. Tech (IT)/MBA. Tech (Mech)
+Year: IV/Sem 8 Re-exam(Exam Year: 2024-2025)
+Subject: Financial Management
+Date: 01 Jul 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No.1 is compulsory.
+5. Out of the remaining questions, attempt any 4 questions.
+6. All questions carry equal marks.
+Q.1   a. Differentiate between primary and secondary market.   [05]
+CO -1
+BL -
+Remembe
+r
+Q.1   b The firm has borrowed Rs. 100,000 at an annual interest rate of 15%, with the loan to be   [05]
+CO - 2   .   repaid in 2 equal instalments. Calculate annual instalments and prepare an amortization
+BL -   schedule for 2 years.
+Apply
+Q.1   c. A firm is considering alternative proposals to finance its expansion plan of Rs 7,50,000.   [05]
+CO - 2
+BL-   Two such proposals are:
+Apply   I.   Issue of 9% Debenture of Rs 3,50,000 and issue of 4,000 equity shares of Rs 100
+each and
+II.   Issue of 7500 equity shares of Rs 100 each.
+The firm’s present capital structure is as follows:
+Equity capital of Rs 100 each   Rs 10,00,000
+8% Debenture   Rs 4,00,000
+Given the tax rate at 40%. Compute the indifference level of EBIT of two financial plans
+Q.1   d A corporation is assessing Company A and Company B for a potential acquisition. Both   [05]
+CO - 2   .   companies operate within the same industry and have identical revenue streams, cost
+BL-   structures, and operational efficiency. However, they differ in their capital structure,
+Apply   leading to variations in their financial risk.
+The corporation aims to acquire the company with the lower financial risk. Suggest which
+company should be acquired based on below given information.
+Company A:   Company B:
+EBIT (Earnings Before Interest & Tax):   EBIT (Earnings Before Interest & Tax):
+₹1200000   ₹1200000
+Equity Share capital - ₹200000   Equity Share capital - ₹1000000
+Total Debt @ 10%: ₹1500000   Total Debt @ 8%: ₹500000
+Preference Share Capital @ 12%: ₹800000   Preference Share Capital @ 10%: ₹1000000
+Corporate Tax Rate: 30%
+********** 1 **********
+--- page 2 ---
+Q.2   A manufacturing company is evaluating two machines, Machine X and Machine Y, for   [20]
+CO -3   investment. Both machines have different costs, operating expenses, lifespans, and working
+BL   capital requirements. The company needs to determine the cash flows from each machine
+Analyze   and use capital budgeting techniques to decide which one to purchase.
+The financial details for each machine are as follows:
+Machine   Machine
+Details
+X   Y
+Initial Cost (₹)   5,00,000   6,00,000
+Expected Life (Years)   5   6
+Annual Revenue (₹)   2,50,000   3,00,000
+Annual Operating Cost (₹) (excluding
+1,00,000   1,20,000
+Depreciation)
+Salvage Value (₹)   50,000   60000
+Working Capital Requirement (₹)   50,000   40,000
+Tax Rate (%)   30%
+Required
+a) Compute the Net Present Value (NPV) for both machines using a discount rate of
+10% and recommend which machine should be selected.
+b) Calculate the Discounted Payback Period for both Machine X and Machine Y at
+the rate of 10%, and determine which machine recovers its investment faster.
+Q.3   Raj Corporation has the following book value capital structure:   [20]
+CO -3   Sources of Capital   Amount (₹ million)
+BL Apply
+Equity Capital (12 million share, Rs.10 each)   120
+Preference Capital, 10% (1.2 million shares, ₹100 par)   120
+Retained Earnings,   140
+Debentures 14% (0.6 million debentures, ₹100 each)   60
+Term Loans, 13%   90
+Total Capital   530
+The following additional information is given:
+• The next expected dividend per share is ₹2. The dividend per share is expected to
+grow at a rate of 6% and the market price per equity share is ₹24.
+•   Preference stock, redeemable after 9 years, is currently selling for ₹98 per share.
+•   Debentures, redeemable after 7 years, are selling for ₹103 per debenture.
+• The tax rate for the company is 45%.
+Calculate the WACC using both book value and market value proportions.
+Q.4 a.   The capital structure of ABC Ltd. consists of the following:   [10]
+CO - 4
+BL
+Analyze
+Amount (Rs.
+Particulars   Lakhs)
+Equity Shares of Rs. 100
+each   40
+Retained Earnings   20
+12% Preference Shares   15
+7% Debentures   25
+Total Capital   100
+********** 2 **********
+--- page 3 ---
+The company plans an expansion that requires additional Rs. 60 Lakhs. The company has
+the following financing options:
+Financing Options:
+1. Plan 1: Issue of 20,000 equity shares at Rs. 200 per share (raising Rs. 40 Lakhs)
+and issue Rs. 20 Lakhs worth of Debentures at 9% interest.
+2. Plan 2: Issue of Rs. 60 Lakhs worth of Debentures at 10% interest.
+Additional Information:
+• The company's current EBIT is Rs. 12,00,000, which is expected to increase by Rs.
+4,00,000 after expansion.
+• The income tax rate is 30%.
+Requirement:
+Analyze both financing options using EBIT-EPS analysis and determine which plan is
+better.
+Q.4 b.   A company belongs to a risk class for which the capitalization rate is 12%. It currently has   [10]
+CO - 2   30,000 outstanding shares selling at ₹120 each. The firm is contemplating the declaration
+BL Apply   of a dividend of ₹6 per share at the end of the current financial year.
+It expects to have a net income of ₹3,60,000 and has a proposal for making new
+investments of ₹7,20,000.
+Compute the value of the firm (Po) if the dividend amount is paid and when dividend is not
+paid using MM Hypothesis.
+Q.5   The management of Kristen Enterprises has called for a statement showing the working   [20]
+CO - 4   capital required to finance a level of activity of 3,00,000 units of output for the year based
+BL Apply   on cost.
+The cost structure for the company’s product for the above-mentioned level of activity is
+detailed below:
+Particulars   Cost per unit
+Rs
+Raw materials   100
+Direct labour   25
+Manufacturing Overhead (including depreciation of Rs 10 per   45
+unit)
+Administration Overheads (including depreciation of Rs 5 per   30
+unit)
+Total Cost   200
+Selling price   500
+Additional Information:
+(i)   Minimum cash balance desired Rs. 15,00,000.
+(ii)   Raw materials are held, in stock, on average, for two months.
+(iii)   Work in progress (assume 50% completion stage) will approximate to half a
+month’s production
+(iv)   Finished goods are in stock on average for a 1.5-month period.
+(v)   Credit allowed by suppliers is 1 month period
+(vi)   Credit allowed to debtors is 2 months period.
+(vii)   Time lag in payment of wages is ½ month.
+(viii) Time lag in payment of Manufacturing overhead is 1/4th month.
+(ix)   Time lag in payment of Administration overhead is ½ month
+(x)   1/3rd of the sales are made on a cash basis.
+(xi)   Provide 10% of Net working capital as Safety Margin
+You may assume that production is carried on evenly throughout the year
+Q.6 a.   ABC Ltd has annual sales of Rs 3000000. The selling price per unit is Rs 12 and the variable   [10]
+CO - 3   cost is 65% of the selling price. The required rate of return on investment is 18%. The
+BL   average cost per unit is Rs 10.5 annual collection expenditure is Rs 60000, and the percentage
+Analyze   of default is 3.2%. The current credit period is 2.5 months.
+********** 3 **********
+--- page 4 ---
+ABC Ltd is considering a change in the credit policy by following Program X or Program Y
+as described below:
+Program   X   Y
+Average
+collection period
+(months)   1.8   1.2
+Annual collection
+expenditure (Rs)   85000   170000
+Percentage of
+default (%)   2   1.2
+Determine which collection program ABC Ltd should follow. Compare existing and new
+credit policy.
+Q.6 b.   How do Debentures and Preference Shares differ as financial instruments for raising   [10]
+CO - 1   capital?
+BL
+Remembe
+r
+Q.7 a   Explain the concept of agency conflict, discuss the reasons behind its occurrence, and   [10]
+CO -1   describe ways to overcome it in an organization.
+BL
+Remembe
+r
+Q.7 b   What are the major categories of costs associated with the extension of credit and accounts   [10]
+CO -1   receivable?
+BL
+Remembe
+r
+********** 4 **********
 ````
 
 ## 2024-25 · Re-Exam · Sem 8 · paper f1b637712260

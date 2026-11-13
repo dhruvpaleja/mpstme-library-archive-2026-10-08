@@ -1,6 +1,6 @@
 # Customer Relationship Management
 
-**3** unique papers (3 copies across programmes) · 2008-09 to 2017-18 · 1 programme · Sem 9, Trim 14
+**7** unique papers (7 copies across programmes) · 2008-09 to 2025-26 · 2 programmes · Sem 2, Sem 9, Trim 14
 
 Download only this subject, sorted by academic year:
 
@@ -16,6 +16,10 @@ Also filed as: `CUSTEMER RELETIONSHIP MANAGEMENT`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | Bachelor of Commerce - 45611 | QP_Final-Exam_Customer Relationship Management(NACRM158)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | Bachelor of Commerce - 45611 | ANS_Final-Exam_Customer Relationship Management(NACRM158)_Semester II_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | Bachelor of Commerce - 45611 | QP_Re-Exam_Customer Relationship Management(NACRM158)_Semester II_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | Bachelor of Commerce - 45611 | ANS_Re-Exam_Customer Relationship Management(NACRM158)_Semester II_2025-2026.pdf |
 | 2017-18 | Final-Exam | Question paper | Sem 9 | MBA TECH | Customer Relationship Management 2017-18 Final.pdf |
 | 2016-17 | Final-Exam | Question paper | Sem 9 | MBA TECH | Customer Relationship Management Batch 2016-17 Final.pdf |
 | 2008-09 | — | Question paper | Trim 14 | MBA TECH | 2008-2009(139).pdf |

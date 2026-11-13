@@ -1,6 +1,6 @@
 # Entrepreneurship Management
 
-**12** unique papers (12 copies across programmes) · 2008-09 to 2015-16 · 1 programme · Sem 9, Trim 14
+**14** unique papers (14 copies across programmes) · 2008-09 to 2025-26 · 2 programmes · Sem 2, Sem 9, Trim 14
 
 Download only this subject, sorted by academic year:
 
@@ -16,6 +16,8 @@ Also filed as: `ENTREPRENEUSHIP MANAGEMENT`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703 | QP_Final-Exam_Entrepreneurship Management(NKEMT558)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703 | ANS_Final-Exam_Entrepreneurship Management(NKEMT558)_Semester II_2025-2026.pdf |
 | 2015-16 | Final-Exam | Question paper | Sem 9 | MBA TECH | Entrepreneurship Management Batch 2015-16 Final.pdf |
 | 2014-15 | Final-Exam | Question paper | Sem 9 | MBA TECH | Entrepreneurship Management 2014-15 Final.pdf |
 | 2014-15 | Re-Exam | Question paper | Sem 9 | MBA TECH | Entrepreneurship Management 2014-15 Re-exam.pdf |

@@ -1,6 +1,6 @@
 # Object Oriented Programming: question papers in full
 
-39 unique papers · 2015-16 to 2025-26 · Computer Engineering, Computer Science and Business Systems, Electronics and Telecommunication, Mechatronics, Information Technology, Data Science, Cyber Security, Computer Science, Common (all branches), Mechanical
+41 unique papers · 2015-16 to 2025-26 · Computer Engineering, Computer Science and Business Systems, Electronics and Telecommunication, Mechatronics, Computer Science, Information Technology, Data Science, Cyber Security, Common (all branches), Mechanical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -428,6 +428,117 @@ CO-1 B   Create an object-oriented program that determines if a number is even o
 BL-3   odd.
 CO-2 C   Apply the concept of abstraction by explaining its meaning with an   [05]
 BL-3   appropriate example.
+X----------------------------------------------------------------------------------------------------------------- X
+********** 3 **********
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper 32aa7f38d79a
+
+- Departments: Computer Science
+- Programmes: BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE) - 7055
+- Source: `00_Original_Downloads/2025/Semester II/75268__Re-Exam.zip :: BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE) - 7055/OBJECT ORIENTED PROGRAMMING/QP_Re-Exam_OBJECT ORIENTED PROGRAMMING(702CO0C075)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (COMP)/B. Tech (CS)/B. Tech (CSBS)/B. TECH (CSE - DS)/MBA Tech
+(Comp)
+Year: I/Sem 2 Re-exam(Exam Year: 2025-2026)
+Subject: OBJECT ORIENTED PROGRAMMING
+Date: 09 Jul 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Section A is compulsory.
+3. Attempt any 4 questions from Section B.
+4. In all 5 questions are to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. The figure on the right-hand side indicates full marks.
+8. Assume suitable data if necessary.
+Section-A
+Q1
+CO-1   A.   What are the key paradigms of object-oriented programming? List and   [05]
+BL-3
+demonstrate each one with an example.
+CO-2   B.   Consider a product class with only one data member, discount. Apply the   [05]
+BL-3
+concept of constructor overloading to write an object-oriented program,
+such that one constructor initializes the discount to 5 and another
+parameterized constructor initializes it to 10 by accepting the discount as a
+parameter. Create two objects by invoking both the constructors and
+displaying the discount.
+CO-4   C.   What is an abstract class? Utilize the concept of abstract to explain its   [05]
+BL-3
+working with a programming example.
+CO-5   D.   What is a generic class? Demonstrate its implementation with an appropriate   [05]
+BL-3
+programming example?
+Section- B
+Q2
+CO-2 A   What is Inheritance? What are its types? Develop a program that explains   [10]
+BL-3   the concept of multilevel inheritance.
+CO-4 B   A library maintains various types of items, such as Books and Magazines.   [10]
+BL-3   Each item calculates its late fee differently. Write an object-oriented
+********** 1 **********
+--- page 2 ---
+program to create an abstract class LibraryItem, which includes an abstract
+method calculateLateFee( ). The class LibraryItem has subclasses Book and
+Magazine. Both subclasses implement calculateLateFee( ) and display the
+late fees for each item. Create a main class to execute the program. Consider
+late fees of Rs. 3 per day for Magazines and Rs. 5 per day for books.
+Q3
+CO-3 A   Write an object-oriented program that defines a method divide(int a, int b),   [10]
+BL-3   which throws an arithmetic exception if division by zero occurs. Call this
+method from the main( ) method and handle the exception.
+CO-5 B   What is the Singleton design pattern? Use the Singleton design pattern to   [10]
+BL-3   create a program that creates only one instance.
+Q4
+CO-2 A   Develop an Object-oriented program to maintain a database of employees   [10]
+BL-3   for an educational institution. The Staff class has instance variables such as
+id and name. The Teacher and Officer are inherited from Staff. The Teacher
+class has an instance variable, subject taught, and the Officer class has a
+work type as an instance variable. Each class will have instance methods
+read ( ) and show ( ). Specify all the classes and define methods to create
+the database described above and to retrieve individual information.
+CO-1 B   What are arrays? Explain how to declare, initialise, and create them with a   [10]
+BL-3
+programming example.
+Q5
+CO-1 A   Define a class named GradeTest with a method gradeCheck(int) that accepts   [10]
+BL-3   marks as a parameter and classifies the score based on the range: display A
+if 90-100, B for 80-90, C for 70-80, D for 60-70, E for 50-60, F for 0-50, and
+indicate invalid otherwise. Write a complete object-oriented programming
+(OOP) program to demonstrate this scenario.
+CO-4 B   What are wrapper classes? Explain how wrapper classes assist with data   [10]
+BL-3   conversion. Develop a program that reads three numbers as Strings, converts
+them into integers using wrapper class methods, and calculates the sum and
+average.
+Q6
+CO-5 A   Create a class ComplexNumber with real and imaginary parts as instance   [10]
+BL-3   variables to represent a complex number (a + bi). Develop an object-
+oriented program that utilizes a generic class StoreComplexNumber to store,
+********** 2 **********
+--- page 3 ---
+input, and output a complex number using a user-defined Complex class.
+Use the constructor to store the number, and provide methods to read and
+display it.
+CO-2 B   Use your knowledge of Object-Oriented Programming to distinguish   [10]
+BL-3   between the following.
+→ Methods and Constructors
+→ Encapsulation and Abstraction
+Q7
+CO-3 A   Write an object-oriented program that copies a file's contents to another   [10]
+BL-3   using byte-oriented streams. The program should prompt the user for source
+and destination filenames, manage exceptions properly, and display a
+success message upon completion.
+CO-1 B   Build an object-oriented program to determine whether a specified number   [05]
+BL-3   lies within the range of 50 to 100 (inclusive)
+CO-2 C   Apply your understanding of Polymorphism to explain run-time   [05]
+BL-3   polymorphism with a suitable programming example.
 X----------------------------------------------------------------------------------------------------------------- X
 ********** 3 **********
 ````

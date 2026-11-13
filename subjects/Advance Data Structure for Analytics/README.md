@@ -1,6 +1,6 @@
 # Advance Data Structure for Analytics
 
-**20** unique papers (24 copies across programmes) · 2022-23 to 2025-26 · 7 programmes · Sem 6, Sem 10
+**22** unique papers (26 copies across programmes) · 2022-23 to 2025-26 · 8 programmes · Sem 6, Sem 10
 
 Download only this subject, sorted by academic year:
 
@@ -16,9 +16,11 @@ Also filed as: `ADVANCED DATA STRUCTURE FOR ANALYTICS`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Question paper | Sem 10 | BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038 | QP_Final-Exam_Advance Data Structure for Analytics(702DB0C026)_Semester X_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech CSE DS 7057 | QP_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech DS 7009 | QP_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | MBATech DS 7052 | QP_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 10 | BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038 | ANS_Final-Exam_Advance Data Structure for Analytics(702DB0C026)_Semester X_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | BTech CSE DS 7057 | ANS_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | BTech DS 7009 | ANS_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech DS 7052 | ANS_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf |

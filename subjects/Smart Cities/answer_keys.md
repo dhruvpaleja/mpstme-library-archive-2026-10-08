@@ -2,6 +2,189 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 10 · Answer key · paper 2a19ce73b04d
+
+- Departments: Data Science
+- Programmes: BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038
+- Source: `00_Original_Downloads/2025/76555__Semester X.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038/Smart Cities/ANS_Final-Exam_Smart Cities(702CI0I008)_Semester X_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
+- Text: text (3 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (CIVIL)/B. Tech (COMP)/B. Tech (CSE - CS)/B. Tech (EXTC)/B. Tech
+Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)/B. Tech (IT)/B. Tech
+(MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (DS)/MBA Tech
+(IT)
+Year: III / V/Semester VI/Semester X(Exam Year: 2025-2026)
+Subject: Smart Cities
+Date: 15 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question No. 1 is compulsory
+3. Out of remaining questions, attempt any 4 questions.
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q-1   Answer briefly:   [20]
+a   Discuss various strategies for smart city development as per Smart Cities Mission.
+The Mission has adopted a two-pronged strategy:
+CO1   area-based development, wherein certain areas are taken up for development, and   [05]
+L-2   2 maarks
+pan-city solutions, wherein cities implement at least one or more smart solutions in areas
+of priority for the entire city. 2 marks
+Purpose driven city   1 mark
+b   Discuss your ideas for modernization of an existing water supply network in a city
+CO-2   [05]
+L-2   as part of Smart city initiative.
+Opinion based
+c   Explain how smart analytics can help in saving life of a patient being carried in a
+ambulance on a busy road.
+Using technologies from the Internet of Things and Artificial Intelligence, ambulances can transmit
+a patient’s vital signs (heart rate, oxygen levels, etc.) to hospitals in real time. This allows doctors to
+CO-3   prepare treatment in advance.   [05]
+L-3
+Smart traffic systems analyze live road conditions and use Predictive Analytics to find the fastest
+route. They can also control traffic signals to give ambulances priority, reducing delays.
+Additionally, onboard analytics can alert paramedics to sudden changes in the patient’s condition,
+enabling quicker interventions.
+d   Explain ‘Public Private Partnership’ model of Smart cities financing strategies
+CO-1   Public Private Partnership means an arrangement between a government/statutory
+L-2   entity/government owned entity on one side and a private sector entity on the other.   [05]
+It is often done for the provision of public assets or public services, through investments being
+made and/or management being undertaken by the private sector entity, for a specified period
+of time.
+There is well defined allocation of risk between the private sector and the public entity.
+********** 1 **********
+--- page 2 ---
+The private entity who is chosen on the basis of open competitive bidding, receives performance
+linked payments that conform (or are benchmarked) to specified and pre-determined performance
+standards, measurable by the public entity or its representative.
+Q-2
+a   Explain the need for developing smart cities in India.
+   To drive economic growth and improve the quality of life of people by:
+- Enabling local area development
+- Harnessing technology, especially technology that leads to Smart outcomes.
+- Area based development to transform existing areas (retrofit and redevelop), including slums, into better
+planned ones, thereby improving liveability of the whole City.
+- New areas (greenfield) to be developed around cities in order to accommodate the expanding population in
+urban areas.
+- Application of Smart Solutions to enable cities to use technology, information and data to improve infrastructure
+and services.
+   Comprehensive development in this way will improve quality of life, create employment and enhance incomes   [10]
+CO-1
+for all, especially the poor and the disadvantaged, leading to inclusive Cities.
+L-2
+What are the objectives of smart cities mission?
+- Provide core infrastructure
+- Ensuring decent quality of life to citizens
+- Promising to clean and sustainable environment
+- Application of smart solutions towards Governance and Management.
+Focus is on sustainable and inclusive development
+Focus on setting examples that can be replicated both within and outside the Smart City,
+catalysing the creation of similar Smart Cities in various regions and parts of the country.
+b   Elaborate on challenges posed by city government in implementing Smart city
+initiative program.
+ Understanding the concepts of retrofitting, redevelopment and green-field development by
+the policy makers, implementers and other stakeholders at different levels.
+ Major investments in time and resources has to be made during the planning phase. This is
+CO-1   different from the conventional DPR-driven approach
+[10]
+L-2    The Smart Cities Mission requires smart people who actively participate in governance and
+reforms. Citizen involvement is much more than a ceremonial participation in governance.
+Smart people involve themselves in the definition of the Smart City, decisions on deploying Smart
+Solutions, implementing reforms, doing more with less and oversight during implementing and
+designing post-project structures in order to make the Smart City developments sustainable.
+Q-3
+a   i)   Features of Smart City
+ii)   Mixed land use in area-based developments – ‘Planning for Unplanned’ containing a range of compatible
+activities and land uses close to one another in order to make land use more efficient.
+iii)   Housing and inclusiveness - housing opportunities for all
+iv)   Creating walkable localities
+v)   - reduce congestion, air pollution and resource depletion,
+vi)   - boost local economy,
+vii)   - promote interactions and ensure security.
+viii)   - The road network is created or refurbished not only for vehicles and public transport, but also for
+pedestrians and cyclists,
+CO-1
+[10]
+L-2   ii)   Role of Special Purpose Vehicle in Smart City
+•   The implementation of the Mission at the City level will be done by a Special Purpose Vehicle (SPV)
+created for the purpose. The SPV will plan, appraise, approve, release funds, implement, manage, operate,
+monitor and evaluate the Smart City development projects.
+•   The execution of projects may be done through joint ventures, subsidiaries, public-private partnership
+(PPP), turnkey contracts, etc suitably dovetailed with revenue streams.
+•   The SPV is a limited company incorporated under the Companies Act, 2013 at the city-level, in which the
+State/UT and the ULB will be the promoters having 50:50 equity shareholding.
+•   The private sector or financial institutions could be considered for taking equity stake in the SPV, provided
+the shareholding pattern of 50:50 of the State/UT and the ULB is maintained and the State/UT and the ULB
+together have majority shareholding and control of the SPV.
+b   State and explain the application of ICT in various components of electricity
+CO-2   ecosystem.
+[10]
+L-2
+Ecosystem : Generation, Transmission, Distribution and supply 2 mark
+Explanation 2 marks each
+********** 2 **********
+--- page 3 ---
+Q-4
+a   Discuss various sensing technologies for ‘Intelligent Transportation Services’,
+CO-3   ‘Energy System’, Eater supply system’, Solid Waste Management System’.   [10]
+L-3   Ghost pipe, pressure drop, smart bins, voice sensor, video sensor etc.
+CO-2   b   Discuss the role of ‘Big Data’ frameworks in urban transportation and crime   [10]
+L-2   prevention.
+Opinion based
+Q-5
+CO-3   a   Explain ‘Collecting, Communicating and Crunching Data’ function of Information   [10]
+L-3   and Telecommunication Technology on a real time basis in context to Smart city.
+Each aspect explaination (3 marks each 1 mark for real time basis)
+b   Explain the significance of Geospatial Technology and Information &
+Communication Technology in Smart City infrastructure development projects.
+1. Geospatial Technology (GIS, Remote Sensing):
+Helps in mapping, planning, and managing urban infrastructure using spatial data. It
+CO-2   supports site selection, land-use planning, utility mapping, and disaster management.   [10]
+L-2   Example: GIS-based mapping of water supply or road networks.
+Information & Communication Technology (ICT):
+Enables real-time monitoring, data collection, and efficient service delivery through sensors,
+networks, and digital platforms. It improves coordination, automation, and decision-making.
+Example: Smart traffic management systems, e-governance services.
+Q-6
+a You are planning to upgrade the city's transportation system by introducing an
+advanced metro rail system. How would you fund this project and why?
+CO-1   i) Public funds   [10]
+L-2
+ii) Adopt a PPP structure
+iii) Give it to the private sector
+Opinion based
+b
+Write short notes on:
+CO-2   i)   ‘Smart healthcare’
+L-2   Explanation min 5 pts   [10]
+ii)   Significance of GIS in Smart city
+locating underground utilities, alignment of public transportation facility, geo
+referencing of various facilities, zoning, taxation etc. – Any five with explanation – 1
+marks each
+Q-7
+CO-2   a   Explain the impact of public transportation facility on ‘Livability’ and ‘Workability [10]
+L-2   in a Smart City.
+Types of pre trip information services, on trip information services – any five with examples – 2 marks each
+b   You are in charge of a Smart City planning, development and
+implementation project. In this regard -
+i)   Explain at least two basic principles that you consider in its   [10]
+CO-1
+L-1   planning and development.
+ii)   Explain the Information and Communication Technology
+components necessarily required to be provided in this project.
+Personal but logical view.
+********** 3 **********
+````
+
 ## 2025-26 · Final-Exam · Sem 5 · Answer key · paper 4063c579fc0a
 
 - Departments: Civil

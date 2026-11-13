@@ -1,6 +1,6 @@
 # Computer Graphics
 
-**38** unique papers (43 copies across programmes) · 2013-14 to 2025-26 · 7 programmes · Sem 5, Sem 6
+**40** unique papers (45 copies across programmes) · 2013-14 to 2025-26 · 7 programmes · Sem 5, Sem 6, Sem 8
 
 Download only this subject, sorted by academic year:
 
@@ -40,8 +40,10 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2022-23 | Re-Exam | Question paper | Sem 5 | MBA TECH / I T | Computer Graphics,Re-exam 2022-23.pdf |
 | 2019-20 | Final + Re-Exam | Question paper | Sem 5 | B TECH / COMPUTER | COMPUTER GRAPHICS FINAL EXAM 19-20 AND RE EXAM BATCH 17-18 19-19.pdf |
 | 2018-19 | Final + Re-Exam | Question paper | Sem 5 | B TECH / COMPUTER | COMPUTER GRAPHICS FINAL EXAM 18-19 AND RE EXAM 17-18.pdf |
+| 2018-19 | Final-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / COMPUTER | Computer_Graphics_2018-19_Final_ODl4Taj6Wq.pdf |
 | 2018-19 | Re-Exam | Question paper | Sem 5 | B TECH / COMPUTER | COMPUTER GRAPHICS BATCH 17-18 18-19 RE EXAM.pdf |
 | 2017-18 | Final-Exam | Question paper | Sem 5 | B TECH / COMPUTER | COMPUTER GRAPHICS (COMPUTER), FINAL EXAM 2017-18.pdf |
+| 2017-18 | Final-Exam | Question paper | Sem 8 | B.TECH INTEGRATED / COMPUTER | Computer_Graphics_2017-18_Final_fKv8fw186V.pdf |
 | 2017-18 | Re-Exam | Question paper | Sem 5 | B TECH / COMPUTER | COMPUTER GRAPHICS BATCH 17-18 RE EXAM 2017-18.pdf |
 | 2016-17 | Re-Exam | Question paper | Sem 5 | B TECH / COMPUTER | COMPUTER GRAPHICS BATCH 14-15,15-16,16-17 RE EXAM.pdf |
 | 2015-16 | Re-Exam | Question paper | Sem 5 | B TECH / COMPUTER | COMPUTER GRAPHICS B TECH (COMP), BATCH 14-15, 15-16 RE EXAM.pdf |

@@ -1,6 +1,6 @@
 # Rock Mechanics
 
-**9** unique papers (11 copies across programmes) · 2018-19 to 2025-26 · 4 programmes · Sem 6, Sem 7, Sem 8
+**10** unique papers (12 copies across programmes) · 2018-19 to 2025-26 · 5 programmes · Sem 6, Sem 7, Sem 8, Sem 10
 
 Download only this subject, sorted by academic year:
 
@@ -22,6 +22,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2022-23 | Final-Exam | Question paper | Sem 6 | B TECH / CIVIL | Rock Mechanics, Sem-VI, Year 2022-23, Final Exam.pdf |
 | 2021-22 | Final-Exam | Question paper | Sem 8 | B TECH / CIVIL, MBA TECH / CIVIL | Rock Mechanics,Sem8,Final,2021-22.pdf |
 | 2021-22 | Re-Exam | Question paper | Sem 8 | B TECH / CIVIL, MBA TECH / CIVIL | Rock Mechanics , Re-exam 2021-2022.pdf |
+| 2018-19 | — | Question paper | Sem 10 | B.TECH INTEGRATED / CIVIL | Rock_Mechanics_2018-19_0DsdtylR56.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 8 | B TECH / CIVIL | ROCK_MECHANICS_B TECH (CIVIL), 2018-19_FINAL_EXAM_.pdf |
 
 **Notes on papers placed here from a different folder**

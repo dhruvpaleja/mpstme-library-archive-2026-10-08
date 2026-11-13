@@ -1,6 +1,6 @@
 # Advanced Java
 
-**35** unique papers (36 copies across programmes) · 2008-09 to 2025-26 · 2 programmes · Sem 2, Sem 3, Trim 6
+**37** unique papers (38 copies across programmes) · 2008-09 to 2025-26 · 2 programmes · Sem 2, Sem 3, Trim 6
 
 Download only this subject, sorted by academic year:
 
@@ -22,6 +22,8 @@ Also filed as: `ADVANCE JAVA`
 | 2025-26 | Re-Exam | Question paper | Sem 2 | MCA | Advanced Java Batch 2024-25,2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Advanced Java(703CO0E019)_2025-2026.pdf |
 | 2024-25 | Final + Re-Exam | Question paper | Sem 2 | MCA | Advanced Java Batch 2024-25 Final Batch 2023-24,2022-23 Re Exam.pdf |
+| 2024-25 | Final-Exam | Question paper | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Final-Exam_Advanced Java(703CO0E019)_Semester II_2024-2025.pdf |
+| 2024-25 | Final-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Final-Exam_Advanced Java(703CO0E019)_Semester II_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Advanced Java(703CO0E019)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | ANS_Advanced Java(703CO0E019)_2024-2025.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 2 | MASTER OF COMPUTER APPLICATIONS - 7061 | QP_Advanced Java(703CO0E019)_2023-2024.pdf |

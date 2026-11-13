@@ -2,6 +2,151 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 4f0981b9f367
+
+- Departments: Mechatronics
+- Programmes: BACHELOR OF TECHNOLOGY (MECHATRONICS ENGINEERING) - 7004
+- Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: BACHELOR OF TECHNOLOGY (MECHATRONICS ENGINEERING) - 7004/Basic Electrical and Electronics Engineering/ANS_Final-Exam_Basic Electrical and Electronics Engineering(702EX0C001)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
+- Text: mixed (6 pages), mean OCR confidence 69.4
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (CIVIL)/B. Tech (COMP)/B. Tech (MXTC)/MBA Tech (Comp)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Basic Electrical and Electronics Engineering
+Date: 11 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 6 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. Assume suitable data if necessary.
+Q1   Answer briefly:   [20]
+a.   Find the equivalent resistance between A and B.
+CO-1; SO-1;
+BL-1,2
+[4]
+Ans=3.6 ohms
+CO-2; SO-1;   b.   Define, for an AC circuit:
+BL-2,3   (i)   RMS value
+(ii)   Average value   [4]
+Each 2 marks
+c.   Identify what will be secondary voltage at no load, If primary of a 10 kVA,
+440/220 V, 50 Hz transformer is fed at (i) 220 V, 50Hz AC (ii) 440 V dc?
+CO-3; SO-1;
+BL-1,2
+[4]
+No emf in case of dc input
+********** 1 **********
+--- page 2 ---
+CO-4; SO-1;   d. How does a Zener diode work as a voltage regulator?
+BL-2   Working 3 marks   [4]
+Diagram 1 mark
+CO-5; SO-1;   e. Compare AND gate and OR gate using their logic symbols, Boolean
+BL-2   expressions, and truth tables.   [4]
+1+1+2 marks
+a. Employ Thevenin’s theorem to find the current through 5Ω resistor in the
+network.
+Q2
+CO-1; SO-1;
+BL-3   [10]
+Vth=-19.27 V
+Rth=1.46 ohms
+IL=-0.298 A
+b. A resistor of 40 Ω, an inductor of 0.1 𝐻 and a capacitor of 100 𝜇𝐹 are
+connected in series. AC supply voltage of 230 𝑉, 50 𝐻𝑧 is connected across
+the series combination. Solve for the following: (i) impedance, (ii) current
+drawn by the circuit, (iii) phase difference and power factor, and (iv) active
+and reactive power consumed by the circuit.
+Q2
+CO-2; SO-1;   [10]
+BL-3
+********** 2 **********
+--- page 3 ---
+Pf=1
+Each part 2 marks
+Q3   a.   Explain the working of a DC with the help of a neat diagram.   [10]
+Diagram 4 marks
+CO-3; SO-1;   Working 6 marks
+BL-1,2
+Q3   b.   Explain the AC Analysis of a series R-L Circuit by using circuit diagram,
+phasor diagram, Voltage Triangle, Power triangle, Waveform of Voltage and
+CO-2; SO-1;   current.   [10]
+BL-4
+Each part 2 marks
+a.   Explain what are the conditions of resonance in a RLC series AC circuit.
+Q4   Draw the frequency response curve and show derivation of resonant
+frequency.
+CO-2; SO-1;   [10]
+BL-3   Resonance 4 marks
+Curve 3 marks
+Derivation 3 marks
+Q4   b. Analyze and explain forward and reverse bias in voltage-current
+characteristics of a p-n junction diode with the help of a suitable diagram.
+CO-4; SO-1;   [10]
+BL-1   Forward bias and reverse bias explanation 6 marks
+Diagram(s) 4 marks
+a. Show and explain the working of full wave bridge rectifier with the help of
+Q5   circuit diagram and suitable waveforms.
+CO-4; SO-1;   Diagram 4 marks   [10]
+BL-1   Explanation 3 marks
+Waveforms 3 marks
+Q5   b.   Discuss the half-adder logic circuit using block diagram, truth table, [10]
+********** 3 **********
+--- page 4 ---
+Boolean output expressions and logic circuit diagram.
+CO-5; SO-1;
+BL-2,3   Block diagram 2 marks
+Truth table 4 marks
+Expression 2 marks
+Logic diagram 2 marks
+a. By mesh analysis, find the current through 15Ω resistor in the circuit.
+Q6
+CO-1; SO-1;
+BL-1   [10]
+Q6   b.
+A 10 kVA, 3300/240 V, single-phase, 50 Hz transformer has a core area of
+CO-3; SO-1;   300 cm2. The flux density is 1.3 T. Find (i) number of primary turns, (ii) [10]
+BL-3   number of secondary turns, and (iii) primary full-load current.
+********** 4 **********
+--- page 5 ---
+Q7   a.   State and explain Superposition Theorem.
+CO-1; SO-1;   Statement 3 marks   [7]
+BL-3   Explanation 4 marks
+b. A single-phase transformer operates at 50 Hz with 100 primary turns and
+400 secondary turns. The applied primary voltage is 220 V. The core area is
+250 cm².
+Find:
+(i) Maximum flux density
+(ii) Secondary induced emf
+CO-3; SO-1;
+BL-1
+[7]
+CO-5; SO-1;   c.   Simplify the following Boolean expression and implement this Boolean [6]
+********** 5 **********
+--- page 6 ---
+BL-3 expression F using AND, OR, and NOT gates:
+F = ABC + A’ + AB’C
+
+i”
+
+— F=AB.CHA+ABC
+F=A.C.(B+B)+A
+F=A.C.(1I)+A
+F=A.C+A
+F=A+C
+
+lo
+
+A GK GRR RAK KR
+````
+
 ## 2025-26 · Final-Exam · Sem 1 · Answer key · paper fc8a43b60de5
 
 - Departments: AI and Data Science, Artificial Intelligence, Computer Science, Computer Science and Business Systems, Cyber Security, Data Science, Electronics and Telecommunication, Information Technology, Mechanical
@@ -1956,6 +2101,818 @@ F=A+C
 lo
 
 A GK GRR RAK KR
+````
+
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 26093cc493e3
+
+- Departments: Civil
+- Programmes: BACHELOR OF TECHNOLOGY(CIVIL ENGINEERING) - 7005
+- Source: `00_Original_Downloads/2025/Semester II/75268__Re-Exam.zip :: BACHELOR OF TECHNOLOGY(CIVIL ENGINEERING) - 7005/Basic Electrical and Electronics Engineering/ANS_Re-Exam_Basic Electrical and Electronics Engineering(702EX0C001)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Jul 2026
+- Text: mixed (16 pages), mean OCR confidence 78.7
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (CIVIL)/B. Tech (COMP)/B. Tech (MXTC)/MBA Tech (Comp)
+Year: I/Sem 2 Re-exam(Exam Year: 2025-2026)
+Subject: Basic Electrical and Electronics Engineering
+Date: 14 Jul 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 16 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. Assume suitable data if necessary.
+Q1   Answer briefly:   [20]
+a.   Find the equivalent resistance between A and B.
+CO-1; SO-1;
+BL-1,2
+[4]
+13 ||16 = (13 * 16)/ (13 + 16) = 6.66 Ω
+6.66 + 18= 24.66 Ω
+24.66 || 25 = (24.66 * 25) / (24.66 + 25) = 12.41 Ω   ---- 2 M
+12.41 + 18 = 30.41 Ω
+Resistance between AB is 30.41 Ω   ---- 2 M
+CO-2; SO-1;   b.
+BL-2,3   Illustrate a labeled diagram of Resonance Curve for a Series R-L-C circuit.
+Also write the equation for bandwidth and current at resonance for a Series
+[4]
+R-L-C circuit.
+********** 1 **********
+--- page 2 ---
+Resonance Curve in Series R-L-C circuit
+02 Marks
+Equation of Bandwidth
+BW= ω2 -ω1
+OR
+BW= f2 -f1
+Any one equation from above.
+01Mark
+Equation of Current
+I = V/R
+01Mark
+CO-3; SO-1;   c.
+BL-1,2   Show the derivation of the emf equation for a single phase transformer.
+[4]
+Derivation: 4 marks
+d.   Explain any four ideal characteristics of an OP-AMP.
+4 characteristics -4 marks
+1. Infinite voltage gain- open loop gain of an ideal OP-AMP is denoted by
+Av. It is the differential voltage gain and its value for an ideal OP-AMP is
+CO-4; SO-1;   infinite.
+2. Infinite input resistance or impedance- the input resistance or impedance
+BL-2
+of an ideal OP-amp is infinite. Due to infinite input resistance or impedance,   [4]
+almost any source can drive it. 3. Zero output resistance or impedance- the
+output resistance or impedance of an ideal OP-amp is zero. Due to this, the
+ideal Op-amp can handle infinite number of other devices.
+4. Zero offset voltage- in practical Op-amps a small output voltage is present
+even though both the inputs V1 and V2 are having a zero value. This voltage
+is called as the offset voltage. For ideal Op-amp the offset voltage is zero.
+That means output voltage is zero when input voltage is zero.
+5. Infinite Bandwidth- Bandwidth of an amplifier is the range of frequencies
+********** 2 **********
+--- page 3 ---
+over which all the signal frequencies are amplified almost equally. The
+bandwidth of an ideal Op-amp is infinite. So it can amplify any frequency
+from zero to infinite hertz.
+6. Infinite CMRR- for an Op-amp, the common mode rejection ratio
+(CMRR) is defined as the ratio of differential gain to common mode gain.
+CMRR is infinite for the ideal Op-amp. Thus the output voltage
+corresponding to the common mode noise is zero.
+7. Infinite slew rate- the slew rate of an ideal Op-amp is infinite so that the
+output voltage changes occur simultaneously with the input voltage changes.
+CO-5; SO-1;   e.
+BL-2   Summarize the two De Morgan’s theorems of Boolean algebra.
+[4]
+Each theorem (either in words or Boolean expression)- 2 marks
+a. Make use of superposition theorem to find the current flowing through the
+20 Ω resistor.
+Q2
+CO-1; SO-1;   [10]
+BL-3   Considering 120V source alone,
+1 mark
+********** 3 **********
+--- page 4 ---
+2 marks
+2 marks
+Considering 65V source alone,
+1 mark
+1 mark
+2 marks
+1 mark
+Q2   b. An R-L-C series circuit with a resistance of 10 Ω, inductance of 0.2 𝐻 and a
+[10]
+capacitance of 40 𝜇𝐹 is supplied with a 100 𝑉 supply at variable frequency.
+********** 4 **********
+--- page 5 ---
+CO-2; SO-1;   Solve for the following with respect to the series resonant circuit: (i)
+BL-3   resonant frequency (ii) current, (iii) power, (iv) power factor, (v) quality
+factor.
+02 Marks for each parameter. 02*5 = 10 Marks
+a. A single-phase 50 Hz transformer has 80 turns on the primary winding and
+280 turns in the secondary winding. The voltage applied across the primary
+winding is 240 V at 50 Hz. Find (i) maximum flux density in the core, and
+(ii) induced emf in the secondary. The net cross-sectional area of the core is
+200 cm2.
+Q3
+CO-3; SO-1;   [10]
+BL-1,2
+(i)   Maximum flux density in the core-5 Marks
+(ii) Induced emf in the secondary -5 Marks
+Q3   b.
+Analyze an AC Series RL Circuit by using circuit diagram, phasor diagram,
+CO-2; SO-1;   Voltage Triangle, Impedance Triangle, Power triangle, Waveform of [10]
+BL-4   Voltage and current.
+********** 5 **********
+--- page 6 ---
+𝑉= RMS Value of the applied voltage
+𝐼 = RMS Value of the resultant current
+𝑍= Impedance of the circuit
+𝑉𝑅= 𝐼𝑅= Voltage drop across R (In phase with I)
+𝑉𝐿= 𝐼𝑋𝐿=Voltage drop across L
+Phasor Diagram
+Phasor diagram:
+The applied ac voltage V results in flow of ac current I through the circuit
+which creates a voltage drop
+across resistor R and inductor L
+VR = I.R ---- where the voltage drop across R is in phase with current I
+VL = I.XL -----where voltage drop across coil L leads the current I by 900
+The voltage VR is
+in phase with I and VL leads the current I by 90o.
+Voltage Triangle
+𝑉⃗ = 𝑉𝑅⃗⃗⃗⃗ + 𝑉𝐿⃗⃗⃗ = 𝐼 𝑅+ 𝑗𝐼 𝑋𝐿= 𝐼 𝑍
+Where, 𝑍 = 𝑅+ 𝑗𝑋𝐿
+Where,|𝑉| = √𝑉𝑅 2 + 𝑉𝐿 2
+∅= tan−1 (𝑉𝐿 )
+𝑉𝑅
+Impedance Triangle
+********** 6 **********
+--- page 7 ---
+𝑍 = 𝑅+ 𝑗𝑋𝐿= |𝑍|∠∅
+Where,|𝑍| = √𝑅2 + 𝑋𝐿 2
+∅= tan−1 (𝑋𝐿 𝑅)
+𝑉   𝑉∠0°
+𝐼 = =   = |𝐼|∠−∅
+𝑍   |𝑍|∠∅
+Equation of Voltage & Current
+𝑣(𝑡) = 𝑉𝑚sin 𝜔𝑡
+∴𝑖(𝑡) = 𝐼𝑚sin(𝜔𝑡−∅)
+I lags behind V by an angle ∅
+Waveform of Voltage & Current
+circuit diagram-1m, phasor diagram-1m, Voltage Triangle-2m, Impedance
+Triangle-2m, Power triangle-2m, Waveform of Voltage and current-2m.
+a. An RLC circuit with the resistance of 10 ohms, inductance of 0.2 H and
+Q4   capacitor of 40mF is supplied with a 100 V supply at variable frequency.
+Solve for the following:
+CO-2; SO-1;   (i)   Frequency at which resonance takes place
+BL-3   (ii)   Current   [10]
+(iii)   Power
+(iv)   Q-factor
+(v)   Half power points
+********** 7 **********
+--- page 8 ---
+Each part 2 marks
+b. Show and explain voltage-current characteristics of the Zener diode with the
+help of a suitable diagram. Also tell how the Zener diode can be used as a
+voltage regulator.
+Q4   V-I Characteristics of Zener Diode
+In the forward-biased condition, the Zener diode operates similarly to the
+CO-4; SO-1;   standard PN junction diode. However, the Zener diode is designed to be
+BL-1   operated in reverse-biased conditions. In reverse-biased condition, the Zener
+[10]
+diode carriers reverse saturation current till the reverse voltage applied is
+less than the reverse breakdown voltage. When the reverse voltage exceeds
+the breakdown voltage, the current through it changes drastically, but the
+voltage across it remains almost constant. Such a breakdown region is a
+normal operating region for a Zener diode. The V-I characteristic of a Zener
+diode is shown in the figure below.
+-------------------------------------------------------------------------------------------
+--(2 Marks)
+********** 8 **********
+--- page 9 ---
+-------------------------------------------------------------------------------------------
+--(2 Marks)
+Zener Diode as a Voltage Regulator
+The property of the Zener diode is to maintain an almost constant voltage
+across it while allowing large current flow through it when operated in
+reverse bias, which is used for regulating voltage. The large current is
+limited by connecting a resistance in series with an unregulated voltage
+supply. The load resistance is connected across the Zener diode; hence, the
+load voltage, which is also the output voltage, is equal to the Zener diode.
+-------------------------------------------------------------------------------------------
+---(1 Mark)
+-------------------------------------------------------------------------------------------
+--(2 Marks)
+The above figure shows a voltage regulator using a Zener diode with
+varying input voltage. Varying input voltage is assumed to be unregulated
+voltage.
+𝑉𝑂= 𝑉𝑍= 𝑐𝑜𝑛𝑠𝑡𝑎𝑛𝑡
+𝑉𝑂   𝑉𝑍
+∴𝐼𝐿= = = 𝑐𝑜𝑛𝑠𝑡𝑎𝑛𝑡
+𝑅𝐿   𝑅𝐿
+𝐼= 𝐼𝑍+ 𝐼𝐿
+-------------------------------------------------------------------------------------------
+--(2 Marks)
+If 𝑉𝑖𝑛 increases, then the total current 𝐼 increases. But 𝐼𝐿 is constant as 𝑉𝑍 is
+constant. Hence the current 𝐼𝑍 increases to keep 𝐼𝐿 constant.
+Similarly, if 𝑉𝑖𝑛 decreases, then the total current 𝐼 decreases. But 𝐼𝐿 is
+constant as 𝑉𝑍 is constant. Hence the current 𝐼𝑍 decreases to keep 𝐼𝐿
+constant.
+-------------------------------------------------------------------------------------------
+---(1 Mark)
+********** 9 **********
+--- page 10 ---
+Q5   a. Show and explain the working of half wave rectifier with the help of circuit
+diagram and waveforms.
+CO-4; SO-1;
+BL-1   Circuit diagram- 2m   [10]
+Working-5 m
+Waveforms- 3m
+b.   Outline the differences between NAND and NOR gates using their logic
+symbols, truth tables, and Boolean expressions. Also explain how NAND
+and NOR gates can function as a universal gate, using appropriate logic
+diagrams.
+Answer:
+NAND Gate   NOR Gate
+Logic
+Symbol
+Boolean   𝒛= 𝒙∙𝒚̅̅̅̅̅̅ = 𝒙𝒚 = (𝒙𝒚)′   𝒛= 𝒙+   𝒚̅̅̅̅̅̅̅ = (𝒙+ 𝒚)′
+Expressio
+n
+Q5   Truth   X   Y   z   x   Y   z
+Table   0   0   1   0   0   1
+CO-5; SO-1;
+BL-2   0   1   1   0   1   0   [10]
+1   0   1   1   0   0
+1   1   0   1   1   0
+NAND Gate as a Universal Gate:
+1. NOT Gate Using NAND Gate:
+2. AND Gate Using NAND Gate:
+3. OR Gate Using NAND Gate:
+********** 10 **********
+--- page 11 ---
+NOR Gate as a Universal Gate:
+1. NOT Gate Using NOR Gate:
+2. AND Gate Using NOR Gate:
+3. OR Gate Using NOR Gate:
+Logic Symbol: 1 Mark
+Boolean Expression: 1 Mark
+Truth Table: 2 Marks
+Any two implementations using NAND gates: 3 Marks (1.5 marks each)
+a.   Find all mesh currents using mesh analysis.
+Q6
+CO-1; SO-1;
+BL-1   [10]
+********** 11 **********
+--- page 12 ---
+2 mark
+2 marks
+2 marks
+2 marks
+2 mark
+b.   Identify and explain any five elements of a DC motor by drawing its
+constructional diagram.
+Ans:
+Q6
+CO-3; SO-1;
+BL-3   [10]
+05 Marks
+1. Yoke: The yoke acts as the outer cover of a DC motor and it is also
+known as the frame. The yoke is an iron body, made up of low reluctance
+magnetic material such as cast iron, silicon steel, rolled steel, etc.
+Yoke serves two purposes, firstly it provides mechanical protection to the
+outer parts of the machine secondly it provides a low reluctance path for the
+magnetic flux.
+2. Poles and Pole Shoe: The pole and pole shoe are fixed on the yoke by
+********** 12 **********
+--- page 13 ---
+bolts. These are made of thin cast steel or wrought iron laminations that are
+riveted together. Poles produce the magnetic flux when the field winding is
+excited. A Pole shoe is an extended part of a pole. Due to its shape, the pole
+area is enlarged and more flux can pass through the air gap to the armature.
+3. Field Winding: The coils around the poles are known as field (or
+exciting) coils and are connected in series to form the field winding. Copper
+wire is used for the construction of field coils. When the DC is passed
+through the field windings, it magnetizes poles that produce magnetic flux.
+The connection of the field winding and the armature winding is done
+according to the type of the motor and decides the characteristics of the
+motor.
+4. Armature Core: It is a cylindrical drum and keyed to the rotating shaft.
+A large number of slots are made all over   its periphery, which
+accommodates the armature winding. Low reluctance, high permeability
+material such as silicon steel is used for armature core. The laminated
+construction is used to produce the armature core to minimize the eddy
+current losses. The air holes are also provided on the armature core for the
+air circulation which helps in cooling the motor.
+5. Armature Winding: The armature winding plays a very important role in
+the construction of a DC motor because the conversion of power takes place
+in the armature winding. Based on connections, there are two types of
+armature windings named:
+• Wave Winding: In wave winding, all the armature coils are connected in
+series through commutator segments in such a way that the whole
+armature winding is divided into two parallel paths.
+• Lap Winding: In lap winding the armature conductors are divided into
+the groups equal to the number of poles of the motor. All the conductors
+in each group are connected in series and all such groups are connected in
+parallel.
+6. Commutator: It is mounted on the shaft. It is made up of a large number
+of wedge-shaped segments of hard drawn copper, insulated from each other
+by a thin layer of mica. The commutator connects the rotating armature
+conductor to the stationary external circuit through carbon brushes.   It
+converts alternating torque into unidirectional torque produced in the
+armature.
+7. Carbon Brushes: The current is conducted from the voltage source to the
+armature by the carbon brushes which are held against the surface of the
+commutator by springs. They are made of high-grade carbon steel and are
+rectangular.
+8. Bearings: The ball or roller bearings are fitted in the end housings. The
+friction between stationary and rotating parts of the motor is reduced by
+bearing. Mostly high carbon steel is used for making the bearings as it is a
+********** 13 **********
+--- page 14 ---
+very hard material.
+9. Interpoles: The brushes on the commutator short-circuit the armature
+coils when they are slipping from one commutator segment to the next. At
+this instant, EMF induced in those particular coils should be zero otherwise
+this EMF will create sparking on the commutator due to short-circuit. This is
+achieved by placing the carbon brushes at the MNA. (MNA is defined
+magnetic neutral axis, as the axis at the right angle to the main flux where
+armature conductors do not have any EMF in them).
+Information (or any other suitable information) on any 05 points from
+above.
+01*5=05Marks
+a.   State and prove the Superposition Theorem.
+Statement   ---- 2M
+3 Figures   ----- 6M
+Steps with Equations   ----- 2M
+It states that ‘In a linear network containing more than one independent
+sources, the resultant current in any element is the algebraic sum of the
+Q7   currents that would be produced by each independent source acting alone,
+all the other independent sources being represented meanwhile by their
+CO-1; SO-1;   respective internal resistances.’
+[7]
+BL-3   The independent voltage sources are represented by their internal resistances
+if given or simply with zero resistances, i.e., short circuits if internal
+resistances are not mentioned.
+The independent current sources are represented by infinite resistances, i.e.,
+open circuits.
+A linear network is one whose parameters are constant, i.e., they do not
+change with
+voltage and current.
+Explanation Consider the circuit shown in Fig. 2.261. Suppose we have to
+find current I4 flowing through R4
+********** 14 **********
+--- page 15 ---
+b. Show the relationships between voltage and currents on primary side and
+CO-3; SO-1;   secondary side of a single phase of transformer. What is difference between
+BL-1   ideal transformer and practical transformer.
+[7]
+Relationships between voltage and currents on primary side and secondary
+side of single phase of transformer-------- 3 Marks
+Difference between ideal transformer and practical transformer -----4 Marks
+c.   Solve to simplify the following Boolean expression and implement the
+simplified output using AND, OR, and NOT gates:
+𝐹= (𝐴′ + 𝐵′)(𝐴′ + 𝐵) + 𝐵𝐶
+CO-5; SO-1;   Answer:
+BL-3   𝐹= (𝐴′ + 𝐵′)(𝐴′ + 𝐵) + 𝐵𝐶
+𝐹= 𝐴′𝐴′ + 𝐴′𝐵+ 𝐵′𝐴′ + 𝐵′𝐵+ 𝐵𝐶   [6]
+𝐹= 𝐴′ + 𝐴′(𝐵+ 𝐵′) + 0 + 𝐵𝐶
+𝐹= 𝐴′ + 𝐴′ ∙1 + 𝐵𝐶
+𝐹= 𝐴′ + 𝐴′ + 𝐵𝐶
+𝐹= 𝐴′ + 𝐵𝐶
+********** 15 **********
+--- page 16 ---
+A [>
+
+B
+
+Cc
+
+Simplification: 4 Marks (1 Mark for each step)
+(i) Logic Diagram: 2 Marks
+
+= BCD (A+ 1) + BCD + BCD Distributive
+= BCD+BCD+ BCD Theorem 2(a):[A + 1 = 1]
+= BD(C+O+BCD Distributive
+= BD+ BCD Postulate 5(a) : [A + A = 1]
+= B(D+CD) Distributive
+= B(D+C) Theorem 5(a) : [A + AB = A + B]
+
+Each part 3 marks
+
+ARR AK 7] 6 RK RK KK
+````
+
+## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 46072b9d2ab0
+
+- Departments: Computer Engineering
+- Programmes: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047
+- Source: `00_Original_Downloads/2025/Semester II/75268__Re-Exam.zip :: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTERENGINEERING) - 7047/Basic Electrical and Electronics Engineering/ANS_Re-Exam_Basic Electrical and Electronics Engineering(702EX0C001)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Jul 2026
+- Text: mixed (16 pages), mean OCR confidence 78.7
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (CIVIL)/B. Tech (COMP)/B. Tech (MXTC)/MBA Tech (Comp)
+Year: I/Sem 2 Re-exam(Exam Year: 2025-2026)
+Subject: Basic Electrical and Electronics Engineering
+Date: 14 Jul 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 16 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. 1 is compulsory.
+5. Out of remaining questions, attempt any 4 questions.
+6. Assume suitable data if necessary.
+Q1   Answer briefly:   [20]
+a.   Find the equivalent resistance between A and B.
+CO-1; SO-1;
+BL-1,2
+[4]
+13 ||16 = (13 * 16)/ (13 + 16) = 6.66 Ω
+6.66 + 18= 24.66 Ω
+24.66 || 25 = (24.66 * 25) / (24.66 + 25) = 12.41 Ω   ---- 2 M
+12.41 + 18 = 30.41 Ω
+Resistance between AB is 30.41 Ω   ---- 2 M
+CO-2; SO-1;   b.
+BL-2,3   Illustrate a labeled diagram of Resonance Curve for a Series R-L-C circuit.
+Also write the equation for bandwidth and current at resonance for a Series
+[4]
+R-L-C circuit.
+********** 1 **********
+--- page 2 ---
+Resonance Curve in Series R-L-C circuit
+02 Marks
+Equation of Bandwidth
+BW= ω2 -ω1
+OR
+BW= f2 -f1
+Any one equation from above.
+01Mark
+Equation of Current
+I = V/R
+01Mark
+CO-3; SO-1;   c.
+BL-1,2   Show the derivation of the emf equation for a single phase transformer.
+[4]
+Derivation: 4 marks
+d.   Explain any four ideal characteristics of an OP-AMP.
+4 characteristics -4 marks
+1. Infinite voltage gain- open loop gain of an ideal OP-AMP is denoted by
+Av. It is the differential voltage gain and its value for an ideal OP-AMP is
+CO-4; SO-1;   infinite.
+2. Infinite input resistance or impedance- the input resistance or impedance
+BL-2
+of an ideal OP-amp is infinite. Due to infinite input resistance or impedance,   [4]
+almost any source can drive it. 3. Zero output resistance or impedance- the
+output resistance or impedance of an ideal OP-amp is zero. Due to this, the
+ideal Op-amp can handle infinite number of other devices.
+4. Zero offset voltage- in practical Op-amps a small output voltage is present
+even though both the inputs V1 and V2 are having a zero value. This voltage
+is called as the offset voltage. For ideal Op-amp the offset voltage is zero.
+That means output voltage is zero when input voltage is zero.
+5. Infinite Bandwidth- Bandwidth of an amplifier is the range of frequencies
+********** 2 **********
+--- page 3 ---
+over which all the signal frequencies are amplified almost equally. The
+bandwidth of an ideal Op-amp is infinite. So it can amplify any frequency
+from zero to infinite hertz.
+6. Infinite CMRR- for an Op-amp, the common mode rejection ratio
+(CMRR) is defined as the ratio of differential gain to common mode gain.
+CMRR is infinite for the ideal Op-amp. Thus the output voltage
+corresponding to the common mode noise is zero.
+7. Infinite slew rate- the slew rate of an ideal Op-amp is infinite so that the
+output voltage changes occur simultaneously with the input voltage changes.
+CO-5; SO-1;   e.
+BL-2   Summarize the two De Morgan’s theorems of Boolean algebra.
+[4]
+Each theorem (either in words or Boolean expression)- 2 marks
+a. Make use of superposition theorem to find the current flowing through the
+20 Ω resistor.
+Q2
+CO-1; SO-1;   [10]
+BL-3   Considering 120V source alone,
+1 mark
+********** 3 **********
+--- page 4 ---
+2 marks
+2 marks
+Considering 65V source alone,
+1 mark
+1 mark
+2 marks
+1 mark
+Q2   b. An R-L-C series circuit with a resistance of 10 Ω, inductance of 0.2 𝐻 and a
+[10]
+capacitance of 40 𝜇𝐹 is supplied with a 100 𝑉 supply at variable frequency.
+********** 4 **********
+--- page 5 ---
+CO-2; SO-1;   Solve for the following with respect to the series resonant circuit: (i)
+BL-3   resonant frequency (ii) current, (iii) power, (iv) power factor, (v) quality
+factor.
+02 Marks for each parameter. 02*5 = 10 Marks
+a. A single-phase 50 Hz transformer has 80 turns on the primary winding and
+280 turns in the secondary winding. The voltage applied across the primary
+winding is 240 V at 50 Hz. Find (i) maximum flux density in the core, and
+(ii) induced emf in the secondary. The net cross-sectional area of the core is
+200 cm2.
+Q3
+CO-3; SO-1;   [10]
+BL-1,2
+(i)   Maximum flux density in the core-5 Marks
+(ii) Induced emf in the secondary -5 Marks
+Q3   b.
+Analyze an AC Series RL Circuit by using circuit diagram, phasor diagram,
+CO-2; SO-1;   Voltage Triangle, Impedance Triangle, Power triangle, Waveform of [10]
+BL-4   Voltage and current.
+********** 5 **********
+--- page 6 ---
+𝑉= RMS Value of the applied voltage
+𝐼 = RMS Value of the resultant current
+𝑍= Impedance of the circuit
+𝑉𝑅= 𝐼𝑅= Voltage drop across R (In phase with I)
+𝑉𝐿= 𝐼𝑋𝐿=Voltage drop across L
+Phasor Diagram
+Phasor diagram:
+The applied ac voltage V results in flow of ac current I through the circuit
+which creates a voltage drop
+across resistor R and inductor L
+VR = I.R ---- where the voltage drop across R is in phase with current I
+VL = I.XL -----where voltage drop across coil L leads the current I by 900
+The voltage VR is
+in phase with I and VL leads the current I by 90o.
+Voltage Triangle
+𝑉⃗ = 𝑉𝑅⃗⃗⃗⃗ + 𝑉𝐿⃗⃗⃗ = 𝐼 𝑅+ 𝑗𝐼 𝑋𝐿= 𝐼 𝑍
+Where, 𝑍 = 𝑅+ 𝑗𝑋𝐿
+Where,|𝑉| = √𝑉𝑅 2 + 𝑉𝐿 2
+∅= tan−1 (𝑉𝐿 )
+𝑉𝑅
+Impedance Triangle
+********** 6 **********
+--- page 7 ---
+𝑍 = 𝑅+ 𝑗𝑋𝐿= |𝑍|∠∅
+Where,|𝑍| = √𝑅2 + 𝑋𝐿 2
+∅= tan−1 (𝑋𝐿 𝑅)
+𝑉   𝑉∠0°
+𝐼 = =   = |𝐼|∠−∅
+𝑍   |𝑍|∠∅
+Equation of Voltage & Current
+𝑣(𝑡) = 𝑉𝑚sin 𝜔𝑡
+∴𝑖(𝑡) = 𝐼𝑚sin(𝜔𝑡−∅)
+I lags behind V by an angle ∅
+Waveform of Voltage & Current
+circuit diagram-1m, phasor diagram-1m, Voltage Triangle-2m, Impedance
+Triangle-2m, Power triangle-2m, Waveform of Voltage and current-2m.
+a. An RLC circuit with the resistance of 10 ohms, inductance of 0.2 H and
+Q4   capacitor of 40mF is supplied with a 100 V supply at variable frequency.
+Solve for the following:
+CO-2; SO-1;   (i)   Frequency at which resonance takes place
+BL-3   (ii)   Current   [10]
+(iii)   Power
+(iv)   Q-factor
+(v)   Half power points
+********** 7 **********
+--- page 8 ---
+Each part 2 marks
+b. Show and explain voltage-current characteristics of the Zener diode with the
+help of a suitable diagram. Also tell how the Zener diode can be used as a
+voltage regulator.
+Q4   V-I Characteristics of Zener Diode
+In the forward-biased condition, the Zener diode operates similarly to the
+CO-4; SO-1;   standard PN junction diode. However, the Zener diode is designed to be
+BL-1   operated in reverse-biased conditions. In reverse-biased condition, the Zener
+[10]
+diode carriers reverse saturation current till the reverse voltage applied is
+less than the reverse breakdown voltage. When the reverse voltage exceeds
+the breakdown voltage, the current through it changes drastically, but the
+voltage across it remains almost constant. Such a breakdown region is a
+normal operating region for a Zener diode. The V-I characteristic of a Zener
+diode is shown in the figure below.
+-------------------------------------------------------------------------------------------
+--(2 Marks)
+********** 8 **********
+--- page 9 ---
+-------------------------------------------------------------------------------------------
+--(2 Marks)
+Zener Diode as a Voltage Regulator
+The property of the Zener diode is to maintain an almost constant voltage
+across it while allowing large current flow through it when operated in
+reverse bias, which is used for regulating voltage. The large current is
+limited by connecting a resistance in series with an unregulated voltage
+supply. The load resistance is connected across the Zener diode; hence, the
+load voltage, which is also the output voltage, is equal to the Zener diode.
+-------------------------------------------------------------------------------------------
+---(1 Mark)
+-------------------------------------------------------------------------------------------
+--(2 Marks)
+The above figure shows a voltage regulator using a Zener diode with
+varying input voltage. Varying input voltage is assumed to be unregulated
+voltage.
+𝑉𝑂= 𝑉𝑍= 𝑐𝑜𝑛𝑠𝑡𝑎𝑛𝑡
+𝑉𝑂   𝑉𝑍
+∴𝐼𝐿= = = 𝑐𝑜𝑛𝑠𝑡𝑎𝑛𝑡
+𝑅𝐿   𝑅𝐿
+𝐼= 𝐼𝑍+ 𝐼𝐿
+-------------------------------------------------------------------------------------------
+--(2 Marks)
+If 𝑉𝑖𝑛 increases, then the total current 𝐼 increases. But 𝐼𝐿 is constant as 𝑉𝑍 is
+constant. Hence the current 𝐼𝑍 increases to keep 𝐼𝐿 constant.
+Similarly, if 𝑉𝑖𝑛 decreases, then the total current 𝐼 decreases. But 𝐼𝐿 is
+constant as 𝑉𝑍 is constant. Hence the current 𝐼𝑍 decreases to keep 𝐼𝐿
+constant.
+-------------------------------------------------------------------------------------------
+---(1 Mark)
+********** 9 **********
+--- page 10 ---
+Q5   a. Show and explain the working of half wave rectifier with the help of circuit
+diagram and waveforms.
+CO-4; SO-1;
+BL-1   Circuit diagram- 2m   [10]
+Working-5 m
+Waveforms- 3m
+b.   Outline the differences between NAND and NOR gates using their logic
+symbols, truth tables, and Boolean expressions. Also explain how NAND
+and NOR gates can function as a universal gate, using appropriate logic
+diagrams.
+Answer:
+NAND Gate   NOR Gate
+Logic
+Symbol
+Boolean   𝒛= 𝒙∙𝒚̅̅̅̅̅̅ = 𝒙𝒚 = (𝒙𝒚)′   𝒛= 𝒙+   𝒚̅̅̅̅̅̅̅ = (𝒙+ 𝒚)′
+Expressio
+n
+Q5   Truth   X   Y   z   x   Y   z
+Table   0   0   1   0   0   1
+CO-5; SO-1;
+BL-2   0   1   1   0   1   0   [10]
+1   0   1   1   0   0
+1   1   0   1   1   0
+NAND Gate as a Universal Gate:
+1. NOT Gate Using NAND Gate:
+2. AND Gate Using NAND Gate:
+3. OR Gate Using NAND Gate:
+********** 10 **********
+--- page 11 ---
+NOR Gate as a Universal Gate:
+1. NOT Gate Using NOR Gate:
+2. AND Gate Using NOR Gate:
+3. OR Gate Using NOR Gate:
+Logic Symbol: 1 Mark
+Boolean Expression: 1 Mark
+Truth Table: 2 Marks
+Any two implementations using NAND gates: 3 Marks (1.5 marks each)
+a.   Find all mesh currents using mesh analysis.
+Q6
+CO-1; SO-1;
+BL-1   [10]
+********** 11 **********
+--- page 12 ---
+2 mark
+2 marks
+2 marks
+2 marks
+2 mark
+b.   Identify and explain any five elements of a DC motor by drawing its
+constructional diagram.
+Ans:
+Q6
+CO-3; SO-1;
+BL-3   [10]
+05 Marks
+1. Yoke: The yoke acts as the outer cover of a DC motor and it is also
+known as the frame. The yoke is an iron body, made up of low reluctance
+magnetic material such as cast iron, silicon steel, rolled steel, etc.
+Yoke serves two purposes, firstly it provides mechanical protection to the
+outer parts of the machine secondly it provides a low reluctance path for the
+magnetic flux.
+2. Poles and Pole Shoe: The pole and pole shoe are fixed on the yoke by
+********** 12 **********
+--- page 13 ---
+bolts. These are made of thin cast steel or wrought iron laminations that are
+riveted together. Poles produce the magnetic flux when the field winding is
+excited. A Pole shoe is an extended part of a pole. Due to its shape, the pole
+area is enlarged and more flux can pass through the air gap to the armature.
+3. Field Winding: The coils around the poles are known as field (or
+exciting) coils and are connected in series to form the field winding. Copper
+wire is used for the construction of field coils. When the DC is passed
+through the field windings, it magnetizes poles that produce magnetic flux.
+The connection of the field winding and the armature winding is done
+according to the type of the motor and decides the characteristics of the
+motor.
+4. Armature Core: It is a cylindrical drum and keyed to the rotating shaft.
+A large number of slots are made all over   its periphery, which
+accommodates the armature winding. Low reluctance, high permeability
+material such as silicon steel is used for armature core. The laminated
+construction is used to produce the armature core to minimize the eddy
+current losses. The air holes are also provided on the armature core for the
+air circulation which helps in cooling the motor.
+5. Armature Winding: The armature winding plays a very important role in
+the construction of a DC motor because the conversion of power takes place
+in the armature winding. Based on connections, there are two types of
+armature windings named:
+• Wave Winding: In wave winding, all the armature coils are connected in
+series through commutator segments in such a way that the whole
+armature winding is divided into two parallel paths.
+• Lap Winding: In lap winding the armature conductors are divided into
+the groups equal to the number of poles of the motor. All the conductors
+in each group are connected in series and all such groups are connected in
+parallel.
+6. Commutator: It is mounted on the shaft. It is made up of a large number
+of wedge-shaped segments of hard drawn copper, insulated from each other
+by a thin layer of mica. The commutator connects the rotating armature
+conductor to the stationary external circuit through carbon brushes.   It
+converts alternating torque into unidirectional torque produced in the
+armature.
+7. Carbon Brushes: The current is conducted from the voltage source to the
+armature by the carbon brushes which are held against the surface of the
+commutator by springs. They are made of high-grade carbon steel and are
+rectangular.
+8. Bearings: The ball or roller bearings are fitted in the end housings. The
+friction between stationary and rotating parts of the motor is reduced by
+bearing. Mostly high carbon steel is used for making the bearings as it is a
+********** 13 **********
+--- page 14 ---
+very hard material.
+9. Interpoles: The brushes on the commutator short-circuit the armature
+coils when they are slipping from one commutator segment to the next. At
+this instant, EMF induced in those particular coils should be zero otherwise
+this EMF will create sparking on the commutator due to short-circuit. This is
+achieved by placing the carbon brushes at the MNA. (MNA is defined
+magnetic neutral axis, as the axis at the right angle to the main flux where
+armature conductors do not have any EMF in them).
+Information (or any other suitable information) on any 05 points from
+above.
+01*5=05Marks
+a.   State and prove the Superposition Theorem.
+Statement   ---- 2M
+3 Figures   ----- 6M
+Steps with Equations   ----- 2M
+It states that ‘In a linear network containing more than one independent
+sources, the resultant current in any element is the algebraic sum of the
+Q7   currents that would be produced by each independent source acting alone,
+all the other independent sources being represented meanwhile by their
+CO-1; SO-1;   respective internal resistances.’
+[7]
+BL-3   The independent voltage sources are represented by their internal resistances
+if given or simply with zero resistances, i.e., short circuits if internal
+resistances are not mentioned.
+The independent current sources are represented by infinite resistances, i.e.,
+open circuits.
+A linear network is one whose parameters are constant, i.e., they do not
+change with
+voltage and current.
+Explanation Consider the circuit shown in Fig. 2.261. Suppose we have to
+find current I4 flowing through R4
+********** 14 **********
+--- page 15 ---
+b. Show the relationships between voltage and currents on primary side and
+CO-3; SO-1;   secondary side of a single phase of transformer. What is difference between
+BL-1   ideal transformer and practical transformer.
+[7]
+Relationships between voltage and currents on primary side and secondary
+side of single phase of transformer-------- 3 Marks
+Difference between ideal transformer and practical transformer -----4 Marks
+c.   Solve to simplify the following Boolean expression and implement the
+simplified output using AND, OR, and NOT gates:
+𝐹= (𝐴′ + 𝐵′)(𝐴′ + 𝐵) + 𝐵𝐶
+CO-5; SO-1;   Answer:
+BL-3   𝐹= (𝐴′ + 𝐵′)(𝐴′ + 𝐵) + 𝐵𝐶
+𝐹= 𝐴′𝐴′ + 𝐴′𝐵+ 𝐵′𝐴′ + 𝐵′𝐵+ 𝐵𝐶   [6]
+𝐹= 𝐴′ + 𝐴′(𝐵+ 𝐵′) + 0 + 𝐵𝐶
+𝐹= 𝐴′ + 𝐴′ ∙1 + 𝐵𝐶
+𝐹= 𝐴′ + 𝐴′ + 𝐵𝐶
+𝐹= 𝐴′ + 𝐵𝐶
+********** 15 **********
+--- page 16 ---
+A [>
+
+B
+
+Cc
+
+Simplification: 4 Marks (1 Mark for each step)
+(i) Logic Diagram: 2 Marks
+
+= BCD (A+ 1) + BCD + BCD Distributive
+= BCD+BCD+ BCD Theorem 2(a):[A + 1 = 1]
+= BD(C+O+BCD Distributive
+= BD+ BCD Postulate 5(a) : [A + A = 1]
+= B(D+CD) Distributive
+= B(D+C) Theorem 5(a) : [A + AB = A + B]
+
+Each part 3 marks
+
+ARR AK 7] 6 RK RK KK
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · Answer key · paper 59ee9981c7cd

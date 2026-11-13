@@ -12874,6 +12874,537 @@ Correct Program with I/O – 3 Marks
 Page 15 of 15
 ````
 
+## 2024-25 · Re-Exam · Sem 3 · Answer key · paper f47d8c44e55b
+
+- Departments: Information Technology
+- Programmes: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Re-Exam/BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037/Programming for Problem Solving/ANS_Re-Exam_Programming for Problem Solving(701CO0C018)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 20 Feb 2025
+- Text: mixed (18 pages), mean OCR confidence 72.0
+
+````text
+Synoptic
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CE)/B. Tech (CIVIL)/B. Tech
+(CS)/B. Tech (CSBS)/B. Tech (CSE - CS)/B. Tech - (CSEDS)/B. Tech (DS)/B. Tech (EXTC)/B. Tech Intg.
+(CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg. (Mech)/B. Tech (IT)/B. Tech (MECH)/B. Tech
+(MXTC)/MBA. Tech (AI)/MBA Tech (Comp)/MBA. Tech (DS)/MBA. Tech (IT)
+Year: II/Semester I/Semester III/Semester V (Exam Year: 2024-2025)
+Subject: Programming for Problem Solving
+Date: 20 Feb 2025   Time: 02:00 pm - 05:00 pm (03:00 Hrs.)
+Max Marks: 100
+RE EXAMINATION(2024-2025)
+Instructions:
+1. This Synoptic paper contains 18 pages
+2. Section A is compulsory.
+3. Attempt any 4 questions from Section B
+4. In all 5 questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume suitable data if necessary.
+.   Section A   20
+a.
+5
+Page 1 of 18
+--- page 2 ---
+b.   5
+- String is an array of characters
+- Strings terminated with ‘\0’
+Declaration of String…
+Syntax:-
+char string_name[size];
+example:-
+char month[15];
+char studentname[20];
+char s1[10],s2[10];
+Initialization of String…
+Syntax:-
+char string_name[size] = {characters in single inverted comma, separated with comma};
+or
+char string_name[size] = “string”;
+Example:-
+char subject[10] = {‘c’,‘p’,‘p’, ‘\0’ };
+char name[10] = “cpp”;
+char name[ ] = “cpp”;
+c. #include<iostream>   5
+using namespace std;
+class multiplication
+{
+public:
+Page 2 of 18
+--- page 3 ---
+void mul(int x, int y)
+{
+cout<<"Multiplication is "<<x+y<<endl;
+}
+void mul(float a, float b)
+{
+cout<<"Multiplication is "<<a+b<<endl;
+}
+};
+int main()
+{
+multiplication m;
+m.mul(10,20);
+m.mul(10.0f,4.5f);
+}
+d.
+5
+Page 3 of 18
+--- page 4 ---
+Read n
+
+i=2,. sum=0
+
+N
+——
+¥
+
+sum =sum+j
+j=i+2
+
++ ——_
+
+Section B(Attempt Any 4 Questions)
+
+Page 4 of 18
+
+[1M]
+
+_2M]
+
+_PMy
+
+80
+
+20
+
+10
+--- page 5 ---
+a. #include <iostream>
+using namespace std;
+int main() {
+int lateDays;
+float lateFee = 0.0;
+// Input number of days past the return deadline
+cout << "Enter the number of days past the return deadline: ";
+cin >> lateDays;
+// Determine the late return fee based on days
+if (lateDays <= 5) {
+lateFee = lateDays * 50; // Rs. 50 per day for ≤ 5 days
+} else if (lateDays > 5 && lateDays <= 10) {
+lateFee = lateDays * 100; // Rs. 100 per day for > 5 and ≤ 10 days
+} else { // lateDays > 10
+lateFee = lateDays * 200; // Rs. 200 per day for > 10 days
+}
+// Display the late return fee
+cout << "The late return fee is: Rs. " << lateFee << endl;
+return 0;
+}
+b. Variable declaration – 01 Mark   5
+Reading input and displaying output – 01 Mark
+Use of correct formula/Logic – 03 marks
+Page 5 of 18
+--- page 6 ---
+#include <iostream>
+using namespace std;
+int main()
+{
+int n,d1,d2,d3,s;
+cout<<"Enter the number: ";
+cin>>n;
+d1 = n % 10;
+n = n /10;
+d2 = n % 10;
+n = n / 10;
+d3 = n % 10;
+s = d1*d1*d1 + d2*d2*d2 + d3*d3*d3;
+cout<<s;
+return 0;
+}
+c. First output:   5
+p:3. Here, the pointer *p points to the address of the first index element of the array arr,
+thus
+int *p = arr implies *p = arr[0] and thus *p = 3. // 2 marks
+Second output:
+6 12 18. In the loop above the output of the array, each element of the array is being
+multiplied by 2, accessing each element by using pointers. // 3 marks
+Expected solution   marks
+1 mark for value of p & 1 mark for explanation   2 marks
+1.5 mark for value of array & 1.5 mark for
+3 marks
+explanation
+2.   20
+a. #include <iostream>   10
+using namespace std;
+int main() {
+int r1,c1;
+Page 6 of 18
+--- page 7 ---
+cout << "Enter rows and columns for first matrix: ";
+cin >> r1 >> c1;
+int matrix1[r1][c1], matrix2[r1][c1], result[r1][c1];
+// Reading first matrix
+cout << "Enter elements of first"<<r1<<" X "<<c1<<" matrix:\n";
+for (int i = 0; i < r1; i++)
+for (int j = 0; j < c1; j++)
+cin >> matrix1[i][j];
+// Reading second matrix
+cout << "Enter elements of second "<<r1<<" X "<<c1<<" matrix:\n";
+for (int i = 0; i < r1; i++)
+for (int j = 0; j < c1; j++)
+cin >> matrix2[i][j];
+// Adding the matrices
+for (int i = 0; i < r1; i++)
+for (int j = 0; j < c1; j++)
+result[i][j] = matrix1[i][j] + matrix2[i][j];
+// Displaying the result
+cout << "Resultant Matrix after Addition:\n";
+for (int i = 0; i < r1; i++) {
+for (int j = 0; j < c1; j++)
+cout << result[i][j] << " ";
+cout << endl;
+}
+return 0;
+}
+b.   5
+1. #include <iostream>
+2. #include <string>
+3. using namespace std;
+4. class Person {
+5.   private:
+6.   string name;
+Page 7 of 18
+--- page 8 ---
+7.   int age;
+8.   public:
+9.   Person(string pName, int pAge) {
+10.   name = pName;
+11.   age = pAge;
+12.   }
+13.
+14.   void display(){
+15.   cout << "Name: " << name << ", Age: " << age << endl;
+16.   }
+17. };
+18. int main() {
+19.   Person p("Ram Mishra", 30);
+20.   p.display();
+21.   return 0;
+22. }
+c. //Output:-   5
+a: 1 // 2 marks
+b: 4 // 2 marks
+Explanation - 1 mark
+3.   20
+a. Syntax:   10
+initialization ;
+do {
+Page 8 of 18
+--- page 9 ---
+// Code to be executed repeatedly
+increment/decrement;
+} while (condition);
+Program:
+#include <iostream>
+using namespace std;
+int main() {
+int sum = 0;
+for (int i = 1; i < 1000; i++) {
+if (i % 3 == 0 || i % 5 == 0) {
+sum += i;
+}
+}
+cout << "The sum of all multiples of 3 or 5 below 1000 is: " << sum << endl;
+return 0;
+}
+b. Encapsulation – Explanation + Example (3+2 Marks)   10
+Class (0.5), Data Members (1), Object (0.5) - 02 marks
+Accessing Data member in main and operations – 03 marks
+Page 9 of 18
+--- page 10 ---
+Encapsulation in C++ is defined as the wrapping up of data and information in a
+single unit. In Object Oriented Programming, Encapsulation is defined as binding
+together the data and the functions that manipulate them.
+For example, (Example may vary)
+class Rectangle {
+public:
+int length;
+int breadth;
+int getArea() {
+return length * breadth;
+}
+};
+In the above program, the function getArea() calculates the area of a rectangle. To
+calculate the area, it needs length and breadth. Hence, the data members (length and
+breadth) and the function getArea() are kept together in the Rectangle class.
+Features of Encapsulation
+• We can not access any function from the class directly. We need an object to access
+that function that is using the member variables of that class.
+• The function which we are making inside the class must use only member variables,
+only then it is called encapsulation.
+• If we don’t make a function inside the class which is using the member variable of the
+class then we don’t call it encapsulation.
+• Encapsulation improves readability, maintainability, and security by grouping data
+and methods together.
+• It helps to control the modification of our data members.
+Page 10 of 18
+--- page 11 ---
+Program:
+#include<iostream>
+using namespace std;
+class Resort
+{
+public:
+int room_no,no_of_days;
+float charges;
+};
+int main()
+{
+Resort r;
+float bill;
+cout<<"\nEnter room number:";
+cin>>r.room_no;
+cout<<"\nEnter number of days:";
+cin>>r.no_of_days;
+cout<<"\nEnter room charges:";
+cin>>r.charges;
+bill=r.charges*r.no_of_days;
+cout<<"\nResort details are:";
+cout<<"\nRoom number is:"<<r.room_no;
+cout<<"\nNumber of days are:"<<r.no_of_days;
+cout<<"\nRoom charges are:"<<r.charges;
+cout<<"\nTotal bill is:"<<bill;
+}
+4.   20
+a. Marking Scheme : Structure Definition and declaration of structure – 2 + 2   10
+marks
+Reading, processing (logic) and displaying output – 2 + 2 + 2 marks
+#include <iostream>
+#include <string>
+using namespace std;
+// Define structure for Patient
+struct Patient {
+Page 11 of 18
+--- page 12 ---
+int id;
+string name;
+string illness;
+string doctor;
+};
+int main()
+{
+// Array to store 10 patients
+Patient patients[10];
+// Input patient details
+for (int i = 0; i < 10; i++) {
+cout << "Enter details for patient " << i + 1 << ":"<<endl;
+cout << "ID: ";
+cin >> patients[i].id;
+cin.ignore(); // To consume the newline character left by cin
+cout << "Name: ";
+cin>>patients[i].name;
+cout << "Illness: ";
+cin>>patients[i].illness;
+cout << "Doctor assigned: ";
+cin>>patients[i].doctor;
+cout << endl;
+}
+// Get the doctor's name to search for patients
+string searchDoctor;
+cout << "Enter the name of the doctor to see their patients: ";
+cin>>searchDoctor;
+// Display details of patients under the same doctor
+cout << "\nPatients treated by Dr. " << searchDoctor << ":"<<endl;
+bool found = false;
+for (int i = 0; i < 10; i++) {
+if (patients[i].doctor == searchDoctor) {
+cout << "Patient ID: " << patients[i].id << "\n";
+cout << "Patient Name: " << patients[i].name << "\n";
+cout << "Illness: " << patients[i].illness << "\n";
+cout << "------------------------\n";
+Page 12 of 18
+--- page 13 ---
+found = true;
+}
+}
+if (!found) {
+cout << "No patients are assigned to Dr. " << searchDoctor << ".\n";
+}
+return 0;
+}
+10
+b. 1. Function definition - 1 Mark.
+2. Function usage - 2 Marks
+3. Program -
+Function Declaration (1 Mark)
+Function Call (1 Mark)
+Program Function Definition (3 Marks)
+Logic/Operation (2 Marks)
+What is a function in C++?
+A function in C++ is a block of code that performs a specific task. It is used to break
+the program into smaller, manageable parts, making the code more modular and
+reusable. Functions can take input (arguments), perform a task, and optionally return a
+result.
+Why are functions used in programming?
+Code reuse: Functions allow you to write a block of code once and reuse it multiple
+times.
+Modularity: Breaking code into functions makes it easier to organize and maintain.
+Abstraction: Functions hide the complexity and provide a clear interface for the task
+they perform.
+C++ Program: Swapping Two Numbers Using Pass-by-Reference
+#include <iostream>
+using namespace std;
+Page 13 of 18
+--- page 14 ---
+// Function to swap two numbers using pass-by-reference
+void swap(int &a, int &b) {
+int temp = a;
+a = b;
+b = temp;
+}
+int main() {
+int num1 = 10, num2 = 20;
+cout << "Before swapping: num1 = " << num1 << ", num2 = " << num2 << endl;
+// Call the swap function
+swap(num1, num2);
+cout << "After swapping: num1 = " << num1 << ", num2 = " << num2 << endl;
+return 0;
+}
+OUTPUT:
+Before swapping: num1 = 10, num2 = 20
+After swapping: num1 = 20, num2 = 10
+5.   20
+a. #include <iostream>   10
+#include <string>
+using namespace std;
+class Employee {
+protected:
+string name;
+int employeeID;
+public:
+void inputEmployeeDetails() {
+cout << "Enter Employee Name: ";
+getline(cin, name);
+cout << "Enter Employee ID: ";
+cin >> employeeID;
+cin.ignore();
+}
+void displayEmployeeDetails() {
+Page 14 of 18
+--- page 15 ---
+cout << "Employee Name: " << name << endl;
+cout << "Employee ID: " << employeeID << endl;
+}
+void displayRole() {
+cout << "Role: General Employee" << endl;
+}
+};
+class Manager : public Employee {
+private:
+string department;
+public:
+void inputManagerDetails() {
+inputEmployeeDetails();
+cout << "Enter Department: ";
+getline(cin, department);
+}
+void displayManagerDetails() {
+displayEmployeeDetails();
+cout << "Department: " << department << endl;
+}
+void displayRole() {
+cout << "Role: Manager" << endl;
+}
+};
+int main() {
+Manager manager;
+manager.inputManagerDetails();
+manager.displayManagerDetails();
+manager.displayRole();
+return 0;
+}
+b. Finding Factorial using recursion - 04 marks   10
+Finding summation using recursion - 04 marks
+Displaying result - 02 marks
+Page 15 of 18
+--- page 16 ---
+#include<iostream>
+using namespace std;
+int fact(int n) {
+if(n == 1)
+return 1;
+return n * fact(n - 1);
+}
+int sum(int n) {
+if(n == 1)
+return 1;
+return fact(n) + sum(n - 1);
+}
+int main() {
+int n,s;
+cout << "Enter a positive integer: ";
+cin >> n;
+s= sum(n);
+cout <<"Sum is"<<s;
+return 0;
+}
+6.   20
+a. Step marking- 3 marks for correct looping + 4 marks for printing the proper   10
+sequence of letters + 3 marks for printing the appropriate number of spaces
+before the sequence of letters
+#include<iostream>
+Page 16 of 18
+--- page 17 ---
+using namespace std;
+int main()
+{
+int n,i,j;
+char ch='A';
+cout<<"Enter number of rows to be printed";
+cin>>n;
+for(i=1;i<=n;i++)
+{
+for(j=1;j<i;j++)
+{
+cout<<" ";
+}
+for(j=1;j<=n-i+1;j++)
+{
+cout<<ch<<" ";
+}
+ch++;
+cout<<endl;
+}
+return 0;
+}
+b. #include <iostream>   5
+using namespace std;
+Page 17 of 18
+--- page 18 ---
+int main() {
+char str[50];
+int vowelCount = 0;
+cout << "Enter a string (up to 100 characters): ";
+cin.getline(str, 50);
+for (int i = 0; str[i] != '\0'; i++)
+{
+char ch = str[i];
+if (ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' ||
+ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U') {
+vowelCount++;
+}
+}
+cout << "Number of vowels: " << vowelCount << endl;
+return 0;
+}
+c. Correct conversion – 2 Marks   5
+Correct Program with I/O – 3 Marks
+Page 18 of 18
+````
+
 ## 2024-25 · Re-Exam · Sem 1 · Answer key · paper 98000a05e06e
 
 - Departments: AI and Data Science

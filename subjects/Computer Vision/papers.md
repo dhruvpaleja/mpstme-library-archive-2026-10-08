@@ -1,6 +1,6 @@
 # Computer Vision: question papers in full
 
-55 unique papers · 2011-12 to 2025-26 · Artificial Intelligence, Data Science, Computer Engineering, AI and Data Science, AI and Machine Learning, Electronics and Telecommunication, Common (all branches), Information Technology
+57 unique papers · 2011-12 to 2025-26 · Artificial Intelligence, Data Science, Computer Engineering, AI and Data Science, AI and Machine Learning, Electronics and Telecommunication, Common (all branches), Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -193,6 +193,135 @@ SO-1; inspection from the perspective of computer vision.
 BL-2
 
 Page 4 of 4
+````
+
+## 2025-26 · Final-Exam · Sem 2 · paper a30fce4374a9
+
+- Departments: Data Science
+- Programmes: MASTER OF TECHNOLOGY - DATA SCIENCE (BUSINESS ANALYTICS) - 7027
+- Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: MASTER OF TECHNOLOGY - DATA SCIENCE (BUSINESS ANALYTICS) - 7027/Computer Vision/QP_Final-Exam_Computer Vision(703DB0E027)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2026
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: M. Tech (AI)/M. Tech - DS (BA)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Computer Vision
+Date: 05 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. _1___ is compulsory.
+5. Out of remaining questions, attempt any __4___ questions.
+6. In all ___5_ questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+Q No.   Part   Question   Marks
+Q1   a   What is image processing? List its common objectives and explain any two   4
+CO1   types of image processing with examples.
+BL-
+1,2,3
+b   What is the Harris Corner Detector? Explain its basic principle and state three   4
+CO3   real-world use cases.
+BL-
+2,3,4
+c   Define a Convolutional Neural Network (CNN). Name its key layers and   4
+CO2   explain the role of Max Pooling.
+BL-
+2,3,4,5
+d   What is YOLO? State how it differs from traditional two-stage object detectors   4
+CO4   like R-CNN.
+BL-
+2,3,4
+Q2   a   Explain histogram equalization as an image enhancement technique. Describe   10
+CO3   how it works, state its formula, and discuss its advantages and limitations with
+BL-3,4   a real-world example.
+b   Compare Discrete Fourier Transform (DFT) and Fast Fourier Transform (FFT)   10
+CO3   in image processing. Explain low-pass, high-pass, and band-pass frequency
+BL-   filters with use cases for each.
+3,5,6
+Q3   a   A manufacturing company wants to automate quality inspection of products on   10
+CO3   an assembly line using computer vision.
+BL-3,5   1. Which image segmentation techniques would you recommend for separating
+defective regions from the background? Explain Thresholding and Watershed
+Segmentation in detail.
+2. How would you apply the Canny Edge Detector to identify defect
+boundaries? Describe its five steps.
+3. What challenges might arise and how would you address them?
+********** 1 **********
+--- page 2 ---
+Q No.   Part   Question   Marks
+b   Explain SIFT (Scale-Invariant Feature Transform) as a feature extraction   10
+CO4   method. Describe why it is scale-invariant and rotation-invariant, and compare
+BL-   it with SURF (Speeded-Up Robust Features) in terms of speed, accuracy, and
+2,3,4   use cases.
+Q4   a   Explain Generative Adversarial Networks (GANs) in detail. Describe the GAN   10
+CO4   training process, the loss functions used, and explain two practical applications
+BL-   of GANs in computer vision.
+2,3,4
+b   A healthcare startup wants to improve the quality of low-resolution chest X-ray   10
+CO5   images before feeding them into a diagnostic model.
+BL-   1. Which image enhancement and restoration techniques would you apply
+3,4,5,6   (histogram equalization, denoising, deblurring)? Explain each.
+2. Explain how Linear Filtering (Convolution and Gaussian Filtering) helps in
+pre-processing these medical images.
+3. How would GANs help in generating high-quality synthetic X-ray data to
+augment the training dataset?
+Q5   a   A smart city surveillance system needs to detect pedestrians and vehicles in   10
+CO5   real time.
+BL-   1. Compare YOLO and SSD object detection architectures — explain how each
+3,4,5,6   works, their speed vs accuracy tradeoffs.
+2. Which architecture would you choose for real-time camera feeds and why?
+3. How would you handle class imbalance in the training dataset for rare
+vehicle types (e.g., ambulances)?
+b   A hospital wants to classify skin lesion images (benign/malignant) but has only   10
+CO4   800 labeled images.
+BL-   1. Explain Transfer Learning and why it is the most appropriate approach here.
+2,3,4   2. Describe the fine-tuning strategy using ResNet-50: which layers to freeze,
+which to retrain, and why.
+3. What data augmentation techniques would you apply to expand the dataset
+and improve generalization?
+Q6   a   A robotics company is developing a system to track moving objects on a   10
+CO3   factory floor using cameras.
+BL-   1. Explain Optical Flow for moving object description — what it measures and
+2,3,4,5   two algorithms (Lucas-Kanade, Horn-Schunck).
+2. Explain Background Subtraction for detecting moving objects — describe
+the MOG2 method.
+3. How would you combine both approaches for robust object tracking?
+b   A mobile app startup wants to create an image matching feature (like Google   10
+CO5   Lens) that can identify products from a photo.
+BL-   1. Explain the role of keypoint detection using Harris Corner Detector and
+3,4,5,6   SIFT in building a product recognition pipeline.
+2. Explain camera calibration and pose estimation — why are they important
+when the photo angle varies?
+3. How would feature descriptors enable robust matching across different
+lighting and viewpoints?
+Q7   a   A satellite imagery company wants to detect deforestation by comparing forest   10
+CO1   images taken at different times.
+********** 2 **********
+--- page 3 ---
+Q No.   Part   Question   Marks
+BL-   1. Which image processing techniques would you use for pre-processing (noise
+3,4,6   removal, enhancement)?
+2. How would change detection using image segmentation and feature
+extraction identify deforested areas?
+3. What CNN-based approach would you use to classify and localize
+deforestation at scale?
+b   Explain the complete ML pipeline for a Computer Vision task: image   10
+CO3   collection, preprocessing, model selection, training, evaluation, and
+BL-2,3   deployment.
+A self-driving car company needs to deploy a real-time pedestrian detection
+system.
+1. Describe the pipeline from data collection (dashcam footage) to model
+deployment on an edge device.
+2. What evaluation metrics (precision, recall, mAP) would you use and why?
+3. How would you handle model drift after deployment?
+********** 3 **********
 ````
 
 ## 2025-26 · Final-Exam · Sem 2 · paper 9fa4ef7b9928

@@ -1562,12 +1562,13 @@ Draw Following free hand sketches with atleast two views for each
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/1ST YEAR/TRIM I/ENGINEERING DRWAING/2006-2007 re exam(1).pdf`
 - Text: ocr (3 pages), mean OCR confidence 81.4
-- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Pri
 GHER ST UDIES
 
+‘NARSEE MONJEE INSTITUTE OF Mi ANAGE
 -— UNIVE
 
 gq aS Gia

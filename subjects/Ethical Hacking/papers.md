@@ -1,6 +1,6 @@
 # Ethical Hacking: question papers in full
 
-18 unique papers · 2021-22 to 2025-26 · Computer Engineering, Information Technology, Data Science, Electronics and Telecommunication
+21 unique papers · 2021-22 to 2025-26 · Computer Engineering, Information Technology, Data Science, Electronics and Telecommunication
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -885,6 +885,114 @@ Page 3 of 3
 
 ````
 
+## 2023-24 · Final-Exam · Sem 9 · paper 161f4de1e486
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: COMPUTER/SEM IX/Ethical Hacking/Ethical_Hacking_Batch_2023-24_Final_aRZAkigTrt.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27 /.11 / 2023
+- Text: ocr (3 pages), mean OCR confidence 83.4
+
+````text
+SVKM’S NMIMS
+
+SCHOOL OF TECHNOLOGY MANAGEMENT an
+Academic Year: 2023-2024 :
+Program/s: B. Tech Integrated Year: V Semester: [X
+Stream/s: Computer Engineering
+Subject: Ethical Hacking Time: 03 hrs (2pm to 5 pm )
+Date: 27 /.11 / 2023 No. of Pages: 03
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+@>» of the Answer Book, which is provided for their use.
+
+1) Question No. _I___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all___5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Answer briefly:
+Qi [20]
+CO-COI;] a.
+SO-; Describe the different security goals. 5
+BL- 1
+CO-CO1;| b. | What is footprinting and what kind of information’s are collected during this
+P' g
+a SO- ; . . 5
+BL- | phase of ethical hacking.
+CO-CO2;| c.
+SO-; Short note on scanning methodology and different types of scanning. 5
+BL-2
+CO-CO4;| d. .
+SO-; Write a short note on steganography. 5
+BL-3
+= [20]
+CO- CO1; a.
+SO-; Explain in detail the phases of ethical hacking. 10
+BL-1
+
+Page 1 of 3
+--- page 2 ---
+CO- CO2; |b. Explain the technique of banner grabbing and OS fingerprinting
+
+SO-; “| 10
+BL- 1 techniques.
+7 (20)
+CO-COI;} a.
+SO- ; Explain the working of DNS in detail. 10
+BL- 1 :
+b. | Explain the following in detail
+CO- CO3; i. Keyioggers
+SO- ; ee 10
+BL- 1 2. Spywares
+3. Rootkits
+Q4 [20]
+CO- CO4; a.
+SO- ; Explain the in-depth working of MDS hashing algorithm. 10
+BL- 1
+CO- CO3; |b.
+SO- ; Describe the systematic process of performing a DHCP starvation attack. 10
+BL-2
+Q5 : [20]
+nee a. | What is IP spoofing and explain the various IP spoofing techniques and 7
+BL-1 countermeasures.
+CO-CO1;} b.
+SO- ; Describe the active, passive, offline & non-electronic attacks. 10
+BL-2
+Q6 [20]
+CO- CO3; a.
+SO- ; WEP and WAP authentication mechanism. 10
+BL- 4
+
+Page 2 of 3
+--- page 3 ---
+CO- CO4; |b. os
+SO-; Short note on LanManager Hash. . 10
+BL-2
+
+Q7 [20]
+
+CO- C04; | a.
+SO- ; Methodologies for penetration testing and its steps to implement. 10
+BL- 4
+
+are b. | List and explain the various wireless hacking techniques and methods to ‘0
+BL- 4 secure wireless networks.
+
+Page 3 of 3
+````
+
 ## 2023-24 · Final-Exam · Sem 7 · paper 1bbaa645f020
 
 - Departments: Computer Engineering, Information Technology
@@ -1185,6 +1293,210 @@ Q7 A [10]
 Col, Explain surface and behavioural analysis techniques for malware.
 BL2
 BO 2,)B Explain DDoS attack? How will you prevent it? Lai
+
+Page 2 of 2
+````
+
+## 2022-23 · Final-Exam · Sem 9 · paper a38f7b1fe9fb
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: COMPUTER/SEM IX/Ethical Hacking/Ethical_Hacking_Batch_2022_Final0001_OSeHD1yBna.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 21 November 2022
+- Text: ocr (2 pages), mean OCR confidence 84.2
+
+````text
+SVKM’s NMIMS ( =(
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING’ / yo |
+SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING. f
+
+/ Academic Year: 2022-23 =e |
+Programme: B. Tech Integrated (Computer) Years V Semester: IX
+
+Subject: Ethical Hacking
+Marks: 100
+Date: 21 November 2022 Time: 2.00 pm - 5.00 pm
+
+Durations: 3 (Hrs) .
+No. of Pages: _O2—
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Answer briefly:
+
+Ql [20]
+“ me a Compare the advantages and disadvantages of Hacking. 5
+a oo b. Explain in detail the different types of web server attacks. 5
+— a & Distinguish between hashing and encryption. 5
+a cl d. Differentiate between hacker and cracker. 5
+
+Q2 ; [20]
+CO -C03 a. Demonstrate the working of Network Authentication Protocol with the help of 1
+
+BL-4 a diagram.
+b. Explain the following techniques of firewall identification:
+a) Port scanning _
+or, ie b) Banner grabbing 10
+: c) Firewalking
+d) Source Routing
+i [20]
+
+Page 1 of 2
+--- page 2 ---
+CO -COl a. | Why do attackers cover tracks? What are different ways to cover tracks? 10
+
+| BL-1
+b. | Explain the following terms with respect to Ethical Hacking
+a) Hack Value
+b) Zero-day attack
+cO-Ccol c) Vulnerability +8
+BL-1 d) Daisy Chaining |
+e) Exploit |
+f) Doxing
+g) Payload
+Q4 [20]
+—— 7 : : 7 : hE
+£0-C02 a. What is sniffing? Explain Active and Passive sniffing? List the a
+BL-1 countermeasures against sniffing the network traffic?
+CO -Cco4 b. | Give an overview of penetration testing. Explain black box, gray box and white "
+BL-4 box penetration testing and penetration testing importance in depth.
+Q5 [20]
+a.
+CO - C04 Illustrate how Man-in-Middle attack is performed on Diffie-Hellman-Merkle . 10
+Bint key exchange method.
+as b. | What is identity theft? What are the different ways to steal an identity and ;
+CO -C
+WTS minimize the risk of identity theft? a0
+Q6 [20]
+CO -CO3 a. Explain the purpose of a botnet in DoS and DDoS? Explain the propagation -
+BL-1 technique for malicious codes.
+CcO-co2 b. Define & Explain Enumerate in detail. List the information that is enumerated 1
+BL-1 in this phase of hacking? What are the countermeasures of enumeration?
+Q7 [20]
+: : : —F ith
+cO-COl a. Identify the goals of security and explain each one of their importance with an ”
+BL-1 example.
+i i i t, labeled
+CO-CO3 b. | Explain the working of OAuth protocol with the help of a neat, labele -
+BL-1 diagram.
+
+Page 2 of 2
+````
+
+## 2022-23 · Re-Exam · Sem 9 · paper 6bc2d86e3351
+
+- Departments: Computer Engineering
+- Programmes: B.TECH INTEGRATED / COMPUTER
+- Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: COMPUTER/SEM IX/Ethical Hacking/Ethical_Hanking_Batch_2022-23_Re_Exam0001_91vrEUa0kx.pdf`
+- Printed on paper: duration hours: 3; exam date: 30 January 2023
+- Text: ocr (2 pages), mean OCR confidence 86.9
+
+````text
+SVIMW’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
+/ SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program: B. Tech Integrated (Computer) Year: V Semester : IX
+
+AcademicY ear: 2022-2023
+
+Subject: Ethical Hacking a
+arks:
+
+Date : 30 January 2023 Time: 2.00 pm - 5.00 pm
+Durations: 3 (Hrs)
+No. of Pages: 2
+
+Re-Examination (2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the
+cover of the Answer Book, which is provided for their use.
+
+1) Question No. _1____ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+
+3) In all__5_ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Answer briefly:
+
+Ql [20]
+
+oe col a. | What are the different types of hackers? . 5
+os cl b. | Distinguish between phishing and spoofing. ; 5
+- re ¢. | What are the tools used for wireless hacking? 5
+“aL co d. | Tlustrate with a diagram how nonrepudiation is achieved using digital signature. 5
+Q2 [20]
+a. Why is social engineering effective? List the steps to perform social
+a ol engineering. What are the factors that make companies vulnerable to social 10
+engineering attacks?
+b. With respect to wireless hacking explain the following:
+a) Wi-Fi Discovery
+CO - CO3 b) GPS Mapping 10
+
+BL-1
+c) Wireless Traffic Analysis
+
+d) Launch Wireless Attack
+
+Page 1 of 2
+--- page 2 ---
+Q3
+
+[20]
+a. What is footprinting? Explain the following terminologies:
+1. Pseudonymous footprinting
+CO-CO1 2. Internet footprinting .
+BL-1 3. Objective of footprinting
+4. Footprinting methodology
+5. List the techniques used by the hackers for footprinting
+; ar 5
+CO-Co4 b. What are message digest functions? Explain MDS. How can MDS be brute ii
+BL-1 forced?
+Q4 [20]
+CO-CO3 a. Demonstrate TCP connection establishment and connection termination it
+BL -3 process.
+CO-co4 b. What is vulnerability assessment? List the limitations and tools used for if
+BL-1 vulnerability assessment.
+Q5 [20]
+co-co2 a. Define & Explain Enumerate in detail. List the information that is enumerated 10
+BL-1 in this phase of hacking? What are the countermeasures of enumeration?
+CO-COl1 b. | What are the skills that an ethical hacker should possess? 10
+BL-1
+Q6 [20]
+— a a. Articulate the steps involved in Kerberos authentication process. 10
+b. What is banner grabbing? What are its types? Explain. What are the uses of
+CO -CO2
+BL-1 banner grabbing and its countermeasures? an
+Q7 [20]
+; . 7 : 5
+CcO-c03 a. What is DHCP starvation attack? What is a rogue DHCP attack? How can we "
+BL-1 defend, against these attacks?
+CO - co b. | What are the different types of password attacks? Explain in detail. 10
+BL -
 
 Page 2 of 2
 ````

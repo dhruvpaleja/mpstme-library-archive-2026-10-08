@@ -1,6 +1,6 @@
 # Marketing Management
 
-**65** unique papers (83 copies across programmes) · 2008-09 to 2025-26 · 16 programmes · Sem 5, Sem 6, Sem 7, Sem 8, Trim 5, Trim 10
+**71** unique papers (89 copies across programmes) · 2008-09 to 2025-26 · 18 programmes · Sem 2, Sem 5, Sem 6, Sem 7, Sem 8, Trim 5, Trim 10
 
 Download only this subject, sorted by academic year:
 
@@ -17,20 +17,26 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Final-Exam | Question paper | Sem 7 | B TECH / CSBS | Marketing Management, Sem-VII, Year 2025-26, Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH / CSE Data Science (311) | Marketing Management, Sem-V, Year 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech CSBS 7036 | QP_Marketing Management(702TM0C017)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | Bachelor of Commerce (Economics) - 45616 | QP_Final-Exam_Marketing Management(NFMMT153)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Question paper | Sem 2 | Bachelor of Management Studies - 45614 | QP_Final-Exam_Marketing Management(NBMKT151)_Semester II_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Marketing Management(703TM0C002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | MBATech AI 7051 | QP_Marketing Management(703TM0C002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | MBATech DS 7052 | QP_Marketing Management(703TM0C002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_Marketing Management(702TM0C017)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | Bachelor of Commerce (Economics) - 45616 | ANS_Final-Exam_Marketing Management(NFMMT153)_Semester II_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 2 | Bachelor of Management Studies - 45614 | ANS_Final-Exam_Marketing Management(NBMKT151)_Semester II_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Marketing Management(703TM0C002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech AI 7051, MBATech Computer 7047, MBATech IT 7041 | ANS_Marketing Management(703TM0C002)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech DS 7052 | ANS_Marketing Management(703TM0C002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | BTech CSBS 7036 | QP_Marketing Management(702TM0C017)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech CSE DS 7011 | QP_Marketing Management(702TM0C012)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Question paper | Sem 2 | Bachelor of Commerce (Economics) - 45616 | QP_Re-Exam_Marketing Management(NFMMT153)_Semester II_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | MBATech AI 7051 | QP_Marketing Management(703TM0C002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | MBATech Computer 7047 | QP_Marketing Management(703TM0C002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 7 | MBATech DS 7052 | QP_Marketing Management(703TM0C002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 7 | BTech CSBS 7036 | ANS_Marketing Management(702TM0C017)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 5 | BTech CSE DS 7011 | ANS_Marketing Management(702TM0C012)_2025-2026.pdf |
+| 2025-26 | Re-Exam | Answer key | Sem 2 | Bachelor of Commerce (Economics) - 45616 | ANS_Re-Exam_Marketing Management(NFMMT153)_Semester II_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech AI 7051 | ANS_Marketing Management(703TM0C002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech Computer 7047 | ANS_Marketing Management(703TM0C002)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Answer key | Sem 7 | MBATech DS 7052 | ANS_Marketing Management(703TM0C002)_2025-2026.pdf |

@@ -1,6 +1,6 @@
 # Introduction to IT Infrastructure Landscape: question papers in full
 
-7 unique papers · 2023-24 to 2025-26 · Information Technology
+9 unique papers · 2023-24 to 2025-26 · Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -324,6 +324,121 @@ Cco- b. Explain cloud computing in detail. Compare and contrast
 Discuss role of cloud technology in enhancement of global
 business.
 
+````
+
+## 2024-25 · Final-Exam · Sem 5 · paper 520f2668157e
+
+- Departments: Information Technology
+- Programmes: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037
+- Source: `00_Original_Downloads/2024/65247__Semester V__context_fixed.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037/Introduction to IT Infrastructure Landscape/QP_Final-Exam_Introduction to IT Infrastructure Landscape(701IT0C005)_Semester V_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
+- Text: text (3 pages)
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX
+YEARS INTEGRATED PROGRAM
+Year: III/Semester V(Exam Year: 2024-2025)
+Subject: Introduction to IT Infrastructure Landscape
+Date: 03 Dec 2024   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Question No. 1 is compulsory.
+4. Out of remaining questions, attempt any 4 questions.
+5. In all 5 questions to be attempted.
+6. All questions carry equal marks.
+7. Figures in brackets on the righthand side indicate full marks.
+8. Assume Suitable data if necessary.
+********** 1 **********
+--- page 2 ---
+Q1   Answer the following   20
+CO-   a.   Discuss an Application Architecture as well as use of
+1;SO-   the same.
+1,BL-
+2
+CO-   b.   In (a) Mash network topology and (b) Ring network
+2;SO-   topology setup where 61 devices are present.
+1,BL-
+4   i. How many connections can be established by
+one node?
+ii. How many physical connections are required
+to established such a network?
+iii. How many I/O ports are required to
+established such a network?
+CO-   c.   Explain Encryption and Decryption techniques in brief.
+2;SO-   How security can be archive through it?
+1,BL-
+2
+CO-   d.   Responsibilities of System administrator
+4;SO-
+1,BL-
+2
+Q.2   20
+CO-   a.   How can you differentiate performance of
+1;SO-   infrastructure design and performance of a running
+1,BL-   system
+2
+CO-   b.   Differentiate LAN, WAN and MAN on different
+2;SO-   parameters
+1,BL-
+2
+Q.3   20
+CO-   a.   Identify IT infrastructure component for domain
+1;SO-   application related to Cyber Security domain.
+2,BL-
+4
+CO-   b.   Discuss need of security in network. Explain security
+2;SO-   tool firewall in depth. Also discuss security
+1,BL-   components.
+2
+Q.4   20
+CO-   a.   Functional attributes are domain dependent and
+1;SO-   Non-functional attributes are domain independent
+for any IT infrastructure – Justify.
+********** 2 **********
+--- page 3 ---
+1,BL-
+2
+CO-   b.   Differentiate File system vs DBMS vs Data warehouse
+2;SO-   on different parameters. Also discuss limitations of
+1,BL-   each.
+2
+Q5
+CO-   a.   Discuss   role and   responsibilities   of Network
+3;SO-   administrator
+1,BL-
+2
+CO-   b.   Differentiate various storage techniques RAID 0 /
+2;SO-   RAID 1 / RAID 5 / RAID 10. which one is the best RAID
+2,BL-   technique as per your opinion.
+3
+Q.6   20
+CO-   a.   Discuss role and responsibilities of DBMS
+3;SO-   administrator
+1,BL-
+2
+CO-   b.   Explain virtualization in detail and benefits of the
+2;SO-   same. Also discuss types of virtualizations in brief.
+2,BL-
+3
+Q.7   20
+CO-   a.   Explain cloud computing in detail. Discuss following in
+2;SO-   detail:
+1,BL-   i.   deployment model
+2   ii.   service model
+Discuss role of cloud technology in enhancement of
+business.
+CO-   b.   Describe Server technology. Key components of
+2;SO-   Server technology. Discuss following in detail:
+1,BL-   • Rack server
+3   • Blade server
+• Enterprise server
+Also discuss various types of servers.
+********** 3 **********
 ````
 
 ## 2024-25 · Final-Exam · paper faab8f48b8f3

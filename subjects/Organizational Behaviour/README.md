@@ -1,6 +1,6 @@
 # Organizational Behaviour
 
-**80** unique papers (100 copies across programmes) · 2007-08 to 2025-26 · 12 programmes · Sem 4, Sem 8, Trim 4, Trim 10
+**84** unique papers (104 copies across programmes) · 2007-08 to 2025-26 · 14 programmes · Sem 1, Sem 4, Sem 8, Trim 4, Trim 10
 
 Download only this subject, sorted by academic year:
 
@@ -12,15 +12,17 @@ Files land in `D:/Study/PYQs_By_Subject/Organizational Behaviour/<academic year>
 
 Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (every paper in full, newest first), [`questions.jsonl`](questions.jsonl) (one record per question with marks, year, exam, semester and department) and [`papers.jsonl`](papers.jsonl) (one record per paper). Answer keys, where the portal published them, are in `answer_keys.md`. See [`question_bank/README.md`](../../question_bank/README.md) for the fields.
 
-Also filed as: `ORGANISATION BEHEVIOUR`, `ORGANISATIONAL BEHAVIOUR`, `ORGANIZATION BEHAVIOR`
+Also filed as: `ORGANISATION BEHEVIOUR`, `ORGANISATIONAL BEHAVIOUR`, `Organisational Behaviour`, `ORGANIZATION BEHAVIOR`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Question paper | Sem 1 | MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703 | QP_Final-Exam_Organisational Behaviour(NKOGB502)_Semester I_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Organizational Behaviour(703TG0C005)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech AI 7051 | QP_Organizational Behaviour(703TG0C005)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech Computer 7047 | QP_Organizational Behaviour(703TG0C005)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech DS 7052 | QP_Organizational Behaviour(703TG0C005)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech IT 7041 | QP_Organizational Behaviour(703TG0C005)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Answer key | Sem 1 | MASTER OF COMMERCE (BUSINESS MANAGEMENT) - 45703 | ANS_Final-Exam_Organisational Behaviour(NKOGB502)_Semester I_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Organizational Behaviour(703TG0C005)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Organizational Behaviour(703TG0C005)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Organizational Behaviour(703TG0C005)_2025-2026.pdf |
@@ -47,10 +49,12 @@ Also filed as: `ORGANISATION BEHEVIOUR`, `ORGANISATIONAL BEHAVIOUR`, `ORGANIZATI
 | 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Organizational Behaviour(703TG0C005)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Organizational Behaviour(703TG0C005)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Organizational Behaviour(703TG0C005)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 8 | MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTER ENGINEERING) - 7047 | QP_Re-Exam_Organizational Behaviour(703TG0C005)_Semester VIII_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Organizational Behaviour(703TG0C005)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Organizational Behaviour(703TG0C005)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech AI 7051 | QP_Organizational Behaviour(703TG0C005)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech DS 7052 | QP_Organizational Behaviour(703TG0C005)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (COMPUTER ENGINEERING) - 7047 | ANS_Re-Exam_Organizational Behaviour(703TG0C005)_Semester VIII_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Organizational Behaviour(703TG0C005)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Organizational Behaviour(703TG0C005)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Organizational Behaviour(703TG0C005)_2024-2025.pdf |

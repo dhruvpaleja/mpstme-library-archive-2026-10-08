@@ -365,3 +365,224 @@ follow sustainable practices.
 Management   logistics.
 ********** 9 **********
 ````
+
+## 2024-25 · Final-Exam · Sem 3 · Answer key · paper 57a0c7ed5682
+
+- Departments: Mechanical
+- Programmes: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7031
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7031/Elements of Mechanical Engineering/ANS_Final-Exam_Elements of Mechanical Engineering(701ME0C002)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Dec 2024
+- Text: text (3 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX
+YEARS INTEGRATED PROGRAM
+Year: II/Semester III(Exam Year: 2024-2025)
+Subject: Elements of Mechanical Engineering
+Date: 04 Dec 2024   Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any four questions.
+4. In all five questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly:
+CO-1; SO-7; BL-   a.   Identification of two stages (2 marks)
+Understand   Brief explanation of each stage (2 marks)
+CO-1; SO- 4; BL-   b.   Explanation of tensile stress (2 marks)
+Remember   Explanation of compressive stress (2 marks)
+CO-2; SO- 3; BL-   c.   Definition of fluid density (1 mark)
+Understand   Explanation of how fluid density affects fluid behavior (3
+marks)
+CO-2; SO- 3; BL-   d.   Explanation of the principle of impulse action (2 marks)
+Understand   How the Pelton wheel turbine converts hydraulic energy into
+mechanical energy (2 marks)
+CO-3; SO- 3; BL-   e.   Definition and explanation of open systems with an example
+Understand, Apply   (2 marks)
+Definition and explanation of closed systems with an example
+(2 marks)
+Q2   A   Explanation of each manufacturing process:
+CO-1; SO-5;
+BL-Apply, Analyze   Casting (2 marks)
+Forming (2 marks)
+********** 1 **********
+--- page 2 ---
+Machining (2 marks)
+Joining (2 marks)
+Finishing (2 marks)
+Examples for each process included in the explanation
+Q2   B   Discussion of:
+CO-1; SO-5;
+BL-Understand, Apply   Metals (2 marks)
+Ceramics (2 marks)
+Polymers (2 marks)
+Composites (2 marks)
+Explanation of factors in material selection for engineering
+applications (2 marks)
+Q3   A   Explanation of drag force (4 marks)
+CO-2; SO-7; BL-   Discussion on how shape influences drag (4 marks)
+Understand, Apply   Examples from automotive or aerospace engineering (2
+marks)
+Q3   B   Classification of hydraulic turbines (5 marks)
+CO-2; SO-7; BL-   Examples for each type of flow (5 marks)
+Understand, Apply
+Q4   A   Definition of Reynolds number (3 marks)
+CO-2; SO-7;   Explanation of its significance in determining flow type (3
+BL- Understand,   marks)
+Analyze   Applications in fluid dynamics (4 marks)
+Q4   B   Explanation of different types of energy conversions in
+CO-3; SO-7;   thermal systems (5 marks)
+BL- Understand, Apply   Examples of each type of conversion (5 marks)
+Q5   A   Explanation of the Kaplan turbine’s working principle (5
+CO-2; SO-1;   marks)
+BL- Understand,   Discussion of advantages (3 marks)
+Analyze   Applications in low-head power generation (2 marks)
+Q5   B   Description of spur gears (2 marks)
+CO-3; SO-1;   Description of helical gears (2 marks)
+BL- Understand,   Description of bevel gears (2 marks)
+Analyze   Description of worm gears (2 marks)
+********** 2 **********
+--- page 3 ---
+Functions, advantages, and applications of each type (2
+marks)
+Q6   A   Comparison of energy conversion processes in solar thermal
+CO-3; SO-5;   and fossil-fuel-based systems (5 marks)
+BL- Understand, Apply   Discussion of environmental impacts for both systems (5
+marks)
+Q6   B   Comparison of belt drives and chain drives in power
+CO-3; SO-5;   transmission (3 marks)
+BL- Understand,   Comparison in terms of efficiency (3 marks)
+Analyze   Comparison in practical applications (2 marks)
+Explanation of scenarios where each type is preferred (2
+marks)
+Q7   a) Stress and Strain (5 marks)
+CO-1,3; SO-1;   b) Gravitational Potential Energy (5 marks)
+BL-Evaluate   c) Law of Machine (5 marks)
+d) Simple gear train (5 marks)
+********** 3 **********
+````
+
+## 2024-25 · Re-Exam · Sem 3 · Answer key · paper fd49fb7b0a68
+
+- Departments: Mechanical
+- Programmes: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7031
+- Source: `00_Original_Downloads/2024/65008__Semester III.zip :: Re-Exam/BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7031/Elements of Mechanical Engineering/ANS_Re-Exam_Elements of Mechanical Engineering(701ME0C002)_Semester III_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 22 Feb 2025
+- Text: text (3 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: BACHELOR OF TECHNOLOGY (MECHANICAL ENGINEERING) SIX
+YEARS INTEGRATED PROGRAM
+Year: II/Sem 3 Re-exam(Exam Year: 2024-2025)
+Subject: Elements of Mechanical Engineering
+Date: 22 Feb 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question No. 1 is compulsory.
+3. Out of remaining questions, attempt any four questions.
+4. In all five questions to be attempted.
+5. All questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+Q1   Answer briefly:
+CO-1; SO-7; BL- a.   Definition of dimensional consistency (2 marks)
+Understand   Importance in engineering calculations (2 marks)
+CO-1; SO- 4;   b.   Definition of stress (1 mark)
+BL- Remember   Formula for stress (1 mark)
+Definition of strain (1 mark)
+Formula for strain (1 mark)
+CO-2; SO- 3;   c.   Definition and characteristics of laminar flow (2 marks)
+BL-Understand
+Definition and characteristics of turbulent flow (2 marks)
+CO-2; SO- 3;   d.   Definition of impulse turbines and energy utilization (2 marks)
+BL-Understand
+Definition of reaction turbines and energy utilization (2 marks)
+CO-3; SO- 3;   e.   Definition of the law of conservation of energy (2 marks)
+BL-Understand,   Example from thermal systems illustrating the concept (2 marks)
+Apply
+Q2   A   Explanation of the role of communication skills in engineering (3
+CO-1; SO-5;   marks)
+BL-Apply,
+Analyze   Detailed focus on:
+********** 1 **********
+--- page 2 ---
+Written reports (2 marks)
+Public speaking (2 marks)
+Leadership (2 marks)
+Relevant examples (1 mark)
+Q2   B   Explanation of the stress-strain curve (2 marks)
+CO-1; SO-5;   Description of key regions:
+BL-Understand,   Proportional limit (2 marks)
+Apply   Elastic limit (2 marks)
+Yield point (2 marks)
+Explanation of how the curve is used to characterize material
+behavior (2 marks)
+Q3   A   Explanation of Pascal’s Law (3 marks)
+CO-2; SO-7;   Application of Pascal’s Law in hydraulic systems (3 marks)
+BL- Understand,   Examples of practical uses (4 marks)
+Apply
+Q3   B   Identification of main components (4 marks)
+CO-2; SO-7;   Explanation of the role of each component (6 marks)
+BL- Understand,
+Apply
+Q4   A   Explanation of each fluid flow type (8 marks)
+CO-2; SO-7;   Examples of where each type is encountered in engineering (2
+BL-   marks)
+Understand,
+Analyze
+Q4   B   Explanation of thermal power plant working principle (4 marks)
+CO-3; SO-7;
+Detailed process of converting heat energy into electrical energy
+BL-
+(6 marks)
+Understand,
+Apply
+Q5   A   Explanation of the centrifugal pump mechanism (4 marks)
+CO-2; SO-1;
+Comparison with reciprocating pump (3 marks for efficiency, 3
+BL-
+marks for application)
+Understand,
+Analyze
+Q5   B   Explanation of Mechanical Advantage (3 marks)
+Explanation of Velocity Ratio (2 marks)
+********** 2 **********
+--- page 3 ---
+CO-3; SO-1;   Explanation of Efficiency (2 marks)
+BL-   Relation between the three parameters and influence on
+Understand,   performance (3 marks)
+Analyze
+Q6   A   Description of the four stages of the cycle: intake, compression,
+CO-3; SO-5;   power, and exhaust (4 marks)
+BL-
+Explanation of how chemical energy is converted into mechanical
+Understand,
+work during these stages (6 marks)
+Apply
+Q6   B   Explanation of the working principle of a simple screw jack (3
+CO-3; SO-5;   marks)
+BL-   Explanation of the working principle of a differential screw jack
+Understand,   (3 marks)
+Analyze   Comparison of mechanical advantages (2 marks)
+Explanation of when each type would be more beneficial (2
+marks)
+Q7   a) Selection of materials for engineering purpose (5 marks)
+CO-1,3; SO-1;   b) Types of system (5 marks)
+BL-Evaluate   c) Belt and Chain drives (5 marks)
+d) lifting Machines (5 marks)
+********** 3 **********
+````

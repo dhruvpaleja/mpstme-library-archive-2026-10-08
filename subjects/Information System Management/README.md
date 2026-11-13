@@ -1,6 +1,6 @@
 # Information System Management
 
-**52** unique papers (53 copies across programmes) · 2012-13 to 2025-26 · 9 programmes · Sem 8, Trim 8
+**54** unique papers (55 copies across programmes) · 2012-13 to 2025-26 · 10 programmes · Sem 8, Trim 8
 
 Download only this subject, sorted by academic year:
 
@@ -46,11 +46,13 @@ Also filed as: `INFORAMTION SYSTEMS FOR MANAGEMENT`, `INFORMATION SYSTEMS FOR MA
 | 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech Computer 7047 | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech DS 7052 | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
 | 2024-25 | Final-Exam | Answer key | Sem 8 | MBATech IT 7041 | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 8 | MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (DATA SCIENCE) - 7052 | QP_Re-Exam_Information System Management(703TG0C003)_Semester VIII_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper |  | MBA TECH | Information System Management, Sem-VIII, Batch 2024-25, Re Exam.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | QP_Information System Management(703TG0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | QP_Information System Management(703TG0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech AI 7051 | QP_Information System Management(703TG0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Question paper | Sem 8 | MBATech Computer 7047 | QP_Information System Management(703TG0C003)_2024-2025.pdf |
+| 2024-25 | Re-Exam | Answer key | Sem 8 | MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (DATA SCIENCE) - 7052 | ANS_Re-Exam_Information System Management(703TG0C003)_Semester VIII_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (ELECTRONICS & TELECOMMUNICATIO | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech (MECHANICAL ENGINEERING) - 7046 | ANS_Information System Management(703TG0C003)_2024-2025.pdf |
 | 2024-25 | Re-Exam | Answer key | Sem 8 | MBATech AI 7051 | ANS_Information System Management(703TG0C003)_2024-2025.pdf |

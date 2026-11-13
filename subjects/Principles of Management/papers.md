@@ -1,8 +1,164 @@
 # Principles of Management: question papers in full
 
-31 unique papers · 2007-08 to 2025-26 · Data Science, Real Estate and Construction Management, Computer Applications (MCA), Artificial Intelligence, Computer Engineering, Common (all branches), Information Technology
+39 unique papers · 2007-08 to 2025-26 · Data Science, Real Estate and Construction Management, Computer Applications (MCA), Management Studies, Commerce, Artificial Intelligence, Computer Engineering, Common (all branches), Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 1 · paper d96b0ac7a328
+
+- Departments: Management Studies
+- Programmes: Bachelor of Management Studies - 45614
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Management Studies - 45614/Principles Of Management/QP_Final-Exam_Principles Of Management(NBPOM101)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 13 Feb 2026
+- Text: text (3 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Management Studies/B.M.S.
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Principles of Management/Principles Of Management
+Date: 13 Feb 2026   Time: 07:30 am - 09:30 am (02:00 Hrs.)
+Max Marks: 60
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+1.   Answer the following:(Attempt Any 2 Questions)   12
+a. Explain the levels of management in an organization and describe the skills required at   6
+different levels of management.
+b. Explain the principles of Chanakya Neeti and its relevance in modern management.   6
+c. Describe the focus of the Neo-Classical approach or Human Relations Approach on human   6
+behavior and evaluate the limitations of the approach.
+2.   Answer the following:(Attempt Any 2 Questions)   12
+a. Explain in brief the managerial function of planning. Describe the steps in the process of   6
+planning.
+b. Explain the concept of Management by Exception (MBE) and analyse how it helps managers   6
+focus on critical issues rather than routine activities.
+c. Explain decision making and evaluate the importance of qualitative decision-making   6
+techniques in managing complex and uncertain business situations.
+3.   Answer the following:(Attempt Any 2 Questions)   12
+a. Explain the virtual organizational structure and examine how it functions in managing   6
+geographically dispersed teams. Discuss its major advantages and limitations.
+Page 1 of 3
+--- page 2 ---
+b. An organization faces challenges in coordinating between functional departments and project   6
+teams. To address this, it introduces a structure where employees have more than one reporting
+authority. Identify and explain this organisational structure and analyse its benefits and
+limitations.
+c. In an organization, a manager observes that employees often hesitate to take charge of assigned   6
+tasks and frequently seek guidance before acting. Discuss the concept of delegation and
+analyze the barriers to effective delegation on the part of subordinates.
+4.   Answer the following:(Attempt Any 2 Questions)   12
+a. Explain the concept of motivation and discuss its benefits to employees and the organisation.   6
+b. An organization plans to introduce a new work process that alters existing roles and reporting   6
+relationships. As a manager, how would you apply appropriate change management practices
+to address employee concerns and ensure smooth implementation of the change?
+c. As a retail store manager facing persistent underperformance among employees, you are   6
+required to take corrective action. Apply a suitable theory of motivation to this situation and
+analyse how it can be used to enhance employee performance. Justify your choice.
+5. Read the case and answer the following questions:.   12
+Page 2 of 3
+--- page 3 ---
+Bright Foods Pvt. Ltd. is a small food-processing company producing packaged snacks.
+Recently, the company started receiving complaints about inconsistent taste and packaging
+defects. This led to a decline in repeat customers. To understand the problem, the manager
+used basic quantitative tools. A check sheet showed that most complaints came from the
+evening shift. A Pareto chart revealed that two causes improper seasoning and poor sealing
+were responsible for most defects. The company then introduced Total Quality Management
+(TQM) practices. Workers were trained to follow standard procedures, and small teams were
+formed to suggest quality improvements. Customer feedback was regularly reviewed to
+improve product quality. Using the Systems approach, management realized that raw material
+quality, machine maintenance, and worker training were all connected. Any problem in one
+area affected final product quality. Through the Contingency approach, the manager applied
+stricter quality checks during peak demand periods and simplified procedures during normal
+demand. As a result, product defects reduced, customer satisfaction improved, and repeat
+sales increased.
+Q1. How did Bright Foods Pvt. Ltd. use quantitative tools to identify the main quality
+problems? (6 marks)
+Q2. Why were the Systems and Contingency approaches important in improving quality at
+Bright Foods Pvt. Ltd.?(6 marks)
+Page 3 of 3
+````
+
+## 2025-26 · Final-Exam · Sem 2 · paper 3f8e19afba00
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce - 45611
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/Bachelor of Commerce - 45611/Principles Of Management/QP_Final-Exam_Principles Of Management(NAPOM152)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 16 Mar 2026
+- Text: text (3 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.B.I./B.Com
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Principles Of Management
+Date: 16 Mar 2026   Time: 08:00 am - 10:00 am (02:00 Hrs.)
+Max Marks: 60
+FINAL EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. All questions are compulsory
+5. Question 1 to Question 4 have internal choice wherein, you can answer two of the given three options.
+6. Question 5 comprises a Case Study accompanied with questions to be answered in the context of the given
+case.
+1.   Answer the following question. (Attempt Any 2 Questions)   12
+a. Discuss the relevance of managerial skills at different levels of management.   6
+b. Apply any three principles of management given by Henri Fayol to improve the overall   6
+functioning of an organisation.
+c. Examine the three common problems faced by leaders according to Chanakya.   6
+2.   Answer the following question. (Attempt Any 2 Questions)   12
+a. Critically evaluate the benefits and limitations of planning in modern organizations.   6
+b. Analyse the limitations of Management by Objectives and explain how they can affect   6
+organizational performance.
+c. An organisation is facing a complex problem and wants both creative ideas and expert   6
+judgement to solve it. Apply Brainstorming and the Delphi Technique to explain how the
+problem can be addressed.
+3.   Answer the following question. (Attempt Any 2 Questions)   12
+Page 1 of 3
+--- page 2 ---
+a. Describe the features of Functional and Matrix Organisation on the basis of structure,   6
+authority, and suitability.
+b. Explain departmentation and analyse the different bases on which departments are   6
+formed.
+c. Analyse the barriers that prevent effective delegation in organisations.   6
+4.   Answer the following question. (Attempt Any 2 Questions)   12
+a. Explain McClelland’s Need Theory of motivation.   6
+b. “Modern organisations rely heavily on formal control techniques.” Analyse the role of   6
+Budgetary Control and Management Information System in effective controlling.
+c. Examine the nature of change within organisations.   6
+5.   Read the following case study and answer the following questons.   12
+SkyWings Airlines, a national carrier, was recently acquired by a large Indian conglomerate
+after facing financial losses and declining service quality. The new management initiated a
+comprehensive transformation strategy to restore competitiveness and improve operational
+efficiency. The plan included fleet modernisation, restructuring of organisational systems,
+integration of two subsidiary airlines, and a stronger focus on customer experience.
+To implement these changes, leadership introduced new organisational structures, emphasised
+employee training, and adopted digital technologies to improve communication and
+coordination. The airline faced resistance from employees due to cultural shifts, revised
+performance expectations, and redesigned processes. Controlling mechanisms such as
+performance dashboards and management information systems were introduced to monitor
+service quality and operational efficiency.
+Top management adopted a systems and contingency approach by aligning human resources,
+technology, and operations with global aviation standards. The transformation reflects how
+organisations manage large-scale change, leadership challenges, and competition in a
+dynamic global environment.
+Questions
+a. Analyse how the functions of management were applied in SkyWings Airlines’
+transformation strategy. (6 Marks)
+b. Examine the role of leadership and change management in overcoming employee
+resistance during organisational restructuring. (4 Marks)
+Page 2 of 3
+--- page 3 ---
+c. Suggest two planning or decision-making techniques that could help SkyWings Airlines
+manage global competition effectively. (2 Marks)
+Page 3 of 3
+````
 
 ## 2025-26 · Final-Exam · Sem 1 · paper cad3e5565bb7
 
@@ -261,6 +417,170 @@ cases they are refusing to provide insurance coverage for high-priced pharmaceut
 priced generic alternatives are available
 
 FR QR KR
+````
+
+## 2025-26 · Re-Exam · Sem 1 · paper f4620b2b9de7
+
+- Departments: Management Studies
+- Programmes: Bachelor of Management Studies - 45614
+- Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Re-Exam/Bachelor of Management Studies - 45614/Principles Of Management/QP_Re-Exam_Principles Of Management(NBPOM101)_Semester I_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 30 Mar 2026
+- Text: text (3 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: Bachelor of Management Studies/B.M.S.
+Year: I/Semester I (Exam Year: 2025-2026)
+Subject: Principles of Management/Principles Of Management
+Date: 30 Mar 2026   Time: 08:00 am - 10:00 am (02:00 Hrs.)
+Max Marks: 60
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+1.   Answer the following:(Attempt Any 2 Questions)   12
+a. Explain the hierarchical levels of management and highlight the managerial competencies   6
+necessary for organizational effectiveness.
+b. Describe the key ideas of Vedic Management and explain the contribution of Vedic   6
+Management thoughts to managerial practices.
+c. Analyze the Scientific Management Techniques given by F. W. Taylor.   6
+2.   Answer the following:(Attempt Any 2 Questions)   12
+a. What is meant by planning? Explain in brief the nature of planning.   6
+b. What is Management by Exception (MBE). Discuss the benefits of MBE in improving   6
+managerial efficiency and decision making.
+c. Explain decision making and critically examine the role of quantitative decision-making   6
+techniques in enhancing managerial effectiveness and decision quality.
+3.   Answer the following:(Attempt Any 2 Questions)   12
+a. How does a combination of a line and staff structure look and what are its advantages and   6
+disadvantages?
+Page 1 of 3
+--- page 2 ---
+b. An organization handling multiple projects across different functional departments adopts a   6
+dual reporting system for its employees. Identify the organisational structure being used.
+Explain how this structure operates and discuss its benefits and limitations in such a work
+environment.
+c. A senior manager insists on handling most decisions personally and is hesitant to delegate   6
+authority to subordinates, even for routine tasks. Discuss the concept of delegation and analyze
+the barriers to delegation on the part of the superior reflected in this situation.
+4.   Answer the following:(Attempt Any 2 Questions)   12
+a. Explain how leadership, motivation, and communication work together to achieve   6
+organisational goals.
+b. Explain the concept of change management and describe its key characteristics in the context   6
+of modern organizations.
+c. A sales organisation observes that some employees are motivated by challenging targets, while   6
+others value teamwork or opportunities to influence decisions. Using McClelland’s Need
+Theory, analyse how a manager can address these different motivational needs to improve
+employee performance.
+5. Read the case and answer the following questions:.   12
+To strengthen its e-commerce performance and compete effectively with global players such
+as Amazon, Flipkart has undertaken major operational initiatives, including the use of
+automated inventory systems, an advanced online shopping platform, and continuous
+employee skill development in digital tools.
+Page 2 of 3
+--- page 3 ---
+While these initiatives aim to improve efficiency and service quality, employee morale and
+productivity levels differ significantly across departments. Some teams struggle with work
+pressure, others show declining output due to lack of performance focus, and a few
+departments display confusion arising from inconsistent managerial direction.
+In this context, different departmental managers at Flipkart demonstrate distinct leadership
+approaches:
+Manager A places strong emphasis on meeting targets, efficiency, and deadlines, often
+pressuring employees to deliver results while paying limited attention to their needs or
+concerns.
+Manager B focuses on maintaining employee satisfaction and harmony, frequently
+avoiding strict performance standards or corrective action.
+Manager C attempts to balance task achievement and employee welfare but hesitates to
+take firm decisions, leading to unclear expectations.
+Manager D adopts a participative approach by encouraging open communication, aligning
+team goals with performance expectations, and supporting employees through guidance
+and development initiatives.
+Questions:
+1. Using Blake and Mouton’s Managerial Grid, identify and analyse the leadership styles
+exhibited by Managers A, B, C, and D. Justify your analysis by linking each manager’s
+behaviour to their concern for people and concern for production. (6 Marks)
+2. Evaluate which leadership style from the Managerial Grid would be most effective for
+improving employee morale and achieving sustained performance at Flipkart. Support your
+answer with suitable reasoning based on the case. (6 Marks)
+Page 3 of 3
+````
+
+## 2025-26 · Re-Exam · Sem 2 · paper 918268dac91c
+
+- Departments: Commerce
+- Programmes: Bachelor of Commerce - 45611
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Re-Exam/Bachelor of Commerce - 45611/Principles Of Management/QP_Re-Exam_Principles Of Management(NAPOM152)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 60; duration hours: 2; exam date: 23 Jun 2026
+- Text: text (3 pages)
+
+````text
+SVKM
+Narsee Monjee College of Com. & Eco.
+Programme: B.B.I./B.Com
+Year: I/Semester II (Exam Year: 2025-2026)
+Subject: Principles Of Management
+Date: 23 Jun 2026   Time: 10:30 am - 12:30 pm (02:00 Hrs.)
+Max Marks: 60
+RE EXAMINATION(2025-2026)
+Instructions:
+1. This question paper contains 3 pages
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. All questions are compulsory
+5. Question 1 to Question 4 have internal choice wherein, you can answer two of the given three options.
+6. Question 5 comprises a Case Study accompanied with questions to be answered in the context of the given
+case.
+1.   Answer the following question. (Attempt Any 2 Questions)   12
+a. What is Management? Analyse whether management satisfies the criteria of a profession.   6
+b. Apply the principles of Scientific Management to improve work processes in an   6
+organisation.
+c. Examine the role of vedic management principles in supporting ethical and sustainable   6
+management practices.
+2.   Answer the following question. (Attempt Any 2 Questions)   12
+a. Assess the benefits of planning in managerial decision-making.   6
+b. Examine why coordination is considered the essence of management rather than a separate   6
+managerial function.
+6
+Page 1 of 3
+--- page 2 ---
+c. A government body needs to take a major decision by gathering structured inputs from
+participants and expert opinions from different locations. Apply the Nominal Group
+Technique and the Delphi Technique to explain how the decision can be improved.
+3.   Answer the following question. (Attempt Any 2 Questions)   12
+a. Describe the steps involved in the process of organising.   6
+b. Describe the process of developing organisational structure.   6
+c. “An appropriate balance between centralisation and decentralisation is essential for   6
+organisational effectiveness.” Examine this statement with suitable reasons.
+4.   Answer the following question. (Attempt Any 2 Questions)   12
+a. Discuss the benefits of motivation to employees and organisations.   6
+b. Discuss the characteristics of controlling in an organisation.   6
+c. “Managing resistance to change is critical for successful change implementation.”   6
+Evaluate this statement with suitable measures to overcome resistance to change.
+5.   Read the following case study and answer the following questons.   12
+TechN Solutions is an IT services firm handling multiple client projects with strict deadlines.
+The company’s strategy emphasizes timely delivery, innovation, and client satisfaction. Mr.
+Suresh, the Head of Operations, believes in maintaining a friendly, supportive, and low-stress
+work environment to keep employees motivated.
+He avoids strict supervision and prefers informal communication with team members.
+However, he hesitates to clearly delegate authority or enforce accountability. Responsibilities
+are loosely defined, project ownership is unclear, and he often rechecks or redoes tasks
+himself to avoid confrontation. As a result, employees lack clarity about expectations and
+decision-making boundaries.
+Although employees initially appreciate the relaxed culture, project deadlines are frequently
+missed and productivity remains inconsistent. Clients have started raising concerns about
+delivery delays, and top management is worried that the current leadership approach may not
+support long-term organizational effectiveness.
+Page 2 of 3
+--- page 3 ---
+Questions
+a. Analyse the leadership style adopted by Mr. Suresh and its impact on strategy execution. (4
+Marks)
+b. Apply the concept of delegation to suggest how operational effectiveness can be improved
+in this organization. (4 Marks)
+c. Evaluate whether a purely people-oriented leadership style without clear control
+mechanisms is sustainable in a deadline-driven industry. Justify your answer. (4 Marks)
+Page 3 of 3
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · paper 4fcd75bae2d2

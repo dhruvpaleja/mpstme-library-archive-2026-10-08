@@ -442,6 +442,142 @@ C & F----polar covalent
 ********** 4 **********
 ````
 
+## 2024-25 · Re-Exam · Sem 4 · Answer key · paper b616c94b48d1
+
+- Departments: Computer Engineering
+- Programmes: BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7032
+- Source: `00_Original_Downloads/2024/67804__Semester IV__context_fixed.zip :: Re-Exam/BACHELOR OF TECHNOLOGY (COMPUTER ENGINEERING) SIX YEARS INTEGRATED PROGRAM - 7032/Chemistry-II/ANS_Re-Exam_Chemistry-II(701BS0C017)_Semester IV_2024-2025.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Jul 2025
+- Text: text (3 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: B. Tech Intg. (CE)/B. Tech Intg. (DS)
+Year: II/Sem 4 Re-exam(Exam Year: 2024-2025)
+Subject: Chemistry-II
+Date: 05 Jul 2025   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+RE EXAMINATION (Acad. Year:2024-2025)
+Instructions:
+1. This question paper contains 3 pages.
+2. Question No. 1 is compulsory
+3. Out of the remaining questions, attempt any 4 questions
+4. In all 5 questions to be attempted
+5. All questions carry equal marks
+6. Answer to each new question to be started on a fresh page
+7. Non-graphing scientific calculator can be used for numerical solving
+8. Figures in brackets on the right hand side indicate full marks
+9. Assume Suitable data if necessary
+Q1. CO-1; SO-1;BL-   a.   Definition -2M. correct order-2M, reason-1M
+2
+CO-2; SO-1;   b.   Define mole -2M. Calculate number of oxygen atoms in a sample of 2 mol CaCO3.
+BL-1   1 mol O atoms = 6.022*10²³ atoms
+1 mol CaCO3 has 3 mol O atoms
+2 mol CaCO3 has 2*3 = 6 mol O atoms
+Total number of O atoms = 6*6.022*10²³ atoms = 3.613*1024 O atoms
+CO-3; SO-1;   c.   ionic bond explain with example----5M
+BL-1
+CO-4; SO-1;   d.   Solution defination---1M, three types of solutions where gas is a solvent. With
+BL-2   an example of each type—4M
+Q 2. CO-3; SO-1;   a.   2-hydroxy-3-methyl pentane
+BL-1   3-methyl pent-1-amine
+3-en-pent-1-yne
+Benzaldehyde
+2-methyl pentan-3-one
+CO-1; SO-1;   b.   Define effective nuclear charge-1M.
+BL-1   1s22s22p63s23p63d44s2 ---1M
+Estimate Zeff of outermost s electron
+S = (1 x 0.35) + (12 x 0.85) + (10 x 1) = 18.55
+Thus,
+Z* Z - S = 24 – 20.55 = 3.45
+********** 1 **********
+--- page 2 ---
+and 3d electron for Cr (Z=24).
+S = (3 x 0.35) + (18 x 1) = 19.05
+Thus,
+Z* = 24 - 19.05 = 4.95
+CO-2; SO-1;   c.   Molar mass of NiSO4.6H2O =58.7+32+4×16+6×18= 262.7 g/mol--2M
+BL-2   Thus, 262.7 g of NiSO4.6H2O contains avogadro's number 6.023×1023 of
+molecules—1M.
+The weight of molecules of NiSO4.6H2O is
+262.7 × 12.5 x 1020/6.023×1023 = 0.545 g – 2M
+CO-3; SO-;   d.   acid functional group with respect to identification---2.5M, 2 methods of
+BL-2   preparation---2.5M
+Q 3.   a. MW KCl = 74.5 -1M
+CO-4; SO-1;   No. of moles = 20/74.5 =0.268 -1M
+BL-2   Mass of solution = d*v= 1.13 x 500 = 565g 1M
+Mass of water (solvent) = 565-20 = 545 g = 0.545kg 1M
+Molality = 0.537/0.545 = 0.491m - 1M
+CO-3; SO-1;   b. Each correct str---1M
+BL-5
+CO-1; SO-1;   c. EA defn and explaination—3M,
+BL-3   In halogens group 17,the low value of EA of F (-328Kj/mole) relative to that of
+Cl (- 349KJ/mole) is due to the strong inter electronic repulsion in the
+relatively small and compact 2p orbital of F on the addition of another electron—
+2M
+CO-2; SO-1;   d. 1 mole -294 g, it has 78 g K—1M
+BL-6   So 10 g K2Cr2O7 has 2.65 g potassium ---1M
+1 mole N2= 28 g, 56 g = 2 moles N2 = 4 moles N-atoms
+= 4 x 6.023 x 1023 = 24.092 x 1023 nitrogen atoms
+Q 4.   a.   Each correct str----1M
+CO-3; SO-1;
+BL-1
+CO-3; SO-1;   b.   alcohol functional group with respect to identification---2.5M, 2 methods of
+BL-4   preparation---2.5M
+CO-3; SO-1;   c.
+BL-2
+CO-1; SO-1;   d.   Justify-1M. period, group and block of V (Z=10)—2nd period, group-18, p-block
+BL-5   ---2M
+S (Z=17) 3rd period, group 17, p-block—2M
+Q 5.   a.   moles of solute (KCl) = 5 g/ 74.5 g mol-1 = 0.0671 mol—1M
+CO-2; SO-1;   Molarity = Number of moles of solute/Volume of solution in L
+BL-1   Molarity = 0.0671 mol /0.506 L = 0.1325 mol L-1
+no. of gm eqv = 0.1342
+Normality = 0.1342 mol /1.013 L= 0.1325 N
+CO-3; SO-1;   b.   concept of expanded octet---3M with a relevant example---2M
+********** 2 **********
+--- page 3 ---
+BL-1
+CO-4; SO-1;   c.   colligative properties of a solution---2M Explain the elevation in boiling point of
+BL-2   a solution---3M
+CO-3; SO-1;   d.   sp2 hybridization—explain ---3M (CH2=CH2) diagrammatically overlap of the
+BL-4   orbitals---2M
+Q 6.   a. ppm and ppb-1M each.
+CO-4; SO-1;
+BL-1   MW caso4 = 136 -0.5M
+Wt in gm = 136* 0.2 = 27.2g = 27200mg -1M
+V = 300ml = 0.3L
+Ppm = 27200/0.3 = 90666.66 ppm (1M)= 90666666 ppb (0.5M)
+CO-2; SO-1;   b.   total number of atoms in 50 g MgSO4
+BL-1   1 mole MgSO4 = 6 atoms x 6.023×1023 atoms
+120 g = 6x 6.023×1023 atoms
+So, 25 g = 25/120 x 6x 6.023×1023 = 7.516 x 1023 atoms
+CO-3; SO-1;   c. NO2− ion structures-----2.5M and CO32− ion structures-----2.5M
+BL-3
+CO-3; SO-1;   d.
+BL-2
+Q 7.   a. MW = Na2SO4 142. Moles = 42/142 =0.295 -1M
+CO-4; SO-1;   Mass of solution = d*v =0.891*220 = 196.02 g -1M
+BL-1   Mass of solute = 42g
+Mass of solvent water = 196.02-42 =154.02 g- 0.5M
+MW water = 18
+Moles of solvent water = 154.02/18 = 8.556 -0.5M
+Total moles = 0.295 + 8.556 = 8.851
+Mole fraction Solute = 0.295/8.851 = 0.0333-1M
+Mole fraction of water = 8.556/8.851 = 0.966-1M
+CO-3; SO-1;   b.   sp hybridization explain----3M, with suitable example---2M
+BL-1
+CO-3; SO-1;   c.   ketone functional group with respect to identification---2.5M, 2 methods of
+BL-6   preparation---2.5M
+CO-3; SO-1;   d. A bond is formed between H and O, where in electronegativity of O is 3.44 and H
+BL-2   is 2.1----2.5M polar
+A bond is formed between H and C, where in electronegativity of C is 2.55 and H
+is 2.1. -----2.5 m non polar
+********** 3 **********
+````
+
 ## 2024-25 · Re-Exam · Sem 3 · Answer key · paper db71e24b97c2
 
 - Departments: Information Technology

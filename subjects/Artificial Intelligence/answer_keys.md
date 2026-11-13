@@ -9452,3 +9452,416 @@ Example Algorithms   BFS, DFS, UCS   Greedy Best-First Search, A*
 Would you like a real-world example for each? 😊
 ********** 15 **********
 ````
+
+## 2023-24 · Final-Exam · Sem 2 · Answer key · paper b899f8eb6f2e
+
+- Departments: Computer Applications (MCA)
+- Programmes: MASTER OF COMPUTER APPLICATIONS - 7061
+- Source: `00_Original_Downloads/2023/76902__Semester II.zip :: Final-Exam/MASTER OF COMPUTER APPLICATIONS - 7061/Artificial Intelligence/ANS_Final-Exam_Artificial Intelligence(703CO0C008)_Semester II_2023-2024.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 22 Apr 2024
+- Text: mixed (17 pages), mean OCR confidence 84.6
+
+````text
+Synoptic
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MASTER OF COMPUTER APPLICATIONS
+Year: I/Semester II (Exam Year: 2023-2024)
+Subject: Artificial Intelligence
+Date: 22 Apr 2024   Time: 10:00 am - 01:00 pm (03:00 Hrs.)
+Max Marks:   100
+FINAL EXAMINATION(2023-2024)
+Instructions:
+1. This Synoptic paper contains 17 pages
+2. Question No. _1_ is compulsory.
+3. Out of remaining questions, attempt any _4_ questions.
+4. In all _5_ questions to be attempted.
+5. All main questions carry equal marks.
+6. Answer to each new question to be started on a fresh page.
+7. Figures in brackets on the right hand side indicate full marks.
+8. Assume Suitable data if necessary.
+1. 1 Solve the following   20
+A. Artificial Intelligence (AI) finds applications across various domains, revolutionizing processes   5
+and tasks. Here are some of the key application areas:
+Healthcare: AI is used for diagnosis assistance, personalized treatment plans, drug discovery,
+and medical imaging analysis. It helps in predicting diseases, managing patient data, and
+optimizing healthcare operations.
+Finance: AI is applied in fraud detection, risk assessment, algorithmic trading, customer service
+(chatbots), and personalized financial advice. It analyzes vast amounts of financial data to make
+predictions and recommendations.
+Retail: AI is used for personalized recommendations, demand forecasting, inventory
+management, customer service (chatbots), and supply chain optimization. It enhances customer
+experience and improves operational efficiency.
+Automotive: AI powers self-driving cars, advanced driver-assistance systems (ADAS),
+predictive maintenance, and vehicle diagnostics. It improves safety, efficiency, and convenience
+in transportation.
+Page 1 of 17
+--- page 2 ---
+Manufacturing: AI is applied in predictive maintenance, quality control, supply chain
+optimization, autonomous robots, and process automation. It helps in reducing downtime,
+improving productivity, and ensuring product quality.
+Marketing: AI enables targeted advertising, customer segmentation, sentiment analysis, and
+predictive analytics. It optimizes marketing campaigns, enhances customer engagement, and
+improves ROI.
+Education: AI assists in personalized learning, adaptive tutoring systems, student assessment,
+and administrative tasks automation. It provides customized learning experiences and helps
+educators in better decision-making.
+Cybersecurity: AI is used for threat detection, anomaly detection, behavior analysis, and real-
+time response in cybersecurity systems. It helps in identifying and mitigating security risks more
+effectively.
+Natural Language Processing (NLP): AI is applied in language translation, sentiment analysis,
+text summarization, chatbots, and virtual assistants. It enables computers to understand,
+interpret, and generate human language.
+Robotics: AI powers autonomous robots in various industries, including manufacturing,
+healthcare, agriculture, and logistics. It enables robots to perform complex tasks in dynamic
+environments.
+Entertainment: AI is used in content recommendation systems, personalized streaming services,
+video game development, and virtual reality experiences. It enhances user engagement and
+entertainment offerings.
+Agriculture: AI assists in precision farming, crop monitoring, yield prediction, and pest
+detection. It optimizes resource utilization, improves crop yields, and supports sustainable
+agriculture practices.
+B. In the context of Constraint Satisfaction Problems (CSPs), variable ordering refers to the   5
+strategy of deciding which variable to assign a value to first, second, third, and so on. The order
+in which you tackle the variables can significantly impact the efficiency of solving a CSP,
+especially when using backtracking search algorithms.
+Here's why variable ordering matters:
+Reduced Backtracks: A good variable ordering can minimize the number of backtracks
+needed during the search process. Imagine you're coloring a map. Choosing a variable
+(country) that constrains many other countries' colors (e.g., a country in the center) early on
+can help you avoid dead ends later when assigning colors to neighboring countries.
+Pruning the Search Space: By strategically selecting variables, you can effectively prune
+out parts of the search space that will inevitably lead to constraint violations. This reduces the
+number of assignments you need to try before finding a solution.
+Common Heuristics for Variable Ordering:
+Page 2 of 17
+--- page 3 ---
+Minimum Remaining Values (MRV): This heuristic prioritizes assigning values to
+variables with the fewest remaining possible values in their domain. The idea is that such
+variables are more likely to cause conflicts early on, so making a decision about them can
+help constrain the search space more effectively.
+Most Constraining Variable (MCV): This approach focuses on variables that participate in
+the most constraints with other unassigned variables. Assigning a value to such a variable can
+quickly affect the feasibility of many other assignments, potentially pruning out invalid
+branches early.
+Degree Heuristic: This simple heuristic prioritizes variables with the highest number of
+constraints they are involved in. Similar to MCV, it targets variables that have a wider impact
+on the overall solution.
+Choosing the Right Heuristic:
+The best variable ordering heuristic depends on the specific CSP you're dealing with.
+Sometimes, a combination of these heuristics can be even more effective. Experimenting with
+different approaches can help you find the most efficient strategy for a particular problem.
+Additional Considerations:
+Variable ordering can be static, meaning the order is fixed before the search starts.
+Dynamic ordering, on the other hand, can adapt the order based on the current state of the
+search (e.g., after a backtrack).
+While variable ordering is crucial, it's often used in conjunction with value ordering
+heuristics, which determine the order in which to try the possible values for a chosen
+variable.
+By carefully considering variable ordering, you can significantly improve the efficiency of
+solving Constraint Satisfaction Problems and find solutions faster.
+C. Resolution is a theorem proving technique that proceeds by building refutation proofs, i.e.,   5
+proofs by contradictions.
+It was invented by a Mathematician John Alan Robinson in the year 1965.
+Resolution is used, if there are various statements are given, and we need to prove a conclusion
+of those statements.
+Unification is a key concept in proofs by resolutions.
+Resolution is a single inference rule which can efficiently operate on the conjunctive normal
+form or clausal form.
+Clause: Disjunction of literals (an atomic sentence) is called a clause. It is also known as a unit
+clause.
+Page 3 of 17
+--- page 4 ---
+Conjunctive Normal Form: A sentence represented as a conjunction of clauses is said to be
+conjunctive normal form or CNF.
+D. Here are a couple of examples of expert systems you might encounter in everyday life:   5
+Medical Diagnosis Assistant: Imagine you're visiting a website to research your symptoms.
+The website might use an expert system to ask you a series of questions about your
+experiences. Based on your answers, the system can narrow down potential causes and
+suggest you see a doctor if necessary. This wouldn't be a definitive diagnosis, but it can be a
+helpful tool.
+Technical Support Chatbot: When you contact a company's customer service for a
+technical issue, you might interact with an expert system first. This chatbot can ask you
+questions about the problem you're facing and try to diagnose the issue based on a set of
+rules. It might even suggest solutions or troubleshoot common problems.
+2. 2 Solve the following (Attempt Any 4 Questions)   80
+1.   20
+A.
+10
+10
+Page 4 of 17
+--- page 5 ---
+B. Draw the state space search tree for the above knowledge.
+2.   20
+A. Heuristic search-   10
+Blind search techniques used an arbitrary ordering (priority) of operations.
+•Heuristic search techniques make use of domain specific information - a heuristic.
+•What heurisitic(s) can we use to decide which 8-puzzle move is “best” (worth considering
+first).
+Page 5 of 17
+--- page 6 ---
+For now - we just want to establish some ordering to the possible moves (the values of our
+heuristic does not matter as long as it ranks the moves).
+Later - we will worry about the actual values returned by the heuristic function.
+A Simple 8-puzzle heuristic-
+Number of tiles in the correct position.
+–The higher the number the better.
+–Easy to compute (fast and takes little memory).
+–Probably the simplest possible heuristic.
+Number of tiles in the incorrect position.
+–This can also be considered a lower bound on the number of moves from a solution!
+–The “best” move is the one with the lowest number returned by the heuristic.
+–Is this heuristic more than a heuristic (is it always correct?).
+Given any 2 states, does it always order them properly with respect to the minimum number of
+moves away from a solution?
+There are a variety of search techniques that rely on the estimate provided by a heuristic
+function.
+•In all cases - the quality (accuracy) of the heuristic is important in real-life application of the
+technique!
+Example-
+8 Puzzle Heuristics -
+B. Following are the steps to apply.   10
+Page 6 of 17
+--- page 7 ---
+Standardize variables:
+
+1. Wx: graduati Dh
+: graduating(x) appy(x) 1. Wx:- graduating(x) vhappy(x)
+
+2. Wx: happy(x) > smile(x) 2 Vy:- happy(y) vsmilety)
+
+3. dx: graduating(x) 3. 3z: graduating(z)
+4. -(Ax: smile(x)) 4. -(3w:smile(w))
+Remove implications: Move negation inverds and remove
+
+1. Wx: - graduating(x) v happy(x) quantifiers:
+
+- graduatin vha
+2 Wx: -happy(x) v smile(x) : graduating(x) v happy(x)
+2. - happy(y) vsmile(y)
+
+3. 3x: graduating(x) 5. graduating(z)
+
+4. -—(4x: smile(x)) 4. ~smile(w)
+
+Prove by resolution that someone is smiling.
+
+Local beam search
+
++ Keeping just one node in the memory is not
+always a good solution
+
+* Keeptrack ofk states rather than just one
+* Start with k randomly generated states
+
+« At each iteration, all the successors ofall k
+states are generated
+
++ Ifany one is a goal state, stop; else selectthe k
+best successors from the complete list and
+repeat.
+
+* Stochastic beam search (variant)
+
+Page 7 of 17
+
+20
+
+10
+--- page 8 ---
+Local beam search
+
+* It look similar to the random-restart search
+that it runs in parallel rather in sequence
+
+* In RR each process runs independently of
+each other
+
+* In LBS useful information is passed
+among the K parallel search threads
+
+* Ex: one state generate several good state,
+while other generating all bad moves, first
+state say to the other — “come over here,
+the grass is greener”
+
+Local beam search
+
+* The algorithm quickly abandons unfruitful
+searches
+
+* Move its resources to where more
+progress is being made
+
+* LBS can suffer from the lack of diversity
+among the k state
+
+* They can quickly become concentrated in
+a small region of the state space- making
+the expensive version of HC
+
+A.
+
+B. Significance - 2 Marks
+Algorithm with example (graph coloring) - 8 marks
+
+Page 8 of 17
+
+10
+--- page 9 ---
+function BACKTRACKING-SEARCH( csp) returns a solution, or failure
+return RECURSIVE-BACKTRACKING({}, csp)
+
+function RECURSIVE-BACKTRACKING( assignment, csp) returns a solution, or
+failure
+if assignment is complete then return assignment
+var SELECT- UNASSIGNED- VARIABLE( Variables/csp/, assignment, csp)
+for each value in ORDER-DOMAIN-VALUES(var, assignment, csp) do
+if value is consistent with assignment according to Constraints[csp] then
+add { var = value } to assignment
+result — RECURSIVE-BACKTRACKING( assignment, csp)
+if result # failue then return result
+remove { var = value } from assignment
+return failure
+
+{ot
+_—tT~.
+O35 Cb ES
+_——_
+es &
+_———_
+
+es ¢
+
+Page 9 of 17
+
+20
+
+10
+--- page 10 ---
+Minimax
+
++ Perfect play for deterministic games
+
+* Idea: choose move to position with highest minimax
+value
+= best achievable payoff against best play
+* Eg., 2-ply game:
+MAX
+
+MIN
+
+Minimax algorithm
+
+function Mintmax-Deersion(stafe) returns an action
+
+tt MAX- VALUE(state)
+return the action in SuCCESSORS( state) with value v
+
+function MAX-VALUE(state) returns a ulility value
+if Team Inat-Test(stete) then return UTILITy( state)
+te —oO
+for a,sin SUCCESSORS( state) do
+wt Max(v, Mrn- VALUE(s))
+return ©
+
+function Mix-VaLUe(state) returns a utility value
+if TERM INAt- Test (state) then return UrtLiry(state)
+te oo
+for o,sin SucCEssons( state) do
+ve Min(e, Max-VaLve(s))
+return w
+
+Page 10 of 17
+--- page 11 ---
+A.
+B. Significance in AI - 2 Marks   10
+Explanation on inductive learning with example - 8 marks
+The inductive learning is a process of learning by example. The system tries to induce a
+general rules from a set of observed instances. The learning methods extract rules and patterns
+out of massive data sets.
+The learning processes belong to supervised learning, does classification and constructs class
+definitions, called induction or concept learning.
+Simplest form: learn a function from examples.
+Page 11 of 17
+--- page 12 ---
+f is the target function
+An example is a pair (x, f(x))
+Problem: find a hypothesis h
+such that h ≈ f
+given a training set of examples.
+Page 12 of 17
+--- page 13 ---
+Page 13 of 17
+--- page 14 ---
+Students should discuss at least three models from this example.
+5.   20
+A. Backward chaining - 5 Marks   10
+●The backward reasoning is inverse of forward reasoning
+●It starts by finding all the rules whose right side matches with the goal node
+●Goal is analyzed in order to deduce the rules, initial facts and data.
+●We can understand the concept by the similar example,
+●In forward reasoning the doctor is trying to diagnose the patient with the help of the inceptive
+data such as symptoms.
+●However, in this case, the patient comes up with the name of disease, on the basis of which
+the doctor is going to prove and verify the symptoms.
+●This kind of reasoning comes under backward reasoning.
+properties
+●It is known as a top-down approach.
+●Backward-chaining is based on modus ponens inference rule.
+●In backward chaining, the goal is broken into sub-goal or sub-goals to prove the facts true.
+Page 14 of 17
+--- page 15 ---
+●It is called a goal-driven approach, as a list of goals decides which rules are selected and
+used.
+●Backward chaining algorithm is used in game theory, automated theorem proving tools,
+inference engines, proof assistants, and various AI applications.
+●The backward-chaining method mostly uses a depth-first search strategy for proof.
+Example: - 5 marks
+B. Designing the tree and solving complete example [10 Marks]   10
+6.   20
+Page 15 of 17
+--- page 16 ---
+A. Local search for Constraint Satisfaction Problems (CSPs) is an alternative approach to   10
+backtracking search. Unlike backtracking's systematic exploration, local search focuses on
+iteratively improving an assignment until a solution is found. Here's a breakdown of the key
+ideas:
+Core Concept:
+Local search doesn't explore the entire search space systematically. Instead, it starts with an
+initial assignment of values to variables and then iteratively makes small modifications to
+improve the solution.
+The focus is on finding a solution that satisfies all constraints, but it doesn't guarantee
+finding the optimal solution (one with the fewest constraint violations).
+The Process:
+1. Initial Assignment: Local search starts with an initial assignment of values to all variables.
+This can be random or based on some heuristic.
+2. Evaluation Function: A function evaluates the quality of the current assignment. This
+typically involves counting the number of violated constraints. Lower values indicate a
+better solution.
+3. Neighborhood Exploration: Local search examines neighboring assignments. A neighbor
+is typically created by modifying the value of a single variable in the current assignment.
+4. Improvement Step: The algorithm moves to a neighboring assignment only if it improves
+the evaluation function (reduces constraint violations).
+5. Iteration: Steps 3 and 4 are repeated until a solution is found (no constraint violations) or a
+stopping criterion is met (e.g., no improvement for a certain number of iterations).
+Key Points about Local Search for CSPs:
+Iterative Improvement: Local search improves solutions incrementally, focusing on
+finding a good enough solution rather than the absolute best.
+Heuristics for Exploration: How to choose neighboring assignments and which ones to
+prioritize can be guided by heuristics. For example, picking the neighbor that reduces the
+most constraint violations.
+Incompleteness: Unlike backtracking, local search might get stuck in local optima - a
+solution that seems good but isn't the best and no better neighbors exist based on the chosen
+exploration strategy. Techniques like random restarts can help escape local optima and
+explore different areas of the search space.
+Page 16 of 17
+--- page 17 ---
+Efficiency: Local search can be faster than backtracking for large problems, especially
+when a good solution is sufficient. However, it might miss the optimal solution entirely.
+In essence, local search offers a trade-off between optimality and efficiency. It's a good
+choice when finding a decent solution quickly is more important than finding the
+absolute best one.
+10
+B.
+Page 17 of 17
+````

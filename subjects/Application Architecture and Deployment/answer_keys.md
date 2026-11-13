@@ -2,6 +2,213 @@
 
 Answer keys and model answers published on the portal, newest first.
 
+## 2025-26 · Final-Exam · Sem 2 · Answer key · paper fa0c77263aa1
+
+- Departments: Data Science
+- Programmes: MASTER OF TECHNOLOGY - DATA SCIENCE (BUSINESS ANALYTICS) - 7027
+- Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: MASTER OF TECHNOLOGY - DATA SCIENCE (BUSINESS ANALYTICS) - 7027/Application Architecture & Deployment/ANS_Final-Exam_Application Architecture & Deployment(703DB0E024)_Semester II_2025-2026.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2026
+- Text: text (4 pages)
+
+````text
+SYNOPTICS
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+Programme: MASTER OF TECHNOLOGY - DATA SCIENCE (BUSINESS ANALYTICS)
+Year: I/Semester II(Exam Year: 2025-2026)
+Subject: Application Architecture & Deployment
+Date: 09 May 2026   Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+Instructions:
+1. This question paper contains 4 pages.
+2. Answer to each new question to be started on a fresh page.
+3. Figure in right hand side indicates full marks
+4. Question No. _1___ is compulsory.
+5. Out of remaining questions, attempt any __4___ questions.
+6. In all ___5_ questions to be attempted.
+7. All questions carry equal marks.
+8. Assume Suitable data if necessary.
+Q No.   Part   Question   Model Answer / Key Points   Marks
+Q1   a   A healthcare company is building a patient   Start with Monolithic (simpler, faster   5
+CO1   management system that needs to handle   to build). Plan Microservices
+BL-1,2   appointment booking, medical record   migration for scale.
+management, and billing. Initially, they plan to   Monolith: Easier dev/debug initially.
+start small but expect exponential user   Microservices: Independent scaling,
+growth. Would you recommend a monolithic   fault isolation, separate
+or microservices architecture? Justify your   deployability.
+answer. How would factors like scalability,   Recommendation: Monolith-first
+fault isolation, and independent deployability   with clear migration path.
+influence your choice?
+b   A university is developing a Student   GET: Retrieve data. POST: Create   5
+CO3   Information System using REST APIs. The   resource. PUT: Full update. PATCH:
+BL-1,2,3   system should allow students and admins to   Partial update. DELETE: Remove
+create, retrieve, update, and delete student   resource.
+records. Explain the different REST API   Example: GET /records → fetch all;
+methods (GET, POST, PUT, PATCH, DELETE)   POST /records → add new; DELETE
+with examples related to managing student   /records/{id} → remove.
+records.
+c   Explain the concept of Virtualization. How   Virtualization: Full OS per VM via   5
+CO2   does it differ from Containerization? State key   Hypervisor (VMware, KVM). Heavy,
+BL-   advantages of containerization.   slow.
+1,2,3,4   Containerization: Shares host OS
+kernel. Lightweight, fast (Docker).
+Key: Dockerfile → Image →
+Container.
+Advantages: Portability, consistency,
+fast startup, resource efficiency.
+d   What is a Kubernetes Service? Explain the   Kubernetes concepts: Pods (smallest   5
+CO4   types of Kubernetes Services (ClusterIP,   deployable unit), Services (stable
+BL-   NodePort, LoadBalancer).   networking), ConfigMaps (non-
+2,3,4,5,6
+********** 1 **********
+--- page 2 ---
+Q No.   Part   Question   Model Answer / Key Points   Marks
+sensitive config), Secrets (sensitive
+data, base64 encoded).
+Namespace: Logical cluster isolation
+for multi-team environments.
+Q2   a   Explain the essential qualities of a well-   API Threats: Injection, Broken Auth,   10
+CO1   designed software architecture. Cover aspects   Excessive Data Exposure, IDOR, Rate
+BL-1,2,3   such as scalability, maintainability, availability,   Limit Bypass.
+and security. Why are these characteristics   Mitigation: JWT/OAuth2 for auth,
+critical for enterprise applications?   HTTPS always, input validation, rate
+limiting, RBAC.
+API Keys: Simple but not scalable.
+JWT: Stateless, preferred. OAuth2:
+Delegated authorization.
+b   Compare REST, SOAP, GraphQL and gRPC APIs.   Refer to lecture notes and   10
+CO3   Highlight their advantages, disadvantages, and   prescribed textbooks for detailed
+BL-2,4   best use-case scenarios for each.   answer.
+Key concepts: Compare REST, SOAP,
+GraphQL and gRPC APIs. Highlight
+their advantages, disadvantages,
+and best use-c...
+Apply relevant diagrams, code
+examples, and real-world scenarios
+in exam.
+Q3   a   TechStart, an EdTech company, has multiple   Refer to lecture notes and   10
+CO5   developers building different modules of their   prescribed textbooks for detailed
+BL-1,3,4   online learning platform — courses, users,   answer.
+payments, and video streaming.   Key concepts: TechStart, an EdTech
+Challenges:   company, has multiple developers
+1. Each developer uses a different OS and   building different modules of their
+Python version causing 'it works on my   online lea...
+machine' issues.   Apply relevant diagrams, code
+2. Deploying updates requires manual   examples, and real-world scenarios
+configuration across servers.   in exam.
+3. New developers take days to set up their
+local environment.
+Explain how Docker resolves these challenges.
+Describe the role of a Dockerfile and write one
+for a simple Flask application that returns
+'Welcome to TechStart!' on port 8080.
+Explain how to build and run this container.
+b   Explain the Kubernetes architecture. Describe   Kubernetes concepts: Pods (smallest   10
+CO3   the roles of the Master Node components (API   deployable unit), Services (stable
+BL-1,3   Server, etcd, Scheduler, Controller Manager)   networking), ConfigMaps (non-
+and Worker Node components (kubelet, kube-   sensitive config), Secrets (sensitive
+proxy, container runtime).   data, base64 encoded).
+Namespace: Logical cluster isolation
+for multi-team environments.
+Q4   a   Explain the common security threats faced by   API Threats: Injection, Broken Auth,   10
+CO5   REST APIs (such as injection attacks, broken   Excessive Data Exposure, IDOR, Rate
+BL-1,3,4   authentication, excessive data exposure).   Limit Bypass.
+Additionally, describe the steps and tools to
+********** 2 **********
+--- page 3 ---
+Q No.   Part   Question   Model Answer / Key Points   Marks
+secure APIs effectively, including use of JWT,   Mitigation: JWT/OAuth2 for auth,
+OAuth2, and HTTPS.   HTTPS always, input validation, rate
+limiting, RBAC.
+API Keys: Simple but not scalable.
+JWT: Stateless, preferred. OAuth2:
+Delegated authorization.
+b   Explain the role of Docker in modern DevOps   Refer to lecture notes and   10
+CO4   workflows. Describe Docker Engine, Docker   prescribed textbooks for detailed
+BL-1,4   Hub, Docker Images, Docker Containers, and   answer.
+Docker Volumes. Compare Docker-based   Key concepts: Explain the role of
+deployment to traditional VM-based   Docker in modern DevOps
+deployment.   workflows. Describe Docker Engine,
+Docker Hub, Docker Im...
+Apply relevant diagrams, code
+examples, and real-world scenarios
+in exam.
+Q5   a   A fintech company is deploying a real-time   Kubernetes concepts: Pods (smallest   10
+CO3   fraud detection API on Kubernetes. The API   deployable unit), Services (stable
+BL-1,2   handles unpredictable traffic spikes during   networking), ConfigMaps (non-
+shopping festivals.   sensitive config), Secrets (sensitive
+1. Which Kubernetes features would you use   data, base64 encoded).
+for automatic scaling? Explain HPA (Horizontal   Namespace: Logical cluster isolation
+Pod Autoscaler) and how it works.   for multi-team environments.
+2. How would you configure liveness and
+readiness probes to handle container health?
+3. Suggest a deployment strategy (Rolling
+Update / Blue-Green) to deploy updates with
+zero downtime.
+b   A retail company's e-commerce application is   HPA: Scales pod replicas based on   10
+CO4   currently monolithic. As the business grows, it   CPU/memory metrics. Requires
+BL-1,2,3   faces issues with slow deployments, scaling   Metrics Server.
+bottlenecks, and difficulty adding new   VPA: Adjusts CPU/memory requests
+features.   per pod.
+1. What specific scaling and maintenance   Liveness Probe: Restarts unhealthy
+challenges are they likely facing?   container. Readiness Probe:
+2. Outline a step-by-step strategy to migrate   Removes from LB until ready.
+from the monolithic system to a microservices   Strategy: Rolling Update (zero
+architecture while ensuring business   downtime) vs Blue-Green (instant
+continuity.   switch).
+Q6   a   Your team is deploying a sentiment analysis   CI: Automated build + test on each   10
+CO2   ML model as a REST API. You want to use CI/CD   commit. CD: Automated deployment
+BL-   for automated testing and deployment.   to production.
+1,3,4,6   1. Explain Continuous Integration (CI) and   MLOps adds: data versioning, model
+Continuous Deployment (CD) and their   evaluation gates, drift monitoring,
+significance in MLOps.   retraining pipelines.
+2. Describe the key steps in setting up a CI/CD   Tools: GitHub Actions, Jenkins,
+pipeline for this ML API using GitHub Actions.   MLflow, DVC, Prometheus/Grafana
+3. What challenges are specific to CI/CD for ML   for monitoring.
+models and how would you address them?
+b   A healthcare SaaS platform is built using   Kubernetes concepts: Pods (smallest   10
+CO4   microservices: Auth Service, Patient Service,   deployable unit), Services (stable
+BL-1,2,3   and Appointment Service.   networking), ConfigMaps (non-
+********** 3 **********
+--- page 4 ---
+Q No.   Part   Question   Model Answer / Key Points   Marks
+1. What is Docker Compose and how does it   sensitive config), Secrets (sensitive
+help manage this multi-container setup?   data, base64 encoded).
+2. Write a docker-compose.yml to define and   Namespace: Logical cluster isolation
+run these three services, each as a Python   for multi-team environments.
+Flask app.
+3. Explain how inter-service communication
+and networking works in Docker Compose.
+Q7   a   You are deploying a trained churn prediction   Kubernetes concepts: Pods (smallest   10
+CO4   ML model as a Flask REST API using Docker,   deployable unit), Services (stable
+BL-1,2   Kubernetes, and CI/CD pipelines.   networking), ConfigMaps (non-
+Explain the process of containerizing the Flask   sensitive config), Secrets (sensitive
+ML model and advantages over bare-metal   data, base64 encoded).
+deployment.   Namespace: Logical cluster isolation
+How can Kubernetes manage, scale, and   for multi-team environments.
+monitor this containerized ML model? Mention
+Deployments, Services, and HPA.
+Outline a CI/CD pipeline from code commit to
+Kubernetes deployment, including testing,
+image build, and rollout stages.
+b   A food delivery startup is designing a new   HLD: System-level view —   10
+CO5   mobile application similar to Zomato. The   architecture, components, APIs, data
+BL-2,3,5   team must prepare HLD and LLD before coding   flow, tech stack.
+begins.   LLD: Code-level view — class
+Explain the differences between High-Level   diagrams, DB schema, method
+Design (HLD) and Low-Level Design (LLD) in   signatures, algorithms.
+software architecture.   Both required: HLD aligns
+For the food delivery app, describe what   stakeholders; LLD guides developers.
+aspects would be covered under HLD (system   Skipping HLD causes rework;
+components, APIs, databases) and what under   skipping LLD causes inconsistent
+LLD (class design, method signatures, database   implementations.
+schema).
+Why is it essential to complete both HLD and
+LLD before starting development?
+********** 4 **********
+````
+
 ## 2025-26 · Final-Exam · Sem 1 · Answer key · paper d011a7c948a4
 
 - Departments: Artificial Intelligence
