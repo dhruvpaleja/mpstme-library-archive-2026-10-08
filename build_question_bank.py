@@ -1176,8 +1176,9 @@ def write_bank_readme(stats, summary, dept_subjects):
         f'- {stats["raw_zip_papers"]:,} of these files exist only inside the portal\'s original ZIP downloads '
         '(`00_Original_Downloads/`), never extracted into `02_Question_Papers/`; they are included, with a path of '
         'the form `<ZIP> :: <file inside it>` and a `source` ending in "(ZIP download only)".',
-        f'- Files with no readable text: {stats["papers_without_text"]:,} (spreadsheet data sets, and PDFs the portal '
-        'serves as unreadable bytes or as an error message; a fresh download from the portal gave the same bytes). '
+        f'- Files with no readable text: {stats["papers_without_text"]:,} (spreadsheet data sets, PDFs the portal '
+        'serves as unreadable bytes (the archive\'s own re-download got the same bytes), and PDFs that hold only a '
+        'portal error message). '
         'Their `papers.jsonl` record says which in `text_status`.'
         + (f' Not yet extracted: {stats["papers_not_extracted"]:,}.' if stats['papers_not_extracted'] else ''), '',
         '## questions.jsonl fields', '',

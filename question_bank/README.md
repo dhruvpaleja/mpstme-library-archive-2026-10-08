@@ -19,7 +19,7 @@ Every past question paper in the archive as text, organised by subject and depar
 - 255,005 questions and sub-questions extracted; 186,801 with marks. 15,957 papers (93%) split into 3 or more questions; the rest are kept as full text in papers.md.
 - 134 question papers have low OCR quality (mostly handwritten 2004-2010 papers or poor scans); they and their questions are marked `text_quality: low`.
 - 836 of these files exist only inside the portal's original ZIP downloads (`00_Original_Downloads/`), never extracted into `02_Question_Papers/`; they are included, with a path of the form `<ZIP> :: <file inside it>` and a `source` ending in "(ZIP download only)".
-- Files with no readable text: 20 (spreadsheet data sets, and PDFs the portal serves as unreadable bytes or as an error message; a fresh download from the portal gave the same bytes). Their `papers.jsonl` record says which in `text_status`.
+- Files with no readable text: 20 (spreadsheet data sets, PDFs the portal serves as unreadable bytes (the archive's own re-download got the same bytes), and PDFs that hold only a portal error message). Their `papers.jsonl` record says which in `text_status`.
 
 ## questions.jsonl fields
 
