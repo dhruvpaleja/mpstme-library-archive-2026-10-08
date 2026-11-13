@@ -14,11 +14,11 @@ Subjects grouped by the department (branch) whose programmes set the papers. A s
 | [Commerce](Commerce/README.md) | 82 | 378 | 1472 |
 | [Common (all branches)](Common%20%28all%20branches%29/README.md) | 323 | 3231 | 45851 |
 | [Computer Applications (MCA)](Computer%20Applications%20%28MCA%29/README.md) | 72 | 778 | 10445 |
-| [Computer Engineering](Computer%20Engineering/README.md) | 284 | 2870 | 35038 |
+| [Computer Engineering](Computer%20Engineering/README.md) | 284 | 2870 | 35037 |
 | [Computer Science](Computer%20Science/README.md) | 69 | 276 | 2823 |
 | [Computer Science and Business Systems](Computer%20Science%20and%20Business%20Systems/README.md) | 86 | 474 | 5307 |
 | [Cyber Security](Cyber%20Security/README.md) | 87 | 456 | 4944 |
-| [Data Science](Data%20Science/README.md) | 252 | 1823 | 19405 |
+| [Data Science](Data%20Science/README.md) | 252 | 1823 | 19404 |
 | [Electrical](Electrical/README.md) | 39 | 138 | 2032 |
 | [Electronics](Electronics/README.md) | 36 | 154 | 2579 |
 | [Electronics and Telecommunication](Electronics%20and%20Telecommunication/README.md) | 235 | 2015 | 26857 |

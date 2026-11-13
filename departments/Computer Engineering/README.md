@@ -1,6 +1,6 @@
 # Computer Engineering
 
-284 subjects, 2870 papers, 35038 extracted questions. Each subject folder holds `papers.md` (full text of every paper) and `questions.jsonl` (one record per question with marks, year and exam). Records carry a `departments` field: keep those containing "Computer Engineering" to see only this branch's papers.
+284 subjects, 2870 papers, 35037 extracted questions. Each subject folder holds `papers.md` (full text of every paper) and `questions.jsonl` (one record per question with marks, year and exam). Records carry a `departments` field: keep those containing "Computer Engineering" to see only this branch's papers.
 
 | Subject | Papers for this branch | Questions | Years | Full text | Questions |
 | --- | ---: | ---: | --- | --- | --- |
@@ -42,7 +42,7 @@
 | [Business Statistics](../../subjects/Business%20Statistics/README.md) | 4 | 32 | 2018-19 to 2025-26 | [papers.md](../../subjects/Business%20Statistics/papers.md) | [questions.jsonl](../../subjects/Business%20Statistics/questions.jsonl) |
 | [Buyer Behaviour](../../subjects/Buyer%20Behaviour/README.md) | 6 | 27 | 2015-16 to 2025-26 | [papers.md](../../subjects/Buyer%20Behaviour/papers.md) | [questions.jsonl](../../subjects/Buyer%20Behaviour/questions.jsonl) |
 | [C Programming](../../subjects/C%20Programming/README.md) | 3 | 19 | 2007-08 to 2024-25 | [papers.md](../../subjects/C%20Programming/papers.md) | [questions.jsonl](../../subjects/C%20Programming/questions.jsonl) |
-| [Calculus](../../subjects/Calculus/README.md) | 23 | 170 | 2022-23 to 2025-26 | [papers.md](../../subjects/Calculus/papers.md) | [questions.jsonl](../../subjects/Calculus/questions.jsonl) |
+| [Calculus](../../subjects/Calculus/README.md) | 23 | 169 | 2022-23 to 2025-26 | [papers.md](../../subjects/Calculus/papers.md) | [questions.jsonl](../../subjects/Calculus/questions.jsonl) |
 | [Chemistry II](../../subjects/Chemistry%20II/README.md) | 6 | 130 | 2014-15 to 2025-26 | [papers.md](../../subjects/Chemistry%20II/papers.md) | [questions.jsonl](../../subjects/Chemistry%20II/questions.jsonl) |
 | [Cloud Computing](../../subjects/Cloud%20Computing/README.md) | 16 | 134 | 2013-14 to 2025-26 | [papers.md](../../subjects/Cloud%20Computing/papers.md) | [questions.jsonl](../../subjects/Cloud%20Computing/questions.jsonl) |
 | [Cloud Computing and IoT](../../subjects/Cloud%20Computing%20and%20IoT/README.md) | 2 | 16 | 2021-22 | [papers.md](../../subjects/Cloud%20Computing%20and%20IoT/papers.md) | [questions.jsonl](../../subjects/Cloud%20Computing%20and%20IoT/questions.jsonl) |

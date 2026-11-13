@@ -26448,13 +26448,8 @@ el
 - Departments: Data Science
 - Programmes: BTech CSE DS 7057
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_CSE_DS_7057/Calculus/ANS_Calculus(702BS0C001)_2024-2025.pdf`
-- Text: text (1 page)
-
-````text
-{"message":"Difference in Exam time/date across campuses. To generate the synoptic paper the header
-data should be proper"}
-Page   of
-````
+- Text: none (the portal served an error message, not the paper: "Difference in Exam time/date across campuses. To generate the synoptic paper the header
+data should be proper")
 
 ## 2024-25 · Re-Exam · Sem 1 · Answer key · paper bd40c0591b17
 

@@ -1,6 +1,6 @@
 # Data Science
 
-252 subjects, 1823 papers, 19405 extracted questions. Each subject folder holds `papers.md` (full text of every paper) and `questions.jsonl` (one record per question with marks, year and exam). Records carry a `departments` field: keep those containing "Data Science" to see only this branch's papers.
+252 subjects, 1823 papers, 19404 extracted questions. Each subject folder holds `papers.md` (full text of every paper) and `questions.jsonl` (one record per question with marks, year and exam). Records carry a `departments` field: keep those containing "Data Science" to see only this branch's papers.
 
 | Subject | Papers for this branch | Questions | Years | Full text | Questions |
 | --- | ---: | ---: | --- | --- | --- |
@@ -53,7 +53,7 @@
 | [Business Statistics](../../subjects/Business%20Statistics/README.md) | 4 | 32 | 2018-19 to 2025-26 | [papers.md](../../subjects/Business%20Statistics/papers.md) | [questions.jsonl](../../subjects/Business%20Statistics/questions.jsonl) |
 | [Buyer Behaviour](../../subjects/Buyer%20Behaviour/README.md) | 2 | 10 | 2015-16 to 2025-26 | [papers.md](../../subjects/Buyer%20Behaviour/papers.md) | [questions.jsonl](../../subjects/Buyer%20Behaviour/questions.jsonl) |
 | [C Programming](../../subjects/C%20Programming/README.md) | 3 | 19 | 2007-08 to 2024-25 | [papers.md](../../subjects/C%20Programming/papers.md) | [questions.jsonl](../../subjects/C%20Programming/questions.jsonl) |
-| [Calculus](../../subjects/Calculus/README.md) | 28 | 205 | 2022-23 to 2025-26 | [papers.md](../../subjects/Calculus/papers.md) | [questions.jsonl](../../subjects/Calculus/questions.jsonl) |
+| [Calculus](../../subjects/Calculus/README.md) | 28 | 204 | 2022-23 to 2025-26 | [papers.md](../../subjects/Calculus/papers.md) | [questions.jsonl](../../subjects/Calculus/questions.jsonl) |
 | [Chemistry II](../../subjects/Chemistry%20II/README.md) | 9 | 215 | 2014-15 to 2025-26 | [papers.md](../../subjects/Chemistry%20II/papers.md) | [questions.jsonl](../../subjects/Chemistry%20II/questions.jsonl) |
 | [Cloud Computing](../../subjects/Cloud%20Computing/README.md) | 12 | 141 | 2013-14 to 2025-26 | [papers.md](../../subjects/Cloud%20Computing/papers.md) | [questions.jsonl](../../subjects/Cloud%20Computing/questions.jsonl) |
 | [Communication Skills I](../../subjects/Communication%20Skills%20I/README.md) | 4 | 42 | 2024-25 to 2025-26 | [papers.md](../../subjects/Communication%20Skills%20I/papers.md) | [questions.jsonl](../../subjects/Communication%20Skills%20I/questions.jsonl) |

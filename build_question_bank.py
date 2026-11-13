@@ -443,6 +443,7 @@ MARKS_END = re.compile(
     r'|\b(\d{1,2})\s*(?:m|marks)\b\.?'                                        # 5M  10 marks
     r'|(?<=[.?):\]’\'"]\s)(\d{1,2}(?:\.5)?)'                                  # "... rank. 6" on scanned papers
     r'|(?<=\s)([0O][1-9S]))\s*$', re.I)                                       # zero-padded "04", OCR "OS" = 05
+PORTAL_ERROR = re.compile(r'^\s*\{\s*"message"\s*:\s*"([^"]{0,300})"')   # a JSON error rendered as the PDF
 SEPARATOR = re.compile(r'^\s*(OR|\(?OR\)?)\s*$', re.I)
 # A numbered line that is one of the paper's instructions, not a question.
 INSTRUCTION_TEXT = re.compile(
@@ -995,6 +996,10 @@ def build_subject(subject, papers, folder, texts, stats):
         target = answer_blocks if first['kind'] == 'Answer key' else paper_blocks
         record = texts.get(sha)
         docs = list(documents(record)) if record else []
+        served = PORTAL_ERROR.search(page_text(docs[0][1])) if len(docs) == 1 else None
+        if served and len(page_text(docs[0][1])) < 400:
+            docs, record = [], dict(record, note=f'the portal served an error message, not the paper: '
+                                                 f'"{served.group(1)}"')
         if not docs:
             status = 'not extracted yet' if record is None else (record.get('error') or record.get('note')
                                                                  or 'no readable pages')
@@ -1171,7 +1176,9 @@ def write_bank_readme(stats, summary, dept_subjects):
         f'- {stats["raw_zip_papers"]:,} of these files exist only inside the portal\'s original ZIP downloads '
         '(`00_Original_Downloads/`), never extracted into `02_Question_Papers/`; they are included, with a path of '
         'the form `<ZIP> :: <file inside it>` and a `source` ending in "(ZIP download only)".',
-        f'- Files with no readable text (corrupt PDFs, spreadsheet data sets): {stats["papers_without_text"]:,}.'
+        f'- Files with no readable text: {stats["papers_without_text"]:,} (spreadsheet data sets, and PDFs the portal '
+        'serves as unreadable bytes or as an error message; a fresh download from the portal gave the same bytes). '
+        'Their `papers.jsonl` record says which in `text_status`.'
         + (f' Not yet extracted: {stats["papers_not_extracted"]:,}.' if stats['papers_not_extracted'] else ''), '',
         '## questions.jsonl fields', '',
         '| Field | Meaning |', '| --- | --- |',
