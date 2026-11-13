@@ -1,12 +1,12 @@
 # AI and Machine Learning
 
-49 subjects, 205 papers, 2260 extracted questions. Each subject folder holds `papers.md` (full text of every paper) and `questions.jsonl` (one record per question with marks, year and exam). Records carry a `departments` field: keep those containing "AI and Machine Learning" to see only this branch's papers.
+49 subjects, 205 papers, 2263 extracted questions. Each subject folder holds `papers.md` (full text of every paper) and `questions.jsonl` (one record per question with marks, year and exam). Records carry a `departments` field: keep those containing "AI and Machine Learning" to see only this branch's papers.
 
 | Subject | Papers for this branch | Questions | Years | Full text | Questions |
 | --- | ---: | ---: | --- | --- | --- |
 | [3D Printing](../../subjects/3D%20Printing/README.md) | 2 | 18 | 2022-23 to 2025-26 | [papers.md](../../subjects/3D%20Printing/papers.md) | [questions.jsonl](../../subjects/3D%20Printing/questions.jsonl) |
 | [Advanced Database Management Systems](../../subjects/Advanced%20Database%20Management%20Systems/README.md) | 2 | 16 | 2013-14 to 2025-26 | [papers.md](../../subjects/Advanced%20Database%20Management%20Systems/papers.md) | [questions.jsonl](../../subjects/Advanced%20Database%20Management%20Systems/questions.jsonl) |
-| [Advanced Topics in Machine Learning](../../subjects/Advanced%20Topics%20in%20Machine%20Learning/README.md) | 4 | 124 | 2023-24 to 2025-26 | [papers.md](../../subjects/Advanced%20Topics%20in%20Machine%20Learning/papers.md) | [questions.jsonl](../../subjects/Advanced%20Topics%20in%20Machine%20Learning/questions.jsonl) |
+| [Advanced Topics in Machine Learning](../../subjects/Advanced%20Topics%20in%20Machine%20Learning/README.md) | 4 | 127 | 2023-24 to 2025-26 | [papers.md](../../subjects/Advanced%20Topics%20in%20Machine%20Learning/papers.md) | [questions.jsonl](../../subjects/Advanced%20Topics%20in%20Machine%20Learning/questions.jsonl) |
 | [Advertising and Public Relations](../../subjects/Advertising%20and%20Public%20Relations/README.md) | 4 | 38 | 2022-23 to 2025-26 | [papers.md](../../subjects/Advertising%20and%20Public%20Relations/papers.md) | [questions.jsonl](../../subjects/Advertising%20and%20Public%20Relations/questions.jsonl) |
 | [Agile Product Development with DevOps](../../subjects/Agile%20Product%20Development%20with%20DevOps/README.md) | 2 | 20 | 2024-25 to 2025-26 | [papers.md](../../subjects/Agile%20Product%20Development%20with%20DevOps/papers.md) | [questions.jsonl](../../subjects/Agile%20Product%20Development%20with%20DevOps/questions.jsonl) |
 | [Applied Time Series Analysis](../../subjects/Applied%20Time%20Series%20Analysis/README.md) | 2 | 17 | 2022-23 to 2025-26 | [papers.md](../../subjects/Applied%20Time%20Series%20Analysis/papers.md) | [questions.jsonl](../../subjects/Applied%20Time%20Series%20Analysis/questions.jsonl) |

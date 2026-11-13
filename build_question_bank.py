@@ -397,12 +397,14 @@ TAGS = [
     ('bl', re.compile(r'\bB\s?L\s?[-–.:]?\s?(\d)\b[\s;,:]*')),
     ('so', re.compile(r'\b[SP]\s?[O0]\s?[-–.:]?\s?([\dlI](?:\s*[,&]\s*\d)*)\b[\s;,:]*')),
 ]
-QUESTION_START = re.compile(       # OCR reads "Q1" as "Ql"/"QI" and "Q5" as "QS"
-    r'^(?:Q(?:ue(?:stion|s)?)?\s*[.\-–:]?\s*(?:No\.?\s*[.\-–:]?\s*)?|Q\s*)(\d{1,2}|[lIS](?=[\s.):]|$)|(?:I{2,3}|IV|VI{0,3}|IX|XI{0,2}|V)(?=[\s.):]|$))'
+QUESTION_START = re.compile(       # "Q1", "Que.1", "Qu.1", "Q.No.1", "Q.N.1"; OCR reads "Q1" as "Ql"/"QI", "Q5" as "QS"
+    r'^(?:Q(?:u(?:e(?:stion|s)?)?)?\s*[.\-–:]?\s*(?:No?\.?\s*[.\-–:]?\s*)?|Q\s*)(\d{1,2}|(?<![A-PR-Z])[lIS](?=[\s.):]|$)|(?:I{2,3}|IV|VI{0,3}|IX|XI{0,2}|V)(?=[\s.):]|$))'
     r'\s*[.):\-]?\s*(.*)$', re.I)
-NUMBER_START = re.compile(r'^(\d{1,2})(?:\s*[.)]\s+|\s+(?=[A-Z(\[]))(\S.*)$')   # "1. Explain", "2) ...", "3 (a) ..."
+NUMBER_START = re.compile(   # "1. Explain", "2) ...", "3 (a) ...", "4   a) What is ..." (number column, then part a)
+    r'^(\d{1,2})(?:\s*[.)]\s+|\s+(?=[A-Z(\[]|a[).]\s))(\S.*)$')
 SUBQUESTION_START = re.compile(r'^(\d{1,2})\s*\)\s*(.*)$')          # "1)" inside "Q2 Attempt any 4"
-QPART_START = re.compile(r'^(?:Q\.?\s*)?(\d{1,2})\.?\(?([a-hA-H])\)?[\s._):]+(.*)$')   # "1.a", "1b", "2(a)", "Q3a"
+QPART_START = re.compile(   # "1.a", "1b", "2(a)", "Q3a", "Qu.2a:"
+    r'^(?:Q(?:u(?:e(?:stion|s)?)?)?\.?\s*(?:No?\.?\s*)?)?(\d{1,2})\.?\(?([a-hA-H])\)?[\s._):]+(.*)$')
 ROMAN_QUESTION = re.compile(r'^(I{1,3}|IV|VI{0,3}|IX|X)\s*[.)]\s+(\S.*)$')   # upper-case "II. Attempt any four"
 ROMAN_VALUE_Q = {'I': 1, 'II': 2, 'III': 3, 'IV': 4, 'V': 5, 'VI': 6, 'VII': 7, 'VIII': 8, 'IX': 9, 'X': 10}
 PART_START = re.compile(   # groups: 1 "(a)"  2 "a." "b)" "B -" "b__|"  3 "c   text" (table cell)  4 "A Write"  5 rest

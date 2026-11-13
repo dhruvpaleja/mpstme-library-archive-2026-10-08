@@ -16,7 +16,7 @@ Every past question paper in the archive as text, organised by subject and depar
 
 - 1,208 subjects in 29 departments.
 - 17,181 question papers and 3,368 answer keys read: 40,885 pages from the PDF text layer and 40,345 scanned pages by OCR.
-- 253,403 questions and sub-questions extracted; 185,520 with marks. 15,788 papers (92%) split into 3 or more questions; the rest are kept as full text in papers.md.
+- 255,007 questions and sub-questions extracted; 186,801 with marks. 15,957 papers (93%) split into 3 or more questions; the rest are kept as full text in papers.md.
 - 134 question papers have low OCR quality (mostly handwritten 2004-2010 papers or poor scans); they and their questions are marked `text_quality: low`.
 - 836 of these files exist only inside the portal's original ZIP downloads (`00_Original_Downloads/`), never extracted into `02_Question_Papers/`; they are included, with a path of the form `<ZIP> :: <file inside it>` and a `source` ending in "(ZIP download only)".
 - Files with no readable text (corrupt PDFs, spreadsheet data sets): 18.
