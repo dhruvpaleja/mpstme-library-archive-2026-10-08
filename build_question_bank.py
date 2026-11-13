@@ -50,6 +50,9 @@ XLSX_FULL_ROWS = 200             # worksheets up to this many rows are given in 
 XLSX_FULL_CHARS = 20000          # ... and this much text
 XLSX_PREVIEW_ROWS = 25           # larger ones (data sets) give up to this many rows (and XLSX_FULL_CHARS):
                                  # the column headings and sample values
+IMAGE_REGION_SHARE = 0.06        # a picture covering this much of a text-layer page is OCR'd ...
+IMAGE_TEXT_TOKENS = 15           # ... and its text kept when it has this many words/numbers
+IMAGE_TEXT_CONFIDENCE = 60       # at this mean confidence (diagrams and photos read far below both)
 TURNED_TEXT_CHARS = 200         # turned text of at least this many characters (and TURNED_TEXT_SHARE of the
 TURNED_TEXT_SHARE = 0.3          # page) is laid out in its own direction; less stays inline (vertical headings)
 MIN_PAGE_IMAGE = 400            # pixels: smaller images in a truncated PDF are logos, not page scans
@@ -350,7 +353,8 @@ def document_pages(data, fmt, repairs=None, recover=True):
         for number, page in enumerate(doc, 1):
             text = page.get_text('text') if fmt == 'pdf' else ''
             if fmt == 'pdf' and not garbled(text):
-                pages.append({'page': number, 'method': 'text', 'text': tidy(layout_text(page))})
+                pages.append({'page': number, 'method': 'text', 'text': tidy(layout_text(page)),
+                              **image_text(page, pymupdf)})
                 continue
             pages.append({'page': number, **ocr_page(page, pymupdf)})
     return pages
@@ -444,6 +448,74 @@ def xlsx_text(data):
     return pages
 
 
+def image_regions(page, pymupdf):
+    """Areas of a text-layer page covered by a large picture that the text layer says nothing about: a pasted
+    scan or screenshot of questions or a worked solution. (A searchable scan has its OCR text over the image,
+    so it is not listed.)"""
+    area = abs(page.rect) or 1
+    words = [pymupdf.Rect(w[:4]) for w in page.get_text('words', flags=pymupdf.TEXTFLAGS_WORDS)]
+    regions = []
+    for info in page.get_image_info():
+        box = pymupdf.Rect(info['bbox']) & page.rect
+        if box.is_empty or box.width < 100 or box.height < 60 or abs(box) < IMAGE_REGION_SHARE * area:
+            continue
+        if sum(1 for w in words if w.intersects(box)) >= 8:
+            continue
+        if not any(abs(box & other) > 0.8 * abs(box) for other in regions):
+            regions.append(box)
+    return sorted(regions, key=lambda r: (round(r.y0), r.x0))
+
+
+def image_text(page, pymupdf):
+    """{'images_text': ..., 'images_ocr_confidence': ...} for the large pictures on a text-layer page whose OCR
+    reads as text (a diagram or photo reads as a few low-confidence fragments and is left out); else {}."""
+    pieces = []
+    for box in image_regions(page, pymupdf):
+        dpi = max(72, min(OCR_DPI, int(MAX_OCR_PIXELS * 72 / max(box.width, box.height))))
+        text, confidence = ocr_png(page.get_pixmap(clip=box, dpi=dpi, colorspace=pymupdf.csGRAY).tobytes('png'))
+        if ocr_tokens(text) >= IMAGE_TEXT_TOKENS and (confidence or 0) >= IMAGE_TEXT_CONFIDENCE:
+            pieces.append((tidy(text), confidence))
+    if not pieces:
+        return {}
+    return {'images_text': '\n\n'.join(t for t, _ in pieces),
+            'images_ocr_confidence': round(math.fsum(c for _, c in pieces) / len(pieces), 1)}
+
+
+def docx_images(data):
+    """Pictures in a Word file, in document order, OCR'd as extra pages when they read as text: some papers
+    are scans pasted into Word, and answer keys often paste worked solutions as images."""
+    import pymupdf
+    pages = []
+    with zipfile.ZipFile(io.BytesIO(data)) as book:
+        names = set(book.namelist())
+        if 'word/_rels/document.xml.rels' not in names:
+            return pages
+        rels = dict(re.findall(r'Id="([^"]+)"[^>]*?Target="([^"]+)"',
+                               book.read('word/_rels/document.xml.rels').decode('utf-8', 'replace')))
+        order = re.findall(r'r:(?:embed|id)="([^"]+)"', book.read('word/document.xml').decode('utf-8', 'replace'))
+        seen = []
+        for rid in order:
+            target = rels.get(rid, '')
+            path = 'word/' + target.lstrip('/').removeprefix('word/') if target else ''
+            if path in names and path not in seen and re.search(r'(?i)\.(png|jpe?g|gif|bmp|tiff?)$', path):
+                seen.append(path)
+        for path in seen:
+            blob = book.read(path)
+            try:
+                with pymupdf.open(stream=blob, filetype=path.rsplit('.', 1)[-1].lower()) as image:
+                    page = image[0]
+                    pixels = pymupdf.Pixmap(blob)
+                    if min(pixels.width, pixels.height) < 100 or pixels.width * pixels.height < 60000:
+                        continue                                    # icons, logos, bullets, rules
+                    reading = ocr_page(page, pymupdf)
+            except (RuntimeError, ValueError):
+                continue
+            if ocr_tokens(reading['text']) >= IMAGE_TEXT_TOKENS and \
+                    (reading['ocr_confidence'] or 0) >= IMAGE_TEXT_CONFIDENCE:
+                pages.append({'page': len(pages) + 2, **reading, 'image': PurePosixPath(path).name})
+    return pages
+
+
 def docx_text(data):
     xml = zipfile.ZipFile(io.BytesIO(data)).read('word/document.xml').decode('utf-8', errors='replace')
     xml = re.sub(r'</w:tc>', ' | ', xml)
@@ -477,7 +549,7 @@ def read_document(data, name='', depth=0):
             if repairs:
                 record['damage'] = '; '.join(repairs)
         elif fmt == 'docx':
-            record['pages'] = docx_text(data)
+            record['pages'] = docx_text(data) + docx_images(data)
         elif fmt == 'zip' and depth < 2:
             members = []
             with zipfile.ZipFile(io.BytesIO(data)) as archive:
@@ -1114,15 +1186,23 @@ def documents(record):
             yield (member['name'] + (' / ' + label if label else '')), pages
 
 
+def page_body(page):
+    """A page's text, followed by the OCR of pictures on it (text-layer pages with pasted scans)."""
+    if page.get('images_text'):
+        return f"{page['text']}\n\n[Text in pictures on this page, read by OCR]\n{page['images_text']}"
+    return page['text']
+
+
 def page_text(pages):
-    return '\n'.join((f'--- page {p["page"]} ---\n' if i else '') + p['text'] for i, p in enumerate(pages))
+    return '\n'.join((f'--- page {p["page"]} ---\n' if i else '') + page_body(p) for i, p in enumerate(pages))
 
 
 def extraction_summary(pages):
     methods = Counter(p['method'] for p in pages)
     confidences = [p['ocr_confidence'] for p in pages if p.get('ocr_confidence') is not None]
-    method = 'ocr' if methods['ocr'] and not methods['text'] else 'text' if methods['text'] and not methods['ocr'] \
-        else 'mixed' if methods['ocr'] else next(iter(methods), 'none')
+    exact = methods['text'] + methods['docx'] + methods['xlsx']
+    method = ('none' if not methods else next(iter(methods)) if len(methods) == 1
+              else 'mixed' if methods['ocr'] and exact else 'text')
     return method, (round(math.fsum(confidences) / len(confidences), 1) if confidences else None)
 
 
@@ -1214,12 +1294,14 @@ def drop_ocr_noise(texts, known):
     for record in texts.values():
         for _, pages in documents(record):
             for page in pages:
-                if page['method'] == 'ocr':
-                    lines = page['text'].split('\n')
+                for field in ('text', 'images_text') if page['method'] == 'ocr' else ('images_text',):
+                    if not page.get(field):
+                        continue
+                    lines = page[field].split('\n')
                     kept = [line for line in lines if not ocr_noise(line, known)]
                     if len(kept) < len(lines):
-                        page['omitted_lines'] = len(lines) - len(kept)
-                        page['text'] = '\n'.join(kept)
+                        page['omitted_lines'] = page.get('omitted_lines', 0) + len(lines) - len(kept)
+                        page[field] = '\n'.join(kept)
 
 
 def build_subject(subject, papers, folder, texts, stats):
@@ -1303,6 +1385,7 @@ def build_subject(subject, papers, folder, texts, stats):
             if record.get('damage'):
                 doc['damage'] = record['damage']
                 lines.append(f"- Damaged file: {record['damage']}")
+            stats['pages_with_picture_text'] += sum(1 for page in pages if page.get('images_text') or page.get('image'))
             turned = sum(1 for page in pages if page.get('rotated'))
             if turned:
                 doc['pages_turned_upright'] = turned
@@ -1450,6 +1533,8 @@ def write_bank_readme(stats, summary, dept_subjects):
         'in papers.md.',
         f'- {stats["low_quality_papers"]:,} question papers have low OCR quality (mostly handwritten 2004-2010 papers '
         'or poor scans); they and their questions are marked `text_quality: low`.',
+        f'- {stats["pages_with_picture_text"]:,} pages carry text from pictures (OCR of pasted scans, worked solutions '
+        'and tables on text-layer pages, and of pictures in Word files).',
         f'- {stats["pages_turned_upright"]:,} scanned pages were sideways or upside down (landscape tables, phone '
         'photos); Tesseract\'s orientation detection found them and they were read turned upright '
         '(`pages_turned_upright` in `papers.jsonl`). Damaged PDFs (truncated downloads, a missing page list) are read as far as they go and say so in `damage`.',
@@ -1479,7 +1564,9 @@ def write_bank_readme(stats, summary, dept_subjects):
         '| `extraction` | `text` (exact, from the PDF) or `ocr` (scanned paper read by Tesseract) |',
         '| `text_quality` | `low` when the scan read poorly (handwritten or faint papers); treat the text with care |', '',
         '## Accuracy', '',
-        'Text-layer papers (most 2024-25 and 2025-26 papers) are extracted exactly. Older papers are scans read by OCR: '
+        'Text-layer papers (most 2024-25 and 2025-26 papers) are extracted exactly; pictures pasted into them (worked '
+        'solutions, tables, scanned questions; and pictures in Word files) are read by OCR and added after the page '
+        'text under "[Text in pictures on this page, read by OCR]". Older papers are scans read by OCR: '
         'ordinary text is reliable, but equations, symbols and diagrams are often garbled, and diagrams are not '
         'captured. Splitting into questions is automatic; when a layout defeats it, the paper still appears in full '
         'in papers.md. Treat question counts and marks as a strong guide rather than an exact record.', '',

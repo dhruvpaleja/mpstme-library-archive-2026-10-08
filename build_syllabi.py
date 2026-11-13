@@ -213,7 +213,7 @@ def split_courses(pages):
     """[(name, code, semester, first_page, last_page, text)] for each course header found in the pages."""
     lines = []                                                          # (page, line)
     for page in pages:
-        lines += [(page['page'], line) for line in page['text'].split('\n')]
+        lines += [(page['page'], line) for line in qb.page_body(page).split('\n')]
     texts = [line for _, line in lines]
     starts = []
     for index, (_, line) in enumerate(lines):
