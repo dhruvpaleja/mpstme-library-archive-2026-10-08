@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_EXTC_7006/Fiber Optic Communication and Networks/ANS_Fiber Optic Communication and Networks(702EX0C025)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 12 May 2026
 - Text: text (3 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -89,6 +90,42 @@ Q5
 CO-5; SO-   [20]
 1; BL-3
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Solution: (a) Optical power budget:
+Mean power launched into the fiber cable from
+the LED transmitter -10dBm
+Mean optical power required at the p-i-n photodiode
+receiver for SNR of $0 dB and a modulation index of 0.5 25 dBm
+
+Total system margin 15 dB
+Fiber cable loss (2 x 3.5) 7.0 dB
+Splice losses (2 x 0.7) 1.4dB
+Connector loss at the receiver 1.6 dB
+Safety margin 4.0 dB
+Total system loss 14.0 dB
+
+Excess power margin 1.0dB
+
+Hence the system is viable, providing a small excess power margin. }
+(b) In order to calculate any possible increase in link length when using the
+injection laser source we refer to Eq. (11.53), where
+
+Pi = Po = (atte +.03)L + ocr + Ma dB
+
+Therefore, ‘
+OdBm —(—25 dBm) =(3.5+0.7)L+1.6+7.0
+
+and :
+4.2L = 25 - 8.6 = 16.4 dB
+giving
+16.4
+=—~—=3.9km . od
+fy 4.2 ‘ :
+
+Hence the use of the injection laser gives a possible increase in the link length of
+1.9 km or almost a factor of 2. It must be noted that in this case the excess power
+
 --- page 3 ---
 Q6   a   Diagram- Paths taken by axial ray and an extreme meridional ray in a
 CO-2; SO-   perfect multimode step index fibers------3 Marks   [10]
@@ -107,6 +144,26 @@ CO-3; SO-
 [10]
 1; BL-3
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+From system rise time considerations, estimate the maximum bit rate that may be
+achieved on the link when using an NRZ format. —
+Solution: The total system rise time is given by Eq. (11.43) as:
+
+| (= 173+ 73+ T2475)
+7 = AB? + 6X5)" + BX 1)°+67!
+=46.2ns
+
+Hence the maximum bit rate for the link using an NRZ format is given by Eq.
+(11:51) where:
+
+0.7 0.7 esl
+== = 15,2 Mbits
+Br (max) = 62x10
+
+The rise time calculations indicate that this will support a maximum bit rate of
+15,2 Mbits~! which for an NRZ format is equivalent to a 3 dB optical bandwidt},
+of 7.6 MHz (i.e. the NRZ format has two bit intervals per wavelength).
 ````
 
 ## 2025-26 · Re-Exam · Sem 6 · Answer key · paper 1411fad88b98

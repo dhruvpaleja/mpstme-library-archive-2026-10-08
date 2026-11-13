@@ -5253,6 +5253,27 @@ while (fscanf(fp, "%s", temp) != EOF) {
 if (strcmp(temp, word) == 0)
 count++;
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Yes
+
+Yes—>/
+
+Yes—>/
+
+Yes)
+
+Print "grade = 10"
+
+Print "grade = 9"
+
+Print "grade = 8"
+
+Print “grade = 7"
+
+Print "grade = 6"
+
+Print "grade = 5"
 --- page 6 ---
 }
 if (count == 0)
@@ -5767,6 +5788,27 @@ while (fscanf(fp, "%s", temp) != EOF) {
 if (strcmp(temp, word) == 0)
 count++;
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Yes
+
+Yes—>/
+
+Yes—>/
+
+Yes)
+
+Print "grade = 10"
+
+Print "grade = 9"
+
+Print "grade = 8"
+
+Print “grade = 7"
+
+Print "grade = 6"
+
+Print "grade = 5"
 --- page 6 ---
 }
 if (count == 0)
@@ -6281,6 +6323,27 @@ while (fscanf(fp, "%s", temp) != EOF) {
 if (strcmp(temp, word) == 0)
 count++;
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Yes
+
+Yes—>/
+
+Yes—>/
+
+Yes)
+
+Print "grade = 10"
+
+Print "grade = 9"
+
+Print "grade = 8"
+
+Print “grade = 7"
+
+Print "grade = 6"
+
+Print "grade = 5"
 --- page 6 ---
 }
 if (count == 0)
@@ -6795,6 +6858,27 @@ while (fscanf(fp, "%s", temp) != EOF) {
 if (strcmp(temp, word) == 0)
 count++;
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Yes
+
+Yes—>/
+
+Yes—>/
+
+Yes)
+
+Print "grade = 10"
+
+Print "grade = 9"
+
+Print "grade = 8"
+
+Print “grade = 7"
+
+Print "grade = 6"
+
+Print "grade = 5"
 --- page 6 ---
 }
 if (count == 0)
@@ -7309,6 +7393,27 @@ while (fscanf(fp, "%s", temp) != EOF) {
 if (strcmp(temp, word) == 0)
 count++;
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Yes
+
+Yes—>/
+
+Yes—>/
+
+Yes)
+
+Print "grade = 10"
+
+Print "grade = 9"
+
+Print "grade = 8"
+
+Print “grade = 7"
+
+Print "grade = 6"
+
+Print "grade = 5"
 --- page 6 ---
 }
 if (count == 0)
@@ -7823,6 +7928,27 @@ while (fscanf(fp, "%s", temp) != EOF) {
 if (strcmp(temp, word) == 0)
 count++;
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Yes
+
+Yes—>/
+
+Yes—>/
+
+Yes)
+
+Print "grade = 10"
+
+Print "grade = 9"
+
+Print "grade = 8"
+
+Print “grade = 7"
+
+Print "grade = 6"
+
+Print "grade = 5"
 --- page 6 ---
 }
 if (count == 0)
@@ -8337,6 +8463,27 @@ while (fscanf(fp, "%s", temp) != EOF) {
 if (strcmp(temp, word) == 0)
 count++;
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Yes
+
+Yes—>/
+
+Yes—>/
+
+Yes)
+
+Print "grade = 10"
+
+Print "grade = 9"
+
+Print "grade = 8"
+
+Print “grade = 7"
+
+Print "grade = 6"
+
+Print "grade = 5"
 --- page 6 ---
 }
 if (count == 0)
@@ -8647,6 +8794,7 @@ return 0;
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_Computer_7002/COMPUTATIONAL THINKING FOR PROBLEM SOLVING/ANS_COMPUTATIONAL THINKING FOR PROBLEM SOLVING(702CO0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Mar 2026
 - Text: text (15 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -9142,6 +9290,36 @@ scanf("%d", &num);
 if (num == 0)
 printf("Number of digits = 1\n");
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Macro Function Inline Function
+
+- Macros starts with # - Inline funetion ts defined with inline
+Example: keyword
+o File Inclusion
+« #include“iostream>
+o Macros as constants
+= #define Pl 3.147
+o Macros with arguments (Macro
+
+Functions}
+« #define max(a,b) a>b?a:b
+- Macros functions are expanded as inline at pre- - Inline functions are expanded at compile
+processing by pre-provessor (before compliler) time by compiler.
+- Speedup the execution of the program - Compiler check the execution time &
+expanded it if required.
+- Example: - Example:
+Sinclude <stdio.h> Macro body Winclude <stdio.h>
+define add(a,b) Ta+bp, ._ inline vaid addfint aint bf
+Macro a Inte “~ intc=a+b;
+Function : function printf(" Add ised "ch;
+int main(}{
+int a=20,b=30; }
+_— — Macre Call int main(}{
+add(a,b}; — call
+printf" Add is%d "yc); }
+
+}
 --- page 13 ---
 else
 printf("Number of digits = %d\n", countDigits(num));
@@ -9464,6 +9642,27 @@ while (fscanf(fp, "%s", temp) != EOF) {
 if (strcmp(temp, word) == 0)
 count++;
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Yes
+
+Yes—>/
+
+Yes—>/
+
+Yes)
+
+Print "grade = 10"
+
+Print "grade = 9"
+
+Print "grade = 8"
+
+Print “grade = 7"
+
+Print "grade = 6"
+
+Print "grade = 5"
 --- page 6 ---
 }
 if (count == 0)
@@ -9978,6 +10177,27 @@ while (fscanf(fp, "%s", temp) != EOF) {
 if (strcmp(temp, word) == 0)
 count++;
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Yes
+
+Yes—>/
+
+Yes—>/
+
+Yes)
+
+Print "grade = 10"
+
+Print "grade = 9"
+
+Print "grade = 8"
+
+Print “grade = 7"
+
+Print "grade = 6"
+
+Print "grade = 5"
 --- page 6 ---
 }
 if (count == 0)
@@ -10492,6 +10712,27 @@ while (fscanf(fp, "%s", temp) != EOF) {
 if (strcmp(temp, word) == 0)
 count++;
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Yes
+
+Yes—>/
+
+Yes—>/
+
+Yes)
+
+Print "grade = 10"
+
+Print "grade = 9"
+
+Print "grade = 8"
+
+Print “grade = 7"
+
+Print "grade = 6"
+
+Print "grade = 5"
 --- page 6 ---
 }
 if (count == 0)
@@ -11002,6 +11243,27 @@ while (fscanf(fp, "%s", temp) != EOF) {
 if (strcmp(temp, word) == 0)
 count++;
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Yes
+
+Yes—>/
+
+Yes—>/
+
+Yes)
+
+Print "grade = 10"
+
+Print "grade = 9"
+
+Print "grade = 8"
+
+Print “grade = 7"
+
+Print "grade = 6"
+
+Print "grade = 5"
 --- page 6 ---
 }
 if (count == 0)
@@ -11516,6 +11778,27 @@ while (fscanf(fp, "%s", temp) != EOF) {
 if (strcmp(temp, word) == 0)
 count++;
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Yes
+
+Yes—>/
+
+Yes—>/
+
+Yes)
+
+Print "grade = 10"
+
+Print "grade = 9"
+
+Print "grade = 8"
+
+Print “grade = 7"
+
+Print "grade = 6"
+
+Print "grade = 5"
 --- page 6 ---
 }
 if (count == 0)
@@ -12030,6 +12313,27 @@ while (fscanf(fp, "%s", temp) != EOF) {
 if (strcmp(temp, word) == 0)
 count++;
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Yes
+
+Yes—>/
+
+Yes—>/
+
+Yes)
+
+Print "grade = 10"
+
+Print "grade = 9"
+
+Print "grade = 8"
+
+Print “grade = 7"
+
+Print "grade = 6"
+
+Print "grade = 5"
 --- page 6 ---
 }
 if (count == 0)
@@ -12544,6 +12848,27 @@ while (fscanf(fp, "%s", temp) != EOF) {
 if (strcmp(temp, word) == 0)
 count++;
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Yes
+
+Yes—>/
+
+Yes—>/
+
+Yes)
+
+Print "grade = 10"
+
+Print "grade = 9"
+
+Print "grade = 8"
+
+Print “grade = 7"
+
+Print "grade = 6"
+
+Print "grade = 5"
 --- page 6 ---
 }
 if (count == 0)
@@ -13058,6 +13383,27 @@ while (fscanf(fp, "%s", temp) != EOF) {
 if (strcmp(temp, word) == 0)
 count++;
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Yes
+
+Yes—>/
+
+Yes—>/
+
+Yes)
+
+Print "grade = 10"
+
+Print "grade = 9"
+
+Print "grade = 8"
+
+Print “grade = 7"
+
+Print "grade = 6"
+
+Print "grade = 5"
 --- page 6 ---
 }
 if (count == 0)
@@ -13572,6 +13918,27 @@ while (fscanf(fp, "%s", temp) != EOF) {
 if (strcmp(temp, word) == 0)
 count++;
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Yes
+
+Yes—>/
+
+Yes—>/
+
+Yes)
+
+Print "grade = 10"
+
+Print "grade = 9"
+
+Print "grade = 8"
+
+Print “grade = 7"
+
+Print "grade = 6"
+
+Print "grade = 5"
 --- page 6 ---
 }
 if (count == 0)
@@ -14086,6 +14453,27 @@ while (fscanf(fp, "%s", temp) != EOF) {
 if (strcmp(temp, word) == 0)
 count++;
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Yes
+
+Yes—>/
+
+Yes—>/
+
+Yes)
+
+Print "grade = 10"
+
+Print "grade = 9"
+
+Print "grade = 8"
+
+Print “grade = 7"
+
+Print "grade = 6"
+
+Print "grade = 5"
 --- page 6 ---
 }
 if (count == 0)

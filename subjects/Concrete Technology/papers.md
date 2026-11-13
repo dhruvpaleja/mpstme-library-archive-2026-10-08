@@ -178,6 +178,44 @@ Figure – 1 of IS 10262 2019: Relationship between Free Water-Cement Ratio and 
 Compressive Strength of Concrete for Cement of Various Expected 28-Days Compressive
 Strengths
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Zz 5O
+
+7 DNS
+2 SN
+
+i // curve 3
+
+8 SK ollave 2
+
+a CURVE 1/7
+
+>——_]
+
+% 20
+
+Oo 10
+
+“No
+
+0.25 0.3 0.45 0.5 0.55 0.6 0.65
+
+WATER CEMENT RATIO
+
+Curve 1 : for expected 28:déys compressive:strength of 33 and < 43 Nimm?.
+
+Curve 2 : for expected 28 days compressive strength of 43 and < 53 N/mm?.
+
+Curve 3 : for expected 28'days compressive strength of 53 N/mm? and above.
+
+NOTES
+
+1 In the absence of data on actual 28 days compressive strength of cement, the curves 1, 2 and 3 may be used for OPC 33, OPC 43 and
+OPC 53, respectively.
+
+2 While using PPC/PSC, the appropriate curve as per the actual strength may be utilized. In the absence of the actual 28 days compressive
+strength data, curve 2 may be utilized.
 ````
 
 ## 2025-26 · Re-Exam · Sem 4 · paper 04b3d9a35cf8
@@ -354,6 +392,44 @@ Figure – 1 of IS 10262 2019: Relationship between Free Water-Cement Ratio and 
 Compressive Strength of Concrete for Cement of Various Expected 28-Days Compressive
 Strengths
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Zz 5O
+
+7 DNS
+2 SN
+
+i // curve 3
+
+8 SK ollave 2
+
+a CURVE 1/7
+
+>——_]
+
+% 20
+
+Oo 10
+
+“No
+
+0.25 0.3 0.45 0.5 0.55 0.6 0.65
+
+WATER CEMENT RATIO
+
+Curve 1 : for expected 28:déys compressive:strength of 33 and < 43 Nimm?.
+
+Curve 2 : for expected 28 days compressive strength of 43 and < 53 N/mm?.
+
+Curve 3 : for expected 28'days compressive strength of 53 N/mm? and above.
+
+NOTES
+
+1 In the absence of data on actual 28 days compressive strength of cement, the curves 1, 2 and 3 may be used for OPC 33, OPC 43 and
+OPC 53, respectively.
+
+2 While using PPC/PSC, the appropriate curve as per the actual strength may be utilized. In the absence of the actual 28 days compressive
+strength data, curve 2 may be utilized.
 ````
 
 ## 2025-26 · Re-Exam · Sem 4 · paper 243ad823eac4
@@ -2420,8 +2496,9 @@ RoR
 - Programmes: B TECH / CIVIL
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY 18-19 FINAL AND RE EXAM 16-17 17-18.pdf`
 - Printed on paper: exam date: 22 April 2019
-- Text: ocr (4 pages), mean OCR confidence 64.2
-- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: ocr (4 pages), mean OCR confidence 85.3
+- 2 pages scanned sideways or upside down, turned upright before OCR
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 “4
@@ -2532,64 +2609,91 @@ v) Ultrasonic Pulse Velocity (UPV) Test
 
 44
 --- page 3 ---
-ew
-‘a p>, ¢ 2¢o/¢S3S3
-a 2 gS B ie
-- i = £ &
-3 E zg ¥e2 |=
-a) , a SBer See | Ba wen
-“ Ft Sr see oS “| oco
-he os Efe s/SSS Ps Ea] BSE 7"™
-Ee |se f/52= £8 $8 | 233
-=e 5s it) ‘| a =
-2m? | eo wehe|#e’ |= le
-235 = tate | SON BYisss
-ow DES ghee SES
-oexzs eho - | oat
-tome gg So Bsmt xf 23 4 >
-ee om esc sein
-seexles seo e/s (|e -\oe°
-eno as eeu & - Ss
-EM 4} Eu aces
-eoeulee pe esl see
-EOE Ss SRE S 2 £ZONU|2235% ;
-BSE s\35 > E | EseRE S/RRS
-Sens as Sain
-Re ROE m 3 Aa Se
-eis iis 23 “
-a =." a7
-‘2 i as S|
-= =
-% :
-cad as S| ces
-—
-: é
-. a Cun
-2
-g aa a
-> 5 é
-s S Zoos Zgee =
-Bm) esti + “i ea E> ge
-Ay) Bas Hl
-& cn £ = Bk ow
-So So» ¥
-E < #8 «
-g<|2 Eme x
-mn teas
-Sai ao: 8
-te nloknalee en Seevees <5 2
-2S|/22Slss 35 222222 g ape
-afc a &»
-g<
-a
-¢ = ae
+Table 1 Assumed Standard Deviation
+(Clauses 3.2.1.2, A-3 and B-3)
 
-ons ~ ‘
-Ax me fet TOS
+Table 2 Maximum Water Content per Cubic
+
+bed ee of Assumed _ Deviation Metre of Concrete for Nominal
+
+in @) a Maximum Size of Aggregate -
+
+) si a} - (Clauses 4.2, A-5 and B-5)
+
+ii) MIS{ :
+
+SI Nominal Maximum Maximum Water
+
+iii) M st “t No. Size of Aggregate Content”
+
+iv) M25 :
+
+mm kg
+M30
+
+” M35 (1) (2) @)
+vii) M 40 ’ _
+viii) M45 5.0 i) 10 208
+
+ix) M 50 ii) 20 186
+
+x) M55 iii) 40 165
+
+ad ;
+—s Table 3 Volume of Coarse Aggregate per Unit
+
+. Table 6 Adjustments to Minimum Cement
+Contents for Aggregates Other Than 20 mm
+Nominal Maximum Size
+
+(Clause 8.2.4.1)
+
+Sl Nominal Maximum Adjustments to Minimum Cement
+No. Aggregate Size Contents in Table 5
+
+mm kg/m?
+ay (2) @
+> to ~ 440
+ii) 20 0
+iii) 40 ~30
+
+
+Volume of Total Aggregate for Different
+Zones of Fine Aggregate
+(Clauses 4.4, A-7 and B-7)
+
+SI Nominal Volume of Coarse Aggregate” per Unit
+
+No. Maximum Volume of Total Aggregate for
+‘ Size of Different Zones of Fine Aggregate
+: Aggregate
+mm ZonelV Zone ll Zonell Zone]
+(1) (2) G) (4) G) (6)
+i) 10 0.50 0.48 0.46 0.44
+ii) 20 | 0.66 0.64 0.62 0.60
+
+iii) 40 0.73 0.73 0.71 0.69
 --- page 4 ---
-Oo
+|
 
-==
+Table 5 Minimum Cement-Content, Maximum Water-Cement Ratio and Minimum Grade of Concrete
+for Different Exposures with Normal Weight Aggregates of 20 mm Nominal Maximum Size
+
+(Clauses 6.1.2, 8.2.4.1 and 9.1.2)
+
+§1 Exposure Plain Concrete Reinforced Concrete
+No. me ent oe Neen, TS,
+Minimum Maximum   ~ Minimum Minimum Maxirum Minimum
+Cement Free Water- Grade of Cement Free Water- Grade of
+Content Cement Ratio Concrete: Content Cement Ratio Concrete
+kg/m* kg/m
+)) {2} (3) (4) 6) (6) (7) (8)
+3 Mild 220 0.60 - 300 0.55 M 20
+iii) Moderate 240 0.60 MIS 300 0.50 M25
+i} Severe 250 0.50 M20 320 0.45 M30
+iv) Very severe 260 ° 0.45 M 20 340 0.45: M35
+
+¥) Extreme 280 0.40 M25 ! 360 0.40: M 40
 ````
 
 ## 2018-19 · Final + Re-Exam · Sem 4 · paper c83ba6338c70
@@ -2598,7 +2702,8 @@ Oo
 - Programmes: B TECH / CIVIL, MBA TECH / CIVIL
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/CIVIL/Sem_04/CONCRETE TECHNOLOGY/CONCRETE TECHNOLOGY FINAL EXAM_18-19_RE EXAM _16-17-18_.pdf` (+1 identical copies)
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 22 April 2019
-- Text: ocr (4 pages), mean OCR confidence 65.3
+- Text: ocr (4 pages), mean OCR confidence 84.6
+- 2 pages scanned sideways or upside down, turned upright before OCR
 
 ````text
 /
@@ -2709,136 +2814,60 @@ v) Ultrasonic Pulse Velocity (UPV) Test
 
 44
 --- page 3 ---
-tee
-¥
-a,
-, an
-Gy |8i2
-Seo Es
-Ea. | ee
-o#M is
-Z wes
-ws
-e<a5
-See
-ee >
-2s
-Sa < r=
-hk No-« |] SH
-SALES
-BT lee
-OF ela
-5s <irsea €
-Ses “<
-CF Slis
-2 Ole s
-- ES
-22 | 3a
-=
-im
-oe:
-J
-Pa
-8
-S
-a
-E%
-= op ow 2
-BS? ued +
-nm
-“3.
-es
-E
-E
-tee pony
-oe on on
-goals aS
-ee Slss ==
-one)
-agS|*2 2
+Table 1 Assumed Standard Deviation
 
-am | OSD
-m 2 00.0
-ae Oe a ed
+(Clauses 3.2.1.2,.A-3 and B-3 ie 7
+“ ) Table 2 Maximum Water Content per Cubic
 
-ae ooo
-QQ) sas
+Ss! Grade of Assumed Standard Deviation Metre of Concrete for Nominal
+No. Concrete Nénm? . .
+rn Q) (3) Maximum Size of Aggregate
+a A 10 ; (Clauses 4.2, A-5 and B-5)
+ii) M Hl 3. ;
+St Nominal Maxinrum * Maximum Water
+iii) M at ae No. Size of Aggregate Content?
+iv) M25 ° 7
+mm kg
+M 30 ,
+M Mas q) @) @)
+an poe 5.0 i) 10 208
+ix) M 50 ii) 20 186
+x) M55 iif) 40 165
+= Table 3 Volume of Coarse Aggregate per Unit
+Volume of Total Aggregate for Different
+Table 6 Adjustments to Minimum Cement Zones of Fine Aggregate
+Contents for Aggregates Other Than 20 mm , (Clauses 4.4, A-7 and B-7)
+Nominal Maximum Size sarc ctnnn erin nan nce -
+(Clause 8.2.4.1) SI Nominal Volume of Coarse Aggregate” per Unit
+No. Maximum Volume of Total Aggregate for
+Si Nominal Maximum Adjustments to Minimum Cement Size of Different Zones of Fine Aggregate
+No. Aggregate Size Contents in Table 5 Agpregate
+sn kom ’ mm Zone!V Zonel Zonell Zone I
+uF ®% = () Q2) ao 4 © ©
+i) 10 +40
+ii) 20 0 i) 10 0.50 0.48 0.46 0.44
+‘ay “ 40 ii) 20 , 066 064 062 0.60
 
-co) Sis
-
-wy WO
-BaeeZAaa
-
-ZSEEZE
-
-ESOS?
-
-pas Poy
-
-aly
-
-wer
-
-ZSe
-ooo
-
-SO Ooo
-tom
-
-Soo
-
-wey
-me FS
-ses
-
-2Se
-SoS
-
-oos
-om OL SP
-
-~~ me
-SIS
-i
+iii) 40. 0.75 0.73 0.71 0.69
 --- page 4 ---
-Es 2
-£25
-(HES
-Sons)
-F
-:
-a2
-o} ge
-baal
-te
-Bw
-see
-228
-VEE Ee.
-edo
-Es 2
-z98
-Bes
-peEOv
-= ra
-E | 28
-cs
-2| 225
-az
-L255
-UO
-£
-g
-=
-g
-HE
+Table 5 Minimum Cement-Content, Maximum Water-Cement Ratio and Minimum Grade of Concrete
+for Different Exposures with Normal Weight Aggregates of 20 mm Nominal Maximum Size
 
-o~
+(Clauses 6.1.2, 8.2.4.1 and 9,1,2)
 
-Ww
-ise3
+si Exposure Plain Concrete Reinforced Concrete
+No. nemesis CI CT ETAT,
+Minimum Maximurm Minimum Minimum Maximum Minimern
+Cement Free Water- Grade of ‘Cement Free Water- Grade of
+Content Cement Ratio ~ Concrete: Content Cement Ratio Concrete
+kg/m* kg/m
+1) (2) G) (4) G) (6) (7 (8)
+o3 Mild 220 0.60 - 300 0.55 M 20
+ili) Moderate 240 0.60 M15 300 0.50 M25
+iii} Severe 280 0.50 M20 320 0,45 M30
+iv) Very severe 260 — 0.45 M20 340 0.45) M35
 
-g
+v) Extreme 280 0.40 M25 360 0.40: M40
 ````
 
 ## 2018-19 · Final-Exam · Sem 5 · paper c06ce58b9693
@@ -2847,7 +2876,8 @@ g
 - Programmes: B.TECH INTEGRATED / CIVIL
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/3rd YEAR/CIVIL/Sem_05/CONCRETE TECHNOLOGY/Concrete Technology 2018-19 Final.pdf`
 - Printed on paper: max marks: 70; duration hours: 3; exam date: 21 November 2018
-- Text: ocr (3 pages), mean OCR confidence 74.2
+- Text: ocr (3 pages), mean OCR confidence 86.3
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 /
@@ -2954,110 +2984,70 @@ tests.
 
 2/3
 --- page 3 ---
-ae
-oso
+IS 10262 : 2009
+Table 1 Assumed Standard Deviation
 
-eco
+(Clauses 3.2.1.2, A-3 and B-3) FS 10262 : 2009
+st Grade of Assumed Standard Deviation Table 2 Maximum Water Content per Cubic
+Ne: Concrete Nim’ Metre of Concrete for Nominal
+o ® & Maximum Size of Aggregate
+Pa M is} as (Clauses 4.2, A-5 and B-S)
+Assumptions: Angular Aggregates, 25-50 mm slump
+mu) M Bt “m St tale Maximum as Water
+M25 Ne Si
+" °* nee of Aparegate antent Corrections: | Sub-Angular ( -10 kg)
+” M30 om kg
+win sao . a Q 3) Gravel ( -20 kg)
+wii) M4s 0
+M 4) 10 208
+Ps Mas u) 20 186 Rounded { -25 kg)
+mi) 40 168
 
-AES
+NOTE — The above values correspond fo the site control ’ ;
+having proper storage of cement. weigh batching of all — NOTE — These quantities of mixing water are for use in Slump: 3% increase in water content per 25 mm additional slump
 
-eoo
+materials: controlled addition of water, regular checking of all
+materials. aggregate grading aad moisture conical, and
 
-ole
+periodical checking of workability and strength. Where there ~~ \water\eont
+{s deviation from the above, values givea ia the above Water}content corresponding ta saturated surface dry
 
-ese
-Sak
-BE
+computing cementitious material contents for trial batches.
 
-eco
+Plasticizer: ( -5) % to (-10%)
 
-SSt
+abeK he tacresend by E/men *ESTEENE: : Superplasticizer: (-20)% and above
+IS 456 : 2000
+Table § Minimum Cement Content, Maximum Water-Cement Ratio and Minimum Grade of Concrete .
+for Different Exposures with Normal Weight Aggregates of 20 mm Nominal Maximum Size Assumptions: w/c; 0.5
 
-REESE
-SBRERE
+(Clauses 6.1.2, 8.2.4.1 and 9.1.2) Corrections: ( -10}% for pumpable concrete
 
-seks
+} 0.01 per * 0.05 change in w/c
 
-¥e
-> =,
-ReEE
-agit
-x) -
-| 8cf
-<|] Fes
-2| Bae
-= =
-“le
-S/ ae3
-a] Sag
-“| RE”
-y| ds
-a) . 2
+st Exposure Reinforced Concrete .
+‘Ne. Table 6 Adjustments te Minimum Cement
+(nan,
+sielesines Masi vielen Contents for Aggregates Other Than 20 mm ES 10262 : 2009
+Cement Free Water Grade of Nominal Meximum Size Table 3 Volume of Coarse Aggregate per Unit
+pong ‘Cement Ratio Concrete (Clause 82.4.1) Volume of Total Aggregate for Different
+ima 9
+i Nominal hf , te bint Cele Zones of Fine Aggregate
+n a 3) fr) «ay No. Aggregate Size Contents i Table § (Clauses 4.4, A-7 and B-7)
+Oss mm .
+» Mild a bed w 0 : " St Nominal — Voluae of Coarse Aggregate” per Unit
+iy Modersie 300 050 M2 : No. Maximum Volume of Total Aggregate for
+iii? Severe 320 045 M30 o) fo baad Ste of Differeat Zones of Fine Aggregate
+iv Very severe Ar) 043 M35 bag a ° Atererate ge
+* Exeuns 160 40 M40 i a a» mm Zone\¥ Zone til Zonet — Zone!
+; a (2) #)) w (Ss) (6)
+1 Cement content prescribed in this table is irrespective of the grades of cement and it is inclusive of additions mentioned in 5.2, The » 10 0.50 ous 0.46 O44
+additions such aa fly ash or ground granulated blact furnace slag may be taken into account im the concrete composition with respect to 4) 20 0 66 O64 062 060
+the cement content and water-cement ratio if the suitability is extablished and as long as the maximem einouats taken into account da ui) 40 078 073 O71 O6F
+not exoced the limit of porzolona and slag epecified ia 1S 1489 (Pant |) and 15 455 respectively. ST valiengiare xed Ow iggregunen fa cemiracd eurthceidiy
+2. Minimum grade for plain concrets under mild exposure cosdition ix nut specified. condigon
 
-8 i
-= eff
-444)
-
-ze
-e
-
-z ee
-25 r
-
-EF
-
-RE
-
-BEEZ 5d
-ue
-BFF I
-bedi
-iigit Eezexz
-
-ee hee
-BSuons
-
-o 2 eee
-
-2 sé ooo
-
-a * S.
-g Ss
-BBS
-a 32
-5S 2.
-™ ns
-a 82
-a G8
-g 3
-2 wet
-e 3é
-8 2a
-RB a2 —=— wy
-5 EE 2RS
-2
-3 RF
-a a8
-af
-2 F
-2
-2 c
-a 3
-s 8
-wv
-
-w
-SR
-— 3
-wm &
-a 8
-
-a2 @
-ee 8
-fe) — Cc
-— 53 2
-
-g|/f 4
+3/3
 ````
 
 ## 2018-19 · Re-Exam · Sem 4 · paper 0a68e9221bda

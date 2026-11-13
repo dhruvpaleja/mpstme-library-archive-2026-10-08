@@ -2277,14 +2277,155 @@ Goalseek technique (What-if-Analysis function).
 - Departments: Artificial Intelligence, Civil, Data Science, Information Technology
 - Programmes: BTech AI 7012, BTech Civil 7005, BTech DS 7009, BTech IT 7001
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_AI_7012/Basic Decision making with Spreadsheet/data_set_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.xlsx` (+3 identical copies)
-- Text: none (spreadsheet data set; no question text)
+- Text: xlsx (3 sheets)
+
+````text
+Sheet "Dataset Q2(b)": 28 rows, 6 columns
+
+Details to Question 2(b)
+A | B | C | D | E | F
+(Emp ID) | (Name) | (Department) | (Sales ₹) | (Units Sold) | (Experience Years)
+E101 | Amit | Sales | 45000 | 15 | 5
+E102 | Neha | HR | 30000 | 0 | 3
+E103 | Ravi | Sales | 52000 | 18 | 6
+E104 | Pooja | IT | 40000 | 10 | 4
+E105 | Karan | Sales | 38000 | 12 | 2
+E106 | Meena | HR | 28000 | 0 | 7
+E107 | Sita | IT | 60000 | 20 | 8
+E108 | Aman | Finance | 50000 | 5 | 6
+E109 | Ritu | Sales | 47000 | 14 | 5
+E110 | Mohit | Finance | 42000 | 6 | 4
+E111 | Nikhil | Sales | 55000 | 19 | 7
+E112 | Kavya | HR | 32000 | 0 | 4
+E113 | Arjun | IT | 48000 | 11 | 6
+E114 | Sneha | Finance | 46000 | 7 | 5
+E115 | Deepak | Sales | 39000 | 13 | 3
+E116 | Isha | IT | 62000 | 22 | 9
+E117 | Rahul | HR | 35000 | 0 | 6
+E118 | Tanya | Finance | 53000 | 8 | 7
+E119 | Varun | Sales | 49000 | 16 | 5
+E120 | Komal | IT | 41000 | 9 | 4
+E121 | Sanjay | Finance | 58000 | 10 | 8
+E122 | Rhea | HR | 31000 | 0 | 2
+E123 | Aditya | Sales | 60000 | 21 | 9
+E124 | Pankaj | IT | 45000 | 12 | 5
+E125 | Bhavna | Finance | 47000 | 6 | 6
+--- page 2 ---
+Sheet "Dataset-Q5(a)": 1002 rows, 15 columns; the first 25 rows are shown, the full data set is in the original file
+
+Details to Question 5(a) - 1,2 & 3 |   |   |   |   |   |   |   |   |   |   | Details to Question 5(a) - 4
+Date | Region | Branch | Account Type | Transaction Type | Officer Name | Number of Transactions | Average Amount | Service Rating |   |   | Book Name | Author | Copies | Price
+2024-02-03 | Central | Chennai | Savings | Deposit | Officer D | 41 | 25110 | 3.2 |   |   | Python Basics | Author A | 20 | 500
+2024-06-06 | East | Delhi | Savings | Payment | Officer D | 14 | 14927 | 3.5 |   |   | Data Science | Author B | 15 | 800
+2024-10-19 | Central | Indore | Fixed Deposit | Transfer | Officer C | 33 | 34593 | 4.6 |   |   | AI Guide | Author C | 10 | 1200
+2024-08-05 | North | Kolkata | Current | Payment | Officer D | 43 | 41155 | 4.5 |   |   | Excel Master | Author D | 25 | 400
+2024-08-17 | South | Chennai | Current | Deposit | Officer C | 40 | 13633 | 4.2 |   |   | Statistics | Author E | 18 | 600
+2024-10-10 | Central | Indore | Fixed Deposit | Transfer | Officer A | 1 | 13415 | 3.4
+2024-11-30 | East | Chennai | Fixed Deposit | Withdrawal | Officer A | 33 | 40707 | 4.8
+2024-11-13 | Central | Indore | Fixed Deposit | Payment | Officer D | 10 | 42523 | 4.3
+2024-08-08 | East | Bhopal | Fixed Deposit | Transfer | Officer B | 7 | 41022 | 3.3
+2024-04-26 | South | Bhopal | Fixed Deposit | Deposit | Officer C | 25 | 33873 | 3.8
+2024-08-08 | North | Bhopal | Savings | Transfer | Officer D | 37 | 39376 | 4.1
+2024-09-20 | South | Kolkata | Savings | Payment | Officer C | 18 | 31339 | 4.1
+2024-11-22 | Central | Delhi | Fixed Deposit | Payment | Officer D | 30 | 46864 | 4.5
+2024-01-20 | East | Delhi | Savings | Withdrawal | Officer E | 25 | 47343 | 4.1
+2024-04-24 | West | Kolkata | Current | Withdrawal | Officer D | 16 | 25240 | 3.9
+2024-05-25 | East | Kolkata | Savings | Deposit | Officer D | 38 | 35569 | 3.7
+2024-02-11 | East | Chennai | Savings | Transfer | Officer D | 35 | 12067 | 4
+2024-06-25 | North | Bhopal | Current | Payment | Officer D | 18 | 13139 | 4.9
+2024-09-09 | West | Chennai | Savings | Transfer | Officer D | 11 | 32260 | 4.4
+2024-09-17 | South | Chennai | Fixed Deposit | Deposit | Officer B | 17 | 5412 | 3.3
+2024-01-18 | North | Bhopal | Fixed Deposit | Withdrawal | Officer A | 17 | 5875 | 3.2
+2024-10-05 | North | Bhopal | Fixed Deposit | Deposit | Officer E | 4 | 18259 | 4.6
+2024-12-14 | North | Delhi | Fixed Deposit | Payment | Officer E | 24 | 39988 | 3.6
+--- page 3 ---
+Sheet "Dataset-Q6(b)": 12 rows, 8 columns
+
+Details to Question 6(b)
+Sr No. | Fertilizer Used (kg/ha) | Rainfall (mm) | Irrigation (Hrs) | Labor (Hrs) | Pesticide Used (Ltrs) | Soil Quality Index | Crop Yield (tons/ha)
+1 | 97 | 991 | 33 | 141 | 6.83 | 6.01 | 8.5
+2 | 167 | 686 | 57 | 159 | 16.7 | 7.8 | 11.37
+3 | 72 | 918 | 36 | 143 | 10.34 | 5.54 | 8.49
+4 | 132 | 932 | 45 | 179 | 15.01 | 5.85 | 10.27
+5 | 69 | 988 | 27 | 159 | 11.12 | 6.34 | 8.8
+6 | 135 | 900 | 20 | 119 | 7.45 | 5.61 | 8.71
+7 | 65 | 662 | 34 | 180 | 15.59 | 6.26 | 8.66
+8 | 139 | 883 | 34 | 152 | 7.05 | 6.46 | 9.23
+9 | 124 | 931 | 53 | 166 | 17.6 | 6.8 | 11.04
+10 | 76 | 879 | 20 | 110 | 15.9 | 5.58 | 7.87
+````
 
 ## 2025-26 · Final-Exam · Sem 6 · Dataset · paper 248ee0a28749
 
 - Departments: Computer Engineering, Cyber Security, Data Science
 - Programmes: BTech Computer 7002, BTech CSE DS 7057, BTech CyberSecurity 7010
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CSE_DS_7057/Basic Decision making with Spreadsheet/data_set_Basic Decision making with Spreadsheet(702DB0I002)_2025-2026.xlsx` (+5 identical copies)
-- Text: none (spreadsheet data set; no question text)
+- Text: xlsx (4 sheets)
+
+````text
+Sheet "Dataset Q2(a)": 7 rows, 6 columns
+
+Details to Question 2(a)
+Food Item | Fat Calories | Total Calories | Vitamin C (mg) | Protein (g) | Cost ($)
+Rice (1 cup) | 30 | 200 | 0 | 4 | 0.25
+Paneer (1 serving) | 120 | 250 | 0 | 20 | 1.5
+Vegetables (1 cup) | 10 | 80 | 30 | 3 | 0.4
+Yoghurt (1 cup) | 50 | 150 | 2 | 6 | 0.6
+Juice (1 cup) | 0 | 110 | 90 | 1 | 0.5
+--- page 2 ---
+Sheet "Dataset Q2(b)": 7 rows, 4 columns
+
+Details to Question 2(b)
+(Emp ID) | (Name) | (Department) | (Sales ₹)
+1 | Alice | HR | 45000
+2 | Bob | Finance | 55000
+3 | Charlie | IT | 60000
+4 | Diana | Marketing | 50000
+5 | Ethan | IT | 65000
+--- page 3 ---
+Sheet "Dataset-Q5(a)": 1002 rows, 15 columns; the first 25 rows are shown, the full data set is in the original file
+
+Details to Question 5(a) - 1,2 & 3 |   |   |   |   |   |   |   |   |   |   | Details to Question 5(a) - 4
+Date | Hospital | Department | Service Type | Patient Type | Doctor | Number of Patients | Average Billing | Satisfaction Rating |   |   | Employee | Department | Salary | Bonus
+2024-12-21 | Max | Cardiology | Consultation | Inpatient | Dr. A | 29 | 13339 | 3.4 |   |   | John | HR | 30000 | 5000
+2024-10-31 | Fortis | Orthopedics | Therapy | Inpatient | Dr. A | 16 | 7375 | 4.3 |   |   | Sara | IT | 45000 | 8000
+2024-06-12 | AIIMS | Neurology | Emergency | Inpatient | Dr. A | 30 | 2807 | 4.4 |   |   | Mike | Finance | 40000 | 7000
+2024-11-27 | Medanta | Cardiology | Therapy | Outpatient | Dr. B | 22 | 12131 | 4.5 |   |   | Nina | IT | 42000 | 6000
+2024-06-29 | AIIMS | General | Surgery | Outpatient | Dr. E | 17 | 7846 | 3.2 |   |   | Raj | HR | 35000 | 5500
+2024-01-16 | AIIMS | General | Therapy | Inpatient | Dr. E | 2 | 15546 | 3.8
+2024-05-31 | Apollo | Neurology | Surgery | Inpatient | Dr. C | 24 | 19638 | 4.5
+2024-05-31 | Apollo | Orthopedics | Emergency | Inpatient | Dr. E | 3 | 5286 | 3.6
+2024-12-05 | AIIMS | General | Surgery | Outpatient | Dr. E | 27 | 15163 | 3.6
+2024-12-10 | AIIMS | General | Therapy | Outpatient | Dr. C | 5 | 4218 | 3.5
+2024-04-25 | Fortis | Cardiology | Therapy | Outpatient | Dr. D | 35 | 12607 | 4.7
+2024-01-27 | Medanta | Orthopedics | Consultation | Inpatient | Dr. A | 14 | 15711 | 3.7
+2024-12-16 | AIIMS | Neurology | Therapy | Inpatient | Dr. E | 27 | 8869 | 4
+2024-09-26 | Fortis | Orthopedics | Emergency | Inpatient | Dr. C | 8 | 1166 | 3.2
+2024-11-04 | Apollo | Pediatrics | Surgery | Inpatient | Dr. D | 7 | 1405 | 4.6
+2024-09-20 | Fortis | General | Consultation | Inpatient | Dr. A | 40 | 11689 | 4.1
+2024-01-22 | Fortis | Neurology | Emergency | Inpatient | Dr. E | 30 | 11301 | 4.5
+2024-01-13 | Max | Neurology | Therapy | Outpatient | Dr. B | 39 | 14623 | 3.1
+2024-11-18 | Fortis | Orthopedics | Consultation | Inpatient | Dr. B | 34 | 19404 | 4.2
+2024-08-13 | AIIMS | Pediatrics | Emergency | Outpatient | Dr. B | 32 | 10049 | 4.1
+2024-01-08 | AIIMS | General | Surgery | Outpatient | Dr. B | 20 | 7199 | 4.2
+2024-01-06 | Medanta | Orthopedics | Surgery | Outpatient | Dr. A | 10 | 3668 | 4.7
+2024-12-08 | Medanta | Neurology | Consultation | Outpatient | Dr. D | 40 | 14008 | 3.2
+--- page 4 ---
+Sheet "Dataset-Q6(b)": 12 rows, 5 columns
+
+Details to Question 6(b)
+Conversion Rate (%) | Average Product Price ($) | Customer Ratings (1-5) | Delivery Time (Days) | Monthly Sales Revenue ($)
+3.64 | 69.98 | 3.74 | 4 | 138865.23
+3.02 | 61.93 | 3.58 | 5 | 69071.92
+3.42 | 48.93 | 4.5 | 5 | 89212.37
+3.42 | 63.96 | 4.17 | 2 | 127090.24
+2.63 | 40.97 | 4.69 | 2 | 126027.03
+4.42 | 36.07 | 4.04 | 4 | 102120.53
+3.54 | 42.16 | 3.74 | 1 | 136031.57
+4.56 | 46.91 | 4.67 | 3 | 97432.72
+4.63 | 52.87 | 4.27 | 2 | 155072.53
+3.03 | 56.53 | 3.76 | 2 | 118065.83
+````
 
 ## 2025-26 · Re-Exam · Sem 6 · paper a51df1bca3f2
 

@@ -97,6 +97,22 @@ e
 9   Sunny   Cool   Normal   Yes
 10   Rain   Mild   Normal   Yes
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Prior Probabilities
+
+Total observations:
+n=10
+
+Yes:
+
+No:
+
+6
+P(Yes) = 107 0.6
+
+4
+P(No) = 7, =0.4
 --- page 4 ---
 Step 2: Conditional Probabilities
 
@@ -155,6 +171,32 @@ BL-3   the first principal component.
 X   1   3   5   7
 Y   2   4   6   8
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Posterior Probabilities
+
+For Yes
+P(Yes|X) x P(Yes) x P(Sunny|Yes) x P(Cool/Yes) x P(High|Yes)
+= 0.6 x ; x 0.5 x 0.333
+= 0.0167
+For No
+
+P(No|X) x 0.4 x 0.75 x 0.25 x 0.75
+
+= 0.0563
+
+Step 4: Final Classification
+
+Compare:
+P(Yes|X) = 0.0167
+P(No|X) = 0.0563
+Since:
+
+0.0563 > 0.0167
+
+Final Answer
+
+Predicted class = No
 --- page 6 ---
 Solution
 Step 1: Mean of each variable (1 marks)
@@ -499,6 +541,22 @@ e
 9   Sunny   Cool   Normal   Yes
 10   Rain   Mild   Normal   Yes
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Prior Probabilities
+
+Total observations:
+n=10
+
+Yes:
+
+No:
+
+6
+P(Yes) = 107 0.6
+
+4
+P(No) = 7, =0.4
 --- page 4 ---
 Step 2: Conditional Probabilities
 
@@ -557,6 +615,32 @@ BL-3   the first principal component.
 X   1   3   5   7
 Y   2   4   6   8
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Posterior Probabilities
+
+For Yes
+P(Yes|X) x P(Yes) x P(Sunny|Yes) x P(Cool/Yes) x P(High|Yes)
+= 0.6 x ; x 0.5 x 0.333
+= 0.0167
+For No
+
+P(No|X) x 0.4 x 0.75 x 0.25 x 0.75
+
+= 0.0563
+
+Step 4: Final Classification
+
+Compare:
+P(Yes|X) = 0.0167
+P(No|X) = 0.0563
+Since:
+
+0.0563 > 0.0167
+
+Final Answer
+
+Predicted class = No
 --- page 6 ---
 Solution
 Step 1: Mean of each variable (1 marks)
@@ -901,6 +985,22 @@ e
 9   Sunny   Cool   Normal   Yes
 10   Rain   Mild   Normal   Yes
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Prior Probabilities
+
+Total observations:
+n=10
+
+Yes:
+
+No:
+
+6
+P(Yes) = 107 0.6
+
+4
+P(No) = 7, =0.4
 --- page 4 ---
 Step 2: Conditional Probabilities
 
@@ -959,6 +1059,32 @@ BL-3   the first principal component.
 X   1   3   5   7
 Y   2   4   6   8
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Posterior Probabilities
+
+For Yes
+P(Yes|X) x P(Yes) x P(Sunny|Yes) x P(Cool/Yes) x P(High|Yes)
+= 0.6 x ; x 0.5 x 0.333
+= 0.0167
+For No
+
+P(No|X) x 0.4 x 0.75 x 0.25 x 0.75
+
+= 0.0563
+
+Step 4: Final Classification
+
+Compare:
+P(Yes|X) = 0.0167
+P(No|X) = 0.0563
+Since:
+
+0.0563 > 0.0167
+
+Final Answer
+
+Predicted class = No
 --- page 6 ---
 Solution
 Step 1: Mean of each variable (1 marks)
@@ -1279,6 +1405,62 @@ BL-3   2. Predict the value of Y when X = 6
 3. Calculate the error (residual) for each observation
 4. Compute the Sum of Squared Errors (SSE)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Required Sums
+
+x Y x xy
+2 4 4 8
+
+3 5 9 15
+
+5 7 25 35
+
+7 10 49 70
+
+9 15 81 135
+
+Yo x = 26
+Soy =41
+Yo x? = 168
+SO XY = 263
+
+n=5
+
+Step 2: Calculate Slope b
+
+nVUxy -(S XV Y)
+ny X?- (Sx)?
+__ 5(263) — (26)(41)
+5(168) — 262
+1315 — 1066
+~ “340 — 676
+249
+
+p-—
+164
+
+b= 1.52
+
+b=
+
+b
+
+Step 3: Calculate Intercept a
+_vY-byx
+
+n
+g — b= 1.52(26)
+5
+41 — 39.52
+a-
+5
+_ 1.48
+
+5
+a= 0.296
+
+a
 --- page 3 ---
 CO-   b   Explain Random Forest algorithm, highlighting how bootstrap sampling and random   [10
 3;   feature selection contribute to reducing overfitting and improving generalization.
@@ -1299,6 +1481,41 @@ dataset.
 BL-3   X   2   4   6   8
 Y   4   2   6   8
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 4: Regression Equation
+
+Y = 0.296 + 1.52X
+
+Step 5: Predict Value when X = 6
+Y = 0.296 + 1.52(6)
+
+Y = 0.296 + 9.12
+
+Step 6: Calculate Errors (Residuals)
+
+Error = Y —Y
+x Y Predicted Y Error
+2 4 3.336 0.664
+3 5 4856 0.144
+5 7 7.896 -0.896
+7 10 10.936 0.936
+
+9 15 13.976 1.024
+
+Step 7: Compute Sum of Squared Errors (SSE)
+SSE=)-(y-Y)?
+= 0.441 + 0.021 + 0.803 + 0.876 + 1.049
+
+Final Answer (Exam-Ready)
+
+Regression equation:
+
+Y = 0.296 + 1.52X
+
+Predicted value at X = 6:
+
+Sum of Squared Errors:
 --- page 4 ---
 Solution
 
@@ -1391,6 +1608,48 @@ SO-   interpret its significance.
 BL-2   Partition of Marks (Out of 10)
 1. Concept of interaction term in regression — 3 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Step 5: Equation of PC1
+
+The first principal component is:
+PC1 = 0.707(X — 5) + 0.707(Y — 5)
+
+This is the required PC1 equation.
+
+Step 6: Compute PC1 scores
+
+Now substitute each centered observation into:
+PC1 = 0.707(X — 5) + 0.707(Y — 5)
+Observation 1: (—3, —1)
+PC1 = 0.707(—3) + 0.707(—1)
+= —2.121 — 0.707 = —2.828
+Observation 2: (—1, —3)
+PC1 = 0.707(—1) + 0.707(—3)
+= —0.707 — 2.121 = —2.828
+Observation 3: (1, 1)
+PC1 = 0.707(1) + 0.707(1) = 1.414
+Observation 4: (3, 3)
+
+PC1 = 0.707(3) + 0.707(3) = 4.242
+
+Final PC1 Scores
+
+Observation PC! Score
+1 -2.828
+2 -2.828
+3 1414
+4 4.242
+
+Final Answer
+
+The first principal component is:
+
+[PC1 = 0.707(x — 5) + 0.707(¥ — 5)
+
+The PC1 scores are:
+
+[—2.828, —2.828, 1.414, 4.242]
 --- page 6 ---
 2. How to incorporate interaction term in model — 3 marks
 3. Interpretation of interaction term significance — 2 marks
@@ -1537,6 +1796,41 @@ Windy   No   Shopping   Rich
 Windy   Yes   Cinema   Rich
 Sunny   No   Tennis   Rich
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Count Class Values
+
+Total records = 10
+Class (Money):
+
+© Rich =7
+© Poor =3
+
+Step 2: Gini Index of Dataset
+
+‘We use the formula:
+
+Gini(D) = 1- Sop?
+
+(3) - (a)
+
+Gini(D) = 1 — 0.49 — 0.09
+
+Gini(D) =
+
+Gini(D)
+
+2
+
+Step 3: Gini Index for Attribute Weather
+
+Sunny
+Records: 1, 2, 10
+© Rich =3
+
+© Poor =0
+
+Gini(Sunny) = 0
 --- page 10 ---
 Windy
 
@@ -1611,6 +1905,51 @@ SO-
 2;   Support Vectors 2 marks
 BL-2   Hard Margin 2 marks
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Step 5: Gini Index for Attribute Decision
+
+Cinema
+
+© Rich=3
+© Poor=3
+
+Gini(Cinema) = 0.50
+
+Tennis
+Records: 2, 10
+
+Gini(Tennis) = 0
+
+Stay-In
+Record: 5
+
+Gini(Stay-In) = 0
+
+Shopping
+Record: 8
+
+Gini( Shopping) = 0
+
+Weighted Gini for Decision
+
+6 2 1 1
+Gini (Decision) = 55 (0-50) + 75(0) + 75(0) + 5)
+
+Step 6: Compare All Gini Values
+
+Attribute Gini
+Weather 0.283
+Parents 0.40
+Decision 0,30
+
+Final Answer (Root Node Only)
+
+The attribute with the minimum Gini Index is:
+
+Therefore,
+
+Root Node of the Decision Tree = Weather
 --- page 12 ---
 Soft Margin 2 marks
 Kernel 2 marks
@@ -1756,6 +2095,62 @@ BL-3   2. Predict the value of Y when X = 6
 3. Calculate the error (residual) for each observation
 4. Compute the Sum of Squared Errors (SSE)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Required Sums
+
+x Y x xy
+2 4 4 8
+
+3 5 9 15
+
+5 7 25 35
+
+7 10 49 70
+
+9 15 81 135
+
+Yo x = 26
+Soy =41
+Yo x? = 168
+SO XY = 263
+
+n=5
+
+Step 2: Calculate Slope b
+
+nVUxy -(S XV Y)
+ny X?- (Sx)?
+__ 5(263) — (26)(41)
+5(168) — 262
+1315 — 1066
+~ “340 — 676
+249
+
+p-—
+164
+
+b= 1.52
+
+b=
+
+b
+
+Step 3: Calculate Intercept a
+_vY-byx
+
+n
+g — b= 1.52(26)
+5
+41 — 39.52
+a-
+5
+_ 1.48
+
+5
+a= 0.296
+
+a
 --- page 3 ---
 CO-   b   Explain Random Forest algorithm, highlighting how bootstrap sampling and random   [10
 3;   feature selection contribute to reducing overfitting and improving generalization.
@@ -1776,6 +2171,41 @@ dataset.
 BL-3   X   2   4   6   8
 Y   4   2   6   8
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 4: Regression Equation
+
+Y = 0.296 + 1.52X
+
+Step 5: Predict Value when X = 6
+Y = 0.296 + 1.52(6)
+
+Y = 0.296 + 9.12
+
+Step 6: Calculate Errors (Residuals)
+
+Error = Y —Y
+x Y Predicted Y Error
+2 4 3.336 0.664
+3 5 4856 0.144
+5 7 7.896 -0.896
+7 10 10.936 0.936
+
+9 15 13.976 1.024
+
+Step 7: Compute Sum of Squared Errors (SSE)
+SSE=)-(y-Y)?
+= 0.441 + 0.021 + 0.803 + 0.876 + 1.049
+
+Final Answer (Exam-Ready)
+
+Regression equation:
+
+Y = 0.296 + 1.52X
+
+Predicted value at X = 6:
+
+Sum of Squared Errors:
 --- page 4 ---
 Solution
 
@@ -1868,6 +2298,48 @@ SO-   interpret its significance.
 BL-2   Partition of Marks (Out of 10)
 1. Concept of interaction term in regression — 3 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Step 5: Equation of PC1
+
+The first principal component is:
+PC1 = 0.707(X — 5) + 0.707(Y — 5)
+
+This is the required PC1 equation.
+
+Step 6: Compute PC1 scores
+
+Now substitute each centered observation into:
+PC1 = 0.707(X — 5) + 0.707(Y — 5)
+Observation 1: (—3, —1)
+PC1 = 0.707(—3) + 0.707(—1)
+= —2.121 — 0.707 = —2.828
+Observation 2: (—1, —3)
+PC1 = 0.707(—1) + 0.707(—3)
+= —0.707 — 2.121 = —2.828
+Observation 3: (1, 1)
+PC1 = 0.707(1) + 0.707(1) = 1.414
+Observation 4: (3, 3)
+
+PC1 = 0.707(3) + 0.707(3) = 4.242
+
+Final PC1 Scores
+
+Observation PC! Score
+1 -2.828
+2 -2.828
+3 1414
+4 4.242
+
+Final Answer
+
+The first principal component is:
+
+[PC1 = 0.707(x — 5) + 0.707(¥ — 5)
+
+The PC1 scores are:
+
+[—2.828, —2.828, 1.414, 4.242]
 --- page 6 ---
 2. How to incorporate interaction term in model — 3 marks
 3. Interpretation of interaction term significance — 2 marks
@@ -2014,6 +2486,41 @@ Windy   No   Shopping   Rich
 Windy   Yes   Cinema   Rich
 Sunny   No   Tennis   Rich
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Count Class Values
+
+Total records = 10
+Class (Money):
+
+© Rich =7
+© Poor =3
+
+Step 2: Gini Index of Dataset
+
+‘We use the formula:
+
+Gini(D) = 1- Sop?
+
+(3) - (a)
+
+Gini(D) = 1 — 0.49 — 0.09
+
+Gini(D) =
+
+Gini(D)
+
+2
+
+Step 3: Gini Index for Attribute Weather
+
+Sunny
+Records: 1, 2, 10
+© Rich =3
+
+© Poor =0
+
+Gini(Sunny) = 0
 --- page 10 ---
 Windy
 
@@ -2088,6 +2595,51 @@ SO-
 2;   Support Vectors 2 marks
 BL-2   Hard Margin 2 marks
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Step 5: Gini Index for Attribute Decision
+
+Cinema
+
+© Rich=3
+© Poor=3
+
+Gini(Cinema) = 0.50
+
+Tennis
+Records: 2, 10
+
+Gini(Tennis) = 0
+
+Stay-In
+Record: 5
+
+Gini(Stay-In) = 0
+
+Shopping
+Record: 8
+
+Gini( Shopping) = 0
+
+Weighted Gini for Decision
+
+6 2 1 1
+Gini (Decision) = 55 (0-50) + 75(0) + 75(0) + 5)
+
+Step 6: Compare All Gini Values
+
+Attribute Gini
+Weather 0.283
+Parents 0.40
+Decision 0,30
+
+Final Answer (Root Node Only)
+
+The attribute with the minimum Gini Index is:
+
+Therefore,
+
+Root Node of the Decision Tree = Weather
 --- page 12 ---
 Soft Margin 2 marks
 Kernel 2 marks

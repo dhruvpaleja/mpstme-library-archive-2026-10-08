@@ -127,6 +127,36 @@ b.   Differentiate between soldering and brazing.   [10]
 Q.5   a.   Explain the working principle, equipment, and operation of Oxy-acetylene   [10]
 gas welding.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+S. No. Soldering Brazing
+
+1. | The filler material used in this process | The filler material used in this process
+is ferrous, copper or silver based | is called solder.
+materials. ‘
+
+2. | Filler material has the. melting point | Filler material has the melting point
+below 450°C. above 450°C.
+
+3. Temperature involved in this process is | Temperature involved in this process
+low. is high.
+
+4. The solder joints are the weakest joints. | Joints are stronger.
+5: Dismantling of joints is not possible. Dismantling of joints is possible.
+
+6. Equipment cost is very low. Equipment cost is more.
+
+3. Joints are affected by high temperature | high temperature and pressure do not
+. 4 and pressure. . ‘affect the joint.
+
+8. Skilled labours are not required. Skilled labours are required. _
+
+9. The commonly used: fluxes for | Fluxes are fluorides, chlorides, Borax
+soldering are zinc chloride and HCl. and boric acid. .
+
+10. | It is suitable for mass production and | It is not suitable for mass production.
+
+heavy component.
 --- page 5 ---
 Diagram – 4 marks
 Explaination – 6 marks

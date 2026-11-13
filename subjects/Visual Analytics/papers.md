@@ -1,6 +1,6 @@
 # Visual Analytics: question papers in full
 
-2 unique papers · 2023-24 to 2023-24 · Information Technology
+3 unique papers · 2023-24 to 2023-24 · Information Technology
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -215,6 +215,174 @@ h) Write comments below each screenshot in the Word document to
 - explain the analysis, insights, and any observations made during the
 
 process
+````
+
+## 2023-24 · Final-Exam · Sem 7 · paper 3dd385298740
+
+- Departments: Information Technology
+- Programmes: B TECH / IT
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: IT/VII SEMESTER/VISUAL ANALYTICS (PRACTICAL)/Visual_Analytics_(Practical)__Sem-VII__Final_Exam__A_Y_2023-24_cZgBbfdvtJ.pdf`
+- Printed on paper: max marks: 100; duration hours: 3
+- Text: ocr (3 pages), mean OCR confidence 92.5
+
+````text
+(TUTE UF My,
+KES Anas Ss
+
+he
+; e
+TE
+
+Wk
+
+SVKM’S NMIMS NY
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEER
+SCHOOL OF TECHNOLOGY MANAGEMENT
+Academic Year: 2023-2024 ;
+
+Program/s: Btech Year: [V Semester: VII
+Stream/s : Information Technology
+
+Subject: Visual Analytics (Practical) Time: 3 hrs (4o nM to 4 P™_)
+Date:_27 / II /2023 No. of Pages: 3
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on
+the cover of the Answer Book, which is provided for their use.
+
+>, 1) Question No. | is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+
+7) Wait to Load dataset while selecting and save your report while doing the work.
+
+8) Don’t reveal your identity in your work i.e. Name/Roll no/SAPID or while saving your report on tools.
+9) Dataset files are given and assume suitable data from VA tool if necessary.
+
+Ql
+
+Answer briefly: [20]
+COT; fa :
+SO-6 ; Discuss the role analytics for the analysis of economy data? [5]
+
+om | BL-2
+
+CO-2 ; b. Difference between data categories and data measures ? What is the need of [5]
+ol joins in data preparation? Write your view in detail.
+SO. ° , ° What are different chart available in visualization based on dimensionality? [5]
+BL-4 Give example of each.
+CO-4 ; d.
+SO6- ; Explain the importance of custom category and rank in data visualisation. [5]
+BL-2
+Q2 Design a visualization report using with any open dataset present in any VA
+
+tool:
+CO-1,2-; a) Select any one 2-dimensional graph [20]
+SO-6; b) Select three categories and two measure. Also, discuss the
+BL-2,3,6 relationship between the categories selected and measure used.
+--- page 2 ---
+;
+
+c) Show the hierarchy of data present in visualisation
+
+d) Include appropriate labels, titles, and formatting to .make the
+visualization clear and visually appealing. al
+
+e) Snip your all activity according to above step and paste in word
+document.
+
+f) Write your comments in word document below every screenshots
+
+Design a visualization report using with any open dataset present in any VA
+tool:
+
+a) Use 3-dimensional graph
+
+b) Select three categories and one measure. Discuss the relation between
+
+Q3 the categories selected and measure used.
+CO-1,2; c) Show the hierarchy of data present in visualisation [20]
+SO-6; d) Include appropriate labels, titles, and formatting to make the
+BL-2,3,6 visualization clear and visually appealing. ;
+e) Snip your all activity according to above step and paste in word
+document.
+
+f) Write your comments in word document below every screenshots
+
+Design a visualization report using with any open dataset present in any VA
+tool:
+
+a) Create two calculated items i.e. measure.
+b) Use any two graphs and apply the measure and select two different
+
+Q4 categories applied to both the graphs and show the similar values in
+CO3,4-; each graph. [20]
+SO6-; c) Include appropriate labels, titles, and formatting to make the
+BL-2,3,6 visualization clear and visually appealing.
+d) Snip your all activity according to above step and paste in word
+document.
+
+e) Write your comments in word document below every screenshots
+%
+
+Design a report for analysing sales data for a retail company using Tableau.
+a) Import the “Sales.xlsx” dataset. Create a meaningful visualization
+in Tableau to help analyse the categories i.e. “Ship Mode” &
+
+“Order Date”.
+Qs b) Create a calculated field in Tableau that calculates using formula i.e.
+
+“profit - discount” and apply as measure. Sort the data in ascending
+CO-3,4; order [20]
+SO-6; c) Write maximum value of data point w.r.t which year in visualisation.
+BL-2,3,6 Also include appropriate labels, titles, and formatting to make the
+
+visualization clear and visually appealing.
+
+d) Snip your all activity according to above step and paste in word
+document.
+
+e) Write your comments in word document below every screenshots
+--- page 3 ---
+Design a report for analysing e-commerce company data using Tableau.
+The dataset contains information about orders, including Order*ID, Date,
+Status, Fulfilment, Sales Channel, and more. Your task is to use Tableau to
+analyze and visualize this dataset.
+
+a) Import the “E-commerce.xlsx” dataset in tableau to analyze and
+
+Q6 visualize this dataset.
+b) Create a visualization in Tableau and analyse the “quantity” w.r.t
+CO-2,3; “fulfilment” for different “size”. [20]
+SO-6; c) Write is the maximum value of quantity in visualization. Also
+BL-2,3,6 include clear labels, titles, and formatting in your visualization to
+make it informative and visually appealing.
+d) Snip your all activity according to above step and paste in word
+document.
+e) Write your comments in word document below every screenshots
+Design a visualization report using Tableau. .
+a) Create a dashboard that contain two different graph having different
+measure of each graph.
+b) Apply and show two different filters with highlighters at dashboard
+Q7 c) Create a story where relationship of two measure is presented and
+CO-3,4; explained in word document. [20]
+SO-6; d) Include clear labels, titles, and formatting in your visualization to
+BL-2,3,6 make it informative and visually appealing.
+e) Snip your all activity according to above step and paste in word
+document.
+
+f) Write your comments in word document below every screenshots
 ````
 
 ## 2023-24 · Re-Exam · Sem 8 · paper ae6fd7aff4dd

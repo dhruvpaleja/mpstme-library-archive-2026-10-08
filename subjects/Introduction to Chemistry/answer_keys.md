@@ -207,6 +207,38 @@ Bi=209, Br=80, C=12, Ca=40, Ce=140, Cl=35.5, Cr=52, Cs= 132.9, Cu=63.5, Fe=55.9,
 He=4, K=39, Kr=84, Mg=24, Mn=55, N=14, Na=23, Ne=20.2, Ni=58.7, O=16, Os=190, P=31, S=32,
 Sc=44.9, Se=79, Si=28, Zn=65.4, Zr=91.2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Q1.
+
+a Line notation for a voltaic cell with Magnesium anode, and Silver
+cathode. 2M
+Reaction occurring at the Mg anode 2M
+Reaction occurring at the Ag cathode, and 2M
+the overall reaction occurring in the cell. 1M
+
+b. Brief description of all the postulates of the Bohr’s model of atom 7M
+
+c. Characteristics of covalent compounds 2M
+Four examples of covalent compounds. 4M
+
+Q2.
+* | e24) 36st Br | mole MM | jooont:
+; Zo | (eh @ [oO IL
+vt (4 7) 4
+0-394
+b. Brief explanation of the basic organic substitution reactions 4M
+Three examples showing the reactions. 3M
+c. Discussion of all the applications of NMR spectroscopy. 6M
+Q3.
+a Comparison of the products of reduction reaction of aldehydes and
+ketones. 4M
+Suitable examples and reactions. 3M
+b. Brief description about the health effects of any seven hazardous
+substances found in e-waste. 7M
+c. Discussion of the stretching vibrations 3M
+
+with a suitable diagram. 3M
 --- page 2 ---
 Q4.
 

@@ -32,6 +32,23 @@ Instructions:
 8. Assume Suitable data if necessary.
 1A.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Orders per Five-Month
+
+Month Month Moving Average
+January 120 —
+February 90 _
+March 100 —_
+April 75 —
+May 110 =
+June 50 99.0
+July 75 85.0
+August 130 82.0
+September 110 88.0
+October 90 95.0
+
+November —_ 91.0
 --- page 2 ---
 1B.
 Importance of market sizing is given below:
@@ -138,6 +155,26 @@ Q4
 The value of elasticity is interpreted without considering the minus sign. It is the absolute value of ε11
 that matters. If demand is elastic, ε11 > 1 and if demand is less elastic, ε11 < 1.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Here, since the price has fallen by one rupee, which is a finite change, we use the
+concept of arc elasticity. Hence,
+
+€,° =- {AQ,/(Q°+ Q)')} /{AP, / (P,! + P,° )} = {70/ (150+220)}/{-1/(3+4)}
+= - 490/370 = -1.3
+
+2. For the demand function QO, = 50 - 0.8 P, find price elasticity of demand at
+P= 10.
+I
+
+Here, since we have to find elasticity at a point (P, = 10) we use point method.
+€,," =(0Q,/0P,) (P,/Q)
+
+For the demand function Q, = 50 - 0.8 P,, dQ, /dP, = -0.8
+
+At P=10, we get, Q=50 - 0.8 (10) = 42.
+
+By substituting the above values we get €,," = - 0.8 (10/42) = -0.2
 --- page 6 ---
 Q5
 CUSTOMER LIFETIME VALUE (CLV):
@@ -159,11 +196,73 @@ towards its products.
 A.
 B.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+CAC = $250,000 (campaign) / 2,000 (new customers) = $125
+Annual revenue = $100 (spend) X 25 (visits) = $2,500
+
+Annual profit = $2,500 (revenue) X 4% (margin) = $100
+
+Lifetime = 1/40% (churn) = 2.5 years
+
+Lifetime profit = $100 X 2.5 years = $250
+
+CLV = $250 (lifetime profit) less $125 (CAC) = $125 (which is OK)
+
+Campaign cost = $25,000 (online) + $35,000 (billboard) + $15,000 (influencer) $50
+(discount) X 300 (new customers) = $90,000
+
+CAC = $90,000 (campaign) / 300 (new customers) = $300
+
+Annual revenue = $100 (spend) X 60 (visits) = $6,000
+
+Annual profit = $6,000 (revenue) X 5% (margin) less $50 (annual discount) = $250
+Lifetime = 1/50% (churn) = 2 years
+
+Lifetime profit = $250 X 2 years = $500
+
+CLV = $500 (lifetime profit) less $300 (CAC) = $200 (which is OK)
 --- page 7 ---
 Q6
 The computations necessary to compute aand busing the least squares formulas are
 summarized in the accompanying table:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Least Squares Computations
+
+x y
+(Wins) (Attendance, 1000s) xy x?
+4 36.3 145.2 16
+6 40.1 240.6 36
+6 41.2 247.2 36
+8 53.0 424.0 64
+6 44.0 264.0 36
+7 45.6 319.2 49
+5 39.0 195.0 25
+_7 47.5 332.5 49
+49 346.9 2167.7 311
+49
+x 8 6.125
+_ 346.9
+y= = 4336
+8
+5 Zxy — nxy
+x? — nx?
+
+(2167.7) — (8)(6.125)(43.36)
+(311) — (8)(6.125)?
+= 4.06
+a= y— bx
+= 43.36 — (4.06)(6.125)
+= 18.46
+
+Substituting these values for a and b into the linear equation line, we have
+y = 1846 + 4.06x
+Thus, for x = 7 (wins), the forecast for attendance is
+
+y = 1846 + 4.06(7)
+= 46.88, or 46.880
 --- page 8 ---
 Q7
 
@@ -254,6 +353,23 @@ Instructions:
 8. Assume Suitable data if necessary.
 1A.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Orders per Five-Month
+
+Month Month Moving Average
+January 120 —
+February 90 _
+March 100 —_
+April 75 —
+May 110 =
+June 50 99.0
+July 75 85.0
+August 130 82.0
+September 110 88.0
+October 90 95.0
+
+November —_ 91.0
 --- page 2 ---
 1B.
 Importance of market sizing is given below:
@@ -360,6 +476,26 @@ Q4
 The value of elasticity is interpreted without considering the minus sign. It is the absolute value of ε11
 that matters. If demand is elastic, ε11 > 1 and if demand is less elastic, ε11 < 1.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Here, since the price has fallen by one rupee, which is a finite change, we use the
+concept of arc elasticity. Hence,
+
+€,° =- {AQ,/(Q°+ Q)')} /{AP, / (P,! + P,° )} = {70/ (150+220)}/{-1/(3+4)}
+= - 490/370 = -1.3
+
+2. For the demand function QO, = 50 - 0.8 P, find price elasticity of demand at
+P= 10.
+I
+
+Here, since we have to find elasticity at a point (P, = 10) we use point method.
+€,," =(0Q,/0P,) (P,/Q)
+
+For the demand function Q, = 50 - 0.8 P,, dQ, /dP, = -0.8
+
+At P=10, we get, Q=50 - 0.8 (10) = 42.
+
+By substituting the above values we get €,," = - 0.8 (10/42) = -0.2
 --- page 6 ---
 Q5
 CUSTOMER LIFETIME VALUE (CLV):
@@ -381,11 +517,73 @@ towards its products.
 A.
 B.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+CAC = $250,000 (campaign) / 2,000 (new customers) = $125
+Annual revenue = $100 (spend) X 25 (visits) = $2,500
+
+Annual profit = $2,500 (revenue) X 4% (margin) = $100
+
+Lifetime = 1/40% (churn) = 2.5 years
+
+Lifetime profit = $100 X 2.5 years = $250
+
+CLV = $250 (lifetime profit) less $125 (CAC) = $125 (which is OK)
+
+Campaign cost = $25,000 (online) + $35,000 (billboard) + $15,000 (influencer) $50
+(discount) X 300 (new customers) = $90,000
+
+CAC = $90,000 (campaign) / 300 (new customers) = $300
+
+Annual revenue = $100 (spend) X 60 (visits) = $6,000
+
+Annual profit = $6,000 (revenue) X 5% (margin) less $50 (annual discount) = $250
+Lifetime = 1/50% (churn) = 2 years
+
+Lifetime profit = $250 X 2 years = $500
+
+CLV = $500 (lifetime profit) less $300 (CAC) = $200 (which is OK)
 --- page 7 ---
 Q6
 The computations necessary to compute aand busing the least squares formulas are
 summarized in the accompanying table:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Least Squares Computations
+
+x y
+(Wins) (Attendance, 1000s) xy x?
+4 36.3 145.2 16
+6 40.1 240.6 36
+6 41.2 247.2 36
+8 53.0 424.0 64
+6 44.0 264.0 36
+7 45.6 319.2 49
+5 39.0 195.0 25
+_7 47.5 332.5 49
+49 346.9 2167.7 311
+49
+x 8 6.125
+_ 346.9
+y= = 4336
+8
+5 Zxy — nxy
+x? — nx?
+
+(2167.7) — (8)(6.125)(43.36)
+(311) — (8)(6.125)?
+= 4.06
+a= y— bx
+= 43.36 — (4.06)(6.125)
+= 18.46
+
+Substituting these values for a and b into the linear equation line, we have
+y = 1846 + 4.06x
+Thus, for x = 7 (wins), the forecast for attendance is
+
+y = 1846 + 4.06(7)
+= 46.88, or 46.880
 --- page 8 ---
 Q7
 
@@ -476,6 +674,23 @@ Instructions:
 8. Assume Suitable data if necessary.
 1A.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Orders per Five-Month
+
+Month Month Moving Average
+January 120 —
+February 90 _
+March 100 —_
+April 75 —
+May 110 =
+June 50 99.0
+July 75 85.0
+August 130 82.0
+September 110 88.0
+October 90 95.0
+
+November —_ 91.0
 --- page 2 ---
 1B.
 Importance of market sizing is given below:
@@ -582,6 +797,26 @@ Q4
 The value of elasticity is interpreted without considering the minus sign. It is the absolute value of ε11
 that matters. If demand is elastic, ε11 > 1 and if demand is less elastic, ε11 < 1.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Here, since the price has fallen by one rupee, which is a finite change, we use the
+concept of arc elasticity. Hence,
+
+€,° =- {AQ,/(Q°+ Q)')} /{AP, / (P,! + P,° )} = {70/ (150+220)}/{-1/(3+4)}
+= - 490/370 = -1.3
+
+2. For the demand function QO, = 50 - 0.8 P, find price elasticity of demand at
+P= 10.
+I
+
+Here, since we have to find elasticity at a point (P, = 10) we use point method.
+€,," =(0Q,/0P,) (P,/Q)
+
+For the demand function Q, = 50 - 0.8 P,, dQ, /dP, = -0.8
+
+At P=10, we get, Q=50 - 0.8 (10) = 42.
+
+By substituting the above values we get €,," = - 0.8 (10/42) = -0.2
 --- page 6 ---
 Q5
 CUSTOMER LIFETIME VALUE (CLV):
@@ -603,11 +838,73 @@ towards its products.
 A.
 B.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+CAC = $250,000 (campaign) / 2,000 (new customers) = $125
+Annual revenue = $100 (spend) X 25 (visits) = $2,500
+
+Annual profit = $2,500 (revenue) X 4% (margin) = $100
+
+Lifetime = 1/40% (churn) = 2.5 years
+
+Lifetime profit = $100 X 2.5 years = $250
+
+CLV = $250 (lifetime profit) less $125 (CAC) = $125 (which is OK)
+
+Campaign cost = $25,000 (online) + $35,000 (billboard) + $15,000 (influencer) $50
+(discount) X 300 (new customers) = $90,000
+
+CAC = $90,000 (campaign) / 300 (new customers) = $300
+
+Annual revenue = $100 (spend) X 60 (visits) = $6,000
+
+Annual profit = $6,000 (revenue) X 5% (margin) less $50 (annual discount) = $250
+Lifetime = 1/50% (churn) = 2 years
+
+Lifetime profit = $250 X 2 years = $500
+
+CLV = $500 (lifetime profit) less $300 (CAC) = $200 (which is OK)
 --- page 7 ---
 Q6
 The computations necessary to compute aand busing the least squares formulas are
 summarized in the accompanying table:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Least Squares Computations
+
+x y
+(Wins) (Attendance, 1000s) xy x?
+4 36.3 145.2 16
+6 40.1 240.6 36
+6 41.2 247.2 36
+8 53.0 424.0 64
+6 44.0 264.0 36
+7 45.6 319.2 49
+5 39.0 195.0 25
+_7 47.5 332.5 49
+49 346.9 2167.7 311
+49
+x 8 6.125
+_ 346.9
+y= = 4336
+8
+5 Zxy — nxy
+x? — nx?
+
+(2167.7) — (8)(6.125)(43.36)
+(311) — (8)(6.125)?
+= 4.06
+a= y— bx
+= 43.36 — (4.06)(6.125)
+= 18.46
+
+Substituting these values for a and b into the linear equation line, we have
+y = 1846 + 4.06x
+Thus, for x = 7 (wins), the forecast for attendance is
+
+y = 1846 + 4.06(7)
+= 46.88, or 46.880
 --- page 8 ---
 Q7
 
@@ -698,6 +995,23 @@ Instructions:
 8. Assume Suitable data if necessary.
 1A.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Orders per Five-Month
+
+Month Month Moving Average
+January 120 —
+February 90 _
+March 100 —_
+April 75 —
+May 110 =
+June 50 99.0
+July 75 85.0
+August 130 82.0
+September 110 88.0
+October 90 95.0
+
+November —_ 91.0
 --- page 2 ---
 1B.
 Importance of market sizing is given below:
@@ -804,6 +1118,26 @@ Q4
 The value of elasticity is interpreted without considering the minus sign. It is the absolute value of ε11
 that matters. If demand is elastic, ε11 > 1 and if demand is less elastic, ε11 < 1.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Here, since the price has fallen by one rupee, which is a finite change, we use the
+concept of arc elasticity. Hence,
+
+€,° =- {AQ,/(Q°+ Q)')} /{AP, / (P,! + P,° )} = {70/ (150+220)}/{-1/(3+4)}
+= - 490/370 = -1.3
+
+2. For the demand function QO, = 50 - 0.8 P, find price elasticity of demand at
+P= 10.
+I
+
+Here, since we have to find elasticity at a point (P, = 10) we use point method.
+€,," =(0Q,/0P,) (P,/Q)
+
+For the demand function Q, = 50 - 0.8 P,, dQ, /dP, = -0.8
+
+At P=10, we get, Q=50 - 0.8 (10) = 42.
+
+By substituting the above values we get €,," = - 0.8 (10/42) = -0.2
 --- page 6 ---
 Q5
 CUSTOMER LIFETIME VALUE (CLV):
@@ -825,11 +1159,73 @@ towards its products.
 A.
 B.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+CAC = $250,000 (campaign) / 2,000 (new customers) = $125
+Annual revenue = $100 (spend) X 25 (visits) = $2,500
+
+Annual profit = $2,500 (revenue) X 4% (margin) = $100
+
+Lifetime = 1/40% (churn) = 2.5 years
+
+Lifetime profit = $100 X 2.5 years = $250
+
+CLV = $250 (lifetime profit) less $125 (CAC) = $125 (which is OK)
+
+Campaign cost = $25,000 (online) + $35,000 (billboard) + $15,000 (influencer) $50
+(discount) X 300 (new customers) = $90,000
+
+CAC = $90,000 (campaign) / 300 (new customers) = $300
+
+Annual revenue = $100 (spend) X 60 (visits) = $6,000
+
+Annual profit = $6,000 (revenue) X 5% (margin) less $50 (annual discount) = $250
+Lifetime = 1/50% (churn) = 2 years
+
+Lifetime profit = $250 X 2 years = $500
+
+CLV = $500 (lifetime profit) less $300 (CAC) = $200 (which is OK)
 --- page 7 ---
 Q6
 The computations necessary to compute aand busing the least squares formulas are
 summarized in the accompanying table:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Least Squares Computations
+
+x y
+(Wins) (Attendance, 1000s) xy x?
+4 36.3 145.2 16
+6 40.1 240.6 36
+6 41.2 247.2 36
+8 53.0 424.0 64
+6 44.0 264.0 36
+7 45.6 319.2 49
+5 39.0 195.0 25
+_7 47.5 332.5 49
+49 346.9 2167.7 311
+49
+x 8 6.125
+_ 346.9
+y= = 4336
+8
+5 Zxy — nxy
+x? — nx?
+
+(2167.7) — (8)(6.125)(43.36)
+(311) — (8)(6.125)?
+= 4.06
+a= y— bx
+= 43.36 — (4.06)(6.125)
+= 18.46
+
+Substituting these values for a and b into the linear equation line, we have
+y = 1846 + 4.06x
+Thus, for x = 7 (wins), the forecast for attendance is
+
+y = 1846 + 4.06(7)
+= 46.88, or 46.880
 --- page 8 ---
 Q7
 
@@ -920,6 +1316,23 @@ Instructions:
 8. Assume Suitable data if necessary.
 1A.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Orders per Five-Month
+
+Month Month Moving Average
+January 120 —
+February 90 _
+March 100 —_
+April 75 —
+May 110 =
+June 50 99.0
+July 75 85.0
+August 130 82.0
+September 110 88.0
+October 90 95.0
+
+November —_ 91.0
 --- page 2 ---
 1B.
 Importance of market sizing is given below:
@@ -1026,6 +1439,26 @@ Q4
 The value of elasticity is interpreted without considering the minus sign. It is the absolute value of ε11
 that matters. If demand is elastic, ε11 > 1 and if demand is less elastic, ε11 < 1.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Here, since the price has fallen by one rupee, which is a finite change, we use the
+concept of arc elasticity. Hence,
+
+€,° =- {AQ,/(Q°+ Q)')} /{AP, / (P,! + P,° )} = {70/ (150+220)}/{-1/(3+4)}
+= - 490/370 = -1.3
+
+2. For the demand function QO, = 50 - 0.8 P, find price elasticity of demand at
+P= 10.
+I
+
+Here, since we have to find elasticity at a point (P, = 10) we use point method.
+€,," =(0Q,/0P,) (P,/Q)
+
+For the demand function Q, = 50 - 0.8 P,, dQ, /dP, = -0.8
+
+At P=10, we get, Q=50 - 0.8 (10) = 42.
+
+By substituting the above values we get €,," = - 0.8 (10/42) = -0.2
 --- page 6 ---
 Q5
 CUSTOMER LIFETIME VALUE (CLV):
@@ -1047,11 +1480,73 @@ towards its products.
 A.
 B.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+CAC = $250,000 (campaign) / 2,000 (new customers) = $125
+Annual revenue = $100 (spend) X 25 (visits) = $2,500
+
+Annual profit = $2,500 (revenue) X 4% (margin) = $100
+
+Lifetime = 1/40% (churn) = 2.5 years
+
+Lifetime profit = $100 X 2.5 years = $250
+
+CLV = $250 (lifetime profit) less $125 (CAC) = $125 (which is OK)
+
+Campaign cost = $25,000 (online) + $35,000 (billboard) + $15,000 (influencer) $50
+(discount) X 300 (new customers) = $90,000
+
+CAC = $90,000 (campaign) / 300 (new customers) = $300
+
+Annual revenue = $100 (spend) X 60 (visits) = $6,000
+
+Annual profit = $6,000 (revenue) X 5% (margin) less $50 (annual discount) = $250
+Lifetime = 1/50% (churn) = 2 years
+
+Lifetime profit = $250 X 2 years = $500
+
+CLV = $500 (lifetime profit) less $300 (CAC) = $200 (which is OK)
 --- page 7 ---
 Q6
 The computations necessary to compute aand busing the least squares formulas are
 summarized in the accompanying table:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Least Squares Computations
+
+x y
+(Wins) (Attendance, 1000s) xy x?
+4 36.3 145.2 16
+6 40.1 240.6 36
+6 41.2 247.2 36
+8 53.0 424.0 64
+6 44.0 264.0 36
+7 45.6 319.2 49
+5 39.0 195.0 25
+_7 47.5 332.5 49
+49 346.9 2167.7 311
+49
+x 8 6.125
+_ 346.9
+y= = 4336
+8
+5 Zxy — nxy
+x? — nx?
+
+(2167.7) — (8)(6.125)(43.36)
+(311) — (8)(6.125)?
+= 4.06
+a= y— bx
+= 43.36 — (4.06)(6.125)
+= 18.46
+
+Substituting these values for a and b into the linear equation line, we have
+y = 1846 + 4.06x
+Thus, for x = 7 (wins), the forecast for attendance is
+
+y = 1846 + 4.06(7)
+= 46.88, or 46.880
 --- page 8 ---
 Q7
 
@@ -1192,6 +1687,64 @@ external factors like advertising and media. Their adoption rate is constant ove
 mouth communication and social influence from those who have already adopted.
 Q2
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Deis of Primary Data Secondary Data
+
+When a data, which was earlier created by
+
+The data is collected by the researcher| some researchers or organisations for their
+
+himself for finding the solution of a
+
+1) Meaning " own purposes, is used in current research for
+particular problem or situation, is known as|
+a similar purpose, it is known as secondary
+primary data. data
+It is less costly than primary data collection.
+2) Cost The collection of primary data is costly as it The secondary data can be obtained easily,
+
+includes several tools and techniques.
+involving zero or very less amount of money.
+
+It is collected from some already available
+
+3) Sources It is directly collected from respondents. published or unpublished sources.
+
+The methods used for secondary data
+collection include studying and analysing
+reports, journals, census, and different
+databases.
+
+The methods used for primary data
+4) Methods _ {collection include interviews,
+questionnaires, observations, and surveys.
+
+The reliability of secondary data is
+comparatively less reliable, as this data)
+belongs to different problem or situation.
+
+Primary data is more reliable as it is original
+
+5) Reliability |
+
+The selection of primary data is scientific in
+nature. It includes forming hypothesis about] The selection of secondary data is manual. It
+
+Se entific the problem or situation, collecting data, and]is selected according to the content of the'
+analysing data to prove the hypothesis right|source and the current research topic.
+or wrong.
+7) Precaution Precautions are relatively nominal in]A lot of precaution is taken in the selection
+collecting primary data than secondary data. |of secondary data.
+8) Form of Form of primary data is like raw which|Secondary data are already processed data
+D. needs to be processed to get meaningful|that needs to be analysed and studied to use|
+ata
+information. in research study.
+it ac} Phe secondary data is not completely
+9) Accuracy Primary data is original and accurate, as it is accurate as it was developed for some other
+
+developed according to the need.
+purpose.
 --- page 3 ---
 Q3
 The benefits of market segmentation are as follows:
@@ -1719,6 +2272,32 @@ o Consumers select the laptop they find most appealing.
 o   Statistical models (such as logistic regression or part-worth
 estimation) are used to analyze choices.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The Bass Diffusion Model formula for new adopters at time t is:
+
+A(t — 1)
+
+ay): (M = Alt =)
+
+f(t)=(p+a-
+Since no one has adopted at t = 0, we calculate:
+
+A(1) = (0.03 + 0.2 x 2, 000, 000 — 0)
+
+0
+> 000-000) * |
+2, 000, 000
+A(1) = (0.03) x (2,000, 000)
+A(1) = 60,000 (New Adopters at t = 1)
+Cumulative adopters at t = 1:
+
+C(1) = A(0) + A(1) = 0 + 60, 000 = 60, 000
+
+To determine the total number of possible product profiles, we use the formula
+
+Total Combinations = (Number of Processor Options) x (Number of RAM Optious) x (Number of Storage Options
+=(2)xQ)xQ)=8
 --- page 7 ---
 o Each attribute level is assigned a utility score (preference value).
 o Example: If Intel i7 is consistently chosen over Intel i5, it will have a
@@ -2046,6 +2625,51 @@ Conjoint Analysis is a statistical technique used to determine how consumers val
 different attributes of a product or service. It helps businesses understand which features
 are most important to customers and how they influence purchasing decisions.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+We use the Bass Diffusion Model equation:
+
+aN(t) _
+
+YO — pi — n(n) +a™ O(a — Nee]
+
+Step 1: Initial Conditions
+e M =1,000, 000
+¢ p=0.02
+© q=0.3
+
+¢ N(0) = 0 (initial adopters are zero)
+
+At t = 1, the adoption rate is:
+
+dN(1)
+dt
+
+N(1)
+
+=p|M—N(1)) +4 [M— N(1)]
+
+Since no one has adopted yet (NV(0) = 0), the equation simplifies to:
+
+dN(1) 0
+——— = 0.02(1 - . ——— 1 -
+dt ~ °-02(1,000, 000 — 0) + 0.3 x =-Fa9-gqq * (1,000, 000 — 0)
+
+N(1
+
+AN(1) _ 9.99 x 1,000, 000
+
+dt
+
+AND) _ 99 000
+dt
+
+So, the number of new adopters at t = 1 is 20,000.
+Since N(0) = 0, the cumulative adopters at t = 1 is:
+
+N(1) = N(0)+ an)
+
+N(1) = 0+ 20, 000 = 20, 000
 --- page 7 ---
 Key Concepts:
 •   Products are broken down into attributes (e.g., screen size, battery life, price).
@@ -2128,4 +2752,12 @@ o   Businesses can adjust pricing or product features to maximize sales.
 o   If Apple is the most preferred brand, but demand drops at $499, they
 might introduce a lower-priced variant to capture more market share.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+To determine the total number of possible product profiles (combinations), we use
+
+the formula:
+
+Total Combinations = (Number of Brand Options) x (Number of Battery Life Options) x (Number of Price Levels)
+= (3) x (3) x (3) =27
 ````

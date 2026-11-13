@@ -44,6 +44,44 @@ Dry bulb temp: It is the temperature that is usually thought of as air temperatu
 true thermodynamic temperature. It is the temperature measured by a regular thermometer
 exposed to the airstream. State example.   (2.5 marks)
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+It must be self-cleansing.
+It must have a seal, preferably not less than 50-mm deep.
+
+It must be strong and full proof against leakage of gas or liquid.
+It must have no z
+
+mechanical or EDHOOMM
+
+moving parts. lh 18e maf 170mm -
+It should — be Crown Wer
+
+ntl ‘wii —— so
+clean-out or other
+means of access to
+
+interior in the event | & ID=63
+of choke. = op=78
+
+It must have no ef
+recess, cavities or | ““ Seed
+pockets that cannot
+be scoured by the
+flow of sewage
+through the trap.
+
+feoee: tes oo Fig. 9.8 Trap Details
+internal projections to catch and hold hair, lint, bits of matches, etc.; but must have a smooth
+inner surface every part of which is automatically scoured by the flow of the sewage or sewer air
+leakage.
+
+The cover must be gas tight and watertight.
+
+Where necessary it must be back-vented.
+
+It must not have concealed partitions, tubes or other invisible parts if defects in construction
+might permit sewer air to enter the house.
 --- page 2 ---
 Wet-bulb temperature is largely determined by both actual air temperature (dry-bulb
 temperature) and humidity, the amount of moisture in the air. State example. (2.5 marks)

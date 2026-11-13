@@ -34,6 +34,20 @@ BL-1
 CO-2; SO-1;   b   Find the current Iy in the network shown using superposition   5
 BL-1   theorem.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Applying KVL to Mesh 1,
+100245° — (3 +/4)1, — /10d, - 1) =0
+(3 +/14)1, —/101, = 100 245°
+Applying KVL to Mesh 2,
+~j10(1, -1,) +/10(1,) = 0
+
+ji0l,=0
+1=0
+Substituting I, in Eq. (i),
+—jl01, = 100245°
+IL= 100245" _ 102135° A
+—j10
 --- page 2 ---
 1
 1.5
@@ -51,6 +65,20 @@ Q.2A   Obtain the branch currents in the network shown.   10
 CO-1; SO-1;
 BL-1
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Even part of P(s)=m(s)=s* +657 +8
+Odd part of P(s)= n(s)= 78° +218
+
+By continued fraction expansion,
+783 + 2ls Jst+60 os($s
+sf +337
+3s? os)rs van(2s
+
+759 +58,
+3
+
+Since all the quotient terms are positive, the polynomial P(s) is Hurwitz.
 --- page 3 ---
 1
 4
@@ -106,6 +134,64 @@ CO-5; SO-1;   + 0+ 6
 BL-3   Z(s) =
 + 
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Writing the V,, equation,
+W, 1 +2-Vyy =0
+1)-(-1)+2-Vn = 0
+
+Vin =5V
+Step H Calculation of /, (Fig. 2.334)
+From Fig. 2.334,
+
+V,=-lh =-h (i)
+
+Meshes | and 2 will form a supermesh.
+Writing the current equation for the supermesh,
+
+h-h=1 -(ii)
+Applying KVL to the outer path of the supermesh,
+W, = +2=0
+-N)-h+2=0
+3h =0
+Solving Eqs (ii) and (iii),
+1, =067A
+1, =1.67A
+Ty =1,=1.67A
+Step IIT Calculation of R,,,
+Ry, == =30
+Ty 1.67
+
+Step IV Calculation of R,
+For maximum power transfer,
+
+R, = Ry =32
+Step V_ Calculation of P,,,, (Fig. 2.335)
+Pog, = = BY 9 og w
+
+FR, 4x3
+
+Applying KVL to Mesh 1,
+
+Vi =6h+5h
+Applying KVL to Mesh 2,
+V,=5h,+71,
+Hence,
+5h =z -Tlr
+he sh -zh
+
+Substituting Eq. (iii) in Eq. (i),
+1 7
+Y, =o: -11} +51
+6 17
+=-h- =!
+5°05
+Comparing Eqs (iii) and (iv) with transmission parameter equations,
+67
+A Bl 5 §
+c pi ji 7
+
+5 5
 --- page 6 ---
 Cauer I Form ‘The Caver 1 form is obtained from continued fraction expansion about the pole at
 infinity
@@ -231,6 +317,20 @@ BL-1
 CO-2; SO-1;   b   Find the current Iy in the network shown using superposition   5
 BL-1   theorem.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Applying KVL to Mesh 1,
+100245° - (3 +/4)I, — 10d, - 1) =0
+(3 +/14)1, -/101, = 100 245°
+Applying KVL to Mesh 2,
+-j10(I, -1,) +/10(1,) = 0
+
+j101,=0
+1,=0
+Substituting I, in Eq. (i),
+—jl01, = 100245°
+I,= 100245" 102135° A
+—j10
 --- page 2 ---
 CO-4; SO-1;   c   Obtain the pole-zero plot of the following functions.   5
 BL-2   𝑠2 + 2𝑠
@@ -242,6 +342,20 @@ Q.2A   Obtain the branch currents in the network shown.   10
 CO-1; SO-1;
 BL-1
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Even part of P(s)=m(s)=s* +657 +8
+Odd part of P(s)= n(s)= 78° +218
+
+By continued fraction expansion,
+783 + 2ls Jst+60 os($s
+sf +337
+3s? os)rs van(2s
+
+759 +58,
+3
+
+Since all the quotient terms are positive, the polynomial P(s) is Hurwitz.
 --- page 3 ---
 Q.2B   For the circuit shown, draw the oriented graph and write (a)   10
 CO-3; SO-1;   incidence matrix, (b) tieset matrix, and (c) cutset matrix.
@@ -272,6 +386,66 @@ CO-5; SO-1;   4𝑠4 + 40𝑠2 + 36
 BL-3   Z(s) =
 𝑠3 + 4𝑠
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Writing the V,, equation,
+W, 1 +2-Vyy =0
+1)-(-1)+2-Vn = 0
+
+Vin =5V
+Step H Calculation of /, (Fig. 2.334)
+From Fig. 2.334,
+
+V,=-lh =-h (i)
+
+Meshes | and 2 will form a supermesh.
+Writing the current equation for the supermesh,
+
+h-h=1 -(ii)
+Applying KVL to the outer path of the supermesh,
+W, = +2=0
+-N)-h+2=0
+3h =0
+Solving Eqs (ii) and (iii),
+1, =067A
+1, =1.67A
+Ty =1,=1.67A
+Step IIT Calculation of R,,,
+Ry, == =30
+Ty 1.67
+
+Step IV Calculation of R,
+For maximum power transfer,
+
+R, = Ry =32
+Step V_ Calculation of P,,,, (Fig. 2.335)
+Pog, = = BY 9 og w
+
+FR, 4x3
+
+Applying KWL to Mesh 1,
+
+Vy = 64451,
+Applying KVL to Mesh 2,
+Vy =5h 471,
+Hence,
+5h =Vs- Ts
+he ty, - Zi,
+5 3
+
+Substituting Eq. (iii) in Eq- (i),
+1 7
+Wy = 6] Fg -sf a
+f ( 5275 2} 2
+6 7
+=-h-—hh
+5° 5°
+Comparing Egs (iii) and (iv) with transmission parameter equations,
+6 17
+AB] |5 5
+c py} ji 7
+
+3.5
 --- page 6 ---
 Cauer I Form ‘The Cauet 1 form is obtained from continued fraction expansion about the pole at
 infinity
@@ -362,6 +536,34 @@ CO-5; SO-1;   b   The Z parameters of a two-port network are Z11 = 20 Ω, Z22 =
 BL-2
 Ω, Z12 = Z21 = 10 Ω. Find Y parameters.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Applying KVL to Mesh 3,
+13 =h)-4h = 23+) =0
+Nth =-2h
+Substituting Eq, (iii) in Eq. (i),
+We4hthth
+=Sh+h
+Substituting Eq. (iii) in Eq. (ii),
+
+=4h-h-h
+=-h+3ly
+Comparing Eqs (iv) and (v) with Z-parameter equations,
+
+[4 2 3
+
+AZ = Zy Zz, ~ Z12 Zn) = (5)(3)-(U)(-I) = 15 +1 = 16
+
+ny AZo,
+Za 3
+
+‘h-parameters
+
+hy =~
+
+Hence, the h-parameters are
+
+[m
 --- page 8 ---
 CO-5; SO-1;   c   Determine Z(s) in the network shown. Find poles and zeros of Z(s) 5
 BL-1   and
@@ -551,6 +753,27 @@ CO-5; SO-
 1;
 BL-2
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Since current through the inductor cannot change instantaneously,
+i(0*)=2A
+For ¢ > 0, the transformed network is shown in Fig. 7.20
+Applying KVL to the mesh for ¢> 0,
+-0.2-0.1s I(s)-31(s)-6/(s)=0
+0.1s/ (s)+ 91(s) = -0.2
+-0.2 -2
+
+I(s)= =
+O0.ls+9 +90
+
+Taking inverse Laplace transform,
+i(t)=—-2e”' for t>0
+
+3
+O.1s
+Ks)
+eT
+Fig. 7.20
 --- page 7 ---
 Q.7C   Find Z parameters of the network shown   5
 CO-5; SO-

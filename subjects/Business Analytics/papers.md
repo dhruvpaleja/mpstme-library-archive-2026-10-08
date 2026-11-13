@@ -144,6 +144,40 @@ b) Interpret the meaning of each regression coefficient. (2 Marks)
 c) Can the regression equation be used for prediction? Justify using the ANOVA
 results. (2 Marks)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Coefficients®
+
+Standardized
+Unstandardized Coefficients Coefficients
+
+Model B Std. Error Beta t Sig.
+
+1 (Constant) 197.084 11.621 16.959 .000
+Tv_Spend 348 047 458 7.338 .000
+Social_Spend 742 104 459 7.345 .000
+Email_Spend 293 134 137 2.191 .030
+Discount_Percent 1.494 529 176 2.824 .005
+
+a. Dependent Variable: Monthly_Sales
+
+Normal P-P Plot of Regression Standardized Residual
+Dependent Variable: Monthly_Sales
+
+os
+
+os
+
+@ 04
+
+02
+
+oo
+09 02 o4 os os
+
+Observed Cum Prob
+
+10
 --- page 4 ---
 d) Determine the coefficient of multiple determination (R²) and interpret its meaning. (2
 Marks)
@@ -769,6 +803,58 @@ Std.   Lower   Upper
 N   Mean   Deviation Bound Bound Minimum Maximum
 1   10   4.80   .919   4.14   5.46   3   6
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+Case 6
+Case 25
+Case 11
+Case 19
+Case 30
+Case 17
+Case 28
+Case 2
+Case 13
+Case 9
+Case 21
+Case 7
+Case 18
+Case 26
+
+5 Case 14
+Case 20
+Case 1
+Case 10
+Case 29
+Case 3
+Case 22
+Case 8
+Case 27
+Case 5
+Case 12
+Case 24
+Case 4
+Case 15
+Case 23
+Case 16
+
+0
+
+Dendrogram using Ward Linkage
+Rescaled Distance Cluster Combine
+10 1
+
+25
+
+=
+
+oT) ol
+19-4
+
+30}
+171
+28-4
+
+13k
 --- page 19 ---
 Saving 2   6   8.67   .516   8.12   9.21   8   9
 s   3   4   6.25   .957   4.73   7.77   5   7
@@ -1142,6 +1228,47 @@ R-squared   .589   .589   .589
 RMSE   128.916   128.916   128.916
 MAPE   3.677   3.677   3.677
 ********** 27 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+0s
+
+0.0
+
+05
+
+410
+
+Demand EV
+
+7 8 9 10 11 12 13 14 15 16
+
+Lag Number
+
+@ Coefficient
+—— Upper Confidence Limit
+== Lower Confidence Limit
+
+10
+
+0s
+
+0.0
+
+0S
+
+410
+
+Demand EV
+
+7 8 9 10 11 12 13 14 15 16
+
+Lag Number
+
+@ Coefficient
+—— Upper Confidence Limit
+== Lower Confidence Limit
 --- page 28 ---
 MaxAPE   14.638   14.638   14.638
 MAE   79.890   79.890   79.890
@@ -1233,6 +1360,28 @@ MAPE   3.512   3.512   3.512
 MaxAPE   11.815   11.815   11.815
 MAE   74.651   74.651   74.651
 ********** 31 **********
+
+[Text in pictures on this page, read by OCR]
+w=" Observed
+
+2800 . mn Fit
+% **2UCL
+2600 eereLCL
+—— Forecast
+2400 9
+3
+a
+a
+2200 =
+S
+2
+a
+2000
+1800
+1600 *s
+
+1 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 32 ---
 MaxAE   297.515   297.515   297.515
 Normalized   9.591   9.591   9.591
@@ -1547,6 +1696,40 @@ b) Interpret the meaning of each regression coefficient. (2 Marks)
 c) Can the regression equation be used for prediction? Justify using the ANOVA
 results. (2 Marks)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Coefficients®
+
+Standardized
+Unstandardized Coefficients Coefficients
+
+Model B Std. Error Beta t Sig.
+
+1 (Constant) 197.084 11.621 16.959 .000
+Tv_Spend 348 047 458 7.338 .000
+Social_Spend 742 104 459 7.345 .000
+Email_Spend 293 134 137 2.191 .030
+Discount_Percent 1.494 529 176 2.824 .005
+
+a. Dependent Variable: Monthly_Sales
+
+Normal P-P Plot of Regression Standardized Residual
+Dependent Variable: Monthly_Sales
+
+os
+
+os
+
+@ 04
+
+02
+
+oo
+09 02 o4 os os
+
+Observed Cum Prob
+
+10
 --- page 4 ---
 d) Determine the coefficient of multiple determination (R²) and interpret its meaning. (2
 Marks)
@@ -2172,6 +2355,58 @@ Std.   Lower   Upper
 N   Mean   Deviation Bound Bound Minimum Maximum
 1   10   4.80   .919   4.14   5.46   3   6
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+Case 6
+Case 25
+Case 11
+Case 19
+Case 30
+Case 17
+Case 28
+Case 2
+Case 13
+Case 9
+Case 21
+Case 7
+Case 18
+Case 26
+
+5 Case 14
+Case 20
+Case 1
+Case 10
+Case 29
+Case 3
+Case 22
+Case 8
+Case 27
+Case 5
+Case 12
+Case 24
+Case 4
+Case 15
+Case 23
+Case 16
+
+0
+
+Dendrogram using Ward Linkage
+Rescaled Distance Cluster Combine
+10 1
+
+25
+
+=
+
+oT) ol
+19-4
+
+30}
+171
+28-4
+
+13k
 --- page 19 ---
 Saving 2   6   8.67   .516   8.12   9.21   8   9
 s   3   4   6.25   .957   4.73   7.77   5   7
@@ -2545,6 +2780,47 @@ R-squared   .589   .589   .589
 RMSE   128.916   128.916   128.916
 MAPE   3.677   3.677   3.677
 ********** 27 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+0s
+
+0.0
+
+05
+
+410
+
+Demand EV
+
+7 8 9 10 11 12 13 14 15 16
+
+Lag Number
+
+@ Coefficient
+—— Upper Confidence Limit
+== Lower Confidence Limit
+
+10
+
+0s
+
+0.0
+
+0S
+
+410
+
+Demand EV
+
+7 8 9 10 11 12 13 14 15 16
+
+Lag Number
+
+@ Coefficient
+—— Upper Confidence Limit
+== Lower Confidence Limit
 --- page 28 ---
 MaxAPE   14.638   14.638   14.638
 MAE   79.890   79.890   79.890
@@ -2636,6 +2912,28 @@ MAPE   3.512   3.512   3.512
 MaxAPE   11.815   11.815   11.815
 MAE   74.651   74.651   74.651
 ********** 31 **********
+
+[Text in pictures on this page, read by OCR]
+w=" Observed
+
+2800 . mn Fit
+% **2UCL
+2600 eereLCL
+—— Forecast
+2400 9
+3
+a
+a
+2200 =
+S
+2
+a
+2000
+1800
+1600 *s
+
+1 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 32 ---
 MaxAE   297.515   297.515   297.515
 Normalized   9.591   9.591   9.591
@@ -2950,6 +3248,40 @@ b) Interpret the meaning of each regression coefficient. (2 Marks)
 c) Can the regression equation be used for prediction? Justify using the ANOVA
 results. (2 Marks)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Coefficients®
+
+Standardized
+Unstandardized Coefficients Coefficients
+
+Model B Std. Error Beta t Sig.
+
+1 (Constant) 197.084 11.621 16.959 .000
+Tv_Spend 348 047 458 7.338 .000
+Social_Spend 742 104 459 7.345 .000
+Email_Spend 293 134 137 2.191 .030
+Discount_Percent 1.494 529 176 2.824 .005
+
+a. Dependent Variable: Monthly_Sales
+
+Normal P-P Plot of Regression Standardized Residual
+Dependent Variable: Monthly_Sales
+
+os
+
+os
+
+@ 04
+
+02
+
+oo
+09 02 o4 os os
+
+Observed Cum Prob
+
+10
 --- page 4 ---
 d) Determine the coefficient of multiple determination (R²) and interpret its meaning. (2
 Marks)
@@ -3575,6 +3907,58 @@ Std.   Lower   Upper
 N   Mean   Deviation Bound Bound Minimum Maximum
 1   10   4.80   .919   4.14   5.46   3   6
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+Case 6
+Case 25
+Case 11
+Case 19
+Case 30
+Case 17
+Case 28
+Case 2
+Case 13
+Case 9
+Case 21
+Case 7
+Case 18
+Case 26
+
+5 Case 14
+Case 20
+Case 1
+Case 10
+Case 29
+Case 3
+Case 22
+Case 8
+Case 27
+Case 5
+Case 12
+Case 24
+Case 4
+Case 15
+Case 23
+Case 16
+
+0
+
+Dendrogram using Ward Linkage
+Rescaled Distance Cluster Combine
+10 1
+
+25
+
+=
+
+oT) ol
+19-4
+
+30}
+171
+28-4
+
+13k
 --- page 19 ---
 Saving 2   6   8.67   .516   8.12   9.21   8   9
 s   3   4   6.25   .957   4.73   7.77   5   7
@@ -3948,6 +4332,47 @@ R-squared   .589   .589   .589
 RMSE   128.916   128.916   128.916
 MAPE   3.677   3.677   3.677
 ********** 27 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+0s
+
+0.0
+
+05
+
+410
+
+Demand EV
+
+7 8 9 10 11 12 13 14 15 16
+
+Lag Number
+
+@ Coefficient
+—— Upper Confidence Limit
+== Lower Confidence Limit
+
+10
+
+0s
+
+0.0
+
+0S
+
+410
+
+Demand EV
+
+7 8 9 10 11 12 13 14 15 16
+
+Lag Number
+
+@ Coefficient
+—— Upper Confidence Limit
+== Lower Confidence Limit
 --- page 28 ---
 MaxAPE   14.638   14.638   14.638
 MAE   79.890   79.890   79.890
@@ -4039,6 +4464,28 @@ MAPE   3.512   3.512   3.512
 MaxAPE   11.815   11.815   11.815
 MAE   74.651   74.651   74.651
 ********** 31 **********
+
+[Text in pictures on this page, read by OCR]
+w=" Observed
+
+2800 . mn Fit
+% **2UCL
+2600 eereLCL
+—— Forecast
+2400 9
+3
+a
+a
+2200 =
+S
+2
+a
+2000
+1800
+1600 *s
+
+1 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 32 ---
 MaxAE   297.515   297.515   297.515
 Normalized   9.591   9.591   9.591
@@ -4353,6 +4800,40 @@ b) Interpret the meaning of each regression coefficient. (2 Marks)
 c) Can the regression equation be used for prediction? Justify using the ANOVA
 results. (2 Marks)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Coefficients®
+
+Standardized
+Unstandardized Coefficients Coefficients
+
+Model B Std. Error Beta t Sig.
+
+1 (Constant) 197.084 11.621 16.959 .000
+Tv_Spend 348 047 458 7.338 .000
+Social_Spend 742 104 459 7.345 .000
+Email_Spend 293 134 137 2.191 .030
+Discount_Percent 1.494 529 176 2.824 .005
+
+a. Dependent Variable: Monthly_Sales
+
+Normal P-P Plot of Regression Standardized Residual
+Dependent Variable: Monthly_Sales
+
+os
+
+os
+
+@ 04
+
+02
+
+oo
+09 02 o4 os os
+
+Observed Cum Prob
+
+10
 --- page 4 ---
 d) Determine the coefficient of multiple determination (R²) and interpret its meaning. (2
 Marks)
@@ -4978,6 +5459,58 @@ Std.   Lower   Upper
 N   Mean   Deviation Bound Bound Minimum Maximum
 1   10   4.80   .919   4.14   5.46   3   6
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+Case 6
+Case 25
+Case 11
+Case 19
+Case 30
+Case 17
+Case 28
+Case 2
+Case 13
+Case 9
+Case 21
+Case 7
+Case 18
+Case 26
+
+5 Case 14
+Case 20
+Case 1
+Case 10
+Case 29
+Case 3
+Case 22
+Case 8
+Case 27
+Case 5
+Case 12
+Case 24
+Case 4
+Case 15
+Case 23
+Case 16
+
+0
+
+Dendrogram using Ward Linkage
+Rescaled Distance Cluster Combine
+10 1
+
+25
+
+=
+
+oT) ol
+19-4
+
+30}
+171
+28-4
+
+13k
 --- page 19 ---
 Saving 2   6   8.67   .516   8.12   9.21   8   9
 s   3   4   6.25   .957   4.73   7.77   5   7
@@ -5351,6 +5884,47 @@ R-squared   .589   .589   .589
 RMSE   128.916   128.916   128.916
 MAPE   3.677   3.677   3.677
 ********** 27 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+0s
+
+0.0
+
+05
+
+410
+
+Demand EV
+
+7 8 9 10 11 12 13 14 15 16
+
+Lag Number
+
+@ Coefficient
+—— Upper Confidence Limit
+== Lower Confidence Limit
+
+10
+
+0s
+
+0.0
+
+0S
+
+410
+
+Demand EV
+
+7 8 9 10 11 12 13 14 15 16
+
+Lag Number
+
+@ Coefficient
+—— Upper Confidence Limit
+== Lower Confidence Limit
 --- page 28 ---
 MaxAPE   14.638   14.638   14.638
 MAE   79.890   79.890   79.890
@@ -5442,6 +6016,28 @@ MAPE   3.512   3.512   3.512
 MaxAPE   11.815   11.815   11.815
 MAE   74.651   74.651   74.651
 ********** 31 **********
+
+[Text in pictures on this page, read by OCR]
+w=" Observed
+
+2800 . mn Fit
+% **2UCL
+2600 eereLCL
+—— Forecast
+2400 9
+3
+a
+a
+2200 =
+S
+2
+a
+2000
+1800
+1600 *s
+
+1 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 32 ---
 MaxAE   297.515   297.515   297.515
 Normalized   9.591   9.591   9.591
@@ -5756,6 +6352,40 @@ b) Interpret the meaning of each regression coefficient. (2 Marks)
 c) Can the regression equation be used for prediction? Justify using the ANOVA
 results. (2 Marks)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Coefficients®
+
+Standardized
+Unstandardized Coefficients Coefficients
+
+Model B Std. Error Beta t Sig.
+
+1 (Constant) 197.084 11.621 16.959 .000
+Tv_Spend 348 047 458 7.338 .000
+Social_Spend 742 104 459 7.345 .000
+Email_Spend 293 134 137 2.191 .030
+Discount_Percent 1.494 529 176 2.824 .005
+
+a. Dependent Variable: Monthly_Sales
+
+Normal P-P Plot of Regression Standardized Residual
+Dependent Variable: Monthly_Sales
+
+os
+
+os
+
+@ 04
+
+02
+
+oo
+09 02 o4 os os
+
+Observed Cum Prob
+
+10
 --- page 4 ---
 d) Determine the coefficient of multiple determination (R²) and interpret its meaning. (2
 Marks)
@@ -6381,6 +7011,58 @@ Std.   Lower   Upper
 N   Mean   Deviation Bound Bound Minimum Maximum
 1   10   4.80   .919   4.14   5.46   3   6
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+Case 6
+Case 25
+Case 11
+Case 19
+Case 30
+Case 17
+Case 28
+Case 2
+Case 13
+Case 9
+Case 21
+Case 7
+Case 18
+Case 26
+
+5 Case 14
+Case 20
+Case 1
+Case 10
+Case 29
+Case 3
+Case 22
+Case 8
+Case 27
+Case 5
+Case 12
+Case 24
+Case 4
+Case 15
+Case 23
+Case 16
+
+0
+
+Dendrogram using Ward Linkage
+Rescaled Distance Cluster Combine
+10 1
+
+25
+
+=
+
+oT) ol
+19-4
+
+30}
+171
+28-4
+
+13k
 --- page 19 ---
 Saving 2   6   8.67   .516   8.12   9.21   8   9
 s   3   4   6.25   .957   4.73   7.77   5   7
@@ -6754,6 +7436,47 @@ R-squared   .589   .589   .589
 RMSE   128.916   128.916   128.916
 MAPE   3.677   3.677   3.677
 ********** 27 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+0s
+
+0.0
+
+05
+
+410
+
+Demand EV
+
+7 8 9 10 11 12 13 14 15 16
+
+Lag Number
+
+@ Coefficient
+—— Upper Confidence Limit
+== Lower Confidence Limit
+
+10
+
+0s
+
+0.0
+
+0S
+
+410
+
+Demand EV
+
+7 8 9 10 11 12 13 14 15 16
+
+Lag Number
+
+@ Coefficient
+—— Upper Confidence Limit
+== Lower Confidence Limit
 --- page 28 ---
 MaxAPE   14.638   14.638   14.638
 MAE   79.890   79.890   79.890
@@ -6845,6 +7568,28 @@ MAPE   3.512   3.512   3.512
 MaxAPE   11.815   11.815   11.815
 MAE   74.651   74.651   74.651
 ********** 31 **********
+
+[Text in pictures on this page, read by OCR]
+w=" Observed
+
+2800 . mn Fit
+% **2UCL
+2600 eereLCL
+—— Forecast
+2400 9
+3
+a
+a
+2200 =
+S
+2
+a
+2000
+1800
+1600 *s
+
+1 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 32 ---
 MaxAE   297.515   297.515   297.515
 Normalized   9.591   9.591   9.591
@@ -7101,6 +7846,28 @@ yse,
 Eval
 uate
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Correlations
+
+Attendance_P SocialMedia_
+Final_Marks — Study_Hours ercent Sleep_Hours Hours
+Pearson Correlation Final_Marks 1.000 583 .288 081 +214
+‘Study_Hours 583 1.000 +063 029 093
+Attendance_Percent 288 -.063 1.000 -.203 -.200
+Sleep_Hours 081 029 -.203 1.000 -.097
+SocialMedia_Hours 7214 .093 +200 -.097 1.000
+Sig. (1-tailed) Final_Marks 000 000 181 007
+‘Study_Hours .000 .239 371 147
+Attendance_Percent .000 239 . 011 012
+‘Sleep_Hours 181 371 011 138
+SocialMedia_Hours .007 147 012 138 .
+N Final_Marks 129 129 129 129 129
+‘Study_Hours 129 129 129 129 129
+Attendance_Percent 129 129 129 129 129
+Sleep_Hours 129 129 129 129 129
+
+SocialMedia_Hours 129 129 129 129 129
 --- page 3 ---
 Variables Entered/Removed*
 
@@ -7261,6 +8028,15 @@ perception of hospital services and facilities. A survey was conducted among 100
 and responses were collected on a 5-point Likert scale:
 3;
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Normal P-P Plot of Regression Standardized Residual
+
+Dependent Variable: Final_Marks
+
+00 02 o4 06 08
+
+Observed Cum Prob
 --- page 6 ---
 BL-
 (1 = Strongly Disagree; 2 = Disagree; 3 = Neutral; 4 = Agree; 5 = Strongly Agree)
@@ -7705,6 +8481,40 @@ BL-   4   0.00278
 13   0.00312
 14   0.01967
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Model Summary
+
+-2 Log Cox & Snell Nagelkerke
+Step likelihood R Square R Square
+
+1 17.481% 165 .223
+
+a. Estimation terminated at iteration number 4 because
+parameter estimates changed by less than .001.
+
+Classification Table*
+
+Predicted
+FALL
+Percentage
+Observed 0 1 Correct
+Step 1 FALL i) 4 2 66.7
+1 1 8 88.9
+Overall Percentage 80.0
+
+a. The cut value is .500
+
+Variables in the Equation
+
+B SE. Wald df Sig. Exp(B)
+Step 14 DIFFCLTY 1.011 .896 1.273 1 .259 2.748
+SEASON 832 2 .660
+SEASON(1) 928 | 1.589 341 1 560 2.528
+SEASON(2) | -.418 | 1387 091 1 763 658
+Constant -1.777 | 1.890 884 1 347 169
+
+a. Variable(s) entered on step 1: DIFFCLTY, SEASON.
 --- page 17 ---
 15   0.06945
 16   0.00088
@@ -7838,6 +8648,96 @@ ge 3   5   7.00   .000   .000   7.00   7.00   7   7
 5   5   7.00   .707   .316   6.12   7.88   6   8
 Total   30   6.67   2.426   .443   5.76   7.57   3   10
 ********** 20 **********
+
+[Text in pictures on this page, read by OCR]
+Case 4
+
+Case 16
+Case1
+
+Case 22
+Case 10
+Case 28
+Case 13
+Case 25
+Case7
+
+Case 19
+Case 18
+Case 30
+Case 3
+
+Case 6
+
+Case 9
+
+Case 12
+Case 24
+Case 15
+Case 27
+Case 21
+Case 14
+Case 17
+Case 20
+Case 23
+Case 8
+
+Case 2
+
+CaseS
+
+Case 11
+Case 29
+Case 26
+
+i}
+
+Dendrogram using Ward Linkage
+Rescaled Distance Cluster Combine
+10 15
+1 1
+
+20
+
+25
+
+4G
+16-4
+
+4H
+22-4
+10-—-
+28}
+
+13-4
+25-4
+
+74
+19--—
+18F-—-
+30---
+
+gt
+12F-4
+24-4
+15
+
+274
+21
+14-4
+
+17)
+
+20-4
+
+23-4
+
+24
+
+FS
+29
+
+26-4
 --- page 21 ---
 Bra 1   10   6.30   .675   .213   5.82   6.78   5   7
 nd 2   5   7.00   .000   .000   7.00   7.00   7   7
@@ -8143,6 +9043,45 @@ ACF
 Demand Solar
 ACF
 ********** 28 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+0.0
+
+0S
+
+410
+
+Demand EV
+
+7 8 9 10 11 12 13 14 15 16
+
+Lag Number
+
+@ Coefficient
+—— Upper Confidence Limit
+== Lower Confidence Limit
+
+10
+
+0s
+
+0.0
+
+0S
+
+410
+
+Demand EV
+
+7 8 9 10 11 12 13 14 15 16
+
+Lag Number
+
+@ Coefficient
+—— Upper Confidence Limit
+== Lower Confidence Limit
 --- page 29 ---
 Time Series Modeler
 Model Description
@@ -8154,6 +9093,47 @@ Stationary R-   .589   .589   .589
 squared
 R-squared   .589   .589   .589
 ********** 29 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+0s
+
+0.0
+
+0S
+
+410
+
+Demand EV
+
+7 8 9 10 11 12 13 14 15 16
+
+Lag Number
+
+@ Coefficient
+—— Upper Confidence Limit
+== Lower Confidence Limit
+
+10
+
+0s
+
+0.0
+
+0S
+
+410
+
+Demand EV
+
+7 8 9 10 11 12 13 14 15 16
+
+Lag Number
+
+@ Coefficient
+—— Upper Confidence Limit
+== Lower Confidence Limit
 --- page 30 ---
 RMSE   128.916   128.916   128.916
 MAPE   3.677   3.677   3.677
@@ -8246,6 +9226,28 @@ R-squared   .674   .674   .674
 RMSE   107.369   107.369   107.369
 MAPE   3.512   3.512   3.512
 ********** 33 **********
+
+[Text in pictures on this page, read by OCR]
+w=" Observed
+
+2800 . mn Fit
+% **2UCL
+2600 eereLCL
+—— Forecast
+2400 9
+3
+a
+a
+2200 =
+S
+2
+a
+2000
+1800
+1600 *s
+
+1 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 34 ---
 MaxAPE   11.815   11.815   11.815
 MAE   74.651   74.651   74.651
@@ -8291,6 +9293,28 @@ R-squared   .631   .631   .631
 RMSE   124.523   124.523   124.523
 MAPE   3.755   3.755   3.755
 ********** 35 **********
+
+[Text in pictures on this page, read by OCR]
+w=" Observed
+
+2800 —Fit
+=*2UCL
+2600 were LCL
+——~ Forecast
+2400 9
+3
+5
+2
+2200 =
+6
+a
+2
+2000 le
+1800
+1600
+
+1 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 36 ---
 MaxAPE   12.672   12.672   12.672
 MAE   81.474   81.474   81.474
@@ -9208,6 +10232,64 @@ GymVi 1   7   7.71   .488   .184   7.26   8.17   7   8
 sits   2   7   2.57   .535   .202   2.08   3.07   2   3
 3   4   6.00   .000   .000   6.00   6.00   6   6
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+Case 2
+Case S
+Case 20
+Case 8
+Case 17
+Case 11
+Case 14
+Case 13
+Case 19
+Case 4
+Case 1
+Case7
+Case 10
+Case 16
+Case 6
+Case9
+Case 12
+Case 18
+Case 15
+
+Case 3
+
+0
+
+Dendrogram using Ward Linkage
+Rescaled Distance Cluster Combine
+10 15
+n 1
+
+25
+
+—
+54
+20
+
+at
+174
+14
+144
+13,4
+19}-4
+
+4
+
+iW
+WH
+10-4
+16
+=
+a4
+12)
+
+18-4
+154
+
+3
 --- page 18 ---
 4   2   5.50   .707   .500   -.85 11.85   5   6
 Total 20   5.35   2.277   .509   4.28   6.42   2   8
@@ -9558,6 +10640,28 @@ Model
 _1
 ARIMA Model Parameters
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+os
+
+00
+
+-05
+
+10
+
+Sales
+
+7 8 9 10 11
+Lag Number
+
+12 13 14 15 16
+
+@ Coefficient
+— Upper Confidence Limit
+= Lower Confidence Limit
 --- page 26 ---
 Estimat
 e   SE   t   Sig.
@@ -9632,6 +10736,33 @@ MaxAPE   23.164   23.164   23.164
 MAE   14.943   14.943   14.943
 MaxAE   48.645   48.645   48.645
 ********** 28 **********
+
+[Text in pictures on this page, read by OCR]
+Residual ACF
+
+Residual PACF
+
+23 J
+|
+2
+a
+19 [|
+. i
+45 a
+=
+43 —
+"1 7
+|
+: r
+7
+|
+5 |
+|
+3 re
+; —
+10 05 oo os 10 10 05 0.0 os 1.0
+
+Residual
 --- page 29 ---
 Normalized BIC   6.580   6.580   6.580
 Model Statistics
@@ -9785,6 +10916,36 @@ R-squared   .856   .856   .856
 RMSE   18.405   18.405   18.405
 MAPE   5.049   5.049   5.049
 ********** 34 **********
+
+[Text in pictures on this page, read by OCR]
+Residual ACF
+
+Residual PACF
+
+23 |
+|
+21 5 |
+19 Lo I
+CI |
+17 | |
+a a
+15 = |
+= i
+13 t I
+| |
+"1 | =
+| a
+9 | =
+a i
+' ™ ™
+5 | a
+I a
+3 I
+= =
+1 | |
+10 05 oo os 10 10 05 0.0 os 1.0
+
+Residual
 --- page 35 ---
 MaxAPE   19.230   19.230   19.230
 MAE   13.175   13.175   13.175
@@ -10717,6 +11878,64 @@ GymVi 1   7   7.71   .488   .184   7.26   8.17   7   8
 sits   2   7   2.57   .535   .202   2.08   3.07   2   3
 3   4   6.00   .000   .000   6.00   6.00   6   6
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+Case 2
+Case S
+Case 20
+Case 8
+Case 17
+Case 11
+Case 14
+Case 13
+Case 19
+Case 4
+Case 1
+Case7
+Case 10
+Case 16
+Case 6
+Case9
+Case 12
+Case 18
+Case 15
+
+Case 3
+
+0
+
+Dendrogram using Ward Linkage
+Rescaled Distance Cluster Combine
+10 15
+n 1
+
+25
+
+—
+54
+20
+
+at
+174
+14
+144
+13,4
+19}-4
+
+4
+
+iW
+WH
+10-4
+16
+=
+a4
+12)
+
+18-4
+154
+
+3
 --- page 18 ---
 4   2   5.50   .707   .500   -.85 11.85   5   6
 Total 20   5.35   2.277   .509   4.28   6.42   2   8
@@ -11067,6 +12286,28 @@ Model
 _1
 ARIMA Model Parameters
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+os
+
+00
+
+-05
+
+10
+
+Sales
+
+7 8 9 10 11
+Lag Number
+
+12 13 14 15 16
+
+@ Coefficient
+— Upper Confidence Limit
+= Lower Confidence Limit
 --- page 26 ---
 Estimat
 e   SE   t   Sig.
@@ -11141,6 +12382,33 @@ MaxAPE   23.164   23.164   23.164
 MAE   14.943   14.943   14.943
 MaxAE   48.645   48.645   48.645
 ********** 28 **********
+
+[Text in pictures on this page, read by OCR]
+Residual ACF
+
+Residual PACF
+
+23 J
+|
+2
+a
+19 [|
+. i
+45 a
+=
+43 —
+"1 7
+|
+: r
+7
+|
+5 |
+|
+3 re
+; —
+10 05 oo os 10 10 05 0.0 os 1.0
+
+Residual
 --- page 29 ---
 Normalized BIC   6.580   6.580   6.580
 Model Statistics
@@ -11294,6 +12562,36 @@ R-squared   .856   .856   .856
 RMSE   18.405   18.405   18.405
 MAPE   5.049   5.049   5.049
 ********** 34 **********
+
+[Text in pictures on this page, read by OCR]
+Residual ACF
+
+Residual PACF
+
+23 |
+|
+21 5 |
+19 Lo I
+CI |
+17 | |
+a a
+15 = |
+= i
+13 t I
+| |
+"1 | =
+| a
+9 | =
+a i
+' ™ ™
+5 | a
+I a
+3 I
+= =
+1 | |
+10 05 oo os 10 10 05 0.0 os 1.0
+
+Residual
 --- page 35 ---
 MaxAPE   19.230   19.230   19.230
 MAE   13.175   13.175   13.175
@@ -12226,6 +13524,64 @@ GymVi 1   7   7.71   .488   .184   7.26   8.17   7   8
 sits   2   7   2.57   .535   .202   2.08   3.07   2   3
 3   4   6.00   .000   .000   6.00   6.00   6   6
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+Case 2
+Case S
+Case 20
+Case 8
+Case 17
+Case 11
+Case 14
+Case 13
+Case 19
+Case 4
+Case 1
+Case7
+Case 10
+Case 16
+Case 6
+Case9
+Case 12
+Case 18
+Case 15
+
+Case 3
+
+0
+
+Dendrogram using Ward Linkage
+Rescaled Distance Cluster Combine
+10 15
+n 1
+
+25
+
+—
+54
+20
+
+at
+174
+14
+144
+13,4
+19}-4
+
+4
+
+iW
+WH
+10-4
+16
+=
+a4
+12)
+
+18-4
+154
+
+3
 --- page 18 ---
 4   2   5.50   .707   .500   -.85 11.85   5   6
 Total 20   5.35   2.277   .509   4.28   6.42   2   8
@@ -12576,6 +13932,28 @@ Model
 _1
 ARIMA Model Parameters
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+os
+
+00
+
+-05
+
+10
+
+Sales
+
+7 8 9 10 11
+Lag Number
+
+12 13 14 15 16
+
+@ Coefficient
+— Upper Confidence Limit
+= Lower Confidence Limit
 --- page 26 ---
 Estimat
 e   SE   t   Sig.
@@ -12650,6 +14028,33 @@ MaxAPE   23.164   23.164   23.164
 MAE   14.943   14.943   14.943
 MaxAE   48.645   48.645   48.645
 ********** 28 **********
+
+[Text in pictures on this page, read by OCR]
+Residual ACF
+
+Residual PACF
+
+23 J
+|
+2
+a
+19 [|
+. i
+45 a
+=
+43 —
+"1 7
+|
+: r
+7
+|
+5 |
+|
+3 re
+; —
+10 05 oo os 10 10 05 0.0 os 1.0
+
+Residual
 --- page 29 ---
 Normalized BIC   6.580   6.580   6.580
 Model Statistics
@@ -12803,6 +14208,36 @@ R-squared   .856   .856   .856
 RMSE   18.405   18.405   18.405
 MAPE   5.049   5.049   5.049
 ********** 34 **********
+
+[Text in pictures on this page, read by OCR]
+Residual ACF
+
+Residual PACF
+
+23 |
+|
+21 5 |
+19 Lo I
+CI |
+17 | |
+a a
+15 = |
+= i
+13 t I
+| |
+"1 | =
+| a
+9 | =
+a i
+' ™ ™
+5 | a
+I a
+3 I
+= =
+1 | |
+10 05 oo os 10 10 05 0.0 os 1.0
+
+Residual
 --- page 35 ---
 MaxAPE   19.230   19.230   19.230
 MAE   13.175   13.175   13.175
@@ -23827,6 +25262,16 @@ FuelType=Petrol   1.380   1.066   .023   1.295 .000   .976 1.025
 Eval
 uate
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Histogram
+Dependent Variable: Resale Price (in $1000s)
+
+Mean = -4.46E-15
+Std. Dev. = 0.980
+N=100
+
+Regression Standardized Residual
 --- page 3 ---
 Answer the Following Questions:
 1. What type of model was applied, and why is it appropriate for this scenario? (1 mark)
@@ -23846,6 +25291,19 @@ the predictors? (1 mark)
 10. Analyze the P-P plot. Does it suggest that residuals follow a normal distribution? (1
 mark)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Normal P-P Plot of Regression Standardized Residual
+Dependent Variable: Resale Price (in $1000s)
+1.0
+
+4
+
+00 02 o4 06 08
+
+Observed Cum Prob
+
+1.0
 --- page 4 ---
 11. Examine the residual histogram. Does the distribution appear normal, or are there
 deviations? (1 mark)
@@ -24693,6 +26151,36 @@ Eval
 uate
 Partial Autocorrelations
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+00
+
+05
+
+40
+
+Ethereum Price in US $
+
+1
+
+2°93 4
+
+5 6
+
+7 8 9 10
+Lag Number
+
+11
+
+12 13 14 15
+
+16
+
+© Coefficient
+Upper Confidence Limit
+— Lower Confidence Limit
 --- page 23 ---
 Ethereum Price in US $
 
@@ -24757,6 +26245,32 @@ er of   Norma
 Predic Stationary R-   lized   Statistic
 Model   tors R-squared squared RMSE MAPE BIC   s   DF Sig.
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+os
+
+oo
+
+05
+
+10
+
+Ethereum Price in US $
+
+1
+
+23 4 5 6
+
+7 8 9 10 11
+Lag Number
+
+12 13 14 15 16
+
+© Coefficient
+= Upper Confidence Limit
+Lower Confidence Limit
 --- page 25 ---
 Ethereum   0   .589   .589   128.916 3.677 9.951 17.841 17 .39 0
 Price in US $-   9
@@ -24776,6 +26290,35 @@ estimation period, and end at the last period for which non-missing values of al
 predictors are available or at the end date of the requested forecast period, whichever is
 earlier.
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+Residual ACF
+
+Residual PACF
+
+. Fl
+23
+] a
+2
+H "
+19 | fa
+17 ‘I i
+=) =
+15
+13 = 1
+e ‘
+"
+| I
+9 al :
+7 |
+|
+5 I |
+a |
+3 |__| |_|
+1 = =
+10 05 00 os 1.0 10 05 00 os 1.0
+
+Residual
 --- page 26 ---
 Time Series Modeler
 Model Description
@@ -24849,6 +26392,28 @@ Price in US $-   3
 Model_1
 ARIMA Model Parameters
 ********** 28 **********
+
+[Text in pictures on this page, read by OCR]
+= Observed
+
+2800.00 —Fit
+. sere UCL
+2600.00 m eee bcl
+Zz —Forecast
+g
+2400.00 5
+2
+5
+2200.00 3
+fa
+3
+2000.00 =
+2
+1800.00 _
+1600.00
+
+1 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 29 ---
 Estimate SE   t   Sig.
 Ethereum Ethereum   No   Constant   -16.419 11.435 -1.436   .163
@@ -24865,6 +26430,28 @@ estimation period, and end at the last period for which non-missing values of al
 predictors are available or at the end date of the requested forecast period, whichever is
 earlier.
 ********** 29 **********
+
+[Text in pictures on this page, read by OCR]
+wm Observed
+Fit
+*, sees UCL
+2600.00 te moeretel
+Z ——Forecast
+
+2800.00
+
+2400.00
+
+2200.00
+
+2000.00
+
+1800.00 * - -
+
+1600.00
+
+1 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 30 ---
 Time Series Modeler
 Model Description
@@ -24918,6 +26505,26 @@ Time Series Modeler
 Model Description
 Model Type
 ********** 31 **********
+
+[Text in pictures on this page, read by OCR]
+—— Observed
+
+Fit
+2750.00 se UCL.
+month
+Zz —Forecast
+2500.00 s
+2
+2
+2250.00 2
+3
+=
+2000.00 z
+=
+1750.00
+
+1° 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 32 ---
 Model ID   Ethereum Price in US $   Model_1   ARIMA(1,0,0)
 Model Summary
@@ -25069,6 +26676,16 @@ FuelType=Petrol   1.380   1.066   .023   1.295 .000   .976 1.025
 Eval
 uate
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Histogram
+Dependent Variable: Resale Price (in $1000s)
+
+Mean = -4.46E-15
+Std. Dev. = 0.980
+N=100
+
+Regression Standardized Residual
 --- page 3 ---
 Answer the Following Questions:
 1. What type of model was applied, and why is it appropriate for this scenario? (1 mark)
@@ -25088,6 +26705,19 @@ the predictors? (1 mark)
 10. Analyze the P-P plot. Does it suggest that residuals follow a normal distribution? (1
 mark)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Normal P-P Plot of Regression Standardized Residual
+Dependent Variable: Resale Price (in $1000s)
+1.0
+
+4
+
+00 02 o4 06 08
+
+Observed Cum Prob
+
+1.0
 --- page 4 ---
 11. Examine the residual histogram. Does the distribution appear normal, or are there
 deviations? (1 mark)
@@ -25935,6 +27565,36 @@ Eval
 uate
 Partial Autocorrelations
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+00
+
+05
+
+40
+
+Ethereum Price in US $
+
+1
+
+2°93 4
+
+5 6
+
+7 8 9 10
+Lag Number
+
+11
+
+12 13 14 15
+
+16
+
+© Coefficient
+Upper Confidence Limit
+— Lower Confidence Limit
 --- page 23 ---
 Ethereum Price in US $
 
@@ -25999,6 +27659,32 @@ er of   Norma
 Predic Stationary R-   lized   Statistic
 Model   tors R-squared squared RMSE MAPE BIC   s   DF Sig.
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+os
+
+oo
+
+05
+
+10
+
+Ethereum Price in US $
+
+1
+
+23 4 5 6
+
+7 8 9 10 11
+Lag Number
+
+12 13 14 15 16
+
+© Coefficient
+= Upper Confidence Limit
+Lower Confidence Limit
 --- page 25 ---
 Ethereum   0   .589   .589   128.916 3.677 9.951 17.841 17 .39 0
 Price in US $-   9
@@ -26018,6 +27704,35 @@ estimation period, and end at the last period for which non-missing values of al
 predictors are available or at the end date of the requested forecast period, whichever is
 earlier.
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+Residual ACF
+
+Residual PACF
+
+. Fl
+23
+] a
+2
+H "
+19 | fa
+17 ‘I i
+=) =
+15
+13 = 1
+e ‘
+"
+| I
+9 al :
+7 |
+|
+5 I |
+a |
+3 |__| |_|
+1 = =
+10 05 00 os 1.0 10 05 00 os 1.0
+
+Residual
 --- page 26 ---
 Time Series Modeler
 Model Description
@@ -26091,6 +27806,28 @@ Price in US $-   3
 Model_1
 ARIMA Model Parameters
 ********** 28 **********
+
+[Text in pictures on this page, read by OCR]
+= Observed
+
+2800.00 —Fit
+. sere UCL
+2600.00 m eee bcl
+Zz —Forecast
+g
+2400.00 5
+2
+5
+2200.00 3
+fa
+3
+2000.00 =
+2
+1800.00 _
+1600.00
+
+1 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 29 ---
 Estimate SE   t   Sig.
 Ethereum Ethereum   No   Constant   -16.419 11.435 -1.436   .163
@@ -26107,6 +27844,28 @@ estimation period, and end at the last period for which non-missing values of al
 predictors are available or at the end date of the requested forecast period, whichever is
 earlier.
 ********** 29 **********
+
+[Text in pictures on this page, read by OCR]
+wm Observed
+Fit
+*, sees UCL
+2600.00 te moeretel
+Z ——Forecast
+
+2800.00
+
+2400.00
+
+2200.00
+
+2000.00
+
+1800.00 * - -
+
+1600.00
+
+1 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 30 ---
 Time Series Modeler
 Model Description
@@ -26160,6 +27919,26 @@ Time Series Modeler
 Model Description
 Model Type
 ********** 31 **********
+
+[Text in pictures on this page, read by OCR]
+—— Observed
+
+Fit
+2750.00 se UCL.
+month
+Zz —Forecast
+2500.00 s
+2
+2
+2250.00 2
+3
+=
+2000.00 z
+=
+1750.00
+
+1° 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 32 ---
 Model ID   Ethereum Price in US $   Model_1   ARIMA(1,0,0)
 Model Summary
@@ -26311,6 +28090,16 @@ FuelType=Petrol   1.380   1.066   .023   1.295 .000   .976 1.025
 Eval
 uate
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Histogram
+Dependent Variable: Resale Price (in $1000s)
+
+Mean = -4.46E-15
+Std. Dev. = 0.980
+N=100
+
+Regression Standardized Residual
 --- page 3 ---
 Answer the Following Questions:
 1. What type of model was applied, and why is it appropriate for this scenario? (1 mark)
@@ -26330,6 +28119,19 @@ the predictors? (1 mark)
 10. Analyze the P-P plot. Does it suggest that residuals follow a normal distribution? (1
 mark)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Normal P-P Plot of Regression Standardized Residual
+Dependent Variable: Resale Price (in $1000s)
+1.0
+
+4
+
+00 02 o4 06 08
+
+Observed Cum Prob
+
+1.0
 --- page 4 ---
 11. Examine the residual histogram. Does the distribution appear normal, or are there
 deviations? (1 mark)
@@ -27177,6 +28979,36 @@ Eval
 uate
 Partial Autocorrelations
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+00
+
+05
+
+40
+
+Ethereum Price in US $
+
+1
+
+2°93 4
+
+5 6
+
+7 8 9 10
+Lag Number
+
+11
+
+12 13 14 15
+
+16
+
+© Coefficient
+Upper Confidence Limit
+— Lower Confidence Limit
 --- page 23 ---
 Ethereum Price in US $
 
@@ -27241,6 +29073,32 @@ er of   Norma
 Predic Stationary R-   lized   Statistic
 Model   tors R-squared squared RMSE MAPE BIC   s   DF Sig.
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+os
+
+oo
+
+05
+
+10
+
+Ethereum Price in US $
+
+1
+
+23 4 5 6
+
+7 8 9 10 11
+Lag Number
+
+12 13 14 15 16
+
+© Coefficient
+= Upper Confidence Limit
+Lower Confidence Limit
 --- page 25 ---
 Ethereum   0   .589   .589   128.916 3.677 9.951 17.841 17 .39 0
 Price in US $-   9
@@ -27260,6 +29118,35 @@ estimation period, and end at the last period for which non-missing values of al
 predictors are available or at the end date of the requested forecast period, whichever is
 earlier.
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+Residual ACF
+
+Residual PACF
+
+. Fl
+23
+] a
+2
+H "
+19 | fa
+17 ‘I i
+=) =
+15
+13 = 1
+e ‘
+"
+| I
+9 al :
+7 |
+|
+5 I |
+a |
+3 |__| |_|
+1 = =
+10 05 00 os 1.0 10 05 00 os 1.0
+
+Residual
 --- page 26 ---
 Time Series Modeler
 Model Description
@@ -27333,6 +29220,28 @@ Price in US $-   3
 Model_1
 ARIMA Model Parameters
 ********** 28 **********
+
+[Text in pictures on this page, read by OCR]
+= Observed
+
+2800.00 —Fit
+. sere UCL
+2600.00 m eee bcl
+Zz —Forecast
+g
+2400.00 5
+2
+5
+2200.00 3
+fa
+3
+2000.00 =
+2
+1800.00 _
+1600.00
+
+1 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 29 ---
 Estimate SE   t   Sig.
 Ethereum Ethereum   No   Constant   -16.419 11.435 -1.436   .163
@@ -27349,6 +29258,28 @@ estimation period, and end at the last period for which non-missing values of al
 predictors are available or at the end date of the requested forecast period, whichever is
 earlier.
 ********** 29 **********
+
+[Text in pictures on this page, read by OCR]
+wm Observed
+Fit
+*, sees UCL
+2600.00 te moeretel
+Z ——Forecast
+
+2800.00
+
+2400.00
+
+2200.00
+
+2000.00
+
+1800.00 * - -
+
+1600.00
+
+1 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 30 ---
 Time Series Modeler
 Model Description
@@ -27402,6 +29333,26 @@ Time Series Modeler
 Model Description
 Model Type
 ********** 31 **********
+
+[Text in pictures on this page, read by OCR]
+—— Observed
+
+Fit
+2750.00 se UCL.
+month
+Zz —Forecast
+2500.00 s
+2
+2
+2250.00 2
+3
+=
+2000.00 z
+=
+1750.00
+
+1° 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 32 ---
 Model ID   Ethereum Price in US $   Model_1   ARIMA(1,0,0)
 Model Summary
@@ -27553,6 +29504,16 @@ FuelType=Petrol   1.380   1.066   .023   1.295 .000   .976 1.025
 Eval
 uate
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Histogram
+Dependent Variable: Resale Price (in $1000s)
+
+Mean = -4.46E-15
+Std. Dev. = 0.980
+N=100
+
+Regression Standardized Residual
 --- page 3 ---
 Answer the Following Questions:
 1. What type of model was applied, and why is it appropriate for this scenario? (1 mark)
@@ -27572,6 +29533,19 @@ the predictors? (1 mark)
 10. Analyze the P-P plot. Does it suggest that residuals follow a normal distribution? (1
 mark)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Normal P-P Plot of Regression Standardized Residual
+Dependent Variable: Resale Price (in $1000s)
+1.0
+
+4
+
+00 02 o4 06 08
+
+Observed Cum Prob
+
+1.0
 --- page 4 ---
 11. Examine the residual histogram. Does the distribution appear normal, or are there
 deviations? (1 mark)
@@ -28419,6 +30393,36 @@ Eval
 uate
 Partial Autocorrelations
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+00
+
+05
+
+40
+
+Ethereum Price in US $
+
+1
+
+2°93 4
+
+5 6
+
+7 8 9 10
+Lag Number
+
+11
+
+12 13 14 15
+
+16
+
+© Coefficient
+Upper Confidence Limit
+— Lower Confidence Limit
 --- page 23 ---
 Ethereum Price in US $
 
@@ -28483,6 +30487,32 @@ er of   Norma
 Predic Stationary R-   lized   Statistic
 Model   tors R-squared squared RMSE MAPE BIC   s   DF Sig.
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+os
+
+oo
+
+05
+
+10
+
+Ethereum Price in US $
+
+1
+
+23 4 5 6
+
+7 8 9 10 11
+Lag Number
+
+12 13 14 15 16
+
+© Coefficient
+= Upper Confidence Limit
+Lower Confidence Limit
 --- page 25 ---
 Ethereum   0   .589   .589   128.916 3.677 9.951 17.841 17 .39 0
 Price in US $-   9
@@ -28502,6 +30532,35 @@ estimation period, and end at the last period for which non-missing values of al
 predictors are available or at the end date of the requested forecast period, whichever is
 earlier.
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+Residual ACF
+
+Residual PACF
+
+. Fl
+23
+] a
+2
+H "
+19 | fa
+17 ‘I i
+=) =
+15
+13 = 1
+e ‘
+"
+| I
+9 al :
+7 |
+|
+5 I |
+a |
+3 |__| |_|
+1 = =
+10 05 00 os 1.0 10 05 00 os 1.0
+
+Residual
 --- page 26 ---
 Time Series Modeler
 Model Description
@@ -28575,6 +30634,28 @@ Price in US $-   3
 Model_1
 ARIMA Model Parameters
 ********** 28 **********
+
+[Text in pictures on this page, read by OCR]
+= Observed
+
+2800.00 —Fit
+. sere UCL
+2600.00 m eee bcl
+Zz —Forecast
+g
+2400.00 5
+2
+5
+2200.00 3
+fa
+3
+2000.00 =
+2
+1800.00 _
+1600.00
+
+1 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 29 ---
 Estimate SE   t   Sig.
 Ethereum Ethereum   No   Constant   -16.419 11.435 -1.436   .163
@@ -28591,6 +30672,28 @@ estimation period, and end at the last period for which non-missing values of al
 predictors are available or at the end date of the requested forecast period, whichever is
 earlier.
 ********** 29 **********
+
+[Text in pictures on this page, read by OCR]
+wm Observed
+Fit
+*, sees UCL
+2600.00 te moeretel
+Z ——Forecast
+
+2800.00
+
+2400.00
+
+2200.00
+
+2000.00
+
+1800.00 * - -
+
+1600.00
+
+1 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 30 ---
 Time Series Modeler
 Model Description
@@ -28644,6 +30747,26 @@ Time Series Modeler
 Model Description
 Model Type
 ********** 31 **********
+
+[Text in pictures on this page, read by OCR]
+—— Observed
+
+Fit
+2750.00 se UCL.
+month
+Zz —Forecast
+2500.00 s
+2
+2
+2250.00 2
+3
+=
+2000.00 z
+=
+1750.00
+
+1° 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 32 ---
 Model ID   Ethereum Price in US $   Model_1   ARIMA(1,0,0)
 Model Summary
@@ -28795,6 +30918,16 @@ FuelType=Petrol   1.380   1.066   .023   1.295 .000   .976 1.025
 Eval
 uate
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Histogram
+Dependent Variable: Resale Price (in $1000s)
+
+Mean = -4.46E-15
+Std. Dev. = 0.980
+N=100
+
+Regression Standardized Residual
 --- page 3 ---
 Answer the Following Questions:
 1. What type of model was applied, and why is it appropriate for this scenario? (1 mark)
@@ -28814,6 +30947,19 @@ the predictors? (1 mark)
 10. Analyze the P-P plot. Does it suggest that residuals follow a normal distribution? (1
 mark)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Normal P-P Plot of Regression Standardized Residual
+Dependent Variable: Resale Price (in $1000s)
+1.0
+
+4
+
+00 02 o4 06 08
+
+Observed Cum Prob
+
+1.0
 --- page 4 ---
 11. Examine the residual histogram. Does the distribution appear normal, or are there
 deviations? (1 mark)
@@ -29661,6 +31807,36 @@ Eval
 uate
 Partial Autocorrelations
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+00
+
+05
+
+40
+
+Ethereum Price in US $
+
+1
+
+2°93 4
+
+5 6
+
+7 8 9 10
+Lag Number
+
+11
+
+12 13 14 15
+
+16
+
+© Coefficient
+Upper Confidence Limit
+— Lower Confidence Limit
 --- page 23 ---
 Ethereum Price in US $
 
@@ -29725,6 +31901,32 @@ er of   Norma
 Predic Stationary R-   lized   Statistic
 Model   tors R-squared squared RMSE MAPE BIC   s   DF Sig.
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+os
+
+oo
+
+05
+
+10
+
+Ethereum Price in US $
+
+1
+
+23 4 5 6
+
+7 8 9 10 11
+Lag Number
+
+12 13 14 15 16
+
+© Coefficient
+= Upper Confidence Limit
+Lower Confidence Limit
 --- page 25 ---
 Ethereum   0   .589   .589   128.916 3.677 9.951 17.841 17 .39 0
 Price in US $-   9
@@ -29744,6 +31946,35 @@ estimation period, and end at the last period for which non-missing values of al
 predictors are available or at the end date of the requested forecast period, whichever is
 earlier.
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+Residual ACF
+
+Residual PACF
+
+. Fl
+23
+] a
+2
+H "
+19 | fa
+17 ‘I i
+=) =
+15
+13 = 1
+e ‘
+"
+| I
+9 al :
+7 |
+|
+5 I |
+a |
+3 |__| |_|
+1 = =
+10 05 00 os 1.0 10 05 00 os 1.0
+
+Residual
 --- page 26 ---
 Time Series Modeler
 Model Description
@@ -29817,6 +32048,28 @@ Price in US $-   3
 Model_1
 ARIMA Model Parameters
 ********** 28 **********
+
+[Text in pictures on this page, read by OCR]
+= Observed
+
+2800.00 —Fit
+. sere UCL
+2600.00 m eee bcl
+Zz —Forecast
+g
+2400.00 5
+2
+5
+2200.00 3
+fa
+3
+2000.00 =
+2
+1800.00 _
+1600.00
+
+1 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 29 ---
 Estimate SE   t   Sig.
 Ethereum Ethereum   No   Constant   -16.419 11.435 -1.436   .163
@@ -29833,6 +32086,28 @@ estimation period, and end at the last period for which non-missing values of al
 predictors are available or at the end date of the requested forecast period, whichever is
 earlier.
 ********** 29 **********
+
+[Text in pictures on this page, read by OCR]
+wm Observed
+Fit
+*, sees UCL
+2600.00 te moeretel
+Z ——Forecast
+
+2800.00
+
+2400.00
+
+2200.00
+
+2000.00
+
+1800.00 * - -
+
+1600.00
+
+1 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 30 ---
 Time Series Modeler
 Model Description
@@ -29886,6 +32161,26 @@ Time Series Modeler
 Model Description
 Model Type
 ********** 31 **********
+
+[Text in pictures on this page, read by OCR]
+—— Observed
+
+Fit
+2750.00 se UCL.
+month
+Zz —Forecast
+2500.00 s
+2
+2
+2250.00 2
+3
+=
+2000.00 z
+=
+1750.00
+
+1° 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 32 ---
 Model ID   Ethereum Price in US $   Model_1   ARIMA(1,0,0)
 Model Summary
@@ -30037,6 +32332,16 @@ FuelType=Petrol   1.380   1.066   .023   1.295 .000   .976 1.025
 Eval
 uate
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Histogram
+Dependent Variable: Resale Price (in $1000s)
+
+Mean = -4.46E-15
+Std. Dev. = 0.980
+N=100
+
+Regression Standardized Residual
 --- page 3 ---
 Answer the Following Questions:
 1. What type of model was applied, and why is it appropriate for this scenario? (1 mark)
@@ -30056,6 +32361,19 @@ the predictors? (1 mark)
 10. Analyze the P-P plot. Does it suggest that residuals follow a normal distribution? (1
 mark)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Normal P-P Plot of Regression Standardized Residual
+Dependent Variable: Resale Price (in $1000s)
+1.0
+
+4
+
+00 02 o4 06 08
+
+Observed Cum Prob
+
+1.0
 --- page 4 ---
 11. Examine the residual histogram. Does the distribution appear normal, or are there
 deviations? (1 mark)
@@ -30903,6 +33221,36 @@ Eval
 uate
 Partial Autocorrelations
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+00
+
+05
+
+40
+
+Ethereum Price in US $
+
+1
+
+2°93 4
+
+5 6
+
+7 8 9 10
+Lag Number
+
+11
+
+12 13 14 15
+
+16
+
+© Coefficient
+Upper Confidence Limit
+— Lower Confidence Limit
 --- page 23 ---
 Ethereum Price in US $
 
@@ -30967,6 +33315,32 @@ er of   Norma
 Predic Stationary R-   lized   Statistic
 Model   tors R-squared squared RMSE MAPE BIC   s   DF Sig.
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+os
+
+oo
+
+05
+
+10
+
+Ethereum Price in US $
+
+1
+
+23 4 5 6
+
+7 8 9 10 11
+Lag Number
+
+12 13 14 15 16
+
+© Coefficient
+= Upper Confidence Limit
+Lower Confidence Limit
 --- page 25 ---
 Ethereum   0   .589   .589   128.916 3.677 9.951 17.841 17 .39 0
 Price in US $-   9
@@ -30986,6 +33360,35 @@ estimation period, and end at the last period for which non-missing values of al
 predictors are available or at the end date of the requested forecast period, whichever is
 earlier.
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+Residual ACF
+
+Residual PACF
+
+. Fl
+23
+] a
+2
+H "
+19 | fa
+17 ‘I i
+=) =
+15
+13 = 1
+e ‘
+"
+| I
+9 al :
+7 |
+|
+5 I |
+a |
+3 |__| |_|
+1 = =
+10 05 00 os 1.0 10 05 00 os 1.0
+
+Residual
 --- page 26 ---
 Time Series Modeler
 Model Description
@@ -31059,6 +33462,28 @@ Price in US $-   3
 Model_1
 ARIMA Model Parameters
 ********** 28 **********
+
+[Text in pictures on this page, read by OCR]
+= Observed
+
+2800.00 —Fit
+. sere UCL
+2600.00 m eee bcl
+Zz —Forecast
+g
+2400.00 5
+2
+5
+2200.00 3
+fa
+3
+2000.00 =
+2
+1800.00 _
+1600.00
+
+1 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 29 ---
 Estimate SE   t   Sig.
 Ethereum Ethereum   No   Constant   -16.419 11.435 -1.436   .163
@@ -31075,6 +33500,28 @@ estimation period, and end at the last period for which non-missing values of al
 predictors are available or at the end date of the requested forecast period, whichever is
 earlier.
 ********** 29 **********
+
+[Text in pictures on this page, read by OCR]
+wm Observed
+Fit
+*, sees UCL
+2600.00 te moeretel
+Z ——Forecast
+
+2800.00
+
+2400.00
+
+2200.00
+
+2000.00
+
+1800.00 * - -
+
+1600.00
+
+1 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 30 ---
 Time Series Modeler
 Model Description
@@ -31128,6 +33575,26 @@ Time Series Modeler
 Model Description
 Model Type
 ********** 31 **********
+
+[Text in pictures on this page, read by OCR]
+—— Observed
+
+Fit
+2750.00 se UCL.
+month
+Zz —Forecast
+2500.00 s
+2
+2
+2250.00 2
+3
+=
+2000.00 z
+=
+1750.00
+
+1° 4 7 10 13 16 19 22 25 28 31 34
+Date
 --- page 32 ---
 Model ID   Ethereum Price in US $   Model_1   ARIMA(1,0,0)
 Model Summary

@@ -280,6 +280,38 @@ tenure to avoid a maturity mismatch, which causes a bank’s solvency and liquid
 Functions of Development Banks   (2.5 marks - any 5 point)
 1. Provision of Long-Term and Concessional Finance
 Page 8 of 20
+
+[Text in pictures on this page, read by OCR]
+2) Innovative/recent instruments:
+
+Some of the new financial instruments introduced in recent years may be briefly explained as
+below:
+
+1. Floating rate bonds: The interest rate on these bonds is not fixed. The rate of interest
+of a floating rate bond is linked to a benchmark rate and is reset at a regular interval. Interest
+rate risk is largely mitigated as these bonds will pay higher return when prevailing rates are
+high. There is no certainty of the future stream of income when investing in a floating rate
+bond.
+
+It is a concept which has been introduced primarily to take care of the falling market or to
+provide a cushion in times of falling interest rates in the economy. It helps the issuer to hedge the
+loss arising due to interest rate fluctuations. In India, SBI was the first to introduce FRB for retail
+investors.
+
+. Zero interest bonds: These carry no periodic interest payment. These are sold at a huge
+discount and are repaid at face value. These can be converted into equity shares or non-
+convertible debentures
+
+. Option bonds: Option bonds can be converted into equity or preference shares at the option
+of the investor as per the condition stated in the prospectus. These may be cumulative or non-
+cumulative. In case of cumulative bonds, the interest is accumulated and is payable at maturity.
+In case of non-cumulative bonds, interest is payable at periodic intervals.
+
+4. Warrants: A share warrant is an option to the investor to buy a specified number of equity
+shares at a specified price over a specified period of time. The warrant holder has to surrender
+the warrant and pay some cash known as ‘exercise price’ of the warrant to purchase the shares.
+On exercising the option, the warrant holder becomes a shareholder. Warrant is yet to gain
+popularity in India, due to the complex nature of the instrument.
 --- page 9 ---
 Provide affordable, long-term loans to small-scale industries in backward areas to
 encourage their establishment and growth.

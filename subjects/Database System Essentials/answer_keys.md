@@ -147,6 +147,28 @@ Foreign Key: Establishes relationships
 Diagram (Relational Model)
 Example:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Relational Model in DBMS
+
+—— Course Duration Type
+Primary Key | oasscence | suonin | cononsosea
+
+Full Stack 5 Months Cohort Based
+
+Tuples(Rows)
+
+Software
+
+lope 6 Months 1
+
+Product
+
+‘4 Months Cohort Based
+‘Management
+
+Attributes (Columns)
+BCORD
 --- page 5 ---
 Student Table
 SID Name Course
@@ -176,6 +198,13 @@ Limitations:
 Difficult to represent many-to-many relationships
 Less flexible compared to relational model
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The Hierarchical Database Model
+
+Level 1(child) Level 1(child) Level 1(child)
+
+Level 2 Level 2 Level 2 Level 2 Level 2 Level 2
 --- page 6 ---
 b.
 Design the schema for the given ER Model
@@ -342,6 +371,19 @@ BL-3   i) Give all students enrolled in ‘Data Science’ course a 5% increase 
 marks.
 ii) Find the total number of students.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+View of Data
+a
+
+Database systems are made-up of complex data structures.
+
+To ease the user interaction with database, the developers hide
+internal irrelevant details from users and provides abstract view
+of data to users. This process of hiding irrelevant details from
+user is called Data Abstraction.
+
+Abstraction is one of the main features of database systems.
 --- page 10 ---
 iii) Find the student with highest marks.
 iv) Find the average marks of students in each course.
@@ -529,6 +571,16 @@ FROM Employee
 WHERE salary > 50000
 ORDER BY salary ASC;
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+i) Number of tuples = number of distinct products
+ii) Customers without orders
+iii) Join count = number of matching records
+iv)
+xsupplier_name(supplier >< product > orders)
+7]
+
+meust_name(acategory =' Electronics' (customer ™ orders > product))
 --- page 15 ---
 3.
 SELECT COUNT(*) FROM Employee

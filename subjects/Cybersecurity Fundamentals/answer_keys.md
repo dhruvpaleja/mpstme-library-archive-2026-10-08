@@ -138,6 +138,29 @@ Location 2: Outside an external firewall
 •   IDPS documents the number of attacks originating on the Internet that target
 the network.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+User applications
+
+Utilities
+
+User request interpreter
+User process coordination, synchronization
+Non-TCB xs 5
+User environment: objects, names (e.g., files)
+User /0
+Procedures, user processes
+Creation and deletion of user objects
+Directories
+Extended types
+Vv Segmentation, paging, memory management
+
+Primitive /O
+Basic operations
+TCB Clocks, timing
+Interrupt handling
+Hardware; registers, memory
+Vv Capabilities
 --- page 4 ---
 •   IDPS documents the types of attacks originating on the Internet that target
 the network.
@@ -297,6 +320,29 @@ BL-2
 Advantages of Kerberos
 1. Strong Authentication
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+1. Client Logon
+
+Key Distribution Center
+
+Authentication Server
+
+Client 2 GT
+3 A N
+3 o 3. TGT
+3 3
+: 3
+a > 4. Client-to-Server ticket
+£ 2
+z <
+: ©
+(s)
+oy
+
+Server
+
+Ticket Granting Server
 --- page 8 ---
 2. Mutual Authentication
 3. Single Sign-On (SSO)
@@ -420,6 +466,34 @@ environment in which it is to be used.
  Appropriate measures and mechanisms by which it can enforce that security
 adequately
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+1. RECONNAISSANCE 4, CAPTURE
+
+Attacker leverages information froma Attackers access unprotected systems
+variety of factors to understand their and capture information over an
+target. extended period.
+
+They mi Iso install malware t retl
+2. INCURSION ley may also instal jare to secretly
+
+acquire data or disrupt operations.
+Attackers break into network by using
+social engineering to deliver targeted 5. EXFILTRATION
+malware to vulnerable systems and
+
+people. Captured information is sent back to
+
+attack team’s home base for analysis and
+3. DISCOVERY further exploitation fraud—or worse.
+
+Once in, the attackers stay “low and
+slow” to avoid detection.
+
+They then map the organization's
+defenses from the inside and create a
+battle plan and deploy multiple parallel
+kill chains to ensure success.
 --- page 3 ---
  Independent scrutiny or evaluation to ensure that the mechanisms have
 been selected and implemented properly so that the security policy is in fact
@@ -690,6 +764,20 @@ Recommendation:
 Network Based IDPS
 Justification:
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Host IDS: Examines the data in files stored on host
+and alerts systems administrators of changes
+
+External router
+
+Untrusted
+network
+
+Network IDS: Examines packets on network
+and alerts administrators of unusual patterns
+
+Intrusion Detection Systems
 --- page 9 ---
 Deploy and Configure the NIDPS at the network perimeter to monitor traffic
 coming into your company’s web servers.

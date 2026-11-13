@@ -317,6 +317,14 @@ The estimated change in output is 61.6 units per day. Therefore, the output is e
 b)
 7
 **********   **********
+
+[Text in pictures on this page, read by OCR]
+Currently, 2 = 80 and y = 200, and we are asked ta estimate the change in output
+(dQ) if an additional 3 hour of skilled labor and 2 additional hours of unskilled labor
+
+are used,
+
+This can be done using the differential of the function:
 --- page 8 ---
 2 Mks
 2 Mks
@@ -330,6 +338,18 @@ Since Q(t) approaches 20 as t increases without bound, it follows that approxima
 Q4
 8
 **********   **********
+
+[Text in pictures on this page, read by OCR]
+The rate of infection begins to decline at the inflection point on the graph of O(f).
+By comparing the given formula with the logistic formula O(f) = —
+
+1+4e0°"
+you find that B = 20,4 = 19, and Bk = 1.2. Thus, the inflection point occurs when
+Ind In 19
+== = 2,
+‘ Bk 1.2 404
+
+so the epidemic begins to fade about 2.5 weeks after it starts.
 --- page 9 ---
 a) We want to maximize or minimize f(a, y) = e+ y" subject to the constraint
 
@@ -897,6 +917,45 @@ b
 (1Mks
 (1Mks)
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+a. The cost of manufacturing 10 units is the value of the total cost function when
+gq = 10. That is,
+Cost of 10 units = C(10) ——__—
+= (10) — 30(10)° + 500(10) + 200 (2Mks
+= $3,200 —_
+
+b. The cost of manufacturing the 10th unit is the difference between the cost of
+manufacturing 10 units and the cost of manufacturing 9 units. That is, [—_
+(2Mk:
+
+Cost of 10th unit = C(10) — (9) = 3,200 — 2,999 = $201
+
+We find that
+
+dc 2 ay
+Mw Any a
+mgt 4 and 2 = 04 + 0.03 (1Mks)
+
+so according to the chain rule.
+
+dC dCdx_ [2 \
+
+== =[= +
+
+FOE ( grt 4 (oe 0.03) (1Mks
+When t = 4, the level of production is
+
+x(4) = 0.2(4)* + 0.03(4) = 3.32 units (IMks
+
+dc
+and by substituting t= 4 and x = 3.32 into the formula for aw zet
+
+ac
+
+Flea 7 [2632 a 4 fo) + 0.03] = 10.1277 (1Mks)
+
+Thus, after 4 hours, cost is increasing at the rate of approximately $10.13 per hour.
 --- page 2 ---
 c. +
 Given: v 0-074 “tel ges
@@ -1384,6 +1443,39 @@ a)
 (2 Mks)
 (2 Mks)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+The current level of output is the value of O when x = 30 and y = 20. That is,
+@ = 2(30)? + (30)7(20) + (20)? = 80,000 units
+If output is to be maintained at this level, the relationship between skilled labor x and
+unskilled labor y is given by the equation
+80.000 = 2x7 +x7p +7 (2 Mks)
+
+which defines y implicitly as a function of x.
+The goal is to estimate the change in y that corresponds to a 1-unit increase in x
+
+y caused by a l-unit increase in x can be approximated by the derivative 2 To find
+ag
+
+this derivative, use implicit differentiation. (Remember that the derivative of the con-
+
+stant 80.000 on the left-hand side is zero.)
+
+0 = 6x7 + ea + yy oe) + 32
+
+2dy
+es Dx + 3y7—= ay
+-(? + 9 ie = 6x? + yy
+dy 62 +29 (2 Mks)
+dx xt 3y7
+Now evaluate this derivative when x = 30 and y = 20 to conclude that
+ay _ _6(30)" + 2(30)20) _
+be |E 4 (30)° + 3(20)7
+
+That is, to maintain the current level of output, unskilled labor should be decreased
+by approximately 3.14 hours to offset a 1-hour increase in skilled labor.
+
+Change im y = —3.14 hours
 --- page 14 ---
 b)
 

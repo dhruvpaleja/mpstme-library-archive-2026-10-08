@@ -77,6 +77,25 @@ It consists of three main components:
 • RFID Tag (stores data)
 • RFID Reader (reads data)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+-_—
+
+Extemal
+Relay a Appliance
+
+Temperature
+
+4
+
+t ; External
+Sensor Relay Appliance
+
+Relay [umd External
+[Device \ Appliance
+a Appliance
+
+Power Supply
 --- page 3 ---
 • Antenna (enables communication)
 🔹 Types of RFID (2 Marks)
@@ -500,6 +519,33 @@ A technology used for automatic identification using radio waves.
 Components:
 •   RFID Tag (contains data)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Data Flow 4 Stage loT Architecture
+
+yan Application Layer
+
+Smart Application
+‘Smart Applications and Management
+
+Data Processing Layer
+
+Processing Unit
+Data Analytics/ Decision Unit
+
+Process Information
+
+Network Layer
+
+Data Transmission
+Internet Gateway/ Network Gateway
+Network Technology
+
+Sensing Layer
+
+Data Gathering
+Physical Object
+\ / Sensor and Actuator
 --- page 6 ---
 •   RFID Reader
 • Antenna
@@ -621,6 +667,31 @@ Evaluation Scheme:
 CoAP (Constrained Application Protocol) is a lightweight protocol for
 IoT devices.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Anelicatl | Application | | Business
+pplication || | Layer || ee
+Layer | |
+| | || Application
+| |
+| | |ServiceLayer| | | Eyer
+|
+Network : | | Middleware
+Layer | | : Layer
+| Network | |
+
+|
+b | ; |
+5 | |
+Perception | I
+| | ; |
+| |
+
+) ) |
+
+rd | Middleware
+3-Layer | |   SoA-based = | -based
+Architecture | | Architecture | Architecture
 --- page 11 ---
 Features:
 • Based on UDP
@@ -649,6 +720,24 @@ Ans. Synoptics:
 •   Pattern analysis
 •   Decision making
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+COAP Environment 1
+N 4
+Rest - Internet
+——"
+Vv. loT Device
+| | —]
+. | a | —
+——— | {——}
+= /|¢ >| |—\< >
+°°
+° ‘eu Device
+CoAP Server
+Rest - CoAP
+Proxy
+CoAP Communication <¢—p> CoAP Clients
+HTTP Communication <---> y
 --- page 12 ---
 (c) Hardware (4):
 • ESP32 / Raspberry Pi
@@ -676,6 +765,45 @@ CO-4 A   Sensors are installed in parking slots to detect availability. Users ca
 BL-3   parking status via a mobile app.
 a) Explain the working of the IoT system in this scenario.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Zigbee AY
+
+Door lock
+Contact sensor
+Vibration sensor
+Air quality sensor
+Humidity sensor
+‘Temperature sensor
+
+Zigbee
+gateway
+
+Zigbee \
+
+IR sensor
+
+ight
+Saat <a Lux sensor
+Humidity sensor
+LoRaWAN Temperature sensor
+
+fomeordiiioeenenr ereren—| Central Control Humidity sensor
+CCTV System Temperature sensor
+
+Control valve
+Magnetic door lock
+
+LoRaWAN 5
+
+Digital power meter
+
+‘Smart plug
+Motion sensor
+Air purifier
+
+Modbus
+TCP/P
 --- page 13 ---
 b) Identify suitable communication protocols.
 c) Analyze the challenges in implementing this system.
@@ -726,6 +854,20 @@ HTTP:
 • Request/Response
 •   Higher overhead
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Cloud Layer
+> LT ee
+
+Edge Server
+
+Camera + Raspberry Pi
+
+Edge Layer
+
+IR Sensor +BLE IR Sensor + BLE IR Sensor + BLE
+
+4 Gz 4 4
 --- page 15 ---
 Q6
 CO-2 A   Explain pressure sensors and their IoT applications.   [10]
@@ -742,6 +884,28 @@ Types:
 •   Piezoelectric
 •   Capacitive
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+MQTT HTTP
+
+Publish / Subscribe architecture. Request / Response architecture.
+
+HTTP protocol is to provide any document
+Designed specifically for the use of two or (Text, Json, Image or Video) available across
+more loT devices. the internet.
+MQTT is bidirectional HTTP is unidirectional, meaning the server
+
+only responds to the request from the client.
+
+There can be “N” numbers of messages that | HTTP deals with one request one at a time
+can be sent in both directions.
+
+In MQTT topics are points of target. In HTTP URIs, we can say point of target.
+
+At a time 256MB message size is maximum. | Usually there is no limit for HTTP protocol.
+
+Messages can be distributed from One broker | One to One message distribution.
+to many clients.
 --- page 16 ---
 •   Resistive
 Working:

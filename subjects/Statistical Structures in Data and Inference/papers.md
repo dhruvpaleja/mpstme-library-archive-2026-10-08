@@ -531,7 +531,206 @@ interpretation of the results.
 - Departments: Data Science
 - Programmes: BTech DS 7009, Integrated DS 7038, MBATech DS 7052
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_DS_7009/Statistical Structures in Data and Inference/data_set_Statistical Structures in Data and Inference(702DB0C039)_2025-2026.xlsx` (+2 identical copies)
-- Text: none (spreadsheet data set; no question text)
+- Text: xlsx (4 sheets)
+
+````text
+Sheet "50_startups": 51 rows, 5 columns
+
+R&D Spend | Administration | Marketing Spend | State | Profit
+165349.2 | 136897.8 | 471784.1 | New York | 192261.83
+162597.7 | 151377.59 | 443898.53 | California | 191792.06
+153441.51 | 101145.55 | 407934.54 | Florida | 191050.39
+144372.41 | 118671.85 | 383199.62 | New York | 182901.99
+142107.34 | 91391.77 | 366168.42 | Florida | 166187.94
+131876.9 | 99814.71 | 362861.36 | New York | 156991.12
+134615.46 | 147198.87 | 127716.82 | California | 156122.51
+130298.13 | 145530.06 | 323876.68 | Florida | 155752.6
+120542.52 | 148718.95 | 311613.29 | New York | 152211.77
+123334.88 | 108679.17 | 304981.62 | California | 149759.96
+101913.08 | 110594.11 | 229160.95 | Florida | 146121.95
+100671.96 | 91790.61 | 249744.55 | California | 144259.4
+93863.75 | 127320.38 | 249839.44 | Florida | 141585.52
+91992.39 | 135495.07 | 252664.93 | California | 134307.35
+119943.24 | 156547.42 | 256512.92 | Florida | 132602.65
+114523.61 | 122616.84 | 261776.23 | New York | 129917.04
+78013.11 | 121597.55 | 264346.06 | California | 126992.93
+94657.16 | 145077.58 | 282574.31 | New York | 125370.37
+91749.16 | 114175.79 | 294919.57 | Florida | 124266.9
+86419.7 | 153514.11 | 0 | New York | 122776.86
+76253.86 | 113867.3 | 298664.47 | California | 118474.03
+78389.47 | 153773.43 | 299737.29 | New York | 111313.02
+73994.56 | 122782.75 | 303319.26 | Florida | 110352.25
+67532.53 | 105751.03 | 304768.73 | Florida | 108733.99
+77044.01 | 99281.34 | 140574.81 | New York | 108552.04
+64664.71 | 139553.16 | 137962.62 | California | 107404.34
+75328.87 | 144135.98 | 134050.07 | Florida | 105733.54
+72107.6 | 127864.55 | 353183.81 | New York | 105008.31
+66051.52 | 182645.56 | 118148.2 | Florida | 103282.38
+65605.48 | 153032.06 | 107138.38 | New York | 101004.64
+61994.48 | 115641.28 | 91131.24 | Florida | 99937.59
+61136.38 | 152701.92 | 88218.23 | New York | 97483.56
+63408.86 | 129219.61 | 46085.25 | California | 97427.84
+55493.95 | 103057.49 | 214634.81 | Florida | 96778.92
+46426.07 | 157693.92 | 210797.67 | California | 96712.8
+46014.02 | 85047.44 | 205517.64 | New York | 96479.51
+28663.76 | 127056.21 | 201126.82 | Florida | 90708.19
+44069.95 | 51283.14 | 197029.42 | California | 89949.14
+20229.59 | 65947.93 | 185265.1 | New York | 81229.06
+38558.51 | 82982.09 | 174999.3 | California | 81005.76
+28754.33 | 118546.05 | 172795.67 | California | 78239.91
+27892.92 | 84710.77 | 164470.71 | Florida | 77798.83
+23640.93 | 96189.63 | 148001.11 | California | 71498.49
+15505.73 | 127382.3 | 35534.17 | New York | 69758.98
+22177.74 | 154806.14 | 28334.72 | California | 65200.33
+1000.23 | 124153.04 | 1903.93 | New York | 64926.08
+1315.46 | 115816.21 | 297114.46 | Florida | 49490.75
+0 | 135426.92 | 0 | California | 42559.73
+542.05 | 51743.15 | 0 | New York | 35673.41
+0 | 116983.8 | 45173.06 | California | 14681.4
+--- page 2 ---
+Sheet "Fuel _Efficiency": 101 rows, 2 columns
+
+Engine_Speed | Efficiency
+3.745401188 | 5.951905602
+9.507143064 | 26.07344073
+7.319939418 | 15.01445984
+5.986584842 | 5.98470668
+1.560186404 | 6.097187819
+1.559945203 | 7.251104052
+0.580836122 | 11.38196502
+8.661761458 | 20.49123097
+6.011150117 | 8.416525309
+7.080725778 | 12.82264735
+0.205844943 | 11.23445548
+9.699098522 | 28.59646272
+8.324426408 | 18.61523788
+2.1233911069999998 | 6.910756442
+1.818249672 | 6.392422017
+1.834045099 | 8.117015397
+3.04242243 | 4.096793644
+5.247564316 | 7.370448385
+4.319450186 | 5.586258091
+2.912291402 | 2.576816503
+6.118528947 | 10.95485195
+1.394938607 | 7.310221583
+2.921446485 | 5.513312241
+3.663618433 | 5.251020446
+4.560699842 | 3.887150515
+7.851759614 | 16.42849503
+1.996737822 | 5.317838466
+5.142344384 | 6.190265192
+5.924145689 | 9.452742581
+0.464504127 | 9.522471374
+6.075448519 | 14.0015636
+1.705241237 | 6.687355753
+0.65051593 | 8.775138479
+9.488855373 | 26.40373019
+9.656320331 | 23.81575774
+8.083973481 | 18.37036543
+3.046137692 | 5.621524763
+0.97672114 | 12.4733129
+6.842330265 | 12.497029
+4.401524937 | 7.08523076
+1.220382348 | 7.014095953
+4.951769101 | 5.067345237
+0.343885211 | 11.31311851
+9.093204021 | 25.56743368
+2.587799816 | 7.16701839
+6.625222844 | 10.25234542
+3.117110761 | 8.312446087
+5.200680212 | 5.117794572
+5.467102793 | 9.717012284
+1.848544555 | 10.54383607
+9.695846278 | 25.93610604
+7.751328234 | 15.65496453
+9.394989416 | 26.14724754
+8.948273504 | 22.18402753
+5.978999788 | 6.835893007
+9.21874235 | 24.97350416
+0.884925021 | 5.612163657
+1.959828624 | 6.988163107
+0.452272889 | 6.906608247
+3.253303308 | 8.631950093
+3.886772897 | 4.326676501
+2.713490318 | 4.896920867
+8.287375092 | 21.10520211
+3.567533267 | 3.199318372
+2.809345097 | 5.973094515
+5.426960832 | 11.05935495
+1.40924225 | 3.550288641
+8.021969808 | 18.47935809
+0.745506437 | 8.561136202
+9.868869366 | 30.65432893
+7.722447693 | 14.17685468
+1.987156815 | 3.372012432
+0.055221171 | 10.87974431
+8.154614285 | 19.37899356
+7.068573438 | 14.27763061
+7.29007168 | 15.39525393
+7.712703467 | 15.24473754
+0.740446517 | 8.517298365
+3.584657285 | 6.257057017
+1.158690595 | 5.766507326
+8.631034259 | 25.08582243
+6.232981268 | 11.67374978
+3.308980249 | 3.165127403
+0.635583503 | 9.608339903
+3.109823217 | 3.556667229
+3.25183322 | 7.105879193
+7.296061783 | 17.04526458
+6.375574714 | 9.555887687
+8.872127426 | 24.66769251
+4.722149252 | 7.808460876
+1.195942459 | 8.771432125
+7.132447872 | 17.83214867
+7.607850486 | 15.62536682
+5.612771976 | 7.40581637
+7.7096718 | 14.81147537
+4.937955964 | 5.746216089
+5.227328294 | 7.826292245
+4.275410184 | 6.995639518
+0.254191267 | 9.823114397
+1.07891427 | 8.999651689
+--- page 3 ---
+Sheet "House_price": 1461 rows, 260 columns; the first 8 rows are shown, the full data set is in the original file
+
+MSSubClass | LotFrontage | LotArea | OverallQual | OverallCond | YearBuilt | YearRemodAdd | MasVnrArea | BsmtFinSF1 | BsmtFinSF2 | BsmtUnfSF | TotalBsmtSF | 1stFlrSF | 2ndFlrSF | LowQualFinSF | GrLivArea | BsmtFullBath | BsmtHalfBath | FullBath | HalfBath | BedroomAbvGr | KitchenAbvGr | TotRmsAbvGrd | Fireplaces | GarageYrBlt | GarageCars | GarageArea | WoodDeckSF | OpenPorchSF | EnclosedPorch | 3SsnPorch | ScreenPorch | PoolArea | MiscVal | MoSold | YrSold | TotalSF | MSZoning_FV | MSZoning_RH | MSZoning_RL | MSZoning_RM | Street_Pave | Alley_None | Alley_Pave | LotShape_IR2 | LotShape_IR3 | LotShape_Reg | LandContour_HLS | LandContour_Low | LandContour_Lvl | Utilities_NoSeWa | LotConfig_CulDSac | LotConfig_FR2 | LotConfig_FR3 | LotConfig_Inside | LandSlope_Mod | LandSlope_Sev | Neighborhood_Blueste | Neighborhood_BrDale | Neighborhood_BrkSide | Neighborhood_ClearCr | Neighborhood_CollgCr | Neighborhood_Crawfor | Neighborhood_Edwards | Neighborhood_Gilbert | Neighborhood_IDOTRR | Neighborhood_MeadowV | Neighborhood_Mitchel | Neighborhood_NAmes | Neighborhood_NPkVill | Neighborhood_NWAmes | Neighborhood_NoRidge | Neighborhood_NridgHt | Neighborhood_OldTown | Neighborhood_SWISU | Neighborhood_Sawyer | Neighborhood_SawyerW | Neighborhood_Somerst | Neighborhood_StoneBr | Neighborhood_Timber | Neighborhood_Veenker | Condition1_Feedr | Condition1_Norm | Condition1_PosA | Condition1_PosN | Condition1_RRAe | Condition1_RRAn | Condition1_RRNe | Condition1_RRNn | Condition2_Feedr | Condition2_Norm | Condition2_PosA | Condition2_PosN | Condition2_RRAe | Condition2_RRAn | Condition2_RRNn | BldgType_2fmCon | BldgType_Duplex | BldgType_Twnhs | BldgType_TwnhsE | HouseStyle_1.5Unf | HouseStyle_1Story | HouseStyle_2.5Fin | HouseStyle_2.5Unf | HouseStyle_2Story | HouseStyle_SFoyer | HouseStyle_SLvl | RoofStyle_Gable | RoofStyle_Gambrel | RoofStyle_Hip | RoofStyle_Mansard | RoofStyle_Shed | RoofMatl_CompShg | RoofMatl_Membran | RoofMatl_Metal | RoofMatl_Roll | RoofMatl_Tar&Grv | RoofMatl_WdShake | RoofMatl_WdShngl | Exterior1st_AsphShn | Exterior1st_BrkComm | Exterior1st_BrkFace | Exterior1st_CBlock | Exterior1st_CemntBd | Exterior1st_HdBoard | Exterior1st_ImStucc | Exterior1st_MetalSd | Exterior1st_Plywood | Exterior1st_Stone | Exterior1st_Stucco | Exterior1st_VinylSd | Exterior1st_Wd Sdng | Exterior1st_WdShing | Exterior2nd_AsphShn | Exterior2nd_Brk Cmn | Exterior2nd_BrkFace | Exterior2nd_CBlock | Exterior2nd_CmentBd | Exterior2nd_HdBoard | Exterior2nd_ImStucc | Exterior2nd_MetalSd | Exterior2nd_Other | Exterior2nd_Plywood | Exterior2nd_Stone | Exterior2nd_Stucco | Exterior2nd_VinylSd | Exterior2nd_Wd Sdng | Exterior2nd_Wd Shng | MasVnrType_BrkFace | MasVnrType_None | MasVnrType_Stone | ExterQual_Fa | ExterQual_Gd | ExterQual_TA | ExterCond_Fa | ExterCond_Gd | ExterCond_Po | ExterCond_TA | Foundation_CBlock | Foundation_PConc | Foundation_Slab | Foundation_Stone | Foundation_Wood | BsmtQual_Fa | BsmtQual_Gd | BsmtQual_None | BsmtQual_TA | BsmtCond_Gd | BsmtCond_None | BsmtCond_Po | BsmtCond_TA | BsmtExposure_Gd | BsmtExposure_Mn | BsmtExposure_No | BsmtExposure_None | BsmtFinType1_BLQ | BsmtFinType1_GLQ | BsmtFinType1_LwQ | BsmtFinType1_None | BsmtFinType1_Rec | BsmtFinType1_Unf | BsmtFinType2_BLQ | BsmtFinType2_GLQ | BsmtFinType2_LwQ | BsmtFinType2_None | BsmtFinType2_Rec | BsmtFinType2_Unf | Heating_GasA | Heating_GasW | Heating_Grav | Heating_OthW | Heating_Wall | HeatingQC_Fa | HeatingQC_Gd | HeatingQC_Po | HeatingQC_TA | CentralAir_Y | Electrical_FuseF | Electrical_FuseP | Electrical_Mix | Electrical_SBrkr | KitchenQual_Fa | KitchenQual_Gd | KitchenQual_TA | Functional_Maj2 | Functional_Min1 | Functional_Min2 | Functional_Mod | Functional_Sev | Functional_Typ | FireplaceQu_Fa | FireplaceQu_Gd | FireplaceQu_None | FireplaceQu_Po | FireplaceQu_TA | GarageType_Attchd | GarageType_Basment | GarageType_BuiltIn | GarageType_CarPort | GarageType_Detchd | GarageType_None | GarageFinish_None | GarageFinish_RFn | GarageFinish_Unf | GarageQual_Fa | GarageQual_Gd | GarageQual_None | GarageQual_Po | GarageQual_TA | GarageCond_Fa | GarageCond_Gd | GarageCond_None | GarageCond_Po | GarageCond_TA | PavedDrive_P | PavedDrive_Y | PoolQC_Fa | PoolQC_Gd | PoolQC_None | Fence_GdWo | Fence_MnPrv | Fence_MnWw | Fence_None | MiscFeature_None | MiscFeature_Othr | MiscFeature_Shed | MiscFeature_TenC | SaleType_CWD | SaleType_Con | SaleType_ConLD | SaleType_ConLI | SaleType_ConLw | SaleType_New | SaleType_Oth | SaleType_WD | SaleCondition_AdjLand | SaleCondition_Alloca | SaleCondition_Family | SaleCondition_Normal | SaleCondition_Partial
+60 | 65 | 8450 | 7 | 5 | 2003 | 2003 | 196 | 706 | 0 | 150 | 856 | 856 | 854 | 0 | 1710 | 1 | 0 | 2 | 1 | 3 | 1 | 8 | 0 | 2003 | 2 | 548 | 0 | 61 | 0 | 0 | 0 | 0 | 0 | 2 | 2008 | 2566 | FALSE | FALSE | TRUE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE
+20 | 80 | 9600 | 6 | 8 | 1976 | 1976 | 0 | 978 | 0 | 284 | 1262 | 1262 | 0 | 0 | 1262 | 0 | 1 | 2 | 0 | 3 | 1 | 6 | 1 | 1976 | 2 | 460 | 298 | 0 | 0 | 0 | 0 | 0 | 0 | 5 | 2007 | 2524 | FALSE | FALSE | TRUE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE
+60 | 68 | 11250 | 7 | 5 | 2001 | 2002 | 162 | 486 | 0 | 434 | 920 | 920 | 866 | 0 | 1786 | 1 | 0 | 2 | 1 | 3 | 1 | 6 | 1 | 2001 | 2 | 608 | 0 | 42 | 0 | 0 | 0 | 0 | 0 | 9 | 2008 | 2706 | FALSE | FALSE | TRUE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE
+70 | 60 | 9550 | 7 | 5 | 1915 | 1970 | 0 | 216 | 0 | 540 | 756 | 961 | 756 | 0 | 1717 | 1 | 0 | 1 | 0 | 3 | 1 | 7 | 1 | 1998 | 3 | 642 | 0 | 35 | 272 | 0 | 0 | 0 | 0 | 2 | 2006 | 2473 | FALSE | FALSE | TRUE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE
+60 | 84 | 14260 | 8 | 5 | 2000 | 2000 | 350 | 655 | 0 | 490 | 1145 | 1145 | 1053 | 0 | 2198 | 1 | 0 | 2 | 1 | 4 | 1 | 9 | 1 | 2000 | 3 | 836 | 192 | 84 | 0 | 0 | 0 | 0 | 0 | 12 | 2008 | 3343 | FALSE | FALSE | TRUE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE
+50 | 85 | 14115 | 5 | 5 | 1993 | 1995 | 0 | 732 | 0 | 64 | 796 | 796 | 566 | 0 | 1362 | 1 | 0 | 1 | 1 | 1 | 1 | 5 | 0 | 1993 | 2 | 480 | 40 | 30 | 0 | 320 | 0 | 0 | 700 | 10 | 2009 | 2158 | FALSE | FALSE | TRUE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE
+20 | 75 | 10084 | 8 | 5 | 2004 | 2005 | 186 | 1369 | 0 | 317 | 1686 | 1694 | 0 | 0 | 1694 | 1 | 0 | 2 | 0 | 3 | 1 | 7 | 1 | 2004 | 2 | 636 | 255 | 57 | 0 | 0 | 0 | 0 | 0 | 8 | 2007 | 3380 | FALSE | FALSE | TRUE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | TRUE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | TRUE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | FALSE | TRUE | FALSE | FALSE | FALSE | TRUE | FALSE
+--- page 4 ---
+Sheet "HR-PR": 54809 rows, 14 columns; the first 25 rows are shown, the full data set is in the original file
+
+employee_id | department | region | education | gender | recruitment_channel | no_of_trainings | age | previous_year_rating | length_of_service | KPIs_met >80% | awards_won? | avg_training_score | is_promoted
+65438 | Sales & Marketing | region_7 | Master's & above | f | sourcing | 1 | 35 | 5 | 8 | 1 | 0 | 49 | 0
+65141 | Operations | region_22 | Bachelor's | m | other | 1 | 30 | 5 | 4 | 0 | 0 | 60 | 0
+7513 | Sales & Marketing | region_19 | Bachelor's | m | sourcing | 1 | 34 | 3 | 7 | 0 | 0 | 50 | 0
+2542 | Sales & Marketing | region_23 | Bachelor's | m | other | 2 | 39 | 1 | 10 | 0 | 0 | 50 | 0
+48945 | Technology | region_26 | Bachelor's | m | other | 1 | 45 | 3 | 2 | 0 | 0 | 73 | 0
+58896 | Analytics | region_2 | Bachelor's | m | sourcing | 2 | 31 | 3 | 7 | 0 | 0 | 85 | 0
+20379 | Operations | region_20 | Bachelor's | f | other | 1 | 31 | 3 | 5 | 0 | 0 | 59 | 0
+16290 | Operations | region_34 | Master's & above | m | sourcing | 1 | 33 | 3 | 6 | 0 | 0 | 63 | 0
+73202 | Analytics | region_20 | Bachelor's | m | other | 1 | 28 | 4 | 5 | 0 | 0 | 83 | 0
+28911 | Sales & Marketing | region_1 | Master's & above | m | sourcing | 1 | 32 | 5 | 5 | 1 | 0 | 54 | 0
+29934 | Technology | region_23 |   | m | sourcing | 1 | 30 |   | 1 | 0 | 0 | 77 | 0
+49017 | Sales & Marketing | region_7 | Bachelor's | f | sourcing | 1 | 35 | 5 | 3 | 1 | 0 | 50 | 1
+60051 | Sales & Marketing | region_4 | Bachelor's | m | sourcing | 1 | 49 | 5 | 5 | 1 | 0 | 49 | 0
+38401 | Technology | region_29 | Master's & above | m | other | 2 | 39 | 3 | 16 | 0 | 0 | 80 | 0
+77040 | R&D | region_2 | Master's & above | m | sourcing | 1 | 37 | 3 | 7 | 0 | 0 | 84 | 0
+43931 | Operations | region_7 | Bachelor's | m | other | 1 | 37 | 1 | 10 | 0 | 0 | 60 | 0
+7152 | Technology | region_2 | Bachelor's | m | other | 1 | 38 | 3 | 5 | 1 | 0 | 77 | 0
+9403 | Sales & Marketing | region_31 | Bachelor's | m | other | 1 | 34 | 1 | 4 | 0 | 0 | 51 | 0
+17436 | Sales & Marketing | region_31 | Bachelor's | m | other | 1 | 34 | 5 | 8 | 1 | 0 | 46 | 0
+54461 | Operations | region_15 | Bachelor's | m | other | 1 | 37 | 3 | 9 | 0 | 0 | 59 | 0
+12067 | Procurement | region_14 | Bachelor's | m | other | 1 | 35 | 3 | 7 | 0 | 0 | 75 | 0
+33332 | Operations | region_15 |   | m | sourcing | 1 | 41 | 4 | 11 | 0 | 0 | 57 | 0
+58789 | Finance | region_11 | Bachelor's | f | other | 1 | 28 | 3 | 4 | 0 | 0 | 63 | 0
+71177 | Procurement | region_5 | Bachelor's | m | other | 1 | 27 |   | 1 | 0 | 0 | 70 | 0
+````
 
 ## 2025-26 · Re-Exam · Sem 4 · paper 87e493db6836
 

@@ -1,6 +1,6 @@
 # Manufacturing
 
-32 subjects, 215 papers, 2745 extracted questions. Each subject folder holds `papers.md` (full text of every paper) and `questions.jsonl` (one record per question with marks, year and exam). Records carry a `departments` field: keep those containing "Manufacturing" to see only this branch's papers.
+32 subjects, 215 papers, 2743 extracted questions. Each subject folder holds `papers.md` (full text of every paper) and `questions.jsonl` (one record per question with marks, year and exam). Records carry a `departments` field: keep those containing "Manufacturing" to see only this branch's papers.
 
 | Subject | Papers for this branch | Questions | Years | Full text | Questions |
 | --- | ---: | ---: | --- | --- | --- |
@@ -33,6 +33,6 @@
 | [Product Design and Development](../../subjects/Product%20Design%20and%20Development/README.md) | 4 | 57 | 2010-11 to 2025-26 | [papers.md](../../subjects/Product%20Design%20and%20Development/papers.md) | [questions.jsonl](../../subjects/Product%20Design%20and%20Development/questions.jsonl) |
 | [Research Methodology](../../subjects/Research%20Methodology/README.md) | 6 | 61 | 2008-09 to 2025-26 | [papers.md](../../subjects/Research%20Methodology/papers.md) | [questions.jsonl](../../subjects/Research%20Methodology/questions.jsonl) |
 | [Safety, Health Environmental Management System](../../subjects/Safety%2C%20Health%20Environmental%20Management%20System/README.md) | 2 | 27 | 2010-11 to 2014-15 | [papers.md](../../subjects/Safety%2C%20Health%20Environmental%20Management%20System/papers.md) | [questions.jsonl](../../subjects/Safety%2C%20Health%20Environmental%20Management%20System/questions.jsonl) |
-| [Strategic Management](../../subjects/Strategic%20Management/README.md) | 9 | 62 | 2008-09 to 2025-26 | [papers.md](../../subjects/Strategic%20Management/papers.md) | [questions.jsonl](../../subjects/Strategic%20Management/questions.jsonl) |
+| [Strategic Management](../../subjects/Strategic%20Management/README.md) | 9 | 60 | 2008-09 to 2025-26 | [papers.md](../../subjects/Strategic%20Management/papers.md) | [questions.jsonl](../../subjects/Strategic%20Management/questions.jsonl) |
 | [Supply Chain Management](../../subjects/Supply%20Chain%20Management/README.md) | 14 | 121 | 2008-09 to 2025-26 | [papers.md](../../subjects/Supply%20Chain%20Management/papers.md) | [questions.jsonl](../../subjects/Supply%20Chain%20Management/questions.jsonl) |
 | [World Class Manufacturing](../../subjects/World%20Class%20Manufacturing/README.md) | 3 | 36 | 2011-12 to 2012-13 | [papers.md](../../subjects/World%20Class%20Manufacturing/papers.md) | [questions.jsonl](../../subjects/World%20Class%20Manufacturing/questions.jsonl) |

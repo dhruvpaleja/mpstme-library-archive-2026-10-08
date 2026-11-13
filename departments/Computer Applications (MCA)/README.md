@@ -1,6 +1,6 @@
 # Computer Applications (MCA)
 
-72 subjects, 778 papers, 10445 extracted questions. Each subject folder holds `papers.md` (full text of every paper) and `questions.jsonl` (one record per question with marks, year and exam). Records carry a `departments` field: keep those containing "Computer Applications (MCA)" to see only this branch's papers.
+72 subjects, 778 papers, 10446 extracted questions. Each subject folder holds `papers.md` (full text of every paper) and `questions.jsonl` (one record per question with marks, year and exam). Records carry a `departments` field: keep those containing "Computer Applications (MCA)" to see only this branch's papers.
 
 | Subject | Papers for this branch | Questions | Years | Full text | Questions |
 | --- | ---: | ---: | --- | --- | --- |
@@ -63,7 +63,7 @@
 | [Organizational Behaviour](../../subjects/Organizational%20Behaviour/README.md) | 14 | 170 | 2007-08 to 2025-26 | [papers.md](../../subjects/Organizational%20Behaviour/papers.md) | [questions.jsonl](../../subjects/Organizational%20Behaviour/questions.jsonl) |
 | [Parallel Processing](../../subjects/Parallel%20Processing/README.md) | 2 | 32 | 2006-07 to 2013-14 | [papers.md](../../subjects/Parallel%20Processing/papers.md) | [questions.jsonl](../../subjects/Parallel%20Processing/questions.jsonl) |
 | [Principles of Management](../../subjects/Principles%20of%20Management/README.md) | 5 | 53 | 2007-08 to 2025-26 | [papers.md](../../subjects/Principles%20of%20Management/papers.md) | [questions.jsonl](../../subjects/Principles%20of%20Management/questions.jsonl) |
-| [Probability and Statistics](../../subjects/Probability%20and%20Statistics/README.md) | 18 | 301 | 2018-19 to 2025-26 | [papers.md](../../subjects/Probability%20and%20Statistics/papers.md) | [questions.jsonl](../../subjects/Probability%20and%20Statistics/questions.jsonl) |
+| [Probability and Statistics](../../subjects/Probability%20and%20Statistics/README.md) | 18 | 302 | 2018-19 to 2025-26 | [papers.md](../../subjects/Probability%20and%20Statistics/papers.md) | [questions.jsonl](../../subjects/Probability%20and%20Statistics/questions.jsonl) |
 | [Problem Solving and Programming using C](../../subjects/Problem%20Solving%20and%20Programming%20using%20C/README.md) | 4 | 57 | 2012-13 to 2013-14 | [papers.md](../../subjects/Problem%20Solving%20and%20Programming%20using%20C/papers.md) | [questions.jsonl](../../subjects/Problem%20Solving%20and%20Programming%20using%20C/questions.jsonl) |
 | [Project Management](../../subjects/Project%20Management/README.md) | 14 | 195 | 2006-07 to 2025-26 | [papers.md](../../subjects/Project%20Management/papers.md) | [questions.jsonl](../../subjects/Project%20Management/questions.jsonl) |
 | [Robotics and Automation](../../subjects/Robotics%20and%20Automation/README.md) | 1 | 15 | 2021-22 to 2025-26 | [papers.md](../../subjects/Robotics%20and%20Automation/papers.md) | [questions.jsonl](../../subjects/Robotics%20and%20Automation/questions.jsonl) |

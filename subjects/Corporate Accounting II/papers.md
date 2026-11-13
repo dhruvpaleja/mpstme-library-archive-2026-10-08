@@ -33,6 +33,38 @@ Instructions:
 A.
 5
 Page 1 of 2
+
+[Text in pictures on this page, read by OCR]
+Balance Sheet of Paradeep Ltd. as on 31st March, 2025 is as follows:
+Liabilities z Assets z
+
+4.000 — 8% Redeemable Preference
+
+Shares of 2100 each, fully paid 4,00,000]Fixed Assets 31,50,000}
+2,00,000 Equity Shares of 210 20.00.000/Bank 436.000
+leach, fully paid
+
+Securities Premium 70,000lInvestments 3.00.000
+Profit and Loss Account 9,00,000||(Market Value €3,80,000) —_
+Sundry Creditors 5,16,000
+
+Total 38,86,000||Total 38,86,000
+
+Additional Information
+
+On the above date, the directors of the company took the following steps to redeem 8%
+Preference Shares at a premium of 5%:
+
+a) The company issued 8.000 Equity Shares of 210 each at a premium of 22 per share for the
+purpose of redemption of preference shares.
+
+b) Investments were sold at market price.
+
+c) All payments were made to the Preference Shareholders except those holding 200 shares
+who could not be traced.
+
+d) After redemption the company decided to issue 10,000 bonus equity shares of Rs 10 each.
+You are required to pass journal entries for the above transactions.
 --- page 2 ---
 Barry Ltd., an unlisted (Non-NBFC or HFC) company, has 6,000; 10% Debentures of
 2100 each outstanding as on 31st March, 2024. These debentures are due for

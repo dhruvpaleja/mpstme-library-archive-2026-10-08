@@ -52,6 +52,38 @@ to form different shapes
 •   Plays a minor role in the load-bearing capacity of the composite
 • Has major influence on the interlaminar and in-plane shear properties
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Cut-off
+
+. saw
+e Guide Forming and
+ine di
+plate Preformer curing ae a
+e (eel [el
+eo |
+eo Pulling system
+
+Fiber Creel
+
+Resin bath
+
+Aspect Longitudinal Tensile Strength (a1)
+
+Loading Direction Parallel to fibers (Il)
+Dominant Contributor Fibers carry most of the load
+Approximate Expression oy ~ asV5
+
+Magnitude High (close to fiber tensile strength)
+Typical Ratio 500-3000 MPa (carbon/epoxy)
+Failure Mode Fiber fracture
+
+Influencing Factors Fiber strength, fiber volume fraction,
+
+fiber alignment
+
+Practical Implication Used in applications requiring high
+tensile loads along fiber direction
 --- page 3 ---
 Transfer load to
 and between
@@ -87,6 +119,36 @@ BL-2   Neat schematic diagram – 4 M.
 CO-1   b.   Industrial scenario of composite materials in general – 5 M.   [05]
 BL-2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+» Reinforcement
+
+preheating
+Power hamber
+
+Reinforcement Squeeze Vas
+
+temperature (°C) ™€ Mains pressure sia | | \
+
+Furnace Maas) '
+temperature (°C) 3, a rl
+a a q
+Runway .
+temperature (°C) . Electrical Hydraulic
+> @ |, Thermocouples resistance yt
+Mould preheat Crucible. Stainless
+temperature (°C) steel injector
+Melt temperature (°C) ~
+Hydraulic pump Stirrer e aan
+On/Off switch Up Down
+Squeeze Bottom pouring Die
+press/release Switch, controller a
+Stirrer Ow/Off Die preheater aoe ee
+switch none
+Stirrer Runway Bottom pouring
+speed pour On/Off mechanism
+
+controller — switch
 --- page 4 ---
 CO-4   c.   Equations for modulus of the composite in longitudinal direction – 2 M   [05]
 BL-3   Equations for modulus of the composite in transverse direction – 2M.
@@ -119,6 +181,53 @@ BL-4
 CO-4   b.   Compressive strength of unidirectional fiber composites – 5M   [10]
 BL-2   In phase and out of phase buckling under compression - 5 M
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Mixing head
+Resin
+
+Resin injector
+
+=> Catalyst
+
+t 4 Upper mold
+[FP
+
+Vent
+
+v
+
+Reinforcement
+
+Through pump
+
+SaG000002
+
+“Heating
+
+Resin and catalyst containers Lower mold arrangement
+
+Solution Young’s modulus of the composite in the longitudinal direction is given
+by Eau = 70 x 0.6+3 x 0.4 = 42+ 1.2 = 43.2 GPa. 2M
+To calculate the tensile strength of the composite in the longitudinal direction,
+we need to determine which component, fiber or matrix, has the lower failure strain.
+The failure strain of the fiber is
+e = o0,/Ey = 1/70 = 0.014, 2M
+
+while that of the matrix is
+
+&m = (60 x 1073)/3 = 0.020. 2M
+
+Thus, é < &m, i.e., fibers fail first. At that strain, assuming a linear stress-strain
+curve for the epoxy matrix, the matrix strength is
+
+a), = Ent = 3 x 0.014 = 0.042 GPa. 2M
+
+Then, we get the composite tensile strength as
+2M
+
+o- = 0.6 x 1+0.4 x 0.042
+= 0.6 + 0.0168 = 617 MPa.
 --- page 6 ---
 a) Unbuckled fiber reinforced composite,
 b) in-phase buckling of fibers under compression c) out-of-phase buckling of
@@ -205,6 +314,48 @@ material though help in advancement but have certain limitations/ disadvantages
 -Disadvantages of composite materials
 (4-5 Advantages, 4-5 Disadvantages 3M+3M = 6Marks)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+* Lightweight
+* High specific stiffness
+
+* High specific strength
+
+* Tailored properties (anisotropic)
+* Easily moldable to complex (net) shapes
+
+* Part consolidation leading to lower overall
+system cost
+
+* Easily bondable
+
+* Good fatigue resistance
+
+* Good damping
+
+* Crash worthiness
+
+* Internal energy storage and release
+* Low thermal expansion
+
+* Low electrical conductivity
+
+* Stealth (low radar visibility)
+
+* Thermal transport (carbon fiber only)
+
+* Low ductility (joints inefficient, stress risers
+more critical than in metals)
+
+* Solvent/moisture attack
+
+* Temperature limits
+
+* Damage susceptibility
+
+* Hidden damage
+
+* EMI shielding sometimes required
 --- page 4 ---
 Q2) b)
 1. Condensation Polymerization Process   -In this process
@@ -233,6 +384,21 @@ Disadvantages:
 5. Low tensile strength
 6. Lack uniformity in properties
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Monomers react to form a new molecule and a condensate
+X—M1—X + Y—M2—Y =——®)   X—MI—1—M2—Y + C
+Monomer 1 Monomer 2
+New linkage bond Condensate
+Step 2: Reaction of an end of the linked molecule with a new monomer
+
+X—M1—1—M2—Y + X—M1—X ——>» X—M1—L—M2—L—M1—X + C
+
+New linkage bond
+
+Step 3: Reaction with a new monomer
+
+X—M1—L—W2—.—M1—X + Y—M2—Y —s ————® —>*X— M1 — 1 — 21. —141. —M2—Y + C
 --- page 5 ---
 (2M+2M = 4 Marks)
 Q3) a) Processes used in manufacturing of thermoplastic polymer matrix composites:

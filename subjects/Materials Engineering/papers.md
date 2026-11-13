@@ -82,6 +82,28 @@ V
 CO-6,   a   Explain the different alloying elements used in steel, with the significance
 BL-2   [10]
 of each.
+
+[Text in pictures on this page, read by OCR]
+Composition (at% Ag)
+
+400
+
+40 60 80 10¢
+I ! I I I 4
+|i
+Liquid S,
+A
+iiss ag Zp
+ss sheaf (=
+71.9 91. 7 |)
+‘) (Cg. ) 8
+
+arp
+
+BI
+r.
+60 100
+Composition (wt% Ag) (Ag)
 --- page 3 ---
 CO-1,   b   Differentiate between the edge and screw dislocation phenomenon in
 BL-2   [5]
@@ -99,6 +121,25 @@ BL-2
 CO-4,   d   Apply your knowledge of Gibbs phase rule and calculate the degrees of
 BL-3   freedom in a Cu-40% Ni alloy at 1300 degree C, 1250 degree C.
 [5]
+
+[Text in pictures on this page, read by OCR]
+1600 _
+| | ]
+
+— 2800
+1500 /-
+Liquid 1455°C
+— 2600
+1400 |-
+Liquidus line Solidus line | re
+1300 |-
+1200|- ae
+1100 An __
+1085°C
+1000 | | | a
+0 20 40 60 BO 700
+
+(Cu) Composition (wt% Ni) (Ni)
 ````
 
 ## 2025-26 · Final-Exam · Sem 7 · paper 0c5afa48734a
@@ -108,6 +149,7 @@ BL-3   freedom in a Cu-40% Ni alloy at 1300 degree C, 1250 degree C.
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/Integrated_Mechanical_7031/Materials Engineering/QP_Materials Engineering(702ME0C007)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 25 Nov 2025
 - Text: text (3 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -181,6 +223,25 @@ CO-6,   a   Explain the different alloying elements used in steel, with the sign
 BL-2   [10]
 of each.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Composition (at% Ag)
+
+) 20 40 60 80 10€
+AR =:
+1000 }— Liquid S,
+a a+b ae
+s00 ++ —_}2 779°C (Tr) E B+l f —
+8.0 71.9 91.2
+Lf (Cex) (Cy) (Cy)
+600
+Solvus
+a+p
+400
+c
+200 : ;
+) 20 40 60 80 100
+(Cu) Composition (wt% Ag) (Ag)
 --- page 3 ---
 CO-1,   b   Differentiate between the edge and screw dislocation phenomenon in
 BL-2   [5]
@@ -199,6 +260,26 @@ CO-4,   d   Apply your knowledge of Gibbs phase rule and calculate the degrees o
 BL-3   freedom in a Cu-40% Ni alloy at 1300 degree C, 1250 degree C.
 [5]
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+1600 T T T T —
+
+— 2800
+1500 |
+Liquid 1455°C
+— 2600
+1400 |- A,
+Liquidus line Solidus line |
+2400
+1300 |- cL
+ep |
+1200 |— a =| 2200
+1100 0A = 2000
+1085°C
+1000 | | | | l
+) 20 40 60 80 100
+
+(Cu) Composition (wt% Ni) (Ni)
 ````
 
 ## 2025-26 · Final-Exam · Sem 3 · paper 172b8da8313e
@@ -456,6 +537,30 @@ CO-4,   c   Explain the changes that occur during the solidification process of 
 BL-3   [5]
 the cooling curve of metals.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Composition (at% Ag)
+
+ie) 20 40 60 80 100
+1200 | | T T 2200
+AR — 2000
+4 =
+1000 ;— Liquid =| 1800
+F
+—} 1600
+a
+g00 |E 779°C (Tp) E
+8.0 71.9 ;] 1400
+| / (up) (Cr)
+—] 1200
+600
+Solvus 1000
+a+zp
+400 800
+[c 600
+i i ! 400
+200 9 20 40 60 80 100
+(Cu) Composition (wt% Ag) (Ag)
 --- page 3 ---
 V
 CO-6,   a   Explain the concept of High alloy steels with their alloying elements,
@@ -479,6 +584,24 @@ CO-4,   d   Apply your knowledge of Gibbs phase rule and calculate the degrees o
 BL-3   in a Cu-50% Ni alloy at 1300 degree C, 1250 degree C, and 1200-degree °C.
 [5]
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+1600-77 TT ToT TOT
+
+— 2800
+1500 }—
+Liquid 1455°C
+— 2600
+1400 }—
+Liquidus line Solidus line | sa00
+1300 |—
+1200 }— 2200
+1100 eA = 2000
+1085°C
+1000 rte, | yy | yy fy
+0 20 40 60 80 100
+
+(Cu) Composition (wt% Ni) (Ni)
 ````
 
 ## 2025-26 · Re-Exam · Sem 7 · paper 6de13fbc416d
@@ -560,6 +683,30 @@ CO-4,   c   Explain the changes that occur during the solidification process of 
 BL-3   [5]
 the cooling curve of metals.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Composition (at% Ag)
+
+ie) 20 40 60 80 100
+1200 | | T T 2200
+AR — 2000
+4 =
+1000 ;— Liquid =| 1800
+F
+—} 1600
+a
+g00 |E 779°C (Tp) E
+8.0 71.9 ;] 1400
+| / (up) (Cr)
+—] 1200
+600
+Solvus 1000
+a+zp
+400 800
+[c 600
+i i ! 400
+200 9 20 40 60 80 100
+(Cu) Composition (wt% Ag) (Ag)
 --- page 3 ---
 V
 CO-6,   a   Explain the concept of High alloy steels with their alloying elements,
@@ -583,6 +730,24 @@ CO-4,   d   Apply your knowledge of Gibbs phase rule and calculate the degrees o
 BL-3   in a Cu-50% Ni alloy at 1300 degree C, 1250 degree C, and 1200-degree °C.
 [5]
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+1600-77 TT ToT TOT
+
+— 2800
+1500 }—
+Liquid 1455°C
+— 2600
+1400 }—
+Liquidus line Solidus line | sa00
+1300 |—
+1200 }— 2200
+1100 eA = 2000
+1085°C
+1000 rte, | yy | yy fy
+0 20 40 60 80 100
+
+(Cu) Composition (wt% Ni) (Ni)
 ````
 
 ## 2024-25 · Final + Re-Exam · Sem 3 · paper 7d593f22866e

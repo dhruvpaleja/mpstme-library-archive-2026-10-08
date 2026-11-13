@@ -575,6 +575,57 @@ pervading. This is how we recognize them as units. 4 M
 proper examples of nature and space with the above statement 6 M
 Q4   Answer the following   [20]
 6
+
+[Text in pictures on this page, read by OCR]
+Knowing, | Assuming, Recognizing, Fulfilling
+
+Preconditioning or
+Assuming without Knowing,
+
+Problem >
+
+Assumptions keep changing
+
+Education-Sanskar Conduct is indefinite
+(Dependence, Enslavement)
+
+Solution
+
+=: { knowing through self-verification
+
+on the basis of Natural Acceptance &
+
+— on the basis of living accordingly
+
+Assumptions are definite
+(on the basis of Knowing)
+
+Conduct is definite (Self-organised)
+
+Human Belng Fi Co-existence
+
+Self ©
+
+Body
+
+Need 7 “| Happiness (8.9. Respect) Physical Facility (e.g. Food)
+
+In Time - Continuous - Temporary
+
+In Quantity | Qualitative Quantitative
+
+(is Feeling) F (Required in Limited Quantity)
+
+Fulfilled By | Right Understanding & Right Feeling | Physio-chemical Things
+Activity . -. Desire, Thought, Expectation...- Eating, Walking...
+
+In Time ‘Continuous. Temporary
+Response - Knowing, Assuming,
+
+= Recognising, Fulfilling Recognising, Fulfilling
+v v
+
+Consciousness Material ’
 --- page 7 ---
 CO-3; SO-5;BL-5   a Explain two kinds of realities in existence: units and space.
 Units:Each order is composed of a number of ‘things’. Each one of

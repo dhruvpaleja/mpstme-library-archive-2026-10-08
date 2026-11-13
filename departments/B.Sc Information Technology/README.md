@@ -1,6 +1,6 @@
 # B.Sc Information Technology
 
-17 subjects, 54 papers, 305 extracted questions. Each subject folder holds `papers.md` (full text of every paper) and `questions.jsonl` (one record per question with marks, year and exam). Records carry a `departments` field: keep those containing "B.Sc Information Technology" to see only this branch's papers.
+17 subjects, 54 papers, 306 extracted questions. Each subject folder holds `papers.md` (full text of every paper) and `questions.jsonl` (one record per question with marks, year and exam). Records carry a `departments` field: keep those containing "B.Sc Information Technology" to see only this branch's papers.
 
 | Subject | Papers for this branch | Questions | Years | Full text | Questions |
 | --- | ---: | ---: | --- | --- | --- |
@@ -10,7 +10,7 @@
 | [Content Creation and Design](../../subjects/Content%20Creation%20and%20Design/README.md) | 2 | 9 | 2025-26 | [papers.md](../../subjects/Content%20Creation%20and%20Design/papers.md) | [questions.jsonl](../../subjects/Content%20Creation%20and%20Design/questions.jsonl) |
 | [Cyber Crime and Laws](../../subjects/Cyber%20Crime%20and%20Laws/README.md) | 2 | 12 | 2025-26 | [papers.md](../../subjects/Cyber%20Crime%20and%20Laws/papers.md) | [questions.jsonl](../../subjects/Cyber%20Crime%20and%20Laws/questions.jsonl) |
 | [Digital Marketing](../../subjects/Digital%20Marketing/README.md) | 4 | 22 | 2021-22 to 2025-26 | [papers.md](../../subjects/Digital%20Marketing/papers.md) | [questions.jsonl](../../subjects/Digital%20Marketing/questions.jsonl) |
-| [Discrete Mathematics](../../subjects/Discrete%20Mathematics/README.md) | 4 | 5 | 2007-08 to 2025-26 | [papers.md](../../subjects/Discrete%20Mathematics/papers.md) | [questions.jsonl](../../subjects/Discrete%20Mathematics/questions.jsonl) |
+| [Discrete Mathematics](../../subjects/Discrete%20Mathematics/README.md) | 4 | 6 | 2007-08 to 2025-26 | [papers.md](../../subjects/Discrete%20Mathematics/papers.md) | [questions.jsonl](../../subjects/Discrete%20Mathematics/questions.jsonl) |
 | [Electronics and Communication Technology](../../subjects/Electronics%20and%20Communication%20Technology/README.md) | 4 | 8 | 2025-26 | [papers.md](../../subjects/Electronics%20and%20Communication%20Technology/papers.md) | [questions.jsonl](../../subjects/Electronics%20and%20Communication%20Technology/questions.jsonl) |
 | [Environmental Studies](../../subjects/Environmental%20Studies/README.md) | 4 | 15 | 2025-26 | [papers.md](../../subjects/Environmental%20Studies/papers.md) | [questions.jsonl](../../subjects/Environmental%20Studies/questions.jsonl) |
 | [Global Environment Management](../../subjects/Global%20Environment%20Management/README.md) | 2 | 13 | 2025-26 | [papers.md](../../subjects/Global%20Environment%20Management/papers.md) | [questions.jsonl](../../subjects/Global%20Environment%20Management/questions.jsonl) |

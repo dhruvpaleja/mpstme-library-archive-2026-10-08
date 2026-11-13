@@ -7,7 +7,7 @@ Answer keys and model answers published on the portal, newest first.
 - Departments: Artificial Intelligence
 - Programmes: MASTER OF TECHNOLOGY (ARTIFICIAL INTELL
 - Source: `02_Question_Papers/2025/Sem_01/Final-Exam/MASTER OF TECHNOLOGY (ARTIFICIAL INTELL_fdd2a5aa/Advanced Data Analysis and Programming/ANS_Advanced Data Analysis and Programming(703DB0C055)_2025-2026.docx`
-- Text: docx (1 page)
+- Text: mixed (4 pages), mean OCR confidence 82.2
 
 ````text
 Q1
@@ -996,6 +996,41 @@ flatten: List(1, 2, 3, 4, 5)
 02x5
 
 |
+--- page 2 ---
+df = pd.DataFrame({
+“Employee’: ["E1', "E2", "E3'],
+“Score': [88, 92, 85]
+
+)
+
+# Convert to float
+df[‘*Score’] = df[‘Score*].astype(float)
+
+# Rank ascending
+df[*Rank"] = df["Score’].rank(ascending=True, method='dense')
+
+print (df)
+--- page 3 ---
+Method Description Example in code
+
+map () Primarily used with Series. Can apply a §;Map(lambda x: x * 10)
+function, dictionary, or Series to transform multiplies each element by
+values. Works element-wise. 10
+
+apply () | Can be used with Series or DataFrame. Applies | $:2Pply (lambda x: x +
+a function along the axis (rows/columns). 5) adds 5 to each element
+
+Slightly more flexible than map ().
+--- page 4 ---
+Worker Node
+
+>| | Executor Cache
+Driver Prograjh Task Task
+Spark Context /q——p} Cluster Manager +
+Worker Node
+Executor Cache
+
+Task Task
 ````
 
 ## 2025-26 · Final-Exam · Sem 1 · Answer key · paper 2a94e9b474eb
@@ -1083,6 +1118,21 @@ Access
 Duplicates   Allows duplicate elements   Keys must be unique
 Immutability   Default List is immutable   Default Map is immutable
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+df = pd.DataFrame( {
+“Employee’: ["E1', ‘E2', ‘E3'],
+“Score’: [88, 92, 85]
+
+»)
+
+# Convert to float
+df[*Score'] = df["Score*].astype(float)
+
+# Rank ascending
+df[*Rank'] = df[‘Score’].rank(ascending=True, method='dense')
+
+print (df)
 --- page 3 ---
 Scala Example:
 object ListMapDemo extends App {
@@ -1541,6 +1591,17 @@ transformedRDD.persist(StorageLevel.MEMORY_AND_DISK)
 // Step 5: Perform multiple actions on the persisted
 RDD
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Worker Node
+
+Executor Cache
+Driver Prograg Task Task
+Spark Context Cluster Manager +
+Worker Node
+Executor Cache
+
+Task Task
 --- page 15 ---
 println("Collect: " +
 transformedRDD.collect().mkString(", "))

@@ -1,6 +1,6 @@
 # Generative AI
 
-**9** unique papers (9 copies across programmes) · 2025-26 · 3 programmes · Sem 7, Sem 8
+**10** unique papers (10 copies across programmes) · 2025-26 · 4 programmes · Sem 7, Sem 8
 
 Download only this subject, sorted by academic year:
 
@@ -12,8 +12,11 @@ Files land in `D:/Study/PYQs_By_Subject/Generative AI/<academic year>/`. Identic
 
 Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (every paper in full, newest first), [`questions.jsonl`](questions.jsonl) (one record per question with marks, year, exam, semester and department) and [`papers.jsonl`](papers.jsonl) (one record per paper). Answer keys, where the portal published them, are in `answer_keys.md`. See [`question_bank/README.md`](../../question_bank/README.md) for the fields.
 
+Syllabus of this course, every version found in the archive: [`syllabus.md`](syllabus.md) (see [`syllabi/`](../../syllabi/README.md) for all programmes).
+
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
+| 2025-26 | Final-Exam | Question paper | Sem 7 | B TECH / ARTIFICIAL INTELLIGENCE | Generative_AI__Sem-VII__Year_2025-2026__Final_Exam_M0ZzvJyKof.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 7 | BTech AI 7012 | QP_GENERATIVE AI(702AI0C030)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 8 | MBATech AI 7051 | QP_GENERATIVE AI(702AI0C030)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 7 | BTech AI 7012 | ANS_GENERATIVE AI(702AI0C030)_2025-2026.pdf |

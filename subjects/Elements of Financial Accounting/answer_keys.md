@@ -30,6 +30,27 @@ Instructions:
 1.   Answer the following   15
 A.   8
 Page 1 of 9
+
+[Text in pictures on this page, read by OCR]
+a) Cost of Machine
+
+Particulars Amount (%) | Amount (%) | Marks
+
+List price of machine 40,00,000
+
+Less: Trade discount (10% of 40,00,000 = 4,00,000) (4,00,000)
+
+Net purchase price 36,00,000 "%
+Import duty (non-refundable) 1,00,000 VY
+Site preparation cost 25,000 "
+Delivery charges 2,50,000 "Y
+Installation costs 4,00,000 "%
+Testing expenses 1,20,000
+
+Less: Proceeds from sale of test samples (20,000) 1,00,000 "%
+Office overheads NIL %
+
+Cost of Machine as per Ind AS 16 44,75,000 "%
 --- page 2 ---
 7
 B. Working Notes (Straight-Line Method.)
@@ -41,6 +62,46 @@ Op. WDV as on 1.1. 2023   3,57,000   Op. WDV as on 01.01. 2023   2,59,000
 Less: Depre @ 15% for 10 m   -52,500   Less: Depre @ 15%   -42,000
 Cl. Wdv as on 01.11.2023   3,04,500   Cl. WDV   2,17,000
 Page 2 of 9
+
+[Text in pictures on this page, read by OCR]
+e Inaccordance with Ind AS 16, all costs required bringing an asset to its present location
+and condition for its intended use should be capitalized.
+e Office overheads are not directly attributable cost hence should not be capitalized.
+
+e AsperInd AS 16, the Sale proceeds of samples produced during pre-production Testing
+is to be deducted against cost of PPE
+
+b) Ind AS 18 Solution
+Relevant Provisions of Ind AS 18: [3 marks]
+
+In terms of Ind AS 18, when the outcome of a transaction involving the rendering of services
+can be estimated reliably, revenue associated with the transaction shall be recognised by
+reference to the stage of completion of the transaction at the end of the reporting period.
+
+The outcome of a transaction can be estimated reliably when all the following conditions are
+satisfied:
+
+(a) The amount of revenue can be measured reliably;
+
+(b) It is probable that the economic benefits associated with the transaction will flow to the
+entity;
+
+(c) The stage of completion of the transaction at the end of the reporting period can be measured
+reliably; and
+
+(d) The costs incurred for the transaction and the costs to complete the transaction can be
+measured reliably.
+
+Application to the Case: [1 mark]
+
+e Total consultancy fee agreed: % 1,00,000
+
+e¢ Work completed as on 31.03.2025: 40%
+
+e Since the stage of completion is determinable and conditions of Ind AS 18 are
+satisfied, revenue is recognised on a percentage of completion basis.
+
+Revenue = % 1,00,000 x 40%= % 40,000.
 --- page 3 ---
 Sale value   2,60,000
 Loss on sale   44,500

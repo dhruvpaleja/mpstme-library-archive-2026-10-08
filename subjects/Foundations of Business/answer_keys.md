@@ -97,6 +97,74 @@ further added to this. (10 Marks) (BL-Evaluating)
 Students are expected to use the references in the slides below to explain the influence of the theory
 in their own words
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+MANAGERS
+
+VERSUS
+
+nad it they are not always one in the same.
+
+What's the real difference?
+
+Managers
+Innovate
+
+Their process is
+transformational
+
+develop a vision and
+
+find a way forward.
+
+Werk Focused People Focused
+
+The goals inctude
+
+you to succeed.
+
+Have Followers
+They create
+circles of influence
+and lead by inspiring.
+
+Do Things Right |) Do the Right Thing
+Leaders shape the
+Culture and drive
+
+Integrity.
+
+MANAGER S LEADER
+
++ gives direction
++ has subordinates
++ holds authority
++ tells you what
++ has good ideas
++ reacts to change
++ tries to be a hero
++ exercises power
+
+Management Theories
+:Theory _ Elton Mayo’s Human Relations Management Theory
+
+ralization and
+entralization
+
+The main features of the Human Relation
+peeesme Approach to management are the following:
+
+2) onda (a) Since management is getting things done through and with people, a manager
+> must have a basic understanding of human behavior in all respects—particularly in
+) Ferme the context of work groups and organizations.
+
+> (b) The managers must study the inter-personal relations among the people at work.
+ie Stability of
+Malesia (c) Larger production and higher motivation can be achieved only through good
+a human relation.
+initiative
+(d) The study of management must draw the concepts and principles of various
+it De Corps behavioral sciences like Psychology and Sociology.
 --- page 4 ---
 Q3.   Answer both 3a and 3b
 3a.   Assume you are the head of sales of a company dealing in computers. There’s been a slight drop in sales
@@ -112,6 +180,35 @@ suitable examples. (10 Marks) (BL-Evaluating)
 Students are expected to use the references in the slides below to deduce the issue, provide a view &
 justify it via examples.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+How do managers identify problems? In the real world, most
+problems don’t come with neon signs flashing “problem.” When
+her reps started complaining about their computers, it was pretty
+clear to Amanda that something needed to be done, but few
+problems are that obvious.
+Managers also have to be cautious not to confuse problems with
+symptoms of the problem. Is a 5% drop in sales a problem?
+
+Or are declining sales merely a symptom of the real problem, such
+as poor-quality products, high prices, or bad advertising?
+
+Also, keep in mind that problem identification is subjective. What
+one manager considers a problem might not be considered a
+problem by another manager.
+
+In addition, a manager who resolves the wrong problem perfectly is
+likely to perform just as poorly as the manager who doesn’t even
+recognize a problem and does nothing. As you can see, effectively
+identifying problems is important, but not easy.
+
+(—==—ED
+EFFECT OF PRICES OF GOODS @ ; © INFLATION
+
+Economics | Economic
+
+CONSUMER BEHAVIOUR © . © AGGREGATE DEMAND
+SUPPLY OF GOOD © vy 4 © CAPACITY OF ECONOMY
 --- page 5 ---
 Q4.   Answer both 4a and 4b
 4a.   Market Segmentation is way of dividing the entire consumer market into heterogenous groups basis their
@@ -138,6 +235,53 @@ effectively manage an organization. One such is the Milestone Chart. Assume a si
 performed and design a Milestone Chart. (10 Marks) (BL-Creating)
 Students are expected to create a Chart similar to slide below for an assumed situation.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+McGREGOR’S THEORY X & Y
+
+Need to work, want to take
+
+Must be forced or coerced Direct ourselves towards an.
+into compliance DIRECTION accepted target
+oe aaa RESPONSIBILITY Thrive on responsiblity
+
+Motivated by the desire
+peel adael MOTIVATION _ofselidevelopment and to
+
+contribute to the world
+
+tighly creative when given
+foetal CREATIVITY recognition and opportunity
+
+Victor Vroom’s Expectancy (VIE) Theory
+
+E=Effortto-Performance _1 = Performance+to-Outcome
+Expectation (E-to-P) Expectation (P-to-0)
+
+V= Value of the Outcome
+
+Milestone Chart
+
+Start, Apr2
+e@ Milestone #1 ‘ia rr
+
+H 5 or Deliver, Oct 6
+| ’ ¢ B
+
+19-02-2018 {10-04-2018 30-05-2018 19-07-2018 07-09-2018 27-10-2018
+
+Task 1 Task Label 7
+apse =
+i 28- Apr 1d Task Label S <a
+Task 2
+‘Apr 12-May1 Task label 6
+
+Task 3
+
+May 2- May 25 pms
+| Task Label 9
+
+Task abel 6
 --- page 7 ---
 Q6.   Answer both 6a and 6b
 6a.   Today, businesses are placing emphasis on ethical practices on account of the potential costs of pursuing
@@ -347,6 +491,43 @@ successfully completing the project. Bear in mind that the individuals, while be
 respective tasks, also possess diverse personalities. (10 Marks) (BL-Analyzing)
 Students are expected to use the references in the slide below & apply to an assumed situation.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+RECRUIT
+
+Bring on new people —
+with speed:
+= Recruitment technology with tools to help you
+
+= Recruitment process stay compliant:
+outsourcing Background screening
+
+= Recruiter and hiring 9 verification
+
+Sanger oalbine , me ohoccraina
+DEVELOP
+Help talent thrive:
++ Learning
+= Leader development
++ Coaching and ENGAGE
+workshops Keep teams visible,
+connected and focused:
++ Employee
+PERFORM
+Collect data to inform
+talent decisions:
+
+Performance
+management
+
+I RECOGNIZE
+Pre @® Eauitably reward your
+Prepare and build for = Compensation
+the future Qo mnsvement
+* Succession planning —_—=
+
++ Outplacement
+support
 --- page 6 ---
 Q5.   Answer both 5a and 5b
 5a.   Organizations place a lot of significance on the right Leadership to drive organizations. There is no one-
@@ -371,6 +552,17 @@ environment appears supportive, every entrepreneur faces significant challenges 
 and examine any ten key challenges for any young entrepreneur in India. Examine if these challenges are
 different for a Woman Entrepreneur. (10 Marks) (BL-Analyzing)
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Top 10 Challenges of Being an Entrepreneur.
+
+== o ==
+Lack Of Technical (04)
+° a =
+fos) a (oe) Resources Other
+shal iid Than Funding
+@ Lack Of Experience © Lack Of Motivation
+© Lack Of Direction (io) Goal and Vision
 --- page 8 ---
 Q7.   Construct the Profit & Loss A/c for ABC Ltd. basis the following data:
 Raw Material purchased: 9,00,000; Sales: 45,00,000; Royalty received: 2,50,000; Electricity Charges:

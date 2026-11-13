@@ -50,6 +50,27 @@ Q2
 CO-2; SO-1;
 BL-4
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Given, @ = 28° 35’N = 28.58 degrees
+For 20" February, n = 51
+
+From Eq. (4.5), 6 =23.45x sin| 254 + 30] degrees
+
+= -11.58 degrees
+From Eq. (4.4), | E = 9.87 sin 2B - 7.53 cos B- 1.5 sin B min
+
+B = (360/364) (51 - 81) = -26.67
+
+E=-14.29 min
+From Eq. (4.3), Solar time = 2:30 hrs + 4 x (81° 44’ - 77° 12’) (min) - 14.29 (min)
+= 1:57.59 hrs
+
+From Eq. (4.6), @ = [12:00 - 1:57.59] (in hours) x 15 degrees = -14.398 degrees
+From Eq. (4.9),
+cos 8, = cos (28° 35’) cos (-11.58) cos (-14.398) + sin (11.58) sin (28° 35’)
+= 0.7366
+Zenith angle, 0, = 42.557 degrees
 --- page 2 ---
 b.
 Project   NPV (Rs.)
@@ -2616,6 +2637,17 @@ Its limitations include high capital cost, radioactive waste disposal, and safet
 concern
 (10 Marks )
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+(i) NPV Calculation
+Project A (Discount rate = 14%)
+
+5 .
+Savings,
+NPV, — 4. ———+_ ~— 12,00, 000
+A » (1+ 0.14)!
+
+NPV, = —Rs. 1, 25,404
 ````
 
 ## 2025-26 · Re-Exam · Sem 6 · Answer key · paper 6e654c615b20
@@ -2800,6 +2832,17 @@ Its limitations include high capital cost, radioactive waste disposal, and safet
 concern
 (10 Marks )
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+(i) NPV Calculation
+Project A (Discount rate = 14%)
+
+5 .
+Savings,
+NPV, — 4. ———+_ ~— 12,00, 000
+A » (1+ 0.14)!
+
+NPV, = —Rs. 1, 25,404
 ````
 
 ## 2025-26 · Re-Exam · Sem 6 · Answer key · paper e58b67bdaf2d
@@ -2984,6 +3027,17 @@ Its limitations include high capital cost, radioactive waste disposal, and safet
 concern
 (10 Marks )
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+(i) NPV Calculation
+Project A (Discount rate = 14%)
+
+5 .
+Savings,
+NPV, — 4. ———+_ ~— 12,00, 000
+A » (1+ 0.14)!
+
+NPV, = —Rs. 1, 25,404
 ````
 
 ## 2025-26 · Re-Exam · Sem 6 · Answer key · paper ffc6a089d95f
@@ -3168,6 +3222,17 @@ Its limitations include high capital cost, radioactive waste disposal, and safet
 concern
 (10 Marks )
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+(i) NPV Calculation
+Project A (Discount rate = 14%)
+
+5 .
+Savings,
+NPV, — 4. ———+_ ~— 12,00, 000
+A » (1+ 0.14)!
+
+NPV, = —Rs. 1, 25,404
 ````
 
 ## 2025-26 · Re-Exam · Sem 6 · Answer key · paper 6c91a0120e18
@@ -3352,6 +3417,17 @@ Its limitations include high capital cost, radioactive waste disposal, and safet
 concern
 (10 Marks )
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+(i) NPV Calculation
+Project A (Discount rate = 14%)
+
+5 .
+Savings,
+NPV, — 4. ———+_ ~— 12,00, 000
+A » (1+ 0.14)!
+
+NPV, = —Rs. 1, 25,404
 ````
 
 ## 2025-26 · Re-Exam · Sem 6 · Answer key · paper 3d1e1573e8f2
@@ -3536,6 +3612,17 @@ Its limitations include high capital cost, radioactive waste disposal, and safet
 concern
 (10 Marks )
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+(i) NPV Calculation
+Project A (Discount rate = 14%)
+
+5 .
+Savings,
+NPV, — 4. ———+_ ~— 12,00, 000
+A » (1+ 0.14)!
+
+NPV, = —Rs. 1, 25,404
 ````
 
 ## 2025-26 · Re-Exam · Sem 6 · Answer key · paper 31489f4cd1ca
@@ -3720,4 +3807,15 @@ Its limitations include high capital cost, radioactive waste disposal, and safet
 concern
 (10 Marks )
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+(i) NPV Calculation
+Project A (Discount rate = 14%)
+
+5 .
+Savings,
+NPV, — 4. ———+_ ~— 12,00, 000
+A » (1+ 0.14)!
+
+NPV, = —Rs. 1, 25,404
 ````

@@ -30,6 +30,35 @@ Instructions:
 1.   15
 2.   15
 Page 1 of 3
+
+[Text in pictures on this page, read by OCR]
+Departmental Trading & Profit & loss a’c for the year ended 31st march, 2025
+
+Dr. For apportioned items 1 Mark and For non-ay i items 0.5 Mark Cr.
+Particulars Dep M Dep N Dep C Particulars Dep M Dep N Dep C
+To Opening Stock 1,44,000.00 | 1,36,000.00 | 1,20,000.00
+By Sales 1,60,000.00 | 3.20,000.00 | 4.80,000.00
+To Purchases 1,20,000.00 | 80,000.00 40,000.00
+To Power - HP Ratio 20,800.00 | 13,866.67 6,933.33
+By Closing Stock 1,60,000.00 | 1.68,000.00 | _1,62.000.00
+To Carriage inward (3:2:1) 6,000.00 | 4,000.00 2,000.00
+To Gross Profit o/d 29,200.00 | 2.54.133.33 | 4.73,066.67
+3,20,000.00 | 4,88,000.00 | 6,42.000,00 3,20,000.00 | 4.88,000.00 | 6,42.000.00
+To Selling expenses - Sales Ratio 6,666.67 | 13,333.33 20,000.00 | By Gross Profit bid 29,200.00 | 2.$4,133.33 | 4,73,066.67
+By Disc. Received (PR) 13,600.00 9,066.67 4,533.33
+To Distribution Expenses - SR 5,800.00} 11,600.00 17,400.00
+To Printing & stationery - Equally| _6,000.00| 6,000.00 6,000.00
+
+To Postage & Telegram -Equally| _5.600.00| 5,600.00 $.600.00
+
+To Telephone charges - Equally 3,500.00 | 3,500.00 3,500.00
+
+To Repairs to Machinery- VOMR| 24,000.00 | 12,000.00 36,000.00 | BY Net Loss 29,166.67, - 5
+To Rent paid - Area Ratio 16,400.00 | 16,400.00 32,800.00
+To Advertisment - Sales Ratio 4,000.00 $8,000.00 12,000.00
+To Net Profit - 1,86,767.00 | 3,44.300.00
+
+71,966.67 | 2,77,.733.33 | 4,84,866.67 71,966.67 | 2.63,200.00 | _4.77,600.00
 --- page 2 ---
 Trading and Profit & Loss of Aadarsh Consumer's Co-operative Society Ltd Account for the
 year ended 31.03.2020 (6 Marks)
@@ -145,4 +174,44 @@ Less Returns   102,985.00   275,000.00   377,985.00   2500
 Net Sales   2,600,000.00   6,232,462.00   8,832,462.00
 2.   15
 Page 2 of 2
+
+[Text in pictures on this page, read by OCR]
+[Trading and Profit & Loss Account of Shivam Consumer's Co-operative Society Ltd for
+
+the year ended 31.03.2019 {6 Marks)
+Particulars Rs Rs Particulars Rs | Rs
+‘To Opening Stock 2,94,000 | BySales 57:45,000
+To Purchases 47,55,000 | By Closing Stock '3:30,000
+To Coolie/Frt. 4,20,000
+To Gross Profit ¢/d 8,76,000
+60,45,000 60,45,000
+To Salaries 2,25,000 | By Gross Profit 8,76,000
+‘To Rent & Taxes 45,000 By Accrued 45,000
+Income
+Add: Outstanding Rent | 3,000 | 48,000
+To Commission 66,000
+To Postage 6,000
+To Travelling Expenses 43,500
+To Printing & Stationery 40,500
+To Depreciation 93300
+Furniture
+To Net Profit o/a 6,13,700
+
+9,914,700 9,941,700
+
+| Balance Sheet of Shivam Ci Co. Society Ltd as on 31.03.2019
+(6 Marks)
+Liabilities Rs Rs Assets Rs Rs
+‘Share Capital 2,52,000 | Cashin Hand 4500
+Reserve Fund 45,000 | Bank Balance 3,00,000
+Add: Admission 4,500 46,500 Investments 1,80,000
+Fees
+Development Fund 6,000 Add: Accrued Inc | 15,000 495,000
+Creditors 30,000 | Debtors 45,000
+Outstanding Rent 3,000 Closing Stock 3:30,000
+Container Deposit 24,000 | Furniture 93,000
+Profit & Loss A/c 432,000 | Less: 9300 83,700
+Depreciation
+Add: Net Profit 6,33,700 | 7,45;700
+44,77;200 44,77;200
 ````

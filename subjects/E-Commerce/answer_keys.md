@@ -565,6 +565,31 @@ channels
 the service, including warehousing, handling materials, consolidating freight,
 selecting shippers, and monitoring timeliness of delivery
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Primary activities performed in a strategic business unit
+
+Manufacture Provide after-sale
+
+product or service and
+¥, a
+
+create service support
+
+7 ”
+
+Purchase !
+materials and| }
+supplies | #| Market
+and sell
+Identify
+customers
+
+Supporting activities performed by the central corporate organization
+
+Finance and Human Technology
+administration resource development
+activities activities activities
 --- page 16 ---
 The importance of each primary activity depends on the product or service the
 business unit provides and to which customers it sells. Each business unit must
@@ -935,6 +960,40 @@ Software   Software
 Operational   cost;   license cost plus   (e.g., Shopify Plus,
 Cost   subscription-   implementation WooCommerce
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+BUSINESS VALUE CHAIN
+
+1. INBOUND LOGISTICS
+
+Traditional: Manual inventory, paper invoices
+
+E-Commerce: ICT adds value via ERP systems, barcode/RFID tracking,
+supplier portals, and automated stock updates.
+
+2. OPERATIONS
+
+Traditional: Manual order handling and data entry
+
+E-Commerce: ICT adds value through online order processing,
+production scheduling software, and real-time dashboards.
+
+3. OUTBOUND LOGISTICS
+Traditional: Physical dispatch tracking through paperwork
+E-Commerce: ICT adds value with warehouse automation,
+shipment tracking systems, and API integration with 3PLs.
+
+4. MARKETING AND SALES
+Traditional: In-person or print advertising
+E-Commerce: ICT adds value through online storefronts, SEO,
+digital marketing, and CRM analytics for personalized ads.
+
+5S. CUSTOMER SERVICE
+
+Traditional: Call centers, in-person feedback
+
+E-Commerce: ICT adds value using chatbots, \ dased helpdesks,
+ticketing systems, and customer feedback analytics.
 --- page 5 ---
 based or   fees; requires   Enterprise) are cost-
 hybrid license. dedicated IT   effective for medium-

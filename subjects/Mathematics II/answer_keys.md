@@ -896,6 +896,28 @@ b)
 [4]
 [1]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+To find the distance from a point (1, y1) to a line represented by the equation Ax + By + C = 0,
+
+we can use the distance formula:
+
+|Aa, + By: + C|
+VRB [1]
+
+Step 1: Rewrite the given equation in standard form
+
+Distance =
+
+The equation of the line is:
+12(a + 6) = 5(y — 2)
+Expand both sides:
+
+12x + 72 = 5y — 10
+
+Move all terms to one side to get the equation in standard form: (1
+
+12e — 5y + 82 =0
 --- page 2 ---
 Step 2: Use the distance formula
 
@@ -1270,6 +1292,84 @@ Let the number of litres of milk sold be denoted by D, and the price per litre b
 We know two points on the linear demand curve:
 • When the price is Rs 14/litre, 980 litres are sold. So, the point is (14,980)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Solution For two numbers a and b if we can find numbers g and r such that
+a= bq +r, then we say that b divides a with g as quotient and 7 as remainder. Thus, in
+order to show that 6"— 5n leaves remainder 1 when divided by 25, we prove that
+6"— 5n = 25k + 1, where k is some natural number.
+
+We have
+(1 + ay! ="C, + "Cia + "Cia? +... + "Ca"
+
+Fora =5, we get
+
+(1 + 5)P="C, + "C5 + CS? +... +7C, 5" [2]
+ie. (6)" = 14 5n + 59°."C, + 53."C, +... +5"
+ie. 6" — Sn= 145? (°C, +"C,5 +... + 5")
+or 6" — Sn= 1+ 25 ("C, 4+ 5."C, +. + 5")
+or 6"—5n=25k+1 where k= "C,+5."C,+...+ 5".
+
+[2]
+
+This shows that when divided by 25, 6” — 5n leaves remainder 1.
+
+(x3 if x52
+
+T(x) =;"S2e if .x>2
+
+6x+2, if x23
+
+Solution: Given function is a eee
+
+Here 7 ‘*) is defined for ¥$-3 or +73)
+
+and for ~3<*<3 and also for *23 or (3-*!
+
+Therfore, Domain of 7 is f.-3)© (-3,3)U(3,0)=(—0,0) _ 5
+
+1]
+
+is a polynomial and hence continuous and
+
+Therfore, For att *<~3-S(2)=bl+3-=—x+3
+
+x(-3< x<3), f(x)=-2x
+
+for all is a continuous and a continuous function and also
+
+forall x>3, f(x) =6x+2°
+
+[2]
+
+Therefore, f(x) is continuous on R — {-3, 3}.
+
+And, x = -3 and x = 3 are partitioning points of domain R.
+
+lim f(x) = lim (|x|+3) = lim (—x+3)=3+3=6
+Now, Left Hand limit = 1%) eel ) bac tS) mae lt
+l
+
+= li =(-2)(-3)=6
+Right Hand timit = i (*)=! ia (2 eS)
+
+ie f(-3) =|3]+3=3+3=6
+
+se (2]
+Therefore, /‘*) is continuous at *=—3.
+
+lim (—2x) =-2(3) =-6
+Again,Left Hand limit = =-> ie 70) up| *) @)
+
+= 2)= 2=20
+Right Hand imit = LF (*)= Hm (Gxt2 j= 0(3) +2
+
+lim f (x) # lim f(x)
+As, == xi
+
+lim f(x) r f(x)
+
+Therefore does not exist and hence is discontinuous at only x = 3
 --- page 10 ---
 • When the price is Rs 16/litre, 1220 litres are sold. So, the point is (16,1220)
 We can assume the linear relationship is of the form: D = mP + b
@@ -1298,6 +1398,22 @@ c)   i.
 [8]
 Solution:
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Step 2: Find the slope m
+
+The slope of the line m can be calculated using the formula for the slope between two points (P;, D1)
+and (P», Ds):
+
+_ Dz — Dy
+
+— P,P
+Substitute the given points (P}, Di) = (14, 980) and (P2, Dz) = (16, 1220):
+
+— 1220-980 _ 240 _ 159 [2]
+16-14 2
+
+So, the slope m = 120.
 --- page 11 ---
 Jisn (og 1 ~ Tonge
 ase. JF Ue
@@ -1472,6 +1588,28 @@ b)
 [4]
 [1]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+To find the distance from a point (1, y1) to a line represented by the equation Ax + By + C = 0,
+
+we can use the distance formula:
+
+|Aa, + By: + C|
+VRB [1]
+
+Step 1: Rewrite the given equation in standard form
+
+Distance =
+
+The equation of the line is:
+12(a + 6) = 5(y — 2)
+Expand both sides:
+
+12x + 72 = 5y — 10
+
+Move all terms to one side to get the equation in standard form: (1
+
+12e — 5y + 82 =0
 --- page 2 ---
 Step 2: Use the distance formula
 
@@ -1846,6 +1984,84 @@ Let the number of litres of milk sold be denoted by D, and the price per litre b
 We know two points on the linear demand curve:
 • When the price is Rs 14/litre, 980 litres are sold. So, the point is (14,980)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Solution For two numbers a and b if we can find numbers g and r such that
+a= bq +r, then we say that b divides a with g as quotient and 7 as remainder. Thus, in
+order to show that 6"— 5n leaves remainder 1 when divided by 25, we prove that
+6"— 5n = 25k + 1, where k is some natural number.
+
+We have
+(1 + ay! ="C, + "Cia + "Cia? +... + "Ca"
+
+Fora =5, we get
+
+(1 + 5)P="C, + "C5 + CS? +... +7C, 5" [2]
+ie. (6)" = 14 5n + 59°."C, + 53."C, +... +5"
+ie. 6" — Sn= 145? (°C, +"C,5 +... + 5")
+or 6" — Sn= 1+ 25 ("C, 4+ 5."C, +. + 5")
+or 6"—5n=25k+1 where k= "C,+5."C,+...+ 5".
+
+[2]
+
+This shows that when divided by 25, 6” — 5n leaves remainder 1.
+
+(x3 if x52
+
+T(x) =;"S2e if .x>2
+
+6x+2, if x23
+
+Solution: Given function is a eee
+
+Here 7 ‘*) is defined for ¥$-3 or +73)
+
+and for ~3<*<3 and also for *23 or (3-*!
+
+Therfore, Domain of 7 is f.-3)© (-3,3)U(3,0)=(—0,0) _ 5
+
+1]
+
+is a polynomial and hence continuous and
+
+Therfore, For att *<~3-S(2)=bl+3-=—x+3
+
+x(-3< x<3), f(x)=-2x
+
+for all is a continuous and a continuous function and also
+
+forall x>3, f(x) =6x+2°
+
+[2]
+
+Therefore, f(x) is continuous on R — {-3, 3}.
+
+And, x = -3 and x = 3 are partitioning points of domain R.
+
+lim f(x) = lim (|x|+3) = lim (—x+3)=3+3=6
+Now, Left Hand limit = 1%) eel ) bac tS) mae lt
+l
+
+= li =(-2)(-3)=6
+Right Hand timit = i (*)=! ia (2 eS)
+
+ie f(-3) =|3]+3=3+3=6
+
+se (2]
+Therefore, /‘*) is continuous at *=—3.
+
+lim (—2x) =-2(3) =-6
+Again,Left Hand limit = =-> ie 70) up| *) @)
+
+= 2)= 2=20
+Right Hand imit = LF (*)= Hm (Gxt2 j= 0(3) +2
+
+lim f (x) # lim f(x)
+As, == xi
+
+lim f(x) r f(x)
+
+Therefore does not exist and hence is discontinuous at only x = 3
 --- page 10 ---
 • When the price is Rs 16/litre, 1220 litres are sold. So, the point is (16,1220)
 We can assume the linear relationship is of the form: D = mP + b
@@ -1874,6 +2090,22 @@ c)   i.
 [8]
 Solution:
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Step 2: Find the slope m
+
+The slope of the line m can be calculated using the formula for the slope between two points (P;, D1)
+and (P», Ds):
+
+_ Dz — Dy
+
+— P,P
+Substitute the given points (P}, Di) = (14, 980) and (P2, Dz) = (16, 1220):
+
+— 1220-980 _ 240 _ 159 [2]
+16-14 2
+
+So, the slope m = 120.
 --- page 11 ---
 Jisn (og 1 ~ Tonge
 ase. JF Ue
@@ -2048,6 +2280,28 @@ b)
 [4]
 [1]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+To find the distance from a point (1, y1) to a line represented by the equation Ax + By + C = 0,
+
+we can use the distance formula:
+
+|Aa, + By: + C|
+VRB [1]
+
+Step 1: Rewrite the given equation in standard form
+
+Distance =
+
+The equation of the line is:
+12(a + 6) = 5(y — 2)
+Expand both sides:
+
+12x + 72 = 5y — 10
+
+Move all terms to one side to get the equation in standard form: (1
+
+12e — 5y + 82 =0
 --- page 2 ---
 Step 2: Use the distance formula
 
@@ -2422,6 +2676,84 @@ Let the number of litres of milk sold be denoted by D, and the price per litre b
 We know two points on the linear demand curve:
 • When the price is Rs 14/litre, 980 litres are sold. So, the point is (14,980)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Solution For two numbers a and b if we can find numbers g and r such that
+a= bq +r, then we say that b divides a with g as quotient and 7 as remainder. Thus, in
+order to show that 6"— 5n leaves remainder 1 when divided by 25, we prove that
+6"— 5n = 25k + 1, where k is some natural number.
+
+We have
+(1 + ay! ="C, + "Cia + "Cia? +... + "Ca"
+
+Fora =5, we get
+
+(1 + 5)P="C, + "C5 + CS? +... +7C, 5" [2]
+ie. (6)" = 14 5n + 59°."C, + 53."C, +... +5"
+ie. 6" — Sn= 145? (°C, +"C,5 +... + 5")
+or 6" — Sn= 1+ 25 ("C, 4+ 5."C, +. + 5")
+or 6"—5n=25k+1 where k= "C,+5."C,+...+ 5".
+
+[2]
+
+This shows that when divided by 25, 6” — 5n leaves remainder 1.
+
+(x3 if x52
+
+T(x) =;"S2e if .x>2
+
+6x+2, if x23
+
+Solution: Given function is a eee
+
+Here 7 ‘*) is defined for ¥$-3 or +73)
+
+and for ~3<*<3 and also for *23 or (3-*!
+
+Therfore, Domain of 7 is f.-3)© (-3,3)U(3,0)=(—0,0) _ 5
+
+1]
+
+is a polynomial and hence continuous and
+
+Therfore, For att *<~3-S(2)=bl+3-=—x+3
+
+x(-3< x<3), f(x)=-2x
+
+for all is a continuous and a continuous function and also
+
+forall x>3, f(x) =6x+2°
+
+[2]
+
+Therefore, f(x) is continuous on R — {-3, 3}.
+
+And, x = -3 and x = 3 are partitioning points of domain R.
+
+lim f(x) = lim (|x|+3) = lim (—x+3)=3+3=6
+Now, Left Hand limit = 1%) eel ) bac tS) mae lt
+l
+
+= li =(-2)(-3)=6
+Right Hand timit = i (*)=! ia (2 eS)
+
+ie f(-3) =|3]+3=3+3=6
+
+se (2]
+Therefore, /‘*) is continuous at *=—3.
+
+lim (—2x) =-2(3) =-6
+Again,Left Hand limit = =-> ie 70) up| *) @)
+
+= 2)= 2=20
+Right Hand imit = LF (*)= Hm (Gxt2 j= 0(3) +2
+
+lim f (x) # lim f(x)
+As, == xi
+
+lim f(x) r f(x)
+
+Therefore does not exist and hence is discontinuous at only x = 3
 --- page 10 ---
 • When the price is Rs 16/litre, 1220 litres are sold. So, the point is (16,1220)
 We can assume the linear relationship is of the form: D = mP + b
@@ -2450,6 +2782,22 @@ c)   i.
 [8]
 Solution:
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Step 2: Find the slope m
+
+The slope of the line m can be calculated using the formula for the slope between two points (P;, D1)
+and (P», Ds):
+
+_ Dz — Dy
+
+— P,P
+Substitute the given points (P}, Di) = (14, 980) and (P2, Dz) = (16, 1220):
+
+— 1220-980 _ 240 _ 159 [2]
+16-14 2
+
+So, the slope m = 120.
 --- page 11 ---
 Jisn (og 1 ~ Tonge
 ase. JF Ue
@@ -2624,6 +2972,28 @@ b)
 [4]
 [1]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+To find the distance from a point (1, y1) to a line represented by the equation Ax + By + C = 0,
+
+we can use the distance formula:
+
+|Aa, + By: + C|
+VRB [1]
+
+Step 1: Rewrite the given equation in standard form
+
+Distance =
+
+The equation of the line is:
+12(a + 6) = 5(y — 2)
+Expand both sides:
+
+12x + 72 = 5y — 10
+
+Move all terms to one side to get the equation in standard form: (1
+
+12e — 5y + 82 =0
 --- page 2 ---
 Step 2: Use the distance formula
 
@@ -2998,6 +3368,84 @@ Let the number of litres of milk sold be denoted by D, and the price per litre b
 We know two points on the linear demand curve:
 • When the price is Rs 14/litre, 980 litres are sold. So, the point is (14,980)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Solution For two numbers a and b if we can find numbers g and r such that
+a= bq +r, then we say that b divides a with g as quotient and 7 as remainder. Thus, in
+order to show that 6"— 5n leaves remainder 1 when divided by 25, we prove that
+6"— 5n = 25k + 1, where k is some natural number.
+
+We have
+(1 + ay! ="C, + "Cia + "Cia? +... + "Ca"
+
+Fora =5, we get
+
+(1 + 5)P="C, + "C5 + CS? +... +7C, 5" [2]
+ie. (6)" = 14 5n + 59°."C, + 53."C, +... +5"
+ie. 6" — Sn= 145? (°C, +"C,5 +... + 5")
+or 6" — Sn= 1+ 25 ("C, 4+ 5."C, +. + 5")
+or 6"—5n=25k+1 where k= "C,+5."C,+...+ 5".
+
+[2]
+
+This shows that when divided by 25, 6” — 5n leaves remainder 1.
+
+(x3 if x52
+
+T(x) =;"S2e if .x>2
+
+6x+2, if x23
+
+Solution: Given function is a eee
+
+Here 7 ‘*) is defined for ¥$-3 or +73)
+
+and for ~3<*<3 and also for *23 or (3-*!
+
+Therfore, Domain of 7 is f.-3)© (-3,3)U(3,0)=(—0,0) _ 5
+
+1]
+
+is a polynomial and hence continuous and
+
+Therfore, For att *<~3-S(2)=bl+3-=—x+3
+
+x(-3< x<3), f(x)=-2x
+
+for all is a continuous and a continuous function and also
+
+forall x>3, f(x) =6x+2°
+
+[2]
+
+Therefore, f(x) is continuous on R — {-3, 3}.
+
+And, x = -3 and x = 3 are partitioning points of domain R.
+
+lim f(x) = lim (|x|+3) = lim (—x+3)=3+3=6
+Now, Left Hand limit = 1%) eel ) bac tS) mae lt
+l
+
+= li =(-2)(-3)=6
+Right Hand timit = i (*)=! ia (2 eS)
+
+ie f(-3) =|3]+3=3+3=6
+
+se (2]
+Therefore, /‘*) is continuous at *=—3.
+
+lim (—2x) =-2(3) =-6
+Again,Left Hand limit = =-> ie 70) up| *) @)
+
+= 2)= 2=20
+Right Hand imit = LF (*)= Hm (Gxt2 j= 0(3) +2
+
+lim f (x) # lim f(x)
+As, == xi
+
+lim f(x) r f(x)
+
+Therefore does not exist and hence is discontinuous at only x = 3
 --- page 10 ---
 • When the price is Rs 16/litre, 1220 litres are sold. So, the point is (16,1220)
 We can assume the linear relationship is of the form: D = mP + b
@@ -3026,6 +3474,22 @@ c)   i.
 [8]
 Solution:
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Step 2: Find the slope m
+
+The slope of the line m can be calculated using the formula for the slope between two points (P;, D1)
+and (P», Ds):
+
+_ Dz — Dy
+
+— P,P
+Substitute the given points (P}, Di) = (14, 980) and (P2, Dz) = (16, 1220):
+
+— 1220-980 _ 240 _ 159 [2]
+16-14 2
+
+So, the slope m = 120.
 --- page 11 ---
 Jisn (og 1 ~ Tonge
 ase. JF Ue
@@ -3206,6 +3670,25 @@ b)
 [4]
 [1]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+To find the distance between two parallel lines, we can use the formula:
+
+|C1 — Co| (1)
+VA? + B2
+
+where the equations of the lines are in the form Ax + By + C = 0. In this case, we have two lines:
+
+Distance =
+
+1. 15a + 8y — 34=0
+2. lia + 8y + 31=0
+
+Step 1: Identify the coefficients
+
+For both lines, we have the same values of A = 15 and B = 8, since the lines are parallel
+
+From the first line, C; = —34, and from the second line, C2 = 31. [1]
 --- page 2 ---
 Step 2: Apply the formula
 Substitute the values into the distance formula:
@@ -3274,6 +3757,31 @@ arrangements
 b)
 [6]
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+From the first principle,
+
+f(x + h) — f(x)
+
+f°) = lim h
+
+[Cx + h)? — 27] — (x? — 27)
+m
+— h-o h
+
+x? + h? + 3x*h+ 3xh? — x?
+
+_ h
+_ h? + 3x*h+ 3xh?
+lim ——
+= h-o0 h
+
+lim(h? + 3x? + 3xh)
+h=0
+
+=0+ 3x2
+
+= 3x2
 --- page 4 ---
 Given:
 Vertices (0, + 5) and foci (0, + 8)
@@ -3533,6 +4041,53 @@ a)
 The equation of the line is: 2x−9y+85=0
 b)   [6]
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+(1.01) !0000 = (1 + 0.01) 1000000 [2]
+= Too000¢ + 1000000 (0.01) + other positive terms
+= 1+ 1000000 x 0.01 + other positive terms
+= 1+ 10000 + other positive terms
+
+> 10000 [1
+
+Hence (1.01)! > 10000
+
+Solution: Given function is
+> if x<0
+
+St (x)=40, if O<x<l1
+lax ct xe]
+
+lim 2x=0 lim (0) =
+Axe LHice to ennni.. BO
+
+As, L.H.L. = R.H.L.
+
+Therefore, f(x) is continuous at x = 0
+
+lim (0) dhe
+Atxet, LHL. = 2) SO get OR
+
+As, L.H.L. = R.H.L.
+Therefore, f(x) is discontinuous at x = 1.
+When x<0,
+
+f(x) is a polynomial function and is continuous for all x < 0.
+
+Wher x>1,f(x)=4x
+
+It is being a polynomial function is continuous for all * * 1
+
+Hence, x = 1 is a point of discontinuity.
+
+We now know that the slope of the required line is FA and that the line passes through the point (—2, 9)
+
+. Using the point-slope form of the equation of a line:
+y-y = m(a— 2)
+
+Substitute m = 2, @| = —2,and yi = 9:
+
+y-9=2(@ +2) (2)
 --- page 10 ---
 x?
 x+l 3x-1
@@ -3769,6 +4324,25 @@ b)
 [4]
 [1]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+To find the distance between two parallel lines, we can use the formula:
+
+|C1 — Co| (1)
+VA? + B2
+
+where the equations of the lines are in the form Ax + By + C = 0. In this case, we have two lines:
+
+Distance =
+
+1. 15a + 8y — 34=0
+2. lia + 8y + 31=0
+
+Step 1: Identify the coefficients
+
+For both lines, we have the same values of A = 15 and B = 8, since the lines are parallel
+
+From the first line, C; = —34, and from the second line, C2 = 31. [1]
 --- page 2 ---
 Step 2: Apply the formula
 Substitute the values into the distance formula:
@@ -3837,6 +4411,31 @@ arrangements
 b)
 [6]
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+From the first principle,
+
+f(x + h) — f(x)
+
+f°) = lim h
+
+[Cx + h)? — 27] — (x? — 27)
+m
+— h-o h
+
+x? + h? + 3x*h+ 3xh? — x?
+
+_ h
+_ h? + 3x*h+ 3xh?
+lim ——
+= h-o0 h
+
+lim(h? + 3x? + 3xh)
+h=0
+
+=0+ 3x2
+
+= 3x2
 --- page 4 ---
 Given:
 Vertices (0, + 5) and foci (0, + 8)
@@ -4094,6 +4693,53 @@ a)
 The equation of the line is: 2x−9y+85=0
 b)   [6]
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+(1.01) !0000 = (1 + 0.01) 1000000 [2]
+= Too000¢ + 1000000 (0.01) + other positive terms
+= 1+ 1000000 x 0.01 + other positive terms
+= 1+ 10000 + other positive terms
+
+> 10000 [1
+
+Hence (1.01)! > 10000
+
+Solution: Given function is
+> if x<0
+
+St (x)=40, if O<x<l1
+lax ct xe]
+
+lim 2x=0 lim (0) =
+Axe LHice to ennni.. BO
+
+As, L.H.L. = R.H.L.
+
+Therefore, f(x) is continuous at x = 0
+
+lim (0) dhe
+Atxet, LHL. = 2) SO get OR
+
+As, L.H.L. = R.H.L.
+Therefore, f(x) is discontinuous at x = 1.
+When x<0,
+
+f(x) is a polynomial function and is continuous for all x < 0.
+
+Wher x>1,f(x)=4x
+
+It is being a polynomial function is continuous for all * * 1
+
+Hence, x = 1 is a point of discontinuity.
+
+We now know that the slope of the required line is FA and that the line passes through the point (—2, 9)
+
+. Using the point-slope form of the equation of a line:
+y-y = m(a— 2)
+
+Substitute m = 2, @| = —2,and yi = 9:
+
+y-9=2(@ +2) (2)
 --- page 10 ---
 x?
 x+l 3x-1
@@ -4331,6 +4977,25 @@ b)
 [4]
 [1]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+To find the distance between two parallel lines, we can use the formula:
+
+|C1 — Co| (1)
+VA? + B2
+
+where the equations of the lines are in the form Ax + By + C = 0. In this case, we have two lines:
+
+Distance =
+
+1. 15a + 8y — 34=0
+2. lia + 8y + 31=0
+
+Step 1: Identify the coefficients
+
+For both lines, we have the same values of A = 15 and B = 8, since the lines are parallel
+
+From the first line, C; = —34, and from the second line, C2 = 31. [1]
 --- page 2 ---
 Step 2: Apply the formula
 Substitute the values into the distance formula:
@@ -4399,6 +5064,31 @@ arrangements
 b)
 [6]
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+From the first principle,
+
+f(x + h) — f(x)
+
+f°) = lim h
+
+[Cx + h)? — 27] — (x? — 27)
+m
+— h-o h
+
+x? + h? + 3x*h+ 3xh? — x?
+
+_ h
+_ h? + 3x*h+ 3xh?
+lim ——
+= h-o0 h
+
+lim(h? + 3x? + 3xh)
+h=0
+
+=0+ 3x2
+
+= 3x2
 --- page 4 ---
 Given:
 Vertices (0, + 5) and foci (0, + 8)
@@ -4656,6 +5346,53 @@ a)
 The equation of the line is: 2x−9y+85=0
 b)   [6]
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+(1.01) !0000 = (1 + 0.01) 1000000 [2]
+= Too000¢ + 1000000 (0.01) + other positive terms
+= 1+ 1000000 x 0.01 + other positive terms
+= 1+ 10000 + other positive terms
+
+> 10000 [1
+
+Hence (1.01)! > 10000
+
+Solution: Given function is
+> if x<0
+
+St (x)=40, if O<x<l1
+lax ct xe]
+
+lim 2x=0 lim (0) =
+Axe LHice to ennni.. BO
+
+As, L.H.L. = R.H.L.
+
+Therefore, f(x) is continuous at x = 0
+
+lim (0) dhe
+Atxet, LHL. = 2) SO get OR
+
+As, L.H.L. = R.H.L.
+Therefore, f(x) is discontinuous at x = 1.
+When x<0,
+
+f(x) is a polynomial function and is continuous for all x < 0.
+
+Wher x>1,f(x)=4x
+
+It is being a polynomial function is continuous for all * * 1
+
+Hence, x = 1 is a point of discontinuity.
+
+We now know that the slope of the required line is FA and that the line passes through the point (—2, 9)
+
+. Using the point-slope form of the equation of a line:
+y-y = m(a— 2)
+
+Substitute m = 2, @| = —2,and yi = 9:
+
+y-9=2(@ +2) (2)
 --- page 10 ---
 x?
 x+l 3x-1

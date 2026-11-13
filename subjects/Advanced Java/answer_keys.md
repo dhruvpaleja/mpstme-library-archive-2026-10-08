@@ -202,6 +202,66 @@ The criteria query API lets us build nested, structured query expressions in Jav
 providing a compile-time syntax checking that is not possible with a query language
 like HQL or SQL.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+SELECT Query
+
+String hql = “FROM Student”;
+
+Session session = HibernateUtil.getSessionFactory().openSession();
+
+List<Student> students = session.createQuery(hql, Student.class).getResultList();
+students. forEach(System.out: :print1n);
+
+session.close();
+
+This query retrieves all Student entities from the database.
+
+WHERE Clause
+
+String hql = “FROM Student S WHERE S.firstName = :firstName";
+Session session = HibernateUtil.getSessionFactory().openSession();
+Query<Student> query = session.createQuery(hql, Student.class);
+query.setParameter("firstName”, “John");
+
+List<Student> students = query.getResultList();
+
+students. forEach(System.out: :print1n) ;
+
+session.close();
+
+This query retrieves Student entities with a specific first name.
+
+Subqueries
+
+String hql = "FROM Student S WHERE S.id IN (SELECT C.student.id FROM Course C WHERE C.name = :courseName)";
+Session session = HibernateUtil.getSessionFactory().openSession();
+
+Query<Student> query = session.createQuery(hgl, Student.class);
+
+query.setParameter("courseName", "Mathematics”);
+
+List<Student> students = query.getResultList();
+
+students. forEach(System.out: :println) ;
+
+session.close();
+
+This query retrieves Student entities enrolled in a specific course using a subquery.
+
+HQL Functions and Operators
+String Functions
+
+* concat()
+
+*¢ length()
+
+e substring()
+* lower()
+
+* upper()
+
+«© trim()
 --- page 6 ---
 1. The simplest example of a criteria query is one with no optional parameters or
 restrictions—the criteria query will simply return every object that corresponds to the
@@ -811,6 +871,19 @@ Feature   JSP Life Cycle
 Cycle
 Conversion   JSP → Servlet (extra step) No conversion
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+1.Load servlet class &
+
+2.Create servietinstance
+
+3.Call the init(-) method
+
+4.Call the service(-,-) READY
+method
+
+5.Call the destroy()
+method O
 --- page 4 ---
 Initialization
 _jspInit()   init()
@@ -2141,6 +2214,66 @@ The criteria query API lets us build nested, structured query expressions in Jav
 providing a compile-time syntax checking that is not possible with a query language
 like HQL or SQL.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+SELECT Query
+
+String hql = “FROM Student”;
+
+Session session = HibernateUtil.getSessionFactory().openSession();
+
+List<Student> students = session.createQuery(hql, Student.class).getResultList();
+students. forEach(System.out: :print1n);
+
+session.close();
+
+This query retrieves all Student entities from the database.
+
+WHERE Clause
+
+String hql = “FROM Student S WHERE S.firstName = :firstName";
+Session session = HibernateUtil.getSessionFactory().openSession();
+Query<Student> query = session.createQuery(hql, Student.class);
+query.setParameter("firstName”, “John");
+
+List<Student> students = query.getResultList();
+
+students. forEach(System.out: :print1n) ;
+
+session.close();
+
+This query retrieves Student entities with a specific first name.
+
+Subqueries
+
+String hql = "FROM Student S WHERE S.id IN (SELECT C.student.id FROM Course C WHERE C.name = :courseName)";
+Session session = HibernateUtil.getSessionFactory().openSession();
+
+Query<Student> query = session.createQuery(hgl, Student.class);
+
+query.setParameter("courseName", "Mathematics”);
+
+List<Student> students = query.getResultList();
+
+students. forEach(System.out: :println) ;
+
+session.close();
+
+This query retrieves Student entities enrolled in a specific course using a subquery.
+
+HQL Functions and Operators
+String Functions
+
+* concat()
+
+*¢ length()
+
+e substring()
+* lower()
+
+* upper()
+
+«© trim()
 --- page 6 ---
 1. The simplest example of a criteria query is one with no optional parameters or
 restrictions—the criteria query will simply return every object that corresponds to the
@@ -2186,6 +2319,19 @@ There are three ways to create the servlet.
 </body>
 </html>
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+1.Load servlet class &
+
+2.Create servietinstance
+
+3.Call the init(-) method
+
+4.Call the service(-,-) READY
+method
+
+5.Call the destroy()
+method O
 --- page 8 ---
 <%@ page language="java" contentType="text/html; charset=UTF-8"
 pageEncoding="UTF-8" %>

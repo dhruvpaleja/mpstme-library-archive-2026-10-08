@@ -1362,6 +1362,21 @@ conformance and cost of non-conformance
 outsourcing it. Focus should be on core competency or else cheaper option is available as a
 outsource.
 Page 7 of 7
+
+[Text in pictures on this page, read by OCR]
+Vendor Vendor Proposal Delivery
+
+"eentifetion Selection ° Evaluation : by Vendor
+I
+|
+- e+ t= > + ©
+! Project
+oe t | End
+Procurement Vendor REP/ ‘Award. ose
+Evaluation RFQ. Contract Procurement
+DEFINITION AND PLANNING PROCUREMENT PERFORMANCE
+
+OF PROCUREMENT (PROCESS MEASUREMENT
 ````
 
 ## 2024-25 · Final-Exam · Sem 9 · Answer key · paper c001bf64737b
@@ -1577,6 +1592,21 @@ conformance and cost of non-conformance
 outsourcing it. Focus should be on core competency or else cheaper option is available as a
 outsource.
 Page 7 of 7
+
+[Text in pictures on this page, read by OCR]
+Vendor Vendor Proposal Delivery
+
+"eentifetion Selection ° Evaluation : by Vendor
+I
+|
+- e+ t= > + ©
+! Project
+oe t | End
+Procurement Vendor REP/ ‘Award. ose
+Evaluation RFQ. Contract Procurement
+DEFINITION AND PLANNING PROCUREMENT PERFORMANCE
+
+OF PROCUREMENT (PROCESS MEASUREMENT
 ````
 
 ## 2024-25 · Final-Exam · Sem 9 · Answer key · paper d90f2d52850b
@@ -1792,6 +1822,21 @@ conformance and cost of non-conformance
 outsourcing it. Focus should be on core competency or else cheaper option is available as a
 outsource.
 Page 7 of 7
+
+[Text in pictures on this page, read by OCR]
+Vendor Vendor Proposal Delivery
+
+"eentifetion Selection ° Evaluation : by Vendor
+I
+|
+- e+ t= > + ©
+! Project
+oe t | End
+Procurement Vendor REP/ ‘Award. ose
+Evaluation RFQ. Contract Procurement
+DEFINITION AND PLANNING PROCUREMENT PERFORMANCE
+
+OF PROCUREMENT (PROCESS MEASUREMENT
 ````
 
 ## 2024-25 · Final-Exam · Sem 9 · Answer key · paper 52b76f1dbd83
@@ -2007,6 +2052,21 @@ conformance and cost of non-conformance
 outsourcing it. Focus should be on core competency or else cheaper option is available as a
 outsource.
 Page 7 of 7
+
+[Text in pictures on this page, read by OCR]
+Vendor Vendor Proposal Delivery
+
+"eentifetion Selection ° Evaluation : by Vendor
+I
+|
+- e+ t= > + ©
+! Project
+oe t | End
+Procurement Vendor REP/ ‘Award. ose
+Evaluation RFQ. Contract Procurement
+DEFINITION AND PLANNING PROCUREMENT PERFORMANCE
+
+OF PROCUREMENT (PROCESS MEASUREMENT
 ````
 
 ## 2024-25 · Final-Exam · Sem 9 · Answer key · paper db114481fd91
@@ -2222,6 +2282,21 @@ conformance and cost of non-conformance
 outsourcing it. Focus should be on core competency or else cheaper option is available as a
 outsource.
 Page 7 of 7
+
+[Text in pictures on this page, read by OCR]
+Vendor Vendor Proposal Delivery
+
+"eentifetion Selection ° Evaluation : by Vendor
+I
+|
+- e+ t= > + ©
+! Project
+oe t | End
+Procurement Vendor REP/ ‘Award. ose
+Evaluation RFQ. Contract Procurement
+DEFINITION AND PLANNING PROCUREMENT PERFORMANCE
+
+OF PROCUREMENT (PROCESS MEASUREMENT
 ````
 
 ## 2024-25 · Re-Exam · Sem 9 · Answer key · paper de55327c8298

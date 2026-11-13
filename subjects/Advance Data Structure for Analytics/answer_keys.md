@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `00_Original_Downloads/2025/76555__Semester X.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038/Advance Data Structure for Analytics/ANS_Final-Exam_Advance Data Structure for Analytics(702DB0C026)_Semester X_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: mixed (20 pages), mean OCR confidence 78.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -62,6 +63,51 @@ Criteria   dimensions alternately
 Structure   Each level uses a different   All levels use the same key comparison
 dimension
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Define Node Structure
+4. Creste a class/structure moae with:
+- date —to store the value
+- next — pointer to the next mode
+
+Step 2: Imser
+Algorithme
+4. Insert at Beginning:
+= Creste s new node new node with given data
+
+= Set new _mode.next = head
+= Set mesa = new moe
+
+2. Insert at End:
+- Create anew node new _mede with given data
+= Traverse to the last mode (.current.next = Mone )
+
+(Marks: 2— 7 for insertion at beginning, 7 for insertion at ena)
+
+Step 3: Deletion
+Aulgporithime:
+4. Delete from Beginning:
+
+- If head = Nome, list is empty — Underfiow
+- Else, set head = head. next
+
+2. Delete from End:
+- If head = Nome, list is empty — Underfiow
+- Else, trawerse to the secomd last node
+
+Marks: 2— 7 for detetion from beginning, T for detetion fron end)
+
+Step 4: Display
+Algorithms:
+
+4. Start from peso
+2. Traverse each mode:
+
+* Print mode .deta
+= MoMe tO mode next
+3. Stop when node = Mone
+
+arts: 1
 --- page 3 ---
 Example Data   (x, y), (x, y, z) coordinates   Numbers or strings
 Application Spatial searching, nearest neighbor Sorting, dictionary operations
@@ -94,6 +140,21 @@ CO-4;
 SO-1;   d.   [5]
 BL-2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+1. Array A (Random Order}:
+® = Choosing the last element as pivot works reasonably well.
+* Quick Sort divides the array into roughly balanced partitions on average.
+* Time complexity:
+«© Best/Average: ofn log nj
+© Worst: Rare, o¢n?) if pivot is unlucky.
+2. Array B (Already Sorted):
+«* Always choosing the last element as pivot leads to highly unbalanced partitions.
+* One partition has n-a1 elements, the other has 2.
+* Quick Sort essentially degenerates to selection sort behavior.
+* Time complexity: ofn7) (worst case),
+
+Key Point: Choosing a fixed pivot (last element] is inefficient for already sorted or reverse-sorted arrays.
 --- page 4 ---
 In the Dynamic Connectivity problem using Disjoint Sets, discuss the
 Quick-Find and Quick-Union approaches for managing relationships
@@ -151,6 +212,15 @@ BL-6   Five Essential Properties
 number of Black nodes
 5. All NULL leaves are Black
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Quick Find Quick Union
+
+find() Complexity O(1) O(N)
+union() Complexity O(N) O(N)
+Space Complexity O(N) O(N)
+
+Best Used When Small data sets Tree-based optimizations needed
 --- page 6 ---
 3. Step-by-Step Insertion
 
@@ -219,6 +289,52 @@ BL-3   - `capacity`: Maximum queue size
 Function ENQUEUE(value):
 - If queue is full, print "Queue is full".
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Insert 23
+
+= Insert as right child of 19
+« Parent (19) is Red, Uncle (15) is Red — Recoloring
+
+13(B)
+f A
+12(8) 16{R)
+AON
+15(B) 15(B)
+\
+2a(R)
+
+Insert 5
+
+= Insert as left child of 12
+= Parentis Mack + no violation
+
+13(8)
+pon
+12(8) = 1e{R)
+f poy
+5(R) 15(B) 15(B)
+23(R)
+
+Insert &
+= Insert.as right child of 5 ~ Red-Red violation
+= Uncle is NULL (Black) — Left-Right Case
+
+= Left rotation at 5
+
+«= Right rotation at 12
+
+«   Recoloring
+
+Final tree:
+13(8)
+i \
+S(B) = 16(R)
+few fey
+
+S(R) 12(R)1S(B)19(8)
+
+23(R)
 --- page 8 ---
 - Increment `rear` circularly.
 - Insert `value` at `rear` position.
@@ -267,6 +383,60 @@ Q4 a   Implement a hash table using separate chaining. Demonstrate how to
 CO-5;   perform insertion, search, and deletion operations with a sample dataset.
 SO-1;
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Construct BST
+Insert keys: H, C, R, 4, E, S, x
+
+co
+ow
+ec Rr
+rom ~
+a E s
+
+Step 2: Find ming) and max)
+
+= ming) — leftrnost node — A
+= max) — rightmest nede — *
+
+Step 3: Perform deleteMin)
+
+* Minimum =A (leaf nede) — remove directly
+”
+oN
+c oR
+4 N
+E s
+
+“
+*
+
+Step 4: Perform deleteMax(t
+- Maximum = X (leaf mode) — remove directly
+
+co
+ow
+
+a 5,
+E s
+
+Pseudocode
+
+deleteMin()
+
+deleteMin(node}:
+if node.left == NULL:
+return node.right
+nade. left = deleteMin(node. Left)
+return node
+
+deleteMax()
+
+deleteMax( node):
+if nede.right == MULL:
+return node.left
+fode.right = deleteMax(node. right)
+return node
 --- page 10 ---
 BL-4
 A hash table is a data structure that stores key-value pairs. It uses a hash
@@ -328,6 +498,41 @@ BL-5
 Spanning Tree. Show the edges selected at each step and compute the total
 weight of the MST.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+1. Structure and Properties of B-Tree (4 Marks)
+
+A B-Tree of order m is a multi-way balanced search tree.
+
+¢ Each node contains at most (m-1) keys and m children
+e Each node (except root) has at least [m/21 children
+
+¢ Keys in a node are sorted
+
+¢ All leaf nodes are at the same level (perfectly balanced)
+
+* Root has at least 2 children (if not a leaf)
+
+2. Insertion and Node Splitting (3 Marks)
+¢ Insert key in the appropriate leaf node
+e If node has space — insert directly
+« If node overflows:
+¢ Split the node into two
+*¢ Move the middle key to the parent
+
+¢ Repeat recursively if parent overflows
+
+3. Maintaining Balance (1-2 Marks)
+« All leaves remain at the same depth
+© Splitting distributes keys evenly
+* Prevents skewed growth
+
+4. Efficient Disk Access (2 Marks)
+* Each node stores multiple keys — fewer levels
+© Tree height is very small (Q(log n))
+* Fewer node accesses — fewer disk I/O operations
+
+* Ideal for databases and file systems
 --- page 12 ---
 Solution with Union-Find (10 Marks)
 
@@ -377,6 +582,52 @@ CO-5;   [10]
 SO-1;   you use one over the other?
 BL-2
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: A-B (3)
+*   Find{A)=A, Find|B)=A + same
+X Reject (cycle)
+
+Step 4: B-D (4)
+= FindiB)=A, Find(D)=D — different
+«   Union(A,D)
+
+Parent: A A A AE F
+
+ww Selected
+
+‘Step 5: CD (5)
+= Find(Q=A, Find(D)=A + same
+X Reject
+
+‘Step 6: C-E (6)
+= FindiC)=A. Find(E}=E — different
+« — Union(A,£)
+
+Parent: A A A A A OF
+
+w Selected
+
+Step 7: D-E (7)
+
+= Find(D)=A, Find[E)=A + same
+& Reject
+
+Step 8: D-F (8)
+
+= Find(D)=A, Find(F)=F — different
+= Union(A.F)
+
+Parent: A A A A AA
+
+w Selected
+
+4. MST Edges (1 Mark)
+« AAC(T)
+» BQ)
+» BD@
+» CEG)
+« ODF(3)
 --- page 14 ---
 Role of Hash Table in Symbol Table Applications:
 A hash table provides efficient storage and retrieval of key-value pairs.
@@ -413,6 +664,47 @@ Q6 b   Explain the role of sift-up and sift-down operations in maintaining the h
 CO-2;   property in a binary heap. Also write the algorithm for both operations.
 SO-1;
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+1. Recursion Tree (3 Marks)
+
+Level @: fn
+fo
+Level 1: nf2 nf4
+iN is
+Level 2: n/4n/8 n/8 n/16
+
+* Each node represents a subproblem
+* Work at each node = c « (subproblem size)
+
+2. Cost at Each Level (3 Marks)
+
+Level 0
+Cost = cn
+Level 1
+. 3cn
+e(n/2) + e(n/4) = —
+: 4
+Level 2
+
+(G+Et Et ie) ow
+
+3. General Expression (3 Marks)
+
+At level i:
+
+3 i
+Cost = en (3)
+
+rin) =|. $s (3) +
+
+*® Geometric series with ratio 3/4 <1
+
+Total cost:
+
+4. Final Time Complexity (1 Mark)
+
+T(n) = O(n)
 --- page 16 ---
 BL-2,3 1. Role of Sift-Up and Sift-Down (5 Marks)
 
@@ -465,6 +757,39 @@ Divide recursively:
 →[38][27,43][3,9][82,10]
 →[38][27][43][3][9][82][10]
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+2. Algorithm for Sift-Up (3 Marks)
+
+SIFT-UP(heap, i):
+while i > @:
+parent = (i - 1) #/ 2
+if heap[i] > heap[parent]: // for max-heap
+swap(heap[i], heap[parent])
+i = parent
+else:
+break
+
+3. Algorithm for Sift-Down (2 Marks)
+
+SIFT-DOWN(heap, i, n):
+while 27i + 1< nm:
+left = 2*i+1
+right = 2*i + 2
+largest =i
+
+if left < n and heap[left] > heap[largest]:
+largest = left
+
+if right < n and heap[right] > heap[largest]:
+largest = right
+
+if largest != i:
+swap(heap[i], heap[largest])
+i = largest
+
+else:
+break
 --- page 18 ---
 All subarrays reduced to single elements
 Step 2: Merging Phase (5 marks)
@@ -559,6 +884,7 @@ FRI ICR DO) A RH
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CSE_DS_7057/Advance Data Structure for Analytics/ANS_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: mixed (20 pages), mean OCR confidence 78.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -612,6 +938,51 @@ Criteria   dimensions alternately
 Structure   Each level uses a different   All levels use the same key comparison
 dimension
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Define Node Structure
+4. Creste a class/structure moae with:
+- date —to store the value
+- next — pointer to the next mode
+
+Step 2: Imser
+Algorithme
+4. Insert at Beginning:
+= Creste s new node new node with given data
+
+= Set new _mode.next = head
+= Set mesa = new moe
+
+2. Insert at End:
+- Create anew node new _mede with given data
+= Traverse to the last mode (.current.next = Mone )
+
+(Marks: 2— 7 for insertion at beginning, 7 for insertion at ena)
+
+Step 3: Deletion
+Aulgporithime:
+4. Delete from Beginning:
+
+- If head = Nome, list is empty — Underfiow
+- Else, set head = head. next
+
+2. Delete from End:
+- If head = Nome, list is empty — Underfiow
+- Else, trawerse to the secomd last node
+
+Marks: 2— 7 for detetion from beginning, T for detetion fron end)
+
+Step 4: Display
+Algorithms:
+
+4. Start from peso
+2. Traverse each mode:
+
+* Print mode .deta
+= MoMe tO mode next
+3. Stop when node = Mone
+
+arts: 1
 --- page 3 ---
 Example Data   (x, y), (x, y, z) coordinates   Numbers or strings
 Application Spatial searching, nearest neighbor Sorting, dictionary operations
@@ -644,6 +1015,21 @@ CO-4;
 SO-1;   d.   [5]
 BL-2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+1. Array A (Random Order}:
+® = Choosing the last element as pivot works reasonably well.
+* Quick Sort divides the array into roughly balanced partitions on average.
+* Time complexity:
+«© Best/Average: ofn log nj
+© Worst: Rare, o¢n?) if pivot is unlucky.
+2. Array B (Already Sorted):
+«* Always choosing the last element as pivot leads to highly unbalanced partitions.
+* One partition has n-a1 elements, the other has 2.
+* Quick Sort essentially degenerates to selection sort behavior.
+* Time complexity: ofn7) (worst case),
+
+Key Point: Choosing a fixed pivot (last element] is inefficient for already sorted or reverse-sorted arrays.
 --- page 4 ---
 In the Dynamic Connectivity problem using Disjoint Sets, discuss the
 Quick-Find and Quick-Union approaches for managing relationships
@@ -701,6 +1087,15 @@ BL-6   Five Essential Properties
 number of Black nodes
 5. All NULL leaves are Black
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Quick Find Quick Union
+
+find() Complexity O(1) O(N)
+union() Complexity O(N) O(N)
+Space Complexity O(N) O(N)
+
+Best Used When Small data sets Tree-based optimizations needed
 --- page 6 ---
 3. Step-by-Step Insertion
 
@@ -769,6 +1164,52 @@ BL-3   - `capacity`: Maximum queue size
 Function ENQUEUE(value):
 - If queue is full, print "Queue is full".
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Insert 23
+
+= Insert as right child of 19
+« Parent (19) is Red, Uncle (15) is Red — Recoloring
+
+13(B)
+f A
+12(8) 16{R)
+AON
+15(B) 15(B)
+\
+2a(R)
+
+Insert 5
+
+= Insert as left child of 12
+= Parentis Mack + no violation
+
+13(8)
+pon
+12(8) = 1e{R)
+f poy
+5(R) 15(B) 15(B)
+23(R)
+
+Insert &
+= Insert.as right child of 5 ~ Red-Red violation
+= Uncle is NULL (Black) — Left-Right Case
+
+= Left rotation at 5
+
+«= Right rotation at 12
+
+«   Recoloring
+
+Final tree:
+13(8)
+i \
+S(B) = 16(R)
+few fey
+
+S(R) 12(R)1S(B)19(8)
+
+23(R)
 --- page 8 ---
 - Increment `rear` circularly.
 - Insert `value` at `rear` position.
@@ -817,6 +1258,60 @@ Q4 a   Implement a hash table using separate chaining. Demonstrate how to
 CO-5;   perform insertion, search, and deletion operations with a sample dataset.
 SO-1;
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Construct BST
+Insert keys: H, C, R, 4, E, S, x
+
+co
+ow
+ec Rr
+rom ~
+a E s
+
+Step 2: Find ming) and max)
+
+= ming) — leftrnost node — A
+= max) — rightmest nede — *
+
+Step 3: Perform deleteMin)
+
+* Minimum =A (leaf nede) — remove directly
+”
+oN
+c oR
+4 N
+E s
+
+“
+*
+
+Step 4: Perform deleteMax(t
+- Maximum = X (leaf mode) — remove directly
+
+co
+ow
+
+a 5,
+E s
+
+Pseudocode
+
+deleteMin()
+
+deleteMin(node}:
+if node.left == NULL:
+return node.right
+nade. left = deleteMin(node. Left)
+return node
+
+deleteMax()
+
+deleteMax( node):
+if nede.right == MULL:
+return node.left
+fode.right = deleteMax(node. right)
+return node
 --- page 10 ---
 BL-4
 A hash table is a data structure that stores key-value pairs. It uses a hash
@@ -878,6 +1373,41 @@ BL-5
 Spanning Tree. Show the edges selected at each step and compute the total
 weight of the MST.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+1. Structure and Properties of B-Tree (4 Marks)
+
+A B-Tree of order m is a multi-way balanced search tree.
+
+¢ Each node contains at most (m-1) keys and m children
+e Each node (except root) has at least [m/21 children
+
+¢ Keys in a node are sorted
+
+¢ All leaf nodes are at the same level (perfectly balanced)
+
+* Root has at least 2 children (if not a leaf)
+
+2. Insertion and Node Splitting (3 Marks)
+¢ Insert key in the appropriate leaf node
+e If node has space — insert directly
+« If node overflows:
+¢ Split the node into two
+*¢ Move the middle key to the parent
+
+¢ Repeat recursively if parent overflows
+
+3. Maintaining Balance (1-2 Marks)
+« All leaves remain at the same depth
+© Splitting distributes keys evenly
+* Prevents skewed growth
+
+4. Efficient Disk Access (2 Marks)
+* Each node stores multiple keys — fewer levels
+© Tree height is very small (Q(log n))
+* Fewer node accesses — fewer disk I/O operations
+
+* Ideal for databases and file systems
 --- page 12 ---
 Solution with Union-Find (10 Marks)
 
@@ -927,6 +1457,52 @@ CO-5;   [10]
 SO-1;   you use one over the other?
 BL-2
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: A-B (3)
+*   Find{A)=A, Find|B)=A + same
+X Reject (cycle)
+
+Step 4: B-D (4)
+= FindiB)=A, Find(D)=D — different
+«   Union(A,D)
+
+Parent: A A A AE F
+
+ww Selected
+
+‘Step 5: CD (5)
+= Find(Q=A, Find(D)=A + same
+X Reject
+
+‘Step 6: C-E (6)
+= FindiC)=A. Find(E}=E — different
+« — Union(A,£)
+
+Parent: A A A A A OF
+
+w Selected
+
+Step 7: D-E (7)
+
+= Find(D)=A, Find[E)=A + same
+& Reject
+
+Step 8: D-F (8)
+
+= Find(D)=A, Find(F)=F — different
+= Union(A.F)
+
+Parent: A A A A AA
+
+w Selected
+
+4. MST Edges (1 Mark)
+« AAC(T)
+» BQ)
+» BD@
+» CEG)
+« ODF(3)
 --- page 14 ---
 Role of Hash Table in Symbol Table Applications:
 A hash table provides efficient storage and retrieval of key-value pairs.
@@ -963,6 +1539,47 @@ Q6 b   Explain the role of sift-up and sift-down operations in maintaining the h
 CO-2;   property in a binary heap. Also write the algorithm for both operations.
 SO-1;
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+1. Recursion Tree (3 Marks)
+
+Level @: fn
+fo
+Level 1: nf2 nf4
+iN is
+Level 2: n/4n/8 n/8 n/16
+
+* Each node represents a subproblem
+* Work at each node = c « (subproblem size)
+
+2. Cost at Each Level (3 Marks)
+
+Level 0
+Cost = cn
+Level 1
+. 3cn
+e(n/2) + e(n/4) = —
+: 4
+Level 2
+
+(G+Et Et ie) ow
+
+3. General Expression (3 Marks)
+
+At level i:
+
+3 i
+Cost = en (3)
+
+rin) =|. $s (3) +
+
+*® Geometric series with ratio 3/4 <1
+
+Total cost:
+
+4. Final Time Complexity (1 Mark)
+
+T(n) = O(n)
 --- page 16 ---
 BL-2,3 1. Role of Sift-Up and Sift-Down (5 Marks)
 
@@ -1015,6 +1632,39 @@ Divide recursively:
 →[38][27,43][3,9][82,10]
 →[38][27][43][3][9][82][10]
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+2. Algorithm for Sift-Up (3 Marks)
+
+SIFT-UP(heap, i):
+while i > @:
+parent = (i - 1) #/ 2
+if heap[i] > heap[parent]: // for max-heap
+swap(heap[i], heap[parent])
+i = parent
+else:
+break
+
+3. Algorithm for Sift-Down (2 Marks)
+
+SIFT-DOWN(heap, i, n):
+while 27i + 1< nm:
+left = 2*i+1
+right = 2*i + 2
+largest =i
+
+if left < n and heap[left] > heap[largest]:
+largest = left
+
+if right < n and heap[right] > heap[largest]:
+largest = right
+
+if largest != i:
+swap(heap[i], heap[largest])
+i = largest
+
+else:
+break
 --- page 18 ---
 All subarrays reduced to single elements
 Step 2: Merging Phase (5 marks)
@@ -1109,6 +1759,7 @@ FRI ICR DO) A RH
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_DS_7009/Advance Data Structure for Analytics/ANS_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: mixed (20 pages), mean OCR confidence 78.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1162,6 +1813,51 @@ Criteria   dimensions alternately
 Structure   Each level uses a different   All levels use the same key comparison
 dimension
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Define Node Structure
+4. Creste a class/structure moae with:
+- date —to store the value
+- next — pointer to the next mode
+
+Step 2: Imser
+Algorithme
+4. Insert at Beginning:
+= Creste s new node new node with given data
+
+= Set new _mode.next = head
+= Set mesa = new moe
+
+2. Insert at End:
+- Create anew node new _mede with given data
+= Traverse to the last mode (.current.next = Mone )
+
+(Marks: 2— 7 for insertion at beginning, 7 for insertion at ena)
+
+Step 3: Deletion
+Aulgporithime:
+4. Delete from Beginning:
+
+- If head = Nome, list is empty — Underfiow
+- Else, set head = head. next
+
+2. Delete from End:
+- If head = Nome, list is empty — Underfiow
+- Else, trawerse to the secomd last node
+
+Marks: 2— 7 for detetion from beginning, T for detetion fron end)
+
+Step 4: Display
+Algorithms:
+
+4. Start from peso
+2. Traverse each mode:
+
+* Print mode .deta
+= MoMe tO mode next
+3. Stop when node = Mone
+
+arts: 1
 --- page 3 ---
 Example Data   (x, y), (x, y, z) coordinates   Numbers or strings
 Application Spatial searching, nearest neighbor Sorting, dictionary operations
@@ -1194,6 +1890,21 @@ CO-4;
 SO-1;   d.   [5]
 BL-2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+1. Array A (Random Order}:
+® = Choosing the last element as pivot works reasonably well.
+* Quick Sort divides the array into roughly balanced partitions on average.
+* Time complexity:
+«© Best/Average: ofn log nj
+© Worst: Rare, o¢n?) if pivot is unlucky.
+2. Array B (Already Sorted):
+«* Always choosing the last element as pivot leads to highly unbalanced partitions.
+* One partition has n-a1 elements, the other has 2.
+* Quick Sort essentially degenerates to selection sort behavior.
+* Time complexity: ofn7) (worst case),
+
+Key Point: Choosing a fixed pivot (last element] is inefficient for already sorted or reverse-sorted arrays.
 --- page 4 ---
 In the Dynamic Connectivity problem using Disjoint Sets, discuss the
 Quick-Find and Quick-Union approaches for managing relationships
@@ -1251,6 +1962,15 @@ BL-6   Five Essential Properties
 number of Black nodes
 5. All NULL leaves are Black
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Quick Find Quick Union
+
+find() Complexity O(1) O(N)
+union() Complexity O(N) O(N)
+Space Complexity O(N) O(N)
+
+Best Used When Small data sets Tree-based optimizations needed
 --- page 6 ---
 3. Step-by-Step Insertion
 
@@ -1319,6 +2039,52 @@ BL-3   - `capacity`: Maximum queue size
 Function ENQUEUE(value):
 - If queue is full, print "Queue is full".
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Insert 23
+
+= Insert as right child of 19
+« Parent (19) is Red, Uncle (15) is Red — Recoloring
+
+13(B)
+f A
+12(8) 16{R)
+AON
+15(B) 15(B)
+\
+2a(R)
+
+Insert 5
+
+= Insert as left child of 12
+= Parentis Mack + no violation
+
+13(8)
+pon
+12(8) = 1e{R)
+f poy
+5(R) 15(B) 15(B)
+23(R)
+
+Insert &
+= Insert.as right child of 5 ~ Red-Red violation
+= Uncle is NULL (Black) — Left-Right Case
+
+= Left rotation at 5
+
+«= Right rotation at 12
+
+«   Recoloring
+
+Final tree:
+13(8)
+i \
+S(B) = 16(R)
+few fey
+
+S(R) 12(R)1S(B)19(8)
+
+23(R)
 --- page 8 ---
 - Increment `rear` circularly.
 - Insert `value` at `rear` position.
@@ -1367,6 +2133,60 @@ Q4 a   Implement a hash table using separate chaining. Demonstrate how to
 CO-5;   perform insertion, search, and deletion operations with a sample dataset.
 SO-1;
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Construct BST
+Insert keys: H, C, R, 4, E, S, x
+
+co
+ow
+ec Rr
+rom ~
+a E s
+
+Step 2: Find ming) and max)
+
+= ming) — leftrnost node — A
+= max) — rightmest nede — *
+
+Step 3: Perform deleteMin)
+
+* Minimum =A (leaf nede) — remove directly
+”
+oN
+c oR
+4 N
+E s
+
+“
+*
+
+Step 4: Perform deleteMax(t
+- Maximum = X (leaf mode) — remove directly
+
+co
+ow
+
+a 5,
+E s
+
+Pseudocode
+
+deleteMin()
+
+deleteMin(node}:
+if node.left == NULL:
+return node.right
+nade. left = deleteMin(node. Left)
+return node
+
+deleteMax()
+
+deleteMax( node):
+if nede.right == MULL:
+return node.left
+fode.right = deleteMax(node. right)
+return node
 --- page 10 ---
 BL-4
 A hash table is a data structure that stores key-value pairs. It uses a hash
@@ -1428,6 +2248,41 @@ BL-5
 Spanning Tree. Show the edges selected at each step and compute the total
 weight of the MST.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+1. Structure and Properties of B-Tree (4 Marks)
+
+A B-Tree of order m is a multi-way balanced search tree.
+
+¢ Each node contains at most (m-1) keys and m children
+e Each node (except root) has at least [m/21 children
+
+¢ Keys in a node are sorted
+
+¢ All leaf nodes are at the same level (perfectly balanced)
+
+* Root has at least 2 children (if not a leaf)
+
+2. Insertion and Node Splitting (3 Marks)
+¢ Insert key in the appropriate leaf node
+e If node has space — insert directly
+« If node overflows:
+¢ Split the node into two
+*¢ Move the middle key to the parent
+
+¢ Repeat recursively if parent overflows
+
+3. Maintaining Balance (1-2 Marks)
+« All leaves remain at the same depth
+© Splitting distributes keys evenly
+* Prevents skewed growth
+
+4. Efficient Disk Access (2 Marks)
+* Each node stores multiple keys — fewer levels
+© Tree height is very small (Q(log n))
+* Fewer node accesses — fewer disk I/O operations
+
+* Ideal for databases and file systems
 --- page 12 ---
 Solution with Union-Find (10 Marks)
 
@@ -1477,6 +2332,52 @@ CO-5;   [10]
 SO-1;   you use one over the other?
 BL-2
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: A-B (3)
+*   Find{A)=A, Find|B)=A + same
+X Reject (cycle)
+
+Step 4: B-D (4)
+= FindiB)=A, Find(D)=D — different
+«   Union(A,D)
+
+Parent: A A A AE F
+
+ww Selected
+
+‘Step 5: CD (5)
+= Find(Q=A, Find(D)=A + same
+X Reject
+
+‘Step 6: C-E (6)
+= FindiC)=A. Find(E}=E — different
+« — Union(A,£)
+
+Parent: A A A A A OF
+
+w Selected
+
+Step 7: D-E (7)
+
+= Find(D)=A, Find[E)=A + same
+& Reject
+
+Step 8: D-F (8)
+
+= Find(D)=A, Find(F)=F — different
+= Union(A.F)
+
+Parent: A A A A AA
+
+w Selected
+
+4. MST Edges (1 Mark)
+« AAC(T)
+» BQ)
+» BD@
+» CEG)
+« ODF(3)
 --- page 14 ---
 Role of Hash Table in Symbol Table Applications:
 A hash table provides efficient storage and retrieval of key-value pairs.
@@ -1513,6 +2414,47 @@ Q6 b   Explain the role of sift-up and sift-down operations in maintaining the h
 CO-2;   property in a binary heap. Also write the algorithm for both operations.
 SO-1;
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+1. Recursion Tree (3 Marks)
+
+Level @: fn
+fo
+Level 1: nf2 nf4
+iN is
+Level 2: n/4n/8 n/8 n/16
+
+* Each node represents a subproblem
+* Work at each node = c « (subproblem size)
+
+2. Cost at Each Level (3 Marks)
+
+Level 0
+Cost = cn
+Level 1
+. 3cn
+e(n/2) + e(n/4) = —
+: 4
+Level 2
+
+(G+Et Et ie) ow
+
+3. General Expression (3 Marks)
+
+At level i:
+
+3 i
+Cost = en (3)
+
+rin) =|. $s (3) +
+
+*® Geometric series with ratio 3/4 <1
+
+Total cost:
+
+4. Final Time Complexity (1 Mark)
+
+T(n) = O(n)
 --- page 16 ---
 BL-2,3 1. Role of Sift-Up and Sift-Down (5 Marks)
 
@@ -1565,6 +2507,39 @@ Divide recursively:
 →[38][27,43][3,9][82,10]
 →[38][27][43][3][9][82][10]
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+2. Algorithm for Sift-Up (3 Marks)
+
+SIFT-UP(heap, i):
+while i > @:
+parent = (i - 1) #/ 2
+if heap[i] > heap[parent]: // for max-heap
+swap(heap[i], heap[parent])
+i = parent
+else:
+break
+
+3. Algorithm for Sift-Down (2 Marks)
+
+SIFT-DOWN(heap, i, n):
+while 27i + 1< nm:
+left = 2*i+1
+right = 2*i + 2
+largest =i
+
+if left < n and heap[left] > heap[largest]:
+largest = left
+
+if right < n and heap[right] > heap[largest]:
+largest = right
+
+if largest != i:
+swap(heap[i], heap[largest])
+i = largest
+
+else:
+break
 --- page 18 ---
 All subarrays reduced to single elements
 Step 2: Merging Phase (5 marks)
@@ -1659,6 +2634,7 @@ FRI ICR DO) A RH
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/MBATech_DS_7052/Advance Data Structure for Analytics/ANS_Advance Data Structure for Analytics(702DB0C026)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: mixed (20 pages), mean OCR confidence 78.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1712,6 +2688,51 @@ Criteria   dimensions alternately
 Structure   Each level uses a different   All levels use the same key comparison
 dimension
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Define Node Structure
+4. Creste a class/structure moae with:
+- date —to store the value
+- next — pointer to the next mode
+
+Step 2: Imser
+Algorithme
+4. Insert at Beginning:
+= Creste s new node new node with given data
+
+= Set new _mode.next = head
+= Set mesa = new moe
+
+2. Insert at End:
+- Create anew node new _mede with given data
+= Traverse to the last mode (.current.next = Mone )
+
+(Marks: 2— 7 for insertion at beginning, 7 for insertion at ena)
+
+Step 3: Deletion
+Aulgporithime:
+4. Delete from Beginning:
+
+- If head = Nome, list is empty — Underfiow
+- Else, set head = head. next
+
+2. Delete from End:
+- If head = Nome, list is empty — Underfiow
+- Else, trawerse to the secomd last node
+
+Marks: 2— 7 for detetion from beginning, T for detetion fron end)
+
+Step 4: Display
+Algorithms:
+
+4. Start from peso
+2. Traverse each mode:
+
+* Print mode .deta
+= MoMe tO mode next
+3. Stop when node = Mone
+
+arts: 1
 --- page 3 ---
 Example Data   (x, y), (x, y, z) coordinates   Numbers or strings
 Application Spatial searching, nearest neighbor Sorting, dictionary operations
@@ -1744,6 +2765,21 @@ CO-4;
 SO-1;   d.   [5]
 BL-2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+1. Array A (Random Order}:
+® = Choosing the last element as pivot works reasonably well.
+* Quick Sort divides the array into roughly balanced partitions on average.
+* Time complexity:
+«© Best/Average: ofn log nj
+© Worst: Rare, o¢n?) if pivot is unlucky.
+2. Array B (Already Sorted):
+«* Always choosing the last element as pivot leads to highly unbalanced partitions.
+* One partition has n-a1 elements, the other has 2.
+* Quick Sort essentially degenerates to selection sort behavior.
+* Time complexity: ofn7) (worst case),
+
+Key Point: Choosing a fixed pivot (last element] is inefficient for already sorted or reverse-sorted arrays.
 --- page 4 ---
 In the Dynamic Connectivity problem using Disjoint Sets, discuss the
 Quick-Find and Quick-Union approaches for managing relationships
@@ -1801,6 +2837,15 @@ BL-6   Five Essential Properties
 number of Black nodes
 5. All NULL leaves are Black
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Quick Find Quick Union
+
+find() Complexity O(1) O(N)
+union() Complexity O(N) O(N)
+Space Complexity O(N) O(N)
+
+Best Used When Small data sets Tree-based optimizations needed
 --- page 6 ---
 3. Step-by-Step Insertion
 
@@ -1869,6 +2914,52 @@ BL-3   - `capacity`: Maximum queue size
 Function ENQUEUE(value):
 - If queue is full, print "Queue is full".
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Insert 23
+
+= Insert as right child of 19
+« Parent (19) is Red, Uncle (15) is Red — Recoloring
+
+13(B)
+f A
+12(8) 16{R)
+AON
+15(B) 15(B)
+\
+2a(R)
+
+Insert 5
+
+= Insert as left child of 12
+= Parentis Mack + no violation
+
+13(8)
+pon
+12(8) = 1e{R)
+f poy
+5(R) 15(B) 15(B)
+23(R)
+
+Insert &
+= Insert.as right child of 5 ~ Red-Red violation
+= Uncle is NULL (Black) — Left-Right Case
+
+= Left rotation at 5
+
+«= Right rotation at 12
+
+«   Recoloring
+
+Final tree:
+13(8)
+i \
+S(B) = 16(R)
+few fey
+
+S(R) 12(R)1S(B)19(8)
+
+23(R)
 --- page 8 ---
 - Increment `rear` circularly.
 - Insert `value` at `rear` position.
@@ -1917,6 +3008,60 @@ Q4 a   Implement a hash table using separate chaining. Demonstrate how to
 CO-5;   perform insertion, search, and deletion operations with a sample dataset.
 SO-1;
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Construct BST
+Insert keys: H, C, R, 4, E, S, x
+
+co
+ow
+ec Rr
+rom ~
+a E s
+
+Step 2: Find ming) and max)
+
+= ming) — leftrnost node — A
+= max) — rightmest nede — *
+
+Step 3: Perform deleteMin)
+
+* Minimum =A (leaf nede) — remove directly
+”
+oN
+c oR
+4 N
+E s
+
+“
+*
+
+Step 4: Perform deleteMax(t
+- Maximum = X (leaf mode) — remove directly
+
+co
+ow
+
+a 5,
+E s
+
+Pseudocode
+
+deleteMin()
+
+deleteMin(node}:
+if node.left == NULL:
+return node.right
+nade. left = deleteMin(node. Left)
+return node
+
+deleteMax()
+
+deleteMax( node):
+if nede.right == MULL:
+return node.left
+fode.right = deleteMax(node. right)
+return node
 --- page 10 ---
 BL-4
 A hash table is a data structure that stores key-value pairs. It uses a hash
@@ -1978,6 +3123,41 @@ BL-5
 Spanning Tree. Show the edges selected at each step and compute the total
 weight of the MST.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+1. Structure and Properties of B-Tree (4 Marks)
+
+A B-Tree of order m is a multi-way balanced search tree.
+
+¢ Each node contains at most (m-1) keys and m children
+e Each node (except root) has at least [m/21 children
+
+¢ Keys in a node are sorted
+
+¢ All leaf nodes are at the same level (perfectly balanced)
+
+* Root has at least 2 children (if not a leaf)
+
+2. Insertion and Node Splitting (3 Marks)
+¢ Insert key in the appropriate leaf node
+e If node has space — insert directly
+« If node overflows:
+¢ Split the node into two
+*¢ Move the middle key to the parent
+
+¢ Repeat recursively if parent overflows
+
+3. Maintaining Balance (1-2 Marks)
+« All leaves remain at the same depth
+© Splitting distributes keys evenly
+* Prevents skewed growth
+
+4. Efficient Disk Access (2 Marks)
+* Each node stores multiple keys — fewer levels
+© Tree height is very small (Q(log n))
+* Fewer node accesses — fewer disk I/O operations
+
+* Ideal for databases and file systems
 --- page 12 ---
 Solution with Union-Find (10 Marks)
 
@@ -2027,6 +3207,52 @@ CO-5;   [10]
 SO-1;   you use one over the other?
 BL-2
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: A-B (3)
+*   Find{A)=A, Find|B)=A + same
+X Reject (cycle)
+
+Step 4: B-D (4)
+= FindiB)=A, Find(D)=D — different
+«   Union(A,D)
+
+Parent: A A A AE F
+
+ww Selected
+
+‘Step 5: CD (5)
+= Find(Q=A, Find(D)=A + same
+X Reject
+
+‘Step 6: C-E (6)
+= FindiC)=A. Find(E}=E — different
+« — Union(A,£)
+
+Parent: A A A A A OF
+
+w Selected
+
+Step 7: D-E (7)
+
+= Find(D)=A, Find[E)=A + same
+& Reject
+
+Step 8: D-F (8)
+
+= Find(D)=A, Find(F)=F — different
+= Union(A.F)
+
+Parent: A A A A AA
+
+w Selected
+
+4. MST Edges (1 Mark)
+« AAC(T)
+» BQ)
+» BD@
+» CEG)
+« ODF(3)
 --- page 14 ---
 Role of Hash Table in Symbol Table Applications:
 A hash table provides efficient storage and retrieval of key-value pairs.
@@ -2063,6 +3289,47 @@ Q6 b   Explain the role of sift-up and sift-down operations in maintaining the h
 CO-2;   property in a binary heap. Also write the algorithm for both operations.
 SO-1;
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+1. Recursion Tree (3 Marks)
+
+Level @: fn
+fo
+Level 1: nf2 nf4
+iN is
+Level 2: n/4n/8 n/8 n/16
+
+* Each node represents a subproblem
+* Work at each node = c « (subproblem size)
+
+2. Cost at Each Level (3 Marks)
+
+Level 0
+Cost = cn
+Level 1
+. 3cn
+e(n/2) + e(n/4) = —
+: 4
+Level 2
+
+(G+Et Et ie) ow
+
+3. General Expression (3 Marks)
+
+At level i:
+
+3 i
+Cost = en (3)
+
+rin) =|. $s (3) +
+
+*® Geometric series with ratio 3/4 <1
+
+Total cost:
+
+4. Final Time Complexity (1 Mark)
+
+T(n) = O(n)
 --- page 16 ---
 BL-2,3 1. Role of Sift-Up and Sift-Down (5 Marks)
 
@@ -2115,6 +3382,39 @@ Divide recursively:
 →[38][27,43][3,9][82,10]
 →[38][27][43][3][9][82][10]
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+2. Algorithm for Sift-Up (3 Marks)
+
+SIFT-UP(heap, i):
+while i > @:
+parent = (i - 1) #/ 2
+if heap[i] > heap[parent]: // for max-heap
+swap(heap[i], heap[parent])
+i = parent
+else:
+break
+
+3. Algorithm for Sift-Down (2 Marks)
+
+SIFT-DOWN(heap, i, n):
+while 27i + 1< nm:
+left = 2*i+1
+right = 2*i + 2
+largest =i
+
+if left < n and heap[left] > heap[largest]:
+largest = left
+
+if right < n and heap[right] > heap[largest]:
+largest = right
+
+if largest != i:
+swap(heap[i], heap[largest])
+i = largest
+
+else:
+break
 --- page 18 ---
 All subarrays reduced to single elements
 Step 2: Merging Phase (5 marks)
@@ -2270,6 +3570,33 @@ SO-1,2;
 during the execution of the algorithm.
 BL-2,4
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+(2 Marks) Concept & Working Principle
+
+An Interval Tree is used to store intervals and efficiently find overlapping intervals.
+* Each node stores an interval low, high]
+© Also maintains a max value (maximum high value in its subtree)
+* Tree is organized like a BST based on the low endpoint
+Working:
+* To check overlap with interval |, hi):
+© If current node overlaps — return it
+«Else, if left subtree’s max > | ~ search left
+* Otherwise — search right
+
+(2 Marks) Identifying Overlapping Intervals
+
+Two intervals overlap ift
+
+I, = Ag and iy = hy
+
+The stored max value helps skip subtrees that cannot contain overlapping intervals, improving efficiency.
+
+(1 Mark) Time Complexity
+* Search: Oflog n) (balanced tree)
+
+* Worst case: O(n)
+* = Insertion/Deletion: Oflog n)
 --- page 3 ---
 Construct a Red-Black Tree for the keys [10, 20, 30, 15, 25, 5, 1].
 Demonstrate all rotations and color adjustments during insertion, and justify
@@ -2284,6 +3611,51 @@ Five Properties (Justification)
 2. Root is BLACK → 20(B) ✔
 3. No two consecutive RED nodes ✔
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+(3 Marks) Concept of Kruskal’s Algorithm
+
+Kruskal's Algorithm is a greedy approach used to construct a Minimum Spanning Tree (MST) by selecting
+edges with the smallest weights while avoiding cycles.
+
+Steps:
+
+1. Sort all edges in increasing order of weight
+
+2. Start with an empty MST
+
+3. Add the smallest edge if it does not form a cycle
+4. Repeat until V — 1 edges are selected
+
+(3 Marks) Working Principle
+e Edges are processed one by one in sorted order
+© Ateach step, a decision is made to include or discard an edge
+e ©The algorithm ensures:
+e Nocycles are formed
+e =Minimum total weight is maintained
+
+(2 Marks) Role of Union-Find
+
+e Maintains disjoint sets of connected components
+© Find operation: Determines the root of a node
+* Union operation: Merges two sets
+e Before adding an edge (u, v):
+© IfFind(u) + Find(v) — add edge
+e = Else — discard (cycle detected)
+
+@& Efficiently avoids cycle formation
+
+(1 Mark) Efficiency of Union-Find
+
+* With path compression and union by rank
+* Each operation takes nearly constant time: O(a(n))
+
+(1 Mark) Overall Time Complexity
+
+© Sorting edges: O( Flog E)
+
+© Union-Find operations: O(Fa(V))
+& Final Complexity: O( F log E)
 --- page 4 ---
 4. Every path has same number of BLACK nodes ✔
 5. All NULL leaves are BLACK ✔
@@ -2314,6 +3686,43 @@ CO-5;   V = [0, 0, 5, 0, 0, 9, 0, 0, 0, 12, 0, 0, 3, 0, 0]   [10]
 SO-1;
 BL-4
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+(3 Marks} Construction of BST
+
+Insert keys In erder: 45, 25, 65, 15, 35, 55, 75
+
+as
+
+FON
+2s 6s
+FN FN
+a5 35 55 75
+
+(2 Marks) Height of BST
+
+© Height = number of edges in longest path
+* Path 45 — 25 — 15 (or 45 — 65 — 75)
+
+<r Height = 2
+
+(2 Marks) Search for Key 35
+
++ Start at root 45 — go left (35 < 45)
+= 2t25 — geright (35 > 25)
+-*   4t35 — found
+
+> Search Path: 45 — 25 — 35
+
+(2 Marks) Effect of Sorted Order Insertion
+If keys are Inserted im sorted order:
+
+> Tree becomes skewed (like a linked list)
+
+(1 Mark) Impact on Complexity
+
+= Balanced BST: Ofleg n)
+*   Skewed BST: O(n)
 --- page 5 ---
 Design a hash table representation for this sparse vector using the hash
 function h(i) = i mod 7, where i is the index.
@@ -2331,6 +3740,56 @@ BL-3
 compute: floor (4), ceiling (6), rank (7), and select (4).
 (5 Marks) Construction of 2-3 Tree
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Sparse Vector Representation using Hash Table
+Given:
+
+V = [0 0,5,0,0,9,0,0,0, 12,0,0,3,0,9]
+
+Non-zero elements — (index, value):
+
+(2,5), (5,9), (9,12), (12,3)
+
+Hash function:
+h(i) — i mod 7
+
+(1) Insert into Hash Table
+
+Index () Value ht) Action
+
+2 5 2 Place at slot 2
+
+5 : 5 Place at slot 5
+
+9 12 2 Collision — next slot (linear probing) — 3
+
+12 3 s Collision ~ next slot — 6
+
+(2) Final Hash Table
+
+Slot Data (index, value)
+o -
+
+1 -
+
+2 (2.5)
+
+3 9.12)
+
+4 -
+
+5 6.9)
+
+6 2.3)
+
+(3) Retrieval
+
+Retrieve index 9
+© h(9) = 2 — check slot 2 — (2,5)
+© Next — slot 3 — (9,12) #
+
+& Value = 12
 --- page 6 ---
 (1 Marks) In-order Traversal
 1, 2, 3, 5, 7, 8, 9
@@ -2356,6 +3815,22 @@ CO-1,5;   [10]
 SO-1;
 BL-5
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+(3 Marks) Time Complexity Comparison
+
+Operation Quick-Find Quick-Union
+Find O(1) ‘Ofh) (tree height)
+Union Din} Oth)
+
+Worst Case Cin) ‘Ofn}
+
+(2 Marks) Analysis for Large Datasets
+
+* Quick-Find becomes slow due to costly union operations
+*   Quick-Union performs better but may form tall trees
+
+* Optimized Quick-Union (path compression) — near O(1)
 --- page 7 ---
 Explain how collisions are resolved using linear probing and quadratic
 probing in open addressing. Analyze the issue of primary clustering in linear
@@ -2381,6 +3856,39 @@ Role:
 • Focuses on dominant terms for large inputs
 •   Predicts scalability and performance
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+(3 Marks) Collision Resolution in Open Addressing
+* Linear Probing:
+
+‘On collision, check next slots sequentially:
+
+ACK), ACK) +1, ACK) + 2, ...
+* Quadratic Probing:
+
+Uses quadratic jumps:
+
+A(k), AUK) + 1°, Afk) + 27, 2...
+
+[10]
+
+(3 Marks) Working Explanation
+* Linear probing places elements in the next available slot
+* Quadratic probing spreads elements using increasing gaps, avoiding consecutive placem|
+
+{2 Marks) Primary Clustering in Linear Probing
+* Forms large contiguous blocks of occupied slots
+* New elements hash into the cluster and extend it
+* Leads to more collisions and longer search time
+
+(2 Marks) How Quadratic Probing Reduces It
+
+* Jumps are non-linear, so elements are more spread out
+* | Reduces formation of large clusters
+
+* Improves performance compered to linear probing
+
+* Still suffers from secondary clustering
 --- page 8 ---
 Outline the applications of priority queues in real-world problems such as
 scheduling and shortest path algorithms. Apply heap-based implementations
@@ -2408,6 +3916,30 @@ CO-4;   [10]
 SO-1;
 BL-2
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Order of Growth
+Given:
+f(n) — 6n4 + 3n* login + 8n?+12n+5
+* Highest growth term = n4
+*®   Lower-order terms and constants are ignored asymptotically
+
+er Final Answer:
+
+F(n) = @(n*)
+
+Analysis of
+
+Quick Sort is a di
+1. Selects a pivot element
+2. Partitions the array into elements less than and greater than the pivot
+3. Recursively sorts the subarrays
+
+ide-and-conquer algorithm that:
+
+Recurrence Relation
+
+T(n) — Tik) +T(n —k -—1)+ O(n)
 --- page 9 ---
 i. Why does the time complexity of BST operations become O(n) in
 the worst case? Explain with reason.
@@ -2435,6 +3967,37 @@ BL-3,2   \
 BST becomes inefficient in the worst case due to loss of balance, which
 increases height and degrades performance from O(log n) to O(n).
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+(1) Best Case (Balanced Partition)
+
+- Pivot divides array into two equal halves
+= k=n/2
+
+(mn) — 27 (n/2) + O(n)
+
+& Time Complexity: O(log rm}
+
+(2) Average Case
+
+= Pivot divides array In reasonably balanced manner
++ Distribution not perfectly equal but not skewed
+
+& Time Complexity: G(r log rr)
+
+(3) Worst Case (Unbalanced Partition)
+= Pivot is smallest or largest element
+* One subarray has size   — 1, other is empty
+rin) — T(m—1)4+ O(n)
+
+or Time Complexity: O(17)
+
+Role of Pivot Selection
+
+© Good pivot (median-like} + balanced partitions ~ O(n log)
+
+- Poor pivot (first/last in sorted array) — skewed partitions — (mn)
+Techniques like randomized pivot reduce worst-case chances
 --- page 10 ---
 ii. | Compare and contrast the separate chaining and linear probing.
 
@@ -2517,6 +4080,33 @@ SO-1,2;
 during the execution of the algorithm.
 BL-2,4
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+(2 Marks) Concept & Working Principle
+
+An Interval Tree is used to store intervals and efficiently find overlapping intervals.
+* Each node stores an interval low, high]
+© Also maintains a max value (maximum high value in its subtree)
+* Tree is organized like a BST based on the low endpoint
+Working:
+* To check overlap with interval |, hi):
+© If current node overlaps — return it
+«Else, if left subtree’s max > | ~ search left
+* Otherwise — search right
+
+(2 Marks) Identifying Overlapping Intervals
+
+Two intervals overlap ift
+
+I, = Ag and iy = hy
+
+The stored max value helps skip subtrees that cannot contain overlapping intervals, improving efficiency.
+
+(1 Mark) Time Complexity
+* Search: Oflog n) (balanced tree)
+
+* Worst case: O(n)
+* = Insertion/Deletion: Oflog n)
 --- page 3 ---
 Construct a Red-Black Tree for the keys [10, 20, 30, 15, 25, 5, 1].
 Demonstrate all rotations and color adjustments during insertion, and justify
@@ -2531,6 +4121,51 @@ Five Properties (Justification)
 2. Root is BLACK → 20(B) ✔
 3. No two consecutive RED nodes ✔
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+(3 Marks) Concept of Kruskal’s Algorithm
+
+Kruskal's Algorithm is a greedy approach used to construct a Minimum Spanning Tree (MST) by selecting
+edges with the smallest weights while avoiding cycles.
+
+Steps:
+
+1. Sort all edges in increasing order of weight
+
+2. Start with an empty MST
+
+3. Add the smallest edge if it does not form a cycle
+4. Repeat until V — 1 edges are selected
+
+(3 Marks) Working Principle
+e Edges are processed one by one in sorted order
+© Ateach step, a decision is made to include or discard an edge
+e ©The algorithm ensures:
+e Nocycles are formed
+e =Minimum total weight is maintained
+
+(2 Marks) Role of Union-Find
+
+e Maintains disjoint sets of connected components
+© Find operation: Determines the root of a node
+* Union operation: Merges two sets
+e Before adding an edge (u, v):
+© IfFind(u) + Find(v) — add edge
+e = Else — discard (cycle detected)
+
+@& Efficiently avoids cycle formation
+
+(1 Mark) Efficiency of Union-Find
+
+* With path compression and union by rank
+* Each operation takes nearly constant time: O(a(n))
+
+(1 Mark) Overall Time Complexity
+
+© Sorting edges: O( Flog E)
+
+© Union-Find operations: O(Fa(V))
+& Final Complexity: O( F log E)
 --- page 4 ---
 4. Every path has same number of BLACK nodes ✔
 5. All NULL leaves are BLACK ✔
@@ -2561,6 +4196,43 @@ CO-5;   V = [0, 0, 5, 0, 0, 9, 0, 0, 0, 12, 0, 0, 3, 0, 0]   [10]
 SO-1;
 BL-4
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+(3 Marks} Construction of BST
+
+Insert keys In erder: 45, 25, 65, 15, 35, 55, 75
+
+as
+
+FON
+2s 6s
+FN FN
+a5 35 55 75
+
+(2 Marks) Height of BST
+
+© Height = number of edges in longest path
+* Path 45 — 25 — 15 (or 45 — 65 — 75)
+
+<r Height = 2
+
+(2 Marks) Search for Key 35
+
++ Start at root 45 — go left (35 < 45)
+= 2t25 — geright (35 > 25)
+-*   4t35 — found
+
+> Search Path: 45 — 25 — 35
+
+(2 Marks) Effect of Sorted Order Insertion
+If keys are Inserted im sorted order:
+
+> Tree becomes skewed (like a linked list)
+
+(1 Mark) Impact on Complexity
+
+= Balanced BST: Ofleg n)
+*   Skewed BST: O(n)
 --- page 5 ---
 Design a hash table representation for this sparse vector using the hash
 function h(i) = i mod 7, where i is the index.
@@ -2578,6 +4250,56 @@ BL-3
 compute: floor (4), ceiling (6), rank (7), and select (4).
 (5 Marks) Construction of 2-3 Tree
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Sparse Vector Representation using Hash Table
+Given:
+
+V = [0 0,5,0,0,9,0,0,0, 12,0,0,3,0,9]
+
+Non-zero elements — (index, value):
+
+(2,5), (5,9), (9,12), (12,3)
+
+Hash function:
+h(i) — i mod 7
+
+(1) Insert into Hash Table
+
+Index () Value ht) Action
+
+2 5 2 Place at slot 2
+
+5 : 5 Place at slot 5
+
+9 12 2 Collision — next slot (linear probing) — 3
+
+12 3 s Collision ~ next slot — 6
+
+(2) Final Hash Table
+
+Slot Data (index, value)
+o -
+
+1 -
+
+2 (2.5)
+
+3 9.12)
+
+4 -
+
+5 6.9)
+
+6 2.3)
+
+(3) Retrieval
+
+Retrieve index 9
+© h(9) = 2 — check slot 2 — (2,5)
+© Next — slot 3 — (9,12) #
+
+& Value = 12
 --- page 6 ---
 (1 Marks) In-order Traversal
 1, 2, 3, 5, 7, 8, 9
@@ -2603,6 +4325,22 @@ CO-1,5;   [10]
 SO-1;
 BL-5
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+(3 Marks) Time Complexity Comparison
+
+Operation Quick-Find Quick-Union
+Find O(1) ‘Ofh) (tree height)
+Union Din} Oth)
+
+Worst Case Cin) ‘Ofn}
+
+(2 Marks) Analysis for Large Datasets
+
+* Quick-Find becomes slow due to costly union operations
+*   Quick-Union performs better but may form tall trees
+
+* Optimized Quick-Union (path compression) — near O(1)
 --- page 7 ---
 Explain how collisions are resolved using linear probing and quadratic
 probing in open addressing. Analyze the issue of primary clustering in linear
@@ -2628,6 +4366,39 @@ Role:
 • Focuses on dominant terms for large inputs
 •   Predicts scalability and performance
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+(3 Marks) Collision Resolution in Open Addressing
+* Linear Probing:
+
+‘On collision, check next slots sequentially:
+
+ACK), ACK) +1, ACK) + 2, ...
+* Quadratic Probing:
+
+Uses quadratic jumps:
+
+A(k), AUK) + 1°, Afk) + 27, 2...
+
+[10]
+
+(3 Marks) Working Explanation
+* Linear probing places elements in the next available slot
+* Quadratic probing spreads elements using increasing gaps, avoiding consecutive placem|
+
+{2 Marks) Primary Clustering in Linear Probing
+* Forms large contiguous blocks of occupied slots
+* New elements hash into the cluster and extend it
+* Leads to more collisions and longer search time
+
+(2 Marks) How Quadratic Probing Reduces It
+
+* Jumps are non-linear, so elements are more spread out
+* | Reduces formation of large clusters
+
+* Improves performance compered to linear probing
+
+* Still suffers from secondary clustering
 --- page 8 ---
 Outline the applications of priority queues in real-world problems such as
 scheduling and shortest path algorithms. Apply heap-based implementations
@@ -2655,6 +4426,30 @@ CO-4;   [10]
 SO-1;
 BL-2
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Order of Growth
+Given:
+f(n) — 6n4 + 3n* login + 8n?+12n+5
+* Highest growth term = n4
+*®   Lower-order terms and constants are ignored asymptotically
+
+er Final Answer:
+
+F(n) = @(n*)
+
+Analysis of
+
+Quick Sort is a di
+1. Selects a pivot element
+2. Partitions the array into elements less than and greater than the pivot
+3. Recursively sorts the subarrays
+
+ide-and-conquer algorithm that:
+
+Recurrence Relation
+
+T(n) — Tik) +T(n —k -—1)+ O(n)
 --- page 9 ---
 i. Why does the time complexity of BST operations become O(n) in
 the worst case? Explain with reason.
@@ -2682,6 +4477,37 @@ BL-3,2   \
 BST becomes inefficient in the worst case due to loss of balance, which
 increases height and degrades performance from O(log n) to O(n).
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+(1) Best Case (Balanced Partition)
+
+- Pivot divides array into two equal halves
+= k=n/2
+
+(mn) — 27 (n/2) + O(n)
+
+& Time Complexity: O(log rm}
+
+(2) Average Case
+
+= Pivot divides array In reasonably balanced manner
++ Distribution not perfectly equal but not skewed
+
+& Time Complexity: G(r log rr)
+
+(3) Worst Case (Unbalanced Partition)
+= Pivot is smallest or largest element
+* One subarray has size   — 1, other is empty
+rin) — T(m—1)4+ O(n)
+
+or Time Complexity: O(17)
+
+Role of Pivot Selection
+
+© Good pivot (median-like} + balanced partitions ~ O(n log)
+
+- Poor pivot (first/last in sorted array) — skewed partitions — (mn)
+Techniques like randomized pivot reduce worst-case chances
 --- page 10 ---
 ii. | Compare and contrast the separate chaining and linear probing.
 
@@ -2764,6 +4590,33 @@ SO-1,2;
 during the execution of the algorithm.
 BL-2,4
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+(2 Marks) Concept & Working Principle
+
+An Interval Tree is used to store intervals and efficiently find overlapping intervals.
+* Each node stores an interval low, high]
+© Also maintains a max value (maximum high value in its subtree)
+* Tree is organized like a BST based on the low endpoint
+Working:
+* To check overlap with interval |, hi):
+© If current node overlaps — return it
+«Else, if left subtree’s max > | ~ search left
+* Otherwise — search right
+
+(2 Marks) Identifying Overlapping Intervals
+
+Two intervals overlap ift
+
+I, = Ag and iy = hy
+
+The stored max value helps skip subtrees that cannot contain overlapping intervals, improving efficiency.
+
+(1 Mark) Time Complexity
+* Search: Oflog n) (balanced tree)
+
+* Worst case: O(n)
+* = Insertion/Deletion: Oflog n)
 --- page 3 ---
 Construct a Red-Black Tree for the keys [10, 20, 30, 15, 25, 5, 1].
 Demonstrate all rotations and color adjustments during insertion, and justify
@@ -2778,6 +4631,51 @@ Five Properties (Justification)
 2. Root is BLACK → 20(B) ✔
 3. No two consecutive RED nodes ✔
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+(3 Marks) Concept of Kruskal’s Algorithm
+
+Kruskal's Algorithm is a greedy approach used to construct a Minimum Spanning Tree (MST) by selecting
+edges with the smallest weights while avoiding cycles.
+
+Steps:
+
+1. Sort all edges in increasing order of weight
+
+2. Start with an empty MST
+
+3. Add the smallest edge if it does not form a cycle
+4. Repeat until V — 1 edges are selected
+
+(3 Marks) Working Principle
+e Edges are processed one by one in sorted order
+© Ateach step, a decision is made to include or discard an edge
+e ©The algorithm ensures:
+e Nocycles are formed
+e =Minimum total weight is maintained
+
+(2 Marks) Role of Union-Find
+
+e Maintains disjoint sets of connected components
+© Find operation: Determines the root of a node
+* Union operation: Merges two sets
+e Before adding an edge (u, v):
+© IfFind(u) + Find(v) — add edge
+e = Else — discard (cycle detected)
+
+@& Efficiently avoids cycle formation
+
+(1 Mark) Efficiency of Union-Find
+
+* With path compression and union by rank
+* Each operation takes nearly constant time: O(a(n))
+
+(1 Mark) Overall Time Complexity
+
+© Sorting edges: O( Flog E)
+
+© Union-Find operations: O(Fa(V))
+& Final Complexity: O( F log E)
 --- page 4 ---
 4. Every path has same number of BLACK nodes ✔
 5. All NULL leaves are BLACK ✔
@@ -2808,6 +4706,43 @@ CO-5;   V = [0, 0, 5, 0, 0, 9, 0, 0, 0, 12, 0, 0, 3, 0, 0]   [10]
 SO-1;
 BL-4
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+(3 Marks} Construction of BST
+
+Insert keys In erder: 45, 25, 65, 15, 35, 55, 75
+
+as
+
+FON
+2s 6s
+FN FN
+a5 35 55 75
+
+(2 Marks) Height of BST
+
+© Height = number of edges in longest path
+* Path 45 — 25 — 15 (or 45 — 65 — 75)
+
+<r Height = 2
+
+(2 Marks) Search for Key 35
+
++ Start at root 45 — go left (35 < 45)
+= 2t25 — geright (35 > 25)
+-*   4t35 — found
+
+> Search Path: 45 — 25 — 35
+
+(2 Marks) Effect of Sorted Order Insertion
+If keys are Inserted im sorted order:
+
+> Tree becomes skewed (like a linked list)
+
+(1 Mark) Impact on Complexity
+
+= Balanced BST: Ofleg n)
+*   Skewed BST: O(n)
 --- page 5 ---
 Design a hash table representation for this sparse vector using the hash
 function h(i) = i mod 7, where i is the index.
@@ -2825,6 +4760,56 @@ BL-3
 compute: floor (4), ceiling (6), rank (7), and select (4).
 (5 Marks) Construction of 2-3 Tree
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Sparse Vector Representation using Hash Table
+Given:
+
+V = [0 0,5,0,0,9,0,0,0, 12,0,0,3,0,9]
+
+Non-zero elements — (index, value):
+
+(2,5), (5,9), (9,12), (12,3)
+
+Hash function:
+h(i) — i mod 7
+
+(1) Insert into Hash Table
+
+Index () Value ht) Action
+
+2 5 2 Place at slot 2
+
+5 : 5 Place at slot 5
+
+9 12 2 Collision — next slot (linear probing) — 3
+
+12 3 s Collision ~ next slot — 6
+
+(2) Final Hash Table
+
+Slot Data (index, value)
+o -
+
+1 -
+
+2 (2.5)
+
+3 9.12)
+
+4 -
+
+5 6.9)
+
+6 2.3)
+
+(3) Retrieval
+
+Retrieve index 9
+© h(9) = 2 — check slot 2 — (2,5)
+© Next — slot 3 — (9,12) #
+
+& Value = 12
 --- page 6 ---
 (1 Marks) In-order Traversal
 1, 2, 3, 5, 7, 8, 9
@@ -2850,6 +4835,22 @@ CO-1,5;   [10]
 SO-1;
 BL-5
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+(3 Marks) Time Complexity Comparison
+
+Operation Quick-Find Quick-Union
+Find O(1) ‘Ofh) (tree height)
+Union Din} Oth)
+
+Worst Case Cin) ‘Ofn}
+
+(2 Marks) Analysis for Large Datasets
+
+* Quick-Find becomes slow due to costly union operations
+*   Quick-Union performs better but may form tall trees
+
+* Optimized Quick-Union (path compression) — near O(1)
 --- page 7 ---
 Explain how collisions are resolved using linear probing and quadratic
 probing in open addressing. Analyze the issue of primary clustering in linear
@@ -2875,6 +4876,39 @@ Role:
 • Focuses on dominant terms for large inputs
 •   Predicts scalability and performance
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+(3 Marks) Collision Resolution in Open Addressing
+* Linear Probing:
+
+‘On collision, check next slots sequentially:
+
+ACK), ACK) +1, ACK) + 2, ...
+* Quadratic Probing:
+
+Uses quadratic jumps:
+
+A(k), AUK) + 1°, Afk) + 27, 2...
+
+[10]
+
+(3 Marks) Working Explanation
+* Linear probing places elements in the next available slot
+* Quadratic probing spreads elements using increasing gaps, avoiding consecutive placem|
+
+{2 Marks) Primary Clustering in Linear Probing
+* Forms large contiguous blocks of occupied slots
+* New elements hash into the cluster and extend it
+* Leads to more collisions and longer search time
+
+(2 Marks) How Quadratic Probing Reduces It
+
+* Jumps are non-linear, so elements are more spread out
+* | Reduces formation of large clusters
+
+* Improves performance compered to linear probing
+
+* Still suffers from secondary clustering
 --- page 8 ---
 Outline the applications of priority queues in real-world problems such as
 scheduling and shortest path algorithms. Apply heap-based implementations
@@ -2902,6 +4936,30 @@ CO-4;   [10]
 SO-1;
 BL-2
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Order of Growth
+Given:
+f(n) — 6n4 + 3n* login + 8n?+12n+5
+* Highest growth term = n4
+*®   Lower-order terms and constants are ignored asymptotically
+
+er Final Answer:
+
+F(n) = @(n*)
+
+Analysis of
+
+Quick Sort is a di
+1. Selects a pivot element
+2. Partitions the array into elements less than and greater than the pivot
+3. Recursively sorts the subarrays
+
+ide-and-conquer algorithm that:
+
+Recurrence Relation
+
+T(n) — Tik) +T(n —k -—1)+ O(n)
 --- page 9 ---
 i. Why does the time complexity of BST operations become O(n) in
 the worst case? Explain with reason.
@@ -2929,6 +4987,37 @@ BL-3,2   \
 BST becomes inefficient in the worst case due to loss of balance, which
 increases height and degrades performance from O(log n) to O(n).
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+(1) Best Case (Balanced Partition)
+
+- Pivot divides array into two equal halves
+= k=n/2
+
+(mn) — 27 (n/2) + O(n)
+
+& Time Complexity: O(log rm}
+
+(2) Average Case
+
+= Pivot divides array In reasonably balanced manner
++ Distribution not perfectly equal but not skewed
+
+& Time Complexity: G(r log rr)
+
+(3) Worst Case (Unbalanced Partition)
+= Pivot is smallest or largest element
+* One subarray has size   — 1, other is empty
+rin) — T(m—1)4+ O(n)
+
+or Time Complexity: O(17)
+
+Role of Pivot Selection
+
+© Good pivot (median-like} + balanced partitions ~ O(n log)
+
+- Poor pivot (first/last in sorted array) — skewed partitions — (mn)
+Techniques like randomized pivot reduce worst-case chances
 --- page 10 ---
 ii. | Compare and contrast the separate chaining and linear probing.
 

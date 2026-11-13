@@ -36,6 +36,21 @@ in an organization.
 2.   Answer the following   15
 1.   8
 Page 1 of 3
+
+[Text in pictures on this page, read by OCR]
+Bright Metals Ltd. is considering two different investment proposals. The details are as under:
+
+Proposal A Proposal B
+
+Investment Cost 9,500 20,000
+Estimated Income at end of
+
+Year I 4,000 8,000
+Year II 4,000 8,000
+Year III 4,500 12,000
+
+Select the most attractive proposal on the basis of net present value method considering that
+future incomes are discounted at 12%.
 --- page 2 ---
 3.
 

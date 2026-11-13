@@ -348,6 +348,33 @@ State Diagram
 S1 → S1 (Study, 0.7, +5)
 S1 → S2 (Study, 0.3, +1)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+We know that in 4 chances of
+
+exploration, Random Reward obtained
+© Machine M3 got played 3 times out of number i P.=P,
+
+which it won twice generated for | That is P. <=0.6
+= Machine M;got played one time and it reward P. Reward=1
+
+won
+Therefore, estimated values for each 1 0.33 1
+machines are , 2 0.25 1
+5 Q.(Mx) = 1,Q.(M2) = 0,Q.(M3) = 5 =
+
+0.67,0.(Ms) = 0 3 0.55 1
+From the Q, estimates , machine Myis 4 0.45 1
+exploited for the next 6 steps
+
+sin a 5 0.6 1
+
+Probability of winning for
+My is Py (M;) = 0.6 6 0.8 (0)
+
+Random number generated to estimate
+the rewards for remaining six iterations
+are [0.33, 0.25, 0.55,0.45, 0.6, 0.8]
 --- page 10 ---
 S2 → S1 (Study, 0.6, +5)
 S2 → S2 (Study, 0.4, +1)
@@ -1165,6 +1192,33 @@ State Diagram
 S1 → S1 (Study, 0.7, +5)
 S1 → S2 (Study, 0.3, +1)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+We know that in 4 chances of
+
+exploration, Random Reward obtained
+© Machine M3 got played 3 times out of number i P.=P,
+
+which it won twice generated for | That is P. <=0.6
+= Machine M;got played one time and it reward P. Reward=1
+
+won
+Therefore, estimated values for each 1 0.33 1
+machines are , 2 0.25 1
+5 Q.(Mx) = 1,Q.(M2) = 0,Q.(M3) = 5 =
+
+0.67,0.(Ms) = 0 3 0.55 1
+From the Q, estimates , machine Myis 4 0.45 1
+exploited for the next 6 steps
+
+sin a 5 0.6 1
+
+Probability of winning for
+My is Py (M;) = 0.6 6 0.8 (0)
+
+Random number generated to estimate
+the rewards for remaining six iterations
+are [0.33, 0.25, 0.55,0.45, 0.6, 0.8]
 --- page 10 ---
 S2 → S1 (Study, 0.6, +5)
 S2 → S2 (Study, 0.4, +1)
@@ -3090,6 +3144,27 @@ Difference between On-policy and Off-policy Methods: (2M)
 On-policy methods learn the value of the same policy that is used to make
 decisions. Here, the behavior policy (used to generate actions) and the target
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Algorithm parameter: a small threshold 6 > 0 determining accuracy of estimation
+Initialize V(s), for all s € §*, arbitrarily except that V(terminal) = 0
+
+Loop:
+
+| A«O
+
+| Loop for each s € 8:
+
+| v — V(s)
+
+| V(s) + max, }>,, p(s’.
+| A © max(A, |v — V(s)})
+until A < @
+
+sa) [r + 7V(s‘)]
+
+Output a deterministic policy, 7 ~ 7,, such that
+m(s) = argmax, >>, p(s’, r|s,a)[r + yV(s')}
 --- page 9 ---
 policy (being evaluated/improved) are identical. These methods continuously
 update the policy based on actions actually taken. An example is SARSA.
@@ -3122,6 +3197,17 @@ BL-3,4
 The probability of selecting each machine is given as:
 Ps(M1) = 0.3, Ps(M2) = 0.4, Ps(M3) = 0.2, Ps(M4) = 0.1
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+The importance sampling ratio is:
+
+_ was)
+~ bas)
+
+where:
+
+*« nla 8) = probability of action under target policy
+. bla 8) = probability of action under behavior policy
 --- page 10 ---
 The probability of winning for each machine is:
 Pw(M1) = 0.6, Pw(M2) = 0.4, Pw(M3) = 0.7, Pw(M4) = 0.9
@@ -3141,6 +3227,36 @@ BL-3
 i.   Solve for the returns 𝐺0 𝑡𝑜 𝐺5 with discount factor 𝛾= 0.9
 ii.   Solve for the returns 𝐺0 𝑡𝑜 𝐺5 with discount factor 𝛾= 0.3
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Construct a CDF table based on the following machine selection probability
+5 P(M;) = 0.3, P|(Mz) = 0.4, Ps|(M3) = 0.2, Ps(M4) = 0.1
+
+M1 0.3 0.3
+
+M2 0.4 0.7
+M3 0.2 0.9
+M4 0.1 1.0
+
+Random number generated for selection of one machine out of five in the first iteration is 0.65
+Hence from CDF column we infer that Machine M3, is selected for all the iterations 1,2,3,4,and 5
+
+Now based on the machines selected and the random number generated for selection of machine,
+Machine Mp, is selected for all the iterations 1,2,3,4,and 5
+
+Probability of winning in each machine is for Mois R,(M2) = 0.4
+Random number generated for the reward were as follows
+5 (0.6, 0.2, 0.3, 0.5, 0.9]
+
+Random number generated for Reward obtained
+reward P.
+
+That is P. <=0.4
+Rewa
+
+2 02 1
+3 03 1
+4 05 0
 --- page 11 ---
 iii.   Compare the returns for both the discount factors and
 comprehend your observations.
@@ -3472,6 +3588,51 @@ episode
 Variance   Lower variance   High variance
 Bias   Slight bias due to approximation   Unbiased
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+Actor Critic Method
+a
+co Actor:
+
+G The actor represents the policy, which decides which action
+to take given a state
+
+It directly updates the policy parameters in the direction
+that maximizes expected cumulative rewards, often using a
+policy gradient method
+
+G The actor’s goal is to maximize the rewards by making
+better action selections over time
+
+Actor Critic Method
+
+a
+O Critic:
+
+O The critic estimates the value function (usually the state-
+value V(s) or action-value Q(s,a)function), which represents
+the expected return from a given state or state-action pair.
+
+G It provides feedback (called the temporal difference (TD)
+error) to the actor about how good the actions taken were,
+relative to the expected value.
+
+G The TD error helps the actor understand whether it should
+adjust its policy in a positive or negative direction.
+
+Actor Critic Method
+
+=
+c Policy Update:
+
+O The actor updates its policy using the feedback from
+the critic, making incremental adjustments to maximize
+future rewards.
+
+O This update helps the agent learn both efficient action
+selection (from the policy update) and the ability to
+estimate future rewards accurately (from the value
+update).
 --- page 20 ---
 Update   Step-by-step (online)   End of episode (offline)
 Efficienc   Faster and more stable   Slower convergence
@@ -3513,6 +3674,22 @@ SARSA updates Q-values using the actual action taken (A') under the
 current policy.
 It follows the same policy for both behavior and learning.
 ********** 20 **********
+
+[Text in pictures on this page, read by OCR]
+Sarsa (on-policy TD control) for estimating Q ~
+
+Algorithm parameters: step size a € (0, 1], small ¢ > 0
+Initialize Q(s, a), for all s € S*,a € A(s), arbitrarily except that Q(terminal, -) = 0
+
+Loop for each episode:
+Initialize S
+Choose A from S using policy derived from Q (e.g., ¢-greedy)
+Loop for each step of episode:
+Take action A, observe R, S’
+Choose A’ from S’ using policy derived from Q (e.g., e-greedy)
+Q(S, A) — Q(S, A) + a[R + 7Q(S’, A.) — Q(S, A)]
+SS, ACA’;
+until S is terminal
 --- page 21 ---
 Hence, it is an on-policy algorithm.
 SARSA is called an on-policy algorithm because it learns the value of the
@@ -3704,6 +3881,19 @@ BL-2   Answer:
 Immediate Reinforcement: (02 M)
 Immediate reinforcement refers to situations where the agent receives
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+REINFORCE: Monte-Carlo Policy-Gradient Control (episodic) for 7.
+
+Input: a differentiable policy parameterization 7(a|s, 0)
+Algorithm parameter: step size a > 0
+Initialize policy parameter 8 € R® (e.g., to 0)
+
+Loop forever (for each episode):
+Generate an episode So, Ao, Ri Sr-1, Ar-1, a following z(-|-, 0)
+Loop for each step of the episode t = 0,1,..., T-
+Ge Vit HR (Gi)
+0<-0+a7'GV Inz(A;|S¢, 4)
 --- page 5 ---
 feedback (reward or penalty) instantly after taking an action. The
 consequence of the action is known right away, making it easier for the
@@ -3854,6 +4044,27 @@ BL-2
 Working Explanation
 •   Start with an initial policy.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+1. Initialization
+V(s) € B and x(s) € A(s) arbitrarily for all s € 8; V(terminal) = 0
+
+2. Policy Evaluation
+Loop:
+A+o0
+Loop for each s € 8:
+v<¢ V(s)
+Vis) — Ly. p(s’,7|s,2(s)) [r + 7V/(s')]
+A + max(A, |v — V(s)|)
+until A < @ (a small positive number determining the accuracy of estimation)
+
+3. Policy Improvement
+policy-stable < true
+For each s € 8:
+old-action — m(s)
+n(s) ¢ argmax, ),, ,.p(s’,r|s,a)[r + 7V(s’)]
+If old-action 4 x(s), then policy-stable — false
+If policy-stable, then stop and return V = v, and 7 ~ 7,; else go to 2
 --- page 9 ---
 •   Policy Evaluation: Compute value function for that policy.
 •   Policy Improvement: Update policy by choosing better actions.
@@ -3908,6 +4119,58 @@ were generated for the selected machine for each of the five iterations:
 [0.60, 0.20, 0.30, 0.40, 0.90]
 Answer: (2M + 6M + 2M)
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Construct a CDF table based on the following machine selection probability
+5 P;(M;) = 0.3, Ps(Mz) = 0.4, Ps(M3) = 0.2, Ps(Mg) = 0.1
+
+M1 0.3 0.3
+
+M2 0.4 0.7
+M3 0.2 0.9
+M4 0.1 1.0
+
+Random number generated for selection of machines for five iterations is [0.68, 0.55, 0.23, 0.95,
+0.8]
+
+Hence from CDF column we infer that Machines M2, M2, M,, Mgand M3 are selected for iterations
+1,2,3,4,and 5 respectively
+
+Now based on the machines selected and the random number generated for each iteration, we
+will decide whether the machine fetched a reward of 1 or 0
+
+Probability of winning in each machine is P,,(M,) = 0.6, P,,(M>) = 0.4, PR, (M3) = 0.7,R,(M4) = 0.9
+Random number generated were as follows
+5 [0.6, 0.2, 0.3, 0.4, 0.9]
+
+Random number
+
+Probability of Random number
+
+winning of each | generated for
+
+generated for
+
+machine selection
+
+machine P,, reward P.
+
+1 0.68 M;
+2 0.55 Mz 0.4 02 1
+3 0.23 M, 06 03 1
+4 0.95 My 09 04 1
+
+5 08 M3 07 09 t)
+
+Total reward obtained = 3
+
+Maximum reward that was possible if the best
+machin e is selected(M, with probability of winning P,,(M4) =
+0.9) is
+
+00.9*5= 4.5
+
+Regret= 4.5-3=1.5
 --- page 11 ---
 b   A robot operates in a house with two areas: Living Room (S1) and Kitchen
 (S2). At each step, the robot can either Clean or Stay Idle.
@@ -4307,6 +4570,22 @@ Step 1: Identify values
 • Reward R=5
 • Next state S′=1, next action A′=2 → Q (1,2) =4.5
 ********** 20 **********
+
+[Text in pictures on this page, read by OCR]
+Sarsa (on-policy TD control) for estimating Q ~ q.
+
+Algorithm parameters: step size a € (0, 1], small ¢ > 0
+Initialize Q(s, a), for all s € 8*,a € A(s), arbitrarily except that Q(terminal, -) = 0
+
+Loop for each episode:
+Initialize S
+Choose A from S using policy derived from Q (e.g., e-greedy)
+Loop for each step of episode:
+Take action A, observe R, S’
+Choose A’ from S’ using policy derived from Q (e.g., e-greedy)
+Q(S, A) + Q(S, A) + a{R + 7Q(S’, A’) — Q(S, A)]
+SSeS; ACA,
+until S is terminal
 --- page 21 ---
 Step 2: Apply SARSA formula
 Q(s,a)←Q(s,a)+α[R+γQ(s′,a′)−Q(s,a)]

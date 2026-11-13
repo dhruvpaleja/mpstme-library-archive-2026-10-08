@@ -29,6 +29,39 @@ Instructions:
 5. Use Of Simple Calculator is allowed.
 1.   15
 Page 1 of 4
+
+[Text in pictures on this page, read by OCR]
+A Mine company undertook a contract = 150 lakhs. The relevant data for the year ended
+31.03.2023 are as under:
+
+Particulars At the beginning of the year = At the end of the year
+z
+
+Work in Progress:
+
+Work Certified = 15,00,000 20,00,000
+Work Uncertified 215,000 %20,000
+Materials at Site 15,000 20,000
+Accrued wages 15,000 20,000
+
+Additional Information relating to the year:
+
+Particulars Amount = Particulars Amount =
+Materials issued from 12,00,000 | Indirect Expenses 40,000
+stores
+Materials Directly 6,00,000 | Share of General Overheads 40,000
+purchased apportioned
+Wages Paid 16,00,000 | Materials returned to supplier 40,000
+Architect Fees 2,00,000 | Fines & Penalties apportioned 40,000
+
+to this contract
+Plant Hire Charges 2,00.000 | Materials returned to stores 60,000
+
+The Contractee pays 80% of Work Certified in Cash.
+You are required to prepare
+
+a. Contract A/c showing clearly the amount of profits transferred to Profit & Loss A/c
+b. Contractee A/c
 --- page 2 ---
 A product passes through three consecutive processes — Process I, Process II and Process
 Til.

@@ -92,12 +92,111 @@ B. 1.   Answer the following questions   15
 I. Role of promoter 4 + comparison 6   10
 PROMOTER
 Page 3 of 10
+
+[Text in pictures on this page, read by OCR]
+Gilford Motor Co. ys. Horne
+Subject Matter:
+
+This. case is a leading authority on the doctrine of "lifting the corporate veil." It demonstrates how
+courts can disregard the separate legal entity of a company to prevent individuals from using it asa
+sham or device to evade contractual obligations or commit fraud.
+
+This case is a cornerstone in corporate law, illustrating that courts can lift the corporate veil to
+prevent individuals from abusing the separate legal identity of a company. It serves as a warning
+against 2 corporations for fraudulent or improper purposes and has been widely cited in
+subsequent cases involving similar issues.
+
+Case Facts:
+
+« The defendant, Mr. Horne, was a former managing director of Gilford Motor Co. Ltd. His
+employment contract included a restrictive covenant that prohibited him from soliciting the
+company’s customers after his employment ended.
+
+«* Upon leaving Gilford, Hore set up a new company under his wife's name to carry out the
+same business. This company began soliciting customers of Gilford Motor Co., effectively
+bypassing the restrictive covenant.
+
++ Gilford Motor Co. brought an action against Horne, alleging that the new company was
+merely a fagade to circumvent his contractual obligations.
+
+Issue:
+
+The main legal issue was whether the court could pierce the corporate veil to hold Mr. Hore
+personally liable for the actions of the company he established to evade his obligations under the
+restrictive covenant.
+
+Court Judgment:
+The court ruled in favor of Gilford Motor Co., lifting the corporate veil and holding that the
+company formed by Horie was a mere sham to conceal his improper actions. The court's reasoning
+included:
+1. Sham or Device: The company was not a genuine independent entity but a facade used by
+Horne to breach his contractual obligations.
+2. Equitable Grounds: The corporate structure could not be used to shield wrongdoing or
+evade lawful obligations.
+Lord Hanworth M.R. emphasized that the company was "a mere cloak or sham" to enable Horne to
+breach the restrictive covenant. The court issued an injunction against both Horne and the company,
+preventing them from soliciting customers of Gilford Motor Co.
 --- page 4 ---
 It is the promoter who gets the idea of starting a company and undertakes all the
 preliminary work necessary for its formation. In other words, the promoter of a
 company is a person who does the necessary preliminary work incidental to the
 formation of the company.
 Page 4 of 10
+
+[Text in pictures on this page, read by OCR]
+Role of the Promoter
+
+The Common Law propounds that "the term promoter is a short and convenient way of
+designating those who set in motion the machinery by which the Act enables them to create an
+incorporated company" and therefore promoter is one who "undertakes to form a company with
+reference to a given project and to set it going, and who takes the necessary steps to accomplish
+that purpose."
+
+"Promoter plays a very important role in a company. Formation of a company starts with the
+promotion of a company. Usually the idea of the company will be of the promoters, they have the
+idea of the business and its feasibility.
+
+"Promoter is a person who brings about the incorporation and organization of a corporation. He
+brings together the persons who become interested in the enterprise, aids in procuring
+subscriptions, and in motion the machinery which leads to the formation itself."
+
+"The eminence of a promoter is generally terminated when the Board of Directors has been
+formed and they start governing the company. Technically, the first persons who control the
+company's affairs are its promoters. They carry out the necessary investigation to find out
+whether the formation of a company is possible and profitable. Thereafter, they organize the
+resources to convert the idea into a reality by forming a company. In this sense, the promoters are
+the originators of the plan for the formation of a company.
+
+They are the ones who it to arrange or find ones who can arrange the share and loan capital and
+other financial resources, Promoters are the one who arrange for the company to acquire the
+business which the company is to conduct or the property or assets from which it is to derive its
+profits or income, when these things have been done, the promoter hand over the control of the
+company to its director, who are themselves under a different name."
+
+Differences between Pre-incorporation and Provisional contract
+
+Preliminary contracts are those contracts made before the formation of the company, whereas the
+contract entered by a company after incorporation but before it is entitled to commence business
+is termed as provisional contracts.
+
+As per the provisions of the act, neither the company can sue nor can it be sued to enforce the
+preliminary contracts, whereas the provisional contracts can be enforced only on receiving
+a certificate of Commencement of Business.
+
+Preliminary contracts are the liabilities of promoters, his liability ceases only after adoption of
+such contract by the company after incorporation. However, provisional contracts are the
+responsibilities of the company. Preliminary contracts may relate to property which
+the promoters desire to purchase for the company or they may be made with the persons whose
+know-how is vital to the success of the company.
+
+As per the Act, both private and public company have the right to undertake these contracts,
+whereas only public limited companies can undertake provisional contracts.
+
+As the provisional contracts are being entered in a period after incorporation and before
+obtaining business commencement certificate, it can be applied only to public limited companies.
+
+However, no such case arises in private limited companies as private limited company obtain legal
+feature immediately on receipt of incorporation certificate.
 --- page 5 ---
 II. Judgement 2 - explanation 3   5
 The Doctrine of Ultra Vires means “beyond the powers.” Under the Companies Act,
@@ -471,12 +570,111 @@ B. 1.   Answer the following questions   15
 I. Role of promoter 4 + comparison 6   10
 PROMOTER
 Page 3 of 10
+
+[Text in pictures on this page, read by OCR]
+Gilford Motor Co. ys. Horne
+Subject Matter:
+
+This. case is a leading authority on the doctrine of "lifting the corporate veil." It demonstrates how
+courts can disregard the separate legal entity of a company to prevent individuals from using it asa
+sham or device to evade contractual obligations or commit fraud.
+
+This case is a cornerstone in corporate law, illustrating that courts can lift the corporate veil to
+prevent individuals from abusing the separate legal identity of a company. It serves as a warning
+against 2 corporations for fraudulent or improper purposes and has been widely cited in
+subsequent cases involving similar issues.
+
+Case Facts:
+
+« The defendant, Mr. Horne, was a former managing director of Gilford Motor Co. Ltd. His
+employment contract included a restrictive covenant that prohibited him from soliciting the
+company’s customers after his employment ended.
+
+«* Upon leaving Gilford, Hore set up a new company under his wife's name to carry out the
+same business. This company began soliciting customers of Gilford Motor Co., effectively
+bypassing the restrictive covenant.
+
++ Gilford Motor Co. brought an action against Horne, alleging that the new company was
+merely a fagade to circumvent his contractual obligations.
+
+Issue:
+
+The main legal issue was whether the court could pierce the corporate veil to hold Mr. Hore
+personally liable for the actions of the company he established to evade his obligations under the
+restrictive covenant.
+
+Court Judgment:
+The court ruled in favor of Gilford Motor Co., lifting the corporate veil and holding that the
+company formed by Horie was a mere sham to conceal his improper actions. The court's reasoning
+included:
+1. Sham or Device: The company was not a genuine independent entity but a facade used by
+Horne to breach his contractual obligations.
+2. Equitable Grounds: The corporate structure could not be used to shield wrongdoing or
+evade lawful obligations.
+Lord Hanworth M.R. emphasized that the company was "a mere cloak or sham" to enable Horne to
+breach the restrictive covenant. The court issued an injunction against both Horne and the company,
+preventing them from soliciting customers of Gilford Motor Co.
 --- page 4 ---
 It is the promoter who gets the idea of starting a company and undertakes all the
 preliminary work necessary for its formation. In other words, the promoter of a
 company is a person who does the necessary preliminary work incidental to the
 formation of the company.
 Page 4 of 10
+
+[Text in pictures on this page, read by OCR]
+Role of the Promoter
+
+The Common Law propounds that "the term promoter is a short and convenient way of
+designating those who set in motion the machinery by which the Act enables them to create an
+incorporated company" and therefore promoter is one who "undertakes to form a company with
+reference to a given project and to set it going, and who takes the necessary steps to accomplish
+that purpose."
+
+"Promoter plays a very important role in a company. Formation of a company starts with the
+promotion of a company. Usually the idea of the company will be of the promoters, they have the
+idea of the business and its feasibility.
+
+"Promoter is a person who brings about the incorporation and organization of a corporation. He
+brings together the persons who become interested in the enterprise, aids in procuring
+subscriptions, and in motion the machinery which leads to the formation itself."
+
+"The eminence of a promoter is generally terminated when the Board of Directors has been
+formed and they start governing the company. Technically, the first persons who control the
+company's affairs are its promoters. They carry out the necessary investigation to find out
+whether the formation of a company is possible and profitable. Thereafter, they organize the
+resources to convert the idea into a reality by forming a company. In this sense, the promoters are
+the originators of the plan for the formation of a company.
+
+They are the ones who it to arrange or find ones who can arrange the share and loan capital and
+other financial resources, Promoters are the one who arrange for the company to acquire the
+business which the company is to conduct or the property or assets from which it is to derive its
+profits or income, when these things have been done, the promoter hand over the control of the
+company to its director, who are themselves under a different name."
+
+Differences between Pre-incorporation and Provisional contract
+
+Preliminary contracts are those contracts made before the formation of the company, whereas the
+contract entered by a company after incorporation but before it is entitled to commence business
+is termed as provisional contracts.
+
+As per the provisions of the act, neither the company can sue nor can it be sued to enforce the
+preliminary contracts, whereas the provisional contracts can be enforced only on receiving
+a certificate of Commencement of Business.
+
+Preliminary contracts are the liabilities of promoters, his liability ceases only after adoption of
+such contract by the company after incorporation. However, provisional contracts are the
+responsibilities of the company. Preliminary contracts may relate to property which
+the promoters desire to purchase for the company or they may be made with the persons whose
+know-how is vital to the success of the company.
+
+As per the Act, both private and public company have the right to undertake these contracts,
+whereas only public limited companies can undertake provisional contracts.
+
+As the provisional contracts are being entered in a period after incorporation and before
+obtaining business commencement certificate, it can be applied only to public limited companies.
+
+However, no such case arises in private limited companies as private limited company obtain legal
+feature immediately on receipt of incorporation certificate.
 --- page 5 ---
 II. Judgement 2 - explanation 3   5
 The Doctrine of Ultra Vires means “beyond the powers.” Under the Companies Act,

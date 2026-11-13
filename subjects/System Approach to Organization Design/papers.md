@@ -183,8 +183,9 @@ f v4
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XV TRIM/SYSTEM APPROACH TO ORGANISATION DESIGN/Scan 0012(1).pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 16/4/2013
-- Text: mixed (5 pages), mean OCR confidence 43.9
-- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+- Text: mixed (5 pages), mean OCR confidence 81.8
+- 1 page scanned sideways or upside down, turned upright before OCR
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Academic Year : 2012-2013
@@ -357,89 +358,53 @@ complete the project efficiently and in time.
 2. Draw a new Organization Chart in terms of Business Process
 Restructure.
 --- page 5 ---
-cree a |
-i 1
-ad | 1
-1 |
-1 1
-' H
-i L
-1 “Nf a
-i 7) ==
-of F 958
-17S zs] |s28
-(i 8) [8B 3
-i]
-/ Oo @ 3s 30
-i ia eC |
-a! +} | a8
-N JX )
-(—\ + aan eee eae 5
-1 i
-! 1
-L
-ir a — \Y £
->
-L wn Ss
-ils #1 (98a
-ie i)
-i rw
-iz S| |o@s
-rT) ~ (on
-LY ile 3/1/88
-115 . Soa
-- *
-me > »% S/S
+Organization and Contractual
+Relationships
 
-(_ ~\ 7 ‘
-(@) m
-ie) 3
-> 23 Zs
-=) o 3 Oo
-~ se 30
-fe) YH => vO
-3 89|| 8a
-n a 5. 34
-= :
-oa a
-a J y
+Organizational Relationships
 
-o 2)
-> mg
-5 SS in
-oa 4
-=< 894
-o eis
-a | 2a
-Ww @O ct.
-=e)
-g =}
+Empire Plastics
+Group PLC
+epee eee Empire
+Consultants
+Bob Weeks:
 
-a
+Construction
+Spe btrade
 
-\ y, fo)
+Contractual Relationships
 
-3S
+Key
+Management
+Issues?
 
-n
+Empire Plastics
+Northern
 
-c
+Commissioning
+Manager
 
-a
+Construction
 
-o
+Engineer Engineer
 
-=|
+lan Jones John Marshal
 
-: a
+John Marshal
+Wet End tt en ee =
+Teknibuild
 
-r— > | {8
+(Management
+Contractor)
 
-5 5 5
-mam ae
-—. =a a
-AY) C)
-+s 2a
-4 88
-a S
+Western Const.
+
+r (Management
+1 Contractor)
+
+Site Manager
+
+Site Manager
+
+Vic Mason
 ````

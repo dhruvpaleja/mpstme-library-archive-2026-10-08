@@ -4254,7 +4254,8 @@ end bearing and assume adhesion factor of 0:80
 - Programmes: B TECH / CIVIL
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/CIVIL/VI SEMESTER/GEOTECHNICAL ENGINEERING II/GEOTECHNICAL ENGINEERING II B TECH CIVIL 2013-14 FINAL EXAM.pdf`
 - Printed on paper: exam date: 07/05/2014
-- Text: ocr (3 pages), mean OCR confidence 64.3
+- Text: ocr (3 pages), mean OCR confidence 80.9
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 — SVKM’s NMIMS
@@ -4357,7 +4358,34 @@ b. Explain mechanism of reinforced soil and explain the applications of 10
 
 geosynthetic material.
 --- page 3 ---
-“Nh saquunu Ayers
+Zane B iz :
+
+Cast 1 Criteal circle through jue '
+full fines)
+
+Case 2 Critical cite below toe +
+tdetied fine}
+
+Case 2 Swong steatum st 2} Av I
+(dashed. line} 1 "ot
+
+Zone A
+
+Critical circle
+through toe
+
+a
+
+— a ee
+2 3) a0 80 6 Rr
+
+Slope 8
+
+Figure 10.16 Taylor's stability numbers far circles
+Passing through the toe and below or above the toe
+{after Taylor, 1937)
+
+%
 ````
 
 ## 2013-14 · Re-Exam · Sem 6 · paper 3f25038ee9b7

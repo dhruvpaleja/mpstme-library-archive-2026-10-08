@@ -7,6 +7,7 @@ Answer keys and model answers published on the portal, newest first.
 - Departments: AI and Data Science, AI and Machine Learning, Artificial Intelligence, Computer Engineering, Computer Science, Data Science, Electronics and Telecommunication, Information Technology, Mechanical, Mechatronics
 - Programmes: BTech AIDS 7056, BTech AIML 7053, BTech Computer 7002, BTech CS 7055, BTech CSE DS 7057, BTech DS 7009, BTech EXTC 7006, BTech Mechanical 7003, BTech Mechatronics 7004, MBATech AI 7051, MBATech Computer 7047, MBATech IT 7041
 - Source: `02_Question_Papers/2025/Sem_01/Final-Exam/BTech_AIDS_7056/Calculus/ANS_Calculus(702BS0C001)_2025-2026.pdf` (+11 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Dec 2025
 - Text: mixed (17 pages), mean OCR confidence 54.2
 - 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
@@ -20,6 +21,35 @@ CO-    2 z    2 z
 2;   b.   If z  sin x sin y then find   2 and   2 .   4
 BL-1    x    y
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+SYNOPTICS
+
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
+(COMP)/B. Tech (CS)/B. Tech (CSBS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech
+(DS)/B. Tech (EXTC)/B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg.
+(Mech)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech
+(Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/ Ill/Semester I/Semester V(Exam Year: 2025-2026)
+Subject: Calculus
+Date: 04 Dec 2025 Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+
+Instructions:
+
+1, This question paper contains 16 pages.
+
+2. Answer to each new question to be started on a fresh page.
+
+3. Figure in right hand side indicates full marks
+
+4. Question no. 1 is compulsory
+
+5. Attempt any 4 questions out of the remaining questions
 --- page 2 ---
 1
 d
@@ -137,6 +167,33 @@ To find scalar potential function  : since , F =  
  F   y 2 cos x  z 3   i   2 y sin x  4  j  3 xz 2  2  k =i    j    k     …………(1)
  x    y    z
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+The table represents all the possible situations from the equations f, and fy. Considering all
+the cases to find the stationary points: x = 0 ory = 0 or4—a—2y=0 0r3—a2-y=0.
+Combination all cases are presented in the table.
+
+Condition curve Solution | Stationary point (x,y)
+case(i) 3-2-y=0 2=0 y=3 (0,3)
+case(ii) 3-2-y=0 y=0 2=3 (3,0)
+case(iti) |3-—x2-—y=0 | 4-2-2y=0 | r=2,y=1 (2,1)
+case(iv) r=0 4-2-2y=0 (0, 2)
+case(v) y=0 2=0 (0,0)
+case(vi) y=0 4-—x2-2y=0 z=4 (4,0)
+
+Hence the stationary points are obtained.
+
+The table shows the extreme values of the function f(x,y) = x°y?(12 — 3a — 4y).
+
+Point (x,y) | r 8 t rt - 8° Result
+
+(2;1) —48 | —48 | —96 | 2304 >0 | Mazimum
+(0,0) 0 0 0 0 Reject
+(0,2) 0 | 0 | 0 0 Reject
+(4,0) 0 | 0 10 0 Reject
+(0,3) 0 0 0 0 Reject
+
+(3,0) 0 | 0 | 162 0 Reject
 --- page 8 ---
 This gives  y 2 cos x  z 3  =   = 1f , 2 y sin x 4  =    2f , 3 xz 2  2  =    3f …….(1)
  x    y    z
@@ -1132,6 +1189,33 @@ To find scalar potential function  : since , F =  
  F   y 2 cos x  z 3   i   2 y sin x  4  j  3 xz 2  2  k =i    j    k     …………(1)
  x    y    z
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+The table represents all the possible situations from the equations f, and fy. Considering all
+the cases to find the stationary points: x = 0 ory = 0 or4—a-—2y=0 0r3—a2-y=0.
+Combination all cases are presented in the table.
+
+Condition curve Solution | Stationary point (x,y)
+case(i) 3-ar-y=0 xzr=0 y=3 (0,3)
+case(ii) 3-a2-—y=0 y=0 r=3 (3,0)
+case(iti) | 3-x-—y=0 | 4-2-2y=0 | r=2,y=1 (2,1)
+case(iv) z=0 4-x-2’€=0 (0, 2)
+case(v) y=0 2=0 (0,0)
+case(vi) y=0 4-x-2y=0 z=4 (4,0)
+
+Hence the stationary points are obtained.
+
+The table shows the extreme values of the function f(x,y) = x°y?(12 — 3a — 4y).
+
+Point (x,y) | r 8 t rt - s* Result
+
+(2, 1) —48 | —48 | —96 | 2304 > 0 | Maximum
+(0,0) 0 0 0 0 Reject
+(0,2) 0; o0 | 0 0 Reject
+(4,0) 0,0 | 0 0 Reject
+(0,3) 0 0 0 0 Reject
+
+(3, 0) 0 0 162 0 Reject
 --- page 8 ---
 This gives  y 2 cos x  z 3  =   = 1f , 2 y sin x 4  =    2f , 3 xz 2  2  =    3f …….(1)
  x    y    z
@@ -2866,6 +2950,7 @@ FRR ICR 7 6 AC OH
 - Departments: Computer Engineering, Mechanical
 - Programmes: Integrated Computer 7032, Integrated Mechanical 7031
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/Integrated_Computer_7032/Calculus/ANS_Calculus(701BS0C029)_2025-2026.pdf` (+1 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Dec 2025
 - Text: mixed (17 pages), mean OCR confidence 54.2
 - 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
@@ -2879,6 +2964,35 @@ CO-    2 z    2 z
 2;   b.   If z  sin x sin y then find   2 and   2 .   4
 BL-1    x    y
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+SYNOPTICS
+
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
+(COMP)/B. Tech (CS)/B. Tech (CSBS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech
+(DS)/B. Tech (EXTC)/B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg.
+(Mech)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech
+(Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/ Ill/Semester I/Semester V(Exam Year: 2025-2026)
+Subject: Calculus
+Date: 04 Dec 2025 Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+
+Instructions:
+
+1, This question paper contains 16 pages.
+
+2. Answer to each new question to be started on a fresh page.
+
+3. Figure in right hand side indicates full marks
+
+4. Question no. 1 is compulsory
+
+5. Attempt any 4 questions out of the remaining questions
 --- page 2 ---
 1
 d
@@ -2996,6 +3110,33 @@ To find scalar potential function  : since , F =  
  F   y 2 cos x  z 3   i   2 y sin x  4  j  3 xz 2  2  k =i    j    k     …………(1)
  x    y    z
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+The table represents all the possible situations from the equations f, and fy. Considering all
+the cases to find the stationary points: x = 0 ory = 0 or4—a—2y=0 0r3—a2-y=0.
+Combination all cases are presented in the table.
+
+Condition curve Solution | Stationary point (x,y)
+case(i) 3-2-y=0 2=0 y=3 (0,3)
+case(ii) 3-2-y=0 y=0 2=3 (3,0)
+case(iti) |3-—x2-—y=0 | 4-2-2y=0 | r=2,y=1 (2,1)
+case(iv) r=0 4-2-2y=0 (0, 2)
+case(v) y=0 2=0 (0,0)
+case(vi) y=0 4-—x2-2y=0 z=4 (4,0)
+
+Hence the stationary points are obtained.
+
+The table shows the extreme values of the function f(x,y) = x°y?(12 — 3a — 4y).
+
+Point (x,y) | r 8 t rt - 8° Result
+
+(2;1) —48 | —48 | —96 | 2304 >0 | Mazimum
+(0,0) 0 0 0 0 Reject
+(0,2) 0 | 0 | 0 0 Reject
+(4,0) 0 | 0 10 0 Reject
+(0,3) 0 0 0 0 Reject
+
+(3,0) 0 | 0 | 162 0 Reject
 --- page 8 ---
 This gives  y 2 cos x  z 3  =   = 1f , 2 y sin x 4  =    2f , 3 xz 2  2  =    3f …….(1)
  x    y    z
@@ -3347,6 +3488,587 @@ a Given Puncim is nor dontnuewa — dm)
 3
 ii) Evaluate the following lim ~~.
 (990.0) yy? +x
+
+AR AOR RACK 7] GR AR OK RE
+--- page 17 ---
+ve)
+Pan)! lim yew . Hr 1g? a 4 Gay
+Crys (00) 93493 a ys
+
+Yoo
+pen) hm yiw 2 tim —X% 2) —_ Gm
+(HY) 9 (2,9 Bog Yo 93
+Soy xP o
+Pah © + Pah G —_. Gin
+ss limit does not ents} — (1)
+
+````
+
+## 2025-26 · Re-Exam · Sem 5 · Answer key · paper d3e2171d140b
+
+- Departments: Civil, Computer Engineering, Cyber Security, Data Science, Information Technology
+- Programmes: BTech Civil 7005, BTech CyberSecurity 7010, BTech IT 7001, Integrated Computer 7032, Integrated DS 7038, Integrated IT 7037
+- Source: `02_Question_Papers/2023/Sem_05/Re-Exam/Integrated_DS_7038/Calculus/ANS_Calculus(702BS0C001)_2023-2024.pdf` (+6 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Dec 2025
+- Text: mixed (17 pages), mean OCR confidence 52.8
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
+
+````text
+Q1   Answer briefly:
+Verify Rolle’s Mean value theorem for the function f ( x )  x 3  9 x 2  26 x  24, 2  x  4.
+CO- 1 ;   a.   4
+BL-2
+CO-   b.    2 z    2 z   4
+2;   If z  sin x sin y then find   2 and   2 .
+BL-1    x    y
+********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+SYNOPTICS
+
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (CIVIL)/B. Tech
+(COMP)/B. Tech (CS)/B. Tech (CSBS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech
+(DS)/B. Tech (EXTC)/B. Tech Intg. (CE)/B. Tech Intg. (DS)/B. Tech Intg. (IT)/B. Tech Intg.
+(Mech)/B. Tech (IT)/B. Tech (MECH)/B. Tech (MXTC)/MBA Tech (AI)/MBA Tech
+(Comp)/MBA Tech (DS)/MBA Tech (IT)
+Year: I/ Ill/Semester I/Semester V(Exam Year: 2025-2026)
+Subject: Calculus
+Date: 04 Dec 2025 Time: 02:00 pm to 05:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+
+Instructions:
+
+1, This question paper contains 16 pages.
+
+2. Answer to each new question to be started on a fresh page.
+
+3. Figure in right hand side indicates full marks
+
+4. Question no. 1 is compulsory
+
+5. Attempt any 4 questions out of the remaining questions
+--- page 2 ---
+—=®
+
+smn
+ge = cosx SIM]
+OX 0)
+——
+Ogee — Sinx Sy
+Oo
+. U)
+Cz = sfnxc 4
+OY
+Ge = —3inx sing |
+cal?
+1
+Prove that | dx =! eft. 3):
+ovi-xt 4 \4 2
+Soln.: Put x4=y .. x=y4
+1...
+Let 1=f ox odx= ay dy
+ov1-x*
+on X 0 1
+l= dy _ (01 M) y () 1
+ovi-y
+co-
+3; Cc. 1 (01M)
+BL-3 qh 7
+=aly sy)? dy
+0
+1} 2a hat
+=qly* (ey? dy__ tom)
+0
+qt 44 4,
+=qlyt (-yP gy
+0
+1,(11
+=— pl 5 01M
+ue 3) | )
+co- lx
+4, | 4. | Evaluate Jf (y+ 22x)avae.
+BL-2 ee
+
+FRG 2 RAG OK Rk
+--- page 3 ---
+‘O-
+aA © | ig f=(40)i+(6x) 7+(a92°)k, find div f and curl f at (1,2,1).
+
+--- page 4 ---
+The Wi-Fi signal strength inside an office building is modelled by the function
+𝑆(𝑥, 𝑦, 𝑧) = −2𝑥ଶ−𝑦ଶ−3𝑧ଶ+ 8𝑥+ 6𝑦+ 12𝑧+ 40 , where 𝑥 and 𝑦 are horizontal
+coordinates and 𝑧 is the height in meters. Find the direction in which the signal strength
+increases most rapidly at the point 𝑃(1, −2,1). Determine the maximum rate of increase of
+the signal strength at P. If an engineer carrying a signal meter moves in the direction 𝑣=
+(1, 2, 2) find the rate of change of signal strength in that direction.
+Solution:
+Q2   ∂S   ∂S   ∂S   01 Mark
+CO-5; a   ∇S = 𝑖+ 𝑗+ 𝑘= (−4x + 8)𝑖+ (−2y + 6)𝑗+ (−6z + 12)𝑘   6
+∂x   ∂y   ∂z
+BL-3
+At P (1, -2, 1), ∇S = 4𝑖+ 10𝑗+ 6𝑘   01 Mark
+At P (1,-2,1), Direction of fastest increase is along the unit vector,   01 Mark
+∇S ෢= ∇ୗ = ସ௜ାଵ଴௝ା଺௞
+|∇ୗ|   √ଵହଶ
+At P (1, 2, 2), Maximum rate of increase = |∇S| = √152   01 Mark
+Given vector 𝑣= 𝑖+ 2𝑗+ 2𝑘.   02 marks
+********** 4 **********
+--- page 5 ---
+Rate of change along v is the directional derivative of S along v =∇S. 𝑣ො=
+௜ାଶ௝ାଶ௞   ସାଶ଴ାଵଶ   ଷ଺
+(4𝑖+ 10𝑗+ 6𝑘).   =   = ଷ= 12
+ଷ   ଷ
+OR
+__
+If the rate of change is calculated considering 𝑃𝑉 , then the directional derivative
+__
+of S along 𝑃𝑉 is
+__
+= ∇S. (𝑃𝑉) ෣, where 𝑃𝑉 is (0,4,1)
+=(4𝑖+ 10𝑗+ 6𝑘). ସ௝ା௞   02 Mark
+√ଵ଻
+=ସ଴ା଺   ସ଺
+√ଵ଻= √ଵ଻
+If u  f ( e y  z , e z  x , e x  y ) , then prove that  u   u   u  0 .
+ x    y    z
+CO-2; b   6
+BL-2
+********** 5 **********
+--- page 6 ---
+Examine the validity of the conditions and the conclusion of Lagrange’s Mean Value theorem
+  
+for the function f ( x )  sin x  cos x in  0,  .
+ 2 
+CO-1; c   8
+BL-2
+Find extreme values of x 3 y 2 ( 12  3 x  4 y ) .
+Q3   a   Solution3a) : 𝑓 (𝑥, 𝑦) = x 3 y 2 ( 12  3 x  4 y ) .   6
+CO-2;
+BL-3   Conditions for maxima and minima are డ௙ డ௫= 0, డ௬= డ௙ 0 , which gives
+36 x 2 y 2  12 x 3 y 2  12 x 2 y 3  0
+24 x 3 y  6 x 4 y  12 x 3 y 2  0
+********** 6 **********
+--- page 7 ---
+12 x 2 y 2 (3  x y )  0 & 6 x 3 y (4  x 2 y )  0   …………..(1 Mark)
+Solving the two equations, (3  x  y )  0 & (4  x  2 y )  0
+……..……(2 Marks)
+To find the extreme values, we calculate
+ 2 f    2 f    2 f
+r    2 , s    , t    2
+ x    x y    y
+r  72 xy 2  36 x 2 y 2  24 xy 3
+s  72 x 2 y  24 x 3 y  36 x 2 y 2
+t  24 x 3  6 x 4  24 x 3 y   ………..(1 Mark)
+At (2,1): rt  s 2  0 and r  0 ,   ……………………(1 Mark)
+Maxima at (2,1), Maximum value = 16   ………………..……(1 Mark)
+
+Show that the vector F   y 2 cos x  z 3   i   2 y sin x  4  j  3 xz 2  2  k is irrotational and
+find its scalar potential.
+Solution 3b) : To show F is irrotational,
+i   j   k
+      
+CO-5;   Curl F =   …. (1)
+BL-3   b    x    y    z   6
+y 2 cos x  z 3 2 y sin x  4 3 xz 2  2
+= i (0  0)  j (3 z 2  3 z 2 )  k (2 y cos x  2 y cos x )   = 0   …. (1)
+F is irrotational.
+To find scalar potential function  : since , F =  
+ F   y 2 cos x  z 3   i   2 y sin x  4  j  3 xz 2  2  k =i    j    k     …………(1)
+ x    y    z
+********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+The table represents all the possible situations from the equations f, and fy. Considering all
+the cases to find the stationary points: x = 0 ory = 0 or4—a—2y=0 0r3—a2-y=0.
+Combination all cases are presented in the table.
+
+Condition curve Solution | Stationary point (x,y)
+case(i) 3-ar-y=0 2='0 7=3 (0,3)
+case(ii) 3-a2-—y=0 y=0 zr=3 (3,0)
+case(iti) | 3-ax2-—y=0 | 4-a2-2y=0|]2r=2,y=1 (2,1)
+case(iv) z=0 4-r-2y=0 (0, 2)
+case(v) y=0 2=0 (0,0)
+case(vi) y=0 4-x-2y=0 z=4 (4,0)
+
+Hence the stationary points are obtained.
+
+The table shows the extreme values of the function f(x,y) = x°y?(12 — 3a — 4y).
+
+Point (x,y) | r 8 t rt - s* Result
+
+(2, 1) —48 | —48 | —96 | 2304 > 0 | Mazimum
+(0,0) 0 0 0 0 Reject
+(0, 2) a a 0 Reject
+(4,0) 0.0 |] 0 0 Reject
+(0,3) 0 10 |0 0 Reject
+
+(3, 0) 0 0 162 0 Reject
+--- page 8 ---
+This gives  y 2 cos x  z 3  =   = 1f , 2 y sin x 4  =    2f , 3 xz 2  2  =    3f …….(1)
+ x    y    z
+Scalar potential function 𝜙= ∫𝑓ଵ𝑑𝑥+ ∫ (௧௘௥௠௦௪௜ℎ௧௢௨௧௫) 𝑓ଶ𝑑𝑦 + ∫ ௧௘௥௠௦௪௜௧ℎ௢௨௧௫,௬) 𝑓ଷ𝑑𝑧 + 𝑐
+…………. (1)
+ y 2 sin x  z 3 x  4 y  2 z  c   ……………. (1)
+tan x  sin x
+lim x  0   sin 3 x
+tan x  sin x      0 
+Solution 3c) Let   L  lim   3    Form      …. (1)
+x  0   sin x      0 
+   L = lim tan x  sin x   since, 𝑙𝑖𝑚 ௦௜௡௫ = 1
+x  0 x 3 sin 3 x   ௫→଴ ௫
+x 3
+tan x  sin x      0 
+….(1)   L= lim   3    Form   
+x  0   x      0 
+CO-1; c   ………..(1)   8
+BL-2   sec 2 x  cos x      0 
+L = lim   2   by L’Hospital Rule    Form      ….(1)
+x  0   3 x      0 
+2sec 2 x tan x  sin x      0 
+L = lim   by L’Hospital Rule    Form      …..(1)
+x  0   6 x      0 
+2sec 4 x  4sec 2 x tan 2 x  cos x
+L= lim   by L’Hospital Rule   …(1)
+x  0   6
+2  1
+L =   ………………… (1)
+6
+   L = 1 .   ……………………… (1)
+2
+గ
+Find the Taylor Series Expansion of 𝑓(𝑥) = ln(cos 𝑥) about the point 𝑎= ଷ.
+Sol. 4(a). Taylor Series Expansion of 𝒇(𝒙) = 𝒍𝒏(𝒄𝒐𝒔𝒙) about 𝒂=
+𝝅
+𝟑
+Taylor Series Expansion of 𝑓(𝑥)
+𝑓(𝑥) = 𝑓(𝑎) + 𝑓ᇱ(𝑎) ቀ𝑥− గ ଷቁ+ ௙ᇲᇲ(௔) (𝑥− గ ଷ)ଶ+ ௙ᇲᇲᇲ(௔) (𝑥− గ ଷ)ଷ+ ௙೔ೡ(௔) (𝑥− గ ଷ)ସ+ ⋯
+ଶ!   ଷ!   ଷ!
+గ
+Where 𝑎= ଷ.   --------------(1 Mark)
+Compute derivatives
+Q4
+CO-1; a 𝑓(𝑥) = ln (𝑐𝑜𝑠 𝑥)   6
+BL-2   గ   ଵ
+𝑓(𝑎) = ln ቀ𝑐𝑜𝑠 ଷቁ= ln ቀ ଶቁ= −𝑙𝑛2   ------------(1 Mark)
+గ
+𝑓ᇱ(𝑥) = −𝑡𝑎𝑛𝑥 ⟹ 𝑓ᇱቀ ଷቁ= −√3 ---------------(1 Mark)
+గ
+𝑓ᇱᇱ(𝑥) = −𝑆𝑒𝑐ଶ𝑥 ⟹ 𝑓ᇱᇱቀ ଷቁ= −4   -------(1 Mark)
+గ
+𝑓ᇱᇱᇱ(𝑥) = −2 𝑆𝑒𝑐ଶ𝑥 𝑡𝑎𝑛𝑥 ⟹ 𝑓ᇱᇱᇱቀ ଷቁ= −8√3
+Substitution of values
+𝒍𝒏 𝒄𝒐𝒔 𝒙=
+గ   గ   గ   ௙ᇲᇲቀഏ యቁ   గ   ௙ᇲᇲᇲቀഏ యቁ   గ
+ln ቀ𝑐𝑜𝑠 ଷቁ+ 𝑓ᇱቀ ଷቁቀ𝑥− ଷቁ+   (𝑥− ଷ)ଶ+   (𝑥− ଷ)ଷ+ . ..
+ଶ!   ଷ!
+********** 8 **********
+--- page 9 ---
+గ   ସ   గ   √ଷ   గ
+= −𝑙𝑛2 + −√3 ቀ𝑥− ଷቁ+ି (𝑥− ଷ)ଶ+ି଼   (𝑥− ଷ)ଷ+ . ..
+ଶ!   ଷ!
+------------(2 Marks)
+ଵ ଵି௫ ଵି௫ି௬ ௗ௫ௗ௬ௗ௭
+Evaluate ∫∫   ∫   .
+଴ ଴   ଴   (௫ା௬ା௭ାଵ)య
+Sol. 4(b). Integrate with respect to z first
+Let 𝑡= 𝑥+ 𝑦+ 𝑧+ 1. Then 𝑑𝑡= 𝑑𝑧, and when 𝑧= 0, 𝑡= 𝑥+ 𝑦+ 1; when
+𝑧= 1 −𝑥−𝑦, 𝑡= 2.
+ଵି௫ି௬   ௗ௭   ଶ   ௧షమି ଶ   ଵ   ଵ଼.
+∫ ଴   (௫ା௬ା௭ାଵ)య = ∫ ௫ା௬ାଵ 𝑡ି ଷ𝑑𝑡 = ቂ ଶቃ   = ଶ(௫ା௬ାଵ)మ−
+௫ା௬ାଵ
+------------(2 Marks)
+CO-4;   So, I = ∫∫ ଵ ଵି௫ ቀ ଶ(௫ା௬ାଵ)మ− ଵ   ଵ଼ቁ𝑑𝑦 𝑑𝑥
+BL-2   b   ଴ ଴   6
+ଵ ଵ ଵି௫   1)ିଶ)𝑑𝑦   ଵ଼ ଵ ଵି௫
+= ଶ∫∫ ((𝑥+ 𝑦+   𝑑𝑥− ∫∫   𝑑𝑦 𝑑𝑥
+଴ ଴   ଴ ଴
+ଵ ଵ   ଵ ଵି௫   ଵ଼∫(1 ଵ
+= ଶ∫ቂି ଴ ௫ା௬ାଵቃ   𝑑𝑥−   ଴ −𝑥)𝑑𝑥   ---(1 Mark)
+଴
+ଵ ଵ   ଵ   ଵ   ଵ଼ቂ𝑥− ௫మ ଵ
+= ଶ∫ቀ ଴ ௫ାଵ − ଶቁ𝑑𝑥−   ଶቃ   ------(1 Mark)
+଴
+ଵ   ௫ ଵ   ଵ଼(1   ଵ
+= ଶቂln(𝑥+ 1) − ଶቃ −   − ଶ)   -----------(1 Mark)
+଴
+ଵ   ଵ   ଵ
+= ଶቀln 2 − ଶቁ−
+ଵ଺
+ଵ   ହ
+= ଶ(ln 2) − ଵ଺.   --------------(1 Mark)
+  3 x 2  8 y 2  dx   4 y  6 xy  dy
+Evaluate   , using Green’s theorem, where C is
+C
+the boundary of the region defined by 𝑦= √𝑥 and 𝑦= 𝑥ଶ.
+డே డெ
+Sol. 4(c). By Green’s Theorem ∮(𝑀 𝑑𝑥+ 𝑁 𝑑𝑦) = ∬ቀ డ௫− డ௬ቁ  𝑑𝑥 𝑑𝑦
+஼   ோ
+where 𝑀= 3𝑥ଶ−8𝑦ଶ 𝑎𝑛𝑑 𝑁= 4𝑦−6𝑥𝑦,   -------(1 Mark)
+డெ   డே
+So, డ௬= −16𝑦 and డ௫= −6𝑦.
+డே డெ
+CO-5; c Thus, డ௫− డ௬= −6𝑦−(−16𝑦)=10𝑦 --------------(1 Mark)   8
+BL-3
+𝑅 is the region enclosed by the closed curve 𝐶: 𝑦= √𝑥 𝑎𝑛𝑑 𝑦= 𝑥ଶ.
+𝑥ଶ= √𝑥 ⇒ 𝑥 (𝑥ଷ−1)=0 ⇒ 𝑥 =0,1
+⇒ 𝑦 =0 or 1
+points are (0,0) and (1,1)
+------(2 Marks)
+డே డெ
+Using Green’s theorem ∮(𝑀 𝑑𝑥+ 𝑁 𝑑𝑦) = ∬ቀ డ௫− డ௬ቁ  𝑑𝑥 𝑑𝑦
+஼   ோ
+We get ∮[(3𝑥ଶ−8𝑦ଶ) 𝑑𝑥+ (4𝑦−6𝑥𝑦) 𝑑𝑦]
+஼
+********** 9 **********
+--- page 10 ---
+డ   డ
+= ∬ቆ డ௫(4𝑦−6𝑥𝑦) − డ௬(3𝑥ଶ−8𝑦ଶ)ቇ 𝑑𝑦𝑑𝑥--------------(1 Mark)
+ோ
+Where 𝑅= ൛(𝑥, 𝑦): 0 ≤𝑥≤1, 𝑥ଶ≤𝑦≤√𝑥ൟ
+= ∬[−6𝑦−(−16𝑦)]  𝑑𝑦 𝑑𝑥= ∬10𝑦  𝑑𝑦 𝑑𝑥 --------------(1 Mark)
+ோ   ோ
+ଵ √௫
+= ∫∫ 10𝑦 𝑑𝑦 𝑑𝑥
+଴ ௫మ
+ଵ ଵ଴௬మ √௫
+= ∫ቂ ଶቃ 𝑑𝑥
+଴   ௫మ
+ଵ
+= 5 ∫((√𝑥)ଶ−(𝑥ଶ)ଶ) 𝑑𝑥   -------------(1 Mark)
+଴
+ଵ   ௫మ   ௫ఱ ଵ
+= 5 ∫(𝑥−𝑥ସ) 𝑑𝑥 = 5 ቂ ଶ− ହቃ
+଴   ଴
+ଵ   ଵ   ଷ
+= 5 ቀ ଶ− ହቁ= ଶ.   --------------(1 Mark)
+ 2n
+Test the convergence of    2 .
+n 1 n
+Alternatively,
+un= ଶⁿ   ……… (1 mark)
+୬²
+un ଵ௡ ൗ=   ଶ ൗ)మ………..(1 mark)
+(௡భ೙
+Q5   ௡→ஶun 𝑙𝑖𝑚 ଵ௡ ൗ= 2 > 1
+CO-1; a   6
+BL-2   As ௡→ஶn 𝑙𝑖𝑚 ଵ௡ ൗ= 1……..(2 marks)
+By root test, the given series is a
+divergent series …..(2 marks)
+Evaluate ∫sinଶ𝜃(1 గ   + 𝑐𝑜𝑠𝜃)ଷ𝑑𝜃.
+଴
+CO-3; b   6
+BL-3
+********** 10 **********
+--- page 11 ---
+ସ √ଵ଺ି௫మ   ௗ௬ௗ௫
+Change to polar coordinates and evaluate ∫∫   .
+଴ √ସ௫ି௫మ ඥଵ଺ି௫మି௬మ
+ସ   √ଵ଺ି௫మ   ௗ௬ௗ௫
+I=∫ ∫   --------------(1 Mark)
+௫ୀ଴ ௬ୀ√ସ௫ି௫మ ඥଵ଺ି௫మି௬మ
+--------------(1 Mark)
+𝑥 = 0,   𝑥 = 4
+𝑦 = √4𝑥−𝑥ଶ ⇒   𝑟 = 4 𝑐𝑜𝑠θ
+CO-4; c   𝑦 = √16 −𝑥ଶ ⇒   𝑟 = 4   8
+BL-4
+ඥ16 −𝑥ଶ−𝑦ଶ = √16 −𝑟ଶ
+𝑑𝑦 𝑑𝑥 = 𝑟 𝑑𝑟 𝑑𝜃   --------------(1 Mark)
+గଶ ൗ   ସ   ௥ ௗ௥ ௗఏ
+=∫   ∫   --------------(1 Mark)
+ఏ ୀ଴ ௥ୀସ௖   √ଵ଺ି௥మ
+=∫ గଶ ൗ ൣ−√16 −𝑟ଶ൧r=4௖௢௦ఏ ସ   𝑑𝜃
+ఏ ୀ଴
+=∫ గଶ ൗ 4𝑠𝑖𝑛𝜃 𝑑𝜃   --------------(2 Marks)
+ఏ ୀ଴
+=4   గଶ ൗ
+[−𝑐𝑜𝑠𝜃]ఏ=0
+=4   --------------(2 Marks)
+Q6
+CO-4; a   Using double integration find the area between the curves y 2  4 x and 2 x y 3  4  0 .   6
+BL-3
+********** 11 **********
+--- page 12 ---
+6 a) Using double integration find the area between the curves } ? = 4y and 2x- 3y+4=0
+
+Solution:
+
+N [1M]
+On Solving given equations, we get intersecting points (1.2) and (4.4) {1 M]
+Area= ff dxdy [1M]
+
+For a fixedx, x:1lto4
+
+ees
+
+to 2vx [iM]
+
+civ
+
+: Ss
+Area= [i Endy] dx =fo, = - ave] dx= = Sq. units. 2M)
+
+1
+
+, 3
+
+Co |p | Evaluate J(xlogx) dx.
+0
+
+AR AR RAG 1 DRA OK RK
+--- page 13 ---
+Use Lagrange Multipliers Method to determine minimum distance from origin to the plane
+CO-6; c   8
+BL-3   3 x  2 y  z  12 .
+********** 13 **********
+--- page 14 ---
+6 c) Use Lagrange Multipliers Method to determine minimum distance from origin to the
+plane 3, +2)+7>=12-
+
+Solution:
+
+Let the function to be minimized be the distance from the ortgin:
+S@y2)=Ve+P +=.
+The constraint is given by:
+
+(2, 4.2) = 3a + 2y + > —12=0.
+
+[2M]
+The Lagrange function is:
+Lix,y.2.d) = oP py? $2? Ss (Be + 2y + 2 — 12). BMI
+Taking partial derivatives and setting them to zero:
+OL Vorenxs <0,
+ar
+a.
+Ooo y + Ne 5,
+oy
+OL
+a7 22+A+1=0,
+A,
+od i a [=m]
+Ox
+Solving these equations, we get:
+18 12 6 [2M]
+r=, y=, ¥==s-
+7 7
+The minimum distance is:
+/(18\? , (12)? , (6)!
+\ (= SS) lS
+4 ‘ ‘
+[2 M]
+
+Q7 q | By triple integral, find the volume enclosed by the paraboloid x* +” =z and the plane
+
+BL-3 z=4.
+
+ARR RACK | RAR OK RK
+--- page 15 ---
+\ { is
+Sin} The Ucluivt of rtgton RI given et | Sl The vole Of AGOn Ris given by
+
+: wane ‘ js we region bounded by
+
+poxebolorl attyt=* § toy
+
+R ‘
+olin g ib Pw reauin banda He
+
+Perabelsid otyt=z h ca. —{1M) +
+at, * “J oeetey yaaa]
+
+Kea TP Yo rin wz 7 y
+
+“ (st eye]
+
+Aivieds feodte var _
+Ooo by O< an acm tics - Plast - 4! rae in
+ett tots be (1M) OR ° | ] 5
+q wha Tea, jonam Das O)
+tom (1) eater Mey at gtyyeatyh Feat
+ve | | tdzidrde —(m")
+re Pes pt te 2 > arnt
+120 gey te “yy
+: my drde — (IM) me oh
+= PE (Eyer) Arde g Seettetat §
+
+1 i t an
+
+: 7 hye —t :
+alin
+
+a ae 7
+
+fetal -3 P24)
+
+B
+= {2% fp _ Ps ™ . i
+————— Te = gm wubic wits = ()
+velume [Ve Ox taba units | — (im) y , * _
+0-4; Evaluate f i} e**” dxdy where R is the region area of the triangle bounded by x =0, y=0 and
+BL-2 R
+
+xtye=l.
+
+AGRA 7 5 RRR RK
+--- page 16 ---
+wy)
+
+— (m)
+— thoy =e
+\ \-%
+( ( oN dndy : { ( en _ (m
+R Lat) Yeo
+
+\ I“ K m
+= ( Ce) a — &
+°
+1=0
+
+= ( [ eet a, )éx
+120
+
+= $ Ce-e\da — dm)
+ro
+s fe 2h, Om
+
+= seo erage]
+
+=| ne (m)
+
+CO-2;
+BL-3
+
+xy,
+—— if (x, 0,0
+i) Is the following function continuous? f(x,y) =4 x7 +)” if (my) #( )
+0 if (x,y) =(0,0)
+
+DS consider A pat Y= my?
+
+ae bea oA tiny antema?) —(im)
+YA Uy ci aT
+
+Why 190 4a. m*y4
+= am
+
+— (m)
+Jt im :
+
+Limit depends om value oF m &
+
+hovce — Limit doey Wet ernitt — (im)
+
+a Given Pincim is not Conhnucus   —
+
+3
+
+3
+ii) Evaluate the following lim = 2—*_.
+(y)>(0.0) yp? +x
 
 AR AOR RACK 7] GR AR OK RE
 --- page 17 ---
@@ -34223,528 +34945,4 @@ fea
 Page 24 of 24
 
 el
-````
-
-## 2023-24 · Re-Exam · Sem 5 · Answer key · paper d3e2171d140b
-
-- Departments: Civil, Computer Engineering, Cyber Security, Data Science, Information Technology
-- Programmes: BTech Civil 7005, BTech CyberSecurity 7010, BTech IT 7001, Integrated Computer 7032, Integrated DS 7038, Integrated IT 7037
-- Source: `02_Question_Papers/2023/Sem_05/Re-Exam/Integrated_DS_7038/Calculus/ANS_Calculus(702BS0C001)_2023-2024.pdf` (+6 identical copies)
-- Text: mixed (17 pages), mean OCR confidence 52.8
-- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
-- **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
-
-````text
-Q1   Answer briefly:
-Verify Rolle’s Mean value theorem for the function f ( x )  x 3  9 x 2  26 x  24, 2  x  4.
-CO- 1 ;   a.   4
-BL-2
-CO-   b.    2 z    2 z   4
-2;   If z  sin x sin y then find   2 and   2 .
-BL-1    x    y
-********** 1 **********
---- page 2 ---
-—=®
-
-smn
-ge = cosx SIM]
-OX 0)
-——
-Ogee — Sinx Sy
-Oo
-. U)
-Cz = sfnxc 4
-OY
-Ge = —3inx sing |
-cal?
-1
-Prove that | dx =! eft. 3):
-ovi-xt 4 \4 2
-Soln.: Put x4=y .. x=y4
-1...
-Let 1=f ox odx= ay dy
-ov1-x*
-on X 0 1
-l= dy _ (01 M) y () 1
-ovi-y
-co-
-3; Cc. 1 (01M)
-BL-3 qh 7
-=aly sy)? dy
-0
-1} 2a hat
-=qly* (ey? dy__ tom)
-0
-qt 44 4,
-=qlyt (-yP gy
-0
-1,(11
-=— pl 5 01M
-ue 3) | )
-co- lx
-4, | 4. | Evaluate Jf (y+ 22x)avae.
-BL-2 ee
-
-FRG 2 RAG OK Rk
---- page 3 ---
-‘O-
-aA © | ig f=(40)i+(6x) 7+(a92°)k, find div f and curl f at (1,2,1).
-
---- page 4 ---
-The Wi-Fi signal strength inside an office building is modelled by the function
-𝑆(𝑥, 𝑦, 𝑧) = −2𝑥ଶ−𝑦ଶ−3𝑧ଶ+ 8𝑥+ 6𝑦+ 12𝑧+ 40 , where 𝑥 and 𝑦 are horizontal
-coordinates and 𝑧 is the height in meters. Find the direction in which the signal strength
-increases most rapidly at the point 𝑃(1, −2,1). Determine the maximum rate of increase of
-the signal strength at P. If an engineer carrying a signal meter moves in the direction 𝑣=
-(1, 2, 2) find the rate of change of signal strength in that direction.
-Solution:
-Q2   ∂S   ∂S   ∂S   01 Mark
-CO-5; a   ∇S = 𝑖+ 𝑗+ 𝑘= (−4x + 8)𝑖+ (−2y + 6)𝑗+ (−6z + 12)𝑘   6
-∂x   ∂y   ∂z
-BL-3
-At P (1, -2, 1), ∇S = 4𝑖+ 10𝑗+ 6𝑘   01 Mark
-At P (1,-2,1), Direction of fastest increase is along the unit vector,   01 Mark
-∇S ෢= ∇ୗ = ସ௜ାଵ଴௝ା଺௞
-|∇ୗ|   √ଵହଶ
-At P (1, 2, 2), Maximum rate of increase = |∇S| = √152   01 Mark
-Given vector 𝑣= 𝑖+ 2𝑗+ 2𝑘.   02 marks
-********** 4 **********
---- page 5 ---
-Rate of change along v is the directional derivative of S along v =∇S. 𝑣ො=
-௜ାଶ௝ାଶ௞   ସାଶ଴ାଵଶ   ଷ଺
-(4𝑖+ 10𝑗+ 6𝑘).   =   = ଷ= 12
-ଷ   ଷ
-OR
-__
-If the rate of change is calculated considering 𝑃𝑉 , then the directional derivative
-__
-of S along 𝑃𝑉 is
-__
-= ∇S. (𝑃𝑉) ෣, where 𝑃𝑉 is (0,4,1)
-=(4𝑖+ 10𝑗+ 6𝑘). ସ௝ା௞   02 Mark
-√ଵ଻
-=ସ଴ା଺   ସ଺
-√ଵ଻= √ଵ଻
-If u  f ( e y  z , e z  x , e x  y ) , then prove that  u   u   u  0 .
- x    y    z
-CO-2; b   6
-BL-2
-********** 5 **********
---- page 6 ---
-Examine the validity of the conditions and the conclusion of Lagrange’s Mean Value theorem
-  
-for the function f ( x )  sin x  cos x in  0,  .
- 2 
-CO-1; c   8
-BL-2
-Find extreme values of x 3 y 2 ( 12  3 x  4 y ) .
-Q3   a   Solution3a) : 𝑓 (𝑥, 𝑦) = x 3 y 2 ( 12  3 x  4 y ) .   6
-CO-2;
-BL-3   Conditions for maxima and minima are డ௙ డ௫= 0, డ௬= డ௙ 0 , which gives
-36 x 2 y 2  12 x 3 y 2  12 x 2 y 3  0
-24 x 3 y  6 x 4 y  12 x 3 y 2  0
-********** 6 **********
---- page 7 ---
-12 x 2 y 2 (3  x y )  0 & 6 x 3 y (4  x 2 y )  0   …………..(1 Mark)
-Solving the two equations, (3  x  y )  0 & (4  x  2 y )  0
-……..……(2 Marks)
-To find the extreme values, we calculate
- 2 f    2 f    2 f
-r    2 , s    , t    2
- x    x y    y
-r  72 xy 2  36 x 2 y 2  24 xy 3
-s  72 x 2 y  24 x 3 y  36 x 2 y 2
-t  24 x 3  6 x 4  24 x 3 y   ………..(1 Mark)
-At (2,1): rt  s 2  0 and r  0 ,   ……………………(1 Mark)
-Maxima at (2,1), Maximum value = 16   ………………..……(1 Mark)
-
-Show that the vector F   y 2 cos x  z 3   i   2 y sin x  4  j  3 xz 2  2  k is irrotational and
-find its scalar potential.
-Solution 3b) : To show F is irrotational,
-i   j   k
-      
-CO-5;   Curl F =   …. (1)
-BL-3   b    x    y    z   6
-y 2 cos x  z 3 2 y sin x  4 3 xz 2  2
-= i (0  0)  j (3 z 2  3 z 2 )  k (2 y cos x  2 y cos x )   = 0   …. (1)
-F is irrotational.
-To find scalar potential function  : since , F =  
- F   y 2 cos x  z 3   i   2 y sin x  4  j  3 xz 2  2  k =i    j    k     …………(1)
- x    y    z
-********** 7 **********
---- page 8 ---
-This gives  y 2 cos x  z 3  =   = 1f , 2 y sin x 4  =    2f , 3 xz 2  2  =    3f …….(1)
- x    y    z
-Scalar potential function 𝜙= ∫𝑓ଵ𝑑𝑥+ ∫ (௧௘௥௠௦௪௜ℎ௧௢௨௧௫) 𝑓ଶ𝑑𝑦 + ∫ ௧௘௥௠௦௪௜௧ℎ௢௨௧௫,௬) 𝑓ଷ𝑑𝑧 + 𝑐
-…………. (1)
- y 2 sin x  z 3 x  4 y  2 z  c   ……………. (1)
-tan x  sin x
-lim x  0   sin 3 x
-tan x  sin x      0 
-Solution 3c) Let   L  lim   3    Form      …. (1)
-x  0   sin x      0 
-   L = lim tan x  sin x   since, 𝑙𝑖𝑚 ௦௜௡௫ = 1
-x  0 x 3 sin 3 x   ௫→଴ ௫
-x 3
-tan x  sin x      0 
-….(1)   L= lim   3    Form   
-x  0   x      0 
-CO-1; c   ………..(1)   8
-BL-2   sec 2 x  cos x      0 
-L = lim   2   by L’Hospital Rule    Form      ….(1)
-x  0   3 x      0 
-2sec 2 x tan x  sin x      0 
-L = lim   by L’Hospital Rule    Form      …..(1)
-x  0   6 x      0 
-2sec 4 x  4sec 2 x tan 2 x  cos x
-L= lim   by L’Hospital Rule   …(1)
-x  0   6
-2  1
-L =   ………………… (1)
-6
-   L = 1 .   ……………………… (1)
-2
-గ
-Find the Taylor Series Expansion of 𝑓(𝑥) = ln(cos 𝑥) about the point 𝑎= ଷ.
-Sol. 4(a). Taylor Series Expansion of 𝒇(𝒙) = 𝒍𝒏(𝒄𝒐𝒔𝒙) about 𝒂=
-𝝅
-𝟑
-Taylor Series Expansion of 𝑓(𝑥)
-𝑓(𝑥) = 𝑓(𝑎) + 𝑓ᇱ(𝑎) ቀ𝑥− గ ଷቁ+ ௙ᇲᇲ(௔) (𝑥− గ ଷ)ଶ+ ௙ᇲᇲᇲ(௔) (𝑥− గ ଷ)ଷ+ ௙೔ೡ(௔) (𝑥− గ ଷ)ସ+ ⋯
-ଶ!   ଷ!   ଷ!
-గ
-Where 𝑎= ଷ.   --------------(1 Mark)
-Compute derivatives
-Q4
-CO-1; a 𝑓(𝑥) = ln (𝑐𝑜𝑠 𝑥)   6
-BL-2   గ   ଵ
-𝑓(𝑎) = ln ቀ𝑐𝑜𝑠 ଷቁ= ln ቀ ଶቁ= −𝑙𝑛2   ------------(1 Mark)
-గ
-𝑓ᇱ(𝑥) = −𝑡𝑎𝑛𝑥 ⟹ 𝑓ᇱቀ ଷቁ= −√3 ---------------(1 Mark)
-గ
-𝑓ᇱᇱ(𝑥) = −𝑆𝑒𝑐ଶ𝑥 ⟹ 𝑓ᇱᇱቀ ଷቁ= −4   -------(1 Mark)
-గ
-𝑓ᇱᇱᇱ(𝑥) = −2 𝑆𝑒𝑐ଶ𝑥 𝑡𝑎𝑛𝑥 ⟹ 𝑓ᇱᇱᇱቀ ଷቁ= −8√3
-Substitution of values
-𝒍𝒏 𝒄𝒐𝒔 𝒙=
-గ   గ   గ   ௙ᇲᇲቀഏ యቁ   గ   ௙ᇲᇲᇲቀഏ యቁ   గ
-ln ቀ𝑐𝑜𝑠 ଷቁ+ 𝑓ᇱቀ ଷቁቀ𝑥− ଷቁ+   (𝑥− ଷ)ଶ+   (𝑥− ଷ)ଷ+ . ..
-ଶ!   ଷ!
-********** 8 **********
---- page 9 ---
-గ   ସ   గ   √ଷ   గ
-= −𝑙𝑛2 + −√3 ቀ𝑥− ଷቁ+ି (𝑥− ଷ)ଶ+ି଼   (𝑥− ଷ)ଷ+ . ..
-ଶ!   ଷ!
-------------(2 Marks)
-ଵ ଵି௫ ଵି௫ି௬ ௗ௫ௗ௬ௗ௭
-Evaluate ∫∫   ∫   .
-଴ ଴   ଴   (௫ା௬ା௭ାଵ)య
-Sol. 4(b). Integrate with respect to z first
-Let 𝑡= 𝑥+ 𝑦+ 𝑧+ 1. Then 𝑑𝑡= 𝑑𝑧, and when 𝑧= 0, 𝑡= 𝑥+ 𝑦+ 1; when
-𝑧= 1 −𝑥−𝑦, 𝑡= 2.
-ଵି௫ି௬   ௗ௭   ଶ   ௧షమି ଶ   ଵ   ଵ଼.
-∫ ଴   (௫ା௬ା௭ାଵ)య = ∫ ௫ା௬ାଵ 𝑡ି ଷ𝑑𝑡 = ቂ ଶቃ   = ଶ(௫ା௬ାଵ)మ−
-௫ା௬ାଵ
-------------(2 Marks)
-CO-4;   So, I = ∫∫ ଵ ଵି௫ ቀ ଶ(௫ା௬ାଵ)మ− ଵ   ଵ଼ቁ𝑑𝑦 𝑑𝑥
-BL-2   b   ଴ ଴   6
-ଵ ଵ ଵି௫   1)ିଶ)𝑑𝑦   ଵ଼ ଵ ଵି௫
-= ଶ∫∫ ((𝑥+ 𝑦+   𝑑𝑥− ∫∫   𝑑𝑦 𝑑𝑥
-଴ ଴   ଴ ଴
-ଵ ଵ   ଵ ଵି௫   ଵ଼∫(1 ଵ
-= ଶ∫ቂି ଴ ௫ା௬ାଵቃ   𝑑𝑥−   ଴ −𝑥)𝑑𝑥   ---(1 Mark)
-଴
-ଵ ଵ   ଵ   ଵ   ଵ଼ቂ𝑥− ௫మ ଵ
-= ଶ∫ቀ ଴ ௫ାଵ − ଶቁ𝑑𝑥−   ଶቃ   ------(1 Mark)
-଴
-ଵ   ௫ ଵ   ଵ଼(1   ଵ
-= ଶቂln(𝑥+ 1) − ଶቃ −   − ଶ)   -----------(1 Mark)
-଴
-ଵ   ଵ   ଵ
-= ଶቀln 2 − ଶቁ−
-ଵ଺
-ଵ   ହ
-= ଶ(ln 2) − ଵ଺.   --------------(1 Mark)
-  3 x 2  8 y 2  dx   4 y  6 xy  dy
-Evaluate   , using Green’s theorem, where C is
-C
-the boundary of the region defined by 𝑦= √𝑥 and 𝑦= 𝑥ଶ.
-డே డெ
-Sol. 4(c). By Green’s Theorem ∮(𝑀 𝑑𝑥+ 𝑁 𝑑𝑦) = ∬ቀ డ௫− డ௬ቁ  𝑑𝑥 𝑑𝑦
-஼   ோ
-where 𝑀= 3𝑥ଶ−8𝑦ଶ 𝑎𝑛𝑑 𝑁= 4𝑦−6𝑥𝑦,   -------(1 Mark)
-డெ   డே
-So, డ௬= −16𝑦 and డ௫= −6𝑦.
-డே డெ
-CO-5; c Thus, డ௫− డ௬= −6𝑦−(−16𝑦)=10𝑦 --------------(1 Mark)   8
-BL-3
-𝑅 is the region enclosed by the closed curve 𝐶: 𝑦= √𝑥 𝑎𝑛𝑑 𝑦= 𝑥ଶ.
-𝑥ଶ= √𝑥 ⇒ 𝑥 (𝑥ଷ−1)=0 ⇒ 𝑥 =0,1
-⇒ 𝑦 =0 or 1
-points are (0,0) and (1,1)
-------(2 Marks)
-డே డெ
-Using Green’s theorem ∮(𝑀 𝑑𝑥+ 𝑁 𝑑𝑦) = ∬ቀ డ௫− డ௬ቁ  𝑑𝑥 𝑑𝑦
-஼   ோ
-We get ∮[(3𝑥ଶ−8𝑦ଶ) 𝑑𝑥+ (4𝑦−6𝑥𝑦) 𝑑𝑦]
-஼
-********** 9 **********
---- page 10 ---
-డ   డ
-= ∬ቆ డ௫(4𝑦−6𝑥𝑦) − డ௬(3𝑥ଶ−8𝑦ଶ)ቇ 𝑑𝑦𝑑𝑥--------------(1 Mark)
-ோ
-Where 𝑅= ൛(𝑥, 𝑦): 0 ≤𝑥≤1, 𝑥ଶ≤𝑦≤√𝑥ൟ
-= ∬[−6𝑦−(−16𝑦)]  𝑑𝑦 𝑑𝑥= ∬10𝑦  𝑑𝑦 𝑑𝑥 --------------(1 Mark)
-ோ   ோ
-ଵ √௫
-= ∫∫ 10𝑦 𝑑𝑦 𝑑𝑥
-଴ ௫మ
-ଵ ଵ଴௬మ √௫
-= ∫ቂ ଶቃ 𝑑𝑥
-଴   ௫మ
-ଵ
-= 5 ∫((√𝑥)ଶ−(𝑥ଶ)ଶ) 𝑑𝑥   -------------(1 Mark)
-଴
-ଵ   ௫మ   ௫ఱ ଵ
-= 5 ∫(𝑥−𝑥ସ) 𝑑𝑥 = 5 ቂ ଶ− ହቃ
-଴   ଴
-ଵ   ଵ   ଷ
-= 5 ቀ ଶ− ହቁ= ଶ.   --------------(1 Mark)
- 2n
-Test the convergence of    2 .
-n 1 n
-Alternatively,
-un= ଶⁿ   ……… (1 mark)
-୬²
-un ଵ௡ ൗ=   ଶ ൗ)మ………..(1 mark)
-(௡భ೙
-Q5   ௡→ஶun 𝑙𝑖𝑚 ଵ௡ ൗ= 2 > 1
-CO-1; a   6
-BL-2   As ௡→ஶn 𝑙𝑖𝑚 ଵ௡ ൗ= 1……..(2 marks)
-By root test, the given series is a
-divergent series …..(2 marks)
-Evaluate ∫sinଶ𝜃(1 గ   + 𝑐𝑜𝑠𝜃)ଷ𝑑𝜃.
-଴
-CO-3; b   6
-BL-3
-********** 10 **********
---- page 11 ---
-ସ √ଵ଺ି௫మ   ௗ௬ௗ௫
-Change to polar coordinates and evaluate ∫∫   .
-଴ √ସ௫ି௫మ ඥଵ଺ି௫మି௬మ
-ସ   √ଵ଺ି௫మ   ௗ௬ௗ௫
-I=∫ ∫   --------------(1 Mark)
-௫ୀ଴ ௬ୀ√ସ௫ି௫మ ඥଵ଺ି௫మି௬మ
---------------(1 Mark)
-𝑥 = 0,   𝑥 = 4
-𝑦 = √4𝑥−𝑥ଶ ⇒   𝑟 = 4 𝑐𝑜𝑠θ
-CO-4; c   𝑦 = √16 −𝑥ଶ ⇒   𝑟 = 4   8
-BL-4
-ඥ16 −𝑥ଶ−𝑦ଶ = √16 −𝑟ଶ
-𝑑𝑦 𝑑𝑥 = 𝑟 𝑑𝑟 𝑑𝜃   --------------(1 Mark)
-గଶ ൗ   ସ   ௥ ௗ௥ ௗఏ
-=∫   ∫   --------------(1 Mark)
-ఏ ୀ଴ ௥ୀସ௖   √ଵ଺ି௥మ
-=∫ గଶ ൗ ൣ−√16 −𝑟ଶ൧r=4௖௢௦ఏ ସ   𝑑𝜃
-ఏ ୀ଴
-=∫ గଶ ൗ 4𝑠𝑖𝑛𝜃 𝑑𝜃   --------------(2 Marks)
-ఏ ୀ଴
-=4   గଶ ൗ
-[−𝑐𝑜𝑠𝜃]ఏ=0
-=4   --------------(2 Marks)
-Q6
-CO-4; a   Using double integration find the area between the curves y 2  4 x and 2 x y 3  4  0 .   6
-BL-3
-********** 11 **********
---- page 12 ---
-6 a) Using double integration find the area between the curves } ? = 4y and 2x- 3y+4=0
-
-Solution:
-
-N [1M]
-On Solving given equations, we get intersecting points (1.2) and (4.4) {1 M]
-Area= ff dxdy [1M]
-
-For a fixedx, x:1lto4
-
-ees
-
-to 2vx [iM]
-
-civ
-
-: Ss
-Area= [i Endy] dx =fo, = - ave] dx= = Sq. units. 2M)
-
-1
-
-, 3
-
-Co |p | Evaluate J(xlogx) dx.
-0
-
-AR AR RAG 1 DRA OK RK
---- page 13 ---
-Use Lagrange Multipliers Method to determine minimum distance from origin to the plane
-CO-6; c   8
-BL-3   3 x  2 y  z  12 .
-********** 13 **********
---- page 14 ---
-6 c) Use Lagrange Multipliers Method to determine minimum distance from origin to the
-plane 3, +2)+7>=12-
-
-Solution:
-
-Let the function to be minimized be the distance from the ortgin:
-S@y2)=Ve+P +=.
-The constraint is given by:
-
-(2, 4.2) = 3a + 2y + > —12=0.
-
-[2M]
-The Lagrange function is:
-Lix,y.2.d) = oP py? $2? Ss (Be + 2y + 2 — 12). BMI
-Taking partial derivatives and setting them to zero:
-OL Vorenxs <0,
-ar
-a.
-Ooo y + Ne 5,
-oy
-OL
-a7 22+A+1=0,
-A,
-od i a [=m]
-Ox
-Solving these equations, we get:
-18 12 6 [2M]
-r=, y=, ¥==s-
-7 7
-The minimum distance is:
-/(18\? , (12)? , (6)!
-\ (= SS) lS
-4 ‘ ‘
-[2 M]
-
-Q7 q | By triple integral, find the volume enclosed by the paraboloid x* +” =z and the plane
-
-BL-3 z=4.
-
-ARR RACK | RAR OK RK
---- page 15 ---
-\ { is
-Sin} The Ucluivt of rtgton RI given et | Sl The vole Of AGOn Ris given by
-
-: wane ‘ js we region bounded by
-
-poxebolorl attyt=* § toy
-
-R ‘
-olin g ib Pw reauin banda He
-
-Perabelsid otyt=z h ca. —{1M) +
-at, * “J oeetey yaaa]
-
-Kea TP Yo rin wz 7 y
-
-“ (st eye]
-
-Aivieds feodte var _
-Ooo by O< an acm tics - Plast - 4! rae in
-ett tots be (1M) OR ° | ] 5
-q wha Tea, jonam Das O)
-tom (1) eater Mey at gtyyeatyh Feat
-ve | | tdzidrde —(m")
-re Pes pt te 2 > arnt
-120 gey te “yy
-: my drde — (IM) me oh
-= PE (Eyer) Arde g Seettetat §
-
-1 i t an
-
-: 7 hye —t :
-alin
-
-a ae 7
-
-fetal -3 P24)
-
-B
-= {2% fp _ Ps ™ . i
-————— Te = gm wubic wits = ()
-velume [Ve Ox taba units | — (im) y , * _
-0-4; Evaluate f i} e**” dxdy where R is the region area of the triangle bounded by x =0, y=0 and
-BL-2 R
-
-xtye=l.
-
-AGRA 7 5 RRR RK
---- page 16 ---
-wy)
-
-— (m)
-— thoy =e
-\ \-%
-( ( oN dndy : { ( en _ (m
-R Lat) Yeo
-
-\ I“ K m
-= ( Ce) a — &
-°
-1=0
-
-= ( [ eet a, )éx
-120
-
-= $ Ce-e\da — dm)
-ro
-s fe 2h, Om
-
-= seo erage]
-
-=| ne (m)
-
-CO-2;
-BL-3
-
-xy,
-—— if (x, 0,0
-i) Is the following function continuous? f(x,y) =4 x7 +)” if (my) #( )
-0 if (x,y) =(0,0)
-
-DS consider A pat Y= my?
-
-ae bea oA tiny antema?) —(im)
-YA Uy ci aT
-
-Why 190 4a. m*y4
-= am
-
-— (m)
-Jt im :
-
-Limit depends om value oF m &
-
-hovce — Limit doey Wet ernitt — (im)
-
-a Given Pincim is not Conhnucus   —
-
-3
-
-3
-ii) Evaluate the following lim = 2—*_.
-(y)>(0.0) yp? +x
-
-AR AOR RACK 7] GR AR OK RE
---- page 17 ---
-ve)
-Pan)! lim yew . Hr 1g? a 4 Gay
-Crys (00) 93493 a ys
-
-Yoo
-pen) hm yiw 2 tim —X% 2) —_ Gm
-(HY) 9 (2,9 Bog Yo 93
-Soy xP o
-Pah © + Pah G —_. Gin
-ss limit does not ents} — (1)
-
 ````

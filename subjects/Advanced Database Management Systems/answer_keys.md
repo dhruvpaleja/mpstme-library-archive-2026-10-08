@@ -569,6 +569,40 @@ Product description design (2 marks)
 Order & order details structure (2 marks)
 Payment modelling with status (2 marks)
 5
+
+[Text in pictures on this page, read by OCR]
+all
+
+DECLARE
+V_name VARCHAR? (26);
+v_id NUMBER := S&emp_id;
+
+-- User-defined exception
+e_low_salary EXCEPTION;
+v_salary NUMBER;
+BEGIN
+Try toe fetch employee name and salary
+SELECT ename, sal INTO v_name, v_salary
+FROM emp
+WHERE empno = v_id;
+
+-- Raise user-defined exception if salary < 1600
+e) IF v_salary < 1808 THEN
+RAISE e_low salary;
+END IF;
+
+DBMS_OUTPUT.PUT_LINE{ ‘Employee: ‘ || v_name |] ° Salary: * || v_salary);
+
+EXCEPTION
+WHEN NO_DATA_FOUND THEN
+DBMS_OUTPUT.IPUT_LINE( "No employee found with ID " || v_id);
+
+WHEN e_low salary THEN
+DBMS_OUTPUT..PUT_LINE({ Salary too low for employee ID * || w_id);
+END;
+/
+
+LL —
 --- page 6 ---
 b.   Analyze the roles of valid time and transaction time in temporal databases and
 evaluate how bitemporal modeling resolves limitations of single-time designs. Use
@@ -602,6 +636,23 @@ and hidden attributes (or data members)
    Visible attributes may be accessed(read) by high level query languages or
 other external operators
 6
+
+[Text in pictures on this page, read by OCR]
+E-commerce - XML Tree Model (Customer-Order-Item)
+
+Ecommerce
+
+Customer Customer
+
+Custio
+
+"cir" “anita Rao" —“anita@shop.com™
+Ordertp "paid
+"0-901"
+
+“Pune” "411001"
+
+“P-S55*Wireless Mouse” 2 799.00
 --- page 7 ---
  Hidden attributes of an object can be accessed only through predefined
 operations
@@ -1359,6 +1410,39 @@ CO3, BL-4
 and payment status.
 Ans:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+all
+DECLARE
+vV_name VARCHAR2(28);
+v_id NUMBER := S&emp_id;
+
+-- User-defined exception
+e_low_salary EXCEPTION;
+v_salary NUMBER;
+BEGIN
+-- Try to fetch employee name and salary
+SELECT ename, sal INTO v_name, v_salary
+FROM emp
+WHERE empno = v_id;
+
+-- Raise user-defined exception if salary < 1680
+e) IF v_salary < 18@@ THEN
+RAISE e_low salary;
+END IF;
+
+DBMS_OUTPUT.PUT_LINE( Employee: ‘ || w_mame || © Salary: * || v_salary);
+
+EXCEPTION
+WHEN NO_DATA_FOUND THEN
+DBMS_OUTPUT.PUT_LINE('No employee found with ID " [| v_id);
+
+WHEN e low salary THEN
+DEMS_OUTPUT.PUT_LINE( ‘Salary too low for employee ID ' || v_id):
+END;
+/
+
+LL —
 --- page 5 ---
 b.   Analyze the roles of valid time and transaction time in temporal databases and
 evaluate how bitemporal modeling resolves limitations of single-time designs.
@@ -1748,6 +1832,39 @@ CO3, BL-4
 and payment status.
 Ans:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+all
+DECLARE
+vV_name VARCHAR2(28);
+v_id NUMBER := S&emp_id;
+
+-- User-defined exception
+e_low_salary EXCEPTION;
+v_salary NUMBER;
+BEGIN
+-- Try to fetch employee name and salary
+SELECT ename, sal INTO v_name, v_salary
+FROM emp
+WHERE empno = v_id;
+
+-- Raise user-defined exception if salary < 1680
+e) IF v_salary < 18@@ THEN
+RAISE e_low salary;
+END IF;
+
+DBMS_OUTPUT.PUT_LINE( Employee: ‘ || w_mame || © Salary: * || v_salary);
+
+EXCEPTION
+WHEN NO_DATA_FOUND THEN
+DBMS_OUTPUT.PUT_LINE('No employee found with ID " [| v_id);
+
+WHEN e low salary THEN
+DEMS_OUTPUT.PUT_LINE( ‘Salary too low for employee ID ' || v_id):
+END;
+/
+
+LL —
 --- page 5 ---
 b.   Analyze the roles of valid time and transaction time in temporal databases and
 evaluate how bitemporal modeling resolves limitations of single-time designs.
@@ -2137,6 +2254,39 @@ CO3, BL-4
 and payment status.
 Ans:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+all
+DECLARE
+vV_name VARCHAR2(28);
+v_id NUMBER := S&emp_id;
+
+-- User-defined exception
+e_low_salary EXCEPTION;
+v_salary NUMBER;
+BEGIN
+-- Try to fetch employee name and salary
+SELECT ename, sal INTO v_name, v_salary
+FROM emp
+WHERE empno = v_id;
+
+-- Raise user-defined exception if salary < 1680
+e) IF v_salary < 18@@ THEN
+RAISE e_low salary;
+END IF;
+
+DBMS_OUTPUT.PUT_LINE( Employee: ‘ || w_mame || © Salary: * || v_salary);
+
+EXCEPTION
+WHEN NO_DATA_FOUND THEN
+DBMS_OUTPUT.PUT_LINE('No employee found with ID " [| v_id);
+
+WHEN e low salary THEN
+DEMS_OUTPUT.PUT_LINE( ‘Salary too low for employee ID ' || v_id):
+END;
+/
+
+LL —
 --- page 5 ---
 b.   Analyze the roles of valid time and transaction time in temporal databases and
 evaluate how bitemporal modeling resolves limitations of single-time designs.
@@ -3009,6 +3159,26 @@ Q5   a.   Being a DBA, define a strategy for backup recovery plan in the event o
 [10]
 CO4, BL-3   hardware or software failure of online reservation system
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+define class DepartmentSet:
+type set(Department);
+operations add_dept(d: Department): boolean;
+(* adds a department to the DepartmentSet object *)
+remove_dept(d: Department): boolean;
+(" removes a department from the DepartmentSet object *)
+create dept set: DepartmentSet;
+destroy dept set: boolean;
+end DepartmentSet;
+
+persistent name AllDepartments: DepartmentSet;
+(* AllDepartments is a persistent named object of type DepartmentSet *)
+
+d:= create_dept;
+(* create a new Department object in the variable d *)
+
+b:= AllDepartments.add_dept(d);
+(* make d persistent by adding it to the persistent set AllDepartments *)
 --- page 7 ---
 Ans:
 • Understand the backup environment
@@ -3116,6 +3286,34 @@ offline.
 made offline.
 Example:
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+CREATE OR REPLACE TRIGGER trg_update_stock
+BEFORE INSERT ON orders
+FOR EACH ROW
+DECLARE
+v_stock inventory.stock_level%TYPE;
+BEGIN
+-- Get current stock Level for the ordered product
+SELECT stock_level INTO v_stock
+FROM inventory
+WHERE product_id = :NEW.product_id;
+
+-- Check if enough stock is available
+IF :NEW.quantity_ordered > v_stock THEN
+RAISE_APPLICATION_ERROR( -20001,
+‘Order quantity exceeds available stock! ");
+ELSE
+-- Reduce stock in inventory
+UPDATE inventory
+SET stock_level = stock_level - :NEW.quantity_ordered
+WHERE product_id = :NEW.product_id;
+END IF;
+EXCEPTION
+WHEN NO_DATA_FOUND THEN
+RAISE _APPLICATION_ERROR(-20002,
+“Invalid Product ID - not found in inventory. ');
+END;
 --- page 10 ---
 •   Evernote: Allows note-taking offline and syncs data across devices. Uses
 mobile database architecture to ensure notes are available and consistent.
@@ -3410,6 +3608,26 @@ Q5   a.   Being a DBA, define a strategy for backup recovery plan in the event o
 [10]
 CO4, BL-3   hardware or software failure of online reservation system
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+define class DepartmentSet:
+type set(Department);
+operations add_dept(d: Department): boolean;
+(* adds a department to the DepartmentSet object *)
+remove_dept(d: Department): boolean;
+(" removes a department from the DepartmentSet object *)
+create dept set: DepartmentSet;
+destroy dept set: boolean;
+end DepartmentSet;
+
+persistent name AllDepartments: DepartmentSet;
+(* AllDepartments is a persistent named object of type DepartmentSet *)
+
+d:= create_dept;
+(* create a new Department object in the variable d *)
+
+b:= AllDepartments.add_dept(d);
+(* make d persistent by adding it to the persistent set AllDepartments *)
 --- page 7 ---
 Ans:
 • Understand the backup environment
@@ -3517,6 +3735,34 @@ offline.
 made offline.
 Example:
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+CREATE OR REPLACE TRIGGER trg_update_stock
+BEFORE INSERT ON orders
+FOR EACH ROW
+DECLARE
+v_stock inventory.stock_level%TYPE;
+BEGIN
+-- Get current stock Level for the ordered product
+SELECT stock_level INTO v_stock
+FROM inventory
+WHERE product_id = :NEW.product_id;
+
+-- Check if enough stock is available
+IF :NEW.quantity_ordered > v_stock THEN
+RAISE_APPLICATION_ERROR( -20001,
+‘Order quantity exceeds available stock! ");
+ELSE
+-- Reduce stock in inventory
+UPDATE inventory
+SET stock_level = stock_level - :NEW.quantity_ordered
+WHERE product_id = :NEW.product_id;
+END IF;
+EXCEPTION
+WHEN NO_DATA_FOUND THEN
+RAISE _APPLICATION_ERROR(-20002,
+“Invalid Product ID - not found in inventory. ');
+END;
 --- page 10 ---
 •   Evernote: Allows note-taking offline and syncs data across devices. Uses
 mobile database architecture to ensure notes are available and consistent.
@@ -3989,6 +4235,50 @@ statements like SELECT INTO, INSERT, UPDATE, and DELETE that
 return a single result set. You don't need to explicitly declare or
 manage them.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Criteria RDBMS ODBMS /|ORDBMS
+
+Defining standard SQL2 ODMG-2.0 SQL3 (in process)
+Support for object- Does not support; Supports extensively | Limited support:
+oriented features Itis difficultto map mostly tonew data
+program object to the type
+database
+Usage Easy to use OK for programmers; | Easy to use except for
+some SQLaccess for | some extensions
+end users
+Support for complex | Does not support Supports a wide Supports Abstract
+relationships abstract datatypes variety of datatypes datatypes and
+
+and data with complex | complex relationships
+inter-relationships
+
+Performance Very good Relatively less Expected to perform
+performance performance very well
+
+Criteria RDBMS ODBMS ORDBMS
+
+Productmaturity Relatively oldandsovery | Thisconceptisfewyears | Stillin development stage
+mature old and so relatively matur | so immature
+feature
+The use of SOL Extensive supports SOL OQLissimilartoSQL,but | SQL3is being developed
+with additiond featureslike | with 00 features
+Complex objects and incorporatedinit
+object-orientedfeatures
+Advantages Its dependence on SQL, Itcan handlealltypesof | Ability to query complex.
+relatively simple query complex applications, applicationsand abilityto
+optimization hence good reusability of code, less handlelarge and complex
+performance coding applicatons
+Disadvantage Inability to handle complex | Low performance dueto Low performancein web
+applications complex query optimization, | application
+inability to support large-
+scale systems
+Support from vendors Itis considered to be Presently lacking vendor All major RDBMS vendors
+highly successfulsothe | supportdueto vast size of | are afterthis so has very
+marketsizeis verylarge | ROBMSmarket Good future
+
+but many vendors are
+moving towards ORDBMS
 --- page 4 ---
 2. Explicit Cursor: You declare and control the cursor manually.
 This is used when you want to process multiple rows from a
@@ -4150,7 +4440,7 @@ Application each (7)
 - Programmes: BTech IT 7001, MBATech IT 7041
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_IT_7001/Advanced Database Management Systems/ANS_Advanced Database Management Systems(702IT0E026)_2025-2026.docx` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
-- Text: docx (1 page)
+- Text: mixed (3 pages), mean OCR confidence 74.9
 
 ````text
 SVKM’S NMIMS
@@ -4517,6 +4807,57 @@ Graph Databases (Neo4j): Best for highly connected data (networks).
 Column/Key-Value Stores: High performance and scalability for large data.
 | [10]
 |
+--- page 2 ---
+—_
+
+DECLARE
+v_name VARCHAR2(26);
+v_id NUMBER := &emp_id;
+
+-- User-defined exception
+e_low_salary EXCEPTION;
+v_salary NUMBER;
+BEGIN
+-- Try to fetch employee name and salary
+SELECT ename, sal INTO v_name, v_salary
+FROM emp
+WHERE empno = v_id;
+
+-- Raise user-defined exception if salary < 1600
+») IF v_salary < 10@@ THEN
+RAISE e_low_salary;
+
+END IF;
+DBMS_OUTPUT.PUT_LINE( ‘Employee: * || v_name || ° Salary: ° || v_salary);
+EXCEPTION
+WHEN NO_DATA_FOUND THEN
+DBMS_OUTPUT.PUT_LINE('No employee found with ID * || v_id);
+
+WHEN e low salary THEN
+DBMS_OUTPUT.PUT_LINE( Salary too low for employee ID ° || v_id);
+END;
+/
+
+= =~
+--- page 3 ---
+E-commerce - XML Tree Model (Customer-Order-item)
+
+Ecommerce
+
+Customer Customer
+
+CustiD Payment
+
+x
+“clo1" “anita Rao" “anita@shop.com"
+
+x
+Orderl Zip "UPI" "Paid"
+
+"411001"
+
+4
+"P-555"Wireless Mouse" 2 799.00
 ````
 
 ## 2023-24 · Final-Exam · Sem 2 · Answer key · paper 3fe06011e771
@@ -4556,6 +4897,31 @@ three superclasses COMPANY, BANK, and PERSON
 nA category member must exist in at least one of its superclasses
 5
 Page 2 of 13
+
+[Text in pictures on this page, read by OCR]
+Figure 4.8
+name>) address) Two categories (union
+
+types): OWNER and
+BANK REGISTERED_VEHICLE.
+
+Driver_license_no
+
+Ssn PERSON COMPANY
+
+Lien_or_regular
+
+Purchase_date
+
+REGISTERED_VEHICLE
+
+up id Vehicle_id Comes
+
+Connaae)
+
+= CAR LS Tmake
+
+< <>
 --- page 3 ---
 2.
 3. XML semi-structured model organizes data hierarchically and in a nested format. This   5
@@ -4573,6 +4939,30 @@ Nested elements represent relationships and dependencies between different parts
 For example, in an XML document representing a book, the <book> element can contain
 nested elements like <title>, <author>, <publisher>, and so on.
 Page 3 of 13
+
+[Text in pictures on this page, read by OCR]
+SQL PL/SQL
+
+PL/SQL is a block of codes that used to write
+the entire program blocks/ procedure/
+function, etc.
+
+SQL is a single query that is used to perform
+DML and DDL operations.
+
+It is declarative, that defines what needs to
+
+be done, rather than how things need to be PL/SQL is procedural that defines how the
+
+things needs to be done.
+
+done.
+Execute as a single statement. Execute as a whole block.
+Mainly used to manipulate data. Mainly used to create an application.
+
+It is an extension of SQL, so it can contain
+
+Cannot contain PL/SQL code in it. SQL inside it.
 --- page 4 ---
 Attributes:
 Elements can have attributes that provide additional information about the element.

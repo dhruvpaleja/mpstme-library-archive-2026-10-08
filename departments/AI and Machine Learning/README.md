@@ -1,6 +1,6 @@
 # AI and Machine Learning
 
-49 subjects, 205 papers, 2263 extracted questions. Each subject folder holds `papers.md` (full text of every paper) and `questions.jsonl` (one record per question with marks, year and exam). Records carry a `departments` field: keep those containing "AI and Machine Learning" to see only this branch's papers.
+49 subjects, 205 papers, 2264 extracted questions. Each subject folder holds `papers.md` (full text of every paper) and `questions.jsonl` (one record per question with marks, year and exam). Records carry a `departments` field: keep those containing "AI and Machine Learning" to see only this branch's papers.
 
 | Subject | Papers for this branch | Questions | Years | Full text | Questions |
 | --- | ---: | ---: | --- | --- | --- |
@@ -20,7 +20,7 @@
 | [Data Structures and Algorithms](../../subjects/Data%20Structures%20and%20Algorithms/README.md) | 9 | 74 | 2005-06 to 2025-26 | [papers.md](../../subjects/Data%20Structures%20and%20Algorithms/papers.md) | [questions.jsonl](../../subjects/Data%20Structures%20and%20Algorithms/questions.jsonl) |
 | [Data Wrangling](../../subjects/Data%20Wrangling/README.md) | 2 | 18 | 2022-23 to 2025-26 | [papers.md](../../subjects/Data%20Wrangling/papers.md) | [questions.jsonl](../../subjects/Data%20Wrangling/questions.jsonl) |
 | [Database Management Systems](../../subjects/Database%20Management%20Systems/README.md) | 5 | 88 | 2005-06 to 2025-26 | [papers.md](../../subjects/Database%20Management%20Systems/papers.md) | [questions.jsonl](../../subjects/Database%20Management%20Systems/questions.jsonl) |
-| [Discrete Mathematics](../../subjects/Discrete%20Mathematics/README.md) | 11 | 146 | 2007-08 to 2025-26 | [papers.md](../../subjects/Discrete%20Mathematics/papers.md) | [questions.jsonl](../../subjects/Discrete%20Mathematics/questions.jsonl) |
+| [Discrete Mathematics](../../subjects/Discrete%20Mathematics/README.md) | 11 | 147 | 2007-08 to 2025-26 | [papers.md](../../subjects/Discrete%20Mathematics/papers.md) | [questions.jsonl](../../subjects/Discrete%20Mathematics/questions.jsonl) |
 | [Distributed Computing](../../subjects/Distributed%20Computing/README.md) | 2 | 16 | 2006-07 to 2025-26 | [papers.md](../../subjects/Distributed%20Computing/papers.md) | [questions.jsonl](../../subjects/Distributed%20Computing/questions.jsonl) |
 | [Drone Technology](../../subjects/Drone%20Technology/README.md) | 2 | 15 | 2022-23 to 2025-26 | [papers.md](../../subjects/Drone%20Technology/papers.md) | [questions.jsonl](../../subjects/Drone%20Technology/questions.jsonl) |
 | [Elements of Automation](../../subjects/Elements%20of%20Automation/README.md) | 4 | 38 | 2022-23 to 2025-26 | [papers.md](../../subjects/Elements%20of%20Automation/papers.md) | [questions.jsonl](../../subjects/Elements%20of%20Automation/questions.jsonl) |

@@ -121,6 +121,28 @@ where a prospective future buyer buys the futures today and thereby locks the pr
 he would be acquiring the asset in future., irrespective of what price would be prevailing in the
 market on that day. (3 marks)
 Page 4 of 8
+
+[Text in pictures on this page, read by OCR]
+(5 Marks}
+
+Spot | Strike | Prm | Intrinsic Value | Profit/Loss
+
+63 70 -4 fl 3
+64 70 -4 6 2
+65 70 -4 a 1
+66 70 -4 4 0
+67 70 -4 3 -1
+68 70 -4 2 -2
+69 70 -4 1 -3
+70 70 -4 0 -4
+7 70 -4 0 -4
+72 70 -4 0 -4
+
+BEP = Strike — Premium = Rs.70 — Rs.4 = Rs.66 (1 Mark)
+
+(2 Marks)
+
+a6 T?o
 --- page 5 ---
 Advantages and Disadvantages of Hedging Advantages: (2 marks) I. It helps asset holders to
 lock in a price for their assets. By taking a short position, a corn farmer, for example, who is
@@ -152,6 +174,21 @@ spot price of the underlying and futures value tends to converge to be equal by 
 date. This is called as convergence property.(2 marks) Basis=spot price – futures price As the
 maturity date nears, the basis converges toward zero, i.e., the spot price tends towards the
 Page 5 of 8
+
+[Text in pictures on this page, read by OCR]
+F = [Sx eA(rt)] - [1 x eA(rt)] (mark)
+F = [2125 x 2.71834(0.08 x 90/365)] - [55 x 2.71834(0.08 x 50/365)] (Imark)
+
+F = [2125 x 2.718340.01973] - [55 x 2.718340.010958] (1mark)
+
+F = [2125 x Antilog(0.01973 x 0.4343)] - [55 x Antilog(0.010958 x 0.4343)] (mark)
+F = [2125 x Antilog(0.00857)] - [55 x Antilog(0.0048)] (Imark)
+
+F = [2125 x 1.020] - [55 x 1.011] (1mark)
+
+F = 2167.5—55.61 (1mark)
+
+F = Rs. 2111.89 (mark)
 --- page 6 ---
 futures price. On the actual maturity date, the two rates must be equal as long as no arbitrage
 opportunities exist. At maturity, the futures price becomes the current market price, which is
@@ -175,6 +212,38 @@ required to pay the mark-to-market loss amount to NSE Clearing which is passed o
 members who have made a profit. This is known as daily mark-to-market settlement.
 Final Settlement for futures (2 marks)
 Page 7 of 8
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Futures Price of Orange 6375
+Lot Size 200
+Contract Size 12,75,000
+SPAN Margin 2,29,500
+Exposure Margin 25,500
+Total Margin 2.55,000
+
+SPAN | Exposure| Total
+
+Contract ‘ 3 5 :
+, Value Rs. = — — Profit — Margin
+Day Bate (Price per Rs. Rs. (2% Rs. or Loss to be Balance
+Rs. apes (18% of of (20% of Rs deposited R
+200) Contract | Contract | Contract bait Rs. a8
+Value) | Value) | Value)
+1 | 6,390 | 12.78,000] 2.30,040| 25.560 | 2.55.600| -3,000 2,52,000
+2 6,360 | 12,72,000} 2,28,960| 25,440 | 2,54,400] 6,000 2,58,000
+3 6,495 | 12,99,000| 2,33,820] 25,980 | 2,59,800] -27,000] 28,800 | 2,59,800
+4 6.410 | 12,82,000} 230,760] 25,640 | 2,56,400} 17,000 2,76,800
+5 6,395 | 12,79,000| 2,30,220| 25,580 | 2,55,800] 3.000 2.79,800
+6 Marks -4.000
+Working For Day 3: 2 Mark
+Initial Margin Required 2.59,800
+SPAN Margin 2,33,820
+Balance in Margin 2.31,000
+Amt to be deposited In 28.800
+
+Margin
 --- page 8 ---
 On the expiry of the futures contracts, NSE Clearing marks all positions of a CM to the final
 settlement price and the resulting profit / loss is settled in cash. The final settlement of the
@@ -331,6 +400,31 @@ price moves in an opposite direction from that of the underlying asset’s price
 short put have a positive delta as their values rise and fall along with the underlying asset. A
 long put and a short call have negative deltas. (2 marks)
 Page 4 of 7
+
+[Text in pictures on this page, read by OCR]
+s 650
+
+r 0.0075
+F 655
+e 2.7183
+t 0.25
+Ett 1.023
+Intrisic 2 mark
+Value 664.95
+As the Futures are underpriced, Reverse Cash and Carry 1 mark
+Arbitrage can be implemented.
+Date Action Cash flows
+Date Action Cash flows
+Today Borrow the share under SLBS 0
+Today Sell Stock of Tiger in the stock market at Rs.650 +650
+Today Buy Futures contract on Tiger @ 655 0
+Invest Rs.650 for 3 months at 9% p.a -650
+On Maturity | Buy the stock on maturity of futures @ 655 -655
+On Maturity | Receive the investment back with interest. 664.95
+On
+Maturity Deliver the stock to the broker 0
+
+Profit 9.95 05 marks
 --- page 5 ---
 2. Gamma: Measures the change in delta of an option for a change in the price of the
 underlying asset. Gamma is expressed as a number between zero and one for both calls and
@@ -374,6 +468,43 @@ the competition facing the organisation may severely limit sales. Compliance Ris
 to legal penalties, and loss an organization faces when it fails to act in accordance with industry
 laws and regulations, internal policies or prescribed best practices.
 Page 6 of 7
+
+[Text in pictures on this page, read by OCR]
+Wt
+
+Share Rs. Beta Prop Beta
+
+Bajaj Finance 65,00,000 1.69 0.26 | 0.4394
+
+Tata Motors 45,00,000 1.72 0.18 | 0.3096
+
+Adani Ent. 75,00,000 2 0.3 0.6
+
+Adani Power 65,00,000 2.83 0.26 | 0.7358
+25000000 2.0848
+
+Weighted Beta 2.0848 | 2 marks
+
+Nifty Futures 1912500
+
+No.of Contracts to hedge 27.25229 | Sell (2 marks)
+
+In case the company is bullish about
+
+the market and wants their portfolio
+
+to merease 3.5 times of the market
+
+increase. How many contracts it
+
+should buy? 18.49935 | Buy (2 marks)
+
+In case the company wants to reduce
+the portfolio beta to 1.5, how many
+
+Nifty Futures contracts it should sell? | 7.644444 | Sell (2 marks)
+
+par
 --- page 7 ---
 The following are the few examples of compliance risks: 1. Environmental risk 2. Workplace
 health and safety 3. Corrupt practices 4. Social Responsibility risk 5. Quality risk Operational

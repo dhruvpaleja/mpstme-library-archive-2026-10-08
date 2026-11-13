@@ -263,6 +263,18 @@ b.   Artisan Craftworks has received a rush order to finish five decorative
 wooden sculptures—an owl, a fox, a turtle, a horse, and a rabbit. The 5
 finishing involves two major processes: carving and polishing.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+d = 6 packages per day
+Oq = 1.2 packages
+t, = 60 days
+= 5 days
+I = 8 packages
+z = 1.65 (for a 95% service level)
+Q = dt, +L) + zogVp+L-1
+
+= (6)(60 + 5) + (1.65)(1.2)V60 + 5 — 8
+= 397.96 packages
 --- page 8 ---
 Mr. Smith handles the carving, and his apprentice handles the polishing.
 The time required for each job varies depending on the intricacy and size
@@ -685,6 +697,18 @@ b.   Artisan Craftworks has received a rush order to finish five decorative
 wooden sculptures—an owl, a fox, a turtle, a horse, and a rabbit. The 5
 finishing involves two major processes: carving and polishing.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+d = 6 packages per day
+Oq = 1.2 packages
+t, = 60 days
+= 5 days
+I = 8 packages
+z = 1.65 (for a 95% service level)
+Q = dt, +L) + zogVp+L-1
+
+= (6)(60 + 5) + (1.65)(1.2)V60 + 5 — 8
+= 397.96 packages
 --- page 8 ---
 Mr. Smith handles the carving, and his apprentice handles the polishing.
 The time required for each job varies depending on the intricacy and size
@@ -1107,6 +1131,18 @@ b.   Artisan Craftworks has received a rush order to finish five decorative
 wooden sculptures—an owl, a fox, a turtle, a horse, and a rabbit. The 5
 finishing involves two major processes: carving and polishing.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+d = 6 packages per day
+Oq = 1.2 packages
+t, = 60 days
+= 5 days
+I = 8 packages
+z = 1.65 (for a 95% service level)
+Q = dt, +L) + zogVp+L-1
+
+= (6)(60 + 5) + (1.65)(1.2)V60 + 5 — 8
+= 397.96 packages
 --- page 8 ---
 Mr. Smith handles the carving, and his apprentice handles the polishing.
 The time required for each job varies depending on the intricacy and size
@@ -1397,6 +1433,23 @@ move to required stations.   straight line.
 Advantages
 different types of bread.- large-scale, uniform
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Product Domination Service Domination
+
+Materials, Assets, Products... Services, People, Interactions...
+
+| Passenger Cars, Machine Tools
+
+| Facilities Maintenance, Turnkey Project Execution ...
+
+Logistics, Tourism, Travel and Entertainment Sectors
+
+Health Care System (Hospitals)
+
+| Restaurants, Fitness Centres
+
+Professional Consulting, Legal Services
 --- page 4 ---
 Can handle custom orders production.- Reduces
 easily.- Better use of   material handling and
@@ -1700,6 +1753,25 @@ CO-3; BL-
 improvement systems such as Six Sigma, TQM, and Lean.   5
 2
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Tangible benefits Intangible benefits
+
+1 Significant reduction in start-up and engineering 1 Improves customer satisfaction
+costs by 30 per cent
+2 Elimination of most late engineering changes 2 Facilitates multidisciplinary teamwork
+3 Early identification of high-tisk areas 3 Provides a basis for improvement planning
+4 Up-front determination of product process 4 Establishes and maintains documentation
+
+requirements
+5 Significant reduction in development time by up to 5 Creates a transferable storehouse of engineering
+
+50 per cent knowledge
+6 More efficient allocation of resources 6 Encourages transfer of training to other projects via
+all team members
+7 Applicable in both service and manufacturing 7 Strengthens good relationships between customers
+
+industries and the company
 ````
 
 ## 2025-26 · Re-Exam · Sem 7 · Answer key · paper 5a58454f3658
@@ -1796,6 +1868,23 @@ CO-1; BL-
 5
 2
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Product Domination Service Domination
+
+Materials, Assets, Products... Services, People, Interactions...
+
+| Passenger Cars, Machine Tools
+
+| Facilities Maintenance, Turnkey Project Execution ...
+
+Logistics, Tourism, Travel and Entertainment Sectors
+
+Health Care System (Hospitals)
+
+| Restaurants, Fitness Centres
+
+Professional Consulting, Legal Services
 --- page 3 ---
 b.   Apply the concepts of vision, mission, and strategies by drafting suitable
 statements for a startup of your choice. Use examples to show how these guide
@@ -2140,6 +2229,25 @@ CO-3; BL-
 improvement systems such as Six Sigma, TQM, and Lean.   5
 2
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Tangible benefits Intangible benefits
+
+1 Significant reduction in start-up and engineering 1 Improves customer satisfaction
+costs by 30 per cent
+2 Elimination of most late engineering changes 2. Facilitates multidisciplinary teamwork
+3 Early identification of high-tisk areas 3 Provides a basis for improvement planning
+4 Up-front determination of product process 4 Establishes and maintains documentation
+
+requirements.
+5 Significant reduction in development time by up to 5 Creates a transferable storehouse of engineering
+
+50 per cent knowledge
+6 More efficient allocation of resources 6 Encourages transfer of training to other projects via
+all team members
+7 Applicable in both service and manufacturing 7 Strengthens good relationships between customers
+
+industries and the company
 ````
 
 ## 2025-26 · Re-Exam · Sem 7 · Answer key · paper 7db77b79fa52
@@ -2271,6 +2379,23 @@ move to required stations.   straight line.
 Advantages
 different types of bread.- large-scale, uniform
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Product Domination Service Domination
+
+Materials, Assets, Products... Services, People, Interactions...
+
+| Passenger Cars, Machine Tools
+
+| Facilities Maintenance, Turnkey Project Execution ...
+
+Logistics, Tourism, Travel and Entertainment Sectors
+
+Health Care System (Hospitals)
+
+| Restaurants, Fitness Centres
+
+Professional Consulting, Legal Services
 --- page 4 ---
 Can handle custom orders production.- Reduces
 easily.- Better use of   material handling and
@@ -2574,4 +2699,23 @@ CO-3; BL-
 improvement systems such as Six Sigma, TQM, and Lean.   5
 2
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Tangible benefits Intangible benefits
+
+1 Significant reduction in start-up and engineering 1 Improves customer satisfaction
+costs by 30 per cent
+2 Elimination of most late engineering changes 2 Facilitates multidisciplinary teamwork
+3 Early identification of high-tisk areas 3 Provides a basis for improvement planning
+4 Up-front determination of product process 4 Establishes and maintains documentation
+
+requirements
+5 Significant reduction in development time by up to 5 Creates a transferable storehouse of engineering
+
+50 per cent knowledge
+6 More efficient allocation of resources 6 Encourages transfer of training to other projects via
+all team members
+7 Applicable in both service and manufacturing 7 Strengthens good relationships between customers
+
+industries and the company
 ````

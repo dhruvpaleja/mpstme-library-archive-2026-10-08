@@ -33,6 +33,25 @@ Instructions:
 A.
 7
 Page 1 of 3
+
+[Text in pictures on this page, read by OCR]
+Production Budget (in Units) for April and May 2025.
+
+Particulars April May Marks
+Sales 32000 25000 1
+Add Closing Stock 10,000 12000 1
+Less Opening Stock 12800 10,000 1
+Production 29,200 27,000 1
+
+Raw Materials purchase Budget (in kg & cost) of the company for April and May 2025
+
+Particulars April May Marks
+Raw Material Consumed (Kg) 146000 135000 1
+Add Closing Stock (Kg) 135000 144000 0.5
+Less Opening Stock (Kg) 160000 135000 0.5
+Raw Material Purchase (Kg) 121000 144000 1
+
+Raw Material Purchase (2) 242000 288000 1
 --- page 2 ---
 Table — 2 Marks
 

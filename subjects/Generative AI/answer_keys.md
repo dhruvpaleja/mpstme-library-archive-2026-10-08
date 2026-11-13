@@ -529,6 +529,26 @@ Why it matters: Improves faithfulness, keeps prompts short, and makes outputs au
 (citations).
 • Any three to be mentioned
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Llamaindex LangChain
+
+Primary Focus [Search and retrieval Flexible LLM-powered application development
+Data Indexing Highly efficient Modular and customizable
+
+Retrieval Algorithms Advanced and optimized Integrated with LLMs for context-aware outputs
+
+User Interface Simple and user-friendly [Comprehensive and adaptable
+
+Integration Multiple data sources, seamless platform integration |Supports diverse Al technologies and services
+[Customization Limited, focused on indexing and retrieval Extensive, supports complex workflows
+
+[Context Retention Basic /Advanced, crucial for chatbots and long interactions
+
+Use Cases Internal search, knowledge management, enterprise solutions | Customer support, content generation, code documentation
+Performance JOptimized for speed and accuracy Efficient in handling complex data structures
+
+Lifecycle Manage Integrates with debugging and ng tools [Comprehensive evaluation suite (LangSmith)
 --- page 12 ---
 • Query rewriting/expansion: QueryTransform / multi-query retrievers reformulate
 the question (synonyms, constraints) to catch missed matches.
@@ -673,6 +693,21 @@ Solution:
 i.
 ii.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+The Diffusion (Encoding) Process
+
+The known forward process Xo — Xs
+T
+
+q(x11|x0) = I] q(%t|%t-1) Probability Chain Rule (Markov Chain)
+t=1
+
+/
+
+Notation: A Gaussian distribution “for” x,
+
+0<f, < By <- < By < 1, typical value range [0.0001, 0.02], with T = 1000
 --- page 15 ---
 Any 3 correct points)
 Aspect   Hierarchical VAE (HVAE)   Diffusion (DDPM)
@@ -1221,6 +1256,33 @@ So,
 ∣CA∣=6
 Exact unigram overlaps with the reference:
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Aspect Foundational Model Large Language Model
+
+Subset of Foundational Models trained
+General-purpose models that are generally
+
+Scope . . exclusively on text data, and sometimes
+trained on multimodal data. 5 as
+fine-tuned for a specific task.
+Training Data Diverse (and generally multimodal) datasets. Primarily text corpora.
+
+Multiple architectures: Transformers,
+
+Architecture Convolutional Neural Networks (CNNs), or Typically Transformer-
+hybrid architectures depending on the data based architecture.
+type.
+
+Focused on language tasks: translation,
+summarization, chatbot, code
+generation, etc.
+
+Popular across society nowadays. Find
+the most popular open-source models in
+our guide.
+
+Use-cases Multimodal general tasks.
 --- page 6 ---
 [He, was, happy, last, night]
 Number of matches:
@@ -2701,6 +2763,16 @@ a Softmax.
 normalized inputs, L2-normalized weights, no bias, and temperature
 scaling.
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Feature tn” Large Language Model Vision Language Model (VLM)
+Primary Input Text only Images and Text
+
+Knowledge Base Derived from text corpora Grounded in both text and visual
+Core Ability Generation. reasoning and Multimodal reasoning across vision
+Example Task “Write a poem about the ocean.” “Describe what is happening in this
+
+picture of a beach.”
 --- page 17 ---
 • When interpreted this way, the image encoder is the computer vision
 backbone which computes a feature representation for the image and the
@@ -2775,6 +2847,24 @@ previous steps.
 C. Improves Numerical Stability
 • Because αˉ and ϵ are explicit, we can control the noise schedule precisely.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+Forward (noising) process in DDPM
+We define a noise schedule {8}4, with 6; € (0,1), and ay = 1 — 8, & = Ia Qi.
+1. One-step transition (Markov):
+(xe | t1) = N(Var ara, (1—a:)Z),
+equivalently
+wy = Voy ey) + Vl—ae, EX N (0,1).
+
+2. Closed-form from <9 in one shot:
+
+By composing the steps,
+q(t | xo) = N( Vat xo, (1 — &e)I),
+so you can sample directly as
+y= Vai zy + V1 — Ge, e~ N(0,1).
+
+Intuition: Each step shrinks the signal by ,/a and adds Gaussian noise with variance 1 — a. After T' steps,
+the signal is heavily attenuated (,/a7 ~ 0) and a7 is close to isotropic Gaussian.
 --- page 19 ---
 • This ensures smooth transitions between clean and noisy states.
 D. Reduces Computational Complexity

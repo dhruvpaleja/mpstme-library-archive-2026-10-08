@@ -32,6 +32,33 @@ A.   5
 B.   5
 C.   5
 Page 1 of 5
+
+[Text in pictures on this page, read by OCR]
+Solution: For equilibrium point
+Demand = Supply [1M]
+3p—p? +6 =p*+p-6
+» 2p? —-2p-12 =0
+
+=p? —p-6=0 [1M]
+(p — 3)(p+ 2) =0
+p=3,-2 [1M]
+Since price cannot be negative, p = 3. (1M]
+
+Total Revenue = pD = p(3p — p? + 6) = 3p* — p* + 6p
+Total Revenue at (p = 3) is = 3(3)* — (3)? + 6(3) = 18 [1M]
+
+Total revenue R = pD = p(15 — 2p + 3p”) = 15p — 2p? + 3p? (1M)
+
+Ratp =2,is R = 15(2) — 2(2)? + 3(2)? = 46 (1M)
+ici — =P aD _ =P
+Elasticity of demand n = = ib D (—2 + 6p)
+—p (6p-2 2p—6p?
+an p(6p-2) _ __2p—-6p (2M)
+
+15-2p+3p2   15-2p+3p2
+
+2(2)-6(2)? 20
+“natp=2,= 15-2) 43(D? =-3= —0.8695 = —0.87 (1M)
 --- page 2 ---
 5
 D.
@@ -42,6 +69,55 @@ Allowance   No. of
 (Rs.)   Students   x*f
 100   2   200
 Page 2 of 5
+
+[Text in pictures on this page, read by OCR]
+Purchase Price per Share = Rs. 160
+Brokerage on Purchase = 0.25% of Purchase Price
+Brokerage = 0.25/100 = 160 = Rs. 0.40 per share (1 mark)
+
+Sale Price per Share = Rs. 210
+Brokerage on Sale = 0.1% of Sale Price
+Brokerage = 0.1/100 x 210 =Rs. 0.21 per share
+
+Net Cost Price per Share:,
+Net Cost Price = Purchase Price + Brokerage on Purchase
+Net Cost Price = 160 + 0.40 =Rs. 160.40 per share (1 mark)
+
+Net Selling Price = Sale Price - Brokerage on Sale
+Net Selling Price = 210 - 0.21 = Rs. 209.79 per share (1 mark)
+
+Profit per Share = Net Selling Price - Net Cost Price
+Profit per Share = 209.79 - 160.40 = Rs. 49.39 per share
+Total Profit = Number of Shares x Profit per Share
+Given Total Profit = Rs. 24.695 (1 mark)
+
+Number of Shares = Total Profit / Profit per Share
+Number of Shares = 24.695 / 49.39
+
+Number of Shares = 500 (1 mark)
+So, Mr. Rahul purchased 500 shares.
+
+Solution:
+
+Months Investment NAV Entry load Price per No of units
+unit
+1 3000 28 0.25% 28.07 106.876
+2 3000 42 0.25% 42.105 71.250
+3 3000 34 0.25% 34.085 88.015
+Total 9000 266.141
+(1 mk) (1 mk) (1 mk)
+
+Total investment in 3 months = Rs. 9000
+Total no. of unit = 266.141
+
+Investment 9000
+
+——_——_— =33.817
+No.ofunits 266.141
+
+Average acquisition cost =
+
+(1 mk) (1 mk)
 --- page 3 ---
 150   4   600
 200   6   1200
@@ -148,6 +224,33 @@ A.   5
 B.   5
 C.   5
 Page 1 of 5
+
+[Text in pictures on this page, read by OCR]
+Solution: For equilibrium point
+Demand = Supply [1M]
+3p—p? +6 =p*+p-6
+» 2p? —-2p-12 =0
+
+=p? —p-6=0 [1M]
+(p — 3)(p+ 2) =0
+p=3,-2 [1M]
+Since price cannot be negative, p = 3. (1M]
+
+Total Revenue = pD = p(3p — p? + 6) = 3p* — p* + 6p
+Total Revenue at (p = 3) is = 3(3)* — (3)? + 6(3) = 18 [1M]
+
+Total revenue R = pD = p(15 — 2p + 3p”) = 15p — 2p? + 3p? (1M)
+
+Ratp =2,is R = 15(2) — 2(2)? + 3(2)? = 46 (1M)
+ici — =P aD _ =P
+Elasticity of demand n = = ib D (—2 + 6p)
+—p (6p-2 2p—6p?
+an p(6p-2) _ __2p—-6p (2M)
+
+15-2p+3p2   15-2p+3p2
+
+2(2)-6(2)? 20
+“natp=2,= 15-2) 43(D? =-3= —0.8695 = —0.87 (1M)
 --- page 2 ---
 5
 D.
@@ -158,6 +261,55 @@ Allowance   No. of
 (Rs.)   Students   x*f
 100   2   200
 Page 2 of 5
+
+[Text in pictures on this page, read by OCR]
+Purchase Price per Share = Rs. 160
+Brokerage on Purchase = 0.25% of Purchase Price
+Brokerage = 0.25/100 = 160 = Rs. 0.40 per share (1 mark)
+
+Sale Price per Share = Rs. 210
+Brokerage on Sale = 0.1% of Sale Price
+Brokerage = 0.1/100 x 210 =Rs. 0.21 per share
+
+Net Cost Price per Share:,
+Net Cost Price = Purchase Price + Brokerage on Purchase
+Net Cost Price = 160 + 0.40 =Rs. 160.40 per share (1 mark)
+
+Net Selling Price = Sale Price - Brokerage on Sale
+Net Selling Price = 210 - 0.21 = Rs. 209.79 per share (1 mark)
+
+Profit per Share = Net Selling Price - Net Cost Price
+Profit per Share = 209.79 - 160.40 = Rs. 49.39 per share
+Total Profit = Number of Shares x Profit per Share
+Given Total Profit = Rs. 24.695 (1 mark)
+
+Number of Shares = Total Profit / Profit per Share
+Number of Shares = 24.695 / 49.39
+
+Number of Shares = 500 (1 mark)
+So, Mr. Rahul purchased 500 shares.
+
+Solution:
+
+Months Investment NAV Entry load Price per No of units
+unit
+1 3000 28 0.25% 28.07 106.876
+2 3000 42 0.25% 42.105 71.250
+3 3000 34 0.25% 34.085 88.015
+Total 9000 266.141
+(1 mk) (1 mk) (1 mk)
+
+Total investment in 3 months = Rs. 9000
+Total no. of unit = 266.141
+
+Investment 9000
+
+——_——_— =33.817
+No.ofunits 266.141
+
+Average acquisition cost =
+
+(1 mk) (1 mk)
 --- page 3 ---
 150   4   600
 200   6   1200
@@ -266,6 +418,20 @@ Instructions:
 A.   5
 B.   5
 Page 1 of 6
+
+[Text in pictures on this page, read by OCR]
+Solution: For equilibrium point
+Demand = Supply [1M]
+3p—p? +6 =p*+p-6
+» 2p? —-2p-12 =0
+
+=p? —p-6=0 [1M]
+(p — 3)(p+ 2) =0
+p=3,-2 [1M]
+Since price cannot be negative, p = 3. (1M]
+
+Total Revenue = pD = p(3p — p? + 6) = 3p* — p* + 6p
+Total Revenue at (p = 3) is = 3(3)* — (3)? + 6(3) = 18 [1M]
 --- page 2 ---
 Total revenue R = pD = p(15 — 2p + 3p”) = 15p — 2p + 3p? (1M)
 
@@ -325,6 +491,27 @@ Allowance   No. of
 100   2
 150   4
 Page 3 of 6
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Months Investment NAV Entry load Price per No of units
+unit
+1 3000 28 0.25% 28.07 106.876
+2 3000 42 0.25% 42.105 71.250
+3 3000 34 0.25% 34.085 88.015
+Total 9000 266.141
+(1 mk) (1 mk) (1 mk)
+
+Total investment in 3 months = Rs. 9000
+Total no. of unit = 266.141
+
+Investment_ 9000
+No.ofunits 266.141
+
+Average acquisition cost = =33.817
+
+(1 mk) (1 mk)
 --- page 4 ---
 200   6
 250   8
@@ -419,6 +606,33 @@ A.   5
 B.   5
 C.   5
 Page 1 of 5
+
+[Text in pictures on this page, read by OCR]
+Solution: For equilibrium point
+Demand = Supply [1M]
+3p—p? +6 =p*+p-6
+» 2p? —-2p-12 =0
+
+=p? —p-6=0 [1M]
+(p — 3)(p+ 2) =0
+p=3,-2 [1M]
+Since price cannot be negative, p = 3. (1M]
+
+Total Revenue = pD = p(3p — p? + 6) = 3p* — p* + 6p
+Total Revenue at (p = 3) is = 3(3)* — (3)? + 6(3) = 18 [1M]
+
+Total revenue R = pD = p(15 — 2p + 3p”) = 15p — 2p? + 3p? (1M)
+
+Ratp =2,is R = 15(2) — 2(2)? + 3(2)? = 46 (1M)
+ici — =P aD _ =P
+Elasticity of demand n = = ib D (—2 + 6p)
+—p (6p-2 2p—6p?
+an p(6p-2) _ __2p—-6p (2M)
+
+15-2p+3p2   15-2p+3p2
+
+2(2)-6(2)? 20
+“natp=2,= 15-2) 43(D? =-3= —0.8695 = —0.87 (1M)
 --- page 2 ---
 5
 D.
@@ -429,6 +643,55 @@ Allowance   No. of
 (Rs.)   Students   x*f
 100   2   200
 Page 2 of 5
+
+[Text in pictures on this page, read by OCR]
+Purchase Price per Share = Rs. 160
+Brokerage on Purchase = 0.25% of Purchase Price
+Brokerage = 0.25/100 = 160 = Rs. 0.40 per share (1 mark)
+
+Sale Price per Share = Rs. 210
+Brokerage on Sale = 0.1% of Sale Price
+Brokerage = 0.1/100 x 210 =Rs. 0.21 per share
+
+Net Cost Price per Share:,
+Net Cost Price = Purchase Price + Brokerage on Purchase
+Net Cost Price = 160 + 0.40 =Rs. 160.40 per share (1 mark)
+
+Net Selling Price = Sale Price - Brokerage on Sale
+Net Selling Price = 210 - 0.21 = Rs. 209.79 per share (1 mark)
+
+Profit per Share = Net Selling Price - Net Cost Price
+Profit per Share = 209.79 - 160.40 = Rs. 49.39 per share
+Total Profit = Number of Shares x Profit per Share
+Given Total Profit = Rs. 24.695 (1 mark)
+
+Number of Shares = Total Profit / Profit per Share
+Number of Shares = 24.695 / 49.39
+
+Number of Shares = 500 (1 mark)
+So, Mr. Rahul purchased 500 shares.
+
+Solution:
+
+Months Investment NAV Entry load Price per No of units
+unit
+1 3000 28 0.25% 28.07 106.876
+2 3000 42 0.25% 42.105 71.250
+3 3000 34 0.25% 34.085 88.015
+Total 9000 266.141
+(1 mk) (1 mk) (1 mk)
+
+Total investment in 3 months = Rs. 9000
+Total no. of unit = 266.141
+
+Investment 9000
+
+——_——_— =33.817
+No.ofunits 266.141
+
+Average acquisition cost =
+
+(1 mk) (1 mk)
 --- page 3 ---
 150   4   600
 200   6   1200
@@ -534,6 +797,23 @@ Instructions:
 A.   5
 B.   5
 Page 1 of 5
+
+[Text in pictures on this page, read by OCR]
+Solutions:
+Total cost function C = 24+ 5x + x?
+Revenue function R = 2x? + 3x
+At break-even point,
+Total cost function = Total Revenue function [1M]
+244+ 5x +x? = 2x? +3x
+
+x? —2x-—24=0 [1M]
+(x — 6)(x + 4) =0
+x=6orx=-4 [1M]
+Since the number of items cannot be negative
+Hence x = 6 [1M]
+
+Hence produce and sell at least 6 units to ensure no loss (break-even at 6 units)
+Total Revenue at x = 6 is R = 2x? + 3x = 2(6)? + 3(6) = 90 [1M]
 --- page 2 ---
 Average cost:
 C(x) _ 2x? 4+4x+472
@@ -607,6 +887,35 @@ B. Solution   5
 Data (class width h=2h 2 km):
 Distance (km) Frequency f Cumulative freq (CF)
 Page 3 of 5
+
+[Text in pictures on this page, read by OCR]
+Solution
+
+For Purchase
+
+Entry load = S“2CSbylest *(NAV) === *(80)=1.8 (1 mk)
+
+Purchase NAV = NAV + Entry load = 80+ 1.8=81.8
+
+No. ofunits = AMOURUNVESTED _ 36810 _ 459 (1 mk)
+Purchase NAV 81.8
+
+For Redemption
+
+Exit load = “6° EAC *NAV)= =" *(92)=2.07
+Redemption NAV = NAV - Exit load = 92- ° 9.07= 89.93 (1 mk)
+
+. Amount RECIEVED
+No. of units $= —_———_
+
+Redemption NAV
+450 = Amount RECIEVED
+89.93
+
+Amount Received = 450 x 89.93 = 40,468.5 (1 mk)
+Gain = Amount received — Amount Invested =40,468.5 — 36,810 = 3658.5 (1 mk)
+
+Ans. The Gain was Rs. 3,658.5.
 --- page 4 ---
 Distance (km) Frequency f Cumulative freq (CF)
 0–2   6   6
@@ -688,6 +997,23 @@ Instructions:
 A.   5
 B.   5
 Page 1 of 5
+
+[Text in pictures on this page, read by OCR]
+Solutions:
+Total cost function C = 24+ 5x + x?
+Revenue function R = 2x? + 3x
+At break-even point,
+Total cost function = Total Revenue function [1M]
+244+ 5x +x? = 2x? +3x
+
+x? —2x-—24=0 [1M]
+(x — 6)(x + 4) =0
+x=6orx=-4 [1M]
+Since the number of items cannot be negative
+Hence x = 6 [1M]
+
+Hence produce and sell at least 6 units to ensure no loss (break-even at 6 units)
+Total Revenue at x = 6 is R = 2x? + 3x = 2(6)? + 3(6) = 90 [1M]
 --- page 2 ---
 Average cost:
 C(x) _ 2x? 4+4x+472
@@ -761,6 +1087,35 @@ B. Solution   5
 Data (class width h=2h 2 km):
 Distance (km) Frequency f Cumulative freq (CF)
 Page 3 of 5
+
+[Text in pictures on this page, read by OCR]
+Solution
+
+For Purchase
+
+Entry load = S“2CSbylest *(NAV) === *(80)=1.8 (1 mk)
+
+Purchase NAV = NAV + Entry load = 80+ 1.8=81.8
+
+No. ofunits = AMOURUNVESTED _ 36810 _ 459 (1 mk)
+Purchase NAV 81.8
+
+For Redemption
+
+Exit load = “6° EAC *NAV)= =" *(92)=2.07
+Redemption NAV = NAV - Exit load = 92- ° 9.07= 89.93 (1 mk)
+
+. Amount RECIEVED
+No. of units $= —_———_
+
+Redemption NAV
+450 = Amount RECIEVED
+89.93
+
+Amount Received = 450 x 89.93 = 40,468.5 (1 mk)
+Gain = Amount received — Amount Invested =40,468.5 — 36,810 = 3658.5 (1 mk)
+
+Ans. The Gain was Rs. 3,658.5.
 --- page 4 ---
 Distance (km) Frequency f Cumulative freq (CF)
 0–2   6   6
@@ -842,6 +1197,23 @@ Instructions:
 A.   5
 B.   5
 Page 1 of 5
+
+[Text in pictures on this page, read by OCR]
+Solutions:
+Total cost function C = 24+ 5x + x?
+Revenue function R = 2x? + 3x
+At break-even point,
+Total cost function = Total Revenue function [1M]
+244+ 5x +x? = 2x? +3x
+
+x? —2x-—24=0 [1M]
+(x — 6)(x + 4) =0
+x=6orx=-4 [1M]
+Since the number of items cannot be negative
+Hence x = 6 [1M]
+
+Hence produce and sell at least 6 units to ensure no loss (break-even at 6 units)
+Total Revenue at x = 6 is R = 2x? + 3x = 2(6)? + 3(6) = 90 [1M]
 --- page 2 ---
 Average cost:
 C(x) _ 2x? 4+4x+472
@@ -915,6 +1287,35 @@ B. Solution   5
 Data (class width h=2h 2 km):
 Distance (km) Frequency f Cumulative freq (CF)
 Page 3 of 5
+
+[Text in pictures on this page, read by OCR]
+Solution
+
+For Purchase
+
+Entry load = S“2CSbylest *(NAV) === *(80)=1.8 (1 mk)
+
+Purchase NAV = NAV + Entry load = 80+ 1.8=81.8
+
+No. ofunits = AMOURUNVESTED _ 36810 _ 459 (1 mk)
+Purchase NAV 81.8
+
+For Redemption
+
+Exit load = “6° EAC *NAV)= =" *(92)=2.07
+Redemption NAV = NAV - Exit load = 92- ° 9.07= 89.93 (1 mk)
+
+. Amount RECIEVED
+No. of units $= —_———_
+
+Redemption NAV
+450 = Amount RECIEVED
+89.93
+
+Amount Received = 450 x 89.93 = 40,468.5 (1 mk)
+Gain = Amount received — Amount Invested =40,468.5 — 36,810 = 3658.5 (1 mk)
+
+Ans. The Gain was Rs. 3,658.5.
 --- page 4 ---
 Distance (km) Frequency f Cumulative freq (CF)
 0–2   6   6

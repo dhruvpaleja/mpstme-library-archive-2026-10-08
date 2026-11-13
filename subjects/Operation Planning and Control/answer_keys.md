@@ -762,6 +762,35 @@ Synoptic Points:
 8. Challenges in implementing PAC.
 9. Connection with inventory and capacity planning.
 Page 3 of 8
+
+[Text in pictures on this page, read by OCR]
+The remainder of the monthly forecasts are shown in the following table. The final forecast is
+for period 13, January, and is the forecast of interest to HiTek:
+
+Fi3 = aDj> ar ad _ Q@)F 2
+= (0.30)(54) + (0.70)(50.84)
+= 51.79 service calls
+
+Exponential Smoothing Forecasts, a = 0.30 and a = 0.50
+
+Forecast, F, ,;
+
+Period Month Demand a = 0.30 a = 0.50
+1 January 37 —_— —
+2 February 40 37.00 37.00
+3 March 41 37.90 38.50
+4 April 37 38.83 39.75
+5 May 45 38.28 38.37
+6 June 50 40.29 41.68
+7 July 43 43.20 45.84
+8 August 47 43.14 44.42
+9 September 56 44.30 45.71
+
+10 October 52 47.81 50.85
+11 November 55 49.06 51.42
+12 December 54 50.84 53.21
+
+13 January — 51.79 53.61
 --- page 4 ---
 10. Tools and technologies supporting PAC.
 Explain the role of Gantt charts in shop-floor control.
@@ -1006,6 +1035,35 @@ Synoptic Points:
 8. Challenges in implementing PAC.
 9. Connection with inventory and capacity planning.
 Page 3 of 8
+
+[Text in pictures on this page, read by OCR]
+The remainder of the monthly forecasts are shown in the following table. The final forecast is
+for period 13, January, and is the forecast of interest to HiTek:
+
+Fi3 = aDj> ar ad _ Q@)F 2
+= (0.30)(54) + (0.70)(50.84)
+= 51.79 service calls
+
+Exponential Smoothing Forecasts, a = 0.30 and a = 0.50
+
+Forecast, F, ,;
+
+Period Month Demand a = 0.30 a = 0.50
+1 January 37 —_— —
+2 February 40 37.00 37.00
+3 March 41 37.90 38.50
+4 April 37 38.83 39.75
+5 May 45 38.28 38.37
+6 June 50 40.29 41.68
+7 July 43 43.20 45.84
+8 August 47 43.14 44.42
+9 September 56 44.30 45.71
+
+10 October 52 47.81 50.85
+11 November 55 49.06 51.42
+12 December 54 50.84 53.21
+
+13 January — 51.79 53.61
 --- page 4 ---
 10. Tools and technologies supporting PAC.
 Explain the role of Gantt charts in shop-floor control.
@@ -1250,6 +1308,35 @@ Synoptic Points:
 8. Challenges in implementing PAC.
 9. Connection with inventory and capacity planning.
 Page 3 of 8
+
+[Text in pictures on this page, read by OCR]
+The remainder of the monthly forecasts are shown in the following table. The final forecast is
+for period 13, January, and is the forecast of interest to HiTek:
+
+Fi3 = aDj> ar ad _ Q@)F 2
+= (0.30)(54) + (0.70)(50.84)
+= 51.79 service calls
+
+Exponential Smoothing Forecasts, a = 0.30 and a = 0.50
+
+Forecast, F, ,;
+
+Period Month Demand a = 0.30 a = 0.50
+1 January 37 —_— —
+2 February 40 37.00 37.00
+3 March 41 37.90 38.50
+4 April 37 38.83 39.75
+5 May 45 38.28 38.37
+6 June 50 40.29 41.68
+7 July 43 43.20 45.84
+8 August 47 43.14 44.42
+9 September 56 44.30 45.71
+
+10 October 52 47.81 50.85
+11 November 55 49.06 51.42
+12 December 54 50.84 53.21
+
+13 January — 51.79 53.61
 --- page 4 ---
 10. Tools and technologies supporting PAC.
 Explain the role of Gantt charts in shop-floor control.
@@ -1494,6 +1581,35 @@ Synoptic Points:
 8. Challenges in implementing PAC.
 9. Connection with inventory and capacity planning.
 Page 3 of 8
+
+[Text in pictures on this page, read by OCR]
+The remainder of the monthly forecasts are shown in the following table. The final forecast is
+for period 13, January, and is the forecast of interest to HiTek:
+
+Fi3 = aDj> ar ad _ Q@)F 2
+= (0.30)(54) + (0.70)(50.84)
+= 51.79 service calls
+
+Exponential Smoothing Forecasts, a = 0.30 and a = 0.50
+
+Forecast, F, ,;
+
+Period Month Demand a = 0.30 a = 0.50
+1 January 37 —_— —
+2 February 40 37.00 37.00
+3 March 41 37.90 38.50
+4 April 37 38.83 39.75
+5 May 45 38.28 38.37
+6 June 50 40.29 41.68
+7 July 43 43.20 45.84
+8 August 47 43.14 44.42
+9 September 56 44.30 45.71
+
+10 October 52 47.81 50.85
+11 November 55 49.06 51.42
+12 December 54 50.84 53.21
+
+13 January — 51.79 53.61
 --- page 4 ---
 10. Tools and technologies supporting PAC.
 Explain the role of Gantt charts in shop-floor control.
@@ -1738,6 +1854,35 @@ Synoptic Points:
 8. Challenges in implementing PAC.
 9. Connection with inventory and capacity planning.
 Page 3 of 8
+
+[Text in pictures on this page, read by OCR]
+The remainder of the monthly forecasts are shown in the following table. The final forecast is
+for period 13, January, and is the forecast of interest to HiTek:
+
+Fi3 = aDj> ar ad _ Q@)F 2
+= (0.30)(54) + (0.70)(50.84)
+= 51.79 service calls
+
+Exponential Smoothing Forecasts, a = 0.30 and a = 0.50
+
+Forecast, F, ,;
+
+Period Month Demand a = 0.30 a = 0.50
+1 January 37 —_— —
+2 February 40 37.00 37.00
+3 March 41 37.90 38.50
+4 April 37 38.83 39.75
+5 May 45 38.28 38.37
+6 June 50 40.29 41.68
+7 July 43 43.20 45.84
+8 August 47 43.14 44.42
+9 September 56 44.30 45.71
+
+10 October 52 47.81 50.85
+11 November 55 49.06 51.42
+12 December 54 50.84 53.21
+
+13 January — 51.79 53.61
 --- page 4 ---
 10. Tools and technologies supporting PAC.
 Explain the role of Gantt charts in shop-floor control.

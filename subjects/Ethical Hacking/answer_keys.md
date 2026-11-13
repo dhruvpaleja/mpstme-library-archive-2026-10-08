@@ -413,6 +413,23 @@ prevent ARP cache poisoning.
 Dynamic ARP Inspection (DAI)/ARP Monitoring: Inspect ARP packets against
 trusted IP-MAC bindings to detect and block spoofing in real time.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Aspect Ethical Hacker Hacker (Malicious)
+
+To identify and report the vulnerability | To exploit the vulnerability for
+Intention responsibly. personal gain or damage.
+
+Informs the company’s security team
+and provides a report to help fix the | Extracts or manipulates confidential
+
+Action Taken | issue. customer data without permission.
+Has written permission from the
+
+Authorization | company to test systems. Has no authorization — acts illegally.
+Improves the company’s security Causes data breaches, financial loss,
+
+Outcome posture. or reputation damage.
 --- page 10 ---
 Other Measures: Use port security, VPNs/encrypted traffic (TLS/HTTPS), and IDS
 to monitor and mitigate ARP anomalies.

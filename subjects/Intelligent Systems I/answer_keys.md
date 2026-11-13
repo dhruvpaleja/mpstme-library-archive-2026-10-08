@@ -95,6 +95,30 @@ o Example:
 ▪   Translation: “There exists at least one x such that x is a
 student and x likes mathematics.”
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Informed Search Vs Uninformed Search
+
+Parameters Informed Search Uninformed Search
+Known as It is also known as Heuristic Search. It is also known as Blind Search.
+It uses knowledge for the searching It doesn’t use knowledge for the
+
+Using Knowledge
+process. searching process.
+
+It finds solution slow as compared to
+
+Performance It finds a solution more quickly. :
+an informed search.
+Completion It may or may not be complete. It is always complete.
+Cost Factor Cost is low. Cost is high.
+- It consumes less time because of quick It consumes moderate time because of
+ime
+searching slow searching.
+a There is a direction given about the No suggestion is given regarding the
+Direction
+
+solution. solution in it.
 --- page 3 ---
 Q:2   Answer briefly:
 Weak AI or Narrow AI or Artificial   Strong AI or Artificial General
@@ -164,6 +188,15 @@ Q: 3 A Simple Reflex Agent selects actions based on the current percept, ignorin
 a.   the percept history. It operates using condition-action rules (also known as "if-then"
 rules).
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Since the cost of P(A — B) is the minimum cost path, we proceed on this path in the next step.
+
+Here, someone may ask why we do not stop here since we have already found the minimum cost
+path from A to the goal node. The answer is that such a path may not be the correct minimum cost
+path because we have made our calculations based on the heuristics down to only one level.
+However, the given graph has provided us with a deeper level whose calculations may update the
+achieved values.
 --- page 5 ---
 Working:
 • The agent perceives the environment through sensors.
@@ -188,6 +221,25 @@ Characteristics:
 • More flexible and intelligent than simple reflex agents.
 [1 Mark for diagram]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+(Agent >)
+
+Sensors 4—
+
+What the world
+is like now
+
+What action I
+‘ondit rules
+a wa
+No Actuators m/
+
+Precepts
+
+Action
+
+———
 --- page 6 ---
 Hill Climbing Algorithm:   [2 Marks]
 Hill Climbing is a local search algorithm that continuously moves in the direction of
@@ -226,6 +278,22 @@ the one that leaves the most options open for other variables.
 This helps keep future choices flexible and reduces the chances of backtracking later.
 Together, these methods make the search process faster and more efficient.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Objective function Global maximum
+
+shoulder
+
+x
+
+Local maximum
+
+Pra “flat” lecal maximum
+
+State space
+Current
+
+state
 --- page 7 ---
 3 marks –explanation
 Most Constrained Variable: SA (South Australia) should be colored first.
@@ -440,6 +508,15 @@ Can get stuck in local optima.
 Depends heavily on the quality of the heuristic function.
 6 marks for solving
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+1) We are starting from A, so from A there are direct path to node B( with
+heuristics value of 32) , from A to C ( with heuristics value of 25 ) and
+from A to D( with heuristics value of 35).
+
+2) So as per best first search algorithm choose the path with lowest
+heuristics value , currently C has lowest value among above node. So we
+will go from A to C.
 --- page 16 ---
 For Wumpus World:   ……….. 4 marks (1 mark for each )
 1. Performance Measure (P):
@@ -460,6 +537,20 @@ o Percepts through which the agent senses the environment.
 o For Wumpus World: stench (Wumpus nearby), breeze (pit nearby),
 glitter (gold in room), bump (hits wall), scream (Wumpus killed).
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+3) Now from C we have direct paths as C to F( with heuristics value of 17
+) and C to E( with heuristics value of 19) , so we will go from C to F.
+
+4) Now from F we have direct path to go to the goal node G ( with
+heuristics value of O), so we will go from F to G.
+
+Goal
+
+Best-First Search algorithm os
+
+5) So now the goal node G has been reached and the path we will follow
+is A->C->F->G.
 --- page 17 ---
 RI: A S11 > AW11AN AW 112A 5 We
 R2: 74 S21 > AW IIA AW 2Z1A A W220
@@ -561,7 +652,7 @@ FOI 7 QF Cr
 - Departments: Artificial Intelligence
 - Programmes: BTech AI 7012, MBATech AI 7051
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_AI_7012/Intelligent Systems - I/ANS_Intelligent Systems - I(702AI0C026)_2025-2026.docx` (+1 identical copies)
-- Text: docx (1 page)
+- Text: mixed (9 pages), mean OCR confidence 82.2
 
 ````text
 Q:1
@@ -970,6 +1061,122 @@ Q:7 b.
 4 marks. statements to FOL, 3 marks for converting to CNF, 3 marks for resolution graph
 
 |
+--- page 2 ---
+Informed Search Vs Uninformed Search
+
+Parameters Informed Search Uninformed Search
+Known as It is also known as Heuristic Search. It is also known as Blind Search.
+It uses knowledge for the searching It doesn’t use knowledge for the
+
+Using Knowledge :
+process. searching process.
+
+It finds solution slow as compared to
+
+Performance It finds a solution more quickly. -
+an informed search.
+
+Completion It may or may not be complete. It is always complete.
+Cost Factor Cost is low. Cost is high.
+Ti It consumes less time because of quick It consumes moderate time because of
+
+ime
+
+searching. slow searching.
+
+- - There is a direction given about the No suggestion is given regarding the
+
+Direction
+
+solution. solution in it.
+--- page 3 ---
+(Agent )
+Precepts
+Sensors ~<d
+What the world
+is like now
+-~.- . What action I
+iCondition-action rules) —S>>
+G should do now
+v Action
+
+NN
+
+Actuators
+
+_—————
+--- page 4 ---
+Model-based reflex agent
+
+(— + - > Precepts
+
+_ Sensors
+_, 4
+
+How the world evolves | —————-» | What the world
+—» is like now
+
+(wnat my actions do }
+
+(condition-action rules}-——> jstisemnapsidpneen
+should do now
+
+| Action
+
+Actuators
+
+\ Agent /
+--- page 5 ---
+1) We are starting from A, so from A there are direct path to node B( with
+heuristics value of 32) , from A to C ( with heuristics value of 25 ) and
+from A to D( with heuristics value of 35 ).
+
+2) So as per best first search algorithm choose the path with lowest
+heuristics value , currently C has lowest value among above node. So we
+will go from A to C.
+--- page 6 ---
+3) Now from C we have direct paths as C to F( with heuristics value of 17
+) and C to E( with heuristics value of 19) , so we will go from C to F.
+--- page 7 ---
+4) Now from F we have direct path to go to the goal node G ( with
+heuristics value of 0), so we will go from F to G.
+
+Best-First Search algorithm 36
+
+5) So now the goal node G has been reached and the path we will follow
+is A->C->F->G.
+--- page 8 ---
+Apply modus pones with S12 & R4
+92 W1IVW12v W13V W222
+
+W11VW12V W13Vv W22
+Apply unit resolution on W11V W12V W13v W22 &AW 11
+
+Apply unit resolution on W12V W13 V W22 &-= W22
+Apply unit resolution on wx v W13 &- Wie
+
+Hence it is proved that Wumpus is in the room [1, 3]
+--- page 9 ---
+or the sky is cloudy.
+
+2. If the sky is cloudy, * QR
+
+then it will rain. "Pye m\ ae
+3. If the humidity is high, |, py \
+then it is hot. * -QVR PVR “PVs
+4. Itis not hot.
+eon * =PVS RVS =S
+* Goal: It will rain. (R) .
+° Rn Pl =
+- PVQ *PV@ After applying Proof by
+It will rain proved es oe
+. ie sal goal, the problem is
+are aindian solved, and it has terminated
+with a Null clause
+- POs o —?WYS (@ ). Hence, the goal is
+° -=S ° -=S
+
+Negation of Goal {=R): it will not rain.
 ````
 
 ## 2025-26 · Final-Exam · Sem 3 · Answer key · paper 013e176a5c38
@@ -1065,6 +1272,30 @@ o Example:
 ▪   Translation: “There exists at least one x such that x is a
 student and x likes mathematics.”
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Informed Search Vs Uninformed Search
+
+Parameters Informed Search Uninformed Search
+Known as It is also known as Heuristic Search. It is also known as Blind Search.
+It uses knowledge for the searching It doesn’t use knowledge for the
+
+Using Knowledge
+process. searching process.
+
+It finds solution slow as compared to
+
+Performance It finds a solution more quickly. :
+an informed search.
+Completion It may or may not be complete. It is always complete.
+Cost Factor Cost is low. Cost is high.
+- It consumes less time because of quick It consumes moderate time because of
+ime
+searching slow searching.
+a There is a direction given about the No suggestion is given regarding the
+Direction
+
+solution. solution in it.
 --- page 3 ---
 Q:2   Answer briefly:
 Weak AI or Narrow AI or Artificial   Strong AI or Artificial General
@@ -1134,6 +1365,15 @@ Q: 3 A Simple Reflex Agent selects actions based on the current percept, ignorin
 a.   the percept history. It operates using condition-action rules (also known as "if-then"
 rules).
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Since the cost of P(A — B) is the minimum cost path, we proceed on this path in the next step.
+
+Here, someone may ask why we do not stop here since we have already found the minimum cost
+path from A to the goal node. The answer is that such a path may not be the correct minimum cost
+path because we have made our calculations based on the heuristics down to only one level.
+However, the given graph has provided us with a deeper level whose calculations may update the
+achieved values.
 --- page 5 ---
 Working:
 • The agent perceives the environment through sensors.
@@ -1158,6 +1398,25 @@ Characteristics:
 • More flexible and intelligent than simple reflex agents.
 [1 Mark for diagram]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+(Agent >)
+
+Sensors 4—
+
+What the world
+is like now
+
+What action I
+‘ondit rules
+a wa
+No Actuators m/
+
+Precepts
+
+Action
+
+———
 --- page 6 ---
 Hill Climbing Algorithm:   [2 Marks]
 Hill Climbing is a local search algorithm that continuously moves in the direction of
@@ -1196,6 +1455,22 @@ the one that leaves the most options open for other variables.
 This helps keep future choices flexible and reduces the chances of backtracking later.
 Together, these methods make the search process faster and more efficient.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Objective function Global maximum
+
+shoulder
+
+x
+
+Local maximum
+
+Pra “flat” lecal maximum
+
+State space
+Current
+
+state
 --- page 7 ---
 3 marks –explanation
 Most Constrained Variable: SA (South Australia) should be colored first.
@@ -1410,6 +1685,15 @@ Can get stuck in local optima.
 Depends heavily on the quality of the heuristic function.
 6 marks for solving
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+1) We are starting from A, so from A there are direct path to node B( with
+heuristics value of 32) , from A to C ( with heuristics value of 25 ) and
+from A to D( with heuristics value of 35).
+
+2) So as per best first search algorithm choose the path with lowest
+heuristics value , currently C has lowest value among above node. So we
+will go from A to C.
 --- page 16 ---
 For Wumpus World:   ……….. 4 marks (1 mark for each )
 1. Performance Measure (P):
@@ -1430,6 +1714,20 @@ o Percepts through which the agent senses the environment.
 o For Wumpus World: stench (Wumpus nearby), breeze (pit nearby),
 glitter (gold in room), bump (hits wall), scream (Wumpus killed).
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+3) Now from C we have direct paths as C to F( with heuristics value of 17
+) and C to E( with heuristics value of 19) , so we will go from C to F.
+
+4) Now from F we have direct path to go to the goal node G ( with
+heuristics value of O), so we will go from F to G.
+
+Goal
+
+Best-First Search algorithm os
+
+5) So now the goal node G has been reached and the path we will follow
+is A->C->F->G.
 --- page 17 ---
 RI: A S11 > AW11AN AW 112A 5 We
 R2: 74 S21 > AW IIA AW 2Z1A A W220
@@ -1619,6 +1917,30 @@ o Example:
 ▪   Translation: “There exists at least one x such that x is a
 student and x likes mathematics.”
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Informed Search Vs Uninformed Search
+
+Parameters Informed Search Uninformed Search
+Known as It is also known as Heuristic Search. It is also known as Blind Search.
+It uses knowledge for the searching It doesn’t use knowledge for the
+
+Using Knowledge
+process. searching process.
+
+It finds solution slow as compared to
+
+Performance It finds a solution more quickly. :
+an informed search.
+Completion It may or may not be complete. It is always complete.
+Cost Factor Cost is low. Cost is high.
+- It consumes less time because of quick It consumes moderate time because of
+ime
+searching slow searching.
+a There is a direction given about the No suggestion is given regarding the
+Direction
+
+solution. solution in it.
 --- page 3 ---
 Q:2   Answer briefly:
 Weak AI or Narrow AI or Artificial   Strong AI or Artificial General
@@ -1688,6 +2010,15 @@ Q: 3 A Simple Reflex Agent selects actions based on the current percept, ignorin
 a.   the percept history. It operates using condition-action rules (also known as "if-then"
 rules).
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Since the cost of P(A — B) is the minimum cost path, we proceed on this path in the next step.
+
+Here, someone may ask why we do not stop here since we have already found the minimum cost
+path from A to the goal node. The answer is that such a path may not be the correct minimum cost
+path because we have made our calculations based on the heuristics down to only one level.
+However, the given graph has provided us with a deeper level whose calculations may update the
+achieved values.
 --- page 5 ---
 Working:
 • The agent perceives the environment through sensors.
@@ -1712,6 +2043,25 @@ Characteristics:
 • More flexible and intelligent than simple reflex agents.
 [1 Mark for diagram]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+(Agent >)
+
+Sensors 4—
+
+What the world
+is like now
+
+What action I
+‘ondit rules
+a wa
+No Actuators m/
+
+Precepts
+
+Action
+
+———
 --- page 6 ---
 Hill Climbing Algorithm:   [2 Marks]
 Hill Climbing is a local search algorithm that continuously moves in the direction of
@@ -1750,6 +2100,22 @@ the one that leaves the most options open for other variables.
 This helps keep future choices flexible and reduces the chances of backtracking later.
 Together, these methods make the search process faster and more efficient.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Objective function Global maximum
+
+shoulder
+
+x
+
+Local maximum
+
+Pra “flat” lecal maximum
+
+State space
+Current
+
+state
 --- page 7 ---
 3 marks –explanation
 Most Constrained Variable: SA (South Australia) should be colored first.
@@ -1964,6 +2330,15 @@ Can get stuck in local optima.
 Depends heavily on the quality of the heuristic function.
 6 marks for solving
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+1) We are starting from A, so from A there are direct path to node B( with
+heuristics value of 32) , from A to C ( with heuristics value of 25 ) and
+from A to D( with heuristics value of 35).
+
+2) So as per best first search algorithm choose the path with lowest
+heuristics value , currently C has lowest value among above node. So we
+will go from A to C.
 --- page 16 ---
 For Wumpus World:   ……….. 4 marks (1 mark for each )
 1. Performance Measure (P):
@@ -1984,6 +2359,20 @@ o Percepts through which the agent senses the environment.
 o For Wumpus World: stench (Wumpus nearby), breeze (pit nearby),
 glitter (gold in room), bump (hits wall), scream (Wumpus killed).
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+3) Now from C we have direct paths as C to F( with heuristics value of 17
+) and C to E( with heuristics value of 19) , so we will go from C to F.
+
+4) Now from F we have direct path to go to the goal node G ( with
+heuristics value of O), so we will go from F to G.
+
+Goal
+
+Best-First Search algorithm os
+
+5) So now the goal node G has been reached and the path we will follow
+is A->C->F->G.
 --- page 17 ---
 RI: A S11 > AW11AN AW 112A 5 We
 R2: 74 S21 > AW IIA AW 2Z1A A W220
@@ -2155,6 +2544,44 @@ o The total cost is f(n) = g(n) + h(n).
 This ensures that the algorithm finds the shortest and most efficient path, which
 is crucial in games where optimal moves matter.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Utility-based agents
+
+‘a >
+
+Sensors
+
+islike now
+(What my actions do} +
+Whar it will
+—™ |pe like if 1 do action A
+
+(vais) How happy I will
+=r ——__» 2
+Utility be In such a state
+
+few the world evolves} [ ‘What the world
+
+What action F
+should do now
+
+—
+Preceps
+
+mh
+
+3
+
+z
+
+5
+
+2
+
+Action
+
+Ne Agent ActuStors
 --- page 3 ---
 2. Heuristic Guidance   [1 Mark]
 A* uses heuristics to guide the search, making it faster and more
@@ -2191,6 +2618,28 @@ To succeed in the Turing Test, a computer must possess:
 •   Natural language processing – to communicate successfully in English
 • Knowledge representation – to store what it knows or hears
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Sr.No Propositional logic Predicate logic
+
+al Propositional logic is the logic that deals with a Predicate logic is an expression consisting of
+collection of declarative statements which have | variables with a specified domain. It consists of
+
+a truth value, true or false. objects, relations and functions between the
+objects.
+2 It is the basic and most widely used logic. Also It is an extension of propositional logic covering
+known as Boolean logic. predicates and quantification.
+3 A proposition has a specific truth value, either A predicate’s truth value depends on the variables’
+true or false. value.
+
+4 Propositions are combined with Logical Predicate Logic adds by introducing quantifiers to
+Operators or Logical Connectives like | the existing proposition.
+Negation(-), Disjunction(V), Conjunction(A),
+Exclusive-OR(@),Implication(=>),BiConditional
+or Double Implication(=).
+
+5) It cannot deal with sets of entities. It can deal with set of entities with the help of
+quantifiers.
 --- page 4 ---
 • Automated reasoning – to answer questions and draw conclusions
 • Machine learning – to adapt and detect patterns
@@ -2598,6 +3047,27 @@ Q6 b.   1. Someone is smiling:
 Step 1: Eliminate implications   ………… 1 mark
 • No implications in the given sentences, so we move to next step.
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+The path f(C -> H + I) = 2 is selected. Since the heuristic for H and I matc!
+the actual cost (both are O), these paths are considered solved. Next, we
+
+calculate the value for A -> D as it also has an AND node.
+
+For node D:
+
+#(D -> J) = g(J) + h(3J)
+=1+0
+=i
+
+After updating the heuristic for D, we recalculate:
+
+f(A -> C + D) = g(C) + h(C) + g(D) + h(D)
+=1+2+1+1
+=5
+
+Now that f(A -> C + D) has the lowest cost, this becomes the solved path
+the AND-OR graph is now fully resolved.
 --- page 16 ---
 Step 2: Move quantifiers to the front ………… 2 mark
 Already in standard form:
@@ -2651,6 +3121,33 @@ making using logic.
 Q:7
 b.
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+Propositional Logic
+
+Natural Language Statement Expression Explanation oO
+
+1. There is a pit in [1,2]. Paz Represents a fact that a pit exists in
+[1,2].
+
+2. There is a breeze in [1,1] if and only if Bus > (Py.2 V Pan) A breeze is present in [1,1] exactly when
+
+there is a pit in a neighboring cell. there is a pit in one of its adjacent rooms.
+
+3. If there is a stench in [1,2], then S32 7 (Wis V Wa,2) Astench at [1,2] implies that Wumpus is
+
+Wumpus is in [1,3] or [2,2]. located in one of the neighboring cells.
+
+* If itis sunny and warm day you will enjoy
+Sunny A warm > enjoy
+* Ifitis raining you will get wet
+raining > wet
+* Itis warm day
+warm
+* Itis raining
+raining
+* Itis sunny
+Sunny
 --- page 18 ---
 * Sunny A Warm > enjoy
 Eliminate implication:
@@ -2772,6 +3269,44 @@ o The total cost is f(n) = g(n) + h(n).
 This ensures that the algorithm finds the shortest and most efficient path, which
 is crucial in games where optimal moves matter.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Utility-based agents
+
+‘a >
+
+Sensors
+
+islike now
+(What my actions do} +
+Whar it will
+—™ |pe like if 1 do action A
+
+(vais) How happy I will
+=r ——__» 2
+Utility be In such a state
+
+few the world evolves} [ ‘What the world
+
+What action F
+should do now
+
+—
+Preceps
+
+mh
+
+3
+
+z
+
+5
+
+2
+
+Action
+
+Ne Agent ActuStors
 --- page 3 ---
 2. Heuristic Guidance   [1 Mark]
 A* uses heuristics to guide the search, making it faster and more
@@ -2808,6 +3343,28 @@ To succeed in the Turing Test, a computer must possess:
 •   Natural language processing – to communicate successfully in English
 • Knowledge representation – to store what it knows or hears
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Sr.No Propositional logic Predicate logic
+
+al Propositional logic is the logic that deals with a Predicate logic is an expression consisting of
+collection of declarative statements which have | variables with a specified domain. It consists of
+
+a truth value, true or false. objects, relations and functions between the
+objects.
+2 It is the basic and most widely used logic. Also It is an extension of propositional logic covering
+known as Boolean logic. predicates and quantification.
+3 A proposition has a specific truth value, either A predicate’s truth value depends on the variables’
+true or false. value.
+
+4 Propositions are combined with Logical Predicate Logic adds by introducing quantifiers to
+Operators or Logical Connectives like | the existing proposition.
+Negation(-), Disjunction(V), Conjunction(A),
+Exclusive-OR(@),Implication(=>),BiConditional
+or Double Implication(=).
+
+5) It cannot deal with sets of entities. It can deal with set of entities with the help of
+quantifiers.
 --- page 4 ---
 • Automated reasoning – to answer questions and draw conclusions
 • Machine learning – to adapt and detect patterns
@@ -3215,6 +3772,27 @@ Q6 b.   1. Someone is smiling:
 Step 1: Eliminate implications   ………… 1 mark
 • No implications in the given sentences, so we move to next step.
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+The path f(C -> H + I) = 2 is selected. Since the heuristic for H and I matc!
+the actual cost (both are O), these paths are considered solved. Next, we
+
+calculate the value for A -> D as it also has an AND node.
+
+For node D:
+
+#(D -> J) = g(J) + h(3J)
+=1+0
+=i
+
+After updating the heuristic for D, we recalculate:
+
+f(A -> C + D) = g(C) + h(C) + g(D) + h(D)
+=1+2+1+1
+=5
+
+Now that f(A -> C + D) has the lowest cost, this becomes the solved path
+the AND-OR graph is now fully resolved.
 --- page 16 ---
 Step 2: Move quantifiers to the front ………… 2 mark
 Already in standard form:
@@ -3268,6 +3846,33 @@ making using logic.
 Q:7
 b.
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+Propositional Logic
+
+Natural Language Statement Expression Explanation oO
+
+1. There is a pit in [1,2]. Paz Represents a fact that a pit exists in
+[1,2].
+
+2. There is a breeze in [1,1] if and only if Bus > (Py.2 V Pan) A breeze is present in [1,1] exactly when
+
+there is a pit in a neighboring cell. there is a pit in one of its adjacent rooms.
+
+3. If there is a stench in [1,2], then S32 7 (Wis V Wa,2) Astench at [1,2] implies that Wumpus is
+
+Wumpus is in [1,3] or [2,2]. located in one of the neighboring cells.
+
+* If itis sunny and warm day you will enjoy
+Sunny A warm > enjoy
+* Ifitis raining you will get wet
+raining > wet
+* Itis warm day
+warm
+* Itis raining
+raining
+* Itis sunny
+Sunny
 --- page 18 ---
 * Sunny A Warm > enjoy
 Eliminate implication:

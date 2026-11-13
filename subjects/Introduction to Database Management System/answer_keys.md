@@ -337,6 +337,17 @@ ON table1.common_column = table2.common_column;
 • NULL values are returned where there is no match
 SELECT column_list
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+EmpID_ | EmpName | Project
+
+E101 Raj Al
+E101 Raj DBMS
+E102 Simran ML
+E103 Karan Al
+E103 Karan ML
+
+E103 Karan Cloud
 --- page 9 ---
 FROM table1
 FULL OUTER JOIN table2
@@ -553,6 +564,13 @@ Student   Department
 4   Kiran   30
 5   Amit   NULL
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+In Many-to-One relationship, two tables will be required-
+AR (al ,a2,bl )
+B( bl, b2)
+
+NOTE = Here, combined table will be drawn for the entity set A and relationship set R.
 --- page 14 ---
 b) Define the term Data Redundancy and Data inconsistency.
 DeptI
@@ -577,6 +595,22 @@ different place then it is called Data Inconsistency
 Due to redundancy table size will be increase it require large memory,
 search time increases, System will slow, not very efficient.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+SID Name S.DeptID | D.DeptID | DeptName | HOD
+
+1 Asha 10 10 cs Dr. Rao
+
+1 Asha 10 10 cs Dr. Rao
+
+3 Neha 10 10 cs Dr. Rao
+
+3 Neha 10 10 cs Dr. Rao
+
+2 Ravi 20 20 IT Dr. Mehta
+4 Kiran 30 NULL NULL NULL
+
+5 Amit NULL NULL NULL NULL
 --- page 15 ---
 CO5;   b   What is NoSQL, and how does it differ from traditional relational [10]
 SO- 1;   databases?
@@ -943,6 +977,17 @@ ON table1.common_column = table2.common_column;
 • NULL values are returned where there is no match
 SELECT column_list
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+EmpID_ | EmpName | Project
+
+E101 Raj Al
+E101 Raj DBMS
+E102 Simran ML
+E103 Karan Al
+E103 Karan ML
+
+E103 Karan Cloud
 --- page 9 ---
 FROM table1
 FULL OUTER JOIN table2
@@ -1159,6 +1204,13 @@ Student   Department
 4   Kiran   30
 5   Amit   NULL
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+In Many-to-One relationship, two tables will be required-
+AR (al ,a2,bl )
+B( bl, b2)
+
+NOTE = Here, combined table will be drawn for the entity set A and relationship set R.
 --- page 14 ---
 b) Define the term Data Redundancy and Data inconsistency.
 DeptI
@@ -1183,6 +1235,22 @@ different place then it is called Data Inconsistency
 Due to redundancy table size will be increase it require large memory,
 search time increases, System will slow, not very efficient.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+SID Name S.DeptID | D.DeptID | DeptName | HOD
+
+1 Asha 10 10 cs Dr. Rao
+
+1 Asha 10 10 cs Dr. Rao
+
+3 Neha 10 10 cs Dr. Rao
+
+3 Neha 10 10 cs Dr. Rao
+
+2 Ravi 20 20 IT Dr. Mehta
+4 Kiran 30 NULL NULL NULL
+
+5 Amit NULL NULL NULL NULL
 --- page 15 ---
 CO5;   b   What is NoSQL, and how does it differ from traditional relational [10]
 SO- 1;   databases?
@@ -1549,6 +1617,17 @@ ON table1.common_column = table2.common_column;
 • NULL values are returned where there is no match
 SELECT column_list
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+EmpID_ | EmpName | Project
+
+E101 Raj Al
+E101 Raj DBMS
+E102 Simran ML
+E103 Karan Al
+E103 Karan ML
+
+E103 Karan Cloud
 --- page 9 ---
 FROM table1
 FULL OUTER JOIN table2
@@ -1765,6 +1844,13 @@ Student   Department
 4   Kiran   30
 5   Amit   NULL
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+In Many-to-One relationship, two tables will be required-
+AR (al ,a2,bl )
+B( bl, b2)
+
+NOTE = Here, combined table will be drawn for the entity set A and relationship set R.
 --- page 14 ---
 b) Define the term Data Redundancy and Data inconsistency.
 DeptI
@@ -1789,6 +1875,22 @@ different place then it is called Data Inconsistency
 Due to redundancy table size will be increase it require large memory,
 search time increases, System will slow, not very efficient.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+SID Name S.DeptID | D.DeptID | DeptName | HOD
+
+1 Asha 10 10 cs Dr. Rao
+
+1 Asha 10 10 cs Dr. Rao
+
+3 Neha 10 10 cs Dr. Rao
+
+3 Neha 10 10 cs Dr. Rao
+
+2 Ravi 20 20 IT Dr. Mehta
+4 Kiran 30 NULL NULL NULL
+
+5 Amit NULL NULL NULL NULL
 --- page 15 ---
 CO5;   b   What is NoSQL, and how does it differ from traditional relational [10]
 SO- 1;   databases?

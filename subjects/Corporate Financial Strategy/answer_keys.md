@@ -62,6 +62,32 @@ The company needs to find ways to reduce its production costs by ₹ 6.00 per un
 its desired profit margin.
 2 Answer the following.   15
 Page 2 of 4
+
+[Text in pictures on this page, read by OCR]
+1. Horizontal Merger
+* Meaning: Merger between two companies in the same industry and at the same stage of production.
+* Purpose: To reduce competition, gain market share, and benefit from economies of scale.
+* Example: Facebook merging with Instagram (both social media platforms).
+
+2. Vertical Merger
+* Meaning: Merger between companies in the same industry but at different stages of production or
+distribution.
+* Purpose: To control supply chain, reduce costs, and improve coordination.
+
+Example: A car manufacturer merging with a tire company.
+
+3. Conglomerate Merger
+* Meaning: Merger between companies in completely unrelated industries.
+* Purpose: Diversification and risk reduction.
+
+* Example: Amazon acquiring Whole Foods (e-commerce + grocery retail).
+
+4. Market Extension Merger
+* Meaning: Merger between companies in the same industry but in different markets (geographical
+regions).
+* Purpose: To expand into new markets and customer bases.
+
+* Example: A U.S. bank merging with an Indian bank to expand globally.
 --- page 3 ---
 5. Product Extension Merger
 * Meaning: Merger between companies offering related products in the same market.
@@ -178,6 +204,33 @@ Instructions:
 5. All questions are compulsory
 1 Answer the following.   15
 Page 1 of 5
+
+[Text in pictures on this page, read by OCR]
+1) Traditional method :
+Step 1: calculation of Overhead cost per machine hour :
+
+Particulars Rs
+
+Volume related 475020
+
+Set up related 579988
+
+Purchase related 504992
+
+Total overhaed cost 1560000
+
+Total machine hours 78000 (24000+54000)
+Overhead cost per machine hour 20
+
+Step 2 : calculation of overhead cost per unit
+
+Particulars Gel pen Ball pen
+Overhead cost 480000 1080000
+(24000 *20) (54000*20)
+Total cost 480000 1080000
+total no. of units 5500 24000
+
+cost per unit 87.27272727 45
 --- page 2 ---
 2) Acti based costing method
 

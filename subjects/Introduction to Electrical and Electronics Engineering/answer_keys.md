@@ -137,6 +137,22 @@ CO-2; SO-
 5
 Q.7C   Compare PNP and NPN transistors.   5
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Core Type Shell Type
+
+The winding encircles the core. The core encircles most part of the winding.
+it has single magnetic circuit. It has a double magnetic circuit.
+
+The core has two limbs. The core has three limbs.
+
+The cylindrical coils are used. [ee Cee Ses Oe See Oe ore
+
+The windings are uniformly distributed on two] The natural cooling does not exist as the
+fimbs hence natural cooling is effective. windings are surrounded by the coro.
+
+The coils can be easily removed from| The coils can not be removed easily.
+maintenance point of view.
 --- page 5 ---
 CO-4; SO-
 1; BL- 2
@@ -319,6 +335,22 @@ CO-2; SO-
 5
 Q.7C   Compare PNP and NPN transistors.   5
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Core Type Shell Type
+
+The winding encircles the core. The core encircles most part of the winding.
+it has single magnetic circuit. It has a double magnetic circuit.
+
+The core has two limbs. The core has three limbs.
+
+The cylindrical coils are used. [ee Cee Ses Oe See Oe ore
+
+The windings are uniformly distributed on two] The natural cooling does not exist as the
+fimbs hence natural cooling is effective. windings are surrounded by the coro.
+
+The coils can be easily removed from| The coils can not be removed easily.
+maintenance point of view.
 --- page 5 ---
 CO-4; SO-
 1; BL- 2
@@ -501,6 +533,22 @@ CO-2; SO-
 5
 Q.7C   Compare PNP and NPN transistors.   5
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Core Type Shell Type
+
+The winding encircles the core. The core encircles most part of the winding.
+it has single magnetic circuit. It has a double magnetic circuit.
+
+The core has two limbs. The core has three limbs.
+
+The cylindrical coils are used. [ee Cee Ses Oe See Oe ore
+
+The windings are uniformly distributed on two] The natural cooling does not exist as the
+fimbs hence natural cooling is effective. windings are surrounded by the coro.
+
+The coils can be easily removed from| The coils can not be removed easily.
+maintenance point of view.
 --- page 5 ---
 CO-4; SO-
 1; BL- 2
@@ -683,6 +731,22 @@ CO-2; SO-
 5
 Q.7C   Compare PNP and NPN transistors.   5
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Core Type Shell Type
+
+The winding encircles the core. The core encircles most part of the winding.
+it has single magnetic circuit. It has a double magnetic circuit.
+
+The core has two limbs. The core has three limbs.
+
+The cylindrical coils are used. [ee Cee Ses Oe See Oe ore
+
+The windings are uniformly distributed on two] The natural cooling does not exist as the
+fimbs hence natural cooling is effective. windings are surrounded by the coro.
+
+The coils can be easily removed from| The coils can not be removed easily.
+maintenance point of view.
 --- page 5 ---
 CO-4; SO-
 1; BL- 2
@@ -866,6 +930,26 @@ on their own, simplifying circuit design.
 a   Illustrate the working of full wave bridge rectifier with circuit diagram and   [10]
 Q6   waveforms.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+A K A NK
+
+This is the circuit diagram of a NAND gate used to make work like a NOT gate, the original
+
+logic gate diagram of NOT gate is given besides the circuit diagram below.
+
+The above diagram is of an OR gate made from combinations of NAND gates, arranged in a
+
+proper manner. The truth table of an OR gate is also given beside the diagram.
+
+Now we will see the design of an AND gate from NAND gates.
+
+po op
+
+The above diagram is of an AND gate made from NAND gate. So we can see that all the
+three basic gates can be made by only using NAND gates, that’s why this gate is called
+
+Universal Gate, and it is appropriate.
 --- page 7 ---
 CO-4; SO-1;
 BL-2
@@ -903,6 +987,18 @@ Universal motors have a small size relative to their power output, making them
 suitable for portable devices.
 High-Speed Operation:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+The need for a centre tapped power transformer is eliminated in the bridge rectifier. It contains four
+diodes D,, D,, D; and D, connected to form bridge as shown in Fig. 6.26. The a.c. supply to be
+rectified is applied to the diagonally opposite ends of the bridge through the transformer. Between
+other two ends of the bridge, the load resistance R, is connected.
+
+AC.
+SUPPLY
+
+” SECONDARY
+VOLTAGE
 --- page 8 ---
 Capable of operating at very high speeds (up to 20,000 RPM or more), making
 them ideal for drills, mixers, and vacuum cleaners.
@@ -1134,6 +1230,26 @@ on their own, simplifying circuit design.
 a   Illustrate the working of full wave bridge rectifier with circuit diagram and   [10]
 Q6   waveforms.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+A K A NK
+
+This is the circuit diagram of a NAND gate used to make work like a NOT gate, the original
+
+logic gate diagram of NOT gate is given besides the circuit diagram below.
+
+The above diagram is of an OR gate made from combinations of NAND gates, arranged in a
+
+proper manner. The truth table of an OR gate is also given beside the diagram.
+
+Now we will see the design of an AND gate from NAND gates.
+
+po op
+
+The above diagram is of an AND gate made from NAND gate. So we can see that all the
+three basic gates can be made by only using NAND gates, that’s why this gate is called
+
+Universal Gate, and it is appropriate.
 --- page 7 ---
 CO-4; SO-1;
 BL-2
@@ -1171,6 +1287,18 @@ Universal motors have a small size relative to their power output, making them
 suitable for portable devices.
 High-Speed Operation:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+The need for a centre tapped power transformer is eliminated in the bridge rectifier. It contains four
+diodes D,, D,, D; and D, connected to form bridge as shown in Fig. 6.26. The a.c. supply to be
+rectified is applied to the diagonally opposite ends of the bridge through the transformer. Between
+other two ends of the bridge, the load resistance R, is connected.
+
+AC.
+SUPPLY
+
+” SECONDARY
+VOLTAGE
 --- page 8 ---
 Capable of operating at very high speeds (up to 20,000 RPM or more), making
 them ideal for drills, mixers, and vacuum cleaners.
@@ -1402,6 +1530,26 @@ on their own, simplifying circuit design.
 a   Illustrate the working of full wave bridge rectifier with circuit diagram and   [10]
 Q6   waveforms.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+A K A NK
+
+This is the circuit diagram of a NAND gate used to make work like a NOT gate, the original
+
+logic gate diagram of NOT gate is given besides the circuit diagram below.
+
+The above diagram is of an OR gate made from combinations of NAND gates, arranged in a
+
+proper manner. The truth table of an OR gate is also given beside the diagram.
+
+Now we will see the design of an AND gate from NAND gates.
+
+po op
+
+The above diagram is of an AND gate made from NAND gate. So we can see that all the
+three basic gates can be made by only using NAND gates, that’s why this gate is called
+
+Universal Gate, and it is appropriate.
 --- page 7 ---
 CO-4; SO-1;
 BL-2
@@ -1439,6 +1587,18 @@ Universal motors have a small size relative to their power output, making them
 suitable for portable devices.
 High-Speed Operation:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+The need for a centre tapped power transformer is eliminated in the bridge rectifier. It contains four
+diodes D,, D,, D; and D, connected to form bridge as shown in Fig. 6.26. The a.c. supply to be
+rectified is applied to the diagonally opposite ends of the bridge through the transformer. Between
+other two ends of the bridge, the load resistance R, is connected.
+
+AC.
+SUPPLY
+
+” SECONDARY
+VOLTAGE
 --- page 8 ---
 Capable of operating at very high speeds (up to 20,000 RPM or more), making
 them ideal for drills, mixers, and vacuum cleaners.
@@ -1670,6 +1830,26 @@ on their own, simplifying circuit design.
 a   Illustrate the working of full wave bridge rectifier with circuit diagram and   [10]
 Q6   waveforms.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+A K A NK
+
+This is the circuit diagram of a NAND gate used to make work like a NOT gate, the original
+
+logic gate diagram of NOT gate is given besides the circuit diagram below.
+
+The above diagram is of an OR gate made from combinations of NAND gates, arranged in a
+
+proper manner. The truth table of an OR gate is also given beside the diagram.
+
+Now we will see the design of an AND gate from NAND gates.
+
+po op
+
+The above diagram is of an AND gate made from NAND gate. So we can see that all the
+three basic gates can be made by only using NAND gates, that’s why this gate is called
+
+Universal Gate, and it is appropriate.
 --- page 7 ---
 CO-4; SO-1;
 BL-2
@@ -1707,6 +1887,18 @@ Universal motors have a small size relative to their power output, making them
 suitable for portable devices.
 High-Speed Operation:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+The need for a centre tapped power transformer is eliminated in the bridge rectifier. It contains four
+diodes D,, D,, D; and D, connected to form bridge as shown in Fig. 6.26. The a.c. supply to be
+rectified is applied to the diagonally opposite ends of the bridge through the transformer. Between
+other two ends of the bridge, the load resistance R, is connected.
+
+AC.
+SUPPLY
+
+” SECONDARY
+VOLTAGE
 --- page 8 ---
 Capable of operating at very high speeds (up to 20,000 RPM or more), making
 them ideal for drills, mixers, and vacuum cleaners.
@@ -1898,6 +2090,41 @@ CO-1; SO-
 1; BL-4
 2) Calculation of Rth
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The figure shows the npn transistor with forward bias to emitter-base junction and reverse bias to
+collector-base junction.
+
+The forward bias causes the electrons in the n-type emitter to flow towards the base. This
+constitutes the emitter current |; .
+
+As these electrons flow through the p-type base, they tend to combine with holes.
+
+As the base is lightly doped and very thin, therefore, only a few electrons (less than 5%) combine
+with holes to constitute base current |,.
+The remainder (more than 95%) cross over into the collector region to constitute collector current
+lee
+In this way, almost the entire emitter current flows in the collector circuit.
+It is clear that the emitter current is the sum of collector and base currents
+
+Lele=lg tle
+
+Applying KVL to mesh I,
+
+—SI, -107,-)+2=0
+or — 15/, + 10/, =-2
+Applying KVL to mesh 2,
+
+-10/, -5/, -4—10(/,-1,)=0
+or 10/, -251,=4
+Solving (i) and (ii),
+
+L,=-0.145A
+Hence, Vay = Vag
+
+=+4+ SI,
+=+4+5 (-0.145)
+=3.275 V
 --- page 6 ---
 Q5 CO-4;   b   Explain Universal gate. Verify NOR Gate is a Universal Gate with the help of the   [10]
 SO-1; BL-5   circuit diagrams.
@@ -1905,6 +2132,38 @@ A universal gate, such as a NOR gate can perform any Boolean function
 independently. This means these gates can form any logical Boolean expression
 on their own, simplifying circuit design.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+102 A 52 A A
+
++ 5
+
+> = =
+33.330 => 13.3395 S50 > 23.6360
+2 <= <=
+
+[ f
+
+8 8 8
+Thus, Rru = Ras = 3.636 O
+
+Step III: Calculation of load current
+Thevenin’s equivalent circuit can be drawn as follows:
+
+Rra= 3.636 2
+rA
+I
+Vry= 3.17V = A.=82
+‘B
+By Ohm's law,
+TH
+L=—
+eRe Ria
+Hence,
+3.275
+
+In =Ieq = —————- = 0.281 A(L
+am WEL ®
 --- page 7 ---
 a   Explain the working of half wave rectifier with circuit diagram and waveforms.   [10]
 Q6
@@ -1916,6 +2175,60 @@ CO-3; SO-   universal motor.
 1; BL-5
 Working Principle – 3M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Similar to the NAND gate, the NOR gate can also independently form the three basic gates:
+
+AND, OR, and NOT.
+7
+; - aORb
+b—/ _/
+
+The above diagram is of an OR gate made by only using NOR gates. The output of this gate
+is exactly similar to that of a single OR gate. We can see the circuit arrangement of OR gate
+
+using, NOR gate is similar to that of AND gate using NAND gates.
+
+oD aANDb
+{)-
+
+The above diagram as the name suggests is of AND gate using only NOR gate, again we can
+see that the circuit diagram of AND gate using only NOR gate is exactly similar to that of OR
+gate using only NAND gates. Now we will finally see how we can make a NOT gate by
+
+{) > NOTa
+
+The above diagram is of a NOT gate made by using a NOR gate. The circuit diagram is
+
+using only NOR gates.
+
+similar to that of NOT gate made by using only NAND gate.
+
+As demonstrated, the NOR gate alone can configure AND, OR, and NOT gates, affirming its
+
+universal gate status.
+
+In half-wave rectification, the rectifier conducts current only during the positive half-cycles of input
+a.c. supply. The negative half-cycles of a.c. supply are suppressed i.e. during negative half-cycles, no
+current is conducted and hence no voltage appears across the load. Therefore, current always flows
+in one direction (i.e. d.c.) through the load though after every half-cycle.
+
+z
+
+ru
+AC. t
+—T t
+|
+B
+y,
+
+Vout
+in
+
+; AALA,,
+
+0
+(i (ii)
 --- page 8 ---
 A universal motor operates on the principle of electromagnetic induction. It works
 similarly to a DC series motor, where both the field winding and the armature
@@ -1978,6 +2291,28 @@ Q7
 CO-2; SO-
 1; BL-4
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+The formula for real power in an AC circuit:
+P=VxIxpf
+
+Rearranging to find the current (I):
+
+P
+a V x pf
+1500
+~ 220 x 0.5
+1500
+110
+
+I= = 13.64A
+
+The power factor is the cosine of the angle 0:
+pf = cos(@)
+8 =cos *(0.5)
+Using a calculator:
+
+d= 60°
 --- page 10 ---
 Using Ohm's Law in AC circuits:
 
@@ -2109,6 +2444,41 @@ CO-1; SO-
 1; BL-4
 2) Calculation of Rth
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The figure shows the npn transistor with forward bias to emitter-base junction and reverse bias to
+collector-base junction.
+
+The forward bias causes the electrons in the n-type emitter to flow towards the base. This
+constitutes the emitter current |; .
+
+As these electrons flow through the p-type base, they tend to combine with holes.
+
+As the base is lightly doped and very thin, therefore, only a few electrons (less than 5%) combine
+with holes to constitute base current |,.
+The remainder (more than 95%) cross over into the collector region to constitute collector current
+lee
+In this way, almost the entire emitter current flows in the collector circuit.
+It is clear that the emitter current is the sum of collector and base currents
+
+Lele=lg tle
+
+Applying KVL to mesh I,
+
+—SI, -107,-)+2=0
+or — 15/, + 10/, =-2
+Applying KVL to mesh 2,
+
+-10/, -5/, -4—10(/,-1,)=0
+or 10/, -251,=4
+Solving (i) and (ii),
+
+L,=-0.145A
+Hence, Vay = Vag
+
+=+4+ SI,
+=+4+5 (-0.145)
+=3.275 V
 --- page 6 ---
 Q5 CO-4;   b   Explain Universal gate. Verify NOR Gate is a Universal Gate with the help of the   [10]
 SO-1; BL-5   circuit diagrams.
@@ -2116,6 +2486,38 @@ A universal gate, such as a NOR gate can perform any Boolean function
 independently. This means these gates can form any logical Boolean expression
 on their own, simplifying circuit design.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+102 A 52 A A
+
++ 5
+
+> = =
+33.330 => 13.3395 S50 > 23.6360
+2 <= <=
+
+[ f
+
+8 8 8
+Thus, Rru = Ras = 3.636 O
+
+Step III: Calculation of load current
+Thevenin’s equivalent circuit can be drawn as follows:
+
+Rra= 3.636 2
+rA
+I
+Vry= 3.17V = A.=82
+‘B
+By Ohm's law,
+TH
+L=—
+eRe Ria
+Hence,
+3.275
+
+In =Ieq = —————- = 0.281 A(L
+am WEL ®
 --- page 7 ---
 a   Explain the working of half wave rectifier with circuit diagram and waveforms.   [10]
 Q6
@@ -2127,6 +2529,60 @@ CO-3; SO-   universal motor.
 1; BL-5
 Working Principle – 3M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Similar to the NAND gate, the NOR gate can also independently form the three basic gates:
+
+AND, OR, and NOT.
+7
+; - aORb
+b—/ _/
+
+The above diagram is of an OR gate made by only using NOR gates. The output of this gate
+is exactly similar to that of a single OR gate. We can see the circuit arrangement of OR gate
+
+using, NOR gate is similar to that of AND gate using NAND gates.
+
+oD aANDb
+{)-
+
+The above diagram as the name suggests is of AND gate using only NOR gate, again we can
+see that the circuit diagram of AND gate using only NOR gate is exactly similar to that of OR
+gate using only NAND gates. Now we will finally see how we can make a NOT gate by
+
+{) > NOTa
+
+The above diagram is of a NOT gate made by using a NOR gate. The circuit diagram is
+
+using only NOR gates.
+
+similar to that of NOT gate made by using only NAND gate.
+
+As demonstrated, the NOR gate alone can configure AND, OR, and NOT gates, affirming its
+
+universal gate status.
+
+In half-wave rectification, the rectifier conducts current only during the positive half-cycles of input
+a.c. supply. The negative half-cycles of a.c. supply are suppressed i.e. during negative half-cycles, no
+current is conducted and hence no voltage appears across the load. Therefore, current always flows
+in one direction (i.e. d.c.) through the load though after every half-cycle.
+
+z
+
+ru
+AC. t
+—T t
+|
+B
+y,
+
+Vout
+in
+
+; AALA,,
+
+0
+(i (ii)
 --- page 8 ---
 A universal motor operates on the principle of electromagnetic induction. It works
 similarly to a DC series motor, where both the field winding and the armature
@@ -2189,6 +2645,28 @@ Q7
 CO-2; SO-
 1; BL-4
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+The formula for real power in an AC circuit:
+P=VxIxpf
+
+Rearranging to find the current (I):
+
+P
+a V x pf
+1500
+~ 220 x 0.5
+1500
+110
+
+I= = 13.64A
+
+The power factor is the cosine of the angle 0:
+pf = cos(@)
+8 =cos *(0.5)
+Using a calculator:
+
+d= 60°
 --- page 10 ---
 Using Ohm's Law in AC circuits:
 
@@ -2320,6 +2798,41 @@ CO-1; SO-
 1; BL-4
 2) Calculation of Rth
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The figure shows the npn transistor with forward bias to emitter-base junction and reverse bias to
+collector-base junction.
+
+The forward bias causes the electrons in the n-type emitter to flow towards the base. This
+constitutes the emitter current |; .
+
+As these electrons flow through the p-type base, they tend to combine with holes.
+
+As the base is lightly doped and very thin, therefore, only a few electrons (less than 5%) combine
+with holes to constitute base current |,.
+The remainder (more than 95%) cross over into the collector region to constitute collector current
+lee
+In this way, almost the entire emitter current flows in the collector circuit.
+It is clear that the emitter current is the sum of collector and base currents
+
+Lele=lg tle
+
+Applying KVL to mesh I,
+
+—SI, -107,-)+2=0
+or — 15/, + 10/, =-2
+Applying KVL to mesh 2,
+
+-10/, -5/, -4—10(/,-1,)=0
+or 10/, -251,=4
+Solving (i) and (ii),
+
+L,=-0.145A
+Hence, Vay = Vag
+
+=+4+ SI,
+=+4+5 (-0.145)
+=3.275 V
 --- page 6 ---
 Q5 CO-4;   b   Explain Universal gate. Verify NOR Gate is a Universal Gate with the help of the   [10]
 SO-1; BL-5   circuit diagrams.
@@ -2327,6 +2840,38 @@ A universal gate, such as a NOR gate can perform any Boolean function
 independently. This means these gates can form any logical Boolean expression
 on their own, simplifying circuit design.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+102 A 52 A A
+
++ 5
+
+> = =
+33.330 => 13.3395 S50 > 23.6360
+2 <= <=
+
+[ f
+
+8 8 8
+Thus, Rru = Ras = 3.636 O
+
+Step III: Calculation of load current
+Thevenin’s equivalent circuit can be drawn as follows:
+
+Rra= 3.636 2
+rA
+I
+Vry= 3.17V = A.=82
+‘B
+By Ohm's law,
+TH
+L=—
+eRe Ria
+Hence,
+3.275
+
+In =Ieq = —————- = 0.281 A(L
+am WEL ®
 --- page 7 ---
 a   Explain the working of half wave rectifier with circuit diagram and waveforms.   [10]
 Q6
@@ -2338,6 +2883,60 @@ CO-3; SO-   universal motor.
 1; BL-5
 Working Principle – 3M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Similar to the NAND gate, the NOR gate can also independently form the three basic gates:
+
+AND, OR, and NOT.
+7
+; - aORb
+b—/ _/
+
+The above diagram is of an OR gate made by only using NOR gates. The output of this gate
+is exactly similar to that of a single OR gate. We can see the circuit arrangement of OR gate
+
+using, NOR gate is similar to that of AND gate using NAND gates.
+
+oD aANDb
+{)-
+
+The above diagram as the name suggests is of AND gate using only NOR gate, again we can
+see that the circuit diagram of AND gate using only NOR gate is exactly similar to that of OR
+gate using only NAND gates. Now we will finally see how we can make a NOT gate by
+
+{) > NOTa
+
+The above diagram is of a NOT gate made by using a NOR gate. The circuit diagram is
+
+using only NOR gates.
+
+similar to that of NOT gate made by using only NAND gate.
+
+As demonstrated, the NOR gate alone can configure AND, OR, and NOT gates, affirming its
+
+universal gate status.
+
+In half-wave rectification, the rectifier conducts current only during the positive half-cycles of input
+a.c. supply. The negative half-cycles of a.c. supply are suppressed i.e. during negative half-cycles, no
+current is conducted and hence no voltage appears across the load. Therefore, current always flows
+in one direction (i.e. d.c.) through the load though after every half-cycle.
+
+z
+
+ru
+AC. t
+—T t
+|
+B
+y,
+
+Vout
+in
+
+; AALA,,
+
+0
+(i (ii)
 --- page 8 ---
 A universal motor operates on the principle of electromagnetic induction. It works
 similarly to a DC series motor, where both the field winding and the armature
@@ -2400,6 +2999,28 @@ Q7
 CO-2; SO-
 1; BL-4
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+The formula for real power in an AC circuit:
+P=VxIxpf
+
+Rearranging to find the current (I):
+
+P
+a V x pf
+1500
+~ 220 x 0.5
+1500
+110
+
+I= = 13.64A
+
+The power factor is the cosine of the angle 0:
+pf = cos(@)
+8 =cos *(0.5)
+Using a calculator:
+
+d= 60°
 --- page 10 ---
 Using Ohm's Law in AC circuits:
 

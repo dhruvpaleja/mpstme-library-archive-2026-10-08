@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_AIML_7053/Random Processes and Estimation Techniques/ANS_Random Processes and Estimation Techniques(702AI0C024)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: mixed (18 pages), mean OCR confidence 73.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -50,6 +51,45 @@ BL-2   (i)   Linear systems
 (ii)   Memoryless systems
 Ans.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Strict-sense stationary process (SSS)
+
+* Definition: The full probability distribution of the process remains unchanged for
+any time shift. 2
+
+* Condition: The joint probability density function of any set of random variables
+from the process is invariant under time shifts. 2
+
+* Implication: This means all statistical moments, including the mean, variance, and
+higher-order moments, are constant over time. 2
+
+Wide-sense stationary process (WSS)
+
+* Definition: The process is “weakly” stationary, focusing on the first two
+moments. 2
+
+* Condition 1: The mean is constant over time. 2
+° E[X()] = » (where pis aconstant) 2
+* Condition 2: The autocorrelation function depends only on the time difference
+between two points, not the individual points. 2
+© E[X(ty)X(t2)] = Rx(t — t2) = Rx(a) (where r= 11-12) 2
+* Relationship to SSS: A WSS process is sufficient for many practical applications,
+
+such as signal analysis and forecasting. For Gaussian processes, the two
+conditions (SSS and WSS) are equivalent. 2
+
+1. Linear Systems
+
+Definition:
+Asystem is linear if it satisfies the properties of additivity and homogeneity (scaling)
+That is, for inputs x(t) and x(t), and constants a, b:
+
+T(ax,(t) + bro(t)| = aT [x (t)] + bT [xo(t)|
+Example:
+y(t) = 3a(t)
+
+This system is linear because output scales and adds directly with the input.
 --- page 3 ---
 c.   Explain Bernoulli process. In a sequence of independent Bernoulli trials,   [04]
 CO-3;   where the probability of success (p) is 0.4, explain what it means to say that
@@ -73,6 +113,28 @@ SO-1 ;   estimator she uses (e.g., sample mean) is reliable and accurate. Explai
 BL-2   criteria that the researcher should consider when selecting a good estimator.
 For each criterion, give an example in the context of this salary survey.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Definition:
+A memoryless system is one where the output at any time depends only on the
+
+input at that same time — not on past or future values.
+
+Example:
+
+y(t) = 2°(t)
+
+This system is memoryless because the output at time t depends only on the current input x(t).
+
+n-1
+
+P(kth success on nth trial) = bs 1
+
+tan
+
+P(6th success on 10th trial) = (?) p°(1—p)!
+
+P = 126 x (0.4)° x (0.6) ~ 0.0669
 --- page 4 ---
 Ans
 CO- 5;   e   [04]
@@ -84,6 +146,35 @@ CO-1;   constants and θ is a uniformly distributed random variable over the int
 SO-1;
 BL-5   (0, 2π). Prove that the given process is wide sense stationary process.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Criterion Explanation Example in Case Study Marks
+
+Unbiasedness The estimators expected value Sample mean salary correctly estimates the population 1
+should equal the true population mean without systematic error.
+parameter.
+
+Consistency The estimator becomes more If the researcher increases the sample to 100 employees, 1
+accurate as sample size increases. the average salary estimate becomes closer to the true
+
+mean.
+
+Efficiency Among unbiased estimators, the Using the sample mean gives a more precise estimate 1
+‘one with the smallest variance is than the sample median if salaries are normally
+preferred. distributed.
+
+Sufficiency The estimator uses all the Sample mean uses all 50 salary values to estimate the 1
+
+information in the sample. population mean.
+
+Example:
+
+Using the same disease test:
+© Ho: Patient does not have the disease
+
+° Hk: Patient has the disease
+
+If the test says the patient is healthy when they actually have the disease — Type II error.
 --- page 5 ---
 Ans. Solution: Given X(t) = Acos(wot + @); where A and wy are constants and
 0 — (0,27); fo(@) = x. The 0 is uniformly distributed between 0 to 27. The
@@ -153,6 +244,51 @@ BL-3
 Solve and check if the given random process is mean-ergodic or not?
 Ans
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+x
+Sx(w) = / Rx(r)e*" dr.
+~
+Given Rx (7) = 0.66 e~'*'/°, split the integral:
+
+oo oS
+
+—0o 0
+
+x oS
+= 0.66 [ eo /Mert de 4 0.06 f eo / Mest de
+0 0
+
+1 1 : eat
+= 0.66 (ao + ox) (using standard exponential integral).
+Combine the terms:
+
+(1/10 + jw) + (1/10 — jw) 2/10
+
+5s eee (0/10)? +a? = 0.66: Toy a
+Simplify:
+2/10=0.2, (1/10)? = 0.01
+0.66 x 0.2 0.132
+Sx) = Goi +a? ~ O01 tat
+Atw = 0.1 rad/s:
+Sy (0.1) = 0.132 0.132 _ 4,
+
+0.01 0.01 0.02
+
+E[x@] = dp XOf@)d¢
+2a 1
+E [cos (t + ¢)] = f cos (t + ¢) nt?
+
+a
+fot. t+¢)d
+ag { ott ayag
+
+1
+Oe [0] = 0 = a constant.
+
+pe ane
+[2 f cos [wt +n6]d6=0, n is an integer, n#0]
+0
 --- page 8 ---
 b   Explain the power spectral density function (or spectral density or power   [10]
 spectrum) of a stationary process.
@@ -166,6 +302,23 @@ BL-2,3
 Solve for the autocorrelation function.
 Ans
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Definition:
+The power spectral density (PSD), Sy (w), of a stationary random process X(t) describes how the power
+of the process is distributed over frequency.
+
+For a wide-sense stationary (WSS) process:
+aa “
+Sxx(w) = / Rxx(r)e "dr
+oo
+where Ryx(r) is the autocorrelation function of X(t).
+
+Key points:
+
+° Sxx(w) is the Fourier Transform of the autocorrelation function.
+° For a zero-mean WSS process, the autocorrelation function and PSD fully describe the process in time
+and frequency domains.
 --- page 9 ---
 a   The transition probability matrix of a Markov chain {Xn}n=1,2,3,….. with three   [10]
 states as follows.
@@ -182,6 +335,17 @@ Solve for:
 (ii)   P (X2 = 2)
 (iii)   P [X3 = 2, X2 = 3, X1 = 3, X0 = 2]
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Since Syx(w) = 1 for |w| < wo and 0 elsewhere:
+
+1s” 5
+Rxx(t) = all 1-e"dw
+wy
+1".
+Rxx(r) => eT dw
+
+2m J wy
 --- page 10 ---
 Ans.
 b   An auto company decided to introduce a new six-cylinder car whose mean   [10]
@@ -192,6 +356,35 @@ BL-4   a standard deviation of 3.5 km per litre. Test for the company at 5% leve
 significance, the claim that in the new petrol consumption is 9.5 km per litre
 on average.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+
+Solution : We have
+
+02 08 03][0.2 0.5 0.3]
+PF =105 O46 04/105 0.4 O-1
+03 0-4 03/103 04 03
+
+fs 0-42 0.20)
+
+0-33 0.45 0.22
+0-35 043 0.22
+
+(i) P(X = 3) =[ Initial distribution } { Third
+
+; Arn:
+= [0-6 0.3 oa
+
+0.22}
+
+= 0-6 x 0-2 +03 x 0-224 04 x0:
+
+= 0-12 + 0-066 + 0-022 = 0-208,
+
+(li) P (X= 2) = [Initial Distribution } x
+
+0.42)
+=[0-6 0.3 vale 5)
 --- page 11 ---
 Ans.
 a   Explain how the good estimate of the population standard deviation 𝜎 is   [10]
@@ -202,6 +395,25 @@ BL-2   whether the mean 𝜇is known or unknown) and give the final expression f
 the MLE of 𝜎.
 Ans.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Solution: Let us assume the null hypothesis Hy that there is no significant difference between the company’s
+claim and the sample average value, that is,
+
+Ho: # = 9.5 km/litre and Hy, : ## 9.5 km/litre
+
+Given ¥ = 10, 7 = 50, s = 3.5, and z,
+
+yg = 1.96 at @ = 0.05 level of significance. Thus, using the
+Ftest statistic
+
+Since 4, = 1.010 is less than its critical value Z,) = 1.96
+
+‘cal
+hypothesis is accepted. Hence we can conclude that the new car's petrol consumption
+
+at @ = 0.05 level of significance, the null
+5 km/litre.
 --- page 12 ---
 b   A market research company wants to know if the proportion of people   [10]
 shopping online has increased. In a survey conducted last year, 220 out of 500
@@ -211,6 +423,29 @@ BL-4   Test for 1% level of significance, whether there has been an increase in 
 proportion of people who prefer online shopping.
 Ans.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+* Last year: ny = 500, 2; = 220 — sample proportion p; = ed = 0.44
+
+* This year: ng = 520, 22 = 290 — sample proportion pz = Ea = 0.5577
+* Significance level: a = 0.01
+
+* We want to test if the proportion has increased — one-tailed test.
+——-(1M)
+
+Step 1: State the hypotheses
+Ho: p2—pi <0 (no increase)
+Hy: p2—p, >0 (increase in proportion)
+———---(1M)
+Step 2: Compute the pooled proportion
+Since this is a two-proportion z-test, we first calculate the pooled proportion:
+
+Z +22 2204290 510
+m+n 500+520 1020
+
+= 0.45
+
+-—-------(1M)
 --- page 13 ---
 a   The Westview High School nurse is interested in knowing the average height   [10]
 of seniors at this school, but she does not have enough time to examine the
@@ -228,6 +463,53 @@ estimates, what should she do.
 what Nurse can do to reduce the chances of errors in her
 estimates.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Compute standard error
+
+The standard error for the difference in proportions is:
+
+sen» (*)
+
+SE = 0.5-0.5
+
+Substitute values:
+
+a,
+
+500 ~ 520
+— + + — 0.002 + 0.001923 ~ 0.003923
+500 ~ 520 ° . ~
+
+SE — V/0.25 - 0.003923 — \/0.00098075 ~ 0.03133
+
+(3M)
+
+Step 4: Compute the test statistic
+
+P2— Pr 0.5577 — 0.44 0.1177
+- = = = 3.76
+* SE 0.03133 0.03133
+
+——-—-----(1M)
+
+Step 5: Determine critical value
+
+© Significance level: a — 0.01
+© One-tailed test — z0.01 ~ 2.33
+——-------(1M)
+
+Step 6: Compare and make decision
+
+z— 3.76 > 2.33 — Reject Ho
+ee (am)
+
+Step 7: Conclusion
+At the 1% significance level. there is sufficient evidence to conclude that the proportion of people
+
+preferring online shopping has increased this year compared to last year.
+
+——--------(1M)
 --- page 14 ---
 Ans.
 • To reduce sampling error and get more precise estimates, the nurse
@@ -257,6 +539,51 @@ CO-3;
 SO-1;   mean rate of 3 per minute.
 BL-3
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1— State hypotheses
+
+We test whether the variance for the modified diet is different from that of the original diet (two-tailed):
+
+Hy: 0? =02 = 32.49 vs. Ha: 0? £32.49.
+
+Step 2 — Test statistic
+
+For a normal population, the test statistic for variance is
+
+which under Ho follows x? distribution with vy = n — 1 degrees of freedom.
+
+Here vy = 21 — 1 = 20. Compute the observed statistic:
+
+20 x 16.81
+2 =.= 10. .
+Xin = S595 10.3478
+
+Step 3 — Critical region (two-tailed)
+For a two-tailed test at level a = 0.01, the critical values are the a/2 = 0.005 and 1 — a/2 = 0.995
+quantiles of X30:
+X6.005,20 © 7.4338, Xi.905,20 © 39.9968.
+Reject Ho if x2,, < 7.4338 or x2, > 39.9968.
+Compare:
+
+10.3478 lies between 7.4338 and 39.9968.
+
+So we do not reject Hy at the 1% level.
+
+Step 4 — p-value (optional)
+Compute p-value (two-sided):
+* Lower tail probability: P(x3y < 10.3478) ~ 0.03858.
+© Upper tail probability: 1 — 0.03858 — 0.96142.
+Two-sided p-value = 2 x min(0.03858, 0.96142) ~ 0.07716.
+
+Since p © 0.07716 > 0.01, this agrees with the decision to not reject Hy.
+
+Step 5 — Conclusion (in words)
+
+At the 1% significance level there is insufficient evidence to conclude that the variance of weight loss under
+the modified diet is different (either larger or smaller) from the variance for the original diet (0 = 5.7). The
+sample variability s = 4.1 is not far enough from the hypothesized variability to be significant at the 1%
+level.
 --- page 16 ---
 Solve for the probability that during a time interval of 2 min
 (i)   exactly 4 customers arrive
@@ -264,6 +591,45 @@ Solve for the probability that during a time interval of 2 min
 (iii)   fewer than 4 customer in 2 minute interval.
 Ans.
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Let X(t) be the number of customers arrive at a bank in the time interval of t.
+(i) Mean rate, 2 = 3 per minute
+
+Time interval, t= 2 per minute
+
+No. of arrivals, n= 4
+
+Se n
+& (£) follows a Poisson process, P [X (f) =n] = oS
+nt
+
+divas (©) Mara
+4! PeHAl
+
+4 customers arrive in | _ a
+[ minute time “heel ies)
+
+= 0.1339
+
+(ii) Mean rate, 4 = 3 per minute
+
+Time interval, t= 2 per minute
+
+No. of arrivals, n= more than 4.
+
+P[more than 4 customers in 2 min. interval]
+
+= P[X(2) > 4] = 1 - P[X(2) <4]
+
+=1- [P EX (2) = 0] + PIX (2) = 1] + PIX (2) = 2]
++ PIX (2) = 3] + PIX (2) =4]|
+eo) 2 86 o °6 2°66 6
+
+Oe cn Sik ee estee OL, aces
+
+= 1-¢e7°[1+6 +18 +36+54] = 1—e7° [115
+= 0.715
 --- page 17 ---
 b   A consumer electronics lab compared the battery life of two brands of   [10]
 smartphones.
@@ -278,6 +644,25 @@ Ans.
 -------(1M)
 Pooled variance
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+(iii) Mean rate, 4 = 3 per minute
+Time interval, t= 2 per minute
+
+No. of arrivals, n= fewer than 4
+
+fewer than 4 customer} _ S
+i: 2 minute interval = OTS 6
+
+= P[X (2) =0) + P[X (2) = 1] + P[X (2) = 2] + P [X (2) = 3]
+
+-6 0 -6,1 6-2 -6 3
+ree 6 4é 6 iret 6 ee 6
+0! 1! 2! 3!
+
+=e ee 4 = (e7) (61) = 0.1512
+
+2 6
 --- page 18 ---
 2 (m —1)s7 + (m2 — 1)85
 ? ny +n2—2
@@ -334,6 +719,7 @@ FR ICR 7] QA HH
 - Source: `02_Question_Papers/2023/Sem_03/Re-Exam/BTech_AIDS_7056/Random Processes and Estimation Techniques/ANS_Random Processes and Estimation Techniques(702AI0C005)_2023-2024.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: mixed (18 pages), mean OCR confidence 73.2
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -375,6 +761,45 @@ BL-2   (i)   Linear systems
 (ii)   Memoryless systems
 Ans.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Strict-sense stationary process (SSS)
+
+* Definition: The full probability distribution of the process remains unchanged for
+any time shift. 2
+
+* Condition: The joint probability density function of any set of random variables
+from the process is invariant under time shifts. 2
+
+* Implication: This means all statistical moments, including the mean, variance, and
+higher-order moments, are constant over time. 2
+
+Wide-sense stationary process (WSS)
+
+* Definition: The process is “weakly” stationary, focusing on the first two
+moments. 2
+
+* Condition 1: The mean is constant over time. 2
+° E[X()] = » (where pis aconstant) 2
+* Condition 2: The autocorrelation function depends only on the time difference
+between two points, not the individual points. 2
+© E[X(ty)X(t2)] = Rx(t — t2) = Rx(a) (where r= 11-12) 2
+* Relationship to SSS: A WSS process is sufficient for many practical applications,
+
+such as signal analysis and forecasting. For Gaussian processes, the two
+conditions (SSS and WSS) are equivalent. 2
+
+1. Linear Systems
+
+Definition:
+Asystem is linear if it satisfies the properties of additivity and homogeneity (scaling)
+That is, for inputs x(t) and x(t), and constants a, b:
+
+T(ax,(t) + bro(t)| = aT [x (t)] + bT [xo(t)|
+Example:
+y(t) = 3a(t)
+
+This system is linear because output scales and adds directly with the input.
 --- page 3 ---
 c.   Explain Bernoulli process. In a sequence of independent Bernoulli trials,   [04]
 CO-3;   where the probability of success (p) is 0.4, explain what it means to say that
@@ -398,6 +823,28 @@ SO-1 ;   estimator she uses (e.g., sample mean) is reliable and accurate. Explai
 BL-2   criteria that the researcher should consider when selecting a good estimator.
 For each criterion, give an example in the context of this salary survey.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Definition:
+A memoryless system is one where the output at any time depends only on the
+
+input at that same time — not on past or future values.
+
+Example:
+
+y(t) = 2°(t)
+
+This system is memoryless because the output at time t depends only on the current input x(t).
+
+n-1
+
+P(kth success on nth trial) = bs 1
+
+tan
+
+P(6th success on 10th trial) = (?) p°(1—p)!
+
+P = 126 x (0.4)° x (0.6) ~ 0.0669
 --- page 4 ---
 Ans
 CO- 5;   e   [04]
@@ -409,6 +856,35 @@ CO-1;   constants and θ is a uniformly distributed random variable over the int
 SO-1;
 BL-5   (0, 2π). Prove that the given process is wide sense stationary process.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Criterion Explanation Example in Case Study Marks
+
+Unbiasedness The estimators expected value Sample mean salary correctly estimates the population 1
+should equal the true population mean without systematic error.
+parameter.
+
+Consistency The estimator becomes more If the researcher increases the sample to 100 employees, 1
+accurate as sample size increases. the average salary estimate becomes closer to the true
+
+mean.
+
+Efficiency Among unbiased estimators, the Using the sample mean gives a more precise estimate 1
+‘one with the smallest variance is than the sample median if salaries are normally
+preferred. distributed.
+
+Sufficiency The estimator uses all the Sample mean uses all 50 salary values to estimate the 1
+
+information in the sample. population mean.
+
+Example:
+
+Using the same disease test:
+© Ho: Patient does not have the disease
+
+° Hk: Patient has the disease
+
+If the test says the patient is healthy when they actually have the disease — Type II error.
 --- page 5 ---
 Ans. Solution: Given X(t) = Acos(wot + @); where A and wy are constants and
 0 — (0,27); fo(@) = x. The 0 is uniformly distributed between 0 to 27. The
@@ -478,6 +954,51 @@ BL-3
 Solve and check if the given random process is mean-ergodic or not?
 Ans
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+x
+Sx(w) = / Rx(r)e*" dr.
+~
+Given Rx (7) = 0.66 e~'*'/°, split the integral:
+
+oo oS
+
+—0o 0
+
+x oS
+= 0.66 [ eo /Mert de 4 0.06 f eo / Mest de
+0 0
+
+1 1 : eat
+= 0.66 (ao + ox) (using standard exponential integral).
+Combine the terms:
+
+(1/10 + jw) + (1/10 — jw) 2/10
+
+5s eee (0/10)? +a? = 0.66: Toy a
+Simplify:
+2/10=0.2, (1/10)? = 0.01
+0.66 x 0.2 0.132
+Sx) = Goi +a? ~ O01 tat
+Atw = 0.1 rad/s:
+Sy (0.1) = 0.132 0.132 _ 4,
+
+0.01 0.01 0.02
+
+E[x@] = dp XOf@)d¢
+2a 1
+E [cos (t + ¢)] = f cos (t + ¢) nt?
+
+a
+fot. t+¢)d
+ag { ott ayag
+
+1
+Oe [0] = 0 = a constant.
+
+pe ane
+[2 f cos [wt +n6]d6=0, n is an integer, n#0]
+0
 --- page 8 ---
 b   Explain the power spectral density function (or spectral density or power   [10]
 spectrum) of a stationary process.
@@ -491,6 +1012,23 @@ BL-2,3
 Solve for the autocorrelation function.
 Ans
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Definition:
+The power spectral density (PSD), Sy (w), of a stationary random process X(t) describes how the power
+of the process is distributed over frequency.
+
+For a wide-sense stationary (WSS) process:
+aa “
+Sxx(w) = / Rxx(r)e "dr
+oo
+where Ryx(r) is the autocorrelation function of X(t).
+
+Key points:
+
+° Sxx(w) is the Fourier Transform of the autocorrelation function.
+° For a zero-mean WSS process, the autocorrelation function and PSD fully describe the process in time
+and frequency domains.
 --- page 9 ---
 a   The transition probability matrix of a Markov chain {Xn}n=1,2,3,….. with three   [10]
 states as follows.
@@ -507,6 +1045,17 @@ Solve for:
 (ii)   P (X2 = 2)
 (iii)   P [X3 = 2, X2 = 3, X1 = 3, X0 = 2]
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Since Syx(w) = 1 for |w| < wo and 0 elsewhere:
+
+1s” 5
+Rxx(t) = all 1-e"dw
+wy
+1".
+Rxx(r) => eT dw
+
+2m J wy
 --- page 10 ---
 Ans.
 b   An auto company decided to introduce a new six-cylinder car whose mean   [10]
@@ -517,6 +1066,35 @@ BL-4   a standard deviation of 3.5 km per litre. Test for the company at 5% leve
 significance, the claim that in the new petrol consumption is 9.5 km per litre
 on average.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+
+Solution : We have
+
+02 08 03][0.2 0.5 0.3]
+PF =105 O46 04/105 0.4 O-1
+03 0-4 03/103 04 03
+
+fs 0-42 0.20)
+
+0-33 0.45 0.22
+0-35 043 0.22
+
+(i) P(X = 3) =[ Initial distribution } { Third
+
+; Arn:
+= [0-6 0.3 oa
+
+0.22}
+
+= 0-6 x 0-2 +03 x 0-224 04 x0:
+
+= 0-12 + 0-066 + 0-022 = 0-208,
+
+(li) P (X= 2) = [Initial Distribution } x
+
+0.42)
+=[0-6 0.3 vale 5)
 --- page 11 ---
 Ans.
 a   Explain how the good estimate of the population standard deviation 𝜎 is   [10]
@@ -527,6 +1105,25 @@ BL-2   whether the mean 𝜇is known or unknown) and give the final expression f
 the MLE of 𝜎.
 Ans.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Solution: Let us assume the null hypothesis Hy that there is no significant difference between the company’s
+claim and the sample average value, that is,
+
+Ho: # = 9.5 km/litre and Hy, : ## 9.5 km/litre
+
+Given ¥ = 10, 7 = 50, s = 3.5, and z,
+
+yg = 1.96 at @ = 0.05 level of significance. Thus, using the
+Ftest statistic
+
+Since 4, = 1.010 is less than its critical value Z,) = 1.96
+
+‘cal
+hypothesis is accepted. Hence we can conclude that the new car's petrol consumption
+
+at @ = 0.05 level of significance, the null
+5 km/litre.
 --- page 12 ---
 b   A market research company wants to know if the proportion of people   [10]
 shopping online has increased. In a survey conducted last year, 220 out of 500
@@ -536,6 +1133,29 @@ BL-4   Test for 1% level of significance, whether there has been an increase in 
 proportion of people who prefer online shopping.
 Ans.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+* Last year: ny = 500, 2; = 220 — sample proportion p; = ed = 0.44
+
+* This year: ng = 520, 22 = 290 — sample proportion pz = Ea = 0.5577
+* Significance level: a = 0.01
+
+* We want to test if the proportion has increased — one-tailed test.
+——-(1M)
+
+Step 1: State the hypotheses
+Ho: p2—pi <0 (no increase)
+Hy: p2—p, >0 (increase in proportion)
+———---(1M)
+Step 2: Compute the pooled proportion
+Since this is a two-proportion z-test, we first calculate the pooled proportion:
+
+Z +22 2204290 510
+m+n 500+520 1020
+
+= 0.45
+
+-—-------(1M)
 --- page 13 ---
 a   The Westview High School nurse is interested in knowing the average height   [10]
 of seniors at this school, but she does not have enough time to examine the
@@ -553,6 +1173,53 @@ estimates, what should she do.
 what Nurse can do to reduce the chances of errors in her
 estimates.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Compute standard error
+
+The standard error for the difference in proportions is:
+
+sen» (*)
+
+SE = 0.5-0.5
+
+Substitute values:
+
+a,
+
+500 ~ 520
+— + + — 0.002 + 0.001923 ~ 0.003923
+500 ~ 520 ° . ~
+
+SE — V/0.25 - 0.003923 — \/0.00098075 ~ 0.03133
+
+(3M)
+
+Step 4: Compute the test statistic
+
+P2— Pr 0.5577 — 0.44 0.1177
+- = = = 3.76
+* SE 0.03133 0.03133
+
+——-—-----(1M)
+
+Step 5: Determine critical value
+
+© Significance level: a — 0.01
+© One-tailed test — z0.01 ~ 2.33
+——-------(1M)
+
+Step 6: Compare and make decision
+
+z— 3.76 > 2.33 — Reject Ho
+ee (am)
+
+Step 7: Conclusion
+At the 1% significance level. there is sufficient evidence to conclude that the proportion of people
+
+preferring online shopping has increased this year compared to last year.
+
+——--------(1M)
 --- page 14 ---
 Ans.
 • To reduce sampling error and get more precise estimates, the nurse
@@ -582,6 +1249,51 @@ CO-3;
 SO-1;   mean rate of 3 per minute.
 BL-3
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1— State hypotheses
+
+We test whether the variance for the modified diet is different from that of the original diet (two-tailed):
+
+Hy: 0? =02 = 32.49 vs. Ha: 0? £32.49.
+
+Step 2 — Test statistic
+
+For a normal population, the test statistic for variance is
+
+which under Ho follows x? distribution with vy = n — 1 degrees of freedom.
+
+Here vy = 21 — 1 = 20. Compute the observed statistic:
+
+20 x 16.81
+2 =.= 10. .
+Xin = S595 10.3478
+
+Step 3 — Critical region (two-tailed)
+For a two-tailed test at level a = 0.01, the critical values are the a/2 = 0.005 and 1 — a/2 = 0.995
+quantiles of X30:
+X6.005,20 © 7.4338, Xi.905,20 © 39.9968.
+Reject Ho if x2,, < 7.4338 or x2, > 39.9968.
+Compare:
+
+10.3478 lies between 7.4338 and 39.9968.
+
+So we do not reject Hy at the 1% level.
+
+Step 4 — p-value (optional)
+Compute p-value (two-sided):
+* Lower tail probability: P(x3y < 10.3478) ~ 0.03858.
+© Upper tail probability: 1 — 0.03858 — 0.96142.
+Two-sided p-value = 2 x min(0.03858, 0.96142) ~ 0.07716.
+
+Since p © 0.07716 > 0.01, this agrees with the decision to not reject Hy.
+
+Step 5 — Conclusion (in words)
+
+At the 1% significance level there is insufficient evidence to conclude that the variance of weight loss under
+the modified diet is different (either larger or smaller) from the variance for the original diet (0 = 5.7). The
+sample variability s = 4.1 is not far enough from the hypothesized variability to be significant at the 1%
+level.
 --- page 16 ---
 Solve for the probability that during a time interval of 2 min
 (i)   exactly 4 customers arrive
@@ -589,6 +1301,45 @@ Solve for the probability that during a time interval of 2 min
 (iii)   fewer than 4 customer in 2 minute interval.
 Ans.
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Let X(t) be the number of customers arrive at a bank in the time interval of t.
+(i) Mean rate, 2 = 3 per minute
+
+Time interval, t= 2 per minute
+
+No. of arrivals, n= 4
+
+Se n
+& (£) follows a Poisson process, P [X (f) =n] = oS
+nt
+
+divas (©) Mara
+4! PeHAl
+
+4 customers arrive in | _ a
+[ minute time “heel ies)
+
+= 0.1339
+
+(ii) Mean rate, 4 = 3 per minute
+
+Time interval, t= 2 per minute
+
+No. of arrivals, n= more than 4.
+
+P[more than 4 customers in 2 min. interval]
+
+= P[X(2) > 4] = 1 - P[X(2) <4]
+
+=1- [P EX (2) = 0] + PIX (2) = 1] + PIX (2) = 2]
++ PIX (2) = 3] + PIX (2) =4]|
+eo) 2 86 o °6 2°66 6
+
+Oe cn Sik ee estee OL, aces
+
+= 1-¢e7°[1+6 +18 +36+54] = 1—e7° [115
+= 0.715
 --- page 17 ---
 b   A consumer electronics lab compared the battery life of two brands of   [10]
 smartphones.
@@ -603,6 +1354,25 @@ Ans.
 -------(1M)
 Pooled variance
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+(iii) Mean rate, 4 = 3 per minute
+Time interval, t= 2 per minute
+
+No. of arrivals, n= fewer than 4
+
+fewer than 4 customer} _ S
+i: 2 minute interval = OTS 6
+
+= P[X (2) =0) + P[X (2) = 1] + P[X (2) = 2] + P [X (2) = 3]
+
+-6 0 -6,1 6-2 -6 3
+ree 6 4é 6 iret 6 ee 6
+0! 1! 2! 3!
+
+=e ee 4 = (e7) (61) = 0.1512
+
+2 6
 --- page 18 ---
 2 (m —1)s7 + (m2 — 1)85
 ? ny +n2—2
@@ -659,6 +1429,7 @@ FR ICR 7] QA HH
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_AIDS_7056/Random Processes and Estimation Techniques/ANS_Random Processes and Estimation Techniques(702AI0C024)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Feb 2026
 - Text: mixed (20 pages), mean OCR confidence 73.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -743,6 +1514,38 @@ CO- 5;   e   Compare null and alternate hypothesis. Also explain the significanc
 SO- 1;
 BL-2   tailed and two tailed test in hypothesis testing.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+The confidence level is the probability that your confidence interval truly
+captures the population parameter being estimated.
+
+So if we have a 95% confidence level, we can be confident that 95% of the time
+(19 out of 20), our interval estimate will accurately captures the true parameter
+
+being estimated.
+
+Random, independent sample groups...
+
+TTT Tp
+
+Up until this point I’ve only used the 95% confidence level, but your
+confidence level can vary.
+
+You can be 80% confident, 90%, 99% etc.
+
+The confidence level you choose is based on risk — specifically your alpha
+
+risk (a).
+
+Alpha risk is also called your significance level and it is the risk that you will
+not accurately capture the true population parameter.
+
+Your Confidence Level then is equal to 100% minus your significance level
+(qa).
+
+Confidence Level = 100% — Significance Level (a)
+
+So if your significance level is 0.05 (5%), then your confidence level is 95%.
 --- page 5 ---
 Comparision of null alternate 2M
 Significance of one taile/2 tail – 2 M
@@ -754,6 +1557,52 @@ SO-1;   where A and θ are independent variables. A is a random variable with me
 BL-5   and variance 1. θ is uniformly distributed in [-π,π ]. Prove that X(t) is WSS
 process.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Null vs. alternative hypothesis
+
+Feature Null Hypothesis (Hp) Alternative Hypothesis (H,, or H,)
+
+Definition States that there is no significant States that there is a statistically significant
+relationship or difference between relationship or difference between
+variables. It represents the status variables. It is the inverse of the null
+quo or a default assumption. hypothesis and what the researcher often
+
+aims to prove.
+
+Purpose To be disproven or rejected. To be supported or accepted if the null
+hypothesis is rejected.
+
+Example Ho: Anew drug has no effect on H,: Anew drug has an effect on blood
+blood pressure. pressure.
+
+Relationship The statement of the null The nature of the alternative hypothesis
+
+to Test hypothesis provides the value tobe determines if a one-tailed or two-tailed
+tested against. test is appropriate.
+
+Significance of one-tailed and two-tailed tests
+
+Feature One-Tailed Test Two-Tailed Test
+
+Directionality Tests for a specific, one-sided effect Tests for a change in either direction
+
+(e.g., is variable X greater than (e.g., is variable X different from variable
+variable Y, or is it less than?). Y?).
+When toUse —- When there is a strong, a priori When you are interested in detecting a
+
+reason to believe the effect can only significant difference or relationship
+go in one direction, and results inthe without making assumptions about its
+
+other direction are not relevant or direction.
+meaningful.
+Statistical Can have greater statistical power to — Less powerful than a one-tailed test for a
+Power detect an effect if the assumption directional effect because the
+about the direction is correct. It can significance level is split between two
+use a smaller sample size for the tails. Requires a larger sample size to
+same level of confidence. achieve the same power as a one-tailed
+
+test.
 --- page 6 ---
 Given: X(t) =A cos (100 t+ 8)
 
@@ -795,6 +1644,37 @@ process.
 2M
 6M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+=5E [cos (100 (4 + #2) +28) + cos (100 (4 ~ 4))
+
+(2G) =1)
+
+cosA cos B = 5 [cos (A + B) + cos (A — B)]
+
+= i E [cos (100 (t) +) + 26) | +5 [cos (100 (% = ))|
+[. E [constant] = constant]
+
+E [cos (100 (4 + f) + 26) |
+
+¥ 1
+= J cos (100 ( +) + 26) 5,48
+
+1
+
+= 37 = 0
+x
+
+(- f cosfwt+n6]d0=0,n is an integer, n + 0]
+ar, 4
+
+& QB) > Rist) = $0) +5 cos [100 (4 — 6)
+
+= cos [100 (4; — {)] = a function of (f; — 4)
+
+Both the conditions are satisfied.
+
+Hence, X (t) is a WSS process.
 --- page 8 ---
 a   A random process is given by 𝑋(𝑡) = 𝐴 𝑐𝑜𝑠 𝑤 𝑡+ 𝐵 𝑠𝑖𝑛 𝑤 𝑡 where A and B   [10]
 Q3
@@ -864,6 +1744,59 @@ CO-2;   b   Identify whether the following systems are linear and time invariant
 SO-1;   (i)   𝑦(𝑡) = 5𝑥(𝑡) −3
 BL-2,3   (ii)   𝑦(𝑡) = 𝑥(𝑡) + 𝑥(𝑡−1)
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Compute the time average mean of one realization:
+. 1 ft 1 ft
+Xp= z/ X(t) dt = z/ (Acos(wt) + B sin(wt)) dt.
+T Jo T Jo
+Integrate term by term:
+. Aft B ft
+Xp = <[ cos(wt) dt + z[ sin(wt) dt.
+T Jo T Jo
+
+Compute integrals:
+
+v si T _
+| cos(wt) dt = sin) | | sin(wt) dt = 1 cos(wP)
+0 Ww 0 w
+
+Substitute:
+
+= _A sin(WwT) _B 1~—cos(wT)
+a a
+
+Simplify:
+
+Xp= = [Asin(wT) + B(1 — cos(wT))] .
+
+Take the limit as T — oo:
+Since sin(wT) and cos(wT’) are bounded (—1 to 1):
+
+lim sin(wT) 0, lim 1 —cos(wT)
+
+T-00 T-00
+
+= 0.
+
+Take the limit as T — 00:
+Since sin(wT) and cos(wT)) are bounded (—1 to 1):
+
+sin(wT) 0. lim 1—cos(wT)
+
+T0200 T00
+
+= 0.
+
+Therefore:
+lim Xp = 0.
+T00
+
+This equals E[X(t)] = 0.
+
+Step 5: Final conclusion
+
+The process X(t) = Acos(wt) + B sin(wt) is mean ergodic.
 --- page 11 ---
 Linearity and time invariant 5 marks each
 a   Suppose, the probability of a dry day (state 0) following a rainy day (state 1)   [10]
@@ -872,6 +1805,32 @@ CO-3 ;   that May 1 is a dry day, Solve for the probability that (a) May 3 is al
 SO- 1;
 BL-3   day and (b) May 5 is also a dry day.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+- y(t) = 5.x(t)-3
+Let:
+
+© x) > yO) = 5xy() -3
+© x(t) > y(t) = 5x2(t) - 3
+Additivity check:
+x(t) = x4 (t) + x2(0) > y(t) = 5[x4(©) + x2(0)] — 3 = Sxy(t) + 5xQ(t) — 3
+But:
+¥,O +y¥,© = (5x, — 3] + [5x2 (t) — 3] = 5xy(e) + 5x2 (t) — 6
+X Additivity fails
+
+Non-linear
+
+- y(t) = x(t)+x(t-1)
+Let:
+© x(t) > y(t) = x(t) + x(t — 1)
+© x(t) > y2(6) = x2(t) + x2(t- 1)
+
+Additivity check:
+xD = 10 +2) = yO = 1 +2 +u-)+a-D=9,O+¥,0
+
+Additivity holds
+
+Linear
 --- page 12 ---
 Ans. Solution :
 
@@ -915,6 +1874,31 @@ SO-1;   assumptions you use and give the final expression for the MLE probabilit
 BL-2
 success p.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Solution : Given : ny = 50, x = 68.2, 5, =2.5
+ny = 50, %,=675, 52=28
+1. Ho: =p (or) =x
+2. Hy: 4, >#2 (or) % >X)
+[Use one-tailed test (right)] ("." taller than)
+3. a=5%
+
+4. Table value | Z| = 1.645 [See Page 1.7]
+5. Calculate :
+
+z= = Ze ne 68.2 — 67.5 = 132
+2 2
+V Sy i iy (25) rf (2.8)
+m mM 50 50
+6. Conclusion :
+Here Cal Z < table Z
+
+ie., 1.32 < 1.645
+So, we accept Hp at 5% level of significance.
+
+We conclude that the college athletes are not taller than other male students.
 --- page 15 ---
 b   A company has the head office at Calcutta and a branch at Bombay. The   [10]
 personnel director wanted to know if the workers at the two places would like
@@ -942,6 +1926,39 @@ typographical errors per page in Jon’s dissertation.
 quality of his typing? For example, can he be reasonably confident that his
 average number of typos per page is below 5? Explain briefly.
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Given:
+
+Given: ny = 500, p, = 062
+m= 400, pp = 1-041 = 0.59
+
+mp; +n.
+POL a + 2P2 _ (500) (0.62) + (400) (0.59) _ 0.607
+ptr 500 + 400
+
+Q =1-P = 1-0607 = 0393
+1. Hp Py = P [there is no significant difference between the two groups in their attitude towards the new
+plan]
+2. Hy : P; # Pp [Two-tailed]
+3.a= 0.05
+4. Table value |Z| = 1.96
+
+5. Calculate :
+
+S Pi-P2 0 0.62 — 0.59 = 0917
+
+
+n2
+
+6. Conclusion:
+
+Here, Cal Z < table Z
+ie., 0.917 < 1.96
+So, we accept Ho at 5% level of significance.
+
+Hence we conclude that there is no significant difference between the two groups in their attitude towards
+the new plan.
 --- page 17 ---
 Inference about overall typing quality
 • The confidence interval tells us that, with 90% confidence, the true
@@ -967,6 +1984,41 @@ CO-3;   (i)   𝑋(9) ≤4.
 SO-1;
 BL-3   (ii)   𝑋(11) ≤11.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+Solution :
+
+Given: n= 11, 07 = 0.16
+
+x x=x (x - xy?
+25 ~0.01 0.0001
+23 ~0.21 0.0441
+24 0.11 0.0121
+23 ~0.21 0.0441
+25 0.01 0.0001
+27 +0.19 0.0361
+25 0.01 0.0001
+2.6 +0.09 0.0081
+2.6 +0.09 0.0081
+27 +0.19 0.0361
+25 ~0.01 0.0001
+X= 218 = 251 =(x— X)* = 01891
+1. Ho: o& = 0.16
+2. Hy: 0° 0.16
+a
+a. Cal 72 poet
+me Lip ante ae = at wo = 23.209
+a 0.16
+
+= 1,182 [See Table > Ty]
+
+4. Conclusion :
+
+Here Cal x? < table x?
+Le., 1.182 < 23.209
+So, we accept Hy: 0? = 0.16
+
+We conclude that the data are consistent with the hypothesis that the precision of the instrument is 0.16.
 --- page 19 ---
 b   [10]
 A certain injection administered to each of 12 patients resulted in
@@ -977,6 +2029,43 @@ BL- 4   Test at 5% level of significance whether it can be concluded that
 the injection will be, in general, accompanied by an increase in
 B.P?
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+- Mean: (9) = 7
+¢ Variance: 7? = C(9,9) =5-e 919 9% —~5-1=5
+
+So:
+X(9) ~ N(u = 7,07 = 5)
+
+zg. X@)—H _ X(9)~7
+
+o V5
+A 7 3
+P(X(9)=< 4)= P(Z=<= = P(Z< —
+(X(9) < 4) = P(2z < = (2 <= =)
+V5 = 2.236
+3
+= 5036 ~ 1.342
+
+P(Z < —1.342)
+
+P(Z < —1.34) ~ 0.0901
+
+(b) P(X (11) < 11)
+1. X(11) ~ N(7,5) as above.
+2. Standardize:
+
+P(X(11) < 11) = P(z < ~*) = P(z < =) .
+
+3. Compute the z-value:
+
+4
+22= Do3607 ~ 1.78885.
+
+4. From standard normal table / calculator:
+P(Z < 1.78885) ~ 0.9633.
+
+Answer: P(X (11) < 11) © 0.9633 (about 96.33%).
 --- page 20 ---
 Solution: Given: n= 12
 
@@ -1025,6 +2114,7 @@ FRI ICR DO) A RH
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_AIML_7053/Random Processes and Estimation Techniques/ANS_Random Processes and Estimation Techniques(702AI0C024)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Feb 2026
 - Text: mixed (20 pages), mean OCR confidence 73.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1109,6 +2199,38 @@ CO- 5;   e   Compare null and alternate hypothesis. Also explain the significanc
 SO- 1;
 BL-2   tailed and two tailed test in hypothesis testing.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+The confidence level is the probability that your confidence interval truly
+captures the population parameter being estimated.
+
+So if we have a 95% confidence level, we can be confident that 95% of the time
+(19 out of 20), our interval estimate will accurately captures the true parameter
+
+being estimated.
+
+Random, independent sample groups...
+
+TTT Tp
+
+Up until this point I’ve only used the 95% confidence level, but your
+confidence level can vary.
+
+You can be 80% confident, 90%, 99% etc.
+
+The confidence level you choose is based on risk — specifically your alpha
+
+risk (a).
+
+Alpha risk is also called your significance level and it is the risk that you will
+not accurately capture the true population parameter.
+
+Your Confidence Level then is equal to 100% minus your significance level
+(qa).
+
+Confidence Level = 100% — Significance Level (a)
+
+So if your significance level is 0.05 (5%), then your confidence level is 95%.
 --- page 5 ---
 Comparision of null alternate 2M
 Significance of one taile/2 tail – 2 M
@@ -1120,6 +2242,52 @@ SO-1;   where A and θ are independent variables. A is a random variable with me
 BL-5   and variance 1. θ is uniformly distributed in [-π,π ]. Prove that X(t) is WSS
 process.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Null vs. alternative hypothesis
+
+Feature Null Hypothesis (Hp) Alternative Hypothesis (H,, or H,)
+
+Definition States that there is no significant States that there is a statistically significant
+relationship or difference between relationship or difference between
+variables. It represents the status variables. It is the inverse of the null
+quo or a default assumption. hypothesis and what the researcher often
+
+aims to prove.
+
+Purpose To be disproven or rejected. To be supported or accepted if the null
+hypothesis is rejected.
+
+Example Ho: Anew drug has no effect on H,: Anew drug has an effect on blood
+blood pressure. pressure.
+
+Relationship The statement of the null The nature of the alternative hypothesis
+
+to Test hypothesis provides the value tobe determines if a one-tailed or two-tailed
+tested against. test is appropriate.
+
+Significance of one-tailed and two-tailed tests
+
+Feature One-Tailed Test Two-Tailed Test
+
+Directionality Tests for a specific, one-sided effect Tests for a change in either direction
+
+(e.g., is variable X greater than (e.g., is variable X different from variable
+variable Y, or is it less than?). Y?).
+When toUse —- When there is a strong, a priori When you are interested in detecting a
+
+reason to believe the effect can only significant difference or relationship
+go in one direction, and results inthe without making assumptions about its
+
+other direction are not relevant or direction.
+meaningful.
+Statistical Can have greater statistical power to — Less powerful than a one-tailed test for a
+Power detect an effect if the assumption directional effect because the
+about the direction is correct. It can significance level is split between two
+use a smaller sample size for the tails. Requires a larger sample size to
+same level of confidence. achieve the same power as a one-tailed
+
+test.
 --- page 6 ---
 Given: X(t) =A cos (100 t+ 8)
 
@@ -1161,6 +2329,37 @@ process.
 2M
 6M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+=5E [cos (100 (4 + #2) +28) + cos (100 (4 ~ 4))
+
+(2G) =1)
+
+cosA cos B = 5 [cos (A + B) + cos (A — B)]
+
+= i E [cos (100 (t) +) + 26) | +5 [cos (100 (% = ))|
+[. E [constant] = constant]
+
+E [cos (100 (4 + f) + 26) |
+
+¥ 1
+= J cos (100 ( +) + 26) 5,48
+
+1
+
+= 37 = 0
+x
+
+(- f cosfwt+n6]d0=0,n is an integer, n + 0]
+ar, 4
+
+& QB) > Rist) = $0) +5 cos [100 (4 — 6)
+
+= cos [100 (4; — {)] = a function of (f; — 4)
+
+Both the conditions are satisfied.
+
+Hence, X (t) is a WSS process.
 --- page 8 ---
 a   A random process is given by 𝑋(𝑡) = 𝐴 𝑐𝑜𝑠 𝑤 𝑡+ 𝐵 𝑠𝑖𝑛 𝑤 𝑡 where A and B   [10]
 Q3
@@ -1230,6 +2429,59 @@ CO-2;   b   Identify whether the following systems are linear and time invariant
 SO-1;   (i)   𝑦(𝑡) = 5𝑥(𝑡) −3
 BL-2,3   (ii)   𝑦(𝑡) = 𝑥(𝑡) + 𝑥(𝑡−1)
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Compute the time average mean of one realization:
+. 1 ft 1 ft
+Xp= z/ X(t) dt = z/ (Acos(wt) + B sin(wt)) dt.
+T Jo T Jo
+Integrate term by term:
+. Aft B ft
+Xp = <[ cos(wt) dt + z[ sin(wt) dt.
+T Jo T Jo
+
+Compute integrals:
+
+v si T _
+| cos(wt) dt = sin) | | sin(wt) dt = 1 cos(wP)
+0 Ww 0 w
+
+Substitute:
+
+= _A sin(WwT) _B 1~—cos(wT)
+a a
+
+Simplify:
+
+Xp= = [Asin(wT) + B(1 — cos(wT))] .
+
+Take the limit as T — oo:
+Since sin(wT) and cos(wT’) are bounded (—1 to 1):
+
+lim sin(wT) 0, lim 1 —cos(wT)
+
+T-00 T-00
+
+= 0.
+
+Take the limit as T — 00:
+Since sin(wT) and cos(wT)) are bounded (—1 to 1):
+
+sin(wT) 0. lim 1—cos(wT)
+
+T0200 T00
+
+= 0.
+
+Therefore:
+lim Xp = 0.
+T00
+
+This equals E[X(t)] = 0.
+
+Step 5: Final conclusion
+
+The process X(t) = Acos(wt) + B sin(wt) is mean ergodic.
 --- page 11 ---
 Linearity and time invariant 5 marks each
 a   Suppose, the probability of a dry day (state 0) following a rainy day (state 1)   [10]
@@ -1238,6 +2490,32 @@ CO-3 ;   that May 1 is a dry day, Solve for the probability that (a) May 3 is al
 SO- 1;
 BL-3   day and (b) May 5 is also a dry day.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+- y(t) = 5.x(t)-3
+Let:
+
+© x) > yO) = 5xy() -3
+© x(t) > y(t) = 5x2(t) - 3
+Additivity check:
+x(t) = x4 (t) + x2(0) > y(t) = 5[x4(©) + x2(0)] — 3 = Sxy(t) + 5xQ(t) — 3
+But:
+¥,O +y¥,© = (5x, — 3] + [5x2 (t) — 3] = 5xy(e) + 5x2 (t) — 6
+X Additivity fails
+
+Non-linear
+
+- y(t) = x(t)+x(t-1)
+Let:
+© x(t) > y(t) = x(t) + x(t — 1)
+© x(t) > y2(6) = x2(t) + x2(t- 1)
+
+Additivity check:
+xD = 10 +2) = yO = 1 +2 +u-)+a-D=9,O+¥,0
+
+Additivity holds
+
+Linear
 --- page 12 ---
 Ans. Solution :
 
@@ -1281,6 +2559,31 @@ SO-1;   assumptions you use and give the final expression for the MLE probabilit
 BL-2
 success p.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Solution : Given : ny = 50, x = 68.2, 5, =2.5
+ny = 50, %,=675, 52=28
+1. Ho: =p (or) =x
+2. Hy: 4, >#2 (or) % >X)
+[Use one-tailed test (right)] ("." taller than)
+3. a=5%
+
+4. Table value | Z| = 1.645 [See Page 1.7]
+5. Calculate :
+
+z= = Ze ne 68.2 — 67.5 = 132
+2 2
+V Sy i iy (25) rf (2.8)
+m mM 50 50
+6. Conclusion :
+Here Cal Z < table Z
+
+ie., 1.32 < 1.645
+So, we accept Hp at 5% level of significance.
+
+We conclude that the college athletes are not taller than other male students.
 --- page 15 ---
 b   A company has the head office at Calcutta and a branch at Bombay. The   [10]
 personnel director wanted to know if the workers at the two places would like
@@ -1308,6 +2611,39 @@ typographical errors per page in Jon’s dissertation.
 quality of his typing? For example, can he be reasonably confident that his
 average number of typos per page is below 5? Explain briefly.
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Given:
+
+Given: ny = 500, p, = 062
+m= 400, pp = 1-041 = 0.59
+
+mp; +n.
+POL a + 2P2 _ (500) (0.62) + (400) (0.59) _ 0.607
+ptr 500 + 400
+
+Q =1-P = 1-0607 = 0393
+1. Hp Py = P [there is no significant difference between the two groups in their attitude towards the new
+plan]
+2. Hy : P; # Pp [Two-tailed]
+3.a= 0.05
+4. Table value |Z| = 1.96
+
+5. Calculate :
+
+S Pi-P2 0 0.62 — 0.59 = 0917
+
+
+n2
+
+6. Conclusion:
+
+Here, Cal Z < table Z
+ie., 0.917 < 1.96
+So, we accept Ho at 5% level of significance.
+
+Hence we conclude that there is no significant difference between the two groups in their attitude towards
+the new plan.
 --- page 17 ---
 Inference about overall typing quality
 • The confidence interval tells us that, with 90% confidence, the true
@@ -1333,6 +2669,41 @@ CO-3;   (i)   𝑋(9) ≤4.
 SO-1;
 BL-3   (ii)   𝑋(11) ≤11.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+Solution :
+
+Given: n= 11, 07 = 0.16
+
+x x=x (x - xy?
+25 ~0.01 0.0001
+23 ~0.21 0.0441
+24 0.11 0.0121
+23 ~0.21 0.0441
+25 0.01 0.0001
+27 +0.19 0.0361
+25 0.01 0.0001
+2.6 +0.09 0.0081
+2.6 +0.09 0.0081
+27 +0.19 0.0361
+25 ~0.01 0.0001
+X= 218 = 251 =(x— X)* = 01891
+1. Ho: o& = 0.16
+2. Hy: 0° 0.16
+a
+a. Cal 72 poet
+me Lip ante ae = at wo = 23.209
+a 0.16
+
+= 1,182 [See Table > Ty]
+
+4. Conclusion :
+
+Here Cal x? < table x?
+Le., 1.182 < 23.209
+So, we accept Hy: 0? = 0.16
+
+We conclude that the data are consistent with the hypothesis that the precision of the instrument is 0.16.
 --- page 19 ---
 b   [10]
 A certain injection administered to each of 12 patients resulted in
@@ -1343,6 +2714,43 @@ BL- 4   Test at 5% level of significance whether it can be concluded that
 the injection will be, in general, accompanied by an increase in
 B.P?
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+- Mean: (9) = 7
+¢ Variance: 7? = C(9,9) =5-e 919 9% —~5-1=5
+
+So:
+X(9) ~ N(u = 7,07 = 5)
+
+zg. X@)—H _ X(9)~7
+
+o V5
+A 7 3
+P(X(9)=< 4)= P(Z=<= = P(Z< —
+(X(9) < 4) = P(2z < = (2 <= =)
+V5 = 2.236
+3
+= 5036 ~ 1.342
+
+P(Z < —1.342)
+
+P(Z < —1.34) ~ 0.0901
+
+(b) P(X (11) < 11)
+1. X(11) ~ N(7,5) as above.
+2. Standardize:
+
+P(X(11) < 11) = P(z < ~*) = P(z < =) .
+
+3. Compute the z-value:
+
+4
+22= Do3607 ~ 1.78885.
+
+4. From standard normal table / calculator:
+P(Z < 1.78885) ~ 0.9633.
+
+Answer: P(X (11) < 11) © 0.9633 (about 96.33%).
 --- page 20 ---
 Solution: Given: n= 12
 
@@ -1391,6 +2799,7 @@ FRI ICR DO) A RH
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_AI_7012/Random Processes and Estimation Techniques/ANS_Random Processes and Estimation Techniques(702AI0C024)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Feb 2026
 - Text: mixed (20 pages), mean OCR confidence 73.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1475,6 +2884,38 @@ CO- 5;   e   Compare null and alternate hypothesis. Also explain the significanc
 SO- 1;
 BL-2   tailed and two tailed test in hypothesis testing.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+The confidence level is the probability that your confidence interval truly
+captures the population parameter being estimated.
+
+So if we have a 95% confidence level, we can be confident that 95% of the time
+(19 out of 20), our interval estimate will accurately captures the true parameter
+
+being estimated.
+
+Random, independent sample groups...
+
+TTT Tp
+
+Up until this point I’ve only used the 95% confidence level, but your
+confidence level can vary.
+
+You can be 80% confident, 90%, 99% etc.
+
+The confidence level you choose is based on risk — specifically your alpha
+
+risk (a).
+
+Alpha risk is also called your significance level and it is the risk that you will
+not accurately capture the true population parameter.
+
+Your Confidence Level then is equal to 100% minus your significance level
+(qa).
+
+Confidence Level = 100% — Significance Level (a)
+
+So if your significance level is 0.05 (5%), then your confidence level is 95%.
 --- page 5 ---
 Comparision of null alternate 2M
 Significance of one taile/2 tail – 2 M
@@ -1486,6 +2927,52 @@ SO-1;   where A and θ are independent variables. A is a random variable with me
 BL-5   and variance 1. θ is uniformly distributed in [-π,π ]. Prove that X(t) is WSS
 process.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Null vs. alternative hypothesis
+
+Feature Null Hypothesis (Hp) Alternative Hypothesis (H,, or H,)
+
+Definition States that there is no significant States that there is a statistically significant
+relationship or difference between relationship or difference between
+variables. It represents the status variables. It is the inverse of the null
+quo or a default assumption. hypothesis and what the researcher often
+
+aims to prove.
+
+Purpose To be disproven or rejected. To be supported or accepted if the null
+hypothesis is rejected.
+
+Example Ho: Anew drug has no effect on H,: Anew drug has an effect on blood
+blood pressure. pressure.
+
+Relationship The statement of the null The nature of the alternative hypothesis
+
+to Test hypothesis provides the value tobe determines if a one-tailed or two-tailed
+tested against. test is appropriate.
+
+Significance of one-tailed and two-tailed tests
+
+Feature One-Tailed Test Two-Tailed Test
+
+Directionality Tests for a specific, one-sided effect Tests for a change in either direction
+
+(e.g., is variable X greater than (e.g., is variable X different from variable
+variable Y, or is it less than?). Y?).
+When toUse —- When there is a strong, a priori When you are interested in detecting a
+
+reason to believe the effect can only significant difference or relationship
+go in one direction, and results inthe without making assumptions about its
+
+other direction are not relevant or direction.
+meaningful.
+Statistical Can have greater statistical power to — Less powerful than a one-tailed test for a
+Power detect an effect if the assumption directional effect because the
+about the direction is correct. It can significance level is split between two
+use a smaller sample size for the tails. Requires a larger sample size to
+same level of confidence. achieve the same power as a one-tailed
+
+test.
 --- page 6 ---
 Given: X(t) =A cos (100 t+ 8)
 
@@ -1527,6 +3014,37 @@ process.
 2M
 6M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+=5E [cos (100 (4 + #2) +28) + cos (100 (4 ~ 4))
+
+(2G) =1)
+
+cosA cos B = 5 [cos (A + B) + cos (A — B)]
+
+= i E [cos (100 (t) +) + 26) | +5 [cos (100 (% = ))|
+[. E [constant] = constant]
+
+E [cos (100 (4 + f) + 26) |
+
+¥ 1
+= J cos (100 ( +) + 26) 5,48
+
+1
+
+= 37 = 0
+x
+
+(- f cosfwt+n6]d0=0,n is an integer, n + 0]
+ar, 4
+
+& QB) > Rist) = $0) +5 cos [100 (4 — 6)
+
+= cos [100 (4; — {)] = a function of (f; — 4)
+
+Both the conditions are satisfied.
+
+Hence, X (t) is a WSS process.
 --- page 8 ---
 a   A random process is given by 𝑋(𝑡) = 𝐴 𝑐𝑜𝑠 𝑤 𝑡+ 𝐵 𝑠𝑖𝑛 𝑤 𝑡 where A and B   [10]
 Q3
@@ -1596,6 +3114,59 @@ CO-2;   b   Identify whether the following systems are linear and time invariant
 SO-1;   (i)   𝑦(𝑡) = 5𝑥(𝑡) −3
 BL-2,3   (ii)   𝑦(𝑡) = 𝑥(𝑡) + 𝑥(𝑡−1)
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Compute the time average mean of one realization:
+. 1 ft 1 ft
+Xp= z/ X(t) dt = z/ (Acos(wt) + B sin(wt)) dt.
+T Jo T Jo
+Integrate term by term:
+. Aft B ft
+Xp = <[ cos(wt) dt + z[ sin(wt) dt.
+T Jo T Jo
+
+Compute integrals:
+
+v si T _
+| cos(wt) dt = sin) | | sin(wt) dt = 1 cos(wP)
+0 Ww 0 w
+
+Substitute:
+
+= _A sin(WwT) _B 1~—cos(wT)
+a a
+
+Simplify:
+
+Xp= = [Asin(wT) + B(1 — cos(wT))] .
+
+Take the limit as T — oo:
+Since sin(wT) and cos(wT’) are bounded (—1 to 1):
+
+lim sin(wT) 0, lim 1 —cos(wT)
+
+T-00 T-00
+
+= 0.
+
+Take the limit as T — 00:
+Since sin(wT) and cos(wT)) are bounded (—1 to 1):
+
+sin(wT) 0. lim 1—cos(wT)
+
+T0200 T00
+
+= 0.
+
+Therefore:
+lim Xp = 0.
+T00
+
+This equals E[X(t)] = 0.
+
+Step 5: Final conclusion
+
+The process X(t) = Acos(wt) + B sin(wt) is mean ergodic.
 --- page 11 ---
 Linearity and time invariant 5 marks each
 a   Suppose, the probability of a dry day (state 0) following a rainy day (state 1)   [10]
@@ -1604,6 +3175,32 @@ CO-3 ;   that May 1 is a dry day, Solve for the probability that (a) May 3 is al
 SO- 1;
 BL-3   day and (b) May 5 is also a dry day.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+- y(t) = 5.x(t)-3
+Let:
+
+© x) > yO) = 5xy() -3
+© x(t) > y(t) = 5x2(t) - 3
+Additivity check:
+x(t) = x4 (t) + x2(0) > y(t) = 5[x4(©) + x2(0)] — 3 = Sxy(t) + 5xQ(t) — 3
+But:
+¥,O +y¥,© = (5x, — 3] + [5x2 (t) — 3] = 5xy(e) + 5x2 (t) — 6
+X Additivity fails
+
+Non-linear
+
+- y(t) = x(t)+x(t-1)
+Let:
+© x(t) > y(t) = x(t) + x(t — 1)
+© x(t) > y2(6) = x2(t) + x2(t- 1)
+
+Additivity check:
+xD = 10 +2) = yO = 1 +2 +u-)+a-D=9,O+¥,0
+
+Additivity holds
+
+Linear
 --- page 12 ---
 Ans. Solution :
 
@@ -1647,6 +3244,31 @@ SO-1;   assumptions you use and give the final expression for the MLE probabilit
 BL-2
 success p.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Solution : Given : ny = 50, x = 68.2, 5, =2.5
+ny = 50, %,=675, 52=28
+1. Ho: =p (or) =x
+2. Hy: 4, >#2 (or) % >X)
+[Use one-tailed test (right)] ("." taller than)
+3. a=5%
+
+4. Table value | Z| = 1.645 [See Page 1.7]
+5. Calculate :
+
+z= = Ze ne 68.2 — 67.5 = 132
+2 2
+V Sy i iy (25) rf (2.8)
+m mM 50 50
+6. Conclusion :
+Here Cal Z < table Z
+
+ie., 1.32 < 1.645
+So, we accept Hp at 5% level of significance.
+
+We conclude that the college athletes are not taller than other male students.
 --- page 15 ---
 b   A company has the head office at Calcutta and a branch at Bombay. The   [10]
 personnel director wanted to know if the workers at the two places would like
@@ -1674,6 +3296,39 @@ typographical errors per page in Jon’s dissertation.
 quality of his typing? For example, can he be reasonably confident that his
 average number of typos per page is below 5? Explain briefly.
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Given:
+
+Given: ny = 500, p, = 062
+m= 400, pp = 1-041 = 0.59
+
+mp; +n.
+POL a + 2P2 _ (500) (0.62) + (400) (0.59) _ 0.607
+ptr 500 + 400
+
+Q =1-P = 1-0607 = 0393
+1. Hp Py = P [there is no significant difference between the two groups in their attitude towards the new
+plan]
+2. Hy : P; # Pp [Two-tailed]
+3.a= 0.05
+4. Table value |Z| = 1.96
+
+5. Calculate :
+
+S Pi-P2 0 0.62 — 0.59 = 0917
+
+
+n2
+
+6. Conclusion:
+
+Here, Cal Z < table Z
+ie., 0.917 < 1.96
+So, we accept Ho at 5% level of significance.
+
+Hence we conclude that there is no significant difference between the two groups in their attitude towards
+the new plan.
 --- page 17 ---
 Inference about overall typing quality
 • The confidence interval tells us that, with 90% confidence, the true
@@ -1699,6 +3354,41 @@ CO-3;   (i)   𝑋(9) ≤4.
 SO-1;
 BL-3   (ii)   𝑋(11) ≤11.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+Solution :
+
+Given: n= 11, 07 = 0.16
+
+x x=x (x - xy?
+25 ~0.01 0.0001
+23 ~0.21 0.0441
+24 0.11 0.0121
+23 ~0.21 0.0441
+25 0.01 0.0001
+27 +0.19 0.0361
+25 0.01 0.0001
+2.6 +0.09 0.0081
+2.6 +0.09 0.0081
+27 +0.19 0.0361
+25 ~0.01 0.0001
+X= 218 = 251 =(x— X)* = 01891
+1. Ho: o& = 0.16
+2. Hy: 0° 0.16
+a
+a. Cal 72 poet
+me Lip ante ae = at wo = 23.209
+a 0.16
+
+= 1,182 [See Table > Ty]
+
+4. Conclusion :
+
+Here Cal x? < table x?
+Le., 1.182 < 23.209
+So, we accept Hy: 0? = 0.16
+
+We conclude that the data are consistent with the hypothesis that the precision of the instrument is 0.16.
 --- page 19 ---
 b   [10]
 A certain injection administered to each of 12 patients resulted in
@@ -1709,6 +3399,43 @@ BL- 4   Test at 5% level of significance whether it can be concluded that
 the injection will be, in general, accompanied by an increase in
 B.P?
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+- Mean: (9) = 7
+¢ Variance: 7? = C(9,9) =5-e 919 9% —~5-1=5
+
+So:
+X(9) ~ N(u = 7,07 = 5)
+
+zg. X@)—H _ X(9)~7
+
+o V5
+A 7 3
+P(X(9)=< 4)= P(Z=<= = P(Z< —
+(X(9) < 4) = P(2z < = (2 <= =)
+V5 = 2.236
+3
+= 5036 ~ 1.342
+
+P(Z < —1.342)
+
+P(Z < —1.34) ~ 0.0901
+
+(b) P(X (11) < 11)
+1. X(11) ~ N(7,5) as above.
+2. Standardize:
+
+P(X(11) < 11) = P(z < ~*) = P(z < =) .
+
+3. Compute the z-value:
+
+4
+22= Do3607 ~ 1.78885.
+
+4. From standard normal table / calculator:
+P(Z < 1.78885) ~ 0.9633.
+
+Answer: P(X (11) < 11) © 0.9633 (about 96.33%).
 --- page 20 ---
 Solution: Given: n= 12
 
@@ -1757,6 +3484,7 @@ FRI ICR DO) A RH
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/MBATech_AI_7051/Random Processes and Estimation Techniques/ANS_Random Processes and Estimation Techniques(702AI0C024)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Feb 2026
 - Text: mixed (20 pages), mean OCR confidence 73.6
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1841,6 +3569,38 @@ CO- 5;   e   Compare null and alternate hypothesis. Also explain the significanc
 SO- 1;
 BL-2   tailed and two tailed test in hypothesis testing.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+The confidence level is the probability that your confidence interval truly
+captures the population parameter being estimated.
+
+So if we have a 95% confidence level, we can be confident that 95% of the time
+(19 out of 20), our interval estimate will accurately captures the true parameter
+
+being estimated.
+
+Random, independent sample groups...
+
+TTT Tp
+
+Up until this point I’ve only used the 95% confidence level, but your
+confidence level can vary.
+
+You can be 80% confident, 90%, 99% etc.
+
+The confidence level you choose is based on risk — specifically your alpha
+
+risk (a).
+
+Alpha risk is also called your significance level and it is the risk that you will
+not accurately capture the true population parameter.
+
+Your Confidence Level then is equal to 100% minus your significance level
+(qa).
+
+Confidence Level = 100% — Significance Level (a)
+
+So if your significance level is 0.05 (5%), then your confidence level is 95%.
 --- page 5 ---
 Comparision of null alternate 2M
 Significance of one taile/2 tail – 2 M
@@ -1852,6 +3612,52 @@ SO-1;   where A and θ are independent variables. A is a random variable with me
 BL-5   and variance 1. θ is uniformly distributed in [-π,π ]. Prove that X(t) is WSS
 process.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Null vs. alternative hypothesis
+
+Feature Null Hypothesis (Hp) Alternative Hypothesis (H,, or H,)
+
+Definition States that there is no significant States that there is a statistically significant
+relationship or difference between relationship or difference between
+variables. It represents the status variables. It is the inverse of the null
+quo or a default assumption. hypothesis and what the researcher often
+
+aims to prove.
+
+Purpose To be disproven or rejected. To be supported or accepted if the null
+hypothesis is rejected.
+
+Example Ho: Anew drug has no effect on H,: Anew drug has an effect on blood
+blood pressure. pressure.
+
+Relationship The statement of the null The nature of the alternative hypothesis
+
+to Test hypothesis provides the value tobe determines if a one-tailed or two-tailed
+tested against. test is appropriate.
+
+Significance of one-tailed and two-tailed tests
+
+Feature One-Tailed Test Two-Tailed Test
+
+Directionality Tests for a specific, one-sided effect Tests for a change in either direction
+
+(e.g., is variable X greater than (e.g., is variable X different from variable
+variable Y, or is it less than?). Y?).
+When toUse —- When there is a strong, a priori When you are interested in detecting a
+
+reason to believe the effect can only significant difference or relationship
+go in one direction, and results inthe without making assumptions about its
+
+other direction are not relevant or direction.
+meaningful.
+Statistical Can have greater statistical power to — Less powerful than a one-tailed test for a
+Power detect an effect if the assumption directional effect because the
+about the direction is correct. It can significance level is split between two
+use a smaller sample size for the tails. Requires a larger sample size to
+same level of confidence. achieve the same power as a one-tailed
+
+test.
 --- page 6 ---
 Given: X(t) =A cos (100 t+ 8)
 
@@ -1893,6 +3699,37 @@ process.
 2M
 6M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+=5E [cos (100 (4 + #2) +28) + cos (100 (4 ~ 4))
+
+(2G) =1)
+
+cosA cos B = 5 [cos (A + B) + cos (A — B)]
+
+= i E [cos (100 (t) +) + 26) | +5 [cos (100 (% = ))|
+[. E [constant] = constant]
+
+E [cos (100 (4 + f) + 26) |
+
+¥ 1
+= J cos (100 ( +) + 26) 5,48
+
+1
+
+= 37 = 0
+x
+
+(- f cosfwt+n6]d0=0,n is an integer, n + 0]
+ar, 4
+
+& QB) > Rist) = $0) +5 cos [100 (4 — 6)
+
+= cos [100 (4; — {)] = a function of (f; — 4)
+
+Both the conditions are satisfied.
+
+Hence, X (t) is a WSS process.
 --- page 8 ---
 a   A random process is given by 𝑋(𝑡) = 𝐴 𝑐𝑜𝑠 𝑤 𝑡+ 𝐵 𝑠𝑖𝑛 𝑤 𝑡 where A and B   [10]
 Q3
@@ -1962,6 +3799,59 @@ CO-2;   b   Identify whether the following systems are linear and time invariant
 SO-1;   (i)   𝑦(𝑡) = 5𝑥(𝑡) −3
 BL-2,3   (ii)   𝑦(𝑡) = 𝑥(𝑡) + 𝑥(𝑡−1)
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Compute the time average mean of one realization:
+. 1 ft 1 ft
+Xp= z/ X(t) dt = z/ (Acos(wt) + B sin(wt)) dt.
+T Jo T Jo
+Integrate term by term:
+. Aft B ft
+Xp = <[ cos(wt) dt + z[ sin(wt) dt.
+T Jo T Jo
+
+Compute integrals:
+
+v si T _
+| cos(wt) dt = sin) | | sin(wt) dt = 1 cos(wP)
+0 Ww 0 w
+
+Substitute:
+
+= _A sin(WwT) _B 1~—cos(wT)
+a a
+
+Simplify:
+
+Xp= = [Asin(wT) + B(1 — cos(wT))] .
+
+Take the limit as T — oo:
+Since sin(wT) and cos(wT’) are bounded (—1 to 1):
+
+lim sin(wT) 0, lim 1 —cos(wT)
+
+T-00 T-00
+
+= 0.
+
+Take the limit as T — 00:
+Since sin(wT) and cos(wT)) are bounded (—1 to 1):
+
+sin(wT) 0. lim 1—cos(wT)
+
+T0200 T00
+
+= 0.
+
+Therefore:
+lim Xp = 0.
+T00
+
+This equals E[X(t)] = 0.
+
+Step 5: Final conclusion
+
+The process X(t) = Acos(wt) + B sin(wt) is mean ergodic.
 --- page 11 ---
 Linearity and time invariant 5 marks each
 a   Suppose, the probability of a dry day (state 0) following a rainy day (state 1)   [10]
@@ -1970,6 +3860,32 @@ CO-3 ;   that May 1 is a dry day, Solve for the probability that (a) May 3 is al
 SO- 1;
 BL-3   day and (b) May 5 is also a dry day.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+- y(t) = 5.x(t)-3
+Let:
+
+© x) > yO) = 5xy() -3
+© x(t) > y(t) = 5x2(t) - 3
+Additivity check:
+x(t) = x4 (t) + x2(0) > y(t) = 5[x4(©) + x2(0)] — 3 = Sxy(t) + 5xQ(t) — 3
+But:
+¥,O +y¥,© = (5x, — 3] + [5x2 (t) — 3] = 5xy(e) + 5x2 (t) — 6
+X Additivity fails
+
+Non-linear
+
+- y(t) = x(t)+x(t-1)
+Let:
+© x(t) > y(t) = x(t) + x(t — 1)
+© x(t) > y2(6) = x2(t) + x2(t- 1)
+
+Additivity check:
+xD = 10 +2) = yO = 1 +2 +u-)+a-D=9,O+¥,0
+
+Additivity holds
+
+Linear
 --- page 12 ---
 Ans. Solution :
 
@@ -2013,6 +3929,31 @@ SO-1;   assumptions you use and give the final expression for the MLE probabilit
 BL-2
 success p.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Solution : Given : ny = 50, x = 68.2, 5, =2.5
+ny = 50, %,=675, 52=28
+1. Ho: =p (or) =x
+2. Hy: 4, >#2 (or) % >X)
+[Use one-tailed test (right)] ("." taller than)
+3. a=5%
+
+4. Table value | Z| = 1.645 [See Page 1.7]
+5. Calculate :
+
+z= = Ze ne 68.2 — 67.5 = 132
+2 2
+V Sy i iy (25) rf (2.8)
+m mM 50 50
+6. Conclusion :
+Here Cal Z < table Z
+
+ie., 1.32 < 1.645
+So, we accept Hp at 5% level of significance.
+
+We conclude that the college athletes are not taller than other male students.
 --- page 15 ---
 b   A company has the head office at Calcutta and a branch at Bombay. The   [10]
 personnel director wanted to know if the workers at the two places would like
@@ -2040,6 +3981,39 @@ typographical errors per page in Jon’s dissertation.
 quality of his typing? For example, can he be reasonably confident that his
 average number of typos per page is below 5? Explain briefly.
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Given:
+
+Given: ny = 500, p, = 062
+m= 400, pp = 1-041 = 0.59
+
+mp; +n.
+POL a + 2P2 _ (500) (0.62) + (400) (0.59) _ 0.607
+ptr 500 + 400
+
+Q =1-P = 1-0607 = 0393
+1. Hp Py = P [there is no significant difference between the two groups in their attitude towards the new
+plan]
+2. Hy : P; # Pp [Two-tailed]
+3.a= 0.05
+4. Table value |Z| = 1.96
+
+5. Calculate :
+
+S Pi-P2 0 0.62 — 0.59 = 0917
+
+
+n2
+
+6. Conclusion:
+
+Here, Cal Z < table Z
+ie., 0.917 < 1.96
+So, we accept Ho at 5% level of significance.
+
+Hence we conclude that there is no significant difference between the two groups in their attitude towards
+the new plan.
 --- page 17 ---
 Inference about overall typing quality
 • The confidence interval tells us that, with 90% confidence, the true
@@ -2065,6 +4039,41 @@ CO-3;   (i)   𝑋(9) ≤4.
 SO-1;
 BL-3   (ii)   𝑋(11) ≤11.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+Solution :
+
+Given: n= 11, 07 = 0.16
+
+x x=x (x - xy?
+25 ~0.01 0.0001
+23 ~0.21 0.0441
+24 0.11 0.0121
+23 ~0.21 0.0441
+25 0.01 0.0001
+27 +0.19 0.0361
+25 0.01 0.0001
+2.6 +0.09 0.0081
+2.6 +0.09 0.0081
+27 +0.19 0.0361
+25 ~0.01 0.0001
+X= 218 = 251 =(x— X)* = 01891
+1. Ho: o& = 0.16
+2. Hy: 0° 0.16
+a
+a. Cal 72 poet
+me Lip ante ae = at wo = 23.209
+a 0.16
+
+= 1,182 [See Table > Ty]
+
+4. Conclusion :
+
+Here Cal x? < table x?
+Le., 1.182 < 23.209
+So, we accept Hy: 0? = 0.16
+
+We conclude that the data are consistent with the hypothesis that the precision of the instrument is 0.16.
 --- page 19 ---
 b   [10]
 A certain injection administered to each of 12 patients resulted in
@@ -2075,6 +4084,43 @@ BL- 4   Test at 5% level of significance whether it can be concluded that
 the injection will be, in general, accompanied by an increase in
 B.P?
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+- Mean: (9) = 7
+¢ Variance: 7? = C(9,9) =5-e 919 9% —~5-1=5
+
+So:
+X(9) ~ N(u = 7,07 = 5)
+
+zg. X@)—H _ X(9)~7
+
+o V5
+A 7 3
+P(X(9)=< 4)= P(Z=<= = P(Z< —
+(X(9) < 4) = P(2z < = (2 <= =)
+V5 = 2.236
+3
+= 5036 ~ 1.342
+
+P(Z < —1.342)
+
+P(Z < —1.34) ~ 0.0901
+
+(b) P(X (11) < 11)
+1. X(11) ~ N(7,5) as above.
+2. Standardize:
+
+P(X(11) < 11) = P(z < ~*) = P(z < =) .
+
+3. Compute the z-value:
+
+4
+22= Do3607 ~ 1.78885.
+
+4. From standard normal table / calculator:
+P(Z < 1.78885) ~ 0.9633.
+
+Answer: P(X (11) < 11) © 0.9633 (about 96.33%).
 --- page 20 ---
 Solution: Given: n= 12
 
@@ -2123,6 +4169,7 @@ FRI ICR DO) A RH
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_AIML_7053/Random Processes and Estimation Techniques/ANS_Random Processes and Estimation Techniques(702AI0C024)_2025-2026_c9fb2c8187.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100
 - Text: mixed (20 pages), mean OCR confidence 66.8
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’S NMIMS
@@ -2161,6 +4208,44 @@ SO- 1;   (i)   Linear systems
 BL-2   (ii)   Memoryless systems
 Ans.
 2
+
+[Text in pictures on this page, read by OCR]
+Strict-sense stationary process (SSS)
+
+* Definition: The full probability distribution of the process remains unchanged for
+any time shift. 2
+
+* Condition: The joint probability density function of any set of random variables
+from the process is invariant under time shifts. 2
+
+* Implication: This means all statistical moments, including the mean, variance, and
+higher-order moments, are constant over time. 2
+Wide-sense stationary process (WSS)
+
+* Definition: The process is “weakly” stationary, focusing on the first two
+moments. 2
+
+* Condition 1: The mean is constant over time. 2
+° E[X()] = u (where pis aconstant) 2
+* Condition 2: The autocorrelation function depends only on the time difference
+between two points, not the individual points. 2
+°o E[X(t))X(t2)] = Rx(t) — t2) = Rx(a) (where t= 1; — ty) 2
+* Relationship to SSS: A WSS process is sufficient for many practical applications,
+
+such as signal analysis and forecasting. For Gaussian processes, the two
+conditions (SSS and WSS) are equivalent. 2
+
+1. Linear Systems
+
+Definition:
+Asystem is linear if it satisfies the properties of additivity and homogeneity (scaling)
+That is, for inputs 24(t) and a(t), and constants a, b:
+
+Tlax,(t) + bxo(t)] = aT |x, (t)| + bT [x2(t)]
+Example:
+y(t) = 3a(t)
+
+This system is linear because output scales and adds directly with the input.
 --- page 3 ---
 c.   Explain Bernoulli process. In a sequence of independent Bernoulli trials, where   [04]
 CO-3;   the probability of success (p) is 0.4, explain what it means to say that the sixth
@@ -2181,6 +4266,28 @@ CO-4;
 SO-1 ;   large IT based company. She collects data from a random sample of 50
 BL-2   employees. While reviewing her methods, she wants to ensure that the estimator
 3
+
+[Text in pictures on this page, read by OCR]
+Definition:
+A memoryless system is one where the output at any time depends only on the
+
+input at that same time — not on past or future values.
+
+Example:
+
+y(t) = 2°(t)
+
+This system is memoryless because the output at time t depends only on the current input x(t).
+
+n-1
+
+P(kth success on nth trial) = Cc 1
+
+a p)"*
+
+P(6th success on 10th trial) = (?) p*(1—p)!
+
+P = 126 x (0.4)° x (0.6) ~ 0.0669
 --- page 4 ---
 she uses (e.g., sample mean) is reliable and accurate. Explain the criteria that the
 researcher should consider when selecting a good estimator. For each criterion,
@@ -2196,6 +4303,35 @@ CO-1;   constants and θ is a uniformly distributed random variable over the int
 SO-1;
 BL-5   2π). Prove that the given process is wide sense stationary process.
 4
+
+[Text in pictures on this page, read by OCR]
+Criterion Explanation Example in Case Study Marks
+
+Unbiasedness The estimator's expected value Sample mean salary correctly estimates the population 1
+should equal the true population mean without systematic error.
+parameter.
+
+Consistency The estimator becomes more If the researcher increases the sample to 100 employees, 1
+accurate as sample size increases. the average salary estimate becomes closer to the true
+
+mean.
+
+Efficiency Among unbiased estimators, the Using the sample mean gives a more precise estimate 1
+one with the smallest variance is than the sample median if salaries are normally
+preferred. distributed.
+
+Sufficiency The estimator uses all the Sample mean uses all 50 salary values to estimate the 1
+
+information in the sample. population mean.
+
+Example:
+
+Using the same disease test:
+* Ho: Patient does not have the disease
+
+e Hr: Patient has the disease
+
+If the test says the patient is healthy when they actually have the disease — Type Il error.
 --- page 5 ---
 Ans. Solution: Given X(t) = Acos(wot + 6); where A and wy are constants and
 0 — (0,27); fo(@) = x. The 0 is uniformly distributed between 0 to 27. The
@@ -2251,6 +4387,38 @@ BL-3
 Solve for the Power Spectral Density (PSD) 𝑆𝑥𝑥(𝜔) of the process. Also
 identify the value of 𝑆𝑥𝑥(𝜔) at 𝜔= 0.1.
 6
+
+[Text in pictures on this page, read by OCR]
+2. Correlation:
+Ryxx(r) = E[X(t)X(t +7)]
+= op a(t)X(t +7) fo(@)d0
+0=0
+
+2m
+= [ A eset +0).Acos(wo(t + 7) + 9)5— ~ 8
+
+0=0
+Ae
+=— a cos(uot + 0). cos(wot + wot + 0)d0
+4m Joo
+A
+2 ae
+ss cos(Qwot + 20 + wor) + cos(woT)dé
+=0
+A? rsin(Qwot + 20+ woT)]2" A? Qn
+a SS lo + Fy eos(4o7)] (| ;
+a 60 ol
+qeostour)l [9] + FL 2
+=i cos(wo7)[2m7 — 0] + tn [ 5 |
+Ae
+= a COS WoT + 0
+A?
+= = COS WoT
+
+A . . : .
+/. Rxx(T) = = coswyoT. This solution does not contain variable ‘t’.
+
+So, both ELX (t)] and E[X(t)X(t + 7)] are constant, then it is WSS.
 --- page 7 ---
 Ans.
 a   For the given random process by   [10]
@@ -2261,6 +4429,37 @@ BL-3
 Solve and check if the given random process is mean-ergodic or not?
 Ans
 7
+
+[Text in pictures on this page, read by OCR]
+oo
+Sx(w) = / Ryx(r)e*" dr.
+~
+Given Rx (7) = 0.66 e~'"'/?°, split the integral:
+
+0 as
+Sx(w) = / 0.66 e7/ e-** dr + | 0.66 ee" dr
+—~oo 0
+~ oe
+= 0.66 e t/ West de 4 0.06 f e 1/1 ej ae
+0 0
+
+1 1
+
+= 0.66 (755 ju * 1/10 + ju
+
+) (using standard exponential integral).
+
+Combine the terms:
+n (1/10 + jw) + (1/10 — jr) _ 2/10
+Sx(u) = 0.6 (1/10)? + w? = 0.66 - Tio a
+Simplify:
+2/10 =0.2, (1/10)? = 0.01
+Sx(w) = 0.66 x 0.2 0.132
+*\)~ Dip w O01 pa?
+Atw = 0.1 rad/s:
+$,(0.1) = 0.132 0.132 _ 6,
+
+0.01+0.01 0.02
 --- page 8 ---
 b   Explain the power spectral density function (or spectral density or power   [10]
 spectrum) of a stationary process.
@@ -2273,6 +4472,22 @@ BL-2,3
 0,   𝑒𝑙𝑠𝑒𝑤ℎ𝑒𝑟𝑒
 Solve for the autocorrelation function.
 8
+
+[Text in pictures on this page, read by OCR]
+E(x] = Ls XOf@)d¢g
+2x 1
+E [cos (t + ¢)] = f cos (t + #) an 2%
+
+1 7
+== cos (t+ o)dgd
+2m 4 )
+
+1
+Tae [0] = 0 = a constant.
+
+2% =
+{/ f cos [wt +n 6]d6 =0, n is an integer, n +0]
+0
 --- page 9 ---
 Ans
 a   The transition probability matrix of a Markov chain {Xn}n=1,2,3,….. with three   [10]
@@ -2282,6 +4497,25 @@ CO-3 ;
 SO- 1;   𝑃= [ 0.5 0.4 0.1 ]
 BL-3   0.3 0.4 0.3
 9
+
+[Text in pictures on this page, read by OCR]
+Definition:
+The power spectral density (PSD), Sx (w), of a stationary random process X(t) describes how the power
+
+of the process is distributed over frequency.
+
+For a wide-sense stationary (WSS) process:
+
+Sxx(w) = f Ryx(r)e "dr
+
+oo
+
+where R.yx(r) is the autocorrelation function of X(t).
+Key points:
+
+© Sxx(w) is the Fourier Transform of the autocorrelation function.
+° For a zero-mean WSS process, the autocorrelation function and PSD fully describe the process in time
+and frequency domains.
 --- page 10 ---
 The initial distribution is
 
@@ -2311,6 +4545,29 @@ SO-1;   likelihood estimator (MLE). State any assumptions you use (e.g. whether 
 BL-2
 mean 𝜇is known or unknown) and give the final expression for the MLE of 𝜎.
 11
+
+[Text in pictures on this page, read by OCR]
+Solution: Let us assume the null hypothesis Hy that there is no s
+claim and the sample average value, that is,
+
+Hy: # = 9.5 km/litre and Hy, : #4 9.5 km/h
+
+nificant difference between the company’s
+
+Given X = 10, 7 = 50, s = 3.5, and Zz, = 1.96 at @ = 0.05 level of significance. Thus, using the
+Ztest statistic
+
+1.010.
+
+i
+
+than its critical value Z,. =
+we can conclude that the new car's petrol cons
+
+3. on
+
+96 at a@ = 0.05 level of significance, the null
+9.5 km/litre.
 --- page 12 ---
 Ans.
 
@@ -2373,6 +4630,30 @@ weight loss for the original diet. Assume weight loss for each diet follows a
 normal distribution
 Ans.
 16
+
+[Text in pictures on this page, read by OCR]
+Step 1— State hypotheses
+
+We test whether the variance for the modified diet is different from that of the original diet (two-tailed):
+
+Hy: 0? =o2 =3249 vs. Hy: 0? £32.49.
+
+Step 2 — Test statistic
+
+For a normal population, the test statistic for variance is
+
+2 (n—1)s?
+
+z
+7%
+
+which under Ho follows x? distribution with y = n — 1 degrees of freedom.
+
+Here vy = 21 — 1 = 20. Compute the observed statistic:
+
+2 _ 20 x 16.81
+
+Xobs = 3949 © 10.3478.
 --- page 17 ---
 a   Suppose that customers arrive at a bank according to a poisson process with a   [10]
 mean rate of 3 per minute.
@@ -2382,6 +4663,33 @@ SO-1;
 BL-3   (ii)   more than 4 customers arrive
 (iii)   fewer than 4 customer in 2 minute interval.
 17
+
+[Text in pictures on this page, read by OCR]
+Step 3 — Critical region (two-tailed)
+For a two-tailed test at level a = 0.01, the critical values are the a/2 = 0.005 and 1 — a/2 = 0.995
+quantiles of X30:
+Xi.005,20 © 7.4338, X$.095,20 © 39.9968.
+Reject Hy if x2,, < 7.4338 or x3, > 39.9968.
+Compare:
+
+10.3478 lies between 7.4338 and 39.9968.
+
+So we do not reject Hp at the 1% level.
+
+Step 4 — p-value (optional)
+Compute p-value (two-sided):
+© Lower tail probability: P(x3y < 10.3478) ~ 0.03858.
+¢ Upper tail probability: 1 — 0.03858 = 0.96142.
+Two-sided p-value = 2 x min(0.03858, 0.96142) ~ 0.07716.
+
+Since p = 0.07716 > 0.01, this agrees with the decision to not reject Ho.
+
+Step 5 — Conclusion (in words)
+
+At the 1% significance level there is insufficient evidence to conclude that the variance of weight loss under
+the modified diet is different (either larger or smaller) from the variance for the original diet (0 = 5.7). The
+sample variability s = 4.1 is not far enough from the hypothesized variability to be significant at the 1%
+level.
 --- page 18 ---
 Ans.
 

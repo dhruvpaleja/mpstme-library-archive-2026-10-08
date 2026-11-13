@@ -41,6 +41,38 @@ SO-1;   (b)   [05]
 BL-2
 3 marks solution 2 marks formula
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Data : load W=6kM = 6 = 103N, stress o = 110 N/mm.
+
+To find +: Diameter of steel cable (dp.
+w HE a2
+Concept 7-0 = "As A=_¢d
+we
+Solution : Stress, G = “n
+6 x 103
+- 110 = A
+a = BEAD L 54.54 mm?
+~ 120 ~ °
+Now, A = a 2
+ri
+
+=- “dq
+54.54 = 4d
+
+Answer :
+
+Se
+
+- ieee 5S
+mula,
+Solution : We know that, 2 = se
+
+Concept : _ Use of torsional for;
+
+- G-@-R_ 27x 103x2nx4
+fg 45
+Answer: — [L = 15079.6 mm = 15.0796 ml
 --- page 2 ---
 CO-5;
 SO-1;   (c)   [05]
@@ -53,6 +85,46 @@ No corrosion allowance or joint efficiency is mentioned, so we take the
 minimum theoretical thickness.
 2.5 marks step wise
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Principal Planes:
+Principal planes are the planes in a stressed body on which shear stress is zero and only normal stress acts.
+These planes are oriented such that the normal stress reaches either a maximum or a minimum value.
+
+Principal Stresses:
+Principal stresses are the maximum and minimum normal stresses acting on the principal planes. They are
+denoted as major principal stress (0) and minor principal stress (2).
+
+Justi
+
+ation of the Statement:
+
+From the stress transformation equations:
+
+Shear stress becomes zero when:
+sin 20 = 0 > 20 = 0°, 180° > 6 = 0°, 90°
+At these orientations, the normal stress is:
+
+Oz + Oy , Ox ~ Oy
+
+2 2
+
+o=
+
+>o,—=maximum, o2 = minimum
+
+For Thin Cylinder:
+
+The hoop stress (circumferential stress) is given by:
+
+Rearranging for minimum wall thickness t:
+
+Substitute the values:
+
+_— 10x 100 — 1000
+
+— —10mm
+100 100
 --- page 3 ---
 A typical engineering stress-strain relationship for a mld steel bar is represented in
 Fig. 1.17 by plotting the engineering stress (o) against engineering strain (e) during a uniaxial

@@ -4,7 +4,7 @@
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
-## 2025-26 · Exam not stated · Sem 6 · paper 2501d4a10f01
+## 2025-26 · Exam not stated · Sem 6 · Syllabus · paper 2501d4a10f01
 
 - Departments: Open Electives
 - Programmes: B TECH / OPEN ELECTIVE

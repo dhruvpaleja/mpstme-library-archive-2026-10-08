@@ -119,6 +119,16 @@ Calibration of instruments and measuring systems is important because it:
 3. Supports quality control in manufacturing.
 4. Ensures compliance with national and international standards.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+hardened and grgynd bar
+
+surface plate |
+ees and ground cylinders
+
+1 = distance between centres of ground cylinders (typically 5” or 10”)
+h=height of the gauge blocks
+@= the angle of the plate
 --- page 4 ---
 5. Reduces rejection, rework, and production costs.
 In industry, regular calibration is essential to maintain precision, reliability, and confidence in
@@ -271,6 +281,23 @@ a   Instrumental errors are errors caused due to imperfections, faults, or limit
 Q2
 instruments themselves. They occur within the instrument and affect the accuracy of measurement.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+hardened and grgynd bar
+
+‘gauge blocks
+
+olns
+
+Z surface plate
+hardened and ground cylinders
+1 = distance between centres of ground cylinders (typically 5” or 10”)
+
+h=height of the gauge blocks
+he angle of the plate
+
+— asin)
+@ = asin( 4)
 --- page 3 ---
 Definition : 1 Mark,
 Causes: 5 Marks
@@ -320,6 +347,27 @@ Working of pirani gauge: 6 marks
 Q3   a   Different Principles used for measuring Temperature
 1. Changes in physical dimension
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Applied pressure
+(Unknown) vacuum
+\
+
+Compensating
+Cell
+
+Filament
+(platinum)—__>
+
+re
+
+Measuring cell
+(Pirani gauge
+Chamber) * : aad
+
+\ To recorder
+
+Power supply
 --- page 4 ---
 2. Changes in liquid or gas vapor pressure
 3. Changes in electrical properties
@@ -358,6 +406,41 @@ Working   Typical Temperature
 Device   Applications
 Principle   Range
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Resistance expression. For a wire of length L, resistivity p and cross-sectional area A = mr?,
+
+pL ph
+RT
+
+2. Relative change in resistance. Differentiate (or use finite increment) to get
+AR Ap AL AA
+
+Rpt LA
+
+his separates the effects of change in resistivity, length and area.
+
+3. Relate length change to axial strain.
+
+AL
+c=.
+L
+4, Relate area change to lateral (transverse) strain. For isotropic material, lateral strain éj,y = —V where
+
+1 is Poisson's ratio. For a circular wire radius r,
+
+Aa Ar 9. a 2
+Ty = 2 = Pew = 2(-ve) = —2ve.
+
+5. Substitute into AR/R.
+
+AR Ap dp
+=— +e-—(—2Qve) = — + (1+ 2v).
+Fn pe ve) = FP pel +20)
+
+6. Divide by ¢ to get GF.
+
+(1
 --- page 5 ---
 Measures brightness of
 the visible light emitted
@@ -541,6 +624,23 @@ a   Instrumental errors are errors caused due to imperfections, faults, or limit
 Q2
 instruments themselves. They occur within the instrument and affect the accuracy of measurement.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+hardened and grgynd bar
+
+‘gauge blocks
+
+olns
+
+Z surface plate
+hardened and ground cylinders
+1 = distance between centres of ground cylinders (typically 5” or 10”)
+
+h=height of the gauge blocks
+he angle of the plate
+
+— asin)
+@ = asin( 4)
 --- page 3 ---
 Definition : 1 Mark,
 Causes: 5 Marks
@@ -590,6 +690,27 @@ Working of pirani gauge: 6 marks
 Q3   a   Different Principles used for measuring Temperature
 1. Changes in physical dimension
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Applied pressure
+(Unknown) vacuum
+\
+
+Compensating
+Cell
+
+Filament
+(platinum)—__>
+
+re
+
+Measuring cell
+(Pirani gauge
+Chamber) * : aad
+
+\ To recorder
+
+Power supply
 --- page 4 ---
 2. Changes in liquid or gas vapor pressure
 3. Changes in electrical properties
@@ -628,6 +749,41 @@ Working   Typical Temperature
 Device   Applications
 Principle   Range
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Resistance expression. For a wire of length L, resistivity p and cross-sectional area A = mr?,
+
+pL ph
+RT
+
+2. Relative change in resistance. Differentiate (or use finite increment) to get
+AR Ap AL AA
+
+Rpt LA
+
+his separates the effects of change in resistivity, length and area.
+
+3. Relate length change to axial strain.
+
+AL
+c=.
+L
+4, Relate area change to lateral (transverse) strain. For isotropic material, lateral strain éj,y = —V where
+
+1 is Poisson's ratio. For a circular wire radius r,
+
+Aa Ar 9. a 2
+Ty = 2 = Pew = 2(-ve) = —2ve.
+
+5. Substitute into AR/R.
+
+AR Ap dp
+=— +e-—(—2Qve) = — + (1+ 2v).
+Fn pe ve) = FP pel +20)
+
+6. Divide by ¢ to get GF.
+
+(1
 --- page 5 ---
 Measures brightness of
 the visible light emitted

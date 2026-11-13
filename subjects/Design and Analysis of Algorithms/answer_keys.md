@@ -44,6 +44,27 @@ CO-4;   c.   Illustrate the optimality of the Dynamic Programming strategy.
 SO-6;   5
 BO-3
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+1. Definition of Algorithm
+
+An algorithm is a finite sequence of well-defined, step-by-step instructions used to solve a problem or
+perform a computation. It takes some input, processes it through a series of unambiguous steps, and
+produces the desired output within a finite amount of time.
+
+2. Justification of the Statement
+
+“The choice of algorithmic design paradigm is an important aspect of algorithm synthesis.”
+
+This statement is absolutely valid because the design paradigm (approach used to construct an algorithm)
+directly affects:
+
+¢ Efficiency (time and space complexity)
+¢ Simplicity and clarity
+
+¢ Scalability for large inputs
+
+¢ Feasibility of solving complex problems
 --- page 2 ---
 CO-3; SO-   d.   1) Solve the recurrence relation of quicksort in the worst case?
 2;   4+1
@@ -67,6 +88,18 @@ CO-3;   b.   Write and explain the algorithm for a Multistage graph using the
 SO- 2;   backward approach in Dynamic Programming. Analyse its Time   [10]
 BL-3   Complexity.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Key Idea of Optimality
+
+The optimality of DP is based on the Principle of Optimality, which states:
+
+‘An optimal solution to a problem contains optimal solutions to its subproblems.”
+
+This means:
+¢ Ifa problem can be broken into smaller parts,
+e And each part is solved optimally,
+¢ Then combining them yields a globally optimal solution.
 --- page 3 ---
 a.   1) What do you understand by a recurrence relation? Explain with an
 example.
@@ -95,6 +128,42 @@ CO-4; SO-
 pairs shortest paths from source 1. Analyse its algorithm and
 complexity.   5+5
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Multistage Graph - Backward Approach (Dynamic Programming)
+
+A multistage graph is a directed acyclic graph (DAG) divided into stages, where:
+
+e There is a source node in stage 1
+¢ Asink (destination) node in the last stage
+
+¢ Edges exist only from one stage to the next
+
+The goal is to find the minimum cost path from source to destination.
+
+1) Idea of Backward Approach (Dynamic Programming)
+
+Instead of solving from source — destination, we solve backwards:
+
+© Start from the destination node
+¢ Move stage by stage towards the source
+
+¢ Compute the minimum cost from each node to destination
+
+This ensures that when evaluating a node, all its future costs are already known.
+
+1) Prim’s Algorithm using Greedy Approach
+
+Prim’s Algorithm is used to find a Minimum Spanning Tree (MST) of a connected, weighted, undirected
+graph.
+
+Greedy Strategy
+¢ Start from any vertex
+¢ Ateach step, select the minimum weight edge that connects:
+« A vvertex inside the MST to a vertex outside the MST
+¢ Continue until all vertices are included
+
+The algorithm always makes a locally optimal choice, which leads to a globally optimal solution.
 --- page 4 ---
 Q6   a.   Distinguish between Greedy, Divide & Conquer, Dynamic
 CO-1;   Programming, and Backtracking in terms of:
@@ -122,6 +191,33 @@ Write and explain the algorithm for the “N queens problem” using the
 b.   backtracking approach and taking a suitable example. Discuss its Time
 complexity. Draw the state space tree for n=4.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Comparison of Algorithm Design Paradigms
+
+Aspect Greedy Divide & Conquer Dynamic Programming Backtracking oe
+
+Problem-Solving Makes the locally optimal Divides problem into Breaks problem into Explores all possible solutions,
+
+Approach choice at each step without independent subproblems, overlapping subproblems abandoning paths that violate
+reconsidering decisions solves recursively, and and stores results constraints
+
+combines results (memoization/tabulation)
+
+Optimality May or may not give global Gives optimal solution if Always gives optimal Guarantees optimal solution
+optimum (depends on subproblems are solved solution (based on but by exhaustive search
+greedy property) optimally Principle of Optimality)
+
+Efficiency Very efficient ~ usually Efficient — typically O(n log Moderate — improves Least efficient often
+O{n) or O(n log n) n) exponential problems to exponential time O(2")
+
+polynomial time
+
+Real-World - Network design (MST) - Sorting (Merge Sort, - Shortest path
+Applications - Scheduling problems Quick Sort) - Resou
+- Data compression ~ Binary search
+
+- Parallel computing
 ````
 
 ## 2025-26 · Final-Exam · Sem 4 · Answer key · paper 9a8573c3d8f9
@@ -131,6 +227,7 @@ complexity. Draw the state space tree for n=4.
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_CS_7055/Design and Analysis of Algorithms/ANS_Design and Analysis of Algorithms(702CO0C071)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: text (13 pages)
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -219,6 +316,23 @@ Feature   Brute Force   Backtracking
 Approach   Tries all combinations Prunes invalid
 branches early
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+1 Algorithm DAndC(P)
+
+2 {
+3 if Small(P) then return S(P);
+
+4 else
+
+5
+
+6 divide P into smaller instances P;, P2,...,P_, k > 1;
+
+7 Apply DAndC to each of these subproblems;
+
+8 return Combine(DAndC(P, ),DAndC(P2),...,DAndC(P,));
+9
 --- page 3 ---
 Efficiency   Poor (exponential   Better (pruning
 always)   reduces states)
@@ -278,6 +392,42 @@ SO,BL   their nutritional values (450, 500, 300, 380) respectively. Identify how
 can the truck be loaded with maximum nutritional value, considering
 food can be split into smaller portions.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+LCS-LENGTH(X, Y)
+
+1 m= X. length
+
+2 n= /Y.length
+
+3 let b[1..m,1..n] and c[0..m,0..n] be new tables
+4 fori = 1tom
+
+5 c[i, 0] = 0
+
+6 for 7 = Oton
+
+7 c[0, 7] =0
+
+8 fori = ltom
+
+9 for j = lton
+
+10 if x; == y;
+
+11 cli, fj] =cfi-1,f-—1)+1
+12 bli, J) = “N°
+
+13 elseif c{i —1, 7] => cli, 7 —1]
+14 cli, j] = cfi-1, J]
+
+15 bli, j] = “t”
+
+16 else c[i, j] = ci, j — 1]
+
+17 bj, j] =“<”
+
+18 return c and b
 --- page 5 ---
 ii. Identify the highest total nutritional value obtained, considering the
 given constraint.
@@ -409,6 +559,23 @@ Tracing of 4 Queen- 5marks
 Should include Explicit and implicit conditions and stsep by step tracing
 for the solution
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+1 Algorithm GreedyJob(d, J,n)
+2 // Jisaset of jobs that can be completed by their deadlines.
+
+3
+
+4 J :={1}5
+
+5 for i := 2 to n do
+
+6
+
+7 if (all jobs in J U {i} can be completed
+
+8 by their deadlines) then J := J U {i};
+9
 --- page 9 ---
 B   A delivery truck has a maximum capacity of 10 units. The items   [10]
 available are:
@@ -435,6 +602,28 @@ d) Selected Items (2 Marks)
 Backtracking from
 𝑑𝑝[4][10]=100:
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+A 3 / \ 8
+
+2 a Q 4 2 & Q
+a a = 8 it [o}
+[\\ 7. .
+
+23 44 3 4
+a a
+a a
+71\ Fes
+1
+[ol
+a
+a
+solution
+
+FIGURE 12.2 State-space tree of solving the four-queens problem by backtracking.
+x denotes an unsuccessful attempt to place a queen in the indicated
+column. The numbers above the nodes indicate the order in which the
+nodes are generated.
 --- page 10 ---
 • Compare 𝑑𝑝[4][10] with 𝑑𝑝[3][10]→ same ⇒ Item 4 not
 selected
@@ -510,6 +699,59 @@ Step 2: Values at Key Input Sizes
 n   𝑇𝑋= 5𝑛 𝑇𝑌= 5 log10 𝑛 𝑇𝑍= 𝑛2
 10   50   5   100
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+2 // all: nj is a global a Parameters é@ and j are integers,
+1 i
+
+3 = jain, The effect is to set yan and rrire to the
+4 // largest and smallest values in ali ; j], respectively.
+
+5
+
+6 t if G — 7) then rnau rise :— alt}; // Small(?)
+
+7 else if (i = j 1) then // Another case of Small(7?)
+8
+
+9 if (ali) []) then
+
+10 {
+
+1 max := ali]; nvin :—~ alz]s
+
+12 7
+
+13s else
+
+da
+
+iS max >— alt}; min :— aly];
+
+16
+
+17
+
+18 else
+
+19 { // ACP is not small, divide P into subprotlems.
+20 // Find where to split the set.
+
+21 mid i= ((@+ 7)/243
+
+22 // Solve the subproblems.
+
+Q3 MaxMin(é, mid, mea, mir);
+
+
+25 // Combine the solutions.
+
+26 if (maa << rnarl) then saw 2 reel;
+27 if (min = min i) them min :— mini;
+
+28 }
+
+29 }
 --- page 13 ---
 100   500   10   10,000
 1000 5000   15   1,000,000
@@ -542,6 +784,20 @@ globally optimal solution.
 from optimal solutions of subproblems.
 Marks: Each property correct explanation- 2.5 marks each
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+20
+
+ee Growth Rate Comparison of Algorithms X, Y, and Z
+
+— 1 x=5n
+— TY =Slegiaim
+— Tz=n72
+
+fy 200 400 600 ‘200 1000
+Input Size (n>
 ````
 
 ## 2025-26 · Final-Exam · Sem 4 · Answer key · paper e04d8ab24cd2
@@ -551,6 +807,7 @@ Marks: Each property correct explanation- 2.5 marks each
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_Computer_7002/Design and Analysis of Algorithms/ANS_Design and Analysis of Algorithms(702CO0C071)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: text (13 pages)
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -639,6 +896,23 @@ Feature   Brute Force   Backtracking
 Approach   Tries all combinations Prunes invalid
 branches early
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+1 Algorithm DAndC(P)
+
+2 {
+3 if Small(P) then return S(P);
+
+4 else
+
+5
+
+6 divide P into smaller instances P;, P2,...,P_, k > 1;
+
+7 Apply DAndC to each of these subproblems;
+
+8 return Combine(DAndC(P, ),DAndC(P2),...,DAndC(P,));
+9
 --- page 3 ---
 Efficiency   Poor (exponential   Better (pruning
 always)   reduces states)
@@ -698,6 +972,42 @@ SO,BL   their nutritional values (450, 500, 300, 380) respectively. Identify how
 can the truck be loaded with maximum nutritional value, considering
 food can be split into smaller portions.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+LCS-LENGTH(X, Y)
+
+1 m= X. length
+
+2 n= /Y.length
+
+3 let b[1..m,1..n] and c[0..m,0..n] be new tables
+4 fori = 1tom
+
+5 c[i, 0] = 0
+
+6 for 7 = Oton
+
+7 c[0, 7] =0
+
+8 fori = ltom
+
+9 for j = lton
+
+10 if x; == y;
+
+11 cli, fj] =cfi-1,f-—1)+1
+12 bli, J) = “N°
+
+13 elseif c{i —1, 7] => cli, 7 —1]
+14 cli, j] = cfi-1, J]
+
+15 bli, j] = “t”
+
+16 else c[i, j] = ci, j — 1]
+
+17 bj, j] =“<”
+
+18 return c and b
 --- page 5 ---
 ii. Identify the highest total nutritional value obtained, considering the
 given constraint.
@@ -829,6 +1139,23 @@ Tracing of 4 Queen- 5marks
 Should include Explicit and implicit conditions and stsep by step tracing
 for the solution
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+1 Algorithm GreedyJob(d, J,n)
+2 // Jisaset of jobs that can be completed by their deadlines.
+
+3
+
+4 J :={1}5
+
+5 for i := 2 to n do
+
+6
+
+7 if (all jobs in J U {i} can be completed
+
+8 by their deadlines) then J := J U {i};
+9
 --- page 9 ---
 B   A delivery truck has a maximum capacity of 10 units. The items   [10]
 available are:
@@ -855,6 +1182,28 @@ d) Selected Items (2 Marks)
 Backtracking from
 𝑑𝑝[4][10]=100:
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+A 3 / \ 8
+
+2 a Q 4 2 & Q
+a a = 8 it [o}
+[\\ 7. .
+
+23 44 3 4
+a a
+a a
+71\ Fes
+1
+[ol
+a
+a
+solution
+
+FIGURE 12.2 State-space tree of solving the four-queens problem by backtracking.
+x denotes an unsuccessful attempt to place a queen in the indicated
+column. The numbers above the nodes indicate the order in which the
+nodes are generated.
 --- page 10 ---
 • Compare 𝑑𝑝[4][10] with 𝑑𝑝[3][10]→ same ⇒ Item 4 not
 selected
@@ -930,6 +1279,59 @@ Step 2: Values at Key Input Sizes
 n   𝑇𝑋= 5𝑛 𝑇𝑌= 5 log10 𝑛 𝑇𝑍= 𝑛2
 10   50   5   100
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+2 // all: nj is a global a Parameters é@ and j are integers,
+1 i
+
+3 = jain, The effect is to set yan and rrire to the
+4 // largest and smallest values in ali ; j], respectively.
+
+5
+
+6 t if G — 7) then rnau rise :— alt}; // Small(?)
+
+7 else if (i = j 1) then // Another case of Small(7?)
+8
+
+9 if (ali) []) then
+
+10 {
+
+1 max := ali]; nvin :—~ alz]s
+
+12 7
+
+13s else
+
+da
+
+iS max >— alt}; min :— aly];
+
+16
+
+17
+
+18 else
+
+19 { // ACP is not small, divide P into subprotlems.
+20 // Find where to split the set.
+
+21 mid i= ((@+ 7)/243
+
+22 // Solve the subproblems.
+
+Q3 MaxMin(é, mid, mea, mir);
+
+
+25 // Combine the solutions.
+
+26 if (maa << rnarl) then saw 2 reel;
+27 if (min = min i) them min :— mini;
+
+28 }
+
+29 }
 --- page 13 ---
 100   500   10   10,000
 1000 5000   15   1,000,000
@@ -962,6 +1364,20 @@ globally optimal solution.
 from optimal solutions of subproblems.
 Marks: Each property correct explanation- 2.5 marks each
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+20
+
+ee Growth Rate Comparison of Algorithms X, Y, and Z
+
+— 1 x=5n
+— TY =Slegiaim
+— Tz=n72
+
+fy 200 400 600 ‘200 1000
+Input Size (n>
 ````
 
 ## 2025-26 · Final-Exam · Sem 4 · Answer key · paper 8fe5e7c57105
@@ -971,6 +1387,7 @@ Marks: Each property correct explanation- 2.5 marks each
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/MBATech_Computer_7047/Design and Analysis of Algorithms/ANS_Design and Analysis of Algorithms(702CO0C071)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: text (13 pages)
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1059,6 +1476,23 @@ Feature   Brute Force   Backtracking
 Approach   Tries all combinations Prunes invalid
 branches early
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+1 Algorithm DAndC(P)
+
+2 {
+3 if Small(P) then return S(P);
+
+4 else
+
+5
+
+6 divide P into smaller instances P;, P2,...,P_, k > 1;
+
+7 Apply DAndC to each of these subproblems;
+
+8 return Combine(DAndC(P, ),DAndC(P2),...,DAndC(P,));
+9
 --- page 3 ---
 Efficiency   Poor (exponential   Better (pruning
 always)   reduces states)
@@ -1118,6 +1552,42 @@ SO,BL   their nutritional values (450, 500, 300, 380) respectively. Identify how
 can the truck be loaded with maximum nutritional value, considering
 food can be split into smaller portions.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+LCS-LENGTH(X, Y)
+
+1 m= X. length
+
+2 n= /Y.length
+
+3 let b[1..m,1..n] and c[0..m,0..n] be new tables
+4 fori = 1tom
+
+5 c[i, 0] = 0
+
+6 for 7 = Oton
+
+7 c[0, 7] =0
+
+8 fori = ltom
+
+9 for j = lton
+
+10 if x; == y;
+
+11 cli, fj] =cfi-1,f-—1)+1
+12 bli, J) = “N°
+
+13 elseif c{i —1, 7] => cli, 7 —1]
+14 cli, j] = cfi-1, J]
+
+15 bli, j] = “t”
+
+16 else c[i, j] = ci, j — 1]
+
+17 bj, j] =“<”
+
+18 return c and b
 --- page 5 ---
 ii. Identify the highest total nutritional value obtained, considering the
 given constraint.
@@ -1249,6 +1719,23 @@ Tracing of 4 Queen- 5marks
 Should include Explicit and implicit conditions and stsep by step tracing
 for the solution
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+1 Algorithm GreedyJob(d, J,n)
+2 // Jisaset of jobs that can be completed by their deadlines.
+
+3
+
+4 J :={1}5
+
+5 for i := 2 to n do
+
+6
+
+7 if (all jobs in J U {i} can be completed
+
+8 by their deadlines) then J := J U {i};
+9
 --- page 9 ---
 B   A delivery truck has a maximum capacity of 10 units. The items   [10]
 available are:
@@ -1275,6 +1762,28 @@ d) Selected Items (2 Marks)
 Backtracking from
 𝑑𝑝[4][10]=100:
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+A 3 / \ 8
+
+2 a Q 4 2 & Q
+a a = 8 it [o}
+[\\ 7. .
+
+23 44 3 4
+a a
+a a
+71\ Fes
+1
+[ol
+a
+a
+solution
+
+FIGURE 12.2 State-space tree of solving the four-queens problem by backtracking.
+x denotes an unsuccessful attempt to place a queen in the indicated
+column. The numbers above the nodes indicate the order in which the
+nodes are generated.
 --- page 10 ---
 • Compare 𝑑𝑝[4][10] with 𝑑𝑝[3][10]→ same ⇒ Item 4 not
 selected
@@ -1350,6 +1859,59 @@ Step 2: Values at Key Input Sizes
 n   𝑇𝑋= 5𝑛 𝑇𝑌= 5 log10 𝑛 𝑇𝑍= 𝑛2
 10   50   5   100
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+2 // all: nj is a global a Parameters é@ and j are integers,
+1 i
+
+3 = jain, The effect is to set yan and rrire to the
+4 // largest and smallest values in ali ; j], respectively.
+
+5
+
+6 t if G — 7) then rnau rise :— alt}; // Small(?)
+
+7 else if (i = j 1) then // Another case of Small(7?)
+8
+
+9 if (ali) []) then
+
+10 {
+
+1 max := ali]; nvin :—~ alz]s
+
+12 7
+
+13s else
+
+da
+
+iS max >— alt}; min :— aly];
+
+16
+
+17
+
+18 else
+
+19 { // ACP is not small, divide P into subprotlems.
+20 // Find where to split the set.
+
+21 mid i= ((@+ 7)/243
+
+22 // Solve the subproblems.
+
+Q3 MaxMin(é, mid, mea, mir);
+
+
+25 // Combine the solutions.
+
+26 if (maa << rnarl) then saw 2 reel;
+27 if (min = min i) them min :— mini;
+
+28 }
+
+29 }
 --- page 13 ---
 100   500   10   10,000
 1000 5000   15   1,000,000
@@ -1382,6 +1944,20 @@ globally optimal solution.
 from optimal solutions of subproblems.
 Marks: Each property correct explanation- 2.5 marks each
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+20
+
+ee Growth Rate Comparison of Algorithms X, Y, and Z
+
+— 1 x=5n
+— TY =Slegiaim
+— Tz=n72
+
+fy 200 400 600 ‘200 1000
+Input Size (n>
 ````
 
 ## 2025-26 · Final-Exam · Sem 5 · Answer key · paper 2dbe342e8fc1
@@ -1449,6 +2025,40 @@ Solution: Huffman tree 3 marks, code 2 marks
 )   subproblem structure and overlapping subproblems. Show with example.
 Solution:
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+[54]
+
+/ \
+[22]EFCBD   [32]AHIG
+f / \
+[1@]EFC [12]BD [14]AH [18]IG
+fr rin i fr
+[5]E [5]FC [6]B [6]D [7]A [7]H [8]I [1e]G
+i
+
+[1]F [4]c
+
+Divide and Conquer vs Dynamic Programming
+
+Feature Divide and Conquer Dynamic Programming
+Subproblem Structure Divides a problem into independent Divides a problem into overlapping
+subproblems that do not overlap. subproblems that are reused multiple
+times.
+Overlapping Subproblems No overlapping — each subproblem is Overlapping — same subproblems occur
+solved once. repeatedly; results are stored
+
+(memoization/tabulation).
+
+Optimal Substructure May or may not use optimal Always relies on optimal substructure
+substructure explicitly. property.
+
+Storage of Results Does not store results of subproblems. Stores results to avoid recomputation.
+
+Example Merge Sort / Quick Sort - each half is 0/1 Knapsack / Fibonacci / Matrix Chain
+independent. Multiplication — subproblems overlap and
+
+reuse results.
 --- page 3 ---
 (d The regional planning committee wants to prepare a digital representation of 5 states   [5]
 )   for a map-based application. The regions must be marked in a digital map so that
@@ -1482,6 +2092,42 @@ loops. So running time of the dynamic programming approach would take O(mn)
 Q.3   (a   (i)   Simulate   Quick   sort   algorithm   for   the   following   example [10
 )   25,36,12,4,5,16,58,54,24,16,9,65,78. Pivot element is 25.   ]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+LCS-LENGTH(X, Y)
+
+1 m= X.length
+
+2 n=Y.length
+
+3 let b[l..m,1..n] and c[0..m,0..n] be new tables
+4 fori = ltom
+
+5 cfi,0] = 0
+
+6 for 7 = Oton
+
+7 co, 7] =0
+
+8 fori = ltom
+
+9 for j = lton
+
+10 ifx; == y;
+
+i cli, j] = ck -—1,7 -1]+1
+12 big] ="
+
+13 elseif c[i — 1, j] = cfi,j —1]
+14 cli, j] = ci —1.j]
+
+15 bi. jJ="t"
+
+16 else cli, j] = cli. j — 1]
+
+17 bli, j] = “—”
+
+18 return c andb
 --- page 5 ---
 (ii) Compute the best case time complexity of quick sort using Master’s theorem.
 Solution : 6 marks solution, 4 marks time complexity
@@ -1500,6 +2146,27 @@ Final Sorted Array:
 )   and compute the solution for the instances S = (3, 5, 6, 7) and sum = 15.   ]
 Solution: 3 marks for explanation, 5 marks for tree, 2 marks for solution
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Recurrence (QuickSort — best case).
+
+When every partition splits the array exactly in half:
+T(n)=27(5)+0(n), TA) = @().
+
+Match to Master Theorem form: T'(n) = aT (n/b) + f(n).
+
+e a-2
+e b=2
+° f(n) = O(n)
+
+Compute nl 4 — nes? — pn! = n,
+We compare f(n) with n!°% 4;
+f(n) = @(n) = (n°)
+so this is Case 2 of the Master Theorem (polynomially equal, ie. f (n) — O(n! log* n) with k = 0
+By Case 2:
+T(n) = @(n'®*log**! n) = O(n log n).
+
+Answer: QuickSort (best case) T(n) = O(n log n).
 --- page 6 ---
 The Sum of Subsets problem is a classic backtracking example where we find all subsets of
 a given set whose elements add up to a specific target sum. The algorithm explores all
@@ -1520,6 +2187,21 @@ Try slot 2 → free → assign J7 → [-, J7, -, -]
 • J3 (20, deadline=4):
 Try slot 4 → free → assign J3 → [-, J7, -, J3]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+| Algorithm GreedyJob(d, J, 1)
+2 // J isa set of jobs that can be completed by their deadlines.
+
+4 J = {1};
+
+5 for i := 2 to n do
+
+6
+
+7 if (all jobs in J U {i} can be completed
+
+8 by their deadlines) then J := J U {i};
+9
 --- page 7 ---
 • J4 (18, deadline=3):
 Try slot 3 → free → assign J4 → [-, J7, J4, J3]
@@ -1569,6 +2251,15 @@ numbers to itself. The function f is said to be Θ(g), if there are
 constants c1, c2 > 0 and a natural number n0 such that c1* g(n) ≤ f(n)
 ≤ c2 * g(n) for all n ≥ n0
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Compute DP[4][6] and DP[4][7]
+© DP[4][6]: w = weight[4]=5 —
+
+DP(4)(6] = max(profit(4] + DP(3]|6 — 5], DP(3)[6]) = max(7 + DP(3)[1],6) = max(7 + 1,6) = 8
+© DP[4][7]: w = weight[4]=5 —
+
+DP{4][7] = max(profit[4] + DP[3]|7 — 5], DP{3|[7]) — max(7 + DP[3][2],9) — max(7 + 1,9) — 9
 --- page 9 ---
 Big O Notation
 If f(n) describes the running time of an algorithm, f(n) is O(g(n)) if
@@ -1597,6 +2288,29 @@ Only 2 weight left   52 + 5×23=3.335 \times } =
 2   3   5   0
 — take fraction 2/3   3.335×32=3.33 ≈ 55.33
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+* Greedy-fractional-knapsack (w, v, W)
+1. forj=lton
+
+2. doxf{i] =0
+
+3. weight =0
+
+4. while weight < W
+
+5. do/=best remaining item
+6. if weight + wi/]s W
+
+7. then x{fJ=1
+
+8. weight = weight + w{/]
+9. else
+
+10. x{i) = (w~- weight) / w{i]
+11, weight=W
+
+12. return x
 --- page 11 ---
 Final answer:
 • Take full items: 5, 1, 6, 3, 7
@@ -1648,6 +2362,20 @@ min_final = min(min1, min2)
 max_final = max(max1, max2)
 return (min_final, max_final)
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Fgraph (G, K, n, P)
+{
+Cost[n]:= 0.0;
+for j:=n-1 to 1 step -1do
+{
+
+Let r be a vertex such that <j, > is an edge of G and C[j, r] + cost{r]
+isminimum; _//r is the vertex in v;,, and j be the vertex in v;
+
+C{j, r] + Cost[r]; //taking the value of min. cost edge
+
+Pi] = a[PEi-1N);
 --- page 13 ---
 No. of comparisons 12
 (b   Write the algorithm of Bellmanford approach for single source shortest path and [5]
@@ -1655,6 +2383,53 @@ No. of comparisons 12
 (c   Define P, NP, NP-hard and NP-complete problems with diagram. Give examples for   [5]
 )   each class.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+[@-8]
+fi
+[e-3] [4-8]
+/ \ i \
+[@-1] [2-3] [4-5] [6-8]
+i fN £N / oN
+23 45 12 67 34 89 [6-7] 389
+fx
+54 31
+
+BELLMAN: FORD(V, E, W, S)
+
+INITIALIZE-SINGLE-SOURCE(V, s)
+
+— ew)
+2. fori<lto|V|-1 O ]
+
+3. do for each edge (u,v) ¢ E ™) ‘O(VE)
+4. do RELAX(u, v, w) Of) J
+
+5. for each edge (u,v) «¢ E
+
+6 do if d[v] > d[u] + w(u, v) —— O()
+
+1 then return FALSE
+
+8. return TRUE
+
+Running time: O(V+VE+E)=O(VE)
+
+Class Definition Example
+
+P (Polynomial time) Problems that can be solved in polynomial time by a Sorting (Merge Sort, Quick Sort),
+deterministic algorithm. Shortest Path (Dijkstra)
+
+NP (Nondeterministic Problems for which a given solution can be verified in Subset Sum, Hamiltonian Path,
+
+Polynomial time) polynomial time. Knapsack (0/1)
+
+NP-hard Problems that are at least as hard as the hardest Halting Problem, General TSP
+
+problems in NP. They may not be in NP (solution may
+not be verifiable in polynomial time).
+
+NP-complete Problems that are both in NP and NP-hard. 3-SAT, 0/1 Knapsack, Hamiltonian Cycle
 --- page 14 ---
 NP-Complete, NP-Hard
 
@@ -1676,6 +2451,7 @@ FRR IC 7 I OH
 - Source: `02_Question_Papers/2025/Sem_08/Final-Exam/Integrated_Computer_7032/Design and Analysis of Algorithms/ANS_Design and Analysis of Algorithms(702CO0C010)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: text (13 pages)
+- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1764,6 +2540,23 @@ Feature   Brute Force   Backtracking
 Approach   Tries all combinations Prunes invalid
 branches early
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+1 Algorithm DAndC(P)
+
+2 {
+3 if Small(P) then return S(P);
+
+4 else
+
+5
+
+6 divide P into smaller instances P;, P2,...,P_, k > 1;
+
+7 Apply DAndC to each of these subproblems;
+
+8 return Combine(DAndC(P, ),DAndC(P2),...,DAndC(P,));
+9
 --- page 3 ---
 Efficiency   Poor (exponential   Better (pruning
 always)   reduces states)
@@ -1823,6 +2616,42 @@ SO,BL   their nutritional values (450, 500, 300, 380) respectively. Identify how
 can the truck be loaded with maximum nutritional value, considering
 food can be split into smaller portions.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+LCS-LENGTH(X, Y)
+
+1 m= X. length
+
+2 n= /Y.length
+
+3 let b[1..m,1..n] and c[0..m,0..n] be new tables
+4 fori = 1tom
+
+5 c[i, 0] = 0
+
+6 for 7 = Oton
+
+7 c[0, 7] =0
+
+8 fori = ltom
+
+9 for j = lton
+
+10 if x; == y;
+
+11 cli, fj] =cfi-1,f-—1)+1
+12 bli, J) = “N°
+
+13 elseif c{i —1, 7] => cli, 7 —1]
+14 cli, j] = cfi-1, J]
+
+15 bli, j] = “t”
+
+16 else c[i, j] = ci, j — 1]
+
+17 bj, j] =“<”
+
+18 return c and b
 --- page 5 ---
 ii. Identify the highest total nutritional value obtained, considering the
 given constraint.
@@ -1954,6 +2783,23 @@ Tracing of 4 Queen- 5marks
 Should include Explicit and implicit conditions and stsep by step tracing
 for the solution
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+1 Algorithm GreedyJob(d, J,n)
+2 // Jisaset of jobs that can be completed by their deadlines.
+
+3
+
+4 J :={1}5
+
+5 for i := 2 to n do
+
+6
+
+7 if (all jobs in J U {i} can be completed
+
+8 by their deadlines) then J := J U {i};
+9
 --- page 9 ---
 B   A delivery truck has a maximum capacity of 10 units. The items   [10]
 available are:
@@ -1980,6 +2826,28 @@ d) Selected Items (2 Marks)
 Backtracking from
 𝑑𝑝[4][10]=100:
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+A 3 / \ 8
+
+2 a Q 4 2 & Q
+a a = 8 it [o}
+[\\ 7. .
+
+23 44 3 4
+a a
+a a
+71\ Fes
+1
+[ol
+a
+a
+solution
+
+FIGURE 12.2 State-space tree of solving the four-queens problem by backtracking.
+x denotes an unsuccessful attempt to place a queen in the indicated
+column. The numbers above the nodes indicate the order in which the
+nodes are generated.
 --- page 10 ---
 • Compare 𝑑𝑝[4][10] with 𝑑𝑝[3][10]→ same ⇒ Item 4 not
 selected
@@ -2055,6 +2923,59 @@ Step 2: Values at Key Input Sizes
 n   𝑇𝑋= 5𝑛 𝑇𝑌= 5 log10 𝑛 𝑇𝑍= 𝑛2
 10   50   5   100
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+2 // all: nj is a global a Parameters é@ and j are integers,
+1 i
+
+3 = jain, The effect is to set yan and rrire to the
+4 // largest and smallest values in ali ; j], respectively.
+
+5
+
+6 t if G — 7) then rnau rise :— alt}; // Small(?)
+
+7 else if (i = j 1) then // Another case of Small(7?)
+8
+
+9 if (ali) []) then
+
+10 {
+
+1 max := ali]; nvin :—~ alz]s
+
+12 7
+
+13s else
+
+da
+
+iS max >— alt}; min :— aly];
+
+16
+
+17
+
+18 else
+
+19 { // ACP is not small, divide P into subprotlems.
+20 // Find where to split the set.
+
+21 mid i= ((@+ 7)/243
+
+22 // Solve the subproblems.
+
+Q3 MaxMin(é, mid, mea, mir);
+
+
+25 // Combine the solutions.
+
+26 if (maa << rnarl) then saw 2 reel;
+27 if (min = min i) them min :— mini;
+
+28 }
+
+29 }
 --- page 13 ---
 100   500   10   10,000
 1000 5000   15   1,000,000
@@ -2087,6 +3008,20 @@ globally optimal solution.
 from optimal solutions of subproblems.
 Marks: Each property correct explanation- 2.5 marks each
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+10
+
+20
+
+ee Growth Rate Comparison of Algorithms X, Y, and Z
+
+— 1 x=5n
+— TY =Slegiaim
+— Tz=n72
+
+fy 200 400 600 ‘200 1000
+Input Size (n>
 ````
 
 ## 2025-26 · Re-Exam · Sem 4 · Answer key · paper d3261fc6e48d
@@ -2127,6 +3062,22 @@ CO-2;   b.   What is the greedy choice property? How is it satisfied in MST
 SO-6;   problems?   1+4
 BO-3
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+The fundamental characteristics of an algorithm describe the essential properties that any well-defined
+algorithm must satisfy. These are often asked in theory exams, so it's good to present them clearly with
+examples.
+
+1. Input
+
+An algorithm should accept zero or more inputs.
+
+Example:
+An algorithm to find the sum of two numbers takes inputs a and b.
+
+2. Output
+
+It must produce at least one output/result.
 --- page 2 ---
 c.   Write and explain the algorithm for the Longest Common Subsequence
 using the Dynamic Programming approach. Analyse its time
@@ -2157,6 +3108,46 @@ b.   1) Explain the Merge Sort algorithm using the Divide-and-Conquer
 approach.
 2) Discuss Merge sort with respect to stability and in-place sorting.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Greedy Choice Property
+
+It states that:
+
+A globally optimal solution can be obtained by making a locally optimal (greedy) choice at each step.
+
+In other words, at every stage, we pick the best immediate option without reconsidering previous choices,
+
+and this still leads to the overall optimal solution.
+
+Example (Simple Idea)
+
+In coin change (for certain coin systems), always picking the largest denomination first leads to the
+
+minimum number of coins.
+
+How it is satisfied in Minimum Spanning Tree (MST)
+
+Los.
+
+The Longest Common Subsequence (LCS) problem is a classic example of Dynamic Programming, where
+
+we break the problem into smaller overlapping subproblems and store their results.
+
+@ Problem Definition
+Given two sequences:
+
+© X=21,22,...,L2m
+
+© Y= yi, yr, Yn
+
+Find the longest subsequence common to both sequences (not necessarily contiguous).
+
+Example:
+X = “ABCBDAB"
+Y = “BDCAB”
+
+LCS = “BCAB" (length = 4)
 --- page 3 ---
 a.   1) Explain any two types of algorithmic approaches with examples.
 2) Explain P, NP, NPH, and NPC decision problems with examples
@@ -2176,6 +3167,23 @@ complexity.
 2) Solve for a minimum cost path from ‘s’ to ‘t’ in the multistage graph
 of the figure given below. Adopt a backward approach.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+1) Merge Sort using Divide-and-Conquer
+Merge Sort follows the Divide-and-Conquer paradigm, which involves three steps:
+®@ Steps:
+
+1. Divide
+
+© Split the array into two halves recursively until each subarray has only one element.
+
+2. Conquer
+
+© Recursively sort the subarrays.
+
+3. Combine (Merge)
+
+° Merge the sorted subarrays to produce a fully sorted array.
 --- page 4 ---
 a.   1) What happens to time complexity when:
 a) The number of recursive calls increase?
@@ -2241,6 +3249,47 @@ for( i=0; i<N; i++)
 for(j=0; j<N; j++)
 {
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+1) Problem Statement of the N-Queen’s Problem
+
+The N-Queens Problem is defined as:
+
+Place N queens on an N x N chessboard such that no two queens attack each other.
+
+@ Constraints
+A queen can attack:
+
+¢ Horizontally (same row)
+© Vertically (same column)
+¢ Diagonally
+
+Therefore, the placement must ensure:
+
+© No two queens share the same row
+¢ No two queens share the same column
+
+¢ No two queens lie on the same diagonal LV
+
+@ Longest Common Subsequence (LCS) — Interpretation
+
+ZY Problem
+
+Given two sequences:
+
+e© X =21,%,...,L2m
+© Y= yi, Yass Yn
+
+Find the longest subsequence common to both (not necessarily contiguous).
+
+v Key Idea (Dynamic Programming)
+The problem satisfies:
+
+* Optimal Substructure — LCS of larger strings depends on smaller substrings
+
+© Overlapping Subproblems — Same subproblems are solved repeatedly
+
+Hence, we store results in a table to avoid recomputation.
 --- page 6 ---
 CO-1;   a=a+j;
 SO-1;   }
@@ -2336,6 +3385,27 @@ SO1,
 BL4   i.   Construct Huffman tree
 ii.   Construct Huffman codes
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Algorithm |Backtrack(n)
+
+// This schema describes the backtracking process.
+// All solutions are generated in x[{1 : n] and printed
+// as soon as they are determined.
+
+k:=1;
+while (k 4 0) do
+
+if (there remains an untried z[k] € T(a({1], 2[2],...,
+z[k —1]) and B,(z{1],...,2[k]) is true) then
+
+if (x{1],...,2[k] is a path to an answer node)
+then write (x[{1 : k]);
+k :=k+1; // Consider the next set.
+
+else k := k — 1; // Backtrack to the previous set.
++
+}
 --- page 3 ---
 iii.   Compute total weighted path length
 iv.   Explain why most frequent symbol gets shortest code
@@ -2392,6 +3462,43 @@ Start from m[1,5] = 160
 Look at s[1,5] = 3, so split as:
 (A1A2A3)  and  (A4A5)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+. Form the recurrence relation equation [4 marks]
+Work per call = O(n’) (nested loops) — [2 marks]
+T(n)= 2r( ; )+ [2 marks]
+
+. Analyze the algorithm by using applicable method [3
+
+marks]
+
+Apply Master Theorem:
+
+© a=2,b=2, n°*2 =n
+
+e f(n)=n? > n—Case3
+
+. Identify and justify the applicable case [3 Marks]
+Final Complexity=O(n" )
+
+Justification: dominant term
+
+Final m-table
+
+i\j 1 2 3 4 5
+
+1 oO 120 88 158 160
+2 0 48 104 114
+3 0 84 78
+4 O 42
+
+This table stores the value of k where optimal split occurs.
+
+i\j 1 2 3
+1 - 1 1
+2 - 2
+3 -
+4
 --- page 5 ---
 Then recursively:
 s[1,3]=1⇒(A1)(A2A3)
@@ -2639,6 +3746,27 @@ SO1,
 BL4   i.   Construct Huffman tree
 ii.   Construct Huffman codes
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Algorithm |Backtrack(n)
+
+// This schema describes the backtracking process.
+// All solutions are generated in x[{1 : n] and printed
+// as soon as they are determined.
+
+k:=1;
+while (k 4 0) do
+
+if (there remains an untried z[k] € T(a({1], 2[2],...,
+z[k —1]) and B,(z{1],...,2[k]) is true) then
+
+if (x{1],...,2[k] is a path to an answer node)
+then write (x[{1 : k]);
+k :=k+1; // Consider the next set.
+
+else k := k — 1; // Backtrack to the previous set.
++
+}
 --- page 3 ---
 iii.   Compute total weighted path length
 iv.   Explain why most frequent symbol gets shortest code
@@ -2695,6 +3823,43 @@ Start from m[1,5] = 160
 Look at s[1,5] = 3, so split as:
 (A1A2A3)  and  (A4A5)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+. Form the recurrence relation equation [4 marks]
+Work per call = O(n’) (nested loops) — [2 marks]
+T(n)= 2r( ; )+ [2 marks]
+
+. Analyze the algorithm by using applicable method [3
+
+marks]
+
+Apply Master Theorem:
+
+© a=2,b=2, n°*2 =n
+
+e f(n)=n? > n—Case3
+
+. Identify and justify the applicable case [3 Marks]
+Final Complexity=O(n" )
+
+Justification: dominant term
+
+Final m-table
+
+i\j 1 2 3 4 5
+
+1 oO 120 88 158 160
+2 0 48 104 114
+3 0 84 78
+4 O 42
+
+This table stores the value of k where optimal split occurs.
+
+i\j 1 2 3
+1 - 1 1
+2 - 2
+3 -
+4
 --- page 5 ---
 Then recursively:
 s[1,3]=1⇒(A1)(A2A3)
@@ -2942,6 +4107,27 @@ SO1,
 BL4   i.   Construct Huffman tree
 ii.   Construct Huffman codes
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Algorithm |Backtrack(n)
+
+// This schema describes the backtracking process.
+// All solutions are generated in x[{1 : n] and printed
+// as soon as they are determined.
+
+k:=1;
+while (k 4 0) do
+
+if (there remains an untried z[k] € T(a({1], 2[2],...,
+z[k —1]) and B,(z{1],...,2[k]) is true) then
+
+if (x{1],...,2[k] is a path to an answer node)
+then write (x[{1 : k]);
+k :=k+1; // Consider the next set.
+
+else k := k — 1; // Backtrack to the previous set.
++
+}
 --- page 3 ---
 iii.   Compute total weighted path length
 iv.   Explain why most frequent symbol gets shortest code
@@ -2998,6 +4184,43 @@ Start from m[1,5] = 160
 Look at s[1,5] = 3, so split as:
 (A1A2A3)  and  (A4A5)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+. Form the recurrence relation equation [4 marks]
+Work per call = O(n’) (nested loops) — [2 marks]
+T(n)= 2r( ; )+ [2 marks]
+
+. Analyze the algorithm by using applicable method [3
+
+marks]
+
+Apply Master Theorem:
+
+© a=2,b=2, n°*2 =n
+
+e f(n)=n? > n—Case3
+
+. Identify and justify the applicable case [3 Marks]
+Final Complexity=O(n" )
+
+Justification: dominant term
+
+Final m-table
+
+i\j 1 2 3 4 5
+
+1 oO 120 88 158 160
+2 0 48 104 114
+3 0 84 78
+4 O 42
+
+This table stores the value of k where optimal split occurs.
+
+i\j 1 2 3
+1 - 1 1
+2 - 2
+3 -
+4
 --- page 5 ---
 Then recursively:
 s[1,3]=1⇒(A1)(A2A3)
@@ -3270,6 +4493,22 @@ Solution: 5 marks each
 Masters Theorem
 Substitution method
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The Master Method depends on the following Theorem:
+
+Theorem: Let a => 1 and b > 1 be constants, let f(n) be a function, and let T(n) be
+defined on the nonnegative integers by the recurrence:
+
+T(n) =aT (7) +f(n)
+
+Then T(n) can be bounded asymptotically as follows.
+
+1. If f(n) = O(n!8 2) for some constant ¢ > 0, then T(n) = O(n!°8 2),
+2. If f(n) = O(n!8 4), then T(n) = O(n! * ign).
+3. if f(n) = Q(n!& *+) for some constant £ > 0, and if a- f (7) = cf(n) for some constant
+
+¢ < 1 and all sufficiently large n, then T(n) = O(f(n)). F 4
 --- page 4 ---
 (b) Consider the problem of finding the Longest Common Subsequence (LCS) between   [10
 two given strings S1 = TAGTCACG and S2 = AGACTGTC.   ]
@@ -3283,6 +4522,21 @@ i.
 The LCS for the above example is AGACG of length 5.
 ii.   Algorithm
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+T(n) =T(n—1)+n
+Substitute for T(n — 1):
+T(n) = [T(n— 2) + (n—1)] +n=T(n—2) + (n—1) +n
+Substitute again:
+T(n) = T(n—3)+(n—2)+(n—-1) +n
+
+Continuing this pattern k times:
+
+k-1
+
+T(n) =T(n—k) + S\(n-i)
+
+i=0
 --- page 5 ---
 Time Complexity: O(mxn)
 Q.3 (a)   (i) Write the algorithm of merging step of merge sort.   [10
@@ -3307,6 +4561,42 @@ if L[i] ≤ R[j]
 A[k] = L[i]
 i = i + 1
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+LCS-LENGTH(X, Y)
+
+1 m= X.length
+
+2 n=Y.length
+
+3 let b[l..m,1..n] and c[0..m,0..n] be new tables
+4 fori = ltom
+
+5 cfi,0] = 0
+
+6 for 7 = Oton
+
+7 co, 7] =0
+
+8 fori = ltom
+
+9 for j = lton
+
+10 ifx; == y;
+
+i cli, j] = ck -—1,7 -1]+1
+12 big] ="
+
+13 elseif c[i — 1, j] = cfi,j —1]
+14 cli, j] = ci —1.j]
+
+15 bi. jJ="t"
+
+16 else cli, j] = cli. j — 1]
+
+17 bli, j] = “—”
+
+18 return c andb
 --- page 6 ---
 else
 A[k] = R[j]
@@ -3323,6 +4613,26 @@ o Merge [8, 22] and [12, 21] → [8, 12, 21, 22]
 Final Merge:
 Merge [5, 6, 15, 17] and [8, 12, 21, 22]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Expand once
+
+Step 2: Expand again
+
+Step 3: Observe the pattern
+After k levels of expansion:
+
+T(n) = 27 (5) +en
+
+T(n)=2 [2r (=) + er +en
+
+T(n) —4T (=) + 2cn
+
+T(n) = 427 (=) + ct] +2cn
+
+T(n) — 87 (5) + 8cn
+
+T(n) = 2*T (sz) + ken
 --- page 7 ---
 (b) Explain the concept of graph coloring. Identify the minimum number of colors [10
 required to color the nodes of the given graph using state space tree.   ]
@@ -3330,6 +4640,19 @@ Solution: concept ( 3 marks), solution ( 7 markS)
 Graph coloring is the process of assigning colors to the vertices (or edges) of a graph such
 that no two adjacent vertices (or edges) have the same color.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+At the last level, 3; = 1
+=> 2*-nsk=logyn
+Substitute this in the above expression:
+T(n) = nT(1) + enlogyn
+Since T(1) = ¢,
+
+T(n) = en + enlogyn
+
+Step 5: Simplify
+
+T(n) = O(nlogn)
 --- page 8 ---
 Q.4 (a) Write algorithm for greedy knapsack and obtain the solution to following [10
 fractional   greedy knapsack problem where n=5, m=100, (p1, p2....p5) =   ]
@@ -3402,6 +4725,23 @@ Bellman ford algorithm
 Q.5 (a) Consider the following graph and compute the shortest path   [10
 ]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+BELLMAN-FORD(G, w,s)
+
+| INITIALIZE-SINGLE-SOURCE(G,. 5)
+2 fori = 1 to|G.V|-—1
+
+3 for each edge (u,v) € G.E
+4 RELAX (u,v. Ww)
+
+5 for each edge (u,v) € G.E
+
+6 ifv.d>u.d+w(u,v)
+
+7 return FALSE
+
+8 return TRUE
 --- page 11 ---
 Solution
 Step 1: Cost (K-2, j)
@@ -3461,6 +4801,23 @@ for w = 1 to W
 do
 if wi ≤ w then
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Algorithm
+
+| Algorithm GreedyJob(d, J, n)
+2 // J isaset of jobs that can be completed by their deadlines.
+
+4 J = {1};
+
+5 for i := 2 to n do
+
+6
+
+7 if (all jobs in J U {i} can be completed
+
+8 by their deadlines) then J := J U {i};
+9
 --- page 13 ---
 if vi + c[i-1, w-wi]
 then c[i, w] = vi + c[i-1, w-wi]
@@ -3488,6 +4845,23 @@ independently on both the left and right groups until all marks are in order.
 (iii) Compute the worst-case time complexity of the identified algorithm
 (b) Explain P, NP, NP hard and NP complete problem with example.   [5]
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Class Definition Example
+
+P (Polynomial time) Problems that can be solved in polynomial time by 2 Sorting (Merge Sort, Quick Sort),
+deterministic algorithm. Shortest Path (Dijkstra)
+
+NP (Nondeterministic Problems for which a given solution can be verified in Subset Sum, Hamiltonian Path,
+
+Polynomial time) polynomial time. Knapsack (0/1)
+
+NP-hard Problems that are at least as hard as the hardest Halting Problem, General TSP
+
+problems in NP. They may not be in NP (solution may
+not be verifiable in polynomial time).
+
+NP-complete Problems that are both in NP and NP-hard. 3-SAT, 0/1 Knapsack, Hamiltonian Cycle
 --- page 14 ---
 (c)   Give the definition & mathematical representation of Big Oh (O) notation and [5]
 test if f(n) = O(g(n)) when f(n) = n+20 and g(n) = n. Compute the Omega (Ω)
@@ -3499,6 +4873,15 @@ the worst-case time complexity, indicating how the runtime scales with input siz
 nnn. It provides an upper limit such that the function doesn't grow faster than a
 certain rate.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Class Example Problem
+
+P Sorting, Minimum Spanning Tree, Shortest Path (Dijkstra)
+NP Subset Sum, Graph Coloring, Hamiltonian Path
+NP-hard Traveling Salesman Problem (general), Halting Problem
+
+NP-complete 3-SAT, 0/1 Knapsack, Hamiltonian Cycle, Graph Coloring
 --- page 15 ---
 Let's try to find constants ¢ and no.
 
@@ -3629,6 +5012,22 @@ Solution: 5 marks each
 Masters Theorem
 Substitution method
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The Master Method depends on the following Theorem:
+
+Theorem: Let a => 1 and b > 1 be constants, let f(n) be a function, and let T(n) be
+defined on the nonnegative integers by the recurrence:
+
+T(n) =aT (7) +f(n)
+
+Then T(n) can be bounded asymptotically as follows.
+
+1. If f(n) = O(n!8 2) for some constant ¢ > 0, then T(n) = O(n!°8 2),
+2. If f(n) = O(n!8 4), then T(n) = O(n! * ign).
+3. if f(n) = Q(n!& *+) for some constant £ > 0, and if a- f (7) = cf(n) for some constant
+
+¢ < 1 and all sufficiently large n, then T(n) = O(f(n)). F 4
 --- page 4 ---
 (b) Consider the problem of finding the Longest Common Subsequence (LCS) between   [10
 two given strings S1 = TAGTCACG and S2 = AGACTGTC.   ]
@@ -3642,6 +5041,21 @@ i.
 The LCS for the above example is AGACG of length 5.
 ii.   Algorithm
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+T(n) =T(n—1)+n
+Substitute for T(n — 1):
+T(n) = [T(n— 2) + (n—1)] +n=T(n—2) + (n—1) +n
+Substitute again:
+T(n) = T(n—3)+(n—2)+(n—-1) +n
+
+Continuing this pattern k times:
+
+k-1
+
+T(n) =T(n—k) + S\(n-i)
+
+i=0
 --- page 5 ---
 Time Complexity: O(mxn)
 Q.3 (a)   (i) Write the algorithm of merging step of merge sort.   [10
@@ -3666,6 +5080,42 @@ if L[i] ≤ R[j]
 A[k] = L[i]
 i = i + 1
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+LCS-LENGTH(X, Y)
+
+1 m= X.length
+
+2 n=Y.length
+
+3 let b[l..m,1..n] and c[0..m,0..n] be new tables
+4 fori = ltom
+
+5 cfi,0] = 0
+
+6 for 7 = Oton
+
+7 co, 7] =0
+
+8 fori = ltom
+
+9 for j = lton
+
+10 ifx; == y;
+
+i cli, j] = ck -—1,7 -1]+1
+12 big] ="
+
+13 elseif c[i — 1, j] = cfi,j —1]
+14 cli, j] = ci —1.j]
+
+15 bi. jJ="t"
+
+16 else cli, j] = cli. j — 1]
+
+17 bli, j] = “—”
+
+18 return c andb
 --- page 6 ---
 else
 A[k] = R[j]
@@ -3682,6 +5132,26 @@ o Merge [8, 22] and [12, 21] → [8, 12, 21, 22]
 Final Merge:
 Merge [5, 6, 15, 17] and [8, 12, 21, 22]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Expand once
+
+Step 2: Expand again
+
+Step 3: Observe the pattern
+After k levels of expansion:
+
+T(n) = 27 (5) +en
+
+T(n)=2 [2r (=) + er +en
+
+T(n) —4T (=) + 2cn
+
+T(n) = 427 (=) + ct] +2cn
+
+T(n) — 87 (5) + 8cn
+
+T(n) = 2*T (sz) + ken
 --- page 7 ---
 (b) Explain the concept of graph coloring. Identify the minimum number of colors [10
 required to color the nodes of the given graph using state space tree.   ]
@@ -3689,6 +5159,19 @@ Solution: concept ( 3 marks), solution ( 7 markS)
 Graph coloring is the process of assigning colors to the vertices (or edges) of a graph such
 that no two adjacent vertices (or edges) have the same color.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+At the last level, 3; = 1
+=> 2*-nsk=logyn
+Substitute this in the above expression:
+T(n) = nT(1) + enlogyn
+Since T(1) = ¢,
+
+T(n) = en + enlogyn
+
+Step 5: Simplify
+
+T(n) = O(nlogn)
 --- page 8 ---
 Q.4 (a) Write algorithm for greedy knapsack and obtain the solution to following [10
 fractional   greedy knapsack problem where n=5, m=100, (p1, p2....p5) =   ]
@@ -3761,6 +5244,23 @@ Bellman ford algorithm
 Q.5 (a) Consider the following graph and compute the shortest path   [10
 ]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+BELLMAN-FORD(G, w,s)
+
+| INITIALIZE-SINGLE-SOURCE(G,. 5)
+2 fori = 1 to|G.V|-—1
+
+3 for each edge (u,v) € G.E
+4 RELAX (u,v. Ww)
+
+5 for each edge (u,v) € G.E
+
+6 ifv.d>u.d+w(u,v)
+
+7 return FALSE
+
+8 return TRUE
 --- page 11 ---
 Solution
 Step 1: Cost (K-2, j)
@@ -3820,6 +5320,23 @@ for w = 1 to W
 do
 if wi ≤ w then
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Algorithm
+
+| Algorithm GreedyJob(d, J, n)
+2 // J isaset of jobs that can be completed by their deadlines.
+
+4 J = {1};
+
+5 for i := 2 to n do
+
+6
+
+7 if (all jobs in J U {i} can be completed
+
+8 by their deadlines) then J := J U {i};
+9
 --- page 13 ---
 if vi + c[i-1, w-wi]
 then c[i, w] = vi + c[i-1, w-wi]
@@ -3847,6 +5364,23 @@ independently on both the left and right groups until all marks are in order.
 (iii) Compute the worst-case time complexity of the identified algorithm
 (b) Explain P, NP, NP hard and NP complete problem with example.   [5]
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Class Definition Example
+
+P (Polynomial time) Problems that can be solved in polynomial time by 2 Sorting (Merge Sort, Quick Sort),
+deterministic algorithm. Shortest Path (Dijkstra)
+
+NP (Nondeterministic Problems for which a given solution can be verified in Subset Sum, Hamiltonian Path,
+
+Polynomial time) polynomial time. Knapsack (0/1)
+
+NP-hard Problems that are at least as hard as the hardest Halting Problem, General TSP
+
+problems in NP. They may not be in NP (solution may
+not be verifiable in polynomial time).
+
+NP-complete Problems that are both in NP and NP-hard. 3-SAT, 0/1 Knapsack, Hamiltonian Cycle
 --- page 14 ---
 (c)   Give the definition & mathematical representation of Big Oh (O) notation and [5]
 test if f(n) = O(g(n)) when f(n) = n+20 and g(n) = n. Compute the Omega (Ω)
@@ -3858,6 +5392,15 @@ the worst-case time complexity, indicating how the runtime scales with input siz
 nnn. It provides an upper limit such that the function doesn't grow faster than a
 certain rate.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Class Example Problem
+
+P Sorting, Minimum Spanning Tree, Shortest Path (Dijkstra)
+NP Subset Sum, Graph Coloring, Hamiltonian Path
+NP-hard Traveling Salesman Problem (general), Halting Problem
+
+NP-complete 3-SAT, 0/1 Knapsack, Hamiltonian Cycle, Graph Coloring
 --- page 15 ---
 Let's try to find constants ¢ and no.
 
@@ -3963,6 +5506,27 @@ SO1,
 BL4   i.   Construct Huffman tree
 ii.   Construct Huffman codes
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Algorithm |Backtrack(n)
+
+// This schema describes the backtracking process.
+// All solutions are generated in x[{1 : n] and printed
+// as soon as they are determined.
+
+k:=1;
+while (k 4 0) do
+
+if (there remains an untried z[k] € T(a({1], 2[2],...,
+z[k —1]) and B,(z{1],...,2[k]) is true) then
+
+if (x{1],...,2[k] is a path to an answer node)
+then write (x[{1 : k]);
+k :=k+1; // Consider the next set.
+
+else k := k — 1; // Backtrack to the previous set.
++
+}
 --- page 3 ---
 iii.   Compute total weighted path length
 iv.   Explain why most frequent symbol gets shortest code
@@ -4019,6 +5583,43 @@ Start from m[1,5] = 160
 Look at s[1,5] = 3, so split as:
 (A1A2A3)  and  (A4A5)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+. Form the recurrence relation equation [4 marks]
+Work per call = O(n’) (nested loops) — [2 marks]
+T(n)= 2r( ; )+ [2 marks]
+
+. Analyze the algorithm by using applicable method [3
+
+marks]
+
+Apply Master Theorem:
+
+© a=2,b=2, n°*2 =n
+
+e f(n)=n? > n—Case3
+
+. Identify and justify the applicable case [3 Marks]
+Final Complexity=O(n" )
+
+Justification: dominant term
+
+Final m-table
+
+i\j 1 2 3 4 5
+
+1 oO 120 88 158 160
+2 0 48 104 114
+3 0 84 78
+4 O 42
+
+This table stores the value of k where optimal split occurs.
+
+i\j 1 2 3
+1 - 1 1
+2 - 2
+3 -
+4
 --- page 5 ---
 Then recursively:
 s[1,3]=1⇒(A1)(A2A3)
@@ -4299,6 +5900,26 @@ SO-; BL-
 1. Input
 • The algorithm must take zero or more inputs.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+3. Algorithm (Step-by-Step)
+
+Step 1: Initialization
+1. Let dist[] be an array of size V,, initialized as:
+© dist[s] = @ (distance from source to itself is 0).
+
+© dist[v] = © for all other vertices v.
+
+Step 2: Relaxation of Edges (Repeat for V — 1 times)
+2. Repeat for V — 1 times:
+* For each edge (u, v, w), update distance if a shorter path is found:
+if dist{u| + w < dist{v] then dist|v] = dist{u] + w
+Step 3: Negative Cycle Detection
+3. Check for Negative Weight Cycles:
+* Ifafter V — 1 iterations, an edge (u, v, w) still satisfies:
+dist(u] + w < dist{v]
+
+then negative weight cycle exists.
 --- page 4 ---
 2. Output
 • The algorithm must produce at least one output (result).
@@ -4319,6 +5940,18 @@ number as the pivot, and discuss its asymptotic analysis for all cases:
 [7]
 b.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Algorithm (Binary Search - Iterative Approach)
+1. Initialize low = @ and high =n - 1.
+
+2. Repeat while low <= high:
+a. Compute mid = (low + high) / 2.
+b. If arr[mid] == key, return mid (element found).
+c. If arr[mid] < key, Set low = mid + 1 (search in the right half).
+d. Else, set high = mid - 1 (search in the left half).
+
+3. If low > high, return -1 (element not found).
 --- page 5 ---
 Solve the two strings A = “abcbdab” and B = “bdcaba” for the longest
 common subsequence using dynamic programming. Let x be the length
@@ -4326,6 +5959,55 @@ of the longest common subsequence between A and B, and let y be the
 number of such subsequences. Then, compute x + 10y. Justify its Time
 Complexity.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Step-by-Step Execution (Data Trace Path)
+Step 1: First Partition (Pivot = 20)
+* Pivot: 20
+* Partitioning:
+
+e Elements < 20 [10, 8, 6, 11]
+
+e Elements > 20 — [33, 27, 58, 66, 49]
+e = Rearranged list:
+
+(10, 8, 6, 11, 20, 33, 27, 58, 66, 49]
+
+Step 2: Recursively Sort Left Subarray [10, 8, 6, 11] (Pivot = 10)
+* Pivot: 10
+* Partitioning:
+
+« Elements < 10 — [8, 6]
+
+e Elements > 10 — [11]
+« Rearranged:
+
+(8,6, 10, 11]
+
+Step 2.1: Recursively Sort [8, 6] (Pivot = 8)
+
+« Partitioning:
+e Elements < 10 > [8, 6]
+e Elements > 10 > [11]
+
+e Rearranged:
+
+(8,6, 10, 11]
+Step 2.1: Recursively Sort [8, 6] (Pivot = 8)
+
+« Pivot: 8
+« Partitioning:
+« <8- [6]
+« >8- []
+e Rearranged:
+
+(6,8)
+
+Step 2.2: [11] is already sorted.
+
+Sorted left subarray:
+
+(6, 8, 10, 11]
 --- page 6 ---
 c.   [10]
 a.   [5]
@@ -4336,6 +6018,51 @@ CO-;
 SO-;
 BL-
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Level 0 (Root Level)
+* Work done: n?
+
+«Recursive calls: T(n/2) and T(n/4)
+
+Level 1
+Expand T(n/2) and T(n/4):
+T(n/2) = T(n/4) + T(n/8) + (n/2)?
+T(n/4) = T(n/8) + T(n/16) + (n/4)?
+Total work at this level:
+
+© (n/2)? + (n/4)? = n?/4+ n?/16
+
+Level 2
+
+Expand each subproblem:
+T(n/4) = T(n/8) + T(n/16) + (n/4)?
+T(n/8) = T(n/16) + T(n/32) + (n/8)?
+
+Total work:
+
+2 2 2 2
+4)? + (n/8)? + (n/8)? + (n/16)? = 4
+(n/a)? + (n/8)* + (n/8)? + (n/16)* = + 4 4
+
+Step 2: Pattern Formation
+
+Observing the pattern, at level i:
+
+¢ The subproblem sizes are n/2',n/4', contributing:
+
+(5) +(@).
+
+e The number of terms grows exponentially.
+
+(1 2
+"|G Te
+
+The total work done at level i:
+
+Step 3: Summation Over All Levels
+
+The recursion continues until the subproblem size reaches 1, i.e, 2/2’ = 1, so:
 --- page 7 ---
 Apply the Master Theorem to determine the time complexity and identify
 the case number and error.
@@ -4368,6 +6095,24 @@ break # Move to the next stage
 # Step 5: Return Result
 return dist[1], path
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Summing the contributions from all levels:
+
+T(n) = =n (5 7 w)
+
+This is a geometric series with a constant ratio less than 1, which converges to a constant.
+
+Thus, the total complexity simplifies to:
+
+T(n) = O(n?)
+
+Final Answer
+T(n) = O(n?)
+
+* Conclusion: The dominant term n? dictates the complexity, making the recurrence asymptotically
+
+quadratic O(n”). <
 --- page 8 ---
 # Example Usage
 INF = float('inf')
@@ -4540,6 +6285,25 @@ CO-;   Explain with examples all three cases of the Master Theorem.
 SO-;
 BL-
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Time Complexity Analysis
+
+1. Sorting Edges: O( E log E)
+
+* Sorting the edge list using a comparison-based sort (like Merge Sort or QuickSort).
+2. Find & Union Operations: O( E log V)
+
+e Find operation is nearly O(1) due to path compression.
+
+* Union operation is amortized O(a(V)), where a(V) is the inverse Ackermann function, which
+grows very slowly.
+
+3. Overall Complexity:
+O(E log E) + O(E log V) = O(E log V)
+Since E log E = E log V (in connected graphs, BE ~ V2), we conclude:
+
+O(EBlogV)
 --- page 13 ---
 b.
 Define state space tree. Explain with an example.
@@ -4558,6 +6322,31 @@ Write and explain the algorithm for Merge Sort by providing a suitable
 example. Discuss its time complexity for all cases.
 [5]
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Master Theorem Explanation with All Three Cases
+
+The Master Theorem provides an easy way to analyze the time complexity of divide-and-conquer
+
+algorithms of the form:
+n
+T(n) =aF (*) + F(n)
+where:
+© a= Number of subproblems
+
+e 6 = Factor by which the problem size is reduced
+
+« f(n) = Work done outside recursive calls (merging, partitioning, etc.)
+
+Three Cases of Master Theorem
+
+The complexity of T’(n) is determined by comparing f (n) with O(n!%*):
+
+Case Condition Complexity
+Case1 f(n) = O(n"),c < log,a O(n'°#2)
+Case 2 f(n) = O(n*),c = log, a O(n° log n)
+
+case3.——f (n) = (n°), ¢ > log, a and regularity condition holds O(F(n))
 --- page 14 ---
 d.
 [5]
@@ -4572,6 +6361,49 @@ adjacent vertices).
 •   If no valid color is found, backtrack and change the previous vertex's
 color.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Algorithm for Merge Sort
+MergeSort(A, left, right)
+1. Ifleft < right:
+« Find the middle index: mid = (left + right) /2
+e Recursively sort the left half: MergeSort(A, left, mid)
+e Recursively sort the right half: MergeSort(A, mid+1, right)
+
+© Merge both sorted halves using Merge(A, left, mid, right)
+
+Merge(A, left, mid, right)
+1. Create two temporary arrays:
+© Left[] = A[left ... mid]
+© =Right[] = A[mid+1 ... right]
+2. Compare elements from both arrays and place them in the correct order in A.
+
+3. Copy any remaining elements from Left[] and Right[] into a.
+
+Time Complexity Analysis
+
+The worst-case time complexity of the backtracking approach is:
+O(m")
+
+where:
+
+« V is the number of vertices.
+
+* mis the number of colors.
+
+Breakdown of Complexity
+1. Each vertex has m choices - O(m) per vertex.
+2. There are V vertices — Recursive depth is O(V).
+
+3. Total combinations - O(m" ).
+
+Best, Average, and Worst Cases
+
+Case Complexity Explanation
+Best Case O(V) If an early valid coloring is found.
+Average Case O(m") Recursion explores valid paths.
+
+Worst Case O(m") Tries all color combinations before backtracking.
 --- page 15 ---
 FRR IC 7 DA HOH
 ````
@@ -4660,6 +6492,33 @@ return arr[low], arr[low]
 if high == low + 1:
 if arr[low] < arr[high]:
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Algorithm DYNAMIC PROGRAMMING (P)
+
+if solved(P) then
+return lookup (P)
+else
+Ans + SOLVE (P)
+store (P, Ans)
+end
+
+Function SOLVE (P)
+if sufficiently small(P) then
+
+solution(P) // Find solution for sufficiently small problem
+else
+
+Divide P into smaller sub problems Pi, Pz, .., Py
+
+Ans; «+ DYNAMIC PROGRAMMIN (P;)
+
+Ans; « DYNAMIC _PROGRAMMIN (P2)
+
+Ans, «+ DYNAMIC _PROGRAMMIN (P,)
+
+return ( combine (Ans:, Ansz2, .. , ANS,))
+end
 --- page 3 ---
 return arr[low], arr[high]
 else:

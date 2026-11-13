@@ -55,6 +55,24 @@ Page 1 of 6
 2.
 5
 Page 2 of 6
+
+[Text in pictures on this page, read by OCR]
+Characteristics of TPS
+
+1. Reliability: Ensures high accuracy and availability to process
+transactions without errors.
+2. Efficiency: Processes a large volume of transactions quickly.
+3. Consistency: Ensures data integrity through mechanisms like ACID
+(Atomicity, Consistency, Isolation, Durability) properties.
+4. Real-time or Batch Processing:
+o Real-time Processing: Transactions are processed immediately
+as they occur (e.g., ATM withdrawals).
+o Batch Processing: Transactions are collected and processed
+together at a specific time (e.g., payroll processing).
+5. Security: Implements strict access control and encryption to protect
+sensitive information.
+6. Scalability: Can handle growing transaction volumes as the business
+expands.
 --- page 3 ---
 2.
 

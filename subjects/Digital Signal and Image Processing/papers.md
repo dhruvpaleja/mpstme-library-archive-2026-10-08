@@ -1,6 +1,6 @@
 # Digital Signal and Image Processing: question papers in full
 
-15 unique papers · 2013-14 to 2025-26 · Information Technology, Mechatronics
+17 unique papers · 2013-14 to 2025-26 · Information Technology, Mechatronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -564,6 +564,126 @@ response of IIR Filter. ,
 Page 3 of 3
 ````
 
+## 2022-23 · Final-Exam · Sem 7 · paper 00608f77924e
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: MECHATRONICS/SEMESTER VII/DIGITAL SIGNAL AND IMAGE PROCESSING/Digital_Signal_and_Image_Processing__4th_Year__Sem_VII__Year_2022-23__Final_Exam_g4lw7EEBrx.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 18 November 2022
+- Text: ocr (3 pages), mean OCR confidence 81.0
+
+````text
+SVKM’s NMIMS
+
+OOL. OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+“Academic ba 2022-23
+
+Progremmic :B: Tech (Mechatronics) . — ; Year: IV . Semester: VII ~
+| Subject: Digital Signal & Image Processing (PEC-5 9°
+: ; Marks: 100 -
+Date: 18 November 2022 7 Time: 2.00 pm-5.00pm .
+
+Durations: 3 (Hrs) _
+
+-No. of Pages: OS
+Final Examination —
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory. —
+2) Out of remaining questions, attempt any 4 questions.
+
+‘Oo 3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+1 Attempt the followin
+Q Ip g [20]
+CO-2;SO-1; | a. | Explain Neighbors of Pixel. — [05]
+BL-2 .
+b. |For DFT pair shown below, compote the values of
+. . | the boxed quantities.
+BLS |. fated = €5,3,-4,2,0,13 Qik = (4,05 4495.2,0,0, 4 | [05]
+jl.73 }
+7>CO-1;SO-1; | c. | Explain'the concept of frequency warping effect in detail. [05]
+BL-2 ;
+ae SO-1; d. Explain log transformation in detail. [05] -
+Q | ; [20]
+CO-1; SO-1; a ‘| Given x[n]={1, 2; 3, 4, 4, 3, 2,1}. Compute X[K] by using DIT- ia
+BL-3 _| FFT. | . Pa
+b oO [10]
+CO-1; 80-1: : ‘If x(n) = {1,1,2,1} and h(n) = {1,2,3,4}, find circular convolution using
+BL-3 DFT & IDFT. .
+
+Page lof3 .
+--- page 2 ---
+Q3
+
+[20]
+a | Compute the order of a Digital Butterworth filter that satisfies the
+CO-1; SO-1; following constraint using Bilinear Transformation Assume T;= 1 sec:
+0.9 < |Hei!<10 for 0< ws< a2 [06]
+BL-3 :
+lneeiM |< 02> for 304 < wen
+; b P ;
+CO-1; SO-1; Design 5" order Linear Phase Low Pass FIR filter with we = 7 using [14]
+BL-6 . ,
+rectangular window function.
+Q4 [20]
+a
+Equalize the given histogram. Also sketch the equalized histogram.
+CO-3; SO-1; Grey Level 0 1 2 3 4 5] 6 7 [10]
+BL-5 Number of 790 | 1023 | 850 | 656 | 329 | 245] 122] 81 ;
+Pixel
+b | Apply Contrast Stretching Function for given 3-bit image and compute the
+output the image.
+0 1 3 5
+7 3 4 7 7
+CO-2; SO-1; 4 2 5 6 [10]
+BL-3 6 5 6 5)
+. 1
+a=2,B=1,y=5
+a=2,b=4,s1=4,5s2=6
+Also sketch contrast stretching graph.
+Q5 | [20]
+Determine whether the following systems are of Minimum Phase,
+CO-1; SO-1; a Maximum Phase ot Mixed Phase type. [06]
+BL-3 i) H@=6+z21-z?
+
+ii) Hb ()=1+5/2z71-3/227
+
+Page 2 of 3
+--- page 3 ---
+CO-1; SO-1; b ; ; .
+Compare FIR & IIR Filter ; [07]
+
+BL-4
+nee SO-1; © | Justify: DFT is slow as compared to FFT. [07]
+Q6 : | [20]
+CO4-;S0-1; | Explain dilation of an image with suitable example. [07]
+BL-2 a
+ire SO-1; b | Differentiate between opening and closing with example. [07]
+J — 3 SO-1; © | Explain Low Pass Filter in Image Enhancement. [06]
+Q7 | [20]
+C04-; SO-1; a : .
+BL2 Explain Image Segmentation based on discontinuities. [08]
+Compute Edge Direction for given input image using prewit mask:
+C04-; SO-1; 180 200 240
+= F= i0 | 160 | 230 [06]
+11 12 190
+CO2-; SO-1; c .
+Explain Thresholding in Image Processing. [06]
+
+-| BL-2
+
+—
+
+Page 3 of 3
+````
+
 ## 2022-23 · Final-Exam · Sem 6 · paper 920c552cbff8
 
 - Departments: Mechatronics
@@ -725,6 +845,150 @@ CO-3; SO-1; c
 Explain Thresholding in Image Processing. [06]
 
 BL-2
+
+Page 3 of 3
+````
+
+## 2022-23 · Re-Exam · Sem 7 · paper 929c372fe6a3
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: MECHATRONICS/SEMESTER VII/DIGITAL SIGNAL AND IMAGE PROCESSING/Digital_Signal_and_Image_Processing__4th_Year__Sem-VII__Year_2022-23_Re_Exam_ZndrPuIhmY.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 28 January 2023
+- Text: ocr (3 pages), mean OCR confidence 87.2
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+ff Program: B. Tech (Mechatronics) : Year: IV Semester : VII
+
+AcademicY ear: 2022-2023
+
+Subject: Digital Signal & Image Processing
+Marks: 100
+
+Time: 2.00 pm - 5.00 pm
+Durations: 3 (Hrs)
+
+No. of Pages: 3
+Re-Examination (2022-23)
+
+Date : 28 January 2023
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and
+on the cover of the Answer Book, which is provided for their use.
+
+} Question No. i is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+a 3) In all 5 questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+1 Attempt the followin
+
+Q P g [20]
+
+CO-1;SO-1; | a. | Explain Minimum Phase and Maximum Phase with example. [05]
+
+BL-2
+
+CO-1;SO-1; |b. | State the any four properties of DFT. [05]
+
+BL-1
+
+CO-1;SO-1; | c. | Explain the concept of frequency warping effect in detail. [05]
+
+BL-2
+
+ae SO-1; | d. Differentiate between image sampling and quantization. [05]
+|@ [20]
+
+- -
+. . For the DFT of each real sequence compute boxed quantities.
+CO-1; SO1-; : . . 05
+BL3 i) P[K]= { 0,0, 24), -1,0,5} [05]
+ii) Q(K] = (1, 2,0, O, 0, 1-j, -2,0}
+b
+CO-1; SO-1; If x(n) = {1,1,2,1} and h(n) = {1,2,3,4}, find circular convolution using [10]
+BL-3 DIT-FFT & DIT - IFFT.
+c | Compute IDFT for X[K] = {1,0,1,0}.
+CO-1; SO-1; y [05]
+BL-3
+
+Page 1 of 3
+--- page 2 ---
+Q3
+
+[20]
+Compute the order of a Butterworth digital IIR filter using bilinear
+transformation method satisfying the constraint. Assume T=0.1 second.
+CO-1; SO-1; ww
+BLA 0.6<|H(e")|<1; for0< a < 0.352 [06]
+|H (e™ ) <1; for0.Jr4<a<a2
+CO-1; SO-1; Design 5" order Linear Phase High Pass FIR filter with we = = using
+BL-6 [14]
+hamming window function.
+Q4 ,
+[20]
+Equalize the given histogram. Also sketch the equalized histogram.
+CO-3; $O-1: Grey Level 0 1 2 3 4 5 6 . 7 [10]
+BL-5 Number of 100 | 90 50 20 0 0 0 0
+Pixel
+Apply Contrast Stretching Function for given 8-bit image and compute the
+output the image.
+0 100. | 200
+7 50 | 220 | 240
+80 255 | 200
+CO-2; SO-1; : [10]
+BL-3 3
+a=0.4,p=2,y=—
+»B > F494
+a= 100, b = 200, sl = 40, s2 = 240
+Also sketch contrast stretching graph.
+Q5 [20]
+CO-1; SO-1;
+BL-2 Explain Digital Resonator in detail. [05]
+CO-1; SO-1; Compare DFT with FFT. [05]
+
+Page 2 of 3
+--- page 3 ---
+BL-4
+
+CO-1; SO-1; c
+
+a Explain Symmetric & Antisymmetric Filter with example. [06]
+a , SO-1; d | Define Group Delay and Phase Delay. [04]
+Q6 [20]
+Brae SO-1; Explain Morphological operations in Image Processing. [08]
+- a
+b | Apply Perform gray level slicing with Background and Without
+Background on the 3 bit image shown below and and compute the output
+of the image. (Assume rl =2 and r2= 4 )
+CO-2; SO-1 ae ‘
+-2; SO-1; 08
+BLS 32452 [08]
+=|2 667 0
+266 5 1
+023 21
+me SO-1; ¢ | Explain Digital Negative Image concept with example. - [04]
+Q7 [20]
+ae 50-1; ? | Give the overview of canny edge detection. [06]
+b Detect vertical & horizontal lines for given 8 bit input image using zero
+crossing detector:
+CO-4; SO-1; 10 10 100 10
+F= [08]
+BL-3 100 100 100 100
+10 10 100 10
+10 10 100 10
+CO-2; SO-1; c
+Explain Bit Level Slicing in Image Processing. [06]
+
+BL-3
 
 Page 3 of 3
 ````

@@ -257,6 +257,19 @@ ii.   8
 C. ..   Answer the following   15
 i.   7
 Page 7 of 9
+
+[Text in pictures on this page, read by OCR]
+Population
+
+specification error Sampling error Selection error
+
+Non-response error . .
+F Surrogate information
+rame error (non-contact error & error
+
+refusal error)
+
+Measurement error Experimental Error
 --- page 8 ---
 ii. Students can draft a research proposal consisting of the following elements:   8
 •   Background to the topic, significance and research problem
@@ -283,6 +296,22 @@ relationships.
 researcher forms hypotheses or general conclusions based on the observed data. These
 hypotheses are drawn from the evidence, not from pre-existing theories.
 Page 8 of 9
+
+[Text in pictures on this page, read by OCR]
+Term Definition
+
+Central tendency The tendency for a set of values to gather around the middle of the set
+Generally measured by mean, median, and mode
+Mean Average
+
+*/n (sum of all values [x] over the number of values [n])
+Should be applied to continuous data if normally distributed
+Median Middle value of an ordered sample of numerical values
+Extreme values do not affect the median as much as the mean, for example,
+length of stay, house prices
+Usually applied to numerical data (unless normally distributed)
+Mode Value that occurs most frequently
+Can be used for skewed numerical data or categorical data
 --- page 9 ---
 4. Building a Theory: Through continued observation and analysis, the researcher may
 develop broader theoretical frameworks that explain the findings. This theory is typically
@@ -572,6 +601,19 @@ ii.   8
 C. ..   Answer the following   15
 i.   7
 Page 7 of 9
+
+[Text in pictures on this page, read by OCR]
+Population
+
+specification error Sampling error Selection error
+
+Non-response error . .
+F Surrogate information
+rame error (non-contact error & error
+
+refusal error)
+
+Measurement error Experimental Error
 --- page 8 ---
 ii. Students can draft a research proposal consisting of the following elements:   8
 •   Background to the topic, significance and research problem
@@ -598,6 +640,22 @@ relationships.
 researcher forms hypotheses or general conclusions based on the observed data. These
 hypotheses are drawn from the evidence, not from pre-existing theories.
 Page 8 of 9
+
+[Text in pictures on this page, read by OCR]
+Term Definition
+
+Central tendency The tendency for a set of values to gather around the middle of the set
+Generally measured by mean, median, and mode
+Mean Average
+
+*/n (sum of all values [x] over the number of values [n])
+Should be applied to continuous data if normally distributed
+Median Middle value of an ordered sample of numerical values
+Extreme values do not affect the median as much as the mean, for example,
+length of stay, house prices
+Usually applied to numerical data (unless normally distributed)
+Mode Value that occurs most frequently
+Can be used for skewed numerical data or categorical data
 --- page 9 ---
 4. Building a Theory: Through continued observation and analysis, the researcher may
 develop broader theoretical frameworks that explain the findings. This theory is typically
@@ -887,6 +945,19 @@ ii.   8
 C. ..   Answer the following   15
 i.   7
 Page 7 of 9
+
+[Text in pictures on this page, read by OCR]
+Population
+
+specification error Sampling error Selection error
+
+Non-response error . .
+F Surrogate information
+rame error (non-contact error & error
+
+refusal error)
+
+Measurement error Experimental Error
 --- page 8 ---
 ii. Students can draft a research proposal consisting of the following elements:   8
 •   Background to the topic, significance and research problem
@@ -913,6 +984,22 @@ relationships.
 researcher forms hypotheses or general conclusions based on the observed data. These
 hypotheses are drawn from the evidence, not from pre-existing theories.
 Page 8 of 9
+
+[Text in pictures on this page, read by OCR]
+Term Definition
+
+Central tendency The tendency for a set of values to gather around the middle of the set
+Generally measured by mean, median, and mode
+Mean Average
+
+*/n (sum of all values [x] over the number of values [n])
+Should be applied to continuous data if normally distributed
+Median Middle value of an ordered sample of numerical values
+Extreme values do not affect the median as much as the mean, for example,
+length of stay, house prices
+Usually applied to numerical data (unless normally distributed)
+Mode Value that occurs most frequently
+Can be used for skewed numerical data or categorical data
 --- page 9 ---
 4. Building a Theory: Through continued observation and analysis, the researcher may
 develop broader theoretical frameworks that explain the findings. This theory is typically
@@ -3392,6 +3479,15 @@ Diagnostic research design
 Exploratory Research Design
 Secondary Data Analysis
 Page 4 of 10
+
+[Text in pictures on this page, read by OCR]
+Conclusive Exploratory Experimental Correlational
+Research Research Research Research
+Design Design Design Design
+
+Descriptive Diagnostic
+Research Research
+Design Design
 --- page 5 ---
 (here, published sources are used to obtain information regarding the research problem)
 Experience Survey
@@ -3586,6 +3682,30 @@ conducting the experiment.
 B.   5
 C. Students can elaborate on any aspect of research methodology   5
 Page 10 of 10
+
+[Text in pictures on this page, read by OCR]
+Enables
+decision
+making
+
+Provides
+recommendation
+s
+
+Validates
+theory
+
+Helps in
+developing
+hypothesis
+
+Helps in
+forecasting
+trends
+
+Assists in
+development of
+new models
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · Answer key · paper feed5bba32e6
@@ -3737,6 +3857,15 @@ Diagnostic research design
 Exploratory Research Design
 Secondary Data Analysis
 Page 4 of 10
+
+[Text in pictures on this page, read by OCR]
+Conclusive Exploratory Experimental Correlational
+Research Research Research Research
+Design Design Design Design
+
+Descriptive Diagnostic
+Research Research
+Design Design
 --- page 5 ---
 (here, published sources are used to obtain information regarding the research problem)
 Experience Survey
@@ -3931,6 +4060,30 @@ conducting the experiment.
 B.   5
 C. Students can elaborate on any aspect of research methodology   5
 Page 10 of 10
+
+[Text in pictures on this page, read by OCR]
+Enables
+decision
+making
+
+Provides
+recommendation
+s
+
+Validates
+theory
+
+Helps in
+developing
+hypothesis
+
+Helps in
+forecasting
+trends
+
+Assists in
+development of
+new models
 ````
 
 ## 2025-26 · Re-Exam · Sem 6 · Answer key · paper 95ef4c3603e9

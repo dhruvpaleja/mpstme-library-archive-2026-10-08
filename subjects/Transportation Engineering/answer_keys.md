@@ -37,6 +37,27 @@ CO-5
 b.   [05]
 CO-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Mark distribution
+
+Point Marks
+Definition of flexible pavement 1
+Definition of rigid pavement 1
+Key differences (load transfer, materials, cost) 1
+Tests on bitumen (penetration, ductility etc.) 1
+
+Tests on aggregates (impact, abrasion etc.) 1
+
+(b) Extra Widening (5 Marks)
+
+Mark distribution
+
+Component Marks
+Definition 1
+Mechanical widening 2
+
+Psychological widening 2
 --- page 2 ---
 c. (c) Components of Railway Track (5 Marks) [05]
 Mark distribution

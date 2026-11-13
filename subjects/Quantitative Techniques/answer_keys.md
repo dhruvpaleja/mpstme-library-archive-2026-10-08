@@ -136,6 +136,24 @@ CO-2;
 Concept
 BL-4
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+R.n. Wait Time Time
+R.n. Int arr | for Arr Serv Time time- serv cust. in
+
+Customer | (arrival) | time serv time | time ser beg | queue ends syst.
+1 28 i?) ie) ie} 3 3
+2 61 3 1 3 3 ie} 4 1
+3 55 3 61 6 6 ie} 9 3
+4 1 1 85 7 9 2 14 7
+5 33 2 67 9 14 5 17 8
+6 19 1 53 10 17 7 20 10
+7 25 2 62 12 20 8 23 11
+8 79 3 79 15 23 8 28 13
+9 93 5 66 20 28 8 31 11
+10 18 1 63 21 31 10 34 13
+11 49 2 33 23 34 11 37 14
+12 92 5 77 28 37 9 42 14
 --- page 4 ---
 1   Binding   All three constraints are binding because their
 constraints   slack/surplus = 0 and shadow prices > 0.
@@ -161,6 +179,32 @@ Q 4 B   5
 CO-1;
 BL-3
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Decision Variables:
+
+i- A,B,C,D,E
+
+1, if Project i is selected
+=
+‘ 0, otherwise
+
+Objective Function:
+Maximize Z = 14000z,4 + 18000zp + 20000z¢ + 12000zp + 16000rp
+Subject to:
+e Quarter 1 time constraint:
+
+4e4+6rp+ 10rzc + 5rp + 8ap < 24
+
+e Quarter 2 time constraint:
+
+624+ 84g + 32¢4+ Trp + 5p < 22
+e Incompatibility (C and E cannot both be done):
+
+to+@p<l
+© Binary condition:
+
+x; € {0,1} foralli
 --- page 5 ---
 Mark Distribution:
 Component   Marks
@@ -341,6 +385,24 @@ CO-3;
 BL- 3
 5 marks
 a. The service start time for 11th customer will be at 34th Minute
+
+[Text in pictures on this page, read by OCR]
+R.n. Wait Time Time
+R.n. Int arr | for Arr Serv Time time- serv cust. in
+
+Customer | (arrival) | time serv time | time ser beg | queue ends syst.
+1 28 10} i?) ie} 3 3
+2 61 3 1 3 3 ie} 4 1
+3 55 3 61 6 6 ie} 9 3
+4 1 1 85 7 9 2 14 7
+5 33 2 67 9 14 5 17 8
+6 19 1 53 10 7 7 20 10
+7 25 2 62 12 20 8 23 11
+8 79 3 79 15 23 8 28 13
+9 93 5 66 20 28 8 31 11
+10 18 1 63 21 31 10 34 13
+11 49 2 33 23 34 11 37 14
+12 92 5 77 28 37 9 42 14
 --- page 3 ---
 b. Waiting time in queue by 5th customer will be (in minutes) 5   1 mark
 c. The arrival time of 4th customer will be at 7th Minute
@@ -397,6 +459,31 @@ unchanged.
 Q 4 B   5
 CO-1;
 BL-3
+
+[Text in pictures on this page, read by OCR]
+Decision Variables:
+
+—_ (i if Project i is selected i-A.B.C.D,E
+
+0, otherwise
+Objective Function:
+Maximize Z = 14000z,4 + 18000zz + 200002¢ + 12000zp + 1600027
+Subject to:
+
+© Quarter 1 time constraint:
+
+424+ 6rp+10rc + 5rp+ 8rr < 24
+
+© Quarter 2 time constraint:
+
+624+ 8rg 4+ 3a¢ + Trp + 5ap < 22
+e Incompatibility (C and E cannot both be done):
+
+tot+e@psl
+
+© Binary condition:
+
+a; € {0,1} foralli
 --- page 5 ---
 Mark Distribution:
 Component   Marks
@@ -627,6 +714,24 @@ CO-2;
 Concept
 BL-4
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+R.n. Wait Time Time
+R.n. Int arr | for Arr Serv Time time- serv cust. in
+
+Customer | (arrival) | time serv time | time ser beg | queue ends syst.
+1 28 i?) ie) ie} 3 3
+2 61 3 1 3 3 ie} 4 1
+3 55 3 61 6 6 ie} 9 3
+4 1 1 85 7 9 2 14 7
+5 33 2 67 9 14 5 17 8
+6 19 1 53 10 17 7 20 10
+7 25 2 62 12 20 8 23 11
+8 79 3 79 15 23 8 28 13
+9 93 5 66 20 28 8 31 11
+10 18 1 63 21 31 10 34 13
+11 49 2 33 23 34 11 37 14
+12 92 5 77 28 37 9 42 14
 --- page 4 ---
 1   Binding   All three constraints are binding because their
 constraints   slack/surplus = 0 and shadow prices > 0.
@@ -652,6 +757,32 @@ Q 4 B   5
 CO-1;
 BL-3
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Decision Variables:
+
+i- A,B,C,D,E
+
+1, if Project i is selected
+=
+‘ 0, otherwise
+
+Objective Function:
+Maximize Z = 14000z,4 + 18000zp + 20000z¢ + 12000zp + 16000rp
+Subject to:
+e Quarter 1 time constraint:
+
+4e4+6rp+ 10rzc + 5rp + 8ap < 24
+
+e Quarter 2 time constraint:
+
+624+ 84g + 32¢4+ Trp + 5p < 22
+e Incompatibility (C and E cannot both be done):
+
+to+@p<l
+© Binary condition:
+
+x; € {0,1} foralli
 --- page 5 ---
 Mark Distribution:
 Component   Marks
@@ -881,6 +1012,24 @@ CO-2;
 Concept
 BL-4
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+R.n. Wait Time Time
+R.n. Int arr | for Arr Serv Time time- serv cust. in
+
+Customer | (arrival) | time serv time | time ser beg | queue ends syst.
+1 28 i?) ie) ie} 3 3
+2 61 3 1 3 3 ie} 4 1
+3 55 3 61 6 6 ie} 9 3
+4 1 1 85 7 9 2 14 7
+5 33 2 67 9 14 5 17 8
+6 19 1 53 10 17 7 20 10
+7 25 2 62 12 20 8 23 11
+8 79 3 79 15 23 8 28 13
+9 93 5 66 20 28 8 31 11
+10 18 1 63 21 31 10 34 13
+11 49 2 33 23 34 11 37 14
+12 92 5 77 28 37 9 42 14
 --- page 4 ---
 1   Binding   All three constraints are binding because their
 constraints   slack/surplus = 0 and shadow prices > 0.
@@ -906,6 +1055,32 @@ Q 4 B   5
 CO-1;
 BL-3
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Decision Variables:
+
+i- A,B,C,D,E
+
+1, if Project i is selected
+=
+‘ 0, otherwise
+
+Objective Function:
+Maximize Z = 14000z,4 + 18000zp + 20000z¢ + 12000zp + 16000rp
+Subject to:
+e Quarter 1 time constraint:
+
+4e4+6rp+ 10rzc + 5rp + 8ap < 24
+
+e Quarter 2 time constraint:
+
+624+ 84g + 32¢4+ Trp + 5p < 22
+e Incompatibility (C and E cannot both be done):
+
+to+@p<l
+© Binary condition:
+
+x; € {0,1} foralli
 --- page 5 ---
 Mark Distribution:
 Component   Marks
@@ -1152,6 +1327,35 @@ change stays within the allowable range.
 increase (RHS   resource has no effect on total profit;
 +20)   constraint is non-binding.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Decision Variables:
+
+fori = A,B,C,D,E
+
+1, if Project 7 is selected
+ti .
+0, otherwise
+
+Objective Function:
+
+Maximize Z = 18000z4 + 22000rp + 25000zc + 15000zp + 12000zrpr
+
+Subject to:
+
+© Quarter 1 time constraint:
+
+824+ 62g + 10rzce + Trp + 4rp < 28
+© Quarter 2 time constraint:
+
+424+ 9rp + 32rc + 6rp + 5rp < 18
+e Incompatibility (B and D cannot both be done):
+
+@pt+ap<1
+
+e Binary condition:
+
+mE {0,1} Vi
 --- page 5 ---
 4   Reduced cost of 4 X₃ would reduce total profit by ₹4 per unit if
 (X₃)   included. Therefore, it remains at 0 in the
@@ -1392,6 +1596,35 @@ change stays within the allowable range.
 increase (RHS   resource has no effect on total profit;
 +20)   constraint is non-binding.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Decision Variables:
+
+fori = A,B,C,D,E
+
+1, if Project 7 is selected
+ti .
+0, otherwise
+
+Objective Function:
+
+Maximize Z = 18000z4 + 22000rp + 25000zc + 15000zp + 12000zrpr
+
+Subject to:
+
+© Quarter 1 time constraint:
+
+824+ 62g + 10rzce + Trp + 4rp < 28
+© Quarter 2 time constraint:
+
+424+ 9rp + 32rc + 6rp + 5rp < 18
+e Incompatibility (B and D cannot both be done):
+
+@pt+ap<1
+
+e Binary condition:
+
+mE {0,1} Vi
 --- page 5 ---
 4   Reduced cost of 4 X₃ would reduce total profit by ₹4 per unit if
 (X₃)   included. Therefore, it remains at 0 in the
@@ -1632,6 +1865,35 @@ change stays within the allowable range.
 increase (RHS   resource has no effect on total profit;
 +20)   constraint is non-binding.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Decision Variables:
+
+fori = A,B,C,D,E
+
+1, if Project 7 is selected
+ti .
+0, otherwise
+
+Objective Function:
+
+Maximize Z = 18000z4 + 22000rp + 25000zc + 15000zp + 12000zrpr
+
+Subject to:
+
+© Quarter 1 time constraint:
+
+824+ 62g + 10rzce + Trp + 4rp < 28
+© Quarter 2 time constraint:
+
+424+ 9rp + 32rc + 6rp + 5rp < 18
+e Incompatibility (B and D cannot both be done):
+
+@pt+ap<1
+
+e Binary condition:
+
+mE {0,1} Vi
 --- page 5 ---
 4   Reduced cost of 4 X₃ would reduce total profit by ₹4 per unit if
 (X₃)   included. Therefore, it remains at 0 in the

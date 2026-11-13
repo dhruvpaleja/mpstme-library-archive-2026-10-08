@@ -1,6 +1,6 @@
 # Digital Signal and Image Processing
 
-**15** unique papers (16 copies across programmes) · 2013-14 to 2025-26 · 3 programmes · Sem 4, Sem 5, Sem 6
+**17** unique papers (18 copies across programmes) · 2013-14 to 2025-26 · 3 programmes · Sem 4, Sem 5, Sem 6, Sem 7
 
 Download only this subject, sorted by academic year:
 
@@ -12,6 +12,8 @@ Files land in `D:/Study/PYQs_By_Subject/Digital Signal and Image Processing/<aca
 
 Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (every paper in full, newest first), [`questions.jsonl`](questions.jsonl) (one record per question with marks, year, exam, semester and department) and [`papers.jsonl`](papers.jsonl) (one record per paper). Answer keys, where the portal published them, are in `answer_keys.md`. See [`question_bank/README.md`](../../question_bank/README.md) for the fields.
 
+Syllabus of this course, every version found in the archive: [`syllabus.md`](syllabus.md) (see [`syllabi/`](../../syllabi/README.md) for all programmes).
+
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Mechatronics 7004 | QP_Digital Signal and Image Processing(702MH0E008)_2025-2026.pdf |
@@ -19,7 +21,9 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / MECHATRONICS | Digital Signal and Image Processing, Sem VI, Final Exam 2024-25.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 6 | B TECH / MECHATRONICS | Digital Signal & Image Processing, Sem-VI, Final 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 6 | B TECH / MECHATRONICS | Digital Signal & Image Processing, Sem-VI, A Y 2023-24, Re Exam.pdf |
+| 2022-23 | Final-Exam | Question paper | Sem 7 | B TECH / MECHATRONICS | Digital_Signal_and_Image_Processing__4th_Year__Sem_VII__Year_2022-23__Final_Exam_g4lw7EEBrx.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 6 | B TECH / MECHATRONICS | Digital Signal & Image Processing, Sem-VI, Year 2022-23, Final Exam.pdf |
+| 2022-23 | Re-Exam | Question paper | Sem 7 | B TECH / MECHATRONICS | Digital_Signal_and_Image_Processing__4th_Year__Sem-VII__Year_2022-23_Re_Exam_ZndrPuIhmY.pdf |
 | 2013-14 | — | Question paper | Sem 4 | B TECH / I T | DIGITAL SIGNAL AND IMAGE PROCESSING BATCH 2013-140001.pdf |
 | 2013-14 | Final-Exam | Question paper | Sem 5 | B TECH / I T | DIGITAL SIGNAL AND IMAGE PROCESSING B TECH (IT), 2013-14 FINAL EXAM.pdf |
 | 2013-14 | Re-Exam | Question paper | Sem 4 | B TECH / I T | DIGITAL SIGNAL AND IMAGE PROCESSING BATCH 13-14 RE EXAM.pdf |

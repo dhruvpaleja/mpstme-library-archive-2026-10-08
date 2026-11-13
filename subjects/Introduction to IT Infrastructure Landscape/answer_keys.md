@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `00_Original_Downloads/2024/65247__Semester V__context_fixed.zip :: Final-Exam/BACHELOR OF TECHNOLOGY (INFORMATION TECHNOLOGY)SIX YEARS INTEGRATED PROGRAM - 7037/Introduction to IT Infrastructure Landscape/ANS_Final-Exam_Introduction to IT Infrastructure Landscape(701IT0C005)_Semester V_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2024
 - Text: mixed (6 pages), mean OCR confidence 56.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -57,6 +58,19 @@ network?
 c.   Explain Encryption and Decryption techniques in brief. How security CO-2;SO-
 can be archive through it?   1,BL-2
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Mesh Topology
+Here every device has a point to point link to
+every other device.
+
+Node | node must be connected with n-1
+nodes.
+
+A fully connected mesh can have n(n-1)/2
+physical channels to link n devices.
+
+It must have n-1 I/O ports.
 --- page 3 ---
 Diagram (1)
 About each (1 each*3=3)
@@ -77,6 +91,17 @@ Q.3
 a.   Identify IT infrastructure component for domain application related   CO-1;SO-
 to Cyber Security.   2,BL-4
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Ownership of Network Private Private / Public Private / Public
+Geographical Area 1KM to 10 KM 10 KM to 100 KM Beyond 100 KM
+Design and maintenance Easy Difficult Difficult
+Propagation Delay Short Moderate Long
+Speed High Moderate Low
+Fault Tolerance More Tolerant Less Tolerant Less Tolerant
+Congestion Less More More
+
+Used for College, School, Hospital. Small towns, City Country/Continent,
 --- page 4 ---
 Describe each component in brief each 2 marks
 b.   Discuss need of security in network. Explain security tool firewall in   CO-2;SO-
@@ -96,6 +121,20 @@ Functional attributes dependent vs non Functional attributes
 independent , explain each 4
 Justify 3
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+IT building blocks ~
+
+* The definition of infrastructure as used in this course is
+based on the building blocks in the model below
+
+a1)
+Sai
+
+|
+a]
+
+Le ed
 --- page 5 ---
 b.   Differentiate File system vs DBMS vs Data warehouse on different CO-2;SO-
 parameters. Also discuss limitations of each.   1,BL-2
@@ -150,6 +189,7 @@ FIC 6 I HF
 - Source: `02_Question_Papers/2024/Sem_05/Re-Exam/Integrated_IT_7037/Introduction to IT Infrastructure Landscape/ANS_Introduction to IT Infrastructure Landscape(701IT0C005)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 13 Feb 2025
 - Text: text (6 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -189,6 +229,33 @@ Virtualization (1)
 Role of Hypervisor (3)
 Type(1)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Introduction
+
+* IT infrastructures become more complicated
+— New types of applications:
+* Big data
+* The Internet of Thing
+* Mobility
+* Cloud computing
+¢ Most current infrastructure landscapes are
+complex
+— The result of a history of application implementation
+projects
+— Specialized hardware and infrastructure components
+
+Mesh Topology
+Here every device has a point to point link to
+every other device.
+
+Node | node must be connected with n-1
+nodes.
+
+A fully connected mesh can have n(n-1)/2
+physical channels to link n devices.
+
+It must have n-1 I/O ports.
 --- page 3 ---
 d.   Responsibilities of Network administrator in brief.   CO-4;SO-
 1,BL-2
@@ -209,6 +276,24 @@ a.   Explain Data Mining and Data Warehousing in detail. Also discuss CO-2;SO-
 advantages of data warehousing. Discuses 3-4 applications of data 1,BL-2
 warehouse.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Managing bottlenecks
+
+The performance of a system is based on:
+
+— The performance of all its components
+
+— The interoperability of various components
+
+A component causing the system to reach some
+limit is referred to as the bottleneck of the system
+Every system has at least one bottleneck that
+limits its performance
+
+If the bottleneck does not negatively influence
+performance of the complete system under the
+highest expected load, it is OK
 --- page 4 ---
 Data Mining and Data Warehousing (3)
 Advantages (3)
@@ -249,6 +334,32 @@ b.   i.   Discuss Network topology in detail.   CO-2;SO-
 ii.   Describe database languages in detail.   2,BL-2
 5 each
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+IT building blocks ~
+
+* The definition of infrastructure as used in this course is
+based on the building blocks in the model below
+
+a1)
+Sai
+
+|
+a]
+
+Le ed
+
+Topology
+
+¢ Topology refers to the layout of connected
+devices on a network.
+
+¢ Here, some logical layout of topology.
+oMesh
+oStar
+oBus
+oRing
+oTree and Hybrid
 --- page 6 ---
 Q.7
 a.   Compare SAN and NAS w.r.t various parameters. Also discuss suitable   CO-2;SO-
@@ -276,4 +387,31 @@ Component (1)
 Each (6)
 reason(1)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Database
+Languages
+
+Data Definition Date Data Control
+Manipulation
+Language
+
+Languages
+
+Transaction
+
+Control
+Language
+
+Languages
+
+Create Select Commit Grant
+Alter Insert Rollback Revoke
+Drop Update Savepoint
+
+Rename Delete Transaction
+Comment Merge
+Truncate Call
+Explain Plan
+Lock Table
 ````

@@ -339,6 +339,20 @@ CO-3,SO-   b. Compare and contrast ODBC with other database connectivity handlin
 Q.4
 a.   [10]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Given the following Products table:
+
+ProductID ProductName Category Price StockQuantity
+1 Laptop Electronics 800 50
+
+2 Smartphone Electronics 600 100
+
+3 Desk Chair Furniture 120 20
+
+4 Monitor Electronics 300 30
+
+5 Coffee Maker Appliances 150 15
 --- page 2 ---
 CO-5,SO-   Write appropriate queries for following:
 3,BL-3,4   1. SQL query to retrieve the ProductName and Price of all products from the
@@ -420,6 +434,20 @@ CO-3,SO-   b. Compare and contrast ODBC with other database connectivity handlin
 Q.4
 a.   [10]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Given the following Products table:
+
+ProductID ProductName Category Price StockQuantity
+1 Laptop Electronics 800 50
+
+2 Smartphone Electronics 600 100
+
+3 Desk Chair Furniture 120 20
+
+4 Monitor Electronics 300 30
+
+5 Coffee Maker Appliances 150 15
 --- page 2 ---
 CO-5,SO-   Write appropriate queries for following:
 3,BL-3,4   1. SQL query to retrieve the ProductName and Price of all products from the
@@ -501,6 +529,16 @@ CO-3,SO-   b.   Explain Menu Management in Visual Basic with suitable examples. 
 Q.4
 a.   [10]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+EmployeelD FirstName LastName Age Department
+
+1 John Doe 28 HR
+2 Jane Smith 34 IT
+3 Mary Johnson 25 IT
+4 James Brown 40 HR
+
+5 Emily White 30 Marketing
 --- page 2 ---
 CO-5,SO-   Write appropriate queries for following:
 3,BL-3,4   1. Query to retrieve the FirstName, LastName, and Age of all employees
@@ -582,6 +620,16 @@ CO-3,SO-   b.   Explain Menu Management in Visual Basic with suitable examples. 
 Q.4
 a.   [10]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+EmployeelD FirstName LastName Age Department
+
+1 John Doe 28 HR
+2 Jane Smith 34 IT
+3 Mary Johnson 25 IT
+4 James Brown 40 HR
+
+5 Emily White 30 Marketing
 --- page 2 ---
 CO-5,SO-   Write appropriate queries for following:
 3,BL-3,4   1. Query to retrieve the FirstName, LastName, and Age of all employees

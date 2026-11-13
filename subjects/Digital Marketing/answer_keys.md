@@ -360,6 +360,20 @@ Brand Pyramid to reposition the brand.
 • Brand Idea: “Packaging that protects the planet”
 Recommendation: Shift focus from cost to purpose-driven branding
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Brand Idea
+The essence of
+your brand
+
+Functional Benefits
+‘Summarises the tangible benefits to the consumer
+
+Features & Attributes
+‘Tangible assets of your product or services focus on most
+Gesirable/differentiation
+
+Brand Pyramid Template
 ````
 
 ## 2025-26 · Final-Exam · Sem 10 · Answer key · paper 39d9d9847380
@@ -545,6 +559,20 @@ Brand Pyramid to reposition the brand.
 • Brand Idea: “Packaging that protects the planet”
 Recommendation: Shift focus from cost to purpose-driven branding
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Brand Idea
+The essence of
+your brand
+
+Functional Benefits
+‘Summarises the tangible benefits to the consumer
+
+Features & Attributes
+‘Tangible assets of your product or services focus on most
+Gesirable/differentiation
+
+Brand Pyramid Template
 ````
 
 ## 2025-26 · Final-Exam · Sem 10 · Answer key · paper ea0be93b32a1
@@ -730,6 +758,20 @@ Brand Pyramid to reposition the brand.
 • Brand Idea: “Packaging that protects the planet”
 Recommendation: Shift focus from cost to purpose-driven branding
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Brand Idea
+The essence of
+your brand
+
+Functional Benefits
+‘Summarises the tangible benefits to the consumer
+
+Features & Attributes
+‘Tangible assets of your product or services focus on most
+Gesirable/differentiation
+
+Brand Pyramid Template
 ````
 
 ## 2025-26 · Final-Exam · Sem 10 · Answer key · paper 36fca151673c
@@ -915,6 +957,20 @@ Brand Pyramid to reposition the brand.
 • Brand Idea: “Packaging that protects the planet”
 Recommendation: Shift focus from cost to purpose-driven branding
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Brand Idea
+The essence of
+your brand
+
+Functional Benefits
+‘Summarises the tangible benefits to the consumer
+
+Features & Attributes
+‘Tangible assets of your product or services focus on most
+Gesirable/differentiation
+
+Brand Pyramid Template
 ````
 
 ## 2025-26 · Final-Exam · Sem 10 · Answer key · paper e265d5577369
@@ -1100,6 +1156,20 @@ Brand Pyramid to reposition the brand.
 • Brand Idea: “Packaging that protects the planet”
 Recommendation: Shift focus from cost to purpose-driven branding
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Brand Idea
+The essence of
+your brand
+
+Functional Benefits
+‘Summarises the tangible benefits to the consumer
+
+Features & Attributes
+‘Tangible assets of your product or services focus on most
+Gesirable/differentiation
+
+Brand Pyramid Template
 ````
 
 ## 2025-26 · Final-Exam · Sem 10 · Answer key · paper e96949e660a6
@@ -1285,6 +1355,20 @@ Brand Pyramid to reposition the brand.
 • Brand Idea: “Packaging that protects the planet”
 Recommendation: Shift focus from cost to purpose-driven branding
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Brand Idea
+The essence of
+your brand
+
+Functional Benefits
+‘Summarises the tangible benefits to the consumer
+
+Features & Attributes
+‘Tangible assets of your product or services focus on most
+Gesirable/differentiation
+
+Brand Pyramid Template
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · Answer key · paper 333a4e13cfed
@@ -1515,6 +1599,20 @@ Q1 b. What are the three types of Online Research Methodologies? Explain each on
 Surveys
 • Surveys are questionnaires that contain a series of questions around a specific topic.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Brand Idea
+The essence of
+your brand
+
+Functional Benefits
+Summarises the tangible benefits tp the consumer
+
+Features & Attributes
+Tangible assets of your product or services focus on most
+desirable/ differentiation
+
+Brand Pyramid Template
 --- page 2 ---
 •   Their purpose is to gather large volumes of quantitative data easily, though they can also collect
 some qualitative data.
@@ -1730,6 +1828,20 @@ Q1 b. What are the three types of Online Research Methodologies? Explain each on
 Surveys
 • Surveys are questionnaires that contain a series of questions around a specific topic.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Brand Idea
+The essence of
+your brand
+
+Functional Benefits
+Summarises the tangible benefits tp the consumer
+
+Features & Attributes
+Tangible assets of your product or services focus on most
+desirable/ differentiation
+
+Brand Pyramid Template
 --- page 2 ---
 •   Their purpose is to gather large volumes of quantitative data easily, though they can also collect
 some qualitative data.
@@ -1945,6 +2057,20 @@ Q1 b. What are the three types of Online Research Methodologies? Explain each on
 Surveys
 • Surveys are questionnaires that contain a series of questions around a specific topic.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Brand Idea
+The essence of
+your brand
+
+Functional Benefits
+Summarises the tangible benefits tp the consumer
+
+Features & Attributes
+Tangible assets of your product or services focus on most
+desirable/ differentiation
+
+Brand Pyramid Template
 --- page 2 ---
 •   Their purpose is to gather large volumes of quantitative data easily, though they can also collect
 some qualitative data.
@@ -2160,6 +2286,20 @@ Q1 b. What are the three types of Online Research Methodologies? Explain each on
 Surveys
 • Surveys are questionnaires that contain a series of questions around a specific topic.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Brand Idea
+The essence of
+your brand
+
+Functional Benefits
+Summarises the tangible benefits tp the consumer
+
+Features & Attributes
+Tangible assets of your product or services focus on most
+desirable/ differentiation
+
+Brand Pyramid Template
 --- page 2 ---
 •   Their purpose is to gather large volumes of quantitative data easily, though they can also collect
 some qualitative data.
@@ -2375,6 +2515,20 @@ Q1 b. What are the three types of Online Research Methodologies? Explain each on
 Surveys
 • Surveys are questionnaires that contain a series of questions around a specific topic.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Brand Idea
+The essence of
+your brand
+
+Functional Benefits
+Summarises the tangible benefits tp the consumer
+
+Features & Attributes
+Tangible assets of your product or services focus on most
+desirable/ differentiation
+
+Brand Pyramid Template
 --- page 2 ---
 •   Their purpose is to gather large volumes of quantitative data easily, though they can also collect
 some qualitative data.
@@ -2590,6 +2744,20 @@ Q1 b. What are the four different types of searches to track brand relevant keyw
 explain with examples.
 • Broad Match: This is when any of or all words must be found in the mention.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Brand Idea
+The essence of
+your brand
+
+Functional Benefits
+Summarises the tangible benefits tp the consumer
+
+Features & Attributes
+Tangible assets of your product or services focus on most
+desirable/ differentiation
+
+Brand Pyramid Template
 --- page 2 ---
 •   Direct Match: This is denoted by quotation marks and dictates that the tool should find mentions
 only where the phrase appears complete and in order in the content.
@@ -2808,6 +2976,20 @@ Q1 b. What are the four different types of searches to track brand relevant keyw
 explain with examples.
 • Broad Match: This is when any of or all words must be found in the mention.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Brand Idea
+The essence of
+your brand
+
+Functional Benefits
+Summarises the tangible benefits tp the consumer
+
+Features & Attributes
+Tangible assets of your product or services focus on most
+desirable/ differentiation
+
+Brand Pyramid Template
 --- page 2 ---
 •   Direct Match: This is denoted by quotation marks and dictates that the tool should find mentions
 only where the phrase appears complete and in order in the content.
@@ -3026,6 +3208,20 @@ Q1 b. What are the four different types of searches to track brand relevant keyw
 explain with examples.
 • Broad Match: This is when any of or all words must be found in the mention.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Brand Idea
+The essence of
+your brand
+
+Functional Benefits
+Summarises the tangible benefits tp the consumer
+
+Features & Attributes
+Tangible assets of your product or services focus on most
+desirable/ differentiation
+
+Brand Pyramid Template
 --- page 2 ---
 •   Direct Match: This is denoted by quotation marks and dictates that the tool should find mentions
 only where the phrase appears complete and in order in the content.

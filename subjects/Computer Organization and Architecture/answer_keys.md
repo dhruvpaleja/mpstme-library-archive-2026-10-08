@@ -143,6 +143,17 @@ this transfer, allowing the CPU to perform other tasks simultaneously. 3
 Marks
 Advantages of DMA over Programmed I/O: 2 Marks
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Data 0 strea:
+
+Processor Memory
+
+Control Unit Processor 1 1 Memory
+Processor Memory
+N-1 N-1
+
+Interconnection network
 --- page 4 ---
 1. CPU is free after initializing the DMA transfer.
 2. Faster because data is transferred directly between memory and
@@ -190,6 +201,29 @@ Number of main-memory blocks = (main memory bytes) / (block size bytes).
 3.) Number of lines in cache 2.5Marks
 4) Number of tag bits required (direct-mapped) 2.5Marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Compute main memory size in bytes:
+
+© 4GB=4 x 2" =4 x 1,073,741, 824 = 4, 294, 967, 296 bytes.
++ 4,204, 967, 296 = 2”.
+
+So number of physical address bits = log,(2"") = 32 bits.
+
+Answer (1): 32 bits.
+
+Number of main-memory blocks = (main memory bytes) / (block size bytes).
+* Block size = 4 KB = 4096 = 2” bytes.
+* Blocks = 2°7/2!? = 270 = 1, 048, 576.
+
+Answer (2): 1,048,576 blocks (i.e, 27").
+
+Number of cache lines = (cache size) / (block size).
+
+* Cache size = 1 MB = 2” bytes.
+© Lines = 2°0/2 — 25 = 256.
+
+Answer (3): 256 lines (i.e. 2°).
 --- page 6 ---
 Q3   a Describe in detail the various phases of the Basic Instruction Cycle. Explain   10
 CO1   each phase with the help of a neat and labeled diagram.
@@ -204,6 +238,30 @@ For example, in the above figure, when the CPU wants to execute the first
 instruction, it must have a program counter having a value of 200.
 Instruction decode
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Address ts split into: [ tag | index | block offset ]
+
+© Block offset bits = log, (block size) = 12 bits.
+* Index bits = log (number of cache lines) = log, (256) = 8 bits.
+* Physical address bits = 32.
+
+So tag bits = 32 — (8 + 12) = 32 — 20 = 12 bits.
+
+Answer (4): 12 tag bits.
+
+Instruction Operand Operand _
+
+fetch fetch store
+Multiple Multiple
+operands results
+Instruction Instruction Operand Data Operand
+address operation —p address Operation —> address
+calculation decoding calculation calculation
+Return for string
+Instruction complete, vector data
+
+fetch next instruction
 --- page 7 ---
 When instruction is copied to the instruction register from memory to CPU, it
 contains the instruction's opcode, which is decoded by CPU. When the CPU
@@ -269,6 +327,20 @@ With introduction of co-processor along with the main processor, it
 was noticed that performance of the applications improved from 20%
 to 500%.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Argument register (A)
+
+Key register (K)
+Match
+register
+Tutput —|
+Associative memory
+array and logic M
+Read — m words
+Write — nbits per word
+
+Output
 --- page 9 ---
 Diagram: 3 marks
 Control Unit
@@ -306,6 +378,60 @@ in kilobytes (KB) or megabytes (MB).
 The mapping function determines how blocks from main memory are
 placed into cache lines.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+CONTROL UNE
+
+CONTROL WORD
+
+STATUS WORD
+
+DATA
+
+|
+!
+|
+I
+|
+
+EXPONENT FRACTION
+gus sus
+
+[ sesae’ 4]
+Se
+
+INTERFACE
+
+ROCODE ARITHMETIC
+‘COMTAOL MODULE |
+UNIT
+“ |
+ce @
+
+TEMPORARY
+REGISTERS
+
+|
+STATUS. <>
+
+ADDRESSING &
+BUS TRACKING
+
+AOORESS pean
+
+EXCEPTION
+POINTERS.
+
+ee = |
+
+"
+|
+
+os
+“)
+
+f+ -REGISTERSTACK
+0) |
 --- page 10 ---
 Types of Mapping:
 1. Direct Mapping:
@@ -387,6 +513,21 @@ corresponding positive number from 2n.
 •   Hence, the 2's complement number is obtained by adding 1 to the 1's
 complement number.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+¢ In signed numbers it is necessary to represent negative as well as
+positive numbers.
+¢ Fig. 2.1 shows the sign magnitude format for 8 bit signed number.
+
+* In sign-magnitude representation the most significant bit (leftmost
+bit) is used to represent sign of the number.
+
+87 86 BS B4 B83 B2 BI BO Here are some examples of sign-magnitude numbers.
+Ll | 1+6=00000110
+“~- > 2.-44=10001110
+Sign Magnitude 3.424=00011000
+
+Fig. 2.1 Sign - magnitude format 4-4= 1100 0000
 --- page 12 ---
 •   Advantages of 2's complement representation
 • From Table 2.1 we can note that there are distinct + 0 and -0
@@ -426,6 +567,22 @@ Operation of DMA (2marks)
 Modes: 6 marks
 (a) Burst Mode (Block Transfer Mode)
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+map Example 2.3: Find 2's complement of (1001),.
+
+Solution :
+100 1 « number
+0141 £40 < 1's complement
++ 1
+01141 < 2's complement
+
+map Example 2.4: Find 2's complement of (1010 0011).
+
+Solution : 101 0 0 0 1 1 «number
+0101 1 1 «0 ? «< 1’s complement
+
+01041 1 1 0 1 € 2's complement
 --- page 13 ---
 Operation:
 • The DMA controller transfers the entire block of data in one
@@ -485,6 +642,30 @@ It consists of
 ✓ AR(Address Register),
 ✓ DR(Data Register)
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Computer Hardware Configuration
+
+4
+
+MUX
+10 0
+AR
+Address | Memory
+7 . 2048 x 16
+PC
+MUX
+6 0 6 0 1
+DR
+SBR CAR
+Control memory Arithmetic
+128x 20 logic and
+shift unit
+Control unit
+15 0
+AC
+
+Lt
 --- page 15 ---
 ✓ Control unit register: CAR (Control Address Register),
 ✓ SBR(Subroutine Register)
@@ -710,6 +891,19 @@ this transfer, allowing the CPU to perform other tasks simultaneously. 3
 Marks
 Advantages of DMA over Programmed I/O: 2 Marks
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Data 0 strea:
+
+Processor Memory
+
+Control Unit Processor 1 1 Memory
+Processor Memory
+N-1 N-1
+
+}
+
+Interconnection network
 --- page 4 ---
 1. CPU is free after initializing the DMA transfer.
 2. Faster because data is transferred directly between memory and
@@ -757,6 +951,29 @@ Number of main-memory blocks = (main memory bytes) / (block size bytes).
 3.) Number of lines in cache 2.5Marks
 4) Number of tag bits required (direct-mapped) 2.5Marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Compute main memory size in bytes:
+
+© 4GB=4 x 2" =4 x 1,073,741, 824 = 4, 294, 967, 296 bytes.
++ 4,204, 967, 296 = 2”.
+
+So number of physical address bits = log,(2"") = 32 bits.
+
+Answer (1): 32 bits.
+
+Number of main-memory blocks = (main memory bytes) / (block size bytes).
+* Block size = 4 KB = 4096 = 2” bytes.
+* Blocks = 2°7/2!? = 270 = 1, 048, 576.
+
+Answer (2): 1,048,576 blocks (i.e, 27").
+
+Number of cache lines = (cache size) / (block size).
+
+* Cache size = 1 MB = 2” bytes.
+© Lines = 2°0/2 — 25 = 256.
+
+Answer (3): 256 lines (i.e. 2°).
 --- page 6 ---
 Q3   a Describe in detail the various phases of the Basic Instruction Cycle. Explain   10
 CO1   each phase with the help of a neat and labeled diagram.
@@ -771,6 +988,30 @@ For example, in the above figure, when the CPU wants to execute the first
 instruction, it must have a program counter having a value of 200.
 Instruction decode
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Address ts split into: [ tag | index | block offset ]
+
+© Block offset bits = log, (block size) = 12 bits.
+* Index bits = log (number of cache lines) = log, (256) = 8 bits.
+* Physical address bits = 32.
+
+So tag bits = 32 — (8 + 12) = 32 — 20 = 12 bits.
+
+Answer (4): 12 tag bits.
+
+Instruction Operand Operand _
+
+fetch fetch store
+Multiple Multiple
+operands results
+Instruction Instruction Operand Data Operand
+address operation —p address Operation —> address
+calculation decoding calculation calculation
+Return for string
+Instruction complete, vector data
+
+fetch next instruction
 --- page 7 ---
 When instruction is copied to the instruction register from memory to CPU, it
 contains the instruction's opcode, which is decoded by CPU. When the CPU
@@ -836,6 +1077,20 @@ With introduction of co-processor along with the main processor, it
 was noticed that performance of the applications improved from 20%
 to 500%.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Argument register (A)
+
+Key register (K)
+Match
+register
+Tutput —|
+Associative memory
+array and logic M
+Read — m words
+Write — nbits per word
+
+Output
 --- page 9 ---
 Diagram: 3 marks
 Control Unit
@@ -954,6 +1209,21 @@ corresponding positive number from 2n.
 •   Hence, the 2's complement number is obtained by adding 1 to the 1's
 complement number.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+¢ In signed numbers it is necessary to represent negative as well as
+positive numbers.
+¢ Fig. 2.1 shows the sign magnitude format for 8 bit signed number.
+
+* In sign-magnitude representation the most significant bit (leftmost
+bit) is used to represent sign of the number.
+
+87 86 BS B4 B83 B2 BI BO Here are some examples of sign-magnitude numbers.
+Ll | 1+6=00000110
+“~- > 2.-44=10001110
+Sign Magnitude 3.424=00011000
+
+Fig. 2.1 Sign - magnitude format 4-4= 1100 0000
 --- page 12 ---
 •   Advantages of 2's complement representation
 • From Table 2.1 we can note that there are distinct + 0 and -0
@@ -993,6 +1263,22 @@ Operation of DMA (2marks)
 Modes: 6 marks
 (a) Burst Mode (Block Transfer Mode)
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+map Example 2.3: Find 2's complement of (1001),.
+
+Solution :
+100 1 « number
+0141 £40 < 1's complement
++ 1
+01141 < 2's complement
+
+map Example 2.4: Find 2's complement of (1010 0011).
+
+Solution : 101 0 0 0 1 1 «number
+0101 1 1 «0 ? «< 1’s complement
+
+01041 1 1 0 1 € 2's complement
 --- page 13 ---
 Operation:
 • The DMA controller transfers the entire block of data in one
@@ -1052,6 +1338,30 @@ It consists of
 ✓ AR(Address Register),
 ✓ DR(Data Register)
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Computer Hardware Configuration
+
+4
+
+MUX
+10 0
+AR
+Address | Memory
+n R 2048 x 16
+PC
+MUX
+6 0 6 0 1
+DR
+SBR CAR
+Control memory Arithmetic
+128 x 20 logic and
+shift unit
+Control unit
+15 0
+AC
+
+Lt
 --- page 15 ---
 ✓ Control unit register: CAR (Control Address Register),
 ✓ SBR(Subroutine Register)
@@ -1143,6 +1453,7 @@ o Example:
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_Computer_7002/Computer Organization and Architecture/ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: text (16 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1268,6 +1579,19 @@ to access the bus.
 ✓ When the requesting master recognizes its address, it activates the busy line
 and begins to use the bus.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+i i Device m BGT
+BGT | Device 1 BGT | Device 2 Lye
+
+BRQ
+
+Bus
+Arbiter
+
+SACK
+
+Daisy chained bus arbitration
 --- page 4 ---
 (iii) Fixed priority or Independent Request method
 ✓ In this, each master has a separate pair of bus request and bus grant lines
@@ -1285,6 +1609,34 @@ bits in each.
 Ans:
 2.5 marks for each Step:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+BGT Device 1 BGT Device 2 BGT Device m BGT
+Ls, —_ 3 >
+¢
+
+BRQ
+v
+< SACK
+S
+
+Rotating priority bus arbitration
+
+BRQ1
+
+a
+BGT1 , Device 1
+BRQ2
+Bus arbiter |———
+<3 over
+]
+i]
+H
+in BRQm \
+
+BGTm 5 | Device m
+
+Fixed priority bus arbitration method
 --- page 5 ---
 Final division of the 22-bit main memory address:
 Field   Number of Bits
@@ -1311,6 +1663,31 @@ services or handle exceptional conditions.
 • Used for system calls, debugging, or handling errors like divide-by-zero.
 Comparison: 4 Marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate the number of blocks in the cache
+
+_ Cache size 2° oy)
+Number of blocks = Block size = 30 — 2” = 4096 blocks
+
+Step 2: Calculate the number of index bits
+
+Since direct mapping maps each block of memory to exactly one block in cache, the index selects the block
+number in the cache:
+
+Index bits = log,(Number of blocks) = 12 bits
+
+Step 3: Calculate the number of block offset bits
+
+The block offset specifies the byte within a block:
+
+Block offset bits = log, (Block size) = 6 bits
+
+Step 4: Calculate the number of tag bits
+
+The tag bits identify which block in main memory is stored in a particular cache block:
+
+Tag bits = Total address bits — (Index bits + Block offset bits) = 22 — (12 + 6) = 4 bits
 --- page 6 ---
 Why Interrupts Are More Efficient : 2 marks
 1. Eliminate   Wasteful   Waiting:
@@ -1340,6 +1717,25 @@ Range   Smaller   Much larger
 Memory usage   4 bytes   8 bytes
 Computational speed Faster   Slightly slower
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Comparison of Interrupt-Driven I/O and Polling Methods
+
+Feature Polling 1/0 Interrupt-Driven I/O
+
+Mechanism CPU continuously checks (polls) status of Device sends interrupt signal when ready.
+W/O device.
+
+CPU Involvement CPU is busy waiting (wastes cycles). CPU is free until interrupt occurs.
+
+Efficiency Inefficient, wastes CPU time. More efficient; CPU does other tasks.
+
+Response Time May have delayed response depending on Immediate response on interrupt.
+
+polling frequency.
+Complexity Simple to implement. Requires interrupt handling logic.
+
+CPU Overhead High, due to continuous checking. Low, CPU services device only on interrupt.
 --- page 7 ---
 Rounding error   Higher   Lower
 When Double Precision is Preferred (Any Two Scenarios) : 2 marks
@@ -1388,6 +1784,20 @@ subtractor.
 Ans:
 [Diagram with explanation 6 marks ]
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Argument register (A)
+
+Key register (K)
+Match
+register
+Tutput —|
+Associative memory
+array and logic M
+Read m words
+Write—+| bits per word
+
+Output
 --- page 9 ---
 • Advantages of parallel Adder/Subtractor [2 marks]
 1. The parallel adder/subtractor performs the addition operation faster as
@@ -1416,6 +1826,33 @@ translations.
 lookups.
 • Enhances overall CPU performance and efficiency in address translation.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+RACTOR
+jrcui in Fig. 5.15 perft
+circuit shown mn orms
+binary ® als tion. It two 4-bit inputs X3X1XX, =
+oe g subtrac ted with C, of the least significant d
+ns of addition and subtraction rh
+» The
+
+5.10 4-|
+
+The 4-bit parallel eee
+hah: The ADD/ SUB control a seratio
+of the full-adder, ig used 0 Perfor. ters.
+Ex-OR gates are used as controlled i"
+x, Ys Xo Yo
+—
+| itthoun
+
+Xy Ys
+
+a ie FA FA Cy,
+cy | og = See ops, Co s,
+» * ®. re 8
+
+Fig. 5.15. 4-bit parallel adder/ subtractor
 --- page 10 ---
 [diagram 4 Marks]
 Reasons to use TLB : [explanation 6 marks]
@@ -1442,6 +1879,26 @@ INIT 0000 0011 0   Initial values
 4   0010 1010 0 No operation (00)
 4   0001 0101 0   Arithmetic right shift
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Logical Address Physical Address
+
+[}—-[>] «| 0
+
+Page no. Frame no.
+age in\,_Yes » wat = 2
+cache? Z aD
+7 il TLB 3
+
+TLB hit
+
+L*[ «4 |
+
+No
+
+4 TLB miss
+
+Page table or Page Map Table
 --- page 11 ---
 2 marks= diagram
 • The Booth's algorithm can be implemented as shown in the Fig. 2.19.
@@ -1461,6 +1918,42 @@ Explanation of Bus Interface unit: 3m
 The internal architecture of Intel 8086 is divided into 2 units: The Bus Interface Unit
 (BIU), and The Execution Unit (EU).
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Address Bus (20 Bits)
+
+General 1
+Registers H
+Aq | AL 1
+Dat
+BH | BL 1 Bus
+ca et I Tie brst
+DH [ob 1
+SP 1 ey
+BP H DS
+SI 1 SS
+DI H ES
+1 iP
+ALU Data Bus | Intemal
+Tops) Tt Commu
+H Registers
+Temporary H Be
+Registers 1 controt | External
+H Logic je-BUS
+1
+cu | 4] Instruction Queue
++] Controt
+
+System
+
+1
+1
+Flags |! I (8 Bits)
+1
+1
+
+Execution Unit ! Bus Interface Unit
+(EU) (elu)
 --- page 12 ---
 1. The Bus Interface Unit (BIU):It provides the interface of 8086 to external memory and
 I/O devices via the System Bus. It performs various machine cycles such as memory read,
@@ -1546,6 +2039,27 @@ o A memory location, or
 o An I/O device register
 • The control unit does not differentiate between memory and I/O initially.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Memory-Mapped I/O 1/O-Mapped I/O (Isolated 1/0) oO
+
+Address Space Uses the same address space for Uses a separate, dedicated address space for
+memory and I/O devices 1/O devices
+
+Address Range I/O devices share full memory address 1/0 devices have a separate, limited I/O
+range address range
+
+Instructions Used Uses normal memory instructions (LOAD, Uses special I/O instructions (IN, OUT in
+STORE, MOV) 8086)
+
+Control Signals Memory control signals (MEMR, MEMW) 1/0 control signals (IOR, OW)
+
+Decoding Complexity More complex address decoding Simpler decoding due to separate space
+
+Speed Slightly slower due to memory address Faster for I/O operations
+decoding
+
+Programming Flexibility High (I/O treated like memory variables) Limited (special instructions required)
 --- page 14 ---
 • The address decoder identifies whether the address belongs to RAM or an
 I/O device.
@@ -1643,6 +2157,30 @@ CO1,   ii.   Distinguish between computer organization and architecture.
 BT2
 Each difference 1 marks
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Computer Architecture Computer Organization ia}
+
+Meaning Defines the functional behavior and Defines the internal operational design and
+structure of the computer system implementation
+
+Focus What the system does How the system is implemented
+
+Level of Abstraction High-level view Low-level view
+
+Concerned With Instruction set, data types, addressing Control signals, hardware components,
+modes interconnections
+
+Visibility to Programmer Visible to programmers (ISA level) Not visible to programmers
+
+Examples Instruction set, registers, memory ALU design, control unit design, buses,
+addressing modes timing signals
+
+Change Impact Changes affect software compatibility Changes usually do not affect programming
+
+model
+
+Design Goal Define capabilities of the system Efficient implementation of architecture
 ````
 
 ## 2025-26 · Final-Exam · Sem 4 · Answer key · paper 213991748cba
@@ -1652,6 +2190,7 @@ Each difference 1 marks
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_CyberSecurity_7010/Computer Organization and Architecture/ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: text (16 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1777,6 +2316,19 @@ to access the bus.
 ✓ When the requesting master recognizes its address, it activates the busy line
 and begins to use the bus.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+i i Device m BGT
+BGT | Device 1 BGT | Device 2 Lye
+
+BRQ
+
+Bus
+Arbiter
+
+SACK
+
+Daisy chained bus arbitration
 --- page 4 ---
 (iii) Fixed priority or Independent Request method
 ✓ In this, each master has a separate pair of bus request and bus grant lines
@@ -1794,6 +2346,34 @@ bits in each.
 Ans:
 2.5 marks for each Step:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+BGT Device 1 BGT Device 2 BGT Device m BGT
+Ls, —_ 3 >
+¢
+
+BRQ
+v
+< SACK
+S
+
+Rotating priority bus arbitration
+
+BRQ1
+
+a
+BGT1 , Device 1
+BRQ2
+Bus arbiter |———
+<3 over
+]
+i]
+H
+in BRQm \
+
+BGTm 5 | Device m
+
+Fixed priority bus arbitration method
 --- page 5 ---
 Final division of the 22-bit main memory address:
 Field   Number of Bits
@@ -1820,6 +2400,31 @@ services or handle exceptional conditions.
 • Used for system calls, debugging, or handling errors like divide-by-zero.
 Comparison: 4 Marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate the number of blocks in the cache
+
+_ Cache size 2° oy)
+Number of blocks = Block size = 30 — 2” = 4096 blocks
+
+Step 2: Calculate the number of index bits
+
+Since direct mapping maps each block of memory to exactly one block in cache, the index selects the block
+number in the cache:
+
+Index bits = log,(Number of blocks) = 12 bits
+
+Step 3: Calculate the number of block offset bits
+
+The block offset specifies the byte within a block:
+
+Block offset bits = log, (Block size) = 6 bits
+
+Step 4: Calculate the number of tag bits
+
+The tag bits identify which block in main memory is stored in a particular cache block:
+
+Tag bits = Total address bits — (Index bits + Block offset bits) = 22 — (12 + 6) = 4 bits
 --- page 6 ---
 Why Interrupts Are More Efficient : 2 marks
 1. Eliminate   Wasteful   Waiting:
@@ -1849,6 +2454,25 @@ Range   Smaller   Much larger
 Memory usage   4 bytes   8 bytes
 Computational speed Faster   Slightly slower
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Comparison of Interrupt-Driven I/O and Polling Methods
+
+Feature Polling 1/0 Interrupt-Driven I/O
+
+Mechanism CPU continuously checks (polls) status of Device sends interrupt signal when ready.
+W/O device.
+
+CPU Involvement CPU is busy waiting (wastes cycles). CPU is free until interrupt occurs.
+
+Efficiency Inefficient, wastes CPU time. More efficient; CPU does other tasks.
+
+Response Time May have delayed response depending on Immediate response on interrupt.
+
+polling frequency.
+Complexity Simple to implement. Requires interrupt handling logic.
+
+CPU Overhead High, due to continuous checking. Low, CPU services device only on interrupt.
 --- page 7 ---
 Rounding error   Higher   Lower
 When Double Precision is Preferred (Any Two Scenarios) : 2 marks
@@ -1897,6 +2521,20 @@ subtractor.
 Ans:
 [Diagram with explanation 6 marks ]
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Argument register (A)
+
+Key register (K)
+Match
+register
+Tutput —|
+Associative memory
+array and logic M
+Read m words
+Write—+| bits per word
+
+Output
 --- page 9 ---
 • Advantages of parallel Adder/Subtractor [2 marks]
 1. The parallel adder/subtractor performs the addition operation faster as
@@ -1925,6 +2563,33 @@ translations.
 lookups.
 • Enhances overall CPU performance and efficiency in address translation.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+RACTOR
+jrcui in Fig. 5.15 perft
+circuit shown mn orms
+binary ® als tion. It two 4-bit inputs X3X1XX, =
+oe g subtrac ted with C, of the least significant d
+ns of addition and subtraction rh
+» The
+
+5.10 4-|
+
+The 4-bit parallel eee
+hah: The ADD/ SUB control a seratio
+of the full-adder, ig used 0 Perfor. ters.
+Ex-OR gates are used as controlled i"
+x, Ys Xo Yo
+—
+| itthoun
+
+Xy Ys
+
+a ie FA FA Cy,
+cy | og = See ops, Co s,
+» * ®. re 8
+
+Fig. 5.15. 4-bit parallel adder/ subtractor
 --- page 10 ---
 [diagram 4 Marks]
 Reasons to use TLB : [explanation 6 marks]
@@ -1951,6 +2616,26 @@ INIT 0000 0011 0   Initial values
 4   0010 1010 0 No operation (00)
 4   0001 0101 0   Arithmetic right shift
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Logical Address Physical Address
+
+[}—-[>] «| 0
+
+Page no. Frame no.
+age in\,_Yes » wat = 2
+cache? Z aD
+7 il TLB 3
+
+TLB hit
+
+L*[ «4 |
+
+No
+
+4 TLB miss
+
+Page table or Page Map Table
 --- page 11 ---
 2 marks= diagram
 • The Booth's algorithm can be implemented as shown in the Fig. 2.19.
@@ -1970,6 +2655,42 @@ Explanation of Bus Interface unit: 3m
 The internal architecture of Intel 8086 is divided into 2 units: The Bus Interface Unit
 (BIU), and The Execution Unit (EU).
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Address Bus (20 Bits)
+
+General 1
+Registers H
+Aq | AL 1
+Dat
+BH | BL 1 Bus
+ca et I Tie brst
+DH [ob 1
+SP 1 ey
+BP H DS
+SI 1 SS
+DI H ES
+1 iP
+ALU Data Bus | Intemal
+Tops) Tt Commu
+H Registers
+Temporary H Be
+Registers 1 controt | External
+H Logic je-BUS
+1
+cu | 4] Instruction Queue
++] Controt
+
+System
+
+1
+1
+Flags |! I (8 Bits)
+1
+1
+
+Execution Unit ! Bus Interface Unit
+(EU) (elu)
 --- page 12 ---
 1. The Bus Interface Unit (BIU):It provides the interface of 8086 to external memory and
 I/O devices via the System Bus. It performs various machine cycles such as memory read,
@@ -2055,6 +2776,27 @@ o A memory location, or
 o An I/O device register
 • The control unit does not differentiate between memory and I/O initially.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Memory-Mapped I/O 1/O-Mapped I/O (Isolated 1/0) oO
+
+Address Space Uses the same address space for Uses a separate, dedicated address space for
+memory and I/O devices 1/O devices
+
+Address Range I/O devices share full memory address 1/0 devices have a separate, limited I/O
+range address range
+
+Instructions Used Uses normal memory instructions (LOAD, Uses special I/O instructions (IN, OUT in
+STORE, MOV) 8086)
+
+Control Signals Memory control signals (MEMR, MEMW) 1/0 control signals (IOR, OW)
+
+Decoding Complexity More complex address decoding Simpler decoding due to separate space
+
+Speed Slightly slower due to memory address Faster for I/O operations
+decoding
+
+Programming Flexibility High (I/O treated like memory variables) Limited (special instructions required)
 --- page 14 ---
 • The address decoder identifies whether the address belongs to RAM or an
 I/O device.
@@ -2152,6 +2894,30 @@ CO1,   ii.   Distinguish between computer organization and architecture.
 BT2
 Each difference 1 marks
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Computer Architecture Computer Organization ia}
+
+Meaning Defines the functional behavior and Defines the internal operational design and
+structure of the computer system implementation
+
+Focus What the system does How the system is implemented
+
+Level of Abstraction High-level view Low-level view
+
+Concerned With Instruction set, data types, addressing Control signals, hardware components,
+modes interconnections
+
+Visibility to Programmer Visible to programmers (ISA level) Not visible to programmers
+
+Examples Instruction set, registers, memory ALU design, control unit design, buses,
+addressing modes timing signals
+
+Change Impact Changes affect software compatibility Changes usually do not affect programming
+
+model
+
+Design Goal Define capabilities of the system Efficient implementation of architecture
 ````
 
 ## 2025-26 · Final-Exam · Sem 4 · Answer key · paper 1189e7c5869a
@@ -2161,6 +2927,7 @@ Each difference 1 marks
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_IT_7001/Computer Organization and Architecture/ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: text (16 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2286,6 +3053,19 @@ to access the bus.
 ✓ When the requesting master recognizes its address, it activates the busy line
 and begins to use the bus.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+i i Device m BGT
+BGT | Device 1 BGT | Device 2 Lye
+
+BRQ
+
+Bus
+Arbiter
+
+SACK
+
+Daisy chained bus arbitration
 --- page 4 ---
 (iii) Fixed priority or Independent Request method
 ✓ In this, each master has a separate pair of bus request and bus grant lines
@@ -2303,6 +3083,34 @@ bits in each.
 Ans:
 2.5 marks for each Step:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+BGT Device 1 BGT Device 2 BGT Device m BGT
+Ls, —_ 3 >
+¢
+
+BRQ
+v
+< SACK
+S
+
+Rotating priority bus arbitration
+
+BRQ1
+
+a
+BGT1 , Device 1
+BRQ2
+Bus arbiter |———
+<3 over
+]
+i]
+H
+in BRQm \
+
+BGTm 5 | Device m
+
+Fixed priority bus arbitration method
 --- page 5 ---
 Final division of the 22-bit main memory address:
 Field   Number of Bits
@@ -2329,6 +3137,31 @@ services or handle exceptional conditions.
 • Used for system calls, debugging, or handling errors like divide-by-zero.
 Comparison: 4 Marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate the number of blocks in the cache
+
+_ Cache size 2° oy)
+Number of blocks = Block size = 30 — 2” = 4096 blocks
+
+Step 2: Calculate the number of index bits
+
+Since direct mapping maps each block of memory to exactly one block in cache, the index selects the block
+number in the cache:
+
+Index bits = log,(Number of blocks) = 12 bits
+
+Step 3: Calculate the number of block offset bits
+
+The block offset specifies the byte within a block:
+
+Block offset bits = log, (Block size) = 6 bits
+
+Step 4: Calculate the number of tag bits
+
+The tag bits identify which block in main memory is stored in a particular cache block:
+
+Tag bits = Total address bits — (Index bits + Block offset bits) = 22 — (12 + 6) = 4 bits
 --- page 6 ---
 Why Interrupts Are More Efficient : 2 marks
 1. Eliminate   Wasteful   Waiting:
@@ -2358,6 +3191,25 @@ Range   Smaller   Much larger
 Memory usage   4 bytes   8 bytes
 Computational speed Faster   Slightly slower
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Comparison of Interrupt-Driven I/O and Polling Methods
+
+Feature Polling 1/0 Interrupt-Driven I/O
+
+Mechanism CPU continuously checks (polls) status of Device sends interrupt signal when ready.
+W/O device.
+
+CPU Involvement CPU is busy waiting (wastes cycles). CPU is free until interrupt occurs.
+
+Efficiency Inefficient, wastes CPU time. More efficient; CPU does other tasks.
+
+Response Time May have delayed response depending on Immediate response on interrupt.
+
+polling frequency.
+Complexity Simple to implement. Requires interrupt handling logic.
+
+CPU Overhead High, due to continuous checking. Low, CPU services device only on interrupt.
 --- page 7 ---
 Rounding error   Higher   Lower
 When Double Precision is Preferred (Any Two Scenarios) : 2 marks
@@ -2406,6 +3258,20 @@ subtractor.
 Ans:
 [Diagram with explanation 6 marks ]
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Argument register (A)
+
+Key register (K)
+Match
+register
+Tutput —|
+Associative memory
+array and logic M
+Read m words
+Write—+| bits per word
+
+Output
 --- page 9 ---
 • Advantages of parallel Adder/Subtractor [2 marks]
 1. The parallel adder/subtractor performs the addition operation faster as
@@ -2434,6 +3300,33 @@ translations.
 lookups.
 • Enhances overall CPU performance and efficiency in address translation.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+RACTOR
+jrcui in Fig. 5.15 perft
+circuit shown mn orms
+binary ® als tion. It two 4-bit inputs X3X1XX, =
+oe g subtrac ted with C, of the least significant d
+ns of addition and subtraction rh
+» The
+
+5.10 4-|
+
+The 4-bit parallel eee
+hah: The ADD/ SUB control a seratio
+of the full-adder, ig used 0 Perfor. ters.
+Ex-OR gates are used as controlled i"
+x, Ys Xo Yo
+—
+| itthoun
+
+Xy Ys
+
+a ie FA FA Cy,
+cy | og = See ops, Co s,
+» * ®. re 8
+
+Fig. 5.15. 4-bit parallel adder/ subtractor
 --- page 10 ---
 [diagram 4 Marks]
 Reasons to use TLB : [explanation 6 marks]
@@ -2460,6 +3353,26 @@ INIT 0000 0011 0   Initial values
 4   0010 1010 0 No operation (00)
 4   0001 0101 0   Arithmetic right shift
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Logical Address Physical Address
+
+[}—-[>] «| 0
+
+Page no. Frame no.
+age in\,_Yes » wat = 2
+cache? Z aD
+7 il TLB 3
+
+TLB hit
+
+L*[ «4 |
+
+No
+
+4 TLB miss
+
+Page table or Page Map Table
 --- page 11 ---
 2 marks= diagram
 • The Booth's algorithm can be implemented as shown in the Fig. 2.19.
@@ -2479,6 +3392,42 @@ Explanation of Bus Interface unit: 3m
 The internal architecture of Intel 8086 is divided into 2 units: The Bus Interface Unit
 (BIU), and The Execution Unit (EU).
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Address Bus (20 Bits)
+
+General 1
+Registers H
+Aq | AL 1
+Dat
+BH | BL 1 Bus
+ca et I Tie brst
+DH [ob 1
+SP 1 ey
+BP H DS
+SI 1 SS
+DI H ES
+1 iP
+ALU Data Bus | Intemal
+Tops) Tt Commu
+H Registers
+Temporary H Be
+Registers 1 controt | External
+H Logic je-BUS
+1
+cu | 4] Instruction Queue
++] Controt
+
+System
+
+1
+1
+Flags |! I (8 Bits)
+1
+1
+
+Execution Unit ! Bus Interface Unit
+(EU) (elu)
 --- page 12 ---
 1. The Bus Interface Unit (BIU):It provides the interface of 8086 to external memory and
 I/O devices via the System Bus. It performs various machine cycles such as memory read,
@@ -2564,6 +3513,27 @@ o A memory location, or
 o An I/O device register
 • The control unit does not differentiate between memory and I/O initially.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Memory-Mapped I/O 1/O-Mapped I/O (Isolated 1/0) oO
+
+Address Space Uses the same address space for Uses a separate, dedicated address space for
+memory and I/O devices 1/O devices
+
+Address Range I/O devices share full memory address 1/0 devices have a separate, limited I/O
+range address range
+
+Instructions Used Uses normal memory instructions (LOAD, Uses special I/O instructions (IN, OUT in
+STORE, MOV) 8086)
+
+Control Signals Memory control signals (MEMR, MEMW) 1/0 control signals (IOR, OW)
+
+Decoding Complexity More complex address decoding Simpler decoding due to separate space
+
+Speed Slightly slower due to memory address Faster for I/O operations
+decoding
+
+Programming Flexibility High (I/O treated like memory variables) Limited (special instructions required)
 --- page 14 ---
 • The address decoder identifies whether the address belongs to RAM or an
 I/O device.
@@ -2661,6 +3631,30 @@ CO1,   ii.   Distinguish between computer organization and architecture.
 BT2
 Each difference 1 marks
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Computer Architecture Computer Organization ia}
+
+Meaning Defines the functional behavior and Defines the internal operational design and
+structure of the computer system implementation
+
+Focus What the system does How the system is implemented
+
+Level of Abstraction High-level view Low-level view
+
+Concerned With Instruction set, data types, addressing Control signals, hardware components,
+modes interconnections
+
+Visibility to Programmer Visible to programmers (ISA level) Not visible to programmers
+
+Examples Instruction set, registers, memory ALU design, control unit design, buses,
+addressing modes timing signals
+
+Change Impact Changes affect software compatibility Changes usually do not affect programming
+
+model
+
+Design Goal Define capabilities of the system Efficient implementation of architecture
 ````
 
 ## 2025-26 · Final-Exam · Sem 4 · Answer key · paper e312eb58b337
@@ -2670,6 +3664,7 @@ Each difference 1 marks
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/MBATech_Computer_7047/Computer Organization and Architecture/ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: text (16 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2795,6 +3790,19 @@ to access the bus.
 ✓ When the requesting master recognizes its address, it activates the busy line
 and begins to use the bus.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+i i Device m BGT
+BGT | Device 1 BGT | Device 2 Lye
+
+BRQ
+
+Bus
+Arbiter
+
+SACK
+
+Daisy chained bus arbitration
 --- page 4 ---
 (iii) Fixed priority or Independent Request method
 ✓ In this, each master has a separate pair of bus request and bus grant lines
@@ -2812,6 +3820,34 @@ bits in each.
 Ans:
 2.5 marks for each Step:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+BGT Device 1 BGT Device 2 BGT Device m BGT
+Ls, —_ 3 >
+¢
+
+BRQ
+v
+< SACK
+S
+
+Rotating priority bus arbitration
+
+BRQ1
+
+a
+BGT1 , Device 1
+BRQ2
+Bus arbiter |———
+<3 over
+]
+i]
+H
+in BRQm \
+
+BGTm 5 | Device m
+
+Fixed priority bus arbitration method
 --- page 5 ---
 Final division of the 22-bit main memory address:
 Field   Number of Bits
@@ -2838,6 +3874,31 @@ services or handle exceptional conditions.
 • Used for system calls, debugging, or handling errors like divide-by-zero.
 Comparison: 4 Marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate the number of blocks in the cache
+
+_ Cache size 2° oy)
+Number of blocks = Block size = 30 — 2” = 4096 blocks
+
+Step 2: Calculate the number of index bits
+
+Since direct mapping maps each block of memory to exactly one block in cache, the index selects the block
+number in the cache:
+
+Index bits = log,(Number of blocks) = 12 bits
+
+Step 3: Calculate the number of block offset bits
+
+The block offset specifies the byte within a block:
+
+Block offset bits = log, (Block size) = 6 bits
+
+Step 4: Calculate the number of tag bits
+
+The tag bits identify which block in main memory is stored in a particular cache block:
+
+Tag bits = Total address bits — (Index bits + Block offset bits) = 22 — (12 + 6) = 4 bits
 --- page 6 ---
 Why Interrupts Are More Efficient : 2 marks
 1. Eliminate   Wasteful   Waiting:
@@ -2867,6 +3928,25 @@ Range   Smaller   Much larger
 Memory usage   4 bytes   8 bytes
 Computational speed Faster   Slightly slower
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Comparison of Interrupt-Driven I/O and Polling Methods
+
+Feature Polling 1/0 Interrupt-Driven I/O
+
+Mechanism CPU continuously checks (polls) status of Device sends interrupt signal when ready.
+W/O device.
+
+CPU Involvement CPU is busy waiting (wastes cycles). CPU is free until interrupt occurs.
+
+Efficiency Inefficient, wastes CPU time. More efficient; CPU does other tasks.
+
+Response Time May have delayed response depending on Immediate response on interrupt.
+
+polling frequency.
+Complexity Simple to implement. Requires interrupt handling logic.
+
+CPU Overhead High, due to continuous checking. Low, CPU services device only on interrupt.
 --- page 7 ---
 Rounding error   Higher   Lower
 When Double Precision is Preferred (Any Two Scenarios) : 2 marks
@@ -2915,6 +3995,20 @@ subtractor.
 Ans:
 [Diagram with explanation 6 marks ]
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Argument register (A)
+
+Key register (K)
+Match
+register
+Tutput —|
+Associative memory
+array and logic M
+Read m words
+Write—+| bits per word
+
+Output
 --- page 9 ---
 • Advantages of parallel Adder/Subtractor [2 marks]
 1. The parallel adder/subtractor performs the addition operation faster as
@@ -2943,6 +4037,33 @@ translations.
 lookups.
 • Enhances overall CPU performance and efficiency in address translation.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+RACTOR
+jrcui in Fig. 5.15 perft
+circuit shown mn orms
+binary ® als tion. It two 4-bit inputs X3X1XX, =
+oe g subtrac ted with C, of the least significant d
+ns of addition and subtraction rh
+» The
+
+5.10 4-|
+
+The 4-bit parallel eee
+hah: The ADD/ SUB control a seratio
+of the full-adder, ig used 0 Perfor. ters.
+Ex-OR gates are used as controlled i"
+x, Ys Xo Yo
+—
+| itthoun
+
+Xy Ys
+
+a ie FA FA Cy,
+cy | og = See ops, Co s,
+» * ®. re 8
+
+Fig. 5.15. 4-bit parallel adder/ subtractor
 --- page 10 ---
 [diagram 4 Marks]
 Reasons to use TLB : [explanation 6 marks]
@@ -2969,6 +4090,26 @@ INIT 0000 0011 0   Initial values
 4   0010 1010 0 No operation (00)
 4   0001 0101 0   Arithmetic right shift
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Logical Address Physical Address
+
+[}—-[>] «| 0
+
+Page no. Frame no.
+age in\,_Yes » wat = 2
+cache? Z aD
+7 il TLB 3
+
+TLB hit
+
+L*[ «4 |
+
+No
+
+4 TLB miss
+
+Page table or Page Map Table
 --- page 11 ---
 2 marks= diagram
 • The Booth's algorithm can be implemented as shown in the Fig. 2.19.
@@ -2988,6 +4129,42 @@ Explanation of Bus Interface unit: 3m
 The internal architecture of Intel 8086 is divided into 2 units: The Bus Interface Unit
 (BIU), and The Execution Unit (EU).
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Address Bus (20 Bits)
+
+General 1
+Registers H
+Aq | AL 1
+Dat
+BH | BL 1 Bus
+ca et I Tie brst
+DH [ob 1
+SP 1 ey
+BP H DS
+SI 1 SS
+DI H ES
+1 iP
+ALU Data Bus | Intemal
+Tops) Tt Commu
+H Registers
+Temporary H Be
+Registers 1 controt | External
+H Logic je-BUS
+1
+cu | 4] Instruction Queue
++] Controt
+
+System
+
+1
+1
+Flags |! I (8 Bits)
+1
+1
+
+Execution Unit ! Bus Interface Unit
+(EU) (elu)
 --- page 12 ---
 1. The Bus Interface Unit (BIU):It provides the interface of 8086 to external memory and
 I/O devices via the System Bus. It performs various machine cycles such as memory read,
@@ -3073,6 +4250,27 @@ o A memory location, or
 o An I/O device register
 • The control unit does not differentiate between memory and I/O initially.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Memory-Mapped I/O 1/O-Mapped I/O (Isolated 1/0) oO
+
+Address Space Uses the same address space for Uses a separate, dedicated address space for
+memory and I/O devices 1/O devices
+
+Address Range I/O devices share full memory address 1/0 devices have a separate, limited I/O
+range address range
+
+Instructions Used Uses normal memory instructions (LOAD, Uses special I/O instructions (IN, OUT in
+STORE, MOV) 8086)
+
+Control Signals Memory control signals (MEMR, MEMW) 1/0 control signals (IOR, OW)
+
+Decoding Complexity More complex address decoding Simpler decoding due to separate space
+
+Speed Slightly slower due to memory address Faster for I/O operations
+decoding
+
+Programming Flexibility High (I/O treated like memory variables) Limited (special instructions required)
 --- page 14 ---
 • The address decoder identifies whether the address belongs to RAM or an
 I/O device.
@@ -3170,6 +4368,30 @@ CO1,   ii.   Distinguish between computer organization and architecture.
 BT2
 Each difference 1 marks
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Computer Architecture Computer Organization ia}
+
+Meaning Defines the functional behavior and Defines the internal operational design and
+structure of the computer system implementation
+
+Focus What the system does How the system is implemented
+
+Level of Abstraction High-level view Low-level view
+
+Concerned With Instruction set, data types, addressing Control signals, hardware components,
+modes interconnections
+
+Visibility to Programmer Visible to programmers (ISA level) Not visible to programmers
+
+Examples Instruction set, registers, memory ALU design, control unit design, buses,
+addressing modes timing signals
+
+Change Impact Changes affect software compatibility Changes usually do not affect programming
+
+model
+
+Design Goal Define capabilities of the system Efficient implementation of architecture
 ````
 
 ## 2025-26 · Final-Exam · Sem 4 · Answer key · paper 8bc25c896919
@@ -3179,6 +4401,7 @@ Each difference 1 marks
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/MBATech_IT_7041/Computer Organization and Architecture/ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: text (16 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3304,6 +4527,19 @@ to access the bus.
 ✓ When the requesting master recognizes its address, it activates the busy line
 and begins to use the bus.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+i i Device m BGT
+BGT | Device 1 BGT | Device 2 Lye
+
+BRQ
+
+Bus
+Arbiter
+
+SACK
+
+Daisy chained bus arbitration
 --- page 4 ---
 (iii) Fixed priority or Independent Request method
 ✓ In this, each master has a separate pair of bus request and bus grant lines
@@ -3321,6 +4557,34 @@ bits in each.
 Ans:
 2.5 marks for each Step:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+BGT Device 1 BGT Device 2 BGT Device m BGT
+Ls, —_ 3 >
+¢
+
+BRQ
+v
+< SACK
+S
+
+Rotating priority bus arbitration
+
+BRQ1
+
+a
+BGT1 , Device 1
+BRQ2
+Bus arbiter |———
+<3 over
+]
+i]
+H
+in BRQm \
+
+BGTm 5 | Device m
+
+Fixed priority bus arbitration method
 --- page 5 ---
 Final division of the 22-bit main memory address:
 Field   Number of Bits
@@ -3347,6 +4611,31 @@ services or handle exceptional conditions.
 • Used for system calls, debugging, or handling errors like divide-by-zero.
 Comparison: 4 Marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate the number of blocks in the cache
+
+_ Cache size 2° oy)
+Number of blocks = Block size = 30 — 2” = 4096 blocks
+
+Step 2: Calculate the number of index bits
+
+Since direct mapping maps each block of memory to exactly one block in cache, the index selects the block
+number in the cache:
+
+Index bits = log,(Number of blocks) = 12 bits
+
+Step 3: Calculate the number of block offset bits
+
+The block offset specifies the byte within a block:
+
+Block offset bits = log, (Block size) = 6 bits
+
+Step 4: Calculate the number of tag bits
+
+The tag bits identify which block in main memory is stored in a particular cache block:
+
+Tag bits = Total address bits — (Index bits + Block offset bits) = 22 — (12 + 6) = 4 bits
 --- page 6 ---
 Why Interrupts Are More Efficient : 2 marks
 1. Eliminate   Wasteful   Waiting:
@@ -3376,6 +4665,25 @@ Range   Smaller   Much larger
 Memory usage   4 bytes   8 bytes
 Computational speed Faster   Slightly slower
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Comparison of Interrupt-Driven I/O and Polling Methods
+
+Feature Polling 1/0 Interrupt-Driven I/O
+
+Mechanism CPU continuously checks (polls) status of Device sends interrupt signal when ready.
+W/O device.
+
+CPU Involvement CPU is busy waiting (wastes cycles). CPU is free until interrupt occurs.
+
+Efficiency Inefficient, wastes CPU time. More efficient; CPU does other tasks.
+
+Response Time May have delayed response depending on Immediate response on interrupt.
+
+polling frequency.
+Complexity Simple to implement. Requires interrupt handling logic.
+
+CPU Overhead High, due to continuous checking. Low, CPU services device only on interrupt.
 --- page 7 ---
 Rounding error   Higher   Lower
 When Double Precision is Preferred (Any Two Scenarios) : 2 marks
@@ -3424,6 +4732,20 @@ subtractor.
 Ans:
 [Diagram with explanation 6 marks ]
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Argument register (A)
+
+Key register (K)
+Match
+register
+Tutput —|
+Associative memory
+array and logic M
+Read m words
+Write—+| bits per word
+
+Output
 --- page 9 ---
 • Advantages of parallel Adder/Subtractor [2 marks]
 1. The parallel adder/subtractor performs the addition operation faster as
@@ -3452,6 +4774,33 @@ translations.
 lookups.
 • Enhances overall CPU performance and efficiency in address translation.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+RACTOR
+jrcui in Fig. 5.15 perft
+circuit shown mn orms
+binary ® als tion. It two 4-bit inputs X3X1XX, =
+oe g subtrac ted with C, of the least significant d
+ns of addition and subtraction rh
+» The
+
+5.10 4-|
+
+The 4-bit parallel eee
+hah: The ADD/ SUB control a seratio
+of the full-adder, ig used 0 Perfor. ters.
+Ex-OR gates are used as controlled i"
+x, Ys Xo Yo
+—
+| itthoun
+
+Xy Ys
+
+a ie FA FA Cy,
+cy | og = See ops, Co s,
+» * ®. re 8
+
+Fig. 5.15. 4-bit parallel adder/ subtractor
 --- page 10 ---
 [diagram 4 Marks]
 Reasons to use TLB : [explanation 6 marks]
@@ -3478,6 +4827,26 @@ INIT 0000 0011 0   Initial values
 4   0010 1010 0 No operation (00)
 4   0001 0101 0   Arithmetic right shift
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Logical Address Physical Address
+
+[}—-[>] «| 0
+
+Page no. Frame no.
+age in\,_Yes » wat = 2
+cache? Z aD
+7 il TLB 3
+
+TLB hit
+
+L*[ «4 |
+
+No
+
+4 TLB miss
+
+Page table or Page Map Table
 --- page 11 ---
 2 marks= diagram
 • The Booth's algorithm can be implemented as shown in the Fig. 2.19.
@@ -3497,6 +4866,42 @@ Explanation of Bus Interface unit: 3m
 The internal architecture of Intel 8086 is divided into 2 units: The Bus Interface Unit
 (BIU), and The Execution Unit (EU).
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Address Bus (20 Bits)
+
+General 1
+Registers H
+Aq | AL 1
+Dat
+BH | BL 1 Bus
+ca et I Tie brst
+DH [ob 1
+SP 1 ey
+BP H DS
+SI 1 SS
+DI H ES
+1 iP
+ALU Data Bus | Intemal
+Tops) Tt Commu
+H Registers
+Temporary H Be
+Registers 1 controt | External
+H Logic je-BUS
+1
+cu | 4] Instruction Queue
++] Controt
+
+System
+
+1
+1
+Flags |! I (8 Bits)
+1
+1
+
+Execution Unit ! Bus Interface Unit
+(EU) (elu)
 --- page 12 ---
 1. The Bus Interface Unit (BIU):It provides the interface of 8086 to external memory and
 I/O devices via the System Bus. It performs various machine cycles such as memory read,
@@ -3582,6 +4987,27 @@ o A memory location, or
 o An I/O device register
 • The control unit does not differentiate between memory and I/O initially.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Memory-Mapped I/O 1/O-Mapped I/O (Isolated 1/0) oO
+
+Address Space Uses the same address space for Uses a separate, dedicated address space for
+memory and I/O devices 1/O devices
+
+Address Range I/O devices share full memory address 1/0 devices have a separate, limited I/O
+range address range
+
+Instructions Used Uses normal memory instructions (LOAD, Uses special I/O instructions (IN, OUT in
+STORE, MOV) 8086)
+
+Control Signals Memory control signals (MEMR, MEMW) 1/0 control signals (IOR, OW)
+
+Decoding Complexity More complex address decoding Simpler decoding due to separate space
+
+Speed Slightly slower due to memory address Faster for I/O operations
+decoding
+
+Programming Flexibility High (I/O treated like memory variables) Limited (special instructions required)
 --- page 14 ---
 • The address decoder identifies whether the address belongs to RAM or an
 I/O device.
@@ -3679,6 +5105,30 @@ CO1,   ii.   Distinguish between computer organization and architecture.
 BT2
 Each difference 1 marks
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Computer Architecture Computer Organization ia}
+
+Meaning Defines the functional behavior and Defines the internal operational design and
+structure of the computer system implementation
+
+Focus What the system does How the system is implemented
+
+Level of Abstraction High-level view Low-level view
+
+Concerned With Instruction set, data types, addressing Control signals, hardware components,
+modes interconnections
+
+Visibility to Programmer Visible to programmers (ISA level) Not visible to programmers
+
+Examples Instruction set, registers, memory ALU design, control unit design, buses,
+addressing modes timing signals
+
+Change Impact Changes affect software compatibility Changes usually do not affect programming
+
+model
+
+Design Goal Define capabilities of the system Efficient implementation of architecture
 ````
 
 ## 2025-26 · Final-Exam · Sem 8 · Answer key · paper 14d8ed7f117f
@@ -3688,6 +5138,7 @@ Each difference 1 marks
 - Source: `02_Question_Papers/2025/Sem_08/Final-Exam/Integrated_Computer_7032/Computer Organization and Architecture/ANS_Computer Organization and Architecture(702CO0C023)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: text (16 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3813,6 +5264,19 @@ to access the bus.
 ✓ When the requesting master recognizes its address, it activates the busy line
 and begins to use the bus.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+i i Device m BGT
+BGT | Device 1 BGT | Device 2 Lye
+
+BRQ
+
+Bus
+Arbiter
+
+SACK
+
+Daisy chained bus arbitration
 --- page 4 ---
 (iii) Fixed priority or Independent Request method
 ✓ In this, each master has a separate pair of bus request and bus grant lines
@@ -3830,6 +5294,34 @@ bits in each.
 Ans:
 2.5 marks for each Step:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+BGT Device 1 BGT Device 2 BGT Device m BGT
+Ls, —_ 3 >
+¢
+
+BRQ
+v
+< SACK
+S
+
+Rotating priority bus arbitration
+
+BRQ1
+
+a
+BGT1 , Device 1
+BRQ2
+Bus arbiter |———
+<3 over
+]
+i]
+H
+in BRQm \
+
+BGTm 5 | Device m
+
+Fixed priority bus arbitration method
 --- page 5 ---
 Final division of the 22-bit main memory address:
 Field   Number of Bits
@@ -3856,6 +5348,31 @@ services or handle exceptional conditions.
 • Used for system calls, debugging, or handling errors like divide-by-zero.
 Comparison: 4 Marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate the number of blocks in the cache
+
+_ Cache size 2° oy)
+Number of blocks = Block size = 30 — 2” = 4096 blocks
+
+Step 2: Calculate the number of index bits
+
+Since direct mapping maps each block of memory to exactly one block in cache, the index selects the block
+number in the cache:
+
+Index bits = log,(Number of blocks) = 12 bits
+
+Step 3: Calculate the number of block offset bits
+
+The block offset specifies the byte within a block:
+
+Block offset bits = log, (Block size) = 6 bits
+
+Step 4: Calculate the number of tag bits
+
+The tag bits identify which block in main memory is stored in a particular cache block:
+
+Tag bits = Total address bits — (Index bits + Block offset bits) = 22 — (12 + 6) = 4 bits
 --- page 6 ---
 Why Interrupts Are More Efficient : 2 marks
 1. Eliminate   Wasteful   Waiting:
@@ -3885,6 +5402,25 @@ Range   Smaller   Much larger
 Memory usage   4 bytes   8 bytes
 Computational speed Faster   Slightly slower
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Comparison of Interrupt-Driven I/O and Polling Methods
+
+Feature Polling 1/0 Interrupt-Driven I/O
+
+Mechanism CPU continuously checks (polls) status of Device sends interrupt signal when ready.
+W/O device.
+
+CPU Involvement CPU is busy waiting (wastes cycles). CPU is free until interrupt occurs.
+
+Efficiency Inefficient, wastes CPU time. More efficient; CPU does other tasks.
+
+Response Time May have delayed response depending on Immediate response on interrupt.
+
+polling frequency.
+Complexity Simple to implement. Requires interrupt handling logic.
+
+CPU Overhead High, due to continuous checking. Low, CPU services device only on interrupt.
 --- page 7 ---
 Rounding error   Higher   Lower
 When Double Precision is Preferred (Any Two Scenarios) : 2 marks
@@ -3933,6 +5469,20 @@ subtractor.
 Ans:
 [Diagram with explanation 6 marks ]
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Argument register (A)
+
+Key register (K)
+Match
+register
+Tutput —|
+Associative memory
+array and logic M
+Read m words
+Write—+| bits per word
+
+Output
 --- page 9 ---
 • Advantages of parallel Adder/Subtractor [2 marks]
 1. The parallel adder/subtractor performs the addition operation faster as
@@ -3961,6 +5511,33 @@ translations.
 lookups.
 • Enhances overall CPU performance and efficiency in address translation.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+RACTOR
+jrcui in Fig. 5.15 perft
+circuit shown mn orms
+binary ® als tion. It two 4-bit inputs X3X1XX, =
+oe g subtrac ted with C, of the least significant d
+ns of addition and subtraction rh
+» The
+
+5.10 4-|
+
+The 4-bit parallel eee
+hah: The ADD/ SUB control a seratio
+of the full-adder, ig used 0 Perfor. ters.
+Ex-OR gates are used as controlled i"
+x, Ys Xo Yo
+—
+| itthoun
+
+Xy Ys
+
+a ie FA FA Cy,
+cy | og = See ops, Co s,
+» * ®. re 8
+
+Fig. 5.15. 4-bit parallel adder/ subtractor
 --- page 10 ---
 [diagram 4 Marks]
 Reasons to use TLB : [explanation 6 marks]
@@ -3987,6 +5564,26 @@ INIT 0000 0011 0   Initial values
 4   0010 1010 0 No operation (00)
 4   0001 0101 0   Arithmetic right shift
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Logical Address Physical Address
+
+[}—-[>] «| 0
+
+Page no. Frame no.
+age in\,_Yes » wat = 2
+cache? Z aD
+7 il TLB 3
+
+TLB hit
+
+L*[ «4 |
+
+No
+
+4 TLB miss
+
+Page table or Page Map Table
 --- page 11 ---
 2 marks= diagram
 • The Booth's algorithm can be implemented as shown in the Fig. 2.19.
@@ -4006,6 +5603,42 @@ Explanation of Bus Interface unit: 3m
 The internal architecture of Intel 8086 is divided into 2 units: The Bus Interface Unit
 (BIU), and The Execution Unit (EU).
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Address Bus (20 Bits)
+
+General 1
+Registers H
+Aq | AL 1
+Dat
+BH | BL 1 Bus
+ca et I Tie brst
+DH [ob 1
+SP 1 ey
+BP H DS
+SI 1 SS
+DI H ES
+1 iP
+ALU Data Bus | Intemal
+Tops) Tt Commu
+H Registers
+Temporary H Be
+Registers 1 controt | External
+H Logic je-BUS
+1
+cu | 4] Instruction Queue
++] Controt
+
+System
+
+1
+1
+Flags |! I (8 Bits)
+1
+1
+
+Execution Unit ! Bus Interface Unit
+(EU) (elu)
 --- page 12 ---
 1. The Bus Interface Unit (BIU):It provides the interface of 8086 to external memory and
 I/O devices via the System Bus. It performs various machine cycles such as memory read,
@@ -4091,6 +5724,27 @@ o A memory location, or
 o An I/O device register
 • The control unit does not differentiate between memory and I/O initially.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Memory-Mapped I/O 1/O-Mapped I/O (Isolated 1/0) oO
+
+Address Space Uses the same address space for Uses a separate, dedicated address space for
+memory and I/O devices 1/O devices
+
+Address Range I/O devices share full memory address 1/0 devices have a separate, limited I/O
+range address range
+
+Instructions Used Uses normal memory instructions (LOAD, Uses special I/O instructions (IN, OUT in
+STORE, MOV) 8086)
+
+Control Signals Memory control signals (MEMR, MEMW) 1/0 control signals (IOR, OW)
+
+Decoding Complexity More complex address decoding Simpler decoding due to separate space
+
+Speed Slightly slower due to memory address Faster for I/O operations
+decoding
+
+Programming Flexibility High (I/O treated like memory variables) Limited (special instructions required)
 --- page 14 ---
 • The address decoder identifies whether the address belongs to RAM or an
 I/O device.
@@ -4188,6 +5842,30 @@ CO1,   ii.   Distinguish between computer organization and architecture.
 BT2
 Each difference 1 marks
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Computer Architecture Computer Organization ia}
+
+Meaning Defines the functional behavior and Defines the internal operational design and
+structure of the computer system implementation
+
+Focus What the system does How the system is implemented
+
+Level of Abstraction High-level view Low-level view
+
+Concerned With Instruction set, data types, addressing Control signals, hardware components,
+modes interconnections
+
+Visibility to Programmer Visible to programmers (ISA level) Not visible to programmers
+
+Examples Instruction set, registers, memory ALU design, control unit design, buses,
+addressing modes timing signals
+
+Change Impact Changes affect software compatibility Changes usually do not affect programming
+
+model
+
+Design Goal Define capabilities of the system Efficient implementation of architecture
 ````
 
 ## 2025-26 · Final-Exam · Sem 8 · Answer key · paper e06b373ead47
@@ -4197,6 +5875,7 @@ Each difference 1 marks
 - Source: `02_Question_Papers/2025/Sem_08/Final-Exam/Integrated_IT_7037/Computer Organization and Architecture/ANS_Computer Organization and Architecture(702CO0C023)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: text (16 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -4322,6 +6001,19 @@ to access the bus.
 ✓ When the requesting master recognizes its address, it activates the busy line
 and begins to use the bus.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+i i Device m BGT
+BGT | Device 1 BGT | Device 2 Lye
+
+BRQ
+
+Bus
+Arbiter
+
+SACK
+
+Daisy chained bus arbitration
 --- page 4 ---
 (iii) Fixed priority or Independent Request method
 ✓ In this, each master has a separate pair of bus request and bus grant lines
@@ -4339,6 +6031,34 @@ bits in each.
 Ans:
 2.5 marks for each Step:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+BGT Device 1 BGT Device 2 BGT Device m BGT
+Ls, —_ 3 >
+¢
+
+BRQ
+v
+< SACK
+S
+
+Rotating priority bus arbitration
+
+BRQ1
+
+a
+BGT1 , Device 1
+BRQ2
+Bus arbiter |———
+<3 over
+]
+i]
+H
+in BRQm \
+
+BGTm 5 | Device m
+
+Fixed priority bus arbitration method
 --- page 5 ---
 Final division of the 22-bit main memory address:
 Field   Number of Bits
@@ -4365,6 +6085,31 @@ services or handle exceptional conditions.
 • Used for system calls, debugging, or handling errors like divide-by-zero.
 Comparison: 4 Marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate the number of blocks in the cache
+
+_ Cache size 2° oy)
+Number of blocks = Block size = 30 — 2” = 4096 blocks
+
+Step 2: Calculate the number of index bits
+
+Since direct mapping maps each block of memory to exactly one block in cache, the index selects the block
+number in the cache:
+
+Index bits = log,(Number of blocks) = 12 bits
+
+Step 3: Calculate the number of block offset bits
+
+The block offset specifies the byte within a block:
+
+Block offset bits = log, (Block size) = 6 bits
+
+Step 4: Calculate the number of tag bits
+
+The tag bits identify which block in main memory is stored in a particular cache block:
+
+Tag bits = Total address bits — (Index bits + Block offset bits) = 22 — (12 + 6) = 4 bits
 --- page 6 ---
 Why Interrupts Are More Efficient : 2 marks
 1. Eliminate   Wasteful   Waiting:
@@ -4394,6 +6139,25 @@ Range   Smaller   Much larger
 Memory usage   4 bytes   8 bytes
 Computational speed Faster   Slightly slower
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Comparison of Interrupt-Driven I/O and Polling Methods
+
+Feature Polling 1/0 Interrupt-Driven I/O
+
+Mechanism CPU continuously checks (polls) status of Device sends interrupt signal when ready.
+W/O device.
+
+CPU Involvement CPU is busy waiting (wastes cycles). CPU is free until interrupt occurs.
+
+Efficiency Inefficient, wastes CPU time. More efficient; CPU does other tasks.
+
+Response Time May have delayed response depending on Immediate response on interrupt.
+
+polling frequency.
+Complexity Simple to implement. Requires interrupt handling logic.
+
+CPU Overhead High, due to continuous checking. Low, CPU services device only on interrupt.
 --- page 7 ---
 Rounding error   Higher   Lower
 When Double Precision is Preferred (Any Two Scenarios) : 2 marks
@@ -4442,6 +6206,20 @@ subtractor.
 Ans:
 [Diagram with explanation 6 marks ]
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Argument register (A)
+
+Key register (K)
+Match
+register
+Tutput —|
+Associative memory
+array and logic M
+Read m words
+Write—+| bits per word
+
+Output
 --- page 9 ---
 • Advantages of parallel Adder/Subtractor [2 marks]
 1. The parallel adder/subtractor performs the addition operation faster as
@@ -4470,6 +6248,33 @@ translations.
 lookups.
 • Enhances overall CPU performance and efficiency in address translation.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+RACTOR
+jrcui in Fig. 5.15 perft
+circuit shown mn orms
+binary ® als tion. It two 4-bit inputs X3X1XX, =
+oe g subtrac ted with C, of the least significant d
+ns of addition and subtraction rh
+» The
+
+5.10 4-|
+
+The 4-bit parallel eee
+hah: The ADD/ SUB control a seratio
+of the full-adder, ig used 0 Perfor. ters.
+Ex-OR gates are used as controlled i"
+x, Ys Xo Yo
+—
+| itthoun
+
+Xy Ys
+
+a ie FA FA Cy,
+cy | og = See ops, Co s,
+» * ®. re 8
+
+Fig. 5.15. 4-bit parallel adder/ subtractor
 --- page 10 ---
 [diagram 4 Marks]
 Reasons to use TLB : [explanation 6 marks]
@@ -4496,6 +6301,26 @@ INIT 0000 0011 0   Initial values
 4   0010 1010 0 No operation (00)
 4   0001 0101 0   Arithmetic right shift
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Logical Address Physical Address
+
+[}—-[>] «| 0
+
+Page no. Frame no.
+age in\,_Yes » wat = 2
+cache? Z aD
+7 il TLB 3
+
+TLB hit
+
+L*[ «4 |
+
+No
+
+4 TLB miss
+
+Page table or Page Map Table
 --- page 11 ---
 2 marks= diagram
 • The Booth's algorithm can be implemented as shown in the Fig. 2.19.
@@ -4515,6 +6340,42 @@ Explanation of Bus Interface unit: 3m
 The internal architecture of Intel 8086 is divided into 2 units: The Bus Interface Unit
 (BIU), and The Execution Unit (EU).
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Address Bus (20 Bits)
+
+General 1
+Registers H
+Aq | AL 1
+Dat
+BH | BL 1 Bus
+ca et I Tie brst
+DH [ob 1
+SP 1 ey
+BP H DS
+SI 1 SS
+DI H ES
+1 iP
+ALU Data Bus | Intemal
+Tops) Tt Commu
+H Registers
+Temporary H Be
+Registers 1 controt | External
+H Logic je-BUS
+1
+cu | 4] Instruction Queue
++] Controt
+
+System
+
+1
+1
+Flags |! I (8 Bits)
+1
+1
+
+Execution Unit ! Bus Interface Unit
+(EU) (elu)
 --- page 12 ---
 1. The Bus Interface Unit (BIU):It provides the interface of 8086 to external memory and
 I/O devices via the System Bus. It performs various machine cycles such as memory read,
@@ -4600,6 +6461,27 @@ o A memory location, or
 o An I/O device register
 • The control unit does not differentiate between memory and I/O initially.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Memory-Mapped I/O 1/O-Mapped I/O (Isolated 1/0) oO
+
+Address Space Uses the same address space for Uses a separate, dedicated address space for
+memory and I/O devices 1/O devices
+
+Address Range I/O devices share full memory address 1/0 devices have a separate, limited I/O
+range address range
+
+Instructions Used Uses normal memory instructions (LOAD, Uses special I/O instructions (IN, OUT in
+STORE, MOV) 8086)
+
+Control Signals Memory control signals (MEMR, MEMW) 1/0 control signals (IOR, OW)
+
+Decoding Complexity More complex address decoding Simpler decoding due to separate space
+
+Speed Slightly slower due to memory address Faster for I/O operations
+decoding
+
+Programming Flexibility High (I/O treated like memory variables) Limited (special instructions required)
 --- page 14 ---
 • The address decoder identifies whether the address belongs to RAM or an
 I/O device.
@@ -4697,6 +6579,30 @@ CO1,   ii.   Distinguish between computer organization and architecture.
 BT2
 Each difference 1 marks
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Computer Architecture Computer Organization ia}
+
+Meaning Defines the functional behavior and Defines the internal operational design and
+structure of the computer system implementation
+
+Focus What the system does How the system is implemented
+
+Level of Abstraction High-level view Low-level view
+
+Concerned With Instruction set, data types, addressing Control signals, hardware components,
+modes interconnections
+
+Visibility to Programmer Visible to programmers (ISA level) Not visible to programmers
+
+Examples Instruction set, registers, memory ALU design, control unit design, buses,
+addressing modes timing signals
+
+Change Impact Changes affect software compatibility Changes usually do not affect programming
+
+model
+
+Design Goal Define capabilities of the system Efficient implementation of architecture
 ````
 
 ## 2025-26 · Re-Exam · Sem 3 · Answer key · paper 5512010777d4
@@ -4706,6 +6612,7 @@ Each difference 1 marks
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_AIML_7053/Computer Organization and Architecture/ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: text (12 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -4775,6 +6682,25 @@ CO4 d Distinguish between memory-mapped I/O and I/O-mapped I/O.   5
 ,
 BT2
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+No. RISC CISC
+1 Clock rate is 50-150 MHz in 1993. Clock rate is 33-50 MHz in 1992.
+2 Simple instructions taking one cycle. Complex instructions taking multiple cycles.
+An average CPI is less than 1.5. An average CPI is between 2 and 15.
+3 Simple instructions taking one cycle Complex instructions taking multiple cycles
+4 Very few instructions refer memory Most of instructions may refer memory
+5 Instructions are executed by hardware | Instructions are executed by microprogram
+6 Fixed format instructions Variable format instructions
+7 Few instructions Many instructions
+8 Few addressing mode, and most Many addressing modes
+instructions have register to register
+addressing mode
+9 Complexed addressing modes are Supports complex addressing modes
+synthesized in software
+10 | Multiple register sets Single register set
+ll Highly pipelined Not pipelined or less pipelined
+12 | Complexity is in the compiler Complexity is in the microprogram
 --- page 3 ---
 Q2   a What is bus Arbitration. Explain in detail the various bus arbitration techniques..   10
 CO1   Answer: 1 marks
@@ -4801,6 +6727,43 @@ connected in the system.
 the bus.
 ✓ The controller generates a sequence of master addresses.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Memory-Mapped I/O 1/0-Mapped I/O (Isolated 1/0)
+
+Address Space I/O devices share the same address I/O devices have a separate address space
+space as memory. from memory.
+
+Addressing Range The entire memory address range is A limited I/O address range is used (e.g.,
+used for both memory and I/O. 256 or 64K addresses depending on CPU).
+
+Instructions Used Regular memory instructions (like Special I/O instructions (IN, ouT ) are
+MOV, LDA, STA) are used to access I/O used.
+devices.
+
+Control Signals Uses the same control signals as, Uses separate control signals for I/O ( 10R ,
+
+Speed Slightly slower due to larger address Faster as fewer address lines are needed.
+decoding.
+
+Example (8085/8086) Accessing a device at address 2000H as ~— Accessing I/O port number 20H using IN
+if it were memory. or OUT instruction.
+
+Data and Instruction Storage Reduces available memor , >ace for Memory space remains unaffected as I/O
+
+programs and data. has separate space.
+
+i i Device m BGT
+BGT | Device 1 BGT | Device 2 Lye
+
+BRQ
+
+Bus
+Arbiter
+
+SACK
+
+Daisy chained bus arbitration
 --- page 4 ---
 (iii) Fixed priority or Independent Request method
 ✓ In this, each master has a separate pair of bus request and bus grant lines and each
@@ -4820,6 +6783,32 @@ Cache size = 512 KB = 512×210=219512 \times 2^{10} = 2^{19}512×210=219 bytes
 Block size = 256 B = 282^828 bytes
 Cache mapping = 4-way set associative
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+aor Device1 | ger Device2 | BGT Device m BGT
+Lye. >
+g
+
+BRQ
+v
+eZ SACK
+v
+
+Rotating priority bus arbitration
+
+BRQ1
+
+BGT1 | Device 1
+
+BRQ2
+
+Bus arbiter (—+}
+
+BGT2
+
+ee, eee
+
+Fixed priority bus arbitration method
 --- page 5 ---
 Q3   a Describe the various elements involved in Bus Design in computer architecture. Explain   10
 CO1   each element in detail.
@@ -4832,6 +6821,51 @@ Answer: Detail explanation of any 4(2.5 marks for each).
 •   Data Transfer Type
 •   Block Data Transfer
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Number of blocks in main memory
+
+Number of blocks = Main Memory Size
+
+Block Size
+31 .
+= 35 = 23 blocks
+GD Answer: 27° = 8, 388, 608 blocks
+Step 2: Number of lines in cache
+. . Cache Size
+Number of lines in cache = Block Size
+19
+= a = 2" lines
+28
+
+GD Answer: 2!! = 2048 cache lines
+
+Step 3: Number of sets in cache
+In k-way set associative mapping, each set contains k cache lines.
+
+Number of sets — Number of lines in cache
+
+Number of lines per set (k)
+
+gil
+=7= 2° sets
+
+@ Answer: 2° = 512 sets
+
+Step 4: Number of tag bits
+
+In set-associative mapping, the main memory address is divided into:
+Address = Tag + Set Index + Block Offset
+
+1. Block Offset bits = log, (Block Size) = log, (2°) = 8 bits
+2. Set Index bits = log,(Number of Sets) = log,(2°) = 9 bits
+3. Tag bits = Total address bits - (Set Index + Block Offset)
+
+Total memory address bits = log,(Main Memory Size) = log,(2*!) = 31 bits
+Tag bits = 31 — (9 + 8) = 14 bits
+Vv
+
+Answer: 14 tag bits
 --- page 6 ---
 CO2 b Convert the decimal number −25.25 into IEEE 754 single precision (32-bit) and double   10
 ,   precision floating point representation. Show all steps.
@@ -4843,6 +6877,32 @@ Sing=1
 Step 2: Convert the magnitude to binary
 We ignore the sign and convert 25.25 to binary.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Step 2a: Convert the integer part (25) to binary
+2519 = 11001,
+Calculation:
+sql
+
+25 + 2 = 12, remainder 1
+12 + 2 = 6, remainder @
+6 + 2 = 3, remainder 0
+
+3 + 2 = 1, remainder 1
+
+1 +2 = @, remainder 1
++ Binary = 11001
+
+Step 2b: Convert the fractional part (0.25) to binary
+
+Multiply fraction by 2 repeatedly:
+0.25 x 2=0.5 > 0
+0.5x2=10>1
+So:
+0.2519 = 0.01,
+Step 2c: Combine integer and fractional parts
+
+25.2549 = 11001.01»
 --- page 7 ---
 IEEE 754 Single Precision: 1 10000011 10010100000000000000000
 IEEE 754 Double Precision: 1 10000000011 100101000000000000000000000000000000000
@@ -4866,6 +6926,34 @@ Answer: explanation with diagram and example 10 Marks
 A 4-bit serial adder is a digital circuit used to add two 4-bit binary numbers bit by bit in a
 serial manner.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Step 2c: Combine integer and fractional parts
+
+25.2519 = 11001.015
+
+Step 3: Normalize the binary number
+
+IEEE 754 uses normalized form:
+l.mantissa x 2°Ponent
+
+11001.015 = 1.100101 x 24
+
+e Mantissa (fractional part after leading 1): 100101
+
+e Exponent: 4
+
+Step 4: Determine exponent field
+
+IEEE 754 uses biased exponent:
+
+e Single precision (8-bit exponent): bias = 127
+E=4+127=131
+13119 = 100000112
+¢ Double precision (11-bit exponent): bias = 1023
+E=4+ 1023 = 1027
+
+102719 = 100000000112
 --- page 8 ---
 Q5   a Discuss the various parameters and characteristics that influence the design and   10
 CO2   performance of memory systems in computers.
@@ -4880,6 +6968,23 @@ magnetic disk, tapes, etc. The CPU accesses this memory with the help of I/O con
 2. Capacity: It is expressed using two terms: Word size and number of words.
 a. Word size:-It is expressed in bytes (8- it).The common word sizes are 8,16 and 32bits.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Right-shift so A
+register A SUM
+
+Full
+Ci,} adder | Carry out
+
+Ss! [E 1°)
+
+— | _iRight-shift |SO
+
+cp ? register B
+
+Clear
+
+Fig. 2.7 Serial adder
 --- page 9 ---
 b. Number of word:-This term specifies the number of words available in the particular
 memory device. e.g. If memory capacity is 4K X 8 , then its word size is 8 and number of
@@ -4955,6 +7060,30 @@ are the functional or atomic, operations of a processor.
 •   These are low level instructions used in some designs to implement complex
 machine instructions, also known as macro instruction.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+OS DIT Internal
+
+ji loaner sont
+
+Status Instruction
+Temp register register
+1 T =
+D E
+IN NZ H L
+A SP
+L out PC
+U Instruction
+IN decoder Memory
+address
+register
+—— 48 bik
+| ———— address
+
+HT] Lull
+
+External input and
+output control lines
 --- page 11 ---
 Diagram: 3 marks
 Explanation: 7 marks
@@ -5001,6 +7130,23 @@ CO3   Cache memory is a small, high-speed memory placed between the CPU and main
 ,   •   It stores frequently used instructions and data to reduce the average memory
 BT2   access time.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Instruction code
+
+Mapping
+logic
+Status — >] Branch [MUX Est Multiplexers 7 |
+bits pf logic [select
+Subroutine
+Control address register ri
+(CAR) i]
+a ]
+Control memory (ROM)
+select a status |
+bit
+
+Branch address Microoperstions
 --- page 12 ---
 •   Acts as a buffer between slow main memory and fast CPU.
 Modern CPUs use multi-level cache to balance speed, size, and cost: (purpose of each level
@@ -5023,6 +7169,7 @@ only after an operand set has passed through the entire pipeline.
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_CSBS_7036/Computer Organization and Architecture/ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Feb 2026
 - Text: text (12 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -5093,6 +7240,25 @@ CO4 d Distinguish between memory-mapped I/O and I/O-mapped I/O.   5
 ,
 BT2
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+No. RISC CISC
+1 Clock rate is 50-150 MHz in 1993. Clock rate is 33-50 MHz in 1992.
+2 Simple instructions taking one cycle. Complex instructions taking multiple cycles.
+An average CPI is less than 1.5. An average CPI is between 2 and 15.
+3 Simple instructions taking one cycle Complex instructions taking multiple cycles
+4 Very few instructions refer memory Most of instructions may refer memory
+5 Instructions are executed by hardware | Instructions are executed by microprogram
+6 Fixed format instructions Variable format instructions
+7 Few instructions Many instructions
+8 Few addressing mode, and most Many addressing modes
+instructions have register to register
+addressing mode
+9 Complexed addressing modes are Supports complex addressing modes
+synthesized in software
+10 | Multiple register sets Single register set
+ll Highly pipelined Not pipelined or less pipelined
+12 | Complexity is in the compiler Complexity is in the microprogram
 --- page 3 ---
 Q2   a What is bus Arbitration. Explain in detail the various bus arbitration techniques..   10
 CO1   Answer: 1 marks
@@ -5119,6 +7285,43 @@ connected in the system.
 the bus.
 ✓ The controller generates a sequence of master addresses.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Memory-Mapped I/O 1/0-Mapped I/O (Isolated 1/0)
+
+Address Space I/O devices share the same address I/O devices have a separate address space
+space as memory. from memory.
+
+Addressing Range The entire memory address range is A limited I/O address range is used (e.g.,
+used for both memory and I/O. 256 or 64K addresses depending on CPU).
+
+Instructions Used Regular memory instructions (like Special I/O instructions (IN, ouT ) are
+MOV, LDA, STA) are used to access I/O used.
+devices.
+
+Control Signals Uses the same control signals as, Uses separate control signals for I/O ( 10R ,
+
+Speed Slightly slower due to larger address Faster as fewer address lines are needed.
+decoding.
+
+Example (8085/8086) Accessing a device at address 2000H as ~— Accessing I/O port number 20H using IN
+if it were memory. or OUT instruction.
+
+Data and Instruction Storage Reduces available memor , >ace for Memory space remains unaffected as I/O
+
+programs and data. has separate space.
+
+i i Device m BGT
+BGT | Device 1 BGT | Device 2 Lye
+
+BRQ
+
+Bus
+Arbiter
+
+SACK
+
+Daisy chained bus arbitration
 --- page 4 ---
 (iii) Fixed priority or Independent Request method
 ✓ In this, each master has a separate pair of bus request and bus grant lines and each
@@ -5138,6 +7341,37 @@ Cache size = 512 KB = 512×210=219512 \times 2^{10} = 2^{19}512×210=219 bytes
 Block size = 256 B = 282^828 bytes
 Cache mapping = 4-way set associative
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+aor Device1 | ger Device2 | BGT Device m BGT
+Lye. >
+g
+
+BRQ
+v
+eZ SACK
+v
+
+Rotating priority bus arbitration
+
+BRQ1
+
+BGT1 | Device 1
+
+BRQ2
+Bus arbiter | -—+$_—
+
+$3 own
+‘
+|
+|
+|
+
+\é BRQm i]
+
+BGTm 5 | Device m
+
+Fixed priority bus arbitration method
 --- page 5 ---
 Q3   a Describe the various elements involved in Bus Design in computer architecture. Explain   10
 CO1   each element in detail.
@@ -5150,6 +7384,51 @@ Answer: Detail explanation of any 4(2.5 marks for each).
 •   Data Transfer Type
 •   Block Data Transfer
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Number of blocks in main memory
+
+Number of blocks = Main Memory Size
+
+Block Size
+31 .
+= 35 = 23 blocks
+GD Answer: 27° = 8, 388, 608 blocks
+Step 2: Number of lines in cache
+. . Cache Size
+Number of lines in cache = Block Size
+19
+= a = 2" lines
+28
+
+GD Answer: 2!! = 2048 cache lines
+
+Step 3: Number of sets in cache
+In k-way set associative mapping, each set contains k cache lines.
+
+Number of sets — Number of lines in cache
+
+Number of lines per set (k)
+
+gil
+=7= 2° sets
+
+@ Answer: 2° = 512 sets
+
+Step 4: Number of tag bits
+
+In set-associative mapping, the main memory address is divided into:
+Address = Tag + Set Index + Block Offset
+
+1. Block Offset bits = log, (Block Size) = log, (2°) = 8 bits
+2. Set Index bits = log,(Number of Sets) = log,(2°) = 9 bits
+3. Tag bits = Total address bits - (Set Index + Block Offset)
+
+Total memory address bits = log,(Main Memory Size) = log,(2*!) = 31 bits
+Tag bits = 31 — (9 + 8) = 14 bits
+Vv
+
+Answer: 14 tag bits
 --- page 6 ---
 CO2 b Convert the decimal number −25.25 into IEEE 754 single precision (32-bit) and double   10
 ,   precision floating point representation. Show all steps.
@@ -5161,6 +7440,32 @@ Sing=1
 Step 2: Convert the magnitude to binary
 We ignore the sign and convert 25.25 to binary.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Step 2a: Convert the integer part (25) to binary
+2519 = 11001,
+Calculation:
+sql
+
+25 + 2 = 12, remainder 1
+12 + 2 = 6, remainder @
+6 + 2 = 3, remainder 0
+
+3 + 2 = 1, remainder 1
+
+1 +2 = @, remainder 1
++ Binary = 11001
+
+Step 2b: Convert the fractional part (0.25) to binary
+
+Multiply fraction by 2 repeatedly:
+0.25 x 2=0.5 > 0
+0.5x2=10>1
+So:
+0.2519 = 0.01,
+Step 2c: Combine integer and fractional parts
+
+25.2549 = 11001.01»
 --- page 7 ---
 IEEE 754 Single Precision: 1 10000011 10010100000000000000000
 IEEE 754 Double Precision: 1 10000000011 100101000000000000000000000000000000000
@@ -5184,6 +7489,34 @@ Answer: explanation with diagram and example 10 Marks
 A 4-bit serial adder is a digital circuit used to add two 4-bit binary numbers bit by bit in a
 serial manner.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Step 2c: Combine integer and fractional parts
+
+25.2519 = 11001.015
+
+Step 3: Normalize the binary number
+
+IEEE 754 uses normalized form:
+l.mantissa x 2°Ponent
+
+11001.015 = 1.100101 x 24
+
+e Mantissa (fractional part after leading 1): 100101
+
+e Exponent: 4
+
+Step 4: Determine exponent field
+
+IEEE 754 uses biased exponent:
+
+e Single precision (8-bit exponent): bias = 127
+E=4+127=131
+13119 = 100000112
+¢ Double precision (11-bit exponent): bias = 1023
+E=4+ 1023 = 1027
+
+102719 = 100000000112
 --- page 8 ---
 Q5   a Discuss the various parameters and characteristics that influence the design and   10
 CO2   performance of memory systems in computers.
@@ -5198,6 +7531,23 @@ magnetic disk, tapes, etc. The CPU accesses this memory with the help of I/O con
 2. Capacity: It is expressed using two terms: Word size and number of words.
 a. Word size:-It is expressed in bytes (8- it).The common word sizes are 8,16 and 32bits.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Right-shift so A
+register A SUM
+
+Full
+Ci,} adder | Carry out
+
+Ss! [E 1°)
+
+— | _iRight-shift |SO
+
+cp ? register B
+
+Clear
+
+Fig. 2.7 Serial adder
 --- page 9 ---
 b. Number of word:-This term specifies the number of words available in the particular
 memory device. e.g. If memory capacity is 4K X 8 , then its word size is 8 and number of
@@ -5273,6 +7623,30 @@ are the functional or atomic, operations of a processor.
 •   These are low level instructions used in some designs to implement complex
 machine instructions, also known as macro instruction.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+OS DIT Internal
+
+ji loaner sont
+
+Status Instruction
+Temp register register
+1 T =
+D E
+IN NZ H L
+A SP
+L out PC
+U Instruction
+IN decoder Memory
+address
+register
+—— 48 bik
+| ———— address
+
+HT] Lull
+
+External input and
+output control lines
 --- page 11 ---
 Diagram: 3 marks
 Explanation: 7 marks
@@ -5319,6 +7693,23 @@ CO3   Cache memory is a small, high-speed memory placed between the CPU and main
 ,   •   It stores frequently used instructions and data to reduce the average memory
 BT2   access time.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Instruction code
+
+Mapping
+logic
+Status — >] Branch [MUX Est Multiplexers 7 |
+bits pf logic [select
+Subroutine
+Control address register ri
+(CAR) i]
+a ]
+Control memory (ROM)
+select a status |
+bit
+
+Branch address Microoperstions
 --- page 12 ---
 •   Acts as a buffer between slow main memory and fast CPU.
 Modern CPUs use multi-level cache to balance speed, size, and cost: (purpose of each level
@@ -5339,7 +7730,7 @@ only after an operand set has passed through the entire pipeline.
 - Departments: Computer Engineering
 - Programmes: BTech Computer 7002
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_Computer_7002/Computer Organization and Architecture/ANS_Computer Organization and Architecture(702CO0C059)_2025-2026.pdf`
-- Text: none (FileDataError: Failed to open stream)
+- Text: none (encrypted by the portal: the file is uniformly random bytes in 16-byte cipher blocks with no PDF structure, and the archive holds no key (its own re-download got the same bytes))
 
 ## 2025-26 · Re-Exam · Sem 4 · Answer key · paper e998b7b85019
 
@@ -5386,6 +7777,32 @@ Primary memory (RAM, ROM)
 Secondary memory (hard disk, SSD)
 3. Central Processing Unit (CPU)
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Central Processing Unit (CPU) based CO
+
+Central processing unit (CPU)
+
+Control
+unit
+
+Arithmetic
+logical unit
+(ALU) VO devices
+
+Registers
+oo Main
+
+memory
+
+= TTI
+
+The organization of a simple computer with
+one CPU and two I/O devices
+
+Disk Printer
+
+Bus
 --- page 2 ---
 • Arithmetic Logic Unit (ALU)
 Performs arithmetic operations (addition, subtraction, etc.)
@@ -5422,6 +7839,15 @@ GPUs accelerate deep learning and neural network training due to their ability
 to process large data in parallel.
 👉 Example: Image recognition, speech processing, chatbots.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+ADDRESSING MODE | OPCODE | OPERAND
+
+Part 1 Part 2 Part 3
+
+Part 1: Addressing Mode - Rule for Operand
+Part 2: OPCODE - For Control Unit - Which operation to perform
+Part 3: OPERAND - For ALU - On data operation to be performed
 --- page 3 ---
 3. Scientific Computing
 Used in simulations and complex calculations in fields like physics, chemistry, and
@@ -5453,6 +7879,22 @@ Q2   a Sketch the diagram to elaborate interrupt handling process. Write the adv
 CO1,   and disadvantages of interrupt.
 BT2   Ans:
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Program Flow
+
+INTERRUPT SERVICE
+Instruction 1 dbl
+J (ISR )
+Instruction 2 —
+|_Instruction3 IRInstruction 1
+Interrupt Event Risen
+{ IRInstruction 3
+Instruction 4 / |
+"Instruction
+| Instruction 6
+
+Program End
 --- page 4 ---
 Diagram = 2 marks
 Explanation= 4 marks
@@ -5658,6 +8100,26 @@ BT 3
 CO2, b Sketch the flowchart of Booth's Multiplication Algorithm and use Booth's   10
 BT3   algorithm to multiply –6 and 5.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Location Performance
+
+Internal (e.g., processor registers, cache, main Access time
+memory) Cycle time
+External (e.g., optical disks, magnetic Transfer rate
+disks, tapes) Physical Type
+Capacity Semiconductor
+Number of words Magnetic
+Number of bytes Optical
+Unit of Transfer Magneto-optical
+Word Physical Characteristics
+Block Volatile/nonvolatile
+Access Method Erasable/nonerasable
+Sequential Organization
+Direct Memory modules
+Random
+
+Associative
 --- page 10 ---
 Ans: Algo=4Marks
 Solve=6marks
@@ -5665,6 +8127,21 @@ Q6   a Define RISC and CISC processors. Differentiate between them with suitable
 CO3,   points.
 BT2
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Step Q0Q1 Operation A Q Qa
+
+Init - Initial 0000 0101 0
+1 10 A=A-M 0110 0101 0
+Shift 0011 0010 1
+2 01 A=A+M 1101 0010 1
+Shift 1110 1001 0
+3 10 A=A-M 0100 1001 0
+Shift 0010 0100 1
+4 01 A=A+M 1100 0100 1
+
+Shift 1110 0010 0
+v
 --- page 11 ---
 Ans:
 RISC Definition 1m
@@ -5701,6 +8178,32 @@ bits 0 through 11
 • The operation code in bits 12 through 14 are coded with a 3 x 8 decoder
 • The outputs of the decoder are designated by the symbols D 0 through D 7
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Instruction set Small Large
+
+Instruction size Fixed Variable
+
+CPU Control Hardwired ROM + Hardwired
+
+Cache Separate for instruction and data Unified for instruction and data
+
+Compiler Efficient Not efficient
+
+Processor performance High speed (Upto 4 times as CISC) Average
+
+Co-processor, MMU On Chip Off chip
+
+Machine Cycle One clock Multi clock
+
+Addressing modes Limited 12 to 24
+
+Memory access Limited to 2 Instructions : Load, Store Many instructions can access
+memory
+
+Pipelining Highly pipelined Not pipelined or less pipelined
+
+#Registers Large Limited
 --- page 12 ---
 • The operation code at bit 15 is transferred to a flip flop designated by the
 symbol I
@@ -5761,6 +8264,21 @@ Explanation
 In this concept:
 • A program is stored in the computer’s memory just like data.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Feature DMA Interrupt-Driven I/O
+
+CPU Involvement Very low Moderate
+
+Data Transfer Direct (Memory + 1/0) Through CPU
+
+Speed High Lower
+
+Efficiency High Medium
+
+CPU Utilization CPU free during transfer CPU interrupted frequently
+
+Hardware Complexity High Low
 --- page 14 ---
 • The CPU fetches instructions one by one from memory, decodes them, and
 executes them.
@@ -5829,6 +8347,32 @@ Primary memory (RAM, ROM)
 Secondary memory (hard disk, SSD)
 3. Central Processing Unit (CPU)
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Central Processing Unit (CPU) based CO
+
+Central processing unit (CPU)
+
+Control
+unit
+
+Arithmetic
+logical unit
+(ALU) VO devices
+
+Registers
+oo Main
+
+memory
+
+= TTI
+
+The organization of a simple computer with
+one CPU and two I/O devices
+
+Disk Printer
+
+Bus
 --- page 2 ---
 • Arithmetic Logic Unit (ALU)
 Performs arithmetic operations (addition, subtraction, etc.)
@@ -5865,6 +8409,15 @@ GPUs accelerate deep learning and neural network training due to their ability
 to process large data in parallel.
 👉 Example: Image recognition, speech processing, chatbots.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+ADDRESSING MODE | OPCODE | OPERAND
+
+Part 1 Part 2 Part 3
+
+Part 1: Addressing Mode - Rule for Operand
+Part 2: OPCODE - For Control Unit - Which operation to perform
+Part 3: OPERAND - For ALU - On data operation to be performed
 --- page 3 ---
 3. Scientific Computing
 Used in simulations and complex calculations in fields like physics, chemistry, and
@@ -5896,6 +8449,22 @@ Q2   a Sketch the diagram to elaborate interrupt handling process. Write the adv
 CO1,   and disadvantages of interrupt.
 BT2   Ans:
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Program Flow
+
+INTERRUPT SERVICE
+Instruction 1 dbl
+J (ISR )
+Instruction 2 —
+|_Instruction3 IRInstruction 1
+Interrupt Event Risen
+{ IRInstruction 3
+Instruction 4 / |
+"Instruction
+| Instruction 6
+
+Program End
 --- page 4 ---
 Diagram = 2 marks
 Explanation= 4 marks
@@ -6101,6 +8670,26 @@ BT 3
 CO2, b Sketch the flowchart of Booth's Multiplication Algorithm and use Booth's   10
 BT3   algorithm to multiply –6 and 5.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Location Performance
+
+Internal (e.g., processor registers, cache, main Access time
+memory) Cycle time
+External (e.g., optical disks, magnetic Transfer rate
+disks, tapes) Physical Type
+Capacity Semiconductor
+Number of words Magnetic
+Number of bytes Optical
+Unit of Transfer Magneto-optical
+Word Physical Characteristics
+Block Volatile/nonvolatile
+Access Method Erasable/nonerasable
+Sequential Organization
+Direct Memory modules
+Random
+
+Associative
 --- page 10 ---
 Ans: Algo=4Marks
 Solve=6marks
@@ -6108,6 +8697,21 @@ Q6   a Define RISC and CISC processors. Differentiate between them with suitable
 CO3,   points.
 BT2
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Step Q0Q1 Operation A Q Qa
+
+Init - Initial 0000 0101 0
+1 10 A=A-M 0110 0101 0
+Shift 0011 0010 1
+2 01 A=A+M 1101 0010 1
+Shift 1110 1001 0
+3 10 A=A-M 0100 1001 0
+Shift 0010 0100 1
+4 01 A=A+M 1100 0100 1
+
+Shift 1110 0010 0
+v
 --- page 11 ---
 Ans:
 RISC Definition 1m
@@ -6144,6 +8748,32 @@ bits 0 through 11
 • The operation code in bits 12 through 14 are coded with a 3 x 8 decoder
 • The outputs of the decoder are designated by the symbols D 0 through D 7
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Instruction set Small Large
+
+Instruction size Fixed Variable
+
+CPU Control Hardwired ROM + Hardwired
+
+Cache Separate for instruction and data Unified for instruction and data
+
+Compiler Efficient Not efficient
+
+Processor performance High speed (Upto 4 times as CISC) Average
+
+Co-processor, MMU On Chip Off chip
+
+Machine Cycle One clock Multi clock
+
+Addressing modes Limited 12 to 24
+
+Memory access Limited to 2 Instructions : Load, Store Many instructions can access
+memory
+
+Pipelining Highly pipelined Not pipelined or less pipelined
+
+#Registers Large Limited
 --- page 12 ---
 • The operation code at bit 15 is transferred to a flip flop designated by the
 symbol I
@@ -6204,6 +8834,21 @@ Explanation
 In this concept:
 • A program is stored in the computer’s memory just like data.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Feature DMA Interrupt-Driven I/O
+
+CPU Involvement Very low Moderate
+
+Data Transfer Direct (Memory + 1/0) Through CPU
+
+Speed High Lower
+
+Efficiency High Medium
+
+CPU Utilization CPU free during transfer CPU interrupted frequently
+
+Hardware Complexity High Low
 --- page 14 ---
 • The CPU fetches instructions one by one from memory, decodes them, and
 executes them.
@@ -6272,6 +8917,32 @@ Primary memory (RAM, ROM)
 Secondary memory (hard disk, SSD)
 3. Central Processing Unit (CPU)
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Central Processing Unit (CPU) based CO
+
+Central processing unit (CPU)
+
+Control
+unit
+
+Arithmetic
+logical unit
+(ALU) VO devices
+
+Registers
+oo Main
+
+memory
+
+= TTI
+
+The organization of a simple computer with
+one CPU and two I/O devices
+
+Disk Printer
+
+Bus
 --- page 2 ---
 • Arithmetic Logic Unit (ALU)
 Performs arithmetic operations (addition, subtraction, etc.)
@@ -6308,6 +8979,15 @@ GPUs accelerate deep learning and neural network training due to their ability
 to process large data in parallel.
 👉 Example: Image recognition, speech processing, chatbots.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+ADDRESSING MODE | OPCODE | OPERAND
+
+Part 1 Part 2 Part 3
+
+Part 1: Addressing Mode - Rule for Operand
+Part 2: OPCODE - For Control Unit - Which operation to perform
+Part 3: OPERAND - For ALU - On data operation to be performed
 --- page 3 ---
 3. Scientific Computing
 Used in simulations and complex calculations in fields like physics, chemistry, and
@@ -6339,6 +9019,22 @@ Q2   a Sketch the diagram to elaborate interrupt handling process. Write the adv
 CO1,   and disadvantages of interrupt.
 BT2   Ans:
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Program Flow
+
+INTERRUPT SERVICE
+Instruction 1 dbl
+J (ISR )
+Instruction 2 —
+|_Instruction3 IRInstruction 1
+Interrupt Event Risen
+{ IRInstruction 3
+Instruction 4 / |
+"Instruction
+| Instruction 6
+
+Program End
 --- page 4 ---
 Diagram = 2 marks
 Explanation= 4 marks
@@ -6544,6 +9240,26 @@ BT 3
 CO2, b Sketch the flowchart of Booth's Multiplication Algorithm and use Booth's   10
 BT3   algorithm to multiply –6 and 5.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Location Performance
+
+Internal (e.g., processor registers, cache, main Access time
+memory) Cycle time
+External (e.g., optical disks, magnetic Transfer rate
+disks, tapes) Physical Type
+Capacity Semiconductor
+Number of words Magnetic
+Number of bytes Optical
+Unit of Transfer Magneto-optical
+Word Physical Characteristics
+Block Volatile/nonvolatile
+Access Method Erasable/nonerasable
+Sequential Organization
+Direct Memory modules
+Random
+
+Associative
 --- page 10 ---
 Ans: Algo=4Marks
 Solve=6marks
@@ -6551,6 +9267,21 @@ Q6   a Define RISC and CISC processors. Differentiate between them with suitable
 CO3,   points.
 BT2
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Step Q0Q1 Operation A Q Qa
+
+Init - Initial 0000 0101 0
+1 10 A=A-M 0110 0101 0
+Shift 0011 0010 1
+2 01 A=A+M 1101 0010 1
+Shift 1110 1001 0
+3 10 A=A-M 0100 1001 0
+Shift 0010 0100 1
+4 01 A=A+M 1100 0100 1
+
+Shift 1110 0010 0
+v
 --- page 11 ---
 Ans:
 RISC Definition 1m
@@ -6587,6 +9318,32 @@ bits 0 through 11
 • The operation code in bits 12 through 14 are coded with a 3 x 8 decoder
 • The outputs of the decoder are designated by the symbols D 0 through D 7
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Instruction set Small Large
+
+Instruction size Fixed Variable
+
+CPU Control Hardwired ROM + Hardwired
+
+Cache Separate for instruction and data Unified for instruction and data
+
+Compiler Efficient Not efficient
+
+Processor performance High speed (Upto 4 times as CISC) Average
+
+Co-processor, MMU On Chip Off chip
+
+Machine Cycle One clock Multi clock
+
+Addressing modes Limited 12 to 24
+
+Memory access Limited to 2 Instructions : Load, Store Many instructions can access
+memory
+
+Pipelining Highly pipelined Not pipelined or less pipelined
+
+#Registers Large Limited
 --- page 12 ---
 • The operation code at bit 15 is transferred to a flip flop designated by the
 symbol I
@@ -6647,6 +9404,21 @@ Explanation
 In this concept:
 • A program is stored in the computer’s memory just like data.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Feature DMA Interrupt-Driven I/O
+
+CPU Involvement Very low Moderate
+
+Data Transfer Direct (Memory + 1/0) Through CPU
+
+Speed High Lower
+
+Efficiency High Medium
+
+CPU Utilization CPU free during transfer CPU interrupted frequently
+
+Hardware Complexity High Low
 --- page 14 ---
 • The CPU fetches instructions one by one from memory, decodes them, and
 executes them.
@@ -6715,6 +9487,32 @@ Primary memory (RAM, ROM)
 Secondary memory (hard disk, SSD)
 3. Central Processing Unit (CPU)
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Central Processing Unit (CPU) based CO
+
+Central processing unit (CPU)
+
+Control
+unit
+
+Arithmetic
+logical unit
+(ALU) VO devices
+
+Registers
+oo Main
+
+memory
+
+= TTI
+
+The organization of a simple computer with
+one CPU and two I/O devices
+
+Disk Printer
+
+Bus
 --- page 2 ---
 • Arithmetic Logic Unit (ALU)
 Performs arithmetic operations (addition, subtraction, etc.)
@@ -6751,6 +9549,15 @@ GPUs accelerate deep learning and neural network training due to their ability
 to process large data in parallel.
 👉 Example: Image recognition, speech processing, chatbots.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+ADDRESSING MODE | OPCODE | OPERAND
+
+Part 1 Part 2 Part 3
+
+Part 1: Addressing Mode - Rule for Operand
+Part 2: OPCODE - For Control Unit - Which operation to perform
+Part 3: OPERAND - For ALU - On data operation to be performed
 --- page 3 ---
 3. Scientific Computing
 Used in simulations and complex calculations in fields like physics, chemistry, and
@@ -6782,6 +9589,22 @@ Q2   a Sketch the diagram to elaborate interrupt handling process. Write the adv
 CO1,   and disadvantages of interrupt.
 BT2   Ans:
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Program Flow
+
+INTERRUPT SERVICE
+Instruction 1 dbl
+J (ISR )
+Instruction 2 —
+|_Instruction3 IRInstruction 1
+Interrupt Event Risen
+{ IRInstruction 3
+Instruction 4 / |
+"Instruction
+| Instruction 6
+
+Program End
 --- page 4 ---
 Diagram = 2 marks
 Explanation= 4 marks
@@ -6987,6 +9810,26 @@ BT 3
 CO2, b Sketch the flowchart of Booth's Multiplication Algorithm and use Booth's   10
 BT3   algorithm to multiply –6 and 5.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Location Performance
+
+Internal (e.g., processor registers, cache, main Access time
+memory) Cycle time
+External (e.g., optical disks, magnetic Transfer rate
+disks, tapes) Physical Type
+Capacity Semiconductor
+Number of words Magnetic
+Number of bytes Optical
+Unit of Transfer Magneto-optical
+Word Physical Characteristics
+Block Volatile/nonvolatile
+Access Method Erasable/nonerasable
+Sequential Organization
+Direct Memory modules
+Random
+
+Associative
 --- page 10 ---
 Ans: Algo=4Marks
 Solve=6marks
@@ -6994,6 +9837,21 @@ Q6   a Define RISC and CISC processors. Differentiate between them with suitable
 CO3,   points.
 BT2
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Step Q0Q1 Operation A Q Qa
+
+Init - Initial 0000 0101 0
+1 10 A=A-M 0110 0101 0
+Shift 0011 0010 1
+2 01 A=A+M 1101 0010 1
+Shift 1110 1001 0
+3 10 A=A-M 0100 1001 0
+Shift 0010 0100 1
+4 01 A=A+M 1100 0100 1
+
+Shift 1110 0010 0
+v
 --- page 11 ---
 Ans:
 RISC Definition 1m
@@ -7030,6 +9888,32 @@ bits 0 through 11
 • The operation code in bits 12 through 14 are coded with a 3 x 8 decoder
 • The outputs of the decoder are designated by the symbols D 0 through D 7
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Instruction set Small Large
+
+Instruction size Fixed Variable
+
+CPU Control Hardwired ROM + Hardwired
+
+Cache Separate for instruction and data Unified for instruction and data
+
+Compiler Efficient Not efficient
+
+Processor performance High speed (Upto 4 times as CISC) Average
+
+Co-processor, MMU On Chip Off chip
+
+Machine Cycle One clock Multi clock
+
+Addressing modes Limited 12 to 24
+
+Memory access Limited to 2 Instructions : Load, Store Many instructions can access
+memory
+
+Pipelining Highly pipelined Not pipelined or less pipelined
+
+#Registers Large Limited
 --- page 12 ---
 • The operation code at bit 15 is transferred to a flip flop designated by the
 symbol I
@@ -7090,6 +9974,21 @@ Explanation
 In this concept:
 • A program is stored in the computer’s memory just like data.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Feature DMA Interrupt-Driven I/O
+
+CPU Involvement Very low Moderate
+
+Data Transfer Direct (Memory + 1/0) Through CPU
+
+Speed High Lower
+
+Efficiency High Medium
+
+CPU Utilization CPU free during transfer CPU interrupted frequently
+
+Hardware Complexity High Low
 --- page 14 ---
 • The CPU fetches instructions one by one from memory, decodes them, and
 executes them.
@@ -7158,6 +10057,32 @@ Primary memory (RAM, ROM)
 Secondary memory (hard disk, SSD)
 3. Central Processing Unit (CPU)
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Central Processing Unit (CPU) based CO
+
+Central processing unit (CPU)
+
+Control
+unit
+
+Arithmetic
+logical unit
+(ALU) VO devices
+
+Registers
+oo Main
+
+memory
+
+= TTI
+
+The organization of a simple computer with
+one CPU and two I/O devices
+
+Disk Printer
+
+Bus
 --- page 2 ---
 • Arithmetic Logic Unit (ALU)
 Performs arithmetic operations (addition, subtraction, etc.)
@@ -7194,6 +10119,15 @@ GPUs accelerate deep learning and neural network training due to their ability
 to process large data in parallel.
 👉 Example: Image recognition, speech processing, chatbots.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+ADDRESSING MODE | OPCODE | OPERAND
+
+Part 1 Part 2 Part 3
+
+Part 1: Addressing Mode - Rule for Operand
+Part 2: OPCODE - For Control Unit - Which operation to perform
+Part 3: OPERAND - For ALU - On data operation to be performed
 --- page 3 ---
 3. Scientific Computing
 Used in simulations and complex calculations in fields like physics, chemistry, and
@@ -7225,6 +10159,22 @@ Q2   a Sketch the diagram to elaborate interrupt handling process. Write the adv
 CO1,   and disadvantages of interrupt.
 BT2   Ans:
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Program Flow
+
+INTERRUPT SERVICE
+Instruction 1 dbl
+J (ISR )
+Instruction 2 —
+|_Instruction3 IRInstruction 1
+Interrupt Event Risen
+{ IRInstruction 3
+Instruction 4 / |
+"Instruction
+| Instruction 6
+
+Program End
 --- page 4 ---
 Diagram = 2 marks
 Explanation= 4 marks
@@ -7430,6 +10380,26 @@ BT 3
 CO2, b Sketch the flowchart of Booth's Multiplication Algorithm and use Booth's   10
 BT3   algorithm to multiply –6 and 5.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Location Performance
+
+Internal (e.g., processor registers, cache, main Access time
+memory) Cycle time
+External (e.g., optical disks, magnetic Transfer rate
+disks, tapes) Physical Type
+Capacity Semiconductor
+Number of words Magnetic
+Number of bytes Optical
+Unit of Transfer Magneto-optical
+Word Physical Characteristics
+Block Volatile/nonvolatile
+Access Method Erasable/nonerasable
+Sequential Organization
+Direct Memory modules
+Random
+
+Associative
 --- page 10 ---
 Ans: Algo=4Marks
 Solve=6marks
@@ -7437,6 +10407,21 @@ Q6   a Define RISC and CISC processors. Differentiate between them with suitable
 CO3,   points.
 BT2
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Step Q0Q1 Operation A Q Qa
+
+Init - Initial 0000 0101 0
+1 10 A=A-M 0110 0101 0
+Shift 0011 0010 1
+2 01 A=A+M 1101 0010 1
+Shift 1110 1001 0
+3 10 A=A-M 0100 1001 0
+Shift 0010 0100 1
+4 01 A=A+M 1100 0100 1
+
+Shift 1110 0010 0
+v
 --- page 11 ---
 Ans:
 RISC Definition 1m
@@ -7473,6 +10458,32 @@ bits 0 through 11
 • The operation code in bits 12 through 14 are coded with a 3 x 8 decoder
 • The outputs of the decoder are designated by the symbols D 0 through D 7
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Instruction set Small Large
+
+Instruction size Fixed Variable
+
+CPU Control Hardwired ROM + Hardwired
+
+Cache Separate for instruction and data Unified for instruction and data
+
+Compiler Efficient Not efficient
+
+Processor performance High speed (Upto 4 times as CISC) Average
+
+Co-processor, MMU On Chip Off chip
+
+Machine Cycle One clock Multi clock
+
+Addressing modes Limited 12 to 24
+
+Memory access Limited to 2 Instructions : Load, Store Many instructions can access
+memory
+
+Pipelining Highly pipelined Not pipelined or less pipelined
+
+#Registers Large Limited
 --- page 12 ---
 • The operation code at bit 15 is transferred to a flip flop designated by the
 symbol I
@@ -7533,6 +10544,21 @@ Explanation
 In this concept:
 • A program is stored in the computer’s memory just like data.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Feature DMA Interrupt-Driven I/O
+
+CPU Involvement Very low Moderate
+
+Data Transfer Direct (Memory + 1/0) Through CPU
+
+Speed High Lower
+
+Efficiency High Medium
+
+CPU Utilization CPU free during transfer CPU interrupted frequently
+
+Hardware Complexity High Low
 --- page 14 ---
 • The CPU fetches instructions one by one from memory, decodes them, and
 executes them.

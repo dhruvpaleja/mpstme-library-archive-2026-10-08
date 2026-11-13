@@ -123,6 +123,42 @@ Apply   to choose for the new air-conditioning systems.
 Answer
 Students should apply the following steps/concepts the situation above
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Characteristics Business Markets Consumer Markets
+
+Geographically concentrated Geographically dispersed
+
+Market
+
+Fewer buyers Mass Markets/Many buyers
+Technically more complex Less technical complexity
+Product Mainly customized Standardized
+Service (Availability, | Very important Somewhat important
+Timely delivery)
+
+Functional involvement of firms | Family involvement & influence
+
+Buying mainly on rational basis | Social/psychological/physiological
+
+Buyer Behavior buying needs.
+
+Technical expertise required Less technical expertise required.
+
+Interpersonal relationships: Non-personal relationship
+stable between buyers & sellers | between buyers & sellers.
+
+Characteristics Business Markets Consumer Markets
+
+More direct Indirect
+Channel Fewer channel levels Multiple channel levels
+Promotion Importance to personal Importance to advertising &
+selling & dialogue monologue
+Competitive bidding / List price / maximum retail
+Price negotiated prices price (MRP)
+Marketing strategy changes | Have company-wide Can be made within
+
+implications marketing function
 --- page 4 ---
 This is a modified rebuy situation.
 Students should explain the steps briefly.
@@ -144,6 +180,50 @@ Larsen & Toubro (L&T) Electrical & Automation is introducing an
 Q5   [10]
 integrated Smart Switchgear solution for large-scale industrial plants to
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Chapter-3
+
+Buygrid Framework
+
+Buyphases Buyclasses
+
+New Modified Straight
+Task Rebuy Rebuy
+
+. Problem/need recognition Yes May be No
+
+. Characteristics, Quantity of needed product Yes May be No
+
+. Specification of the needed product Yes May be No
+
+. Potential suppliers’ search Yes Yes No
+
+. Obtain and analyze supplier proposals Yes Yes May be
+
+. Evaluate proposals and select suppliers Yes Yes No
+
+. Select an order routine Yes Yes May be
+
+. Performance review Yes Yes Yes
+
+71s
+
+The New Product Development Chapter-8
+
+(NPD) Process
+
+The process by which potential product ideas are
+generated, evaluated, directed and turned into new
+products is called NPD process.
+
+Idea generation
+
+Idea screening
+
+Concept Development and Testing
+
+4/12
 --- page 5 ---
 CO- 2;   prevent electrical wastage and optimize energy consumption. Mr. Victor
 BL-   Fernandez, the General Manager of Marketing, intends to reach plant
@@ -373,6 +453,42 @@ Apply   to choose for the new air-conditioning systems.
 Answer
 Students should apply the following steps/concepts the situation above
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Characteristics Business Markets Consumer Markets
+
+Geographically concentrated Geographically dispersed
+
+Market
+
+Fewer buyers Mass Markets/Many buyers
+Technically more complex Less technical complexity
+Product Mainly customized Standardized
+Service (Availability, | Very important Somewhat important
+Timely delivery)
+
+Functional involvement of firms | Family involvement & influence
+
+Buying mainly on rational basis | Social/psychological/physiological
+
+Buyer Behavior buying needs.
+
+Technical expertise required Less technical expertise required.
+
+Interpersonal relationships: Non-personal relationship
+stable between buyers & sellers | between buyers & sellers.
+
+Characteristics Business Markets Consumer Markets
+
+More direct Indirect
+Channel Fewer channel levels Multiple channel levels
+Promotion Importance to personal Importance to advertising &
+selling & dialogue monologue
+Competitive bidding / List price / maximum retail
+Price negotiated prices price (MRP)
+Marketing strategy changes | Have company-wide Can be made within
+
+implications marketing function
 --- page 4 ---
 This is a modified rebuy situation.
 Students should explain the steps briefly.
@@ -394,6 +510,50 @@ Larsen & Toubro (L&T) Electrical & Automation is introducing an
 Q5   [10]
 integrated Smart Switchgear solution for large-scale industrial plants to
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Chapter-3
+
+Buygrid Framework
+
+Buyphases Buyclasses
+
+New Modified Straight
+Task Rebuy Rebuy
+
+. Problem/need recognition Yes May be No
+
+. Characteristics, Quantity of needed product Yes May be No
+
+. Specification of the needed product Yes May be No
+
+. Potential suppliers’ search Yes Yes No
+
+. Obtain and analyze supplier proposals Yes Yes May be
+
+. Evaluate proposals and select suppliers Yes Yes No
+
+. Select an order routine Yes Yes May be
+
+. Performance review Yes Yes Yes
+
+71s
+
+The New Product Development Chapter-8
+
+(NPD) Process
+
+The process by which potential product ideas are
+generated, evaluated, directed and turned into new
+products is called NPD process.
+
+Idea generation
+
+Idea screening
+
+Concept Development and Testing
+
+4/12
 --- page 5 ---
 CO- 2;   prevent electrical wastage and optimize energy consumption. Mr. Victor
 BL-   Fernandez, the General Manager of Marketing, intends to reach plant
@@ -623,6 +783,42 @@ Apply   to choose for the new air-conditioning systems.
 Answer
 Students should apply the following steps/concepts the situation above
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Characteristics Business Markets Consumer Markets
+
+Geographically concentrated Geographically dispersed
+
+Market
+
+Fewer buyers Mass Markets/Many buyers
+Technically more complex Less technical complexity
+Product Mainly customized Standardized
+Service (Availability, | Very important Somewhat important
+Timely delivery)
+
+Functional involvement of firms | Family involvement & influence
+
+Buying mainly on rational basis | Social/psychological/physiological
+
+Buyer Behavior buying needs.
+
+Technical expertise required Less technical expertise required.
+
+Interpersonal relationships: Non-personal relationship
+stable between buyers & sellers | between buyers & sellers.
+
+Characteristics Business Markets Consumer Markets
+
+More direct Indirect
+Channel Fewer channel levels Multiple channel levels
+Promotion Importance to personal Importance to advertising &
+selling & dialogue monologue
+Competitive bidding / List price / maximum retail
+Price negotiated prices price (MRP)
+Marketing strategy changes | Have company-wide Can be made within
+
+implications marketing function
 --- page 4 ---
 This is a modified rebuy situation.
 Students should explain the steps briefly.
@@ -644,6 +840,50 @@ Larsen & Toubro (L&T) Electrical & Automation is introducing an
 Q5   [10]
 integrated Smart Switchgear solution for large-scale industrial plants to
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Chapter-3
+
+Buygrid Framework
+
+Buyphases Buyclasses
+
+New Modified Straight
+Task Rebuy Rebuy
+
+. Problem/need recognition Yes May be No
+
+. Characteristics, Quantity of needed product Yes May be No
+
+. Specification of the needed product Yes May be No
+
+. Potential suppliers’ search Yes Yes No
+
+. Obtain and analyze supplier proposals Yes Yes May be
+
+. Evaluate proposals and select suppliers Yes Yes No
+
+. Select an order routine Yes Yes May be
+
+. Performance review Yes Yes Yes
+
+71s
+
+The New Product Development Chapter-8
+
+(NPD) Process
+
+The process by which potential product ideas are
+generated, evaluated, directed and turned into new
+products is called NPD process.
+
+Idea generation
+
+Idea screening
+
+Concept Development and Testing
+
+4/12
 --- page 5 ---
 CO- 2;   prevent electrical wastage and optimize energy consumption. Mr. Victor
 BL-   Fernandez, the General Manager of Marketing, intends to reach plant
@@ -873,6 +1113,42 @@ Apply   to choose for the new air-conditioning systems.
 Answer
 Students should apply the following steps/concepts the situation above
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Characteristics Business Markets Consumer Markets
+
+Geographically concentrated Geographically dispersed
+
+Market
+
+Fewer buyers Mass Markets/Many buyers
+Technically more complex Less technical complexity
+Product Mainly customized Standardized
+Service (Availability, | Very important Somewhat important
+Timely delivery)
+
+Functional involvement of firms | Family involvement & influence
+
+Buying mainly on rational basis | Social/psychological/physiological
+
+Buyer Behavior buying needs.
+
+Technical expertise required Less technical expertise required.
+
+Interpersonal relationships: Non-personal relationship
+stable between buyers & sellers | between buyers & sellers.
+
+Characteristics Business Markets Consumer Markets
+
+More direct Indirect
+Channel Fewer channel levels Multiple channel levels
+Promotion Importance to personal Importance to advertising &
+selling & dialogue monologue
+Competitive bidding / List price / maximum retail
+Price negotiated prices price (MRP)
+Marketing strategy changes | Have company-wide Can be made within
+
+implications marketing function
 --- page 4 ---
 This is a modified rebuy situation.
 Students should explain the steps briefly.
@@ -894,6 +1170,50 @@ Larsen & Toubro (L&T) Electrical & Automation is introducing an
 Q5   [10]
 integrated Smart Switchgear solution for large-scale industrial plants to
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Chapter-3
+
+Buygrid Framework
+
+Buyphases Buyclasses
+
+New Modified Straight
+Task Rebuy Rebuy
+
+. Problem/need recognition Yes May be No
+
+. Characteristics, Quantity of needed product Yes May be No
+
+. Specification of the needed product Yes May be No
+
+. Potential suppliers’ search Yes Yes No
+
+. Obtain and analyze supplier proposals Yes Yes May be
+
+. Evaluate proposals and select suppliers Yes Yes No
+
+. Select an order routine Yes Yes May be
+
+. Performance review Yes Yes Yes
+
+71s
+
+The New Product Development Chapter-8
+
+(NPD) Process
+
+The process by which potential product ideas are
+generated, evaluated, directed and turned into new
+products is called NPD process.
+
+Idea generation
+
+Idea screening
+
+Concept Development and Testing
+
+4/12
 --- page 5 ---
 CO- 2;   prevent electrical wastage and optimize energy consumption. Mr. Victor
 BL-   Fernandez, the General Manager of Marketing, intends to reach plant
@@ -1123,6 +1443,42 @@ Apply   to choose for the new air-conditioning systems.
 Answer
 Students should apply the following steps/concepts the situation above
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Characteristics Business Markets Consumer Markets
+
+Geographically concentrated Geographically dispersed
+
+Market
+
+Fewer buyers Mass Markets/Many buyers
+Technically more complex Less technical complexity
+Product Mainly customized Standardized
+Service (Availability, | Very important Somewhat important
+Timely delivery)
+
+Functional involvement of firms | Family involvement & influence
+
+Buying mainly on rational basis | Social/psychological/physiological
+
+Buyer Behavior buying needs.
+
+Technical expertise required Less technical expertise required.
+
+Interpersonal relationships: Non-personal relationship
+stable between buyers & sellers | between buyers & sellers.
+
+Characteristics Business Markets Consumer Markets
+
+More direct Indirect
+Channel Fewer channel levels Multiple channel levels
+Promotion Importance to personal Importance to advertising &
+selling & dialogue monologue
+Competitive bidding / List price / maximum retail
+Price negotiated prices price (MRP)
+Marketing strategy changes | Have company-wide Can be made within
+
+implications marketing function
 --- page 4 ---
 This is a modified rebuy situation.
 Students should explain the steps briefly.
@@ -1144,6 +1500,50 @@ Larsen & Toubro (L&T) Electrical & Automation is introducing an
 Q5   [10]
 integrated Smart Switchgear solution for large-scale industrial plants to
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Chapter-3
+
+Buygrid Framework
+
+Buyphases Buyclasses
+
+New Modified Straight
+Task Rebuy Rebuy
+
+. Problem/need recognition Yes May be No
+
+. Characteristics, Quantity of needed product Yes May be No
+
+. Specification of the needed product Yes May be No
+
+. Potential suppliers’ search Yes Yes No
+
+. Obtain and analyze supplier proposals Yes Yes May be
+
+. Evaluate proposals and select suppliers Yes Yes No
+
+. Select an order routine Yes Yes May be
+
+. Performance review Yes Yes Yes
+
+71s
+
+The New Product Development Chapter-8
+
+(NPD) Process
+
+The process by which potential product ideas are
+generated, evaluated, directed and turned into new
+products is called NPD process.
+
+Idea generation
+
+Idea screening
+
+Concept Development and Testing
+
+4/12
 --- page 5 ---
 CO- 2;   prevent electrical wastage and optimize energy consumption. Mr. Victor
 BL-   Fernandez, the General Manager of Marketing, intends to reach plant
@@ -1341,6 +1741,31 @@ BL-
 Understan
 d
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Characteristics Business Markets Consumer Markets
+
+Geographically concentrated Geographically dispersed
+
+Market
+
+Fewer buyers Mass Markets/Many buyers
+Technically more complex Less technical complexity
+Product Mainly customized Standardized
+Service (Availability, | Very important Somewhat important
+
+Timely delivery)
+
+Functional involvement of firms | Family involvement & influence
+
+Buying mainly on rational basis | Social/psychological/physiological
+
+Buyer Behavior buying needs.
+
+Technical expertise required Less technical expertise required.
+
+Interpersonal relationships: Non-personal relationship
+stable between buyers & sellers | between buyers & sellers.
 --- page 3 ---
 Paras Compressors, founded in 1987 in Ahmedabad, Gujarat, India, is a
 leading manufacturer, exporter, and supplier of air compressors, water-
@@ -1364,6 +1789,42 @@ Understan   factors
 d   •   Conflict-resolution Levels:
 •   Situational factors
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Characteristics Business Markets Consumer Markets
+
+More direct Indirect
+Channel Fewer channel levels Multiple channel levels
+Promotion Importance to personal Importance to advertising &
+selling & dialogue monologue
+Competitive bidding / List price / maximum retail
+Price negotiated prices price (MRP)
+Marketing strategy changes | Have company-wide Can be made within
+
+implications marketing function
+
+Chapter-3
+
+The Sheth Model of Organizational Buyer
+
+Behavior
+
+| Componet-1 ] [ Componet-2 ] | Componet-3 |
+Differences in Variables that * Methods used for
+individual buyers’ determine if the conflict resolution
+expectations buying decision is in joint Situational Factors
+caused by factors: autonomous or |__| decision making
+* Background p>) joint: process
+* Information * Product specific + Problem solving
+
+sources factors * Persuasion
++ Past purchases * Company * Bargaining choi
++ Perceptional specific factors + Politicking
+
+distortion
+* Active search
+
+12/15
 --- page 4 ---
 Understanding a product's life cycle is crucial for businesses to make
 informed decisions, optimize marketing strategies, and ensure profitability
@@ -1545,6 +2006,31 @@ BL-
 Understan
 d
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Characteristics Business Markets Consumer Markets
+
+Geographically concentrated Geographically dispersed
+
+Market
+
+Fewer buyers Mass Markets/Many buyers
+Technically more complex Less technical complexity
+Product Mainly customized Standardized
+Service (Availability, | Very important Somewhat important
+
+Timely delivery)
+
+Functional involvement of firms | Family involvement & influence
+
+Buying mainly on rational basis | Social/psychological/physiological
+
+Buyer Behavior buying needs.
+
+Technical expertise required Less technical expertise required.
+
+Interpersonal relationships: Non-personal relationship
+stable between buyers & sellers | between buyers & sellers.
 --- page 3 ---
 Paras Compressors, founded in 1987 in Ahmedabad, Gujarat, India, is a
 leading manufacturer, exporter, and supplier of air compressors, water-
@@ -1568,6 +2054,42 @@ Understan   factors
 d   •   Conflict-resolution Levels:
 •   Situational factors
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Characteristics Business Markets Consumer Markets
+
+More direct Indirect
+Channel Fewer channel levels Multiple channel levels
+Promotion Importance to personal Importance to advertising &
+selling & dialogue monologue
+Competitive bidding / List price / maximum retail
+Price negotiated prices price (MRP)
+Marketing strategy changes | Have company-wide Can be made within
+
+implications marketing function
+
+Chapter-3
+
+The Sheth Model of Organizational Buyer
+
+Behavior
+
+| Componet-1 ] [ Componet-2 ] | Componet-3 |
+Differences in Variables that * Methods used for
+individual buyers’ determine if the conflict resolution
+expectations buying decision is in joint Situational Factors
+caused by factors: autonomous or |__| decision making
+* Background p>) joint: process
+* Information * Product specific + Problem solving
+
+sources factors * Persuasion
++ Past purchases * Company * Bargaining choi
++ Perceptional specific factors + Politicking
+
+distortion
+* Active search
+
+12/15
 --- page 4 ---
 Understanding a product's life cycle is crucial for businesses to make
 informed decisions, optimize marketing strategies, and ensure profitability
@@ -1749,6 +2271,31 @@ BL-
 Understan
 d
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Characteristics Business Markets Consumer Markets
+
+Geographically concentrated Geographically dispersed
+
+Market
+
+Fewer buyers Mass Markets/Many buyers
+Technically more complex Less technical complexity
+Product Mainly customized Standardized
+Service (Availability, | Very important Somewhat important
+
+Timely delivery)
+
+Functional involvement of firms | Family involvement & influence
+
+Buying mainly on rational basis | Social/psychological/physiological
+
+Buyer Behavior buying needs.
+
+Technical expertise required Less technical expertise required.
+
+Interpersonal relationships: Non-personal relationship
+stable between buyers & sellers | between buyers & sellers.
 --- page 3 ---
 Paras Compressors, founded in 1987 in Ahmedabad, Gujarat, India, is a
 leading manufacturer, exporter, and supplier of air compressors, water-
@@ -1772,6 +2319,42 @@ Understan   factors
 d   •   Conflict-resolution Levels:
 •   Situational factors
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Characteristics Business Markets Consumer Markets
+
+More direct Indirect
+Channel Fewer channel levels Multiple channel levels
+Promotion Importance to personal Importance to advertising &
+selling & dialogue monologue
+Competitive bidding / List price / maximum retail
+Price negotiated prices price (MRP)
+Marketing strategy changes | Have company-wide Can be made within
+
+implications marketing function
+
+Chapter-3
+
+The Sheth Model of Organizational Buyer
+
+Behavior
+
+| Componet-1 ] [ Componet-2 ] | Componet-3 |
+Differences in Variables that * Methods used for
+individual buyers’ determine if the conflict resolution
+expectations buying decision is in joint Situational Factors
+caused by factors: autonomous or |__| decision making
+* Background p>) joint: process
+* Information * Product specific + Problem solving
+
+sources factors * Persuasion
++ Past purchases * Company * Bargaining choi
++ Perceptional specific factors + Politicking
+
+distortion
+* Active search
+
+12/15
 --- page 4 ---
 Understanding a product's life cycle is crucial for businesses to make
 informed decisions, optimize marketing strategies, and ensure profitability
@@ -1953,6 +2536,31 @@ BL-
 Understan
 d
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Characteristics Business Markets Consumer Markets
+
+Geographically concentrated Geographically dispersed
+
+Market
+
+Fewer buyers Mass Markets/Many buyers
+Technically more complex Less technical complexity
+Product Mainly customized Standardized
+Service (Availability, | Very important Somewhat important
+
+Timely delivery)
+
+Functional involvement of firms | Family involvement & influence
+
+Buying mainly on rational basis | Social/psychological/physiological
+
+Buyer Behavior buying needs.
+
+Technical expertise required Less technical expertise required.
+
+Interpersonal relationships: Non-personal relationship
+stable between buyers & sellers | between buyers & sellers.
 --- page 3 ---
 Paras Compressors, founded in 1987 in Ahmedabad, Gujarat, India, is a
 leading manufacturer, exporter, and supplier of air compressors, water-
@@ -1976,6 +2584,42 @@ Understan   factors
 d   •   Conflict-resolution Levels:
 •   Situational factors
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Characteristics Business Markets Consumer Markets
+
+More direct Indirect
+Channel Fewer channel levels Multiple channel levels
+Promotion Importance to personal Importance to advertising &
+selling & dialogue monologue
+Competitive bidding / List price / maximum retail
+Price negotiated prices price (MRP)
+Marketing strategy changes | Have company-wide Can be made within
+
+implications marketing function
+
+Chapter-3
+
+The Sheth Model of Organizational Buyer
+
+Behavior
+
+| Componet-1 ] [ Componet-2 ] | Componet-3 |
+Differences in Variables that * Methods used for
+individual buyers’ determine if the conflict resolution
+expectations buying decision is in joint Situational Factors
+caused by factors: autonomous or |__| decision making
+* Background p>) joint: process
+* Information * Product specific + Problem solving
+
+sources factors * Persuasion
++ Past purchases * Company * Bargaining choi
++ Perceptional specific factors + Politicking
+
+distortion
+* Active search
+
+12/15
 --- page 4 ---
 Understanding a product's life cycle is crucial for businesses to make
 informed decisions, optimize marketing strategies, and ensure profitability
@@ -2157,6 +2801,31 @@ BL-
 Understan
 d
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Characteristics Business Markets Consumer Markets
+
+Geographically concentrated Geographically dispersed
+
+Market
+
+Fewer buyers Mass Markets/Many buyers
+Technically more complex Less technical complexity
+Product Mainly customized Standardized
+Service (Availability, | Very important Somewhat important
+
+Timely delivery)
+
+Functional involvement of firms | Family involvement & influence
+
+Buying mainly on rational basis | Social/psychological/physiological
+
+Buyer Behavior buying needs.
+
+Technical expertise required Less technical expertise required.
+
+Interpersonal relationships: Non-personal relationship
+stable between buyers & sellers | between buyers & sellers.
 --- page 3 ---
 Paras Compressors, founded in 1987 in Ahmedabad, Gujarat, India, is a
 leading manufacturer, exporter, and supplier of air compressors, water-
@@ -2180,6 +2849,42 @@ Understan   factors
 d   •   Conflict-resolution Levels:
 •   Situational factors
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Characteristics Business Markets Consumer Markets
+
+More direct Indirect
+Channel Fewer channel levels Multiple channel levels
+Promotion Importance to personal Importance to advertising &
+selling & dialogue monologue
+Competitive bidding / List price / maximum retail
+Price negotiated prices price (MRP)
+Marketing strategy changes | Have company-wide Can be made within
+
+implications marketing function
+
+Chapter-3
+
+The Sheth Model of Organizational Buyer
+
+Behavior
+
+| Componet-1 ] [ Componet-2 ] | Componet-3 |
+Differences in Variables that * Methods used for
+individual buyers’ determine if the conflict resolution
+expectations buying decision is in joint Situational Factors
+caused by factors: autonomous or |__| decision making
+* Background p>) joint: process
+* Information * Product specific + Problem solving
+
+sources factors * Persuasion
++ Past purchases * Company * Bargaining choi
++ Perceptional specific factors + Politicking
+
+distortion
+* Active search
+
+12/15
 --- page 4 ---
 Understanding a product's life cycle is crucial for businesses to make
 informed decisions, optimize marketing strategies, and ensure profitability
@@ -2361,6 +3066,31 @@ BL-
 Understan
 d
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Characteristics Business Markets Consumer Markets
+
+Geographically concentrated Geographically dispersed
+
+Market
+
+Fewer buyers Mass Markets/Many buyers
+Technically more complex Less technical complexity
+Product Mainly customized Standardized
+Service (Availability, | Very important Somewhat important
+
+Timely delivery)
+
+Functional involvement of firms | Family involvement & influence
+
+Buying mainly on rational basis | Social/psychological/physiological
+
+Buyer Behavior buying needs.
+
+Technical expertise required Less technical expertise required.
+
+Interpersonal relationships: Non-personal relationship
+stable between buyers & sellers | between buyers & sellers.
 --- page 3 ---
 Paras Compressors, founded in 1987 in Ahmedabad, Gujarat, India, is a
 leading manufacturer, exporter, and supplier of air compressors, water-
@@ -2384,6 +3114,42 @@ Understan   factors
 d   •   Conflict-resolution Levels:
 •   Situational factors
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Characteristics Business Markets Consumer Markets
+
+More direct Indirect
+Channel Fewer channel levels Multiple channel levels
+Promotion Importance to personal Importance to advertising &
+selling & dialogue monologue
+Competitive bidding / List price / maximum retail
+Price negotiated prices price (MRP)
+Marketing strategy changes | Have company-wide Can be made within
+
+implications marketing function
+
+Chapter-3
+
+The Sheth Model of Organizational Buyer
+
+Behavior
+
+| Componet-1 ] [ Componet-2 ] | Componet-3 |
+Differences in Variables that * Methods used for
+individual buyers’ determine if the conflict resolution
+expectations buying decision is in joint Situational Factors
+caused by factors: autonomous or |__| decision making
+* Background p>) joint: process
+* Information * Product specific + Problem solving
+
+sources factors * Persuasion
++ Past purchases * Company * Bargaining choi
++ Perceptional specific factors + Politicking
+
+distortion
+* Active search
+
+12/15
 --- page 4 ---
 Understanding a product's life cycle is crucial for businesses to make
 informed decisions, optimize marketing strategies, and ensure profitability
@@ -2565,6 +3331,31 @@ BL-
 Understan
 d
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Characteristics Business Markets Consumer Markets
+
+Geographically concentrated Geographically dispersed
+
+Market
+
+Fewer buyers Mass Markets/Many buyers
+Technically more complex Less technical complexity
+Product Mainly customized Standardized
+Service (Availability, | Very important Somewhat important
+
+Timely delivery)
+
+Functional involvement of firms | Family involvement & influence
+
+Buying mainly on rational basis | Social/psychological/physiological
+
+Buyer Behavior buying needs.
+
+Technical expertise required Less technical expertise required.
+
+Interpersonal relationships: Non-personal relationship
+stable between buyers & sellers | between buyers & sellers.
 --- page 3 ---
 Paras Compressors, founded in 1987 in Ahmedabad, Gujarat, India, is a
 leading manufacturer, exporter, and supplier of air compressors, water-
@@ -2588,6 +3379,42 @@ Understan   factors
 d   •   Conflict-resolution Levels:
 •   Situational factors
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Characteristics Business Markets Consumer Markets
+
+More direct Indirect
+Channel Fewer channel levels Multiple channel levels
+Promotion Importance to personal Importance to advertising &
+selling & dialogue monologue
+Competitive bidding / List price / maximum retail
+Price negotiated prices price (MRP)
+Marketing strategy changes | Have company-wide Can be made within
+
+implications marketing function
+
+Chapter-3
+
+The Sheth Model of Organizational Buyer
+
+Behavior
+
+| Componet-1 ] [ Componet-2 ] | Componet-3 |
+Differences in Variables that * Methods used for
+individual buyers’ determine if the conflict resolution
+expectations buying decision is in joint Situational Factors
+caused by factors: autonomous or |__| decision making
+* Background p>) joint: process
+* Information * Product specific + Problem solving
+
+sources factors * Persuasion
++ Past purchases * Company * Bargaining choi
++ Perceptional specific factors + Politicking
+
+distortion
+* Active search
+
+12/15
 --- page 4 ---
 Understanding a product's life cycle is crucial for businesses to make
 informed decisions, optimize marketing strategies, and ensure profitability
@@ -2821,6 +3648,19 @@ Designing & Executing Sales Training Program
 •   Increase sales, profits, or both
 •   Increase sales force productivity
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The New Product Development Chapter-8
+
+(NPD) Process
+
+The process by which potential product ideas are
+generated, evaluated, directed and turned into new
+products is called NPD process.
+
+Concept Development and Testing
+
+4/12
 --- page 4 ---
 ❑ Content of training program
 •   Initial training for new sales trainees (broader
@@ -3040,6 +3880,19 @@ Designing & Executing Sales Training Program
 •   Increase sales, profits, or both
 •   Increase sales force productivity
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The New Product Development Chapter-8
+
+(NPD) Process
+
+The process by which potential product ideas are
+generated, evaluated, directed and turned into new
+products is called NPD process.
+
+Concept Development and Testing
+
+4/12
 --- page 4 ---
 ❑ Content of training program
 •   Initial training for new sales trainees (broader
@@ -3259,6 +4112,19 @@ Designing & Executing Sales Training Program
 •   Increase sales, profits, or both
 •   Increase sales force productivity
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The New Product Development Chapter-8
+
+(NPD) Process
+
+The process by which potential product ideas are
+generated, evaluated, directed and turned into new
+products is called NPD process.
+
+Concept Development and Testing
+
+4/12
 --- page 4 ---
 ❑ Content of training program
 •   Initial training for new sales trainees (broader
@@ -3478,6 +4344,19 @@ Designing & Executing Sales Training Program
 •   Increase sales, profits, or both
 •   Increase sales force productivity
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The New Product Development Chapter-8
+
+(NPD) Process
+
+The process by which potential product ideas are
+generated, evaluated, directed and turned into new
+products is called NPD process.
+
+Concept Development and Testing
+
+4/12
 --- page 4 ---
 ❑ Content of training program
 •   Initial training for new sales trainees (broader
@@ -3697,6 +4576,19 @@ Designing & Executing Sales Training Program
 •   Increase sales, profits, or both
 •   Increase sales force productivity
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The New Product Development Chapter-8
+
+(NPD) Process
+
+The process by which potential product ideas are
+generated, evaluated, directed and turned into new
+products is called NPD process.
+
+Concept Development and Testing
+
+4/12
 --- page 4 ---
 ❑ Content of training program
 •   Initial training for new sales trainees (broader

@@ -224,6 +224,32 @@ BL-2
 •   Procedure   [06]
 • Sketch showing all components   [04]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+GL
+ye SENT
+Water Level B
+
+28
+
+Sand
+Yeat= 16 KN/ m?
+Yw= 10 KN/ m3
+
+2,188 |, 100, a
+
+C
+o- diagram u-diagram a “ diagram
+Total Stress [Neutral Stress| Pft*ctive
+Level one mass Stes
+“om Nm) Nim’)
+A 0 0 7
+B 14x2=28 0 28
+28+(16x10)
+
+c 10 x 10 =100 | 188-100= 88
+
+= 188
 --- page 6 ---
 Q7   b.   Explain the method of ‘Square Root of Time Fitting Method’ used of
 CO-4;   determination of coefficient of consolidation.
@@ -261,6 +287,42 @@ Instructions:
 6. Figures in brackets on the right-hand side indicate full marks.
 7. Assume Suitable data if necessary.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Qi
+
+Co- 1; a. Explain the ‘Concept of Residual Soil’ and discuss its different zones with a
+
+BL-2 neat sketch.
+Residual soils are those that remain at the place of their formation as_a result of
+the weathering of parent rocks. The depth of residual soils depends primarily on
+climatic conditions and the time of exposure. In some areas, this depth might be
+considerable. In temperate zones residual soils are commonly stiff and stable. An {03
+important characteristic of residual soil is that the sizes of grains are indefinite.
+For example, when a residual sample is sieved, the amount passing any given Marks]
+
+pic, Pp > P ig any
+
+sieve size depends greatly on the time and energy expended in shaking, because
+of the partially disintegrated condition. Residual soils have four different zones as
+shown below:
+
+Zone ‘A’
+
+0to 0.6m
+
+Zone ‘B’
+0.6m to4.5m
+Zone ‘C’ [02
+
+4.5 m to Parent Rock
+TT Marks]
+
+Zone ‘D’
+(Parent Rock)
+
+CO- 23, b. Discuss the ‘Hydrometer Method’ of sedimentation analysis.
+BL-2
 --- page 2 ---
 « Figure of Apparatus [02]
 

@@ -41,6 +41,16 @@ Vd = 74.72 kN – 1 marks, 4 marks for calculation
 Q2b   Calculation – 3 marks, Fx - 1 marks , Fy - 1 marks , R = 758.27 N – 2 marks,   [10]
 θ = 46.18° - 2 marks, Location – 1 marks
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+: Rod about
+Solid eylinder or Heap about Solid center
+
+disc, symmetry axis symmetry axis sphere 7
+
+]
+rae ur? [= MR = MR 1=—ML
+2 5 12
 --- page 2 ---
 Q3a   [10]
 Calculation of Fx, Fy, R and θ – 1.5 marks each
@@ -58,6 +68,27 @@ each
 Q4b   [10]
 `
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+ot
+(04 = 60 rpm = 60x Fy rad/s
+©o4 = 2n rads
+40° = ==
+. sin x00
+h = 300 x sin 40° = 192.84 mm
+9 - AL = 192.84
+sin 800 800
+0 = 13.95"
+Using sine rule, we get
+_ M4 _ _ i
+sin 76.05° sin 53.95°
+soo 4B
+sin 50° sin 76.05° sin 53.95°
+. 1A = 800 x 216.08" 1913.53 mm = 1.04 m
+
+sin 50°
+
+IB = 800 x = 844.34 mm = 0.844 m
 --- page 3 ---
 ICR location dia – 2 marks,
 calculation of IA and IB – 2 marks, equation calculation- 4 marks, final ans of Va
@@ -70,6 +101,43 @@ Q5b   [10]
 1 marks for reaction(Ha = 10kN, Va =12kN, Vd = 16 kN) and 1 marks for each 9
 members
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+(ii) Rod OA (Performs rotational motion about O)
+vy = (OA) (@o4) = 0.3 x 2m = 1.89 m/s
+(iii) Rod AB (Performs general plane motion)
+At the given instant point / is the ICR
+v4 = UA) (@ 4p)
+
+_ 1.89
+4s ~ Toa
+
+4, = 1.817 r/s (GO) Ans.
+Vg = (UB) (@4,) = 0.844 x 1.817
+
+vg = 1.53 m/s (>) Ans.
+
+Was ae 20 a
+ae N\G or
+Oy 0 ¥ ‘ Qe
+5 »~_ 20
+
+L 23 ¢
+
+| Member | Force | Nature of force
+
+| AB | 25KN | - Tension
+BC | 25KN | Tension
+cD 20 KN Tension
+DE | 25.61KNj Compression |~
+CE 4KN Tension
+cr | 64KN | Compression
+
+BF o | :
+EF [| 20KN | Compression
+AF
+
+19.20KN | Compression |
 --- page 4 ---
 Q6a   [10]
 Equation of Y for projectile P and Q along with calculation = 6 marks
@@ -79,6 +147,60 @@ Q6b   [10]
 FBD = 2 marks, T vs a Relationship – 2 marks, Equation – 3 marks acceleration
 calculation – 2 marks, Vb – calculation – 1 mark
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+At the time of destruction coordinates x and y of both the projectile will be same.
+By general equation of projectile motion, we have
+
+y = xtan0— came ad + tan? 0)
+2u
+Projectile P , Projectile M
+y = xtan 60° ~ 2814277 + tan? (60)°] Jy = x tan 45°- 28h Ty + tan? (45)?
+2 x 200° 2 x 20007
+
+Equating both, we get
+9.812 f+ tan? (60)° 1 + tan? (45)°
+
+x (tan 60° — tan 45°) = - -
+2 200° 20007
+
+0.7321 = 4.905x° (1 x 107-5 x 107’)
+_ 0.7321
+
+* "4.905 x 9.95 x 105
+
+x = 1500 m (horizontal distance) Ans.
+9.8 1x7
+2x 200°
+
+. y = 1495 m (vertical height) Ans.
+
+y = xtan 60° - [1 +tan? (60)°] Put =1500m
+
+For time, we have
+
+x = ucos0xt
+_ 1500 _ - oh - -ojiecti
+1 = ————., = 15 sec with respect to projectile P. Ans.
+200 cos 60°
+
+We Have to assume what will go up & what will go down.
+Lets A goes Down & B goes Up.
+All 4 force +ve and J force -ve
+
+T,=2T &T,=T
+
+T,=2T, .....() From Eq. (1), (2),
+(3), & (4)
+2 ay = ay +-(2) ag= 3.08 m/s?
+
+For Block B=>XFy=ma #5 6.54 m/s?
+
+T, — 20g = 20 a, .....(3)
+Vp =urtat
+
+For Block A =>ZFy = ma V, = 0 + (6.54)(2)
+100g —T, = 100 a,....(4)   V,, = 13.08 m/s
 --- page 5 ---
 Q7a   [10]
 Equation of S, V and a – 7 marks, Calculation of S, V, and a – 1 marks
@@ -86,6 +208,61 @@ Q7b   [10]
 Equation of M with calculation – 4 marks, Calculation of ω – 2 marks,
 α – 2 marks, at and an – 1 marks each
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+(i) a= P-2°+7
+dv
+dt
+
+. dy = (P-2P +7) dt
+
+P-2P+7
+
+Integrating both sides, we get
+fav = f(P-2° +7 at
+
+4 3
+
+t 2r
+v= Zttte
+
+Att = 1 second; v = 3.58 m/s
+
+—asg — ~20r +11 +c,
+
+a
+2c, = -3
+4
+- t 2°
+(ii) y= —- ~+7t-3
+"a 3
+4
+ds_ ff 2P a,
+dt 4 3
+
+fA 2A
+. ds = |— —- — +7t-—3) dt
+4 3
+
+Integrating both sides, we get
+
+4
+. fas -[£-* +s} ar
+4.3
+
+S 4
+tee t t 1
+(iii) s = 2 - . + a T3tte
+
+When s = 9.39 m, att = 1 second.
+
+5 4 2
+939 = DO, IY gaye,
+206 2
+. C2 ~ 9
+5 4 2
+s-£- £41 349
+20 6 2
 ````
 
 ## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 85cd0b9b269d
@@ -95,6 +272,7 @@ Equation of M with calculation – 4 marks, Calculation of ω – 2 marks,
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/Engineering Mechanics/ANS_Engineering Mechanics(701ME0C026)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2026
 - Text: mixed (6 pages), mean OCR confidence 62.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -137,6 +315,47 @@ Diagram and equation.   [2 marks]
 Q3(b)
 [2 Marks for FBD, 3 Marks for equation calculation]
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+65 KN 20 KN
+
+250 KN-cm 50 KN-cm a
+> SK
+ol a | ij
+
+| 5cm end 10cm \/4 5cm |
+
+Y Y = —65 +20 = —45(1) kN
+
+- (aya) nee dM
+
+“« d =13.33 cm
+R=45kN
+
+XM, = —250 + 50 + (20x 20) = — 600 N. cm(clockwise)
+
+Resultant R = 45 KN is located at a distance of 13.33cm from left side of pont O
+
+P Sin 30 XFy = 0
+R+PSin30— 80 =0
+
+P R= 80 - 0.5P
+
+30°
+
+R
+
+Cos 30
+
+uR— Fx = 0
+Pcos30 - pR= 0
+80N P Cos30- 0.25 x (80 — 0.5P)= 0
+0.866P - 20 +0.125P = 0
+0.991P = 20
+
+P=20.18 N
+
+27
 --- page 3 ---
 Q3(c) [3 Marks for FBD, 2 Marks for equation calculation, Ra = 1m marks, Rb — 1 marks ]
 
@@ -183,6 +402,27 @@ Fx   Fy   R   Theta
 24.47   18.43   30.64   37.00
 2 marks   2 marks   2 marks   1 marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+40 KN
+
+20 kN/m 60 kN 20 KN
+
+A, 30 kNm
+
+j¢2m bm —afe-am em
+
+<XFx =0, HA=0
+
+XFy = 0 (upward forces + ve)
+
+
+=M, = 0 (anticlockwise moment +ve)
+
++[(20 x 2)x (2/2)] — (60 x 4)+ - 30 + (Vgx 9) — (20 x 11)= 0
+Vp = (- 40+240 +30 +220)/9 = 450/9 = 50 kN
+
+Va, = 120-50 =70kN
 --- page 5 ---
 Q6(a)
 [3 Marks for FBD, 5 Marks for equation calculation, 1 marks for calculation of F, 1 marks for
@@ -194,11 +434,44 @@ Q6(c)
 Proof 4 marks
 Q7(a) MA – 3 marks, VR – 2 marks, Efficiency – 3 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Load lifted = 800 N
+Effort applied = 100 N
+Distance moved by effort = 100 cm
+
+Distance moved by load = 10 cm
+
+= y 100
+Velocity Ration (V. R.) == a =10
+x
+
+Efficiency (7) ae aoe =0.8 or 80%
+VR 10
+
+MA=8, VR= 10 and n= 80%
 --- page 6 ---
 Q7(b) FBD – 2 marks, calculation 3 marks, final ans of moment – 1 marks
 Q7(c) Describe point load, UDL and UVL with diagram [3 marks]
 Conversion of UDL and UVL in to point load. [3 marks]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+XM, = —600(1) — 200cos30°(1) + 1000cos45°(1) + 1000sin45°(1.5)
+— 1000sin60°(1.5)
+
+200sin30 ; 00 se)
+N ‘tooo 1 000sin45
+YM, = — 304.48 N. m(clockwise) om a »
+200cos30° —1000cos45°
+1m
+1000cos60°
+° x
+1.5m. 60°
+
+300N 1000N
+
+1000sin60°
 ````
 
 ## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 7fbd0889f57e
@@ -208,6 +481,7 @@ Conversion of UDL and UVL in to point load. [3 marks]
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/DIPLOMA IN COMPUTER SCIENCE AND ENGINEE_04f07abf/Engineering Mechanics/ANS_Engineering Mechanics(701ME0C026)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2026
 - Text: mixed (6 pages), mean OCR confidence 62.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -250,6 +524,47 @@ Diagram and equation.   [2 marks]
 Q3(b)
 [2 Marks for FBD, 3 Marks for equation calculation]
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+65 KN 20 KN
+
+250 KN-cm 50 KN-cm a
+> SK
+ol a | ij
+
+| 5cm end 10cm \/4 5cm |
+
+Y Y = —65 +20 = —45(1) kN
+
+- (aya) nee dM
+
+“« d =13.33 cm
+R=45kN
+
+XM, = —250 + 50 + (20x 20) = — 600 N. cm(clockwise)
+
+Resultant R = 45 KN is located at a distance of 13.33cm from left side of pont O
+
+P Sin 30 XFy = 0
+R+PSin30— 80 =0
+
+P R= 80 - 0.5P
+
+30°
+
+R
+
+Cos 30
+
+uR— Fx = 0
+Pcos30 - pR= 0
+80N P Cos30- 0.25 x (80 — 0.5P)= 0
+0.866P - 20 +0.125P = 0
+0.991P = 20
+
+P=20.18 N
+
+27
 --- page 3 ---
 Q3(c) [3 Marks for FBD, 2 Marks for equation calculation, Ra = 1m marks, Rb — 1 marks ]
 
@@ -296,6 +611,27 @@ Fx   Fy   R   Theta
 24.47   18.43   30.64   37.00
 2 marks   2 marks   2 marks   1 marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+40 KN
+
+20 kN/m 60 kN 20 KN
+
+A, 30 kNm
+
+j¢2m bm —afe-am em
+
+<XFx =0, HA=0
+
+XFy = 0 (upward forces + ve)
+
+
+=M, = 0 (anticlockwise moment +ve)
+
++[(20 x 2)x (2/2)] — (60 x 4)+ - 30 + (Vgx 9) — (20 x 11)= 0
+Vp = (- 40+240 +30 +220)/9 = 450/9 = 50 kN
+
+Va, = 120-50 =70kN
 --- page 5 ---
 Q6(a)
 [3 Marks for FBD, 5 Marks for equation calculation, 1 marks for calculation of F, 1 marks for
@@ -307,11 +643,44 @@ Q6(c)
 Proof 4 marks
 Q7(a) MA – 3 marks, VR – 2 marks, Efficiency – 3 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Load lifted = 800 N
+Effort applied = 100 N
+Distance moved by effort = 100 cm
+
+Distance moved by load = 10 cm
+
+= y 100
+Velocity Ration (V. R.) == a =10
+x
+
+Efficiency (7) ae aoe =0.8 or 80%
+VR 10
+
+MA=8, VR= 10 and n= 80%
 --- page 6 ---
 Q7(b) FBD – 2 marks, calculation 3 marks, final ans of moment – 1 marks
 Q7(c) Describe point load, UDL and UVL with diagram [3 marks]
 Conversion of UDL and UVL in to point load. [3 marks]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+XM, = —600(1) — 200cos30°(1) + 1000cos45°(1) + 1000sin45°(1.5)
+— 1000sin60°(1.5)
+
+200sin30 ; 00 se)
+N ‘tooo 1 000sin45
+YM, = — 304.48 N. m(clockwise) om a »
+200cos30° —1000cos45°
+1m
+1000cos60°
+° x
+1.5m. 60°
+
+300N 1000N
+
+1000sin60°
 ````
 
 ## 2025-26 · Final-Exam · Sem 2 · Answer key · paper ab0acab40c1e
@@ -321,6 +690,7 @@ Conversion of UDL and UVL in to point load. [3 marks]
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/DIPLOMA IN INFORMATION TECHNOLOGY - 7075/Engineering Mechanics/ANS_Engineering Mechanics(701ME0C026)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2026
 - Text: mixed (6 pages), mean OCR confidence 62.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -363,6 +733,47 @@ Diagram and equation.   [2 marks]
 Q3(b)
 [2 Marks for FBD, 3 Marks for equation calculation]
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+65 KN 20 KN
+
+250 KN-cm 50 KN-cm a
+> SK
+ol a | ij
+
+| 5cm end 10cm \/4 5cm |
+
+Y Y = —65 +20 = —45(1) kN
+
+- (aya) nee dM
+
+“« d =13.33 cm
+R=45kN
+
+XM, = —250 + 50 + (20x 20) = — 600 N. cm(clockwise)
+
+Resultant R = 45 KN is located at a distance of 13.33cm from left side of pont O
+
+P Sin 30 XFy = 0
+R+PSin30— 80 =0
+
+P R= 80 - 0.5P
+
+30°
+
+R
+
+Cos 30
+
+uR— Fx = 0
+Pcos30 - pR= 0
+80N P Cos30- 0.25 x (80 — 0.5P)= 0
+0.866P - 20 +0.125P = 0
+0.991P = 20
+
+P=20.18 N
+
+27
 --- page 3 ---
 Q3(c) [3 Marks for FBD, 2 Marks for equation calculation, Ra = 1m marks, Rb — 1 marks ]
 
@@ -409,6 +820,27 @@ Fx   Fy   R   Theta
 24.47   18.43   30.64   37.00
 2 marks   2 marks   2 marks   1 marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+40 KN
+
+20 kN/m 60 kN 20 KN
+
+A, 30 kNm
+
+j¢2m bm —afe-am em
+
+<XFx =0, HA=0
+
+XFy = 0 (upward forces + ve)
+
+
+=M, = 0 (anticlockwise moment +ve)
+
++[(20 x 2)x (2/2)] — (60 x 4)+ - 30 + (Vgx 9) — (20 x 11)= 0
+Vp = (- 40+240 +30 +220)/9 = 450/9 = 50 kN
+
+Va, = 120-50 =70kN
 --- page 5 ---
 Q6(a)
 [3 Marks for FBD, 5 Marks for equation calculation, 1 marks for calculation of F, 1 marks for
@@ -420,11 +852,44 @@ Q6(c)
 Proof 4 marks
 Q7(a) MA – 3 marks, VR – 2 marks, Efficiency – 3 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Load lifted = 800 N
+Effort applied = 100 N
+Distance moved by effort = 100 cm
+
+Distance moved by load = 10 cm
+
+= y 100
+Velocity Ration (V. R.) == a =10
+x
+
+Efficiency (7) ae aoe =0.8 or 80%
+VR 10
+
+MA=8, VR= 10 and n= 80%
 --- page 6 ---
 Q7(b) FBD – 2 marks, calculation 3 marks, final ans of moment – 1 marks
 Q7(c) Describe point load, UDL and UVL with diagram [3 marks]
 Conversion of UDL and UVL in to point load. [3 marks]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+XM, = —600(1) — 200cos30°(1) + 1000cos45°(1) + 1000sin45°(1.5)
+— 1000sin60°(1.5)
+
+200sin30 ; 00 se)
+N ‘tooo 1 000sin45
+YM, = — 304.48 N. m(clockwise) om a »
+200cos30° —1000cos45°
+1m
+1000cos60°
+° x
+1.5m. 60°
+
+300N 1000N
+
+1000sin60°
 ````
 
 ## 2025-26 · Final-Exam · Sem 2 · Answer key · paper 7a411e2af41c
@@ -434,6 +899,7 @@ Conversion of UDL and UVL in to point load. [3 marks]
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/DIPLOMA IN MECHANICAL ENGINEERING - 7072/Engineering Mechanics/ANS_Engineering Mechanics(701ME0C026)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2026
 - Text: mixed (6 pages), mean OCR confidence 62.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -476,6 +942,47 @@ Diagram and equation.   [2 marks]
 Q3(b)
 [2 Marks for FBD, 3 Marks for equation calculation]
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+65 KN 20 KN
+
+250 KN-cm 50 KN-cm a
+> SK
+ol a | ij
+
+| 5cm end 10cm \/4 5cm |
+
+Y Y = —65 +20 = —45(1) kN
+
+- (aya) nee dM
+
+“« d =13.33 cm
+R=45kN
+
+XM, = —250 + 50 + (20x 20) = — 600 N. cm(clockwise)
+
+Resultant R = 45 KN is located at a distance of 13.33cm from left side of pont O
+
+P Sin 30 XFy = 0
+R+PSin30— 80 =0
+
+P R= 80 - 0.5P
+
+30°
+
+R
+
+Cos 30
+
+uR— Fx = 0
+Pcos30 - pR= 0
+80N P Cos30- 0.25 x (80 — 0.5P)= 0
+0.866P - 20 +0.125P = 0
+0.991P = 20
+
+P=20.18 N
+
+27
 --- page 3 ---
 Q3(c) [3 Marks for FBD, 2 Marks for equation calculation, Ra = 1m marks, Rb — 1 marks ]
 
@@ -522,6 +1029,27 @@ Fx   Fy   R   Theta
 24.47   18.43   30.64   37.00
 2 marks   2 marks   2 marks   1 marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+40 KN
+
+20 kN/m 60 kN 20 KN
+
+A, 30 kNm
+
+j¢2m bm —afe-am em
+
+<XFx =0, HA=0
+
+XFy = 0 (upward forces + ve)
+
+
+=M, = 0 (anticlockwise moment +ve)
+
++[(20 x 2)x (2/2)] — (60 x 4)+ - 30 + (Vgx 9) — (20 x 11)= 0
+Vp = (- 40+240 +30 +220)/9 = 450/9 = 50 kN
+
+Va, = 120-50 =70kN
 --- page 5 ---
 Q6(a)
 [3 Marks for FBD, 5 Marks for equation calculation, 1 marks for calculation of F, 1 marks for
@@ -533,11 +1061,44 @@ Q6(c)
 Proof 4 marks
 Q7(a) MA – 3 marks, VR – 2 marks, Efficiency – 3 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Load lifted = 800 N
+Effort applied = 100 N
+Distance moved by effort = 100 cm
+
+Distance moved by load = 10 cm
+
+= y 100
+Velocity Ration (V. R.) == a =10
+x
+
+Efficiency (7) ae aoe =0.8 or 80%
+VR 10
+
+MA=8, VR= 10 and n= 80%
 --- page 6 ---
 Q7(b) FBD – 2 marks, calculation 3 marks, final ans of moment – 1 marks
 Q7(c) Describe point load, UDL and UVL with diagram [3 marks]
 Conversion of UDL and UVL in to point load. [3 marks]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+XM, = —600(1) — 200cos30°(1) + 1000cos45°(1) + 1000sin45°(1.5)
+— 1000sin60°(1.5)
+
+200sin30 ; 00 se)
+N ‘tooo 1 000sin45
+YM, = — 304.48 N. m(clockwise) om a »
+200cos30° —1000cos45°
+1m
+1000cos60°
+° x
+1.5m. 60°
+
+300N 1000N
+
+1000sin60°
 ````
 
 ## 2025-26 · Final-Exam · Sem 3 · Answer key · paper 72d8c1c8c911
@@ -1475,6 +2036,23 @@ Negative sign indicates that moment is in the clockwise direction.   [1 mark]
 Q7(c) Describe roller, hinge and fixed support with figure and example.   [3 marks]
 Also show the support reaction for all of them.   [3 marks]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+- Mechanical Advantage (MA) = Load / Effort
+
+W _ 3010
+MA= = = 7 = 483 ~ 43.0
+
+- Velocity Ratio (VR) = Distance moved by effort / Distance moved by load
+
+deffort 8 = 80
+
+VR= toad 0.1
+
+- Efficiency (n) = (MA / VR) \times 100%
+
+MA 43 5
+n= Tq X 100 = 5 x 100 = 53.75%
 ````
 
 ## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 13631644a76b
@@ -1484,6 +2062,7 @@ Also show the support reaction for all of them.   [3 marks]
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_Civil_7005/Engineering Mechanics/ANS_Engineering Mechanics(702ME0C025)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2026
 - Text: text (4 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1533,6 +2112,63 @@ equation calculation – 4 marks, Ans of Va and angular velocity AB – 2 marks
 Q5a   [10]
 Calculation of IXX – 5 marks, Calculation of IYY – 5 marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Solution B
+
+(i) Crank BC (Performs rotational motion about point C)
+
+vg = (BC) (ge) = (100)(30)
+
+vg = 100m mm/s
+
+In A ABC, by sine rule
+
+400 - 100
+sin 120° “Sin 0
+0 = 125°
+In A ABI, by sine rule
+4 400 IB
+
+sin47.5° sin 30° sin 102.5°
+JA = 589.82 mm
+IB = 781.04 mm
+Gi) Link AB (Performs general plane motion)
+Atthe given instant point / is the ICR
+Vp = (UB) (4g)
+
+100n
+O48 ~ F814
+
+4p = 0.402 r/S(Q)
+
+Fig. 13.7(b)
+
+v4 = (IA) (4g) = 589.82 x 0.402
+237.12 mm/s Ans.
+
+solution y
+
+80
+(i) MI about x-axis = -
+= 2G;
+Ie = Ie, hey + ly
+; Lo]
+I, = (eo. 10 x 100 x 60°)
+12
++ (SIE 80x 10x 115") s|| 0
+12 =
+= 20000 + 443333.33 + 10586666.67
+Ty, = 15040000 mm* Ans.
+(ii) MI about y-axis
+2 iG
+y= Ty th, thy 0 60
+Fig. 6.7(b)
+
+10x60? , 100x 10° , 10 x 80°
+3 3 3
+
+~ Ly = 2460000 mm* Ans.
 --- page 3 ---
 Q5b   [10]
 1 marks for each 8 members calculation – 2 marks for FBD
@@ -1542,6 +2178,81 @@ calculation of max height – 3 marks
 Q6b   [10]
 FBD – 4 marks, calculation – 4 marks, Ans of T and acceleration – 1 marks each
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+5) 5) ae
+Member | Force (KN) | Nature of force | —
+
+AB—}—11.54 Tension ~~} —
+
+BC 2.88-_| Tension |
+cD 5.77} Compr :
+DE 5.77
+EF 17.32
+AE 1155
+BE 11.55
+
+BD 5.77
+
+By general equation of projectile motion, we have
+
+y = xtan0- S21 + tan? 0)
+
+QW
+y= 30tan a — 281230" Gs tan? ay
+2x 24?
+
+y = 30tan a —7.66 (1 + tan? a) @
+For height to be maximum (4,). apply maxima condition
+
+dy
+ie, =
+
+dx
+
+30 sec? a — 7.66(0+2 tan asec? a) = 0
+
+sec? a (30 — 15.32 tana) = 0
+
+seta = 0
+tana = at . & = 62.95°
+15.32
+From Eq. (1)
+Vmax = 30 tan 62.95° ~ 7.66 [1 + tan? (61.95)°]
+~ Vmax = A = 2171 m
+
+The maximum height h that can be reached by the ball is 21.71 mand angle « = 62.95°,
+Ans.
+
+As both the blocks are connected by a single wire, the acceleration of both the blocks will
+be the same.
+
+(i) Consider the FBD of Block B
+30x 9.81
+
+By Newton's second law, we have — 4)
+T
+LF, = ma, = 0 (s ay = 0) an
+Ng + Tsin 30° -30x 9.81 = 0 &
+Ng = 294.3 - Tsin 30° HaNe
+LF, = ma, |
+a: Ng (up = 0.4)
+T cos 30° ~ tg Ng = 30xa
+T cos 30° ~ 0.4 (294.3 ~ T sin 30°) = 30a
+T-28.14a = 110.43 cee (D
+Consider the FBD of Block A
+By Newton's second law, we have 120 x 9.81
+LF, = =0 (a= 0) a)
+LF, = may (say = 0)
+Ng ~ Tsin 30° ~ 120 x 9.81 = 0 S|
+Ny = 1177.24 Tsin 30° T 4 = P= 000N
+DF, = ma,
+600 ~ ty Ny — Teos 30° = 120xa HaNa
+600 ~ 0.25(1177.2 + T sin 30°) ~ T.cos 30° = 120a (44= 0.4)
+T + 121.094 = 308.476 oD),
+
+Solving Eqs. (1) and (II), we get
+T = 147.78 Nand a = 1.327 m/s? Ans.
 --- page 4 ---
 Q7a   [10]
 Calculation h1 and h2 equation – 6 marks, velocity calculation - 3 marks, height
@@ -1550,6 +2261,46 @@ Q7b   [10]
 equation and calculation of pulleys A and B – 4 marks each
 acceleration of A and B – 1 marks each
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+(i) Motion of first bateh Motion of second batch Motion of helicopter
+
+under gravity under gravity with constant velocity
+
+h= hy; h= hy; 1 = Asec
+
+1 = 4sec;g = -9.81 m/s? t= g = ~9.81 m/s? d = Speed x Time
+ha utt$ee A= utter d= uyx4
+
+Hy = uyx4 + 4(-9.81) «(42 | hy = uy x 8+ (9.81) x (5)?
+
+hy = ~4uy + 78.48 hy = ~Suyp+ 122.625
+
+(i) From Fig. 11.20, we have
+d=hy-h, (uy = uy = uy)
+Atuy = (Sty + 122.625) ~ (uy, + 78.48)
+
+uj, = 8.829 m/s is the velocity of helicopter Ans.
+
+(iii) Height from which first batch is released
+hy = ~4uy + 78.48
+hy = ~4 x 8.829 + 78.48
+
+hy = 43.164m Ans.
+
+M=I, a, and M=I, a,
+60 = % (30)(0.6)? a, = 5.4 a, and 60 = % (60)(1.2)? a, = 43.2 a,
+B A 60 = 5.4 a,— 43.2 a,......(A)
+Considering * -ve
+
+\ 0.6 a, = 1.2 a, => a,=2 a,
+| Eq. A=> 60=5.4x2a,-43.2 a,
+60Nm
+Q, =-1.85 rad/s?
+
+a, = 3.7rad/s?
+
+Acceleration at contact point is same
 ````
 
 ## 2025-26 · Re-Exam · Sem 2 · Answer key · paper c5e0c78e7b5a
@@ -1693,6 +2444,23 @@ Negative sign indicates that moment is in the clockwise direction.   [1 mark]
 Q7(c) Describe roller, hinge and fixed support with figure and example.   [3 marks]
 Also show the support reaction for all of them.   [3 marks]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+- Mechanical Advantage (MA) = Load / Effort
+
+W _ 3010
+MA= = = 7 = 483 ~ 43.0
+
+- Velocity Ratio (VR) = Distance moved by effort / Distance moved by load
+
+deffort 8 = 80
+
+VR= toad 0.1
+
+- Efficiency (n) = (MA / VR) \times 100%
+
+MA 43 5
+n= Tq X 100 = 5 x 100 = 53.75%
 ````
 
 ## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 422757f42227
@@ -1836,6 +2604,23 @@ Negative sign indicates that moment is in the clockwise direction.   [1 mark]
 Q7(c) Describe roller, hinge and fixed support with figure and example.   [3 marks]
 Also show the support reaction for all of them.   [3 marks]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+- Mechanical Advantage (MA) = Load / Effort
+
+W _ 3010
+MA= = = 7 = 483 ~ 43.0
+
+- Velocity Ratio (VR) = Distance moved by effort / Distance moved by load
+
+deffort 8 = 80
+
+VR= toad 0.1
+
+- Efficiency (n) = (MA / VR) \times 100%
+
+MA 43 5
+n= Tq X 100 = 5 x 100 = 53.75%
 ````
 
 ## 2025-26 · Re-Exam · Sem 2 · Answer key · paper 812f9c92ceaf
@@ -1979,6 +2764,23 @@ Negative sign indicates that moment is in the clockwise direction.   [1 mark]
 Q7(c) Describe roller, hinge and fixed support with figure and example.   [3 marks]
 Also show the support reaction for all of them.   [3 marks]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+- Mechanical Advantage (MA) = Load / Effort
+
+W _ 3010
+MA= = = 7 = 483 ~ 43.0
+
+- Velocity Ratio (VR) = Distance moved by effort / Distance moved by load
+
+deffort 8 = 80
+
+VR= toad 0.1
+
+- Efficiency (n) = (MA / VR) \times 100%
+
+MA 43 5
+n= Tq X 100 = 5 x 100 = 53.75%
 ````
 
 ## 2025-26 · Re-Exam · Sem 3 · Answer key · paper 736302d36c86
@@ -2893,6 +3695,7 @@ FRR ICR] DA KH
 - Source: `00_Original_Downloads/2024/Semester II/67783__Final-Exam__context_fixed.zip :: DIPLOMA IN INFORMATION TECHNOLOGY - 7075/Engineering Mechanics/ANS_Final-Exam_Engineering Mechanics(701ME0C026)_Semester II_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Apr 2025
 - Text: text (4 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2957,6 +3760,44 @@ Q4 b.   ∑M0 − [3 marks]
 d - m [1 marks]
 Location – [1 marks]
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Moment not a force
+
+20\N
+
+“XFy = 0 (upward forces+ve) |
+
+
+<M, =0 (anticlockwise moment +ve)
+
++[(20 x 2)x (2/2)] — (60 x 4)+ - 30 + (Vgx 9) —(20 x 11)=0
+Vz = (- 40+240 +30 +220)/9 = 450/9 = 50 kN
+
+Va = 120-50 =70kN
+
+- FREE BODY DIAGRAM[FBD]:
+= -1 (29 R
+8 = cos e) AB
+-@=60°
+Re
+
+APPROACH 1:
+
+- YxX=0 W =1000 N
+- Re —Ragcos60° =O -------
+
+* YY=0
+-- Rag sin 60° — 1000 = 0
+
+1000
+oR, =
+‘AB ‘sin 60°
+
+» Rag = 1154.7N
+
+¢ By solving equation I, we get
+R, = 577.35N
 --- page 3 ---
 FBD 4 marks
 Lamis equations 4
@@ -2973,6 +3814,44 @@ Equation 4 marks
 Calculationon of µ - 2 marks
 Q6 a.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+° FREE BODY DIAGRAM[FBD]:
+
+T. 120° Ts
+
+120°
+
+2S500N
+
+For Point B: .
+For Point C:
+According to Lami’s Theorem,
+According to Lami’s Theorem,
+
+T% _ 2500 =o
+$in600 — sin150° — sin150° —h_ _ 2500 _ _
+‘ ; $in120°   sin120° — sin120°
+2500 xsin60'
+« Ty = —.— = 4330.13 N 2500 xsin120°
+sin150° Ty = Zoo ssini20"
+Ts sin1200 2500N
+
+_ 2500 xsin150°
+sini50°
+
+= 2500N
+
+y XFy = 0
+ea R - 300 Sin60 = 0
+R= 259.80 N
+LFx =0
+
+P - 300c0s60 - pR= 0
+300N 240.93 — 150 - wx (259.80)= 0
+
+300 sin 60 H= 9.35
 --- page 4 ---
 5 marks calculation of table content
 5 marks calculation of Xc and Yc
@@ -3018,6 +3897,36 @@ Instructions:
 7. All questions carry equal marks.
 8. Assume Suitable data if necessary.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+2.4 Moment of Force
+
+The rotational effect produced by force is known as *
+
+moment of the force. In other words, the tendency of fF
+a force to rotate a rigid body about an axis is
+. d
+measured by the moment of the force about that axis.
+—_—
+
+Consider a rigid body which is acted upon by a force
+F as shown in Fig. 2.4-i. Let an axis perpendicular to
+the plane of the paper pass through point O. The
+force F will have a tendency to rotate the body about
+
+Fig. 2.4-i
+the axis through O. eee
+
+The moment of the force about an axis through O is My and is given as the product of magnitude
+of the force F and perpendicular distance d from O to the line of action of the force F.
+Mo = Fxd +-(2.3)
+
+Here point OQ is called the moment centre and d is called the moment arm. If F is in Newton and
+d is in meter then S.1. unit of moment of force is N-m.
+
+It is important to note that the moment will be zero if d= 0, i.e., the line of action of the force
+intersects the axis about which the moment is considered. Thus, force produces zero moment
+about any axis or reference point which intersect the line of action of the force.
 --- page 2 ---
 pet Laws of Friction
 
@@ -3617,6 +4526,7 @@ FRR ICR] DA KH
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/DIPLOMA IN COMPUTER ENGINEERING - 7073/Engineering Mechanics/ANS_Engineering Mechanics(701ME0C026)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Apr 2025
 - Text: text (4 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3681,6 +4591,44 @@ Q4 b.   ∑M0 − [3 marks]
 d - m [1 marks]
 Location – [1 marks]
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Moment not a force
+
+20\N
+
+“XFy = 0 (upward forces+ve) |
+
+
+<M, =0 (anticlockwise moment +ve)
+
++[(20 x 2)x (2/2)] — (60 x 4)+ - 30 + (Vgx 9) —(20 x 11)=0
+Vz = (- 40+240 +30 +220)/9 = 450/9 = 50 kN
+
+Va = 120-50 =70kN
+
+- FREE BODY DIAGRAM[FBD]:
+= -1 (29 R
+8 = cos e) AB
+-@=60°
+Re
+
+APPROACH 1:
+
+- YxX=0 W =1000 N
+- Re —Ragcos60° =O -------
+
+* YY=0
+-- Rag sin 60° — 1000 = 0
+
+1000
+oR, =
+‘AB ‘sin 60°
+
+» Rag = 1154.7N
+
+¢ By solving equation I, we get
+R, = 577.35N
 --- page 3 ---
 FBD 4 marks
 Lamis equations 4
@@ -3697,6 +4645,44 @@ Equation 4 marks
 Calculationon of µ - 2 marks
 Q6 a.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+° FREE BODY DIAGRAM[FBD]:
+
+T. 120° Ts
+
+120°
+
+2S500N
+
+For Point B: .
+For Point C:
+According to Lami’s Theorem,
+According to Lami’s Theorem,
+
+T% _ 2500 =o
+$in600 — sin150° — sin150° —h_ _ 2500 _ _
+‘ ; $in120°   sin120° — sin120°
+2500 xsin60'
+« Ty = —.— = 4330.13 N 2500 xsin120°
+sin150° Ty = Zoo ssini20"
+Ts sin1200 2500N
+
+_ 2500 xsin150°
+sini50°
+
+= 2500N
+
+y XFy = 0
+ea R - 300 Sin60 = 0
+R= 259.80 N
+LFx =0
+
+P - 300c0s60 - pR= 0
+300N 240.93 — 150 - wx (259.80)= 0
+
+300 sin 60 H= 9.35
 --- page 4 ---
 5 marks calculation of table content
 5 marks calculation of Xc and Yc
@@ -3720,6 +4706,7 @@ Calculation of Xc and Yc - 5 marks
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/DIPLOMA IN COMPUTER SCIENCE AND ENGINEE_04f07abf/Engineering Mechanics/ANS_Engineering Mechanics(701ME0C026)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Apr 2025
 - Text: text (4 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3784,6 +4771,44 @@ Q4 b.   ∑M0 − [3 marks]
 d - m [1 marks]
 Location – [1 marks]
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Moment not a force
+
+20\N
+
+“XFy = 0 (upward forces+ve) |
+
+
+<M, =0 (anticlockwise moment +ve)
+
++[(20 x 2)x (2/2)] — (60 x 4)+ - 30 + (Vgx 9) —(20 x 11)=0
+Vz = (- 40+240 +30 +220)/9 = 450/9 = 50 kN
+
+Va = 120-50 =70kN
+
+- FREE BODY DIAGRAM[FBD]:
+= -1 (29 R
+8 = cos e) AB
+-@=60°
+Re
+
+APPROACH 1:
+
+- YxX=0 W =1000 N
+- Re —Ragcos60° =O -------
+
+* YY=0
+-- Rag sin 60° — 1000 = 0
+
+1000
+oR, =
+‘AB ‘sin 60°
+
+» Rag = 1154.7N
+
+¢ By solving equation I, we get
+R, = 577.35N
 --- page 3 ---
 FBD 4 marks
 Lamis equations 4
@@ -3800,6 +4825,44 @@ Equation 4 marks
 Calculationon of µ - 2 marks
 Q6 a.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+° FREE BODY DIAGRAM[FBD]:
+
+T. 120° Ts
+
+120°
+
+2S500N
+
+For Point B: .
+For Point C:
+According to Lami’s Theorem,
+According to Lami’s Theorem,
+
+T% _ 2500 =o
+$in600 — sin150° — sin150° —h_ _ 2500 _ _
+‘ ; $in120°   sin120° — sin120°
+2500 xsin60'
+« Ty = —.— = 4330.13 N 2500 xsin120°
+sin150° Ty = Zoo ssini20"
+Ts sin1200 2500N
+
+_ 2500 xsin150°
+sini50°
+
+= 2500N
+
+y XFy = 0
+ea R - 300 Sin60 = 0
+R= 259.80 N
+LFx =0
+
+P - 300c0s60 - pR= 0
+300N 240.93 — 150 - wx (259.80)= 0
+
+300 sin 60 H= 9.35
 --- page 4 ---
 5 marks calculation of table content
 5 marks calculation of Xc and Yc
@@ -3823,6 +4886,7 @@ Calculation of Xc and Yc - 5 marks
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/DIPLOMA IN MECHANICAL ENGINEERING - 7072/Engineering Mechanics/ANS_Engineering Mechanics(701ME0C026)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Apr 2025
 - Text: text (4 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3887,6 +4951,44 @@ Q4 b.   ∑M0 − [3 marks]
 d - m [1 marks]
 Location – [1 marks]
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Moment not a force
+
+20\N
+
+“XFy = 0 (upward forces+ve) |
+
+
+<M, =0 (anticlockwise moment +ve)
+
++[(20 x 2)x (2/2)] — (60 x 4)+ - 30 + (Vgx 9) —(20 x 11)=0
+Vz = (- 40+240 +30 +220)/9 = 450/9 = 50 kN
+
+Va = 120-50 =70kN
+
+- FREE BODY DIAGRAM[FBD]:
+= -1 (29 R
+8 = cos e) AB
+-@=60°
+Re
+
+APPROACH 1:
+
+- YxX=0 W =1000 N
+- Re —Ragcos60° =O -------
+
+* YY=0
+-- Rag sin 60° — 1000 = 0
+
+1000
+oR, =
+‘AB ‘sin 60°
+
+» Rag = 1154.7N
+
+¢ By solving equation I, we get
+R, = 577.35N
 --- page 3 ---
 FBD 4 marks
 Lamis equations 4
@@ -3903,6 +5005,44 @@ Equation 4 marks
 Calculationon of µ - 2 marks
 Q6 a.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+° FREE BODY DIAGRAM[FBD]:
+
+T. 120° Ts
+
+120°
+
+2S500N
+
+For Point B: .
+For Point C:
+According to Lami’s Theorem,
+According to Lami’s Theorem,
+
+T% _ 2500 =o
+$in600 — sin150° — sin150° —h_ _ 2500 _ _
+‘ ; $in120°   sin120° — sin120°
+2500 xsin60'
+« Ty = —.— = 4330.13 N 2500 xsin120°
+sin150° Ty = Zoo ssini20"
+Ts sin1200 2500N
+
+_ 2500 xsin150°
+sini50°
+
+= 2500N
+
+y XFy = 0
+ea R - 300 Sin60 = 0
+R= 259.80 N
+LFx =0
+
+P - 300c0s60 - pR= 0
+300N 240.93 — 150 - wx (259.80)= 0
+
+300 sin 60 H= 9.35
 --- page 4 ---
 5 marks calculation of table content
 5 marks calculation of Xc and Yc
@@ -3968,6 +5108,20 @@ Q2 b.
 d = 1. 396 m [1 marks]
 Location – [1 marks]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+oy LKy =0
+x R-300 Sin60 =0
+R= 259.80 N
+
+XFx = 0
+
+P - 300cos60 - pR= 0
+
+P— 150 - 0.35 x (259.80)= 0
+300 Sin6o P-—150—-90.93=0
+
+P= 240.93 N
 --- page 2 ---
 Calculation of Fx and Fy – [6 marks]
 R - [1 marks]
@@ -3999,6 +5153,29 @@ P calculation 2 marks
 Q5 b.
 Max MA calculation 1 marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+290" 450 Sin60, _4450N im
+: c
+
+Al
+Tm 1m Ons
+} 250N
+
+> FX = 450 cos60 + 250 =475N According to Varignon’s
+
+> FY = 200 + 450 Sin60 + 300 = 889.71N Theorem, Rd= yma
+
+R= [EX)? + (EY)? = 999.68N .d=1.05m
+@=tan" | = 61.90° =
+ex R.d = Mc => d=0.07m
+
+> Mg, = 450 Sin60 (1) + 300 (2) + 250 (0.25) = 1052.21 Nm(Anti—clockwise)
+
+OR
+S Mc
+
+450 Sin60 (1) — 200 (2) + 250 (0.25) = 72.78 Nm(Anti—clockwise)
 --- page 3 ---
 Q6 a.
 FBD 2 Marks and Equation 3 marks
@@ -4825,6 +6002,20 @@ Q2 b.
 d = 1. 396 m [1 marks]
 Location – [1 marks]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+oy LKy =0
+x R-300 Sin60 =0
+R= 259.80 N
+
+XFx = 0
+
+P - 300cos60 - pR= 0
+
+P— 150 - 0.35 x (259.80)= 0
+300 Sin6o P-—150—-90.93=0
+
+P= 240.93 N
 --- page 2 ---
 Calculation of Fx and Fy – [6 marks]
 R - [1 marks]
@@ -4856,6 +6047,29 @@ P calculation 2 marks
 Q5 b.
 Max MA calculation 1 marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+290" 450 Sin60, _4450N im
+: c
+
+Al
+Tm 1m Ons
+} 250N
+
+> FX = 450 cos60 + 250 =475N According to Varignon’s
+
+> FY = 200 + 450 Sin60 + 300 = 889.71N Theorem, Rd= yma
+
+R= [EX)? + (EY)? = 999.68N .d=1.05m
+@=tan" | = 61.90° =
+ex R.d = Mc => d=0.07m
+
+> Mg, = 450 Sin60 (1) + 300 (2) + 250 (0.25) = 1052.21 Nm(Anti—clockwise)
+
+OR
+S Mc
+
+450 Sin60 (1) — 200 (2) + 250 (0.25) = 72.78 Nm(Anti—clockwise)
 --- page 3 ---
 Q6 a.
 FBD 2 Marks and Equation 3 marks

@@ -913,8 +913,8 @@ influence of the gouge. —In such cases use A.4 directly.
 - Programmes: B TECH / CIVIL, MBA TECH / CIVIL
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/ROCK MECHANICS/Rock Mechanics,Sem8,Final,2021-22.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 April 2022
-- Text: ocr (5 pages), mean OCR confidence 78.8
-- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: ocr (5 pages), mean OCR confidence 88.6
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 ged
@@ -1044,83 +1044,32 @@ BL-3
 
 aes
 --- page 4 ---
-a:
-% Ss @
-g's 2
-§ 5) 3
-o 21 Vv ° =
-ob
-£6 wn
-ES 0
-2.2/7 aes
-Qala eal a) So
-a Bas 2
-2 op = g
-om = Yel B=
-5 BIS a SB § na [ale
-m o/n a |View AaAO ClA A iy
-o
-‘=i
-3B &
-uc} wn g
-3
-egv o (2 |f
-a & 4s PS = l fas
-4 Pa) SE 38 & i a
-=| a) a = 542 male So Ole
-=
-> 4
-& =}
-@ S Pe
-5 eS 7
->es
-a = w 2 ele be fon)
-7 vy mee a ? t ls
-Se =
-. So eos old :
-4 RB n|S|S Annvea al = So Sle
-4
-ob
-6 6s
-= fea,
-peo ede
-a g 23gez o |- lf
-S ! > os & = ob Sc : =
-si = aldAln pol ot | > a A|o
-+ (2 {Sjej= Aanvy Ai Vv v jAal=
-fy 3
-424925 a
-mo SS
-24 Ese 3
-> g Eas a.
-S £59 o
-s |g z Pees 2 5 5
-ta 5 o wo
-x +N 2IRIR > Sao) ale oc ones
-o
-a AB 2
-S 13 g =| 5
-BD .
-eg |en Roe s/s
-22/85! is £ ~ Beals
-3 3 & = a S| Oo
-_|2a/.33 Ba z SELES
-a ere Be 9 ra e 2.2/8
-$)3 6|8 2 & S 28/38/38
-27s 8/85| le 2g 2eiSeis
-§(a -3[p @ = 3 Lea! nalied
-9 S
-3 = ‘S
-SIS 4 ° S
-sé6c & & g
-‘mF po | S| oo = 20| 5 %
-aos s/—|.¢ 3 4 &
-532 B/E) 3 5 gi S
-BSs so | a | a c y
-n.a & ml Al x oe | 0
-“ nN wv ”
-
-by
+* = —
+TABLE 3.7A Classification Parameters and Their Ratings
+Parameter Range of values
+1 | Strength of | Point-load strength >10 4-10 2-4 1-2 For this low range uniaxial
+intact rock | index (MPa) compressive test is preferred
+material Uniaxial compressive | >250 100-250 50-100 25-50 5-25 ‘1-5 <1
+strength (MPa)
+Rating 15 12 7 4 2 1 0
+2 |Drill core quality ROD (%) 90-100 75-90 50-75 25-50 <25
+Rating 20 17 13 8 3
+3 | Spacing of discontinuitics (mm) > 2000 600-2000 200-600 60-200 <60
+Rating 20 15 10 8 5
+4 | Condition of discontinuities Very rough Slightly rough | Slightly rough | Slicken sided Soft gouge >5 mm thick;
+(See Table 3.7E) surfaces; Not | surfaces; surfaces; surfaces; Separation > 5 mm;
+continuous; Separation Separation Gouge <5 mm_ | Continuous
+No separation, |< 1 mm; <1lmm; thick;
+Unweathered _| Slightly Highly Separation
+wall rock weathered weathered 1-5 mm;
+walls walls Continuous
+Rating 30 25 20 10 0
+5 |Ground Inflow per 10 m None <10 10-25 25-125 > 125
+water tunnel length (I/m)
+(Joint water press)/ 0 <0.1 0.1-0.2 0.2-0.5 >0.5
+(Major principal 0)
+General conditions Completely dry | Damp Wet Dripping Flowing
+Rating 15 10 7 4 0
 --- page 5 ---
 TABLE 3.7B Rating Adjustment for Discontinuity Adjustments (see Table 3.7F)}
 
@@ -1173,8 +1122,8 @@ favourable unfavourable
 - Programmes: B TECH / CIVIL, MBA TECH / CIVIL
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/ROCK MECHANICS/Rock Mechanics , Re-exam 2021-2022.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
-- Text: ocr (5 pages), mean OCR confidence 78.3
-- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: ocr (5 pages), mean OCR confidence 87.6
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 SVKM’s NMIMS
@@ -1297,81 +1246,34 @@ BL-3 fold.
 3 Page
 5
 --- page 4 ---
-=o
-Ser a
-23 3
-Sala é..
-9 SLV =] e&
-Py £8
-gs 2 wn
-> Cin AN s
-621 eg 3
-Bala a woes
-a & Bas oo
-BE EE wa g
-SEIS | |g| |e Be a i4 |.
-© sil ba 6 eas = S &
-<
-r=
-3B & o
-209 6.8 .
-Bla 12 a] |] (SEBS ao se IT ly |e
-Sj ra) w So Bsofs oD) Sicin N =]
-ai nN TIN| OWL Slol/ A AOBHAVI AN So Alix
->
-> s
-2 EY
-Rd 6 g 73
-§ o Se © an 8
-& S we g SSsuaens wo |
-S ~ i S8¢8s22 a |F .
-1 lo | ldlelSlelBEEc Be slele [2 lz
-(Ss = es :
-a a rn /H/RK|Al/H|A RAV EE Fala s Bn
-s
-p
-=)
-5 <
-S S So So 3
-A Ss Besse eo
-_ co aq S22: feesaen a
-eid F| jd] |SS Rees) je [5 [8
-+ = —|rl—H|SiAlGZ auavn se Fini v Vv Al=
-os fay
-we os BS)
-S88 :
-a2Ze tg ploy
-ee sBEZs 2
-wn 3S
-8) ig] |ESEeEE 3
-oS &
-c |& 7 iS|_|e€222s g z
-= a mloroe o|eg J (om) ‘ny
-A KR j|=|S/RlAlRIF RSZBE |R|/Z lo [ols
-o
-. | _lmele
-mB 18 2 ele 2} s
-o f=] etl 4alse
-$ Es = Ea e2 gis
-& aS & a os|aEBS
-| => 4 o Ss cele
-Cel 8 BS 2 3 | 5.216
-3s og Q 8 3 Bais tay
-S2lss Q 3 5 a8) eo
-nla Sie & lod I =i roll BIS
-Sit «| 3 BP & & = 5 2\e se
-|e 8/3 38 B| 18 28/64) 5
-=|'5 I ‘ os
-iL 2/532] |) 18) |26 S2\24/5
-2 Ss 2 Tn
-Sie 2, [S| ise
-ox ° S go
-28s 6 ob | 3
-OS Si—|8|5|s/3 els f=]
-og 3/5/35) 2/6) 2 9 2/52 Ba!
-BSS s/e|slairs|/ eg ess CI
-m.8 ~|Olm|aim/oe xw|O 8 i
-—_ nN fon] vr a)
+a «
+
+TABLE 3.7A Classification Parameters and Their Ratings
+
+Parameter Range of values
+1 | Strength of | Point-load strength >10 4-10 2-4 1-2 For this low range uniaxial
+intact rock | index (MPa) compressive test is preferred
+material Uniaxial compressive | >250 100-250 50-100 25-50 5-25 |1-5 | <1 ‘
+strength (MPa)
+Rating 15 12 7 4 2 1 0
+2 | Drill core quality ROD (%) 90-100 75-90 50-75 25-50 <25
+Rating 20 17 13 8 3
+3 | Spacing of discontinuities (mm) > 2000 600-2000 200-600 60-200 <60
+Rating 20 15 10 8 5
+4 | Condition of discontinuities Very rough Slightly rough | Slightly rough | Slicken sided | Soft gouge >5 mm thick,
+(See Table 3.7E) surfaces; Not | surfaces; surfaces; surfaces; Separation > 5 mm;
+continuous; Separation Separation Gouge <5 mm _ | Continuous
+No separation, |< 1 mm, <imm; thick;
+Unweathered | Slightly Highly Separation
+wall rock weathered weathered 1-5 mm;
+walls walls Continuous *
+Rating 30 25 20 10 0
+5 | Ground Inflow per 10m None <10 10-25 25-125 > 125
+water tunnel length (/m)
+(Joint water press)/ 0 <0.1 0.1-0.2 0.2 -0.5 >0.5
+(Major principal 0)
+General conditions Completely dry | Damp Wet Dripping Flowing
+Rating 15 10 7 4 0
 --- page 5 ---
 TABLE 3.7B Rating Adjustment for Discontinuity Adjustments (see Table 3.7F)
 

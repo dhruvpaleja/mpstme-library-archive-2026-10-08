@@ -881,7 +881,37 @@ Significance level
 - Departments: Computer Engineering
 - Programmes: Integrated Computer 7032
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_Computer_7032/Data Analytics/data_set_Data Analytics(702DB0I001)_2025-2026.xlsx`
-- Text: none (spreadsheet data set; no question text)
+- Text: xlsx (1 sheet)
+
+````text
+Sheet "Dataset2_sales_data": 50533 rows, 13 columns; the first 25 rows are shown, the full data set is in the original file
+
+datum | M01AB | M01AE | N02BA | N02BE | N05B | N05C | R03 | R06 | Year | Month | Hour | Weekday Name
+1/2/2014 8:00 | 0 | 0.67 | 0.4 | 2 | 0 | 0 | 0 | 1 | 2014 | 1 | 8 | Thursday
+1/2/2014 9:00 | 0 | 0 | 1 | 0 | 2 | 0 | 0 | 0 | 2014 | 1 | 9 | Thursday
+1/2/2014 10:00 | 0 | 0 | 0 | 3 | 2 | 0 | 0 | 0 | 2014 | 1 | 10 | Thursday
+1/2/2014 11:00 | 0 | 0 | 0 | 2 | 1 | 0 | 0 | 0 | 2014 | 1 | 11 | Thursday
+1/2/2014 12:00 | 0 | 2 | 0 | 5 | 2 | 0 | 0 | 0 | 2014 | 1 | 12 | Thursday
+1/2/2014 13:00 | 0 | 1 | 2 | 20.4 | 0 | 0 | 0 | 1 | 2014 | 1 | 13 | Thursday
+1/2/2014 14:00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2014 | 1 | 14 | Thursday
+1/2/2014 15:00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2014 | 1 | 15 | Thursday
+1/2/2014 16:00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2014 | 1 | 16 | Thursday
+1/2/2014 17:00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2014 | 1 | 17 | Thursday
+1/2/2014 18:00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2014 | 1 | 18 | Thursday
+1/2/2014 19:00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2014 | 1 | 19 | Thursday
+1/2/2014 20:00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2014 | 1 | 20 | Thursday
+1/2/2014 21:00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2014 | 1 | 21 | Thursday
+1/2/2014 22:00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2014 | 1 | 22 | Thursday
+1/2/2014 23:00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2014 | 1 | 23 | Thursday
+1/3/2014 0:00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2014 | 1 | 0 | Friday
+1/3/2014 1:00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2014 | 1 | 1 | Friday
+1/3/2014 2:00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2014 | 1 | 2 | Friday
+1/3/2014 3:00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2014 | 1 | 3 | Friday
+1/3/2014 4:00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2014 | 1 | 4 | Friday
+1/3/2014 5:00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2014 | 1 | 5 | Friday
+1/3/2014 6:00 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2014 | 1 | 6 | Friday
+1/3/2014 7:00 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 2014 | 1 | 7 | Friday
+````
 
 ## 2024-25 · Final-Exam · Sem 5 · paper 8da063ae9433
 

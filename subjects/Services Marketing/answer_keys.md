@@ -145,6 +145,30 @@ measures.
 • Offer a refund or ride credit as compensation for the inconvenience.
 • Provide discounted or free rides for future use to restore goodwill.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+ON
+seven Service Quality Gaps
+
+Customer needs Cc USTOME R
+and expectations specenosacvececcnancnccesosessedsevsvesehaocsdenesaceo1 racoupanapenesesauensyasesnseeopescasnassceet
+1. Knowledge Gap
+Man, it definiti
+hepeient detation MANAGEMENT
+2. Standards Gap
+Translation into
+design/delivery specs
+3. Delivery Gap
+Execution of 4. |.C.Gap Advertising and
+| Semaine seat] [|
+5. Perceptions Gap 6. Interpretation Gap
+Customer perceptions Customer interpretation [a teceneecssssersessseseeeede
+of product execution of communications
+| J
+7. Service |Gap
+Customer experience
+
+relative to expectations
 --- page 6 ---
 3. Driver Accountability and Training
 •   Investigate the driver’s actions and take necessary disciplinary measures (warnings, penalties,

@@ -40,6 +40,34 @@ Explain the Role of an auditor while using the work of the management expert?
 A.   8
 B.   7
 Page 2 of 3
+
+[Text in pictures on this page, read by OCR]
+Living Well Private Limited is engaged in the manufacturing and export of floor coverings.
+Such products are labour-intensive and do not require much capital investment in machinery.
+The company has no plans to diversify into other product lines. Its directors also hold
+significant interests in another company, “My Living Private Limited”, which manufactures
+blankets using capital-intensive machinery.
+
+During the audit of “My Living Private Limited”, it was noted that the company had sold
+machinery valued at = 1 crore to “Living Well Private Limited” during the year. The
+transaction has been done at normal market rates applicable to such used machinery.
+
+How do you view the above transaction as an auditor of “My Living Private Limited’’?
+
+Coccyx Ltd. supplies navy uniforms across the country. The company has 3 warehouses at
+different locations throughout India and 5 warehouses at borders. The major stocks are
+generally supplied from the borders. Coccyx Ltd. appointed M/s OPAQE & Co. to conduct
+its audit for the financial year 2023-24. Mr. P, partner of M/s OPAQE & Co., attended all the
+physical inventory counting conducted throughout India but could not attend the same at
+borders due to some unavoidable reason.
+
+You are required to advise M/s OPAQE & Co.,
+
+(I) How sufficient appropriate audit evidence regarding the existence and condition of
+inventory may be obtained?
+
+(II) How is an auditor supposed to deal when attendance at physical inventory counting is
+impracticable?
 --- page 3 ---
 4.
 

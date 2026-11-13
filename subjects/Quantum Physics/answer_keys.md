@@ -93,6 +93,44 @@ CO2 B. Evaluate which of the following functions are eigenfunctions of the momen
 , BL   operator (k is a constant): (a) 𝑒𝑖𝑘𝑥 (b) kx (c) sin kx.
 2, 3
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The radius of the nucleus of an atoms is of the order of 10° m. If an electron is confined within
+the nucleus, the uncertainty in its position must not be greater than 10 m. According to
+uncertainty principle for the lowest limit of accuracy
+
+Ax AP=*
+20
+
+Where Ax is uncertainty in the position and AP is the uncertainty in the momentum.
+
+h 6.625x 107** ‘:
+AP=— — (as AX = diameter of nucleus)
+2mAX 2x3.14x2x10714
+
+AP = =5.275 x 107! kg m/sec
+
+This is the uncertainty in momentum of the electron. It means the momentum of the electron
+would not be less than AP, rather it could be comparable to AP. Thus
+
+AP = = 5.275 x 107! kg m/sec
+The kinetic energy of the electron can be obtained in terms of momentum as
+7 =% mv?= p?/2m
+
+_ ($.275x10~2 )?
+2x9.1x10732
+
+(5.275x10-21_ )*
+2x9.1x10731x1.6x10719
+
+eV
+=95.55x 10%eV
+= 96MeV
+
+From the above result, it is clear that the electrons inside the nucleus may exist only when it
+possesses the energy of the order of 96 MeV. However, the maximum possible kinetic energy of
+an electron emitted by radioactive nuclei has been found about 4MeV. Hence, it is concluded
+that the electron cannot reside in the nucleus.
 --- page 4 ---
 It is an eigen function.
 Not an eigen function.
@@ -255,6 +293,23 @@ CO3 C. In an STM, the work function is ϕ=9 eV. Calculate the ratio of tunneli
 BL-
 2, 3   Formula   2M
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+e Inside the nucleus, the alpha particle has energy E less than the Coulomb
+barrier height Uo.
+
+e Classically, escape from the nucleus is impossible since E < Up.
+
+e Quantum mechanically, the alpha particle wavefunction penetrates the
+barrier:
+¥(r) «eo *"
+e The tunnelling probability is approximately:
+
+T x ent
+
+where L is the width of the nuclear barrier.
+
+e This tunnelling probability determines the half-life of radioactive nuclei.
 --- page 10 ---
 ϕ=9 eV   Hence,
 = 1.53 x 1010 m-1   1M
@@ -427,6 +482,45 @@ CO2 B. Evaluate which of the following functions are eigenfunctions of the momen
 , BL   operator (k is a constant): (a) 𝑒𝑖𝑘𝑥 (b) kx (c) sin kx.
 2, 3
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The radius of the nucleus of an atoms is of the order of 10° m. If an electron is confined within
+the nucleus, the uncertainty in its position must not be greater than 104 m. According to
+uncertainty principle for the lowest limit of accuracy
+
+Ax AP= =
+2n
+
+Where Ax is uncertainty in the position and AP is the uncertainty in the momentum.
+
+h 6.625% 10-** ;
+AP=—— = (as AX = diameter of nucleus)
+2mAX 2x3.14x2x107-**
+
+AP = =5.275 x 107! kg m/sec
+
+This is the uncertainty in momentum of the electron. It means the momentum of the electron
+would not be less than AP, rather it could be comparable to AP. Thus
+
+AP = =5.275 x 107! kg m/sec
+The kinetic energy of the electron can be obtained in terms of momentum as
+T =%mv?=p?/2m
+
+_ (8275x1072? 9?
+2x9.1x10731
+
+5.275x1072_)*
+= — 27510" ) eV
+
+2x9.1x10731x1.6x10719
+
+=95.55x 10%eV
+= 96MeV
+
+From the above result, it is clear that the electrons inside the nucleus may exist only when it
+possesses the energy of the order of 96 MeV. However, the maximum possible kinetic energy of
+an electron emitted by radioactive nuclei has been found about 4MeV. Hence, it is concluded
+that the electron cannot reside in the nucleus.
 --- page 4 ---
 ---------------------------- 2marks
 It is an eigen function.
@@ -590,6 +684,23 @@ Entanglement Condition –2M, Calculation-4M
 CO3 C. In an STM, the work function is ϕ=9 eV. Calculate the ratio of tunneling currents   [4]
 ,   when distance changes from 0.4 nm to 0.5 nm.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+e Inside the nucleus, the alpha particle has energy E less than the Coulomb
+barrier height Uo.
+
+@ Classically, escape from the nucleus is impossible since E < Uo.
+e Quantum mechanically, the alpha particle wavefunction penetrates the
+
+barrier:
+kr
+
+U(r) x EF
+e The tunnelling probability is approximately:
+T x enn
+where L is the width of the nuclear barrier.
+
+e This tunnelling probability determines the half-life of radioactive nuclei.
 --- page 10 ---
 BL-
 2, 3   Formula   2M
@@ -761,6 +872,45 @@ CO2 B. Evaluate which of the following functions are eigenfunctions of the momen
 , BL   operator (k is a constant): (a) 𝑒𝑖𝑘𝑥 (b) kx (c) sin kx.
 2, 3
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The radius of the nucleus of an atoms is of the order of 10° m. If an electron is confined within
+the nucleus, the uncertainty in its position must not be greater than 104 m. According to
+uncertainty principle for the lowest limit of accuracy
+
+Ax AP= =
+2n
+
+Where Ax is uncertainty in the position and AP is the uncertainty in the momentum.
+
+h 6.625% 10-** ;
+AP=—— = (as AX = diameter of nucleus)
+2mAX 2x3.14x2x107-**
+
+AP = =5.275 x 107! kg m/sec
+
+This is the uncertainty in momentum of the electron. It means the momentum of the electron
+would not be less than AP, rather it could be comparable to AP. Thus
+
+AP = =5.275 x 107! kg m/sec
+The kinetic energy of the electron can be obtained in terms of momentum as
+T =%mv?=p?/2m
+
+_ (8275x1072? 9?
+2x9.1x10731
+
+5.275x1072_)*
+= — 27510" ) eV
+
+2x9.1x10731x1.6x10719
+
+=95.55x 10%eV
+= 96MeV
+
+From the above result, it is clear that the electrons inside the nucleus may exist only when it
+possesses the energy of the order of 96 MeV. However, the maximum possible kinetic energy of
+an electron emitted by radioactive nuclei has been found about 4MeV. Hence, it is concluded
+that the electron cannot reside in the nucleus.
 --- page 4 ---
 ---------------------------- 2marks
 It is an eigen function.
@@ -924,6 +1074,23 @@ Entanglement Condition –2M, Calculation-4M
 CO3 C. In an STM, the work function is ϕ=9 eV. Calculate the ratio of tunneling currents   [4]
 ,   when distance changes from 0.4 nm to 0.5 nm.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+e Inside the nucleus, the alpha particle has energy E less than the Coulomb
+barrier height Uo.
+
+@ Classically, escape from the nucleus is impossible since E < Uo.
+e Quantum mechanically, the alpha particle wavefunction penetrates the
+
+barrier:
+kr
+
+U(r) x EF
+e The tunnelling probability is approximately:
+T x enn
+where L is the width of the nuclear barrier.
+
+e This tunnelling probability determines the half-life of radioactive nuclei.
 --- page 10 ---
 BL-
 2, 3   Formula   2M
@@ -1095,6 +1262,45 @@ CO2 B. Evaluate which of the following functions are eigenfunctions of the momen
 , BL   operator (k is a constant): (a) 𝑒𝑖𝑘𝑥 (b) kx (c) sin kx.
 2, 3
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The radius of the nucleus of an atoms is of the order of 10° m. If an electron is confined within
+the nucleus, the uncertainty in its position must not be greater than 104 m. According to
+uncertainty principle for the lowest limit of accuracy
+
+Ax AP= =
+2n
+
+Where Ax is uncertainty in the position and AP is the uncertainty in the momentum.
+
+h 6.625% 10-** ;
+AP=—— = (as AX = diameter of nucleus)
+2mAX 2x3.14x2x107-**
+
+AP = =5.275 x 107! kg m/sec
+
+This is the uncertainty in momentum of the electron. It means the momentum of the electron
+would not be less than AP, rather it could be comparable to AP. Thus
+
+AP = =5.275 x 107! kg m/sec
+The kinetic energy of the electron can be obtained in terms of momentum as
+T =%mv?=p?/2m
+
+_ (8275x1072? 9?
+2x9.1x10731
+
+5.275x1072_)*
+= — 27510" ) eV
+
+2x9.1x10731x1.6x10719
+
+=95.55x 10%eV
+= 96MeV
+
+From the above result, it is clear that the electrons inside the nucleus may exist only when it
+possesses the energy of the order of 96 MeV. However, the maximum possible kinetic energy of
+an electron emitted by radioactive nuclei has been found about 4MeV. Hence, it is concluded
+that the electron cannot reside in the nucleus.
 --- page 4 ---
 ---------------------------- 2marks
 It is an eigen function.
@@ -1258,6 +1464,23 @@ Entanglement Condition –2M, Calculation-4M
 CO3 C. In an STM, the work function is ϕ=9 eV. Calculate the ratio of tunneling currents   [4]
 ,   when distance changes from 0.4 nm to 0.5 nm.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+e Inside the nucleus, the alpha particle has energy E less than the Coulomb
+barrier height Uo.
+
+@ Classically, escape from the nucleus is impossible since E < Uo.
+e Quantum mechanically, the alpha particle wavefunction penetrates the
+
+barrier:
+kr
+
+U(r) x EF
+e The tunnelling probability is approximately:
+T x enn
+where L is the width of the nuclear barrier.
+
+e This tunnelling probability determines the half-life of radioactive nuclei.
 --- page 10 ---
 BL-
 2, 3   Formula   2M
@@ -1429,6 +1652,45 @@ CO2 B. Evaluate which of the following functions are eigenfunctions of the momen
 , BL   operator (k is a constant): (a) 𝑒𝑖𝑘𝑥 (b) kx (c) sin kx.
 2, 3
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The radius of the nucleus of an atoms is of the order of 10° m. If an electron is confined within
+the nucleus, the uncertainty in its position must not be greater than 104 m. According to
+uncertainty principle for the lowest limit of accuracy
+
+Ax AP= =
+2n
+
+Where Ax is uncertainty in the position and AP is the uncertainty in the momentum.
+
+h 6.625% 10-** ;
+AP=—— = (as AX = diameter of nucleus)
+2mAX 2x3.14x2x107-**
+
+AP = =5.275 x 107! kg m/sec
+
+This is the uncertainty in momentum of the electron. It means the momentum of the electron
+would not be less than AP, rather it could be comparable to AP. Thus
+
+AP = =5.275 x 107! kg m/sec
+The kinetic energy of the electron can be obtained in terms of momentum as
+T =%mv?=p?/2m
+
+_ (8275x1072? 9?
+2x9.1x10731
+
+5.275x1072_)*
+= — 27510" ) eV
+
+2x9.1x10731x1.6x10719
+
+=95.55x 10%eV
+= 96MeV
+
+From the above result, it is clear that the electrons inside the nucleus may exist only when it
+possesses the energy of the order of 96 MeV. However, the maximum possible kinetic energy of
+an electron emitted by radioactive nuclei has been found about 4MeV. Hence, it is concluded
+that the electron cannot reside in the nucleus.
 --- page 4 ---
 ---------------------------- 2marks
 It is an eigen function.
@@ -1592,6 +1854,23 @@ Entanglement Condition –2M, Calculation-4M
 CO3 C. In an STM, the work function is ϕ=9 eV. Calculate the ratio of tunneling currents   [4]
 ,   when distance changes from 0.4 nm to 0.5 nm.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+e Inside the nucleus, the alpha particle has energy E less than the Coulomb
+barrier height Uo.
+
+@ Classically, escape from the nucleus is impossible since E < Uo.
+e Quantum mechanically, the alpha particle wavefunction penetrates the
+
+barrier:
+kr
+
+U(r) x EF
+e The tunnelling probability is approximately:
+T x enn
+where L is the width of the nuclear barrier.
+
+e This tunnelling probability determines the half-life of radioactive nuclei.
 --- page 10 ---
 BL-
 2, 3   Formula   2M
@@ -1763,6 +2042,45 @@ CO2 B. Evaluate which of the following functions are eigenfunctions of the momen
 , BL   operator (k is a constant): (a) 𝑒𝑖𝑘𝑥 (b) kx (c) sin kx.
 2, 3
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The radius of the nucleus of an atoms is of the order of 10° m. If an electron is confined within
+the nucleus, the uncertainty in its position must not be greater than 104 m. According to
+uncertainty principle for the lowest limit of accuracy
+
+Ax AP= =
+2n
+
+Where Ax is uncertainty in the position and AP is the uncertainty in the momentum.
+
+h 6.625% 10-** ;
+AP=—— = (as AX = diameter of nucleus)
+2mAX 2x3.14x2x107-**
+
+AP = =5.275 x 107! kg m/sec
+
+This is the uncertainty in momentum of the electron. It means the momentum of the electron
+would not be less than AP, rather it could be comparable to AP. Thus
+
+AP = =5.275 x 107! kg m/sec
+The kinetic energy of the electron can be obtained in terms of momentum as
+T =%mv?=p?/2m
+
+_ (8275x1072? 9?
+2x9.1x10731
+
+5.275x1072_)*
+= — 27510" ) eV
+
+2x9.1x10731x1.6x10719
+
+=95.55x 10%eV
+= 96MeV
+
+From the above result, it is clear that the electrons inside the nucleus may exist only when it
+possesses the energy of the order of 96 MeV. However, the maximum possible kinetic energy of
+an electron emitted by radioactive nuclei has been found about 4MeV. Hence, it is concluded
+that the electron cannot reside in the nucleus.
 --- page 4 ---
 ---------------------------- 2marks
 It is an eigen function.
@@ -1926,6 +2244,23 @@ Entanglement Condition –2M, Calculation-4M
 CO3 C. In an STM, the work function is ϕ=9 eV. Calculate the ratio of tunneling currents   [4]
 ,   when distance changes from 0.4 nm to 0.5 nm.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+e Inside the nucleus, the alpha particle has energy E less than the Coulomb
+barrier height Uo.
+
+@ Classically, escape from the nucleus is impossible since E < Uo.
+e Quantum mechanically, the alpha particle wavefunction penetrates the
+
+barrier:
+kr
+
+U(r) x EF
+e The tunnelling probability is approximately:
+T x enn
+where L is the width of the nuclear barrier.
+
+e This tunnelling probability determines the half-life of radioactive nuclei.
 --- page 10 ---
 BL-
 2, 3   Formula   2M
@@ -2097,6 +2432,45 @@ CO2 B. Evaluate which of the following functions are eigenfunctions of the momen
 , BL   operator (k is a constant): (a) 𝑒𝑖𝑘𝑥 (b) kx (c) sin kx.
 2, 3
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The radius of the nucleus of an atoms is of the order of 10° m. If an electron is confined within
+the nucleus, the uncertainty in its position must not be greater than 104 m. According to
+uncertainty principle for the lowest limit of accuracy
+
+Ax AP= =
+2n
+
+Where Ax is uncertainty in the position and AP is the uncertainty in the momentum.
+
+h 6.625% 10-** ;
+AP=—— = (as AX = diameter of nucleus)
+2mAX 2x3.14x2x107-**
+
+AP = =5.275 x 107! kg m/sec
+
+This is the uncertainty in momentum of the electron. It means the momentum of the electron
+would not be less than AP, rather it could be comparable to AP. Thus
+
+AP = =5.275 x 107! kg m/sec
+The kinetic energy of the electron can be obtained in terms of momentum as
+T =%mv?=p?/2m
+
+_ (8275x1072? 9?
+2x9.1x10731
+
+5.275x1072_)*
+= — 27510" ) eV
+
+2x9.1x10731x1.6x10719
+
+=95.55x 10%eV
+= 96MeV
+
+From the above result, it is clear that the electrons inside the nucleus may exist only when it
+possesses the energy of the order of 96 MeV. However, the maximum possible kinetic energy of
+an electron emitted by radioactive nuclei has been found about 4MeV. Hence, it is concluded
+that the electron cannot reside in the nucleus.
 --- page 4 ---
 ---------------------------- 2marks
 It is an eigen function.
@@ -2260,6 +2634,23 @@ Entanglement Condition –2M, Calculation-4M
 CO3 C. In an STM, the work function is ϕ=9 eV. Calculate the ratio of tunneling currents   [4]
 ,   when distance changes from 0.4 nm to 0.5 nm.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+e Inside the nucleus, the alpha particle has energy E less than the Coulomb
+barrier height Uo.
+
+@ Classically, escape from the nucleus is impossible since E < Uo.
+e Quantum mechanically, the alpha particle wavefunction penetrates the
+
+barrier:
+kr
+
+U(r) x EF
+e The tunnelling probability is approximately:
+T x enn
+where L is the width of the nuclear barrier.
+
+e This tunnelling probability determines the half-life of radioactive nuclei.
 --- page 10 ---
 BL-
 2, 3   Formula   2M
@@ -2431,6 +2822,45 @@ CO2 B. Evaluate which of the following functions are eigenfunctions of the momen
 , BL   operator (k is a constant): (a) 𝑒𝑖𝑘𝑥 (b) kx (c) sin kx.
 2, 3
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The radius of the nucleus of an atoms is of the order of 10° m. If an electron is confined within
+the nucleus, the uncertainty in its position must not be greater than 104 m. According to
+uncertainty principle for the lowest limit of accuracy
+
+Ax AP= =
+2n
+
+Where Ax is uncertainty in the position and AP is the uncertainty in the momentum.
+
+h 6.625% 10-** ;
+AP=—— = (as AX = diameter of nucleus)
+2mAX 2x3.14x2x107-**
+
+AP = =5.275 x 107! kg m/sec
+
+This is the uncertainty in momentum of the electron. It means the momentum of the electron
+would not be less than AP, rather it could be comparable to AP. Thus
+
+AP = =5.275 x 107! kg m/sec
+The kinetic energy of the electron can be obtained in terms of momentum as
+T =%mv?=p?/2m
+
+_ (8275x1072? 9?
+2x9.1x10731
+
+5.275x1072_)*
+= — 27510" ) eV
+
+2x9.1x10731x1.6x10719
+
+=95.55x 10%eV
+= 96MeV
+
+From the above result, it is clear that the electrons inside the nucleus may exist only when it
+possesses the energy of the order of 96 MeV. However, the maximum possible kinetic energy of
+an electron emitted by radioactive nuclei has been found about 4MeV. Hence, it is concluded
+that the electron cannot reside in the nucleus.
 --- page 4 ---
 ---------------------------- 2marks
 It is an eigen function.
@@ -2594,6 +3024,23 @@ Entanglement Condition –2M, Calculation-4M
 CO3 C. In an STM, the work function is ϕ=9 eV. Calculate the ratio of tunneling currents   [4]
 ,   when distance changes from 0.4 nm to 0.5 nm.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+e Inside the nucleus, the alpha particle has energy E less than the Coulomb
+barrier height Uo.
+
+@ Classically, escape from the nucleus is impossible since E < Uo.
+e Quantum mechanically, the alpha particle wavefunction penetrates the
+
+barrier:
+kr
+
+U(r) x EF
+e The tunnelling probability is approximately:
+T x enn
+where L is the width of the nuclear barrier.
+
+e This tunnelling probability determines the half-life of radioactive nuclei.
 --- page 10 ---
 BL-
 2, 3   Formula   2M
@@ -2765,6 +3212,45 @@ CO2 B. Evaluate which of the following functions are eigenfunctions of the momen
 , BL   operator (k is a constant): (a) 𝑒𝑖𝑘𝑥 (b) kx (c) sin kx.
 2, 3
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The radius of the nucleus of an atoms is of the order of 10° m. If an electron is confined within
+the nucleus, the uncertainty in its position must not be greater than 104 m. According to
+uncertainty principle for the lowest limit of accuracy
+
+Ax AP= =
+2n
+
+Where Ax is uncertainty in the position and AP is the uncertainty in the momentum.
+
+h 6.625% 10-** ;
+AP=—— = (as AX = diameter of nucleus)
+2mAX 2x3.14x2x107-**
+
+AP = =5.275 x 107! kg m/sec
+
+This is the uncertainty in momentum of the electron. It means the momentum of the electron
+would not be less than AP, rather it could be comparable to AP. Thus
+
+AP = =5.275 x 107! kg m/sec
+The kinetic energy of the electron can be obtained in terms of momentum as
+T =%mv?=p?/2m
+
+_ (8275x1072? 9?
+2x9.1x10731
+
+5.275x1072_)*
+= — 27510" ) eV
+
+2x9.1x10731x1.6x10719
+
+=95.55x 10%eV
+= 96MeV
+
+From the above result, it is clear that the electrons inside the nucleus may exist only when it
+possesses the energy of the order of 96 MeV. However, the maximum possible kinetic energy of
+an electron emitted by radioactive nuclei has been found about 4MeV. Hence, it is concluded
+that the electron cannot reside in the nucleus.
 --- page 4 ---
 ---------------------------- 2marks
 It is an eigen function.
@@ -2928,6 +3414,23 @@ Entanglement Condition –2M, Calculation-4M
 CO3 C. In an STM, the work function is ϕ=9 eV. Calculate the ratio of tunneling currents   [4]
 ,   when distance changes from 0.4 nm to 0.5 nm.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+e Inside the nucleus, the alpha particle has energy E less than the Coulomb
+barrier height Uo.
+
+@ Classically, escape from the nucleus is impossible since E < Uo.
+e Quantum mechanically, the alpha particle wavefunction penetrates the
+
+barrier:
+kr
+
+U(r) x EF
+e The tunnelling probability is approximately:
+T x enn
+where L is the width of the nuclear barrier.
+
+e This tunnelling probability determines the half-life of radioactive nuclei.
 --- page 10 ---
 BL-
 2, 3   Formula   2M
@@ -3099,6 +3602,45 @@ CO2 B. Evaluate which of the following functions are eigenfunctions of the momen
 , BL   operator (k is a constant): (a) 𝑒𝑖𝑘𝑥 (b) kx (c) sin kx.
 2, 3
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The radius of the nucleus of an atoms is of the order of 10° m. If an electron is confined within
+the nucleus, the uncertainty in its position must not be greater than 104 m. According to
+uncertainty principle for the lowest limit of accuracy
+
+Ax AP= =
+2n
+
+Where Ax is uncertainty in the position and AP is the uncertainty in the momentum.
+
+h 6.625% 10-** ;
+AP=—— = (as AX = diameter of nucleus)
+2mAX 2x3.14x2x107-**
+
+AP = =5.275 x 107! kg m/sec
+
+This is the uncertainty in momentum of the electron. It means the momentum of the electron
+would not be less than AP, rather it could be comparable to AP. Thus
+
+AP = =5.275 x 107! kg m/sec
+The kinetic energy of the electron can be obtained in terms of momentum as
+T =%mv?=p?/2m
+
+_ (8275x1072? 9?
+2x9.1x10731
+
+5.275x1072_)*
+= — 27510" ) eV
+
+2x9.1x10731x1.6x10719
+
+=95.55x 10%eV
+= 96MeV
+
+From the above result, it is clear that the electrons inside the nucleus may exist only when it
+possesses the energy of the order of 96 MeV. However, the maximum possible kinetic energy of
+an electron emitted by radioactive nuclei has been found about 4MeV. Hence, it is concluded
+that the electron cannot reside in the nucleus.
 --- page 4 ---
 ---------------------------- 2marks
 It is an eigen function.
@@ -3262,6 +3804,23 @@ Entanglement Condition –2M, Calculation-4M
 CO3 C. In an STM, the work function is ϕ=9 eV. Calculate the ratio of tunneling currents   [4]
 ,   when distance changes from 0.4 nm to 0.5 nm.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+e Inside the nucleus, the alpha particle has energy E less than the Coulomb
+barrier height Uo.
+
+@ Classically, escape from the nucleus is impossible since E < Uo.
+e Quantum mechanically, the alpha particle wavefunction penetrates the
+
+barrier:
+kr
+
+U(r) x EF
+e The tunnelling probability is approximately:
+T x enn
+where L is the width of the nuclear barrier.
+
+e This tunnelling probability determines the half-life of radioactive nuclei.
 --- page 10 ---
 BL-
 2, 3   Formula   2M
@@ -3346,6 +3905,7 @@ accurately reflect CNOT operation.
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_CSBS_7036/QUANTUM PHYSICS/ANS_QUANTUM PHYSICS(702BS0C093)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Jul 2026
 - Text: text (16 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3499,6 +4059,33 @@ BL-
 Derivation of Compton scattering
 2 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The third excited state corresponds to n = 4 (since ground state n = 1),
+
+Energy required for transition:
+AE=E,-E;
+AE= ¥ cn 16 —
+= gmat -1)= FR nt
+. 15h?
+AE = one
+
+Given:
+L=1Ae1x10"%m
+h = 6.626 x 10 “Js
+m=9.11 x 10" kg
+Substituting:
+
+15(6.626 x 10°)?
+8(9.11 x 10°3)(1 x 10-2)?
+
+AE=
+AE © 15 x 6.02 x 10° J
+AE = 9.03 x 10°" J
+Converting into ev:
+
+. 9.03 x 10-17
+AE= Texto * 564eV
 --- page 7 ---
 3 marks
 3 marks
@@ -3510,6 +4097,49 @@ Explanation of ground state energy level with equation   -2M
 Zero point energy explanation   -2 M
 Energy levels of a harmonic oscillator with frequency of oscillation 𝜈 is given by
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Conservation of energy gives
+\ _ \ 2 2 2412
+pie + Ey = pre + (EG + pie*)
+Transposing the term p.c and squaring, we obtain
+
+Eq + €*(py — pr)? + 2cEq(p, — pr) = Eo + pee?
+
+2Eo(Pi — Po)
+
+Pe = Pi + ps — 2pyp2 +
+
+Eliminating p2 between Equations 3-26 and 3-27, we obtain
+
+Eo (pi — Pr)
+
+Pe = pps(1 — 00s)
+
+Multiplying each term by hc/p,p,E, and using \ = h/p, we obtain Compton's
+equation:
+
+A, - A= hey — cos6) = he — cos6)
+Ey me~
+or
+h
+A, — Ay = —(1 — cos) 3-25
+
+me
+
+i =
+E, = (n+5)hvy. 0=0.1,2.3.....
+where 7 is the quantum number.
+The ground state energy
+1
+Ey = zi
+
+represents the zero-point energy, a purely
+quantum mechanical phenomenon.
+
+¢ Energy levels are equally spaced.
+
+¢ The minimum energy is not zero.
 --- page 8 ---
 The lowest value of energy of a harmonic oscillator is called zero-point energy
 because a harmonic oscillator in equilibrium with its surroundings will approach this
@@ -3528,6 +4158,34 @@ BL-   potential well and obtain:
 2 marks
 2 marks
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Infinite Square-well Potential
+V=00 V=0
+Let us solve the problem of infinite potential well.
+
+Let us assume that a particle of mass m trapped in a
+one-dimensional infinitely deep potential well with
+V(x) = 0 except at boundaries x=0 and x=L. where vee
+it is infinitely large as shown in the figure. x=0 x=L
+Therefore,
+V(x) =0 forO<x<L
+
+=o forx<Oandx>L qd)
+We have to find out the eigenfunction and the corresponding eigenvalues for this problem.
+Inside the well V(x) = 0. Therefore, the time independent Schrédinger equation can be written as
+
+d?y(x) | 2mE
+dx? nh?
+
+2,
+oH k?y(x) =0 (3)
+
+v(x) =0 O<x<L 2)
+
+2mE
+
+Where k? =
 --- page 9 ---
 3 marks
 3 marks
@@ -3540,6 +4198,58 @@ Formula used
 1 mark
 2 marks
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+This is simple harmonic oscillator equation. The general solution is
+w(x) = Asinkx + Bcos kx (4)
+Where A and B are the arbitrary constants that can be found from boundary conditions.
+
+Continuity of y(x) requires
+
+wv) =y@)=0 ()
+w(0) = Asin(k.0) + Bcos(k.0) = 0
+Therefore. B=0
+and w(x) = A sin(kx) (}
+Now w(L) = Asin(kL) = 0
+
+Since A cannot be zero as it will give trivial. non normalizable solution y(x) = 0, we have
+
+sin (kL) = 0 or kL = 0, +2, 427, +32,
+
+Again k=0 is not acceptable as it will imply y(x) = 0 and the ‘-’ve sign can be absorbed into
+A. Therefore we have
+
+k= = n=1,2,3,..... ”
+
+L
+From Eqn. (3) and (7), we solve for the total energy En for each value of the integer n
+
+V(QmEy) on
+ho
+en?h?
+
+E,=
+" 2mL?
+
+(8)
+
+In contrast to the classical case, a quantum particle in the infinite square well can have only certain,
+discrete values of energy depending on the value of n. Thus. the energy becomes quantized due to
+confinement of the particle. Hence, a particle in an infinite potential well can have only bound
+states.
+
+The eigenfunctions corresponding to the above energy eigenvalues is given by
+
+vq = Asin kx = Asin PAPE (9)
+The constant A can be found from the normalization condition,
+
+
+Or A= fe (10)
+
+Hence, the normalized wave-functions for a particle in a one-dimensional infinitely deep potential
+well is given by
+
+vy, @) = ff sin where n= 1, 2,3, ....... (11)
 --- page 10 ---
 1 mark
 CO1, C. An enclosure filled with He is heated to 500 K. A beam of He atom emerges out of [4]
@@ -3570,6 +4280,65 @@ CO4, B. Starting from the initial state ∣00⟩, describe step-by-step how appl
 BL-   gate followed by a CNOT gate generates an entangled Bell state.
 1, 2
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Schrédinger's equation : Time-Dependent Form for a free particle
+
+The one-dimensional time dependent Schrédinger equation for a free non-relativistic particle (V =
+0) is given below
+
+_ BB (xt) _ 5p SWC)
+am oe ee @
+
+A free particle of total energy E and momentum p moving in the +x direction can be described by
+the wave-function Y of a place monochromatic wave. The expression for Y is given by
+
+(x,t) = Aexp (3 (px- Et)) Q)
+where A = amplitude of displacement of the wave
+
+i =reduced Planck constant (h/27) = 1.05457 x 104 Js
+
+The energy E and momentum p of the particle are related to its wave-vector k and frequency @ by
+the relations
+
+20
+
+p=bk=h-. E=ho
+
+Differentiating Eq. (2) once with respect to time gives.
+
+av(xt)
+a iZ Pao
+or
+in = Ev(x,t) 8)
+
+Differentiating Eq. (2) twice with respect to x gives.
+
+ap OP Gut)
+—in=E* = pw(x,t)
+_ pz O7F(xt) _ a
+nh? —— = p¥ (x, t) @)
+Dividing both sides of Eq. (4) by (1/2m), we obtain,
+_ 3? 87H (xt) _ p?
+se oe = me PD) (S)
+
+Comparing equations (1). (3) and (5), the energy E and momentum p of a free non-relativistic
+particle of mass m are related by the expression
+a
+
+2m am
+
+©
+
+As the particle is free, there are no boundary conditions to be applied to the particle motion and
+hence there are no restrictions on wave-vector k. As a result, the particle can possess any value of
+energy or the energy is not quantized. Thus, a freely moving particle possesses a continuous energy
+
+E
+
+k
+
+spectrum as given in the adjoining figure.
 --- page 12 ---
 ------3 marks
 ---------3 marks
@@ -3589,6 +4358,37 @@ Construction explanation   -2 M
 Tunnelling current equation   -2 M
 Working explanation   -3 M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+The Hadamard gate transforms:
+
+1
+0) + 5 + |1))
+
+So the combined state becomes:
+
+(<5) +) @
+
+Expanding:
+
+1
+- yl) + |10))
+
+e First qubit = control
+
+* Second qubit = target
+
+e Rule: If control = 1, flip target
+Apply CNOT to each term:
+
+e {00) — |00) (no change)
+
+e |10) — |11) (target flips)
+
+So the new state is:
+
+1
+5 ((00) + |11))
 --- page 13 ---
 The scanning tunnelling microscope is a
 practical application of quantum tunnelling
@@ -3691,6 +4491,7 @@ SWAP gate: This gate swaps the states of two qubits.
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_CSE_DS_7057/QUANTUM PHYSICS/ANS_QUANTUM PHYSICS(702BS0C093)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Jul 2026
 - Text: text (16 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3844,6 +4645,33 @@ BL-
 Derivation of Compton scattering
 2 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The third excited state corresponds to n = 4 (since ground state n = 1),
+
+Energy required for transition:
+AE=E,-E;
+AE= ¥ cn 16 —
+= gmat -1)= FR nt
+. 15h?
+AE = one
+
+Given:
+L=1Ae1x10"%m
+h = 6.626 x 10 “Js
+m=9.11 x 10" kg
+Substituting:
+
+15(6.626 x 10°)?
+8(9.11 x 10°3)(1 x 10-2)?
+
+AE=
+AE © 15 x 6.02 x 10° J
+AE = 9.03 x 10°" J
+Converting into ev:
+
+. 9.03 x 10-17
+AE= Texto * 564eV
 --- page 7 ---
 3 marks
 3 marks
@@ -3855,6 +4683,49 @@ Explanation of ground state energy level with equation   -2M
 Zero point energy explanation   -2 M
 Energy levels of a harmonic oscillator with frequency of oscillation 𝜈 is given by
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Conservation of energy gives
+\ _ \ 2 2 2412
+pie + Ey = pre + (EG + pie*)
+Transposing the term p.c and squaring, we obtain
+
+Eq + €*(py — pr)? + 2cEq(p, — pr) = Eo + pee?
+
+2Eo(Pi — Po)
+
+Pe = Pi + ps — 2pyp2 +
+
+Eliminating p2 between Equations 3-26 and 3-27, we obtain
+
+Eo (pi — Pr)
+
+Pe = pps(1 — 00s)
+
+Multiplying each term by hc/p,p,E, and using \ = h/p, we obtain Compton's
+equation:
+
+A, - A= hey — cos6) = he — cos6)
+Ey me~
+or
+h
+A, — Ay = —(1 — cos) 3-25
+
+me
+
+i =
+E, = (n+5)hvy. 0=0.1,2.3.....
+where 7 is the quantum number.
+The ground state energy
+1
+Ey = zi
+
+represents the zero-point energy, a purely
+quantum mechanical phenomenon.
+
+¢ Energy levels are equally spaced.
+
+¢ The minimum energy is not zero.
 --- page 8 ---
 The lowest value of energy of a harmonic oscillator is called zero-point energy
 because a harmonic oscillator in equilibrium with its surroundings will approach this
@@ -3873,6 +4744,34 @@ BL-   potential well and obtain:
 2 marks
 2 marks
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Infinite Square-well Potential
+V=00 V=0
+Let us solve the problem of infinite potential well.
+
+Let us assume that a particle of mass m trapped in a
+one-dimensional infinitely deep potential well with
+V(x) = 0 except at boundaries x=0 and x=L. where vee
+it is infinitely large as shown in the figure. x=0 x=L
+Therefore,
+V(x) =0 forO<x<L
+
+=o forx<Oandx>L qd)
+We have to find out the eigenfunction and the corresponding eigenvalues for this problem.
+Inside the well V(x) = 0. Therefore, the time independent Schrédinger equation can be written as
+
+d?y(x) | 2mE
+dx? nh?
+
+2,
+oH k?y(x) =0 (3)
+
+v(x) =0 O<x<L 2)
+
+2mE
+
+Where k? =
 --- page 9 ---
 3 marks
 3 marks
@@ -3885,6 +4784,58 @@ Formula used
 1 mark
 2 marks
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+This is simple harmonic oscillator equation. The general solution is
+w(x) = Asinkx + Bcos kx (4)
+Where A and B are the arbitrary constants that can be found from boundary conditions.
+
+Continuity of y(x) requires
+
+wv) =y@)=0 ()
+w(0) = Asin(k.0) + Bcos(k.0) = 0
+Therefore. B=0
+and w(x) = A sin(kx) (}
+Now w(L) = Asin(kL) = 0
+
+Since A cannot be zero as it will give trivial. non normalizable solution y(x) = 0, we have
+
+sin (kL) = 0 or kL = 0, +2, 427, +32,
+
+Again k=0 is not acceptable as it will imply y(x) = 0 and the ‘-’ve sign can be absorbed into
+A. Therefore we have
+
+k= = n=1,2,3,..... ”
+
+L
+From Eqn. (3) and (7), we solve for the total energy En for each value of the integer n
+
+V(QmEy) on
+ho
+en?h?
+
+E,=
+" 2mL?
+
+(8)
+
+In contrast to the classical case, a quantum particle in the infinite square well can have only certain,
+discrete values of energy depending on the value of n. Thus. the energy becomes quantized due to
+confinement of the particle. Hence, a particle in an infinite potential well can have only bound
+states.
+
+The eigenfunctions corresponding to the above energy eigenvalues is given by
+
+vq = Asin kx = Asin PAPE (9)
+The constant A can be found from the normalization condition,
+
+
+Or A= fe (10)
+
+Hence, the normalized wave-functions for a particle in a one-dimensional infinitely deep potential
+well is given by
+
+vy, @) = ff sin where n= 1, 2,3, ....... (11)
 --- page 10 ---
 1 mark
 CO1, C. An enclosure filled with He is heated to 500 K. A beam of He atom emerges out of [4]
@@ -3915,6 +4866,65 @@ CO4, B. Starting from the initial state ∣00⟩, describe step-by-step how appl
 BL-   gate followed by a CNOT gate generates an entangled Bell state.
 1, 2
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Schrédinger's equation : Time-Dependent Form for a free particle
+
+The one-dimensional time dependent Schrédinger equation for a free non-relativistic particle (V =
+0) is given below
+
+_ BB (xt) _ 5p SWC)
+am oe ee @
+
+A free particle of total energy E and momentum p moving in the +x direction can be described by
+the wave-function Y of a place monochromatic wave. The expression for Y is given by
+
+(x,t) = Aexp (3 (px- Et)) Q)
+where A = amplitude of displacement of the wave
+
+i =reduced Planck constant (h/27) = 1.05457 x 104 Js
+
+The energy E and momentum p of the particle are related to its wave-vector k and frequency @ by
+the relations
+
+20
+
+p=bk=h-. E=ho
+
+Differentiating Eq. (2) once with respect to time gives.
+
+av(xt)
+a iZ Pao
+or
+in = Ev(x,t) 8)
+
+Differentiating Eq. (2) twice with respect to x gives.
+
+ap OP Gut)
+—in=E* = pw(x,t)
+_ pz O7F(xt) _ a
+nh? —— = p¥ (x, t) @)
+Dividing both sides of Eq. (4) by (1/2m), we obtain,
+_ 3? 87H (xt) _ p?
+se oe = me PD) (S)
+
+Comparing equations (1). (3) and (5), the energy E and momentum p of a free non-relativistic
+particle of mass m are related by the expression
+a
+
+2m am
+
+©
+
+As the particle is free, there are no boundary conditions to be applied to the particle motion and
+hence there are no restrictions on wave-vector k. As a result, the particle can possess any value of
+energy or the energy is not quantized. Thus, a freely moving particle possesses a continuous energy
+
+E
+
+k
+
+spectrum as given in the adjoining figure.
 --- page 12 ---
 ------3 marks
 ---------3 marks
@@ -3934,6 +4944,37 @@ Construction explanation   -2 M
 Tunnelling current equation   -2 M
 Working explanation   -3 M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+The Hadamard gate transforms:
+
+1
+0) + 5 + |1))
+
+So the combined state becomes:
+
+(<5) +) @
+
+Expanding:
+
+1
+- yl) + |10))
+
+e First qubit = control
+
+* Second qubit = target
+
+e Rule: If control = 1, flip target
+Apply CNOT to each term:
+
+e {00) — |00) (no change)
+
+e |10) — |11) (target flips)
+
+So the new state is:
+
+1
+5 ((00) + |11))
 --- page 13 ---
 The scanning tunnelling microscope is a
 practical application of quantum tunnelling
@@ -4036,6 +5077,7 @@ SWAP gate: This gate swaps the states of two qubits.
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_CS_7055/QUANTUM PHYSICS/ANS_QUANTUM PHYSICS(702BS0C093)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Jul 2026
 - Text: text (16 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -4189,6 +5231,33 @@ BL-
 Derivation of Compton scattering
 2 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The third excited state corresponds to n = 4 (since ground state n = 1),
+
+Energy required for transition:
+AE=E,-E;
+AE= ¥ cn 16 —
+= gmat -1)= FR nt
+. 15h?
+AE = one
+
+Given:
+L=1Ae1x10"%m
+h = 6.626 x 10 “Js
+m=9.11 x 10" kg
+Substituting:
+
+15(6.626 x 10°)?
+8(9.11 x 10°3)(1 x 10-2)?
+
+AE=
+AE © 15 x 6.02 x 10° J
+AE = 9.03 x 10°" J
+Converting into ev:
+
+. 9.03 x 10-17
+AE= Texto * 564eV
 --- page 7 ---
 3 marks
 3 marks
@@ -4200,6 +5269,49 @@ Explanation of ground state energy level with equation   -2M
 Zero point energy explanation   -2 M
 Energy levels of a harmonic oscillator with frequency of oscillation 𝜈 is given by
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Conservation of energy gives
+\ _ \ 2 2 2412
+pie + Ey = pre + (EG + pie*)
+Transposing the term p.c and squaring, we obtain
+
+Eq + €*(py — pr)? + 2cEq(p, — pr) = Eo + pee?
+
+2Eo(Pi — Po)
+
+Pe = Pi + ps — 2pyp2 +
+
+Eliminating p2 between Equations 3-26 and 3-27, we obtain
+
+Eo (pi — Pr)
+
+Pe = pps(1 — 00s)
+
+Multiplying each term by hc/p,p,E, and using \ = h/p, we obtain Compton's
+equation:
+
+A, - A= hey — cos6) = he — cos6)
+Ey me~
+or
+h
+A, — Ay = —(1 — cos) 3-25
+
+me
+
+i =
+E, = (n+5)hvy. 0=0.1,2.3.....
+where 7 is the quantum number.
+The ground state energy
+1
+Ey = zi
+
+represents the zero-point energy, a purely
+quantum mechanical phenomenon.
+
+¢ Energy levels are equally spaced.
+
+¢ The minimum energy is not zero.
 --- page 8 ---
 The lowest value of energy of a harmonic oscillator is called zero-point energy
 because a harmonic oscillator in equilibrium with its surroundings will approach this
@@ -4218,6 +5330,34 @@ BL-   potential well and obtain:
 2 marks
 2 marks
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Infinite Square-well Potential
+V=00 V=0
+Let us solve the problem of infinite potential well.
+
+Let us assume that a particle of mass m trapped in a
+one-dimensional infinitely deep potential well with
+V(x) = 0 except at boundaries x=0 and x=L. where vee
+it is infinitely large as shown in the figure. x=0 x=L
+Therefore,
+V(x) =0 forO<x<L
+
+=o forx<Oandx>L qd)
+We have to find out the eigenfunction and the corresponding eigenvalues for this problem.
+Inside the well V(x) = 0. Therefore, the time independent Schrédinger equation can be written as
+
+d?y(x) | 2mE
+dx? nh?
+
+2,
+oH k?y(x) =0 (3)
+
+v(x) =0 O<x<L 2)
+
+2mE
+
+Where k? =
 --- page 9 ---
 3 marks
 3 marks
@@ -4230,6 +5370,58 @@ Formula used
 1 mark
 2 marks
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+This is simple harmonic oscillator equation. The general solution is
+w(x) = Asinkx + Bcos kx (4)
+Where A and B are the arbitrary constants that can be found from boundary conditions.
+
+Continuity of y(x) requires
+
+wv) =y@)=0 ()
+w(0) = Asin(k.0) + Bcos(k.0) = 0
+Therefore. B=0
+and w(x) = A sin(kx) (}
+Now w(L) = Asin(kL) = 0
+
+Since A cannot be zero as it will give trivial. non normalizable solution y(x) = 0, we have
+
+sin (kL) = 0 or kL = 0, +2, 427, +32,
+
+Again k=0 is not acceptable as it will imply y(x) = 0 and the ‘-’ve sign can be absorbed into
+A. Therefore we have
+
+k= = n=1,2,3,..... ”
+
+L
+From Eqn. (3) and (7), we solve for the total energy En for each value of the integer n
+
+V(QmEy) on
+ho
+en?h?
+
+E,=
+" 2mL?
+
+(8)
+
+In contrast to the classical case, a quantum particle in the infinite square well can have only certain,
+discrete values of energy depending on the value of n. Thus. the energy becomes quantized due to
+confinement of the particle. Hence, a particle in an infinite potential well can have only bound
+states.
+
+The eigenfunctions corresponding to the above energy eigenvalues is given by
+
+vq = Asin kx = Asin PAPE (9)
+The constant A can be found from the normalization condition,
+
+
+Or A= fe (10)
+
+Hence, the normalized wave-functions for a particle in a one-dimensional infinitely deep potential
+well is given by
+
+vy, @) = ff sin where n= 1, 2,3, ....... (11)
 --- page 10 ---
 1 mark
 CO1, C. An enclosure filled with He is heated to 500 K. A beam of He atom emerges out of [4]
@@ -4260,6 +5452,65 @@ CO4, B. Starting from the initial state ∣00⟩, describe step-by-step how appl
 BL-   gate followed by a CNOT gate generates an entangled Bell state.
 1, 2
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Schrédinger's equation : Time-Dependent Form for a free particle
+
+The one-dimensional time dependent Schrédinger equation for a free non-relativistic particle (V =
+0) is given below
+
+_ BB (xt) _ 5p SWC)
+am oe ee @
+
+A free particle of total energy E and momentum p moving in the +x direction can be described by
+the wave-function Y of a place monochromatic wave. The expression for Y is given by
+
+(x,t) = Aexp (3 (px- Et)) Q)
+where A = amplitude of displacement of the wave
+
+i =reduced Planck constant (h/27) = 1.05457 x 104 Js
+
+The energy E and momentum p of the particle are related to its wave-vector k and frequency @ by
+the relations
+
+20
+
+p=bk=h-. E=ho
+
+Differentiating Eq. (2) once with respect to time gives.
+
+av(xt)
+a iZ Pao
+or
+in = Ev(x,t) 8)
+
+Differentiating Eq. (2) twice with respect to x gives.
+
+ap OP Gut)
+—in=E* = pw(x,t)
+_ pz O7F(xt) _ a
+nh? —— = p¥ (x, t) @)
+Dividing both sides of Eq. (4) by (1/2m), we obtain,
+_ 3? 87H (xt) _ p?
+se oe = me PD) (S)
+
+Comparing equations (1). (3) and (5), the energy E and momentum p of a free non-relativistic
+particle of mass m are related by the expression
+a
+
+2m am
+
+©
+
+As the particle is free, there are no boundary conditions to be applied to the particle motion and
+hence there are no restrictions on wave-vector k. As a result, the particle can possess any value of
+energy or the energy is not quantized. Thus, a freely moving particle possesses a continuous energy
+
+E
+
+k
+
+spectrum as given in the adjoining figure.
 --- page 12 ---
 ------3 marks
 ---------3 marks
@@ -4279,6 +5530,37 @@ Construction explanation   -2 M
 Tunnelling current equation   -2 M
 Working explanation   -3 M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+The Hadamard gate transforms:
+
+1
+0) + 5 + |1))
+
+So the combined state becomes:
+
+(<5) +) @
+
+Expanding:
+
+1
+- yl) + |10))
+
+e First qubit = control
+
+* Second qubit = target
+
+e Rule: If control = 1, flip target
+Apply CNOT to each term:
+
+e {00) — |00) (no change)
+
+e |10) — |11) (target flips)
+
+So the new state is:
+
+1
+5 ((00) + |11))
 --- page 13 ---
 The scanning tunnelling microscope is a
 practical application of quantum tunnelling
@@ -4381,6 +5663,7 @@ SWAP gate: This gate swaps the states of two qubits.
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_Computer_7002/QUANTUM PHYSICS/ANS_QUANTUM PHYSICS(702BS0C093)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Jul 2026
 - Text: text (16 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -4534,6 +5817,33 @@ BL-
 Derivation of Compton scattering
 2 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The third excited state corresponds to n = 4 (since ground state n = 1),
+
+Energy required for transition:
+AE=E,-E;
+AE= ¥ cn 16 —
+= gmat -1)= FR nt
+. 15h?
+AE = one
+
+Given:
+L=1Ae1x10"%m
+h = 6.626 x 10 “Js
+m=9.11 x 10" kg
+Substituting:
+
+15(6.626 x 10°)?
+8(9.11 x 10°3)(1 x 10-2)?
+
+AE=
+AE © 15 x 6.02 x 10° J
+AE = 9.03 x 10°" J
+Converting into ev:
+
+. 9.03 x 10-17
+AE= Texto * 564eV
 --- page 7 ---
 3 marks
 3 marks
@@ -4545,6 +5855,49 @@ Explanation of ground state energy level with equation   -2M
 Zero point energy explanation   -2 M
 Energy levels of a harmonic oscillator with frequency of oscillation 𝜈 is given by
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Conservation of energy gives
+\ _ \ 2 2 2412
+pie + Ey = pre + (EG + pie*)
+Transposing the term p.c and squaring, we obtain
+
+Eq + €*(py — pr)? + 2cEq(p, — pr) = Eo + pee?
+
+2Eo(Pi — Po)
+
+Pe = Pi + ps — 2pyp2 +
+
+Eliminating p2 between Equations 3-26 and 3-27, we obtain
+
+Eo (pi — Pr)
+
+Pe = pps(1 — 00s)
+
+Multiplying each term by hc/p,p,E, and using \ = h/p, we obtain Compton's
+equation:
+
+A, - A= hey — cos6) = he — cos6)
+Ey me~
+or
+h
+A, — Ay = —(1 — cos) 3-25
+
+me
+
+i =
+E, = (n+5)hvy. 0=0.1,2.3.....
+where 7 is the quantum number.
+The ground state energy
+1
+Ey = zi
+
+represents the zero-point energy, a purely
+quantum mechanical phenomenon.
+
+¢ Energy levels are equally spaced.
+
+¢ The minimum energy is not zero.
 --- page 8 ---
 The lowest value of energy of a harmonic oscillator is called zero-point energy
 because a harmonic oscillator in equilibrium with its surroundings will approach this
@@ -4563,6 +5916,34 @@ BL-   potential well and obtain:
 2 marks
 2 marks
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Infinite Square-well Potential
+V=00 V=0
+Let us solve the problem of infinite potential well.
+
+Let us assume that a particle of mass m trapped in a
+one-dimensional infinitely deep potential well with
+V(x) = 0 except at boundaries x=0 and x=L. where vee
+it is infinitely large as shown in the figure. x=0 x=L
+Therefore,
+V(x) =0 forO<x<L
+
+=o forx<Oandx>L qd)
+We have to find out the eigenfunction and the corresponding eigenvalues for this problem.
+Inside the well V(x) = 0. Therefore, the time independent Schrédinger equation can be written as
+
+d?y(x) | 2mE
+dx? nh?
+
+2,
+oH k?y(x) =0 (3)
+
+v(x) =0 O<x<L 2)
+
+2mE
+
+Where k? =
 --- page 9 ---
 3 marks
 3 marks
@@ -4575,6 +5956,58 @@ Formula used
 1 mark
 2 marks
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+This is simple harmonic oscillator equation. The general solution is
+w(x) = Asinkx + Bcos kx (4)
+Where A and B are the arbitrary constants that can be found from boundary conditions.
+
+Continuity of y(x) requires
+
+wv) =y@)=0 ()
+w(0) = Asin(k.0) + Bcos(k.0) = 0
+Therefore. B=0
+and w(x) = A sin(kx) (}
+Now w(L) = Asin(kL) = 0
+
+Since A cannot be zero as it will give trivial. non normalizable solution y(x) = 0, we have
+
+sin (kL) = 0 or kL = 0, +2, 427, +32,
+
+Again k=0 is not acceptable as it will imply y(x) = 0 and the ‘-’ve sign can be absorbed into
+A. Therefore we have
+
+k= = n=1,2,3,..... ”
+
+L
+From Eqn. (3) and (7), we solve for the total energy En for each value of the integer n
+
+V(QmEy) on
+ho
+en?h?
+
+E,=
+" 2mL?
+
+(8)
+
+In contrast to the classical case, a quantum particle in the infinite square well can have only certain,
+discrete values of energy depending on the value of n. Thus. the energy becomes quantized due to
+confinement of the particle. Hence, a particle in an infinite potential well can have only bound
+states.
+
+The eigenfunctions corresponding to the above energy eigenvalues is given by
+
+vq = Asin kx = Asin PAPE (9)
+The constant A can be found from the normalization condition,
+
+
+Or A= fe (10)
+
+Hence, the normalized wave-functions for a particle in a one-dimensional infinitely deep potential
+well is given by
+
+vy, @) = ff sin where n= 1, 2,3, ....... (11)
 --- page 10 ---
 1 mark
 CO1, C. An enclosure filled with He is heated to 500 K. A beam of He atom emerges out of [4]
@@ -4605,6 +6038,65 @@ CO4, B. Starting from the initial state ∣00⟩, describe step-by-step how appl
 BL-   gate followed by a CNOT gate generates an entangled Bell state.
 1, 2
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Schrédinger's equation : Time-Dependent Form for a free particle
+
+The one-dimensional time dependent Schrédinger equation for a free non-relativistic particle (V =
+0) is given below
+
+_ BB (xt) _ 5p SWC)
+am oe ee @
+
+A free particle of total energy E and momentum p moving in the +x direction can be described by
+the wave-function Y of a place monochromatic wave. The expression for Y is given by
+
+(x,t) = Aexp (3 (px- Et)) Q)
+where A = amplitude of displacement of the wave
+
+i =reduced Planck constant (h/27) = 1.05457 x 104 Js
+
+The energy E and momentum p of the particle are related to its wave-vector k and frequency @ by
+the relations
+
+20
+
+p=bk=h-. E=ho
+
+Differentiating Eq. (2) once with respect to time gives.
+
+av(xt)
+a iZ Pao
+or
+in = Ev(x,t) 8)
+
+Differentiating Eq. (2) twice with respect to x gives.
+
+ap OP Gut)
+—in=E* = pw(x,t)
+_ pz O7F(xt) _ a
+nh? —— = p¥ (x, t) @)
+Dividing both sides of Eq. (4) by (1/2m), we obtain,
+_ 3? 87H (xt) _ p?
+se oe = me PD) (S)
+
+Comparing equations (1). (3) and (5), the energy E and momentum p of a free non-relativistic
+particle of mass m are related by the expression
+a
+
+2m am
+
+©
+
+As the particle is free, there are no boundary conditions to be applied to the particle motion and
+hence there are no restrictions on wave-vector k. As a result, the particle can possess any value of
+energy or the energy is not quantized. Thus, a freely moving particle possesses a continuous energy
+
+E
+
+k
+
+spectrum as given in the adjoining figure.
 --- page 12 ---
 ------3 marks
 ---------3 marks
@@ -4624,6 +6116,37 @@ Construction explanation   -2 M
 Tunnelling current equation   -2 M
 Working explanation   -3 M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+The Hadamard gate transforms:
+
+1
+0) + 5 + |1))
+
+So the combined state becomes:
+
+(<5) +) @
+
+Expanding:
+
+1
+- yl) + |10))
+
+e First qubit = control
+
+* Second qubit = target
+
+e Rule: If control = 1, flip target
+Apply CNOT to each term:
+
+e {00) — |00) (no change)
+
+e |10) — |11) (target flips)
+
+So the new state is:
+
+1
+5 ((00) + |11))
 --- page 13 ---
 The scanning tunnelling microscope is a
 practical application of quantum tunnelling
@@ -4726,6 +6249,7 @@ SWAP gate: This gate swaps the states of two qubits.
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_CyberSecurity_7010/QUANTUM PHYSICS/ANS_QUANTUM PHYSICS(702BS0C093)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Jul 2026
 - Text: text (16 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -4879,6 +6403,33 @@ BL-
 Derivation of Compton scattering
 2 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The third excited state corresponds to n = 4 (since ground state n = 1),
+
+Energy required for transition:
+AE=E,-E;
+AE= ¥ cn 16 —
+= gmat -1)= FR nt
+. 15h?
+AE = one
+
+Given:
+L=1Ae1x10"%m
+h = 6.626 x 10 “Js
+m=9.11 x 10" kg
+Substituting:
+
+15(6.626 x 10°)?
+8(9.11 x 10°3)(1 x 10-2)?
+
+AE=
+AE © 15 x 6.02 x 10° J
+AE = 9.03 x 10°" J
+Converting into ev:
+
+. 9.03 x 10-17
+AE= Texto * 564eV
 --- page 7 ---
 3 marks
 3 marks
@@ -4890,6 +6441,49 @@ Explanation of ground state energy level with equation   -2M
 Zero point energy explanation   -2 M
 Energy levels of a harmonic oscillator with frequency of oscillation 𝜈 is given by
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Conservation of energy gives
+\ _ \ 2 2 2412
+pie + Ey = pre + (EG + pie*)
+Transposing the term p.c and squaring, we obtain
+
+Eq + €*(py — pr)? + 2cEq(p, — pr) = Eo + pee?
+
+2Eo(Pi — Po)
+
+Pe = Pi + ps — 2pyp2 +
+
+Eliminating p2 between Equations 3-26 and 3-27, we obtain
+
+Eo (pi — Pr)
+
+Pe = pps(1 — 00s)
+
+Multiplying each term by hc/p,p,E, and using \ = h/p, we obtain Compton's
+equation:
+
+A, - A= hey — cos6) = he — cos6)
+Ey me~
+or
+h
+A, — Ay = —(1 — cos) 3-25
+
+me
+
+i =
+E, = (n+5)hvy. 0=0.1,2.3.....
+where 7 is the quantum number.
+The ground state energy
+1
+Ey = zi
+
+represents the zero-point energy, a purely
+quantum mechanical phenomenon.
+
+¢ Energy levels are equally spaced.
+
+¢ The minimum energy is not zero.
 --- page 8 ---
 The lowest value of energy of a harmonic oscillator is called zero-point energy
 because a harmonic oscillator in equilibrium with its surroundings will approach this
@@ -4908,6 +6502,34 @@ BL-   potential well and obtain:
 2 marks
 2 marks
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Infinite Square-well Potential
+V=00 V=0
+Let us solve the problem of infinite potential well.
+
+Let us assume that a particle of mass m trapped in a
+one-dimensional infinitely deep potential well with
+V(x) = 0 except at boundaries x=0 and x=L. where vee
+it is infinitely large as shown in the figure. x=0 x=L
+Therefore,
+V(x) =0 forO<x<L
+
+=o forx<Oandx>L qd)
+We have to find out the eigenfunction and the corresponding eigenvalues for this problem.
+Inside the well V(x) = 0. Therefore, the time independent Schrédinger equation can be written as
+
+d?y(x) | 2mE
+dx? nh?
+
+2,
+oH k?y(x) =0 (3)
+
+v(x) =0 O<x<L 2)
+
+2mE
+
+Where k? =
 --- page 9 ---
 3 marks
 3 marks
@@ -4920,6 +6542,58 @@ Formula used
 1 mark
 2 marks
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+This is simple harmonic oscillator equation. The general solution is
+w(x) = Asinkx + Bcos kx (4)
+Where A and B are the arbitrary constants that can be found from boundary conditions.
+
+Continuity of y(x) requires
+
+wv) =y@)=0 ()
+w(0) = Asin(k.0) + Bcos(k.0) = 0
+Therefore. B=0
+and w(x) = A sin(kx) (}
+Now w(L) = Asin(kL) = 0
+
+Since A cannot be zero as it will give trivial. non normalizable solution y(x) = 0, we have
+
+sin (kL) = 0 or kL = 0, +2, 427, +32,
+
+Again k=0 is not acceptable as it will imply y(x) = 0 and the ‘-’ve sign can be absorbed into
+A. Therefore we have
+
+k= = n=1,2,3,..... ”
+
+L
+From Eqn. (3) and (7), we solve for the total energy En for each value of the integer n
+
+V(QmEy) on
+ho
+en?h?
+
+E,=
+" 2mL?
+
+(8)
+
+In contrast to the classical case, a quantum particle in the infinite square well can have only certain,
+discrete values of energy depending on the value of n. Thus. the energy becomes quantized due to
+confinement of the particle. Hence, a particle in an infinite potential well can have only bound
+states.
+
+The eigenfunctions corresponding to the above energy eigenvalues is given by
+
+vq = Asin kx = Asin PAPE (9)
+The constant A can be found from the normalization condition,
+
+
+Or A= fe (10)
+
+Hence, the normalized wave-functions for a particle in a one-dimensional infinitely deep potential
+well is given by
+
+vy, @) = ff sin where n= 1, 2,3, ....... (11)
 --- page 10 ---
 1 mark
 CO1, C. An enclosure filled with He is heated to 500 K. A beam of He atom emerges out of [4]
@@ -4950,6 +6624,65 @@ CO4, B. Starting from the initial state ∣00⟩, describe step-by-step how appl
 BL-   gate followed by a CNOT gate generates an entangled Bell state.
 1, 2
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Schrédinger's equation : Time-Dependent Form for a free particle
+
+The one-dimensional time dependent Schrédinger equation for a free non-relativistic particle (V =
+0) is given below
+
+_ BB (xt) _ 5p SWC)
+am oe ee @
+
+A free particle of total energy E and momentum p moving in the +x direction can be described by
+the wave-function Y of a place monochromatic wave. The expression for Y is given by
+
+(x,t) = Aexp (3 (px- Et)) Q)
+where A = amplitude of displacement of the wave
+
+i =reduced Planck constant (h/27) = 1.05457 x 104 Js
+
+The energy E and momentum p of the particle are related to its wave-vector k and frequency @ by
+the relations
+
+20
+
+p=bk=h-. E=ho
+
+Differentiating Eq. (2) once with respect to time gives.
+
+av(xt)
+a iZ Pao
+or
+in = Ev(x,t) 8)
+
+Differentiating Eq. (2) twice with respect to x gives.
+
+ap OP Gut)
+—in=E* = pw(x,t)
+_ pz O7F(xt) _ a
+nh? —— = p¥ (x, t) @)
+Dividing both sides of Eq. (4) by (1/2m), we obtain,
+_ 3? 87H (xt) _ p?
+se oe = me PD) (S)
+
+Comparing equations (1). (3) and (5), the energy E and momentum p of a free non-relativistic
+particle of mass m are related by the expression
+a
+
+2m am
+
+©
+
+As the particle is free, there are no boundary conditions to be applied to the particle motion and
+hence there are no restrictions on wave-vector k. As a result, the particle can possess any value of
+energy or the energy is not quantized. Thus, a freely moving particle possesses a continuous energy
+
+E
+
+k
+
+spectrum as given in the adjoining figure.
 --- page 12 ---
 ------3 marks
 ---------3 marks
@@ -4969,6 +6702,37 @@ Construction explanation   -2 M
 Tunnelling current equation   -2 M
 Working explanation   -3 M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+The Hadamard gate transforms:
+
+1
+0) + 5 + |1))
+
+So the combined state becomes:
+
+(<5) +) @
+
+Expanding:
+
+1
+- yl) + |10))
+
+e First qubit = control
+
+* Second qubit = target
+
+e Rule: If control = 1, flip target
+Apply CNOT to each term:
+
+e {00) — |00) (no change)
+
+e |10) — |11) (target flips)
+
+So the new state is:
+
+1
+5 ((00) + |11))
 --- page 13 ---
 The scanning tunnelling microscope is a
 practical application of quantum tunnelling
@@ -5071,6 +6835,7 @@ SWAP gate: This gate swaps the states of two qubits.
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_DS_7009/QUANTUM PHYSICS/ANS_QUANTUM PHYSICS(702BS0C093)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Jul 2026
 - Text: text (16 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -5224,6 +6989,33 @@ BL-
 Derivation of Compton scattering
 2 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The third excited state corresponds to n = 4 (since ground state n = 1),
+
+Energy required for transition:
+AE=E,-E;
+AE= ¥ cn 16 —
+= gmat -1)= FR nt
+. 15h?
+AE = one
+
+Given:
+L=1Ae1x10"%m
+h = 6.626 x 10 “Js
+m=9.11 x 10" kg
+Substituting:
+
+15(6.626 x 10°)?
+8(9.11 x 10°3)(1 x 10-2)?
+
+AE=
+AE © 15 x 6.02 x 10° J
+AE = 9.03 x 10°" J
+Converting into ev:
+
+. 9.03 x 10-17
+AE= Texto * 564eV
 --- page 7 ---
 3 marks
 3 marks
@@ -5235,6 +7027,49 @@ Explanation of ground state energy level with equation   -2M
 Zero point energy explanation   -2 M
 Energy levels of a harmonic oscillator with frequency of oscillation 𝜈 is given by
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Conservation of energy gives
+\ _ \ 2 2 2412
+pie + Ey = pre + (EG + pie*)
+Transposing the term p.c and squaring, we obtain
+
+Eq + €*(py — pr)? + 2cEq(p, — pr) = Eo + pee?
+
+2Eo(Pi — Po)
+
+Pe = Pi + ps — 2pyp2 +
+
+Eliminating p2 between Equations 3-26 and 3-27, we obtain
+
+Eo (pi — Pr)
+
+Pe = pps(1 — 00s)
+
+Multiplying each term by hc/p,p,E, and using \ = h/p, we obtain Compton's
+equation:
+
+A, - A= hey — cos6) = he — cos6)
+Ey me~
+or
+h
+A, — Ay = —(1 — cos) 3-25
+
+me
+
+i =
+E, = (n+5)hvy. 0=0.1,2.3.....
+where 7 is the quantum number.
+The ground state energy
+1
+Ey = zi
+
+represents the zero-point energy, a purely
+quantum mechanical phenomenon.
+
+¢ Energy levels are equally spaced.
+
+¢ The minimum energy is not zero.
 --- page 8 ---
 The lowest value of energy of a harmonic oscillator is called zero-point energy
 because a harmonic oscillator in equilibrium with its surroundings will approach this
@@ -5253,6 +7088,34 @@ BL-   potential well and obtain:
 2 marks
 2 marks
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Infinite Square-well Potential
+V=00 V=0
+Let us solve the problem of infinite potential well.
+
+Let us assume that a particle of mass m trapped in a
+one-dimensional infinitely deep potential well with
+V(x) = 0 except at boundaries x=0 and x=L. where vee
+it is infinitely large as shown in the figure. x=0 x=L
+Therefore,
+V(x) =0 forO<x<L
+
+=o forx<Oandx>L qd)
+We have to find out the eigenfunction and the corresponding eigenvalues for this problem.
+Inside the well V(x) = 0. Therefore, the time independent Schrédinger equation can be written as
+
+d?y(x) | 2mE
+dx? nh?
+
+2,
+oH k?y(x) =0 (3)
+
+v(x) =0 O<x<L 2)
+
+2mE
+
+Where k? =
 --- page 9 ---
 3 marks
 3 marks
@@ -5265,6 +7128,58 @@ Formula used
 1 mark
 2 marks
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+This is simple harmonic oscillator equation. The general solution is
+w(x) = Asinkx + Bcos kx (4)
+Where A and B are the arbitrary constants that can be found from boundary conditions.
+
+Continuity of y(x) requires
+
+wv) =y@)=0 ()
+w(0) = Asin(k.0) + Bcos(k.0) = 0
+Therefore. B=0
+and w(x) = A sin(kx) (}
+Now w(L) = Asin(kL) = 0
+
+Since A cannot be zero as it will give trivial. non normalizable solution y(x) = 0, we have
+
+sin (kL) = 0 or kL = 0, +2, 427, +32,
+
+Again k=0 is not acceptable as it will imply y(x) = 0 and the ‘-’ve sign can be absorbed into
+A. Therefore we have
+
+k= = n=1,2,3,..... ”
+
+L
+From Eqn. (3) and (7), we solve for the total energy En for each value of the integer n
+
+V(QmEy) on
+ho
+en?h?
+
+E,=
+" 2mL?
+
+(8)
+
+In contrast to the classical case, a quantum particle in the infinite square well can have only certain,
+discrete values of energy depending on the value of n. Thus. the energy becomes quantized due to
+confinement of the particle. Hence, a particle in an infinite potential well can have only bound
+states.
+
+The eigenfunctions corresponding to the above energy eigenvalues is given by
+
+vq = Asin kx = Asin PAPE (9)
+The constant A can be found from the normalization condition,
+
+
+Or A= fe (10)
+
+Hence, the normalized wave-functions for a particle in a one-dimensional infinitely deep potential
+well is given by
+
+vy, @) = ff sin where n= 1, 2,3, ....... (11)
 --- page 10 ---
 1 mark
 CO1, C. An enclosure filled with He is heated to 500 K. A beam of He atom emerges out of [4]
@@ -5295,6 +7210,65 @@ CO4, B. Starting from the initial state ∣00⟩, describe step-by-step how appl
 BL-   gate followed by a CNOT gate generates an entangled Bell state.
 1, 2
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Schrédinger's equation : Time-Dependent Form for a free particle
+
+The one-dimensional time dependent Schrédinger equation for a free non-relativistic particle (V =
+0) is given below
+
+_ BB (xt) _ 5p SWC)
+am oe ee @
+
+A free particle of total energy E and momentum p moving in the +x direction can be described by
+the wave-function Y of a place monochromatic wave. The expression for Y is given by
+
+(x,t) = Aexp (3 (px- Et)) Q)
+where A = amplitude of displacement of the wave
+
+i =reduced Planck constant (h/27) = 1.05457 x 104 Js
+
+The energy E and momentum p of the particle are related to its wave-vector k and frequency @ by
+the relations
+
+20
+
+p=bk=h-. E=ho
+
+Differentiating Eq. (2) once with respect to time gives.
+
+av(xt)
+a iZ Pao
+or
+in = Ev(x,t) 8)
+
+Differentiating Eq. (2) twice with respect to x gives.
+
+ap OP Gut)
+—in=E* = pw(x,t)
+_ pz O7F(xt) _ a
+nh? —— = p¥ (x, t) @)
+Dividing both sides of Eq. (4) by (1/2m), we obtain,
+_ 3? 87H (xt) _ p?
+se oe = me PD) (S)
+
+Comparing equations (1). (3) and (5), the energy E and momentum p of a free non-relativistic
+particle of mass m are related by the expression
+a
+
+2m am
+
+©
+
+As the particle is free, there are no boundary conditions to be applied to the particle motion and
+hence there are no restrictions on wave-vector k. As a result, the particle can possess any value of
+energy or the energy is not quantized. Thus, a freely moving particle possesses a continuous energy
+
+E
+
+k
+
+spectrum as given in the adjoining figure.
 --- page 12 ---
 ------3 marks
 ---------3 marks
@@ -5314,6 +7288,37 @@ Construction explanation   -2 M
 Tunnelling current equation   -2 M
 Working explanation   -3 M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+The Hadamard gate transforms:
+
+1
+0) + 5 + |1))
+
+So the combined state becomes:
+
+(<5) +) @
+
+Expanding:
+
+1
+- yl) + |10))
+
+e First qubit = control
+
+* Second qubit = target
+
+e Rule: If control = 1, flip target
+Apply CNOT to each term:
+
+e {00) — |00) (no change)
+
+e |10) — |11) (target flips)
+
+So the new state is:
+
+1
+5 ((00) + |11))
 --- page 13 ---
 The scanning tunnelling microscope is a
 practical application of quantum tunnelling
@@ -5416,6 +7421,7 @@ SWAP gate: This gate swaps the states of two qubits.
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_EXTC_7006/QUANTUM PHYSICS/ANS_QUANTUM PHYSICS(702BS0C093)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Jul 2026
 - Text: text (16 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -5569,6 +7575,33 @@ BL-
 Derivation of Compton scattering
 2 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The third excited state corresponds to n = 4 (since ground state n = 1),
+
+Energy required for transition:
+AE=E,-E;
+AE= ¥ cn 16 —
+= gmat -1)= FR nt
+. 15h?
+AE = one
+
+Given:
+L=1Ae1x10"%m
+h = 6.626 x 10 “Js
+m=9.11 x 10" kg
+Substituting:
+
+15(6.626 x 10°)?
+8(9.11 x 10°3)(1 x 10-2)?
+
+AE=
+AE © 15 x 6.02 x 10° J
+AE = 9.03 x 10°" J
+Converting into ev:
+
+. 9.03 x 10-17
+AE= Texto * 564eV
 --- page 7 ---
 3 marks
 3 marks
@@ -5580,6 +7613,49 @@ Explanation of ground state energy level with equation   -2M
 Zero point energy explanation   -2 M
 Energy levels of a harmonic oscillator with frequency of oscillation 𝜈 is given by
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Conservation of energy gives
+\ _ \ 2 2 2412
+pie + Ey = pre + (EG + pie*)
+Transposing the term p.c and squaring, we obtain
+
+Eq + €*(py — pr)? + 2cEq(p, — pr) = Eo + pee?
+
+2Eo(Pi — Po)
+
+Pe = Pi + ps — 2pyp2 +
+
+Eliminating p2 between Equations 3-26 and 3-27, we obtain
+
+Eo (pi — Pr)
+
+Pe = pps(1 — 00s)
+
+Multiplying each term by hc/p,p,E, and using \ = h/p, we obtain Compton's
+equation:
+
+A, - A= hey — cos6) = he — cos6)
+Ey me~
+or
+h
+A, — Ay = —(1 — cos) 3-25
+
+me
+
+i =
+E, = (n+5)hvy. 0=0.1,2.3.....
+where 7 is the quantum number.
+The ground state energy
+1
+Ey = zi
+
+represents the zero-point energy, a purely
+quantum mechanical phenomenon.
+
+¢ Energy levels are equally spaced.
+
+¢ The minimum energy is not zero.
 --- page 8 ---
 The lowest value of energy of a harmonic oscillator is called zero-point energy
 because a harmonic oscillator in equilibrium with its surroundings will approach this
@@ -5598,6 +7674,34 @@ BL-   potential well and obtain:
 2 marks
 2 marks
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Infinite Square-well Potential
+V=00 V=0
+Let us solve the problem of infinite potential well.
+
+Let us assume that a particle of mass m trapped in a
+one-dimensional infinitely deep potential well with
+V(x) = 0 except at boundaries x=0 and x=L. where vee
+it is infinitely large as shown in the figure. x=0 x=L
+Therefore,
+V(x) =0 forO<x<L
+
+=o forx<Oandx>L qd)
+We have to find out the eigenfunction and the corresponding eigenvalues for this problem.
+Inside the well V(x) = 0. Therefore, the time independent Schrédinger equation can be written as
+
+d?y(x) | 2mE
+dx? nh?
+
+2,
+oH k?y(x) =0 (3)
+
+v(x) =0 O<x<L 2)
+
+2mE
+
+Where k? =
 --- page 9 ---
 3 marks
 3 marks
@@ -5610,6 +7714,58 @@ Formula used
 1 mark
 2 marks
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+This is simple harmonic oscillator equation. The general solution is
+w(x) = Asinkx + Bcos kx (4)
+Where A and B are the arbitrary constants that can be found from boundary conditions.
+
+Continuity of y(x) requires
+
+wv) =y@)=0 ()
+w(0) = Asin(k.0) + Bcos(k.0) = 0
+Therefore. B=0
+and w(x) = A sin(kx) (}
+Now w(L) = Asin(kL) = 0
+
+Since A cannot be zero as it will give trivial. non normalizable solution y(x) = 0, we have
+
+sin (kL) = 0 or kL = 0, +2, 427, +32,
+
+Again k=0 is not acceptable as it will imply y(x) = 0 and the ‘-’ve sign can be absorbed into
+A. Therefore we have
+
+k= = n=1,2,3,..... ”
+
+L
+From Eqn. (3) and (7), we solve for the total energy En for each value of the integer n
+
+V(QmEy) on
+ho
+en?h?
+
+E,=
+" 2mL?
+
+(8)
+
+In contrast to the classical case, a quantum particle in the infinite square well can have only certain,
+discrete values of energy depending on the value of n. Thus. the energy becomes quantized due to
+confinement of the particle. Hence, a particle in an infinite potential well can have only bound
+states.
+
+The eigenfunctions corresponding to the above energy eigenvalues is given by
+
+vq = Asin kx = Asin PAPE (9)
+The constant A can be found from the normalization condition,
+
+
+Or A= fe (10)
+
+Hence, the normalized wave-functions for a particle in a one-dimensional infinitely deep potential
+well is given by
+
+vy, @) = ff sin where n= 1, 2,3, ....... (11)
 --- page 10 ---
 1 mark
 CO1, C. An enclosure filled with He is heated to 500 K. A beam of He atom emerges out of [4]
@@ -5640,6 +7796,65 @@ CO4, B. Starting from the initial state ∣00⟩, describe step-by-step how appl
 BL-   gate followed by a CNOT gate generates an entangled Bell state.
 1, 2
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Schrédinger's equation : Time-Dependent Form for a free particle
+
+The one-dimensional time dependent Schrédinger equation for a free non-relativistic particle (V =
+0) is given below
+
+_ BB (xt) _ 5p SWC)
+am oe ee @
+
+A free particle of total energy E and momentum p moving in the +x direction can be described by
+the wave-function Y of a place monochromatic wave. The expression for Y is given by
+
+(x,t) = Aexp (3 (px- Et)) Q)
+where A = amplitude of displacement of the wave
+
+i =reduced Planck constant (h/27) = 1.05457 x 104 Js
+
+The energy E and momentum p of the particle are related to its wave-vector k and frequency @ by
+the relations
+
+20
+
+p=bk=h-. E=ho
+
+Differentiating Eq. (2) once with respect to time gives.
+
+av(xt)
+a iZ Pao
+or
+in = Ev(x,t) 8)
+
+Differentiating Eq. (2) twice with respect to x gives.
+
+ap OP Gut)
+—in=E* = pw(x,t)
+_ pz O7F(xt) _ a
+nh? —— = p¥ (x, t) @)
+Dividing both sides of Eq. (4) by (1/2m), we obtain,
+_ 3? 87H (xt) _ p?
+se oe = me PD) (S)
+
+Comparing equations (1). (3) and (5), the energy E and momentum p of a free non-relativistic
+particle of mass m are related by the expression
+a
+
+2m am
+
+©
+
+As the particle is free, there are no boundary conditions to be applied to the particle motion and
+hence there are no restrictions on wave-vector k. As a result, the particle can possess any value of
+energy or the energy is not quantized. Thus, a freely moving particle possesses a continuous energy
+
+E
+
+k
+
+spectrum as given in the adjoining figure.
 --- page 12 ---
 ------3 marks
 ---------3 marks
@@ -5659,6 +7874,37 @@ Construction explanation   -2 M
 Tunnelling current equation   -2 M
 Working explanation   -3 M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+The Hadamard gate transforms:
+
+1
+0) + 5 + |1))
+
+So the combined state becomes:
+
+(<5) +) @
+
+Expanding:
+
+1
+- yl) + |10))
+
+e First qubit = control
+
+* Second qubit = target
+
+e Rule: If control = 1, flip target
+Apply CNOT to each term:
+
+e {00) — |00) (no change)
+
+e |10) — |11) (target flips)
+
+So the new state is:
+
+1
+5 ((00) + |11))
 --- page 13 ---
 The scanning tunnelling microscope is a
 practical application of quantum tunnelling
@@ -5761,6 +8007,7 @@ SWAP gate: This gate swaps the states of two qubits.
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_IT_7001/QUANTUM PHYSICS/ANS_QUANTUM PHYSICS(702BS0C093)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Jul 2026
 - Text: text (16 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -5914,6 +8161,33 @@ BL-
 Derivation of Compton scattering
 2 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The third excited state corresponds to n = 4 (since ground state n = 1),
+
+Energy required for transition:
+AE=E,-E;
+AE= ¥ cn 16 —
+= gmat -1)= FR nt
+. 15h?
+AE = one
+
+Given:
+L=1Ae1x10"%m
+h = 6.626 x 10 “Js
+m=9.11 x 10" kg
+Substituting:
+
+15(6.626 x 10°)?
+8(9.11 x 10°3)(1 x 10-2)?
+
+AE=
+AE © 15 x 6.02 x 10° J
+AE = 9.03 x 10°" J
+Converting into ev:
+
+. 9.03 x 10-17
+AE= Texto * 564eV
 --- page 7 ---
 3 marks
 3 marks
@@ -5925,6 +8199,49 @@ Explanation of ground state energy level with equation   -2M
 Zero point energy explanation   -2 M
 Energy levels of a harmonic oscillator with frequency of oscillation 𝜈 is given by
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Conservation of energy gives
+\ _ \ 2 2 2412
+pie + Ey = pre + (EG + pie*)
+Transposing the term p.c and squaring, we obtain
+
+Eq + €*(py — pr)? + 2cEq(p, — pr) = Eo + pee?
+
+2Eo(Pi — Po)
+
+Pe = Pi + ps — 2pyp2 +
+
+Eliminating p2 between Equations 3-26 and 3-27, we obtain
+
+Eo (pi — Pr)
+
+Pe = pps(1 — 00s)
+
+Multiplying each term by hc/p,p,E, and using \ = h/p, we obtain Compton's
+equation:
+
+A, - A= hey — cos6) = he — cos6)
+Ey me~
+or
+h
+A, — Ay = —(1 — cos) 3-25
+
+me
+
+i =
+E, = (n+5)hvy. 0=0.1,2.3.....
+where 7 is the quantum number.
+The ground state energy
+1
+Ey = zi
+
+represents the zero-point energy, a purely
+quantum mechanical phenomenon.
+
+¢ Energy levels are equally spaced.
+
+¢ The minimum energy is not zero.
 --- page 8 ---
 The lowest value of energy of a harmonic oscillator is called zero-point energy
 because a harmonic oscillator in equilibrium with its surroundings will approach this
@@ -5943,6 +8260,34 @@ BL-   potential well and obtain:
 2 marks
 2 marks
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Infinite Square-well Potential
+V=00 V=0
+Let us solve the problem of infinite potential well.
+
+Let us assume that a particle of mass m trapped in a
+one-dimensional infinitely deep potential well with
+V(x) = 0 except at boundaries x=0 and x=L. where vee
+it is infinitely large as shown in the figure. x=0 x=L
+Therefore,
+V(x) =0 forO<x<L
+
+=o forx<Oandx>L qd)
+We have to find out the eigenfunction and the corresponding eigenvalues for this problem.
+Inside the well V(x) = 0. Therefore, the time independent Schrédinger equation can be written as
+
+d?y(x) | 2mE
+dx? nh?
+
+2,
+oH k?y(x) =0 (3)
+
+v(x) =0 O<x<L 2)
+
+2mE
+
+Where k? =
 --- page 9 ---
 3 marks
 3 marks
@@ -5955,6 +8300,58 @@ Formula used
 1 mark
 2 marks
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+This is simple harmonic oscillator equation. The general solution is
+w(x) = Asinkx + Bcos kx (4)
+Where A and B are the arbitrary constants that can be found from boundary conditions.
+
+Continuity of y(x) requires
+
+wv) =y@)=0 ()
+w(0) = Asin(k.0) + Bcos(k.0) = 0
+Therefore. B=0
+and w(x) = A sin(kx) (}
+Now w(L) = Asin(kL) = 0
+
+Since A cannot be zero as it will give trivial. non normalizable solution y(x) = 0, we have
+
+sin (kL) = 0 or kL = 0, +2, 427, +32,
+
+Again k=0 is not acceptable as it will imply y(x) = 0 and the ‘-’ve sign can be absorbed into
+A. Therefore we have
+
+k= = n=1,2,3,..... ”
+
+L
+From Eqn. (3) and (7), we solve for the total energy En for each value of the integer n
+
+V(QmEy) on
+ho
+en?h?
+
+E,=
+" 2mL?
+
+(8)
+
+In contrast to the classical case, a quantum particle in the infinite square well can have only certain,
+discrete values of energy depending on the value of n. Thus. the energy becomes quantized due to
+confinement of the particle. Hence, a particle in an infinite potential well can have only bound
+states.
+
+The eigenfunctions corresponding to the above energy eigenvalues is given by
+
+vq = Asin kx = Asin PAPE (9)
+The constant A can be found from the normalization condition,
+
+
+Or A= fe (10)
+
+Hence, the normalized wave-functions for a particle in a one-dimensional infinitely deep potential
+well is given by
+
+vy, @) = ff sin where n= 1, 2,3, ....... (11)
 --- page 10 ---
 1 mark
 CO1, C. An enclosure filled with He is heated to 500 K. A beam of He atom emerges out of [4]
@@ -5985,6 +8382,65 @@ CO4, B. Starting from the initial state ∣00⟩, describe step-by-step how appl
 BL-   gate followed by a CNOT gate generates an entangled Bell state.
 1, 2
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Schrédinger's equation : Time-Dependent Form for a free particle
+
+The one-dimensional time dependent Schrédinger equation for a free non-relativistic particle (V =
+0) is given below
+
+_ BB (xt) _ 5p SWC)
+am oe ee @
+
+A free particle of total energy E and momentum p moving in the +x direction can be described by
+the wave-function Y of a place monochromatic wave. The expression for Y is given by
+
+(x,t) = Aexp (3 (px- Et)) Q)
+where A = amplitude of displacement of the wave
+
+i =reduced Planck constant (h/27) = 1.05457 x 104 Js
+
+The energy E and momentum p of the particle are related to its wave-vector k and frequency @ by
+the relations
+
+20
+
+p=bk=h-. E=ho
+
+Differentiating Eq. (2) once with respect to time gives.
+
+av(xt)
+a iZ Pao
+or
+in = Ev(x,t) 8)
+
+Differentiating Eq. (2) twice with respect to x gives.
+
+ap OP Gut)
+—in=E* = pw(x,t)
+_ pz O7F(xt) _ a
+nh? —— = p¥ (x, t) @)
+Dividing both sides of Eq. (4) by (1/2m), we obtain,
+_ 3? 87H (xt) _ p?
+se oe = me PD) (S)
+
+Comparing equations (1). (3) and (5), the energy E and momentum p of a free non-relativistic
+particle of mass m are related by the expression
+a
+
+2m am
+
+©
+
+As the particle is free, there are no boundary conditions to be applied to the particle motion and
+hence there are no restrictions on wave-vector k. As a result, the particle can possess any value of
+energy or the energy is not quantized. Thus, a freely moving particle possesses a continuous energy
+
+E
+
+k
+
+spectrum as given in the adjoining figure.
 --- page 12 ---
 ------3 marks
 ---------3 marks
@@ -6004,6 +8460,37 @@ Construction explanation   -2 M
 Tunnelling current equation   -2 M
 Working explanation   -3 M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+The Hadamard gate transforms:
+
+1
+0) + 5 + |1))
+
+So the combined state becomes:
+
+(<5) +) @
+
+Expanding:
+
+1
+- yl) + |10))
+
+e First qubit = control
+
+* Second qubit = target
+
+e Rule: If control = 1, flip target
+Apply CNOT to each term:
+
+e {00) — |00) (no change)
+
+e |10) — |11) (target flips)
+
+So the new state is:
+
+1
+5 ((00) + |11))
 --- page 13 ---
 The scanning tunnelling microscope is a
 practical application of quantum tunnelling
@@ -6106,6 +8593,7 @@ SWAP gate: This gate swaps the states of two qubits.
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/BTech_Mechatronics_7004/QUANTUM PHYSICS/ANS_QUANTUM PHYSICS(702BS0C093)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Jul 2026
 - Text: text (16 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -6259,6 +8747,33 @@ BL-
 Derivation of Compton scattering
 2 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The third excited state corresponds to n = 4 (since ground state n = 1),
+
+Energy required for transition:
+AE=E,-E;
+AE= ¥ cn 16 —
+= gmat -1)= FR nt
+. 15h?
+AE = one
+
+Given:
+L=1Ae1x10"%m
+h = 6.626 x 10 “Js
+m=9.11 x 10" kg
+Substituting:
+
+15(6.626 x 10°)?
+8(9.11 x 10°3)(1 x 10-2)?
+
+AE=
+AE © 15 x 6.02 x 10° J
+AE = 9.03 x 10°" J
+Converting into ev:
+
+. 9.03 x 10-17
+AE= Texto * 564eV
 --- page 7 ---
 3 marks
 3 marks
@@ -6270,6 +8785,49 @@ Explanation of ground state energy level with equation   -2M
 Zero point energy explanation   -2 M
 Energy levels of a harmonic oscillator with frequency of oscillation 𝜈 is given by
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Conservation of energy gives
+\ _ \ 2 2 2412
+pie + Ey = pre + (EG + pie*)
+Transposing the term p.c and squaring, we obtain
+
+Eq + €*(py — pr)? + 2cEq(p, — pr) = Eo + pee?
+
+2Eo(Pi — Po)
+
+Pe = Pi + ps — 2pyp2 +
+
+Eliminating p2 between Equations 3-26 and 3-27, we obtain
+
+Eo (pi — Pr)
+
+Pe = pps(1 — 00s)
+
+Multiplying each term by hc/p,p,E, and using \ = h/p, we obtain Compton's
+equation:
+
+A, - A= hey — cos6) = he — cos6)
+Ey me~
+or
+h
+A, — Ay = —(1 — cos) 3-25
+
+me
+
+i =
+E, = (n+5)hvy. 0=0.1,2.3.....
+where 7 is the quantum number.
+The ground state energy
+1
+Ey = zi
+
+represents the zero-point energy, a purely
+quantum mechanical phenomenon.
+
+¢ Energy levels are equally spaced.
+
+¢ The minimum energy is not zero.
 --- page 8 ---
 The lowest value of energy of a harmonic oscillator is called zero-point energy
 because a harmonic oscillator in equilibrium with its surroundings will approach this
@@ -6288,6 +8846,34 @@ BL-   potential well and obtain:
 2 marks
 2 marks
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Infinite Square-well Potential
+V=00 V=0
+Let us solve the problem of infinite potential well.
+
+Let us assume that a particle of mass m trapped in a
+one-dimensional infinitely deep potential well with
+V(x) = 0 except at boundaries x=0 and x=L. where vee
+it is infinitely large as shown in the figure. x=0 x=L
+Therefore,
+V(x) =0 forO<x<L
+
+=o forx<Oandx>L qd)
+We have to find out the eigenfunction and the corresponding eigenvalues for this problem.
+Inside the well V(x) = 0. Therefore, the time independent Schrédinger equation can be written as
+
+d?y(x) | 2mE
+dx? nh?
+
+2,
+oH k?y(x) =0 (3)
+
+v(x) =0 O<x<L 2)
+
+2mE
+
+Where k? =
 --- page 9 ---
 3 marks
 3 marks
@@ -6300,6 +8886,58 @@ Formula used
 1 mark
 2 marks
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+This is simple harmonic oscillator equation. The general solution is
+w(x) = Asinkx + Bcos kx (4)
+Where A and B are the arbitrary constants that can be found from boundary conditions.
+
+Continuity of y(x) requires
+
+wv) =y@)=0 ()
+w(0) = Asin(k.0) + Bcos(k.0) = 0
+Therefore. B=0
+and w(x) = A sin(kx) (}
+Now w(L) = Asin(kL) = 0
+
+Since A cannot be zero as it will give trivial. non normalizable solution y(x) = 0, we have
+
+sin (kL) = 0 or kL = 0, +2, 427, +32,
+
+Again k=0 is not acceptable as it will imply y(x) = 0 and the ‘-’ve sign can be absorbed into
+A. Therefore we have
+
+k= = n=1,2,3,..... ”
+
+L
+From Eqn. (3) and (7), we solve for the total energy En for each value of the integer n
+
+V(QmEy) on
+ho
+en?h?
+
+E,=
+" 2mL?
+
+(8)
+
+In contrast to the classical case, a quantum particle in the infinite square well can have only certain,
+discrete values of energy depending on the value of n. Thus. the energy becomes quantized due to
+confinement of the particle. Hence, a particle in an infinite potential well can have only bound
+states.
+
+The eigenfunctions corresponding to the above energy eigenvalues is given by
+
+vq = Asin kx = Asin PAPE (9)
+The constant A can be found from the normalization condition,
+
+
+Or A= fe (10)
+
+Hence, the normalized wave-functions for a particle in a one-dimensional infinitely deep potential
+well is given by
+
+vy, @) = ff sin where n= 1, 2,3, ....... (11)
 --- page 10 ---
 1 mark
 CO1, C. An enclosure filled with He is heated to 500 K. A beam of He atom emerges out of [4]
@@ -6330,6 +8968,65 @@ CO4, B. Starting from the initial state ∣00⟩, describe step-by-step how appl
 BL-   gate followed by a CNOT gate generates an entangled Bell state.
 1, 2
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Schrédinger's equation : Time-Dependent Form for a free particle
+
+The one-dimensional time dependent Schrédinger equation for a free non-relativistic particle (V =
+0) is given below
+
+_ BB (xt) _ 5p SWC)
+am oe ee @
+
+A free particle of total energy E and momentum p moving in the +x direction can be described by
+the wave-function Y of a place monochromatic wave. The expression for Y is given by
+
+(x,t) = Aexp (3 (px- Et)) Q)
+where A = amplitude of displacement of the wave
+
+i =reduced Planck constant (h/27) = 1.05457 x 104 Js
+
+The energy E and momentum p of the particle are related to its wave-vector k and frequency @ by
+the relations
+
+20
+
+p=bk=h-. E=ho
+
+Differentiating Eq. (2) once with respect to time gives.
+
+av(xt)
+a iZ Pao
+or
+in = Ev(x,t) 8)
+
+Differentiating Eq. (2) twice with respect to x gives.
+
+ap OP Gut)
+—in=E* = pw(x,t)
+_ pz O7F(xt) _ a
+nh? —— = p¥ (x, t) @)
+Dividing both sides of Eq. (4) by (1/2m), we obtain,
+_ 3? 87H (xt) _ p?
+se oe = me PD) (S)
+
+Comparing equations (1). (3) and (5), the energy E and momentum p of a free non-relativistic
+particle of mass m are related by the expression
+a
+
+2m am
+
+©
+
+As the particle is free, there are no boundary conditions to be applied to the particle motion and
+hence there are no restrictions on wave-vector k. As a result, the particle can possess any value of
+energy or the energy is not quantized. Thus, a freely moving particle possesses a continuous energy
+
+E
+
+k
+
+spectrum as given in the adjoining figure.
 --- page 12 ---
 ------3 marks
 ---------3 marks
@@ -6349,6 +9046,37 @@ Construction explanation   -2 M
 Tunnelling current equation   -2 M
 Working explanation   -3 M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+The Hadamard gate transforms:
+
+1
+0) + 5 + |1))
+
+So the combined state becomes:
+
+(<5) +) @
+
+Expanding:
+
+1
+- yl) + |10))
+
+e First qubit = control
+
+* Second qubit = target
+
+e Rule: If control = 1, flip target
+Apply CNOT to each term:
+
+e {00) — |00) (no change)
+
+e |10) — |11) (target flips)
+
+So the new state is:
+
+1
+5 ((00) + |11))
 --- page 13 ---
 The scanning tunnelling microscope is a
 practical application of quantum tunnelling
@@ -6487,6 +9215,31 @@ Diffraction
 CO-2; BL- 1   [4]
 CO-3 ; BL-1   c.   Given 0.5m; formula: 1m each (2m); Solution: 1m; correct answer: 0.5m   [4]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+INTERFERENCE
+DIFFRACTION
+
+1. The interaction takes place between
+
+1. The interaction takes place between the
+two separate wave fronts arising ' : p
+
+secondary wavelets originating from
+
+trom two coherent squrees: different points of the exposed parts of
+2. In interference pattern the regions the same wave front.
+of minimum intensity are perfectly 2. In diffraction pattern the regions of
+dark. minimum intensity are not perfectly
+3. The interference fringes are equally dark.
+spaced. 3. The diffraction fringes are never equally
+spaced.
+
+4. In interference pattern all bright
+fringes are of equal intensity. 4. Indiffraction pattern only first maximum
+
+has maximum intensity and the intensity
+m £. Sa eee. a
 --- page 2 ---
 d.
 CO-4 ; BL-1   [4]
@@ -6510,6 +9263,16 @@ BL-2
 Derivation of Hall Coefficient
 RH= EH/J. B   4 Marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Given 0, = 35°, ny = 1.5, np = 1.
+
+NA = nosin@, = 1 x sin35° = 0.5736
+
+NA= yn =n => 0.57367 = 1.5? — n}
+
+0.329 = 2.25 -n} => n} = 1.921
+ng = V1.921 ~ 1.39
 --- page 3 ---
 Solution
 Numerical data
@@ -6683,6 +9446,25 @@ The probability of occupancy f(E) is given by the Fermi-Dirac
 distribution function:
 f(E) = 1/1+e(E−EF)/kT
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Formula for magnetic field due to a long straight current-carrying conductor:
+
+pa tol
+ar
+
+Substitution:
+
+(4m x 10-7) x 9
+
+2a x 0.07
+Cancel 7:
+_ 36x 10-7
+0.14
+B=257%10 °°
+Answer:
+
+B= 2.57 x 107° Tesla
 --- page 8 ---
 Let ΔE = E−EF.
 (a) Energy level ΔE = kT above EF:
@@ -6789,6 +9571,21 @@ CO-3 ; BL-2   c.   Solution: Four differences-4m   (1 m each)   4
 CO-4 ; BL-2   d.   Definition of Bio Savart’s law   2 Marks   4
 Its mathematical form   2 Marks
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Answer:
+
+As temperature increases, more covalent bonds in the semiconductor break, generating 4
+electron-hole pairs.
+e Inn-type semiconductors, the number of electrons in the conduction band increase:
+from donor atoms dominate.
+* In p-type semiconductors, the number of holes increases, though holes from accept
+
+the majority carriers.
+
+At high temperatures, both types behave more like intrinsic semiconductors as intrinsic ¢
+
+concentration becomes dominant.
 --- page 12 ---
 CO-5; BL- 2 e. Definition of dielectric constant with appropriate formula
 e
@@ -6816,6 +9613,7 @@ AR AR RAG 1 DRA OK RK
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/MBATech_Computer_7047/QUANTUM PHYSICS/ANS_QUANTUM PHYSICS(702BS0C093)_2025-2026_33a0c43974.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Jul 2026
 - Text: text (16 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -6969,6 +9767,33 @@ BL-
 Derivation of Compton scattering
 2 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The third excited state corresponds to n = 4 (since ground state n = 1),
+
+Energy required for transition:
+AE=E,-E;
+AE= ¥ cn 16 —
+= gmat -1)= FR nt
+. 15h?
+AE = one
+
+Given:
+L=1Ae1x10"%m
+h = 6.626 x 10 “Js
+m=9.11 x 10" kg
+Substituting:
+
+15(6.626 x 10°)?
+8(9.11 x 10°3)(1 x 10-2)?
+
+AE=
+AE © 15 x 6.02 x 10° J
+AE = 9.03 x 10°" J
+Converting into ev:
+
+. 9.03 x 10-17
+AE= Texto * 564eV
 --- page 7 ---
 3 marks
 3 marks
@@ -6980,6 +9805,49 @@ Explanation of ground state energy level with equation   -2M
 Zero point energy explanation   -2 M
 Energy levels of a harmonic oscillator with frequency of oscillation 𝜈 is given by
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Conservation of energy gives
+\ _ \ 2 2 2412
+pie + Ey = pre + (EG + pie*)
+Transposing the term p.c and squaring, we obtain
+
+Eq + €*(py — pr)? + 2cEq(p, — pr) = Eo + pee?
+
+2Eo(Pi — Po)
+
+Pe = Pi + ps — 2pyp2 +
+
+Eliminating p2 between Equations 3-26 and 3-27, we obtain
+
+Eo (pi — Pr)
+
+Pe = pps(1 — 00s)
+
+Multiplying each term by hc/p,p,E, and using \ = h/p, we obtain Compton's
+equation:
+
+A, - A= hey — cos6) = he — cos6)
+Ey me~
+or
+h
+A, — Ay = —(1 — cos) 3-25
+
+me
+
+i =
+E, = (n+5)hvy. 0=0.1,2.3.....
+where 7 is the quantum number.
+The ground state energy
+1
+Ey = zi
+
+represents the zero-point energy, a purely
+quantum mechanical phenomenon.
+
+¢ Energy levels are equally spaced.
+
+¢ The minimum energy is not zero.
 --- page 8 ---
 The lowest value of energy of a harmonic oscillator is called zero-point energy
 because a harmonic oscillator in equilibrium with its surroundings will approach this
@@ -6998,6 +9866,34 @@ BL-   potential well and obtain:
 2 marks
 2 marks
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Infinite Square-well Potential
+V=00 V=0
+Let us solve the problem of infinite potential well.
+
+Let us assume that a particle of mass m trapped in a
+one-dimensional infinitely deep potential well with
+V(x) = 0 except at boundaries x=0 and x=L. where vee
+it is infinitely large as shown in the figure. x=0 x=L
+Therefore,
+V(x) =0 forO<x<L
+
+=o forx<Oandx>L qd)
+We have to find out the eigenfunction and the corresponding eigenvalues for this problem.
+Inside the well V(x) = 0. Therefore, the time independent Schrédinger equation can be written as
+
+d?y(x) | 2mE
+dx? nh?
+
+2,
+oH k?y(x) =0 (3)
+
+v(x) =0 O<x<L 2)
+
+2mE
+
+Where k? =
 --- page 9 ---
 3 marks
 3 marks
@@ -7010,6 +9906,58 @@ Formula used
 1 mark
 2 marks
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+This is simple harmonic oscillator equation. The general solution is
+w(x) = Asinkx + Bcos kx (4)
+Where A and B are the arbitrary constants that can be found from boundary conditions.
+
+Continuity of y(x) requires
+
+wv) =y@)=0 ()
+w(0) = Asin(k.0) + Bcos(k.0) = 0
+Therefore. B=0
+and w(x) = A sin(kx) (}
+Now w(L) = Asin(kL) = 0
+
+Since A cannot be zero as it will give trivial. non normalizable solution y(x) = 0, we have
+
+sin (kL) = 0 or kL = 0, +2, 427, +32,
+
+Again k=0 is not acceptable as it will imply y(x) = 0 and the ‘-’ve sign can be absorbed into
+A. Therefore we have
+
+k= = n=1,2,3,..... ”
+
+L
+From Eqn. (3) and (7), we solve for the total energy En for each value of the integer n
+
+V(QmEy) on
+ho
+en?h?
+
+E,=
+" 2mL?
+
+(8)
+
+In contrast to the classical case, a quantum particle in the infinite square well can have only certain,
+discrete values of energy depending on the value of n. Thus. the energy becomes quantized due to
+confinement of the particle. Hence, a particle in an infinite potential well can have only bound
+states.
+
+The eigenfunctions corresponding to the above energy eigenvalues is given by
+
+vq = Asin kx = Asin PAPE (9)
+The constant A can be found from the normalization condition,
+
+
+Or A= fe (10)
+
+Hence, the normalized wave-functions for a particle in a one-dimensional infinitely deep potential
+well is given by
+
+vy, @) = ff sin where n= 1, 2,3, ....... (11)
 --- page 10 ---
 1 mark
 CO1, C. An enclosure filled with He is heated to 500 K. A beam of He atom emerges out of [4]
@@ -7040,6 +9988,65 @@ CO4, B. Starting from the initial state ∣00⟩, describe step-by-step how appl
 BL-   gate followed by a CNOT gate generates an entangled Bell state.
 1, 2
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Schrédinger's equation : Time-Dependent Form for a free particle
+
+The one-dimensional time dependent Schrédinger equation for a free non-relativistic particle (V =
+0) is given below
+
+_ BB (xt) _ 5p SWC)
+am oe ee @
+
+A free particle of total energy E and momentum p moving in the +x direction can be described by
+the wave-function Y of a place monochromatic wave. The expression for Y is given by
+
+(x,t) = Aexp (3 (px- Et)) Q)
+where A = amplitude of displacement of the wave
+
+i =reduced Planck constant (h/27) = 1.05457 x 104 Js
+
+The energy E and momentum p of the particle are related to its wave-vector k and frequency @ by
+the relations
+
+20
+
+p=bk=h-. E=ho
+
+Differentiating Eq. (2) once with respect to time gives.
+
+av(xt)
+a iZ Pao
+or
+in = Ev(x,t) 8)
+
+Differentiating Eq. (2) twice with respect to x gives.
+
+ap OP Gut)
+—in=E* = pw(x,t)
+_ pz O7F(xt) _ a
+nh? —— = p¥ (x, t) @)
+Dividing both sides of Eq. (4) by (1/2m), we obtain,
+_ 3? 87H (xt) _ p?
+se oe = me PD) (S)
+
+Comparing equations (1). (3) and (5), the energy E and momentum p of a free non-relativistic
+particle of mass m are related by the expression
+a
+
+2m am
+
+©
+
+As the particle is free, there are no boundary conditions to be applied to the particle motion and
+hence there are no restrictions on wave-vector k. As a result, the particle can possess any value of
+energy or the energy is not quantized. Thus, a freely moving particle possesses a continuous energy
+
+E
+
+k
+
+spectrum as given in the adjoining figure.
 --- page 12 ---
 ------3 marks
 ---------3 marks
@@ -7059,6 +10066,37 @@ Construction explanation   -2 M
 Tunnelling current equation   -2 M
 Working explanation   -3 M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+The Hadamard gate transforms:
+
+1
+0) + 5 + |1))
+
+So the combined state becomes:
+
+(<5) +) @
+
+Expanding:
+
+1
+- yl) + |10))
+
+e First qubit = control
+
+* Second qubit = target
+
+e Rule: If control = 1, flip target
+Apply CNOT to each term:
+
+e {00) — |00) (no change)
+
+e |10) — |11) (target flips)
+
+So the new state is:
+
+1
+5 ((00) + |11))
 --- page 13 ---
 The scanning tunnelling microscope is a
 practical application of quantum tunnelling
@@ -7161,6 +10199,7 @@ SWAP gate: This gate swaps the states of two qubits.
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/MBATech_DS_7052/QUANTUM PHYSICS/ANS_QUANTUM PHYSICS(702BS0C093)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 Jul 2026
 - Text: text (16 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -7314,6 +10353,33 @@ BL-
 Derivation of Compton scattering
 2 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The third excited state corresponds to n = 4 (since ground state n = 1),
+
+Energy required for transition:
+AE=E,-E;
+AE= ¥ cn 16 —
+= gmat -1)= FR nt
+. 15h?
+AE = one
+
+Given:
+L=1Ae1x10"%m
+h = 6.626 x 10 “Js
+m=9.11 x 10" kg
+Substituting:
+
+15(6.626 x 10°)?
+8(9.11 x 10°3)(1 x 10-2)?
+
+AE=
+AE © 15 x 6.02 x 10° J
+AE = 9.03 x 10°" J
+Converting into ev:
+
+. 9.03 x 10-17
+AE= Texto * 564eV
 --- page 7 ---
 3 marks
 3 marks
@@ -7325,6 +10391,49 @@ Explanation of ground state energy level with equation   -2M
 Zero point energy explanation   -2 M
 Energy levels of a harmonic oscillator with frequency of oscillation 𝜈 is given by
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Conservation of energy gives
+\ _ \ 2 2 2412
+pie + Ey = pre + (EG + pie*)
+Transposing the term p.c and squaring, we obtain
+
+Eq + €*(py — pr)? + 2cEq(p, — pr) = Eo + pee?
+
+2Eo(Pi — Po)
+
+Pe = Pi + ps — 2pyp2 +
+
+Eliminating p2 between Equations 3-26 and 3-27, we obtain
+
+Eo (pi — Pr)
+
+Pe = pps(1 — 00s)
+
+Multiplying each term by hc/p,p,E, and using \ = h/p, we obtain Compton's
+equation:
+
+A, - A= hey — cos6) = he — cos6)
+Ey me~
+or
+h
+A, — Ay = —(1 — cos) 3-25
+
+me
+
+i =
+E, = (n+5)hvy. 0=0.1,2.3.....
+where 7 is the quantum number.
+The ground state energy
+1
+Ey = zi
+
+represents the zero-point energy, a purely
+quantum mechanical phenomenon.
+
+¢ Energy levels are equally spaced.
+
+¢ The minimum energy is not zero.
 --- page 8 ---
 The lowest value of energy of a harmonic oscillator is called zero-point energy
 because a harmonic oscillator in equilibrium with its surroundings will approach this
@@ -7343,6 +10452,34 @@ BL-   potential well and obtain:
 2 marks
 2 marks
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Infinite Square-well Potential
+V=00 V=0
+Let us solve the problem of infinite potential well.
+
+Let us assume that a particle of mass m trapped in a
+one-dimensional infinitely deep potential well with
+V(x) = 0 except at boundaries x=0 and x=L. where vee
+it is infinitely large as shown in the figure. x=0 x=L
+Therefore,
+V(x) =0 forO<x<L
+
+=o forx<Oandx>L qd)
+We have to find out the eigenfunction and the corresponding eigenvalues for this problem.
+Inside the well V(x) = 0. Therefore, the time independent Schrédinger equation can be written as
+
+d?y(x) | 2mE
+dx? nh?
+
+2,
+oH k?y(x) =0 (3)
+
+v(x) =0 O<x<L 2)
+
+2mE
+
+Where k? =
 --- page 9 ---
 3 marks
 3 marks
@@ -7355,6 +10492,58 @@ Formula used
 1 mark
 2 marks
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+This is simple harmonic oscillator equation. The general solution is
+w(x) = Asinkx + Bcos kx (4)
+Where A and B are the arbitrary constants that can be found from boundary conditions.
+
+Continuity of y(x) requires
+
+wv) =y@)=0 ()
+w(0) = Asin(k.0) + Bcos(k.0) = 0
+Therefore. B=0
+and w(x) = A sin(kx) (}
+Now w(L) = Asin(kL) = 0
+
+Since A cannot be zero as it will give trivial. non normalizable solution y(x) = 0, we have
+
+sin (kL) = 0 or kL = 0, +2, 427, +32,
+
+Again k=0 is not acceptable as it will imply y(x) = 0 and the ‘-’ve sign can be absorbed into
+A. Therefore we have
+
+k= = n=1,2,3,..... ”
+
+L
+From Eqn. (3) and (7), we solve for the total energy En for each value of the integer n
+
+V(QmEy) on
+ho
+en?h?
+
+E,=
+" 2mL?
+
+(8)
+
+In contrast to the classical case, a quantum particle in the infinite square well can have only certain,
+discrete values of energy depending on the value of n. Thus. the energy becomes quantized due to
+confinement of the particle. Hence, a particle in an infinite potential well can have only bound
+states.
+
+The eigenfunctions corresponding to the above energy eigenvalues is given by
+
+vq = Asin kx = Asin PAPE (9)
+The constant A can be found from the normalization condition,
+
+
+Or A= fe (10)
+
+Hence, the normalized wave-functions for a particle in a one-dimensional infinitely deep potential
+well is given by
+
+vy, @) = ff sin where n= 1, 2,3, ....... (11)
 --- page 10 ---
 1 mark
 CO1, C. An enclosure filled with He is heated to 500 K. A beam of He atom emerges out of [4]
@@ -7385,6 +10574,65 @@ CO4, B. Starting from the initial state ∣00⟩, describe step-by-step how appl
 BL-   gate followed by a CNOT gate generates an entangled Bell state.
 1, 2
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Schrédinger's equation : Time-Dependent Form for a free particle
+
+The one-dimensional time dependent Schrédinger equation for a free non-relativistic particle (V =
+0) is given below
+
+_ BB (xt) _ 5p SWC)
+am oe ee @
+
+A free particle of total energy E and momentum p moving in the +x direction can be described by
+the wave-function Y of a place monochromatic wave. The expression for Y is given by
+
+(x,t) = Aexp (3 (px- Et)) Q)
+where A = amplitude of displacement of the wave
+
+i =reduced Planck constant (h/27) = 1.05457 x 104 Js
+
+The energy E and momentum p of the particle are related to its wave-vector k and frequency @ by
+the relations
+
+20
+
+p=bk=h-. E=ho
+
+Differentiating Eq. (2) once with respect to time gives.
+
+av(xt)
+a iZ Pao
+or
+in = Ev(x,t) 8)
+
+Differentiating Eq. (2) twice with respect to x gives.
+
+ap OP Gut)
+—in=E* = pw(x,t)
+_ pz O7F(xt) _ a
+nh? —— = p¥ (x, t) @)
+Dividing both sides of Eq. (4) by (1/2m), we obtain,
+_ 3? 87H (xt) _ p?
+se oe = me PD) (S)
+
+Comparing equations (1). (3) and (5), the energy E and momentum p of a free non-relativistic
+particle of mass m are related by the expression
+a
+
+2m am
+
+©
+
+As the particle is free, there are no boundary conditions to be applied to the particle motion and
+hence there are no restrictions on wave-vector k. As a result, the particle can possess any value of
+energy or the energy is not quantized. Thus, a freely moving particle possesses a continuous energy
+
+E
+
+k
+
+spectrum as given in the adjoining figure.
 --- page 12 ---
 ------3 marks
 ---------3 marks
@@ -7404,6 +10652,37 @@ Construction explanation   -2 M
 Tunnelling current equation   -2 M
 Working explanation   -3 M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+The Hadamard gate transforms:
+
+1
+0) + 5 + |1))
+
+So the combined state becomes:
+
+(<5) +) @
+
+Expanding:
+
+1
+- yl) + |10))
+
+e First qubit = control
+
+* Second qubit = target
+
+e Rule: If control = 1, flip target
+Apply CNOT to each term:
+
+e {00) — |00) (no change)
+
+e |10) — |11) (target flips)
+
+So the new state is:
+
+1
+5 ((00) + |11))
 --- page 13 ---
 The scanning tunnelling microscope is a
 practical application of quantum tunnelling
@@ -7506,6 +10785,7 @@ SWAP gate: This gate swaps the states of two qubits.
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/MBATech_IT_7041/QUANTUM PHYSICS/ANS_QUANTUM PHYSICS(702BS0C093)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 Jul 2026
 - Text: text (16 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKMs NMIMS
@@ -7652,6 +10932,33 @@ BL-
 Derivation of Compton scattering
 2 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The third excited state corresponds to n = 4 (since ground state n = 1),
+
+Energy required for transition:
+AE=E,-E;
+AE= ¥ cn 16 —
+= gmat -1)= FR nt
+. 15h?
+AE = one
+
+Given:
+L=1Ae1x10"%m
+h = 6.626 x 10 “Js
+m=9.11 x 10" kg
+Substituting:
+
+15(6.626 x 10°)?
+8(9.11 x 10°3)(1 x 10-2)?
+
+AE=
+AE © 15 x 6.02 x 10° J
+AE = 9.03 x 10°" J
+Converting into ev:
+
+. 9.03 x 10-17
+AE= Texto * 564eV
 --- page 7 ---
 3 marks
 3 marks
@@ -7663,6 +10970,49 @@ Explanation of ground state energy level with equation   -2M
 Zero point energy explanation   -2 M
 Energy levels of a harmonic oscillator with frequency of oscillation 𝜈 is given by
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Conservation of energy gives
+\ _ \ 2 2 2412
+pie + Ey = pre + (EG + pie*)
+Transposing the term p.c and squaring, we obtain
+
+Eq + €*(py — pr)? + 2cEq(p, — pr) = Eo + pee?
+
+2Eo(Pi — Po)
+
+Pe = Pi + ps — 2pyp2 +
+
+Eliminating p2 between Equations 3-26 and 3-27, we obtain
+
+Eo (pi — Pr)
+
+Pe = pps(1 — 00s)
+
+Multiplying each term by hc/p,p,E, and using \ = h/p, we obtain Compton's
+equation:
+
+A, - A= hey — cos6) = he — cos6)
+Ey me~
+or
+h
+A, — Ay = —(1 — cos) 3-25
+
+me
+
+i =
+E, = (n+5)hvy. 0=0.1,2.3.....
+where 7 is the quantum number.
+The ground state energy
+1
+Ey = zi
+
+represents the zero-point energy, a purely
+quantum mechanical phenomenon.
+
+¢ Energy levels are equally spaced.
+
+¢ The minimum energy is not zero.
 --- page 8 ---
 The lowest value of energy of a harmonic oscillator is called zero-point energy
 because a harmonic oscillator in equilibrium with its surroundings will approach this
@@ -7681,6 +11031,34 @@ BL-   potential well and obtain:
 2 marks
 2 marks
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Infinite Square-well Potential
+V=00 V=0
+Let us solve the problem of infinite potential well.
+
+Let us assume that a particle of mass m trapped in a
+one-dimensional infinitely deep potential well with
+V(x) = 0 except at boundaries x=0 and x=L. where vee
+it is infinitely large as shown in the figure. x=0 x=L
+Therefore,
+V(x) =0 forO<x<L
+
+=o forx<Oandx>L qd)
+We have to find out the eigenfunction and the corresponding eigenvalues for this problem.
+Inside the well V(x) = 0. Therefore, the time independent Schrédinger equation can be written as
+
+d?y(x) | 2mE
+dx? nh?
+
+2,
+oH k?y(x) =0 (3)
+
+v(x) =0 O<x<L 2)
+
+2mE
+
+Where k? =
 --- page 9 ---
 3 marks
 3 marks
@@ -7693,6 +11071,58 @@ Formula used
 1 mark
 2 marks
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+This is simple harmonic oscillator equation. The general solution is
+w(x) = Asinkx + Bcos kx (4)
+Where A and B are the arbitrary constants that can be found from boundary conditions.
+
+Continuity of y(x) requires
+
+wv) =y@)=0 ()
+w(0) = Asin(k.0) + Bcos(k.0) = 0
+Therefore. B=0
+and w(x) = A sin(kx) (}
+Now w(L) = Asin(kL) = 0
+
+Since A cannot be zero as it will give trivial. non normalizable solution y(x) = 0, we have
+
+sin (kL) = 0 or kL = 0, +2, 427, +32,
+
+Again k=0 is not acceptable as it will imply y(x) = 0 and the ‘-’ve sign can be absorbed into
+A. Therefore we have
+
+k= = n=1,2,3,..... ”
+
+L
+From Eqn. (3) and (7), we solve for the total energy En for each value of the integer n
+
+V(QmEy) on
+ho
+en?h?
+
+E,=
+" 2mL?
+
+(8)
+
+In contrast to the classical case, a quantum particle in the infinite square well can have only certain,
+discrete values of energy depending on the value of n. Thus. the energy becomes quantized due to
+confinement of the particle. Hence, a particle in an infinite potential well can have only bound
+states.
+
+The eigenfunctions corresponding to the above energy eigenvalues is given by
+
+vq = Asin kx = Asin PAPE (9)
+The constant A can be found from the normalization condition,
+
+
+Or A= fe (10)
+
+Hence, the normalized wave-functions for a particle in a one-dimensional infinitely deep potential
+well is given by
+
+vy, @) = ff sin where n= 1, 2,3, ....... (11)
 --- page 10 ---
 1 mark
 CO1, C. An enclosure filled with He is heated to 500 K. A beam of He atom emerges out of [4]
@@ -7723,6 +11153,65 @@ CO4, B. Starting from the initial state ∣00⟩, describe step-by-step how appl
 BL-   gate followed by a CNOT gate generates an entangled Bell state.
 1, 2
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Schrédinger's equation : Time-Dependent Form for a free particle
+
+The one-dimensional time dependent Schrédinger equation for a free non-relativistic particle (V =
+0) is given below
+
+_ BB (xt) _ 5p SWC)
+am oe ee @
+
+A free particle of total energy E and momentum p moving in the +x direction can be described by
+the wave-function Y of a place monochromatic wave. The expression for Y is given by
+
+(x,t) = Aexp (3 (px- Et)) Q)
+where A = amplitude of displacement of the wave
+
+i =reduced Planck constant (h/27) = 1.05457 x 104 Js
+
+The energy E and momentum p of the particle are related to its wave-vector k and frequency @ by
+the relations
+
+20
+
+p=bk=h-. E=ho
+
+Differentiating Eq. (2) once with respect to time gives.
+
+av(xt)
+a iZ Pao
+or
+in = Ev(x,t) 8)
+
+Differentiating Eq. (2) twice with respect to x gives.
+
+ap OP Gut)
+—in=E* = pw(x,t)
+_ pz O7F(xt) _ a
+nh? —— = p¥ (x, t) @)
+Dividing both sides of Eq. (4) by (1/2m), we obtain,
+_ 3? 87H (xt) _ p?
+se oe = me PD) (S)
+
+Comparing equations (1). (3) and (5), the energy E and momentum p of a free non-relativistic
+particle of mass m are related by the expression
+a
+
+2m am
+
+©
+
+As the particle is free, there are no boundary conditions to be applied to the particle motion and
+hence there are no restrictions on wave-vector k. As a result, the particle can possess any value of
+energy or the energy is not quantized. Thus, a freely moving particle possesses a continuous energy
+
+E
+
+k
+
+spectrum as given in the adjoining figure.
 --- page 12 ---
 ------3 marks
 ---------3 marks
@@ -7742,6 +11231,37 @@ Construction explanation   -2 M
 Tunnelling current equation   -2 M
 Working explanation   -3 M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+The Hadamard gate transforms:
+
+1
+0) + 5 + |1))
+
+So the combined state becomes:
+
+(<5) +) @
+
+Expanding:
+
+1
+- yl) + |10))
+
+e First qubit = control
+
+* Second qubit = target
+
+e Rule: If control = 1, flip target
+Apply CNOT to each term:
+
+e {00) — |00) (no change)
+
+e |10) — |11) (target flips)
+
+So the new state is:
+
+1
+5 ((00) + |11))
 --- page 13 ---
 The scanning tunnelling microscope is a
 practical application of quantum tunnelling

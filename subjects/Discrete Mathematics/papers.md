@@ -37,6 +37,11 @@ C.   5
 A.
 5
 Page 1 of 3
+
+[Text in pictures on this page, read by OCR]
+Prove that the sum of the squares of the first n natural numbers is
+
+P42 4aP ye gna Mt Ont) for all integers n > 1.
 --- page 2 ---
 3.
 
@@ -3730,6 +3735,12 @@ operations of addition and multiplication .
 1. Obtain disjunctive normal form of:   6
 2.   6
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+J: RR is defined by f(x) = x, g:R — R is defined by g(x)=4x°4+1 h:R>Ris
+defined by h(x)=7x-2
+
+Find the rule defining (7) fog (ii) gof (iii) (goh)of (iv) go(hof)
 --- page 5 ---
 3. Determine if the given graph has a) A Eulerian path b) A Eulerian cycle c) A Hamilton   8
 Path d) A Hamilton cycle
@@ -3826,6 +3837,12 @@ operations of addition and multiplication .
 1. Obtain disjunctive normal form of:   6
 2.   6
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+J: RR is defined by f(x) = x, g:R — R is defined by g(x)=4x°4+1 h:R>Ris
+defined by h(x)=7x-2
+
+Find the rule defining (7) fog (ii) gof (iii) (goh)of (iv) go(hof)
 --- page 5 ---
 3. Determine if the given graph has a) A Eulerian path b) A Eulerian cycle c) A Hamilton   8
 Path d) A Hamilton cycle
@@ -3922,6 +3939,12 @@ operations of addition and multiplication .
 1. Obtain disjunctive normal form of:   6
 2.   6
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+J: RR is defined by f(x) = x, g:R — R is defined by g(x)=4x°4+1 h:R>Ris
+defined by h(x)=7x-2
+
+Find the rule defining (7) fog (ii) gof (iii) (goh)of (iv) go(hof)
 --- page 5 ---
 3. Determine if the given graph has a) A Eulerian path b) A Eulerian cycle c) A Hamilton   8
 Path d) A Hamilton cycle
@@ -4018,6 +4041,12 @@ operations of addition and multiplication .
 1. Obtain disjunctive normal form of:   6
 2.   6
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+J: RR is defined by f(x) = x, g:R — R is defined by g(x)=4x°4+1 h:R>Ris
+defined by h(x)=7x-2
+
+Find the rule defining (7) fog (ii) gof (iii) (goh)of (iv) go(hof)
 --- page 5 ---
 3. Determine if the given graph has a) A Eulerian path b) A Eulerian cycle c) A Hamilton   8
 Path d) A Hamilton cycle
@@ -4114,6 +4143,12 @@ operations of addition and multiplication .
 1. Obtain disjunctive normal form of:   6
 2.   6
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+J: RR is defined by f(x) = x, g:R — R is defined by g(x)=4x°4+1 h:R>Ris
+defined by h(x)=7x-2
+
+Find the rule defining (7) fog (ii) gof (iii) (goh)of (iv) go(hof)
 --- page 5 ---
 3. Determine if the given graph has a) A Eulerian path b) A Eulerian cycle c) A Hamilton   8
 Path d) A Hamilton cycle
@@ -4210,6 +4245,12 @@ operations of addition and multiplication .
 1. Obtain disjunctive normal form of:   6
 2.   6
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+J: RR is defined by f(x) = x, g:R — R is defined by g(x)=4x°4+1 h:R>Ris
+defined by h(x)=7x-2
+
+Find the rule defining (7) fog (ii) gof (iii) (goh)of (iv) go(hof)
 --- page 5 ---
 3. Determine if the given graph has a) A Eulerian path b) A Eulerian cycle c) A Hamilton   8
 Path d) A Hamilton cycle
@@ -4306,6 +4347,12 @@ operations of addition and multiplication .
 1. Obtain disjunctive normal form of:   6
 2.   6
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+J: RR is defined by f(x) = x, g:R — R is defined by g(x)=4x°4+1 h:R>Ris
+defined by h(x)=7x-2
+
+Find the rule defining (7) fog (ii) gof (iii) (goh)of (iv) go(hof)
 --- page 5 ---
 3. Determine if the given graph has a) A Eulerian path b) A Eulerian cycle c) A Hamilton   8
 Path d) A Hamilton cycle
@@ -4402,6 +4449,12 @@ operations of addition and multiplication .
 1. Obtain disjunctive normal form of:   6
 2.   6
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+J: RR is defined by f(x) = x, g:R — R is defined by g(x)=4x°4+1 h:R>Ris
+defined by h(x)=7x-2
+
+Find the rule defining (7) fog (ii) gof (iii) (goh)of (iv) go(hof)
 --- page 5 ---
 3. Determine if the given graph has a) A Eulerian path b) A Eulerian cycle c) A Hamilton   8
 Path d) A Hamilton cycle
@@ -4498,6 +4551,12 @@ operations of addition and multiplication .
 1. Obtain disjunctive normal form of:   6
 2.   6
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+J: RR is defined by f(x) = x, g:R — R is defined by g(x)=4x°4+1 h:R>Ris
+defined by h(x)=7x-2
+
+Find the rule defining (7) fog (ii) gof (iii) (goh)of (iv) go(hof)
 --- page 5 ---
 3. Determine if the given graph has a) A Eulerian path b) A Eulerian cycle c) A Hamilton   8
 Path d) A Hamilton cycle
@@ -5001,6 +5060,14 @@ multiplication modulo 15 where
 6.   20
 1. Obtain conjunctive normal form of:   6
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+2x-3
+5x-7
+
+A function f : n-\7} »2-|2| is defined as f(x) =
+
+Is it (i) injective (ii) surjective (iii) bijective (iv) find f" if exist
 --- page 5 ---
 2.   6
 3. Determine if the given graph has   8
@@ -5108,6 +5175,14 @@ multiplication modulo 15 where
 6.   20
 1. Obtain conjunctive normal form of:   6
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+2x-3
+5x-7
+
+A function f : n-\7} »2-|2| is defined as f(x) =
+
+Is it (i) injective (ii) surjective (iii) bijective (iv) find f" if exist
 --- page 5 ---
 2.   6
 3. Determine if the given graph has   8
@@ -5215,6 +5290,14 @@ multiplication modulo 15 where
 6.   20
 1. Obtain conjunctive normal form of:   6
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+2x-3
+5x-7
+
+A function f : n-\7} »2-|2| is defined as f(x) =
+
+Is it (i) injective (ii) surjective (iii) bijective (iv) find f" if exist
 --- page 5 ---
 2.   6
 3. Determine if the given graph has   8
@@ -5322,6 +5405,14 @@ multiplication modulo 15 where
 6.   20
 1. Obtain conjunctive normal form of:   6
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+2x-3
+5x-7
+
+A function f : n-\7} »2-|2| is defined as f(x) =
+
+Is it (i) injective (ii) surjective (iii) bijective (iv) find f" if exist
 --- page 5 ---
 2.   6
 3. Determine if the given graph has   8
@@ -5429,6 +5520,14 @@ multiplication modulo 15 where
 6.   20
 1. Obtain conjunctive normal form of:   6
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+2x-3
+5x-7
+
+A function f : n-\7} »2-|2| is defined as f(x) =
+
+Is it (i) injective (ii) surjective (iii) bijective (iv) find f" if exist
 --- page 5 ---
 2.   6
 3. Determine if the given graph has   8
@@ -5536,6 +5635,14 @@ multiplication modulo 15 where
 6.   20
 1. Obtain conjunctive normal form of:   6
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+2x-3
+5x-7
+
+A function f : n-\7} »2-|2| is defined as f(x) =
+
+Is it (i) injective (ii) surjective (iii) bijective (iv) find f" if exist
 --- page 5 ---
 2.   6
 3. Determine if the given graph has   8
@@ -5643,6 +5750,14 @@ multiplication modulo 15 where
 6.   20
 1. Obtain conjunctive normal form of:   6
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+2x-3
+5x-7
+
+A function f : n-\7} »2-|2| is defined as f(x) =
+
+Is it (i) injective (ii) surjective (iii) bijective (iv) find f" if exist
 --- page 5 ---
 2.   6
 3. Determine if the given graph has   8
@@ -5750,6 +5865,14 @@ multiplication modulo 15 where
 6.   20
 1. Obtain conjunctive normal form of:   6
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+2x-3
+5x-7
+
+A function f : n-\7} »2-|2| is defined as f(x) =
+
+Is it (i) injective (ii) surjective (iii) bijective (iv) find f" if exist
 --- page 5 ---
 2.   6
 3. Determine if the given graph has   8
@@ -5857,6 +5980,14 @@ multiplication modulo 15 where
 6.   20
 1. Obtain conjunctive normal form of:   6
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+2x-3
+5x-7
+
+A function f : n-\7} »2-|2| is defined as f(x) =
+
+Is it (i) injective (ii) surjective (iii) bijective (iv) find f" if exist
 --- page 5 ---
 2.   6
 3. Determine if the given graph has   8
@@ -5964,6 +6095,14 @@ multiplication modulo 15 where
 6.   20
 1. Obtain conjunctive normal form of:   6
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+2x-3
+5x-7
+
+A function f : n-\7} »2-|2| is defined as f(x) =
+
+Is it (i) injective (ii) surjective (iii) bijective (iv) find f" if exist
 --- page 5 ---
 2.   6
 3. Determine if the given graph has   8
@@ -6071,6 +6210,14 @@ multiplication modulo 15 where
 6.   20
 1. Obtain conjunctive normal form of:   6
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+2x-3
+5x-7
+
+A function f : n-\7} »2-|2| is defined as f(x) =
+
+Is it (i) injective (ii) surjective (iii) bijective (iv) find f" if exist
 --- page 5 ---
 2.   6
 3. Determine if the given graph has   8
@@ -6178,6 +6325,14 @@ multiplication modulo 15 where
 6.   20
 1. Obtain conjunctive normal form of:   6
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+2x-3
+5x-7
+
+A function f : n-\7} »2-|2| is defined as f(x) =
+
+Is it (i) injective (ii) surjective (iii) bijective (iv) find f" if exist
 --- page 5 ---
 2.   6
 3. Determine if the given graph has   8

@@ -801,7 +801,8 @@ NOTE — Positive sign indicates shear acting inward.
 - Programmes: B.TECH INTEGRATED / CIVIL
 - Source: `00_Original_Downloads/QUESTIONS PAPERS/B.TECH INTEGRATED/49180__5th YEAR.zip :: CIVIL/SEM X/ADVANCED DESIGN OF CONRETE STRUCTURES/Advanced_Design_of_Conrete_Stucture_2018-19_MmtCDrjR6u.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 10 April 2019
-- Text: ocr (6 pages), mean OCR confidence 65.5
+- Text: ocr (6 pages), mean OCR confidence 69.9
+- 1 page scanned sideways or upside down, turned upright before OCR
 - 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
@@ -1010,69 +1011,32 @@ F3SSF TH53 2 f
 
 A]
 --- page 5 ---
-18 3970 ( Part IV) - 1967
+TABLE 1¢ MOMENTS IN CYLINDRICAL WALL, FIXED BASE, FREE TOP AND
+SUBJECT TO TRIANGULAR LOAD
 
-a a
-e a
-C4
-:
+( Clause 3.1.1)
 
-teNE9
-CON
+H®
+Sv   aeeerend 7 ———\
+Dt OH 0-2H O-3H 0-4H O5H 0-6H O7H 08H 09H 10H
+(1) (2) (3) (4) (5) (6) 1) (8) (3) (10) (11)
+0-4 +0:0005 +40-0014 -+0:0021 +0-0007 -—0-0042 -—0-0150 -—0-0302 -—0-0529 —0-0816 —0-1205
+0-8 +0-0011 -+0-0037 +0-0063 -+0-0080 +0-0070 +0-0023 -—0-0068 -—0-0024 —0-0465 —0-0795
+1-2 +0-0012 +0-0042 +40:0077 +0-0103 40-0112 +0-0090 +0-0022 -—0-0108 -—0-0311 —0-0602
+1-6 +0-0011 +0-0041 40-0075 40-0107 +0-0121 +0-0111 +40-0058 —0-0051 -—0-0232 —0-0505
+20 40-0010 +6-0035 +0-0068 +0-0099 +0-0120 +0-0115 +0-0075- —0-0021 —0-0185 —0-0436
+3-0 +0-0006 +0 0024 +0-0047 +0:0071 +0-0090 +40-0097 +0-0077 +0-0012 —0-0119 —0-0333
+40 +9-0003 40-0015 40-0028 +0-0047 +0-0066 +0-0077 +0-0069 +0-0023 -—0-0080 —0-0268
+5-0 +0-0002   +1-0008 +0-0016 +40-0029 +0-0046 +0-0059 +40-0059 +0-0028 -—0-0058 —0-0222
+6-0 +0-0001 +40-0003 +0-0008 +0-0019 +0-0032 +0-0046 +0-0051 +0-0029 —0-0041 -0-0187
+8-0 U-0000 +0-0001 +0-0002 +0-0008 +0-0016 +0-0028 +0-0038 +0-0029 -0-0022 —0-0146
+10-0 90-0000 0-0000 +0-0001 +0-0004 +0-0007 +0-0019 +0-0029 +0-0028 -—0-0012 —0-0122
+12-0 0-0000 —0-000! +0-0001 +0-0002 +0-0003 +0-0013 +0-0023 +0-0026 -—0-0005 —0-010¢
+14-0 0-0000 0-0000 0-0000 0-0000 +0-000! +0-0008 +0-0019 +0-0023 -—0-0001 —0-0090
+16-0 0-0000 0-0000 —0-000! -—0-0002 -—0-0001 +0-000% +0-0013 +0-0019 +0-0001 —0-0079
 
-Be
-
-Sood
-TTT
-
-vo
-
-8538
-
-e000
-
-Pitt
-
-agge
-3888
-ococo
-+444
-
-man
-
-S833
-
-oooo
-+tt+
-
-sees
-3399
-
-none
-
-E88
-
-S006
-ttt |
-
-eee
-+H 7
-at
-+H 1
-
-588
-
-ia
-
-S222
-
-ec00
-
-Seog
-ents
-aaa
-
-6|6
+Nots 1 — w=Density of the liquid.
+Norz 2 — Positive sign indicates tension on the outside.
 --- page 6 ---
 18 1 3370 ( Part IV ) - 1967
 
@@ -2262,8 +2226,9 @@ S500D 3sdE0S SOS5S 3°
 - Programmes: B TECH / CIVIL
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/CIVIL/Sem_08/ADVANCED DESIGN OF CONCRETE STRUCTURES/ADVANCED DESIGN OF CONCRETE STRUCTURES B TECH (CIVIL), BATCH 2015-16 RE EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 30 June 2016
-- Text: ocr (5 pages), mean OCR confidence 65.5
-- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: ocr (5 pages), mean OCR confidence 71.3
+- 1 page scanned sideways or upside down, turned upright before OCR
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVKM’s NMIMS _ AAT Mage =~
@@ -2394,65 +2359,45 @@ Norg 2 — Positive sign indicates shear acting inward.
 
 ats
 --- page 4 ---
-18 : 3370 ( Part 1V ) - 1967
+Se eeenneneesspseneneneneenesneeeeeecee
+TABLE 16 MOMENTS IN CYLINDRICAL WALL, FIXED BASE, FREE TOP AND
 
-Pa
-= 2 28988 Sggs¢ xsge
-3 S538
+SUBJECT TO TRIANGULAR LOAD
 
-© eeSSS 656666
+( Clause 3.1.1)
+ia
 
-Phil] plaid Prd
+Moment == Coefficient X wH3 kgm/m [
 
-Wwenw ao aN ND me ome
+a 8
 
-3 & 88885 55885 3885
+Ht Corrrictents at Port
+Di eo A...
 
-3 & ~ $6655 $5565 S388
-brddy ttidd Pilt+
+ener eemnmeneee eee
+OH 0-2H 0-3H 0-4H O5H 0-6H 0-7H 08H 09H 10H
+(1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11)
 
-&
-AXTQOe— AMONH Dora
-NNONnN H=AANRN Ana
-F = g@ BESEE ses85 S588
+0-4 +0:0005 40-0014 +40-0021 +0-0007 —0-0042 —0-0150 —0-0302 —0:0529 —0-0816 —0-1205
+0-8 +0-0011 +0-0037   +0-0063 +0-0080 +0-0070 +0-0023 —0-0068 —0-0024 —0-0465 —0-0795
+1-2 +0-0012   +0-0042 +40-0077 +0-0103 +0-0112 +0-0090 +0-0022 —0-0108 —0-0311 —0-0602
+1-6 +0-0011   +0-0041 40-0075 40-0107 +0-0121 +0-0111 +0:0058 —0-0051   ~0-0232 —0-0505
+2-0 +0-0010 +6-0035 +0-0068 +0-0099 +0-0120 +0-0115 +0-0075- —0-0021 —0-0185 —0-0436
 
-o66 S690 6
-Hl = TTT? PEF FESP
-” —_ Neaoh nar=e aman
-£y Nor neo NA
-| ] jE © 88888 88885 sess
-oo oo Oo So
+3-0 +0:0006 +0 0024 +0-0047 40-0071 +0-0090 +0-0097 +0:0077 +0-0012 -—0-0119 —0-0333
+40 +9-0003 40-0015 40-0028 +40-0047 40-0066 +0-0077 +0-0069 +0-0023 -—0-0080 —0-0268
+5-0 +0-0002 +1-0008 +0-0016 +0:0029 +0-0046 +0-0059 +0-0059 +0-0028 -—0-0058 —0-0222
+6-0 +0-0001 +0-0003 +0-0008 +0-0019 +0-0032 +0-0046 +0-0051 +0-0029 ~—0-0041   —0-0187
+8-0 U-0000 +0-0001 +40-0002 +0-0008 +0-0016 +0-0028 +0-0038 +0-0029 -—0-0022 —0-0146
 
-9 = IT SSF FFTHH PFFF
+10-0 0-0000 09-0000 +0-0001 +0-0004 +-0-0007 +0-0019 +0-0029 +0-0028 —0-0012   —0-0122
+12-0 0-0000 —0-000! +0-0001 +0-0002 +0-0003 +0-0013 +0-0023 +0-0026 —0-0005 —0-010¢
+14-0 0-0000 0-0000 0-0000 0-0000 +0-000! 40-0008 +0-0019 +0-0023 —0-0001 —0-0090
+16-0 0-0000 0-0000 -—0-0001 -0-0002   -0-0001 +0-0004 +0-0013 +0:0019 +40-000i —0-0079
+Note | — w=Density of the liquid.
+Norz 2 — Positive sign indicates tension on the outside.
 
-BS ir ls < 28852 BRRES S288
-
-i} £lz = 2882 25828 :
-cool )2 © S355e s84e9 995s
-seg 0 bor a
-. NON=—O ae nao
-3450Ci«* so $8593 Ebeee 5388
-= 5 6 ~ $9666 S5ES66S0 S556
-3° & 8 lt+t+ Fttt+ FFt1
-Ra noon =5aa nea
-E E = = $8528 5283 S885
-- & ~~ 6600006 SOOoSS SOGCSO
-ze § +ttt+ ttttt FF 1
-a rons rewaad =-om a
-; 5 s 5 BE552 S2688 S538 -
-i & ~ 66066 35508659 SSOSS.,
-| F tt+t+t++ F4ittt ++ 1
-a g SOeNs wet akon - .
-: 2 = = Bosse S388 5995 5
-: & $5992 FS5SF CFOS |
-19 — N= oO AN
-7 = @ Seese $5585 2222
-he $1444 F324 ="
-
-
-wy SOmTK—N MeO OO Ont
-
-=a
+ie ger
 --- page 5 ---
 Oi
 “19

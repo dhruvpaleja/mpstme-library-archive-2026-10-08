@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_Mechanical_7003/Design of Machine Elements/ANS_Design of Machine Elements(702ME0C014)_2025-2026.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 26 Nov 2025
 - Text: mixed (7 pages), mean OCR confidence 73.6
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -62,6 +63,41 @@ CO3-; SO-   [10]
 2,7;
 BL-5
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+3. Failure of the single eye or rod end in tension
+The single eye or rod end may fail in tension due to the load. We know that load (P),
+150 x 10° = (d,—d,)1 x 6, = (104-52) 65 x 6, = 33806,
+o, = 150 x 10°/3380= 44.4N/mnt = 44.4MPa
+ktidiheenld tab tnjjatgnes tolentte teaming
+The single eye or rod end may fail in shearing due to the load. We know that load (P),
+150 x 10° = (d,—d,)1x t= (104 - 52) 65 x t= 3380
+t = 150 x 10°/3380=44.4 N/mm” = 44.4 MPa
+The single eye or rod end may fail in crushing due to the load. We know that load (P),
+150 10° = d,xtxG_=52x65 xo_=33806,
+os. = 150 107/380 = 44.4.Nimm*= 44.4 MPa
+The forked end may fail in tension due to the load. We know that load (P),
+150 x 10° = (d,- d,)2 1, x6,=(104—52)2 x40 x o,=41600,
+s, = 150% 10°/ 4160 = 36 N’mm* = 36MPa
+1. Failure of the forked end in shear
+The forked end may fail in shearing due to the load. We know that load (P),
+150.« 10° = (d,— d,)2 t,x T=(104 —52)2 x 40x t=4160T
+t = 150 10°/4160= 36 N/mm? = 36 MPa
+Failure of the forked end in crushing
+The forked end may fail in crushing due to the load. We know that load (P)_
+150x108 = d, x21, x6, =52x2x40x6_=41600_
+om 6, = 150 10°/4180=36 Nimm? = 36MPa
+the joint is safe.
+
+StepI Diameter of rivets
+There are five rivets subjected to double shear.
+From Eq. (8.36),
+
+P,=2 [Ea?en]
+! 4
+or (250x 103)=2 E ad” (60) (5 |
+
+d= 23.03 or 25 mm (i)
 --- page 3 ---
 (w 2d) to, = P
 or (200-2 25) (70) = 250 x 107
@@ -117,6 +153,64 @@ CO-3; SO-   [10]
 BL-5
 Design of lever ( t =26 mm and b = 78 mm)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+The primary shear stress in the welds is given
+by,
+
+t= rv" = =
+(5007)
+
+Po 25000 _ (50
+i
+
+| N/mm? (i)
+
+Step IT Bending stress
+Referring to Fig. 8.35, the moment of inertia of
+four welds about the X-axis is given by
+
+be dy 13
+Dg = 2| — + (bry x 2) +2
+12 2 12
+
+Y
+
+>
+Thr Prt
+
+Bb
+¥
+Fig. 8.35
+
+Assuming 4 and a to be large as compared to
+the throat dimension ¢ and neglecting the terms
+containing f, we have
+
+Substituting the values,
+_ | aoojasoy> = asoy |_ >
+ta=t| 5 += |-fes.as0 |¢mm‘
+
+From Eq. (8.28),
+
+M,y _ (25000x500)(75)
+I (75)(1507 ¢
+
+-(=
+
+o, =
+
+) smn? (ii)
+
+Step WI Maximum shear stress
+From Eq. (8.29), the maximum shear stress in the
+weld is given by,
+
+=\(%) +my = (Sy . (7)
+
+_ 283.24
+
+N/mm
 --- page 5 ---
 Sy.
 .-— — 100 100 N/mm?
@@ -267,6 +361,7 @@ FIC 7 IC OHH
 - Source: `02_Question_Papers/2025/Sem_09/Re-Exam/Integrated_Mechanical_7031/Design of Machine Elements/ANS_Design of Machine Elements(702ME0C014)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Feb 2026
 - Text: mixed (4 pages), mean OCR confidence 69.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -335,6 +430,19 @@ OK.
 b.
 [10]
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+1. Design for hub
+
+First of all, let us find the diameter of the shaft (d). We know that the torque transmitted by the
+shaft( T),
+
+250 x 108 = =xt xd = 2x 100x a = 19.644"
+
+a@* = 250 « 107! 19.64 = 12 729 or d= 23.35 say 25 mm Ans.
+‘We know that the outer diameter of the hub,
+D=2d=2%25=50mm
+and length of hub, L=lSd=15«25=375mm
 --- page 3 ---
 a.   D = 21 mm
 [10]
@@ -348,6 +456,47 @@ Spring stiffness k≈50.9 N/mm
 Free length L free=205 mm.
 Solid length L solid=130 mm
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+2. Design for key
+From Table 13.1, we find that the proportions of key for a 25 mm diameter shaft are :
+Width of key, w = 10 mm Ans,
+
+and thickness of key, tf = 8 mm Ans,
+
+1 = L=37.5 mm Ans.
+
+Let us now check the induced shear and crushing stresses in the key. Considering the key in
+shearing. We know that the torque transmitted ( T),
+
+250 x 103 = 1xwxt x= 375x10x % x3 = 4688 t,
+os %, = 250x 10° / 4688 = 53.3 N/mm? = 53.3 MPa
+Considering the key in crushing. We know that the torque transmitted (7),
+
+‘et d 8 25
+250 x 10% = 1X 5x Og X >= 37SX 5X Og X> = 1875 65
+
+we G4 = 250 x 10° / 1875 = 133.3 N/mm? = 133.3 MPa
+
+Since the induced shear and crushing stresses in the key are less than the given stresses,
+therefore the design of key is safe.
+
+3. Design for flange
+‘The thickness of the flange (1,) is taken as 0.5 d.
+a 1, = 0.5 d=05 x25 = 12.5 mm Ans.
+
+Let us now check the induced shear stress in the flange by considering the flange at the junction
+of the hub in shear. We know that the torque transmitted ( T ),
+
+2 2
+250 x 10° = BO tty i)
+
+a t, = 250 x 10°/ 49 094 = 5.1 N/mm? = 5.1 MPa
+
+Since the induced shear stress in the flange of cast iron is less than 200 MPa, therefore design of
+flange is safe.
+
+xT, X12.5 = 49 094 1,
 --- page 4 ---
 D=55mm
 

@@ -176,6 +176,43 @@ Q3   , 3m
 explan
 ation
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+{ Document ‘ Preprocessing Processed
+| Document | Tasks Document
+| Fetching’ .
+> | Graming | > | Categorization, | =>} — Collection
+Newsand | Techniques Feature/Term (categorized,
+jews an i Extraction keyword-labeled,
+ms KS __ time-stamped) a
+rw “ a non
+Compressed and/or | ee
+Other Online { Hierarchical | ( Parsing Routines
+Resources Representation
+JL <r
+A, | Text Mining Discovery
+a Algorithms
+> Pattern Identification,
+Refinement Trend Analysis
+Techniques JL <p
+
+Suppression, Ordering,
+
+Pruning, Generalization, ‘Browsing Functionality
+Clusterit 4
+ng a Simple Filters, Query om
+oS Interpreter, Search Knowledge
+
+Interpreter, Visualization | -—"°NECGE _]
+Tools, GUI, Graphing
+
+:
+
+User
+
+Gu
+
+Figure 1.6. System architecture for an advanced or domain-oriented text mining system.
 --- page 5 ---
 b   Analyze Audience Analysis, behavior analysis and acquisition analysis,
 conversion analysis provided by google analytics tool.
@@ -311,6 +348,20 @@ The company compares which page results in more purchases or clicks.
 Multivariate testing tests multiple elements of a webpage simultaneously to
 determine which combination performs best.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+WWW
+
+DNS C__ > YS
+Doc obot URL
+FP’s filters set
+SL — _—
+Parse
+Fetch Conten URL Dup
+seen? filter URL
+elim
+
+URL Frontier
 --- page 9 ---
 Example:
 A website tests different combinations of:
@@ -532,6 +583,21 @@ inferred from cross referencing external sources
 Q2   a   Explain with mathematical function, following common types of patterns   5m
 encountered in text mining.   each
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+DNS =>
+Doc obot URL
+
+FP’s filters set
+
+WWW
+
+Parse [I
+Fetch Conten URL OR
+seen? filter .
+elim
+
+URL Frontier
 --- page 3 ---
 a. Concept selection
 b. Average Proportion Distribution
@@ -673,6 +739,21 @@ Q4
 explan
 ation
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+J Web-request time —> } Viewing
+
+In-line Object 1
+
+Main Object
+
+In-line Object 2
+
+In-line Object 3
+
+« HTTP ON m« HTTP OFF >!
+
+Figure 1: Overview of the basic model
 --- page 7 ---
 b   Explain the use of the Optimizely web analytics tool, along with the steps to   Use
 use Optimizely to set up and generate reports.   3m,
@@ -694,6 +775,41 @@ images.
 5. Next step is monitoring your tests. You need to test which landing
 pages are performing well. What is attracting the visitors? What is the
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+a
+
+WWW & FTP
+Resources S pa -
+a ‘ Preprocessing Processed
+| Document j Tasks Document c
+I Fetching/ I -
+a> | Crawling > Categorization, q Collection
+Ne d | Techniques Feature/Term (categorized,
+wear | Extraction keyword-labeled, Sources
+mal ene . 7 time-stamped) oo
+ca ‘ iL Lan
+Compressed and/or / Oe
+Other Online i Hierarchical i (Parsing Routines)
+Resources Representation
+JL t
+| Text Mit ing Discovery
+a Algorithms
+o> Pattern Identification,
+Refinement \ Trend Analysis
+Techniques JIL
+Suppression, Ordering, ‘ W
+Pruning, G lization, eee
+ae Gustering ” Browsing Functionality
+a Simple Filters, Query eo und
+, Interpreter, Search Knowledge
+5 , Interpreter, Visualization \ -—
+Tools, GUI, Graphing
+bt.
+
+User
+
+Figure 1.6. System architecture for an advanced or domain-oriented text mining system.
 --- page 8 ---
 bounce rate? Understand the statistics, filter the non-performing areas,
 and conclude the test.
@@ -818,6 +934,17 @@ functions in graphing are discussed in greater detail in Chapter X). A context
 graph is defined with respect to a given context, which determines the
 context in which the similarity of concepts is of interest.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Iteration 0 Iteration 1 Iteration 2 Final
+Rank
+
+1/5 1/20 1/40 5
+1/5 5/20 3/40 4
+1/5 1/10 5/40 5
+1/5 5/20 15/40 2
+
+1/5 7/20 16/40 1
 ````
 
 ## 2025-26 · Re-Exam · Sem 6 · Answer key · paper 466c03422cd0
@@ -903,6 +1030,20 @@ It acts as background knowledge that machines can use to make better sense of
 text.It’s like a vocabulary where all the terms and their meanings are clearly
 defined, not just for humans but also in a way that machines can understand.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+WWW
+
+DNS —=_> —_—
+Doc obot URL
+FP’s filters set
+—_E_ MSE”
+Parse
+Fetch Conten URL Dup
+seen?| |filter| | URL
+elim
+
+URL Frontier
 --- page 3 ---
 Text mining systems exploit (i.e., use) domain ontologies to:
 • Understand what terms mean
@@ -997,6 +1138,41 @@ a   Explain role of below mentioned patterns in text mining with example:   3m,3
 Q4   Concept Selection, Concept Proportion, Conditional Concept Proportion.   ,4m
 Concept Selection
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+a
+
+WWW & FTP
+Resources S pa -
+a ‘ Preprocessing Processed
+| Document j Tasks Document c
+I Fetching/ I -
+a> | Crawling > Categorization, q Collection
+Ne d | Techniques Feature/Term (categorized,
+wear | Extraction keyword-labeled, Sources
+mal ene . 7 time-stamped) oo
+ca ‘ iL Lan
+Compressed and/or / Oe
+Other Online i Hierarchical i (Parsing Routines)
+Resources Representation
+JL t
+| Text Mit ing Discovery
+a Algorithms
+o> Pattern Identification,
+Refinement \ Trend Analysis
+Techniques JIL
+Suppression, Ordering, ‘ W
+Pruning, G lization, eee
+ae Gustering ” Browsing Functionality
+a Simple Filters, Query eo und
+, Interpreter, Search Knowledge
+5 , Interpreter, Visualization \ -—
+Tools, GUI, Graphing
+bt.
+
+User
+
+Figure 1.6. System architecture for an advanced or domain-oriented text mining system.
 --- page 6 ---
 Whether as an initial step, to create a baseline, or to create more meaningful
 subdivisions of a single document collection for comparison purposes, text
@@ -1098,6 +1274,38 @@ ages
 A typical Web page consists of a Hypertext document with links to other
 objects that make up the whole page. An object is an entity stored on a server
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Display The
+. Results From
+
+Stores The
+Information Into
+DataBase
+
+Search = TYosecmssene
+Engines =. =
+—s , Information
+
+jin Web Sites
+
+E.
+Web Crawlers or Crawls The
+Web Spiders (Je) Web Sites
+
+J Web-request time —> } Viewing
+
+In-line Object 1
+
+Main Object
+
+In-line Object 2
+
+In-line Object 3
+
+« HTTP ON m« HTTP OFF >!
+
+Figure 1: Overview of the basic model
 --- page 9 ---
 as a file. There are two kinds of objects, a main object and an in-line object.
 The file containing an HTML document is referred to as a main object and the
@@ -1380,6 +1588,21 @@ Q4   3m
 explan
 ation
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+J Web-request time —> } Viewing
+
+In-line Object 1
+
+Main Object
+
+In-line Object 2
+
+In-line Object 3
+
+« HTTP ON » HTTP OFF >!
+
+Figure 1: Overview of the basic model
 --- page 6 ---
 b   Explain following terms:   2m
 working of indexing in SEO, crawler operation, use of robots.txt, URL   each
@@ -1409,6 +1632,23 @@ passes, called “iterations”, through the collection to adjust
 approximate PageRank values to more closely reflect the theoretical
 true value.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+ay es
+EY Asvisavie
+[EERE Nice to have
+[J can pass
+
+Tokenization
+
+Morphological and
+Lexical Analysis
+
+Syntactic Analysis
+
+Domain Analysis
+
+Figure VI.5. Architecture of a typical information extraction system.
 --- page 7 ---
 b   5m
 Identify and explain (with example) applications of text categorizations ‘Text
@@ -1518,4 +1758,13 @@ previous interval.
 Stable Edges: edges that have about the same weight as the corresponding
 edge in the previous interval.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Iteration 0 | Iteration 1 | Iteration 2 | PageRank
+
+A 1/4 1/12 1.5/12
+B 1/4 2.5/12 AV
+Cc} 1/4 4.5/12 | 4.5/12
+
+D 1/4 4/12 4/12
 ````

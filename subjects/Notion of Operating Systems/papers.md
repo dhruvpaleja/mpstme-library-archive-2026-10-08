@@ -82,6 +82,36 @@ iii. If a deadlock exists, identify all the processes and resources involved in 
 3.   Answer the following questions:(Attempt Any 4 Questions)   20
 a. 1.   Define hard link? Explain with a practical example.   5
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+Virtual
+
+address
+
+space
+
+60K-64K 3
+
+56K-60K X
+
+52K-—56K xX
+
+48K-52K 2
+
+44K-48K X
+
+40K-44K X Physical
+36K-—40K 1 memory
+32K-36K 5 address
+28K-32K X 28K-32K
+24K-28K 4 24K-28K
+20K-24K X 20K-24K
+16K-—20K X 16K-—20K
+12K-—16K 0 12K-16K
+8K-12K X 8K-12K
+4K-8K 6 4K-8K
+
+OK-4K 7 OK-4K
 --- page 4 ---
 b. Explain the use of the following commands with examples:   5
 1. pwd
@@ -189,6 +219,36 @@ a. 1.   Create three hard links to the file fun in the playground directory name
 dir1/fun-hard, and dir2/fun-hard, and write the commands needed to verify that the links share
 the same inode number and link count.
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+Virtual
+
+address
+
+space
+
+60K-64K 7
+
+56K-60K xX
+
+52K-S6K 0
+
+48K-52K X
+
+44kK-48K X
+
+40k-44K 2 Physical
+36K—-40K 1 memory
+32K-36K X address
+28K-32K 6 1 28K-32K
+24K-28K 3 24K-28K
+20K-—24K xX 20K-24K
+16K-—20K X 16K-—20K
+12K-—16K xX 12K-16K
+8K-12K 4 8K-12K
+4K-8K xX 4K-8K
+
+OK-4K 5 OK-4K
 --- page 4 ---
 b. Distinguish between absolute pathname and relative pathname with examples.   5
 c. Explain commonly used options of the mv command.   5

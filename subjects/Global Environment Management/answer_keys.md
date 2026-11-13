@@ -119,6 +119,28 @@ environmental, economic, and social health, focusing on reducing waste, conservi
 and utilizing renewable materials. Key actions include adopting a circular economy (reduce,
 reuse, recycle), utilizing renewable energy, minimizing carbon footprints, choosing
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+Natural Resources:
+Agriculture & Forestry
+
+Environmental Monitoring
+Coastal Monitoring
+
+»
+
+atellite remote sensing
+
+APPLICATIONS
+
+Other:
+
+Law enforcement
+Geosciences: City and Urban Planning
+Cartography Navigation Systems
+
+Hydrology Traffic Monitoring
+Oceanography Systems
 --- page 5 ---
 sustainable products, and reducing water usage is a crucial consideration in contract
 manufacturing for several reasons, as it aligns with the global shift towards more responsible

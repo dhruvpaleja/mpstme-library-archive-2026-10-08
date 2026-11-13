@@ -76,6 +76,17 @@ BL-Evaluate
 Reliance Retail will now relaunch Kelvinator. Recommend the Media Mix that
 Kelvinator should have and your reasons for it.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Brand Budget
+
+|. Media Budgets
+
+2. Production Budget
+
+3. Trade Budget
+
+4. Promotions Budget (Consumer Offer)
 --- page 3 ---
 Colgate Dental Cream is going for a national relaunch .Explain the 3 components
 and 5 building blocks of it’s media strategy?
@@ -84,6 +95,46 @@ CO-1; SO-;   [10]
 BL-
 Understand
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Why Media Mix
+
+|. Augment Reach/ Add new people from another medium
+2. Add Frequency
+3. To reinforce the message using different kind of sensory stimuli
+
+4. & ager the message to the consumer through out his day (24 hour body
+cloc
+
+5. To reach different kind of audiences
+
+Building Blocks of Media Strategy
+
+|. Target Group Definition WHO
+
+2. Market Prioritization WHERE
+
+3. Media Weights HOW MUCH
+4. Media Mix WHAT
+
+5. Scheduling WHEN
+
+Situational Analysis
+
+Product-Consumer Interaction
+|. Retail Off-take Data
+2. Usage & Attitude Studies
+
+3. Household Panel Data Usage study
+4. Brand Track <_< bn
+5. Product Linkage Data (IRS/NRS)
+Consumer-Media Interaction TG media cn Competitive review
+
+Media Consumption Habits
+Product-Media Interaction
+Comp Review —GRP, SOV etc
+
+Media
 --- page 4 ---
 Explain the Frequency Estimator by Ostrow and the three main factors that
 effect frequency by giving a suitable example.
@@ -106,6 +157,44 @@ Q6   Kwality -a leading ice cream brand is launching in India. Prepare a Market
 CO-3; SO-;   Prioritization document for this brand detailing the various parameters used in   [10]
 BL-Create   market prioritization?   .
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Frequency Estimator by Ostrow
+
+Marketing Factors That Affect Frequency
+
+Established brands 2 +2 New brands
+High market share 2 +2 Low market share
+Deminant brand in market “2 +2 ‘Smaller, less known brand
+High brand loyalty 2 +2 Low brand loyalty
+Long purchase cycle -2 +2 Short purchase cycle, high volume
+Product used oceasionally 2 +2 Product used daily
+
++2 Need to beat competition
+
++ Ady. to older consumers/children
+
+Copy Factors That Affect Frequency
+
+‘Simple copy sa 42 ‘Complex copy
+Copy more unique than competition -. aes Copy less unique than competition
+Continuing fold] campaign 2 ea 42 New copy campaign
+Product sell copy 2 +a 42 image type copy
+Single kind of message 2 sa +2 More difficult kinds of messages
+To avoid wear out: new messages -2 +a +2 Older messages
+Larger ad units 2 +a 42 ‘Smail ad units
+
+Media Factors That Affect Frequency
+Lower ad clutter in me ey Higher ad clutter in media mix
+Compatible editorial environment +a 42 Non-compatible environment
+Attentiveness (to media) high aes Attentiveness (to media) low
+‘Continuous schedule campaign sa 42 Pulsed or fighted campaign
+Few media used in media mix ¥ es Many media used
+Opportunities for media repetition -.2 +a +2 Fewer opportunities
+
+Frequency: The State of the Art. Copyright 1982. Note: Medel edited by permission for Media Flight Plan.
+
+Source: Ostrow, Joseph W. by personal permission. First published in “Setting Frequency Levels,” in Effective
 --- page 5 ---
 One plus – a leading mobile handset is planning to test launch its new range in
 Mumbai. The Marketing team at One Plus feels that they should launch with OOH
@@ -114,6 +203,31 @@ all. Examine the advantages and disadvantages of outdoor media.
 Q7 CO 2 SO-;
 BL-Apply
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+How do we prioritize market
+
+¢ Sales Contribution
+
+¢ Market Growth
+
+* Competitor Sales and Market Share
+* Category Size (Salience/Dispersion)
+
+¢ Brand & Category Development Index
+
+ilatgeuReachiéiErequency Creative Limitations
+
+Targeting Flexibility Lack of Target-Market
+Size & Quality of Message Selectivity
+
+Media Compatibility Costs
+
+Creating Product Lack of Prestige
+Awareness Unobtrusive Medium
+Cost
+
+Content Flexibility
 ````
 
 ## 2025-26 · Final-Exam · Sem 10 · Answer key · paper fd67eaa5caef
@@ -190,6 +304,17 @@ BL-Evaluate
 Reliance Retail will now relaunch Kelvinator. Recommend the Media Mix that
 Kelvinator should have and your reasons for it.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Brand Budget
+
+|. Media Budgets
+
+2. Production Budget
+
+3. Trade Budget
+
+4. Promotions Budget (Consumer Offer)
 --- page 3 ---
 Colgate Dental Cream is going for a national relaunch .Explain the 3 components
 and 5 building blocks of it’s media strategy?
@@ -198,6 +323,46 @@ CO-1; SO-;   [10]
 BL-
 Understand
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Why Media Mix
+
+|. Augment Reach/ Add new people from another medium
+2. Add Frequency
+3. To reinforce the message using different kind of sensory stimuli
+
+4. & ager the message to the consumer through out his day (24 hour body
+cloc
+
+5. To reach different kind of audiences
+
+Building Blocks of Media Strategy
+
+|. Target Group Definition WHO
+
+2. Market Prioritization WHERE
+
+3. Media Weights HOW MUCH
+4. Media Mix WHAT
+
+5. Scheduling WHEN
+
+Situational Analysis
+
+Product-Consumer Interaction
+|. Retail Off-take Data
+2. Usage & Attitude Studies
+
+3. Household Panel Data Usage study
+4. Brand Track <_< bn
+5. Product Linkage Data (IRS/NRS)
+Consumer-Media Interaction TG media cn Competitive review
+
+Media Consumption Habits
+Product-Media Interaction
+Comp Review —GRP, SOV etc
+
+Media
 --- page 4 ---
 Explain the Frequency Estimator by Ostrow and the three main factors that
 effect frequency by giving a suitable example.
@@ -220,6 +385,44 @@ Q6   Kwality -a leading ice cream brand is launching in India. Prepare a Market
 CO-3; SO-;   Prioritization document for this brand detailing the various parameters used in   [10]
 BL-Create   market prioritization?   .
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Frequency Estimator by Ostrow
+
+Marketing Factors That Affect Frequency
+
+Established brands 2 +2 New brands
+High market share 2 +2 Low market share
+Deminant brand in market “2 +2 ‘Smaller, less known brand
+High brand loyalty 2 +2 Low brand loyalty
+Long purchase cycle -2 +2 Short purchase cycle, high volume
+Product used oceasionally 2 +2 Product used daily
+
++2 Need to beat competition
+
++ Ady. to older consumers/children
+
+Copy Factors That Affect Frequency
+
+‘Simple copy sa 42 ‘Complex copy
+Copy more unique than competition -. aes Copy less unique than competition
+Continuing fold] campaign 2 ea 42 New copy campaign
+Product sell copy 2 +a 42 image type copy
+Single kind of message 2 sa +2 More difficult kinds of messages
+To avoid wear out: new messages -2 +a +2 Older messages
+Larger ad units 2 +a 42 ‘Smail ad units
+
+Media Factors That Affect Frequency
+Lower ad clutter in me ey Higher ad clutter in media mix
+Compatible editorial environment +a 42 Non-compatible environment
+Attentiveness (to media) high aes Attentiveness (to media) low
+‘Continuous schedule campaign sa 42 Pulsed or fighted campaign
+Few media used in media mix ¥ es Many media used
+Opportunities for media repetition -.2 +a +2 Fewer opportunities
+
+Frequency: The State of the Art. Copyright 1982. Note: Medel edited by permission for Media Flight Plan.
+
+Source: Ostrow, Joseph W. by personal permission. First published in “Setting Frequency Levels,” in Effective
 --- page 5 ---
 One plus – a leading mobile handset is planning to test launch its new range in
 Mumbai. The Marketing team at One Plus feels that they should launch with OOH
@@ -228,6 +431,31 @@ all. Examine the advantages and disadvantages of outdoor media.
 Q7 CO 2 SO-;
 BL-Apply
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+How do we prioritize market
+
+¢ Sales Contribution
+
+¢ Market Growth
+
+* Competitor Sales and Market Share
+* Category Size (Salience/Dispersion)
+
+¢ Brand & Category Development Index
+
+ilatgeuReachiéiErequency Creative Limitations
+
+Targeting Flexibility Lack of Target-Market
+Size & Quality of Message Selectivity
+
+Media Compatibility Costs
+
+Creating Product Lack of Prestige
+Awareness Unobtrusive Medium
+Cost
+
+Content Flexibility
 ````
 
 ## 2025-26 · Final-Exam · Sem 10 · Answer key · paper a7258e303089
@@ -304,6 +532,17 @@ BL-Evaluate
 Reliance Retail will now relaunch Kelvinator. Recommend the Media Mix that
 Kelvinator should have and your reasons for it.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Brand Budget
+
+|. Media Budgets
+
+2. Production Budget
+
+3. Trade Budget
+
+4. Promotions Budget (Consumer Offer)
 --- page 3 ---
 Colgate Dental Cream is going for a national relaunch .Explain the 3 components
 and 5 building blocks of it’s media strategy?
@@ -312,6 +551,46 @@ CO-1; SO-;   [10]
 BL-
 Understand
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Why Media Mix
+
+|. Augment Reach/ Add new people from another medium
+2. Add Frequency
+3. To reinforce the message using different kind of sensory stimuli
+
+4. & ager the message to the consumer through out his day (24 hour body
+cloc
+
+5. To reach different kind of audiences
+
+Building Blocks of Media Strategy
+
+|. Target Group Definition WHO
+
+2. Market Prioritization WHERE
+
+3. Media Weights HOW MUCH
+4. Media Mix WHAT
+
+5. Scheduling WHEN
+
+Situational Analysis
+
+Product-Consumer Interaction
+|. Retail Off-take Data
+2. Usage & Attitude Studies
+
+3. Household Panel Data Usage study
+4. Brand Track <_< bn
+5. Product Linkage Data (IRS/NRS)
+Consumer-Media Interaction TG media cn Competitive review
+
+Media Consumption Habits
+Product-Media Interaction
+Comp Review —GRP, SOV etc
+
+Media
 --- page 4 ---
 Explain the Frequency Estimator by Ostrow and the three main factors that
 effect frequency by giving a suitable example.
@@ -334,6 +613,44 @@ Q6   Kwality -a leading ice cream brand is launching in India. Prepare a Market
 CO-3; SO-;   Prioritization document for this brand detailing the various parameters used in   [10]
 BL-Create   market prioritization?   .
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Frequency Estimator by Ostrow
+
+Marketing Factors That Affect Frequency
+
+Established brands 2 +2 New brands
+High market share 2 +2 Low market share
+Deminant brand in market “2 +2 ‘Smaller, less known brand
+High brand loyalty 2 +2 Low brand loyalty
+Long purchase cycle -2 +2 Short purchase cycle, high volume
+Product used oceasionally 2 +2 Product used daily
+
++2 Need to beat competition
+
++ Ady. to older consumers/children
+
+Copy Factors That Affect Frequency
+
+‘Simple copy sa 42 ‘Complex copy
+Copy more unique than competition -. aes Copy less unique than competition
+Continuing fold] campaign 2 ea 42 New copy campaign
+Product sell copy 2 +a 42 image type copy
+Single kind of message 2 sa +2 More difficult kinds of messages
+To avoid wear out: new messages -2 +a +2 Older messages
+Larger ad units 2 +a 42 ‘Smail ad units
+
+Media Factors That Affect Frequency
+Lower ad clutter in me ey Higher ad clutter in media mix
+Compatible editorial environment +a 42 Non-compatible environment
+Attentiveness (to media) high aes Attentiveness (to media) low
+‘Continuous schedule campaign sa 42 Pulsed or fighted campaign
+Few media used in media mix ¥ es Many media used
+Opportunities for media repetition -.2 +a +2 Fewer opportunities
+
+Frequency: The State of the Art. Copyright 1982. Note: Medel edited by permission for Media Flight Plan.
+
+Source: Ostrow, Joseph W. by personal permission. First published in “Setting Frequency Levels,” in Effective
 --- page 5 ---
 One plus – a leading mobile handset is planning to test launch its new range in
 Mumbai. The Marketing team at One Plus feels that they should launch with OOH
@@ -342,6 +659,31 @@ all. Examine the advantages and disadvantages of outdoor media.
 Q7 CO 2 SO-;
 BL-Apply
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+How do we prioritize market
+
+¢ Sales Contribution
+
+¢ Market Growth
+
+* Competitor Sales and Market Share
+* Category Size (Salience/Dispersion)
+
+¢ Brand & Category Development Index
+
+ilatgeuReachiéiErequency Creative Limitations
+
+Targeting Flexibility Lack of Target-Market
+Size & Quality of Message Selectivity
+
+Media Compatibility Costs
+
+Creating Product Lack of Prestige
+Awareness Unobtrusive Medium
+Cost
+
+Content Flexibility
 ````
 
 ## 2025-26 · Final-Exam · Sem 10 · Answer key · paper 985f2b04d9ac
@@ -418,6 +760,17 @@ BL-Evaluate
 Reliance Retail will now relaunch Kelvinator. Recommend the Media Mix that
 Kelvinator should have and your reasons for it.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Brand Budget
+
+|. Media Budgets
+
+2. Production Budget
+
+3. Trade Budget
+
+4. Promotions Budget (Consumer Offer)
 --- page 3 ---
 Colgate Dental Cream is going for a national relaunch .Explain the 3 components
 and 5 building blocks of it’s media strategy?
@@ -426,6 +779,46 @@ CO-1; SO-;   [10]
 BL-
 Understand
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Why Media Mix
+
+|. Augment Reach/ Add new people from another medium
+2. Add Frequency
+3. To reinforce the message using different kind of sensory stimuli
+
+4. & ager the message to the consumer through out his day (24 hour body
+cloc
+
+5. To reach different kind of audiences
+
+Building Blocks of Media Strategy
+
+|. Target Group Definition WHO
+
+2. Market Prioritization WHERE
+
+3. Media Weights HOW MUCH
+4. Media Mix WHAT
+
+5. Scheduling WHEN
+
+Situational Analysis
+
+Product-Consumer Interaction
+|. Retail Off-take Data
+2. Usage & Attitude Studies
+
+3. Household Panel Data Usage study
+4. Brand Track <_< bn
+5. Product Linkage Data (IRS/NRS)
+Consumer-Media Interaction TG media cn Competitive review
+
+Media Consumption Habits
+Product-Media Interaction
+Comp Review —GRP, SOV etc
+
+Media
 --- page 4 ---
 Explain the Frequency Estimator by Ostrow and the three main factors that
 effect frequency by giving a suitable example.
@@ -448,6 +841,44 @@ Q6   Kwality -a leading ice cream brand is launching in India. Prepare a Market
 CO-3; SO-;   Prioritization document for this brand detailing the various parameters used in   [10]
 BL-Create   market prioritization?   .
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Frequency Estimator by Ostrow
+
+Marketing Factors That Affect Frequency
+
+Established brands 2 +2 New brands
+High market share 2 +2 Low market share
+Deminant brand in market “2 +2 ‘Smaller, less known brand
+High brand loyalty 2 +2 Low brand loyalty
+Long purchase cycle -2 +2 Short purchase cycle, high volume
+Product used oceasionally 2 +2 Product used daily
+
++2 Need to beat competition
+
++ Ady. to older consumers/children
+
+Copy Factors That Affect Frequency
+
+‘Simple copy sa 42 ‘Complex copy
+Copy more unique than competition -. aes Copy less unique than competition
+Continuing fold] campaign 2 ea 42 New copy campaign
+Product sell copy 2 +a 42 image type copy
+Single kind of message 2 sa +2 More difficult kinds of messages
+To avoid wear out: new messages -2 +a +2 Older messages
+Larger ad units 2 +a 42 ‘Smail ad units
+
+Media Factors That Affect Frequency
+Lower ad clutter in me ey Higher ad clutter in media mix
+Compatible editorial environment +a 42 Non-compatible environment
+Attentiveness (to media) high aes Attentiveness (to media) low
+‘Continuous schedule campaign sa 42 Pulsed or fighted campaign
+Few media used in media mix ¥ es Many media used
+Opportunities for media repetition -.2 +a +2 Fewer opportunities
+
+Frequency: The State of the Art. Copyright 1982. Note: Medel edited by permission for Media Flight Plan.
+
+Source: Ostrow, Joseph W. by personal permission. First published in “Setting Frequency Levels,” in Effective
 --- page 5 ---
 One plus – a leading mobile handset is planning to test launch its new range in
 Mumbai. The Marketing team at One Plus feels that they should launch with OOH
@@ -456,6 +887,31 @@ all. Examine the advantages and disadvantages of outdoor media.
 Q7 CO 2 SO-;
 BL-Apply
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+How do we prioritize market
+
+¢ Sales Contribution
+
+¢ Market Growth
+
+* Competitor Sales and Market Share
+* Category Size (Salience/Dispersion)
+
+¢ Brand & Category Development Index
+
+ilatgeuReachiéiErequency Creative Limitations
+
+Targeting Flexibility Lack of Target-Market
+Size & Quality of Message Selectivity
+
+Media Compatibility Costs
+
+Creating Product Lack of Prestige
+Awareness Unobtrusive Medium
+Cost
+
+Content Flexibility
 ````
 
 ## 2025-26 · Final-Exam · Sem 10 · Answer key · paper 1d4e9f3489cd
@@ -532,6 +988,17 @@ BL-Evaluate
 Reliance Retail will now relaunch Kelvinator. Recommend the Media Mix that
 Kelvinator should have and your reasons for it.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Brand Budget
+
+|. Media Budgets
+
+2. Production Budget
+
+3. Trade Budget
+
+4. Promotions Budget (Consumer Offer)
 --- page 3 ---
 Colgate Dental Cream is going for a national relaunch .Explain the 3 components
 and 5 building blocks of it’s media strategy?
@@ -540,6 +1007,46 @@ CO-1; SO-;   [10]
 BL-
 Understand
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Why Media Mix
+
+|. Augment Reach/ Add new people from another medium
+2. Add Frequency
+3. To reinforce the message using different kind of sensory stimuli
+
+4. & ager the message to the consumer through out his day (24 hour body
+cloc
+
+5. To reach different kind of audiences
+
+Building Blocks of Media Strategy
+
+|. Target Group Definition WHO
+
+2. Market Prioritization WHERE
+
+3. Media Weights HOW MUCH
+4. Media Mix WHAT
+
+5. Scheduling WHEN
+
+Situational Analysis
+
+Product-Consumer Interaction
+|. Retail Off-take Data
+2. Usage & Attitude Studies
+
+3. Household Panel Data Usage study
+4. Brand Track <_< bn
+5. Product Linkage Data (IRS/NRS)
+Consumer-Media Interaction TG media cn Competitive review
+
+Media Consumption Habits
+Product-Media Interaction
+Comp Review —GRP, SOV etc
+
+Media
 --- page 4 ---
 Explain the Frequency Estimator by Ostrow and the three main factors that
 effect frequency by giving a suitable example.
@@ -562,6 +1069,44 @@ Q6   Kwality -a leading ice cream brand is launching in India. Prepare a Market
 CO-3; SO-;   Prioritization document for this brand detailing the various parameters used in   [10]
 BL-Create   market prioritization?   .
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Frequency Estimator by Ostrow
+
+Marketing Factors That Affect Frequency
+
+Established brands 2 +2 New brands
+High market share 2 +2 Low market share
+Deminant brand in market “2 +2 ‘Smaller, less known brand
+High brand loyalty 2 +2 Low brand loyalty
+Long purchase cycle -2 +2 Short purchase cycle, high volume
+Product used oceasionally 2 +2 Product used daily
+
++2 Need to beat competition
+
++ Ady. to older consumers/children
+
+Copy Factors That Affect Frequency
+
+‘Simple copy sa 42 ‘Complex copy
+Copy more unique than competition -. aes Copy less unique than competition
+Continuing fold] campaign 2 ea 42 New copy campaign
+Product sell copy 2 +a 42 image type copy
+Single kind of message 2 sa +2 More difficult kinds of messages
+To avoid wear out: new messages -2 +a +2 Older messages
+Larger ad units 2 +a 42 ‘Smail ad units
+
+Media Factors That Affect Frequency
+Lower ad clutter in me ey Higher ad clutter in media mix
+Compatible editorial environment +a 42 Non-compatible environment
+Attentiveness (to media) high aes Attentiveness (to media) low
+‘Continuous schedule campaign sa 42 Pulsed or fighted campaign
+Few media used in media mix ¥ es Many media used
+Opportunities for media repetition -.2 +a +2 Fewer opportunities
+
+Frequency: The State of the Art. Copyright 1982. Note: Medel edited by permission for Media Flight Plan.
+
+Source: Ostrow, Joseph W. by personal permission. First published in “Setting Frequency Levels,” in Effective
 --- page 5 ---
 One plus – a leading mobile handset is planning to test launch its new range in
 Mumbai. The Marketing team at One Plus feels that they should launch with OOH
@@ -570,6 +1115,31 @@ all. Examine the advantages and disadvantages of outdoor media.
 Q7 CO 2 SO-;
 BL-Apply
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+How do we prioritize market
+
+¢ Sales Contribution
+
+¢ Market Growth
+
+* Competitor Sales and Market Share
+* Category Size (Salience/Dispersion)
+
+¢ Brand & Category Development Index
+
+ilatgeuReachiéiErequency Creative Limitations
+
+Targeting Flexibility Lack of Target-Market
+Size & Quality of Message Selectivity
+
+Media Compatibility Costs
+
+Creating Product Lack of Prestige
+Awareness Unobtrusive Medium
+Cost
+
+Content Flexibility
 ````
 
 ## 2024-25 · Final-Exam · Sem 10 · Answer key · paper cee569f05619

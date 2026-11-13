@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_AIML_7053/Drone Technology/ANS_Drone Technology(702EX0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: mixed (14 pages), mean OCR confidence 93.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -67,6 +68,56 @@ would be nearly impossible. The inertial sensor continuously
 measures how the drone is moving and rotating in 3D space. It
 enables the drone to maintain stable flight, detect changes in
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Battery C-Rating : Determines how fast the battery can deliver power
+
++ It supplies electrical energy to all components.
+
+A
+* Most drones use LiPo (Lithium Polymer) batteries due to high power-to-
+weight ratio.
+
+—
+
+‘ Bighen capacity = longer flight time
+
+Heavier batteries give longer flight but increase total weight ‘
+
+* Must balance capacity Vs drone lift capacity e¢
+* The battery gives steady power, fast throttle reaction, and keeps voltage - S
+
+stable even in hard maneuvers.
+* If the battery is too small —> voltage drops quickly.
+
+If the battery is too heavy — drone becomes less agile, . longer flight times
+Drones typically use |
++ Lithium Polymer batteries are due to their high enérgy density, lightweight, and ability to provide high
+
+discharge rates (fast a battery can release its energy)
+
++ Lithium-ion batteries offer longer lifespans and better stability
+* Nickel-cadmium and Nickel-metal hydride batteries are less common u u
+
+When you select a battery, make sure to focus on: Type, Cell Count (5), capacity, C Rating
+
+A BLDC motor of rating 2200KV simply means
+2200 rpm per volt which means a fully charged
+~ 3x3.7 LiPO battery can make the BLDC motor
+
+rotate it at a max of 24,420 rpm.
+
+Ss | Max RPM=KV * Max Battery Voltage
+
+Lipo Battery: 3S LIPO When a propeller, ESC, battery is attached then
+
++ Propeller adds aerodynamic load
+QO Nominal Voltage of 3.7V + ESC may limit the output
+
+* Be ii der load
+
+When fully charged, each cell reaches up to 4.2V.
+Fully charged voltage = 3 x 4.2V = 12.6V
 --- page 3 ---
 direction, balance itself automatically and execute precise
 manoeuvres.
@@ -150,6 +201,56 @@ and   its movement and   orientation using the   Inertial
 Measurement Unit. These systems work together to know where
 the drone is relative to home.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+* A flight controller is the central processing unit of a drone that regulates
+its movement, stability, and navigation.
+
+
+* Uses gyroscope and accelerometer (IMU) to maintain yaw, pitch, and
+roll stability.
+
+* Automatically adjusts motor speeds to counteract disturbances (e.g.,
+wind).
+
+- Ensures smooth and stable flight in manual and autonomous modes.
+- Essential for hovering, takeoff, and landing precision.
+
+2. Motor Control & Throttle Management
+
+* Sends PWM signals to Electronic Speed Controllers (ESCs) to adjust motor speeds.
+* Regulates thrust distribution for different maneuvers (e.g., climbing, turning).
+* Enables precise altitude hold and directional movement.
+
++ Ensures efficient power management for better flight endurance.
+
+3. Sensor Data Processing & Fusion
+¢ Collects real-time data from IMU, GPS, barometer, and LiDAR.
+
+« Uses sensor fusion algorithms to improve flight accuracy.
++ Enhances navigation precision, even in GPS-denied environments.
+
++ Helps in collision avoidance and terrain-following applications.
+
+Navigation & GPS Ii +
+
+* Processes GPS waypoints for autonomous missions (e.g., surveying, inspections).
+
+* Assists in return-to-home (RTH) and fail-safe operations.
+
+* Enables long-range autonomous flights for mapping and monitoring tasks.
+
+* Improves flight safety by preventing loss of control.
+
+5. Communication & Telemetry Management
+
+* Exchanges real-time data with ground control stations (GCS) via telemetry
+modules.
+
+« Sends live flight parameters like altitude, speed, and battery status.
+« Allows remote monitoring and control via radio or WiFi links.
+
+« Supports mission planning and real-time adjustments for drone
 --- page 6 ---
 Once RTH is activated (manually or automatically), the drone
 Ascends   to a safe   altitude   (to avoid obstacles   like
@@ -374,6 +475,22 @@ drone for the desired flight time.
 6. Raspberry Pi captures multispectral images and LiDAR
 scans. OpenCV processes images in real-time for NDVI and
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+UAV structure: Type of Quadcopter . Selection of
+Maultirotorys. | [E> Malice: [> | Configuration: | [>| Selestionof | D> |” Flight
+Fixed Wing Quad X fame Controller
+Selection of Calculation of
+Sot Selection of Selection of Weight, Efficiency,
+and Digital Propellers a Speed a Motors < Power and Torque
+Battery Controllers (WEPT)
+Checker (ESC)
+. Selection of Selection of Selection of
+Selection of Camera D Range Sensor: D> GPS and
+Processor Telemetry
+
+Ultrasonic
+Sensor System
 --- page 12 ---
 plant detection. Data is stored onboard or transmitted via
 telemetry to GCS. Post-processing generates crop health
@@ -491,6 +608,7 @@ actual vs predicted yield
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_AI_7012/Drone Technology/ANS_Drone Technology(702EX0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: mixed (14 pages), mean OCR confidence 93.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -549,6 +667,56 @@ would be nearly impossible. The inertial sensor continuously
 measures how the drone is moving and rotating in 3D space. It
 enables the drone to maintain stable flight, detect changes in
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Battery C-Rating : Determines how fast the battery can deliver power
+
++ It supplies electrical energy to all components.
+
+A
+* Most drones use LiPo (Lithium Polymer) batteries due to high power-to-
+weight ratio.
+
+—
+
+‘ Bighen capacity = longer flight time
+
+Heavier batteries give longer flight but increase total weight ‘
+
+* Must balance capacity Vs drone lift capacity e¢
+* The battery gives steady power, fast throttle reaction, and keeps voltage - S
+
+stable even in hard maneuvers.
+* If the battery is too small —> voltage drops quickly.
+
+If the battery is too heavy — drone becomes less agile, . longer flight times
+Drones typically use |
++ Lithium Polymer batteries are due to their high enérgy density, lightweight, and ability to provide high
+
+discharge rates (fast a battery can release its energy)
+
++ Lithium-ion batteries offer longer lifespans and better stability
+* Nickel-cadmium and Nickel-metal hydride batteries are less common u u
+
+When you select a battery, make sure to focus on: Type, Cell Count (5), capacity, C Rating
+
+A BLDC motor of rating 2200KV simply means
+2200 rpm per volt which means a fully charged
+~ 3x3.7 LiPO battery can make the BLDC motor
+
+rotate it at a max of 24,420 rpm.
+
+Ss | Max RPM=KV * Max Battery Voltage
+
+Lipo Battery: 3S LIPO When a propeller, ESC, battery is attached then
+
++ Propeller adds aerodynamic load
+QO Nominal Voltage of 3.7V + ESC may limit the output
+
+* Be ii der load
+
+When fully charged, each cell reaches up to 4.2V.
+Fully charged voltage = 3 x 4.2V = 12.6V
 --- page 3 ---
 direction, balance itself automatically and execute precise
 manoeuvres.
@@ -632,6 +800,56 @@ and   its movement and   orientation using the   Inertial
 Measurement Unit. These systems work together to know where
 the drone is relative to home.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+* A flight controller is the central processing unit of a drone that regulates
+its movement, stability, and navigation.
+
+
+* Uses gyroscope and accelerometer (IMU) to maintain yaw, pitch, and
+roll stability.
+
+* Automatically adjusts motor speeds to counteract disturbances (e.g.,
+wind).
+
+- Ensures smooth and stable flight in manual and autonomous modes.
+- Essential for hovering, takeoff, and landing precision.
+
+2. Motor Control & Throttle Management
+
+* Sends PWM signals to Electronic Speed Controllers (ESCs) to adjust motor speeds.
+* Regulates thrust distribution for different maneuvers (e.g., climbing, turning).
+* Enables precise altitude hold and directional movement.
+
++ Ensures efficient power management for better flight endurance.
+
+3. Sensor Data Processing & Fusion
+¢ Collects real-time data from IMU, GPS, barometer, and LiDAR.
+
+« Uses sensor fusion algorithms to improve flight accuracy.
++ Enhances navigation precision, even in GPS-denied environments.
+
++ Helps in collision avoidance and terrain-following applications.
+
+Navigation & GPS Ii +
+
+* Processes GPS waypoints for autonomous missions (e.g., surveying, inspections).
+
+* Assists in return-to-home (RTH) and fail-safe operations.
+
+* Enables long-range autonomous flights for mapping and monitoring tasks.
+
+* Improves flight safety by preventing loss of control.
+
+5. Communication & Telemetry Management
+
+* Exchanges real-time data with ground control stations (GCS) via telemetry
+modules.
+
+« Sends live flight parameters like altitude, speed, and battery status.
+« Allows remote monitoring and control via radio or WiFi links.
+
+« Supports mission planning and real-time adjustments for drone
 --- page 6 ---
 Once RTH is activated (manually or automatically), the drone
 Ascends   to a safe   altitude   (to avoid obstacles   like
@@ -856,6 +1074,22 @@ drone for the desired flight time.
 6. Raspberry Pi captures multispectral images and LiDAR
 scans. OpenCV processes images in real-time for NDVI and
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+UAV structure: Type of Quadcopter . Selection of
+Maultirotorys. | [E> Malice: [> | Configuration: | [>| Selestionof | D> |” Flight
+Fixed Wing Quad X fame Controller
+Selection of Calculation of
+Sot Selection of Selection of Weight, Efficiency,
+and Digital Propellers a Speed a Motors < Power and Torque
+Battery Controllers (WEPT)
+Checker (ESC)
+. Selection of Selection of Selection of
+Selection of Camera D Range Sensor: D> GPS and
+Processor Telemetry
+
+Ultrasonic
+Sensor System
 --- page 12 ---
 plant detection. Data is stored onboard or transmitted via
 telemetry to GCS. Post-processing generates crop health
@@ -973,6 +1207,7 @@ actual vs predicted yield
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CSE_DS_7057/Drone Technology/ANS_Drone Technology(702EX0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: mixed (14 pages), mean OCR confidence 93.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1031,6 +1266,56 @@ would be nearly impossible. The inertial sensor continuously
 measures how the drone is moving and rotating in 3D space. It
 enables the drone to maintain stable flight, detect changes in
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Battery C-Rating : Determines how fast the battery can deliver power
+
++ It supplies electrical energy to all components.
+
+A
+* Most drones use LiPo (Lithium Polymer) batteries due to high power-to-
+weight ratio.
+
+—
+
+‘ Bighen capacity = longer flight time
+
+Heavier batteries give longer flight but increase total weight ‘
+
+* Must balance capacity Vs drone lift capacity e¢
+* The battery gives steady power, fast throttle reaction, and keeps voltage - S
+
+stable even in hard maneuvers.
+* If the battery is too small —> voltage drops quickly.
+
+If the battery is too heavy — drone becomes less agile, . longer flight times
+Drones typically use |
++ Lithium Polymer batteries are due to their high enérgy density, lightweight, and ability to provide high
+
+discharge rates (fast a battery can release its energy)
+
++ Lithium-ion batteries offer longer lifespans and better stability
+* Nickel-cadmium and Nickel-metal hydride batteries are less common u u
+
+When you select a battery, make sure to focus on: Type, Cell Count (5), capacity, C Rating
+
+A BLDC motor of rating 2200KV simply means
+2200 rpm per volt which means a fully charged
+~ 3x3.7 LiPO battery can make the BLDC motor
+
+rotate it at a max of 24,420 rpm.
+
+Ss | Max RPM=KV * Max Battery Voltage
+
+Lipo Battery: 3S LIPO When a propeller, ESC, battery is attached then
+
++ Propeller adds aerodynamic load
+QO Nominal Voltage of 3.7V + ESC may limit the output
+
+* Be ii der load
+
+When fully charged, each cell reaches up to 4.2V.
+Fully charged voltage = 3 x 4.2V = 12.6V
 --- page 3 ---
 direction, balance itself automatically and execute precise
 manoeuvres.
@@ -1114,6 +1399,56 @@ and   its movement and   orientation using the   Inertial
 Measurement Unit. These systems work together to know where
 the drone is relative to home.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+* A flight controller is the central processing unit of a drone that regulates
+its movement, stability, and navigation.
+
+
+* Uses gyroscope and accelerometer (IMU) to maintain yaw, pitch, and
+roll stability.
+
+* Automatically adjusts motor speeds to counteract disturbances (e.g.,
+wind).
+
+- Ensures smooth and stable flight in manual and autonomous modes.
+- Essential for hovering, takeoff, and landing precision.
+
+2. Motor Control & Throttle Management
+
+* Sends PWM signals to Electronic Speed Controllers (ESCs) to adjust motor speeds.
+* Regulates thrust distribution for different maneuvers (e.g., climbing, turning).
+* Enables precise altitude hold and directional movement.
+
++ Ensures efficient power management for better flight endurance.
+
+3. Sensor Data Processing & Fusion
+¢ Collects real-time data from IMU, GPS, barometer, and LiDAR.
+
+« Uses sensor fusion algorithms to improve flight accuracy.
++ Enhances navigation precision, even in GPS-denied environments.
+
++ Helps in collision avoidance and terrain-following applications.
+
+Navigation & GPS Ii +
+
+* Processes GPS waypoints for autonomous missions (e.g., surveying, inspections).
+
+* Assists in return-to-home (RTH) and fail-safe operations.
+
+* Enables long-range autonomous flights for mapping and monitoring tasks.
+
+* Improves flight safety by preventing loss of control.
+
+5. Communication & Telemetry Management
+
+* Exchanges real-time data with ground control stations (GCS) via telemetry
+modules.
+
+« Sends live flight parameters like altitude, speed, and battery status.
+« Allows remote monitoring and control via radio or WiFi links.
+
+« Supports mission planning and real-time adjustments for drone
 --- page 6 ---
 Once RTH is activated (manually or automatically), the drone
 Ascends   to a safe   altitude   (to avoid obstacles   like
@@ -1338,6 +1673,22 @@ drone for the desired flight time.
 6. Raspberry Pi captures multispectral images and LiDAR
 scans. OpenCV processes images in real-time for NDVI and
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+UAV structure: Type of Quadcopter . Selection of
+Maultirotorys. | [E> Malice: [> | Configuration: | [>| Selestionof | D> |” Flight
+Fixed Wing Quad X fame Controller
+Selection of Calculation of
+Sot Selection of Selection of Weight, Efficiency,
+and Digital Propellers a Speed a Motors < Power and Torque
+Battery Controllers (WEPT)
+Checker (ESC)
+. Selection of Selection of Selection of
+Selection of Camera D Range Sensor: D> GPS and
+Processor Telemetry
+
+Ultrasonic
+Sensor System
 --- page 12 ---
 plant detection. Data is stored onboard or transmitted via
 telemetry to GCS. Post-processing generates crop health
@@ -1455,6 +1806,7 @@ actual vs predicted yield
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CS_7055/Drone Technology/ANS_Drone Technology(702EX0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: mixed (14 pages), mean OCR confidence 93.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1513,6 +1865,56 @@ would be nearly impossible. The inertial sensor continuously
 measures how the drone is moving and rotating in 3D space. It
 enables the drone to maintain stable flight, detect changes in
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Battery C-Rating : Determines how fast the battery can deliver power
+
++ It supplies electrical energy to all components.
+
+A
+* Most drones use LiPo (Lithium Polymer) batteries due to high power-to-
+weight ratio.
+
+—
+
+‘ Bighen capacity = longer flight time
+
+Heavier batteries give longer flight but increase total weight ‘
+
+* Must balance capacity Vs drone lift capacity e¢
+* The battery gives steady power, fast throttle reaction, and keeps voltage - S
+
+stable even in hard maneuvers.
+* If the battery is too small —> voltage drops quickly.
+
+If the battery is too heavy — drone becomes less agile, . longer flight times
+Drones typically use |
++ Lithium Polymer batteries are due to their high enérgy density, lightweight, and ability to provide high
+
+discharge rates (fast a battery can release its energy)
+
++ Lithium-ion batteries offer longer lifespans and better stability
+* Nickel-cadmium and Nickel-metal hydride batteries are less common u u
+
+When you select a battery, make sure to focus on: Type, Cell Count (5), capacity, C Rating
+
+A BLDC motor of rating 2200KV simply means
+2200 rpm per volt which means a fully charged
+~ 3x3.7 LiPO battery can make the BLDC motor
+
+rotate it at a max of 24,420 rpm.
+
+Ss | Max RPM=KV * Max Battery Voltage
+
+Lipo Battery: 3S LIPO When a propeller, ESC, battery is attached then
+
++ Propeller adds aerodynamic load
+QO Nominal Voltage of 3.7V + ESC may limit the output
+
+* Be ii der load
+
+When fully charged, each cell reaches up to 4.2V.
+Fully charged voltage = 3 x 4.2V = 12.6V
 --- page 3 ---
 direction, balance itself automatically and execute precise
 manoeuvres.
@@ -1596,6 +1998,56 @@ and   its movement and   orientation using the   Inertial
 Measurement Unit. These systems work together to know where
 the drone is relative to home.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+* A flight controller is the central processing unit of a drone that regulates
+its movement, stability, and navigation.
+
+
+* Uses gyroscope and accelerometer (IMU) to maintain yaw, pitch, and
+roll stability.
+
+* Automatically adjusts motor speeds to counteract disturbances (e.g.,
+wind).
+
+- Ensures smooth and stable flight in manual and autonomous modes.
+- Essential for hovering, takeoff, and landing precision.
+
+2. Motor Control & Throttle Management
+
+* Sends PWM signals to Electronic Speed Controllers (ESCs) to adjust motor speeds.
+* Regulates thrust distribution for different maneuvers (e.g., climbing, turning).
+* Enables precise altitude hold and directional movement.
+
++ Ensures efficient power management for better flight endurance.
+
+3. Sensor Data Processing & Fusion
+¢ Collects real-time data from IMU, GPS, barometer, and LiDAR.
+
+« Uses sensor fusion algorithms to improve flight accuracy.
++ Enhances navigation precision, even in GPS-denied environments.
+
++ Helps in collision avoidance and terrain-following applications.
+
+Navigation & GPS Ii +
+
+* Processes GPS waypoints for autonomous missions (e.g., surveying, inspections).
+
+* Assists in return-to-home (RTH) and fail-safe operations.
+
+* Enables long-range autonomous flights for mapping and monitoring tasks.
+
+* Improves flight safety by preventing loss of control.
+
+5. Communication & Telemetry Management
+
+* Exchanges real-time data with ground control stations (GCS) via telemetry
+modules.
+
+« Sends live flight parameters like altitude, speed, and battery status.
+« Allows remote monitoring and control via radio or WiFi links.
+
+« Supports mission planning and real-time adjustments for drone
 --- page 6 ---
 Once RTH is activated (manually or automatically), the drone
 Ascends   to a safe   altitude   (to avoid obstacles   like
@@ -1820,6 +2272,22 @@ drone for the desired flight time.
 6. Raspberry Pi captures multispectral images and LiDAR
 scans. OpenCV processes images in real-time for NDVI and
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+UAV structure: Type of Quadcopter . Selection of
+Maultirotorys. | [E> Malice: [> | Configuration: | [>| Selestionof | D> |” Flight
+Fixed Wing Quad X fame Controller
+Selection of Calculation of
+Sot Selection of Selection of Weight, Efficiency,
+and Digital Propellers a Speed a Motors < Power and Torque
+Battery Controllers (WEPT)
+Checker (ESC)
+. Selection of Selection of Selection of
+Selection of Camera D Range Sensor: D> GPS and
+Processor Telemetry
+
+Ultrasonic
+Sensor System
 --- page 12 ---
 plant detection. Data is stored onboard or transmitted via
 telemetry to GCS. Post-processing generates crop health
@@ -1937,6 +2405,7 @@ actual vs predicted yield
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Computer_7002/Drone Technology/ANS_Drone Technology(702EX0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: mixed (14 pages), mean OCR confidence 93.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1995,6 +2464,56 @@ would be nearly impossible. The inertial sensor continuously
 measures how the drone is moving and rotating in 3D space. It
 enables the drone to maintain stable flight, detect changes in
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Battery C-Rating : Determines how fast the battery can deliver power
+
++ It supplies electrical energy to all components.
+
+A
+* Most drones use LiPo (Lithium Polymer) batteries due to high power-to-
+weight ratio.
+
+—
+
+‘ Bighen capacity = longer flight time
+
+Heavier batteries give longer flight but increase total weight ‘
+
+* Must balance capacity Vs drone lift capacity e¢
+* The battery gives steady power, fast throttle reaction, and keeps voltage - S
+
+stable even in hard maneuvers.
+* If the battery is too small —> voltage drops quickly.
+
+If the battery is too heavy — drone becomes less agile, . longer flight times
+Drones typically use |
++ Lithium Polymer batteries are due to their high enérgy density, lightweight, and ability to provide high
+
+discharge rates (fast a battery can release its energy)
+
++ Lithium-ion batteries offer longer lifespans and better stability
+* Nickel-cadmium and Nickel-metal hydride batteries are less common u u
+
+When you select a battery, make sure to focus on: Type, Cell Count (5), capacity, C Rating
+
+A BLDC motor of rating 2200KV simply means
+2200 rpm per volt which means a fully charged
+~ 3x3.7 LiPO battery can make the BLDC motor
+
+rotate it at a max of 24,420 rpm.
+
+Ss | Max RPM=KV * Max Battery Voltage
+
+Lipo Battery: 3S LIPO When a propeller, ESC, battery is attached then
+
++ Propeller adds aerodynamic load
+QO Nominal Voltage of 3.7V + ESC may limit the output
+
+* Be ii der load
+
+When fully charged, each cell reaches up to 4.2V.
+Fully charged voltage = 3 x 4.2V = 12.6V
 --- page 3 ---
 direction, balance itself automatically and execute precise
 manoeuvres.
@@ -2078,6 +2597,56 @@ and   its movement and   orientation using the   Inertial
 Measurement Unit. These systems work together to know where
 the drone is relative to home.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+* A flight controller is the central processing unit of a drone that regulates
+its movement, stability, and navigation.
+
+
+* Uses gyroscope and accelerometer (IMU) to maintain yaw, pitch, and
+roll stability.
+
+* Automatically adjusts motor speeds to counteract disturbances (e.g.,
+wind).
+
+- Ensures smooth and stable flight in manual and autonomous modes.
+- Essential for hovering, takeoff, and landing precision.
+
+2. Motor Control & Throttle Management
+
+* Sends PWM signals to Electronic Speed Controllers (ESCs) to adjust motor speeds.
+* Regulates thrust distribution for different maneuvers (e.g., climbing, turning).
+* Enables precise altitude hold and directional movement.
+
++ Ensures efficient power management for better flight endurance.
+
+3. Sensor Data Processing & Fusion
+¢ Collects real-time data from IMU, GPS, barometer, and LiDAR.
+
+« Uses sensor fusion algorithms to improve flight accuracy.
++ Enhances navigation precision, even in GPS-denied environments.
+
++ Helps in collision avoidance and terrain-following applications.
+
+Navigation & GPS Ii +
+
+* Processes GPS waypoints for autonomous missions (e.g., surveying, inspections).
+
+* Assists in return-to-home (RTH) and fail-safe operations.
+
+* Enables long-range autonomous flights for mapping and monitoring tasks.
+
+* Improves flight safety by preventing loss of control.
+
+5. Communication & Telemetry Management
+
+* Exchanges real-time data with ground control stations (GCS) via telemetry
+modules.
+
+« Sends live flight parameters like altitude, speed, and battery status.
+« Allows remote monitoring and control via radio or WiFi links.
+
+« Supports mission planning and real-time adjustments for drone
 --- page 6 ---
 Once RTH is activated (manually or automatically), the drone
 Ascends   to a safe   altitude   (to avoid obstacles   like
@@ -2302,6 +2871,22 @@ drone for the desired flight time.
 6. Raspberry Pi captures multispectral images and LiDAR
 scans. OpenCV processes images in real-time for NDVI and
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+UAV structure: Type of Quadcopter . Selection of
+Maultirotorys. | [E> Malice: [> | Configuration: | [>| Selestionof | D> |” Flight
+Fixed Wing Quad X fame Controller
+Selection of Calculation of
+Sot Selection of Selection of Weight, Efficiency,
+and Digital Propellers a Speed a Motors < Power and Torque
+Battery Controllers (WEPT)
+Checker (ESC)
+. Selection of Selection of Selection of
+Selection of Camera D Range Sensor: D> GPS and
+Processor Telemetry
+
+Ultrasonic
+Sensor System
 --- page 12 ---
 plant detection. Data is stored onboard or transmitted via
 telemetry to GCS. Post-processing generates crop health
@@ -2419,6 +3004,7 @@ actual vs predicted yield
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CyberSecurity_7010/Drone Technology/ANS_Drone Technology(702EX0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: mixed (14 pages), mean OCR confidence 93.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2477,6 +3063,56 @@ would be nearly impossible. The inertial sensor continuously
 measures how the drone is moving and rotating in 3D space. It
 enables the drone to maintain stable flight, detect changes in
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Battery C-Rating : Determines how fast the battery can deliver power
+
++ It supplies electrical energy to all components.
+
+A
+* Most drones use LiPo (Lithium Polymer) batteries due to high power-to-
+weight ratio.
+
+—
+
+‘ Bighen capacity = longer flight time
+
+Heavier batteries give longer flight but increase total weight ‘
+
+* Must balance capacity Vs drone lift capacity e¢
+* The battery gives steady power, fast throttle reaction, and keeps voltage - S
+
+stable even in hard maneuvers.
+* If the battery is too small —> voltage drops quickly.
+
+If the battery is too heavy — drone becomes less agile, . longer flight times
+Drones typically use |
++ Lithium Polymer batteries are due to their high enérgy density, lightweight, and ability to provide high
+
+discharge rates (fast a battery can release its energy)
+
++ Lithium-ion batteries offer longer lifespans and better stability
+* Nickel-cadmium and Nickel-metal hydride batteries are less common u u
+
+When you select a battery, make sure to focus on: Type, Cell Count (5), capacity, C Rating
+
+A BLDC motor of rating 2200KV simply means
+2200 rpm per volt which means a fully charged
+~ 3x3.7 LiPO battery can make the BLDC motor
+
+rotate it at a max of 24,420 rpm.
+
+Ss | Max RPM=KV * Max Battery Voltage
+
+Lipo Battery: 3S LIPO When a propeller, ESC, battery is attached then
+
++ Propeller adds aerodynamic load
+QO Nominal Voltage of 3.7V + ESC may limit the output
+
+* Be ii der load
+
+When fully charged, each cell reaches up to 4.2V.
+Fully charged voltage = 3 x 4.2V = 12.6V
 --- page 3 ---
 direction, balance itself automatically and execute precise
 manoeuvres.
@@ -2560,6 +3196,56 @@ and   its movement and   orientation using the   Inertial
 Measurement Unit. These systems work together to know where
 the drone is relative to home.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+* A flight controller is the central processing unit of a drone that regulates
+its movement, stability, and navigation.
+
+
+* Uses gyroscope and accelerometer (IMU) to maintain yaw, pitch, and
+roll stability.
+
+* Automatically adjusts motor speeds to counteract disturbances (e.g.,
+wind).
+
+- Ensures smooth and stable flight in manual and autonomous modes.
+- Essential for hovering, takeoff, and landing precision.
+
+2. Motor Control & Throttle Management
+
+* Sends PWM signals to Electronic Speed Controllers (ESCs) to adjust motor speeds.
+* Regulates thrust distribution for different maneuvers (e.g., climbing, turning).
+* Enables precise altitude hold and directional movement.
+
++ Ensures efficient power management for better flight endurance.
+
+3. Sensor Data Processing & Fusion
+¢ Collects real-time data from IMU, GPS, barometer, and LiDAR.
+
+« Uses sensor fusion algorithms to improve flight accuracy.
++ Enhances navigation precision, even in GPS-denied environments.
+
++ Helps in collision avoidance and terrain-following applications.
+
+Navigation & GPS Ii +
+
+* Processes GPS waypoints for autonomous missions (e.g., surveying, inspections).
+
+* Assists in return-to-home (RTH) and fail-safe operations.
+
+* Enables long-range autonomous flights for mapping and monitoring tasks.
+
+* Improves flight safety by preventing loss of control.
+
+5. Communication & Telemetry Management
+
+* Exchanges real-time data with ground control stations (GCS) via telemetry
+modules.
+
+« Sends live flight parameters like altitude, speed, and battery status.
+« Allows remote monitoring and control via radio or WiFi links.
+
+« Supports mission planning and real-time adjustments for drone
 --- page 6 ---
 Once RTH is activated (manually or automatically), the drone
 Ascends   to a safe   altitude   (to avoid obstacles   like
@@ -2784,6 +3470,22 @@ drone for the desired flight time.
 6. Raspberry Pi captures multispectral images and LiDAR
 scans. OpenCV processes images in real-time for NDVI and
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+UAV structure: Type of Quadcopter . Selection of
+Maultirotorys. | [E> Malice: [> | Configuration: | [>| Selestionof | D> |” Flight
+Fixed Wing Quad X fame Controller
+Selection of Calculation of
+Sot Selection of Selection of Weight, Efficiency,
+and Digital Propellers a Speed a Motors < Power and Torque
+Battery Controllers (WEPT)
+Checker (ESC)
+. Selection of Selection of Selection of
+Selection of Camera D Range Sensor: D> GPS and
+Processor Telemetry
+
+Ultrasonic
+Sensor System
 --- page 12 ---
 plant detection. Data is stored onboard or transmitted via
 telemetry to GCS. Post-processing generates crop health
@@ -2901,6 +3603,7 @@ actual vs predicted yield
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_DS_7009/Drone Technology/ANS_Drone Technology(702EX0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: mixed (14 pages), mean OCR confidence 93.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2959,6 +3662,56 @@ would be nearly impossible. The inertial sensor continuously
 measures how the drone is moving and rotating in 3D space. It
 enables the drone to maintain stable flight, detect changes in
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Battery C-Rating : Determines how fast the battery can deliver power
+
++ It supplies electrical energy to all components.
+
+A
+* Most drones use LiPo (Lithium Polymer) batteries due to high power-to-
+weight ratio.
+
+—
+
+‘ Bighen capacity = longer flight time
+
+Heavier batteries give longer flight but increase total weight ‘
+
+* Must balance capacity Vs drone lift capacity e¢
+* The battery gives steady power, fast throttle reaction, and keeps voltage - S
+
+stable even in hard maneuvers.
+* If the battery is too small —> voltage drops quickly.
+
+If the battery is too heavy — drone becomes less agile, . longer flight times
+Drones typically use |
++ Lithium Polymer batteries are due to their high enérgy density, lightweight, and ability to provide high
+
+discharge rates (fast a battery can release its energy)
+
++ Lithium-ion batteries offer longer lifespans and better stability
+* Nickel-cadmium and Nickel-metal hydride batteries are less common u u
+
+When you select a battery, make sure to focus on: Type, Cell Count (5), capacity, C Rating
+
+A BLDC motor of rating 2200KV simply means
+2200 rpm per volt which means a fully charged
+~ 3x3.7 LiPO battery can make the BLDC motor
+
+rotate it at a max of 24,420 rpm.
+
+Ss | Max RPM=KV * Max Battery Voltage
+
+Lipo Battery: 3S LIPO When a propeller, ESC, battery is attached then
+
++ Propeller adds aerodynamic load
+QO Nominal Voltage of 3.7V + ESC may limit the output
+
+* Be ii der load
+
+When fully charged, each cell reaches up to 4.2V.
+Fully charged voltage = 3 x 4.2V = 12.6V
 --- page 3 ---
 direction, balance itself automatically and execute precise
 manoeuvres.
@@ -3042,6 +3795,56 @@ and   its movement and   orientation using the   Inertial
 Measurement Unit. These systems work together to know where
 the drone is relative to home.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+* A flight controller is the central processing unit of a drone that regulates
+its movement, stability, and navigation.
+
+
+* Uses gyroscope and accelerometer (IMU) to maintain yaw, pitch, and
+roll stability.
+
+* Automatically adjusts motor speeds to counteract disturbances (e.g.,
+wind).
+
+- Ensures smooth and stable flight in manual and autonomous modes.
+- Essential for hovering, takeoff, and landing precision.
+
+2. Motor Control & Throttle Management
+
+* Sends PWM signals to Electronic Speed Controllers (ESCs) to adjust motor speeds.
+* Regulates thrust distribution for different maneuvers (e.g., climbing, turning).
+* Enables precise altitude hold and directional movement.
+
++ Ensures efficient power management for better flight endurance.
+
+3. Sensor Data Processing & Fusion
+¢ Collects real-time data from IMU, GPS, barometer, and LiDAR.
+
+« Uses sensor fusion algorithms to improve flight accuracy.
++ Enhances navigation precision, even in GPS-denied environments.
+
++ Helps in collision avoidance and terrain-following applications.
+
+Navigation & GPS Ii +
+
+* Processes GPS waypoints for autonomous missions (e.g., surveying, inspections).
+
+* Assists in return-to-home (RTH) and fail-safe operations.
+
+* Enables long-range autonomous flights for mapping and monitoring tasks.
+
+* Improves flight safety by preventing loss of control.
+
+5. Communication & Telemetry Management
+
+* Exchanges real-time data with ground control stations (GCS) via telemetry
+modules.
+
+« Sends live flight parameters like altitude, speed, and battery status.
+« Allows remote monitoring and control via radio or WiFi links.
+
+« Supports mission planning and real-time adjustments for drone
 --- page 6 ---
 Once RTH is activated (manually or automatically), the drone
 Ascends   to a safe   altitude   (to avoid obstacles   like
@@ -3266,6 +4069,22 @@ drone for the desired flight time.
 6. Raspberry Pi captures multispectral images and LiDAR
 scans. OpenCV processes images in real-time for NDVI and
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+UAV structure: Type of Quadcopter . Selection of
+Maultirotorys. | [E> Malice: [> | Configuration: | [>| Selestionof | D> |” Flight
+Fixed Wing Quad X fame Controller
+Selection of Calculation of
+Sot Selection of Selection of Weight, Efficiency,
+and Digital Propellers a Speed a Motors < Power and Torque
+Battery Controllers (WEPT)
+Checker (ESC)
+. Selection of Selection of Selection of
+Selection of Camera D Range Sensor: D> GPS and
+Processor Telemetry
+
+Ultrasonic
+Sensor System
 --- page 12 ---
 plant detection. Data is stored onboard or transmitted via
 telemetry to GCS. Post-processing generates crop health
@@ -3383,6 +4202,7 @@ actual vs predicted yield
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_EXTC_7006/Drone Technology/ANS_Drone Technology(702EX0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: mixed (14 pages), mean OCR confidence 93.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3441,6 +4261,56 @@ would be nearly impossible. The inertial sensor continuously
 measures how the drone is moving and rotating in 3D space. It
 enables the drone to maintain stable flight, detect changes in
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Battery C-Rating : Determines how fast the battery can deliver power
+
++ It supplies electrical energy to all components.
+
+A
+* Most drones use LiPo (Lithium Polymer) batteries due to high power-to-
+weight ratio.
+
+—
+
+‘ Bighen capacity = longer flight time
+
+Heavier batteries give longer flight but increase total weight ‘
+
+* Must balance capacity Vs drone lift capacity e¢
+* The battery gives steady power, fast throttle reaction, and keeps voltage - S
+
+stable even in hard maneuvers.
+* If the battery is too small —> voltage drops quickly.
+
+If the battery is too heavy — drone becomes less agile, . longer flight times
+Drones typically use |
++ Lithium Polymer batteries are due to their high enérgy density, lightweight, and ability to provide high
+
+discharge rates (fast a battery can release its energy)
+
++ Lithium-ion batteries offer longer lifespans and better stability
+* Nickel-cadmium and Nickel-metal hydride batteries are less common u u
+
+When you select a battery, make sure to focus on: Type, Cell Count (5), capacity, C Rating
+
+A BLDC motor of rating 2200KV simply means
+2200 rpm per volt which means a fully charged
+~ 3x3.7 LiPO battery can make the BLDC motor
+
+rotate it at a max of 24,420 rpm.
+
+Ss | Max RPM=KV * Max Battery Voltage
+
+Lipo Battery: 3S LIPO When a propeller, ESC, battery is attached then
+
++ Propeller adds aerodynamic load
+QO Nominal Voltage of 3.7V + ESC may limit the output
+
+* Be ii der load
+
+When fully charged, each cell reaches up to 4.2V.
+Fully charged voltage = 3 x 4.2V = 12.6V
 --- page 3 ---
 direction, balance itself automatically and execute precise
 manoeuvres.
@@ -3524,6 +4394,56 @@ and   its movement and   orientation using the   Inertial
 Measurement Unit. These systems work together to know where
 the drone is relative to home.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+* A flight controller is the central processing unit of a drone that regulates
+its movement, stability, and navigation.
+
+
+* Uses gyroscope and accelerometer (IMU) to maintain yaw, pitch, and
+roll stability.
+
+* Automatically adjusts motor speeds to counteract disturbances (e.g.,
+wind).
+
+- Ensures smooth and stable flight in manual and autonomous modes.
+- Essential for hovering, takeoff, and landing precision.
+
+2. Motor Control & Throttle Management
+
+* Sends PWM signals to Electronic Speed Controllers (ESCs) to adjust motor speeds.
+* Regulates thrust distribution for different maneuvers (e.g., climbing, turning).
+* Enables precise altitude hold and directional movement.
+
++ Ensures efficient power management for better flight endurance.
+
+3. Sensor Data Processing & Fusion
+¢ Collects real-time data from IMU, GPS, barometer, and LiDAR.
+
+« Uses sensor fusion algorithms to improve flight accuracy.
++ Enhances navigation precision, even in GPS-denied environments.
+
++ Helps in collision avoidance and terrain-following applications.
+
+Navigation & GPS Ii +
+
+* Processes GPS waypoints for autonomous missions (e.g., surveying, inspections).
+
+* Assists in return-to-home (RTH) and fail-safe operations.
+
+* Enables long-range autonomous flights for mapping and monitoring tasks.
+
+* Improves flight safety by preventing loss of control.
+
+5. Communication & Telemetry Management
+
+* Exchanges real-time data with ground control stations (GCS) via telemetry
+modules.
+
+« Sends live flight parameters like altitude, speed, and battery status.
+« Allows remote monitoring and control via radio or WiFi links.
+
+« Supports mission planning and real-time adjustments for drone
 --- page 6 ---
 Once RTH is activated (manually or automatically), the drone
 Ascends   to a safe   altitude   (to avoid obstacles   like
@@ -3748,6 +4668,22 @@ drone for the desired flight time.
 6. Raspberry Pi captures multispectral images and LiDAR
 scans. OpenCV processes images in real-time for NDVI and
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+UAV structure: Type of Quadcopter . Selection of
+Maultirotorys. | [E> Malice: [> | Configuration: | [>| Selestionof | D> |” Flight
+Fixed Wing Quad X fame Controller
+Selection of Calculation of
+Sot Selection of Selection of Weight, Efficiency,
+and Digital Propellers a Speed a Motors < Power and Torque
+Battery Controllers (WEPT)
+Checker (ESC)
+. Selection of Selection of Selection of
+Selection of Camera D Range Sensor: D> GPS and
+Processor Telemetry
+
+Ultrasonic
+Sensor System
 --- page 12 ---
 plant detection. Data is stored onboard or transmitted via
 telemetry to GCS. Post-processing generates crop health
@@ -3865,6 +4801,7 @@ actual vs predicted yield
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_IT_7001/Drone Technology/ANS_Drone Technology(702EX0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: mixed (14 pages), mean OCR confidence 93.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3923,6 +4860,56 @@ would be nearly impossible. The inertial sensor continuously
 measures how the drone is moving and rotating in 3D space. It
 enables the drone to maintain stable flight, detect changes in
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Battery C-Rating : Determines how fast the battery can deliver power
+
++ It supplies electrical energy to all components.
+
+A
+* Most drones use LiPo (Lithium Polymer) batteries due to high power-to-
+weight ratio.
+
+—
+
+‘ Bighen capacity = longer flight time
+
+Heavier batteries give longer flight but increase total weight ‘
+
+* Must balance capacity Vs drone lift capacity e¢
+* The battery gives steady power, fast throttle reaction, and keeps voltage - S
+
+stable even in hard maneuvers.
+* If the battery is too small —> voltage drops quickly.
+
+If the battery is too heavy — drone becomes less agile, . longer flight times
+Drones typically use |
++ Lithium Polymer batteries are due to their high enérgy density, lightweight, and ability to provide high
+
+discharge rates (fast a battery can release its energy)
+
++ Lithium-ion batteries offer longer lifespans and better stability
+* Nickel-cadmium and Nickel-metal hydride batteries are less common u u
+
+When you select a battery, make sure to focus on: Type, Cell Count (5), capacity, C Rating
+
+A BLDC motor of rating 2200KV simply means
+2200 rpm per volt which means a fully charged
+~ 3x3.7 LiPO battery can make the BLDC motor
+
+rotate it at a max of 24,420 rpm.
+
+Ss | Max RPM=KV * Max Battery Voltage
+
+Lipo Battery: 3S LIPO When a propeller, ESC, battery is attached then
+
++ Propeller adds aerodynamic load
+QO Nominal Voltage of 3.7V + ESC may limit the output
+
+* Be ii der load
+
+When fully charged, each cell reaches up to 4.2V.
+Fully charged voltage = 3 x 4.2V = 12.6V
 --- page 3 ---
 direction, balance itself automatically and execute precise
 manoeuvres.
@@ -4006,6 +4993,56 @@ and   its movement and   orientation using the   Inertial
 Measurement Unit. These systems work together to know where
 the drone is relative to home.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+* A flight controller is the central processing unit of a drone that regulates
+its movement, stability, and navigation.
+
+
+* Uses gyroscope and accelerometer (IMU) to maintain yaw, pitch, and
+roll stability.
+
+* Automatically adjusts motor speeds to counteract disturbances (e.g.,
+wind).
+
+- Ensures smooth and stable flight in manual and autonomous modes.
+- Essential for hovering, takeoff, and landing precision.
+
+2. Motor Control & Throttle Management
+
+* Sends PWM signals to Electronic Speed Controllers (ESCs) to adjust motor speeds.
+* Regulates thrust distribution for different maneuvers (e.g., climbing, turning).
+* Enables precise altitude hold and directional movement.
+
++ Ensures efficient power management for better flight endurance.
+
+3. Sensor Data Processing & Fusion
+¢ Collects real-time data from IMU, GPS, barometer, and LiDAR.
+
+« Uses sensor fusion algorithms to improve flight accuracy.
++ Enhances navigation precision, even in GPS-denied environments.
+
++ Helps in collision avoidance and terrain-following applications.
+
+Navigation & GPS Ii +
+
+* Processes GPS waypoints for autonomous missions (e.g., surveying, inspections).
+
+* Assists in return-to-home (RTH) and fail-safe operations.
+
+* Enables long-range autonomous flights for mapping and monitoring tasks.
+
+* Improves flight safety by preventing loss of control.
+
+5. Communication & Telemetry Management
+
+* Exchanges real-time data with ground control stations (GCS) via telemetry
+modules.
+
+« Sends live flight parameters like altitude, speed, and battery status.
+« Allows remote monitoring and control via radio or WiFi links.
+
+« Supports mission planning and real-time adjustments for drone
 --- page 6 ---
 Once RTH is activated (manually or automatically), the drone
 Ascends   to a safe   altitude   (to avoid obstacles   like
@@ -4230,6 +5267,22 @@ drone for the desired flight time.
 6. Raspberry Pi captures multispectral images and LiDAR
 scans. OpenCV processes images in real-time for NDVI and
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+UAV structure: Type of Quadcopter . Selection of
+Maultirotorys. | [E> Malice: [> | Configuration: | [>| Selestionof | D> |” Flight
+Fixed Wing Quad X fame Controller
+Selection of Calculation of
+Sot Selection of Selection of Weight, Efficiency,
+and Digital Propellers a Speed a Motors < Power and Torque
+Battery Controllers (WEPT)
+Checker (ESC)
+. Selection of Selection of Selection of
+Selection of Camera D Range Sensor: D> GPS and
+Processor Telemetry
+
+Ultrasonic
+Sensor System
 --- page 12 ---
 plant detection. Data is stored onboard or transmitted via
 telemetry to GCS. Post-processing generates crop health
@@ -4347,6 +5400,7 @@ actual vs predicted yield
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Mechanical_7003/Drone Technology/ANS_Drone Technology(702EX0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: mixed (14 pages), mean OCR confidence 93.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -4405,6 +5459,56 @@ would be nearly impossible. The inertial sensor continuously
 measures how the drone is moving and rotating in 3D space. It
 enables the drone to maintain stable flight, detect changes in
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Battery C-Rating : Determines how fast the battery can deliver power
+
++ It supplies electrical energy to all components.
+
+A
+* Most drones use LiPo (Lithium Polymer) batteries due to high power-to-
+weight ratio.
+
+—
+
+‘ Bighen capacity = longer flight time
+
+Heavier batteries give longer flight but increase total weight ‘
+
+* Must balance capacity Vs drone lift capacity e¢
+* The battery gives steady power, fast throttle reaction, and keeps voltage - S
+
+stable even in hard maneuvers.
+* If the battery is too small —> voltage drops quickly.
+
+If the battery is too heavy — drone becomes less agile, . longer flight times
+Drones typically use |
++ Lithium Polymer batteries are due to their high enérgy density, lightweight, and ability to provide high
+
+discharge rates (fast a battery can release its energy)
+
++ Lithium-ion batteries offer longer lifespans and better stability
+* Nickel-cadmium and Nickel-metal hydride batteries are less common u u
+
+When you select a battery, make sure to focus on: Type, Cell Count (5), capacity, C Rating
+
+A BLDC motor of rating 2200KV simply means
+2200 rpm per volt which means a fully charged
+~ 3x3.7 LiPO battery can make the BLDC motor
+
+rotate it at a max of 24,420 rpm.
+
+Ss | Max RPM=KV * Max Battery Voltage
+
+Lipo Battery: 3S LIPO When a propeller, ESC, battery is attached then
+
++ Propeller adds aerodynamic load
+QO Nominal Voltage of 3.7V + ESC may limit the output
+
+* Be ii der load
+
+When fully charged, each cell reaches up to 4.2V.
+Fully charged voltage = 3 x 4.2V = 12.6V
 --- page 3 ---
 direction, balance itself automatically and execute precise
 manoeuvres.
@@ -4488,6 +5592,56 @@ and   its movement and   orientation using the   Inertial
 Measurement Unit. These systems work together to know where
 the drone is relative to home.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+* A flight controller is the central processing unit of a drone that regulates
+its movement, stability, and navigation.
+
+
+* Uses gyroscope and accelerometer (IMU) to maintain yaw, pitch, and
+roll stability.
+
+* Automatically adjusts motor speeds to counteract disturbances (e.g.,
+wind).
+
+- Ensures smooth and stable flight in manual and autonomous modes.
+- Essential for hovering, takeoff, and landing precision.
+
+2. Motor Control & Throttle Management
+
+* Sends PWM signals to Electronic Speed Controllers (ESCs) to adjust motor speeds.
+* Regulates thrust distribution for different maneuvers (e.g., climbing, turning).
+* Enables precise altitude hold and directional movement.
+
++ Ensures efficient power management for better flight endurance.
+
+3. Sensor Data Processing & Fusion
+¢ Collects real-time data from IMU, GPS, barometer, and LiDAR.
+
+« Uses sensor fusion algorithms to improve flight accuracy.
++ Enhances navigation precision, even in GPS-denied environments.
+
++ Helps in collision avoidance and terrain-following applications.
+
+Navigation & GPS Ii +
+
+* Processes GPS waypoints for autonomous missions (e.g., surveying, inspections).
+
+* Assists in return-to-home (RTH) and fail-safe operations.
+
+* Enables long-range autonomous flights for mapping and monitoring tasks.
+
+* Improves flight safety by preventing loss of control.
+
+5. Communication & Telemetry Management
+
+* Exchanges real-time data with ground control stations (GCS) via telemetry
+modules.
+
+« Sends live flight parameters like altitude, speed, and battery status.
+« Allows remote monitoring and control via radio or WiFi links.
+
+« Supports mission planning and real-time adjustments for drone
 --- page 6 ---
 Once RTH is activated (manually or automatically), the drone
 Ascends   to a safe   altitude   (to avoid obstacles   like
@@ -4712,6 +5866,22 @@ drone for the desired flight time.
 6. Raspberry Pi captures multispectral images and LiDAR
 scans. OpenCV processes images in real-time for NDVI and
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+UAV structure: Type of Quadcopter . Selection of
+Maultirotorys. | [E> Malice: [> | Configuration: | [>| Selestionof | D> |” Flight
+Fixed Wing Quad X fame Controller
+Selection of Calculation of
+Sot Selection of Selection of Weight, Efficiency,
+and Digital Propellers a Speed a Motors < Power and Torque
+Battery Controllers (WEPT)
+Checker (ESC)
+. Selection of Selection of Selection of
+Selection of Camera D Range Sensor: D> GPS and
+Processor Telemetry
+
+Ultrasonic
+Sensor System
 --- page 12 ---
 plant detection. Data is stored onboard or transmitted via
 telemetry to GCS. Post-processing generates crop health
@@ -4829,6 +5999,7 @@ actual vs predicted yield
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Mechatronics_7004/Drone Technology/ANS_Drone Technology(702EX0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: mixed (14 pages), mean OCR confidence 93.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -4887,6 +6058,56 @@ would be nearly impossible. The inertial sensor continuously
 measures how the drone is moving and rotating in 3D space. It
 enables the drone to maintain stable flight, detect changes in
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Battery C-Rating : Determines how fast the battery can deliver power
+
++ It supplies electrical energy to all components.
+
+A
+* Most drones use LiPo (Lithium Polymer) batteries due to high power-to-
+weight ratio.
+
+—
+
+‘ Bighen capacity = longer flight time
+
+Heavier batteries give longer flight but increase total weight ‘
+
+* Must balance capacity Vs drone lift capacity e¢
+* The battery gives steady power, fast throttle reaction, and keeps voltage - S
+
+stable even in hard maneuvers.
+* If the battery is too small —> voltage drops quickly.
+
+If the battery is too heavy — drone becomes less agile, . longer flight times
+Drones typically use |
++ Lithium Polymer batteries are due to their high enérgy density, lightweight, and ability to provide high
+
+discharge rates (fast a battery can release its energy)
+
++ Lithium-ion batteries offer longer lifespans and better stability
+* Nickel-cadmium and Nickel-metal hydride batteries are less common u u
+
+When you select a battery, make sure to focus on: Type, Cell Count (5), capacity, C Rating
+
+A BLDC motor of rating 2200KV simply means
+2200 rpm per volt which means a fully charged
+~ 3x3.7 LiPO battery can make the BLDC motor
+
+rotate it at a max of 24,420 rpm.
+
+Ss | Max RPM=KV * Max Battery Voltage
+
+Lipo Battery: 3S LIPO When a propeller, ESC, battery is attached then
+
++ Propeller adds aerodynamic load
+QO Nominal Voltage of 3.7V + ESC may limit the output
+
+* Be ii der load
+
+When fully charged, each cell reaches up to 4.2V.
+Fully charged voltage = 3 x 4.2V = 12.6V
 --- page 3 ---
 direction, balance itself automatically and execute precise
 manoeuvres.
@@ -4970,6 +6191,56 @@ and   its movement and   orientation using the   Inertial
 Measurement Unit. These systems work together to know where
 the drone is relative to home.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+* A flight controller is the central processing unit of a drone that regulates
+its movement, stability, and navigation.
+
+
+* Uses gyroscope and accelerometer (IMU) to maintain yaw, pitch, and
+roll stability.
+
+* Automatically adjusts motor speeds to counteract disturbances (e.g.,
+wind).
+
+- Ensures smooth and stable flight in manual and autonomous modes.
+- Essential for hovering, takeoff, and landing precision.
+
+2. Motor Control & Throttle Management
+
+* Sends PWM signals to Electronic Speed Controllers (ESCs) to adjust motor speeds.
+* Regulates thrust distribution for different maneuvers (e.g., climbing, turning).
+* Enables precise altitude hold and directional movement.
+
++ Ensures efficient power management for better flight endurance.
+
+3. Sensor Data Processing & Fusion
+¢ Collects real-time data from IMU, GPS, barometer, and LiDAR.
+
+« Uses sensor fusion algorithms to improve flight accuracy.
++ Enhances navigation precision, even in GPS-denied environments.
+
++ Helps in collision avoidance and terrain-following applications.
+
+Navigation & GPS Ii +
+
+* Processes GPS waypoints for autonomous missions (e.g., surveying, inspections).
+
+* Assists in return-to-home (RTH) and fail-safe operations.
+
+* Enables long-range autonomous flights for mapping and monitoring tasks.
+
+* Improves flight safety by preventing loss of control.
+
+5. Communication & Telemetry Management
+
+* Exchanges real-time data with ground control stations (GCS) via telemetry
+modules.
+
+« Sends live flight parameters like altitude, speed, and battery status.
+« Allows remote monitoring and control via radio or WiFi links.
+
+« Supports mission planning and real-time adjustments for drone
 --- page 6 ---
 Once RTH is activated (manually or automatically), the drone
 Ascends   to a safe   altitude   (to avoid obstacles   like
@@ -5194,6 +6465,22 @@ drone for the desired flight time.
 6. Raspberry Pi captures multispectral images and LiDAR
 scans. OpenCV processes images in real-time for NDVI and
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+UAV structure: Type of Quadcopter . Selection of
+Maultirotorys. | [E> Malice: [> | Configuration: | [>| Selestionof | D> |” Flight
+Fixed Wing Quad X fame Controller
+Selection of Calculation of
+Sot Selection of Selection of Weight, Efficiency,
+and Digital Propellers a Speed a Motors < Power and Torque
+Battery Controllers (WEPT)
+Checker (ESC)
+. Selection of Selection of Selection of
+Selection of Camera D Range Sensor: D> GPS and
+Processor Telemetry
+
+Ultrasonic
+Sensor System
 --- page 12 ---
 plant detection. Data is stored onboard or transmitted via
 telemetry to GCS. Post-processing generates crop health
@@ -5311,6 +6598,7 @@ actual vs predicted yield
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/MBATech_AI_7051/Drone Technology/ANS_Drone Technology(702EX0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: mixed (14 pages), mean OCR confidence 93.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -5369,6 +6657,56 @@ would be nearly impossible. The inertial sensor continuously
 measures how the drone is moving and rotating in 3D space. It
 enables the drone to maintain stable flight, detect changes in
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Battery C-Rating : Determines how fast the battery can deliver power
+
++ It supplies electrical energy to all components.
+
+A
+* Most drones use LiPo (Lithium Polymer) batteries due to high power-to-
+weight ratio.
+
+—
+
+‘ Bighen capacity = longer flight time
+
+Heavier batteries give longer flight but increase total weight ‘
+
+* Must balance capacity Vs drone lift capacity e¢
+* The battery gives steady power, fast throttle reaction, and keeps voltage - S
+
+stable even in hard maneuvers.
+* If the battery is too small —> voltage drops quickly.
+
+If the battery is too heavy — drone becomes less agile, . longer flight times
+Drones typically use |
++ Lithium Polymer batteries are due to their high enérgy density, lightweight, and ability to provide high
+
+discharge rates (fast a battery can release its energy)
+
++ Lithium-ion batteries offer longer lifespans and better stability
+* Nickel-cadmium and Nickel-metal hydride batteries are less common u u
+
+When you select a battery, make sure to focus on: Type, Cell Count (5), capacity, C Rating
+
+A BLDC motor of rating 2200KV simply means
+2200 rpm per volt which means a fully charged
+~ 3x3.7 LiPO battery can make the BLDC motor
+
+rotate it at a max of 24,420 rpm.
+
+Ss | Max RPM=KV * Max Battery Voltage
+
+Lipo Battery: 3S LIPO When a propeller, ESC, battery is attached then
+
++ Propeller adds aerodynamic load
+QO Nominal Voltage of 3.7V + ESC may limit the output
+
+* Be ii der load
+
+When fully charged, each cell reaches up to 4.2V.
+Fully charged voltage = 3 x 4.2V = 12.6V
 --- page 3 ---
 direction, balance itself automatically and execute precise
 manoeuvres.
@@ -5452,6 +6790,56 @@ and   its movement and   orientation using the   Inertial
 Measurement Unit. These systems work together to know where
 the drone is relative to home.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+* A flight controller is the central processing unit of a drone that regulates
+its movement, stability, and navigation.
+
+
+* Uses gyroscope and accelerometer (IMU) to maintain yaw, pitch, and
+roll stability.
+
+* Automatically adjusts motor speeds to counteract disturbances (e.g.,
+wind).
+
+- Ensures smooth and stable flight in manual and autonomous modes.
+- Essential for hovering, takeoff, and landing precision.
+
+2. Motor Control & Throttle Management
+
+* Sends PWM signals to Electronic Speed Controllers (ESCs) to adjust motor speeds.
+* Regulates thrust distribution for different maneuvers (e.g., climbing, turning).
+* Enables precise altitude hold and directional movement.
+
++ Ensures efficient power management for better flight endurance.
+
+3. Sensor Data Processing & Fusion
+¢ Collects real-time data from IMU, GPS, barometer, and LiDAR.
+
+« Uses sensor fusion algorithms to improve flight accuracy.
++ Enhances navigation precision, even in GPS-denied environments.
+
++ Helps in collision avoidance and terrain-following applications.
+
+Navigation & GPS Ii +
+
+* Processes GPS waypoints for autonomous missions (e.g., surveying, inspections).
+
+* Assists in return-to-home (RTH) and fail-safe operations.
+
+* Enables long-range autonomous flights for mapping and monitoring tasks.
+
+* Improves flight safety by preventing loss of control.
+
+5. Communication & Telemetry Management
+
+* Exchanges real-time data with ground control stations (GCS) via telemetry
+modules.
+
+« Sends live flight parameters like altitude, speed, and battery status.
+« Allows remote monitoring and control via radio or WiFi links.
+
+« Supports mission planning and real-time adjustments for drone
 --- page 6 ---
 Once RTH is activated (manually or automatically), the drone
 Ascends   to a safe   altitude   (to avoid obstacles   like
@@ -5676,6 +7064,22 @@ drone for the desired flight time.
 6. Raspberry Pi captures multispectral images and LiDAR
 scans. OpenCV processes images in real-time for NDVI and
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+UAV structure: Type of Quadcopter . Selection of
+Maultirotorys. | [E> Malice: [> | Configuration: | [>| Selestionof | D> |” Flight
+Fixed Wing Quad X fame Controller
+Selection of Calculation of
+Sot Selection of Selection of Weight, Efficiency,
+and Digital Propellers a Speed a Motors < Power and Torque
+Battery Controllers (WEPT)
+Checker (ESC)
+. Selection of Selection of Selection of
+Selection of Camera D Range Sensor: D> GPS and
+Processor Telemetry
+
+Ultrasonic
+Sensor System
 --- page 12 ---
 plant detection. Data is stored onboard or transmitted via
 telemetry to GCS. Post-processing generates crop health
@@ -5793,6 +7197,7 @@ actual vs predicted yield
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/MBATech_Computer_7047/Drone Technology/ANS_Drone Technology(702EX0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: mixed (14 pages), mean OCR confidence 93.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -5851,6 +7256,56 @@ would be nearly impossible. The inertial sensor continuously
 measures how the drone is moving and rotating in 3D space. It
 enables the drone to maintain stable flight, detect changes in
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Battery C-Rating : Determines how fast the battery can deliver power
+
++ It supplies electrical energy to all components.
+
+A
+* Most drones use LiPo (Lithium Polymer) batteries due to high power-to-
+weight ratio.
+
+—
+
+‘ Bighen capacity = longer flight time
+
+Heavier batteries give longer flight but increase total weight ‘
+
+* Must balance capacity Vs drone lift capacity e¢
+* The battery gives steady power, fast throttle reaction, and keeps voltage - S
+
+stable even in hard maneuvers.
+* If the battery is too small —> voltage drops quickly.
+
+If the battery is too heavy — drone becomes less agile, . longer flight times
+Drones typically use |
++ Lithium Polymer batteries are due to their high enérgy density, lightweight, and ability to provide high
+
+discharge rates (fast a battery can release its energy)
+
++ Lithium-ion batteries offer longer lifespans and better stability
+* Nickel-cadmium and Nickel-metal hydride batteries are less common u u
+
+When you select a battery, make sure to focus on: Type, Cell Count (5), capacity, C Rating
+
+A BLDC motor of rating 2200KV simply means
+2200 rpm per volt which means a fully charged
+~ 3x3.7 LiPO battery can make the BLDC motor
+
+rotate it at a max of 24,420 rpm.
+
+Ss | Max RPM=KV * Max Battery Voltage
+
+Lipo Battery: 3S LIPO When a propeller, ESC, battery is attached then
+
++ Propeller adds aerodynamic load
+QO Nominal Voltage of 3.7V + ESC may limit the output
+
+* Be ii der load
+
+When fully charged, each cell reaches up to 4.2V.
+Fully charged voltage = 3 x 4.2V = 12.6V
 --- page 3 ---
 direction, balance itself automatically and execute precise
 manoeuvres.
@@ -5934,6 +7389,56 @@ and   its movement and   orientation using the   Inertial
 Measurement Unit. These systems work together to know where
 the drone is relative to home.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+* A flight controller is the central processing unit of a drone that regulates
+its movement, stability, and navigation.
+
+
+* Uses gyroscope and accelerometer (IMU) to maintain yaw, pitch, and
+roll stability.
+
+* Automatically adjusts motor speeds to counteract disturbances (e.g.,
+wind).
+
+- Ensures smooth and stable flight in manual and autonomous modes.
+- Essential for hovering, takeoff, and landing precision.
+
+2. Motor Control & Throttle Management
+
+* Sends PWM signals to Electronic Speed Controllers (ESCs) to adjust motor speeds.
+* Regulates thrust distribution for different maneuvers (e.g., climbing, turning).
+* Enables precise altitude hold and directional movement.
+
++ Ensures efficient power management for better flight endurance.
+
+3. Sensor Data Processing & Fusion
+¢ Collects real-time data from IMU, GPS, barometer, and LiDAR.
+
+« Uses sensor fusion algorithms to improve flight accuracy.
++ Enhances navigation precision, even in GPS-denied environments.
+
++ Helps in collision avoidance and terrain-following applications.
+
+Navigation & GPS Ii +
+
+* Processes GPS waypoints for autonomous missions (e.g., surveying, inspections).
+
+* Assists in return-to-home (RTH) and fail-safe operations.
+
+* Enables long-range autonomous flights for mapping and monitoring tasks.
+
+* Improves flight safety by preventing loss of control.
+
+5. Communication & Telemetry Management
+
+* Exchanges real-time data with ground control stations (GCS) via telemetry
+modules.
+
+« Sends live flight parameters like altitude, speed, and battery status.
+« Allows remote monitoring and control via radio or WiFi links.
+
+« Supports mission planning and real-time adjustments for drone
 --- page 6 ---
 Once RTH is activated (manually or automatically), the drone
 Ascends   to a safe   altitude   (to avoid obstacles   like
@@ -6158,6 +7663,22 @@ drone for the desired flight time.
 6. Raspberry Pi captures multispectral images and LiDAR
 scans. OpenCV processes images in real-time for NDVI and
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+UAV structure: Type of Quadcopter . Selection of
+Maultirotorys. | [E> Malice: [> | Configuration: | [>| Selestionof | D> |” Flight
+Fixed Wing Quad X fame Controller
+Selection of Calculation of
+Sot Selection of Selection of Weight, Efficiency,
+and Digital Propellers a Speed a Motors < Power and Torque
+Battery Controllers (WEPT)
+Checker (ESC)
+. Selection of Selection of Selection of
+Selection of Camera D Range Sensor: D> GPS and
+Processor Telemetry
+
+Ultrasonic
+Sensor System
 --- page 12 ---
 plant detection. Data is stored onboard or transmitted via
 telemetry to GCS. Post-processing generates crop health
@@ -6275,6 +7796,7 @@ actual vs predicted yield
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/MBATech_IT_7041/Drone Technology/ANS_Drone Technology(702EX0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: mixed (14 pages), mean OCR confidence 93.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -6333,6 +7855,56 @@ would be nearly impossible. The inertial sensor continuously
 measures how the drone is moving and rotating in 3D space. It
 enables the drone to maintain stable flight, detect changes in
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Battery C-Rating : Determines how fast the battery can deliver power
+
++ It supplies electrical energy to all components.
+
+A
+* Most drones use LiPo (Lithium Polymer) batteries due to high power-to-
+weight ratio.
+
+—
+
+‘ Bighen capacity = longer flight time
+
+Heavier batteries give longer flight but increase total weight ‘
+
+* Must balance capacity Vs drone lift capacity e¢
+* The battery gives steady power, fast throttle reaction, and keeps voltage - S
+
+stable even in hard maneuvers.
+* If the battery is too small —> voltage drops quickly.
+
+If the battery is too heavy — drone becomes less agile, . longer flight times
+Drones typically use |
++ Lithium Polymer batteries are due to their high enérgy density, lightweight, and ability to provide high
+
+discharge rates (fast a battery can release its energy)
+
++ Lithium-ion batteries offer longer lifespans and better stability
+* Nickel-cadmium and Nickel-metal hydride batteries are less common u u
+
+When you select a battery, make sure to focus on: Type, Cell Count (5), capacity, C Rating
+
+A BLDC motor of rating 2200KV simply means
+2200 rpm per volt which means a fully charged
+~ 3x3.7 LiPO battery can make the BLDC motor
+
+rotate it at a max of 24,420 rpm.
+
+Ss | Max RPM=KV * Max Battery Voltage
+
+Lipo Battery: 3S LIPO When a propeller, ESC, battery is attached then
+
++ Propeller adds aerodynamic load
+QO Nominal Voltage of 3.7V + ESC may limit the output
+
+* Be ii der load
+
+When fully charged, each cell reaches up to 4.2V.
+Fully charged voltage = 3 x 4.2V = 12.6V
 --- page 3 ---
 direction, balance itself automatically and execute precise
 manoeuvres.
@@ -6416,6 +7988,56 @@ and   its movement and   orientation using the   Inertial
 Measurement Unit. These systems work together to know where
 the drone is relative to home.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+* A flight controller is the central processing unit of a drone that regulates
+its movement, stability, and navigation.
+
+
+* Uses gyroscope and accelerometer (IMU) to maintain yaw, pitch, and
+roll stability.
+
+* Automatically adjusts motor speeds to counteract disturbances (e.g.,
+wind).
+
+- Ensures smooth and stable flight in manual and autonomous modes.
+- Essential for hovering, takeoff, and landing precision.
+
+2. Motor Control & Throttle Management
+
+* Sends PWM signals to Electronic Speed Controllers (ESCs) to adjust motor speeds.
+* Regulates thrust distribution for different maneuvers (e.g., climbing, turning).
+* Enables precise altitude hold and directional movement.
+
++ Ensures efficient power management for better flight endurance.
+
+3. Sensor Data Processing & Fusion
+¢ Collects real-time data from IMU, GPS, barometer, and LiDAR.
+
+« Uses sensor fusion algorithms to improve flight accuracy.
++ Enhances navigation precision, even in GPS-denied environments.
+
++ Helps in collision avoidance and terrain-following applications.
+
+Navigation & GPS Ii +
+
+* Processes GPS waypoints for autonomous missions (e.g., surveying, inspections).
+
+* Assists in return-to-home (RTH) and fail-safe operations.
+
+* Enables long-range autonomous flights for mapping and monitoring tasks.
+
+* Improves flight safety by preventing loss of control.
+
+5. Communication & Telemetry Management
+
+* Exchanges real-time data with ground control stations (GCS) via telemetry
+modules.
+
+« Sends live flight parameters like altitude, speed, and battery status.
+« Allows remote monitoring and control via radio or WiFi links.
+
+« Supports mission planning and real-time adjustments for drone
 --- page 6 ---
 Once RTH is activated (manually or automatically), the drone
 Ascends   to a safe   altitude   (to avoid obstacles   like
@@ -6640,6 +8262,22 @@ drone for the desired flight time.
 6. Raspberry Pi captures multispectral images and LiDAR
 scans. OpenCV processes images in real-time for NDVI and
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+UAV structure: Type of Quadcopter . Selection of
+Maultirotorys. | [E> Malice: [> | Configuration: | [>| Selestionof | D> |” Flight
+Fixed Wing Quad X fame Controller
+Selection of Calculation of
+Sot Selection of Selection of Weight, Efficiency,
+and Digital Propellers a Speed a Motors < Power and Torque
+Battery Controllers (WEPT)
+Checker (ESC)
+. Selection of Selection of Selection of
+Selection of Camera D Range Sensor: D> GPS and
+Processor Telemetry
+
+Ultrasonic
+Sensor System
 --- page 12 ---
 plant detection. Data is stored onboard or transmitted via
 telemetry to GCS. Post-processing generates crop health
@@ -7384,6 +9022,24 @@ BL-6   OpenCV, Raspberry Pi, and a PixHawk controller for search-and-rescue oper
 Evaluate its use in locating missing persons, mapping disaster zones, and guiding
 rescue teams.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+UAV structure: » Type of » Quadcopter » Selection of » Selection of
+
+Multirotor vs Multirotor: Configuration: Frame Flight
+Fixed Wing Quadcopter Quad X Controller
+Selection of Selection of Calculation of
+Power Source : epee 5 A A
+i Selection of Selection of Weight, Efficiency,
+and Digital a Propellers a a Motors « Power and Torque
+Battery conelien (WEPT)
+Checker (ESC)
+Optional:
+A Selection of Selection of Selection of Selection of
+Selection of » Camera Range Sensor: GPS and Additional Sensor
+Processor Ultrasonic Telemetry — Temperature and
+
+System Board Sensor System Humidity Sensor
 --- page 13 ---
 1. Define Requirements   1M
 •   Clearly define the type of UAV (e.g., quadcopter, hexacopter, or fixed-
@@ -7517,6 +9173,7 @@ performance and making adjustments as needed.
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_Computer_7032/Drone Technology/ANS_Drone Technology(702EX0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: mixed (14 pages), mean OCR confidence 93.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -7575,6 +9232,56 @@ would be nearly impossible. The inertial sensor continuously
 measures how the drone is moving and rotating in 3D space. It
 enables the drone to maintain stable flight, detect changes in
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Battery C-Rating : Determines how fast the battery can deliver power
+
++ It supplies electrical energy to all components.
+
+A
+* Most drones use LiPo (Lithium Polymer) batteries due to high power-to-
+weight ratio.
+
+—
+
+‘ Bighen capacity = longer flight time
+
+Heavier batteries give longer flight but increase total weight ‘
+
+* Must balance capacity Vs drone lift capacity e¢
+* The battery gives steady power, fast throttle reaction, and keeps voltage - S
+
+stable even in hard maneuvers.
+* If the battery is too small —> voltage drops quickly.
+
+If the battery is too heavy — drone becomes less agile, . longer flight times
+Drones typically use |
++ Lithium Polymer batteries are due to their high enérgy density, lightweight, and ability to provide high
+
+discharge rates (fast a battery can release its energy)
+
++ Lithium-ion batteries offer longer lifespans and better stability
+* Nickel-cadmium and Nickel-metal hydride batteries are less common u u
+
+When you select a battery, make sure to focus on: Type, Cell Count (5), capacity, C Rating
+
+A BLDC motor of rating 2200KV simply means
+2200 rpm per volt which means a fully charged
+~ 3x3.7 LiPO battery can make the BLDC motor
+
+rotate it at a max of 24,420 rpm.
+
+Ss | Max RPM=KV * Max Battery Voltage
+
+Lipo Battery: 3S LIPO When a propeller, ESC, battery is attached then
+
++ Propeller adds aerodynamic load
+QO Nominal Voltage of 3.7V + ESC may limit the output
+
+* Be ii der load
+
+When fully charged, each cell reaches up to 4.2V.
+Fully charged voltage = 3 x 4.2V = 12.6V
 --- page 3 ---
 direction, balance itself automatically and execute precise
 manoeuvres.
@@ -7658,6 +9365,56 @@ and   its movement and   orientation using the   Inertial
 Measurement Unit. These systems work together to know where
 the drone is relative to home.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+* A flight controller is the central processing unit of a drone that regulates
+its movement, stability, and navigation.
+
+
+* Uses gyroscope and accelerometer (IMU) to maintain yaw, pitch, and
+roll stability.
+
+* Automatically adjusts motor speeds to counteract disturbances (e.g.,
+wind).
+
+- Ensures smooth and stable flight in manual and autonomous modes.
+- Essential for hovering, takeoff, and landing precision.
+
+2. Motor Control & Throttle Management
+
+* Sends PWM signals to Electronic Speed Controllers (ESCs) to adjust motor speeds.
+* Regulates thrust distribution for different maneuvers (e.g., climbing, turning).
+* Enables precise altitude hold and directional movement.
+
++ Ensures efficient power management for better flight endurance.
+
+3. Sensor Data Processing & Fusion
+¢ Collects real-time data from IMU, GPS, barometer, and LiDAR.
+
+« Uses sensor fusion algorithms to improve flight accuracy.
++ Enhances navigation precision, even in GPS-denied environments.
+
++ Helps in collision avoidance and terrain-following applications.
+
+Navigation & GPS Ii +
+
+* Processes GPS waypoints for autonomous missions (e.g., surveying, inspections).
+
+* Assists in return-to-home (RTH) and fail-safe operations.
+
+* Enables long-range autonomous flights for mapping and monitoring tasks.
+
+* Improves flight safety by preventing loss of control.
+
+5. Communication & Telemetry Management
+
+* Exchanges real-time data with ground control stations (GCS) via telemetry
+modules.
+
+« Sends live flight parameters like altitude, speed, and battery status.
+« Allows remote monitoring and control via radio or WiFi links.
+
+« Supports mission planning and real-time adjustments for drone
 --- page 6 ---
 Once RTH is activated (manually or automatically), the drone
 Ascends   to a safe   altitude   (to avoid obstacles   like
@@ -7882,6 +9639,22 @@ drone for the desired flight time.
 6. Raspberry Pi captures multispectral images and LiDAR
 scans. OpenCV processes images in real-time for NDVI and
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+UAV structure: Type of Quadcopter . Selection of
+Maultirotorys. | [E> Malice: [> | Configuration: | [>| Selestionof | D> |” Flight
+Fixed Wing Quad X fame Controller
+Selection of Calculation of
+Sot Selection of Selection of Weight, Efficiency,
+and Digital Propellers a Speed a Motors < Power and Torque
+Battery Controllers (WEPT)
+Checker (ESC)
+. Selection of Selection of Selection of
+Selection of Camera D Range Sensor: D> GPS and
+Processor Telemetry
+
+Ultrasonic
+Sensor System
 --- page 12 ---
 plant detection. Data is stored onboard or transmitted via
 telemetry to GCS. Post-processing generates crop health
@@ -7999,6 +9772,7 @@ actual vs predicted yield
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_IT_7037/Drone Technology/ANS_Drone Technology(702EX0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: mixed (14 pages), mean OCR confidence 93.4
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -8057,6 +9831,56 @@ would be nearly impossible. The inertial sensor continuously
 measures how the drone is moving and rotating in 3D space. It
 enables the drone to maintain stable flight, detect changes in
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Battery C-Rating : Determines how fast the battery can deliver power
+
++ It supplies electrical energy to all components.
+
+A
+* Most drones use LiPo (Lithium Polymer) batteries due to high power-to-
+weight ratio.
+
+—
+
+‘ Bighen capacity = longer flight time
+
+Heavier batteries give longer flight but increase total weight ‘
+
+* Must balance capacity Vs drone lift capacity e¢
+* The battery gives steady power, fast throttle reaction, and keeps voltage - S
+
+stable even in hard maneuvers.
+* If the battery is too small —> voltage drops quickly.
+
+If the battery is too heavy — drone becomes less agile, . longer flight times
+Drones typically use |
++ Lithium Polymer batteries are due to their high enérgy density, lightweight, and ability to provide high
+
+discharge rates (fast a battery can release its energy)
+
++ Lithium-ion batteries offer longer lifespans and better stability
+* Nickel-cadmium and Nickel-metal hydride batteries are less common u u
+
+When you select a battery, make sure to focus on: Type, Cell Count (5), capacity, C Rating
+
+A BLDC motor of rating 2200KV simply means
+2200 rpm per volt which means a fully charged
+~ 3x3.7 LiPO battery can make the BLDC motor
+
+rotate it at a max of 24,420 rpm.
+
+Ss | Max RPM=KV * Max Battery Voltage
+
+Lipo Battery: 3S LIPO When a propeller, ESC, battery is attached then
+
++ Propeller adds aerodynamic load
+QO Nominal Voltage of 3.7V + ESC may limit the output
+
+* Be ii der load
+
+When fully charged, each cell reaches up to 4.2V.
+Fully charged voltage = 3 x 4.2V = 12.6V
 --- page 3 ---
 direction, balance itself automatically and execute precise
 manoeuvres.
@@ -8140,6 +9964,56 @@ and   its movement and   orientation using the   Inertial
 Measurement Unit. These systems work together to know where
 the drone is relative to home.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+* A flight controller is the central processing unit of a drone that regulates
+its movement, stability, and navigation.
+
+
+* Uses gyroscope and accelerometer (IMU) to maintain yaw, pitch, and
+roll stability.
+
+* Automatically adjusts motor speeds to counteract disturbances (e.g.,
+wind).
+
+- Ensures smooth and stable flight in manual and autonomous modes.
+- Essential for hovering, takeoff, and landing precision.
+
+2. Motor Control & Throttle Management
+
+* Sends PWM signals to Electronic Speed Controllers (ESCs) to adjust motor speeds.
+* Regulates thrust distribution for different maneuvers (e.g., climbing, turning).
+* Enables precise altitude hold and directional movement.
+
++ Ensures efficient power management for better flight endurance.
+
+3. Sensor Data Processing & Fusion
+¢ Collects real-time data from IMU, GPS, barometer, and LiDAR.
+
+« Uses sensor fusion algorithms to improve flight accuracy.
++ Enhances navigation precision, even in GPS-denied environments.
+
++ Helps in collision avoidance and terrain-following applications.
+
+Navigation & GPS Ii +
+
+* Processes GPS waypoints for autonomous missions (e.g., surveying, inspections).
+
+* Assists in return-to-home (RTH) and fail-safe operations.
+
+* Enables long-range autonomous flights for mapping and monitoring tasks.
+
+* Improves flight safety by preventing loss of control.
+
+5. Communication & Telemetry Management
+
+* Exchanges real-time data with ground control stations (GCS) via telemetry
+modules.
+
+« Sends live flight parameters like altitude, speed, and battery status.
+« Allows remote monitoring and control via radio or WiFi links.
+
+« Supports mission planning and real-time adjustments for drone
 --- page 6 ---
 Once RTH is activated (manually or automatically), the drone
 Ascends   to a safe   altitude   (to avoid obstacles   like
@@ -8364,6 +10238,22 @@ drone for the desired flight time.
 6. Raspberry Pi captures multispectral images and LiDAR
 scans. OpenCV processes images in real-time for NDVI and
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+UAV structure: Type of Quadcopter . Selection of
+Maultirotorys. | [E> Malice: [> | Configuration: | [>| Selestionof | D> |” Flight
+Fixed Wing Quad X fame Controller
+Selection of Calculation of
+Sot Selection of Selection of Weight, Efficiency,
+and Digital Propellers a Speed a Motors < Power and Torque
+Battery Controllers (WEPT)
+Checker (ESC)
+. Selection of Selection of Selection of
+Selection of Camera D Range Sensor: D> GPS and
+Processor Telemetry
+
+Ultrasonic
+Sensor System
 --- page 12 ---
 plant detection. Data is stored onboard or transmitted via
 telemetry to GCS. Post-processing generates crop health
@@ -8806,6 +10696,30 @@ A. Proportional (P)
 •   Effect on flight: Corrects deviations in roll, pitch, yaw, or altitude
 immediately.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+| Remote Transmitter
+
+2.4GHz Remote link
+
++
+
+[Receiver ater
+Power Supply
+
+Electronic
+Speed Controller
+(ESC)
+
+Signal
+
+Flight Controller Brushless
+Board Motors
+
+Mechanical
+Coupling
+
+Propellers
 --- page 8 ---
 •   High Kp: Strong immediate correction, faster response.
 • Low Kp: Drone responds sluggishly; may drift from setpoint.
@@ -9095,6 +11009,40 @@ Enable autonomous navigation and stable
 GPS + IMU Sensors
 flight.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+UAV structure: » Type of » Quadcopter » Selection of » Selection of
+
+Multirotor vs Multirotor: Configuration: Frame Flight
+Fixed Wing Quadcopter Quad X Controller
+
+gy
+
+Selection of
+
+Electronic Selection of
+
+Selection of
+Power Source
+and Digital
+Battery
+
+Calculation of
+Weight, Efficiency,
+Power and Torque
+(WEPT)
+
+Selection of
+
+Propellers Controllers Motors
+
+Checker (ESC)
+
+Optional:
+Selection of Selection of Selection of Selection of Selection of
+Camera Camera » Range Sensor: D GPS and Additional Sensor
+System Processor Ultrasonic Telemetry ~ Temperature and
+ys Board Sensor System Humidity Sensor
 --- page 14 ---
 Specialized Sensors (e.g.,
 Task-specific sensing
@@ -9193,6 +11141,7 @@ its performance and making adjustments as needed.
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_CSE_DS_7057/Drone Technology/ANS_Drone Technology(702EX0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2026
 - Text: text (13 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -9257,6 +11206,28 @@ during flight. It transmits real-time visual data to the operator,
 which is essential for surveillance, navigation, mapping, and
 inspection tasks. This allows the user to make immediate
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Types of FC
+
+* Designed for simple, manual flight.
+
+* Provide basic stabilization and command execution.
+
+* Examples: KK2.1.5, MultiWii.
+
+Intermediate Flight Controllers:
+
++ Offer more advanced features like GPS navigation, altitude hold, and return-to-home.
+“Examples: APM (ArduPilot Mega), Naza-M.
+
+Advanced Flight Controllers:
+
+OProvide comprehensive autonomous capabilities and support for complex missions.
+
+Qintegrate multiple sensors and offer advanced features like obstacle avoidance,
+waypoint navigation
+
 --- page 3 ---
 decisions based on what the drone sees, especially in
 applications like search-and-rescue or security monitoring.
@@ -9331,6 +11302,29 @@ Cellular Modules (4G/5G) uses mobile networks like 4G LTE
 and 5G. they provide extremely long range (wherever network
 coverage exists) and access to real-time cloud.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+ESC Working
+
+* Signal Reception:
+* The flight controller sends a Pulse Width Modulation (PWM), signal to the ESC, corresponding
+to the throttle input.
+* Signal Processing:
++ The ESC interprets the input signal and converts it into an AC output for brushless motors.
+* Motor Control:
+
+* The ESC switches the three-phase current using MOSFETs in synchronization to drive the
+motor efficiently.
+
++ Higher throttle input results in higher RPM, while lower input decreases RPM.
+* Feedback Mechanism:
+
+* Some advanced ESCs use Back Electromotive Force (BEMF) or Hall sensors to monitor motor
+speed and adjust the output accordingly.
+
+* Overcurrent and Temperature Protection:
+
+« ESCs have built-in thermal and current overload protection to prevent damage during flight.
 --- page 5 ---
 Video Transmission Systems (First Person View - FPV) employs
 dedicated RF systems for live video (often 5.8 GHz
@@ -9394,6 +11388,46 @@ Q4   b.   Explain KV rating of a motor and its significance. Which other   [10]
 CO-2, SO-1, BL-2   specifications are to be considered while selecting a motor for a
 drone?
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Brushless DC motors are widely used in modern drones
+because they offer high efficiency, precision, and reliability.
+Unlike brushed motors, BLIDC motors have no physical
+brushes; instead, they rely on electronic commutation using
+an Electronic Speed Controller (ESC).
+
+This design minimizes friction and wear, resulting in
+greater efficiency (around 80—90%), smoother operation,
+and a much longer lifespan.
+
+Their high torque-to-weight ratio allows rapid acceleration
+and stable hovering, which are essential for flight control.
+BLIDC motors also generate less heat and require very little
+maintenance, making them ideal for contimuous, high-
+speed drone applications.
+
+Higher KV motors have fewer windings of thinner wire, which allows them to spin faster
+
+DC Motors for Drones
+
+*Motors are responsible for converting electrical energy from the
+drone's battery into mechanical power, which drives the propellers
+to produce thrust.
+
+Key Characteristics of DC Motors for Drones 7 e
+1. KV Rating: -
+
+“Indicates the motor’s RPM (revolutions per minute) per volt
+applied.
+
+OA higher KV rating means higher speed but lower torque, suitable
+for lightweight, high-speed drones.
+
+oA means lower speed but higher torque, suitable
+
+for carrying heavier payloads. {iore Rem per volt (faster spinning)
+Less copper winding turns inside motor > less magnetic field
+strength > less torque
 --- page 7 ---
 Q5   a.   Explain the use of Newton’s law in Drone Flight.   [05]
 CO-1, SO-1, BL-2   Drone flight works according to Newton’s laws, which explain
@@ -9415,6 +11449,30 @@ fast the drone rotates) and provides very fast and smooth
 orientation changes. It is Crucial for real-time stabilization.
 Limitation: Suffers from drift over time.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+DC Motors for Drones
+
+The force produced by the motor, which should be sufficient to lift the
+
+drone and its payload.
+3. Voltage (V):
+
+* The operating voltage range, typically matching the battery voltage.
+
+* The current draw, affecting the power consumption and flight time.
+
+DC Motors for Drones
+5.Weight:
+
+*The motor's weight, which affects the overall weight and
+performance of the drone.
+
+6.Propeller Compatibility:
+
+* The motor must be compatible with the propellers you plan to use
+
+in terms of size and mounting.
 --- page 8 ---
 Accelerometer (measures linear motion) detects acceleration
 along X, Y, Z axes and helps determine tilt (pitch & roll) using
@@ -9455,6 +11513,71 @@ Proportional-Integral (PI) controller improves accuracy by
 eliminating steady-state error due to the integral action, which
 makes it useful for tasks like altitude control; however, it results
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Transmitter —Receiver Block Diagram
+
+The flight controller acts as the brain of
+
+teers
+information from the receiver and
+
+various onboard sensors.
+[Receiver] sv Battery
+| Power Supply
+Electronic uw
+| c Flow:
+esc) 1. Pilot input > Remote Transmitter >
+
+Signal
+
+Flight Controller
+Board
+
+Receiver
+2. Receiver > Flight Controller Board
+3. Flight Controller > ESC
+4. ESC > Brushless Motors > Propellers
+5. Battery Power Supply > ESC & Motors
+
+1. Remote Transmitter
+Function: Handheld controller used by the pilot.
+Sends: Control signals (like throttle, pitch, roll, yaw) via 2.4GHz RF link.
+
+2. Receiver
+Receives: 2.4GHz signal from the remote transmitter.
+Outputs: Control signal > Flight Controller Board Also provides 5V to ESC and Flight Controller
+
+3. Flight Controller Board
+Brain of the drone.
+Inputs:
+Signal from Receiver (user commands).
+Sensor data (gyroscope, accelerometer, GPS, barometer, etc.).
+Processes:
+Calculates how fast each motor should spin to maintain stability and follow
+commands.
+Outputs:
+Signal to ESC to adjust motor speeds accordingly.
+
+4. Electronic Speed Controller (ESC)
+Inputs:
++ 11.1V from the Battery Power Supply.
+. Control signals from the Flight Controller.
+Function:
+* Converts control signals into high-frequency voltage for brushless motors.
++ Regulates motor speed based on flight controller input.
+
+5. Brushless Motors
+Inputs:
+Power from ESC.
+Outputs:
+Rotational motion -> spins the Propellers.
+
+6. Propellers
+
+Function:
++ Generate lift and thrust based on motor speed.
++ Enables the drone to fly, hover, and maneuver.
 --- page 10 ---
 in slower response, increased overshoot, and longer settling
 time.
@@ -9483,6 +11606,23 @@ framework
 Block diagram of the drone and the signal flow between its
 components
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+UAV structure: » Type of » Quadcopter » Selection of » Selection of
+
+Multirotor vs Multirotor: Configuration: Fi Flight
+Fixed Wing Quadcopter Quad X fame Controller
+Selection of i
+Calculation of
+Power puree Selection of Selection of @ Weight, Efficiency,
+re Propellers Motors Power and Torque
+Battery (WEPT)
+Checker
+. Selection of Selection of
+Selection of [2 | Range Ses: | pp, | PSand
+amera Processor Telemetry
+
+System
 --- page 11 ---
 Define Requirements: 1M
 Clearly define the requirements for your autonomous navigation
@@ -9613,6 +11753,7 @@ hazards early   of dangerous areas
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_CS_7055/Drone Technology/ANS_Drone Technology(702EX0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2026
 - Text: text (13 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -9677,6 +11818,28 @@ during flight. It transmits real-time visual data to the operator,
 which is essential for surveillance, navigation, mapping, and
 inspection tasks. This allows the user to make immediate
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Types of FC
+
+* Designed for simple, manual flight.
+
+* Provide basic stabilization and command execution.
+
+* Examples: KK2.1.5, MultiWii.
+
+Intermediate Flight Controllers:
+
++ Offer more advanced features like GPS navigation, altitude hold, and return-to-home.
+“Examples: APM (ArduPilot Mega), Naza-M.
+
+Advanced Flight Controllers:
+
+OProvide comprehensive autonomous capabilities and support for complex missions.
+
+Qintegrate multiple sensors and offer advanced features like obstacle avoidance,
+waypoint navigation
+
 --- page 3 ---
 decisions based on what the drone sees, especially in
 applications like search-and-rescue or security monitoring.
@@ -9751,6 +11914,29 @@ Cellular Modules (4G/5G) uses mobile networks like 4G LTE
 and 5G. they provide extremely long range (wherever network
 coverage exists) and access to real-time cloud.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+ESC Working
+
+* Signal Reception:
+* The flight controller sends a Pulse Width Modulation (PWM), signal to the ESC, corresponding
+to the throttle input.
+* Signal Processing:
++ The ESC interprets the input signal and converts it into an AC output for brushless motors.
+* Motor Control:
+
+* The ESC switches the three-phase current using MOSFETs in synchronization to drive the
+motor efficiently.
+
++ Higher throttle input results in higher RPM, while lower input decreases RPM.
+* Feedback Mechanism:
+
+* Some advanced ESCs use Back Electromotive Force (BEMF) or Hall sensors to monitor motor
+speed and adjust the output accordingly.
+
+* Overcurrent and Temperature Protection:
+
+« ESCs have built-in thermal and current overload protection to prevent damage during flight.
 --- page 5 ---
 Video Transmission Systems (First Person View - FPV) employs
 dedicated RF systems for live video (often 5.8 GHz
@@ -9814,6 +12000,46 @@ Q4   b.   Explain KV rating of a motor and its significance. Which other   [10]
 CO-2, SO-1, BL-2   specifications are to be considered while selecting a motor for a
 drone?
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Brushless DC motors are widely used in modern drones
+because they offer high efficiency, precision, and reliability.
+Unlike brushed motors, BLIDC motors have no physical
+brushes; instead, they rely on electronic commutation using
+an Electronic Speed Controller (ESC).
+
+This design minimizes friction and wear, resulting in
+greater efficiency (around 80—90%), smoother operation,
+and a much longer lifespan.
+
+Their high torque-to-weight ratio allows rapid acceleration
+and stable hovering, which are essential for flight control.
+BLIDC motors also generate less heat and require very little
+maintenance, making them ideal for contimuous, high-
+speed drone applications.
+
+Higher KV motors have fewer windings of thinner wire, which allows them to spin faster
+
+DC Motors for Drones
+
+*Motors are responsible for converting electrical energy from the
+drone's battery into mechanical power, which drives the propellers
+to produce thrust.
+
+Key Characteristics of DC Motors for Drones 7 e
+1. KV Rating: -
+
+“Indicates the motor’s RPM (revolutions per minute) per volt
+applied.
+
+OA higher KV rating means higher speed but lower torque, suitable
+for lightweight, high-speed drones.
+
+oA means lower speed but higher torque, suitable
+
+for carrying heavier payloads. {iore Rem per volt (faster spinning)
+Less copper winding turns inside motor > less magnetic field
+strength > less torque
 --- page 7 ---
 Q5   a.   Explain the use of Newton’s law in Drone Flight.   [05]
 CO-1, SO-1, BL-2   Drone flight works according to Newton’s laws, which explain
@@ -9835,6 +12061,30 @@ fast the drone rotates) and provides very fast and smooth
 orientation changes. It is Crucial for real-time stabilization.
 Limitation: Suffers from drift over time.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+DC Motors for Drones
+
+The force produced by the motor, which should be sufficient to lift the
+
+drone and its payload.
+3. Voltage (V):
+
+* The operating voltage range, typically matching the battery voltage.
+
+* The current draw, affecting the power consumption and flight time.
+
+DC Motors for Drones
+5.Weight:
+
+*The motor's weight, which affects the overall weight and
+performance of the drone.
+
+6.Propeller Compatibility:
+
+* The motor must be compatible with the propellers you plan to use
+
+in terms of size and mounting.
 --- page 8 ---
 Accelerometer (measures linear motion) detects acceleration
 along X, Y, Z axes and helps determine tilt (pitch & roll) using
@@ -9875,6 +12125,71 @@ Proportional-Integral (PI) controller improves accuracy by
 eliminating steady-state error due to the integral action, which
 makes it useful for tasks like altitude control; however, it results
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Transmitter —Receiver Block Diagram
+
+The flight controller acts as the brain of
+
+teers
+information from the receiver and
+
+various onboard sensors.
+[Receiver] sv Battery
+| Power Supply
+Electronic uw
+| c Flow:
+esc) 1. Pilot input > Remote Transmitter >
+
+Signal
+
+Flight Controller
+Board
+
+Receiver
+2. Receiver > Flight Controller Board
+3. Flight Controller > ESC
+4. ESC > Brushless Motors > Propellers
+5. Battery Power Supply > ESC & Motors
+
+1. Remote Transmitter
+Function: Handheld controller used by the pilot.
+Sends: Control signals (like throttle, pitch, roll, yaw) via 2.4GHz RF link.
+
+2. Receiver
+Receives: 2.4GHz signal from the remote transmitter.
+Outputs: Control signal > Flight Controller Board Also provides 5V to ESC and Flight Controller
+
+3. Flight Controller Board
+Brain of the drone.
+Inputs:
+Signal from Receiver (user commands).
+Sensor data (gyroscope, accelerometer, GPS, barometer, etc.).
+Processes:
+Calculates how fast each motor should spin to maintain stability and follow
+commands.
+Outputs:
+Signal to ESC to adjust motor speeds accordingly.
+
+4. Electronic Speed Controller (ESC)
+Inputs:
++ 11.1V from the Battery Power Supply.
+. Control signals from the Flight Controller.
+Function:
+* Converts control signals into high-frequency voltage for brushless motors.
++ Regulates motor speed based on flight controller input.
+
+5. Brushless Motors
+Inputs:
+Power from ESC.
+Outputs:
+Rotational motion -> spins the Propellers.
+
+6. Propellers
+
+Function:
++ Generate lift and thrust based on motor speed.
++ Enables the drone to fly, hover, and maneuver.
 --- page 10 ---
 in slower response, increased overshoot, and longer settling
 time.
@@ -9903,6 +12218,23 @@ framework
 Block diagram of the drone and the signal flow between its
 components
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+UAV structure: » Type of » Quadcopter » Selection of » Selection of
+
+Multirotor vs Multirotor: Configuration: Fi Flight
+Fixed Wing Quadcopter Quad X fame Controller
+Selection of i
+Calculation of
+Power puree Selection of Selection of @ Weight, Efficiency,
+re Propellers Motors Power and Torque
+Battery (WEPT)
+Checker
+. Selection of Selection of
+Selection of [2 | Range Ses: | pp, | PSand
+amera Processor Telemetry
+
+System
 --- page 11 ---
 Define Requirements: 1M
 Clearly define the requirements for your autonomous navigation
@@ -10033,6 +12365,7 @@ hazards early   of dangerous areas
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_CyberSecurity_7010/Drone Technology/ANS_Drone Technology(702EX0I002)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2026
 - Text: text (13 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -10097,6 +12430,28 @@ during flight. It transmits real-time visual data to the operator,
 which is essential for surveillance, navigation, mapping, and
 inspection tasks. This allows the user to make immediate
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Types of FC
+
+* Designed for simple, manual flight.
+
+* Provide basic stabilization and command execution.
+
+* Examples: KK2.1.5, MultiWii.
+
+Intermediate Flight Controllers:
+
++ Offer more advanced features like GPS navigation, altitude hold, and return-to-home.
+“Examples: APM (ArduPilot Mega), Naza-M.
+
+Advanced Flight Controllers:
+
+OProvide comprehensive autonomous capabilities and support for complex missions.
+
+Qintegrate multiple sensors and offer advanced features like obstacle avoidance,
+waypoint navigation
+
 --- page 3 ---
 decisions based on what the drone sees, especially in
 applications like search-and-rescue or security monitoring.
@@ -10171,6 +12526,29 @@ Cellular Modules (4G/5G) uses mobile networks like 4G LTE
 and 5G. they provide extremely long range (wherever network
 coverage exists) and access to real-time cloud.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+ESC Working
+
+* Signal Reception:
+* The flight controller sends a Pulse Width Modulation (PWM), signal to the ESC, corresponding
+to the throttle input.
+* Signal Processing:
++ The ESC interprets the input signal and converts it into an AC output for brushless motors.
+* Motor Control:
+
+* The ESC switches the three-phase current using MOSFETs in synchronization to drive the
+motor efficiently.
+
++ Higher throttle input results in higher RPM, while lower input decreases RPM.
+* Feedback Mechanism:
+
+* Some advanced ESCs use Back Electromotive Force (BEMF) or Hall sensors to monitor motor
+speed and adjust the output accordingly.
+
+* Overcurrent and Temperature Protection:
+
+« ESCs have built-in thermal and current overload protection to prevent damage during flight.
 --- page 5 ---
 Video Transmission Systems (First Person View - FPV) employs
 dedicated RF systems for live video (often 5.8 GHz
@@ -10234,6 +12612,46 @@ Q4   b.   Explain KV rating of a motor and its significance. Which other   [10]
 CO-2, SO-1, BL-2   specifications are to be considered while selecting a motor for a
 drone?
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Brushless DC motors are widely used in modern drones
+because they offer high efficiency, precision, and reliability.
+Unlike brushed motors, BLIDC motors have no physical
+brushes; instead, they rely on electronic commutation using
+an Electronic Speed Controller (ESC).
+
+This design minimizes friction and wear, resulting in
+greater efficiency (around 80—90%), smoother operation,
+and a much longer lifespan.
+
+Their high torque-to-weight ratio allows rapid acceleration
+and stable hovering, which are essential for flight control.
+BLIDC motors also generate less heat and require very little
+maintenance, making them ideal for contimuous, high-
+speed drone applications.
+
+Higher KV motors have fewer windings of thinner wire, which allows them to spin faster
+
+DC Motors for Drones
+
+*Motors are responsible for converting electrical energy from the
+drone's battery into mechanical power, which drives the propellers
+to produce thrust.
+
+Key Characteristics of DC Motors for Drones 7 e
+1. KV Rating: -
+
+“Indicates the motor’s RPM (revolutions per minute) per volt
+applied.
+
+OA higher KV rating means higher speed but lower torque, suitable
+for lightweight, high-speed drones.
+
+oA means lower speed but higher torque, suitable
+
+for carrying heavier payloads. {iore Rem per volt (faster spinning)
+Less copper winding turns inside motor > less magnetic field
+strength > less torque
 --- page 7 ---
 Q5   a.   Explain the use of Newton’s law in Drone Flight.   [05]
 CO-1, SO-1, BL-2   Drone flight works according to Newton’s laws, which explain
@@ -10255,6 +12673,30 @@ fast the drone rotates) and provides very fast and smooth
 orientation changes. It is Crucial for real-time stabilization.
 Limitation: Suffers from drift over time.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+DC Motors for Drones
+
+The force produced by the motor, which should be sufficient to lift the
+
+drone and its payload.
+3. Voltage (V):
+
+* The operating voltage range, typically matching the battery voltage.
+
+* The current draw, affecting the power consumption and flight time.
+
+DC Motors for Drones
+5.Weight:
+
+*The motor's weight, which affects the overall weight and
+performance of the drone.
+
+6.Propeller Compatibility:
+
+* The motor must be compatible with the propellers you plan to use
+
+in terms of size and mounting.
 --- page 8 ---
 Accelerometer (measures linear motion) detects acceleration
 along X, Y, Z axes and helps determine tilt (pitch & roll) using
@@ -10295,6 +12737,71 @@ Proportional-Integral (PI) controller improves accuracy by
 eliminating steady-state error due to the integral action, which
 makes it useful for tasks like altitude control; however, it results
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Transmitter —Receiver Block Diagram
+
+The flight controller acts as the brain of
+
+teers
+information from the receiver and
+
+various onboard sensors.
+[Receiver] sv Battery
+| Power Supply
+Electronic uw
+| c Flow:
+esc) 1. Pilot input > Remote Transmitter >
+
+Signal
+
+Flight Controller
+Board
+
+Receiver
+2. Receiver > Flight Controller Board
+3. Flight Controller > ESC
+4. ESC > Brushless Motors > Propellers
+5. Battery Power Supply > ESC & Motors
+
+1. Remote Transmitter
+Function: Handheld controller used by the pilot.
+Sends: Control signals (like throttle, pitch, roll, yaw) via 2.4GHz RF link.
+
+2. Receiver
+Receives: 2.4GHz signal from the remote transmitter.
+Outputs: Control signal > Flight Controller Board Also provides 5V to ESC and Flight Controller
+
+3. Flight Controller Board
+Brain of the drone.
+Inputs:
+Signal from Receiver (user commands).
+Sensor data (gyroscope, accelerometer, GPS, barometer, etc.).
+Processes:
+Calculates how fast each motor should spin to maintain stability and follow
+commands.
+Outputs:
+Signal to ESC to adjust motor speeds accordingly.
+
+4. Electronic Speed Controller (ESC)
+Inputs:
++ 11.1V from the Battery Power Supply.
+. Control signals from the Flight Controller.
+Function:
+* Converts control signals into high-frequency voltage for brushless motors.
++ Regulates motor speed based on flight controller input.
+
+5. Brushless Motors
+Inputs:
+Power from ESC.
+Outputs:
+Rotational motion -> spins the Propellers.
+
+6. Propellers
+
+Function:
++ Generate lift and thrust based on motor speed.
++ Enables the drone to fly, hover, and maneuver.
 --- page 10 ---
 in slower response, increased overshoot, and longer settling
 time.
@@ -10323,6 +12830,23 @@ framework
 Block diagram of the drone and the signal flow between its
 components
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+UAV structure: » Type of » Quadcopter » Selection of » Selection of
+
+Multirotor vs Multirotor: Configuration: Fi Flight
+Fixed Wing Quadcopter Quad X fame Controller
+Selection of i
+Calculation of
+Power puree Selection of Selection of @ Weight, Efficiency,
+re Propellers Motors Power and Torque
+Battery (WEPT)
+Checker
+. Selection of Selection of
+Selection of [2 | Range Ses: | pp, | PSand
+amera Processor Telemetry
+
+System
 --- page 11 ---
 Define Requirements: 1M
 Clearly define the requirements for your autonomous navigation

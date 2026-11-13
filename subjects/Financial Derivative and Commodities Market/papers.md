@@ -44,6 +44,40 @@ B. Discuss the key aspects of convergence and basis in financial markets.   7
 A.   8
 B. Describe the various types of settlements applicable to futures and options contracts.   7
 Page 2 of 2
+
+[Text in pictures on this page, read by OCR]
+Stock: Orange Ltd.
+
+Contract Month: March 2025 Futures
+
+Futures Price on Day 1 (Initial Price): Rs. 6375
+Lot Size: 200 shares
+
+Margins:
+
+SPAN Margin = 18% of Contract Value
+Exposure Margin = 2% of Contract Value
+
+Closing Futures Prices for the Next 5 Days:
+
+Day Closing Price (Rs.)
+
+1 6390
+2 6360
+3 6495
+4 6410
+5 6395
+Task:
+
+An investor takes a short position at Rs. 6375 on Day 1. Calculate:
+1. Daily Mark-to-Market (MTM) Margin
+2. Closing Balance in Margin Account
+3. Net Profit/Loss at the end of Day 5
+
+Assumptions:
+
+« Trader does not withdraw profits from the margin account.
+e Contract Value = Futures Price « Lot Size
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · paper 60f993187314
@@ -76,6 +110,24 @@ B. Explain forward contract and its features.   7
 2.   Attempt the following   15
 A.   8
 Page 1 of 2
+
+[Text in pictures on this page, read by OCR]
+A Rice Trader has planned to sell 22000 kg of Rice after 3 months from now. The spot
+price of Rice is = 60 per kg, andthe 3-month Future on the same is trading at = 59 per kg.
+The size of the contractis 1000 kg. The price is expected to fall as low as 2 56 per kg, 3
+
+months hence.
+
+Required:
+
+(i) to interpret the position of a trader in the Cash Market.
+
+(ii) to advise the trader the trader should take in Future Market to mitigate its risk of
+reduced profit.
+
+(iii) to demonstrate the effective realized price for its sale ifhe decides to make use of the
+future market, and after 3 months, the spot price is $57 per kg, and the future contract
+price for closing the contract is 758 per kg
 --- page 2 ---
 B. Describe the key terminologies related to options contracts.   7
 3.   Attempt the following   15
@@ -85,4 +137,26 @@ B. Explain the concept of Option Greeks and describe their effect on option pric
 A.   8
 B. Illustrate the different types of risks encountered in derivatives trading.   7
 Page 2 of 2
+
+[Text in pictures on this page, read by OCR]
+SMART Investments have a following investment portfolio:
+
+Share Es. Beta
+Bajaj Finance 65,00,000 1.69
+Tata Motors 45,00,000 1.72
+Adani Ent. 75,00,000 2
+Adani Power 65,00,000 2.83
+2,50,00,000
+
+Nifty Index Futures are trading at Rs.25,500 and having a lot size of 75.
+
+1. Find out the weighted Beta of the portfolio.
+
+2. How many contracts of Index Futures to be sold to hedge the portfolio?
+
+3. Incase the company is bullish about the market and wants their portfolio to increase
+3.5 times of the market increase. How many contracts it should buy?
+
+4. Incase the company wants to reduce the portfolio beta to 1.5, how many Nifty
+Futures contracts it should sell?
 ````

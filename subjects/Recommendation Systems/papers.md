@@ -52,6 +52,14 @@ BL-4   the content of articles they have previously read. Analyze how a
 content-based recommendation system can be developed for
 personalized news delivery, focusing on feature representation,
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+in) 12 I3 15 16 17
+ul 0 5 4 4 Oo 5
+U2 5 3 4 4 2 2
+U3 4 ie} 3 4 ie) ie}
+U4 3 2 Oo ie} 3 ie)
+US 3 4 3 3 Oo 4
 --- page 2 ---
 user profiling, similarity computation, and adaptation to changing
 user interests.
@@ -117,6 +125,38 @@ user’s actual ratings and the predicted ranking.
 (b) Calculate the Kendall rank correlation coefficient, and interpret
 which metric better reflects the ranking quality in this case.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+R=PxQ
+
+Rating Matrix
+Items
+Ti Rn 13 14
+U1 | 2.0 | 3.0 | 3.5 ?
+U2 ? 4.0 ? 2.5
+U3 | 3.0 ? ? 1.5
+U4 2? 2.5 | 4.0 ?
+
+User Matrix P
+
+1.0 0.8
+1.2 0.6
+0.9 0.7
+1.1 0.5
+
+x
+
+Item Matrix Q
+
+14 10 08 0.6
+0.6 1.2 1.1 1.3
+
+i 12 13 14 15 16
+Ul 5 4 0 2 3 )
+u2 4 5 3 4 3 2
+u3 5 4 4 5 4 3
+u4 3 3 2 3 3 1
+U5 4 5 4 4 4 2
 --- page 4 ---
 CO-3   b.   Assume two recommender systems: one uses only global average [6]
 BL-4   ratings, and the other incorporates user and item biases. Analyze
@@ -185,6 +225,13 @@ CO-2   b. Analyze the impact of different feature extraction techniques (e.g., [
 BL-4   BoW vs TF-IDF vs Word Embeddings) on the quality of item
 similarity computations.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Hh] 12 13 14 15 16
+Ul 4 te) 3 5 4 (e)
+U2 5 3 4 te) (e) 2
+U3 te) 4 3 4 5 3
+U4 5 5 te) 3 4 te)
 --- page 2 ---
 Q3   [20]
 CO-1   a.   List and explain advantages and limitations of neighborhood-based [7]
@@ -245,6 +292,16 @@ BL-4   compared to non-contextual methods.
 CO-3   c. Analyze how contextual information can reduce the cold-start   [4]
 BL-4   problem in recommender systems.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Movies True Rating | Predicted Rating
+
+Avatar 4.0 3.5
+Titanic 5.0 4.6
+The Martian 3.0 3.8
+Gravity 2.0 2.5
+
+Interstellar 5.0 47
 ````
 
 ## 2025-26 · Re-Exam · Sem 7 · paper d6befa5e4811

@@ -3858,7 +3858,8 @@ A
 - Programmes: B TECH / ARTIFICIAL INTELLIGENCE
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/ARTIFICIAL INTELLIGENCE/SEM-IV/OPTIMIZATION TECHNIQUES/Optimization Techniques, Sem-IV, Re-Exam, Year 2021-22.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 June 2022
-- Text: ocr (14 pages), mean OCR confidence 82.6
+- Text: ocr (14 pages), mean OCR confidence 85.4
+- 1 page scanned sideways or upside down, turned upright before OCR
 - 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
@@ -4427,9 +4428,24 @@ ied 1.7) 4854/4564 4573 456245814599 4608418625
 18 | 4641 4642 «4656 4GG4 4671 B78 SBS 4B 4GQD «7B
 19 | 4713 4719472647327 38 | A744 4780 | A7BG | ATE1. A767
 --- page 14 ---
-g\ 3 z 2 m =
-5 | 3 E a a S
-Qo} = 5 (co) a a
-ay = fe) Oo} @ 0)
-ol. * _ ~
+Given Numbers Calculations
+
+Hot Warm Cold 5 Re «4. | Hurwicz | Hot |Warm| Cold Max Expected Expected
+Pinsetete Dptimista /ressiitiskic (a= )|Regret|Regret} Regret | Regret Value Regret
+
+Weather | Weather| Weather
+
+Widget
+
+Flugel
+
+Gadget
+
+Nimnot
+
+Probability
+
+Best-Case
+
+an I
 ````

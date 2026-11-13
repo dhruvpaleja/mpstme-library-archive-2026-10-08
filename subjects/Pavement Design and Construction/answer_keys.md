@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Civil_7005/Pavement Design and Construction/ANS_Pavement Design and Construction(702CI0E009)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 May 2026
 - Text: text (4 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -73,6 +74,26 @@ Q.3)   b)   Discuss the Construction procedure of ‘Mettled Roads for Rural Are
 CO- 4;   Construction Procedure along with material specification for quality control is   [08+02
 L-2   to be explained.   ]
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Radius of circular area, a, is given by
+
+Tyre pressure _ Wheel Jeed
+Ta’
+Therefore, 0.5 x 10° = Aue
+Therefore, a= 16.92cm, say 17cm
+Select a thickness of pavement of 2a, i.e. 34cm
+Ey _ 160 _
+E, eo ag
+4 E, F
+From Fig. 1 for | a 4, and pavement thickness of 2a
+2
+F,, = 0.50
+A=F, = = 0!
+wo —E yer 0.00159 m
+= 0.159 cm.
+
+Allowable settlement is 0.5 cm. Hence design is safe.
 --- page 3 ---
 Q.4)   a)   Explain Canadian Department of Transportation (CDoT) method for
 CO- 2;   flexible airfield pavement.
@@ -106,6 +127,22 @@ Marks)
 (02
 Marks)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+A tractor dozer, popularly called bull-dozer, is a tractor with a 3—3.5 m long, 0.9—1.2 m
+high blade mounted in front of it. If the blade of the equipment is set at an angle, it is called
+an angle dozer. The blade of some dozers can be tilted in the vertical plane to a tilt of about 1
+in 10. The equipment is very versatile and can perform the following operations :
+
+1. Clearing and grubbing land of vegetation and tree stumps.
+
+2. Removing top soil from borrow areas.
+
+3, Opening up pilot road formations in steep hill sides to such a width that other
+equipment can move in and complete the work.
+
+4. Moving earth for short distances, say upto 100 m.
+5. Box-cutting a formation for laying pavement layers.
 --- page 4 ---
 (01
 Marks

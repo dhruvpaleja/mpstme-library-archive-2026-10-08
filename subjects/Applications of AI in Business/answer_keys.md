@@ -85,6 +85,65 @@ a. 1 mark for each well explained point.   5
 AI analyzes historical sales data, seasonal trends, and market conditions. It predicts future
 demand more accurately than manual methods.
 Page 3 of 6
+
+[Text in pictures on this page, read by OCR]
+How NLP Helps
+
+Understanding Customer Queries: NLP interprets user input (text/voice) — enables
+accurate and quick responses.
+
+24/7 Instant Support: Chatbots respond anytime — improves customer satisfaction
+and engagement.
+
+Personalization: NLP analyzes past interactions — delivers customized replies and
+recommendations.
+
+Multilingual Support: Can handle multiple languages — helps reach diverse
+customers.
+
+Intent Recognition: Identifies what the customer wants — supports faster issue
+resolution and better decision making.
+
+Challenges
+
+Misinterpretation of Queries: Complex or unclear language may confuse the bot —
+leads to wrong responses.
+
+Limited Context Understanding: Struggles with long or emotional conversations —
+affects customer experience.
+
+Training Data Requirement: Needs large, high-quality data — poor data causes
+ineffective performance.
+
+Handling Edge Cases: Unusual queries may not be answered — requires human
+intervention.
+
+Privacy Concerns: Uses customer data — raises security and ethical issues.
+
+Thinking Humanly Thinking Rationally
+
+“The exciting new effort to make comput- “The study of mental faculties through the
+ers think ... machines with minds, in the use of computational models.”
+
+full and literal sense.” (Haugeland, 1985) (Charmiak and McDermott, 1985)
+
+“(The automation of] activities that we “The study of the computations that make
+associate with human thinking, activities it possible to perceive, reason, and act.”
+such as decision-making, problem solv- (Winston, 1992)
+
+ing, learning ...” (Bellman, 1978)
+
+Acting Humanly Acting Rationally
+
+“The art of creating machines that per- “Computational Intelligence is the study
+form functions that require intelligence of the design of intelligent agents.” (Poole
+when performed by people.” (Kurzweil, | eral, 1998)
+
+1990)
+
+“The study of how to make computers do | “AI ...is concerned with intelligent be-
+things at which, at the moment, people are havior in artifacts.” (Nilsson, 1998)
+better.” (Rich and Knight, 1991)
 --- page 4 ---
 2. Revenue forecasting
 AI forecasts sales revenue using customer pipelines and deal probability models. It evaluates

@@ -32,6 +32,31 @@ Instructions:
 A.   5
 B.   5
 Page 1 of 3
+
+[Text in pictures on this page, read by OCR]
+Metro Aluminium Ltd. 1s engaged in the manufacture of aluminium sheets. During the rolling
+and cutting process, a certain percentage of aluminium is lost due to trimming, evaporation
+and handling losses. Based on past technical data, the company estimates a normal wastage of
+5% of input.
+During the financial year 2023-24:
+
+e« The company used 16,000 MT of raw material costing = 200 per MT.
+
+e At the end of the year, the stores department reported total wastage of 1,050 MT.
+
+e The management wants to know whether the excess wastage represents inefficiency
+
+and how it should be treated in the books.
+
+Required:
+1. Explain, in the context of AS—2 (Valuation of Inventories), the accounting treatment
+of Abnormal Loss
+2. Compute the quantity of:
+(a) Normal Loss
+
+(b) Abnormal Loss, if any.
+3. Calculate the amount of abnormal loss and state how it should be treated in the
+financial statements.
 --- page 2 ---
 2.
 

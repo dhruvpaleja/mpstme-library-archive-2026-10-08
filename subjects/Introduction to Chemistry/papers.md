@@ -399,6 +399,47 @@ Bi=209, Br=80, C=12, Ca=40, Ce=140, Cl=35.5, Cr=52, Cs= 132.9, Cu=63.5, Fe=55.9,
 He=4, K=39, Kr=84, Mg=24, Mn=55, N=14, Na=23, Ne=20.2, Ni=58.7, O=16, Os=190, P=31, S=32,
 Sc=44.9, Se=79, Si=28, Zn=65.4, Zr=91.2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Ql. Answer the following:
+
+CO-3; SO-1; a Show the line notation for a voltaic cell with Magnesium anode, and Silver | (7)
+
+BL-2 cathode. Write the reactions occurring at the anode, cathode, and the
+overall reaction occurring in the cell.
+
+CO-1; SO-1; b. Briefly write about all the postulates of the Bohr’s model of atom. (7)
+
+BL-1
+
+CO-2; SO-1; c. What are the characteristics of covalent compounds? Give four examples | (6)
+
+BL-1 of covalent compounds.
+
+Q2.
+
+CO-4; SO-1; a An MgBn solution is prepared by dissolving 36 g of MgBr in 500 mL of | (7)
+
+BL-3 the solution. Show your calculations to find the molarity of the solution.
+
+CO-2; SO-1; b. Explain briefly the basic organic substitution reactions. Give three | (7)
+
+BL-5 examples showing the reactions.
+
+CO-3; SO-1; c. Discuss the applications of NMR spectroscopy. (6)
+
+BL-6
+
+CO-2: SO-1: a Compare the products of reduction reaction of aldehydes and ketones. Give | (7)
+
+BL-4 suitable examples and reactions.
+
+CO-2; SO-1; b. Applying the concept of e-waste, briefly write about the health effects of | (7)
+BL-3 any seven hazardous substances found in e-waste.
+
+CO-3; SO-1; c. Discuss the stretching vibrations, with a suitable diagram. (6)
+
+BL-4
 --- page 2 ---
 Q4.
 
@@ -472,6 +513,36 @@ Bi=209, Br=80, C=12, Ca=40, Ce=140, Cl=35.5, Cr=52, Cs= 132.9, Cu=63.5, Fe=55.9,
 He=4, K=39, Kr=84, Mg=24, Mn=55, N=14, Na=23, Ne=20.2, Ni=58.7, O=16, Os=190, P=31, S=32,
 Sc=44.9, Se=79, Si=28, Zn=65.4, Zr=91.2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Ql. Answer the following:
+CO-3; SO-1; a. Consider the following voltaic cell: Mg | Mg?*||Cr*|Cr. Name the anode | (7)
+BL-2 and the cathode, and write the reactions occurring at the anode, cathode, and
+the overall reaction occurring in the cell.
+CO-1; SO-1; b. White briefly about the Hund’s rule of maximum multiplicity. Show with two | (7)
+BL-1 examples how the electron filling occurs upon approaching degenerate
+orbitals.
+CO-2; SO-1; c. What are the characteristics of ionic compounds? Give any four examples of | (6)
+BL-1 ionic compounds.
+Q2.
+CO-4; SO-1; a. Show your calculations to find the mole fraction of the individual components | (7)
+BL-3 of a solution prepared by mixing 50 g water (H20). 50 g ethanol (C,H;OH).
+CO-2; SO-1; b. Explain briefly any two reactions of carboxylic acids. Show the reactions. (7)
+BL-5
+CO-3; SO-1; c. Discuss the applications of UV-Visible spectroscopy. (6)
+BL-6
+
+| Q3.
+
+Q3.
+
+| CO-2: SO-1; a. Compare the oxidation products of primary, and secondary alcohols with | (7)
+BL-4 suitable examples. Show the reactions of the oxidation process.
+CO-2; SO-1; b. Utilize your knowledge of e-waste and write about the health effects of any | (7)
+BL-3 7 hazardous substances found in e-waste.
+CO-3; SO-1; c. With a suitable diagram, discuss the different types of in- plane bending | (6)
+
+BL-4 vibrations occurring as a result of IR radiations.
 --- page 2 ---
 Q4.
 

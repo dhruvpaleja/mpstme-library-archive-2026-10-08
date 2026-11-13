@@ -9,7 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY) - 7010/Linear Algebra and Differential Equations/ANS_Final-Exam_Linear Algebra and Differential Equations(702BS0C065)_Semester II_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (18 pages), mean OCR confidence 50.2
-- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -76,6 +76,31 @@ from the following equation
 SO-2;
 BL-High   z = x + y + f ( xy ) .
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+dey
+ax?
+
+Quel(d) Solve the differential equation: —2 2 +4y=0
+Sol. 1(d): > (D? — 2D +4)y =0
+Auxiliary equation is: m3 — 2m+4=0 ®D [Mark=1]
+By hit and trial Gm + 2) is a factor of D
+
+--D May be rewritten as
+
+m3 + 2m? — 2m? — 4m+2m+4=0
+
+=> m?(m + 2) — 2m(m + 2) + 20N +2) = 0
+
+=> (m+ 2)(m? — 2m+ 2) =0
+
+[Mark=1]
+=> m=—2,1+i
+
+C.F.= c,e~?* + e*(c2 cos x + c3 sin x)
+Since F(x) = 0, solution is given by y = C.F
+
+=>y = ce ** + e* (cz cosx + cz sinx) [Mark=2]
 --- page 4 ---
 Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in amperes) meet
 CO-6;   at a junction. Using Kirchhoff ’s laws, the following system of linear   [6]
@@ -246,6 +271,27 @@ SO-2;   If A =  − 2 − 3 − 4  then find eigen values and eigen vector
 BL-Low     3   5   7  
 15 A −+ 1 A 3 + 3 A + 2 I .
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Given:
+(x°D? - 3xD + 5)y = sin(logx), where D = d/dx...(1)
+Let x = e” (or z = logx) and D, = d/dz. Then (1) becomes:
+[D,(D, -1)- 3D, +5]y=sinz or (D?-4D;+5)y =sinz [Mark=1]
+Complementary Function (C.F.)Its auxiliary equation is D? — 4D, +5 = 0, so that Dj = 2 +i.
+2. CF. = e4(c1 cos z + ep sinz) = x"[c cos(log x) + cp sin(log x)], [Mark=2]
+
+where c, and cp are arbitrary constants.Particular Integral (P.I.)
+
+Pl. = u sinz = ! sinz = it sinz
+D}- 4D, +5 —(1)? - 4D, +5 41-D,
+4 1-2 4 1-(-()) 8
+= (1/8) x [sinz + cos z] = (1/8) x [sin(log x) + cos(log x)], as z = log x [Mark=2]
+
+General Solution
+
+Solution is y = x[c1 cos(log x) + cp sin(log x)] + (1/8) x [sin(log x) + cos(log x)] [Mark=1]
 --- page 10 ---
 Aes. far
 2-3-4
@@ -539,7 +585,7 @@ of the given transformation. Verify rank–nullity theorem.
 - Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: BACHELOR OF TECHNOLOGY(CIVIL ENGINEERING) - 7005/Linear Algebra and Differential Equations/ANS_Final-Exam_Linear Algebra and Differential Equations(702BS0C065)_Semester II_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (18 pages), mean OCR confidence 50.2
-- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -606,6 +652,31 @@ from the following equation
 SO-2;
 BL-High   z = x + y + f ( xy ) .
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+dey
+ax?
+
+Quel(d) Solve the differential equation: —2 2 +4y=0
+Sol. 1(d): > (D? — 2D +4)y =0
+Auxiliary equation is: m3 — 2m+4=0 ®D [Mark=1]
+By hit and trial Gm + 2) is a factor of D
+
+--D May be rewritten as
+
+m3 + 2m? — 2m? — 4m+2m+4=0
+
+=> m?(m + 2) — 2m(m + 2) + 20N +2) = 0
+
+=> (m+ 2)(m? — 2m+ 2) =0
+
+[Mark=1]
+=> m=—2,1+i
+
+C.F.= c,e~?* + e*(c2 cos x + c3 sin x)
+Since F(x) = 0, solution is given by y = C.F
+
+=>y = ce ** + e* (cz cosx + cz sinx) [Mark=2]
 --- page 4 ---
 Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in amperes) meet
 CO-6;   at a junction. Using Kirchhoff ’s laws, the following system of linear   [6]
@@ -776,6 +847,27 @@ SO-2;   If A =  − 2 − 3 − 4  then find eigen values and eigen vector
 BL-Low     3   5   7  
 15 A −+ 1 A 3 + 3 A + 2 I .
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Given:
+(x°D? - 3xD + 5)y = sin(logx), where D = d/dx...(1)
+Let x = e” (or z = logx) and D, = d/dz. Then (1) becomes:
+[D,(D, -1)- 3D, +5]y=sinz or (D?-4D;+5)y =sinz [Mark=1]
+Complementary Function (C.F.)Its auxiliary equation is D? — 4D, +5 = 0, so that Dj = 2 +i.
+2. CF. = e4(c1 cos z + ep sinz) = x"[c cos(log x) + cp sin(log x)], [Mark=2]
+
+where c, and cp are arbitrary constants.Particular Integral (P.I.)
+
+Pl. = u sinz = ! sinz = it sinz
+D}- 4D, +5 —(1)? - 4D, +5 41-D,
+4 1-2 4 1-(-()) 8
+= (1/8) x [sinz + cos z] = (1/8) x [sin(log x) + cos(log x)], as z = log x [Mark=2]
+
+General Solution
+
+Solution is y = x[c1 cos(log x) + cp sin(log x)] + (1/8) x [sin(log x) + cos(log x)] [Mark=1]
 --- page 10 ---
 Aes. far
 2-3-4
@@ -1069,7 +1161,7 @@ of the given transformation. Verify rank–nullity theorem.
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_AIDS_7056/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf` (+9 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (18 pages), mean OCR confidence 50.7
-- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -1136,6 +1228,31 @@ from the following equation
 SO-2;
 BL-High   z = x + y + f ( xy ) .
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+dey
+ax?
+
+Quel(d) Solve the differential equation: —2 2 +4y=0
+Sol. 1(d): > (D? — 2D +4)y =0
+Auxiliary equation is: m3 — 2m+4=0 ®D [Mark=1]
+By hit and trial Gm + 2) is a factor of D
+
+--D May be rewritten as
+
+m3 + 2m? — 2m? — 4m+2m+4=0
+
+=> m?(m + 2) — 2m(m + 2) + 20N +2) = 0
+
+=> (m+ 2)(m? — 2m+ 2) =0
+
+[Mark=1]
+=> m=—2,1+i
+
+C.F.= c,e~?* + e*(c2 cos x + c3 sin x)
+Since F(x) = 0, solution is given by y = C.F
+
+=>y = ce ** + e* (cz cosx + cz sinx) [Mark=2]
 --- page 4 ---
 Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in amperes) meet
 CO-6;   at a junction. Using Kirchhoff ’s laws, the following system of linear   [6]
@@ -1306,6 +1423,27 @@ SO-2;   If A =  − 2 − 3 − 4  then find eigen values and eigen vector
 BL-Low     3   5   7  
 15 A −+ 1 A 3 + 3 A + 2 I .
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Given:
+(x°D? - 3xD + 5)y = sin(logx), where D = d/dx...(1)
+Let x = e” (or z = logx) and D, = d/dz. Then (1) becomes:
+[D,(D, -1)- 3D, +5]y=sinz or (D?-4D;+5)y =sinz [Mark=1]
+Complementary Function (C.F.)Its auxiliary equation is D? — 4D, +5 = 0, so that Dj = 2 +i.
+2. CF. = e4(c1 cos z + ep sinz) = x"[c cos(log x) + cp sin(log x)], [Mark=2]
+
+where c, and cp are arbitrary constants.Particular Integral (P.I.)
+
+Pl. = u sinz = ! sinz = it sinz
+D}- 4D, +5 —(1)? - 4D, +5 41-D,
+4 1-2 4 1-(-()) 8
+= (1/8) x [sinz + cos z] = (1/8) x [sin(log x) + cos(log x)], as z = log x [Mark=2]
+
+General Solution
+
+Solution is y = x[c1 cos(log x) + cp sin(log x)] + (1/8) x [sin(log x) + cos(log x)] [Mark=1]
 --- page 10 ---
 Aes. far
 2-3-4
@@ -1608,7 +1746,7 @@ of the given transformation. Verify rank–nullity theorem.
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_AIML_7053/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (18 pages), mean OCR confidence 50.2
-- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -1675,6 +1813,31 @@ from the following equation
 SO-2;
 BL-High   z = x + y + f ( xy ) .
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+dey
+ax?
+
+Quel(d) Solve the differential equation: —2 2 +4y=0
+Sol. 1(d): > (D? — 2D +4)y =0
+Auxiliary equation is: m3 — 2m+4=0 ®D [Mark=1]
+By hit and trial Gm + 2) is a factor of D
+
+--D May be rewritten as
+
+m3 + 2m? — 2m? — 4m+2m+4=0
+
+=> m?(m + 2) — 2m(m + 2) + 20N +2) = 0
+
+=> (m+ 2)(m? — 2m+ 2) =0
+
+[Mark=1]
+=> m=—2,1+i
+
+C.F.= c,e~?* + e*(c2 cos x + c3 sin x)
+Since F(x) = 0, solution is given by y = C.F
+
+=>y = ce ** + e* (cz cosx + cz sinx) [Mark=2]
 --- page 4 ---
 Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in amperes) meet
 CO-6;   at a junction. Using Kirchhoff ’s laws, the following system of linear   [6]
@@ -1845,6 +2008,27 @@ SO-2;   If A =  − 2 − 3 − 4  then find eigen values and eigen vector
 BL-Low     3   5   7  
 15 A −+ 1 A 3 + 3 A + 2 I .
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Given:
+(x°D? - 3xD + 5)y = sin(logx), where D = d/dx...(1)
+Let x = e” (or z = logx) and D, = d/dz. Then (1) becomes:
+[D,(D, -1)- 3D, +5]y=sinz or (D?-4D;+5)y =sinz [Mark=1]
+Complementary Function (C.F.)Its auxiliary equation is D? — 4D, +5 = 0, so that Dj = 2 +i.
+2. CF. = e4(c1 cos z + ep sinz) = x"[c cos(log x) + cp sin(log x)], [Mark=2]
+
+where c, and cp are arbitrary constants.Particular Integral (P.I.)
+
+Pl. = u sinz = ! sinz = it sinz
+D}- 4D, +5 —(1)? - 4D, +5 41-D,
+4 1-2 4 1-(-()) 8
+= (1/8) x [sinz + cos z] = (1/8) x [sin(log x) + cos(log x)], as z = log x [Mark=2]
+
+General Solution
+
+Solution is y = x[c1 cos(log x) + cp sin(log x)] + (1/8) x [sin(log x) + cos(log x)] [Mark=1]
 --- page 10 ---
 Aes. far
 2-3-4
@@ -2138,7 +2322,7 @@ of the given transformation. Verify rank–nullity theorem.
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_CSBS_7036/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (18 pages), mean OCR confidence 50.2
-- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -2205,6 +2389,31 @@ from the following equation
 SO-2;
 BL-High   z = x + y + f ( xy ) .
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+dey
+ax?
+
+Quel(d) Solve the differential equation: —2 2 +4y=0
+Sol. 1(d): > (D? — 2D +4)y =0
+Auxiliary equation is: m3 — 2m+4=0 ®D [Mark=1]
+By hit and trial Gm + 2) is a factor of D
+
+--D May be rewritten as
+
+m3 + 2m? — 2m? — 4m+2m+4=0
+
+=> m?(m + 2) — 2m(m + 2) + 20N +2) = 0
+
+=> (m+ 2)(m? — 2m+ 2) =0
+
+[Mark=1]
+=> m=—2,1+i
+
+C.F.= c,e~?* + e*(c2 cos x + c3 sin x)
+Since F(x) = 0, solution is given by y = C.F
+
+=>y = ce ** + e* (cz cosx + cz sinx) [Mark=2]
 --- page 4 ---
 Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in amperes) meet
 CO-6;   at a junction. Using Kirchhoff ’s laws, the following system of linear   [6]
@@ -2375,6 +2584,27 @@ SO-2;   If A =  − 2 − 3 − 4  then find eigen values and eigen vector
 BL-Low     3   5   7  
 15 A −+ 1 A 3 + 3 A + 2 I .
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Given:
+(x°D? - 3xD + 5)y = sin(logx), where D = d/dx...(1)
+Let x = e” (or z = logx) and D, = d/dz. Then (1) becomes:
+[D,(D, -1)- 3D, +5]y=sinz or (D?-4D;+5)y =sinz [Mark=1]
+Complementary Function (C.F.)Its auxiliary equation is D? — 4D, +5 = 0, so that Dj = 2 +i.
+2. CF. = e4(c1 cos z + ep sinz) = x"[c cos(log x) + cp sin(log x)], [Mark=2]
+
+where c, and cp are arbitrary constants.Particular Integral (P.I.)
+
+Pl. = u sinz = ! sinz = it sinz
+D}- 4D, +5 —(1)? - 4D, +5 41-D,
+4 1-2 4 1-(-()) 8
+= (1/8) x [sinz + cos z] = (1/8) x [sin(log x) + cos(log x)], as z = log x [Mark=2]
+
+General Solution
+
+Solution is y = x[c1 cos(log x) + cp sin(log x)] + (1/8) x [sin(log x) + cos(log x)] [Mark=1]
 --- page 10 ---
 Aes. far
 2-3-4
@@ -2668,7 +2898,7 @@ of the given transformation. Verify rank–nullity theorem.
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_EXTC_7006/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (18 pages), mean OCR confidence 50.2
-- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -2735,6 +2965,31 @@ from the following equation
 SO-2;
 BL-High   z = x + y + f ( xy ) .
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+dey
+ax?
+
+Quel(d) Solve the differential equation: —2 2 +4y=0
+Sol. 1(d): > (D? — 2D +4)y =0
+Auxiliary equation is: m3 — 2m+4=0 ®D [Mark=1]
+By hit and trial Gm + 2) is a factor of D
+
+--D May be rewritten as
+
+m3 + 2m? — 2m? — 4m+2m+4=0
+
+=> m?(m + 2) — 2m(m + 2) + 20N +2) = 0
+
+=> (m+ 2)(m? — 2m+ 2) =0
+
+[Mark=1]
+=> m=—2,1+i
+
+C.F.= c,e~?* + e*(c2 cos x + c3 sin x)
+Since F(x) = 0, solution is given by y = C.F
+
+=>y = ce ** + e* (cz cosx + cz sinx) [Mark=2]
 --- page 4 ---
 Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in amperes) meet
 CO-6;   at a junction. Using Kirchhoff ’s laws, the following system of linear   [6]
@@ -2905,6 +3160,27 @@ SO-2;   If A =  − 2 − 3 − 4  then find eigen values and eigen vector
 BL-Low     3   5   7  
 15 A −+ 1 A 3 + 3 A + 2 I .
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Given:
+(x°D? - 3xD + 5)y = sin(logx), where D = d/dx...(1)
+Let x = e” (or z = logx) and D, = d/dz. Then (1) becomes:
+[D,(D, -1)- 3D, +5]y=sinz or (D?-4D;+5)y =sinz [Mark=1]
+Complementary Function (C.F.)Its auxiliary equation is D? — 4D, +5 = 0, so that Dj = 2 +i.
+2. CF. = e4(c1 cos z + ep sinz) = x"[c cos(log x) + cp sin(log x)], [Mark=2]
+
+where c, and cp are arbitrary constants.Particular Integral (P.I.)
+
+Pl. = u sinz = ! sinz = it sinz
+D}- 4D, +5 —(1)? - 4D, +5 41-D,
+4 1-2 4 1-(-()) 8
+= (1/8) x [sinz + cos z] = (1/8) x [sin(log x) + cos(log x)], as z = log x [Mark=2]
+
+General Solution
+
+Solution is y = x[c1 cos(log x) + cp sin(log x)] + (1/8) x [sin(log x) + cos(log x)] [Mark=1]
 --- page 10 ---
 Aes. far
 2-3-4
@@ -3198,7 +3474,7 @@ of the given transformation. Verify rank–nullity theorem.
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_Mechatronics_7004/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (18 pages), mean OCR confidence 50.2
-- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -3265,6 +3541,31 @@ from the following equation
 SO-2;
 BL-High   z = x + y + f ( xy ) .
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+dey
+ax?
+
+Quel(d) Solve the differential equation: —2 2 +4y=0
+Sol. 1(d): > (D? — 2D +4)y =0
+Auxiliary equation is: m3 — 2m+4=0 ®D [Mark=1]
+By hit and trial Gm + 2) is a factor of D
+
+--D May be rewritten as
+
+m3 + 2m? — 2m? — 4m+2m+4=0
+
+=> m?(m + 2) — 2m(m + 2) + 20N +2) = 0
+
+=> (m+ 2)(m? — 2m+ 2) =0
+
+[Mark=1]
+=> m=—2,1+i
+
+C.F.= c,e~?* + e*(c2 cos x + c3 sin x)
+Since F(x) = 0, solution is given by y = C.F
+
+=>y = ce ** + e* (cz cosx + cz sinx) [Mark=2]
 --- page 4 ---
 Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in amperes) meet
 CO-6;   at a junction. Using Kirchhoff ’s laws, the following system of linear   [6]
@@ -3435,6 +3736,27 @@ SO-2;   If A =  − 2 − 3 − 4  then find eigen values and eigen vector
 BL-Low     3   5   7  
 15 A −+ 1 A 3 + 3 A + 2 I .
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Given:
+(x°D? - 3xD + 5)y = sin(logx), where D = d/dx...(1)
+Let x = e” (or z = logx) and D, = d/dz. Then (1) becomes:
+[D,(D, -1)- 3D, +5]y=sinz or (D?-4D;+5)y =sinz [Mark=1]
+Complementary Function (C.F.)Its auxiliary equation is D? — 4D, +5 = 0, so that Dj = 2 +i.
+2. CF. = e4(c1 cos z + ep sinz) = x"[c cos(log x) + cp sin(log x)], [Mark=2]
+
+where c, and cp are arbitrary constants.Particular Integral (P.I.)
+
+Pl. = u sinz = ! sinz = it sinz
+D}- 4D, +5 —(1)? - 4D, +5 41-D,
+4 1-2 4 1-(-()) 8
+= (1/8) x [sinz + cos z] = (1/8) x [sin(log x) + cos(log x)], as z = log x [Mark=2]
+
+General Solution
+
+Solution is y = x[c1 cos(log x) + cp sin(log x)] + (1/8) x [sin(log x) + cos(log x)] [Mark=1]
 --- page 10 ---
 Aes. far
 2-3-4
@@ -3728,7 +4050,7 @@ of the given transformation. Verify rank–nullity theorem.
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/MBATech_AI_7051/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (18 pages), mean OCR confidence 50.2
-- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -3795,6 +4117,31 @@ from the following equation
 SO-2;
 BL-High   z = x + y + f ( xy ) .
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+dey
+ax?
+
+Quel(d) Solve the differential equation: —2 2 +4y=0
+Sol. 1(d): > (D? — 2D +4)y =0
+Auxiliary equation is: m3 — 2m+4=0 ®D [Mark=1]
+By hit and trial Gm + 2) is a factor of D
+
+--D May be rewritten as
+
+m3 + 2m? — 2m? — 4m+2m+4=0
+
+=> m?(m + 2) — 2m(m + 2) + 20N +2) = 0
+
+=> (m+ 2)(m? — 2m+ 2) =0
+
+[Mark=1]
+=> m=—2,1+i
+
+C.F.= c,e~?* + e*(c2 cos x + c3 sin x)
+Since F(x) = 0, solution is given by y = C.F
+
+=>y = ce ** + e* (cz cosx + cz sinx) [Mark=2]
 --- page 4 ---
 Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in amperes) meet
 CO-6;   at a junction. Using Kirchhoff ’s laws, the following system of linear   [6]
@@ -3965,6 +4312,27 @@ SO-2;   If A =  − 2 − 3 − 4  then find eigen values and eigen vector
 BL-Low     3   5   7  
 15 A −+ 1 A 3 + 3 A + 2 I .
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Given:
+(x°D? - 3xD + 5)y = sin(logx), where D = d/dx...(1)
+Let x = e” (or z = logx) and D, = d/dz. Then (1) becomes:
+[D,(D, -1)- 3D, +5]y=sinz or (D?-4D;+5)y =sinz [Mark=1]
+Complementary Function (C.F.)Its auxiliary equation is D? — 4D, +5 = 0, so that Dj = 2 +i.
+2. CF. = e4(c1 cos z + ep sinz) = x"[c cos(log x) + cp sin(log x)], [Mark=2]
+
+where c, and cp are arbitrary constants.Particular Integral (P.I.)
+
+Pl. = u sinz = ! sinz = it sinz
+D}- 4D, +5 —(1)? - 4D, +5 41-D,
+4 1-2 4 1-(-()) 8
+= (1/8) x [sinz + cos z] = (1/8) x [sin(log x) + cos(log x)], as z = log x [Mark=2]
+
+General Solution
+
+Solution is y = x[c1 cos(log x) + cp sin(log x)] + (1/8) x [sin(log x) + cos(log x)] [Mark=1]
 --- page 10 ---
 Aes. far
 2-3-4
@@ -4258,7 +4626,7 @@ of the given transformation. Verify rank–nullity theorem.
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/MBATech_Computer_7047/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026_e30cfaf3c1.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (18 pages), mean OCR confidence 50.2
-- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -4325,6 +4693,31 @@ from the following equation
 SO-2;
 BL-High   z = x + y + f ( xy ) .
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+dey
+ax?
+
+Quel(d) Solve the differential equation: —2 2 +4y=0
+Sol. 1(d): > (D? — 2D +4)y =0
+Auxiliary equation is: m3 — 2m+4=0 ®D [Mark=1]
+By hit and trial Gm + 2) is a factor of D
+
+--D May be rewritten as
+
+m3 + 2m? — 2m? — 4m+2m+4=0
+
+=> m?(m + 2) — 2m(m + 2) + 20N +2) = 0
+
+=> (m+ 2)(m? — 2m+ 2) =0
+
+[Mark=1]
+=> m=—2,1+i
+
+C.F.= c,e~?* + e*(c2 cos x + c3 sin x)
+Since F(x) = 0, solution is given by y = C.F
+
+=>y = ce ** + e* (cz cosx + cz sinx) [Mark=2]
 --- page 4 ---
 Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in amperes) meet
 CO-6;   at a junction. Using Kirchhoff ’s laws, the following system of linear   [6]
@@ -4495,6 +4888,27 @@ SO-2;   If A =  − 2 − 3 − 4  then find eigen values and eigen vector
 BL-Low     3   5   7  
 15 A −+ 1 A 3 + 3 A + 2 I .
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Given:
+(x°D? - 3xD + 5)y = sin(logx), where D = d/dx...(1)
+Let x = e” (or z = logx) and D, = d/dz. Then (1) becomes:
+[D,(D, -1)- 3D, +5]y=sinz or (D?-4D;+5)y =sinz [Mark=1]
+Complementary Function (C.F.)Its auxiliary equation is D? — 4D, +5 = 0, so that Dj = 2 +i.
+2. CF. = e4(c1 cos z + ep sinz) = x"[c cos(log x) + cp sin(log x)], [Mark=2]
+
+where c, and cp are arbitrary constants.Particular Integral (P.I.)
+
+Pl. = u sinz = ! sinz = it sinz
+D}- 4D, +5 —(1)? - 4D, +5 41-D,
+4 1-2 4 1-(-()) 8
+= (1/8) x [sinz + cos z] = (1/8) x [sin(log x) + cos(log x)], as z = log x [Mark=2]
+
+General Solution
+
+Solution is y = x[c1 cos(log x) + cp sin(log x)] + (1/8) x [sin(log x) + cos(log x)] [Mark=1]
 --- page 10 ---
 Aes. far
 2-3-4
@@ -4788,7 +5202,7 @@ of the given transformation. Verify rank–nullity theorem.
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/MBATech_DS_7052/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (18 pages), mean OCR confidence 50.2
-- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -4855,6 +5269,31 @@ from the following equation
 SO-2;
 BL-High   z = x + y + f ( xy ) .
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+dey
+ax?
+
+Quel(d) Solve the differential equation: —2 2 +4y=0
+Sol. 1(d): > (D? — 2D +4)y =0
+Auxiliary equation is: m3 — 2m+4=0 ®D [Mark=1]
+By hit and trial Gm + 2) is a factor of D
+
+--D May be rewritten as
+
+m3 + 2m? — 2m? — 4m+2m+4=0
+
+=> m?(m + 2) — 2m(m + 2) + 20N +2) = 0
+
+=> (m+ 2)(m? — 2m+ 2) =0
+
+[Mark=1]
+=> m=—2,1+i
+
+C.F.= c,e~?* + e*(c2 cos x + c3 sin x)
+Since F(x) = 0, solution is given by y = C.F
+
+=>y = ce ** + e* (cz cosx + cz sinx) [Mark=2]
 --- page 4 ---
 Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in amperes) meet
 CO-6;   at a junction. Using Kirchhoff ’s laws, the following system of linear   [6]
@@ -5025,6 +5464,27 @@ SO-2;   If A =  − 2 − 3 − 4  then find eigen values and eigen vector
 BL-Low     3   5   7  
 15 A −+ 1 A 3 + 3 A + 2 I .
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+Given:
+(x°D? - 3xD + 5)y = sin(logx), where D = d/dx...(1)
+Let x = e” (or z = logx) and D, = d/dz. Then (1) becomes:
+[D,(D, -1)- 3D, +5]y=sinz or (D?-4D;+5)y =sinz [Mark=1]
+Complementary Function (C.F.)Its auxiliary equation is D? — 4D, +5 = 0, so that Dj = 2 +i.
+2. CF. = e4(c1 cos z + ep sinz) = x"[c cos(log x) + cp sin(log x)], [Mark=2]
+
+where c, and cp are arbitrary constants.Particular Integral (P.I.)
+
+Pl. = u sinz = ! sinz = it sinz
+D}- 4D, +5 —(1)? - 4D, +5 41-D,
+4 1-2 4 1-(-()) 8
+= (1/8) x [sinz + cos z] = (1/8) x [sin(log x) + cos(log x)], as z = log x [Mark=2]
+
+General Solution
+
+Solution is y = x[c1 cos(log x) + cp sin(log x)] + (1/8) x [sin(log x) + cos(log x)] [Mark=1]
 --- page 10 ---
 Aes. far
 2-3-4
@@ -7659,6 +8119,17 @@ CO-2;   (b)   Let T : R 2 → R 2 be a linear map where T ( 1,1 ) = ( 2,0 ) and 
 SO-1;
 BL-Low   Find the transformation T ( x , y ) . Using this transformation find T ( 4, − 3 ) .
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+(1.5M) (15M)
+10 -1 2) se,-2r,[1 9 2 2)a,sr,-r, ft 9 1 2
+21 2 1 2 01 4 -3 . 01 4 -3
+41 0 Sle .p4p,|9 1 * -3lp cpp, |9 9 9
+01 4 -3 01 4 -3 000 0
+
+Hence rank of matrix is 2. (aM)
 --- page 2 ---
 aE TON=(2,¢, TA-D0,4)
 BiAN= Cyo)s (1)
@@ -7711,6 +8182,28 @@ Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in a
 CO-6;   junction. Using Kirchhoff ’s laws, the following system of linear   [6]
 SO-2;   equations is obtained
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Sol.: > (D® + 3D? — 4)y =0
+
+Auxiliary equation is: m? + 3m? — 4 = 0.......0 [Mark=1]
+
+By hit and trial (m — 1) is a factor of D
+
+., D May be rewritten as
+
+m> — m? + 4m? — 4m +4m—4=0
+
+=> m?(m—1) + 4m(m — 1) + 4(m— 1) =0
+=> (m? + 4m + 4)(m—1) =0
+
+=> (m+ 2)(m + 2)(m—1) =0
+=>m=1,-2,-2 [Marka]
+C.F. = ce” + (c2 + c3x)e 2"
+
+Since F(z) = 0, solution is given by y = C.F.
+
+=> y=cie” + (c2 + c3a)e** (Mark=2]
 --- page 4 ---
 BL-Low   i 1 + i 2 + i 3 = 7; i 1 − 2 i 2 + i 3 = 1; 2 i 1 + i 2 + 3 i 3 = 12 .
 Find the values of the currents i 1 , i 2 , i 3 .
@@ -7912,6 +8405,30 @@ CO-3;   (b)
 SO-1;   Solve: ( 3 xy 2 − y 3 ) dx − ( 2 x 2 y − xy 2 ) dy = 0 .   [6]
 BL-High
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+e Step 1: Auxiliary Equation (1 mark)
+Set m? +7m+10=0.
+(m+5)(m+2)=0 => m, =—5,my = -2.
+
+¢ Step 2: General Solution (1 mark)
+z(t) = Cye~** + Cye~*#
+
+¢ Step 3: Apply Initial Conditions (1 mark)
+z(0) =2 = C,+C,=2
+Differentiating: 2’(t) = —5Cye~*t — 2Cye~*t
+z'(0) =2 = -5C) -2C,) =2
+
+¢ Step 4: Solve for Constants (2 marks)
+From the first equation: C, = 2—-(C\.
+Substitute into the second: —5C; — 2(2-C,)=2 =» -3C, =6 =>
+Cy = -2.
+Then Cy = 2—(-2) =4.
+
+e Step 5: Final Solution (1 mark)
+a(t) = 4e-?# — 2e5t
 --- page 12 ---
 exes
 BO (ante Bax — @FY- mi JA8 = S
@@ -8169,6 +8686,17 @@ CO-2;   (b)   Let T : R 2 → R 2 be a linear map where T ( 1,1 ) = ( 2,0 ) and 
 SO-1;
 BL-Low   Find the transformation T ( x , y ) . Using this transformation find T ( 4, − 3 ) .
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+(1.5M) (15M)
+10 -1 2) se,-2r,[1 9 2 2)a,sr,-r, ft 9 1 2
+21 2 1 2 01 4 -3 . 01 4 -3
+41 0 Sle .p4p,|9 1 * -3lp cpp, |9 9 9
+01 4 -3 01 4 -3 000 0
+
+Hence rank of matrix is 2. (aM)
 --- page 2 ---
 aE TON=(2,¢, TA-D0,4)
 BiAN= Cyo)s (1)
@@ -8221,6 +8749,28 @@ Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in a
 CO-6;   junction. Using Kirchhoff ’s laws, the following system of linear   [6]
 SO-2;   equations is obtained
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Sol.: > (D® + 3D? — 4)y =0
+
+Auxiliary equation is: m? + 3m? — 4 = 0.......0 [Mark=1]
+
+By hit and trial (m — 1) is a factor of D
+
+., D May be rewritten as
+
+m> — m? + 4m? — 4m +4m—4=0
+
+=> m?(m—1) + 4m(m — 1) + 4(m— 1) =0
+=> (m? + 4m + 4)(m—1) =0
+
+=> (m+ 2)(m + 2)(m—1) =0
+=>m=1,-2,-2 [Marka]
+C.F. = ce” + (c2 + c3x)e 2"
+
+Since F(z) = 0, solution is given by y = C.F.
+
+=> y=cie” + (c2 + c3a)e** (Mark=2]
 --- page 4 ---
 BL-Low   i 1 + i 2 + i 3 = 7; i 1 − 2 i 2 + i 3 = 1; 2 i 1 + i 2 + 3 i 3 = 12 .
 Find the values of the currents i 1 , i 2 , i 3 .
@@ -8422,6 +8972,30 @@ CO-3;   (b)
 SO-1;   Solve: ( 3 xy 2 − y 3 ) dx − ( 2 x 2 y − xy 2 ) dy = 0 .   [6]
 BL-High
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+e Step 1: Auxiliary Equation (1 mark)
+Set m? +7m+10=0.
+(m+5)(m+2)=0 => m, =—5,my = -2.
+
+¢ Step 2: General Solution (1 mark)
+z(t) = Cye~** + Cye~*#
+
+¢ Step 3: Apply Initial Conditions (1 mark)
+z(0) =2 = C,+C,=2
+Differentiating: 2’(t) = —5Cye~*t — 2Cye~*t
+z'(0) =2 = -5C) -2C,) =2
+
+¢ Step 4: Solve for Constants (2 marks)
+From the first equation: C, = 2—-(C\.
+Substitute into the second: —5C; — 2(2-C,)=2 =» -3C, =6 =>
+Cy = -2.
+Then Cy = 2—(-2) =4.
+
+e Step 5: Final Solution (1 mark)
+a(t) = 4e-?# — 2e5t
 --- page 12 ---
 exes
 BO (ante Bax — @FY- mi JA8 = S
@@ -8679,6 +9253,17 @@ CO-2;   (b)   Let T : R 2 → R 2 be a linear map where T ( 1,1 ) = ( 2,0 ) and 
 SO-1;
 BL-Low   Find the transformation T ( x , y ) . Using this transformation find T ( 4, − 3 ) .
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+(1.5M) (15M)
+10 -1 2) se,-2r,[1 9 2 2)a,sr,-r, ft 9 1 2
+21 2 1 2 01 4 -3 . 01 4 -3
+41 0 Sle .p4p,|9 1 * -3lp cpp, |9 9 9
+01 4 -3 01 4 -3 000 0
+
+Hence rank of matrix is 2. (aM)
 --- page 2 ---
 aE TON=(2,¢, TA-D0,4)
 BiAN= Cyo)s (1)
@@ -8731,6 +9316,28 @@ Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in a
 CO-6;   junction. Using Kirchhoff ’s laws, the following system of linear   [6]
 SO-2;   equations is obtained
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Sol.: > (D® + 3D? — 4)y =0
+
+Auxiliary equation is: m? + 3m? — 4 = 0.......0 [Mark=1]
+
+By hit and trial (m — 1) is a factor of D
+
+., D May be rewritten as
+
+m> — m? + 4m? — 4m +4m—4=0
+
+=> m?(m—1) + 4m(m — 1) + 4(m— 1) =0
+=> (m? + 4m + 4)(m—1) =0
+
+=> (m+ 2)(m + 2)(m—1) =0
+=>m=1,-2,-2 [Marka]
+C.F. = ce” + (c2 + c3x)e 2"
+
+Since F(z) = 0, solution is given by y = C.F.
+
+=> y=cie” + (c2 + c3a)e** (Mark=2]
 --- page 4 ---
 BL-Low   i 1 + i 2 + i 3 = 7; i 1 − 2 i 2 + i 3 = 1; 2 i 1 + i 2 + 3 i 3 = 12 .
 Find the values of the currents i 1 , i 2 , i 3 .
@@ -8932,6 +9539,30 @@ CO-3;   (b)
 SO-1;   Solve: ( 3 xy 2 − y 3 ) dx − ( 2 x 2 y − xy 2 ) dy = 0 .   [6]
 BL-High
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+e Step 1: Auxiliary Equation (1 mark)
+Set m? +7m+10=0.
+(m+5)(m+2)=0 => m, =—5,my = -2.
+
+¢ Step 2: General Solution (1 mark)
+z(t) = Cye~** + Cye~*#
+
+¢ Step 3: Apply Initial Conditions (1 mark)
+z(0) =2 = C,+C,=2
+Differentiating: 2’(t) = —5Cye~*t — 2Cye~*t
+z'(0) =2 = -5C) -2C,) =2
+
+¢ Step 4: Solve for Constants (2 marks)
+From the first equation: C, = 2—-(C\.
+Substitute into the second: —5C; — 2(2-C,)=2 =» -3C, =6 =>
+Cy = -2.
+Then Cy = 2—(-2) =4.
+
+e Step 5: Final Solution (1 mark)
+a(t) = 4e-?# — 2e5t
 --- page 12 ---
 exes
 BO (ante Bax — @FY- mi JA8 = S
@@ -13317,6 +13948,17 @@ CO-2;   (b)   Let T : R 2 → R 2 be a linear map where T ( 1,1 ) = ( 2,0 ) and 
 SO-1;
 BL-Low   Find the transformation T ( x , y ) . Using this transformation find T ( 4, − 3 ) .
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+(1.5M) (15M)
+10 -1 2) se,-2r,[1 9 2 2)a,sr,-r, ft 9 1 2
+21 2 1 2 01 4 -3 . 01 4 -3
+41 0 Sle .p4p,|9 1 * -3lp cpp, |9 9 9
+01 4 -3 01 4 -3 000 0
+
+Hence rank of matrix is 2. (aM)
 --- page 2 ---
 aE TON=(2,¢, TA-D0,4)
 BiAN= Cyo)s (1)
@@ -13369,6 +14011,28 @@ Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in a
 CO-6;   junction. Using Kirchhoff ’s laws, the following system of linear   [6]
 SO-2;   equations is obtained
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Sol.: > (D® + 3D? — 4)y =0
+
+Auxiliary equation is: m? + 3m? — 4 = 0.......0 [Mark=1]
+
+By hit and trial (m — 1) is a factor of D
+
+., D May be rewritten as
+
+m> — m? + 4m? — 4m +4m—4=0
+
+=> m?(m—1) + 4m(m — 1) + 4(m— 1) =0
+=> (m? + 4m + 4)(m—1) =0
+
+=> (m+ 2)(m + 2)(m—1) =0
+=>m=1,-2,-2 [Marka]
+C.F. = ce” + (c2 + c3x)e 2"
+
+Since F(z) = 0, solution is given by y = C.F.
+
+=> y=cie” + (c2 + c3a)e** (Mark=2]
 --- page 4 ---
 BL-Low   i 1 + i 2 + i 3 = 7; i 1 − 2 i 2 + i 3 = 1; 2 i 1 + i 2 + 3 i 3 = 12 .
 Find the values of the currents i 1 , i 2 , i 3 .
@@ -13570,6 +14234,30 @@ CO-3;   (b)
 SO-1;   Solve: ( 3 xy 2 − y 3 ) dx − ( 2 x 2 y − xy 2 ) dy = 0 .   [6]
 BL-High
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+e Step 1: Auxiliary Equation (1 mark)
+Set m? +7m+10=0.
+(m+5)(m+2)=0 => m, =—5,my = -2.
+
+¢ Step 2: General Solution (1 mark)
+z(t) = Cye~** + Cye~*#
+
+¢ Step 3: Apply Initial Conditions (1 mark)
+z(0) =2 = C,+C,=2
+Differentiating: 2’(t) = —5Cye~*t — 2Cye~*t
+z'(0) =2 = -5C) -2C,) =2
+
+¢ Step 4: Solve for Constants (2 marks)
+From the first equation: C, = 2—-(C\.
+Substitute into the second: —5C; — 2(2-C,)=2 =» -3C, =6 =>
+Cy = -2.
+Then Cy = 2—(-2) =4.
+
+e Step 5: Final Solution (1 mark)
+a(t) = 4e-?# — 2e5t
 --- page 12 ---
 exes
 BO (ante Bax — @FY- mi JA8 = S
@@ -13827,6 +14515,17 @@ CO-2;   (b)   Let T : R 2 → R 2 be a linear map where T ( 1,1 ) = ( 2,0 ) and 
 SO-1;
 BL-Low   Find the transformation T ( x , y ) . Using this transformation find T ( 4, − 3 ) .
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+(1.5M) (15M)
+10 -1 2) se,-2r,[1 9 2 2)a,sr,-r, ft 9 1 2
+21 2 1 2 01 4 -3 . 01 4 -3
+41 0 Sle .p4p,|9 1 * -3lp cpp, |9 9 9
+01 4 -3 01 4 -3 000 0
+
+Hence rank of matrix is 2. (aM)
 --- page 2 ---
 aE TON=(2,¢, TA-D0,4)
 BiAN= Cyo)s (1)
@@ -13879,6 +14578,28 @@ Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in a
 CO-6;   junction. Using Kirchhoff ’s laws, the following system of linear   [6]
 SO-2;   equations is obtained
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Sol.: > (D® + 3D? — 4)y =0
+
+Auxiliary equation is: m? + 3m? — 4 = 0.......0 [Mark=1]
+
+By hit and trial (m — 1) is a factor of D
+
+., D May be rewritten as
+
+m> — m? + 4m? — 4m +4m—4=0
+
+=> m?(m—1) + 4m(m — 1) + 4(m— 1) =0
+=> (m? + 4m + 4)(m—1) =0
+
+=> (m+ 2)(m + 2)(m—1) =0
+=>m=1,-2,-2 [Marka]
+C.F. = ce” + (c2 + c3x)e 2"
+
+Since F(z) = 0, solution is given by y = C.F.
+
+=> y=cie” + (c2 + c3a)e** (Mark=2]
 --- page 4 ---
 BL-Low   i 1 + i 2 + i 3 = 7; i 1 − 2 i 2 + i 3 = 1; 2 i 1 + i 2 + 3 i 3 = 12 .
 Find the values of the currents i 1 , i 2 , i 3 .
@@ -14080,6 +14801,30 @@ CO-3;   (b)
 SO-1;   Solve: ( 3 xy 2 − y 3 ) dx − ( 2 x 2 y − xy 2 ) dy = 0 .   [6]
 BL-High
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+e Step 1: Auxiliary Equation (1 mark)
+Set m? +7m+10=0.
+(m+5)(m+2)=0 => m, =—5,my = -2.
+
+¢ Step 2: General Solution (1 mark)
+z(t) = Cye~** + Cye~*#
+
+¢ Step 3: Apply Initial Conditions (1 mark)
+z(0) =2 = C,+C,=2
+Differentiating: 2’(t) = —5Cye~*t — 2Cye~*t
+z'(0) =2 = -5C) -2C,) =2
+
+¢ Step 4: Solve for Constants (2 marks)
+From the first equation: C, = 2—-(C\.
+Substitute into the second: —5C; — 2(2-C,)=2 =» -3C, =6 =>
+Cy = -2.
+Then Cy = 2—(-2) =4.
+
+e Step 5: Final Solution (1 mark)
+a(t) = 4e-?# — 2e5t
 --- page 12 ---
 exes
 BO (ante Bax — @FY- mi JA8 = S
@@ -14337,6 +15082,17 @@ CO-2;   (b)   Let T : R 2 → R 2 be a linear map where T ( 1,1 ) = ( 2,0 ) and 
 SO-1;
 BL-Low   Find the transformation T ( x , y ) . Using this transformation find T ( 4, − 3 ) .
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+(1.5M) (15M)
+10 -1 2) se,-2r,[1 9 2 2)a,sr,-r, ft 9 1 2
+21 2 1 2 01 4 -3 . 01 4 -3
+41 0 Sle .p4p,|9 1 * -3lp cpp, |9 9 9
+01 4 -3 01 4 -3 000 0
+
+Hence rank of matrix is 2. (aM)
 --- page 2 ---
 aE TON=(2,¢, TA-D0,4)
 BiAN= Cyo)s (1)
@@ -14389,6 +15145,28 @@ Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in a
 CO-6;   junction. Using Kirchhoff ’s laws, the following system of linear   [6]
 SO-2;   equations is obtained
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Sol.: > (D® + 3D? — 4)y =0
+
+Auxiliary equation is: m? + 3m? — 4 = 0.......0 [Mark=1]
+
+By hit and trial (m — 1) is a factor of D
+
+., D May be rewritten as
+
+m> — m? + 4m? — 4m +4m—4=0
+
+=> m?(m—1) + 4m(m — 1) + 4(m— 1) =0
+=> (m? + 4m + 4)(m—1) =0
+
+=> (m+ 2)(m + 2)(m—1) =0
+=>m=1,-2,-2 [Marka]
+C.F. = ce” + (c2 + c3x)e 2"
+
+Since F(z) = 0, solution is given by y = C.F.
+
+=> y=cie” + (c2 + c3a)e** (Mark=2]
 --- page 4 ---
 BL-Low   i 1 + i 2 + i 3 = 7; i 1 − 2 i 2 + i 3 = 1; 2 i 1 + i 2 + 3 i 3 = 12 .
 Find the values of the currents i 1 , i 2 , i 3 .
@@ -14590,6 +15368,30 @@ CO-3;   (b)
 SO-1;   Solve: ( 3 xy 2 − y 3 ) dx − ( 2 x 2 y − xy 2 ) dy = 0 .   [6]
 BL-High
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+e Step 1: Auxiliary Equation (1 mark)
+Set m? +7m+10=0.
+(m+5)(m+2)=0 => m, =—5,my = -2.
+
+¢ Step 2: General Solution (1 mark)
+z(t) = Cye~** + Cye~*#
+
+¢ Step 3: Apply Initial Conditions (1 mark)
+z(0) =2 = C,+C,=2
+Differentiating: 2’(t) = —5Cye~*t — 2Cye~*t
+z'(0) =2 = -5C) -2C,) =2
+
+¢ Step 4: Solve for Constants (2 marks)
+From the first equation: C, = 2—-(C\.
+Substitute into the second: —5C; — 2(2-C,)=2 =» -3C, =6 =>
+Cy = -2.
+Then Cy = 2—(-2) =4.
+
+e Step 5: Final Solution (1 mark)
+a(t) = 4e-?# — 2e5t
 --- page 12 ---
 exes
 BO (ante Bax — @FY- mi JA8 = S
@@ -14847,6 +15649,17 @@ CO-2;   (b)   Let T : R 2 → R 2 be a linear map where T ( 1,1 ) = ( 2,0 ) and 
 SO-1;
 BL-Low   Find the transformation T ( x , y ) . Using this transformation find T ( 4, − 3 ) .
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+(1.5M) (15M)
+10 -1 2) se,-2r,[1 9 2 2)a,sr,-r, ft 9 1 2
+21 2 1 2 01 4 -3 . 01 4 -3
+41 0 Sle .p4p,|9 1 * -3lp cpp, |9 9 9
+01 4 -3 01 4 -3 000 0
+
+Hence rank of matrix is 2. (aM)
 --- page 2 ---
 aE TON=(2,¢, TA-D0,4)
 BiAN= Cyo)s (1)
@@ -14899,6 +15712,28 @@ Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in a
 CO-6;   junction. Using Kirchhoff ’s laws, the following system of linear   [6]
 SO-2;   equations is obtained
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Sol.: > (D® + 3D? — 4)y =0
+
+Auxiliary equation is: m? + 3m? — 4 = 0.......0 [Mark=1]
+
+By hit and trial (m — 1) is a factor of D
+
+., D May be rewritten as
+
+m> — m? + 4m? — 4m +4m—4=0
+
+=> m?(m—1) + 4m(m — 1) + 4(m— 1) =0
+=> (m? + 4m + 4)(m—1) =0
+
+=> (m+ 2)(m + 2)(m—1) =0
+=>m=1,-2,-2 [Marka]
+C.F. = ce” + (c2 + c3x)e 2"
+
+Since F(z) = 0, solution is given by y = C.F.
+
+=> y=cie” + (c2 + c3a)e** (Mark=2]
 --- page 4 ---
 BL-Low   i 1 + i 2 + i 3 = 7; i 1 − 2 i 2 + i 3 = 1; 2 i 1 + i 2 + 3 i 3 = 12 .
 Find the values of the currents i 1 , i 2 , i 3 .
@@ -15100,6 +15935,30 @@ CO-3;   (b)
 SO-1;   Solve: ( 3 xy 2 − y 3 ) dx − ( 2 x 2 y − xy 2 ) dy = 0 .   [6]
 BL-High
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+e Step 1: Auxiliary Equation (1 mark)
+Set m? +7m+10=0.
+(m+5)(m+2)=0 => m, =—5,my = -2.
+
+¢ Step 2: General Solution (1 mark)
+z(t) = Cye~** + Cye~*#
+
+¢ Step 3: Apply Initial Conditions (1 mark)
+z(0) =2 = C,+C,=2
+Differentiating: 2’(t) = —5Cye~*t — 2Cye~*t
+z'(0) =2 = -5C) -2C,) =2
+
+¢ Step 4: Solve for Constants (2 marks)
+From the first equation: C, = 2—-(C\.
+Substitute into the second: —5C; — 2(2-C,)=2 =» -3C, =6 =>
+Cy = -2.
+Then Cy = 2—(-2) =4.
+
+e Step 5: Final Solution (1 mark)
+a(t) = 4e-?# — 2e5t
 --- page 12 ---
 exes
 BO (ante Bax — @FY- mi JA8 = S
@@ -15357,6 +16216,17 @@ CO-2;   (b)   Let T : R 2 → R 2 be a linear map where T ( 1,1 ) = ( 2,0 ) and 
 SO-1;
 BL-Low   Find the transformation T ( x , y ) . Using this transformation find T ( 4, − 3 ) .
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+(1.5M) (15M)
+10 -1 2) se,-2r,[1 9 2 2)a,sr,-r, ft 9 1 2
+21 2 1 2 01 4 -3 . 01 4 -3
+41 0 Sle .p4p,|9 1 * -3lp cpp, |9 9 9
+01 4 -3 01 4 -3 000 0
+
+Hence rank of matrix is 2. (aM)
 --- page 2 ---
 aE TON=(2,¢, TA-D0,4)
 BiAN= Cyo)s (1)
@@ -15409,6 +16279,28 @@ Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in a
 CO-6;   junction. Using Kirchhoff ’s laws, the following system of linear   [6]
 SO-2;   equations is obtained
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Sol.: > (D® + 3D? — 4)y =0
+
+Auxiliary equation is: m? + 3m? — 4 = 0.......0 [Mark=1]
+
+By hit and trial (m — 1) is a factor of D
+
+., D May be rewritten as
+
+m> — m? + 4m? — 4m +4m—4=0
+
+=> m?(m—1) + 4m(m — 1) + 4(m— 1) =0
+=> (m? + 4m + 4)(m—1) =0
+
+=> (m+ 2)(m + 2)(m—1) =0
+=>m=1,-2,-2 [Marka]
+C.F. = ce” + (c2 + c3x)e 2"
+
+Since F(z) = 0, solution is given by y = C.F.
+
+=> y=cie” + (c2 + c3a)e** (Mark=2]
 --- page 4 ---
 BL-Low   i 1 + i 2 + i 3 = 7; i 1 − 2 i 2 + i 3 = 1; 2 i 1 + i 2 + 3 i 3 = 12 .
 Find the values of the currents i 1 , i 2 , i 3 .
@@ -15610,6 +16502,30 @@ CO-3;   (b)
 SO-1;   Solve: ( 3 xy 2 − y 3 ) dx − ( 2 x 2 y − xy 2 ) dy = 0 .   [6]
 BL-High
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+e Step 1: Auxiliary Equation (1 mark)
+Set m? +7m+10=0.
+(m+5)(m+2)=0 => m, =—5,my = -2.
+
+¢ Step 2: General Solution (1 mark)
+z(t) = Cye~** + Cye~*#
+
+¢ Step 3: Apply Initial Conditions (1 mark)
+z(0) =2 = C,+C,=2
+Differentiating: 2’(t) = —5Cye~*t — 2Cye~*t
+z'(0) =2 = -5C) -2C,) =2
+
+¢ Step 4: Solve for Constants (2 marks)
+From the first equation: C, = 2—-(C\.
+Substitute into the second: —5C; — 2(2-C,)=2 =» -3C, =6 =>
+Cy = -2.
+Then Cy = 2—(-2) =4.
+
+e Step 5: Final Solution (1 mark)
+a(t) = 4e-?# — 2e5t
 --- page 12 ---
 exes
 BO (ante Bax — @FY- mi JA8 = S
@@ -15867,6 +16783,17 @@ CO-2;   (b)   Let T : R 2 → R 2 be a linear map where T ( 1,1 ) = ( 2,0 ) and 
 SO-1;
 BL-Low   Find the transformation T ( x , y ) . Using this transformation find T ( 4, − 3 ) .
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+(1.5M) (15M)
+10 -1 2) se,-2r,[1 9 2 2)a,sr,-r, ft 9 1 2
+21 2 1 2 01 4 -3 . 01 4 -3
+41 0 Sle .p4p,|9 1 * -3lp cpp, |9 9 9
+01 4 -3 01 4 -3 000 0
+
+Hence rank of matrix is 2. (aM)
 --- page 2 ---
 aE TON=(2,¢, TA-D0,4)
 BiAN= Cyo)s (1)
@@ -15919,6 +16846,28 @@ Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in a
 CO-6;   junction. Using Kirchhoff ’s laws, the following system of linear   [6]
 SO-2;   equations is obtained
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Sol.: > (D® + 3D? — 4)y =0
+
+Auxiliary equation is: m? + 3m? — 4 = 0.......0 [Mark=1]
+
+By hit and trial (m — 1) is a factor of D
+
+., D May be rewritten as
+
+m> — m? + 4m? — 4m +4m—4=0
+
+=> m?(m—1) + 4m(m — 1) + 4(m— 1) =0
+=> (m? + 4m + 4)(m—1) =0
+
+=> (m+ 2)(m + 2)(m—1) =0
+=>m=1,-2,-2 [Marka]
+C.F. = ce” + (c2 + c3x)e 2"
+
+Since F(z) = 0, solution is given by y = C.F.
+
+=> y=cie” + (c2 + c3a)e** (Mark=2]
 --- page 4 ---
 BL-Low   i 1 + i 2 + i 3 = 7; i 1 − 2 i 2 + i 3 = 1; 2 i 1 + i 2 + 3 i 3 = 12 .
 Find the values of the currents i 1 , i 2 , i 3 .
@@ -16120,6 +17069,30 @@ CO-3;   (b)
 SO-1;   Solve: ( 3 xy 2 − y 3 ) dx − ( 2 x 2 y − xy 2 ) dy = 0 .   [6]
 BL-High
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+e Step 1: Auxiliary Equation (1 mark)
+Set m? +7m+10=0.
+(m+5)(m+2)=0 => m, =—5,my = -2.
+
+¢ Step 2: General Solution (1 mark)
+z(t) = Cye~** + Cye~*#
+
+¢ Step 3: Apply Initial Conditions (1 mark)
+z(0) =2 = C,+C,=2
+Differentiating: 2’(t) = —5Cye~*t — 2Cye~*t
+z'(0) =2 = -5C) -2C,) =2
+
+¢ Step 4: Solve for Constants (2 marks)
+From the first equation: C, = 2—-(C\.
+Substitute into the second: —5C; — 2(2-C,)=2 =» -3C, =6 =>
+Cy = -2.
+Then Cy = 2—(-2) =4.
+
+e Step 5: Final Solution (1 mark)
+a(t) = 4e-?# — 2e5t
 --- page 12 ---
 exes
 BO (ante Bax — @FY- mi JA8 = S
@@ -16377,6 +17350,17 @@ CO-2;   (b)   Let T : R 2 → R 2 be a linear map where T ( 1,1 ) = ( 2,0 ) and 
 SO-1;
 BL-Low   Find the transformation T ( x , y ) . Using this transformation find T ( 4, − 3 ) .
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+(1.5M) (15M)
+10 -1 2) se,-2r,[1 9 2 2)a,sr,-r, ft 9 1 2
+21 2 1 2 01 4 -3 . 01 4 -3
+41 0 Sle .p4p,|9 1 * -3lp cpp, |9 9 9
+01 4 -3 01 4 -3 000 0
+
+Hence rank of matrix is 2. (aM)
 --- page 2 ---
 aE TON=(2,¢, TA-D0,4)
 BiAN= Cyo)s (1)
@@ -16429,6 +17413,28 @@ Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in a
 CO-6;   junction. Using Kirchhoff ’s laws, the following system of linear   [6]
 SO-2;   equations is obtained
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Sol.: > (D® + 3D? — 4)y =0
+
+Auxiliary equation is: m? + 3m? — 4 = 0.......0 [Mark=1]
+
+By hit and trial (m — 1) is a factor of D
+
+., D May be rewritten as
+
+m> — m? + 4m? — 4m +4m—4=0
+
+=> m?(m—1) + 4m(m — 1) + 4(m— 1) =0
+=> (m? + 4m + 4)(m—1) =0
+
+=> (m+ 2)(m + 2)(m—1) =0
+=>m=1,-2,-2 [Marka]
+C.F. = ce” + (c2 + c3x)e 2"
+
+Since F(z) = 0, solution is given by y = C.F.
+
+=> y=cie” + (c2 + c3a)e** (Mark=2]
 --- page 4 ---
 BL-Low   i 1 + i 2 + i 3 = 7; i 1 − 2 i 2 + i 3 = 1; 2 i 1 + i 2 + 3 i 3 = 12 .
 Find the values of the currents i 1 , i 2 , i 3 .
@@ -16630,6 +17636,30 @@ CO-3;   (b)
 SO-1;   Solve: ( 3 xy 2 − y 3 ) dx − ( 2 x 2 y − xy 2 ) dy = 0 .   [6]
 BL-High
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+e Step 1: Auxiliary Equation (1 mark)
+Set m? +7m+10=0.
+(m+5)(m+2)=0 => m, =—5,my = -2.
+
+¢ Step 2: General Solution (1 mark)
+z(t) = Cye~** + Cye~*#
+
+¢ Step 3: Apply Initial Conditions (1 mark)
+z(0) =2 = C,+C,=2
+Differentiating: 2’(t) = —5Cye~*t — 2Cye~*t
+z'(0) =2 = -5C) -2C,) =2
+
+¢ Step 4: Solve for Constants (2 marks)
+From the first equation: C, = 2—-(C\.
+Substitute into the second: —5C; — 2(2-C,)=2 =» -3C, =6 =>
+Cy = -2.
+Then Cy = 2—(-2) =4.
+
+e Step 5: Final Solution (1 mark)
+a(t) = 4e-?# — 2e5t
 --- page 12 ---
 exes
 BO (ante Bax — @FY- mi JA8 = S
@@ -16887,6 +17917,17 @@ CO-2;   (b)   Let T : R 2 → R 2 be a linear map where T ( 1,1 ) = ( 2,0 ) and 
 SO-1;
 BL-Low   Find the transformation T ( x , y ) . Using this transformation find T ( 4, − 3 ) .
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+(1.5M) (15M)
+10 -1 2) se,-2r,[1 9 2 2)a,sr,-r, ft 9 1 2
+21 2 1 2 01 4 -3 . 01 4 -3
+41 0 Sle .p4p,|9 1 * -3lp cpp, |9 9 9
+01 4 -3 01 4 -3 000 0
+
+Hence rank of matrix is 2. (aM)
 --- page 2 ---
 aE TON=(2,¢, TA-D0,4)
 BiAN= Cyo)s (1)
@@ -16939,6 +17980,28 @@ Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in a
 CO-6;   junction. Using Kirchhoff ’s laws, the following system of linear   [6]
 SO-2;   equations is obtained
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Sol.: > (D® + 3D? — 4)y =0
+
+Auxiliary equation is: m? + 3m? — 4 = 0.......0 [Mark=1]
+
+By hit and trial (m — 1) is a factor of D
+
+., D May be rewritten as
+
+m> — m? + 4m? — 4m +4m—4=0
+
+=> m?(m—1) + 4m(m — 1) + 4(m— 1) =0
+=> (m? + 4m + 4)(m—1) =0
+
+=> (m+ 2)(m + 2)(m—1) =0
+=>m=1,-2,-2 [Marka]
+C.F. = ce” + (c2 + c3x)e 2"
+
+Since F(z) = 0, solution is given by y = C.F.
+
+=> y=cie” + (c2 + c3a)e** (Mark=2]
 --- page 4 ---
 BL-Low   i 1 + i 2 + i 3 = 7; i 1 − 2 i 2 + i 3 = 1; 2 i 1 + i 2 + 3 i 3 = 12 .
 Find the values of the currents i 1 , i 2 , i 3 .
@@ -17140,6 +18203,30 @@ CO-3;   (b)
 SO-1;   Solve: ( 3 xy 2 − y 3 ) dx − ( 2 x 2 y − xy 2 ) dy = 0 .   [6]
 BL-High
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+e Step 1: Auxiliary Equation (1 mark)
+Set m? +7m+10=0.
+(m+5)(m+2)=0 => m, =—5,my = -2.
+
+¢ Step 2: General Solution (1 mark)
+z(t) = Cye~** + Cye~*#
+
+¢ Step 3: Apply Initial Conditions (1 mark)
+z(0) =2 = C,+C,=2
+Differentiating: 2’(t) = —5Cye~*t — 2Cye~*t
+z'(0) =2 = -5C) -2C,) =2
+
+¢ Step 4: Solve for Constants (2 marks)
+From the first equation: C, = 2—-(C\.
+Substitute into the second: —5C; — 2(2-C,)=2 =» -3C, =6 =>
+Cy = -2.
+Then Cy = 2—(-2) =4.
+
+e Step 5: Final Solution (1 mark)
+a(t) = 4e-?# — 2e5t
 --- page 12 ---
 exes
 BO (ante Bax — @FY- mi JA8 = S
@@ -17397,6 +18484,17 @@ CO-2;   (b)   Let T : R 2 → R 2 be a linear map where T ( 1,1 ) = ( 2,0 ) and 
 SO-1;
 BL-Low   Find the transformation T ( x , y ) . Using this transformation find T ( 4, − 3 ) .
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+(1.5M) (15M)
+10 -1 2) se,-2r,[1 9 2 2)a,sr,-r, ft 9 1 2
+21 2 1 2 01 4 -3 . 01 4 -3
+41 0 Sle .p4p,|9 1 * -3lp cpp, |9 9 9
+01 4 -3 01 4 -3 000 0
+
+Hence rank of matrix is 2. (aM)
 --- page 2 ---
 aE TON=(2,¢, TA-D0,4)
 BiAN= Cyo)s (1)
@@ -17449,6 +18547,28 @@ Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in a
 CO-6;   junction. Using Kirchhoff ’s laws, the following system of linear   [6]
 SO-2;   equations is obtained
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Sol.: > (D® + 3D? — 4)y =0
+
+Auxiliary equation is: m? + 3m? — 4 = 0.......0 [Mark=1]
+
+By hit and trial (m — 1) is a factor of D
+
+., D May be rewritten as
+
+m> — m? + 4m? — 4m +4m—4=0
+
+=> m?(m—1) + 4m(m — 1) + 4(m— 1) =0
+=> (m? + 4m + 4)(m—1) =0
+
+=> (m+ 2)(m + 2)(m—1) =0
+=>m=1,-2,-2 [Marka]
+C.F. = ce” + (c2 + c3x)e 2"
+
+Since F(z) = 0, solution is given by y = C.F.
+
+=> y=cie” + (c2 + c3a)e** (Mark=2]
 --- page 4 ---
 BL-Low   i 1 + i 2 + i 3 = 7; i 1 − 2 i 2 + i 3 = 1; 2 i 1 + i 2 + 3 i 3 = 12 .
 Find the values of the currents i 1 , i 2 , i 3 .
@@ -17650,6 +18770,30 @@ CO-3;   (b)
 SO-1;   Solve: ( 3 xy 2 − y 3 ) dx − ( 2 x 2 y − xy 2 ) dy = 0 .   [6]
 BL-High
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+e Step 1: Auxiliary Equation (1 mark)
+Set m? +7m+10=0.
+(m+5)(m+2)=0 => m, =—5,my = -2.
+
+¢ Step 2: General Solution (1 mark)
+z(t) = Cye~** + Cye~*#
+
+¢ Step 3: Apply Initial Conditions (1 mark)
+z(0) =2 = C,+C,=2
+Differentiating: 2’(t) = —5Cye~*t — 2Cye~*t
+z'(0) =2 = -5C) -2C,) =2
+
+¢ Step 4: Solve for Constants (2 marks)
+From the first equation: C, = 2—-(C\.
+Substitute into the second: —5C; — 2(2-C,)=2 =» -3C, =6 =>
+Cy = -2.
+Then Cy = 2—(-2) =4.
+
+e Step 5: Final Solution (1 mark)
+a(t) = 4e-?# — 2e5t
 --- page 12 ---
 exes
 BO (ante Bax — @FY- mi JA8 = S
@@ -17907,6 +19051,17 @@ CO-2;   (b)   Let T : R 2 → R 2 be a linear map where T ( 1,1 ) = ( 2,0 ) and 
 SO-1;
 BL-Low   Find the transformation T ( x , y ) . Using this transformation find T ( 4, − 3 ) .
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+(1.5M) (15M)
+10 -1 2) se,-2r,[1 9 2 2)a,sr,-r, ft 9 1 2
+21 2 1 2 01 4 -3 . 01 4 -3
+41 0 Sle .p4p,|9 1 * -3lp cpp, |9 9 9
+01 4 -3 01 4 -3 000 0
+
+Hence rank of matrix is 2. (aM)
 --- page 2 ---
 aE TON=(2,¢, TA-D0,4)
 BiAN= Cyo)s (1)
@@ -17959,6 +19114,28 @@ Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in a
 CO-6;   junction. Using Kirchhoff ’s laws, the following system of linear   [6]
 SO-2;   equations is obtained
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Sol.: > (D® + 3D? — 4)y =0
+
+Auxiliary equation is: m? + 3m? — 4 = 0.......0 [Mark=1]
+
+By hit and trial (m — 1) is a factor of D
+
+., D May be rewritten as
+
+m> — m? + 4m? — 4m +4m—4=0
+
+=> m?(m—1) + 4m(m — 1) + 4(m— 1) =0
+=> (m? + 4m + 4)(m—1) =0
+
+=> (m+ 2)(m + 2)(m—1) =0
+=>m=1,-2,-2 [Marka]
+C.F. = ce” + (c2 + c3x)e 2"
+
+Since F(z) = 0, solution is given by y = C.F.
+
+=> y=cie” + (c2 + c3a)e** (Mark=2]
 --- page 4 ---
 BL-Low   i 1 + i 2 + i 3 = 7; i 1 − 2 i 2 + i 3 = 1; 2 i 1 + i 2 + 3 i 3 = 12 .
 Find the values of the currents i 1 , i 2 , i 3 .
@@ -18160,6 +19337,30 @@ CO-3;   (b)
 SO-1;   Solve: ( 3 xy 2 − y 3 ) dx − ( 2 x 2 y − xy 2 ) dy = 0 .   [6]
 BL-High
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+e Step 1: Auxiliary Equation (1 mark)
+Set m? +7m+10=0.
+(m+5)(m+2)=0 => m, =—5,my = -2.
+
+¢ Step 2: General Solution (1 mark)
+z(t) = Cye~** + Cye~*#
+
+¢ Step 3: Apply Initial Conditions (1 mark)
+z(0) =2 = C,+C,=2
+Differentiating: 2’(t) = —5Cye~*t — 2Cye~*t
+z'(0) =2 = -5C) -2C,) =2
+
+¢ Step 4: Solve for Constants (2 marks)
+From the first equation: C, = 2—-(C\.
+Substitute into the second: —5C; — 2(2-C,)=2 =» -3C, =6 =>
+Cy = -2.
+Then Cy = 2—(-2) =4.
+
+e Step 5: Final Solution (1 mark)
+a(t) = 4e-?# — 2e5t
 --- page 12 ---
 exes
 BO (ante Bax — @FY- mi JA8 = S
@@ -18417,6 +19618,17 @@ CO-2;   (b)   Let T : R 2 → R 2 be a linear map where T ( 1,1 ) = ( 2,0 ) and 
 SO-1;
 BL-Low   Find the transformation T ( x , y ) . Using this transformation find T ( 4, − 3 ) .
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+(1.5M) (15M)
+10 -1 2) se,-2r,[1 9 2 2)a,sr,-r, ft 9 1 2
+21 2 1 2 01 4 -3 . 01 4 -3
+41 0 Sle .p4p,|9 1 * -3lp cpp, |9 9 9
+01 4 -3 01 4 -3 000 0
+
+Hence rank of matrix is 2. (aM)
 --- page 2 ---
 aE TON=(2,¢, TA-D0,4)
 BiAN= Cyo)s (1)
@@ -18469,6 +19681,28 @@ Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in a
 CO-6;   junction. Using Kirchhoff ’s laws, the following system of linear   [6]
 SO-2;   equations is obtained
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Sol.: > (D® + 3D? — 4)y =0
+
+Auxiliary equation is: m? + 3m? — 4 = 0.......0 [Mark=1]
+
+By hit and trial (m — 1) is a factor of D
+
+., D May be rewritten as
+
+m> — m? + 4m? — 4m +4m—4=0
+
+=> m?(m—1) + 4m(m — 1) + 4(m— 1) =0
+=> (m? + 4m + 4)(m—1) =0
+
+=> (m+ 2)(m + 2)(m—1) =0
+=>m=1,-2,-2 [Marka]
+C.F. = ce” + (c2 + c3x)e 2"
+
+Since F(z) = 0, solution is given by y = C.F.
+
+=> y=cie” + (c2 + c3a)e** (Mark=2]
 --- page 4 ---
 BL-Low   i 1 + i 2 + i 3 = 7; i 1 − 2 i 2 + i 3 = 1; 2 i 1 + i 2 + 3 i 3 = 12 .
 Find the values of the currents i 1 , i 2 , i 3 .
@@ -18670,6 +19904,30 @@ CO-3;   (b)
 SO-1;   Solve: ( 3 xy 2 − y 3 ) dx − ( 2 x 2 y − xy 2 ) dy = 0 .   [6]
 BL-High
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+e Step 1: Auxiliary Equation (1 mark)
+Set m? +7m+10=0.
+(m+5)(m+2)=0 => m, =—5,my = -2.
+
+¢ Step 2: General Solution (1 mark)
+z(t) = Cye~** + Cye~*#
+
+¢ Step 3: Apply Initial Conditions (1 mark)
+z(0) =2 = C,+C,=2
+Differentiating: 2’(t) = —5Cye~*t — 2Cye~*t
+z'(0) =2 = -5C) -2C,) =2
+
+¢ Step 4: Solve for Constants (2 marks)
+From the first equation: C, = 2—-(C\.
+Substitute into the second: —5C; — 2(2-C,)=2 =» -3C, =6 =>
+Cy = -2.
+Then Cy = 2—(-2) =4.
+
+e Step 5: Final Solution (1 mark)
+a(t) = 4e-?# — 2e5t
 --- page 12 ---
 exes
 BO (ante Bax — @FY- mi JA8 = S
@@ -18927,6 +20185,17 @@ CO-2;   (b)   Let T : R 2 → R 2 be a linear map where T ( 1,1 ) = ( 2,0 ) and 
 SO-1;
 BL-Low   Find the transformation T ( x , y ) . Using this transformation find T ( 4, − 3 ) .
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+(1.5M) (15M)
+10 -1 2) se,-2r,[1 9 2 2)a,sr,-r, ft 9 1 2
+21 2 1 2 01 4 -3 . 01 4 -3
+41 0 Sle .p4p,|9 1 * -3lp cpp, |9 9 9
+01 4 -3 01 4 -3 000 0
+
+Hence rank of matrix is 2. (aM)
 --- page 2 ---
 aE TON=(2,¢, TA-D0,4)
 BiAN= Cyo)s (1)
@@ -18979,6 +20248,28 @@ Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in a
 CO-6;   junction. Using Kirchhoff ’s laws, the following system of linear   [6]
 SO-2;   equations is obtained
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Sol.: > (D® + 3D? — 4)y =0
+
+Auxiliary equation is: m? + 3m? — 4 = 0.......0 [Mark=1]
+
+By hit and trial (m — 1) is a factor of D
+
+., D May be rewritten as
+
+m> — m? + 4m? — 4m +4m—4=0
+
+=> m?(m—1) + 4m(m — 1) + 4(m— 1) =0
+=> (m? + 4m + 4)(m—1) =0
+
+=> (m+ 2)(m + 2)(m—1) =0
+=>m=1,-2,-2 [Marka]
+C.F. = ce” + (c2 + c3x)e 2"
+
+Since F(z) = 0, solution is given by y = C.F.
+
+=> y=cie” + (c2 + c3a)e** (Mark=2]
 --- page 4 ---
 BL-Low   i 1 + i 2 + i 3 = 7; i 1 − 2 i 2 + i 3 = 1; 2 i 1 + i 2 + 3 i 3 = 12 .
 Find the values of the currents i 1 , i 2 , i 3 .
@@ -19180,6 +20471,30 @@ CO-3;   (b)
 SO-1;   Solve: ( 3 xy 2 − y 3 ) dx − ( 2 x 2 y − xy 2 ) dy = 0 .   [6]
 BL-High
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+e Step 1: Auxiliary Equation (1 mark)
+Set m? +7m+10=0.
+(m+5)(m+2)=0 => m, =—5,my = -2.
+
+¢ Step 2: General Solution (1 mark)
+z(t) = Cye~** + Cye~*#
+
+¢ Step 3: Apply Initial Conditions (1 mark)
+z(0) =2 = C,+C,=2
+Differentiating: 2’(t) = —5Cye~*t — 2Cye~*t
+z'(0) =2 = -5C) -2C,) =2
+
+¢ Step 4: Solve for Constants (2 marks)
+From the first equation: C, = 2—-(C\.
+Substitute into the second: —5C; — 2(2-C,)=2 =» -3C, =6 =>
+Cy = -2.
+Then Cy = 2—(-2) =4.
+
+e Step 5: Final Solution (1 mark)
+a(t) = 4e-?# — 2e5t
 --- page 12 ---
 exes
 BO (ante Bax — @FY- mi JA8 = S
@@ -19437,6 +20752,17 @@ CO-2;   (b)   Let T : R 2 → R 2 be a linear map where T ( 1,1 ) = ( 2,0 ) and 
 SO-1;
 BL-Low   Find the transformation T ( x , y ) . Using this transformation find T ( 4, − 3 ) .
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+(1.5M) (15M)
+10 -1 2) se,-2r,[1 9 2 2)a,sr,-r, ft 9 1 2
+21 2 1 2 01 4 -3 . 01 4 -3
+41 0 Sle .p4p,|9 1 * -3lp cpp, |9 9 9
+01 4 -3 01 4 -3 000 0
+
+Hence rank of matrix is 2. (aM)
 --- page 2 ---
 aE TON=(2,¢, TA-D0,4)
 BiAN= Cyo)s (1)
@@ -19489,6 +20815,28 @@ Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in a
 CO-6;   junction. Using Kirchhoff ’s laws, the following system of linear   [6]
 SO-2;   equations is obtained
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Sol.: > (D® + 3D? — 4)y =0
+
+Auxiliary equation is: m? + 3m? — 4 = 0.......0 [Mark=1]
+
+By hit and trial (m — 1) is a factor of D
+
+., D May be rewritten as
+
+m> — m? + 4m? — 4m +4m—4=0
+
+=> m?(m—1) + 4m(m — 1) + 4(m— 1) =0
+=> (m? + 4m + 4)(m—1) =0
+
+=> (m+ 2)(m + 2)(m—1) =0
+=>m=1,-2,-2 [Marka]
+C.F. = ce” + (c2 + c3x)e 2"
+
+Since F(z) = 0, solution is given by y = C.F.
+
+=> y=cie” + (c2 + c3a)e** (Mark=2]
 --- page 4 ---
 BL-Low   i 1 + i 2 + i 3 = 7; i 1 − 2 i 2 + i 3 = 1; 2 i 1 + i 2 + 3 i 3 = 12 .
 Find the values of the currents i 1 , i 2 , i 3 .
@@ -19690,6 +21038,30 @@ CO-3;   (b)
 SO-1;   Solve: ( 3 xy 2 − y 3 ) dx − ( 2 x 2 y − xy 2 ) dy = 0 .   [6]
 BL-High
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+e Step 1: Auxiliary Equation (1 mark)
+Set m? +7m+10=0.
+(m+5)(m+2)=0 => m, =—5,my = -2.
+
+¢ Step 2: General Solution (1 mark)
+z(t) = Cye~** + Cye~*#
+
+¢ Step 3: Apply Initial Conditions (1 mark)
+z(0) =2 = C,+C,=2
+Differentiating: 2’(t) = —5Cye~*t — 2Cye~*t
+z'(0) =2 = -5C) -2C,) =2
+
+¢ Step 4: Solve for Constants (2 marks)
+From the first equation: C, = 2—-(C\.
+Substitute into the second: —5C; — 2(2-C,)=2 =» -3C, =6 =>
+Cy = -2.
+Then Cy = 2—(-2) =4.
+
+e Step 5: Final Solution (1 mark)
+a(t) = 4e-?# — 2e5t
 --- page 12 ---
 exes
 BO (ante Bax — @FY- mi JA8 = S
@@ -20000,6 +21372,29 @@ SO-2;
 equations is obtained
 BL-Low
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Sol.: + (D? + 3D? — 4)y =0
+
+Auxiliary equation is: m + 3m? —4=0......D [Mark=1]
+
+By hit and trial (m — 1) is a factor of ©
+
+.. D May be rewritten as
+
+m3 —m? + 4m? — 4m + 4m —4=0
+
+=> m?(m— 1) + 4m(m— 1) + 4(m— 1) =0
+=> (m? + 4m + 4)(m—1) =0
+
+=> (m+ 2)(m + 2)(m—1) =0
+
+=> m=1,-2,-2 [Mark
+C.F. = ce” + (c2 + c3a)e**
+
+Since F(x) = 0, solution is given by y = C.F.
+
+> y=cie" + (eo + c32)e [Mark-2]
 --- page 4 ---
 i 1 + i 2 + i 3 = 7; i 1 − 2 i 2 + i 3 = 1; 2 i 1 + i 2 + 3 i 3 = 12 .
 Find the values of the currents i 1 , i 2 , i 3 .
@@ -20015,6 +21410,22 @@ SO-2;
 BL-   Use variation of parameters method to solve ( D 2 + 1 ) y = cos ecx .   [8]
 Moderate
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+1 1 fh 7
+Solution: Let AX = B,i.e.,|1 —2 1]|i2|}=| 1 |. Therefor (iM)
+2 1 3)lis 12.
+
+[A|B]
+1 1 1 77)R27R2-R ft 1 1 7 ~ 1 117
+=/1 -2 1 1 ~ 0 -3 0 -6/z,4R,—R,/3|9 —3 9 -6
+2 1 3 12]/R3;>%R3;-2R,l0 -1 1 -2 “lo 0 1 0
+Hence GM)
+iptigt+iz =7
+-3i, =-6 >i, =5,i,=2&i;=0 (2M)
+i, =0
+
+The values of the currents are i; = 5,i. = 2&i3; =0.
 --- page 5 ---
 Solution: The given Differential equation is
 
@@ -20205,6 +21616,33 @@ CO-3;   (b)
 SO-1;   Solve: ( 3 xy 2 − y 3 ) dx − ( 2 x 2 y − xy 2 ) dy = 0 .   [6]
 BL-High
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+e Step 1: Auxiliary Equation (1 mark)
+Set m?+7m+10=0.
+(m+5)(m+2) =0 => m = -5,m2 = -2.
+
+e Step 2: General Solution (1 mark)
+x(t) = Cie + Cye~*#
+
+e Step 3: Apply Initial Conditions (1 mark)
+(0) = 2 = C+ Cy =2
+
+rem PhaX\ om —k&t amr —%
+
+pillerentlatlgs. Lb) = ~JUye — = 4U9€ ~
+x'(0) =2 = -5C; -2C,=2
+
+e Step 4: Solve for Constants (2 marks)
+From the first equation: C, = 2-C).
+Substitute into the second: —5C, — 2(2-C,)=2 => -3C,; =6 =>
+C; = -2.
+Then C, = 2- (-2) =4.
+
+¢ Step 5: Final Solution (1 mark)
+a(t) = 4e~*# — 2e~*
 --- page 12 ---
 Qe _6
 
@@ -20463,6 +21901,17 @@ CO-2;   (b)   Let T : R 2 → R 2 be a linear map where T ( 1,1 ) = ( 2,0 ) and 
 SO-1;
 BL-Low   Find the transformation T ( x , y ) . Using this transformation find T ( 4, − 3 ) .
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+(1.5M) (15M)
+10 -1 2) se,-2r,[1 9 2 2)a,sr,-r, ft 9 1 2
+21 2 1 2 01 4 -3 . 01 4 -3
+41 0 Sle .p4p,|9 1 * -3lp cpp, |9 9 9
+01 4 -3 01 4 -3 000 0
+
+Hence rank of matrix is 2. (aM)
 --- page 2 ---
 aE TON=(2,¢, TA-D0,4)
 BiAN= Cyo)s (1)
@@ -20515,6 +21964,28 @@ Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in a
 CO-6;   junction. Using Kirchhoff ’s laws, the following system of linear   [6]
 SO-2;   equations is obtained
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Sol.: > (D® + 3D? — 4)y =0
+
+Auxiliary equation is: m? + 3m? — 4 = 0.......0 [Mark=1]
+
+By hit and trial (m — 1) is a factor of D
+
+., D May be rewritten as
+
+m> — m? + 4m? — 4m +4m—4=0
+
+=> m?(m—1) + 4m(m — 1) + 4(m— 1) =0
+=> (m? + 4m + 4)(m—1) =0
+
+=> (m+ 2)(m + 2)(m—1) =0
+=>m=1,-2,-2 [Marka]
+C.F. = ce” + (c2 + c3x)e 2"
+
+Since F(z) = 0, solution is given by y = C.F.
+
+=> y=cie” + (c2 + c3a)e** (Mark=2]
 --- page 4 ---
 BL-Low   i 1 + i 2 + i 3 = 7; i 1 − 2 i 2 + i 3 = 1; 2 i 1 + i 2 + 3 i 3 = 12 .
 Find the values of the currents i 1 , i 2 , i 3 .
@@ -20716,6 +22187,30 @@ CO-3;   (b)
 SO-1;   Solve: ( 3 xy 2 − y 3 ) dx − ( 2 x 2 y − xy 2 ) dy = 0 .   [6]
 BL-High
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+e Step 1: Auxiliary Equation (1 mark)
+Set m? +7m+10=0.
+(m+5)(m+2)=0 => m, =—5,my = -2.
+
+¢ Step 2: General Solution (1 mark)
+z(t) = Cye~** + Cye~*#
+
+¢ Step 3: Apply Initial Conditions (1 mark)
+z(0) =2 = C,+C,=2
+Differentiating: 2’(t) = —5Cye~*t — 2Cye~*t
+z'(0) =2 = -5C) -2C,) =2
+
+¢ Step 4: Solve for Constants (2 marks)
+From the first equation: C, = 2—-(C\.
+Substitute into the second: —5C; — 2(2-C,)=2 =» -3C, =6 =>
+Cy = -2.
+Then Cy = 2—(-2) =4.
+
+e Step 5: Final Solution (1 mark)
+a(t) = 4e-?# — 2e5t
 --- page 12 ---
 exes
 BO (ante Bax — @FY- mi JA8 = S
@@ -20932,6 +22427,7 @@ FRR ICR 7 QI OR
 - Source: `02_Question_Papers/2025/Sem_02/Re-Exam/MBATech_Computer_7047/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2025-2026pdf_63c8c3ae`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (19 pages), mean OCR confidence 44.5
+- Damaged file: its page list is missing; the page tree was rebuilt from the 19 page objects it still holds
 - 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
@@ -20967,6 +22463,17 @@ CO -2;   (b) Let   be a linear map where T 1,1   2,0 and T 1, 1   0,4 .   [4]
 SO -1;
 BL -Low   Find the transformation T x , y . Using this transformation T find 4, 3 .
 **   **   1
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+(1.5M) (15M)
+10 -1 2) se,-2r,[1 9 2 2)a,sr,-r, ft 9 1 2
+21 2 1 2 01 4 -3 . 01 4 -3
+41 0 Sle .p4p,|9 1 * -3lp cpp, |9 9 9
+01 4 -3 01 4 -3 000 0
+
+Hence rank of matrix is 2. (aM)
 --- page 2 ---
 ab TCUN=(2,9) STUD oe, &)
 BiAN= Cyo)s (1)
@@ -21028,6 +22535,28 @@ Q2   (a) In an electrical circuit, three branch i , i currents , i (in amperes) 
 CO -6;   junction. Using Kirchhoff ’s laws, the following system of linear
 SO -2;   equations is obtained
 **   **   3
+
+[Text in pictures on this page, read by OCR]
+Sol.: > (D® + 3D? — 4)y =0
+
+Auxiliary equation is: m? + 3m? — 4 = 0.......0 [Mark=1]
+
+By hit and trial (m — 1) is a factor of D
+
+., D May be rewritten as
+
+m> — m? + 4m? — 4m +4m—4=0
+
+=> m?(m—1) + 4m(m — 1) + 4(m— 1) =0
+=> (m? + 4m + 4)(m—1) =0
+
+=> (m+ 2)(m + 2)(m—1) =0
+=>m=1,-2,-2 [Marka]
+C.F. = ce” + (c2 + c3x)e 2"
+
+Since F(z) = 0, solution is given by y = C.F.
+
+=> y=cie” + (c2 + c3a)e** (Mark=2]
 --- page 4 ---
 BL -Low   i 1   i 2   i 3 7; i 1   i 2 2 i 3   1; i 1 2 i 2   i 3 3 .
 Find the values of the currents i , i , i .
@@ -21044,6 +22573,21 @@ SO -2;
 BL -   Use variation of parameters method to D solve 2 1 y cos ecx .   [8]
 Moderate
 **   **   4
+
+[Text in pictures on this page, read by OCR]
+11 Ufa 7
+Solution: Let AX = B,i.e.,|1 —2 1|]}i2| =] 1 |. Therefor (1M)
+2 3] Lis 12
+[AlB]
+1 1 1 °7)R27R2-Ri fi 1 1 7 ~ 11317
+=|1 -21 1 ~ 0 -3 0 -6/p,4R,—R,/3]° —3 9 -6
+2 1 3 12)R3;>R3-—2R,10 -1 1 -2 0 0 1 0
+Hence GM)
+i, +i, +i; =7
+-3i, =-6 >i, =5,i)=2&i,=0 (2M)
+i; =0
+
+The values of the currents are i, = 5,i. = 2 &i; = 0.
 --- page 5 ---
 
 --- page 6 ---
@@ -21203,6 +22747,30 @@ CO -3;   (b)
 SO -1;   Solve: 3 xy 2 y 3 dx 2 x 2 y xy 2 dy 0 .   [6]
 BL -High
 **   **   11
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+e Step 1: Auxiliary Equation (1 mark)
+Set m? +7m+10=0.
+(m+5)(m+2)=0 => m, =—5,my = -2.
+
+¢ Step 2: General Solution (1 mark)
+z(t) = Cye~** + Cye~*#
+
+¢ Step 3: Apply Initial Conditions (1 mark)
+z(0) =2 = C,+C,=2
+Differentiating: 2’(t) = —5Cye~*t — 2Cye~*t
+z'(0) =2 = -5C) -2C,) =2
+
+¢ Step 4: Solve for Constants (2 marks)
+From the first equation: C, = 2—-(C\.
+Substitute into the second: —5C; — 2(2-C,)=2 =» -3C, =6 =>
+Cy = -2.
+Then Cy = 2—(-2) =4.
+
+e Step 5: Final Solution (1 mark)
+a(t) = 4e-?# — 2e5t
 --- page 12 ---
 QS \
 y= -3 We -a%s a )
@@ -21452,6 +23020,17 @@ CO-2;   (b)   Let T : R 2 → R 2 be a linear map where T ( 1,1 ) = ( 2,0 ) and 
 SO-1;
 BL-Low   Find the transformation T ( x , y ) . Using this transformation find T ( 4, − 3 ) .
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+(1.5M) (15M)
+10 -1 2) se,-2r,[1 9 2 2)a,sr,-r, ft 9 1 2
+21 2 1 2 01 4 -3 . 01 4 -3
+41 0 Sle .p4p,|9 1 * -3lp cpp, |9 9 9
+01 4 -3 01 4 -3 000 0
+
+Hence rank of matrix is 2. (aM)
 --- page 2 ---
 aE TON=(2,¢, TA-D0,4)
 BiAN= Cyo)s (1)
@@ -21504,6 +23083,28 @@ Q2   (a)   In an electrical circuit, three branch currents i 1 , i 2 , i 3 (in a
 CO-6;   junction. Using Kirchhoff ’s laws, the following system of linear   [6]
 SO-2;   equations is obtained
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Sol.: > (D® + 3D? — 4)y =0
+
+Auxiliary equation is: m? + 3m? — 4 = 0.......0 [Mark=1]
+
+By hit and trial (m — 1) is a factor of D
+
+., D May be rewritten as
+
+m> — m? + 4m? — 4m +4m—4=0
+
+=> m?(m—1) + 4m(m — 1) + 4(m— 1) =0
+=> (m? + 4m + 4)(m—1) =0
+
+=> (m+ 2)(m + 2)(m—1) =0
+=>m=1,-2,-2 [Marka]
+C.F. = ce” + (c2 + c3x)e 2"
+
+Since F(z) = 0, solution is given by y = C.F.
+
+=> y=cie” + (c2 + c3a)e** (Mark=2]
 --- page 4 ---
 BL-Low   i 1 + i 2 + i 3 = 7; i 1 − 2 i 2 + i 3 = 1; 2 i 1 + i 2 + 3 i 3 = 12 .
 Find the values of the currents i 1 , i 2 , i 3 .
@@ -21705,6 +23306,30 @@ CO-3;   (b)
 SO-1;   Solve: ( 3 xy 2 − y 3 ) dx − ( 2 x 2 y − xy 2 ) dy = 0 .   [6]
 BL-High
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Solution:
+
+e Step 1: Auxiliary Equation (1 mark)
+Set m? +7m+10=0.
+(m+5)(m+2)=0 => m, =—5,my = -2.
+
+¢ Step 2: General Solution (1 mark)
+z(t) = Cye~** + Cye~*#
+
+¢ Step 3: Apply Initial Conditions (1 mark)
+z(0) =2 = C,+C,=2
+Differentiating: 2’(t) = —5Cye~*t — 2Cye~*t
+z'(0) =2 = -5C) -2C,) =2
+
+¢ Step 4: Solve for Constants (2 marks)
+From the first equation: C, = 2—-(C\.
+Substitute into the second: —5C; — 2(2-C,)=2 =» -3C, =6 =>
+Cy = -2.
+Then Cy = 2—(-2) =4.
+
+e Step 5: Final Solution (1 mark)
+a(t) = 4e-?# — 2e5t
 --- page 12 ---
 exes
 BO (ante Bax — @FY- mi JA8 = S
@@ -36343,7 +37968,7 @@ FR ICR 7] QA HH
 - Source: `00_Original_Downloads/2024/Semester II/69329__Re-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE AND DATA SCIENCE) - 7056/Linear Algebra and Differential Equations/ANS_Re-Exam_Linear Algebra and Differential Equations(702BS0C065)_Semester II_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 44.9
-- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -36697,6 +38322,23 @@ CO-5; SO-    u  u   y   [6]
 2;BL-4   variables 4   +   = 3 u , given that u = 3 e− when x = 0.
  x  y
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Now since + i is a root of the auxiliary equation i.e., cosx itself appears in the
+complementary function, we take the form of the trial solution as
+
+y,(x) = x (Asinx + Bcosx)
+
+Substituting the value of y,(x) in the given equation, we get
+
+= 2Acosx - 2Bsinx = 2cosx
+
+Comparing the coefficients of sinx and cosx on both sides, we get
+2A =2> A = 1andB= 0.
+
+Therefore,
+
+y,(x) = xsinx
 --- page 15 ---
 Solve 42" qt = Qu pammeet aey
 
@@ -36792,7 +38434,7 @@ FRR ICR 7 6 AC OH
 - Source: `00_Original_Downloads/2024/Semester II/69329__Re-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY (DATA SCIENCE) - 7009/Linear Algebra and Differential Equations/ANS_Re-Exam_Linear Algebra and Differential Equations(702BS0C065)_Semester II_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 44.9
-- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -37146,6 +38788,23 @@ CO-5; SO-    u  u   y   [6]
 2;BL-4   variables 4   +   = 3 u , given that u = 3 e− when x = 0.
  x  y
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Now since + i is a root of the auxiliary equation i.e., cosx itself appears in the
+complementary function, we take the form of the trial solution as
+
+y,(x) = x (Asinx + Bcosx)
+
+Substituting the value of y,(x) in the given equation, we get
+
+= 2Acosx - 2Bsinx = 2cosx
+
+Comparing the coefficients of sinx and cosx on both sides, we get
+2A =2> A = 1andB= 0.
+
+Therefore,
+
+y,(x) = xsinx
 --- page 15 ---
 Solve 42" qt = Qu pammeet aey
 
@@ -37241,7 +38900,7 @@ FRR ICR 7 6 AC OH
 - Source: `00_Original_Downloads/2024/Semester II/69329__Re-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY (ELECTRONICS & TELECOMMUNICATION ENGINEERING) - 7006/Linear Algebra and Differential Equations/ANS_Re-Exam_Linear Algebra and Differential Equations(702BS0C065)_Semester II_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 44.9
-- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -37595,6 +39254,23 @@ CO-5; SO-    u  u   y   [6]
 2;BL-4   variables 4   +   = 3 u , given that u = 3 e− when x = 0.
  x  y
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Now since + i is a root of the auxiliary equation i.e., cosx itself appears in the
+complementary function, we take the form of the trial solution as
+
+y,(x) = x (Asinx + Bcosx)
+
+Substituting the value of y,(x) in the given equation, we get
+
+= 2Acosx - 2Bsinx = 2cosx
+
+Comparing the coefficients of sinx and cosx on both sides, we get
+2A =2> A = 1andB= 0.
+
+Therefore,
+
+y,(x) = xsinx
 --- page 15 ---
 Solve 42" qt = Qu pammeet aey
 
@@ -37690,7 +39366,7 @@ FRR ICR 7 6 AC OH
 - Source: `00_Original_Downloads/2024/Semester II/69329__Re-Exam__context_fixed.zip :: BACHELOR OF TECHNOLOGY - COMPUTER SCIENCE AND ENGINEERING (CYBER SECURITY) - 7010/Linear Algebra and Differential Equations/ANS_Re-Exam_Linear Algebra and Differential Equations(702BS0C065)_Semester II_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 44.9
-- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -38044,6 +39720,23 @@ CO-5; SO-    u  u   y   [6]
 2;BL-4   variables 4   +   = 3 u , given that u = 3 e− when x = 0.
  x  y
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Now since + i is a root of the auxiliary equation i.e., cosx itself appears in the
+complementary function, we take the form of the trial solution as
+
+y,(x) = x (Asinx + Bcosx)
+
+Substituting the value of y,(x) in the given equation, we get
+
+= 2Acosx - 2Bsinx = 2cosx
+
+Comparing the coefficients of sinx and cosx on both sides, we get
+2A =2> A = 1andB= 0.
+
+Therefore,
+
+y,(x) = xsinx
 --- page 15 ---
 Solve 42" qt = Qu pammeet aey
 
@@ -38139,7 +39832,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_AI_7012/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 44.9
-- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -38493,6 +40186,23 @@ CO-5; SO-    u  u   y   [6]
 2;BL-4   variables 4   +   = 3 u , given that u = 3 e− when x = 0.
  x  y
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Now since + i is a root of the auxiliary equation i.e., cosx itself appears in the
+complementary function, we take the form of the trial solution as
+
+y,(x) = x (Asinx + Bcosx)
+
+Substituting the value of y,(x) in the given equation, we get
+
+= 2Acosx - 2Bsinx = 2cosx
+
+Comparing the coefficients of sinx and cosx on both sides, we get
+2A =2> A = 1andB= 0.
+
+Therefore,
+
+y,(x) = xsinx
 --- page 15 ---
 Solve 42" qt = Qu pammeet aey
 
@@ -38588,7 +40298,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_CSE_DS_7057/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 44.9
-- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -38942,6 +40652,23 @@ CO-5; SO-    u  u   y   [6]
 2;BL-4   variables 4   +   = 3 u , given that u = 3 e− when x = 0.
  x  y
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Now since + i is a root of the auxiliary equation i.e., cosx itself appears in the
+complementary function, we take the form of the trial solution as
+
+y,(x) = x (Asinx + Bcosx)
+
+Substituting the value of y,(x) in the given equation, we get
+
+= 2Acosx - 2Bsinx = 2cosx
+
+Comparing the coefficients of sinx and cosx on both sides, we get
+2A =2> A = 1andB= 0.
+
+Therefore,
+
+y,(x) = xsinx
 --- page 15 ---
 Solve 42" qt = Qu pammeet aey
 
@@ -39037,7 +40764,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_CS_7055/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 44.9
-- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -39391,6 +41118,23 @@ CO-5; SO-    u  u   y   [6]
 2;BL-4   variables 4   +   = 3 u , given that u = 3 e− when x = 0.
  x  y
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Now since + i is a root of the auxiliary equation i.e., cosx itself appears in the
+complementary function, we take the form of the trial solution as
+
+y,(x) = x (Asinx + Bcosx)
+
+Substituting the value of y,(x) in the given equation, we get
+
+= 2Acosx - 2Bsinx = 2cosx
+
+Comparing the coefficients of sinx and cosx on both sides, we get
+2A =2> A = 1andB= 0.
+
+Therefore,
+
+y,(x) = xsinx
 --- page 15 ---
 Solve 42" qt = Qu pammeet aey
 
@@ -39486,7 +41230,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_Civil_7005/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 44.9
-- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -39840,6 +41584,23 @@ CO-5; SO-    u  u   y   [6]
 2;BL-4   variables 4   +   = 3 u , given that u = 3 e− when x = 0.
  x  y
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Now since + i is a root of the auxiliary equation i.e., cosx itself appears in the
+complementary function, we take the form of the trial solution as
+
+y,(x) = x (Asinx + Bcosx)
+
+Substituting the value of y,(x) in the given equation, we get
+
+= 2Acosx - 2Bsinx = 2cosx
+
+Comparing the coefficients of sinx and cosx on both sides, we get
+2A =2> A = 1andB= 0.
+
+Therefore,
+
+y,(x) = xsinx
 --- page 15 ---
 Solve 42" qt = Qu pammeet aey
 
@@ -39935,7 +41696,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_Mechanical_7003/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 44.9
-- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -40289,6 +42050,23 @@ CO-5; SO-    u  u   y   [6]
 2;BL-4   variables 4   +   = 3 u , given that u = 3 e− when x = 0.
  x  y
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Now since + i is a root of the auxiliary equation i.e., cosx itself appears in the
+complementary function, we take the form of the trial solution as
+
+y,(x) = x (Asinx + Bcosx)
+
+Substituting the value of y,(x) in the given equation, we get
+
+= 2Acosx - 2Bsinx = 2cosx
+
+Comparing the coefficients of sinx and cosx on both sides, we get
+2A =2> A = 1andB= 0.
+
+Therefore,
+
+y,(x) = xsinx
 --- page 15 ---
 Solve 42" qt = Qu pammeet aey
 
@@ -40384,7 +42162,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/BTech_Mechatronics_7004/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 44.9
-- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -40738,6 +42516,23 @@ CO-5; SO-    u  u   y   [6]
 2;BL-4   variables 4   +   = 3 u , given that u = 3 e− when x = 0.
  x  y
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Now since + i is a root of the auxiliary equation i.e., cosx itself appears in the
+complementary function, we take the form of the trial solution as
+
+y,(x) = x (Asinx + Bcosx)
+
+Substituting the value of y,(x) in the given equation, we get
+
+= 2Acosx - 2Bsinx = 2cosx
+
+Comparing the coefficients of sinx and cosx on both sides, we get
+2A =2> A = 1andB= 0.
+
+Therefore,
+
+y,(x) = xsinx
 --- page 15 ---
 Solve 42" qt = Qu pammeet aey
 
@@ -40833,7 +42628,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_AI_7051/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025_dd3e665c9e.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 44.9
-- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -41187,6 +42982,23 @@ CO-5; SO-    u  u   y   [6]
 2;BL-4   variables 4   +   = 3 u , given that u = 3 e− when x = 0.
  x  y
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Now since + i is a root of the auxiliary equation i.e., cosx itself appears in the
+complementary function, we take the form of the trial solution as
+
+y,(x) = x (Asinx + Bcosx)
+
+Substituting the value of y,(x) in the given equation, we get
+
+= 2Acosx - 2Bsinx = 2cosx
+
+Comparing the coefficients of sinx and cosx on both sides, we get
+2A =2> A = 1andB= 0.
+
+Therefore,
+
+y,(x) = xsinx
 --- page 15 ---
 Solve 42" qt = Qu pammeet aey
 
@@ -41282,7 +43094,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_02/Re-Exam/MBATech_IT_7041/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C065)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 01 Jul 2025
 - Text: mixed (16 pages), mean OCR confidence 44.9
-- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -41636,6 +43448,23 @@ CO-5; SO-    u  u   y   [6]
 2;BL-4   variables 4   +   = 3 u , given that u = 3 e− when x = 0.
  x  y
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Now since + i is a root of the auxiliary equation i.e., cosx itself appears in the
+complementary function, we take the form of the trial solution as
+
+y,(x) = x (Asinx + Bcosx)
+
+Substituting the value of y,(x) in the given equation, we get
+
+= 2Acosx - 2Bsinx = 2cosx
+
+Comparing the coefficients of sinx and cosx on both sides, we get
+2A =2> A = 1andB= 0.
+
+Therefore,
+
+y,(x) = xsinx
 --- page 15 ---
 Solve 42" qt = Qu pammeet aey
 
@@ -41731,7 +43560,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_06/Re-Exam/Integrated_Computer_7032/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Jul 2025
 - Text: mixed (18 pages), mean OCR confidence 42.8
-- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -41758,6 +43587,28 @@ Q1
 CO-4; SO-1;   [5]
 BL- Low
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+I. : The auxiliary equation is D* - 2D? - 5D + 6 = 0.
+As in the above example
+“. (D=1)(D-3)(D+2)=0 . D=1,-2,3.
+
+. Complementary Function, C.F. is y = ¢, @* + cp e-** + 3%.
+
+a 1 4x 2x
+Particular Integral, P.|.=——_,- ———_ (e"” + 6e*” + 9)
+" D® -2D* -5D+6
+1 Ax 1 2x 1 Ox
+= on +6 e* +9 e
+D® - 2D* -5D+6 D® - 2D? -5D+6 D® - 2D? -5D+6
+Ax
+of 3 ge, 8 a
+18 2 2 _
+«. The complete solution is
+4x
+v=o + ce + c,0% 42 _ 3 ae 3
+
+18 2 2
 --- page 2 ---
 [5]
 pet (G95) a2 V4) b¢5, 2,9)
@@ -41810,6 +43661,69 @@ CO-4; SO-1;   [7]
 BL-
 Moderate
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+etiy=c
+
+Step 1: Differentiate the Given Equation
+
+Differentiating both sides with respect to x:
+d.
+22+ ay =0
+dz
+
+dy __&
+
+dx y
+Step 2: Find the Slope of Orthogonal Trajectories
+For orthogonal trajectories, the slopes are negative reciprocals.
+
+dy _y
+
+dx x
+
+[2
+
+Step 3: Solve the Differential Equation
+Rearrange and separate the variables:
+
+dy _ de
+y «
+
+Integrate both sides:
+In|y| = In |x| +C
+
+y=Azr
+
+1
+where A = e© [
+
+is an arbitrary constant.
+
+lution : Putting z = log x and x = e 7, we get
+[D(O-1)-3D+5]y=sinz
+(D? — 4D +5)y =sinz
+-. The A.E.is (D?-4D+5)=0. “
+
+pu 4#2i
+
+=2ti
+
+-. The C.F.is y = e?7(¢,cosz+o@sinz).
+
+1 1
+0-40-45 -40+4 _
+
+1 D+1 1
+sare te . ==(D+1)sin
+ae ee
+
+= j (cos 2 + sinz)
+. The complete solution is
+
+Resubstituting in terms of x, we get.
+
+y = x2 (c, cos log x + © sinlog x) + + (cos log x + sinlog x). —|e
 --- page 4 ---
 (b)   First, find the first derivative with respect to 𝑡:
 𝜕𝑢 𝜕𝑡= −𝑐𝑠𝑖𝑛⁡(𝑐𝑡)𝑠𝑖𝑛⁡(𝑥)   (1)
@@ -42291,7 +44205,7 @@ FR ICR 7] QA HH
 - Source: `02_Question_Papers/2024/Sem_06/Re-Exam/Integrated_DS_7038/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Jul 2025
 - Text: mixed (18 pages), mean OCR confidence 42.8
-- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -42318,6 +44232,28 @@ Q1
 CO-4; SO-1;   [5]
 BL- Low
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+I. : The auxiliary equation is D* - 2D? - 5D + 6 = 0.
+As in the above example
+“. (D=1)(D-3)(D+2)=0 . D=1,-2,3.
+
+. Complementary Function, C.F. is y = ¢, @* + cp e-** + 3%.
+
+a 1 4x 2x
+Particular Integral, P.|.=——_,- ———_ (e"” + 6e*” + 9)
+" D® -2D* -5D+6
+1 Ax 1 2x 1 Ox
+= on +6 e* +9 e
+D® - 2D* -5D+6 D® - 2D? -5D+6 D® - 2D? -5D+6
+Ax
+of 3 ge, 8 a
+18 2 2 _
+«. The complete solution is
+4x
+v=o + ce + c,0% 42 _ 3 ae 3
+
+18 2 2
 --- page 2 ---
 [5]
 pet (G95) a2 V4) b¢5, 2,9)
@@ -42370,6 +44306,69 @@ CO-4; SO-1;   [7]
 BL-
 Moderate
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+etiy=c
+
+Step 1: Differentiate the Given Equation
+
+Differentiating both sides with respect to x:
+d.
+22+ ay =0
+dz
+
+dy __&
+
+dx y
+Step 2: Find the Slope of Orthogonal Trajectories
+For orthogonal trajectories, the slopes are negative reciprocals.
+
+dy _y
+
+dx x
+
+[2
+
+Step 3: Solve the Differential Equation
+Rearrange and separate the variables:
+
+dy _ de
+y «
+
+Integrate both sides:
+In|y| = In |x| +C
+
+y=Azr
+
+1
+where A = e© [
+
+is an arbitrary constant.
+
+lution : Putting z = log x and x = e 7, we get
+[D(O-1)-3D+5]y=sinz
+(D? — 4D +5)y =sinz
+-. The A.E.is (D?-4D+5)=0. “
+
+pu 4#2i
+
+=2ti
+
+-. The C.F.is y = e?7(¢,cosz+o@sinz).
+
+1 1
+0-40-45 -40+4 _
+
+1 D+1 1
+sare te . ==(D+1)sin
+ae ee
+
+= j (cos 2 + sinz)
+. The complete solution is
+
+Resubstituting in terms of x, we get.
+
+y = x2 (c, cos log x + © sinlog x) + + (cos log x + sinlog x). —|e
 --- page 4 ---
 (b)   First, find the first derivative with respect to 𝑡:
 𝜕𝑢 𝜕𝑡= −𝑐𝑠𝑖𝑛⁡(𝑐𝑡)𝑠𝑖𝑛⁡(𝑥)   (1)
@@ -42851,7 +44850,7 @@ FR ICR 7] QA HH
 - Source: `02_Question_Papers/2024/Sem_06/Re-Exam/Integrated_IT_7037/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Jul 2025
 - Text: mixed (18 pages), mean OCR confidence 42.8
-- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -42878,6 +44877,28 @@ Q1
 CO-4; SO-1;   [5]
 BL- Low
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+I. : The auxiliary equation is D* - 2D? - 5D + 6 = 0.
+As in the above example
+“. (D=1)(D-3)(D+2)=0 . D=1,-2,3.
+
+. Complementary Function, C.F. is y = ¢, @* + cp e-** + 3%.
+
+a 1 4x 2x
+Particular Integral, P.|.=——_,- ———_ (e"” + 6e*” + 9)
+" D® -2D* -5D+6
+1 Ax 1 2x 1 Ox
+= on +6 e* +9 e
+D® - 2D* -5D+6 D® - 2D? -5D+6 D® - 2D? -5D+6
+Ax
+of 3 ge, 8 a
+18 2 2 _
+«. The complete solution is
+4x
+v=o + ce + c,0% 42 _ 3 ae 3
+
+18 2 2
 --- page 2 ---
 [5]
 pet (G95) a2 V4) b¢5, 2,9)
@@ -42930,6 +44951,69 @@ CO-4; SO-1;   [7]
 BL-
 Moderate
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+etiy=c
+
+Step 1: Differentiate the Given Equation
+
+Differentiating both sides with respect to x:
+d.
+22+ ay =0
+dz
+
+dy __&
+
+dx y
+Step 2: Find the Slope of Orthogonal Trajectories
+For orthogonal trajectories, the slopes are negative reciprocals.
+
+dy _y
+
+dx x
+
+[2
+
+Step 3: Solve the Differential Equation
+Rearrange and separate the variables:
+
+dy _ de
+y «
+
+Integrate both sides:
+In|y| = In |x| +C
+
+y=Azr
+
+1
+where A = e© [
+
+is an arbitrary constant.
+
+lution : Putting z = log x and x = e 7, we get
+[D(O-1)-3D+5]y=sinz
+(D? — 4D +5)y =sinz
+-. The A.E.is (D?-4D+5)=0. “
+
+pu 4#2i
+
+=2ti
+
+-. The C.F.is y = e?7(¢,cosz+o@sinz).
+
+1 1
+0-40-45 -40+4 _
+
+1 D+1 1
+sare te . ==(D+1)sin
+ae ee
+
+= j (cos 2 + sinz)
+. The complete solution is
+
+Resubstituting in terms of x, we get.
+
+y = x2 (c, cos log x + © sinlog x) + + (cos log x + sinlog x). —|e
 --- page 4 ---
 (b)   First, find the first derivative with respect to 𝑡:
 𝜕𝑢 𝜕𝑡= −𝑐𝑠𝑖𝑛⁡(𝑐𝑡)𝑠𝑖𝑛⁡(𝑥)   (1)
@@ -43411,7 +45495,7 @@ FR ICR 7] QA HH
 - Source: `02_Question_Papers/2024/Sem_06/Re-Exam/Integrated_Mechanical_7031/Linear Algebra and Differential Equations/ANS_Linear Algebra and Differential Equations(702BS0C051)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Jul 2025
 - Text: mixed (18 pages), mean OCR confidence 42.8
-- 8 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 10 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -43438,6 +45522,28 @@ Q1
 CO-4; SO-1;   [5]
 BL- Low
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+I. : The auxiliary equation is D* - 2D? - 5D + 6 = 0.
+As in the above example
+“. (D=1)(D-3)(D+2)=0 . D=1,-2,3.
+
+. Complementary Function, C.F. is y = ¢, @* + cp e-** + 3%.
+
+a 1 4x 2x
+Particular Integral, P.|.=——_,- ———_ (e"” + 6e*” + 9)
+" D® -2D* -5D+6
+1 Ax 1 2x 1 Ox
+= on +6 e* +9 e
+D® - 2D* -5D+6 D® - 2D? -5D+6 D® - 2D? -5D+6
+Ax
+of 3 ge, 8 a
+18 2 2 _
+«. The complete solution is
+4x
+v=o + ce + c,0% 42 _ 3 ae 3
+
+18 2 2
 --- page 2 ---
 [5]
 pet (G95) a2 V4) b¢5, 2,9)
@@ -43490,6 +45596,69 @@ CO-4; SO-1;   [7]
 BL-
 Moderate
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+etiy=c
+
+Step 1: Differentiate the Given Equation
+
+Differentiating both sides with respect to x:
+d.
+22+ ay =0
+dz
+
+dy __&
+
+dx y
+Step 2: Find the Slope of Orthogonal Trajectories
+For orthogonal trajectories, the slopes are negative reciprocals.
+
+dy _y
+
+dx x
+
+[2
+
+Step 3: Solve the Differential Equation
+Rearrange and separate the variables:
+
+dy _ de
+y «
+
+Integrate both sides:
+In|y| = In |x| +C
+
+y=Azr
+
+1
+where A = e© [
+
+is an arbitrary constant.
+
+lution : Putting z = log x and x = e 7, we get
+[D(O-1)-3D+5]y=sinz
+(D? — 4D +5)y =sinz
+-. The A.E.is (D?-4D+5)=0. “
+
+pu 4#2i
+
+=2ti
+
+-. The C.F.is y = e?7(¢,cosz+o@sinz).
+
+1 1
+0-40-45 -40+4 _
+
+1 D+1 1
+sare te . ==(D+1)sin
+ae ee
+
+= j (cos 2 + sinz)
+. The complete solution is
+
+Resubstituting in terms of x, we get.
+
+y = x2 (c, cos log x + © sinlog x) + + (cos log x + sinlog x). —|e
 --- page 4 ---
 (b)   First, find the first derivative with respect to 𝑡:
 𝜕𝑢 𝜕𝑡= −𝑐𝑠𝑖𝑛⁡(𝑐𝑡)𝑠𝑖𝑛⁡(𝑥)   (1)

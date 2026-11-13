@@ -4550,6 +4550,15 @@ o Bidder Z: Pays Rs. 94.35
 o Total amount collected = (3,000×94.50) + (2,500×94.40) + (4,500×94.35) crores.
 Q5A. Rights Issue Calculation:
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+1. Rights Entitlement Ratio: <a Shares _ — 22,50,00,000/500 1:2
+
+Existing Shares ~~ 9,00,000
+2. Theoretical Ex-right Price (TERP): ee = Rs.666.67
+
+3. Value of Right: 750 — 666.67 = Rs.83.33
+4, Market Value After Issue: 13, 50,000 x 666.67 = Rs.9, 00, 00, 000
 --- page 4 ---
 Q5B. Role of Investment Banks in Venture Capital Funding:
 1. Deal Structuring:

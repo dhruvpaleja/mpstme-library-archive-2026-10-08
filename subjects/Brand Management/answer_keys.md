@@ -40,6 +40,15 @@ Q1a. Name and explain the different risks that consumers face in a product decis
 – Time (opportunity cost of finding another product)
 Q1b. Explain the concept of Brand Equity as a Bridge.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Brand as a Reflection of the Past (what consumers saw,
+heard, learned, felt, and experienced about the brand)
+
+Brand as a Direction for the Future (true value and
+
+future prospects of the brand rest with consumers and their
+knowledge of the brand)
 --- page 2 ---
 Q1 c. Explain what are flankers and cash cows in the Brand portfolio and what role do they play? Give an
 example of each.
@@ -60,6 +69,26 @@ Despite dwindling sales, some brands are retained:
 • Example 2: Gillette Fusion and Sensor
 Q1d. What are the disadvantages of Brand Extensions?
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Can Confuse or Frustrate Consumers
+
+|
+
+Can Encounter Retailer Resistance
+
+Can Fail and Hurt Parent Brand Image
+
+Can Succeed but Cannibalize Sales of Parent Brand
+
+Can Succeed but Diminish Identification with Any One Category
+
+Can Succeed but Hurt the Image of the Parent Brand
+
+Can Dilute Brand Meaning
+
+Can Cause the Company to Forgo the Chance to Develop a New
+Brand
 --- page 3 ---
 Q2. Name and explain the Six Brand Building Blocks in the Brand Resonance Pyramid with an example
 of your choice from the Automobile industry.
@@ -80,6 +109,34 @@ actually does.
 • Four main intangibles are:
 • User profile/imagery (type of person/ organization who uses the brand eg. Nykaa)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Stages of Brand Branding Objective at
+Development Each Stage
+
+4. Relationships Intense,
+F '
+What about you and me? Reconance active loyalty
+
+I I
+
+3. Response Positive,
+What about you? Judgments _ Feelings accessible reactions
+2. Meaning Points of parity
+What are you? Performance Imagery and difference
+1. Identity salience Deep, broad
+
+Who are you? brand awareness
+
+Breadth and Depth of Awareness (range of
+purchases and usage situations | likeliness of brand
+elements to come to mind)
+
+Product Category Structure (how product
+categories are organized in memory eg. Tropicana)
+
+Strategic Implications (sufficient “mind share”
+at the right times and places eg. Dettol)
 --- page 4 ---
 • Purchase and usage situations/imagery (tells the consumer under what conditions or
 situations they can or should buy and use the brand eg. Domino’s 30 min delivery, Zepto)
@@ -135,6 +192,30 @@ Diagnostic tools to uncover the true opinions and feelings of consumers when:
 • Present consumers with ambiguous stimulus and ask them to make sense of it.
 • Example: When Nestle first launched Nescafe
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Zaltman Metaphor
+Elicitation
+Technique (ZMET)
+
+Projective
+
+Free Associations Techniques
+
+Ethnographic and
+Experiential
+Methods
+
+Neural Research Brand Personality
+Method and Value
+
+Completion and Interpretation Tasks
+(bubble exercises)
+
+Comparisons Task
+(compare brands to people/ occupation/ other brands)
+Archetypes
+(purchase decisions based on subconscious factors)
 --- page 6 ---
 ZMET is based on a belief that consumers often have subconscious motives for their purchasing behaviour.
 Uncovers hidden thoughts and feelings which can be expressed using metaphors.
@@ -223,6 +304,27 @@ advantages of Global Marketing Programs which the company can benefit from? Expl
 Q7. Name and explain the factors responsible for Branding Challenges with reference to any Clothing
 Brand of your choice.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Economies
+of Scale in
+Production
+and
+Distribution
+
+Uniformity
+of Marketing
+Practi
+
+Ability to
+Leverage
+Good Ideas
+Quickly and
+Efficiently
+
+Consistency
+in Brand
+Image
 ````
 
 ## 2025-26 · Final-Exam · Sem 9 · Answer key · paper dfb4e6e712e2
@@ -263,6 +365,15 @@ Q1a. Name and explain the different risks that consumers face in a product decis
 – Time (opportunity cost of finding another product)
 Q1b. Explain the concept of Brand Equity as a Bridge.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Brand as a Reflection of the Past (what consumers saw,
+heard, learned, felt, and experienced about the brand)
+
+Brand as a Direction for the Future (true value and
+
+future prospects of the brand rest with consumers and their
+knowledge of the brand)
 --- page 2 ---
 Q1 c. Explain what are flankers and cash cows in the Brand portfolio and what role do they play? Give an
 example of each.
@@ -283,6 +394,26 @@ Despite dwindling sales, some brands are retained:
 • Example 2: Gillette Fusion and Sensor
 Q1d. What are the disadvantages of Brand Extensions?
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Can Confuse or Frustrate Consumers
+
+|
+
+Can Encounter Retailer Resistance
+
+Can Fail and Hurt Parent Brand Image
+
+Can Succeed but Cannibalize Sales of Parent Brand
+
+Can Succeed but Diminish Identification with Any One Category
+
+Can Succeed but Hurt the Image of the Parent Brand
+
+Can Dilute Brand Meaning
+
+Can Cause the Company to Forgo the Chance to Develop a New
+Brand
 --- page 3 ---
 Q2. Name and explain the Six Brand Building Blocks in the Brand Resonance Pyramid with an example
 of your choice from the Automobile industry.
@@ -303,6 +434,34 @@ actually does.
 • Four main intangibles are:
 • User profile/imagery (type of person/ organization who uses the brand eg. Nykaa)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Stages of Brand Branding Objective at
+Development Each Stage
+
+4. Relationships Intense,
+F '
+What about you and me? Reconance active loyalty
+
+I I
+
+3. Response Positive,
+What about you? Judgments _ Feelings accessible reactions
+2. Meaning Points of parity
+What are you? Performance Imagery and difference
+1. Identity salience Deep, broad
+
+Who are you? brand awareness
+
+Breadth and Depth of Awareness (range of
+purchases and usage situations | likeliness of brand
+elements to come to mind)
+
+Product Category Structure (how product
+categories are organized in memory eg. Tropicana)
+
+Strategic Implications (sufficient “mind share”
+at the right times and places eg. Dettol)
 --- page 4 ---
 • Purchase and usage situations/imagery (tells the consumer under what conditions or
 situations they can or should buy and use the brand eg. Domino’s 30 min delivery, Zepto)
@@ -358,6 +517,30 @@ Diagnostic tools to uncover the true opinions and feelings of consumers when:
 • Present consumers with ambiguous stimulus and ask them to make sense of it.
 • Example: When Nestle first launched Nescafe
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Zaltman Metaphor
+Elicitation
+Technique (ZMET)
+
+Projective
+
+Free Associations Techniques
+
+Ethnographic and
+Experiential
+Methods
+
+Neural Research Brand Personality
+Method and Value
+
+Completion and Interpretation Tasks
+(bubble exercises)
+
+Comparisons Task
+(compare brands to people/ occupation/ other brands)
+Archetypes
+(purchase decisions based on subconscious factors)
 --- page 6 ---
 ZMET is based on a belief that consumers often have subconscious motives for their purchasing behaviour.
 Uncovers hidden thoughts and feelings which can be expressed using metaphors.
@@ -446,6 +629,27 @@ advantages of Global Marketing Programs which the company can benefit from? Expl
 Q7. Name and explain the factors responsible for Branding Challenges with reference to any Clothing
 Brand of your choice.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Economies
+of Scale in
+Production
+and
+Distribution
+
+Uniformity
+of Marketing
+Practi
+
+Ability to
+Leverage
+Good Ideas
+Quickly and
+Efficiently
+
+Consistency
+in Brand
+Image
 ````
 
 ## 2025-26 · Final-Exam · Sem 9 · Answer key · paper cfa73a4f12fc
@@ -486,6 +690,15 @@ Q1a. Name and explain the different risks that consumers face in a product decis
 – Time (opportunity cost of finding another product)
 Q1b. Explain the concept of Brand Equity as a Bridge.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Brand as a Reflection of the Past (what consumers saw,
+heard, learned, felt, and experienced about the brand)
+
+Brand as a Direction for the Future (true value and
+
+future prospects of the brand rest with consumers and their
+knowledge of the brand)
 --- page 2 ---
 Q1 c. Explain what are flankers and cash cows in the Brand portfolio and what role do they play? Give an
 example of each.
@@ -506,6 +719,26 @@ Despite dwindling sales, some brands are retained:
 • Example 2: Gillette Fusion and Sensor
 Q1d. What are the disadvantages of Brand Extensions?
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Can Confuse or Frustrate Consumers
+
+|
+
+Can Encounter Retailer Resistance
+
+Can Fail and Hurt Parent Brand Image
+
+Can Succeed but Cannibalize Sales of Parent Brand
+
+Can Succeed but Diminish Identification with Any One Category
+
+Can Succeed but Hurt the Image of the Parent Brand
+
+Can Dilute Brand Meaning
+
+Can Cause the Company to Forgo the Chance to Develop a New
+Brand
 --- page 3 ---
 Q2. Name and explain the Six Brand Building Blocks in the Brand Resonance Pyramid with an example
 of your choice from the Automobile industry.
@@ -526,6 +759,34 @@ actually does.
 • Four main intangibles are:
 • User profile/imagery (type of person/ organization who uses the brand eg. Nykaa)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Stages of Brand Branding Objective at
+Development Each Stage
+
+4. Relationships Intense,
+F '
+What about you and me? Reconance active loyalty
+
+I I
+
+3. Response Positive,
+What about you? Judgments _ Feelings accessible reactions
+2. Meaning Points of parity
+What are you? Performance Imagery and difference
+1. Identity salience Deep, broad
+
+Who are you? brand awareness
+
+Breadth and Depth of Awareness (range of
+purchases and usage situations | likeliness of brand
+elements to come to mind)
+
+Product Category Structure (how product
+categories are organized in memory eg. Tropicana)
+
+Strategic Implications (sufficient “mind share”
+at the right times and places eg. Dettol)
 --- page 4 ---
 • Purchase and usage situations/imagery (tells the consumer under what conditions or
 situations they can or should buy and use the brand eg. Domino’s 30 min delivery, Zepto)
@@ -581,6 +842,30 @@ Diagnostic tools to uncover the true opinions and feelings of consumers when:
 • Present consumers with ambiguous stimulus and ask them to make sense of it.
 • Example: When Nestle first launched Nescafe
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Zaltman Metaphor
+Elicitation
+Technique (ZMET)
+
+Projective
+
+Free Associations Techniques
+
+Ethnographic and
+Experiential
+Methods
+
+Neural Research Brand Personality
+Method and Value
+
+Completion and Interpretation Tasks
+(bubble exercises)
+
+Comparisons Task
+(compare brands to people/ occupation/ other brands)
+Archetypes
+(purchase decisions based on subconscious factors)
 --- page 6 ---
 ZMET is based on a belief that consumers often have subconscious motives for their purchasing behaviour.
 Uncovers hidden thoughts and feelings which can be expressed using metaphors.
@@ -669,6 +954,27 @@ advantages of Global Marketing Programs which the company can benefit from? Expl
 Q7. Name and explain the factors responsible for Branding Challenges with reference to any Clothing
 Brand of your choice.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Economies
+of Scale in
+Production
+and
+Distribution
+
+Uniformity
+of Marketing
+Practi
+
+Ability to
+Leverage
+Good Ideas
+Quickly and
+Efficiently
+
+Consistency
+in Brand
+Image
 ````
 
 ## 2025-26 · Final-Exam · Sem 9 · Answer key · paper f5f1aed7cedf
@@ -709,6 +1015,15 @@ Q1a. Name and explain the different risks that consumers face in a product decis
 – Time (opportunity cost of finding another product)
 Q1b. Explain the concept of Brand Equity as a Bridge.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Brand as a Reflection of the Past (what consumers saw,
+heard, learned, felt, and experienced about the brand)
+
+Brand as a Direction for the Future (true value and
+
+future prospects of the brand rest with consumers and their
+knowledge of the brand)
 --- page 2 ---
 Q1 c. Explain what are flankers and cash cows in the Brand portfolio and what role do they play? Give an
 example of each.
@@ -729,6 +1044,26 @@ Despite dwindling sales, some brands are retained:
 • Example 2: Gillette Fusion and Sensor
 Q1d. What are the disadvantages of Brand Extensions?
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Can Confuse or Frustrate Consumers
+
+|
+
+Can Encounter Retailer Resistance
+
+Can Fail and Hurt Parent Brand Image
+
+Can Succeed but Cannibalize Sales of Parent Brand
+
+Can Succeed but Diminish Identification with Any One Category
+
+Can Succeed but Hurt the Image of the Parent Brand
+
+Can Dilute Brand Meaning
+
+Can Cause the Company to Forgo the Chance to Develop a New
+Brand
 --- page 3 ---
 Q2. Name and explain the Six Brand Building Blocks in the Brand Resonance Pyramid with an example
 of your choice from the Automobile industry.
@@ -749,6 +1084,34 @@ actually does.
 • Four main intangibles are:
 • User profile/imagery (type of person/ organization who uses the brand eg. Nykaa)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Stages of Brand Branding Objective at
+Development Each Stage
+
+4. Relationships Intense,
+F '
+What about you and me? Reconance active loyalty
+
+I I
+
+3. Response Positive,
+What about you? Judgments _ Feelings accessible reactions
+2. Meaning Points of parity
+What are you? Performance Imagery and difference
+1. Identity salience Deep, broad
+
+Who are you? brand awareness
+
+Breadth and Depth of Awareness (range of
+purchases and usage situations | likeliness of brand
+elements to come to mind)
+
+Product Category Structure (how product
+categories are organized in memory eg. Tropicana)
+
+Strategic Implications (sufficient “mind share”
+at the right times and places eg. Dettol)
 --- page 4 ---
 • Purchase and usage situations/imagery (tells the consumer under what conditions or
 situations they can or should buy and use the brand eg. Domino’s 30 min delivery, Zepto)
@@ -804,6 +1167,30 @@ Diagnostic tools to uncover the true opinions and feelings of consumers when:
 • Present consumers with ambiguous stimulus and ask them to make sense of it.
 • Example: When Nestle first launched Nescafe
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Zaltman Metaphor
+Elicitation
+Technique (ZMET)
+
+Projective
+
+Free Associations Techniques
+
+Ethnographic and
+Experiential
+Methods
+
+Neural Research Brand Personality
+Method and Value
+
+Completion and Interpretation Tasks
+(bubble exercises)
+
+Comparisons Task
+(compare brands to people/ occupation/ other brands)
+Archetypes
+(purchase decisions based on subconscious factors)
 --- page 6 ---
 ZMET is based on a belief that consumers often have subconscious motives for their purchasing behaviour.
 Uncovers hidden thoughts and feelings which can be expressed using metaphors.
@@ -892,6 +1279,27 @@ advantages of Global Marketing Programs which the company can benefit from? Expl
 Q7. Name and explain the factors responsible for Branding Challenges with reference to any Clothing
 Brand of your choice.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Economies
+of Scale in
+Production
+and
+Distribution
+
+Uniformity
+of Marketing
+Practi
+
+Ability to
+Leverage
+Good Ideas
+Quickly and
+Efficiently
+
+Consistency
+in Brand
+Image
 ````
 
 ## 2025-26 · Final-Exam · Sem 9 · Answer key · paper 7abe21f87a88
@@ -932,6 +1340,15 @@ Q1a. Name and explain the different risks that consumers face in a product decis
 – Time (opportunity cost of finding another product)
 Q1b. Explain the concept of Brand Equity as a Bridge.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Brand as a Reflection of the Past (what consumers saw,
+heard, learned, felt, and experienced about the brand)
+
+Brand as a Direction for the Future (true value and
+
+future prospects of the brand rest with consumers and their
+knowledge of the brand)
 --- page 2 ---
 Q1 c. Explain what are flankers and cash cows in the Brand portfolio and what role do they play? Give an
 example of each.
@@ -952,6 +1369,26 @@ Despite dwindling sales, some brands are retained:
 • Example 2: Gillette Fusion and Sensor
 Q1d. What are the disadvantages of Brand Extensions?
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Can Confuse or Frustrate Consumers
+
+|
+
+Can Encounter Retailer Resistance
+
+Can Fail and Hurt Parent Brand Image
+
+Can Succeed but Cannibalize Sales of Parent Brand
+
+Can Succeed but Diminish Identification with Any One Category
+
+Can Succeed but Hurt the Image of the Parent Brand
+
+Can Dilute Brand Meaning
+
+Can Cause the Company to Forgo the Chance to Develop a New
+Brand
 --- page 3 ---
 Q2. Name and explain the Six Brand Building Blocks in the Brand Resonance Pyramid with an example
 of your choice from the Automobile industry.
@@ -972,6 +1409,34 @@ actually does.
 • Four main intangibles are:
 • User profile/imagery (type of person/ organization who uses the brand eg. Nykaa)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Stages of Brand Branding Objective at
+Development Each Stage
+
+4. Relationships Intense,
+F '
+What about you and me? Reconance active loyalty
+
+I I
+
+3. Response Positive,
+What about you? Judgments _ Feelings accessible reactions
+2. Meaning Points of parity
+What are you? Performance Imagery and difference
+1. Identity salience Deep, broad
+
+Who are you? brand awareness
+
+Breadth and Depth of Awareness (range of
+purchases and usage situations | likeliness of brand
+elements to come to mind)
+
+Product Category Structure (how product
+categories are organized in memory eg. Tropicana)
+
+Strategic Implications (sufficient “mind share”
+at the right times and places eg. Dettol)
 --- page 4 ---
 • Purchase and usage situations/imagery (tells the consumer under what conditions or
 situations they can or should buy and use the brand eg. Domino’s 30 min delivery, Zepto)
@@ -1027,6 +1492,30 @@ Diagnostic tools to uncover the true opinions and feelings of consumers when:
 • Present consumers with ambiguous stimulus and ask them to make sense of it.
 • Example: When Nestle first launched Nescafe
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Zaltman Metaphor
+Elicitation
+Technique (ZMET)
+
+Projective
+
+Free Associations Techniques
+
+Ethnographic and
+Experiential
+Methods
+
+Neural Research Brand Personality
+Method and Value
+
+Completion and Interpretation Tasks
+(bubble exercises)
+
+Comparisons Task
+(compare brands to people/ occupation/ other brands)
+Archetypes
+(purchase decisions based on subconscious factors)
 --- page 6 ---
 ZMET is based on a belief that consumers often have subconscious motives for their purchasing behaviour.
 Uncovers hidden thoughts and feelings which can be expressed using metaphors.
@@ -1115,6 +1604,27 @@ advantages of Global Marketing Programs which the company can benefit from? Expl
 Q7. Name and explain the factors responsible for Branding Challenges with reference to any Clothing
 Brand of your choice.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Economies
+of Scale in
+Production
+and
+Distribution
+
+Uniformity
+of Marketing
+Practi
+
+Ability to
+Leverage
+Good Ideas
+Quickly and
+Efficiently
+
+Consistency
+in Brand
+Image
 ````
 
 ## 2025-26 · Re-Exam · Sem 9 · Answer key · paper 714e627bf0fe
@@ -1151,6 +1661,32 @@ Instructions:
 Q1a. What are the roles that brands play? Explain from a consumer as well as a manufacturer
 perspective.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Consumers
+
+Identification of source of product
+Assignment of responsibility to product maker
+Risk reducer
+
+Search cost reducer
+
+Promise, bond, or pact with maker of product
+Symbolic device
+
+Signal of quality
+
+Manufacturers
+
+Means of identification to simplify handling or tracing
+Means of legally protecting unique features
+
+Signal of quality level to satisfied customers
+
+Means of endowing products with unique associations
+Source of competitive advantage
+
+Source of financial returns
 --- page 2 ---
 Q1b. What is Customer-based Brand Equity? Explain with an example of your choice.
 • Approaches brand equity from the perspective of the consumer (individual/ organization/
@@ -1174,11 +1710,67 @@ Alto, Wagon R etc)
 Q1d. What are the advantages of Brand Extensions?
 Facilitate New Product Acceptance
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Increase the
+Reduce Risk Probability of
+Perceived by Gaining
+Customers Distribution and
+Trial
+
+Improve Brand
+Image
+
+Reduce Costs of
+Increase Efficiency Introductory and Avoid Cost of
+
+of Promotional Follow-Up Developing a New
+Expenditures Marketing Brand
+Programs
+
+Allow for
+Packaging and Permit Consumer
+Labeling Variety-Seeking
+
+Efficiencies
 --- page 3 ---
 Provide Feedback Benefits to the Parent Brand
 Q2. Name and explain the Six Brand Building Blocks in the Brand Resonance Pyramid with an example
 of your choice from the Hotel industry.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Clarify Brand Enhance the Parent
+Meaning Brand Image
+
+Bring New
+Customers into the
+Brand Franchise
+and Increase
+Market Coverage
+
+Revitalize the
+Brand
+
+Permit Subseq
+Extensions
+
+Stages of Brand Branding Objective at
+Development Each Stage
+
+4. Relationships Intense,
+F '
+What about you and me? Reconance active loyalty
+
+I I
+
+3. Response Positive,
+What about you? Judgments _ Feelings accessible reactions
+2. Meaning Points of parity
+What are you? Performance Imagery and difference
+1. Identity salience Deep, broad
+
+Who are you? brand awareness
 --- page 4 ---
 Brand Performance describes how well the product or service:
 • Meets customers’ more functional needs.
@@ -1213,6 +1805,17 @@ enough if customers don’t consider the brand for purchase or use.
 brands.
 •   Customers’ emotional responses and reactions to the brand.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Breadth and Depth of Awareness (range of
+purchases and usage situations | likeliness of brand
+elements to come to mind)
+
+Product Category Structure (how product
+categories are organized in memory eg. Tropicana)
+
+Strategic Implications (sufficient “mind share”
+at the right times and places eg. Dettol)
 --- page 5 ---
 •   Relate to the social currency evoked by the brand.
 •   Feelings can be:
@@ -1244,6 +1847,22 @@ Without any specific probe, consumers narrate:
 • What comes to their mind when they think about the brand or the associated product
 category.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Zaltman Metaphor
+Elicitation
+Technique (ZMET)
+
+Projective
+
+Free Associations Techniques
+
+Ethnographic and
+Experiential
+Methods
+
+Neural Research Brand Personality
+Method and Value
 --- page 6 ---
 Help form a rough mental map for the brand.
 Indicate the relative strength, favourability, and uniqueness of brand associations.
@@ -1275,6 +1894,15 @@ The Big five: Brand personality scale used to measure:
 • Sophistication (elegant and pleasant)
 • Ruggedness (resilient and sporty)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Completion and Interpretation Tasks
+(bubble exercises)
+
+Comparisons Task
+(compare brands to people/ occupation/ other brands)
+Archetypes
+(purchase decisions based on subconscious factors)
 --- page 7 ---
 • Use “thick description” based on participant observation.
 •   Extract and interpret the deep cultural meaning of events and activities through various
@@ -1339,6 +1967,27 @@ Explain in detail.
 Q7. Name and explain the factors responsible for Branding Challenges with reference to any Laptop
 Brand of your choice.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Economies
+of Scale in
+Production
+and
+Distribution
+
+Uniformity
+of Marketing
+Practi
+
+Ability to
+Leverage
+Good Ideas
+Quickly and
+Efficiently
+
+Consistency
+in Brand
+Image
 --- page 10 ---
 reased Competition
 Greater Accountability
@@ -1377,6 +2026,32 @@ Instructions:
 Q1a. What are the roles that brands play? Explain from a consumer as well as a manufacturer
 perspective.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Consumers
+
+Identification of source of product
+Assignment of responsibility to product maker
+Risk reducer
+
+Search cost reducer
+
+Promise, bond, or pact with maker of product
+Symbolic device
+
+Signal of quality
+
+Manufacturers
+
+Means of identification to simplify handling or tracing
+Means of legally protecting unique features
+
+Signal of quality level to satisfied customers
+
+Means of endowing products with unique associations
+Source of competitive advantage
+
+Source of financial returns
 --- page 2 ---
 Q1b. What is Customer-based Brand Equity? Explain with an example of your choice.
 • Approaches brand equity from the perspective of the consumer (individual/ organization/
@@ -1400,11 +2075,78 @@ Alto, Wagon R etc)
 Q1d. What are the advantages of Brand Extensions?
 Facilitate New Product Acceptance
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Increase the
+Reduce Risk Probability of
+Perceived by Gaining
+Customers Distribution and
+Trial
+
+Improve Brand
+Image
+
+Reduce Costs of
+Increase Efficiency Introductory and Avoid Cost of
+
+of Promotional Follow-Up Developing a New
+Expenditures Marketing Brand
+Programs
+
+Allow for
+Packaging and Permit Consumer
+Labeling Variety-Seeking
+
+Efficiencies
 --- page 3 ---
 Provide Feedback Benefits to the Parent Brand
 Q2. Name and explain the Six Brand Building Blocks in the Brand Resonance Pyramid with an example
 of your choice from the Hotel industry.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Clarify Brand Enhance the Parent
+Meaning Brand Image
+
+Bring New
+Customers into the
+Brand Franchise
+and Increase
+Market Coverage
+
+Revitalize the
+Brand
+
+Permit Subseq
+Extensions
+
+Stages of Brand Branding Objective at
+Development Each Stage
+
+4. Relationships Intense,
+F '
+What about you and me? Reconance active loyalty
+
+I I
+
+3. Response Positive,
+What about you? Judgments _ Feelings accessible reactions
+2. Meaning Points of parity
+What are you? Performance Imagery and difference
+1. Identity salience Deep, broad
+
+Who are you? brand awareness
+
+Breadth and Depth of Awareness (range of
+purchases and usage situations | likeliness of brand
+elements to come to mind)
+
+Product Category Structure (how product
+
+categories are organized in memory eg. Tropicana)
+
+Strategic Implications (sufficient “mind share”
+at the right times and places eg. Dettol)
 --- page 4 ---
 Brand Performance describes how well the product or service:
 • Meets customers’ more functional needs.
@@ -1476,6 +2218,23 @@ Diagnostic tools to uncover the true opinions and feelings of consumers when:
 • Present consumers with ambiguous stimulus and ask them to make sense of it.
 • Example: When Nestle first launched Nescafe
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Zaltman Metaphor
+Elicitation
+Technique (ZMET)
+
+Projective
+Techniques
+
+Free Associations
+
+Ethnographic and
+Experiential
+Methods
+
+Neural Research Brand Personality
+Method and Value
 --- page 6 ---
 ZMET is based on a belief that consumers often have subconscious motives for their purchasing behaviour.
 Uncovers hidden thoughts and feelings which can be expressed using metaphors.
@@ -1508,6 +2267,15 @@ etc.
 their days.
 • Another example for service companies is a mystery shopper.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Completion and Interpretation Tasks
+(bubble exercises)
+
+Comparisons Task
+(compare brands to people/ occupation/ other brands)
+Archetypes
+(purchase decisions based on subconscious factors)
 --- page 7 ---
 Q4. Chery is a new automobile brand being conceptualized for India which will launch a wide range of
 electric vehicles. It is a part of a larger Chinese conglomerate; however, they are open to relook at their
@@ -1565,6 +2333,27 @@ Explain in detail.
 Q7. Name and explain the factors responsible for Branding Challenges with reference to any Laptop
 Brand of your choice.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Economies
+of Scale in
+Production
+and
+Distribution
+
+Uniformity
+of Marketing
+Practi
+
+Ability to
+Leverage
+Good Ideas
+Quickly and
+Efficiently
+
+Consistency
+in Brand
+Image
 ````
 
 ## 2024-25 · Final-Exam · Sem 9 · Answer key · paper afdca3cc7a70
@@ -1632,6 +2421,24 @@ Developing a Good Positioning
 A. 1 mark for each point   10
 Arguments For Over-Extension of Patanjali Brand:
 Page 3 of 11
+
+[Text in pictures on this page, read by OCR]
+Kind
+Where used
+Type of buy
+
+Purchase location
+Who buys
+Type of buy
+
+SIC code
+
+Number of employees
+
+Number of production workers
+Annual sales volume
+
+Number of establishments
 --- page 4 ---
 1. Leverage Existing Brand Equity: Patanjali has built strong brand recognition and trust in
 the Indian market. Over-extension allows the company to capitalize on this equity to
@@ -1954,6 +2761,24 @@ Developing a Good Positioning
 A. 1 mark for each point   10
 Arguments For Over-Extension of Patanjali Brand:
 Page 3 of 11
+
+[Text in pictures on this page, read by OCR]
+Kind
+Where used
+Type of buy
+
+Purchase location
+Who buys
+Type of buy
+
+SIC code
+
+Number of employees
+
+Number of production workers
+Annual sales volume
+
+Number of establishments
 --- page 4 ---
 1. Leverage Existing Brand Equity: Patanjali has built strong brand recognition and trust in
 the Indian market. Over-extension allows the company to capitalize on this equity to
@@ -2276,6 +3101,24 @@ Developing a Good Positioning
 A. 1 mark for each point   10
 Arguments For Over-Extension of Patanjali Brand:
 Page 3 of 11
+
+[Text in pictures on this page, read by OCR]
+Kind
+Where used
+Type of buy
+
+Purchase location
+Who buys
+Type of buy
+
+SIC code
+
+Number of employees
+
+Number of production workers
+Annual sales volume
+
+Number of establishments
 --- page 4 ---
 1. Leverage Existing Brand Equity: Patanjali has built strong brand recognition and trust in
 the Indian market. Over-extension allows the company to capitalize on this equity to
@@ -2598,6 +3441,24 @@ Developing a Good Positioning
 A. 1 mark for each point   10
 Arguments For Over-Extension of Patanjali Brand:
 Page 3 of 11
+
+[Text in pictures on this page, read by OCR]
+Kind
+Where used
+Type of buy
+
+Purchase location
+Who buys
+Type of buy
+
+SIC code
+
+Number of employees
+
+Number of production workers
+Annual sales volume
+
+Number of establishments
 --- page 4 ---
 1. Leverage Existing Brand Equity: Patanjali has built strong brand recognition and trust in
 the Indian market. Over-extension allows the company to capitalize on this equity to
@@ -2920,6 +3781,24 @@ Developing a Good Positioning
 A. 1 mark for each point   10
 Arguments For Over-Extension of Patanjali Brand:
 Page 3 of 11
+
+[Text in pictures on this page, read by OCR]
+Kind
+Where used
+Type of buy
+
+Purchase location
+Who buys
+Type of buy
+
+SIC code
+
+Number of employees
+
+Number of production workers
+Annual sales volume
+
+Number of establishments
 --- page 4 ---
 1. Leverage Existing Brand Equity: Patanjali has built strong brand recognition and trust in
 the Indian market. Over-extension allows the company to capitalize on this equity to

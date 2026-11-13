@@ -386,6 +386,21 @@ BL-3
 an example by comparing the image and its corresponding histogram before
 and after smoothing.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Normalized matrix (rounded to 4 decimals):
+
+0.2857 0.4286 0.5714 0.7143
+0.2857 0.2857 0.2857 0.2857
+0.1429 0.1429 0.1429 0.1429
+0.5714 0.8571 1.0000 0.0000
+
+Final Output Matrix (rounded to 4 decimals)
+
+0.5345 0.6547 0.7559 0.8452
+0.5345 0.5345 0.5345 0.5345
+0.3780 0.3780 0.3780 0.3780
+0.7559 0.9258 1.0000 0.0000
 --- page 11 ---
 Ans. Image smoothing reduces noise and small intensity variations, making the
 histogram more uniform and clearly separated.
@@ -814,6 +829,21 @@ BL-3
 an example by comparing the image and its corresponding histogram before
 and after smoothing.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Normalized matrix (rounded to 4 decimals):
+
+0.2857 0.4286 0.5714 0.7143
+0.2857 0.2857 0.2857 0.2857
+0.1429 0.1429 0.1429 0.1429
+0.5714 0.8571 1.0000 0.0000
+
+Final Output Matrix (rounded to 4 decimals)
+
+0.5345 0.6547 0.7559 0.8452
+0.5345 0.5345 0.5345 0.5345
+0.3780 0.3780 0.3780 0.3780
+0.7559 0.9258 1.0000 0.0000
 --- page 11 ---
 Ans. Image smoothing reduces noise and small intensity variations, making the
 histogram more uniform and clearly separated.
@@ -1242,6 +1272,21 @@ BL-3
 an example by comparing the image and its corresponding histogram before
 and after smoothing.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Normalized matrix (rounded to 4 decimals):
+
+0.2857 0.4286 0.5714 0.7143
+0.2857 0.2857 0.2857 0.2857
+0.1429 0.1429 0.1429 0.1429
+0.5714 0.8571 1.0000 0.0000
+
+Final Output Matrix (rounded to 4 decimals)
+
+0.5345 0.6547 0.7559 0.8452
+0.5345 0.5345 0.5345 0.5345
+0.3780 0.3780 0.3780 0.3780
+0.7559 0.9258 1.0000 0.0000
 --- page 11 ---
 Ans. Image smoothing reduces noise and small intensity variations, making the
 histogram more uniform and clearly separated.
@@ -1293,6 +1338,7 @@ overhead.   [2.5]
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_AIDS_7056/Signal and Image Processing/ANS_Signal and Image Processing(702AI0C033)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Jul 2026
 - Text: text (14 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1458,6 +1504,21 @@ Ans Any three-color models:
 [04]
 4-adjacency:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+K = 1~max(R,G, B)
+K =1~max(0.2,0.4,0.7) = 1-—0.7=0.3
+
+1-R-K 1—0.2—0.3 0.5
+C = ———- _ = 2 =
+1—-K 0.7 ~ 0.7 =0.114
+1-G-K 1-04-03 0.3
+= = id 42
+M 1—-K 0.7 0.7 0.429
+1-B-K 1-07-03 0 _
+Y= 1—-K ~ 0.7 -o7>°
+
+CMYK = (0.714, 0.429, 0, 0.3)
 --- page 5 ---
 [02]
 8-adjacency:
@@ -1511,6 +1572,41 @@ Odd, xo[n]   -4   -3   -2   -1   0   1   2   3   4
 [1.5
 ]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+x(0) =1 X(0) = 4
+
+1
+wy 1
+x(4) =0 © 2 = Lj J X(1) = 1-j2414
+\ Z.
+0 ! ! X22) = 0
+
+x(2) =1 = =
+1
+x(6) =0 © =1+j . (3) = 1-j0414
+we-
+
+x(1) =1 } 2 a — X(4) = 0
+
+we Wi sem. PRX
+x(5) =0 © 2 Lj Wear he X(5) = 1+j0.414
+
+1 -1
+x3) =1 0 x(6) = 0
+
+0 -
+x(7) =0 © M 14+j u \ = 14j2414
+
+x.[n] — Even component
+
+1
+4 4 4 4 4 4 4
+
+
+-4 -3 -2 A Q 1 2 3 4
+
+x
 --- page 7 ---
 [1.5
 ]
@@ -1771,6 +1867,7 @@ scenario involves checking 33 locations, which is still much faster than TSS.
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_AI_7012/Signal and Image Processing/ANS_Signal and Image Processing(702AI0C033)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Jul 2026
 - Text: text (14 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1936,6 +2033,21 @@ Ans Any three-color models:
 [04]
 4-adjacency:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+K = 1~max(R,G, B)
+K =1~max(0.2,0.4,0.7) = 1-—0.7=0.3
+
+1-R-K 1—0.2—0.3 0.5
+C = ———- _ = 2 =
+1—-K 0.7 ~ 0.7 =0.114
+1-G-K 1-04-03 0.3
+= = id 42
+M 1—-K 0.7 0.7 0.429
+1-B-K 1-07-03 0 _
+Y= 1—-K ~ 0.7 -o7>°
+
+CMYK = (0.714, 0.429, 0, 0.3)
 --- page 5 ---
 [02]
 8-adjacency:
@@ -1989,6 +2101,41 @@ Odd, xo[n]   -4   -3   -2   -1   0   1   2   3   4
 [1.5
 ]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+x(0) =1 X(0) = 4
+
+1
+wy 1
+x(4) =0 © 2 = Lj J X(1) = 1-j2414
+\ Z.
+0 ! ! X22) = 0
+
+x(2) =1 = =
+1
+x(6) =0 © =1+j . (3) = 1-j0414
+we-
+
+x(1) =1 } 2 a — X(4) = 0
+
+we Wi sem. PRX
+x(5) =0 © 2 Lj Wear he X(5) = 1+j0.414
+
+1 -1
+x3) =1 0 x(6) = 0
+
+0 -
+x(7) =0 © M 14+j u \ = 14j2414
+
+x.[n] — Even component
+
+1
+4 4 4 4 4 4 4
+
+
+-4 -3 -2 A Q 1 2 3 4
+
+x
 --- page 7 ---
 [1.5
 ]
@@ -2249,6 +2396,7 @@ scenario involves checking 33 locations, which is still much faster than TSS.
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/MBATech_AI_7051/Signal and Image Processing/ANS_Signal and Image Processing(702AI0C033)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 14 Jul 2026
 - Text: text (14 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2414,6 +2562,21 @@ Ans Any three-color models:
 [04]
 4-adjacency:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+K = 1~max(R,G, B)
+K =1~max(0.2,0.4,0.7) = 1-—0.7=0.3
+
+1-R-K 1—0.2—0.3 0.5
+C = ———- _ = 2 =
+1—-K 0.7 ~ 0.7 =0.114
+1-G-K 1-04-03 0.3
+= = id 42
+M 1—-K 0.7 0.7 0.429
+1-B-K 1-07-03 0 _
+Y= 1—-K ~ 0.7 -o7>°
+
+CMYK = (0.714, 0.429, 0, 0.3)
 --- page 5 ---
 [02]
 8-adjacency:
@@ -2467,6 +2630,41 @@ Odd, xo[n]   -4   -3   -2   -1   0   1   2   3   4
 [1.5
 ]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+x(0) =1 X(0) = 4
+
+1
+wy 1
+x(4) =0 © 2 = Lj J X(1) = 1-j2414
+\ Z.
+0 ! ! X22) = 0
+
+x(2) =1 = =
+1
+x(6) =0 © =1+j . (3) = 1-j0414
+we-
+
+x(1) =1 } 2 a — X(4) = 0
+
+we Wi sem. PRX
+x(5) =0 © 2 Lj Wear he X(5) = 1+j0.414
+
+1 -1
+x3) =1 0 x(6) = 0
+
+0 -
+x(7) =0 © M 14+j u \ = 14j2414
+
+x.[n] — Even component
+
+1
+4 4 4 4 4 4 4
+
+
+-4 -3 -2 A Q 1 2 3 4
+
+x
 --- page 7 ---
 [1.5
 ]

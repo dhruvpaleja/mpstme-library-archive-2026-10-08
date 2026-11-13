@@ -118,6 +118,42 @@ analytics enhance the effectiveness of these roles? Illustrate with an example.
 Q.2(b)3(ii)/ 5 Marks (CO 2,3,4 / BL 3,4,5)
 A company has 200 critical leadership roles and 150 employees identified as high potential. Please: -
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+DATA ANALYTICS
+
+HR
+analytics
+
+financial
+analytics
+
+PEOPLE
+ANALYTICS
+
+administrative
+HR
+
+FINANCE
+
+People analytics is the combination of HRM, data analytics, and finance
+
+ULRICH MODEL
+
+FUTURE / STRATEGIC FOCUS
+
+Strategic Change Agent
+
+Partner
+
+PROCESSES PEOPLE
+
+Administrative Employee
+Expert Champion
+
+DAY-TO-DAY / OPERATIONAL FOCUS
+
+People analytics to gain a competitive advantage
 --- page 4 ---
 1. Calculate bench strength ratio.
 2. Interpret the result.
@@ -323,6 +359,42 @@ analytics enhance the effectiveness of these roles? Illustrate with an example.
 Q.2(b)3(ii)/ 5 Marks (CO 2,3,4 / BL 3,4,5)
 A company has 200 critical leadership roles and 150 employees identified as high potential. Please: -
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+DATA ANALYTICS
+
+HR
+analytics
+
+financial
+analytics
+
+PEOPLE
+ANALYTICS
+
+administrative
+HR
+
+FINANCE
+
+People analytics is the combination of HRM, data analytics, and finance
+
+ULRICH MODEL
+
+FUTURE / STRATEGIC FOCUS
+
+Strategic Change Agent
+
+Partner
+
+PROCESSES PEOPLE
+
+Administrative Employee
+Expert Champion
+
+DAY-TO-DAY / OPERATIONAL FOCUS
+
+People analytics to gain a competitive advantage
 --- page 4 ---
 1. Calculate bench strength ratio.
 2. Interpret the result.
@@ -528,6 +600,42 @@ analytics enhance the effectiveness of these roles? Illustrate with an example.
 Q.2(b)3(ii)/ 5 Marks (CO 2,3,4 / BL 3,4,5)
 A company has 200 critical leadership roles and 150 employees identified as high potential. Please: -
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+DATA ANALYTICS
+
+HR
+analytics
+
+financial
+analytics
+
+PEOPLE
+ANALYTICS
+
+administrative
+HR
+
+FINANCE
+
+People analytics is the combination of HRM, data analytics, and finance
+
+ULRICH MODEL
+
+FUTURE / STRATEGIC FOCUS
+
+Strategic Change Agent
+
+Partner
+
+PROCESSES PEOPLE
+
+Administrative Employee
+Expert Champion
+
+DAY-TO-DAY / OPERATIONAL FOCUS
+
+People analytics to gain a competitive advantage
 --- page 4 ---
 1. Calculate bench strength ratio.
 2. Interpret the result.
@@ -733,6 +841,42 @@ analytics enhance the effectiveness of these roles? Illustrate with an example.
 Q.2(b)3(ii)/ 5 Marks (CO 2,3,4 / BL 3,4,5)
 A company has 200 critical leadership roles and 150 employees identified as high potential. Please: -
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+DATA ANALYTICS
+
+HR
+analytics
+
+financial
+analytics
+
+PEOPLE
+ANALYTICS
+
+administrative
+HR
+
+FINANCE
+
+People analytics is the combination of HRM, data analytics, and finance
+
+ULRICH MODEL
+
+FUTURE / STRATEGIC FOCUS
+
+Strategic Change Agent
+
+Partner
+
+PROCESSES PEOPLE
+
+Administrative Employee
+Expert Champion
+
+DAY-TO-DAY / OPERATIONAL FOCUS
+
+People analytics to gain a competitive advantage
 --- page 4 ---
 1. Calculate bench strength ratio.
 2. Interpret the result.

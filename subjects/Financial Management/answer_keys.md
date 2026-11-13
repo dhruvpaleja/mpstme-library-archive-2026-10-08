@@ -3340,6 +3340,21 @@ Reason for placing the finance functions in the hands of top management
 •   Centralisation of the finance functions can result in a number of economies
 to the firm.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Managing Director
+
+y v v v
+Production | | Personnel | | Financial | | Marketing
+Director Director Director Director
+
+Retirement Cost
+Benefits Control
+
+Performancd
+Evaluation
+
+i<t>) Accounting
 --- page 2 ---
 b. Shivam is offered a job with an initial annual salary of Rs 500,000, which is
 expected to increase at a constant rate of 5% per year for 40 years. Assuming
@@ -3689,6 +3704,21 @@ Reason for placing the finance functions in the hands of top management
 •   Centralisation of the finance functions can result in a number of economies
 to the firm.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Managing Director
+
+y v v v
+Production | | Personnel | | Financial | | Marketing
+Director Director Director Director
+
+Retirement Cost
+Benefits Control
+
+Performancd
+Evaluation
+
+i<t>) Accounting
 --- page 2 ---
 b. Shivam is offered a job with an initial annual salary of Rs 500,000, which is
 expected to increase at a constant rate of 5% per year for 40 years. Assuming
@@ -4038,6 +4068,21 @@ Reason for placing the finance functions in the hands of top management
 •   Centralisation of the finance functions can result in a number of economies
 to the firm.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Managing Director
+
+y v v v
+Production | | Personnel | | Financial | | Marketing
+Director Director Director Director
+
+Retirement Cost
+Benefits Control
+
+Performancd
+Evaluation
+
+i<t>) Accounting
 --- page 2 ---
 b. Shivam is offered a job with an initial annual salary of Rs 500,000, which is
 expected to increase at a constant rate of 5% per year for 40 years. Assuming
@@ -4387,6 +4432,21 @@ Reason for placing the finance functions in the hands of top management
 •   Centralisation of the finance functions can result in a number of economies
 to the firm.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Managing Director
+
+y v v v
+Production | | Personnel | | Financial | | Marketing
+Director Director Director Director
+
+Retirement Cost
+Benefits Control
+
+Performancd
+Evaluation
+
+i<t>) Accounting
 --- page 2 ---
 b. Shivam is offered a job with an initial annual salary of Rs 500,000, which is
 expected to increase at a constant rate of 5% per year for 40 years. Assuming
@@ -4736,6 +4796,21 @@ Reason for placing the finance functions in the hands of top management
 •   Centralisation of the finance functions can result in a number of economies
 to the firm.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Managing Director
+
+y v v v
+Production | | Personnel | | Financial | | Marketing
+Director Director Director Director
+
+Retirement Cost
+Benefits Control
+
+Performancd
+Evaluation
+
+i<t>) Accounting
 --- page 2 ---
 b. Shivam is offered a job with an initial annual salary of Rs 500,000, which is
 expected to increase at a constant rate of 5% per year for 40 years. Assuming

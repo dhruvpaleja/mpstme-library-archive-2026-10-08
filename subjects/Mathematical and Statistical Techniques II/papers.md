@@ -32,6 +32,18 @@ A.   5
 B.   5
 C.   5
 Page 1 of 3
+
+[Text in pictures on this page, read by OCR]
+Kamla devi wants to divide the amount of €3,31,250 and make investments in the
+names of two children Arpan and Bharat who are 28 and 27 years old respectively, in
+such a way that both receive the same amount when they are each 30 years old. If the
+rate of compound interest is 12%, how should the amount be divided?
+
+In a group of 80 persons 30 like Western music, 40 like Indian music and 60 like at least
+one of the music. Find the probability that a person selected at random from this group
+i) likes both types of music ii) likes only Indian music iii) does not like any
+
+type of music.
 --- page 2 ---
 2.
 
@@ -113,6 +125,18 @@ A.   5
 B.   5
 C.   5
 Page 1 of 3
+
+[Text in pictures on this page, read by OCR]
+Kamla devi wants to divide the amount of €3,31,250 and make investments in the
+names of two children Arpan and Bharat who are 28 and 27 years old respectively, in
+such a way that both receive the same amount when they are each 30 years old. If the
+rate of compound interest is 12%, how should the amount be divided?
+
+In a group of 80 persons 30 like Western music, 40 like Indian music and 60 like at least
+one of the music. Find the probability that a person selected at random from this group
+i) likes both types of music ii) likes only Indian music iii) does not like any
+
+type of music.
 --- page 2 ---
 2.
 
@@ -198,6 +222,12 @@ A.   5
 B.   5
 C.   5
 Page 1 of 3
+
+[Text in pictures on this page, read by OCR]
+Kamla devi wants to divide the amount of €3,31,250 and make investments in the
+names of two children Arpan and Bharat who are 28 and 27 years old respectively, in
+such a way that both receive the same amount when they are each 30 years old. If the
+rate of compound interest is 12%, how should the amount be divided?
 --- page 2 ---
 2.
 
@@ -285,6 +315,18 @@ A.   5
 B.   5
 C.   5
 Page 1 of 3
+
+[Text in pictures on this page, read by OCR]
+Kamla devi wants to divide the amount of €3,31,250 and make investments in the
+names of two children Arpan and Bharat who are 28 and 27 years old respectively, in
+such a way that both receive the same amount when they are each 30 years old. If the
+rate of compound interest is 12%, how should the amount be divided?
+
+In a group of 80 persons 30 like Western music, 40 like Indian music and 60 like at least
+one of the music. Find the probability that a person selected at random from this group
+i) likes both types of music ii) likes only Indian music iii) does not like any
+
+type of music.
 --- page 2 ---
 2.
 
@@ -366,6 +408,18 @@ A.   5
 B.   5
 C.   5
 Page 1 of 3
+
+[Text in pictures on this page, read by OCR]
+Kamla devi wants to divide the amount of €3,31,250 and make investments in the
+names of two children Arpan and Bharat who are 28 and 27 years old respectively, in
+such a way that both receive the same amount when they are each 30 years old. If the
+rate of compound interest is 12%, how should the amount be divided?
+
+In a group of 80 persons 30 like Western music, 40 like Indian music and 60 like at least
+one of the music. Find the probability that a person selected at random from this group
+i) likes both types of music ii) likes only Indian music iii) does not like any
+
+type of music.
 --- page 2 ---
 2.
 
@@ -447,6 +501,18 @@ A.   5
 B.   5
 C.   5
 Page 1 of 3
+
+[Text in pictures on this page, read by OCR]
+Kamla devi wants to divide the amount of €3,31,250 and make investments in the
+names of two children Arpan and Bharat who are 28 and 27 years old respectively, in
+such a way that both receive the same amount when they are each 30 years old. If the
+rate of compound interest is 12%, how should the amount be divided?
+
+In a group of 80 persons 30 like Western music, 40 like Indian music and 60 like at least
+one of the music. Find the probability that a person selected at random from this group
+i) likes both types of music ii) likes only Indian music iii) does not like any
+
+type of music.
 --- page 2 ---
 2.
 
@@ -528,6 +594,13 @@ A.   5
 B.   5
 C.   5
 Page 1 of 3
+
+[Text in pictures on this page, read by OCR]
+Ms. Rachel took a loan of 780,000 from Mr. Amaan. At the same time she
+borrowed 21,20,000 from Ms. Sejal at a rate of simple interest greater than
+the first by 3% p.a. After 3 years, Ms. Rachel returned both the loans,
+alongwith the total simple interest of $64,800. Find the rate of interest for
+both the loans.
 --- page 2 ---
 2.
 
@@ -617,6 +690,13 @@ A.   5
 B.   5
 C.   5
 Page 1 of 3
+
+[Text in pictures on this page, read by OCR]
+Ms. Rachel took a loan of 780,000 from Mr. Amaan. At the same time she
+borrowed 21,20,000 from Ms. Sejal at a rate of simple interest greater than
+the first by 3% p.a. After 3 years, Ms. Rachel returned both the loans,
+alongwith the total simple interest of $64,800. Find the rate of interest for
+both the loans.
 --- page 2 ---
 2.
 

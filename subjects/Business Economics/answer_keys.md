@@ -32,6 +32,17 @@ a. (6 marks)   12
 Advantages of Perfect Competition for Consumers
 Introduction
 Page 1 of 9
+
+[Text in pictures on this page, read by OCR]
+Solution Table
+
+Q TC Tvc AFC AVC ATC MC
+0 150 0 —_ — = _—
+1 210 60 150 60 210 60
+2 270 120 75 60 135 60
+3 360 210 50 70 120 90
+
+4 480 330 37.5 82.5 120 120
 --- page 2 ---
 Perfect competition is a market structure where many firms sell identical products and no
 single firm can influence price. This structure provides several benefits to consumers.
@@ -145,6 +156,30 @@ Excess saving reduces consumption demand.
 High interest rates discourage borrowing and spending.
 Effects
 Page 5 of 9
+
+[Text in pictures on this page, read by OCR]
+Deficient Demand and Deflationary Gap
+
+wt
+
+Full Employment
+= Equilibrium
+
+AD (C +1)
+
+.-e* AD, (C +1 -All)
+
+-
+-
+
+-
+=
+
+Deflationary
+Gap (EG)
+
+ie) M Y
+Income / Output / Employment
 --- page 6 ---
 Unemployment rises
 Production declines
@@ -289,6 +324,17 @@ a. (6 marks)   12
 Advantages of Perfect Competition for Consumers
 Introduction
 Page 1 of 9
+
+[Text in pictures on this page, read by OCR]
+Solution Table
+
+Q TC Tvc AFC AVC ATC MC
+0 150 0 —_ — = _—
+1 210 60 150 60 210 60
+2 270 120 75 60 135 60
+3 360 210 50 70 120 90
+
+4 480 330 37.5 82.5 120 120
 --- page 2 ---
 Perfect competition is a market structure where many firms sell identical products and no
 single firm can influence price. This structure provides several benefits to consumers.
@@ -402,6 +448,30 @@ Excess saving reduces consumption demand.
 High interest rates discourage borrowing and spending.
 Effects
 Page 5 of 9
+
+[Text in pictures on this page, read by OCR]
+Deficient Demand and Deflationary Gap
+
+wt
+
+Full Employment
+= Equilibrium
+
+AD (C +1)
+
+.-e* AD, (C +1 -All)
+
+-
+-
+
+-
+=
+
+Deflationary
+Gap (EG)
+
+ie) M Y
+Income / Output / Employment
 --- page 6 ---
 Unemployment rises
 Production declines
@@ -546,6 +616,17 @@ a. (6 marks)   12
 Advantages of Perfect Competition for Consumers
 Introduction
 Page 1 of 9
+
+[Text in pictures on this page, read by OCR]
+Solution Table
+
+Q TC Tvc AFC AVC ATC MC
+0 150 0 —_ — = _—
+1 210 60 150 60 210 60
+2 270 120 75 60 135 60
+3 360 210 50 70 120 90
+
+4 480 330 37.5 82.5 120 120
 --- page 2 ---
 Perfect competition is a market structure where many firms sell identical products and no
 single firm can influence price. This structure provides several benefits to consumers.
@@ -659,6 +740,30 @@ Excess saving reduces consumption demand.
 High interest rates discourage borrowing and spending.
 Effects
 Page 5 of 9
+
+[Text in pictures on this page, read by OCR]
+Deficient Demand and Deflationary Gap
+
+wt
+
+Full Employment
+= Equilibrium
+
+AD (C +1)
+
+.-e* AD, (C +1 -All)
+
+-
+-
+
+-
+=
+
+Deflationary
+Gap (EG)
+
+ie) M Y
+Income / Output / Employment
 --- page 6 ---
 Unemployment rises
 Production declines
@@ -808,6 +913,17 @@ sellers, homogeneous products, free entry and exit, and perfect knowledge. In su
 no single firm can influence the price. The price is determined by the forces of demand and
 supply in the market.
 Page 1 of 10
+
+[Text in pictures on this page, read by OCR]
+TFC = 2220
+
+Q TC Tvc AFC AVC ATC MC
+0 220 0 _ —_ _— _
+1 280 60 220 60 280 60
+2 350 130 110 65 175 70
+3 450 230 73.33 76.67 150 100
+
+4 600 380 55 95 150 150
 --- page 2 ---
 Determination of Price
 Under Perfect Competition, price is determined by the interaction of market demand and

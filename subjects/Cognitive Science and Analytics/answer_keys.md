@@ -475,6 +475,19 @@ GRU
 • Combines hidden and cell states into one
 Illustration (Conceptual)   (2M)
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+(sia } = Sigmoid function
+{tanh } = tanh function
+&) = point-by-point
+multiplication
+! BD = point-by-point
+1 addition
+Output Gate
+
+|
+X = = vector connections
+LSTM CELL 1
 --- page 15 ---
 Advantages Comparison   (1M)
 LSTM Advantages
@@ -657,6 +670,18 @@ o Alternative hypothesis (H₁): Significant effect
 o Commonly 0.05
 3. Choose Test Statistic
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+Formula (Mean Cl)
+
+CI=£+2Z-
+
+Explanation
+® £: Sample mean
+® 4: 2Z-score (confidence level)
+® o: Standard deviation
+
+« mn: Sample size
 --- page 20 ---
 o   Z-test, t-test, etc.
 4. Decision Rule
@@ -772,6 +797,35 @@ o Cleaning and feature extraction
 3. Model Building
 o Apply ML/DL algorithms
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+Entry User’s
+Data (location,
+Interest)
+
+¥
+
+Determine
+comparison <_
+parameters
+
+J
+
+Specify user’s data
+based on parameter
+
+y
+
+Determine
+community data
+based on user
+
+Another
+Parameterr
+
+Display
+communily as
+tecammendations
 --- page 25 ---
 4. Prediction & Recommendation
 o Generate personalized suggestions
@@ -1290,7 +1344,7 @@ Benefits:
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_CSBS_7036/Cognitive Science & Analytics/ANS_Cognitive Science & Analytics(702CO0E018)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (31 pages), mean OCR confidence 68.6
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1583,6 +1637,42 @@ Input 1: Room Temperature (RT)
 Input 2: Desired Temperature (DT)
 • Low (L), Medium (M), High (H)
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+tii) ReLD activation _ @
+Rectified Linear activation function (Re)V) is a piecewise linear
+function that outpubs tu input clivedtly if it ie positive , otherwise
+outpus zewo .
+A model thot uses Rel is easier to train and oHen ochieves bétter
+
+Mance
+
+Me ReW activation overcomes the varithing. gradient’ yreWem (seen
+
+Mathematically 4x2) = mox (0, 2)
+Tt ack as a linear funchen for positive values
+ond as a nen-linear activation function -for 2
+nesptive voles
+As the devivahve remains constant (i) for positive input learning time is reduced
+Se algo ewes cre minimized. However it may enaunter exploding gradiest
+problem resulting in instability
+
+v) Fl (2)
+The final pooled festuve mop is fA to a clarsifiew which accepl
+one-dimensional ddla. Hence the porled fectuve may is flattened
+info a single column
+
+2
+1{2yi \
+3} 1/2 > )
+o;1]0 1
+
+2
+
+Pooled o
+Feature map
+
+l Flattened layer
 --- page 9 ---
 Output: Heater Power (HP)
 • Low (L), Medium (M), High (H)
@@ -1694,6 +1784,31 @@ Stepwise process:
 RNNs are powerful for sequential data processing due to their memory capability, but
 limitations have led to advanced architectures like LSTM and GRU.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+«© Explanation of diagram:
+
+e Input sequence: 71, %o, 73, ...
+
+e Hidden states: h1, ho, h3,...
+
+¢ Output sequence: Y1, Yo, Y3; +
+
+e ach hidden state passes information to the next time step
+
+4. Mathematical Representation (2 Marks)
+Hidden state update:
+
+hy = f(Wrhia + W,2, + b)
+Output:
+ye = g(Wyht)
+
+Where:
+e h,: hidden state
+© 2;: input
+¢ W: weight matrices
+
+e f,g: activation functions
 --- page 13 ---
 3.   a   Illustrate classification of structured and unstructured data with suitable examples and   10
 CO-2   applications.
@@ -1818,6 +1933,27 @@ Stepwise process:
 2. Input gate updates memory with new information
 3. Cell state is updated
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+4. Components of LSTM (3 Marks)
+
+a) Forget Gate (1 Mark)
+
+e Decides what information to discard
+
+fi = (Wy [hi-1, 21] + by)
+
+b) Input Gate (1 Mark)
+
+e Decides what new information to store
+i, = o(W;[he-1, 21] + 0;)
+C, = tanh(W,[hy-1, @:] + b-)
+
+c) Output Gate (1 Mark)
+
+© Decides what to output
+
+On = o(W,[hi-1, 24] t i)
 --- page 17 ---
 4. Output gate produces hidden state
 6. Applications (0.5 Mark)
@@ -2043,6 +2179,24 @@ Ans:
 CO-3,
 BL-4
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Forward Pass (2 Marks)
+Hidden Layer Net Input:
+neth = (x;w, + Lowe) + dp
+net), = (1-0.6 + 0- (—0.4)) + 0.2 = 0.8
+
+Hidden Layer Output:
+
+1
+Treas © 0.69
+
+h = 0(0.8) =
+Output Layer Net Input:
+net, — (h-v) +b, = (0.69 - 0.5) + 0.1 = 0.445
+Output:
+
+y = 0(0.445) ~ 0.61
 --- page 25 ---
 Step 2: Error Calculation (1 Mark)
 

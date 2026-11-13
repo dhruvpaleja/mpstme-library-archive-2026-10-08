@@ -100,6 +100,32 @@ CO-2;   [10]
 SO-7
 BL-3
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+(a) Pirstly, find out the dimension of hole specified, ie., 25 H7
+
+For a diameter of 25-mm step size (refer Table 6.3) = (18 — 30) mm
+
+2» D= fd, xd, =V18x30 = 23.2379 mm
+And, i= 0.4549D +0.001D
+, § = 0.45923.2379 +.0.001 (23.2379)
+= 1.3074 microns
+Tolerance value for IT7 = 161 ....(Refer Table 6.4)
+= 16(1.3074) = 20.85 microns = 21 microns
+
+= 0.021 mm
+
++O 1
+
+(b) Limits for 25 H7 = 25.00°"° mm
+“, tolerance on hole = 0.021 mm
+Tolerance value for ITS = 25/ ....(refer Table 6.4)
+= 25(1.3074)
+= 32.6435 = 33 microns
+(c) Fundamental deviation for shaft ‘f = —5.5 D'""
+= —5.5(23.2)"4"
+
+= —10.34 = —10 microns
 --- page 4 ---
 F000
 

@@ -120,6 +120,19 @@ Claims against the Bank not acknowledge as Debts   1.10
 A.   8
 B.   7
 Page 5 of 7
+
+[Text in pictures on this page, read by OCR]
+Item
+
+Equity Share Capital (Issued and Paid-up) Equity
+
+Loans from Banks Financial Liability
+Investment in Debentures Financial Assets
+Bills Payable Financial Liability
+Capital Reserve Other equity
+Retained Earnings Other equity
+
+Debtors Financial Assets
 --- page 6 ---
 Statement of Profit & Loss for ABC Ltd. for the year ended 31st March 2025
 Particulars Amount (2)
@@ -162,4 +175,33 @@ Stock A/c   Dr. 16,00,000
 To Cash A/c   48,00,000
 B.   7
 Page 7 of 7
+
+[Text in pictures on this page, read by OCR]
+1. Definition - Cloud accounting means storing and managing financial data on remote
+servers accessed via the internet instead of a local computer.
+
+2. Accessibility - Data can be accessed from anywhere, anytime using a device with internet.
+
+3. Cost-Effective - Saves cost of maintaining expensive hardware and servers.
+
+4. Automatic Backup - Cloud service providers ensure automatic data backup.
+
+5. Scalability - Businesses can easily scale up or down their storage needs.
+
+6. Collaboration - Multiple users (accountants, managers, auditors) can access financial data
+simultaneously.
+
+7. Real-Time Updates - Transactions are updated in real time, avoiding delays.
+
+8. Data Security - Providers use encryption and security firewalls to protect sensitive
+financial data.
+
+9. Integration - Cloud accounting integrates with other tools like CRM, payroll, etc.
+
+10. Example - A company like “ABC Ltd.” using QuickBooks Online to store invoices, ledgers,
+and payroll data securely on the cloud.
+
+11. Eco-Friendly - Less paperwork and printing as all data is digital.
+
+12. Reliability - Reduces risk of data loss due to system crash or natural disasters.
 ````

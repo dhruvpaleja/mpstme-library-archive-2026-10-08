@@ -45,6 +45,19 @@ Security Appliances   Protect IS assets   Firewalls, IDS/IPS
 interactions..”   CO3
 5 points (1*5 marks)
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Common DSS Analysis Techniques
+
+The following are common analysis techniques in a decision support system.
+
+What if analysis Outlines the impact of a change in a variable or assumption on the model.
+Sensitivity Analysis Outlines the impact when one variable is changed repeatedly.
+
+Goal Seek Analysis Goal seeking analysis-finds the inputs necessary to achieve a goal
+Optimization Analysis Optimization analysis -finds the optimum value for a target variable by
+
+repeatedly changing other variables
 --- page 2 ---
 Social media has fundamentally changed the way businesses operate, market, and interact with customers. Compared to
 traditional business patterns, it offers greater flexibility, real-time engagement, cost efficiency, and enhanced customer
@@ -68,6 +81,55 @@ Explain any business application in brief.
    strengths, weaknesses, opportunities and threats (SWOT) analysis
  The five forces are
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Information Systems
+
+Executive
+Information
+System
+
+Executives
+
+Senior Managers Decision
+
+Support System
+
+Middle Managers Management
+
+Information System
+
+bia y Transaction Processing System
+
+‘Types of Systems
+
+Strategic Level Systems
+
+Executive Syear 54 BE
+spor tems Bra ine LO king HOMES
+ie budget planning planning
+ey ieee Sr" Being PRONE»
+Management-Level Systems
+Management Sales Inventory Annual Cay
+e i pital Relocation
+Iniormation Sytems management control budgeting investment analysis analysis,
+Decision Sales region Production Cost Pricing/profitability Contract cost
+Support Systems analysis scheduling analysis analysis nals
+Knowledge Level Systems
+Knowled Engineering Graphics Managerial
+Work Systems workstations workstations workstations
+Office Word Image Electronic
+Automation Systems processing storage calendars
+(OAS) .
+Operational-Level Systems
+Transaction Machine control Securities trading Payroll Compensation
+FS ee rr tracking Plant scheduling ‘Accounts payable Training & development
+Order processing Material movement Cash mance Accounts r Employee r ping
+cont
+facturing Finance Accounting Human
+Sales and Manufacturing Resources
+
+Marketing
 --- page 3 ---
 1. competition,
 2. the threat of new entrants to the industry,
@@ -89,6 +151,21 @@ foreign market? Explain with examples. CO4
 •   Corruption.
 •   Trade Policies and Tariffs:
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Advantages of CRM for Retailers
+
+Customer High Low cost
+Retention Ce of retaining
+and Profitability old
+Loyalty customers
+
+Business
+Performance
+Visibility
+
+Customer
+Satisfaction
 --- page 4 ---
 •   Nationalization Risks:
 3. Geo-Economic Challenges
@@ -364,6 +441,21 @@ suitable Types of DSS. CO1
 I.   Loan approval system using risk assessment models in banks. Model-driven DSS
 II.   Production scheduling system in manufacturing to optimize resources.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+TYPES OF DSS
+
+1. MODEL- DRIVEN DSS
+
+> includes system that use accounting,
+financial models, and representational
+models.
+
+2. DATA DRIVEN DSS
+
+> file drawer & management reporting
+system, data warehousing, geographical
+information.
 --- page 10 ---
 Model-driven DSS
 III.   Inventory management system to decide when to reorder stock.

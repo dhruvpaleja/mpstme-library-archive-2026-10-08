@@ -104,6 +104,17 @@ Particulars   Amount (Rs.)
 Receipts from debtors   1,43,300
 Bills Receivable Encased   51,200
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+Mahesh and Co. of Ahmednagar sent to Suresh & Co. 1000 toys at an invoice price of Rs. 200
+per toy to be sold on commission basis which is costing Rs. 160 per toy. Freight & Insurance
+were Rs. 30,000. Account Sales was received from consignee as follows: 400 toys were sold
+Rs. 275 on which 5% commission and Rs. 6,000 for expenses were deducted. 500 toys were
+sold Rs. 310 on which 10% commission and Rs. 10,000 for expenses were deducted.
+
+From the above information you are required to prepare consignment a/c, suresh a/c and goods
+sent on consignment account in the books of Mahesh & Co. and Mahesh a/c in the books of
+Suresh & Co.
 --- page 4 ---
 Cash Sales   20,480
 Payment to Creditors   76,800
@@ -219,6 +230,26 @@ Cash transactions:
 Particulars   Amount (Rs.)
 Receipts from debtors   44,800
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+Dagadu of Dehradun appointed Anuj of Aurangabad as its selling agent on the following terms:
+(a) Goods to be sold at invoice price or above.
+
+(b) Anuj to be entitled to a commission of 2.5% on the invoice price of the whole consignment
+and 15% of any surplus price realized over invoice price while sale.
+
+(c) The principals to draw on the agent a 45 days bill for 75% of the invoice price.
+
+On 10% February, 2025, 500 cycles were consigned to Anuj, each cycle costing Rs. 8,800
+including freight and invoiced at Rs. 11,000. Before 31st March, 2025 (when the principal’s
+books are closed) Anuj met his acceptance on the due date; sold off 465 cycles at an average
+price of Rs. 12,800 per cycle, he incurred selling expenses of Rs. 45,500; and remitted the
+amount due by means of Bank Draft.
+
+You are required to prepare consignment account, consignee’s account, goods sent on
+
+consignment account and bills receivable account in the books of Dagadu, and find out the
+value of closing stock with Anuj at which value Dagadu will account for the balance stock.
 --- page 4 ---
 Bills Receivable Encased   16,000
 Cash Sales   6,400

@@ -858,6 +858,37 @@ Solution:
 (1 mark)
 ----------------------------------------------------------------------------------------------------------------------------
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Given: n = 100, = 160 cm, s = 10 em, fo = 165 cm, a = 0.05
+Step 1: Hypotheses
+
+Ho: w= 165 (Population mean is 165 cm) Ee {mu
+
+Ay: ~~ 165 (Population mean is not 165 cm) —=
+Step 2: Test Statistic
+
+For large samples, the Z-test statistic is:
+
+_ 2=bo
+
+sin
+
+Step 3: Substitution of values
+
+= — po = 160—165=-5, s//n=10/V100=1 - i”
+—5 =
+Z=— =
+1
+Step 4: Critical value
+For a two-tailed test at a = 0.05, p
+20.025 =1.96 —» =a)
+Step 5: Decision
+Since |Z| = 5 > 1.96, we reject Ho. \
+* Step 6: Conclusion pee (Nl)
+At the 5% level of significance, it is not reasonable to suppose that the population mean
+height is 165 cm. The sample provides strong evidence that the population mean is
+different from 165 cm.
 --- page 4 ---
 Q2 a) A medical test is used to detect a rare disease that affects 1% of the population. The test correctly
 identifies a diseased person 98% of the time, but it also wrongly identifies a healthy person as positive 3%
@@ -908,6 +939,37 @@ Solution:
 (c) 7/9.   (2 marks)
 --------------------------------------------------------------------------------------------------------------------------
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Let pi be first sample proportion and py be second sample proportion. Let pi be first
+population proportion and p) be second population proportion. Given that
+Group A (with serum): n; = 100, 2, = 75 > p, = 0.75
+Group B (control): ng = 100, 22 = 65 > po = 0.65 ae in
+Level of significance: a = 0.01 ala
+Step 1: Hypotheses
+Ho : pi = po (Serum does not help) cet Ju
+Hy: pi > po (Serum helps to cure the disease) —
+Step 2: combined sample proportion
+pd G21 7=03 sl Sipe
+NM + Nq 200 =
+Step 3: Test statistic
+
+ye Pi — Pa
+(lL,
+Pq Ay ae
+Substitute the values: Ses ad,
+0.75 — 0.65 0.10 0.10
+1 1 0.0042 0.0648
+0.7 x 0.3 (a 3° x)
+
+Step 4: Critical value
+For a right-tailed test at a = 0.01, Zo, = 2.33 —— Jm
+
+Step 5: Decision es
+Since Z = 1.54 < 2.33, we accept Hp. ane Bart iM
+
+Conclusion: At the 1% level of significance, the sertmmdoes not help to cure the
+disease.
 --- page 6 ---
 Q3 b) A random variable X has the given probability density function:
  e − x   x  0
@@ -930,6 +992,60 @@ whether the difference between the mean weights is significant? (Use 5% level of
 Solution:
 -------------------------------------------------------------------------------------------------------------------
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Given data: n, = 200, 7; = 20, 5; = 2, no = 80, 2 = 20.5, 82 = 2, a=0.05. —S jy
+Let j1;, {42 be the mean for population 1 and 2 respectively. Step 1: Hypotheses =—
+
+Ho: ji = 2 (no significant difference in means) ——> im
+
+Hy: 1 # M2 (significant difference in means) __«, _) 4
+————
+This is a two-tailed test.
+Step 2: Test Statistic
+For large samples, population standard deviations are approximated by sample standard
+
+deviations. The test statistic is:
+
+1 — £2
+Z=
+
+fy
+
+m ' 72
+
+Step 3: Substitution of Values
+
+2, —Z = 20-205=-0.5, ———~ im
+
+———
+
+2? Diy)
+a0 V0.02 + 0.05 = V0.07 = 0.2646. =_
+
+2
+pi Teak \
+
+Thus,
+—0.5
+
+Z= ag = 189. > 1m
+
+Step 4: Critical Value
+For a two-tailed test at a = 0.05,
+
+Za/2 = Zoos = 1.96. — > IM
+
+Step 5: Decision Rule
+Reject Hp if |Z| > 1.96; otherwise fail to reject Ho.
+Here,
+|Z| = 1.89 < 1.96 = acceptHp. jm
+aaa
+
+Step 6: Conclusion
+At the 5% level of significance, the difference between the mean weights of fish at the two
+ends of the lake is not statistically significant. Therefore, both samples could have come
+from populations with the same mean weight.
 --- page 8 ---
 Q4 a) A small workshop records the number of machine breakdowns per day over 5 days as follows:
 Number of breakdowns (x) 0 1 2 3 4
@@ -940,6 +1056,27 @@ Solution:
 (1 mark)
 ---------------------------------------------------------------------------------------------------------------------
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Calculate probabilities P(X = x) (1.5 Marks)
+
+x 0 1 2 3 4
+
+P(X=x) 0.1353 0.2707 0.2707 0.1805 0.0903
+
+Step 4: Expected frequencies HE = N . P(X = x), N = 6 (1.5 Marks)
+
+x 0 1 2 3 4
+
+E 0.81 1.62 1.62 1.08 0.54
+
+Step 5: Round expected frequencies (| (1 mark)
+
+x Observed f Expected E (rounded)
+0 1 1
+1 1 2
+2 2 2
+3 1 1
 --- page 9 ---
 Q 4b) The following are the marks in Statistics (𝑋) and Mathematics (𝑌) of ten students
 X   56   55   58   57   56   60   54   59   57   58
@@ -948,6 +1085,24 @@ Compute the coefficient of correlation and estimate marks in Mathematics of a st
 Statistics.
 Solution:
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Step 2: Compute deviations and products (2 marks)
+
+x y (X-57) (Y-67.5) (CS7)(V-67.5) (K-57)? (Y-67.5)*
+56 68 A 0s -05 1 0.25
+55 67 2 05 1.0 4 0.25
+58 67 1 05 05 1 0.25
+57 65 0 25 0 0 6.25
+56 68 A 0s 05 1 0.25
+60 70 3 25 75 9 6.25
+54 66 3 15 45 9 225
+59 68 2 0s 1.0 4 0.25
+s7 66 0 AS 0 0 225
+58 70 1 25 25 1 6.25
+
+3(X —57)(Y — 67.5) = 15
+3(X — 57)? = 30
 --- page 10 ---
 -----------------------------------------------------------------------------------------------------------------------------------------
 Q 4c) A group of boys and girls were given an intelligence test. The results are as follows:
@@ -959,6 +1114,75 @@ Apply an appropriate statistical test to analyze whether the mean score of boys 
 that of girls at 5% of level of significance.
 Solution:
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Step 4: Find regression equation of Y on X (1 mark)
+
+oy
+byx =r x —
+
+ox
+o(xX — X)? 30
+
+= y= = 1.732
+
+ox n 10 73
+yy —Y)? 25.
+
+oy = 2a TE _ [55 _ 1 sor
+n 10
+
+1.597
+
+byx = 0.54 x L732
+
+= 0.498
+
+Regression equation:
+
+Y — 67.5 = 0.498(X — 57)
+
+Step 5: Estimate Y when X = 62 (1 mark)
+
+Y = 67.5 + 0.498(62 — 57) = 67.5 + 2.49 = 69.99 = 70
+
+Given: Boys: %, = 124, s; = 12, n; = 18; Girls: £2 = 121, s2 = 10, no = 14. —« [mM
+Step 1: Hypotheses See
+
+Ho : Lpoys = Mgirls (no difference in means) a hae
+A, : {poys # Mgirls (means are different) ise
+Step 2: Pooled Standard Deviation
+
+—1)s? —1)s2 : :
+(m1 )s? + (ne )s3 ‘e 17-1444 13-100 Ee /1DL93S RAILS oO
+Ny +N2— 2 30 ——
+
+Step 3: Standard Error (S.E.)
+
+1
+S.E. = oth an. ay i+ +7 =11.18- 0.3565 + 3.99 _» 1m
+Step 4: Test Statistic
+
+Zi—% _ 124-121 |
+oe en RS ee
+
+———
+
+t=
+
+Step 5: Degrees of Freedom
+
+df =n +ng-2=18+14—-2=30
+
+Step 6: Critical t-value
+Two-tailed test at a = 0.05, df = 30: to.o25,30 © 2.042 —+ > im
+Step 7: Decision
+
+|t| = 0.752 < 2.042 =» Accept Ho > jean
+
+Step 8: Conclusion
+At the 5% level of significance, there is no significant difference between the mean intel-
+ligence scores of boys and girls.
 --- page 11 ---
 This formula can also be used to calculate
 --------------------------------------------------------------------------------------------------------------------
@@ -970,12 +1194,66 @@ b) at most 2 defective screws.
 Solution
 -----------------------------------------------------------------------------------------------------------------------------------------
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Given:
+¢ Probability of defective screw: p = 0.03, g = 1 — p= 0.97
+e Screws per packet: n = 30
+¢ Number of packets = 800
+¢ Let. X = number of defective screws per packet, X ~ Bin(n = 30, p = 0.03)
+
+Step 1 (1 mark): State the Binomial formula
+
+P(X =2)= ("ora
+x
+Step 2 (2 marks): Compute probability of at least 2 defective screws
+P(X > 2) =1-—P(X <2) =1- [P(X =0)+ P(X =1)}
+P(X =0) =q*° = 0.97" = 0.4013
+
+30
+
+P(X =1)= ( i ) = 30 - 0.03 - 0.977" = 0.3720
+
+P(X > 2) =1-— (0.4013 + 0.3720) = 0.2267
+Number of packets: 800 - 0.2267 = 181
+Step 3 (2 marks): Compute probability of at most 2 defective screws
+
+P(X <2) = P(X =0)+ P(X =1) + P(X =2)
+
+30
+
+P(X =2)= ( 9 ) pg = 435 - 0.0009 - 0.9775 = 0.1609
+P(X < 2) = 0.4013 + 0.3720 + 0.1609 = 0.9342
+
+Number of packets: 800 - 0.9342 =~ 747
 --- page 12 ---
 Q5 a) ii) The lifetime of a certain type of battery is normally distributed with a mean of 400 hours and a
 standard deviation of 45 hours. Compute the percentage of batteries that have a lifetime of at least 470 hours.
 Solution:
 -------------------------------------------------------------------------------------------------------------------
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Given: js = 400,0 = 45, X = 470
+
+Step 1 (1 mark): Find z-score
+
+470 — 400
+z= —_—_
+
+ew 1.556
+45
+
+Step 2 (1 mark): Find cumulative probability
+P(Z < 1.556) ~ 0.9405
+Step 3 (1 mark): Probability of at least 470 hours
+P(X > 470) = 1— 0.9405 = 0.0595
+Step 4 (1 mark): Convert to percentage
+0.0595 x 100 ~ 5.95%
+
+Step 5 (1 mark): Final answer
+
+5.95%
 --- page 13 ---
 Q 5b) The following table shows the result of opinion poll for three political parties 𝐴, 𝐵 and 𝐶. Analyze
 the data using Chi-square test to determine whether the age of the respondent and their choice of party are
@@ -989,6 +1267,42 @@ Above 50   25   25   30   80
 Total   70   70   90   230
 Solution:
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Hypotheses.
+
+e Ho: Age and party choice are independent. ©. {1 Marks]
+=——
+e H,: Age and party choice are not independent. poe {1 Marks]
+
+Level of significance: a = 0.05.
+
+Step 2: Expected frequencies.
+Expected frequency for cell in row i and column j is
+
+(Row total;)(Column total;)
+Grand total
+
+We compute the expected values (rounded to two decimal places) as follows:
+
+By =
+
+Expected frequencies (two decimal places)
+
+Age Group A B Cc
+20-35 (70*70)/230 (70*70)/230 (70*90)/230
+35-50 (80*70)/230 (80*70)/230 (80*90)/230
+
+Above 50 — (80*70)/230 (80*70)/230 (80*90) /230
+
+For clarity, the numerical values are:
+
+70 x 70
+
+Ex-35,4 = 307 21.30, Eo0-35,8 = 21.30, Ey9-35,¢ = 27.39,
+80 x 70
+E35-50,4 = R307 = 24:35: Es5-50,8 = 24.35, E35-50,c = 31.30, 2™
+E550,A = 24.35, E 50,8 = 24.35, Ess0,¢ mm OL:
 --- page 14 ---
 Step 3: Compute ? statistic.
 
@@ -1059,6 +1373,50 @@ Test whether the two populations have the same variance at 5% level of significa
 Solution:
 -------------------------------------------------------------------------------------------------------------------------
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Hypotheses
+
+Hy: 0? =03 (variances are equal) Wes hie
+H,: 07403 (variances are not equal) =
+
+Step 2: Calculate sample variances
+
+Sample 1 (n; = 5):
+
+2, = 1 a 5) Say
+
+— 24.6)? — 24.6)? — 24.6)? + (26 — 24.6)? + (27— 24.6)? _ 21.2
+pel 24.6)? + (24 — 24.6) oe +( )? + ( ) = 77 535 ie
+
+Sample 2 (n2 = 6):
+22 + 27 + 28+ 30+ 31+ 36
+
+B= - = 29 aati
+— 29)? — 29)? — 29)? + (30 — 29)? + (31 — 29)? + (36 — 29)? _ 108
+eee 29)? + (27 — 29)? + (28 — 29)? + ( cart )? + ( ) = 086 oe
+6-1 5
+Step 3: Test Statistic
+larger variance 21.6
+~ smaller variance 5.3 £075 ag
+Step 4: Degrees of Freedom
+dfj=m—-1=5, dfg=n—-1=4
+
+Step 5: Critical values
+
+Two-tailed test at a = 0.05:
+im
+
+Fo.o25,5,4 © 15.98,   Fo.975,5,4 = 1/Fo.025,4,5 © 0.0625 >»
+
+Step 6: Decision
+
+0.0625 < F = 4.075 < 15.98 = Accept Hp WW» \w
+
+Step 7: Conclusion
+
+At the 5% level of significance, there is no significant evidence that the variances of the
+two tobacco samples are different.
 --- page 18 ---
 Q7 a i) In partially destroyed laboratory record of an analysis of correlation data, the following information
 is available: the variance of 𝑋 is 9 , and the two regression equations are: 8𝑋– 10𝑌 + 66 = 0 &
@@ -1097,6 +1455,50 @@ to test whether the mean payment time is the same for all three modes at the 5% 
 Solution:
 -----------------------------------------------------------------------------------------------------------------------
 ********** 20 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Hypotheses
+
+Ho : cheque = Lcredit = Hinternet) 1 : At least one mean is different ——> i™
+
+Step 2: Group Means
+
+%=10, %=8, #=12, X=10 ——_ gn
+
+=——
+
+Step 3: Sum of Squares Between Groups (SSB)
+
+SSB => n,(%; — X)? =5- (10-10)? +5- (8 — 10)? +5 - (12 — 10)” = 40 —_ 2™
+
+———
+
+Step 4: Sum of Squares Within Groups (SSW)
+k na
+SSW = 0 >o (ey — 3)? =304+16+14=60 —S 9m
+i=l j=1 —————
+
+Step 5: Degrees of Freedom
+
+dfg =k-1=2, dfw=N-k=12
+Step 6: Mean Squares
+
+SSB 40 ge = SSW: 60em R fky
+MSB="7-=7=2, MSW="-_ ==
+Step 7: F-statistic
+MSB _ 20
+“Msw- 3-4
+
+Step 8: Critical Value
+At a = 0.05, df, = 2, df = 12, Foo5,2,12 © 3.89
+Step 9: Decision
+
+F=4>3.89 = Reject H) ——> Iw
+
+Step 10: Conclusion
+
+At-5% significance level, there is sufficient evidence to conclude that the mean payment
+time is not the same for all three modes of payment.
 ````
 
 ## 2025-26 · Final-Exam · Sem 3 · Answer key · paper 3d95a933a925
@@ -1201,6 +1603,36 @@ Solution:
 (1 mark)
 (1 mark)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Given: n = 100, = = 160 cm, s = 10 em, fo = 165 cm, a = 0.05
+Step 1: Hypotheses
+
+Ho: w= 165 (Population mean is 165 cm) ae {mu
+
+Ay: w~ #165 (Population mean is not 165 cm) ——
+Step 2: Test Statistic
+
+For large samples, the Z-test statistic is:
+
+_ &— po
+
+— s/fn
+
+Step 3: Substitution of values
+
+=— po = 160—165=-5, s//n=10/V100 = 1 ce Ae,
+
+Step 4: Critical value
+For a two-tailed test at a = 0.05,
+Zo.025 = 1.96 ———> JE mM
+
+Step 5: Decision
+Since |Z| = 5 > 1.96, we reject Ho. \
+* Step 6: Conclusion = (vale:
+At the 5% level of significance, it is not reasonable to suppose that the population mean
+height is 165 cm. The sample provides strong evidence that the population mean is
+different from 165 cm.
 --- page 4 ---
 As both regression coefficients are negative, r is negative. Therefore 𝑟= − 1 (1 mark)
 3
@@ -1267,6 +1699,47 @@ P( second good battery selected) = 6   (0.5 marks)
 P(selecting 2 good batteries) = 7 ∙ 6 = 7   (1 mark)
 10 9   15
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Let 7; be first sample proportion and pz be sccond sample proportion. Let p; be first
+population proportion and p2 be second population proportion. Given that
+
+Group A (with serum): n; = 100, 2) = 75 > py = 0.75 , .
+
+Group B (control): nz = 100, «2 = 65 => pe = 0.65 a t™
+
+Level of significance: a = 0.01
+
+Step 1: Hypotheses
+Ho: pi = po (Serum does not help) + r™
+Hy: pi > po (Serum helps to cure the disease)
+
+Step 2: combined sample proportion
+
+po tte _ 75465 q=1-p=03 7 aM
+
+m+n2 200   °’
+Ze= Pi — P2
+(Gra)
+nm Ne
+am
+
+Step 3: Test statistic
+
+Substitute the values:
+
+_ 0.75 — 0.65 _ 0.10 0.10 |
+bie wa fh 1 1 0.0042 0.0648
+* (et in)
+
+Step 4: Critical value
+For a right-tailed test at a = 0.01, Zoo = 2.33 —a im
+
+Step 5: Decision
+Since Z = 1.54 < 2.33, we accept Hy. — (™
+
+Conclusion: At the 1% level of significance, the serum does not help to cure the
+disease.
 --- page 6 ---
 (b) Probability second battery is good given first is good.
 First is good. Therefore remaining good batteries: 6, and total : 9   (1 mark)
@@ -1306,6 +1779,50 @@ whether the difference between the mean weights is significant? (Use 5% level of
 Solution:
 -------------------------------------------------------------------------------------------------------------------
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Given data: n, = 200, 7; = 20, 5; = 2, no = 80, 2 = 20.5, 82 = 2, a=0.05. —S jy
+Let j1;, {42 be the mean for population 1 and 2 respectively. Step 1: Hypotheses =—
+
+Ho: ji = 2 (no significant difference in means) ——> im
+
+Hy: 1 # M2 (significant difference in means) __«, _) 4
+——
+This is a two-tailed test.
+Step 2: Test Statistic
+For large samples, population standard deviations are approximated by sample standard
+deviations. The test statistic is: ==
+zo 2
+raed
+™m™
+Step 3: Substitution of Values
+
+gia ye 20.5 = —0.5, ———7 poste
+
+2 = PP = voue+om Gare =0.2616.—> 1”
+mm V0" 200 =
+
+Thus,
+20,8 eeenigg
+RON fo ee
+
+Step 4: Critical Value
+For a two-tailed test at a = 0.05,
+
+Za/2 = Zoos = 1.96. — > IM
+
+—
+
+Step 5: Decision Rule
+Reject Hp if |Z| > 1.96; otherwise fail to reject Ho.
+Here,
+|Z| = 1.89 < 1.96 = acceptHp. jm
+aaa
+
+Step 6: Conclusion
+At the 5% level of significance, the difference between the mean weights of fish at the two
+ends of the lake is not statistically significant. Therefore, both samples could have come
+from populations with the same mean weight.
 --- page 8 ---
 Q4 a) A small workshop records the number of machine breakdowns per day over 5 days as follows:
 Number of breakdowns (x) 0 1 2 3 4
@@ -1317,6 +1834,39 @@ Solution:
 0
 ---------------------------------------------------------------------------------------------------------------------
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate mean (A = Ef-x / Ef) (1 Mark)
+
+pa LV fee _ (1-0) +O +2-2)+ 0-3) + (1-4) _ OF 1444344 1
+
+yf 1+14+2+141 6 6
+A=2
+Step 2: Poisson probability formula (1 Mark)
+-Ayz
+P(X=2)=*
+
+a!
+
+Step 3: Calculate probabilities P(X = «) (1.5 Marks)
+
+x 0 1 2 3 4
+
+P(X=x) 0.1353 0.2707 0.2707 0.1805 0.0903
+
+Step 4: Expected frequencies E = N . P(X = x), N = 6 (1.5 Marks)
+
+x 0 1 2 3 4
+
+E 0.81 1.62 1.62 1.08 0.54
+
+Step 5: Round expected frequencies | (1 mark)
+
+x Observed f Expected E (rounded)
+0 1 1
+1 1 2
+2 2 2
+3 1 1
 --- page 9 ---
 Q 4b) The following are the marks in Statistics (𝑋) and Mathematics (𝑌) of ten students
 X   56   55   58   57   56   60   54   59   57   58
@@ -1325,6 +1875,32 @@ Compute the coefficient of correlation and estimate marks in Mathematics of a st
 Statistics.
 Solution:
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Step 2: Compute deviations and products (2 marks)
+
+x Y (X-57) (Y-67.5) (X-57)(Y-67.5) (X-57)? (Y-67.5)?
+56 68 -1 0.5 -0.5 1 0.25
+55 67 -2 -0.5 1.0 4 0.25
+58 67 1 -0.5 -0.5 1 0.25
+57 65 0 -2.5 0 0 6.25
+56 68 -1 0.5 -0.5 1 0.25
+60 70 3 25 75 9 6.25
+54 66 -3 1.5 45 9 2.25
+59 68 2 0.5 1.0 4 0.25
+57 66 0 1.5 0 0 2.25
+58 70 1 25 25 1 6.25
+
+3(X — 57)(Y — 67.5) = 15
+3(X — 57)? = 30
+
+Si(¥ — 67.5)? — 24.5
+
+Step 3: Compute correlation coefficient (r) (1 mark)
+— (x - X)(Y —Y)
+VX(X —- XPx(Y —Y)?
+15 15
+"= Pox ~ 574, ~ 955
 --- page 10 ---
 Alternatively:
 (2 marks)
@@ -1342,6 +1918,52 @@ Normal Equations are
 Therefore
 570 = 10𝐴+ 675𝐵
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Step 4: Find regression equation of Y on X (1 mark)
+
+oy
+byx =r x —
+
+ox
+o(xX — X)? 30
+
+= y= = 1.732
+
+ox n 10 73
+yy —Y)? 25.
+
+oy = 2a TE _ [55 _ 1 sor
+n 10
+
+1.597
+
+byx = 0.54 x L732
+
+= 0.498
+
+Regression equation:
+
+Y — 67.5 = 0.498(X — 57)
+
+Step 5: Estimate Y when X = 62 (1 mark)
+
+Y = 67.5 + 0.498(62 — 57) = 67.5 + 2.49 = 69.99 = 70
+
+x Y XY x y?
+
+56 68 3808 3136 4624
+55 67 3685 3025 4489
+58 67 3886 3364 4489
+57 65 3705 3249 4225
+56 68 3808 3136 4624
+60 70 4200 3600 4900
+54 66 3564 2916 4356
+59 68 4012 3481 4624
+57 66 3762 3249 4356
+58 70 4060 3364 4900
+
+IX = 570 LY = 675 IXY = 38490 =X? = 32520 ry? = 45587
 --- page 11 ---
 38490 = 675𝐴+ 45587𝐵. On solving we get
 𝐴= 15.67 and 𝐵= 0.61
@@ -1362,6 +1984,51 @@ Apply an appropriate statistical test to analyze whether the mean score of boys 
 that of girls at 5% of level of significance.
 Solution:
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Given: Boys: Z, = 124, s; = 12, n, = 18; Girls: Z = 121, 52 =10,ng=14. —*a [mM
+
+Step 1: Hypotheses ee
+
+Ho : Lpoys = Hgirls (no difference in means)
+oar
+
+Ay : [yoys # Mgirls (means are different)
+
+Step 2: Pooled Standard Deviation
+
+2 2 18(127) + 14(107) — 18(144) + 14(100)
+m1 8] + M283 is+i4—2 30
+nm, + ne —2 2592 + 1400 3992 2M
+_ - =—-= — 133.07 eS
+30 30 —
+
+Step 3: Standard Error (S.E.)
+
+SE. = (mite) (4+4)= vi6.90 = 4.11
+
+ny n2
+
+my +ng—2 mee pay
+Step 4: Test Statistic
+_%-% 124-121 _ 38 0.73
+“SE. 4.11 4.11 aM
+——
+
+Step 5: Degrees of Freedom
+
+df =m +m —2=18+14-2=30
+
+Step 6: Critical t-value
+Two-tailed test at a = 0.05, df = 30: to.ons,90 ¥ 2.042 ———» lm
+Step 7: Decision a
+
+|t| = 0.73 < 2.042 > Accept Ho eS ee
+
+Step 8: Conclusion
+
+At the 5% level of significance, there is no significant difference between the mean intel-
+ligence scores of boys and girls.
 --- page 12 ---
 Alternatively
 
@@ -1413,6 +2080,38 @@ Q5 a) ii) The lifetime of a certain type of battery is normally distributed with
 standard deviation of 45 hours. Compute the percentage of batteries that have a lifetime of at least 470 hours.
 Solution:
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Given:
+¢ Probability of defective screw: p = 0.03, gq = 1— p= 0.97
+¢ Screws per packet: n = 30
+¢ Number of packets = 800
+* Let. X = number of defective screws per packet, X ~ Bin(n = 30, p = 0.03)
+
+Step 1 (1 mark): State the Binomial formula
+P(X =2)= ("Jere
+z
+Step 2 (2 marks): Compute probability of at least 2 defective screws
+P(X > 2) =1-—P(X < 2) =1- [P(X =0)+ P(X =1)}
+
+P(X =0) = q* = 0.97 = 0.4013
+
+30
+
+P(X =1)= ( 1 ) oa = 30 - 0.03 - 0.9779 = 0.3720
+
+P(X > 2) =1— (0.4013 + 0.3720) = 0.2267
+Number of packets: 800 - 0.2267 ~ 181
+Step 3 (2 marks): Compute probability of at most 2 defective screws
+
+P(X <2) =P(X =0)+P(X =1)+P(X =2)
+
+30
+
+P(X =2)= ( 5 ) pq’ = 435 -0.0009-0.97° = 0.1668
+P(X < 2) = 0.4013 + 0.3720+' 0.1668=0.93985
+
+Number of packets: 800X0.93985=752
 --- page 14 ---
 -------------------------------------------------------------------------------------------------------------------
 Alternatively:
@@ -1421,6 +2120,23 @@ Alternatively:
 𝑃(𝑍≥1.55) = 0.5 −0.4394 = 0.0606   (2 marks)
 Percentage of batteries having lifetime of atleast 470 hours is 0.0606𝑋100 ≈6%   (1 mark)
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Given: js = 400,0 = 45, X = 470
+Step 1 (2 marks): Find z-score
+
+X—p , — 470-400
+o 45
+
+Z- ew 1.556
+
+Step 2 (1 mark): Find cumulative probability
+P(Z < 1.556) ~ 0.9405
+Step 3 (1 mark): Probability of at least 470 hours
+P(X > 470) = 1— 0.9405 = 0.0595
+Step 4 (1 mark): Convert to percentage
+
+0.0595 x 100 ~ 5.95%
 --- page 15 ---
 Q 5b) The following table shows the result of opinion poll for three political parties 𝐴, 𝐵 and 𝐶. Analyze
 the data using Chi-square test to determine whether the age of the respondent and their choice of party are
@@ -1434,6 +2150,42 @@ Above 50   25   25   30   80
 Total   70   70   90   230
 Solution:
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Hypotheses.
+
+e Ho: Age and party choice are independent. ©. {1 Marks]
+=——
+e H,: Age and party choice are not independent. poe {1 Marks]
+
+Level of significance: a = 0.05.
+
+Step 2: Expected frequencies.
+Expected frequency for cell in row i and column j is
+
+(Row total;)(Column total;)
+Grand total
+
+We compute the expected values (rounded to two decimal places) as follows:
+
+By =
+
+Expected frequencies (two decimal places)
+
+Age Group A B Cc
+20-35 (70*70)/230 (70*70)/230 (70*90)/230
+35-50 (80*70)/230 (80*70)/230 (80*90)/230
+
+Above 50 — (80*70)/230 (80*70)/230 (80*90) /230
+
+For clarity, the numerical values are:
+
+70 x 70
+
+Ex-35,4 = 307 21.30, Eo0-35,8 = 21.30, Ey9-35,¢ = 27.39,
+80 x 70
+E35-50,4 = R307 = 24:35: Es5-50,8 = 24.35, E35-50,c = 31.30, 2™
+E550,A = 24.35, E 50,8 = 24.35, Ess0,¢ mm OL:
 --- page 16 ---
 Step 3: Compute ? statistic.
 
@@ -1508,6 +2260,44 @@ Solution:
 Alternatively,
 Students may be evaluated as per the solution given below and similar step marks awarded
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+Solution
+Step 1: Hypotheses
+No :02 = 03 (variances are equal) + ie
+H,:03> 03 (variances are not equal)
+
+Step 2: Calculate sample variances
+
+Sample 1 (n; = 5):
+py = MEU+I +2477 _ 946 —- |M
+-_ 2 _ 2 = 2 _ 2 eS 2
+gg = P= 24.0) + (24 ~ 24.6)? + us zat) + (26 — 24.6)? + (27 — 24.6)? _ «id 2 531M
+Sample 2 (nz = 6):
+
+_ 22+ 27+ 28+ 304+ 31+ 36 _ a9 > (m™
+
+6
+22 — 2 ei 2 _ 2 _ 2 _ 2 = 2
+3 = ( 29)? + (27 — 29)? + (28 2 + Go 29)? + (31 — 29)? + (36 29) == 21.6 >I
+
+Step 3: Test Statistic
+
+_ larger variance = 21.6 ~ 4.075 7a Il mM
+smaller variance 5.3 .
+
+Step 4: Degrees of Freedom
+dfj=n2-1=5, dfp=n—1=4
+Step 5: Critical values
+From the given table, F, = 6.256 —? r™
+Step 6: Decision
+
+F =4.075 <6.256 =>AcceptH) —Y | M
+
+Step 7: Conclusion
+At the 5% level of significance, there is no significant evidence that the variances of the
+
+two tobacco samples are different.
 --- page 20 ---
 7 3
 S*= 2 - (%) =(8
@@ -1574,6 +2364,50 @@ to test whether the mean payment time is the same for all three modes at the 5% 
 Solution:
 Or
 ********** 23 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Hypotheses
+
+Ho : cheque = Lcredit = Hinternet) 1 : At least one mean is different ——> i™
+
+Step 2: Group Means
+
+%=10, %=8, #=12, X=10 ——_ gn
+
+=——
+
+Step 3: Sum of Squares Between Groups (SSB)
+
+SSB => n,(%; — X)? =5- (10-10)? +5- (8 — 10)? +5 - (12 — 10)” = 40 —_ 2™
+
+———
+
+Step 4: Sum of Squares Within Groups (SSW)
+k na
+SSW = 0 >o (ey — 3)? =304+16+14=60 —S 9m
+i=l j=1 —————
+
+Step 5: Degrees of Freedom
+
+dfg =k-1=2, dfw=N-k=12
+Step 6: Mean Squares
+
+SSB 40 ge = SSW: 60em R fky
+MSB="7-=7=2, MSW="-_ ==
+Step 7: F-statistic
+MSB _ 20
+“Msw- 3-4
+
+Step 8: Critical Value
+At a = 0.05, df, = 2, df = 12, Foo5,2,12 © 3.89
+Step 9: Decision
+
+F=4>3.89 = Reject H) ——> Iw
+
+Step 10: Conclusion
+
+At-5% significance level, there is sufficient evidence to conclude that the mean payment
+time is not the same for all three modes of payment.
 --- page 24 ---
 Alternate way:
 
@@ -6253,6 +7087,47 @@ f ( x , y )
 To find f ( y | x ) =   (1 mark)
 f X ( x )
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+From 3x — 2y+5=0:
+
+2 5
+. x=-y-—-
+a3
+
+2
+. So, byy =F
+3 5
+
+. Also, y= Fx +7
+
+* 5So,, by» =< (1 mark)
+
+From 4x —3y +7 =0:
+
+x= 7
+. = iy
+red 4
+. So, Byy =F
+
+. Also, y ==x ++
+
+4
+So,, b.. =-
+°   90r1 Dye =F (1 mark)
+We must pair one equation as x on y and the other as y on x. Aconsistent pairing
+is:
+
++ take b,,, from the first equation as 2/3
+* and b,,,. from the second equation 4/3.
+
+v2
+Sor=+|£,.2=+=* » +0.9428
+3 3 3
+
+Since both slopes used positive (1 mark)
+
+Hencer ® +0.9428.
 --- page 5 ---
 4 6 − x − y   1
 Marginal prob function of x is : f X ( x ) =    dy = (6 − 2 x ), 0 x 2   (2 marks )
@@ -6295,6 +7170,46 @@ inches with a standard deviation of 2.8 inches. At the 5% level of significance,
 who participate in college athletics are taller than those who do not.
 Solution:
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Definition of MGF (1 Mark)
+
+1
+Myx (t) — Eje'*] — | ef. Qada
+o
+
+Step 2: Evaluate the integral — MGF (1 Mark)
+Using integration by parts:
+
+1
+
+L iz 1 _ et
+[ ze de — |= i [ e"dx| — (t= Dela
+o t Edo 0 i
+
+Multiply by 2:
+
+2)(t-—De'+1
+
+Af (£) — z
+
+tx
+
+Step 3: Compute first four moments (4 Marks)
+Hh, — MCT(O)
+* First moment:
+1 "| 2
+Hy — MY(0)— =
+* Second moment:
+Ha — Mx (0) —
+* Third moment:
+ul “8 2
+Bs — Aay(0) — 5
+* Fourth moment:
+
+Hi — Ady? (0) — =
+
++1
 --- page 7 ---
 -------------------------------------------------------------------------------------------------------------------
 Q4 a) A small bakery bakes 5 cakes each day. Over 5 days, the number of perfectly baked cakes per day was
@@ -6313,6 +7228,39 @@ Y 43 46 82 98 123 167 199 213 245 272
 Determine the lines of regression of 𝑌 on 𝑋 and 𝑋 on 𝑌.
 Solution:
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate mean (np) (1 Mark)
+
+__ Df-r _ 13
+B= St =~ = 26
+“Uf 5
+p21 = 25 _ 959, q = 0.48
+n 5
+
+Step 2: Binomial probability formula (1 Mark)
+
+n 2
+pix.) ("pre
+
+Step 3: Calculate probabilities P(X = x) (1.5 Marks)
+x 0 1 2 3 4 5
+
+P(X=x) 0.026 0.138 0.299 0.312 0.174 0.052
+
+Step 4: Calculate expected frequencies H = N - P(X = x) (1.5 Marks)
+x 0 1 2 3 4 5
+
+E 0.13 0.69 1.50 1.56 0.87 0.26
+
+Step 5: Round expected frequencies and tabular comparison (1 Mark)
+
+x Observed f Expected E (rounded)
+oO oO oO
+1 1 1
+2 1 2
+3 2 2
+4 1 1
 --- page 9 ---
 (2 marks)
 (1 mark)
@@ -6329,6 +7277,31 @@ Unbiased standard
 3.2   2.8
 deviation (in days)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+y 2 wy
+430 0 1849
+46 1 46 2116
+82 4 164 6724
+98 9 294 9604
+123 16 492 15129
+167 25 835 27889
+199 36 1194 39601
+213 49 1491 45369
+245 64 1960 60025
+272 81 2448 73984
+
+Soa? = 285, So ay = 3924, Soy? = 282290
+
+The equation of the line of regression of y on a is
+¥— 7 = dbyo(e — 2)
+y — 148.8 = 27.006L(@ — 4.5)
+y — 27.00612 4 27.2726
+The equation of the line of regression of i on yis
+2 — 2 — b,,(y — ¥)
+a — 4.5 — 0.0366(y — 148.8)
+
+x — 0.366y — 0.9461
 --- page 10 ---
 At the 5% level of significance, test whether the difference in the mean period of the two drugs is significant.
 Solution:
@@ -6348,6 +7321,50 @@ of 150 hours. Assuming the lifetime follows a normal distribution, find the perc
 at least 1400 hours.
 Solution:
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Let X = number of road construction projects at a time.
+X ~ Poisson(A = 7)
+
+The probability mass function (p.m.f.) is:
+
+c
+
+P(X =2z)=e 7Z
+
+h a2 =0,1,2,...
+
+(i) Probability that more than 2 projects are taking place
+
+Step 1 (1 Mark): Write the expression
+P(X > 2)=1-— P(X < 2) =1- [P(X =0)+ P(X =1)+4+ P(X = 2)]
+
+Step 2 (1 Mark): Compute individual probabilities
+
+77° 7
+P(X =0)=e one
+77
+P(X =1)=e “Tr 7 7 7
+7
+P(X =2)=e "F = 24.5e ;
+
+P(X <2) =e "(1+7+4 24.5) = 32.5e 7
+Step 3 (1 Mark): Calculate the final probability
+e 7 = 0.0009119
+
+P(X > 2) =1-— 32.5 x 0.0009119 = 1 — 0.0296 = 0.9704
+
+(ii) Probability that less than 2 projects are taking place
+
+Step 1 (1 Mark): Write the expression
+P(X <2) =P(X =0)+P(X =1)
+
+Step 2 (1 Mark): Compute the probability
+
+7
+7
+
+P(X <2)=e '(1+7)=8e = 8 x 0.0009119 = 0.0073
 --- page 12 ---
 -------------------------------------------------------------------------------------------------------------------
 Q 5b) The following table gives the information regarding the color of hair and the color of eye:
@@ -6363,6 +7380,23 @@ Analyze the data using Chi-square test to determine whether there is any associa
 and eye color.
 Solution:
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1 (1 mark): Find the z-score
+
+X-—p 1400-1200 200
+7 dO 50 © 1.333
+
+Step 2 (1 mark): Find cumulative probability
+P(Z < 1.333) ~ 0.9082
+Step 3 (1 mark): Probability of at least 1400 hours
+P(X > 1400) = 1 — 0.9082 = 0.0918
+Step 4 (1 mark): Convert probability to percentage
+0.0918 x 100 ~ 9.18%
+
+Step 5 (1 mark): Final answer
+
+9.18% of bulbs last at least 1400 hours.
 --- page 13 ---
 Ascume do. there t& wo atvorietion bet” Yair Leye Colour im
 
@@ -6623,6 +7657,47 @@ f ( x , y )
 To find f ( y | x ) =   (1 mark)
 f X ( x )
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+From 3x — 2y+5=0:
+
+2 5
+. x=-y-—-
+a3
+
+2
+. So, byy =F
+3 5
+
+. Also, y= Fx +7
+
+* 5So,, by» =< (1 mark)
+
+From 4x —3y +7 =0:
+
+x= 7
+. = iy
+red 4
+. So, Byy =F
+
+. Also, y ==x ++
+
+4
+So,, b.. =-
+°   90r1 Dye =F (1 mark)
+We must pair one equation as x on y and the other as y on x. Aconsistent pairing
+is:
+
++ take b,,, from the first equation as 2/3
+* and b,,,. from the second equation 4/3.
+
+v2
+Sor=+|£,.2=+=* » +0.9428
+3 3 3
+
+Since both slopes used positive (1 mark)
+
+Hencer ® +0.9428.
 --- page 5 ---
 4 6 − x − y   1
 Marginal prob function of x is : f X ( x ) =    dy = (6 − 2 x ), 0 x 2   (2 marks )
@@ -6665,6 +7740,46 @@ inches with a standard deviation of 2.8 inches. At the 5% level of significance,
 who participate in college athletics are taller than those who do not.
 Solution:
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Definition of MGF (1 Mark)
+
+1
+Myx (t) — Eje'*] — | ef. Qada
+o
+
+Step 2: Evaluate the integral — MGF (1 Mark)
+Using integration by parts:
+
+1
+
+L iz 1 _ et
+[ ze de — |= i [ e"dx| — (t= Dela
+o t Edo 0 i
+
+Multiply by 2:
+
+2)(t-—De'+1
+
+Af (£) — z
+
+tx
+
+Step 3: Compute first four moments (4 Marks)
+Hh, — MCT(O)
+* First moment:
+1 "| 2
+Hy — MY(0)— =
+* Second moment:
+Ha — Mx (0) —
+* Third moment:
+ul “8 2
+Bs — Aay(0) — 5
+* Fourth moment:
+
+Hi — Ady? (0) — =
+
++1
 --- page 7 ---
 -------------------------------------------------------------------------------------------------------------------
 Q4 a) A small bakery bakes 5 cakes each day. Over 5 days, the number of perfectly baked cakes per day was
@@ -6683,6 +7798,39 @@ Y 43 46 82 98 123 167 199 213 245 272
 Determine the lines of regression of 𝑌 on 𝑋 and 𝑋 on 𝑌.
 Solution:
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate mean (np) (1 Mark)
+
+__ Df-r _ 13
+B= St =~ = 26
+“Uf 5
+p21 = 25 _ 959, q = 0.48
+n 5
+
+Step 2: Binomial probability formula (1 Mark)
+
+n 2
+pix.) ("pre
+
+Step 3: Calculate probabilities P(X = x) (1.5 Marks)
+x 0 1 2 3 4 5
+
+P(X=x) 0.026 0.138 0.299 0.312 0.174 0.052
+
+Step 4: Calculate expected frequencies H = N - P(X = x) (1.5 Marks)
+x 0 1 2 3 4 5
+
+E 0.13 0.69 1.50 1.56 0.87 0.26
+
+Step 5: Round expected frequencies and tabular comparison (1 Mark)
+
+x Observed f Expected E (rounded)
+oO oO oO
+1 1 1
+2 1 2
+3 2 2
+4 1 1
 --- page 9 ---
 (2 marks)
 (1 mark)
@@ -6699,6 +7847,31 @@ Unbiased standard
 3.2   2.8
 deviation (in days)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+y 2 wy
+430 0 1849
+46 1 46 2116
+82 4 164 6724
+98 9 294 9604
+123 16 492 15129
+167 25 835 27889
+199 36 1194 39601
+213 49 1491 45369
+245 64 1960 60025
+272 81 2448 73984
+
+Soa? = 285, So ay = 3924, Soy? = 282290
+
+The equation of the line of regression of y on a is
+¥— 7 = dbyo(e — 2)
+y — 148.8 = 27.006L(@ — 4.5)
+y — 27.00612 4 27.2726
+The equation of the line of regression of i on yis
+2 — 2 — b,,(y — ¥)
+a — 4.5 — 0.0366(y — 148.8)
+
+x — 0.366y — 0.9461
 --- page 10 ---
 At the 5% level of significance, test whether the difference in the mean period of the two drugs is significant.
 Solution:
@@ -6718,6 +7891,50 @@ of 150 hours. Assuming the lifetime follows a normal distribution, find the perc
 at least 1400 hours.
 Solution:
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Let X = number of road construction projects at a time.
+X ~ Poisson(A = 7)
+
+The probability mass function (p.m.f.) is:
+
+c
+
+P(X =2z)=e 7Z
+
+h a2 =0,1,2,...
+
+(i) Probability that more than 2 projects are taking place
+
+Step 1 (1 Mark): Write the expression
+P(X > 2)=1-— P(X < 2) =1- [P(X =0)+ P(X =1)+4+ P(X = 2)]
+
+Step 2 (1 Mark): Compute individual probabilities
+
+77° 7
+P(X =0)=e one
+77
+P(X =1)=e “Tr 7 7 7
+7
+P(X =2)=e "F = 24.5e ;
+
+P(X <2) =e "(1+7+4 24.5) = 32.5e 7
+Step 3 (1 Mark): Calculate the final probability
+e 7 = 0.0009119
+
+P(X > 2) =1-— 32.5 x 0.0009119 = 1 — 0.0296 = 0.9704
+
+(ii) Probability that less than 2 projects are taking place
+
+Step 1 (1 Mark): Write the expression
+P(X <2) =P(X =0)+P(X =1)
+
+Step 2 (1 Mark): Compute the probability
+
+7
+7
+
+P(X <2)=e '(1+7)=8e = 8 x 0.0009119 = 0.0073
 --- page 12 ---
 -------------------------------------------------------------------------------------------------------------------
 Q 5b) The following table gives the information regarding the color of hair and the color of eye:
@@ -6733,6 +7950,23 @@ Analyze the data using Chi-square test to determine whether there is any associa
 and eye color.
 Solution:
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1 (1 mark): Find the z-score
+
+X-—p 1400-1200 200
+7 dO 50 © 1.333
+
+Step 2 (1 mark): Find cumulative probability
+P(Z < 1.333) ~ 0.9082
+Step 3 (1 mark): Probability of at least 1400 hours
+P(X > 1400) = 1 — 0.9082 = 0.0918
+Step 4 (1 mark): Convert probability to percentage
+0.0918 x 100 ~ 9.18%
+
+Step 5 (1 mark): Final answer
+
+9.18% of bulbs last at least 1400 hours.
 --- page 13 ---
 Ascume do. there t& wo atvorietion bet” Yair Leye Colour im
 
@@ -6992,6 +8226,47 @@ f ( x , y )
 To find f ( y | x ) =   (1 mark)
 f X ( x )
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+From 3x — 2y+5=0:
+
+2 5
+. x=-y-—-
+a3
+
+2
+. So, byy =F
+3 5
+
+. Also, y= Fx +7
+
+* 5So,, by» =< (1 mark)
+
+From 4x —3y +7 =0:
+
+x= 7
+. = iy
+red 4
+. So, Byy =F
+
+. Also, y ==x ++
+
+4
+So,, b.. =-
+°   90r1 Dye =F (1 mark)
+We must pair one equation as x on y and the other as y on x. Aconsistent pairing
+is:
+
++ take b,,, from the first equation as 2/3
+* and b,,,. from the second equation 4/3.
+
+v2
+Sor=+|£,.2=+=* » +0.9428
+3 3 3
+
+Since both slopes used positive (1 mark)
+
+Hencer ® +0.9428.
 --- page 5 ---
 4 6 − x − y   1
 Marginal prob function of x is : f X ( x ) =    dy = (6 − 2 x ), 0 x 2   (2 marks )
@@ -7034,6 +8309,46 @@ inches with a standard deviation of 2.8 inches. At the 5% level of significance,
 who participate in college athletics are taller than those who do not.
 Solution:
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Definition of MGF (1 Mark)
+
+1
+Myx (t) — Eje'*] — | ef. Qada
+o
+
+Step 2: Evaluate the integral — MGF (1 Mark)
+Using integration by parts:
+
+1
+
+L iz 1 _ et
+[ ze de — |= i [ e"dx| — (t= Dela
+o t Edo 0 i
+
+Multiply by 2:
+
+2)(t-—De'+1
+
+Af (£) — z
+
+tx
+
+Step 3: Compute first four moments (4 Marks)
+Hh, — MCT(O)
+* First moment:
+1 "| 2
+Hy — MY(0)— =
+* Second moment:
+Ha — Mx (0) —
+* Third moment:
+ul “8 2
+Bs — Aay(0) — 5
+* Fourth moment:
+
+Hi — Ady? (0) — =
+
++1
 --- page 7 ---
 -------------------------------------------------------------------------------------------------------------------
 Q4 a) A small bakery bakes 5 cakes each day. Over 5 days, the number of perfectly baked cakes per day was
@@ -7052,6 +8367,39 @@ Y 43 46 82 98 123 167 199 213 245 272
 Determine the lines of regression of 𝑌 on 𝑋 and 𝑋 on 𝑌.
 Solution:
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate mean (np) (1 Mark)
+
+__ Df-r _ 13
+B= St =~ = 26
+“Uf 5
+p21 = 25 _ 959, q = 0.48
+n 5
+
+Step 2: Binomial probability formula (1 Mark)
+
+n 2
+pix.) ("pre
+
+Step 3: Calculate probabilities P(X = x) (1.5 Marks)
+x 0 1 2 3 4 5
+
+P(X=x) 0.026 0.138 0.299 0.312 0.174 0.052
+
+Step 4: Calculate expected frequencies H = N - P(X = x) (1.5 Marks)
+x 0 1 2 3 4 5
+
+E 0.13 0.69 1.50 1.56 0.87 0.26
+
+Step 5: Round expected frequencies and tabular comparison (1 Mark)
+
+x Observed f Expected E (rounded)
+oO oO oO
+1 1 1
+2 1 2
+3 2 2
+4 1 1
 --- page 9 ---
 (2 marks)
 (1 mark)
@@ -7068,6 +8416,31 @@ Unbiased standard
 3.2   2.8
 deviation (in days)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+y 2 wy
+430 0 1849
+46 1 46 2116
+82 4 164 6724
+98 9 294 9604
+123 16 492 15129
+167 25 835 27889
+199 36 1194 39601
+213 49 1491 45369
+245 64 1960 60025
+272 81 2448 73984
+
+Soa? = 285, So ay = 3924, Soy? = 282290
+
+The equation of the line of regression of y on a is
+¥— 7 = dbyo(e — 2)
+y — 148.8 = 27.006L(@ — 4.5)
+y — 27.00612 4 27.2726
+The equation of the line of regression of i on yis
+2 — 2 — b,,(y — ¥)
+a — 4.5 — 0.0366(y — 148.8)
+
+x — 0.366y — 0.9461
 --- page 10 ---
 At the 5% level of significance, test whether the difference in the mean period of the two drugs is significant.
 Solution:
@@ -7087,6 +8460,50 @@ of 150 hours. Assuming the lifetime follows a normal distribution, find the perc
 at least 1400 hours.
 Solution:
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Let X = number of road construction projects at a time.
+X ~ Poisson(A = 7)
+
+The probability mass function (p.m.f.) is:
+
+c
+
+P(X =2z)=e 7Z
+
+h a2 =0,1,2,...
+
+(i) Probability that more than 2 projects are taking place
+
+Step 1 (1 Mark): Write the expression
+P(X > 2)=1-— P(X < 2) =1- [P(X =0)+ P(X =1)+4+ P(X = 2)]
+
+Step 2 (1 Mark): Compute individual probabilities
+
+77° 7
+P(X =0)=e one
+77
+P(X =1)=e “Tr 7 7 7
+7
+P(X =2)=e "F = 24.5e ;
+
+P(X <2) =e "(1+7+4 24.5) = 32.5e 7
+Step 3 (1 Mark): Calculate the final probability
+e 7 = 0.0009119
+
+P(X > 2) =1-— 32.5 x 0.0009119 = 1 — 0.0296 = 0.9704
+
+(ii) Probability that less than 2 projects are taking place
+
+Step 1 (1 Mark): Write the expression
+P(X <2) =P(X =0)+P(X =1)
+
+Step 2 (1 Mark): Compute the probability
+
+7
+7
+
+P(X <2)=e '(1+7)=8e = 8 x 0.0009119 = 0.0073
 --- page 12 ---
 -------------------------------------------------------------------------------------------------------------------
 Q 5b) The following table gives the information regarding the color of hair and the color of eye:
@@ -7102,6 +8519,23 @@ Analyze the data using Chi-square test to determine whether there is any associa
 and eye color.
 Solution:
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1 (1 mark): Find the z-score
+
+X-—p 1400-1200 200
+7 dO 50 © 1.333
+
+Step 2 (1 mark): Find cumulative probability
+P(Z < 1.333) ~ 0.9082
+Step 3 (1 mark): Probability of at least 1400 hours
+P(X > 1400) = 1 — 0.9082 = 0.0918
+Step 4 (1 mark): Convert probability to percentage
+0.0918 x 100 ~ 9.18%
+
+Step 5 (1 mark): Final answer
+
+9.18% of bulbs last at least 1400 hours.
 --- page 13 ---
 Ascume do. there t& wo atvorietion bet” Yair Leye Colour im
 
@@ -7355,6 +8789,47 @@ Solution:
 To find f ( y | x)   (1 mark)
 fX (x)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+From 3x —2y+5=0:
+
+2 5
+
+. x=ty-2
+3) 3
+
+2
+
+» So, by ==
+
+. Also, y ==x +=
+
++ So, , bys =- (1 mark)
+
+From 4x —3y+7=0:
+
+yai 7
+. = iy
+3” 3
+. So, byy =F
+
+. Also, y ==x++
+
+* So,, Dye = 3 (1 mark)
+
+We must pair one equation as x on y and the other as y on x. Aconsistent pairing
+is:
+
+* take b,., from the first equation as 2/3
+* and By» from the second equation 4/3.
+
+Io
+Sor=+ [=.2=+"* +0.9428
+a3 3
+
+Since both slopes used positive (1 mark)
+
+Hence r © +0,.94278.
 --- page 5 ---
 4 6  x  y   1
 Marginal prob function of x is : f (x)     dy  (6  2x), 0 x 2   (2 marks )
@@ -7394,6 +8869,48 @@ standard deviation of 2.5 inches, while 50 male students who do not participate 
 inches with a standard deviation of 2.8 inches. At the 5% level of significance, test whether male students
 who participate in college athletics are taller than those who do not.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Moment Generating Function (2 marks)
+
+My(t) = E(e'*) = |
+
+Using integration by parts,
+
+0
+
+a
+
+tet
+e*— dz
+2
+
+My(t) = ; le (; -
+
+2
+t
+
+Moments about the Origin (4 marks)
+
+General form:
+
+First moment (1 mark)
+
+, 1 fs 4
+= 5 / rede = 3
+
+Second moment (1 mark)
+
+oO
+ee
+Third moment (1 mark)
+
+Lf. 16
+“6-5 a'dx = =
+
+Fourth moment (1 mark)
+lf; 16
+= sf dz =|
 --- page 7 ---
 Solution:
 
@@ -7414,6 +8931,38 @@ Y 43 46 82 98 123 167 199 213 245 272
 Determine the lines of regression of 𝑌 on 𝑋 and 𝑋 on 𝑌.
 Solution:
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+step 1: Caiculate mean (np) (1 Mark)
+
+Mfr 13
+
+g= 42" == =26
+Sf 5
+pot Oe, gs
+n 5
+
+Step 2: Binomial probability formula (1 Mark)
+
+P(X =2)= (")pra"*
+
+Step 3: Calculate probabilities P(X = 2) (1.5 Marks)
+4 0 1 2 3 4 5
+
+P(X=x) 0.026 0.138 0.299 0.312 0.174 0.052
+
+Step 4: Calculate expected frequencies H = N - P(X = 2) (1.5 Marks)
+x 0 1 2 3 4 5
+
+= 013 069 450 156 087 0276
+
+Step 2: Round expected frequencies and tabular comparison (1 Mark)
+
+x Observed f Expected E (rounded)
+0 ie} Oo
+1 1 1
+2 1 2
+3 2 2
 --- page 10 ---
 (2 marks)
 (1 mark)
@@ -7429,6 +8978,31 @@ Unbiased standard
 3.2   2.8
 deviation (in days)
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+=z yp 2 ay y
+
+0 4 #0 0 1849
+1 46 1 46 2116
+2 82 4 164 6724
+3°98 9 294 9604
+4 123 16 492 15129
+5 167 25 835 27889
+6 199 36 1194 39601
+7 213 49 1491 45369
+8 245 64 1960 60025
+9 272 81 2448 73984
+
+So 2=45, Soy=1488, So 2?=285, So cy=8924, Soy? = 282290
+
+The equation of the line of regression of y on z is
+y—g = ),.(x — 2)
+y — 148.8 = 27.0061(a — 4.5)
+y — 27.0061 2 + 27.2726
+The equation of the line of regression of x on y is
+v— 2 = br(y — 9)
+
+x = 0.366y — 0.9461
 --- page 11 ---
 At the 5% level of significance, test whether the difference in the mean period of the two drugs is significant.
 Solution:
@@ -7446,6 +9020,52 @@ of 150 hours. Assuming the lifetime follows a normal distribution, find the perc
 at least 1400 hours.
 Solution:
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Let A = number of road construction projects at a time.
+X ~ Poisson(A = 7)
+
+The probability mass function (p.m.f.) is:
+
+4
+
+P(x=2)=6"!
+
+zl’ eit os Re
+
+(i) Probability that more than 2 projects are taking place
+
+Step 1 (1 Mark): Write the expression
+P(X > 2) =1-— P(X < 2) =1- [P(X =0) + P(X =1)+ P(X = 2)]
+
+Step 2 (1 Mark): Compute individual probabilities
+
+P(X =0)=e Tae “s
+
+i
+P(X =1)=e y7* J
+
+ot
+P(X =2)=e '— =24.5e 7
+
+_=
+P(X < 2) =e 7(14+7+4 24.5) = 32.5e 7
+Step 3 (1 Mark): Calculate the final probability
+e * = 0.0009119
+
+P(X > 2) = 1— 32.5 x 0.0009119 = 1 — 0.0296 = 0.9704
+
+(11) Probability that less than 2 projects are taking place
+
+Step 1 (1 Mark): Write the expression
+P(X < 2) = P(X = 0) + P(X = 1)
+
+Step 2 (1 Mark): Compute the probability
+
+7
+7
+
+P(X <2)=e 7(14+7)=8e 7 = 8 x 0.0009119 = 0.0073
 --- page 13 ---
 Q 5b) The following table gives the information regarding the color of hair and the color of eye:
 Hair color
@@ -7460,6 +9080,23 @@ Analyze the data using Chi-square test to determine whether there is any associa
 and eye color.
 Solution:
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1 (7 mark): Find the z-score
+
+X-—p 1400-1200 200
+= a eg
+
+Step 2 (1 mark): Find cumulative probability
+P(Z < 1.333) ~ 0.9082
+Step 3 (1 mark): Probability of at least 1400 hours
+P(X > 1400) = 1 — 0.9082 = 0.0918
+Step 4 (1 mark): Convert probability to percentage
+0.0918 x 100 = 9.18%
+
+Step 5 (1 mark): Final answer
+
+9.18% of bulbs last at least 1400 hours.
 --- page 14 ---
 
 Eye, Halv @hocewea) een iso
@@ -10826,6 +12463,47 @@ f ( x , y )
 To find f ( y | x ) =   (1 mark)
 f X ( x )
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+From 3x — 2y+5=0:
+
+2 5
+. x=-y-—-
+a3
+
+2
+. So, byy =F
+3 5
+
+. Also, y= Fx +7
+
+* 5So,, by» =< (1 mark)
+
+From 4x —3y +7 =0:
+
+x= 7
+. = iy
+red 4
+. So, Byy =F
+
+. Also, y ==x ++
+
+4
+So,, b.. =-
+°   90r1 Dye =F (1 mark)
+We must pair one equation as x on y and the other as y on x. Aconsistent pairing
+is:
+
++ take b,,, from the first equation as 2/3
+* and b,,,. from the second equation 4/3.
+
+v2
+Sor=+|£,.2=+=* » +0.9428
+3 3 3
+
+Since both slopes used positive (1 mark)
+
+Hencer ® +0.9428.
 --- page 5 ---
 4 6 − x − y   1
 Marginal prob function of x is : f X ( x ) =    dy = (6 − 2 x ), 0 x 2   (2 marks )
@@ -10868,6 +12546,46 @@ inches with a standard deviation of 2.8 inches. At the 5% level of significance,
 who participate in college athletics are taller than those who do not.
 Solution:
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Definition of MGF (1 Mark)
+
+1
+Myx (t) — Eje'*] — | ef. Qada
+o
+
+Step 2: Evaluate the integral — MGF (1 Mark)
+Using integration by parts:
+
+1
+
+L iz 1 _ et
+[ ze de — |= i [ e"dx| — (t= Dela
+o t Edo 0 i
+
+Multiply by 2:
+
+2)(t-—De'+1
+
+Af (£) — z
+
+tx
+
+Step 3: Compute first four moments (4 Marks)
+Hh, — MCT(O)
+* First moment:
+1 "| 2
+Hy — MY(0)— =
+* Second moment:
+Ha — Mx (0) —
+* Third moment:
+ul “8 2
+Bs — Aay(0) — 5
+* Fourth moment:
+
+Hi — Ady? (0) — =
+
++1
 --- page 7 ---
 -------------------------------------------------------------------------------------------------------------------
 Q4 a) A small bakery bakes 5 cakes each day. Over 5 days, the number of perfectly baked cakes per day was
@@ -10886,6 +12604,39 @@ Y 43 46 82 98 123 167 199 213 245 272
 Determine the lines of regression of 𝑌 on 𝑋 and 𝑋 on 𝑌.
 Solution:
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate mean (np) (1 Mark)
+
+__ Df-r _ 13
+B= St =~ = 26
+“Uf 5
+p21 = 25 _ 959, q = 0.48
+n 5
+
+Step 2: Binomial probability formula (1 Mark)
+
+n 2
+pix.) ("pre
+
+Step 3: Calculate probabilities P(X = x) (1.5 Marks)
+x 0 1 2 3 4 5
+
+P(X=x) 0.026 0.138 0.299 0.312 0.174 0.052
+
+Step 4: Calculate expected frequencies H = N - P(X = x) (1.5 Marks)
+x 0 1 2 3 4 5
+
+E 0.13 0.69 1.50 1.56 0.87 0.26
+
+Step 5: Round expected frequencies and tabular comparison (1 Mark)
+
+x Observed f Expected E (rounded)
+oO oO oO
+1 1 1
+2 1 2
+3 2 2
+4 1 1
 --- page 9 ---
 (2 marks)
 (1 mark)
@@ -10902,6 +12653,31 @@ Unbiased standard
 3.2   2.8
 deviation (in days)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+y 2 wy
+430 0 1849
+46 1 46 2116
+82 4 164 6724
+98 9 294 9604
+123 16 492 15129
+167 25 835 27889
+199 36 1194 39601
+213 49 1491 45369
+245 64 1960 60025
+272 81 2448 73984
+
+Soa? = 285, So ay = 3924, Soy? = 282290
+
+The equation of the line of regression of y on a is
+¥— 7 = dbyo(e — 2)
+y — 148.8 = 27.006L(@ — 4.5)
+y — 27.00612 4 27.2726
+The equation of the line of regression of i on yis
+2 — 2 — b,,(y — ¥)
+a — 4.5 — 0.0366(y — 148.8)
+
+x — 0.366y — 0.9461
 --- page 10 ---
 At the 5% level of significance, test whether the difference in the mean period of the two drugs is significant.
 Solution:
@@ -10921,6 +12697,50 @@ of 150 hours. Assuming the lifetime follows a normal distribution, find the perc
 at least 1400 hours.
 Solution:
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Let X = number of road construction projects at a time.
+X ~ Poisson(A = 7)
+
+The probability mass function (p.m.f.) is:
+
+c
+
+P(X =2z)=e 7Z
+
+h a2 =0,1,2,...
+
+(i) Probability that more than 2 projects are taking place
+
+Step 1 (1 Mark): Write the expression
+P(X > 2)=1-— P(X < 2) =1- [P(X =0)+ P(X =1)+4+ P(X = 2)]
+
+Step 2 (1 Mark): Compute individual probabilities
+
+77° 7
+P(X =0)=e one
+77
+P(X =1)=e “Tr 7 7 7
+7
+P(X =2)=e "F = 24.5e ;
+
+P(X <2) =e "(1+7+4 24.5) = 32.5e 7
+Step 3 (1 Mark): Calculate the final probability
+e 7 = 0.0009119
+
+P(X > 2) =1-— 32.5 x 0.0009119 = 1 — 0.0296 = 0.9704
+
+(ii) Probability that less than 2 projects are taking place
+
+Step 1 (1 Mark): Write the expression
+P(X <2) =P(X =0)+P(X =1)
+
+Step 2 (1 Mark): Compute the probability
+
+7
+7
+
+P(X <2)=e '(1+7)=8e = 8 x 0.0009119 = 0.0073
 --- page 12 ---
 -------------------------------------------------------------------------------------------------------------------
 Q 5b) The following table gives the information regarding the color of hair and the color of eye:
@@ -10936,6 +12756,23 @@ Analyze the data using Chi-square test to determine whether there is any associa
 and eye color.
 Solution:
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1 (1 mark): Find the z-score
+
+X-—p 1400-1200 200
+7 dO 50 © 1.333
+
+Step 2 (1 mark): Find cumulative probability
+P(Z < 1.333) ~ 0.9082
+Step 3 (1 mark): Probability of at least 1400 hours
+P(X > 1400) = 1 — 0.9082 = 0.0918
+Step 4 (1 mark): Convert probability to percentage
+0.0918 x 100 ~ 9.18%
+
+Step 5 (1 mark): Final answer
+
+9.18% of bulbs last at least 1400 hours.
 --- page 13 ---
 Ascume do. there t& wo atvorietion bet” Yair Leye Colour im
 
@@ -11998,6 +13835,17 @@ d H0: mean=57.4
 H1: mean not equal to 57.4
 ztab=1.96
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Let B denote the event that the sum of the outcomes of the two dice is either
+seven or eleven, and let Az denote the event that the sum of the outcomes of
+the two dice is eleven. Then, Az = {(5, 6), (6, 5)} with 2 sample points. Thus,
+P(A2) = 2/36 = 1/18. Since B is the union of A; and A2, which are mutually
+exclusive events, we obtain
+
+1 1 2
+
+P(B) = P(Ay VA2) = P(A1) + P(A2) = & +ig=95
 --- page 2 ---
 zcal=2.067
 
@@ -12301,6 +14149,38 @@ a
 2
 2
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Applying the above rule we find that the joint PDF is separable and
+the joint sample space is rectangular. Therefore, XY and Y are independent. Thus,
+we have that
+
+1
+fry (x,y) =fxQ) x fy) = 3 xexy O<x<2,0<y<1
+
+where
+fx@)=Axe 0<x<2
+fyy)=By Osy<l
+1
+z =AB
+
+We can find the values of A and B as follows:
+2
+
+2 2 x7 1
+[ fecoac=1=f axsar=al<] =4A>A=-—
+0 0 4 Jo 4
+
+Thus,
+
+B= =2
+
+1/4
+From these we obtain the marginal PDFs as
+
+fx) = 78 O<x<2
+
+fyy)=2y Osysl
 --- page 3 ---
 b
 
@@ -12474,6 +14354,71 @@ b   1
 2
 1
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Source of Sum of DF Mean Square F statistic
+
+variation Squares
+Between SSTR (SSC) | r-1=2 MSTR(MSC)= SSTR(SSC) | ;, _ MSTR(MSC)
+Samples = 190 r-1 MSE
+=95 =8.14
+Within Samples | SSE=140 | N-r=12 msg -25SE.
+N-
+= 11.67
+
+Total SST = 330 | N-1=14
+
+Solution Let A = the event in which the item has been produced by machine A,
+and so on.
+
+Let D = the event of the item being defective.
+1 1
+P(A) = ~, P(B) = P(C) = —
+(A) 2 (B) = P(C) 4
+
+P(D/A) = P(an item is defective, given that A has produced it)
+2
+= =P(DIB
+100 (DIB)
+
+4
+P(D/C) = —
+(DIC) 100
+
+By theorem of total probability,
+P(D) = P(A) x P(D/A) + P(B) x P(D/B) + P(C) x P(D/C)
+1,2 ly 2yly 4
+2 100 4 100 4 = 100
+1
+
+40
+
+Solution The mean of the sample is given by
+
+_o1 31
+=1 Sx =2) =258
+* pt 12
+
+The SDs of the sample is given by
+
+> (1 ) 1 2
+2_(l =+ x 185 ~ (2.58) =8.76
+x (; x 12 ,
+
+{4 =0, ie. the injection will not result in increase in BP.
+IXY >u.
+
+Right-tailed test is to be used. Let LOS be 5%. Now f 959, for one-tailed test
+for (V= 11) = tiga, for two-tailed test for (v= 11) = 1.80 (from ¢-table)
+_— X¥-u _ 258-0
+~ sifn-1 2-96/,f11
+
+We see that! 1! > tyo9, (V= 11).
+
+Now t = 2.89
+
+Therefore, Ho is rejected and H, is accepted. That is, we may conclude that the
+injection is accompanied by an increase in BP.
 --- page 7 ---
 c | Given: mean=j: = 14, standard deviation = 0 = 2.5
 

@@ -77,6 +77,55 @@ CO-1, SO
 a   [05]
 BL-Apply
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Weight of security Wa in a minimum risk portfolio is given by
+wc (92)? =n2(6,)(62)
+(61)? +(62)? = 27,2 (6, (02)
+
+Wa= 26.93%
+Wb= 73.07%
+
+Ep = Wa*Era+Wb*Erb
+14.97
+
+Variance of Portfolio
+Correlation of AB =0
+O42p= (Wa*0a)*2+(Wb*ob)*2+2Wa*Wb*Cor a,b
+
+Variance 211.161
+SD 14.53
+
+0.5
+
+0.5
+
+0.5
+
+0.5
+0.5
+0.5
+
+1st Goal- buying a car (FV) Rs 800000
+
+Time required 5 years
+2nd Goal- buy a house (FV)Rs 5000000
+Time required 12 years
+Rate 15%
+
+1st Goal- buying a car (FV) Rs 800000
+
+Time required 5 years
+=800000/(1.15)*5
+-INR 3,97,741.39 required to be invested now [02 marks]
+
+2nd Goal- buy a house (FV)Rs 5000000
+
+Time required 12 years
+=5000000/(1.15)*12
+-INR 9,34,535.75 required to be invested now [02 marks]
+
+Remark: Rajat will have to invest -INR 13,32,277.14 [01 mark]
 --- page 3 ---
 FO + (F1*RP1) + (F2 * RP2) 0.5
 
@@ -213,6 +262,22 @@ rate risk.
 The first advantage of the strategy is that it enables investors to have access to
 higher yield long-term bonds. The second advantage is that it decreases risk. The
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Rm-Rf= 14.5-7= 7.5
+
+a=R,-[Ret+ AR,, — Rp) 1
+Portfolio r Beta Bp Expected return | Jensen's Alpha
+A 22.5 1.9 14.25 21.25 1.25
+B 19 1.2 9 16 3 2 marks
+Cc 16.35 1.1 8.25 15.25 1.1
+D 13 0.6 4.5 11.5 1.5
+Portfolio Sharpe Treynor's Jenson's Rank
+A 0.5962 8.1579 1.25 3
+B 0.5455 10.0000 3 1 2 marks
+Cc 0.4675 8.5000 1.1 4
+
+D 0.4000 10.0000 1.5 2
 --- page 6 ---
 strategy lowers risk as short-term and long-term bonds’ returns tend to be
 negatively correlated. So, when short-term bonds do well, the long-term bonds

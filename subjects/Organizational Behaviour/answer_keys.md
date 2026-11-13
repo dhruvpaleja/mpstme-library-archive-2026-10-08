@@ -52,6 +52,34 @@ o Opportunities for skill development and new responsibilities contribute to pro
 growth.
 o Lack of clear promotion paths can cause stagnation and disengagement.
 Page 2 of 12
+
+[Text in pictures on this page, read by OCR]
+1. Cognitive Component
+
+The cognitive component of attitude refers to the beliefs, thoughts, or perceptions a person holds
+about a particular object, person, or situation. It represents the rational and evaluative aspect of
+attitude, forming the basis for how individuals interpret their environment. For example, an
+employee might believe that their job is intellectually stimulating or that a company policy is unfair.
+These beliefs influence how they mentally assess their work and guide their judgments. Cognitive
+attitudes are shaped by experience, education, and information.
+
+2. Affective Component
+
+This component deals with the emotional or feeling aspect of attitude. It reflects how a person
+emotionally responds to a situation or object, such as feeling happy, frustrated, or proud. For
+instance, an employee may feel satisfied and joyful about their job, or anxious and stressed due to
+workplace pressure. These emotional reactions are powerful drivers of behavior and often influence
+how individuals interact with others. Affective attitudes are deeply personal and can vary widely
+among individuals in similar roles.
+
+3. Behavioral Component
+
+The behavioral component refers to the intention or tendency to act in a certain way based on the
+cognitive and affective components. It reflects how beliefs and emotions translate into observable
+actions or decisions. For example, if an employee believes their job is meaningful (cognitive) and
+feels proud of their work (affective), they may choose to stay in the organization or take on additional
+responsibilities (behavioral). This component is crucial in predicting workplace behavior such as
+participation, commitment, or withdrawal.
 --- page 3 ---
 4.   Supervision
 o Supportive, fair, and competent supervisors foster a sense of guidance and respect.
@@ -193,10 +221,33 @@ Hersey-Blanchard Situational Leadership Theory: Suggests that successful
 leadership is dependent on the leader's ability to adapt their style to the maturity level
 of the followers.
 Page 7 of 12
+
+[Text in pictures on this page, read by OCR]
+is aiblsiaeS50) Predictions from the Fiedler Model
+
+Task oriented
+
+Relationship oriented
+
+Favorable Moderate Unfavorable
+
+Cotegory | rN m Vv Vv vl vil
+
+Leader-member relations Good Good Good Good Poor Poor Poor Poor
+Task structure High — High low low High High low low
+
+Position power Strong Weak Strong Weak Strong Weak Strong Weak
 --- page 8 ---
 Path-Goal Theory: Focuses on how leaders can motivate their followers to achieve
 goals by clarifying the path to those goals and removing obstacles.
 Page 8 of 12
+
+[Text in pictures on this page, read by OCR]
+The 4 principles of path-goal theory
+
+Communicate the Identify & eliminate Offer guidance, Adapt leadership
+team's goals & obstacles that hinder coachingandsupport style to meet the
+expectations team progress to their team members needs of their team
 --- page 9 ---
 C.   15
 5 marks for any 5 points on forces of change and 10 marks for any 10 points on overcome
@@ -207,6 +258,38 @@ Forces of Change External Factors
 •Economic Factors
 •Political Factors
 Page 9 of 12
+
+[Text in pictures on this page, read by OCR]
+VROOM YETTON DECISION MAKING MODEL
+
+5 Decision-Making Processes
+
+Consultative
+(c2)
+This isa sample ~
+
+text that you
+can edit.
+
+Vroom Yetton
+Consultative Decision
+
+Making Model (a1)
+This isa
+sample text y
+that you can
+edit.
+
+This is a
+\ sample text
+\ that you can /
+\ edit. / ‘
+Collaborative
+
+(G2)
+
+This is a sample text
+that you can edit.
 --- page 10 ---
 •Technological Factors
 Internal Factors

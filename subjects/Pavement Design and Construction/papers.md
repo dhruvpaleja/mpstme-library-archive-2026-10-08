@@ -78,6 +78,40 @@ L- 4   & Table in Figure 2)
 (vii) E= 3 x 105 Kg/cm2   (viii) = 0.15   (ix) = 10 x
 10-6/ 0C
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Pos
+jo Pans INTENSITY OF LOADING P
+
+Y ZL.
+
+t PAVEMENT LAYER
+i ' MODULUS OF ELASTICITY E,
+]
+ia SUBGRADE, SEMLNFINITE LAYER
+¥ HW MODULUS OF ELASTICITY, E,
+INTERFACE
+1 r
+SS
+2 06
+wo 04
+2 0:3
+
+3 02 NS SES
+
+Fo WS SSS
+
+P|
+.~]
+$ 0-06 —
+20-04 : os Se —
+3 0.03 247 Do _
+0-02 Aa = }
+0 05a fa 15a 2a 3a 4a 5a 6a
+
+Thickness of top layer
+
+Figure 1
 --- page 3 ---
 Q.5)   b)   Discuss the necessity of pavement evaluation and explain visual rating   [10]
 CO- 3;   method of pavement evaluation.

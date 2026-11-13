@@ -1,6 +1,6 @@
 # Project Management: question papers in full
 
-84 unique papers · 2006-07 to 2025-26 · Chemical, Information Technology, Mechanical, Common (all branches), Computer Applications (MCA), Data Science, Civil, Real Estate and Construction Management, Mechatronics, Computer Engineering
+86 unique papers · 2006-07 to 2025-26 · Chemical, Information Technology, Mechanical, Common (all branches), Computer Applications (MCA), Data Science, Civil, Real Estate and Construction Management, Mechatronics, Computer Engineering
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -6630,6 +6630,107 @@ Page 2 of 2
 12
 ````
 
+## 2013-14 · Final-Exam · Sem 8 · paper 3a4bd30ef88a
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: MECHANICAL/SEMESTER VIII/PROJECT MANAGEMENT/PROJECT_MANAGEMENT_B_TECH_(MECHANICAL)__2013-14_FINAL_EXAM_WQe0pA0ook.pdf`
+- Printed on paper: max marks: 100; exam date: 13/05/2014
+- Text: ocr (2 pages), mean OCR confidence 81.0
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme:B. Tech (MECHANICAL) Year: Iv Semester: VIII
+
+a
+Academic Year: 2013-2014 ‘TUTE Op .
+. _ WAT TBTE Os Sing,
+
+Subject : Project Management va ; NN \
+Marks: 100: PSTME pix
+
+Date : 13/05/2014 : ; Time : 10\00 Ard fo 60 pas
+Duratign’S8 (hrs) SAF
+
+Final-Examination
+
+se el ef
+iit ica wa
+
+Instructions — Candidates should read carefully the instructions printed on the question paper and on the cover
+of the answer book, which is provided for their use.
+NB-
+
+1. Question No 1 is compulsory.
+2. Out ofremaining questions, attempt any FOUR questions.
+3. In all FIVE questions to be attempted:
+
+4. All questions carry equal marks.
+
+5. Answer to each new question to be started on a fresh page.
+
+6. Figures in brackets on the right hand side indicate full marks.
+
+1] A project schedule has characteristics as shown in the table below - [20 marks}
+Gonna conn) S Seueesee S Sas >
+Node Nos Activity Duration
+From — To Name Time (weeks)
+onccecsuzed > or SS Cheecemael =
+
+1 ---->2 A 4
+
+1 ----> 3 B 1
+
+2 ----> 4 Cc 1
+
+3 ----> 4 D 1
+
+3 ----> 5, E 6
+
+4---->9 F 5
+
+5 ----> 6 G 4
+
+5 ---->7 H g
+
+6 ----> 8 I 1
+
+7 ----> 8 J 2
+
+8 ---> 10 K 5
+
+> AEE te
+
+i] Construct Network Diagram.
+
+ii] Prepare a table giving Earliest & Latest, Start & Finish times for each activity along with the total float.
+ili] Find the critical path & project duration for the above given project schedule.
+
+2| Explain briefly Risk Identification and Risk Assessment in PM. (20 marks]
+3] Explain briefly Crashing of Networks in PM. {20 marks]
+4] Explain briefly Project Review and Reporting. (20 marks}
+
+io.
+--- page 2 ---
+5] Explain briefly Cost Estimating and Budgeting in PM. [20 marks}
+6] Explain briefly the importance of Project Feasibility step in PM. {20 marks}
+{20 marks}
+
+7| Write short notes on any two from the following -
+i] Use of Network Diagrams.
+ii] Differences in PERT & CPM.
+
+iii] Free float, Independent float, Interfering float & Total Float.
+
+we ng me KEKAKKK KK KKK
+
+XeX-X-K-X-K-K KKK
+
+2) 2_
+````
+
 ## 2013-14 · Final-Exam · Sem 7 · paper 7e468aaad7bf
 
 - Departments: Civil
@@ -6983,6 +7084,116 @@ Q7B) Explain the TotoMwng terms: . 10
 2. Net present value
 
 3. Return on Investment
+````
+
+## 2013-14 · Re-Exam · Sem 8 · paper ba8c83cbb2b2
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: MECHANICAL/SEMESTER VIII/PROJECT MANAGEMENT/PROJECT_MANAGEMENT_B_TECH_(MECHANICAL)__BATCH_2013-14_RE_EXAM_6AcRYczMNU.pdf`
+- Printed on paper: max marks: 100; exam date: 02/07/2014
+- Text: ocr (2 pages), mean OCR confidence 79.1
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKM’s NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Programme: .B. Tech (Mechanical) Year: IV Semester: VIII a
+
+Balok | 2018-2014 Academic Year: 2013-2014 eta
+Subject : Project Management Marks: 100 j ri aa STM 2 We \ :
+Date : 02/07/2014 a 3 (he Ss * Pawan}
+
+Re-Examination
+
+of the answer book, which is provided for their use.
+NB -
+1. Question No 1 is compulsory.
+2. Out of remaining questions, attempt any FOUR questions.
+3. Inall FIVE questions to be attempted.
+4. All questions carry equal marks.
+5. Answer to each new question to be started on a fresh page.
+
+Q.
+~ ¢
+ae aE
+Mong es
+6. Figures in brackets on the right hand side indicate full marks.
+
+Instructions — Candidates should read carefully the instructions printed on the question paper and on the cover:
+
+|] A project schedule has characteristics as shown in the table below - [20 marks]
+decssanes > Rete nrressinstciawnuetiiateaned >
+Activity Duration in weeks
+1-2 15
+1-3 15
+2-3 3
+2-5 5
+3-4 8
+3-6 12
+4-5 1
+4-6 14
+5-6 3
+6-7 14
+
+i] Construct Network Diagram.
+
+ii] Prepare a table giving Earliest & Latest, Start & Finish times for each activity along with the total float.
+iii] Find the critical path & project duration for the above given project schedule.
+
+2] A] Draw the network diagram for the following list of activities -
+
+{10 marks]
+
+Basesecast > onan nnn nnn ene enn nee > eeeewee > onan nnn eee eee >
+Activity Immediate Predecessor Activity Immediate Predecessor
+a > Kan en nnn nnn nnn nn nnn ene > S| > Raw ne nn nn nen cinesuiienens >
+
+A - L K
+
+B A M K
+
+6. B N K
+
+D c oO D
+
+E D P (3)
+
+F E Q B
+--- page 2 ---
+H Cc S L,M
+I CLE T Ss
+J G,H,I U P,Q
+K J Vv U
+
+2] B] Draw the network diagram for the following list of activities -
+
+Activities A, B, C, D, E, F, G, H, I constitute a project.
+The precedence relationships are as follows —
+A precedes D; A precedes E; B precedes F; D precedes F; C precedes G; 8 precedes H; F precedes I; G
+
+precedes I
+
+3] Explain briefly Direct Costs, Indirect costs & Total Costs involved in Cost Analysis of PM. [20 marks]
+
+4] Explain briefly Resource Allocation in PM. [20 marks]
+
+5] Explain briefly the three main stages of PM which are Planning, Scheduling & Controlling. [20 marks]
+
+6] Explain briefly the role of Quality Control in PM. (20 marks}
+
+7] Write short notes on any two from the following - [20 marks}
+
+i] Role of parameters like Time & Costs in PM.
+ii] Role of parameters like Resources & Risks in PM.
+iii] Forward/ Backward Pass methods in Determination of Critical Path in PM.
+
+x
+
+x :
+
+us
 ````
 
 ## 2013-14 · Re-Exam · Trim 8 · paper 91ec4e105b0a

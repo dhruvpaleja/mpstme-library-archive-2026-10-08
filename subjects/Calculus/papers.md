@@ -5075,6 +5075,17 @@ cylinder x + y = a .
 6.   20
 a.   6
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+3 733
+Gi DN" » IC . . a
+Ifu= ae + - +—> wherex+y+z=1, prove that stationary point of u is given by
+
+a b
+5 p=
+
+, v= = using Lagrange Multipliers Method.
+atbt+ce at+bt+c a+b+c
 --- page 4 ---
 Verify Cauchy's mean value theorem for f(x) = x* and g(x) =x* in [a, BJ.
 
@@ -5169,6 +5180,17 @@ cylinder x + y = a .
 6.   20
 a.   6
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+3 733
+Gi DN" » IC . . a
+Ifu= ae + - +—> wherex+y+z=1, prove that stationary point of u is given by
+
+a b
+5 p=
+
+, v= = using Lagrange Multipliers Method.
+atbt+ce at+bt+c a+b+c
 --- page 4 ---
 Verify Cauchy's mean value theorem for f(x) = x* and g(x) =x* in [a, BJ.
 
@@ -5263,6 +5285,17 @@ cylinder x + y = a .
 6.   20
 a.   6
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+3 733
+Gi DN" » IC . . a
+Ifu= ae + - +—> wherex+y+z=1, prove that stationary point of u is given by
+
+a b
+5 p=
+
+, v= = using Lagrange Multipliers Method.
+atbt+ce at+bt+c a+b+c
 --- page 4 ---
 Verify Cauchy's mean value theorem for f(x) = x* and g(x) =x* in [a, BJ.
 
@@ -5365,6 +5398,17 @@ cylinder x + y = a .
 6.   20
 a.   6
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+3 733
+Gi DN" » IC . . a
+Ifu= ae + - +—> wherex+y+z=1, prove that stationary point of u is given by
+
+a b
+5 p=
+
+, v= = using Lagrange Multipliers Method.
+atbt+ce at+bt+c a+b+c
 --- page 4 ---
 Verify Cauchy's mean value theorem for f(x) = x* and g(x) =x* in [a, BJ.
 
@@ -5459,6 +5503,17 @@ cylinder x + y = a .
 6.   20
 a.   6
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+3 733
+Gi DN" » IC . . a
+Ifu= ae + - +—> wherex+y+z=1, prove that stationary point of u is given by
+
+a b
+5 p=
+
+, v= = using Lagrange Multipliers Method.
+atbt+ce at+bt+c a+b+c
 --- page 4 ---
 Verify Cauchy's mean value theorem for f(x) = x* and g(x) =x* in [a, BJ.
 
@@ -5561,6 +5616,17 @@ cylinder x + y = a .
 6.   20
 a.   6
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+3 733
+Gi DN" » IC . . a
+Ifu= ae + - +—> wherex+y+z=1, prove that stationary point of u is given by
+
+a b
+5 p=
+
+, v= = using Lagrange Multipliers Method.
+atbt+ce at+bt+c a+b+c
 --- page 4 ---
 Verify Cauchy's mean value theorem for f(x) = x* and g(x) =x* in [a, BJ.
 
@@ -5655,6 +5721,17 @@ cylinder x + y = a .
 6.   20
 a.   6
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+3 733
+Gi DN" » IC . . a
+Ifu= ae + - +—> wherex+y+z=1, prove that stationary point of u is given by
+
+a b
+5 p=
+
+, v= = using Lagrange Multipliers Method.
+atbt+ce at+bt+c a+b+c
 --- page 4 ---
 Verify Cauchy's mean value theorem for f(x) = x* and g(x) =x* in [a, BJ.
 
@@ -5749,6 +5826,17 @@ cylinder x + y = a .
 6.   20
 a.   6
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+3 733
+Gi DN" » IC . . a
+Ifu= ae + - +—> wherex+y+z=1, prove that stationary point of u is given by
+
+a b
+5 p=
+
+, v= = using Lagrange Multipliers Method.
+atbt+ce at+bt+c a+b+c
 --- page 4 ---
 Verify Cauchy's mean value theorem for f(x) = x* and g(x) =x* in [a, BJ.
 
@@ -5843,6 +5931,17 @@ cylinder x + y = a .
 6.   20
 a.   6
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+3 733
+Gi DN" » IC . . a
+Ifu= ae + - +—> wherex+y+z=1, prove that stationary point of u is given by
+
+a b
+5 p=
+
+, v= = using Lagrange Multipliers Method.
+atbt+ce at+bt+c a+b+c
 --- page 4 ---
 Verify Cauchy's mean value theorem for f(x) = x* and g(x) =x* in [a, BJ.
 
@@ -5937,6 +6036,17 @@ cylinder x + y = a .
 6.   20
 a.   6
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+3 733
+Gi DN" » IC . . a
+Ifu= ae + - +—> wherex+y+z=1, prove that stationary point of u is given by
+
+a b
+5 p=
+
+, v= = using Lagrange Multipliers Method.
+atbt+ce at+bt+c a+b+c
 --- page 4 ---
 Verify Cauchy's mean value theorem for f(x) = x* and g(x) =x* in [a, BJ.
 
@@ -6031,6 +6141,17 @@ cylinder x + y = a .
 6.   20
 a.   6
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+3 733
+Gi DN" » IC . . a
+Ifu= ae + - +—> wherex+y+z=1, prove that stationary point of u is given by
+
+a b
+5 p=
+
+, v= = using Lagrange Multipliers Method.
+atbt+ce at+bt+c a+b+c
 --- page 4 ---
 Verify Cauchy's mean value theorem for f(x) = x* and g(x) =x* in [a, BJ.
 
@@ -6125,6 +6246,17 @@ cylinder x + y = a .
 6.   20
 a.   6
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+3 733
+Gi DN" » IC . . a
+Ifu= ae + - +—> wherex+y+z=1, prove that stationary point of u is given by
+
+a b
+5 p=
+
+, v= = using Lagrange Multipliers Method.
+atbt+ce at+bt+c a+b+c
 --- page 4 ---
 Verify Cauchy's mean value theorem for f(x) = x* and g(x) =x* in [a, BJ.
 
@@ -6219,6 +6351,17 @@ cylinder x + y = a .
 6.   20
 a.   6
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+3 733
+Gi DN" » IC . . a
+Ifu= ae + - +—> wherex+y+z=1, prove that stationary point of u is given by
+
+a b
+5 p=
+
+, v= = using Lagrange Multipliers Method.
+atbt+ce at+bt+c a+b+c
 --- page 4 ---
 Verify Cauchy's mean value theorem for f(x) = x* and g(x) =x* in [a, BJ.
 
@@ -6313,6 +6456,17 @@ cylinder x + y = a .
 6.   20
 a.   6
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+3 733
+Gi DN" » IC . . a
+Ifu= ae + - +—> wherex+y+z=1, prove that stationary point of u is given by
+
+a b
+5 p=
+
+, v= = using Lagrange Multipliers Method.
+atbt+ce at+bt+c a+b+c
 --- page 4 ---
 Verify Cauchy's mean value theorem for f(x) = x* and g(x) =x* in [a, BJ.
 
@@ -6407,6 +6561,17 @@ cylinder x + y = a .
 6.   20
 a.   6
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+3 733
+Gi DN" » IC . . a
+Ifu= ae + - +—> wherex+y+z=1, prove that stationary point of u is given by
+
+a b
+5 p=
+
+, v= = using Lagrange Multipliers Method.
+atbt+ce at+bt+c a+b+c
 --- page 4 ---
 Verify Cauchy's mean value theorem for f(x) = x* and g(x) =x* in [a, BJ.
 

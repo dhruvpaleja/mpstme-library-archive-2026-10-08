@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_EXTC_7006/Embedded Processors and Real-Time Systems/ANS_Embedded Processors and Real-Time Systems(702EX0C033)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 May 2026
 - Text: text (4 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -35,6 +36,34 @@ Answer briefly:
 a.
 [5]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Program Status Word ( PSW ) and Flags
+
+
+Carry flag PSWw7 cy
+
+Auxiliary carry flag PSW.6 AC
+
+Available to the user for general purpose PSW.5 =
+
+Register Bank selector bit 1 Psw.4 RS1
+
+Register Bank selector bit 0 PSW.3 RSO
+
+Overflow flag Psw2 ov
+
+User define bit PSW1 =
+
+Parity flag Set/Reset odd/even parity PsW.0 P
+
+RSI RSO Register Bank Address
+
+0 0 Bank 0 00H-07H
+0 1 Bank 1 O08H-OFH
+1 0 Bank 2 10H-17H
+
+1 1 Bank 3 18H-1FH
 --- page 2 ---
 b.   [5]
 c. data segment   [5]
@@ -61,6 +90,35 @@ High speed (faster than I²C)
 Simple hardware interface
 No addressing (uses chip select lines)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Microprocessor vs. Microcontroller
+
+Microprocessor Microcontroller
+Dependent on other chips for many * Single chip computer which has
+functions so hardware size increases. everything in-built.
+
+CPU is stand-alone, RAM, ROM, I/O, , CPU, RAM, ROM, I/O and timer are
+timer are separate.
+
+Designer can decide on the amount
+of ROM, RAM and I/O ports.
+
+all on a single chip.
+* fix amount of on-chip ROM, RAM,
+
+I/O ports.
+Program memory and data memory .
+are same. + Uses different program and data
+Suited to processing information in wc
+computer systems. * Suited to control of I/O devices
+Powerful addressing mode. requiring a minimum component count.
+Data bus: 32,64,128 bits wide. * Extremely compact instructions.
+Clock rate > 1GHz. + Data bus: 8,16 bits wide.
+general-purpose. * 10 to 20 MHz.
+Expensive. * single-purpose.
+
+* Cheap.
 --- page 3 ---
 a.
 Q2
@@ -79,6 +137,25 @@ Q4   2) 32 KB RAM using 16 KB devices (Two devices) (1M)
 b. Explanation of Wi-Fi communication (5M)   [10]
 Explanation LoRa technology (5M)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+H Address Bus (20- bit)
+
+i Bi
+H (16 bit)
+
+ALU Data bus (16 bit) =
+
+“ if Internal Bus
+
+{ Communication’ Control | 8086 Bus
+H Registers Logic
+H Instruction queue
+| QBus
+
+1 (@bit)
+
+Execution Unit (EU) Bus Interface Unit (BIU)
 --- page 4 ---
 a. Crystal frequency calculation (2M)
 Assembly language program (8M)
@@ -165,6 +242,25 @@ mov ds,ax
 mov al,num1
 mov bl,num2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+P3 Bit Function SFR Significance
+
+P3.0 RxD SBUEF __|Réeeive data pin for serial port in UART mode.
+P31 TxD SBUEF _| Tmsmit data pin for serial port in UART mode.
+P3.2 INTO TCON. 1 | Fxtemltnterupt
+
+P3.3 INTI TCON.3 | Extem2l Interrupt
+
+P3.4 TO TLO External Timer / Counter 0 input pin.
+
+P3 . 5 T 1 TL 1 External Timer / Counter 1 input pin.
+
+P3.6 WR . External memory write pulse.
+
+P3.7 =—_— External memory read pulse.
+
+RD -
 --- page 2 ---
 mul al,bl
 mov res,ax
@@ -206,6 +302,18 @@ Explaination (6M)
 Q3   a. Interfacing diagram (4M)
 Explanation of interfacing of DAC with ARM (6M)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Address Bus (20- bit)
+
+AH | AL | AX
+BH | BL_| Bx
+
+(16 bit)
+
+ALU Data bus (16 bit)
+
+Execution Unit (EU) Bus Interface Unit (BIU)
 --- page 4 ---
 b.
 (TMOD 4M)
@@ -234,6 +342,29 @@ a. 1.Concept of memory segmentation with diagram (4M)
 with suitable examples (6M)
 Q7
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Memory Segments
+y g 000
+
+Segment 00H
+Registers 200008
+
+. DATA
+DS: |2000H oFFFFH
+ss: | 5000H STACK S0000H
+5FFFFH
+ES: |7000H 70000H
+EXTRA 7FFFFH
+
+cs; | 3000H
+
+30000H
+CODE 3FFFFH
+
+Segments are < or = 64K and can overlap.
+Note that the Code segment is < 64K since 7F FFFH is the
+highest address.
 --- page 6 ---
 Hardware debugging tools
 Hardware debugging tools are

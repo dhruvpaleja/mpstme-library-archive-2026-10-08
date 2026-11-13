@@ -245,6 +245,26 @@ Types of Activation Functions:
 [5]
 b   [5]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+1. Mathematical Formulation of Bidirectional RNN (Bi-RNN):
+
+© Forward hidden state:
+
+hi = fWilar + UfhL, +0)
+¢ Backward hidden state:
+
+hi = f (Whar + Upht., +b)
+
+© Final output:
+4 = 9 V [hf he] + by)
+
+2. Difference from Standard RNN:
+¢ Standard RNN processes input only in one direction (past > future).
+
+© Bi-RNN processes input in both directions (past — future and future — past), capturing richer
+
+contextual information.
 --- page 2 ---
 Cc
 
@@ -351,6 +371,39 @@ print(predictions)
 a.   [10]
 Q3
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+1. Forward Propagation in a Neural Network:
+
+© Forward propagation is the process where input data passes through the network, layer by layer, to
+
+generate an output.
+
+* Each layer performs a linear transformation followed by an activation function:
+Z4 = wall + ol
+All = ¢(Z")
+
+LSTM (Long Short-Term Memory) Solution:
+¢ Introduces cell state C; that maintains long-term memory.
+
+¢ Uses gates to control information flow:
+
+e Forget Gate: Decides what information to discard.
+
+fe = o(Wy[hta, a] + by)
+e Input Gate: Decides what new information to store.
+
+i, = o(W;|hi_1, 24] + 0;)
+
+C, = tanh(Wo[hi-1, vi] + bc)
+© Cell State Update:
+Cr= fi Crit G
+
+¢ Output Gate: Computes the new hidden state.
+
+04 = o(Wa|he-1, xt] + bo)
+
+hi = 0, - tanh(C;)
 --- page 4 ---
 import tensorflow as tf
 from tensorflow.keras.models import Sequential
@@ -378,6 +431,19 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 datagen = ImageDataGenerator(rotation_range=30, width_shift_range=0.2,
 height_shift_range=0.2, horizontal_flip=True)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+1. Data Augmentation:
+
+¢ A technique to artificially expand the training dataset by applying transformations like rotation,
+
+flipping, scaling, cropping, and color jittering to existing images.
+2. How It Improves CNN Performance:
+¢ Reduces overfitting by introducing variability.
+© Improves generalization to unseen data.
+¢ Enhances robustness to distortions and transformations in real-world scenarios.
+
+3. Example (TensorFlow):
 --- page 5 ---
 a. 1. Role of Convolutional Layers: [10]
 ¢ Extract spatial features from input images using learnable filters.
@@ -432,6 +498,38 @@ Dense(1, activation='sigmoid')
 ])
 # Compile model
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+2. Output Calculation:
+
+ye = 9(Vh, + by)
+
+where:
+© Yt = Output at time step t
+e V = Weight matrix for hidden state to output connection
+e by = Bias term
+
+e g = Activation function for output (e.g., softmax or sigmoid)
+
+Example:
+
+© Ifinput x, = 2, hy1 = 0.5, weights W;, = 0.8, Un = 0.6, bias b, = 0.1:
+h, = tanh(0.8(2) + 0.6(0.5) + 0.1) = tanh(1.6 + 0.3 + 0.1) = tanh(2) ~ 0.964
+¢ Ifoutput weight V = 1.2, bias b, = 0.2:
+
+uy = sigmoid(1.2(0.964) + 0.2) = sigmoid(1.3568) ~ 0.795
+
+1. Concept of Regularization:
+¢ Regularization prevents overfitting by adding a penalty to large weights.
+¢ Common types:
+¢ L1 Regularization (Lasso): Encourages sparsity.
+
+¢ L2 Regularization (Ridge): Penalizes large weights, preventing over-complexity.
+
+2. L2 Regularization Formula:
+Lrotat = Lioss + 4) w?
+
+where A controls the regularization strength.
 --- page 7 ---
 model.compile(optimizer='adam',   loss='binary_crossentropy',
 metrics=['accuracy'])
@@ -448,6 +546,52 @@ model = Sequential([
 LSTM(64, return_sequences=True, input_shape=(10, 1)),
 LSTM(32),
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+1. Structure of GRU (Gated Recurrent Unit):
+* GRU is a variant of RNN that reduces vanishing gradients and improves long-term dependencies.
+¢ Uses two gates instead of three (as in LSTM):
+¢ Reset Gate (7;) — Controls how much past information to forget.
+Update Gate (z,) —- Controls how much past memory to retain.
+
+© No separate cell state like LSTM; hidden state h; directly stores information.
+
+. Reset Gate:
+
+r= o(W,[he-1, x4| + b,)
+
+. Update Gate:
+
+Zt = o(W.[hi-1, Zt] + b.)
+
+. Candidate Hidden State:
+
+hi => tanh(W), [rt . hi-1, 4] + bp)
+. Final Hidden State Update:
+
+hy = (1-2) + Ina + he
+
+. Convolutional Layers ( Conv2D )
+
+e Extracts features such as edges and textures using filters.
+
+¢ Uses ReLU activation to introduce non-linearity.
+. Pooling Layers ( MaxPooling2D )
+
+¢ Reduces the size of feature maps while retaining important information.
+
+¢ Max pooling selects the highest value in a region to keep dominant features.
+. Flatten Layer ( Flatten )
+
+© Converts 2D feature maps into a 1D vector for input to fully connected layers.
+. Fully Connected Layers ( Dense )
+
+¢ First dense layer learns patterns, while the final softmax layer predicts class probabilities.
+. Compilation & Training
+
+¢ Uses Adam optimizer for adaptive learning rate.
+
+© Sparse categorical cross-entropy loss for multi-class classification.
 --- page 8 ---
 Dense(1)
 ])
@@ -464,6 +608,34 @@ model.fit(X, y, epochs=5, batch_size=16)
 a.   [10]
 Q7
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+1. Human-Level Performance (HLP) in Machine Learning:
+© HLP is the accuracy level a well-trained human expert achieves on a given task.
+© It serves as a benchmark to evaluate machine learning models.
+
+¢ If a model performs close to or better than HLP, further improvements may be difficult due to
+
+inherent noise in data (e.g., mislabeled samples).
+
+2. Error Analysis for Improving Model Performance:
+¢ Breaks down model errors into different categories:
+© Bias Error (Underfitting): Model is too simple, needs more features or complexity.
+¢ Variance Error (Overfitting): Model memorizes training data, needs regularization.
+
+¢ Data Mismatch Error: Training and test data distributions differ, requiring better data
+
+collection.
+
+¢ Human-Labeling Error: Data might contain incorrect labels, requiring manual review.
+
+3. How Error Analysis Helps:
+e Identifies dominant sources of error to prioritize fixes.
+¢ Suggests targeted improvements, e.g.:
+e High bias — Use a more complex model or add features.
+e High variance — Use regularization, more data, or dropout.
+
+¢ Mismatched data — Use transfer learning or domain adaptation.
 --- page 9 ---
 Q7
 

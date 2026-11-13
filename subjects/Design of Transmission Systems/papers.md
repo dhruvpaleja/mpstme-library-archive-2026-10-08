@@ -11,6 +11,7 @@ Each paper: year, exam, semester, departments and programmes, then its full text
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_Mechanical_7003/Design of Transmission Systems/QP_Design of Transmission Systems(702ME0E017)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
 - Text: mixed (14 pages), mean OCR confidence 33.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -128,6 +129,32 @@ The helix angle 𝜓 varies from 15 to 25°
 Minimum Face Width
 Beam Strength of Helical Gears
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+In helical gears, the normal module m,, should be
+selected from standard values. The first preference
+values of the normal module are
+
+m, (in mm) = 1, 1.25, 1.5, 2, 2.5, 3, 4, 5, 6, 8
+
+and 10
+
+The standard proportions of the addendum and
+the dedendum are,
+
+addendum (h,) = m,,
+
+dedendum (/,) = 1.25 m,,
+
+clearance (c) = 0.25 m,,
+
+The addendum circle diameter d, is given by
+
+zm,
+d,=d+2h,=
+cos y
+
++ 2m,
 --- page 5 ---
 Effective Load on Gear Tooth
 Cs is the service factor (same as the case for spur gear)
@@ -151,6 +178,24 @@ Addendum Angle: 𝛼
 Dedendum Angle: 𝛿
 Important Gear Relations
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Addendum
+, angle
+
+Face Large end
+of tooth
+Root angle
+Face angle
+JE \ Back
+} Jo cone
++
+Pitch angle
+Pitch line SA
+> Dedendum
+Root
+
+angle
 --- page 7 ---
 Back Cone distance
 Virtual and Actual number of teeth relation
@@ -158,6 +203,22 @@ Tangent relations
 The cone distance A0 is given by,
 Beam Strength of Bevel Gears
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+where,
+
+S;, = beam strength of the tooth (N)
+
+m= module at the large end of the tooth (mm)
+b= face width (mm)
+
+0, = permissible bending stress (S,,/3) (N/mm’)
+Y = Lewis form factor based on formative
+
+number of teeth
+A, = cone distance (mm)
+
+The term [ - +| is called the bevel factor.
 --- page 8 ---
 The face width of the bevel gear is generally taken as 10 m or (A0/3), whichever is smaller
 Wear Strength of Bevel Gears
@@ -182,6 +243,31 @@ Spur Gear Data Tables and Empirical Formulae
 Proportions of standard involute teeth (in terms of module m)
 Values of the Lewis form factor Y for 20° full-depth involute system
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Module (m) (mm) Class-1   Class-2 Class - 3
+
+Up to 4 0.050 0.025 0.0125
+5 0.056 0.025 0.0125
+6 0.064 0.030 0.0150
+7 0.072 0.035 0.0170
+8 0.080 0.038 0.0190
+9 0.085 0.041 0.0205
+
+10 0.090 0.044 0.0220
+
+14.5° full 20° full ~—-20° stub
+
+depth depth system
+system system
+Pressure angle 14.5° 20° 20°
+Addendum m m 0.8 m
+Dedendum 1.157m 1.25m m
+Clearance 0.157 m 0.25 m 0.2m
+Working depth 2m 2m 1.6m
+
+Whole depth 2.157 m 2.25m 1.8m
+Tooth thickness 1.5708m 1.5708m_ 1.5708m
 --- page 10 ---
 Number of Teeth
 Service Factor
@@ -189,6 +275,36 @@ Service factor for speed reduction gearboxes
 Examples of Driving machines with different working characteristics
 Examples of Driven machines with different working characteristics
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+
+15 0.289 27 0.348 55 0.415
+16 0.295 28 0.352 60 0.421
+17 0.302 29 0.355 65 0.425
+18 0.308 30 0.358 70 0.429
+19 0.314 32 0.364 75 0.433
+20 0.320 33 0.367 80 0.436
+21 0.326 35 0.373 90 0.442
+22 0.330 37 0.380 100 0.446
+23 0.333 39 0.386 150 0.458
+24 0.337 40 0.389 200 0.463
+25 0.340 45 0.399 300 0.471
+26 0.344 50 0.408 Rack 0.484
+
+Working characteristics of Working characteristics of Driven machine (Table 17.6)
+
+Driving machine (Table 17.5) Uniform Moderate shock Heavy shock
+Uniform 1.00 1.25 1.75
+Light shock 1.25 1.50 2.00
+
+Medium shock 1.5 1.75 2.25
+
+Characteristic of operation Driving machines
+
+Uniform Electric motor, steam turbine, gas turbine
+Light shock Multi-cylinder internal combustion engine
+
+Medium shock Single cylinder internal combustion engine
 --- page 11 ---
 Velocity Factor
 v < 10m/s
@@ -202,11 +318,65 @@ Ep = modulus of elasticity of pinion material (N/mm2 )
 Eg = modulus of elasticity of gear material (N/mm2 )
 Values of deformation factor C (N/mm2)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Characteristic of operation Driven machines
+
+Uniform Generator, belt conveyor, platform conveyor, light elevator, electric hoist,
+feed gears of machine tools, ventilators, turbo-blower, mixer for constant
+density material
+
+Medium shock Main drive to machine tool, heavy elevator, turning gears of crane, mine
+ventilator, mixer for variable density material, multi-cylinder piston
+pump, feed pump
+
+Heavy shock Press, shear, rubber dough mill, rolling mill drive, power shovel, heavy
+
+centrifuge, heavy feed pump, rotary drilling apparatus, briquette press,
+pug mill
+
+_ 21v(Ceb+ P)
+
+4 2+ J(Ceb+P) (17.26)
+where,
+
+P., = dynamic load or incremental dynamic
+load (N)
+v = pitch line velocity (m/s)
+C = deformation factor (N/mm?)
+e = sum of errors between two meshing teeth
+(mm)
+b = face width of tooth (mm)
+P, = tangential force due to rated torque (N)
 --- page 12 ---
 Relation between Grade and Tolerance/Errors
 where
 Estimation of Module Based on Beam Strength
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Materials 14.5° full depth teeth | 20° full depth teeth 20° stub teeth
+
+Pinion material Gear material
+Grey CI Grey Cl 5500 5700 5900
+Steel Grey Cl 7600 7900 8100
+Steel Steel 11 000 11 400 11 900
+
+Grade e (microns)
+
+1 0.80 + 0.06
+2 1.25+0.10¢
+3 2.00+ 0.16
+4 3.20+ 0.25
+5 5.00 + 0.40
+6 8.00 + 0.63
+7 11.00 +0.90 @
+8 16.00 + 1.25
+9 22.00 + 1.80 @
+10 32.00 + 2.50 @
+M1 45.00 +3.55 @
+
+12 63.00 + 5.00 @
 --- page 13 ---
 Estimation of Module Based on Wear Strength
 Contact Stress due to Wear
@@ -216,6 +386,33 @@ Empirical Constants in Wear Strength Equation
 (Internal Mesh)
 ● Load Stress Factor (K)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+_ 2P
+
+Oc = TBI (a)
+; ' 1/2
+2P(1—p?)}| —+—
+aS
+and =) =| ——_+~—_—=+ (b)
+1 1
+nl) —+—
+dd,
+where,
+
+o,, = maximum value of the compressive stress
+(N/mm?)
+
+P = force pressing the two cylinders together (N)
+b = half width of deformation (mm)
+
+J = axial length of the cylinder (mm)
+
+d,, d, = diameters of the two cylinders (mm)
+E,, Ey = modulii of elasticity of two cylinder
+
+materials (N/mm)
+= Poisson’s ratio
 --- page 14 ---
 FRR IC 7 I OH
 ````
@@ -227,6 +424,7 @@ FRR IC 7 I OH
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/BTech_Mechanical_7003/Design of Transmission Systems/QP_Design of Transmission Systems(702ME0E017)_2025-2026_471ab14551.pdf` (+1 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 Dec 2025
 - Text: mixed (14 pages), mean OCR confidence 33.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -344,6 +542,32 @@ The helix angle 𝜓 varies from 15 to 25°
 Minimum Face Width
 Beam Strength of Helical Gears
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+In helical gears, the normal module m,, should be
+selected from standard values. The first preference
+values of the normal module are
+
+m, (in mm) = 1, 1.25, 1.5, 2, 2.5, 3, 4, 5, 6, 8
+
+and 10
+
+The standard proportions of the addendum and
+the dedendum are,
+
+addendum (h,) = m,,
+
+dedendum (/,) = 1.25 m,,
+
+clearance (c) = 0.25 m,,
+
+The addendum circle diameter d, is given by
+
+zm,
+d,=d+2h,=
+cos y
+
++ 2m,
 --- page 5 ---
 Effective Load on Gear Tooth
 Cs is the service factor (same as the case for spur gear)
@@ -367,6 +591,24 @@ Addendum Angle: 𝛼
 Dedendum Angle: 𝛿
 Important Gear Relations
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Addendum
+, angle
+
+Face Large end
+of tooth
+Root angle
+Face angle
+JE \ Back
+} Jo cone
++
+Pitch angle
+Pitch line SA
+> Dedendum
+Root
+
+angle
 --- page 7 ---
 Back Cone distance
 Virtual and Actual number of teeth relation
@@ -374,6 +616,22 @@ Tangent relations
 The cone distance A0 is given by,
 Beam Strength of Bevel Gears
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+where,
+
+S;, = beam strength of the tooth (N)
+
+m= module at the large end of the tooth (mm)
+b= face width (mm)
+
+0, = permissible bending stress (S,,/3) (N/mm’)
+Y = Lewis form factor based on formative
+
+number of teeth
+A, = cone distance (mm)
+
+The term [ - +| is called the bevel factor.
 --- page 8 ---
 The face width of the bevel gear is generally taken as 10 m or (A0/3), whichever is smaller
 Wear Strength of Bevel Gears
@@ -398,6 +656,31 @@ Spur Gear Data Tables and Empirical Formulae
 Proportions of standard involute teeth (in terms of module m)
 Values of the Lewis form factor Y for 20° full-depth involute system
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Module (m) (mm) Class-1   Class-2 Class - 3
+
+Up to 4 0.050 0.025 0.0125
+5 0.056 0.025 0.0125
+6 0.064 0.030 0.0150
+7 0.072 0.035 0.0170
+8 0.080 0.038 0.0190
+9 0.085 0.041 0.0205
+
+10 0.090 0.044 0.0220
+
+14.5° full 20° full ~—-20° stub
+
+depth depth system
+system system
+Pressure angle 14.5° 20° 20°
+Addendum m m 0.8 m
+Dedendum 1.157m 1.25m m
+Clearance 0.157 m 0.25 m 0.2m
+Working depth 2m 2m 1.6m
+
+Whole depth 2.157 m 2.25m 1.8m
+Tooth thickness 1.5708m 1.5708m_ 1.5708m
 --- page 10 ---
 Number of Teeth
 Service Factor
@@ -405,6 +688,36 @@ Service factor for speed reduction gearboxes
 Examples of Driving machines with different working characteristics
 Examples of Driven machines with different working characteristics
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+
+15 0.289 27 0.348 55 0.415
+16 0.295 28 0.352 60 0.421
+17 0.302 29 0.355 65 0.425
+18 0.308 30 0.358 70 0.429
+19 0.314 32 0.364 75 0.433
+20 0.320 33 0.367 80 0.436
+21 0.326 35 0.373 90 0.442
+22 0.330 37 0.380 100 0.446
+23 0.333 39 0.386 150 0.458
+24 0.337 40 0.389 200 0.463
+25 0.340 45 0.399 300 0.471
+26 0.344 50 0.408 Rack 0.484
+
+Working characteristics of Working characteristics of Driven machine (Table 17.6)
+
+Driving machine (Table 17.5) Uniform Moderate shock Heavy shock
+Uniform 1.00 1.25 1.75
+Light shock 1.25 1.50 2.00
+
+Medium shock 1.5 1.75 2.25
+
+Characteristic of operation Driving machines
+
+Uniform Electric motor, steam turbine, gas turbine
+Light shock Multi-cylinder internal combustion engine
+
+Medium shock Single cylinder internal combustion engine
 --- page 11 ---
 Velocity Factor
 v < 10m/s
@@ -418,11 +731,65 @@ Ep = modulus of elasticity of pinion material (N/mm2 )
 Eg = modulus of elasticity of gear material (N/mm2 )
 Values of deformation factor C (N/mm2)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Characteristic of operation Driven machines
+
+Uniform Generator, belt conveyor, platform conveyor, light elevator, electric hoist,
+feed gears of machine tools, ventilators, turbo-blower, mixer for constant
+density material
+
+Medium shock Main drive to machine tool, heavy elevator, turning gears of crane, mine
+ventilator, mixer for variable density material, multi-cylinder piston
+pump, feed pump
+
+Heavy shock Press, shear, rubber dough mill, rolling mill drive, power shovel, heavy
+
+centrifuge, heavy feed pump, rotary drilling apparatus, briquette press,
+pug mill
+
+_ 21v(Ceb+ P)
+
+4 2+ J(Ceb+P) (17.26)
+where,
+
+P., = dynamic load or incremental dynamic
+load (N)
+v = pitch line velocity (m/s)
+C = deformation factor (N/mm?)
+e = sum of errors between two meshing teeth
+(mm)
+b = face width of tooth (mm)
+P, = tangential force due to rated torque (N)
 --- page 12 ---
 Relation between Grade and Tolerance/Errors
 where
 Estimation of Module Based on Beam Strength
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Materials 14.5° full depth teeth | 20° full depth teeth 20° stub teeth
+
+Pinion material Gear material
+Grey CI Grey Cl 5500 5700 5900
+Steel Grey Cl 7600 7900 8100
+Steel Steel 11 000 11 400 11 900
+
+Grade e (microns)
+
+1 0.80 + 0.06
+2 1.25+0.10¢
+3 2.00+ 0.16
+4 3.20+ 0.25
+5 5.00 + 0.40
+6 8.00 + 0.63
+7 11.00 +0.90 @
+8 16.00 + 1.25
+9 22.00 + 1.80 @
+10 32.00 + 2.50 @
+M1 45.00 +3.55 @
+
+12 63.00 + 5.00 @
 --- page 13 ---
 Estimation of Module Based on Wear Strength
 Contact Stress due to Wear
@@ -432,6 +799,33 @@ Empirical Constants in Wear Strength Equation
 (Internal Mesh)
 ● Load Stress Factor (K)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+_ 2P
+
+Oc = TBI (a)
+; ' 1/2
+2P(1—p?)}| —+—
+aS
+and =) =| ——_+~—_—=+ (b)
+1 1
+nl) —+—
+dd,
+where,
+
+o,, = maximum value of the compressive stress
+(N/mm?)
+
+P = force pressing the two cylinders together (N)
+b = half width of deformation (mm)
+
+J = axial length of the cylinder (mm)
+
+d,, d, = diameters of the two cylinders (mm)
+E,, Ey = modulii of elasticity of two cylinder
+
+materials (N/mm)
+= Poisson’s ratio
 --- page 14 ---
 FRR IC 7 I OH
 ````
@@ -1174,8 +1568,9 @@ FRR 7 3 FRR RE
 - Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/MECHANICAL/Sem_07/DESIGN OF TRANSMISSION SYSTEMS/Design of Transmission Systems, Sem-VII, Final Exam 2024-25.pdf` (+1 identical copies)
 - Printed on paper: duration hours: 3
-- Text: ocr (36 pages), mean OCR confidence 69.0
-- 42 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: ocr (36 pages), mean OCR confidence 75.9
+- 6 pages scanned sideways or upside down, turned upright before OCR
+- 22 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 | —
@@ -1862,297 +2257,262 @@ m 3 SeHtilocsc ess se ieee fesse add cian nid A
 no
 
 --- page 17 ---
-gs Rin Tee Sroagessd 222g an BRR
+L
 
-Ss
+Table 13.16 (Contd)
 
-as “is coocscscoosccosses sc désesssscosacad
+Speed
+of faster
+shaft
 
-~~ & ~ aon AO oor a — A or
-aT RSTTHISTIIIPSRHZHsss ss sess
-ee :
+Power rating for smaller pulley pitch diameter of.
 
-ba owen omnrneonrnnnunaonnuna
-FE IS/SRESRRRSSTSARRARARS
+400 106 112 8
+mn. mm mm mm
 
-ei Rlesagesngagsgaagaagas:
+125
 
-BE isles oue
-SE IRISSSRS
+Additional power increment per belt for speed ratio of
 
-of lsleseage
-
-i ee Se ae
-
-& all on i ee
-
-SS RR eR Ree eR
-
-Bsssssssssssgsssgsssgggess
+1.0010 1.02to 1.0510 1.09 to 1.1310 1:19to 1.25 ta 1.35 to 1.5210
+4000 104 1.08 (412 1i8 424 1340 52 1.99
 --- page 18 ---
-po oc S oso oscs
+y yt
 
-s nee = n = nam 2
+Table 13.17 Power ratings in kW (Pr) for B-Section V-Belts, 17 mm wide with 180° arc of contact on smaller pulley
 
-Sa lslgenaalSSS22N SRS RashageeqgRgggsgl:
-i. ja sccscsicScoscscsceosscosococosceeoscococoeoos
-ES
+ed
+ohae Power rating for smaller pulley plich diameter of Additional power increment per belt for speed ratio of
+5
 
-*
+125 432 140 150 «160 170 180 190 200. | 2.0010 HO2ta 10S to 1.0910 LI3to 1I9to 1.2510 1.35to 1.52to 2,00
 
-£ 1s
-— = co) Fad oo ah Aad a in
+mm oomm omni mmm omm om | Ot 0408 12 IS 2A BASE 1.99 and
 
-= |=
-& &
-dl tm ind nm - Vim -
-& [2s alezgsleSSBSSSLaQISHFRaRaHgsaag
-“~ I*le cS cic SScoSSGcoscesseseacasososososeooSseSe
+over
 
-g (SS [SJeccdlecsdsaosscddsodsdssdsocesds
-=
-
-ic]
-
-gs ]8 - -
-
-8 [oS jalesesiesseseessssssecss32isss
-
-= Ss
-
-gs osageigsssggggsggseegsesggggs
-5 ss jslgegsesiegsgegseesgsssesgsseeseees
-<
-= yw | ange PeanSQeneseygnseegegave
-2 RE TSS ISSIR SHS STIS S SIs 28 88
-Ss
-x=
-3 se leas Qagiasaggerggsagsasatanseggs
-& BS SE “lag arid i eke nn h nine FT KKB COOK
-
-& alse sgipesgaesnagaegnergggeaeqgKe
-ze 5 si BIRRSSRSLSSHSSRESTS SATS STISIS
-—
-=| 2 eg isles eglagassRegqgnegagegsazgeags
-2 B ~ Main eg SISOS He HK NN NAN KMhMh Kn tT EH THNNHHNHO YS
-rs
-g| 8 eeesleSQAgTQRRASARSRRRRTRIAS
-& : SE RSSITSSSATSSSHHAPSSS se ssagys
-=
-a & _
-F jes |AISGSRIGRSASRSTSaIARe aT aLeeRges
-al} SE NS STTSSSATSSSHSSRAATSSSS SITS
-ri
-2 me |SPSSRRSSSARKALESSAHAS SASS ESS
-fa)
-: ys ° 2°
-“ His] idesggleaaeasesageageeeeeeeea2
-i
+720 16) 1.79 1.99 2.24 2.48 2.73 297 3.21 3.45 0.00 0.03 0.05 0.08 0.10 013° O15 O18 0.20 0.23
+960 2.02 2.24 250 2.82 3.13 3.44 3.75 405 435°] 0.00 003 007 0. 10 0.14 O17 0.20 0.24 027 030
+1440 2.72 3.03 3.39 3.83 426 468 5.09 5.50 5.90:| 0.00 0.05 0.10 0.15 0.20 025 030 036 041 0.46
+2880 396 444 495 555 6.11 662 7.08 7.48 - 0.00 0.10 0.20 030 041 050 061 0.71 O81 0.91
+100 0.32 0.35 038 043 O47 OSI O55 0.59 0.63 | 0.00 0.00 0.01 0.01 OOF 0.02 0.02 6.02 0.03 0.03
+200 057 063 069 0.77 085 0.92 1,00 1.08 115 | 0.00 601 0.01 602 6.03 0.04 0.04 0.05 0.06 0.06
+300 0.80 O88 0.97 1.08 1.19 1.31 1.42 1.53 1.64 | 0.00 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09
+400 1.01 al 1.23 1.38 152 167 181 1.96 210] 0.00 0.01 0.03 0.04 0.06 0.07 0.08 «0.10 O11 0.13
+500 12k 1.33 1.48 1.66 1.84 862.01 219 2.36 2.54 0.00 0.02 0.04 0.05 0.07 0.09 OL O12 0.14 0.16
+600 1.40 1.55 L72 1.93 214 235 2.55 2.76 2.96 | 0.00 0.02 0.04 0.06 0.08 OQ.11 0.13 0.15 0.17 0.19
+700 L.58 1.75 194 219 243 2.66 290° 3.13 3.37 0.00 «60.02 0.05 0.07 08.10 O12 0.15 0.17 0.20 0.22
+800 1.75 194 216 244 2.70 297 3.24 3.50 3.78 | 000 0.03 0.06 008 O11 O14 0.17 0.20 0.23 0.25
+900 192 243 2.37 268 297 3.27 3.56 3.85 413 | 0.00, 0.03 0.06 0.10 0.13 0.16 0.19 0.22 0,25 0,29
+1000 2.08 2.31 2.58 2.93 323 3.55 3.87 418 449 | 0.00 0,04. 0.07 0.10 0.14 «0.18 0.21 0.25 0.28 0.32
+1100 2.23 2.49 2.78 3.13 348° 3.83 417 4.51 4.84 0.00 0.04. 0.08 O12 0.16 0.19 0.23 0.27 = (0.31 0.35
+1200 238 266 2,96 3.35 3.72 4.09 4.46 4.81 $5.17 | 0.00 0.04 0.08 0.13 0.17 0.21 0.25 0.30 034 0.38
+1300 253 282 3.15 355 3.95 434 4.73 S11 548 | 0.00 0.05 0.09 O14 O18 0.23 0.27 032 037 O41
+1400 266 2.97 332 3.75 417 459 498 539 5.78 | 0.00 0.05 0.10 0.45 020 025 030 035 039 0.44
+1500 2.79 3.12 349 3.94 438 482 $24 5.66 606 | 000 005 0. 10 0.16 0.21 026 0.32 0.37 042 0.48
+1600 2.92 3.26 3.65 412 4.58 5.04 5.48 5.91 6.33 0.00 0.06 O11 O17 = 0.23 0.28 0.34 0.39 ©6045 O51
+1700 3.04 3.40 3.80 429 4.77 5.24 5.70 6.14 658 | 0.00 0.06 0.12 0.18 024 030 0.36 042 0.48 0.54
+1800 3.15 3.52 394 445 495 544 590 636 680 | 0.00 0.06 013 O19 025 032 O38 044 O51 0.57
+1900 326 3.65 408 461 $12 5,62 6.10 656 7.00 | 0.00 0.07 0.13 020 0.27 033. 0.40 047 «60.54 = 0.60
+2000 336 3.76 421 4.75 $28 5.78 627 6.74 7.19 0.00 0.07 0.14 O21 0.28 035 0.42 049 0.56 0.63
+2100 3.45 3.87 433 488 $42 594 643 691 7.36 | 0.00 0.07 0.15 022 030 037 044 052 0.59 0.67
+2200 3.54 4.00 4.44 5.01 5.55 6.07 6.58. 7.05 7.50] 0.00 0.08 0.16 0.23 0.31 0.39 046 0.54 « 0.62 0.70
+2300 3.62 406 454 5.12 $68 620 6.70 7.18 7.62 | 0.00 0.08 0.16 024 0.32 OAl 0.49 0.57. 0.65 0.73
 --- page 19 ---
-an)
+Table 13.17 (Cond)
 
-a
-S
+Speed
+of faster Power rating for smaller pulley pitch diameter of Additional power increment per belt for speed ratio of
+shaft
 
-3S
+#25. 132, «1400 150 160170 180 190 +200: | 1.0010 1.02% 1.0510 1.0910 L13to 1.1910 12510 1.3510 152t0 2.00
+aaa mmm | OF 04082182434 3.99 and
 
-a 9
-Cabra
-oo
+om AWA RY keene | ka |
 
-a oC
-8
+2400 3.70 4.14 4.63 5.22 5.78 6.31 681 7.28 7.72 |0.00 0.08 0.17 0:25. 034 042 O51 059 068 0.76
+2500 3.77 4.22 4.64 5.23 580 633 683° 7.29 7.79 10.00 0.09 0.18 026 035 0.44 053 0.62 0.70 0.79
+2600 382 428 479 539 $95 648 697 742 783 |0.00 009 018 027 037 046 055 064 073 082
+2700 3.88 (435 486 546 603 655 7.03 7.47 7,86 |0.00 0.10 0.19. 029° 038 048 057 067 0.76 0.86
 
-oo
+2800 3.93 440 491 5.52 608 660 7.06 7.48 7.85 |0.00 0.10 0.20 039 049 059 0.69 0.79 0.89
 
-a)
+2900 3.97 4.44 496 5.56 612 662 7.08 7.48   . -|000 0.10 0.20 041 OSL 061 0.72 082 0.92
+3000 4.00 448 499 559 614 663 7.07 7.44 0.00 O11) 021 042 053° 0.63 0.74 085 0.95
+3100 4.02. 450 5.02. 5.61 6.63 7.04 0.00 0.22 044 055. 065 0.76 087 0.98
+3200 4.04 452 5.03 5.62 6.60 6.99; 0.00 | 0.23 045 056 068 0.79 090 1.01
+3300 4.05 452 5.03 5.61 655 0.00, 0.12 0.23 0.47 058 0.70 O81. 093 1.05
+3400 4.05 4.52 5.02 5.58 648 {ooo 012 0.24 0.48 0.60 0.72 084 0.96 1.08
+3500 4.04 450 5.00 555 6 te 000 012 0.25 049 (062 (0.74 «086 0.99 111
+3600 4.02 448 496 549 : -. 10.00 0.13 0.25 051 0.63 0.76 089 1.01 1.14
+3700 3.99 445 492 5.43 10.00 013 0.26 052 065 078 O91 1.04 1.17
+3800 3,95 440 4.86 5.34 3 0.00 0.13 0.27 0.54 067 080 094 1.07 1.20
+3900 3.91 434 4,76 ~|000 0.14 0.28 1 055 069 082 096 1.10 1.24
+4000 3.85 4.28 4.70 : 0.00 0.14 0.28 0.56 0.70 084 099 1.13 1.27
+4100 3.78 4.20 afi a 0.00 014 0.29 058 0.72 087 101 1.16 130
+4200 3.71 4.1 - |0.00 0.15 0.30 0.59 0.74 089 104 1.18 1.33
+4300 3.62 4.00 - 10.00 015 0.30 061 0.76 091 106 121 1.36
+4400 3.53 0.00 0.15 0.31 0.62 0.78 093 108% 1.24 1.39
 
-oo
-
-mom
-oo
-
-&
-
-5 3
-
-a
-oy
-
-J
-
-2 &
-
-€
-
-i
-
-a 5 g
-
-=
-
-te
-
-ote
-
-ae
-
-&
-
-bd
-
-R53.
-
-o
-bs
-<
-
-3
-
-A
-
-‘
-
-ye
+4500 3.42 j [9.00 0.16 032 048 063 0.79 095 Ll 127 143
 --- page 20 ---
-: Spal -~ Dw
-SPSRIS ARS SAERPRSERE
+Table 13.18 Power ratings in kW (P,) for C-section V-Belts, 22 min wide with 180° arc of contact on smatler pulley
 
+Pawer rating for smaller pulley pitch diameter of Additional power increment per belt for speed ratio of
 
-SoSRR RASS RRASARSER
+405° 1.09 FIF LID 12S) 135 152
+108: 1.12 4318 15t 1,99
 
-7 bo ied a lag =~ = Tm CH A aD
-§ 18 SIS SSISTARS RT ERSS
+kW kW |
+720 465 5.18 5.70 622 681 7.44 8.06 949 11.05 12.75
 
-2 s“AIX[o o Slo So GoGo oS SS
+10.00 11,72
+12.82. 14.76 .
 
-y JSsSfPASRSStaeRRA Fas
-R I~ "SIX 6 6 slg oS Ss Se sé eS Ss
-
-e [Se8s/8 8 els 8s3asgggs
-$ [SeMsla sglsssaeesagga
-eo ojo cococeoeoe oc cs
-
-£ lSeSait 2R\8 seeee ese R!
-ST S[Sic S S/S GOSS SO SGC SS
-
-~ 1S e8siS SSjesagsesygage
-
-2
-
-S ;
-2] lgeslaigssigsssseeuse
-N
-
-Bay ra Aa m 0 enee
-s| 88 Rss |2838 82 S538
-= noe ee ee
-§| [BE RSS SSS8859s23 3
-& : :
-by
-
-sk Sen seean wee as
-
-> SS aaw 6
-=| i leg blgaaieagengsgas
-nd e |* “ir a tl-eawm wu ora ad
-80
-B= © le spo ry oom ye are
-im f a , j
-> S| e iRE RESET Iss sss
-~
-8 ile. aiIN eg Sig eeg essstes
-
-eon Sie nnn wn OO KR
-
-4 : SE RIS SaqlsseRggsgeeg
-
-xvi me al a daw Fae ee
-
-res
-
-ages
-
-N Lael
-xe (8 -
-S$: |8 g
-
-a)
-
-8
-
-cal
-r-
-
-bie
-
-eS
-
-8.
+0.00 0.07 0.14 O21 028 035 042 049 0.56 0.63
+0.00 0.09 0.19 0.28 038 047 0.56 0.66 0.75 0.85
+042 056 0.71 085 0.99 113° 1.27
+0.03 0.04 0.05 0.06 0.07 . 0.08 0,09
+0.06 0.08 010 0.12 0.14 016 0.18
+0.09 O12 O15 O18 0.21 0.24 0.26
+0.12 0.16 0.20 623 0.27 031 0.35
+O15 020 0.24 029 034 039 0.44
+O18 O24 0.29 035 041 0.47 0.53
+0.21 027 034 O41 048 0.55 0.62
+0.23 031 0.39 047 0.55 063 0.71
+0.26 035 0.44 0.53 0.62 0.71 0.79
+0.29 039 G49 0,59 0.69 0.78 O88
+0.32 043 054 0.65 0.75 0.86 0.97
+0.35 047 0.59 0.70 0.82 0.94 1.06
+038 051 0.64 0.76 0.89 1.02 1.15
+041 055 0.69 082 0.96 1.10 1.23
+044 059 0.73 O88 1.03 148 1.32
+0.47 063 0.78 0.94 110 125 L4t
+0.50 0.67 083 100 1.17 1.33. 1.50
+0.53 O71 O88 106 1.23 141 1.59
+056 0.75 0.93 112 130, “149 1.67
+0.59 0.78 0.98 147 137 1.57 4.76
 --- page 21 ---
 zs
 =
 --- page 22 ---
-oy -_ ~
-SESS SRaSggegegregrpe sae s
+PO On —_
 
-& *
-=
-=
-A} 8
-3 r IMeRINSSSlaVCsesRgesesResQARragagaa
-q Qos VslsA ni mio cS SHAR BRR HMA NNN
-—
-z QeRsssEeRgegsggagyxesaesegseR
-=
-8 g
-+]
-8 RB ISTSS A ANS oO SG SS SOA AH AW
-SY &£
-‘5 §
-x Seiten!
-g S ISesViFS SHS aaGQsReggseggeRxs
-Ps § STATES RE KIS SC SO COO SO COO OR RA BRR AR
-2 rs]
-3
-x ~ ~
-3 ma “SIN%1SO SCS SiS COGS oO SC SO SCO oO Oo oO SG oS SG
-= ,
-§ Seds/8ssiesgsssessesasssaeggeges
-so = pn Z
-x SE [s/o jSSSERGCEUS
-a Fs }8 FSESARSaRR RE
->
-& SE ja eS eeesgrgs
-$ SE laa jefe RAR RR AS
-a
-el » ISR AIS 2 [888 Ssggses
-OT gp (Pi Pika jes et aa aang
-~
-=| Elgs |glf@8 JngSaaeaeeae .
-&} § [8 “im [MSIF RARARKRRASG
-2] Pier plas legagseesgse
-3 & |* “a8 wa OLS Sgggeaa
-A)
-80 ry , om -
-5 SEIS ES ses eaesegggsag
-_ » f
-s| £
-a} 3 188 BIR S ig as ag Aggees gsa
-ha) 5 ES SSE TRSERASUOAARRa daa
-eo =
-a| & lee gl82slesqgesegzeggsase
-s "NE XE Sadie ca cseeneasgggdsaagsg
-SE RIS SAasehHsSaeceeggaes
-yd
-Peas Wseselsssssessessseesss8
-RSs SiS =~ aa wo BR Oa =a Am a
-& = > a
+Table 13.19 Power ratings in kW (P,) for D-Section V- Belts, 32 mm wide with 180° arc of contact on smaller pulley
+
+Speed :
+of faster Power rating for smaller pulley pitch diameter of Additional power increment per belt for speed ratio of
+shaft i
+
+355 375, 400 425, 450 475° 500 530 $60 600 | 1.00 «61.02 1005) 1.09 3B L925 s.BSLS2~—-2.00
+701. 1.04 1.08 242 118 124 1.34 151 199 over
+
+720 16.26 17.90 19.90 21.85 23.75 23.59 27.38 29.44 31.42 33.91| 0.00 025 0.50 0.75 1.00 1.25 1.50 1.75 2.00 2.25
+960 19.26 21.16 23.45 25.63 27.70 29.65 31.47 33.50 35.32 0.00 0.33 067 1.00 1.34 167 2.00 233 2.67 3.00
+1440 = 21.22 23.03 - - - - - - = - 0.00 0.50 1.00 1.50 200 2.50 3.00 3.50 4.00 4.50
+100 3.39 3.70 408 445 483 5.20 557 602 646 7.04 | 0.00 0.03 007 0.10 0.14 017 O21 0.24 028 0.31
+
+} 200 6.04 661 732 802 8.72 942 10.11 10.93 11.75   12.83].0.00 0.07 0.14 0.21 0.28 035 042 049 0.56 0.63
+300 841 9.22 10.24 11.24 12.24 13.22 14.20 15.37 16.52 18.04] 0.00 0.10 0.21 0.31 042 052 062 0.73 0.83 0.94
+400 10.57 11.61 12.91 14.19 15.45 16.70 17.94 1940 20.85 22.74] 0.00 0.14 0.28 042 056 0.70 0.83 0.97 Ll) 1.25
+
+500 «12.55 13.80 15.35 16.87 18.38 19.86 21.32 23.03 24.72 26.91] 0.00 0.17 035 0.52 0.70 0.87 1.04 1.22 139 1.56
+
+600 «14.34 15.79 17.56 19.30 21.01 22.68 24.32 26.23 28.09 3049] 0.00 0.21 042 062 O83 1.04 1.25 146 1.67 1.88
+
+700 = 15.96 17.57 19.54 21.46 23.33 25.15 26.91 28.96 30.92 33.41: 0.00 0.24 0.49 0.73 O97 1.22 146 1.70 1.95 2.19
+
+800 17.39 19.14 21.26 23.32 25.31 27.22 29.06 31.17 33.16 35.62] 0.00 0.28 0.56 083 L111 139 1.67 1.95 2.22 2.50
+
+¥ x
+
+900 18.62 20.48 22.72 24.87 26.92 28.87 30.73 32.81 34.73 37.02] 0.00°/0.31 063 0.94 1.25 1.56 1.87. 2.19 250 2.81
+
+1000 19.64 21.57 23.88 26.07 28.14 30.07 31.86 33.82 35.57 0.00 0.35 0.70 1.04 1.39 1.74 2.08 243 2.78 3.13
+1100 =. 20.43. 22.40 24.74 26.91 28.92 30.76 32.42 0.00 0.38 O77 1.15 153 191 2.29 263 3.06 3.44
+1200 =. 20.98 22.96 25.26 27.36 29.25 0.00 042 O84 41.25 1.67 2.09 250 2.92 3.34 3.75
+1300 9-21.27 23.21 25.42 27.38 * 0.00 O45 O91 1.35 181 2.26 2.71 3.16 3.61 4.06
+1400 21.29 23.15 25.21 0.00 049 O98 146 1.95 243 2.92 340 3.89 4.38
+1500 21.03 22.76 0.00 052 1.05 1.56 209 261 3.12 365 417 4.69
+
+1600 20.46 0.00 O56 411 1.67 2.23 2.78 3.33 3.89 445 5.00
 --- page 23 ---
-33 des slazaegsas
-S35 nn & -—-e ANON Ss
+Table 13.20 Power ratings in KW (P,) for E-Section V-Belts, 32 mm wide with 180° arc of contact on smaller pulley
 
-k. No. of Plies= (P*Fa)/(P:*Fc*Fa)
+Speed
+of faster
+shaft
+
+Power rating for smaller. pulley pitch ‘diameter of Additional power increment per belt for speed ratio of
+
+585
+720
+960
+50
+100
+150
+200
+250
+300
+350
+400
+450
+300
+$50
+600
+650
+700
+750
+800
+850
+900
+950
+1000
+1050
+1100
+
+500, 530-560 600 630 650 710 750 «800-900 | 1.00 102 405 109 “HIS 119 (125° 135 1,52
+
+2 | 101 1.04 4.08 1,12 124 1.34 151 199
+
+266 282 321 356 37.7 40.1 43.7 47.4
+308 320 353 39.0 411 44.2 472 50.1
+311 33.5 365 - :
+
+50.8
+
+$6.0
+
+3.83 4.13 4,92! 5.03 533 5.77 6.20.
+
+845
+685° 741 819 911 9.68 1049 113 18.3
+959 104 “Id 127 136 147 15:9 218
+121 13.1 146 163 173 180 204 27.1
+144 13.7 125 19.5 20.8" 226 243 32.9
+16.6 18.2 22.4 26.1 (28.2 38.2
+18.7 20.5 28.3 29.4 347 42.8
+20.7 22.4 27.9 315 349 46.6
+22.4. 244 30.4 35.0 37.7 $0,2
+240 26.3 32.6 37.5 404 50.5
+256 27.9 0. 34.4 | 396 | - 58.0
+27.0 29.3 326° 36.2 | 415. . 56.4
+28:1.) 30.5 33.9 37.5 39.7 42.8 45.8. :
+29.0. 31.6 35.0 38.7 43.9 468
+
+298. 32.5 35.9 39.5 | | 44.7 473.
+
+305° 33.1 40.0
+
+44.9 87:
+308. 334 3 40.3 | 449 cs
+31.1, 33.7 369 40.2
+31.0 334 366 39.5 |
+30.8 33.1 36.0
+
+304° 326 °°
+
+29.6
 --- page 24 ---
 Design of Gears
 

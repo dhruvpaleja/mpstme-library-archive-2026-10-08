@@ -52,6 +52,44 @@ Page 1 of 7
 3. 1. Financial Planning & Strategy: Prepares budgets, forecasts, and long-term plans. (1 mark)
 2. Capital Structure Management: Decides debt-equity ratio and sources of funds. (1 mark)
 Page 2 of 7
+
+[Text in pictures on this page, read by OCR]
+Proposal A (2 marks)
+Initial Investment = %9,500
+
+Year | Cash Discount | Present
+Inflows Factor Value (%)
+@ @12%
+
+1 4,000 0.893 3,572
+
+2 4,000 0.797 3,188
+
+3 4,500 0.712 3,204
+
+Total 9,964
+
+PV
+
+NPV-A =9,964-9,500=%464
+
+Proposal B (2 marks)
+
+Initial Investment = =20,000
+
+Year Cash Discount | Present
+Inflows (%) | Factor Value (%)
+@12%
+1 8,000 0.893 7,144
+2 8,000 0.797 6,376
+3 12,000 0.712 8,544
+Total PV 22,064
+
+NPV-B =22,064—20,000=%2,064
+Decision
+
+Since NPV of Proposal B_   (%2,064) is higher than Proposal A (%464),
+Proposal B is more attractive. (1 mark)
 --- page 3 ---
 3. Financial Control: Oversees accounting, auditing, taxation, and compliance. (1 mark)
 4. Investment & Working Capital Decisions: Evaluates projects and short-term fund needs. (1
@@ -61,6 +99,27 @@ investors/regulators. (1 mark)
 2.   Answer the following   15
 1.   8
 Page 3 of 7
+
+[Text in pictures on this page, read by OCR]
+la) I=18 % of 100=18 (2 marks)
+RV = 100
+NP = 100
+Kd = [1 (1 -t)+(RV—-NP)/N] / (RV —NP)/2
+Kd =[ 18 (1 — 0.35) + (100 — 1009/10] / (100 + 100)/2
+= 11.7%
+1 b) Net Proceeds = 100 - 10 =90 (2 marks)
+RV = 100
+Kd = [ 18 (1 — 0.35) + (100 — 909/10] / (100 + 90)/2
+= 13.37%
+1 c) Net Proceeds = 100 + 10 =110 (2 marks)
+RV = 100
+Kd =[ 18 (1 — 0.35) + (100 — 1109/10] / (100 + 110)/2
+= 10.19 %
+1 d) Net Proceeds = 100 — 2 =98 (2 marks)
+RV = 100
+Kd = [ 18 (1 — 0.35) + (100 — 939/10] / (100 + 93)/2
+
+= 12.85%
 --- page 4 ---
 3.
 

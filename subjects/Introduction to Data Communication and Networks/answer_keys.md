@@ -1259,6 +1259,21 @@ connection does not affect the others, though
 a failure in the central hub will bring down the
 entire network.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Multiplexer Demultiplexer
+
+A multiplexer (Mux) is a combinational circuit that A demultiplexer (Demux) is also a combinational
+uses several data inputs to generate a single output. circuit that uses single input that can be directed
+throughout several outputs.
+
+Multiplexer includes several inputs and the single — Demultiplexer includes single input and several
+
+output outputs
+Amultiplexer is a data selector The demultiplexer is a data distributor
+Itis a digital switch Itis a digital circuit
+
+It works on the principle of many to one It works on the principle of one-to-many
 --- page 10 ---
 •   Advantages of Star Topology: Easy to manage
 and configure: It is relatively simple to add new
@@ -1921,6 +1936,24 @@ architecture include:
 10
 1. Mobile Station (MS)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+EIR a] HLR
+7 aud HHT] wir
+
+\ F
+BSC 7 MSC GMSC I
+
+we Interface to the
+—_— landline network
+oe
+The mobile phone BTS MSC
+
+| BSC } Go
+Nes G3
+
+Base stations wath as ‘components, the Switching nodes with
+transmitting station and the control unit registers
 --- page 6 ---
 •   Mobile Equipment (ME): This refers to the mobile device itself, such as a cell phone or a data
 terminal. It includes the hardware and software required for communication, including the

@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_Computer_7032/QUANTUM COMPUTING AND TECHNOLOGIES/ANS_QUANTUM COMPUTING AND TECHNOLOGIES(702BS0I020)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (11 pages), mean OCR confidence 63.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -35,6 +36,27 @@ a.   −1
 Compute the norm of the following vectors: |𝑢⟩= ( 4𝑖), |𝑣⟩= ( 3𝑖 )
 𝑖
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+We start by computing the Hermitian conjugate of each vector. Remember, first take the trans-
+pose of the vector and write the list of numbers as a row; then compute the complex conjugate
+of each element:
+
+(ju) = 4), = (ul = lu)’ = (u)")* = —4¥)
+(vj =(-1 3i D*=(-1 3 —i)
+
+We find that
+
+(ulu) =(2 —4i) (;,) =2%*2+(-4i)*4i =4+416 =20
+-1
+
+(vlv) =(-1   -3i i) | 3a: | = -1*(-1) + (-3’) «314+ (i) #1 = 14941=11
+i
+
+The norm is found by taking the square root of these quantities:
+
+ilu] = /ulu) = 20
+ill] = Mle) = VI
 --- page 2 ---
 For each calculation 2 Marks, 2X2=4Marks
 b. Define projection operator and write down its properties.
@@ -47,6 +69,27 @@ and is given by
 Suppose that the eigenvalues of the density operator ρ are given by λi. We can write the
 Von Neumann entropy in terms of the eigenvalues as
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Postulate 4: Time Evolution of the System
+
+The time evolution of a closed (i.e., physically isolated) quantum system is governed
+by the Schrédinger equation. This equation is given by
+
+ine =H 3.90
+ih) = Hiv) (3.90)
+
+where H is an operator called the Hamiltonian of the system. This operator corre-
+sponds to the total energy of the system. The possible energies the system can have
+are the eigenvalues of the H operator. The state of the system at a later time f is
+given by
+
+Iw(t)) = e14"/" Woy) (3.91)
+
+Therefore the time evolution of a quantum state is governed by the unitary operator
+U =e hth (3.92)
+
+where again H is the Hamiltonian operator describing the total energy of the system.
 --- page 3 ---
 --------------- (4 marks)
 e. Write down the generally accepted requirements for implementation of quantum computer.
@@ -76,6 +119,28 @@ a.   1   2
 A system is found in the state |𝜓⟩= |0⟩+ √5|1⟩
 √5
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+There are five generally accepted requirements for the implementation
+of quantum computation:
+1. A scalable physical system with well-characterized qubits,
+
+2. The ability to initialize the state of the qubits to a simple reliable
+state (|000...)),
+
+3. Long decoherence times, much longer than the gate operation
+time,
+
+4. A universal set of quantum gates,
+
+5. A qubit-specific measurement capability,
+
+and two additional networkability conditions:
+
+6. The ability to interconvert stationary and flying qubits,
+
+7. The ability to faithfully transmit flying qubits between specified
+locations.
 --- page 4 ---
 (i) Write down the density operator for this state.
 (ii) Does this state correspond to a pure or mixed state?
@@ -88,6 +153,26 @@ Solution:
 the probability that the system isin state |0>is 1/5 while the probability that the system is
 found in state |1> is 4/5.   – 2 marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+=
+
+25
+
+2
+\ 55 7
+
+4
+
+25
+8
+
+25
+
+2 8
+5° 35
+4 16
+5° 35
 --- page 5 ---
 -2 marks
 b.   Recall the Bloch sphere (geometric) representation of a qubit system, where in the state of a qubit
@@ -103,6 +188,24 @@ Q4
 a. Using the Density Operator find out the expectation value of an operator
 -4M
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The expectation value of an operator 4 can be written in terms of the density
+operator as
+
+n
+
+(A) = D> (us| lug) (ug Alur)
+
+kl=1
+
+=) (ule (> ay Alu)
+l=1 k=1
+
+= 0 ilpAlu)
+1=1
+
+=Tr(pA) (5.2)
 --- page 6 ---
 -4M
 b. A system is in the state
@@ -111,6 +214,21 @@ average
 value?
 -2M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+What happens if we take the trace of the density operator by itself? We can work
+in reverse and expand the state |y) in terms of a basis. Here we assume that the
+state is normalized. Then we will use the fact that ile? =1 to write down the
+trace of the density operator. We have
+
+j j
+
+J
+
+J
+
+This expression can be summarized by saying that due to the conservation of prob-
+ability, the trace of the density operator is always 1.
 --- page 7 ---
 -6M
 c.   Explain the principle of the Linear Paul Trap with appropriate diagram.
@@ -130,6 +248,33 @@ Explanation – 3 marks, Figure – 1 mark.
 Q5
 a. Consider a qubit in the state
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Pr(—1) = (W|P_lv)
+
+1 5 1 1 5
+- (0 + Fu) (5000 — J0)(1| — |1)(0| + nap) (0 +3)
+
+1 5 1-J5 -14+/5
+= (Jp. Feu) ( 2/6 |0) + a6 »)
+6-25
+
+12
+
+Notice that the probabilities sum to 1:
+
+6+2V5 | 6-25 _ |
+
+12 12
+
+(WIPL lw) + (W|P_lv) =
+The average value is
+
+(X) = (41) Pr(+1) + (-1) Pr(—1)
+_ 6425 | (=) v5
+
+= — ~ 0.75
+12 12 3
 --- page 8 ---
 Show mathematically how the state changes under: Bit flip error, Phase flip error, Bit-phase
 flip error. To protect quantum information against a single bit-flip error, the three-qubit
@@ -145,6 +290,12 @@ is linearly dependent.
 Solution:
 (2 marks)
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Py = |000) (000| + [111)(111|
+P, = |100) (100| + |011)(011|
+P> = |010) (010| + [101)(101|
+P3 = |001) (001| + [110)(110|
 --- page 9 ---
 (2 marks)
 Q6
@@ -218,6 +369,7 @@ FRI ICR 7 FI OH
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_DS_7038/QUANTUM COMPUTING AND TECHNOLOGIES/ANS_QUANTUM COMPUTING AND TECHNOLOGIES(702BS0I020)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (11 pages), mean OCR confidence 63.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -244,6 +396,27 @@ a.   −1
 Compute the norm of the following vectors: |𝑢⟩= ( 4𝑖), |𝑣⟩= ( 3𝑖 )
 𝑖
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+We start by computing the Hermitian conjugate of each vector. Remember, first take the trans-
+pose of the vector and write the list of numbers as a row; then compute the complex conjugate
+of each element:
+
+(ju) = 4), = (ul = lu)’ = (u)")* = —4¥)
+(vj =(-1 3i D*=(-1 3 —i)
+
+We find that
+
+(ulu) =(2 —4i) (;,) =2%*2+(-4i)*4i =4+416 =20
+-1
+
+(vlv) =(-1   -3i i) | 3a: | = -1*(-1) + (-3’) «314+ (i) #1 = 14941=11
+i
+
+The norm is found by taking the square root of these quantities:
+
+ilu] = /ulu) = 20
+ill] = Mle) = VI
 --- page 2 ---
 For each calculation 2 Marks, 2X2=4Marks
 b. Define projection operator and write down its properties.
@@ -256,6 +429,27 @@ and is given by
 Suppose that the eigenvalues of the density operator ρ are given by λi. We can write the
 Von Neumann entropy in terms of the eigenvalues as
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Postulate 4: Time Evolution of the System
+
+The time evolution of a closed (i.e., physically isolated) quantum system is governed
+by the Schrédinger equation. This equation is given by
+
+ine =H 3.90
+ih) = Hiv) (3.90)
+
+where H is an operator called the Hamiltonian of the system. This operator corre-
+sponds to the total energy of the system. The possible energies the system can have
+are the eigenvalues of the H operator. The state of the system at a later time f is
+given by
+
+Iw(t)) = e14"/" Woy) (3.91)
+
+Therefore the time evolution of a quantum state is governed by the unitary operator
+U =e hth (3.92)
+
+where again H is the Hamiltonian operator describing the total energy of the system.
 --- page 3 ---
 --------------- (4 marks)
 e. Write down the generally accepted requirements for implementation of quantum computer.
@@ -285,6 +479,28 @@ a.   1   2
 A system is found in the state |𝜓⟩= |0⟩+ √5|1⟩
 √5
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+There are five generally accepted requirements for the implementation
+of quantum computation:
+1. A scalable physical system with well-characterized qubits,
+
+2. The ability to initialize the state of the qubits to a simple reliable
+state (|000...)),
+
+3. Long decoherence times, much longer than the gate operation
+time,
+
+4. A universal set of quantum gates,
+
+5. A qubit-specific measurement capability,
+
+and two additional networkability conditions:
+
+6. The ability to interconvert stationary and flying qubits,
+
+7. The ability to faithfully transmit flying qubits between specified
+locations.
 --- page 4 ---
 (i) Write down the density operator for this state.
 (ii) Does this state correspond to a pure or mixed state?
@@ -297,6 +513,26 @@ Solution:
 the probability that the system isin state |0>is 1/5 while the probability that the system is
 found in state |1> is 4/5.   – 2 marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+=
+
+25
+
+2
+\ 55 7
+
+4
+
+25
+8
+
+25
+
+2 8
+5° 35
+4 16
+5° 35
 --- page 5 ---
 -2 marks
 b.   Recall the Bloch sphere (geometric) representation of a qubit system, where in the state of a qubit
@@ -312,6 +548,24 @@ Q4
 a. Using the Density Operator find out the expectation value of an operator
 -4M
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The expectation value of an operator 4 can be written in terms of the density
+operator as
+
+n
+
+(A) = D> (us| lug) (ug Alur)
+
+kl=1
+
+=) (ule (> ay Alu)
+l=1 k=1
+
+= 0 ilpAlu)
+1=1
+
+=Tr(pA) (5.2)
 --- page 6 ---
 -4M
 b. A system is in the state
@@ -320,6 +574,21 @@ average
 value?
 -2M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+What happens if we take the trace of the density operator by itself? We can work
+in reverse and expand the state |y) in terms of a basis. Here we assume that the
+state is normalized. Then we will use the fact that ile? =1 to write down the
+trace of the density operator. We have
+
+j j
+
+J
+
+J
+
+This expression can be summarized by saying that due to the conservation of prob-
+ability, the trace of the density operator is always 1.
 --- page 7 ---
 -6M
 c.   Explain the principle of the Linear Paul Trap with appropriate diagram.
@@ -339,6 +608,33 @@ Explanation – 3 marks, Figure – 1 mark.
 Q5
 a. Consider a qubit in the state
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Pr(—1) = (W|P_lv)
+
+1 5 1 1 5
+- (0 + Fu) (5000 — J0)(1| — |1)(0| + nap) (0 +3)
+
+1 5 1-J5 -14+/5
+= (Jp. Feu) ( 2/6 |0) + a6 »)
+6-25
+
+12
+
+Notice that the probabilities sum to 1:
+
+6+2V5 | 6-25 _ |
+
+12 12
+
+(WIPL lw) + (W|P_lv) =
+The average value is
+
+(X) = (41) Pr(+1) + (-1) Pr(—1)
+_ 6425 | (=) v5
+
+= — ~ 0.75
+12 12 3
 --- page 8 ---
 Show mathematically how the state changes under: Bit flip error, Phase flip error, Bit-phase
 flip error. To protect quantum information against a single bit-flip error, the three-qubit
@@ -354,6 +650,12 @@ is linearly dependent.
 Solution:
 (2 marks)
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Py = |000) (000| + [111)(111|
+P, = |100) (100| + |011)(011|
+P> = |010) (010| + [101)(101|
+P3 = |001) (001| + [110)(110|
 --- page 9 ---
 (2 marks)
 Q6
@@ -427,6 +729,7 @@ FRI ICR 7 FI OH
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_IT_7037/QUANTUM COMPUTING AND TECHNOLOGIES/ANS_QUANTUM COMPUTING AND TECHNOLOGIES(702BS0I020)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (11 pages), mean OCR confidence 63.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -453,6 +756,27 @@ a.   −1
 Compute the norm of the following vectors: |𝑢⟩= ( 4𝑖), |𝑣⟩= ( 3𝑖 )
 𝑖
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+We start by computing the Hermitian conjugate of each vector. Remember, first take the trans-
+pose of the vector and write the list of numbers as a row; then compute the complex conjugate
+of each element:
+
+(ju) = 4), = (ul = lu)’ = (u)")* = —4¥)
+(vj =(-1 3i D*=(-1 3 —i)
+
+We find that
+
+(ulu) =(2 —4i) (;,) =2%*2+(-4i)*4i =4+416 =20
+-1
+
+(vlv) =(-1   -3i i) | 3a: | = -1*(-1) + (-3’) «314+ (i) #1 = 14941=11
+i
+
+The norm is found by taking the square root of these quantities:
+
+ilu] = /ulu) = 20
+ill] = Mle) = VI
 --- page 2 ---
 For each calculation 2 Marks, 2X2=4Marks
 b. Define projection operator and write down its properties.
@@ -465,6 +789,27 @@ and is given by
 Suppose that the eigenvalues of the density operator ρ are given by λi. We can write the
 Von Neumann entropy in terms of the eigenvalues as
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Postulate 4: Time Evolution of the System
+
+The time evolution of a closed (i.e., physically isolated) quantum system is governed
+by the Schrédinger equation. This equation is given by
+
+ine =H 3.90
+ih) = Hiv) (3.90)
+
+where H is an operator called the Hamiltonian of the system. This operator corre-
+sponds to the total energy of the system. The possible energies the system can have
+are the eigenvalues of the H operator. The state of the system at a later time f is
+given by
+
+Iw(t)) = e14"/" Woy) (3.91)
+
+Therefore the time evolution of a quantum state is governed by the unitary operator
+U =e hth (3.92)
+
+where again H is the Hamiltonian operator describing the total energy of the system.
 --- page 3 ---
 --------------- (4 marks)
 e. Write down the generally accepted requirements for implementation of quantum computer.
@@ -494,6 +839,28 @@ a.   1   2
 A system is found in the state |𝜓⟩= |0⟩+ √5|1⟩
 √5
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+There are five generally accepted requirements for the implementation
+of quantum computation:
+1. A scalable physical system with well-characterized qubits,
+
+2. The ability to initialize the state of the qubits to a simple reliable
+state (|000...)),
+
+3. Long decoherence times, much longer than the gate operation
+time,
+
+4. A universal set of quantum gates,
+
+5. A qubit-specific measurement capability,
+
+and two additional networkability conditions:
+
+6. The ability to interconvert stationary and flying qubits,
+
+7. The ability to faithfully transmit flying qubits between specified
+locations.
 --- page 4 ---
 (i) Write down the density operator for this state.
 (ii) Does this state correspond to a pure or mixed state?
@@ -506,6 +873,26 @@ Solution:
 the probability that the system isin state |0>is 1/5 while the probability that the system is
 found in state |1> is 4/5.   – 2 marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+=
+
+25
+
+2
+\ 55 7
+
+4
+
+25
+8
+
+25
+
+2 8
+5° 35
+4 16
+5° 35
 --- page 5 ---
 -2 marks
 b.   Recall the Bloch sphere (geometric) representation of a qubit system, where in the state of a qubit
@@ -521,6 +908,24 @@ Q4
 a. Using the Density Operator find out the expectation value of an operator
 -4M
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The expectation value of an operator 4 can be written in terms of the density
+operator as
+
+n
+
+(A) = D> (us| lug) (ug Alur)
+
+kl=1
+
+=) (ule (> ay Alu)
+l=1 k=1
+
+= 0 ilpAlu)
+1=1
+
+=Tr(pA) (5.2)
 --- page 6 ---
 -4M
 b. A system is in the state
@@ -529,6 +934,21 @@ average
 value?
 -2M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+What happens if we take the trace of the density operator by itself? We can work
+in reverse and expand the state |y) in terms of a basis. Here we assume that the
+state is normalized. Then we will use the fact that ile? =1 to write down the
+trace of the density operator. We have
+
+j j
+
+J
+
+J
+
+This expression can be summarized by saying that due to the conservation of prob-
+ability, the trace of the density operator is always 1.
 --- page 7 ---
 -6M
 c.   Explain the principle of the Linear Paul Trap with appropriate diagram.
@@ -548,6 +968,33 @@ Explanation – 3 marks, Figure – 1 mark.
 Q5
 a. Consider a qubit in the state
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Pr(—1) = (W|P_lv)
+
+1 5 1 1 5
+- (0 + Fu) (5000 — J0)(1| — |1)(0| + nap) (0 +3)
+
+1 5 1-J5 -14+/5
+= (Jp. Feu) ( 2/6 |0) + a6 »)
+6-25
+
+12
+
+Notice that the probabilities sum to 1:
+
+6+2V5 | 6-25 _ |
+
+12 12
+
+(WIPL lw) + (W|P_lv) =
+The average value is
+
+(X) = (41) Pr(+1) + (-1) Pr(—1)
+_ 6425 | (=) v5
+
+= — ~ 0.75
+12 12 3
 --- page 8 ---
 Show mathematically how the state changes under: Bit flip error, Phase flip error, Bit-phase
 flip error. To protect quantum information against a single bit-flip error, the three-qubit
@@ -563,6 +1010,12 @@ is linearly dependent.
 Solution:
 (2 marks)
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Py = |000) (000| + [111)(111|
+P, = |100) (100| + |011)(011|
+P> = |010) (010| + [101)(101|
+P3 = |001) (001| + [110)(110|
 --- page 9 ---
 (2 marks)
 Q6
@@ -636,6 +1089,7 @@ FRI ICR 7 FI OH
 - Source: `02_Question_Papers/2025/Sem_10/Final-Exam/Integrated_Mechanical_7031/QUANTUM COMPUTING AND TECHNOLOGIES/ANS_QUANTUM COMPUTING AND TECHNOLOGIES(702BS0I020)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (11 pages), mean OCR confidence 63.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -662,6 +1116,27 @@ a.   −1
 Compute the norm of the following vectors: |𝑢⟩= ( 4𝑖), |𝑣⟩= ( 3𝑖 )
 𝑖
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+We start by computing the Hermitian conjugate of each vector. Remember, first take the trans-
+pose of the vector and write the list of numbers as a row; then compute the complex conjugate
+of each element:
+
+(ju) = 4), = (ul = lu)’ = (u)")* = —4¥)
+(vj =(-1 3i D*=(-1 3 —i)
+
+We find that
+
+(ulu) =(2 —4i) (;,) =2%*2+(-4i)*4i =4+416 =20
+-1
+
+(vlv) =(-1   -3i i) | 3a: | = -1*(-1) + (-3’) «314+ (i) #1 = 14941=11
+i
+
+The norm is found by taking the square root of these quantities:
+
+ilu] = /ulu) = 20
+ill] = Mle) = VI
 --- page 2 ---
 For each calculation 2 Marks, 2X2=4Marks
 b. Define projection operator and write down its properties.
@@ -674,6 +1149,27 @@ and is given by
 Suppose that the eigenvalues of the density operator ρ are given by λi. We can write the
 Von Neumann entropy in terms of the eigenvalues as
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Postulate 4: Time Evolution of the System
+
+The time evolution of a closed (i.e., physically isolated) quantum system is governed
+by the Schrédinger equation. This equation is given by
+
+ine =H 3.90
+ih) = Hiv) (3.90)
+
+where H is an operator called the Hamiltonian of the system. This operator corre-
+sponds to the total energy of the system. The possible energies the system can have
+are the eigenvalues of the H operator. The state of the system at a later time f is
+given by
+
+Iw(t)) = e14"/" Woy) (3.91)
+
+Therefore the time evolution of a quantum state is governed by the unitary operator
+U =e hth (3.92)
+
+where again H is the Hamiltonian operator describing the total energy of the system.
 --- page 3 ---
 --------------- (4 marks)
 e. Write down the generally accepted requirements for implementation of quantum computer.
@@ -703,6 +1199,28 @@ a.   1   2
 A system is found in the state |𝜓⟩= |0⟩+ √5|1⟩
 √5
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+There are five generally accepted requirements for the implementation
+of quantum computation:
+1. A scalable physical system with well-characterized qubits,
+
+2. The ability to initialize the state of the qubits to a simple reliable
+state (|000...)),
+
+3. Long decoherence times, much longer than the gate operation
+time,
+
+4. A universal set of quantum gates,
+
+5. A qubit-specific measurement capability,
+
+and two additional networkability conditions:
+
+6. The ability to interconvert stationary and flying qubits,
+
+7. The ability to faithfully transmit flying qubits between specified
+locations.
 --- page 4 ---
 (i) Write down the density operator for this state.
 (ii) Does this state correspond to a pure or mixed state?
@@ -715,6 +1233,26 @@ Solution:
 the probability that the system isin state |0>is 1/5 while the probability that the system is
 found in state |1> is 4/5.   – 2 marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+=
+
+25
+
+2
+\ 55 7
+
+4
+
+25
+8
+
+25
+
+2 8
+5° 35
+4 16
+5° 35
 --- page 5 ---
 -2 marks
 b.   Recall the Bloch sphere (geometric) representation of a qubit system, where in the state of a qubit
@@ -730,6 +1268,24 @@ Q4
 a. Using the Density Operator find out the expectation value of an operator
 -4M
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The expectation value of an operator 4 can be written in terms of the density
+operator as
+
+n
+
+(A) = D> (us| lug) (ug Alur)
+
+kl=1
+
+=) (ule (> ay Alu)
+l=1 k=1
+
+= 0 ilpAlu)
+1=1
+
+=Tr(pA) (5.2)
 --- page 6 ---
 -4M
 b. A system is in the state
@@ -738,6 +1294,21 @@ average
 value?
 -2M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+What happens if we take the trace of the density operator by itself? We can work
+in reverse and expand the state |y) in terms of a basis. Here we assume that the
+state is normalized. Then we will use the fact that ile? =1 to write down the
+trace of the density operator. We have
+
+j j
+
+J
+
+J
+
+This expression can be summarized by saying that due to the conservation of prob-
+ability, the trace of the density operator is always 1.
 --- page 7 ---
 -6M
 c.   Explain the principle of the Linear Paul Trap with appropriate diagram.
@@ -757,6 +1328,33 @@ Explanation – 3 marks, Figure – 1 mark.
 Q5
 a. Consider a qubit in the state
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Pr(—1) = (W|P_lv)
+
+1 5 1 1 5
+- (0 + Fu) (5000 — J0)(1| — |1)(0| + nap) (0 +3)
+
+1 5 1-J5 -14+/5
+= (Jp. Feu) ( 2/6 |0) + a6 »)
+6-25
+
+12
+
+Notice that the probabilities sum to 1:
+
+6+2V5 | 6-25 _ |
+
+12 12
+
+(WIPL lw) + (W|P_lv) =
+The average value is
+
+(X) = (41) Pr(+1) + (-1) Pr(—1)
+_ 6425 | (=) v5
+
+= — ~ 0.75
+12 12 3
 --- page 8 ---
 Show mathematically how the state changes under: Bit flip error, Phase flip error, Bit-phase
 flip error. To protect quantum information against a single bit-flip error, the three-qubit
@@ -772,6 +1370,12 @@ is linearly dependent.
 Solution:
 (2 marks)
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Py = |000) (000| + [111)(111|
+P, = |100) (100| + |011)(011|
+P> = |010) (010| + [101)(101|
+P3 = |001) (001| + [110)(110|
 --- page 9 ---
 (2 marks)
 Q6
@@ -1099,6 +1703,20 @@ CO-1,2;
 BL-3,4
 [4]
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+The matrix representation of this density operator is thus
+
+1 fl 1
+P=5
+2\1 1
+The eigenvalues of this matrix are
+Ai2 = {1, 0}
+
+To calculate the entropy, we use the fact that
+
+lim x logx = 0
+x0
 --- page 8 ---
 [4]
 c. Determine the eigenvalues of an operator with matrix representation
@@ -1130,6 +1748,18 @@ We have more knowledge about the second state before a measurement is made
 because its far more certain that the outcome is |0>.
 Each entropy calculation 3x2=[6]+ explanation [2]
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+So we only need to consider A = 1, and we find that
+S(p) = —log,(1) = 0
+
+This state is a pure state and it has zero entropy. We know with certainty what the state is
+prior to measurement—or put another way—there is no ignorance as to what the state of the
+system is.
+
+Inn dimensions, the entropy of a quantum state obeys the following inequality:
+
+log, n > S(p) > 0 (13.41)
 --- page 9 ---
 c. What do you mean by constant and balanced function? Apply oracle to the state
 |ψ1> and write down the output states for both the cases.
@@ -1434,6 +2064,20 @@ CO-1,2;
 BL-3,4
 [4]
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+The matrix representation of this density operator is thus
+
+1 fl 1
+P=5
+2\1 1
+The eigenvalues of this matrix are
+Ai2 = {1, 0}
+
+To calculate the entropy, we use the fact that
+
+lim x logx = 0
+x0
 --- page 8 ---
 [4]
 c. Determine the eigenvalues of an operator with matrix representation
@@ -1465,6 +2109,18 @@ We have more knowledge about the second state before a measurement is made
 because its far more certain that the outcome is |0>.
 Each entropy calculation 3x2=[6]+ explanation [2]
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+So we only need to consider A = 1, and we find that
+S(p) = —log,(1) = 0
+
+This state is a pure state and it has zero entropy. We know with certainty what the state is
+prior to measurement—or put another way—there is no ignorance as to what the state of the
+system is.
+
+Inn dimensions, the entropy of a quantum state obeys the following inequality:
+
+log, n > S(p) > 0 (13.41)
 --- page 9 ---
 c. What do you mean by constant and balanced function? Apply oracle to the state
 |ψ1> and write down the output states for both the cases.
@@ -1514,6 +2170,7 @@ BL-1,2
 - Source: `02_Question_Papers/2025/Sem_10/Re-Exam/Integrated_Computer_7032/QUANTUM COMPUTING AND TECHNOLOGIES/ANS_QUANTUM COMPUTING AND TECHNOLOGIES(702BS0I020)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: mixed (11 pages), mean OCR confidence 81.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1542,6 +2199,14 @@ Two vectors in C3 are given by |𝑎⟩= ( 4𝑖 ) , |𝑏⟩= ( 0 ) Find (i) �
 Each part 2M, 2X2=4M
 b. Write down the expression of the density operator and mention its key properties.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+e The density operator is Hermitian, meaning p = p'.
+e Tr(p)=1.
+¢ p is a positive operator, meaning (u|p|u) > 0 for any state vector |v).
+
+Recall that an operator is positive if and only if it is Hermitian and has nonnegative
+eigenvalues.
 --- page 2 ---
 Expression-1M,   Properties-
 3M
@@ -1568,6 +2233,19 @@ table.
 Circuit-2M, Table-2M, steps of quantum teleportation – 4M
 b. Show that these vectors form orthonormal basis.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+1. The no-cloning theorem-—quantum states cannot be copied. As a result Eve
+cannot tap a quantum communications channel, copy the quantum states used
+to create the key for herself, and send the originals down the line to Bob.
+
+2. Measurement leads to state collapse. A key aspect of QKD is that different
+bases will be used to create a bit string. When we make measurements in
+one of the given bases, we will cause state collapse such that measurements
+in the other basis are completely random. In other words, extracting some
+information about the state disturbs the state of the system.
+
+3. Measurements are irreversible.
 --- page 3 ---
 1   −√3   1   1
 i.   {[ √3 2 ] , [ 1 2 ]}   ii. {[ √2 1 ] , [ √2 1 ]}
@@ -1578,6 +2256,21 @@ Explanation – 3 marks, Figure – 1 mark.
 Q3
 a.   Prove that for a mixed state, 𝑇𝑟(𝜌2) < 1.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+E = Eocos(k-r — wt + ¢), (2.59)
+
+@® , 12 ) gp
+hoes /2
+hoe, 0
+O7
+ho,,/2
+g> ,
+E, E,
+0
+
+Figure 2.16. (a) A two-level system interacting with a laser beam field; (b) redefined
+zero-energy—see Eiq. (2.87).
 --- page 4 ---
 ------------- (5
 marks)
@@ -1586,6 +2279,23 @@ marks)
 b. Describe the action of the phase shift gate when considering the Bloch sphere representation
 of a qubit.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+First recall that we can write the density operator in terms of the spectral decomposition
+p= > Ailui)(uil
+i
+
+The {|u,)} constitute an orthonormal basis, and so (u;|u ;) = 6;;. The trace of a density operator
+is 1, Therefore
+
+Tr(p) =Tr (Samoe) =P wu) (spa moe) \u;)
+
+j
+
+= So Ai (uj lui) (wil)
+ij
+
+ij i i
 --- page 5 ---
 We write the qubit as
 |W) = cos6|0) + e’® sind|1)
@@ -1635,6 +2345,16 @@ a. We wish to investigate the use of the controlled NOT gate as a cloning machin
 can it clone the state |0⟩−𝑏|1⟩ ?
 -4M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+First let’s write down what the output state would be if the gate could clone the state. If it
+could, then it would make a copy of a|0) — bj1), and the output state would be the product
+state given by
+
+a\0) — b|1) @ a|0) — b|1) = a?|00) — ab|O1) — bal10) + b?|11)
+The input state is
+
+a|0) — b|1) @ |1) = al01) — b/11)
 --- page 7 ---
 -
 4M
@@ -1652,6 +2372,33 @@ procedure.
 Statement of the problem-2M, Calculation-4M, Final answer-2M
 c. Find the eigenvalues and eigenvectors for the “π/8” gate, which has the matrix representation
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+The controlled NOT gate acts on this state as follows:
+CN (a|01) — b|11)) = aCN|01) — BCN|11) = a|01) — b/10)
+
+You can see that a|01) — b|10) 4 a|0) — b|1) ® alO) — b|1). If the target qubit is |0), then we
+have
+
+CN(a|00) — b|10)) = aCN|00) — bCN|10) = a|00) — bI11)
+
+This state is also not equal to the product state a|0) — b|1) @ a|0) — b|1), so we aren’t any
+closer to cloning the state. This example shows that the CN gate can’t clone, in general. Can
+you think of any specific states that the CN gate might clone?
+
+We see that the matrix has unit trace
+
+Trp) = 4221
+"P= 3 47
+
+So it looks like it might be a valid density operator. However,
+
+1 iti
+4 4
+P=liai 3 JF?
+a 64
+
+Since the matrix is not Hermitian, it cannot represent a density operator.
 --- page 8 ---
 - 2 marks
 -
@@ -1697,6 +2444,12 @@ Jozsa algorithm works in this case by generating the vector |y> = |00> as the fi
 Circuit-2M, Calculation-
 4M,Answer-2M
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+ayy (10) = 1)
+Vout) = oo (OS )
+
+Measurement on the first two qubits gives 00, confirming that this is a constant function.
 --- page 10 ---
 b. | Explain in detail the Shor's algorithm. Classical order finding-4M, Quantum-
 4M
@@ -1763,6 +2516,7 @@ Part a-1M, Partb-1M, Partc-2M
 - Source: `02_Question_Papers/2025/Sem_10/Re-Exam/Integrated_IT_7037/QUANTUM COMPUTING AND TECHNOLOGIES/ANS_QUANTUM COMPUTING AND TECHNOLOGIES(702BS0I020)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 Jul 2026
 - Text: mixed (11 pages), mean OCR confidence 81.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1791,6 +2545,14 @@ Two vectors in C3 are given by |𝑎⟩= ( 4𝑖 ) , |𝑏⟩= ( 0 ) Find (i) �
 Each part 2M, 2X2=4M
 b. Write down the expression of the density operator and mention its key properties.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+e The density operator is Hermitian, meaning p = p'.
+e Tr(p)=1.
+¢ p is a positive operator, meaning (u|p|u) > 0 for any state vector |v).
+
+Recall that an operator is positive if and only if it is Hermitian and has nonnegative
+eigenvalues.
 --- page 2 ---
 Expression-1M,   Properties-
 3M
@@ -1817,6 +2579,19 @@ table.
 Circuit-2M, Table-2M, steps of quantum teleportation – 4M
 b. Show that these vectors form orthonormal basis.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+1. The no-cloning theorem-—quantum states cannot be copied. As a result Eve
+cannot tap a quantum communications channel, copy the quantum states used
+to create the key for herself, and send the originals down the line to Bob.
+
+2. Measurement leads to state collapse. A key aspect of QKD is that different
+bases will be used to create a bit string. When we make measurements in
+one of the given bases, we will cause state collapse such that measurements
+in the other basis are completely random. In other words, extracting some
+information about the state disturbs the state of the system.
+
+3. Measurements are irreversible.
 --- page 3 ---
 1   −√3   1   1
 i.   {[ √3 2 ] , [ 1 2 ]}   ii. {[ √2 1 ] , [ √2 1 ]}
@@ -1827,6 +2602,21 @@ Explanation – 3 marks, Figure – 1 mark.
 Q3
 a.   Prove that for a mixed state, 𝑇𝑟(𝜌2) < 1.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+E = Eocos(k-r —wt+ ¢), (2.59)
+
+@ , 12 ) pg
+hoes /2
+he, 0
+O7
+ho,,/2
+g> ,
+E, E,
+0
+
+Figure 2.16. (a) A two-level system interacting with a laser beam field; (b) redefined
+zero-energy—see iq. (2.87).
 --- page 4 ---
 ------------- (5
 marks)
@@ -1835,6 +2625,23 @@ marks)
 b. Describe the action of the phase shift gate when considering the Bloch sphere representation
 of a qubit.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+First recall that we can write the density operator in terms of the spectral decomposition
+p= > Ailui)(uil
+i
+
+The {|u,)} constitute an orthonormal basis, and so (u;|u ;) = 6;;. The trace of a density operator
+is 1, Therefore
+
+Tr(p) =Tr (Samoe) =P wu) (spa moe) \u;)
+
+j
+
+= So Ai (uj lui) (wil)
+ij
+
+ij i i
 --- page 5 ---
 We write the qubit as
 |W) = cos6|0) + e’® sind|1)
@@ -1884,6 +2691,16 @@ a. We wish to investigate the use of the controlled NOT gate as a cloning machin
 can it clone the state |0⟩−𝑏|1⟩ ?
 -4M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+First let’s write down what the output state would be if the gate could clone the state. If it
+could, then it would make a copy of a|0) — bj1), and the output state would be the product
+state given by
+
+a\0) — b|1) @ a|0) — b|1) = a?|00) — ab|O1) — bal10) + b?|11)
+The input state is
+
+a|0) — b|1) @ |1) = al01) — b/11)
 --- page 7 ---
 -
 4M
@@ -1901,6 +2718,33 @@ procedure.
 Statement of the problem-2M, Calculation-4M, Final answer-2M
 c. Find the eigenvalues and eigenvectors for the “π/8” gate, which has the matrix representation
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+The controlled NOT gate acts on this state as follows:
+CN (a|01) — b|11)) = aCN|01) — BCN|11) = a|01) — b/10)
+
+You can see that a|01) — b|10) 4 a|0) — b|1) ® alO) — b|1). If the target qubit is |0), then we
+have
+
+CN(a|00) — b|10)) = aCN|00) — bCN|10) = a|00) — bI11)
+
+This state is also not equal to the product state a|0) — b|1) @ a|0) — b|1), so we aren’t any
+closer to cloning the state. This example shows that the CN gate can’t clone, in general. Can
+you think of any specific states that the CN gate might clone?
+
+We see that the matrix has unit trace
+
+Trp) = 44321
+r"P)=4 47
+
+So it looks like it might be a valid density operator. However,
+
+1 iti
+4 4
+P=liai 3 JF?
+a 64
+
+Since the matrix is not Hermitian, it cannot represent a density operator.
 --- page 8 ---
 - 2 marks
 -
@@ -1946,6 +2790,12 @@ Jozsa algorithm works in this case by generating the vector |y> = |00> as the fi
 Circuit-2M, Calculation-
 4M,Answer-2M
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+ng (10) = 1)
+Vout) = io (A )
+
+Measurement on the first two qubits gives 00, confirming that this is a constant function.
 --- page 10 ---
 b. | Explain in detail the Shor's algorithm. Classical order finding-4M, Quantum-
 4M
@@ -2089,6 +2939,12 @@ b.   Suppose that A is a projection operator in H1 where A=|0><0| and B is a
 projection operator in H2 where B =|1><1|. Find A⊗B|ψ> where
 CO-1,2;   [3]   [8]
 BL- 3,4
+
+[Text in pictures on this page, read by OCR]
+A|0) = (10) (0])|0) = |0)(0|0) = 0)
+A|1) = (10) (0])|1) = [0)(O]1) = 0
+B\0) = (|1)(1])|0) = |0)(1]0) = 0
+B\1) = (J1)(1)) 1) = [1) (11) = |)
 --- page 4 ---
 [3]
 [2]
@@ -2203,6 +3059,20 @@ CO-1,2;   b.   1 ⁄   1 ⁄
 Calculate the entropy of the state ( 2   4 ).   [8]
 BL-3,4   1 ⁄   1 ⁄
 4   2
+
+[Text in pictures on this page, read by OCR]
+Alice 0 1 0 0 0 1 0 1
+Bits
+
+Alice | {]0),|]1)} | {10),11)} | 1) | {10}, 1U)} | {10), 11} |=) |=) | 14)
+
+Basis
+
+Bob (10), 11)} 7 (10), 11)} 7 t=) |=) |=) (10), 11)} | (=) | 1)
+Basis
+Match Yes Yes Yes No No No Yes | Yes
+
+Keep Yes Yes Yes No No No Yes | Yes
 --- page 9 ---
 [4]
 [4]
@@ -2224,6 +3094,18 @@ CO-3,4;
 BL-3,4
 3. qc.x(1)
 [3]
+
+[Text in pictures on this page, read by OCR]
+1 1 1 1 5 1
+
+2 4)/2 4 16 4
+1 affio4 1 5
+
+4 2/ \4 2 4 16
+
+=Trp)y2242-¥-?
+r = = =—
+P76 "16 1 8
 --- page 10 ---
 Draw the circuit diagram to obtain the above state.
 [1]
@@ -2240,6 +3122,24 @@ CO-1,2;
 [4]
 BL-1,2
 [4]+[4]
+
+[Text in pictures on this page, read by OCR]
+The action of the Y gate on the computational basis states is
+Y|0) =i), YJ|1) = —i]0)
+
+Hence
+
+v3 v3
+
+1 3 i
+YB 1d) = (YB 1/00) + 5 @ DIA) = i |10) — 5101)
+
+If both qubits are measured, the possible measurement results are 10 and 01. The probability
+
+of finding 10 is
+2
+_ (;%8) (_,%8) _3
+~\ 2 2) 4
 --- page 11 ---
 
 ````

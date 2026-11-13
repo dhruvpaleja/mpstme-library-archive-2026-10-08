@@ -200,6 +200,25 @@ reduces disputes by 70%.
 • Automation: Smart contracts auto-trigger payments on verified
 events, cutting DSO from 45 to 7 days.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 6.12 How Blockchain Works
+
+5-08-68
+
+The transaction is The transaction is
+An order Is broadcast to a validated by others
+submitted by P2P network of in the network
+oe computers
+customer
+
+8-8
+
+The block is added Production, The order is
+to the chain of Warehouse, fulfilled
+transactions for this Logistics add
+
+user additional blocks
 --- page 7 ---
 •   Trust: Single source of truth across multi-party supply chains
 without intermediaries.
@@ -546,6 +565,25 @@ reduces disputes by 70%.
 • Automation: Smart contracts auto-trigger payments on verified
 events, cutting DSO from 45 to 7 days.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 6.12 How Blockchain Works
+
+5-08-68
+
+The transaction is The transaction is
+An order Is broadcast to a validated by others
+submitted by P2P network of in the network
+oe computers
+customer
+
+8-8
+
+The block is added Production, The order is
+to the chain of Warehouse, fulfilled
+transactions for this Logistics add
+
+user additional blocks
 --- page 7 ---
 •   Trust: Single source of truth across multi-party supply chains
 without intermediaries.
@@ -892,6 +930,25 @@ reduces disputes by 70%.
 • Automation: Smart contracts auto-trigger payments on verified
 events, cutting DSO from 45 to 7 days.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 6.12 How Blockchain Works
+
+5-08-68
+
+The transaction is The transaction is
+An order Is broadcast to a validated by others
+submitted by P2P network of in the network
+oe computers
+customer
+
+8-8
+
+The block is added Production, The order is
+to the chain of Warehouse, fulfilled
+transactions for this Logistics add
+
+user additional blocks
 --- page 7 ---
 •   Trust: Single source of truth across multi-party supply chains
 without intermediaries.
@@ -1238,6 +1295,25 @@ reduces disputes by 70%.
 • Automation: Smart contracts auto-trigger payments on verified
 events, cutting DSO from 45 to 7 days.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 6.12 How Blockchain Works
+
+5-08-68
+
+The transaction is The transaction is
+An order Is broadcast to a validated by others
+submitted by P2P network of in the network
+oe computers
+customer
+
+8-8
+
+The block is added Production, The order is
+to the chain of Warehouse, fulfilled
+transactions for this Logistics add
+
+user additional blocks
 --- page 7 ---
 •   Trust: Single source of truth across multi-party supply chains
 without intermediaries.
@@ -1584,6 +1660,25 @@ reduces disputes by 70%.
 • Automation: Smart contracts auto-trigger payments on verified
 events, cutting DSO from 45 to 7 days.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 6.12 How Blockchain Works
+
+5-08-68
+
+The transaction is The transaction is
+An order Is broadcast to a validated by others
+submitted by P2P network of in the network
+oe computers
+customer
+
+8-8
+
+The block is added Production, The order is
+to the chain of Warehouse, fulfilled
+transactions for this Logistics add
+
+user additional blocks
 --- page 7 ---
 •   Trust: Single source of truth across multi-party supply chains
 without intermediaries.
@@ -3555,6 +3650,25 @@ Acceptance testing: Makes sure system is ready to be used in production
 setting
 Test plan: All preparations for series of tests
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Same time Different time
+
+synchronous asynchronous
+Face to face interactions Continuous task
+decision rooms, single display team rooms, large public display,
+groupware, shared table, wall shift work groupware, project
+displays, roomware,... management...
+
+Time/Space
+Collaboration and Social Tool Matrix
+
+Remote interactions Communication + coordination
+video conferencing, instant e-mail, bulletin boards, blogs,
+messaging, charts/MUDs/virtual | asynchronous conferencing, group
+words, shared screens, multi-user | calenders, workflow, version control,
+
+editors,... wikis,...
 --- page 9 ---
 What is knowledge Management? Explain the importance of KM value chain
 in any organization.
@@ -3896,6 +4010,25 @@ Acceptance testing: Makes sure system is ready to be used in production
 setting
 Test plan: All preparations for series of tests
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Same time Different time
+
+synchronous asynchronous
+Face to face interactions Continuous task
+decision rooms, single display team rooms, large public display,
+groupware, shared table, wall shift work groupware, project
+displays, roomware,... management...
+
+Time/Space
+Collaboration and Social Tool Matrix
+
+Remote interactions Communication + coordination
+video conferencing, instant e-mail, bulletin boards, blogs,
+messaging, charts/MUDs/virtual | asynchronous conferencing, group
+words, shared screens, multi-user | calenders, workflow, version control,
+
+editors,... wikis,...
 --- page 9 ---
 What is knowledge Management? Explain the importance of KM value chain
 in any organization.
@@ -4237,6 +4370,25 @@ Acceptance testing: Makes sure system is ready to be used in production
 setting
 Test plan: All preparations for series of tests
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Same time Different time
+
+synchronous asynchronous
+Face to face interactions Continuous task
+decision rooms, single display team rooms, large public display,
+groupware, shared table, wall shift work groupware, project
+displays, roomware,... management...
+
+Time/Space
+Collaboration and Social Tool Matrix
+
+Remote interactions Communication + coordination
+video conferencing, instant e-mail, bulletin boards, blogs,
+messaging, charts/MUDs/virtual | asynchronous conferencing, group
+words, shared screens, multi-user | calenders, workflow, version control,
+
+editors,... wikis,...
 --- page 9 ---
 What is knowledge Management? Explain the importance of KM value chain
 in any organization.
@@ -4578,6 +4730,25 @@ Acceptance testing: Makes sure system is ready to be used in production
 setting
 Test plan: All preparations for series of tests
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Same time Different time
+
+synchronous asynchronous
+Face to face interactions Continuous task
+decision rooms, single display team rooms, large public display,
+groupware, shared table, wall shift work groupware, project
+displays, roomware,... management...
+
+Time/Space
+Collaboration and Social Tool Matrix
+
+Remote interactions Communication + coordination
+video conferencing, instant e-mail, bulletin boards, blogs,
+messaging, charts/MUDs/virtual | asynchronous conferencing, group
+words, shared screens, multi-user | calenders, workflow, version control,
+
+editors,... wikis,...
 --- page 9 ---
 What is knowledge Management? Explain the importance of KM value chain
 in any organization.
@@ -4919,6 +5090,25 @@ Acceptance testing: Makes sure system is ready to be used in production
 setting
 Test plan: All preparations for series of tests
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Same time Different time
+
+synchronous asynchronous
+Face to face interactions Continuous task
+decision rooms, single display team rooms, large public display,
+groupware, shared table, wall shift work groupware, project
+displays, roomware,... management...
+
+Time/Space
+Collaboration and Social Tool Matrix
+
+Remote interactions Communication + coordination
+video conferencing, instant e-mail, bulletin boards, blogs,
+messaging, charts/MUDs/virtual | asynchronous conferencing, group
+words, shared screens, multi-user | calenders, workflow, version control,
+
+editors,... wikis,...
 --- page 9 ---
 What is knowledge Management? Explain the importance of KM value chain
 in any organization.
@@ -5260,6 +5450,25 @@ Acceptance testing: Makes sure system is ready to be used in production
 setting
 Test plan: All preparations for series of tests
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Same time Different time
+
+synchronous asynchronous
+Face to face interactions Continuous task
+decision rooms, single display team rooms, large public display,
+groupware, shared table, wall shift work groupware, project
+displays, roomware,... management...
+
+Time/Space
+Collaboration and Social Tool Matrix
+
+Remote interactions Communication + coordination
+video conferencing, instant e-mail, bulletin boards, blogs,
+messaging, charts/MUDs/virtual | asynchronous conferencing, group
+words, shared screens, multi-user | calenders, workflow, version control,
+
+editors,... wikis,...
 --- page 9 ---
 What is knowledge Management? Explain the importance of KM value chain
 in any organization.
@@ -5383,6 +5592,25 @@ growth.
 3
 Answer:
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Push-Based Model
+
+ay ae ee ~~
+
+Supply to Production based | Inventory based Stock based Purchase what
+forecast on forecasts on forecasts on forecasts is on shelves
+
+Pull-Based Model
+
+Jamel oc ne | ml
+
+Supply to Produce to Automatically Automatically
+order order replenish replenish stock
+warehouse
+
+Customer
+orders
 --- page 3 ---
 For a retail company expanding its e-commerce operations, several key
 Information Systems should be implemented to ensure efficiency, scalability,
@@ -5692,6 +5920,25 @@ growth.
 3
 Answer:
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Push-Based Model
+
+ay ae ee ~~
+
+Supply to Production based | Inventory based Stock based Purchase what
+forecast on forecasts on forecasts on forecasts is on shelves
+
+Pull-Based Model
+
+Jamel oc ne | ml
+
+Supply to Produce to Automatically Automatically
+order order replenish replenish stock
+warehouse
+
+Customer
+orders
 --- page 3 ---
 For a retail company expanding its e-commerce operations, several key
 Information Systems should be implemented to ensure efficiency, scalability,
@@ -6001,6 +6248,25 @@ growth.
 3
 Answer:
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Push-Based Model
+
+ay ae ee ~~
+
+Supply to Production based | Inventory based Stock based Purchase what
+forecast on forecasts on forecasts on forecasts is on shelves
+
+Pull-Based Model
+
+Jamel oc ne | ml
+
+Supply to Produce to Automatically Automatically
+order order replenish replenish stock
+warehouse
+
+Customer
+orders
 --- page 3 ---
 For a retail company expanding its e-commerce operations, several key
 Information Systems should be implemented to ensure efficiency, scalability,
@@ -6310,6 +6576,25 @@ growth.
 3
 Answer:
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Push-Based Model
+
+ay ae ee ~~
+
+Supply to Production based | Inventory based Stock based Purchase what
+forecast on forecasts on forecasts on forecasts is on shelves
+
+Pull-Based Model
+
+Jamel oc ne | ml
+
+Supply to Produce to Automatically Automatically
+order order replenish replenish stock
+warehouse
+
+Customer
+orders
 --- page 3 ---
 For a retail company expanding its e-commerce operations, several key
 Information Systems should be implemented to ensure efficiency, scalability,
@@ -6619,6 +6904,25 @@ growth.
 3
 Answer:
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Push-Based Model
+
+ay ae ee ~~
+
+Supply to Production based | Inventory based Stock based Purchase what
+forecast on forecasts on forecasts on forecasts is on shelves
+
+Pull-Based Model
+
+Jamel oc ne | ml
+
+Supply to Produce to Automatically Automatically
+order order replenish replenish stock
+warehouse
+
+Customer
+orders
 --- page 3 ---
 For a retail company expanding its e-commerce operations, several key
 Information Systems should be implemented to ensure efficiency, scalability,

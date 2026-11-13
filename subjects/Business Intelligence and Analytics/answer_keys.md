@@ -315,6 +315,24 @@ standardized before it can be effectively analyzed.
 formats, and applying business rules to ensure high data quality.
 • Load: Moving the processed data into the central storage system.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Information Data Warehouse Server OLAP Servers Clients
+
+Sources (Tier 1) (Tier 2) (Tier 3)
+
+a Data Warehouse 4 y |
+_—> ae =
+— a KPI
+
+_Operational__ a
+on atbeses ba Fe] Sau
+7 Data Analysis
+
+i
+
+__External__
+Sources _
 --- page 3 ---
 3. Data Warehousing
 Once the data is cleaned and transformed, it is stored in a centralized
@@ -399,6 +417,17 @@ Here is a breakdown of the two primary ensemble techniques: Bagging and Boosting
 Bagging focuses on reducing variance and preventing overfitting by training multiple
 independent models in parallel.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Y=6o+hix+e
+Where:
+e Y is the predicted outcome.
+¢ {bo is the y-intercept (the baseline value of Y when X is zero).
+
+¢ £, is the coefficient (the slope, representing how much Y changes for every one-unit
+change in X).
+
+¢ eis the error term (accounting for variations not explained by the model).
 --- page 5 ---
 • How it works: The algorithm creates multiple subsets of the original training
 data by sampling it randomly with replacement (this is the "bootstrap" part). A

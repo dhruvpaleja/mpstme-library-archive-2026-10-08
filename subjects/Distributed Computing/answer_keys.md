@@ -214,6 +214,34 @@ CO-3;
 SO-2;
 BL-3
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Receiver missed
+
+message #24
+Receiver Receiver Receiver Receiver
+Histor
+utter, Last = 24 Last = 24 Las' Last = 24
+
+[wes] (wes)
+[2 [* L* [*
+
+(a)
+
+Sender Receiver Receiver Receiver Receiver
+
+Last = 25 Last = 24 Last = 23 Last = 24
+
+(23)
+
+i ce [J ack 25 | misses 24] J ACK 25 J
+
+Network
+(b)
+
+Figure 8-9. A simple solution to reliable multicasting when all receivers are
+known and are assumed not to fail. (a) Message transmission. (b) Reporting
+feedback..
 --- page 6 ---
 A simple solution is shown in Fig. 8-9. The sending process assigns a
 sequence number to each message it multicasts. We assume that
@@ -607,6 +635,34 @@ CO-3;
 SO-2;
 BL-3
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Receiver missed
+
+message #24
+Receiver Receiver Receiver Receiver
+Histor
+utter, Last = 24 Last = 24 Las' Last = 24
+
+[wes] (wes)
+[2 [* L* [*
+
+(a)
+
+Sender Receiver Receiver Receiver Receiver
+
+Last = 25 Last = 24 Last = 23 Last = 24
+
+(23)
+
+i ce [J ack 25 | misses 24] J ACK 25 J
+
+Network
+(b)
+
+Figure 8-9. A simple solution to reliable multicasting when all receivers are
+known and are assumed not to fail. (a) Message transmission. (b) Reporting
+feedback..
 --- page 6 ---
 A simple solution is shown in Fig. 8-9. The sending process assigns a
 sequence number to each message it multicasts. We assume that
@@ -1000,6 +1056,34 @@ CO-3;
 SO-2;
 BL-3
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Receiver missed
+
+message #24
+Receiver Receiver Receiver Receiver
+Histor
+utter, Last = 24 Last = 24 Las' Last = 24
+
+[wes] (wes)
+[2 [* L* [*
+
+(a)
+
+Sender Receiver Receiver Receiver Receiver
+
+Last = 25 Last = 24 Last = 23 Last = 24
+
+(23)
+
+i ce [J ack 25 | misses 24] J ACK 25 J
+
+Network
+(b)
+
+Figure 8-9. A simple solution to reliable multicasting when all receivers are
+known and are assumed not to fail. (a) Message transmission. (b) Reporting
+feedback..
 --- page 6 ---
 A simple solution is shown in Fig. 8-9. The sending process assigns a
 sequence number to each message it multicasts. We assume that
@@ -1911,6 +1995,34 @@ CO-3;
 SO-2;
 BL-3
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Receiver missed
+
+message #24
+Receiver Receiver Receiver Receiver
+Histor
+utter, Last = 24 Last = 24 Las' Last = 24
+
+[wes] (wes)
+[2 [* L* [*
+
+(a)
+
+Sender Receiver Receiver Receiver Receiver
+
+Last = 25 Last = 24 Last = 23 Last = 24
+
+(23)
+
+i ce [J ack 25 | misses 24] J ACK 25 J
+
+Network
+(b)
+
+Figure 8-9. A simple solution to reliable multicasting when all receivers are
+known and are assumed not to fail. (a) Message transmission. (b) Reporting
+feedback..
 --- page 6 ---
 A simple solution is shown in Fig. 8-9. The sending process assigns a
 sequence number to each message it multicasts. We assume that
@@ -2304,6 +2416,34 @@ CO-3;
 SO-2;
 BL-3
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Receiver missed
+
+message #24
+Receiver Receiver Receiver Receiver
+Histor
+utter, Last = 24 Last = 24 Las' Last = 24
+
+[wes] (wes)
+[2 [* L* [*
+
+(a)
+
+Sender Receiver Receiver Receiver Receiver
+
+Last = 25 Last = 24 Last = 23 Last = 24
+
+(23)
+
+i ce [J ack 25 | misses 24] J ACK 25 J
+
+Network
+(b)
+
+Figure 8-9. A simple solution to reliable multicasting when all receivers are
+known and are assumed not to fail. (a) Message transmission. (b) Reporting
+feedback..
 --- page 6 ---
 A simple solution is shown in Fig. 8-9. The sending process assigns a
 sequence number to each message it multicasts. We assume that
@@ -2572,6 +2712,22 @@ Identifier = identity of object
 Address = location of object
 Why Identifiers are Preferred (3 Marks)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+RPC RMI
+
+RPC is a library and OS dependent platform. Whereas it is a java platform.
+RPC supports procedural programming. RMI supports object-oriented programming.
+RPC is less efficient in comparison of RMI. While RMI is more efficient than RPC.
+RPC creates more overhead. While it creates less overhead than RPC.
+
+The parameters which are passed in RPC are ordinary or
+normal data.
+
+While in RMI, objects are passed as parameter.
+RPC is the older version of RMI. While it is the successor version of RPC.
+
+There is high Provision of ease of programming in RPC. While there is low Provision of ease of programming in
 --- page 3 ---
 • Location Independence: Objects can move without changing their
 identifier.
@@ -2608,6 +2764,26 @@ link or references to the necessary meta data.
 3. File server(. Torrent file.):A user downloads a small torrent file
 from this file server. This file does not contain the actual
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Client node
+
+K out of N nodes
+Node 1
+Lookup(F)
+
+A BitTorrent torrent file List of nodes Node 2
+
+Web page | Ref.to for F Ref.to | storing F
+
+file tracker
+
+Tracker
+
+Web server server File server Node N
+
+Figure 2-14. The principal working of BitTorrent [adapted with permission
+from Pouwelse et al. (2004)].
 --- page 4 ---
 content it contains a reference to the tracker and information
 about the file chunk.
@@ -2648,6 +2824,21 @@ feedback messages are submitted
 •   Process P schedules its own feedback message randomly, and
 suppresses it when observing another feedback message
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Sender receives Receivers suppress their feedback
+only one NACK
+
+Sender Receiver recor | Receiver \ paci
+
+T=3 T=4 T=2
+
+121
+NACK NACK NACK
+
+t NACK pl
+
+Network
 --- page 5 ---
 a.   Discuss the general Design Issues of Servers in Distributed Systems in
 detail
@@ -2994,6 +3185,29 @@ delay.
 2. Home Server Bottleneck
 • Frequent updates and queries overload the home server.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Host's home
+[X11. Send packet to host at its home
+
+Oy OT
+2. Retum address
+of current location
+S
+v
+
+y
+
+Client's
+location
+
+3. Tunnel packet to
+A current location
+
+4. Send successive packets
+to current location
+
+Host's present location f
 --- page 14 ---
 3. Higher Update Overhead
 • Each movement requires updating the home server, increasing
@@ -3091,6 +3305,22 @@ Identifier = identity of object
 Address = location of object
 Why Identifiers are Preferred (3 Marks)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+RPC RMI
+
+RPC is a library and OS dependent platform. Whereas it is a java platform.
+RPC supports procedural programming. RMI supports object-oriented programming.
+RPC is less efficient in comparison of RMI. While RMI is more efficient than RPC.
+RPC creates more overhead. While it creates less overhead than RPC.
+
+The parameters which are passed in RPC are ordinary or
+normal data.
+
+While in RMI, objects are passed as parameter.
+RPC is the older version of RMI. While it is the successor version of RPC.
+
+There is high Provision of ease of programming in RPC. While there is low Provision of ease of programming in
 --- page 3 ---
 • Location Independence: Objects can move without changing their
 identifier.
@@ -3127,6 +3357,26 @@ link or references to the necessary meta data.
 3. File server(. Torrent file.):A user downloads a small torrent file
 from this file server. This file does not contain the actual
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Client node
+
+K out of N nodes
+Node 1
+Lookup(F)
+
+A BitTorrent torrent file List of nodes Node 2
+
+Web page | Ref.to for F Ref.to | storing F
+
+file tracker
+
+Tracker
+
+Web server server File server Node N
+
+Figure 2-14. The principal working of BitTorrent [adapted with permission
+from Pouwelse et al. (2004)].
 --- page 4 ---
 content it contains a reference to the tracker and information
 about the file chunk.
@@ -3167,6 +3417,21 @@ feedback messages are submitted
 •   Process P schedules its own feedback message randomly, and
 suppresses it when observing another feedback message
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Sender receives Receivers suppress their feedback
+only one NACK
+
+Sender Receiver recor | Receiver \ paci
+
+T=3 T=4 T=2
+
+121
+NACK NACK NACK
+
+t NACK pl
+
+Network
 --- page 5 ---
 a.   Discuss the general Design Issues of Servers in Distributed Systems in
 detail
@@ -3513,6 +3778,29 @@ delay.
 2. Home Server Bottleneck
 • Frequent updates and queries overload the home server.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Host's home
+[X11. Send packet to host at its home
+
+Oy OT
+2. Retum address
+of current location
+S
+v
+
+y
+
+Client's
+location
+
+3. Tunnel packet to
+A current location
+
+4. Send successive packets
+to current location
+
+Host's present location f
 --- page 14 ---
 3. Higher Update Overhead
 • Each movement requires updating the home server, increasing
@@ -3610,6 +3898,22 @@ Identifier = identity of object
 Address = location of object
 Why Identifiers are Preferred (3 Marks)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+RPC RMI
+
+RPC is a library and OS dependent platform. Whereas it is a java platform.
+RPC supports procedural programming. RMI supports object-oriented programming.
+RPC is less efficient in comparison of RMI. While RMI is more efficient than RPC.
+RPC creates more overhead. While it creates less overhead than RPC.
+
+The parameters which are passed in RPC are ordinary or
+normal data.
+
+While in RMI, objects are passed as parameter.
+RPC is the older version of RMI. While it is the successor version of RPC.
+
+There is high Provision of ease of programming in RPC. While there is low Provision of ease of programming in
 --- page 3 ---
 • Location Independence: Objects can move without changing their
 identifier.
@@ -3646,6 +3950,26 @@ link or references to the necessary meta data.
 3. File server(. Torrent file.):A user downloads a small torrent file
 from this file server. This file does not contain the actual
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Client node
+
+K out of N nodes
+Node 1
+Lookup(F)
+
+A BitTorrent torrent file List of nodes Node 2
+
+Web page | Ref.to for F Ref.to | storing F
+
+file tracker
+
+Tracker
+
+Web server server File server Node N
+
+Figure 2-14. The principal working of BitTorrent [adapted with permission
+from Pouwelse et al. (2004)].
 --- page 4 ---
 content it contains a reference to the tracker and information
 about the file chunk.
@@ -3686,6 +4010,21 @@ feedback messages are submitted
 •   Process P schedules its own feedback message randomly, and
 suppresses it when observing another feedback message
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Sender receives Receivers suppress their feedback
+only one NACK
+
+Sender Receiver recor | Receiver \ paci
+
+T=3 T=4 T=2
+
+121
+NACK NACK NACK
+
+t NACK pl
+
+Network
 --- page 5 ---
 a.   Discuss the general Design Issues of Servers in Distributed Systems in
 detail
@@ -4032,6 +4371,29 @@ delay.
 2. Home Server Bottleneck
 • Frequent updates and queries overload the home server.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Host's home
+[X11. Send packet to host at its home
+
+Oy OT
+2. Retum address
+of current location
+S
+v
+
+y
+
+Client's
+location
+
+3. Tunnel packet to
+A current location
+
+4. Send successive packets
+to current location
+
+Host's present location f
 --- page 14 ---
 3. Higher Update Overhead
 • Each movement requires updating the home server, increasing
@@ -4129,6 +4491,22 @@ Identifier = identity of object
 Address = location of object
 Why Identifiers are Preferred (3 Marks)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+RPC RMI
+
+RPC is a library and OS dependent platform. Whereas it is a java platform.
+RPC supports procedural programming. RMI supports object-oriented programming.
+RPC is less efficient in comparison of RMI. While RMI is more efficient than RPC.
+RPC creates more overhead. While it creates less overhead than RPC.
+
+The parameters which are passed in RPC are ordinary or
+normal data.
+
+While in RMI, objects are passed as parameter.
+RPC is the older version of RMI. While it is the successor version of RPC.
+
+There is high Provision of ease of programming in RPC. While there is low Provision of ease of programming in
 --- page 3 ---
 • Location Independence: Objects can move without changing their
 identifier.
@@ -4165,6 +4543,26 @@ link or references to the necessary meta data.
 3. File server(. Torrent file.):A user downloads a small torrent file
 from this file server. This file does not contain the actual
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Client node
+
+K out of N nodes
+Node 1
+Lookup(F)
+
+A BitTorrent torrent file List of nodes Node 2
+
+Web page | Ref.to for F Ref.to | storing F
+
+file tracker
+
+Tracker
+
+Web server server File server Node N
+
+Figure 2-14. The principal working of BitTorrent [adapted with permission
+from Pouwelse et al. (2004)].
 --- page 4 ---
 content it contains a reference to the tracker and information
 about the file chunk.
@@ -4205,6 +4603,21 @@ feedback messages are submitted
 •   Process P schedules its own feedback message randomly, and
 suppresses it when observing another feedback message
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Sender receives Receivers suppress their feedback
+only one NACK
+
+Sender Receiver recor | Receiver \ paci
+
+T=3 T=4 T=2
+
+121
+NACK NACK NACK
+
+t NACK pl
+
+Network
 --- page 5 ---
 a.   Discuss the general Design Issues of Servers in Distributed Systems in
 detail
@@ -4551,6 +4964,29 @@ delay.
 2. Home Server Bottleneck
 • Frequent updates and queries overload the home server.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Host's home
+[X11. Send packet to host at its home
+
+Oy OT
+2. Retum address
+of current location
+S
+v
+
+y
+
+Client's
+location
+
+3. Tunnel packet to
+A current location
+
+4. Send successive packets
+to current location
+
+Host's present location f
 --- page 14 ---
 3. Higher Update Overhead
 • Each movement requires updating the home server, increasing
@@ -4648,6 +5084,22 @@ Identifier = identity of object
 Address = location of object
 Why Identifiers are Preferred (3 Marks)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+RPC RMI
+
+RPC is a library and OS dependent platform. Whereas it is a java platform.
+RPC supports procedural programming. RMI supports object-oriented programming.
+RPC is less efficient in comparison of RMI. While RMI is more efficient than RPC.
+RPC creates more overhead. While it creates less overhead than RPC.
+
+The parameters which are passed in RPC are ordinary or
+normal data.
+
+While in RMI, objects are passed as parameter.
+RPC is the older version of RMI. While it is the successor version of RPC.
+
+There is high Provision of ease of programming in RPC. While there is low Provision of ease of programming in
 --- page 3 ---
 • Location Independence: Objects can move without changing their
 identifier.
@@ -4684,6 +5136,26 @@ link or references to the necessary meta data.
 3. File server(. Torrent file.):A user downloads a small torrent file
 from this file server. This file does not contain the actual
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Client node
+
+K out of N nodes
+Node 1
+Lookup(F)
+
+A BitTorrent torrent file List of nodes Node 2
+
+Web page | Ref.to for F Ref.to | storing F
+
+file tracker
+
+Tracker
+
+Web server server File server Node N
+
+Figure 2-14. The principal working of BitTorrent [adapted with permission
+from Pouwelse et al. (2004)].
 --- page 4 ---
 content it contains a reference to the tracker and information
 about the file chunk.
@@ -4724,6 +5196,21 @@ feedback messages are submitted
 •   Process P schedules its own feedback message randomly, and
 suppresses it when observing another feedback message
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Sender receives Receivers suppress their feedback
+only one NACK
+
+Sender Receiver recor | Receiver \ paci
+
+T=3 T=4 T=2
+
+121
+NACK NACK NACK
+
+t NACK pl
+
+Network
 --- page 5 ---
 a.   Discuss the general Design Issues of Servers in Distributed Systems in
 detail
@@ -5070,6 +5557,29 @@ delay.
 2. Home Server Bottleneck
 • Frequent updates and queries overload the home server.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Host's home
+[X11. Send packet to host at its home
+
+Oy OT
+2. Retum address
+of current location
+S
+v
+
+y
+
+Client's
+location
+
+3. Tunnel packet to
+A current location
+
+4. Send successive packets
+to current location
+
+Host's present location f
 --- page 14 ---
 3. Higher Update Overhead
 • Each movement requires updating the home server, increasing

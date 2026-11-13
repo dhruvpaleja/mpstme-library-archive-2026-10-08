@@ -225,6 +225,11 @@ these goals to day-to-day activities. They are also facing problems in data
 gathering and in defining key performance indicators (KPIs) for
 Sustainability.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Adaptive Cruise Control (ACC): ACC uses sensors to detect the speed and distance of
+
+the vehicles in front of the road and adjusts the speed of the car accordingly.
 --- page 3 ---
 Another challenge facing the industry is the adoption of EVs. Since EV
 is a new technology, there are many impediments to its adoption. Some
@@ -401,6 +406,24 @@ number of accidents caused by human error. We may see more
 widespread adoption of ADAS in India in the future as this technology
 improves and becomes more affordable.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+SET UP THE DRIVER'S HEIGHT & POSTURE
+
+Start by positioning the driver using the SAE 95th percentile manikin. Establish
+the heel height from the ground and then the seating posture.
+
+Consider the ground the
+heel pointe, Before seting up the seating posture tink eoout te folowing
+‘downward visibility, command-ofthe-road seating (eye point from ground), center
+of gravity, ingress/egress and aerodynamics.
+
+Probably the best way to get the driver location close is to look at existing ve-
+hicles with the same attributes and benchmark them.
+
+‘See Chapter 4 for more information on benchmarking.
+
+=
 --- page 8 ---
 a.   Classify ADAS applications in detail.
 Adaptive Cruise Control

@@ -1117,6 +1117,20 @@ Performance Review
 In this final stage, the buyer reviews the supplier’s performance and provides
 feedback.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Dimension of Risk Definition
+
+Functional risk The product does not perform as expected.
+Performance risk The product does not meet standards of quality.
+Physical risk Consumers’ safety in using the product.
+Psychological risk Poor product choice harms consumers’ ego.
+Social risk Product choice may result in embarrassment before
+
+family or friends; others will think less of a person as
+a result of a poor product choice.
+
+Financial risk The product is not worth the financial price.
 --- page 4 ---
 Q4   Private-sector health insurer Max Bupa launched a product that offers to lower [10]
 CO-   the cost of insurance by incentivising healthy habits. Called GoActive, the

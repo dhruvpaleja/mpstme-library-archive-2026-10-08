@@ -97,6 +97,27 @@ BL3   How to Overcome Optimism Bias in Cybersecurity?
 • Encourage Vigilance:
 • Feedback and Reinforcement
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+* Collection of personal ‘
+information Secu rity
+
+* Using and disclosing personal Confidentiality:
+information in authorised data being stored is
+manner safe from unauthorised
+
+access and use
+
+* Data quality
+
+* Integrity: data is reliable
+and accurate
+
+* Access to personal
+information
+
+Availability: data is available for
+use when it is needed
 --- page 3 ---
 A   [10]
 Q3

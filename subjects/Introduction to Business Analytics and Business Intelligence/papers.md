@@ -121,6 +121,16 @@ SO1; BL4   particularly useful as opposed to static charts.   5M
 CO 1;   D.   Discuss the key features of Executive Information Systems (EIS) and how
 SO2; BL2   they contribute to improving organizational performance.   5M
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Sales RepID | Sales Rep Name Monthly Sales Category
+
+1 Michael 12,500
+2 Sarah 6,200
+3 John 9,800
+4 Emily 2,950
+
+5 David 8,500
 ````
 
 ## 2024-25 · Final-Exam · Sem 1 · paper 3363c1a24fdc
@@ -379,6 +389,16 @@ satisfaction? What actionable insights can be derived? Explain the final   10M
 layout of the dashboard.
 Question 5
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Employee ID Name Department Salary Join Date Performance Score
+
+101 John Doe Sales 50000 2020-01-15 85
+102 Jane Smith Marketing 55000 2019-03-22 90
+103 Dave Brown Sales 45000 2021-07-10 70
+104 Lucy Green HR 60000 2018-11-30 95
+
+105 Tom White IT 70000 2017-05-14 88
 --- page 3 ---
 CO 2;   A.   Evaluate the concept of event-driven programming in the context of Excel
 SO7; BL4   VBA.
@@ -415,6 +435,16 @@ CO 1;   D.
 Write a note on ERP and its uses in organizations.   5M
 SO2; BL2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Student ID Student Name Maths Science Grades
+
+1 Alice 95 90
+2 Bob 82 67
+3 Charlie 73 76
+4 David 58 50
+
+5 Eva 85 78
 ````
 
 ## 2023-24 · Final-Exam · Sem 1 · paper f7d818513501

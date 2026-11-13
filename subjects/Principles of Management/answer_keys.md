@@ -1516,6 +1516,36 @@ Brief explanation of the 3 principles of vedic management supporting ethical and
 management practices 2 marks each, Total - 6 marks.
 Key principles of Vedic Management:
 Page 2 of 8
+
+[Text in pictures on this page, read by OCR]
+Principles of Scientific Management
+
+Science, Not Rule of Thumb *Nature of work performed by each worker
+should be clearly determined.
+*Standardization of Work
+*He believed that there is only one best
+method to examine efficiency.
+
+Harmony, Not Discord *Managers are a link between workers and
+(Attitude) owners.
+¢Workers and management should transform
+their thinking/attitude-Mental Revolution(to
+achieve organization’s goals)
+
+Cooperation, Not Individualism *Extension of Harmony, Not Discord.
+(Regarding work to be done) ¢Workers should be rewarded for their
+suggestions.
+*Equal division of work and responsibility
+*Close partnership between management and
+workers.
+¢Participation of workers
+¢Workers should not blackmail management.
+
+Development of each and every person to *Select workers keeping in mind the physical
+
+his/her greatest efficiency and mental traits required for the job.
+¢Worker training to ensure skill development
+*Systematic training
 --- page 3 ---
 "Sattva“ - the balance between the material and spiritual aspects of life.
 "Dharma" - the moral and ethical principles that guide human behaviour.
@@ -1841,6 +1871,17 @@ of centralized systems it is ONE WAY communications from TOP to Bottom levels.
 6. The responsiveness to change is easier in decentralized organizations but comparatively
 difficult in case of centralized systems
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1 Recognize the need for a decision
+Step 2 Generate alternatives
+
+Step 3 Assess alternatives
+
+Step 4 Choose among alternatives
+Step 5 Implement the chosen alternative
+
+Step 6 Learn from feedback
 --- page 4 ---
 7. Decentralization empowers and boosts the Morale and motivation of the employees at middle
 and lower level whereas the Centralized systems fail to do that.
@@ -2096,6 +2137,17 @@ and lower level whereas the Centralized systems fail to do that.
 8. Centralized systems lead to centralization of risk in decision making but decentralized systems
 spreads the risk and accountability throughout the organization
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1 Recognize the need for a decision
+Step 2 Generate alternatives
+
+Step 3 Assess alternatives
+
+Step 4 Choose among alternatives
+Step 5 Implement the chosen alternative
+
+Step 6 Learn from feedback
 --- page 4 ---
 9. Decentralized systems may lead to higher operational costs sometimes but centralized
 systems reduce the duplication and may save costs.
@@ -2347,6 +2399,17 @@ of centralized systems it is ONE WAY communications from TOP to Bottom levels.
 6. The responsiveness to change is easier in decentralized organizations but comparatively
 difficult in case of centralized systems
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1 Recognize the need for a decision
+Step 2 Generate alternatives
+
+Step 3 Assess alternatives
+
+Step 4 Choose among alternatives
+Step 5 Implement the chosen alternative
+
+Step 6 Learn from feedback
 --- page 4 ---
 7. Decentralization empowers and boosts the Morale and motivation of the employees at middle
 and lower level whereas the Centralized systems fail to do that.

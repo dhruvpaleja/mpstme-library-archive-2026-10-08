@@ -150,6 +150,27 @@ variability.
 •   Efficiency and Reliability: Automation ensures faster response and repeatable performance.
 •   Information Accuracy: Automated systems provide real-time monitoring and data collection.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Field Inputs Field Outputs
+
+Push
+Butt Lamp
+jutton an POWER SUPPLY ®
+ae | be Contactor
+Switch U
+
+a oe N | CPU + y {
+Limit >) f
+Switch P
+
+sale U USER DATA uy
+Push T MEMORY | MEMORY 3
+Button
+
+et SERIAL PORT
+
+PROGRAMMING DEVICE
 --- page 5 ---
 Configuration diagram of an automation system. – 03 M
 Explanation about the components used in configuration of an automation system. – 04 M
@@ -188,6 +209,22 @@ to products and inventory.
 Real-Time Data Collection: IoT sensors and devices enable the real-time collection of data from
 various points in the manufacturing process. This data includes information on machine performance,
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+wn Yon coal N
+
+ACTUATOR & FINAL
+
+POINT DETECTOR SIGNAL CONTROLLER SIGNAL 4 CONTROL ELEMENT
+ra
+3 |
+o io}
+3 2
+w X WA
+J CONTROLLED
+PROCESS
+
+SENSOR(FEEDBACK ELEMENT) N VARIABLE
 --- page 6 ---
 environmental conditions, product quality, and more. This real-time data forms the basis for informed
 decision-making in Industry 4.0.
@@ -220,6 +257,39 @@ analytics and AI algorithms within Industry 4.0. This data-driven decision-makin
 manufacturers to optimize processes, reduce waste, and improve overall efficiency.
 Block diagram of IoT architecture. – 03 M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+End-to-End, Proactive, Open, Extensive, Advise, Transform,
+ia Defense-in-depth Ge Partner driven A) Integrate, Operate, Manage
+| Security <4 Ecosystem Services l
+
+Stage 1 Stage 2 1 Stage 3 Stage 4
+Internet Gateways, &
+The “Things” Sensors/Actuators Data Acquisition us Edge IT Data Center / Cloud
+é 3 Systems E (analytics, pre- (analytics,
+(wired, wireless) i
+; . (data aggregation, A/D, 1 processing) management, archive)
+Primarily measurement, control) '
+analog data '
+sources Lv !
+Devices, 7 (|
+
+machines, S> ye S
+people, tools, Poy pani
+cars, animals,
+clothes, toys, ee “Ee —— ; > a) WR Cold Suites
+environment, = fa 1 ; |
+buildings, etc. a
+
+i! . — wel, Visualization meee, db
+
+ena 1 wriceusark ite Hubs Gi
+
+—— Analytics — Analytics ante Analytics ‘stents
+SW Stacks: Management Management Management
+Data Flow: - = Control Cc Control = Control a
+
+Control Flow: ~<< =
 --- page 7 ---
 Discussion about the operation of each stage in the IoT architectural diagram. – 03 M
 Stage 1: Sensor/Actuator Layer: This layer performs following tasks -
@@ -261,6 +331,19 @@ The various components used in the pick and place assembly line are :
 Conveyor System: This is a mechanism that moves the workpieces or components along the assembly
 line. It can be a belt conveyor, roller conveyor, or any other type of automated transport system.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+. . . Sensor Key
+Line Screen Pick & Pick & Reflow Oven
+
+Loader Printer Place1 Place2 ! PREMIRY S120F
+; : : ©} Vibration sensor
+
+A Energy meter
+
+L___JL__]
+
+*A~* <i xt
 --- page 8 ---
 Pick and Place Robots: These are robotic arms equipped with grippers or suction cups that can pick up
 components from one location and place them in another. These robots are usually programmed to perform
@@ -376,6 +459,18 @@ Interfacing diagram showing the connection of sensor, switches and solenoids to 
 modules. - 03 M
 The ladder logic program with proper addressing. – 07 M
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+INPUT OUTPUT
+MODULES MODULES
+
+START S2
+MAGNETIC REED SWITCH B1
+
+MAGNETIC REED SWITCH B2 DCV SOLENOID Z1
+MAGNETIC REED SWITCH B3 PLC DCV SOLENOID Z2
+
+MAGNETIC REED SWITCH B4
 ````
 
 ## 2025-26 · Final-Exam · Sem 6 · Answer key · paper 5858faa2d3a3
@@ -2340,6 +2435,34 @@ a) Explanation about the graphical and text-based PLC programming languages with
 examples. – 04 M
 PLC ladder logic program for object counting with proper addressing. --- 06 M
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Function Block Diagram (FBD) Graphical languages Sequential Flow Chart (SFC)
+
+AUTO CALC1
+START STEP
+DI CALC PUMP
+Vv IN] OUT al Tl +
+MAN_ON-J HF SiEP'A N| ACTION DI | D1_ READY
+.
+aun _ D| ACTION D2 | D2 READY
+af
+Ladder Diagram (LD) sTePB || N| ACTIONDS | D8 READY
+D| ACTION D4 | D4 READY
+Tm +
+
+Textual languages Structured Text (ST)
+
+VAR CONSTANT X : REAL := 53.8 ;
+Z : REAL; END VAR
+VAR aFB, bFB : FB_type; END_VAR
+
+Instruction List (IL) pee tA She! Ben
+Z := X - INT TO REAL (bFB.OUT1) ;
+
+A: LD %IX1 (* PUSH BUTTON *) IF z>57.0 THEN aFB(A:=0, B:=“ERR”)
+ANDN $MX5 (* NOT INHIBITED *) ELSE aFB(A:=1, B:=“Z is OK”);
+ST   $%QX2 (* FAN ON *) END_IF
 --- page 9 ---
 b) Discusion about the configuration, features and applications of collaboartive robots. – 05 M
 A cobot, or collaborative robot, is a robot intended for direct human-robot interaction within a shared
@@ -2382,6 +2505,18 @@ Interfacing diagram showing the connection of sensor, switches and solenoids to 
 modules. - 03 M
 The ladder logic program with proper addressing. – 07 M
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+INPUT OUTPUT
+
+MODULES MODULES
+START S2
+MAGNETIC REED SWITCH B1
+MAGNETIC REED SWITCH B2 DCV SOLENOID Z1
+
+MAGNETIC REED SWITCH B3 PLC DCV SOLENOID Z2
+
+MAGNETIC REED SWITCH B4)
 --- page 12 ---
 q
 
@@ -2727,6 +2862,30 @@ a) Explanation about the graphical and text-based PLC programming languages with
 examples. – 04 M
 PLC ladder logic program for object counting with proper addressing. --- 06 M
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Function Block Diagram (FBD) Graphical languages Sequential Flow Chart (SFC)
+
+AUTO CALC1
+= — — START STEP
+Vv IN1 OUT >= Tl +
+manon-4] [HF ea N| action D1 | D1 READY
+AcT ———@In2 a +r D| ACTION D2 | D2 READY
+Ladder Diagram (LD) stepB || NJ ACTIONDS | Ds READY
+
+D| ACTION D4 | D4 READY
+
+Textual languages Structured Text (ST)
+
+VAR CONSTANT X : REAL := 53.8 ;
+Z : REAL; END_VAR
+VAR aFB, bFB : FB type; END VAR
+Instruction List (IL) Bes (A Sher Bm On! 2
+Z := X - INT TO REAL (bFB.OUT1) ;
+A: LD $%IX1 (* PUSH BUTTON *) IF Z>57.0 THEN aFB(A:=0, B:=“ERR”)
+ANDN %MX5 (* NOT INHIBITED *) ELSE aFB(A:=1, B:="Z is OK”);
+
+ST   %QX2 (* FAN ON *) END_IF
 --- page 9 ---
 b) Discusion about the configuration, features and applications of collaboartive robots. – 05 M
 A cobot, or collaborative robot, is a robot intended for direct human-robot interaction within a shared
@@ -2769,4 +2928,16 @@ Interfacing diagram showing the connection of sensor, switches and solenoids to 
 modules. - 03 M
 The ladder logic program with proper addressing. – 07 M
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+INPUT OUTPUT
+
+MODULES MODULES
+START S2
+MAGNETIC REED SWITCH B1
+MAGNETIC REED SWITCH B2 DCV SOLENOID Z1
+
+MAGNETIC REED SWITCH B3 PLC DCV SOLENOID Z2
+
+MAGNETIC REED SWITCH B4)
 ````

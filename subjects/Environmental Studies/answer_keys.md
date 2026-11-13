@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce (Economics) - 45616/Environmental Studies/ANS_Final-Exam_Environmental Studies(NFEVS111)_Semester I_2025-2026.pdf`
 - Printed on paper: max marks: 30; duration hours: 1; exam date: 09 Oct 2025
 - Text: text (4 pages)
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -71,6 +72,18 @@ A. The SDGs that were impacted are as follows-   10
 9. Temporary CO2 drop reversed (SDG13)   1 mark
 10. Overall SDG progress slowed down   1 mark
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+Environment Management Approaches are as follows-(any4),
+e Ad-hoc approach
+¢ Problem Solving approach
+¢ System approach
+¢ Regional Approach
+¢ Specialist Discipline approach
+¢ Voluntary approach
+* Commercial Approach
+¢ Human Ecology Approach
+¢ Political Ecology approach 4 marks
 --- page 4 ---
 B. Challenges which countries are facing:   10
 1. Energy expansion drives development
@@ -85,6 +98,59 @@ B. Challenges which countries are facing:   10
 10. Integrated planning required
 1 mark each of challenges
 Page 4 of 4
+
+[Text in pictures on this page, read by OCR]
+Rie Osvestating quaury ‘Schools for many
+Eas effect on health EDUCATION closed; remote
+outcomes. learning less
+effective and not
+accessible for some
+
+
+
+the importance coats otal” RC
+
+ot rire Below poverty ine
+
+cooperation en
+
+pot eat
+
+could be disrupted.
+
+GENDER Women’s economic gains
+QUALITY at risk and increased levels
+of violence against women.
+Women account for majority
+PRE Conflicts prevent of health and social care
+ET ATM fective measures wrevhare who are more
+CSTE for fighting COVID-19; exposed to COVID-19.
+
+4 ¢ CovID-19
+
+those in conflict pandemic
+
+fare most at risk of
+suffering devastating
+loss from COVID-19.
+
+‘Supply disruptions and
+inadequate access to clean
+water hinder access to clean
+handwashing facilities, one of
+the most important COVID-19
+prevention measures.
+
+13 Ue Reduced commitment 11 eRs Population living in g 31 ye 0 ahaa ‘Supply and personne! 10 222
+ACTION to climate action; but TOPS) slums face higher Famrtainy) suspended; lower shortages are leading INEQUALITIES
+less environmental risk of exposure to income, less work to disrupted access oe
+footprints due to COVID-19 due to high time, unemployment to electricity, further hess,
+less production and population density weakening health (=>
+transportation ‘and poor sanitation system response and
+
+v
+
+conditions. capacity.
 ````
 
 ## 2025-26 · Final-Exam · Sem 1 · Answer key · paper fbb11425db75
@@ -94,6 +160,7 @@ Page 4 of 4
 - Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce (Management and Finance) - 45615/Environmental Studies/ANS_Final-Exam_Environmental Studies(NEEVS110)_Semester I_2025-2026.pdf`
 - Printed on paper: max marks: 30; duration hours: 1; exam date: 09 Oct 2025
 - Text: text (4 pages)
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -156,6 +223,18 @@ A. The SDGs that were impacted are as follows-   10
 9. Temporary CO2 drop reversed (SDG13)   1 mark
 10. Overall SDG progress slowed down   1 mark
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+Environment Management Approaches are as follows-(any4),
+e Ad-hoc approach
+¢ Problem Solving approach
+¢ System approach
+¢ Regional Approach
+¢ Specialist Discipline approach
+¢ Voluntary approach
+* Commercial Approach
+¢ Human Ecology Approach
+¢ Political Ecology approach 4 marks
 --- page 4 ---
 B. Challenges which countries are facing:   10
 1. Energy expansion drives development
@@ -170,6 +249,59 @@ B. Challenges which countries are facing:   10
 10. Integrated planning required
 1 mark each of challenges
 Page 4 of 4
+
+[Text in pictures on this page, read by OCR]
+Rie Osvestating quaury ‘Schools for many
+Eas effect on health EDUCATION closed; remote
+outcomes. learning less
+effective and not
+accessible for some
+
+
+
+the importance coats otal” RC
+
+ot rire Below poverty ine
+
+cooperation en
+
+pot eat
+
+could be disrupted.
+
+GENDER Women’s economic gains
+QUALITY at risk and increased levels
+of violence against women.
+Women account for majority
+PRE Conflicts prevent of health and social care
+ET ATM fective measures wrevhare who are more
+CSTE for fighting COVID-19; exposed to COVID-19.
+
+4 ¢ CovID-19
+
+those in conflict pandemic
+
+fare most at risk of
+suffering devastating
+loss from COVID-19.
+
+‘Supply disruptions and
+inadequate access to clean
+water hinder access to clean
+handwashing facilities, one of
+the most important COVID-19
+prevention measures.
+
+13 Ue Reduced commitment 11 eRs Population living in g 31 ye 0 ahaa ‘Supply and personne! 10 222
+ACTION to climate action; but TOPS) slums face higher Famrtainy) suspended; lower shortages are leading INEQUALITIES
+less environmental risk of exposure to income, less work to disrupted access oe
+footprints due to COVID-19 due to high time, unemployment to electricity, further hess,
+less production and population density weakening health (=>
+transportation ‘and poor sanitation system response and
+
+v
+
+conditions. capacity.
 ````
 
 ## 2025-26 · Final-Exam · Sem 1 · Answer key · paper 93c3bdb5ff88
@@ -179,6 +311,7 @@ Page 4 of 4
 - Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce - 45611/Environmental Studies/ANS_Final-Exam_Environmental Studies(NAEVS109)_Semester I_2025-2026.pdf`
 - Printed on paper: max marks: 30; duration hours: 1; exam date: 09 Oct 2025
 - Text: text (5 pages)
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -246,6 +379,70 @@ A. The SDGs that were impacted are as follows-   10
 9. Temporary CO2 drop reversed (SDG13)   1 mark
 10. Overall SDG progress slowed down   1 mark
 Page 4 of 5
+
+[Text in pictures on this page, read by OCR]
+Environment Management Approaches are as follows-(any4),
+e Ad-hoc approach
+¢ Problem Solving approach
+¢ System approach
+¢ Regional Approach
+¢ Specialist Discipline approach
+¢ Voluntary approach
+* Commercial Approach
+¢ Human Ecology Approach
+¢ Political Ecology approach 4 marks
+
+Rie Osvestating quaury ‘Schools for many
+Eas effect on health EDUCATION closed; remote
+outcomes. learning less
+effective and not
+accessible for some
+
+
+
+the importance coats otal” RC
+
+ot rire Below poverty ine
+
+cooperation en
+
+pot eat
+
+could be disrupted.
+
+GENDER Women’s economic gains
+QUALITY at risk and increased levels
+of violence against women.
+Women account for majority
+PRE Conflicts prevent of health and social care
+ET ATM fective measures wrevhare who are more
+CSTE for fighting COVID-19; exposed to COVID-19.
+
+4 ¢ CovID-19
+
+those in conflict pandemic
+
+fare most at risk of
+suffering devastating
+loss from COVID-19.
+
+‘Supply disruptions and
+inadequate access to clean
+water hinder access to clean
+handwashing facilities, one of
+the most important COVID-19
+prevention measures.
+
+13 Ue Reduced commitment 11 eRs Population living in g 31 ye 0 ahaa ‘Supply and personne! 10 222
+ACTION to climate action; but TOPS) slums face higher Famrtainy) suspended; lower shortages are leading INEQUALITIES
+less environmental risk of exposure to income, less work to disrupted access oe
+footprints due to COVID-19 due to high time, unemployment to electricity, further hess,
+less production and population density weakening health (=>
+transportation ‘and poor sanitation system response and
+
+v
+
+conditions. capacity.
 --- page 5 ---
 B. Challenges which countries are facing:   10
 1. Energy expansion drives development
@@ -269,6 +466,7 @@ Page 5 of 5
 - Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Commerce(Economics & Analytics) - 45617/Environmental Studies/ANS_Final-Exam_Environmental Studies(NGEVS111)_Semester I_2025-2026.pdf`
 - Printed on paper: max marks: 30; duration hours: 1; exam date: 09 Oct 2025
 - Text: text (4 pages)
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -331,6 +529,18 @@ A. The SDGs that were impacted are as follows-   10
 9. Temporary CO2 drop reversed (SDG13)   1 mark
 10. Overall SDG progress slowed down   1 mark
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+Environment Management Approaches are as follows-(any4),
+e Ad-hoc approach
+¢ Problem Solving approach
+¢ System approach
+¢ Regional Approach
+¢ Specialist Discipline approach
+¢ Voluntary approach
+* Commercial Approach
+¢ Human Ecology Approach
+¢ Political Ecology approach 4 marks
 --- page 4 ---
 B. Challenges which countries are facing:   10
 1. Energy expansion drives development
@@ -345,6 +555,59 @@ B. Challenges which countries are facing:   10
 10. Integrated planning required
 1 mark each of challenges
 Page 4 of 4
+
+[Text in pictures on this page, read by OCR]
+Rie Osvestating quaury ‘Schools for many
+Eas effect on health EDUCATION closed; remote
+outcomes. learning less
+effective and not
+accessible for some
+
+
+
+the importance coats otal” RC
+
+ot rire Below poverty ine
+
+cooperation en
+
+pot eat
+
+could be disrupted.
+
+GENDER Women’s economic gains
+QUALITY at risk and increased levels
+of violence against women.
+Women account for majority
+PRE Conflicts prevent of health and social care
+ET ATM fective measures wrevhare who are more
+CSTE for fighting COVID-19; exposed to COVID-19.
+
+4 ¢ CovID-19
+
+those in conflict pandemic
+
+fare most at risk of
+suffering devastating
+loss from COVID-19.
+
+‘Supply disruptions and
+inadequate access to clean
+water hinder access to clean
+handwashing facilities, one of
+the most important COVID-19
+prevention measures.
+
+13 Ue Reduced commitment 11 eRs Population living in g 31 ye 0 ahaa ‘Supply and personne! 10 222
+ACTION to climate action; but TOPS) slums face higher Famrtainy) suspended; lower shortages are leading INEQUALITIES
+less environmental risk of exposure to income, less work to disrupted access oe
+footprints due to COVID-19 due to high time, unemployment to electricity, further hess,
+less production and population density weakening health (=>
+transportation ‘and poor sanitation system response and
+
+v
+
+conditions. capacity.
 ````
 
 ## 2025-26 · Final-Exam · Sem 1 · Answer key · paper c59467032f69
@@ -354,6 +617,7 @@ Page 4 of 4
 - Source: `00_Original_Downloads/2023/72631__Semester I.zip :: Final-Exam/Bachelor of Science (Information Technology) - 45618/Environmental Studies/ANS_Final-Exam_Environmental Studies(NHEVS114)_Semester I_2025-2026.pdf`
 - Printed on paper: max marks: 30; duration hours: 1; exam date: 09 Oct 2025
 - Text: text (4 pages)
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 Synoptic
@@ -416,6 +680,18 @@ A. The SDGs that were impacted are as follows-   10
 9. Temporary CO2 drop reversed (SDG13)   1 mark
 10. Overall SDG progress slowed down   1 mark
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+Environment Management Approaches are as follows-(any4),
+e Ad-hoc approach
+¢ Problem Solving approach
+¢ System approach
+¢ Regional Approach
+¢ Specialist Discipline approach
+¢ Voluntary approach
+* Commercial Approach
+¢ Human Ecology Approach
+¢ Political Ecology approach 4 marks
 --- page 4 ---
 B. Challenges which countries are facing:   10
 1. Energy expansion drives development
@@ -430,6 +706,59 @@ B. Challenges which countries are facing:   10
 10. Integrated planning required
 1 mark each of challenges
 Page 4 of 4
+
+[Text in pictures on this page, read by OCR]
+Rie Osvestating quaury ‘Schools for many
+Eas effect on health EDUCATION closed; remote
+outcomes. learning less
+effective and not
+accessible for some
+
+
+
+the importance coats otal” RC
+
+ot rire Below poverty ine
+
+cooperation en
+
+pot eat
+
+could be disrupted.
+
+GENDER Women’s economic gains
+QUALITY at risk and increased levels
+of violence against women.
+Women account for majority
+PRE Conflicts prevent of health and social care
+ET ATM fective measures wrevhare who are more
+CSTE for fighting COVID-19; exposed to COVID-19.
+
+4 ¢ CovID-19
+
+those in conflict pandemic
+
+fare most at risk of
+suffering devastating
+loss from COVID-19.
+
+‘Supply disruptions and
+inadequate access to clean
+water hinder access to clean
+handwashing facilities, one of
+the most important COVID-19
+prevention measures.
+
+13 Ue Reduced commitment 11 eRs Population living in g 31 ye 0 ahaa ‘Supply and personne! 10 222
+ACTION to climate action; but TOPS) slums face higher Famrtainy) suspended; lower shortages are leading INEQUALITIES
+less environmental risk of exposure to income, less work to disrupted access oe
+footprints due to COVID-19 due to high time, unemployment to electricity, further hess,
+less production and population density weakening health (=>
+transportation ‘and poor sanitation system response and
+
+v
+
+conditions. capacity.
 ````
 
 ## 2025-26 · Re-Exam · Sem 1 · Answer key · paper 87c6fac1e5ce
@@ -584,6 +913,31 @@ nonprofits, and corporations as a tool for performance monitoring and sustainabl
 Measures undertaken under TBL.   5 marks
 Diagram 1 mark
 Page 6 of 7
+
+[Text in pictures on this page, read by OCR]
+Eco
+a Personal income
+
+o Economic o Cost of underemployment
+Measures a Establishment sizes
+a Job growth
+o Environmental o Employment distribution by sector
+Measures o Percentage of firms in each sector
+: Revenue by sector contributing to gross state
+a Social Measures product
+Env
+o Sulfur dioxide concentration
+ocial o Concentration of nitrogen oxides
+Percentage of population with apost- o Selected priority pollutants
+secondary degree or certificate o Excessive nutrients
+Unemployment rate o Electricity consumption
+Female labor force participation rate o Fossil fuel consumption
+Median household income a Solid waste management
+Relative poverty o Hazardous waste management
+Average commute time ao Change in land use/land cover
+
+Violent crimes per capita
+Health-adjusted life expectancy
 --- page 7 ---
 Economic sustainability:
 e.g. industry, trade,
@@ -745,6 +1099,31 @@ nonprofits, and corporations as a tool for performance monitoring and sustainabl
 Measures undertaken under TBL.   5 marks
 Diagram 1 mark
 Page 6 of 7
+
+[Text in pictures on this page, read by OCR]
+Eco
+a Personal income
+
+o Economic o Cost of underemployment
+Measures a Establishment sizes
+a Job growth
+o Environmental o Employment distribution by sector
+Measures o Percentage of firms in each sector
+: Revenue by sector contributing to gross state
+a Social Measures product
+Env
+o Sulfur dioxide concentration
+ocial o Concentration of nitrogen oxides
+Percentage of population with apost- o Selected priority pollutants
+secondary degree or certificate o Excessive nutrients
+Unemployment rate o Electricity consumption
+Female labor force participation rate o Fossil fuel consumption
+Median household income a Solid waste management
+Relative poverty o Hazardous waste management
+Average commute time ao Change in land use/land cover
+
+Violent crimes per capita
+Health-adjusted life expectancy
 --- page 7 ---
 Economic sustainability:
 e.g. industry, trade,
@@ -903,6 +1282,31 @@ nonprofits, and corporations as a tool for performance monitoring and sustainabl
 Measures undertaken under TBL.   5 marks
 Diagram 1 mark
 Page 6 of 7
+
+[Text in pictures on this page, read by OCR]
+Eco
+a Personal income
+
+© Economic o Cost of underemployment
+Measures o Establishment sizes
+o Job growth
+Environmental o Employment distribution by sector
+Measures o Percentage of firms in each sector
+. a Revenue by sector contributing to gross state
+Social Measures product
+Env
+a Sulfur dioxide concentration
+ocial o Concentration of nitrogen oxides
+Percentage of population with apost- a Selected priority pollutants
+secondary degree or certificate o Excessive nutrients
+Unemployment rate o Electricity consumption
+Female labor force participation rate o Fossil fuel consumption
+Median household income o Solid waste management
+Relative poverty co Hazardous waste management
+Average commute time o Change in land use/land cover
+
+Violent crimes per capita
+Health-adjusted life expectancy
 --- page 7 ---
 Economic sustainability:
 e.g. industry, trade,
@@ -1064,6 +1468,31 @@ nonprofits, and corporations as a tool for performance monitoring and sustainabl
 Measures undertaken under TBL.   5 marks
 Diagram 1 mark
 Page 6 of 7
+
+[Text in pictures on this page, read by OCR]
+Eco
+a Personal income
+
+o Economic o Cost of underemployment
+Measures a Establishment sizes
+a Job growth
+o Environmental o Employment distribution by sector
+Measures o Percentage of firms in each sector
+: Revenue by sector contributing to gross state
+a Social Measures product
+Env
+o Sulfur dioxide concentration
+ocial o Concentration of nitrogen oxides
+Percentage of population with apost- o Selected priority pollutants
+secondary degree or certificate o Excessive nutrients
+Unemployment rate o Electricity consumption
+Female labor force participation rate o Fossil fuel consumption
+Median household income a Solid waste management
+Relative poverty o Hazardous waste management
+Average commute time ao Change in land use/land cover
+
+Violent crimes per capita
+Health-adjusted life expectancy
 --- page 7 ---
 Economic sustainability:
 e.g. industry, trade,
@@ -1225,6 +1654,31 @@ nonprofits, and corporations as a tool for performance monitoring and sustainabl
 Measures undertaken under TBL.   5 marks
 Diagram 1 mark
 Page 6 of 7
+
+[Text in pictures on this page, read by OCR]
+Eco
+a Personal income
+
+o Economic o Cost of underemployment
+Measures a Establishment sizes
+a Job growth
+o Environmental o Employment distribution by sector
+Measures o Percentage of firms in each sector
+: Revenue by sector contributing to gross state
+a Social Measures product
+Env
+o Sulfur dioxide concentration
+ocial o Concentration of nitrogen oxides
+Percentage of population with apost- o Selected priority pollutants
+secondary degree or certificate o Excessive nutrients
+Unemployment rate o Electricity consumption
+Female labor force participation rate o Fossil fuel consumption
+Median household income a Solid waste management
+Relative poverty o Hazardous waste management
+Average commute time ao Change in land use/land cover
+
+Violent crimes per capita
+Health-adjusted life expectancy
 --- page 7 ---
 Economic sustainability:
 e.g. industry, trade,

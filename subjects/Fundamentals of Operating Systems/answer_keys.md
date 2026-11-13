@@ -1104,6 +1104,7 @@ n
 - Source: `02_Question_Papers/2024/Sem_06/Final-Exam/Integrated_IT_7037/Fundamentals of Operating Systems/ANS_Fundamentals of Operating Systems(701IT0C008)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 07 May 2025
 - Text: text (8 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1255,6 +1256,81 @@ SO-2; BL-2   • Simple to implement; each process gets one partition.
 • No fixed partition size, reducing internal fragmentation.
 • Suffering from external fragmentation.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+sume that there are three resources, A.B, and C_ There sre 4 processes Po to Py. At To
+we have the following snapshot of the system:
+Allocation Max — | Available |] 1 Create the need mari.
+‘Need
+A |e fe fals]eclalale a Tele
+Pi 3 2
+> 3 Ts
+esto fe ts ffi aot
+—+> = Ps o [ilo
+
+Ps 1 o 1 1 fi jy
+
+2. Is the system in a safe state? Why or why nor?
+In order to check this, we should mm the safety alzorithm = Let*s create the work vector
+and finish marix:
+
+Work vector Finish ‘Needs (1,1,0) is less than work, so let's go
+matrix ahead and update work and fimish:
+2 False Work vector Finish
+1 False Deane.
+7 False 3 Py | True
+False 1 BP, | False
+2 P, | False
+PB: | False
+
+‘Weeds (0.1.0) is less than work, we
+can update work and finish:
+
+Finish matrix Work vector | Finish matix
+J Po Tre 7 PB True
+1 Pi | False 1 BR, | False
+2 Py Tre 3 P, True
+PB False Py True
+
+‘We now need to go back to Pi. Need: (3.3.2) is not less than work, so we camnot continue.
+Thus, the system is not in a safe state.
+
+7
+
+CPU
+
+1/O controller
+
+[—} device driver initiates VO Pm
+
+initiates /O
+
+CPU executing checks for
+interrupts between instructions
+1
+
+¥
+
+CPU receiving interrupt, 4
+
+transfers control to
+interrupt handler
+
+input ready, output
+complete, or error
+generates interrupt signal
+
+[5
+interrupt handler
+
+processes data,
+returns from interrupt
+
+|e
+CPU resumes
+
+— processing of
+interrupted task
 --- page 5 ---
 • Requires compaction to reduce external fragmentation.
 • More flexible, suitable for varying process sizes.
@@ -1395,6 +1471,40 @@ specific user (owner) and group.
 o   User (Owner): The person who created the file.
 o   Group: A set of users who share the same permissions.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Process Control Block (PCB)
+
+Information associated with each process(also called
+task control block)
+
+= Process state — running, waiting, etc.
+
+= Program counter — location of instruction to next process state
+execute process number
+
+= CPU registers — contents of all process -centric program counter
+registers
+
+= CPU scheduling information - priorities, scheduling registers
+
+queue pointers
+= Memory-management information — memory
+allocated to the process
+
+memory limits
+list of open files
+
+= Accounting information — CPU used, clock time eee
+elapsed since start, time limits
+
+= I/O status information — I/O devices allocated to
+process, list of open files
+
+Sy
+XS
+
+Operating System Concepts — 10 Edition 314 ‘Silberschatz, Galvin and Gagne ©2018
 --- page 8 ---
 o   Others: All other users.
 •   Permission Types:
@@ -1612,6 +1722,41 @@ determine whether the system is in safe state or not.
 b) If the system is in safe state, provide a safe sequence. If not, explain why
 the system is not safe.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Data
+count
+
+Data lines Data
+register
+
+Address
+Address lines register
+Request to DMA
+Acknowledge from DMA Control
+Interrupt logic
+logic
+Read
+
+Write
+
+a 4 —————
+1. Create the need matrix (max-allocation)
+
+Need(i) = Max(i) — Allocated(i) Need Matrix = Max Matrix
+(0) (0.2.1.0) - (0.1.1.0) = (0,1.0,0) — Allocation Matrix
+
+1) = (0.4.2.1) AlB|c [Dp
+
+5) = (1.00.1) Po |O}i1/0|0
+
+(0652)- - (0,6,3.2) = (0,0.2,0) Pilol/4/2 {1
+
+(i=4) (0.6.5.6) - (0.0.1.4) = (0.6.4.2) P2 1 0 0 1
+
+Ex. Process Pl has max of (1,6,5,2) and allocated by (1.2.3.1) P; | o | 0 }| 2] 0
+
+Need(p1) = max(p1)- allocated(p1) = (1,6,5,2) — (1,2.3,1) =(0,4,2,1) Ps 0 6|4 2
 --- page 6 ---
 Safety Sequence
 P0,P3,P4,P1,P2
@@ -1628,6 +1773,62 @@ e) fork() system call
 #include <stdio.h>
 #include <unistd.h>
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+needo (0,1,0,0) <= work(1,!
+Finish matrix PO will release the allocated Work vector
+
+PO will be 7 resources(0,1,1,0) 1 [6 [3 [0
+executed because eu one Work = Work
+need(P0) <= Work | P False (1,5,2,0)+Allocated(P0)
+PO will be True Pr False (0,1,1,0) = 1,6,3,0
+P3 False
+Ps False
+
+Need) (0,4,2,1) <= work(1,6,3,0) Condition Is False _P1 will Not be executed
+Need? (1,0,0,1) <= work(1,6,3,0) Condition Is False_P2 will Not be executed
+Need3 (0,0,2,0) <= work(1,6,3,0) P3 will be executed
+
+P3 will be Finish matrix P3 will release the allocated Work vector
+executed because , resources (0,6,3,2) 1 ]12]6 [2
+need(P3) <= Work [Post | Trme | t= Work
+P3 will be True Pl False (1,6,3,0)+Allocated(P3)
+P2 False ( 0,6,3,2) = 1.12.62
+P3-2 True
+Ps False
+Needy (0,6,4,.2) <= work(1,12,6,2) P4 will be executed
+P4 will be Finish matrix P4 will release the allocated Work vector
+executed because D resources (0,0,1.4) 1 | 12 | 7 [6
+need(P4) <= Work | P02 | True Work = Work
+P4 will be True Pl False )
+P? False
+P3-2 True
+Py-3 True
+4.2.1) <= work(1,12,7,6)_P1 will be executed
+Finish matrix P1 will release the allocated Work vector
+Pl will be , j resources (1.2.3.1) 2 [14] 10 [7
+executed because | a | oie Work = Work
+need(P1)<=Work [Pi | True (1,12,7,6) + Allocated(P1)
+P1 will be True P) False (1,2,3,1) = 2,14,10,7
+|P3-2 | True
+
+Pa-3 True
+
+Need) (1,0,0,1) <= work(2,14,10,7) P2 will be executed
+
+P2 will be Finish matrix P2 will release the allocated Work vector
+
+nt | Po-1 | True resources 88>) 3 [17 J 16 [12
+P2willbe True   |PI4 | True (2,14,10,7) + Allocated(P1)
+
+|P2-5 | True (1,3,6,5) = 3,17,16,12
+
+P3-2 True
+
+Py-3 True
+
+The system is in a safe state and the processes will be executed in the following order:
+PO.P3.P4.P1.P2
 --- page 7 ---
 int main() {
 printf("PID: %d\n", getpid());
@@ -1651,6 +1852,17 @@ Q5   B) Explain how I/O buffering is used to improve the efficiency of process  
 B   execution. Apply your knowledge to describe a real-life situation where buffering
 minimizes process waiting time during data transfer.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Process Arrival Burst Completion TAT = CT- AT WT = TAT - BT
+
+PI 0 4 8 8-0=8 8-4=4
+P2 1 5 7 17-1=16 16-5=11
+P3 2 1 5 5-223 3-122
+P4 3 1 6 6-3=3 3-122
+PS 4 5 18 18-4=14 14-5=9
+
+P6 6 2 12 12-6=6 6-2=4
 --- page 8 ---
 Q6   In designing a concurrent solution to the reader-writer problem, evaluate   [10]
 A   different synchronization strategies such as read-write locks, semaphores,
@@ -1685,12 +1897,94 @@ signal(rw_mutex);
 signal(mutex);
 } while (true);
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+\/O Buffering
+
+* Why buffering is required?
+— When a user process wants to read blocks of data from a disk, process
+waits for the transfer
+
+— It waits either by
+
+* Busy waiting
+
+* Process suspension on an interrupt
+— The problems with this approach
+
+* Program waits for slow I/O
+
+* Virtual locations should stay in the main memory during the
+course of block transfer
+
+* Risk of single-process deadlock
+* Process is blocked during transfer and may not be swapped out
+
+The above inefficiencies can be resolved if input transfers in advance of
+requests are being made and output transfers are performed some time after
+the request is made. This technique is known asbuffering.
 --- page 9 ---
 Q6 Compare the performance of Windows and Linux operating systems based on   [10]
 B   their performance issues. Highlight key factors affecting their efficiency.
 Q7   Explain multithreaded models and differentiate between user-level and kernel-   [10]
 A   level threads.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Factor Windows Linux
+
+Boot Time Slower boot time due to heavier GUI and Faster boot time due to lightweight
+services architecture
+
+Resource Usage Consumes more system resources (heavy GUI Efficient use of CPU and RAM
+
+(RAM/CPU) and background services) (lightweight)
+
+System Updates Frequent and automatic updates may slow Updates are user-controlled and
+system efficient
+
+Process Management GUI-based, user-friendly but may lag under CLI and GUI tools available; highly
+heavy load efficient under load
+
+File System Uses NTFS; slower on large files or multiple Uses ext4, XFS; faster file operations
+
+Performance file access and indexing
+
+Customization & Limited customization; performance tuning Highly customizable for
+
+Optimization restricted performance optimization
+
+Multitasking Efficiency Good, but performance may degrade with Excellent multitasking; better load
+multiple processes handling
+
+Security Impact on Heavy antivirus software can affect speed Built-in security tools with minimal
+
+Performance performance impact
+
+Driver & Hardware Better support for proprietary hardware and _Limited support for some
+
+Support drivers proprietary drivers
+
+System Crash Recovery More prone to freeze/crash under load More stable under high workloads
+
+Multithreading is the ability of a CPU or a single process to manage multiple threads (smaller units of a
+
+process) for concurrent execution. This improves performance and resource utilization.
+
+There are three primary multithreaded models:
+
+Model Description
+
+1. Many-to- Many user threads are mapped to a single kernel thread. Thread management is done by the
+
+One user-level thread library. Efficient but lacks concurrency on multi-core systems.
+
+2. One-to- Each user thread maps to a kernel thread. Offers better concurrency but can be resource-intensive
+One due to more kernel involvement.
+
+3.Many-to- Many user threads are mapped to a smaller or equal number of kernel threads. Allows multiple
+
+Many threads to run in parallel while maintaining efficiency.
 --- page 10 ---
 Q7   Analyze various file access methods with in operating systems. (Unit 6)   [10]
 B
@@ -1699,4 +1993,38 @@ B
 • Indexed access is ideal when both search speed and ordered access are
 important.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Difference Between User-Level and Kernel-Level Threads
+
+Aspect User-Level Threads Kernel-Level Threads
+Management Managed by user-space libraries Managed by the operating system kernel
+
+Visibility to OS Invisible to the OS; the kernel is unaware Fully visible and controlled by the OS
+
+Context Fast (no need for kernel mode switch) Slower (involves kernel mode switch)
+
+Switching
+
+Concurrency Limited; one thread at atime per process _—_True parallelism is possible on multi-core
+systems
+
+Blocking If one thread blocks, all threads in the One blocking thread doesn't affect others
+
+process block
+Portability More portable across platforms Less portable due to kernel dependencies
+
+Examples Java green threads, early pthreads Modern pthreads, Windows threads, Linux
+
+kernel threads
+
+Access
+
+Method Access Pattern Speed Use Case Efficiency
+Sequential Record-by-record Slow for large Log files, media High for full scan
+jumps playback
+Direct Any location Fast Databases, disks High for random
+directly access
+
+Indexed Index + data block — Medium Large databases Efficient for searches
 ````

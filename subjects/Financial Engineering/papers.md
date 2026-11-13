@@ -1503,7 +1503,7 @@ understanding
 - Departments: Information Technology
 - Programmes: MBATech IT 7041
 - Source: `02_Question_Papers/2024/Sem_10/Final-Exam/MBATech_IT_7041/Financial Engineering/QP_Financial Engineering(703TF0E012)_2024-2025.pdf`
-- Text: none (FileDataError: Failed to open stream)
+- Text: none (encrypted by the portal: the file is uniformly random bytes in 16-byte cipher blocks with no PDF structure, and the archive holds no key (its own re-download got the same bytes))
 
 ## 2024-25 · Re-Exam · Sem 10 · paper c0220439cf2e
 

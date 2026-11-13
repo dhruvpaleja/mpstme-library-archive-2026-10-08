@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_Mechatronics_7004/Industrial Engineering/ANS_Industrial Engineering(702ME0E009)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Nov 2025
 - Text: text (10 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -81,6 +82,73 @@ Human Engineering.
 Management Bases- Management Style, Work Culture, Motivation, Group Activity, Effective
 Communication.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Characteristic Product Layout Process Layout
+1, Nature A sequence of facilities as per| All similar facilities are grouped
+processing requirement of products | together
+
+| 10.
+ll.
+
+Application
+Product
+
+Work flow
+Materia) Handling
+Inventory
+Breakdowns
+Production centre
+Flexibility
+
+Space utilisation
+Product cost
+
+High volume, few products
+Standardised, stable rate of output
+
+Straight line, same sequence of
+operations for all product
+
+Flow Predictable and systematic can
+be automated easily
+
+High tumover of raw materials and
+WIP inventory
+
+Breakdown in any one machine stops
+production line
+
+Simple
+
+Low
+
+Efficient
+
+High fixed cost, Low variable cost
+
+High volume and high variety
+
+Diversified or variety of products
+using common operations
+
+Variable flow for each product type
+
+Cannot be automated as flow depends
+upon the product type
+
+Low turnover of both raw material
+and WIP
+
+Can tolerate breakdowns
+
+Complex
+
+High
+
+Low
+
+Low fixed cost, High variable cost
 --- page 3 ---
 2) Explanation about importance and process of micro-motion study. – 05 M
 Micro-motion study provides a technique for recording and timing an activity.   It is set of
@@ -154,6 +222,31 @@ Q3.
 a) Design of a flow process chart for machining of a part using a NC drill press with proper symbols
 and details. - 10 M
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Flow process chart
+
+Job Machine part with NC drill eI|S5!/-
+description | press = 3/3 =| 2
+ra = 3 ao
+O|}2|2 2
+Analyst: R. Hall &
+Time
+Step no, Details of method (min)
+1 Inspect incoming part sll ie tell il Wd 1
+2 Prepare part for machining ‘a -~| mer 2
+3 Position part ry Ln 2
+4 Machine part t ae oe 3
+§ Remove part from machine Mad Bibl 1
+6 Inspect finished part e » CE alr 2
+-_ a
+rl Assemble finished part 4 + mit i¢ 3
+8 Place on cart ole a |» ¥ -
+9 F ra
+ully load cart o|=> a ¥ _
+10 Full cart goes to final elwTailibly -
+
+assembly
 --- page 5 ---
 b) Total number of observations (N) = 3000
 Total number of production activities (Np) = 2400
@@ -197,6 +290,29 @@ The procedure to make the flow-diagram is as follows:
 • Each movement should be serially numbered and indicated by arrow for direction.
 •   Different colours are used to denote different types of movements.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Recording Techniques
+
+in Method study
+: Diagrams
+Charts Indicating Chants with a indivating
+Process Sequence time-scale movements
+; Multiple Flow
+L>| Outline activity chart F
+process chart Ra At
+Flow process Simo chart > String
+chart Diagram
+Man type
+pee PMTS. |_| Cycle
+; chart Graph
+Material type chart
+
+Chrono-cycle
+
+Machine type chart z= Graph
+‘> Two -Handed iz
+process chart Travel Chart
 --- page 7 ---
 b)   Calculation of Normal Time. - 07 M
 Calculation of Standard Time. - 03 M
@@ -220,6 +336,33 @@ between two functional plant areas. Two entries come into the cells. The Top ent
 indicates degree of closeness of the relationship. The number below represents the important reason
 for relationship. Here requirements of closeness are expressed on a scale.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+HOW
+
+Higher
+order
+function
+
+WHEN WHEN
+
+noes wel td |
+objective function
+Function that | Lf
+happen all the time
+- - - Assumed
+- Required | | Required | | Required function
+Basic secondary secondary secondary Or input
+
+function function function function
+
+ee oe eT
+
+Functions that happen at the Unwanted
+same time and/or “ARE CAUSED” _ | secondary
+by same other function function
+
+SCOPE OF VE STUDY ————————>
 --- page 8 ---
 The closeness requirement ratings are used to develop a suitable layout which satisfies as many
 pairwise relationship as possible and to the extent possible.
@@ -249,6 +392,32 @@ Example. Distance of control from the operator and force required to operate the
 2) Designing for adjustable range: In the design features of equipment or facilities the provision for
 adjustment should be there for the individual who use them.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Importance of relationship (top)
+
+Reason in code (below)
+
+Reason
+. Frequency ofuse hi
+. Directors conference room quency eh
+Frequency ofuse medium
+_ President Frequency ofuse low
+Information flow high
+. Sales department Information flow medium
+Information flow low
+. Personnel
+. Plant manager
+. Plant engineering office
+. Definition
+. Production supervisor
+Absolutely Necessary
+. Controller office Especially Important
+, Important
+. Purchasing department Ordinary Closeness OK
+Unimportant
+
+x Undesirable
 --- page 9 ---
 Example: automobile seats, chairs, desk height, etc. In design it is a produce to provide for
 adjustment to cover the range from 5th percentile female to the 95th percentile male of the relevant
@@ -396,6 +565,47 @@ Q3
 [20]
 CO-4, SO-1   a.   Explain an Outline process chart with suitable example.   [10]
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+1. Partial Productivity of Each Input
+
+Formula:
+
+Output
+
+Partial Productivity = Individual Input
+vidual Inpu
+
+¢ Labor Productivity
+= 75,000 / 2,500 = 30
+* Capital Productivity
+= 75,000 / 7,000 = 10.71
+* Material Productivity
+= 75,000 / 6,000 = 12.5
+* Miscellaneous Productivity
+= 75,000 / 500 = 150
+
+2. Total Factor Productivity (TFP)
+
+(Considering Labor + Capital only)
+
+75,000 75, 000
+
+TEP = ———_—__ =
+2,500+ 7,000 9,500
+
+= 7.89
+
+3. Total Productivity
+
+(Considering all inputs)
+
+75, 000 75,000
+
+= = 4.69
+2,500 + 7,000 + 6,000+500 16,000
+
+Total Productivity =
 --- page 3 ---
 BL-4   Example =05 marks
 Operation process chart =05 marks
@@ -413,6 +623,17 @@ determine the standard time.
 CO-3; SO-2;   [10]
 BL-2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Cycle Time (min)
+
+Rating
+
+factor
+Elements 1 2 3
+1. Pick raw material 0.6 4.5 9 1.1
+2. Load into maching 1.8 6.2 10.8 1.2
+3. Adjust alignment 3.5 7.9 12.3 0.9
 --- page 4 ---
 Basic time =06 marks
 Standard time =04 marks
@@ -420,6 +641,50 @@ Total =10 marks
 b. What are the key principles of ergonomics, and how do they contribute to   [10]
 CO-5, SO-7   workplace safety?
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Cycle 1
+
+* Pick = 0.6
+
+* Load = 1.8 - 0.6 = 1.2
+° Adjust = 3.5 - 1.8 = 1.7
+
+Cycle 2
+
+© Pick = 4,5 - 3.5 = 1.0
+
+© Load = 62-45 = 1.7
+© Adjust = 7.9 - 6.2 = 1.7
+
+Cycle 3
+© Pick=9-7.9= 1.1
+
+e¢ Load =108-9=1.8
+e Adjust = 12.3 - 10.8 = 1.5
+
+® Step 2: Average Time for Each Element
+
+e Pick = (0.6 + 1.0 + 1.1)/3 = 0.9 min
+e Load = (1.2 + 1.7 + 1.8) /3 = 1.57 min
+e Adjust = (1.7 + 1.7 + 1.5) /3 = 1.63 min
+
+® Step 3: Apply Rating Factor (Normal Time)
+Normal Time = Observed Time x Rating
+
+« Pick = 0.9 x 1.1 = 0.99 min
+¢ Load = 1.57 x 1.2 = 1.88 min
+* Adjust = 1.63 = 0.9 = 1.47 min
+
+® Step 4: Total Normal Cycle Time
+
+Total Normal Time = 0.99 + 1.88 + 1.47 = 4.34 min
+
+® Step 5: Standard Time
+
+Allowance = 12%
+
+Standard Time = 4.34 x (1 + 0.12) = 4.34 x 1.12 = 4.86 min
 --- page 5 ---
 BL2   10 principles =10 marks
 Q5   [20]
@@ -441,6 +706,31 @@ Steps =09 marks
 Total = 10 marks
 Q6   [20]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+1. Effective Working Time
+Working fraction = 1 — 0.08 = 0.92
+
+Effective working time = 50 x 0.92 = 46 hours
+
+2. Normal Time
+Normal Time = 46 x 0.9 = 41.4 hours
+
+eo Normal Time = 41.4 hours
+
+3. Standard Time
+Standard Time = 41.4 x (1+ 0.10) = 41.4 x 1.10 = 45.54 hours
+
+@& Standard Time = 45.54 hours
+
+4. Standard Time per Unit
+
+45.54
+Standard time per unit = Tan 3.036 hours
+
+Convert to minutes:
+
+3.036 x 60 = 182.16 minutes
 --- page 6 ---
 a. A work sampling study conducted over 55 hours recorded:
 Total observations = 2200
@@ -464,6 +754,49 @@ CO-5; SO-7;   suitable examples.   [10]
 BL-2
 Example =02 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+1. Effective Working Time
+
+Working observations = 2200 — 440 = 1760
+
+1760
+
+king fraction = —— = 0
+Working fraction 2200 8
+
+Effective working time = 0.8 x 55 = 44 hours
+
+@& Effective working time = 44 hours
+
+2. Manual Time (since rating applies to manual work)
+
+Manual : Machine = 3 : 2
+Total parts = 5
+
+Manual time = 3% 44 — 26.4 hours
+
+3. Normal Time
+
+Normal time = Manual time x Rating
+= 26.4 x 0.88 = 23.23 hours
+
+@& Normal time = 23.23 hours
+
+4. Standard Time
+
+Standard time = Normal time x (1 + Allowance)
+
+= 23.23 x 1.15 = 26.71 hours
+
+5. Standard Time per Unit
+
+26.71
+Standard time per unit = 0 7 0.243 hours/unit
+
+Convert to minutes:
+
+0.243 x 60 = 14.58 minutes/unit
 --- page 7 ---
 Any four differences =08 marks
 Total = 10 marks
@@ -488,6 +821,7 @@ Total = 10 marks
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_Mechatronics_7004/Industrial Engineering/ANS_Industrial Engineering(702ME0E009)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 31 Jan 2026
 - Text: text (9 pages)
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -515,6 +849,36 @@ b) Explanation of steps involved in conducting method study. - 05 M
 • Record the relevant facts about the job by direct observation and collect such additional data as may
 be needed from appropriate sources.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+41. Bad design of product
+
+a F A2. Lack of standardization
+_ 7 43. Incorrect quality standard
+| Basic Work Content . 44. Excess material
+— of product and/or operation
+B1. Wrong machine used
+B2. Process not operated
+correctly or in bad condition
+Total work i Work Content Added B3. Wrong tools used
+content of \ by defects in design of product B4. Bad layout
+the product BS. Operative's bad working
+Total time methods
+of operation Work Content Added
+existing B G by inefficient methods of Ci. Excessive product variety
+conditions. ‘ manufacture or operation C2. Lack of standardization
++ C3. Design changes
+C4. Bad planning
+C5. Lack of raw materials
+Ineffective Time C6. Plant breakdowns
+Total c G due to shortcomings of (C7. Plant in bad conditions
+ineffective the management C8. Bad working conditions
+time C9. Accidents
+Ineffective Time D1. Absence, lateness and
+D ( within the control of the worker idleness
++ D2. Careless workmanship
+
+D3. Accidents
 --- page 2 ---
 • Examine the way the job is being performed and challenge its purpose, place sequence and method
 of performance.
@@ -633,6 +997,31 @@ Overall time per piece (To) = Total time worked/ Number of units produced
 Effective time per piece (Te) = To * (Np / N)
 = 15 * ( 200 / 250)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+22% Rotor tator
+
+mits m mis mts
+40 Tum 80 Die cast 250 Wind 20 Turn
+G2) Cs) Turn
+
+40(13) Turn 80} 5 | Inspt 30(6) Wind 25 Turn
+Bore
+
+1.0] 7 | Inspt 80 Assemble 10] 3 |Inspt 3.0 Turn
+
+fan Ends
+
+50 Drill 80(9) Balance “ven 5] 1 | tnspt
+20] 2 Inspt
+
+8.0( 8 ) Assemble
+
+Purchase part
+
+O 15 Assemble
+
+20] 9 | Inspt
 --- page 5 ---
 = 12 minutes - 02 M
 Here complete operation is manual therefore
@@ -701,6 +1090,52 @@ Q5.
 a) Construction of a FAST diagram (Function analysis systems technique) for an electric iron box
 in the standard format. - 10 M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+r aeeeeeeennnn= 1
+' | Provide adequate packing ' Comply with ' :
+H '
+! ' 1 ft allsafety H
+
+geeeeceseseees5 0 seemeeeeeeeseees, | ' '
+
+{controlthe { | Supportall the
+} temperature
+‘
+
+Seeeenersereest '
+1
+
+' equipment in
+1 one assembly
+
+
+L.-.-------------!
+
+Ironing of ' | Heat the base Convert the Install the Cen of ‘ Provide
+clothes ~T) of iron box electrical energy heater ewite __| Electrical power
+1 to heat "| supply
+i | co
+: ne sash Transmit Secure the heater '
+' Stace ca slecteleal enaray - Provide clamps Secure the switch :
+' through wires '
+; | heater 1 '
+I !
+1 Provide thermal Dampen any Crimp the heater '
+1 | paste between losses endsto accept installa !
+! the base plate power thermostat H
+i and heater '
+i 1
+I ;
+' Remove unwanted i
+J transfer of heat to \
+1 places other than .
+1 base :
+i i
+i
+! | ingulatethesurfaces | 1
+
+other than base i i
 --- page 7 ---
 b) Explanation about the application of a travel chart in effective plant layout design with relevant
 example diagram. -- 10 M
@@ -903,6 +1338,40 @@ Chart with four symbols =05 marks
 Total = 10 marks
 [20]
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+1. Partial Productivity of Each Input
+
+Formula:
+
+Output
+
+Partial Productivity = ——————
+arta rodney Individual Input
+
+* Labor Productivity
+= 60,000 / 1,500 = 40
+* Capital Productivity
+= 60,000 / 5,000 = 12
+* Material Productivity
+= 60,000 / 7,000 = 8.57
+© Other Expenses Productivity
+= 60,000 / 500 = 120
+
+2. Total Factor Productivity (TFP)
+
+(Considering Labor + Capital)
+
+60,000 60,000
+
+TFP = ————_ = —__ = 9.23
+1,500+5,000 6,500
+3. Total Productivity
+(Considering all inputs)
+60, 000 60, 000
+Total Productivity = = 4.29
+
+1,500+5,000+7,000+500 14,000
 --- page 3 ---
 Q3
 a.   Explain a flow process chart with suitable example.
@@ -923,6 +1392,15 @@ standard time, considering an allowance of 18%.
 CO-5; SO-2;   [10]
 BL-2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Cycle Time (min) Rating
+
+Elements 1 2 3
+1. Collect componen} 0.4 3.9 7.8 1
+2. Assemble parts 1.2 5.5 9.4 1.25
+
+3. Inspect product 2.8 6.7 1l 0.95
 --- page 4 ---
 Basic time =06 marks
 Standard time =04 marks
@@ -933,6 +1411,53 @@ BL-3
 Explanation =05 marks
 Total =10 marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+® Step 1: Convert Cumulative Readings — Elemental Tir
+
+Cycle 1
+
+© Collect = 0.4
+
+¢ Assemble = 1.2 - 0.4 = 0.8
+« Inspect = 2.8 - 1.2 = 1.6
+
+Cycle 2
+
+© Collect = 3.9 - 2.8 = 1.1
+
+e Assemble = 5.5 - 3.9 = 1.6
+e Inspect = 6.7 - 5.5 = 1.2
+
+Cycle 3
+
+¢ Collect = 7.8 - 6.7 =1.1
+
+e Assemble = 9.4 - 7.8 = 1.6
+© Inspect = 11 - 9.4 = 1.6
+
+® Step 2: Average Time for Each Element
+
+© Collect = (0.4 + 1.1 + 1.1) / 3 = 0.87 min
+e Assemble = (0.8 + 1.6 + 1.6) / 3 = 1.33 min
+e Inspect = (1.6 + 1.2 + 1.6) / 3 = 1.47 min
+
+® Step 3: Apply Rating Factor (Normal Time)
+Normal Time = Observed Time x Rating
+
+¢ Collect = 0.87 x 1 = 0.87 min
+e Assemble = 1.33 x 1.25 = 1.66 min
+e Inspect = 1.47 x 0.95 = 1.40 min
+
+@ Step 4: Total Normal Time
+
+Total Normal Time = 0.87 + 1.66 + 1.40 = 3.93 min
+
+@ Step 5: Standard Time
+
+Allowance = 18%
+
+Standard Time = 3.93 x (1 + 0.18) = 3.93 x 1.18 = 4.64 min
 --- page 5 ---
 Q5   [20]
 a. During a work sampling study over 36 hours, a worker operating at 80%
@@ -954,6 +1479,33 @@ CO-3; SO2;   a. A work study was carried out in a production unit with the follo
 BL-3   [10]
 Total observations = 1800
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+1. Effective Working Time
+Working fraction = 1 — 0.05 = 0.95
+
+Effective working time = 36 x 0.95 = 34.2 hours
+
+2. Normal Time
+
+Normal Time = Effective time x Rating
+= 34.2 x 0.8 = 27.36 hours
+
+ep Normal Time = 27.36 hours
+
+3. Standard Time
+Standard Time = 27.36 x (1+ 0.12) = 27.36 x 1.12 = 30.64 hours
+
+@ Standard Time = 30.64 hours
+
+4. Standard Time per Component
+
+30.64
+Standard time per unit = aT ia 3.064 hours
+
+Convert to minutes:
+
+3.064 x 60 = 183.84 minutes
 --- page 6 ---
 Idle observations = 360
 Ratio of manual to machine work = 2 : 1
@@ -974,6 +1526,43 @@ BL-2   Identify =02 marks
 Detail explanation =08
 Total = 10 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+1. Effective Working Time
+
+Working observations = 1800 — 360 = 1440
+
+1440
+Working fraction = —— = 0.
+Working fraction 1800 8
+
+Effective working time = 0.8 x 50 = 40 hours
+
+2. Manual Time
+
+1 = Total = 3 parts
+
+Manual : Machine =
+
+2
+Manual time = 3 x 40 = 26.67 hours
+
+3. Normal Time
+
+Normal time = 26.67 x 0.90 = 24 hours
+
+4, Standard Time
+
+Standard time = 24 x (1+ 0.12) = 24 x 1.12 = 26.88 hours
+
+5. Standard Time per Piece
+
+26.
+Standard time per piece = as = 0.2688 hours
+
+Convert to minutes:
+
+0.2688 x 60 = 16.13 minutes
 --- page 7 ---
 Q7   [20]
 a. Awkward postures are a major ergonomic risk factor that can lead to

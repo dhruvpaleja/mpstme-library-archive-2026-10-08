@@ -1,6 +1,6 @@
 # Management Information System
 
-**27** unique papers (34 copies across programmes) · 2006-07 to 2025-26 · 7 programmes · Sem 5, Sem 7, Sem 9, Trim 7, Trim 8, Trim 11
+**29** unique papers (36 copies across programmes) · 2006-07 to 2025-26 · 7 programmes · Sem 5, Sem 7, Sem 9, Trim 7, Trim 8, Trim 11
 
 Download only this subject, sorted by academic year:
 
@@ -11,6 +11,8 @@ python organize_by_subject.py restore --destination D:/Study --subject "Manageme
 Files land in `D:/Study/PYQs_By_Subject/Management Information System/<academic year>/`. Identical copies of one paper (the portal often files the same PDF under several programmes) are placed once.
 
 Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (every paper in full, newest first), [`questions.jsonl`](questions.jsonl) (one record per question with marks, year, exam, semester and department) and [`papers.jsonl`](papers.jsonl) (one record per paper). Answer keys, where the portal published them, are in `answer_keys.md`. See [`question_bank/README.md`](../../question_bank/README.md) for the fields.
+
+Syllabus of this course, every version found in the archive: [`syllabus.md`](syllabus.md) (see [`syllabi/`](../../syllabi/README.md) for all programmes).
 
 Also filed as: `MANAGEMENT INFORAMTION SYSTEMS`, `MANAGEMENT INFORMATION SYSTEMS`, `Management Information Systems`
 
@@ -23,7 +25,9 @@ Also filed as: `MANAGEMENT INFORAMTION SYSTEMS`, `MANAGEMENT INFORMATION SYSTEMS
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH / I T | Management Information Systems, Sem-V, A Y 2023-24, Final Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 5 | MBA TECH / I T | Management Information system,Final 23-24.pdf |
 | 2022-23 | Final-Exam | Question paper | Sem 5 | B TECH / I T, MBA TECH / I T | Management Information System, 3rd Year, Sem V, Year 2022-23, Final Exam.pdf |
+| 2022-23 | Final-Exam | Question paper | Sem 7 | B TECH / IT | Management_Information_Systems__4th_Year__Sem_VII__Year_2022-23__Final_Exam_yFvytC6ZQu.pdf |
 | 2022-23 | Re-Exam | Question paper | Sem 5 | B TECH / I T, MBA TECH / I T | Management Information Systems, 3rd Year, Sem-V, Year 2022-23, Re Exam.pdf |
+| 2022-23 | Re-Exam | Question paper | Sem 7 | B TECH / IT | Management_Information_Systems__4th_Year__Sem-VII__Year_2022-23_Re_Exam_tyu4JOy780.pdf |
 | 2019-20 | Final-Exam | Question paper | Sem 7 | B TECH / IT | MANAGEMENT_INFORMATION_SYSTEMS_B TECH (IT), 2019-20 FINAL_EXAM_.pdf [1] |
 | 2018-19 | Final-Exam | Question paper | Sem 7 | B TECH / IT | MANAGEMENT_INFORMATION_SYSTEMS_B TECH (IT), 2018-19 FINAL_EXAM.pdf [2] |
 | 2017-18 | Final-Exam | Question paper | Sem 7 | B TECH / IT | MANAGEMENT INFORMATION SYSTEMS (IT), 2017-18 FINAL EXAM.pdf [3] |

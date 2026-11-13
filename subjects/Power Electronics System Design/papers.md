@@ -3073,6 +3073,26 @@ ROLL No   A006
 SAP ID   83001170007
 NAME   SAIMA KHATRI
 Attribute Map - SAIMA KHATRI
+
+[Text in pictures on this page, read by OCR]
+1200
+11co
+Toco
+900
+800
+
+7oo
+
+500
+
+100 7
+
+| a
+; I l i
+
+Skill Thinkire Knowedge Application
+
+Attribute Level Reached Expected Level
 ````
 
 ## Year not stated · Exam not stated · Trim 3 · ZIP of papers · paper b3caec15fe1b · A007.pdf
@@ -3132,6 +3152,26 @@ ROLL No   A009
 SAP ID   83001170010
 NAME   HIMANSHU MANTRI
 Attribute Map - HIMANSHU MANTRI
+
+[Text in pictures on this page, read by OCR]
+1200
+11co
+Toco
+900
+800
+
+7oo
+
+500
+
+100 1.
+
+i | a
+5 I I | I
+
+Skill Thinkire Knowedge Application
+
+Attribute Level Reached Expected Level
 ````
 
 ## Year not stated · Exam not stated · Trim 3 · ZIP of papers · paper b3caec15fe1b · A010.pdf
@@ -3151,6 +3191,26 @@ ROLL No   A010
 SAP ID   83001170011
 NAME   SEHEJ PAHUJAA
 Attribute Map - SEHEJ PAHUJAA
+
+[Text in pictures on this page, read by OCR]
+1200
+11co
+Toco
+900
+800
+
+7oo
+
+500
+
+100 L, L.
+
+i |
+; l l | i
+
+Skill Thinkire Knowedge Application
+
+Attribute Level Reached Expected Level
 ````
 
 ## Year not stated · Exam not stated · Trim 3 · ZIP of papers · paper b3caec15fe1b · A011.pdf
@@ -3170,6 +3230,26 @@ ROLL No   A011
 SAP ID   83001170013
 NAME   ISHA RAGHUVANSHI
 Attribute Map - ISHA RAGHUVANSHI
+
+[Text in pictures on this page, read by OCR]
+1200
+11co
+Toco
+900
+800
+
+7oo
+
+500
+
+100 7
+
+a a
+; I I | i
+
+Skill Thinkire Knowedge Application
+
+Attribute Level Reached Expected Level
 ````
 
 ## Year not stated · Exam not stated · Trim 3 · ZIP of papers · paper b3caec15fe1b · A012.pdf
@@ -3228,6 +3308,26 @@ ROLL No   A014
 SAP ID   83001170016
 NAME   MANNA RAO
 Attribute Map - MANNA RAO
+
+[Text in pictures on this page, read by OCR]
+1200
+11co
+Toco
+900
+800
+
+7oo
+
+500
+
+100 -
+
+| i
+5 l i
+
+Skill Thinkire Knowedge Application
+
+Attribute Level Reached Expected Level
 ````
 
 ## Year not stated · Exam not stated · Trim 3 · ZIP of papers · paper b3caec15fe1b · A015.pdf
@@ -3344,6 +3444,26 @@ SAP ID   83001170023
 NAME   MRUNAL
 TADVALKAR
 Attribute Map - MRUNAL TADVALKAR
+
+[Text in pictures on this page, read by OCR]
+1200
+11co
+Toco
+900
+800
+
+7oo
+
+500
+
+100 1.
+
+i | a
+5 I l | i
+
+Skill Thinkire Knowedge Application
+
+Attribute Level Reached Expected Level
 ````
 
 ## Year not stated · Exam not stated · Trim 3 · ZIP of papers · paper b3caec15fe1b · A022.pdf

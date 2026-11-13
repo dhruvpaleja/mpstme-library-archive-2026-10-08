@@ -32,6 +32,16 @@ B.   7
 2.   Attempt the following   15
 A.   8
 Page 1 of 3
+
+[Text in pictures on this page, read by OCR]
+Your firm has been appointed as the Central Statutory Auditors of a Nationalized Bank. The
+bank is a consortium member of the Cash Credit Facilities of 50 crores to X Ltd. The Bank's
+own share is $10 crores only. During the last two quarters, against a debit of 1.75 crores
+towards interest, the credits in X Ltd.’s|account are to the tune of 1.25 crores only. Based
+on the certificate of lead bank, the bank has classified the account of X Ltd as performing.
+The Bank follows the financial year as the accounting year.
+
+Advise your views on the issue which were brought to your notice by your Audit Manager.
 --- page 2 ---
 3.
 

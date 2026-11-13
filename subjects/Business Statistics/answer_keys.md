@@ -44,6 +44,19 @@ CO-1,2,3 ; BL-
 Analyze,   [4]
 Apply
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Type | Error: Rejecting Hy when it is true + concluding the batch is weak when it actually meets the
+standard.
+
+© Consequence: Unnecessary rejection of good cables — increased cost and waste.
+Type Il Error: Failing to reject Hp when H, is true concluding the batch meets the standard when it is
+actually weak.
+
+* Consequence: Using weak cables — safety hazards, accidents, or legal liabilities.
+More Costly Error: Type II Error is more serious because it compromises safety and reliability of
+
+structures.
 --- page 2 ---
 Q.2. [10]
 
@@ -121,6 +134,34 @@ Apply
 𝑛≈271.9
 n=272
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+a. Central Tendency Interpretation
+* Call Centre: Mean < Median = Mode — mild negative skew (-0.31). Most customers are moderately
+satisfied (scores 4-5) with a few low ratings pulling the mean down.
+e Branch Counter: Mean 4.7 < Median = Mode = 5 — strong negative skew (-1.80). The majority are
+
+highly satisfied (scores concentrated near 5).
+
+b. Dispersion, Skewness & Kurtosis Interpretation
+
+° Call Centre: SD = 0.97 — greater variability; platykurtic (2.4) — flatter curve, less concentration,
+inconsistent service quality.
+
+e Branch Counter: SD = 0.50 — consistent; leptokurtic (4.8) - sharply peaked, ratings highly clustered
+
+around 5, indicating uniform excellence.
+
+c. Managerial Implications & Strategy
+© Reduce variability: standardize scripts and procedures to minimize inconsistent call handling.
+© Target left-tail issues: identify and resolve key causes of low scores (wait time, poor resolution).
+e Increase kurtosis (consistency):
+* Continuous training for call agents.
+* Introduce feedback loops for service improvement.
+* Reward consistent performers.
+* Monitor key metrics: improve mean, reduce SD, move skewness closer to 0, and increase kurtosis
+
+(tighter clustering around higher satisfaction scores).
 --- page 4 ---
 Q.4.   [10]
 a.
@@ -143,6 +184,60 @@ Even though the model classifies an applicant as high risk, 1 in 3 such
 classifications are false alarms, suggesting the bank should review
 borderline cases manually before rejecting them.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Apply the finite population correction (FPC)
+
+The standard error with FPC:
+
+pU—p) N—n
+BE = :
+8 n N-1
+
+0.6-0.4 5000 — 200
+200 5000 — 1
+
+[0.24 4800
+SE 200 | 4999
+
+SE = vV0.0012 - 0.9602 = V0.001152 ~ 0.03395
+
+SE=
+
+Step 2: Margin of Error (E)
+
+E = 2y/2- SE = 1.96 - 0.03395 ~ 0.0666
+
+Step 3: Confidence Interval
+CI = p+ E = 0.6 + 0.0666
+CI = (0.533, 0.667)
+
+Parameter Symbol Value / Description
+
+Population proportion Po 0.30
+Sample size n 400
+Number of successes x 138
+Sample proportion p= 2 = 38 = 0.345
+
+Significance level a 0.05
+Null hypothesis Ho : p = 0.30
+
+Alternate hypothesis MN: p> 0.30
+
+Test statistic
+
+Decision rule Reject Ho if Z > Zo.o5 = 1.645
+
+Step 1: Total Probability of “High Risk” Classification
+P(T) = P(L)P(T|L) + P(H)P(T\H)
+
+= (0.80)(0.10) + (0.20)(0.75) = 0.08 + 0.15 = 0.23
+
+Step 2: Apply Bayes’ Theorem
+
+P(H)P(L\H) _ 0.20 0.75 _ 0.15 _ 5 geo
+
+P(H|T) = P(T) 0.23 0.23
 --- page 5 ---
 b.
 CO-1,2 ; BL-
@@ -184,6 +279,26 @@ it is not significant at the 5% level.
 • Management may continue using both machines but
 could monitor Machine A for consistency issues.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Parameter Symbol Value / Description
+
+Population mean “ 2.5 days
+Population standard deviation o 0.5 days
+Sample size n 64
+
+Sampling distribution mean My =p 2.5 days
+Standard error of mean ox= a 98 = 0.0625
+Required probability P(X < 2.4)
+
+Step 1: Compute Z-value
+
+X-p_ 24-25
+ox 0.0625
+
+P(Z < —1.6) = 0.0548
+
+Za =-16
 --- page 6 ---
 Q.7.   [10]
 a.   A. State the null and alternative hypotheses
@@ -212,6 +327,42 @@ CO-1,2 ; BL-
 Analyze,   [5]
 Apply,
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: State Hypotheses
+
+* Hp: Smartphone brand preference is independent of age group.
+
+« Hy: Smartphone brand preference is dependent on age group.
+
+Step 2: Expected Frequencies
+For each cell,
+
+E (Row Total)(Column Total)
+ue Grand Total
+
+e.g.. for Age 18-29, Brand A: B = 79-85 = 24.79
+
+Compute similar expected frequencies for all cells.
+
+Step 3: Compute Chi-square Statistic
+
+2
+2 (O-E)
+x= » E
+After calculation (summation over 12 cells):
+
+x2, = 10.86
+
+Step 4: Determine Degrees of Freedom
+df =(r—1)(e—1) = (4-1)(3-1)=6
+
+Ata = 0.05, x2 :ticat = 12.59
+
+Step 5: Decision & Interpretation
+Since x2,, = 10.86 < 12.59,
+
+Fail to reject Hy — Brand preference is independent A age group.
 ````
 
 ## 2025-26 · Final-Exam · Sem 7 · Answer key · paper 86b71c6b45dc
@@ -256,6 +407,19 @@ CO-1,2,3 ; BL-
 Analyze,   [4]
 Apply
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Type | Error: Rejecting Hy when it is true + concluding the batch is weak when it actually meets the
+standard.
+
+© Consequence: Unnecessary rejection of good cables — increased cost and waste.
+Type Il Error: Failing to reject Hp when H, is true concluding the batch meets the standard when it is
+actually weak.
+
+* Consequence: Using weak cables — safety hazards, accidents, or legal liabilities.
+More Costly Error: Type II Error is more serious because it compromises safety and reliability of
+
+structures.
 --- page 2 ---
 Q.2. [10]
 
@@ -332,6 +496,31 @@ Apply
 𝑛≈271.9
 n=272
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+a. Central Tendency Interpretation
+© Call Centre: Mean < Median = Mode — mild negative skew (-0.31). Most customers are moderately
+satisfied (scores 4-5) with a few low ratings pulling the mean down.
+¢ Branch Counter: Mean 4.7 < Median = Mode = 5 — strong negative skew (-1.80). The majority are
+
+highly satisfied (scores concentrated near 5).
+
+b. Dispersion, Skewness & Kurtosis Interpretation
+© Call Centre: SD = 0.97 — greater variability; platykurtic (2.4) — flatter curve, less concentration,
+inconsistent service quality.
+¢ Branch Counter: SD = 0.50 — consistent; leptokurtic (4.8) — sharply peaked, ratings highly clustered
+around 5, indicating uniform excellence.
+
+c. Managerial Implications & Strategy
+e Reduce variability: standardize scripts and procedures to minimize inconsistent call handling.
+© Target left-tail issues: identify and resolve key causes of low scores (wait time, poor resolution).
+° Increase kurtosis (consistency):
+* Continuous training for call agents.
+* Introduce feedback loops for service improvement.
+« Reward consistent performers.
+* Monitor key metrics: improve mean, reduce SD, move skewness closer to 0, and increase kurtosis
+
+(tighter clustering around higher satisfaction scores).
 --- page 4 ---
 Q.4.   [10]
 a.
@@ -354,6 +543,68 @@ Even though the model classifies an applicant as high risk, 1 in 3 such
 classifications are false alarms, suggesting the bank should review
 borderline cases manually before rejecting them.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Apply the finite population correction (FPC)
+
+The standard error with FPC:
+
+pU—p) N—n
+BE = :
+8 n N-1
+
+0.6-0.4 5000 — 200
+200 5000 — 1
+
+[0.24 4800
+SE 200 | 4999
+
+SE = vV0.0012 - 0.9602 = V0.001152 ~ 0.03395
+
+SE=
+
+Step 2: Margin of Error (E)
+
+E = 2y/2- SE = 1.96 - 0.03395 ~ 0.0666
+
+Step 3: Confidence Interval
+CI = p+ E = 0.6 + 0.0666
+CI = (0.533, 0.667)
+
+National proportion pip = 0.25, Sample: n = G00, 2 = 174 =f = 174/000 = 0.29. Significance level
+a = 0.05,
+
+Test the producer's belief that the Assam proportion is higher than the national proportion.
+Hypotheses
+Ho: p= 0.25 pa. Ha: p> 0.25
+Check normal approximation: npy = 600(0.25) = 150 and nl — py) = 450 — both large enough, se
+atest is appropriate,
+Test statistic (7):
+p-m 0.29 — 0.25 0.04
+
+°* Vall-min fox 075/e00 00176777
+
+P-value (one-sided):
+P(Z > 2.2627) = 0.0118.
+
+= 2.2627
+
+Decision: pevalue (0.0118) < (0.05), Reject Ho.
+
+Conclusion (plain language): There is statistically significant evidence at the 5% level that the proportion of
+adults. in Assam who prefer tea as their primary moming beverage is higher than the national proportion of
+25%.
+
+Step 1: Total Probability of “High Risk” Classification
+P(T) = P(L)P(T|L) + P(H)P(T\H)
+
+= (0.80)(0.10) + (0.20)(0.75) = 0.08 + 0.15 = 0.23
+
+Step 2: Apply Bayes’ Theorem
+
+P(H)P(L\H) _ 0.20 0.75 _ 0.15 _ 5 geo
+
+P(H|T) = P(T) 0.23 0.23
 --- page 5 ---
 b.
 CO-1,2 ; BL-
@@ -395,6 +646,26 @@ it is not significant at the 5% level.
  Management may continue using both machines but
 could monitor Machine A for consistency issues.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Parameter Symbol Value / Description
+
+Population mean “ 2.5 days
+Population standard deviation o 0.5 days
+Sample size n 64
+
+Sampling distribution mean My =p 2.5 days
+Standard error of mean ox= a 98 = 0.0625
+Required probability P(X < 2.4)
+
+Step 1: Compute Z-value
+
+X-p_ 24-25
+ox 0.0625
+
+P(Z < —1.6) = 0.0548
+
+Za =-16
 --- page 6 ---
 Q.7.   [10]
 a.   A. State the null and alternative hypotheses
@@ -423,6 +694,42 @@ CO-1,2 ; BL-
 Analyze,   [5]
 Apply,
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: State Hypotheses
+
+* Hp: Smartphone brand preference is independent of age group.
+
+« Hy: Smartphone brand preference is dependent on age group.
+
+Step 2: Expected Frequencies
+For each cell,
+
+E (Row Total)(Column Total)
+ue Grand Total
+
+e.g.. for Age 18-29, Brand A: B = 79-85 = 24.79
+
+Compute similar expected frequencies for all cells.
+
+Step 3: Compute Chi-square Statistic
+
+2
+2 (O-E)
+x= » E
+After calculation (summation over 12 cells):
+
+x2, = 10.86
+
+Step 4: Determine Degrees of Freedom
+df =(r—1)(e—1) = (4-1)(3-1)=6
+
+Ata = 0.05, x2 :ticat = 12.59
+
+Step 5: Decision & Interpretation
+Since x2,, = 10.86 < 12.59,
+
+Fail to reject Hy — Brand preference is independent A age group.
 ````
 
 ## 2025-26 · Re-Exam · Sem 7 · Answer key · paper c847afec33a1
@@ -470,6 +777,21 @@ CO-1,2,3 ;
 BL- Analyze,   [4]
 Apply
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Null Hypothesis (Ho): The batch meets the required dosage (1 = 100 mg).
+
+Alternative Hypothesis (H1): The batch does not meet the required dosage (1 # 100 mg).
+
+Type | Error: Rejecting Ho when it is true — concluding the batch is faulty when it actually meets the
+standard.
+
+Type Il Error: Failing to reject Ho when it is false — concluding the batch is acceptable when it actually
+has incorrect dosage.
+
+Costlier Error: Type Il error is more costly because selling under- or over-dosed medicine could harm
+
+patients and lead to legal and reputational consequences.
 --- page 2 ---
 Q.2. [10]
 
@@ -560,6 +882,31 @@ CO-1,2,3 ;
 BL-Analyze,   [5]
 Apply
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Standard Error with FPC
+
+pp) N—n
+
+B=
+si n N-1
+
+0.6-0.4 2000 — 150
+150 2000-1
+
+[0.24 1850
+SE~ V 750 ° i999
+
+SE = V0.0016 - 0.9255 = V0.0014808 ~ 0.03848
+
+SE=
+
+Step 2: Margin of Error (E)
+E = 2q/2° SE = 1.96 - 0.03848 ~ 0.0754
+
+Step 3: Confidence Interval
+Cl = p+ E = 0.6 + 0.0754
+CI = (0.525, 0.675)
 --- page 4 ---
 b.
 CO-1,2 ; BL-
@@ -584,6 +931,65 @@ Apply,
 Evaluate
 Q.6.   [10]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Parameter Symbol Value / Description
+
+Population proportion Po 0.22
+Sample size n 500
+Number of successes x 130
+Sample proportion B= = = ty = 0.26
+
+Significance level a 0.05
+Null hypothesis Ho : p= 0.22
+
+Alternate hypothesis A: p > 0.22
+
+Test statistic formula Z lion
+
+Critical value Zoos = 1.645 (right-tailed test)
+
+Decision rule Reject Ho if Z > 1.645
+
+Step 1: Total Probability of “Predicted Churn”
+P(P) = P(C)P(P|C) + P(L)P(P\L)
+= (0.10) (0.85) + (0.90)(0.20)
+= 0.085 + 0.18 = 0.265
+
+Step 2: Apply Bayes’ Theorem
+
+P(C)P(P|C) _ 0.10 x 0.85 _ 0.085
+
+= 0.321
+P(P) 0.265 0.265
+
+P(C|P) =
+
+Parameter Symbol Value / Description
+
+Population mean yh 21,800
+Population standard deviation o 300
+Sample size n 36
+Sampling distribution mean by = 21,800
+Standard error of mean oy = 2 =50
+
+Required probability P(1750 < X < 1850)
+
+Step 1: Compute Z-values
+
+1750 — 1800 _
+
+1850 ~ 1800 _ |
+50
+
+Z-
+, 50
+
+-1, A=
+
+Step 2: Use Standard Normal Table
+
+P(-1< Z <1) = 0.8413 — 0.1587 = 0.6826
 --- page 5 ---
 a.   A. Hypotheses
 •   𝐻0: 𝜇𝑏𝑒𝑓𝑜𝑟𝑒= 𝜇𝑎𝑓𝑡𝑒𝑟
@@ -720,6 +1126,21 @@ CO-1,2,3 ;
 BL- Analyze,   [4]
 Apply
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Null Hypothesis (Ho): The batch meets the required dosage (1 = 100 mg).
+
+Alternative Hypothesis (H1): The batch does not meet the required dosage (1 100 mg).
+
+Type | Error: Rejecting Ho when it is true — concluding the batch is faulty when it actually meets the
+standard.
+
+Type Il Error: Failing to reject Hp when it is false — concluding the batch is acceptable when it actually
+has incorrect dosage.
+
+Costlier Error: Type II error is more costly because selling under- or over-dosed medicine could harm
+
+patients and lead to legal and reputational consequences.
 --- page 2 ---
 Q.2. [10]
 
@@ -806,6 +1227,31 @@ CO-1,2,3 ;
 BL-Analyze,   [5]
 Apply
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Standard Error with FPC
+
+pp) N—n
+
+B=
+si n N-1
+
+0.6-0.4 2000 — 150
+150 2000-1
+
+[0.24 1850
+SE~ V 750 ° i999
+
+SE = V0.0016 - 0.9255 = V0.0014808 ~ 0.03848
+
+SE=
+
+Step 2: Margin of Error (E)
+E = 2q/2° SE = 1.96 - 0.03848 ~ 0.0754
+
+Step 3: Confidence Interval
+Cl = p+ E = 0.6 + 0.0754
+CI = (0.525, 0.675)
 --- page 4 ---
 b.
 CO-1,2 ; BL-
@@ -830,6 +1276,65 @@ Apply,
 Evaluate
 Q.6.   [10]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Parameter Symbol Value / Description
+
+Population proportion Po 0.22
+Sample size n 500
+Number of successes x 130
+Sample proportion B= = = ty = 0.26
+
+Significance level a 0.05
+Null hypothesis Ho : p= 0.22
+
+Alternate hypothesis A: p > 0.22
+
+Test statistic formula Z lion
+
+Critical value Zoos = 1.645 (right-tailed test)
+
+Decision rule Reject Ho if Z > 1.645
+
+Step 1: Total Probability of “Predicted Churn”
+P(P) = P(C)P(P|C) + P(L)P(P\L)
+= (0.10) (0.85) + (0.90)(0.20)
+= 0.085 + 0.18 = 0.265
+
+Step 2: Apply Bayes’ Theorem
+
+P(C)P(P|C) _ 0.10 x 0.85 _ 0.085
+
+= 0.321
+P(P) 0.265 0.265
+
+P(C|P) =
+
+Parameter Symbol Value / Description
+
+Population mean yh 21,800
+Population standard deviation o 300
+Sample size n 36
+Sampling distribution mean by = 21,800
+Standard error of mean oy = 2 =50
+
+Required probability P(1750 < X < 1850)
+
+Step 1: Compute Z-values
+
+1750 — 1800 _
+
+1850 ~ 1800 _ |
+50
+
+Z-
+, 50
+
+-1, A=
+
+Step 2: Use Standard Normal Table
+
+P(-1< Z <1) = 0.8413 — 0.1587 = 0.6826
 --- page 5 ---
 a.   A. Hypotheses
 •   𝐻0: 𝜇𝑏𝑒𝑓𝑜𝑟𝑒= 𝜇𝑎𝑓𝑡𝑒𝑟
@@ -968,6 +1473,21 @@ CO-1,2,3 ;
 BL- Analyze,   [4]
 Apply
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Null Hypothesis (Ho): The batch meets the required dosage (1 = 100 mg).
+
+Alternative Hypothesis (H1): The batch does not meet the required dosage (1 # 100 mg).
+
+Type | Error: Rejecting Ho when it is true — concluding the batch is faulty when it actually meets the
+standard.
+
+Type Il Error: Failing to reject Ho when it is false — concluding the batch is acceptable when it actually
+has incorrect dosage.
+
+Costlier Error: Type Il error is more costly because selling under- or over-dosed medicine could harm
+
+patients and lead to legal and reputational consequences.
 --- page 2 ---
 Q.2. [10]
 
@@ -1058,6 +1578,31 @@ CO-1,2,3 ;
 BL-Analyze,   [5]
 Apply
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Standard Error with FPC
+
+pp) N—n
+
+B=
+si n N-1
+
+0.6-0.4 2000 — 150
+150 2000-1
+
+[0.24 1850
+SE~ V 750 ° i999
+
+SE = V0.0016 - 0.9255 = V0.0014808 ~ 0.03848
+
+SE=
+
+Step 2: Margin of Error (E)
+E = 2q/2° SE = 1.96 - 0.03848 ~ 0.0754
+
+Step 3: Confidence Interval
+Cl = p+ E = 0.6 + 0.0754
+CI = (0.525, 0.675)
 --- page 4 ---
 b.
 CO-1,2 ; BL-
@@ -1082,6 +1627,65 @@ Apply,
 Evaluate
 Q.6.   [10]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Parameter Symbol Value / Description
+
+Population proportion Po 0.22
+Sample size n 500
+Number of successes x 130
+Sample proportion B= = = ty = 0.26
+
+Significance level a 0.05
+Null hypothesis Ho : p= 0.22
+
+Alternate hypothesis A: p > 0.22
+
+Test statistic formula Z lion
+
+Critical value Zoos = 1.645 (right-tailed test)
+
+Decision rule Reject Ho if Z > 1.645
+
+Step 1: Total Probability of “Predicted Churn”
+P(P) = P(C)P(P|C) + P(L)P(P\L)
+= (0.10) (0.85) + (0.90)(0.20)
+= 0.085 + 0.18 = 0.265
+
+Step 2: Apply Bayes’ Theorem
+
+P(C)P(P|C) _ 0.10 x 0.85 _ 0.085
+
+= 0.321
+P(P) 0.265 0.265
+
+P(C|P) =
+
+Parameter Symbol Value / Description
+
+Population mean yh 21,800
+Population standard deviation o 300
+Sample size n 36
+Sampling distribution mean by = 21,800
+Standard error of mean oy = 2 =50
+
+Required probability P(1750 < X < 1850)
+
+Step 1: Compute Z-values
+
+1750 — 1800 _
+
+1850 ~ 1800 _ |
+50
+
+Z-
+, 50
+
+-1, A=
+
+Step 2: Use Standard Normal Table
+
+P(-1< Z <1) = 0.8413 — 0.1587 = 0.6826
 --- page 5 ---
 a.   A. Hypotheses
 •   𝐻0: 𝜇𝑏𝑒𝑓𝑜𝑟𝑒= 𝜇𝑎𝑓𝑡𝑒𝑟

@@ -31,6 +31,28 @@ Instructions:
 6. Assume Suitable data where necessary.
 7. Use of heat transfer data book is permitted
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Ql
+
+CO-1, BL-I | a. steady definition + 2 mane
+unsteady definition ~ 2 mats
+example/difference — | nan
+
+'CO-3, BL-1 | b. displacement thickness > 2 monk
+momentum thickness > 2 monte
+
+significance > | meak
+
+[CO-4, BL-2 |e. absorptivity > | mark
+reflectivity + 1 moak
+transmissivity > | pro
+relation > 1 smank.
+
+| | explanation > | mane
+
+CO-5, BL-2 | d. definition +2 ynenk
+broad classification > 3 proate
 --- page 2 ---
 Marking Scheme
 
@@ -273,6 +295,28 @@ Instructions:
 6. Assume Suitable data where necessary.
 7. Use of heat transfer data book is permitted
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Ql
+
+CO-1, BL-I | a. steady definition + 2 mane
+unsteady definition ~ 2 mats
+example/difference — | nan
+
+'CO-3, BL-1 | b. displacement thickness > 2 monk
+momentum thickness > 2 monte
+
+significance > | meak
+
+[CO-4, BL-2 |e. absorptivity > | mark
+reflectivity + 1 moak
+transmissivity > | pro
+relation > 1 smank.
+
+| | explanation > | mane
+
+CO-5, BL-2 | d. definition +2 ynenk
+broad classification > 3 proate
 --- page 2 ---
 Marking Scheme
 
@@ -513,6 +557,42 @@ Instructions:
 6. Assume Suitable data where necessary.
 7. Use of heat transfer data book is permitted
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Ql Answer briefly:
+
+a. conduction law — | ment
+
+convection law — | yraate
+
+CO-1, BL-1 radiation law — 1 marl
+equations > | monk
+
+explanation — | monk
+
+b. Nusselt definition — 2 mask
+CO-3, BL-I Prandtl definition +2 we
+significance > |] wee
+
+c. definition + 2 omnant
+
+formula 1 where
+
+COM BL? dependence — | ree
+significance 1 "™moeka
+d. definition > 2 ynark
+general equation + | me
+CO-5, BL-2
+
+heating equation + | meale
+
+cooling equation — | Mere .
+
+Q2 a. heat balance on element — 3 mers
+CO-1, BL-2 Fourier law in x,y.z + 3 mers
+energy storage + 2 nants
+
+final equation + 2 943
 --- page 2 ---
 b. « spacing L = 0.03 m
 « Th — 55°C
@@ -735,6 +815,42 @@ Instructions:
 6. Assume Suitable data where necessary.
 7. Use of heat transfer data book is permitted
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Ql Answer briefly:
+
+a. conduction law — | ment
+
+convection law — | yraate
+
+CO-1, BL-1 radiation law — 1 marl
+equations > | monk
+
+explanation — | monk
+
+b. Nusselt definition — 2 mask
+CO-3, BL-I Prandtl definition +2 we
+significance > |] wee
+
+c. definition + 2 omnant
+
+formula 1 where
+
+COM BL? dependence — | ree
+significance 1 "™moeka
+d. definition > 2 ynark
+general equation + | me
+CO-5, BL-2
+
+heating equation + | meale
+
+cooling equation — | Mere .
+
+Q2 a. heat balance on element — 3 mers
+CO-1, BL-2 Fourier law in x,y.z + 3 mers
+energy storage + 2 nants
+
+final equation + 2 943
 --- page 2 ---
 b. « spacing L = 0.03 m
 « Th — 55°C

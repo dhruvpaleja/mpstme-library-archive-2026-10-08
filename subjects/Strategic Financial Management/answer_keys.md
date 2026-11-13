@@ -413,6 +413,41 @@ Value of Equity (Ke)   62,50,000   72,00,000   2 Marks
 = PAT/Ke
 Value of Debt   20,00,000   -------------   1 Mark
 Page 4 of 6
+
+[Text in pictures on this page, read by OCR]
+5) Earning Per Share :
+Profit to Equity Shareholders
+
+“EPS = F
+No. of Equity Shares (1 mark)
+= 16,38,000 _
+= 60,000 shares ~ ©2730
+6) Ifthe sales increase by 10% what will be the new EPS :
+in lakhs
+z
+
+Sales [% 82.50 + 10%] 90.75 (3 marks)
+
+(-) Variable Cost [% 46.20 + 10%] 50.82
+
+Contribution 39.93
+
+(-) Fixed Cost 6.60
+
+Earning Before Interest & Tax (EBIT) 33.33
+
+(—) Interest (% 50 lakhs x 9%) 4.50
+
+Earning Before Tax (EBT) 28.83
+
+(-) Tax (35%) 10.0905
+
+EAT 18.7395
+
+Profit to Equity Shareholders
+No. of Equity Shares
+
+“EPS =
 --- page 5 ---
 Value of Firm V =   82,50,000   72,00,000   2 Marks
 E+D

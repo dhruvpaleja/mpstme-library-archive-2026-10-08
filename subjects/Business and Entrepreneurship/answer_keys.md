@@ -561,6 +561,26 @@ Market share growth
 Capital formation and expansion
 Importance:
 Page 5 of 17
+
+[Text in pictures on this page, read by OCR]
+Promoters"
+Vision and Values
+
+Stockholders’
+Expectations
+
+Environmental
+Factors
+
+Corporate
+Objectives
+
+/ SBU Objectives \
+J Departmental Objectives \
+J Divisional Objectives \
+vA Individual Objectives \
+
+Fig. 2.4: Hierarchy of Objectives
 --- page 6 ---
 Profits are necessary for business survival, reinvestment, and growth.
 Example: Reliance Jio invested heavily in infrastructure to gain market leadership and

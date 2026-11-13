@@ -2519,7 +2519,7 @@ be at a lower rate resulting into reduced income for the investor.
 - Departments: Mechanical
 - Programmes: MBATech (MECHANICAL ENGINEERING) - 7046
 - Source: `02_Question_Papers/2024/Sem_10/Final-Exam/MBATech (MECHANICAL ENGINEERING) - 7046/Financial Engineering/ANS_Financial Engineering(703TF0E012)_2024-2025.pdf`
-- Text: none (FileDataError: Failed to open stream)
+- Text: none (encrypted by the portal: the file is uniformly random bytes in 16-byte cipher blocks with no PDF structure, and the archive holds no key (its own re-download got the same bytes))
 
 ## 2024-25 · Final-Exam · Sem 10 · Answer key · paper 4b9fb473bc48
 

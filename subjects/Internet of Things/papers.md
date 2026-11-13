@@ -1,6 +1,6 @@
 # Internet of Things: question papers in full
 
-23 unique papers · 2018-19 to 2025-26 · Electronics and Telecommunication, Information Technology, Artificial Intelligence
+25 unique papers · 2017-18 to 2025-26 · Electronics and Telecommunication, Information Technology, Artificial Intelligence
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1779,6 +1779,64 @@ aaa
 2/2
 ````
 
+## 2018-19 · Final-Exam · Sem 8 · paper 262c5be54899
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: EXTC/SEMESTER VIII/INTERNET OF THINGS/INTERNET_OF_THINGS_2018-19_FINAL_EXAM_.pdf`
+- Printed on paper: max marks: 70; exam date: 15 April 2019
+- Text: ocr (1 page), mean OCR confidence 89.6
+
+````text
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+
+Program B.Tech (EXTC) Year: IV Semester: V.
+5 Academic Year: 2018-2019 (
+
+| Subject: Internet of Things / Marks: 70 © /% v7 n
+=( wPstM
+Date: 15 April 2019 ” Time:2.00 pmi(f 5.00 pay RA ®
+Duration: 3 (hi s
+: No. of Pages:
+Final Examination (2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No.1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q.1 a) Explain JMS API architecture and its message domains. (07)
+b) What are the security issues in wireless sensor networks which are part of loT? (07)
+Q.2 a) What are the different message types available in MQTT message header? (07)
+b) Discuss Bluetooth protocol stack, Piconet and Scatternet in detail. (07)
+Q.3 a) Explain loT6 architecture. “ , (07)
+b) Design the circuit for measuring moisture level using ESP8266 and blink the LED’s as per wet
+or dry level assume suitable threshold level. (07)
+Q.4 a) How Z wave is used for building automation? Compare Z wave with Zigbee protocol. (07)
+b) What are the messages types are available in CoAP? Explain with flow diagram. (07)
+Q. 5 a) Discuss how businesses refer to cloud procurement as SaaS, PasS and IaaS. (07)
+b) How IoT6 can be used in building maintenance as use cases. (07)
+Q.6 a) How FITMAN virtual factory reference platform is used in smart manufacturing. (07)
+ot b) Discuss the characteristics of loT, Edge and Cloud computing and layer architecture
+of edge computing. : (07)
+Q.7 a) Write a short notes on SmartSantander -— a smart city experimental platform (07)
+b) Explain high-level OpenloT Publish/Subscribe architecture for OpenloT platform. (07)
+
+’ V/
+````
+
 ## 2018-19 · Final-Exam · Sem 10 · paper b056ba6c9e56
 
 - Departments: Electronics and Telecommunication
@@ -1841,4 +1899,67 @@ x
 olfoL
 
 iz
+````
+
+## 2017-18 · Final-Exam · Sem 8 · paper a7444f2f044f
+
+- Departments: Electronics and Telecommunication
+- Programmes: B TECH / EXTC
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: EXTC/SEMESTER VIII/INTERNET OF THINGS/INTERNET OF THINGS (EXTC), FINAL EXAM 2017-18.pdf`
+- Printed on paper: max marks: 60; duration hours: 3; exam date: 10 May 2018
+- Text: ocr (1 page), mean OCR confidence 86.5
+
+````text
+: VA {gs ° “i Ne
+SVKM’s NMIMS ree ‘¥
+/ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT losses: i)
+” Programme:B. Tech (EXTC) Year: IV Semester: ‘aie gt j
+- - * Mesias y8 a
+Academic Year: 2017-2018 SS
+‘ Subject:Internet of Things
+. Marks:60
+~. Date:10 May 2018 Time: 2.00 pm to 5.00 pm
+Durations: 3 (hrs)
+No. of Pages : Sc
+
+Final Examination
+
+Instructions: Carididates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+a
+1) Question No. | is compulsory.
+2) Out of remaining questions, attempt any 4 questions.
+3) In all 5 questions to be attempted.
+4) All questions carry equal marks. ;
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume suitable data if necessary.
+
+Q.1 a) Explain IoT6 architecture. ' (06)
+
+b) Explain open standard reference model for IoT. (06)
+
+Q.2 a) Explain smart health platform as loT smart X application in detail. : (06)
+
+b) Explain MQTT message header with QoS details. (06)
+
+Q.3 a) Explain JMS API architect and its message domain. (06)
+
+b) What are the added values of FITMAN approach for manufacturing? (06)
+
+Q.4 a) Explain MobilityFirst network architecture. (06)
+
+b) What are the features of XMPP? Its technologies and weakness. (06)
+
+Q.5 a) Discuss any one loT6 use cases. (06)
+
+b) Explain AMQP features and its frame types. (06)
+
+Q.6 a) How Huawei EC-IOT framework is used as an open IoT platform. , (06)
+
+_— b) Explain how federated cloud model work as cloud management framework in IoT. (06)
+a Q.7 a) How loT device and data management perform in cloud platform. (06)
+. b) What are the IoT challenges further explain TCP/IP stack and IP smart protocol suite. (06)
+
+vy
 ````

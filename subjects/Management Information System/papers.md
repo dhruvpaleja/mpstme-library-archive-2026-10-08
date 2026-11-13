@@ -1,6 +1,6 @@
 # Management Information System: question papers in full
 
-27 unique papers · 2006-07 to 2025-26 · Information Technology, Computer Applications (MCA), Chemical
+29 unique papers · 2006-07 to 2025-26 · Information Technology, Computer Applications (MCA), Chemical
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -679,6 +679,103 @@ Understand
 page = +=
 ````
 
+## 2022-23 · Final-Exam · Sem 7 · paper 56ac21ac40c3
+
+- Departments: Information Technology
+- Programmes: B TECH / IT
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: IT/VII SEMESTER/MANAGEMENT INFORMATION SYSTEM/Management_Information_Systems__4th_Year__Sem_VII__Year_2022-23__Final_Exam_yFvytC6ZQu.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 21 November 2022
+- Text: ocr (2 pages), mean OCR confidence 86.0
+
+````text
+\ SVKM’s NMIMS
+_ MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING /
+
+/ $CHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+
+Academic Year: 2022-23
+
+. Programme: B. Tech (IT) Year: IV Semester: VII
+| Subject: Management Information Systems
+Marks: 100
+Date: 21 November 2022 - Time: 2.00 pm - 5.00 pm
+
+Durations: 3 (Hrs)
+No. of Pages: _@Z-
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+“> 1) Question No._1____ is compulsory.
+2) Out of remaining questions, attempt any __4__. questions.
+3) In all___5_ questions to be attempted.
+4) All questions carry equal marks.
+5) Answer to each new question to be started on a fresh page.
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql .
+Answer briefly: [20]
+a 3 SO- | a. What is a digital firm? Explain the role of Information Systems in such firms.
+CO- 2: SO- b. How human resource business processes’ are supported by enterprise systems?
+; BL-2 Explain in brief.
+col SO- | c. Explain the time dimension of information.
+rite SO-; | d. Explain any two social media limitations for an organization.
+L-
+e. :
+2 SO-; What is proportionality and informed consent principles of technology ethics?
+BL-
+Q a. What are complementary assets? Firms that invest in complementary assets receive 110]
+woe SO-; superior returns. Do you agree or don’t agree? Justify giving suitable examples.
+BL-
+‘ b. Explain porter’s five force model. You are planning to start an ed-tech company
+. aa targeting school kids (5" to 12" standard). You need to compete with Byju’s, 110)
+76 oe SO-; Unacademy and similar other ed-tech firms. Apply porter’s five force model to
+
+agsess the situation.
+
+Q3 a.
+CO-1: S0-: What is a differentiation strategy? How IT may be used to implement this strategy? [10]
+
+BL-3 |
+
+Page 1 of 2
+--- page 2 ---
+Q3 b.
+
+Explain various components of IT Infrastructure giving an example of each. How
+
+CO-1; SO-; . : [10]
+BL IT infrastructure supports business capabilities?
+Q4 a
+CO-1; SO-; What is cloud computing? Explain PaaS, SaaS, and IaaS with an example. [10]
+BL-2
+Ce BU (© What is CRM system? How it may be used to improve sales? [10]
+Q5 a
+CO-2; SO-; Explain the most common causes of ERP system failures. [10]
+BL-2
+Q5 b.
+CO-2; SO-; Explain the roles and activities of SCM in business? [10]
+BL-2
+a a What is a structured, semi-structured, and unstructured decisions supported by
+CO-2; SO-; os a — [10]
+BL-2 decision support systems? Explain with an example.
+Q6 b ; . . —_
+Explain the need for managing knowledge in an organization.
+CO-1; SO-; [10]
+BL-2
+Q7 a. E : . . ee sare , F :
+xplain any two social computing applications used by an organization. List their
+CO-3; SO-; . [10]
+BL2 advantages and disadvantages.
+Q7 b.
+CO-4; SO-; What is a cybercrime? Why it is difficult to prosecute a cybercrime? [10]
+BL-2
+
+Page 2 of 2
+````
+
 ## 2022-23 · Final-Exam · Sem 5 · paper 2e2cce12792b
 
 - Departments: Information Technology
@@ -784,6 +881,128 @@ Q7 b.
 CO-4; SO-; What is a cybercrime? Why it is difficult to prosecute a cybercrime? [10]
 BL-2
 
+Page 2 of 2
+````
+
+## 2022-23 · Re-Exam · Sem 7 · paper a39b981cca82
+
+- Departments: Information Technology
+- Programmes: B TECH / IT
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: IT/VII SEMESTER/MANAGEMENT INFORMATION SYSTEM/Management_Information_Systems__4th_Year__Sem-VII__Year_2022-23_Re_Exam_tyu4JOy780.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 30 January 2023
+- Text: ocr (2 pages), mean OCR confidence 87.2
+
+````text
+SVKM’S NMIMS
+
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING /
+SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+Program: B. Tech (IT) Year: IV Semester : VII
+
+AcademieYear:2 2022-2023
+
+ject: tion Syst
+Subject: Management Information Systems Marks: 100
+
+Date : 30 January 2023 Time: 2.00 pm - 5.00 pm
+Durations: 3 (Hrs)
+No. of Pages: @ 2-
+Re-Examination L 2022-23)
+
+Instructions: Candidates should read carefully the instructions printed on the — paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any __4 _ questions.
+
+3) Inall___5__ questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi
+Answer briefly: [20]
+
+CO- 1; SO- | a. :
+
+; What is an operations support systems?
+
+BL-2
+
+CO- 2; SO- | b. How manufacturing and production business processes are supported by enterprise
+
+ig and p
+
+*BL2 systems? Explain in brief.
+
+CO-2 ; SO- | c.
+
+; Explain tacit and explicit knowledge with an example.
+
+BL-2
+
+CO-3; SO- | d. . : . . 's
+
+: How business may benefit from social media? Explain with an example.
+
+BL-2
+
+CO-4; SO- | e. Explain some of the political challenges that you may face while managing IT
+
+P I y!
+
+BL2 globally.
+
+Q2 a.
+
+C0-1: SO-: Explain strategic business objectives of Information Systems. [10]
+BL-2
+
+Q2 b. Explain porter’s five force model. You are planning to start a food delivery
+CO-2; SO-; company. You need to compete with Zomato and Swiggy. Apply porter’s five [10]
+BL-3
+
+force model to assess the situation.
+
+e
+
+Page 1 of 2
+--- page 2 ---
+Q3 a What is cost leadership strategy? How IT may be used to implement this
+
+10
+CO-1; SO-; strategy? HO}
+BL-3
+Q3 b.
+CO-1; SO-; What is data warehouse? Explain the phases in building a data warehouse. [10]
+BL-2
+” a What is data mining? Explain some of the key areas where businesses are
+CO-1; SO-; . ss [10]
+BL-2 leveraging data mining.
+riot BOs 1 What is CRM system? How it may be used to improve direct marketing? [10]
+Q5 a.
+CO-2; SO-; What is an ERP system? How business benefits by implementing ERP system? [10]
+BL-2 ‘
+Q5 b.
+CO-2; SO-; What is supply chain? Explain pull and push based supply chain model. [10]
+BL-2
+06 a Explain four basic analytical modelling activities involved in decision support 110]
+ae a systems with an example.
+Q6 b. F ‘ . ,
+Explain various knowledge generation strategies.
+CO-1; SO-; [10]
+BL-2
+Q7 a. Why social networks have grown so fast? Explain some limitations / problems
+CO-3; SO-; . ‘al medi [10]
+BL-2 with social media.
+Q7 b
+CO-4; SO-; Explain any two societal challenges in the use of IT. [10]
+BL-2
 Page 2 of 2
 ````
 

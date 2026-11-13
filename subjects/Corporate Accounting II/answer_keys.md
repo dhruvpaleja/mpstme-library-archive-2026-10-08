@@ -31,6 +31,16 @@ Instructions:
 10
 A.
 Page 1 of 5
+
+[Text in pictures on this page, read by OCR]
+Sr Particulars Dr Cr
+Bank 96,000
+To ESC 80,000
+To Sec premium 16,000
+Bank 3,80,000
+To Investments 3.00.000
+To PL 80,000
+Pref Sh cap 4,00,000
 --- page 2 ---
 Premium on
 

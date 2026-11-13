@@ -2777,8 +2777,8 @@ ee — — ~
 - Programmes: MBA TECH / MECHANICAL
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/DESIGN OF MACHINE ELEMENTS II/DESIGN OF MACHINE ELEMENTS I BATCH 2015-16,2016-17 Re-exam.pdf`
 - Printed on paper: exam date: 26 May 2017
-- Text: ocr (6 pages), mean OCR confidence 82.5
-- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: ocr (6 pages), mean OCR confidence 89.9
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 SVKM’s NMIMS
@@ -2977,77 +2977,25 @@ Liio\ car 2
 Figure No. 5
 All Dimensions are in mm
 --- page 6 ---
-nes)
-a
-= >
-a 2 &
-zt
-i) ~ in
-; 5 > Ss
-tAola oO S&S ££ KH Sw a Nw SG Sane
-SO:
-SL OS
-mm 2S
-28
-oe 7
-=
-a
-=
-aa
-th
-| od ; . . =
-ee: a , es t po
->
-=
-=
-|
-S
-he] on
-Siem “A
-a, Bi
-‘ a
-8 S
-ay 8
-& pore © Oo TO oF aS A Fe tw be % 3
-i4 =
-ms,
-=
-=
-mee
-SS
-a. =x =
-Ss
-ee
-a =
-fw wok Ww bh be Ee ee YY, Sof &
-a Os
-7% a &
-Q
-7 ~—t
-=
-aa
-a ‘ . , =
-oS oOo C2 390 Ve DA Oo in DD WN & tA — a
-ol EN
-= a)
-x =
-_ 2)
-S
-n
-~i &
-= 1
-=, J
-8 | 8
-ay gS
-. F , ) bod at,
-+ =
-=~
-=
-=
-=
-=
-ES
-Se
+The following table shows the proportions of standard parallel, tapered and gib head keys, according to IS :
+2292 and 2293-1974 (Reaffirmed 1992).
+
+Shafi diameter ‘Kev cross-section Shaft diamerer Key cross-section
+(pin) upto and (aunt upto and
+including Piedth (int) Thickness (mii) including Width Gum) | Thickness (nim)
+6 2 2 84 25 14
+8 3 3 OS 28 16
+10 4 4 110 32 18
+12 5 5 130 36 20
+7 6 6 140 AQ 22
+22 8 7 170 45 25.
+30 0 8 200 50 25
+38 2 a 230 56 a2
+Ad 4 9 260 63 32
+50 6 10 290) 70 36
+58 8 11 330 80 AO
+65 20 12 380 50 45
+75 22 14 440 100 50
 ````
 
 ## 2016-17 · Re-Exam · Sem 5 · paper 6d06a04310b3

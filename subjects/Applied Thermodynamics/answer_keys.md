@@ -70,6 +70,23 @@ BL-3
 - Indicated Power (IP): 53 kW
 - Mechanical Efficiency: 85% (3 Marks)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Heat input rate | kW | % Heat output rate kW %
+
+Heat supplied by | 140 | 100 | (a) Brake power 45 32.14%
+the fuel .
+(b) Rate of heat carried by 35 25%
+coolant
+
+(c) Rate of heat carried by
+
+28.3735 20.53%
+exhaust gases 8.37 0.53%
+(d) Rate of unaccounted
+heat losses 31.265 39.33%
+
+Total 140 | 100 Total 140 100
 --- page 3 ---
 Q3   a.   Quality at LP turbine exit:   Heat Added:
 CO-3; SO-1; BL-3   x4 = (s3 - sf)/(sg - sf)   Qboiler = h1 - hf = 3150 - 191
@@ -100,6 +117,27 @@ tower: 3 Marks
 Q4   Fig: 3 Marks
 CO-4; SO-1; BL-2   Working: 4 Marks
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Cooling water outlet Exaust steam
+
+ay
+
+Baffle plate
+
+End cover
+
+Divided
+water box
+
+Tube sheet
+
+I
+
+Cooling water inlet To condensate
+extraction pump,
+
+Air extraction pump
 --- page 4 ---
 b.   State 1 (Evaporator exit):   Compressor Work:
 h₁ = hf + x₁ hfg   w = h₂ − h₁ = 1712.6 − 1560.77 = 151.83 kJ/kg
@@ -152,6 +190,47 @@ CO-6; SO-7; BL-3   d.   Explain valve timing diagram for CI Engine with neat ske
 Fig: 2 Marks
 Working: 3 Marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Exhaust oleam
+¥
+
+¥
+
+r Cooling Water
+
+Water
+Spray
+
+Periorated J”
+Trays
+Air Pump [-—
+
+Condensate =
+
+Condensate
+Extraction
+Pump
+
+To Boiler
+
+Valve Timings : 4 Stroke CI Engine
+EVvc
+
+10°715°
+FI BIS
+
+Compression nN ds ction
+Stroke 4 Stroke
+
+20°- Bo
+a 45 Power/
+Exhaust
+
+Expansion
+Stroke Stroke
+
+BDC
 ````
 
 ## 2025-26 · Final-Exam · Sem 8 · Answer key · paper 710fe133e8c9
@@ -222,6 +301,23 @@ BL-3
 - Indicated Power (IP): 53 kW
 - Mechanical Efficiency: 85% (3 Marks)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Heat input rate | kW | % Heat output rate kW %
+
+Heat supplied by | 140 | 100 | (a) Brake power 45 32.14%
+the fuel .
+(b) Rate of heat carried by 35 25%
+coolant
+
+(c) Rate of heat carried by
+
+28.3735 20.53%
+exhaust gases 8.37 0.53%
+(d) Rate of unaccounted
+heat losses 31.265 39.33%
+
+Total 140 | 100 Total 140 100
 --- page 3 ---
 Q3   a.   Quality at LP turbine exit:   Heat Added:
 CO-3; SO-1; BL-3   x4 = (s3 - sf)/(sg - sf)   Qboiler = h1 - hf = 3150 - 191
@@ -252,6 +348,27 @@ tower: 3 Marks
 Q4   Fig: 3 Marks
 CO-4; SO-1; BL-2   Working: 4 Marks
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Cooling water outlet Exaust steam
+
+ay
+
+Baffle plate
+
+End cover
+
+Divided
+water box
+
+Tube sheet
+
+I
+
+Cooling water inlet To condensate
+extraction pump,
+
+Air extraction pump
 --- page 4 ---
 b.   State 1 (Evaporator exit):   Compressor Work:
 h₁ = hf + x₁ hfg   w = h₂ − h₁ = 1712.6 − 1560.77 = 151.83 kJ/kg
@@ -304,6 +421,47 @@ CO-6; SO-7; BL-3   d.   Explain valve timing diagram for CI Engine with neat ske
 Fig: 2 Marks
 Working: 3 Marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Exhaust oleam
+¥
+
+¥
+
+r Cooling Water
+
+Water
+Spray
+
+Periorated J”
+Trays
+Air Pump [-—
+
+Condensate =
+
+Condensate
+Extraction
+Pump
+
+To Boiler
+
+Valve Timings : 4 Stroke CI Engine
+EVvc
+
+10°715°
+FI BIS
+
+Compression nN ds ction
+Stroke 4 Stroke
+
+20°- Bo
+a 45 Power/
+Exhaust
+
+Expansion
+Stroke Stroke
+
+BDC
 ````
 
 ## 2025-26 · Re-Exam · Sem 4 · Answer key · paper f5b1204b9bca
@@ -391,6 +549,13 @@ Q6   a.   Blade efficiency = 78.8 % (4 Marks)   [10]
 CO-3; SO-1;   Power developed = 476.6 kW (4 Marks)
 BL-3   Stage efficiency = 77.2 % (2 Marks)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Quantity Answer
+(a) Free Air Delivered 2.45 m?/min
+(b) Volumetric efficiency (free air basis) 87%
+
+(c) Indicated power 16.3 kW
 --- page 3 ---
 CO-3; SO-1;   b.   Fig: 3 Marks   [10]
 BL-3   Working: 4 Marks
@@ -492,6 +657,13 @@ Q6   a.   Blade efficiency = 78.8 % (4 Marks)   [10]
 CO-3; SO-1;   Power developed = 476.6 kW (4 Marks)
 BL-3   Stage efficiency = 77.2 % (2 Marks)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Quantity Answer
+(a) Free Air Delivered 2.45 m?/min
+(b) Volumetric efficiency (free air basis) 87%
+
+(c) Indicated power 16.3 kW
 --- page 3 ---
 CO-3; SO-1;   b.   Fig: 3 Marks   [10]
 BL-3   Working: 4 Marks

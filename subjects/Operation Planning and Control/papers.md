@@ -385,6 +385,37 @@ Explain the concept of servitization in manufacturing and its advantages. (5 mar
 5. Develop a Linear Regression Analysis for the following data.   10
 Forecast for period 13 ( Next January).
 Page 2 of 3
+
+[Text in pictures on this page, read by OCR]
+HiTek Computer Services repairs and services personal computers at its store, and it makes
+local service calls. It primarily uses part-time State University students as technicians. The
+company has had steady growth since it started. It purchases generic computer parts in vol-
+ume at a discount from a variety of sources whenever they see a good deal. Thus, they need a
+good forecast of demand for repairs so that they will know how many computer component
+parts to purchase and stock, and how many technicians to hire.
+
+The company has accumulated the demand data shown in the accompanying table for re-
+pair and service calls for the past 12 months, from which it wants to consider exponential
+smoothing forecasts using smoothing constants (@) equal to 0.30 and 0.50.
+
+Demand for Repair and Service Calls
+
+Period Month Demand Period Month Demand
+1 January 37 7 July 43
+2) February 40 8 August 47
+3 March 41 9 September 56
+ft April 37 10 October 52
+5 May 45 11 November 55
+
+6 June 50 12 December 54
+
+Period Month Demand Period Month Demand
+1 January 37 7 July 43
+2 February 40 8 August 47
+3 March 41 9 September 56
+4 April 37 10 October 52
+5 May 45 11 November 55
+6 June 50 12 December 54
 --- page 3 ---
 6. Carpets manufactures Cascade carpet, which it sells in its adjoining showroom store near the   10
 interstate. Esti mated annual demand is 20,000 yards of carpet with an annual carrying cost of
@@ -442,6 +473,37 @@ Explain the concept of servitization in manufacturing and its advantages. (5 mar
 5. Develop a Linear Regression Analysis for the following data.   10
 Forecast for period 13 ( Next January).
 Page 2 of 3
+
+[Text in pictures on this page, read by OCR]
+HiTek Computer Services repairs and services personal computers at its store, and it makes
+local service calls. It primarily uses part-time State University students as technicians. The
+company has had steady growth since it started. It purchases generic computer parts in vol-
+ume at a discount from a variety of sources whenever they see a good deal. Thus, they need a
+good forecast of demand for repairs so that they will know how many computer component
+parts to purchase and stock, and how many technicians to hire.
+
+The company has accumulated the demand data shown in the accompanying table for re-
+pair and service calls for the past 12 months, from which it wants to consider exponential
+smoothing forecasts using smoothing constants (@) equal to 0.30 and 0.50.
+
+Demand for Repair and Service Calls
+
+Period Month Demand Period Month Demand
+1 January 37 7 July 43
+2) February 40 8 August 47
+3 March 41 9 September 56
+ft April 37 10 October 52
+5 May 45 11 November 55
+
+6 June 50 12 December 54
+
+Period Month Demand Period Month Demand
+1 January 37 7 July 43
+2 February 40 8 August 47
+3 March 41 9 September 56
+4 April 37 10 October 52
+5 May 45 11 November 55
+6 June 50 12 December 54
 --- page 3 ---
 6. Carpets manufactures Cascade carpet, which it sells in its adjoining showroom store near the   10
 interstate. Esti mated annual demand is 20,000 yards of carpet with an annual carrying cost of
@@ -499,6 +561,37 @@ Explain the concept of servitization in manufacturing and its advantages. (5 mar
 5. Develop a Linear Regression Analysis for the following data.   10
 Forecast for period 13 ( Next January).
 Page 2 of 3
+
+[Text in pictures on this page, read by OCR]
+HiTek Computer Services repairs and services personal computers at its store, and it makes
+local service calls. It primarily uses part-time State University students as technicians. The
+company has had steady growth since it started. It purchases generic computer parts in vol-
+ume at a discount from a variety of sources whenever they see a good deal. Thus, they need a
+good forecast of demand for repairs so that they will know how many computer component
+parts to purchase and stock, and how many technicians to hire.
+
+The company has accumulated the demand data shown in the accompanying table for re-
+pair and service calls for the past 12 months, from which it wants to consider exponential
+smoothing forecasts using smoothing constants (@) equal to 0.30 and 0.50.
+
+Demand for Repair and Service Calls
+
+Period Month Demand Period Month Demand
+1 January 37 7 July 43
+2) February 40 8 August 47
+3 March 41 9 September 56
+ft April 37 10 October 52
+5 May 45 11 November 55
+
+6 June 50 12 December 54
+
+Period Month Demand Period Month Demand
+1 January 37 7 July 43
+2 February 40 8 August 47
+3 March 41 9 September 56
+4 April 37 10 October 52
+5 May 45 11 November 55
+6 June 50 12 December 54
 --- page 3 ---
 6. Carpets manufactures Cascade carpet, which it sells in its adjoining showroom store near the   10
 interstate. Esti mated annual demand is 20,000 yards of carpet with an annual carrying cost of
@@ -556,6 +649,37 @@ Explain the concept of servitization in manufacturing and its advantages. (5 mar
 5. Develop a Linear Regression Analysis for the following data.   10
 Forecast for period 13 ( Next January).
 Page 2 of 3
+
+[Text in pictures on this page, read by OCR]
+HiTek Computer Services repairs and services personal computers at its store, and it makes
+local service calls. It primarily uses part-time State University students as technicians. The
+company has had steady growth since it started. It purchases generic computer parts in vol-
+ume at a discount from a variety of sources whenever they see a good deal. Thus, they need a
+good forecast of demand for repairs so that they will know how many computer component
+parts to purchase and stock, and how many technicians to hire.
+
+The company has accumulated the demand data shown in the accompanying table for re-
+pair and service calls for the past 12 months, from which it wants to consider exponential
+smoothing forecasts using smoothing constants (@) equal to 0.30 and 0.50.
+
+Demand for Repair and Service Calls
+
+Period Month Demand Period Month Demand
+1 January 37 7 July 43
+2) February 40 8 August 47
+3 March 41 9 September 56
+ft April 37 10 October 52
+5 May 45 11 November 55
+
+6 June 50 12 December 54
+
+Period Month Demand Period Month Demand
+1 January 37 7 July 43
+2 February 40 8 August 47
+3 March 41 9 September 56
+4 April 37 10 October 52
+5 May 45 11 November 55
+6 June 50 12 December 54
 --- page 3 ---
 6. Carpets manufactures Cascade carpet, which it sells in its adjoining showroom store near the   10
 interstate. Esti mated annual demand is 20,000 yards of carpet with an annual carrying cost of
@@ -613,6 +737,37 @@ Explain the concept of servitization in manufacturing and its advantages. (5 mar
 5. Develop a Linear Regression Analysis for the following data.   10
 Forecast for period 13 ( Next January).
 Page 2 of 3
+
+[Text in pictures on this page, read by OCR]
+HiTek Computer Services repairs and services personal computers at its store, and it makes
+local service calls. It primarily uses part-time State University students as technicians. The
+company has had steady growth since it started. It purchases generic computer parts in vol-
+ume at a discount from a variety of sources whenever they see a good deal. Thus, they need a
+good forecast of demand for repairs so that they will know how many computer component
+parts to purchase and stock, and how many technicians to hire.
+
+The company has accumulated the demand data shown in the accompanying table for re-
+pair and service calls for the past 12 months, from which it wants to consider exponential
+smoothing forecasts using smoothing constants (@) equal to 0.30 and 0.50.
+
+Demand for Repair and Service Calls
+
+Period Month Demand Period Month Demand
+1 January 37 7 July 43
+2) February 40 8 August 47
+3 March 41 9 September 56
+ft April 37 10 October 52
+5 May 45 11 November 55
+
+6 June 50 12 December 54
+
+Period Month Demand Period Month Demand
+1 January 37 7 July 43
+2 February 40 8 August 47
+3 March 41 9 September 56
+4 April 37 10 October 52
+5 May 45 11 November 55
+6 June 50 12 December 54
 --- page 3 ---
 6. Carpets manufactures Cascade carpet, which it sells in its adjoining showroom store near the   10
 interstate. Esti mated annual demand is 20,000 yards of carpet with an annual carrying cost of
@@ -1846,8 +2001,9 @@ K
 - Programmes: MBA TECH
 - Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/OPERATION PLANNING AND CONTROL/scan0019(12).pdf`
 - Printed on paper: max marks: 50; duration hours: 2; exam date: 04/01/2013
-- Text: ocr (16 pages), mean OCR confidence 35.7
-- 103 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: ocr (16 pages), mean OCR confidence 52.3
+- 5 pages scanned sideways or upside down, turned upright before OCR
+- 92 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -1938,34 +2094,153 @@ S
 
 &
 --- page 4 ---
-B322 BSRSREPeuesar -ou88 5 3
-Bag8 BB 3 2235 css 82 53 ZFRGARS Ss
 
-~   pgeg% gases
+linking “upstream” manufacturing operations and retail activities to "downstream" consumer Knitwear market was a mere 0.5%. In 1990, DD's annual sales were expected to total about
+demand in order to create a supply chain with the requisite speed and flexibility to respond quickly 250,000,000FF.? Exports comprised 35% of the company’s total sales.
 
-8 $38ye222%
-gies
-a 28ghsd see
-re) Be Sag cee
-= 28 »o
-S Bo e88ar es
+to shifting market demand, Operating in a quick-response mode involved making demand forecasts
 
-Pre ere
-BaaEe 88
-gee" 2585
-Egigogaag
+and establishing production schedules closer to the selling season, reducing manufacturing lead Operations
 
-usae varysues puegeeezres '
-Sib z 3 Beas
+times, and basing replenishment on actual sales data, thereby ensuring that the supply chain could
 
-SFesn
-Bester
+meet consumer needs in an efficient manner.
+Doré-Doré's operations were divided between two main sites: the Mery plant (20 km from
+
+Marguet thought the primary benefit Doré-Doré would derive from introducing quick Troyes) encompassed all children's knitwear operations; the Grés complex (10 km from Troyes)
+response in its hosiery operations would be to reduce finished goods inventory levels, since retailers housed the company's headquarters and central hosiery factory. Both knitting and sewing plants
+could already replenish DD's basic hosiery items within a few days. Marguet hoped that the existed within. the Grés complex. One-quarter of DD's hosiery was knit in the Grés plant; the
+greater flexibility afforded by a quick-response strategy might also allow DD to move from its remainder was knit in 11 small knitting shops located near Gres, each run as an individual family
+current two collections (Spring/Summer and Fall/Winter) per year to four. Four collections would business. All hosiery knitting operations fed the Grés sewing plant, where all of the hosiery was
+enhance the company's ability to meet consumer preferences; in particular, if this change were sewn, washed, ironed, inspected, and packaged. Throughout the entire factory system, 37,000 pairs
+accompanied by a compressed product development cycle, fashion trends could be more readily of hose and 2,000 children's garments were produced each day.
+incorporated into designs. Four collections per year might also reduce seasonal demand fluctuations
+by giving the salesforce a stream of new products to show its customers. Each season, DD produced each style in two "campaigns," i.e., the season's production for
+
+each style was divided into two separate batches. Early in the production season, when few, if
+any, retailers had placed orders, a first,batch of each style was produced. Later, as information
+
+. Company Background about retailers’ initial orders became available, preliminary forecasts were revised and a second
+production campaign was run to meet anticipated needs for each product. Even with the two-
+Doré-Doré had established itself as°a world-class manufacturer of fashionable knitted campaign system, forecasts were uncertain; nearly all production took place before end-consumers’
+products. Its Hosiery Division produced socks and stockings for men, women, and children; its demand could be observed. As a consequence, high inventory carrying costs were incurred and many
+Knitwear Division produced a line of children's knitwear such as playclothes, sweaters, and 4 items were left unsold. For example,in fall/winter 1988/89, when 20% of hosiery inventory could
+nightclothes (Exhibit 3 shows product samples)... The hosiery division accounted for 88% of DD's not be sold at full price, 90% of the excess stock was sold the following year at cost in Doré-Doré
+sales. (Of this 88%, 45% were men's,.20% women's, and 35% children's hosiery products.) The closeout sales or through Zanzi, its discount "second-quality" label. The remaining 10% was sold
+company offered both "classic" items, such as black dress socks and navy knit sweatshirts, and below cost through discounters and factory outlets. (Exhibit 4 outlines DD's cost structure for
+“fashion” items which were closely tied to the latest Parisian fashions. Seventy-five percent of . hosiery.) Though some hosiery items suffered stockouts, management's main concern was unsold
+Doré-Doré's knitwear collection changed each years in hosiery, approximately 50% were items: once out of fashion, they became nearly worthléss. Across its two divisions, DD held an
+"classics." & average of 21,000,000FF of raw material inventory, 13,000,000FF of work in process inventory, and
+45,000,000FF of finished goods inventory. Firms in the industry typically experienced inventory
+Doré-Doré focused on the high end of its markets with regard to both quality and fashion. carrying costs in the 20% to 25% range.
+Its hosiery line was characterized by unusual breadth and detail. For example, its sportswear
+collection was designed to accommodate subtle wear requirements: high altitude skier's wool socks To forecast demand, Doré-Doré relied heavily on the intuition and experience of its veteran
+were lined with silk to provide an additional layer of warmth andomfort, and tennis socks were sales representatives and production coordinators, In conjunction with a Materials Requirements
+designated by the type of playing court—clay, grass, or hard court—since, for example, tennis Planning (MRP) system, forecasts were used to plan material purchases and schedule production.
+players tend to slide more on clay than on hard courts. Its citywear collection featured traditional, Forecasting demand was complicated by Doré-Doré's fashion focus—the popularity of different
+elegant men's dress socks and stylish, comfortable women's socks and stockings. Lastly, its styles was highly unpredictable, and even successful styles often enjoyed only short periods of
+fashionwear collection included wildly patterned women's stockings and "self-assertive" socks for popularity. Yet fashion items were extremely important strategically, playing a key role in the
+men. Doré-Doré produced hose not only under its DD trademark, but also forfamous designers such sale of standard products to both retailers and consumers. DD believed that fashion products lured
+as Yves St. Laurent, Nina Ricci, and Chantal de Thomas. DD quality manifested itself in exclusive customers into stores, where they were likely to supplement their fashion purchases with standard
+yarns such as cotton lisle, silk, and fine wools; stringent quality control; a wide range of sizes; items made by the same manufacturer.
+double reinforcement of heels and toes; invisible seams; and impeccable fit. Unlike most hosiery
+manufacturers, Doré-Doré worked with two different calf shapes for men's and women's hose to Marguet's desire to reduce manufacturing lead times was confounded by his concern that
+achieve the best possible fit. allowing production to closely track seasonal demand fluctuations would conflict with the
+company’s desire to maintain level employment in its manufacturing facilities. Doré-Doré had a
+Doré-Doré served nearly 8,000 French clients, concentrating on specialty retailers and social and legal obligation to provide its workers with year-round employment. In addition, since
+exclusive department stores such as Le Printemps and Les Galeries Lafayette. Although the high- DD, like most French companies, closed during the month of August to allow employees vacation
+end segment represented only 5% of the French hosiery market, DD commanded, a 30% to 40% . time, production schedules and deliveries from suppliers faced this annual constraint.
+
+market share in this segment. Overall, Doré-Doré's hosiery represented 4% to 5% of the French
+market in units, and 6% to 8% of the sales in French Francs. DD's share of the French children's
+
+2In July 1990, the conversion rate for French Francs (FF) to U.S. dollars was 5.3FF = $1.
 --- page 5 ---
-Poe 8B
-2382
 
-$5
-QRAR
+Cellular Manufacturing Experiments in the Marguet to investigate possible changes in organizational and operational design to shorten
+
+Children's Knitwear Division production lead times. One option was a cellular manufacturing system, in which a group of cross-
+trained workers operated a small cluster of machines to manufacture a family of similar items (see
+Exhibit 6). A key principle underlying the cell concept was that the groups were autonomous,
+
+Doré-Doré's children's knitwear offering had evolved from a modest line of sweaters to a managing théir own time, distribution of work, and work flow.
+
+. full line of sweaters, sweatshirts, dresses, skirts, trousers, shorts, and t-shirts. Although Marguet
+was primarily concerned about excessive inventories in the hosiery division, a number of factors led
+him to begin his manufacturing experimentation in the children's knitwear division. First, it
+seemed prudent to conduct a preliminary experiment outside of Doré-Doré's flagship hosiery line.
+knitwear was less dependent than hosiery on expensive, heavy machinery; experimenting with
+hosiery would likely encounter more equipment constraints. Third, children’s knitwear was a more
+competitive market; Marguet knew that competitors in this area were actively investigating ways
+to innovate. In addition to any benefits to the children's knitwear division, Marguet expected his
+experiments to:provide valuable clues for potential improvements in the hosiery division's
+operatians.
+
+In contrast, in a traditional batch production system such as that currently used by DD, each
+worker repeatedly performed a single, specific task on each garment in a large batch of identical
+items, thereby developing an expertise and a rhythm that fostered high levels of speed,
+productivity, and product uniformity. The knitwear factory was currently organized by machine
+type—for example, all button hole machines were located in one area, Batches of partially
+completed product were moved in wheeled bins by floor supervisors or material handlers to the next
+required operation. (Exhibit 7 shows the traditional layout of the knitwear sewing floor.)
+
+In July 1989 Marguet asked an industry organization, Institut Textile de France (ITF), to
+design a flexible manufacturing cell for the knitwear sewing operations. After documenting what
+each worker did at every’step of the sewing process for a variety of products, ITF suggested that six
+workers would be an appropriate number for balancing the process within a cell.
+
+Doré-Doré's knitwear operations were housed at the Mery plant. Approximately 200
+different styles ‘were manufactured in @ach of two annual collections. Each style was offered in a
+variety of colors and sizes. Eighty percent of knitwear production was sold under the Doré-Doré
+label, with the remaining 20% divided between two private labels, Chantal de Thomas and Monde
+des Enfants. The planning and production cycle for knitwear was divided into five steps (see also
+Exhibit 5):
+
+After a team of Doré-Doré managers.and ITF consultants met with small groups of knitwear
+sewing personnel to explain the experiment, twenty out of the 42 knitwear workers volunteered to
+participate in the first cell. ITF chose six of the volunteers, along with the initial products to be
+manufactured and the machines to equip the first cell. The first product to be produced in the cell
+Yarn and Fabric Suppliers (2 1/2 months average/lead time) Doré-Doré's select group of yarn and would be a child's sweatshirt, a staple clothing item: that was fairly simple to manufacture.
+fabric suppliers might need up to three months to deliver ordered materials.
+
+Cell Design
+Knitting (2 weeks average throughput time) ‘The Mery plant knit both dyed and undyed yarn.
+Bolts of cloth knit from pre-dyed yarn were sent directly to the cutting room, whereas undyed
+(greige") cloth was first diverted to an outside dyer.
+
+The first cell was designed by ITF with the help of a consultant from EureLog, a European
+logistics research institute. Six people and twelve sewing machines were assigned to the cell. Most
+‘ of the machines had different sewing capabilities. There wassome duplication of machinery in
+Dyeing (5 weeks average lead tinte) Undyed cloth was sent to a dye subcontractor. the cell, dictated by how long and how often a particular operation would need to be performed.
+Sewing machines for knitwear cost from 30,000-80,000FF.
+
+Cutting (1 week average throughput time) After stacking multiple layers of cloth on a cutting
+table and topping the layer with a paper pattern, workers used high-speed saws to cut multiple
+pieces from a single pattern. Workers took care to ensure the integrity of the finished product—
+that stripes, for example, would match exactly across seams.
+
+If a machine in a cell broke down, it would have to be quickly repaired or replaced; if
+possible, during the tepair period, the worker would move to another machine within the cell to
+continue working. (In DD's traditional operation, each worker was assigned to a specific machine;
+thus, if a machine broke down, the worker sat idle while waiting for repairs.) To replace a
+machine in the cell, the plant's single maintenance worker had. to climb a laddér to unplug and
+
+Sewing and Finishing (3 weeks average throughput time) Workers assembled cut pieces and added . move the existing machine and replace it with a new machine. The-replacement might also require
+final touches such as buttons and buttonholes. a set-up period of 5 to 10 minutes while the machine was threaded or had its settings adjusted.
+Doré-Doré's average production batch size in sewing was 200 pieces of the'same style and Batches of about 200 pieces of the same style and color were expected to move quickly
+color, with an average of eight different sizes within a batch. Doré-Doré management believed its through the cell. Unlike the batch production system in which each worker completed an
+batch sizes, which had been halved in recent years, were small relative to those of manufacturers operation on every unit in a batch before passing the entire batch to the next operation, in the cell,
+of similar products. Doré-Doré's products manufactured under designer labels typically were made batches were split and passed from operation to operation as individual units. When a batch
+in larger batches. Workers in the sewing operation were compensated under aypiece-rate system, arrived at the cell, an operator would perform the first operation on the first piece-in the batch and
+averaging 6,800FF per month including benefits. The knitwear sewing room had 55 sewing machines then place the completed piece next to her station where it was accessible to other operators. After
+installed and was staffed by 42 workers. The additional machines were either specialty machines completing whatever pieces preceded that piece, the next operator would perform the second
+used for occasional operations or extra machines used in periods of peak demand. operation, and then place the piece between her station and the next operation. Each piece passed
+through the necessary operations in the cell in this manner. If work began to accumulate in front of
+Sewing an average knitwear garment took 10 minutes of actual labor. The discrepancy any operation, any cell worker cross-trained in that operation could stop her current task and help
+between this time and the three-week period it took a garment to pass through these operations led work through the accumulated pieces. In this way, the workers in the cell balanced their work and
+3 6
+
+5
 --- page 6 ---
 s reese oe g ae eaiaen ores
 Bgegyeee af2 g22e82 Fages $Fs
@@ -2128,78 +2403,80 @@ agieee Fee F ck
 gee e
 ee
 --- page 8 ---
-suowessdo £
-sowndo pouen-so9   O,
+Exhibit? Conveptto-Customet Cpe Timaline for History wren
 
-=
-: smo V7
-sonveme
->
-7 ‘
-swonedo 9 vonesdo zwonesadg
+0 wo
 
-’>V 6+ TV @ <@
+re a
+
+Simple mse
+
+Yana chase
+Prlopee made
+Yar oder
 
 a
+Sanne
 
-Vv .
-%
+take onde
+foeperiend
+Frenette
 
-& 0 ey
-yt® gO O
+Probucion bein
 
-uoeado, zuomesad Veoneado
+Dever telores
 
-%
+Doré-Doré’s Average Cost Structure for Hosiery
 
-<—__ ‘
+x Raw Material 7.80 FF
+Knitting 0.90 FF
+Sewing 0.95 FF
+Ironing 0.15 FF
+Quality Control and Finishing 072 FF
+Factory vend 5.80 FF
+Cost for Seconds and Closcouté 110 FE
+Total Manufacturing Cost 1742 FF per pair
+‘Wholesale Selling Price 30-32 FF per pair
+Retail Selling Price “60-70 FF per pair
 
-‘MOLL HOM JO WonDaZIC [e249
+‘The difference between the wholesale selliig price and total manufacturing cost represents DD's
+selling and administrative expenses and profit margin.
+
+I}
+
+Exhibit § Knitwear Production Workflow
 
 
-sb
+weeks ‘Swoeks week weeks:
 
-a} a
+we i)
 
-spon s Rmatd
+“
+. i
+—
+a
+75
+ene owt Dent
+Exhibit 6 Prototype U-Shaped Design of a Flexible Cell
+Genera Direction of Work Flow
+—————>
+Operation 1 Operation 2 Operation 3
 
+re) ofA we 4A
+AA
 
-MOHOM YOIINPOY OMAN W
+©> Oo Ama
 
+Operation 7 Operation 6 Operation 5
+r ‘
 
+we
 
-aedsed 44 21 sop Suunpesnuey (eo,
-does peoyiang Lopes
-aasto Sajvoq,
-44960 Sunes
-44060 Sunuuy
-$4084 Tua Mey %
+Work Places
+ZA Workin Process
 
-Aaaysop} 403 aanznung ys0D aBemay $920G-910 NG
-
--
-
-==
-eens
-ES r see
-
-¥ es
-
-a] cw. tag woneapend
-
-coir
-Ess CC) Sips
-
-oO a
-C4 rou ents
-oe
-
-<—anosyvi
-
-Tnvnafanosvitnvnat
-ast ost
-
-Lom 2) 2pm A PucmorAowD EN
+O 6 Crose-Trained Operators
+7 Operations
 --- page 9 ---
 soneuado Buns UREA 10
 
@@ -2230,45 +2507,72 @@ ea <r ane vonena ein
 ELBE _ i
 
 --- page 10 ---
-(exe) g os
-8
-Oo q £¢C
-Q z SZ
-z g eg
-oO 5 aR
-tH
-2
-5 00 ood .
-o 8 eooo000000 Bs
+Doré-Doré
+
+Exhibit 14 Hosiery Operations—Traditional and Enfert’s Cell Proposal
+
+Traditional Configuration
+
+692-028
+
+_ Basement
+i
+1 UTILITY:
+| ROOM
+'
+1
+LAUNDRY ! IRONING >
+(2workers) | (12 workers) ae
+1 Be
+f OTILITY: Zé
+i ROOM ea
+a
+1
+Ground Floor
+; r
+| 0900000 0;0 Oo Oo
+10 © 9 9 0 0 0/0 0 Oo LD Toor
+1 0 0 0 0 00 030 0 TOE CLOSING
+'
+omices 1 2 °2°000
+' 0900000
+'oo oo 00 0 0 0
+f << REGULAR
+10020000000 TOE CLOSING
+1; 0000000000
+(92 workers)
+First Floor
+° O° ° °
+@) e) ie) oe)
+QUALITY CONTROL AND PACKAGING
+(107 workers)
+[oumne) oO Oo [oumne) (oem)
+25
+
+692-028 Doré-Doré
+
+Exhibit 14 Hosiery Operations—Traditional and Enfert's Cell Proposal (continued)
+Enfert's Cell Proposal
+
+QUALITY CONTROL
+TOE CLOSING AND PACKAGING
+
+a 8
+
+¢ ene '@
+Cec ca
+Am) ——_——)
+z IRONING peas |__| EwproiDERY
+2 MACHINE MACH! [|
+9 Z
+= 2
+¢ @ co:
+coe che 1@
+‘TOE CLOSING QUALITY CONTROL
+
+AND PACKAGING
+
 26
-9 29
-Og ©o0000000 a2
-g2 e0000000
-re OO
-3 ooo000000
-aac)
-° 5 ©o0000000
-0% eoo0000000 2G:
-a eo0000000 5
-(exe) poesveneesensennesee Eee.
-oo00!i00000
-ie) i
-ecoo0i00000
-fe) H EMBROIDERY
-ooo0;j00000 (13 workers)
-ce gE
-ee 0g
-ae
-a 48
-LAUNDRY
-s8 OG go a
-O Ss fs Ed
-“Aa
-oj
-
-fa 3
-
-lo
 --- page 11 ---
 3a geo 5
 ce, pike.
@@ -2452,75 +2756,84 @@ $828 g492 Fee- 298 BSeSah8se F 3
 tone odga: B25 H seeeese | i
 529 88288 aie a B2asedha 9 z
 --- page 16 ---
-a
-g
-SEeE zu
-Sara D>
-Bag a
-rs
-Fas
-Ee?
-gE 2
-SEUSS
-ZaBS
-Bga8
-ze 2
-go2F
-8220
-BaP
-Boa F
-4
-agey
-Bees
-g255
-Bpak
-. Bye:
-8e6u
-Qaar
-° ate
-gee 5B > ee
-28 BSBZRER 2 ay
-a3 0 a g278 BEERS E 3 Bdg-2
-Re8hu ve o3g 2 F2E Ses 9 2288
-aad Se a8 se wee Roo = oD 5ogs
-a$5a5 82 Sag SgSGFGer F 2 aeeo
-eS, oe < $500 Saabs = 3 UB EI
-BREE 87s Vaage Fee R= 2g = ae pe
-sisey 26 zee 2355055 & $3sas
-Rige 3 ao@e 8 R2bbes & Fa S55
-sfsie 9% gaak f 2eh28e 3 ered
-3 B 8 greg ees =
-apegs Be GBeE pcpeEEc2 2 G3ER
-BS zZaS 33 goes Es RSE 3 Sag
-Boe ges Zoo 8 88 3 Ea
-3 FE 3823 8 B25E5 3 a hE
-Esse 3 oe S32 ZeEzog ia 3 eRe
-Bas 3 Rezeog age
-a5 5 Beek ZEESEGSe Soe
-gest 52.2283 Bq tShez3 RRR
-2g 8 a] 2282 SES ee 823 Fag
-BS 2°? 5. B2eF BRE Es as 8 265
-eee 3 Sele Beg 88S x § 2
-a ae. Eee
-gree ak are oes Oe eg8
-are Bs geek ay Fosse
-ad o & Bp 3 gag
-Bea 52 3Bso & gaea Fs g
-teg2 58 eg$e 8 eRGks 5
-s g oa > a
-a bed 2 o f Oo
-A] e2 2 Fal eo 223s a3 5583
-EUoe 5° eaa8 EB eae v3
-BRB Fae Se2bags Be
->Fa8 BE ERS ag age a SEB sz
-2 Bese 288 Eoess
-sein 8 BETS se 5
-ghae 2 aeLS SEREPEs
-eo 38 a ad
-ugxe 28
-EeRB
-Fae
-3344
+Shouldice Hospital Limited 683-068, 683-068 Shouldice Hospital Limited
+
+Round-trip fares for travel to Toronto from various major cities on the North American . For now, I have my hands full thinking about the selection of someone to
+
+continent ranged from roughly $200 to $600. succeed Dr. Obney when he retires. He’s 65, you know. And for good reason, he’s
+
+resisted changing certain successful procedures that I think we could improve on. We
+
+In addition to providing free services to the clergy and to parents of hospitalized children, the had quite a time changing the:schedule for the administration of Demerol to patients
+
+hospital also provided annual checkups to its alumni, free of charge. Many of them occurred at the to increase their comfort level during the operation. Dr. Obney has opposed a
+
+time of the annual reunion, The most recent reunion, featuring dinner and a floor show, was held at a Saturday operating program on the premise that he won’t be here and won't be able
+first-class hotel in downtown Toronto and was attended by 1,400 former patients, many of them from to. maintain proper control.
+
+outside Canada.
+Alan O'Dell added his own concerns:
+
+The reunion was scheduled to coincide with the mid-January decline in activity at the
+
+hospital, when an average of only 145 operations per week were performed. This was comparable to How should we be marketing our services? Right now, we don’t. We're even
+a similar lull in late summer and contrasted with the peak of activity in September, when as many as afraid to send out this new brochure we've put together for fear it will generate too
+165 operations pet week might be performed. much demand. We know that both patients and doctors believe in what we do. Our
+records.show that just under 1% of our patients are medical doctors,.a significantly
+It was thought that patients from outside Canada were discouraged from coming to Toronto high percentage. How should we capitalize on that? And should we try to control the
+in midwinter by often misleading weather reports. Vacations interfered with plans in late summer. misuse of the hospital’s name by physicians who say they use our techniques but
+For many of the same reasons, the hospital closed for two weeks late in December each year. This don’t achieve good ‘esults? We know it's going on, because we get letters from
+allowed time for major maintenance work to be performed. Throughout the year, no operations were patients of other doctors claiming that our method didn’t work.
+scheduled for Saturdays or Sundays; although patients whose operations were scheduled late in the :
+week remained in the hospital over the weekend. On the other hand, I’m concerned about this talk of Saturday operations. We
+
+are already getting good utilization of this facility. And if we expand further, it will
+
+be very difficult to maintain the same kind of working relationships and attitudes.
+
+Already there arerumors floating around among the staff about it. And the staff is
+Problems and Plans not pleased.”
+
+We still have some improvements to make in our systems. With more
+extensive computerization, for example, we could improve our admitting
+procedures.
+
+When asked about major questions confronting the management of the hospital, Dr.
+Shouldice cited a desire to seek ways of increasing the hospital's capacity while at the same time
+maintaining control over the quality of the service delivered, the future role of government in the
+operations of the hospital, the use of the Shouldice name by potential competitors, and the selection of
+
+the next chief surgeon. ¥ The matter of Saturday operations had been a topic of conversation among the doctors as
+
+well. Four of the older doctors were opposed to it. While most of the younger doctors were indifferent
+or supportive, at least two who had been at the hospital for some time were particularly concerned
+about the possibility that the issue would drive a wedge between the two groups. As one put it, “I'd
+hate to see the practice split over the issue.”
+
+As Dr. Shouldice put it:
+
+I'ma doctor first and an entrepreneur second. For example, we could refuse
+permission to other doctors who want to visit the hospital. They may copy our
+technique and misapply it or misinform their patients about the use of it. This results
+in failure, and we are concerned that the technique will be blamed for the
+recurrences. But we're doctors, and it is our obligation to help other surgeons learn.
+On the other hand, it’s quite clear that others are trying to emulate us. Look at this ad.
+[The advertisement is shown in Exhibit 4.]
+
+This makes me believe that we should add to our capacity, either here or
+elsewhere. Here, for example, we could go to Saturday operations and increase our
+capacity by 20% or, with an investment of perhaps $2 million and permission from
+the provincial government, we could add another floor of rooms to the hospital,
+expand our number of beds by 50%, and schedule the operating rooms more heavily.
+
+On the other hand, with government regulation being what it is, do we want
+to invest more money in Toronto? Or should we establish another hospital withy
+similar design outside Canada? I have under consideration a couple of sites in the
+United States where private hospital operations are more common. Then, too, there is
+the possibility that we could diversify at other locations into other specialties offering
+similar opportunities such as eye surgery, varicose veins, or hemorrhoids.
+
+" 12
 ````
 
 ## 2012-13 · Re-Exam · Trim 14 · paper b60a47d3c69c

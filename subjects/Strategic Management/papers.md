@@ -3674,8 +3674,9 @@ V
 - Programmes: MBA TECH / CHEMICAL, MBA TECH / I T
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/CHEMICAL/TRIM XII/Strategic Management/2009-2010(182).pdf` (+1 identical copies)
 - Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (6 pages), mean OCR confidence 70.3
-- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: ocr (6 pages), mean OCR confidence 92.0
+- 2 pages scanned sideways or upside down, turned upright before OCR
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SVK M S NMIMS
@@ -3728,110 +3729,277 @@ collaboration?
 b) What is the learning on Logistics & Organisation Structure from
 this Business Model ?
 --- page 2 ---
-’ é 2§PSS2 S222 gegggee 24 geB
-go 22Sa nu ee gas Bak
-° SEs 2 Se Ua
-S SEES bags e8§Sses FS PBa
-bl oe BZigeed See gs ae)
-| a x eee i eegeg SSbee ss BS 828
-2 geegrssegke Gaeeses sf f32
-= + Ss 7 oO
-: Eegeeeeyies fathess ge 28%
-= Setee28e.e 2BESS 88 2
-= =oag = so =
-S Heo. 38288538 Be828s- 88 Sam
-: Sgghueeiity Fiasocpeesuses
-- SQeoe £. 3
-& 2 SBeeEER RSS eek sons eee es eS s
-3 see ee ees ages ego g siege ass
-oS = oe SE an i
-S BeSSsseseere, Se tees gssz 2228
-x oa & se 8e8 CepeEGELBL g
-s oe les es B2S8ESRREo8 Ss
-ge fe) cas e8e22ReF8 Fs 5g gt gab ea es
-s O genset bb8 53925 ESco@8ussosts
-e Beate hs eg Pose sae CRC RI gE PH
-s s ; 2 & ;
-25 Sse yslzetgeesksssFsee sass
-= & 2 So 8 s3a = Es
-on o Sein 2 3B 230 £3
-£0 a2c gee %, fo} 20 o
-5°5 ABLERES SERS SBEGHRBSQ FS BE
---- page 3 ---
-c awere
-6 2.
-Sin 8938
-8 B Eo
-°
+ave 10
 
-‘
-I Ss 2.
-a ee
-<9 $ ag & 5
-e4 Seen o 32
-Be eer
-5 3 Bfkegz8a
-a & Tae
-oe 5 erie:
-co 2ge8e& FA
-ee pg
-g ge aess
-AB EERE
-£2 ”A ES aaa ee
-re wegsgees .
-eS A
-a BEE wo
-aq Beegees |
-ne Cpe ese S
-eagagy
-io} ° sees
-ga Beggee8 :
-iz esshebe
-i RESEES 3 S
-we “SER a
-BB Z bed |
-= gS, 08
-Sm ge =
-z 2898285
-S4 waeeees :
-33 seEEERE |
-ke Sais
-Bs |
-8 _ |
-g gs
-SERBS g3
-Se Ese a 6. !
-eRe es3gg
-egere ee
-= io}
-e285 285
-Ba25288
-5° aa
-& gearras
-5 3 |
-ep @s2a-e z
-Ref Eo g
-See zee oO
-a ao
-zoeee® 5
-aoe Re
--BE9
-Sa e588 z
-cecece 2
-S8ebss
-eae one g
-gBe a& 6
-22588 S
-SELLERS 5 .
-g8ea &
-ag as & - .
-BEES g
-e82g8 g
-a8ees 3
-EREaS
-R ie
-page?
-SRESs F
+The Dabbawalas—
+Feeding Mumbai*
+
+Hungry kya? What would you like: pizza from the local
+Domino’s (30 minute delivery) or a fresh, hot meal from
+home? Most managers don’t have a choice. It’s either a
+packed lunch or junk food from a fast food outlet.
+
+Unless you live in Mumbai, that is, where a small
+army of ‘dabbawala’s’ picks up 175,000 lunches from
+homes and delivers them to harried students, managers
+and workers on every working day. At your desk,
+12.30 pm on the dot. Served hot, of course. And now
+you can order even through the Internet.
+
+The Mumbai Tiffin Box Suppliers Association
+(MTBSA) is a streamlined 120 year old organization
+with 4,500 semi literate members providing a quality
+door-to-door service to a large and loyal customer
+base.
+
+Hov has MTBSA managed to survive through
+these tumultuous years? The answer lies in a twin
+process that combines competitive collaboration be-
+tween team members with a high level of technical ef-
+ficiency in logistics management. It works like this.
+
+After the customer leaves for work, her lunch is
+packed into tiffin provided by the dabbawala. A color-
+coded notation on the handle identifies its owner and
+destination. Once the dabbawala has picked up the tif-
+fin, he moves fast using a combination of bicycles,
+trains and his two feet.
+
+A BBC crew filming dabbawalas in action was
+amazed at their speed. “Following our dabbawala
+wasn’t easy, our film crew quickly lost him in the con-
+gestion of the train station. At Victoria Terminus we
+found other fast moving dabbawalas, but not our sub-
+ject... and at Mr Bhapat's ayurvedic pharmacy, the
+lunch had arrived long before the film crew,” the doc-
+
+*Source: Case by Pradip Thakkar. Reproduced with permis-
+sion from ‘Hot Potatoes’, The Smart Manager, July- Sep.
+2002, Vol. 1, Issue 3.
+
+umentary noted wryly. So, how do they work so effi-
+ciently?
+
+TEAM WORK AND
+TIMING
+
+The entire system depends on team work and meticu-
+lous timing. Tiffins are collected from homes between.
+7.00 am and 9.00 am, and taken to the nearest railway
+station. At various intermediary stations, they are
+hauled onto platforms and sorted out for area-wise dis-
+tribution, so that a single tiffin could change hands
+three to four times in the course of its daily journey.
+
+At Mumbai’s downtown stations, the last link in
+the chain, a final relay of dabbawalas fan out to the tif-
+fin’s destined bellies. Lunch hour over, the whole
+process moves into reverse and the tiffins return to
+suburban homes by 6.00 p.m.
+
+To better understand the complex sorting process,
+let’s take an example. At Vile Parle Station, there are
+four groups of dabbawalas, each has twenty members
+and each member services 40 customers. That makes
+3,200 tiffins in all. These 3,200 tiffins have to be col-
+lected by 9.00 am, reached the station and sorted ac-
+cording to their destinations by 10.00 am when the
+‘Dabbawala Special’ train arrives.
+
+The railway provides sorting areas on platforms as
+well as special compartments on trains traveling south
+between 10.00 am and 11.30 am.
+
+During the journey, these 80 dabbawalas regroup
+according to the number of tiffins to be delivered in a
+particular area, and not according to the groups they
+
+hf
+
+Case 10 | The Dabbawalas-Feeding Mumbai
+
+exhibit 1
+
+ire; the markings for the collection point
+re:.VP for Vile Parle, C for Cooper
+Hospital. Destination markings are 10
+Nariman Point), 9 is the dabbawala
+andling the destination area, M is Mittal
+
+d.16.refers.to the.16th floor.
+
+actually belong to. If 150 tiffins are to be delivered in
+the Grant Road Station area, then four people are as-
+signed to that station, keeping in mind one person can
+carry no more than 35—40 tiffins.
+
+During the earlier sorting process, each dab-
+bawala would have concentrated on locating only those
+40 tiffins under his charge, wherever they come from,
+and this specialization makes the entire system effi-
+cient and error-free.
+
+Typically it takes about ten to fifteen minutes to
+
+_ search, assemble and arrange 40 tiffins onto a crate,
+
+and by 12.30 pm they are delivered to offices.
+
+Ina way, MTBSA’s system is like the internet. The
+Internet relies on a concept called packet switching. In
+packet switched networks, voice or data files are sliced
+into tiny sachets, each with its own coded address
+which directs its routing.
+
+These packets are then ferried in bursts, indepen-
+dent of other packets and possibly taking different
+routes, across the country or the world, and re-assem-
+bled at their destination.
+
+Packet switching maximizes network density, but
+there is a downside: your packets intermingle with
+other packets and if the network is overburdened, pack-
+ets can collide with others, even get misdirected or lost
+in cyberspace, and almost certainly not arrive on time.
+
+ELEGANT LOGISTICS
+
+In the dabbawalas’ elegant logistics system, using
+25 kms of public transport, 10 km of footwork and in-
+volving multiple transfer points, mistakes rarely hap-
+pen. According to a Forbes 1998 article, one mistake
+for every eight million deliveries is the norm. How do
+they achieve at virtual six sigma quality with zero doc-
+umentation? For one, the system limits the routing and
+
+sorting to a few central points. Secondly, a simple color
+code determines not only packet routing but packet pri-
+oritizing as lunches transfer from train to bicycle to
+
+foot.
+
+WHO ARE THE
+DABBAWALAS ?
+
+Descendants of soldiers of the legendary Maharash-
+trian warrior-king Shivaji, dabbawalas belong to the
+Malva caste, and arrive in Mumbai frem places like
+“We believe in employing people from our own com-
+munity. So whenever there is a vacancy, elders recom-
+mend a relative from their village,” says Madhba, a
+dabbawala.
+
+“Farming earns a pittance, compelling us to move
+to the city. And the tiffin service is a business of repute
+since we are not working under anyone. It’s our own
+business, we are partners, it coiifers a higher status in
+society,” says Sambhaji, another dabbawala. “We earn
+more than many padha-likha graduates,” adds Khengle
+smugly.
+
+The proud owner of a BA (Hons) degree, Raghu-
+nath Meghe, president of MTBSA, is a rare graduate.
+He wanted to be a chartered accountant but couldn't
+complete the course because of family problems. Of
+his three children, his daughter is a graduate working at
+ICICI, one son is a dabbawala and the younger son is
+still studying.
+
+Education till standard seven is a minimum pre-
+requisite. According to Meghe, “This system accom-
+modates those who didn’t or couldn’t finish their
+studies, It’s obvious that those who score good marks
+go for higher education and not to do this job, but we
+have people who have studied up to standard twelve
+
+LY
+--- page 3 ---
+y 2 i
+
+i i C381
+Case 10 | The Dabbawalas--Feeding Mumbai
+Part 3 | Additional Cases
+
+yo couldn’t find respectable jobs.” There are only two
+female dabbawalas.
+
+BUILDING A CLIENTELE
+Apart from commitment and dedication, each
+
+5 . 5 The range of customers includes students (both college
+dabbawala, like any businessman, has to bring some and school), entrepreneurs of small businesses, man-
+capital with him. The minimum investment is two bi- ages, especially bank staff, and mill workers. They gen-
+cycles (approximately Rs 4000), 8 wooden crate for the erally tend to be middle-class citizens who, for reasons
+tiffins (Rs 500), at least one white cotton kurta-pyjama of economy, hygiene, caste and dietary restrictions or
+(Rs 600), and Rs 20 for the trademark Gandhi topi. simply because they prefer wholesome food from their
+
+kitchen, rely on the dabbawala to deliver a home
+
+cooked mid-day meal.
+COMPETITIVE
+
+New customers are generally acquired through re-
+
+ferrals. Some are solicited by dabbawalas on railway
+COLLABORATION platforms. Address are passed on to the dabbawala op-
+erating in the specific area, who then visits the cus-
+tomer to finalize arrangements, Today customers can
+also log onto the website Wwww.webrishi.com to access
+nine directors), the service.
+first office was Service charges vary from Rs 150 to Rs 300 per
+at Grant Road. Today it has offices near most railway _ tiffin per month, depending on location and collection
+stations. Nobody is an employer and none are employ- time. Money is collected in the first week of eve
+
+ees. Each dabbawala considers himself a shareholder Month and remitted to the mukadam on the first Sun-
+and entreprenzur.
+
+exhibit 2. Financial profile
+
+Outflows (Rs) Inflows (Rs)
+
+MTBSA is a remarkably flat organization with just
+three tiers: the governing council (president, vice pres-
+ident, general secretary, treasurer and
+the mukadams and the dabbawalas. Its
+
+‘ i before the
+If a customer complains of poor service, the asso- developed their home grown version long
+dey. we ciation can shift the customer's account to another aa b eee hele ein of competitive collaboration is
+Surprisingly, MTBSA is a fairly recent entity: the He then divides the money equally among mem- bawala. No dabbawala is allowed to undercut another. equally unusual, particularly in India. The operation
+service is believed to have started in the 1880s but of. Bers of that group. It is assumed Jhstione dab awa 4: Before looking into internal disputes, the sana a seess is competitive at the customers" end but united
+ficially registered itself only in 1968, Growth inmem- an handle not more than 30-35 customers given that charges a token Rs 100 to ensure that only eae it P tthe delivery end, ensuring their survival since a cen-
+bership is organic and dependent on market conditions, ©@ch tiffin weighs around 2 kgs. Aaa this is the bench- aggrieved members interested in a aoliticn oe tg ih tury and more. Is their business model worth replicat-
+This decentralized organization assumed its current Mark bs Blk mre ries0 achieve. has 675 with their problems, and the officials’ time is ing in the digital age is the big question.
+form in 1970, the most recent date of restructuring. lomo nn paler try pakioast metas te di, Fi wasted on petty bickering.
+Dabbawalas are divided into sub-groups of 15 to 25, vided equally even i fone dabby +i Ja has 40 customers ‘
+each supervised by four mukadams. Experienced old- while another has 30. Ss
+timers, the mukadams, are familiar with the colors and Groups o ompete with each other, but members | EARNING
+codings used in the complex logistics process. Their spe . * —_ cos
+key responsibility is sorting tiffins but they play a crit- within 8 cep do not It's common sense, points out | Logistics is the new mantra for building ihewiine
+ical role in resolving disputes; maintaining records of One dabbawala could collect 40 tiffins in the if advantage, the world over. Mumbai’s
+receipts and payments; acquiring new customers; and
+training junior dabbawala.
+
+same time that it takes another to collect 30. From his
+'s on handling new customers
+
+earnings of between Rs 5,000 to Rs 6,000, every dab-
+on their first day,
+
+a co, bawala contributes Rs 15 per month to the association.
+Each group is financially independent but coordi- The amount is utilized for the community’s upliftment,
+nates with others for deliveries: the service could not loans and marriage halls at concessional rates. All
+exist otherwise. The process is competitive at the cus- problems are usually resolved by association officials if
+tomers’ end and united at the delivery end. The whose rulings are binding.
+mukadams are also responsible for day-to-day func-
+
+Meetings are held office on the 15th of every f
+tioning. And, more important, there is no organiza-~ — month at Dadar. During these meetings, particular em- K
+tional structure, managerial layers or explicit control phasis is paid to customer service. Ifa tiffin is lost or i
+mechanisms. The rationale behind the business model stolen, a investigation is promptly instituted. Cus- :
+is to push internal competitiveness, which means that tomers are allowed to deduct costs from. any dab- Lf
+the four Vile Parle groups vie with each other to ac- bawala found guilty of such a charge,
+quire new customers,
 --- page 4 ---
 SVKM’S NMIMS (DEEMED TO BE UNIVERSITY), ~
 MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT &
@@ -4006,7 +4174,8 @@ Page 3 of 3
 - Programmes: MBA TECH / MANUFACTURING
 - Source: `02_Question_Papers/Legacy/MBA TECH/4TH YEAR/MANUFACTURING/TRIM XII/strategic management/2009-2010(224).pdf`
 - Printed on paper: max marks: 50; duration hours: 2
-- Text: ocr (4 pages), mean OCR confidence 74.6
+- Text: ocr (4 pages), mean OCR confidence 87.3
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 SVK M’ S NMIMS (
@@ -4053,86 +4222,60 @@ collaboration?
 b) What is the learning on Logistics & Organisation Structure from
 this Business Model ?
 --- page 2 ---
-ai see
-822 geez
-gis Eo>
-e832 s28
-238 epg
-fas Sa
-Es g
-ae? eset
-Bee Sgéis
-33sec oS -y
-53 oo =
-g8 28
-@
-Ags wm 232
-ge wa 35
-S&S O.n 8
-Bae :
-S ns
-a2 gee
-ges Ze
-2338 3o8
-Dey
-aa % Way
-8 Es & wages
-283 4
-eds 2e¢
-s62 OM 483
-22a aad
-ws geo
-ats] °] >
-23s¢ 382
-Ss Q ES
-2868 Ans
-e4 S8at 2s
-Sas 2886 22
-Seg VS 2S 4s
+Ki Case 10 | The Dabbawalas—Feeding Mumbai
+co
+Case | exbivit 1
 
-oo. oo
+The Dabbawalas— are: VP fot Vila Parle, © for Cooper |
+Feeding Mumbai*
 
-oan 5 E g
-[V8 e ~poe 2556
-ege ¢ED §
+‘Nariman Point), 9 is the dabbawala
 
-2 a esses softy
-ey S8Ss 48
+actually belong to. If 150 tiffins are to be delivered in sorting to a few central points. Secondly, a simple color
 
-. ty
-& 88
-3 Se
-a Bs
-ad Cun
-3 ag
-“6
-> BS
+the Grant Road Station area, then four people are as- code determines not only packet routing but packet pri-
+Hungry kya? What would you like: pizza from the local umentary noted wryly. So, how do they work so effi- se signed to that station, keeping in mind one person can oritizing as lunches transfer from train to bicycle to
+Domino’s (30 minute delivery) or a fresh, hot meal from _ciently? 5 carry no more than 35—40 tiffins. foot.
+home? Most managers don’t have a choice. It’s either a E During the earlier sorting process, each dab-
+packed lunch or junk food from a fast food outlet. bawala would have concentrated on locating only those
 
-3 Pegs
-iz
-2 gé
-id ov
-Ps 23
-2 58
+Unless you live in Mumbai, that is, where a small 40 tiffins under his charge, wherever they come from, WHO ARE THE
 
-S
-S
-& 4 $3
-: 53
-2 os
-e Oo 83
-ES
+army of ‘dabbawala’s’ picks up 175,000 lunches from TEAM WORK AND I and this specialization makes the entire system effi- DABBAWALAS ir]
 
-9O%8 ouncsc =
-2é2 BaSS5 3
-2Ssetdse BE ons
-Seeeekese. 8
+homes and delivers them to harried students, managers TIMING cient and error-free.
+and workers on every working day. At your desk, ‘Typically it takes about ten to fifteen minutes to
+12.30 pm on the dot. Served hot, of course. And now . . search, assemble and arrange 40 tiffins onto a crate, Descendants of soldiers of the legendary Maharash-
+you can order even through the Internet. The entire system depends on team work and meticu- i and by 12.30 pm they are delivered to offices. trian warrior-king Shivaji, dabbawalas belong to the
+The Mumbai Tiffin Box Suppliers Association ous timing. Tiffins are collected from homes between Ina way, MTBSA‘s system is like the internet. The Malva caste, and arrive in Mumbai from places like
+(MTBSA) is a streamlined 120 year old organization 7.00 am and 9.00 am, and taken to the nearest railway Internet relies on a concept called packet switching. In Rajgurunagar, Akola, Ambegaon, Junnar and Maashi.
+with 4,500 semi literate members providing a quality station. At various intermediary stations, they are packet switched networks, voice or data files are sliced “We believe in employing people from our own com-
+door-to-door service to a large and loyal customer _ hauled onto platforms and sorted out for area-wise dis- into tiny sachets, each with its own coded address munity, So whenever there is a vacancy, elders recom-
+base. tribution, so that a single tiffin could change hands which directs its routing, mend a relative from their village,” says Madhba, a
+How has MTBSA managed to survive through __ three to four times in the course of its daily journey. These packets are then ferried in bursts, indepen-   dabbawala.
+these tumultuous years? The answer lies in a twin At Mumbai’s downtown stations, the last link in dent of other packets and possibly taking different “Farming earns a pittance, compelling us to move
+process that combines competitive collaboration be- the chain, a final relay of dabbawalas fan out to the tif- routes, across the country or the world, and re-assem- to the city. And the tiffin service is a business of repute
+tween team meinbers with a high level of technical ef- fin’s destined bellies. Lunch hour over, the whole ! bled at their destination. since we are not working under anyone. It’s our own
+ficiency in logistics management. It works like this. : process moves into reverse and the tiffins return to Packet switching maximizes network density, but business, we are partners, it coiifers a higher status in
+; After the customer leaves for work, her lunch is suburban homes by 6.00 p.m. there is a downside: your packets intermingle with society,” says Sambhaji, another dabbawala. “We earn
+packed into tiffin provided by the dabbawala. A color- To better understand the complex sorting process, other packets and if the network is overburdened, pack- more than many padha-likha graduates,” adds Khengle
+coded notation on the handle identifies its owner and _et’s take an example. At Vile Parle Station, there are r lide with oth: t misdirected or lost smugly.
+destination. Once the dabbawala has picked up the tif- fe f dabbawal. h hi ; be COE ee ee ee ee ee ariive on'tijne 4 fa BA (H de Raghu-
+fin, he moves fast using a combination of bicycles, EE Be 8 Oo ea iaeeS ete De Nea meme in cyberspace, and almost certainly not arrive on time. The proud owner of a ( orig) i iar li
+tain aad his two feet ~ CIEE, and each member services 40 customers. That makes nath Meghe, president of MTBSA, is a rare graduate.
+7 ar . 3,200 tiffins in all. These 3,200 tiffins have to be col- He wanted to be a chartered accountant but couldn't
+aman ee Filming dabbawalas = pet was lected by 9.00 am, reached the station and sorted ac- complete the course because of family problems. Of
+wana't easy, cucfilineresr quickly lost him jabbawala cording to their destinations by 10.00 am when the ELEGAN T LOGISTICS his three children, his daughter is a graduate working at
+gestion of the train station. At Victoria Terminus we Pabbowda Special’ train arrives. a , ICICI, one son is a dabbawala and the younger son is
+found other fast moving dabbawalas, but not our sub- The Tailway provides sorting areas on platforms as In the dabbawalas’ elegant logistics system, using still studying. : : -
+ject... and at Mr Bhapat’s ayurvedic pharmacy, the well as special compartments on trains traveling south 25 kms of public transport, 10 km of footwork and in- Education till standard seven is a minimum pre-
+lunch had arrived long before the film crew,” the ‘doe between 10.00 am and 11.30 am. F volving multiple transfer points, mistakes rarely hap- requisite. According to Meghe, ‘This system accom-
+\ , During the journey, these 80 dabbawalas regroup pen. According to a Forbes 1998 article, one mistake modates those who didn’t or couldn’t finish their
+*Source: Case by Pradip Thakkar. Reproduced with permis- according to the number of tiffins to be delivered in a for every eight million deliveries is the norm. How do studies. It's obvious that those who score good marks
+sion from ‘Hot Potatoes’, The Smart Manager, July~ Sep. particular area, and not according to the groups they they achieve at virtual six sigma quality with zero doc- go for higher education and not to do this job, but we
+2002, Vol. 1, Issue 3. umentation? For one, the system limits the routing and have people who have studied up to standard twelve
 
-gus2ee .
-Sesstsszi ie
-
-HZeQsszylssgszs
-gee28E es ee
+—
 --- page 3 ---
 q& ( €
 

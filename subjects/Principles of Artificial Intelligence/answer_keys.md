@@ -169,6 +169,26 @@ solution graph   node
 Backtracking Required for cost updates   Not typically required
 Step 1:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+. All monkeys are hungry
+
+Ya (Monkey(x) + Hungry(z))
+
+. There exists a monkey at the door
+
+da (Monkey(x) \ At(x, Door))
+
+. There exists a hungry monkey that cannot reach a hanging banana from the ceiling
+
+Sx 3b (Monkey(x) \ Hungry(x) \ Banana(b) \ Hanging(b) \ sCanReach(z, b))
+
+. There exists a box at the window
+
+abr (Bor(br) \ At(bx, Window))
+. All bananas are hanging from the ceiling
+
+Vb (Banana(b) + Hanging(b))
 --- page 5 ---
 Start from node A,
 f(A⇢B) = g(B) + h(B)
@@ -726,6 +746,26 @@ solution graph   node
 Backtracking Required for cost updates   Not typically required
 Step 1:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+. All monkeys are hungry
+
+Ya (Monkey(x) + Hungry(z))
+
+. There exists a monkey at the door
+
+da (Monkey(x) \ At(x, Door))
+
+. There exists a hungry monkey that cannot reach a hanging banana from the ceiling
+
+Sx 3b (Monkey(x) \ Hungry(x) \ Banana(b) \ Hanging(b) \ sCanReach(z, b))
+
+. There exists a box at the window
+
+abr (Bor(br) \ At(bx, Window))
+. All bananas are hanging from the ceiling
+
+Vb (Banana(b) + Hanging(b))
 --- page 5 ---
 Start from node A,
 f(A⇢B) = g(B) + h(B)
@@ -1283,6 +1323,26 @@ solution graph   node
 Backtracking Required for cost updates   Not typically required
 Step 1:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+. All monkeys are hungry
+
+Ya (Monkey(x) + Hungry(z))
+
+. There exists a monkey at the door
+
+da (Monkey(x) \ At(x, Door))
+
+. There exists a hungry monkey that cannot reach a hanging banana from the ceiling
+
+Sx 3b (Monkey(x) \ Hungry(x) \ Banana(b) \ Hanging(b) \ sCanReach(z, b))
+
+. There exists a box at the window
+
+abr (Bor(br) \ At(bx, Window))
+. All bananas are hanging from the ceiling
+
+Vb (Banana(b) + Hanging(b))
 --- page 5 ---
 Start from node A,
 f(A⇢B) = g(B) + h(B)

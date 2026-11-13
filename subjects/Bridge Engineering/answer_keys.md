@@ -36,6 +36,17 @@ CO-2   b.
 [5]
 CO-4   c.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+3. Impact Factor Calculation (IRC Class A, B, AA/70R)
+
+Content Marks
+Formula 1
+RCC value 1
+Steel value 1
+Calculation 1
+
+AA/TOR method 1
 --- page 2 ---
 4. Forces in Design of Piers and Abutments [5]
 

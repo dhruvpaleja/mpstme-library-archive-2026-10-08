@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (ARTIFICIALINTELLIGENCE) - 7051/ELEMENTS OF BIOLOGY/ANS_Final-Exam_ELEMENTS OF BIOLOGY(702BS0C084)_Semester II_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: text (4 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -149,6 +150,29 @@ Q7   b. Recall any four industrial applications of enzymes and provide one examp
 for each application area.
 •   Need for enzymes at industrial scale (1M)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+F, Generation (BB ~ bb) Fi Results:
+
+* Genotype: 100% Bb (heterozygous)
+BB vs b ath me,
++ Phenotype: 100% Black fur
+B
+
+Ratio: 1 (all identical)
+
+B =!
+B BB Bb Pay BE F2 Results:
+
+* Genotype ratio: 1 BB : 2 Bb : 1 bb
+
+Fz Generation (Bb x Bb) (homo dom : hetero : homo recessive)
+
+a" 1) a 2) * Phenotype ratio: 3 Black : 1 White
+F2 Results:
+B b Bb bp
+
+b Bb Bb bb bb * Phenotype ratio: 3 Black : 1 White bb
 --- page 4 ---
 •   Any four applications with at least one example of an enzyme mentioned for each
 (1M+1M+1M+1M)
@@ -172,6 +196,7 @@ kinetics and illustrate your answer with a labeled growth curve.   [05]
 - Source: `00_Original_Downloads/2025/Semester II/76514__Final-Exam.zip :: MASTER OF BUSINESS ADMINISTRATION IN TECHNOLOGY MANAGEMENT (INFORMATION TECHNOLOGY) - 7041/ELEMENTS OF BIOLOGY/ANS_Final-Exam_ELEMENTS OF BIOLOGY(702BS0C084)_Semester II_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: text (4 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -312,6 +337,29 @@ Q7   b. Recall any four industrial applications of enzymes and provide one examp
 for each application area.
 •   Need for enzymes at industrial scale (1M)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+F, Generation (BB ~ bb) Fi Results:
+
+* Genotype: 100% Bb (heterozygous)
+BB vs b ath me,
++ Phenotype: 100% Black fur
+B
+
+Ratio: 1 (all identical)
+
+B =!
+B BB Bb Pay BE F2 Results:
+
+* Genotype ratio: 1 BB : 2 Bb : 1 bb
+
+Fz Generation (Bb x Bb) (homo dom : hetero : homo recessive)
+
+a" 1) a 2) * Phenotype ratio: 3 Black : 1 White
+F2 Results:
+B b Bb bp
+
+b Bb Bb bb bb * Phenotype ratio: 3 Black : 1 White bb
 --- page 4 ---
 •   Any four applications with at least one example of an enzyme mentioned for each
 (1M+1M+1M+1M)
@@ -691,6 +739,7 @@ Illustrate your answer with a labeled growth curve plot.   [05]
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_AIDS_7056/ELEMENTS OF BIOLOGY/ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: text (4 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -831,6 +880,29 @@ Q7   b. Recall any four industrial applications of enzymes and provide one examp
 for each application area.
 •   Need for enzymes at industrial scale (1M)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+F, Generation (BB ~ bb) Fi Results:
+
+* Genotype: 100% Bb (heterozygous)
+BB vs b ath me,
++ Phenotype: 100% Black fur
+B
+
+Ratio: 1 (all identical)
+
+B =!
+B BB Bb Pay BE F2 Results:
+
+* Genotype ratio: 1 BB : 2 Bb : 1 bb
+
+Fz Generation (Bb x Bb) (homo dom : hetero : homo recessive)
+
+a" 1) a 2) * Phenotype ratio: 3 Black : 1 White
+F2 Results:
+B b Bb bp
+
+b Bb Bb bb bb * Phenotype ratio: 3 Black : 1 White bb
 --- page 4 ---
 •   Any four applications with at least one example of an enzyme mentioned for each
 (1M+1M+1M+1M)
@@ -854,6 +926,7 @@ kinetics and illustrate your answer with a labeled growth curve.   [05]
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_AIML_7053/ELEMENTS OF BIOLOGY/ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: text (4 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -994,6 +1067,29 @@ Q7   b. Recall any four industrial applications of enzymes and provide one examp
 for each application area.
 •   Need for enzymes at industrial scale (1M)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+F, Generation (BB ~ bb) Fi Results:
+
+* Genotype: 100% Bb (heterozygous)
+BB vs b ath me,
++ Phenotype: 100% Black fur
+B
+
+Ratio: 1 (all identical)
+
+B =!
+B BB Bb Pay BE F2 Results:
+
+* Genotype ratio: 1 BB : 2 Bb : 1 bb
+
+Fz Generation (Bb x Bb) (homo dom : hetero : homo recessive)
+
+a" 1) a 2) * Phenotype ratio: 3 Black : 1 White
+F2 Results:
+B b Bb bp
+
+b Bb Bb bb bb * Phenotype ratio: 3 Black : 1 White bb
 --- page 4 ---
 •   Any four applications with at least one example of an enzyme mentioned for each
 (1M+1M+1M+1M)
@@ -1017,6 +1113,7 @@ kinetics and illustrate your answer with a labeled growth curve.   [05]
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_AI_7012/ELEMENTS OF BIOLOGY/ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: text (4 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1157,6 +1254,29 @@ Q7   b. Recall any four industrial applications of enzymes and provide one examp
 for each application area.
 •   Need for enzymes at industrial scale (1M)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+F, Generation (BB ~ bb) Fi Results:
+
+* Genotype: 100% Bb (heterozygous)
+BB vs b ath me,
++ Phenotype: 100% Black fur
+B
+
+Ratio: 1 (all identical)
+
+B =!
+B BB Bb Pay BE F2 Results:
+
+* Genotype ratio: 1 BB : 2 Bb : 1 bb
+
+Fz Generation (Bb x Bb) (homo dom : hetero : homo recessive)
+
+a" 1) a 2) * Phenotype ratio: 3 Black : 1 White
+F2 Results:
+B b Bb bp
+
+b Bb Bb bb bb * Phenotype ratio: 3 Black : 1 White bb
 --- page 4 ---
 •   Any four applications with at least one example of an enzyme mentioned for each
 (1M+1M+1M+1M)
@@ -1180,6 +1300,7 @@ kinetics and illustrate your answer with a labeled growth curve.   [05]
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_CSBS_7036/ELEMENTS OF BIOLOGY/ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: text (4 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1320,6 +1441,29 @@ Q7   b. Recall any four industrial applications of enzymes and provide one examp
 for each application area.
 •   Need for enzymes at industrial scale (1M)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+F, Generation (BB ~ bb) Fi Results:
+
+* Genotype: 100% Bb (heterozygous)
+BB vs b ath me,
++ Phenotype: 100% Black fur
+B
+
+Ratio: 1 (all identical)
+
+B =!
+B BB Bb Pay BE F2 Results:
+
+* Genotype ratio: 1 BB : 2 Bb : 1 bb
+
+Fz Generation (Bb x Bb) (homo dom : hetero : homo recessive)
+
+a" 1) a 2) * Phenotype ratio: 3 Black : 1 White
+F2 Results:
+B b Bb bp
+
+b Bb Bb bb bb * Phenotype ratio: 3 Black : 1 White bb
 --- page 4 ---
 •   Any four applications with at least one example of an enzyme mentioned for each
 (1M+1M+1M+1M)
@@ -1343,6 +1487,7 @@ kinetics and illustrate your answer with a labeled growth curve.   [05]
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_CSE_DS_7057/ELEMENTS OF BIOLOGY/ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf` (+3 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: text (4 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1483,6 +1628,29 @@ Q7   b. Recall any four industrial applications of enzymes and provide one examp
 for each application area.
 •   Need for enzymes at industrial scale (1M)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+F, Generation (BB ~ bb) Fi Results:
+
+* Genotype: 100% Bb (heterozygous)
+BB vs b ath me,
++ Phenotype: 100% Black fur
+B
+
+Ratio: 1 (all identical)
+
+B =!
+B BB Bb Pay BE F2 Results:
+
+* Genotype ratio: 1 BB : 2 Bb : 1 bb
+
+Fz Generation (Bb x Bb) (homo dom : hetero : homo recessive)
+
+a" 1) a 2) * Phenotype ratio: 3 Black : 1 White
+F2 Results:
+B b Bb bp
+
+b Bb Bb bb bb * Phenotype ratio: 3 Black : 1 White bb
 --- page 4 ---
 •   Any four applications with at least one example of an enzyme mentioned for each
 (1M+1M+1M+1M)
@@ -1506,6 +1674,7 @@ kinetics and illustrate your answer with a labeled growth curve.   [05]
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_DS_7009/ELEMENTS OF BIOLOGY/ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: text (4 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1646,6 +1815,29 @@ Q7   b. Recall any four industrial applications of enzymes and provide one examp
 for each application area.
 •   Need for enzymes at industrial scale (1M)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+F, Generation (BB ~ bb) Fi Results:
+
+* Genotype: 100% Bb (heterozygous)
+BB vs b ath me,
++ Phenotype: 100% Black fur
+B
+
+Ratio: 1 (all identical)
+
+B =!
+B BB Bb Pay BE F2 Results:
+
+* Genotype ratio: 1 BB : 2 Bb : 1 bb
+
+Fz Generation (Bb x Bb) (homo dom : hetero : homo recessive)
+
+a" 1) a 2) * Phenotype ratio: 3 Black : 1 White
+F2 Results:
+B b Bb bp
+
+b Bb Bb bb bb * Phenotype ratio: 3 Black : 1 White bb
 --- page 4 ---
 •   Any four applications with at least one example of an enzyme mentioned for each
 (1M+1M+1M+1M)
@@ -1669,6 +1861,7 @@ kinetics and illustrate your answer with a labeled growth curve.   [05]
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/BTech_EXTC_7006/ELEMENTS OF BIOLOGY/ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: text (4 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1809,6 +2002,29 @@ Q7   b. Recall any four industrial applications of enzymes and provide one examp
 for each application area.
 •   Need for enzymes at industrial scale (1M)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+F, Generation (BB ~ bb) Fi Results:
+
+* Genotype: 100% Bb (heterozygous)
+BB vs b ath me,
++ Phenotype: 100% Black fur
+B
+
+Ratio: 1 (all identical)
+
+B =!
+B BB Bb Pay BE F2 Results:
+
+* Genotype ratio: 1 BB : 2 Bb : 1 bb
+
+Fz Generation (Bb x Bb) (homo dom : hetero : homo recessive)
+
+a" 1) a 2) * Phenotype ratio: 3 Black : 1 White
+F2 Results:
+B b Bb bp
+
+b Bb Bb bb bb * Phenotype ratio: 3 Black : 1 White bb
 --- page 4 ---
 •   Any four applications with at least one example of an enzyme mentioned for each
 (1M+1M+1M+1M)
@@ -1832,6 +2048,7 @@ kinetics and illustrate your answer with a labeled growth curve.   [05]
 - Source: `02_Question_Papers/2025/Sem_02/Final-Exam/MBATech_DS_7052/ELEMENTS OF BIOLOGY/ANS_ELEMENTS OF BIOLOGY(702BS0C084)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 04 May 2026
 - Text: text (4 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1972,6 +2189,29 @@ Q7   b. Recall any four industrial applications of enzymes and provide one examp
 for each application area.
 •   Need for enzymes at industrial scale (1M)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+F, Generation (BB ~ bb) Fi Results:
+
+* Genotype: 100% Bb (heterozygous)
+BB vs b ath me,
++ Phenotype: 100% Black fur
+B
+
+Ratio: 1 (all identical)
+
+B =!
+B BB Bb Pay BE F2 Results:
+
+* Genotype ratio: 1 BB : 2 Bb : 1 bb
+
+Fz Generation (Bb x Bb) (homo dom : hetero : homo recessive)
+
+a" 1) a 2) * Phenotype ratio: 3 Black : 1 White
+F2 Results:
+B b Bb bp
+
+b Bb Bb bb bb * Phenotype ratio: 3 Black : 1 White bb
 --- page 4 ---
 •   Any four applications with at least one example of an enzyme mentioned for each
 (1M+1M+1M+1M)
@@ -2552,6 +2792,25 @@ NADH, FADH2 (electron carriers)
 Oxygen (O2) (final electron acceptor)
 ATP synthase (ATP transferase enzyme)
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Coenzyme A 6)
+CO,
+
+eoes--ees
+
+Pyruvic acid
+NAD* NADH
+
+Coenzyme A
+
+Acetyl CoA
+
+Citric
+acid
+cycle
+
+arp
 --- page 9 ---
 Protons (H+) for proton gradient
 Process: Electrons transferred through protein complexes
@@ -2940,6 +3199,28 @@ energy flow and ecosystem stability.   [05]
 Q7   d. Explain each phase of microbial growth kinetics and support your explanation   [05]
 with a drawn and labeled growth curve.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|v F 1 Generation (BB x bb) IF, Results:
+
+Punnett Square: Genotype: 100% Bb (heterozygous)
+Phenotype: 100% black fur (carriers, do not
+lexpress white fur)
+
+Ratio: 1 (all the same)
+
+b Bb
+
+b Bb
+
+IF 2 Generation (Bb x Bb) IF, Results:
+Punnett square: iGenotype ratio:
+1 BB: 2 Bb: 1 bb
+(homo dom: hetero: homo recessive)
+
+Phenotype ratio:
+3 black fur (BB + Bb): 1 white fur
+(bb)
 --- page 4 ---
 -   Significance of studying the growth curve (0.5M)
 -   Explanation of Lag, Exponential, Stationary, and Death Phase (0.5M+0.5M+1M+1M)
@@ -3097,6 +3378,28 @@ energy flow and ecosystem stability.   [05]
 Q7   d. Explain each phase of microbial growth kinetics and support your explanation   [05]
 with a drawn and labeled growth curve.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|v F 1 Generation (BB x bb) IF, Results:
+
+Punnett Square: Genotype: 100% Bb (heterozygous)
+Phenotype: 100% black fur (carriers, do not
+lexpress white fur)
+
+Ratio: 1 (all the same)
+
+b Bb
+
+b Bb
+
+IF 2 Generation (Bb x Bb) IF, Results:
+Punnett square: iGenotype ratio:
+1 BB: 2 Bb: 1 bb
+(homo dom: hetero: homo recessive)
+
+Phenotype ratio:
+3 black fur (BB + Bb): 1 white fur
+(bb)
 --- page 4 ---
 -   Significance of studying the growth curve (0.5M)
 -   Explanation of Lag, Exponential, Stationary, and Death Phase (0.5M+0.5M+1M+1M)
@@ -3254,6 +3557,28 @@ energy flow and ecosystem stability.   [05]
 Q7   d. Explain each phase of microbial growth kinetics and support your explanation   [05]
 with a drawn and labeled growth curve.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|v F 1 Generation (BB x bb) IF, Results:
+
+Punnett Square: Genotype: 100% Bb (heterozygous)
+Phenotype: 100% black fur (carriers, do not
+lexpress white fur)
+
+Ratio: 1 (all the same)
+
+b Bb
+
+b Bb
+
+IF 2 Generation (Bb x Bb) IF, Results:
+Punnett square: iGenotype ratio:
+1 BB: 2 Bb: 1 bb
+(homo dom: hetero: homo recessive)
+
+Phenotype ratio:
+3 black fur (BB + Bb): 1 white fur
+(bb)
 --- page 4 ---
 -   Significance of studying the growth curve (0.5M)
 -   Explanation of Lag, Exponential, Stationary, and Death Phase (0.5M+0.5M+1M+1M)
@@ -3411,6 +3736,28 @@ energy flow and ecosystem stability.   [05]
 Q7   d. Explain each phase of microbial growth kinetics and support your explanation   [05]
 with a drawn and labeled growth curve.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|v F 1 Generation (BB x bb) IF, Results:
+
+Punnett Square: Genotype: 100% Bb (heterozygous)
+Phenotype: 100% black fur (carriers, do not
+lexpress white fur)
+
+Ratio: 1 (all the same)
+
+b Bb
+
+b Bb
+
+IF 2 Generation (Bb x Bb) IF, Results:
+Punnett square: iGenotype ratio:
+1 BB: 2 Bb: 1 bb
+(homo dom: hetero: homo recessive)
+
+Phenotype ratio:
+3 black fur (BB + Bb): 1 white fur
+(bb)
 --- page 4 ---
 -   Significance of studying the growth curve (0.5M)
 -   Explanation of Lag, Exponential, Stationary, and Death Phase (0.5M+0.5M+1M+1M)
@@ -4603,6 +4950,28 @@ energy flow and ecosystem stability.   [05]
 Q7   d. Explain each phase of microbial growth kinetics and support your explanation   [05]
 with a drawn and labeled growth curve.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|v F 1 Generation (BB x bb) IF, Results:
+
+Punnett Square: Genotype: 100% Bb (heterozygous)
+Phenotype: 100% black fur (carriers, do not
+lexpress white fur)
+
+Ratio: 1 (all the same)
+
+b Bb
+
+b Bb
+
+IF 2 Generation (Bb x Bb) IF, Results:
+Punnett square: iGenotype ratio:
+1 BB: 2 Bb: 1 bb
+(homo dom: hetero: homo recessive)
+
+Phenotype ratio:
+3 black fur (BB + Bb): 1 white fur
+(bb)
 --- page 4 ---
 -   Significance of studying the growth curve (0.5M)
 -   Explanation of Lag, Exponential, Stationary, and Death Phase (0.5M+0.5M+1M+1M)
@@ -4760,6 +5129,28 @@ energy flow and ecosystem stability.   [05]
 Q7   d. Explain each phase of microbial growth kinetics and support your explanation   [05]
 with a drawn and labeled growth curve.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|v F 1 Generation (BB x bb) IF, Results:
+
+Punnett Square: Genotype: 100% Bb (heterozygous)
+Phenotype: 100% black fur (carriers, do not
+lexpress white fur)
+
+Ratio: 1 (all the same)
+
+b Bb
+
+b Bb
+
+IF 2 Generation (Bb x Bb) IF, Results:
+Punnett square: iGenotype ratio:
+1 BB: 2 Bb: 1 bb
+(homo dom: hetero: homo recessive)
+
+Phenotype ratio:
+3 black fur (BB + Bb): 1 white fur
+(bb)
 --- page 4 ---
 -   Significance of studying the growth curve (0.5M)
 -   Explanation of Lag, Exponential, Stationary, and Death Phase (0.5M+0.5M+1M+1M)
@@ -4917,6 +5308,28 @@ energy flow and ecosystem stability.   [05]
 Q7   d. Explain each phase of microbial growth kinetics and support your explanation   [05]
 with a drawn and labeled growth curve.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|v F 1 Generation (BB x bb) IF, Results:
+
+Punnett Square: Genotype: 100% Bb (heterozygous)
+Phenotype: 100% black fur (carriers, do not
+lexpress white fur)
+
+Ratio: 1 (all the same)
+
+b Bb
+
+b Bb
+
+IF 2 Generation (Bb x Bb) IF, Results:
+Punnett square: iGenotype ratio:
+1 BB: 2 Bb: 1 bb
+(homo dom: hetero: homo recessive)
+
+Phenotype ratio:
+3 black fur (BB + Bb): 1 white fur
+(bb)
 --- page 4 ---
 -   Significance of studying the growth curve (0.5M)
 -   Explanation of Lag, Exponential, Stationary, and Death Phase (0.5M+0.5M+1M+1M)
@@ -5074,6 +5487,28 @@ energy flow and ecosystem stability.   [05]
 Q7   d. Explain each phase of microbial growth kinetics and support your explanation   [05]
 with a drawn and labeled growth curve.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|v F 1 Generation (BB x bb) IF, Results:
+
+Punnett Square: Genotype: 100% Bb (heterozygous)
+Phenotype: 100% black fur (carriers, do not
+lexpress white fur)
+
+Ratio: 1 (all the same)
+
+b Bb
+
+b Bb
+
+IF 2 Generation (Bb x Bb) IF, Results:
+Punnett square: iGenotype ratio:
+1 BB: 2 Bb: 1 bb
+(homo dom: hetero: homo recessive)
+
+Phenotype ratio:
+3 black fur (BB + Bb): 1 white fur
+(bb)
 --- page 4 ---
 -   Significance of studying the growth curve (0.5M)
 -   Explanation of Lag, Exponential, Stationary, and Death Phase (0.5M+0.5M+1M+1M)
@@ -5231,6 +5666,28 @@ energy flow and ecosystem stability.   [05]
 Q7   d. Explain each phase of microbial growth kinetics and support your explanation   [05]
 with a drawn and labeled growth curve.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|v F 1 Generation (BB x bb) IF, Results:
+
+Punnett Square: Genotype: 100% Bb (heterozygous)
+Phenotype: 100% black fur (carriers, do not
+lexpress white fur)
+
+Ratio: 1 (all the same)
+
+b Bb
+
+b Bb
+
+IF 2 Generation (Bb x Bb) IF, Results:
+Punnett square: iGenotype ratio:
+1 BB: 2 Bb: 1 bb
+(homo dom: hetero: homo recessive)
+
+Phenotype ratio:
+3 black fur (BB + Bb): 1 white fur
+(bb)
 --- page 4 ---
 -   Significance of studying the growth curve (0.5M)
 -   Explanation of Lag, Exponential, Stationary, and Death Phase (0.5M+0.5M+1M+1M)
@@ -5388,6 +5845,28 @@ energy flow and ecosystem stability.   [05]
 Q7   d. Explain each phase of microbial growth kinetics and support your explanation   [05]
 with a drawn and labeled growth curve.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|v F 1 Generation (BB x bb) IF, Results:
+
+Punnett Square: Genotype: 100% Bb (heterozygous)
+Phenotype: 100% black fur (carriers, do not
+lexpress white fur)
+
+Ratio: 1 (all the same)
+
+b Bb
+
+b Bb
+
+IF 2 Generation (Bb x Bb) IF, Results:
+Punnett square: iGenotype ratio:
+1 BB: 2 Bb: 1 bb
+(homo dom: hetero: homo recessive)
+
+Phenotype ratio:
+3 black fur (BB + Bb): 1 white fur
+(bb)
 --- page 4 ---
 -   Significance of studying the growth curve (0.5M)
 -   Explanation of Lag, Exponential, Stationary, and Death Phase (0.5M+0.5M+1M+1M)
@@ -5545,6 +6024,28 @@ energy flow and ecosystem stability.   [05]
 Q7   d. Explain each phase of microbial growth kinetics and support your explanation   [05]
 with a drawn and labeled growth curve.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|v F 1 Generation (BB x bb) IF, Results:
+
+Punnett Square: Genotype: 100% Bb (heterozygous)
+Phenotype: 100% black fur (carriers, do not
+lexpress white fur)
+
+Ratio: 1 (all the same)
+
+b Bb
+
+b Bb
+
+IF 2 Generation (Bb x Bb) IF, Results:
+Punnett square: iGenotype ratio:
+1 BB: 2 Bb: 1 bb
+(homo dom: hetero: homo recessive)
+
+Phenotype ratio:
+3 black fur (BB + Bb): 1 white fur
+(bb)
 --- page 4 ---
 -   Significance of studying the growth curve (0.5M)
 -   Explanation of Lag, Exponential, Stationary, and Death Phase (0.5M+0.5M+1M+1M)
@@ -5702,6 +6203,28 @@ energy flow and ecosystem stability.   [05]
 Q7   d. Explain each phase of microbial growth kinetics and support your explanation   [05]
 with a drawn and labeled growth curve.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|v F 1 Generation (BB x bb) IF, Results:
+
+Punnett Square: Genotype: 100% Bb (heterozygous)
+Phenotype: 100% black fur (carriers, do not
+lexpress white fur)
+
+Ratio: 1 (all the same)
+
+b Bb
+
+b Bb
+
+IF 2 Generation (Bb x Bb) IF, Results:
+Punnett square: iGenotype ratio:
+1 BB: 2 Bb: 1 bb
+(homo dom: hetero: homo recessive)
+
+Phenotype ratio:
+3 black fur (BB + Bb): 1 white fur
+(bb)
 --- page 4 ---
 -   Significance of studying the growth curve (0.5M)
 -   Explanation of Lag, Exponential, Stationary, and Death Phase (0.5M+0.5M+1M+1M)
@@ -5859,6 +6382,28 @@ energy flow and ecosystem stability.   [05]
 Q7   d. Explain each phase of microbial growth kinetics and support your explanation   [05]
 with a drawn and labeled growth curve.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|v F 1 Generation (BB x bb) IF, Results:
+
+Punnett Square: Genotype: 100% Bb (heterozygous)
+Phenotype: 100% black fur (carriers, do not
+lexpress white fur)
+
+Ratio: 1 (all the same)
+
+b Bb
+
+b Bb
+
+IF 2 Generation (Bb x Bb) IF, Results:
+Punnett square: iGenotype ratio:
+1 BB: 2 Bb: 1 bb
+(homo dom: hetero: homo recessive)
+
+Phenotype ratio:
+3 black fur (BB + Bb): 1 white fur
+(bb)
 --- page 4 ---
 -   Significance of studying the growth curve (0.5M)
 -   Explanation of Lag, Exponential, Stationary, and Death Phase (0.5M+0.5M+1M+1M)
@@ -6689,6 +7234,19 @@ Q2   a. parent to child. In rare cases, when an individual has two copies of the
 CO-2; SO-2; BL-3   gene (also known as being homozygous), the disorder symptoms are generally
 more severe.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Affected Unaffected
+
+father mother ! |
+| fi
+
+J Normal Abnormal
+gene gene
+
+of 4 if
+
+Affected child Unaffected child Unaffected child Affected child
 --- page 4 ---
 Inheritance pattern: The trait appears in every generation, indicating it is
 dominant. Both males and females are affected equally, showing it is autosomal

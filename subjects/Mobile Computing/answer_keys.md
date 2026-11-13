@@ -53,6 +53,52 @@ OS-dependent states
 During migration two instances of the migrating process exist: source
 instance and destination instance.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+TOMA FDMA CDMA
+
+Segment Segment the Spread the
+sending time frequency spectrum using
+into disjoint band into orthogonal
+time-slots, disjoint codes
+
+demand driven sub-bands
+
+or fixed
+
+patterns
+
+All terminals Every terminal All terminals can
+are active for has its own be active at the
+short periods frequency, same place at
+of time on the uninterrupted the same
+same frequency moment,
+
+uninterrupted
+
+Synchronization — Filtering in Code plus
+in the time the frequency special receivers
+domain domain
+Established, Simple, Flexible, less
+fully digital, established, planning
+very flexible robust needed, soft
+handover
+Guard space inflexible, Complex
+needed frequencies receivers, needs
+(multi-path are a scarce more
+propagation), resource complicated
+synchronization power control
+difficult for senders
+Standard in Typically Used in many
+Ttixed networks, combined 3G systems,
+together with with TDMA higher
+FDMA/SDMA (frequency complexity,
+used in many hopping lowered
+mobile networks patterns) and expectations;
+SDMA integrated with
+(frequency TOMA/FDMA
+
+reuse)
 --- page 3 ---
 After migration destination instance becomes migrated process
 A process running on another machine is called remote process.
@@ -222,6 +268,23 @@ Acts as the foundation of the Android OS.
 Manages hardware abstraction, memory, power management, and
 process scheduling.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Intra-zone routing Routing zones Intra-zone routing for K=2
+
+—_-—oOo
+-_-—o— al sey
+
+_-——
+
+Inter-zone routing
+
+@ Node’s neighbors (>) Node's peripheral neighbors
+
+Request message broadcasted
+
+Responsible node of zone
+C ) ——— Selected path
 --- page 8 ---
 Provides essential security features, such as user permissions and
 process isolation.
@@ -269,6 +332,56 @@ One node in a computer network may host multiple contexts
 ▪   Serves as a shield for the aglet
 ▪   Protects it from direct access to its public methods.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+APPLICATIONS
+
+Contacts Phone Browser
+
+APPLICATION FRAMEWORK
+
+Meera Window Content View Notification
+rated Ay Manage: Providers System Manager
+
+Telephony Resource Location XMPP Service
+
+Package Manager Manager Manager Manager
+
+LIBRARIES ANDROID RUNTIME
+
+Surfice Manager pote, Core Lbraries
+
+OpenGles FreeType Machine
+
+Sct Sst
+
+LINUX KERNEL
+
+Display
+
+Driven Camera Driver Bluetooth Flash Memory Binder (IPC)
+
+Driver Driver Driver
+
+Audio Power
+
+USB Driver Keypad Driver WiFi Driver Dhar i,
+
+User
+
+Aglet
+Aglet Aglet
+glet |) vo. Aglet gS
+
+xy
+Aglet Context
+Aglet Aglet Aglet Aglet
+Proxy Proxy
+Aglet Context |
+
+Engine
+
+Host
 --- page 10 ---
 The proxy also provides location transparency for the Aglet. That is,
 it can hide the real location of the Aglet.
@@ -299,6 +412,32 @@ Normalized throughput
 fraction of link capacity used to carry non-retransmitted packets
 example with no collisions, 1000 packets/sec
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Centralized scheme Distributed scheme
+
+* Single base station or master * All nodes contend for medium
+
+¢ All other nodes are slaves * No central controlling station
+* Master controls access to medium ° Pros:
+
+* Examples: Wireless LAN, cellular network * Lesser delays (why?)
+
+with base station
+* Cons:
+
+* Pros:
+* Simple implementation
+* Master is a bottleneck
+
+* Complex implementation
+
+* Cons:
+* Single point of failure
+* Master needs to be re-elected on
+failure
+
+¢ E.g. Polling / Probing
 --- page 11 ---
 with a particular scheme and workload, 250 packets/sec
 => Throughput = 0.25
@@ -388,6 +527,30 @@ Update information is compared to own routing table
 use always newest information from destination)
 2. Select the route with better metric when sequence numbers are equal.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Destination Next Metric Seq. Nr InstallTime Stable Data
+
+A A 0 A-550 001000 Ptr_A
+B B 1 B-102 001200 Ptr_B
+c B 3 C-588 001200 Ptr_C
+D B 4 D-312 001200 Ptr_D
+
+* Sequence number originated from destination. Ensures
+loop freeness.
+
+* Install Time when entry was made (used to delete stale entries
+from table)
+
+* Stable Data Pointer to a table holding information on how stable
+a route is. Used to damp fluctuations in network.
+
+A 1 B 2 c
+ese (ee (et Sn eset [er sea
+i) A-550 1 A-550 1 A-550
+3 3 1 B-100 7 7 0 B-100 3 5 2 B-100
+
+Cc B 3__ | C586 Cc Cc 2_ | C588 Cc i 0 C588
 --- page 14 ---
 Explanation ( 4 marks) + Illustration ( 3 marks) + How to handle count
 to infinity ( 3marks) = 10 marks
@@ -398,6 +561,51 @@ CO-4;   Explain the push and pull operation in Wireless Application protocol
 SO6-; BL-   with the help of diagrams.
 2
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+DS DV (Route Advertisement)
+
+B increases Seq.Nr from 100 -> 102
+
+B broadcasts routing information
+
+to Neighbors A, C including destination
+sequence numbers
+
+(A, 1, A-500) (A, 1, A-500)
+
+(B, 0, B-102) (B, 0, B-102)
+(c, 1, C-588) (c, 1, C-588)
+
+i!) A-550. 1 A-550 A B 2 A-550
+5 3 1 B-102 5 5 ) B-102 B B 1 B-102
+c B 2 C588 Cc Cc 1 C-588 Cc Cc i) C-588
+
+3. C increases its sequence
+number to C-592 then
+4. B gets this new information broadcasts its new table.
+
+and updates its table.
+
+/
+
+(A, 2, A-550) je 2, A-550)
+(B, 1, B-102) (B, 1, B-102)
+(C, 0, C-592) (C, 0, C-592)
+(D, 1, D-000) (D, 1, D-000)
+
+---5
+
+e@
+D
+
+Dest. Next Metric Seq. Dest. Next Metric Seq.
+
+A|A 0 | A-550 AIA 1__|A-550 Al .B 2__| A-550
+BB 1_| B-104 B |B 0 | 8-102 B |B 1__| B-102
+c B 2 C590 Cc c 1_|c592 Cc Cc tt) C-592
+
+D c 2__ | D-000 D D 1 D-000
 --- page 15 ---
 Push Operation explanation ( 3 marks ) + Diagram ( 2 marks)
 Pull Operation explanation ( 3 marks ) + Diagram ( 2 marks)
@@ -410,6 +618,57 @@ CO-3; SO-   CoA. Describe the mechanism by which the mobile node N notifies its
 Comparative explanation of Agent Advertisement ( 3 marks) and
 Agent Solicitation ( 3marks)
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Push Operation
+
+* A push operation in WAP is accomplished by allowing a Push Initiator
+(Pl) to transmit push content and delivery instructions to a Push Proxy
+Gateway (PPG), which then delivers the push content to the WAP
+client according to the delivery instructions. The Pl is typically an
+application that runs on an ordinary web server. It communicates with
+the PPG using the Push Access Protocol (PAP), details of which are
+given in [4]. The PPG uses the Push Over-The-Air (OTA) Protocol to
+deliver the push content to the client.
+
+OTA PAP
+Push — | Push
+pr-the-Air leces: y
+Ongtich i Protocol
+WAP Client Push Initiator
+(origin server)
+WAP Gateway 8
+
+(PUSH Proxy Gateway )
+
+Pull Operation
+
+Wep Server
+
+a
+
+WAP Gateway
+
+6 2
+Mapping Table
+—<—
+
++ User agent (Mobile) sends a uniform resource locator (URL) request to a WAP gateway
+following the WSP protocol.
+
+*The WAP gateway decodes the request massage and translates the request line and request
+header (in binary format) to HTTP format by a mapping table.
+
+-The WAP gateway creates a connection to the web server and sends an HTTP request to it.
+-The HTTP request is processed by the web server.
+
++The Web server returns an HTTP reply message, which contains data.
+
+*The WAP gateway encodes the reply and translates the well-known HTTP formatted reply
+line and reply header into WSP binary format using the mapping table.
+
+The WAP gateway creates WSP response containing the wireless markup language (WML)
+and returns it to the client system.
 --- page 16 ---
 Steps of Registration ( 4 marks)
 a.   Evaluate the design issues in mobile databases, and propose solutions
@@ -633,6 +892,16 @@ CO-4; SO-
 6;   [10]
 BL-2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+User Proxies/ Process Business
+
+Interface Adaptation Management Logic
+Middleware Middleware
+
+Tier-1;
+Presentation Tier Access Tier-2:
+Network Application Tier
 --- page 4 ---
 Core protocols − This includes Bluetooth radio, Baseband, Link Manager
 Protocol (LMP), Logical Link Control and Adaptation Protocol (L2CAP),
@@ -766,6 +1035,24 @@ The deactivation of an Aglet is the ability to temporarily remove it from
 its current context and store it in secondary storage. Activation of an
 Aglet will restore it in a context.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Context A Context B
+
+Clone
+
+(<>,
+a, Retract
+
+Dispatch Dispose of
+
+Create Deactivate
+—_ ——
+Class Disk
+
+File Storage
+
+Figure 1 Aglet Life-Cycle Model
 --- page 7 ---
 The disposal of an Aglet will halt its current execution and remove it from
 its current context
@@ -844,6 +1131,50 @@ Traditional distributed shortest-path protocols
 Maintain routes between every host pair at all times
 Based on periodic updates; High routing overhead
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Server
+(not selected)
+
+Determine the
+configuration
+
+aa |
+|DHCPDISCOVER | DHCPDISCOVER
+
+|
+Client Server
+
+Initialization (selected)
+
+DHCPOFFER
+
+~»| Determine the
+configuration
+
+DHCPOFFER
+
+Selection
+
+DHCPREQUEST
+(reject)
+
+of fonfiguration
+
+DHGPREQUEST., | Confirmation of
+(options)
+
+configuration
+DHCPACK
+
+Initialization, completed
+
+Z 4
+
+Release
+
+| ~DHCPRELEASE
+— | Delete context
 --- page 9 ---
 Example: DSDV (destination sequenced distance vector)
 Reactive protocols
@@ -914,6 +1245,20 @@ Supports any mobile phone systems, including GSM, CDMA etc..
 Diagram ( 4 marks) + proper explanation of protocol layers ( 6 marks ) =
 10 marks
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Internet Wireless Application Protocol
+
+Wireless Application
+
+HIML ‘ Other Services and
+JavaScript~ Environment (WAE) Applications
+HITP Wireless Session Layer (WSP) }
+Wireless Transaction Protocol (WTP) |
+tis -sst J SSL ts -ssu ff | Wireless Transport Layer Security (WTLS) J
+TCP/IP Wireless Datagram Protocol (WDP) }
+
+‘suis [oss] [csp] [R=] [Pane] [Gor] food [E
 --- page 11 ---
 b.   A self-driving vehicle system relies on real-time data transmission
 between the vehicle and a remote control center via a wireless network.

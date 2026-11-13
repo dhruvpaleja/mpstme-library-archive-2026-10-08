@@ -33,6 +33,30 @@ CO-2; BL-2   b. Drop on demand method of MJ   [05]
 • Diagram – 3 M
 • Explanation – 2 M
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Parameter AM machining ‘NC machining
+
+Material AM includes development of NC used for machining soft
+polymeric material, waxes and materials or mediumdensity
+Paper laminates. fiber board, machinable foams
+
+and machinable waxes etc.
+
+Speed Higher, takesfewhourstomake | Lower, takes weeks to develop
+part. Same part.
+
+Complexity Complex operation Easy operation
+
+Efficiency Higher Lower
+
+Accuracy More accurate Comparatively less
+
+Programming InM machine the part won't be | Incorrect programming can
+built propertly if in correct badly damage the machine and
+programmingis done may even be safety risk.
+
+Process. Itis an additive process. Itis subtractive process.
 --- page 2 ---
 CO-4; BL-2   c.   Topology optimization explanation – 5 M   [05]
 CO-3; BL-4   d.   Post-processing techniques used during aesthetic improvement   [05]
@@ -41,6 +65,37 @@ CO-1; BL-2   a.   Steps involved in additive manufacturing process chain   [10]
 • Introduction/diagram/steps – 2 M
 • Explanation – 8 M
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Topology optimization
+* Topology optimization (TO) methods determine the overall
+configuration of shape elements in a design problem.
+¢*TO results are used as inputs to subsequent size or shape
+optimization problems.
++ As structural optimization methods, finite element analyses are
+
+performed during each iteration of the optimization method, which
+
+means that TO can be computationally demanding.
+
+Aesthetic Polishing After sanding a plastic polishing compound is used
+on the surface. Polishing may not be suitable for
+designs with small intricate features
+
+Priming & Priming and painting of FFF is the most common
+
+painting method of post-processing. Like polishing, the
+better a surface is prepared before painting the
+better it will look after painting. Sanding with 600
+grit paper provides an adequate surface.
+Primer is applied in 2 thin coats before painting
+{if it is required). For painting, regular spray
+paint is suitable and will result in a smooth finish
+when applied correctly over a number of thin coats.
+
+Metal FFF parts can be coated with a conductive coating
+plating and then subjected to traditional metal coating
+processes to achieve a metal finish.
 --- page 3 ---
 CO-2; BL-2   b.   Laser Engineered Net Shaping (LENS) process -   [10]
 • Introduction – 2 M
@@ -78,6 +133,39 @@ CO-2; BL-2   b.   Directed energy deposition process.   [10]
 • Diagram 3 M
 • Applications 1 M.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+F_** scanning
+
+CO, Laser [p> Mirors
+
+"Laser Beam
+IR heater &X
+Counter-Rotating Powder Bed
+
+Powder Level; |
+
+Build
+Platform
+
+Cartridges
+
+* Slicing - foundational operation of 3D printing.
+
+* Requires computing the intersection curves of models and slicing
+planes.
+
+* Operation is time-consuming, and is a key factor that affects printing
+quality.
+
+* Most slicing algorithms work on standard tessellation language (STL)
+models.
+
+* The data in the STL file format is a discretized form of the 3D models,
+which contain discretization errors.
+
+* Many studies considered a slicing algorithm on the original data of the
+3D models.
 --- page 5 ---
 Q7
 CO-3; BL-4   a.   Post-processing techniques for 3D-printed parts introduction – 1 M   [10]

@@ -9,7 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CSE_DS_7011/Formal Language and Automata Theory/ANS_Formal Language and Automata Theory(702CO0C043)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
 - Text: mixed (29 pages), mean OCR confidence 80.1
-- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 5 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -163,6 +163,50 @@ b   Describe the process of verifying a solution in polynomial time. How does it
 CO-4,
 BL-4   Ans:
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Rewrite:
+
+© A XAY| XY
+
+* C+xXCla
+
+* D—XDX | YDY | XX | YY
+
+Step 4: Convert to Binary Form (1.5 Marks)
+
+Break long productions:
+Introduce new variables:
+
+* 5,5 AC
+* S,-AD
+
+Final productions:
+
+© S—AS,D|AS2| AS, | AC] CD|XC]a
+* 5,7 AC
+
+® §:-AD
+
+© A+ XAY| XY
+
+* C+xXCla
+
+* D—XDX | YDY | XX | YY
+
+® Xa
+
+* Yb
+
+Step 5: Final CNF Form (0.5 Mark)
+
+All productions are now of the form:
+
+® A+BC
+
+e Asa
+
+wW Hence, grammar is in Chomsky Normal Form
 --- page 6 ---
 1. Definition of Verification (2 Marks)
 
@@ -287,6 +331,30 @@ We perform subtraction using unary representation:
 • Cancel one 1 from both sides repeatedly
 •   If left side becomes empty first → result is negative
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+e q0— (aq, b-q2)
+
+wv Different behavior — separate
+
+5. Final Partition (0.5 Mark)
+© A= {q0}
+
+© B= {q1, q2}
+
+© C= {q3, 44}
+
+6. Minimized DFA (0.5 Mark)
+
+State a
+-A B
+B B
+*C Cc
+
+Final Answer
+e States: {A, B, C}
+e Start state: A
+e Final state: C
 --- page 10 ---
 2. Idea of Turing Machine   (2 Marks)
 • Scan leftmost 1 and mark it (X)
@@ -334,11 +402,68 @@ Ans:
 CO-4,
 BL-2
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+1. Concept of Reduction (2 Marks)
+
+Reduction is a method of transforming one problem into another to show difficulty.
+
+e A language Ly is reducible to Lz if:
+Ii <I,
+
+e Meaning: if we can solve Lo, we can also solve Li
+
+wv Used to prove undecidability
+
+2. Idea of Reduction (1 Mark)
+
+e Take a known undecidable problem
+© Convert it into another problem
+¢ If conversion is possible - new problem is also undecidable
+
+3. Emptiness Problem (2 Marks)
+
+The emptiness problem for Turing Machines is:
+Er = {(M) | L(M) = 0}
+
+Y Question: Does machine M accept no strings at all?
+
+4. Proof of Undecidability (4 Marks)
+
+Step 1: Known Undecidable Problem
+
+Use Acceptance Problem:
+
+Arm = {(M,w) | M accepts w}
 --- page 12 ---
 3.   a   Apply concept of Turing machine to decrement the binary number by 1.   10
 CO-4   Simulate the machine with following example:1010
 BL-3   Ans:
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Step 2: Reduction Construction
+
+Construct a new machine M' from M and w:
+e¢ = M' ignores its input
+¢ Simulates M on w
+e If M accepts w, then M’ accepts all inputs
+¢ Otherwise, M’ accepts nothing
+
+Step 3: Key Observation
+e If M accepts w — L(M’) 40
+¢ If M does not accept w — L(M’) = 0
+
+Step 4: Contradiction
+
+e Ifwe could decide Eps, we could decide A7yyy
+¢ But Ayyy is undecidable
+
+wv Hence, contradiction
+
+5. Conclusion (1 Mark)
+e Ey is undecidable
+e Reduction proves that solving it would solve another undecidable problem
 --- page 13 ---
 1. Concept (2 Marks)
 
@@ -379,6 +504,31 @@ b   Explain the restrictions on productions in Context-Sensitive Grammars with s
 CO-3,
 BL-2   Ans:
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+4. Transition Function (2 Marks)
+
+State Symbol Next State Write Move
+qo o/1 qo same R
+qo B qi B L
+qi 0 qi 1 L
+qi 1 af 0 Ss
+
+5. Simulation for Input: 1010 (3 Marks)
+
+Initial Tape:
+
+1010B
+
+Step 1: Move Right (q0)
+
+Head moves to end:
+1010B
+
+Step 2: Perform Decrement (q1)
+e Last bit = 0 + change to 1 — 1011
+© Move left
+e Next bit = 1 — change to 0 and stop
 --- page 15 ---
 1. Introduction (2 Marks)
 
@@ -590,6 +740,45 @@ CO-1,   concatenation, Kleene closure and positive closure with following exampl
 BL-2   B= {c,d}.
 Ans:
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+4. Transition Function (2 Marks)
+
+Push two A‘s for each a:
+© 5(q0, a, ZO) — (q0, AAZO)
+© 8(q0, a, A) — (qQ, AAA)
+
+Start popping for b:
+* 6(q0, b, A) = (q1, €)
+
+Continue popping:
+« 8(q1,b, A)   (q1, 2}
+
+Accept condition:
+
+e 8(q1, 2, Z0) — (qf, 20)
+
+5. Simulation (Example: aabb bb — aabbbb) (2 Marks)
+
+Initial:
+
+Stack: ZO
+
+Input Action Stack
+
+a push AA AAZO
+
+a push AA AAAAZO
+b popA AAAZO
+b popA AAZO
+
+b popA AZO
+
+b popA ZO
+
+& accept ZO
+
+wv Accepted
 --- page 22 ---
 Given:
 
@@ -637,6 +826,30 @@ of a Turing Machine (TM)
 power
 • Examples of equivalent models:
 ********** 23 **********
+
+[Text in pictures on this page, read by OCR]
+5. String Operations (6 Marks)
+(i) Union (1 Mark)
+AUB = {a,b,c,d}
+
+& Combines all symbols from both sets
+
+(ii) Concatenation (1 Mark)
+AB = {ay|xe A,y € B}
+oH Result:
+
+AB = {ac, ad, be, bd}
+
+(iii) Kleene Closure (A*) (2 Marks)
+
+wv Includes:
+e Empty string €
+
+e All possible combinations of a and b
+
+(iv) Positive Closure (A*) (2 Marks)
+
+w@ Same as Kleene closure but excludes €
 --- page 24 ---
 o Turing Machine
 o Lambda Calculus
@@ -711,6 +924,30 @@ Ans:
 CO-3,
 BL-2
 ********** 27 **********
+
+[Text in pictures on this page, read by OCR]
+1. Definition (2 Marks)
+
+A Context-Free Grammar (CFG) is said to be ambiguous if:
+
+There exists at least one string in the language that has more than one parse tree or more than one
+leftmost/rightmost derivation.
+
+wv Ambiguity means multiple interpretations of the same string
+
+2. Key Idea (1 Mark)
+
+e Same string — different structures (parse trees)
+
+e Leads to confusion in syntax analysis
+
+3. Example of Ambiguous Grammar (4 Marks)
+Grammar:
+
+E+E+E|E*E|(E£)|\id
+String:
+
+id + id * id
 --- page 28 ---
 Two Different Interpretations:
 Parse 1:
@@ -769,6 +1006,7 @@ FAR ICR QA HH
 - Source: `02_Question_Papers/2024/Sem_06/Final-Exam/BTech_CSE_DS_7011/Formal Language and Automata Theory/ANS_Formal Language and Automata Theory(702CO0C043)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 May 2025
 - Text: mixed (13 pages), mean OCR confidence 56.5
+- 16 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -869,6 +1107,49 @@ Q3   CO-   Compare Type-0, Type-1, Type-2,Type-3
 1;   [10]
 BL-2 (Grammars,Languages and Automata) in term of Chomsky
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Solution — We observe that “A, — A; Ay’ is the only production with
+side. Let us substitute Az Ay for A, in the production “Ay >A, Ay’.
+The resulting set of productions is:
+
+Ai A2As
+A, 3A, |b
+As Az As A2| a
+
+Similarly, let us substitute for the first occurrence of A; in the production rule for As w4
+
+Ay on the left
+
+Ay A, and 6.
+
+‘The new set will be:
+A, A, As
+
+Az A3 A, |b
+
+
+The production "A, —> A; A, Ay A,’ is recursive (the first symbol on the right-hand side
+of the production is the same as the mon-terminal on the the left-hand side). Hence, we
+introduce 8 mew symbol B,. and write the following productions:
+
+Ay—> BAS Az By
+AaB,
+‘The resulting set is:
+AAAs
+Az As Ay |b
+Now, the productions for A, are all in GNF. Therefore, we can substitute for A, in the
+“Ay —> Ay Ay". The set of
+
+Ay Ar Ay
+A> BAA: By A, | a BA, BASAZA LAA
+Now, the productions for A, are also in GNF.
+_Hence, we substitute for A; in “A, —> A; A,’ We now have:
+A;—> b Ay Az By A, | @ By A,|B Ay A2A\ GAD
+Now, we see that the productions for A, are also in GNF. Hence, we substitute these in the
+production for B; to get the final grammar in GNF.
+An equivalent grammar in GNF, thus, can be written as:
+Az —> 6 Ay Az, By A,| a By A,|b ASA, A,|aA,|b
 --- page 5 ---
 Hierarchy.
 The Chomsky Hierarchy categorizes grammars, languages, and
@@ -918,6 +1199,27 @@ Q4   CO-   Define Arden’s Theorem.
 2;   Convert the given DFA to Regular Expression using Arden’s   [10]
 BL-3 Theorem:
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+\}
+Wa
+
+Unristricted Grammar
+(Recognized by
+Turing Machine)
+
+Context Sesitive
+Grammar
+(Accepted by Linear
+Bound Automata)
+
+Context Free Grammar
+(Accepted by Push
+Down Automata)
+
+Regular Grammar
+(Accepted By
+Finite Automata)
 --- page 7 ---
 a cl
 jn - qi uct »
@@ -978,6 +1280,34 @@ CO-   Design a Turing Machine to find the value of log2(n), where n
 is any binary number and perfect power of 2.   [10]
 BL-5
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+z S—>bA|aB
+A >bAA|aS|a
+B3aBB\bS|b
+Solution We see that productions ‘A — a’ and ‘B — ’ are already in CNF.
+Now, if we introduce two more productions, R, and R, such that:
+
+Roa
+Rb
+then, the given grammar can be written as:
+S->RA|RB
+A>R,AA|R,S|a
+B-R,BB|R,S|b
+Ria
+Rb
+We see that there are still two more productions which are not in CNF; namely, ‘A — R;4
+and ‘B > R, BB’.
+After introducing two more new symbols—R; and R,—and further break-up, we w
+the given grammar in CNF as:
+SOR,A|R,B
+A>R,R3|R,S|a
+BRR RS|b
+Ria
+
+R76
+R, AA
+R, > BB
 --- page 11 ---
 CO-   Design a Turing Machine that recognizes binary palindromes.
 3;
@@ -991,6 +1321,48 @@ BL-2   2. Concatenation
 4. Difference
 Closure properties on regular languages are defined as certain
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Example 4.13 Design a TM to find the value of log, (n), where n is any binary rw
+land a perfect power of 2.
+
+Solution It is given that n is a binary number and a perfect power of 2.
+We know:
+
+ae 1 (binary)
+= 10 (binary)
+aoe 100 (binary)
+2 = 8 = 1000 (binary)
+From the aforementioned listing, we have
+Jog, (2°) = log; (1) = 0 (zero number of 0's after first 1 in the binary formar
+Jog, (2!) = log;(2) = 1 (one 0 after first 1 in the binary format, which is 10)
+Jog, (2?) = 2log, (2) = 2 X 1 = 2 (two 0's after first I in binary format.
+is 100)
+‘The conclusion is that, the value of log: (n), where n is a binary number and 2
+power of 2, is equal to the number of 0's after the first | in the given number 1.
+
+Algorithm
+Count of the of zeros after the jing “1° of the binary
+the required answer.
+
+1. Read the first digit, that is, 1, and ignore it.
+
+2. Read the following 0 from the string that follows the 1, replace it by a symbol. a.
+write a symbol. c, after the right end-marker.
+
+3. Repeat the procedure till all the O's that follow 1 get replaced by a's.
+
+1. The number of c’s written after the right end-marker gives the required value of
+@.
+
+Thus, the input string is in binary format and the resultant value is in unary
+wsing symbol c.
+Note: We could use a simpler algorithm as well. which simply replaces the first digit | with a
+
+blank character 6; the remaining number of O's gives the required answer. However. this would
+<dlestroy the input parameter. and hence we do not use this algorithm.
+
+Figure 4.16 Finding the value of log, (n} (a) Initial configuration (b) TG for TM that finds log: (m)
 --- page 12 ---
 operations on regular language that are guaranteed to produce
 regular language. Closure refers to some operation on a
@@ -1181,6 +1553,26 @@ CO-   Design a DFA where ∑=(a,b) such a way that, Number of a(w) mod
 [10]
 2;   3= 0 and Number of b(w) mod 3= 0
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+\)
+
+Unristricted Grammar
+(Recognized by
+Turing Machine)
+
+Context Sesitive
+Grammar
+(Accepted by Linear
+Bound Automata)
+
+Context Free Grammar
+(Accepted by Push
+Down Automata)
+
+Regular Grammar
+(Accepted By
+Finite Automata)
 --- page 5 ---
 BL-3
 CO-   Define Arden’s Theorem.

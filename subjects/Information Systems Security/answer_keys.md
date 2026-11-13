@@ -273,6 +273,31 @@ Role-based access controls are useful in environments with frequent personnel ch
 because access is based on a job description (i.e., a role or task) rather than on a subject’s
 identity.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+1. Client Logon
+
+Key Distribution Center
+
+Authentication Server
+
+Client 9 TCT
+<
+3 A
+3 3. TGT
+a rd
+=
+g 3
+a = 4. Client-to-Server ticket
+£ 2
+= <
+2 o
+oO
+ov
+
+Server
+
+Ticket Granting Server
 --- page 7 ---
 Note the difference between groups and roles: groups define sets of users while roles
 define sets of privileges.
@@ -747,6 +772,34 @@ environment in which it is to be used.
  Appropriate measures and mechanisms by which it can enforce that security
 adequately
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+1. RECONNAISSANCE 4, CAPTURE
+
+Attacker leverages information froma Attackers access unprotected systems
+variety of factors to understand their and capture information over an
+target. extended period.
+
+They mi Iso install malware t retl
+2. INCURSION ley may also instal jare to secretly
+
+acquire data or disrupt operations.
+Attackers break into network by using
+social engineering to deliver targeted 5. EXFILTRATION
+malware to vulnerable systems and
+
+people. Captured information is sent back to
+
+attack team’s home base for analysis and
+3. DISCOVERY further exploitation fraud—or worse.
+
+Once in, the attackers stay “low and
+slow” to avoid detection.
+
+They then map the organization's
+defenses from the inside and create a
+battle plan and deploy multiple parallel
+kill chains to ensure success.
 --- page 3 ---
  Independent scrutiny or evaluation to ensure that the mechanisms have
 been selected and implemented properly so that the security policy is in fact
@@ -1017,6 +1070,20 @@ Recommendation:
 Network Based IDPS
 Justification:
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Host IDS: Examines the data in files stored on host
+and alerts systems administrators of changes
+
+External router
+
+Untrusted
+network
+
+Network IDS: Examines packets on network
+and alerts administrators of unusual patterns
+
+Intrusion Detection Systems
 --- page 9 ---
 Deploy and Configure the NIDPS at the network perimeter to monitor traffic
 coming into your company’s web servers.
@@ -1116,6 +1183,28 @@ social media platforms, stemming from incidents involving well-intentioned but h
 risk employee posts.
 2.0 Scope
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Knowledge Possession Inherence
+
+Factor Factor Factor
+(something you know) | (something you have) (something you are)
+—
+YN
+HHH
+@
+Password Smartphone Fingerprint
+.
+(?) =
+Cy
+oo)
+'
+Security Question Smart Card Retina Pattern
+Ca
+1234 (| OS
+L* J
+
+PIN Hardware Token Face Recognition
 --- page 3 ---
 This policy applies to all employees, contractors, and interns of _____ when
 referencing the company, its projects, or its work environment in any personal or
@@ -1190,6 +1279,25 @@ BL-
 3
 A= 116mod 23 = 9
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+. Firstly, Alice and Bob agree on two large prime numbers, n and g. These two integers need not
+be kept secret. Alice and Bob can use an insecure channel to agree on them.
+
+. Alice chooses another large random number x, and calculates A such that:
+A=g* modn
+
+. Alice sends the number A to Bob.
+
+. Bob independently chooses another large random integer y and calculates B such that:
+B=g’ modn
+
+. Bob sends the number B to Alice.
+
+. A now computes the secret key K1 as follows:
+K1 = BX mod n
+. B now computes the secret key K2 as follows:
+K2 = AY mod n
 --- page 5 ---
 B = 1115 mod 23 = 10
 K1 = 106 mod 23 =6
@@ -1285,6 +1393,31 @@ connects to the internal network.
 traffic between the two networks.
 •   Firewall Software:
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Dual-homed host
+used as a firewall providing Internal filtering
+Network Address Translation router
+(NAT)
+
+Trusted network
+
+Se , :
+- - i - GQ - GS" - - - -- + - :-- 4 ---
+: H
+Blocked S ; :
+aioe internal
+saab data packets
+data packets
+
+Public IP addresses NAT assigned local addresses
+
+Extemal Proxy access
+
+filtering router
+
+Untrusted
+network
 --- page 7 ---
 – The firewall software on the dual-homed host is responsible for filtering
 traffic based on predefined security policies. It can analyze both incoming

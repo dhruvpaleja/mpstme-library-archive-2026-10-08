@@ -3434,6 +3434,38 @@ A.
 public policy cannot serve as consideration for enforceable contracts.
 2. Need not always be in terms of money; can be a promise to do or to abstain from doing something.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Contract of Indemnity Contract of Guarantee
+
+It refers to a Contract by which one party promises to save the other from _It refers to a Contract to perform the promise or discharge the liability of a
+loss caused by conduct of the promisor or another person. third person in case of his default.
+
+In contract of guarantee, the primary liability is of principal debtor and the
+
+In contract of indemnity, the liability of the promisor is primary. liability of surety is secondary.
+
+Contract between the indemnifier and the indemnity holder is express and Contract between surety and principal debtor is implied and between
+speci creditor and principal debtor is express.
+
+In contract of indemnity there are two parties indemnifier and the indemnity _In contract of guarantee there are three parties i.e. creditor, the principal
+holder. debtor and surety.
+
+In contract of guarantee there are three agreements i.e. agreement between
+the creditor and principal debtor, the creditor and surety and surety and
+principal debtor.
+
+In Contract of indemnity there is only one agreement i.e. the agreement
+between indemnifier and indemnity holder.
+
+Contract of indemnity protects the promise from loss. Contract of guarantee is for the surety of the creditor.
+
+In contract of guarantee, the surety does not require any relinquishment for
+filing of suit. The surety gets the right to file suit against the principal debtor
+as and when the surety pays the debt.
+
+In Contract if indemnity, the promisor cannot file the suit against third person
+until and unless the promisee relinquishes his right in favour of the promisor.
 --- page 4 ---
 3. Should not be physically impossible or illusory. For example, promise to double the money by
 magic or to make a dead man alive, are impossible acts and therefore such promises constitute no
@@ -3699,6 +3731,38 @@ A.
 public policy cannot serve as consideration for enforceable contracts.
 2. Need not always be in terms of money; can be a promise to do or to abstain from doing something.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Contract of Indemnity Contract of Guarantee
+
+It refers to a Contract by which one party promises to save the other from _It refers to a Contract to perform the promise or discharge the liability of a
+loss caused by conduct of the promisor or another person. third person in case of his default.
+
+In contract of guarantee, the primary liability is of principal debtor and the
+
+In contract of indemnity, the liability of the promisor is primary. liability of surety is secondary.
+
+Contract between the indemnifier and the indemnity holder is express and Contract between surety and principal debtor is implied and between
+speci creditor and principal debtor is express.
+
+In contract of indemnity there are two parties indemnifier and the indemnity _In contract of guarantee there are three parties i.e. creditor, the principal
+holder. debtor and surety.
+
+In contract of guarantee there are three agreements i.e. agreement between
+the creditor and principal debtor, the creditor and surety and surety and
+principal debtor.
+
+In Contract of indemnity there is only one agreement i.e. the agreement
+between indemnifier and indemnity holder.
+
+Contract of indemnity protects the promise from loss. Contract of guarantee is for the surety of the creditor.
+
+In contract of guarantee, the surety does not require any relinquishment for
+filing of suit. The surety gets the right to file suit against the principal debtor
+as and when the surety pays the debt.
+
+In Contract if indemnity, the promisor cannot file the suit against third person
+until and unless the promisee relinquishes his right in favour of the promisor.
 --- page 4 ---
 3. Should not be physically impossible or illusory. For example, promise to double the money by
 magic or to make a dead man alive, are impossible acts and therefore such promises constitute no
@@ -3964,6 +4028,38 @@ A.
 public policy cannot serve as consideration for enforceable contracts.
 2. Need not always be in terms of money; can be a promise to do or to abstain from doing something.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Contract of Indemnity Contract of Guarantee
+
+It refers to a Contract by which one party promises to save the other from _It refers to a Contract to perform the promise or discharge the liability of a
+loss caused by conduct of the promisor or another person. third person in case of his default.
+
+In contract of guarantee, the primary liability is of principal debtor and the
+
+In contract of indemnity, the liability of the promisor is primary. liability of surety is secondary.
+
+Contract between the indemnifier and the indemnity holder is express and Contract between surety and principal debtor is implied and between
+speci creditor and principal debtor is express.
+
+In contract of indemnity there are two parties indemnifier and the indemnity _In contract of guarantee there are three parties i.e. creditor, the principal
+holder. debtor and surety.
+
+In contract of guarantee there are three agreements i.e. agreement between
+the creditor and principal debtor, the creditor and surety and surety and
+principal debtor.
+
+In Contract of indemnity there is only one agreement i.e. the agreement
+between indemnifier and indemnity holder.
+
+Contract of indemnity protects the promise from loss. Contract of guarantee is for the surety of the creditor.
+
+In contract of guarantee, the surety does not require any relinquishment for
+filing of suit. The surety gets the right to file suit against the principal debtor
+as and when the surety pays the debt.
+
+In Contract if indemnity, the promisor cannot file the suit against third person
+until and unless the promisee relinquishes his right in favour of the promisor.
 --- page 4 ---
 3. Should not be physically impossible or illusory. For example, promise to double the money by
 magic or to make a dead man alive, are impossible acts and therefore such promises constitute no
@@ -4229,6 +4325,38 @@ A.
 public policy cannot serve as consideration for enforceable contracts.
 2. Need not always be in terms of money; can be a promise to do or to abstain from doing something.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Contract of Indemnity Contract of Guarantee
+
+It refers to a Contract by which one party promises to save the other from _It refers to a Contract to perform the promise or discharge the liability of a
+loss caused by conduct of the promisor or another person. third person in case of his default.
+
+In contract of guarantee, the primary liability is of principal debtor and the
+
+In contract of indemnity, the liability of the promisor is primary. liability of surety is secondary.
+
+Contract between the indemnifier and the indemnity holder is express and Contract between surety and principal debtor is implied and between
+speci creditor and principal debtor is express.
+
+In contract of indemnity there are two parties indemnifier and the indemnity _In contract of guarantee there are three parties i.e. creditor, the principal
+holder. debtor and surety.
+
+In contract of guarantee there are three agreements i.e. agreement between
+the creditor and principal debtor, the creditor and surety and surety and
+principal debtor.
+
+In Contract of indemnity there is only one agreement i.e. the agreement
+between indemnifier and indemnity holder.
+
+Contract of indemnity protects the promise from loss. Contract of guarantee is for the surety of the creditor.
+
+In contract of guarantee, the surety does not require any relinquishment for
+filing of suit. The surety gets the right to file suit against the principal debtor
+as and when the surety pays the debt.
+
+In Contract if indemnity, the promisor cannot file the suit against third person
+until and unless the promisee relinquishes his right in favour of the promisor.
 --- page 4 ---
 3. Should not be physically impossible or illusory. For example, promise to double the money by
 magic or to make a dead man alive, are impossible acts and therefore such promises constitute no
@@ -4494,6 +4622,38 @@ A.
 public policy cannot serve as consideration for enforceable contracts.
 2. Need not always be in terms of money; can be a promise to do or to abstain from doing something.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Contract of Indemnity Contract of Guarantee
+
+It refers to a Contract by which one party promises to save the other from _It refers to a Contract to perform the promise or discharge the liability of a
+loss caused by conduct of the promisor or another person. third person in case of his default.
+
+In contract of guarantee, the primary liability is of principal debtor and the
+
+In contract of indemnity, the liability of the promisor is primary. liability of surety is secondary.
+
+Contract between the indemnifier and the indemnity holder is express and Contract between surety and principal debtor is implied and between
+speci creditor and principal debtor is express.
+
+In contract of indemnity there are two parties indemnifier and the indemnity _In contract of guarantee there are three parties i.e. creditor, the principal
+holder. debtor and surety.
+
+In contract of guarantee there are three agreements i.e. agreement between
+the creditor and principal debtor, the creditor and surety and surety and
+principal debtor.
+
+In Contract of indemnity there is only one agreement i.e. the agreement
+between indemnifier and indemnity holder.
+
+Contract of indemnity protects the promise from loss. Contract of guarantee is for the surety of the creditor.
+
+In contract of guarantee, the surety does not require any relinquishment for
+filing of suit. The surety gets the right to file suit against the principal debtor
+as and when the surety pays the debt.
+
+In Contract if indemnity, the promisor cannot file the suit against third person
+until and unless the promisee relinquishes his right in favour of the promisor.
 --- page 4 ---
 3. Should not be physically impossible or illusory. For example, promise to double the money by
 magic or to make a dead man alive, are impossible acts and therefore such promises constitute no
@@ -4759,6 +4919,38 @@ A.
 public policy cannot serve as consideration for enforceable contracts.
 2. Need not always be in terms of money; can be a promise to do or to abstain from doing something.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Contract of Indemnity Contract of Guarantee
+
+It refers to a Contract by which one party promises to save the other from _It refers to a Contract to perform the promise or discharge the liability of a
+loss caused by conduct of the promisor or another person. third person in case of his default.
+
+In contract of guarantee, the primary liability is of principal debtor and the
+
+In contract of indemnity, the liability of the promisor is primary. liability of surety is secondary.
+
+Contract between the indemnifier and the indemnity holder is express and Contract between surety and principal debtor is implied and between
+speci creditor and principal debtor is express.
+
+In contract of indemnity there are two parties indemnifier and the indemnity _In contract of guarantee there are three parties i.e. creditor, the principal
+holder. debtor and surety.
+
+In contract of guarantee there are three agreements i.e. agreement between
+the creditor and principal debtor, the creditor and surety and surety and
+principal debtor.
+
+In Contract of indemnity there is only one agreement i.e. the agreement
+between indemnifier and indemnity holder.
+
+Contract of indemnity protects the promise from loss. Contract of guarantee is for the surety of the creditor.
+
+In contract of guarantee, the surety does not require any relinquishment for
+filing of suit. The surety gets the right to file suit against the principal debtor
+as and when the surety pays the debt.
+
+In Contract if indemnity, the promisor cannot file the suit against third person
+until and unless the promisee relinquishes his right in favour of the promisor.
 --- page 4 ---
 3. Should not be physically impossible or illusory. For example, promise to double the money by
 magic or to make a dead man alive, are impossible acts and therefore such promises constitute no
@@ -5024,6 +5216,38 @@ A.
 public policy cannot serve as consideration for enforceable contracts.
 2. Need not always be in terms of money; can be a promise to do or to abstain from doing something.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Contract of Indemnity Contract of Guarantee
+
+It refers to a Contract by which one party promises to save the other from _It refers to a Contract to perform the promise or discharge the liability of a
+loss caused by conduct of the promisor or another person. third person in case of his default.
+
+In contract of guarantee, the primary liability is of principal debtor and the
+
+In contract of indemnity, the liability of the promisor is primary. liability of surety is secondary.
+
+Contract between the indemnifier and the indemnity holder is express and Contract between surety and principal debtor is implied and between
+speci creditor and principal debtor is express.
+
+In contract of indemnity there are two parties indemnifier and the indemnity _In contract of guarantee there are three parties i.e. creditor, the principal
+holder. debtor and surety.
+
+In contract of guarantee there are three agreements i.e. agreement between
+the creditor and principal debtor, the creditor and surety and surety and
+principal debtor.
+
+In Contract of indemnity there is only one agreement i.e. the agreement
+between indemnifier and indemnity holder.
+
+Contract of indemnity protects the promise from loss. Contract of guarantee is for the surety of the creditor.
+
+In contract of guarantee, the surety does not require any relinquishment for
+filing of suit. The surety gets the right to file suit against the principal debtor
+as and when the surety pays the debt.
+
+In Contract if indemnity, the promisor cannot file the suit against third person
+until and unless the promisee relinquishes his right in favour of the promisor.
 --- page 4 ---
 3. Should not be physically impossible or illusory. For example, promise to double the money by
 magic or to make a dead man alive, are impossible acts and therefore such promises constitute no

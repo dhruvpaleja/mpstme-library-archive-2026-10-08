@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_CSBS_7036/Compiler Design/ANS_Compiler Design(702CO0C028)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 Dec 2025
 - Text: text (9 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -244,6 +245,27 @@ Activation Record includes some fields which are -
 Return values, parameter list, control links, access links, saved machine
 status, local data, and temporaries.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Based on the state diagram, we derive the LR(1) parsing table as follows:
+
+Action Goto
+State
+
+0 $3 s4 1 2 4
+1 acc
+2 s6
+3 sd 7 8
+4 s10
+5 5 16
+6
+7 sll
+8 310
+9 16 5
+10 13
+ll 12
+
+12 14
 --- page 8 ---
 Explain each field of the activation record
 A
@@ -288,6 +310,27 @@ B   Write a note on: Compilation of object-oriented features
 [10]
 Students can write about any two features. Each feature carry 5 marks
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Stack input action
+aaabb$ shift
+
+a aabb$ reduce : ADa
+A aabb$ shift
+
+Aa abb$ reduce: ADAa
+A abb$ shift
+
+Aa bb$ reduce: A>Aa
+A bb$ shift
+
+Ab b$ reduce: B>b
+AB b$ shift
+
+ABb $ reduce: BD Bb
+AB $ reduce: S>AB
+
+S $ accept
 ````
 
 ## 2025-26 · Final-Exam · Sem 5 · Answer key · paper ee093fc0bed0
@@ -297,6 +340,7 @@ Students can write about any two features. Each feature carry 5 marks
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_CSBS_7036/Compiler Design/ANS_Compiler Design(702CO0C028)_2025-2026_ee093fc0be.pdf`
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: mixed (15 pages), mean OCR confidence 91.9
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -446,6 +490,20 @@ technique carry 2.5 marks
 Common sub expression elimination:
 [10]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Common subexpressions are occurrences of expressions yielding the
+same value.
+
+We can avoid recomputing the expression if we can use the previously
+computed value.
+
+Example:
+a=b*c t =b*c
+_ == a=t
+x= b*ct5.2
+
+x= t+5.2
 --- page 5 ---
 Copy propagation
 Dead-code elimination:
@@ -456,6 +514,45 @@ operation.
 e., x = 2*3 +y;   x = 6 + y
 Strengthreduction
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+li) copy propagation
+A. Constant Propagation:
+If the value of a variable is a constant, then replace the variable
+with the constant. The variable may not always be a constant.
+X=2; ==> Y=2 *a;
+Y=x*a;
+B. Variable Propagation:
+X =b;
+
+Y=x *a; — Y=b *a;
+
+Code which can be omitted from a program without affecting its results is
+called dead code.
+
+Dead code is detected by checking whether the value assigned in an
+assignment statement is used anywhere in the program.
+
+X=2....x is nt used anywhere Y=ate
+
+Y - ate Print(y)
+Print(y)
+
+Replaces the occurrence of a time consuming operation by an
+occurrence of a faster operation eg., replacement of a multiplication
+by an addition.
+
+Egl.:x=y*2 > x=yty
+
+for i=1 to 10 do itemp=5;
+begin for i=1 to 10 do
+--- ==) begin
+k=1*5; ---
+5 k = itemp;
+end —
+
+itemp = itemp+s;
+end
 --- page 6 ---
 Explain how the tokens are specified and recognized in lexical analysis
 phase of a compiler? For the given code segment, list down the
@@ -664,6 +761,24 @@ Finding closure and goto with DFA [ 4 marks]
 Parsing table [4 marks]
 Final answer [1 mark] ---it is LR(1) grammar
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Flow Graphs
+
+* We represent the flow of control by a flow graph.
+* The nodes of the flow graph are the basic blocks.
+* There is an edge from block B to block C if and only if
+* itis possible for the first instruction in block C to
+immediately follow the last instruction in block B.
+There are two ways that such an edge could be justified:
+* There is a conditional or unconditional jump from the end of B
+to the beginning of C.
+* Block C immediately follows Block B in the original order of the
+three-address instructions
+* Bdoes not end in an unconditional jump
+* (Maybe due to labels
+
+We say that B is a predecessor of C, and Cis a successor of B.
 --- page 12 ---
 B   Discuss the structure of an activation record and its role in procedure
 activation.
@@ -682,6 +797,27 @@ Activation Record includes some fields which are -
 Return values, parameter list, control links, access links, saved machine
 status, local data, and temporaries.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Based on the state diagram, we derive the LR(1) parsing table as follows:
+
+Action Goto
+State
+
+0 $3 s4 1 2 4
+1 acc
+2 s6
+3 sd 7 8
+4 s10
+5 5 16
+6
+7 sll
+8 310
+9 16 5
+10 13
+ll 12
+
+12 14
 --- page 13 ---
 Explain each field of the activation record
 A
@@ -716,11 +852,70 @@ BL-   Rightmost derivation in reverse [2 marks]
 Stack implementation steps [ 8 marks]
 The given string is accepted
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Names in the source program are mapped to addresses of data objects in run-time
+memory by the front end and code generator.
+
+It makes use of symbol table, that is, a name in a three-address statement refers to a
+symbol-table entry for the name.
+
+Labels in three-address statements have to be converted to addresses of instructions.
+For example,
+Jj: goto i generates jump instruction as follows :
+
+O if i<j, a backward jump instruction with target address equal to location of
+code for quadruple i is generated.
+
+QO ifi>j, the jump is forward. We must store on a list for quadruple i the
+location of the first machine instruction generated for quadruple j. When i is
+processed, the machine locations for all instructions that forward jumps to i
+are filled.
+
+The instructions of target machine should be complete and uniform.
+
+Instruction speeds and machine idioms are important factors when efficiency of
+target program is considered.
+
+¢ The quality of the generated code is determined by its speed and size.
+
+The former statement can be translated into the latter statement as shown below:
+
+a=bte ,
+mate can be translated into
+
+MOY bRo
+ADD c.Ro
+MOV Roa
+MOV aRo +— This can be eliminated
+ADD e,Ro
+MOV Ro,d
 --- page 15 ---
 B   Write a note on: Compilation of object-oriented features
 [10]
 Students can write about any two features. Each feature carry 5 marks
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Stack input action
+aaabb$ shift
+
+a aabb$ reduce : ADa
+A aabb$ shift
+
+Aa abb$ reduce: ADAa
+A abb$ shift
+
+Aa bb$ reduce: ADAa
+A bb$ shift
+
+Ab b$ reduce: B>b
+AB b$ shift
+
+ABb $ reduce: BD Bb
+AB $ reduce: S>AB
+
+S $ accept
 ````
 
 ## 2025-26 · Re-Exam · Sem 5 · Answer key · paper 297bd2786836
@@ -802,6 +997,20 @@ E → T
 T → int
 T → int * T
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+4 Source 3 Target 4 Source 3 Target
+languages machines languages machines
+
+Intermediate
+code optimizer
+
+4 front ends +
+
+1 optimizer +
+4 front ends + 3 code generators
+4x3 optimizers +
+4x3 code generators
 --- page 3 ---
 T → ( E )
 Problem with example: 5 marks
@@ -991,6 +1200,17 @@ CO-; SO-;   [10]
 BL-
 Stack implementation steps [ 8 marks]
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+3-address code Quadruples Triples
+
+op arg, | arg, | result op | arg, | arg,
+1 t1 =b*c . b c tl Oo; * b c
+2 t2=at+t1 + a t1 t2 1] + a | (0)
+3 t3 =b*c 6 b c t3 2\|* b c
+4 t4=d/t3 / d 13 t4 3] 1 d | (2)
+
+5 t5 = t2-t4 2 12 t4 t5 4] - | @) } @)
 --- page 9 ---
 The given string is accepted
 B   Write a note on imperative and non-imperative programming
@@ -1444,6 +1664,27 @@ BL-3   4 Marks - activation record
 Subdivision of runtime memory
 [10]
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Memory Locations for Code are
+
+Code ‘ Determined at Compile Time.
+
+Locations of Static Data Can also be
+
+Static Data Determined at Compile Time.
+
+Data Objects Allocated at Run- time.
+
+Stack (Activation Records)
+
+uy
+
+Free Memory
+
+‘Other Dynamically Allocated Data
+Heap +—_—— Objects at Run-time. (For Example,
+Malloc Area in C).
 --- page 16 ---
 Activation Record:
 The contents of Activation records .
@@ -1461,6 +1702,28 @@ Temporaries - it stores the value that arises in the evaluation of an expression
 Activation Tree:
 Q6
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+integer a{11] integer a{11]
+
+main main main main
+/ .
+eee
+integer i
+(a) Frame for main (b) r is activated
+integer a{11} integer a{11
+main main main main
+if | integer m, n < | integer m,n
+r 1,9 r 1,9
+a(1,9) q(1, 9) § ) q(1,9)
+brn serena ’ ———
+integer i < integer i
+P09) 43) integer m,
+a a! 1,3
+p(1,3) (1,0) | 29)
+integer i
+
+(c) r has been popped and q(1,9) pushed (d) Control returns to g(1,3)
 --- page 17 ---
 CO-3 A 5 Marks – Flow control statements
 BL-3   5 Marks – Control Flow translation of Boolean Expression
@@ -1524,6 +1787,39 @@ o Linker
 o Loader
 -   Preprocessors:-
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+The augmented grammar corresponding to given grammar is
+
+sos
+1, S—>AaAb
+2. S> BbBa
+3.A>3€
+4.B>6e
+The canonical collection LR(0) items is constructed as given below:
+Iy: sos
+S — .AaAb
+S — .BbBa
+A>.
+Bo.
+
+GOTO (Ip, 8)=1,:S' > S.
+
+GOTO (Ip, A)=1,:S > A.aAb
+
+GOTO (Ih, B)=1,:S — B.bBa
+
+GOTO (1, a)=I,:S — Aa.Ab
+A >
+
+Fig. 4.31. The GOTO graph for example
+GOTO (1,, b)=1,:S — Bb.Ba
+
+B="
+GOTO (I,,A)=Ig:S — AaA.b
+GOTO (I;,B)=1,:S > BbB.a
+GOTO (I;, B) =I, :S — AadAb.
+GOTO (1, b) =I,: A — BbBa.
 --- page 20 ---
 o Before compilation, the source program in processed by
 preprocessor to prepare it for compilation

@@ -143,6 +143,32 @@ optional extension of 1–3 characters.
 Any 6 file extensions
 b.   5
 Page 5 of 12
+
+[Text in pictures on this page, read by OCR]
+Extension Meaning
+
+.bak Backup file
+
+c C source program
+
+gif Compuserve Graphical Interchange Format image
+-html World Wide Web HyperText Markup Language document
+jpg Still picture encoded with the JPEG standard
+
+.mp3 Music encoded in MPEG layer 3 audio format
+.mpg Movie encoded with the MPEG standard
+
+xe) Object file (compiler output, not yet linked)
+
+.pdf Portable Document Format file
+
+.ps PostScript file
+
+tex Input for the TEX formatting program
+
+xt General text file
+
+.Zip Compressed archive
 --- page 6 ---
 The Ostrich Algorithm is a strategy used in operating systems to deliberately ignore potential
 deadlocks or other rare issues, assuming that they occur infrequently and are not worth the cost
@@ -195,6 +221,21 @@ resource by starting at one of its earlier checkpoints. All the work done since 
 lost (e.g., output printed since the checkpoint must be discarded, since it will be printed again).
 Recovery through Killing Processes
 Page 7 of 12
+
+[Text in pictures on this page, read by OCR]
+The CPU sends virtual
+
+CPU addresses to the MMU
+package
+CPU +>
+Memory M Disk
+L- management emory controller
+unit
+
+h | ot.
+
+The MMU sends physical
+addresses to the memory
 --- page 8 ---
 The crudest but simplest way to break a deadlock is to kill one or more processes. One
 possibility is to kill a process in the cycle. With a little luck, the other processes will be able to
@@ -299,6 +340,41 @@ iii.   cat
 Type any text and press Ctrl+D to end.
 Everything typed is echoed back
 Page 11 of 12
+
+[Text in pictures on this page, read by OCR]
+Option Long Option Description
+
+-a --all List all files, even those with names that begin
+with a period, which are normally not listed
+(that is, hidden).
+
+-A --almost-all Like the -a option above except it does not
+list. . (current directory) and . . (parent
+directory).
+
+-d --directory Ordinarily, if a directory is specified, 1s will
+
+list the contents of the directory, not the
+directory itself. Use this option in conjunction
+with the - 1 option to see details about the
+directory rather than its contents.
+
+-F --classify This option will append an indicator character
+to the end of each listed name. For example, a
+forward slash (/) if the name is a directory.
+
+-h --human-readable __ In long format listings, display file sizes in
+human readable format rather than in bytes.
+
+-1 Display results in long format.
+
+-r --reverse Display the results in reverse order. Normally,
+1s displays its results in ascending
+alphabetical order.
+
+-S Sort results by file size.
+
+-t Sort by modification time.
 --- page 12 ---
 iv.   cat > lazy_dog.txt
 The quick brown fox jumped over the lazy dog.
@@ -455,6 +531,16 @@ In fig b, a file is a sequence of fixed-length records, each with some internal 
 to the idea of a file being a sequence of records is the idea that the read operation returns one
 record and the write operation overwrites or appends one record.
 Page 5 of 11
+
+[Text in pictures on this page, read by OCR]
+1 Byte 1 Record
+
+[cat [cow [pos J] [Goat] ton J Ow J} [Pony] Rat [worm]
+
+(a) (b) (c)
+
+Three kinds of files. (a) Byte sequence. (b) Record sequence.
+(c) Tree.
 --- page 6 ---
 The third kind of file structure is shown in Fig. (c). In this organization, a file consists of a tree
 of records, not necessarily all the same length, each containing a key field in a fixed position in
@@ -474,6 +560,47 @@ d. Four strategies are used for dealing with deadlocks.   5
 1. Deadlock Ignorance-Just ignore the problem. Maybe if you ignore it, it will ignore you.
 2. Deadlock Recovery-Detection and recovery. Let them occur, detect them, and take action.
 Page 6 of 11
+
+[Text in pictures on this page, read by OCR]
+Need the programmer be aware No Yes
+
+that this technique is being used?
+
+How many linear address 1 Many
+
+spaces are there?
+
+Can the total address space Yes Yes
+
+exceed the size of physical
+
+memory?
+
+Can procedures and data be No Yes
+
+distinguished and separately
+
+protected?
+
+Can tables whose size fluctuates No Yes
+
+be accommodated easily?
+
+Is sharing of procedures No Yes
+
+between users facilitated?
+
+Why was this technique To get a large To allow programs
+invemed? linear address and data to be broken
+
+space without up into logically
+
+having to buy independent address
+
+more physical spaces and to aid
+
+memory sharing and
+protection
 --- page 7 ---
 3. Deadlock Avoidance- Dynamic avoidance by careful resource allocation.
 4. Deadlock Prevention-Prevention, by structurally negating one of the four conditions.
@@ -594,6 +721,38 @@ iii.   cat
 (Type text, finish with Ctrl+D.)
 Everything typed is echoed back
 Page 10 of 11
+
+[Text in pictures on this page, read by OCR]
+-Vv
+
+--update
+
+--verbose
+
+user for confirmation. If this option is not
+specified, mv will silently overwrite files.
+
+When moving files from one directory to
+another, only move files that either don't exist,
+or are newer than the existing corresponding
+files in the destination directory.
+
+Display informative messages as the move is
+performed.
+
+Operator Description
++ Addition
+
+- Subtraction
+
+* Multiplication
+
+/ Division (but remember, since expansion supports only integer
+arithmetic, results are integers).
+
+% Modulo, which simply means “remainder.”
+
+** Exponentiation
 --- page 11 ---
 iv.   cat > favorites.txt
 My favorite songs go here.

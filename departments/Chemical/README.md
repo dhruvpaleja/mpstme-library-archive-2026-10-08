@@ -1,6 +1,6 @@
 # Chemical
 
-124 subjects, 1004 papers, 14053 extracted questions. Each subject folder holds `papers.md` (full text of every paper) and `questions.jsonl` (one record per question with marks, year and exam). Records carry a `departments` field: keep those containing "Chemical" to see only this branch's papers.
+124 subjects, 1004 papers, 14054 extracted questions. Each subject folder holds `papers.md` (full text of every paper) and `questions.jsonl` (one record per question with marks, year and exam). Records carry a `departments` field: keep those containing "Chemical" to see only this branch's papers.
 
 | Subject | Papers for this branch | Questions | Years | Full text | Questions |
 | --- | ---: | ---: | --- | --- | --- |
@@ -120,7 +120,7 @@
 | [Sales and Distribution Management](../../subjects/Sales%20and%20Distribution%20Management/README.md) | 2 | 10 | 2008-09 to 2025-26 | [papers.md](../../subjects/Sales%20and%20Distribution%20Management/papers.md) | [questions.jsonl](../../subjects/Sales%20and%20Distribution%20Management/questions.jsonl) |
 | [Solid Fluid Mechanical Operations](../../subjects/Solid%20Fluid%20Mechanical%20Operations/README.md) | 26 | 404 | 2005-06 to 2021-22 | [papers.md](../../subjects/Solid%20Fluid%20Mechanical%20Operations/papers.md) | [questions.jsonl](../../subjects/Solid%20Fluid%20Mechanical%20Operations/questions.jsonl) |
 | [Statistical Methods](../../subjects/Statistical%20Methods/README.md) | 14 | 179 | 2006-07 to 2025-26 | [papers.md](../../subjects/Statistical%20Methods/papers.md) | [questions.jsonl](../../subjects/Statistical%20Methods/questions.jsonl) |
-| [Strategic Management](../../subjects/Strategic%20Management/README.md) | 14 | 154 | 2008-09 to 2025-26 | [papers.md](../../subjects/Strategic%20Management/papers.md) | [questions.jsonl](../../subjects/Strategic%20Management/questions.jsonl) |
+| [Strategic Management](../../subjects/Strategic%20Management/README.md) | 14 | 155 | 2008-09 to 2025-26 | [papers.md](../../subjects/Strategic%20Management/papers.md) | [questions.jsonl](../../subjects/Strategic%20Management/questions.jsonl) |
 | [Strength of Materials](../../subjects/Strength%20of%20Materials/README.md) | 9 | 123 | 2005-06 to 2025-26 | [papers.md](../../subjects/Strength%20of%20Materials/papers.md) | [questions.jsonl](../../subjects/Strength%20of%20Materials/questions.jsonl) |
 | [Strength of Materials and Fabrication](../../subjects/Strength%20of%20Materials%20and%20Fabrication/README.md) | 11 | 158 | 2012-13 to 2017-18 | [papers.md](../../subjects/Strength%20of%20Materials%20and%20Fabrication/papers.md) | [questions.jsonl](../../subjects/Strength%20of%20Materials%20and%20Fabrication/questions.jsonl) |
 | [Supply Chain and Logistics Management](../../subjects/Supply%20Chain%20and%20Logistics%20Management/README.md) | 2 | 9 | 2016-17 to 2024-25 | [papers.md](../../subjects/Supply%20Chain%20and%20Logistics%20Management/papers.md) | [questions.jsonl](../../subjects/Supply%20Chain%20and%20Logistics%20Management/questions.jsonl) |

@@ -42,6 +42,22 @@ c
 2 M
 2 M
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Solution: Let ’(4) be a random variable that denotes the number of busy phone lines among
+the 4 phone lines. Since each phone line acts independently and the probability that a phone line
+
+is busy is 0.1, ’4) has a binomial distribution with PMF
+
+4 4 :
+Prn=(5 oP = -(}Joay (0.9) y=0,1,2,3,4
+
+(a) The probability that all 4 phones are busy is given by
+PLY (4) = 4] = py) (4) = (0.1) = 0.0001
+
+(b) The probability that 3 of the phones are busy is given by
+
+PLY(4) = 3] = py) (3) = [SJe.v'09) = 4(0.1)' (0.9) = 0.0036
 --- page 2 ---
 . 1M
 Put x = asin@ dx = acos 6d0
@@ -161,6 +177,30 @@ b
 3 M
 3 M
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Solution: Let X denote the life of a battery in weeks. Then the PDF of X is given by
+Livia
+SxQ)= Fe x20
+
+(a) The probability that the battery life exceeds 2 weeks is given by
+PLX > 2]=1-P[X < 2]=1-F, (2) =e** =e ** = 0.6065
+(b) Because of the forgetfulness property of the exponential distribution, the probability that
+
+the battery will last at least another 5 weeks, given that it has already lasted 6 weeks, is
+the probability that a battery will last at least 5 weeks and is given by
+
+PLX >11| X > 6] = PLX >5]=1-F, (5) =e 4 = 0.2865
+
+Solution: Let M denote the event that a student is a man, W the event that a student is a woman
+
+and F the event that the student is a foreign student. We are given that PIM ]= 0.6, PIW]=0.4,
+
+PIF\M]=03 ang PIF |W1=02. The probability that a randomly selected student who is
+found to be a foreign student is a woman is given by
+
+pw | r= PW OF. PLF|WIPIW] _ (0.2)(0.4) -03077
+PF] PLF\ WPI] + PLF|MIP[M] (0.29004) +(0.3)(0.6)
 --- page 5 ---
 c Solution P(X <1) = P(X =0)+ P(X=1)
 6 6

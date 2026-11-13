@@ -388,6 +388,42 @@ Page 3 of 6
 This principle requires both parties (the insurer and the insured) to act in good faith and
 disclose all relevant information truthfully.
 Page 4 of 6
+
+[Text in pictures on this page, read by OCR]
+(— >
+
+Principles of * Independence
+
+. e Integrity
+Professional |. puepitigence
+Ethics ¢ Loyalty and Priority of the Client’s Interests
+Ne y,
+.
+Compliance )
+with ¢ Compliance with Regulations
+Appl ica ble ¢ Compliance with Internal Rules of their Employers
+L Rules y y
+“a >
+¢ Quality Information to be provided )
+Duty of ¢ No guarantee of return
+. ¢ Duty to update information in certain situations
+Information ¢ Communication of information to clients and
+investors
+Ne yy, 4
+(~ >
+Confl ict of ¢ Duty to avoid conflict of interest
+¢ Priority of client’s interests
+Inte rests ¢ Transparency
+
+Ne yy,
+
+/ >
+¢ Duty to remain loyal to clients
+Loya Ity and * Allocation of time
+
+Co nfidentia | ity ¢ Allocation of resources
+¢ Keep information confidential
+Ne )
 --- page 5 ---
 The policyholder must provide accurate information about the risk to be insured, and the
 insurer must explain the terms and conditions clearly. Any misrepresentation or non-

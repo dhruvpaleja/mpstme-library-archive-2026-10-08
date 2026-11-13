@@ -37,6 +37,28 @@ Explanation- 3 mark
 CO- 3; SO- 1;   b. Draw a CMOS transmission gate circuit schematic. What gives it the   [04]
 BL-1   name "transmission gate"?
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+. The CMOS transmission gate consists of one nMOS and one pMOS transistor, connected
+
+in parallel.
+
+. The gate voltages applied to these two transistors are also set to be complementary
+
+signals.
+
+. Thus, the CMOS TG operates as a bidirectional switch between the nodes A and B which
+
+is controlled by signal C.
+
+. If the control signal C is
+* logic-high, i.e., equal to Vpp, then both transistors are turned on and provide a low-
+
+resistance current path between the nodes A and B.
+
+* low, then both transistors will be off, and the path between the nodes A and B will be
+
+an open circuit. This condition is also called the high-impedance state.
 --- page 2 ---
 CO- 4; SO- 1;   c.   Briefly explain the working principle of Linear Regulated Power   [04]
 BL-2   Supply
@@ -79,6 +101,50 @@ Input Characteristics - 05 Marks
 CO- 3; SO- 1;   b.   Describe the IC-555 timer using a pin diagram. Give a detailed   [10]
 BL-2   description of its astable operating mode.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Current to voltage Converter(! to V converter)
+
+A current to voltage converter or I to V converter is an electronic circuit
+that takes current as the input and produces voltage as the output. This section
+discusses about the op-amp based current to voltage converter.
+
+An op-amp based current to voltage converter produces an output voltage
+when current is applied to its inverting terminal. The circuit diagram of an op-
+amp based current to voltage converter is shown in the following figure.
+
+a
+{In the circult shown above, the non-inverting Input terminal of the op-amp Is
+
+connected to ground. That means zero volts i epalied at its non-inverting input
+terminal
+
+According to the virtual short concept, the voltage atthe inverting input
+‘terminal of an op-amp wil be equal to the voltage at its non-inverting input ve
+terminal. So, the voltage at the inverting input terminal of the op-amp will be
+
+zero volts,
+
+The nodal equation at the inverting terminal's node is —
+
+Thus, the output voltage, Vo of current to voltage converter is the (negative)
+product of the feedback resistance, Ry and the input current, I;. Observe that
+the output voltage, Vo is having a negative sign, which indicates that there
+
+exists a 180° phase difference between the input current and output voltage.
+
+We can re-write the above equation as —
+
+Vo
+—=-R
+Ti f
+The above equation represents the ratio of the output voltage Vp and the input
+current J;, and it is equal to the negative of feedback resistance, Ry. The ratio
+of output voltage Vo and input current J; is called as Transresistance.
+
+We know that the ratio of output and input of a circuit is called as gain. So, the
+gain of a current to voltage converter is its trans resistance and it is equal to
+the (negative) feedback resistance Ry .
 --- page 4 ---
 Ground [4] 8 | +Vec
 
@@ -139,12 +205,41 @@ CO- 1; SO- 1;   a.   Determine VCE and IC in the voltage-divider biased transist
 Q3   BL-5   [10]
 circuit. Assume β=50 and IE = IB + IC
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Waveforms Of Capacitor Voltage And Output Voltage
+
+; Charging
+Capacitor Through R1 And R2
+Voltage
+Discharging
+Through R2
+2/3V.. : |
+1/3V.,
+Output
+Voltage
+
+be TON >
+
+—> |rorr |—
+
+— T+—
 --- page 6 ---
 Vth, Rth – 2 marks; Ib 1 mark; Ic-3 marks
 Vce-3 marks Equivalent circuit – 1mark
 CO- 2; SO- 1;   b.   Explain how an operational amplifier-based Wein Bridge oscillator works   [10]
 BL-3   using a circuit schematic.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Ie - pee = = 50x35.935uA
+TH DC E
+=1.797mA
+Here I, =I, +I, =1.797mMA +35.935uA
+“I, =1.833mA
+Vor = Voc —1Re —TpRz
+= 20-1.797x1-1.833x1
+=16.37V
 --- page 7 ---
 Circuit Diagram-04 Marks
 Explanation-06 Marks
@@ -155,6 +250,40 @@ Circuit Diagram-03 Marks
 Construction-03 Marks
 Working Principle -04 Marks
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+It comprises the NMOS transistor that has N++ regions at the
+source and drain terminal and p-type substrate. similarly, the
+PMOS transistor has two P++ regions and an n-type substrate.
+
+Here, G, S, and D specifies the Gate,
+Source, and Drain terminal of the NMOS and PMOS.
+
++ Let's consider the two states of the CMOS, when the input voltage (A) is 0
+and 1.
+
++a) Ain the diagram is the input voltage that is fed to the NMOS and
+PMOS transistors. When the input voltage (A) = OV, the PMOS conducts,
+and NMOS will remain in the OFF A’ will become 1 when A is 0. Let's
+represent such condition in the form of NO and NC switches, as shown
+below.
+
+* It means that the output voltage is considered as logic 1 because the
+PMOS switch is closed and the NMOS switch at the bottom is open.
+
+b) Similarly, when the input voltage A = 1, A’ will be 0. In such a state, the
+PMOS will be OFF, and NMOS will conduct. Such state is represented
+below.
+
+It means that the output is 0 when the input is 1. The output voltage is
+considered as logic 0 because the PMOS switch at the top is open and the
+NMOS switch is closed.
+
++0
+
+Input Cd
+
+PMOS OFF NMOS ON
 --- page 8 ---
 CO- 4; SO- 1;   b.   Explain Logarithmic Amplifier that employs operational amplifier   [10]
 BL-2
@@ -162,6 +291,25 @@ CO- 4; SO- 2;   a.   Utilizing a circuit diagram, illustrate the functioning of 
 Q5
 BL-2   circuit that employs an operational amplifier.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+When the diode is forward biased, the current flowing through the diode is
+
+Ip IeeVPOVD (2)
+Where,
+|, is the saturation current of the diode,
+\V; is the voltage drop across diode, when it is in forward bias,
+Vz is the diode's thermal equivalent voltage.
+The KVL equation around the feedback loop of the op amp will be
+
+0-Vi-Vo =0
+Vi=-Vo
+
+Substituting the value of V; in Equation 2, we get
+
+l= IeVonvn) (3)
+
+VJRq = geen)
 --- page 9 ---
 Circuit – 4
 marks
@@ -181,6 +329,41 @@ signal is applied to the noninverting input (+), the output signal
 will be non-inverted i.e., the output signal will be in phase with
 the input signal. Hence, the amplifier.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+As before, point 4 will be treated as virtual ground.
+
+Yo-Yo Yo = _,
+Xo WjaC ~~ se ~~ °¥0
+s = j@in the Laplace notation.
+= i, Att, 68.26 (a) e
+Yay é 4 § Xe
+Ret yo i i,
+% Vol 1
+2 = st Ad
+Vin vy, sCR ©
+1
+4 = -L
+v SCR
+
+Yo
+
+~   L
+
+Fig. 68.13
+It is seen from above that output (right-hand
+side expression) is an integral of the input, with an inversion and a scale factor of 1/CR.
+
+2)
+
+sre VG &
+Offset Null] 1] 741 Op. Amp. | 8 | Not Connected (NC)
+
+Inverting (—)} 2 7 | V+ (Power)
+
+Non-Inverting (+) } 3 6 | Output
+
+(Power) V-| 4 p=----= i 5 | Offset Null
 --- page 10 ---
 Fig.4 Non-inverting Amplifier
 Voltage gain
@@ -302,6 +485,27 @@ BL-2   the full wave bridge rectifier circuit along with capacitor filter in det
 Significance of ripple factor in a rectifier circuit -03 Marks
 FWR Circuit-03 Marks
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Vz j Reverse Voltage, (-VR )
+
+100 (80 60 40 20 0
+1
+i)
+/ 10nA
+!
+' Reverse 100nA
+Reverse 1 Bias
+Breakdown _| || Region 1uA
+Region i
+a 10uA
+i)
+!
+| ; 100uA
+1
+1 imaA
+
+Reverse Current, (-Ip )
 --- page 14 ---
 Capacitor Filter-2 Marks
 Explanation-2 marks
@@ -326,6 +530,20 @@ BL-1
 Circuit-2 marks
 Explanation-3 marks
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+A high pass filter will allow the frequencies which are higher than the cut-off frequency and attenuate the
+frequencies lower than the cut off frequency. In some cases, this filter is also termed as ‘Low-Cut’ filter or
+‘Base-cut’ filter. By connecting a passive RC high pass filter circuit to the inverting or non-inverting terminal of
+the op-amp gives us first order active high pass filter. The passive RC high pass filter circuit connected to the
+non-inverting terminal of the unity gain operational amplifier is shown below.
+
+Active High Pass Filter with High Voltage Gain:
+
+The operation is same as that of the passive high pass filter, but the input signal is amplified by the amplifier at
+the output. The amount of amplification depends on the gain of the amplifier. The magnitude of the pass band
+gain is equal to 1 + (R,/R,). Where R3 is the feedback resistor in @ (ohms) and R, is the input resistor. The circuit
+of active high pass filter with amplification is given below.
 ````
 
 ## 2025-26 · Re-Exam · Sem 4 · Answer key · paper 3027ac673486
@@ -335,6 +553,7 @@ Explanation-3 marks
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_Mechatronics_7004/Electronic Systems/ANS_Electronic Systems(702MH0C029)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (15 pages), mean OCR confidence 66.5
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -363,6 +582,28 @@ Explanation- 3 mark
 CO- 3; SO- 1;   b.   Draw the circuit diagram of CMOS transmission gate. Why is it called as   [04]
 BL-1   transmission gate?
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+. The CMOS transmission gate consists of one nMOS and one pMOS transistor, connected
+
+in parallel.
+
+. The gate voltages applied to these two transistors are also set to be complementary
+
+signals.
+
+. Thus, the CMOS TG operates as a bidirectional switch between the nodes A and B which
+
+is controlled by signal C.
+
+. If the control signal C is
+* logic-high, i.e., equal to Vpp, then both transistors are turned on and provide a low-
+
+resistance current path between the nodes A and B.
+
+* low, then both transistors will be off, and the path between the nodes A and B will be
+
+an open circuit. This condition is also called the high-impedance state.
 --- page 2 ---
 CO- 4; SO- 1;   c.   What is SMPS and how it works?   [04]
 BL-2
@@ -379,6 +620,25 @@ BL-2
 CO- 4; SO- 1;   e.   What is I to V Converter? List down any of its two applications.   [04]
 BL-2
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+© The ability of amplifier to reject the common-mode
+signals (unwanted signals) while amplifying the
+differential signal (desired signal).
+
+e
+
+© Ratio of open-loop gain, A, to common-mode gain, A,,
+
+A,,
+
+CMRR= CMRR= 20 log
+
+= The higher the CMRR, the better, in which the open-loop
+gain is high and common-mode gain is low.
+
+= CMRR is usually expressed in dB & decreases with
+frequency.
 --- page 3 ---
 Circuit Diagram-01 Mark
 Explanation-03 Marks
@@ -390,6 +650,50 @@ Explanation - 07 Marks
 CO- 3; SO- 1;   b.   With the help of pin diagram explain the IC-555 timer. Provide a   [10]
 BL-2   comprehensive description of its monostable operational mode.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Current to voltage Converter(! to V converter)
+
+A current to voltage converter or I to V converter is an electronic circuit
+that takes current as the input and produces voltage as the output. This section
+discusses about the op-amp based current to voltage converter.
+
+An op-amp based current to voltage converter produces an output voltage
+when current is applied to its inverting terminal. The circuit diagram of an op-
+amp based current to voltage converter is shown in the following figure.
+
+a
+{In the circult shown above, the non-inverting Input terminal of the op-amp Is
+
+connected to ground. That means zero volts i epalied at its non-inverting input
+terminal
+
+According to the virtual short concept, the voltage atthe inverting input
+‘terminal of an op-amp wil be equal to the voltage at its non-inverting input ve
+terminal. So, the voltage at the inverting input terminal of the op-amp will be
+
+zero volts,
+
+The nodal equation at the inverting terminal's node is —
+
+Thus, the output voltage, Vo of current to voltage converter is the (negative)
+product of the feedback resistance, Ry and the input current, I;. Observe that
+the output voltage, Vo is having a negative sign, which indicates that there
+
+exists a 180° phase difference between the input current and output voltage.
+
+We can re-write the above equation as —
+
+Vo
+—=-R
+Ti f
+The above equation represents the ratio of the output voltage Vp and the input
+current J;, and it is equal to the negative of feedback resistance, Ry. The ratio
+of output voltage Vo and input current J; is called as Transresistance.
+
+We know that the ratio of output and input of a circuit is called as gain. So, the
+gain of a current to voltage converter is its trans resistance and it is equal to
+the (negative) feedback resistance Ry .
 --- page 4 ---
 Ground [4] 8 | +Vcc
 
@@ -453,6 +757,35 @@ Vce-3 marks Equivalent circuit – 1mark
 CO- 2; SO- 1;   b.   Construct the Instrumentation amplifier using Op-amp and obtain its output   [10]
 BL-3   expression.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The Monostable 555 Timer circuit triggers on a negative-going pulse applied to pin 2 and
+this trigger pulse must be much shorter than the output pulse width allowing time for the
+timing capacitor to charge and then discharge fully. Once triggered, the 555 Monostable
+will remain in this “HIGH” unstable output state until the time period set up by the Ry x Cy.
+network has elapsed. The amount of time that the output voltage remains “HIGH” or ata
+
+logic “1” level, is given by the following time constant equation.
+T=11R,C,
+
+Where, tis in seconds, R is in Q and C in Farads.
+
+5x10°
+
+R
+Vr = 2 Veg = x10 = 3.33 V
+T* RitRy So   tpxio? +5x10°
+10x5
+Re a0 ee
+ying KVL to the base circuit we get,
+Vr-IpRp- Vee - (1+B)Iy Re = 0
+— Vr-Vee _ 3.33 -0.7 48.86 pA
+
+Re+(+B)Re 333x104 (101)500 —
+Io = Blg = 100x 48.86 PA = 4.886 mA
+Ig = 4.935 mA
+ving KVL to collector circuit we have,
+= 10-—4,886x 1- 4.935x 0.5 = 2.6465 V
 --- page 6 ---
 Circuit Diagram-04 Marks
 Derivation of output-06 Marks
@@ -460,6 +793,40 @@ CO- 3; SO- 1;   a.   Briefly explain the construction of CMOS and working princi
 Q4
 BL-2   CMOS Inverter
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+It comprises the NMOS transistor that has N++ regions at the
+source and drain terminal and p-type substrate. similarly, the
+PMOS transistor has two P++ regions and an n-type substrate.
+
+Here, G, S, and D specifies the Gate
+Source, and Drain terminal of the NMOS and PMOS.
+
++ Let's consider the two states of the CMOS, when the input voltage (A) is 0
+and 1.
+
++a) Ain the diagram is the input voltage that is fed to the NMOS and
+PMOS transistors. When the input voltage (A) = OV, the PMOS conducts,
+and NMOS will remain in the OFF A' will become 1 when A is 0. Let's
+represent such condition in the form of NO and NC switches, as shown
+below.
+
++ It means that the output voltage is considered as logic 1 because the
+PMOS switch is closed and the NMOS switch at the bottom is open.
+
+b) Similarly, when the input voltage A = 1, A’ will be 0. In such a state, the
+PMOS will be OFF, and NMOS will conduct. Such state is represented
+below.
+
+It means that the output is 0 when the input is 1. The output voltage is
+considered as logic 0 because the PMOS switch at the top is open and the
+NMOS switch is closed.
+
++0
+
+Input Cd
+
+PMOS OFF NMOS ON
 --- page 7 ---
 Circuit Diagram-03 Marks
 Construction-03 Marks
@@ -478,6 +845,28 @@ is required in the signal with negligible power.
 Circuit Diagram-03 Marks
 Explanation-4 Marks
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+To make a full-wave precision rectifier circuit, | have just added a summing amplifier to the output of the
+previously mentioned half-wave rectifier circuit. From the point, P1 to point P2 is the basic precision rectifier
+circuit and the diode is so configured that we get a negative voltage at the output.
+
+From the point, P2 to point P3 is the summing amplifier, the output from the precision rectifier is fed to the
+summing amplifier through the resistor R3. The value of the resistor R3 is half of R5 or you can say it's R5/2 that is
+how we are setting a 2X gain out of the op-amp.
+
+The input from the point P1 is also fed to the summing amplifier with the help of the resistor R4, the resistors R4
+and RS are responsible for setting the gain of the op-amp to 1X.
+
+Since the output from the Point P2 is fed directly to the summing amplifier with the gain of 2X, that means the
+output voltage will be 2-times the input voltage. Let's assume the input voltage is 2V peak, so we will get a 4V
+peak at the output. At the same time, we are directly feeding the input to the summing amplifier with a gain of 1X.
+
+Now when the summing operation happens we get a summed up voltage at the output which is (-4V) + (+2V) =
+-2V and as the op-amp at the output. As the op-amp is configured as an inverting amplifier, we will get +2V at the
+‘output which is the point P3.
+
+The same thing happens when the negative peak of the input signal is applied.
 --- page 8 ---
 CO- 4; SO- 2;   a.   Utilizing a circuit diagram, illustrate the functioning of a Differentiator   [10]
 Q5
@@ -496,6 +885,16 @@ condition is illustrated in Fig.3. The point A is said to be at virtual ground
 because it is at 0V but is not physically connected to the ground (i.e. VA =
 0V).
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+sre VG &
+Offset Null] 1] 741 Op. Amp. | 8 | Not Connected (NC)
+
+Inverting (—)} 2 7 | V+ (Power)
+
+Non-Inverting (+) } 3 6 | Output
+
+(Power) V-| 4 p=----= i 5 | Offset Null
 --- page 9 ---
 Fig.3   (i)   (ii)
 Referring to Fig. 3(ii), the current I1 to the inverting input is zero. Therefore,
@@ -549,6 +948,29 @@ diffusion potential or contact potential, Vo. The magnitude of the contact
 potential Vo varies with doping levels and temperature. Vo is 0.3V for Ge
 and 0.72 V for Si.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+During the positive half cycle, the diode remains to turn off for a small part of the input
+waveform. This is because of the DC source (3V) at the anode. To make the diode forward
+biased, the anode should more positive than the cathode.
+
+V1 > (3+0.7)V .... Tum on condition
+Where
+V1 = input voltage
+0.7V is the forward voltage drop
+As the diode turns on, the capacitor charges till the peak value.
+-V1 + VC1+0.7+3 = 0
+VC1= 10-37
+VC1=6.3V
+
+During the negative half-cycle, the diode remains off. To determine output voltage, apply KVL
+to the loop.
+
+V1+VC1+V,=0
+10 +6.3+V,=0
+V,=-16.3V
+
+Output voltage clamps and swings from -16.3 V to 3.7 V.
 --- page 11 ---
 Symbol of PN Junction Diode
 The electrostatic field across the junction caused by the positively charged N-
@@ -613,6 +1035,27 @@ BL-2   wave bridge rectifier circuit along with waveforms in detail.
 significance of ripple factor in a rectifier circuit -03 Marks
 FWR Circuit-03 Marks
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Vz j Reverse Voltage, (-VR )
+
+100 (80 60 40 20 0
+1
+i)
+/ 10nA
+!
+' Reverse 100nA
+Reverse 1 Bias
+Breakdown _| || Region 1uA
+Region i
+a 10uA
+i)
+!
+| ; 100uA
+1
+1 imaA
+
+Reverse Current, (-Ip )
 --- page 13 ---
 Capacitor Filter-2 Marks
 Q7. CO- 2; SO- 1;   a.
@@ -669,6 +1112,20 @@ asymmetrical pass band frequency response with one half representing
 the low pass response and the other half representing high pass
 response as shown.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+High Pass Low Pass
+
+Filter Stage Amplification Filter Stage
+—— C1
+
+rem h | E N)
+Av MN .e)
+Vin R1 Ra __
+c2 Vout
+
+R3 |
+Ov
 --- page 15 ---
 High Pass Low Pass Band Pass
 

@@ -12,11 +12,12 @@ Files land in `D:/Study/PYQs_By_Subject/Smart Cities/<academic year>/`. Identica
 
 Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (every paper in full, newest first), [`questions.jsonl`](questions.jsonl) (one record per question with marks, year, exam, semester and department) and [`papers.jsonl`](papers.jsonl) (one record per paper). Answer keys, where the portal published them, are in `answer_keys.md`. See [`question_bank/README.md`](../../question_bank/README.md) for the fields.
 
+Syllabus of this course, every version found in the archive: [`syllabus.md`](syllabus.md) (see [`syllabi/`](../../syllabi/README.md) for all programmes).
+
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
 | 2025-26 | Final-Exam | Question paper | Sem 5 | B TECH, B.TECH INTEGRATED, MBA TECH | Smart Cities 2025-26 Final Exam.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 10 | BACHELOR OF TECHNOLOGY (DATA SCIENCE)SIX YEARS INTEGRATED PROGRAM - 7038 | QP_Final-Exam_Smart Cities(702CI0I008)_Semester X_2025-2026.pdf |
-| 2025-26 | Final-Exam | Question paper | Sem 5 | BTech Civil 7005 | QP_Smart Cities(702CI0I008)_2025-2026.docx |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Civil 7005 | QP_Smart Cities(702CI0I008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech Computer 7002 | QP_Smart Cities(702CI0I008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Question paper | Sem 6 | BTech CyberSecurity 7010 | QP_Smart Cities(702CI0I008)_2025-2026.pdf |
@@ -55,6 +56,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech Computer 7047 | ANS_Smart Cities(702CI0I008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech DS 7052 | ANS_Smart Cities(702CI0I008)_2025-2026.pdf |
 | 2025-26 | Final-Exam | Answer key | Sem 6 | MBATech IT 7041 | ANS_Smart Cities(702CI0I008)_2025-2026.pdf |
+| 2025-26 | Final-Exam | Not a paper | Sem 5 | BTech Civil 7005 | QP_Smart Cities(702CI0I008)_2025-2026.docx [1] |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | B TECH / CIVIL, B TECH / COMPUTER, B TECH / CSE CYBER SECURITY, B TECH / EXTC, B TECH / I T, B TECH / MECHATRONICS, B.TECH INTEGRATED, MBA TECH | Smart Cities Batch 2025-26 Re Exam.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 6 | BTech CyberSecurity 7010 | QP_Smart Cities(702CI0I008)_2025-2026.pdf |
 | 2025-26 | Re-Exam | Question paper | Sem 5 | BTech DS 7009 | QP_Smart Cities(702CI0I008)_2025-2026.pdf |
@@ -73,5 +75,9 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2023-24 | Final-Exam | Question paper | Sem 5 | B TECH, MBA TECH | Smart Cities , Final 2023-2024.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 6 | B TECH, B.TECH INTEGRATED, MBA TECH | Smart Cities, Sem VI, Final Exam 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 6 | B TECH, B.TECH INTEGRATED | Smart Cities Batch 2023-24 Re Exam.pdf |
+
+**Notes on papers placed here from a different folder**
+
+1. not the question paper: 145 screenshots of the portal's answer-sheet evaluation screen (students' answer books), filed under the paper's name; the Smart Cities 2025-26 paper itself is listed separately
 
 Full original paths are in [`pyq_subject_index.csv`](../pyq_subject_index.csv). If a paper is in the wrong subject, add its spelling to `subject_aliases.json` and rerun `python organize_by_subject.py catalog`.

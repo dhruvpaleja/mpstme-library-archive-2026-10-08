@@ -108,6 +108,38 @@ SOL
 Q.1 C Identify the continuous and discrete, ratio, nominal, ordinal , interval variables in the given data.   5
 CO-01
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+We use the normal equation § = (X'X)1X'TY.
+1. Compute X |X:
+
+xix=|
+
+21 24 324 4? . “544. 5
+23h 243244? 9 2-143-544-2] [29 25
+15 2 ~ [2-143-544-2   1245%42? | [25 30)”
+
+2. Compute X'Y:
+5
+t [i 3 11 2-54+3-1444-10 92
+X Y= 14] = = .
+15 2 10 1-5+5-1442-10 95
+
+3. Invert X' X.Fora2 x 2 matrix [: ‘}:
+
+1 eo
+X'X) T= .
+( ) ac — [fs a ]
+Here determinant = 29 - 30 — 25? = 870 — 625 = 245. So
+
+(xTxy1= 1 2: mae
+
+~ 245 |-25 29
+
+4. Multiply to get 3:
+
+1 [30 -25] fo2] 1 [ 30-92-25-95 1 [385
+8 = 555 |_95 29 | Jos} ~ 245 |_o5-09290.95/ > 245 |455| °
 --- page 3 ---
 SO-01 a) In a census survey, people are asked to state their religion (Hindu, Muslim, Christian, Sikh,
 BL-   etc.).
@@ -140,6 +172,23 @@ into homogeneous strata based on   that divides a population into naturally
 variables of interest.   occurring groups, such as geographical
 regions or organizational units.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The wrong observation 15.2 should be replaced with the correct one 25.2.
+
+So,
+
+25.2
+15.2
+
+Correct product = Incorrect product x
+
+That is,
+
+25.2
+15.2
+
+Correct product = 20.5"
 --- page 4 ---
 It enables more precise estimates within   Precision of cluster sampling may vary
 each stratum.   within clusters.
@@ -177,6 +226,24 @@ M.Sc.   66   3   60   7   73   2
 SOL
 …..03 MARKS
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Solution.
+COMPUTATION OF SIMPLE AND WEIGHTED AVERAGES
+
+University > Bombay Calcutta Madras
+Course Pass No.of Pass No.of Pass | No.of
+of study Toage students % age students %age | students
+(in 00s) (in 00s) (in 00s)
+(0.9) Wi) WX) (%) (W2) W2X2 (X) (Ws) | WsX3
+MA. 71 3 213 82 2 164 81 2 162
+MCom. 83 4 332 76 3 228 76 3:5 | 266
+B.A. 3 5 365 73 6 438 4 45 | 333
+B.Com, 74 2 148 76 7 532 538 2 116
+BSc. 65 3 195 65 3 195 70 7 490
+MSc. 66 3 198 60 7 420 B 2 146
+
+Total 432 20 1451 432 28 1977 432 21 1513
 --- page 5 ---
 …..03 MARKS
 Q. 2 C If the lines of regression of a sample are given by
@@ -189,6 +256,45 @@ iii) the estimated value of y when x=8
 SOL
 …02 MARKS
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+University Simple Average Weighted Average
+
+x wx
+Bombay M2 _ a 1. st = 72:55
+1
+x. WX
+Calcutta pe -2 mn Ir 2177 7061
+DXs_432 SWaX5_ 1513
+Madras 72 SW = or 27205
+
+On the basis of the simple arithmetic mean which comes out to be same for each University viz., 72, we
+cannot distinguish between the pass percentage of the students in the three Universities. However, the
+weighted averages show that the results are the best in Bombay University (which has highest weighted
+average of 72-55), followed by Madras University (which has the weighted average 72:05), while Calcutta
+University shows the lowest performance.
+
+We have the two regression lines:
+2r+3y=10 and 4r+y=12.
+
+i) Means of x and y
+
+The intersection of the two regression lines gives the sample means (Z, 7).
+Solve the system:
+From 4a + y = 12 +y = 12 — 42.
+
+Substitute into 22 + 3y = 10:
+
+2a + 3(12 — 4a) = 10
+22 + 36 — 122 = 10
+
+—102 = —26
+_% _13_ 4,
+"“o 5 ~
+
+Then y = 12 — 4(2.6) = 12-10.4=1.6=
+
+so = BH F=TE]
 --- page 6 ---
 ……04 MARKS
 …02 MARKS
@@ -203,6 +309,45 @@ e)
 Class   20-30   30-40   40-50   50-60   60-70   70-80   80-90
 Frequency   10   8   12   24   6   25   15
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+ii) Correlation coefficient r
+
+Write each regression in slope form.
+
+From 2” + 3y = 10:
+
+3y=-2r+10 = y=-2aet+
+
+Slope of regression of y on 2: byjz = — 3 :
+
+From 4a + y = 12:
+4x=-y+12 => x=—}y+3.
+Slope of regression of x on y: bz), = — ie
+Relationship: byi. + bry = 7.
+Compute:
+bye bay = (8) (-1) = B= 8
+Sor? = 1 = 0.1666667.
+
+Sign of r is same as sign of the slopes (they are negative), so
+
+1
+r= —4/} = —~— ~ ~0.408248.
+
+v6
+
+So|r =~ —0.40825 (moderate negative correlation
+
+Estimate y when « = 8
+Use the regression of y on x:
+
+=-_2 10
+y=-q@+ sy:
+For 2 = 8:
+
+g=-7-8+P=-B+ U=_-$= -2.
+
+sofi=—]
 --- page 7 ---
 Saved memory full ©
 SOL Step 1— Less-than CF and More-than CF in one table (0.2? you
@@ -244,6 +389,72 @@ BL-   10
 a. Develop Y , X , for ,   the model.
 b. Compute Regression Coefficients
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3 — Median and Decile 2 and 8 from graph (02 marks)
+(alloc: 02 marks)
+
+Read from the ogive (less-than ogive at cumulative = 50 for median; at cumulative = 10 and 90 equivalent
+percentiles for deciles):
+
+« Graphical Median (N/2 = 50) = 58.33 marks.
+« Graphical Decile 2 (D2) = 20th percentile (0.2xN = 20th observation) = 41.67 marks.
+« Graphical Decile 8 (Ds) = 80th percentile (0.8xN = 80th observation) = 78.00 marks.
+
+Step 4 — Median through formula (02 marks)
+
+(alloc: 02 marks)
+
+Use grouped median formula:
+
+¥_¢
+Median = L + F xh
+
+- N=100,so N/2=50.
+« Median class found from less-than CF: 50-60 (since cum up to 50 = 30 < 50 and up to 60 = 54 2 50).
+- LI =50, C = 30 (cumulative before median class), f,, = 24, h = 10.
+
+Compute:
+
+50 — 30
+
+Median = 50
+edian + M4
+
+20
+x 10=50+ om x 10 = 50 + 8.3333 = |58.33 marks (approx)
+
+Step 5 — Decile 2 and 8 through formula (02 marks)
+
+(alloc: 02 marks)
+
+Decile D;, corresponds to the k-th decile + Dy is 20th percentile, Dg is 80th percentile. Use:
+
+pN/100—C 7
+f
+
+D. (20th percentile): position = 0.2 x 100 = 20. Class containing 20th observation is 40-50 (cum up to 40
+
+= 18 < 20, up to 50 = 302 20).
+
+Parameters: L = 40, C = 18, f = 12, h=10.
+
+D,=L+ h
+
+20-18
+
+Dz = 40 +
+
+2
+x 10= 40+ a * 10 = 40 + 1.6667 = | 41.67 marks (approx)
+
+D: (80th percentile): position = 0.8 x 100 = 80. Class is 70-80 (cum up to 70 = 60 < 80, up to 80 = 852
+80).
+Parameters: L = 70, C = 60, f = 25, h = 10.
+
+Dg = 70+ 80 — 60 x 10=70+ 22 x 10 = 70 + 8 =| 78.00 marks
+
+or
 --- page 9 ---
 c. Compute Predicted Value
 d. Compute Residuals
@@ -306,6 +517,24 @@ Loan Defaulted: A binary variable indicating whether the customer defaulted on a
 did not default (0). Where:
 Avg Class 1 (Default) = (22.25, 6.0)
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+For Ay = 100:
+(S$ —100Z)v =0
+
+80 — 100 40 _ |-20 40
+40 20-100] | 40 —-80
+
+Let v = [xy, v2)?
+
+—20v; + 40v2 = 0 > v2 = 0.50)
+So eigenvector « (1, 0.5]
+Normalize it:
+
+Magnitude = y/1? + 0.5? = 1.25 = 1.118
+
+= |, 22] = (0.894,0.447)
+= |Taae’ Tare | — (9-894,0-447)
 --- page 11 ---
 Avg Class 2 (No Default) = (40.0, 1.0)
 Global Avg = (29.857, 3.857)
@@ -618,6 +847,41 @@ Frequency   Spend ($)
 Using the provided dataset, determine the LDA projection vector.
 SOL
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+41. Table (given)
+X[1 2345
+FTre ror N=LF=5
+
+_ OXF _ 1-142-2+3-144-0+5-1_
+==" = = =
+
+2. Mean
+
+x
+
+3. Mode
+
+Highest frequency = 2 at X = 2.
+
+Mode = 2.
+
+4. Standard deviation (population form)
+
+Compute > FX? = 1-12 +2-2?+1-37+0-47 41-5? = 43.
+
+_ VFX?
+o= NW x
+
+= s — (2.6? = V8.6 — 6.76 = V1.84 ~ 1.3565
+
+Step 1: Separate by class (1 mark)
+Class 1: (5,80), (6,90), (4,85)
+Class 0: (2,40), (3,50), (1,45)
+
+Step 2: Compute class means (1 mark)
+
+o- [mL
 --- page 18 ---
 Step 3: Compute within-class scatter Sy (2 marks)
 
@@ -776,6 +1040,26 @@ b. Probability of drawing any particular sample, each sample equally likely
 P = 1 ⁄ 𝑁𝑛   - 1 Mark
 P = 1/216   = 0.0046   - 1.5 Marks
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+3.
+
+4.
+
+Same Sign Property:
+
+Both by, and b, have the same sign as correlation coefficient r.
+
+Product Rule:
+
+Product of regression coefficients equals r”.
+
+Magnitude Property:
+
+If one coefficient is greater than 1, the other must be less than 1.
+Independence of Origin:
+
+Regression coefficients are independent of change of origin but not of scale.
 --- page 4 ---
 a) Find the Mean. (5 Marks)
 b) Find the Median. (3 Marks)
@@ -1039,6 +1323,36 @@ Class 1 corrected (x1_corr):
 [2.39 0.457]
 [1.49 1.357]]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Thus the fitted regression equations are
+
+H=1+3r, f=0+ 20. [Mark=01]
+Compute fitted values Y=XB
+11 14+3 0O+2 4 2
+. 1 2 1 0 14+6 0O+4 7 =A
+y=|1 3l (3 = 149 0O+6]=1]10 6
+14 1412 0+8 13° 8
+1 5 1415 0+10 16 10
+[Mark=02]
+Compute residuals # = Y —Y
+4-4 2-2 0 0
+. 7-7 4-4 0 0
+E=1{10—-10 6-6 |=]0 0
+13-13 8-8 0 0
+
+16—16 10—10 0 0 [Mark=02]
+
+Final Results
+
+4 2
+7 4
+
+B=(5 >) Y=]10 6], B=O05x0.
+13 8
+16 10
+
+The data lie exactly on two lines, yielding a perfect fit with zero residuals.
 --- page 11 ---
 Class 2 corrected (x2_corr):
 [[-2.21 -1.243]
@@ -1432,6 +1746,26 @@ b. Probability of drawing any particular sample, each sample equally likely
 P = 1 ⁄ 𝑁𝑛   - 1 Mark
 P = 1/216   = 0.0046   - 1.5 Marks
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+3.
+
+4.
+
+Same Sign Property:
+
+Both by, and b, have the same sign as correlation coefficient r.
+
+Product Rule:
+
+Product of regression coefficients equals r”.
+
+Magnitude Property:
+
+If one coefficient is greater than 1, the other must be less than 1.
+Independence of Origin:
+
+Regression coefficients are independent of change of origin but not of scale.
 --- page 4 ---
 a) Find the Mean. (5 Marks)
 b) Find the Median. (3 Marks)
@@ -1695,6 +2029,36 @@ Class 1 corrected (x1_corr):
 [2.39 0.457]
 [1.49 1.357]]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Thus the fitted regression equations are
+
+H=1+3r, f=0+ 20. [Mark=01]
+Compute fitted values Y=XB
+11 14+3 0O+2 4 2
+. 1 2 1 0 14+6 0O+4 7 =A
+y=|1 3l (3 = 149 0O+6]=1]10 6
+14 1412 0+8 13° 8
+1 5 1415 0+10 16 10
+[Mark=02]
+Compute residuals # = Y —Y
+4-4 2-2 0 0
+. 7-7 4-4 0 0
+E=1{10—-10 6-6 |=]0 0
+13-13 8-8 0 0
+
+16—16 10—10 0 0 [Mark=02]
+
+Final Results
+
+4 2
+7 4
+
+B=(5 >) Y=]10 6], B=O05x0.
+13 8
+16 10
+
+The data lie exactly on two lines, yielding a perfect fit with zero residuals.
 --- page 11 ---
 Class 2 corrected (x2_corr):
 [[-2.21 -1.243]
@@ -2088,6 +2452,26 @@ b. Probability of drawing any particular sample, each sample equally likely
 P = 1 ⁄ 𝑁𝑛   - 1 Mark
 P = 1/216   = 0.0046   - 1.5 Marks
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+3.
+
+4.
+
+Same Sign Property:
+
+Both by, and b, have the same sign as correlation coefficient r.
+
+Product Rule:
+
+Product of regression coefficients equals r”.
+
+Magnitude Property:
+
+If one coefficient is greater than 1, the other must be less than 1.
+Independence of Origin:
+
+Regression coefficients are independent of change of origin but not of scale.
 --- page 4 ---
 a) Find the Mean. (5 Marks)
 b) Find the Median. (3 Marks)
@@ -2351,6 +2735,36 @@ Class 1 corrected (x1_corr):
 [2.39 0.457]
 [1.49 1.357]]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Thus the fitted regression equations are
+
+H=1+3r, f=0+ 20. [Mark=01]
+Compute fitted values Y=XB
+11 14+3 0O+2 4 2
+. 1 2 1 0 14+6 0O+4 7 =A
+y=|1 3l (3 = 149 0O+6]=1]10 6
+14 1412 0+8 13° 8
+1 5 1415 0+10 16 10
+[Mark=02]
+Compute residuals # = Y —Y
+4-4 2-2 0 0
+. 7-7 4-4 0 0
+E=1{10—-10 6-6 |=]0 0
+13-13 8-8 0 0
+
+16—16 10—10 0 0 [Mark=02]
+
+Final Results
+
+4 2
+7 4
+
+B=(5 >) Y=]10 6], B=O05x0.
+13 8
+16 10
+
+The data lie exactly on two lines, yielding a perfect fit with zero residuals.
 --- page 11 ---
 Class 2 corrected (x2_corr):
 [[-2.21 -1.243]
@@ -2744,6 +3158,26 @@ b. Probability of drawing any particular sample, each sample equally likely
 P = 1 ⁄ 𝑁𝑛   - 1 Mark
 P = 1/216   = 0.0046   - 1.5 Marks
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+3.
+
+4.
+
+Same Sign Property:
+
+Both by, and b, have the same sign as correlation coefficient r.
+
+Product Rule:
+
+Product of regression coefficients equals r”.
+
+Magnitude Property:
+
+If one coefficient is greater than 1, the other must be less than 1.
+Independence of Origin:
+
+Regression coefficients are independent of change of origin but not of scale.
 --- page 4 ---
 a) Find the Mean. (5 Marks)
 b) Find the Median. (3 Marks)
@@ -3007,6 +3441,36 @@ Class 1 corrected (x1_corr):
 [2.39 0.457]
 [1.49 1.357]]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Thus the fitted regression equations are
+
+H=1+3r, f=0+ 20. [Mark=01]
+Compute fitted values Y=XB
+11 14+3 0O+2 4 2
+. 1 2 1 0 14+6 0O+4 7 =A
+y=|1 3l (3 = 149 0O+6]=1]10 6
+14 1412 0+8 13° 8
+1 5 1415 0+10 16 10
+[Mark=02]
+Compute residuals # = Y —Y
+4-4 2-2 0 0
+. 7-7 4-4 0 0
+E=1{10—-10 6-6 |=]0 0
+13-13 8-8 0 0
+
+16—16 10—10 0 0 [Mark=02]
+
+Final Results
+
+4 2
+7 4
+
+B=(5 >) Y=]10 6], B=O05x0.
+13 8
+16 10
+
+The data lie exactly on two lines, yielding a perfect fit with zero residuals.
 --- page 11 ---
 Class 2 corrected (x2_corr):
 [[-2.21 -1.243]
@@ -3363,6 +3827,23 @@ SO-
 BL-
 03
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1 (1 mark): Write the Harmonic Mean formula:
+
+n
+HM= Sa
+See
+Vie a
+Step 2 (1 mark): List the share prices and compute their reciprocals:
+
+1 1 1 1 1
+= = 0.125, — =0.1, — = 0.0625, — = 0.05, — = 0.04
+8 5, 10 ” 16 5, 20 25
+
+Step 3 (1 mark): Sum the reciprocals:
+
+0.125 + 0.1 + 0.0625 + 0.05 + 0.04 = 0.3775
 --- page 4 ---
 Q2
 A
@@ -3403,6 +3884,15 @@ BL-   Score   Score   Score
 04   Sales   82   40   78   30   85   35
 Marketing   75   25   80   20   79   25
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Step 4 (1 mark): Apply the formula to find HM:
+
+M = 03775 = 13.24
+
+Step 5 (1 mark): State final answer:
+
+Harmonic Mean price ~ %13.24 per share
 --- page 5 ---
 HR   88   15   70   25   82   20
 IT   91   30   85   40   89   25
@@ -3417,6 +3907,40 @@ Find:   8
 3. Interpret the value of correlation coefficient.
 4. The standard deviation of 𝑦.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+1. Simple Average — Formula & Results (2 marks)
+
+>> Department Averages
+6
+
+Simple Average =
+
+« Alpha Corp: (82 + 75 + 88 + 91 + 76 + 83)/6 = 82.50
++ Beta Ltd: (78 + 80 + 70 + 85 + 72 + 77)/6 = 77.00
++ Gamma Inc: (85 + 79 + 82 + 89 + 80 + 84)/6 = 83.17
+
+2. Weighted Average — Formula & Results (2 marks)
+
+> (Score x Employees)
+
+Weighted Average = =
+8 8 S° Employees
+« Alpha Corp: 13630 / 165 = 82.61
+
+« Beta Ltd: 12430 / 160 = 77.69
+
+« Gamma Inc: 14575 / 175 = 83.29
+
+3. Conclusion / Interpretation (2 marks)
+
++ Weighted averages are slightly higher than simple averages, showing the effect of department size.
+
+« Gamma Inc (83.29) has the best overall performance, followed by Alpha Corp (82.61), then Beta Ltd
+(77.69).
+
++ Weighted averages give a more accurate and representative measure of company performance than
+simple averages.
 --- page 6 ---
 Q3 The number of hours 100 students spend studying daily is recorded is given below in tabular form. Using
 A this information, answer the following questions:
@@ -3430,6 +3954,36 @@ BL-   c) Calculate through formula and verify median and range of middle 80% ran
 1 – 2 2 – 3 3 – 4 4 – 5 5 – 6 6 – 7 7 – 8
 4   10   15   30   20   15   6
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+1. Means of x and y (2 marks)
+Solve simultaneously:
+
+40 36
+z—— 308, g= = 2.77
+“= 3 = BB
+
+2. Slopes (1 mark)
+From 2x + 5y = 20 > y = —0.4a + 4 = by, = —0.4
+
+From 3a + y =12 > 2=—ty+4>b,, =—}
+
+VAVww Cewelswey wee
+
+3. Correlation coefficient r (2 marks)
+r? = dypbniy = (—0.4)(—0.333) = 0.1333
+r = —V0.1333 = —0.365
+
+4. Interpretation (1 mark)
+r = —0.365: moderate negative correlation,
+as «x increases, y decreases slightly.
+
+5. Standard deviation of y (2 marks)
+
+Oy byj2or = —0.4x 4
+
+oy = ———_ _ = 4,38
+vie Or r —0.365
 --- page 7 ---
 Step 2 (1 Mark): Construct Ogive Curves
 Step 3 (1 Mark): Median and Decile from Ogive
@@ -3440,6 +3994,66 @@ Q. A company records the number of tasks completed (Y) by its employees in a day
 3 B training (X) in the same week. The data for 5 employees is shown below:   10
 Tasks Completed (Y) 15 12 8 20 18
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1 (2 Marks): Prepare Less than and More than Cumulative Frequency
+
+Class f Less than CF More than CF
+12 4 4 100
+
+23 10 14 96
+
+34 15 29 86
+
+45 30 59 1
+
+56 20 79 a
+
+67 15 94 a
+
+78 6 100 6
+
+Less Than and More Than Ogive of Study Hours
+Hl
+
+100
+
+60} —e Less than Ogive
+® More than Ogive
+Median (50th}
+10th percentile
+‘90th percentile
+
+4,70
+
+20
+
+1 2 3 4 5 6 7 8
+Study Hours
+
+Step 4 (2 Marks): Median Formula Calculation
+
+y
+= — CFretore 50 — 29
+Median = L + 2——— "8" yp a44
+
+x 1 = 4.7 hours
+f
+
+Step 5 (2 Marks): Decile 1 (D1) Calculation
+
+kN _OFR _
+D,=L+ 10 before 9 , 10 4
+
+a 10 x 1 = 2.6 hours
+
+Step 6 (2 Marks): Decile 9 (D9) Calculation
+99 Ask ChatGPT
+
+2X — CFyetore -
+Dy = 1 + CA beter pg 5
+
+7 15 x 1 = 6.73 hours
 --- page 8 ---
 CO- Training Hours (X)   2   1   0 3   2
 03
@@ -3449,6 +4063,52 @@ BL-   c. Compute the predicted number of tasks for each employee.
 01   d. Compute Residuals
 e. Compute Residual sum of squares to measure the goodness of fit.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1 (1 mark): Write regression model in matrix form:
+
+Y=XB+e
+Step 2 (1 mark): Form matrices:
+15 1 2
+12 11
+y=|s|, x=|1 o|, g- kK
+20 1 3
+18 1 2
+
+Step 3 (1 mark): Formula for regression coefficients:
+B =(X7X)'1XTY
+
+Step 4 (1 mark): Compute X7 X and X7Y:
+
+T
+vx= [ 131
+
+Sa). ey [8
+
+Step 5 (1 mark): Compute (X7 X)-!:
+
+1 [ z] _ ee ~0.3077
+
+Ty)-1_ +
+(x°X) ~ 26/-8 5 —0.3077 0.1923
+
+Step 6 (1 mark): Compute 8 = (X7X)-!X7Y:
+4 8.077
+B= [tort
+Step 7 (1 mark): Regression equation:
+
+Y = 8.077 + 4.077X
+
+Step 8 (1 mark): Compute predicted tasks (Y):
+
+x Y
+
+2 16.231
+1 12.154
+0 8.077
+3 20.308
+
+2 V 6.231
 --- page 9 ---
 Q4 A sports scientist collects data on the height (X, in cm) and weight (Y, in kg) of 5 athletes to analyze
 A the relationship between these two variables. The data is given below:
@@ -3464,6 +4124,14 @@ a. Apply the Principal Component Analysis (PCA) algorithm to this dataset.
 b. Find the first principal component axis.
 c. Explain the proportion of variance captured by the first principal component.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Step 9 (1 mark): Compute residuals e = Y — Y:
+e = [—1.231, —0.154, —0.077, —0.308, 1.769]
+
+Step 10 (1 mark): Compute Residual Sum of Squares (RSS):
+
+RSS = Se? ~ 4.769
 --- page 10 ---
 Q. Imagine you are a data analyst at an insurance company, and you want to predict whether a customer is
 4 B high-risk or low-risk for filing a vehicle insurance claim based on their years of driving experience and
@@ -3473,6 +4141,56 @@ SO-   Risk Status   Driving Experience (Years) Traffic Violations
 01   High Risk (Class 1)   2   5
 High Risk (Class 1)   3   4
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Step 2: Eigenvalues (3 marks)
+
+PCA requires eigenvalues of the covariance matrix S. Solve:
+
+det(S — AZ) =0
+50-A 30 |_4
+30 20-A}~
+
+(50 — A)(20 — A) — 30? =0
+— 70 + 100 = 0
+
+A; © 68.541, A» ~ 1.459
+
+Interpretation: The first eigenvalue is much larger, indicating one dominant direction of variance.
+
+Step 3: Eigenvector for first principal component (3 marks)
+
+For A, = 68.541, solve (S — A, I)v = 0:
+
+18.541 30] [ur] _g
+30 48.541] Jv. | =
+
+—18.541v; + 30v2 = 0 => v2 = 0.6180;
+
+Normalized eigenvector:
+
+0.851
+PC: = [os29|
+
+Interpretation: This gives the direction of maximum variance in the data.
+
+Step 4: First principal component axis (2 marks)
+
+PC, = 0.851X + 0.526Y
+
+This axis shows the linear combination of height and weight along which data varies the most.
+
+Step 5: Proportion of variance captured (2 marks)
+
+A «68.541
+
+= = 0.979
+Ai +A2 70
+
+Proportion =
+
+Interpretation: The first principal component captures ~97.9% of the total variance, meaning almost all
+information is along this axis.
 --- page 11 ---
 BL-   High Risk (Class 1)   1   6
 03   High Risk (Class 1)   2   5
@@ -3543,6 +4261,20 @@ the output.
 x.   Which variable(s), if any, could be candidates for removal to simplify the model?
 One mark for each step:
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Response variable — Daily Energy Expenditure (kcal) (~
+Step 2: Explanatory variables — Hours of Physical Activity, Daily Calorie Intake, Age, Gender {7
+Step 3: Regression equation +
+
+Y = 1200+ 250X, + 0.35X2 — 5.2X3 + 120X4
+
+Step 4: Interpret coefficients +
++ 250: Each extra hour activity t 250 kcal
+« 0.35: Each extra kcal intake t 0.35 kcal
++ -5.2: Each year of age | 5.2 kcal
+* 120: Males ¢ 120 kcal vs females
++ 1200: Baseline kcal for female, 0 activity, 0 intake, age 0
 --- page 13 ---
 Q. A corporate research team wants to evaluate the effects of three different employee training programs
 5 B (Technical Skills, Leadership, and Communication) on two performance outcomes:
@@ -3568,6 +4300,21 @@ o Residual = 9
 significant impact on task efficiency and customer satisfaction.
 10
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Step 5: Predict Y for X:=3, X2=2500, X:=35, X.=1 >
+Y = 1200 + 250(3) + 0.35(2500) — 5.2(35) + 120 = 2763 kcal
+
+Step 6: t-test hypotheses —
+Ho: Bi = 0 (no effect), Ha: Bi # 0 (significant effect)
+
+Step 7: F-test hypotheses —
+Ho: B:=B2=Bs=B.=0 (model not significant), Ha: at least one Bi # 0 (model significant)
+
+Step 8: R? = 0.705, Adjusted R? = 0.692 — 70.5% variation explained by predictors
+Step 9: Model significance — F = 26.53, p = 0.00 < 0.05 — Model is statistically significant
+
+Step 10: Candidate variable for removal — Gender (p = 0.05, borderline significant)
 --- page 14 ---
 Step 1: Hypotheses (02 Marks)
 
@@ -3638,6 +4385,27 @@ Marking Scheme (6 Marks):
 •   Definition of secondary data – 1 mark
 • Example of secondary data – 1 mark
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Step 4: Decision and Interpretation (03 Marks)
+Given: F'4,12,0.05 = 3.49
+
+Comparison:
+Frat = 7.42 > Frap = 3.49
+
+(© Reject Ho
+
+Conclusion:
+
+There is a significant multivariate effect of the type of training program on the combined depende
+variables — Task Efficiency and Customer Satisfaction.
+
+Thus, at least one training program differs significantly in its overall performance impact.
+
+(© Final Answer Summary:
+A=0.249, F=7.42, Decision: Reject Ho
+
+Interpretation: Training programs significantly influence employee performance outcomes.
 --- page 16 ---
 • Primary data research scenario – 1 mark
 • Secondary data research scenario – 1 mark
@@ -3696,6 +4464,54 @@ BL-
 Quota   Sampling:
 Quota sampling is a non-probability sampling technique where the researcher selects a sample that
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1 (1 mark): Total frequency equation
+15+ 40+ fi + 70+ fo+30+ 20 = 245
+
+fit fe +175 =245 —= fit f=70
+
+Step 2 (1 mark): Identify median class
+Median = 95 — 90-120 class is median class.
+
++ I = 90 (lower boundary)
+
++» C =30 (class width)
+
+¢ CFyefore = 15+ 40+ fi = 55+ fi
+* fm = 70 (frequency of median class)
+
+Step 3 (2 marks): Apply median formula
+
+CFyetore
+Median = L + othe -C
+
+122.5 — (55 + fi)
+
+95 = 90
+5 + 70
+
+- 30
+
+Step 4 (2 marks): Solve for f:
+
+67.5 — fi
+70
+
+350 = 2025 — 30f;
+
+1678
+fi = = © 55.83 ~ 56
+
+5 = —.—— -:30
+
+Step 5 (1 mark): Solve for fz
+
+fitfh=70 = 56+ f.=70 > fr=14
+
+Step 6 (1 mark): Verify median class cumulative frequency
+
+CFyrefore + fn = 55 +56+70= 181 (N/2 = 122.5 lies in this class)
 --- page 18 ---
 reflects certain characteristics of the population (e.g., age, gender, income) until a predefined quota for
 each group is filled. Selection within each quota is non-random, based on convenience or judgment.
@@ -3729,6 +4545,20 @@ BL-   3   2
 Evaluate the coefficient of skewness for this data and interpret its significance in understanding the shape
 of the distribution of coffee purchases per customer.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1 (1 mark): Find mean
+
+~_ OFX 21
+
+X= = = 1.75
+SOF 12
+
+Step 2 (1 mark): Find standard deviation
+
+F(X — X)? /16.
+s= » (x ) = 16.25 1164
+SOF 12
 --- page 19 ---
 Q. Imagine you are a data analyst at an e-commerce platform, and you want to classify users based on
 7 C whether they subscribe to a premium membership by applying Linear Discriminant Analysis (LDA).
@@ -3747,6 +4577,28 @@ Premium Subscription (Class) Daily App Usage (hours) Avg. Monthly Spend ($)   8
 0   1   55
 Determine the LDA projection vector for this dataset.
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3 (1 mark): Identify mode
+
+Mode = 2 (highest frequency)
+
+Step 4 (1 mark): Calculate skewness
+
+X—Mode _ 1.75-2
+
+= — x -0.21
+s 1.164 0.215
+
+Skewness =
+
+Step 5 (1 mark): Interpret skewness
+
+Negative skew (—0.215) — slightly left-skewed; most customers buy fewer cups.
+
+Step 6 (1 mark): State final answer
+
+Skewness ~ -0.215 (slightly left-skewed)
 --- page 20 ---
 Step 1: Separate data by class (1 mark)
 
@@ -3787,6 +4639,7 @@ FRI ICR DO) A RH
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_AIML_7053/Statistical Methods/ANS_Statistical Methods(702BS0C085)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2026
 - Text: mixed (16 pages), mean OCR confidence 71.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3875,6 +4728,31 @@ d.
 Purpose:
 • Prediction and forecasting
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+(A) (B) (©) (DB) (€)
+40 27 41 23
+
+Selected random Selected 18 16 50 3
+Population numbers sample
+
+59 52 7 58
+
+(i
+2 C2 49 36 13 BY f
+26 10 47 24
+[4] 48 28 1
+. cs] 5355 4 45
+
+|
+42 11 30
+
+CT)
+cs 8 29 35 14
+ca) 51 20 57
+
+Figure © -1. Random sample of three units from a .
+population of nine units Figure . -2. Table of random numbers.
 --- page 3 ---
 • Measuring relationships
 • Decision-making support
@@ -3921,6 +4799,20 @@ in Figure
 Q: 2
 b.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+SAMPLING WITH REPLACEMENT
+
+tT TT Tt
+
+a. ia 2.
+tes 4h 4h is &
+
+
+WN
+
+First selection Second selection Third selection
+(1 in 9) (1 in 9) (1 in 9)
 --- page 5 ---
 a) Find the Mean using suitable method. (5 Marks)
 b) Find the Median. (3 Marks)
@@ -4273,6 +5165,25 @@ Disadvantages (any two points 2 marks)
 the data. This can be computationally expensive at times for large
 datasets.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+In LDA:
+r lay
+fiz) = wp CO *e ~ Sy; Cp; + In(p5)
+
+Components:
+
+*   jt;: mean vector
+
+« C”}:inverse covariance
+
+* p;: prior probability
+Decision Rule:
+
+« Choose class with highest score
+Purpose:
+
+* Converts classification into linear function
 --- page 14 ---
 • PCA transforms the original input variables into new principal
 components (or dimensions). The new dimensions offer no
@@ -4330,6 +5241,20 @@ b.
 ….. 2 marks
 …… 1 mark
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+det(C — AI) =0
+
+4.2— 2 3.8
+3.8 5.6—A
+
+=0
+(4.2 — )(5.6 — A) — (3.8)? = 0
+
+(4.2 x 5.6) — (4.2 + 5.6)A + A” — 14.44 =0
+23.52 —9.8\ + \? — 14.44 = 0
+
+d? — 9.8A + 9.08 = 0
 --- page 16 ---
 …….4 marks
 ….. 3 marks
@@ -4350,6 +5275,24 @@ to grow and reach its target market. External data is a great tool for those loo
 study their customer base or make well-informed strategic decisions.
 Valid Points with applications discussions: 2.5 Marks
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+For A; = 8.77
+
+Solve:
+(C —AI)v =0
+4.2 — 8.77 3.8 _ |-4.57 3.8
+3.8 5.6—8.77} | 3.8 —3.17
+Equation:
+4.57
+—4.572 + 3.8y=0S> y= 387 w= 1.20zr
+Eigenvector:
+vy = (1, 1.20]
+Normalize:
+
+V1? + (1.2)? = V2.44 © 1.56
+
+v1 = (0.64, 0.77]
 ````
 
 ## 2025-26 · Re-Exam · Sem 4 · Answer key · paper fdb37e10b8cc
@@ -4359,6 +5302,7 @@ Valid Points with applications discussions: 2.5 Marks
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_AI_7012/Statistical Methods/ANS_Statistical Methods(702BS0C085)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2026
 - Text: mixed (16 pages), mean OCR confidence 71.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -4447,6 +5391,31 @@ d.
 Purpose:
 • Prediction and forecasting
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+(A) (B) (©) (DB) (€)
+40 27 41 23
+
+Selected random Selected 18 16 50 3
+Population numbers sample
+
+59 52 7 58
+
+(i
+2 C2 49 36 13 BY f
+26 10 47 24
+[4] 48 28 1
+. cs] 5355 4 45
+
+|
+42 11 30
+
+CT)
+cs 8 29 35 14
+ca) 51 20 57
+
+Figure © -1. Random sample of three units from a .
+population of nine units Figure . -2. Table of random numbers.
 --- page 3 ---
 • Measuring relationships
 • Decision-making support
@@ -4493,6 +5462,20 @@ in Figure
 Q: 2
 b.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+SAMPLING WITH REPLACEMENT
+
+tT TT Tt
+
+a. ia 2.
+tes 4h 4h is &
+
+
+WN
+
+First selection Second selection Third selection
+(1 in 9) (1 in 9) (1 in 9)
 --- page 5 ---
 a) Find the Mean using suitable method. (5 Marks)
 b) Find the Median. (3 Marks)
@@ -4845,6 +5828,25 @@ Disadvantages (any two points 2 marks)
 the data. This can be computationally expensive at times for large
 datasets.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+In LDA:
+r lay
+fiz) = wp CO *e ~ Sy; Cp; + In(p5)
+
+Components:
+
+*   jt;: mean vector
+
+« C”}:inverse covariance
+
+* p;: prior probability
+Decision Rule:
+
+« Choose class with highest score
+Purpose:
+
+* Converts classification into linear function
 --- page 14 ---
 • PCA transforms the original input variables into new principal
 components (or dimensions). The new dimensions offer no
@@ -4902,6 +5904,20 @@ b.
 ….. 2 marks
 …… 1 mark
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+det(C — AI) =0
+
+4.2— 2 3.8
+3.8 5.6—A
+
+=0
+(4.2 — )(5.6 — A) — (3.8)? = 0
+
+(4.2 x 5.6) — (4.2 + 5.6)A + A” — 14.44 =0
+23.52 —9.8\ + \? — 14.44 = 0
+
+d? — 9.8A + 9.08 = 0
 --- page 16 ---
 …….4 marks
 ….. 3 marks
@@ -4922,6 +5938,24 @@ to grow and reach its target market. External data is a great tool for those loo
 study their customer base or make well-informed strategic decisions.
 Valid Points with applications discussions: 2.5 Marks
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+For A; = 8.77
+
+Solve:
+(C —AI)v =0
+4.2 — 8.77 3.8 _ |-4.57 3.8
+3.8 5.6—8.77} | 3.8 —3.17
+Equation:
+4.57
+—4.572 + 3.8y=0S> y= 387 w= 1.20zr
+Eigenvector:
+vy = (1, 1.20]
+Normalize:
+
+V1? + (1.2)? = V2.44 © 1.56
+
+v1 = (0.64, 0.77]
 ````
 
 ## 2025-26 · Re-Exam · Sem 4 · Answer key · paper 540df98c485f
@@ -4931,6 +5965,7 @@ Valid Points with applications discussions: 2.5 Marks
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_CSE_DS_7057/Statistical Methods/ANS_Statistical Methods(702BS0C085)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2026
 - Text: mixed (16 pages), mean OCR confidence 71.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -5019,6 +6054,31 @@ d.
 Purpose:
 • Prediction and forecasting
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+(A) (B) (©) (DB) (€)
+40 27 41 23
+
+Selected random Selected 18 16 50 3
+Population numbers sample
+
+59 52 7 58
+
+(i
+2 C2 49 36 13 BY f
+26 10 47 24
+[4] 48 28 1
+. cs] 5355 4 45
+
+|
+42 11 30
+
+CT)
+cs 8 29 35 14
+ca) 51 20 57
+
+Figure © -1. Random sample of three units from a .
+population of nine units Figure . -2. Table of random numbers.
 --- page 3 ---
 • Measuring relationships
 • Decision-making support
@@ -5065,6 +6125,20 @@ in Figure
 Q: 2
 b.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+SAMPLING WITH REPLACEMENT
+
+tT TT Tt
+
+a. ia 2.
+tes 4h 4h is &
+
+
+WN
+
+First selection Second selection Third selection
+(1 in 9) (1 in 9) (1 in 9)
 --- page 5 ---
 a) Find the Mean using suitable method. (5 Marks)
 b) Find the Median. (3 Marks)
@@ -5417,6 +6491,25 @@ Disadvantages (any two points 2 marks)
 the data. This can be computationally expensive at times for large
 datasets.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+In LDA:
+r lay
+fiz) = wp CO *e ~ Sy; Cp; + In(p5)
+
+Components:
+
+*   jt;: mean vector
+
+« C”}:inverse covariance
+
+* p;: prior probability
+Decision Rule:
+
+« Choose class with highest score
+Purpose:
+
+* Converts classification into linear function
 --- page 14 ---
 • PCA transforms the original input variables into new principal
 components (or dimensions). The new dimensions offer no
@@ -5474,6 +6567,20 @@ b.
 ….. 2 marks
 …… 1 mark
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+det(C — AI) =0
+
+4.2— 2 3.8
+3.8 5.6—A
+
+=0
+(4.2 — )(5.6 — A) — (3.8)? = 0
+
+(4.2 x 5.6) — (4.2 + 5.6)A + A” — 14.44 =0
+23.52 —9.8\ + \? — 14.44 = 0
+
+d? — 9.8A + 9.08 = 0
 --- page 16 ---
 …….4 marks
 ….. 3 marks
@@ -5494,6 +6601,24 @@ to grow and reach its target market. External data is a great tool for those loo
 study their customer base or make well-informed strategic decisions.
 Valid Points with applications discussions: 2.5 Marks
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+For A; = 8.77
+
+Solve:
+(C —AI)v =0
+4.2 — 8.77 3.8 _ |-4.57 3.8
+3.8 5.6—8.77} | 3.8 —3.17
+Equation:
+4.57
+—4.572 + 3.8y=0S> y= 387 w= 1.20zr
+Eigenvector:
+vy = (1, 1.20]
+Normalize:
+
+V1? + (1.2)? = V2.44 © 1.56
+
+v1 = (0.64, 0.77]
 ````
 
 ## 2025-26 · Re-Exam · Sem 4 · Answer key · paper 040f8b230d24
@@ -5503,6 +6628,7 @@ Valid Points with applications discussions: 2.5 Marks
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/MBATech_AI_7051/Statistical Methods/ANS_Statistical Methods(702BS0C085)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 09 Jul 2026
 - Text: mixed (16 pages), mean OCR confidence 71.7
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -5591,6 +6717,31 @@ d.
 Purpose:
 • Prediction and forecasting
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+(A) (B) (©) (DB) (€)
+40 27 41 23
+
+Selected random Selected 18 16 50 3
+Population numbers sample
+
+59 52 7 58
+
+(i
+2 C2 49 36 13 BY f
+26 10 47 24
+[4] 48 28 1
+. cs] 5355 4 45
+
+|
+42 11 30
+
+CT)
+cs 8 29 35 14
+ca) 51 20 57
+
+Figure © -1. Random sample of three units from a .
+population of nine units Figure . -2. Table of random numbers.
 --- page 3 ---
 • Measuring relationships
 • Decision-making support
@@ -5637,6 +6788,20 @@ in Figure
 Q: 2
 b.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+SAMPLING WITH REPLACEMENT
+
+tT TT Tt
+
+a. ia 2.
+tes 4h 4h is &
+
+
+WN
+
+First selection Second selection Third selection
+(1 in 9) (1 in 9) (1 in 9)
 --- page 5 ---
 a) Find the Mean using suitable method. (5 Marks)
 b) Find the Median. (3 Marks)
@@ -5989,6 +7154,25 @@ Disadvantages (any two points 2 marks)
 the data. This can be computationally expensive at times for large
 datasets.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+In LDA:
+r lay
+fiz) = wp CO *e ~ Sy; Cp; + In(p5)
+
+Components:
+
+*   jt;: mean vector
+
+« C”}:inverse covariance
+
+* p;: prior probability
+Decision Rule:
+
+« Choose class with highest score
+Purpose:
+
+* Converts classification into linear function
 --- page 14 ---
 • PCA transforms the original input variables into new principal
 components (or dimensions). The new dimensions offer no
@@ -6046,6 +7230,20 @@ b.
 ….. 2 marks
 …… 1 mark
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+det(C — AI) =0
+
+4.2— 2 3.8
+3.8 5.6—A
+
+=0
+(4.2 — )(5.6 — A) — (3.8)? = 0
+
+(4.2 x 5.6) — (4.2 + 5.6)A + A” — 14.44 =0
+23.52 —9.8\ + \? — 14.44 = 0
+
+d? — 9.8A + 9.08 = 0
 --- page 16 ---
 …….4 marks
 ….. 3 marks
@@ -6066,6 +7264,24 @@ to grow and reach its target market. External data is a great tool for those loo
 study their customer base or make well-informed strategic decisions.
 Valid Points with applications discussions: 2.5 Marks
 ********** 16 **********
+
+[Text in pictures on this page, read by OCR]
+For A; = 8.77
+
+Solve:
+(C —AI)v =0
+4.2 — 8.77 3.8 _ |-4.57 3.8
+3.8 5.6—8.77} | 3.8 —3.17
+Equation:
+4.57
+—4.572 + 3.8y=0S> y= 387 w= 1.20zr
+Eigenvector:
+vy = (1, 1.20]
+Normalize:
+
+V1? + (1.2)? = V2.44 © 1.56
+
+v1 = (0.64, 0.77]
 ````
 
 ## 2024-25 · Final-Exam · Sem 2 · Answer key · paper 159cf1a18a95
@@ -6151,6 +7367,18 @@ CO:1 a   Stratified sampling 2 M   8
 SO:1   Example 2M   M
 BL:2   advantages 4 M
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Given n=400, = 40, 4 = 38 and o = 10
+
+Ho : w= 38, Hy: w #38 [1 M]
+LOS 2iqy = 1.96 (1 M
+
+Zeal = SH = 4 [2 M]
+
+Since Zeal > Ztab [1 M]
+
+We reject Ho {1 M]
 --- page 3 ---
 CO:1 | b
 
@@ -6445,6 +7673,37 @@ CO:1 b regression line Y on X formula 2 M   6
 SO:2   M
 BL:3   Y=0.688X+9.57 2M
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Solution The mean of the sample is given by
+
+4 31
+= Sx =3) =258
+* po 2
+
+The SDs of the sample is given by
+
+>_1 2 (: ) 1 2
+vex? -[— Px] =— x 185 - 2.58)" = 8.76
+n * n 12 ( )
+
+5= 2.96
+Ho: X =H,
+where = 0, i.e. the injection will not result in increase in BP.
+Ax >
+
+Right-tailed test is to be used. Let LOS be 5%. Now to os, for one-tailed test
+for (Vv = 11) = tog, for two-tailed test for (v= 11) = 1.80 (from t-table)
+
+X¥-M _ 258-0 ©
+sifn-1 2-96//1
+
+We see that! t! > tog, (V= 11).
+
+Now t=
+
+Therefore, Hy is rejected and H, is accepted. That is, we may conclude that the
+injection is accompanied by an increase in BP.
 --- page 3 ---
 X=12 then Y=17.826 2M
 CO:3 c H0: P=0.04, H1: P>0.04   1M
@@ -6499,6 +7758,19 @@ Ftab = 3.8853   1
 H0 is rejected. Statistically we conclude that there is significant difference between
 the mean yields.   1
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Source of Sum of DF Mean Square F statistic
+
+variation Squares
+Between SSTR (SSC) | r-1=2 MSTR(MSC)= SSTR(SSC) |, __ MSTR(MSC)
+Samples = 190 r-1 MSE
+=95 =8.14
+Within Samples | SSE=140 | N-r=12 msg = SE.
+N-r
+= 11.67
+
+Total SST = 330 | N-1=14
 --- page 5 ---
 CO:3 | b
 SO:6
@@ -6606,6 +7878,40 @@ sum of negative=28 1M
 non zero di=13 1M
 H0 accepted 1M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Ho: The die is unbiased
+Hy: The die is biased
+
+LOS
+Xiab = X$ = 11.07 (1 Mj
+Test: statistics:
+Expected frequency of each number is =2%4 = 44 {1 M]
+table {2 M]
+Observed | Expected frequency | (O; — E;)? ae
+40 44 46 0.3636
+32 44 144 3.2727
+28 44 256 5.8181
+58 44 196 4.4545
+54 44 100 2.2727
+52 44 64 1.4545
+264 264 17.6362
+2
+Xia = >> a = 17.6362 (LM)
+
+Since Xiu > Xtab
+We reject Ho {1 M]
+
+Given n; = 1000, mn = 2000, %, = 67.5, ZT = 68,
+
+Ao : © = Fo, H, : 7, # To [1 M]
+LOS 2a» = 1.96 [1 M]
+
+Zeal = —5.16 [2 M]
+
+Since Zeal > Ztab [Ll Mj
+
+We reject Ho [1 M]
 --- page 7 ---
 CO:1 |b Assume we have n independent Bernoulli trials, each with success probability p. The sum of these
 

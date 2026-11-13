@@ -211,6 +211,30 @@ Demand   Max payoff
 40   80
 60   120
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+io)
+
+Iteration 1
+it}
+it}
+
+Iteration 2
+10
+it}
+
+Basic 10 6 2B 0 0
+
+Variables Quantity Xt x2 slack 1 slack 2
+slack 1 100
+slack 2 300 2 2 6 0 1
+z 0 0 0 0 0 0
+cz)
+100
+slack 2 100 0 0 4 2 1
+z 1,000 10 10 10 10 0
+
+cj oO -4 6 10 0
 --- page 6 ---
 Regret or Opportunity Loss table is calculated as:
 Q\D   20   25   40   60
@@ -245,6 +269,37 @@ Solving Sub-Problem C: 1 Marks
 Solving Sub-Problem D: 2 Marks
 Solving Sub-Problem E: 1 Marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+a. mene t
+
+}-~——,~——3 | 0 ig I 0 1 ya
+-_ 2 2 1 Y) = 0 0 jundefined|
+0 e avi \cao 1 0 1 0 a
+
+rF 10 =—M -M-10 0 -M
+
+Prseegine 0 M+12 M+10 0 0
+
+, : _|
+
+2 % 3 0 1 1 0
+. 2 | 2 0 al 0
+
+| 0 S; 1 0 a iF i
+
+| Zz 6 10 12 2 0
+52% 0 0 2 0 =|
+
+Since all entries in the C)-
+solution is arrived at and is aken wy
+*1 = 10, xp»
+
+Problem 3.9& A» ac. rn.
+
+row are either zero or negative, the optimum
+
+-
 --- page 7 ---
 Branch and bound algorithm thus terminated and the optimal integer solution is:
 ZD=26 and X₁ =3, X₂ =2 [1 Marks]
@@ -643,6 +698,30 @@ Demand   Max payoff
 40   80
 60   120
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+io)
+
+Iteration 1
+it}
+it}
+
+Iteration 2
+10
+it}
+
+Basic 10 6 2B 0 0
+
+Variables Quantity Xt x2 slack 1 slack 2
+slack 1 100
+slack 2 300 2 2 6 0 1
+z 0 0 0 0 0 0
+cz)
+100
+slack 2 100 0 0 4 2 1
+z 1,000 10 10 10 10 0
+
+cj oO -4 6 10 0
 --- page 6 ---
 Regret or Opportunity Loss table is calculated as:
 Q\D   20   25   40   60
@@ -677,6 +756,37 @@ Solving Sub-Problem C: 1 Marks
 Solving Sub-Problem D: 2 Marks
 Solving Sub-Problem E: 1 Marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+a. mene t
+
+}-~——,~——3 | 0 ig I 0 1 ya
+-_ 2 2 1 Y) = 0 0 jundefined|
+0 e avi \cao 1 0 1 0 a
+
+rF 10 =—M -M-10 0 -M
+
+Prseegine 0 M+12 M+10 0 0
+
+, : _|
+
+2 % 3 0 1 1 0
+. 2 | 2 0 al 0
+
+| 0 S; 1 0 a iF i
+
+| Zz 6 10 12 2 0
+52% 0 0 2 0 =|
+
+Since all entries in the C)-
+solution is arrived at and is aken wy
+*1 = 10, xp»
+
+Problem 3.9& A» ac. rn.
+
+row are either zero or negative, the optimum
+
+-
 --- page 7 ---
 Branch and bound algorithm thus terminated and the optimal integer solution is:
 ZD=26 and X₁ =3, X₂ =2 [1 Marks]
@@ -1075,6 +1185,30 @@ Demand   Max payoff
 40   80
 60   120
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+io)
+
+Iteration 1
+it}
+it}
+
+Iteration 2
+10
+it}
+
+Basic 10 6 2B 0 0
+
+Variables Quantity Xt x2 slack 1 slack 2
+slack 1 100
+slack 2 300 2 2 6 0 1
+z 0 0 0 0 0 0
+cz)
+100
+slack 2 100 0 0 4 2 1
+z 1,000 10 10 10 10 0
+
+cj oO -4 6 10 0
 --- page 6 ---
 Regret or Opportunity Loss table is calculated as:
 Q\D   20   25   40   60
@@ -1109,6 +1243,37 @@ Solving Sub-Problem C: 1 Marks
 Solving Sub-Problem D: 2 Marks
 Solving Sub-Problem E: 1 Marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+a. mene t
+
+}-~——,~——3 | 0 ig I 0 1 ya
+-_ 2 2 1 Y) = 0 0 jundefined|
+0 e avi \cao 1 0 1 0 a
+
+rF 10 =—M -M-10 0 -M
+
+Prseegine 0 M+12 M+10 0 0
+
+, : _|
+
+2 % 3 0 1 1 0
+. 2 | 2 0 al 0
+
+| 0 S; 1 0 a iF i
+
+| Zz 6 10 12 2 0
+52% 0 0 2 0 =|
+
+Since all entries in the C)-
+solution is arrived at and is aken wy
+*1 = 10, xp»
+
+Problem 3.9& A» ac. rn.
+
+row are either zero or negative, the optimum
+
+-
 --- page 7 ---
 Branch and bound algorithm thus terminated and the optimal integer solution is:
 ZD=26 and X₁ =3, X₂ =2 [1 Marks]
@@ -1507,6 +1672,30 @@ Demand   Max payoff
 40   80
 60   120
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+io)
+
+Iteration 1
+it}
+it}
+
+Iteration 2
+10
+it}
+
+Basic 10 6 2B 0 0
+
+Variables Quantity Xt x2 slack 1 slack 2
+slack 1 100
+slack 2 300 2 2 6 0 1
+z 0 0 0 0 0 0
+cz)
+100
+slack 2 100 0 0 4 2 1
+z 1,000 10 10 10 10 0
+
+cj oO -4 6 10 0
 --- page 6 ---
 Regret or Opportunity Loss table is calculated as:
 Q\D   20   25   40   60
@@ -1541,6 +1730,37 @@ Solving Sub-Problem C: 1 Marks
 Solving Sub-Problem D: 2 Marks
 Solving Sub-Problem E: 1 Marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+a. mene t
+
+}-~——,~——3 | 0 ig I 0 1 ya
+-_ 2 2 1 Y) = 0 0 jundefined|
+0 e avi \cao 1 0 1 0 a
+
+rF 10 =—M -M-10 0 -M
+
+Prseegine 0 M+12 M+10 0 0
+
+, : _|
+
+2 % 3 0 1 1 0
+. 2 | 2 0 al 0
+
+| 0 S; 1 0 a iF i
+
+| Zz 6 10 12 2 0
+52% 0 0 2 0 =|
+
+Since all entries in the C)-
+solution is arrived at and is aken wy
+*1 = 10, xp»
+
+Problem 3.9& A» ac. rn.
+
+row are either zero or negative, the optimum
+
+-
 --- page 7 ---
 Branch and bound algorithm thus terminated and the optimal integer solution is:
 ZD=26 and X₁ =3, X₂ =2 [1 Marks]
@@ -1936,6 +2156,31 @@ EMV=∑ (Payoff × Probability)
 • EMV(100) = 1100×0.1+1400×0.2+1700×0.4+2000×0.3=1670
 Maximum EMV = 1680 (Order 90 dozen)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Maximize
+Z = 40002, + 200022 + 500023 + 0s; + Oso
+Subject to:
+122, + Tag + 9x3 + 8, = 1260
+222; + 1822 + 16x3 + s2 = 19008
+
+21,2, 23, $1, 82 >0
+
+Cj Basic 4000 wee poe i) 0
+
+Variables Quantity x1 slack 1 slack 2
+a a ST ST
+slack 1 1,260
+i} slack 2 19,008 22 18 16 0 1
+Zz 0 0 0 0
+
+cj-zj 4,000 2,000 5,000
+iteration 2 a
+5000 140 1.3333 0.7778 1
+i} slack 2 16,768 0.6667 5.5556 i)
+
+q 7,00,000 6666.67 3888.89 5000
+cj-zj -2,666.66. -1,888.88. 0. -555.5556 0
 --- page 7 ---
 Step 4: EOL (Regret Table)
 Column maximums:
@@ -2139,6 +2384,16 @@ Apply
 6
 -------------------2M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+(untitled) Solution
+
+x1 x2 RHS
+Minimize 200 400
+Constraint 1 1 1 >= 200
+Constraint 2 1 3 >= 400
+Constraint 3 1 2 <= 350
+Solution-> 100 100 60000
 --- page 13 ---
 CO-   c
 1,4;
@@ -2380,6 +2635,31 @@ EMV=∑ (Payoff × Probability)
 • EMV(100) = 1100×0.1+1400×0.2+1700×0.4+2000×0.3=1670
 Maximum EMV = 1680 (Order 90 dozen)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Maximize
+Z = 40002, + 200022 + 500023 + 0s; + Oso
+Subject to:
+122, + Tag + 9x3 + 8, = 1260
+222; + 1822 + 16x3 + s2 = 19008
+
+21,2, 23, $1, 82 >0
+
+Cj Basic 4000 wee poe i) 0
+
+Variables Quantity x1 slack 1 slack 2
+a a ST ST
+slack 1 1,260
+i} slack 2 19,008 22 18 16 0 1
+Zz 0 0 0 0
+
+cj-zj 4,000 2,000 5,000
+iteration 2 a
+5000 140 1.3333 0.7778 1
+i} slack 2 16,768 0.6667 5.5556 i)
+
+q 7,00,000 6666.67 3888.89 5000
+cj-zj -2,666.66. -1,888.88. 0. -555.5556 0
 --- page 7 ---
 Step 4: EOL (Regret Table)
 Column maximums:
@@ -2583,6 +2863,16 @@ Apply
 6
 -------------------2M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+(untitled) Solution
+
+x1 x2 RHS
+Minimize 200 400
+Constraint 1 1 1 >= 200
+Constraint 2 1 3 >= 400
+Constraint 3 1 2 <= 350
+Solution-> 100 100 60000
 --- page 13 ---
 CO-   c
 1,4;
@@ -2824,6 +3114,31 @@ EMV=∑ (Payoff × Probability)
 • EMV(100) = 1100×0.1+1400×0.2+1700×0.4+2000×0.3=1670
 Maximum EMV = 1680 (Order 90 dozen)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Maximize
+Z = 40002, + 200022 + 500023 + 0s; + Oso
+Subject to:
+122, + Tag + 9x3 + 8, = 1260
+222; + 1822 + 16x3 + s2 = 19008
+
+21,2, 23, $1, 82 >0
+
+Cj Basic 4000 wee poe i) 0
+
+Variables Quantity x1 slack 1 slack 2
+a a ST ST
+slack 1 1,260
+i} slack 2 19,008 22 18 16 0 1
+Zz 0 0 0 0
+
+cj-zj 4,000 2,000 5,000
+iteration 2 a
+5000 140 1.3333 0.7778 1
+i} slack 2 16,768 0.6667 5.5556 i)
+
+q 7,00,000 6666.67 3888.89 5000
+cj-zj -2,666.66. -1,888.88. 0. -555.5556 0
 --- page 7 ---
 Step 4: EOL (Regret Table)
 Column maximums:
@@ -3027,6 +3342,16 @@ Apply
 6
 -------------------2M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+(untitled) Solution
+
+x1 x2 RHS
+Minimize 200 400
+Constraint 1 1 1 >= 200
+Constraint 2 1 3 >= 400
+Constraint 3 1 2 <= 350
+Solution-> 100 100 60000
 --- page 13 ---
 CO-   c
 1,4;
@@ -3268,6 +3593,31 @@ EMV=∑ (Payoff × Probability)
 • EMV(100) = 1100×0.1+1400×0.2+1700×0.4+2000×0.3=1670
 Maximum EMV = 1680 (Order 90 dozen)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Maximize
+Z = 40002, + 200022 + 500023 + 0s; + Oso
+Subject to:
+122, + Tag + 9x3 + 8, = 1260
+222; + 1822 + 16x3 + s2 = 19008
+
+21,2, 23, $1, 82 >0
+
+Cj Basic 4000 wee poe i) 0
+
+Variables Quantity x1 slack 1 slack 2
+a a ST ST
+slack 1 1,260
+i} slack 2 19,008 22 18 16 0 1
+Zz 0 0 0 0
+
+cj-zj 4,000 2,000 5,000
+iteration 2 a
+5000 140 1.3333 0.7778 1
+i} slack 2 16,768 0.6667 5.5556 i)
+
+q 7,00,000 6666.67 3888.89 5000
+cj-zj -2,666.66. -1,888.88. 0. -555.5556 0
 --- page 7 ---
 Step 4: EOL (Regret Table)
 Column maximums:
@@ -3471,6 +3821,16 @@ Apply
 6
 -------------------2M
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+(untitled) Solution
+
+x1 x2 RHS
+Minimize 200 400
+Constraint 1 1 1 >= 200
+Constraint 2 1 3 >= 400
+Constraint 3 1 2 <= 350
+Solution-> 100 100 60000
 --- page 13 ---
 CO-   c
 1,4;

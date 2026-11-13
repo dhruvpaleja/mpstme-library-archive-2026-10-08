@@ -33,6 +33,18 @@ B.   7
 2.   Solve.   15
 A.   8
 Page 1 of 3
+
+[Text in pictures on this page, read by OCR]
+While preparing the annual financial statements for the year ended 31st March, 20X3.,
+an entity discovers that a provision for constructive obligation for payment of bonus to
+selected employees in corporate office (material in amount) which was required to be
+recognised in the annual financial statements for the year ended 31st March, 20X1 was
+not recognized due to oversight of facts. The bonus was paid during the financial year
+ended 31st March, 20X2 and was recognized as an expense in the annual financial
+statements for the said year.
+
+Would this situation require retrospective restatement of comparatives considering that
+the error was material?
 --- page 2 ---
 3.
 

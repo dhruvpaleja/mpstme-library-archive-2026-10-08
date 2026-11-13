@@ -1,6 +1,6 @@
 # Additive Manufacturing
 
-**23** unique papers (29 copies across programmes) · 2016-17 to 2025-26 · 6 programmes · Sem 5, Sem 7, Sem 8, Sem 9, Sem 10
+**24** unique papers (30 copies across programmes) · 2016-17 to 2025-26 · 6 programmes · Sem 5, Sem 7, Sem 8, Sem 9, Sem 10
 
 Download only this subject, sorted by academic year:
 
@@ -11,6 +11,8 @@ python organize_by_subject.py restore --destination D:/Study --subject "Additive
 Files land in `D:/Study/PYQs_By_Subject/Additive Manufacturing/<academic year>/`. Identical copies of one paper (the portal often files the same PDF under several programmes) are placed once.
 
 Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (every paper in full, newest first), [`questions.jsonl`](questions.jsonl) (one record per question with marks, year, exam, semester and department) and [`papers.jsonl`](papers.jsonl) (one record per paper). Answer keys, where the portal published them, are in `answer_keys.md`. See [`question_bank/README.md`](../../question_bank/README.md) for the fields.
+
+Syllabus of this course, every version found in the archive: [`syllabus.md`](syllabus.md) (see [`syllabi/`](../../syllabi/README.md) for all programmes).
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
@@ -29,6 +31,7 @@ Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (
 | 2022-23 | Final-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / MECHANICAL | Additive Manufacturing Batch 2022-23 Final0001.pdf |
 | 2021-22 | Final-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / MECHANICAL | Additive Manufacturing 2021-22 Final0001.pdf |
 | 2019-20 | Final-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / MECHANICAL | Additive Manufacturing 2019-20 Final.pdf |
+| 2018-19 | Final-Exam | Question paper | Sem 8 | B TECH / MECHANICAL | ADDITIVE_MANUFACTURING_B_TECH_(MECHANICAL)__2018-19_FINAL_EXAM__vqrMZmKTod.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 8 | B TECH / MECHATRONICS | ADDITIVE_MANUFACTURING_B TECH (MECHATRONICS), 2018-19_FINAL_EXAM_.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 9 | B.TECH INTEGRATED / MECHANICAL | Additive Manufacturing 2018-19 Final.pdf |
 | 2018-19 | Final-Exam | Question paper | Sem 8 | MBA TECH / MECHANICAL | Additive manufacturing Final 2018-19.pdf |

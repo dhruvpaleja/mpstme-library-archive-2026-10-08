@@ -1,6 +1,6 @@
 # Deep Learning: question papers in full
 
-62 unique papers · 2018-19 to 2025-26 · Computer Engineering, Electronics and Telecommunication, Artificial Intelligence, Data Science, Information Technology, AI and Data Science, Computer Science and Business Systems, Common (all branches)
+63 unique papers · 2018-19 to 2025-26 · Computer Engineering, Electronics and Telecommunication, Artificial Intelligence, Data Science, Information Technology, Computer Science and Business Systems, AI and Data Science, Common (all branches)
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1100,6 +1100,143 @@ highlight the advantages of using CNNs in these scenarios.
 - FAI OA OR RK
 ````
 
+## 2025-26 · Re-Exam · Sem 8 · paper 9a34c1e26874
+
+- Departments: Computer Science and Business Systems
+- Programmes: B TECH / CSBS
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: CSBS/SEM-VIII/DEEP LEARNING/B_Tech__Deep_Learning__Sem-VIII__Batch_2025-26_Re_Exam_G12L5CaSrb.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 6 Jul 2026
+- Text: ocr (3 pages), mean OCR confidence 85.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+
+Programme: BACHELOR OF TECHNOLOGY (COMPUTER SCIENCE A
+SYSTEMS)
+Year: I[V/Sem 8 Re-exam(Exam Year: 2025-2026)
+Subject: Deep Learning
+Date: 6 Jul 2026 Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+
+RE EXAMINATION (Acad. Year:2024-2025)
+
+Instructions:
+
+1. This question paper contains 3 pages.
+
+2. Question No. 1 is compulsory
+
+3. Out of the remianing questions, attempt any 4 questions.
+
+4. In all 5 questions to be attempted.
+
+5. All questions carry equal marks.
+
+6. Answer to each new question to be started on a fresh page.
+
+7. Figures in brackets on the right hand side indicate full marks.
+
+8. Assume suitable data if necessary.
+
+Ql Answer briefly: [20]
+@ co-3. [a . ;
+BL-1.2 . How does parameter sharing improve training speed and memory efficiency? [5]
+CO-2 b. . rr . a.
+BL-2 What is regularization in deep learning? Why is it needed? [5]
+CO-3 Gs Explain the working of the basic ResNet architecture and its use cases. [5]
+BL-1
+CO-1 d. . . . coe ;
+BL-1 Compare Sigmoid, Tanh, and ReLU, highlighting their advantages and [5]
+disadvantages.
+Explain how early stopping can be used along with other techniques like dropout
+and batch normalization. (Algorithm) [10]
+a.
+Q2
+CO-
+2,BL-3 Discuss the challenges and limitations of early stopping in deep learning.
+b.
+CO-2, Write and explain the algorithm for the RMSprop optimizer. Compare with the [4+6]
+BL-2 Stochastic Gradient Descent optimizer.
+L>
+a. Explain the architecture of the GRU model using a diagram. Then, use formulas
+Q3 tediscuss the critical components of the GRU unit (All gates). [10]
+CO-4 Differentiate between the loss function and the cost function. How are they used
+: «animation?
+BL-4 during model optimization?
+yb. You are designing a deep learning model for:
+CO-2 . Ed : : . .
+BL-2 (a) Medical diagnosis (binary classification)
+(b) Image classification (multi-class)
+(c) House price prediction
+Suggest appropriate loss functions fgr each case and justify your choices. [4+6]
+Q4. a. Consider the neural network as shown in the figure.
+. The input x1=0.5, x2=1, x3=0.5, and the initial weights and biases are shown in
+CO-2¢" the figure; The actual outputs are [0.95, 0.05] for the two output neurons. The
+BL-3 activation used is sigmoid. Calculate the following: (4 significants) Learning rate | [4+2+4
+is 0.55. ]
+
+FICE 7 Rak
+--- page 2 ---
+> f
+
+1. Predicted output after forward propagation.
+
+2. Mean square error after the first forward pass
+
+3. Calculate the updated weights w10 and w5 after the first iteration of
+backpropagation. °
+
+CO-3
+BL-3 [10]
+b1=0.5 b2=0.5
+A company wants to detect fake reviews. How would you build a DL model?
+Implement EXOR gates using perceptron models. [5+5]
+Q5 es te ee at - .
+Analyze the role of initialization in deep architectures with many layers.
+CO-3
+BL-1,2
+CO-4 ; : ae ' F
+BL-2 Derive the Gradient Descent derivation for a neural network with one hidden [10]
+layer, 2 inputs, and 2 outputs.
+Q6 [10]
+C02 Discuss L1 and L2 regularisation with the help of the necessary equations and
+BL-4 training curves.
+Calculate the actual shape, actual size, and the number of training parameters per
+CO-3 layer-wise for the following CNN architecture. (Note: If the result of the formula [10]
+BL- is not an integer, apply Rounding Up (Ceiling)):
+2,1,5 Input Layer 240x240x3
+Conv Layer k=50, f=sS, S=4
+Max Pooling 3x3, S=2
+Conv Layer k=128, f=5, p=2
+.| Max Pooling 3x3, S=2
+Conv Layer k=256, f=3, p=1
+a Conv Layer k=128, f=3, p=1
+Max Pooling 2x2, s=2
+FCL 512
+FECL 512
+Softmax 50
+’
+
+FCO DOR RR
+--- page 3 ---
+Explain how mini-batch gradient descent strikes a balance between batch
+
+a gradient descent and SGD in terms of convergence speed, loss curve smoothness,
+Q7. and how the term momentum supports training. Give suitable equations andy : A
+CcO-2 Graphs. 7 [10]
+BL-2 a
+b. Design an RNN-based model for sentiment analysis or language modeling.
+Explain:
+10
+1) Input representation {10]
+CO-4 2) Model architecture
+BL-4 3) Training process
+ee ,
+
+````
+
 ## 2025-26 · Re-Exam · Sem 8 · paper 8e4765e78b76
 
 - Departments: Computer Science and Business Systems
@@ -1247,6 +1384,16 @@ BL-2   b.   1. Speed of convergence
 CO-3   1) Consider a feature map as shown below[
 BL-4   [5+5]
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+l 2 |3 |4
+5. 16 |7 [8
+2 |4 |1 3
+9 7) Ss 6
+
+i, Perform 2x2 max pooling with a stride of 2 on this feature map
+ii, Perform 2x2 average pooling with a stride of 1 (no padding)
+iii. | Mention the significance of pooling in CNN architecture
 ````
 
 ## 2025-26 · Re-Exam · Sem 5 · paper 6f31f697f004

@@ -98,6 +98,46 @@ CO-5; BL-4   Fig- 4 Marks
 Explanation – 6 marks
 CO-2; BL-4   b.   [10]
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The specific internal energy of wet steam
+Uyer = Mwer— P(X Vg)
+= 2475.8 — (10 x 100 kPa)
+x 0.85 x (0.19444 m*/kg)
+= 2310.52 kJ/kg
+(ii) For dry steam; 2 Marks
+Ug = hg Pg
+= 2778.08 — (10 x 100) x 0.19444
+= 2583.64 kJ/kg
+(iii) When steam is superheated,
+Tsp — Tsar = 50°C
+Txup = 179.9 + 50 = 229.9°C
+The specific enthalpy of superheated steam
+Naup = hg + Cps (Tsp ~ Tat)
+= 2778.08 + 2.01 x 50 = 2878.58 kJ/kg
+
+Specific volume of superheated steam
+
+229.9+273
+Dap =0.19444 x 7 =" _ 9216 mikg
+179.9+273
+
+The internal energy of superheated steam
+
+2 Marks
+
+Usp = Nap ~ PV sup
+= 2878.58 — (10 x 100) x 0.216
+
+= 2662. 67 kJ/kg 4 Mark
+
+Process Q (kJ/min) W (kJ/min) AU (kJ/min)
+
+1-2 400 150 250
+2-3 200 -100 300
+344 -200 -25 -175
+
+a1 1) 75 -75
 --- page 4 ---
 10 Marks
 Q7   a.   [10]
@@ -182,6 +222,38 @@ Equation of state for real gas   [2 marks]
 Q4(b) Definition of PMM -1   [2 marks]
 Why it is impossible to produce?   [3 marks]
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Given Data:
+Inlet Conditions:
+Pressure: P; = 100 kPa
+Temperature: Ty) = 27°C
+Velocity: v) = 5 m/s
+Enthalpy: hy = Cp x (Ti + 273)
+Exit Conditions:
+Pressure: P = 500 kPa
+Temperature: Ty = 200°C
+Velocity: v2 = 10 m/s
+Enthalpy: hg = Cp x (T2 + 273)
+Heat Loss: Q = —15 ki/kg
+
+Mass Flow Rate: riz — 1.2 kg/s
+
+Formula (Steady Flow Energy Equation):
+
+W = th | (hy — hy) +
+
+Substituting values:
+
+2 2
+
+2x 9.81
+
+W = 1.2 x | (1.005 x (200 + 273) — 1.005 x (27 + 273)) + —(—15)
+
+W = 231.23 kW
+
+The compressor requires 231.23 kW of power input to operate.
 --- page 4 ---
 Q4(c) Definition of wet steam   [1 mark]
 Defining dryness fraction   [1 mark]
@@ -192,6 +264,31 @@ Q5 (a)
 Step -3
 [2 marks]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Work Done in Each Process
+
+1. Process 1-2 (Isothermal Expansion)
+
+Vo
+W 1-2 = P\Vi In| =
+1-2 vin (7?)
+
+W\-2 = 500 x 0.1 x In (7)
+0.1
+
+W_2 = 54.93 kJ
+
+2. Process 2-3 (Ilsobaric Compression)
+Wo_3 = Po(V3 — Vo)
+Wo_3 = 500 x (0.1 — 0.3)
+Wo_3 = —100.00 kJ
+
+3. Process 3-1 (Isochoric Heating)
+
+Since volume remains constant, no work is done:
+
+W3-1 = OkJ
 --- page 5 ---
 Q5 (b) Definition of thermal efficiency   [2 marks]
 Apply it to second law of thermodynamics and proof   [4 marks]

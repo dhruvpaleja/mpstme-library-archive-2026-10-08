@@ -794,6 +794,29 @@ Instructions:
 7. Figures in brackets on the right hand side indicate full marks.
 8. Assume Suitable data if necessary.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Qi.
+
+Answer the following:
+a. | Summary of the Guru-Sisya parampara, (SM)
+b. | Brief explanation of the concept of iconography. — 5M
+c. | Brief comment about the statement, "Ancient Indians had a rich heritage of
+maritime trade".—5M
+d. | Diagrammatic representation of any one yantra used by ancient Indians in the
+context of metal working - 5M
+Q2.
+a. | Brief description of the four limbs - Yajamana (Host), Sthapatya (Architecture),
+Shilpin (Technician), and Bhumi (Land). — 10M
+b. | Summary of the role of Sanskrit in natural language processing. — 10M
+Q3.
+
+a. | Explanation of the architectural features of the south Indian temples to highlight
+their reflection of India’s cultural and spiritual heritage? — 10M
+
+b. | Summary of the four limbs of Vastu-Sastra - Vastospati Puja (Offerings),
+Padavinyasa (Site layout), Vastu (Materials), | Alankarana (Renovations and
+Decorations). — 10M
 --- page 2 ---
 Q4.
 
@@ -1612,6 +1635,29 @@ Instructions:
 7. Figures in brackets on the right hand side indicate full marks.
 8. Assume Suitable data if necessary.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Qi.
+
+Outline of the importance of IKS-—5M
+
+Summary of the marvellous stone architecture for eternity, found in the temples
+of India— 5M
+
+Brief comment on the statement, "Susruta is the father of surgery" —-5M
+
+Diagram of any one yantra used by ancient Indians in the context of metalworking
+-—5M
+
+Q2.
+Description about Vastu-Sastra-The Science of Architecture — 10M
+Explanation of the role of Sanskrit in natural language processing — 10M
+Q3.
+
+Description of study of physical structures help you understand the technological
+and engineering advancements of ancient India — 10M
+
+Summary of the eight limbs of Vastu. Briefly mention of each —- 10M
 --- page 2 ---
 Q4.
 

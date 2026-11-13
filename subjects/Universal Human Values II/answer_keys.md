@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_AI_7012/Universal Human Values-II/ANS_Universal Human Values-II(702BS0I022)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (9 pages), mean OCR confidence 94.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -54,6 +55,16 @@ CO-   c Identify trust as a human value with an example.   [4M
 2;   ]
 SO-
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Activities of recognizing and fulfilling in the body: Apart from the activities of Breathing,
+Heartbeat, Digestion etc., the activities of the body can also be understood as recognition and
+fulfilment. In fact, the mutual interaction between any two material entities can be understood as
+recognition and fulfilment of their relationship. For example when we are thirsty and drink water,
+the body absorbs the water to the extent needed and uses for the nourishment of the various organs.
+Here, body recognizes its relation with water and fulfils it.
+
+Recognizing Fulfilling
 --- page 2 ---
 5 ;BL
 -3
@@ -96,6 +107,20 @@ CO-1 ;   "Process of self-exploration leads to realization and understanding." E
 SO-   Self exploration is the process to find out what is valuable to me by investigating within   M]
 myself, what is right for me, true for me, has to be judged within myself. Through self
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+integrity and consistency in relationships. To keep the trust on ourself and others, we have to pay attention on
+the intensions and to understand if we or the other person is not able to do benefit, it is because we are lacking
+competence. Trust is the result of right understanding of the intention of all the human beings around us. This
+trust helps to improve our competence in others and in ourselves.
+
+1. At the level of the individual - Transition towards happiness and prosperity will take place at the
+individual level. It will instil self confidence, spontaneous joyfulness, peace, contentment and bliss in
+the self, and also perseverance, bravery and generosity in living of the individual.
+
+2. At the level of the family - Mutual fulfilment in relationships, prosperity in the family, sustenance of
+joint families, family as the building block of societal order in place of law enforcing bodies, respect for
+all without differentiation on the basis of age, gender, caste, race, money, post, creed, etc.
 --- page 3 ---
 5 ;BL-   exploration we get the value of ourself. The process of self exploration is a follows: First of all
 5   we have to keep in mind that, Whatever is being presented is a PROPOSAL. • Don't assume it
@@ -163,6 +188,35 @@ Example 4 M
 Q4   [20
 M]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Self (1) Body (instrument)
+
+INFORMATION
+
+Consciousness instruction >
+
+Needs: Continuous Happiness
+
+Material
+
+Needs: Physical Facility
+
+Needs & activities are continuous in time Needs & activities are temporary
+Self-regulation | (> | Health
+
+Feeling of responsibility toward the body — for 1. Body acts according to i}
+Nurturing, Protection and Right Utilization of 2. Parts of the body are in harmony
+the Body (in order)
+
+Food... ace Shelter... Instruments...
+Required Required Required ina
+inalimited. ina limited limited quantity
+quantity quantity
+|_| Physical Facility for nurturing, protection and right utilisation of the Body 3]
+ie i is required in a limited quantity... ‘
+
+~ fiwe can see that, then we can understand the meaning of prosperity
 --- page 5 ---
 CO-3;   a Interpret interconnectedness and mutual fulfilment between the four orders of nature.   [10
 SO5;B   M]
@@ -185,6 +239,68 @@ CO-   a Explain the importance of ‘care' & 'respect' in human relationship wit
 4;BL-2
 M]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Relationship of Mutual Fulfillment Udy Uxndl aI as
+
+Physical Order, Bio Order and Animal Order are enriching for Human
+Order, but Human Order (without right understanding) is not fulfilling
+for any of the 4 orders
+
+Human beings have
+Bio Order
+natural acceptance Plants, Trees
+
+to be mutually na bal
+
+Physical
+Order
+Soil, Metal
+
+Animal Order
+Animals, Birds
+ha sree
+wy =i
+
+Human Order
+Human Being
+
+aM aae
+wa
+
+Once human beings understand,
+
+they can be fulfilling for all four orders
+
+cs
+
+Material Order and Plant/Bio-Order: The material order provides the nutrients to the plant/bio order
+in the form of soil, minerals, etc while the plant/ bio order decays and forms more nutrients, thus
+enriching the soil. The plant/bio order also decays to substances like oil and coal, which are stored
+deep within the earth as protection against the heat from the molten core inside the earth as well as
+the heat from the sun (today, this is the material we are removing and using as fuel). Plants help
+move the nutrients through the various layers of the soil. The roots of the plants hold the soil
+together and prevent the soil from erosion. Plants produce oxygen/ carbon dioxide and thus help in
+the movement of the material order. There is a mutual interdependency and co-existence we can see
+here.
+
+Material Order, Plant/Bio- Order and Animal Order: The material order provides the basis for
+movement of all animals, birds and fishes. Water, oxygen and other gases are necessities for both
+plants and
+
+animals. At the same time, the animal order helps enrich the soil with its excreta and this excreta
+helps the plants with nutrients. The plant/bio order provides food for animals, birds and fishes. The
+animal Order helps in pollination of the flowers of the pranic order.
+
+Material Order, Plant/Bio- Order, Animal Order and Human Order: We humans also have a natural
+acceptance to be mutually fulfilling to these three orders. However, we are not able to ensure
+this mutual fulfilment. We are dependent on the material order for soil and minerals and metals,
+but only end up polluting the soil and depleting the fossil fuels; we are dependent on plants for our
+food and holding together the larger ecosystem, but we have destroyed forests and destroyed
+multiple species of plants and herbs; we are dependent on animals to carry out our production and
+transportation activities, but have made many species of animals extinct, and are today known for
+our cruelty towards animals. We can see that there is interconnectedness and mutual fulfilment in
+all the orders of nature except human order. We have to work on this.
 --- page 6 ---
 5M
 Examples 5M
@@ -224,6 +340,26 @@ of the body.
 – Ausadhi – Chikitsa (Medicine – Treatment) 6 M,
 – Example 4 M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Love is called_the complete value since this is_the feeling of relatedness to all human beings. It is the
+emotion of strong affection and personal attachment. In other words, love is a feeling of warm personal
+attachment or deep affection, as for a parent, child, or friend. It starts with identifying that one is related to the
+other human being (the feeling of affection) and it slowly expands to the feeling of being related to all human
+beings.
+
+The word love can refer to a variety of different feelings, states, and attitudes, ranging from generic
+pleasure ("I loved that meal") to intense interpersonal attraction ("I love my wife"). "Love" can also refer
+specifically to the passionate desire and intimacy of romantic love, to the sexual love of Eros (cf. Greek
+words for love), to the emotional closeness of familial love, or to the platonic love that defines friendship, to
+the profound oneness or devotion of religious love. This diversity of uses and meanings, combined with the
+complexity of the feelings involved, makes love unusually difficult to consistently define, even compared to
+other emotional states.
+
+This feeling or value is also called the complete value since this is the feeling of relatedness to all
+human beings. It starts with identifying that one is related to the other human being (the feeling of affection)
+and it slowly expands to the feeling of being related to all human beings. The feeling of love leads to an
+undivided society, it starts from a family and slowly expands to the world family in the form of love.
 --- page 7 ---
 CO- 3; b Analyze the role of CEO as a ethical leadership for organizational growth.
 SO-   [10
@@ -247,6 +383,47 @@ L-2
 5M
 Any 5 Repercussions if not accomplished 5M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate
+of all the mutually interacting units - big or small, sentient or insentient together can be called nature. These
+units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation
+among all these units.
+
+The law of nature has a unique cause and effect system which must be understood in order to be in
+harmony with the natural law of things. Natural harmony is necessary for the following reasons:
+1. Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable
+natural resource can be avoided.
+2. Natural harmony with trees cure all problems like - reduction of wind velocity, energy savings, doing
+companion planting, development of an eco-subsystem in terms of establishing a forest garden, reduction of
+building heat.
+3. Itis possible to achieve natural harmony in the establishment, maintenance and management of educational
+institution like schools, colleges and universities.
+4. One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon
+the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at
+the material plane.
+5. To create harmony in nature, first of all we have to work in the direction of development of mankind from
+animal consciousness to human consciousness. And this entails working for the right understanding.
+
+Ans. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate
+of all the mutually interacting units - big or small, sentient or insentient together can be called nature. These
+units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation
+among all these units.
+
+The law of nature has a unique cause and effect system which must be understood in order to be in
+harmony with the natural law of things. Natural harmony is necessary for the following reasons:
+1. Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable
+natural resource can be avoided.
+2. Natural harmony with trees cure all problems like - reduction of wind velocity, energy savings, doing
+companion planting, development of an eco-subsystem in terms of establishing a forest garden, reduction of
+building heat.
+3. Itis possible to achieve natural harmony in the establishment, maintenance and management of educational
+institution like schools, colleges and universities.
+4. One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon
+the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at
+the material plane.
+5. To create harmony in nature, first of all we have to work in the direction of development of mankind from
+animal consciousness to human consciousness. And this entails working for the right understanding.
 --- page 8 ---
 Q7   [20
 M]
@@ -258,6 +435,39 @@ CO-   b Demonstrate the impact of unethical behaviour on professional as well as
 3;SO-   M]
 5;BL-2
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Normally we tend to believe that the body is an instrument for sensory enjoyment, which is not correct.
+We also happen to our body to exploit other human beings or rest of the nature, which is also not right
+utilization. Body is the instrument of the self and the_body needs to be given nutrition, protection and utilized
+to work as an efficient and effective tool for the right purpose. This utilization is termed as right utilization. In
+other words, employing our body as an instrument for sensory enjoyment, and to exploit other human beings
+or rest of the nature is not the right utilization. On the contrary utilizing our body for right behaviour and work
+is actually the right utilization of thebody.
+
+Self (1) Biady
+Consciousness INFORMATION Material
+
+{Sse
+
+lam My body is
+
+| want to live : - | My body is used as an instrument
+
+| want to live with continuous Physical facility is required for
+
+happiness . nurturing, protection and right
+utilization of the body
+
+To understand and to live in harmony Production, protection and right
+
+at all levels of being (from self to utilization of physical faciiity is a part
+
+entire existence) is my program of of my program (<1/4")
+
+action for continuous happiness
+
+lam the: : | use the body as an instrument for
 --- page 9 ---
 Ans. The unethical practices are rapidly increasing and their impact is also becoming far-reaching.
 Corruption in multifarious manifestations is afflicting all the professions like a virus. Similarly, other
@@ -298,6 +508,7 @@ FIC QF OH ar
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Civil_7005/Universal Human Values-II/ANS_Universal Human Values-II(702BS0I022)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (9 pages), mean OCR confidence 94.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -343,6 +554,16 @@ CO-   c Identify trust as a human value with an example.   [4M
 2;   ]
 SO-
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Activities of recognizing and fulfilling in the body: Apart from the activities of Breathing,
+Heartbeat, Digestion etc., the activities of the body can also be understood as recognition and
+fulfilment. In fact, the mutual interaction between any two material entities can be understood as
+recognition and fulfilment of their relationship. For example when we are thirsty and drink water,
+the body absorbs the water to the extent needed and uses for the nourishment of the various organs.
+Here, body recognizes its relation with water and fulfils it.
+
+Recognizing Fulfilling
 --- page 2 ---
 5 ;BL
 -3
@@ -385,6 +606,20 @@ CO-1 ;   "Process of self-exploration leads to realization and understanding." E
 SO-   Self exploration is the process to find out what is valuable to me by investigating within   M]
 myself, what is right for me, true for me, has to be judged within myself. Through self
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+integrity and consistency in relationships. To keep the trust on ourself and others, we have to pay attention on
+the intensions and to understand if we or the other person is not able to do benefit, it is because we are lacking
+competence. Trust is the result of right understanding of the intention of all the human beings around us. This
+trust helps to improve our competence in others and in ourselves.
+
+1. At the level of the individual - Transition towards happiness and prosperity will take place at the
+individual level. It will instil self confidence, spontaneous joyfulness, peace, contentment and bliss in
+the self, and also perseverance, bravery and generosity in living of the individual.
+
+2. At the level of the family - Mutual fulfilment in relationships, prosperity in the family, sustenance of
+joint families, family as the building block of societal order in place of law enforcing bodies, respect for
+all without differentiation on the basis of age, gender, caste, race, money, post, creed, etc.
 --- page 3 ---
 5 ;BL-   exploration we get the value of ourself. The process of self exploration is a follows: First of all
 5   we have to keep in mind that, Whatever is being presented is a PROPOSAL. • Don't assume it
@@ -452,6 +687,35 @@ Example 4 M
 Q4   [20
 M]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Self (1) Body (instrument)
+
+INFORMATION
+
+Consciousness instruction >
+
+Needs: Continuous Happiness
+
+Material
+
+Needs: Physical Facility
+
+Needs & activities are continuous in time Needs & activities are temporary
+Self-regulation | (> | Health
+
+Feeling of responsibility toward the body — for 1. Body acts according to i}
+Nurturing, Protection and Right Utilization of 2. Parts of the body are in harmony
+the Body (in order)
+
+Food... ace Shelter... Instruments...
+Required Required Required ina
+inalimited. ina limited limited quantity
+quantity quantity
+|_| Physical Facility for nurturing, protection and right utilisation of the Body 3]
+ie i is required in a limited quantity... ‘
+
+~ fiwe can see that, then we can understand the meaning of prosperity
 --- page 5 ---
 CO-3;   a Interpret interconnectedness and mutual fulfilment between the four orders of nature.   [10
 SO5;B   M]
@@ -474,6 +738,68 @@ CO-   a Explain the importance of ‘care' & 'respect' in human relationship wit
 4;BL-2
 M]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Relationship of Mutual Fulfillment Udy Uxndl aI as
+
+Physical Order, Bio Order and Animal Order are enriching for Human
+Order, but Human Order (without right understanding) is not fulfilling
+for any of the 4 orders
+
+Human beings have
+Bio Order
+natural acceptance Plants, Trees
+
+to be mutually na bal
+
+Physical
+Order
+Soil, Metal
+
+Animal Order
+Animals, Birds
+ha sree
+wy =i
+
+Human Order
+Human Being
+
+aM aae
+wa
+
+Once human beings understand,
+
+they can be fulfilling for all four orders
+
+cs
+
+Material Order and Plant/Bio-Order: The material order provides the nutrients to the plant/bio order
+in the form of soil, minerals, etc while the plant/ bio order decays and forms more nutrients, thus
+enriching the soil. The plant/bio order also decays to substances like oil and coal, which are stored
+deep within the earth as protection against the heat from the molten core inside the earth as well as
+the heat from the sun (today, this is the material we are removing and using as fuel). Plants help
+move the nutrients through the various layers of the soil. The roots of the plants hold the soil
+together and prevent the soil from erosion. Plants produce oxygen/ carbon dioxide and thus help in
+the movement of the material order. There is a mutual interdependency and co-existence we can see
+here.
+
+Material Order, Plant/Bio- Order and Animal Order: The material order provides the basis for
+movement of all animals, birds and fishes. Water, oxygen and other gases are necessities for both
+plants and
+
+animals. At the same time, the animal order helps enrich the soil with its excreta and this excreta
+helps the plants with nutrients. The plant/bio order provides food for animals, birds and fishes. The
+animal Order helps in pollination of the flowers of the pranic order.
+
+Material Order, Plant/Bio- Order, Animal Order and Human Order: We humans also have a natural
+acceptance to be mutually fulfilling to these three orders. However, we are not able to ensure
+this mutual fulfilment. We are dependent on the material order for soil and minerals and metals,
+but only end up polluting the soil and depleting the fossil fuels; we are dependent on plants for our
+food and holding together the larger ecosystem, but we have destroyed forests and destroyed
+multiple species of plants and herbs; we are dependent on animals to carry out our production and
+transportation activities, but have made many species of animals extinct, and are today known for
+our cruelty towards animals. We can see that there is interconnectedness and mutual fulfilment in
+all the orders of nature except human order. We have to work on this.
 --- page 6 ---
 5M
 Examples 5M
@@ -513,6 +839,26 @@ of the body.
 – Ausadhi – Chikitsa (Medicine – Treatment) 6 M,
 – Example 4 M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Love is called_the complete value since this is_the feeling of relatedness to all human beings. It is the
+emotion of strong affection and personal attachment. In other words, love is a feeling of warm personal
+attachment or deep affection, as for a parent, child, or friend. It starts with identifying that one is related to the
+other human being (the feeling of affection) and it slowly expands to the feeling of being related to all human
+beings.
+
+The word love can refer to a variety of different feelings, states, and attitudes, ranging from generic
+pleasure ("I loved that meal") to intense interpersonal attraction ("I love my wife"). "Love" can also refer
+specifically to the passionate desire and intimacy of romantic love, to the sexual love of Eros (cf. Greek
+words for love), to the emotional closeness of familial love, or to the platonic love that defines friendship, to
+the profound oneness or devotion of religious love. This diversity of uses and meanings, combined with the
+complexity of the feelings involved, makes love unusually difficult to consistently define, even compared to
+other emotional states.
+
+This feeling or value is also called the complete value since this is the feeling of relatedness to all
+human beings. It starts with identifying that one is related to the other human being (the feeling of affection)
+and it slowly expands to the feeling of being related to all human beings. The feeling of love leads to an
+undivided society, it starts from a family and slowly expands to the world family in the form of love.
 --- page 7 ---
 CO- 3; b Analyze the role of CEO as a ethical leadership for organizational growth.
 SO-   [10
@@ -536,6 +882,47 @@ L-2
 5M
 Any 5 Repercussions if not accomplished 5M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate
+of all the mutually interacting units - big or small, sentient or insentient together can be called nature. These
+units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation
+among all these units.
+
+The law of nature has a unique cause and effect system which must be understood in order to be in
+harmony with the natural law of things. Natural harmony is necessary for the following reasons:
+1. Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable
+natural resource can be avoided.
+2. Natural harmony with trees cure all problems like - reduction of wind velocity, energy savings, doing
+companion planting, development of an eco-subsystem in terms of establishing a forest garden, reduction of
+building heat.
+3. Itis possible to achieve natural harmony in the establishment, maintenance and management of educational
+institution like schools, colleges and universities.
+4. One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon
+the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at
+the material plane.
+5. To create harmony in nature, first of all we have to work in the direction of development of mankind from
+animal consciousness to human consciousness. And this entails working for the right understanding.
+
+Ans. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate
+of all the mutually interacting units - big or small, sentient or insentient together can be called nature. These
+units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation
+among all these units.
+
+The law of nature has a unique cause and effect system which must be understood in order to be in
+harmony with the natural law of things. Natural harmony is necessary for the following reasons:
+1. Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable
+natural resource can be avoided.
+2. Natural harmony with trees cure all problems like - reduction of wind velocity, energy savings, doing
+companion planting, development of an eco-subsystem in terms of establishing a forest garden, reduction of
+building heat.
+3. Itis possible to achieve natural harmony in the establishment, maintenance and management of educational
+institution like schools, colleges and universities.
+4. One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon
+the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at
+the material plane.
+5. To create harmony in nature, first of all we have to work in the direction of development of mankind from
+animal consciousness to human consciousness. And this entails working for the right understanding.
 --- page 8 ---
 Q7   [20
 M]
@@ -547,6 +934,39 @@ CO-   b Demonstrate the impact of unethical behaviour on professional as well as
 3;SO-   M]
 5;BL-2
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Normally we tend to believe that the body is an instrument for sensory enjoyment, which is not correct.
+We also happen to our body to exploit other human beings or rest of the nature, which is also not right
+utilization. Body is the instrument of the self and the_body needs to be given nutrition, protection and utilized
+to work as an efficient and effective tool for the right purpose. This utilization is termed as right utilization. In
+other words, employing our body as an instrument for sensory enjoyment, and to exploit other human beings
+or rest of the nature is not the right utilization. On the contrary utilizing our body for right behaviour and work
+is actually the right utilization of thebody.
+
+Self (1) Biady
+Consciousness INFORMATION Material
+
+{Sse
+
+lam My body is
+
+| want to live : - | My body is used as an instrument
+
+| want to live with continuous Physical facility is required for
+
+happiness . nurturing, protection and right
+utilization of the body
+
+To understand and to live in harmony Production, protection and right
+
+at all levels of being (from self to utilization of physical faciiity is a part
+
+entire existence) is my program of of my program (<1/4")
+
+action for continuous happiness
+
+lam the: : | use the body as an instrument for
 --- page 9 ---
 Ans. The unethical practices are rapidly increasing and their impact is also becoming far-reaching.
 Corruption in multifarious manifestations is afflicting all the professions like a virus. Similarly, other
@@ -587,6 +1007,7 @@ FIC QF OH ar
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Computer_7002/Universal Human Values-II/ANS_Universal Human Values-II(702BS0I022)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (9 pages), mean OCR confidence 94.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -632,6 +1053,16 @@ CO-   c Identify trust as a human value with an example.   [4M
 2;   ]
 SO-
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Activities of recognizing and fulfilling in the body: Apart from the activities of Breathing,
+Heartbeat, Digestion etc., the activities of the body can also be understood as recognition and
+fulfilment. In fact, the mutual interaction between any two material entities can be understood as
+recognition and fulfilment of their relationship. For example when we are thirsty and drink water,
+the body absorbs the water to the extent needed and uses for the nourishment of the various organs.
+Here, body recognizes its relation with water and fulfils it.
+
+Recognizing Fulfilling
 --- page 2 ---
 5 ;BL
 -3
@@ -674,6 +1105,20 @@ CO-1 ;   "Process of self-exploration leads to realization and understanding." E
 SO-   Self exploration is the process to find out what is valuable to me by investigating within   M]
 myself, what is right for me, true for me, has to be judged within myself. Through self
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+integrity and consistency in relationships. To keep the trust on ourself and others, we have to pay attention on
+the intensions and to understand if we or the other person is not able to do benefit, it is because we are lacking
+competence. Trust is the result of right understanding of the intention of all the human beings around us. This
+trust helps to improve our competence in others and in ourselves.
+
+1. At the level of the individual - Transition towards happiness and prosperity will take place at the
+individual level. It will instil self confidence, spontaneous joyfulness, peace, contentment and bliss in
+the self, and also perseverance, bravery and generosity in living of the individual.
+
+2. At the level of the family - Mutual fulfilment in relationships, prosperity in the family, sustenance of
+joint families, family as the building block of societal order in place of law enforcing bodies, respect for
+all without differentiation on the basis of age, gender, caste, race, money, post, creed, etc.
 --- page 3 ---
 5 ;BL-   exploration we get the value of ourself. The process of self exploration is a follows: First of all
 5   we have to keep in mind that, Whatever is being presented is a PROPOSAL. • Don't assume it
@@ -741,6 +1186,35 @@ Example 4 M
 Q4   [20
 M]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Self (1) Body (instrument)
+
+INFORMATION
+
+Consciousness instruction >
+
+Needs: Continuous Happiness
+
+Material
+
+Needs: Physical Facility
+
+Needs & activities are continuous in time Needs & activities are temporary
+Self-regulation | (> | Health
+
+Feeling of responsibility toward the body — for 1. Body acts according to i}
+Nurturing, Protection and Right Utilization of 2. Parts of the body are in harmony
+the Body (in order)
+
+Food... ace Shelter... Instruments...
+Required Required Required ina
+inalimited. ina limited limited quantity
+quantity quantity
+|_| Physical Facility for nurturing, protection and right utilisation of the Body 3]
+ie i is required in a limited quantity... ‘
+
+~ fiwe can see that, then we can understand the meaning of prosperity
 --- page 5 ---
 CO-3;   a Interpret interconnectedness and mutual fulfilment between the four orders of nature.   [10
 SO5;B   M]
@@ -763,6 +1237,68 @@ CO-   a Explain the importance of ‘care' & 'respect' in human relationship wit
 4;BL-2
 M]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Relationship of Mutual Fulfillment Udy Uxndl aI as
+
+Physical Order, Bio Order and Animal Order are enriching for Human
+Order, but Human Order (without right understanding) is not fulfilling
+for any of the 4 orders
+
+Human beings have
+Bio Order
+natural acceptance Plants, Trees
+
+to be mutually na bal
+
+Physical
+Order
+Soil, Metal
+
+Animal Order
+Animals, Birds
+ha sree
+wy =i
+
+Human Order
+Human Being
+
+aM aae
+wa
+
+Once human beings understand,
+
+they can be fulfilling for all four orders
+
+cs
+
+Material Order and Plant/Bio-Order: The material order provides the nutrients to the plant/bio order
+in the form of soil, minerals, etc while the plant/ bio order decays and forms more nutrients, thus
+enriching the soil. The plant/bio order also decays to substances like oil and coal, which are stored
+deep within the earth as protection against the heat from the molten core inside the earth as well as
+the heat from the sun (today, this is the material we are removing and using as fuel). Plants help
+move the nutrients through the various layers of the soil. The roots of the plants hold the soil
+together and prevent the soil from erosion. Plants produce oxygen/ carbon dioxide and thus help in
+the movement of the material order. There is a mutual interdependency and co-existence we can see
+here.
+
+Material Order, Plant/Bio- Order and Animal Order: The material order provides the basis for
+movement of all animals, birds and fishes. Water, oxygen and other gases are necessities for both
+plants and
+
+animals. At the same time, the animal order helps enrich the soil with its excreta and this excreta
+helps the plants with nutrients. The plant/bio order provides food for animals, birds and fishes. The
+animal Order helps in pollination of the flowers of the pranic order.
+
+Material Order, Plant/Bio- Order, Animal Order and Human Order: We humans also have a natural
+acceptance to be mutually fulfilling to these three orders. However, we are not able to ensure
+this mutual fulfilment. We are dependent on the material order for soil and minerals and metals,
+but only end up polluting the soil and depleting the fossil fuels; we are dependent on plants for our
+food and holding together the larger ecosystem, but we have destroyed forests and destroyed
+multiple species of plants and herbs; we are dependent on animals to carry out our production and
+transportation activities, but have made many species of animals extinct, and are today known for
+our cruelty towards animals. We can see that there is interconnectedness and mutual fulfilment in
+all the orders of nature except human order. We have to work on this.
 --- page 6 ---
 5M
 Examples 5M
@@ -802,6 +1338,26 @@ of the body.
 – Ausadhi – Chikitsa (Medicine – Treatment) 6 M,
 – Example 4 M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Love is called_the complete value since this is_the feeling of relatedness to all human beings. It is the
+emotion of strong affection and personal attachment. In other words, love is a feeling of warm personal
+attachment or deep affection, as for a parent, child, or friend. It starts with identifying that one is related to the
+other human being (the feeling of affection) and it slowly expands to the feeling of being related to all human
+beings.
+
+The word love can refer to a variety of different feelings, states, and attitudes, ranging from generic
+pleasure ("I loved that meal") to intense interpersonal attraction ("I love my wife"). "Love" can also refer
+specifically to the passionate desire and intimacy of romantic love, to the sexual love of Eros (cf. Greek
+words for love), to the emotional closeness of familial love, or to the platonic love that defines friendship, to
+the profound oneness or devotion of religious love. This diversity of uses and meanings, combined with the
+complexity of the feelings involved, makes love unusually difficult to consistently define, even compared to
+other emotional states.
+
+This feeling or value is also called the complete value since this is the feeling of relatedness to all
+human beings. It starts with identifying that one is related to the other human being (the feeling of affection)
+and it slowly expands to the feeling of being related to all human beings. The feeling of love leads to an
+undivided society, it starts from a family and slowly expands to the world family in the form of love.
 --- page 7 ---
 CO- 3; b Analyze the role of CEO as a ethical leadership for organizational growth.
 SO-   [10
@@ -825,6 +1381,47 @@ L-2
 5M
 Any 5 Repercussions if not accomplished 5M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate
+of all the mutually interacting units - big or small, sentient or insentient together can be called nature. These
+units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation
+among all these units.
+
+The law of nature has a unique cause and effect system which must be understood in order to be in
+harmony with the natural law of things. Natural harmony is necessary for the following reasons:
+1. Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable
+natural resource can be avoided.
+2. Natural harmony with trees cure all problems like - reduction of wind velocity, energy savings, doing
+companion planting, development of an eco-subsystem in terms of establishing a forest garden, reduction of
+building heat.
+3. Itis possible to achieve natural harmony in the establishment, maintenance and management of educational
+institution like schools, colleges and universities.
+4. One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon
+the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at
+the material plane.
+5. To create harmony in nature, first of all we have to work in the direction of development of mankind from
+animal consciousness to human consciousness. And this entails working for the right understanding.
+
+Ans. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate
+of all the mutually interacting units - big or small, sentient or insentient together can be called nature. These
+units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation
+among all these units.
+
+The law of nature has a unique cause and effect system which must be understood in order to be in
+harmony with the natural law of things. Natural harmony is necessary for the following reasons:
+1. Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable
+natural resource can be avoided.
+2. Natural harmony with trees cure all problems like - reduction of wind velocity, energy savings, doing
+companion planting, development of an eco-subsystem in terms of establishing a forest garden, reduction of
+building heat.
+3. Itis possible to achieve natural harmony in the establishment, maintenance and management of educational
+institution like schools, colleges and universities.
+4. One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon
+the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at
+the material plane.
+5. To create harmony in nature, first of all we have to work in the direction of development of mankind from
+animal consciousness to human consciousness. And this entails working for the right understanding.
 --- page 8 ---
 Q7   [20
 M]
@@ -836,6 +1433,39 @@ CO-   b Demonstrate the impact of unethical behaviour on professional as well as
 3;SO-   M]
 5;BL-2
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Normally we tend to believe that the body is an instrument for sensory enjoyment, which is not correct.
+We also happen to our body to exploit other human beings or rest of the nature, which is also not right
+utilization. Body is the instrument of the self and the_body needs to be given nutrition, protection and utilized
+to work as an efficient and effective tool for the right purpose. This utilization is termed as right utilization. In
+other words, employing our body as an instrument for sensory enjoyment, and to exploit other human beings
+or rest of the nature is not the right utilization. On the contrary utilizing our body for right behaviour and work
+is actually the right utilization of thebody.
+
+Self (1) Biady
+Consciousness INFORMATION Material
+
+{Sse
+
+lam My body is
+
+| want to live : - | My body is used as an instrument
+
+| want to live with continuous Physical facility is required for
+
+happiness . nurturing, protection and right
+utilization of the body
+
+To understand and to live in harmony Production, protection and right
+
+at all levels of being (from self to utilization of physical faciiity is a part
+
+entire existence) is my program of of my program (<1/4")
+
+action for continuous happiness
+
+lam the: : | use the body as an instrument for
 --- page 9 ---
 Ans. The unethical practices are rapidly increasing and their impact is also becoming far-reaching.
 Corruption in multifarious manifestations is afflicting all the professions like a virus. Similarly, other
@@ -876,6 +1506,7 @@ FIC QF OH ar
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CyberSecurity_7010/Universal Human Values-II/ANS_Universal Human Values-II(702BS0I022)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (9 pages), mean OCR confidence 94.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -921,6 +1552,16 @@ CO-   c Identify trust as a human value with an example.   [4M
 2;   ]
 SO-
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Activities of recognizing and fulfilling in the body: Apart from the activities of Breathing,
+Heartbeat, Digestion etc., the activities of the body can also be understood as recognition and
+fulfilment. In fact, the mutual interaction between any two material entities can be understood as
+recognition and fulfilment of their relationship. For example when we are thirsty and drink water,
+the body absorbs the water to the extent needed and uses for the nourishment of the various organs.
+Here, body recognizes its relation with water and fulfils it.
+
+Recognizing Fulfilling
 --- page 2 ---
 5 ;BL
 -3
@@ -963,6 +1604,20 @@ CO-1 ;   "Process of self-exploration leads to realization and understanding." E
 SO-   Self exploration is the process to find out what is valuable to me by investigating within   M]
 myself, what is right for me, true for me, has to be judged within myself. Through self
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+integrity and consistency in relationships. To keep the trust on ourself and others, we have to pay attention on
+the intensions and to understand if we or the other person is not able to do benefit, it is because we are lacking
+competence. Trust is the result of right understanding of the intention of all the human beings around us. This
+trust helps to improve our competence in others and in ourselves.
+
+1. At the level of the individual - Transition towards happiness and prosperity will take place at the
+individual level. It will instil self confidence, spontaneous joyfulness, peace, contentment and bliss in
+the self, and also perseverance, bravery and generosity in living of the individual.
+
+2. At the level of the family - Mutual fulfilment in relationships, prosperity in the family, sustenance of
+joint families, family as the building block of societal order in place of law enforcing bodies, respect for
+all without differentiation on the basis of age, gender, caste, race, money, post, creed, etc.
 --- page 3 ---
 5 ;BL-   exploration we get the value of ourself. The process of self exploration is a follows: First of all
 5   we have to keep in mind that, Whatever is being presented is a PROPOSAL. • Don't assume it
@@ -1030,6 +1685,35 @@ Example 4 M
 Q4   [20
 M]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Self (1) Body (instrument)
+
+INFORMATION
+
+Consciousness instruction >
+
+Needs: Continuous Happiness
+
+Material
+
+Needs: Physical Facility
+
+Needs & activities are continuous in time Needs & activities are temporary
+Self-regulation | (> | Health
+
+Feeling of responsibility toward the body — for 1. Body acts according to i}
+Nurturing, Protection and Right Utilization of 2. Parts of the body are in harmony
+the Body (in order)
+
+Food... ace Shelter... Instruments...
+Required Required Required ina
+inalimited. ina limited limited quantity
+quantity quantity
+|_| Physical Facility for nurturing, protection and right utilisation of the Body 3]
+ie i is required in a limited quantity... ‘
+
+~ fiwe can see that, then we can understand the meaning of prosperity
 --- page 5 ---
 CO-3;   a Interpret interconnectedness and mutual fulfilment between the four orders of nature.   [10
 SO5;B   M]
@@ -1052,6 +1736,68 @@ CO-   a Explain the importance of ‘care' & 'respect' in human relationship wit
 4;BL-2
 M]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Relationship of Mutual Fulfillment Udy Uxndl aI as
+
+Physical Order, Bio Order and Animal Order are enriching for Human
+Order, but Human Order (without right understanding) is not fulfilling
+for any of the 4 orders
+
+Human beings have
+Bio Order
+natural acceptance Plants, Trees
+
+to be mutually na bal
+
+Physical
+Order
+Soil, Metal
+
+Animal Order
+Animals, Birds
+ha sree
+wy =i
+
+Human Order
+Human Being
+
+aM aae
+wa
+
+Once human beings understand,
+
+they can be fulfilling for all four orders
+
+cs
+
+Material Order and Plant/Bio-Order: The material order provides the nutrients to the plant/bio order
+in the form of soil, minerals, etc while the plant/ bio order decays and forms more nutrients, thus
+enriching the soil. The plant/bio order also decays to substances like oil and coal, which are stored
+deep within the earth as protection against the heat from the molten core inside the earth as well as
+the heat from the sun (today, this is the material we are removing and using as fuel). Plants help
+move the nutrients through the various layers of the soil. The roots of the plants hold the soil
+together and prevent the soil from erosion. Plants produce oxygen/ carbon dioxide and thus help in
+the movement of the material order. There is a mutual interdependency and co-existence we can see
+here.
+
+Material Order, Plant/Bio- Order and Animal Order: The material order provides the basis for
+movement of all animals, birds and fishes. Water, oxygen and other gases are necessities for both
+plants and
+
+animals. At the same time, the animal order helps enrich the soil with its excreta and this excreta
+helps the plants with nutrients. The plant/bio order provides food for animals, birds and fishes. The
+animal Order helps in pollination of the flowers of the pranic order.
+
+Material Order, Plant/Bio- Order, Animal Order and Human Order: We humans also have a natural
+acceptance to be mutually fulfilling to these three orders. However, we are not able to ensure
+this mutual fulfilment. We are dependent on the material order for soil and minerals and metals,
+but only end up polluting the soil and depleting the fossil fuels; we are dependent on plants for our
+food and holding together the larger ecosystem, but we have destroyed forests and destroyed
+multiple species of plants and herbs; we are dependent on animals to carry out our production and
+transportation activities, but have made many species of animals extinct, and are today known for
+our cruelty towards animals. We can see that there is interconnectedness and mutual fulfilment in
+all the orders of nature except human order. We have to work on this.
 --- page 6 ---
 5M
 Examples 5M
@@ -1091,6 +1837,26 @@ of the body.
 – Ausadhi – Chikitsa (Medicine – Treatment) 6 M,
 – Example 4 M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Love is called_the complete value since this is_the feeling of relatedness to all human beings. It is the
+emotion of strong affection and personal attachment. In other words, love is a feeling of warm personal
+attachment or deep affection, as for a parent, child, or friend. It starts with identifying that one is related to the
+other human being (the feeling of affection) and it slowly expands to the feeling of being related to all human
+beings.
+
+The word love can refer to a variety of different feelings, states, and attitudes, ranging from generic
+pleasure ("I loved that meal") to intense interpersonal attraction ("I love my wife"). "Love" can also refer
+specifically to the passionate desire and intimacy of romantic love, to the sexual love of Eros (cf. Greek
+words for love), to the emotional closeness of familial love, or to the platonic love that defines friendship, to
+the profound oneness or devotion of religious love. This diversity of uses and meanings, combined with the
+complexity of the feelings involved, makes love unusually difficult to consistently define, even compared to
+other emotional states.
+
+This feeling or value is also called the complete value since this is the feeling of relatedness to all
+human beings. It starts with identifying that one is related to the other human being (the feeling of affection)
+and it slowly expands to the feeling of being related to all human beings. The feeling of love leads to an
+undivided society, it starts from a family and slowly expands to the world family in the form of love.
 --- page 7 ---
 CO- 3; b Analyze the role of CEO as a ethical leadership for organizational growth.
 SO-   [10
@@ -1114,6 +1880,47 @@ L-2
 5M
 Any 5 Repercussions if not accomplished 5M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate
+of all the mutually interacting units - big or small, sentient or insentient together can be called nature. These
+units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation
+among all these units.
+
+The law of nature has a unique cause and effect system which must be understood in order to be in
+harmony with the natural law of things. Natural harmony is necessary for the following reasons:
+1. Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable
+natural resource can be avoided.
+2. Natural harmony with trees cure all problems like - reduction of wind velocity, energy savings, doing
+companion planting, development of an eco-subsystem in terms of establishing a forest garden, reduction of
+building heat.
+3. Itis possible to achieve natural harmony in the establishment, maintenance and management of educational
+institution like schools, colleges and universities.
+4. One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon
+the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at
+the material plane.
+5. To create harmony in nature, first of all we have to work in the direction of development of mankind from
+animal consciousness to human consciousness. And this entails working for the right understanding.
+
+Ans. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate
+of all the mutually interacting units - big or small, sentient or insentient together can be called nature. These
+units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation
+among all these units.
+
+The law of nature has a unique cause and effect system which must be understood in order to be in
+harmony with the natural law of things. Natural harmony is necessary for the following reasons:
+1. Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable
+natural resource can be avoided.
+2. Natural harmony with trees cure all problems like - reduction of wind velocity, energy savings, doing
+companion planting, development of an eco-subsystem in terms of establishing a forest garden, reduction of
+building heat.
+3. Itis possible to achieve natural harmony in the establishment, maintenance and management of educational
+institution like schools, colleges and universities.
+4. One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon
+the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at
+the material plane.
+5. To create harmony in nature, first of all we have to work in the direction of development of mankind from
+animal consciousness to human consciousness. And this entails working for the right understanding.
 --- page 8 ---
 Q7   [20
 M]
@@ -1125,6 +1932,39 @@ CO-   b Demonstrate the impact of unethical behaviour on professional as well as
 3;SO-   M]
 5;BL-2
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Normally we tend to believe that the body is an instrument for sensory enjoyment, which is not correct.
+We also happen to our body to exploit other human beings or rest of the nature, which is also not right
+utilization. Body is the instrument of the self and the_body needs to be given nutrition, protection and utilized
+to work as an efficient and effective tool for the right purpose. This utilization is termed as right utilization. In
+other words, employing our body as an instrument for sensory enjoyment, and to exploit other human beings
+or rest of the nature is not the right utilization. On the contrary utilizing our body for right behaviour and work
+is actually the right utilization of thebody.
+
+Self (1) Biady
+Consciousness INFORMATION Material
+
+{Sse
+
+lam My body is
+
+| want to live : - | My body is used as an instrument
+
+| want to live with continuous Physical facility is required for
+
+happiness . nurturing, protection and right
+utilization of the body
+
+To understand and to live in harmony Production, protection and right
+
+at all levels of being (from self to utilization of physical faciiity is a part
+
+entire existence) is my program of of my program (<1/4")
+
+action for continuous happiness
+
+lam the: : | use the body as an instrument for
 --- page 9 ---
 Ans. The unethical practices are rapidly increasing and their impact is also becoming far-reaching.
 Corruption in multifarious manifestations is afflicting all the professions like a virus. Similarly, other
@@ -1165,6 +2005,7 @@ FIC QF OH ar
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_DS_7009/Universal Human Values-II/ANS_Universal Human Values-II(702BS0I022)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (9 pages), mean OCR confidence 94.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1210,6 +2051,16 @@ CO-   c Identify trust as a human value with an example.   [4M
 2;   ]
 SO-
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Activities of recognizing and fulfilling in the body: Apart from the activities of Breathing,
+Heartbeat, Digestion etc., the activities of the body can also be understood as recognition and
+fulfilment. In fact, the mutual interaction between any two material entities can be understood as
+recognition and fulfilment of their relationship. For example when we are thirsty and drink water,
+the body absorbs the water to the extent needed and uses for the nourishment of the various organs.
+Here, body recognizes its relation with water and fulfils it.
+
+Recognizing Fulfilling
 --- page 2 ---
 5 ;BL
 -3
@@ -1252,6 +2103,20 @@ CO-1 ;   "Process of self-exploration leads to realization and understanding." E
 SO-   Self exploration is the process to find out what is valuable to me by investigating within   M]
 myself, what is right for me, true for me, has to be judged within myself. Through self
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+integrity and consistency in relationships. To keep the trust on ourself and others, we have to pay attention on
+the intensions and to understand if we or the other person is not able to do benefit, it is because we are lacking
+competence. Trust is the result of right understanding of the intention of all the human beings around us. This
+trust helps to improve our competence in others and in ourselves.
+
+1. At the level of the individual - Transition towards happiness and prosperity will take place at the
+individual level. It will instil self confidence, spontaneous joyfulness, peace, contentment and bliss in
+the self, and also perseverance, bravery and generosity in living of the individual.
+
+2. At the level of the family - Mutual fulfilment in relationships, prosperity in the family, sustenance of
+joint families, family as the building block of societal order in place of law enforcing bodies, respect for
+all without differentiation on the basis of age, gender, caste, race, money, post, creed, etc.
 --- page 3 ---
 5 ;BL-   exploration we get the value of ourself. The process of self exploration is a follows: First of all
 5   we have to keep in mind that, Whatever is being presented is a PROPOSAL. • Don't assume it
@@ -1319,6 +2184,35 @@ Example 4 M
 Q4   [20
 M]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Self (1) Body (instrument)
+
+INFORMATION
+
+Consciousness instruction >
+
+Needs: Continuous Happiness
+
+Material
+
+Needs: Physical Facility
+
+Needs & activities are continuous in time Needs & activities are temporary
+Self-regulation | (> | Health
+
+Feeling of responsibility toward the body — for 1. Body acts according to i}
+Nurturing, Protection and Right Utilization of 2. Parts of the body are in harmony
+the Body (in order)
+
+Food... ace Shelter... Instruments...
+Required Required Required ina
+inalimited. ina limited limited quantity
+quantity quantity
+|_| Physical Facility for nurturing, protection and right utilisation of the Body 3]
+ie i is required in a limited quantity... ‘
+
+~ fiwe can see that, then we can understand the meaning of prosperity
 --- page 5 ---
 CO-3;   a Interpret interconnectedness and mutual fulfilment between the four orders of nature.   [10
 SO5;B   M]
@@ -1341,6 +2235,68 @@ CO-   a Explain the importance of ‘care' & 'respect' in human relationship wit
 4;BL-2
 M]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Relationship of Mutual Fulfillment Udy Uxndl aI as
+
+Physical Order, Bio Order and Animal Order are enriching for Human
+Order, but Human Order (without right understanding) is not fulfilling
+for any of the 4 orders
+
+Human beings have
+Bio Order
+natural acceptance Plants, Trees
+
+to be mutually na bal
+
+Physical
+Order
+Soil, Metal
+
+Animal Order
+Animals, Birds
+ha sree
+wy =i
+
+Human Order
+Human Being
+
+aM aae
+wa
+
+Once human beings understand,
+
+they can be fulfilling for all four orders
+
+cs
+
+Material Order and Plant/Bio-Order: The material order provides the nutrients to the plant/bio order
+in the form of soil, minerals, etc while the plant/ bio order decays and forms more nutrients, thus
+enriching the soil. The plant/bio order also decays to substances like oil and coal, which are stored
+deep within the earth as protection against the heat from the molten core inside the earth as well as
+the heat from the sun (today, this is the material we are removing and using as fuel). Plants help
+move the nutrients through the various layers of the soil. The roots of the plants hold the soil
+together and prevent the soil from erosion. Plants produce oxygen/ carbon dioxide and thus help in
+the movement of the material order. There is a mutual interdependency and co-existence we can see
+here.
+
+Material Order, Plant/Bio- Order and Animal Order: The material order provides the basis for
+movement of all animals, birds and fishes. Water, oxygen and other gases are necessities for both
+plants and
+
+animals. At the same time, the animal order helps enrich the soil with its excreta and this excreta
+helps the plants with nutrients. The plant/bio order provides food for animals, birds and fishes. The
+animal Order helps in pollination of the flowers of the pranic order.
+
+Material Order, Plant/Bio- Order, Animal Order and Human Order: We humans also have a natural
+acceptance to be mutually fulfilling to these three orders. However, we are not able to ensure
+this mutual fulfilment. We are dependent on the material order for soil and minerals and metals,
+but only end up polluting the soil and depleting the fossil fuels; we are dependent on plants for our
+food and holding together the larger ecosystem, but we have destroyed forests and destroyed
+multiple species of plants and herbs; we are dependent on animals to carry out our production and
+transportation activities, but have made many species of animals extinct, and are today known for
+our cruelty towards animals. We can see that there is interconnectedness and mutual fulfilment in
+all the orders of nature except human order. We have to work on this.
 --- page 6 ---
 5M
 Examples 5M
@@ -1380,6 +2336,26 @@ of the body.
 – Ausadhi – Chikitsa (Medicine – Treatment) 6 M,
 – Example 4 M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Love is called_the complete value since this is_the feeling of relatedness to all human beings. It is the
+emotion of strong affection and personal attachment. In other words, love is a feeling of warm personal
+attachment or deep affection, as for a parent, child, or friend. It starts with identifying that one is related to the
+other human being (the feeling of affection) and it slowly expands to the feeling of being related to all human
+beings.
+
+The word love can refer to a variety of different feelings, states, and attitudes, ranging from generic
+pleasure ("I loved that meal") to intense interpersonal attraction ("I love my wife"). "Love" can also refer
+specifically to the passionate desire and intimacy of romantic love, to the sexual love of Eros (cf. Greek
+words for love), to the emotional closeness of familial love, or to the platonic love that defines friendship, to
+the profound oneness or devotion of religious love. This diversity of uses and meanings, combined with the
+complexity of the feelings involved, makes love unusually difficult to consistently define, even compared to
+other emotional states.
+
+This feeling or value is also called the complete value since this is the feeling of relatedness to all
+human beings. It starts with identifying that one is related to the other human being (the feeling of affection)
+and it slowly expands to the feeling of being related to all human beings. The feeling of love leads to an
+undivided society, it starts from a family and slowly expands to the world family in the form of love.
 --- page 7 ---
 CO- 3; b Analyze the role of CEO as a ethical leadership for organizational growth.
 SO-   [10
@@ -1403,6 +2379,47 @@ L-2
 5M
 Any 5 Repercussions if not accomplished 5M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate
+of all the mutually interacting units - big or small, sentient or insentient together can be called nature. These
+units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation
+among all these units.
+
+The law of nature has a unique cause and effect system which must be understood in order to be in
+harmony with the natural law of things. Natural harmony is necessary for the following reasons:
+1. Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable
+natural resource can be avoided.
+2. Natural harmony with trees cure all problems like - reduction of wind velocity, energy savings, doing
+companion planting, development of an eco-subsystem in terms of establishing a forest garden, reduction of
+building heat.
+3. Itis possible to achieve natural harmony in the establishment, maintenance and management of educational
+institution like schools, colleges and universities.
+4. One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon
+the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at
+the material plane.
+5. To create harmony in nature, first of all we have to work in the direction of development of mankind from
+animal consciousness to human consciousness. And this entails working for the right understanding.
+
+Ans. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate
+of all the mutually interacting units - big or small, sentient or insentient together can be called nature. These
+units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation
+among all these units.
+
+The law of nature has a unique cause and effect system which must be understood in order to be in
+harmony with the natural law of things. Natural harmony is necessary for the following reasons:
+1. Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable
+natural resource can be avoided.
+2. Natural harmony with trees cure all problems like - reduction of wind velocity, energy savings, doing
+companion planting, development of an eco-subsystem in terms of establishing a forest garden, reduction of
+building heat.
+3. Itis possible to achieve natural harmony in the establishment, maintenance and management of educational
+institution like schools, colleges and universities.
+4. One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon
+the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at
+the material plane.
+5. To create harmony in nature, first of all we have to work in the direction of development of mankind from
+animal consciousness to human consciousness. And this entails working for the right understanding.
 --- page 8 ---
 Q7   [20
 M]
@@ -1414,6 +2431,39 @@ CO-   b Demonstrate the impact of unethical behaviour on professional as well as
 3;SO-   M]
 5;BL-2
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Normally we tend to believe that the body is an instrument for sensory enjoyment, which is not correct.
+We also happen to our body to exploit other human beings or rest of the nature, which is also not right
+utilization. Body is the instrument of the self and the_body needs to be given nutrition, protection and utilized
+to work as an efficient and effective tool for the right purpose. This utilization is termed as right utilization. In
+other words, employing our body as an instrument for sensory enjoyment, and to exploit other human beings
+or rest of the nature is not the right utilization. On the contrary utilizing our body for right behaviour and work
+is actually the right utilization of thebody.
+
+Self (1) Biady
+Consciousness INFORMATION Material
+
+{Sse
+
+lam My body is
+
+| want to live : - | My body is used as an instrument
+
+| want to live with continuous Physical facility is required for
+
+happiness . nurturing, protection and right
+utilization of the body
+
+To understand and to live in harmony Production, protection and right
+
+at all levels of being (from self to utilization of physical faciiity is a part
+
+entire existence) is my program of of my program (<1/4")
+
+action for continuous happiness
+
+lam the: : | use the body as an instrument for
 --- page 9 ---
 Ans. The unethical practices are rapidly increasing and their impact is also becoming far-reaching.
 Corruption in multifarious manifestations is afflicting all the professions like a virus. Similarly, other
@@ -1454,6 +2504,7 @@ FIC QF OH ar
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_EXTC_7006/Universal Human Values-II/ANS_Universal Human Values-II(702BS0I022)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (9 pages), mean OCR confidence 94.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1499,6 +2550,16 @@ CO-   c Identify trust as a human value with an example.   [4M
 2;   ]
 SO-
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Activities of recognizing and fulfilling in the body: Apart from the activities of Breathing,
+Heartbeat, Digestion etc., the activities of the body can also be understood as recognition and
+fulfilment. In fact, the mutual interaction between any two material entities can be understood as
+recognition and fulfilment of their relationship. For example when we are thirsty and drink water,
+the body absorbs the water to the extent needed and uses for the nourishment of the various organs.
+Here, body recognizes its relation with water and fulfils it.
+
+Recognizing Fulfilling
 --- page 2 ---
 5 ;BL
 -3
@@ -1541,6 +2602,20 @@ CO-1 ;   "Process of self-exploration leads to realization and understanding." E
 SO-   Self exploration is the process to find out what is valuable to me by investigating within   M]
 myself, what is right for me, true for me, has to be judged within myself. Through self
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+integrity and consistency in relationships. To keep the trust on ourself and others, we have to pay attention on
+the intensions and to understand if we or the other person is not able to do benefit, it is because we are lacking
+competence. Trust is the result of right understanding of the intention of all the human beings around us. This
+trust helps to improve our competence in others and in ourselves.
+
+1. At the level of the individual - Transition towards happiness and prosperity will take place at the
+individual level. It will instil self confidence, spontaneous joyfulness, peace, contentment and bliss in
+the self, and also perseverance, bravery and generosity in living of the individual.
+
+2. At the level of the family - Mutual fulfilment in relationships, prosperity in the family, sustenance of
+joint families, family as the building block of societal order in place of law enforcing bodies, respect for
+all without differentiation on the basis of age, gender, caste, race, money, post, creed, etc.
 --- page 3 ---
 5 ;BL-   exploration we get the value of ourself. The process of self exploration is a follows: First of all
 5   we have to keep in mind that, Whatever is being presented is a PROPOSAL. • Don't assume it
@@ -1608,6 +2683,35 @@ Example 4 M
 Q4   [20
 M]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Self (1) Body (instrument)
+
+INFORMATION
+
+Consciousness instruction >
+
+Needs: Continuous Happiness
+
+Material
+
+Needs: Physical Facility
+
+Needs & activities are continuous in time Needs & activities are temporary
+Self-regulation | (> | Health
+
+Feeling of responsibility toward the body — for 1. Body acts according to i}
+Nurturing, Protection and Right Utilization of 2. Parts of the body are in harmony
+the Body (in order)
+
+Food... ace Shelter... Instruments...
+Required Required Required ina
+inalimited. ina limited limited quantity
+quantity quantity
+|_| Physical Facility for nurturing, protection and right utilisation of the Body 3]
+ie i is required in a limited quantity... ‘
+
+~ fiwe can see that, then we can understand the meaning of prosperity
 --- page 5 ---
 CO-3;   a Interpret interconnectedness and mutual fulfilment between the four orders of nature.   [10
 SO5;B   M]
@@ -1630,6 +2734,68 @@ CO-   a Explain the importance of ‘care' & 'respect' in human relationship wit
 4;BL-2
 M]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Relationship of Mutual Fulfillment Udy Uxndl aI as
+
+Physical Order, Bio Order and Animal Order are enriching for Human
+Order, but Human Order (without right understanding) is not fulfilling
+for any of the 4 orders
+
+Human beings have
+Bio Order
+natural acceptance Plants, Trees
+
+to be mutually na bal
+
+Physical
+Order
+Soil, Metal
+
+Animal Order
+Animals, Birds
+ha sree
+wy =i
+
+Human Order
+Human Being
+
+aM aae
+wa
+
+Once human beings understand,
+
+they can be fulfilling for all four orders
+
+cs
+
+Material Order and Plant/Bio-Order: The material order provides the nutrients to the plant/bio order
+in the form of soil, minerals, etc while the plant/ bio order decays and forms more nutrients, thus
+enriching the soil. The plant/bio order also decays to substances like oil and coal, which are stored
+deep within the earth as protection against the heat from the molten core inside the earth as well as
+the heat from the sun (today, this is the material we are removing and using as fuel). Plants help
+move the nutrients through the various layers of the soil. The roots of the plants hold the soil
+together and prevent the soil from erosion. Plants produce oxygen/ carbon dioxide and thus help in
+the movement of the material order. There is a mutual interdependency and co-existence we can see
+here.
+
+Material Order, Plant/Bio- Order and Animal Order: The material order provides the basis for
+movement of all animals, birds and fishes. Water, oxygen and other gases are necessities for both
+plants and
+
+animals. At the same time, the animal order helps enrich the soil with its excreta and this excreta
+helps the plants with nutrients. The plant/bio order provides food for animals, birds and fishes. The
+animal Order helps in pollination of the flowers of the pranic order.
+
+Material Order, Plant/Bio- Order, Animal Order and Human Order: We humans also have a natural
+acceptance to be mutually fulfilling to these three orders. However, we are not able to ensure
+this mutual fulfilment. We are dependent on the material order for soil and minerals and metals,
+but only end up polluting the soil and depleting the fossil fuels; we are dependent on plants for our
+food and holding together the larger ecosystem, but we have destroyed forests and destroyed
+multiple species of plants and herbs; we are dependent on animals to carry out our production and
+transportation activities, but have made many species of animals extinct, and are today known for
+our cruelty towards animals. We can see that there is interconnectedness and mutual fulfilment in
+all the orders of nature except human order. We have to work on this.
 --- page 6 ---
 5M
 Examples 5M
@@ -1669,6 +2835,26 @@ of the body.
 – Ausadhi – Chikitsa (Medicine – Treatment) 6 M,
 – Example 4 M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Love is called_the complete value since this is_the feeling of relatedness to all human beings. It is the
+emotion of strong affection and personal attachment. In other words, love is a feeling of warm personal
+attachment or deep affection, as for a parent, child, or friend. It starts with identifying that one is related to the
+other human being (the feeling of affection) and it slowly expands to the feeling of being related to all human
+beings.
+
+The word love can refer to a variety of different feelings, states, and attitudes, ranging from generic
+pleasure ("I loved that meal") to intense interpersonal attraction ("I love my wife"). "Love" can also refer
+specifically to the passionate desire and intimacy of romantic love, to the sexual love of Eros (cf. Greek
+words for love), to the emotional closeness of familial love, or to the platonic love that defines friendship, to
+the profound oneness or devotion of religious love. This diversity of uses and meanings, combined with the
+complexity of the feelings involved, makes love unusually difficult to consistently define, even compared to
+other emotional states.
+
+This feeling or value is also called the complete value since this is the feeling of relatedness to all
+human beings. It starts with identifying that one is related to the other human being (the feeling of affection)
+and it slowly expands to the feeling of being related to all human beings. The feeling of love leads to an
+undivided society, it starts from a family and slowly expands to the world family in the form of love.
 --- page 7 ---
 CO- 3; b Analyze the role of CEO as a ethical leadership for organizational growth.
 SO-   [10
@@ -1692,6 +2878,47 @@ L-2
 5M
 Any 5 Repercussions if not accomplished 5M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate
+of all the mutually interacting units - big or small, sentient or insentient together can be called nature. These
+units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation
+among all these units.
+
+The law of nature has a unique cause and effect system which must be understood in order to be in
+harmony with the natural law of things. Natural harmony is necessary for the following reasons:
+1. Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable
+natural resource can be avoided.
+2. Natural harmony with trees cure all problems like - reduction of wind velocity, energy savings, doing
+companion planting, development of an eco-subsystem in terms of establishing a forest garden, reduction of
+building heat.
+3. Itis possible to achieve natural harmony in the establishment, maintenance and management of educational
+institution like schools, colleges and universities.
+4. One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon
+the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at
+the material plane.
+5. To create harmony in nature, first of all we have to work in the direction of development of mankind from
+animal consciousness to human consciousness. And this entails working for the right understanding.
+
+Ans. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate
+of all the mutually interacting units - big or small, sentient or insentient together can be called nature. These
+units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation
+among all these units.
+
+The law of nature has a unique cause and effect system which must be understood in order to be in
+harmony with the natural law of things. Natural harmony is necessary for the following reasons:
+1. Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable
+natural resource can be avoided.
+2. Natural harmony with trees cure all problems like - reduction of wind velocity, energy savings, doing
+companion planting, development of an eco-subsystem in terms of establishing a forest garden, reduction of
+building heat.
+3. Itis possible to achieve natural harmony in the establishment, maintenance and management of educational
+institution like schools, colleges and universities.
+4. One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon
+the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at
+the material plane.
+5. To create harmony in nature, first of all we have to work in the direction of development of mankind from
+animal consciousness to human consciousness. And this entails working for the right understanding.
 --- page 8 ---
 Q7   [20
 M]
@@ -1703,6 +2930,39 @@ CO-   b Demonstrate the impact of unethical behaviour on professional as well as
 3;SO-   M]
 5;BL-2
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Normally we tend to believe that the body is an instrument for sensory enjoyment, which is not correct.
+We also happen to our body to exploit other human beings or rest of the nature, which is also not right
+utilization. Body is the instrument of the self and the_body needs to be given nutrition, protection and utilized
+to work as an efficient and effective tool for the right purpose. This utilization is termed as right utilization. In
+other words, employing our body as an instrument for sensory enjoyment, and to exploit other human beings
+or rest of the nature is not the right utilization. On the contrary utilizing our body for right behaviour and work
+is actually the right utilization of thebody.
+
+Self (1) Biady
+Consciousness INFORMATION Material
+
+{Sse
+
+lam My body is
+
+| want to live : - | My body is used as an instrument
+
+| want to live with continuous Physical facility is required for
+
+happiness . nurturing, protection and right
+utilization of the body
+
+To understand and to live in harmony Production, protection and right
+
+at all levels of being (from self to utilization of physical faciiity is a part
+
+entire existence) is my program of of my program (<1/4")
+
+action for continuous happiness
+
+lam the: : | use the body as an instrument for
 --- page 9 ---
 Ans. The unethical practices are rapidly increasing and their impact is also becoming far-reaching.
 Corruption in multifarious manifestations is afflicting all the professions like a virus. Similarly, other
@@ -1743,6 +3003,7 @@ FIC QF OH ar
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_IT_7001/Universal Human Values-II/ANS_Universal Human Values-II(702BS0I022)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (9 pages), mean OCR confidence 94.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1788,6 +3049,16 @@ CO-   c Identify trust as a human value with an example.   [4M
 2;   ]
 SO-
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Activities of recognizing and fulfilling in the body: Apart from the activities of Breathing,
+Heartbeat, Digestion etc., the activities of the body can also be understood as recognition and
+fulfilment. In fact, the mutual interaction between any two material entities can be understood as
+recognition and fulfilment of their relationship. For example when we are thirsty and drink water,
+the body absorbs the water to the extent needed and uses for the nourishment of the various organs.
+Here, body recognizes its relation with water and fulfils it.
+
+Recognizing Fulfilling
 --- page 2 ---
 5 ;BL
 -3
@@ -1830,6 +3101,20 @@ CO-1 ;   "Process of self-exploration leads to realization and understanding." E
 SO-   Self exploration is the process to find out what is valuable to me by investigating within   M]
 myself, what is right for me, true for me, has to be judged within myself. Through self
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+integrity and consistency in relationships. To keep the trust on ourself and others, we have to pay attention on
+the intensions and to understand if we or the other person is not able to do benefit, it is because we are lacking
+competence. Trust is the result of right understanding of the intention of all the human beings around us. This
+trust helps to improve our competence in others and in ourselves.
+
+1. At the level of the individual - Transition towards happiness and prosperity will take place at the
+individual level. It will instil self confidence, spontaneous joyfulness, peace, contentment and bliss in
+the self, and also perseverance, bravery and generosity in living of the individual.
+
+2. At the level of the family - Mutual fulfilment in relationships, prosperity in the family, sustenance of
+joint families, family as the building block of societal order in place of law enforcing bodies, respect for
+all without differentiation on the basis of age, gender, caste, race, money, post, creed, etc.
 --- page 3 ---
 5 ;BL-   exploration we get the value of ourself. The process of self exploration is a follows: First of all
 5   we have to keep in mind that, Whatever is being presented is a PROPOSAL. • Don't assume it
@@ -1897,6 +3182,35 @@ Example 4 M
 Q4   [20
 M]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Self (1) Body (instrument)
+
+INFORMATION
+
+Consciousness instruction >
+
+Needs: Continuous Happiness
+
+Material
+
+Needs: Physical Facility
+
+Needs & activities are continuous in time Needs & activities are temporary
+Self-regulation | (> | Health
+
+Feeling of responsibility toward the body — for 1. Body acts according to i}
+Nurturing, Protection and Right Utilization of 2. Parts of the body are in harmony
+the Body (in order)
+
+Food... ace Shelter... Instruments...
+Required Required Required ina
+inalimited. ina limited limited quantity
+quantity quantity
+|_| Physical Facility for nurturing, protection and right utilisation of the Body 3]
+ie i is required in a limited quantity... ‘
+
+~ fiwe can see that, then we can understand the meaning of prosperity
 --- page 5 ---
 CO-3;   a Interpret interconnectedness and mutual fulfilment between the four orders of nature.   [10
 SO5;B   M]
@@ -1919,6 +3233,68 @@ CO-   a Explain the importance of ‘care' & 'respect' in human relationship wit
 4;BL-2
 M]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Relationship of Mutual Fulfillment Udy Uxndl aI as
+
+Physical Order, Bio Order and Animal Order are enriching for Human
+Order, but Human Order (without right understanding) is not fulfilling
+for any of the 4 orders
+
+Human beings have
+Bio Order
+natural acceptance Plants, Trees
+
+to be mutually na bal
+
+Physical
+Order
+Soil, Metal
+
+Animal Order
+Animals, Birds
+ha sree
+wy =i
+
+Human Order
+Human Being
+
+aM aae
+wa
+
+Once human beings understand,
+
+they can be fulfilling for all four orders
+
+cs
+
+Material Order and Plant/Bio-Order: The material order provides the nutrients to the plant/bio order
+in the form of soil, minerals, etc while the plant/ bio order decays and forms more nutrients, thus
+enriching the soil. The plant/bio order also decays to substances like oil and coal, which are stored
+deep within the earth as protection against the heat from the molten core inside the earth as well as
+the heat from the sun (today, this is the material we are removing and using as fuel). Plants help
+move the nutrients through the various layers of the soil. The roots of the plants hold the soil
+together and prevent the soil from erosion. Plants produce oxygen/ carbon dioxide and thus help in
+the movement of the material order. There is a mutual interdependency and co-existence we can see
+here.
+
+Material Order, Plant/Bio- Order and Animal Order: The material order provides the basis for
+movement of all animals, birds and fishes. Water, oxygen and other gases are necessities for both
+plants and
+
+animals. At the same time, the animal order helps enrich the soil with its excreta and this excreta
+helps the plants with nutrients. The plant/bio order provides food for animals, birds and fishes. The
+animal Order helps in pollination of the flowers of the pranic order.
+
+Material Order, Plant/Bio- Order, Animal Order and Human Order: We humans also have a natural
+acceptance to be mutually fulfilling to these three orders. However, we are not able to ensure
+this mutual fulfilment. We are dependent on the material order for soil and minerals and metals,
+but only end up polluting the soil and depleting the fossil fuels; we are dependent on plants for our
+food and holding together the larger ecosystem, but we have destroyed forests and destroyed
+multiple species of plants and herbs; we are dependent on animals to carry out our production and
+transportation activities, but have made many species of animals extinct, and are today known for
+our cruelty towards animals. We can see that there is interconnectedness and mutual fulfilment in
+all the orders of nature except human order. We have to work on this.
 --- page 6 ---
 5M
 Examples 5M
@@ -1958,6 +3334,26 @@ of the body.
 – Ausadhi – Chikitsa (Medicine – Treatment) 6 M,
 – Example 4 M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Love is called_the complete value since this is_the feeling of relatedness to all human beings. It is the
+emotion of strong affection and personal attachment. In other words, love is a feeling of warm personal
+attachment or deep affection, as for a parent, child, or friend. It starts with identifying that one is related to the
+other human being (the feeling of affection) and it slowly expands to the feeling of being related to all human
+beings.
+
+The word love can refer to a variety of different feelings, states, and attitudes, ranging from generic
+pleasure ("I loved that meal") to intense interpersonal attraction ("I love my wife"). "Love" can also refer
+specifically to the passionate desire and intimacy of romantic love, to the sexual love of Eros (cf. Greek
+words for love), to the emotional closeness of familial love, or to the platonic love that defines friendship, to
+the profound oneness or devotion of religious love. This diversity of uses and meanings, combined with the
+complexity of the feelings involved, makes love unusually difficult to consistently define, even compared to
+other emotional states.
+
+This feeling or value is also called the complete value since this is the feeling of relatedness to all
+human beings. It starts with identifying that one is related to the other human being (the feeling of affection)
+and it slowly expands to the feeling of being related to all human beings. The feeling of love leads to an
+undivided society, it starts from a family and slowly expands to the world family in the form of love.
 --- page 7 ---
 CO- 3; b Analyze the role of CEO as a ethical leadership for organizational growth.
 SO-   [10
@@ -1981,6 +3377,47 @@ L-2
 5M
 Any 5 Repercussions if not accomplished 5M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate
+of all the mutually interacting units - big or small, sentient or insentient together can be called nature. These
+units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation
+among all these units.
+
+The law of nature has a unique cause and effect system which must be understood in order to be in
+harmony with the natural law of things. Natural harmony is necessary for the following reasons:
+1. Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable
+natural resource can be avoided.
+2. Natural harmony with trees cure all problems like - reduction of wind velocity, energy savings, doing
+companion planting, development of an eco-subsystem in terms of establishing a forest garden, reduction of
+building heat.
+3. Itis possible to achieve natural harmony in the establishment, maintenance and management of educational
+institution like schools, colleges and universities.
+4. One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon
+the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at
+the material plane.
+5. To create harmony in nature, first of all we have to work in the direction of development of mankind from
+animal consciousness to human consciousness. And this entails working for the right understanding.
+
+Ans. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate
+of all the mutually interacting units - big or small, sentient or insentient together can be called nature. These
+units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation
+among all these units.
+
+The law of nature has a unique cause and effect system which must be understood in order to be in
+harmony with the natural law of things. Natural harmony is necessary for the following reasons:
+1. Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable
+natural resource can be avoided.
+2. Natural harmony with trees cure all problems like - reduction of wind velocity, energy savings, doing
+companion planting, development of an eco-subsystem in terms of establishing a forest garden, reduction of
+building heat.
+3. Itis possible to achieve natural harmony in the establishment, maintenance and management of educational
+institution like schools, colleges and universities.
+4. One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon
+the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at
+the material plane.
+5. To create harmony in nature, first of all we have to work in the direction of development of mankind from
+animal consciousness to human consciousness. And this entails working for the right understanding.
 --- page 8 ---
 Q7   [20
 M]
@@ -1992,6 +3429,39 @@ CO-   b Demonstrate the impact of unethical behaviour on professional as well as
 3;SO-   M]
 5;BL-2
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Normally we tend to believe that the body is an instrument for sensory enjoyment, which is not correct.
+We also happen to our body to exploit other human beings or rest of the nature, which is also not right
+utilization. Body is the instrument of the self and the_body needs to be given nutrition, protection and utilized
+to work as an efficient and effective tool for the right purpose. This utilization is termed as right utilization. In
+other words, employing our body as an instrument for sensory enjoyment, and to exploit other human beings
+or rest of the nature is not the right utilization. On the contrary utilizing our body for right behaviour and work
+is actually the right utilization of thebody.
+
+Self (1) Biady
+Consciousness INFORMATION Material
+
+{Sse
+
+lam My body is
+
+| want to live : - | My body is used as an instrument
+
+| want to live with continuous Physical facility is required for
+
+happiness . nurturing, protection and right
+utilization of the body
+
+To understand and to live in harmony Production, protection and right
+
+at all levels of being (from self to utilization of physical faciiity is a part
+
+entire existence) is my program of of my program (<1/4")
+
+action for continuous happiness
+
+lam the: : | use the body as an instrument for
 --- page 9 ---
 Ans. The unethical practices are rapidly increasing and their impact is also becoming far-reaching.
 Corruption in multifarious manifestations is afflicting all the professions like a virus. Similarly, other
@@ -2032,6 +3502,7 @@ FIC QF OH ar
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_Mechanical_7003/Universal Human Values-II/ANS_Universal Human Values-II(702BS0I022)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (9 pages), mean OCR confidence 94.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2077,6 +3548,16 @@ CO-   c Identify trust as a human value with an example.   [4M
 2;   ]
 SO-
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Activities of recognizing and fulfilling in the body: Apart from the activities of Breathing,
+Heartbeat, Digestion etc., the activities of the body can also be understood as recognition and
+fulfilment. In fact, the mutual interaction between any two material entities can be understood as
+recognition and fulfilment of their relationship. For example when we are thirsty and drink water,
+the body absorbs the water to the extent needed and uses for the nourishment of the various organs.
+Here, body recognizes its relation with water and fulfils it.
+
+Recognizing Fulfilling
 --- page 2 ---
 5 ;BL
 -3
@@ -2119,6 +3600,20 @@ CO-1 ;   "Process of self-exploration leads to realization and understanding." E
 SO-   Self exploration is the process to find out what is valuable to me by investigating within   M]
 myself, what is right for me, true for me, has to be judged within myself. Through self
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+integrity and consistency in relationships. To keep the trust on ourself and others, we have to pay attention on
+the intensions and to understand if we or the other person is not able to do benefit, it is because we are lacking
+competence. Trust is the result of right understanding of the intention of all the human beings around us. This
+trust helps to improve our competence in others and in ourselves.
+
+1. At the level of the individual - Transition towards happiness and prosperity will take place at the
+individual level. It will instil self confidence, spontaneous joyfulness, peace, contentment and bliss in
+the self, and also perseverance, bravery and generosity in living of the individual.
+
+2. At the level of the family - Mutual fulfilment in relationships, prosperity in the family, sustenance of
+joint families, family as the building block of societal order in place of law enforcing bodies, respect for
+all without differentiation on the basis of age, gender, caste, race, money, post, creed, etc.
 --- page 3 ---
 5 ;BL-   exploration we get the value of ourself. The process of self exploration is a follows: First of all
 5   we have to keep in mind that, Whatever is being presented is a PROPOSAL. • Don't assume it
@@ -2186,6 +3681,35 @@ Example 4 M
 Q4   [20
 M]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Self (1) Body (instrument)
+
+INFORMATION
+
+Consciousness instruction >
+
+Needs: Continuous Happiness
+
+Material
+
+Needs: Physical Facility
+
+Needs & activities are continuous in time Needs & activities are temporary
+Self-regulation | (> | Health
+
+Feeling of responsibility toward the body — for 1. Body acts according to i}
+Nurturing, Protection and Right Utilization of 2. Parts of the body are in harmony
+the Body (in order)
+
+Food... ace Shelter... Instruments...
+Required Required Required ina
+inalimited. ina limited limited quantity
+quantity quantity
+|_| Physical Facility for nurturing, protection and right utilisation of the Body 3]
+ie i is required in a limited quantity... ‘
+
+~ fiwe can see that, then we can understand the meaning of prosperity
 --- page 5 ---
 CO-3;   a Interpret interconnectedness and mutual fulfilment between the four orders of nature.   [10
 SO5;B   M]
@@ -2208,6 +3732,68 @@ CO-   a Explain the importance of ‘care' & 'respect' in human relationship wit
 4;BL-2
 M]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Relationship of Mutual Fulfillment Udy Uxndl aI as
+
+Physical Order, Bio Order and Animal Order are enriching for Human
+Order, but Human Order (without right understanding) is not fulfilling
+for any of the 4 orders
+
+Human beings have
+Bio Order
+natural acceptance Plants, Trees
+
+to be mutually na bal
+
+Physical
+Order
+Soil, Metal
+
+Animal Order
+Animals, Birds
+ha sree
+wy =i
+
+Human Order
+Human Being
+
+aM aae
+wa
+
+Once human beings understand,
+
+they can be fulfilling for all four orders
+
+cs
+
+Material Order and Plant/Bio-Order: The material order provides the nutrients to the plant/bio order
+in the form of soil, minerals, etc while the plant/ bio order decays and forms more nutrients, thus
+enriching the soil. The plant/bio order also decays to substances like oil and coal, which are stored
+deep within the earth as protection against the heat from the molten core inside the earth as well as
+the heat from the sun (today, this is the material we are removing and using as fuel). Plants help
+move the nutrients through the various layers of the soil. The roots of the plants hold the soil
+together and prevent the soil from erosion. Plants produce oxygen/ carbon dioxide and thus help in
+the movement of the material order. There is a mutual interdependency and co-existence we can see
+here.
+
+Material Order, Plant/Bio- Order and Animal Order: The material order provides the basis for
+movement of all animals, birds and fishes. Water, oxygen and other gases are necessities for both
+plants and
+
+animals. At the same time, the animal order helps enrich the soil with its excreta and this excreta
+helps the plants with nutrients. The plant/bio order provides food for animals, birds and fishes. The
+animal Order helps in pollination of the flowers of the pranic order.
+
+Material Order, Plant/Bio- Order, Animal Order and Human Order: We humans also have a natural
+acceptance to be mutually fulfilling to these three orders. However, we are not able to ensure
+this mutual fulfilment. We are dependent on the material order for soil and minerals and metals,
+but only end up polluting the soil and depleting the fossil fuels; we are dependent on plants for our
+food and holding together the larger ecosystem, but we have destroyed forests and destroyed
+multiple species of plants and herbs; we are dependent on animals to carry out our production and
+transportation activities, but have made many species of animals extinct, and are today known for
+our cruelty towards animals. We can see that there is interconnectedness and mutual fulfilment in
+all the orders of nature except human order. We have to work on this.
 --- page 6 ---
 5M
 Examples 5M
@@ -2247,6 +3833,26 @@ of the body.
 – Ausadhi – Chikitsa (Medicine – Treatment) 6 M,
 – Example 4 M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Love is called_the complete value since this is_the feeling of relatedness to all human beings. It is the
+emotion of strong affection and personal attachment. In other words, love is a feeling of warm personal
+attachment or deep affection, as for a parent, child, or friend. It starts with identifying that one is related to the
+other human being (the feeling of affection) and it slowly expands to the feeling of being related to all human
+beings.
+
+The word love can refer to a variety of different feelings, states, and attitudes, ranging from generic
+pleasure ("I loved that meal") to intense interpersonal attraction ("I love my wife"). "Love" can also refer
+specifically to the passionate desire and intimacy of romantic love, to the sexual love of Eros (cf. Greek
+words for love), to the emotional closeness of familial love, or to the platonic love that defines friendship, to
+the profound oneness or devotion of religious love. This diversity of uses and meanings, combined with the
+complexity of the feelings involved, makes love unusually difficult to consistently define, even compared to
+other emotional states.
+
+This feeling or value is also called the complete value since this is the feeling of relatedness to all
+human beings. It starts with identifying that one is related to the other human being (the feeling of affection)
+and it slowly expands to the feeling of being related to all human beings. The feeling of love leads to an
+undivided society, it starts from a family and slowly expands to the world family in the form of love.
 --- page 7 ---
 CO- 3; b Analyze the role of CEO as a ethical leadership for organizational growth.
 SO-   [10
@@ -2270,6 +3876,47 @@ L-2
 5M
 Any 5 Repercussions if not accomplished 5M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate
+of all the mutually interacting units - big or small, sentient or insentient together can be called nature. These
+units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation
+among all these units.
+
+The law of nature has a unique cause and effect system which must be understood in order to be in
+harmony with the natural law of things. Natural harmony is necessary for the following reasons:
+1. Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable
+natural resource can be avoided.
+2. Natural harmony with trees cure all problems like - reduction of wind velocity, energy savings, doing
+companion planting, development of an eco-subsystem in terms of establishing a forest garden, reduction of
+building heat.
+3. Itis possible to achieve natural harmony in the establishment, maintenance and management of educational
+institution like schools, colleges and universities.
+4. One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon
+the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at
+the material plane.
+5. To create harmony in nature, first of all we have to work in the direction of development of mankind from
+animal consciousness to human consciousness. And this entails working for the right understanding.
+
+Ans. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate
+of all the mutually interacting units - big or small, sentient or insentient together can be called nature. These
+units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation
+among all these units.
+
+The law of nature has a unique cause and effect system which must be understood in order to be in
+harmony with the natural law of things. Natural harmony is necessary for the following reasons:
+1. Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable
+natural resource can be avoided.
+2. Natural harmony with trees cure all problems like - reduction of wind velocity, energy savings, doing
+companion planting, development of an eco-subsystem in terms of establishing a forest garden, reduction of
+building heat.
+3. Itis possible to achieve natural harmony in the establishment, maintenance and management of educational
+institution like schools, colleges and universities.
+4. One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon
+the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at
+the material plane.
+5. To create harmony in nature, first of all we have to work in the direction of development of mankind from
+animal consciousness to human consciousness. And this entails working for the right understanding.
 --- page 8 ---
 Q7   [20
 M]
@@ -2281,6 +3928,39 @@ CO-   b Demonstrate the impact of unethical behaviour on professional as well as
 3;SO-   M]
 5;BL-2
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Normally we tend to believe that the body is an instrument for sensory enjoyment, which is not correct.
+We also happen to our body to exploit other human beings or rest of the nature, which is also not right
+utilization. Body is the instrument of the self and the_body needs to be given nutrition, protection and utilized
+to work as an efficient and effective tool for the right purpose. This utilization is termed as right utilization. In
+other words, employing our body as an instrument for sensory enjoyment, and to exploit other human beings
+or rest of the nature is not the right utilization. On the contrary utilizing our body for right behaviour and work
+is actually the right utilization of thebody.
+
+Self (1) Biady
+Consciousness INFORMATION Material
+
+{Sse
+
+lam My body is
+
+| want to live : - | My body is used as an instrument
+
+| want to live with continuous Physical facility is required for
+
+happiness . nurturing, protection and right
+utilization of the body
+
+To understand and to live in harmony Production, protection and right
+
+at all levels of being (from self to utilization of physical faciiity is a part
+
+entire existence) is my program of of my program (<1/4")
+
+action for continuous happiness
+
+lam the: : | use the body as an instrument for
 --- page 9 ---
 Ans. The unethical practices are rapidly increasing and their impact is also becoming far-reaching.
 Corruption in multifarious manifestations is afflicting all the professions like a virus. Similarly, other
@@ -2321,6 +4001,7 @@ FIC QF OH ar
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/MBATech_AI_7051/Universal Human Values-II/ANS_Universal Human Values-II(702BS0I022)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (9 pages), mean OCR confidence 94.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2366,6 +4047,16 @@ CO-   c Identify trust as a human value with an example.   [4M
 2;   ]
 SO-
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Activities of recognizing and fulfilling in the body: Apart from the activities of Breathing,
+Heartbeat, Digestion etc., the activities of the body can also be understood as recognition and
+fulfilment. In fact, the mutual interaction between any two material entities can be understood as
+recognition and fulfilment of their relationship. For example when we are thirsty and drink water,
+the body absorbs the water to the extent needed and uses for the nourishment of the various organs.
+Here, body recognizes its relation with water and fulfils it.
+
+Recognizing Fulfilling
 --- page 2 ---
 5 ;BL
 -3
@@ -2408,6 +4099,20 @@ CO-1 ;   "Process of self-exploration leads to realization and understanding." E
 SO-   Self exploration is the process to find out what is valuable to me by investigating within   M]
 myself, what is right for me, true for me, has to be judged within myself. Through self
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+integrity and consistency in relationships. To keep the trust on ourself and others, we have to pay attention on
+the intensions and to understand if we or the other person is not able to do benefit, it is because we are lacking
+competence. Trust is the result of right understanding of the intention of all the human beings around us. This
+trust helps to improve our competence in others and in ourselves.
+
+1. At the level of the individual - Transition towards happiness and prosperity will take place at the
+individual level. It will instil self confidence, spontaneous joyfulness, peace, contentment and bliss in
+the self, and also perseverance, bravery and generosity in living of the individual.
+
+2. At the level of the family - Mutual fulfilment in relationships, prosperity in the family, sustenance of
+joint families, family as the building block of societal order in place of law enforcing bodies, respect for
+all without differentiation on the basis of age, gender, caste, race, money, post, creed, etc.
 --- page 3 ---
 5 ;BL-   exploration we get the value of ourself. The process of self exploration is a follows: First of all
 5   we have to keep in mind that, Whatever is being presented is a PROPOSAL. • Don't assume it
@@ -2475,6 +4180,35 @@ Example 4 M
 Q4   [20
 M]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Self (1) Body (instrument)
+
+INFORMATION
+
+Consciousness instruction >
+
+Needs: Continuous Happiness
+
+Material
+
+Needs: Physical Facility
+
+Needs & activities are continuous in time Needs & activities are temporary
+Self-regulation | (> | Health
+
+Feeling of responsibility toward the body — for 1. Body acts according to i}
+Nurturing, Protection and Right Utilization of 2. Parts of the body are in harmony
+the Body (in order)
+
+Food... ace Shelter... Instruments...
+Required Required Required ina
+inalimited. ina limited limited quantity
+quantity quantity
+|_| Physical Facility for nurturing, protection and right utilisation of the Body 3]
+ie i is required in a limited quantity... ‘
+
+~ fiwe can see that, then we can understand the meaning of prosperity
 --- page 5 ---
 CO-3;   a Interpret interconnectedness and mutual fulfilment between the four orders of nature.   [10
 SO5;B   M]
@@ -2497,6 +4231,68 @@ CO-   a Explain the importance of ‘care' & 'respect' in human relationship wit
 4;BL-2
 M]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Relationship of Mutual Fulfillment Udy Uxndl aI as
+
+Physical Order, Bio Order and Animal Order are enriching for Human
+Order, but Human Order (without right understanding) is not fulfilling
+for any of the 4 orders
+
+Human beings have
+Bio Order
+natural acceptance Plants, Trees
+
+to be mutually na bal
+
+Physical
+Order
+Soil, Metal
+
+Animal Order
+Animals, Birds
+ha sree
+wy =i
+
+Human Order
+Human Being
+
+aM aae
+wa
+
+Once human beings understand,
+
+they can be fulfilling for all four orders
+
+cs
+
+Material Order and Plant/Bio-Order: The material order provides the nutrients to the plant/bio order
+in the form of soil, minerals, etc while the plant/ bio order decays and forms more nutrients, thus
+enriching the soil. The plant/bio order also decays to substances like oil and coal, which are stored
+deep within the earth as protection against the heat from the molten core inside the earth as well as
+the heat from the sun (today, this is the material we are removing and using as fuel). Plants help
+move the nutrients through the various layers of the soil. The roots of the plants hold the soil
+together and prevent the soil from erosion. Plants produce oxygen/ carbon dioxide and thus help in
+the movement of the material order. There is a mutual interdependency and co-existence we can see
+here.
+
+Material Order, Plant/Bio- Order and Animal Order: The material order provides the basis for
+movement of all animals, birds and fishes. Water, oxygen and other gases are necessities for both
+plants and
+
+animals. At the same time, the animal order helps enrich the soil with its excreta and this excreta
+helps the plants with nutrients. The plant/bio order provides food for animals, birds and fishes. The
+animal Order helps in pollination of the flowers of the pranic order.
+
+Material Order, Plant/Bio- Order, Animal Order and Human Order: We humans also have a natural
+acceptance to be mutually fulfilling to these three orders. However, we are not able to ensure
+this mutual fulfilment. We are dependent on the material order for soil and minerals and metals,
+but only end up polluting the soil and depleting the fossil fuels; we are dependent on plants for our
+food and holding together the larger ecosystem, but we have destroyed forests and destroyed
+multiple species of plants and herbs; we are dependent on animals to carry out our production and
+transportation activities, but have made many species of animals extinct, and are today known for
+our cruelty towards animals. We can see that there is interconnectedness and mutual fulfilment in
+all the orders of nature except human order. We have to work on this.
 --- page 6 ---
 5M
 Examples 5M
@@ -2536,6 +4332,26 @@ of the body.
 – Ausadhi – Chikitsa (Medicine – Treatment) 6 M,
 – Example 4 M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Love is called_the complete value since this is_the feeling of relatedness to all human beings. It is the
+emotion of strong affection and personal attachment. In other words, love is a feeling of warm personal
+attachment or deep affection, as for a parent, child, or friend. It starts with identifying that one is related to the
+other human being (the feeling of affection) and it slowly expands to the feeling of being related to all human
+beings.
+
+The word love can refer to a variety of different feelings, states, and attitudes, ranging from generic
+pleasure ("I loved that meal") to intense interpersonal attraction ("I love my wife"). "Love" can also refer
+specifically to the passionate desire and intimacy of romantic love, to the sexual love of Eros (cf. Greek
+words for love), to the emotional closeness of familial love, or to the platonic love that defines friendship, to
+the profound oneness or devotion of religious love. This diversity of uses and meanings, combined with the
+complexity of the feelings involved, makes love unusually difficult to consistently define, even compared to
+other emotional states.
+
+This feeling or value is also called the complete value since this is the feeling of relatedness to all
+human beings. It starts with identifying that one is related to the other human being (the feeling of affection)
+and it slowly expands to the feeling of being related to all human beings. The feeling of love leads to an
+undivided society, it starts from a family and slowly expands to the world family in the form of love.
 --- page 7 ---
 CO- 3; b Analyze the role of CEO as a ethical leadership for organizational growth.
 SO-   [10
@@ -2559,6 +4375,47 @@ L-2
 5M
 Any 5 Repercussions if not accomplished 5M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate
+of all the mutually interacting units - big or small, sentient or insentient together can be called nature. These
+units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation
+among all these units.
+
+The law of nature has a unique cause and effect system which must be understood in order to be in
+harmony with the natural law of things. Natural harmony is necessary for the following reasons:
+1. Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable
+natural resource can be avoided.
+2. Natural harmony with trees cure all problems like - reduction of wind velocity, energy savings, doing
+companion planting, development of an eco-subsystem in terms of establishing a forest garden, reduction of
+building heat.
+3. Itis possible to achieve natural harmony in the establishment, maintenance and management of educational
+institution like schools, colleges and universities.
+4. One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon
+the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at
+the material plane.
+5. To create harmony in nature, first of all we have to work in the direction of development of mankind from
+animal consciousness to human consciousness. And this entails working for the right understanding.
+
+Ans. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate
+of all the mutually interacting units - big or small, sentient or insentient together can be called nature. These
+units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation
+among all these units.
+
+The law of nature has a unique cause and effect system which must be understood in order to be in
+harmony with the natural law of things. Natural harmony is necessary for the following reasons:
+1. Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable
+natural resource can be avoided.
+2. Natural harmony with trees cure all problems like - reduction of wind velocity, energy savings, doing
+companion planting, development of an eco-subsystem in terms of establishing a forest garden, reduction of
+building heat.
+3. Itis possible to achieve natural harmony in the establishment, maintenance and management of educational
+institution like schools, colleges and universities.
+4. One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon
+the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at
+the material plane.
+5. To create harmony in nature, first of all we have to work in the direction of development of mankind from
+animal consciousness to human consciousness. And this entails working for the right understanding.
 --- page 8 ---
 Q7   [20
 M]
@@ -2570,6 +4427,39 @@ CO-   b Demonstrate the impact of unethical behaviour on professional as well as
 3;SO-   M]
 5;BL-2
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Normally we tend to believe that the body is an instrument for sensory enjoyment, which is not correct.
+We also happen to our body to exploit other human beings or rest of the nature, which is also not right
+utilization. Body is the instrument of the self and the_body needs to be given nutrition, protection and utilized
+to work as an efficient and effective tool for the right purpose. This utilization is termed as right utilization. In
+other words, employing our body as an instrument for sensory enjoyment, and to exploit other human beings
+or rest of the nature is not the right utilization. On the contrary utilizing our body for right behaviour and work
+is actually the right utilization of thebody.
+
+Self (1) Biady
+Consciousness INFORMATION Material
+
+{Sse
+
+lam My body is
+
+| want to live : - | My body is used as an instrument
+
+| want to live with continuous Physical facility is required for
+
+happiness . nurturing, protection and right
+utilization of the body
+
+To understand and to live in harmony Production, protection and right
+
+at all levels of being (from self to utilization of physical faciiity is a part
+
+entire existence) is my program of of my program (<1/4")
+
+action for continuous happiness
+
+lam the: : | use the body as an instrument for
 --- page 9 ---
 Ans. The unethical practices are rapidly increasing and their impact is also becoming far-reaching.
 Corruption in multifarious manifestations is afflicting all the professions like a virus. Similarly, other
@@ -2610,6 +4500,7 @@ FIC QF OH ar
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/MBATech_Computer_7047/Universal Human Values-II/ANS_Universal Human Values-II(702BS0I022)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (9 pages), mean OCR confidence 94.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2655,6 +4546,16 @@ CO-   c Identify trust as a human value with an example.   [4M
 2;   ]
 SO-
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Activities of recognizing and fulfilling in the body: Apart from the activities of Breathing,
+Heartbeat, Digestion etc., the activities of the body can also be understood as recognition and
+fulfilment. In fact, the mutual interaction between any two material entities can be understood as
+recognition and fulfilment of their relationship. For example when we are thirsty and drink water,
+the body absorbs the water to the extent needed and uses for the nourishment of the various organs.
+Here, body recognizes its relation with water and fulfils it.
+
+Recognizing Fulfilling
 --- page 2 ---
 5 ;BL
 -3
@@ -2697,6 +4598,20 @@ CO-1 ;   "Process of self-exploration leads to realization and understanding." E
 SO-   Self exploration is the process to find out what is valuable to me by investigating within   M]
 myself, what is right for me, true for me, has to be judged within myself. Through self
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+integrity and consistency in relationships. To keep the trust on ourself and others, we have to pay attention on
+the intensions and to understand if we or the other person is not able to do benefit, it is because we are lacking
+competence. Trust is the result of right understanding of the intention of all the human beings around us. This
+trust helps to improve our competence in others and in ourselves.
+
+1. At the level of the individual - Transition towards happiness and prosperity will take place at the
+individual level. It will instil self confidence, spontaneous joyfulness, peace, contentment and bliss in
+the self, and also perseverance, bravery and generosity in living of the individual.
+
+2. At the level of the family - Mutual fulfilment in relationships, prosperity in the family, sustenance of
+joint families, family as the building block of societal order in place of law enforcing bodies, respect for
+all without differentiation on the basis of age, gender, caste, race, money, post, creed, etc.
 --- page 3 ---
 5 ;BL-   exploration we get the value of ourself. The process of self exploration is a follows: First of all
 5   we have to keep in mind that, Whatever is being presented is a PROPOSAL. • Don't assume it
@@ -2764,6 +4679,35 @@ Example 4 M
 Q4   [20
 M]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Self (1) Body (instrument)
+
+INFORMATION
+
+Consciousness instruction >
+
+Needs: Continuous Happiness
+
+Material
+
+Needs: Physical Facility
+
+Needs & activities are continuous in time Needs & activities are temporary
+Self-regulation | (> | Health
+
+Feeling of responsibility toward the body — for 1. Body acts according to i}
+Nurturing, Protection and Right Utilization of 2. Parts of the body are in harmony
+the Body (in order)
+
+Food... ace Shelter... Instruments...
+Required Required Required ina
+inalimited. ina limited limited quantity
+quantity quantity
+|_| Physical Facility for nurturing, protection and right utilisation of the Body 3]
+ie i is required in a limited quantity... ‘
+
+~ fiwe can see that, then we can understand the meaning of prosperity
 --- page 5 ---
 CO-3;   a Interpret interconnectedness and mutual fulfilment between the four orders of nature.   [10
 SO5;B   M]
@@ -2786,6 +4730,68 @@ CO-   a Explain the importance of ‘care' & 'respect' in human relationship wit
 4;BL-2
 M]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Relationship of Mutual Fulfillment Udy Uxndl aI as
+
+Physical Order, Bio Order and Animal Order are enriching for Human
+Order, but Human Order (without right understanding) is not fulfilling
+for any of the 4 orders
+
+Human beings have
+Bio Order
+natural acceptance Plants, Trees
+
+to be mutually na bal
+
+Physical
+Order
+Soil, Metal
+
+Animal Order
+Animals, Birds
+ha sree
+wy =i
+
+Human Order
+Human Being
+
+aM aae
+wa
+
+Once human beings understand,
+
+they can be fulfilling for all four orders
+
+cs
+
+Material Order and Plant/Bio-Order: The material order provides the nutrients to the plant/bio order
+in the form of soil, minerals, etc while the plant/ bio order decays and forms more nutrients, thus
+enriching the soil. The plant/bio order also decays to substances like oil and coal, which are stored
+deep within the earth as protection against the heat from the molten core inside the earth as well as
+the heat from the sun (today, this is the material we are removing and using as fuel). Plants help
+move the nutrients through the various layers of the soil. The roots of the plants hold the soil
+together and prevent the soil from erosion. Plants produce oxygen/ carbon dioxide and thus help in
+the movement of the material order. There is a mutual interdependency and co-existence we can see
+here.
+
+Material Order, Plant/Bio- Order and Animal Order: The material order provides the basis for
+movement of all animals, birds and fishes. Water, oxygen and other gases are necessities for both
+plants and
+
+animals. At the same time, the animal order helps enrich the soil with its excreta and this excreta
+helps the plants with nutrients. The plant/bio order provides food for animals, birds and fishes. The
+animal Order helps in pollination of the flowers of the pranic order.
+
+Material Order, Plant/Bio- Order, Animal Order and Human Order: We humans also have a natural
+acceptance to be mutually fulfilling to these three orders. However, we are not able to ensure
+this mutual fulfilment. We are dependent on the material order for soil and minerals and metals,
+but only end up polluting the soil and depleting the fossil fuels; we are dependent on plants for our
+food and holding together the larger ecosystem, but we have destroyed forests and destroyed
+multiple species of plants and herbs; we are dependent on animals to carry out our production and
+transportation activities, but have made many species of animals extinct, and are today known for
+our cruelty towards animals. We can see that there is interconnectedness and mutual fulfilment in
+all the orders of nature except human order. We have to work on this.
 --- page 6 ---
 5M
 Examples 5M
@@ -2825,6 +4831,26 @@ of the body.
 – Ausadhi – Chikitsa (Medicine – Treatment) 6 M,
 – Example 4 M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Love is called_the complete value since this is_the feeling of relatedness to all human beings. It is the
+emotion of strong affection and personal attachment. In other words, love is a feeling of warm personal
+attachment or deep affection, as for a parent, child, or friend. It starts with identifying that one is related to the
+other human being (the feeling of affection) and it slowly expands to the feeling of being related to all human
+beings.
+
+The word love can refer to a variety of different feelings, states, and attitudes, ranging from generic
+pleasure ("I loved that meal") to intense interpersonal attraction ("I love my wife"). "Love" can also refer
+specifically to the passionate desire and intimacy of romantic love, to the sexual love of Eros (cf. Greek
+words for love), to the emotional closeness of familial love, or to the platonic love that defines friendship, to
+the profound oneness or devotion of religious love. This diversity of uses and meanings, combined with the
+complexity of the feelings involved, makes love unusually difficult to consistently define, even compared to
+other emotional states.
+
+This feeling or value is also called the complete value since this is the feeling of relatedness to all
+human beings. It starts with identifying that one is related to the other human being (the feeling of affection)
+and it slowly expands to the feeling of being related to all human beings. The feeling of love leads to an
+undivided society, it starts from a family and slowly expands to the world family in the form of love.
 --- page 7 ---
 CO- 3; b Analyze the role of CEO as a ethical leadership for organizational growth.
 SO-   [10
@@ -2848,6 +4874,47 @@ L-2
 5M
 Any 5 Repercussions if not accomplished 5M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate
+of all the mutually interacting units - big or small, sentient or insentient together can be called nature. These
+units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation
+among all these units.
+
+The law of nature has a unique cause and effect system which must be understood in order to be in
+harmony with the natural law of things. Natural harmony is necessary for the following reasons:
+1. Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable
+natural resource can be avoided.
+2. Natural harmony with trees cure all problems like - reduction of wind velocity, energy savings, doing
+companion planting, development of an eco-subsystem in terms of establishing a forest garden, reduction of
+building heat.
+3. Itis possible to achieve natural harmony in the establishment, maintenance and management of educational
+institution like schools, colleges and universities.
+4. One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon
+the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at
+the material plane.
+5. To create harmony in nature, first of all we have to work in the direction of development of mankind from
+animal consciousness to human consciousness. And this entails working for the right understanding.
+
+Ans. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate
+of all the mutually interacting units - big or small, sentient or insentient together can be called nature. These
+units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation
+among all these units.
+
+The law of nature has a unique cause and effect system which must be understood in order to be in
+harmony with the natural law of things. Natural harmony is necessary for the following reasons:
+1. Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable
+natural resource can be avoided.
+2. Natural harmony with trees cure all problems like - reduction of wind velocity, energy savings, doing
+companion planting, development of an eco-subsystem in terms of establishing a forest garden, reduction of
+building heat.
+3. Itis possible to achieve natural harmony in the establishment, maintenance and management of educational
+institution like schools, colleges and universities.
+4. One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon
+the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at
+the material plane.
+5. To create harmony in nature, first of all we have to work in the direction of development of mankind from
+animal consciousness to human consciousness. And this entails working for the right understanding.
 --- page 8 ---
 Q7   [20
 M]
@@ -2859,6 +4926,39 @@ CO-   b Demonstrate the impact of unethical behaviour on professional as well as
 3;SO-   M]
 5;BL-2
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Normally we tend to believe that the body is an instrument for sensory enjoyment, which is not correct.
+We also happen to our body to exploit other human beings or rest of the nature, which is also not right
+utilization. Body is the instrument of the self and the_body needs to be given nutrition, protection and utilized
+to work as an efficient and effective tool for the right purpose. This utilization is termed as right utilization. In
+other words, employing our body as an instrument for sensory enjoyment, and to exploit other human beings
+or rest of the nature is not the right utilization. On the contrary utilizing our body for right behaviour and work
+is actually the right utilization of thebody.
+
+Self (1) Biady
+Consciousness INFORMATION Material
+
+{Sse
+
+lam My body is
+
+| want to live : - | My body is used as an instrument
+
+| want to live with continuous Physical facility is required for
+
+happiness . nurturing, protection and right
+utilization of the body
+
+To understand and to live in harmony Production, protection and right
+
+at all levels of being (from self to utilization of physical faciiity is a part
+
+entire existence) is my program of of my program (<1/4")
+
+action for continuous happiness
+
+lam the: : | use the body as an instrument for
 --- page 9 ---
 Ans. The unethical practices are rapidly increasing and their impact is also becoming far-reaching.
 Corruption in multifarious manifestations is afflicting all the professions like a virus. Similarly, other
@@ -2899,6 +4999,7 @@ FIC QF OH ar
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/MBATech_IT_7041/Universal Human Values-II/ANS_Universal Human Values-II(702BS0I022)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 16 May 2026
 - Text: mixed (9 pages), mean OCR confidence 94.2
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2944,6 +5045,16 @@ CO-   c Identify trust as a human value with an example.   [4M
 2;   ]
 SO-
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Activities of recognizing and fulfilling in the body: Apart from the activities of Breathing,
+Heartbeat, Digestion etc., the activities of the body can also be understood as recognition and
+fulfilment. In fact, the mutual interaction between any two material entities can be understood as
+recognition and fulfilment of their relationship. For example when we are thirsty and drink water,
+the body absorbs the water to the extent needed and uses for the nourishment of the various organs.
+Here, body recognizes its relation with water and fulfils it.
+
+Recognizing Fulfilling
 --- page 2 ---
 5 ;BL
 -3
@@ -2986,6 +5097,20 @@ CO-1 ;   "Process of self-exploration leads to realization and understanding." E
 SO-   Self exploration is the process to find out what is valuable to me by investigating within   M]
 myself, what is right for me, true for me, has to be judged within myself. Through self
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+integrity and consistency in relationships. To keep the trust on ourself and others, we have to pay attention on
+the intensions and to understand if we or the other person is not able to do benefit, it is because we are lacking
+competence. Trust is the result of right understanding of the intention of all the human beings around us. This
+trust helps to improve our competence in others and in ourselves.
+
+1. At the level of the individual - Transition towards happiness and prosperity will take place at the
+individual level. It will instil self confidence, spontaneous joyfulness, peace, contentment and bliss in
+the self, and also perseverance, bravery and generosity in living of the individual.
+
+2. At the level of the family - Mutual fulfilment in relationships, prosperity in the family, sustenance of
+joint families, family as the building block of societal order in place of law enforcing bodies, respect for
+all without differentiation on the basis of age, gender, caste, race, money, post, creed, etc.
 --- page 3 ---
 5 ;BL-   exploration we get the value of ourself. The process of self exploration is a follows: First of all
 5   we have to keep in mind that, Whatever is being presented is a PROPOSAL. • Don't assume it
@@ -3053,6 +5178,35 @@ Example 4 M
 Q4   [20
 M]
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Self (1) Body (instrument)
+
+INFORMATION
+
+Consciousness instruction >
+
+Needs: Continuous Happiness
+
+Material
+
+Needs: Physical Facility
+
+Needs & activities are continuous in time Needs & activities are temporary
+Self-regulation | (> | Health
+
+Feeling of responsibility toward the body — for 1. Body acts according to i}
+Nurturing, Protection and Right Utilization of 2. Parts of the body are in harmony
+the Body (in order)
+
+Food... ace Shelter... Instruments...
+Required Required Required ina
+inalimited. ina limited limited quantity
+quantity quantity
+|_| Physical Facility for nurturing, protection and right utilisation of the Body 3]
+ie i is required in a limited quantity... ‘
+
+~ fiwe can see that, then we can understand the meaning of prosperity
 --- page 5 ---
 CO-3;   a Interpret interconnectedness and mutual fulfilment between the four orders of nature.   [10
 SO5;B   M]
@@ -3075,6 +5229,68 @@ CO-   a Explain the importance of ‘care' & 'respect' in human relationship wit
 4;BL-2
 M]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Relationship of Mutual Fulfillment Udy Uxndl aI as
+
+Physical Order, Bio Order and Animal Order are enriching for Human
+Order, but Human Order (without right understanding) is not fulfilling
+for any of the 4 orders
+
+Human beings have
+Bio Order
+natural acceptance Plants, Trees
+
+to be mutually na bal
+
+Physical
+Order
+Soil, Metal
+
+Animal Order
+Animals, Birds
+ha sree
+wy =i
+
+Human Order
+Human Being
+
+aM aae
+wa
+
+Once human beings understand,
+
+they can be fulfilling for all four orders
+
+cs
+
+Material Order and Plant/Bio-Order: The material order provides the nutrients to the plant/bio order
+in the form of soil, minerals, etc while the plant/ bio order decays and forms more nutrients, thus
+enriching the soil. The plant/bio order also decays to substances like oil and coal, which are stored
+deep within the earth as protection against the heat from the molten core inside the earth as well as
+the heat from the sun (today, this is the material we are removing and using as fuel). Plants help
+move the nutrients through the various layers of the soil. The roots of the plants hold the soil
+together and prevent the soil from erosion. Plants produce oxygen/ carbon dioxide and thus help in
+the movement of the material order. There is a mutual interdependency and co-existence we can see
+here.
+
+Material Order, Plant/Bio- Order and Animal Order: The material order provides the basis for
+movement of all animals, birds and fishes. Water, oxygen and other gases are necessities for both
+plants and
+
+animals. At the same time, the animal order helps enrich the soil with its excreta and this excreta
+helps the plants with nutrients. The plant/bio order provides food for animals, birds and fishes. The
+animal Order helps in pollination of the flowers of the pranic order.
+
+Material Order, Plant/Bio- Order, Animal Order and Human Order: We humans also have a natural
+acceptance to be mutually fulfilling to these three orders. However, we are not able to ensure
+this mutual fulfilment. We are dependent on the material order for soil and minerals and metals,
+but only end up polluting the soil and depleting the fossil fuels; we are dependent on plants for our
+food and holding together the larger ecosystem, but we have destroyed forests and destroyed
+multiple species of plants and herbs; we are dependent on animals to carry out our production and
+transportation activities, but have made many species of animals extinct, and are today known for
+our cruelty towards animals. We can see that there is interconnectedness and mutual fulfilment in
+all the orders of nature except human order. We have to work on this.
 --- page 6 ---
 5M
 Examples 5M
@@ -3114,6 +5330,26 @@ of the body.
 – Ausadhi – Chikitsa (Medicine – Treatment) 6 M,
 – Example 4 M
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Love is called_the complete value since this is_the feeling of relatedness to all human beings. It is the
+emotion of strong affection and personal attachment. In other words, love is a feeling of warm personal
+attachment or deep affection, as for a parent, child, or friend. It starts with identifying that one is related to the
+other human being (the feeling of affection) and it slowly expands to the feeling of being related to all human
+beings.
+
+The word love can refer to a variety of different feelings, states, and attitudes, ranging from generic
+pleasure ("I loved that meal") to intense interpersonal attraction ("I love my wife"). "Love" can also refer
+specifically to the passionate desire and intimacy of romantic love, to the sexual love of Eros (cf. Greek
+words for love), to the emotional closeness of familial love, or to the platonic love that defines friendship, to
+the profound oneness or devotion of religious love. This diversity of uses and meanings, combined with the
+complexity of the feelings involved, makes love unusually difficult to consistently define, even compared to
+other emotional states.
+
+This feeling or value is also called the complete value since this is the feeling of relatedness to all
+human beings. It starts with identifying that one is related to the other human being (the feeling of affection)
+and it slowly expands to the feeling of being related to all human beings. The feeling of love leads to an
+undivided society, it starts from a family and slowly expands to the world family in the form of love.
 --- page 7 ---
 CO- 3; b Analyze the role of CEO as a ethical leadership for organizational growth.
 SO-   [10
@@ -3137,6 +5373,47 @@ L-2
 5M
 Any 5 Repercussions if not accomplished 5M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate
+of all the mutually interacting units - big or small, sentient or insentient together can be called nature. These
+units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation
+among all these units.
+
+The law of nature has a unique cause and effect system which must be understood in order to be in
+harmony with the natural law of things. Natural harmony is necessary for the following reasons:
+1. Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable
+natural resource can be avoided.
+2. Natural harmony with trees cure all problems like - reduction of wind velocity, energy savings, doing
+companion planting, development of an eco-subsystem in terms of establishing a forest garden, reduction of
+building heat.
+3. Itis possible to achieve natural harmony in the establishment, maintenance and management of educational
+institution like schools, colleges and universities.
+4. One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon
+the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at
+the material plane.
+5. To create harmony in nature, first of all we have to work in the direction of development of mankind from
+animal consciousness to human consciousness. And this entails working for the right understanding.
+
+Ans. Combination of all that is in solid, liquid or gas state is called as nature. In other words, the aggregate
+of all the mutually interacting units - big or small, sentient or insentient together can be called nature. These
+units are infinite in number and we could easily observe that there exists a dynamic balance, self regulation
+among all these units.
+
+The law of nature has a unique cause and effect system which must be understood in order to be in
+harmony with the natural law of things. Natural harmony is necessary for the following reasons:
+1. Natural harmony is necessary to solve the problem of global warming and depletion of non-renewable
+natural resource can be avoided.
+2. Natural harmony with trees cure all problems like - reduction of wind velocity, energy savings, doing
+companion planting, development of an eco-subsystem in terms of establishing a forest garden, reduction of
+building heat.
+3. Itis possible to achieve natural harmony in the establishment, maintenance and management of educational
+institution like schools, colleges and universities.
+4. One can understand the depths of harmony and alignment in natural by contemplating and reflecting upon
+the natural order. It is possible to unravel the mystery of the natural synthesis in the midst of ongoing chaos at
+the material plane.
+5. To create harmony in nature, first of all we have to work in the direction of development of mankind from
+animal consciousness to human consciousness. And this entails working for the right understanding.
 --- page 8 ---
 Q7   [20
 M]
@@ -3148,6 +5425,39 @@ CO-   b Demonstrate the impact of unethical behaviour on professional as well as
 3;SO-   M]
 5;BL-2
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Normally we tend to believe that the body is an instrument for sensory enjoyment, which is not correct.
+We also happen to our body to exploit other human beings or rest of the nature, which is also not right
+utilization. Body is the instrument of the self and the_body needs to be given nutrition, protection and utilized
+to work as an efficient and effective tool for the right purpose. This utilization is termed as right utilization. In
+other words, employing our body as an instrument for sensory enjoyment, and to exploit other human beings
+or rest of the nature is not the right utilization. On the contrary utilizing our body for right behaviour and work
+is actually the right utilization of thebody.
+
+Self (1) Biady
+Consciousness INFORMATION Material
+
+{Sse
+
+lam My body is
+
+| want to live : - | My body is used as an instrument
+
+| want to live with continuous Physical facility is required for
+
+happiness . nurturing, protection and right
+utilization of the body
+
+To understand and to live in harmony Production, protection and right
+
+at all levels of being (from self to utilization of physical faciiity is a part
+
+entire existence) is my program of of my program (<1/4")
+
+action for continuous happiness
+
+lam the: : | use the body as an instrument for
 --- page 9 ---
 Ans. The unethical practices are rapidly increasing and their impact is also becoming far-reaching.
 Corruption in multifarious manifestations is afflicting all the professions like a virus. Similarly, other
@@ -3436,6 +5746,57 @@ pervading. This is how we recognize them as units. 4 M
 proper examples of nature and space with the above statement 6 M
 Q4   Answer the following   [20]
 6
+
+[Text in pictures on this page, read by OCR]
+Knowing, | Assuming, Recognizing, Fulfilling
+
+Preconditioning or
+Assuming without Knowing,
+
+Problem >
+
+Assumptions keep changing
+
+Education-Sanskar Conduct is indefinite
+(Dependence, Enslavement)
+
+Solution
+
+=: { knowing through self-verification
+
+on the basis of Natural Acceptance &
+
+— on the basis of living accordingly
+
+Assumptions are definite
+(on the basis of Knowing)
+
+Conduct is definite (Self-organised)
+
+Human Belng Fi Co-existence
+
+Self ©
+
+Body
+
+Need 7 “| Happiness (8.9. Respect) Physical Facility (e.g. Food)
+
+In Time - Continuous - Temporary
+
+In Quantity | Qualitative Quantitative
+
+(is Feeling) F (Required in Limited Quantity)
+
+Fulfilled By | Right Understanding & Right Feeling | Physio-chemical Things
+Activity . -. Desire, Thought, Expectation...- Eating, Walking...
+
+In Time ‘Continuous. Temporary
+Response - Knowing, Assuming,
+
+= Recognising, Fulfilling Recognising, Fulfilling
+v v
+
+Consciousness Material ’
 --- page 7 ---
 CO-3; SO-5;BL-5   a Explain two kinds of realities in existence: units and space.
 Units:Each order is composed of a number of ‘things’. Each one of
@@ -3967,6 +6328,56 @@ Illustrate with example.
 Proper examples 4 M
 CO-3; SO5;BL-5   b Assess the statement "Nature is finite while space is infinite."
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Knowing, | Assuming, Recognizing, Fulfilling
+
+Preconditioning or
+Assuming without Knowing,
+
+Problem *
+
+Assumptions keep changing
+
+Education-Sanskar Conduct is indefifiite
+(Dependence, Enslavement)
+
+Knowing through self-verification
+
+Solution r
+— on the basis of Natural Acceptance &
+
+— on the basis of living accordingly
+
+Assumptions are definite
+(on the basis of Knowing)
+
+Conduct is definite (Séif-organised)
+
+Human Belng Co-existence
+
+"Self ©
+
+Body
+
+Need 7 “| Happiness (6.9. Respect) Physical Facility (e.g. Food)
+
+In Time_ Continuous - Temporary
+
+In Quantity | Qualitative Quantitative
+
+(is Feeling) Z (Required in Limited Quantity)
+
+Fulfilled By | Right Understanding & Right Feeling | Physio-chemical Things
+Activity . -. Desire, Thought, Expectation...- Eating, Walking...
+
+In Time ‘Continuous. Temporary
+Response - Knowing, Assuming,
+
+= Recognising, Fulfilling Recognising, Fulfilling
+v v
+
+Consciousness Material ’
 --- page 6 ---
 Nature has four orders and there are units in each order. Each unit is
 limited in size. The size rangesfrom being really small (atom) to really
@@ -4357,6 +6768,39 @@ Otherwise Evaluation (a-mülyana) – To evaluate otherwise than what it is.
 2 M
 Example 2 M
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+2. Activities of knowing, assuming, recognizing and fulfilling in the self ('I'): When it comes to self
+(jivan or T'), which is a conscious entity; in addition to ‘recognizing and fulfilling’, there is also the activity
+of assuming and that of knowing. In fact, recognizing and fulfilling in case of human beings will
+depend upon knowing and/or assuming.
+
+a. We assume - We all make assumptions and our response (recognition and fulfilment) is dependent on the
+assumption. For ex.: If I see a snake and assumed it to be a rope, I shall respond differently to it, than if I take
+it to bea snake itself. We call this activity 'assuming or mannana’.
+b. We recognize - We all recognize things today, we recognize a variety of things. Like, we recognize water,
+our parents, friends, etc. We call this activity ‘recognizing or pahachaanana’. The recognizing in T' depends on
+assuming.
+c. We fulfil -The response that follows recognition is called the activity of ‘fulfilling or nirvaha karna'. The
+fulfilment depends on the recognition. For ex.: Once we recognize water, we take it. Taken together we can
+write it as (in I):
+Assuming Recognizing Fulfilling
+
+There is another activity that exists in us (in T’). This activity is called 'knowing'. Knowing means we
+have the right understanding - the understanding of harmony at all levels of our living. When we have the right
+understanding, when we have the knowledge of reality, it is definite, and then assuming becomes according
+to the knowing, and hence recognizing and fulfilling becomes definite, or according to knowing.
+Until then, it is subject to beliefs and assumptions, and these keep changing. When we list these down;
+Knowing
+
+Desiring,
+thinking ete.
+Breathing, heart-
+beat, etc.
+
+Activities are :
+Knowing, assuming,
+Recognizing, fulfilling
 --- page 3 ---
 d Explain animal order of nature.   [4M]
 CO-3 ;
@@ -4389,6 +6833,29 @@ meaning of good health, health cannot be achieved and also it is necessary to ma
 use of the goal to achieve the goal of the goal. 3 M
 Two examples 7 M
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. Professional ethics means to develop professional competence with ethical human conduct.
+Developing ethical competence in the individual (profession) is the only effective way to ensure
+professional ethics. The development of ethical competence is a long term process to be achieved through
+appropriate value education. As profession is only a subset of the life activities, the competence in
+profession will only be the manifestation of one's right understanding. The salient features characterizing
+this competence can be summarized as follows:
+
+1._Clarity about comprehensive human goal: Samadhan - Samridhi - Abhay - Sah-astitva, and its
+fulfilment through universal human order.
+
+2._Confidence in oneself: Based on the right understanding of oneself and the rest of
+
+existence.
+
+3._Mutually fulfilling behaviour: Clarity and confidence in ethical human conduct and its correlation
+with sustained personal as well as collective happiness and prosperity.
+
+4._Mutually enriching interaction with nature: Self-sufficiency in fulfilment of physical needs; ability
+to assess the needs for physical facilities for the family and their fulfilment through production systems
+ensuring harmony in the nature. In the light of the above, one acquires the ability to identify and develop
+appropriate (people-friendly and eco-friendly) technologies, production systems etc.
 --- page 4 ---
 CO-2;SO- b Compare the functions of the Self and the Body. Illustrate with example.
 5;BL-4   [10
@@ -4403,6 +6870,70 @@ M]
 4 M
 Example 6 M
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+All Human Activities
+
+eee
+
+L Activities going
+
+in the Self CT)
+(Activities that are
+Only happeraing in “I”)}
+
+activities, they are
+im “7”
+
+2. Activities involving
+both “I~ and Body
+
+(Ac&ivities that are
+happeraing with the
+irvolvernent of both
+“2” and the “Body”)
+
+Seeing
+Talking
+Listening
+Eating
+Walking
+
+Th oe =
+
+These activities are not happening by themselves. The
+entity that is responsible for all these activities is “T*
+
+3. Activities going an
+in the Body
+
+(Activities that are
+going on ory in the
+Body, ut with the
+consent of “I")
+
+|
+
+Breathing
+
+Ans. Love 1s called_the complete value since this 1s_the feeling of relatedness to all human beings. It is the
+emotion of strong affection and personal attachment. In other words, love is a feeling of warm personal
+attachment or deep affection, as for a parent, child, or friend. It starts with identifying that one is related to the
+other human being (the feeling of affection) and it slowly expands to the feeling of being related to all human
+beings.
+
+The word Jove can refer to a variety of different feelings, states, and attitudes, ranging from generic
+pleasure ("I loved that meal") to intense interpersonal attraction ("I love my wife"). "Love" can also refer
+specifically to the passionate desire and intimacy of romantic love, to the sexual love of Eros (cf. Greek
+words for love), to the emotional closeness of familial love, or to the platonic love that defines friendship, to
+the profound oneness or devotion of religious love. This diversity of uses and meanings, combined with the
+complexity of the feelings involved, makes love unusually difficult to consistently define, even compared to
+other emotional states.
+
+This feeling or value is also called the complete value since this is the feeling of relatedness to all
+human beings. It starts with identifying that one is related to the other human being (the feeling of affection)
+and it slowly expands to the feeling of being related to all human beings. The feeling of love leads to an
+undivided society, it starts from a family and slowly expands to the world family in the form of love.
 --- page 5 ---
 b Demonstrate your vision of happy and prosperous life using suitable examples.   [10
 M]
@@ -4441,6 +6972,31 @@ proper examples.
 4;BL-2   [10
 M]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Ans, We are trying to achieve happiness and prosperity by maximizing accumulation and consumption of
+physical facilities. It is becoming anti-ecological and anti-people, and threatening the human survival itself.
+Some of the consequences of such trend are summarized below:
+
+* At the level of individual - rising problems of depression, psychological disorders, suicides, stress,
+insecurity, etc.
+
++ At the level of family - breaking of joint families, mistrust, and conflict between older and younger
+generations, insecurity in relationships, divorce, dowry tortures, etc.
+
+Ans. Our basic aspirations are happiness (mutual fulfillment) and prosperity (mutual prosperity). Happiness
+is ensured by the relationships with other human beings and prosperity is ensured by working on physical
+facilities.
+
+Right Understanding: This refers to higher order human skills - the need to learn and utilize our intelligence
+most effectively.
+
+Good Relationships: This refers to the interpersonal relationships that a person builds in his or her life - at
+home, at the workplace and in society.
+
+Physical Facilities: This includes the physiological needs of individuals and indicates the necessities as well
+as the comforts of life. It means the feeling of having or being able to have more physical facilities than is
+needed.
 --- page 6 ---
 4 M
 Examples 6 M
@@ -4499,6 +7055,44 @@ comforms to his or her sanskar or has 'sanskaar conformance'.
 Education – Right Living ( Siksha – Sanskar)
 Education = To understand Harmony at all four levels of living
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Ans. The right understanding gained through self-exploration also enables us to identify the
+definitiveness of human conduct which may also be called the ethical human conduct. It is thesame for
+all human beings. So we are also able to understand the universality of ethical human conduct which is
+in consonance with the universal human values. Each one of us wants to have a definite conduct but
+presently we may not be able to ensure that. This is because we are presently living on the basis of our
+pre-conditionings or assumptions which are not in consonance with the truth or the right understanding.
+But, this situation neither gives satisfaction to us not to others. We do see the human beings struggling
+to find out what the right conduct is and in the process, exhibiting a wide variety of attributes. We also
+see people debating endlessly about what they consider to be ethical. But unless we have the right
+understanding, we are not able to identify the definitiveness of ethical human conduct. It can be
+understood in terms of the following:
+
+1. Values (Mulya) : Competence of living in accordance with universal human values or the
+participation of a unit in the larger order- its natural characteristics or svabhava is known as values.
+Values are a part of our ethical conduct.
+
+2. Policy (Niti) : policy is the decision (plan, program, implementation, results, evaluation) about the
+enrichment, protection and right utilization of the resources (self, body and wealth - mana, tana and
+dhana).
+
+3. Character (Charitra) : The definiteness of my desire, thought and selection gives definiteness to my
+living. Definitiveness of character is the outcome of the definiteness of my behaviour and work.
+
+Ans. The feeling of care is the feeling to nurture and protect the body of our relative. Or in other words a state
+of mind in which one is troubled; worry, anxiety, or concern is called care. Care is level of active concern, or
+lack of negligence, towards avoidance of possible dangers, mistakes, pitfalls, and risks, demanded of a party
+as a duty or legal obligation. We understand a human being as a coexistence of the self (‘I') and the body, and
+the body is an instrument of 'T’. Based on this understanding, we take the responsibility of nurturing and
+protecting the body of ourrelatives.
+
+Ans. Affection is the feeling of being related to the other. Affection comes when I recognize that we both want
+to make each other happy and both of us are similar. Then for the first time, I feel that I am related to the other
+that the other is a relative of mine. This feeling is called affection. The feeling of affection comes only if trust
+and respect are already ensured. Without trust and respect, we feel the other is trying to make us unhappy, does
+not wish well for us and hence we can never feel affection for him/her. We always see the other as being in
+opposition.
 --- page 8 ---
 Right Living = Commitment and Preparedness to live in harmony at all four levels of
 living
@@ -4530,4 +7124,44 @@ SO-5 ;BL-   [10
 5M
 Minimum 2 examples of any unethical work 5M,
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+The external object is temporary in nature the contact of the external object with the body is temporary
+in nature. The sensation from the body to 'l' is temporary. And at last the taste of the sensation
+from the body in T' is also temporary. Therefore, if the source for our happiness is temporary by definition,
+then our need for continuous happiness will never be fulfilled. Hence, any sensation we have from the body
+can't be the source for our lasting happiness.
+
+To sum up, if our desires, thoughts and expectations are based on pre-conditionings, we are generally in
+a state of great confusion. This leads to confusion, unhappiness, conflict and stress. We have lack of clarity
+about the self, relationships, society, nature and existence. We have lack of confidence. We have a feeling of
+being unfulfilled, unsettled. We operate largely on the basis of the environment, driven from the outside - either
+from sensations, or based on pre-conditionings.
+
+Ans. The unethical practices are rapidly increasing and their impact is also becoming far-reaching.
+Corruption in multifarious manifestations is afflicting all the professions like a virus. Similarly, other
+unethical practices are also proliferating and getting out of control. It appears as if human ingenuity is
+being increasingly harnessed to devise newer and subtler ways to thwart the ethical conduct of profession,
+to twist the laws and to beat the system. As a result of this ‘epidemic’ of unethical practices, we are
+frequently coming across serious scams, major economic offences and kickbacks in large scale
+purchases. Lapses on the part of big organizations in ethical conduct of profession have led to large scale
+disasters, such as Bhopal Gas Tragedy, the Chernobyl Disaster, etc. endangering public life and
+prosperity, and causing serious degradation to environment.
+
+This menace becomes even more serious as unethical politics are adopted collectively by large
+industries, cartels, multinational corporations and even national governments. We are also quite familiar
+how misleading propaganda, advertisements using sex-appeal, the influence of show business ad
+celebrities are being employed to influence the public mind for promoting all types of products which
+are not quite conductive to human welfare. We may enlist some salient categories of these unethical
+practices as follows:
+
+* Corruption in multiple forms and at various levels.
+* Tax evasion, misappropriation and misuse of public funds.
+* Misleading propaganda, unethical advertisements and sale promotion.
+* Cut-throat competition.
++ Exploiting the weakness of consumers through various enticements
++ Adulteration and spurious production
++ Endangering the health and safety of public at large.
+* Hoarding and over-charging etc.
+OOOO the list could be much longer.
 ````

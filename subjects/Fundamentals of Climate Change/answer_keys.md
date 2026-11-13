@@ -33,6 +33,64 @@ Q1   Answer briefly:   [20]
 CO-1;   a.
 BL-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Concept / Component
+
+Definition of Weather
+
+Definition of Climate
+
+Key Difference between Weather
+
+and Climate
+
+Definition of Packrat Middens
+
+Role of Packrat Middens in
+Vegetation Study
+
+Brief Explanation
+
+Short-term atmospheric conditions (temperature,
+humidity, rainfall, wind) at a specific place and time.
+
+Long-term average pattern of weather (usually over 30
+years) in a region.
+
+Weather = short-term, variable; Climate = long-term,
+
+consistent pattern,
+
+Ancient nests built by packrats containing plant
+fragments, seeds, and debris preserved by their resin-like
+
+urine.
+
+Scientists analyze preserved plant remains to reconstruct
+
+past vegetation and climate changes.
+
+Example / Importance
+
+Example: A thunderstorm occurring
+in Mumbai today.
+
+Example: Tropical monsoon climate
+of India,
+
+Climate describes the average of
+
+many weather events.
+
+Found in arid regions like North
+America.
+
+Helps understand how ecosystems
+
+responded to ancient climate shifts.
+
+1
 --- page 2 ---
 Concept / Component Brief Explanation Example / Importance Marks
 
@@ -385,6 +443,33 @@ CO-1
 b.   [05]
 CO-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Question: Define greenhouse gases. List the major types of greenhouse gases and explain their roles in the
+
+Earth's atmosphere.
+
+Component Explanation Marks
+
+Definition Gases that trap heat in atmosphere
+
+Major gases COz, CHs, N20, water vapour, O3
+
+Role of COz Major contributor to warming
+
+Role of CHa/N2O High heat-trapping potential
+
+Overall effect Maintains Earth's temperature
+
+Question: Compare climate proxies and archives using examples.
+
+Component Explanation Marks
+Climate proxies Indirect indicators of past climate 1
+Climate archives Natural records preserving climate data 1
+Proxy examples Tree rings, pollen, isotopes 1
+Archive examples Ice cores, sediments, corals 1
+
+Key difference Indicator vs storage of climate information 1
 --- page 2 ---
 c. Question: What do you mean by Short term and Long Term Mitigation planning for climate change?} | [05]
 
@@ -611,6 +696,33 @@ CO-1
 b.   [05]
 CO-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Question: Define greenhouse gases. List the major types of greenhouse gases and explain their roles in the
+
+Earth's atmosphere.
+
+Component Explanation Marks
+
+Definition Gases that trap heat in atmosphere
+
+Major gases COz, CHs, N20, water vapour, O3
+
+Role of COz Major contributor to warming
+
+Role of CHa/N2O High heat-trapping potential
+
+Overall effect Maintains Earth's temperature
+
+Question: Compare climate proxies and archives using examples.
+
+Component Explanation Marks
+Climate proxies Indirect indicators of past climate 1
+Climate archives Natural records preserving climate data 1
+Proxy examples Tree rings, pollen, isotopes 1
+Archive examples Ice cores, sediments, corals 1
+
+Key difference Indicator vs storage of climate information 1
 --- page 2 ---
 c. Question: What do you mean by Short term and Long Term Mitigation planning for climate change?} | [05]
 
@@ -837,6 +949,33 @@ CO-1
 b.   [05]
 CO-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Question: Define greenhouse gases. List the major types of greenhouse gases and explain their roles in the
+
+Earth's atmosphere.
+
+Component Explanation Marks
+
+Definition Gases that trap heat in atmosphere
+
+Major gases COz, CHs, N20, water vapour, O3
+
+Role of COz Major contributor to warming
+
+Role of CHa/N2O High heat-trapping potential
+
+Overall effect Maintains Earth's temperature
+
+Question: Compare climate proxies and archives using examples.
+
+Component Explanation Marks
+Climate proxies Indirect indicators of past climate 1
+Climate archives Natural records preserving climate data 1
+Proxy examples Tree rings, pollen, isotopes 1
+Archive examples Ice cores, sediments, corals 1
+
+Key difference Indicator vs storage of climate information 1
 --- page 2 ---
 c. Question: What do you mean by Short term and Long Term Mitigation planning for climate change?} | [05]
 
@@ -1063,6 +1202,33 @@ CO-1
 b.   [05]
 CO-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Question: Define greenhouse gases. List the major types of greenhouse gases and explain their roles in the
+
+Earth's atmosphere.
+
+Component Explanation Marks
+
+Definition Gases that trap heat in atmosphere
+
+Major gases COz, CHs, N20, water vapour, O3
+
+Role of COz Major contributor to warming
+
+Role of CHa/N2O High heat-trapping potential
+
+Overall effect Maintains Earth's temperature
+
+Question: Compare climate proxies and archives using examples.
+
+Component Explanation Marks
+Climate proxies Indirect indicators of past climate 1
+Climate archives Natural records preserving climate data 1
+Proxy examples Tree rings, pollen, isotopes 1
+Archive examples Ice cores, sediments, corals 1
+
+Key difference Indicator vs storage of climate information 1
 --- page 2 ---
 c. Question: What do you mean by Short term and Long Term Mitigation planning for climate change?} | [05]
 
@@ -1289,6 +1455,33 @@ CO-1
 b.   [05]
 CO-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Question: Define greenhouse gases. List the major types of greenhouse gases and explain their roles in the
+
+Earth's atmosphere.
+
+Component Explanation Marks
+
+Definition Gases that trap heat in atmosphere
+
+Major gases COz, CHs, N20, water vapour, O3
+
+Role of COz Major contributor to warming
+
+Role of CHa/N2O High heat-trapping potential
+
+Overall effect Maintains Earth's temperature
+
+Question: Compare climate proxies and archives using examples.
+
+Component Explanation Marks
+Climate proxies Indirect indicators of past climate 1
+Climate archives Natural records preserving climate data 1
+Proxy examples Tree rings, pollen, isotopes 1
+Archive examples Ice cores, sediments, corals 1
+
+Key difference Indicator vs storage of climate information 1
 --- page 2 ---
 c. Question: What do you mean by Short term and Long Term Mitigation planning for climate change?} | [05]
 
@@ -1515,6 +1708,33 @@ CO-1
 b.   [05]
 CO-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Question: Define greenhouse gases. List the major types of greenhouse gases and explain their roles in the
+
+Earth's atmosphere.
+
+Component Explanation Marks
+
+Definition Gases that trap heat in atmosphere
+
+Major gases COz, CHs, N20, water vapour, O3
+
+Role of COz Major contributor to warming
+
+Role of CHa/N2O High heat-trapping potential
+
+Overall effect Maintains Earth's temperature
+
+Question: Compare climate proxies and archives using examples.
+
+Component Explanation Marks
+Climate proxies Indirect indicators of past climate 1
+Climate archives Natural records preserving climate data 1
+Proxy examples Tree rings, pollen, isotopes 1
+Archive examples Ice cores, sediments, corals 1
+
+Key difference Indicator vs storage of climate information 1
 --- page 2 ---
 c. Question: What do you mean by Short term and Long Term Mitigation planning for climate change?} | [05]
 
@@ -1741,6 +1961,33 @@ CO-1
 b.   [05]
 CO-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Question: Define greenhouse gases. List the major types of greenhouse gases and explain their roles in the
+
+Earth's atmosphere.
+
+Component Explanation Marks
+
+Definition Gases that trap heat in atmosphere
+
+Major gases COz, CHs, N20, water vapour, O3
+
+Role of COz Major contributor to warming
+
+Role of CHa/N2O High heat-trapping potential
+
+Overall effect Maintains Earth's temperature
+
+Question: Compare climate proxies and archives using examples.
+
+Component Explanation Marks
+Climate proxies Indirect indicators of past climate 1
+Climate archives Natural records preserving climate data 1
+Proxy examples Tree rings, pollen, isotopes 1
+Archive examples Ice cores, sediments, corals 1
+
+Key difference Indicator vs storage of climate information 1
 --- page 2 ---
 c. Question: What do you mean by Short term and Long Term Mitigation planning for climate change?} | [05]
 
@@ -1967,6 +2214,33 @@ CO-1
 b.   [05]
 CO-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Question: Define greenhouse gases. List the major types of greenhouse gases and explain their roles in the
+
+Earth's atmosphere.
+
+Component Explanation Marks
+
+Definition Gases that trap heat in atmosphere
+
+Major gases COz, CHs, N20, water vapour, O3
+
+Role of COz Major contributor to warming
+
+Role of CHa/N2O High heat-trapping potential
+
+Overall effect Maintains Earth's temperature
+
+Question: Compare climate proxies and archives using examples.
+
+Component Explanation Marks
+Climate proxies Indirect indicators of past climate 1
+Climate archives Natural records preserving climate data 1
+Proxy examples Tree rings, pollen, isotopes 1
+Archive examples Ice cores, sediments, corals 1
+
+Key difference Indicator vs storage of climate information 1
 --- page 2 ---
 c. Question: What do you mean by Short term and Long Term Mitigation planning for climate change?} | [05]
 
@@ -2193,6 +2467,33 @@ CO-1
 b.   [05]
 CO-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Question: Define greenhouse gases. List the major types of greenhouse gases and explain their roles in the
+
+Earth's atmosphere.
+
+Component Explanation Marks
+
+Definition Gases that trap heat in atmosphere
+
+Major gases COz, CHs, N20, water vapour, O3
+
+Role of COz Major contributor to warming
+
+Role of CHa/N2O High heat-trapping potential
+
+Overall effect Maintains Earth's temperature
+
+Question: Compare climate proxies and archives using examples.
+
+Component Explanation Marks
+Climate proxies Indirect indicators of past climate 1
+Climate archives Natural records preserving climate data 1
+Proxy examples Tree rings, pollen, isotopes 1
+Archive examples Ice cores, sediments, corals 1
+
+Key difference Indicator vs storage of climate information 1
 --- page 2 ---
 c. Question: What do you mean by Short term and Long Term Mitigation planning for climate change?} | [05]
 
@@ -2419,6 +2720,33 @@ CO-1
 b.   [05]
 CO-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Question: Define greenhouse gases. List the major types of greenhouse gases and explain their roles in the
+
+Earth's atmosphere.
+
+Component Explanation Marks
+
+Definition Gases that trap heat in atmosphere
+
+Major gases COz, CHs, N20, water vapour, O3
+
+Role of COz Major contributor to warming
+
+Role of CHa/N2O High heat-trapping potential
+
+Overall effect Maintains Earth's temperature
+
+Question: Compare climate proxies and archives using examples.
+
+Component Explanation Marks
+Climate proxies Indirect indicators of past climate 1
+Climate archives Natural records preserving climate data 1
+Proxy examples Tree rings, pollen, isotopes 1
+Archive examples Ice cores, sediments, corals 1
+
+Key difference Indicator vs storage of climate information 1
 --- page 2 ---
 c. Question: What do you mean by Short term and Long Term Mitigation planning for climate change?} | [05]
 
@@ -2645,6 +2973,33 @@ CO-1
 b.   [05]
 CO-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Question: Define greenhouse gases. List the major types of greenhouse gases and explain their roles in the
+
+Earth's atmosphere.
+
+Component Explanation Marks
+
+Definition Gases that trap heat in atmosphere
+
+Major gases COz, CHs, N20, water vapour, O3
+
+Role of COz Major contributor to warming
+
+Role of CHa/N2O High heat-trapping potential
+
+Overall effect Maintains Earth's temperature
+
+Question: Compare climate proxies and archives using examples.
+
+Component Explanation Marks
+Climate proxies Indirect indicators of past climate 1
+Climate archives Natural records preserving climate data 1
+Proxy examples Tree rings, pollen, isotopes 1
+Archive examples Ice cores, sediments, corals 1
+
+Key difference Indicator vs storage of climate information 1
 --- page 2 ---
 c. Question: What do you mean by Short term and Long Term Mitigation planning for climate change?} | [05]
 
@@ -2871,6 +3226,33 @@ CO-1
 b.   [05]
 CO-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Question: Define greenhouse gases. List the major types of greenhouse gases and explain their roles in the
+
+Earth's atmosphere.
+
+Component Explanation Marks
+
+Definition Gases that trap heat in atmosphere
+
+Major gases COz, CHs, N20, water vapour, O3
+
+Role of COz Major contributor to warming
+
+Role of CHa/N2O High heat-trapping potential
+
+Overall effect Maintains Earth's temperature
+
+Question: Compare climate proxies and archives using examples.
+
+Component Explanation Marks
+Climate proxies Indirect indicators of past climate 1
+Climate archives Natural records preserving climate data 1
+Proxy examples Tree rings, pollen, isotopes 1
+Archive examples Ice cores, sediments, corals 1
+
+Key difference Indicator vs storage of climate information 1
 --- page 2 ---
 c. Question: What do you mean by Short term and Long Term Mitigation planning for climate change?} | [05]
 
@@ -3097,6 +3479,33 @@ CO-1
 b.   [05]
 CO-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Question: Define greenhouse gases. List the major types of greenhouse gases and explain their roles in the
+
+Earth's atmosphere.
+
+Component Explanation Marks
+
+Definition Gases that trap heat in atmosphere
+
+Major gases COz, CHs, N20, water vapour, O3
+
+Role of COz Major contributor to warming
+
+Role of CHa/N2O High heat-trapping potential
+
+Overall effect Maintains Earth's temperature
+
+Question: Compare climate proxies and archives using examples.
+
+Component Explanation Marks
+Climate proxies Indirect indicators of past climate 1
+Climate archives Natural records preserving climate data 1
+Proxy examples Tree rings, pollen, isotopes 1
+Archive examples Ice cores, sediments, corals 1
+
+Key difference Indicator vs storage of climate information 1
 --- page 2 ---
 c. Question: What do you mean by Short term and Long Term Mitigation planning for climate change?} | [05]
 
@@ -3323,6 +3732,33 @@ CO-1
 b.   [05]
 CO-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Question: Define greenhouse gases. List the major types of greenhouse gases and explain their roles in the
+
+Earth's atmosphere.
+
+Component Explanation Marks
+
+Definition Gases that trap heat in atmosphere
+
+Major gases COz, CHs, N20, water vapour, O3
+
+Role of COz Major contributor to warming
+
+Role of CHa/N2O High heat-trapping potential
+
+Overall effect Maintains Earth's temperature
+
+Question: Compare climate proxies and archives using examples.
+
+Component Explanation Marks
+Climate proxies Indirect indicators of past climate 1
+Climate archives Natural records preserving climate data 1
+Proxy examples Tree rings, pollen, isotopes 1
+Archive examples Ice cores, sediments, corals 1
+
+Key difference Indicator vs storage of climate information 1
 --- page 2 ---
 c. Question: What do you mean by Short term and Long Term Mitigation planning for climate change?} | [05]
 
@@ -3549,6 +3985,33 @@ CO-1
 b.   [05]
 CO-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Question: Define greenhouse gases. List the major types of greenhouse gases and explain their roles in the
+
+Earth's atmosphere.
+
+Component Explanation Marks
+
+Definition Gases that trap heat in atmosphere
+
+Major gases COz, CHs, N20, water vapour, O3
+
+Role of COz Major contributor to warming
+
+Role of CHa/N2O High heat-trapping potential
+
+Overall effect Maintains Earth's temperature
+
+Question: Compare climate proxies and archives using examples.
+
+Component Explanation Marks
+Climate proxies Indirect indicators of past climate 1
+Climate archives Natural records preserving climate data 1
+Proxy examples Tree rings, pollen, isotopes 1
+Archive examples Ice cores, sediments, corals 1
+
+Key difference Indicator vs storage of climate information 1
 --- page 2 ---
 c. Question: What do you mean by Short term and Long Term Mitigation planning for climate change?} | [05]
 
@@ -3775,6 +4238,33 @@ CO-1
 b.   [05]
 CO-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Question: Define greenhouse gases. List the major types of greenhouse gases and explain their roles in the
+
+Earth's atmosphere.
+
+Component Explanation Marks
+
+Definition Gases that trap heat in atmosphere
+
+Major gases COz, CHs, N20, water vapour, O3
+
+Role of COz Major contributor to warming
+
+Role of CHa/N2O High heat-trapping potential
+
+Overall effect Maintains Earth's temperature
+
+Question: Compare climate proxies and archives using examples.
+
+Component Explanation Marks
+Climate proxies Indirect indicators of past climate 1
+Climate archives Natural records preserving climate data 1
+Proxy examples Tree rings, pollen, isotopes 1
+Archive examples Ice cores, sediments, corals 1
+
+Key difference Indicator vs storage of climate information 1
 --- page 2 ---
 c. Question: What do you mean by Short term and Long Term Mitigation planning for climate change?} | [05]
 
@@ -4001,6 +4491,33 @@ CO-1
 b.   [05]
 CO-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Question: Define greenhouse gases. List the major types of greenhouse gases and explain their roles in the
+
+Earth's atmosphere.
+
+Component Explanation Marks
+
+Definition Gases that trap heat in atmosphere
+
+Major gases COz, CHs, N20, water vapour, O3
+
+Role of COz Major contributor to warming
+
+Role of CHa/N2O High heat-trapping potential
+
+Overall effect Maintains Earth's temperature
+
+Question: Compare climate proxies and archives using examples.
+
+Component Explanation Marks
+Climate proxies Indirect indicators of past climate 1
+Climate archives Natural records preserving climate data 1
+Proxy examples Tree rings, pollen, isotopes 1
+Archive examples Ice cores, sediments, corals 1
+
+Key difference Indicator vs storage of climate information 1
 --- page 2 ---
 c. Question: What do you mean by Short term and Long Term Mitigation planning for climate change?} | [05]
 
@@ -4227,6 +4744,45 @@ b.
 CO- 2;
 BL-3
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Concept / Component Brief Explanation Marks
+
+Definition of Greenhouse Gases Greenhouse gases (GHGs) are atmospheric gases that trap heat by absorbing and re- 1
+
+emitting infrared radiation, keeping Earth’s surface warmer than it would be otherwise.
+
+Major Types of Greenhouse Gases The main GHGs include Carbon dioxide (CO2), Methane (CH), Nitrous oxide (N20), 1
+Water vapour (HO), and Ozone (0s).
+
+Role of Greenhouse Gases in Earth's They absorb outgoing longwave radiation and re-radiate it back to the Earth’s surface, 1
+Atmosphere creating a “greenhouse effect” that warms the planet.
+
+Importance of the Greenhouse It helps maintain Earth's energy balance and suitable temperatures for ecosystems, 1
+Effect agriculture, and water cycles.
+
+Diagram of Greenhouse Effect A labeled diagram should show sunlight entering the atmosphere, part reflected back, 1
+
+and infrared radiation trapped by greenhouse gases.
+
+Concept / Component Brief Explanation Marks
+
+Definition of Paleoclimate Studies Paleoclimate studies involve the scientific investigation of Earth's past climates using 1
+
+natural records such as ice cores, tree rings, sediments, and fossils.
+
+Importance of Paleoclimate Studies. They help understand how Earth's climate has changed over geological time scales, 1
+identify natural climate cycles, and distinguish between natural and human-induced
+changes.
+
+Sources of Paleoclimate Data Data are obtained from proxy indicators like ice cores (trapped gases), marine 1
+sediments (microfossils), tree rings, corals, and boreholes.
+
+Definition of Borehole Temperature Borehole temperature analysis measures underground temperature profiles to infer past. 1
+Method surface temperature changes that have penetrated into the ground over time.
+Role of Borehole Temperatures in Variations in subsurface temperature reflect historical surface temperature trends, 1
+
+Climate Interpretation allowing reconstruction of regional climate changes over the last few centuries.
 --- page 2 ---
 Concept / Component Brief Explanation Marks
 
@@ -4538,6 +5094,25 @@ CO-2
 b.   [05]
 CO-1
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Key Point Marks
+
+Presence of oxygen isotopes ('®O and '80) in water molecules 1
+Isotope fractionation during evaporation and condensation 1
+Relationship between isotope ratio and climate conditions 1
+Use of ice cores, ocean sediments, and fossils for isotope analysis 1
+
+Reconstruction of past temperatures using 5"°O ratios 1
+
+Key Point Marks
+
+High albedo of polar ice (reflects large portion of solar radiation) 1
+Melting of ice exposes darker ocean/land surfaces 1
+Darker surfaces absorb more solar radiation 1
+Increased heat absorption raises surface temperature 1
+
+Positive feedback loop that accelerates global warming 1
 --- page 2 ---
 c. Key Point Marks [05]
 
@@ -4791,6 +5366,25 @@ CO-2
 b.   [05]
 CO-1
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Key Point Marks
+
+Presence of oxygen isotopes ('®O and '80) in water molecules 1
+Isotope fractionation during evaporation and condensation 1
+Relationship between isotope ratio and climate conditions 1
+Use of ice cores, ocean sediments, and fossils for isotope analysis 1
+
+Reconstruction of past temperatures using 5"°O ratios 1
+
+Key Point Marks
+
+High albedo of polar ice (reflects large portion of solar radiation) 1
+Melting of ice exposes darker ocean/land surfaces 1
+Darker surfaces absorb more solar radiation 1
+Increased heat absorption raises surface temperature 1
+
+Positive feedback loop that accelerates global warming 1
 --- page 2 ---
 c. Key Point Marks [05]
 
@@ -5044,6 +5638,25 @@ CO-2
 b.   [05]
 CO-1
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Key Point Marks
+
+Presence of oxygen isotopes ('®O and '80) in water molecules 1
+Isotope fractionation during evaporation and condensation 1
+Relationship between isotope ratio and climate conditions 1
+Use of ice cores, ocean sediments, and fossils for isotope analysis 1
+
+Reconstruction of past temperatures using 5"°O ratios 1
+
+Key Point Marks
+
+High albedo of polar ice (reflects large portion of solar radiation) 1
+Melting of ice exposes darker ocean/land surfaces 1
+Darker surfaces absorb more solar radiation 1
+Increased heat absorption raises surface temperature 1
+
+Positive feedback loop that accelerates global warming 1
 --- page 2 ---
 c. Key Point Marks [05]
 
@@ -5297,6 +5910,25 @@ CO-2
 b.   [05]
 CO-1
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Key Point Marks
+
+Presence of oxygen isotopes ('®O and '80) in water molecules 1
+Isotope fractionation during evaporation and condensation 1
+Relationship between isotope ratio and climate conditions 1
+Use of ice cores, ocean sediments, and fossils for isotope analysis 1
+
+Reconstruction of past temperatures using 5"°O ratios 1
+
+Key Point Marks
+
+High albedo of polar ice (reflects large portion of solar radiation) 1
+Melting of ice exposes darker ocean/land surfaces 1
+Darker surfaces absorb more solar radiation 1
+Increased heat absorption raises surface temperature 1
+
+Positive feedback loop that accelerates global warming 1
 --- page 2 ---
 c. Key Point Marks [05]
 

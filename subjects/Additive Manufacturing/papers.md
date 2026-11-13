@@ -1,6 +1,6 @@
 # Additive Manufacturing: question papers in full
 
-23 unique papers · 2016-17 to 2025-26 · Mechanical, Mechatronics
+24 unique papers · 2016-17 to 2025-26 · Mechanical, Mechatronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
 
@@ -1501,6 +1501,129 @@ which uses powder bed 8 Marks
 b) Explain the ultrasonic AM process. Write benefits, drawbacks and applications. 6 Marks
 
 Ar
+````
+
+## 2018-19 · Final-Exam · Sem 8 · paper 10a7e7479028
+
+- Departments: Mechanical
+- Programmes: B TECH / MECHANICAL
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: MECHANICAL/SEMESTER VIII/ADDITIVE MANUFACTURING/ADDITIVE_MANUFACTURING_B_TECH_(MECHANICAL)__2018-19_FINAL_EXAM__vqrMZmKTod.pdf`
+- Printed on paper: exam date: 17 April 2019
+- Text: ocr (2 pages), mean OCR confidence 91.1
+
+````text
+2
+
+SVKM’S NMIMS
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT ENGINEERING
+\ Program B.Tech (MECHANICAL) ~< Year: IV Semester: VIII |
+\ Academic Year: 2018-2019 |
+
+Subject: Additive Manufacturing ~
+
+fer
+Date: 17 April 2019 ~ pin to 3,00 a
+
+\3,(brs)i. iBRARY
+
+Cc
+
+. i Final Examination (2018-19)
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. _1___ is compulsory.
+
+2) Out of remaining questions, attempt any__4 _ questions.
+3)Inall__5__ questions to be attempted. :
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Ql
+a) What are the development phases of prothiyping? Explain in detail. 4M
+b) Explain IGES and CT data translators. ° 4M
+c) What are potential application of rapid freeze prototyping? 3M
+d) Explain the working principle of Laser Engineered Net Shaping process. 3M
+Q |
+a) Describe the process flow involved in a general additive manufacturing. Which steps 7M
+do you think are likely to be combine? .
+b) Explain the boundary representation approach of 3D modelling. How it is superior to 5M
+constructive solid geometry?
+c) Classify the additive manufacturing process on the basis of raw material used. 2M
+— 03
+mie a) Describe the process flow of stereolithography apparatus. Which type of post 7M
+
+processing require in it?
+--- page 2 ---
+Q4
+
+Q5
+
+Q6
+
+Q7
+
+b)
+c)
+
+b)
+c)
+a)
+b)
+c)
+a)
+b)
+
+a)
+b)
+c)
+
+Explain the generic approach of STL file repairing.
+Differentiate between Binary and ASCII file.
+
+Write the working principle of DSPC. Explain the work flow of DSPC process with
+neat sketch.
+
+Explain the role of additive manufacturing process in medical application.
+
+Explain with neat sketch the process of selective laser sintering.
+
+Describe with neat sketch the working of fused deposition modelling.
+
+Enlist the various materials used in extrusion based process. Explain anyone in brief.
+Baplain working principle of MJM system.
+
+What are various issues associated with STL file? How to overcome it?
+
+Explain the working of solid ground curing process with neat sketch.
+
+Explain the role of additive manufacturing in product design and development.
+How 3D printing is useful in aerospace industry?
+
+Write a short note on design for additive manufacturing.
+
+4M
+3M
+
+6M
+
+3M
+5M
+6M
+3M
+5M
+7™.
+7™
+
+7™
+4M
+3M
 ````
 
 ## 2018-19 · Final-Exam · Sem 8 · paper 1f58c5475345

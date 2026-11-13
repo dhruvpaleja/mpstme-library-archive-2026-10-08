@@ -144,6 +144,14 @@ CO-2   b. A news application aims to recommend articles to users based [10]
 BL-4   on the content of articles they have previously read. Analyze
 how a content-based recommendation system can be developed
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+in) 12 I3 15 16 17
+ul 0 5 4 4 Oo 5
+U2 5 3 4 4 2 2
+U3 4 ie} 3 4 ie) ie}
+U4 3 2 Oo ie} 3 ie)
+US 3 4 3 3 Oo 4
 --- page 4 ---
 for personalized news   delivery,   focusing on   feature
 representation, user profiling, similarity computation, and
@@ -450,6 +458,29 @@ RMSE (2 Marks)
 𝑅𝑀𝑆𝐸= √2.08 ≈1.44
 Update 𝑃11and 𝑄12using Gradient Descent (for 𝑅12) (3 Marks)
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+R=PxQ
+
+Rating Matrix
+Items
+User Matrix P
+il Rp} 3 | 4
+Ul | 2.0 | 3.0 | 35 | 2 QD ie
+U2} 2? | 40] 2 | 25 .
+> > 0.9 0.7
+U3 | 30 | ? 2 | 15 11 05
+U4 2 2.5 | 4.0 ?
+
+x
+
+Item Matrix Q
+
+14 10 08 0.6
+
+0.6 1.2 1.1
+
+1.3
 --- page 11 ---
 Given
 •   𝑟12 = 3
@@ -898,6 +929,13 @@ Total possible ratings
 • Measures how an item’s ratings differ from the global average.
 • Formula:
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+i 12 13 14 15 16
+Ul 4 ie) 3 5 4 0
+U2 5 3 4 ce) ie) 2
+U3 0 4 3 4 5 3
+U4 5 5 ie) 3 4 ie)
 --- page 4 ---
 𝑏𝑖= 𝑟𝑖ˉ −𝑟𝑔𝑙𝑜𝑏𝑎𝑙 ˉ
 • A positive bias → item generally rated higher than average.
@@ -1257,6 +1295,16 @@ Normalized Metrics
 𝑁𝑀𝐴𝐸= = 0.125,𝑁𝑅𝑀𝑆𝐸=   = 0.132
 4   4
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Movies True Rating | Predicted Rating
+
+Avatar 4.0 3.5
+Titanic 5.0 4.6
+The Martian 3.0 3.8
+Gravity 2.0 2.5
+
+Interstellar 5.0 47
 --- page 12 ---
 CO-3   b. Compare SVD and SVD++ in terms of their mathematical [6]
 BL-4   structure, data requirements, and ability to handle implicit
@@ -1283,6 +1331,23 @@ without repeated similarity computations.
 o   Identifies deeper user–item dependencies beyond direct
 co-ratings.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Aspect SVD SVD++
+Feedback used Explicit ratings only Explicit + Implicit feedback
+Global avg + user bias + item
+
+Formula bias + dot product Same + implicit item factors
+Complexity Lower (faster) Higher (slower)
+Accuracy Good Better (usually)
+Overfitting risk Lower (fewer parameters) Slightly higher (more parameters)
+
+but controlled by regularization
+
+When only explicit data is When both explicit + implicit data are
+
+Practical use A
+available available
 --- page 13 ---
 Q7   [20]
 CO-2   a.   Differentiate between supervised and unsupervised feature   [10]

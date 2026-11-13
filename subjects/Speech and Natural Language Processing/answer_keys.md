@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2024/Sem_07/Re-Exam/MBATech_DS_7052/Speech and Natural Language Processing/ANS_Speech and Natural Language Processing(702DB0C028)_2024-2025.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: text (25 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -168,6 +169,18 @@ V=XWV
 7. Final Multiplication with V
 • Produces the weighted sum of values
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Self-Attention Formula
+
+The scaled dot-product self-attention used in Transformers is defined as:
+
+QKT
+Vay
+
+Attention(Q, A,W) = softmax (
+
+) y
 --- page 5 ---
 • Output captures contextual representation of each word
 Each word in a sentence:
@@ -316,6 +329,18 @@ Bigram   Count
 (and, exciting)   0
 01
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Step 3: Bigram Probability Formula (Laplace Smoothing)
+ay... — C(wi_1,m,) +1
+P(w; | wis.) = - C(wia)+V_ Vv
+Where:
+
++ C(wj,_,, w;) = bigram count
+
+« C(w,_,) = unigram count of previous word
+
+»« WV =vocabulary size (8)
 --- page 9 ---
 Step 4: Calculate Each Bigram Probability (Using Laplace Smoothing)
 Formula used:
@@ -373,6 +398,16 @@ under the given HMM.
 02
 02
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+1. General joint-probability formula for an HMM
+
+For observations O = (o,,...,o7) and states 5 = (s,,..., 87),
+
+T
+P(O,S) = P(s;) Plo; | 51) [[* | $-1) Plo | s;).
+
+t=2
 --- page 11 ---
 02
 02
@@ -400,6 +435,25 @@ clarify relationships, e.g., "I saw the man with a telescope"
 can be analyzed to identify who has the telescope.
 3. Supports NLP applications:
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+3. Read off probabilities from the diagram
+
+(Values given in the diagram)
+
+«   Inifial/start — HOT: P(s; = H) = 0.8.
+
++ Emissions (HOT): P(1 | H) = 0.2, P(2| H) =0.4, P(3| H) =0.4.
+« Emissions (COLD): P(1 | C) = 0.5, P(2) C) =0.4, P(3| C) = 0.1.
+« Transitions: P(A + C) = 0.3, P(C 4H) =0.4.
+
+4. Substitute and compute
+
+= (0.8 x 0.2) = 0.16
+(0.16 x 0.3) = 0.048
+(0.048 x 0.1) = 0.0048
+(0.0048 x 0.4) = 0.00192
+(0.00192 x 0.4) = 0.000768.
 --- page 12 ---
 • Used in relation extraction, question answering, machine
 translation, and information retrieval because it captures
@@ -529,6 +583,51 @@ create.
 • Example: In "I deposited money at the bank", supervised WSD
 predicts financial institution for "bank".
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Output
+Probabilities
+
+Linear
+
+[adda om J
+Feed Forward
+
+Add & Norm
+
+Multi-Head
+Attention
+
+Add & Norm
+
+Feed Forward
+Nx
+
+Nx
+
+Add & Norm
+
+Masked Multi-
+Head
+
+Add & Norm
+
+Multi-Head
+Attention Attention
+
+tty] | tts
+Positi L _
+eng OP oO eee
+
+Input Output
+Embedding Embedding
+
+i
+
+Outputs
+(shifted right)
+
+Inputs
 --- page 16 ---
 2. Unsupervised WSD
 • Method: Uses unlabelled data to infer word senses, typically by
@@ -635,6 +734,20 @@ Steps in Text Clustering
 methods like:
 ▪ Bag of Words (BoW)
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+Step 2: Compute probability of each node
+1.NP > N— "Tom"
+
+P(NP) = 0.6 x 0.4 = 0.24
+2. NP — N — “Emma™
+P(NP) = 0.6 x 0.3 = 0.18
+3. NP — Det N — “a gift"
+P(NP) = 0.4 « 1.0 x 0.3 = 0.12
+4,.VP—V NP NP ADV — “gave Emma a gift today"
+
+P(VP) =0.5 « 1.0 « 0.18 x 0.12 x 1.0
+P(VP) =0.5 = 0.18 x 0.12 = 0.5 = 0.0216 = 0.0108
 --- page 19 ---
 ▪ TF-IDF (Term Frequency–Inverse Document
 Frequency)
@@ -768,6 +881,38 @@ like “deposit” lead to the financial sense.
 like WordNet, which provide semantic relations between senses
 for improved disambiguation.
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+2. Gates in an LSTM Cell
+An LSTM cell has three main gates and a cell state:
+1. Forget Gate (/;)
+
+« Decides which information from the previous cell state C’,_, should be discarded.
+« Computation:
+
+fr =o(Wy = |Pu-i, 2] + by)
+2. Input Gate {i,)
+« Determines which new information will be added to the cell state.
+« Computation:
+
+i= a(W; . [he-ts ry) + b;)
+3. Candidate Cell State (C’,)
+» Generates potential new content for the cell state.
+« Computation:
+
+oy = tanh(Wo « [hy1, 2%) + be)
+4, Cell State Update (C’,)
+« Updates the cell state by combining forgotten previous state and new candidate in|
+
+C= fieCriiti #C)
+5. Output Gate (0;)
+« Decides what part of the cell state should be output as the hidden state /,:
+
+o, = o(W, + [Ar-a, a1] +6.), ty = 0; + tanh(C,)
+
+02
+
+03
 --- page 23 ---
 Q7   Explain Low-Rank Adaptation (LoRA) and analyse how it efficiently
 CO-5; SO-1;   a.   modifies transformer models compared to full fine-tuning.   [10]
@@ -793,6 +938,22 @@ Knowledge   Can overwrite pretrained   Preserves pretrained
 Retention   knowledge   knowledge
 Deployment   Large checkpoints   Small, easy to share
 ********** 23 **********
+
+[Text in pictures on this page, read by OCR]
+In a transformer, large weight matrices (e.g., in query (Q), key (K), and value (V) projections) dominate the
+parameter count.
+
+LoRA modifies a weight matrix W as:
+W'=W+AW
+Instead of learning full AW, LoRA factorizes it into two low-rank matrices:
+AW = AB
+Where:
+« AERd*H
+
+« BeR{r*k}
+* 6 <«min(d, k) (rank is very small)
+
+Only A and B are trained, while W remains frozen.
 --- page 24 ---
 02
 4. Advantages of LoRA:

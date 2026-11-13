@@ -124,6 +124,33 @@ i.   AND
 2
 ii.   OR
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Inputs Output
+
+0 0
+1 0
+0 0
+1 1
+A B
+—o ooo
+
+__ 4
+
+(a) Applied voltage
+
+Inputs
+
+A A
+
+—+ Logic gate
+—> control AND
+B
+
+Output
+-—>
+
+(b)
 --- page 4 ---
 2
 1
@@ -140,6 +167,27 @@ Rectangular
 box-shaped
 Robots   and Z directions within   printing, assembly,
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Inputs Output
+
+B
+
+0 0
+1 1
+0 1
+1 1
+
+Inputs
+
+A : Output
+—+) Logic gate
+
+—> control OR ,
+
+B
+
+(a) Applied voltage (b)
 --- page 5 ---
 a rectangular   pick and place,
 workspace.   packaging.
@@ -190,6 +238,26 @@ Axis   𝜽𝒌   𝒅𝒌   𝒂𝒌   𝜶𝒌
 2   0   𝑑2   𝑎2   0
 4
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+For link 1: a; = 0, dy = 0, ay = —}.
+
+So cos a; = 0, sina; = —1. Substituting:
+cos6; —sin@;-0   sin@;-(—1) 0 cos#; QO -—sind,
+sin@; cos#;-0 —cos#,-(—1) 0 sin®; O cosh;
+I} 00 -1 0 o} | o -1 0
+0 0 0 1 0 0 0
+
+For link 2: 62 = 0, a2 = Oso cosa = 1, sina = 0, cos 62 = 1, sin 2 = 0. Thus
+
+100 a@
+
+010 0
+Ay =
+
+001 ad
+
+000 1
 --- page 6 ---
 3
 3
@@ -199,6 +267,21 @@ i.   Link coordinate diagram
 ii.   Link coordinate table.
 5
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+So the homogeneous ARM matrix is
+cos#; 0 —sin6,; a2cos6, — d2sin 6,
+sin®; 0 cos6;   agsin@; + d2 cos 6;
+0 -1 0 0
+0 0 0 1
+
+And the full numeric homogeneous transform:
+
+0.5 0 ~0.8660254 —39.9038106
+, _ [08660254 0 0.5 230.8845727
+°” 0 “1 0 0
+
+0 0 0 1
 --- page 7 ---
 8
 iii.   Individual Link coordinate transformation matrices.
@@ -243,6 +326,14 @@ high sensitivity   manipulation
 transmission
 or reflection
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Axis 0 d a « Home
+1 6; 215.0 mm 0 ~n/2 0
+2 0 0 177.8 mm 0 0
+3 6, 0 177.8 mm 0 0
+4 6 0 0 —1/2 —n/2
+5 4s 129.5 mm 0 0 0
 --- page 8 ---
 Uses changes   Contactless,   Sensitive to
 Magnetic   Industrial
@@ -278,6 +369,23 @@ or rotary) to perform work.
 •   Controller: Manages the entire system operation based on sensor inputs and
 programmed logic.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Actuator
+
+Direction control
+
+valve
+Check
+valve |
+Pressure Pressure relief
+gauge valve
+1
+L_J
+Motor L ‘| Filter
+Pump
+
+Reservoir
 --- page 9 ---
 Advantages of Hydraulic Systems
 • High Power Density: Capable of generating very large forces and torques in a
@@ -347,6 +455,36 @@ CPU output signals to appropriate power levels and provides isolation.
 Allows the PLC to communicate with other PLCs, computers, or networks for
 data exchange and remote control.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Address bus ]
+
+a>
+Control bus
+teas <P wear aba at Program panel
+User System Data Input/
+se
+program CPU (| 3 ROM RAM output
+RAM iO unit
+
+ES= ES it ESS ESS
+
+Data bus ]
+
+[ 1/0 system bus
+
+a;
+Opto-
+
+Input channels
+
+a5
+Driver
+interface
+
+eg. relays
+
+Output channels
 --- page 11 ---
 b. Solve for [𝑞]𝐹if   [10]
 4
@@ -368,6 +506,41 @@ Q7   a. Analyze an ARM Matrix for 3 Axis PARA and answer the following.   [20]
 i. Derive TCV from the arm matrix and corresponding equations.
 ii. Derive joint equations for all the joints. (q1, q2, q3)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+1. Translation along z by 15:
+
+T.(15) =
+
+0 0
+0 0
+
+2. Rotation about y by —7 (cos(-m)=-1, sin(-m)=0):
+
+[—1
+Ry(-n)=|°
+_r)=
+¥ 0
+L 0
+3. Rotation about x by 5 (cos=0, sin=1):
+
+[1 0
+0 0
+R(B=|5 |
+
+lo 0
+
+0
+1
+0
+0
+
+-1
+
+0 0
+-1 0
+0 0
+0 1
 --- page 12 ---
 aC, + aC2
 4S) + aS)
@@ -512,6 +685,33 @@ i.   AND
 2
 ii.   OR
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Inputs Output
+
+0 0
+1 0
+0 0
+1 1
+A B
+—o ooo
+
+__ 4
+
+(a) Applied voltage
+
+Inputs
+
+A A
+
+—+ Logic gate
+—> control AND
+B
+
+Output
+-—>
+
+(b)
 --- page 4 ---
 2
 1
@@ -528,6 +728,27 @@ Rectangular
 box-shaped
 Robots   and Z directions within   printing, assembly,
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Inputs Output
+
+B
+
+0 0
+1 1
+0 1
+1 1
+
+Inputs
+
+A : Output
+—+) Logic gate
+
+—> control OR ,
+
+B
+
+(a) Applied voltage (b)
 --- page 5 ---
 a rectangular   pick and place,
 workspace.   packaging.
@@ -578,6 +799,26 @@ Axis   𝜽𝒌   𝒅𝒌   𝒂𝒌   𝜶𝒌
 2   0   𝑑2   𝑎2   0
 4
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+For link 1: a; = 0, dy = 0, ay = —}.
+
+So cos a; = 0, sina; = —1. Substituting:
+cos6; —sin@;-0   sin@;-(—1) 0 cos#; QO -—sind,
+sin@; cos#;-0 —cos#,-(—1) 0 sin®; O cosh;
+I} 00 -1 0 o} | o -1 0
+0 0 0 1 0 0 0
+
+For link 2: 62 = 0, a2 = Oso cosa = 1, sina = 0, cos 62 = 1, sin 2 = 0. Thus
+
+100 a@
+
+010 0
+Ay =
+
+001 ad
+
+000 1
 --- page 6 ---
 3
 3
@@ -587,6 +828,21 @@ i.   Link coordinate diagram
 ii.   Link coordinate table.
 5
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+So the homogeneous ARM matrix is
+cos#; 0 —sin6,; a2cos6, — d2sin 6,
+sin®; 0 cos6;   agsin@; + d2 cos 6;
+0 -1 0 0
+0 0 0 1
+
+And the full numeric homogeneous transform:
+
+0.5 0 ~0.8660254 —39.9038106
+, _ [08660254 0 0.5 230.8845727
+°” 0 “1 0 0
+
+0 0 0 1
 --- page 7 ---
 8
 iii.   Individual Link coordinate transformation matrices.
@@ -631,6 +887,14 @@ high sensitivity   manipulation
 transmission
 or reflection
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Axis 0 d a « Home
+1 6; 215.0 mm 0 ~n/2 0
+2 0 0 177.8 mm 0 0
+3 6, 0 177.8 mm 0 0
+4 6 0 0 —1/2 —n/2
+5 4s 129.5 mm 0 0 0
 --- page 8 ---
 Uses changes   Contactless,   Sensitive to
 Magnetic   Industrial
@@ -666,6 +930,23 @@ or rotary) to perform work.
 •   Controller: Manages the entire system operation based on sensor inputs and
 programmed logic.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Actuator
+
+Direction control
+
+valve
+Check
+valve |
+Pressure Pressure relief
+gauge valve
+1
+L_J
+Motor L ‘| Filter
+Pump
+
+Reservoir
 --- page 9 ---
 Advantages of Hydraulic Systems
 • High Power Density: Capable of generating very large forces and torques in a
@@ -735,6 +1016,36 @@ CPU output signals to appropriate power levels and provides isolation.
 Allows the PLC to communicate with other PLCs, computers, or networks for
 data exchange and remote control.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Address bus ]
+
+a>
+Control bus
+teas <P wear aba at Program panel
+User System Data Input/
+se
+program CPU (| 3 ROM RAM output
+RAM iO unit
+
+ES= ES it ESS ESS
+
+Data bus ]
+
+[ 1/0 system bus
+
+a;
+Opto-
+
+Input channels
+
+a5
+Driver
+interface
+
+eg. relays
+
+Output channels
 --- page 11 ---
 b. Solve for [𝑞]𝐹if   [10]
 4
@@ -756,6 +1067,41 @@ Q7   a. Analyze an ARM Matrix for 3 Axis PARA and answer the following.   [20]
 i. Derive TCV from the arm matrix and corresponding equations.
 ii. Derive joint equations for all the joints. (q1, q2, q3)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+1. Translation along z by 15:
+
+T.(15) =
+
+0 0
+0 0
+
+2. Rotation about y by —7 (cos(-m)=-1, sin(-m)=0):
+
+[—1
+Ry(-n)=|°
+_r)=
+¥ 0
+L 0
+3. Rotation about x by 5 (cos=0, sin=1):
+
+[1 0
+0 0
+R(B=|5 |
+
+lo 0
+
+0
+1
+0
+0
+
+-1
+
+0 0
+-1 0
+0 0
+0 1
 --- page 12 ---
 aC, + aC2
 4S) + aS)
@@ -977,6 +1323,20 @@ iii. Individual Link coordinate transformation matrices.
 5
 8
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+So the full ARM (homogeneous) matrix is
+cos(4; + 62) —sin(@:+ 62) O aicos 6; + a2 cos(6; + 42)
+sin(6; +62)   cos(6;+62) 0 a,sin6, + aysin(O, + 45)
+0 0 1 0
+0 0 0 1
+
+So the final homogeneous ARM matrix Te (rounded sensibly) is:
+
+0.25881905 —0.96592583 0 160.962096
+0.96592583 0.25881905 0 190.911099
+0 0 1 0
+0 0 0 1
 --- page 6 ---
 Q4   a. Explain with respect to robotic Position Sensors.   [10]
 i.   Linear Position Sensors
@@ -1046,6 +1406,38 @@ A pneumatics system uses compressed air to transmit and control energy. It is wi
 used in industrial automation and robotics due to its simplicity, reliability, and cost-
 effectiveness.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Compressed Air Generation
+
+Safety
+
+valve Recute Compressed Air Consumption
+
+motor
+Pressure
+Check switch Actuator
+valve
+“ , G Pressure
+gauge
+
+Air Att Direction control
+F er valve
+receiver ater
+
+Exhaust
+
+>
+
+Air service
+unit
+
+dryer
+
+Auto ___}
+drain
+
+Compressor
 --- page 8 ---
 •   Air Compressor: Generates compressed air from atmospheric air.
 •   Air Reservoir: Stores compressed air and maintains system pressure.
@@ -1114,6 +1506,18 @@ kinematics computes the corresponding joint angles for the arm to reach that
 position.
 Q6   a. Explain with proper block diagram the basic PLC System and explain each block in brief. [10]
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+5) Summary (final values)
+* moo = 17
+* mio = 57
+* Mo, = 53
+
+* map = 265
+* mo = 247
+e my = 185
+
+* Centroid: (Z, y) + (3.3529, 3.1176)
 --- page 10 ---
 Input Devices:
 These are sensors and switches that detect changes in physical parameters like position,
@@ -1144,6 +1548,17 @@ PLC output interface. Examples include hydraulic valves, pneumatic cylinders, mo
 and indicator lights.
 b. Solve for [𝑝]𝐹if   [10]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Programming
+
+device Program & data Communications
+memory interface —
+Input Output
+p|_ inter- Processor inter-
+—p| face face
+
+L_ Power supply fj
 --- page 11 ---
 5
 [𝑝]𝑀= [ 10 ]
@@ -1159,6 +1574,55 @@ sequence of transformations on the mobile frame 𝑀:
 2
 2
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+1. Rotation about fixed z = f? by 1/2:
+
+us
+
+cos5 —sin>
+sin cos
+R.(#)- 2 2
+(g)= fe
+0 0
+2. Translation along fixed « = f! by 10:
+1
+T,(10) =
+0
+3. Rotation about fixed y = f? by z:
+cost OQ. sina
+0 1 0
+R,(m) = .
+—sinz 0 cost
+0 0 0
+
+0 -l
+1 0
+0 0
+0 0
+10
+0
+0
+1
+-1 0
+0 1
+0 0
+0 0
+
+0
+
+T = R,(r)T,(10) R.(3).
+
+Compute this product (I show the final combined matrix):
+
+0 1 #0 —10
+
+1 0 0 0
+T=
+
+0 0 -1 O
+
+00 0 1
 --- page 12 ---
 Q7   a. Analyze an ARM Matrix for 4 Axis SCARA Adept I and answer the following.   [20]
 𝐶1−2−4   𝑆1−2−4   0   𝑎1𝐶1 + 𝑎2𝐶1−2
@@ -1174,6 +1638,19 @@ ii.   Derive joint equations for all the joints. (q1, q2, q3 and q4)
 3
 3
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Now apply T to [p|™:
+
+0 1 0 10} {5 0
+10 0 0 10 5
+F_D[yM — =
+PI | 00 -1 0 15 —15
+00 0 1 1 1
+
+0
+
+od —15
 ````
 
 ## 2024-25 · Final-Exam · Sem 12 · Answer key · paper 8e113bb4050d
@@ -1289,6 +1766,31 @@ Explanation of its working with reference to diagram. --- 04 M
 Q3.
 a) Link coordinate diagram for four axis SCARA Adept One robot. --- 02 M
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+HORIZONTAL POLARIZER
+
+SS
+RECEIVER | | | | | |
+_——
+REFLECTOR
+
+VERTICAL POLARIZER
+{LIGHT PASSES THROUGH)
+
+(a)
+
+REFLECTING
+HORIZONTAL POLARIZER TARGET
+
+EMITTER se —_—.
+
+as
+RECEIVER —_——
+
+LENS REFLECTOR
+VERTICAL POLARIZER
+(LIGHT IS BLOCKED)
 --- page 5 ---
 Tool configuration vector for SCARA robot. --- 02 M
 Derivation of equation for Elbow joint. --- 02 M
@@ -1349,6 +1851,36 @@ a) Various benefits of automation. ---- 03 M
 Block diagram of elements of an automation system. ---- 03 M
 Description of each element. ---- 04 M
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+*System memory includes an area called the
+EXECUTIVE, composed of permanently-stored programs
+
+that direct all system activities, such as execution of the
+SYSTEM users control program, communication with peripheral
+devices, and other system activities.
+
+*The system memory also contains the routines that
+implement the PLC’s instruction set, which is composed of
+specific control functions such as logic, sequencing,
+timing, counting, and arithmetic.
+
+«System memory is generally built from read-only
+
+APPLICATION memory devices.
+«Data Table > *The application memory is divided into the data table
+¢User Program area and user program area.
+
+*The data table stores any data associated with the
+user’s control program, such as system input and output
+status data, and any stored constants, variables, or preset
+
+values. The data table is where data is monitored,
+manipulated, and changed for control purposes.
+
+*The user program area is where the programmed
+instructions entered by the user are stored as an
+application control program.
 --- page 8 ---
 b) The zeroth order moment m00 = 8 --- 02 M
 The first order moments m10 = 20, m01 = 34 --- 02 M
@@ -1358,6 +1890,16 @@ Q6
 a) Pneumatic circuit design using proper symbols. --- 05 M
 Electric control circuit design using proper symbols. --- 05 M
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+ERROR couraal N ACTUATOR & FINAL
+SIGNAL CONTROLLER SIGNAL VY) CONTROL ELEMENT
+
+X 2
+
+J CONTROLLED
+
+SENSOR(FEEDBACK ELEMENT) N VARIABLE PROCESS
 --- page 9 ---
 b) Block diagram of PLC structure representing major components. --- 03 M
 Explanation about each component used in PLC structure. --- 07 M
@@ -1380,4 +1922,25 @@ When the valve is manually actuated the pump flow goes to the cylinder blank end
 1. This extends the cylinder. At full extension, pump flow goes through the relief valve. Deactivation
 of the DCV allows the cylinder to retract as the DCV shift into its spring offset mode
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Field Inputs Field Outputs
+
+Push
+Button POWER SUPPLY Lamp
+aah Q=
+Cant | 0 Contactor
+Switch a
+
+. N cpu y |
+Limit )
+Switch
+
+1 U USER DATA y
+Push T MEMORY | MEMORY
+Button
+
+til SERIAL PORT
+
+PROGRAMMING DEVICE
 ````

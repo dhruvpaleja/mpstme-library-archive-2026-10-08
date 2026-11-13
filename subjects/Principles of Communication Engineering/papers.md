@@ -1227,8 +1227,8 @@ b) Explain generation of PWM with suitable waveforms. (5 marks)
 - Programmes: B TECH / I T
 - Source: `02_Question_Papers/Legacy/B TECH/2ND YEAR/I T/Sem_04/PRINCIPLES OF COMMUNICATION ENGINEERING/PRINCIPLES OF COMMUNICATION ENGINEERING BATCH 14-15,15-16 RE EXAM.pdf`
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 13 May 2017
-- Text: ocr (3 pages), mean OCR confidence 76.2
-- 9 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: ocr (3 pages), mean OCR confidence 83.2
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 SVKM’s NMIMS
@@ -1301,57 +1301,82 @@ i) Coherent and Non coherent detection
 ii) PCM
 iii) Need of Multiplexing
 --- page 3 ---
+|
 
-! I I °
+index
 
-i |
+0.00
 
-nn : at ol Ps site _ =
-o.oo Go Gd B29 aaa +. &
-|= MD Ww WwW & hw = oO Oo 8B a
-4 OM 8 BR MBM Ob YY GAS =
-o © co fp’ 2 ogo ' Oo © a.
-AM S&S FM YW SF DOD NS ;
+0.5
+1.0
+1.5
+2.0
+| 2At
+l 2.5
+3.0
+4.0
+| 50
+(553
+| 6.0
+10
+8.0
+8.65
+9.0
+10.0
+12.0
 
-CO ee e'atiac' sas'a a
+‘Modulation:
 
-oOo 32 Oo WwW MM A i
+| O25
 
-o eo oad cs
+‘Carrier 1 | 2 3 4 5
+1.00) | :
+0.98 0. 12
+0.94° 0.24, 0.03
+0.77) 0.44 0.11 0.02.
 
-wW he = 2 oOo oo o
+0.51 0.56 0.23, 0.06 0.01,
+0.22\ 0.58 0.35 013 0.09
+o 0.62 0.43 0.20 0.06 0.02
+0.05) 0.60 045 0.22 0.07 0.02
+0.26 0.34) 049 0.31) 0.13, 0.04
 
-So 32° G&G FA
+~0.40'-0.07 0.36 043. 0.28 0.13:
 
-oOo oO oO Dl ~ 7 -_
-Bo — o o a —_
-WIN SH
+-0.18'-0.33) 0.05) 0.36 0.39 0.26
 
-oo oOo Gd ~ =
+0 -0.34 -0.13 0.25 0.40 0.32
 
-Nm o.aG 8 rs]
+0.45 70.28) -0.24 0.11. 0.36 0.36
 
-ee So A BG & ¥
-so 90:0 ~
-od Bot
+0.30) 0.00/-0.30 -0.17) 0.16 0.35
 
-a! _
+0.17) 0.23'-0.11'-0.29 -0.10 0.19
 
-oO 3
+0 | 0.27 0.06 -0.24)-0.23. 0.03.
 
-°
+-0.09' 0.26) 0.14°-0.18 -0.27 -0.06
+0.28, 0.04. 0.25 0.06 -0.22'-0.23
+0.06 - 0.22 - -0.08) 0.20. 0.18 -0.07:
 
-. mk
+Sideband
+6 7 8 .9 1,11 12/13 14) 15 16 |
 
-mr A
+0.01, Poa a
+0.01. 7
 
-= _
+0.05 0.02 | —
+043 005002 “yb
+0.19 0.09°0.03 0.01
+0.26 0.13 0.06 0.02
+0.34 0.230.13.0.060.02) | |
+0.34 0.32 0.22 0.13|0.06'0.03
+0.26) 0.34 0.28 0.18'0.10/0.05 0.02
+0.20 0.33 0.31. 0.2110.12/0.06 0.03 0.01) i i |
+0.01) 0.22 0.32 0.29 0.21/0.12 0.06|0.03'0.01, | |
+0.24 -0.17'0.06'0.23/0.30 0.27 0.20'0.12/0.07/0.03/0.01.
 
-‘ =
-
-e mn
-
-- ee — _ a . eatin re.
+| @ e
 ````
 
 ## 2016-17 · Re-Exam · Sem 4 · paper d19d7f5c6c9c

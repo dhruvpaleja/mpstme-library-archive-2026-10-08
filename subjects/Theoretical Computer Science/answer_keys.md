@@ -670,6 +670,36 @@ CO-3   b   [10]
 BL-3,4
 SO-2
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The following are the equations for the three states q1, q2, and q3:
+ql=qla+q3a+e
+
+q2 = q1b + q2b + q3b
+
+q3 =q2a
+
+Now we'll figure out how to solve these three equations:
+q2 = q1b + q2b + q3b
+
+= q1b + q2b + (q2a)b (Putting value of q3)
+
+= q1b + q2(b + ab)
+
+= q1b (b + ab)* (Using Arden’s Theorem)
+ql=qla+q3a+e
+
+= qla + q2aqa + € (Putting value of q3)
+
+= qla + q1b(b + ab*)aa + € (Putting value of q2)
+
+= q1(a + b(b + ab)*aa) +e
+
+= € (a+ b(b + ab)*aa)*
+
+= (a + b(b + ab)*aa)*
+
+Therefore, (a + b(b + ab)*aa)* is the regular expression.
 --- page 7 ---
 Logic Explained – 3 Marks
 TM Design – 5 Marks
@@ -804,6 +834,25 @@ State   a   b
 {A,C}(Final)   {A,B} {A}
 3 Minimization [3 Marks]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Type-2 Ap where A € ‘
+
+Union,
+(Context N Push Down
+F Context Free * Concatenation,
+= and p € (TI uN)" Kleene Closure
+Grammar)
+a—B where a, BE
+Type (TUN)" and Tae
+ype 1
+(Context len(a) <= len(B) Context Linear Bound Fs
+Sensitive and a should Sensitive Automata ante =
+Grammar) contain atleast 1 ns
+mar)
+Kleene Closure
+
+non terminal.
 --- page 11 ---
 Step 1 Reachability Check: All states are reachable. No state will be
 eliminated.
@@ -1048,6 +1097,36 @@ CO-3   b   [10]
 BL-3,4
 SO-2
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The following are the equations for the three states q1, q2, and q3:
+ql=qla+q3a+e
+
+q2 = q1b + q2b + q3b
+
+q3 =q2a
+
+Now we'll figure out how to solve these three equations:
+q2 = q1b + q2b + q3b
+
+= q1b + q2b + (q2a)b (Putting value of q3)
+
+= q1b + q2(b + ab)
+
+= q1b (b + ab)* (Using Arden’s Theorem)
+ql=qla+q3a+e
+
+= qla + q2aqa + € (Putting value of q3)
+
+= qla + q1b(b + ab*)aa + € (Putting value of q2)
+
+= q1(a + b(b + ab)*aa) +e
+
+= € (a+ b(b + ab)*aa)*
+
+= (a + b(b + ab)*aa)*
+
+Therefore, (a + b(b + ab)*aa)* is the regular expression.
 --- page 7 ---
 Logic Explained – 3 Marks
 TM Design – 5 Marks
@@ -1182,6 +1261,25 @@ State   a   b
 {A,C}(Final)   {A,B} {A}
 3 Minimization [3 Marks]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Type-2 Ap where A € ‘
+
+Union,
+(Context N Push Down
+F Context Free * Concatenation,
+= and p € (TI uN)" Kleene Closure
+Grammar)
+a—B where a, BE
+Type (TUN)" and Tae
+ype 1
+(Context len(a) <= len(B) Context Linear Bound Fs
+Sensitive and a should Sensitive Automata ante =
+Grammar) contain atleast 1 ns
+mar)
+Kleene Closure
+
+non terminal.
 --- page 11 ---
 Step 1 Reachability Check: All states are reachable. No state will be
 eliminated.
@@ -1426,6 +1524,36 @@ CO-3   b   [10]
 BL-3,4
 SO-2
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The following are the equations for the three states q1, q2, and q3:
+ql=qla+q3a+e
+
+q2 = q1b + q2b + q3b
+
+q3 =q2a
+
+Now we'll figure out how to solve these three equations:
+q2 = q1b + q2b + q3b
+
+= q1b + q2b + (q2a)b (Putting value of q3)
+
+= q1b + q2(b + ab)
+
+= q1b (b + ab)* (Using Arden’s Theorem)
+ql=qla+q3a+e
+
+= qla + q2aqa + € (Putting value of q3)
+
+= qla + q1b(b + ab*)aa + € (Putting value of q2)
+
+= q1(a + b(b + ab)*aa) +e
+
+= € (a+ b(b + ab)*aa)*
+
+= (a + b(b + ab)*aa)*
+
+Therefore, (a + b(b + ab)*aa)* is the regular expression.
 --- page 7 ---
 Logic Explained – 3 Marks
 TM Design – 5 Marks
@@ -1560,6 +1688,25 @@ State   a   b
 {A,C}(Final)   {A,B} {A}
 3 Minimization [3 Marks]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Type-2 Ap where A € ‘
+
+Union,
+(Context N Push Down
+F Context Free * Concatenation,
+= and p € (TI uN)" Kleene Closure
+Grammar)
+a—B where a, BE
+Type (TUN)" and Tae
+ype 1
+(Context len(a) <= len(B) Context Linear Bound Fs
+Sensitive and a should Sensitive Automata ante =
+Grammar) contain atleast 1 ns
+mar)
+Kleene Closure
+
+non terminal.
 --- page 11 ---
 Step 1 Reachability Check: All states are reachable. No state will be
 eliminated.
@@ -1804,6 +1951,36 @@ CO-3   b   [10]
 BL-3,4
 SO-2
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The following are the equations for the three states q1, q2, and q3:
+ql=qla+q3a+e
+
+q2 = q1b + q2b + q3b
+
+q3 =q2a
+
+Now we'll figure out how to solve these three equations:
+q2 = q1b + q2b + q3b
+
+= q1b + q2b + (q2a)b (Putting value of q3)
+
+= q1b + q2(b + ab)
+
+= q1b (b + ab)* (Using Arden’s Theorem)
+ql=qla+q3a+e
+
+= qla + q2aqa + € (Putting value of q3)
+
+= qla + q1b(b + ab*)aa + € (Putting value of q2)
+
+= q1(a + b(b + ab)*aa) +e
+
+= € (a+ b(b + ab)*aa)*
+
+= (a + b(b + ab)*aa)*
+
+Therefore, (a + b(b + ab)*aa)* is the regular expression.
 --- page 7 ---
 Logic Explained – 3 Marks
 TM Design – 5 Marks
@@ -1938,6 +2115,25 @@ State   a   b
 {A,C}(Final)   {A,B} {A}
 3 Minimization [3 Marks]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Type-2 Ap where A € ‘
+
+Union,
+(Context N Push Down
+F Context Free * Concatenation,
+= and p € (TI uN)" Kleene Closure
+Grammar)
+a—B where a, BE
+Type (TUN)" and Tae
+ype 1
+(Context len(a) <= len(B) Context Linear Bound Fs
+Sensitive and a should Sensitive Automata ante =
+Grammar) contain atleast 1 ns
+mar)
+Kleene Closure
+
+non terminal.
 --- page 11 ---
 Step 1 Reachability Check: All states are reachable. No state will be
 eliminated.

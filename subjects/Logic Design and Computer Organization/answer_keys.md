@@ -204,6 +204,53 @@ Q5   [1
 (A,Q)=0001 1100
 Converting to decimal:
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Single Precision (32-bit)
+IEEE 754 Single Precision consists of:
+© 1-bit sign: 0 (positive number)
+¢ 8-bit exponent: F + 127
+10 + 127 = 13719 = 100010012
+* 23-bit mantissa (excluding the leading 1):
+
+00111010110010000000000
+
+Thus, the Single Precision IEEE 754 Representation:
+0 10001001 00111010110010000000000
+Double Precision (64-bit)
+IEEE 754 Double Precision consists of:
+¢ 1-bit sign: 0 (positive number)
+« 11-bit exponent: F + 1023
+
+10 + 1023 = 1033; = 10000001001,
+
+* 52-bit mantissa (excluding the leading 1):
+
+0011101011001000000000000000000000000000000000000000
+
+Thus, the Double Precision IEEE 754 Representation:
+
+0 10000001001 0011101011001000000000000000000000000000000000000000
+
+Step A (Accumulator) Q (Multiplier) Qs Operation
+
+Initial 0000 0100 ti) Initial values
+
+1 0000 0100 0 No operation (Qs, Q-: = 00)
+
+Shift 0000 0010 0 Arithmetic Right Shift (ARS)
+
+2 0000 0010 ft) No operation (Qo, Q-: = 00)
+
+Shift 0000 0001 tt) Arithmetic Right Shift (ARS)
+
+3 0000 0001 0 No operation (Qe, Q-: = 00)
+
+Shift 0000 0000 1 Arithmetic Right Shift (ARS)
+
+4 0111 0000 1 A=A+M (A = 0000 + 0111 = 0111)
+
+Shift 0011 1000 i) Arithmetic Right Shift (ARS)
 --- page 7 ---
 b.
 [1
@@ -227,6 +274,59 @@ b.   [1
 4) Based indexed addressing mode.
 5) Relative based indexed addressing mode
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+" SUPER FAST
+‘SUPER EXPENSIVE
+TINY CAPACITY
+
+CPU CACHE
+
+FASTER
+EXPENSIVE
+‘SMALL CAPACITY
+
+EDO, SD-RAM, DDR-SDRAM, RD-RAM PHYSICAL MEMORY
+
+FAST
+ED REASONABLY
+
+PRICI
+and More... AVERAGE CAPACITY
+
+SOLID STATE MEMORY AVERAGE SPEED
+‘SSD, Flash Drive PRICED REASONABLY
+AVERAGE CAPACITY
+
+Mechanical Hard D VIRTUAL MEMORY
+
+CHEAP
+LARGE CAPACTITY
+
+A Simplified Computer Memory Hierarchy
+Illustration: Ryan J. Leng
+
+Feature Volatile Memory Non-Volatile Memory
+
+Definition Memory that requires power to retain Memory that retains data even when power is
+data. turned off.
+
+Examples RAM (Random Access Memory), Cache ROM (Read-Only Memory), SSDs, HDDs, Flash
+Memory Memory
+
+Data Retention Loses data when power is off. Retains data permanently.
+
+Speed Very fast (used for active processing). Slower compared to volatile memory.
+
+Usage Temporary storage for active programs Permanent storage for operating systems,
+and processes, applications, and files.
+
+Cost Generally more expensive per unit of More affordable per unit of storage.
+storage.
+
+Power Requires continuous power supply. Does not require power to store data.
+
+Dependency
 --- page 8 ---
 a.   data segment   [1
 num1 dw h   0]
@@ -348,6 +448,42 @@ PC’s, Macs, and most Unix platforms.
 There are several ways to represent floating point number but IEEE 754 is the
 most efficient in most cases. IEEE 754 has 3 basic components:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Non-Restoring Division Table
+
+Step Operation A (Accumulator) Q (Quotient) Action (Qo)
+Initial Start 0000 1101
+1 Shift Left (A, Q) 0001 1010
+
+A= A -~ d(0001 - 0011) 1110 1010 0 (Negative)
+2 Shift Left (A, Q) 1101 0100
+
+A= A+d(1101 + 0011) Wi 0100 0 (Negative)
+3 Shift Left (A, Q) 1110 1000
+
+A= A+ d(1110 + 0011) 0001 1000 1 (Positive)
+4 Shift Left (A, Q) 0011 0000
+
+A= A- d(0011 - 0011) 0000 0001 1 (Positive)
+
+MEMORY
+INTERFACE
+
+1 €u 2 A-BUS
+
+AH. AL
+BH BL
+cH cL ARITHMETIC
+i DH DL LOGIC UNIT
+1 3P
+i BP
+! St
+a ‘OPERANDS i}
+
+FLAGS J LI
+
+FIGURE 2-7 8086 internal block diagram. (Inte! Corp.)
 --- page 5 ---
 1.   The Sign of Mantissa –
 This is as simple as the name. 0 represents a positive number while 1
@@ -372,6 +508,22 @@ Q5
 [10]
 AQ=0000 1110 = 18
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Step A (4-bit) Q (4-bit) (Multiplier) Q, Operation
+
+Initial 0000 0011 0 Initialization
+
+1 0000 0011 ty) (Qo Q-1 = 00 — Shift Right)
+2 0000 0001 1 Shift Right
+
+3 1010 0001 1 (Q0.Q-1+=11-A=A-M)
+4 1101 1000 1 Shift Right
+
+5 0011 1000 1 (QoQ-1=10 -A=A+M)
+6 0001 1100 0 Shift Right
+
+7 0000 1110 0 Shift Right (Final Step)
 --- page 6 ---
 b.
 [10]
@@ -412,6 +564,36 @@ USB 1.0/1.1: 1.5 Mbps (Low Speed) and 12 Mbps (Full Speed)
 USB 2.0: 480 Mbps (High Speed)
 USB 3.0/3.1: 5 Gbps to 10 Gbps (SuperSpeed)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+MOTHERBOARD
+
+Types of cache memory
+Cache memory is fast and expensive. Traditionally, it is categorized
+as "levels" that describe its closeness and accessibility to the
+microprocessor,
+There are three general cache levels:
+
+L1 cache, or primary cache, is extremely fast but relatively small,
+and is usually embedded in the processor chip as CPU eache.
+
+L2 cache, or secondary cache, is offen more capacious than L1.
+L2 cache may be embeddec
+clip or coprocessor and have a high-speed alternative system bus
+conmecting the cache and CPU. That way it doesut get slowed by
+traffic on the main system bus
+
+on the CPU, or it can be om a separate
+
+Level 3 (L3) cache is specialized memory developed to improve the
+performance of L1 and L2.L] or L2 can be significantly faster than
+L3, though L3 is usually double the speed of DRAM.
+
+With multicore processors, each core can have dedicated L1 and L2
+cache, but they can share an L3 cache. If an L3 cache references an
+instruction, it is usually elevated to a higher level of cache.
+
+Figure 1.2 Simplified View of Major Elements of a Muldcore Computer
 --- page 7 ---
 USB 4.0: Up to 40 Gbps
 b.   ❖ The addressing mode is divided into following groups,   [10]

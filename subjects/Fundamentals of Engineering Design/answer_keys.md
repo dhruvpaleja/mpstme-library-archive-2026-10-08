@@ -71,6 +71,63 @@ CO-2 ;   a
 SO- 7;
 BL-2
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+The maximum power rating is 75 kW.
+Therefore,
+
+1/4
+7.5(@4=75 or @= (4)
+
+= (10)'/* = Y10 = 1.7783
+Step I Power mting of models
+
+Rating of first model =(7.5) kW
+Rating of second model = 7.5(1.7783) = 13.34
+
+= (13) kW
+
+Rating of third model = 7.5(1.7783)? = 23.72
+= (24) kW
+
+Rating of fourth model = 7.5(1.7783) = 42.18
+= (42) kW
+
+Rating of fifth model = 7.5(1.7783)* = 75.0
+= (75) kW
+
+Step I Calculation of ratio factor
+
+When the number of models is increased to nine,
+
+the power rating of nine models will be as follows:
+7.5(@)", 7.5(9)', 7.5(@7, 7.5(¢)", 7.5(@)*, ...,
+
+7.5(o)*
+
+The maximum power rating is 75 kW.
+
+Therefore,
+
+5 1/8
+T.5(o)8=75 or o-(3)
+
+=(10)"8 = 1.3335
+
+Step IV Power rating of models
+
+The power rating of the nine models will be as
+
+follows:
+First model = 7.5 (1.3335)" = (7.5) kW
+Second model = 7.5 (1.3335)! = 10.00 = (10) kW
+Third model = 7.5 (1.3335) = 13.34 =(13) kW
+Fourth model = 7.5 (1.3335)? = 17.78 = (18) kW
+Fifth model = 7.5 (1.3335)* = 23.72 = (24) kW
+Sixth model = 7.5 (1.3335)5 = 31.62 = (32) kW
+Seventh model = 7.5 (1.3335)°= 42.17 = (42) KW
+Eighth model = 7.5 (1.3335) = 56.24 = (56) kW
+Ninth model = 7.5 (1.3335)* = 74.99 =(75) kW
 --- page 3 ---
 Q5
 CO-3;   b
@@ -89,6 +146,19 @@ CO-3 ;   b
 SO-2 ;
 BL-2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The effective length of weld (/,) for the transverse weld may be
+obtained od by subtracting 12.5 mm from the width of the plate.
+rf = 75-12.5=62.5 mm
+Length of each parailel fillet for static loading
+Let 1, = Length of each parallel fillet.
+We know that the maximum load which the plate can carry is
+P= Area x Stress=75 * 12.5 * 70=65 625 N
+Load carried by single transverse weld,
+P, = 0.707 5% 1], *G,=0.707 = 12.5 * 62.5 x 70 = 38 664 N
+and the load carried by double parallel fillet weld,
+P, = 14145 1,* 1=1.414* 12.5 * 1, x 56 =9901,N
 --- page 4 ---
 Length of each parallel fillet for fatigue loading
 
@@ -303,6 +373,31 @@ b
 Q6   Correct explanation of any five design considerations
 a   02 marks for each considerations
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+( Specify Functions of Element )
+
+( Determine Forces Acting on Element }
+
+<P
+
+( Select Suitable Material for Element )
+
+( Determine Failure Mode of Element }
+
+ww
+
+( Determine Geometric Dimensions of Element }
+
+M7
+
+Modify Dimensions for Assembly and Manufacture
+and
+Check Design at Critical Cross-sections
+
+ww
+
+( Prepare Working Drawing of Element }
 --- page 3 ---
 Pe dew nw Ls koomm € = 2105 0/mm™
 
@@ -583,6 +678,26 @@ SO- 4;   Root Mean Square roughness (Rq), correct explanation 2.5 marks
 BL- 2
 Maximum surface roughness (Rmax) correct explanation 2.5 marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Market survey
+
+( Define Specifications of Product )
+
+Study Alternative Mechanisms for Product
+and
+Select Proper Mechanism
+
+Prepare General Layout of Configuration
+and
+Select Joining Methods between
+Individual Components of Product
+
+( Design Individual Components )
+
+Prepare Assembly and Detail Drawings
+and
+Modify Drawings after Testing Prototype Model
 --- page 3 ---
 Ten point height of irregularities(Rz). correct explanation 2.5 marks
 E   i   Explain any following design considerations of castings with neat diagrams

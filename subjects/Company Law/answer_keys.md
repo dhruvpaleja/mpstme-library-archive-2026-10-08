@@ -102,6 +102,48 @@ the company, was legally separate from it.
 company. The Court held that there was a valid contract of employment between Mr.
 Lee and the company, making him an employee under the Workers’ Compensation Act.
 Page 3 of 10
+
+[Text in pictures on this page, read by OCR]
+The minimum number of Directors | The minimum number of Directors
+
+Directors . re . . . oe .
+in a public limited company is 3 in a private limited company is 2
+
+The appointment of only one | Two or more Directors can be
+Director can be done through a | appointed through a single
+single resolution. resolution
+
+Appointment of
+Directors
+
+As per the provisions of the | A private limited company does not
+
+Companies Act, 2013, at least % | have such restrictions relating to the
+Retirement of Directors of the common have to | retirement of Directors by rotation.
+Directors retire by rotation. Out of these
+
+Directors, at least 4 Directors have
+
+to retire each year
+
+the required quorum is A private company needs minimum
+1000 or less - 5 members. | 2 members present to meet the
+Quorum 1000 to 5000 -15 members. | quorum ofa meeting
+
+More than 5000 - 30 members
+
+The AGM of the company is to be | The AGM of a private limited
+held only at its registered office or | company can be held anywhere
+
+AGM any place in the city where the
+
+registered office is situated.
+
+It is mandatory for the public | There is no need for a private
+Statutory company to hold statutory meetings | company to hold a statutory meeting
+Meeting as per the provisions of section 165 | as per the provisions of Companies
+
+of the Companies Act, 2013 Act, 2013
 --- page 4 ---
 Key Takeaways
 Reinforcement of Separate Legal Entity: The case reinforces the principle that a
@@ -450,6 +492,48 @@ the company, was legally separate from it.
 company. The Court held that there was a valid contract of employment between Mr.
 Lee and the company, making him an employee under the Workers’ Compensation Act.
 Page 3 of 10
+
+[Text in pictures on this page, read by OCR]
+The minimum number of Directors | The minimum number of Directors
+
+Directors . re . . . oe .
+in a public limited company is 3 in a private limited company is 2
+
+The appointment of only one | Two or more Directors can be
+Director can be done through a | appointed through a single
+single resolution. resolution
+
+Appointment of
+Directors
+
+As per the provisions of the | A private limited company does not
+
+Companies Act, 2013, at least % | have such restrictions relating to the
+Retirement of Directors of the common have to | retirement of Directors by rotation.
+Directors retire by rotation. Out of these
+
+Directors, at least 4 Directors have
+
+to retire each year
+
+the required quorum is A private company needs minimum
+1000 or less - 5 members. | 2 members present to meet the
+Quorum 1000 to 5000 -15 members. | quorum ofa meeting
+
+More than 5000 - 30 members
+
+The AGM of the company is to be | The AGM of a private limited
+held only at its registered office or | company can be held anywhere
+
+AGM any place in the city where the
+
+registered office is situated.
+
+It is mandatory for the public | There is no need for a private
+Statutory company to hold statutory meetings | company to hold a statutory meeting
+Meeting as per the provisions of section 165 | as per the provisions of Companies
+
+of the Companies Act, 2013 Act, 2013
 --- page 4 ---
 Key Takeaways
 Reinforcement of Separate Legal Entity: The case reinforces the principle that a
@@ -777,6 +861,79 @@ of ₹72 crore.
 As per the law, a Small Company must have: Paid-up share capital not exceeding ₹10
 crore, and Turnover not exceeding ₹100 crore (as per the latest prescribed limits).
 Page 3 of 11
+
+[Text in pictures on this page, read by OCR]
+6. When Company Acts as Agent of Shareholder
+
+Case: FG. Films Lied, Re
+
+British company was only a front for an American producer to clam UK film benefits.
+Court held company was merely an agent, not independent.
+
+7. Protection of Public Policy
+
+Courts intervene when corporate form is used ma manner hammful to public interest.
+Judicial veil lifting ensures law and moral standards are not defeated.
+
+Used when commercial structure conflicts with societal welfare.
+
+§. Statutory Ground — Reduction of Minimum Membership
+
+**Case: 5.45 of Companies Act, 1956 (new similar under 2013 Act principles)
+
+If members fall below statutory mimimum and business continues >6 months, remaming
+members are personally liable. Veil is lifted to fix accountability.
+
+9. Statutory Ground — Fraudulent Conduct of Business
+
+Section 339, Companies Act 2013
+
+If directors carry on business with intent to defraud creditors, they are personally liable. Veil
+lifted to punish fraud and secure creditor nights.
+
+10. Misstatement in Prospectus (Sections 34 & 35)
+Promoters/directors personally liable for any untrue or misleading statements in the
+prospectus. Veil lifted to protect investors.
+
+11, Failure to Refund Application Money
+
+If 90% minimum subscription not received and refund delayed beyond 15 days, directors are
+personally liable with 15% interest.
+
+Veil lifted to secure investor protection.
+
+12. Misdescription of Company Name
+
+Case: Hendon v. Adelman
+
+If company officers sign documents without using correct name, they become personally
+lable. Veil lifted due to improper disclosure.
+
+13. Ultra Vires Acts (Bevond MOA)
+If company performs acts outside its Memorandum, such acts are void and directors may be
+personally lable. Veil lifted to keep activities within legal authority.
+
+14. Investigation of True Ownership
+
+Section 216, Companies Act 2013
+
+Central Government may investigate real beneficianes belind corporate structure.
+Veil lifted to discover actual controllers and prevent misuse.
+
+15. To Expose Evasion of Contractual Obligations
+
+Case: Dell Development Authority v. Skipper Construction Co. (India)
+Company created multiple corporate layers to cheat buyers.
+
+Supreme Court lifted the veil, holding individuals personally liable.
+
+CONCLUSION
+
+Courts lift the corporate veil to prevent fraud, ensure justice, and control misuse of corporate
+personality. It is not done routinely, but only when the company form is abused
+
+Case laws play a cnucial role m deciding when the protection of separate legal identity must yield
+to faumess and public interest.
 --- page 4 ---
 Since PQR Pvt. Ltd. satisfies both conditions, it qualifies as a Small Company.
 Criteria for a Small Company: It must be a private company. Paid-up share capital
@@ -903,6 +1060,36 @@ scope still holds true.
 A. 1.   15
 i. Answer - RHP and Shelf - 3 Each + Other - 2 Each   10
 Page 7 of 11
+
+[Text in pictures on this page, read by OCR]
+Red Herring Prospectus (RHP)
+
+The Red Herring Prospectus (RHP) is a preliminary prospectus or offer document used by
+companies to make an initial public offering (IPO) or a follow-on public offer (FPO) of securities.
+The RHP contains all the relevant information about the company’s shares or debentures, except
+for the final offer price. It is filed with the ROC and circulated to potential investors for their
+consideration. The relevant provisions for RHP under the Companies Act 2013 include:
+
+Section 26: This section outlines the requirements for the contents of a prospectus, including
+the information to be included in the RHP.
+
+Section 32: This section specifies the procedure for filing the prospectus with the ROC,
+including the requirement to file the RHP before the opening of the subscription list.
+
+Section 31: This section mandates the inclusion of a statement in the RHP that the offer is being
+made through a prospectus and that investors should read the prospectus before making an
+investment decision.
+
+e It is the offer document which contains all the details about the offer of securities. However
+it does not include quantum of issue and the price of securities.
+
+e Furthermore, it is not the final prospectus as Company can update it several times before
+the final issue.
+
+e Issuer Company needs to file it with Registrar at least 3 days prior to the opening of offer.
+
+e It is named in such a way because it contains a para in Red ink. That states that Company
+is not attempting to sell the shares before approval of SEBI.
 --- page 8 ---
 Shelf Prospectus
 
@@ -972,6 +1159,29 @@ If he fails to disclose to the Board his interest in any contract entered into b
 company.
 ------------- OR -------------
 Page 9 of 11
+
+[Text in pictures on this page, read by OCR]
+Deemed Prospectus
+
+A Deemed Prospectus refers to any document that fulfils the characteristics of a prospectus and
+invites subscription or offer for securities of a company. It includes documents like
+advertisements, pamphlets, circulars, or any other communication that offers securities to
+the public for subscription or purchase. Such documents are deemed to be prospectuses and are
+subject to the same regulatory requirements as a regular prospectus. The relevant provisions for
+Deemed Prospectus under the Companies Act 2013 include:
+
+Section 2(70) and Section 2(71): These sections define the term “prospectus” and “deemed
+prospectus” respectively, and outline the broad scope of documents that may be considered as a
+deemed prospectus.
+
+Section 26 and Section 32: These sections, as mentioned earlier, also apply to deemed
+prospectuses, requiring them to comply with the same requirements for contents and filing as
+regular prospectuses.
+
+e = Itis adocument which the company issues in case of offer for sale of securities to the public.
+
+© Moreover this document is an invitation to public to purchase the shares of company through
+an intermediary such as Issuing House.
 --- page 10 ---
 B. 1.   15
 i. Meaning 2 + Qualification 3 + Disqualification 5   10

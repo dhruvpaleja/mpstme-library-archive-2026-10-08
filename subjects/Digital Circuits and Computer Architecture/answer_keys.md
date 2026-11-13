@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CS_7055/Digital Circuits and Computer Architecture/ANS_Digital Circuits and Computer Architecture(702CS0C006)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 28 Nov 2025
 - Text: mixed (12 pages), mean OCR confidence 57.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -62,6 +63,27 @@ BL-4
 Ans
 Each point for 1 mark
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Sr. No. Combinational circuits Sequential circults
+
+1 In combinational circults, the outpul variables In sequential cireuits, the output variables
+are at all times dependent on the combination | depend not only on the present input
+
+of input variables, varlables but they also depend upon the
+past history of these input variables.
+2. Memory unit is not required in combinational Memory unit is required to store the past
+circuits, history of input variables in the sequential
+creuit.
+
+3 Combinational circuits are faster in speed Sequential circuits are slower than the
+because the delay between input and output is | combinational circuits.
+due to propagation delay of gates,
+
+4. Combinational circuits are easy to design. Sequential circuits are comparatively harder
+to design.
+
+5, Parallel adder is a combinational circuit, Serial adder is a sequential circuit.
 --- page 3 ---
 a.   Apply the Karnaugh map method to minimize the given Boolean
 function. Explain each step and illustrate the simplified circuit with a
@@ -81,6 +103,36 @@ b.   Design a 3-bit synchronous down counter. Analyze and justify each
 [10]
 step of your design process, including the choice of flip-flops,
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Cache Addresses Write Policy
+
+Logical Write through
+Physical Write back
+
+Cache Size Line Size
+
+Mapping Function Number of Caches
+Direct Single or two level
+Associative Unified or split
+
+Set associative
+
+Replacement Algorithm
+Least recently used (LRU)
+First in first out (FIFO)
+Least frequently used (LFU)
+Random
+
+group 1 is formed by combination of two pairs from two different 16-cell maps. Group 2 is
+quad within the first 16-cell map group 3 is formed by another combination of two pairs
+from two different 16-cell maps. The first 16-cell has one more pair of 1s which is referred
+to as group 4. Group 5 and group 6 are the quad and pair from the second 16-cell map,
+respectively.
+
+Therefore, we get —e_" expression as
+
+F (A, B,C, D, E) = BCD+ADE+ BCE+ABCD+ ACD+ ABCE
 --- page 4 ---
 excitation table, state transition diagram, waveform and logic
 equations. Draw the complete circuit diagram for your design.
@@ -114,6 +166,22 @@ read into the MBR.
 •   Instruction Register (IR):- Content the 8-bit opcode
 instruction being executed.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+om(FETt {iit k=
+
+(a) Serial shift right, then out (b) Serial shift left, then out
+Data bits
+
+Titi
+
+trv?
+Data bits
+(c) Parallel shift in (d) Parallel shift out
+
+FEE? StH
+
+(e) Rotate right (f) Rotate left
 --- page 6 ---
 •   Instruction Buffer Register (IBR):- Employed to hold
 temporarily the right hand instruction from a word in
@@ -131,6 +199,22 @@ algorithm.
 SO-2;
 BL-3,4 Ans.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+LOCA (i.e. 5000) is transferred (from IR) to MAR. MAR € IR[Operand]
+READ request is issued to memory unit.
+
+The data is fetched to MDR. MDR © Mem[MAR]
+The content of MDR is added to R1. R1 © R1+MDR
+
+The steps being carried out are called micro-operations:
+MAR © PC
+MDR © Mem[MAR}
+IR ©MOR
+PO €&Ppc+4
+MAR € IR[Operand]
+MDR © Mem[MAR]
+Rl ©R1+MODR
 --- page 7 ---
 Step   A   Q   Q₋₁ (Q₀, Operation   After
 (before) (before)   Q₋₁) (A ← …) Arithmetic
@@ -154,6 +238,27 @@ Step   0011   0001   0   (1,0) A = A –   1101 1000,
 1000 =
 1011
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+As0 Q,;+0
+B + Multtiplicand
+Q + Multiplier
+Count <—n
+
+|
+
+} i
+
+Arithmetic Shift
+Right: A, Q, Q_,
+Count <— Count - 1
+
+No
+
+Yes
+Cena )
+
+Fig. 2.20 Booth’s algorithm for signed multiplication
 --- page 8 ---
 b.   Analyze and differentiate various addressing modes used in a
 processor. Explain the working of each addressing mode with suitable
@@ -178,6 +283,25 @@ SO-1;
 BL-3,4
 RISC and CISC architectures. (5 marks)
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+CPU
+
+Control Unit —
+
+y
+
+Arithmetic
+And Logical Unit Output
+
+Input
+
+JL
+
+Memory Unit
+
+Block Diagram of a Computer
+ArtOfTesting
 --- page 9 ---
 b.   Explain the working principle of an SR flip-flop. Describe the
 importance of cache memory and distinguish between different cache [10]
@@ -205,6 +329,25 @@ importance in a computer system. Further, design a Decimal-to-BCD
 encoder using a suitable block diagram, truth table, and logic
 diagram.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+No. RISC cIsc
+1 Clock rate is 50-150 MHz in 1993. Clock rate is 33-50 MHz in 1992.
+2 Simple instructions taking one cycle. Complex instructions taking multiple cycles.
+An average CPI is less than 1.5. An average CPI is between 2 and 15.
+3 Simple instructions taking one cycle Complex instructions taking multiple cycles
+4 Very few instructions refer memory Most of instructions may refer memory
+5 Instructions are executed by hardware | Instructions are executed by microprogram
+6 Fixed format instructions Variable format instructions
+7 Few instructions Many instructions
+8 Few addressing mode, and most Many addressing modes
+instructions have register to register
+addressing mode
+9 Complexed addressing modes are Supports complex addressing modes
+synthesized in software
+10 | Multiple register sets Single register set
+aI Highly pipelined Not pipelined or less pipelined
+12 | Complexity is in the compiler Complexity is in the microprogram
 --- page 10 ---
 Ans. Diagram and explanation 5 marks
 a.   Analyze and implement the given Boolean function using an 8:1
@@ -216,6 +359,43 @@ SO-6;   computer system with the help of a neat and well-labeled diagram.
 BL-4,6
 f (A, B, C, D) = πM (0,3,5,8,9,1012,14)
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Interface to Interface to
+‘System Bus External Device
+
+mao Ho
+
+Data
+Data Status
+Lines
+
+Address Do
+Lines ™ External °
+
+wo Device
+Logic Interface —
+Control Logic Ps
+
+Lines *
+
+Decimal to BCD Encoder
+
+9 —Lenwdin}—
+
+D= 8+49
+
+C= 4454644
+*
+
++10
+0 + Y-)
+o +0 4
+
+D
+@ = 233 FELT
+
+A= V\434+54F79
 --- page 11 ---
 Ans.
 •   Structure : The way in which components relate to each other.
@@ -234,6 +414,23 @@ AB + C (A +D )= AB + BD + BD + ACD
 Ans.   1.
 2.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+A
+
+1
+
+Do | Oy | Dz | Dz | Dy | Os | OG} O7
+
+01@/@!3/@|s|6/@
+8} 9 | 10/@] 12|/@| 4] @
+
+t)
+
+Os; 8:1
+D, MUX
+
+B co
 --- page 12 ---
 Solution:
 
@@ -349,6 +546,20 @@ The master-slave configuration uses two flip-flops — the master
 responds to the clock’s leading edge, and the slave responds to the
 trailing edge.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+cD
+ABN. €D, CD cp ,cD
+
+AB 4 4 4
+0 1 3 =
+AB 4 4
+4 5 7 6
+AB 1 1
+12 3 15 14
+AB| 1 1 1
+
+8 9 11 10
 --- page 3 ---
 This ensures that the output changes only once per clock cycle,
 completely eliminating the race-around problem.
@@ -511,6 +722,27 @@ SO- 3;
 represented in machine language.
 BL-3
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Sr. No. Combinational circuits Sequential eireults
+
+1 In combinational circuits, the output variables In sequential circuits, the output variables
+are at all times dependent on the combination | depend not only on the present input
+
+of input variables, varlables but they also depend upon the
+past history of these input variables.
+2. Memory unit is not required in combinational Memory unit is required to store the past
+circuits. history of input variables in the sequential
+ereuit.
+
+KR Combinational circuits are faster in speed Sequential circuits are slower than the
+because the delay between input and output is | combinational circuits.
+due to propagation delay of gatos.
+
+4. Combinational circuits are easy to design. Sequential circuits are comparatively harder
+to design.
+
+5, Parallel adder is a combinational circult. Serial adder is @ sequential circuit.
 --- page 2 ---
 Ans.
 CO-4;   d.   Analyze the concept of memory hierarchy in computer systems. Explain
@@ -529,6 +761,56 @@ BL-3,4   Ans.   Define – 2marks
 Explanation 3 marks
 Implementation for 5 marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+LOCA (i.e. 5000) is transferred (from IR) to MAR. MAR € IR[Operand]
+READ request is issued to memory unit.
+
+The data is fetched to MDR. MDR © Mem[MAR]
+The content of MDR is added to R1. R1 © R1+MDR
+
+The steps being carried out are called micro-operations:
+MAR © PC
+MOR © Mem[MAR]
+IR ©MODR
+PO © PC+4
+MAR © IR[Operand)
+MDR © Mem[MAR)
+R1 ©R1+MDR
+
+Computer Memory Hierarchy
+
+small size
+small capacity
+
+processor registers
+very fast, very expensive
+
+power on
+immediate term
+small size
+
+small capacity
+
+processor cache
+very fast, very expensive
+
+medium size
+medium capacity
+
+power on
+very short term
+
+random access memory
+fast, affordable
+
+small size power off flash / USB memory
+large capacity short term slower, cheap
+large size power off hard drives
+very large capacity mid term slow, very cheap
+large size power off tape backup
+
+very large capacity long term very slow, affordable
 --- page 3 ---
 b.   Explain the Race-Around Condition observed in JK Flip-Flops.
 Design a 4-bit Synchronous Up Counter using JK Flip-Flops and   [10]
@@ -541,6 +823,19 @@ CO-2,3;   combinational logic design procedure.
 SO-6;   Ans. Each step 2 marks
 BL-3,4
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+In JK flip-flop, when J = K = 1, the output toggles (output changes either from 0 to 1
+or from 1 to 0). Consider that initially Q = 0 and J = K = 1. After a time interval At equal
+to the propagation delay through two NAND gates in series, the output will change to
+Q = 1 and after another time interval of At the output will change back to Q = 0. This
+toggling will continue until the flip-flop is enabled and J = K = 1. At the end of clock
+pulse the flip-flop is disabled and the value of Q is uncertain. This situation is referred to
+as the race-around condition. This is illustrated in Fig. 5.28. This condition exists when
+t, 2At. Thus by keeping t,, < At we can avoid race around condition.
+
+We can keep t, < At by keeping the duration of edge less than At. A more practical
+method for overcoming this difficulty is the use of the master-slave (MS) configuration.
 --- page 4 ---
 1 i) 0 0 1 1 1 1
 
@@ -592,6 +887,24 @@ CO-3;
 SO-2;
 BL-3,4
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+om [FT fab
+
+(a) Serial shift right, then out (b) Serial shift left, then out
+Data bits
+
+Tyii
+
+try
+—~__————
+
+Data bits
+(c) Parallel shift in (d) Parallel shift out
+
+HEY
+
+(e) Rotate right (f) Rotate left
 --- page 7 ---
 b.   Explain the data transfer and manipulation operations performed by the
 CPU in detail. Design and describe the sequence of micro-operations
@@ -670,12 +983,76 @@ BL-3,4   Ans.   Octal to Binary Encoder (5 marks)
 Octal to binary Encoder has 8 input lines one for each octal digit and 3 output
 lines that generates the binary code depending on which of the one input
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+l 1
+Main Program |
+
+| CALL SUBROUTINE |
+
+Ll }
+T
+
+l 1
+| Save PC to Stack |
+
+| Jump to Subroutine |
+
+L ; J
+
+v
+
+l l
+| Subroutine Execution|
+
+| RETURN Instruction |
+
+I l
+Restore PC & Continue
+I |
 --- page 10 ---
 line output of 8 input lines is activated. The truth table for octal to binary
 encoder is shown in Table 2.10.
 Table 2.10: Truth Table For Octal To Binary Encoder
 Intel 8086 (5 marks)
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Octal Input Output
+
+digits I, I, I, | I, | B, | B, | B,
+0 0 0 0 1 0 0 0
+1 0 0 1 0 0 0 1
+2 0 1 0 0 0 1 0
+
+Octal Digits
+
+bo & & & bo ol & F
+
+\ oF Nyt ty + Ie +d
+=|
+
+-
+
+5
+
+£
+
+\ wht thth \ B
+—il =
+g
+
+z
+
+| Bo=1,+ 15 + A
+)
+
+Figure 2.31: Logic Diagram for Octal To Binary Encoder
+
+Output, B,=1,+1,+1,+1,
+B,=1,+1,+1,+1,
+B,=1, +1, +1,+1,
+I, is not there in any of the output, so I, acts as don’t care.
 --- page 11 ---
 b.   Explain the working principles of single-level and multi-level cache
 memory, focusing on their impact on performance and data access

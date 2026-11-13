@@ -138,6 +138,23 @@ Determine & explain the fundamentals of the advertising campaign for
 Center Fresh based on the case study above.
 The student may write on the following pointers-
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+«Digging for facts, data, information and knowledge
+Research *Helps unearth nuggets about target audience, spot new trends, uncover
+new product uses, discover competitor's weaknesses, etc.
+_ * ‘Message’ that the advertiser gives to solve a communications-
+Advertising related problem
+strategy « What the advt proposes to do or say to solve the communication
+problem
+*Idea that advertisers select for communicating the strategic message
+Bi ig idea ina creative way- link b/w strategy and creative execution
+*Central theme for a series of ad campaigns
+. . *Physical form of an advertisement — story, script, copy, art, music,
+Creative execution words and phrases, colour, production, etc.
+Tactics | Short-term decisions about specific, tangible tasks related to the
+
+advertising method, media, etc.
 --- page 4 ---
 Q4   [10]
 CO-2;   A streaming service Amazon Prime Video has collaborated with Discovery+,
@@ -214,6 +231,15 @@ use in the marketing communication.
 The student may write on the following pointers- (Ad execution technique any 5-
 2 marks per technique)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Straight sell | Animation |
+Scientific/Technical | Personality Symbol |
+
+Demonstration } Imagery |
+Comparison | Dramatization |
+Testimonial | Humor |
+Slice of life | Combinations |
 --- page 6 ---
 Q6   Dream11, India’s largest fantasy sports platform, has announced the [10]
 CO-3;   promotion of its Responsible Gaming Campaign. Dream11’s Responsible
@@ -1825,6 +1851,87 @@ x -——-——
 2)9_
 ````
 
+## 2012-13 · Exam not stated · Trim 14 · paper 08188816b006
+
+- Departments: Common (all branches)
+- Programmes: MBA TECH
+- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Integragrated Marketing Communication/scan0011(12).pdf`
+- Printed on paper: max marks: 50; duration hours: 2; exam date: 10/01/2013
+- Text: ocr (4 pages), mean OCR confidence 83.9
+- 3 pages scanned sideways or upside down, turned upright before OCR
+
+````text
+SVKM’s NMIMS
+
+Mukesh Patel School Of Technology Management & Engineering
+Programme: MBA (Tech) -ALL STREAMS Year: V Trimester: XIV
+
+| Academic Year : 2012-2013
+{
+L
+Subject: INTEGRATED MARKETING Marks: 50
+COMMUNICATION Time: '2.00 p.m To 4.00 p.m
+Date: 10/01/2013 Duration: 2 hrs.
+
+Final - Examination
+
+Instructions: Candidates should carefully read the instructions printed on the question paper and on the cover of the Answer Book, which is
+provided for their use.
+
+1. This Question Paper is of four pages including the case study
+2. Please take care to provide only concise, relevant answers.
+3. All questions are compulsory
+
+4. Answer to each question to be started ona fresh page.
+
+5. Figures in brackets on the right hand side indicate full marks
+
+Please read the case and answer the following questions:
+
+1. Analyse the category using the FCB framework ? ( 10 marks)
+
+2. Analyse the creative strategy of the campaign explaining the message strategy, creative strategy, appeals, and execution frameworks,
+creative elements and tagline ? (20 marks)
+
+3. Contrast its strategy with Reid and Taylor which uses Film-star Amitabh Bachhan as a brand ambassador? Evaluate the effectiveness of
+using a film celebrity as an endorser? ( 10 marks)
+
+4. Assess the strengths and weaknesses of various media in communicating a brand like Raymonds ? (10 marks)
+--- page 2 ---
+Raymonds — The Complete Man al
+
+Raymond Limited, one of the leading players in the woolen textile business in India, was incorporated in 1925, It has significant presence in the
+apparel market as well.as is a dominant player in apparels and accessories. The brand has associated itself with trust, superior product quality
+and an outstanding retail experience.
+
+The Raymond brand has always been linked with a discerning male who cares about looking good and sets his own personal standards of
+conduct targeted at two sets of audiences — the young adult, and the slightly more mature man who has arrived in life. One of its campaigns is
+shown here ; the brand has communicated through a series of other campaigns portraying relationships like Father-son, Mother — son,
+husband-wife, student teacher etc.
+
+Over the years the Raymond Campaign has been consistent and noticeable by the target audience. After the campaign the ad effectiveness
+metrics can be summarized as below:
+
+Through its media mix, the brand has achieved a Share of Voice of 40% versus a Share of Voice of 12% for its competitors. In the suiting category
+the brand has achieved a 49% top of the mind recall. The nearest competitor was at 12%. .
+--- page 3 ---
+The cheerful and happy face of a little girl (The mystery is solved when we find “(Continuing with their play, she enjoy
+
+eeps appearing and disappearing before the her father playing with her by rocking her around the room, standing on his fe
+camera. ion his feet.
+
+y:
+Foals. like
+Devising new games the father and daughter [Tired with all the running around, he Hugging her father's leg, the little ar
+now run around the house, trying to catch each finally flops onto the couch. he soft fabric against her cheek.
+other. Super: 'Feels like heaven.'
+~
+
+% = |
+--- page 4 ---
+=
+````
+
 ## 2011-12 · Re-Exam · Trim 14 · paper c4403744a479
 
 - Departments: Common (all branches)
@@ -2252,21 +2359,4 @@ d) Public relation
 e) Direct marketing
 
 x ~
-````
-
-## Year not stated · Exam not stated · Trim 14 · paper 08188816b006
-
-- Departments: Common (all branches)
-- Programmes: MBA TECH
-- Source: `02_Question_Papers/Legacy/MBA TECH/5TH YEAR/ALL STREAM/XIV TRIM/Integragrated Marketing Communication/scan0011(12).pdf`
-- Text: ocr (4 pages), mean OCR confidence 68.0
-
-````text
-<
---- page 2 ---
-
---- page 3 ---
-+
---- page 4 ---
-=
 ````

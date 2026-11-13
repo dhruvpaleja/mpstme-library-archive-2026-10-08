@@ -1,8 +1,209 @@
 # Robotic Systems Design: question papers in full
 
-7 unique papers · 2021-22 to 2025-26 · Mechatronics
+11 unique papers · 2021-22 to 2025-26 · Mechatronics
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 7 · paper 25a2aa26b76b
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: MECHATRONICS/SEMESTER VII/ROBOTICS SYSTEMS DESGIN/Robotics_Systems_Design__Sem-VII___Year_2025-26_Final_Exam_4rBichVWKF.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
+- Text: ocr (3 pages), mean OCR confidence 84.6
+
+````text
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+
+Programme: BACHELOR OF TECHNOLOGY (MECHATRONICS ENGINEERING)
+Year: IV/Semester VII(Exam Year: 2025-2026)
+Subject: Robotic Systems Design
+
+Date: 03 Dec 2025 Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+
+¥
+
+FINAL EXAMINATION (Acad. Year:2025-2026)
+
+Instructions: :
+
+1. This question paper contains 3 pages.
+
+2. Answer to each new question to be started on a fresh page.
+
+3. Figure in right hand side indicates full marks
+
+4. Question No. | is compulsory.
+
+5. Out of the remaining questions, attempt any 4 questions.
+
+6. In all 5 questions to be attempted.
+
+7. Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+CO1,SOl a, Compare hard and soft automation-with industrial examples. 5
+BL1
+
+CO3,SO1_ —_b. Solve for [m?]* following the motion mentioned below, Let F = (f1, f7, f?} 5
+
+Bie and M = {m',m?,m3} be two initially coincident fixed and mobile
+
+orthonormal coordinate frames respectively. Suppose we,
+i. Rotate M along f? by 77/4 radians
+ii. Also draw the vector diagrams
+
+CO1,SOl ¢,
+
+Define “workspace” and with neat diagram show how it is for a cylindrical, 5
+BL2
+
+cartesian and SCARA robot.
+
+C02, SO1 d. Compare the functional differences between proportional, integral, and 5
+
+BE2 derivative control actions with practical robotic scenarios.
+Q2 a. Derive the forward kinematic equations and find the position and orientation of [10]
+C04, SO1 Tool in workspace for the given kinematic parameter table for a 2-axis planar
+BES robot (d2 = 220mm, 01 = 40°).
+Axis Ox d;, ay ay
+
+1 O, 0 0 —m/2
+
+2 0 d, 0 0
+C02,SOl1 _. Explain with a neat block diagram how a single-axis PID controller stabilizes a [10]
+BL2
+
+robotic joint, discussing the effect of increased integral gain.
+
+FIO 7 SRE
+--- page 2 ---
+Q3
+C04, SO1
+BL4
+
+Q4
+CO3, SOL
+BL3
+
+COS, SOL
+BL3
+
+a. Analyze a5 axis Microbot Alpha II Robotic Arm and compute the following.
+
+Base Toot
+. pitch
+
+Elbow
+
+Shoulder
+.
+
+l
+
+i. Link coordinate diagram
+ii. Link coordinate table.
+iii. Individual Link coordinate transformation matrices.
+
+a Solve for [p]’ if [p]M=[6 8 10 17, Let F = {f1,f7, f°} and
+M = {m', m?, m3} be two initially coincident fixed and mobile orthonormal
+coordinate frames respectively. Suppose we,
+
+i. Rotate M along f+ by 7/2 radians
+ii. Translate M along f” by 20 units.
+iii, | Rotate M along f? by 7 radians
+
+Also draw the vector diagrams.
+
+b. Develop a Link coordinate diagram and kinematic parameter table for
+
+Yaskawa Motoman 6 axis Robot.
+Tool Pitch
+
+= $y Tool Roll
+Elbow
+
+— Tool Yaw
+
+Should: Ps
+oulder to}
+rr
+
+<|> Base
+
+FGI 2 AG ao ik
+
+[20]
+
+[10]
+
+[10]
+
+-_
+--- page 3 ---
+é
+
+Q5
+C03, SO1
+BL4
+
+Q6
+CO2, SOL
+BL2
+
+COS, SO1
+BL2
+
+Q7
+C04, SOL
+BL2
+
+COS, SOL
+BL2
+
+a.
+
+Analyze the arm matrix derived from the kinematics parameter table given
+below: ,
+
+Axis Ox d;, a, ay
+1 qh 0 0 *| aw 0
+2 0 q2 0 “1/2
+3 0 q3 0 0
+
+i. Perform the Inverse Kinematics analysis and find equations for ql, q2 and
+q3.
+
+ii. Also solve for the values of Joint angles required to move to point Pp located
+at [10 12 16]
+
+List and elaborate on typical sources of steady-state error in robot control and
+suggest remedies for each.
+
+Explain in detail with schematic how robotic part inspection using a vision
+system is carried out in a robotic work cell.
+
+Explain the concept and _ significance of Homogeneous Coordinate
+Transformation Matrix (HCTM) ard Composite Rotation Algorithm in robotic
+manipulator kinematics.
+
+Discuss the pick-and-place operation of a robotic arm, describing the process
+steps and its speed control mechanism.
+
+[20]
+
+[10]
+
+[10]
+
+[10]
+
+[10]
+
+FRR
+````
 
 ## 2025-26 · Final-Exam · Sem 7 · paper 913456af7929
 
@@ -186,6 +387,383 @@ rotation matrix by substituting the given values. Also draw the vector diagrams.
 CO1, SO1   b. Explain the concept of reach and stroke of a robotic arm. Classify robots based [10]
 BL2   on drive systems with examples.
 ********** 3 **********
+````
+
+## 2024-25 · Final-Exam · Sem 7 · paper dcd730014a66
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: MECHATRONICS/SEMESTER VII/ROBOTICS SYSTEMS DESGIN/Robotics_Systems_Design__Sem-VII__Final_Exam_2024-25_ZL1CYZejUN.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 04/12/24
+- Text: ocr (3 pages), mean OCR confidence 83.2
+
+````text
+SVKM’S NMIMS j
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT & ENGINEERING
+Academic Year: 2024-2025
+
+Program: B. Tech, Stream: Mechatronics . Year: IV, Semester: VII
+Subject: Robotic Systems Design Time: 03 hrs (10 AM to 01 PM)
+Date: 04/12/24 No. of Pages: 03
+
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory. w
+
+2) Out of the remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted. _
+
+4) All questions carry equal marks.
+
+5) Answer for each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+
+7) Assume Suitable data if necessary.
+
+Ql Answer briefly: [20]
+CO-1;SO-1; a, Define Robot and explain Hard automation used in industrial robots. 5
+BL-2 7
+CO-2;SO-1; b, Explain Homogeneous Coordinate Transformation Matrix in brief. 5
+BL-2 .
+CO-3;SO-1; ¢, Explain kinematic parameters with help of neat diagram, also comment on when 5
+BL-1 they will be constant or variable.
+CO-4;SO-1; d.. Compare proportional and integral control systems on various parameters. 5
+BL-3
+Q2 a. Explain the following terms with respect to industrial robots: [10]
+CO-2; SO-1; 1. Define Robot. . 2
+Bled 2. Number of Axes. 2
+3. Repeatability and Accuracy. 3
+| 4. Fixed and Mobile co-ordinate frames. 3
+Page 1 of 3
+--- page 2 ---
+CO-1; SO-1;
+
+BL-3
+
+Q3
+
+CO-1; SO-1;
+
+BL-4
+
+Q4
+
+CO-2; SO-1;
+BL-2
+
+CO-2; SO-1;
+BL-2
+
+b. Evaluate all transformation matrix for a 5-axis robot having a kinematic parameter [10]
+table as follows: a
+
+Axis Oy pax ax aK
+1 6, d, 0 —n/2
+2 0, 0 az 0
+3 83 0 a3 0
+4 04 0 a4 —n/2
+5 0; ds 0 0
+a. Analyze a3 Axis Cylindrical Robotic Arm and compute the following. [20]
+
+————
+|
+a (7
+AM
+1)
+Reed
+
+i. Link coordinate diagram : , .
+
+ii. Link coordinate table. * 7
+
+iii. ARM Matrix. . 10
+a. Explain the working of derivative controller with proper block diagram. [10]
+
+b. Solve for [p]"if [p]“™=[1 0 0 1], Le F = (f+, £7, f3} and M = [10]
+
+{m1,m?, m3} be two initially coincident fixed and mobile orthonormal
+coordinate frames respectively. Suppose we rotate M along f 3 by 7 radians and
+
+then translate M along f 2 by 3 units. Also draw the vector diagrams.
+
+Page 2 of 3
+--- page 3 ---
+Q5 a. Analyze the ARM Matrix for a 4 axis Robotic Arm and answer the following. [20]
+— SO-1; Cy-2-4 Sy-a-4 0 ay Cy + a Cy_2]
+Sy-2-4   —Cy-2-4 , O° G45 + Az 55-2
+0 0 -1 d,—-q3-d,
+0 0 0 1
+i. Derive TCV from the arm matrix and corresponding equations.
+ii. Derive joint equations for all the joints.
+
+Q6 a. Develop a Link coordinate diagram and kinematic parameter table for Yaskawa [10]
+
+CO-1; SO-1; Motoman 6 axis Robot.
+
+ale Tool Pitch
+
+LS lb —- Tool Roll
+Ow
+Shoulder tof i)
+deed
+<> Base
+
+CO-2;SO-1; bh, Explain Pick and Place operation of a robotic arm . [10]
+
+BL-2 s
+
+Q7 a. Explain with proper block diagram and examples close loop control system [10]
+
+-—~ CO-2;SO-1;
+
+BL-2 .
+
+CO-2;SO-1; pb. Derive the fundamental rotation matrix for YAW and ROLL rotations. [10]
+
+BL-2
+
+Page 3 of 3
+````
+
+## 2023-24 · Final-Exam · Sem 7 · paper 3ccf8b1319fd
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: MECHATRONICS/SEMESTER VII/ROBOTICS SYSTEMS DESGIN/Robotics_Systems_Design__Sem-VII__Final_Exam__A_Y_2023-24_CaPrJwRiam.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 24/11/23
+- Text: ocr (3 pages), mean OCR confidence 85.4
+
+````text
+SVKM’S NMIMS ‘g
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENTS ENGINEERING
+Academic Year: 2023-2024
+
+Program: B. Tech, Stream: Mechatronics Year: IV, Semester: VII
+Subject: Robotic Systems Design Time: 03 hrs (10 AM to 01 PM)
+Date: 24/11/23
+
+No. of Pages: 03
+Marks: 100
+
+Final Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Q1 Answer briefly:
+CO-2;SO-1; a,
+
+[20]
+Explain different types of drive technologies employed for the robot in industry 5
+
+BL-2 with their applications.
+CO-1;SO- _b, . Explain composite rotation algorithm in brief. 5
+1; BL-2
+CO-1;SO-1. ¢, Explain joint parameters with help of neat diagram, also comment on when they 5
+BL-l will be constant or variable. .
+CO-2;SO-   d. Explain the proportional control and steady state error in a PID controller. 5
+1; BL-2
+Q2 a. Classify industrial robots based on their workspace geometries, with proper [10]
+CO-2; SO- sketches and specify their applications in the industry.
+1; BL-4
+CO-1;SO-2; pb, Evaluate the ARM matrix for a 3-axis robot having kinematic parameter table as [10]
+Br follows:
+Axis Ox dy an ay
+
+1 0 0 0 0
+
+2 0 d> 0 —n/2
+
+3 0 d3 0 0
+--- page 2 ---
+Fe.
+
+Q3 a. Analyze a Microbot Alpha II Robotic Arm and compute the following. [20]
+CO-1; SO-1; new ‘took
+BL-4 a
+
+i. Link coordinate diagram
+
+ii. Link coordinate table.
+
+iii. Individual Link coordinate transformation matrices.
+Q4 a. Solve for [m?]¥ if F and M are initially coincident fixed and mobile orthonormal [10]
+CO-2; SO-1; coordinate frames respectively. Suppose we perform a transformation along the
+BL-3 same axis f°, translating by a distance of 1 = 3 units and rotating by an angle of
+
+1/2. Draw the vector diagrams.
+CO-1;S0-1; b, Develop a Link coordinate diagram and kinematic parameter table for Yaskawa [10]
+BL-4 Motoman 6 axis Robot.
+Tool Pitch ’
+: —f— Too! Roll
+Elbow
+Should ay
+joulder Lo}
+Lk
+<|> Base
+2
+--- page 3 ---
+i
+
+Q5 a. Analyze the ARM Matrix for a 4 axis Robotic Arm and answer the following. [20]
+CO-1; SO-1;
+
+>
+
+aa Cy-2-4   Sy-2-4 0 ayCy + a2Cy_2
+Sy-2-4 —Cy-2-4 0 aS, + a25y-2
+0 0 -1 d,-q3-d,
+0 0 0 1
+i. Explain formation of tool configuration vector in brief.
+ii. Joint equations for all the joints. (q,, 42, 3, 44)
+Q6 a. Explain the working of PID controller with a control loop example. [10]
+CO-2; SO-1;
+BL-2
+CO-2;SO-1; b. Develop YPR Transformation Matrix. Solve for [p]¥ if for a manipulator [10]
+BL-3
+[p]M = [0, 0, 0.8]" and is rotated by ttabout f!, then rotated by (-11/2) about £2, and
+finally rotated by (1/2) about f°. Sketch the sequence of tool positions after each
+rotation.
+Q7 a. Explain with proper example Homogeneous co-ordinate Transformation Matrix. [10]
+CO-2; SO-1;
+BL-2
+CO-2;SO-1; b. Explain with respect to industrial robot. [10]
+BL-2
+
+i. Reach and stroke.
+ii. Capacity and Speed.
+````
+
+## 2023-24 · Re-Exam · Sem 7 · paper 03e335532d92
+
+- Departments: Mechatronics
+- Programmes: B TECH / MECHATRONICS
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: MECHATRONICS/SEMESTER VII/ROBOTICS SYSTEMS DESGIN/Robotics_Systems_Design__Sem-VII__Year_2023-24__Re_Exam_MjYoXieMgt.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 06/02/2024
+- Text: ocr (3 pages), mean OCR confidence 85.4
+
+````text
+SVKM’S NMIMS rae
+MUKESH PATEL SCHOOL OF TECHNOLOGY MANAGEMENT& ENGINEERING
+Academic Year: 2023-2024
+
+Program: B. Tech, Stream: Mechatronics : Year: IV, Semester: VIT
+Subject: Robotic Systems Design ’ Time: 03 hrs (10 AM to 01 PM)
+Date: 06/02/2024 No. of Pages: 03
+Marks: 100
+
+Re-Examination
+
+Instructions: Candidates should read carefully the instructions printed on the question paper and on the cover
+of the Answer Book, which is provided for their use.
+
+1) Question No. 1 is compulsory.
+
+2) Out of remaining questions, attempt any 4 questions.
+
+3) In all 5 questions to be attempted.
+
+4) All questions carry equal marks.
+
+5) Answer to each new question to be started on a fresh page.
+
+6) Figures in brackets on the right-hand side indicate full marks.
+7) Assume Suitable data if necessary.
+
+Qi Answer briefly: [20]
+CO-2;SO-2; a, Explain soft automation used in industrial robots. 5
+BL-2
+
+CO-1;SO-1; pb, Explain Screw transformation in brief. 5
+BL-2
+
+CO-1;S0-2; ¢, Explain Link parameters with help of neat diagram, also comment qn when they 5
+
+BL-l will be constant or variable.
+
+CO-2;SO-1; d. Explain the integral control and steady state error in a PID controller. 5
+BL-2
+
+Q2 a. Develop the matrices for all the three fundamental rotations. [10]
+CO-2; SO-1;
+
+BL-3
+
+CO-1;SO-1; bh, Evaluate the ARM matrix for a 2-axis robot having kinematic parameter table as [10]
+
+BL-3 follows: also find the ARM matrix value if 6, = 90° and d, = 200 mm
+Axis Ox d; ak ay
+1 0; 0 0 1/2
+2 0 dz 0 0
+--- page 2 ---
+Q3 a. Analyze a RHINO XR3 Robotic Arm and compute the following. ; [20]
+CO-1; SO-1; -
+
+aid Elbow Tool Pitch
+{e}
+Tool Roll
+\9J Shoulder
+T] RHINO XR3
+Base
+i. Link coordinate diagram
+ii. Link coordinate table.
+iii. Individual Link coordinate transformation matrices.
+Q4 a. Solve for [p]* if F and M are initially coincident fixed and mobile orthonormal [10]
+CO-2; SO-1; coordinate frames, respectively. Suppose M is rotated about f! axis by n/3 radians
+BL-3 and [p]M = [2, 0, 3]". Also suppose [q]¥ = [3, 4, 0]" find [q]M.
+CO-2; 80-1; bh, Explain with help of a block diagram fundamental working of a PID controller. [10]
+BL-2
+Q5 a. Analyze an ARM Matrix for 3 Axis PARA and answer the following. [20]
+CO-1; SO-1; Cy23, S123 0) ay Cy + a2Cy2
+Bi Si23Cy23., 0 ay Sy + Sip *
+0 0 i. d3
+0 0 0 1
+
+i. Derive TCV from the arm matrix and corresponding equations.
+ii. Derive joint equations for all the joints.
+--- page 3 ---
+Q6
+
+i
+
+a. Develop a Link coordinate diagram and kinematic parameter ably ee Yaskawa [10]
+CO-1; SO-1; Motoman 6 axis Robot.
+BL-A Tool Pitch
+—(- Tool Roll
+Elbow
+Should iyi
+oulder lo)
+Lo
+<b> Base
+Oe SOU Bs Solve for [m?]¥ if a manipulator, M is rotated by Ttabout f, then translated by 10 10]
+units about f?. Sketch the sequence of tool positions after each motion. Repeat the
+same if order of both motions is reversed.
+Q7 a. Explain Composite Homogeneous Transformation and show the HCTM for pure [10]
+CO-2; SO-1; rotations and pure translations.
+BL-2
+CO-2;SO-1; b, Explain repeatability, precision and accuracy of an industrial robot also comment [10]
+Bie on the precision of robots based on their work envelope.
+3
 ````
 
 ## 2022-23 · Final-Exam · Sem 8 · paper 3cf4691335e2

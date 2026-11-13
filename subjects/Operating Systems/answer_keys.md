@@ -51,6 +51,20 @@ interrupts or system calls.
 The mode bit in the CPU (usually 0 = kernel, 1 = user) determines the current
 operating   mode.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+user process
+
+user mode
+user process executing | calls system call | | return from system call (mode bit = 1)
+\
+st Z
+t ra
+trap return
+Kemal mode bit = 0 mode bit = 1
+
+\ kernel mode
+execute system call (mode bit = 0)
 --- page 2 ---
 When an interrupt or system call occurs, the mode bit switches to kernel mode;
 when control returns to the user process, it switches back to user mode.
@@ -370,6 +384,19 @@ offers services to programs and users. Justify the statement by explaining the
 operating system services with suitable diagram?
 Justification (3 Marks)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+frame e
+
+logical address physical address 0x000
+frame f
+cpu slp | a |
+p — Oxfff
+f frame g
+
+physical memory
+
+page table
 --- page 10 ---
 Operating System Services any five (5 Marks)
 Diagram (2 Marks)
@@ -444,10 +471,46 @@ movement and discuss one major factor of comparison.
 Each algorithm 3 marks (9 marks)
 Comparison 1 mark
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+user and other system programs
+
+GUI touch screen | command line
+
+user interfaces
+
+system calls
+
+program vO file a resource
+communication
+
+. A a accounting
+execution operations systems allocation
+
+protection
+and
+security
+
+error
+detection
+services
+
+operating system
+
+hardware
 --- page 12 ---
 Performance Comparison: SCAN has the lowest head movement (7492
 cylinders), making it the most efficient algorithm for this specific batch of
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Performance Comparison
+
+ALGORITHM TOTAL MOVEMENT CHARACTERISTICS
+FCFS 8,285 Simple, fair, but high seek time
+SCAN 7,492 Fair, predictable, moderate performance
+
+C-SCAN 9,917 More uniform wait time, higher movement
 --- page 13 ---
 requests and head position. FCFS performs better than C-SCAN, but SCAN is
 the most efficient of the three.
@@ -536,6 +599,17 @@ contiguous memory allocation, show how the first-fit, best-fit and worst-fit
 algorithms will place the processes of 360 KB, 600 KB, 425 KB, and 250 KB
 (in order).
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Message Type
+Destination ID
+Header Source ID
+Message Length
+Control Information
+
+Body 1 Message Contents
+
+Figure 5.19 General Message Format
 --- page 15 ---
 Marks Distribution:
 Address protection mechanism 2 marks
@@ -608,6 +682,28 @@ Marks Distribution:
 a)
 b)
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+2 3
+7 2
+| 3
+FOF
+3 4
+6 4
+7 7
+3 3
+2 2
+F
+
+Total Page Fault:
+
+F
+
+14
+
+F
+
+F
 --- page 19 ---
 c)
 d) Total number of page faults:
@@ -625,6 +721,35 @@ Process   Allocation   Request
 R1   R2 R1   R2
 P1   1   0 0   1
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+LRU
+
+2 3 4
+2 2 2
+3 3
+4
+F F F
+3 4 8
+2 2 2
+3 3 3
+6 4 4
+7 7 8
+F F
+
+Total Page Fault: 10
+
+2 3
+2 [2
+_| 3
+FOF
+_3| 4
+2 [2
+—3| [3
+_4 4
+7 7
+
+Total Page Fault:
 --- page 20 ---
 P2   0   1 1   0
 P3   0   1 0   0
@@ -798,6 +923,33 @@ CO-   4   7   6
 Apply SRT and SJF. Calculate the average turnaround time and average
 1,6;BL-2   waiting time.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Component Description |
+
+Input Variables / Signals Data or signals entering the block from sensors, user input, or preceding block
+
+Processing Logic / Algorithm The core set of instructions, mathematical computations, or decision rules that
+manipulate the input.
+
+Parameters / Constants Fixed values or coefficients used in the computations (e.g., filter coefficients,
+learning rates).
+
+Control Signals Signals that determine how the processing occurs (e.g., mode selection, timin,
+control).
+Output Variables / Signals The processed data or results generated and sent to the next block.
+
+Memory or Storage (if applicable) Temporary or permanent data storage used during processing (e.g., buffers,
+
+Feature Internal Fragmentation External Fragmentation
+
+Location of Wastage Inside allocated memory block Between allocated blocks
+Cause Fixed-size allocation Variable-size allocation
+Occurs In Paging, partitioned systems Contiguous memory allocation
+Visibility Hidden (within a process block) Visible (as free holes)
+Possible Solution Reduce block size or use variable partitions Compaction or paging
+
+Example 3.2 KB process in 4 KB block > 0.8 KB Free memory scattered across RA
 --- page 3 ---
 b.
 Explain the need for the replacement of algorithms.
@@ -824,6 +976,46 @@ LOOK:-inwards)
 Explain the Layered vs Monolithic architecture. List two advantages
 and disadvantages of each. (Include diagrams)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Reason Explanation 6
+
+1. Limited Physical Memory The total size of all running processes often exceeds the size of physical RAM.
+Replacement is required to free space for new pages.
+
+2. Page Fault Handling When a required page is not in memory (page fault), the OS must decide which
+existing page to remove — replacement algorithms guide this choice.
+
+3. Efficient Memory Utilization Helps in keeping the most useful or frequently used pages in memory, improving
+system performance.
+
+4, Minimizing Page Faults Agood algorithm reduces the number of page faults, thus minimizing the time
+spent in disk I/O (which is much slower than RAM access).
+
+5. Maintaining Process Continuity Ensures that a process can continue its execution smoothly by loading required
+pages and replacing less useful ones.
+
+6. System Stability and Efficient replacement ensures balanced resource use, better CPU utilization, an
+Throughput higher system throughput.
+
+1. Minimize Seek Time The seek time is the time taken by the disk arm to move to the desired
+track. Scheduling helps in arranging requests to minimize this head
+
+movement.
+2. Reduce Rotational Latency and Access By smartly ordering requests, the policy reduces the average time spent
+Time waiting for the disk to rotate to the right position.
+3. Improve Throughput More I/O operations can be completed per unit time if the disk arm
+
+moves efficiently.
+
+4. Ensure Fairness Every I/O request should get a fair chance to be serviced; no request
+should starve (wait indefinitely).
+
+5. Optimize System Performance Reducing disk access time improves overall system speed, especially in
+\/O-intensive applications.
+
+6. Prioritize Critical Requests Some algorithms can handle high-priority requests faster (e.g., real-time
+systems).
 --- page 4 ---
 b.   5+5
 a.   Demonstrate how the semaphore is helping to solve the Readers’
@@ -888,6 +1080,65 @@ CO-
 1,6;BL-2
 4+6
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+. Multiple Readers Allowed:
+All readers can enter the critical section concurrently once the first reader acquires the lock.
+
+. Writers Get Exclusive Access:
+
+rw_mutex ensures that if a writer is writing, no readers or other writers can enter.
+
+. No Race Condition:
+
+The mutex semaphore prevents concurrent modification of read_count .
+
+A deadlock occurs only if all the following four conditions hold simultaneously (Coffman conditions):
+
+Condition Description Example
+
+1. Mutual Exclusion At least one resource must be held in a non-shareable Printer can be used by only one
+mode. Only one process can use the resource at a time. process at a time.
+
+2. Hold and Wait Aprocess holding at least one resource is waiting to Process P11 holds R1 and waits for R2.
+
+acquire additional resources held by others.
+
+3. No Preemption Resources cannot be forcibly taken away; they must be OS cannot take a printer away from a
+released voluntarily by the process. process in use.
+
+4. Circular Wait Aclosed chain of processes exists such that each P1—R1— P2-—R2-P1 (cycle
+process holds at least one resource needed by the next formed).
+
+process in the chain.
+
+Method Description Example OS Usage
+
+©) Contiguous Allocation Stores each file in one continuous block of Early systems, CD-ROMs
+memory on disk
+
+B Linked Allocation Each file is a linked list of disk blocks FAT file systems
+
+© Indexed Allocation Uses an index block that stores all pointers to UNIX, NTFS
+the file's data blocks
+
+Feature Contiguous Linked Indexed Oo
+
+Access Type Random/Sequential Sequential Random/Sequential
+Fragmentation External None None
+
+Space Overhead None Pointer per block Index block
+
+File Growth Difficult Easy Easy
+
+Access Speed Fast (for sequential) Slow (pointer traversal) Moderate
+Implementation Complexity Simple Moderate High
+
+{© Conclusion:
+* Contiguous allocation — Best for simple, static files (e.g., CD-ROMs).
++ Linked allocation — Suitable for files with sequential access (e.g., logs).
++ Indexed allocation — Preferred in modern syst ,) + (e.g., UNIX, NTFS) for efficient random access and
+flexibility.
 --- page 6 ---
 Explain the lightweight property of the thread and its types. Discuss the
 b.   Multithreading models.
@@ -902,6 +1153,64 @@ CO-
 2;SO-
 1,6;BL-2
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+A thread is the smallest unit of CPU execution within a process.
+
+Each thread represents an independent path of execution that shares the same:
+¢ Code section
+e Data section
+
+e Files and resources of the parent process
+But each thread has its own:
+
+e Program counter (PC)
+e Stack
+
+e Registers
+
+Feature Process Thread
+
+Resource Allocation Requires separate memory, PCB, file Shares memory and resources with paren’
+descriptors, etc. process
+Inter-process communication (IPC) is Inter-thread communication is easy (share
+complex memory)
+
+Creation Time Slow (OS must allocate separate Fast (shares resources)
+resources)
+
+Context Switching Heavy Light and quick
+
+Overhead High Low
+
+Concept Key Idea
+
+Thread Smallest CPU execution unit within a process
+
+Lightweight Property Threads are faster to create, manage, and switch because they share
+process resources
+
+Thread Types User-Level, Kernel-Level, Hybrid
+
+Multithreading Models Many-to-One, One-to-One, Many-to-Many
+
+Feature Cloud Operating System Distributed Operating System c
+
+Scope Manages cloud infrastructure (virtualized Manages a group of networked physical
+data centers) computers
+
+Resource Management Virtualized resources (VMs, containers) Physical resources (CPUs, disks, memory
+
+Architecture Centralized or hierarchical (via cloud Decentralized (peer-to-peer coordination)
+controllers)
+
+Access Over the Internet via APIs/web Via network, but acts as a unified local
+
+system
+Goal Deliver on-demand cloud services Provide transparency and resource sharin,
+Examples OpenStack, AWS, Azure, CloudStack Amoeba, Mach, MOSIX, LOCUS
+
+User Perspective “Service platform” (virtual < \ 3s) “Single system image” (logical access)
 --- page 7 ---
 Explain Deadlock in “Diner's Philosopher’s Problem with all 3 cases
 and their solutions.
@@ -916,6 +1225,45 @@ CO-
 3;SO-
 1,6;BL-2
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+¢ Three Cases of the Dining Philosophers Problem
+
+() Case 1: Deadlock
+¢ All philosophers pick up the left fork first.
+e Each philosopher is waiting for the right fork, which is held by their neighbor.
+
+e Outcome: Circular wait — deadlock.
+
+Solution:
+e Introduce resource hierarchy:
+« Number the forks from 1 to 5.
+« Philosophers pick lower-numbered fork first, then higher-numbered.
+e One philosopher (e.g., last one) picks in reverse order.
+¢ This breaks circular wait, preventing deadlock.
+
+© Case 2: Starvation
+« Even without deadlock, some philosophers may never get both forks.
+« Occurs if others continuously pick forks first.
+« Outcome: A philosopher may wait indefinitely — starvation.
+Solution:
+e Use semaphores or mutexes with fairness:
+« Each philosopher waits in queue if forks unavailable.
+« Prevents a philosopher from being indefinitely blocked.
+e Example: Monitor solution using a state array ( THINKING , HUNGRY, EATING ) and condition
+
+variables.
+
+(©) Case 3: No Deadlock / No Starvation
+
+e Philosophers alternate picking forks carefully.
+e Use a semaphore for each fork:
+e Aphilosopher can pick both forks only if both are available.
+e Or limit maximum philosophers at table:
+e lIfn=5, allow at most 4 philosophers to try eating at once.
+e Prevents circular wait — no deadlock.
+
+{. This is considered the safe solution.
 --- page 8 ---
 int turn;
 bool flag[2] = {false, false};
@@ -938,6 +1286,39 @@ Discuss the paging model in memory management. Explain Paging
 hardware with the TLB mechanism. List the merits and demerits of the
 Paging model.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+¢ Properties of Critical Section
+
+Any solution for critical sections must satisfy three requirements:
+
+Property Description
+Mutual Exclusion Only one process can be in the critical section at a time.
+Progress If no process is in the critical section and some want to enter, one of them must
+
+be allowed to enter.
+
+Bounded Waiting / Fairness Every process waiting to enter the critical section will eventually be allowed in (no
+starvation).
+
+¢ Paging Hardware
+
+The CPU uses paging hardware to translate logical addresses into physical addresses efficiently.
+
+Components:
+1. Page Table Base Register (PTBR):
+Holds the starting address of the page table in memory.
+2. Page Table:
+Maps page numbers to frame numbers.
+3. Memory Management Unit (MMU):
+« Performs the actual address translation.
+« Input: Logical address (p, d)
++ Output: Physical address (f, d)
+
+¢ Address Translation Process
+
+1. CPU generates a logical address (p, d) . NY
+2. MMU uses page number (p) to index the page table.
 --- page 9 ---
 ¢ Translation Lookaside Buffer (TLB)
 ¢ LB is a special fast cache in MMU that stores recent page number — frame number mappings.
@@ -2356,6 +2737,20 @@ interrupts or system calls.
 The mode bit in the CPU (usually 0 = kernel, 1 = user) determines the current
 operating   mode.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+user process
+
+user mode
+user process executing | calls system call | | return from system call (mode bit = 1)
+\
+st Z
+t ra
+trap return
+Kemal mode bit = 0 mode bit = 1
+
+\ kernel mode
+execute system call (mode bit = 0)
 --- page 2 ---
 When an interrupt or system call occurs, the mode bit switches to kernel mode;
 when control returns to the user process, it switches back to user mode.
@@ -2675,6 +3070,19 @@ offers services to programs and users. Justify the statement by explaining the
 operating system services with suitable diagram?
 Justification (3 Marks)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+frame e
+
+logical address physical address 0x000
+frame f
+cpu slp | a |
+p — Oxfff
+f frame g
+
+physical memory
+
+page table
 --- page 10 ---
 Operating System Services any five (5 Marks)
 Diagram (2 Marks)
@@ -2749,10 +3157,46 @@ movement and discuss one major factor of comparison.
 Each algorithm 3 marks (9 marks)
 Comparison 1 mark
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+user and other system programs
+
+GUI touch screen | command line
+
+user interfaces
+
+system calls
+
+program vO file a resource
+communication
+
+. A a accounting
+execution operations systems allocation
+
+protection
+and
+security
+
+error
+detection
+services
+
+operating system
+
+hardware
 --- page 12 ---
 Performance Comparison: SCAN has the lowest head movement (7492
 cylinders), making it the most efficient algorithm for this specific batch of
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Performance Comparison
+
+ALGORITHM TOTAL MOVEMENT CHARACTERISTICS
+FCFS 8,285 Simple, fair, but high seek time
+SCAN 7,492 Fair, predictable, moderate performance
+
+C-SCAN 9,917 More uniform wait time, higher movement
 --- page 13 ---
 requests and head position. FCFS performs better than C-SCAN, but SCAN is
 the most efficient of the three.
@@ -2841,6 +3285,17 @@ contiguous memory allocation, show how the first-fit, best-fit and worst-fit
 algorithms will place the processes of 360 KB, 600 KB, 425 KB, and 250 KB
 (in order).
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Message Type
+Destination ID
+Header Source ID
+Message Length
+Control Information
+
+Body 1 Message Contents
+
+Figure 5.19 General Message Format
 --- page 15 ---
 Marks Distribution:
 Address protection mechanism 2 marks
@@ -2913,6 +3368,28 @@ Marks Distribution:
 a)
 b)
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+2 3
+7 2
+| 3
+FOF
+3 4
+6 4
+7 7
+3 3
+2 2
+F
+
+Total Page Fault:
+
+F
+
+14
+
+F
+
+F
 --- page 19 ---
 c)
 d) Total number of page faults:
@@ -2930,6 +3407,35 @@ Process   Allocation   Request
 R1   R2 R1   R2
 P1   1   0 0   1
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+LRU
+
+2 3 4
+2 2 2
+3 3
+4
+F F F
+3 4 8
+2 2 2
+3 3 3
+6 4 4
+7 7 8
+F F
+
+Total Page Fault: 10
+
+2 3
+2 [2
+_| 3
+FOF
+_3| 4
+2 [2
+—3| [3
+_4 4
+7 7
+
+Total Page Fault:
 --- page 20 ---
 P2   0   1 1   0
 P3   0   1 0   0
@@ -3143,6 +3649,16 @@ Disadvantages:
 • No support for grouping related files within user directory.
 b. Hierarchical (Tree) Directory (2.5 marks)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+master file
+directory user 1 | user 2| user 3| user 4
+
+a
+
+ae at a | test a | data a | test x |data| a
+
+“Tiiliiii itt
 --- page 4 ---
 Advantages:
 • Organizes files logically in groups.
@@ -3282,6 +3798,35 @@ Reduces memory requirement.
 Improves system throughput by avoiding loading unused pages.
 Diagram (2 marks)
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+2
+
+valid—invalid
+bit 3
+
+ane
+of 4 |v 4A
+af fi 5
+2| 6 |v
+3 i 6) Cc
+4 i Fr
+5) 9 |v
+6) fi 8)
+e i 9] F
+page table 10
+
+1
+
+12
+
+13
+
+14
+
+15
+
+physical memory
 --- page 8 ---
 Q3   a.   Consider the following disk queue with requests for I/O to block on   [10]
 CO- 3;   cylinders:
@@ -3318,6 +3863,12 @@ concept of a binary semaphore.
 BL-6
 Ans: Peterson’s Solution: (5 marks)
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Monolithic Kemel Microkemel “Hybrid kemel"
+based Operating System based Operating System based Operating System
+
+Operating system
 --- page 9 ---
 A classic software-based solution to achieve mutual exclusion for two
 processes.
@@ -10647,6 +11198,33 @@ CO-   b.   Demonstrate the requirements to ensure concurrency in process
 management.
 1;BL-3
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+A thread is the smallest unit of CPU execution within a process.
+Each thread represents an independent path of execution but shares the same resources (code, data, files)
+of its parent process.
+
+Thread Architecture Components
+
+Each thread typically contains:
+41. Thread ID (TID): Unique identifier for the thread.
+2. Program Counter (PC): Indicates the next instruction to execute.
+3. Register Set: Holds the current working variables and intermediate results.
+4. Stack: Stores local variables, function calls, and return addresses.
+5. Thread Control Block (TCB):
+Similar to a Process Control Block (PCB) but for threads. It holds:
+
+¢ Thread ID
+
+¢ State (Ready, Running, Blocked)
+
+¢ Stack pointer
+
+« Priority
+
+« Scheduling information
+
+« Pointers to other threads of the same process
 --- page 2 ---
 c.   Discuss the concept of Monitors to ensure synchronization. (Include
 diagram)
@@ -10658,6 +11236,69 @@ CO-
 4;SO-   5
 1,6;BL-2
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+1, Mutual Exclusion Ensures that when one process is accessing a critical section (shared resource), Prevents race conditions —e.g., two
+
+no other process can access it simultaneously. processes writing to the same file at
+the same time.
+2. Progress If no process is executing in its critical section and one or more processes wish to Guarantees fairness and avoids
+enter, the selection of the next process to enter the critical section cannot be unnecessary delays.
+
+postponed indefinitely.
+
+3. Bounded Waiting Ensures that there is a limit on the number of times other processes can enter Prevents starvation (a process
+their critical sections after a process has requested to enter its own. waiting forever).
+4, Synchronization Mechanism to coordinate the execution order of processes that depend on each Example: A consumer must wait until
+other's results. the producer has produced data
+(Producer-Consumer problem).
+5. Deadlock Freedom The system must avoid or prevent situations where two or more processes are Example: Process A waiting for B's
+waiting indefinitely for each other to release resources. resource, while B waits for A's
+resource.
+6. Non-Preemption Once a process has acquired » ~~source (especially in a critical section), it should Ensures data integrity and prevents
+
+not be forcibly taken away unt, Y eleases it voluntarily. Inconsistent states.
+
+A Monitor is a high-level synchronization construct used to control access to shared resources in
+concurrent programming.
+
+It combines mutual exclusion and condition synchronization in an easier and safer way than
+semaphores.
+
+In simpler terms,
+
+A monitor acts as a guarded room that only one process or thread can enter at a time to access
+shared data.
+
+2. Structure of a Monitor
+A Monitor consists of:
+1. Shared data variables (resources to be protected).
+2. Procedures (functions) that operate on the shared data.
+3. Synchronization mechanisms (e.g., condition variables) to control process waiting and signaling.
+Only one process can execute any monitor procedure at a time — ensuring mutual exclusion
+
+automatically.
+
+Buffering is a technique used in operating systems and data communication to temporarily store data in a
+memory area called a buffer while it is being transferred between two devices or processes that operate at
+
+different speeds.
+
+Purpose of Buffering
++ To match the speed difference between producer and consumer.
+« To increase system efficiency and throughput.
+« To smooth out data flow during input/output (I/O) operations.
+
+Example:
+When data is read from a disk (slow device) and written to memory (fast device), a buffer temporarily stores
+
+data blocks so that the CPU can continue working without waiting for the disk.
+
+2. How Buffering Works
+« The producer (data sender) places data in the buffer.
++ The consumer (data receiver) retrieves data from the buffer.
+
+* The buffer allows both to work asynchronously. improving concurrency.
 --- page 3 ---
 For the given table, which of the following scheduling algorithms
 a.   (SRTF, RR(2), Pre-emptive priority scheduling with one as high
@@ -10690,6 +11331,32 @@ for all requests for individual methods?
 Explain the Microkernel vs Monolithic architecture. List two
 advantages and two disadvantages of each. (Include diagrams)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+1. Seek Time (Ts) The time taken by the disk arm to move the read/write Shorter seek time — Faster access.
+head to the track containing the desired data.
+
+2. Rotational Latency (Tr) The time taken for the desired sector of the disk to Depends on disk rotation speed (RPM).
+rotate under the read/write head after the head
+Teaches the correct track.
+
+3. Transfer Time (Tt) The time required to actually transfer data between the Larger transfer rate — Better
+disk surface and main memory once the head is in throughput.
+position.
+
+4. Access Time (Ta) Total time to access data from the disk. It is the sum of Formula: Ta = T's + Tr + Tt
+
+seek time, rotational latency, and transfer time.
+
+5, Disk Response Time Time from the moment a request is issued until data Affected by system load and request
+(Tresp) transfer is complete. It includes access time plus scheduling.
+command and queuing delays.
+
+6. Disk Throughput The amount of data transferred per unit time. It Higher throughput — Better overall
+(Bandwidth) measures how much useful data the disk can deliver. performance.
+7. Disk Utilization The percentage of time the | is busy performing /0 High utilization indicates efficient use
+
+operations. but may increase latency.
 --- page 4 ---
 b.
 5+5
@@ -10702,6 +11369,52 @@ CO-   solution by using a suitable semaphore.
 2;SO-
 1,6;BL-1
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+2. Monolithic Kernel Architecture
+
+Concept
+
+In a Monolithic Kernel,
+
+All basic OS services — such as process management, memory management, file systems, and device
+drivers — run in kernel space as a single large process.
+
+Everything runs in supervisor mode, sharing the same address space.
+
+Characteristics
+e Single large kernel running in privileged mode.
+« All OS modules can communicate directly.
+« Device drivers are part of the kernel.
+
+Advantages
+1. High Performance:
+Direct communication between components — no message-passing overhead.
+2. Easier Access to Resources:
+
+All services run in the same address space, enabling faster execution.
+
+Disadvantages
+1. Poor Reliability:
+A bug in one module (e.g., device driver) can crash the entire system.
+2. Difficult Maintenance:
+
+Updating or debugging is complex since all mods are tightly coupled.
+
+3. Microkernel Architecture
+
+Concept
+
+A Microkernel contains only the minimal essential services in kernel space — such as:
+
+« Inter-Process Communication (IPC)
++ Basic scheduling
++ Low-level memory management
+
+All other services (file system, device drivers, network, etc.) run in user space as separate server
+processes.
+
+The idea: Keep the kernel small and move everything else to user space.
 --- page 5 ---
 produce(item) {
 wait(empty);   // wait for at least one empty slot
@@ -10723,6 +11436,37 @@ signal(empty);   // indicate one more empty slot
 return item;
 }
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Problem & solution for the Bounded Buffer (Producer-Consumer)
+using semaphores
+
+1) The problem
+In the classic Bounded Buffer (producer—consumer) problem:
+« Aproducer places items into a fixed-size buffer.
+« Aconsumer removes items from that buffer.
+Main issues if left unsynchronized:
+1. Race condition on shared buffer data structures (head/tail/indexes, count, array) — simultaneous
+access corrupts data.
+2. Buffer overflow (producer writes when buffer is full).
+3. Buffer underflow (consumer reads when buffer is empty).
+4. Potential deadlock or starvation if synchronization is incorrect.
+We need to enforce:
+* Mutual exclusion for buffer access.
+* Proper synchronization so producers wait if buffer is full and consumers wait if buffer is empty.
+
+2) Semaphores used (standard solution)
+Use three semaphores:
+1. mutex — binary semaphore (or mutex) for mutual exclusion when accessing/modifying the buffe
+¢ Initialized to 2.
+2. empty — counting semaphore representing number of empty slots in the buffer.
+¢ Initialized to n (buffer capacity).
+3. full — counting semaphore representing number of filled slots in the buffer.
+« Initialized to o.
+
+Semantics:
+¢ wait(s) / p(s) decrements s (blocks if s == 0).
+¢ signal(s) / v(s) increments s (wakes a waiting process if any).
 --- page 6 ---
 b.   Define the terms Circular wait, Race condition, starvation, RAG, and   10
 WFG.
@@ -10731,6 +11475,60 @@ CO-   a.   Discuss the critical objectives for file organization. Explain the ty
 4;SO-   file organization methods.
 1;BL-2
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+1. Circular Wait
+
+Definition:
+
+Circular wait is one of the necessary conditions for a deadlock to occur.
+
+It happens when a set of processes are waiting for resources in such a way that each process is holding
+one resource and waiting for another resource held by the next process in the chain — forming a
+circular chain.
+
+3. Starvation
+
+Definition:
+
+Starvation (or Indefinite Blocking) occurs when a process waits indefinitely to acquire a resource
+because other processes continuously get preference.
+
+Example:
+
+In a scheduling system with priorities, if higher-priority processes keep arriving, a lower-priority process may
+
+never get CPU time.
+
+Prevented by:
+
+« Using aging: Gradually increasing the priority of waiting processes.
+
+4. RAG (Resource Allocation Graph)
+
+Definition:
+
+A Resource Allocation Graph (RAG) is a directed graph used to represent resource allocation and
+
+process requests in a system.
+
+Components:
+« Processes (P1, P2, ...) — represented as circles
+« Resources (R14, R2, ...) — represented as rectangles
+« Request edge (Pi — Rj): Process Pi requests resource Rj
+
+« Assignment edge (Rj — Pi): Resource Rj is assigned to process Pi
+
+5. WFG (Wait-For Graph)
+
+Definition:
+A Wait-For Graph (WFG) is a simplified version of the Resource Allocation Graph, used to represent
+which process is waiting for which other process directly.
+
+Construction:
+
+¢ Derived from a RAG by removing resource nodes.
+¢ If Process P1 is waiting for a resource held by Process P2, then:
 --- page 7 ---
 CO-
 2;SO-
@@ -10748,6 +11546,50 @@ CO-
 2;SO-
 1,6;BL-4
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Objective Explanation
+
+1, Fast Access Data should be easily and quickly retrievable when needed.
+
+2. Efficient Storage Utilization Disk space should be used optimally, minimizing wastage and fragmentation.
+3. Easy Update and Maintenance Insertion, deletion, and modification operations should be simple and efficient.
+4, Security and Data Integrity Data should be protected from unauthorized access and corruption.
+
+5. Flexibility The organization method should adapt to different types of processing
+
+requirements (e.g., sequential, random access).
+
+6. Minimum Redundancy Avoid storing duplicate data to reduce inconsistency and save space.
+7. Reliability and Recovery Data should be recoverable in case of system failure or crash.
+8. Support for Multiple Users The file system should allow concurrent access without conflicts.
+
+ib
+
+Method Access Type Speed Use Case Main Limitation
+
+Sequential Sequential Slow for random Payroll, batch processing Inefficient for update:
+Direct (Hashed) Random Fast Real-time lookup Hash collisions
+Indexed Sequential Sequential + Random Moderate Database systems Extra index maintene
+
+Clustered Sequential + Random Fast (for related data) Database joins Complex structure
+
+3. Objectives of Process Scheduling
+
+Objective Description
+
+1. Fairness Every process should get a fair share of CPU time.
+
+2. Efficiency Keep the CPU as busy as possible (maximize CPU utilization).
+3. Response Time Minimize the time taken to start responding to user input.
+
+4. Turnaround Time Reduce the total time taken to complete each process.
+
+5. Throughput Maximize the number of processes completed per unit time.
+
+6. Waiting Time Minimize the time a process spends waiting in the ready queue.
+
+7. Priority Handling Ensure high-priority tasks are executed first.
 --- page 8 ---
 10
 b.
@@ -10767,12 +11609,111 @@ CO-
 3;SO-
 1,6;BL-2
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Feature Real-Time OS (RTOS) Distributed OS (DOS)
+
+Primary Goal Ensure timely task completion Manage multiple computers as a single
+system
+
+Time Constraint Strict deadlines (hard/soft real-time) Not necessarily time-critical
+
+Task Management Priority-based scheduling Coordination across nodes
+
+Transparency N/A High (location, replication, access,
+concurrency)
+
+Reliability Requirement Very high, especially for hard real-time High fault tolerance across nodes
+
+Example Applications Airbags, pacemakers, industrial Cloud systems, distributed databases,
+
+controllers cluster computing
+
+1. Mutex Locks
+
+Definition:
+
+A Mutex (Mutual Exclusion) Lock is a binary mechanism used to ensure that only one process or
+thread can access a critical section at a time.
+
+¢ Binary: 0 (locked) or 1 (unlocked)
+
+e Ensures mutual exclusion to prevent race conditions.
+
+Working of Mutex Lock
+1. Acquire / Lock:
+Aprocess checks the mutex.
+e If mutex = 1 (unlocked) — process locks it ( mutex = @ ) and enters critical section.
+¢ If mutex = @ (locked) — process waits until it becomes unlocked.
+2. Critical Section:
+Only the process holding the mutex executes the critical section safely.
+3. Release / Unlock:
+After completing, the process sets mutex = 1, ey ving another waiting process to acquire it.
 --- page 9 ---
 Explain Demand Paging with the help of virtual memory.
 Interpret the steps to handle the page fault that occurs while memory
 b.   referencing.
 5+5
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+2. Semaphores
+
+Definition:
+
+A Semaphore is an integer variable used for process synchronization and mutual exclusion.
+
+It is used to control access to shared resources by multiple processes in a concurrent system.
+
+Key Operations:
+41. wait() / P() / down():
+» Decreases semaphore value by 1.
+° If the result < 0 — the process is blocked.
+2. signal() / V()/ up():
+« Increases semaphore value by 1.
+« If<0-— wakes up a waiting process.
+
+Type Description Use Case
+
+Binary Semaphore Can take values 0 or 1; behaves like a Mutual exclusion in critical section.
+mutex.
+
+Counting Semaphore Can take any non-negative integer value; Managing access to multiple identical
+represents number of available resources, e.g., 5 printers shared among
+
+resources. processes.
+
+1. Introduction to Virtual Memory
+
+Virtual Memory (VM):
+A technique that allows execution of processes larger than the available physical memory by using
+secondary storage (disk) to extend memory.
+
+Key Idea:
+
+« Programs use a virtual address space, which is mapped to physical memory frames.
+
+* Only the needed pages are loaded into RAM, the rest stay on disk.
+
+2. Demand Paging
+
+Definition:
+Demand Paging is a memory management scheme in which pages are loaded into memory only when
+they are needed (i.e., when a process tries to access them).
+
+» Pages are not loaded in advance.
+
++ Reduces I/O overhead and memory usage.
+
+e Lazy loading: “Bring a page on demand.” an
+
+Term Meaning
+
+Page Fixed-size block of virtual memory (e.g., 4 KB)
+Frame Fixed-size block of physical memory (same size as page)
+Page Table Maps virtual page numbers to frame numbers
+
+Page Fault Occurs when a process tries to access a page not in memory
 --- page 10 ---
 When a page fault occurs, the OS must fetch the required page trom disk into memory. Ihe steps are as
 follows:
@@ -10887,6 +11828,33 @@ process proceeds immediately without waiting.
 Also, the turn variable guarantees that the processes alternate access
 if both want to enter, so no process can block the other indefinitely.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+user and other system programs
+
+GUI touch screen | command line
+
+user interfaces
+
+system calls
+
+program vO file a resource
+communication
+
+. A a accounting
+execution operations systems allocation
+
+protection
+and
+security
+
+error
+detection
+services
+
+operating system
+
+hardware
 --- page 3 ---
 C. Bounded-waiting requirement is met: The turn variable acts as a fair
 "token" passed between the two processes, ensuring that after one
@@ -11158,6 +12126,19 @@ down the system.
 entries — providing fast access to address translations.
 Address translation is carried out with TLB.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+frame e
+
+logical address physical address 0x000
+frame f
+cpu slp | a |
+p — Oxfff
+f frame g
+
+physical memory
+
+page table
 --- page 10 ---
 Address translation is carried without TLB.
 4 A Provide a comparative analysis of the Monolithic and Layered architectures 10
@@ -11181,6 +12162,30 @@ into one large block of code that runs in supervisor mode.
 overheads, but poor modularity and difficult debugging.
 Diagram:
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+logical
+
+address
+CPU +> pid
+
+page frame
+
+number number
+
+E TLB hit physical
+
+BI address
+Lt | 4d }—
+
+TLB
+
+TLB miss
+
+a physical
+memory
+
+page table
 --- page 11 ---
 Advantages:
 • High execution speed (no layer overhead).
@@ -11201,6 +12206,23 @@ adjacent layers.
 user interfaces.
 Diagram:
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+applications
+
+glibc standard c library
+
+system-call interface
+file CPU
+systems scheduler
+networks memory
+(TCP/IP) manager
+block character
+devices devices
+
+device drivers
+
+hardware
 --- page 12 ---
 Advantages:
 •   Better modularity and maintainability.
@@ -11237,6 +12259,28 @@ has cylinders numbered 0-199. Calculate the total head movement for:
 Compare the performance of each algorithm and determine which suits best
 for this scenario.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+application file device user
+program system driver mode
+
+messages: messages
+
+CPU
+scheduling
+
+memory
+managment
+
+kernel
+mode
+
+interprocess
+communication
+
+microkernel
+
+hardware
 --- page 13 ---
 Each Algorithm 2 Marks
 Comparison 2 Marks
@@ -11269,6 +12313,18 @@ monitor at a time).
 It ensures mutual exclusion automatically — no two processes can execute
 monitor procedures simultaneously.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Performance Comparison
+
+Algorithm Total Movement Characteristics
+
+FCFS 572 Simple, fair, but high seek time
+
+SSTF 188 Minimal movement, risk of starvation
+SCAN 313 Fair, predictable, moderate performance
+
+C-SCAN 396 More uniform wait time, higher movement
 --- page 15 ---
 Internal Structure of a Monitor (4 Marks)
 Components:
@@ -11645,6 +12701,33 @@ process proceeds immediately without waiting.
 Also, the turn variable guarantees that the processes alternate access
 if both want to enter, so no process can block the other indefinitely.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+user and other system programs
+
+GUI touch screen | command line
+
+user interfaces
+
+system calls
+
+program vO file a resource
+communication
+
+. A a accounting
+execution operations systems allocation
+
+protection
+and
+security
+
+error
+detection
+services
+
+operating system
+
+hardware
 --- page 3 ---
 C. Bounded-waiting requirement is met: The turn variable acts as a fair
 "token" passed between the two processes, ensuring that after one
@@ -11916,6 +12999,19 @@ down the system.
 entries — providing fast access to address translations.
 Address translation is carried out with TLB.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+frame e
+
+logical address physical address 0x000
+frame f
+cpu slp | a |
+p — Oxfff
+f frame g
+
+physical memory
+
+page table
 --- page 10 ---
 Address translation is carried without TLB.
 4 A Provide a comparative analysis of the Monolithic and Layered architectures 10
@@ -11939,6 +13035,30 @@ into one large block of code that runs in supervisor mode.
 overheads, but poor modularity and difficult debugging.
 Diagram:
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+logical
+
+address
+CPU +> pid
+
+page frame
+
+number number
+
+E TLB hit physical
+
+BI address
+Lt | 4d }—
+
+TLB
+
+TLB miss
+
+a physical
+memory
+
+page table
 --- page 11 ---
 Advantages:
 • High execution speed (no layer overhead).
@@ -11959,6 +13079,23 @@ adjacent layers.
 user interfaces.
 Diagram:
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+applications
+
+glibc standard c library
+
+system-call interface
+file CPU
+systems scheduler
+networks memory
+(TCP/IP) manager
+block character
+devices devices
+
+device drivers
+
+hardware
 --- page 12 ---
 Advantages:
 •   Better modularity and maintainability.
@@ -11995,6 +13132,28 @@ has cylinders numbered 0-199. Calculate the total head movement for:
 Compare the performance of each algorithm and determine which suits best
 for this scenario.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+application file device user
+program system driver mode
+
+messages: messages
+
+CPU
+scheduling
+
+memory
+managment
+
+kernel
+mode
+
+interprocess
+communication
+
+microkernel
+
+hardware
 --- page 13 ---
 Each Algorithm 2 Marks
 Comparison 2 Marks
@@ -12027,6 +13186,18 @@ monitor at a time).
 It ensures mutual exclusion automatically — no two processes can execute
 monitor procedures simultaneously.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Performance Comparison
+
+Algorithm Total Movement Characteristics
+
+FCFS 572 Simple, fair, but high seek time
+
+SSTF 188 Minimal movement, risk of starvation
+SCAN 313 Fair, predictable, moderate performance
+
+C-SCAN 396 More uniform wait time, higher movement
 --- page 15 ---
 Internal Structure of a Monitor (4 Marks)
 Components:
@@ -12405,6 +13576,33 @@ process proceeds immediately without waiting.
 Also, the turn variable guarantees that the processes alternate access
 if both want to enter, so no process can block the other indefinitely.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+user and other system programs
+
+GUI touch screen | command line
+
+user interfaces
+
+system calls
+
+program vO file a resource
+communication
+
+. A a accounting
+execution operations systems allocation
+
+protection
+and
+security
+
+error
+detection
+services
+
+operating system
+
+hardware
 --- page 3 ---
 C. Bounded-waiting requirement is met: The turn variable acts as a fair
 "token" passed between the two processes, ensuring that after one
@@ -12676,6 +13874,19 @@ down the system.
 entries — providing fast access to address translations.
 Address translation is carried out with TLB.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+frame e
+
+logical address physical address 0x000
+frame f
+cpu slp | a |
+p — Oxfff
+f frame g
+
+physical memory
+
+page table
 --- page 10 ---
 Address translation is carried without TLB.
 4 A Provide a comparative analysis of the Monolithic and Layered architectures 10
@@ -12699,6 +13910,30 @@ into one large block of code that runs in supervisor mode.
 overheads, but poor modularity and difficult debugging.
 Diagram:
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+logical
+
+address
+CPU +> pid
+
+page frame
+
+number number
+
+E TLB hit physical
+
+BI address
+Lt | 4d }—
+
+TLB
+
+TLB miss
+
+a physical
+memory
+
+page table
 --- page 11 ---
 Advantages:
 • High execution speed (no layer overhead).
@@ -12719,6 +13954,23 @@ adjacent layers.
 user interfaces.
 Diagram:
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+applications
+
+glibc standard c library
+
+system-call interface
+file CPU
+systems scheduler
+networks memory
+(TCP/IP) manager
+block character
+devices devices
+
+device drivers
+
+hardware
 --- page 12 ---
 Advantages:
 •   Better modularity and maintainability.
@@ -12755,6 +14007,28 @@ has cylinders numbered 0-199. Calculate the total head movement for:
 Compare the performance of each algorithm and determine which suits best
 for this scenario.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+application file device user
+program system driver mode
+
+messages: messages
+
+CPU
+scheduling
+
+memory
+managment
+
+kernel
+mode
+
+interprocess
+communication
+
+microkernel
+
+hardware
 --- page 13 ---
 Each Algorithm 2 Marks
 Comparison 2 Marks
@@ -12787,6 +14061,18 @@ monitor at a time).
 It ensures mutual exclusion automatically — no two processes can execute
 monitor procedures simultaneously.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Performance Comparison
+
+Algorithm Total Movement Characteristics
+
+FCFS 572 Simple, fair, but high seek time
+
+SSTF 188 Minimal movement, risk of starvation
+SCAN 313 Fair, predictable, moderate performance
+
+C-SCAN 396 More uniform wait time, higher movement
 --- page 15 ---
 Internal Structure of a Monitor (4 Marks)
 Components:
@@ -13294,6 +14580,17 @@ Key idea:
 • The logical memory of a process is divided into fixed-size
 blocks called pages.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Process Id Arrival time Burst time
+
+Pl 5 5
+P2 4 6
+P3 3 7
+P4 1 9
+PS 2 2
+
+P6 6 3
 --- page 5 ---
 • The physical memory is divided into fixed-size blocks called
 frames.
@@ -13358,6 +14655,33 @@ The disk arm moves from one The disk arm moves only
 Definition end of the disk to the other,   as far as the last request in
 servicing requests along the   each direction before
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+logical
+address
+
+CPU Dp
+
+page frame
+
+number number
+
+TLB hit
+
+physical
+address
+
+f [dq - 4
+
+TLB
+
+, {
+TLB miss
+
+—— physical
+memory
+
+page table
 --- page 7 ---
 way. When it reaches the end, reversing — it does not go
 it reverses direction and   to the physical end of the
@@ -13433,6 +14757,22 @@ Q4   a   Define semaphore and explain the need for a mutex. Design pseudocode [1
 CO-2;   to illustrate the Producer-Consumer problem using semaphores.
 SO-2;
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+user application
+
+open ()
+user
+mode
+—_ system call interface
+kernel
+mode
+Li»): open ()
+a Implementation
+i —>—» ofopen()
+
+e system call
+: :
 --- page 9 ---
 BL-6   Ans
 What is a Semaphore? (2 marks)
@@ -13624,6 +14964,21 @@ Optimal Page Faults = 9
 Optimal Hits = 11
 Advantages and Disadvantages (4 marks)
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Layers
+User Programs.
+
+Layer 5
+uyers VO Butter
+Process Management
+Layers
+- Memory Management
+CPU Scheduling
+Layer 1
+Hardware
+
+LAYERED OPERATING SYSTEM
 --- page 15 ---
 Algori
 Advantages   Disadvantages
@@ -13860,6 +15215,33 @@ process proceeds immediately without waiting.
 Also, the turn variable guarantees that the processes alternate access
 if both want to enter, so no process can block the other indefinitely.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+user and other system programs
+
+GUI touch screen | command line
+
+user interfaces
+
+system calls
+
+program vO file a resource
+communication
+
+. A a accounting
+execution operations systems allocation
+
+protection
+and
+security
+
+error
+detection
+services
+
+operating system
+
+hardware
 --- page 3 ---
 C. Bounded-waiting requirement is met: The turn variable acts as a fair
 "token" passed between the two processes, ensuring that after one
@@ -14131,6 +15513,19 @@ down the system.
 entries — providing fast access to address translations.
 Address translation is carried out with TLB.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+frame e
+
+logical address physical address 0x000
+frame f
+cpu slp | a |
+p — Oxfff
+f frame g
+
+physical memory
+
+page table
 --- page 10 ---
 Address translation is carried without TLB.
 4 A Provide a comparative analysis of the Monolithic and Layered architectures 10
@@ -14154,6 +15549,30 @@ into one large block of code that runs in supervisor mode.
 overheads, but poor modularity and difficult debugging.
 Diagram:
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+logical
+
+address
+CPU +> pid
+
+page frame
+
+number number
+
+E TLB hit physical
+
+BI address
+Lt | 4d }—
+
+TLB
+
+TLB miss
+
+a physical
+memory
+
+page table
 --- page 11 ---
 Advantages:
 • High execution speed (no layer overhead).
@@ -14174,6 +15593,23 @@ adjacent layers.
 user interfaces.
 Diagram:
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+applications
+
+glibc standard c library
+
+system-call interface
+file CPU
+systems scheduler
+networks memory
+(TCP/IP) manager
+block character
+devices devices
+
+device drivers
+
+hardware
 --- page 12 ---
 Advantages:
 •   Better modularity and maintainability.
@@ -14210,6 +15646,28 @@ has cylinders numbered 0-199. Calculate the total head movement for:
 Compare the performance of each algorithm and determine which suits best
 for this scenario.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+application file device user
+program system driver mode
+
+messages: messages
+
+CPU
+scheduling
+
+memory
+managment
+
+kernel
+mode
+
+interprocess
+communication
+
+microkernel
+
+hardware
 --- page 13 ---
 Each Algorithm 2 Marks
 Comparison 2 Marks
@@ -14242,6 +15700,18 @@ monitor at a time).
 It ensures mutual exclusion automatically — no two processes can execute
 monitor procedures simultaneously.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Performance Comparison
+
+Algorithm Total Movement Characteristics
+
+FCFS 572 Simple, fair, but high seek time
+
+SSTF 188 Minimal movement, risk of starvation
+SCAN 313 Fair, predictable, moderate performance
+
+C-SCAN 396 More uniform wait time, higher movement
 --- page 15 ---
 Internal Structure of a Monitor (4 Marks)
 Components:
@@ -14606,6 +16076,25 @@ and BL-3   section at any given time.
 2. Progress: If no process is in the critical section, the selection of
 the next process cannot be postponed indefinitely.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Process ID
+
+Process state
+
+Process priority
+
+Accounting information
+
+Program counter
+
+CPU registers
+
+PCB pointers
+
+List of open files
+
+Process I/O status information
 --- page 3 ---
 3. Bounded Waiting: There must be a limit on how many times
 other processes can enter the critical section before a waiting
@@ -15112,6 +16601,48 @@ modules, making it more meaningful and programmer-friendly.
 • Paging suffers from internal fragmentation because memory is
 allocated in fixed sizes, leading to unused space within a page.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+os
+
+Offset
+< Limit
+
+CPU Segment | Offset
+Number
+
+Logical Address
+
+| | 1500 so
+
+Base Limit
+1800 a
+|o] 1500 200
+1 1800 100
+= 2000
+2] 2000 | 150 + 82
+3| 2400 100
+Segment Table 2400 $3
+Main Memory
+
+Segmentation
+
+Paging
+
+Logical Physical
+Address Address
+| 10000..00
+cpu |—>| Plid t Il d | Physical
+
+Memory
+
+11111..11
+
+"{
+
+L_, f
+
+Page table
 --- page 19 ---
 Segmentation eliminates internal fragmentation since segments
 are of variable size, matching the actual size of program
@@ -15217,6 +16748,26 @@ File organization refers to how records within a file are arranged for
 storage and retrieval.
 1. Sequential File Organization
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+Comparison of File Designs
+
+Sequential Direct-Access Indexed-Sequential
+Types of Access batch online batch or online
+Data Organization sequentially no particular sequentially and by
+by key value order index
+Flexibility in low high very high
+Handling Inquiries
+Availability of no yes yes
+Up-to-Date Data
+Speed of Retrieval slow very fast fast
+Activity high low high
+Volatility low high high
+Examples payroll airline customer ordering
+processing reservations and billing
+and billing and banking
+
+operations transactions
 --- page 23 ---
 • Data is stored in order (record by record)
 • Access is done sequentially from beginning to end
@@ -15459,6 +17010,24 @@ o OS verifies whether the reference is:
 proceed
 ▪   Illegal (invalid access) → terminate process
 ********** 31 **********
+
+[Text in pictures on this page, read by OCR]
+page is on
+backing store
+
+operating
+system ®
+reference
+@ trap
+load M 4 li
+restart | page table
+instruction
+free frame
+reset page bring in
+table missing page
+physical
+
+memory
 --- page 32 ---
 4. Locate the Required Page on Disk
 o OS finds the required page in secondary storage
@@ -15633,6 +17202,25 @@ and BL-3   section at any given time.
 2. Progress: If no process is in the critical section, the selection of
 the next process cannot be postponed indefinitely.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Process ID
+
+Process state
+
+Process priority
+
+Accounting information
+
+Program counter
+
+CPU registers
+
+PCB pointers
+
+List of open files
+
+Process I/O status information
 --- page 3 ---
 3. Bounded Waiting: There must be a limit on how many times
 other processes can enter the critical section before a waiting
@@ -16139,6 +17727,48 @@ modules, making it more meaningful and programmer-friendly.
 • Paging suffers from internal fragmentation because memory is
 allocated in fixed sizes, leading to unused space within a page.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+os
+
+Offset
+< Limit
+
+CPU Segment | Offset
+Number
+
+Logical Address
+
+| | 1500 so
+
+Base Limit
+1800 a
+|o] 1500 200
+1 1800 100
+= 2000
+2] 2000 | 150 + 82
+3| 2400 100
+Segment Table 2400 $3
+Main Memory
+
+Segmentation
+
+Paging
+
+Logical Physical
+Address Address
+| 10000..00
+cpu |—>| Plid t Il d | Physical
+
+Memory
+
+11111..11
+
+"{
+
+L_, f
+
+Page table
 --- page 19 ---
 Segmentation eliminates internal fragmentation since segments
 are of variable size, matching the actual size of program
@@ -16244,6 +17874,26 @@ File organization refers to how records within a file are arranged for
 storage and retrieval.
 1. Sequential File Organization
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+Comparison of File Designs
+
+Sequential Direct-Access Indexed-Sequential
+Types of Access batch online batch or online
+Data Organization sequentially no particular sequentially and by
+by key value order index
+Flexibility in low high very high
+Handling Inquiries
+Availability of no yes yes
+Up-to-Date Data
+Speed of Retrieval slow very fast fast
+Activity high low high
+Volatility low high high
+Examples payroll airline customer ordering
+processing reservations and billing
+and billing and banking
+
+operations transactions
 --- page 23 ---
 • Data is stored in order (record by record)
 • Access is done sequentially from beginning to end
@@ -16486,6 +18136,24 @@ o OS verifies whether the reference is:
 proceed
 ▪   Illegal (invalid access) → terminate process
 ********** 31 **********
+
+[Text in pictures on this page, read by OCR]
+page is on
+backing store
+
+operating
+system ®
+reference
+@ trap
+load M 4 li
+restart | page table
+instruction
+free frame
+reset page bring in
+table missing page
+physical
+
+memory
 --- page 32 ---
 4. Locate the Required Page on Disk
 o OS finds the required page in secondary storage
@@ -16660,6 +18328,25 @@ and BL-3   section at any given time.
 2. Progress: If no process is in the critical section, the selection of
 the next process cannot be postponed indefinitely.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Process ID
+
+Process state
+
+Process priority
+
+Accounting information
+
+Program counter
+
+CPU registers
+
+PCB pointers
+
+List of open files
+
+Process I/O status information
 --- page 3 ---
 3. Bounded Waiting: There must be a limit on how many times
 other processes can enter the critical section before a waiting
@@ -17166,6 +18853,48 @@ modules, making it more meaningful and programmer-friendly.
 • Paging suffers from internal fragmentation because memory is
 allocated in fixed sizes, leading to unused space within a page.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+os
+
+Offset
+< Limit
+
+CPU Segment | Offset
+Number
+
+Logical Address
+
+| | 1500 so
+
+Base Limit
+1800 a
+|o] 1500 200
+1 1800 100
+= 2000
+2] 2000 | 150 + 82
+3| 2400 100
+Segment Table 2400 $3
+Main Memory
+
+Segmentation
+
+Paging
+
+Logical Physical
+Address Address
+| 10000..00
+cpu |—>| Plid t Il d | Physical
+
+Memory
+
+11111..11
+
+"{
+
+L_, f
+
+Page table
 --- page 19 ---
 Segmentation eliminates internal fragmentation since segments
 are of variable size, matching the actual size of program
@@ -17271,6 +19000,26 @@ File organization refers to how records within a file are arranged for
 storage and retrieval.
 1. Sequential File Organization
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+Comparison of File Designs
+
+Sequential Direct-Access Indexed-Sequential
+Types of Access batch online batch or online
+Data Organization sequentially no particular sequentially and by
+by key value order index
+Flexibility in low high very high
+Handling Inquiries
+Availability of no yes yes
+Up-to-Date Data
+Speed of Retrieval slow very fast fast
+Activity high low high
+Volatility low high high
+Examples payroll airline customer ordering
+processing reservations and billing
+and billing and banking
+
+operations transactions
 --- page 23 ---
 • Data is stored in order (record by record)
 • Access is done sequentially from beginning to end
@@ -17513,6 +19262,24 @@ o OS verifies whether the reference is:
 proceed
 ▪   Illegal (invalid access) → terminate process
 ********** 31 **********
+
+[Text in pictures on this page, read by OCR]
+page is on
+backing store
+
+operating
+system ®
+reference
+@ trap
+load M 4 li
+restart | page table
+instruction
+free frame
+reset page bring in
+table missing page
+physical
+
+memory
 --- page 32 ---
 4. Locate the Required Page on Disk
 o OS finds the required page in secondary storage
@@ -17687,6 +19454,25 @@ and BL-3   section at any given time.
 2. Progress: If no process is in the critical section, the selection of
 the next process cannot be postponed indefinitely.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Process ID
+
+Process state
+
+Process priority
+
+Accounting information
+
+Program counter
+
+CPU registers
+
+PCB pointers
+
+List of open files
+
+Process I/O status information
 --- page 3 ---
 3. Bounded Waiting: There must be a limit on how many times
 other processes can enter the critical section before a waiting
@@ -18193,6 +19979,48 @@ modules, making it more meaningful and programmer-friendly.
 • Paging suffers from internal fragmentation because memory is
 allocated in fixed sizes, leading to unused space within a page.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+os
+
+Offset
+< Limit
+
+CPU Segment | Offset
+Number
+
+Logical Address
+
+| | 1500 so
+
+Base Limit
+1800 a
+|o] 1500 200
+1 1800 100
+= 2000
+2] 2000 | 150 + 82
+3| 2400 100
+Segment Table 2400 $3
+Main Memory
+
+Segmentation
+
+Paging
+
+Logical Physical
+Address Address
+| 10000..00
+cpu |—>| Plid t Il d | Physical
+
+Memory
+
+11111..11
+
+"{
+
+L_, f
+
+Page table
 --- page 19 ---
 Segmentation eliminates internal fragmentation since segments
 are of variable size, matching the actual size of program
@@ -18298,6 +20126,26 @@ File organization refers to how records within a file are arranged for
 storage and retrieval.
 1. Sequential File Organization
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+Comparison of File Designs
+
+Sequential Direct-Access Indexed-Sequential
+Types of Access batch online batch or online
+Data Organization sequentially no particular sequentially and by
+by key value order index
+Flexibility in low high very high
+Handling Inquiries
+Availability of no yes yes
+Up-to-Date Data
+Speed of Retrieval slow very fast fast
+Activity high low high
+Volatility low high high
+Examples payroll airline customer ordering
+processing reservations and billing
+and billing and banking
+
+operations transactions
 --- page 23 ---
 • Data is stored in order (record by record)
 • Access is done sequentially from beginning to end
@@ -18540,6 +20388,24 @@ o OS verifies whether the reference is:
 proceed
 ▪   Illegal (invalid access) → terminate process
 ********** 31 **********
+
+[Text in pictures on this page, read by OCR]
+page is on
+backing store
+
+operating
+system ®
+reference
+@ trap
+load M 4 li
+restart | page table
+instruction
+free frame
+reset page bring in
+table missing page
+physical
+
+memory
 --- page 32 ---
 4. Locate the Required Page on Disk
 o OS finds the required page in secondary storage
@@ -18728,6 +20594,33 @@ process proceeds immediately without waiting.
 Also, the turn variable guarantees that the processes alternate access
 if both want to enter, so no process can block the other indefinitely.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+user and other system programs
+
+GUI touch screen | command line
+
+user interfaces
+
+system calls
+
+program vO file a resource
+communication
+
+. A a accounting
+execution operations systems allocation
+
+protection
+and
+security
+
+error
+detection
+services
+
+operating system
+
+hardware
 --- page 3 ---
 C. Bounded-waiting requirement is met: The turn variable acts as a fair
 "token" passed between the two processes, ensuring that after one
@@ -18999,6 +20892,19 @@ down the system.
 entries — providing fast access to address translations.
 Address translation is carried out with TLB.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+frame e
+
+logical address physical address 0x000
+frame f
+cpu slp | a |
+p — Oxfff
+f frame g
+
+physical memory
+
+page table
 --- page 10 ---
 Address translation is carried without TLB.
 4 A Provide a comparative analysis of the Monolithic and Layered architectures 10
@@ -19022,6 +20928,30 @@ into one large block of code that runs in supervisor mode.
 overheads, but poor modularity and difficult debugging.
 Diagram:
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+logical
+
+address
+CPU +> pid
+
+page frame
+
+number number
+
+E TLB hit physical
+
+BI address
+Lt | 4d }—
+
+TLB
+
+TLB miss
+
+a physical
+memory
+
+page table
 --- page 11 ---
 Advantages:
 • High execution speed (no layer overhead).
@@ -19042,6 +20972,23 @@ adjacent layers.
 user interfaces.
 Diagram:
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+applications
+
+glibc standard c library
+
+system-call interface
+file CPU
+systems scheduler
+networks memory
+(TCP/IP) manager
+block character
+devices devices
+
+device drivers
+
+hardware
 --- page 12 ---
 Advantages:
 •   Better modularity and maintainability.
@@ -19078,6 +21025,28 @@ has cylinders numbered 0-199. Calculate the total head movement for:
 Compare the performance of each algorithm and determine which suits best
 for this scenario.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+application file device user
+program system driver mode
+
+messages: messages
+
+CPU
+scheduling
+
+memory
+managment
+
+kernel
+mode
+
+interprocess
+communication
+
+microkernel
+
+hardware
 --- page 13 ---
 Each Algorithm 2 Marks
 Comparison 2 Marks
@@ -19110,6 +21079,18 @@ monitor at a time).
 It ensures mutual exclusion automatically — no two processes can execute
 monitor procedures simultaneously.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Performance Comparison
+
+Algorithm Total Movement Characteristics
+
+FCFS 572 Simple, fair, but high seek time
+
+SSTF 188 Minimal movement, risk of starvation
+SCAN 313 Fair, predictable, moderate performance
+
+C-SCAN 396 More uniform wait time, higher movement
 --- page 15 ---
 Internal Structure of a Monitor (4 Marks)
 Components:
@@ -19488,6 +21469,33 @@ process proceeds immediately without waiting.
 Also, the turn variable guarantees that the processes alternate access
 if both want to enter, so no process can block the other indefinitely.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+user and other system programs
+
+GUI touch screen | command line
+
+user interfaces
+
+system calls
+
+program vO file a resource
+communication
+
+. A a accounting
+execution operations systems allocation
+
+protection
+and
+security
+
+error
+detection
+services
+
+operating system
+
+hardware
 --- page 3 ---
 C. Bounded-waiting requirement is met: The turn variable acts as a fair
 "token" passed between the two processes, ensuring that after one
@@ -19759,6 +21767,19 @@ down the system.
 entries — providing fast access to address translations.
 Address translation is carried out with TLB.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+frame e
+
+logical address physical address 0x000
+frame f
+cpu slp | a |
+p — Oxfff
+f frame g
+
+physical memory
+
+page table
 --- page 10 ---
 Address translation is carried without TLB.
 4 A Provide a comparative analysis of the Monolithic and Layered architectures 10
@@ -19782,6 +21803,30 @@ into one large block of code that runs in supervisor mode.
 overheads, but poor modularity and difficult debugging.
 Diagram:
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+logical
+
+address
+CPU +> pid
+
+page frame
+
+number number
+
+E TLB hit physical
+
+BI address
+Lt | 4d }—
+
+TLB
+
+TLB miss
+
+a physical
+memory
+
+page table
 --- page 11 ---
 Advantages:
 • High execution speed (no layer overhead).
@@ -19802,6 +21847,23 @@ adjacent layers.
 user interfaces.
 Diagram:
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+applications
+
+glibc standard c library
+
+system-call interface
+file CPU
+systems scheduler
+networks memory
+(TCP/IP) manager
+block character
+devices devices
+
+device drivers
+
+hardware
 --- page 12 ---
 Advantages:
 •   Better modularity and maintainability.
@@ -19838,6 +21900,28 @@ has cylinders numbered 0-199. Calculate the total head movement for:
 Compare the performance of each algorithm and determine which suits best
 for this scenario.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+application file device user
+program system driver mode
+
+messages: messages
+
+CPU
+scheduling
+
+memory
+managment
+
+kernel
+mode
+
+interprocess
+communication
+
+microkernel
+
+hardware
 --- page 13 ---
 Each Algorithm 2 Marks
 Comparison 2 Marks
@@ -19870,6 +21954,18 @@ monitor at a time).
 It ensures mutual exclusion automatically — no two processes can execute
 monitor procedures simultaneously.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Performance Comparison
+
+Algorithm Total Movement Characteristics
+
+FCFS 572 Simple, fair, but high seek time
+
+SSTF 188 Minimal movement, risk of starvation
+SCAN 313 Fair, predictable, moderate performance
+
+C-SCAN 396 More uniform wait time, higher movement
 --- page 15 ---
 Internal Structure of a Monitor (4 Marks)
 Components:
@@ -20248,6 +22344,33 @@ process proceeds immediately without waiting.
 Also, the turn variable guarantees that the processes alternate access
 if both want to enter, so no process can block the other indefinitely.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+user and other system programs
+
+GUI touch screen | command line
+
+user interfaces
+
+system calls
+
+program vO file a resource
+communication
+
+. A a accounting
+execution operations systems allocation
+
+protection
+and
+security
+
+error
+detection
+services
+
+operating system
+
+hardware
 --- page 3 ---
 C. Bounded-waiting requirement is met: The turn variable acts as a fair
 "token" passed between the two processes, ensuring that after one
@@ -20519,6 +22642,19 @@ down the system.
 entries — providing fast access to address translations.
 Address translation is carried out with TLB.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+frame e
+
+logical address physical address 0x000
+frame f
+cpu slp | a |
+p — Oxfff
+f frame g
+
+physical memory
+
+page table
 --- page 10 ---
 Address translation is carried without TLB.
 4 A Provide a comparative analysis of the Monolithic and Layered architectures 10
@@ -20542,6 +22678,30 @@ into one large block of code that runs in supervisor mode.
 overheads, but poor modularity and difficult debugging.
 Diagram:
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+logical
+
+address
+CPU +> pid
+
+page frame
+
+number number
+
+E TLB hit physical
+
+BI address
+Lt | 4d }—
+
+TLB
+
+TLB miss
+
+a physical
+memory
+
+page table
 --- page 11 ---
 Advantages:
 • High execution speed (no layer overhead).
@@ -20562,6 +22722,23 @@ adjacent layers.
 user interfaces.
 Diagram:
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+applications
+
+glibc standard c library
+
+system-call interface
+file CPU
+systems scheduler
+networks memory
+(TCP/IP) manager
+block character
+devices devices
+
+device drivers
+
+hardware
 --- page 12 ---
 Advantages:
 •   Better modularity and maintainability.
@@ -20598,6 +22775,28 @@ has cylinders numbered 0-199. Calculate the total head movement for:
 Compare the performance of each algorithm and determine which suits best
 for this scenario.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+application file device user
+program system driver mode
+
+messages: messages
+
+CPU
+scheduling
+
+memory
+managment
+
+kernel
+mode
+
+interprocess
+communication
+
+microkernel
+
+hardware
 --- page 13 ---
 Each Algorithm 2 Marks
 Comparison 2 Marks
@@ -20630,6 +22829,18 @@ monitor at a time).
 It ensures mutual exclusion automatically — no two processes can execute
 monitor procedures simultaneously.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Performance Comparison
+
+Algorithm Total Movement Characteristics
+
+FCFS 572 Simple, fair, but high seek time
+
+SSTF 188 Minimal movement, risk of starvation
+SCAN 313 Fair, predictable, moderate performance
+
+C-SCAN 396 More uniform wait time, higher movement
 --- page 15 ---
 Internal Structure of a Monitor (4 Marks)
 Components:
@@ -21008,6 +23219,33 @@ process proceeds immediately without waiting.
 Also, the turn variable guarantees that the processes alternate access
 if both want to enter, so no process can block the other indefinitely.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+user and other system programs
+
+GUI touch screen | command line
+
+user interfaces
+
+system calls
+
+program vO file a resource
+communication
+
+. A a accounting
+execution operations systems allocation
+
+protection
+and
+security
+
+error
+detection
+services
+
+operating system
+
+hardware
 --- page 3 ---
 C. Bounded-waiting requirement is met: The turn variable acts as a fair
 "token" passed between the two processes, ensuring that after one
@@ -21279,6 +23517,19 @@ down the system.
 entries — providing fast access to address translations.
 Address translation is carried out with TLB.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+frame e
+
+logical address physical address 0x000
+frame f
+cpu slp | a |
+p — Oxfff
+f frame g
+
+physical memory
+
+page table
 --- page 10 ---
 Address translation is carried without TLB.
 4 A Provide a comparative analysis of the Monolithic and Layered architectures 10
@@ -21302,6 +23553,30 @@ into one large block of code that runs in supervisor mode.
 overheads, but poor modularity and difficult debugging.
 Diagram:
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+logical
+
+address
+CPU +> pid
+
+page frame
+
+number number
+
+E TLB hit physical
+
+BI address
+Lt | 4d }—
+
+TLB
+
+TLB miss
+
+a physical
+memory
+
+page table
 --- page 11 ---
 Advantages:
 • High execution speed (no layer overhead).
@@ -21322,6 +23597,23 @@ adjacent layers.
 user interfaces.
 Diagram:
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+applications
+
+glibc standard c library
+
+system-call interface
+file CPU
+systems scheduler
+networks memory
+(TCP/IP) manager
+block character
+devices devices
+
+device drivers
+
+hardware
 --- page 12 ---
 Advantages:
 •   Better modularity and maintainability.
@@ -21358,6 +23650,28 @@ has cylinders numbered 0-199. Calculate the total head movement for:
 Compare the performance of each algorithm and determine which suits best
 for this scenario.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+application file device user
+program system driver mode
+
+messages: messages
+
+CPU
+scheduling
+
+memory
+managment
+
+kernel
+mode
+
+interprocess
+communication
+
+microkernel
+
+hardware
 --- page 13 ---
 Each Algorithm 2 Marks
 Comparison 2 Marks
@@ -21390,6 +23704,18 @@ monitor at a time).
 It ensures mutual exclusion automatically — no two processes can execute
 monitor procedures simultaneously.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Performance Comparison
+
+Algorithm Total Movement Characteristics
+
+FCFS 572 Simple, fair, but high seek time
+
+SSTF 188 Minimal movement, risk of starvation
+SCAN 313 Fair, predictable, moderate performance
+
+C-SCAN 396 More uniform wait time, higher movement
 --- page 15 ---
 Internal Structure of a Monitor (4 Marks)
 Components:
@@ -22039,6 +24365,25 @@ offset
 Protection   At page level   At segment level (more
 natural)
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+-————> 5
+
+r— limit [base
+
+Segment Table
+
+CPU =| Ss
+
+Logical
+Address
+
+offse\ yes
+fee
+
+no
+
+Invalid Address Physical memory
 --- page 8 ---
 Modern Use   Preferred   Combined (x86 segmented
 (simpler)   paging)
@@ -22540,6 +24885,33 @@ process proceeds immediately without waiting.
 Also, the turn variable guarantees that the processes alternate access
 if both want to enter, so no process can block the other indefinitely.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+user and other system programs
+
+GUI touch screen | command line
+
+user interfaces
+
+system calls
+
+program vO file a resource
+communication
+
+. A a accounting
+execution operations systems allocation
+
+protection
+and
+security
+
+error
+detection
+services
+
+operating system
+
+hardware
 --- page 3 ---
 C. Bounded-waiting requirement is met: The turn variable acts as a fair
 "token" passed between the two processes, ensuring that after one
@@ -22811,6 +25183,19 @@ down the system.
 entries — providing fast access to address translations.
 Address translation is carried out with TLB.
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+frame e
+
+logical address physical address 0x000
+frame f
+cpu slp | a |
+p — Oxfff
+f frame g
+
+physical memory
+
+page table
 --- page 10 ---
 Address translation is carried without TLB.
 4 A Provide a comparative analysis of the Monolithic and Layered architectures 10
@@ -22834,6 +25219,30 @@ into one large block of code that runs in supervisor mode.
 overheads, but poor modularity and difficult debugging.
 Diagram:
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+logical
+
+address
+CPU +> pid
+
+page frame
+
+number number
+
+E TLB hit physical
+
+BI address
+Lt | 4d }—
+
+TLB
+
+TLB miss
+
+a physical
+memory
+
+page table
 --- page 11 ---
 Advantages:
 • High execution speed (no layer overhead).
@@ -22854,6 +25263,23 @@ adjacent layers.
 user interfaces.
 Diagram:
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+applications
+
+glibc standard c library
+
+system-call interface
+file CPU
+systems scheduler
+networks memory
+(TCP/IP) manager
+block character
+devices devices
+
+device drivers
+
+hardware
 --- page 12 ---
 Advantages:
 •   Better modularity and maintainability.
@@ -22890,6 +25316,28 @@ has cylinders numbered 0-199. Calculate the total head movement for:
 Compare the performance of each algorithm and determine which suits best
 for this scenario.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+application file device user
+program system driver mode
+
+messages: messages
+
+CPU
+scheduling
+
+memory
+managment
+
+kernel
+mode
+
+interprocess
+communication
+
+microkernel
+
+hardware
 --- page 13 ---
 Each Algorithm 2 Marks
 Comparison 2 Marks
@@ -22922,6 +25370,18 @@ monitor at a time).
 It ensures mutual exclusion automatically — no two processes can execute
 monitor procedures simultaneously.
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Performance Comparison
+
+Algorithm Total Movement Characteristics
+
+FCFS 572 Simple, fair, but high seek time
+
+SSTF 188 Minimal movement, risk of starvation
+SCAN 313 Fair, predictable, moderate performance
+
+C-SCAN 396 More uniform wait time, higher movement
 --- page 15 ---
 Internal Structure of a Monitor (4 Marks)
 Components:
@@ -23218,6 +25678,7 @@ where a record must be accessed by its index or relative block number.
 - Source: `02_Question_Papers/2024/Sem_01/Final-Exam/MASTER OF COMPUTER APPLICATIONS - 7061/Operating Systems/ANS_Operating Systems(703CO1C002)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06 Dec 2024
 - Text: text (8 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -23339,6 +25800,34 @@ Services
 ◦   collect statistics
 ◦   monitor performance
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+'
+
+queue of
+entering
+processes
+monitor waiting area Entrance
+{Ce
+MONITOR
+
+local data
+
+ewait(el)
+
+condition variables
+
+5 Procedure 1
+
+Procedure k
+
+urgent queue
+
+csignal ae
+a initialization code
+
+alo
+Exit
 --- page 4 ---
 b   Explain deadlock detection algorithm with the help of suitable example.   (10)
 Ans: algorithm [5M]
@@ -23369,6 +25858,25 @@ semaphore.
 Ans: Producer/Consumer Problem: [2M]
  General Situation:
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+mple of Detection Algorithm
+
+& processes P, through P,; three resource types A
+(7 instances), B (2 instances), and C (6 instances)
+
++ Snapshot at time Tp:
+AllocationRequestAvailable
+
+ABC ABC ABC
+P, 010 000 000
+P,; 200 202
+P, 303 000
+P3211 100
+P,002 002
+
+. uence <P, P2, P3, P;,P.>-wilHresult-in-Finishfi
+P for all i
 --- page 5 ---
 ◦ One or more producers are generating data and placing these in
 a buffer
@@ -23391,6 +25899,38 @@ Q.5 a   Explain Shortest Service Time First, SCAN and C-SCAN disk scheduling
 algorithms with suitable example.   (10)
 Ans: sequence: 55, 58, 39, 18, 90, 160, 150, 38, 184.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+/* program producerconsumer */
+ant n;
+
+binary_semaphore s = 1, delay = 0
+void producer( )
+{
+while (true) {
+produce();
+semWaitB(s);
+append( );
+n++;7
+af (m==1) semSignalB(delay);
+semSignalB(s);
++
+}
+void consumer()
+{
+aint m; /* a local variable */
+semWaitB(delay);
+while (true) {
+semWaitB(s);
+semSignalB(s);
+consume ();
+af (m==0) semWaitB(delay);
++
+
+void main()
+
+n= 0;
+parbegin (producer, consumer) ;
 --- page 6 ---
 b   Explain various elements of directory and its tree structure.   (10)
 Ans: basic elements [6M]
@@ -23411,6 +25951,15 @@ Ans: segmentation [3M]
  Segmentation is similar to dynamic partitioning
 Address Translation: explanation with diagram [7M]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Master Directory
+
+Subirectory Subirectory Subirectory
+Subirectory Subirectory File
+File File File
+
+Figure 12.4 Tree-Structured Directory
 --- page 7 ---
 b   Explain Dining – Philosopher problem with an example.   (10)
 Ans:: explanation [5M]
@@ -23439,6 +25988,26 @@ Q.7   Write short note on the following
 a   Round Robin Scheduling algorithm   (10)
 Ans:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+16-bit logical address
+
+4-bit segment # 12-bit offset
+
+[o[olo[1]oJo[1[o[1[1 [1 [2 [o[ololo}
+SY
+
+Length Base |
+0 [001011101110[000001000000000:
+1 [011110011110/0010000000100000}————_>
+
+Process segment table
+
+
+16-bit physical address
+(b) Segmentation
+
+Figure 7.12 Examples of Logical-to-Physical Address Translation
 --- page 8 ---
 b   Mutual Exclusion with message passing   (10)
 Ans:
@@ -23453,6 +26022,66 @@ Addressing
 Direct Addressing
 Indirect addressing
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+4, Round Robin (RR)
+
+» Each process gets a small unit of CPU time (time
+quantum), usually 10-100 milliseconds. After this
+time has elapsed, the process is preempted and
+added to the end of the ready queue.
+
+« If there are n processes in the ready queue and
+the time quantum is q, then each process gets
+I/n of the CPU time in chunks of at most g time
+units at once. No process waits more than (n-
+I)q time units.
+
+« Performance
+
+q large => FIFO
+
+q small => q must be large with respect to context
+switch, otherwise overhead is too high
+
+Example of RR with Time Quantum = 4
+Process Burst Time
+
+P, 24
+P, 3
+P; 3
+
+* The Gantt chart is:
+
+[i feelejejr|r le |e
+0 4 7 10 14 18 22 26 3
+
+* Typically, higher average turnaround than SJF,
+but better response
+
+/* program mutualexclusion */
+const int n = /* number of processes */;
+void P(int i)
+{
+message msg;
+while (true) {
+receive (box, msg);
+/* critical section ap
+send (box, msg);
+/* remainder */;
+
+}
+void main()
+{
+
+create mailbox (box);
+
+send (box, null);
+
+parbegin (P(1), P(2), . . «, P(M)):
+}
+
+Figure 5.20 Mutual Exclusion Using Messages
 ````
 
 ## 2024-25 · Re-Exam · Sem 1 · Answer key · paper aa115ff0b5e2
@@ -23568,6 +26197,44 @@ with suitable diagram.
 Ans:
 Layered Architecture
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Critical
+region
+
+| Normal
+
+execution
+
+Queue for Value of
+“TT [0] 1 Blocked on
+
+semaphore lock semaphore lock A B Cc |
+! semaphore
+
+1 lock
+
+Note that normal
+execution can
+proceed in parallel
+but that critical
+regions are serialized.
+
+Figure 5.7 Processes Accessing Shared Data Protected by a Semaphore
+
+Monolithic Kernel System
+Unprivileged
+Mode
+
+Privileged
+
+File Network Mode
+Systems Subsystem
+
+Memory Process Drivers
+Management Management
+
+Monolithic Kernel
 --- page 4 ---
 Layer 6
 User Programs
@@ -23613,6 +26280,34 @@ Reader’s / Writer’s problem [8M]
 ◦   Only one writer at a time may write
 ◦   If a writer is writing to the file, no reader may read it.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Pl
+P2
+P3
+P4
+
+Rl R2 R3 Rl R2 R3
+0 t) 0 Pl tt) 0 0 Pl
+0 0 0 P2 tt) 0 0 P2
+0 t) 0 P3 0 0 0 P3
+4 2 2 P4 0 0 2 P4
+
+Claim matrix C Allocation matrix A
+Rl R2 R3 Rl R2 R3
+
+Po [ 3 [ 6 | Lo | 3 T 4 |
+
+Resource vector R Available vector V
+
+(d) P3 runs to completion
+
+Rl R2 Rj
+0 0 0
+0 0 0
+0 0 0
+4 2 0
+C-A
 --- page 6 ---
 Q.   a
 5   Discuss I/O buffering and its types with the limitations.   (10
@@ -23635,6 +26330,41 @@ Q.   a What do you mean by paging in memory management? Explain translation of l
 )
 Ans: paging - [3M]
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+/* program readersandwriters */
+int readcount;
+semaphore x = 1, wsem = 1;
+void reader()
+{
+while (true) {
+semWait (x);
+readcount++;
+if (readcount == 1) semWait (wsem);
+semSignal (x);
+READUNIT( ) ;
+semWait (x);
+readcount--;
+
+if (readcount == 0) semSignal (wsem);
+semSignal (x);
+}
+}
+void writer()
+{
+while (true) {
+semWait (wsem);
+WRITEUNIT( );
+semSignal (wsem);
+}
+}
+
+void main()
+
+{
+
+readcount = 0;
+parbegin (reader, writer);
 --- page 7 ---
    Partition memory into small equal fixed-size chunks and divide each process into the
 same size chunks
@@ -23673,6 +26403,26 @@ Control and Status Register
 Stack Pointers
 Process Control Information
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+16-bit logical address
+6-bit page # 10-bit offset
+lojofofololajoj1{1[1Jo}1{1]1[1Jo]
+nn A et
+l
+
+0[000101
+1[000110
+2[011001
+
+Process
+page table
+
+FT @ [V+
+[ofofo[1]1jojo[1[1]1Joj1]1]1]1]o}
+
+16-bit physical address
+(a) Paging
 --- page 8 ---
 b. Mutual exclusion with the hardware support
 Ans:

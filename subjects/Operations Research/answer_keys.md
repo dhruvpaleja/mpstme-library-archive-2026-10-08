@@ -1343,6 +1343,49 @@ horizontal or vertical so as to cover all zeros. All zeros can be covered by fou
 2 marks
 2 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The following matrix gives the cost incurred if the typist (i = A, B, C, D, E) executes the job (j =
+P,Q,R, S, T).
+
+Typist Job P Job Q JobR JobS Job T
+A 85 75 65 125 75
+B 90 78 66 132 78
+c 75 66 57 114 69
+D 80 72 60 120 72
+E 76 64 56 112 6g | 2ma
+
+Subtracting the minimum element of each row from all its elements in turn, the above matrix
+reduces to-
+
+Typist Job P Job Q Job R Job S Job T
+A 20 10 0 60 10
+B 24 12 0 66 12
+c 18 9 0 57 12
+D 20 12 0 60 12
+
+E 20 8 0 56 12
+
+Typist Job P Job Q Job R Job S |
+h j 2 marks
+
+c 0) | 1 1 2
+
+D D 4 4 2 | 2m
+
+E P a | p. 8 2
+Since there are only 4 lines (<5) to cover all zeros, optimal assignment cannot be made. The
+minimum uncovered element is 1.
+
+We subtract the value 1 from all uncovered elements, add this value to all intersections of two
+lines values and leave the other elements undisturbed. The revised matrix so obtained is
+given below-
+
+Typist Job P Job Q Job R Job S Job T
+A 3 2 4 Db]
+B 6 3 9
+¢| |e
+D 2 3 6 3
 --- page 6 ---
 Since the minimum no. of lines required to cover all the zeros is only 4 (< 5), optimal assignment cannot be
 made at this stage also.
@@ -1354,6 +1397,48 @@ distribution) is λ/hour, service rate (exponential distribution) is μ/hour. �
 Q4
 A
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The minimum uncovered element is 2. Repeating the usual process again, we get the
+following matrix-
+
+Typist Job P Job Q Job R Job S Job T
+A 9 4 2 fo]
+B ‘ 1 it 7 1
+c é (Fe 4 8 3
+D tn 1 1 1
+
+E YT uw
+
+Since the minimum number of lines to cover all zeros is equal to 5, this matrix will give optimal
+solution. The optimal assignment is made in the matrix below-
+
+Typist Job P JobQ Job R Job S Job T
+
+A 1 >e« 1 2 oO
+B 4 1 io 7 1
+
+c SK | 2 SK 3
+
+D CI 1 Se 1 2 marks
+E 3 >< 3 oO 4
+Typist Job Cost (%)
+
+A T 75
+
+B R 66
+
+c Q 66
+
+D P 80
+
+E S) 112
+
+Total 399 1 mark
+
+Note
+
+In this case the above solution is not unique. Alternate solution also exists.
 --- page 7 ---
 Let x units of product A and y units of product B are purchased.
 
@@ -1481,6 +1566,49 @@ a
 Electra's Optimal Strategy: A2 (TV Focus)
 Maximin Value: 9 percentage points
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+1. Calculate the Annual Inventory Holding Cost per Unit (H)
+
+The holding cost per unit per year is the unit cost multiplied by the holding rate:
+
+H=-ixC —
+in
+H = 0.20 x $15/kg = $3.00/kg per year ———
+2. Calculate the Economic Order Quantity (EOQ)
+The EOQ formula is:
+2 mar
+2DS
+E = Q* = 4/ —
+0Q-Q Ai
+
+Where:
++ D=12,000kg
+¢« S —$75/order
+¢ H = $3.00/kg per year
+
+/2 x 12,000 x 75
+EOQ 3.00
+
+/1, 800, 000
+E0Q 3.00
+
+EOQ = 1/600, 000 ~ 774.60 kg
+
+The optimal order quantity is 775 kilograms (rounding up to the nearest whole unit).
+
+2ma
+
+1. Electra's Optimal Strategy (Maximin)
+Electra (Player A) aims to maximize their minimum possible gain by finding the row minima.
+Electra's Campaign (A) Bi B2 8B3 Row Minimum (Maximin Security Level)
+
+Al 5 8 12 8
+
+A2 10 9 14 9 + Maximin
+
+4 marks
+A3 13 7 1 7
 --- page 12 ---
 4 marks
 Zenith's Optimal Strategy: B2
@@ -1495,6 +1623,20 @@ The game is stable in pure strategies. Electra should choose A2, and Zenith shou
 market share gain is 9 percentage points.
 b.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+2. Zenith's Optimal Strategy (Minimax)
+
+Zenith (Player B) aims to minimize their maximum possible loss by finding the column maxima.
+
+Electra's Campaign (A) Bi B2 B3
+
+Al 15 8 12
+
+A2 10 9 14 4 marks
+A3 13 7 nN
+
+Column Maximum (Minimax Security Level) 15 9+ Minimax 14
 --- page 13 ---
 Vogel's Approximation Method (VAM)-
 
@@ -1544,6 +1686,34 @@ iii.   Probability that the server is busy
 3 marks
 iv.   Probability of More Than Two Customers in the System
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Aj Matrix
+
+12 3
+
+All Aj > 0, Hence this is the optimal solution.
+
+Factory Destination Cost per unit (®) Units Cost (%) | Revised Cost (®)
+
+xX B 9 10 90 45
+x c 6 e1 0 0
+Y Cc 6 10 60 30 5 marks
+Z A 6 10 60 30
+Z c 9 e2 0 0
+Total 105
+
+Total minimum transportation cost is = 105.
+
+2
+L,=—~
+H(u — A)
+
+20? 400 400 4 1.33 custome.
+= = = >e1. ustomers
+30(30—20) 30x10 300 3
+
+L,=
 --- page 15 ---
 Prsg = 1 — Paeg = 1— (Po + Pi + Po)
 We use P,, = (1 — p)p", where 1 — p= 1 — 2/3 = 1/3.
@@ -1600,6 +1770,47 @@ Instructions:
 7. All questions carry equal marks
 8. Assume suitable data if necessary
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Qla
+
+Operations Research follows systematic phases
+
+1. Problem formulation and identification {1 Mark)
+2. Construction of mathematical model (Mark)
+3. Obtaining solution from model ( Mark)
+4. Testing, and validation of model ( Mark)
+
+5. Implem
+
+tation and control (Mark)
+
+(b) (5 Marks)
+Minimize:
+Zar + By
+
+Subject to:
+Qe+y>6
+
+e+ fy > 4
+
+ay =o
+(1 Mark)
+Convert to equations:
+Qa + y = 6, e+ 2y=—4
+(1 Mark)
+Solve intersection:
+2a+y=—6
+ot Qy =
+a
+(1 Mark)
+Corner points: (0,6), (4.0), (3 (1 Mark)
+Evaluate 4:
+Point 4 Walue
+(0,6) 18 “le
+(4,0) 8 (1 Mark)
+(8/3, 2/3) 22/8 Mininuam
+Optimal:
 --- page 2 ---
 (c) (5 Marks)
 Activity Predecessor
@@ -2570,6 +2781,23 @@ as: x1=6, x2=0, Max Z=18 (01 mark)
 b.   Table as follows: (04 marks)
 Earliest and Latest time (04 marks)
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Least time | Greatest time | Most likely Expected time Variance
+
+Activity . 2
+
+(to) (tp) time (tm) (to + ty + 4tn)/6 (0’)
+(1-2) 5 10 8 78 0.69
+(1-3) 18 22 20 20.0 0.44
+(1-4) 26 40 33 33.0 5.43
+(2-5) 16 20 18 18.0 0.44
+(2-6) 15 25 20 20.0 2.78
+(3-6) 6 12 9 9.0 1.00
+(4-7) 7 12 10 9.8 0.69
+(5-7) 7 9 8 8.0 0.11
+
+(6-7) 3 5 4 4.0 0.11
 --- page 13 ---
 6   20
 a.   A sensitivity report provides insights about how changes in the parameters
@@ -2586,6 +2814,38 @@ RHS).
 range within which the current optimal solution remains optimal if
 the profit or cost per unit changes.
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Earliest time
+
+E; =0
+
+Ez =0+7.8=7.8
+
+E3 = 0 +20 = 20
+
+E, = 0 +33 = 33
+
+Es = 7.8 + 18 = 25.8
+
+Eg = max [7.8 + 20, 20 + 9] = 29
+
+E; = max [33 + 9.8, 25.8 + 8, 29 + 4] = 42.8
+Latest time
+
+L; = 42.8
+
+Lg = 42.8 —4 = 38.8
+
+L; = 42.8—8 = 34.3
+
+Ly = 42.8 — 9.8 = 33
+
+Lz = 38.8 —9 = 29.8
+
+L» = min [34.8 — 18, 38.8 — 20] = 16.8
+
+L; = min [16.8 — 7.8, 29.8 — 20, 33 - 33] =0
 --- page 14 ---
 • Allowable increase/decrease in resource availability – indicates
 the range of RHS changes where shadow prices remain valid.

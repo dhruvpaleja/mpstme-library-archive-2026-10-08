@@ -61,6 +61,18 @@ per annum.
 B.
 2.   15
 Page 2 of 4
+
+[Text in pictures on this page, read by OCR]
+AK imported goods from a U.S. company worth US$ 7,50,000 on 15th July, 2024 when
+exchange rate was US$ 1 = 2 88.10. The payments were made as under:
+
+Date Instalment (US$) Rate of Exchange (21 = US$)
+15th September 1,00,000 = 89.20
+15th November 2,00,000 = 88.50
+15th January 1,50,000 = 88.75
+
+The rate of exchange was US$ | = @ 89.50 as on 31-March-2025.
+Pass Journal Entries in the books of AK in accordance with AS-11 for the year ending 31.3.2025
 --- page 3 ---
 3.
 
@@ -251,6 +263,18 @@ Closing Branch Debtors – 31-3-2025   1,55,000
 B.
 2.   15
 Page 2 of 4
+
+[Text in pictures on this page, read by OCR]
+Govind Ltd. imported goods from Global Trade Inc., USA worth US$ 72,000 on 1st December, 2023, when
+the exchange rate was Rs 84 per USS. The amount is to be paid in instalments as follows:
+
+Date Amount of instalment (US$) | Exchange rate (Rs per US$)
+20.12.2023 20,000 85
+20.01.2024 22,000 87
+15.02.2024 18,000 86
+
+Govind Ltd. closes its books on 31 March every year. On 31 March 2024 the exchange rate was Rs 86 per USS.
+Pass journal entries in the books of Govind Ltd. for the years ended 31st March, 2024 as per AS 11
 --- page 3 ---
 3.
 

@@ -916,6 +916,7 @@ feedback methods for adaptive performance.
 - Departments: Artificial Intelligence, Computer Engineering, Computer Science, Cyber Security, Data Science, Electronics and Telecommunication, Information Technology
 - Programmes: BTech AI 7012, BTech CS 7055, BTech CSE DS 7057, BTech CyberSecurity 7010, BTech EXTC 7006, BTech IT 7001, Integrated Computer 7032, MBATech AI 7051
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/BTech_CS_7055/Computer Networks/ANS_Computer Networks(702AI0C023)_2025-2026.pdf` (+7 identical copies)
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Dec 2025
 - Text: mixed (28 pages), mean OCR confidence 88.7
 
 ````text
@@ -944,6 +945,35 @@ high traffic.
 •   Security: Requires encryption (WPA3/WPA2); more vulnerable to attacks
 than wired networks.
 Soln
+
+[Text in pictures on this page, read by OCR]
+SYNOPTICS
+
+SVKMs NMIMS
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+
+Programme: B. Tech (AI)/B. Tech (AI & DS)/B. Tech (AI & ML)/B. Tech (COMP)/B. Tech
+(CS)/B. Tech (CSE - CS)/B. TECH (CSE - DS)/B. Tech (EXTC)/B. Tech Intg. (CE)/B. Tech
+Intg. (IT)/B. Tech (IT)/MBA Tech (AI)/MBA Tech (Comp)/MBA Tech (IT)
+Year: II/ III / IV/Semester III/Semester V/Semester VII(Exam Year: 2025-2026)
+Subject: Computer Networks
+Date: 05 Dec 2025 Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+Max. Marks: 100
+FINAL EXAMINATION (Acad. Year:2025-2026)
+
+Instructions:
+
+1. This question paper contains 24 pages.
+
+2. Answer to each new question to be started on a fresh page.
+
+3. Figure in right hand side indicates full marks
+
+4. Question Number 1 is compulsary. Attempt any 4 out of the remaining questions.
+
+5. All questions carry equal marks.
+
+6. Assume suitable data if necessary.
 --- page 2 ---
 Marking Scheme (5 Marks):
 Wired Communication-Correctly explains implementation, speed, reliability and
@@ -1359,6 +1389,18 @@ mechanis   it   provides   flow   control and mechanism
 m   acknowledgment of data.   using checksums.
 Acknowle An acknowledgment segment   is No   acknowledgment
 dgment   present.   segment.
+
+[Text in pictures on this page, read by OCR]
+Daytime Daytime
+client server
+
+Outgoing v % Incoming Outgoing v % Incoming
+
+queue queue queue queue
+
+4 ft + ft
+
+UDP Port 52000 UDP Port 13
 --- page 14 ---
 There is no sequencing
 Sequencing of data is a feature of
@@ -1588,6 +1630,30 @@ of many nodes transmitting at once.
 CO-4
 BL-2   Explain open loop and closed loop congestion control policy in transmission
 SO-1 Q6 c   control protocol. Describe any two policies from each type.   10
+
+[Text in pictures on this page, read by OCR]
+Sense
+and transmit
+
+Continuously sense
+
+Time
+Busy
+
+a. V-persistent
+
+Sense
+and transmit
+
+Busy
+b.Nonpersistent
+Probability outcome
+does not allow transmission. Transmit
+Continuously sense H ‘
+Time
+Busy
+
+ppersistent
 --- page 22 ---
 Open Loop: Open loop congestion control mechanisms try to remove the congestion
 before it happens.
@@ -1654,6 +1720,18 @@ backpressure method.
 • In choke packet method, congested node sends a warning directly to the source
 station i.e. the intermediate nodes through which the packet has travelled are not
 warned.
+
+[Text in pictures on this page, read by OCR]
+Back Back
+
+Pressure Back Pressure Pressure .
+a
+y —|;i UF 2 |ps 3 4 ~
+‘Source SccuMPurccl Naar .CoTi Destination
+—
+Upstream Dataflow Downstream
+
+Backpressure Method
 --- page 25 ---
 CO3,   Consider a network topology consisting of nodes A, B, C, D, E, F, and G. The
 BL3,   directed edges between these nodes and their corresponding positive weights
@@ -1714,6 +1792,37 @@ number of bytes (usually 1 token = 1 byte or 1 packet).
 • The bucket has a maximum capacity B (in tokens).
 • When a packet arrives:
 Soln
+
+[Text in pictures on this page, read by OCR]
+Iteration Selected Dist A Dist B Dist C Dist D Dist E Dist F Dist G
+
+iit - 0 Fy « ® ® ® ®
+1 AO 0 4 2 ® ry ® ®
+2 CQ 0 4 2 5 6 Fy Fy
+3 8) 0 4 2 5 6 Fy Fy
+4 D6) 0 4 2 5 6 1 F)
+5 £6) 0 4 2 5 6 1 ®
+6 FO) 0 4 2 5 6 1 R
+
+7 G (12) 0 4 2 5 6 7 ap
+
+One token added
+
+per tick
+a)
+
+—_
+
+1 One token removed
+! and discarded
+per cell transmitted
+
+|
+. N |
+Arrival Processor Departure
+Queue
+Y
+Discard
 --- page 28 ---
 o   If there are enough tokens, the packet is transmitted, and tokens are
 removed from the bucket.
@@ -2184,6 +2293,18 @@ mechanis   it   provides   flow   control and mechanism
 m   acknowledgment of data.   using checksums.
 Acknowle An acknowledgment segment   is No   acknowledgment
 dgment   present.   segment.
+
+[Text in pictures on this page, read by OCR]
+Daytime Daytime
+client server
+
+Outgoing v % Incoming Outgoing v % Incoming
+
+queue queue queue queue
+
+4 ft + ft
+
+UDP Port 52000 UDP Port 13
 --- page 14 ---
 There is no sequencing
 Sequencing of data is a feature of
@@ -2413,6 +2534,30 @@ of many nodes transmitting at once.
 CO-4
 BL-2   Explain open loop and closed loop congestion control policy in transmission
 SO-1 Q6 c   control protocol. Describe any two policies from each type.   10
+
+[Text in pictures on this page, read by OCR]
+Sense
+and transmit
+
+Continuously sense
+
+Time
+Busy
+
+a. V-persistent
+
+Sense
+and transmit
+
+Busy
+b.Nonpersistent
+Probability outcome
+does not allow transmission. Transmit
+Continuously sense H ‘
+Time
+Busy
+
+ppersistent
 --- page 22 ---
 Open Loop: Open loop congestion control mechanisms try to remove the congestion
 before it happens.
@@ -2479,6 +2624,18 @@ backpressure method.
 • In choke packet method, congested node sends a warning directly to the source
 station i.e. the intermediate nodes through which the packet has travelled are not
 warned.
+
+[Text in pictures on this page, read by OCR]
+Back Back
+
+Pressure Back Pressure Pressure .
+a
+y —|;i UF 2 |ps 3 4 ~
+‘Source SccuMPurccl Naar .CoTi Destination
+—
+Upstream Dataflow Downstream
+
+Backpressure Method
 --- page 25 ---
 CO3,   Consider a network topology consisting of nodes A, B, C, D, E, F, and G. The
 BL3,   directed edges between these nodes and their corresponding positive weights
@@ -2539,6 +2696,37 @@ number of bytes (usually 1 token = 1 byte or 1 packet).
 • The bucket has a maximum capacity B (in tokens).
 • When a packet arrives:
 Soln
+
+[Text in pictures on this page, read by OCR]
+Iteration Selected Dist A Dist B Dist C Dist D Dist E Dist F Dist G
+
+iit - 0 Fy « ® ® ® ®
+1 AO 0 4 2 ® ry ® ®
+2 CQ 0 4 2 5 6 Fy Fy
+3 8) 0 4 2 5 6 Fy Fy
+4 D6) 0 4 2 5 6 1 F)
+5 £6) 0 4 2 5 6 1 ®
+6 FO) 0 4 2 5 6 1 R
+
+7 G (12) 0 4 2 5 6 7 ap
+
+One token added
+
+per tick
+a)
+
+—_
+
+1 One token removed
+! and discarded
+per cell transmitted
+
+|
+. N |
+Arrival Processor Departure
+Queue
+Y
+Discard
 --- page 28 ---
 o   If there are enough tokens, the packet is transmitted, and tokens are
 removed from the bucket.
@@ -2565,6 +2753,7 @@ differentiation without additional mechanisms.
 - Source: `02_Question_Papers/2025/Sem_03/Final-Exam/MBATech_IT_7041/Computer Networks/ANS_Computer Networks(702AI0C023)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Dec 2025
 - Text: mixed (24 pages), mean OCR confidence 28.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -3042,6 +3231,18 @@ m   acknowledgment of data.   using checksums.
 Acknowle An acknowledgment segment is No   acknowledgment
 dgment   present.   segment.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Daytime Daytime
+client server
+
+Outgoing v % Incoming Outgoing v x Incomir
+
+queue queue queue queue
+
++ ft yf
+
+UDP Port 52000 UDP Port 13
 --- page 13 ---
 There is no sequencing
 Sequencing of data is a feature of
@@ -3119,6 +3320,24 @@ Diagram: 2 marks
 Phases: 6 marks
 Soln   •One of the most popular Internet services is electronic mail (e-mail).
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Window Sizes
+We can now show why the size of the sender and receiver windows must be at most one-
+half of 2”. For an example, we choose m = 2, which means the size of the window is 2”/2,
+or 2. Figure 11.21 compares a window size of 2 with a window size of 3.
+
+If the size of the window 1s 2 and all acknowledgments are lost, the timer for frame 0
+expires and frame 0 is resent. However, the window of the receiver is now expecting
+
+frame 2, not frame 0, so this duplicate frame is correctly discarded. When the size of
+the window is 3 and all acknowledgments are lost, the sender sends a duplicate of
+frame 0. However, this time, the window of the receiver expects to receive frame 0 (0 is
+part of the window), so it accepts frame 0, not as a duplicate, but as the first frame in
+the next cycle. This is clearly an error.
+
+In Selective Repeat ARQ, the size of the sender and receiver window
+must be at most one-halfof 2”.
 --- page 16 ---
 •E-mail allow users to exchange messages. It is considered as a one-way
 transaction.
@@ -3240,6 +3459,30 @@ transmission.
 Open Loop Policies (any 2)   -----   2 *2 = 4M
 Soln
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+Sense
+and transmit
+
+Continuously sense
+
+Time
+Busy
+
+a. V-persistent
+
+Sense
+and transmit
+
+Busy
+6 Nonpersistent
+Probability outcome
+does not allow transmission. Transmit
+Continuously sense H ‘
+Time
+Busy
+
+ppersistent
 --- page 20 ---
 Retransmission Policy
 • The sender retransmits a packet, if it feels that the packet it has sent is lost or
@@ -3300,6 +3543,17 @@ as in backpressure method.
 station i.e. the intermediate nodes through which the packet has travelled are not
 warned.
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+Back Back
+
+Pressure Back Pressure Pressure .
+a
+y —|;i UF 2 [pt 3 4 ~
+—
+Upstream Dataflow Downstream
+
+Backpressure Method
 --- page 22 ---
 CO3,   Consider a network topology consisting of nodes A, B, C, D, E, F, and G.
 BL3,   The directed edges between these nodes and their corresponding positive
@@ -3363,6 +3617,25 @@ traffic. So, critical or high-priority packets can be delayed just like
 any others, making it unsuitable for quality of service (QoS)
 Soln   differentiation without additional mechanisms.
 ********** 23 **********
+
+[Text in pictures on this page, read by OCR]
+One token added
+
+per tick
+a)
+
+—_
+
+1 One token removed
+! and discarded
+per cell transmitted
+
+|
+. N |
+Arrival Processor Departure
+Queue
+Y
+Discard
 --- page 24 ---
 FRR IRD AC HOH
 ````
@@ -3476,6 +3749,46 @@ Ans. CSMA explanation 1 marks
 p-persistent CSMA with advantages and disadvantages 3 marks
 non-persistent CSMA with advantages and disadvantages 3 marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Tokens added at the rate of r per second;
+tokens are discarded if bucket is full.
+>
+
+Bucket capaci)
+isc tokens. =>
+I
+| One token is removed
+| and discarded
+
+H per cell transmitted.
+
+Sense
+and transmit
+
+Continuously sense
+
+Time
+Busy
+a. 1-persistent
+Sense
+and transmit
+Sense Sense
+Wait Wait
+— ps Time
+Busy
+b. Nonpersistent
+Probability outcome
+does not allow transmission. Transmit
+Continuously sense 7 . 7
+! Time slot 1! Timeslot ! Time slot
+1 1 1
+Y Y
+Time
+
+Busy
+
+c. p-persistent
 --- page 5 ---
 b.   Elaborate on the concept of 3-way handshaking in the TCP protocol and
 CO-4;
@@ -3499,6 +3812,30 @@ transmitting data in both directions.
 The FIN segment consumes one sequence number if it does
 not carry data.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+~<
+
+Y Y
+Wait
+? ?
+Channel? Busy < channel? >— randomly
+Idle
+Station can transmit. Station can transmit.
+a. 1-persistent b. Nonpersistent
+A
+Busy
+Idle
+Idle -
+fi
+Channel? Wait a 2P_/Probability
+slot outcome?
+Busy <p
+Use back-off process Station can transmit.
+
+as though collision occurred.
+
+C. p-persistent
 --- page 6 ---
 The FIN + ACK segment consumes one sequence number if it
 does not carry data.
@@ -3752,6 +4089,27 @@ iii.   Show retransmission of frame 2
 iv.   After acknowledgement of frames 2, frame 4 and frame 5 sent
 and received with acknowledgement
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+IPv4 Header IPv6 Header
+
+Type of
+Version | IHL Total Length
+a Version | Traffic Class
+Fragment
+Indentification Flags Offset
+Next
+Time to Live | Protocol Header Checksum Payload Length easier? Limit
+Source Address
+Destination Address
+Con Padding Source Address
+([) - Field names kept from IPv4 to IPv6
+Tt
+c £C)- Fields not kept in IPv6
+2 Name & position changed in IPv6
+so pos s Destination Address
+
+“wa: New field in IPv6
 --- page 13 ---
 v.   Show the timeout for frame 6.
 Ans.   Selective Repeat explanation 4 marks
@@ -3779,6 +4137,26 @@ File Transfer Protocol (FTP)
 Transferring files from one computer to another is one of the most
 common tasks expected from a networking or internetworking
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Sender Receiver
+
+Initial Initial
+
+Request
+" ODE ET]STE aviv
+Frame O
+Arrival delivered
+Request
+Request
+q Arrival
+Request
+Arrival
+Arrival
+Arrival Arrival
+
+Frames 1, 2,3
+delivered
 --- page 14 ---
 environment. As a matter of fact, the greatest volume of data exchange
 in the Internet today is due to file transfer.
@@ -3976,7 +4354,7 @@ intermediate node receives all the parts of the message.
 - Departments: AI and Data Science
 - Programmes: BTech AIDS 7056
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_AIDS_7056/Computer Networks/ANS_Computer Networks(702AI0C007)_2025-2026.docx`
-- Text: docx (1 page)
+- Text: mixed (11 pages), mean OCR confidence 79.2
 
 ````text
 CN TEE Synoptic AY – 25-26
@@ -4762,6 +5140,154 @@ The algorithm does not distinguish between different types of traffic. So, criti
 
 |
 |
+--- page 2 ---
+Sender Process Receiver Process
+
+Message Message
+
+dP |UDP data UDP |UDP data
+ee IP data _z IP data
+frame Frame data frame Frame data
+
+» 2s af
+
+a. Encapsulation b. Decapsulation
+--- page 3 ---
+Daytime Daytime
+client server
+
+]
+
+Outgoing g x Incoming Outgoing v * Incoming
+
+queue queue queue queue
+
+v ft Y ft
+
+UDP Port 52000 UDP Port 13
+--- page 4 ---
+Window Sizes
+
+We can now show why the size of the sender and receiver windows must be at most one-
+half of 2”. For an example, we choose m = 2, which means the size of the window is 2””/2,
+or 2. Figure 11.21 compares a window size of 2 with a window size of 3.
+
+If the size of the window 1s 2 and all acknowledgments are lost, the timer for frame 0
+expires and frame 0 is resent. However, the window of the receiver is now expecting
+--- page 5 ---
+frame 2, not frame 0, so this duplicate frame is correctly discarded. When the size of
+the window is 3 and all acknowledgments are lost, the sender sends a duplicate of
+frame 0. However, this time, the window of the receiver expects to receive frame 0 (0 is
+part of the window), so it accepts frame 0, not as a duplicate, but as the first frame in
+the next cycle. This is clearly an error.
+
+In Selective Repeat ARQ, the size of the sender and receiver window
+must be at most one-half of 2”-
+--- page 6 ---
+Figure 11.21 Selective Repeat ARO, window size
+
+Sender Receiver Sender Receiver
+
+Sy [ Si
+
+2]3] Ware R
+Time-out PO .
+O} 14253
+0} 1|2]3]0) Aran, R,
+Y Y Correctly Time-out peo
+discarded 01112131011
+
+Y Y |Erroneously
+accepted
+
+11724310} 1
+
+a. Window size =2™. | b. Window size> 2™41
+--- page 7 ---
+Figure 26.16 SMTP range
+
+| SMTP SMTP
+Sender i a Receiver
+== = =)
+sx ¢
+* ¢
+*, ”
+LAN or WAN *, »” LANorWAN
+
+s ¢
+
+s ¢
+s
+s _
+Mail server C internet > Mail server |
+--- page 8 ---
+Sense
+
+and transmit
+Continuously sense
+Time
+Busy
+a. 1-persistent
+Sense
+and transmit
+Sense Sense
+| Wait | Wait
+Time
+Busy
+b. Nonpersistent
+Probability outcome
+does not allow transmission. Transmit
+
+' ‘ '
+P
+Continuously sense | senesiot | Timestot | Time slot |
+
+ly VT,
+
+Busy
+
+C. p-persistent
+--- page 9 ---
+Back Back
+
+Pressure Back Pressure Pressure '.
+7
+q ‘ 1 ‘ 2 ‘ 3 4 ~
+emacs i Mparcerlgages.Con Destination
+—_—
+Upstream Dataflow Downstream
+
+Backpressure Method
+--- page 10 ---
+Iteration Selected Dist A Dist B Dist C Dist D Dist E Dist F Dist G
+
+Init _ 0) oo cs) 0 oo oo ro)
+1 A(0) 0 4 2 oo oo oo co)
+2 C (2) 0 4 2 5 6 oo co)
+3 B (4) 0 4 2 5 6 00 co)
+4 D (5) 0 4 2 5 6 7 oo
+5 E (6) 0 4 2 5 6 7 oo
+6 F (7) 0 4 2 5 6 7 12
+
+7 G (12) 0) 4 2 5 6 7 12
+--- page 11 ---
+One token added
+
+per tick
+—-
+
+—_
+
+One token removed
+and discarded
+per cell transmitted
+
+| N L_]
+Arrival | Processor Departure
+
+Queue
+
+Discard
 ````
 
 ## 2025-26 · Final-Exam · Sem 6 · Answer key · paper 709415b53d00
@@ -4873,6 +5399,46 @@ Ans. CSMA explanation 1 marks
 p-persistent CSMA with advantages and disadvantages 3 marks
 non-persistent CSMA with advantages and disadvantages 3 marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Tokens added at the rate of r per second;
+tokens are discarded if bucket is full.
+>
+
+Bucket capaci)
+isc tokens. =>
+I
+| One token is removed
+| and discarded
+
+H per cell transmitted.
+
+Sense
+and transmit
+
+Continuously sense
+
+Time
+Busy
+a. 1-persistent
+Sense
+and transmit
+Sense Sense
+Wait Wait
+— ps Time
+Busy
+b. Nonpersistent
+Probability outcome
+does not allow transmission. Transmit
+Continuously sense 7 . 7
+! Time slot 1! Timeslot ! Time slot
+1 1 1
+Y Y
+Time
+
+Busy
+
+c. p-persistent
 --- page 5 ---
 b.   Elaborate on the concept of 3-way handshaking in the TCP protocol and
 CO-4;
@@ -4896,6 +5462,30 @@ transmitting data in both directions.
 The FIN segment consumes one sequence number if it does
 not carry data.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+~<
+
+Y Y
+Wait
+? ?
+Channel? Busy < channel? >— randomly
+Idle
+Station can transmit. Station can transmit.
+a. 1-persistent b. Nonpersistent
+A
+Busy
+Idle
+Idle -
+fi
+Channel? Wait a 2P_/Probability
+slot outcome?
+Busy <p
+Use back-off process Station can transmit.
+
+as though collision occurred.
+
+C. p-persistent
 --- page 6 ---
 The FIN + ACK segment consumes one sequence number if it
 does not carry data.
@@ -5149,6 +5739,27 @@ iii.   Show retransmission of frame 2
 iv.   After acknowledgement of frames 2, frame 4 and frame 5 sent
 and received with acknowledgement
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+IPv4 Header IPv6 Header
+
+Type of
+Version | IHL Total Length
+a Version | Traffic Class
+Fragment
+Indentification Flags Offset
+Next
+Time to Live | Protocol Header Checksum Payload Length easier? Limit
+Source Address
+Destination Address
+Con Padding Source Address
+([) - Field names kept from IPv4 to IPv6
+Tt
+c £C)- Fields not kept in IPv6
+2 Name & position changed in IPv6
+so pos s Destination Address
+
+“wa: New field in IPv6
 --- page 13 ---
 v.   Show the timeout for frame 6.
 Ans.   Selective Repeat explanation 4 marks
@@ -5176,6 +5787,26 @@ File Transfer Protocol (FTP)
 Transferring files from one computer to another is one of the most
 common tasks expected from a networking or internetworking
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Sender Receiver
+
+Initial Initial
+
+Request
+" ODE ET]STE aviv
+Frame O
+Arrival delivered
+Request
+Request
+q Arrival
+Request
+Arrival
+Arrival
+Arrival Arrival
+
+Frames 1, 2,3
+delivered
 --- page 14 ---
 environment. As a matter of fact, the greatest volume of data exchange
 in the Internet today is due to file transfer.
@@ -5375,6 +6006,7 @@ intermediate node receives all the parts of the message.
 - Source: `02_Question_Papers/2025/Sem_07/Final-Exam/Integrated_IT_7037/Computer Networks/ANS_Computer Networks(702AI0C007)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Dec 2025
 - Text: mixed (24 pages), mean OCR confidence 28.4
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 - **Low OCR quality**: most likely handwritten or a poor scan, so the text below is only partly readable. Restore the original file to read it.
 
 ````text
@@ -5852,6 +6484,18 @@ m   acknowledgment of data.   using checksums.
 Acknowle An acknowledgment segment is No   acknowledgment
 dgment   present.   segment.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Daytime Daytime
+client server
+
+Outgoing v % Incoming Outgoing v x Incomir
+
+queue queue queue queue
+
++ ft yf
+
+UDP Port 52000 UDP Port 13
 --- page 13 ---
 There is no sequencing
 Sequencing of data is a feature of
@@ -5929,6 +6573,24 @@ Diagram: 2 marks
 Phases: 6 marks
 Soln   •One of the most popular Internet services is electronic mail (e-mail).
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Window Sizes
+We can now show why the size of the sender and receiver windows must be at most one-
+half of 2”. For an example, we choose m = 2, which means the size of the window is 2”/2,
+or 2. Figure 11.21 compares a window size of 2 with a window size of 3.
+
+If the size of the window 1s 2 and all acknowledgments are lost, the timer for frame 0
+expires and frame 0 is resent. However, the window of the receiver is now expecting
+
+frame 2, not frame 0, so this duplicate frame is correctly discarded. When the size of
+the window is 3 and all acknowledgments are lost, the sender sends a duplicate of
+frame 0. However, this time, the window of the receiver expects to receive frame 0 (0 is
+part of the window), so it accepts frame 0, not as a duplicate, but as the first frame in
+the next cycle. This is clearly an error.
+
+In Selective Repeat ARQ, the size of the sender and receiver window
+must be at most one-halfof 2”.
 --- page 16 ---
 •E-mail allow users to exchange messages. It is considered as a one-way
 transaction.
@@ -6050,6 +6712,30 @@ transmission.
 Open Loop Policies (any 2)   -----   2 *2 = 4M
 Soln
 ********** 19 **********
+
+[Text in pictures on this page, read by OCR]
+Sense
+and transmit
+
+Continuously sense
+
+Time
+Busy
+
+a. V-persistent
+
+Sense
+and transmit
+
+Busy
+6 Nonpersistent
+Probability outcome
+does not allow transmission. Transmit
+Continuously sense H ‘
+Time
+Busy
+
+ppersistent
 --- page 20 ---
 Retransmission Policy
 • The sender retransmits a packet, if it feels that the packet it has sent is lost or
@@ -6110,6 +6796,17 @@ as in backpressure method.
 station i.e. the intermediate nodes through which the packet has travelled are not
 warned.
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+Back Back
+
+Pressure Back Pressure Pressure .
+a
+y —|;i UF 2 [pt 3 4 ~
+—
+Upstream Dataflow Downstream
+
+Backpressure Method
 --- page 22 ---
 CO3,   Consider a network topology consisting of nodes A, B, C, D, E, F, and G.
 BL3,   The directed edges between these nodes and their corresponding positive
@@ -6173,6 +6870,25 @@ traffic. So, critical or high-priority packets can be delayed just like
 any others, making it unsuitable for quality of service (QoS)
 Soln   differentiation without additional mechanisms.
 ********** 23 **********
+
+[Text in pictures on this page, read by OCR]
+One token added
+
+per tick
+a)
+
+—_
+
+1 One token removed
+! and discarded
+per cell transmitted
+
+|
+. N |
+Arrival Processor Departure
+Queue
+Y
+Discard
 --- page 24 ---
 FRR IRD AC HOH
 ````
@@ -6562,6 +7278,21 @@ SO-1
 Q4 a   Construct the IPv6 packet format and explain the purpose of each field
 Soln
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Domain Naming Hierarchy
+
+Root
+Top Level
+com edu | org | other Domain (TLD)
+Regional
+computerhope mit craigslist see
+Local
+support saltlakecity Subdomain
+
+\ Network
+
+support.computerhope.com mit.edu saltlakecity.craigslist.org Result
 --- page 12 ---
 Each packet is composed of a base header followed by the payload. The base header
 occupies 40 bytes, whereas payload can be up to 65,535 bytes of information.
@@ -6600,6 +7331,22 @@ missing segments arrive; IP is unaware of this reordering. In TCP, connection-or
 transmission requires three phases: connection establishment, data transfer, and
 Soln   connection termination.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+1 40bytes | Up to 65,535 bytes '
+t T 1
+
+a. IPv6 packet
+0 a 12 16 24 31
+Version | Traffic class | Flow label
+Payload length | Next header | Hop limit
+cr Source address
+C (128 bits = 16 bytes)
+c Destination address
+
+C (128 bits = 16 bytes)
+
+b. Base header
 --- page 13 ---
 Connection Establishment:
 
@@ -6671,6 +7418,27 @@ SO-1   and examples how the sender and receiver windows move in the following th
 a. Normal transmission (no error)
 Q5 a   b. Lost data frame
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+can be just a control segment as shown in Figure 23.20. If it is only a control seg-
+ment, it consumes only one sequence number.
+
+The FIN segment consumes one sequence number ifit does not carry data.
+
+The server TCP, after receiving the FIN segment, informs its process of the situa-
+tion and sends the second segment, a FIN + ACK segment, to confirm the receipt
+ofthe FIN segment from the client and at the same time to announce the closing of
+the connection in the other direction. This segment can also contain the last chunk
+of data from the server. If it does not carry data, it consumes only one sequence
+number.
+
+The FIN + ACK segment consumes one sequence
+number ifit does not carry data.
+
+The client TCP sends the last segment, an ACK segment, to confirm the receipt of
+the FIN segment from the TCP server. This segment contains the acknowledgment
+number, which is 1 plus the sequence number received in the FIN segment from
+the server. This segment cannot carry data and consumes no sequence number:
 --- page 16 ---
 c. Lost acknowledgment (ACK)
 Analyze how retransmission and window shifting occur in each case to ensure reliable
@@ -6749,6 +7517,44 @@ in the current window will be retransmitted. Suppose we have sent the frame no 5
 we didn't receive the acknowledgment of frame no 1, and the current window is holding
 three frames, then these three frames will be retransmitted.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+acknowledged, so the window has slide to the right three slots, Note that the
+value of Sf is 3 because frame 3 is now the first outstanding frame.The senc¢
+window can slide one or more slots when a valid acknowledgment
+arrives,
+
+Receiver window: variable Rn (receive window, next frame expected) .
+
+The sequence numbers to the left of the window belong to the frames already
+received and acknowledged; the sequence numbers to the right of this window
+define the frames that cannot be received. Any received frame with ¢g
+sequence number in these two regions is discarded, Only a frame with 4
+sequence number matching the value of Rn is accepted and acknowledged
+The receive window also slides, but only one slot at a time, When a correc
+frame is received (and a frame is received only one at a time), the window
+slides,( see below figure for receiving window)
+
+The receive window is an abstract concept defining an imaginary box of size 1
+with one single variable Rn, The window slides when a correct frame has
+arrived; sliding occurs one slot at a time
+
+Ay Receive window, next frame expected
+
+Frames already received | Frames that cannot be received
+
+and acknowled ged until the window slides
+
+a. Receve window
+
+fb, Winciow aftgr slictina
+Fig: Receiver window (before sliding (a), After sliding (b))
+
+Timers
+
+Although there can be a timer for each frame that is sent, in our protocol we
+use only one, The reason is that the timer for the first outstanding frame
+always expires first; we send all outstanding frames when this timer expires,
 --- page 19 ---
 Lost Acknowledgement: For example, if the acknowledgement (ACK) for frame 2 is
 lost in transit due to an error, the sender’s behavior depends on the timer status. If the
@@ -6820,6 +7626,24 @@ BL-1   How is transmission media classified ? List advantages and disadvantages 
 SO-1   Q6 a   optical fiber.
 Soln
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 26.22 Using the control connection
+
+Local Local
+code code
+
+NVT ASCII
+
+Control
+connection
+
+Control
+process
+
+process
+
+Client Server
 --- page 22 ---
 Optical Fiber
 Data or information is transmitted as light pulses.Carries more data for longer distances
@@ -6846,6 +7670,20 @@ Q6 b   c. 250 frames per second
 The frame transmission time is 200/200 kbps or 1 ms. – 1M,
 Soln   S = G× e−2 G   : formula of throughput 1 M
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+Transmission
+
+media
+|
+[ |
+Guided Unguided
+(wired) (wireless)
+I l
+Twisted-pair Coaxial Fiber-optic
+
+Free space
+cable cable cable P
 --- page 23 ---
 a. If the system creates 1000 frames per second, this is 1 frame per millisecond. The
 load is 1. In this case
@@ -6909,6 +7747,29 @@ G)= =5+ (−2)+(−2)+(−2)+5=4
 (ii)   Computing Shortest Distance - 2 marks
 Soln   (iii)   Intermediate Steps - 3marks
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+Feature UDP TCP SCTP
+
+Type Connectionless Connection-oriented Connection-oriented
+(association)
+
+Reliability No Yes Yes
+
+Data orientation Message-based Byte-stream Message-based
+
+Ordering No guarantee In-order delivery In-order per stream
+Flow/Congestion Ctrl. No Yes Yes
+
+Multi-streaming No No Yes
+
+Multi-homing No No Yes
+
+Overhead Low Moderate Higher than TCP
+
+Typical Applications Streaming, DNS, gaming Web, file transfer, email Telecom, WebRTC, signaling, 5G
+
+networks
 --- page 25 ---
 (iv)   Original network topology (original diagram) - 1mark
 final shortest path diagram with the corresponding distance values clearly
@@ -6939,6 +7800,33 @@ applications (like TCP/IP traffic), data often arrives in short, rapid bursts. T
 Token Bucket can handle these bursts as long as there are sufficient tokens,
 Soln   utilizing the available network capacity efficiently.
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+Faucet aa
+Host
+
+computer
+
+é
+
+[= Packet
+O
+
+oOo, flow
+oO
+paper ag | O The bucket
+Interface holds
+containing —»~ packets
+a leaky bucket
+Oo “ Regulated
+flow
+
+Water drips out of the ry oO
+hole at a constant rate >
+
+Network
+
+(a) (b)
 --- page 26 ---
 2. Higher Throughput Efficiency: By allowing short bursts, it can better utilize
 the available bandwidth without needing to queue or drop packets immediately,
@@ -7333,6 +8221,21 @@ SO-1
 Q4 a   Construct the IPv6 packet format and explain the purpose of each field
 Soln
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Domain Naming Hierarchy
+
+Root
+Top Level
+com edu | org | other Domain (TLD)
+Regional
+computerhope mit craigslist see
+Local
+support saltlakecity Subdomain
+
+\ Network
+
+support.computerhope.com mit.edu saltlakecity.craigslist.org Result
 --- page 12 ---
 Each packet is composed of a base header followed by the payload. The base header
 occupies 40 bytes, whereas payload can be up to 65,535 bytes of information.
@@ -7371,6 +8274,22 @@ missing segments arrive; IP is unaware of this reordering. In TCP, connection-or
 transmission requires three phases: connection establishment, data transfer, and
 Soln   connection termination.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+1 40bytes | Up to 65,535 bytes '
+t T 1
+
+a. IPv6 packet
+0 a 12 16 24 31
+Version | Traffic class | Flow label
+Payload length | Next header | Hop limit
+cr Source address
+C (128 bits = 16 bytes)
+c Destination address
+
+C (128 bits = 16 bytes)
+
+b. Base header
 --- page 13 ---
 Connection Establishment:
 
@@ -7442,6 +8361,27 @@ SO-1   and examples how the sender and receiver windows move in the following th
 a. Normal transmission (no error)
 Q5 a   b. Lost data frame
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+can be just a control segment as shown in Figure 23.20. If it is only a control seg-
+ment, it consumes only one sequence number.
+
+The FIN segment consumes one sequence number ifit does not carry data.
+
+The server TCP, after receiving the FIN segment, informs its process of the situa-
+tion and sends the second segment, a FIN + ACK segment, to confirm the receipt
+ofthe FIN segment from the client and at the same time to announce the closing of
+the connection in the other direction. This segment can also contain the last chunk
+of data from the server. If it does not carry data, it consumes only one sequence
+number.
+
+The FIN + ACK segment consumes one sequence
+number ifit does not carry data.
+
+The client TCP sends the last segment, an ACK segment, to confirm the receipt of
+the FIN segment from the TCP server. This segment contains the acknowledgment
+number, which is 1 plus the sequence number received in the FIN segment from
+the server. This segment cannot carry data and consumes no sequence number:
 --- page 16 ---
 c. Lost acknowledgment (ACK)
 Analyze how retransmission and window shifting occur in each case to ensure reliable
@@ -7520,6 +8460,44 @@ in the current window will be retransmitted. Suppose we have sent the frame no 5
 we didn't receive the acknowledgment of frame no 1, and the current window is holding
 three frames, then these three frames will be retransmitted.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+acknowledged, so the window has slide to the right three slots, Note that the
+value of Sf is 3 because frame 3 is now the first outstanding frame.The senc¢
+window can slide one or more slots when a valid acknowledgment
+arrives,
+
+Receiver window: variable Rn (receive window, next frame expected) .
+
+The sequence numbers to the left of the window belong to the frames already
+received and acknowledged; the sequence numbers to the right of this window
+define the frames that cannot be received. Any received frame with ¢g
+sequence number in these two regions is discarded, Only a frame with 4
+sequence number matching the value of Rn is accepted and acknowledged
+The receive window also slides, but only one slot at a time, When a correc
+frame is received (and a frame is received only one at a time), the window
+slides,( see below figure for receiving window)
+
+The receive window is an abstract concept defining an imaginary box of size 1
+with one single variable Rn, The window slides when a correct frame has
+arrived; sliding occurs one slot at a time
+
+Ay Receive window, next frame expected
+
+Frames already received | Frames that cannot be received
+
+and acknowled ged until the window slides
+
+a. Receve window
+
+fb, Winciow aftgr slictina
+Fig: Receiver window (before sliding (a), After sliding (b))
+
+Timers
+
+Although there can be a timer for each frame that is sent, in our protocol we
+use only one, The reason is that the timer for the first outstanding frame
+always expires first; we send all outstanding frames when this timer expires,
 --- page 19 ---
 Lost Acknowledgement: For example, if the acknowledgement (ACK) for frame 2 is
 lost in transit due to an error, the sender’s behavior depends on the timer status. If the
@@ -7591,6 +8569,24 @@ BL-1   How is transmission media classified ? List advantages and disadvantages 
 SO-1   Q6 a   optical fiber.
 Soln
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 26.22 Using the control connection
+
+Local Local
+code code
+
+NVT ASCII
+
+Control
+connection
+
+Control
+process
+
+process
+
+Client Server
 --- page 22 ---
 Optical Fiber
 Data or information is transmitted as light pulses.Carries more data for longer distances
@@ -7617,6 +8613,20 @@ Q6 b   c. 250 frames per second
 The frame transmission time is 200/200 kbps or 1 ms. – 1M,
 Soln   S = G× e−2 G   : formula of throughput 1 M
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+Transmission
+
+media
+|
+[ |
+Guided Unguided
+(wired) (wireless)
+I l
+Twisted-pair Coaxial Fiber-optic
+
+Free space
+cable cable cable P
 --- page 23 ---
 a. If the system creates 1000 frames per second, this is 1 frame per millisecond. The
 load is 1. In this case
@@ -7680,6 +8690,29 @@ G)= =5+ (−2)+(−2)+(−2)+5=4
 (ii)   Computing Shortest Distance - 2 marks
 Soln   (iii)   Intermediate Steps - 3marks
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+Feature UDP TCP SCTP
+
+Type Connectionless Connection-oriented Connection-oriented
+(association)
+
+Reliability No Yes Yes
+
+Data orientation Message-based Byte-stream Message-based
+
+Ordering No guarantee In-order delivery In-order per stream
+Flow/Congestion Ctrl. No Yes Yes
+
+Multi-streaming No No Yes
+
+Multi-homing No No Yes
+
+Overhead Low Moderate Higher than TCP
+
+Typical Applications Streaming, DNS, gaming Web, file transfer, email Telecom, WebRTC, signaling, 5G
+
+networks
 --- page 25 ---
 (iv)   Original network topology (original diagram) - 1mark
 final shortest path diagram with the corresponding distance values clearly
@@ -7710,6 +8743,33 @@ applications (like TCP/IP traffic), data often arrives in short, rapid bursts. T
 Token Bucket can handle these bursts as long as there are sufficient tokens,
 Soln   utilizing the available network capacity efficiently.
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+Faucet aa
+Host
+
+computer
+
+é
+
+[= Packet
+O
+
+oOo, flow
+oO
+paper ag | O The bucket
+Interface holds
+containing —»~ packets
+a leaky bucket
+Oo “ Regulated
+flow
+
+Water drips out of the ry oO
+hole at a constant rate >
+
+Network
+
+(a) (b)
 --- page 26 ---
 2. Higher Throughput Efficiency: By allowing short bursts, it can better utilize
 the available bandwidth without needing to queue or drop packets immediately,
@@ -8104,6 +9164,21 @@ SO-1
 Q4 a   Construct the IPv6 packet format and explain the purpose of each field
 Soln
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Domain Naming Hierarchy
+
+Root
+Top Level
+com edu | org | other Domain (TLD)
+Regional
+computerhope mit craigslist see
+Local
+support saltlakecity Subdomain
+
+\ Network
+
+support.computerhope.com mit.edu saltlakecity.craigslist.org Result
 --- page 12 ---
 Each packet is composed of a base header followed by the payload. The base header
 occupies 40 bytes, whereas payload can be up to 65,535 bytes of information.
@@ -8142,6 +9217,22 @@ missing segments arrive; IP is unaware of this reordering. In TCP, connection-or
 transmission requires three phases: connection establishment, data transfer, and
 Soln   connection termination.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+1 40bytes | Up to 65,535 bytes '
+t T 1
+
+a. IPv6 packet
+0 a 12 16 24 31
+Version | Traffic class | Flow label
+Payload length | Next header | Hop limit
+cr Source address
+C (128 bits = 16 bytes)
+c Destination address
+
+C (128 bits = 16 bytes)
+
+b. Base header
 --- page 13 ---
 Connection Establishment:
 
@@ -8213,6 +9304,27 @@ SO-1   and examples how the sender and receiver windows move in the following th
 a. Normal transmission (no error)
 Q5 a   b. Lost data frame
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+can be just a control segment as shown in Figure 23.20. If it is only a control seg-
+ment, it consumes only one sequence number.
+
+The FIN segment consumes one sequence number ifit does not carry data.
+
+The server TCP, after receiving the FIN segment, informs its process of the situa-
+tion and sends the second segment, a FIN + ACK segment, to confirm the receipt
+ofthe FIN segment from the client and at the same time to announce the closing of
+the connection in the other direction. This segment can also contain the last chunk
+of data from the server. If it does not carry data, it consumes only one sequence
+number.
+
+The FIN + ACK segment consumes one sequence
+number ifit does not carry data.
+
+The client TCP sends the last segment, an ACK segment, to confirm the receipt of
+the FIN segment from the TCP server. This segment contains the acknowledgment
+number, which is 1 plus the sequence number received in the FIN segment from
+the server. This segment cannot carry data and consumes no sequence number:
 --- page 16 ---
 c. Lost acknowledgment (ACK)
 Analyze how retransmission and window shifting occur in each case to ensure reliable
@@ -8291,6 +9403,44 @@ in the current window will be retransmitted. Suppose we have sent the frame no 5
 we didn't receive the acknowledgment of frame no 1, and the current window is holding
 three frames, then these three frames will be retransmitted.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+acknowledged, so the window has slide to the right three slots, Note that the
+value of Sf is 3 because frame 3 is now the first outstanding frame.The senc¢
+window can slide one or more slots when a valid acknowledgment
+arrives,
+
+Receiver window: variable Rn (receive window, next frame expected) .
+
+The sequence numbers to the left of the window belong to the frames already
+received and acknowledged; the sequence numbers to the right of this window
+define the frames that cannot be received. Any received frame with ¢g
+sequence number in these two regions is discarded, Only a frame with 4
+sequence number matching the value of Rn is accepted and acknowledged
+The receive window also slides, but only one slot at a time, When a correc
+frame is received (and a frame is received only one at a time), the window
+slides,( see below figure for receiving window)
+
+The receive window is an abstract concept defining an imaginary box of size 1
+with one single variable Rn, The window slides when a correct frame has
+arrived; sliding occurs one slot at a time
+
+Ay Receive window, next frame expected
+
+Frames already received | Frames that cannot be received
+
+and acknowled ged until the window slides
+
+a. Receve window
+
+fb, Winciow aftgr slictina
+Fig: Receiver window (before sliding (a), After sliding (b))
+
+Timers
+
+Although there can be a timer for each frame that is sent, in our protocol we
+use only one, The reason is that the timer for the first outstanding frame
+always expires first; we send all outstanding frames when this timer expires,
 --- page 19 ---
 Lost Acknowledgement: For example, if the acknowledgement (ACK) for frame 2 is
 lost in transit due to an error, the sender’s behavior depends on the timer status. If the
@@ -8362,6 +9512,24 @@ BL-1   How is transmission media classified ? List advantages and disadvantages 
 SO-1   Q6 a   optical fiber.
 Soln
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 26.22 Using the control connection
+
+Local Local
+code code
+
+NVT ASCII
+
+Control
+connection
+
+Control
+process
+
+process
+
+Client Server
 --- page 22 ---
 Optical Fiber
 Data or information is transmitted as light pulses.Carries more data for longer distances
@@ -8388,6 +9556,20 @@ Q6 b   c. 250 frames per second
 The frame transmission time is 200/200 kbps or 1 ms. – 1M,
 Soln   S = G× e−2 G   : formula of throughput 1 M
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+Transmission
+
+media
+|
+[ |
+Guided Unguided
+(wired) (wireless)
+I l
+Twisted-pair Coaxial Fiber-optic
+
+Free space
+cable cable cable P
 --- page 23 ---
 a. If the system creates 1000 frames per second, this is 1 frame per millisecond. The
 load is 1. In this case
@@ -8451,6 +9633,29 @@ G)= =5+ (−2)+(−2)+(−2)+5=4
 (ii)   Computing Shortest Distance - 2 marks
 Soln   (iii)   Intermediate Steps - 3marks
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+Feature UDP TCP SCTP
+
+Type Connectionless Connection-oriented Connection-oriented
+(association)
+
+Reliability No Yes Yes
+
+Data orientation Message-based Byte-stream Message-based
+
+Ordering No guarantee In-order delivery In-order per stream
+Flow/Congestion Ctrl. No Yes Yes
+
+Multi-streaming No No Yes
+
+Multi-homing No No Yes
+
+Overhead Low Moderate Higher than TCP
+
+Typical Applications Streaming, DNS, gaming Web, file transfer, email Telecom, WebRTC, signaling, 5G
+
+networks
 --- page 25 ---
 (iv)   Original network topology (original diagram) - 1mark
 final shortest path diagram with the corresponding distance values clearly
@@ -8481,6 +9686,33 @@ applications (like TCP/IP traffic), data often arrives in short, rapid bursts. T
 Token Bucket can handle these bursts as long as there are sufficient tokens,
 Soln   utilizing the available network capacity efficiently.
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+Faucet aa
+Host
+
+computer
+
+é
+
+[= Packet
+O
+
+oOo, flow
+oO
+paper ag | O The bucket
+Interface holds
+containing —»~ packets
+a leaky bucket
+Oo “ Regulated
+flow
+
+Water drips out of the ry oO
+hole at a constant rate >
+
+Network
+
+(a) (b)
 --- page 26 ---
 2. Higher Throughput Efficiency: By allowing short bursts, it can better utilize
 the available bandwidth without needing to queue or drop packets immediately,
@@ -8873,6 +10105,21 @@ SO-1
 Q4 a   Construct the IPv6 packet format and explain the purpose of each field
 Soln
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Domain Naming Hierarchy
+
+Root
+Top Level
+com edu | org | other Domain (TLD)
+Regional
+computerhope mit craigslist see
+Local
+support saltlakecity Subdomain
+
+\ Network
+
+support.computerhope.com mit.edu saltlakecity.craigslist.org Result
 --- page 12 ---
 Each packet is composed of a base header followed by the payload. The base header
 occupies 40 bytes, whereas payload can be up to 65,535 bytes of information.
@@ -8911,6 +10158,22 @@ missing segments arrive; IP is unaware of this reordering. In TCP, connection-or
 transmission requires three phases: connection establishment, data transfer, and
 Soln   connection termination.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+1 40bytes | Up to 65,535 bytes '
+t T 1
+
+a. IPv6 packet
+0 a 12 16 24 31
+Version | Traffic class | Flow label
+Payload length | Next header | Hop limit
+cr Source address
+C (128 bits = 16 bytes)
+c Destination address
+
+C (128 bits = 16 bytes)
+
+b. Base header
 --- page 13 ---
 Connection Establishment:
 
@@ -8982,6 +10245,27 @@ SO-1   and examples how the sender and receiver windows move in the following th
 a. Normal transmission (no error)
 Q5 a   b. Lost data frame
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+can be just a control segment as shown in Figure 23.20. If it is only a control seg-
+ment, it consumes only one sequence number.
+
+The FIN segment consumes one sequence number ifit does not carry data.
+
+The server TCP, after receiving the FIN segment, informs its process of the situa-
+tion and sends the second segment, a FIN + ACK segment, to confirm the receipt
+ofthe FIN segment from the client and at the same time to announce the closing of
+the connection in the other direction. This segment can also contain the last chunk
+of data from the server. If it does not carry data, it consumes only one sequence
+number.
+
+The FIN + ACK segment consumes one sequence
+number ifit does not carry data.
+
+The client TCP sends the last segment, an ACK segment, to confirm the receipt of
+the FIN segment from the TCP server. This segment contains the acknowledgment
+number, which is 1 plus the sequence number received in the FIN segment from
+the server. This segment cannot carry data and consumes no sequence number:
 --- page 16 ---
 c. Lost acknowledgment (ACK)
 Analyze how retransmission and window shifting occur in each case to ensure reliable
@@ -9060,6 +10344,44 @@ in the current window will be retransmitted. Suppose we have sent the frame no 5
 we didn't receive the acknowledgment of frame no 1, and the current window is holding
 three frames, then these three frames will be retransmitted.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+acknowledged, so the window has slide to the right three slots, Note that the
+value of Sf is 3 because frame 3 is now the first outstanding frame.The senc¢
+window can slide one or more slots when a valid acknowledgment
+arrives,
+
+Receiver window: variable Rn (receive window, next frame expected) .
+
+The sequence numbers to the left of the window belong to the frames already
+received and acknowledged; the sequence numbers to the right of this window
+define the frames that cannot be received. Any received frame with ¢g
+sequence number in these two regions is discarded, Only a frame with 4
+sequence number matching the value of Rn is accepted and acknowledged
+The receive window also slides, but only one slot at a time, When a correc
+frame is received (and a frame is received only one at a time), the window
+slides,( see below figure for receiving window)
+
+The receive window is an abstract concept defining an imaginary box of size 1
+with one single variable Rn, The window slides when a correct frame has
+arrived; sliding occurs one slot at a time
+
+Ay Receive window, next frame expected
+
+Frames already received | Frames that cannot be received
+
+and acknowled ged until the window slides
+
+a. Receve window
+
+fb, Winciow aftgr slictina
+Fig: Receiver window (before sliding (a), After sliding (b))
+
+Timers
+
+Although there can be a timer for each frame that is sent, in our protocol we
+use only one, The reason is that the timer for the first outstanding frame
+always expires first; we send all outstanding frames when this timer expires,
 --- page 19 ---
 Lost Acknowledgement: For example, if the acknowledgement (ACK) for frame 2 is
 lost in transit due to an error, the sender’s behavior depends on the timer status. If the
@@ -9131,6 +10453,24 @@ BL-1   How is transmission media classified ? List advantages and disadvantages 
 SO-1   Q6 a   optical fiber.
 Soln
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 26.22 Using the control connection
+
+Local Local
+code code
+
+NVT ASCII
+
+Control
+connection
+
+Control
+process
+
+process
+
+Client Server
 --- page 22 ---
 Optical Fiber
 Data or information is transmitted as light pulses.Carries more data for longer distances
@@ -9157,6 +10497,20 @@ Q6 b   c. 250 frames per second
 The frame transmission time is 200/200 kbps or 1 ms. – 1M,
 Soln   S = G× e−2 G   : formula of throughput 1 M
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+Transmission
+
+media
+|
+[ |
+Guided Unguided
+(wired) (wireless)
+I l
+Twisted-pair Coaxial Fiber-optic
+
+Free space
+cable cable cable P
 --- page 23 ---
 a. If the system creates 1000 frames per second, this is 1 frame per millisecond. The
 load is 1. In this case
@@ -9220,6 +10574,29 @@ G)= =5+ (−2)+(−2)+(−2)+5=4
 (ii)   Computing Shortest Distance - 2 marks
 Soln   (iii)   Intermediate Steps - 3marks
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+Feature UDP TCP SCTP
+
+Type Connectionless Connection-oriented Connection-oriented
+(association)
+
+Reliability No Yes Yes
+
+Data orientation Message-based Byte-stream Message-based
+
+Ordering No guarantee In-order delivery In-order per stream
+Flow/Congestion Ctrl. No Yes Yes
+
+Multi-streaming No No Yes
+
+Multi-homing No No Yes
+
+Overhead Low Moderate Higher than TCP
+
+Typical Applications Streaming, DNS, gaming Web, file transfer, email Telecom, WebRTC, signaling, 5G
+
+networks
 --- page 25 ---
 (iv)   Original network topology (original diagram) - 1mark
 final shortest path diagram with the corresponding distance values clearly
@@ -9250,6 +10627,33 @@ applications (like TCP/IP traffic), data often arrives in short, rapid bursts. T
 Token Bucket can handle these bursts as long as there are sufficient tokens,
 Soln   utilizing the available network capacity efficiently.
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+Faucet aa
+Host
+
+computer
+
+é
+
+[= Packet
+O
+
+oOo, flow
+oO
+paper ag | O The bucket
+Interface holds
+containing —»~ packets
+a leaky bucket
+Oo “ Regulated
+flow
+
+Water drips out of the ry oO
+hole at a constant rate >
+
+Network
+
+(a) (b)
 --- page 26 ---
 2. Higher Throughput Efficiency: By allowing short bursts, it can better utilize
 the available bandwidth without needing to queue or drop packets immediately,
@@ -9644,6 +11048,21 @@ SO-1
 Q4 a   Construct the IPv6 packet format and explain the purpose of each field
 Soln
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Domain Naming Hierarchy
+
+Root
+Top Level
+com edu | org | other Domain (TLD)
+Regional
+computerhope mit craigslist see
+Local
+support saltlakecity Subdomain
+
+\ Network
+
+support.computerhope.com mit.edu saltlakecity.craigslist.org Result
 --- page 12 ---
 Each packet is composed of a base header followed by the payload. The base header
 occupies 40 bytes, whereas payload can be up to 65,535 bytes of information.
@@ -9682,6 +11101,22 @@ missing segments arrive; IP is unaware of this reordering. In TCP, connection-or
 transmission requires three phases: connection establishment, data transfer, and
 Soln   connection termination.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+1 40bytes | Up to 65,535 bytes '
+t T 1
+
+a. IPv6 packet
+0 a 12 16 24 31
+Version | Traffic class | Flow label
+Payload length | Next header | Hop limit
+cr Source address
+C (128 bits = 16 bytes)
+c Destination address
+
+C (128 bits = 16 bytes)
+
+b. Base header
 --- page 13 ---
 Connection Establishment:
 
@@ -9753,6 +11188,27 @@ SO-1   and examples how the sender and receiver windows move in the following th
 a. Normal transmission (no error)
 Q5 a   b. Lost data frame
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+can be just a control segment as shown in Figure 23.20. If it is only a control seg-
+ment, it consumes only one sequence number.
+
+The FIN segment consumes one sequence number ifit does not carry data.
+
+The server TCP, after receiving the FIN segment, informs its process of the situa-
+tion and sends the second segment, a FIN + ACK segment, to confirm the receipt
+ofthe FIN segment from the client and at the same time to announce the closing of
+the connection in the other direction. This segment can also contain the last chunk
+of data from the server. If it does not carry data, it consumes only one sequence
+number.
+
+The FIN + ACK segment consumes one sequence
+number ifit does not carry data.
+
+The client TCP sends the last segment, an ACK segment, to confirm the receipt of
+the FIN segment from the TCP server. This segment contains the acknowledgment
+number, which is 1 plus the sequence number received in the FIN segment from
+the server. This segment cannot carry data and consumes no sequence number:
 --- page 16 ---
 c. Lost acknowledgment (ACK)
 Analyze how retransmission and window shifting occur in each case to ensure reliable
@@ -9831,6 +11287,44 @@ in the current window will be retransmitted. Suppose we have sent the frame no 5
 we didn't receive the acknowledgment of frame no 1, and the current window is holding
 three frames, then these three frames will be retransmitted.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+acknowledged, so the window has slide to the right three slots, Note that the
+value of Sf is 3 because frame 3 is now the first outstanding frame.The senc¢
+window can slide one or more slots when a valid acknowledgment
+arrives,
+
+Receiver window: variable Rn (receive window, next frame expected) .
+
+The sequence numbers to the left of the window belong to the frames already
+received and acknowledged; the sequence numbers to the right of this window
+define the frames that cannot be received. Any received frame with ¢g
+sequence number in these two regions is discarded, Only a frame with 4
+sequence number matching the value of Rn is accepted and acknowledged
+The receive window also slides, but only one slot at a time, When a correc
+frame is received (and a frame is received only one at a time), the window
+slides,( see below figure for receiving window)
+
+The receive window is an abstract concept defining an imaginary box of size 1
+with one single variable Rn, The window slides when a correct frame has
+arrived; sliding occurs one slot at a time
+
+Ay Receive window, next frame expected
+
+Frames already received | Frames that cannot be received
+
+and acknowled ged until the window slides
+
+a. Receve window
+
+fb, Winciow aftgr slictina
+Fig: Receiver window (before sliding (a), After sliding (b))
+
+Timers
+
+Although there can be a timer for each frame that is sent, in our protocol we
+use only one, The reason is that the timer for the first outstanding frame
+always expires first; we send all outstanding frames when this timer expires,
 --- page 19 ---
 Lost Acknowledgement: For example, if the acknowledgement (ACK) for frame 2 is
 lost in transit due to an error, the sender’s behavior depends on the timer status. If the
@@ -9902,6 +11396,24 @@ BL-1   How is transmission media classified ? List advantages and disadvantages 
 SO-1   Q6 a   optical fiber.
 Soln
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 26.22 Using the control connection
+
+Local Local
+code code
+
+NVT ASCII
+
+Control
+connection
+
+Control
+process
+
+process
+
+Client Server
 --- page 22 ---
 Optical Fiber
 Data or information is transmitted as light pulses.Carries more data for longer distances
@@ -9928,6 +11440,20 @@ Q6 b   c. 250 frames per second
 The frame transmission time is 200/200 kbps or 1 ms. – 1M,
 Soln   S = G× e−2 G   : formula of throughput 1 M
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+Transmission
+
+media
+|
+[ |
+Guided Unguided
+(wired) (wireless)
+I l
+Twisted-pair Coaxial Fiber-optic
+
+Free space
+cable cable cable P
 --- page 23 ---
 a. If the system creates 1000 frames per second, this is 1 frame per millisecond. The
 load is 1. In this case
@@ -9991,6 +11517,29 @@ G)= =5+ (−2)+(−2)+(−2)+5=4
 (ii)   Computing Shortest Distance - 2 marks
 Soln   (iii)   Intermediate Steps - 3marks
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+Feature UDP TCP SCTP
+
+Type Connectionless Connection-oriented Connection-oriented
+(association)
+
+Reliability No Yes Yes
+
+Data orientation Message-based Byte-stream Message-based
+
+Ordering No guarantee In-order delivery In-order per stream
+Flow/Congestion Ctrl. No Yes Yes
+
+Multi-streaming No No Yes
+
+Multi-homing No No Yes
+
+Overhead Low Moderate Higher than TCP
+
+Typical Applications Streaming, DNS, gaming Web, file transfer, email Telecom, WebRTC, signaling, 5G
+
+networks
 --- page 25 ---
 (iv)   Original network topology (original diagram) - 1mark
 final shortest path diagram with the corresponding distance values clearly
@@ -10021,6 +11570,33 @@ applications (like TCP/IP traffic), data often arrives in short, rapid bursts. T
 Token Bucket can handle these bursts as long as there are sufficient tokens,
 Soln   utilizing the available network capacity efficiently.
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+Faucet aa
+Host
+
+computer
+
+é
+
+[= Packet
+O
+
+oOo, flow
+oO
+paper ag | O The bucket
+Interface holds
+containing —»~ packets
+a leaky bucket
+Oo “ Regulated
+flow
+
+Water drips out of the ry oO
+hole at a constant rate >
+
+Network
+
+(a) (b)
 --- page 26 ---
 2. Higher Throughput Efficiency: By allowing short bursts, it can better utilize
 the available bandwidth without needing to queue or drop packets immediately,
@@ -10415,6 +11991,21 @@ SO-1
 Q4 a   Construct the IPv6 packet format and explain the purpose of each field
 Soln
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Domain Naming Hierarchy
+
+Root
+Top Level
+com edu | org | other Domain (TLD)
+Regional
+computerhope mit craigslist see
+Local
+support saltlakecity Subdomain
+
+\ Network
+
+support.computerhope.com mit.edu saltlakecity.craigslist.org Result
 --- page 12 ---
 Each packet is composed of a base header followed by the payload. The base header
 occupies 40 bytes, whereas payload can be up to 65,535 bytes of information.
@@ -10453,6 +12044,22 @@ missing segments arrive; IP is unaware of this reordering. In TCP, connection-or
 transmission requires three phases: connection establishment, data transfer, and
 Soln   connection termination.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+1 40bytes | Up to 65,535 bytes '
+t T 1
+
+a. IPv6 packet
+0 a 12 16 24 31
+Version | Traffic class | Flow label
+Payload length | Next header | Hop limit
+cr Source address
+C (128 bits = 16 bytes)
+c Destination address
+
+C (128 bits = 16 bytes)
+
+b. Base header
 --- page 13 ---
 Connection Establishment:
 
@@ -10524,6 +12131,27 @@ SO-1   and examples how the sender and receiver windows move in the following th
 a. Normal transmission (no error)
 Q5 a   b. Lost data frame
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+can be just a control segment as shown in Figure 23.20. If it is only a control seg-
+ment, it consumes only one sequence number.
+
+The FIN segment consumes one sequence number ifit does not carry data.
+
+The server TCP, after receiving the FIN segment, informs its process of the situa-
+tion and sends the second segment, a FIN + ACK segment, to confirm the receipt
+ofthe FIN segment from the client and at the same time to announce the closing of
+the connection in the other direction. This segment can also contain the last chunk
+of data from the server. If it does not carry data, it consumes only one sequence
+number.
+
+The FIN + ACK segment consumes one sequence
+number ifit does not carry data.
+
+The client TCP sends the last segment, an ACK segment, to confirm the receipt of
+the FIN segment from the TCP server. This segment contains the acknowledgment
+number, which is 1 plus the sequence number received in the FIN segment from
+the server. This segment cannot carry data and consumes no sequence number:
 --- page 16 ---
 c. Lost acknowledgment (ACK)
 Analyze how retransmission and window shifting occur in each case to ensure reliable
@@ -10602,6 +12230,44 @@ in the current window will be retransmitted. Suppose we have sent the frame no 5
 we didn't receive the acknowledgment of frame no 1, and the current window is holding
 three frames, then these three frames will be retransmitted.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+acknowledged, so the window has slide to the right three slots, Note that the
+value of Sf is 3 because frame 3 is now the first outstanding frame.The senc¢
+window can slide one or more slots when a valid acknowledgment
+arrives,
+
+Receiver window: variable Rn (receive window, next frame expected) .
+
+The sequence numbers to the left of the window belong to the frames already
+received and acknowledged; the sequence numbers to the right of this window
+define the frames that cannot be received. Any received frame with ¢g
+sequence number in these two regions is discarded, Only a frame with 4
+sequence number matching the value of Rn is accepted and acknowledged
+The receive window also slides, but only one slot at a time, When a correc
+frame is received (and a frame is received only one at a time), the window
+slides,( see below figure for receiving window)
+
+The receive window is an abstract concept defining an imaginary box of size 1
+with one single variable Rn, The window slides when a correct frame has
+arrived; sliding occurs one slot at a time
+
+Ay Receive window, next frame expected
+
+Frames already received | Frames that cannot be received
+
+and acknowled ged until the window slides
+
+a. Receve window
+
+fb, Winciow aftgr slictina
+Fig: Receiver window (before sliding (a), After sliding (b))
+
+Timers
+
+Although there can be a timer for each frame that is sent, in our protocol we
+use only one, The reason is that the timer for the first outstanding frame
+always expires first; we send all outstanding frames when this timer expires,
 --- page 19 ---
 Lost Acknowledgement: For example, if the acknowledgement (ACK) for frame 2 is
 lost in transit due to an error, the sender’s behavior depends on the timer status. If the
@@ -10673,6 +12339,24 @@ BL-1   How is transmission media classified ? List advantages and disadvantages 
 SO-1   Q6 a   optical fiber.
 Soln
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 26.22 Using the control connection
+
+Local Local
+code code
+
+NVT ASCII
+
+Control
+connection
+
+Control
+process
+
+process
+
+Client Server
 --- page 22 ---
 Optical Fiber
 Data or information is transmitted as light pulses.Carries more data for longer distances
@@ -10699,6 +12383,20 @@ Q6 b   c. 250 frames per second
 The frame transmission time is 200/200 kbps or 1 ms. – 1M,
 Soln   S = G× e−2 G   : formula of throughput 1 M
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+Transmission
+
+media
+|
+[ |
+Guided Unguided
+(wired) (wireless)
+I l
+Twisted-pair Coaxial Fiber-optic
+
+Free space
+cable cable cable P
 --- page 23 ---
 a. If the system creates 1000 frames per second, this is 1 frame per millisecond. The
 load is 1. In this case
@@ -10762,6 +12460,29 @@ G)= =5+ (−2)+(−2)+(−2)+5=4
 (ii)   Computing Shortest Distance - 2 marks
 Soln   (iii)   Intermediate Steps - 3marks
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+Feature UDP TCP SCTP
+
+Type Connectionless Connection-oriented Connection-oriented
+(association)
+
+Reliability No Yes Yes
+
+Data orientation Message-based Byte-stream Message-based
+
+Ordering No guarantee In-order delivery In-order per stream
+Flow/Congestion Ctrl. No Yes Yes
+
+Multi-streaming No No Yes
+
+Multi-homing No No Yes
+
+Overhead Low Moderate Higher than TCP
+
+Typical Applications Streaming, DNS, gaming Web, file transfer, email Telecom, WebRTC, signaling, 5G
+
+networks
 --- page 25 ---
 (iv)   Original network topology (original diagram) - 1mark
 final shortest path diagram with the corresponding distance values clearly
@@ -10792,6 +12513,33 @@ applications (like TCP/IP traffic), data often arrives in short, rapid bursts. T
 Token Bucket can handle these bursts as long as there are sufficient tokens,
 Soln   utilizing the available network capacity efficiently.
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+Faucet aa
+Host
+
+computer
+
+é
+
+[= Packet
+O
+
+oOo, flow
+oO
+paper ag | O The bucket
+Interface holds
+containing —»~ packets
+a leaky bucket
+Oo “ Regulated
+flow
+
+Water drips out of the ry oO
+hole at a constant rate >
+
+Network
+
+(a) (b)
 --- page 26 ---
 2. Higher Throughput Efficiency: By allowing short bursts, it can better utilize
 the available bandwidth without needing to queue or drop packets immediately,
@@ -10808,6 +12556,7 @@ Flexibility: It separates the average rate (token generation rate) from the burs
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_CSBS_7036/Computer Networks/ANS_Computer Networks(702AI0C023)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2026
 - Text: text (18 pages)
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -10937,6 +12686,41 @@ Ans. TCP Header format diagram 4 Marks
 Description of each field 4 Marks
 TCP as connection-oriented 2 Marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Station has Start
+K: Number of attempts a frame to send
+
+Tp Maximum propagation time
+Tr,: Average transmission time for a frame
+Tg: Back-off time K=0 }
+
+Apply one of the
+persistence methods
+(1-persistent, nonpersistent,
+or p-persistent)
+
+Eligible for transmission
+
+Wait T, time
+
+(Transmission done) or
+(Collision detected)
+
+No
+
+Choose a random Transmit
+number R between and receive
+
+Oand 2%-1
+LT
+No
+
+Kmax iS K>K _ Senda Yes / Collision
+normally 15 1 K=K+1 jamming signal detected?
+Yes No
+
+Abort > Success >
 --- page 5 ---
 Q3   a.   Explain Distance vector routing algorithm with an example. Also
 [10]
@@ -10956,6 +12740,37 @@ of their routing table to their adjacent neighbours.
 automatically send periodic updates even if there are no changes
 in the network.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+<= Header
+
+Source port address Destination port address
+
+16 bits 16 bits
+Sequence number
+32 bits
+Acknowledgment number
+32 bits
+HLEN Reserved Window size
+4 bits 6 bits 16 bits
+Checksum Urgent pointer
+16 bits 16 bits
+
+Options and Padding
+
+Flag Description
+
+URG | The value of the urgent pointer field is valid.
+
+ACK | The value of the acknowledgment field is valid.
+
+PSH Push the data.
+
+RST Reset the connection.
+
+SYN_ | Synchronize sequence numbers during connection.
+
+FIN Terminate the connection.
 --- page 6 ---
 ◼ A router can verify all the known routes and alters its local
 routing table on the basis of the updated information received
@@ -10974,6 +12789,25 @@ BL-2   detail.
 Ans.   All 7 layers discription 7 Marks
 Comparison between OSI and TCP/IP model 3 Marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+To Cost Next To Cost Next
+
+A}0 A
+B|5 B
+Cl2 Cc
+D}3 D
+E |6 E
+A's table 3 B's table
+To Cost Next To Cost Next
+Al3 To Cost Next A
+B|8 B
+C15 Cc
+D}0 D
+E |9 E
+D's table F's table
+
+C's table
 --- page 7 ---
 a.   An ISP is granted a block of addresses starting with 200.50.0.0/16
 (65,536 addresses). The ISP needs to distribute these addresses to three
@@ -11032,6 +12866,19 @@ is not empty.
 • The token bucket allows bursty traffic at a regulated maximum
 rate.
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+A
+
+* Bursty flow
+
+12 Mbps
+2 Mbps 3 Mbps
+bucket ae | ||
+s s
+* Fixed flow 012345678910 012345678910
+
+‘ Bursty data Fixed-rate data
 --- page 9 ---
 Q5   a.
 Discuss classful addressing in network layer. Draw the header format of
@@ -11050,6 +12897,34 @@ Explain it with an example, Sender, receiver window diagram with
 frame number 6 marks
 ◼ Allows multiple frames to be sent before waiting for ACK
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Tokens added at the rate of r per second;
+tokens are discarded if bucket is full.
+>
+
+Bucket capaci)
+isc tokens. =>
+I
+| One token is removed
+| and discarded
+
+H per cell transmitted.
+
+32 Bit '
+
+Ver (4) [HdLen (4) | Type of Service (8) Total Length (16)
+Identification (16) Flags @)] Fragment Offset (13)
+Time to Live (8) l Protocol Number (8) Header Checksum (16) Ocets
+Source IPv4 Address (32 Bit)
+Destination IPv4 Address (32 Bit) J
++ (When Necessary)
+Options Variable
+(Variable) Length
+
+,
+
+Payload
 --- page 10 ---
 ◼ These frames must be numbered differently
 ◼ Frame numbers are called Sequence numbers
@@ -11113,6 +12988,54 @@ world places a heavy load on the system.
 ◼ It is not reliable because any failure makes the data inaccessible
 DNS Resolution
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Root
+
+[Label eau Domain name
+
+Label | fhda
+Label ] atc
+challenger
+
+— Domain name
+
+| atc.fhda.edu. | Domain name
+
+challenger.atc.fhda.edu. | Domain name
+
+Local Name Server
+5. Iterative Query to root
+
+4. Check (root)
+Cache 6. Name Server for .edu
+13. Update, 4 Root Name Server
+Cache
+Cache
+Server 7. Iterative
+3. Recursive Query to edu
+Quer edu
+7 | t4:Requested eens Servertor
+ress
+googleplex.edu y
+edu Name Server
+———e 9. Iterative Query .
+to googleplex.edu
+ee _— L warenenied
+a 40. Name Server for googleplex
+Cache Resolver compsci.googleplex.edu
+googleplex.edu
++ Resolution Name Server
+Sawes" | 16. Requested 11. Iterative Query to
+———
+imi) ‘RiP Address tor
+
+Name Server
+
+17. HTTP Request
+User & Browser to Resolved Address
+
+Client
 --- page 13 ---
 CO-1;   b.   Explain various network topologies with its advantages and
 [10]
@@ -11697,6 +13620,21 @@ SO-1
 Q4 a   Construct the IPv6 packet format and explain the purpose of each field
 Soln
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Domain Naming Hierarchy
+
+Root
+Top Level
+com edu | org | other Domain (TLD)
+Regional
+computerhope mit craigslist see
+Local
+support saltlakecity Subdomain
+
+\ Network
+
+support.computerhope.com mit.edu saltlakecity.craigslist.org Result
 --- page 12 ---
 Each packet is composed of a base header followed by the payload. The base header
 occupies 40 bytes, whereas payload can be up to 65,535 bytes of information.
@@ -11735,6 +13673,22 @@ missing segments arrive; IP is unaware of this reordering. In TCP, connection-or
 transmission requires three phases: connection establishment, data transfer, and
 Soln   connection termination.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+1 40bytes | Up to 65,535 bytes '
+t T 1
+
+a. IPv6 packet
+0 a 12 16 24 31
+Version | Traffic class | Flow label
+Payload length | Next header | Hop limit
+cr Source address
+C (128 bits = 16 bytes)
+c Destination address
+
+C (128 bits = 16 bytes)
+
+b. Base header
 --- page 13 ---
 Connection Establishment:
 
@@ -11806,6 +13760,27 @@ SO-1   and examples how the sender and receiver windows move in the following th
 a. Normal transmission (no error)
 Q5 a   b. Lost data frame
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+can be just a control segment as shown in Figure 23.20. If it is only a control seg-
+ment, it consumes only one sequence number.
+
+The FIN segment consumes one sequence number ifit does not carry data.
+
+The server TCP, after receiving the FIN segment, informs its process of the situa-
+tion and sends the second segment, a FIN + ACK segment, to confirm the receipt
+ofthe FIN segment from the client and at the same time to announce the closing of
+the connection in the other direction. This segment can also contain the last chunk
+of data from the server. If it does not carry data, it consumes only one sequence
+number.
+
+The FIN + ACK segment consumes one sequence
+number ifit does not carry data.
+
+The client TCP sends the last segment, an ACK segment, to confirm the receipt of
+the FIN segment from the TCP server. This segment contains the acknowledgment
+number, which is 1 plus the sequence number received in the FIN segment from
+the server. This segment cannot carry data and consumes no sequence number:
 --- page 16 ---
 c. Lost acknowledgment (ACK)
 Analyze how retransmission and window shifting occur in each case to ensure reliable
@@ -11884,6 +13859,44 @@ in the current window will be retransmitted. Suppose we have sent the frame no 5
 we didn't receive the acknowledgment of frame no 1, and the current window is holding
 three frames, then these three frames will be retransmitted.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+acknowledged, so the window has slide to the right three slots, Note that the
+value of Sf is 3 because frame 3 is now the first outstanding frame.The senc¢
+window can slide one or more slots when a valid acknowledgment
+arrives,
+
+Receiver window: variable Rn (receive window, next frame expected) .
+
+The sequence numbers to the left of the window belong to the frames already
+received and acknowledged; the sequence numbers to the right of this window
+define the frames that cannot be received. Any received frame with ¢g
+sequence number in these two regions is discarded, Only a frame with 4
+sequence number matching the value of Rn is accepted and acknowledged
+The receive window also slides, but only one slot at a time, When a correc
+frame is received (and a frame is received only one at a time), the window
+slides,( see below figure for receiving window)
+
+The receive window is an abstract concept defining an imaginary box of size 1
+with one single variable Rn, The window slides when a correct frame has
+arrived; sliding occurs one slot at a time
+
+Ay Receive window, next frame expected
+
+Frames already received | Frames that cannot be received
+
+and acknowled ged until the window slides
+
+a. Receve window
+
+fb, Winciow aftgr slictina
+Fig: Receiver window (before sliding (a), After sliding (b))
+
+Timers
+
+Although there can be a timer for each frame that is sent, in our protocol we
+use only one, The reason is that the timer for the first outstanding frame
+always expires first; we send all outstanding frames when this timer expires,
 --- page 19 ---
 Lost Acknowledgement: For example, if the acknowledgement (ACK) for frame 2 is
 lost in transit due to an error, the sender’s behavior depends on the timer status. If the
@@ -11955,6 +13968,24 @@ BL-1   How is transmission media classified ? List advantages and disadvantages 
 SO-1   Q6 a   optical fiber.
 Soln
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 26.22 Using the control connection
+
+Local Local
+code code
+
+NVT ASCII
+
+Control
+connection
+
+Control
+process
+
+process
+
+Client Server
 --- page 22 ---
 Optical Fiber
 Data or information is transmitted as light pulses.Carries more data for longer distances
@@ -11981,6 +14012,20 @@ Q6 b   c. 250 frames per second
 The frame transmission time is 200/200 kbps or 1 ms. – 1M,
 Soln   S = G× e−2 G   : formula of throughput 1 M
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+Transmission
+
+media
+|
+[ |
+Guided Unguided
+(wired) (wireless)
+I l
+Twisted-pair Coaxial Fiber-optic
+
+Free space
+cable cable cable P
 --- page 23 ---
 a. If the system creates 1000 frames per second, this is 1 frame per millisecond. The
 load is 1. In this case
@@ -12044,6 +14089,29 @@ G)= =5+ (−2)+(−2)+(−2)+5=4
 (ii)   Computing Shortest Distance - 2 marks
 Soln   (iii)   Intermediate Steps - 3marks
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+Feature UDP TCP SCTP
+
+Type Connectionless Connection-oriented Connection-oriented
+(association)
+
+Reliability No Yes Yes
+
+Data orientation Message-based Byte-stream Message-based
+
+Ordering No guarantee In-order delivery In-order per stream
+Flow/Congestion Ctrl. No Yes Yes
+
+Multi-streaming No No Yes
+
+Multi-homing No No Yes
+
+Overhead Low Moderate Higher than TCP
+
+Typical Applications Streaming, DNS, gaming Web, file transfer, email Telecom, WebRTC, signaling, 5G
+
+networks
 --- page 25 ---
 (iv)   Original network topology (original diagram) - 1mark
 final shortest path diagram with the corresponding distance values clearly
@@ -12074,6 +14142,33 @@ applications (like TCP/IP traffic), data often arrives in short, rapid bursts. T
 Token Bucket can handle these bursts as long as there are sufficient tokens,
 Soln   utilizing the available network capacity efficiently.
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+Faucet aa
+Host
+
+computer
+
+é
+
+[= Packet
+O
+
+oOo, flow
+oO
+paper ag | O The bucket
+Interface holds
+containing —»~ packets
+a leaky bucket
+Oo “ Regulated
+flow
+
+Water drips out of the ry oO
+hole at a constant rate >
+
+Network
+
+(a) (b)
 --- page 26 ---
 2. Higher Throughput Efficiency: By allowing short bursts, it can better utilize
 the available bandwidth without needing to queue or drop packets immediately,
@@ -12468,6 +14563,21 @@ SO-1
 Q4 a   Construct the IPv6 packet format and explain the purpose of each field
 Soln
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Domain Naming Hierarchy
+
+Root
+Top Level
+com edu | org | other Domain (TLD)
+Regional
+computerhope mit craigslist see
+Local
+support saltlakecity Subdomain
+
+\ Network
+
+support.computerhope.com mit.edu saltlakecity.craigslist.org Result
 --- page 12 ---
 Each packet is composed of a base header followed by the payload. The base header
 occupies 40 bytes, whereas payload can be up to 65,535 bytes of information.
@@ -12506,6 +14616,22 @@ missing segments arrive; IP is unaware of this reordering. In TCP, connection-or
 transmission requires three phases: connection establishment, data transfer, and
 Soln   connection termination.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+1 40bytes | Up to 65,535 bytes '
+t T 1
+
+a. IPv6 packet
+0 a 12 16 24 31
+Version | Traffic class | Flow label
+Payload length | Next header | Hop limit
+cr Source address
+C (128 bits = 16 bytes)
+c Destination address
+
+C (128 bits = 16 bytes)
+
+b. Base header
 --- page 13 ---
 Connection Establishment:
 
@@ -12577,6 +14703,27 @@ SO-1   and examples how the sender and receiver windows move in the following th
 a. Normal transmission (no error)
 Q5 a   b. Lost data frame
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+can be just a control segment as shown in Figure 23.20. If it is only a control seg-
+ment, it consumes only one sequence number.
+
+The FIN segment consumes one sequence number ifit does not carry data.
+
+The server TCP, after receiving the FIN segment, informs its process of the situa-
+tion and sends the second segment, a FIN + ACK segment, to confirm the receipt
+ofthe FIN segment from the client and at the same time to announce the closing of
+the connection in the other direction. This segment can also contain the last chunk
+of data from the server. If it does not carry data, it consumes only one sequence
+number.
+
+The FIN + ACK segment consumes one sequence
+number ifit does not carry data.
+
+The client TCP sends the last segment, an ACK segment, to confirm the receipt of
+the FIN segment from the TCP server. This segment contains the acknowledgment
+number, which is 1 plus the sequence number received in the FIN segment from
+the server. This segment cannot carry data and consumes no sequence number:
 --- page 16 ---
 c. Lost acknowledgment (ACK)
 Analyze how retransmission and window shifting occur in each case to ensure reliable
@@ -12655,6 +14802,44 @@ in the current window will be retransmitted. Suppose we have sent the frame no 5
 we didn't receive the acknowledgment of frame no 1, and the current window is holding
 three frames, then these three frames will be retransmitted.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+acknowledged, so the window has slide to the right three slots, Note that the
+value of Sf is 3 because frame 3 is now the first outstanding frame.The senc¢
+window can slide one or more slots when a valid acknowledgment
+arrives,
+
+Receiver window: variable Rn (receive window, next frame expected) .
+
+The sequence numbers to the left of the window belong to the frames already
+received and acknowledged; the sequence numbers to the right of this window
+define the frames that cannot be received. Any received frame with ¢g
+sequence number in these two regions is discarded, Only a frame with 4
+sequence number matching the value of Rn is accepted and acknowledged
+The receive window also slides, but only one slot at a time, When a correc
+frame is received (and a frame is received only one at a time), the window
+slides,( see below figure for receiving window)
+
+The receive window is an abstract concept defining an imaginary box of size 1
+with one single variable Rn, The window slides when a correct frame has
+arrived; sliding occurs one slot at a time
+
+Ay Receive window, next frame expected
+
+Frames already received | Frames that cannot be received
+
+and acknowled ged until the window slides
+
+a. Receve window
+
+fb, Winciow aftgr slictina
+Fig: Receiver window (before sliding (a), After sliding (b))
+
+Timers
+
+Although there can be a timer for each frame that is sent, in our protocol we
+use only one, The reason is that the timer for the first outstanding frame
+always expires first; we send all outstanding frames when this timer expires,
 --- page 19 ---
 Lost Acknowledgement: For example, if the acknowledgement (ACK) for frame 2 is
 lost in transit due to an error, the sender’s behavior depends on the timer status. If the
@@ -12726,6 +14911,24 @@ BL-1   How is transmission media classified ? List advantages and disadvantages 
 SO-1   Q6 a   optical fiber.
 Soln
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 26.22 Using the control connection
+
+Local Local
+code code
+
+NVT ASCII
+
+Control
+connection
+
+Control
+process
+
+process
+
+Client Server
 --- page 22 ---
 Optical Fiber
 Data or information is transmitted as light pulses.Carries more data for longer distances
@@ -12752,6 +14955,20 @@ Q6 b   c. 250 frames per second
 The frame transmission time is 200/200 kbps or 1 ms. – 1M,
 Soln   S = G× e−2 G   : formula of throughput 1 M
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+Transmission
+
+media
+|
+[ |
+Guided Unguided
+(wired) (wireless)
+I l
+Twisted-pair Coaxial Fiber-optic
+
+Free space
+cable cable cable P
 --- page 23 ---
 a. If the system creates 1000 frames per second, this is 1 frame per millisecond. The
 load is 1. In this case
@@ -12815,6 +15032,29 @@ G)= =5+ (−2)+(−2)+(−2)+5=4
 (ii)   Computing Shortest Distance - 2 marks
 Soln   (iii)   Intermediate Steps - 3marks
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+Feature UDP TCP SCTP
+
+Type Connectionless Connection-oriented Connection-oriented
+(association)
+
+Reliability No Yes Yes
+
+Data orientation Message-based Byte-stream Message-based
+
+Ordering No guarantee In-order delivery In-order per stream
+Flow/Congestion Ctrl. No Yes Yes
+
+Multi-streaming No No Yes
+
+Multi-homing No No Yes
+
+Overhead Low Moderate Higher than TCP
+
+Typical Applications Streaming, DNS, gaming Web, file transfer, email Telecom, WebRTC, signaling, 5G
+
+networks
 --- page 25 ---
 (iv)   Original network topology (original diagram) - 1mark
 final shortest path diagram with the corresponding distance values clearly
@@ -12845,6 +15085,33 @@ applications (like TCP/IP traffic), data often arrives in short, rapid bursts. T
 Token Bucket can handle these bursts as long as there are sufficient tokens,
 Soln   utilizing the available network capacity efficiently.
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+Faucet aa
+Host
+
+computer
+
+é
+
+[= Packet
+O
+
+oOo, flow
+oO
+paper ag | O The bucket
+Interface holds
+containing —»~ packets
+a leaky bucket
+Oo “ Regulated
+flow
+
+Water drips out of the ry oO
+hole at a constant rate >
+
+Network
+
+(a) (b)
 --- page 26 ---
 2. Higher Throughput Efficiency: By allowing short bursts, it can better utilize
 the available bandwidth without needing to queue or drop packets immediately,
@@ -13239,6 +15506,21 @@ SO-1
 Q4 a   Construct the IPv6 packet format and explain the purpose of each field
 Soln
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Domain Naming Hierarchy
+
+Root
+Top Level
+com edu | org | other Domain (TLD)
+Regional
+computerhope mit craigslist see
+Local
+support saltlakecity Subdomain
+
+\ Network
+
+support.computerhope.com mit.edu saltlakecity.craigslist.org Result
 --- page 12 ---
 Each packet is composed of a base header followed by the payload. The base header
 occupies 40 bytes, whereas payload can be up to 65,535 bytes of information.
@@ -13277,6 +15559,22 @@ missing segments arrive; IP is unaware of this reordering. In TCP, connection-or
 transmission requires three phases: connection establishment, data transfer, and
 Soln   connection termination.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+1 40bytes | Up to 65,535 bytes '
+t T 1
+
+a. IPv6 packet
+0 a 12 16 24 31
+Version | Traffic class | Flow label
+Payload length | Next header | Hop limit
+cr Source address
+C (128 bits = 16 bytes)
+c Destination address
+
+C (128 bits = 16 bytes)
+
+b. Base header
 --- page 13 ---
 Connection Establishment:
 
@@ -13348,6 +15646,27 @@ SO-1   and examples how the sender and receiver windows move in the following th
 a. Normal transmission (no error)
 Q5 a   b. Lost data frame
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+can be just a control segment as shown in Figure 23.20. If it is only a control seg-
+ment, it consumes only one sequence number.
+
+The FIN segment consumes one sequence number ifit does not carry data.
+
+The server TCP, after receiving the FIN segment, informs its process of the situa-
+tion and sends the second segment, a FIN + ACK segment, to confirm the receipt
+ofthe FIN segment from the client and at the same time to announce the closing of
+the connection in the other direction. This segment can also contain the last chunk
+of data from the server. If it does not carry data, it consumes only one sequence
+number.
+
+The FIN + ACK segment consumes one sequence
+number ifit does not carry data.
+
+The client TCP sends the last segment, an ACK segment, to confirm the receipt of
+the FIN segment from the TCP server. This segment contains the acknowledgment
+number, which is 1 plus the sequence number received in the FIN segment from
+the server. This segment cannot carry data and consumes no sequence number:
 --- page 16 ---
 c. Lost acknowledgment (ACK)
 Analyze how retransmission and window shifting occur in each case to ensure reliable
@@ -13426,6 +15745,44 @@ in the current window will be retransmitted. Suppose we have sent the frame no 5
 we didn't receive the acknowledgment of frame no 1, and the current window is holding
 three frames, then these three frames will be retransmitted.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+acknowledged, so the window has slide to the right three slots, Note that the
+value of Sf is 3 because frame 3 is now the first outstanding frame.The senc¢
+window can slide one or more slots when a valid acknowledgment
+arrives,
+
+Receiver window: variable Rn (receive window, next frame expected) .
+
+The sequence numbers to the left of the window belong to the frames already
+received and acknowledged; the sequence numbers to the right of this window
+define the frames that cannot be received. Any received frame with ¢g
+sequence number in these two regions is discarded, Only a frame with 4
+sequence number matching the value of Rn is accepted and acknowledged
+The receive window also slides, but only one slot at a time, When a correc
+frame is received (and a frame is received only one at a time), the window
+slides,( see below figure for receiving window)
+
+The receive window is an abstract concept defining an imaginary box of size 1
+with one single variable Rn, The window slides when a correct frame has
+arrived; sliding occurs one slot at a time
+
+Ay Receive window, next frame expected
+
+Frames already received | Frames that cannot be received
+
+and acknowled ged until the window slides
+
+a. Receve window
+
+fb, Winciow aftgr slictina
+Fig: Receiver window (before sliding (a), After sliding (b))
+
+Timers
+
+Although there can be a timer for each frame that is sent, in our protocol we
+use only one, The reason is that the timer for the first outstanding frame
+always expires first; we send all outstanding frames when this timer expires,
 --- page 19 ---
 Lost Acknowledgement: For example, if the acknowledgement (ACK) for frame 2 is
 lost in transit due to an error, the sender’s behavior depends on the timer status. If the
@@ -13497,6 +15854,24 @@ BL-1   How is transmission media classified ? List advantages and disadvantages 
 SO-1   Q6 a   optical fiber.
 Soln
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 26.22 Using the control connection
+
+Local Local
+code code
+
+NVT ASCII
+
+Control
+connection
+
+Control
+process
+
+process
+
+Client Server
 --- page 22 ---
 Optical Fiber
 Data or information is transmitted as light pulses.Carries more data for longer distances
@@ -13523,6 +15898,20 @@ Q6 b   c. 250 frames per second
 The frame transmission time is 200/200 kbps or 1 ms. – 1M,
 Soln   S = G× e−2 G   : formula of throughput 1 M
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+Transmission
+
+media
+|
+[ |
+Guided Unguided
+(wired) (wireless)
+I l
+Twisted-pair Coaxial Fiber-optic
+
+Free space
+cable cable cable P
 --- page 23 ---
 a. If the system creates 1000 frames per second, this is 1 frame per millisecond. The
 load is 1. In this case
@@ -13586,6 +15975,29 @@ G)= =5+ (−2)+(−2)+(−2)+5=4
 (ii)   Computing Shortest Distance - 2 marks
 Soln   (iii)   Intermediate Steps - 3marks
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+Feature UDP TCP SCTP
+
+Type Connectionless Connection-oriented Connection-oriented
+(association)
+
+Reliability No Yes Yes
+
+Data orientation Message-based Byte-stream Message-based
+
+Ordering No guarantee In-order delivery In-order per stream
+Flow/Congestion Ctrl. No Yes Yes
+
+Multi-streaming No No Yes
+
+Multi-homing No No Yes
+
+Overhead Low Moderate Higher than TCP
+
+Typical Applications Streaming, DNS, gaming Web, file transfer, email Telecom, WebRTC, signaling, 5G
+
+networks
 --- page 25 ---
 (iv)   Original network topology (original diagram) - 1mark
 final shortest path diagram with the corresponding distance values clearly
@@ -13616,6 +16028,33 @@ applications (like TCP/IP traffic), data often arrives in short, rapid bursts. T
 Token Bucket can handle these bursts as long as there are sufficient tokens,
 Soln   utilizing the available network capacity efficiently.
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+Faucet aa
+Host
+
+computer
+
+é
+
+[= Packet
+O
+
+oOo, flow
+oO
+paper ag | O The bucket
+Interface holds
+containing —»~ packets
+a leaky bucket
+Oo “ Regulated
+flow
+
+Water drips out of the ry oO
+hole at a constant rate >
+
+Network
+
+(a) (b)
 --- page 26 ---
 2. Higher Throughput Efficiency: By allowing short bursts, it can better utilize
 the available bandwidth without needing to queue or drop packets immediately,
@@ -14010,6 +16449,21 @@ SO-1
 Q4 a   Construct the IPv6 packet format and explain the purpose of each field
 Soln
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Domain Naming Hierarchy
+
+Root
+Top Level
+com edu | org | other Domain (TLD)
+Regional
+computerhope mit craigslist see
+Local
+support saltlakecity Subdomain
+
+\ Network
+
+support.computerhope.com mit.edu saltlakecity.craigslist.org Result
 --- page 12 ---
 Each packet is composed of a base header followed by the payload. The base header
 occupies 40 bytes, whereas payload can be up to 65,535 bytes of information.
@@ -14048,6 +16502,22 @@ missing segments arrive; IP is unaware of this reordering. In TCP, connection-or
 transmission requires three phases: connection establishment, data transfer, and
 Soln   connection termination.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+1 40bytes | Up to 65,535 bytes '
+t T 1
+
+a. IPv6 packet
+0 a 12 16 24 31
+Version | Traffic class | Flow label
+Payload length | Next header | Hop limit
+cr Source address
+C (128 bits = 16 bytes)
+c Destination address
+
+C (128 bits = 16 bytes)
+
+b. Base header
 --- page 13 ---
 Connection Establishment:
 
@@ -14119,6 +16589,27 @@ SO-1   and examples how the sender and receiver windows move in the following th
 a. Normal transmission (no error)
 Q5 a   b. Lost data frame
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+can be just a control segment as shown in Figure 23.20. If it is only a control seg-
+ment, it consumes only one sequence number.
+
+The FIN segment consumes one sequence number ifit does not carry data.
+
+The server TCP, after receiving the FIN segment, informs its process of the situa-
+tion and sends the second segment, a FIN + ACK segment, to confirm the receipt
+ofthe FIN segment from the client and at the same time to announce the closing of
+the connection in the other direction. This segment can also contain the last chunk
+of data from the server. If it does not carry data, it consumes only one sequence
+number.
+
+The FIN + ACK segment consumes one sequence
+number ifit does not carry data.
+
+The client TCP sends the last segment, an ACK segment, to confirm the receipt of
+the FIN segment from the TCP server. This segment contains the acknowledgment
+number, which is 1 plus the sequence number received in the FIN segment from
+the server. This segment cannot carry data and consumes no sequence number:
 --- page 16 ---
 c. Lost acknowledgment (ACK)
 Analyze how retransmission and window shifting occur in each case to ensure reliable
@@ -14197,6 +16688,44 @@ in the current window will be retransmitted. Suppose we have sent the frame no 5
 we didn't receive the acknowledgment of frame no 1, and the current window is holding
 three frames, then these three frames will be retransmitted.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+acknowledged, so the window has slide to the right three slots, Note that the
+value of Sf is 3 because frame 3 is now the first outstanding frame.The senc¢
+window can slide one or more slots when a valid acknowledgment
+arrives,
+
+Receiver window: variable Rn (receive window, next frame expected) .
+
+The sequence numbers to the left of the window belong to the frames already
+received and acknowledged; the sequence numbers to the right of this window
+define the frames that cannot be received. Any received frame with ¢g
+sequence number in these two regions is discarded, Only a frame with 4
+sequence number matching the value of Rn is accepted and acknowledged
+The receive window also slides, but only one slot at a time, When a correc
+frame is received (and a frame is received only one at a time), the window
+slides,( see below figure for receiving window)
+
+The receive window is an abstract concept defining an imaginary box of size 1
+with one single variable Rn, The window slides when a correct frame has
+arrived; sliding occurs one slot at a time
+
+Ay Receive window, next frame expected
+
+Frames already received | Frames that cannot be received
+
+and acknowled ged until the window slides
+
+a. Receve window
+
+fb, Winciow aftgr slictina
+Fig: Receiver window (before sliding (a), After sliding (b))
+
+Timers
+
+Although there can be a timer for each frame that is sent, in our protocol we
+use only one, The reason is that the timer for the first outstanding frame
+always expires first; we send all outstanding frames when this timer expires,
 --- page 19 ---
 Lost Acknowledgement: For example, if the acknowledgement (ACK) for frame 2 is
 lost in transit due to an error, the sender’s behavior depends on the timer status. If the
@@ -14268,6 +16797,24 @@ BL-1   How is transmission media classified ? List advantages and disadvantages 
 SO-1   Q6 a   optical fiber.
 Soln
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 26.22 Using the control connection
+
+Local Local
+code code
+
+NVT ASCII
+
+Control
+connection
+
+Control
+process
+
+process
+
+Client Server
 --- page 22 ---
 Optical Fiber
 Data or information is transmitted as light pulses.Carries more data for longer distances
@@ -14294,6 +16841,20 @@ Q6 b   c. 250 frames per second
 The frame transmission time is 200/200 kbps or 1 ms. – 1M,
 Soln   S = G× e−2 G   : formula of throughput 1 M
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+Transmission
+
+media
+|
+[ |
+Guided Unguided
+(wired) (wireless)
+I l
+Twisted-pair Coaxial Fiber-optic
+
+Free space
+cable cable cable P
 --- page 23 ---
 a. If the system creates 1000 frames per second, this is 1 frame per millisecond. The
 load is 1. In this case
@@ -14357,6 +16918,29 @@ G)= =5+ (−2)+(−2)+(−2)+5=4
 (ii)   Computing Shortest Distance - 2 marks
 Soln   (iii)   Intermediate Steps - 3marks
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+Feature UDP TCP SCTP
+
+Type Connectionless Connection-oriented Connection-oriented
+(association)
+
+Reliability No Yes Yes
+
+Data orientation Message-based Byte-stream Message-based
+
+Ordering No guarantee In-order delivery In-order per stream
+Flow/Congestion Ctrl. No Yes Yes
+
+Multi-streaming No No Yes
+
+Multi-homing No No Yes
+
+Overhead Low Moderate Higher than TCP
+
+Typical Applications Streaming, DNS, gaming Web, file transfer, email Telecom, WebRTC, signaling, 5G
+
+networks
 --- page 25 ---
 (iv)   Original network topology (original diagram) - 1mark
 final shortest path diagram with the corresponding distance values clearly
@@ -14387,6 +16971,33 @@ applications (like TCP/IP traffic), data often arrives in short, rapid bursts. T
 Token Bucket can handle these bursts as long as there are sufficient tokens,
 Soln   utilizing the available network capacity efficiently.
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+Faucet aa
+Host
+
+computer
+
+é
+
+[= Packet
+O
+
+oOo, flow
+oO
+paper ag | O The bucket
+Interface holds
+containing —»~ packets
+a leaky bucket
+Oo “ Regulated
+flow
+
+Water drips out of the ry oO
+hole at a constant rate >
+
+Network
+
+(a) (b)
 --- page 26 ---
 2. Higher Throughput Efficiency: By allowing short bursts, it can better utilize
 the available bandwidth without needing to queue or drop packets immediately,
@@ -14781,6 +17392,21 @@ SO-1
 Q4 a   Construct the IPv6 packet format and explain the purpose of each field
 Soln
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Domain Naming Hierarchy
+
+Root
+Top Level
+com edu | org | other Domain (TLD)
+Regional
+computerhope mit craigslist see
+Local
+support saltlakecity Subdomain
+
+\ Network
+
+support.computerhope.com mit.edu saltlakecity.craigslist.org Result
 --- page 12 ---
 Each packet is composed of a base header followed by the payload. The base header
 occupies 40 bytes, whereas payload can be up to 65,535 bytes of information.
@@ -14819,6 +17445,22 @@ missing segments arrive; IP is unaware of this reordering. In TCP, connection-or
 transmission requires three phases: connection establishment, data transfer, and
 Soln   connection termination.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+1 40bytes | Up to 65,535 bytes '
+t T 1
+
+a. IPv6 packet
+0 a 12 16 24 31
+Version | Traffic class | Flow label
+Payload length | Next header | Hop limit
+cr Source address
+C (128 bits = 16 bytes)
+c Destination address
+
+C (128 bits = 16 bytes)
+
+b. Base header
 --- page 13 ---
 Connection Establishment:
 
@@ -14890,6 +17532,27 @@ SO-1   and examples how the sender and receiver windows move in the following th
 a. Normal transmission (no error)
 Q5 a   b. Lost data frame
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+can be just a control segment as shown in Figure 23.20. If it is only a control seg-
+ment, it consumes only one sequence number.
+
+The FIN segment consumes one sequence number ifit does not carry data.
+
+The server TCP, after receiving the FIN segment, informs its process of the situa-
+tion and sends the second segment, a FIN + ACK segment, to confirm the receipt
+ofthe FIN segment from the client and at the same time to announce the closing of
+the connection in the other direction. This segment can also contain the last chunk
+of data from the server. If it does not carry data, it consumes only one sequence
+number.
+
+The FIN + ACK segment consumes one sequence
+number ifit does not carry data.
+
+The client TCP sends the last segment, an ACK segment, to confirm the receipt of
+the FIN segment from the TCP server. This segment contains the acknowledgment
+number, which is 1 plus the sequence number received in the FIN segment from
+the server. This segment cannot carry data and consumes no sequence number:
 --- page 16 ---
 c. Lost acknowledgment (ACK)
 Analyze how retransmission and window shifting occur in each case to ensure reliable
@@ -14968,6 +17631,44 @@ in the current window will be retransmitted. Suppose we have sent the frame no 5
 we didn't receive the acknowledgment of frame no 1, and the current window is holding
 three frames, then these three frames will be retransmitted.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+acknowledged, so the window has slide to the right three slots, Note that the
+value of Sf is 3 because frame 3 is now the first outstanding frame.The senc¢
+window can slide one or more slots when a valid acknowledgment
+arrives,
+
+Receiver window: variable Rn (receive window, next frame expected) .
+
+The sequence numbers to the left of the window belong to the frames already
+received and acknowledged; the sequence numbers to the right of this window
+define the frames that cannot be received. Any received frame with ¢g
+sequence number in these two regions is discarded, Only a frame with 4
+sequence number matching the value of Rn is accepted and acknowledged
+The receive window also slides, but only one slot at a time, When a correc
+frame is received (and a frame is received only one at a time), the window
+slides,( see below figure for receiving window)
+
+The receive window is an abstract concept defining an imaginary box of size 1
+with one single variable Rn, The window slides when a correct frame has
+arrived; sliding occurs one slot at a time
+
+Ay Receive window, next frame expected
+
+Frames already received | Frames that cannot be received
+
+and acknowled ged until the window slides
+
+a. Receve window
+
+fb, Winciow aftgr slictina
+Fig: Receiver window (before sliding (a), After sliding (b))
+
+Timers
+
+Although there can be a timer for each frame that is sent, in our protocol we
+use only one, The reason is that the timer for the first outstanding frame
+always expires first; we send all outstanding frames when this timer expires,
 --- page 19 ---
 Lost Acknowledgement: For example, if the acknowledgement (ACK) for frame 2 is
 lost in transit due to an error, the sender’s behavior depends on the timer status. If the
@@ -15039,6 +17740,24 @@ BL-1   How is transmission media classified ? List advantages and disadvantages 
 SO-1   Q6 a   optical fiber.
 Soln
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 26.22 Using the control connection
+
+Local Local
+code code
+
+NVT ASCII
+
+Control
+connection
+
+Control
+process
+
+process
+
+Client Server
 --- page 22 ---
 Optical Fiber
 Data or information is transmitted as light pulses.Carries more data for longer distances
@@ -15065,6 +17784,20 @@ Q6 b   c. 250 frames per second
 The frame transmission time is 200/200 kbps or 1 ms. – 1M,
 Soln   S = G× e−2 G   : formula of throughput 1 M
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+Transmission
+
+media
+|
+[ |
+Guided Unguided
+(wired) (wireless)
+I l
+Twisted-pair Coaxial Fiber-optic
+
+Free space
+cable cable cable P
 --- page 23 ---
 a. If the system creates 1000 frames per second, this is 1 frame per millisecond. The
 load is 1. In this case
@@ -15128,6 +17861,29 @@ G)= =5+ (−2)+(−2)+(−2)+5=4
 (ii)   Computing Shortest Distance - 2 marks
 Soln   (iii)   Intermediate Steps - 3marks
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+Feature UDP TCP SCTP
+
+Type Connectionless Connection-oriented Connection-oriented
+(association)
+
+Reliability No Yes Yes
+
+Data orientation Message-based Byte-stream Message-based
+
+Ordering No guarantee In-order delivery In-order per stream
+Flow/Congestion Ctrl. No Yes Yes
+
+Multi-streaming No No Yes
+
+Multi-homing No No Yes
+
+Overhead Low Moderate Higher than TCP
+
+Typical Applications Streaming, DNS, gaming Web, file transfer, email Telecom, WebRTC, signaling, 5G
+
+networks
 --- page 25 ---
 (iv)   Original network topology (original diagram) - 1mark
 final shortest path diagram with the corresponding distance values clearly
@@ -15158,6 +17914,33 @@ applications (like TCP/IP traffic), data often arrives in short, rapid bursts. T
 Token Bucket can handle these bursts as long as there are sufficient tokens,
 Soln   utilizing the available network capacity efficiently.
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+Faucet aa
+Host
+
+computer
+
+é
+
+[= Packet
+O
+
+oOo, flow
+oO
+paper ag | O The bucket
+Interface holds
+containing —»~ packets
+a leaky bucket
+Oo “ Regulated
+flow
+
+Water drips out of the ry oO
+hole at a constant rate >
+
+Network
+
+(a) (b)
 --- page 26 ---
 2. Higher Throughput Efficiency: By allowing short bursts, it can better utilize
 the available bandwidth without needing to queue or drop packets immediately,
@@ -15552,6 +18335,21 @@ SO-1
 Q4 a   Construct the IPv6 packet format and explain the purpose of each field
 Soln
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Domain Naming Hierarchy
+
+Root
+Top Level
+com edu | org | other Domain (TLD)
+Regional
+computerhope mit craigslist see
+Local
+support saltlakecity Subdomain
+
+\ Network
+
+support.computerhope.com mit.edu saltlakecity.craigslist.org Result
 --- page 12 ---
 Each packet is composed of a base header followed by the payload. The base header
 occupies 40 bytes, whereas payload can be up to 65,535 bytes of information.
@@ -15590,6 +18388,22 @@ missing segments arrive; IP is unaware of this reordering. In TCP, connection-or
 transmission requires three phases: connection establishment, data transfer, and
 Soln   connection termination.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+1 40bytes | Up to 65,535 bytes '
+t T 1
+
+a. IPv6 packet
+0 a 12 16 24 31
+Version | Traffic class | Flow label
+Payload length | Next header | Hop limit
+cr Source address
+C (128 bits = 16 bytes)
+c Destination address
+
+C (128 bits = 16 bytes)
+
+b. Base header
 --- page 13 ---
 Connection Establishment:
 
@@ -15661,6 +18475,27 @@ SO-1   and examples how the sender and receiver windows move in the following th
 a. Normal transmission (no error)
 Q5 a   b. Lost data frame
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+can be just a control segment as shown in Figure 23.20. If it is only a control seg-
+ment, it consumes only one sequence number.
+
+The FIN segment consumes one sequence number ifit does not carry data.
+
+The server TCP, after receiving the FIN segment, informs its process of the situa-
+tion and sends the second segment, a FIN + ACK segment, to confirm the receipt
+ofthe FIN segment from the client and at the same time to announce the closing of
+the connection in the other direction. This segment can also contain the last chunk
+of data from the server. If it does not carry data, it consumes only one sequence
+number.
+
+The FIN + ACK segment consumes one sequence
+number ifit does not carry data.
+
+The client TCP sends the last segment, an ACK segment, to confirm the receipt of
+the FIN segment from the TCP server. This segment contains the acknowledgment
+number, which is 1 plus the sequence number received in the FIN segment from
+the server. This segment cannot carry data and consumes no sequence number:
 --- page 16 ---
 c. Lost acknowledgment (ACK)
 Analyze how retransmission and window shifting occur in each case to ensure reliable
@@ -15739,6 +18574,44 @@ in the current window will be retransmitted. Suppose we have sent the frame no 5
 we didn't receive the acknowledgment of frame no 1, and the current window is holding
 three frames, then these three frames will be retransmitted.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+acknowledged, so the window has slide to the right three slots, Note that the
+value of Sf is 3 because frame 3 is now the first outstanding frame.The senc¢
+window can slide one or more slots when a valid acknowledgment
+arrives,
+
+Receiver window: variable Rn (receive window, next frame expected) .
+
+The sequence numbers to the left of the window belong to the frames already
+received and acknowledged; the sequence numbers to the right of this window
+define the frames that cannot be received. Any received frame with ¢g
+sequence number in these two regions is discarded, Only a frame with 4
+sequence number matching the value of Rn is accepted and acknowledged
+The receive window also slides, but only one slot at a time, When a correc
+frame is received (and a frame is received only one at a time), the window
+slides,( see below figure for receiving window)
+
+The receive window is an abstract concept defining an imaginary box of size 1
+with one single variable Rn, The window slides when a correct frame has
+arrived; sliding occurs one slot at a time
+
+Ay Receive window, next frame expected
+
+Frames already received | Frames that cannot be received
+
+and acknowled ged until the window slides
+
+a. Receve window
+
+fb, Winciow aftgr slictina
+Fig: Receiver window (before sliding (a), After sliding (b))
+
+Timers
+
+Although there can be a timer for each frame that is sent, in our protocol we
+use only one, The reason is that the timer for the first outstanding frame
+always expires first; we send all outstanding frames when this timer expires,
 --- page 19 ---
 Lost Acknowledgement: For example, if the acknowledgement (ACK) for frame 2 is
 lost in transit due to an error, the sender’s behavior depends on the timer status. If the
@@ -15810,6 +18683,24 @@ BL-1   How is transmission media classified ? List advantages and disadvantages 
 SO-1   Q6 a   optical fiber.
 Soln
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 26.22 Using the control connection
+
+Local Local
+code code
+
+NVT ASCII
+
+Control
+connection
+
+Control
+process
+
+process
+
+Client Server
 --- page 22 ---
 Optical Fiber
 Data or information is transmitted as light pulses.Carries more data for longer distances
@@ -15836,6 +18727,20 @@ Q6 b   c. 250 frames per second
 The frame transmission time is 200/200 kbps or 1 ms. – 1M,
 Soln   S = G× e−2 G   : formula of throughput 1 M
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+Transmission
+
+media
+|
+[ |
+Guided Unguided
+(wired) (wireless)
+I l
+Twisted-pair Coaxial Fiber-optic
+
+Free space
+cable cable cable P
 --- page 23 ---
 a. If the system creates 1000 frames per second, this is 1 frame per millisecond. The
 load is 1. In this case
@@ -15899,6 +18804,29 @@ G)= =5+ (−2)+(−2)+(−2)+5=4
 (ii)   Computing Shortest Distance - 2 marks
 Soln   (iii)   Intermediate Steps - 3marks
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+Feature UDP TCP SCTP
+
+Type Connectionless Connection-oriented Connection-oriented
+(association)
+
+Reliability No Yes Yes
+
+Data orientation Message-based Byte-stream Message-based
+
+Ordering No guarantee In-order delivery In-order per stream
+Flow/Congestion Ctrl. No Yes Yes
+
+Multi-streaming No No Yes
+
+Multi-homing No No Yes
+
+Overhead Low Moderate Higher than TCP
+
+Typical Applications Streaming, DNS, gaming Web, file transfer, email Telecom, WebRTC, signaling, 5G
+
+networks
 --- page 25 ---
 (iv)   Original network topology (original diagram) - 1mark
 final shortest path diagram with the corresponding distance values clearly
@@ -15929,6 +18857,33 @@ applications (like TCP/IP traffic), data often arrives in short, rapid bursts. T
 Token Bucket can handle these bursts as long as there are sufficient tokens,
 Soln   utilizing the available network capacity efficiently.
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+Faucet aa
+Host
+
+computer
+
+é
+
+[= Packet
+O
+
+oOo, flow
+oO
+paper ag | O The bucket
+Interface holds
+containing —»~ packets
+a leaky bucket
+Oo “ Regulated
+flow
+
+Water drips out of the ry oO
+hole at a constant rate >
+
+Network
+
+(a) (b)
 --- page 26 ---
 2. Higher Throughput Efficiency: By allowing short bursts, it can better utilize
 the available bandwidth without needing to queue or drop packets immediately,
@@ -16323,6 +19278,21 @@ SO-1
 Q4 a   Construct the IPv6 packet format and explain the purpose of each field
 Soln
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Domain Naming Hierarchy
+
+Root
+Top Level
+com edu | org | other Domain (TLD)
+Regional
+computerhope mit craigslist see
+Local
+support saltlakecity Subdomain
+
+\ Network
+
+support.computerhope.com mit.edu saltlakecity.craigslist.org Result
 --- page 12 ---
 Each packet is composed of a base header followed by the payload. The base header
 occupies 40 bytes, whereas payload can be up to 65,535 bytes of information.
@@ -16361,6 +19331,22 @@ missing segments arrive; IP is unaware of this reordering. In TCP, connection-or
 transmission requires three phases: connection establishment, data transfer, and
 Soln   connection termination.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+1 40bytes | Up to 65,535 bytes '
+t T 1
+
+a. IPv6 packet
+0 a 12 16 24 31
+Version | Traffic class | Flow label
+Payload length | Next header | Hop limit
+cr Source address
+C (128 bits = 16 bytes)
+c Destination address
+
+C (128 bits = 16 bytes)
+
+b. Base header
 --- page 13 ---
 Connection Establishment:
 
@@ -16432,6 +19418,27 @@ SO-1   and examples how the sender and receiver windows move in the following th
 a. Normal transmission (no error)
 Q5 a   b. Lost data frame
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+can be just a control segment as shown in Figure 23.20. If it is only a control seg-
+ment, it consumes only one sequence number.
+
+The FIN segment consumes one sequence number ifit does not carry data.
+
+The server TCP, after receiving the FIN segment, informs its process of the situa-
+tion and sends the second segment, a FIN + ACK segment, to confirm the receipt
+ofthe FIN segment from the client and at the same time to announce the closing of
+the connection in the other direction. This segment can also contain the last chunk
+of data from the server. If it does not carry data, it consumes only one sequence
+number.
+
+The FIN + ACK segment consumes one sequence
+number ifit does not carry data.
+
+The client TCP sends the last segment, an ACK segment, to confirm the receipt of
+the FIN segment from the TCP server. This segment contains the acknowledgment
+number, which is 1 plus the sequence number received in the FIN segment from
+the server. This segment cannot carry data and consumes no sequence number:
 --- page 16 ---
 c. Lost acknowledgment (ACK)
 Analyze how retransmission and window shifting occur in each case to ensure reliable
@@ -16510,6 +19517,44 @@ in the current window will be retransmitted. Suppose we have sent the frame no 5
 we didn't receive the acknowledgment of frame no 1, and the current window is holding
 three frames, then these three frames will be retransmitted.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+acknowledged, so the window has slide to the right three slots, Note that the
+value of Sf is 3 because frame 3 is now the first outstanding frame.The senc¢
+window can slide one or more slots when a valid acknowledgment
+arrives,
+
+Receiver window: variable Rn (receive window, next frame expected) .
+
+The sequence numbers to the left of the window belong to the frames already
+received and acknowledged; the sequence numbers to the right of this window
+define the frames that cannot be received. Any received frame with ¢g
+sequence number in these two regions is discarded, Only a frame with 4
+sequence number matching the value of Rn is accepted and acknowledged
+The receive window also slides, but only one slot at a time, When a correc
+frame is received (and a frame is received only one at a time), the window
+slides,( see below figure for receiving window)
+
+The receive window is an abstract concept defining an imaginary box of size 1
+with one single variable Rn, The window slides when a correct frame has
+arrived; sliding occurs one slot at a time
+
+Ay Receive window, next frame expected
+
+Frames already received | Frames that cannot be received
+
+and acknowled ged until the window slides
+
+a. Receve window
+
+fb, Winciow aftgr slictina
+Fig: Receiver window (before sliding (a), After sliding (b))
+
+Timers
+
+Although there can be a timer for each frame that is sent, in our protocol we
+use only one, The reason is that the timer for the first outstanding frame
+always expires first; we send all outstanding frames when this timer expires,
 --- page 19 ---
 Lost Acknowledgement: For example, if the acknowledgement (ACK) for frame 2 is
 lost in transit due to an error, the sender’s behavior depends on the timer status. If the
@@ -16581,6 +19626,24 @@ BL-1   How is transmission media classified ? List advantages and disadvantages 
 SO-1   Q6 a   optical fiber.
 Soln
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 26.22 Using the control connection
+
+Local Local
+code code
+
+NVT ASCII
+
+Control
+connection
+
+Control
+process
+
+process
+
+Client Server
 --- page 22 ---
 Optical Fiber
 Data or information is transmitted as light pulses.Carries more data for longer distances
@@ -16607,6 +19670,20 @@ Q6 b   c. 250 frames per second
 The frame transmission time is 200/200 kbps or 1 ms. – 1M,
 Soln   S = G× e−2 G   : formula of throughput 1 M
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+Transmission
+
+media
+|
+[ |
+Guided Unguided
+(wired) (wireless)
+I l
+Twisted-pair Coaxial Fiber-optic
+
+Free space
+cable cable cable P
 --- page 23 ---
 a. If the system creates 1000 frames per second, this is 1 frame per millisecond. The
 load is 1. In this case
@@ -16670,6 +19747,29 @@ G)= =5+ (−2)+(−2)+(−2)+5=4
 (ii)   Computing Shortest Distance - 2 marks
 Soln   (iii)   Intermediate Steps - 3marks
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+Feature UDP TCP SCTP
+
+Type Connectionless Connection-oriented Connection-oriented
+(association)
+
+Reliability No Yes Yes
+
+Data orientation Message-based Byte-stream Message-based
+
+Ordering No guarantee In-order delivery In-order per stream
+Flow/Congestion Ctrl. No Yes Yes
+
+Multi-streaming No No Yes
+
+Multi-homing No No Yes
+
+Overhead Low Moderate Higher than TCP
+
+Typical Applications Streaming, DNS, gaming Web, file transfer, email Telecom, WebRTC, signaling, 5G
+
+networks
 --- page 25 ---
 (iv)   Original network topology (original diagram) - 1mark
 final shortest path diagram with the corresponding distance values clearly
@@ -16700,6 +19800,33 @@ applications (like TCP/IP traffic), data often arrives in short, rapid bursts. T
 Token Bucket can handle these bursts as long as there are sufficient tokens,
 Soln   utilizing the available network capacity efficiently.
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+Faucet aa
+Host
+
+computer
+
+é
+
+[= Packet
+O
+
+oOo, flow
+oO
+paper ag | O The bucket
+Interface holds
+containing —»~ packets
+a leaky bucket
+Oo “ Regulated
+flow
+
+Water drips out of the ry oO
+hole at a constant rate >
+
+Network
+
+(a) (b)
 --- page 26 ---
 2. Higher Throughput Efficiency: By allowing short bursts, it can better utilize
 the available bandwidth without needing to queue or drop packets immediately,
@@ -17094,6 +20221,21 @@ SO-1
 Q4 a   Construct the IPv6 packet format and explain the purpose of each field
 Soln
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Domain Naming Hierarchy
+
+Root
+Top Level
+com edu | org | other Domain (TLD)
+Regional
+computerhope mit craigslist see
+Local
+support saltlakecity Subdomain
+
+\ Network
+
+support.computerhope.com mit.edu saltlakecity.craigslist.org Result
 --- page 12 ---
 Each packet is composed of a base header followed by the payload. The base header
 occupies 40 bytes, whereas payload can be up to 65,535 bytes of information.
@@ -17132,6 +20274,22 @@ missing segments arrive; IP is unaware of this reordering. In TCP, connection-or
 transmission requires three phases: connection establishment, data transfer, and
 Soln   connection termination.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+1 40bytes | Up to 65,535 bytes '
+t T 1
+
+a. IPv6 packet
+0 a 12 16 24 31
+Version | Traffic class | Flow label
+Payload length | Next header | Hop limit
+cr Source address
+C (128 bits = 16 bytes)
+c Destination address
+
+C (128 bits = 16 bytes)
+
+b. Base header
 --- page 13 ---
 Connection Establishment:
 
@@ -17203,6 +20361,27 @@ SO-1   and examples how the sender and receiver windows move in the following th
 a. Normal transmission (no error)
 Q5 a   b. Lost data frame
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+can be just a control segment as shown in Figure 23.20. If it is only a control seg-
+ment, it consumes only one sequence number.
+
+The FIN segment consumes one sequence number ifit does not carry data.
+
+The server TCP, after receiving the FIN segment, informs its process of the situa-
+tion and sends the second segment, a FIN + ACK segment, to confirm the receipt
+ofthe FIN segment from the client and at the same time to announce the closing of
+the connection in the other direction. This segment can also contain the last chunk
+of data from the server. If it does not carry data, it consumes only one sequence
+number.
+
+The FIN + ACK segment consumes one sequence
+number ifit does not carry data.
+
+The client TCP sends the last segment, an ACK segment, to confirm the receipt of
+the FIN segment from the TCP server. This segment contains the acknowledgment
+number, which is 1 plus the sequence number received in the FIN segment from
+the server. This segment cannot carry data and consumes no sequence number:
 --- page 16 ---
 c. Lost acknowledgment (ACK)
 Analyze how retransmission and window shifting occur in each case to ensure reliable
@@ -17281,6 +20460,44 @@ in the current window will be retransmitted. Suppose we have sent the frame no 5
 we didn't receive the acknowledgment of frame no 1, and the current window is holding
 three frames, then these three frames will be retransmitted.
 ********** 18 **********
+
+[Text in pictures on this page, read by OCR]
+acknowledged, so the window has slide to the right three slots, Note that the
+value of Sf is 3 because frame 3 is now the first outstanding frame.The senc¢
+window can slide one or more slots when a valid acknowledgment
+arrives,
+
+Receiver window: variable Rn (receive window, next frame expected) .
+
+The sequence numbers to the left of the window belong to the frames already
+received and acknowledged; the sequence numbers to the right of this window
+define the frames that cannot be received. Any received frame with ¢g
+sequence number in these two regions is discarded, Only a frame with 4
+sequence number matching the value of Rn is accepted and acknowledged
+The receive window also slides, but only one slot at a time, When a correc
+frame is received (and a frame is received only one at a time), the window
+slides,( see below figure for receiving window)
+
+The receive window is an abstract concept defining an imaginary box of size 1
+with one single variable Rn, The window slides when a correct frame has
+arrived; sliding occurs one slot at a time
+
+Ay Receive window, next frame expected
+
+Frames already received | Frames that cannot be received
+
+and acknowled ged until the window slides
+
+a. Receve window
+
+fb, Winciow aftgr slictina
+Fig: Receiver window (before sliding (a), After sliding (b))
+
+Timers
+
+Although there can be a timer for each frame that is sent, in our protocol we
+use only one, The reason is that the timer for the first outstanding frame
+always expires first; we send all outstanding frames when this timer expires,
 --- page 19 ---
 Lost Acknowledgement: For example, if the acknowledgement (ACK) for frame 2 is
 lost in transit due to an error, the sender’s behavior depends on the timer status. If the
@@ -17352,6 +20569,24 @@ BL-1   How is transmission media classified ? List advantages and disadvantages 
 SO-1   Q6 a   optical fiber.
 Soln
 ********** 21 **********
+
+[Text in pictures on this page, read by OCR]
+Figure 26.22 Using the control connection
+
+Local Local
+code code
+
+NVT ASCII
+
+Control
+connection
+
+Control
+process
+
+process
+
+Client Server
 --- page 22 ---
 Optical Fiber
 Data or information is transmitted as light pulses.Carries more data for longer distances
@@ -17378,6 +20613,20 @@ Q6 b   c. 250 frames per second
 The frame transmission time is 200/200 kbps or 1 ms. – 1M,
 Soln   S = G× e−2 G   : formula of throughput 1 M
 ********** 22 **********
+
+[Text in pictures on this page, read by OCR]
+Transmission
+
+media
+|
+[ |
+Guided Unguided
+(wired) (wireless)
+I l
+Twisted-pair Coaxial Fiber-optic
+
+Free space
+cable cable cable P
 --- page 23 ---
 a. If the system creates 1000 frames per second, this is 1 frame per millisecond. The
 load is 1. In this case
@@ -17441,6 +20690,29 @@ G)= =5+ (−2)+(−2)+(−2)+5=4
 (ii)   Computing Shortest Distance - 2 marks
 Soln   (iii)   Intermediate Steps - 3marks
 ********** 24 **********
+
+[Text in pictures on this page, read by OCR]
+Feature UDP TCP SCTP
+
+Type Connectionless Connection-oriented Connection-oriented
+(association)
+
+Reliability No Yes Yes
+
+Data orientation Message-based Byte-stream Message-based
+
+Ordering No guarantee In-order delivery In-order per stream
+Flow/Congestion Ctrl. No Yes Yes
+
+Multi-streaming No No Yes
+
+Multi-homing No No Yes
+
+Overhead Low Moderate Higher than TCP
+
+Typical Applications Streaming, DNS, gaming Web, file transfer, email Telecom, WebRTC, signaling, 5G
+
+networks
 --- page 25 ---
 (iv)   Original network topology (original diagram) - 1mark
 final shortest path diagram with the corresponding distance values clearly
@@ -17471,6 +20743,33 @@ applications (like TCP/IP traffic), data often arrives in short, rapid bursts. T
 Token Bucket can handle these bursts as long as there are sufficient tokens,
 Soln   utilizing the available network capacity efficiently.
 ********** 25 **********
+
+[Text in pictures on this page, read by OCR]
+Faucet aa
+Host
+
+computer
+
+é
+
+[= Packet
+O
+
+oOo, flow
+oO
+paper ag | O The bucket
+Interface holds
+containing —»~ packets
+a leaky bucket
+Oo “ Regulated
+flow
+
+Water drips out of the ry oO
+hole at a constant rate >
+
+Network
+
+(a) (b)
 --- page 26 ---
 2. Higher Throughput Efficiency: By allowing short bursts, it can better utilize
 the available bandwidth without needing to queue or drop packets immediately,
@@ -17638,6 +20937,17 @@ b   [10]
 Given a network topology, apply Dijkstra algorithm on the following graph and find
 the shortest path from the source node ‘A’
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+UDP Header Format
+
+8 bytes
+
+Source port number Destination port number
+16 bits 16 bits
+
+Total length Checksum
+16 bits 16 bits
 --- page 4 ---
 B   C   D   E   F
 A   3   5   9   ∞   ∞
@@ -17765,6 +21075,25 @@ Write a short note on Address Resolution Protocol.
 • Resolves IP addresses to MAC addresses in a local area network.
 c   [5]
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Hardware Type Protocol Type
+
+Hardware Protocol Operation
+length length Request 1, Reply 2
+Sender hardware address
+
+(For example, 6 bytes for Ethernet)
+
+Sender protocol address
+(For example, 4 bytes for IP)
+
+Target hardware address
+(For example, 6 bytes for Ethernet)
+(It is not filled in a request)
+
+Target protocol address
+(For example, 4 bytes for IP)
 ````
 
 ## 2024-25 · Re-Exam · Sem 1 · Answer key · paper c64d19d37490
@@ -17889,6 +21218,62 @@ Explain how the Link State Routing Algorithm operates and describe its key
 b   components.   [10]
 [2 marks each]
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Key Tce uDP
+
+It is a communications protocol, using which the _ It is same as the TCP protocol except
+
+data is transmitted between systems over the this doesn’t guarantee the error-
+
+Definition network. In this, the data is transmitted in the checking and data recovery. If you use
+form of packets. It includes error-checking, this protocol, the data will be sent
+guarantees the delivery and preserves the order continuously, irrespective of the issues
+of the data packets. in the receiving end.
+
+Design TCP is a connection-oriented protocol. UDP is a connectionless protocol.
+
+TCP is more reliable as it provides error UDP, on the other hand, provides only
+checking support and also guarantees delivery basic error checking support using
+
+of data to the destinat
+
+n router, checksum. So, the delivery of data to
+the destination cannot be guaranteed in
+UDP as in case of TCP.
+
+Data In TCP, the data is transmitted in a particular There is no sequencing of data in UDP
+a sequence which means that packets arrive in- order to implement ordering it has to be
+transmission ;
+order at the receiver. managed by the application layer.
+TCP is slower and less efficient in performance UDP is faster and more efficient than
+Performance —_ as compared to UDP. Also TCP is heavy-weight ToP.
+as compared to UDP.
+Retransmission Retransmission of data packets is possible in Retransmission of packets is not
+TCP in case packet get lost or need to resend. possible in UDP.
+The Transmission Control Protocol has a In UDP, there is no data sequencing.
+
+function that allows data to be sequenced
+(TCP). This implies that packets arrive at the
+recipient in the sequence they were sent.
+
+ation layer must control the
+necessary.
+
+Sequencing
+
+TCP uses a variable-length (20-60) bytes UDP has a fixed-length header of 8
+
+Header size cader. bytes.
+
+Handshakes such as SYN, ACK, and SYNACK are _ It's a connectionless protocol, which
+
+Handshake ced. means it doesn’t require a handshake.
+Broadcasting _ Broadcasting is not supported by TCP. Broadcasting is supported by UDP.
+HTTP, HTTPs, FTP, SMTP, and Telnet use TCP. DNS, DHCP, TFTP, SNMP, RIP, and VoIP
+Examples
+
+use UDP.
 --- page 4 ---
 1. discover neighbors
 2. calculate delay
@@ -17923,6 +21308,21 @@ b   [10]
 Disadvantages:
 •   Susceptible to interference, security issues.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Congestion
+control
+
+Open-loop Closed-loop
+
+-— Retransmission policy /+-—— Back pressure
+Window policy Choke packet
+
+-—— Acknowledgment policy /-—— Implicit signaling
+
++— Discarding policy L—— Explicit signaling
+
+-—— Admission policy
 --- page 5 ---
 Q7
 Explain SMTP AND FTP protocols.
@@ -17942,4 +21342,38 @@ c.   [05]
 DHCP: Dynamic Host Configuration Protocol, dynamically assigns IP addresses to
 hosts in a network.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Station has Start
+K: Number of attempts a frame to send
+
+Tp? Maximum propagation time
+T;,: Average transmission time fora frame
+Tg: Back-off time K=0 }
+
+Apply one of the
+persistence methods
+(1-persistent, nonpersistent,
+or p-persistent)
+
+Eligible for transmission
+
+Wait Tg time (Transmission done) or \\Yes
+(Tg=Rx T, or Rx Ty) (Collision detected)
+
+No
+Choose a random Transmit
+number R between and receive
+
+Oand 2%-1
+
+Ld
+No _......
+
+Kmaxis Kok 7 Senda Yes “Collision
+normally 15 id K=K+1 jamming signal detected?
+
+Yes No
+
+© Abort GC Success
 ````

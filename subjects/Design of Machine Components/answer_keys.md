@@ -9,7 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_Mechatronics_7004/Design of Machine Components/ANS_Design of Machine Components(702MH0E003)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 03 Dec 2025
 - Text: mixed (8 pages), mean OCR confidence 83.8
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -40,6 +40,42 @@ SO-2;   (b)   [05]
 BL-3
 2.5 marks each
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Hole basis system. When the hole is kept as a constant member (i.e. when the lower deviation
+of the hole is zero) and different fits are obtained by varying the shaft size, as shown in Fig. 3.6 (a),
+then the limit system is said to be on a hole basis.
+
+Shaft basis system. When the shaft is kept as a constant member (i.e. when the upper deviation
+of the shaft is zero) and different fits are obtained by varying the hole size, as shown in Fig. 3.6 (D),
+then the limit system is said to be on a shaft basis.
+
+1. Clearance fit. 2. Transition fit. 3. Interference fit.
+(a) Hole basis system. (b) Shaft basis system.
+
+Step I Permissible tensile stress
+Ss
+
+=—t = 380 _ 126.67 N/mm?
+CAS) 3
+
+Step I Preload in bolts
+The torque transmitted by the shaft is given by,
+_ 60x10°(KW) — 60 x 10°(50)
+‘ 2nn 27 (300)
+= 1591 549.4 N-mm
+2 (R3— RF) _ 2 ao0* — 75%)
+
+co,
+
+= sx SES = 88.1mm
+‘3 (R?—R?) 3 G00? —757)
+From Eq. (9.43),
+
+M, _ 1591 549.4 = 20 072.51N
+
+PB = =
+uN R,   0.15(6)(88.1)
 --- page 2 ---
 CO-3;
 SO-2;   (c)   [05]
@@ -82,6 +118,25 @@ standardization (1 mark).
 • Documentation   to production:   detailed   drawings/specifications,
 QC/inspection intent (1 mark)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Convert and compute:
+« P=10kW = 10,000 W
+« N=400rpm
+
+P-60 10,000 x 60 600,000 750
+- - - — 150 ~ 938.7324 N\cdotpm.
+DaN On x 400 800m mY 288-7824 N\cdotpm
+
+Step 2 — shaft diameter from shear stress
+Using T = ae TD with 7 = 40 MPa = 40 x 10° Pa,
+16T _ 16 x 238.7324
+
+3
+= “ar «x 40 x 105
+
+w 3.040 x 107° m3,
+
 --- page 3 ---
 7
 1. Diameter of bolts
@@ -169,6 +224,46 @@ SO-1;
 BL-2
 7.5 marks for points and 2.5 marks for diagram labelled
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Component Dimension Symbol Design Value (mm)
+
+Solid Rod Diameter of Solid Rod d 56
+Knuckle Pin Diameter of Pin dy 56
+Eye & Fork Outer Diameter of JointHead dp 112
+Single Eye Thickness of Single Eye t 70
+Fork End Thickness of Fork Leg ty 42
+Pin Head Collar Diameter d; 84
+
+Pin Head Thickness ty 28
+
+Term Definition Importance
+
+(i) Pitch It is the diameter of the imaginary circle, This is the basis for all gear design
+Circle called the pitch circle, that rolls without calculations, including speed ratio and
+Diameter (D) slipping when a pair of gears mesh tooth proportions (e.g., module).
+together.
+The point of contact between the pitch It is the theoretical point where pure
+circles of two mating gears. It lies on the rolling contact occurs. The velocity ratio
+line joining the centers of the two gears. of the gear pair is inversely proportional
+to the pitch circle radii measured at this
+point.
+iii) Pressure The angle between the common It dictates the magnitude and direction of
+Angle (@) normal (line of action or pressure line) at the force transmitted between the gear
+the point of contact and the common teeth. A standard angle (e.g., 20°) is
+tangent to the pitch circles (or the chosen to balance smooth operation,
+tangent to the pitch circles at the pitch strength, and minimal interference.
+point).
+(iv) The radial distance from the pitch circle This defines the portion of the tooth that
+Addendum (a to the top land (outermost surface) of enters the mating gear's space and
+) the tooth. ensures proper tooth contact across the
+full working depth.
+Ww The radial distance from the pitch circle This defines the clearance space below
+Dedendum(b _ to the bottom land (innermost surface) the pitch circle and provides working
+) of the tooth. clearance (or “backlash") between the
+
+mating tooth tips and the root of the
+engaging gear.
 --- page 5 ---
 Q5
 CO-2;
@@ -183,6 +278,67 @@ SO-2;
 BL-4
 table for 4 marks, rest details point wise 6 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Addendum
+Circle
+
+Addendum
+
+Clearance.
+Pitch Circle
+
+Root Circle
+
+Face
+
+ie
+
+Dedendum
+
+Space Width
+
+Cire ular
+Thickness
+
+Face
+
+Flank
+ta Fillet
+
+Failure Mode Formula Calculation Strength (P)
+Tearing (P,) P,=(p—d)to, (60—20)x 15120 72,000 N(72kN)
+Shearing (P,) P, = 3d?r = (20)? x 90 28, 274 N (28.27 kN)
+
+Crushing (P.) P. = dto, 20 x 15 x 160 48, 000 N (48 KN)
+
+28.14 Minimum Number of Teeth on the Pinion in Order to Avoid
+Interference
+We have seen in the previous article that the interference may only be avoided, if the point of
+contact between the two teeth is always on the involute profiles of both the teeth. The minimum
+number of teeth on the pinion which will mesh with any gear (also rack) without interference are
+given in the following table.
+
+Table 28.2. Minimum number of teeth on the pinion in order to avoid interference.
+
+S.No. Systems of gear teeth Minimum number of teeth on the pinion
+if 14° Composite 12
+2 1414’ Full depth involute 32
+Ki 20° Full depth involute 18
+4. 20° Stub involute 14
+
+The number of teeth on the pinion (7,) in order to avoid interference may be obtained from the
+following relation :
+
+2
+T, = Ay
+G tet {E 2} sin?o -1
+G\G
+where Ay, = Fraction by which the standard addendum for the wheel should be
+
+multiplied,
+G = Gear ratio or velocity ratio = T.,/ T, = Dg! Dp,
+= Pressure angle or angle of obliquity.
 --- page 6 ---
 Parameter Symbol Formula Calculation Design Value (mm)
 
@@ -246,6 +402,77 @@ BL-4   Essential Belt Material Characteristics
 For effective power transmission, belt materials must possess the following
 desirable properties:
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+(EW enax, = Fg (EW)
+iii) Calculate the angle of wrap for the smaller
+pulley by the following relationship:
+D- #)
+2c
+Find out the arc of contact factor F, from
+Table 13.2.
+Calculate the corrected power by the
+following relationship:
+(KW corected = (KW max, % Fur
+(v) Calculate the corrected power rating for the
+belt by the following relationships:
+For HI-SPEED belt,
+
+ce, = 180— 2sin*(
+
+Corrected kW rating = O-0118v
+(5.08)
+
+For FORT belt,
+
+Corrected kW rating = O.014ATy
+(35.08)
+
+where v is the correct belt velocity in m/s.
+
+wi) Calculate the product of (width * number of
+plies) by dividing the corrected power by the
+corrected KW rating. Or,
+
+(Width = N. fpli corrected power
+* No. of plies) = corrected belt rating
+
+_ OW) corectea
+Corrected kW rating of belt
+
+Gi) Calculate the diameter of each shaft by the
+following equations:
+60 °
+x10°%CKW) gf 16M,
+27n a d*
+Gi) Calculate the dimensions of the sleeve by the
+following empirical equations,
+D=(2d+13)mm and L=3.5da
+Also, check the torsional shear stress induced in
+the sleeve by the following equations:
+
+Mor 4 44
+p- Me "= a*) r-2
+
+M=
+
+t
+
+(iii) Determine the standard cross-section of flat
+sunk key from Table 9.3. The length of the
+key in each shaft is one-half of the length of
+the sleeve. Therefore,
+
+L
+‘~3
+With these dimensions of the key, check the
+shear and compressive stresses in the key by Eqs
+(9.27) and (9.28) respectively.
+p= 2M d o= ——
+abr dhl
+The shafts and key are made of plain carbon
+steel. The sleeve is usually made of grey cast iron
+of Grade FG 200.
 --- page 8 ---
 1. High Coefficient of Friction (μ): The material needs a high μ with the
 pulley surface to maximize the tractive effort (grip) and minimize slip,
@@ -294,7 +521,7 @@ for a given power requirement.
 - Source: `02_Question_Papers/2025/Sem_05/Re-Exam/BTech_Mechatronics_7004/Design of Machine Components/ANS_Design of Machine Components(702MH0E003)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Feb 2026
 - Text: mixed (8 pages), mean OCR confidence 78.7
-- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -321,6 +548,43 @@ SO-2;
 (a)   [05]
 BL-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Bus Body Design Process: Comfort-Centric (Expanded Stages)
+
+1. NEED 2. PRELIMANARY NEED STATEMENT
+(Problem Identification) (Challenge: “70 Passengers, MAX Comfort")
+
+Phase 1: Discovery & Concept
+
+Engonomics/NVH/
+i equrements f 4
+4. GENERATION OF IDEAS (Brainbstoming, Sketching, CAD Concepts)
+(Brainbeeming, CA Comocris)
+
+$ J ¥
+Seating ‘Structural lL ‘Structural Frame
+Layout Optiorts. Frame Concepts
+
+[es Festi? | no >< es >
+
+Phase 2: Detailed Design & Refinment
+
+5. DETAILED DESIGN DRAWING 6. PROTOPYING & TESTING
+(3D CAD Modeling, Component Specs)! idate
+
+Structural FEA || NVH Simulation
+
+ere a
+
+| Ergonomics/Access. DESIGN/Durration
+Comfort & RETEST.
+
+[ HVAC Simulation }+| Desien Approved? |
+
+Engenonomics/Access. Te 7. DESIGN MODIFICATION 8. REPORTING & DOCUMETATION
+(Bulg, ren See | & RETEST [ (Final Specs, Manuals)
+END: Manufacturing Release
 --- page 2 ---
 CO-2;
 SO-2;   (b)   [05]
@@ -358,6 +622,40 @@ fatigue) and safely meet the required functional performance (strength, rigidity
 failure.
 iv. Preferred Series
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Calculate Torque (J): P — 150 H.P. = 111,900 W.
+
+— Px60 _ g 10 =
+T — £x60 — 11190060 ~ 3561.89 N - m — 3,561,888 N- mm.
+
+Strength Criterion (7, — 40 N/mm”): d? — 182
+
+Tall”
+
+3 _ 163561888 3
+d? <a: 453,514 mm”.
+
+d, — ¥/453514 ~ 76.83 mm.
+
+Rigidity Criterion (9 — 1° in L — 20d): d} _ Sar
+
+Prag = 1° x (7/180) = 0.01745 rad.
+dj = aaOBe id} coors © 519,688 mm’.
+dp = W/519688 ~ 80.40 mm.
+
+Final Diameter: The larger value governs: d — 80.40 mm.
+
+The number of teeth on the pinion (Tp) is 30, and the number of teeth on the gear (Ti) is 135.
+1. Total Teeth (Tp + To): Team = Seer Distance _ 2405 _ 165,
+
+2. Ratio(G): Ty, = 4.5-Tp.
+
+3. Pinion Teeth (T’p): Substitute Tp(1 + 4.5) = 165 == 5.5-Tp = 165.
+
+4. Tp = 165/5.5 = 30.
+
+5. Gear Teeth (Ty;): Ty = 4.5 x 30 = 135.
 --- page 3 ---
 Preferred Series (like the Renard series, R10, R20) are standardized, geometrically progressive
 sequences of numbers used to select and specify dimensions, capacities, and ratings for machine
@@ -381,6 +679,54 @@ CO-3;
 SO-2;
 BL-3
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Given kKW=20 9» =720rpm
+For bolts, §,,=380 N/mm? (jfs)=3
+
+O=125 mm N=4
+
+Step I Permissible shear stress
+
+Sy. = 0.577 S,, = 0.577 (380) = 219.26 Nimm?
+Sy 219.26
+
+T=—_H
+(is)
+
+Step IT Diameter of bolts
+
+The torque transmitted by the shaft is given by,
+
+60x 10°(KW) 60 10°(20)
+a 2an ~ -n(720)
+= 265 258.23 N-mm
+From Eq. (9.46),
+> 8M, 8(265 258.23)
+'“mDNt — x(125)(4)(73.09)
+d@, =43 mm
+
+= 73.09 N/imm*
+
+Solution. Given : M = 3000 N-m = 3 x 108 N-mm; T= 10 000 N-m = 10 x 108 N-mm;
+G,,= 700 MPa = 700 N/mm?; 1, = 500 MPa = 500 N/mm?
+We know that the allowable tensile stress,
+
+©, _ 700 2
+6,06, = Bo — = 116.7 N/mm‘
+and allowable shear stress,
+a =O 53.3 imme
+“Fs 6000
+Let d = Diameter of the shaft in mm.
+
+According to maximum shear stress theory, equivalent twisting moment,
+
+T, = {M? +7? = Jf(3x10°) + (10x 10%)? = 10.44 x 10°N-mm
+
+We also know that equivalent twisting moment (7),
+
+10.44 x 10° = xix d = 2x 833% a° = 16.36 a?
+
 --- page 4 ---
 According to maximum normal stress theory, equivalent bending moment,
 
@@ -540,6 +886,44 @@ BL-3   Ease of Manufacturing and Tolerance to Center Distance Variations:
 • They are also easier to cut and standardize, making manufacturing more practical.
 5 marks for each
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+3, Determination of Beam Strength (Fy);
+
+e Determine the
+
+f beam Strength.
+equation,
+
+‘Fo’ of gear tooth in terms. of module ‘m’ by using
+F = O,:bem-y
+¢ It is important to note that,
+
+of the pinion and gear teeth,
+
+4, Determination of Wear Strength (Fw):
+
+ofa)
+
+the beam strength « Fy’ should be determined for the weaker
+
+e Determine the wear Strength
+
+: ‘Fw’ of the gear tooth in terms of module ‘m’ by using
+equation,
+
+Fy = dpb: Q-K wb)
+Determination of Design Criterion :
+
+¢ If Fy <Fw : Gear pair is weaker in bending and it should be designed for safety
+against bending failure,
+
+¢ — If Fw <Fb : Gear pair is weaker in wear and it should be designed for safety against
+wear failure,
+
+Determination of Effective Load (For) :
+
+Determine effective load ‘Fe’ in terms of module ‘m’ by using equation,
 --- page 7 ---
 Q6
 CO-5;
@@ -556,6 +940,81 @@ CO-5;   Feature   Limitation
 SO-4;   (b)   Efficiency   Slightly lower than flat belts due to more bending and internal friction in belt body.   [10]
 BL-4   Wear   Wedge shape can wear pulley grooves faster than flat belts.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+(iii) Plot a point with design power as .Y co-
+ordinate and input speed as ¥ co-ordinate in
+Fig. 13.24. The location of this point decides
+the type of cross-section of the belt. In a
+borderline case, such as the point located
+on the borderline of cross-sections & and C,
+alternative calculations are made to find out
+the best cross-section.
+
+(iv) Determine the recommended pitch diameter
+of the smaller pulley from Table 13.12. It
+depends upon the cross-section of the belt.
+Calculate the pitch diameter of the bigger
+pulley by the following relationship:
+
+Ded speed of smaller pulley
+7 speed of bigger pulley
+
+d input speed
+- output speed
+The above values of .D and @ are compared
+with the preferred pitch diameters given in
+Table 13.13. In case of non-standard value,
+the nearest values of @ and DP should be
+taken from Table 13.13.
+(v) Determine the pitch length of belt £ by the
+following relationship,
+aD +d) | (D-day
+4c
+
+(vi) Compare the above value of £ with the
+preferred pitch length £ in Table 13.14. In
+case of a non-standard value, the nearest
+value of pitch length from Table 13.14
+should be taken.
+
+(vii) Find out the correct centre distance C by
+substituting the above value of 1 in the
+following equation:
+
+aD +d) (D-ay
+
+2 4c
+
+It is a quadratic equation in C.
+
+(viii) Determine the correction factor (F.) for belt
+pitch length from Table 13.21. It depends
+upon the type of cross-section and the pitch
+
+1. wh ee. Lek
+
+£h=2C+
+
+h=2C+
+
+P-60
+Torque T = —— = 663,145.6 N\cdotpmm.
+2nN
+
+Allowable shear (shaft/key): Tatiow,steel © 50 N/mm? (per your arithmetic ~50.54 N/mm’),
+
+Required shaft dia = 40.73 mm — select 45 mm (standard).
+
+Sleeve: inner dia = d + 2 = 47 mm (you used 45-42 earlier; with your chosen 45 mm shaft you
+computed D = 2d + 13 = 103 = take 105 mm OD), sleeve length L = 3.5d ~ * * 160mm * *.
+
+Key: standard for 45 mm shaft + 14 x 9 mm, length 1 = L/2 = 80 mm = 14 x 9 x 80 mm.
+
+Stress checks (from your steps): torsional shear in sleeve = 3.02 N/mm’ < allowable 16.67 N/mm’, key
+shear = 26.32 N/mm? < allowable 50 N/mm’, key compressive = 81.87 N/mm? < allowable 100 N/mm’.
+
+Design is safe.
 --- page 8 ---
 Cost   V-belts and grooved pulleys are more expensive than flat belts.
 Maintenance More difficult to repair; replacement is more costly than flat belts.

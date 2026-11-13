@@ -67,6 +67,41 @@ BL-3
 Data From ST Table: 1 Mark, Vsup-2 Marks, Internal Energy-2 Marks, Enthalpy- 2 Marks,
 Change in Internal Energy-3 Marks
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Solution. At 10 bar, 300°C. From steam tables for superheated steam.
+hyp = 3051.2 kJ/kg (T,,,, = 300 + 273 = 573 K)
+and corresponding to 10 bar (from tables of dry saturated steam)
+T, = 179.9 + 273 = 452.9 K; v, = 0.194 m/kg
+
+To find v using the relation,
+
+sup.?
+
+Ug _ Vsup
+I; Loup
+_%% Toy 0.194573 _ oye ona
+5 = = =U. m .
+Pow = 4529 nk
+
+s
+
+Internal energy of superheated steam at 10 bar,
+uy, = Raup — Pe sup
+= 3051.2 — 10 x 10° x 0.245 x 10°
+= 2806.2 kJ/kg. (Ans.)
+At 1.4 bar. From steam tables ;
+h, = 458.4 kJ/kg, h,, = 2231.9 kJ/kg ; v, = 1.236 mi/kg
+Enthalpy of wet steam (after expansion)
+h=h,+ xh,
+= 458.4+ 08 x 2231.9 = 2243.92 kJ.
+Internal energy of this steam,
+u,=h — px,
+= 2243.92 —14 x 10° x 0.8 x 1.236 x 10?
+= 2105.49 kJ
+Hence change of internal energy per kg
+Uy — U, = 2105.49 — 2806.2
+=— 700.7 kJ. (Ans.)
 --- page 3 ---
 Q4   a   Expression for efficiency of Reversible Heat Engine- 7 Marks.   10
 CO3,   Corollaries of Carnot theorem- 3 Marks
@@ -79,6 +114,33 @@ Q5   a   Expression for Principle of increase of entropy- 6 Marks   10
 CO5,   Clausius inequality- 4 Marks.
 BL-4
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+u = 3.64 pu + 90
+
+Aw =U,— WU,
+
+= 3.64 (p,v, — pyv,) .-per ke
+A U=3.64 (p,V, — p,V,) . for 3.5 keg
+pV = P,V,18
+V125
+fn \W125
+V,=V,) 22 = 0.25 =
+
+= 0.906 m®
+
+W = | paV = B= Pe
+n-1
+_ (800 x 108 x 0.25 - 100 10° x 0.906) 125-90.6
+(1.25 — 1) 0.25
+
+kJ = 137.6 kJ
+
+Q=AU+ W
+
+=- 126.24 187.6 = 124k)
+Q@=12.4 kJ. (Ans.)
+Q=32 kJ
 --- page 4 ---
 CO3, b   10
 BL-4
@@ -96,6 +158,26 @@ CO2,   i.   Equation of State, (4 Marks)
 BL-2   ii.   Van der Walls Equation of State (3 Marks)
 iii.   Law of corresponding states (3 Marks)
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Qs _ @ _ @-@,_ _@3   _ Q-Q3
+
+694 T 694-T 277.4 T-277.4
+Hence Q: — Q2 = 2 We
+Q2 — Q3 = We
+2 1
+694-T T-277.4
+
+or 2T — 277.4 x 2=694-T
+or T= 416.27 K= 143.27°C
+
+(o) 7, = 40%
+m = 1-214 = 33.36%
+2 16.27
+(©) Qe= 416-27 cooks = 119.96 kJ;
+Qi = 277-4 119.96 = 79.94 kJ
+
+416.27
 --- page 5 ---
 C04,
 BL-2
@@ -291,6 +373,54 @@ Marks)
 Q4   a Prove the equivalence of the following statements of 2nd law of thermodynamics.   10
 CO3,   i.   Kelvin-Planck to Clausius Statement (5 Marks)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Solution. t=ahnp+b
+On Celsius seale :
+Ice point = 0°C, and
+Steam point = 100°C
+.. From given conditions, we have
+O=an15+6
+100=aln75+5
+O=axO04054+ 5
+100=a «2015+ 5
+Subtracting (ii) from (iv), we get
+100 = 1.61la
+a = 62.112
+Substituting this value in eqn. (iii), we get
+6 =—-— 04054 x 62.112= — 25.18
+When p = 3.5 the value of temperature is given by
+¢ = 62.112 In (3.5) — 25.18= 52.63°C.
+
+Volume of liquid, Vp=m,v,=9 » 0,0012512 = 0.01126 mi
+
+Volume of vapour, yo = 0.04 — 0.01126 = 0.02874 mi
+
+~, Mass of vapour
+
+Vv 2
+m= —& = 202874 _ 9 575 kg
+Vy 0.035013
+
+.. Total mass of mixture,
+m=m,+ m= 9 + 0.575 = 9.575 kg
+Quality of mixture,
+
+i)
+y= — 8 = 957 _ 9.06
+
+Mm, + My 9.575
+v =v, + xv, = 0.00125 12 + 0.06 (0.05013 — 0.0012512)
+= 0.00418 m3/ke
+h=h, +xhe = 1085.36 + 0.06 1716.2 = 1188.32 kI/kg
+
+8 = 5,4 Seq = 2.7927 + 0.06 x 3.2802 = 2.9895 kI/kg K
+
+u=h— py
+= 1188.32 — 3.973 x 10° x 0.00418 = 1171.72 kI/ke
+Also, at 250°C, u,= 1080.39 and eg = 1522.0 kI/ke
+
+u=u, + Xu, = 1080.39 + 0.06 x 1522 = 1071.71 ki/kg
 --- page 4 ---
 BL-2   ii.   Clausius Statement to Kelvin-Planck (5 Marks)
 CO3,   b   10
@@ -472,6 +602,54 @@ Marks)
 Q4   a Prove the equivalence of the following statements of 2nd law of thermodynamics.   10
 CO3,   i.   Kelvin-Planck to Clausius Statement (5 Marks)
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Solution. t=ahnp+b
+On Celsius seale :
+Ice point = 0°C, and
+Steam point = 100°C
+.. From given conditions, we have
+O=an15+6
+100=aln75+5
+O=axO04054+ 5
+100=a «2015+ 5
+Subtracting (ii) from (iv), we get
+100 = 1.61la
+a = 62.112
+Substituting this value in eqn. (iii), we get
+6 =—-— 04054 x 62.112= — 25.18
+When p = 3.5 the value of temperature is given by
+¢ = 62.112 In (3.5) — 25.18= 52.63°C.
+
+Volume of liquid, Vp=m,v,=9 » 0,0012512 = 0.01126 mi
+
+Volume of vapour, yo = 0.04 — 0.01126 = 0.02874 mi
+
+~, Mass of vapour
+
+Vv 2
+m= —& = 202874 _ 9 575 kg
+Vy 0.035013
+
+.. Total mass of mixture,
+m=m,+ m= 9 + 0.575 = 9.575 kg
+Quality of mixture,
+
+i)
+y= — 8 = 957 _ 9.06
+
+Mm, + My 9.575
+v =v, + xv, = 0.00125 12 + 0.06 (0.05013 — 0.0012512)
+= 0.00418 m3/ke
+h=h, +xhe = 1085.36 + 0.06 1716.2 = 1188.32 kI/kg
+
+8 = 5,4 Seq = 2.7927 + 0.06 x 3.2802 = 2.9895 kI/kg K
+
+u=h— py
+= 1188.32 — 3.973 x 10° x 0.00418 = 1171.72 kI/ke
+Also, at 250°C, u,= 1080.39 and eg = 1522.0 kI/ke
+
+u=u, + Xu, = 1080.39 + 0.06 x 1522 = 1071.71 ki/kg
 --- page 4 ---
 BL-2   ii.   Clausius Statement to Kelvin-Planck (5 Marks)
 CO3,   b   10

@@ -14,12 +14,14 @@ Every past question paper in the archive as text, organised by subject and depar
 
 ## Coverage
 
-- 1,208 subjects in 29 departments.
-- 17,179 question papers and 3,368 answer keys read: 40,891 pages from the PDF text layer and 40,355 scanned pages by OCR.
-- 255,005 questions and sub-questions extracted; 186,801 with marks. 15,957 papers (93%) split into 3 or more questions; the rest are kept as full text in papers.md.
-- 134 question papers have low OCR quality (mostly handwritten 2004-2010 papers or poor scans); they and their questions are marked `text_quality: low`.
-- 836 of these files exist only inside the portal's original ZIP downloads (`00_Original_Downloads/`), never extracted into `02_Question_Papers/`; they are included, with a path of the form `<ZIP> :: <file inside it>` and a `source` ending in "(ZIP download only)".
-- Files with no readable text: 20 (spreadsheet data sets, PDFs the portal serves as unreadable bytes (the archive's own re-download got the same bytes), and PDFs that hold only a portal error message). Their `papers.jsonl` record says which in `text_status`.
+- 1,213 subjects in 29 departments.
+- 17,226 question papers and 3,368 answer keys read: 40,891 pages from the PDF text layer and 40,717 scanned pages by OCR.
+- 255,907 questions and sub-questions extracted; 187,468 with marks. 16,008 papers (93%) split into 3 or more questions; the rest are kept as full text in papers.md.
+- 123 question papers have low OCR quality (mostly handwritten 2004-2010 papers or poor scans); they and their questions are marked `text_quality: low`.
+- 5,700 pages carry text from pictures (OCR of pasted scans, worked solutions and tables on text-layer pages, and of pictures in Word files).
+- 159 scanned pages were sideways or upside down (landscape tables, phone photos); Tesseract's orientation detection found them and they were read turned upright (`pages_turned_upright` in `papers.jsonl`). Damaged PDFs (truncated downloads, a missing page list) are read as far as they go and say so in `damage`.
+- 895 of these files exist only inside the portal's original ZIP downloads (`00_Original_Downloads/`), never extracted into `02_Question_Papers/`; they are included, with a path of the form `<ZIP> :: <file inside it>` and a `source` ending in "(ZIP download only)".
+- Files with no readable text: 12 (PDFs the portal serves encrypted, which the archive's own re-download got the same way, and PDFs that hold only a portal error message); their `papers.jsonl` record says which in `text_status`. Data sets given with a paper (`kind: Dataset`) are included: Word and PDF ones in full, spreadsheets as one page per sheet, in full when small, otherwise the column headings and first rows.
 
 ## questions.jsonl fields
 
@@ -39,7 +41,7 @@ Every past question paper in the archive as text, organised by subject and depar
 
 ## Accuracy
 
-Text-layer papers (most 2024-25 and 2025-26 papers) are extracted exactly. Older papers are scans read by OCR: ordinary text is reliable, but equations, symbols and diagrams are often garbled, and diagrams are not captured. Splitting into questions is automatic; when a layout defeats it, the paper still appears in full in papers.md. Treat question counts and marks as a strong guide rather than an exact record.
+Text-layer papers (most 2024-25 and 2025-26 papers) are extracted exactly; pictures pasted into them (worked solutions, tables, scanned questions; and pictures in Word files) are read by OCR and added after the page text under "[Text in pictures on this page, read by OCR]". Older papers are scans read by OCR: ordinary text is reliable, but equations, symbols and diagrams are often garbled, and diagrams are not captured. Splitting into questions is automatic; when a layout defeats it, the paper still appears in full in papers.md. Treat question counts and marks as a strong guide rather than an exact record.
 
 ## Using it with an AI
 

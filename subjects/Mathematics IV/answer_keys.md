@@ -555,6 +555,15 @@ a.
 (1m)
 1
 **********   **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate the Mean (11)
+
+SOX; 2+34+44+5+6+4+10 30
+
+BON 6 ~ &
+
+=o
 --- page 2 ---
 Mixed Partial Derivative Dydz
 
@@ -1366,6 +1375,15 @@ a.
 (1m)
 1
 **********   **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate the Mean (11)
+
+SOX; 2+34+44+5+6+4+10 30
+
+BON 6 ~ &
+
+=o
 --- page 2 ---
 Mixed Partial Derivative Dydz
 
@@ -2177,6 +2195,15 @@ a.
 (1m)
 1
 **********   **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate the Mean (11)
+
+SOX; 2+34+44+5+6+4+10 30
+
+BON 6 ~ &
+
+=o
 --- page 2 ---
 Mixed Partial Derivative Dydz
 
@@ -2988,6 +3015,15 @@ a.
 (1m)
 1
 **********   **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Calculate the Mean (11)
+
+SOX; 2+34+44+5+6+4+10 30
+
+BON 6 ~ &
+
+=o
 --- page 2 ---
 Mixed Partial Derivative Dydz
 

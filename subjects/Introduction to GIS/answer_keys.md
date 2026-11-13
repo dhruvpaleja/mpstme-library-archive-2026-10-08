@@ -11399,6 +11399,7 @@ FI ICR AC KH
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_DS_7009/Introduction to GIS/ANS_Introduction to GIS(702CI0I007)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2026
 - Text: text (9 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -11482,6 +11483,36 @@ access for hierarchical queries, and data dependency, where child records cannot
 exist without a parent. However, it is less flexible for complex relationships, especially
 many-to-many connections, as it requires data duplication or restructuring.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Ax + By+C
+Dx + Ey +F
+
+map units: meters, feet, other
+
+y
+display units: pixels =|
+
+y
+
+Image space
+
+xis column count in image space. Coordinate space
+
+yis row count in image space.
+x is horizontal value in coodinate space.
+y is vertical value in coordinate space
+
+Ais width of cell in map units.
+
+Bis a rotation term.
+
+Cis the x value of the center of the upper-left cell.
+Dis a rotation term.
+
+Eis negative height of cell in map units.
+
+F is the y value of the center of the upper-left cell.
 --- page 3 ---
 Q2   Answer any (4)
 In ArcGIS Pro, geodatabases are important because they provide a centralized and
@@ -11510,6 +11541,24 @@ b   layers. It affects the geometry of vector features by cutting them wherever 
 and retaining only the shared portion. Step by step, the GIS first takes two or more input
 layers, such as land parcels and utility service zones in a smart city system. It then
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+th Feature Dataset
+Ce)
+
+Collection of feature classes
+
+Hi] Topology
+Terrain Dataset
+I
+
+= Network Dataset
+
+>
+A Trace Network
+
+ri Linear Referencing
+i t System (LRS)
 --- page 4 ---
 compares their geometries, detects where they overlap, and splits the original polygons,
 lines, or points at those overlap boundaries. A new output layer is generated that
@@ -11581,6 +11630,24 @@ near the pole. This projection minimizes distortion in polar regions and provide
 accurate representation of shapes, distances, and terrain features compared to
 cylindrical projections, which heavily distort polar areas.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Difference between Cylindrical, Conical, and Azimuthal Projections
+
+Aspect Cylindrical Projection Conical Projection Azimuthal Projection
+
+Projection Surface Cylinder Cone Plane
+
+Best suited regions Equatorial regions Mid-latitudes Polar regions
+
+Distortion pattern Increases toward poles Minimal along standard Minimal at center point
+parallels
+
+Common example Mercator Lambert Conformal Conic Polar Azimuthal
+
+Shape of graticule Straight meridians & Curved meridians, circular Radiating meridians, concentric
+
+parallels arcs circles
 --- page 6 ---
 The spaghetti data model is a simple vector data structure in which points, lines, and
 polygons are stored as independent geometries without explicit topological
@@ -11614,6 +11681,29 @@ while IoT supplies continuous, real-time data, making the combination powerful f
 applications like urban management, environmental monitoring, and disaster
 response.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+North North
+
+Fits this part of Geoid
+the Earth Geoid (Approx. Mean
+poorly Ss <— (Approx. Mean Seatevel) \.
+Sea Level)
+Centre of the
+Earth's Mass Centre of the
+\ Earth’s Mass
+Equator Equator coincides with
+"\. Centre of Centre of
+Spheroid Spheroid
+
+\
+
+Fits this part of
+the Earth well Elipsoid/Spheroid
+is a best fit to the
+Earth asa whole
+
+South South
 --- page 7 ---
 Story Maps are interactive GIS-based presentations that combine maps, text, images,
 videos, and multimedia to communicate spatial information in a narrative format.
@@ -11770,6 +11860,7 @@ cities.
 - Source: `02_Question_Papers/2025/Sem_06/Re-Exam/BTech_IT_7001/Introduction to GIS/ANS_Introduction to GIS(702CI0I007)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 10 Jul 2026
 - Text: text (9 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -11853,6 +11944,36 @@ access for hierarchical queries, and data dependency, where child records cannot
 exist without a parent. However, it is less flexible for complex relationships, especially
 many-to-many connections, as it requires data duplication or restructuring.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Ax + By+C
+Dx + Ey +F
+
+map units: meters, feet, other
+
+y
+display units: pixels =|
+
+y
+
+Image space
+
+xis column count in image space. Coordinate space
+
+yis row count in image space.
+x is horizontal value in coodinate space.
+y is vertical value in coordinate space
+
+Ais width of cell in map units.
+
+Bis a rotation term.
+
+Cis the x value of the center of the upper-left cell.
+Dis a rotation term.
+
+Eis negative height of cell in map units.
+
+F is the y value of the center of the upper-left cell.
 --- page 3 ---
 Q2   Answer any (4)
 In ArcGIS Pro, geodatabases are important because they provide a centralized and
@@ -11881,6 +12002,24 @@ b   layers. It affects the geometry of vector features by cutting them wherever 
 and retaining only the shared portion. Step by step, the GIS first takes two or more input
 layers, such as land parcels and utility service zones in a smart city system. It then
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+th Feature Dataset
+Ce)
+
+Collection of feature classes
+
+Hi] Topology
+Terrain Dataset
+I
+
+= Network Dataset
+
+>
+A Trace Network
+
+ri Linear Referencing
+i t System (LRS)
 --- page 4 ---
 compares their geometries, detects where they overlap, and splits the original polygons,
 lines, or points at those overlap boundaries. A new output layer is generated that
@@ -11952,6 +12091,24 @@ near the pole. This projection minimizes distortion in polar regions and provide
 accurate representation of shapes, distances, and terrain features compared to
 cylindrical projections, which heavily distort polar areas.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Difference between Cylindrical, Conical, and Azimuthal Projections
+
+Aspect Cylindrical Projection Conical Projection Azimuthal Projection
+
+Projection Surface Cylinder Cone Plane
+
+Best suited regions Equatorial regions Mid-latitudes Polar regions
+
+Distortion pattern Increases toward poles Minimal along standard Minimal at center point
+parallels
+
+Common example Mercator Lambert Conformal Conic Polar Azimuthal
+
+Shape of graticule Straight meridians & Curved meridians, circular Radiating meridians, concentric
+
+parallels arcs circles
 --- page 6 ---
 The spaghetti data model is a simple vector data structure in which points, lines, and
 polygons are stored as independent geometries without explicit topological
@@ -11985,6 +12142,29 @@ while IoT supplies continuous, real-time data, making the combination powerful f
 applications like urban management, environmental monitoring, and disaster
 response.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+North North
+
+Fits this part of Geoid
+the Earth Geoid (Approx. Mean
+poorly Ss <— (Approx. Mean Seatevel) \.
+Sea Level)
+Centre of the
+Earth's Mass Centre of the
+\ Earth’s Mass
+Equator Equator coincides with
+"\. Centre of Centre of
+Spheroid Spheroid
+
+\
+
+Fits this part of
+the Earth well Elipsoid/Spheroid
+is a best fit to the
+Earth asa whole
+
+South South
 --- page 7 ---
 Story Maps are interactive GIS-based presentations that combine maps, text, images,
 videos, and multimedia to communicate spatial information in a narrative format.

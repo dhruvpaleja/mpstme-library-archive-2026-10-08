@@ -943,6 +943,25 @@ BL-6
 CO-3;   b. What is defuzzification. Provide a brief explanation of different methods of   [5]
 SO-1;   defuzzification.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Day Outlook Temperature Humidity Wind   PlayTennis
+
+DI Sunny Hot High Weak No
+D2 Sunny Hot High Strong No
+D3 Overcast Hot High Weak Yes
+D4 Rain Mild High Weak Yes
+DS Rain Cool Normal Weak Yes
+D6 Rain Cool Normal _ Strong No
+D7 — Overcast Cool Normal Strong Yes
+D8 Sunny Mild High Weak No
+D9 Sunny Cool Normal Weak Yes
+DIO Rain Mild Normal Weak Yes
+Dil Sunny Mild Normal _ Strong Yes
+D12 Overcast Mild High Strong Yes
+DI3 Overcast Hot Normal Weak Yes
+
+D14 Rain Mild High Strong No
 --- page 4 ---
 BL-2
 Q7   i. Briefly explain Logistic Regression as a binary classifier

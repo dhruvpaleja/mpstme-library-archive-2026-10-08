@@ -52,6 +52,21 @@ SO-1   Define the inverse Laplace transform with a mathematical expression: [5]
 BL-2   -2.5M
 the limitations of the Fourier Transform :- 2.5M
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+x(t) = ag + V1 (ancos(nw,)t + by sin(nw,)t)
+
+a, : Amplitude of dc component of x(t)
+
+corresponds to the 0" harmonic or DC fo = To Sry 1
+
+2
+a,: Amplitude of corresponding cosine components % = Tr. x(t) cos(nw,)t d
+0 ST)
+
+2 ’
+b,, : Amplitude of the corresponding sine components b, = r x(t) sin(nw,)t dt
+0 YT,
 --- page 2 ---
 2.5
 2.5
@@ -76,6 +91,51 @@ CO-4
 SO-1
 BL-5
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Aspect
+
+Limited to Causal Systems
+
+Complexity
+
+Time Localization
+
+Not Ideal for Nonlinear
+
+Systems
+
+Laplace Transform
+
+Typically used for causal (right-
+sided) signals.
+
+More complex due to use of
+
+complex variable s.
+
+Poor time localization.
+
+Assumes linearity and time-
+
+invariance.
+
+Fourier Transform
+
+Can be used for both causa
+
+non-causal signals.
+
+Simpler and more intuitive
+
+frequency analysis.
+
+Also poor time localization
+using STFT).
+
+Same limitation applies.
+
+2.5
 --- page 3 ---
 a. Poles of X(s) : 0, -1,-2 ----2M   2
 --1M
@@ -103,6 +163,23 @@ Therefore, the ROC is exterior of unit circle in z-plane.
 Unit Ramp Signal:
 1
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The residue K, is obtained by iw X(s) by s and letting s = 0.
+2 2 2
+
+Kr =X) «Sho = Seay era §|_. = ee DerD
+
+is=0 s=0
+
+The residue K, is obtained by multiplying X(s)
+
+2
+Ke = Xl8) (841), = Say eaH ey aaa
+
+(s+ 1) and letting s =-1.
+
+K, = X(s) x (s+2)|,_, = =
 --- page 4 ---
 Differentiate both sides w. r. t to 𝑧−1 to get a formula involving n:
 Left-hand side:
@@ -145,6 +222,17 @@ SO-1
 BL-1,6
 8   8
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Properties of ROC
+
+*For right-sided signal, ROC will be outside the circle in Z-plane
+*For left sided signal, ROC will be inside the circle in Z-plane.
+*For stability, ROC will include unit circle in Z-plane.
+
+*For Both sided signal, ROC is a ring in Z-plane.
+
+¢For finite-duration signal, ROC is entire Z-plane,
 --- page 6 ---
 a. %
 olt cu oe
@@ -324,6 +412,20 @@ SO-1   Define the inverse Laplace transform with a mathematical expression: [5]
 BL-2   -2.5M
 the limitations of the Fourier Transform :- 2.5M
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+x(t) = ag + V1 (ancos(nw,)t + by sin(nw,)t)
+
+a, : Amplitude of dc component of x(t) a
+corresponds to the 0'" harmonic or DC ° To)
+
+2
+a,: Amplitude of corresponding cosine components % = Tr. x(t) cos(nw,)t d
+0 ST)
+
+2 ’
+b,, : Amplitude of the corresponding sine components b, = r x(t) sin(nw,)t dt
+0 YT,
 --- page 2 ---
 d.
 X(𝑧) = 1 + 2 + 5 + 7 + 1
@@ -342,6 +444,19 @@ CO-4
 SO-1
 BL-5
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Aspect Laplace Transform Fourier Transform
+
+Limited to Causal Systems Typically used for causal (right- Can be used for both causa
+sided) signals. non-causal signals.
+Complexity More complex due to use of Simpler and more intuitive
+complex variable s. frequency analysis.
+Time Localization Poor time localization. Also poor time localization
+using STFT).
+Not Ideal for Nonlinear Assumes linearity and time- Same limitation applies.
+
+Systems invariance.
 --- page 3 ---
 a. Poles of X(s) : 0, -1,-2 ----2M
 --1M
@@ -364,6 +479,23 @@ The term |z| = 1 represents a circle of unit radius in z-plane.
 Therefore, the ROC is exterior of unit circle in z-plane.
 Unit Ramp Signal:
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The residue K, is obtained by multiplying X(s) by s and letting s = 0.
+
+2 2 2
+K, = X = = = =1
+1 = Xi) x S|, se+@+2) |, G+ Ne+2 |, 1x2
+The residue K, is obtained by multiplying X(s) by (s + 1) and letting s = -1.
+2 2 2
+K, = X(s) x (s+1 = ————_x(s+1 = —— = =
+2 = Xt) x841) |. = Sey) eae <4) sey 80842), T+ 2)
+The residue K, is obtained by multiplying X(s) by (s + 2) and letting s = -2.
+2 2 2
+K, = X 2) = ———__ 2 = = —*—_ =1
+2 = Xs) « (#2)|, 2 = Soya) ean * St | s(s+1) 22+ 1)
+
+2
 --- page 4 ---
 Differentiate both sides w. r. t to 𝑧−1 to get a formula involving n:
 Left-hand side:
@@ -397,6 +529,17 @@ SO-1
 BL-1,6
 8
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Properties of ROC
+
+*For right-sided signal, ROC will be outside the circle in Z-plane
+*For left sided signal, ROC will be inside the circle in Z-plane.
+*For stability, ROC will include unit circle in Z-plane.
+
+*For Both sided signal, ROC is a ring in Z-plane.
+
+¢For finite-duration signal, ROC is entire Z-plane,
 --- page 6 ---
 a. %
 olt cu oe
@@ -518,6 +661,21 @@ SO-1   Define the inverse Laplace transform with a mathematical expression: [5]
 BL-2   -2.5M
 the limitations of the Fourier Transform :- 2.5M
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+x(t) = ag + V1 (ancos(nw,)t + by sin(nw,)t)
+
+a, : Amplitude of dc component of x(t)
+
+corresponds to the 0" harmonic or DC fo = To Sry 1
+
+2
+a,: Amplitude of corresponding cosine components % = Tr. x(t) cos(nw,)t d
+0 ST)
+
+2 ’
+b,, : Amplitude of the corresponding sine components b, = r x(t) sin(nw,)t dt
+0 YT,
 --- page 2 ---
 2.5
 2.5
@@ -542,6 +700,51 @@ CO-4
 SO-1
 BL-5
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Aspect
+
+Limited to Causal Systems
+
+Complexity
+
+Time Localization
+
+Not Ideal for Nonlinear
+
+Systems
+
+Laplace Transform
+
+Typically used for causal (right-
+sided) signals.
+
+More complex due to use of
+
+complex variable s.
+
+Poor time localization.
+
+Assumes linearity and time-
+
+invariance.
+
+Fourier Transform
+
+Can be used for both causa
+
+non-causal signals.
+
+Simpler and more intuitive
+
+frequency analysis.
+
+Also poor time localization
+using STFT).
+
+Same limitation applies.
+
+2.5
 --- page 3 ---
 Solution for Q.3(a) is given after Q.7 (b)
 a. Poles of X(s) : 0, -1,-2 ----2M   2
@@ -613,6 +816,17 @@ SO-1
 BL-1,6
 8   8
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Properties of ROC
+
+*For right-sided signal, ROC will be outside the circle in Z-plane
+*For left sided signal, ROC will be inside the circle in Z-plane.
+*For stability, ROC will include unit circle in Z-plane.
+
+*For Both sided signal, ROC is a ring in Z-plane.
+
+¢For finite-duration signal, ROC is entire Z-plane,
 --- page 6 ---
 a. %
 olt cu oe
@@ -895,6 +1109,17 @@ SO-1
 BL-3
 3
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Properties of ROC
+
+For right-sided signal, ROC will be outside the circle in Z-plane
+For left sided signal, ROC will be inside the circle in Z-plane.
+For stability, ROC will include unit circle in Z-plane.
+
+*For Both sided signal, ROC is a ring in Z-plane.
+
+*For finite-duration signal, ROC is entire Z-plane|
 --- page 6 ---
 b. | Perform convolution of x,(t)and x2(t) using Laplace transform.
 x(t) = u(t — 2), x(t) = 6(t+5)
@@ -1115,6 +1340,17 @@ SO-1
 BL-3
 3
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Properties of ROC
+
+For right-sided signal, ROC will be outside the circle in Z-plane
+For left sided signal, ROC will be inside the circle in Z-plane.
+For stability, ROC will include unit circle in Z-plane.
+
+*For Both sided signal, ROC is a ring in Z-plane.
+
+*For finite-duration signal, ROC is entire Z-plane|
 --- page 6 ---
 b. | Perform convolution of x,(t)and x2(t) using Laplace transform.
 x(t) = u(t — 2), x(t) = 6(t+5)
@@ -1335,6 +1571,17 @@ SO-1
 BL-3
 3
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Properties of ROC
+
+For right-sided signal, ROC will be outside the circle in Z-plane
+For left sided signal, ROC will be inside the circle in Z-plane.
+For stability, ROC will include unit circle in Z-plane.
+
+*For Both sided signal, ROC is a ring in Z-plane.
+
+*For finite-duration signal, ROC is entire Z-plane|
 --- page 6 ---
 b. | Perform convolution of x,(t)and x2(t) using Laplace transform.
 x(t) = u(t — 2), x(t) = 6(t+5)
@@ -1555,6 +1802,17 @@ SO-1
 BL-3
 3
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Properties of ROC
+
+For right-sided signal, ROC will be outside the circle in Z-plane
+For left sided signal, ROC will be inside the circle in Z-plane.
+For stability, ROC will include unit circle in Z-plane.
+
+*For Both sided signal, ROC is a ring in Z-plane.
+
+*For finite-duration signal, ROC is entire Z-plane|
 --- page 6 ---
 b. | Perform convolution of x,(t)and x2(t) using Laplace transform.
 x(t) = u(t — 2), x(t) = 6(t+5)
@@ -1775,6 +2033,17 @@ SO-1
 BL-3
 3
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Properties of ROC
+
+For right-sided signal, ROC will be outside the circle in Z-plane
+For left sided signal, ROC will be inside the circle in Z-plane.
+For stability, ROC will include unit circle in Z-plane.
+
+*For Both sided signal, ROC is a ring in Z-plane.
+
+*For finite-duration signal, ROC is entire Z-plane|
 --- page 6 ---
 b. | Perform convolution of x,(t)and x2(t) using Laplace transform.
 x(t) = u(t — 2), x(t) = 6(t+5)
@@ -1995,6 +2264,17 @@ SO-1
 BL-3
 3
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Properties of ROC
+
+For right-sided signal, ROC will be outside the circle in Z-plane
+For left sided signal, ROC will be inside the circle in Z-plane.
+For stability, ROC will include unit circle in Z-plane.
+
+*For Both sided signal, ROC is a ring in Z-plane.
+
+*For finite-duration signal, ROC is entire Z-plane|
 --- page 6 ---
 b. | Perform convolution of x,(t)and x2(t) using Laplace transform.
 x(t) = u(t — 2), x(t) = 6(t+5)

@@ -85,6 +85,30 @@ bosons. These particles have integer spin and can occupy the same energy state
 in unlimited numbers.
 ---------------- (2 marks)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+2. Superposition: The linearity of Schrédinger's equation implies that a linear combination of
+solutions of Schrédinger's equation for any system is also a solution. Hence, if ‘Y; and 2 satisfy
+the Schrédinger's equation then
+
+W= a,¥, + a,P, (9)
+
+is also a solution, where ayand azare constants. Hence, the wave-functions VY, and Pz obey the
+superposition principle. The superposition principle is the main difference between quantum
+mechanics and classical mechanics. The fact that particles can be described by waves whose
+amplitudes can be added cannot be explained by classical mechanics.
+
+The associated particles are identical and indistinguishable.
+
+Each energy state can contain any number of particles.
+
+Total energy and total number of particles of the entire system is constant.
+
+The particles have zero or integral spin.
+
+The wave function of the system is symmetric under the positional exchange of any two
+particles. Such particles are known as Bosons. For example, photons, phonons, all
+mesons (7, « 7) etc.
 --- page 3 ---
 •   Planck's law describes the spectral density of electromagnetic radiation emitted
 by a black body in thermal equilibrium at a given temperature. The formula is
@@ -115,6 +139,14 @@ Explanation-2M
 Calculation-3M
 Final answer h2/ML2-1M
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The energy E7is called the zero-point energy. Obviously, the energy is not zero an this case, The
+zero-point energy is the consequence of the uncertainty principle. If the energy of the particle 1s
+Zefo, its momentum is also zero. Then according to uncertainty principle, the position of the
+particle would become infinite and the particle cannot be confined to the box. Therefore, the
+
+particle cannot have zero energy.
 --- page 4 ---
 (c)   An electron is trapped in an infinite potential well of length 3 Å. In the ground state,   (4)
 determine the probability of finding the electron in the region x = 0 to 0.5 Å.
@@ -154,6 +186,20 @@ large.
 V(x) = 0 for 0 < x < L
 =∞ for x ≤ 0 and x ≥ L
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+: Axmdv ~h
+
+h 6.62 x 107*4).s
+Av & =
+
+Se eee OS 49-30
+~ dx OSkgx 10m = 10 MS:
+
+The above inaccuracy is negligible and not detectable. It implies that the uncertainties are of no
+importance in case of macro bodies: and the position and velocity of a macro body can be
+simultaneously determined with a high degree of accuracy. As a result, macroscopic body
+follows a well defined trajectory.
 --- page 5 ---
 ---------------- (1 mark)
 The time independent Schrödinger equation can be written as
@@ -203,6 +249,15 @@ particle (V = 0) is given below
 2m   ∂x2   ∂t
 --------------(2 marks)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+W(x) ~~ welx) |. walx)
+2% [NA
+
+: |
+
+Figure 2.2: The first three stationary states of the infinite square well (Equation
+2.24).
 --- page 6 ---
 A free particle of total energy E and momentum p moving in the +x direction can be
 described by the wave-function Ψ of a place monochromatic wave. The expression for
@@ -323,6 +378,40 @@ E4 = 0.85 eV; E5 = 0.54 eV   -4M
 assembly of n distinguishable particles amongst k cells.
 3M
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+The probability W of a particular distribution depends on two factors:
+
+i. The a priori probability (G) of the distribution which depends on the property of each
+cell.
+ii. The thermodynamic probability (Q) of the distribution which is the number of
+
+different accessible sequences in which the balls may be distributed among the cells
+without changing the number of balls in each cell. Thus we assume that the balls are
+identical but distinguishable.
+
+The a priori probability gi that a ball falls in the i-th cell is equal to the fractional area of the cell.
+If A is the total area, then
+
+a= 4 with Yg;=1 and Ya,=A
+
+The a priori probability of two balls simultaneously in the i-th cell is (g;). The a priori probability
+that nj balls go to i-th cell is (g;)™.
+
+The number of ways nz balls can be distributed out of the remaining (N-m)) balls in the second cell
+is then given by
+
+(N=n,)!
+n2!(N—n4—nz)!
+
+(N- 11 )en, =
+
+Similarly, proceeding in the same manner, the total number of independent ways of arranging N
+balls among n containers such that 7 balls in the first, m2 balls in the second ... ng balls in the k-th
+cell, will be
+
+= N! (N-n,)! (N-ny- nz...nk-1)!
+7y!(N—n,)! ng(N—ny—ng)!   ng!(N—ny—nz..mnx)!
 --- page 9 ---
 ---------- (3 marks)
 (c)   A system has non-degenerate single-particle states with 0,1,2,3 energy units. Three   (4)
@@ -341,6 +430,37 @@ same energy E, volume V and total number of particles N. This ensemble is also o
 called the NVE ensemble, as each of these three quantities is a constant of the
 ensemble. The individual systems of microcanonical ensemble must remain totally
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+(i) For MB statistics, let the three particles are A.B.C and the energy unit is E.
+
+MACRO 0E IE 2 3E TOTAL | MICRO
+STATES E ENERGY | STATES
+AB 0 0 Cc
+(2.0.01) BC 0 0 A 3E 3
+CA 0 0 B
+A B Cc 0
+A c B 0
+(1.1.1.0) B c A 0 3E 6
+B A c 0
+c A B 0
+c B A 0
+(0.3.0.0) 0 ABC 0 0
+3E 1
+
+Thus for MB statistics total number of microstates is (3+6+1) = 9.
+
+(ii) For BE statistics, let the three particles are AAA and energy unit is E.
+
+MACRO 0E 1E TE 3E TOTAL | MICRO
+STATES ENERGY | STATES
+1.1.0 A A A 0 3E I
+(2.0.0.1) AA 0 0 A 3E 1
+(0.3.0.0) 0 AAA 0 0 3E 1
+
+Thus for BE statistics total number of microstates is (1+1+1) =3
+
+(iii) For FD statistics. let the three particles are A.A.A and energy unit is E.
 --- page 10 ---
 isolated (i.e. they are separated by rigid, impermeable and well insulated walls, unable
 to exchange energy or particles with its environment) in order to stay in statistical
@@ -364,6 +484,51 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (1 mark)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Let a black body cavity of volume V at temperature T K is filled with large number of
+indistinguishable photons of various frequencies (photon gas). Photons have zero rest mass and
+unit spin angular momentum (thus they are Bosons). Photons of same frequency are
+indistinguishable and behave as a system of non-interacting particles.
+
+To count the photons, we have to estimate the number of cells in the phase space (constructed
+by positions and momentum of all photons). If each cell has the infinitesimal volume h’, then
+the number of cells in the phase space where the momentum lies between p and p + dp is
+
+g(p)dp _S sotydesoutt pfs
+Where,
+S, dxdydz = V = volume of the cavity, and
+S, dp,dpydpz, = 4mp?dp = volume of the spherical cell of radius p and
+thickness dp in the momentum space.
+Therefore,
+
+g(p)dp = = ‘dp
+
+Thus, substituting the values of p and p + dp, we obtain the no of cells (quantum states) with
+frequency between v and v + dv as
+
+g(v)dv = Svdv
+
+Since photon can have two types of polarization and the fact that each cell can be occupied by
+two photons of two different directions of polarizations, we multiply the above expression by
+a factor 2 to obtain
+
+g(v)dv = Svdv
+
+The number of photons with energy between E and E + dE is
+
+g(4)
+N(E)dE = aoefkr_, GE
+
+Here g(E)dE is the number of quantum states of photons of energy between E and E +dE.
+
+Tn the black body chamber at constant temperature photons of different energies are constantly
+absorbed or re-emitted by the walls of the enclosure. i.e. the number of photons in the system
+is not constant. Therefore, Y;5N; # 0. This can be taken into consideration by setting the
+Lagrange multiplier a = 0. Thus, for photons of a black body we have (setting a = 0)
+
+N(E)dE = © de
+ekT-1
 --- page 12 ---
 ------------------------ (1 mark)
 ------------------------ (1 mark)
@@ -383,6 +548,21 @@ iii. Total number of particles in the entire system is constant.
 iv. Total energy of all the particles in the entire system is constant.
 v. Examples: gas molecules at high temperature and low pressure.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+The corresponding spectral energy density u(v)dv, which is the energy per unit volume in
+radiation between v and v + dv in frequency is
+
+hvN(v)dv _ 8h v3dv
+_ hv
+ekT-1
+
+u(v)dv =
+
+a
+
+Above Eqn. is the Planck’s radiation formula in terms of frequency v, and has been successful
+in explaining the black body radiation.
 --- page 13 ---
 -----------------------(Any three postulates=3 marks)
 1. The particles (fermions) are identical and indistinguishable.
@@ -503,6 +683,30 @@ bosons. These particles have integer spin and can occupy the same energy state
 in unlimited numbers.
 ---------------- (2 marks)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+2. Superposition: The linearity of Schrédinger's equation implies that a linear combination of
+solutions of Schrédinger's equation for any system is also a solution. Hence, if ‘Y; and 2 satisfy
+the Schrédinger's equation then
+
+W= a,¥, + a,P, (9)
+
+is also a solution, where ayand azare constants. Hence, the wave-functions VY, and Pz obey the
+superposition principle. The superposition principle is the main difference between quantum
+mechanics and classical mechanics. The fact that particles can be described by waves whose
+amplitudes can be added cannot be explained by classical mechanics.
+
+The associated particles are identical and indistinguishable.
+
+Each energy state can contain any number of particles.
+
+Total energy and total number of particles of the entire system is constant.
+
+The particles have zero or integral spin.
+
+The wave function of the system is symmetric under the positional exchange of any two
+particles. Such particles are known as Bosons. For example, photons, phonons, all
+mesons (7, « 7) etc.
 --- page 3 ---
 •   Planck's law describes the spectral density of electromagnetic radiation emitted
 by a black body in thermal equilibrium at a given temperature. The formula is
@@ -533,6 +737,14 @@ Explanation-2M
 Calculation-3M
 Final answer h2/ML2-1M
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The energy E7is called the zero-point energy. Obviously, the energy is not zero an this case, The
+zero-point energy is the consequence of the uncertainty principle. If the energy of the particle 1s
+Zefo, its momentum is also zero. Then according to uncertainty principle, the position of the
+particle would become infinite and the particle cannot be confined to the box. Therefore, the
+
+particle cannot have zero energy.
 --- page 4 ---
 (c)   An electron is trapped in an infinite potential well of length 3 Å. In the ground state,   (4)
 determine the probability of finding the electron in the region x = 0 to 0.5 Å.
@@ -572,6 +784,20 @@ large.
 V(x) = 0 for 0 < x < L
 =∞ for x ≤ 0 and x ≥ L
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+: Axmdv ~h
+
+h 6.62 x 107*4).s
+Av & =
+
+Se eee OS 49-30
+~ dx OSkgx 10m = 10 MS:
+
+The above inaccuracy is negligible and not detectable. It implies that the uncertainties are of no
+importance in case of macro bodies: and the position and velocity of a macro body can be
+simultaneously determined with a high degree of accuracy. As a result, macroscopic body
+follows a well defined trajectory.
 --- page 5 ---
 ---------------- (1 mark)
 The time independent Schrödinger equation can be written as
@@ -621,6 +847,15 @@ particle (V = 0) is given below
 2m   ∂x2   ∂t
 --------------(2 marks)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+W(x) ~~ welx) |. walx)
+2% [NA
+
+: |
+
+Figure 2.2: The first three stationary states of the infinite square well (Equation
+2.24).
 --- page 6 ---
 A free particle of total energy E and momentum p moving in the +x direction can be
 described by the wave-function Ψ of a place monochromatic wave. The expression for
@@ -741,6 +976,40 @@ E4 = 0.85 eV; E5 = 0.54 eV   -4M
 assembly of n distinguishable particles amongst k cells.
 3M
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+The probability W of a particular distribution depends on two factors:
+
+i. The a priori probability (G) of the distribution which depends on the property of each
+cell.
+ii. The thermodynamic probability (Q) of the distribution which is the number of
+
+different accessible sequences in which the balls may be distributed among the cells
+without changing the number of balls in each cell. Thus we assume that the balls are
+identical but distinguishable.
+
+The a priori probability gi that a ball falls in the i-th cell is equal to the fractional area of the cell.
+If A is the total area, then
+
+a= 4 with Yg;=1 and Ya,=A
+
+The a priori probability of two balls simultaneously in the i-th cell is (g;). The a priori probability
+that nj balls go to i-th cell is (g;)™.
+
+The number of ways nz balls can be distributed out of the remaining (N-m)) balls in the second cell
+is then given by
+
+(N=n,)!
+n2!(N—n4—nz)!
+
+(N- 11 )en, =
+
+Similarly, proceeding in the same manner, the total number of independent ways of arranging N
+balls among n containers such that 7 balls in the first, m2 balls in the second ... ng balls in the k-th
+cell, will be
+
+= N! (N-n,)! (N-ny- nz...nk-1)!
+7y!(N—n,)! ng(N—ny—ng)!   ng!(N—ny—nz..mnx)!
 --- page 9 ---
 ---------- (3 marks)
 (c)   A system has non-degenerate single-particle states with 0,1,2,3 energy units. Three   (4)
@@ -759,6 +1028,37 @@ same energy E, volume V and total number of particles N. This ensemble is also o
 called the NVE ensemble, as each of these three quantities is a constant of the
 ensemble. The individual systems of microcanonical ensemble must remain totally
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+(i) For MB statistics, let the three particles are A.B.C and the energy unit is E.
+
+MACRO 0E IE 2 3E TOTAL | MICRO
+STATES E ENERGY | STATES
+AB 0 0 Cc
+(2.0.01) BC 0 0 A 3E 3
+CA 0 0 B
+A B Cc 0
+A c B 0
+(1.1.1.0) B c A 0 3E 6
+B A c 0
+c A B 0
+c B A 0
+(0.3.0.0) 0 ABC 0 0
+3E 1
+
+Thus for MB statistics total number of microstates is (3+6+1) = 9.
+
+(ii) For BE statistics, let the three particles are AAA and energy unit is E.
+
+MACRO 0E 1E TE 3E TOTAL | MICRO
+STATES ENERGY | STATES
+1.1.0 A A A 0 3E I
+(2.0.0.1) AA 0 0 A 3E 1
+(0.3.0.0) 0 AAA 0 0 3E 1
+
+Thus for BE statistics total number of microstates is (1+1+1) =3
+
+(iii) For FD statistics. let the three particles are A.A.A and energy unit is E.
 --- page 10 ---
 isolated (i.e. they are separated by rigid, impermeable and well insulated walls, unable
 to exchange energy or particles with its environment) in order to stay in statistical
@@ -782,6 +1082,51 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (1 mark)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Let a black body cavity of volume V at temperature T K is filled with large number of
+indistinguishable photons of various frequencies (photon gas). Photons have zero rest mass and
+unit spin angular momentum (thus they are Bosons). Photons of same frequency are
+indistinguishable and behave as a system of non-interacting particles.
+
+To count the photons, we have to estimate the number of cells in the phase space (constructed
+by positions and momentum of all photons). If each cell has the infinitesimal volume h’, then
+the number of cells in the phase space where the momentum lies between p and p + dp is
+
+g(p)dp _S sotydesoutt pfs
+Where,
+S, dxdydz = V = volume of the cavity, and
+S, dp,dpydpz, = 4mp?dp = volume of the spherical cell of radius p and
+thickness dp in the momentum space.
+Therefore,
+
+g(p)dp = = ‘dp
+
+Thus, substituting the values of p and p + dp, we obtain the no of cells (quantum states) with
+frequency between v and v + dv as
+
+g(v)dv = Svdv
+
+Since photon can have two types of polarization and the fact that each cell can be occupied by
+two photons of two different directions of polarizations, we multiply the above expression by
+a factor 2 to obtain
+
+g(v)dv = Svdv
+
+The number of photons with energy between E and E + dE is
+
+g(4)
+N(E)dE = aoefkr_, GE
+
+Here g(E)dE is the number of quantum states of photons of energy between E and E +dE.
+
+Tn the black body chamber at constant temperature photons of different energies are constantly
+absorbed or re-emitted by the walls of the enclosure. i.e. the number of photons in the system
+is not constant. Therefore, Y;5N; # 0. This can be taken into consideration by setting the
+Lagrange multiplier a = 0. Thus, for photons of a black body we have (setting a = 0)
+
+N(E)dE = © de
+ekT-1
 --- page 12 ---
 ------------------------ (1 mark)
 ------------------------ (1 mark)
@@ -801,6 +1146,21 @@ iii. Total number of particles in the entire system is constant.
 iv. Total energy of all the particles in the entire system is constant.
 v. Examples: gas molecules at high temperature and low pressure.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+The corresponding spectral energy density u(v)dv, which is the energy per unit volume in
+radiation between v and v + dv in frequency is
+
+hvN(v)dv _ 8h v3dv
+_ hv
+ekT-1
+
+u(v)dv =
+
+a
+
+Above Eqn. is the Planck’s radiation formula in terms of frequency v, and has been successful
+in explaining the black body radiation.
 --- page 13 ---
 -----------------------(Any three postulates=3 marks)
 1. The particles (fermions) are identical and indistinguishable.
@@ -921,6 +1281,30 @@ bosons. These particles have integer spin and can occupy the same energy state
 in unlimited numbers.
 ---------------- (2 marks)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+2. Superposition: The linearity of Schrédinger's equation implies that a linear combination of
+solutions of Schrédinger's equation for any system is also a solution. Hence, if ‘Y; and 2 satisfy
+the Schrédinger's equation then
+
+W= a,¥, + a,P, (9)
+
+is also a solution, where ayand azare constants. Hence, the wave-functions VY, and Pz obey the
+superposition principle. The superposition principle is the main difference between quantum
+mechanics and classical mechanics. The fact that particles can be described by waves whose
+amplitudes can be added cannot be explained by classical mechanics.
+
+The associated particles are identical and indistinguishable.
+
+Each energy state can contain any number of particles.
+
+Total energy and total number of particles of the entire system is constant.
+
+The particles have zero or integral spin.
+
+The wave function of the system is symmetric under the positional exchange of any two
+particles. Such particles are known as Bosons. For example, photons, phonons, all
+mesons (7, « 7) etc.
 --- page 3 ---
 •   Planck's law describes the spectral density of electromagnetic radiation emitted
 by a black body in thermal equilibrium at a given temperature. The formula is
@@ -951,6 +1335,14 @@ Explanation-2M
 Calculation-3M
 Final answer h2/ML2-1M
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The energy E7is called the zero-point energy. Obviously, the energy is not zero an this case, The
+zero-point energy is the consequence of the uncertainty principle. If the energy of the particle 1s
+Zefo, its momentum is also zero. Then according to uncertainty principle, the position of the
+particle would become infinite and the particle cannot be confined to the box. Therefore, the
+
+particle cannot have zero energy.
 --- page 4 ---
 (c)   An electron is trapped in an infinite potential well of length 3 Å. In the ground state,   (4)
 determine the probability of finding the electron in the region x = 0 to 0.5 Å.
@@ -990,6 +1382,20 @@ large.
 V(x) = 0 for 0 < x < L
 =∞ for x ≤ 0 and x ≥ L
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+: Axmdv ~h
+
+h 6.62 x 107*4).s
+Av & =
+
+Se eee OS 49-30
+~ dx OSkgx 10m = 10 MS:
+
+The above inaccuracy is negligible and not detectable. It implies that the uncertainties are of no
+importance in case of macro bodies: and the position and velocity of a macro body can be
+simultaneously determined with a high degree of accuracy. As a result, macroscopic body
+follows a well defined trajectory.
 --- page 5 ---
 ---------------- (1 mark)
 The time independent Schrödinger equation can be written as
@@ -1039,6 +1445,15 @@ particle (V = 0) is given below
 2m   ∂x2   ∂t
 --------------(2 marks)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+W(x) ~~ welx) |. walx)
+2% [NA
+
+: |
+
+Figure 2.2: The first three stationary states of the infinite square well (Equation
+2.24).
 --- page 6 ---
 A free particle of total energy E and momentum p moving in the +x direction can be
 described by the wave-function Ψ of a place monochromatic wave. The expression for
@@ -1159,6 +1574,40 @@ E4 = 0.85 eV; E5 = 0.54 eV   -4M
 assembly of n distinguishable particles amongst k cells.
 3M
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+The probability W of a particular distribution depends on two factors:
+
+i. The a priori probability (G) of the distribution which depends on the property of each
+cell.
+ii. The thermodynamic probability (Q) of the distribution which is the number of
+
+different accessible sequences in which the balls may be distributed among the cells
+without changing the number of balls in each cell. Thus we assume that the balls are
+identical but distinguishable.
+
+The a priori probability gi that a ball falls in the i-th cell is equal to the fractional area of the cell.
+If A is the total area, then
+
+a= 4 with Yg;=1 and Ya,=A
+
+The a priori probability of two balls simultaneously in the i-th cell is (g;). The a priori probability
+that nj balls go to i-th cell is (g;)™.
+
+The number of ways nz balls can be distributed out of the remaining (N-m)) balls in the second cell
+is then given by
+
+(N=n,)!
+n2!(N—n4—nz)!
+
+(N- 11 )en, =
+
+Similarly, proceeding in the same manner, the total number of independent ways of arranging N
+balls among n containers such that 7 balls in the first, m2 balls in the second ... ng balls in the k-th
+cell, will be
+
+= N! (N-n,)! (N-ny- nz...nk-1)!
+7y!(N—n,)! ng(N—ny—ng)!   ng!(N—ny—nz..mnx)!
 --- page 9 ---
 ---------- (3 marks)
 (c)   A system has non-degenerate single-particle states with 0,1,2,3 energy units. Three   (4)
@@ -1177,6 +1626,37 @@ same energy E, volume V and total number of particles N. This ensemble is also o
 called the NVE ensemble, as each of these three quantities is a constant of the
 ensemble. The individual systems of microcanonical ensemble must remain totally
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+(i) For MB statistics, let the three particles are A.B.C and the energy unit is E.
+
+MACRO 0E IE 2 3E TOTAL | MICRO
+STATES E ENERGY | STATES
+AB 0 0 Cc
+(2.0.01) BC 0 0 A 3E 3
+CA 0 0 B
+A B Cc 0
+A c B 0
+(1.1.1.0) B c A 0 3E 6
+B A c 0
+c A B 0
+c B A 0
+(0.3.0.0) 0 ABC 0 0
+3E 1
+
+Thus for MB statistics total number of microstates is (3+6+1) = 9.
+
+(ii) For BE statistics, let the three particles are AAA and energy unit is E.
+
+MACRO 0E 1E TE 3E TOTAL | MICRO
+STATES ENERGY | STATES
+1.1.0 A A A 0 3E I
+(2.0.0.1) AA 0 0 A 3E 1
+(0.3.0.0) 0 AAA 0 0 3E 1
+
+Thus for BE statistics total number of microstates is (1+1+1) =3
+
+(iii) For FD statistics. let the three particles are A.A.A and energy unit is E.
 --- page 10 ---
 isolated (i.e. they are separated by rigid, impermeable and well insulated walls, unable
 to exchange energy or particles with its environment) in order to stay in statistical
@@ -1200,6 +1680,51 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (1 mark)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Let a black body cavity of volume V at temperature T K is filled with large number of
+indistinguishable photons of various frequencies (photon gas). Photons have zero rest mass and
+unit spin angular momentum (thus they are Bosons). Photons of same frequency are
+indistinguishable and behave as a system of non-interacting particles.
+
+To count the photons, we have to estimate the number of cells in the phase space (constructed
+by positions and momentum of all photons). If each cell has the infinitesimal volume h’, then
+the number of cells in the phase space where the momentum lies between p and p + dp is
+
+g(p)dp _S sotydesoutt pfs
+Where,
+S, dxdydz = V = volume of the cavity, and
+S, dp,dpydpz, = 4mp?dp = volume of the spherical cell of radius p and
+thickness dp in the momentum space.
+Therefore,
+
+g(p)dp = = ‘dp
+
+Thus, substituting the values of p and p + dp, we obtain the no of cells (quantum states) with
+frequency between v and v + dv as
+
+g(v)dv = Svdv
+
+Since photon can have two types of polarization and the fact that each cell can be occupied by
+two photons of two different directions of polarizations, we multiply the above expression by
+a factor 2 to obtain
+
+g(v)dv = Svdv
+
+The number of photons with energy between E and E + dE is
+
+g(4)
+N(E)dE = aoefkr_, GE
+
+Here g(E)dE is the number of quantum states of photons of energy between E and E +dE.
+
+Tn the black body chamber at constant temperature photons of different energies are constantly
+absorbed or re-emitted by the walls of the enclosure. i.e. the number of photons in the system
+is not constant. Therefore, Y;5N; # 0. This can be taken into consideration by setting the
+Lagrange multiplier a = 0. Thus, for photons of a black body we have (setting a = 0)
+
+N(E)dE = © de
+ekT-1
 --- page 12 ---
 ------------------------ (1 mark)
 ------------------------ (1 mark)
@@ -1219,6 +1744,21 @@ iii. Total number of particles in the entire system is constant.
 iv. Total energy of all the particles in the entire system is constant.
 v. Examples: gas molecules at high temperature and low pressure.
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+The corresponding spectral energy density u(v)dv, which is the energy per unit volume in
+radiation between v and v + dv in frequency is
+
+hvN(v)dv _ 8h v3dv
+_ hv
+ekT-1
+
+u(v)dv =
+
+a
+
+Above Eqn. is the Planck’s radiation formula in terms of frequency v, and has been successful
+in explaining the black body radiation.
 --- page 13 ---
 -----------------------(Any three postulates=3 marks)
 1. The particles (fermions) are identical and indistinguishable.
@@ -1263,6 +1803,7 @@ FRR IC 7 I OH
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_CS_7055/Quantum and Statistical Physics/ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Apr 2025
 - Text: mixed (16 pages), mean OCR confidence 62.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1485,6 +2026,29 @@ Solution:
 ------------------------- (2 marks)
 ------------------------- (2 marks)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The radius of the nucleus of an atoms is of the order of 10° m. If an electron is confined within
+the nucleus, the uncertainty in its position must not be greater than 1074 m. According to
+uncertainty principle for the lowest limit of accuracy
+
+Ax Ap=
+20
+
+Where Ax is uncertainty in the position and AP is the uncertainty in the momentum.
+
+h __6.625x 10734
+
+AP= =>
+2nAX 2x3.14x2x107+4
+
+(as AX = diameter of nucleus)
+AP = =5.275x 107! kg m/sec
+
+This is the uncertainty in momentum of the electron. It means the momentum of the electron
+would not be less than AP, rather it could be comparable to AP. Thus
+
+AP = =5.275 x 107! kg m/sec
 --- page 6 ---
 ------------------------- (2 marks)
 Problem:
@@ -1501,6 +2065,64 @@ Solution:
 potential well.
 ----------- (4 differences 4 marks)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The kinetic energy of the electron can be obtained in terms of momentum as
+
+T =%mv=p?/2m
+
+__ (5.275x1077+_)?
+2x9.1x10734
+
+~21 2
+(5.275x1077+_ )
+2x9.1X10722x1,6x 10729
+
+eV
+
+=95.55x 10°eV
+= 96MeV
+
+From the above result, it is clear that the electrons inside the nucleus may exist only when it
+possesses the energy of the order of 96 MeV. However, the maximum possible kinetic energy of
+an electron emitted by radioactive nuclei has been found about 4MeV. Hence, it is concluded
+that the electron cannot reside in the nucleus.
+
+The wave-function W(x) is confined to the infinite well while (x) spreads out beyond
+the finite well.
+
+The energy levels in a finite potential well are lower than the infinite well as the
+wavefunction spreads out (by penetrating the classically forbidden region) which reduces
+its kinetic energy.
+
+There are no unbound states in an infinite potential well while there are unbound states in
+a finite potential well when E > Vo.
+
+Electron in finite square well Infinite potential well
+(a=2 nm and V=1.0 eV) (a=2nm and V=~)
+
+The wave
+x a function i
+Wx) % HO) % — function is zero
+
+10eV /\ = at the edge of
+E, = 0.949 eV n=4 the box.
+The wave iF VU
+extends into the uit =
+classically forbidden ’
+
+Fegion, a J , P
+E, = 0.585 eV = ee
+
+ee, = 0.848 eV
+
+Ye. - E, = 0.377 eV
+E, = 0.263 eV 7 -n=2
+E, = 0.068 eV <“ = aot E, = 0.094 eV
+OeV
+
+T
+=} 0 1 2 3 0 1 2
 --- page 7 ---
 -------------- (2 marks for diagram)
 (ii).(c)   Find which of the following functions are eigenfunctions of the momentum   (4)
@@ -1717,6 +2339,23 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (2 marks)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Let us divide a large box into k cells having areas aj, a2, a3, ..., ax (Fig. 5). Then we throw n
+identical balls such that no part of the box is favored. Each cell will contain different number of
+balls. This is a distribution. If this experiment is repeated many times, it is found that certain
+distribution occurs more frequently than others. This particular outcome is the most probable
+distribution.
+
+The probability W of a particular distribution depends on two factors:
+
+i. The a priori probability (G) of the distribution which depends on the property of each
+cell.
+ii. The thermodynamic probability (Q) of the distribution which is the number of
+
+different accessible sequences in which the balls may be distributed among the cells
+without changing the number of balls in each cell. Thus we assume that the balls are
+identical but distinguishable.
 --- page 12 ---
 The a priori probability gi that a ball falls in the i-th cell is equal to the fractional area of the cell.
 If A is the total area, then
@@ -1777,6 +2416,51 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (1 mark)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Let a black body cavity of volume V at temperature T K is filled with large number of
+indistinguishable photons of various frequencies (photon gas). Photons have zero rest mass and
+unit spin angular momentum (thus they are Bosons). Photons of same frequency are
+indistinguishable and behave as a system of non-interacting particles.
+
+To count the photons, we have to estimate the number of cells in the phase space (constructed
+by positions and momentum of all photons). If each cell has the infinitesimal volume h’, then
+the number of cells in the phase space where the momentum lies between p and p + dp is
+
+g(p)dp _S sotydesoutt pfs
+Where,
+S, dxdydz = V = volume of the cavity, and
+S, dp,dpydpz, = 4mp?dp = volume of the spherical cell of radius p and
+thickness dp in the momentum space.
+Therefore,
+
+g(p)dp = = ‘dp
+
+Thus, substituting the values of p and p + dp, we obtain the no of cells (quantum states) with
+frequency between v and v + dv as
+
+g(v)dv = anV Vdv
+
+Since photon can have two types of volarzation and the fact that each cell can be occupied by
+two photons of two different directions of polarizations, we multiply the above expression by
+a factor 2 to obtain
+
+g(v)dv = Svdv
+
+The number of photons with energy between E and E + dE is
+
+g(8)
+N(E)dE = aoefer_, GE
+
+Here g(E)dE is the number of quantum states of photons of energy between E and E +dE.
+
+Tn the black body chamber at constant temperature photons of different energies are constantly
+absorbed or re-emitted by the walls of the enclosure. i.e. the number of photons in the system
+is not constant. Therefore, Y;5N; # 0. This can be taken into consideration by setting the
+Lagrange multiplier a = 0. Thus, for photons of a black body we have (setting a = 0)
+
+N(E)dE = © dE
+ekT-1
 --- page 14 ---
 ------------------------ (1 mark)
 ------------------------ (1 mark)
@@ -1798,6 +2482,21 @@ v. Examples: gas molecules at high temperature and low pressure.
 ------------------------ (Any four postulates=4 marks)
 Maxwell-Boltzmann distribution function with explanation of all terms
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+The corresponding spectral energy density u(v)dv, which is the energy per unit volume in
+radiation between v and v + dv in frequency is
+
+hvN(v)dv _ 82h vedv
+3s wv
+ekT-1
+
+u(v)dv =
+
+a
+
+Above Eqn. is the Planck’s radiation formula in terms of frequency v, and has been successful
+in explaining the black body radiation.
 --- page 15 ---
 ------------------------ (2 marks)
 Any two applications of MB statistics   ------------------------- (2 marks)
@@ -1850,6 +2549,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_Computer_7002/Quantum and Statistical Physics/ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Apr 2025
 - Text: mixed (16 pages), mean OCR confidence 62.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2072,6 +2772,29 @@ Solution:
 ------------------------- (2 marks)
 ------------------------- (2 marks)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The radius of the nucleus of an atoms is of the order of 10° m. If an electron is confined within
+the nucleus, the uncertainty in its position must not be greater than 1074 m. According to
+uncertainty principle for the lowest limit of accuracy
+
+Ax Ap=
+20
+
+Where Ax is uncertainty in the position and AP is the uncertainty in the momentum.
+
+h __6.625x 10734
+
+AP= =>
+2nAX 2x3.14x2x107+4
+
+(as AX = diameter of nucleus)
+AP = =5.275x 107! kg m/sec
+
+This is the uncertainty in momentum of the electron. It means the momentum of the electron
+would not be less than AP, rather it could be comparable to AP. Thus
+
+AP = =5.275 x 107! kg m/sec
 --- page 6 ---
 ------------------------- (2 marks)
 Problem:
@@ -2088,6 +2811,64 @@ Solution:
 potential well.
 ----------- (4 differences 4 marks)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The kinetic energy of the electron can be obtained in terms of momentum as
+
+T =%mv=p?/2m
+
+__ (5.275x1077+_)?
+2x9.1x10734
+
+~21 2
+(5.275x1077+_ )
+2x9.1X10722x1,6x 10729
+
+eV
+
+=95.55x 10°eV
+= 96MeV
+
+From the above result, it is clear that the electrons inside the nucleus may exist only when it
+possesses the energy of the order of 96 MeV. However, the maximum possible kinetic energy of
+an electron emitted by radioactive nuclei has been found about 4MeV. Hence, it is concluded
+that the electron cannot reside in the nucleus.
+
+The wave-function W(x) is confined to the infinite well while (x) spreads out beyond
+the finite well.
+
+The energy levels in a finite potential well are lower than the infinite well as the
+wavefunction spreads out (by penetrating the classically forbidden region) which reduces
+its kinetic energy.
+
+There are no unbound states in an infinite potential well while there are unbound states in
+a finite potential well when E > Vo.
+
+Electron in finite square well Infinite potential well
+(a=2 nm and V=1.0 eV) (a=2nm and V=~)
+
+The wave
+x a function i
+Wx) % HO) % — function is zero
+
+10eV /\ = at the edge of
+E, = 0.949 eV n=4 the box.
+The wave iF VU
+extends into the uit =
+classically forbidden ’
+
+Fegion, a J , P
+E, = 0.585 eV = ee
+
+ee, = 0.848 eV
+
+Ye. - E, = 0.377 eV
+E, = 0.263 eV 7 -n=2
+E, = 0.068 eV <“ = aot E, = 0.094 eV
+OeV
+
+T
+=} 0 1 2 3 0 1 2
 --- page 7 ---
 -------------- (2 marks for diagram)
 (ii).(c)   Find which of the following functions are eigenfunctions of the momentum   (4)
@@ -2304,6 +3085,23 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (2 marks)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Let us divide a large box into k cells having areas aj, a2, a3, ..., ax (Fig. 5). Then we throw n
+identical balls such that no part of the box is favored. Each cell will contain different number of
+balls. This is a distribution. If this experiment is repeated many times, it is found that certain
+distribution occurs more frequently than others. This particular outcome is the most probable
+distribution.
+
+The probability W of a particular distribution depends on two factors:
+
+i. The a priori probability (G) of the distribution which depends on the property of each
+cell.
+ii. The thermodynamic probability (Q) of the distribution which is the number of
+
+different accessible sequences in which the balls may be distributed among the cells
+without changing the number of balls in each cell. Thus we assume that the balls are
+identical but distinguishable.
 --- page 12 ---
 The a priori probability gi that a ball falls in the i-th cell is equal to the fractional area of the cell.
 If A is the total area, then
@@ -2364,6 +3162,51 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (1 mark)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Let a black body cavity of volume V at temperature T K is filled with large number of
+indistinguishable photons of various frequencies (photon gas). Photons have zero rest mass and
+unit spin angular momentum (thus they are Bosons). Photons of same frequency are
+indistinguishable and behave as a system of non-interacting particles.
+
+To count the photons, we have to estimate the number of cells in the phase space (constructed
+by positions and momentum of all photons). If each cell has the infinitesimal volume h’, then
+the number of cells in the phase space where the momentum lies between p and p + dp is
+
+g(p)dp _S sotydesoutt pfs
+Where,
+S, dxdydz = V = volume of the cavity, and
+S, dp,dpydpz, = 4mp?dp = volume of the spherical cell of radius p and
+thickness dp in the momentum space.
+Therefore,
+
+g(p)dp = = ‘dp
+
+Thus, substituting the values of p and p + dp, we obtain the no of cells (quantum states) with
+frequency between v and v + dv as
+
+g(v)dv = anV Vdv
+
+Since photon can have two types of volarzation and the fact that each cell can be occupied by
+two photons of two different directions of polarizations, we multiply the above expression by
+a factor 2 to obtain
+
+g(v)dv = Svdv
+
+The number of photons with energy between E and E + dE is
+
+g(8)
+N(E)dE = aoefer_, GE
+
+Here g(E)dE is the number of quantum states of photons of energy between E and E +dE.
+
+Tn the black body chamber at constant temperature photons of different energies are constantly
+absorbed or re-emitted by the walls of the enclosure. i.e. the number of photons in the system
+is not constant. Therefore, Y;5N; # 0. This can be taken into consideration by setting the
+Lagrange multiplier a = 0. Thus, for photons of a black body we have (setting a = 0)
+
+N(E)dE = © dE
+ekT-1
 --- page 14 ---
 ------------------------ (1 mark)
 ------------------------ (1 mark)
@@ -2385,6 +3228,21 @@ v. Examples: gas molecules at high temperature and low pressure.
 ------------------------ (Any four postulates=4 marks)
 Maxwell-Boltzmann distribution function with explanation of all terms
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+The corresponding spectral energy density u(v)dv, which is the energy per unit volume in
+radiation between v and v + dv in frequency is
+
+hvN(v)dv _ 82h vedv
+3s wv
+ekT-1
+
+u(v)dv =
+
+a
+
+Above Eqn. is the Planck’s radiation formula in terms of frequency v, and has been successful
+in explaining the black body radiation.
 --- page 15 ---
 ------------------------ (2 marks)
 Any two applications of MB statistics   ------------------------- (2 marks)
@@ -2437,6 +3295,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_CyberSecurity_7010/Quantum and Statistical Physics/ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Apr 2025
 - Text: mixed (16 pages), mean OCR confidence 62.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2659,6 +3518,29 @@ Solution:
 ------------------------- (2 marks)
 ------------------------- (2 marks)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The radius of the nucleus of an atoms is of the order of 10° m. If an electron is confined within
+the nucleus, the uncertainty in its position must not be greater than 1074 m. According to
+uncertainty principle for the lowest limit of accuracy
+
+Ax Ap=
+20
+
+Where Ax is uncertainty in the position and AP is the uncertainty in the momentum.
+
+h __6.625x 10734
+
+AP= =>
+2nAX 2x3.14x2x107+4
+
+(as AX = diameter of nucleus)
+AP = =5.275x 107! kg m/sec
+
+This is the uncertainty in momentum of the electron. It means the momentum of the electron
+would not be less than AP, rather it could be comparable to AP. Thus
+
+AP = =5.275 x 107! kg m/sec
 --- page 6 ---
 ------------------------- (2 marks)
 Problem:
@@ -2675,6 +3557,64 @@ Solution:
 potential well.
 ----------- (4 differences 4 marks)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The kinetic energy of the electron can be obtained in terms of momentum as
+
+T =%mv=p?/2m
+
+__ (5.275x1077+_)?
+2x9.1x10734
+
+~21 2
+(5.275x1077+_ )
+2x9.1X10722x1,6x 10729
+
+eV
+
+=95.55x 10°eV
+= 96MeV
+
+From the above result, it is clear that the electrons inside the nucleus may exist only when it
+possesses the energy of the order of 96 MeV. However, the maximum possible kinetic energy of
+an electron emitted by radioactive nuclei has been found about 4MeV. Hence, it is concluded
+that the electron cannot reside in the nucleus.
+
+The wave-function W(x) is confined to the infinite well while (x) spreads out beyond
+the finite well.
+
+The energy levels in a finite potential well are lower than the infinite well as the
+wavefunction spreads out (by penetrating the classically forbidden region) which reduces
+its kinetic energy.
+
+There are no unbound states in an infinite potential well while there are unbound states in
+a finite potential well when E > Vo.
+
+Electron in finite square well Infinite potential well
+(a=2 nm and V=1.0 eV) (a=2nm and V=~)
+
+The wave
+x a function i
+Wx) % HO) % — function is zero
+
+10eV /\ = at the edge of
+E, = 0.949 eV n=4 the box.
+The wave iF VU
+extends into the uit =
+classically forbidden ’
+
+Fegion, a J , P
+E, = 0.585 eV = ee
+
+ee, = 0.848 eV
+
+Ye. - E, = 0.377 eV
+E, = 0.263 eV 7 -n=2
+E, = 0.068 eV <“ = aot E, = 0.094 eV
+OeV
+
+T
+=} 0 1 2 3 0 1 2
 --- page 7 ---
 -------------- (2 marks for diagram)
 (ii).(c)   Find which of the following functions are eigenfunctions of the momentum   (4)
@@ -2891,6 +3831,23 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (2 marks)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Let us divide a large box into k cells having areas aj, a2, a3, ..., ax (Fig. 5). Then we throw n
+identical balls such that no part of the box is favored. Each cell will contain different number of
+balls. This is a distribution. If this experiment is repeated many times, it is found that certain
+distribution occurs more frequently than others. This particular outcome is the most probable
+distribution.
+
+The probability W of a particular distribution depends on two factors:
+
+i. The a priori probability (G) of the distribution which depends on the property of each
+cell.
+ii. The thermodynamic probability (Q) of the distribution which is the number of
+
+different accessible sequences in which the balls may be distributed among the cells
+without changing the number of balls in each cell. Thus we assume that the balls are
+identical but distinguishable.
 --- page 12 ---
 The a priori probability gi that a ball falls in the i-th cell is equal to the fractional area of the cell.
 If A is the total area, then
@@ -2951,6 +3908,51 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (1 mark)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Let a black body cavity of volume V at temperature T K is filled with large number of
+indistinguishable photons of various frequencies (photon gas). Photons have zero rest mass and
+unit spin angular momentum (thus they are Bosons). Photons of same frequency are
+indistinguishable and behave as a system of non-interacting particles.
+
+To count the photons, we have to estimate the number of cells in the phase space (constructed
+by positions and momentum of all photons). If each cell has the infinitesimal volume h’, then
+the number of cells in the phase space where the momentum lies between p and p + dp is
+
+g(p)dp _S sotydesoutt pfs
+Where,
+S, dxdydz = V = volume of the cavity, and
+S, dp,dpydpz, = 4mp?dp = volume of the spherical cell of radius p and
+thickness dp in the momentum space.
+Therefore,
+
+g(p)dp = = ‘dp
+
+Thus, substituting the values of p and p + dp, we obtain the no of cells (quantum states) with
+frequency between v and v + dv as
+
+g(v)dv = anV Vdv
+
+Since photon can have two types of volarzation and the fact that each cell can be occupied by
+two photons of two different directions of polarizations, we multiply the above expression by
+a factor 2 to obtain
+
+g(v)dv = Svdv
+
+The number of photons with energy between E and E + dE is
+
+g(8)
+N(E)dE = aoefer_, GE
+
+Here g(E)dE is the number of quantum states of photons of energy between E and E +dE.
+
+Tn the black body chamber at constant temperature photons of different energies are constantly
+absorbed or re-emitted by the walls of the enclosure. i.e. the number of photons in the system
+is not constant. Therefore, Y;5N; # 0. This can be taken into consideration by setting the
+Lagrange multiplier a = 0. Thus, for photons of a black body we have (setting a = 0)
+
+N(E)dE = © dE
+ekT-1
 --- page 14 ---
 ------------------------ (1 mark)
 ------------------------ (1 mark)
@@ -2972,6 +3974,21 @@ v. Examples: gas molecules at high temperature and low pressure.
 ------------------------ (Any four postulates=4 marks)
 Maxwell-Boltzmann distribution function with explanation of all terms
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+The corresponding spectral energy density u(v)dv, which is the energy per unit volume in
+radiation between v and v + dv in frequency is
+
+hvN(v)dv _ 82h vedv
+3s wv
+ekT-1
+
+u(v)dv =
+
+a
+
+Above Eqn. is the Planck’s radiation formula in terms of frequency v, and has been successful
+in explaining the black body radiation.
 --- page 15 ---
 ------------------------ (2 marks)
 Any two applications of MB statistics   ------------------------- (2 marks)
@@ -3024,6 +4041,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_DS_7009/Quantum and Statistical Physics/ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Apr 2025
 - Text: mixed (16 pages), mean OCR confidence 62.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3246,6 +4264,29 @@ Solution:
 ------------------------- (2 marks)
 ------------------------- (2 marks)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The radius of the nucleus of an atoms is of the order of 10° m. If an electron is confined within
+the nucleus, the uncertainty in its position must not be greater than 1074 m. According to
+uncertainty principle for the lowest limit of accuracy
+
+Ax Ap=
+20
+
+Where Ax is uncertainty in the position and AP is the uncertainty in the momentum.
+
+h __6.625x 10734
+
+AP= =>
+2nAX 2x3.14x2x107+4
+
+(as AX = diameter of nucleus)
+AP = =5.275x 107! kg m/sec
+
+This is the uncertainty in momentum of the electron. It means the momentum of the electron
+would not be less than AP, rather it could be comparable to AP. Thus
+
+AP = =5.275 x 107! kg m/sec
 --- page 6 ---
 ------------------------- (2 marks)
 Problem:
@@ -3262,6 +4303,64 @@ Solution:
 potential well.
 ----------- (4 differences 4 marks)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The kinetic energy of the electron can be obtained in terms of momentum as
+
+T =%mv=p?/2m
+
+__ (5.275x1077+_)?
+2x9.1x10734
+
+~21 2
+(5.275x1077+_ )
+2x9.1X10722x1,6x 10729
+
+eV
+
+=95.55x 10°eV
+= 96MeV
+
+From the above result, it is clear that the electrons inside the nucleus may exist only when it
+possesses the energy of the order of 96 MeV. However, the maximum possible kinetic energy of
+an electron emitted by radioactive nuclei has been found about 4MeV. Hence, it is concluded
+that the electron cannot reside in the nucleus.
+
+The wave-function W(x) is confined to the infinite well while (x) spreads out beyond
+the finite well.
+
+The energy levels in a finite potential well are lower than the infinite well as the
+wavefunction spreads out (by penetrating the classically forbidden region) which reduces
+its kinetic energy.
+
+There are no unbound states in an infinite potential well while there are unbound states in
+a finite potential well when E > Vo.
+
+Electron in finite square well Infinite potential well
+(a=2 nm and V=1.0 eV) (a=2nm and V=~)
+
+The wave
+x a function i
+Wx) % HO) % — function is zero
+
+10eV /\ = at the edge of
+E, = 0.949 eV n=4 the box.
+The wave iF VU
+extends into the uit =
+classically forbidden ’
+
+Fegion, a J , P
+E, = 0.585 eV = ee
+
+ee, = 0.848 eV
+
+Ye. - E, = 0.377 eV
+E, = 0.263 eV 7 -n=2
+E, = 0.068 eV <“ = aot E, = 0.094 eV
+OeV
+
+T
+=} 0 1 2 3 0 1 2
 --- page 7 ---
 -------------- (2 marks for diagram)
 (ii).(c)   Find which of the following functions are eigenfunctions of the momentum   (4)
@@ -3478,6 +4577,23 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (2 marks)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Let us divide a large box into k cells having areas aj, a2, a3, ..., ax (Fig. 5). Then we throw n
+identical balls such that no part of the box is favored. Each cell will contain different number of
+balls. This is a distribution. If this experiment is repeated many times, it is found that certain
+distribution occurs more frequently than others. This particular outcome is the most probable
+distribution.
+
+The probability W of a particular distribution depends on two factors:
+
+i. The a priori probability (G) of the distribution which depends on the property of each
+cell.
+ii. The thermodynamic probability (Q) of the distribution which is the number of
+
+different accessible sequences in which the balls may be distributed among the cells
+without changing the number of balls in each cell. Thus we assume that the balls are
+identical but distinguishable.
 --- page 12 ---
 The a priori probability gi that a ball falls in the i-th cell is equal to the fractional area of the cell.
 If A is the total area, then
@@ -3538,6 +4654,51 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (1 mark)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Let a black body cavity of volume V at temperature T K is filled with large number of
+indistinguishable photons of various frequencies (photon gas). Photons have zero rest mass and
+unit spin angular momentum (thus they are Bosons). Photons of same frequency are
+indistinguishable and behave as a system of non-interacting particles.
+
+To count the photons, we have to estimate the number of cells in the phase space (constructed
+by positions and momentum of all photons). If each cell has the infinitesimal volume h’, then
+the number of cells in the phase space where the momentum lies between p and p + dp is
+
+g(p)dp _S sotydesoutt pfs
+Where,
+S, dxdydz = V = volume of the cavity, and
+S, dp,dpydpz, = 4mp?dp = volume of the spherical cell of radius p and
+thickness dp in the momentum space.
+Therefore,
+
+g(p)dp = = ‘dp
+
+Thus, substituting the values of p and p + dp, we obtain the no of cells (quantum states) with
+frequency between v and v + dv as
+
+g(v)dv = anV Vdv
+
+Since photon can have two types of volarzation and the fact that each cell can be occupied by
+two photons of two different directions of polarizations, we multiply the above expression by
+a factor 2 to obtain
+
+g(v)dv = Svdv
+
+The number of photons with energy between E and E + dE is
+
+g(8)
+N(E)dE = aoefer_, GE
+
+Here g(E)dE is the number of quantum states of photons of energy between E and E +dE.
+
+Tn the black body chamber at constant temperature photons of different energies are constantly
+absorbed or re-emitted by the walls of the enclosure. i.e. the number of photons in the system
+is not constant. Therefore, Y;5N; # 0. This can be taken into consideration by setting the
+Lagrange multiplier a = 0. Thus, for photons of a black body we have (setting a = 0)
+
+N(E)dE = © dE
+ekT-1
 --- page 14 ---
 ------------------------ (1 mark)
 ------------------------ (1 mark)
@@ -3559,6 +4720,21 @@ v. Examples: gas molecules at high temperature and low pressure.
 ------------------------ (Any four postulates=4 marks)
 Maxwell-Boltzmann distribution function with explanation of all terms
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+The corresponding spectral energy density u(v)dv, which is the energy per unit volume in
+radiation between v and v + dv in frequency is
+
+hvN(v)dv _ 82h vedv
+3s wv
+ekT-1
+
+u(v)dv =
+
+a
+
+Above Eqn. is the Planck’s radiation formula in terms of frequency v, and has been successful
+in explaining the black body radiation.
 --- page 15 ---
 ------------------------ (2 marks)
 Any two applications of MB statistics   ------------------------- (2 marks)
@@ -3611,6 +4787,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_EXTC_7006/Quantum and Statistical Physics/ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Apr 2025
 - Text: mixed (16 pages), mean OCR confidence 62.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -3833,6 +5010,29 @@ Solution:
 ------------------------- (2 marks)
 ------------------------- (2 marks)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The radius of the nucleus of an atoms is of the order of 10° m. If an electron is confined within
+the nucleus, the uncertainty in its position must not be greater than 1074 m. According to
+uncertainty principle for the lowest limit of accuracy
+
+Ax Ap=
+20
+
+Where Ax is uncertainty in the position and AP is the uncertainty in the momentum.
+
+h __6.625x 10734
+
+AP= =>
+2nAX 2x3.14x2x107+4
+
+(as AX = diameter of nucleus)
+AP = =5.275x 107! kg m/sec
+
+This is the uncertainty in momentum of the electron. It means the momentum of the electron
+would not be less than AP, rather it could be comparable to AP. Thus
+
+AP = =5.275 x 107! kg m/sec
 --- page 6 ---
 ------------------------- (2 marks)
 Problem:
@@ -3849,6 +5049,64 @@ Solution:
 potential well.
 ----------- (4 differences 4 marks)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The kinetic energy of the electron can be obtained in terms of momentum as
+
+T =%mv=p?/2m
+
+__ (5.275x1077+_)?
+2x9.1x10734
+
+~21 2
+(5.275x1077+_ )
+2x9.1X10722x1,6x 10729
+
+eV
+
+=95.55x 10°eV
+= 96MeV
+
+From the above result, it is clear that the electrons inside the nucleus may exist only when it
+possesses the energy of the order of 96 MeV. However, the maximum possible kinetic energy of
+an electron emitted by radioactive nuclei has been found about 4MeV. Hence, it is concluded
+that the electron cannot reside in the nucleus.
+
+The wave-function W(x) is confined to the infinite well while (x) spreads out beyond
+the finite well.
+
+The energy levels in a finite potential well are lower than the infinite well as the
+wavefunction spreads out (by penetrating the classically forbidden region) which reduces
+its kinetic energy.
+
+There are no unbound states in an infinite potential well while there are unbound states in
+a finite potential well when E > Vo.
+
+Electron in finite square well Infinite potential well
+(a=2 nm and V=1.0 eV) (a=2nm and V=~)
+
+The wave
+x a function i
+Wx) % HO) % — function is zero
+
+10eV /\ = at the edge of
+E, = 0.949 eV n=4 the box.
+The wave iF VU
+extends into the uit =
+classically forbidden ’
+
+Fegion, a J , P
+E, = 0.585 eV = ee
+
+ee, = 0.848 eV
+
+Ye. - E, = 0.377 eV
+E, = 0.263 eV 7 -n=2
+E, = 0.068 eV <“ = aot E, = 0.094 eV
+OeV
+
+T
+=} 0 1 2 3 0 1 2
 --- page 7 ---
 -------------- (2 marks for diagram)
 (ii).(c)   Find which of the following functions are eigenfunctions of the momentum   (4)
@@ -4065,6 +5323,23 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (2 marks)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Let us divide a large box into k cells having areas aj, a2, a3, ..., ax (Fig. 5). Then we throw n
+identical balls such that no part of the box is favored. Each cell will contain different number of
+balls. This is a distribution. If this experiment is repeated many times, it is found that certain
+distribution occurs more frequently than others. This particular outcome is the most probable
+distribution.
+
+The probability W of a particular distribution depends on two factors:
+
+i. The a priori probability (G) of the distribution which depends on the property of each
+cell.
+ii. The thermodynamic probability (Q) of the distribution which is the number of
+
+different accessible sequences in which the balls may be distributed among the cells
+without changing the number of balls in each cell. Thus we assume that the balls are
+identical but distinguishable.
 --- page 12 ---
 The a priori probability gi that a ball falls in the i-th cell is equal to the fractional area of the cell.
 If A is the total area, then
@@ -4125,6 +5400,51 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (1 mark)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Let a black body cavity of volume V at temperature T K is filled with large number of
+indistinguishable photons of various frequencies (photon gas). Photons have zero rest mass and
+unit spin angular momentum (thus they are Bosons). Photons of same frequency are
+indistinguishable and behave as a system of non-interacting particles.
+
+To count the photons, we have to estimate the number of cells in the phase space (constructed
+by positions and momentum of all photons). If each cell has the infinitesimal volume h’, then
+the number of cells in the phase space where the momentum lies between p and p + dp is
+
+g(p)dp _S sotydesoutt pfs
+Where,
+S, dxdydz = V = volume of the cavity, and
+S, dp,dpydpz, = 4mp?dp = volume of the spherical cell of radius p and
+thickness dp in the momentum space.
+Therefore,
+
+g(p)dp = = ‘dp
+
+Thus, substituting the values of p and p + dp, we obtain the no of cells (quantum states) with
+frequency between v and v + dv as
+
+g(v)dv = anV Vdv
+
+Since photon can have two types of volarzation and the fact that each cell can be occupied by
+two photons of two different directions of polarizations, we multiply the above expression by
+a factor 2 to obtain
+
+g(v)dv = Svdv
+
+The number of photons with energy between E and E + dE is
+
+g(8)
+N(E)dE = aoefer_, GE
+
+Here g(E)dE is the number of quantum states of photons of energy between E and E +dE.
+
+Tn the black body chamber at constant temperature photons of different energies are constantly
+absorbed or re-emitted by the walls of the enclosure. i.e. the number of photons in the system
+is not constant. Therefore, Y;5N; # 0. This can be taken into consideration by setting the
+Lagrange multiplier a = 0. Thus, for photons of a black body we have (setting a = 0)
+
+N(E)dE = © dE
+ekT-1
 --- page 14 ---
 ------------------------ (1 mark)
 ------------------------ (1 mark)
@@ -4146,6 +5466,21 @@ v. Examples: gas molecules at high temperature and low pressure.
 ------------------------ (Any four postulates=4 marks)
 Maxwell-Boltzmann distribution function with explanation of all terms
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+The corresponding spectral energy density u(v)dv, which is the energy per unit volume in
+radiation between v and v + dv in frequency is
+
+hvN(v)dv _ 82h vedv
+3s wv
+ekT-1
+
+u(v)dv =
+
+a
+
+Above Eqn. is the Planck’s radiation formula in terms of frequency v, and has been successful
+in explaining the black body radiation.
 --- page 15 ---
 ------------------------ (2 marks)
 Any two applications of MB statistics   ------------------------- (2 marks)
@@ -4198,6 +5533,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_IT_7001/Quantum and Statistical Physics/ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Apr 2025
 - Text: mixed (16 pages), mean OCR confidence 62.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -4420,6 +5756,29 @@ Solution:
 ------------------------- (2 marks)
 ------------------------- (2 marks)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The radius of the nucleus of an atoms is of the order of 10° m. If an electron is confined within
+the nucleus, the uncertainty in its position must not be greater than 1074 m. According to
+uncertainty principle for the lowest limit of accuracy
+
+Ax Ap=
+20
+
+Where Ax is uncertainty in the position and AP is the uncertainty in the momentum.
+
+h __6.625x 10734
+
+AP= =>
+2nAX 2x3.14x2x107+4
+
+(as AX = diameter of nucleus)
+AP = =5.275x 107! kg m/sec
+
+This is the uncertainty in momentum of the electron. It means the momentum of the electron
+would not be less than AP, rather it could be comparable to AP. Thus
+
+AP = =5.275 x 107! kg m/sec
 --- page 6 ---
 ------------------------- (2 marks)
 Problem:
@@ -4436,6 +5795,64 @@ Solution:
 potential well.
 ----------- (4 differences 4 marks)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The kinetic energy of the electron can be obtained in terms of momentum as
+
+T =%mv=p?/2m
+
+__ (5.275x1077+_)?
+2x9.1x10734
+
+~21 2
+(5.275x1077+_ )
+2x9.1X10722x1,6x 10729
+
+eV
+
+=95.55x 10°eV
+= 96MeV
+
+From the above result, it is clear that the electrons inside the nucleus may exist only when it
+possesses the energy of the order of 96 MeV. However, the maximum possible kinetic energy of
+an electron emitted by radioactive nuclei has been found about 4MeV. Hence, it is concluded
+that the electron cannot reside in the nucleus.
+
+The wave-function W(x) is confined to the infinite well while (x) spreads out beyond
+the finite well.
+
+The energy levels in a finite potential well are lower than the infinite well as the
+wavefunction spreads out (by penetrating the classically forbidden region) which reduces
+its kinetic energy.
+
+There are no unbound states in an infinite potential well while there are unbound states in
+a finite potential well when E > Vo.
+
+Electron in finite square well Infinite potential well
+(a=2 nm and V=1.0 eV) (a=2nm and V=~)
+
+The wave
+x a function i
+Wx) % HO) % — function is zero
+
+10eV /\ = at the edge of
+E, = 0.949 eV n=4 the box.
+The wave iF VU
+extends into the uit =
+classically forbidden ’
+
+Fegion, a J , P
+E, = 0.585 eV = ee
+
+ee, = 0.848 eV
+
+Ye. - E, = 0.377 eV
+E, = 0.263 eV 7 -n=2
+E, = 0.068 eV <“ = aot E, = 0.094 eV
+OeV
+
+T
+=} 0 1 2 3 0 1 2
 --- page 7 ---
 -------------- (2 marks for diagram)
 (ii).(c)   Find which of the following functions are eigenfunctions of the momentum   (4)
@@ -4652,6 +6069,23 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (2 marks)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Let us divide a large box into k cells having areas aj, a2, a3, ..., ax (Fig. 5). Then we throw n
+identical balls such that no part of the box is favored. Each cell will contain different number of
+balls. This is a distribution. If this experiment is repeated many times, it is found that certain
+distribution occurs more frequently than others. This particular outcome is the most probable
+distribution.
+
+The probability W of a particular distribution depends on two factors:
+
+i. The a priori probability (G) of the distribution which depends on the property of each
+cell.
+ii. The thermodynamic probability (Q) of the distribution which is the number of
+
+different accessible sequences in which the balls may be distributed among the cells
+without changing the number of balls in each cell. Thus we assume that the balls are
+identical but distinguishable.
 --- page 12 ---
 The a priori probability gi that a ball falls in the i-th cell is equal to the fractional area of the cell.
 If A is the total area, then
@@ -4712,6 +6146,51 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (1 mark)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Let a black body cavity of volume V at temperature T K is filled with large number of
+indistinguishable photons of various frequencies (photon gas). Photons have zero rest mass and
+unit spin angular momentum (thus they are Bosons). Photons of same frequency are
+indistinguishable and behave as a system of non-interacting particles.
+
+To count the photons, we have to estimate the number of cells in the phase space (constructed
+by positions and momentum of all photons). If each cell has the infinitesimal volume h’, then
+the number of cells in the phase space where the momentum lies between p and p + dp is
+
+g(p)dp _S sotydesoutt pfs
+Where,
+S, dxdydz = V = volume of the cavity, and
+S, dp,dpydpz, = 4mp?dp = volume of the spherical cell of radius p and
+thickness dp in the momentum space.
+Therefore,
+
+g(p)dp = = ‘dp
+
+Thus, substituting the values of p and p + dp, we obtain the no of cells (quantum states) with
+frequency between v and v + dv as
+
+g(v)dv = anV Vdv
+
+Since photon can have two types of volarzation and the fact that each cell can be occupied by
+two photons of two different directions of polarizations, we multiply the above expression by
+a factor 2 to obtain
+
+g(v)dv = Svdv
+
+The number of photons with energy between E and E + dE is
+
+g(8)
+N(E)dE = aoefer_, GE
+
+Here g(E)dE is the number of quantum states of photons of energy between E and E +dE.
+
+Tn the black body chamber at constant temperature photons of different energies are constantly
+absorbed or re-emitted by the walls of the enclosure. i.e. the number of photons in the system
+is not constant. Therefore, Y;5N; # 0. This can be taken into consideration by setting the
+Lagrange multiplier a = 0. Thus, for photons of a black body we have (setting a = 0)
+
+N(E)dE = © dE
+ekT-1
 --- page 14 ---
 ------------------------ (1 mark)
 ------------------------ (1 mark)
@@ -4733,6 +6212,21 @@ v. Examples: gas molecules at high temperature and low pressure.
 ------------------------ (Any four postulates=4 marks)
 Maxwell-Boltzmann distribution function with explanation of all terms
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+The corresponding spectral energy density u(v)dv, which is the energy per unit volume in
+radiation between v and v + dv in frequency is
+
+hvN(v)dv _ 82h vedv
+3s wv
+ekT-1
+
+u(v)dv =
+
+a
+
+Above Eqn. is the Planck’s radiation formula in terms of frequency v, and has been successful
+in explaining the black body radiation.
 --- page 15 ---
 ------------------------ (2 marks)
 Any two applications of MB statistics   ------------------------- (2 marks)
@@ -4785,6 +6279,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/BTech_Mechatronics_7004/Quantum and Statistical Physics/ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Apr 2025
 - Text: mixed (16 pages), mean OCR confidence 62.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -5007,6 +6502,29 @@ Solution:
 ------------------------- (2 marks)
 ------------------------- (2 marks)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The radius of the nucleus of an atoms is of the order of 10° m. If an electron is confined within
+the nucleus, the uncertainty in its position must not be greater than 1074 m. According to
+uncertainty principle for the lowest limit of accuracy
+
+Ax Ap=
+20
+
+Where Ax is uncertainty in the position and AP is the uncertainty in the momentum.
+
+h __6.625x 10734
+
+AP= =>
+2nAX 2x3.14x2x107+4
+
+(as AX = diameter of nucleus)
+AP = =5.275x 107! kg m/sec
+
+This is the uncertainty in momentum of the electron. It means the momentum of the electron
+would not be less than AP, rather it could be comparable to AP. Thus
+
+AP = =5.275 x 107! kg m/sec
 --- page 6 ---
 ------------------------- (2 marks)
 Problem:
@@ -5023,6 +6541,64 @@ Solution:
 potential well.
 ----------- (4 differences 4 marks)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The kinetic energy of the electron can be obtained in terms of momentum as
+
+T =%mv=p?/2m
+
+__ (5.275x1077+_)?
+2x9.1x10734
+
+~21 2
+(5.275x1077+_ )
+2x9.1X10722x1,6x 10729
+
+eV
+
+=95.55x 10°eV
+= 96MeV
+
+From the above result, it is clear that the electrons inside the nucleus may exist only when it
+possesses the energy of the order of 96 MeV. However, the maximum possible kinetic energy of
+an electron emitted by radioactive nuclei has been found about 4MeV. Hence, it is concluded
+that the electron cannot reside in the nucleus.
+
+The wave-function W(x) is confined to the infinite well while (x) spreads out beyond
+the finite well.
+
+The energy levels in a finite potential well are lower than the infinite well as the
+wavefunction spreads out (by penetrating the classically forbidden region) which reduces
+its kinetic energy.
+
+There are no unbound states in an infinite potential well while there are unbound states in
+a finite potential well when E > Vo.
+
+Electron in finite square well Infinite potential well
+(a=2 nm and V=1.0 eV) (a=2nm and V=~)
+
+The wave
+x a function i
+Wx) % HO) % — function is zero
+
+10eV /\ = at the edge of
+E, = 0.949 eV n=4 the box.
+The wave iF VU
+extends into the uit =
+classically forbidden ’
+
+Fegion, a J , P
+E, = 0.585 eV = ee
+
+ee, = 0.848 eV
+
+Ye. - E, = 0.377 eV
+E, = 0.263 eV 7 -n=2
+E, = 0.068 eV <“ = aot E, = 0.094 eV
+OeV
+
+T
+=} 0 1 2 3 0 1 2
 --- page 7 ---
 -------------- (2 marks for diagram)
 (ii).(c)   Find which of the following functions are eigenfunctions of the momentum   (4)
@@ -5239,6 +6815,23 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (2 marks)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Let us divide a large box into k cells having areas aj, a2, a3, ..., ax (Fig. 5). Then we throw n
+identical balls such that no part of the box is favored. Each cell will contain different number of
+balls. This is a distribution. If this experiment is repeated many times, it is found that certain
+distribution occurs more frequently than others. This particular outcome is the most probable
+distribution.
+
+The probability W of a particular distribution depends on two factors:
+
+i. The a priori probability (G) of the distribution which depends on the property of each
+cell.
+ii. The thermodynamic probability (Q) of the distribution which is the number of
+
+different accessible sequences in which the balls may be distributed among the cells
+without changing the number of balls in each cell. Thus we assume that the balls are
+identical but distinguishable.
 --- page 12 ---
 The a priori probability gi that a ball falls in the i-th cell is equal to the fractional area of the cell.
 If A is the total area, then
@@ -5299,6 +6892,51 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (1 mark)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Let a black body cavity of volume V at temperature T K is filled with large number of
+indistinguishable photons of various frequencies (photon gas). Photons have zero rest mass and
+unit spin angular momentum (thus they are Bosons). Photons of same frequency are
+indistinguishable and behave as a system of non-interacting particles.
+
+To count the photons, we have to estimate the number of cells in the phase space (constructed
+by positions and momentum of all photons). If each cell has the infinitesimal volume h’, then
+the number of cells in the phase space where the momentum lies between p and p + dp is
+
+g(p)dp _S sotydesoutt pfs
+Where,
+S, dxdydz = V = volume of the cavity, and
+S, dp,dpydpz, = 4mp?dp = volume of the spherical cell of radius p and
+thickness dp in the momentum space.
+Therefore,
+
+g(p)dp = = ‘dp
+
+Thus, substituting the values of p and p + dp, we obtain the no of cells (quantum states) with
+frequency between v and v + dv as
+
+g(v)dv = anV Vdv
+
+Since photon can have two types of volarzation and the fact that each cell can be occupied by
+two photons of two different directions of polarizations, we multiply the above expression by
+a factor 2 to obtain
+
+g(v)dv = Svdv
+
+The number of photons with energy between E and E + dE is
+
+g(8)
+N(E)dE = aoefer_, GE
+
+Here g(E)dE is the number of quantum states of photons of energy between E and E +dE.
+
+Tn the black body chamber at constant temperature photons of different energies are constantly
+absorbed or re-emitted by the walls of the enclosure. i.e. the number of photons in the system
+is not constant. Therefore, Y;5N; # 0. This can be taken into consideration by setting the
+Lagrange multiplier a = 0. Thus, for photons of a black body we have (setting a = 0)
+
+N(E)dE = © dE
+ekT-1
 --- page 14 ---
 ------------------------ (1 mark)
 ------------------------ (1 mark)
@@ -5320,6 +6958,21 @@ v. Examples: gas molecules at high temperature and low pressure.
 ------------------------ (Any four postulates=4 marks)
 Maxwell-Boltzmann distribution function with explanation of all terms
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+The corresponding spectral energy density u(v)dv, which is the energy per unit volume in
+radiation between v and v + dv in frequency is
+
+hvN(v)dv _ 82h vedv
+3s wv
+ekT-1
+
+u(v)dv =
+
+a
+
+Above Eqn. is the Planck’s radiation formula in terms of frequency v, and has been successful
+in explaining the black body radiation.
 --- page 15 ---
 ------------------------ (2 marks)
 Any two applications of MB statistics   ------------------------- (2 marks)
@@ -5372,6 +7025,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/MBATech_Computer_7047/Quantum and Statistical Physics/ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Apr 2025
 - Text: mixed (16 pages), mean OCR confidence 62.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -5594,6 +7248,29 @@ Solution:
 ------------------------- (2 marks)
 ------------------------- (2 marks)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The radius of the nucleus of an atoms is of the order of 10° m. If an electron is confined within
+the nucleus, the uncertainty in its position must not be greater than 1074 m. According to
+uncertainty principle for the lowest limit of accuracy
+
+Ax Ap=
+20
+
+Where Ax is uncertainty in the position and AP is the uncertainty in the momentum.
+
+h __6.625x 10734
+
+AP= =>
+2nAX 2x3.14x2x107+4
+
+(as AX = diameter of nucleus)
+AP = =5.275x 107! kg m/sec
+
+This is the uncertainty in momentum of the electron. It means the momentum of the electron
+would not be less than AP, rather it could be comparable to AP. Thus
+
+AP = =5.275 x 107! kg m/sec
 --- page 6 ---
 ------------------------- (2 marks)
 Problem:
@@ -5610,6 +7287,64 @@ Solution:
 potential well.
 ----------- (4 differences 4 marks)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The kinetic energy of the electron can be obtained in terms of momentum as
+
+T =%mv=p?/2m
+
+__ (5.275x1077+_)?
+2x9.1x10734
+
+~21 2
+(5.275x1077+_ )
+2x9.1X10722x1,6x 10729
+
+eV
+
+=95.55x 10°eV
+= 96MeV
+
+From the above result, it is clear that the electrons inside the nucleus may exist only when it
+possesses the energy of the order of 96 MeV. However, the maximum possible kinetic energy of
+an electron emitted by radioactive nuclei has been found about 4MeV. Hence, it is concluded
+that the electron cannot reside in the nucleus.
+
+The wave-function W(x) is confined to the infinite well while (x) spreads out beyond
+the finite well.
+
+The energy levels in a finite potential well are lower than the infinite well as the
+wavefunction spreads out (by penetrating the classically forbidden region) which reduces
+its kinetic energy.
+
+There are no unbound states in an infinite potential well while there are unbound states in
+a finite potential well when E > Vo.
+
+Electron in finite square well Infinite potential well
+(a=2 nm and V=1.0 eV) (a=2nm and V=~)
+
+The wave
+x a function i
+Wx) % HO) % — function is zero
+
+10eV /\ = at the edge of
+E, = 0.949 eV n=4 the box.
+The wave iF VU
+extends into the uit =
+classically forbidden ’
+
+Fegion, a J , P
+E, = 0.585 eV = ee
+
+ee, = 0.848 eV
+
+Ye. - E, = 0.377 eV
+E, = 0.263 eV 7 -n=2
+E, = 0.068 eV <“ = aot E, = 0.094 eV
+OeV
+
+T
+=} 0 1 2 3 0 1 2
 --- page 7 ---
 -------------- (2 marks for diagram)
 (ii).(c)   Find which of the following functions are eigenfunctions of the momentum   (4)
@@ -5826,6 +7561,23 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (2 marks)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Let us divide a large box into k cells having areas aj, a2, a3, ..., ax (Fig. 5). Then we throw n
+identical balls such that no part of the box is favored. Each cell will contain different number of
+balls. This is a distribution. If this experiment is repeated many times, it is found that certain
+distribution occurs more frequently than others. This particular outcome is the most probable
+distribution.
+
+The probability W of a particular distribution depends on two factors:
+
+i. The a priori probability (G) of the distribution which depends on the property of each
+cell.
+ii. The thermodynamic probability (Q) of the distribution which is the number of
+
+different accessible sequences in which the balls may be distributed among the cells
+without changing the number of balls in each cell. Thus we assume that the balls are
+identical but distinguishable.
 --- page 12 ---
 The a priori probability gi that a ball falls in the i-th cell is equal to the fractional area of the cell.
 If A is the total area, then
@@ -5886,6 +7638,51 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (1 mark)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Let a black body cavity of volume V at temperature T K is filled with large number of
+indistinguishable photons of various frequencies (photon gas). Photons have zero rest mass and
+unit spin angular momentum (thus they are Bosons). Photons of same frequency are
+indistinguishable and behave as a system of non-interacting particles.
+
+To count the photons, we have to estimate the number of cells in the phase space (constructed
+by positions and momentum of all photons). If each cell has the infinitesimal volume h’, then
+the number of cells in the phase space where the momentum lies between p and p + dp is
+
+g(p)dp _S sotydesoutt pfs
+Where,
+S, dxdydz = V = volume of the cavity, and
+S, dp,dpydpz, = 4mp?dp = volume of the spherical cell of radius p and
+thickness dp in the momentum space.
+Therefore,
+
+g(p)dp = = ‘dp
+
+Thus, substituting the values of p and p + dp, we obtain the no of cells (quantum states) with
+frequency between v and v + dv as
+
+g(v)dv = anV Vdv
+
+Since photon can have two types of volarzation and the fact that each cell can be occupied by
+two photons of two different directions of polarizations, we multiply the above expression by
+a factor 2 to obtain
+
+g(v)dv = Svdv
+
+The number of photons with energy between E and E + dE is
+
+g(8)
+N(E)dE = aoefer_, GE
+
+Here g(E)dE is the number of quantum states of photons of energy between E and E +dE.
+
+Tn the black body chamber at constant temperature photons of different energies are constantly
+absorbed or re-emitted by the walls of the enclosure. i.e. the number of photons in the system
+is not constant. Therefore, Y;5N; # 0. This can be taken into consideration by setting the
+Lagrange multiplier a = 0. Thus, for photons of a black body we have (setting a = 0)
+
+N(E)dE = © dE
+ekT-1
 --- page 14 ---
 ------------------------ (1 mark)
 ------------------------ (1 mark)
@@ -5907,6 +7704,21 @@ v. Examples: gas molecules at high temperature and low pressure.
 ------------------------ (Any four postulates=4 marks)
 Maxwell-Boltzmann distribution function with explanation of all terms
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+The corresponding spectral energy density u(v)dv, which is the energy per unit volume in
+radiation between v and v + dv in frequency is
+
+hvN(v)dv _ 82h vedv
+3s wv
+ekT-1
+
+u(v)dv =
+
+a
+
+Above Eqn. is the Planck’s radiation formula in terms of frequency v, and has been successful
+in explaining the black body radiation.
 --- page 15 ---
 ------------------------ (2 marks)
 Any two applications of MB statistics   ------------------------- (2 marks)
@@ -5959,6 +7771,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_02/Final-Exam/MBATech_DS_7052/Quantum and Statistical Physics/ANS_Quantum and Statistical Physics(702BS0C066)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Apr 2025
 - Text: mixed (16 pages), mean OCR confidence 62.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -6181,6 +7994,29 @@ Solution:
 ------------------------- (2 marks)
 ------------------------- (2 marks)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The radius of the nucleus of an atoms is of the order of 10° m. If an electron is confined within
+the nucleus, the uncertainty in its position must not be greater than 1074 m. According to
+uncertainty principle for the lowest limit of accuracy
+
+Ax Ap=
+20
+
+Where Ax is uncertainty in the position and AP is the uncertainty in the momentum.
+
+h __6.625x 10734
+
+AP= =>
+2nAX 2x3.14x2x107+4
+
+(as AX = diameter of nucleus)
+AP = =5.275x 107! kg m/sec
+
+This is the uncertainty in momentum of the electron. It means the momentum of the electron
+would not be less than AP, rather it could be comparable to AP. Thus
+
+AP = =5.275 x 107! kg m/sec
 --- page 6 ---
 ------------------------- (2 marks)
 Problem:
@@ -6197,6 +8033,64 @@ Solution:
 potential well.
 ----------- (4 differences 4 marks)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The kinetic energy of the electron can be obtained in terms of momentum as
+
+T =%mv=p?/2m
+
+__ (5.275x1077+_)?
+2x9.1x10734
+
+~21 2
+(5.275x1077+_ )
+2x9.1X10722x1,6x 10729
+
+eV
+
+=95.55x 10°eV
+= 96MeV
+
+From the above result, it is clear that the electrons inside the nucleus may exist only when it
+possesses the energy of the order of 96 MeV. However, the maximum possible kinetic energy of
+an electron emitted by radioactive nuclei has been found about 4MeV. Hence, it is concluded
+that the electron cannot reside in the nucleus.
+
+The wave-function W(x) is confined to the infinite well while (x) spreads out beyond
+the finite well.
+
+The energy levels in a finite potential well are lower than the infinite well as the
+wavefunction spreads out (by penetrating the classically forbidden region) which reduces
+its kinetic energy.
+
+There are no unbound states in an infinite potential well while there are unbound states in
+a finite potential well when E > Vo.
+
+Electron in finite square well Infinite potential well
+(a=2 nm and V=1.0 eV) (a=2nm and V=~)
+
+The wave
+x a function i
+Wx) % HO) % — function is zero
+
+10eV /\ = at the edge of
+E, = 0.949 eV n=4 the box.
+The wave iF VU
+extends into the uit =
+classically forbidden ’
+
+Fegion, a J , P
+E, = 0.585 eV = ee
+
+ee, = 0.848 eV
+
+Ye. - E, = 0.377 eV
+E, = 0.263 eV 7 -n=2
+E, = 0.068 eV <“ = aot E, = 0.094 eV
+OeV
+
+T
+=} 0 1 2 3 0 1 2
 --- page 7 ---
 -------------- (2 marks for diagram)
 (ii).(c)   Find which of the following functions are eigenfunctions of the momentum   (4)
@@ -6413,6 +8307,23 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (2 marks)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Let us divide a large box into k cells having areas aj, a2, a3, ..., ax (Fig. 5). Then we throw n
+identical balls such that no part of the box is favored. Each cell will contain different number of
+balls. This is a distribution. If this experiment is repeated many times, it is found that certain
+distribution occurs more frequently than others. This particular outcome is the most probable
+distribution.
+
+The probability W of a particular distribution depends on two factors:
+
+i. The a priori probability (G) of the distribution which depends on the property of each
+cell.
+ii. The thermodynamic probability (Q) of the distribution which is the number of
+
+different accessible sequences in which the balls may be distributed among the cells
+without changing the number of balls in each cell. Thus we assume that the balls are
+identical but distinguishable.
 --- page 12 ---
 The a priori probability gi that a ball falls in the i-th cell is equal to the fractional area of the cell.
 If A is the total area, then
@@ -6473,6 +8384,51 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (1 mark)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Let a black body cavity of volume V at temperature T K is filled with large number of
+indistinguishable photons of various frequencies (photon gas). Photons have zero rest mass and
+unit spin angular momentum (thus they are Bosons). Photons of same frequency are
+indistinguishable and behave as a system of non-interacting particles.
+
+To count the photons, we have to estimate the number of cells in the phase space (constructed
+by positions and momentum of all photons). If each cell has the infinitesimal volume h’, then
+the number of cells in the phase space where the momentum lies between p and p + dp is
+
+g(p)dp _S sotydesoutt pfs
+Where,
+S, dxdydz = V = volume of the cavity, and
+S, dp,dpydpz, = 4mp?dp = volume of the spherical cell of radius p and
+thickness dp in the momentum space.
+Therefore,
+
+g(p)dp = = ‘dp
+
+Thus, substituting the values of p and p + dp, we obtain the no of cells (quantum states) with
+frequency between v and v + dv as
+
+g(v)dv = anV Vdv
+
+Since photon can have two types of volarzation and the fact that each cell can be occupied by
+two photons of two different directions of polarizations, we multiply the above expression by
+a factor 2 to obtain
+
+g(v)dv = Svdv
+
+The number of photons with energy between E and E + dE is
+
+g(8)
+N(E)dE = aoefer_, GE
+
+Here g(E)dE is the number of quantum states of photons of energy between E and E +dE.
+
+Tn the black body chamber at constant temperature photons of different energies are constantly
+absorbed or re-emitted by the walls of the enclosure. i.e. the number of photons in the system
+is not constant. Therefore, Y;5N; # 0. This can be taken into consideration by setting the
+Lagrange multiplier a = 0. Thus, for photons of a black body we have (setting a = 0)
+
+N(E)dE = © dE
+ekT-1
 --- page 14 ---
 ------------------------ (1 mark)
 ------------------------ (1 mark)
@@ -6494,6 +8450,21 @@ v. Examples: gas molecules at high temperature and low pressure.
 ------------------------ (Any four postulates=4 marks)
 Maxwell-Boltzmann distribution function with explanation of all terms
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+The corresponding spectral energy density u(v)dv, which is the energy per unit volume in
+radiation between v and v + dv in frequency is
+
+hvN(v)dv _ 82h vedv
+3s wv
+ekT-1
+
+u(v)dv =
+
+a
+
+Above Eqn. is the Planck’s radiation formula in terms of frequency v, and has been successful
+in explaining the black body radiation.
 --- page 15 ---
 ------------------------ (2 marks)
 Any two applications of MB statistics   ------------------------- (2 marks)
@@ -6546,6 +8517,7 @@ FRR ICR 7 6 AC OH
 - Source: `02_Question_Papers/2024/Sem_04/Final-Exam/BTech_Computer_7002/Quantum and Statistical Physics/ANS_Quantum and Statistical Physics(702BS0C009)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Apr 2025
 - Text: mixed (16 pages), mean OCR confidence 62.1
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -6768,6 +8740,29 @@ Solution:
 ------------------------- (2 marks)
 ------------------------- (2 marks)
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+The radius of the nucleus of an atoms is of the order of 10° m. If an electron is confined within
+the nucleus, the uncertainty in its position must not be greater than 1074 m. According to
+uncertainty principle for the lowest limit of accuracy
+
+Ax Ap=
+20
+
+Where Ax is uncertainty in the position and AP is the uncertainty in the momentum.
+
+h __6.625x 10734
+
+AP= =>
+2nAX 2x3.14x2x107+4
+
+(as AX = diameter of nucleus)
+AP = =5.275x 107! kg m/sec
+
+This is the uncertainty in momentum of the electron. It means the momentum of the electron
+would not be less than AP, rather it could be comparable to AP. Thus
+
+AP = =5.275 x 107! kg m/sec
 --- page 6 ---
 ------------------------- (2 marks)
 Problem:
@@ -6784,6 +8779,64 @@ Solution:
 potential well.
 ----------- (4 differences 4 marks)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+The kinetic energy of the electron can be obtained in terms of momentum as
+
+T =%mv=p?/2m
+
+__ (5.275x1077+_)?
+2x9.1x10734
+
+~21 2
+(5.275x1077+_ )
+2x9.1X10722x1,6x 10729
+
+eV
+
+=95.55x 10°eV
+= 96MeV
+
+From the above result, it is clear that the electrons inside the nucleus may exist only when it
+possesses the energy of the order of 96 MeV. However, the maximum possible kinetic energy of
+an electron emitted by radioactive nuclei has been found about 4MeV. Hence, it is concluded
+that the electron cannot reside in the nucleus.
+
+The wave-function W(x) is confined to the infinite well while (x) spreads out beyond
+the finite well.
+
+The energy levels in a finite potential well are lower than the infinite well as the
+wavefunction spreads out (by penetrating the classically forbidden region) which reduces
+its kinetic energy.
+
+There are no unbound states in an infinite potential well while there are unbound states in
+a finite potential well when E > Vo.
+
+Electron in finite square well Infinite potential well
+(a=2 nm and V=1.0 eV) (a=2nm and V=~)
+
+The wave
+x a function i
+Wx) % HO) % — function is zero
+
+10eV /\ = at the edge of
+E, = 0.949 eV n=4 the box.
+The wave iF VU
+extends into the uit =
+classically forbidden ’
+
+Fegion, a J , P
+E, = 0.585 eV = ee
+
+ee, = 0.848 eV
+
+Ye. - E, = 0.377 eV
+E, = 0.263 eV 7 -n=2
+E, = 0.068 eV <“ = aot E, = 0.094 eV
+OeV
+
+T
+=} 0 1 2 3 0 1 2
 --- page 7 ---
 -------------- (2 marks for diagram)
 (ii).(c)   Find which of the following functions are eigenfunctions of the momentum   (4)
@@ -7000,6 +9053,23 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (2 marks)
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Let us divide a large box into k cells having areas aj, a2, a3, ..., ax (Fig. 5). Then we throw n
+identical balls such that no part of the box is favored. Each cell will contain different number of
+balls. This is a distribution. If this experiment is repeated many times, it is found that certain
+distribution occurs more frequently than others. This particular outcome is the most probable
+distribution.
+
+The probability W of a particular distribution depends on two factors:
+
+i. The a priori probability (G) of the distribution which depends on the property of each
+cell.
+ii. The thermodynamic probability (Q) of the distribution which is the number of
+
+different accessible sequences in which the balls may be distributed among the cells
+without changing the number of balls in each cell. Thus we assume that the balls are
+identical but distinguishable.
 --- page 12 ---
 The a priori probability gi that a ball falls in the i-th cell is equal to the fractional area of the cell.
 If A is the total area, then
@@ -7060,6 +9130,51 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (1 mark)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Let a black body cavity of volume V at temperature T K is filled with large number of
+indistinguishable photons of various frequencies (photon gas). Photons have zero rest mass and
+unit spin angular momentum (thus they are Bosons). Photons of same frequency are
+indistinguishable and behave as a system of non-interacting particles.
+
+To count the photons, we have to estimate the number of cells in the phase space (constructed
+by positions and momentum of all photons). If each cell has the infinitesimal volume h’, then
+the number of cells in the phase space where the momentum lies between p and p + dp is
+
+g(p)dp _S sotydesoutt pfs
+Where,
+S, dxdydz = V = volume of the cavity, and
+S, dp,dpydpz, = 4mp?dp = volume of the spherical cell of radius p and
+thickness dp in the momentum space.
+Therefore,
+
+g(p)dp = = ‘dp
+
+Thus, substituting the values of p and p + dp, we obtain the no of cells (quantum states) with
+frequency between v and v + dv as
+
+g(v)dv = anV Vdv
+
+Since photon can have two types of volarzation and the fact that each cell can be occupied by
+two photons of two different directions of polarizations, we multiply the above expression by
+a factor 2 to obtain
+
+g(v)dv = Svdv
+
+The number of photons with energy between E and E + dE is
+
+g(8)
+N(E)dE = aoefer_, GE
+
+Here g(E)dE is the number of quantum states of photons of energy between E and E +dE.
+
+Tn the black body chamber at constant temperature photons of different energies are constantly
+absorbed or re-emitted by the walls of the enclosure. i.e. the number of photons in the system
+is not constant. Therefore, Y;5N; # 0. This can be taken into consideration by setting the
+Lagrange multiplier a = 0. Thus, for photons of a black body we have (setting a = 0)
+
+N(E)dE = © dE
+ekT-1
 --- page 14 ---
 ------------------------ (1 mark)
 ------------------------ (1 mark)
@@ -7081,6 +9196,21 @@ v. Examples: gas molecules at high temperature and low pressure.
 ------------------------ (Any four postulates=4 marks)
 Maxwell-Boltzmann distribution function with explanation of all terms
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+The corresponding spectral energy density u(v)dv, which is the energy per unit volume in
+radiation between v and v + dv in frequency is
+
+hvN(v)dv _ 82h vedv
+3s wv
+ekT-1
+
+u(v)dv =
+
+a
+
+Above Eqn. is the Planck’s radiation formula in terms of frequency v, and has been successful
+in explaining the black body radiation.
 --- page 15 ---
 ------------------------ (2 marks)
 Any two applications of MB statistics   ------------------------- (2 marks)
@@ -7207,6 +9337,26 @@ the system are equally probable.
 Thermodynamic probability is defined as number of alternative microscopic
 arrangements which corresponds to the same macroscopic state.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+In quantum mechanics, if wavefunction y (x) represents a single particle, then p(x)=|w(x)/?
+gives the probability of finding the particle at the position x. The wavefunction can also
+
+represent more than one particle.
+
+In particular, the wavefunction y(x) = A exp(ikx) can represent a set of particles, moving in
+thex-direction, all with the same momentum hk. In this case. the position of any one particle
+is not specified (to do so violates the Heisenberg uncertainty principle), but the average
+number of particles per unit length is given by |y(x)/= [4/. In this context, ‘average’ means
+the average of a large number of observations made on particles with this wavefunction. The
+
+speed u is obtained from the momentum magnitude p according to the following relations
+p=hkand u=p/m
+so that: u=hk/m
+
+Since k > 0, so is u.
+
+where k is the wave-number.
 --- page 3 ---
 ---------------- (1 mark)
 If we observe a system for a considerable period of time, recording its state at a
@@ -7350,6 +9500,27 @@ Solution:
 ---------------- (2 marks)
 ---------------- (2 marks)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Ss ee £ (Region Il):
+Note: inregion |lE = KE+ PE=KE+V)<V => KE <0!
+— 3 Ee ¥ (2) + Vow(2) = E(z)
+
+=> ox) = a7y(z) a? = 2m(%-E) 5 9
+
+solutions w#;;(a2) = Ce~°* + De®”
+C, D - arbitrary constants
+
+=> put D = 0, otherwise y;(a) not square integrable (blows up at
+large +ve x)
+
+® x < — (Region lll):
+
+solutions w777(a) = Fe~°* + Geo (like in region Il)
+F, G - arbitrary constants
+
+=> put F = 0, otherwise x(a) not square integrable (blows up at
+large -ve 2) _
 --- page 7 ---
 (ii).(c)   Find which of the following functions are eigenfunctions of the operator 𝑑𝑥2: 𝑑2 (a)   (4)
 𝑠𝑖𝑛𝑘𝑥 (b) x4 .
@@ -7487,6 +9658,17 @@ Problem: k = 573 N/m, Ev = 4.50 eV
 𝜈𝑜𝑐= 1.32 × 1014𝑠−1
 ---------------- (1 mark)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+/2m (Uo — E)
+aL= — jz
+
+__ /2(9.11 x 10-84kg) (1.5eV — eV) (1.6 x 10-19 J/eV)
+(1.055 x 10-347 - s)?
+
+(0.5 x 10-°m) = 1.81
+
+T = 3.56 exp [—2 (1.81)] = 0.0955
 --- page 10 ---
 ---------------- (1.5 mark)
 For Ev = 4.5 eV
@@ -7605,6 +9787,40 @@ Total number of photons per unit volume having all possible energies
 --------------- (2.5 marks)
 N = 2.018 x 1016 photons   --------------- (1.5 marks)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+The kinetic energies of a particle associated with its motion along the x, y and z directions are
+px’/2m, py?/2m and p-’/2m, respectively. Here p;, py and p- are the x, y and z components of the
+momentum p. The average energy of the particle for its motion along any of the three directions
+is
+p
+I (Er (E)dpxdpydpz
+
+|) = “7@ap.ap, ap, Guy
+
+Where dp; dp, dp: is a small volume element in the momentum space and the integrals extend
+
+over the entire momentum space.
+
+Using the Maxwell-Boltzmann form of the distribution function f/E) and noting that
+
+E = (pe + py’ + p2)/(2m), we obtain from the above equation
+
+Py 2
+PZ
+ine Pe Bray, {2, e “amit ap, [e,e 2mkTap,
+DE Py vz
+ine e amiT dp, °°, e “2mKT dpy fo, e 2mkTdp,z
+
+E, =
+
+2 DE 2 DE
+© (PX) 9 —SmkT, 0 PX) 9s kT,
+_ SoG De 2mTdpx _So G&)e 2mkT dp,
+_~ 2 2
+Px Px
+co Px co —_Px_
+Jogo @ 2mkT py Jo @ 2mkT dp,
 --- page 14 ---
 Q.2.6   (20)
 (vi).(a) Give the mathematical formulation for the probability W of distribution for a   (10)
@@ -7615,6 +9831,31 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (1 mark)
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Let us divide a large box into k cells having areas aj, a2, a3, ..., ax (Fig. 5). Then we throw n
+identical balls such that no part of the box is favored. Each cell will contain different number of
+balls. This is a distribution. If this experiment is repeated many times, it is found that certain
+distribution occurs more frequently than others. This particular outcome is the most probable
+distribution.
+
+The probability W of a particular distribution depends on two factors:
+
+i. The a priori probability (G) of the distribution which depends on the property of each
+cell.
+ii. The thermodynamic probability (Q) of the distribution which is the number of
+
+different accessible sequences in which the balls may be distributed among the cells
+without changing the number of balls in each cell. Thus we assume that the balls are
+identical but distinguishable.
+
+The a priori probability gi that a ball falls in the i-th cell is equal to the fractional area of the cell.
+If A is the total area, then
+
+a= with Yg;=1 and Ya,=A
+
+The a priori probability of two balls simultaneously in the i-th cell is (g;). The a priori probability
+that nj balls go to i-th cell is (g;)™.
 --- page 15 ---
 ------------------------ (1 mark)
 ------------------------ (2 marks)
@@ -7634,6 +9875,29 @@ Solution:
 (Two points of distinction = 2 x 2 = 4 marks)
 ******************************************************************
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Further, the distribution of balls among the cells are not equally probable, therefore we have to
+bring the concept of thermodynamic probability. The number ways in which 7; balls out of N balls
+can be distributed in first cell is given by
+
+N!
+Cn, n(N—n,)!
+
+The number of ways nz balls can be distributed out of the remaining (N-m)) balls in the second cell
+is then given by
+
+(N=n,)!
+n2!(N—n4—nz)!
+
+(N- 11 )en, =
+
+Similarly, proceeding in the same manner, the total number of independent ways of arranging N
+balls among n containers such that 7 balls in the first, m2 balls in the second ... ng balls in the k-th
+cell, will be
+
+= N! (N-n,)! (N-ny- nz...nk-1)!
+7y!(N—n,)! ng(N—ny—ng)!   ng!(N—ny—nz..mnx)!
 ````
 
 ## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 20449b60cb7d
@@ -7717,6 +9981,26 @@ the system are equally probable.
 Thermodynamic probability is defined as number of alternative microscopic
 arrangements which corresponds to the same macroscopic state.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+In quantum mechanics, if wavefunction y (x) represents a single particle, then p(x)=|w(x)/?
+gives the probability of finding the particle at the position x. The wavefunction can also
+
+represent more than one particle.
+
+In particular, the wavefunction y(x) = A exp(ikx) can represent a set of particles, moving in
+thex-direction, all with the same momentum hk. In this case. the position of any one particle
+is not specified (to do so violates the Heisenberg uncertainty principle), but the average
+number of particles per unit length is given by |y(x)/= [4/. In this context, ‘average’ means
+the average of a large number of observations made on particles with this wavefunction. The
+
+speed u is obtained from the momentum magnitude p according to the following relations
+p=hkand u=p/m
+so that: u=hk/m
+
+Since k > 0, so is u.
+
+where k is the wave-number.
 --- page 3 ---
 ---------------- (1 mark)
 If we observe a system for a considerable period of time, recording its state at a
@@ -7860,6 +10144,27 @@ Solution:
 ---------------- (2 marks)
 ---------------- (2 marks)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Ss ee £ (Region Il):
+Note: inregion |lE = KE+ PE=KE+V)<V => KE <0!
+— 3 Ee ¥ (2) + Vow(2) = E(z)
+
+=> ox) = a7y(z) a? = 2m(%-E) 5 9
+
+solutions w#;;(a2) = Ce~°* + De®”
+C, D - arbitrary constants
+
+=> put D = 0, otherwise y;(a) not square integrable (blows up at
+large +ve x)
+
+® x < — (Region lll):
+
+solutions w777(a) = Fe~°* + Geo (like in region Il)
+F, G - arbitrary constants
+
+=> put F = 0, otherwise x(a) not square integrable (blows up at
+large -ve 2) _
 --- page 7 ---
 (ii).(c)   Find which of the following functions are eigenfunctions of the operator 𝑑𝑥2: 𝑑2 (a)   (4)
 𝑠𝑖𝑛𝑘𝑥 (b) x4 .
@@ -7997,6 +10302,17 @@ Problem: k = 573 N/m, Ev = 4.50 eV
 𝜈𝑜𝑐= 1.32 × 1014𝑠−1
 ---------------- (1 mark)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+/2m (Uo — E)
+aL= — jz
+
+__ /2(9.11 x 10-84kg) (1.5eV — eV) (1.6 x 10-19 J/eV)
+(1.055 x 10-347 - s)?
+
+(0.5 x 10-°m) = 1.81
+
+T = 3.56 exp [—2 (1.81)] = 0.0955
 --- page 10 ---
 ---------------- (1.5 mark)
 For Ev = 4.5 eV
@@ -8115,6 +10431,40 @@ Total number of photons per unit volume having all possible energies
 --------------- (2.5 marks)
 N = 2.018 x 1016 photons   --------------- (1.5 marks)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+The kinetic energies of a particle associated with its motion along the x, y and z directions are
+px’/2m, py?/2m and p-’/2m, respectively. Here p;, py and p- are the x, y and z components of the
+momentum p. The average energy of the particle for its motion along any of the three directions
+is
+p
+I (Er (E)dpxdpydpz
+
+|) = “7@ap.ap, ap, Guy
+
+Where dp; dp, dp: is a small volume element in the momentum space and the integrals extend
+
+over the entire momentum space.
+
+Using the Maxwell-Boltzmann form of the distribution function f/E) and noting that
+
+E = (pe + py’ + p2)/(2m), we obtain from the above equation
+
+Py 2
+PZ
+ine Pe Bray, {2, e “amit ap, [e,e 2mkTap,
+DE Py vz
+ine e amiT dp, °°, e “2mKT dpy fo, e 2mkTdp,z
+
+E, =
+
+2 DE 2 DE
+© (PX) 9 —SmkT, 0 PX) 9s kT,
+_ SoG De 2mTdpx _So G&)e 2mkT dp,
+_~ 2 2
+Px Px
+co Px co —_Px_
+Jogo @ 2mkT py Jo @ 2mkT dp,
 --- page 14 ---
 Q.2.6   (20)
 (vi).(a) Give the mathematical formulation for the probability W of distribution for a   (10)
@@ -8125,6 +10475,31 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (1 mark)
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Let us divide a large box into k cells having areas aj, a2, a3, ..., ax (Fig. 5). Then we throw n
+identical balls such that no part of the box is favored. Each cell will contain different number of
+balls. This is a distribution. If this experiment is repeated many times, it is found that certain
+distribution occurs more frequently than others. This particular outcome is the most probable
+distribution.
+
+The probability W of a particular distribution depends on two factors:
+
+i. The a priori probability (G) of the distribution which depends on the property of each
+cell.
+ii. The thermodynamic probability (Q) of the distribution which is the number of
+
+different accessible sequences in which the balls may be distributed among the cells
+without changing the number of balls in each cell. Thus we assume that the balls are
+identical but distinguishable.
+
+The a priori probability gi that a ball falls in the i-th cell is equal to the fractional area of the cell.
+If A is the total area, then
+
+a= with Yg;=1 and Ya,=A
+
+The a priori probability of two balls simultaneously in the i-th cell is (g;). The a priori probability
+that nj balls go to i-th cell is (g;)™.
 --- page 15 ---
 ------------------------ (1 mark)
 ------------------------ (2 marks)
@@ -8144,6 +10519,29 @@ Solution:
 (Two points of distinction = 2 x 2 = 4 marks)
 ******************************************************************
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Further, the distribution of balls among the cells are not equally probable, therefore we have to
+bring the concept of thermodynamic probability. The number ways in which 7; balls out of N balls
+can be distributed in first cell is given by
+
+N!
+Cn, n(N—n,)!
+
+The number of ways nz balls can be distributed out of the remaining (N-m)) balls in the second cell
+is then given by
+
+(N=n,)!
+n2!(N—n4—nz)!
+
+(N- 11 )en, =
+
+Similarly, proceeding in the same manner, the total number of independent ways of arranging N
+balls among n containers such that 7 balls in the first, m2 balls in the second ... ng balls in the k-th
+cell, will be
+
+= N! (N-n,)! (N-ny- nz...nk-1)!
+7y!(N—n,)! ng(N—ny—ng)!   ng!(N—ny—nz..mnx)!
 ````
 
 ## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 16371362d574
@@ -8227,6 +10625,26 @@ the system are equally probable.
 Thermodynamic probability is defined as number of alternative microscopic
 arrangements which corresponds to the same macroscopic state.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+In quantum mechanics, if wavefunction y (x) represents a single particle, then p(x)=|w(x)/?
+gives the probability of finding the particle at the position x. The wavefunction can also
+
+represent more than one particle.
+
+In particular, the wavefunction y(x) = A exp(ikx) can represent a set of particles, moving in
+thex-direction, all with the same momentum hk. In this case. the position of any one particle
+is not specified (to do so violates the Heisenberg uncertainty principle), but the average
+number of particles per unit length is given by |y(x)/= [4/. In this context, ‘average’ means
+the average of a large number of observations made on particles with this wavefunction. The
+
+speed u is obtained from the momentum magnitude p according to the following relations
+p=hkand u=p/m
+so that: u=hk/m
+
+Since k > 0, so is u.
+
+where k is the wave-number.
 --- page 3 ---
 ---------------- (1 mark)
 If we observe a system for a considerable period of time, recording its state at a
@@ -8370,6 +10788,27 @@ Solution:
 ---------------- (2 marks)
 ---------------- (2 marks)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Ss ee £ (Region Il):
+Note: inregion |lE = KE+ PE=KE+V)<V => KE <0!
+— 3 Ee ¥ (2) + Vow(2) = E(z)
+
+=> ox) = a7y(z) a? = 2m(%-E) 5 9
+
+solutions w#;;(a2) = Ce~°* + De®”
+C, D - arbitrary constants
+
+=> put D = 0, otherwise y;(a) not square integrable (blows up at
+large +ve x)
+
+® x < — (Region lll):
+
+solutions w777(a) = Fe~°* + Geo (like in region Il)
+F, G - arbitrary constants
+
+=> put F = 0, otherwise x(a) not square integrable (blows up at
+large -ve 2) _
 --- page 7 ---
 (ii).(c)   Find which of the following functions are eigenfunctions of the operator 𝑑𝑥2: 𝑑2 (a)   (4)
 𝑠𝑖𝑛𝑘𝑥 (b) x4 .
@@ -8507,6 +10946,17 @@ Problem: k = 573 N/m, Ev = 4.50 eV
 𝜈𝑜𝑐= 1.32 × 1014𝑠−1
 ---------------- (1 mark)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+/2m (Uo — E)
+aL= — jz
+
+__ /2(9.11 x 10-84kg) (1.5eV — eV) (1.6 x 10-19 J/eV)
+(1.055 x 10-347 - s)?
+
+(0.5 x 10-°m) = 1.81
+
+T = 3.56 exp [—2 (1.81)] = 0.0955
 --- page 10 ---
 ---------------- (1.5 mark)
 For Ev = 4.5 eV
@@ -8625,6 +11075,40 @@ Total number of photons per unit volume having all possible energies
 --------------- (2.5 marks)
 N = 2.018 x 1016 photons   --------------- (1.5 marks)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+The kinetic energies of a particle associated with its motion along the x, y and z directions are
+px’/2m, py?/2m and p-’/2m, respectively. Here p;, py and p- are the x, y and z components of the
+momentum p. The average energy of the particle for its motion along any of the three directions
+is
+p
+I (Er (E)dpxdpydpz
+
+|) = “7@ap.ap, ap, Guy
+
+Where dp; dp, dp: is a small volume element in the momentum space and the integrals extend
+
+over the entire momentum space.
+
+Using the Maxwell-Boltzmann form of the distribution function f/E) and noting that
+
+E = (pe + py’ + p2)/(2m), we obtain from the above equation
+
+Py 2
+PZ
+ine Pe Bray, {2, e “amit ap, [e,e 2mkTap,
+DE Py vz
+ine e amiT dp, °°, e “2mKT dpy fo, e 2mkTdp,z
+
+E, =
+
+2 DE 2 DE
+© (PX) 9 —SmkT, 0 PX) 9s kT,
+_ SoG De 2mTdpx _So G&)e 2mkT dp,
+_~ 2 2
+Px Px
+co Px co —_Px_
+Jogo @ 2mkT py Jo @ 2mkT dp,
 --- page 14 ---
 Q.2.6   (20)
 (vi).(a) Give the mathematical formulation for the probability W of distribution for a   (10)
@@ -8635,6 +11119,31 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (1 mark)
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Let us divide a large box into k cells having areas aj, a2, a3, ..., ax (Fig. 5). Then we throw n
+identical balls such that no part of the box is favored. Each cell will contain different number of
+balls. This is a distribution. If this experiment is repeated many times, it is found that certain
+distribution occurs more frequently than others. This particular outcome is the most probable
+distribution.
+
+The probability W of a particular distribution depends on two factors:
+
+i. The a priori probability (G) of the distribution which depends on the property of each
+cell.
+ii. The thermodynamic probability (Q) of the distribution which is the number of
+
+different accessible sequences in which the balls may be distributed among the cells
+without changing the number of balls in each cell. Thus we assume that the balls are
+identical but distinguishable.
+
+The a priori probability gi that a ball falls in the i-th cell is equal to the fractional area of the cell.
+If A is the total area, then
+
+a= with Yg;=1 and Ya,=A
+
+The a priori probability of two balls simultaneously in the i-th cell is (g;). The a priori probability
+that nj balls go to i-th cell is (g;)™.
 --- page 15 ---
 ------------------------ (1 mark)
 ------------------------ (2 marks)
@@ -8654,6 +11163,29 @@ Solution:
 (Two points of distinction = 2 x 2 = 4 marks)
 ******************************************************************
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Further, the distribution of balls among the cells are not equally probable, therefore we have to
+bring the concept of thermodynamic probability. The number ways in which 7; balls out of N balls
+can be distributed in first cell is given by
+
+N!
+Cn, n(N—n,)!
+
+The number of ways nz balls can be distributed out of the remaining (N-m)) balls in the second cell
+is then given by
+
+(N=n,)!
+n2!(N—n4—nz)!
+
+(N- 11 )en, =
+
+Similarly, proceeding in the same manner, the total number of independent ways of arranging N
+balls among n containers such that 7 balls in the first, m2 balls in the second ... ng balls in the k-th
+cell, will be
+
+= N! (N-n,)! (N-ny- nz...nk-1)!
+7y!(N—n,)! ng(N—ny—ng)!   ng!(N—ny—nz..mnx)!
 ````
 
 ## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 7d947f16cfc7
@@ -8737,6 +11269,26 @@ the system are equally probable.
 Thermodynamic probability is defined as number of alternative microscopic
 arrangements which corresponds to the same macroscopic state.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+In quantum mechanics, if wavefunction y (x) represents a single particle, then p(x)=|w(x)/?
+gives the probability of finding the particle at the position x. The wavefunction can also
+
+represent more than one particle.
+
+In particular, the wavefunction y(x) = A exp(ikx) can represent a set of particles, moving in
+thex-direction, all with the same momentum hk. In this case. the position of any one particle
+is not specified (to do so violates the Heisenberg uncertainty principle), but the average
+number of particles per unit length is given by |y(x)/= [4/. In this context, ‘average’ means
+the average of a large number of observations made on particles with this wavefunction. The
+
+speed u is obtained from the momentum magnitude p according to the following relations
+p=hkand u=p/m
+so that: u=hk/m
+
+Since k > 0, so is u.
+
+where k is the wave-number.
 --- page 3 ---
 ---------------- (1 mark)
 If we observe a system for a considerable period of time, recording its state at a
@@ -8880,6 +11432,27 @@ Solution:
 ---------------- (2 marks)
 ---------------- (2 marks)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Ss ee £ (Region Il):
+Note: inregion |lE = KE+ PE=KE+V)<V => KE <0!
+— 3 Ee ¥ (2) + Vow(2) = E(z)
+
+=> ox) = a7y(z) a? = 2m(%-E) 5 9
+
+solutions w#;;(a2) = Ce~°* + De®”
+C, D - arbitrary constants
+
+=> put D = 0, otherwise y;(a) not square integrable (blows up at
+large +ve x)
+
+® x < — (Region lll):
+
+solutions w777(a) = Fe~°* + Geo (like in region Il)
+F, G - arbitrary constants
+
+=> put F = 0, otherwise x(a) not square integrable (blows up at
+large -ve 2) _
 --- page 7 ---
 (ii).(c)   Find which of the following functions are eigenfunctions of the operator 𝑑𝑥2: 𝑑2 (a)   (4)
 𝑠𝑖𝑛𝑘𝑥 (b) x4 .
@@ -9017,6 +11590,17 @@ Problem: k = 573 N/m, Ev = 4.50 eV
 𝜈𝑜𝑐= 1.32 × 1014𝑠−1
 ---------------- (1 mark)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+/2m (Uo — E)
+aL= — jz
+
+__ /2(9.11 x 10-84kg) (1.5eV — eV) (1.6 x 10-19 J/eV)
+(1.055 x 10-347 - s)?
+
+(0.5 x 10-°m) = 1.81
+
+T = 3.56 exp [—2 (1.81)] = 0.0955
 --- page 10 ---
 ---------------- (1.5 mark)
 For Ev = 4.5 eV
@@ -9135,6 +11719,40 @@ Total number of photons per unit volume having all possible energies
 --------------- (2.5 marks)
 N = 2.018 x 1016 photons   --------------- (1.5 marks)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+The kinetic energies of a particle associated with its motion along the x, y and z directions are
+px’/2m, py?/2m and p-’/2m, respectively. Here p;, py and p- are the x, y and z components of the
+momentum p. The average energy of the particle for its motion along any of the three directions
+is
+p
+I (Er (E)dpxdpydpz
+
+|) = “7@ap.ap, ap, Guy
+
+Where dp; dp, dp: is a small volume element in the momentum space and the integrals extend
+
+over the entire momentum space.
+
+Using the Maxwell-Boltzmann form of the distribution function f/E) and noting that
+
+E = (pe + py’ + p2)/(2m), we obtain from the above equation
+
+Py 2
+PZ
+ine Pe Bray, {2, e “amit ap, [e,e 2mkTap,
+DE Py vz
+ine e amiT dp, °°, e “2mKT dpy fo, e 2mkTdp,z
+
+E, =
+
+2 DE 2 DE
+© (PX) 9 —SmkT, 0 PX) 9s kT,
+_ SoG De 2mTdpx _So G&)e 2mkT dp,
+_~ 2 2
+Px Px
+co Px co —_Px_
+Jogo @ 2mkT py Jo @ 2mkT dp,
 --- page 14 ---
 Q.2.6   (20)
 (vi).(a) Give the mathematical formulation for the probability W of distribution for a   (10)
@@ -9145,6 +11763,31 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (1 mark)
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Let us divide a large box into k cells having areas aj, a2, a3, ..., ax (Fig. 5). Then we throw n
+identical balls such that no part of the box is favored. Each cell will contain different number of
+balls. This is a distribution. If this experiment is repeated many times, it is found that certain
+distribution occurs more frequently than others. This particular outcome is the most probable
+distribution.
+
+The probability W of a particular distribution depends on two factors:
+
+i. The a priori probability (G) of the distribution which depends on the property of each
+cell.
+ii. The thermodynamic probability (Q) of the distribution which is the number of
+
+different accessible sequences in which the balls may be distributed among the cells
+without changing the number of balls in each cell. Thus we assume that the balls are
+identical but distinguishable.
+
+The a priori probability gi that a ball falls in the i-th cell is equal to the fractional area of the cell.
+If A is the total area, then
+
+a= with Yg;=1 and Ya,=A
+
+The a priori probability of two balls simultaneously in the i-th cell is (g;). The a priori probability
+that nj balls go to i-th cell is (g;)™.
 --- page 15 ---
 ------------------------ (1 mark)
 ------------------------ (2 marks)
@@ -9164,6 +11807,29 @@ Solution:
 (Two points of distinction = 2 x 2 = 4 marks)
 ******************************************************************
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Further, the distribution of balls among the cells are not equally probable, therefore we have to
+bring the concept of thermodynamic probability. The number ways in which 7; balls out of N balls
+can be distributed in first cell is given by
+
+N!
+Cn, n(N—n,)!
+
+The number of ways nz balls can be distributed out of the remaining (N-m)) balls in the second cell
+is then given by
+
+(N=n,)!
+n2!(N—n4—nz)!
+
+(N- 11 )en, =
+
+Similarly, proceeding in the same manner, the total number of independent ways of arranging N
+balls among n containers such that 7 balls in the first, m2 balls in the second ... ng balls in the k-th
+cell, will be
+
+= N! (N-n,)! (N-ny- nz...nk-1)!
+7y!(N—n,)! ng(N—ny—ng)!   ng!(N—ny—nz..mnx)!
 ````
 
 ## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 77e735ea3366
@@ -9247,6 +11913,26 @@ the system are equally probable.
 Thermodynamic probability is defined as number of alternative microscopic
 arrangements which corresponds to the same macroscopic state.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+In quantum mechanics, if wavefunction y (x) represents a single particle, then p(x)=|w(x)/?
+gives the probability of finding the particle at the position x. The wavefunction can also
+
+represent more than one particle.
+
+In particular, the wavefunction y(x) = A exp(ikx) can represent a set of particles, moving in
+thex-direction, all with the same momentum hk. In this case. the position of any one particle
+is not specified (to do so violates the Heisenberg uncertainty principle), but the average
+number of particles per unit length is given by |y(x)/= [4/. In this context, ‘average’ means
+the average of a large number of observations made on particles with this wavefunction. The
+
+speed u is obtained from the momentum magnitude p according to the following relations
+p=hkand u=p/m
+so that: u=hk/m
+
+Since k > 0, so is u.
+
+where k is the wave-number.
 --- page 3 ---
 ---------------- (1 mark)
 If we observe a system for a considerable period of time, recording its state at a
@@ -9390,6 +12076,27 @@ Solution:
 ---------------- (2 marks)
 ---------------- (2 marks)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Ss ee £ (Region Il):
+Note: inregion |lE = KE+ PE=KE+V)<V => KE <0!
+— 3 Ee ¥ (2) + Vow(2) = E(z)
+
+=> ox) = a7y(z) a? = 2m(%-E) 5 9
+
+solutions w#;;(a2) = Ce~°* + De®”
+C, D - arbitrary constants
+
+=> put D = 0, otherwise y;(a) not square integrable (blows up at
+large +ve x)
+
+® x < — (Region lll):
+
+solutions w777(a) = Fe~°* + Geo (like in region Il)
+F, G - arbitrary constants
+
+=> put F = 0, otherwise x(a) not square integrable (blows up at
+large -ve 2) _
 --- page 7 ---
 (ii).(c)   Find which of the following functions are eigenfunctions of the operator 𝑑𝑥2: 𝑑2 (a)   (4)
 𝑠𝑖𝑛𝑘𝑥 (b) x4 .
@@ -9527,6 +12234,17 @@ Problem: k = 573 N/m, Ev = 4.50 eV
 𝜈𝑜𝑐= 1.32 × 1014𝑠−1
 ---------------- (1 mark)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+/2m (Uo — E)
+aL= — jz
+
+__ /2(9.11 x 10-84kg) (1.5eV — eV) (1.6 x 10-19 J/eV)
+(1.055 x 10-347 - s)?
+
+(0.5 x 10-°m) = 1.81
+
+T = 3.56 exp [—2 (1.81)] = 0.0955
 --- page 10 ---
 ---------------- (1.5 mark)
 For Ev = 4.5 eV
@@ -9645,6 +12363,40 @@ Total number of photons per unit volume having all possible energies
 --------------- (2.5 marks)
 N = 2.018 x 1016 photons   --------------- (1.5 marks)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+The kinetic energies of a particle associated with its motion along the x, y and z directions are
+px’/2m, py?/2m and p-’/2m, respectively. Here p;, py and p- are the x, y and z components of the
+momentum p. The average energy of the particle for its motion along any of the three directions
+is
+p
+I (Er (E)dpxdpydpz
+
+|) = “7@ap.ap, ap, Guy
+
+Where dp; dp, dp: is a small volume element in the momentum space and the integrals extend
+
+over the entire momentum space.
+
+Using the Maxwell-Boltzmann form of the distribution function f/E) and noting that
+
+E = (pe + py’ + p2)/(2m), we obtain from the above equation
+
+Py 2
+PZ
+ine Pe Bray, {2, e “amit ap, [e,e 2mkTap,
+DE Py vz
+ine e amiT dp, °°, e “2mKT dpy fo, e 2mkTdp,z
+
+E, =
+
+2 DE 2 DE
+© (PX) 9 —SmkT, 0 PX) 9s kT,
+_ SoG De 2mTdpx _So G&)e 2mkT dp,
+_~ 2 2
+Px Px
+co Px co —_Px_
+Jogo @ 2mkT py Jo @ 2mkT dp,
 --- page 14 ---
 Q.2.6   (20)
 (vi).(a) Give the mathematical formulation for the probability W of distribution for a   (10)
@@ -9655,6 +12407,31 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (1 mark)
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Let us divide a large box into k cells having areas aj, a2, a3, ..., ax (Fig. 5). Then we throw n
+identical balls such that no part of the box is favored. Each cell will contain different number of
+balls. This is a distribution. If this experiment is repeated many times, it is found that certain
+distribution occurs more frequently than others. This particular outcome is the most probable
+distribution.
+
+The probability W of a particular distribution depends on two factors:
+
+i. The a priori probability (G) of the distribution which depends on the property of each
+cell.
+ii. The thermodynamic probability (Q) of the distribution which is the number of
+
+different accessible sequences in which the balls may be distributed among the cells
+without changing the number of balls in each cell. Thus we assume that the balls are
+identical but distinguishable.
+
+The a priori probability gi that a ball falls in the i-th cell is equal to the fractional area of the cell.
+If A is the total area, then
+
+a= with Yg;=1 and Ya,=A
+
+The a priori probability of two balls simultaneously in the i-th cell is (g;). The a priori probability
+that nj balls go to i-th cell is (g;)™.
 --- page 15 ---
 ------------------------ (1 mark)
 ------------------------ (2 marks)
@@ -9674,6 +12451,29 @@ Solution:
 (Two points of distinction = 2 x 2 = 4 marks)
 ******************************************************************
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Further, the distribution of balls among the cells are not equally probable, therefore we have to
+bring the concept of thermodynamic probability. The number ways in which 7; balls out of N balls
+can be distributed in first cell is given by
+
+N!
+Cn, n(N—n,)!
+
+The number of ways nz balls can be distributed out of the remaining (N-m)) balls in the second cell
+is then given by
+
+(N=n,)!
+n2!(N—n4—nz)!
+
+(N- 11 )en, =
+
+Similarly, proceeding in the same manner, the total number of independent ways of arranging N
+balls among n containers such that 7 balls in the first, m2 balls in the second ... ng balls in the k-th
+cell, will be
+
+= N! (N-n,)! (N-ny- nz...nk-1)!
+7y!(N—n,)! ng(N—ny—ng)!   ng!(N—ny—nz..mnx)!
 ````
 
 ## 2024-25 · Re-Exam · Sem 2 · Answer key · paper dc059cdba275
@@ -9757,6 +12557,26 @@ the system are equally probable.
 Thermodynamic probability is defined as number of alternative microscopic
 arrangements which corresponds to the same macroscopic state.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+In quantum mechanics, if wavefunction y (x) represents a single particle, then p(x)=|w(x)/?
+gives the probability of finding the particle at the position x. The wavefunction can also
+
+represent more than one particle.
+
+In particular, the wavefunction y(x) = A exp(ikx) can represent a set of particles, moving in
+thex-direction, all with the same momentum hk. In this case. the position of any one particle
+is not specified (to do so violates the Heisenberg uncertainty principle), but the average
+number of particles per unit length is given by |y(x)/= [4/. In this context, ‘average’ means
+the average of a large number of observations made on particles with this wavefunction. The
+
+speed u is obtained from the momentum magnitude p according to the following relations
+p=hkand u=p/m
+so that: u=hk/m
+
+Since k > 0, so is u.
+
+where k is the wave-number.
 --- page 3 ---
 ---------------- (1 mark)
 If we observe a system for a considerable period of time, recording its state at a
@@ -9900,6 +12720,27 @@ Solution:
 ---------------- (2 marks)
 ---------------- (2 marks)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Ss ee £ (Region Il):
+Note: inregion |lE = KE+ PE=KE+V)<V => KE <0!
+— 3 Ee ¥ (2) + Vow(2) = E(z)
+
+=> ox) = a7y(z) a? = 2m(%-E) 5 9
+
+solutions w#;;(a2) = Ce~°* + De®”
+C, D - arbitrary constants
+
+=> put D = 0, otherwise y;(a) not square integrable (blows up at
+large +ve x)
+
+® x < — (Region lll):
+
+solutions w777(a) = Fe~°* + Geo (like in region Il)
+F, G - arbitrary constants
+
+=> put F = 0, otherwise x(a) not square integrable (blows up at
+large -ve 2) _
 --- page 7 ---
 (ii).(c)   Find which of the following functions are eigenfunctions of the operator 𝑑𝑥2: 𝑑2 (a)   (4)
 𝑠𝑖𝑛𝑘𝑥 (b) x4 .
@@ -10037,6 +12878,17 @@ Problem: k = 573 N/m, Ev = 4.50 eV
 𝜈𝑜𝑐= 1.32 × 1014𝑠−1
 ---------------- (1 mark)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+/2m (Uo — E)
+aL= — jz
+
+__ /2(9.11 x 10-84kg) (1.5eV — eV) (1.6 x 10-19 J/eV)
+(1.055 x 10-347 - s)?
+
+(0.5 x 10-°m) = 1.81
+
+T = 3.56 exp [—2 (1.81)] = 0.0955
 --- page 10 ---
 ---------------- (1.5 mark)
 For Ev = 4.5 eV
@@ -10155,6 +13007,40 @@ Total number of photons per unit volume having all possible energies
 --------------- (2.5 marks)
 N = 2.018 x 1016 photons   --------------- (1.5 marks)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+The kinetic energies of a particle associated with its motion along the x, y and z directions are
+px’/2m, py?/2m and p-’/2m, respectively. Here p;, py and p- are the x, y and z components of the
+momentum p. The average energy of the particle for its motion along any of the three directions
+is
+p
+I (Er (E)dpxdpydpz
+
+|) = “7@ap.ap, ap, Guy
+
+Where dp; dp, dp: is a small volume element in the momentum space and the integrals extend
+
+over the entire momentum space.
+
+Using the Maxwell-Boltzmann form of the distribution function f/E) and noting that
+
+E = (pe + py’ + p2)/(2m), we obtain from the above equation
+
+Py 2
+PZ
+ine Pe Bray, {2, e “amit ap, [e,e 2mkTap,
+DE Py vz
+ine e amiT dp, °°, e “2mKT dpy fo, e 2mkTdp,z
+
+E, =
+
+2 DE 2 DE
+© (PX) 9 —SmkT, 0 PX) 9s kT,
+_ SoG De 2mTdpx _So G&)e 2mkT dp,
+_~ 2 2
+Px Px
+co Px co —_Px_
+Jogo @ 2mkT py Jo @ 2mkT dp,
 --- page 14 ---
 Q.2.6   (20)
 (vi).(a) Give the mathematical formulation for the probability W of distribution for a   (10)
@@ -10165,6 +13051,31 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (1 mark)
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Let us divide a large box into k cells having areas aj, a2, a3, ..., ax (Fig. 5). Then we throw n
+identical balls such that no part of the box is favored. Each cell will contain different number of
+balls. This is a distribution. If this experiment is repeated many times, it is found that certain
+distribution occurs more frequently than others. This particular outcome is the most probable
+distribution.
+
+The probability W of a particular distribution depends on two factors:
+
+i. The a priori probability (G) of the distribution which depends on the property of each
+cell.
+ii. The thermodynamic probability (Q) of the distribution which is the number of
+
+different accessible sequences in which the balls may be distributed among the cells
+without changing the number of balls in each cell. Thus we assume that the balls are
+identical but distinguishable.
+
+The a priori probability gi that a ball falls in the i-th cell is equal to the fractional area of the cell.
+If A is the total area, then
+
+a= with Yg;=1 and Ya,=A
+
+The a priori probability of two balls simultaneously in the i-th cell is (g;). The a priori probability
+that nj balls go to i-th cell is (g;)™.
 --- page 15 ---
 ------------------------ (1 mark)
 ------------------------ (2 marks)
@@ -10184,6 +13095,29 @@ Solution:
 (Two points of distinction = 2 x 2 = 4 marks)
 ******************************************************************
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Further, the distribution of balls among the cells are not equally probable, therefore we have to
+bring the concept of thermodynamic probability. The number ways in which 7; balls out of N balls
+can be distributed in first cell is given by
+
+N!
+Cn, n(N—n,)!
+
+The number of ways nz balls can be distributed out of the remaining (N-m)) balls in the second cell
+is then given by
+
+(N=n,)!
+n2!(N—n4—nz)!
+
+(N- 11 )en, =
+
+Similarly, proceeding in the same manner, the total number of independent ways of arranging N
+balls among n containers such that 7 balls in the first, m2 balls in the second ... ng balls in the k-th
+cell, will be
+
+= N! (N-n,)! (N-ny- nz...nk-1)!
+7y!(N—n,)! ng(N—ny—ng)!   ng!(N—ny—nz..mnx)!
 ````
 
 ## 2024-25 · Re-Exam · Sem 2 · Answer key · paper 9752d9e5b49a
@@ -10267,6 +13201,26 @@ the system are equally probable.
 Thermodynamic probability is defined as number of alternative microscopic
 arrangements which corresponds to the same macroscopic state.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+In quantum mechanics, if wavefunction y (x) represents a single particle, then p(x)=|w(x)/?
+gives the probability of finding the particle at the position x. The wavefunction can also
+
+represent more than one particle.
+
+In particular, the wavefunction y(x) = A exp(ikx) can represent a set of particles, moving in
+thex-direction, all with the same momentum hk. In this case. the position of any one particle
+is not specified (to do so violates the Heisenberg uncertainty principle), but the average
+number of particles per unit length is given by |y(x)/= [4/. In this context, ‘average’ means
+the average of a large number of observations made on particles with this wavefunction. The
+
+speed u is obtained from the momentum magnitude p according to the following relations
+p=hkand u=p/m
+so that: u=hk/m
+
+Since k > 0, so is u.
+
+where k is the wave-number.
 --- page 3 ---
 ---------------- (1 mark)
 If we observe a system for a considerable period of time, recording its state at a
@@ -10410,6 +13364,27 @@ Solution:
 ---------------- (2 marks)
 ---------------- (2 marks)
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Ss ee £ (Region Il):
+Note: inregion |lE = KE+ PE=KE+V)<V => KE <0!
+— 3 Ee ¥ (2) + Vow(2) = E(z)
+
+=> ox) = a7y(z) a? = 2m(%-E) 5 9
+
+solutions w#;;(a2) = Ce~°* + De®”
+C, D - arbitrary constants
+
+=> put D = 0, otherwise y;(a) not square integrable (blows up at
+large +ve x)
+
+® x < — (Region lll):
+
+solutions w777(a) = Fe~°* + Geo (like in region Il)
+F, G - arbitrary constants
+
+=> put F = 0, otherwise x(a) not square integrable (blows up at
+large -ve 2) _
 --- page 7 ---
 (ii).(c)   Find which of the following functions are eigenfunctions of the operator 𝑑𝑥2: 𝑑2 (a)   (4)
 𝑠𝑖𝑛𝑘𝑥 (b) x4 .
@@ -10547,6 +13522,17 @@ Problem: k = 573 N/m, Ev = 4.50 eV
 𝜈𝑜𝑐= 1.32 × 1014𝑠−1
 ---------------- (1 mark)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+/2m (Uo — E)
+aL= — jz
+
+__ /2(9.11 x 10-84kg) (1.5eV — eV) (1.6 x 10-19 J/eV)
+(1.055 x 10-347 - s)?
+
+(0.5 x 10-°m) = 1.81
+
+T = 3.56 exp [—2 (1.81)] = 0.0955
 --- page 10 ---
 ---------------- (1.5 mark)
 For Ev = 4.5 eV
@@ -10665,6 +13651,40 @@ Total number of photons per unit volume having all possible energies
 --------------- (2.5 marks)
 N = 2.018 x 1016 photons   --------------- (1.5 marks)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+The kinetic energies of a particle associated with its motion along the x, y and z directions are
+px’/2m, py?/2m and p-’/2m, respectively. Here p;, py and p- are the x, y and z components of the
+momentum p. The average energy of the particle for its motion along any of the three directions
+is
+p
+I (Er (E)dpxdpydpz
+
+|) = “7@ap.ap, ap, Guy
+
+Where dp; dp, dp: is a small volume element in the momentum space and the integrals extend
+
+over the entire momentum space.
+
+Using the Maxwell-Boltzmann form of the distribution function f/E) and noting that
+
+E = (pe + py’ + p2)/(2m), we obtain from the above equation
+
+Py 2
+PZ
+ine Pe Bray, {2, e “amit ap, [e,e 2mkTap,
+DE Py vz
+ine e amiT dp, °°, e “2mKT dpy fo, e 2mkTdp,z
+
+E, =
+
+2 DE 2 DE
+© (PX) 9 —SmkT, 0 PX) 9s kT,
+_ SoG De 2mTdpx _So G&)e 2mkT dp,
+_~ 2 2
+Px Px
+co Px co —_Px_
+Jogo @ 2mkT py Jo @ 2mkT dp,
 --- page 14 ---
 Q.2.6   (20)
 (vi).(a) Give the mathematical formulation for the probability W of distribution for a   (10)
@@ -10675,6 +13695,31 @@ Solution:
 ------------------------ (1 mark)
 ------------------------ (1 mark)
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Let us divide a large box into k cells having areas aj, a2, a3, ..., ax (Fig. 5). Then we throw n
+identical balls such that no part of the box is favored. Each cell will contain different number of
+balls. This is a distribution. If this experiment is repeated many times, it is found that certain
+distribution occurs more frequently than others. This particular outcome is the most probable
+distribution.
+
+The probability W of a particular distribution depends on two factors:
+
+i. The a priori probability (G) of the distribution which depends on the property of each
+cell.
+ii. The thermodynamic probability (Q) of the distribution which is the number of
+
+different accessible sequences in which the balls may be distributed among the cells
+without changing the number of balls in each cell. Thus we assume that the balls are
+identical but distinguishable.
+
+The a priori probability gi that a ball falls in the i-th cell is equal to the fractional area of the cell.
+If A is the total area, then
+
+a= with Yg;=1 and Ya,=A
+
+The a priori probability of two balls simultaneously in the i-th cell is (g;). The a priori probability
+that nj balls go to i-th cell is (g;)™.
 --- page 15 ---
 ------------------------ (1 mark)
 ------------------------ (2 marks)
@@ -10694,4 +13739,27 @@ Solution:
 (Two points of distinction = 2 x 2 = 4 marks)
 ******************************************************************
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Further, the distribution of balls among the cells are not equally probable, therefore we have to
+bring the concept of thermodynamic probability. The number ways in which 7; balls out of N balls
+can be distributed in first cell is given by
+
+N!
+Cn, n(N—n,)!
+
+The number of ways nz balls can be distributed out of the remaining (N-m)) balls in the second cell
+is then given by
+
+(N=n,)!
+n2!(N—n4—nz)!
+
+(N- 11 )en, =
+
+Similarly, proceeding in the same manner, the total number of independent ways of arranging N
+balls among n containers such that 7 balls in the first, m2 balls in the second ... ng balls in the k-th
+cell, will be
+
+= N! (N-n,)! (N-ny- nz...nk-1)!
+7y!(N—n,)! ng(N—ny—ng)!   ng!(N—ny—nz..mnx)!
 ````

@@ -91,12 +91,69 @@ Fixed cost is ₹ 1500 per year and the variable cost is ₹ 0.40 per unit. The 
 is ₹ 1.60. Tax rate is 35%. The company uses 15% discount factor. Determine the financial
 break-even point of number of units for a company.
 Page 1 of 3
+
+[Text in pictures on this page, read by OCR]
+Surya Ltd. is considering two mutually exclusive projects A and B; following details are made
+available to you:
+
+Particulars DF @ 12% Project A Project B
+Project Cost 55,00,000 50,00,000
+Cash Inflow: | _
+
+Year 1 0.893 2,50,000 30,00,000
+Year 2 0.797 12,50,000 25,00,000
+Year 3 0.712 20,00,000 20,00,000
+Year 4 0.636 25,00,000 12,50,000
+Year 5 0.567 35,00,000 2,50,000
+
+95,00,000 90,00,000
+Assume no residual values at the end of the Fifth year. The firm’s cost of capital is 12%.
+Required, in respect of each of the two projects:
+
+(i) NPV, using 12% discounting
+
+(ii) Discounted Payback period
+
+(iii) Profitability Index
 --- page 2 ---
 b. Explain any four techniques of Risk Analysis in Capital Budgeting with examples.   7
 3.   15
 4.   Answer the following.   15
 a.   8
 Page 2 of 3
+
+[Text in pictures on this page, read by OCR]
+The following forecast of Income and Expenditure of Sun Enterprises is given, and you are
+required to prepare a Cash Budget for six months commencing from Ist January 2025, when
+the opening bank balance is Rs. 4,00,000.
+
+Mon Sales Purchase | Wages | Factory | Admin. | Selling & | Research
+th (Rs.) s(Rs.) (Rs.) O/h O/h Distributio Exp.
+(Rs.) | (Rs.) nO/h (Rs.)
+(Rs.)
+Jan__| 5,00,000 | 2,50,000 | 1,50,000 | 60,000 | 20,000 | 18,000 5,000
+Feb | 4,50,000 | 3,00,000 | 1,80,000 | 65,000 | 25,000 | 20,000 6,000
+Mar _| 6,00,000 | 3,20,000 | 1,70,000 | 68,000 | 22,000 | 22,000 7,000
+Apri | 5,20,000 | 3,50,000 | 1,90,000 | 70,000 | 30,000 | 24,000 8,000
+
+May | 6,50,000 | 4,00,000 | 2,00,000 | 75,000 | 35,000 | 25,000 9,000
+June | 7,00,000 | 4,50,000 | 2,20,000 | 80,000 | 40,000 | 30,000 10,000
+
+Additional Information:
+
+1. 10% of sales will be made for cash, and out of the credit sales 50% of the sales is
+received in the month following the month of sale and balance 50% thereafter.
+
+2. 30% of purchases will be for cash; the rest will be on a one-month credit.
+
+3. All wages are paid 1/2-month time lag and overheads have a one-month delay in
+payment.
+
+4. Dividend of Rs. 20,000 is payable in March and June.
+
+5. Research Expenses are paid in the same month
+
+Prepare Cash Budget for the period of 6 months from Jan to June 2025.
 --- page 3 ---
 Shine Bright Ltd. has 1,50,000 equity shares outstanding, each selling at *40 per share. The
 company expects to earn a net income of %10,00,000 during the current year. It is considering
@@ -499,6 +556,41 @@ Instructions:
 7. Figures in brackets on the right hand side indicate full marks.
 8. Assume Suitable data if necessary.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Ql. Answer the following:
+
+CO-1; | a. | Summarize the Guru-Sisya parampara. (5)
+50-1;
+
+BL-2
+
+CO-3; | b. | Explain briefly the concept of iconography. (5)
+SO-1;
+
+BL-1
+
+CO-3; | c. | Tell briefly about the statement, "Ancient Indians had a rich heritage of maritime | (5)
+SO-1; trade".
+
+BL-1
+
+CO-3; | d. | In the context of metalworking, diagrammatically show any one yantra used by | (5)
+SO-1; ancient Indians.
+
+BL-2
+
+Q2.
+
+CO-3; | a. | Utilize the principles of Vastu-Sastra write about the four limbs - Yajamana (Host), | (10)
+SO-1; Sthapatya (Architecture), Shilpin (Technician), and Bhumi (Land).
+
+BL-3
+
+CO-3; | b. | Summarize the role of Sanskrit in natural language processing. (10)
+50-1;
+
+BL-2
 --- page 2 ---
 Q3.
 
@@ -1003,6 +1095,41 @@ Instructions:
 7. Figures in brackets on the right hand side indicate full marks.
 8. Assume Suitable data if necessary.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Qi. Answer the following:
+
+CO-1; | a. | Outline the importance of IKS. (5)
+S0-1;
+
+BL-2
+
+CO-3; | b. | Summarize the marvellous stone architecture for eternity, found in the temples of | (5)
+SO-1; India
+
+BL-1
+
+CO-3; | c. | Tell briefly about the statement, "Susruta is the father of surgery”. (5)
+S0-1;
+
+BL-1
+
+CO-3; | d. | Show diagrammatically any one yantra used by ancient Indians in the context of | (5)
+SO-1; metalworking.
+
+BL-2
+
+Q2.
+
+CO-3; | a. | Make use of the IKS principles to write about Vastu-Sastra-The Science of | (10)
+SO-1; Architecture.
+
+BL-3
+
+CO-3; | b. | Explain the role of Sanskrit in natural language processing. (10)
+S0-1;
+
+BL-2
 --- page 2 ---
 Q3.
 

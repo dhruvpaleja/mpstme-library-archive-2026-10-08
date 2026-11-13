@@ -2727,7 +2727,7 @@ BL-3
 - Departments: Electronics and Telecommunication
 - Programmes: BTech EXTC 7006
 - Source: `02_Question_Papers/2025/Sem_01/Re-Exam/BTech_EXTC_7006/Basic Electrical and Electronics Engineering/QP_Basic Electrical and Electronics Engineering(702EX0C001)_2025-2026.pdf`
-- Text: none (FileDataError: Failed to open stream)
+- Text: none (encrypted by the portal: the file is uniformly random bytes in 16-byte cipher blocks with no PDF structure, and the archive holds no key (its own re-download got the same bytes))
 
 ## 2025-26 · Re-Exam · Sem 1 · paper fe1a9c55cc7b
 

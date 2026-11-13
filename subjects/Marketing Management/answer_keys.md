@@ -462,6 +462,12 @@ right places at the right times and at the right prices to maximize profitabilit
 • Complementary services (cocktail lounges in restaurants)
 •   Reservation systems (airlines, hotels, hospitals)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+(a) Inelastic Demand (b) Elastic Demand
+
+100 105 50 150
+Quantity Demanded per Period Quantity Demanded per Period
 --- page 3 ---
 Q2. Explain the Five Stage Model of the Consumer Buying Process with an example of products from
 the Automobile Industry.

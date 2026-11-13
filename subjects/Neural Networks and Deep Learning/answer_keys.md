@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_06/Final-Exam/BTech_CSE_DS_7057/Neural Networks and Deep Learning/ANS_Neural Networks and Deep Learning(702DB0C027)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 11 May 2026
 - Text: mixed (18 pages), mean OCR confidence 65.0
+- 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -62,6 +63,27 @@ accuracy but low validation accuracy. The loss function becomes overly
 dependent on training data.
 (3 Marks – Solutions with Equations)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+The input features are represented as A") = X. For each layer I, the weighted sum Z"" is computed and
+
+passed through an activation function such as ReLU:
+A"! = max(0, Z")
+
+This process continues until the final layer, where for classification problems, softmax is applied:
+
+All = et
+Se
+
+Intermediate activations are stored for use during backpropagation.
+
+Regularization modifies the loss function:
+J = Joriginat + > > W? (L2 Regularization)
+Dropout randomly deactivates neurons during training:
+Au = A". p! (mask)
+
+Early stopping halts training when validation loss increases. These methods reduce model complexity and
+improve generalization.
 --- page 3 ---
 CO-3;   d.   (2 Marks – Components)   [5]
 BL-3   CNNs consist of convolution, pooling, and activation layers for image
@@ -72,6 +94,29 @@ Q1
 CO-1;   a.   [10]
 BL-1,2
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Convolution operation:
+Z(i,j) = S> X(i+ m,j +n) -W(m,n)
+Pooling reduces dimensions:
+Al = max(Z") (Max Pooling)
+Activation:
+A=max(0,Z) (ReLU)
+
+These operations extract hierarchical features from edges to complex patterns.
+
+(3 Marks — Model Formulation & Loss Function)
+For binary classification, the model computes:
+z=w'r+b
+1
+l+e?
+
+9 = o(2) =
+The binary cross-entropy loss is:
+
+J = —[ylog(g) + (1 — y) log(1 — 9)]
+
+This loss measures the difference between predicted output y and actual label y.
 --- page 4 ---
 (3 Marks — Gradient Derivation)
 
@@ -164,6 +209,28 @@ Effects:
 • High training error
 • Poor performance on both training and validation data
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+(3 Marks — Architecture)
+Input > Hidden layers — Output
+
+AQ=x
+(3 Marks - Forward Propagation)
+
+ZY weal tl 4 pl
+
+All = 9(Z")
+(4 Marks - Backpropagation)
+Loss:
+J==Sy-a
+m ‘ .
+Gradient:
+Od
+dW = —
+ow
+Update:
+
+W=W—- adW
 --- page 7 ---
 Thus, the model is unable to learn meaningful relationships from sensor
 data.
@@ -221,6 +288,37 @@ Depth   Deep (16–19 layers)   Very Deep (50+ layers)
 Filters   Small (3×3) filters   Small filters + skip connections
 Complexity High   Moderate (efficient design)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+VGG - 16
+Conv £axa filte), «=
+
+\ae- 14
+1, same MAX-POOL = 2x2, s=2_ J —
+
+ZW TUM KG
+° a ERO
+—&
+fae 112x112 x64 112x112 x128 ———> 56x56 x128
+icons POOL [CONV.128) POOL
+x2
+
+2BAKB2A x3
+
+Ny
+
+cv
+56x56 X256 ———> 38x28 x256 28x28 x512 ——® 14x14x512
+(conca38) POOL {convi2) POOL
+
+x3 x3
+14x14 x512 7X7x512 FC FC Softmax
+tcow(sia} POOL 4096 4096 1000
+x3
+Nartes & ad ASTM
+ee
+
+Simonyan & Zisserman 2015. Very deep convolutional networks for large-scale image recognition] Andrew Ng
 --- page 10 ---
 Gradient   Vanishing gradient   Solved using residual links
 Issue
@@ -244,6 +342,17 @@ highly effective for tasks like machine translation and speech
 recognition.
 CO-3;   b.   (3 Marks – GAN Architecture & Concept)   [10]
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Forget gate:
+fe = o(Wy|he-1, x1] + bf)
+Input gate:
+i¢ = o(Wi[ht-1, 2t] + bi)
+Candidate memory:
+C; = tanh(W-[hi-1, x1] + be)
+Cell state update:
+
+Ce= fir + uC
 --- page 11 ---
 BL-3
 A Generative Adversarial Network (GAN) consists of two neural
@@ -312,6 +421,52 @@ datasets
 Impact:
 LeNet laid the foundation of CNNs, while AlexNet revolutionized
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+AlexNet
+
+MAX-POOL MAX-POOL,
+_ _ _ —
+ux 11 3x3 5x5 3x3
+s=4 s=2 same s=2
+55x55 x96 x96 27x27 x96 x96 27x27 eet) 13x13 x256__
+227x227 x3
+227x227 x3
+MAX-POOL had Xs
+_—
+axa 3x3 3x3 8 es 3 cae
+1000
+13x13 x384 13x13 x384 13x13 x256 6x6 256 9216 4096 4096
+. - AU
+- Svatlaeye a aba, hob tou, ‘age . ALOM Poretec
+— &LY
+— Moltide GPUS. 3
+
+
+[Krizhevsky et al.. 2012. ImageNet classification with deep convolutional neural networks] <——— Andrew Ng
+
+Year CNN Developed Place Top-5 error —_| No. of
+by rate parameters
+
+et al
+
+2012 AlexNet(7) Alex ist 15.3% 60 million
+Krizhevsky,
+Geoffrey
+Hinton, Ilya
+Sutskever
+
+2013 ZFNet() Matthew ist 14.8%
+Zeiler and
+Rob Fergus
+
+2014 GoogLeNet(1 | Google ist 6.67% 4 million
+9)
+
+2014 VGG Net(16) | Simonyan, 2nd 7.3% 138 million
+Zisserman
+
+2015 ResNet(152) |Kaiming He | ist 3.6%
 --- page 15 ---
 deep learning by achieving breakthrough performance on ImageNet
 and enabling modern deep architectures.
@@ -439,6 +594,27 @@ CO-2;
 SO-2;   5
 BL-2
 1
+
+[Text in pictures on this page, read by OCR]
+Explanation / Steps:
+1. Input Layer:
+Input features 21, Z2, ... are applied to the network.
+2. Weighted Sum:
+
+Each neuron calculates a linear combination of inputs and weights and adds bias:
+eS Ss wr; +b
+
+The weighted sum is passed through an activation function such as sigmoid / ReLU / tanh:
+
+a= f(z)
+
+3. Activation Function:
+
+4. Propagation:
+Output of one layer becomes input to the next layer.
+5. Output Layer:
+
+Final layer produces the predicted output.
 --- page 2 ---
 b   Feedforward Neural Network Diagram (Information flows only in one direction)
 Recurrent Neural Network (RNN) diagram (Feedback connection showing
@@ -465,6 +641,28 @@ SO-2;
 Meaning of Bias and Variance
 BL-1
 2
+
+[Text in pictures on this page, read by OCR]
+Small Numerical Example (any suitable example acceptable)
+e Inputs: 2] = 1,22 = 2
+¢ Weights: w; = 0.5, wo = 1.0
+¢ Bias: b = 0.5
+
+z=(1x0.5)+ (2x 1.0)+05=3
+
+Using sigmoid:
+
+1
+
+a= 3 + 0.95
+
+Mathematical Representation (any equivalent form acceptable)
+
+Feedforward Neural Network:
+z=Wr+b, y = f(z)
+Recurrent Neural Network:
+
+hi = f(Wa,+Uh1+6), y% = 9(hi)
 --- page 3 ---
 •   Bias:
 Bias refers to the error due to oversimplified assumptions made by the
@@ -560,6 +758,22 @@ CO-2;
 SO-2;
 BL-5
 5
+
+[Text in pictures on this page, read by OCR]
+Step 1: Forward Propagation
+
+Hidden layer computation:
+Zn = (a1w1 + wo) + by
+
+zp = (1x 0.1+2 x 0.2) +0.1 = 0.6
+
+1
+h = 0(0.6) = Tpe08 = 0.645
+
+Output layer computation:
+Zo = (h x ws) + be
+2 = (0.645 x 0.3) + 0.1 = 0.2935
+y = (0.2935) ~ 0.572
 --- page 6 ---
 Q3   a.
 GRU Cell Architecture – Diagram   10 (6
@@ -567,6 +781,28 @@ CO-5;
 SO-2;   (Any equivalent neat, labeled diagram acceptable)   theory
 BL-6
 6
+
+[Text in pictures on this page, read by OCR]
+Step 4: Weight Update using SGD
+Update output weight w3:
+wy” = w3 — (50 - h)
+w3°” = 0.3 — 0.1(—0.105 x 0.645)
+
+w3°" & 0.307
+
+Update hidden weights:
+
+new
+
+wr” = wi — (dn: £1)
+
+wi” = 0.1 —0.1(—0.0072 x 1) = 0.1007
+
+new
+
+wy” = w. — (dn + £2)
+
+wy” = 0.2 — 0.1(—0.0072 x 2) = 0.2014
 --- page 7 ---
 + 4
 code)
@@ -588,6 +824,27 @@ model.compile(optimizer='adam', loss='mse')
 # Dummy time-series data
 X_train = tf.random.normal((100, 10, 1))
 7
+
+[Text in pictures on this page, read by OCR]
+Components of GRU
+1. Update Gate (z,):
+
+Controls how much past information should be carried forward.
+
+2 = 0(W.a, + ULy_-1)
+2. Reset Gate (r,):
+
+Controls how much past information should be forgotten.
+
+r, = o(W,a, + U,ht-1)
+3. Candidate Hidden State (h,):
+
+hy = tanh(Wa;, + U(r © hy-1))
+4. Final Hidden State:
+
+ky = (1— 21) Ohi t2@h
+
+(Any equivalent mathematical representation acceptable)
 --- page 8 ---
 y_train = tf.random.normal((100, 1))
 # Train model
@@ -618,6 +875,22 @@ CO-3;
 SO-2;
 BL-1,6   •   Flipping
 8
+
+[Text in pictures on this page, read by OCR]
+1. Regularization
+
+Regularization adds a penalty term to the loss function to discourage complex models.
+
+¢ L1 Regularization: Encourages sparsity
+
+¢ L2 Regularization: Penalizes large weights
+Inew =L+% Ss w
+
+Effect:
+
+¢ Reduces model complexity
+
+¢ Prevents very large weights
 --- page 9 ---
 •   Scaling
 •   Noise addition
@@ -847,6 +1120,23 @@ CO-5;
 SO-2;
 BL-6   # Load MNIST dataset
 14
+
+[Text in pictures on this page, read by OCR]
+Input Image (28x28)
++
+Convolution + ReLU
++
+Max Pooling
++
+Convolution + ReLU
++
+Max Pooling
++
+Flatten
++
+Fully Connected
++
+Softmax Output (0-9)
 --- page 15 ---
 (x_train, y_train), (x_test, y_test) = tf.keras.datasets.mnist.load_data()
 # Normalize and reshape data
@@ -964,6 +1254,31 @@ CO-3;
 SO-2;
 BL-2
 18
+
+[Text in pictures on this page, read by OCR]
+1. Batch Gradient Descent
+Definition:
+Uses the entire training dataset to compute gradients.
+
+0 = 0 — nVL (full dataset)
+
+Characteristics:
+* Stable convergence
+* Computationally expensive
+
+© Slow for large datasets
+
+2. Stochastic Gradient Descent (SGD)
+Definition:
+Updates parameters using one training sample at a time.
+
+0=0-—nVL(z;)
+
+Characteristics:
+e Faster updates
+e Noisy convergence
+
+© Can escape local minima
 --- page 19 ---
 3. Mini-batch Gradient Descent
 

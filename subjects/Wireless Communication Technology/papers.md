@@ -2997,7 +2997,8 @@ x
 - Programmes: B TECH / EXTC
 - Source: `02_Question_Papers/Legacy/B TECH/4TH YEAR/EXTC/Sem_07/WIRELESS COMMUNICATION TECHNOLOGY/WIRELESS COMMUNICATION TECHNOLOGY B TECH (EXTC), 2014-15 FINAL EXAM.pdf`
 - Printed on paper: max marks: 100; exam date: 28/11/2014
-- Text: ocr (3 pages), mean OCR confidence 76.1
+- Text: ocr (3 pages), mean OCR confidence 88.6
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 SVKM’s NMIMS
@@ -3087,18 +3088,17 @@ b) Write a short note on the following :
 
 (2*5)
 --- page 3 ---
-&
+Number of Trunked Channels (c)
 
-°o
+3 ‘ 5 6 78 9m
 
--
-8 8
-o
+12 4 168 os 5 5 60 ee
 
-oS
-Bupporg Jo Amqrqorg
+01 10 10.0 100.0
+Traffic Intensity in Erlangs
+Figure 2.6
 
-49 3/3
+The Erlang B chart showing the probabulity of blocking as functions of the number of channels and traffic intensity in Erlangs.
 ````
 
 ## 2014-15 · Final-Exam · Sem 7 · paper 649abf489525

@@ -118,6 +118,42 @@ This impacts sales of current products significantly.
  High-tech firms must offer a migration path or a series of upgrades to help the customer’s transition
 between generations.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+1. Identify a Beachhead
+
+The customers have a b) Bowling Alley Market Development
+
+single, compelling,
+
+must have reason to en ' :
+buy which maps to the Seg 3 Seg 2 Seg 1 contiguous segments
+firm capabilities
+
+\app 1/ App 2 App 3
+
+\
+Seg 2 Seg 1
+
+App 1 App 2
+
+(Sea 1\
+\ape
+
+The Beachhead
+
+Whole
+Product
+
+Customer
+References
+
+Eg. Microsoft —
+Windows - Office Suite
+- Teams
+
+executives — positive
+word of mouth
 --- page 4 ---
 The various options along the migration path depend on the degree to which the customer’s options in the
 transition are more constrained vs enlarged
@@ -272,6 +308,24 @@ they are ready for the market
  Signals the firm’s future intentions
  Appealing tool for strategic marketing communications
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+PROS
+
+Pioneering advantage: preempt
+
+. : Cue competitors
+competitors, create entry barriers p
+
+Stimulate demand Cannibalize current products
+Encourage customers to delay purchasing Confuse customers
+Help customers plan Create internal conflict
+Gain customer input, feedback Generate anti-trust concerns
+Stimulate development of complementary Product delays damage reputation or
+products jeopardize
+Provide access to distribution firm survival
+
+Increased value to shareholders
 --- page 9 ---
 Timing*
 
@@ -431,6 +485,26 @@ recommend number of routers and switches required for customers)
 ◦ Someone else has already developed technology
 ◦   Saves time and effort
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Consider
+
+Technology Identification emerging
+technology
+trends
+Ongoing Management Decide on Needed Technology
+- Platforms and Additions
+derivatives - Internal development (Make)
+- Killing projects - External acquisition (Buy)
+- Intellectual property - Partner to co-develop
+
+issues
+
+Decide on "What to Sell"
+Strategy
+
+- License vs. full
+commercialization
 --- page 14 ---
 ◦   Let others take risks first
 ◦ Keep up with competitors who have new technology
@@ -855,6 +929,42 @@ milestones is an extremely difficult decision.
 ◦ Managers with no prior beliefs make the decision
 ◦ Rely on benchmarks established at outset
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+1. Identify a Beachhead
+
+The customers have a b) Bowling Alley Market Development
+
+single, compelling,
+
+must have reason to en ' :
+buy which maps to the Seg 3 Seg 2 Seg 1 contiguous segments
+firm capabilities
+
+\app 1/ App 2 App 3
+
+\
+Seg 2 Seg 1
+
+App 1 App 2
+
+(Sea 1\
+\ape
+
+The Beachhead
+
+Whole
+Product
+
+Customer
+References
+
+Eg. Microsoft —
+Windows - Office Suite
+- Teams
+
+executives — positive
+word of mouth
 --- page 4 ---
 Q2. What are the three characteristics common to high tech environments? Provide details for
 each dimension of each characteristic, and an example of each from the Automobile Industry.
@@ -877,6 +987,26 @@ Uncertainty
 1. Will the new product function as promised?
 2. Will the delivery timetable be met?
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Managers seek out information Replace incumbent with new
+
+' ; that supports their argument, manager; hold managers
+Confirmation discount information that does accountable
+
+not
+
+Justify project continuation Set up contingencies to pull
+
+Sunk-cost because there has already been the plug when budgets are
+
+fallacy significant investment exhausted; use zero-based
+
+budgeting.
+Tendency to adjust estimates Use independent evaluators
+
+Anchoring and insufficiently from an initial value
+adjustment
 --- page 5 ---
 3. Will the vendor give high-quality service?
 4. Will there be side effects of the product or service?
@@ -1000,6 +1130,24 @@ they are ready for the market
  Signals the firm’s future intentions
  Appealing tool for strategic marketing communications
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+PROS
+
+Pioneering advantage: preempt
+
+. : Cue competitors
+competitors, create entry barriers p
+
+Stimulate demand Cannibalize current products
+Encourage customers to delay purchasing Confuse customers
+Help customers plan Create internal conflict
+Gain customer input, feedback Generate anti-trust concerns
+Stimulate development of complementary Product delays damage reputation or
+products jeopardize
+Provide access to distribution firm survival
+
+Increased value to shareholders
 --- page 9 ---
 Timing*
 
@@ -1159,6 +1307,26 @@ recommend number of routers and switches required for customers)
 ◦ Someone else has already developed technology
 ◦   Saves time and effort
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Consider
+
+Technology Identification emerging
+technology
+trends
+Ongoing Management Decide on Needed Technology
+- Platforms and Additions
+derivatives - Internal development (Make)
+- Killing projects - External acquisition (Buy)
+- Intellectual property - Partner to co-develop
+
+issues
+
+Decide on "What to Sell"
+Strategy
+
+- License vs. full
+commercialization
 --- page 14 ---
 ◦   Let others take risks first
 ◦ Keep up with competitors who have new technology

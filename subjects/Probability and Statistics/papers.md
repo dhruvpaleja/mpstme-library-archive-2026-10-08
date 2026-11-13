@@ -16881,6 +16881,14 @@ SO:1,2,
 BL-1
 Find marginal PMF of X.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+The joint PMF of two random variables X and Y is given by
+
+1
+pyy(t,y) = e+» x=1,2;y=1,2
+
+i" otherwise
 --- page 2 ---
 CO:1,2, d An oceanographer wants to check the depth of the ocean in an   4 M
 SO:1,2,   ascertain region is 57.4 fathoms, as had previously been
@@ -16908,6 +16916,14 @@ BL-3,4
 Find mean and variance.
 Q3
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+X and Y are two continuous random variables whose joint PDF is
+
+(x+y)
+fyy0.y) = e 0<x<0w,0<y<oo
+
+otherwise
 --- page 3 ---
 CO:3,   a   6 M
 SO:1,2,
@@ -16939,6 +16955,14 @@ Frequency   52 54 58 28 32 40
 Q5
 CO:3,   a Two random samples gave the following data:   10M
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Two events A and B have the following probabilities: P[A] = 0.4,
+P{B|=0.5, and P[A MN B] = 0.3. Calculate the following:
+
+a. P[AUB]
+b. P[ANB]
+c. P[AUB]
 --- page 4 ---
 SO:1,2,
 BL-3,4
@@ -17238,6 +17262,13 @@ CO:1,2, d A sample of 64 students have a mean weight of 70 kgs. Can this be rega
 SO:1,2,   sample from population
 BL-1   with mean weight 56 kgs and standard deviation 25 kgs. [LOS=5%]
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+The joint PMF of two random variables Y and Y 1s given by
+
+kOxty) x=1,2y=1,2
+
+pxvt))= 0 otherwise
 --- page 2 ---
 CO:1,2, e Find the coefficient of correlation between the two variables   4 M
 SO:1,2,
@@ -17278,6 +17309,12 @@ SO-1,2;   a sample of 5 chosen at random   M
 BL-1,2
 1. None is defective
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Assume that the random variables Y and ¥ have the joint PDF
+
+1
+fart. = sry 0<x<2,0<y<l
 --- page 3 ---
 2. One is defective
 3. P(1<X<4)   [where X is number of defectives]

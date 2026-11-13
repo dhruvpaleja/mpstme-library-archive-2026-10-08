@@ -2394,8 +2394,9 @@ LS 4332 4345 4357 4370 «4382 A394 4406 4418 4429 444)
 - Programmes: B TECH / I T
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/COMPUTER SIMULATION AND MODELING/COMPUTER SIMULATION AND MODELING B TECH (IT), BATCH 2014-15 RE EXAM_38a7599918.pdf`
 - Printed on paper: exam date: 04/12/2015
-- Text: ocr (17 pages), mean OCR confidence 73.3
-- 19 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: ocr (17 pages), mean OCR confidence 76.5
+- 1 page scanned sideways or upside down, turned upright before OCR
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 aN
@@ -3057,90 +3058,79 @@ i 26.8 24.7 21.9 19.7 173°
 Science, © 1975, p. 372. Reprinted by permission of Prentice Hall, -
 Upper Saddle’River, NJ. : .
 --- page 11 ---
-SASSSHARFREZESSAMTBSsSseSaexraewenranrnia
+Degrees of Freedom for the Numerator (v,)
 
-=AnNoO i=
-WMAFMMANNNANNNNN RRR e He ett 3 ;
-= i
+vy 4 s i
+E | 1 2 3 4 5 6 7 8 9 10 12 15 20 24° 30 40 60 120 os) !
 
-BETA UANHPMAAHEaSeseqgagnngeseaeRRCReRSRsag |S
+I Ip Ld 199:5 215.7 224.6 230.2 234.0 236.8 238.9 240.5 241.9 243.9 245.9 248.0 249.1 250.1 251.1 252.2 253.3 254.3
 
-5
-3
-BASSTSSA2IaAAeSOgvr-Vramnnavyvryaoannvyana =
-AEP VBSHSVUAIA=HSoaaggrgaegsgeaRentSsns@h =)
-i) i
-SIYRAZSBSawmrAsneoenavtranuntanragnanala
-SR ZRQSSSAYMAIATHASSAAAHARM HE HARARR SARA oO
+2 {851 19.00 19.16 19.25 19.30 19.33 19.35 19.37 19.38 1940 19.41 19.43 19.45 1945 1946 1947 19.48 1949 19.50
+3 F013 9.55 9.28 912 9.01 8.94 8.89 885 8.81 8.79 874 8.70 8.66 864 862 859 857 8.55 8.53
+4 \7.71 694 659 639 626 616 6.09 604 600 5196. 5.91 5.86 5.80 5.77 5.75 5.72 5.69 5.66 5.63
+5 (6.61 5.79 5.41 5.19 5.05 4.95 488 4.82 4.77 4.74 468 462 456 453 450 446 443 4.40 4.36
+6 99 5.14 4.76 4.53 4.39 4.28 4.21 “IS 410 4.06 4.00 3.94 387 3.84 3.81 3.77 3.74 3.70 3.67
+7 559 4.74 435 4.12 3.97 3.87 3.7% 3.73 3.68 3.64 3.57 3.5] 344 3.41 3.38 3.34 3.30 3.27 3.23
+8 532 446 4.07 3.84 3.69 3.58 .3.50 344 3.39 3.35 3.28 3.22 3.15 3.12 3.08 3.04 3.01 2.97 2.93
+9 S12 426 3.86 3.63 348 3.37 3.29 3.23 3.18 3.14 3.07 2.94 2.90 2.86 283 2.79 2.75 2.71
+10, 4.96 4.10 3.71 348 3.33 3.22 3.14 3.07 3.02 2.98 2.91 2.77 2.74 2.70 2.66 2.62 2.58 2.54
+im 4.84 3.98 3.59 3.36 3.20 3.09 3.01 2.95 2.90 2.85 2.79 2.65 2.61 257° 2.53 249 245 2.40
 
-SLSZSRBGOCrmeyPryaAne-n ser wmoyrnonnnyt+une Ss i
+Zl_ '2 4.75 389 349 3.26 3.11 3.00 2.9) 2.85 2.80 ° 2.75 2.69 2.54 2.5] 2.47 243 2.38 2.34 2.30
+& 13. 4.67 3.81 341 3.18 3.03 292 283 2.77 2.71 2.67 2.60 246 242 2.38 234 230 2.25 221
+ss] 14 460 3.74 3.34 3.11 2.96 285 2.76 2.70 265 260 2.53 2.39 235 231 2.270 2.22 218 2.13
 
-e |
-SERSSFARTSHSSAAZAVCuMVSygswvenn-sgaoea ly |
-SRBRBTTANPSNAMANTRAA-SSSSAAARARSEKRSH |B |
-OMTAMOMANANANN AAA NANNN BPR RHP a |
+g{ 15 4.54 3.68 3.29 3.06 2.90 2.79 2.71 2.64 259 2.54 2.48
+449 3.63 3.24 3.01 2.85 2.74 266 259 254 249 242
++45 3.59 3.20 2.96 2.81 2.70 2.61 2.55 249 245 2,38
+18 441 355 3.16 2.93 2.77 266 2.58 2.51 246 241 2.34
+19 4.38 3.52, 3.13 2.90 2.74 2.63 254 248 242 2.38 2.31
+20 435 349 3.10 2.87 2.71 2.60 2.51 245 2.39 2.35 2.28
+21 432 347 3.07 2.84 268 2.57 249 242 2.37 2.32 2.25
+2200 4.30 344 3.05 2.82 266 255 246 240 2.34 2.30 2.23
+23° 4.28 342 3.03 2.80 264 253 244 2.37 2.32 2.27 '2.20
+24 4.26 3.40 3.01 2.78 2.62 2.51 242 2,36 230 2.25 218
+25 a 3.39 2.99 2.76 260 249 240 2.34 2.28 2.24 2.16
 
-a i
-SBSVBTTANWESAIMMANARARSSSSAARRARAK SH |e
-SMTIIAANN Aa ci cla cia ccd cicicicicid H=- Att les] 8
+2.33050 2.29 225 2.20 216 21) 2.07
+2.28 2.24 219 215 211 2.06 2.01
+2.230 219 215 210 206 2.01 1.96
+219 215 2.11 2.06 2.02 1.97 1.92
+2.16 2.11 2.07 2.03 1.98 1.93 1.88
+212 2.08 2.04 1.99 1.95 1.90 1.84
+2.10 2.05 2.01 1.96 1.92 1.87 1.81 !
+2.07 2.03 1.98 1.94 1.89 1.84 1.78 i
+2.05 2.01 1,96 1.91 1.86 1.81 1.76 i
+2.03 1.98 1.94 1.89 1.84 1.79 1.73
 
-5
+2.01 1.96 1.92 1.87 1.82 1,77 171
 
-5
-SP¥SeSssrtrasedrsemesnrnnomnn-anvtnowntunn 5
+2600 «4.2. 3.37 2.98 2.74 2.59 247 2.39 2.22 2.15 1.99 1.95 1.90 1.85 1.80 1.75 1.69
+270 4.2 3.35 2.96 2.73. 2.57 2.46 2.37 2.20 2.13 1.97 1.93 1.88 1.84 1.79 1.73 1.67
+28 «42 3.34 2.95 2.71 256 245 2.36 219 212 1.96 1.91 1.87 1.82 1.77 1.71 1.65
+29 aig 3.335 2.93 2.70 .255 243 2.35 2.18 2.10 1.94. 1.90 1.85 1.81 1.75 1.70 1.64 Ny
+30. 4. My 3.32 2.92 269 253 242 2.33 2.16 2.09 1.93 1.89 1.84 £79 1.74 1.68 1.62 e
 
-&
+40 4.08 3.23 284 2.61 245 2.34 2.25 2418 2.12 2.08 2.00
 
-=
-TESSRSSRTASASSBPKRAMKMP FH MN MNSMoMnMmAIcCAcCAMNH = .
-ceuatrraamed add ciciccicdcidciddnd ddd Gta IS
+\ 60 4.00); 3.15 2.76 253 2.37 2.25 217 2.10 2.04 1.99 1.92
 
-PRTSSRTRERZESSASHSSRASHyVaARsavona
+"i207 3.92] 3.07 268 245 2.29 217 2.09 2.02 1.96 1.91 1.83
 
-=—-9
-SER SSR TEAereocunysrerararaarrdnr =a Saqgg 2
-ontrararm ANA ANN NNN 5
-. 8
-SSRSBZBAMASSHYVArAvVMaArtASeRnHtH-aAdtow |S
-SSREeSBreaenveantzrmamamand adil Sg gs 5
-wotrrainmamcicincicicidcicicitinnidcidd Nd acinad = 14
-2
-wotannts StAN-HYHMNOnYLtAIADAD ay] 3
-oy Sy og Site Gt PNRM ATE TEOMA AIAN HOG 3
+Ww co 63.84) 3.00 2.60 2.37
 
-COST main caiadcinadcdad aNd ad NNN HK] .
-5
-SPSBGexSA*seBeryeswrtrr—avtnroanvnauna-ly
-SSBZGEeadreaweeneenynttsttseaanannagdlss =
-corr aN NN NN GN ici ci NA iW s
-=]
-FLESPERPENASrnVaAtSOYUNSnRHNM-QAronmatunce|s
-x
-SISHASTMAASCHAARHH AR SSESSARRRSSRAAIS
+1.84. 1.79 1.74 1.69 1.64 1.58 1.51
+1.75 1.70 1.65 1.59 1.53 1.47 1.39
+1.66 1.61 1.55 1.55 L.43 L.g5' £25 H
+1.57 1.52 1.46 1.39 1.32 1:22, 1.00 t
 
-ROW AM AAA dicindcicicidd Addn ddd AAW | 8 -
+2.10 2.01 1.94 1.88 1.83 1.75
 
-SSSRASSVSSVPmSseRregeasegseveryrrea-a
+Source: W. Ww. Hines and D. C. Montgomery, Probability and Statistics in Engineering and Management Science, 2d ed., © 1980, p. 599. Reprinted by permission
+of John vey & Sons, Inc., New York.
 
-RoOontrtainiinaniiadciddddcidddiddddanada
-
-Senor an=nwonanntowo
-
-Addai Na NAA NW
-
-WFAYFOLSESOHArTARNANHADEANDARHtNMNAMHRO
-
-QAmaee dT AeereennattretTsaananadltss
-ht
-ars aad Avrenvarscxotse—oox Does me
-eS
-‘ 25
-TN mere rSUATTeSreasagtrganeneaseees 35
-al 6
-
-(4A) do punuousg 40f wopaatg fo saai
-
-585
+|
+|
 --- page 12 ---
 %
 i: 586 __ APPEND!
@@ -3458,8 +3448,8 @@ Adapted with permission of the American Statistical Association.
 - Programmes: B TECH / I T
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/I T/V SEMESTER/COMPUTER SIMULATION AND MODELING/COMPUTER SIMULATION AND MODELING B TECH (IT), 2014-15 FINAL EXAM.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 06/12/2014
-- Text: ocr (15 pages), mean OCR confidence 73.0
-- 26 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: ocr (15 pages), mean OCR confidence 76.8
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 SVKM’s NMIMS
@@ -4173,89 +4163,59 @@ Source:: Robert E.. Shannon, Systems Simulation: The. Art. and
 Science, © 1975, p. 372. Reprinted by Permission 10k Prentice Hall,
 Upper Saddle River, NJ.
 --- page 11 ---
-PAMOVMOAANHENMNADCDAARDOOREEROSS xs aas
+Distribution with a = 0.05
 
-AonsFainadadaddadninadid HS ees eku ee ee Br
+ercentage Points of The
 
-(5
-Anvovconnnwon +H nun co 00 3
-PEN eETEAgcHeadas PREM RR SSE RAS
+Degrees of Freedom for the Numerator (v)
+1 2 3 4 5 6 7 8 9 10 12 i) 20 24 30 40 60 120 co
 
-3
-SPRSSFSsAaSaweeorv=LYaIwannarjVAotranacannys ana le
-Qenraasaaad ann enna HH RRB STE
-S 0
+161.4 199.5 215.7 224.6 230.2 234.0 236.8 238.9 240.5 241.9 243.9 245.9 248.0 249.1 250.1 251.1 252.2 2533 2543
+18.51 19.00 19.16 19.25 19.30 19,33 19.35 19.37 19.38 1940 19.41 19.43 19.45 19.45. 19.46 1947 1948 19.49 19.50
+10.13 955 928 912 9.01 8.94 889 885 881 879 874 870 866 864 862 8.59 8.57 8.55 8.53
+771 6.94 659 6.39 6.26 616 609 604 600 5:96 5.91 5.86 580 5.77 5.75 5.72 569 5.66 5.63
+6.61 5.79 S4l 5.19 505 495 488 482 4.77 4.74 468 462 4.56 453 450 4.46 4.43 4.40 4.36
+5.99 514 476 453 439 428 4.21 “IS 4.10 406 4.00 3.94 3.87 384 381 3.77 3.74 3.70 3.67
+559 4.74 435 412 3.97 387 3.79 3.73 368 3.64 3.57 3.51 344 341 338 3.34 3.30 3.27 3.23
+5.32 446 4.07 384 369 358 350 344 .339 3.35 3.28 3.22 3.15 3.12 308 3.04 3.01 2.97 2.93
+5.12 4.26 3.86 363 348 3.37 3.29 3.23 3.18 3.14 3.07 3.01 2.94 290 286 (2.83 2.79 2.75 2.71
 
-2AM eSaAnONNsG 1H
+10 4.96 4.10 3.71 3.48 3.33 3.22 3.14 3.07 3.02, 2.98 2.91 285 2.77 2.74 2.70 266 262 2.58 2.54
 
-a
-AHWTMANAMNAANANNN AN CicicddddicacN RBBB IS
+R{[ Il 484 3.98 3.59 3.36 3.20 3.09 301 2.95 290 285 2.79 2.72 265 261 2.57 253 249 2.45 2.40
 
-12)
-ARAweuUuYTr IMA ANA A Ki Kidi NNN NANA SG iS
-7 XN
-SSSReRSreszaryeszteanrrnnanvrdonunnwanrvetanreuneon |B
-Fa ARTISTA MAN IA KH OSOSCSAAAAAHAR BH |S
-DHVOFrFINANAA AAA AACA a adi ci ci dd ci NO an id
-a . 3
+Bl i2 475 389 349 3.26 311 3.00 291 285 280° 2.75 269 262 254 251- 247 243 2.38 2.34 2.30
 
-a
+& 130 467° 3.81 341 3.18 3.03 2.92 283 277 2.71 267 260 253 246 242 238 234 230 2.25 2.21
 
-s
-HRervuwrarninineaaancacadacdadidiadnidcicddcdadida ttt ou
--_ bo
+‘e] 14 460 3.74 3.34 3.11 2.96 285 2.76 2.70 265 260 253 246 239 235 231 227 «2.22 218 2.13
 
-=
-FTESSHRBSSCZLSISSRLAIMCYr-MNMNGAONnMACAdAMNH | §
-HRVPHYtAIAIAAIrIarnacdcdadacadciadinddddadadaq oH ~~
-= =}
+ge] 15 454 3.68 3.29 3.06 290 2.79 271 264 259 254 248 240 2.33 2.29 225 220 2,16 21), 2.07
 
-3
-eavuretntonnnotanawnonaon TAUIDAWODA——- |] w
-FOAM SCENMAANMNOCSHETIEAM AAAANATEATOCHAQAG] =
-RentrarANMANAAN A adi aacianda NNN d dann 5
+5 16 449 - 3.63 3.24 3.01 285 2.74 266 259 254 249 242 235 2.28 224 219 215 211 2.06 2.01
+& 17 445 3.59 3.20 296 2.81 2.70 261 255 249 245 238 231 2.23 219 215 2.10 2.06 2.01 1.96
+18 4.41 3.55 3.16 2,93 2.77 266 258 2.51 2.46 2.41 2.34 2.27 219 215 211 2.06 2.02 1.97 1.92
+19 4.38 -3.52 3.13 290 2.74 263 254 248 242 238 2.31 2.23 2.16 2.11 2.07 2.03 1.98 1/93 1,88
 
-SSSreoweaveragsoorvatravranzadownntanaadon | a
-PIO QMAOMTOAHKSHATETABARARAAANTALSRS|E
+20 435 3.49 3.10 287 2.71 260 251 245 2.39 2.35 2.28 220 2.12 2.08 2.04 1.99 1.95 1.90 1.84
+21 4.32 347 3.07 2.84 268 257 249 242 237 232 225 218 210 2.05 2.01 1.96 1,92 1.87 1.81
+2204.30 3.44 3.05 282 266 2.55 246 240 234° 230 2.23 215 2.07 2.03 1.98 1.94 1.89 1.84 1.78
+23° 4.28 «3.42 3.03. 2.80 264 253 244 237 2.32 2.27 2.20 213 2.05 2.01 1.96 1.91 1.86 1.81 1,76
+24 4.26 3.40 - 3.01 278 262 251 242 236 230 2.25 218 211 2.03 1.98 194 1.89 1.84 1.79 1.73
+25° 4.24 3.39 2.99 2.76 260 249 240 234 2.28 2.24 216 2.09 2.01 196 192 187 182 1.77 17d
+26 4.2300 3.370 2.98 - 2.74 2.59 247 239 232 227 2.22 215 2.07 199 1.95 1.90 185 1.80 1.75 1.69
+270 4.2100 3.35 2.96 2.73 257 ..246 237 231 2.25 2.20 213 2.06 197 1.93 188 1.84 1.79 1.73 1.67
+28 4.20 334 295 271 256 245 236 229 224 219 212 204 196 1.91 1.87 1.82 1.77 1.71 1.65
+29° 4.18 3.33 2.93 270 255 243 235 2.28 222 218 210 2.03 1.94 1.90 1.85 1.81 1.75 1.70 1.64
+30, 4.17 3.32 2.92 269 253 242 2.33 2.27 2.21 216 2.09 201 1:93, 189 1.84 1.79 1.74 1.68 1.62
+40 4.08 3.23 284 261 245 234 2.25 218 212 208 200 1:92 1.84 1.79 1.74 169 1.64 1.58 1.51
+60 4.00 315 2.76 253 237 2.25 217 210 204 199 192 184 175 1.70 165 1.59 153 1.47 1.39
+120 3.92 3.07 268 245 2.29 217 2.09 2.02 1.96 1.91 1.83 175 166 161 1.55 1.55 143 1.35 1.25
 
+Hy oo 63.84 «63.00 260 237 221 2.10 2.01 1.94 1.88 1.83 1.75 167) 157 152 146 = 1,39 1.32 1.22 1.00
 
-
-&
-nH
-2A BAMANMAVNITASAReEENGCoMnnteE TT Tamanna sa|s
-pe a
-QMrFLCHYMPrOOMErIAIAOAUVAtTOOMNONRHNN-HARONnMaAT no]s
-a
-SaseeaArgaenano-~anvon-nr¥r-aootraeannronnmnnane ra
-PSAIAIYAGCTIITARADANMAMYHOSCKSTOHHHEANH ET RAA 5
-= So
-ae
-YD an meesm~=Ooronortreanotrnnw=zOne nnn lEeES
-DAAVH+¥nninmninmaninimdcadniddcadddddiindndndad =z
-= + @
-OZ
-= BEV enryertartrt TTT Seascengannnnnunoes {A g
-_ i=
-Ss a
-as
-a tO 0 So — + crutaannn oe 186
-
-zp -
-
-TuUEOtAuUu=wANnADC*Ot+TN-DOCMRDOAT =
-
-
-
-= a igs
-
-g6
-
-) WNDO-ANMANHOFTADRO-ANMtHORANRNADIAO 35
-
-i east 8 =s— Se See's SAAIKTAdIAKNAKAARS SR B as
-
-
-585
+Source: W. W. Hines and D. C. Montgomery, Probability and Statistics in Engineering and Management Science, 2d ed., © 1980, p. 599. Reprinted by permission
+of John Wiley & Sons, Inc., New York.
 --- page 12 ---
 ae te Lee Wncistetniinrnbncitbeteaerraiins
 
@@ -6414,7 +6374,8 @@ c. State the various models available for arrival process? (05)
 - Departments: Electronics and Telecommunication, Information Technology
 - Programmes: MBA TECH / I T, MBA TECH / TELECOM EXTC
 - Source: `02_Question_Papers/Legacy/MBA TECH/2ND YEAR/I T/TRIM VI/COMPUTER SIMULATION AND MODELING/2009-2010 batch re exam(3).pdf` (+1 identical copies)
-- Text: ocr (12 pages), mean OCR confidence 82.1
+- Text: ocr (12 pages), mean OCR confidence 87.3
+- 1 page scanned sideways or upside down, turned upright before OCR
 - 2 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
@@ -6868,32 +6829,49 @@ v X0.005 Xéo1 X0.025 X0.05 Xo10
 90 128.3 124.1 118.1 113.1 107.6
 100 140.2 135.8 129.6 124.3 118.5
 --- page 10 ---
-SESSM2BESRYNSSeeeressessaenaasis
+} Table A.7_ Percentage Points of The F Distribution with a = 0.05
 
-ANNAN A NAN Be RR RI HH HHH
-nA
-wantrnonoyenavtr arn = al S
-SRFARRLSSSRRAAZESSRSTISAGRA |B
-aadndcddinndn Nd HARP eB HHI
-a
+] Degrees of Freedom for the Numerator (v,)
+f 1 2 3 4 Ss 6 7 8 9 10 12 15 20 24 30 40 60 120 foc}
 
-wowvwm=-HVr-~oMortNoOwmoTNTOArTNY ec
-TANASE RASOSOAARAMBOaAMNEEAEMEeecrvnn om
-aan anamanndnddndndi nN dN NNN ANNA IS
-: oO
-UZ
-crAArtAYT sor
-natwraad ag
-AAA v7 &
-S
-oe
+f 14 199.5 215.7 224.6 230.2 234.0 236.8 238.9 240.5 241.9 243.9 245.9 248.0 249.1 250.1 251.1 252.2 253.3 254.3
 
-SHRomonounnnrtrsry~TENMNrMrnarnrtee!) sn
-FAAMAMAMMNAMHAMAMMAMMMAMANM AMM IIH IT gy
+8.51 19.00 19.16 19.25 19.30 19.33 19.35 19.37 19.38 19.40 19.41 19.43 19.45 19.45 19.46 19.47 19.48 19.49 19.50
+0.13 9.55 9.28 912 9.01 894 889 885 881 879 874 870 866 864 862 859 857 8.55 8.53
+771 694 659 639 626 616 609 6.04 600 5:96 5.91 586 5.80 5.77 5.75 5.72 5.69 5.66 5.63
+661 5.79 541 5.19 505 495 488 482 4.77 474 468 462 456 453 450 446 443 4.40 4.36
+5.99 5.14 476 453 439 428 421 +15 410 4.06 400 3.94 387 384 381 3.77 3.74 3.70 3.67
+559 474 435 412 3.97 387 3.74% 3.73 368 364 3.57 351 344 341 3.38 3.34 3.30 3.27 3.23
+5.32 446 407 384 369 3.58 350 344 3.39 3.35 3.28 3.22 3.15 312 3.08 304 301 297 2.93
+5.12 4.26 386 363 348 3.37 3.29 3.23 318 3.14 3.07 3.01 294 290 286 283 2.79 2.75 2.71
+4.96 410 3.71 348 3.33 3.22 3.14 3.07 302 298 291 285 2.77 2.74 2.70 266 262 2.58 2.54
+484 3.98 3.59 3.36 3.20 3.09 301 295 290 285 279 2.72 265 261 257 253 249 2.45 2.40
+475 389 349 3.26 3.11 3.00 291 285 280 275 269 262 254 251 247 243 2.38 2.34 2.30
+467 381 341 3.18 3.03 292 283 2.77 2.71 267 260 253 246 242 2.38 234 2.30 2.25 2.21
+460 3.74 334 311 296 285 276 2.70 265 260 253 246 2.39 2.35 2.31 2.270 2.22 2.18 2.13
+454 368 3.29 3.06 2.90 2.79 271 264 259 254 248 240 233 2.29 2.25 220 216 211 2.07
+449 3.63 3.24 3.01 285 2.74 266 259 254 249 242 235 2.28 2.24 219 215 211 2.06 2.01
+445 359 320 296.281 2.70 261 255 249 245 238 231 2.23 219 215 210 206 2.01 1.96
+441 3.55 3.16 293 2.77 266 258 251 246 241 234 227 219 215 211 206 202 1.97 1.92
+438 3.52 3.13 290 2.74 263 254 248 242 238 231 2.23 216 211 2.07 2.03 1.98 1.93 1.88
+435 349 3.10 287 271 260 251 245 239 235 2.28 2.20 2.12 208 204 1.99 1.95 1.90 1.84
+432 347 3.07 284 268 257 249 242 237 232 2.25 218 210 205 201 1.96 1.92 1.87 1.81
+430 344 3.05 282 266 255 246 240 234 230 2.23 215 2.07 2.03 1.98 1.94 1.89 1.84 1.78
+428 3.42 3.03 280 264 253 244 237 2.32 2.27 220 213 205 2.01 196 191 186 181 1.76
+426 340 3.01 278 262 251 242 236 230 2.25 218 211 2.03 198 194 189 184 1.79 1.73
+4.24 339 299 276 260 249 240 234 228 2.24 216 2.09 201 1.96 1.92 187 182 1.77 17
+423 337 298 2.74 259 247 239 232 2.27 222 215 207 199 195 190 1.85 1.80 1.75 1.69
+421 335 296 2.73 257 246 237 231 225 220 213 206 1.97 1.93 1.88 1.84 1.79 1.73 1.67
+420 334 295 271 256 245 236 2.29 2.24 219 212 204 196 L191 187 182 177° 171 1.65
+418 333 293 2.70 255 243 235 2.28 2.22 218 210 203 1.94 1.90 185 1.81 1.75 1.70 1.64
+417 332 292 269 253 242 233 2.27 2.21 216 209 201 41.93 189 184 179 174 1.68 1.62
+408 323 284 261 245 234 225 2i8 212 208 200 192 184 4179 174 169 164 1.58 1.51
+400 315 2.76 2.53 237 225 217 210 2.04 199 192 184 175 170 165 159 153 147 1.39
+392 307 268 245 2.29 217 2.09 2.02 196 191 183 175 166 161 155 155 143 1.35 1.25
+3.84 3.00 260 2:37 221 210 2.01 194 188 183 4175 167 157 152 146 139 1.32 1.22 1.00
 
-ay
-wrnrortrana-anaoworwr geebases =
-AYONOOHNTTTMAIMMAAANAAANANTTSLSANR’ 3S
+W. W. Hines and D. C. Montgomery, Probability and Statistics in Engineering and Management Science, 2d ed., © 1980, p. 599. Reprinted by permission
+Wiley & Sons, Inc., New York.
 --- page 11 ---
 586 APPENDIX
 

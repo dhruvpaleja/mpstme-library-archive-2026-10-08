@@ -1398,8 +1398,8 @@ rage 4/4
 - Programmes: B TECH / MECHANICAL, MBA TECH / MECHANICAL
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/DESIGN OF MACHINE ELEMENTS I/Design of Machine elements-I F 18-19,Re exam 17-18.pdf` (+1 identical copies)
 - Printed on paper: max marks: 70; duration hours: 3
-- Text: ocr (8 pages), mean OCR confidence 85.1
-- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: ocr (8 pages), mean OCR confidence 90.9
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 SVKM’s NMIMS
@@ -1627,68 +1627,25 @@ Ale
 
 a é
 --- page 8 ---
-=
-g €
-ob = ;
-s 3 | +t OnMOoNH DAN DONO
-5 2 | £&
-4 ° @ S
-Z 9 x | ts
-3 a}
-a 2
-S a
-wf & |
-= mg = "on © SoH © 6 mm CG oOo Fe
-Z :
-=
-a 5 =
-BE
-4 & SS ba
-cas = 8 & .
-8 OS oe Hae oH MOA NAM ee
-= BES
-3 A
-= =
-—_
-A
-_
-z 5
-3 =
-a 5 2 .
-£ 2 2] an tn or wo wo HA OAS
-GH ) & | &
-° 2 SG
-Z 215
-5A ef
-oN x
-gaa S
-On be
-Qa &" =
-Qos hd =
-a, oO =
-} ; a i ar) '
-Zé a/ Nanrtnwo SRT SBRaadQ
-SG :
-an id
-S 2 =
-o)
-in
-At
-2s mS
-oT Pz
-ST oe S
-on Se Eos
-ov eS =
-=s SEs
-o 8 SE
-a) “J “
-V0D
-aa
-KN
+The following table shows the proportions of standard parallel, tapered and gib head keys, according to IS :
+2292 and 2293-1974 (Reaffirmed 1992).
 
-; 6/s
-
-—
+Shaft diameter Kev cross-section Shaft diameter Kev cross-section
+(mn) upto and finm) upto and
+including Width (nim) Thickness (nun} including Width (mm) | Thickness (nim)
+6 2 2 85 25 14
+§ 3 3 95 28 16
+10 4. 4 110 32 18
+12 5 5 130 36 20
+17 6 6 150 40 22
+22 8 7 170 45 25
+30 0 S 200 50 28
+38 2 8 230 56 32
+Ae 4 9 260 63 32
+50 6 10 290 70 36
+58 [8 11 330 80 40
+65 20 12 380 90 45
+75 22 14 440 100 50
 ````
 
 ## 2018-19 · Re-Exam · Sem 7 · paper 969ab9294e46
@@ -2291,8 +2248,8 @@ Page3 / 4
 - Programmes: B TECH / MECHANICAL
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/DESIGN OF MACHINE ELEMENTS I/DESIGN OF MACHINE ELEMENTS I BATCH 15-16 16-17 RE EXAM 2017-18.pdf` (+1 identical copies)
 - Printed on paper: max marks: 60; duration hours: 3; exam date: 30 May 2018
-- Text: ocr (6 pages), mean OCR confidence 83.9
-- 4 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: ocr (6 pages), mean OCR confidence 91.4
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 SVKM’s NMIMS _ 4
@@ -2439,51 +2396,26 @@ The material properties are as follows :
 
 2) What is lever? Explain the principle on which it acts. (04)
 --- page 6 ---
-eae
-~ 2
-SiS
-I DAA & ww we | == 3
-AN oOok eH SCH UH SY DW IRE S
-go 8
-me 8 8
-a, &
-=
-ne =
-8 SaeARNOPMPANA WH | >
-=
-= a
-= &
-3
-, | 8
-= | §
-= |
-S| §
-a a 2 Kaa - bon
-, a S
-a =
-=
-Sa
-= = =
-224
-ee
-a °c
-e 3 8
-S45
-Soe Ma Ahh kB BR ow ow wow |S
-° os
-Sef eSeo8 aouoagnnans f=
-=> |
-= |
-= | 2
-& |<
-s
-S
-<o   ]
-oe Sn no ES a.
-ed ~—
-=
-=
-=
+The following table shows the proportions of standard parallel, tapered and gib head keys, according to IS : on
+2292 and 2293-1974 (Reaffirmed 1992). \
+
+Shaft diameter - Key cross-section Shaft diameter Kev cross-section
+(im) upto and (mm) upto and
+including Width (min) Thickness (min) including Width (mm) | Thickness (mm)
+6 2 2 85 25 14
+& 3 3 95 28 16
+10 4 4 110 ce 18
+12 5 5 130 36 20
+17 6 om 150 AQ 22
+22 8 7 170 45 25
+30 0 8 200 , 50 28
+38 2 8 230 56 32
+fet 4 9 260 63 32
+50 6 10 290 - 70 36
+38 8 11 330 80 40
+65 20 12 380 90 45
+
+75 22 14 449 100 30
 ````
 
 ## 2017-18 · Re-Exam · Sem 5 · paper a4fe1980a58b
@@ -2980,8 +2912,8 @@ page oly
 - Programmes: B TECH / MECHANICAL
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/DESIGN OF MACHINE ELEMENTS I/DESIGN OF MACHINE ELEMENTS I B TECH 2016-17 (MECHANICAL), FINAL EXAM.pdf`
 - Printed on paper: max marks: 60; exam date: 29 November 2016
-- Text: ocr (4 pages), mean OCR confidence 78.3
-- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: ocr (4 pages), mean OCR confidence 90.5
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 *)
@@ -3138,46 +3070,26 @@ Explain Maximum Shear Stress theory of failure.
 
 G3)
 --- page 4 ---
-=
-=
-s 2l +O DON nN DAN
-? oO Oo Mm 2
-s | &
-a |
-' ~
-2] B
-S fox
-S| é
-. =
-~l nM eaeonoewmooo ©
-=z), 9 a amt tT HH ODF BES
-Ss
-=
-iy
-5 5
-2 =
-2 5 on
-Eos
-Pe E
-= =
-myo
--
-3 a
-= 2, AN ma tun or nwo ga Saat
-Z| & ~
-a | ow
-1G
-Ss
-o
-= =.
-na =
-< on + Ow OS
-~
-rE
-& =
-eo S bo
-Eos o
-Se Ss apm | &© WM +t Oo WOM Ww
+The following table shows the proportions of standard parallel, tapered and gib head keys, according to IS :
+2292 and 2293-1974 (Reaffirmed 1992).
+
+Shaft diameter Kev cross-section Shaft diameter Key cross-section
+(un) upto and (mm) upto and
+including Width (mii) Thickness finn) including Width (mm) | Thickness (nin)
+6 2 2 85 25 14
+§ 3 3 95 28 16
+10 4 4 110 32 18
+12 5 5 130 36 20
+17 6 6 150 — 40 22
+22 8 7 170 45 25
+30 0 § 200 30 28
+38 2 8 230 56 32
+44 4 9 260 63 32
+50 6 10 290 70 36
+58 8 Il 330 80 40
+65 20 12 380 90 45
+
+75 22 14 440 100 50
 ````
 
 ## 2016-17 · Final-Exam · Sem 5 · paper bd30ac101074
@@ -3186,8 +3098,8 @@ Se Ss apm | &© WM +t Oo WOM Ww
 - Programmes: MBA TECH / MECHANICAL
 - Source: `02_Question_Papers/Legacy/MBA TECH/3RD YEAR/MECHANICAL/V SEMESTER/DESIGN OF MACHINE ELEMENTS I/Design of Machine Elements I Batch 2016-17 Final.pdf`
 - Printed on paper: exam date: 23 November 2016
-- Text: ocr (5 pages), mean OCR confidence 81.3
-- 6 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: ocr (5 pages), mean OCR confidence 91.3
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 SVKM’s NMIMS
@@ -3356,13 +3268,25 @@ value of this torque without causing yielding of the shaft according to
 
 4| 45
 --- page 5 ---
-© on So m oOo f
-wor aa aA © = el St
-oon OCA FH OM AA
-meno a ast ad as a
-Ace eee Se OO Os 2
+The following table shows the proportions of standard parallel, tapered and gib head keys, according to IS :
+2292 and 2293-1974 (Reaffirmed 1992).
 
-s|5
+Shaft diamerer Kev cross-section Shaft diameter Kev cross-section
+(min) upto and (mun) upto card
+including Width (nimi) Thickness (mun) including Width fmm) | Thickness (mim)
+6 2 2 84 25 14
+8 3 3 95 28 - 16
+10 4 + 110 a2 18
+12 5 5 130 36 20
+17 6 6 150 40 ze
+22 8 7 170 45 25
+30 0 8 200 50 28
+38 2 5 230 56 32
+44 4 9 260 63 32
+50 6 10 290 70 36
+58 8 11 330 80 40
+65 20 12 380 90 45
+mn 75 32 14 440 100 50
 ````
 
 ## 2016-17 · Re-Exam · Sem 5 · paper da057b733171
@@ -3517,8 +3441,8 @@ Q7) Explain the following terms of the springs:
 - Programmes: B TECH / MECHANICAL
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/DESIGN OF MACHINE ELEMENTS I/DESIGN OF MACHINE ELEMENTS I BATCH 14-15 RE EXAM(1).pdf` (+1 identical copies)
 - Printed on paper: max marks: 60; exam date: 29 May 2017
-- Text: ocr (6 pages), mean OCR confidence 83.1
-- 7 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: ocr (6 pages), mean OCR confidence 89.1
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 SVKM’s NMIMS
@@ -3727,55 +3651,27 @@ lg
 
 06
 --- page 6 ---
-~~ OA
-~
-[OS
-a = 8
-= = th
-5 ~
-“DWN A eee re SS
-oo S —, 4 4 —, g
-+0 5
-= =
-an
-mg 8 =
-ed
-3
-a
-=
-=
-=
-= ry
-tad a)
-=. ei
-a
-S
-hy a
-—S A
-= a
-ay ra
-— — — — = a
-' . = ey
-es sd & =
-“4 =
-~,
-=
-=
-=
-=
-mh
-=
-ZS
-5S
-oO oo 9 fc fc coc 6G BGO SB oO ; som S
-= SO =
-on o
-~ Ss oa
-9 8 s
-m
-~~ -
-=
-— , .
+The following table shows the proportions of standard parallel, tapered and gib head keys, according to IS :
+2292 and 2293-1974 (Reaffirmed 1992).
+
+Shafi diameter Key cross-section Shaft diameter Key cross-section
+(nim) upto and : (nm) upto cnied
+including Width (iin) Thickness (ini) including Width fran) | Thickness (ait)
+6 3 2 85 25 14
+§ 3 8 95 28 16
+10 4 4 110 32 18
+12 5 5 130 36 20
+17 6 6 150 40 22
+22 8 7 170 45 : 25
+30 G & 200 50 28
+38 Z 8 230 56 32
+44 4 9 260 53 32
+50 6 10 291} 70 36
+58 Ny 11 330 80 40
+65 20 12 380 90) 45
+78 22 14 440 100 50
+
+i | .
 ````
 
 ## 2016-17 · Re-Exam · Sem 5 · paper dcaa1c688b7f
@@ -4640,7 +4536,8 @@ x
 - Programmes: B TECH / MECHANICAL
 - Source: `02_Question_Papers/Legacy/B TECH/3RD YEAR/MECHANICAL/V SEMESTER/DESIGN OF MACHINE ELEMENTS I/DESIGN OF MACHINE ELEMENTS-I B TECH (MECH) BATCH 2013-14 RE EXAM.pdf`
 - Printed on paper: exam date: 02/12/2014
-- Text: ocr (7 pages), mean OCR confidence 90.0
+- Text: ocr (7 pages), mean OCR confidence 87.7
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 SVKM’s NMIMS
@@ -4827,7 +4724,39 @@ Fig. No. 5
 
 uy] 7
 --- page 5 ---
+— Pee
 
+Proportions of standard parallel, tapered and gib head keys.
+
+T hickness (nan) :
+
+10
+
+12
+
+AE
+op ot
+30°)
+38 1S
+
+25 14
+28 16
+
+32 18
+
+36 20
+
+40 22 ms
+45 "9g
+50 28
+56 32
+63 a
+70 36
+80 40
+90 45
+100 50
+
+ima Ff
 --- page 6 ---
 ——
 

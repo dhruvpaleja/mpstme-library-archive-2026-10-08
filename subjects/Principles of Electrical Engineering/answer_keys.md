@@ -54,6 +54,21 @@ BL-2,5   Exp 2 marks
 Rating 1 mark
 The different losses in the transformer are as follows
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+3. Active and Passive Elements An clement Fig: 1.28 V-I characteristics of linear
+which is a source of electrical signal or which is capable and non-linear elements
+of increasing the level of signal energy is termed as active element. Batteries, BJTs, FETs or OP-AMPs
+are treated as active elements because these can be used for the amplification or generation of signals. All
+other circuit elements, such as resistors, capacitors, inductors, VDR, LDR, thermistors, etc., are termed
+passive elements. The behaviour of active elements cannot be described by Ohm's law.
+
+4. Unilateral and Bilateral Elements If the magnitude of current flowing through a circuit element
+is affected when the polarity of the applied voltage is changed, the element is termed unilateral element.
+Consider the example of a semiconductor diode. Current flows through the diode only in one direction.
+Hence, it is called an unilateral element. Next, consider the example of a resistor. When the voltage is
+applied, current starts to flow. If we change the polarity of the applied voltage, the direction of the current
+is changed but its magnitude is not affected. Such an element is called a bilateral element.
 --- page 2 ---
 Copper Losses (Winding Resistance)
 Current flowing through the windings causes resistive heating of the
@@ -71,6 +86,18 @@ b) Eddy Current Losses
 AC current induced in iron core due to changing magnetic field. The eddy
 current loss is a complex function of the square of supply frequency and inverse
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Due to alternating flux set up in the magnetic core of the transformer, it undergoes a
+cycle of magnetisation and demagnetisation. Due to hysteresis effect there is loss of energy
+in this process which is called hysteresis loss.
+
+It is given by, [Hysteresis loss = Kj, B}; 7 £ v watts]
+where K, = hysteresis constant depends on material
+B,, = maximum flux density
+f = frequency.
+
+v = volume of the core
 --- page 3 ---
 square of the material thickness. Eddy current losses can be reduced by making
 the core of a stack of plates electrically insulated from each other, rather than a
@@ -102,6 +129,23 @@ CO-1; SO-1;   i)   Resonance Frequency
 BL-1   ii)   Q Factor
 iii)   Bandwidth
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+The induced e.m.f. in the core tries to set up eddy currents in the core and hence
+responsible for the eddy current losses. The eddy current loss is given by,
+
+Eddy current loss = K, BZ, f   watts/unit volume |
+
+where K, = eddy current constant
+t = thickness of the core
+
+As seen earlier, the flux in the core is almost constant as supply voltage V, at rated
+frequency f is always constant. Hence the flux density B,, in the core and hence both
+hysteresis and eddy current losses are constants at all the loads. Hence the core or iron
+losses are also called constant losses. The iron losses are denoted as P;.
+
+The iron losses are minimised by using high grade core material like silicon steel
+having very low hysteresis loop and by manufacturing the core in the form of laminations.
 --- page 4 ---
 iv)   Lower Cut Off Frequency
 v)   Upper Cut Off Frequency.
@@ -133,6 +177,30 @@ BL-1   8 ohm-m.   [10]
 Ans- 800 ohms
 2+2+6 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Ir R
+
+Ro 7
+Ver JA <
+Yo : ‘a6, , Za Try
+Var
+7 | Ino
+pout A (Fm
+ly lp
+
+Fig 7: Three phase delta connected load[1]
+
+Relation between Line voltage and Phase voltage:
+
+From fig 7 it is clear that the line voltage is equal to phase voltage
+VL=Vph
+
+Relation between line current and Phase current
+
+In delta connection line current is root 3 times of phase current.
+
+Line Current = V3 x Phase Current
 --- page 6 ---
 a. A 40 kVA, single-phase transformer has 400 turns on the primary and 100
 turns on the secondary. The primary is connected to 2000V, 50 Hz supply.
@@ -151,6 +219,41 @@ BL-4   equation (derive), phase difference, power factor, power consumed, phasor
 diagram and waveforms.
 1+2+1+1+2+1+2 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Solution. Rating =40kVA
+Primary turns, N, = 400
+Secondary turns, N, = 100
+Primary induced voltage, E, = V, = 2000 V
+(i) Secondary voltage on open, circuit V, :
+
+5 A E, _N,;
+Us the relation, <2
+sing relation. E,
+N.
+ae
+100
+= V, = 2000 x —— =500V
+E,=V, * 400
+Hence, V, = 500 V. (Ans.)
+(ii) Primary current, I, :
+Secondary current, L, :
+
+kVA x100 _ 40 x 1000
+
+Primary full-load current, i= Vi =20A. (Ans.)
+Serondary fullearrenk: Fie A I AO XIN As, Chand
+V2 500
+(iii) Maximum value of flux, ,,,, =
+Using e.m-f. equation, Ey = 444/00 Ny
+‘ 2000 = 4.44 x 50 x ., x 400
+Ox = ooo = 0.0225 Wh.
+
+max 4.44 x 50 x 400
+
+Hence, = 0.0225 Wb. (Ans.)
+
+max
 --- page 7 ---
 2.10 AC ANALYSIS OF PURE CAPACITOR
 
@@ -239,6 +342,45 @@ Q5
 CO-1; SO-1;   [10]
 BL-1
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Pavg = 0
+
+Therefore, the average power consumed by a capacitor = 0
+
+When voltage rises across the plates of a capacitor, energy is supplied by the source and is stored in the
+capacitor in the form of electrostatic field energy. As the voltage falls , the electrostatic field collapses and
+returns the stored energy to the source.
+
+Since the power supplied during positive half of ac voltage is equal to the power returned during the
+negative half cycle of the ac voltage, the net power consumed by the pure capacitive circuit is zero.
+
+Phasor diagram:
+Applied voltage: v(t) = Vn sin sin wt
+
+Chapter 2: AC Fundament:
+
+Resultant current: i(¢) = Im sin sin (wt + 5
+
+For purely capacitive circuit current leads the applied voltage by 90 degrees.
+"t
+
+L
++»
+Power factor of purely capacitive circuit = 0
+
+Applied voltage: v(t) = V,, sin sin wt
+
+Resultant current: i(t) = Ip sin sin (wt + 3)
+
+The phase difference between the applied voltage and resultant current is p=90°.
+Power factor for pure capacitive circuit : PF =cos ®
+
+PF = cos (90°) = 0
+
+Power ci dis given as : Pe 4 = Vimslrmscosy = Vemslrms.0 = 0
+
+Power consumed by a capacitive circuit =0.
 --- page 10 ---
 RN = (5 | | 2) + 8 = 9.43 Ω   ----1M
 IL=0.409 A
@@ -253,6 +395,31 @@ A capacitor of 35 µF is connected in series with a variable resistor. The
 CO-2; SO-1;   circuit is connected across 50 Hz mains. Find the value of the resistor for a   [10]
 BL-1   condition when the voltage across the capacitor is half the supply voltage.
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Step I: Calculation of Iy
+Replacing the 10 Q resistor by a short circuit,
+
+8Q jt2V
+Cc ANA —| |-—9A
+20 V=
+S20 Iy
+52 )
+I, ly
+
+B
+
+Applying KVL to Mesh 1,
+51, +20-2(,-h) =0
+
+TI, — 21, = 20 (ld)
+Applying KVL to Mesh 2,
+2h —I,) - 8h - 12 = 0
+2h, + 10, =-12 (2)
+
+Solving Eqs. (1) and (2),
+I, =-0.67A
+Ty =1,=-0.67A
 --- page 11 ---
 Xc= 4 mark
 R 6 marks
@@ -286,6 +453,26 @@ Each step 1 mark, final answer 1 mark
 c.
 (i) Explain the IoT application in home automation.   [10]
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Analytical Method:-
+The standard form of a sinusoidal alternating current is I = Im sinwt = Im sin®
+
+I (as wave is symmetrical )
+
+1—cos20
+Now cos26 = 1- 2sin? @ because sin? 6 = 2
+
+jo rau
+les = 4n = \ar 0
+
+2 Tm
+x2t
+= V2 = 0.707 Im
+
+Ts =
+
+lems = a
 --- page 13 ---
 Home automation is a hot topic in IoT projects. This project is all about
 making your basic home gadgets and stuff work together over the internet.
@@ -308,6 +495,26 @@ Smart appliances
 Smart appliances are made to make life easier, and they don't just stop at
 doing their thing. They keep you in touch by sharing updates about your
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Home automation system
+
+Control
+center
+
+za Smart TV
+
+Temperature control
+
+Smart vacuum cleaner (@) & Security camera
+
+Smart lock &
+
+@ Air conditioning
+
+§
+
+Voice assistant
 --- page 14 ---
 home. For example, a smart washer or dryer. You can control it from
 wherever you are and get info when your laundry is all done. A smart
@@ -325,6 +532,37 @@ raise the alarm, telling us exactly where the issue is.
 of a suitable diagram.
 Diag 2 m, exp 3 marks
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Working Principle of Induction Wattmeter
+The induction type wattmeter can be used to measure AC power only.
+‘The working of induction type wattmeter is based on the principle of electromagnetic induction.
+
+The induction wattmeter consists of two laminated electromagnets viz. Shunt Magnet and Series Magnet. The shunt
+magnet is connected across the supply and carries a current proportional to the supply voltage. The coil of shunt
+magnet is made highly inductive so that the current in it lags the supply voltage by 90°. The series magnet is
+connected in series with the supply and carries the load current. The coil of series magnet is made highly noninductive.
+A thin disc (made up of aluminium) mounted on a spindle is placed between the two magnets so that it cuts the flux of
+the two magnets.
+
+Shunt Magnet
+-
+Vv
+Supply
+Load
+re ls —_—————
+= 2 Series
+Magnet
+
+Aluminium
+Disk
+
+When the wattmeter is connected in an AC circuit, a current flows through the coil of the shunt magnet that is
+proportional to the supply voltage and the series magnet carries the load current. The fluxes produced by the two
+magnets induce eddy currents in the aluminium disc by the action of electromagnetic induction. Due to the interaction
+between the fluxes and eddy currents, a deflecting torque is produced on the disc, causing the disc to move and hence,
+the pointer connected to the disc moves over the scale. The pointer comes to rest when the deflecting torque becomes
+equal to the controlling torque.
 ````
 
 ## 2024-25 · Re-Exam · Sem 1 · Answer key · paper 81c512454620
@@ -334,6 +572,7 @@ Diag 2 m, exp 3 marks
 - Source: `02_Question_Papers/2024/Sem_01/Re-Exam/BTech_CSBS_7036/Principles of Electrical Engineering/ANS_Principles of Electrical Engineering(702EX0C003)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 24 Feb 2025
 - Text: mixed (14 pages), mean OCR confidence 74.3
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -376,6 +615,21 @@ BL-1
 (iii)   time period = 0.02 Sec
 (iv)   instantaneous value of voltage at t = 4 msec => 190.28V
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+3. Active and Passive Elements An clement Fig: 1.28 V-I characteristics of linear
+which is a source of electrical signal or which is capable and non-linear elements
+of increasing the level of signal energy is termed as active element. Batteries, BJTs, FETs or OP-AMPs
+are treated as active elements because these can be used for the amplification or generation of signals. All
+other circuit elements, such as resistors, capacitors, inductors, VDR, LDR, thermistors, etc., are termed
+passive elements. The behaviour of active elements cannot be described by Ohm's law.
+
+4. Unilateral and Bilateral Elements If the magnitude of current flowing through a circuit element
+is affected when the polarity of the applied voltage is changed, the element is termed unilateral element.
+Consider the example of a semiconductor diode. Current flows through the diode only in one direction.
+Hence, it is called an unilateral element. Next, consider the example of a resistor. When the voltage is
+applied, current starts to flow. If we change the polarity of the applied voltage, the direction of the current
+is changed but its magnitude is not affected. Such an element is called a bilateral element.
 --- page 2 ---
 1+1+1+2 m
 d. Deduce the equation of emf for a single-phase transformer.
@@ -394,6 +648,49 @@ Each 2 marks
 CO-1; SO-1;
 BL-1
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+E.MLF. Equation of a Transformer
+
+Let Nj, = number of turns in primary,
+
+N,, = number of turns in secondary,
+
+,, = maximum flux in the core, Wb.
+B,, x A, lwhere B,, is the maximum flux density in the core and A is the core areal,
+and
+
+f= frequency of a.c. input, Hz.
+Refer to Fig. 18. Since the flux increases from
+
+its zero value to maximum value 6,, in one quarter of t
+
+<—____Cycle ———>|
+
+Po ae .
+the cycle ie., in > or 7 second (Tbeing time-period of ¢
+the cycle), c _
+Average rate of change of flux ; Time, t
+Tot -
+= 2m = 4fe,,.. Wb/s or volt an at his
+af 1
+If flux © varies sinusoidally, then r.m.s. (root —_§_— T= —
+mean square) value of inducted e.m.f. is obtained by Fig. 18
+
+multiplying the average value with form factor.
+
+But, form factor = _Z-m-s. value | =1.11
+average value
+-. 4.m.s. value of e.m.f/turn
+= 1.11 x 4fo,,,, = 4.440,,,, volt
+
+Now, r.m.s. value of induced e.m.f. in the whole of primary winding,
+
+E, = 4.44f0,,,,. Ny (DD)
+Similarly r.m.s. value of induced e.m.f. in secondary is,
+E, = 4.44f0,,... No «(2)
+
+In an ideal transformer on no-load V, = E, and V, = E,
 --- page 3 ---
 Chapter 2: AC Fundamentals
 
@@ -444,6 +741,56 @@ circuit using the Node Analysis method.
 CO-2; SO-1;   [10]
 BL-2,6
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Therefore, the points at frequencies f, and f2 are called half power points and the frequencies are called half
+power frequencies.
+
+Q-Factor of the Series RLC Circuit:
+
+The Quality factor Q of a series RLC resonant circuit is defined as the ratio of the voltage across a coil or
+
+capacitor to the applied voltage.
+Vi [oX, Wol 2m fol Ve _ IpXe 1 1
+
+=U TR RR 8H > TR = aOCR~ 2RfoCR
+_ @Wol Wo _ Wo Resonance Frerquency
+RR hw Bandwidth
+L
+
+Therefore, quality factor of the series RLC circuit is also defined as the ratio of resonance frequency to the
+bandwidth.
+Now, Voltage across the capacitor at resonance
+
+I, _v
+
+Ve=DbXc= —_ .
+co bXe= TemRVe | 2
+Similarly, Voltage across the inductor at resonance is:
+1 j,L
+= =—J==r-
+Vi=bXi Rc Q
+
+Therefor at resonance: Vi = Vc = V.Q, where Q is the voltage magnification factor / quality factor. So, in
+series RLC circuit at resonance point there is a magnification of voltage by a factor of Q.
+
+Applying KCL at Node a,
+I, =30+L
+120-V, 0+ V,—V,
+0.2 .
+36-—0.3V, = 1.8 + 0.2V,—0.2V,
+0.5V, — 0.2V, = 34.2 (1)
+
+Applying KCL at Node b,
+
+1, +1, =20
+V,-Vs ,M0-%, _ 5
+03 0.1
+
+0.W, -O.1V, +33-0.9%, _ 9
+
+0.03
+0.1V,-0.4V, =-32.4 (2)
 --- page 5 ---
 Kcl 1 --2 marks
 kcl 2 –2 marks
@@ -476,6 +823,22 @@ BL-5
 (ii)   Maximum value of flux density in the core
 (iii) EMF induced in secondary winding
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Fig 6: Three phase start connected load[2]
+
+Relation between Line current and Phase current:
+
+From fig 6 it is clear that the same current flow through phase winding as well as in
+the line conductor as it is connected in series with the phase winding. Hence, in a3
+Phase system of star connections, the line current is equal to phase current.
+
+IL=Iph
+Relation between line voltage and Phase voltage
+
+In star connection line voltage is root 3 times of phase voltage.
+
+Line voltage = V3 x Phase voltage
 --- page 7 ---
 3+4+3 marks
 b.
@@ -486,6 +849,88 @@ CO-2; SO-1;
 [10]
 BL-4
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Solution. Primary turns,
+Secondary turns,
+Primary,
+
+Core area,
+
+() Transformation ratio, K :
+
+Hence, K = 0.2. (Ans.)
+(i) Maximum value of flux density, B,,,,. =
+Using the e.m.f. equation, EF, = 4.44f%,,... Ny
+o 230 = 4.44 x 50 Onan * 500
+- 230
+max = 444 x 50 x 500
+max 0.00207
+
+Now, Boas =~ A = eg x19 = 0-345 T
+
+= 0.00207 Wb
+
+[where T stands for tesla (Wb/m?)]
+
+Hence, Buia. = 0.345 T. (Ans.)
+(iii) E.m.f, induced in the secondary winding, E, :
+Using the relation, Eo _Na
+Ey N,
+Ez _ 100
+230 500
+
+E, =46V. (Ans.)
+
+2.9 A.C. ANALYSIS OF A PURELY INDUCTIVE CIRCUIT
+
+Consider a circuit with an ac source applied to a pure inductor of value L. Henrys.
+
+v= ain wor
+
+Fig. 14 : Purely inductive circuit
+
+The applied ac voltage is given as v(t) = Viasinwt
+
+‘As a result of the applied voltage , an alternating current i(#) flows through the circuit.
+
+This alternating current sets up a alternating magnetic field around the inductance.
+
+The changing flux links the coil and an emf is induced in it.
+
+This emf is called as self induced emf ( e=L di/dt).
+
+The self induced emf is also called as back emf.
+
+The back emf at every step opposes the rise or fall of current through the coil.
+
+As there is no ohmic voltage drop, the applied voltage has to overcome this self-induced emf only. So at any
+instant the self induced emf is equal and opposite to the applied voltage
+
+di
+v()=Ldt
+
+Aa
+mee ES
+
+Since, applied voltage (1) = Vasinat
+
+cos wt
+wh [ constant = 0]
+
+Soi = “sin sin (wt — $) = sin sin (wt - 3)
+
+Series RL circuit:
+[Applied voltage: v (1) = Vasinot
+
+Resultant current in a series RL circuit is i = “sin sin (wt — %)
+iL
+
+The value of i(f) is maximum when sin sin (wt — 3) =1
+
+’ vn
+Maximum current: Im, = 2%
+a
 --- page 8 ---
 i(t) = Ipsin(wt — eS)
 
@@ -570,6 +1015,17 @@ Diag- 1m
 RTh = (5 || 5) + 10 = 12.5 Ω --2M
 -1 m
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Solution Step I: Calculation of Vy,
+Removing the 8 Q resistor from the network,
+
+1 52 102
+WW AW OA
+
++
+250 V—— S50 Vin
+inl OB
 --- page 10 ---
 -1m
 b.
@@ -588,6 +1044,30 @@ Q6
 CO-2; SO-1;   [10]
 BL-1
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Solution P=22kW
+pf = 0.8 (lagging)
+V=420V
+f= 50 Hz
+(i) Current in the load
+P=ViIcoso
+22 x 10° = 420 x /x 0.8
+1= 6548 A
+(ii) Power-factor angle
+= cos" (0.8) = 36.87°
+(iii) Impedance
+Vv _ 420
+Z= T7648 =6419
+(iv) Resistance of load
+R= Zcos 9=6.41 X08 =5.132
+(v) Reactance of load
+X, = Zsin @= 6.41 x sin (36.87°) = 3.85 Q
+(vi) Voltage and current equations
+v=V,, sin 2x ft = 420 V2 sin (2%x 50) 1= 593.97 sin 1001
+The current lags behind the voltage by 36.87°
+i= 1, sin 2nft— 6) = 65.48 V2 sin (2x 50 1-36.87°)
+= 92.6 sin (1007 1 36.87°)
 --- page 11 ---
 2+1+1+1+1+4 marks
 b.
@@ -613,6 +1093,31 @@ Def.-3 m, derivation-7 m
 b.   [5]
 What is equivalent capacitance between terminals A and B in the network.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+ANALYTICAL METHOD:-
+A standard equation of a sinusoidal A.C. current is
+
+T=I,sin0
+
+Area of half cycle
+
+Average value = base length of hal cycle
+
+1 idO j id
+ly = 27-9 = 4(4-9)
+lavg = =f i(@)d6 i=Im sin sin@
+
+Imf. Im 21m
+— sin ae a
+= J = — eos Ohh
+
+2lm
+
+‘avg =
+
+Therefore Tay = 0.6371
+Similarly Vav = 0.637V in
 --- page 12 ---
 Each step 1 m
 c.   5
@@ -670,4 +1175,35 @@ most out of your energy usage, right when you need it.
 with the help of a suitable diagram.
 Diag 2 m, exp 5 marks
 ********** 14 **********
+
+[Text in pictures on this page, read by OCR]
+Working Principle of Electrodynamometer Wattmeter
+
+The electrodynamometer wattmeter works on the dynamometer principle i.e. a mechanical force acts between two
+current carrying conductors or coils.
+
+It consists of a fixed which is divided into two halves which are parallel to each other and is connected in series with the
+load while the moving is connected across the load through a series multiplier resistance. The fixed coil is called current
+coil while the moving coil is called potential coil.
+
+ee
+
+Fixed
+Coil
+
+Fixed
+Coil
+
+;
+
+Moving
+
+R multiplier i
+
+When the wattmeter is connected in a circuit to measure power. The current coil carries the load current and potential
+coil carries a current proportional to the load voltage. Due to the currents in the coils, a mechanical force acts between
+them. The result of this mechanical force deflects the moving coil and the pointer over the scale. The pointer comes to
+the rest when the deflecting torque and controlling torque become equal. As the reversal of the circuit current reverses
+the currents in both the current coil and potential coil so that the direction of deflecting torque remains unchanged,
+Therefore, electrodynamometer wattmeter can measure power in both the AC as well DC circuits.
 ````

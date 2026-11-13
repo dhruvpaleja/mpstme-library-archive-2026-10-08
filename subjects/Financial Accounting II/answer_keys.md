@@ -28,6 +28,23 @@ Instructions:
 Q1.   15
 a.   8
 Page 1 of 10
+
+[Text in pictures on this page, read by OCR]
+Ans : 3 (1 Marks Working and 1 Marks Each Entry)
+
+Particulars Applicant of | Applicants of | Applicants of | Total
+15,000 shares | 10,000 shares 5,000 shares
+
+No. of shares applied (A) 15,000 10,000 5,000 30,000
+Application money received (A) x Rs.20 3,00,000 2,00,000 1,00,000 6,00,000
+No. of shares allotted (B) 15,000 5,000 Nil 20,000
+Application amount due (B) x Rs.20 3,00,000 1,00,000 Nil 4,00,000
+Excess Application money Nil 1,00,000 1,00,000* 2,00,000
+Allotment money due (B) x Rs.40 6,00,000 2,00,000 Nil 8,00,000
+Allotment money received 6,00,000 1,00,000 Nil 7,00,000
+First Call due (B) x Rs.30 4,50,000 1,50,000 Nil 6,00,000
+
+First call money received 4,20,000 1,50,000 Nil 5,70,000
 --- page 2 ---
 Particulars Debit Rs. Credit Rs.
 

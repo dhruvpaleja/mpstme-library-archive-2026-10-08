@@ -432,6 +432,19 @@ Q.3.b. Explain the compilation process of JSP. Explain the include directive tag
 Q.4.a. Write a XHTML code for feedback form with the following details:   [lo1
 i. A Text box to collect Name, address
 Page 2 of 3
+
+[Text in pictures on this page, read by OCR]
+xmins:xs="http://www.w3.org/2001/XMLSchema" >
+<xs:element name="Employee" type="EmployeeType" />
+<xs:complexType name="EmployeeType">
+<xs:sequence maxOccurs="unbounded">
+<xs:element ref="Name" />
+<xs:element ref="Department" />
+</xs:sequence>
+</xs:complexType>
+<xs:element name="Name" type="xs:string" />
+<xs:element name="Department" type="xs:string” />
+</xs:schema> :
 --- page 3 ---
 ii. A combo box to select the class (first, second, third)
 iv. A textbox to collect email address.

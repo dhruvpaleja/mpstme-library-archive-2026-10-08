@@ -1,8 +1,294 @@
 # Generative AI: question papers in full
 
-9 unique papers · 2025-26 to 2025-26 · Artificial Intelligence
+10 unique papers · 2025-26 to 2025-26 · Artificial Intelligence
 
 Each paper: year, exam, semester, departments and programmes, then its full text as extracted. Scanned papers were read by OCR, so equations and symbols may contain recognition errors. Structured data: [`questions.jsonl`](questions.jsonl) (one record per question) and [`papers.jsonl`](papers.jsonl) (one record per paper). Index of files: [`README.md`](README.md).
+
+## 2025-26 · Final-Exam · Sem 7 · paper dd8938073c9c
+
+- Departments: Artificial Intelligence
+- Programmes: B TECH / ARTIFICIAL INTELLIGENCE
+- Source: `00_Original_Downloads/SYLLABUS/B TECH/12169__4TH YEAR.zip :: ARTIFICIAL INTELLIGENCE/SEM-VII/GENERATIVE AI/Generative_AI__Sem-VII__Year_2025-2026__Final_Exam_M0ZzvJyKof.pdf`
+- Printed on paper: max marks: 100; duration hours: 3; exam date: 27 Nov 2025
+- Text: ocr (4 pages), mean OCR confidence 90.0
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+
+````text
+SVKMs NMIMS .
+MUKESH PATEL SCH.OF TECH.MGMT ENGG-NM-M
+
+Programme: BACHELOR OF TECHNOLOGY (ARTIFICIAL INTELLIGENCE)
+
+Year: IV/Semester VII(Exam Year: 2025-2026) * »
+
+Subject: GENERATIVE AI
+
+Date: 27 Nov 2025
+Max. Marks: 100
+
+Instructions:
+
+1. This question paper contains 4 pages.
+
+2. Answer to eac
+
+3. Figure in right hand side indicates full marks
+
+4. Question No.1
+
+5. Out of remaining questions, attempt any 4 questions.
+
+Time: 10:00 am to 01:00 pm (03:00 Hrs.)
+
+FINAL EXAMINATION (Acad. Year:2025-2026)
+
+.
+
+h new question to be started on a fresh page.
+
+is compulsory.
+
+6. In all, 5 questions to be attempted.
+7. All questions carry equal marks.
+8. Assume suitable data wherever necessary.
+
+vl Answer briefly:
+CO-1; | a. Compare GANs, VAEs and Diffusion models with respect to the following aspects: [5]
+BL-4 Concept used for generation, Training stability, sample quality, strengths and
+disadvantages.
+CO-3; |b. F F ae F : : : [5]
+When using Locality Sensitive Hashing (LSH), two policy-related shingle sets (unique
+BL-3 terms) are extracted from different documents:
+Cl1= {policy, compliance, risk, audit, KYC, AML}
+C2= {risk, audit, KYC, onboarding, sanctions, AML}
+i. Compute the true Jaccard similarity J(C1, C2)
+ii. Compute the true Jaccard distance D(C1, C2)
+iii. In a practical LSH system, how is the similarity checked? Explain briefly.
+CO-2; |c. i. Justify the significance of masked SoftMax [5]
+BL-3 ii. Given the following logits (scores) for a query-key interaction:
+Logits= [3.0, —2.0,2.0, -1.0]
+And a mask vector, where 1 means the position is valid and 0 means the position
+should be ignored:
+Mask= [1,0,1,0]
+Apply a masked SoftMax operation to the logits.
+CO-2; |d. You are given a reference and a candidate summary (case-insensitive, whitespace [5]
+BL-4 tokenization):
+
+Reference: the committee approved the budget last week
+Predicted: the committee unanimously approved budget last month
+
+Compute the following (show formulas and brief working):
+
+i.
+il.
+iii.
+
+ROUGE-1: Compute precision, recall, and F1 using unigram overlap.
+ROUGE-2 Compute precision, recall, and F1 using bigram overlap.
+ROUGE-L: Given LCS length = 5, compute precision, recall, and F1 for
+ROUGE-L using the LCS-based definitions.
+
+--- page 2 ---
+Q2
+
+CO-2; | a. With respect to GPT 1 model, answer the following questions: ; [10]
+BL- i. Explain the unsupervised pre-training used in GPT 1. |
+2,3 ii. Briefly outline how GPT-1 was fine-tuned for supervised tasks using task
+
+specific transformations. Give examples for at least two tasks. Me
+iii. Justify the use of masked self-attention used to enforce left-to-right generation
+
+in GPT 1.
+CO-3; | b. A global research team needs a unified semantic search over a read-only corpus of 200k | [10]
+BL-4 research PDFs (updated weekly). Queries are free-text, often cross- lingual
+
+(English/Hindi/Spanish) and may include image-caption text extracted from figures.
+There are no exact ID lookups, no transactional updates, and only lightweight metadata
+filters (year, domain) and results must return top-k passages with source citations (doc +
+page).
+
+i. Suggest a database for this application (traditional database or vector database)
+highlighting with three reasons about your choice.
+
+ii. Design a search solution for the research team. Your solution should highlight the
+following points: ae)
+
+* the embedding model(s) you’d choose (unimodal/multimodal) and why,
+
+¢ the index type and two key parameters you’d tune for latency/recall,
+
+¢ how you'd store and use metadata (year/domain) for filtered ANN queries,
+e the retrieval workflow and how you’ll surface citations.
+
+Q3
+CO-3; | a. i. Compare Hierarchial Navigable Small World (HNSW) and Locality Sensitive [10]
+BL-3 Hashing (LSH) algorithms used in indexing in vector databases.
+
+ii. You are given a single-layer HNSW graph (only the bottom layer is shown).
+Edge cap per node M=2. Use Euclidean distance. Search uses etSeash = 3 and
+returns top-k = 2 neighbors. Start from entry node A.
+
+The node coordinates are:
+
+A(0,0), B(1,0), C(0,1), D(1,1), E(2,0), F(2,1)
+Undirected edges (respecting M=2)
+AoB,A@eC
+BoD,BoE
+CoD ‘
+
+DoF
+EoF
+
+e The Query(q) is (1.6, 0.3).
+
+« Compute the distances d(q,x) for all nodes x€ {A,B,C,D,E,F.
+
+¢ Run the HNSW best-first search on this layer with efSearch=3, starting at A.
+
+* Maintain a candidate (min-heap) and a result set WWW (size up to efSearch).
+
+¢ Expand nodes in order of increasing distance; when you pop a node, push any
+unvisited neighbors with their distances (avoid revisits).
+
+¢ Stop when the nearest candidate in the queue is farther than the worst item in
+W.
+
+¢ Write the visit order and thetfinal contents of W (node, distance).
+
+e Report the top-2 neighbors (node names) returned to the user.
+
+¢ Predict how the answer might change if efSearch were increased to 10 (no need
+to recompute).
+
+FOI Rk
+--- page 3 ---
+>
+
+‘| CO-2; b. | With reference to GPT 3 model, answer the following: [10]
+
+BL- iii. Define in-context learning in GPT-3. Contrast it with parameter fine-tuning, and
+2,3 give one situation where ICL is preferable. f
+iv. Design a few-shot prompt that makes GPT-3 classify short reviews as {Positive,
+Neutral, Negative}. -   e
+Requirements: _
+
+e Include two labeled examples in the prompt (few-shot).
+
+e Add an instruction that the output must be exactly one of the three labels.
+
+e Provide the final prompt text you would send (<8 lines total).
+
+e Discuss limitations of GPT-3 like prompt sensitivity, hallucination, bias
+when used in zero/few-shot mode. ~
+
+Q4
+
+CO-3; a. i. Briefly explain Contrastive Language Image Pretraining (CLIP’s) dual- [10]
+BL-4 encoder architecture (image encoder + text encoder) and how its contrastive
+loss is applied over an image-text batch to align modalities.
+ii. Design a simple image search and retrieval pipeline using CLIP.
+iii. Briefly explain the limitations of CLIP in real deployments.
+iv. You use CLIP for zero-shot classification with class prompts.
+
+a. For an image, the cosine similarities to prompts are: “a photo of a cat” = 0.58,
+“a photo of a dog” = 0.56, “a photo of a fox” = 0.47. Which label is predicted,
+and why?
+
+b. If you change the template to “an image of a {label}” and the order of labels
+in the prompt set, explain in 2-3 sentences how this can alter the scores
+(prompt sensitivity) and name one mitigation you would apply.
+
+CO-3; b. i. Compare LangChain and Llamalndex. : [10]
+BL- ii. | Given a knowledge base of PDFs, outline the flow of steps for a basic RAG flow
+
+24 using Llamalndex framework. ;
+
+iii. | Explain context augmentation with reference to Llamalndex.
+
+Q5
+
+CO-3; a. i. Compare Simple Retrieval Augmented Generation (RAG) and advanced RAG. [10]
+4 ii. A company is building a regulatory-compliance assistant for a multinational bank.
+The knowledge base contains versioned policy PDFs (hundreds of pages), FAQ
+wikis, and incident reports. Queries arrive in English and Hindi, often vague
+(“What’s the large-cash deposit limit in Q4 for APAC?”) and sometimes
+contradictory (users paste old screenshots). The system must return grounded
+answers with section-level citations, prefer the latest effective version of a policy,
+and keep p95 latency < 1.2s.
+e Suggest an advanced RAG stack for this assistant.
+¢ Highlight the significance of each step in advanced RAG with respect to this
+— assistant.
+‘ CO-4; b. i. Briefly explain the forward diffusion process in Denoising Diffusion Probabilistic | [10]
+5 BL-2 Models (DDPM).
+. li. Compare Hierarchical VAE and DDPMs.
+7 " iii. What is the ELBO connection irr DDPM training?
+
+FICK Fr
+
+i
+--- page 4 ---
+Q6
+
+a. |i. CNNs and LVMs are both used for computer vision applications. Compare their | [10]
+CO-2; performance for these applications.
+BL-2 ii. Consider a ViT using 16x16 patches on a 256x256 RGB image. ~~...
+a. Compute the number of patches N. ;
+b. Compute the flattened patch vector dimension.
+c. If a [CLS] token is prepended, what is the Transformer input sequence
+length?
+iii. How do the results on ViT compare with that of ResNet?
+iv. Briefly describe token-based distillation in DeiT. What extra token is imtroduced,
+what supervision it receives, and why this helps data-efficient training compared to
+vanilla ViT.
+
+CO-5; b. [10]
+BL- i. A model assigns probabilities to a 3-token reference [ 0.5, 0.25, 0.125]. Compute
+2.3 cross-entropy (bits/token) and perplexity.
+
+, ii. Given the pros and cons of automated vs. human evaluations, hybrid approaches
+seek to get the best of both worlds. In practice, most LLM evaluation setups are
+hybrid to some extent.
+
+a. Briefly explain the different hybrid approaches that are used in practice.
+b. Give a scenario where this hybrid approach can be used.
+
+Q7
+
+CO-6; | a. Define Agentic AI in one or two sentences and name two traits that distinguish it froma | [5]
+BL-2 plain LLM. Give two examples where a tool call is essential and pure LLM text
+generation would fail.
+
+CO-1; | b. A company has a 30-page compliance policy updated quarterly. They need concise, [5]
+BL-4 accurate 200-word summaries for executives. .
+e Outline a two-stage pipeline (chunking and synthesizing) specifying chunk size,
+overlap, and how you’ll handle cross-section references.
+e Draft a crisp prompt to get the 200-word summary.
+e Suggest an evaluation metric for this.
+
+or,
+CO-S5; | c i. Describe briefly hit rate. [5]
+BL-3 ii. You have 4 queries with the single correct node per query:
+
+* Gold: QI--N3, Q2-3N7, Q3-N2, Q4N5
+e Retrieved@3:
+
+o QI: [N8, N3, N1]
+
+o Q2: [N4, N6, N2]
+
+o Q3: [N2, N9, N7]
+
+o =Q4: [N5, N3, N8]
+
+Compute HitRate@3 over the 4 queries.
+
++ iii. What are the challenges with hit rate as a metric?
+
+CO-6; | d iv. Contrast “reactive prompting” vs. “deliberate planning” in agents. [5]
+BL-2 v. State two ethical risks unique to autonomous agents vs. chat LLMs.
+
+FIG 7 aC Gk ak kk
+````
 
 ## 2025-26 · Final-Exam · Sem 7 · paper ab76329a26c5
 

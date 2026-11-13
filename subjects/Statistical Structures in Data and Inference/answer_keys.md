@@ -41,6 +41,35 @@ CO- 3;
 SO- 3;   [5]
 BL-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+To prove that
+SST = SSB+ SSW
+Let 2; be the j*” observation in group i, Z; be the mean of group i, and & be the overall mean.
+Total Sum of Squares is:
+SST = > (x; — 2)?
+7G
+Add and subtract the group mean:
+(iz — B) = (xiy — 1) + (%: — Z)
+Squaring both sides:
+
+2 + (B; — £)? + 2(a,; — ¥,)(#; — ¥)
+
+7)? —
+(2 — 2) =
+Summing over all observations:
+
+SST = >>> Ve; — 8)? + SID — 2)? + 2 Os — 2) (% — 2)
+
+The last term becomes zero because:
+
+Hence,
+
+SST = >>> (eu — 2)? + DE ue —
+
+Therefore,
+
+SST = SSW + SSB
 --- page 2 ---
 c.
 CO- 2;
@@ -314,6 +343,31 @@ CO-1;
 SO-2;   10
 BL-4
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Likelihood is the probability of observed data expressed as a function of unknown parameters. Fora
+Binomial distribution with parameter p, the likelihood for 7 trials with 2 successes is
+
+zw) = ("a —py
+Take log likelihood:
+&(p) = log L(p) = log (") + xrlogp + (n — x) log(1 — p)
+
+Differentiate w.r.t p:
+
+dé 2 on-@
+
+Set derivative = 0:
+
+xz n—-zr
+p i1-p
+
+Solve:
+2(1—p) = p(n — 2)
+x2—x2p=np—xp
+z=np>p==
+=np>Pp= 7
+
+Thus, the MLE of pis
 --- page 8 ---
 b.
 CO-7;
@@ -350,6 +404,28 @@ print(f"Polynomial Model R2: {r2_score(y, y_poly_pred):.4f}")
 # We use values.min() and values.max() to ensure we get the underlying numbers
 X_grid = np.arange(X.values.min(), X.values.max(), 0.1).reshape(-1, 1)
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Eastowne ranks 99 64101 35 79 88 97 95 90 = 100
+24 3 26.5 8 6 11 22 20 15.5 25
+Craborchardranks $83 102 125 61 91 96 94 89 93 75
+
+7 28 30 2 17 21 19 13 18 4
+Fairforest ranks 89 98 36 105 87 50 87 101 76 89
+13 23 1 29 95 15.5 95 26.5 5 13
+
+a, =10 n,=10 a, = 10 @=0.05
+
+R,=161 R,= 159 R= 145
+Hy 4, =4,=4, H,: the w’s are not all the same
+
+LR? 2 1 z
+IR 12 (en)? | 59)" | (145)
+10 10 10
+
+an, 30(31)
+
+fren <0.
 --- page 9 ---
 plt.scatter(X, y, color='blue', alpha=0.5, label='Actual Data')
 plt.plot(X_grid, lin_reg.predict(X_grid), color='red', label='Linear Fit')
@@ -388,6 +464,21 @@ lasso_mod.fit(X_train_scaled, y_train)
 # 3. EVALUATE
 y_pred = lasso_mod.predict(X_test_scaled)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+30
+
+25
+
+Fuel Efficiency: Linear vs. Polynomial Regression
+
+e Actual Data
+—— Linear Fit
+—— Polynomial Fit
+
+Engine Speed
+
+10
 --- page 10 ---
 print(f"Optimal Alpha (Lambda): {lasso_mod.alpha_:.6f}")
 print(f"R-squared: {r2_score(y_test, y_pred):.4f}")
@@ -492,6 +583,35 @@ CO- 3;
 SO- 3;   [5]
 BL-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+To prove that
+SST = SSB+ SSW
+Let 2; be the j*” observation in group i, Z; be the mean of group i, and & be the overall mean.
+Total Sum of Squares is:
+SST = > (x; — 2)?
+7G
+Add and subtract the group mean:
+(iz — B) = (xiy — 1) + (%: — Z)
+Squaring both sides:
+
+2 + (B; — £)? + 2(a,; — ¥,)(#; — ¥)
+
+7)? —
+(2 — 2) =
+Summing over all observations:
+
+SST = >>> Ve; — 8)? + SID — 2)? + 2 Os — 2) (% — 2)
+
+The last term becomes zero because:
+
+Hence,
+
+SST = >>> (eu — 2)? + DE ue —
+
+Therefore,
+
+SST = SSW + SSB
 --- page 2 ---
 c.
 CO- 2;
@@ -765,6 +885,31 @@ CO-1;
 SO-2;   10
 BL-4
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Likelihood is the probability of observed data expressed as a function of unknown parameters. Fora
+Binomial distribution with parameter p, the likelihood for 7 trials with 2 successes is
+
+zw) = ("a —py
+Take log likelihood:
+&(p) = log L(p) = log (") + xrlogp + (n — x) log(1 — p)
+
+Differentiate w.r.t p:
+
+dé 2 on-@
+
+Set derivative = 0:
+
+xz n—-zr
+p i1-p
+
+Solve:
+2(1—p) = p(n — 2)
+x2—x2p=np—xp
+z=np>p==
+=np>Pp= 7
+
+Thus, the MLE of pis
 --- page 8 ---
 b.
 CO-7;
@@ -801,6 +946,28 @@ print(f"Polynomial Model R2: {r2_score(y, y_poly_pred):.4f}")
 # We use values.min() and values.max() to ensure we get the underlying numbers
 X_grid = np.arange(X.values.min(), X.values.max(), 0.1).reshape(-1, 1)
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Eastowne ranks 99 64101 35 79 88 97 95 90 = 100
+24 3 26.5 8 6 11 22 20 15.5 25
+Craborchardranks $83 102 125 61 91 96 94 89 93 75
+
+7 28 30 2 17 21 19 13 18 4
+Fairforest ranks 89 98 36 105 87 50 87 101 76 89
+13 23 1 29 95 15.5 95 26.5 5 13
+
+a, =10 n,=10 a, = 10 @=0.05
+
+R,=161 R,= 159 R= 145
+Hy 4, =4,=4, H,: the w’s are not all the same
+
+LR? 2 1 z
+IR 12 (en)? | 59)" | (145)
+10 10 10
+
+an, 30(31)
+
+fren <0.
 --- page 9 ---
 plt.scatter(X, y, color='blue', alpha=0.5, label='Actual Data')
 plt.plot(X_grid, lin_reg.predict(X_grid), color='red', label='Linear Fit')
@@ -839,6 +1006,21 @@ lasso_mod.fit(X_train_scaled, y_train)
 # 3. EVALUATE
 y_pred = lasso_mod.predict(X_test_scaled)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+30
+
+25
+
+Fuel Efficiency: Linear vs. Polynomial Regression
+
+e Actual Data
+—— Linear Fit
+—— Polynomial Fit
+
+Engine Speed
+
+10
 --- page 10 ---
 print(f"Optimal Alpha (Lambda): {lasso_mod.alpha_:.6f}")
 print(f"R-squared: {r2_score(y_test, y_pred):.4f}")
@@ -943,6 +1125,35 @@ CO- 3;
 SO- 3;   [5]
 BL-2
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+To prove that
+SST = SSB+ SSW
+Let 2; be the j*” observation in group i, Z; be the mean of group i, and & be the overall mean.
+Total Sum of Squares is:
+SST = > (x; — 2)?
+7G
+Add and subtract the group mean:
+(iz — B) = (xiy — 1) + (%: — Z)
+Squaring both sides:
+
+2 + (B; — £)? + 2(a,; — ¥,)(#; — ¥)
+
+7)? —
+(2 — 2) =
+Summing over all observations:
+
+SST = >>> Ve; — 8)? + SID — 2)? + 2 Os — 2) (% — 2)
+
+The last term becomes zero because:
+
+Hence,
+
+SST = >>> (eu — 2)? + DE ue —
+
+Therefore,
+
+SST = SSW + SSB
 --- page 2 ---
 c.
 CO- 2;
@@ -1216,6 +1427,31 @@ CO-1;
 SO-2;   10
 BL-4
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Likelihood is the probability of observed data expressed as a function of unknown parameters. Fora
+Binomial distribution with parameter p, the likelihood for 7 trials with 2 successes is
+
+zw) = ("a —py
+Take log likelihood:
+&(p) = log L(p) = log (") + xrlogp + (n — x) log(1 — p)
+
+Differentiate w.r.t p:
+
+dé 2 on-@
+
+Set derivative = 0:
+
+xz n—-zr
+p i1-p
+
+Solve:
+2(1—p) = p(n — 2)
+x2—x2p=np—xp
+z=np>p==
+=np>Pp= 7
+
+Thus, the MLE of pis
 --- page 8 ---
 b.
 CO-7;
@@ -1252,6 +1488,28 @@ print(f"Polynomial Model R2: {r2_score(y, y_poly_pred):.4f}")
 # We use values.min() and values.max() to ensure we get the underlying numbers
 X_grid = np.arange(X.values.min(), X.values.max(), 0.1).reshape(-1, 1)
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+Eastowne ranks 99 64101 35 79 88 97 95 90 = 100
+24 3 26.5 8 6 11 22 20 15.5 25
+Craborchardranks $83 102 125 61 91 96 94 89 93 75
+
+7 28 30 2 17 21 19 13 18 4
+Fairforest ranks 89 98 36 105 87 50 87 101 76 89
+13 23 1 29 95 15.5 95 26.5 5 13
+
+a, =10 n,=10 a, = 10 @=0.05
+
+R,=161 R,= 159 R= 145
+Hy 4, =4,=4, H,: the w’s are not all the same
+
+LR? 2 1 z
+IR 12 (en)? | 59)" | (145)
+10 10 10
+
+an, 30(31)
+
+fren <0.
 --- page 9 ---
 plt.scatter(X, y, color='blue', alpha=0.5, label='Actual Data')
 plt.plot(X_grid, lin_reg.predict(X_grid), color='red', label='Linear Fit')
@@ -1290,6 +1548,21 @@ lasso_mod.fit(X_train_scaled, y_train)
 # 3. EVALUATE
 y_pred = lasso_mod.predict(X_test_scaled)
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+30
+
+25
+
+Fuel Efficiency: Linear vs. Polynomial Regression
+
+e Actual Data
+—— Linear Fit
+—— Polynomial Fit
+
+Engine Speed
+
+10
 --- page 10 ---
 print(f"Optimal Alpha (Lambda): {lasso_mod.alpha_:.6f}")
 print(f"R-squared: {r2_score(y_test, y_pred):.4f}")

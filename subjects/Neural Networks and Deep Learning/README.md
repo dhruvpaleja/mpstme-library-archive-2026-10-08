@@ -1,6 +1,6 @@
 # Neural Networks and Deep Learning
 
-**16** unique papers (17 copies across programmes) · 2018-19 to 2025-26 · 7 programmes · Sem 6, Sem 7, Sem 10
+**17** unique papers (18 copies across programmes) · 2018-19 to 2025-26 · 7 programmes · Sem 6, Sem 7, Sem 10
 
 Download only this subject, sorted by academic year:
 
@@ -12,7 +12,9 @@ Files land in `D:/Study/PYQs_By_Subject/Neural Networks and Deep Learning/<acade
 
 Text of the papers, ready for reading or AI analysis: [`papers.md`](papers.md) (every paper in full, newest first), [`questions.jsonl`](questions.jsonl) (one record per question with marks, year, exam, semester and department) and [`papers.jsonl`](papers.jsonl) (one record per paper). Answer keys, where the portal published them, are in `answer_keys.md`. See [`question_bank/README.md`](../../question_bank/README.md) for the fields.
 
-Also filed as: `NEURAL NETWORK & DEEP LEARNING`, `NEURAL NETWORK AND DEEP LEARNING`
+Syllabus of this course, every version found in the archive: [`syllabus.md`](syllabus.md) (see [`syllabi/`](../../syllabi/README.md) for all programmes).
+
+Also filed as: `NEURAL NETOWORK AND DEEP LEANING`, `NEURAL NETWORK & DEEP LEARNING`, `NEURAL NETWORK AND DEEP LEARNING`
 
 | Year | Exam | Type | Sem | Programmes | File |
 | --- | --- | --- | --- | --- | --- |
@@ -23,6 +25,7 @@ Also filed as: `NEURAL NETWORK & DEEP LEARNING`, `NEURAL NETWORK AND DEEP LEARNI
 | 2025-26 | Final-Exam | Answer key | Sem 7 | MBATech DS 7052 | ANS_Neural Networks and Deep Learning(702DB0C027)_2025-2026.pdf |
 | 2024-25 | — | Question paper |  | MBA TECH / Data Science | Neural Networks and Deep Learning, 2024-25.pdf |
 | 2024-25 | Final-Exam | Question paper | Sem 6 | B TECH / DATA SCIENCE | Neural Networks and Deep Learning, Sem-IV, Final Exam 2024-25.pdf |
+| 2024-25 | Re-Exam | Question paper | Sem 7 | B TECH / DATA SCIENCE | Neural_Networks_and_Deep_Learning__Sem-VII__Batch_2024-25__Re_Exam_T14e5mQotX.pdf |
 | 2023-24 | Final + Re-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / COMPUTER | Netural Networks and Deep Learning Batch 2023-24 Final Batch 2022-23 Re Exam.pdf |
 | 2023-24 | Final-Exam | Question paper | Sem 7 | B TECH / CSE DATA SCIENCE (311) | Neural Network and Deep Leaning, Sem-VII, Final Exam, A Y 2023-24.pdf |
 | 2023-24 | Re-Exam | Question paper | Sem 10 | B.TECH INTEGRATED / COMPUTER | Neural Networks and Deep Learning Batch 2023-24 Re Exam.pdf |

@@ -155,6 +155,23 @@ Techniques such as equivalence partitioning, boundary value analysis, and
 decision table testing help generate effective test cases for features like login,
 money transfer, and recharge.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Component-
+Tow oriented Level Design
+elements
+
+Interface Desig
+Analysis Model
+
+Donaviorat Architectural Design
+‘clement s
+
+Data/ Class Design
+
+Pel
+
+Design Model
 --- page 4 ---
 b) Design package diagram for the case study ATM system in Q4(a)
 A Package Diagram for an ATM system organizes the system into logical groups
@@ -421,6 +438,28 @@ CO-3 ; SO-2 ;   system design and development?
 BL-2;   Non-Functional Requirements (NFRs) define the quality attributes, constraints,
 Moderate   and performance standards of a system rather than its specific functionalities.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+Phases Inception
+
+Business Modeling H :
+
+Analysis
+
+Design “a ee
+
+Implementation
+
+Test
+
+Deployment
+
+Phases
+
+Configuration and
+Change Management
+
+Project Management
 --- page 2 ---
 Unlike functional requirements (which describe what a system should do), NFRs
 describe how a system should behave.
@@ -692,6 +731,28 @@ Usecases   Verb
 Association   Verb
 Directed Association   Verb
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Phases Inception
+
+Business Modeling H :
+
+Analysis
+
+Design “a ee
+
+Implementation
+
+Test
+
+Deployment
+
+Phases
+
+Configuration and
+Change Management
+
+Project Management
 --- page 3 ---
 usescases must be
 Generalisation and   verbs   Actors:
@@ -732,6 +793,24 @@ functionality.
 • CRC (Class-Responsibility-Collaboration) Cards: Used for brainstorming
 object-oriented design.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Prototype Model Spiral Model
+
+A working prototype (simplified version) of A risk-driven iterative model that follows a
+
+the system is built first to understand user cyclic process of planning, risk assessment,
+requirements better. development, and review.
+
+Rapid prototyping followed by iterative Repeated phases in a spiral structure with
+refinement. continuous risk analysis.
+
+Low-risk management as the focus is on High-risk management due to continuous risk
+gathering requirements. analysis in each phase.
+
+High involvement; users test the prototype Moderate involvement; users provide feedback
+
+and provide feedback. after each iteration.
 --- page 4 ---
 •   Spike Solutions: Quick experiments to explore solutions for complex
 problems.
@@ -815,4 +894,21 @@ Transistion   Verbs
 Fork/Join
 Choice Point
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Concept Definition Example
+
+Encapsulation —_ Hides data and provides Private attributes in
+controlled access via methods. BankAccount with getter/
+
+setter.
+
+Abstraction Hides implementation details Abstract class shape with
+and provides only essential area() and perimeter() .
+features.
+
+Inheritance Allows one class to inherit Manager Class inheriting
+attributes and methods from from employee .
+
+another.
 ````

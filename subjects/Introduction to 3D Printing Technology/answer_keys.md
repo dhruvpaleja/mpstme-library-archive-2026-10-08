@@ -75,6 +75,23 @@ dimensions.
 Porosity and Voids: Trapped air or un-fused material causes small holes, reducing
 strength.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+SMOKESTACK (E)
+
+SEALED
+CHAMBER (E)
+
+7 MOVEABLE MIRROR (C) H
+
+' OBJECT UNDER H
+' CONSTRUCTION '
+mae OC \mee |
+' PAPER |
+' PAPER TAKE-UP H
+H ROLL (®) saa) H
+
+Laminated Object Manufacturing
 --- page 3 ---
 Incomplete Fusion: Adjacent layers do not fully merge, weakening the part.
 Surface Roughness: Uneven textures or bumps due to extrusion issues or spattering,
@@ -160,6 +177,31 @@ tware to convert it into G-code, generating layer-by-
 layer instructions for the printer.
 3. Set Up the Printer
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Surface Dimensional
+
+roughness aap Build time
+_Layer Layer thickness Layer thickness
+thickness Build orientation Air gap Raster Air gap
+. \ Build orientation orientation Raster width
+Print speed ~*~ ¥- Raster width Shell width
+\e *Raster width Raster \¢— Number of shell
+orientation ~ Print speed Build orientation
+Extrusion 2 Extrusion _\, wie Infill density
+temperature temperature P =
+Layer thickness 5 Layer thickness —/ Layer thichuess —y/ z
+Build orientation /A— Build orientation ‘Raster width
+Raster width *Raster width P *Print speed ‘tas
+‘ ir gap ¥
+Print speed Infill pattern Build orientation ‘ooentatne
+Tafil density wsscs Infill density Extrusion “Ait gap
+Raster Air gap orientation —7 temperature Infill density
+orientation 7” A= Namber of shell Infill pattern Number of shell
+Flexural Compressive F
+< Tensile Strength
+
+* Indicates still unknown whether a parameter is significant for a part characteristic or not
 --- page 5 ---
 Prepare the 3D printer by loading the filament or resin, calibrating the bed, and setti
 ng parameters such as layer height, print speed, and temperature.

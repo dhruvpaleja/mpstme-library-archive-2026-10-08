@@ -214,6 +214,21 @@ BL-3   • Step 2: Compute likelihoods P(attribute | class)
 • Step 5: Assign class with highest probability
  Establish the Prior probability P(Cj) for each class.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+how are they different?
+
+OPERATIONAL INFORMATIONAL
+Data Content Current values Archived, derived,
+summarized
+Data Structure Optimized for Optimized for complex
+transactions queries
+Access Frequency High Medium to low
+Access Type Read, update, delete Read
+Usage Predictable, repetitive Ad hoc, random, heuristic
+Response Time Sub-seconds Several seconds to minutes
+
+Users Large number Relatively small number
 --- page 7 ---
  Derived Probabilities: Establish the probability P(xi| Cj) for each
 attribute xi and class Cj (how often each value occurs in the class
@@ -339,6 +354,22 @@ Steps:
 ROLAP
 MOLAP
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+PRESENTATION | Multidimensional Desktop
+LAYER view Client
+
+Analytical
+Server
+
+APPLICATION
+LAYER
+
+oo   ERDBNAS DATA
+Server LAYER
+
+Data
+Warehouse
 --- page 11 ---
 ROLAP   MOLAP
 Stored as relational tables Stored as relational tables
@@ -390,6 +421,16 @@ Steps:
 • Step 5: Predict value at X = 10
 Outcome: Predicted relief value
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Data Mining
+
+Predictive Descriptive
+
+ZI I~
+
+Classification Regression Time Series Prediction Clustering Summarization Association Sequence
+Analysis Rules Discovery
 --- page 13 ---
 a. Web content Mining - 5Marks   [10]
 and Web structure mining -5marks
@@ -651,6 +692,21 @@ BL-3   • Step 2: Compute likelihoods P(attribute | class)
 • Step 5: Assign class with highest probability
  Establish the Prior probability P(Cj) for each class.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+how are they different?
+
+OPERATIONAL INFORMATIONAL
+Data Content Current values Archived, derived,
+summarized
+Data Structure Optimized for Optimized for complex
+transactions queries
+Access Frequency High Medium to low
+Access Type Read, update, delete Read
+Usage Predictable, repetitive Ad hoc, random, heuristic
+Response Time Sub-seconds Several seconds to minutes
+
+Users Large number Relatively small number
 --- page 7 ---
  Derived Probabilities: Establish the probability P(xi| Cj) for each
 attribute xi and class Cj (how often each value occurs in the class
@@ -776,6 +832,22 @@ Steps:
 ROLAP
 MOLAP
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+PRESENTATION | Multidimensional Desktop
+LAYER view Client
+
+Analytical
+Server
+
+APPLICATION
+LAYER
+
+oo   ERDBNAS DATA
+Server LAYER
+
+Data
+Warehouse
 --- page 11 ---
 ROLAP   MOLAP
 Stored as relational tables Stored as relational tables
@@ -827,6 +899,16 @@ Steps:
 • Step 5: Predict value at X = 10
 Outcome: Predicted relief value
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Data Mining
+
+Predictive Descriptive
+
+ZI I~
+
+Classification Regression Time Series Prediction Clustering Summarization Association Sequence
+Analysis Rules Discovery
 --- page 13 ---
 a. Web content Mining - 5Marks   [10]
 and Web structure mining -5marks
@@ -1088,6 +1170,21 @@ BL-3   • Step 2: Compute likelihoods P(attribute | class)
 • Step 5: Assign class with highest probability
  Establish the Prior probability P(Cj) for each class.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+how are they different?
+
+OPERATIONAL INFORMATIONAL
+Data Content Current values Archived, derived,
+summarized
+Data Structure Optimized for Optimized for complex
+transactions queries
+Access Frequency High Medium to low
+Access Type Read, update, delete Read
+Usage Predictable, repetitive Ad hoc, random, heuristic
+Response Time Sub-seconds Several seconds to minutes
+
+Users Large number Relatively small number
 --- page 7 ---
  Derived Probabilities: Establish the probability P(xi| Cj) for each
 attribute xi and class Cj (how often each value occurs in the class
@@ -1213,6 +1310,22 @@ Steps:
 ROLAP
 MOLAP
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+PRESENTATION | Multidimensional Desktop
+LAYER view Client
+
+Analytical
+Server
+
+APPLICATION
+LAYER
+
+oo   ERDBNAS DATA
+Server LAYER
+
+Data
+Warehouse
 --- page 11 ---
 ROLAP   MOLAP
 Stored as relational tables Stored as relational tables
@@ -1264,6 +1377,16 @@ Steps:
 • Step 5: Predict value at X = 10
 Outcome: Predicted relief value
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Data Mining
+
+Predictive Descriptive
+
+ZI I~
+
+Classification Regression Time Series Prediction Clustering Summarization Association Sequence
+Analysis Rules Discovery
 --- page 13 ---
 a. Web content Mining - 5Marks   [10]
 and Web structure mining -5marks
@@ -1525,6 +1648,21 @@ BL-3   • Step 2: Compute likelihoods P(attribute | class)
 • Step 5: Assign class with highest probability
  Establish the Prior probability P(Cj) for each class.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+how are they different?
+
+OPERATIONAL INFORMATIONAL
+Data Content Current values Archived, derived,
+summarized
+Data Structure Optimized for Optimized for complex
+transactions queries
+Access Frequency High Medium to low
+Access Type Read, update, delete Read
+Usage Predictable, repetitive Ad hoc, random, heuristic
+Response Time Sub-seconds Several seconds to minutes
+
+Users Large number Relatively small number
 --- page 7 ---
  Derived Probabilities: Establish the probability P(xi| Cj) for each
 attribute xi and class Cj (how often each value occurs in the class
@@ -1650,6 +1788,22 @@ Steps:
 ROLAP
 MOLAP
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+PRESENTATION | Multidimensional Desktop
+LAYER view Client
+
+Analytical
+Server
+
+APPLICATION
+LAYER
+
+oo   ERDBNAS DATA
+Server LAYER
+
+Data
+Warehouse
 --- page 11 ---
 ROLAP   MOLAP
 Stored as relational tables Stored as relational tables
@@ -1701,6 +1855,16 @@ Steps:
 • Step 5: Predict value at X = 10
 Outcome: Predicted relief value
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Data Mining
+
+Predictive Descriptive
+
+ZI I~
+
+Classification Regression Time Series Prediction Clustering Summarization Association Sequence
+Analysis Rules Discovery
 --- page 13 ---
 a. Web content Mining - 5Marks   [10]
 and Web structure mining -5marks
@@ -1816,6 +1980,24 @@ data accessing.
 ⚫ Initial loading of data
 ⚫ Incremental loading of data
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+In the data warehouse, data is not stored by operational
+applications, but by business subjects.
+
+Operational Applications Data Warehouse Subjects
+
+Order Consumer
+: Sales Product
+Processing Loans
+Account
+Gustorier Accounts Customer
+Billing Receivable
+
+Claims Savings Claims Policy
+Processing Accounts
+
+Figure 2-1 The data warehouse is subject oriented.
 --- page 3 ---
 a. Consider a hotel chain that wants to analyze room bookings considering [10]
 dimensions such as Room Type, Customer, etc. as well as measures such as
@@ -1844,6 +2026,16 @@ Steps to develop information package
 • Step 2: Define grain → per booking per customer per date
 • Step 3: Identify dimensions → room, customer, time, location
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Usually the data in the data warehouse is not updated or
+deleted.
+
+OLTP DATA
+DATABASES WAREHOUSE
+Read Add / Change / Delete Read
+
+Operational System Applications (Decision Support Systems )
 --- page 4 ---
 • Step 4: Identify measures → count, revenue
 • Step 5: Validate consistency across dimensions
@@ -1895,6 +2087,25 @@ Low   5
 Step 2: Prior Probabilities
 Step 3: Likelihood Tables
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+ID || Credit History Debt Collateral Income | Credit Risk?
+
+l bad high none 0-15k high
+2 unknown high none 15-35k high
+3 unknown low none 15-35k moderate
+4 unknown low none 0-15k high
+5 unknown low none >35k low
+6 unknown low adequate >35k low
+7 bad low none 0-15k high
+8 bad low adequate >35k moderate
+9 good low none >35k low
+10 good high adequate >35k low
+11 good high none 0-15k high
+12 good high none 15-35k moderate
+13 good high none > 35k low
+
+14 bad high none 15-35k high
 --- page 6 ---
 Class = High (6 records)
 Feature   Value
@@ -1937,6 +2148,21 @@ based on their spending behavior. Using the following data points, form 2
 clusters using the K-Means algorithm up to two iterations with Euclidean
 distance. Take P and R as initial centroids.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+® High
+6 1
+
+4 2
+=—xX-xX—x
+14 6 6 Ox 6 =0
+
+@ Moderate
+
+3 1 1 1 £2
+a" *373"37 0.0053
+
+@ Low
 --- page 8 ---
 Point X   Y
 P   2   2
@@ -2023,6 +2249,36 @@ Step 1: Compute overall entropy
 • Total = 10
 • Yes = 6, No = 4
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Supervised Mining Unsupervised Mining
+
+Identifies hidden patterns and
+
+Uses labeled data to predict outcomes. structures in unlabeled data.
+
+Supervised learning. Unsupervised learning.
+
+Requires labeled data (input-output
+
+pairs) ‘Works with unlabeled data.
+
+Maps input to output based on prior [Groups similar data or detects
+knowledge. patterns.
+
+Clustering (K-Means, Hierarchical),
+
+Classification (Decision Trees, SVM, Dimensionality Reduction (PCA, t-
+
+‘Neural Networks), Regression.
+
+SNE).
+Spam email classification, disease Customer segmentation, anomaly
+prediction. detection.
+
+Discrete labels or continuous values. _|Clusters or hidden structures.
+
+Accuracv. Precision. Recall. RMSE. Silhouette score. Dunn index.
 --- page 12 ---
 Step 2: Compute information gain
 Step 3: Select root node
@@ -2030,6 +2286,56 @@ Final answer
 • Best attribute (root node) = A1
 • A1 provides maximum information gain
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Instance | al | a2 a3 Classification | Attribute: a1
+
+1 [True | Hot | High No
+2 True | Hot High No Values (a1) = True, False
+3 | False | Hot | High Yes
+4 [False | Cool | Normal Yes S = (6+, 4-] Entropy(S) = —* log. —* log. = 0.9709
+5 __| False | Cool | Normal Yes
+S| true [Ceol | High Ne Sram ted Entropy(Srrue) = ~4loga4 ~ log,’ = 0.7219
+7 | True | Hot | High No
+8 | True | Hot | Normal Yes Shag 154029 Rates oo
+2 _| False | Coot | Normal Yes
+10 | False [Cool | High Yes
+ISol
+Gain (S,a1) = Entropy(s) — “ay Entrovy(Sy)
+e(rieFal
+Example - 3 anes
+
+Decision Tree Algorithm -1D3 —¢ain(s,a1) = Entropy(S)- 5 Entropy Srrue) = < Entropy (Sratse)
+Solved Example
+
+5 5
+Gain(5,a1) = 0.9709- 7 + 0.7219 +1 = 0.6099
+
+Attribute: a2
+
+Values (a2) = Hot, Cool
+
+S = [6+, 4-] Entropy(S) = —< loge -* logos = 0.9709
+2 2 3 3
+
+Swot = (2+,3-] Entropy(Syot) = — = 1092~ — <l0g2— = 0.9709
+4 44 1
+
+Scoot — [4+, 1-] Entropy(Scooi) = ~,l0g2. = log2- = 0.7219
+
+Isol
+|S|
+
+v €{Hot,Cool)
+
+Gain (S,a2) = Entropy(S) — Entropy(Sy)
+
+5 5
+Gain(S,a2) = Entropy(S)— — Jo Entropy (Snot) — Jo Entropy (Scoot)
+
+5 5
+Gain(S,a2) = 0. 9709-75 + 0.9709 — Tg 0.7219 = 0.1245 E
+&
 --- page 13 ---
 Apriori   [10]
 Explain the principle of the Apriori algorithm – 3marks
@@ -2060,6 +2366,17 @@ Count support:
 • wireless mouse → 3 (T1, T2, T3)
 • keyboard → 2 (T1, T3)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Gain(S,a1) = 0.6099 — Maximum Gain
+Gain(S,a2) = 0.1245
+Gain(S,a3) = 0.4199
+
+True False
+
+1,2,6,7,8 3, 4,5, 9, 10
+
+Yes
 --- page 14 ---
 Frequent itemsets L1:
 • {laptop}, {wireless mouse}, {keyboard}
@@ -2261,6 +2578,24 @@ data accessing.
 ⚫ Initial loading of data
 ⚫ Incremental loading of data
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+In the data warehouse, data is not stored by operational
+applications, but by business subjects.
+
+Operational Applications Data Warehouse Subjects
+
+Order Consumer
+: Sales Product
+Processing Loans
+Account
+Gustorier Accounts Customer
+Billing Receivable
+
+Claims Savings Claims Policy
+Processing Accounts
+
+Figure 2-1 The data warehouse is subject oriented.
 --- page 3 ---
 a. Consider a hotel chain that wants to analyze room bookings considering [10]
 dimensions such as Room Type, Customer, etc. as well as measures such as
@@ -2289,6 +2624,16 @@ Steps to develop information package
 • Step 2: Define grain → per booking per customer per date
 • Step 3: Identify dimensions → room, customer, time, location
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Usually the data in the data warehouse is not updated or
+deleted.
+
+OLTP DATA
+DATABASES WAREHOUSE
+Read Add / Change / Delete Read
+
+Operational System Applications (Decision Support Systems )
 --- page 4 ---
 • Step 4: Identify measures → count, revenue
 • Step 5: Validate consistency across dimensions
@@ -2340,6 +2685,25 @@ Low   5
 Step 2: Prior Probabilities
 Step 3: Likelihood Tables
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+ID || Credit History Debt Collateral Income | Credit Risk?
+
+l bad high none 0-15k high
+2 unknown high none 15-35k high
+3 unknown low none 15-35k moderate
+4 unknown low none 0-15k high
+5 unknown low none >35k low
+6 unknown low adequate >35k low
+7 bad low none 0-15k high
+8 bad low adequate >35k moderate
+9 good low none >35k low
+10 good high adequate >35k low
+11 good high none 0-15k high
+12 good high none 15-35k moderate
+13 good high none > 35k low
+
+14 bad high none 15-35k high
 --- page 6 ---
 Class = High (6 records)
 Feature   Value
@@ -2382,6 +2746,21 @@ based on their spending behavior. Using the following data points, form 2
 clusters using the K-Means algorithm up to two iterations with Euclidean
 distance. Take P and R as initial centroids.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+® High
+6 1
+
+4 2
+=—xX-xX—x
+14 6 6 Ox 6 =0
+
+@ Moderate
+
+3 1 1 1 £2
+a" *373"37 0.0053
+
+@ Low
 --- page 8 ---
 Point X   Y
 P   2   2
@@ -2468,6 +2847,36 @@ Step 1: Compute overall entropy
 • Total = 10
 • Yes = 6, No = 4
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Supervised Mining Unsupervised Mining
+
+Identifies hidden patterns and
+
+Uses labeled data to predict outcomes. structures in unlabeled data.
+
+Supervised learning. Unsupervised learning.
+
+Requires labeled data (input-output
+
+pairs) ‘Works with unlabeled data.
+
+Maps input to output based on prior [Groups similar data or detects
+knowledge. patterns.
+
+Clustering (K-Means, Hierarchical),
+
+Classification (Decision Trees, SVM, Dimensionality Reduction (PCA, t-
+
+‘Neural Networks), Regression.
+
+SNE).
+Spam email classification, disease Customer segmentation, anomaly
+prediction. detection.
+
+Discrete labels or continuous values. _|Clusters or hidden structures.
+
+Accuracv. Precision. Recall. RMSE. Silhouette score. Dunn index.
 --- page 12 ---
 Step 2: Compute information gain
 Step 3: Select root node
@@ -2475,6 +2884,56 @@ Final answer
 • Best attribute (root node) = A1
 • A1 provides maximum information gain
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Instance | al | a2 a3 Classification | Attribute: a1
+
+1 [True | Hot | High No
+2 True | Hot High No Values (a1) = True, False
+3 | False | Hot | High Yes
+4 [False | Cool | Normal Yes S = (6+, 4-] Entropy(S) = —* log. —* log. = 0.9709
+5 __| False | Cool | Normal Yes
+S| true [Ceol | High Ne Sram ted Entropy(Srrue) = ~4loga4 ~ log,’ = 0.7219
+7 | True | Hot | High No
+8 | True | Hot | Normal Yes Shag 154029 Rates oo
+2 _| False | Coot | Normal Yes
+10 | False [Cool | High Yes
+ISol
+Gain (S,a1) = Entropy(s) — “ay Entrovy(Sy)
+e(rieFal
+Example - 3 anes
+
+Decision Tree Algorithm -1D3 —¢ain(s,a1) = Entropy(S)- 5 Entropy Srrue) = < Entropy (Sratse)
+Solved Example
+
+5 5
+Gain(5,a1) = 0.9709- 7 + 0.7219 +1 = 0.6099
+
+Attribute: a2
+
+Values (a2) = Hot, Cool
+
+S = [6+, 4-] Entropy(S) = —< loge -* logos = 0.9709
+2 2 3 3
+
+Swot = (2+,3-] Entropy(Syot) = — = 1092~ — <l0g2— = 0.9709
+4 44 1
+
+Scoot — [4+, 1-] Entropy(Scooi) = ~,l0g2. = log2- = 0.7219
+
+Isol
+|S|
+
+v €{Hot,Cool)
+
+Gain (S,a2) = Entropy(S) — Entropy(Sy)
+
+5 5
+Gain(S,a2) = Entropy(S)— — Jo Entropy (Snot) — Jo Entropy (Scoot)
+
+5 5
+Gain(S,a2) = 0. 9709-75 + 0.9709 — Tg 0.7219 = 0.1245 E
+&
 --- page 13 ---
 Apriori   [10]
 Explain the principle of the Apriori algorithm – 3marks
@@ -2505,6 +2964,17 @@ Count support:
 • wireless mouse → 3 (T1, T2, T3)
 • keyboard → 2 (T1, T3)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Gain(S,a1) = 0.6099 — Maximum Gain
+Gain(S,a2) = 0.1245
+Gain(S,a3) = 0.4199
+
+True False
+
+1,2,6,7,8 3, 4,5, 9, 10
+
+Yes
 --- page 14 ---
 Frequent itemsets L1:
 • {laptop}, {wireless mouse}, {keyboard}
@@ -2706,6 +3176,24 @@ data accessing.
 ⚫ Initial loading of data
 ⚫ Incremental loading of data
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+In the data warehouse, data is not stored by operational
+applications, but by business subjects.
+
+Operational Applications Data Warehouse Subjects
+
+Order Consumer
+: Sales Product
+Processing Loans
+Account
+Gustorier Accounts Customer
+Billing Receivable
+
+Claims Savings Claims Policy
+Processing Accounts
+
+Figure 2-1 The data warehouse is subject oriented.
 --- page 3 ---
 a. Consider a hotel chain that wants to analyze room bookings considering [10]
 dimensions such as Room Type, Customer, etc. as well as measures such as
@@ -2734,6 +3222,16 @@ Steps to develop information package
 • Step 2: Define grain → per booking per customer per date
 • Step 3: Identify dimensions → room, customer, time, location
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Usually the data in the data warehouse is not updated or
+deleted.
+
+OLTP DATA
+DATABASES WAREHOUSE
+Read Add / Change / Delete Read
+
+Operational System Applications (Decision Support Systems )
 --- page 4 ---
 • Step 4: Identify measures → count, revenue
 • Step 5: Validate consistency across dimensions
@@ -2785,6 +3283,25 @@ Low   5
 Step 2: Prior Probabilities
 Step 3: Likelihood Tables
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+ID || Credit History Debt Collateral Income | Credit Risk?
+
+l bad high none 0-15k high
+2 unknown high none 15-35k high
+3 unknown low none 15-35k moderate
+4 unknown low none 0-15k high
+5 unknown low none >35k low
+6 unknown low adequate >35k low
+7 bad low none 0-15k high
+8 bad low adequate >35k moderate
+9 good low none >35k low
+10 good high adequate >35k low
+11 good high none 0-15k high
+12 good high none 15-35k moderate
+13 good high none > 35k low
+
+14 bad high none 15-35k high
 --- page 6 ---
 Class = High (6 records)
 Feature   Value
@@ -2827,6 +3344,21 @@ based on their spending behavior. Using the following data points, form 2
 clusters using the K-Means algorithm up to two iterations with Euclidean
 distance. Take P and R as initial centroids.
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+® High
+6 1
+
+4 2
+=—xX-xX—x
+14 6 6 Ox 6 =0
+
+@ Moderate
+
+3 1 1 1 £2
+a" *373"37 0.0053
+
+@ Low
 --- page 8 ---
 Point X   Y
 P   2   2
@@ -2913,6 +3445,36 @@ Step 1: Compute overall entropy
 • Total = 10
 • Yes = 6, No = 4
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Supervised Mining Unsupervised Mining
+
+Identifies hidden patterns and
+
+Uses labeled data to predict outcomes. structures in unlabeled data.
+
+Supervised learning. Unsupervised learning.
+
+Requires labeled data (input-output
+
+pairs) ‘Works with unlabeled data.
+
+Maps input to output based on prior [Groups similar data or detects
+knowledge. patterns.
+
+Clustering (K-Means, Hierarchical),
+
+Classification (Decision Trees, SVM, Dimensionality Reduction (PCA, t-
+
+‘Neural Networks), Regression.
+
+SNE).
+Spam email classification, disease Customer segmentation, anomaly
+prediction. detection.
+
+Discrete labels or continuous values. _|Clusters or hidden structures.
+
+Accuracv. Precision. Recall. RMSE. Silhouette score. Dunn index.
 --- page 12 ---
 Step 2: Compute information gain
 Step 3: Select root node
@@ -2920,6 +3482,56 @@ Final answer
 • Best attribute (root node) = A1
 • A1 provides maximum information gain
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Instance | al | a2 a3 Classification | Attribute: a1
+
+1 [True | Hot | High No
+2 True | Hot High No Values (a1) = True, False
+3 | False | Hot | High Yes
+4 [False | Cool | Normal Yes S = (6+, 4-] Entropy(S) = —* log. —* log. = 0.9709
+5 __| False | Cool | Normal Yes
+S| true [Ceol | High Ne Sram ted Entropy(Srrue) = ~4loga4 ~ log,’ = 0.7219
+7 | True | Hot | High No
+8 | True | Hot | Normal Yes Shag 154029 Rates oo
+2 _| False | Coot | Normal Yes
+10 | False [Cool | High Yes
+ISol
+Gain (S,a1) = Entropy(s) — “ay Entrovy(Sy)
+e(rieFal
+Example - 3 anes
+
+Decision Tree Algorithm -1D3 —¢ain(s,a1) = Entropy(S)- 5 Entropy Srrue) = < Entropy (Sratse)
+Solved Example
+
+5 5
+Gain(5,a1) = 0.9709- 7 + 0.7219 +1 = 0.6099
+
+Attribute: a2
+
+Values (a2) = Hot, Cool
+
+S = [6+, 4-] Entropy(S) = —< loge -* logos = 0.9709
+2 2 3 3
+
+Swot = (2+,3-] Entropy(Syot) = — = 1092~ — <l0g2— = 0.9709
+4 44 1
+
+Scoot — [4+, 1-] Entropy(Scooi) = ~,l0g2. = log2- = 0.7219
+
+Isol
+|S|
+
+v €{Hot,Cool)
+
+Gain (S,a2) = Entropy(S) — Entropy(Sy)
+
+5 5
+Gain(S,a2) = Entropy(S)— — Jo Entropy (Snot) — Jo Entropy (Scoot)
+
+5 5
+Gain(S,a2) = 0. 9709-75 + 0.9709 — Tg 0.7219 = 0.1245 E
+&
 --- page 13 ---
 Apriori   [10]
 Explain the principle of the Apriori algorithm – 3marks
@@ -2950,6 +3562,17 @@ Count support:
 • wireless mouse → 3 (T1, T2, T3)
 • keyboard → 2 (T1, T3)
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+Gain(S,a1) = 0.6099 — Maximum Gain
+Gain(S,a2) = 0.1245
+Gain(S,a3) = 0.4199
+
+True False
+
+1,2,6,7,8 3, 4,5, 9, 10
+
+Yes
 --- page 14 ---
 Frequent itemsets L1:
 • {laptop}, {wireless mouse}, {keyboard}

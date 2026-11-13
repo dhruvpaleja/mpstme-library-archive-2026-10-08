@@ -739,6 +739,29 @@ BL-3
 Take values W=0.9, c1=c2=1.5, r1=0.5949,r2=0.0855.
 Optimize and give solution after 1 iteration showing step by step process.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+P (Weather) = 0.75
+
+CD Crd
+
+Weather P(Flu)
+
+Weather P(Cough)
+
+T 0.2
+
+T 0.70
+
+E 0.5 F 0.25
+
+Flu Cough | P(Fever)
+
+T T 0.60
+T F 0.02
+F T 0.60
+
+F F 0.01
 --- page 4 ---
 CO-1;   b)   [10]
 SO-1;
@@ -966,6 +989,29 @@ BL-3
 Take values W=0.9, c1=c2=1.5, r1=0.5949,r2=0.0855.
 Optimize and give solution after 1 iteration showing step by step process.
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+P (Weather) = 0.75
+
+CD Crd
+
+Weather P(Flu)
+
+Weather P(Cough)
+
+T 0.2
+
+T 0.70
+
+E 0.5 F 0.25
+
+Flu Cough | P(Fever)
+
+T T 0.60
+T F 0.02
+F T 0.60
+
+F F 0.01
 --- page 4 ---
 CO-1;   b)   [10]
 SO-1;

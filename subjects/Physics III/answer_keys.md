@@ -1433,6 +1433,7 @@ CO-3; BL-   c.   Examine Ampere’s law of electromagnetism.
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/Integrated_Computer_7032/Physics-III/ANS_Physics-III(701BS0C016)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 Feb 2025
 - Text: text (11 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1507,6 +1508,17 @@ the angle between dl and r. According to Biot-Savart law, the magnitude
 of magnetic field at point P will be given as
 𝑑𝐵∝𝐼   (1)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Diffraction phenomenon can be classified into following two general classes:
+
+FRESNEL’S DIFFRACTION FRAUNHOFER’S DIFFRACTION
+= The source and the screen are placed =" The source and the screen are
+at finite distances from the aperture placed at infinity or optically at
+of the obstacle having sharp edges. infinity.
+« The incident wavefronts are either "The incident wavefront is plane.
+
+spherical or cylindrical.
 --- page 3 ---
 𝑑𝐵∝𝑑𝑙   (2)
 𝑑𝐵∝𝑆𝑖𝑛 𝜃   (3)
@@ -1612,6 +1624,26 @@ CO-1; BL-   Ans. Collection of data.
 Now, Hall voltage is given by 𝑉𝐻=   𝐼𝑥 𝐵𝑧   2 marks
 𝑞𝑡𝑛0
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+
+Junction
+Pp n
+
+0,0,0) 0 Cole ee
+0,9429| 09/06 | eC ele @ electron
+O00 O0| eo] qq, e°0% | © hot
+!<—Space Charge —
+H Or
+\ Depletion region
+
+|
+
+Potential baniee height (Vo)
+Potential
+Barrier
+Width
+(w)
 --- page 6 ---
 𝐼𝑥   𝐼𝑥𝐵𝑧   (200𝐴)(1.5 𝑚2 𝑊𝑏 )   𝑚3
 Or 𝑉𝐻=   𝐵𝑧= 𝑡𝑅𝐻=   (− 6 𝑥 10−7 𝐶) = − 0.18 𝑉
@@ -1638,6 +1670,20 @@ CO-2; BL-   These rings are known as Newton’s rings.   3 marks
 [10]
 1,2
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Let us consider the vertical section SOP of the plano convex lens through its centre of curvature’
+C,as shown in Fig . Let R be the radius of curvature of the plano convex lens and © be the
+point of
+
+contact of the lens with the plane surface. Let t be the thickness of the air film at S and p. Draw
+ST and PQ perpendiculars to the plane surface of the glass plate. Then ST = AO = PQ =t
+
+Let rn be the radius of the nth dark ring which passes through the points $ and P.
+
+Then SA = AP = ty
+
+I£ ON is the vertical diameter of the circle, then by the law of segments
 --- page 7 ---
 Figure 2 marks
 Derivation 5 marks
@@ -1671,6 +1717,31 @@ Ruby laser)
 4 points = 4 marks
 D   [20]
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+SA. AP = OA. AN
+
+x2 = t(2R4)
+ri = 2 Rt {meglecting t? comparing with 2R) N
+at =
+R
+According to the condition for darlmess c
+ot = nh So JAF
+2 t
+= nh T Oo. @
+
+Fig . Radius of
+
+5 .
+ry, = nRA or 4, = YnRd
+» Newton's rings
+
+n
+
+Since R and 4 are constants, we find that the radius of the dark ring is directly propor|
+square root of its order. i.e. rl o 1, 12
+
+2. 13 « 3, and so on. It is clear that the rings get closer as n increases.
 --- page 8 ---
 a.   What is an optical fiber? Discuss different types of loss mechanisms that affect
 the signal degradation in the optical fibers.
@@ -1828,6 +1899,7 @@ CO-3; BL-   c.   Examine Ampere’s law of electromagnetism.
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/Integrated_DS_7038/Physics-III/ANS_Physics-III(701BS0C016)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 Feb 2025
 - Text: text (11 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -1902,6 +1974,17 @@ the angle between dl and r. According to Biot-Savart law, the magnitude
 of magnetic field at point P will be given as
 𝑑𝐵∝𝐼   (1)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Diffraction phenomenon can be classified into following two general classes:
+
+FRESNEL’S DIFFRACTION FRAUNHOFER’S DIFFRACTION
+= The source and the screen are placed =" The source and the screen are
+at finite distances from the aperture placed at infinity or optically at
+of the obstacle having sharp edges. infinity.
+« The incident wavefronts are either "The incident wavefront is plane.
+
+spherical or cylindrical.
 --- page 3 ---
 𝑑𝐵∝𝑑𝑙   (2)
 𝑑𝐵∝𝑆𝑖𝑛 𝜃   (3)
@@ -2007,6 +2090,26 @@ CO-1; BL-   Ans. Collection of data.
 Now, Hall voltage is given by 𝑉𝐻=   𝐼𝑥 𝐵𝑧   2 marks
 𝑞𝑡𝑛0
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+
+Junction
+Pp n
+
+0,0,0) 0 Cole ee
+0,9429| 09/06 | eC ele @ electron
+O00 O0| eo] qq, e°0% | © hot
+!<—Space Charge —
+H Or
+\ Depletion region
+
+|
+
+Potential baniee height (Vo)
+Potential
+Barrier
+Width
+(w)
 --- page 6 ---
 𝐼𝑥   𝐼𝑥𝐵𝑧   (200𝐴)(1.5 𝑚2 𝑊𝑏 )   𝑚3
 Or 𝑉𝐻=   𝐵𝑧= 𝑡𝑅𝐻=   (− 6 𝑥 10−7 𝐶) = − 0.18 𝑉
@@ -2033,6 +2136,20 @@ CO-2; BL-   These rings are known as Newton’s rings.   3 marks
 [10]
 1,2
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Let us consider the vertical section SOP of the plano convex lens through its centre of curvature’
+C,as shown in Fig . Let R be the radius of curvature of the plano convex lens and © be the
+point of
+
+contact of the lens with the plane surface. Let t be the thickness of the air film at S and p. Draw
+ST and PQ perpendiculars to the plane surface of the glass plate. Then ST = AO = PQ =t
+
+Let rn be the radius of the nth dark ring which passes through the points $ and P.
+
+Then SA = AP = ty
+
+I£ ON is the vertical diameter of the circle, then by the law of segments
 --- page 7 ---
 Figure 2 marks
 Derivation 5 marks
@@ -2066,6 +2183,31 @@ Ruby laser)
 4 points = 4 marks
 D   [20]
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+SA. AP = OA. AN
+
+x2 = t(2R4)
+ri = 2 Rt {meglecting t? comparing with 2R) N
+at =
+R
+According to the condition for darlmess c
+ot = nh So JAF
+2 t
+= nh T Oo. @
+
+Fig . Radius of
+
+5 .
+ry, = nRA or 4, = YnRd
+» Newton's rings
+
+n
+
+Since R and 4 are constants, we find that the radius of the dark ring is directly propor|
+square root of its order. i.e. rl o 1, 12
+
+2. 13 « 3, and so on. It is clear that the rings get closer as n increases.
 --- page 8 ---
 a.   What is an optical fiber? Discuss different types of loss mechanisms that affect
 the signal degradation in the optical fibers.
@@ -2223,6 +2365,7 @@ CO-3; BL-   c.   Examine Ampere’s law of electromagnetism.
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/Integrated_IT_7037/Physics-III/ANS_Physics-III(701BS0C016)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 Feb 2025
 - Text: text (11 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2297,6 +2440,17 @@ the angle between dl and r. According to Biot-Savart law, the magnitude
 of magnetic field at point P will be given as
 𝑑𝐵∝𝐼   (1)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Diffraction phenomenon can be classified into following two general classes:
+
+FRESNEL’S DIFFRACTION FRAUNHOFER’S DIFFRACTION
+= The source and the screen are placed =" The source and the screen are
+at finite distances from the aperture placed at infinity or optically at
+of the obstacle having sharp edges. infinity.
+« The incident wavefronts are either "The incident wavefront is plane.
+
+spherical or cylindrical.
 --- page 3 ---
 𝑑𝐵∝𝑑𝑙   (2)
 𝑑𝐵∝𝑆𝑖𝑛 𝜃   (3)
@@ -2402,6 +2556,26 @@ CO-1; BL-   Ans. Collection of data.
 Now, Hall voltage is given by 𝑉𝐻=   𝐼𝑥 𝐵𝑧   2 marks
 𝑞𝑡𝑛0
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+
+Junction
+Pp n
+
+0,0,0) 0 Cole ee
+0,9429| 09/06 | eC ele @ electron
+O00 O0| eo] qq, e°0% | © hot
+!<—Space Charge —
+H Or
+\ Depletion region
+
+|
+
+Potential baniee height (Vo)
+Potential
+Barrier
+Width
+(w)
 --- page 6 ---
 𝐼𝑥   𝐼𝑥𝐵𝑧   (200𝐴)(1.5 𝑚2 𝑊𝑏 )   𝑚3
 Or 𝑉𝐻=   𝐵𝑧= 𝑡𝑅𝐻=   (− 6 𝑥 10−7 𝐶) = − 0.18 𝑉
@@ -2428,6 +2602,20 @@ CO-2; BL-   These rings are known as Newton’s rings.   3 marks
 [10]
 1,2
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Let us consider the vertical section SOP of the plano convex lens through its centre of curvature’
+C,as shown in Fig . Let R be the radius of curvature of the plano convex lens and © be the
+point of
+
+contact of the lens with the plane surface. Let t be the thickness of the air film at S and p. Draw
+ST and PQ perpendiculars to the plane surface of the glass plate. Then ST = AO = PQ =t
+
+Let rn be the radius of the nth dark ring which passes through the points $ and P.
+
+Then SA = AP = ty
+
+I£ ON is the vertical diameter of the circle, then by the law of segments
 --- page 7 ---
 Figure 2 marks
 Derivation 5 marks
@@ -2461,6 +2649,31 @@ Ruby laser)
 4 points = 4 marks
 D   [20]
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+SA. AP = OA. AN
+
+x2 = t(2R4)
+ri = 2 Rt {meglecting t? comparing with 2R) N
+at =
+R
+According to the condition for darlmess c
+ot = nh So JAF
+2 t
+= nh T Oo. @
+
+Fig . Radius of
+
+5 .
+ry, = nRA or 4, = YnRd
+» Newton's rings
+
+n
+
+Since R and 4 are constants, we find that the radius of the dark ring is directly propor|
+square root of its order. i.e. rl o 1, 12
+
+2. 13 « 3, and so on. It is clear that the rings get closer as n increases.
 --- page 8 ---
 a.   What is an optical fiber? Discuss different types of loss mechanisms that affect
 the signal degradation in the optical fibers.
@@ -2618,6 +2831,7 @@ CO-3; BL-   c.   Examine Ampere’s law of electromagnetism.
 - Source: `02_Question_Papers/2024/Sem_03/Re-Exam/Integrated_Mechanical_7031/Physics-III/ANS_Physics-III(701BS0C016)_2024-2025.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 15 Feb 2025
 - Text: text (11 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -2692,6 +2906,17 @@ the angle between dl and r. According to Biot-Savart law, the magnitude
 of magnetic field at point P will be given as
 𝑑𝐵∝𝐼   (1)
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Diffraction phenomenon can be classified into following two general classes:
+
+FRESNEL’S DIFFRACTION FRAUNHOFER’S DIFFRACTION
+= The source and the screen are placed =" The source and the screen are
+at finite distances from the aperture placed at infinity or optically at
+of the obstacle having sharp edges. infinity.
+« The incident wavefronts are either "The incident wavefront is plane.
+
+spherical or cylindrical.
 --- page 3 ---
 𝑑𝐵∝𝑑𝑙   (2)
 𝑑𝐵∝𝑆𝑖𝑛 𝜃   (3)
@@ -2797,6 +3022,26 @@ CO-1; BL-   Ans. Collection of data.
 Now, Hall voltage is given by 𝑉𝐻=   𝐼𝑥 𝐵𝑧   2 marks
 𝑞𝑡𝑛0
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+
+Junction
+Pp n
+
+0,0,0) 0 Cole ee
+0,9429| 09/06 | eC ele @ electron
+O00 O0| eo] qq, e°0% | © hot
+!<—Space Charge —
+H Or
+\ Depletion region
+
+|
+
+Potential baniee height (Vo)
+Potential
+Barrier
+Width
+(w)
 --- page 6 ---
 𝐼𝑥   𝐼𝑥𝐵𝑧   (200𝐴)(1.5 𝑚2 𝑊𝑏 )   𝑚3
 Or 𝑉𝐻=   𝐵𝑧= 𝑡𝑅𝐻=   (− 6 𝑥 10−7 𝐶) = − 0.18 𝑉
@@ -2823,6 +3068,20 @@ CO-2; BL-   These rings are known as Newton’s rings.   3 marks
 [10]
 1,2
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Let us consider the vertical section SOP of the plano convex lens through its centre of curvature’
+C,as shown in Fig . Let R be the radius of curvature of the plano convex lens and © be the
+point of
+
+contact of the lens with the plane surface. Let t be the thickness of the air film at S and p. Draw
+ST and PQ perpendiculars to the plane surface of the glass plate. Then ST = AO = PQ =t
+
+Let rn be the radius of the nth dark ring which passes through the points $ and P.
+
+Then SA = AP = ty
+
+I£ ON is the vertical diameter of the circle, then by the law of segments
 --- page 7 ---
 Figure 2 marks
 Derivation 5 marks
@@ -2856,6 +3115,31 @@ Ruby laser)
 4 points = 4 marks
 D   [20]
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+SA. AP = OA. AN
+
+x2 = t(2R4)
+ri = 2 Rt {meglecting t? comparing with 2R) N
+at =
+R
+According to the condition for darlmess c
+ot = nh So JAF
+2 t
+= nh T Oo. @
+
+Fig . Radius of
+
+5 .
+ry, = nRA or 4, = YnRd
+» Newton's rings
+
+n
+
+Since R and 4 are constants, we find that the radius of the dark ring is directly propor|
+square root of its order. i.e. rl o 1, 12
+
+2. 13 « 3, and so on. It is clear that the rings get closer as n increases.
 --- page 8 ---
 a.   What is an optical fiber? Discuss different types of loss mechanisms that affect
 the signal degradation in the optical fibers.

@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2025/Sem_04/Final-Exam/BTech_Mechatronics_7004/Microprocessor Systems and Interfacing/ANS_Microprocessor Systems and Interfacing(702MH0C026)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 08 May 2026
 - Text: text (19 pages)
+- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -37,6 +38,31 @@ the CPU fetches both through the same communication path. It mainly consists of
 a CPU, memory unit, input unit, and output unit, where the CPU includes the
 Control Unit, ALU, and registers.
 ********** 1 **********
+
+[Text in pictures on this page, read by OCR]
+teoec eee e- 2-2 ------ +
+i] Input Unit |
+t------------------- +
+
+|
+|
+System Bus |
+| |
+| |
+
+4---------------- +o ten nne----------------- +
+
+1 cPU | | Main Memory !
+
+| ---------------- l | ---------------2--2--- |
+
+| Control Unit | | Program + Data |
+
+| ALU | | stored together |
+
+| Registers i} +---------------------- +
+
++---------------- +
 --- page 2 ---
 In this architecture, the Control Unit fetches an instruction from memory, decodes
 it, and the ALU performs the required arithmetic or logical operation. Since
@@ -153,6 +179,21 @@ Generally higher and   Usually lower than
 Speed
 suitable for complex   microprocessors, commonly
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Microprocessor Microcontroller
+
+Sancrae “
+UNIT
+MICROCONTROLLER
+10 PORTS ROM
+ALU CPU REGISTERS
+
+COUNTERS|} TIMERS
+
+MICROPROCESSOR
+
+ADDRESS BUS DATA BUS CONTROL BUS ADDRESS BUS DATA BUS CONTROL BUS
 --- page 5 ---
 processing, often operating   used for real-time control tasks
 from MHz to GHz ranges.   in kHz to MHz ranges.
@@ -197,6 +238,48 @@ when external memory is interfaced.
 When the lower byte of the address appears on Port 0, ALE gives a high pulse to
 latch that address into an external latch such as 74LS373 or 74HC573. After
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Poti aito | 1 PLO XQ
+
+Vee 40 +5y
+
+Port leit] | 2 Pl.1 (ADMPFO.O 39 | Port oOBita
+(Address/Data 0)
+PortiBit2 | 3 PI.2 (AD1)P0.1 38 | Porto Bitd
+(Address/Data 1)
+(Address/Data 2)
+{Acddress/Data 3)
+Port 1 BitS | 6 PIS (ADAIPO.4 35 | Port 0 Bit
+(Address! Data 2)
+PortiBite | 7 Pi-6 (ADSPO.5 34 | Port O Bit 5
+(Address/Data 5}
+(Address/Data 6)
+Resetinput | 9 RST (ADFIPO.7 32 | Port O Bit 7
+(Address/Data 7)
+Port 3 Bito | 10 P3.01RxD) (VpevEA 31 | External Enable
+(Receive Data) {EPROM Programming Voltage)
+Port 3 Bit 1 11° PS. LITA (PROGIALE 30 ] Address Latch Enable
+(XMIT Data) (EPROM Program Pulse)
+Port 382 | 12 P3.201NTO) PSEN 29 | Program Store Enabie
+(interrupt 0}
+Port 3 Bit3 | 13 P3.30INTL) (A1SP2.7 28 | Port 2 Bit 7
+{Interrupt 1} {Address 15)
+Port 3 Bits | 14 P3.4(TO) (ALQP2.6 27 | Port2 Bite
+(Timer © input} (Address 14)
+Pot aBit 5 | 15 P3.5(T1) {A13)P2.5 26 | Port 2 Bit 5
+{Viewer L fmt) (Address 13)
+Pot 3 Bité | 16 P2.60WR) (ALZIP2Z.4 25 | Port 2 Bit 4
+(Write Strobe) (Address 12)
+Port 3Bit7 | 17 P3.7(RD) (ALDP2.3 24 | Port 2 Bit3
+(Read Strobe) (Address 11)
+Crystal Input 2 18 XTAL2 (A1QVP2.2 23 | Port 2 Bit 2
+(Address 10)
+Crystal Input 1 | 19 xKTALL {A9)P2.1 22 | Port 2 Bit
+(Address 97
+Ground | 20 Wss (AB)P2.0 21 | Port 2 Bito
+
+(Address By
 --- page 7 ---
 latching, Port 0 can then be used for data transfer, so ALE helps separate address
 and data from the same port lines.
@@ -343,6 +426,47 @@ Bank 2: 10H-17H, and Bank 3: 18H-1FH.
 Only one register bank is active at a time, and the active bank is selected by the
 RS1 and RS0 bits of the Program Status Word register. By default, after reset, Bank
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Byte
+Address Bit address
+b7 b6é b5 b4 b3 b2 b1 bO
+
+7Fh
+General purpose
+RAM area.
+80 bytes
+30h
+2Fh TF 7B
+2Eh TI 70
+2Dh oF 68
+Ch 67 60 Internal Memory
+2Bh 3F 38 FFh
+2Ah 37 30 en
+29h 4F 48 SFRs
+38h 47 40
+27h 3F 38 ,
+26h 37 30 a
+25h 2F 28 :
+24h 27 20 Ss Internal
+23h 1F 18 se RAM
+22h 17 10 rex
+21h OF 08 Ooh
+20h o7 00 4
+1Fh Regs 0 ..7 (Bank 1)
+18h
+17h Regs 0 ..7 (Bank 1)
+10h
+OFh Regs 0 ..7 (Bank 1) Register Bank 0
+O8h _ ,
+07h Regs 0.7 (Bank 0) oon ORs
+00h 05h
+pen
+03h
+02h
+
++ Olb
+00h
 --- page 12 ---
 0 is selected, so R0-R7 correspond to addresses 00H-07H unless the program
 changes the bank selection.
@@ -529,6 +653,27 @@ If A = 3CH, then after SWAP A, A = C3H.
 CO2, SO1,   b. Draw and explain the Bus Unit of the Pentium processor. Describe the functions of [10]
 BL2   address drivers, data bus transceivers, bus control logic, write buffers.
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+Pentium Processor - Bus Unit
+
+I BUS UNIT |
+
+| Address Drivers / Receivers |
+| Data Bus Transceivers |
+| Bus Control Logic |
+| Two 64-bit Write Buffers |
+| Bus Master Control |
+| Parity Generation and Checking |
+| L2 Cache / External Bus Interface
+
+$-------------------------------------------------- +
+I | I
+I | I
+Address Bus Data Bus Control Signals
+(A31-A3, BE7-BEO) 64-bit MEM / I/O / Burst
+
+External Memory / I/0 Devices
 --- page 18 ---
 The Bus Unit of the Pentium processor provides the interface between the CPU and
 external memory or I/O devices, and it is responsible for sending addresses,
@@ -785,6 +930,29 @@ CO3,   it corresponding ASCII codes: 91H, store the result back in data segment.
 SO1,   1. Draw a proper flowchart.   4
 BL5   2. Write the code with proper comments for each step.   4
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+H Address Bus (20- bit)
+
+AH [AL_] AX '
+BH | BL_| BX '
+CH | CL_ | CX !
+General DH, DL | DX H
+Registers SP '
+BP '
+ALU Data bus (16 bit) F
+ata bus i '
+u Internal Bus
+T_T Communicati Control 8086 Bus
+Temporary| ' Registers Logic
+Registers |] :
+
+lntemal Instruction queue
+
+U Q Bus
+Control 5 5a) Ls tse}
+
+System
 --- page 5 ---
 3. State the role of flag register during operation.   2
 CO2, b. Describe the need for cache architecture in the evolution of the Pentium processor. Explain [10]
@@ -873,6 +1041,30 @@ decremented.
 8. When the count reaches terminal count, the DMA transfer ends, the controller
 releases the bus, and the CPU regains control.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+ADDRESS
+
+LATCHES
+ADB-AD15
+im ADDRESS BUS
+-——o
+MEMORY
+DATA BUS
+uP DATA BUS
+°
+CONTROL BUS
+sen hUe CONTROL BUS
+IOR, |OW
+HLDAHOLD | MEMW, MEMR
+DATABUS
+HRQ
+DMA CONTROL BUS
+NTROLLER TOR, low
+HLDA co red a PERIPHERAL Pog
+i preq MEMW. DEVICE | CONTROLLER)
+
+DACKO f
 --- page 7 ---
 CO2, b. List the features of 8051 microcontroller also explain the timing and control unit of 8051   [10]
 SO1,   microcontroller.
@@ -1146,4 +1338,16 @@ d. Output of Flag registers when number is smaller and when number greater.   2
 1. Draw a proper flowchart.
 One possible solution with proper screen shots
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+Exchange data in
+Accumulator and the
+array
+
+Initialize DS with address of data
+segment
+RESET Registers AX, BX and CX
+
+Compare with next
+number in the array
 ````

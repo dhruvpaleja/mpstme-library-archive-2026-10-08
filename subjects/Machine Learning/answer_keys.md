@@ -225,6 +225,38 @@ Suppose a set D of d tuples, at each iteration i, a training set Di of d tuples 
 selected via row sampling with a replacement method (i.e., there can be repetitive
 elements from different d tuples) from D (i.e., bootstrap). Then a classifier model
 ********** 15 **********
+
+[Text in pictures on this page, read by OCR]
+Complete Linkage
+
+Step 4; Fill in the first blank entry by finding the maximum distance,
+
+Step 1:
+AB ¢q Dp
+Al 8) q o AE 0
+A ty) 10 40 100 cl a
+B 10) i) 20) 80) D 0
+is 40 20 i) 50
+O 100) 20) 50) 0 - -
+Stoo 2 idantiy tha palr withthe shortast distunce. For this exam that’s A, B. Step 5: findingthe maximum distance between pairs,
+AB ¢q Dp
+A i} c DB -
+A,B! tt) 40) 100)
+A ] 10 40 100 : Fi 77 , 50
+B 10 a 20 a0
+D 100) 50) 0
+if 40 20 ] 50
+B 100 a) 50 0 Step 6: Repeat Steps 2 ta 4.on the new matrix
+ABC op D
+Step 3: Make a new matrix with the combined pair (from Step 1). A,B,C ) 100) 100)
+Dp 100) 0 50
+AB ¢ b D 100) 50 i)
+AB a
+- Step 7:
+é a ul
+i) 0 A8,C.D
+
+ABCD a
 --- page 16 ---
 Mi is learned for each training set D < i. Each classifier Mi returns its class
 prediction. The bagged classifier M* counts the votes and assigns the class with
@@ -676,6 +708,39 @@ CO-3;   regression equation in the form Y = aX + b. Also predict a sale for day 
 SO-2;   Day (X)   1   2   3   4   5   6   7
 BL-3   Sales (Y)   9   8   10   12   11   13   14
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+use eclidian distance formula and claculate all distances from given intial clusters
+
+Object [X1 xX? C1Q.2) C2(11) | cluster assignment
+A 2 2 0 1414214 |Cl
+
+B 3 2 1 2.236068 |C1
+
+Cc 1 1 1414213562 |0 C2
+
+D 3 1 1414213362 2 cl
+
+E 14 05 158113883 = |O.707107 |C2
+
+Cl 2.666667 1.666667
+
+C2 125 0.75
+
+recalculate ditances according to new centroid
+therefore clusters after first iterationG1(A.B.D)andG2(C.E)
+
+Object |X1 x2 C1(2.67.1.67))C2(1.25.0 cluster assignment
+A 2 2 0.74686009 |1.45774 |C1
+B 3 2 0.46669048 [2.15058 [C1
+C 1 1 1.79938879 [0.35355 [C2
+D 3 ] 0.74686009 |1.76777 |C1
+E 15 0.5 1.65462987 |0.35355 |C2
+
+therefore clusters after second iteration G1(/A.B DjandGiy/CE)
+
+cluster reamin same after 2nd interation so we stop and final clusters are
+GI(ABD)andG2(CE)
 --- page 9 ---
 Table calculation – 2 marks
 Calculation of coefficients – 4 marks
@@ -1261,6 +1326,39 @@ CO-3;   regression equation in the form Y = aX + b. Also predict a sale for day 
 SO-2;   Day (X)   1   2   3   4   5   6   7
 BL-3   Sales (Y)   9   8   10   12   11   13   14
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+use eclidian distance formula and claculate all distances from given intial clusters
+
+Object [X1 xX? C1Q.2) C2(11) | cluster assignment
+A 2 2 0 1414214 |Cl
+
+B 3 2 1 2.236068 |C1
+
+Cc 1 1 1414213562 |0 C2
+
+D 3 1 1414213362 2 cl
+
+E 14 05 158113883 = |O.707107 |C2
+
+Cl 2.666667 1.666667
+
+C2 125 0.75
+
+recalculate ditances according to new centroid
+therefore clusters after first iterationG1(A.B.D)andG2(C.E)
+
+Object |X1 x2 C1(2.67.1.67))C2(1.25.0 cluster assignment
+A 2 2 0.74686009 |1.45774 |C1
+B 3 2 0.46669048 [2.15058 [C1
+C 1 1 1.79938879 [0.35355 [C2
+D 3 ] 0.74686009 |1.76777 |C1
+E 15 0.5 1.65462987 |0.35355 |C2
+
+therefore clusters after second iteration G1(/A.B DjandGiy/CE)
+
+cluster reamin same after 2nd interation so we stop and final clusters are
+GI(ABD)andG2(CE)
 --- page 9 ---
 Table calculation – 2 marks
 Calculation of coefficients – 4 marks
@@ -1846,6 +1944,39 @@ CO-3;   regression equation in the form Y = aX + b. Also predict a sale for day 
 SO-2;   Day (X)   1   2   3   4   5   6   7
 BL-3   Sales (Y)   9   8   10   12   11   13   14
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+use eclidian distance formula and claculate all distances from given intial clusters
+
+Object [X1 xX? C1Q.2) C2(11) | cluster assignment
+A 2 2 0 1414214 |Cl
+
+B 3 2 1 2.236068 |C1
+
+Cc 1 1 1414213562 |0 C2
+
+D 3 1 1414213362 2 cl
+
+E 14 05 158113883 = |O.707107 |C2
+
+Cl 2.666667 1.666667
+
+C2 125 0.75
+
+recalculate ditances according to new centroid
+therefore clusters after first iterationG1(A.B.D)andG2(C.E)
+
+Object |X1 x2 C1(2.67.1.67))C2(1.25.0 cluster assignment
+A 2 2 0.74686009 |1.45774 |C1
+B 3 2 0.46669048 [2.15058 [C1
+C 1 1 1.79938879 [0.35355 [C2
+D 3 ] 0.74686009 |1.76777 |C1
+E 15 0.5 1.65462987 |0.35355 |C2
+
+therefore clusters after second iteration G1(/A.B DjandGiy/CE)
+
+cluster reamin same after 2nd interation so we stop and final clusters are
+GI(ABD)andG2(CE)
 --- page 9 ---
 Table calculation – 2 marks
 Calculation of coefficients – 4 marks
@@ -2431,6 +2562,39 @@ CO-3;   regression equation in the form Y = aX + b. Also predict a sale for day 
 SO-2;   Day (X)   1   2   3   4   5   6   7
 BL-3   Sales (Y)   9   8   10   12   11   13   14
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+use eclidian distance formula and claculate all distances from given intial clusters
+
+Object [X1 xX? C1Q.2) C2(11) | cluster assignment
+A 2 2 0 1414214 |Cl
+
+B 3 2 1 2.236068 |C1
+
+Cc 1 1 1414213562 |0 C2
+
+D 3 1 1414213362 2 cl
+
+E 14 05 158113883 = |O.707107 |C2
+
+Cl 2.666667 1.666667
+
+C2 125 0.75
+
+recalculate ditances according to new centroid
+therefore clusters after first iterationG1(A.B.D)andG2(C.E)
+
+Object |X1 x2 C1(2.67.1.67))C2(1.25.0 cluster assignment
+A 2 2 0.74686009 |1.45774 |C1
+B 3 2 0.46669048 [2.15058 [C1
+C 1 1 1.79938879 [0.35355 [C2
+D 3 ] 0.74686009 |1.76777 |C1
+E 15 0.5 1.65462987 |0.35355 |C2
+
+therefore clusters after second iteration G1(/A.B DjandGiy/CE)
+
+cluster reamin same after 2nd interation so we stop and final clusters are
+GI(ABD)andG2(CE)
 --- page 9 ---
 Table calculation – 2 marks
 Calculation of coefficients – 4 marks
@@ -3016,6 +3180,39 @@ CO-3;   regression equation in the form Y = aX + b. Also predict a sale for day 
 SO-2;   Day (X)   1   2   3   4   5   6   7
 BL-3   Sales (Y)   9   8   10   12   11   13   14
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+use eclidian distance formula and claculate all distances from given intial clusters
+
+Object [X1 xX? C1Q.2) C2(11) | cluster assignment
+A 2 2 0 1414214 |Cl
+
+B 3 2 1 2.236068 |C1
+
+Cc 1 1 1414213562 |0 C2
+
+D 3 1 1414213362 2 cl
+
+E 14 05 158113883 = |O.707107 |C2
+
+Cl 2.666667 1.666667
+
+C2 125 0.75
+
+recalculate ditances according to new centroid
+therefore clusters after first iterationG1(A.B.D)andG2(C.E)
+
+Object |X1 x2 C1(2.67.1.67))C2(1.25.0 cluster assignment
+A 2 2 0.74686009 |1.45774 |C1
+B 3 2 0.46669048 [2.15058 [C1
+C 1 1 1.79938879 [0.35355 [C2
+D 3 ] 0.74686009 |1.76777 |C1
+E 15 0.5 1.65462987 |0.35355 |C2
+
+therefore clusters after second iteration G1(/A.B DjandGiy/CE)
+
+cluster reamin same after 2nd interation so we stop and final clusters are
+GI(ABD)andG2(CE)
 --- page 9 ---
 Table calculation – 2 marks
 Calculation of coefficients – 4 marks
@@ -3239,7 +3436,7 @@ Final dendogram— (1 mark)
 - Programmes: BTech CSBS 7036
 - Source: `02_Question_Papers/2025/Sem_05/Final-Exam/BTech_CSBS_7036/Machine Learning/ANS_Machine Learning(702CO1E001)_2025-2026.docx`
 - Printed on paper: duration hours: 3
-- Text: docx (1 page)
+- Text: mixed (17 pages), mean OCR confidence 87.4
 
 ````text
 SVKM’S NMIMS
@@ -3799,6 +3996,229 @@ Balanced folds help the model learn representative patterns from minority classe
 
 |
 |
+--- page 2 ---
+Each weight changed by:
+Aw — 170 ,0,
+o,=0,1—0,)}(t, =0,) if 7 is an output unit
+0,=0,(1-o, > OW, if 71s a hidden unit
+~@¢
+where n is a constant called the learning rate
+
+tj is the correct teacher output for unit j
+dj is the error measure for unit j
+--- page 3 ---
+Input:
+D={ty.ty...8,}   // Set of elements
+A // Adjacency matrix showing distance between elements.
+k   [/ Number of desired clusters.
+Output:
+K   [} Set of clusters.
+K-Means Algorithm:
+assign initial values for means m1,172,..., Mp §
+repeat
+assign each item ¢; to the cluster which has the closest mean ;
+calculate new mean for each cluster;
+until convergence criteria is met;
+--- page 4 ---
+@ Each tuple is denoted by (X;, Y;) where X; = (X;j1,Xjo
+corresponds to the attribute set for the i" tuple (data in
+m-dimensional space) and Y; « [+,-] denotes its class label.
+
+@ Note that choice of which class should be labeled as + or - is
+arbitrary.
+--- page 5 ---
+@ Let us consider a 2-D training tuple with attributes A; and Az as
+X =(X;,Xe), where x; and Xo are values of attributes A; and Ap,
+respectively for X.
+
+e@ Equation of a plane in 2-D space can be written as
+
+Wo + WiX1 + Wex2=0 ~~ [eg., ax+by+c=0]
+
+where Wo, W1, and Wo are some constants defining the slope and
+intercept of the line.
+
+e@ Any point lying above such a hyperplane satisfies
+
+Wo + Wy X1 + WoX2 > 0 (1)
+--- page 6 ---
+@ Similarly, any point lying below the hyperplane satisfies
+
+Wo + W1X4 + WoXe < 0 (2)
+@ An SVM hyperplane is an n-dimensional generalization of a
+straight line in 2-D.
+
+@ It can be visualized as a plane surface in 3-D, but it is not easy to
+visualize when dimensionality is greater than 3!
+--- page 7 ---
+@ In fact, Euclidean equation of a hyperplane in R” is
+
+W1X1 + WeX2 + + WmXm = 6 (3)
+
+where w;’s are the real numbers and bis a real constant (called
+the intercept, which can be positive or negative).
+--- page 8 ---
+@ In matrix form, a hyperplane thus can be represented as
+
+W.X+b=0 (4)
+
+where W =[W1,Wo
+constant.
+
+Xm] and b is a real
+
+e@ Here, W and b are parameters of the classifier model to be
+evaluated given a training set D.
+--- page 9 ---
+@ Let us consider a two-dimensional training set consisting two
+classes + and - as shown in Fig. 4.
+
+@ Suppose, 6b; and bp are two decision boundaries above and below
+a hyperplane, respectively.
+
+@ Consider any two points X, and X_ as shown in Fig. 4.
+
+e@ For X. located above the decision boundary, the equation can be
+written as
+
+W.Xi,+b=K where K > 0 (5)
+--- page 10 ---
+@ Similarly, for any point X_ located below the decision boundary,
+the equation is
+
+W.X_+b=k’ where kK’ <0 (6)
+
+e@ Thus, if we label all +’s are as class label + and all -’s are class
+label -, then we can predict the class label Y for any test data X as
+
+(yy- ft fWx+b>0
+~) — ifW.xXx+b<0
+--- page 11 ---
+@ Suppose, x; and Xz (refer Figure 3) are two points on the decision
+boundaries 6; and bo, respectively. Thus,
+
+W.x;+b=1 (7)
+W.X2+b=-1 (8)
+
+or
+W.(X; _ X2) =2 (9)
+
+@ This represents a dot (.) product of two vectors W and x;-X2. Thus
+taking magnitude of these vectors, the equation obtained is
+
+2
+—_<_ 10
+WI (10)
+
+where ||W|| = we + we + .......w%, in an m-dimension space.
+--- page 12 ---
+Let us say that we have two vectors with name x1 and
+Y1, then the linear kernel is defined by the dot product
+of these two vectors:
+
+Linear
+
+variable 1
+--- page 13 ---
+Polynomial Kernel
+A polynomial kernel is defined by the following
+equation:
+
+K(x1,%2) = (x1 * x2+1)d
+
+where d is the degree of the polynomial and x1 and x2 are vectors.
+--- page 14 ---
+When the linear result (z) is passed through this function, the output P(y = 1|x) represents
+the probability that the binary outcome y is equal to 1, given the features x. @
+
+1
+
+Plu = 1x) = TBF)
+--- page 15 ---
+Given
+
+Year (X) 2005 2006 2007 2008 2009
+Sales Y(million$)12 19 29 37 45
+
+To simplify, set x = X — 2005. Then x = 0,1,2,3,4.
+
+(a) Least squares regression line y = ax + b----5 marks
+
+Compute sums (for xand yin the simplified scale):
+
+n =5
+
+=x =0+1+2+3+4=10
+Ly = 124+19+29+37+45 = 142
+x? = 0? + 12+ 27 + 37 +4? = 30
+
+Yxy =0-124+1-19+2-29+3-37+4-45 = 368
+
+Slope a:
+
+_ n¥xy —(Zx)(Ly) _ 5(368)— 10(142) 1840-1420 420
+~ nyx?-(Ex)? ——«5(30)- 10? ——si50—100 ~=—50
+= 84
+
+Intercept b:
+
+—ayx 142-8.4(10 142-84 58
+p = BY Oke _ (20) _ =—=116
+n 5 5 5
+
+Thus the regression line (in terms of x = X¥ — 2005) 1s:
+
+3 = 84x +116
+
+Or, in original year Xterms:
+
+§ = 8.4(X — 2005) + 11.6.
+--- page 16 ---
+(b) Estimate sale in 2012—2marks
+
+For 2012: x = 2012 — 2005 = 7.
+
+Jooi2 = 8.4(7) + 11.6 = 58.8 + 11.6 = [70.4 million $
+
+(c) Find MSE and comment— 2 marks for MSE and 1 mark for
+inerence
+
+First compute predicted values and residuals for the data:
+
+Year x Actual y Predicted f = 8.4x + 11.6 Residual e = y—f e?
+
+2005 0 12.0 11.6 +0.4 0.16
+2006 1 19.0 20.0 —1.0 1.00
+2007 2 29.0 28.4 +0.6 0.36
+2008 3 37.0 36.8 +0.2 0.04
+2009 4 45.0 45.2 —0.2 0.04
+Sum of squared errors (SSE):
+
+SSE = De? = 0.16 + 1.00 + 0.36 + 0.04 + 0.04 = 1.60
+
+MSE (mean squared error, using nfor average prediction error):
+
+SSE 1.60 ae 2
+MSE = a = s. = |0.32 (million $y"
+
+RMSE (for interpretability in dollars):
+
+RMSE = VMSE = V0.32 ¥ [0.57 million $
+
+(If instead estimating residual variance for inference, use n — 2 = 3in
+denominator: s? = 1.60/3 ¥ 0.533and s ¥ 0.73.)
+--- page 17 ---
+Comment on performance (based on MSE)
+
+« MSE=0.32 means the average squared prediction error is 0.32 (:
+
+e« Compared to sales values (12-45 million), an average error of about
+$0.57 million is very small.
+
+e Therefore the linear model fits the data very well and is appropriate
+for prediction in this range (subject to usual caveats about
+extrapolation — e.g., predictions far beyond observed years may be
+less reliable).
 ````
 
 ## 2025-26 · Final-Exam · Sem 5 · Answer key · paper e92cca887dca
@@ -3862,6 +4282,17 @@ Bootstrap sampling is a technique of creating multiple datasets from the origina
 sampling with replacement. This means each sample in the original dataset can appear more than once
 or not at all in a new dataset.
 2
+
+[Text in pictures on this page, read by OCR]
+Each weight changed by:
+Aw; = 779 ;O,
+0, =0,d—0,)¢,—0,) if 7 isan output unit
+6, =0,0-o, > OW if 7 isa hidden unit
+— @
+where n is a constant called the learning rate
+
+tj is the correct teacher output for unit j
+5j is the error measure for unit j
 --- page 3 ---
 Creating Training Datasets in Bagging:
 Suppose the original dataset has 1000 samples.
@@ -3918,6 +4349,20 @@ Numerical carries marks
 •   K1={2,3,4,10,11,12},K2={20,30,25}, m1=7,m2=25
 •   Stop as the clusters with these means are the same.
 4
+
+[Text in pictures on this page, read by OCR]
+Input:
+D={ty.ty...8,}   // Set of elements
+A // Adjacency matrix showing distance between elements.
+k   [/ Number of desired clusters.
+Output:
+K   [} Set of clusters.
+K-Means Algorithm:
+assign initial values for means m1,172,..., Mp §
+repeat
+assign each item ¢; to the cluster which has the closest mean ;
+calculate new mean for each cluster;
+until convergence criteria is met;
 --- page 5 ---
 Q3
 a) How does SVM find the optimal separating hyperplane for binary classification? Explain how SVM
@@ -3928,6 +4373,22 @@ carries 5 marks
 •   In other words, a linear SVM searches for a hyperplane with the maximum margin.
 •   This is why a linear SVM is often termed as a maximal margin classifier (MMC).
 5
+
+[Text in pictures on this page, read by OCR]
+@ Let us consider a 2-D training tuple with attributes A; and Az as
+X =(X;,.X2), where x; and x2 are values of attributes A; and Ap,
+respectively for X.
+
+@ Equation of a plane in 2-D space can be written as
+
+Wo + WiX4 + Wex2=0 [eg., ax+by+c=0]
+
+where Wo, W1, and W2 are some constants defining the slope and
+intercept of the line.
+
+@ Any point lying above such a hyperplane satisfies
+
+Wo + W1X1 + WeX2 > 0 (1)
 --- page 6 ---
 @ In matrix form, a hyperplane thus can be represented as
 
@@ -3984,6 +4445,25 @@ Common kernel functions include:
 function.
 •   Sigmoid Kernel: Similar to a neural network activation function.
 7
+
+[Text in pictures on this page, read by OCR]
+@ Suppose, x; and x2 (refer Figure 3) are two points on the decision
+boundaries b; and be, respectively. Thus,
+
+W.x;+b=1 (7)
+W.xX2 + b= —1 (8)
+
+or
+W.(X4 _ Xp) =2 (9)
+
+@ This represents a dot (.) product of two vectors W and x1-X2. Thus
+taking magnitude of these vectors, the equation obtained is
+
+2
+d=——_ 10
+a ")
+
+where ||W|| = \/w? + wé + .......wz, in an m-dimension space.
 --- page 8 ---
 •
 If we cannot draw a straight line (or hyperplane) to separate the classes in the input space, SVM
@@ -3996,6 +4476,17 @@ linear equation into the range of [0,1].
 Here is a breakdown of the three key steps:
 1. The Linear Model (The "Input")
 8
+
+[Text in pictures on this page, read by OCR]
+Let us say that we have two vectors with name x1 and
+Y1, then the linear kernel is defined by the dot product
+of these two vectors:
+
+Linear
+
+K (2%, 2) = (1 * X2)
+
+variable 1.
 --- page 9 ---
 Like Linear Regression, Logistic Regression begins by calculating a linear combination of the
 input features (x) and their corresponding weights (β), plus an intercept (β0 or b). This
@@ -4022,6 +4513,14 @@ Ans:
 𝑃=   =   ≈0.789
 1 + 𝑒−1.318 1 + 0.268
 9
+
+[Text in pictures on this page, read by OCR]
+When the linear result (z) is passed through this function, the output P(y = 1|x) represents
+the probability that the binary outcome y is equal to 1, given the features x. 2
+
+1
+
+PY = Ux) = a
 --- page 10 ---
 For 28 hours=0.789
 13.182
@@ -4202,6 +4701,49 @@ Regression Line 𝑦= 8.4𝑥+ 3.2
 Estimated Sale (2012) $70.4 million
 Mean Squared Error (MSE)   0.32
 19
+
+[Text in pictures on this page, read by OCR]
+a) Given
+
+fear () 2005 2006 2007 2008 2009
+Sales FGmillion $) 12 19 29 37 45
+
+To simplify, set x = ¥ — 2005_ Then x = 0,1,2,3,4.
+
+(a) Least squares regression line y > ax + b----5 marks
+
+Compute sums (for xand yin the simplified scale)-
+
+n =5
+
+mex =04+1+4+24+3+4=10
+
+Ey =124194294374+45= 142
+
+Ex? = oF + 174+ 27+ 37447 =30
+
+Evy =0-1241-19+2-294+3-37+44-45 = 368
+
+Slope a:
+
+nbxy — (ix)(Ey) _ 5(368) —10(142) _ 1840-1420 420
+
+nx? — (Ex)? 5(30) — 102 ~   150—100 °»&350
+= 6.4
+Intercept 5b:
+_Ey—abhx   142—8.4(10) 142-84 _ 58
+
+b = = = 11.6
+
+m 5 5 5
+
+‘Thus the regression line (in terms of x = X — 2005) ts:
+
+P= 64x 411.6
+
+Or, in original year Nterms:
+
+§ = 6.40 — 2005) + 11.6.
 --- page 20 ---
 (b) Estimate sale in 2012—2marks
 
@@ -4574,6 +5116,16 @@ Disease Detection (e.g., Cancer Screening)
 •   It’s better to flag more people as positive (even if some are wrong)
 •   So, Recall is more important
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Category Car Bike Bus
+
+Car 1 0 0
+Bike 0 1 0
+Bus 0 0 1
+Car 1 0 0
+
+Bike 0 1 0
 --- page 3 ---
 Use Precision when:
 •   False positives are costly or harmful
@@ -5058,6 +5610,17 @@ Iteration 1: Cluster 1: (2,4) Cluster 2: (3,5) Cluster 3: (4,6), (8,8), (9,9), (
 Updated Centroids:
 05Mark
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+pdated Centroids
+Ci = (2,4)
+C2 = (3,5)
+
+C. Eee 6+8+9+10+34+4+5
+3= ,
+7 7
+
+) = (11.29, 6.43)
 --- page 18 ---
 C1 = (2,4) C2 = (3,5) C3 = (11.29, 6.43)
 Iteration 2: Cluster 1: (2,4) Cluster 2: (3,5), (4,6) Cluster 3: (8,8), (9,9), (10,10), (15,3),
@@ -5316,6 +5879,16 @@ Disease Detection (e.g., Cancer Screening)
 •   It’s better to flag more people as positive (even if some are wrong)
 •   So, Recall is more important
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Category Car Bike Bus
+
+Car 1 0 0
+Bike 0 1 0
+Bus 0 0 1
+Car 1 0 0
+
+Bike 0 1 0
 --- page 3 ---
 Use Precision when:
 •   False positives are costly or harmful
@@ -5800,6 +6373,17 @@ Iteration 1: Cluster 1: (2,4) Cluster 2: (3,5) Cluster 3: (4,6), (8,8), (9,9), (
 Updated Centroids:
 05Mark
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+pdated Centroids
+Ci = (2,4)
+C2 = (3,5)
+
+C. Eee 6+8+9+10+34+4+5
+3= ,
+7 7
+
+) = (11.29, 6.43)
 --- page 18 ---
 C1 = (2,4) C2 = (3,5) C3 = (11.29, 6.43)
 Iteration 2: Cluster 1: (2,4) Cluster 2: (3,5), (4,6) Cluster 3: (8,8), (9,9), (10,10), (15,3),
@@ -6058,6 +6642,16 @@ Disease Detection (e.g., Cancer Screening)
 •   It’s better to flag more people as positive (even if some are wrong)
 •   So, Recall is more important
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Category Car Bike Bus
+
+Car 1 0 0
+Bike 0 1 0
+Bus 0 0 1
+Car 1 0 0
+
+Bike 0 1 0
 --- page 3 ---
 Use Precision when:
 •   False positives are costly or harmful
@@ -6542,6 +7136,17 @@ Iteration 1: Cluster 1: (2,4) Cluster 2: (3,5) Cluster 3: (4,6), (8,8), (9,9), (
 Updated Centroids:
 05Mark
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+pdated Centroids
+Ci = (2,4)
+C2 = (3,5)
+
+C. Eee 6+8+9+10+34+4+5
+3= ,
+7 7
+
+) = (11.29, 6.43)
 --- page 18 ---
 C1 = (2,4) C2 = (3,5) C3 = (11.29, 6.43)
 Iteration 2: Cluster 1: (2,4) Cluster 2: (3,5), (4,6) Cluster 3: (8,8), (9,9), (10,10), (15,3),
@@ -6770,6 +7375,17 @@ Bootstrap sampling is a technique of creating multiple datasets from the origina
 sampling with replacement. This means each sample in the original dataset can appear more than once
 or not at all in a new dataset.
 2
+
+[Text in pictures on this page, read by OCR]
+Each weight changed by:
+Aw; = 779 ;O,
+0, =0,d—0,)¢,—0,) if 7 isan output unit
+6, =0,0-o, > OW if 7 isa hidden unit
+— @
+where n is a constant called the learning rate
+
+tj is the correct teacher output for unit j
+5j is the error measure for unit j
 --- page 3 ---
 Creating Training Datasets in Bagging:
 Suppose the original dataset has 1000 samples.
@@ -6826,6 +7442,20 @@ Numerical carries marks
 •   K1={2,3,4,10,11,12},K2={20,30,25}, m1=7,m2=25
 •   Stop as the clusters with these means are the same.
 4
+
+[Text in pictures on this page, read by OCR]
+Input:
+D={ty.ty...8,}   // Set of elements
+A // Adjacency matrix showing distance between elements.
+k   [/ Number of desired clusters.
+Output:
+K   [} Set of clusters.
+K-Means Algorithm:
+assign initial values for means m1,172,..., Mp §
+repeat
+assign each item ¢; to the cluster which has the closest mean ;
+calculate new mean for each cluster;
+until convergence criteria is met;
 --- page 5 ---
 Q3
 a) How does SVM find the optimal separating hyperplane for binary classification? Explain how SVM
@@ -6836,6 +7466,29 @@ carries 5 marks
 •   In other words, a linear SVM searches for a hyperplane with the maximum margin.
 •   This is why a linear SVM is often termed as a maximal margin classifier (MMC).
 5
+
+[Text in pictures on this page, read by OCR]
+e@ Each tuple is denoted by (X;, Y;) where X; = (X;1.Xj2
+corresponds to the attribute set for the i” tuple (data in
+m-dimensional space) and Y; « [+,-] denotes its class label.
+
+@ Note that choice of which class should be labeled as + or - is
+arbitrary.
+
+@ Let us consider a 2-D training tuple with attributes A; and Az as
+X =(X;,.X2), where x; and x2 are values of attributes A; and Ap,
+respectively for X.
+
+@ Equation of a plane in 2-D space can be written as
+
+Wo + WiX4 + Wex2=0 [eg., ax+by+c=0]
+
+where Wo, W1, and W2 are some constants defining the slope and
+intercept of the line.
+
+@ Any point lying above such a hyperplane satisfies
+
+Wo + W1X1 + WeX2 > 0 (1)
 --- page 6 ---
 @ In matrix form, a hyperplane thus can be represented as
 
@@ -6892,6 +7545,25 @@ Common kernel functions include:
 function.
 •   Sigmoid Kernel: Similar to a neural network activation function.
 7
+
+[Text in pictures on this page, read by OCR]
+@ Suppose, x; and x2 (refer Figure 3) are two points on the decision
+boundaries b; and be, respectively. Thus,
+
+W.x;+b=1 (7)
+W.xX2 + b= —1 (8)
+
+or
+W.(X4 _ Xp) =2 (9)
+
+@ This represents a dot (.) product of two vectors W and x1-X2. Thus
+taking magnitude of these vectors, the equation obtained is
+
+2
+d=——_ 10
+a ")
+
+where ||W|| = \/w? + wé + .......wz, in an m-dimension space.
 --- page 8 ---
 •
 If we cannot draw a straight line (or hyperplane) to separate the classes in the input space, SVM
@@ -6904,6 +7576,17 @@ linear equation into the range of [0,1].
 Here is a breakdown of the three key steps:
 1. The Linear Model (The "Input")
 8
+
+[Text in pictures on this page, read by OCR]
+Let us say that we have two vectors with name x1 and
+Y1, then the linear kernel is defined by the dot product
+of these two vectors:
+
+Linear
+
+K (2%, 2) = (1 * X2)
+
+variable 1.
 --- page 9 ---
 Like Linear Regression, Logistic Regression begins by calculating a linear combination of the
 input features (x) and their corresponding weights (β), plus an intercept (β0 or b). This
@@ -6930,6 +7613,14 @@ Ans:
 𝑃=   =   ≈0.789
 1 + 𝑒−1.318 1 + 0.268
 9
+
+[Text in pictures on this page, read by OCR]
+When the linear result (z) is passed through this function, the output P(y = 1|x) represents
+the probability that the binary outcome y is equal to 1, given the features x. 2
+
+1
+
+PY = Ux) = a
 --- page 10 ---
 For 28 hours=0.789
 13.182
@@ -7149,6 +7840,49 @@ Regression Line 𝑦= 8.4𝑥+ 3.2
 Estimated Sale (2012) $70.4 million
 Mean Squared Error (MSE)   0.32
 20
+
+[Text in pictures on this page, read by OCR]
+a) Given
+
+fear () 2005 2006 2007 2008 2009
+Sales FGmillion $) 12 19 29 37 45
+
+To simplify, set x = ¥ — 2005_ Then x = 0,1,2,3,4.
+
+(a) Least squares regression line y > ax + b----5 marks
+
+Compute sums (for xand yin the simplified scale)-
+
+n =5
+
+mex =04+1+4+24+3+4=10
+
+Ey =124194294374+45= 142
+
+Ex? = oF + 174+ 27+ 37447 =30
+
+Evy =0-1241-19+2-294+3-37+44-45 = 368
+
+Slope a:
+
+nbxy — (ix)(Ey) _ 5(368) —10(142) _ 1840-1420 420
+
+nx? — (Ex)? 5(30) — 102 ~   150—100 °»&350
+= 6.4
+Intercept 5b:
+_Ey—abhx   142—8.4(10) 142-84 _ 58
+
+b = = = 11.6
+
+m 5 5 5
+
+‘Thus the regression line (in terms of x = X — 2005) ts:
+
+P= 64x 411.6
+
+Or, in original year Nterms:
+
+§ = 6.40 — 2005) + 11.6.
 --- page 21 ---
 (b) Estimate sale in 2012—2marks
 
@@ -7318,6 +8052,16 @@ Disease Detection (e.g., Cancer Screening)
 •   It’s better to flag more people as positive (even if some are wrong)
 •   So, Recall is more important
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+Category Car Bike Bus
+
+Car 1 0 0
+Bike 0 1 0
+Bus 0 0 1
+Car 1 0 0
+
+Bike 0 1 0
 --- page 3 ---
 Use Precision when:
 •   False positives are costly or harmful
@@ -7802,6 +8546,17 @@ Iteration 1: Cluster 1: (2,4) Cluster 2: (3,5) Cluster 3: (4,6), (8,8), (9,9), (
 Updated Centroids:
 05Mark
 ********** 17 **********
+
+[Text in pictures on this page, read by OCR]
+pdated Centroids
+Ci = (2,4)
+C2 = (3,5)
+
+C. Eee 6+8+9+10+34+4+5
+3= ,
+7 7
+
+) = (11.29, 6.43)
 --- page 18 ---
 C1 = (2,4) C2 = (3,5) C3 = (11.29, 6.43)
 Iteration 2: Cluster 1: (2,4) Cluster 2: (3,5), (4,6) Cluster 3: (8,8), (9,9), (10,10), (15,3),
@@ -7975,6 +8730,7 @@ than removed.
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_AIDS_7056/Machine Learning/ANS_Machine Learning(702AI0C032)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Jun 2026
 - Text: text (15 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -8440,6 +9196,34 @@ Q   a When predicting student performance, selecting an attribute that maximizes
 C   • Briefly explain how entropy is used to measure uncertainty in classification.
 O-
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Compute Required Values
+
+x Y x XY
+1 30 1 30
+2 35 4 70
+3 50 9 150
+4 55 16 220
+5 65 25 325
+6 80 36 480
+
+
+Step 2: Compute Slope (b)
+p — BAYS AEY)
+ny. X2-(y) X}2
+5 — 6(1275) ~ (21)(315) _ 7650-6615 _ 1035
+
+= 9.86
+6(91) — (21)? 546-441 105
+
+Step 6: Residual for X = 4
+
+Predicted value:
+g — 184+ 9.86(4) = 18 + 39.44 — 57.44
+Actual value = 55
+
+Residual = Y — Y = 55 — 57.44 = —2.44
 --- page 12 ---
 5;   • Using the dataset below, determine which feature should be selected as the root
 S   node.
@@ -8628,6 +9412,7 @@ Merge → Final cluster = {A,B,C,D}
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_AIML_7053/Machine Learning/ANS_Machine Learning(702AI0C032)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Jun 2026
 - Text: text (15 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -9093,6 +9878,34 @@ Q   a When predicting student performance, selecting an attribute that maximizes
 C   • Briefly explain how entropy is used to measure uncertainty in classification.
 O-
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Compute Required Values
+
+x Y x XY
+1 30 1 30
+2 35 4 70
+3 50 9 150
+4 55 16 220
+5 65 25 325
+6 80 36 480
+
+
+Step 2: Compute Slope (b)
+p — BAYS AEY)
+ny. X2-(y) X}2
+5 — 6(1275) ~ (21)(315) _ 7650-6615 _ 1035
+
+= 9.86
+6(91) — (21)? 546-441 105
+
+Step 6: Residual for X = 4
+
+Predicted value:
+g — 184+ 9.86(4) = 18 + 39.44 — 57.44
+Actual value = 55
+
+Residual = Y — Y = 55 — 57.44 = —2.44
 --- page 12 ---
 5;   • Using the dataset below, determine which feature should be selected as the root
 S   node.
@@ -9281,6 +10094,7 @@ Merge → Final cluster = {A,B,C,D}
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_AI_7012/Machine Learning/ANS_Machine Learning(702AI0C032)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 30 Jun 2026
 - Text: text (15 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -9746,6 +10560,34 @@ Q   a When predicting student performance, selecting an attribute that maximizes
 C   • Briefly explain how entropy is used to measure uncertainty in classification.
 O-
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Step 1: Compute Required Values
+
+x Y x XY
+1 30 1 30
+2 35 4 70
+3 50 9 150
+4 55 16 220
+5 65 25 325
+6 80 36 480
+
+
+Step 2: Compute Slope (b)
+p — BAYS AEY)
+ny. X2-(y) X}2
+5 — 6(1275) ~ (21)(315) _ 7650-6615 _ 1035
+
+= 9.86
+6(91) — (21)? 546-441 105
+
+Step 6: Residual for X = 4
+
+Predicted value:
+g — 184+ 9.86(4) = 18 + 39.44 — 57.44
+Actual value = 55
+
+Residual = Y — Y = 55 — 57.44 = —2.44
 --- page 12 ---
 5;   • Using the dataset below, determine which feature should be selected as the root
 S   node.
@@ -10119,6 +10961,23 @@ n = 10
 • Max: 90
 • Median (Q2): (50 + 52) / 2 = 51
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Activation
+
+Function Formula Range Used In
+Sigmoid Ge (0, 1) Output layer
+(binary
+
+classification)
+
+z_ poz
+
+Tanh aes (-1, 1) Hidden layers
+(normalized data)
+ReLU max(0, x) [0, 00) Hidden layers
+
+(deep networks)
 --- page 5 ---
 • Q1: Median of (35, 38, 40, 45, 50) → 40
 • Q3: Median of (52, 55, 60, 65, 90) → 60
@@ -10154,6 +11013,20 @@ Ans:5 Marks each
 b)   Agglomerative algorithm with the following data and plot a Dendogram using single
 link approach.   [10]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+z= (a1 X wi) + (x2 X we) + (x3 x w3) +b
+z= (0.7 x 0.2) + (0.4 x 0.3) + (0.3 x —0.2) + 0.25
+z = (0.14) + (0.12) + (—0.06) + 0.25 = 0.45
+
+Step 2: Apply the Sigmoid activation function
+
+1
+o(z) = l+e=
+1 7 1
+1+e45 ~ 1+ 0.6376
+
+(0.45) = ~ 0.6106
 --- page 6 ---
 1. Compute the Euclidean Distance Matrix between all customers. 2 marks
 2. Apply the Agglomerative Hierarchical Clustering (Single Linkage) method
@@ -10193,6 +11066,15 @@ Steps of Principal Component Analysis (PCA):
 1. Standardize the data
 2. Compute the covariance matrix
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Step Clusters Merged Distance
+
+1 C1, C2 5.83
+2 C3, C4 7.28
+3 {C3, C4}, C5 8.54
+
+4 {C1, C2}, (C3, C4, C5} 51.62
 --- page 7 ---
 3. Calculate eigenvalues and eigenvectors
 4. Sort eigenvalues in descending order
@@ -10230,6 +11112,15 @@ Offer Free Click Label
 ID
 1   Yes   Yes   Yes   Spam
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Class Precision Recall Accuracy
+
+Healthy (A) 0.833 0.833 0.888
+
+At Risk (B) 0.714 0.667 0.800
+
+Diseased (C) 0.750 0.800 0.844
 --- page 8 ---
 2   Yes   No   Yes   Spam
 Not
@@ -10285,6 +11176,41 @@ Month
 Ans: Entropy 2 marks+ 4 Marks+ 4 marks
 Entropy= 0.881
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Aspect Bagging (Bootstrap Aggregating) Boosting 0
+
+Sampling Method Uses bootstrap sampling — each model is trained on a Uses sequential sampling — each new model focuses more
+random sample (with replacement) from the training on the misclassified samples from the previous model.
+data.
+
+Model Training Models (e.g., decision trees) are trained independently Models are trained sequentially, each trying to correct the
+and in parallel on different subsets of data. errors made by the previous model.
+
+Error Handling Reduces variance by averaging predictions from Reduces bias by focusing on hard-to-classify examples —
+multiple independent models — helps to stabilize tries to make weak models perform better.
+predictions.
+
+Model Final prediction is made by majority voting (for Final prediction is made by weighted combination of all
+
+Combination classification) or averaging (for regression). weak learners (models with lower error get higher weights).
+
+Overfitting Less prone to overfitting compared to a single model. More prone to overfitting if not tuned properly.
+
+v
+
+Typical Algorithms Random Forest AdaBoost, Gradient Boosting, XGBoost, LightGBM
+
+Weighted Entropy:
+
+3 3
+35 0) + 5p (0) = 0.324
+
+E(ContractT ype) = - (0.811) + 0
+
+Information Gain:
+
+IG(ContractT ype) = 0.881 — 0.324 = 0.557
 --- page 10 ---
 6 4
 E(Payment) = 79 (0-918) + i (2-814) = 0.875
@@ -12413,6 +13339,23 @@ n = 10
 • Max: 90
 • Median (Q2): (50 + 52) / 2 = 51
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Activation
+
+Function Formula Range Used In
+Sigmoid Ge (0, 1) Output layer
+(binary
+
+classification)
+
+z_ poz
+
+Tanh aes (-1, 1) Hidden layers
+(normalized data)
+ReLU max(0, x) [0, 00) Hidden layers
+
+(deep networks)
 --- page 5 ---
 • Q1: Median of (35, 38, 40, 45, 50) → 40
 • Q3: Median of (52, 55, 60, 65, 90) → 60
@@ -12448,6 +13391,20 @@ Ans:5 Marks each
 b)   Agglomerative algorithm with the following data and plot a Dendogram using single
 link approach.   [10]
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+z= (a1 X wi) + (x2 X we) + (x3 x w3) +b
+z= (0.7 x 0.2) + (0.4 x 0.3) + (0.3 x —0.2) + 0.25
+z = (0.14) + (0.12) + (—0.06) + 0.25 = 0.45
+
+Step 2: Apply the Sigmoid activation function
+
+1
+o(z) = l+e=
+1 7 1
+1+e45 ~ 1+ 0.6376
+
+(0.45) = ~ 0.6106
 --- page 6 ---
 1. Compute the Euclidean Distance Matrix between all customers. 2 marks
 2. Apply the Agglomerative Hierarchical Clustering (Single Linkage) method
@@ -12487,6 +13444,15 @@ Steps of Principal Component Analysis (PCA):
 1. Standardize the data
 2. Compute the covariance matrix
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Step Clusters Merged Distance
+
+1 C1, C2 5.83
+2 C3, C4 7.28
+3 {C3, C4}, C5 8.54
+
+4 {C1, C2}, (C3, C4, C5} 51.62
 --- page 7 ---
 3. Calculate eigenvalues and eigenvectors
 4. Sort eigenvalues in descending order
@@ -12524,6 +13490,15 @@ Offer Free Click Label
 ID
 1   Yes   Yes   Yes   Spam
 ********** 7 **********
+
+[Text in pictures on this page, read by OCR]
+Class Precision Recall Accuracy
+
+Healthy (A) 0.833 0.833 0.888
+
+At Risk (B) 0.714 0.667 0.800
+
+Diseased (C) 0.750 0.800 0.844
 --- page 8 ---
 2   Yes   No   Yes   Spam
 Not
@@ -12579,6 +13554,41 @@ Month
 Ans: Entropy 2 marks+ 4 Marks+ 4 marks
 Entropy= 0.881
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Aspect Bagging (Bootstrap Aggregating) Boosting 0
+
+Sampling Method Uses bootstrap sampling — each model is trained on a Uses sequential sampling — each new model focuses more
+random sample (with replacement) from the training on the misclassified samples from the previous model.
+data.
+
+Model Training Models (e.g., decision trees) are trained independently Models are trained sequentially, each trying to correct the
+and in parallel on different subsets of data. errors made by the previous model.
+
+Error Handling Reduces variance by averaging predictions from Reduces bias by focusing on hard-to-classify examples —
+multiple independent models — helps to stabilize tries to make weak models perform better.
+predictions.
+
+Model Final prediction is made by majority voting (for Final prediction is made by weighted combination of all
+
+Combination classification) or averaging (for regression). weak learners (models with lower error get higher weights).
+
+Overfitting Less prone to overfitting compared to a single model. More prone to overfitting if not tuned properly.
+
+v
+
+Typical Algorithms Random Forest AdaBoost, Gradient Boosting, XGBoost, LightGBM
+
+Weighted Entropy:
+
+3 3
+35 0) + 5p (0) = 0.324
+
+E(ContractT ype) = - (0.811) + 0
+
+Information Gain:
+
+IG(ContractT ype) = 0.881 — 0.324 = 0.557
 --- page 10 ---
 6 4
 E(Payment) = 79 (0-918) + i (2-814) = 0.875
@@ -13392,6 +14402,25 @@ BL-H
 Step-by-step explanation – [6M]
 Or They can use following data.
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+Day outlook temp humidity windy play
+
+1 sunny hot high FALSE no
+2 sunny hot high TRUE no
+3 overcast hot high FALSE yes
+4 rainy mild high FALSE yes
+5 rainy cool normal FALSE yes
+6 rainy cool normal TRUE no [10]
+7. overcast cool normal TRUE yes
+8 sunny mild high FALSE no
+9 sunny cool normal FALSE yes
+10 rainy mild normal FALSE yes
+11 sunny mild normal TRUE yes
+12 overcast = mild high TRUE yes
+13 overcast hot normal FALSE yes
+
+14 rainy mild high TRUE no
 --- page 7 ---
 Decision tree –[2M]
 b.   Explain the working principle of the multiple linear regression model.

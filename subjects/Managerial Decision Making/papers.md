@@ -34,6 +34,28 @@ Instructions:
 A.
 7
 Page 1 of 2
+
+[Text in pictures on this page, read by OCR]
+Estimated Sales Qty for April to June 2025 are as follows:
+April = 32,000;
+
+May = 25,000;
+
+June = 30,000.
+
+Closing Stock of Finished Goods = 40% of next month’s sales.
+Raw Material requirement per unit = 5 kg at 22 per kg.
+
+Stock of Raw Material on 1.4.2025 = 1,60,000 kg
+
+Stock of Raw Material on 30.4.2025 = 1,35,000 kg
+
+Stock of Raw Material on 31.5.2025 = 1,44,000 kg
+
+Prepare
+
+i) Production Budget (in Units) for April and May 2025 &
+ii) Raw Materials purchase Budget (in kg & cost) of the company for April and May 2025.
 --- page 2 ---
 The following information relates to the sales of a company during a month:
 

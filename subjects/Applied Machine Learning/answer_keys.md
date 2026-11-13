@@ -358,6 +358,24 @@ Initialize w, b
 for i in range(max_iter):
 y_pred = X.dot(w) + b
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+ii. Deep Q-Network (DQN):
+DON uses a neural network to approximate Q-values for large state spaces.
+Algorithm (simplified):
+1. Initialize Q-network Q(s, a; 6) and target network Q'(s, a; 87)
+2. Initialize replay memory D
+3. For each step:
+e Select action a using e-greedy policy
+* Execute a, observe reward r and next state s’
+* Store transition (s,a,r, s') in D
+
+e Sample mini-batch from D and compute target:
+yortymaxQ'(s',a' 6)
+al
+
+* Update Q-network by minimizing loss L = (y — Q(s,a;0))?
+© Periodically update target network: @~ <— @
 --- page 4 ---
 error = y_pred - y
 if regularization == "ridge":

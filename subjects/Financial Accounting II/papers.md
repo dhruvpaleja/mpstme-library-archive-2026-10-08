@@ -66,6 +66,20 @@ On 1 April 2025 the Company:
 (i)   Redeemed the preference shares at a premium of ₹2 pre shares.
 (ii)   Realized Investment at 80% of the cost
 Page 2 of 5
+
+[Text in pictures on this page, read by OCR]
+Pujan Enterprises Ltd. issues 2,000 9% Debentures of Rs.100 each. You are asked to give journal entries
+on issue if:
+
+a. The debentures are issued at par and redemption at par.
+
+b. They are issued at a discount of 5% but redeemable at par.
+
+c. They are issued at premium of 5% but redeemable at par.
+
+d. They are issued at a discount of 10%, but redeemable at a premium of 5%.
+
+e. They are issued at par but redeemable at a premium of 10%.
 --- page 3 ---
 (iii) Issued at a premium of 40 per share, such number of equity shares for the purpose of
 aforesaid redemption as to ensure to redemption of preference share. The credit balance in
@@ -132,4 +146,45 @@ Cash in Hand   35,000
 Balances with Banks   2,07,000
 Total   88,12,000   88,12,000
 Page 5 of 5
+
+[Text in pictures on this page, read by OCR]
+Additional Information
+
+The following additional information was also provided in respect of the above
+balances:
+
+(1) 25,000 fully paid equity shares were allotted as consideration for land.
+
+(2) The cost of assets were: Building Rs. 16,00,000, Plant and Machinery Rs.15,00,000
+and Furniture and Fixtures Rs. 8,25,000
+
+(3) Trade Receivables for Rs. 2,43.000 due for more than 6 months.
+
+(4) Balances with banks include Rs.28,000, the Naya bank, which is not a scheduled
+bank.
+
+(5) Loan from Public Finance Corporation repayable after 3 years.
+
+(6) The balance of Rs. 13,15,000 in the loan account with Public Finance
+Corporation is inclusive of Rs. 67,000 for interest accrued but not due. The
+loan is secured by hypothecation of land.
+
+(7) Other long-term loans (unsecured) include: Loan taken from Nixes Bank Rs.
+6,90,000 Amount Repayable within one-year Rs. 2,40,000 and Loan Taken from
+Director Rs. 4,25,000
+
+(8) Bills Receivable for Rs. 80,000 maturing on 15th June, 2024 has been discounted.
+
+(9) Short term borrowings includes: Loan From Naya Bank Rs. 58,000 Secured and Loan
+from Director Rs. 24,000
+
+(10) Transfer of Rs.35,Q0Q to general reserve has been proposed by the Board of
+directors out of the profits for the year.
+
+(11) Inventory of finished goods includes loose tools costing Rs. 2.5 lakhs (which
+do not meet definition of property, plant & equipment as per AS 10)
+
+You are required to prepare the Balance Sheet of the Company as on March 31st
+2024 as required under Part - I of Schedule III of the Companies Act, 2013.
+You are not required to give previous year figures
 ````

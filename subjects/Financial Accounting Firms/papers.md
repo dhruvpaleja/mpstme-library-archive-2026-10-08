@@ -48,6 +48,54 @@ for the year ended 31st March, 2025 and a Balance Sheet as on that date.
 Mr. Aarav, Mr. Kunam, and Mr. Vivaan are partners sharing profits and losses in the ratio of 3
 : 2 : 1 respectively. Their Balance Sheet as on 31st March 2025 was as follows:
 Page 2 of 4
+
+[Text in pictures on this page, read by OCR]
+Debit Balances = | Credit Balances z
+
+Bank Balance 60,000 | Creditors 3,30,000
+Debtors 2,10,000 | Sales 11,58,000
+Rent, Rates and Taxes 93,000 | Capitals:
+
+Salaries 1,62,000 | Rina 4,32,000
+Wages 1,44,000 | Bina 1,68,000
+Office Expenses 37,500 | Cash paid by Mina 1,20,000
+Stock on 1* April, 2024 2,70,000 | Bills Payable 1,09,500
+Purchases 4,35,000 | Provision for Doubtful Debts 9,000
+Carriage Inward 48,000 | Bank Loan on 31* March, 2025 63,000
+Drawings:
+
+Rina 1,50,000
+
+Bina 75,000
+
+Mina 12,000
+
+Bills Receivable 90,000
+
+Bad Debts 18,000
+
+Bank Charges 15,000
+
+Land and Building 2,85,000
+
+Investments 1,80,000
+
+Furniture 1,05,000
+
+23,89,500 23,89,500
+
+Liabilities z Assets z
+
+Capital Fixed Asset 11,25,000
+Aarav Stock 587,500
+Kunam Bank Balance 40,000
+Vivaan Profit & Loss (Dr. Bal) 22,500
+General Reserve 1,12.500
+Contingency Reserve 37,500
+Creditors 5.00,000
+Bills Payable 1,25,000
+
+Total 17,75,000 | Total
 --- page 3 ---
 As per the arrangements with the Liquidator, the partners were allowed to withdraw & utilize
 ₹ 15,000 immediately in April 2025 and ₹ 25,000 only in June 2025 from their existing bank
@@ -76,6 +124,31 @@ f) Goodwill shall be valued at ₹2,40,000.
 For Narmada & Co.:
 a) Goodwill shall be valued at ₹1,60,000.
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+Realisation Fixed Assets (2) Stock (2)
+
+April 2025 1,25,000 62,500
+
+May 2025 6,25,000 1,50,000
+
+June 2025 3,10,000 3,25,000
+
+Liabilities Krishna (%) | Narmada (®) Assets Krishna (®) | Narmada (®)
+
+Capital: Building 3,12,000 4,08,000
+A 3,20,000 — | Furniture 1,24,000 1,60,000
+B 1,60,000 — | Investment - 1,48,000
+Cc - 2,80,000 | Stock 2,32,000 2,40,000
+D = 2,24,000 | Debtors 1,96,000 1,44,000
+General Reserve 2,00,000 2,40,000 | Cash & Bank 1,36,000 1,00,000
+Creditors 2,24,000 2,80,000
+
+Bills Payable = 1,76,000
+
+Mortgage Loan 96,000
+
+Total 10,00,000 12,00,000 | Total 10,00,000 12,00,000
 --- page 4 ---
 b) Investments shall be taken over by Mr. C and Mr. D equally at the market value of
 ₹1,60,000.
@@ -101,6 +174,25 @@ of the period till 31st March, 2025.
 Prepare Statement of Profit and Loss showing separately Pre-incorporation Profit and Post-
 incorporation Profit for the year ended 31st March, 2025.
 Page 4 of 4
+
+[Text in pictures on this page, read by OCR]
+Particulars % | Particulars z
+
+To Office salaries 24,000 | By Gross Profit b/d 1,02,000
+To Sahil’s Salary 2,000
+To Advertisement expenses 18,000
+To Printing and Stationery 6,600
+To Discount allowed 5,200
+To Office Rent 9,600
+To Director’s Fees 1,200
+To Audit Fees 600
+To Commission on sales 7,000
+To Debenture Interest 4,300
+To Depreciation 2,100
+To Interest on Sahil’s Capital 800
+To Net Profit c/d 20,600
+
+1,02,000 1,02,000
 ````
 
 ## 2025-26 · Re-Exam · Sem 2 · paper bedf958792bf
@@ -149,6 +241,42 @@ Balance Sheet as on that date after making the necessary adjustments.
 P, Q and R were partners sharing profits and losses in the ratio of 3 : 2 : 1. The firm was
 dissolved on 31st March 2025 when the financial position was as follows:
 Page 2 of 4
+
+[Text in pictures on this page, read by OCR]
+Debit Balances =| Credit Balances z
+
+Drawings: Capital Accounts:
+
+Anvi 24,000 | Anvi 72,000
+Manvi 24,000 | Manvi 72,000
+Sayali 24,000 | Sayali 72,000
+Purchases 3,12,000 | Sales 5,52,000
+Returns 4,800 | Returns 3,600
+Stock (1-4-2024) 48,000 | Discount received 18,000
+Salaries 54,000 | Bank Loan 52,500
+Office Expenses 24,000 | Creditors 1,53,000
+Sundry Expenses 9,000 | Bills Payable 5,400
+Postage and telegram 4,200
+
+Carriage Inward 9,000
+
+Carriage Outward 13,500
+
+Debtors 2,01,000
+
+Bills Receivable 6,000
+
+Bank Balance 16,800
+
+Cash in Hand 4,200
+
+Investment 30,000
+
+Building 1,20,000
+
+Plant and Machinery 72,000
+
+10,00,500 10,00,500
 --- page 3 ---
 The partners agreed that the net realisations should be distributed in accordance with the
 applicable rules. The realisations and expenses were as follows:
@@ -168,6 +296,32 @@ ii) Furniture shall be taken over by the partners of their respective firms in t
 profit-sharing ratios.
 iii) A provision for doubtful debts at 5% shall be created on debtors.
 Page 3 of 4
+
+[Text in pictures on this page, read by OCR]
+Balance Sheet as on 31°t March, 2025
+
+Liabilities z Assets z
+Sundry Creditors 7,08.750 | Cash in hand 1,12.500
+Capital Accounts: Stock-in-trade 3.60,000
+Pp 4,72,500 | Sundry Debtors 9.90,000
+Q 2,36,250
+R 45.000
+
+Total 14,62,500 | Total 14.62,500
+
+Liabilities Emerald | Sapphire Assets Emerald & | Sapphire
+
+& Co. (%) | & Co. (®) Co. (%) | & Co. (8)
+Capital: Premises — | 3,57,500
+Arjun 2,75,000 — | Computers 2,47,500 =
+Bharat 4,12,500 — | Furniture 1,65,000 1,92,500
+Chirag —| _5,50,000 | Stock 2,47,500 | _4,12,500
+Dev —|__7,25,000 | Debtors 1,65,000 3,85,000
+General Reserve - 1,37,500 | Cash & Bank 1,37,500 3,57,500
+Creditors 1,10,000 1,37,500
+Bills Payable 1,65,000 1,55,000
+
+Total 9,62,500 |_17,05,000 | Total 9,62,500 | 17,05,000
 --- page 4 ---
 iv) Goodwill of Emerald & Co. and Sapphire & Co. shall be valued at ₹ 1,25,000 & ₹
 1,75,000 respectively.
@@ -191,4 +345,23 @@ debts are out of sales affected throughout the financial year.
 Prepare Statement of Profit and Loss showing separately Pre-incorporation Profit and Post-
 incorporation Profit for the year ended 31st March, 2025.
 Page 4 of 4
+
+[Text in pictures on this page, read by OCR]
+Particulars 2 | Particulars z
+
+To Office Salaries 96,000 | By Gross Profit b/d 6,00,000
+To Salary to partners 8,000
+To Advertisement 1,16,000
+To Printing & Stationery 26,400
+To Office Rent 1,08,000
+To Director's fees 4,800
+To Audit fees 2,400
+To Bad Debts 4,800
+To Preliminary Expenses written off 4,000
+To Debenture Interest 5,200
+To Discount allowed 3,200
+To Depreciation on fixed assets 8,400
+To Net Profit c/d 2,12,800
+
+6,00,000 6,00,000
 ````

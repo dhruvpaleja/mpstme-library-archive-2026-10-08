@@ -93,6 +93,30 @@ BL-5   user-focused features. These companies also used extensive market researc
 marketing to create products that better matched evolving customer expectations. Assess
 one difference between production-oriented and marketing-oriented organizations using
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+| Stages in the Product Life Cycle | ll
+
+Stage Strategic Market Investments Profits Cash Flow
+Objective
+
+Introduction For both innovators Moderate to Highly Highly
+and followers, high for negative negative
+accelerate overall R&D, capacity,
+market growth and working
+product capital, and
+acceptance through marketing
+awareness, trial, and (sales and
+product availability advertising)
+
+Growth Increase competitive | High to very High Negative
+position high
+
+Shakeout Improvelsolidify Moderate Low to Low to
+competitive moderate | moderate
+position
+
+Mature Maintain position Low Low Moderate
 --- page 3 ---
 the case above. Evaluate four other differences between production-oriented and
 marketing-oriented organizations.
@@ -126,6 +150,35 @@ construct in 5 steps, a Market Attractiveness/Competitive Position Matrix to eva
 the three potential markets
 Marking scheme- 2 marks to be awarded per step in the matrix
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+EXHIBIT 1.6 Differences between Production-Oriented and Market-Oriented Organizations
+
+Business Activity or Function Production Orientation Marketing Orientation
+
+Product offering Company sells what it can make; Company makes what it can sell;
+primary focus on functional primary focus on customers’ needs
+performance and cost. and market opportunities.
+
+Product line Narrow. Broad.
+
+Pricing Based on production and distribution Based on perceived benefits provided.
+costs.
+
+Research Technical research; focus on product Market research; focus on identifying
+improvement and cost cutting in the new opportunities and applying new
+production process. technology to satisfy customer needs.
+
+Packaging Protection for the product; minimize Designed for customer convenience; a
+costs. promotional tool.
+
+Credit Anecessary evil; minimize bad debt A customer service; a tool to attract
+losses. customers.
+
+Promotion Emphasis on product features, quality, | Emphasis on product benefits and
+and price. ability to satisfy customers’ needs or
+
+solve problems.
 --- page 4 ---
 Q5   Starbucks is one of the world’s leading coffeehouse brands and is known for delivering a
 strong customer experience and high perceived value. The company focuses on
@@ -342,6 +395,30 @@ BL-5   user-focused features. These companies also used extensive market researc
 marketing to create products that better matched evolving customer expectations. Assess
 one difference between production-oriented and marketing-oriented organizations using
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+| Stages in the Product Life Cycle | ll
+
+Stage Strategic Market Investments Profits Cash Flow
+Objective
+
+Introduction For both innovators Moderate to Highly Highly
+and followers, high for negative negative
+accelerate overall R&D, capacity,
+market growth and working
+product capital, and
+acceptance through marketing
+awareness, trial, and (sales and
+product availability advertising)
+
+Growth Increase competitive | High to very High Negative
+position high
+
+Shakeout Improvelsolidify Moderate Low to Low to
+competitive moderate | moderate
+position
+
+Mature Maintain position Low Low Moderate
 --- page 3 ---
 the case above. Evaluate four other differences between production-oriented and
 marketing-oriented organizations.
@@ -375,6 +452,35 @@ construct in 5 steps, a Market Attractiveness/Competitive Position Matrix to eva
 the three potential markets
 Marking scheme- 2 marks to be awarded per step in the matrix
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+EXHIBIT 1.6 Differences between Production-Oriented and Market-Oriented Organizations
+
+Business Activity or Function Production Orientation Marketing Orientation
+
+Product offering Company sells what it can make; Company makes what it can sell;
+primary focus on functional primary focus on customers’ needs
+performance and cost. and market opportunities.
+
+Product line Narrow. Broad.
+
+Pricing Based on production and distribution Based on perceived benefits provided.
+costs.
+
+Research Technical research; focus on product Market research; focus on identifying
+improvement and cost cutting in the new opportunities and applying new
+production process. technology to satisfy customer needs.
+
+Packaging Protection for the product; minimize Designed for customer convenience; a
+costs. promotional tool.
+
+Credit Anecessary evil; minimize bad debt A customer service; a tool to attract
+losses. customers.
+
+Promotion Emphasis on product features, quality, | Emphasis on product benefits and
+and price. ability to satisfy customers’ needs or
+
+solve problems.
 --- page 4 ---
 Q5   Starbucks is one of the world’s leading coffeehouse brands and is known for delivering a
 strong customer experience and high perceived value. The company focuses on
@@ -591,6 +697,30 @@ BL-5   user-focused features. These companies also used extensive market researc
 marketing to create products that better matched evolving customer expectations. Assess
 one difference between production-oriented and marketing-oriented organizations using
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+| Stages in the Product Life Cycle | ll
+
+Stage Strategic Market Investments Profits Cash Flow
+Objective
+
+Introduction For both innovators Moderate to Highly Highly
+and followers, high for negative negative
+accelerate overall R&D, capacity,
+market growth and working
+product capital, and
+acceptance through marketing
+awareness, trial, and (sales and
+product availability advertising)
+
+Growth Increase competitive | High to very High Negative
+position high
+
+Shakeout Improvelsolidify Moderate Low to Low to
+competitive moderate | moderate
+position
+
+Mature Maintain position Low Low Moderate
 --- page 3 ---
 the case above. Evaluate four other differences between production-oriented and
 marketing-oriented organizations.
@@ -624,6 +754,35 @@ construct in 5 steps, a Market Attractiveness/Competitive Position Matrix to eva
 the three potential markets
 Marking scheme- 2 marks to be awarded per step in the matrix
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+EXHIBIT 1.6 Differences between Production-Oriented and Market-Oriented Organizations
+
+Business Activity or Function Production Orientation Marketing Orientation
+
+Product offering Company sells what it can make; Company makes what it can sell;
+primary focus on functional primary focus on customers’ needs
+performance and cost. and market opportunities.
+
+Product line Narrow. Broad.
+
+Pricing Based on production and distribution Based on perceived benefits provided.
+costs.
+
+Research Technical research; focus on product Market research; focus on identifying
+improvement and cost cutting in the new opportunities and applying new
+production process. technology to satisfy customer needs.
+
+Packaging Protection for the product; minimize Designed for customer convenience; a
+costs. promotional tool.
+
+Credit Anecessary evil; minimize bad debt A customer service; a tool to attract
+losses. customers.
+
+Promotion Emphasis on product features, quality, | Emphasis on product benefits and
+and price. ability to satisfy customers’ needs or
+
+solve problems.
 --- page 4 ---
 Q5   Starbucks is one of the world’s leading coffeehouse brands and is known for delivering a
 strong customer experience and high perceived value. The company focuses on
@@ -840,6 +999,30 @@ BL-5   user-focused features. These companies also used extensive market researc
 marketing to create products that better matched evolving customer expectations. Assess
 one difference between production-oriented and marketing-oriented organizations using
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+| Stages in the Product Life Cycle | ll
+
+Stage Strategic Market Investments Profits Cash Flow
+Objective
+
+Introduction For both innovators Moderate to Highly Highly
+and followers, high for negative negative
+accelerate overall R&D, capacity,
+market growth and working
+product capital, and
+acceptance through marketing
+awareness, trial, and (sales and
+product availability advertising)
+
+Growth Increase competitive | High to very High Negative
+position high
+
+Shakeout Improvelsolidify Moderate Low to Low to
+competitive moderate | moderate
+position
+
+Mature Maintain position Low Low Moderate
 --- page 3 ---
 the case above. Evaluate four other differences between production-oriented and
 marketing-oriented organizations.
@@ -873,6 +1056,35 @@ construct in 5 steps, a Market Attractiveness/Competitive Position Matrix to eva
 the three potential markets
 Marking scheme- 2 marks to be awarded per step in the matrix
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+EXHIBIT 1.6 Differences between Production-Oriented and Market-Oriented Organizations
+
+Business Activity or Function Production Orientation Marketing Orientation
+
+Product offering Company sells what it can make; Company makes what it can sell;
+primary focus on functional primary focus on customers’ needs
+performance and cost. and market opportunities.
+
+Product line Narrow. Broad.
+
+Pricing Based on production and distribution Based on perceived benefits provided.
+costs.
+
+Research Technical research; focus on product Market research; focus on identifying
+improvement and cost cutting in the new opportunities and applying new
+production process. technology to satisfy customer needs.
+
+Packaging Protection for the product; minimize Designed for customer convenience; a
+costs. promotional tool.
+
+Credit Anecessary evil; minimize bad debt A customer service; a tool to attract
+losses. customers.
+
+Promotion Emphasis on product features, quality, | Emphasis on product benefits and
+and price. ability to satisfy customers’ needs or
+
+solve problems.
 --- page 4 ---
 Q5   Starbucks is one of the world’s leading coffeehouse brands and is known for delivering a
 strong customer experience and high perceived value. The company focuses on
@@ -1089,6 +1301,30 @@ BL-5   user-focused features. These companies also used extensive market researc
 marketing to create products that better matched evolving customer expectations. Assess
 one difference between production-oriented and marketing-oriented organizations using
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+| Stages in the Product Life Cycle | ll
+
+Stage Strategic Market Investments Profits Cash Flow
+Objective
+
+Introduction For both innovators Moderate to Highly Highly
+and followers, high for negative negative
+accelerate overall R&D, capacity,
+market growth and working
+product capital, and
+acceptance through marketing
+awareness, trial, and (sales and
+product availability advertising)
+
+Growth Increase competitive | High to very High Negative
+position high
+
+Shakeout Improvelsolidify Moderate Low to Low to
+competitive moderate | moderate
+position
+
+Mature Maintain position Low Low Moderate
 --- page 3 ---
 the case above. Evaluate four other differences between production-oriented and
 marketing-oriented organizations.
@@ -1122,6 +1358,35 @@ construct in 5 steps, a Market Attractiveness/Competitive Position Matrix to eva
 the three potential markets
 Marking scheme- 2 marks to be awarded per step in the matrix
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+EXHIBIT 1.6 Differences between Production-Oriented and Market-Oriented Organizations
+
+Business Activity or Function Production Orientation Marketing Orientation
+
+Product offering Company sells what it can make; Company makes what it can sell;
+primary focus on functional primary focus on customers’ needs
+performance and cost. and market opportunities.
+
+Product line Narrow. Broad.
+
+Pricing Based on production and distribution Based on perceived benefits provided.
+costs.
+
+Research Technical research; focus on product Market research; focus on identifying
+improvement and cost cutting in the new opportunities and applying new
+production process. technology to satisfy customer needs.
+
+Packaging Protection for the product; minimize Designed for customer convenience; a
+costs. promotional tool.
+
+Credit Anecessary evil; minimize bad debt A customer service; a tool to attract
+losses. customers.
+
+Promotion Emphasis on product features, quality, | Emphasis on product benefits and
+and price. ability to satisfy customers’ needs or
+
+solve problems.
 --- page 4 ---
 Q5   Starbucks is one of the world’s leading coffeehouse brands and is known for delivering a
 strong customer experience and high perceived value. The company focuses on
@@ -1338,6 +1603,30 @@ BL-5   user-focused features. These companies also used extensive market researc
 marketing to create products that better matched evolving customer expectations. Assess
 one difference between production-oriented and marketing-oriented organizations using
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+| Stages in the Product Life Cycle | ll
+
+Stage Strategic Market Investments Profits Cash Flow
+Objective
+
+Introduction For both innovators Moderate to Highly Highly
+and followers, high for negative negative
+accelerate overall R&D, capacity,
+market growth and working
+product capital, and
+acceptance through marketing
+awareness, trial, and (sales and
+product availability advertising)
+
+Growth Increase competitive | High to very High Negative
+position high
+
+Shakeout Improvelsolidify Moderate Low to Low to
+competitive moderate | moderate
+position
+
+Mature Maintain position Low Low Moderate
 --- page 3 ---
 the case above. Evaluate four other differences between production-oriented and
 marketing-oriented organizations.
@@ -1371,6 +1660,35 @@ construct in 5 steps, a Market Attractiveness/Competitive Position Matrix to eva
 the three potential markets
 Marking scheme- 2 marks to be awarded per step in the matrix
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+EXHIBIT 1.6 Differences between Production-Oriented and Market-Oriented Organizations
+
+Business Activity or Function Production Orientation Marketing Orientation
+
+Product offering Company sells what it can make; Company makes what it can sell;
+primary focus on functional primary focus on customers’ needs
+performance and cost. and market opportunities.
+
+Product line Narrow. Broad.
+
+Pricing Based on production and distribution Based on perceived benefits provided.
+costs.
+
+Research Technical research; focus on product Market research; focus on identifying
+improvement and cost cutting in the new opportunities and applying new
+production process. technology to satisfy customer needs.
+
+Packaging Protection for the product; minimize Designed for customer convenience; a
+costs. promotional tool.
+
+Credit Anecessary evil; minimize bad debt A customer service; a tool to attract
+losses. customers.
+
+Promotion Emphasis on product features, quality, | Emphasis on product benefits and
+and price. ability to satisfy customers’ needs or
+
+solve problems.
 --- page 4 ---
 Q5   Starbucks is one of the world’s leading coffeehouse brands and is known for delivering a
 strong customer experience and high perceived value. The company focuses on
@@ -1621,6 +1939,21 @@ LifeWear promise of quality and timeless appeal. The campaign film shows Kareena
 wearing the Premium Linen Shirt, Linen Cotton Tapered Pants, and Linen Blend Easy
 Pants, while Sidharth wears the Premium Linen Shirt, Linen Blend Shorts, and Linen
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|. Create customer focus throughout the business. 9. Measure and manage customer expectations.
+
+2, Listen to the customer. 10. Build customer relationships and loyalty.
+
+3. Define and nurture your distinctive competence. 11. Define the business as a service business.
+
+4. Define marketing as market intelligence. 12. Commit to continuous improvement and innovation.
+5. Target customers precisely. 13. Manage culture along with strategy and structure.
+6. Manage for profitability, not sales volume. 14. Grow with partners and alliances.
+
+7. Make customer value the guiding star. 15, Destroy marketing bureaucracy.
+
+8. Let the customer define quality.
 --- page 4 ---
 Blend Relaxed Pants. The film highlights the comfort and versatility of the linen
 collection for daily wear. Assess the dimensions that are required to be taken into
@@ -1649,6 +1982,49 @@ collaboration marks a significant step in redefining how customers experience
 4   fashion—seamless, and effortlessly integrated into their lifestyles. Strengthening
 our relationship with Myntra, this initiative reinforces our shared vision of
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Physical Positioning
+
+Techrucal orientation
+
+Physical characteristics
+
+Objective Measures
+
+Data readily available
+
+Physical brand properties
+
+Large number of dimensians
+
+Represents impactor product
+specs
+
+Carect R&D implications
+
+Situational
+
+Variables Frontal Attack Leapfrog Flank Attack Encirclement Guerrilla Attack
+
+Primary Capture substantial Induce current Attract Attract a Capture a modest
+
+objective tepeat/replacement customers inmass substantial share _ substantial share of repeat/
+purchases from market to replace of new customers share of new replacement
+
+target competitor's their currentbrand inoneormore   customersina — purchases in
+current customers, with superior new major segments variety of smaller, several market
+
+attract new offering; attract — where customers’ specialized segments or
+customers among new customers needs are segments where — territories; attract
+later adopters by —_by providing different from customers’ needs a share of new
+offering lower price enhanced benefits. those ofearly   orpreferences — customersina
+or more attractive adopters inthe differ from those number of existing
+features. mass market, of early adopters segments,
+
+in the mass
+
+market.
 --- page 5 ---
 delivering unparalleled convenience without compromising on style and quality.
 With Libas now being available on M-Now, we are further empowering our
@@ -1672,6 +2048,31 @@ BL-   season which begun on March 22, had a significant impact on brand
 at any time. Evaluate and explain the contingency planning process that you can
 chalk out if a brand is amidst these situations
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Objective New Entry
+
+Maintain position as a product innovator New-to-the-world products; improvements or revisions to
+existing products
+
+Defend a current market-share position Improvements or revisions to existing products; additions to
+existing product line; cost reductions
+
+Establish a foothold in a future new market: New-to-the-world products; additions to existing product line;
+
+preempt a market segment Tepositionings
+
+Exploit technology in a new way New-to-the-world products; new product line; additions to or
+
+revision of existing product line
+
+Capitalize on distribution strengths New-to-the-world products; new product line; additions to or
+revisions of existing product line
+
+Provide a cash generator Additions to or revisions of existing product line;
+repositionings; cost reductions
+
+Use excess or off-season capacity New-to-the-world product; new product line
 --- page 6 ---
 Identifying critical assumptions
 about the future
@@ -1826,6 +2227,21 @@ LifeWear promise of quality and timeless appeal. The campaign film shows Kareena
 wearing the Premium Linen Shirt, Linen Cotton Tapered Pants, and Linen Blend Easy
 Pants, while Sidharth wears the Premium Linen Shirt, Linen Blend Shorts, and Linen
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|. Create customer focus throughout the business. 9. Measure and manage customer expectations.
+
+2, Listen to the customer. 10. Build customer relationships and loyalty.
+
+3. Define and nurture your distinctive competence. 11. Define the business as a service business.
+
+4. Define marketing as market intelligence. 12. Commit to continuous improvement and innovation.
+5. Target customers precisely. 13. Manage culture along with strategy and structure.
+6. Manage for profitability, not sales volume. 14. Grow with partners and alliances.
+
+7. Make customer value the guiding star. 15, Destroy marketing bureaucracy.
+
+8. Let the customer define quality.
 --- page 4 ---
 Blend Relaxed Pants. The film highlights the comfort and versatility of the linen
 collection for daily wear. Assess the dimensions that are required to be taken into
@@ -1854,6 +2270,49 @@ collaboration marks a significant step in redefining how customers experience
 4   fashion—seamless, and effortlessly integrated into their lifestyles. Strengthening
 our relationship with Myntra, this initiative reinforces our shared vision of
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Physical Positioning
+
+Techrucal orientation
+
+Physical characteristics
+
+Objective Measures
+
+Data readily available
+
+Physical brand properties
+
+Large number of dimensians
+
+Represents impactor product
+specs
+
+Carect R&D implications
+
+Situational
+
+Variables Frontal Attack Leapfrog Flank Attack Encirclement Guerrilla Attack
+
+Primary Capture substantial Induce current Attract Attract a Capture a modest
+
+objective tepeat/replacement customers inmass substantial share _ substantial share of repeat/
+purchases from market to replace of new customers share of new replacement
+
+target competitor's their currentbrand inoneormore   customersina — purchases in
+current customers, with superior new major segments variety of smaller, several market
+
+attract new offering; attract — where customers’ specialized segments or
+customers among new customers needs are segments where — territories; attract
+later adopters by —_by providing different from customers’ needs a share of new
+offering lower price enhanced benefits. those ofearly   orpreferences — customersina
+or more attractive adopters inthe differ from those number of existing
+features. mass market, of early adopters segments,
+
+in the mass
+
+market.
 --- page 5 ---
 delivering unparalleled convenience without compromising on style and quality.
 With Libas now being available on M-Now, we are further empowering our
@@ -1877,6 +2336,31 @@ BL-   season which begun on March 22, had a significant impact on brand
 at any time. Evaluate and explain the contingency planning process that you can
 chalk out if a brand is amidst these situations
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Objective New Entry
+
+Maintain position as a product innovator New-to-the-world products; improvements or revisions to
+existing products
+
+Defend a current market-share position Improvements or revisions to existing products; additions to
+existing product line; cost reductions
+
+Establish a foothold in a future new market: New-to-the-world products; additions to existing product line;
+
+preempt a market segment Tepositionings
+
+Exploit technology in a new way New-to-the-world products; new product line; additions to or
+
+revision of existing product line
+
+Capitalize on distribution strengths New-to-the-world products; new product line; additions to or
+revisions of existing product line
+
+Provide a cash generator Additions to or revisions of existing product line;
+repositionings; cost reductions
+
+Use excess or off-season capacity New-to-the-world product; new product line
 --- page 6 ---
 Identifying critical assumptions
 about the future
@@ -2031,6 +2515,21 @@ LifeWear promise of quality and timeless appeal. The campaign film shows Kareena
 wearing the Premium Linen Shirt, Linen Cotton Tapered Pants, and Linen Blend Easy
 Pants, while Sidharth wears the Premium Linen Shirt, Linen Blend Shorts, and Linen
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|. Create customer focus throughout the business. 9. Measure and manage customer expectations.
+
+2, Listen to the customer. 10. Build customer relationships and loyalty.
+
+3. Define and nurture your distinctive competence. 11. Define the business as a service business.
+
+4. Define marketing as market intelligence. 12. Commit to continuous improvement and innovation.
+5. Target customers precisely. 13. Manage culture along with strategy and structure.
+6. Manage for profitability, not sales volume. 14. Grow with partners and alliances.
+
+7. Make customer value the guiding star. 15, Destroy marketing bureaucracy.
+
+8. Let the customer define quality.
 --- page 4 ---
 Blend Relaxed Pants. The film highlights the comfort and versatility of the linen
 collection for daily wear. Assess the dimensions that are required to be taken into
@@ -2059,6 +2558,49 @@ collaboration marks a significant step in redefining how customers experience
 4   fashion—seamless, and effortlessly integrated into their lifestyles. Strengthening
 our relationship with Myntra, this initiative reinforces our shared vision of
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Physical Positioning
+
+Techrucal orientation
+
+Physical characteristics
+
+Objective Measures
+
+Data readily available
+
+Physical brand properties
+
+Large number of dimensians
+
+Represents impactor product
+specs
+
+Carect R&D implications
+
+Situational
+
+Variables Frontal Attack Leapfrog Flank Attack Encirclement Guerrilla Attack
+
+Primary Capture substantial Induce current Attract Attract a Capture a modest
+
+objective tepeat/replacement customers inmass substantial share _ substantial share of repeat/
+purchases from market to replace of new customers share of new replacement
+
+target competitor's their currentbrand inoneormore   customersina — purchases in
+current customers, with superior new major segments variety of smaller, several market
+
+attract new offering; attract — where customers’ specialized segments or
+customers among new customers needs are segments where — territories; attract
+later adopters by —_by providing different from customers’ needs a share of new
+offering lower price enhanced benefits. those ofearly   orpreferences — customersina
+or more attractive adopters inthe differ from those number of existing
+features. mass market, of early adopters segments,
+
+in the mass
+
+market.
 --- page 5 ---
 delivering unparalleled convenience without compromising on style and quality.
 With Libas now being available on M-Now, we are further empowering our
@@ -2082,6 +2624,31 @@ BL-   season which begun on March 22, had a significant impact on brand
 at any time. Evaluate and explain the contingency planning process that you can
 chalk out if a brand is amidst these situations
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Objective New Entry
+
+Maintain position as a product innovator New-to-the-world products; improvements or revisions to
+existing products
+
+Defend a current market-share position Improvements or revisions to existing products; additions to
+existing product line; cost reductions
+
+Establish a foothold in a future new market: New-to-the-world products; additions to existing product line;
+
+preempt a market segment Tepositionings
+
+Exploit technology in a new way New-to-the-world products; new product line; additions to or
+
+revision of existing product line
+
+Capitalize on distribution strengths New-to-the-world products; new product line; additions to or
+revisions of existing product line
+
+Provide a cash generator Additions to or revisions of existing product line;
+repositionings; cost reductions
+
+Use excess or off-season capacity New-to-the-world product; new product line
 --- page 6 ---
 Identifying critical assumptions
 about the future
@@ -2236,6 +2803,21 @@ LifeWear promise of quality and timeless appeal. The campaign film shows Kareena
 wearing the Premium Linen Shirt, Linen Cotton Tapered Pants, and Linen Blend Easy
 Pants, while Sidharth wears the Premium Linen Shirt, Linen Blend Shorts, and Linen
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|. Create customer focus throughout the business. 9. Measure and manage customer expectations.
+
+2, Listen to the customer. 10. Build customer relationships and loyalty.
+
+3. Define and nurture your distinctive competence. 11. Define the business as a service business.
+
+4. Define marketing as market intelligence. 12. Commit to continuous improvement and innovation.
+5. Target customers precisely. 13. Manage culture along with strategy and structure.
+6. Manage for profitability, not sales volume. 14. Grow with partners and alliances.
+
+7. Make customer value the guiding star. 15, Destroy marketing bureaucracy.
+
+8. Let the customer define quality.
 --- page 4 ---
 Blend Relaxed Pants. The film highlights the comfort and versatility of the linen
 collection for daily wear. Assess the dimensions that are required to be taken into
@@ -2264,6 +2846,49 @@ collaboration marks a significant step in redefining how customers experience
 4   fashion—seamless, and effortlessly integrated into their lifestyles. Strengthening
 our relationship with Myntra, this initiative reinforces our shared vision of
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Physical Positioning
+
+Techrucal orientation
+
+Physical characteristics
+
+Objective Measures
+
+Data readily available
+
+Physical brand properties
+
+Large number of dimensians
+
+Represents impactor product
+specs
+
+Carect R&D implications
+
+Situational
+
+Variables Frontal Attack Leapfrog Flank Attack Encirclement Guerrilla Attack
+
+Primary Capture substantial Induce current Attract Attract a Capture a modest
+
+objective tepeat/replacement customers inmass substantial share _ substantial share of repeat/
+purchases from market to replace of new customers share of new replacement
+
+target competitor's their currentbrand inoneormore   customersina — purchases in
+current customers, with superior new major segments variety of smaller, several market
+
+attract new offering; attract — where customers’ specialized segments or
+customers among new customers needs are segments where — territories; attract
+later adopters by —_by providing different from customers’ needs a share of new
+offering lower price enhanced benefits. those ofearly   orpreferences — customersina
+or more attractive adopters inthe differ from those number of existing
+features. mass market, of early adopters segments,
+
+in the mass
+
+market.
 --- page 5 ---
 delivering unparalleled convenience without compromising on style and quality.
 With Libas now being available on M-Now, we are further empowering our
@@ -2287,6 +2912,31 @@ BL-   season which begun on March 22, had a significant impact on brand
 at any time. Evaluate and explain the contingency planning process that you can
 chalk out if a brand is amidst these situations
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Objective New Entry
+
+Maintain position as a product innovator New-to-the-world products; improvements or revisions to
+existing products
+
+Defend a current market-share position Improvements or revisions to existing products; additions to
+existing product line; cost reductions
+
+Establish a foothold in a future new market: New-to-the-world products; additions to existing product line;
+
+preempt a market segment Tepositionings
+
+Exploit technology in a new way New-to-the-world products; new product line; additions to or
+
+revision of existing product line
+
+Capitalize on distribution strengths New-to-the-world products; new product line; additions to or
+revisions of existing product line
+
+Provide a cash generator Additions to or revisions of existing product line;
+repositionings; cost reductions
+
+Use excess or off-season capacity New-to-the-world product; new product line
 --- page 6 ---
 Identifying critical assumptions
 about the future
@@ -2441,6 +3091,21 @@ LifeWear promise of quality and timeless appeal. The campaign film shows Kareena
 wearing the Premium Linen Shirt, Linen Cotton Tapered Pants, and Linen Blend Easy
 Pants, while Sidharth wears the Premium Linen Shirt, Linen Blend Shorts, and Linen
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+|. Create customer focus throughout the business. 9. Measure and manage customer expectations.
+
+2, Listen to the customer. 10. Build customer relationships and loyalty.
+
+3. Define and nurture your distinctive competence. 11. Define the business as a service business.
+
+4. Define marketing as market intelligence. 12. Commit to continuous improvement and innovation.
+5. Target customers precisely. 13. Manage culture along with strategy and structure.
+6. Manage for profitability, not sales volume. 14. Grow with partners and alliances.
+
+7. Make customer value the guiding star. 15, Destroy marketing bureaucracy.
+
+8. Let the customer define quality.
 --- page 4 ---
 Blend Relaxed Pants. The film highlights the comfort and versatility of the linen
 collection for daily wear. Assess the dimensions that are required to be taken into
@@ -2469,6 +3134,49 @@ collaboration marks a significant step in redefining how customers experience
 4   fashion—seamless, and effortlessly integrated into their lifestyles. Strengthening
 our relationship with Myntra, this initiative reinforces our shared vision of
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+Physical Positioning
+
+Techrucal orientation
+
+Physical characteristics
+
+Objective Measures
+
+Data readily available
+
+Physical brand properties
+
+Large number of dimensians
+
+Represents impactor product
+specs
+
+Carect R&D implications
+
+Situational
+
+Variables Frontal Attack Leapfrog Flank Attack Encirclement Guerrilla Attack
+
+Primary Capture substantial Induce current Attract Attract a Capture a modest
+
+objective tepeat/replacement customers inmass substantial share _ substantial share of repeat/
+purchases from market to replace of new customers share of new replacement
+
+target competitor's their currentbrand inoneormore   customersina — purchases in
+current customers, with superior new major segments variety of smaller, several market
+
+attract new offering; attract — where customers’ specialized segments or
+customers among new customers needs are segments where — territories; attract
+later adopters by —_by providing different from customers’ needs a share of new
+offering lower price enhanced benefits. those ofearly   orpreferences — customersina
+or more attractive adopters inthe differ from those number of existing
+features. mass market, of early adopters segments,
+
+in the mass
+
+market.
 --- page 5 ---
 delivering unparalleled convenience without compromising on style and quality.
 With Libas now being available on M-Now, we are further empowering our
@@ -2492,6 +3200,31 @@ BL-   season which begun on March 22, had a significant impact on brand
 at any time. Evaluate and explain the contingency planning process that you can
 chalk out if a brand is amidst these situations
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Objective New Entry
+
+Maintain position as a product innovator New-to-the-world products; improvements or revisions to
+existing products
+
+Defend a current market-share position Improvements or revisions to existing products; additions to
+existing product line; cost reductions
+
+Establish a foothold in a future new market: New-to-the-world products; additions to existing product line;
+
+preempt a market segment Tepositionings
+
+Exploit technology in a new way New-to-the-world products; new product line; additions to or
+
+revision of existing product line
+
+Capitalize on distribution strengths New-to-the-world products; new product line; additions to or
+revisions of existing product line
+
+Provide a cash generator Additions to or revisions of existing product line;
+repositionings; cost reductions
+
+Use excess or off-season capacity New-to-the-world product; new product line
 --- page 6 ---
 Identifying critical assumptions
 about the future
@@ -2664,6 +3397,17 @@ o Based on what people actually do
 Limitations
 o Typically not possible for new-to-the-world products
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Follower
+
+* Ability to take advantage of pioneer’s positioning mistakes
+* Ability to take advantage of pioneer’s product mistakes
+
+« Ability to take advantage of pioneer’s marketing mistakes
+* Ability to take advantage of latest technology
+
++ Ability to take advantage of pioneer’s limited resources
 --- page 4 ---
 o Requires prior examples to observe
 o Surveys or focus groups
@@ -2781,6 +3525,29 @@ CO-2;   [10]
 SO-;
 BL-6
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+What changes in the environment have negatively
+affected the current strategy?
+
+What changes have major competitors made in their
+objectives and strategies?
+
+What changes have occurred in the industry in such
+attributes as capacity, entry barriers, and substitute
+products?
+
+What new opportunities or threats have derived from
+changes in the environment, competitors’ strategies, or
+the
+
+nature of the industry?
+
+What changes have occurred in the industry’s key
+success factors?
+
+To what extent is the firm’s current strategy consistent
+with the preceding changes?
 ````
 
 ## 2024-25 · Re-Exam · Sem 10 · Answer key · paper b980c25317b8
@@ -2926,6 +3693,17 @@ o Based on what people actually do
 Limitations
 o Typically not possible for new-to-the-world products
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+Follower
+
+* Ability to take advantage of pioneer’s positioning mistakes
+* Ability to take advantage of pioneer’s product mistakes
+
+« Ability to take advantage of pioneer’s marketing mistakes
+* Ability to take advantage of latest technology
+
++ Ability to take advantage of pioneer’s limited resources
 --- page 4 ---
 o Requires prior examples to observe
 o Surveys or focus groups
@@ -3043,4 +3821,27 @@ CO-2;   [10]
 SO-;
 BL-6
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+What changes in the environment have negatively
+affected the current strategy?
+
+What changes have major competitors made in their
+objectives and strategies?
+
+What changes have occurred in the industry in such
+attributes as capacity, entry barriers, and substitute
+products?
+
+What new opportunities or threats have derived from
+changes in the environment, competitors’ strategies, or
+the
+
+nature of the industry?
+
+What changes have occurred in the industry’s key
+success factors?
+
+To what extent is the firm’s current strategy consistent
+with the preceding changes?
 ````

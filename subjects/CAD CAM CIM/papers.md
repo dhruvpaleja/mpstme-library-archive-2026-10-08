@@ -226,6 +226,63 @@ a.
 [10]
 Detail coding = 10 marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+2) Computed Points
+@Atu—0.2
+
+B(0.2) = (1.792, 4.424)
+@ Atu — 0.4
+
+B(0.4) = (3.584, 4.832)
+Oe Atu — 0.6
+
+B(0.6) = (5.256, 4.808)
+@ Atu — 0.8
+
+B(0.8) — (6.784, 4.976)
+
+@ CNC Program (FANUC Turning)
+
+01601;
+G21 G4e Goo G18;
+GSO S208;
+
+G96 S15@ Mes;
+
+Te1e1;
+Gee xS@ Z5; (Approach position)
+(--- Facing ---}
+
+Gel 7e Fe.2;
+
+Geo x5Se;
+
+(--- Step Turning ---)
+
+(@45 section)
+
+Geo X16 26;
+
+Gel 2-26 Fe.255
+
+(Chamfer/Fillet RS to @25)
+G@3 X25 7-25 RS;
+
+(925 section)
+G@1 7-38;
+
+(Transition R1le@ to @45)
+G@3 x45 Z-4@ R16;
+
+(945 section)
+Gel Z-7e;
+
+(--- Retract --
+GQo xX6Q 71e;
+
+Mes ;
+Mz@:
 --- page 5 ---
 b.
 Point to point motion system=2.5 marks
@@ -237,6 +294,22 @@ Definition =02 marks   [05]
 Explanation = 03 marks
 Total = 05 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+1) Point to point NC M/c a Workpart
+
+The movement of the cutting tool from gi
+one predefine position to another 2
+predefined position is consider, Tool path
+while the path of tool is irrelevant.
+Example drilling m/cs, punching m/cs 1 3
+and spot welding m/cs
+
+Tool
+
+starting
+
+point
 --- page 6 ---
 Q5   [20]
 a.   Importance of BOM in cost estimation and product management.
@@ -245,6 +318,68 @@ a.   Importance of BOM in cost estimation and product management.
 Any five points = 05 marks
 Total = 10 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+@ Importance of BOM in Cost Estimation
+
+1. Accurate Material Cost Calculation
+
+e BOM provides exact quantities of materials, enabling precise cost calculation.
+
+¢ Helps avoid underestimation or overestimation of product cost.
+
+2. Labor and Processing Cost Estimation
+
+e Each component in BOM is linked with manufacturing steps.
+
+e Enables estimation of machining, assembly, and processing costs.
+
+3. Budgeting and Pricing Decisions
+
+e BOM forms the basis for product pricing strategies.
+
+¢ Helps companies maintain profit margins by understanding total cost.
+
+4. Cost Control and Reduction
+
+e Identifies high-cost components.
+
+¢ Supports value engineering and material substitution.
+
+5. Supplier Cost Comparison
+
+e Helps in comparing prices from multiple vendors.
+
+« Enables cost-effective procurement decisions.
+
+@ Importance of BOM in Product Management
+
+1. Product Structure and Organization
+© Defines the hierarchical structure of a product.
+* Helps engineers understand relationships between parts and assemblies.
+
+2. Efficient Production Planning
+
+* Used in MRP (Material Requirement Planning) systems.
+* Ensures availability of materials at the right time.
+
+3. Inventory Management
+* Prevents overstocking or stockouts.
+© Improves warehouse efficiency and reduces carrying cost.
+
+4. Change Management (Engineering Changes)
+
+* BOM helps track design modifications.
+* Ensures updated components are used in production.
+
+5. Cross-Department Coordination
+
+* Acts as a common reference for design, production, and procurement teams.
+* Improves communication and reduces errors.
+
+6. Product Lifecycle Management (PLM)
+* BOM supports product tracking from design to disposal.
+* Helps in maintenance, repair, and upgrades.
 --- page 7 ---
 b. Sketch of CIM wheel, salient features of CIM system.
 [05]
@@ -315,6 +450,44 @@ Examples = 05 marks
 Detail Explanation = 05 marks
 Total = 10 marks
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Benefits:
+
+e High accuracy and productivity
+e Reduced human intervention
+
+4. Inspection & Quality Control Stage
+Activities:
+
+e Testing and ensuring product quality
+
+Role of CIM:
+
+e Use of CAQ (Computer-Aided Quality)
+
+e Automated inspection tools like CMM
+
+Benefits:
+
+¢ Consistent quality
+«Early defect detection
+
+@ 5. Distribution & Support Stage
+
+Activities:
+
+*¢ Product delivery, marketing, and after-sales service
+
+Role of CIM:
+
+e Use of ERP (Enterprise Resource Planning) for inventory and supply chain
+© Maintenance and service databases
+
+Benefits:
+
+e = Efficient logistics and inventory control
+e Improved customer satisfaction
 ````
 
 ## 2025-26 · Final-Exam · Sem 10 · paper a88f4006d2f3
@@ -539,6 +712,63 @@ a.
 [10]
 Detail coding = 10 marks
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+2) Computed Points
+@Atu—0.2
+
+B(0.2) = (1.792, 4.424)
+@ Atu — 0.4
+
+B(0.4) = (3.584, 4.832)
+Oe Atu — 0.6
+
+B(0.6) = (5.256, 4.808)
+@ Atu — 0.8
+
+B(0.8) — (6.784, 4.976)
+
+@ CNC Program (FANUC Turning)
+
+01601;
+G21 G4e Goo G18;
+GSO S208;
+
+G96 S15@ Mes;
+
+Te1e1;
+Gee xS@ Z5; (Approach position)
+(--- Facing ---}
+
+Gel 7e Fe.2;
+
+Geo x5Se;
+
+(--- Step Turning ---)
+
+(@45 section)
+
+Geo X16 26;
+
+Gel 2-26 Fe.255
+
+(Chamfer/Fillet RS to @25)
+G@3 X25 7-25 RS;
+
+(925 section)
+G@1 7-38;
+
+(Transition R1le@ to @45)
+G@3 x45 Z-4@ R16;
+
+(945 section)
+Gel Z-7e;
+
+(--- Retract --
+GQo xX6Q 71e;
+
+Mes ;
+Mz@:
 --- page 5 ---
 b.
 Point to point motion system=2.5 marks
@@ -550,6 +780,22 @@ Definition =02 marks   [05]
 Explanation = 03 marks
 Total = 05 marks
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+1) Point to point NC M/c a Workpart
+
+The movement of the cutting tool from gi
+one predefine position to another 2
+predefined position is consider, Tool path
+while the path of tool is irrelevant.
+Example drilling m/cs, punching m/cs 1 3
+and spot welding m/cs
+
+Tool
+
+starting
+
+point
 --- page 6 ---
 Q5   [20]
 a.   Importance of BOM in cost estimation and product management.
@@ -558,6 +804,68 @@ a.   Importance of BOM in cost estimation and product management.
 Any five points = 05 marks
 Total = 10 marks
 ********** 6 **********
+
+[Text in pictures on this page, read by OCR]
+@ Importance of BOM in Cost Estimation
+
+1. Accurate Material Cost Calculation
+
+e BOM provides exact quantities of materials, enabling precise cost calculation.
+
+¢ Helps avoid underestimation or overestimation of product cost.
+
+2. Labor and Processing Cost Estimation
+
+e Each component in BOM is linked with manufacturing steps.
+
+e Enables estimation of machining, assembly, and processing costs.
+
+3. Budgeting and Pricing Decisions
+
+e BOM forms the basis for product pricing strategies.
+
+¢ Helps companies maintain profit margins by understanding total cost.
+
+4. Cost Control and Reduction
+
+e Identifies high-cost components.
+
+¢ Supports value engineering and material substitution.
+
+5. Supplier Cost Comparison
+
+e Helps in comparing prices from multiple vendors.
+
+« Enables cost-effective procurement decisions.
+
+@ Importance of BOM in Product Management
+
+1. Product Structure and Organization
+© Defines the hierarchical structure of a product.
+* Helps engineers understand relationships between parts and assemblies.
+
+2. Efficient Production Planning
+
+* Used in MRP (Material Requirement Planning) systems.
+* Ensures availability of materials at the right time.
+
+3. Inventory Management
+* Prevents overstocking or stockouts.
+© Improves warehouse efficiency and reduces carrying cost.
+
+4. Change Management (Engineering Changes)
+
+* BOM helps track design modifications.
+* Ensures updated components are used in production.
+
+5. Cross-Department Coordination
+
+* Acts as a common reference for design, production, and procurement teams.
+* Improves communication and reduces errors.
+
+6. Product Lifecycle Management (PLM)
+* BOM supports product tracking from design to disposal.
+* Helps in maintenance, repair, and upgrades.
 --- page 7 ---
 b. Sketch of CIM wheel, salient features of CIM system.
 [05]
@@ -628,6 +936,44 @@ Examples = 05 marks
 Detail Explanation = 05 marks
 Total = 10 marks
 ********** 9 **********
+
+[Text in pictures on this page, read by OCR]
+Benefits:
+
+e High accuracy and productivity
+e Reduced human intervention
+
+4. Inspection & Quality Control Stage
+Activities:
+
+e Testing and ensuring product quality
+
+Role of CIM:
+
+e Use of CAQ (Computer-Aided Quality)
+
+e Automated inspection tools like CMM
+
+Benefits:
+
+¢ Consistent quality
+«Early defect detection
+
+@ 5. Distribution & Support Stage
+
+Activities:
+
+*¢ Product delivery, marketing, and after-sales service
+
+Role of CIM:
+
+e Use of ERP (Enterprise Resource Planning) for inventory and supply chain
+© Maintenance and service databases
+
+Benefits:
+
+e = Efficient logistics and inventory control
+e Improved customer satisfaction
 ````
 
 ## 2025-26 · Re-Exam · Sem 6 · paper 8cd9cc292414
@@ -3201,8 +3547,8 @@ a
 - Programmes: B.TECH INTEGRATED / MECHANICAL
 - Source: `02_Question_Papers/Legacy/B.TECH INTEGRATED/4th YEAR/MECHANICAL/Sem_07/CAD CAM CIM/CAD CAM CIM Batch 2018-19 Re Exam.pdf`
 - Printed on paper: max marks: 70; duration hours: 3
-- Text: ocr (4 pages), mean OCR confidence 69.1
-- 3 unreadable OCR lines (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
+- Text: ocr (4 pages), mean OCR confidence 80.3
+- 1 page scanned sideways or upside down, turned upright before OCR
 
 ````text
 SVKM’S NMIMS
@@ -3310,41 +3656,114 @@ c) Explain integration of CAQC with CAD and CAM. 04
 
 oy
 --- page 3 ---
-Siz
-o| ¢
-. w olG
-: S Ble
-g |=. 43/8
-S : . sll Pe Pe 18) 8
-a4 . 2S i= Oo 4/5 218i
-is Sl= Be e]S sp eye
-= Ss 2 212 210A
-s = | S Ele 4 2/2
-e ; zlz] 12 ele Sele _
-z Z2}2] |= gle slele &
-= Ele — & z|els & 1
-s Sig 5 S/5 Fs
-f = ; 3 =
-E a BS) Ly.
-g 4 > 5S
-8 zs} 68 2
-a = 5 é
-+8 a Fi, oh By}
-5 eo 3 bp] -B a
-2 & S 5 = SiS gla
-op eid 2/8 wo £ 5 oe PVE] 2 512
-& | oe ele) [Sls ee) S! |Al felg]s Als
-5|-2/& 8/9} Ole ‘eB. Sl sels =/ 2
-/eE/& > & Eo 2 = =] 5] 2 =] 5
-o/s] C)B} eo} pS o(S Lfo =] UC S/S/e]/ 2] oo 7 =IlS
-5] s| pb] =] Sle] o ale s/-B £/S] se] 8] c}s].€ =|
-&| 5) 2 zléjojg/2 lols fe E/Sis/S/<|z/e| |. =|)
-oo} 2 |S S|2} wl §} 8 clo Elm Bl/Ml=/O] wv}! §].2 - [22
-PI E}.o als e/2;= o/s] m 2 Go| oo] .bo] oe] S] 2] -e di ‘lele
-=/ -/'5 v} 8/=/ sla s) 2/8 me -s|.5).6) 81] 3] S. 5/3
-Sl sia Syms ola Ble Ble), Ee] Sl ele a =
-=| 2/2 EIGI6|CI2 Sele &|s #5) 5] 5/2) 5/2 - | ols
-ow,
+—_—'
+
+G Code Mining Functian®
+
+a Lathe Function*
+
+G00
+
+GO1
+
+Rapid Travel - axis motion at
+
+maximum speed
+
+Same as Milling
+
+G02
+
+Linear Interpolation - strai
+
+Motion at a controlled feedrate
+
+aught linear axis. | Same as Milling
+
+G03
+
+Clockwise circular motion using
+a single program block
+
+two
+
+axes | Same as Milling
+
+GO4
+
+Anticlockwise circular
+
+axes in.a single program block
+
+ar motion using two | Same as Milling
+
+A dwell, stoppage of axis motion,
+for a programmed length of time
+
+: Same as Milling
+
+610 Tool Length Offset Value Same as Milling
+G17 [XY plane selection {Same as Milling .
+G13 ZX plane selection Same as Milling
+G19 YZ plane selection | Same as Milling
+G20 - Inch Programming (some systems)
+G21 - | Metric Programming (some systems)
+- G22 Safety Zone Programming ‘Same as Milling
+G23 +! Cross through Safety Zone Same as Milling
+625 DS Leop (on seme systems) : .
+G27: _| Reference Point Return Check Same as Milling
+628 | Return to Reference Point [Same as Milling
+G29 Return from Reference Point Same as Milling
+G30 Return to Second Reference Point ; | Same as Milling
+G32 To Thread Cutting, constant lead
+G40 Cancel C utter Diameter Compensation ‘Cancel: tool nose radius,”
+GAL Cutter Diameter C ompensation, /efi Tool Nose Radius C ompensation, Jeff
+G42 | Cutter Diameter Con pensation. right ‘Fool'Nose Radius Compensation,
+j i Light
+G43 Tool Length Compensation ion (positive) ON | '
+G44 Tool Length C "ompensation (negative) ON -)
+G49 Tool Length Compensation OFF -
+G5O - Axjs Preset Command
+G6? - ~
+
+Pa ry
+| Mitror image far Danhia Tan)
+
+G Code Milling Function* Sees Lathe Function*
+G70 Inch Programming Finishing Cycle
+671 Metric Programming Stock Removal in Turning
+G72 - Stock Removal in Facing
+G73 e Pattern Repeating
+G74 - . Peck Drilling on Z axis |
+G15 l- . Groove Cutting on X axis
+G76 Fine Boring Cycle Multiple Threading Cycle
+G30 Cancel Canned Cycle -
+G8L Drilling Cycle . -
+G82 Counterboring Cycle -
+GE Deep Hole or Intermittent Peck Drilling -
+Cycle
+- .G84- | Tapping Cycle. -
+685 Boring or Reaming -
+(feed return to reference level)
+G86 Rapid Boring | -
+(rapid return to reference level) __
+G37 Boring Back, -
+G83__| Boring Manual Dwell -
+48g Boring Dwell’ -
+G90 Absolute Positioning Same as Milling
+G91 Incremental Positioning Same as Milling
+G92 __| Repositioning or resetting the ori gin point | -
+G94 - : Per Minute Feed Rate
+- ‘ ‘ (same systems)
+gs . Per Revolution. Feed Rate
+‘ + fois Sy Sica)
+696 Constant Surface Speed Control
+@97 Constant Surface Speed Control.
+Cel _
+“CR Return to Initial Level
+
+G99 Return to Reference Level
+Press: ON Miciantanlaindl
 --- page 4 ---
 AGN Se7e . Se FUNRCEORS (* Functions
 

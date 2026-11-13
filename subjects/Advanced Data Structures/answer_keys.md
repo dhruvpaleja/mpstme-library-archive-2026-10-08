@@ -9,6 +9,7 @@ Answer keys and model answers published on the portal, newest first.
 - Source: `02_Question_Papers/2024/Sem_05/Final-Exam/BTech_IT_7001/Advanced Data Structures/ANS_Advanced Data Structures(702IT0E009)_2024-2025.pdf` (+2 identical copies)
 - Printed on paper: max marks: 100; duration hours: 3
 - Text: text (17 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -135,6 +136,34 @@ knapsack are as shown below,
 Items: { Apple, Orange, Banana, Melon }
 Weights: { 2, 3, 1, 4 }
 ********** 3 **********
+
+[Text in pictures on this page, read by OCR]
+2 2 3 4 s 6
+START 3 2 ° s s aa
+END a s 7 ° 10 a2
+SELECTED
+START 3 2 o Ss s aa
+END a s 7 3 10 a2
+START[1]>=eND[O], SELECTED
+START 3 o Ss s aa
+—END Ss 7 J 10 a2
+START[2]<END[1], REJECTED
+START 3 2 s s aa
+END — s a ° 10 a2
+
+START[S]<END[1], REJECTED
+
+START ul 3 2 0 5
+
+END 3 4 5 7 10
+
+START[S]<END[4], REJECTED
+
+START 1 3 2 i) 5 8
+
+END 3 4 5 7 10
+
+START[6]>=END[4], SELECTED
 --- page 4 ---
 Profits: { 4, 5, 3, 7 }
 Knapsack capacity: 5
@@ -165,6 +194,24 @@ BL3 ; CO2   original probe.
 o Subsequent probe points are a quadratic number of positions
 from the original probe point.
 ********** 4 **********
+
+[Text in pictures on this page, read by OCR]
+hash € 89, 109) = 9
+
+hash C 18, 10 9) 8
+hash C 49, 10 9) 9
+hash C 58, 10 ) 8
+hash C€ 9, 10 ) 9
+
+After insert 89 After insert 18 After insert 49 After insert 58 After insert 9
+
+a9 a9 a9
+58 58
+
+c=)
+18 18 18 18
+
+89 89 89 89 89
 --- page 5 ---
 o Problem:
 • We may not be sure that we will probe all locations in
@@ -232,6 +279,14 @@ Q4   a   In the string “PQRSTUVSTUQR”, search for the presence of the
 [10]
 BL3; CO4   substring “STUVST” and find its index using Boyer Moore Horspool
 ********** 8 **********
+
+[Text in pictures on this page, read by OCR]
+fib(S)
+/ \
+fib(4) Fib(3)
+/ \ / \
+fib(3) fib(2) fib(2) #ib(1)
+, AN iN iN
 --- page 9 ---
 Algorithm.
 b Describe using an example why a self-balanced tree is more efficient
@@ -279,6 +334,21 @@ a match is found, then slides by 1 again to check for subsequent
 matches.
  Ex:
 ********** 10 **********
+
+[Text in pictures on this page, read by OCR]
+Fig a. 30,20,10 Fig b. 30,10,20 Fig c. 10,30,20 Fig d. 10,20,30
+
+£5 PM
+
+o Figa, b, c, d are BSTs with
+Fi 0, 30,
+ig e. 20, 30,10
+
+Fig f. 20,10,30 o eand fare with height 1, making
+
+(2) =o search effective.
+o Minimum height BST is
+obtained using AVL
 --- page 11 ---
 Performance:
  Best case is O(n), it occurs when the first character of the
@@ -322,6 +392,24 @@ structure.
  Social Networks use graphs to represent connections between
 users.
 ********** 11 **********
+
+[Text in pictures on this page, read by OCR]
+Pattern: abaa; searched string: ababbaabaaab
+
+ababbaabaaab 2 — iw ww we ee ee eee
+
+step 1 mismatch: 4th letter
+step 2 mismatch: ist letter
+step 3 mismatch: 3rd letter
+step 4 mismatch: ist letter
+step 5 mismatch: ist letter
+step 6 mismatch: 2nd letter
+step 7 success
+
+step 8 mismatch: ist letter
+step9 .#..mismatch: 2nd letter
+
+Runs with 9 window steps and 18 character comparisons
 --- page 12 ---
 ⚫ Social media like Facebook, LinkedIn uses graphs that store
 users, groups, check-ins, likes and more as nodes.

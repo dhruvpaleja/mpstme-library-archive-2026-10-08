@@ -190,6 +190,25 @@ bank provided or 3rd party provided such as UIDAI)
 6. Other details such as location, product code, mobile number, device details, etc. as
 required
 Page 5 of 7
+
+[Text in pictures on this page, read by OCR]
+Email Marketing
+
+E- marketing are essential for interacting with their customer directly and it
+
+is measurable marketing toot in banking sector since we get the right customer
+as already have qualified leads. There are more number of opportunities to
+encourage people to sign up for news letter and can collect their email id. After
+coHecting the email id banker have email list and then banker need create a
+valuable content and information for their email newsletters, ‘Now the banker
+can send out regular newsletters to stay people informative and engaged with
+bank about new product & services, useful articles, announcement about
+
+vacancies, events in branches, new polices. Valuable newsletter helps to build
+the brand loyalty and up sell their product and services.
+
+Social Media Marketing
+Social media marketing is one of
 --- page 6 ---
 Challenges :
 Challenges of UPI:

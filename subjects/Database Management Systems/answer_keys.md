@@ -75,6 +75,24 @@ ii. UPPER()
 Converts all characters in a string to uppercase.
 UPPER(string)
 Page 3 of 5
+
+[Text in pictures on this page, read by OCR]
+)
+SELECT WID, WNAME, JOIN DT FROM HCL ORDER BY JOIN_DT ASC;
+ii)
+
+SELECT WNAME, WAGE, (WAGE * 0.15) AS HRA FROM HCL;
+
+iii)
+
+SELECT * FROM HCL WHERE WAGE BETWEEN 30000 AND 60000;
+
+iv)
+
+SELECT * FROM HCL WHERE YEAR(JOIN_DT) = 2021;
+
+v)
+SELECT WID, WNAME FROM HCL WHERE WNAME LIKE '_ 1%';
 --- page 4 ---
 Example:
 SELECT UPPER('mysql tutorial') AS UppercaseText;
@@ -1930,6 +1948,24 @@ Ans.
 3. Find the names of readers who borrowed books for more than 7
 days.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Customer CustomerID | Name | Address | Contact |Amount Due
+e
+
+I i _
+date ee Invoice_No Customer_id | Date Payment | Delivery
+Terms terms
+Line Item
+File Invoice_No | Serial No. Product_code Quantity
+ee
+
+Prod: ——
+
+File “ct [Product_code | Description [Unit of Price per | Stock on
+measurement | Unit hand
+
+Fig.9.6 Relational data model for a customer invoicing system
 --- page 6 ---
 πName((σDays > 7(BORROW)⋈READER))
 4. Find the titles of books borrowed by readers from Mumbai.
@@ -2560,6 +2596,24 @@ Ans.
 3. Find the names of readers who borrowed books for more than 7
 days.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Customer CustomerID | Name | Address | Contact |Amount Due
+e
+
+I i _
+date ee Invoice_No Customer_id | Date Payment | Delivery
+Terms terms
+Line Item
+File Invoice_No | Serial No. Product_code Quantity
+ee
+
+Prod: ——
+
+File “ct [Product_code | Description [Unit of Price per | Stock on
+measurement | Unit hand
+
+Fig.9.6 Relational data model for a customer invoicing system
 --- page 6 ---
 πName((σDays > 7(BORROW)⋈READER))
 4. Find the titles of books borrowed by readers from Mumbai.
@@ -3190,6 +3244,24 @@ Ans.
 3. Find the names of readers who borrowed books for more than 7
 days.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Customer CustomerID | Name | Address | Contact |Amount Due
+e
+
+I i _
+date ee Invoice_No Customer_id | Date Payment | Delivery
+Terms terms
+Line Item
+File Invoice_No | Serial No. Product_code Quantity
+ee
+
+Prod: ——
+
+File “ct [Product_code | Description [Unit of Price per | Stock on
+measurement | Unit hand
+
+Fig.9.6 Relational data model for a customer invoicing system
 --- page 6 ---
 πName((σDays > 7(BORROW)⋈READER))
 4. Find the titles of books borrowed by readers from Mumbai.
@@ -3820,6 +3892,24 @@ Ans.
 3. Find the names of readers who borrowed books for more than 7
 days.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Customer CustomerID | Name | Address | Contact |Amount Due
+e
+
+I i _
+date ee Invoice_No Customer_id | Date Payment | Delivery
+Terms terms
+Line Item
+File Invoice_No | Serial No. Product_code Quantity
+ee
+
+Prod: ——
+
+File “ct [Product_code | Description [Unit of Price per | Stock on
+measurement | Unit hand
+
+Fig.9.6 Relational data model for a customer invoicing system
 --- page 6 ---
 πName((σDays > 7(BORROW)⋈READER))
 4. Find the titles of books borrowed by readers from Mumbai.
@@ -4589,6 +4679,24 @@ Ans.
 3. Find the names of readers who borrowed books for more than 7
 days.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Customer CustomerID | Name | Address | Contact |Amount Due
+e
+
+I i _
+date ee Invoice_No Customer_id | Date Payment | Delivery
+Terms terms
+Line Item
+File Invoice_No | Serial No. Product_code Quantity
+ee
+
+Prod: ——
+
+File “ct [Product_code | Description [Unit of Price per | Stock on
+measurement | Unit hand
+
+Fig.9.6 Relational data model for a customer invoicing system
 --- page 6 ---
 πName((σDays > 7(BORROW)⋈READER))
 4. Find the titles of books borrowed by readers from Mumbai.
@@ -5219,6 +5327,24 @@ Ans.
 3. Find the names of readers who borrowed books for more than 7
 days.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Customer CustomerID | Name | Address | Contact |Amount Due
+e
+
+I i _
+date ee Invoice_No Customer_id | Date Payment | Delivery
+Terms terms
+Line Item
+File Invoice_No | Serial No. Product_code Quantity
+ee
+
+Prod: ——
+
+File “ct [Product_code | Description [Unit of Price per | Stock on
+measurement | Unit hand
+
+Fig.9.6 Relational data model for a customer invoicing system
 --- page 6 ---
 πName((σDays > 7(BORROW)⋈READER))
 4. Find the titles of books borrowed by readers from Mumbai.
@@ -5849,6 +5975,24 @@ Ans.
 3. Find the names of readers who borrowed books for more than 7
 days.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Customer CustomerID | Name | Address | Contact |Amount Due
+e
+
+I i _
+date ee Invoice_No Customer_id | Date Payment | Delivery
+Terms terms
+Line Item
+File Invoice_No | Serial No. Product_code Quantity
+ee
+
+Prod: ——
+
+File “ct [Product_code | Description [Unit of Price per | Stock on
+measurement | Unit hand
+
+Fig.9.6 Relational data model for a customer invoicing system
 --- page 6 ---
 πName((σDays > 7(BORROW)⋈READER))
 4. Find the titles of books borrowed by readers from Mumbai.
@@ -6479,6 +6623,24 @@ Ans.
 3. Find the names of readers who borrowed books for more than 7
 days.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Customer CustomerID | Name | Address | Contact |Amount Due
+e
+
+I i _
+date ee Invoice_No Customer_id | Date Payment | Delivery
+Terms terms
+Line Item
+File Invoice_No | Serial No. Product_code Quantity
+ee
+
+Prod: ——
+
+File “ct [Product_code | Description [Unit of Price per | Stock on
+measurement | Unit hand
+
+Fig.9.6 Relational data model for a customer invoicing system
 --- page 6 ---
 πName((σDays > 7(BORROW)⋈READER))
 4. Find the titles of books borrowed by readers from Mumbai.
@@ -7109,6 +7271,24 @@ Ans.
 3. Find the names of readers who borrowed books for more than 7
 days.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Customer CustomerID | Name | Address | Contact |Amount Due
+e
+
+I i _
+date ee Invoice_No Customer_id | Date Payment | Delivery
+Terms terms
+Line Item
+File Invoice_No | Serial No. Product_code Quantity
+ee
+
+Prod: ——
+
+File “ct [Product_code | Description [Unit of Price per | Stock on
+measurement | Unit hand
+
+Fig.9.6 Relational data model for a customer invoicing system
 --- page 6 ---
 πName((σDays > 7(BORROW)⋈READER))
 4. Find the titles of books borrowed by readers from Mumbai.
@@ -7739,6 +7919,24 @@ Ans.
 3. Find the names of readers who borrowed books for more than 7
 days.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Customer CustomerID | Name | Address | Contact |Amount Due
+e
+
+I i _
+date ee Invoice_No Customer_id | Date Payment | Delivery
+Terms terms
+Line Item
+File Invoice_No | Serial No. Product_code Quantity
+ee
+
+Prod: ——
+
+File “ct [Product_code | Description [Unit of Price per | Stock on
+measurement | Unit hand
+
+Fig.9.6 Relational data model for a customer invoicing system
 --- page 6 ---
 πName((σDays > 7(BORROW)⋈READER))
 4. Find the titles of books borrowed by readers from Mumbai.
@@ -8907,6 +9105,24 @@ Ans.
 3. Find the names of readers who borrowed books for more than 7
 days.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Customer CustomerID | Name | Address | Contact |Amount Due
+e
+
+I i _
+date ee Invoice_No Customer_id | Date Payment | Delivery
+Terms terms
+Line Item
+File Invoice_No | Serial No. Product_code Quantity
+ee
+
+Prod: ——
+
+File “ct [Product_code | Description [Unit of Price per | Stock on
+measurement | Unit hand
+
+Fig.9.6 Relational data model for a customer invoicing system
 --- page 6 ---
 πName((σDays > 7(BORROW)⋈READER))
 4. Find the titles of books borrowed by readers from Mumbai.
@@ -9537,6 +9753,24 @@ Ans.
 3. Find the names of readers who borrowed books for more than 7
 days.
 ********** 5 **********
+
+[Text in pictures on this page, read by OCR]
+Customer CustomerID | Name | Address | Contact |Amount Due
+e
+
+I i _
+date ee Invoice_No Customer_id | Date Payment | Delivery
+Terms terms
+Line Item
+File Invoice_No | Serial No. Product_code Quantity
+ee
+
+Prod: ——
+
+File “ct [Product_code | Description [Unit of Price per | Stock on
+measurement | Unit hand
+
+Fig.9.6 Relational data model for a customer invoicing system
 --- page 6 ---
 πName((σDays > 7(BORROW)⋈READER))
 4. Find the titles of books borrowed by readers from Mumbai.
@@ -10485,6 +10719,7 @@ Mark Split:
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_CyberSecurity_7010/Database Management Systems/ANS_Database Management Systems(702AI0C027)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
 - Text: text (14 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -11024,6 +11259,15 @@ CO- 3;
 SO - 2;   [5]
 BL-3
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+How to compute X * (step-by-step)
+
+Given R, F, and X C R:
+1. Initialize: X* < X.
+2. Scan FDs repeatedly:
+3. Repeat Step 2 until a full pass over JF” adds no new attributes to X + (i.e, fixpoint reached).
+4. Result: the final X ~ is the closure.
 --- page 14 ---
 d   "All the modern applications require big data, fast features development, flexible
 deployment, and the older database systems not competent enough, so the MongoDB was
@@ -11047,6 +11291,7 @@ architectures.
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_DS_7009/Database Management Systems/ANS_Database Management Systems(702AI0C027)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
 - Text: text (14 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -11586,6 +11831,15 @@ CO- 3;
 SO - 2;   [5]
 BL-3
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+How to compute X * (step-by-step)
+
+Given R, F, and X C R:
+1. Initialize: X* < X.
+2. Scan FDs repeatedly:
+3. Repeat Step 2 until a full pass over JF” adds no new attributes to X + (i.e, fixpoint reached).
+4. Result: the final X ~ is the closure.
 --- page 14 ---
 d   "All the modern applications require big data, fast features development, flexible
 deployment, and the older database systems not competent enough, so the MongoDB was
@@ -11609,6 +11863,7 @@ architectures.
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/BTech_IT_7001/Database Management Systems/ANS_Database Management Systems(702AI0C027)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
 - Text: text (14 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -12148,6 +12403,15 @@ CO- 3;
 SO - 2;   [5]
 BL-3
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+How to compute X * (step-by-step)
+
+Given R, F, and X C R:
+1. Initialize: X* < X.
+2. Scan FDs repeatedly:
+3. Repeat Step 2 until a full pass over JF” adds no new attributes to X + (i.e, fixpoint reached).
+4. Result: the final X ~ is the closure.
 --- page 14 ---
 d   "All the modern applications require big data, fast features development, flexible
 deployment, and the older database systems not competent enough, so the MongoDB was
@@ -12171,6 +12435,7 @@ architectures.
 - Source: `02_Question_Papers/2025/Sem_03/Re-Exam/MBATech_IT_7041/Database Management Systems/ANS_Database Management Systems(702AI0C027)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 05 Feb 2026
 - Text: text (14 pages)
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -12710,6 +12975,15 @@ CO- 3;
 SO - 2;   [5]
 BL-3
 ********** 13 **********
+
+[Text in pictures on this page, read by OCR]
+How to compute X * (step-by-step)
+
+Given R, F, and X C R:
+1. Initialize: X* < X.
+2. Scan FDs repeatedly:
+3. Repeat Step 2 until a full pass over JF” adds no new attributes to X + (i.e, fixpoint reached).
+4. Result: the final X ~ is the closure.
 --- page 14 ---
 d   "All the modern applications require big data, fast features development, flexible
 deployment, and the older database systems not competent enough, so the MongoDB was
@@ -12733,6 +13007,7 @@ architectures.
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_AIDS_7056/Database Management Systems/ANS_Database Management Systems(702AI0C027)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (16 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -12817,6 +13092,24 @@ the decomposed tables.
 3. Minimal Redundancy (1 Mark)
 • Decomposition should reduce duplicate data and avoid anomalies.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+
+(View Level) | View 1 View 2 View 3 View 4
+
+i ae
+
+(Logical Level) Conceptual Level
+
+l
+
+(Internal Schema) Physical Level
+
+LE
+eed
+St
+
+Levels of Data Abstraction
 --- page 3 ---
 Example:
 Instead of storing department details repeatedly with each student, separate
@@ -13384,6 +13677,7 @@ v. SELECT name FROM Hotel WHERE name LIKE 'T%';
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_AIML_7053/Database Management Systems/ANS_Database Management Systems(702AI0C027)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (16 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -13468,6 +13762,24 @@ the decomposed tables.
 3. Minimal Redundancy (1 Mark)
 • Decomposition should reduce duplicate data and avoid anomalies.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+
+(View Level) | View 1 View 2 View 3 View 4
+
+i ae
+
+(Logical Level) Conceptual Level
+
+l
+
+(Internal Schema) Physical Level
+
+LE
+eed
+St
+
+Levels of Data Abstraction
 --- page 3 ---
 Example:
 Instead of storing department details repeatedly with each student, separate
@@ -14035,6 +14347,7 @@ v. SELECT name FROM Hotel WHERE name LIKE 'T%';
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_AI_7012/Database Management Systems/ANS_Database Management Systems(702AI0C027)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (16 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -14119,6 +14432,24 @@ the decomposed tables.
 3. Minimal Redundancy (1 Mark)
 • Decomposition should reduce duplicate data and avoid anomalies.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+
+(View Level) | View 1 View 2 View 3 View 4
+
+i ae
+
+(Logical Level) Conceptual Level
+
+l
+
+(Internal Schema) Physical Level
+
+LE
+eed
+St
+
+Levels of Data Abstraction
 --- page 3 ---
 Example:
 Instead of storing department details repeatedly with each student, separate
@@ -14686,6 +15017,7 @@ v. SELECT name FROM Hotel WHERE name LIKE 'T%';
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_CSBS_7036/Database Management Systems/ANS_Database Management Systems(702AI0C027)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (16 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -14770,6 +15102,24 @@ the decomposed tables.
 3. Minimal Redundancy (1 Mark)
 • Decomposition should reduce duplicate data and avoid anomalies.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+
+(View Level) | View 1 View 2 View 3 View 4
+
+i ae
+
+(Logical Level) Conceptual Level
+
+l
+
+(Internal Schema) Physical Level
+
+LE
+eed
+St
+
+Levels of Data Abstraction
 --- page 3 ---
 Example:
 Instead of storing department details repeatedly with each student, separate
@@ -15337,6 +15687,7 @@ v. SELECT name FROM Hotel WHERE name LIKE 'T%';
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_CSE_DS_7057/Database Management Systems/ANS_Database Management Systems(702AI0C027)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (16 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -15421,6 +15772,24 @@ the decomposed tables.
 3. Minimal Redundancy (1 Mark)
 • Decomposition should reduce duplicate data and avoid anomalies.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+
+(View Level) | View 1 View 2 View 3 View 4
+
+i ae
+
+(Logical Level) Conceptual Level
+
+l
+
+(Internal Schema) Physical Level
+
+LE
+eed
+St
+
+Levels of Data Abstraction
 --- page 3 ---
 Example:
 Instead of storing department details repeatedly with each student, separate
@@ -15988,6 +16357,7 @@ v. SELECT name FROM Hotel WHERE name LIKE 'T%';
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_CS_7055/Database Management Systems/ANS_Database Management Systems(702AI0C027)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (16 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -16072,6 +16442,24 @@ the decomposed tables.
 3. Minimal Redundancy (1 Mark)
 • Decomposition should reduce duplicate data and avoid anomalies.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+
+(View Level) | View 1 View 2 View 3 View 4
+
+i ae
+
+(Logical Level) Conceptual Level
+
+l
+
+(Internal Schema) Physical Level
+
+LE
+eed
+St
+
+Levels of Data Abstraction
 --- page 3 ---
 Example:
 Instead of storing department details repeatedly with each student, separate
@@ -16639,6 +17027,7 @@ v. SELECT name FROM Hotel WHERE name LIKE 'T%';
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/BTech_Computer_7002/Database Management Systems/ANS_Database Management Systems(702AI0C027)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 02 May 2026
 - Text: mixed (16 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -16723,6 +17112,24 @@ the decomposed tables.
 3. Minimal Redundancy (1 Mark)
 • Decomposition should reduce duplicate data and avoid anomalies.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+
+(View Level) | View 1 View 2 View 3 View 4
+
+i ae
+
+(Logical Level) Conceptual Level
+
+l
+
+(Internal Schema) Physical Level
+
+LE
+eed
+St
+
+Levels of Data Abstraction
 --- page 3 ---
 Example:
 Instead of storing department details repeatedly with each student, separate
@@ -17290,6 +17697,7 @@ v. SELECT name FROM Hotel WHERE name LIKE 'T%';
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/MBATech_AI_7051/Database Management Systems/ANS_Database Management Systems(702AI0C027)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (16 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -17374,6 +17782,24 @@ the decomposed tables.
 3. Minimal Redundancy (1 Mark)
 • Decomposition should reduce duplicate data and avoid anomalies.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+
+(View Level) | View 1 View 2 View 3 View 4
+
+i ae
+
+(Logical Level) Conceptual Level
+
+l
+
+(Internal Schema) Physical Level
+
+LE
+eed
+St
+
+Levels of Data Abstraction
 --- page 3 ---
 Example:
 Instead of storing department details repeatedly with each student, separate
@@ -17941,6 +18367,7 @@ v. SELECT name FROM Hotel WHERE name LIKE 'T%';
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/MBATech_Computer_7047/Database Management Systems/ANS_Database Management Systems(702AI0C027)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (16 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -18025,6 +18452,24 @@ the decomposed tables.
 3. Minimal Redundancy (1 Mark)
 • Decomposition should reduce duplicate data and avoid anomalies.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+
+(View Level) | View 1 View 2 View 3 View 4
+
+i ae
+
+(Logical Level) Conceptual Level
+
+l
+
+(Internal Schema) Physical Level
+
+LE
+eed
+St
+
+Levels of Data Abstraction
 --- page 3 ---
 Example:
 Instead of storing department details repeatedly with each student, separate
@@ -18592,6 +19037,7 @@ v. SELECT name FROM Hotel WHERE name LIKE 'T%';
 - Source: `02_Question_Papers/2025/Sem_04/Re-Exam/MBATech_DS_7052/Database Management Systems/ANS_Database Management Systems(702AI0C027)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (16 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -18676,6 +19122,24 @@ the decomposed tables.
 3. Minimal Redundancy (1 Mark)
 • Decomposition should reduce duplicate data and avoid anomalies.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+
+(View Level) | View 1 View 2 View 3 View 4
+
+i ae
+
+(Logical Level) Conceptual Level
+
+l
+
+(Internal Schema) Physical Level
+
+LE
+eed
+St
+
+Levels of Data Abstraction
 --- page 3 ---
 Example:
 Instead of storing department details repeatedly with each student, separate
@@ -19243,6 +19707,7 @@ v. SELECT name FROM Hotel WHERE name LIKE 'T%';
 - Source: `02_Question_Papers/2025/Sem_08/Re-Exam/Integrated_Computer_7032/Database Management Systems/ANS_Database Management Systems(702AI0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (16 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -19327,6 +19792,24 @@ the decomposed tables.
 3. Minimal Redundancy (1 Mark)
 • Decomposition should reduce duplicate data and avoid anomalies.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+
+(View Level) | View 1 View 2 View 3 View 4
+
+i ae
+
+(Logical Level) Conceptual Level
+
+l
+
+(Internal Schema) Physical Level
+
+LE
+eed
+St
+
+Levels of Data Abstraction
 --- page 3 ---
 Example:
 Instead of storing department details repeatedly with each student, separate
@@ -19894,6 +20377,7 @@ v. SELECT name FROM Hotel WHERE name LIKE 'T%';
 - Source: `02_Question_Papers/2025/Sem_08/Re-Exam/Integrated_DS_7038/Database Management Systems/ANS_Database Management Systems(702AI0C001)_2025-2026.pdf`
 - Printed on paper: max marks: 100; duration hours: 3; exam date: 29 Jun 2026
 - Text: mixed (16 pages), mean OCR confidence 85.8
+- 1 unreadable OCR line (stamps, scribbles, blank areas) left out; the raw OCR is in `question_bank/extracted_text/`.
 
 ````text
 SYNOPTICS
@@ -19978,6 +20462,24 @@ the decomposed tables.
 3. Minimal Redundancy (1 Mark)
 • Decomposition should reduce duplicate data and avoid anomalies.
 ********** 2 **********
+
+[Text in pictures on this page, read by OCR]
+
+(View Level) | View 1 View 2 View 3 View 4
+
+i ae
+
+(Logical Level) Conceptual Level
+
+l
+
+(Internal Schema) Physical Level
+
+LE
+eed
+St
+
+Levels of Data Abstraction
 --- page 3 ---
 Example:
 Instead of storing department details repeatedly with each student, separate

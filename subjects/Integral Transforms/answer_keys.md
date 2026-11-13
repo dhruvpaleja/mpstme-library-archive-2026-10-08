@@ -3772,6 +3772,28 @@ SO- b   𝑠
 BL-   0,   𝑠≥2
 1
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+© Step 1 (1 mark): Definition
+cts} = | esta
+
+® Step 2 (1 mark): Apply limits
+
+3
+= | te “dt
+0
+
+[eet = fal = 1a
+
+® Step 3 (2 marks): Integration
+
+8 8"
+
+® Step 4 (2 marks): Apply limits
+
+cae 3-6" (245)
+
+3 8
 --- page 13 ---
 Co-
 2,
@@ -4550,6 +4572,28 @@ SO- b   𝑠
 BL-   0,   𝑠≥2
 1
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+© Step 1 (1 mark): Definition
+cts} = | esta
+
+® Step 2 (1 mark): Apply limits
+
+3
+= | te “dt
+0
+
+[eet = fal = 1a
+
+® Step 3 (2 marks): Integration
+
+8 8"
+
+® Step 4 (2 marks): Apply limits
+
+cae 3-6" (245)
+
+3 8
 --- page 13 ---
 Co-
 2,
@@ -5328,6 +5372,28 @@ SO- b   𝑠
 BL-   0,   𝑠≥2
 1
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+© Step 1 (1 mark): Definition
+cts} = | esta
+
+® Step 2 (1 mark): Apply limits
+
+3
+= | te “dt
+0
+
+[eet = fal = 1a
+
+® Step 3 (2 marks): Integration
+
+8 8"
+
+® Step 4 (2 marks): Apply limits
+
+cae 3-6" (245)
+
+3 8
 --- page 13 ---
 Co-
 2,
@@ -6106,6 +6172,28 @@ SO- b   𝑠
 BL-   0,   𝑠≥2
 1
 ********** 12 **********
+
+[Text in pictures on this page, read by OCR]
+© Step 1 (1 mark): Definition
+cts} = | esta
+
+® Step 2 (1 mark): Apply limits
+
+3
+= | te “dt
+0
+
+[eet = fal = 1a
+
+® Step 3 (2 marks): Integration
+
+8 8"
+
+® Step 4 (2 marks): Apply limits
+
+cae 3-6" (245)
+
+3 8
 --- page 13 ---
 Co-
 2,
