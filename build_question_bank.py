@@ -344,7 +344,7 @@ DEPARTMENTS = [                    # first match wins; programmes of other NMIMS
     (r'csbs|computer science and business', 'Computer Science and Business Systems'),
     (r'aiml|machine learning', 'AI and Machine Learning'),
     (r'aids|artificial intelligence (?:&|and) data science|ai & ds', 'AI and Data Science'),
-    (r'data scien|\bds\b|cseds', 'Data Science'),
+    (r'data scien|\bds\b|cseds|csds', 'Data Science'),
     (r'artifi|\bai\b', 'Artificial Intelligence'),
     (r'master of computer applications|\bmca\b', 'Computer Applications (MCA)'),
     (r'computer science|\bcs\b', 'Computer Science'),
